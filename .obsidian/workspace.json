@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3bcfd7183d7b2dc0",
+        "id": "e78fa971c0c4fc82",
         "type": "tabs",
         "children": [
           {
-            "id": "b2a78773bd0f0e9b",
+            "id": "88a7ea8ba60f0ec2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -183,7 +183,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b2a78773bd0f0e9b",
+  "active": "88a7ea8ba60f0ec2",
   "lastOpenFiles": [
     "wiki/arguments/Argument_郑_2023_上海三联书店.md",
     "wiki/index.md",

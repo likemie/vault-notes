@@ -1,10 +1,10 @@
 {
   "pluginList": [
-    "nothingislost/obsidian-auto-linker"
+    "kdnk/obsidian-automatic-linker"
   ],
   "pluginSubListFrozenVersion": [
     {
-      "repo": "nothingislost/obsidian-auto-linker",
+      "repo": "kdnk/obsidian-automatic-linker",
       "version": "latest"
     }
   ],
