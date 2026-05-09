@@ -1,0 +1,18 @@
+name: Trigger Quartz Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Trigger Quartz rebuild
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.QUARTZ_TRIGGER_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/likemie/likemie.github.io/dispatches \
+            -d '{"event_type":"vault-updated"}'
