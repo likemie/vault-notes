@@ -11,12 +11,14 @@
             "id": "79737c99d19b469f",
             "type": "leaf",
             "state": {
-              "type": "epub",
+              "type": "markdown",
               "state": {
-                "file": "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub"
+                "file": "wiki/arguments/Argument_郑_2023_上海三联书店.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "doc-epub",
-              "title": "金榜题名之后_大学生出路分化之谜"
+              "icon": "lucide-file",
+              "title": "Argument_郑_2023_上海三联书店"
             }
           }
         ]
@@ -187,6 +189,7 @@
   },
   "active": "79737c99d19b469f",
   "lastOpenFiles": [
+    "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
     "wiki/arguments/Argument_郑_2023_上海三联书店.md",
     "wiki/persons/Didier Eribon.md",
     "wiki/concepts/Cultural Disorientation.md",
@@ -211,11 +214,9 @@
     "wiki/concepts/Work Meaning Schemas (Zheng).md",
     "wiki/concepts/Buen Vivir.md",
     "books/郑_2023_上海三联书店/案例样本.jpeg",
-    "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
     "books/郑_2023_上海三联书店/附录一个案描述3.jpeg",
     "wiki/concepts/Cult of the Guru.md",
     "wiki/concepts/Bildung.md",
-    "wiki/concepts/Atomisation of Knowledge and Skills.md",
     "templater",
     "wiki/templater",
     "wiki/Templater",

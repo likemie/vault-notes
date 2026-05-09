@@ -52,7 +52,7 @@ updated: 2026-05-09
 
 - [[Goal-Controlled Mode]] — 原创概念，描述优势阶层学生策略性组织大学生活的实践图式
 - [[Intuition-Dependent Mode]] — 原创概念，描述弱势阶层学生凭直觉被动应对大学生活的实践图式
-- [[Cultural Barrier in Higher Education]] — 系统阐述的概念，揭示精英大学中的隐性文化障碍及其对教育公平的侵蚀
+- [[Cultural Barrier in Higher Education]] — 系统阐述的概念，揭示精英大学中的隐性文化障碍及其对教育公平的侵蚀，第六章进一步厘清为[[Cultural Disembedding|文化脱嵌]]和[[Cultural Disorientation|文化迷失]]两重维度
 - [[Graduation Pathway Typology (Zheng)]] — 在双模式基础上纳入价值信念维度，提出2×2四分类模型（自主驱动者/机会主义者/迷失无从者/价值归顺者）
 - [[Work Meaning Schemas (Zheng)]] — 揭示名校大学生建构工作意义的三种文化图式（地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达）及其代内分化
 
