@@ -2,7 +2,7 @@
 title: Academic Engagement
 type: concept
 tags: [academic-engagement, student-engagement, higher-education, level/higher-ed]
-related_concepts: ["[[Social Engagement]]", "[[Student Engagement]]", "[[Student Involvement (Astin, 1984)]]", "[[Academic and Social Integration]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]"]
+related_concepts: ["[[Social Engagement]]", "[[Student Engagement]]", "[[Student Involvement]]", "[[Academic and Social Integration]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]"]
 related_persons: ["[[George Kuh]]", "[[Vincent Tinto]]", "[[Alexander Astin]]"]
 sources: ["[[郑_2023_上海三联书店]]"]
 confidence: medium
@@ -27,7 +27,7 @@ updated: 2026-05-08
 
 - **Tinto 的学业融入（Academic Integration）**：Tinto（1993）在 [[Academic and Social Integration|学习／社交融入理论]] 中，将学业融入定义为学生顺利地与学校学术方面的正式规范达成一致——包括修课与学分制度、学术规范要求等。学业融入是融入大学的两大维度之一（郑雅君，2023，引 Tinto, 1993）
 - **Kuh 的学业投入操作化**：Kuh（1991）在 [[Student Engagement]] 理论中，将学业投入操作化为可观察的行为指标——学生在课程学习、作业完成、师生学术互动等活动中的时间和精力分配（郑雅君，2023，引 Kuh, 1991）
-- **Astin 的涉入能量观**：[[Student Involvement (Astin, 1984)|Astin 的涉入理论]] 为学业投入提供了"能量"视角——学业投入不仅有时间长短（量），更有专注和投入程度（质）（郑雅君，2023，引 Astin, 1984）
+- **Astin 的涉入能量观**：[[Student Involvement|Astin 的涉入理论]] 为学业投入提供了"能量"视角——学业投入不仅有时间长短（量），更有专注和投入程度（质）（郑雅君，2023，引 Astin, 1984）
 
 ---
 

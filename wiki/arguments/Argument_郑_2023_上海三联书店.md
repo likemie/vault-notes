@@ -22,7 +22,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Academic and Social Integration]]"
   - "[[Student Engagement]]"
-  - "[[Student Involvement (Astin, 1984)]]"
+  - "[[Student Involvement]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Symbolic Boundary]]"

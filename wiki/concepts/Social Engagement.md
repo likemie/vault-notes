@@ -2,7 +2,7 @@
 title: Social Engagement
 type: concept
 tags: [social-engagement, student-engagement, higher-education, level/higher-ed]
-related_concepts: ["[[Academic Engagement]]", "[[Student Engagement]]", "[[Student Involvement (Astin, 1984)]]", "[[Academic and Social Integration]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Employability]]", "[[Economy of Experience]]", "[[Cultural Barrier in Higher Education]]"]
+related_concepts: ["[[Academic Engagement]]", "[[Student Engagement]]", "[[Student Involvement]]", "[[Academic and Social Integration]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Employability]]", "[[Economy of Experience]]", "[[Cultural Barrier in Higher Education]]"]
 related_persons: ["[[George Kuh]]", "[[Vincent Tinto]]", "[[Phillip Brown]]"]
 sources: ["[[郑_2023_上海三联书店]]"]
 confidence: medium

@@ -2,7 +2,7 @@
 title: Student Engagement
 type: concept
 tags: [student-engagement, higher-education, level/higher-ed]
-related_concepts: ["[[Academic and Social Integration]]", "[[Student Involvement (Astin, 1984)]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]"]
+related_concepts: ["[[Academic and Social Integration]]", "[[Student Involvement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]"]
 related_persons: ["[[George Kuh]]", "[[Alexander Astin]]"]
 sources: ["[[郑_2023_上海三联书店]]"]
 confidence: medium
@@ -25,7 +25,7 @@ updated: 2026-05-08
 
 ### 与 Astin 学生涉入理论（Student Involvement）
 
-Kuh 的学生投入理论与 Alexander Astin（1984）的 [[Student Involvement (Astin, 1984)|学生涉入理论]]"异曲同工"——两者都以"学生参与教育环境的程度决定其教育成果"为核心假设，但 Kuh 更侧重可观察的行为性投入和学校的制度性支持（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）。Astin 理论的详细内容（五条涉入公理、与 Kuh 的差异、在郑雅君研究中的应用）见 [[Student Involvement (Astin, 1984)]]
+Kuh 的学生投入理论与 Alexander Astin（1984）的 [[Student Involvement|学生涉入理论]]"异曲同工"——两者都以"学生参与教育环境的程度决定其教育成果"为核心假设，但 Kuh 更侧重可观察的行为性投入和学校的制度性支持（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）。Astin 理论的详细内容（五条涉入公理、与 Kuh 的差异、在郑雅君研究中的应用）见 [[Student Involvement]]
 
 ### 与 Tinto 融入理论的关系
 
