@@ -3,7 +3,7 @@ title: Knowledge Transfer
 aliases: ["知识转移", "geopolitics of knowledge transfer", "knowledge in motion"]
 type: concept
 tags: ["geopolitics-of-knowledge", "knowledge-economy", "region/global"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Forced Knowledge Transfer]]", "[[Knowledge Sabotage]]", "[[Economic and Industrial Espionage]]", "[[Narrative Knowledge]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Production]]", "[[Forced Knowledge Transfer]]", "[[Knowledge Sabotage]]", "[[Economic and Industrial Espionage]]", "[[Narrative Knowledge]]"]
 related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
 related_methods: []
 related_persons: ["[[Jean-François Lyotard]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]"]

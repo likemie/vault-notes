@@ -2,14 +2,15 @@
 title: Classical Geopolitics
 type: concept
 tags: [classical-geopolitics, geopolitics, territorial-power, nation-state, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Hub and Flow Imaginaries]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge Transfer]]"]
 related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
-related_persons: ["[[Sami Moisio]]", "[[Marcelo Parreira do Amaral]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
+related_persons: ["[[Sami Moisio]]", "[[Marcelo Parreira do Amaral]]", "[[James Partaken]]"]
+related_facts: ["[[Sino-American Trade War (2018)]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "[[Ch5_Partaken_2022]]"]
 confidence: medium
 status: draft
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-10
 ---
 
 ## 定义
@@ -29,9 +30,13 @@ updated: 2026-05-07
 
 ## 概念演变
 
+Partaken (2022) 追溯了该词更早的词源：英文名词"geopolitics"首次出现于 Emil Reich 1901 年在 *The International Monthly* 杂志上发表的论文 *England at close of Nineteenth Century*，可能是对瑞典政治哲学家 Rudolf Kjellén 一年前创造的德文词"Geopolitik"的翻译。该词在数十年间保持沉寂，二战期间重新浮现，1980 年代迎来第二次使用高潮（Partaken, 2022, p.67）。
+
+前缀"geo-"强调地理在政治中的至高重要性，可追溯至欧洲殖民主义。Francis Bacon 的"knowledge is power"（1597/1825）在 17 世纪表现为神学中的神圣属性（potestas Dei）——上帝全知故而全能。1871 年德国统一后，"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）成为德国地理教育和公共话语中的口号，为威廉德国和纳粹时期的扩张主义和霸权政治服务——同一句"知识即权力"，从神学属性演变为地缘政治教义（Partaken, 2022, p.67–68）。
+
 古典地缘政治概念在概念史上与德国国家社会主义对"第三帝国"的扩张企图相关，体现了"领土偏见"（territorial bias）——即人口天然地位于并附着于特定空间的观念。冷战期间的阵营形成（如北约）也是以民族国家为中心的古典地缘政治的典型体现（Thompson & Parreira do Amaral, 2022, p.10）。
 
-Moisio（2022）论证，尽管关系性地缘政治视角已在学术界发展，古典地缘政治的某些维度并未消失——在当代，这体现在强大国家（特别是中美之间）将大型科技公司视为代表国家利益的实体，"试图将世界划分为技术影响的势力范围"（Moisio, 2022, p.26）。
+Moisio（2022）论证，尽管关系性地缘政治视角已在学术界发展，古典地缘政治的某些维度并未消失——在当代，这体现在强大国家（特别是[[Sino-American Trade War (2018)|中美之间]]）将大型科技公司视为代表国家利益的实体，"试图将世界划分为技术影响的势力范围"（Moisio, 2022, p.26）。
 
 Parreira do Amaral (2022) 进一步补充了古典地缘政治概念的历史演变细节：地缘政治（Geopolitics）这一术语因与殖民和帝国意识形态的关联而具有"漫长且有争议的历史"（Parreira do Amaral, 2022, p.36）。古典地缘政治的正统观点曾为纳粹德国的侵略性扩张主义提供正当性，直接关联第二次世界大战的巨大灾难，导致该术语在战后几乎从政治词汇中消失——直至被美国政策顾问重新普及，特别是 Samuel P. Huntington 的争议性著作 *Clash of Civilizations* (1996)（Parreira do Amaral, 2022, pp.36–37）。
 
