@@ -27,7 +27,7 @@ related_theories:
 related_persons:
   - "[[Ann Swidler]]"
   - "[[Yajun Zheng]]"
-  - "[[Max Weber1]]"
+  - "[[Max Weber]]"
   - "[[Stephen Vaisey]]"
 sources:
   - "[[郑_2023_上海三联书店]]"

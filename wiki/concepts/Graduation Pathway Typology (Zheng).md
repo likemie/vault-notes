@@ -25,7 +25,7 @@ related_theories:
   - "[[Dual Elite Career Paths]]"
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Max Weber1]]"
+  - "[[Max Weber]]"
 sources:
   - "[[郑_2023_上海三联书店]]"
 confidence: medium

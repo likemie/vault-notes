@@ -19,7 +19,8 @@
   "excludeDirsFromAutoLinking": [
     "wiki/templates",
     "sources",
-    "books"
+    "books",
+    "Clippings"
   ],
   "preventSelfLinking": true,
   "removeAliasInDirs": [],
