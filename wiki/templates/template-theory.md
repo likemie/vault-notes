@@ -18,14 +18,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
-> [!abstract] 速览
-> - **核心主张**：
-> - **代表人物**：
-> - **关键概念**：
-> - **认识论立场**：
-> - **常用方法**：
-> - **主要争议**：
-
 > [!info]- Frontmatter 格式规范
 > - `tags` — 用方括号列表，内容 tag 建议使用英文小写连字符。
 > - 推荐 tag 前缀：`level/`、`region/`、`method/`、`theory/`、`policy/`、`subject/`、`theme/`、`source/`。
@@ -52,7 +44,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 核心主张
 
 > [!tip]
-> 理论的基本立场，附原文引用。
+> 写出理论的基本立场和最核心主张，避免把应用案例当成理论主张。
 
 > [!quote]
 > "原文引用"（Author, year, p.X）
@@ -62,17 +54,18 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 核心命题
 
 > [!abstract]
-> 主要命题或子理论，逐条列出并附来源。
+> 主要命题或子理论，逐条列出并附来源；每条说明其逻辑含义。
 
 ---
 
 ## 发展脉络
 
 > [!note]
+> 说明理论如何形成、演变和分化，按时间顺序排列。
 > - 1920s [[Vygotsky]] 提出社会建构主义
 > - 1950s [[Piaget]] 发展认知建构主义
 
-> [!note]- 1920s–1940s 奠基期
+> [!note]- 分期示例
 > - 1920s [[Vygotsky]] 提出社会建构主义（p.X）
 > - 1936s [[Piaget]] 发展认知建构主义（p.X）
 
@@ -89,6 +82,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 争议与批评
 
 > [!warning]
+> 记录理论受到的主要批评、争议和适用边界。
 > - 批评描述，附来源和立场。（Author, year, p.X）
 
 ---

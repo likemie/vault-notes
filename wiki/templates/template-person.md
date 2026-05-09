@@ -17,14 +17,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
-> [!abstract] 人物速览
-> - **身份**：
-> - **国别／地区**：
-> - **活跃时期**：
-> - **主要领域**：
-> - **代表贡献**：
-> - **相关理论／概念**：
-
 > [!info]- 筛选标准
 > - 有独立理论或概念贡献（提出了有名称的理论、概念或框架）。
 > - 在领域内有持续影响力（被多篇论文反复引用，或代表一个学派／立场）。
@@ -70,13 +62,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - YYYY 主要事件或转折点
 > - YYYY 逝世（如适用）
 
-> [!note]- 1896–1920 早年与求学
+> [!note]- 分期示例
 > - 1896 出生于俄罗斯奥尔沙（p.X）
 > - 1917 毕业于莫斯科大学法律系（p.X）
-
-> [!note]- 1924–1934 学术生涯
-> - 1924 加入莫斯科心理研究所（p.X）
-> - 1934 逝世，享年 37 岁（p.X）
 
 ---
 
@@ -85,7 +73,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!abstract]
 > APA 格式，附每本著作的核心主张简述：
 > - Vygotsky, L. S. (1978). *Mind in society*. Harvard University Press. — 核心主张简述
-> - Vygotsky, L. S. (1986). *Thought and language*. MIT Press. — 核心主张简述
 
 ---
 
