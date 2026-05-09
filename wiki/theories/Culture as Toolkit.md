@@ -1,12 +1,36 @@
 ---
 title: Culture as Toolkit
-aliases: [文化工具箱, culture as toolkit, Swidler 工具箱理论]
+aliases:
+  - 文化工具箱
+  - culture as toolkit
+  - Swidler 工具箱理论
 type: theory
-tags: [culture-as-toolkit, cultural-sociology, paradigm/interpretivist]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Work Meaning Schemas (Zheng)]]", "[[Graduation Pathway Typology (Zheng)]]"]
-related_theories: ["[[Dual-Process Model of Culture in Action]]", "[[Pierre Bourdieu]]"]
-related_persons: ["[[Ann Swidler]]", "[[Yajun Zheng]]", "[[Max Weber]]", "[[Stephen Vaisey]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+  - culture-as-toolkit
+  - cultural-sociology
+  - paradigm/interpretivist
+related_concepts:
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Habitus]]"
+  - "[[Cultural Capital]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Value Conformist Mode]]"
+  - "[[Work Meaning Schemas (Zheng)]]"
+  - "[[Graduation Pathway Typology (Zheng)]]"
+related_theories:
+  - "[[Dual-Process Model of Culture in Action]]"
+  - "[[Pierre Bourdieu]]"
+related_persons:
+  - "[[Ann Swidler]]"
+  - "[[Yajun Zheng]]"
+  - "[[Max Weber1]]"
+  - "[[Stephen Vaisey]]"
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-08

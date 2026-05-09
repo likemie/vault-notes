@@ -1,12 +1,33 @@
 ---
 title: Graduation Pathway Typology (Zheng)
-aliases: [毕业出路产生机制四分类, 2×2四分类模型, 出路分化四类型]
+aliases:
+  - 毕业出路产生机制四分类
+  - 2×2四分类模型
+  - 出路分化四类型
 type: concept
-tags: [graduation-pathway, higher-education, social-stratification, region/china, level/higher-ed]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Work Meaning Schemas (Zheng)]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Cultural Barrier in Higher Education]]"]
-related_theories: ["[[Culture as Toolkit]]", "[[Dual Elite Career Paths]]"]
-related_persons: ["[[Yajun Zheng]]", "[[Max Weber]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+  - graduation-pathway
+  - higher-education
+  - social-stratification
+  - region/china
+  - level/higher-ed
+related_concepts:
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Work Meaning Schemas (Zheng)]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Value Conformist Mode]]"
+  - "[[Cultural Barrier in Higher Education]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
+  - "[[Dual Elite Career Paths]]"
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Max Weber1]]"
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-09

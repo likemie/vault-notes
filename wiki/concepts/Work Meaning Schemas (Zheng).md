@@ -1,13 +1,34 @@
 ---
 title: Work Meaning Schemas (Zheng)
-aliases: [工作意义三角图式, 三角图式结构, work meaning schemas]
+aliases:
+  - 工作意义三角图式
+  - 三角图式结构
+  - work meaning schemas
 type: concept
-tags: [work-meaning, higher-education, cultural-sociology, region/china, level/higher-ed]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Culture as Toolkit]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Lost Mode]]", "[[Value Conformist Mode]]"]
-related_theories: ["[[Culture as Toolkit]]"]
-related_persons: ["[[Yajun Zheng]]", "[[Max Weber]]", "[[Ann Swidler]]"]
+tags:
+  - work-meaning
+  - higher-education
+  - cultural-sociology
+  - region/china
+  - level/higher-ed
+related_concepts:
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Culture as Toolkit]]"
+  - "[[Graduation Pathway Typology (Zheng)]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Value Conformist Mode]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Max Weber1]]"
+  - "[[Ann Swidler]]"
 related_facts: []
-sources: ["[[郑_2023_上海三联书店]]"]
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-09
@@ -106,7 +127,7 @@ updated: 2026-05-09
 ## 理论基础
 
 - [[Culture as Toolkit]] — [[Ann Swidler]]（1986）的工具箱理论是本章最核心的理论资源：三种图式即为名校大学生文化工具箱中可供调用的工作意义资源。"人们所知道的文化比他们所使用的要多"——大学生在适当情形下调用工具箱中的元素去建构行动路线和自身现实（郑雅君，2023）
-- [[Max Weber]] — 韦伯著名的"扳道夫"假设："直接支配人的行为并非理念，而是物质型利益和理念型利益。不过，由观念创造出来的'世界图景'，常常像扳道夫一样决定了行为沿着哪条利益驱动的轨道发生"（郑雅君，2023，引 Weber, 2005[1956]）
+- [[Max Weber1]] — 韦伯著名的"扳道夫"假设："直接支配人的行为并非理念，而是物质型利益和理念型利益。不过，由观念创造出来的'世界图景'，常常像扳道夫一样决定了行为沿着哪条利益驱动的轨道发生"（郑雅君，2023，引 Weber, 2005[1956]）
 
 ---
 
