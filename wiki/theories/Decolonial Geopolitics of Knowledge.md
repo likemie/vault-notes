@@ -2,7 +2,7 @@
 title: Decolonial Geopolitics of Knowledge
 type: theory
 tags: [decolonial-theory, geopolitics-of-knowledge, coloniality, epistemology, postcolonial-studies, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Horizon 2020 SSH Integration]]", "[[Global Education Industry (GEI)]]", "[[Knowledge Transfer]]", "[[Forced Knowledge Transfer]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Horizon 2020 SSH Integration]]", "[[Global Education Industry (GEI)]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]", "[[Forced Knowledge Transfer]]"]
 related_theories: ["[[Critical Geopolitics]]"]
 related_persons: ["[[Walter Mignolo]]", "[[Arturo Escobar]]", "[[Enrique Dussel]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]", "[[James Partaken]]"]
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md"]
