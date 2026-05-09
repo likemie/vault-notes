@@ -38,6 +38,11 @@
 - [[Knowledge-Based Economy]] — 知识经济：知识、创新、高等教育和研发为价值创造与全球竞争核心要素的实际存在经济形态，Sum & Jessop (2013) 定义，Moisio (2022) 追溯其从 List 经 Drucker/Bell/Romer 到 OECD/World Bank 的概念演变
 - [[Knowledge-Based Economization]] — Moisio (2018) 的概念：关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践被话语建构的过程
 - [[Policy Borrowing]] — 政策借用：国内政治考量驱动选择性参照外部教育论述来合法化议程，Steiner-Khamsi 系统框架，Phillips & Ochs 四阶段模型，Rappleye 情境概念地图，Cowen 形态变异，核心机制为外化、合法化、问题建构与选择性变异
+- [[Knowledge Transfer (Geopolitics)]] — Partaken 核心概念：知识一旦被生产即进入挪用、传授、窃取、审查、破坏等动态过程，主张 GPK 的核心是知识转移而非知识生产，六模态框架
+- [[Forced Knowledge Transfer]] — GPK 知识转移模态：通过规定、胁迫和暴力的自上而下知识灌输，以 Freire"银行概念"和 Kokutai no Hongi 为案例
+- [[Narrative Knowledge]] — Lyotard (1979/1984) 区分于科学知识的社科人文知识类型，Partaken 分析其在全球化中因商业价值科学知识崛起而急剧衰退
+- [[Knowledge Sabotage]] — GPK 知识转移模态：蓄意破坏敌对方知识资产，以网络攻击为主要当代形式
+- [[Economic and Industrial Espionage]] — Søilen 区分经济间谍（政府参与）与工业间谍（无政府），Partaken 以中美技术紧张为核心案例
 - [[Educational Management Organisation (EMO)]] — 参与公立学校教育政策制定与服务交付的私营部门实体，营利/非营利两种形式，Cognition Education 和 CORE Education 为新西兰最大 EMO
 - [[National Competitive Advantage]] — Porter (1990) 理论：国家竞争优势通过高度本地化过程被创造，全球化反而使国家角色更重要，Moisio (2022) 将其分析为塑造 Hub and Flow 想象的关键地缘政治想象
 - [[Network Governance in Education]] — 传统市场/科层制公立学校治理被网络与部落形式取代，Thompson (1991) 为理论框架，新西兰自 2008 年加速发展
@@ -311,6 +316,9 @@
 - [[ECNU Declaration on Evidence-Based Research 2017]] — 华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣言，提出 10 条措施推进中国教育实证研究，标志中国证据本位改革的制度化里程碑（Slavin et al., 2021）
 - [[Late Qing Borrowing of Japanese Education]] — 甲午战败后清末以日本为主要参照推进新式教育体系建设
 - [[Recommendation-Based Graduate Admission System]] — 1980s 中期至今的推免研究生制度：以累积学分为依据免试直升，985 院校覆盖率可达 40%+，郑雅君 (2023) 分析其对不同阶层学生的隐性要求差异，改革派与保守派在"借鉴日本教育"上形成阶段性共识并推动大规模借用
+- [[Great Firewall of China]] — 中国国家互联网审查系统，Partaken (2022) 定位为 GPK 审查模态的核心制度工具
+- [[China Social Credit System]] — 中国利用大数据对公民行为进行永久性评估的治理系统，Partaken (2022) 定位为 GPK 监视模态的当代典范
+- [[Thousand Talents Program]] — 中国海外高层次人才引进计划，被美方视为制度化知识盗窃机制，中美技术紧张焦点
 
 ### Denmark
 
@@ -365,11 +373,18 @@
 - [[2019 Hong Kong Protests and Education]] — 2019 年反修例运动被定性为"国家安全危机"后，中国官媒将 LS 构建为年轻人参与抗议的"罪魁祸首"，触发课程替代
 - [[National Security Law Impact on Hong Kong Education]] — 《香港国安法》(2020) 颁布后为强制国民教育提供法律框架，关闭公民社会协商空间，实现从协商式到命令式教育决策的转变
 
+### Japan
+
+#### Other
+
+- [[Kokutai no Hongi (1937)]] — 日本文部省思想局编写的皇国思想教育文本，在殖民地强制教学，Partaken 定位为 GPK 强制知识转移的历史典范
+
 ### Multi
 
 #### Other
 
 - [[Best Evidence in Brief (BEiB)]] — Johns Hopkins University 与约克大学创建的全球证据传播网络（每两周简报），扩展至 NNU 中国大陆中文版和 CUHK 海外华人版（Slavin et al., 2021）
+- [[Sino-American Trade War (2018)]] — 中美贸易与技术转移争端，Partaken (2022) 定位为 GPK"最好且最当下的经验案例"
 
 ### New Zealand
 
@@ -460,6 +475,7 @@
 - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
 - [[What Works Clearinghouse (WWC)]] — 美国教育部 2002 年创建的 evidence clearinghouse，评级项目、政策、实践和研究；Wiliam (2019) 追溯其政治动力，Wadhwa et al. (2024) 记录其在教育清算中心生态中的高度可见度
 - [[WWC SCD Pilot Standards 2010]] — Kratochwill & Hitchcock 为 IES 开发的 WWC 单一个案设计审查试行标准，含 Review Guide 和 5-3-20 规则
+- [[US-China Economic and Security Review Commission (2000)]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
 
 —
 
@@ -504,6 +520,7 @@
 
 #### Current (2000–present)
 
+- [[Chen Kuan-Hsing]] — 台湾文化研究学者，Asia as Method (2010) 作者，提出"去帝国化、去殖民化、去冷战"三重任务和"地缘殖民历史唯物主义"，Partaken 将其定位为后殖民 GPK 谱系中 Fanon 之后的关键人物
 - [[Alan C. K. Cheung]] — 香港中文大学教育研究者，与 Slavin 合作进行大规模随机实验和证据本位改革国际比较研究，BEiB 中文网络（海外华人版）建设者，与谢晨共同编辑 ECNU ROE 证据本位改革特刊
 - [[Chen Xie]] — 谢晨，华东师范大学国际与比较教育研究所研究员，ECNU ROE 证据本位改革特刊通讯编辑，中美教育技术实验比较研究
 - [[Tengteng Zhuang]] — 庄腾腾，北京师范大学教育研究者，系统整理中国教育实证研究文献计量数据（CNKI ~5000 篇，Slavin et al., 2021）
@@ -533,6 +550,8 @@
 
 - [[wiki/persons/Pierre Bourdieu]] — 法国社会学家，场域-习性-资本-doxa 社会理论框架创始人，对教育作为社会再生产机制的分析深刻影响教育领导力批判研究
 - [[Didier Eribon]] — 法国社会学家和哲学家，《回归故里》作者，郑雅君 (2023) 援引其与原生文化和解的思想为寒门学子提供建议
+- [[Frantz Fanon]] — 法国（马提尼克）精神病学家与去殖民化理论家，Black Skin White Masks (1952) 作者，Partaken (2022) 定位为后殖民 GPK 传统的奠基者
+- [[Jean-François Lyotard]] — 法国后结构主义哲学家，《后现代状况》(1979) 作者，叙事知识／科学知识区分和合法化通过权力的理论被 Partaken 用于 GPK 分析
 
 ### Germany / Austria
 
@@ -760,6 +779,7 @@
 - [[Argument_Moisio_2022_Springer]] — Ch2 Sami Moisio: 论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架
 - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral: 整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
 - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos: 以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
+- [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken: 区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性
 - 📖 [[Argument_郑_2023_上海三联书店]] — 郑雅君：以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化
 
 ### Reports & Policy Documents

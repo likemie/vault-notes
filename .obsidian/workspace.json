@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md",
+                "file": "wiki/arguments/Argument_Partaken_2022_Springer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview"
+              "title": "Argument_Partaken_2022_Springer"
             }
           }
         ]
@@ -189,6 +189,16 @@
   },
   "active": "1c9b1d9f1feb84d0",
   "lastOpenFiles": [
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md",
+    "sources/Parreira do Amaral(Ed.)_2022_Springer.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md",
+    "templater/template-person-templater.md",
+    "templater/template-fact-policy.md",
+    "templater/template-argument.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md",
+    "wiki/persons/Chen Kuan-Hsing.md",
+    "wiki/persons/Frantz Fanon.md",
+    "wiki/persons/Jean-François Lyotard.md",
     "wiki/concepts/Economic and Industrial Espionage.md",
     "wiki/concepts/Knowledge Sabotage.md",
     "wiki/concepts/Narrative Knowledge.md",
@@ -201,7 +211,6 @@
     "wiki/facts/china/China Social Credit System.md",
     "wiki/facts/china/Great Firewall of China.md",
     "wiki/arguments/Argument_Partaken_2022_Springer.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md",
     "wiki/facts/japan",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.pdf",
     "books/郑_2023_上海三联书店/第三章.jpeg",
@@ -218,20 +227,11 @@
     "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
     "wiki/persons/Max Weber.md",
     "information/Journal of Comparative and International Education_20260503_1825.md",
-    "information/Journal of Curriculum Studies_20260425_0207.md",
-    "Max Weber1.md",
-    "Clippings/Max Weber1.md",
-    "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md",
     "raw/Parreira do Amaral(Ed.)_2022_Springer.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer.pdf",
-    "wiki/arguments/Argument_ONeill_2012_NZJES.md",
     "raw/978-3-030-94415-5.pdf",
     "raw",
     "未命名文件夹",
-    "wiki/arguments/Argument_Nielsen_2021_NordPsych.md",
-    "wiki/arguments/Argument_Keddie_2020_JEAH.md",
-    "wiki/arguments/Argument_Golovchin_2019_ESC.md",
     "books/郑_2023_上海三联书店/附录一个案描述1.jpeg",
     "templater",
     "wiki/templater"
