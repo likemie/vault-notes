@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Max Weber1.md",
+                "file": "wiki/persons/Max Weber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Max Weber1"
+              "title": "Max Weber"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "c45e4e224eb4fbf2",
   "lastOpenFiles": [
-    "Clippings/Pierre Bourdieu.md",
     "Clippings/Max Weber1.md",
+    "Clippings/Pierre Bourdieu.md",
     "wiki/arguments/Argument_郑_2023_上海三联书店.md",
     "wiki/facts/china/Recommendation-Based Graduate Admission System.md",
     "wiki/concepts/Goal-Controlled Mode.md",
