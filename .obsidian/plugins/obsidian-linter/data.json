@@ -4,7 +4,7 @@
       "enabled": false
     },
     "dedupe-yaml-array-values": {
-      "enabled": false,
+      "enabled": true,
       "dedupe-alias-key": true,
       "dedupe-tag-key": true,
       "dedupe-array-keys": true,
@@ -153,23 +153,23 @@
       "double-quote-style": "\"\""
     },
     "remove-consecutive-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-empty-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-hyphenated-line-breaks": {
       "enabled": false
     },
     "remove-multiple-spaces": {
-      "enabled": false
+      "enabled": true
     },
     "strong-style": {
       "enabled": false,
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
-      "enabled": false,
+      "enabled": true,
       "line-break-indicator": "  "
     },
     "unordered-list-style": {
@@ -181,7 +181,7 @@
       "inner-new-lines": false
     },
     "consecutive-blank-lines": {
-      "enabled": false
+      "enabled": true
     },
     "convert-spaces-to-tabs": {
       "enabled": false,
@@ -191,24 +191,24 @@
       "enabled": false
     },
     "empty-line-around-code-fences": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-horizontal-rules": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-math-blocks": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-tables": {
-      "enabled": false
+      "enabled": true
     },
     "heading-blank-lines": {
-      "enabled": false,
+      "enabled": true,
       "bottom": true,
       "empty-line-after-yaml": true
     },
     "line-break-at-document-end": {
-      "enabled": false
+      "enabled": true
     },
     "move-math-block-indicators-to-their-own-line": {
       "enabled": false
