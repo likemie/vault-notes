@@ -3,7 +3,7 @@ title: Jean-François Lyotard
 aliases: ["Lyotard", "利奥塔", "让-弗朗索瓦·利奥塔"]
 type: person
 tags: ["region/france", "postmodernism", "philosophy", "knowledge"]
-related_concepts: ["[[Narrative Knowledge]]", "[[Geopolitics of Knowledge]]"]
+related_concepts: ["[[Narrative Knowledge]]", "[[Geopolitics of Knowledge]]", "[[Knowledge Transfer (Geopolitics)]]", "[[Forced Knowledge Transfer]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -20,7 +20,7 @@ updated: 2026-05-10
 ## 简介
 
 > [!info]
-> Jean-François Lyotard（1924–1998），法国后结构主义哲学家，以《后现代状况：关于知识的报告》（La condition postmoderne: rapport sur le savoir, 1979）闻名。Partaken (2022) 在知识地缘政治（GPK）语境中援引其叙事知识／科学知识区分、合法化通过权力的理论以及发展话语批判，作为分析 GPK 中知识类型不平等的核心理论资源。
+> Jean-François Lyotard（1924–1998），法国后结构主义哲学家，以《后现代状况：关于知识的报告》（La condition postmoderne: rapport sur le savoir, 1979）闻名。Partaken (2022) 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中援引其[[Narrative Knowledge|叙事知识／科学知识区分]]、合法化通过权力的理论以及发展话语批判，作为分析 GPK 中知识类型不平等的核心理论资源。
 
 ---
 

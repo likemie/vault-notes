@@ -4,7 +4,7 @@ aliases: ["千人计划", "Thousand Talents Plan"]
 type: fact
 subtype: event
 tags: ["region/china", "geopolitics-of-knowledge", "knowledge-transfer", "brain-gain"]
-related_concepts: ["[[Knowledge Transfer (Geopolitics)]]", "[[Economic and Industrial Espionage]]", "[[Geopolitics of Knowledge]]"]
+related_concepts: ["[[Knowledge Transfer (Geopolitics)]]", "[[Economic and Industrial Espionage]]", "[[Geopolitics of Knowledge]]", "[[Forced Knowledge Transfer]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -21,7 +21,7 @@ updated: 2026-05-10
 
 ## 背景
 
-千人计划是中国政府实施的海外高层次人才引进计划，以巨大的财务和职业激励吸引在海外的中国专业人士回国。Partaken (2022) 将其置于知识地缘政治（GPK）中知识转移与间谍的交叉地带进行分析——从中国视角看是"人才回流"（Brain Gain），从美国政府视角看则是国家支持的制度化知识盗窃机制（Partaken, 2022, p.79）。
+千人计划是中国政府实施的海外高层次人才引进计划，以巨大的财务和职业激励吸引在海外的中国专业人士回国。Partaken (2022) 将其置于[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中[[Knowledge Transfer (Geopolitics)|知识转移]]与[[Economic and Industrial Espionage|间谍]]的交叉地带进行分析——从中国视角看是"人才回流"（Brain Gain），从美国政府视角看则是国家支持的制度化知识盗窃机制（Partaken, 2022, p.79）。
 
 ## 经过
 

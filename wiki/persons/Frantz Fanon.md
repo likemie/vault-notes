@@ -3,7 +3,7 @@ title: Frantz Fanon
 aliases: ["Fanon", "法农", "弗朗茨·法农"]
 type: person
 tags: ["region/france", "region/africa", "decolonization", "postcolonial-studies", "psychiatry"]
-related_concepts: ["[[Forced Knowledge Transfer]]", "[[Geopolitics of Knowledge]]"]
+related_concepts: ["[[Forced Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Knowledge Transfer (Geopolitics)]]", "[[Narrative Knowledge]]"]
 related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
 related_methods: []
 related_persons: ["[[Chen Kuan-Hsing]]"]
@@ -20,7 +20,7 @@ updated: 2026-05-10
 ## 简介
 
 > [!info]
-> Frantz Fanon（1925–1961），出生于法属马提尼克的精神病学家、哲学家和革命理论家，去殖民化运动的核心思想人物。Partaken (2022) 在知识地缘政治（GPK）语境中援引 Fanon 作为后殖民 GPK 分析传统的奠基者——他的去殖民化理论揭示了殖民暴力如何制造"殖民地主体"（colonial subject）这一特殊知识-人性构型，以及反暴力作为集体 catharsis 的去殖民化过程（Partaken, 2022, p.72）。
+> Frantz Fanon（1925–1961），出生于法属马提尼克的精神病学家、哲学家和革命理论家，去殖民化运动的核心思想人物。Partaken (2022) 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中援引 Fanon 作为后殖民 GPK 分析传统的奠基者——他的去殖民化理论揭示了殖民暴力如何制造"殖民地主体"（colonial subject）这一特殊知识-人性构型，以及反暴力作为集体 catharsis 的去殖民化过程（Partaken, 2022, p.72）。
 
 ---
 

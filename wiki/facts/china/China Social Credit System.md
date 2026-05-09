@@ -4,7 +4,7 @@ aliases: ["中国社会信用体系", "社会信用体系", "Social Credit Syste
 type: fact
 subtype: event
 tags: ["region/china", "surveillance", "big-data", "geopolitics-of-knowledge"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer (Geopolitics)]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer (Geopolitics)]]", "[[Forced Knowledge Transfer]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -21,7 +21,7 @@ updated: 2026-05-10
 
 ## 背景
 
-社会信用体系是中国政府利用大数据技术对公民行为进行永久性评估的系统。Partaken (2022) 将其定位为知识地缘政治（GPK）中监视模态的当代典范——国家通过大规模数据收集与分析，将监视从安全领域延伸至日常生活的全面治理（Partaken, 2022, p.81）。
+社会信用体系是中国政府利用大数据技术对公民行为进行永久性评估的系统。Partaken (2022) 将其定位为[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中监视模态的当代典范——国家通过大规模数据收集与分析，将监视从安全领域延伸至日常生活的全面治理（Partaken, 2022, p.81）。
 
 ## 经过
 
