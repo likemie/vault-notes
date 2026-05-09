@@ -1,5 +1,6 @@
 ---
 title: <% tp.file.title %>
+aliases: []
 type: argument
 citation: ""
 tags: []
@@ -43,6 +44,13 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - `related_*` 和 `sources` — 所有值必须加引号。
 > - wikilink 必须包在引号内，否则 Obsidian 无法解析 frontmatter。
 > - 单个值也需要引号和方括号：`related_concepts: ["[[项目式学习]]"]`
+
+> [!info]- Aliases 规则（用于 Automatic Linker 自动补链）
+> - `aliases` 用于中英文术语映射，建议包含中文译名、英文原名、常见缩写和常见变体。
+> - 文件名／标题可以保持英文；中文正文常用术语应写入 `aliases`，例如 `文化资本` → `Cultural Capital`。
+> - 不要加入过于宽泛的普通词，如“资本”“文化”“政策”“课程”“能力”“国家”“公平”。
+> - 推荐写完整术语：`文化资本`、`教育分层`、`批判话语分析`、`global competence`、`critical discourse analysis`。
+> - 缩写可以写入 aliases，例如 `CDA`、`PISA`、`OECD`，但避免单个字母或过短词。
 
 > [!warning]- 写入规则（每次写入前必须执行）
 > 1. 确定新内容属于哪个 `##` 章节。
