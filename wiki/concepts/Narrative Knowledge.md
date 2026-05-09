@@ -3,7 +3,7 @@ title: Narrative Knowledge
 aliases: ["叙事知识", "narrative knowledge (Lyotard)", "scientific knowledge vs narrative knowledge"]
 type: concept
 tags: ["geopolitics-of-knowledge", "knowledge-production", "postmodernism"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer (Geopolitics)]]", "[[Forced Knowledge Transfer]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Forced Knowledge Transfer]]"]
 related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
 related_methods: []
 related_persons: ["[[Jean-François Lyotard]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]"]

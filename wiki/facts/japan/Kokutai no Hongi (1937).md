@@ -4,7 +4,7 @@ aliases: ["国体之本义", "Cardinal Principles of the National Entity of Japa
 type: fact
 subtype: event
 tags: ["region/japan", "region/asia", "colonial-education", "knowledge-transfer", "geopolitics-of-knowledge"]
-related_concepts: ["[[Knowledge Transfer (Geopolitics)]]", "[[Forced Knowledge Transfer]]"]
+related_concepts: ["[[Knowledge Transfer]]", "[[Forced Knowledge Transfer]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -47,7 +47,7 @@ updated: 2026-05-10
 
 > [!example]
 > - [[Forced Knowledge Transfer]] — Kokutai no Hongi 是强制知识转移的历史典范案例
-> - [[Knowledge Transfer (Geopolitics)]] — 该案例说明知识转移如何在地缘政治扩张中发挥核心作用
+> - [[Knowledge Transfer]] — 该案例说明知识转移如何在地缘政治扩张中发挥核心作用
 
 ## 来源
 

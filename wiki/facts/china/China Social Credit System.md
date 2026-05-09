@@ -4,7 +4,7 @@ aliases: ["中国社会信用体系", "社会信用体系", "Social Credit Syste
 type: fact
 subtype: event
 tags: ["region/china", "surveillance", "big-data", "geopolitics-of-knowledge"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer (Geopolitics)]]", "[[Forced Knowledge Transfer]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Forced Knowledge Transfer]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -48,7 +48,7 @@ updated: 2026-05-10
 
 > [!example]
 > - [[Great Firewall of China]] — 与 Social Credit System 配对运行的大数据审查系统
-> - [[Knowledge Transfer (Geopolitics)]] — 社会信用体系是 GPK 监视模态的核心制度工具
+> - [[Knowledge Transfer]] — 社会信用体系是 GPK 监视模态的核心制度工具
 
 ## 来源
 

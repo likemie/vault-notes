@@ -3,7 +3,7 @@ title: Frantz Fanon
 aliases: ["Fanon", "法农", "弗朗茨·法农"]
 type: person
 tags: ["region/france", "region/africa", "decolonization", "postcolonial-studies", "psychiatry"]
-related_concepts: ["[[Forced Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Knowledge Transfer (Geopolitics)]]", "[[Narrative Knowledge]]"]
+related_concepts: ["[[Forced Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Narrative Knowledge]]"]
 related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
 related_methods: []
 related_persons: ["[[Chen Kuan-Hsing]]"]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/Argument_Partaken_2022_Springer.md",
+                "file": "wiki/concepts/Forced Knowledge Transfer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Partaken_2022_Springer"
+              "title": "Forced Knowledge Transfer"
             }
           }
         ]
@@ -189,8 +189,11 @@
   },
   "active": "1c9b1d9f1feb84d0",
   "lastOpenFiles": [
-    "wiki/facts/china/Great Firewall of China.md",
     "wiki/arguments/Argument_Partaken_2022_Springer.md",
+    "wiki/concepts/Knowledge Transfer.md",
+    "wiki/concepts/Geopolitics of Knowledge.md",
+    "wiki/facts/global/Minerva University.md",
+    "wiki/facts/china/Great Firewall of China.md",
     "wiki/persons/Jean-François Lyotard.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md",
     "wiki/persons/Walter Mignolo.md",
@@ -198,7 +201,6 @@
     "wiki/concepts/Knowledge Transfer (Geopolitics).md",
     "wiki/concepts/Economic and Industrial Espionage.md",
     "wiki/facts/multi/Sino-American Trade War (2018).md",
-    "wiki/concepts/Geopolitics of Knowledge.md",
     "sources/Parreira do Amaral(Ed.)_2022_Springer.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md",
     "templater/template-person-templater.md",
@@ -216,14 +218,12 @@
     "wiki/facts/japan",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.pdf",
     "books/郑_2023_上海三联书店/第三章.jpeg",
-    "wiki/arguments/Argument_郑_2023_上海三联书店.md",
     "books/郑_2023_上海三联书店/附录一个案描述5.jpeg",
     "books/郑_2023_上海三联书店/第五章 四种类型的毕业出路获得机制.jpeg",
     "books/郑_2023_上海三联书店/第五章大学生出路产生机制的四分类.jpeg",
     "books/郑_2023_上海三联书店/第五章 受访者亚群体在不同主轴位置上的分布情况.jpeg",
     "books/郑_2023_上海三联书店/第五章 名校大学生工作意义来源的三角图式结构.jpeg",
     "books/郑_2023_上海三联书店/第四章 两类模式的学业投入与社会性投入特征.jpeg",
-    "wiki/methods/Constructivist Grounded Theory.md",
     "books/郑_2023_上海三联书店/框架图.jpeg",
     "books/郑_2023_上海三联书店/学校案例.jpeg",
     "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",

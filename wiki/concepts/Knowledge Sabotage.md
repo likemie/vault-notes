@@ -3,7 +3,7 @@ title: Knowledge Sabotage
 aliases: ["知识破坏", "sabotage of knowledge", "undermining knowledge"]
 type: concept
 tags: ["geopolitics-of-knowledge", "knowledge-transfer", "cyber-warfare"]
-related_concepts: ["[[Knowledge Transfer (Geopolitics)]]", "[[Geopolitics of Knowledge]]", "[[Economic and Industrial Espionage]]", "[[Forced Knowledge Transfer]]"]
+related_concepts: ["[[Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Economic and Industrial Espionage]]", "[[Forced Knowledge Transfer]]"]
 related_theories: []
 related_methods: []
 related_persons: ["[[Jean-François Lyotard]]"]
@@ -21,7 +21,7 @@ updated: 2026-05-10
 ## 定义
 
 > [!info]
-> 知识破坏（knowledge sabotage）是[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中[[Knowledge Transfer (Geopolitics)|知识转移]]的一种模态，指蓄意对敌对方的知识资产造成损害——"任何被蓄意施加的致残性损害，尤其是秘密实施以破坏经济或军事资源的行为"（OED, 2020; 引自 Partaken, 2022, p.83）。与[[Economic and Industrial Espionage|间谍活动]]不同，知识破坏的目标不是获取有价值的信息，而是摧毁权力对手和意识形态敌人的知识。
+> 知识破坏（knowledge sabotage）是[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中[[Knowledge Transfer|知识转移]]的一种模态，指蓄意对敌对方的知识资产造成损害——"任何被蓄意施加的致残性损害，尤其是秘密实施以破坏经济或军事资源的行为"（OED, 2020; 引自 Partaken, 2022, p.83）。与[[Economic and Industrial Espionage|间谍活动]]不同，知识破坏的目标不是获取有价值的信息，而是摧毁权力对手和意识形态敌人的知识。
 
 ---
 

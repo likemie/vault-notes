@@ -38,7 +38,7 @@
 - [[Knowledge-Based Economy]] — 知识经济：知识、创新、高等教育和研发为价值创造与全球竞争核心要素的实际存在经济形态，Sum & Jessop (2013) 定义，Moisio (2022) 追溯其从 List 经 Drucker/Bell/Romer 到 OECD/World Bank 的概念演变
 - [[Knowledge-Based Economization]] — Moisio (2018) 的概念：关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践被话语建构的过程
 - [[Policy Borrowing]] — 政策借用：国内政治考量驱动选择性参照外部教育论述来合法化议程，Steiner-Khamsi 系统框架，Phillips & Ochs 四阶段模型，Rappleye 情境概念地图，Cowen 形态变异，核心机制为外化、合法化、问题建构与选择性变异
-- [[Knowledge Transfer (Geopolitics)]] — Partaken 核心概念：知识一旦被生产即进入挪用、传授、窃取、审查、破坏等动态过程，主张 GPK 的核心是知识转移而非知识生产，六模态框架
+- [[Knowledge Transfer]] — Partaken 核心概念：知识一旦被生产即进入挪用、传授、窃取、审查、破坏等动态过程，主张 GPK 的核心是知识转移而非知识生产，六模态框架
 - [[Forced Knowledge Transfer]] — GPK 知识转移模态：通过规定、胁迫和暴力的自上而下知识灌输，以 Freire"银行概念"和 Kokutai no Hongi 为案例
 - [[Narrative Knowledge]] — Lyotard (1979/1984) 区分于科学知识的社科人文知识类型，Partaken 分析其在全球化中因商业价值科学知识崛起而急剧衰退
 - [[Knowledge Sabotage]] — GPK 知识转移模态：蓄意破坏敌对方知识资产，以网络攻击为主要当代形式

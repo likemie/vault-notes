@@ -4,7 +4,7 @@ aliases: ["USCC", "美中经济与安全审查委员会"]
 type: fact
 subtype: event
 tags: ["region/us", "region/china", "geopolitics-of-knowledge", "intellectual-property", "trade"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Economic and Industrial Espionage]]", "[[Knowledge Transfer (Geopolitics)]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Economic and Industrial Espionage]]", "[[Knowledge Transfer]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -34,7 +34,7 @@ updated: 2026-05-10
 
 > [!success]
 > - USCC 的持续报告和听证为美国对华技术遏制政策提供了制度化的情报与立法基础（Partaken, 2022, p.79）
-> - Partaken 将 USCC 定位为中美[[Geopolitics of Knowledge|GPK]]中美国方面的核心制度行动者——通过官方渠道系统性地监控和限制[[Knowledge Transfer (Geopolitics)|知识从美国向中国的流动]]（Partaken, 2022, p.78–79）
+> - Partaken 将 USCC 定位为中美[[Geopolitics of Knowledge|GPK]]中美国方面的核心制度行动者——通过官方渠道系统性地监控和限制[[Knowledge Transfer|知识从美国向中国的流动]]（Partaken, 2022, p.78–79）
 > - 其报告的议题范围预示并塑造了 2018 年中美贸易战的技术维度（Partaken, 2022, p.78–79）
 
 ## 相关概念／政策

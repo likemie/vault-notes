@@ -2,7 +2,7 @@
 title: Decolonial Geopolitics of Knowledge
 type: theory
 tags: [decolonial-theory, geopolitics-of-knowledge, coloniality, epistemology, postcolonial-studies, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Horizon 2020 SSH Integration]]", "[[Global Education Industry (GEI)]]", "[[Knowledge Transfer (Geopolitics)]]", "[[Forced Knowledge Transfer]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Horizon 2020 SSH Integration]]", "[[Global Education Industry (GEI)]]", "[[Knowledge Transfer]]", "[[Forced Knowledge Transfer]]"]
 related_theories: ["[[Critical Geopolitics]]"]
 related_persons: ["[[Walter Mignolo]]", "[[Arturo Escobar]]", "[[Enrique Dussel]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]", "[[James Partaken]]"]
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md"]
@@ -42,7 +42,7 @@ updated: 2026-05-10
 
 Partaken (2022) 在此脉络中回溯了从 Fanon 到 Chen Kuan-Hsing 的思想谱系。[[Frantz Fanon]] 的 *Black Skin White Masks* (1952) 触发了 1960 年代的去殖民化运动，其核心洞察是：殖民暴力制造了一种具有种族和文化等级结构的特定新型知识——"殖民地主体"（colonial subject），而去殖民化不仅是暴力和革命的，更是对被殖民者的集体疗愈过程（Partaken, 2022, p.72）。[[Chen Kuan-Hsing]] (2010) 将这一传统推进到当代亚洲语境：他论证知识本身是"帝国主义运作和行使权力的主要场所之一"（Chen, 2010, p.211），提出"亚洲作为方法"（Asia as Method）——将亚洲从分析对象转变为转变知识生产的手段，并呼吁"去帝国化、去殖民化和去冷战"的三重任务（Partaken, 2022, pp.73–74）。
 
-然而 Partaken 对此传统提出了一个关键批评：后殖民 GPK 传统将知识生产作为核心分析维度——即关注谁生产知识、以何种视角、为谁的利益——而忽视了知识一旦被生产后进入的动态过程。Partaken 主张 GPK 的真正核心是知识转移（[[Knowledge Transfer (Geopolitics)]]）而非知识生产：从殖民时代至今，知识在运动中的挪用、传授、窃取、审查和破坏，才是解码当代新自由全球化中新殖民动力的关键（Partaken, 2022, pp.74–75）。
+然而 Partaken 对此传统提出了一个关键批评：后殖民 GPK 传统将知识生产作为核心分析维度——即关注谁生产知识、以何种视角、为谁的利益——而忽视了知识一旦被生产后进入的动态过程。Partaken 主张 GPK 的真正核心是知识转移（[[Knowledge Transfer]]）而非知识生产：从殖民时代至今，知识在运动中的挪用、传授、窃取、审查和破坏，才是解码当代新自由全球化中新殖民动力的关键（Partaken, 2022, pp.74–75）。
 
 ## 发展脉络
 

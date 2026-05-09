@@ -4,7 +4,7 @@ aliases: ["中美贸易战", "中美贸易摩擦", "US-China Trade War"]
 type: fact
 subtype: event
 tags: ["region/china", "region/us", "geopolitics-of-knowledge", "trade", "technology-transfer"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer (Geopolitics)]]", "[[Economic and Industrial Espionage]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Economic and Industrial Espionage]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -52,7 +52,7 @@ updated: 2026-05-10
 ## 相关概念／政策
 
 > [!example]
-> - [[Knowledge Transfer (Geopolitics)]] — 中美贸易战是知识转移作为 GPK 核心的经验案例
+> - [[Knowledge Transfer]] — 中美贸易战是知识转移作为 GPK 核心的经验案例
 > - [[US-China Economic and Security Review Commission (2000)]] — 贸易战的制度前史
 > - [[Thousand Talents Program]] — 中美知识转移争端的焦点议题之一
 

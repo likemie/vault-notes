@@ -3,7 +3,7 @@ title: Chen Kuan-Hsing
 aliases: ["Chen Kuan-Hsing", "陈光兴", "Kuan-Hsing Chen"]
 type: person
 tags: ["region/taiwan", "region/asia", "postcolonial-studies", "deimperialization", "decolonization"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer (Geopolitics)]]", "[[Forced Knowledge Transfer]]", "[[Narrative Knowledge]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Forced Knowledge Transfer]]", "[[Narrative Knowledge]]"]
 related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
 related_methods: []
 related_persons: ["[[Frantz Fanon]]", "[[Walter Mignolo]]"]

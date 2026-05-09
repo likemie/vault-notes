@@ -1,6 +1,6 @@
 ---
-title: Knowledge Transfer (Geopolitics)
-aliases: ["知识转移（地缘政治）", "geopolitics of knowledge transfer", "knowledge in motion"]
+title: Knowledge Transfer
+aliases: ["知识转移", "geopolitics of knowledge transfer", "knowledge in motion"]
 type: concept
 tags: ["geopolitics-of-knowledge", "knowledge-economy", "region/global"]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Forced Knowledge Transfer]]", "[[Knowledge Sabotage]]", "[[Economic and Industrial Espionage]]", "[[Narrative Knowledge]]"]
@@ -16,7 +16,7 @@ created: 2026-05-10
 updated: 2026-05-10
 ---
 
-# Knowledge Transfer (Geopolitics)
+# Knowledge Transfer
 
 ## 定义
 

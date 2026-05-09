@@ -3,7 +3,7 @@ title: Forced Knowledge Transfer
 aliases: ["强制知识转移", "forced transfer of knowledge", "top-down knowledge transfer"]
 type: concept
 tags: ["geopolitics-of-knowledge", "knowledge-transfer", "colonial-education", "pedagogy"]
-related_concepts: ["[[Knowledge Transfer (Geopolitics)]]", "[[Geopolitics of Knowledge]]", "[[Narrative Knowledge]]"]
+related_concepts: ["[[Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Narrative Knowledge]]"]
 related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
 related_methods: []
 related_persons: ["[[Frantz Fanon]]", "[[Jean-François Lyotard]]"]
@@ -21,7 +21,7 @@ updated: 2026-05-10
 ## 定义
 
 > [!info]
-> 强制知识转移是[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中[[Knowledge Transfer (Geopolitics)|知识转移]]的一种模态：通过规定（prescription）、胁迫（coercion）和暴力（force）进行的自上而下知识灌输。教学与学习是知识转移的关键机制，但在 GPK 中，教学常常以权力持有者服务为导向，形成从压迫者的客观性向被压迫者的主体性自上而下流动的权力梯度（Partaken, 2022, p.75–76）。
+> 强制知识转移是[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中[[Knowledge Transfer|知识转移]]的一种模态：通过规定（prescription）、胁迫（coercion）和暴力（force）进行的自上而下知识灌输。教学与学习是知识转移的关键机制，但在 GPK 中，教学常常以权力持有者服务为导向，形成从压迫者的客观性向被压迫者的主体性自上而下流动的权力梯度（Partaken, 2022, p.75–76）。
 
 ---
 
@@ -37,7 +37,7 @@ updated: 2026-05-10
 
 > [!example]
 > - vs 知识交换（Knowledge Exchange） — 知识交换暗示双方在对等基础上物物交换，politically less sensitive；强制知识转移是在不对等权力关系下发生的自上而下灌输（Partaken, 2022, p.76）
-> - vs [[Knowledge Transfer (Geopolitics)]] — 强制知识转移是知识转移六模态中权力梯度最极端的一种；其他模态（[[Economic and Industrial Espionage|间谍]]、监视、审查、[[Knowledge Sabotage|破坏]]、知识交换）涉及不同程度的权力不对等
+> - vs [[Knowledge Transfer]] — 强制知识转移是知识转移六模态中权力梯度最极端的一种；其他模态（[[Economic and Industrial Espionage|间谍]]、监视、审查、[[Knowledge Sabotage|破坏]]、知识交换）涉及不同程度的权力不对等
 
 ---
 

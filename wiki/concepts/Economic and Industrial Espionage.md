@@ -3,7 +3,7 @@ title: Economic and Industrial Espionage
 aliases: ["经济和工业间谍", "economic espionage", "industrial espionage", "知识产权盗窃"]
 type: concept
 tags: ["geopolitics-of-knowledge", "knowledge-transfer", "intellectual-property", "region/global"]
-related_concepts: ["[[Knowledge Transfer (Geopolitics)]]", "[[Geopolitics of Knowledge]]", "[[Knowledge Sabotage]]", "[[Forced Knowledge Transfer]]"]
+related_concepts: ["[[Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Knowledge Sabotage]]", "[[Forced Knowledge Transfer]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -21,7 +21,7 @@ updated: 2026-05-10
 ## 定义
 
 > [!info]
-> Søilen (2016) 区分了两种知识间谍活动：经济间谍（economic espionage）指"政府收集信息、侵占商业机密和窃取知识的努力"；工业间谍（industrial espionage）则无政府参与（Søilen, 2016, p.52; 引自 Partaken, 2022, p.78）。两者共同构成[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中[[Knowledge Transfer (Geopolitics)|知识转移]]的关键非法模态。对于无法负担昂贵 R&D 的发展中国家和产业而言，间谍活动提供了获取知识的"捷径"——虽然短期成本效益高，但其本身就是内部和外部冲突的来源（Partaken, 2022, p.77, 79）。
+> Søilen (2016) 区分了两种知识间谍活动：经济间谍（economic espionage）指"政府收集信息、侵占商业机密和窃取知识的努力"；工业间谍（industrial espionage）则无政府参与（Søilen, 2016, p.52; 引自 Partaken, 2022, p.78）。两者共同构成[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中[[Knowledge Transfer|知识转移]]的关键非法模态。对于无法负担昂贵 R&D 的发展中国家和产业而言，间谍活动提供了获取知识的"捷径"——虽然短期成本效益高，但其本身就是内部和外部冲突的来源（Partaken, 2022, p.77, 79）。
 
 ---
 

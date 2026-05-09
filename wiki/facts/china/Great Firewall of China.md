@@ -4,7 +4,7 @@ aliases: ["中国防火长城", "中国国家防火墙", "GFW"]
 type: fact
 subtype: event
 tags: ["region/china", "internet-censorship", "knowledge-transfer", "geopolitics-of-knowledge"]
-related_concepts: ["[[Knowledge Transfer (Geopolitics)]]", "[[Geopolitics of Knowledge]]", "[[Forced Knowledge Transfer]]", "[[Knowledge Sabotage]]"]
+related_concepts: ["[[Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Forced Knowledge Transfer]]", "[[Knowledge Sabotage]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -21,7 +21,7 @@ updated: 2026-05-10
 
 ## 背景
 
-中国的互联网审查制度伴随互联网在中国大陆的普及而建立，其技术基础是大数据监控与网络过滤系统的结合。Partaken (2022) 将 Great Firewall 定位为[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中审查模态的核心案例——通过系统性阻断对境外信息的访问来干涉[[Knowledge Transfer (Geopolitics)|知识转移]]（Partaken, 2022, p.82）。
+中国的互联网审查制度伴随互联网在中国大陆的普及而建立，其技术基础是大数据监控与网络过滤系统的结合。Partaken (2022) 将 Great Firewall 定位为[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中审查模态的核心案例——通过系统性阻断对境外信息的访问来干涉[[Knowledge Transfer|知识转移]]（Partaken, 2022, p.82）。
 
 ## 经过
 
@@ -49,7 +49,7 @@ updated: 2026-05-10
 
 > [!example]
 > - [[China Social Credit System]] — 与 Great Firewall 配套运行的大数据行为评估系统
-> - [[Knowledge Transfer (Geopolitics)]] — Great Firewall 是 GPK 审查模态的核心制度工具
+> - [[Knowledge Transfer]] — Great Firewall 是 GPK 审查模态的核心制度工具
 > - [[Sino-American Trade War (2018)]] — 中美知识转移紧张关系的贸易维度
 
 ## 来源
