@@ -6,6 +6,9 @@ tags: [cultural-disembedding, higher-education, inequality, cultural-barrier, re
 related_concepts: ["[[Cultural Barrier in Higher Education]]", "[[Cultural Disorientation]]", "[[The Shock of the Elite]]", "[[Intuition-Dependent Mode]]", "[[Habitus]]", "[[Cultural Capital]]"]
 related_theories: ["[[Bourdieu's Social Theory]]"]
 related_persons: ["[[Yajun Zheng]]", "[[Pierre Bourdieu]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["[[郑_2023_上海三联书店]]"]
 confidence: low
 status: draft

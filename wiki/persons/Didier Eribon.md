@@ -4,7 +4,10 @@ aliases: [迪迪埃·埃里蓬, Didier Eribon]
 type: person
 tags: [Didier-Eribon, sociology, social-class, region/france]
 related_concepts: ["[[Cultural Disorientation]]", "[[Cultural Disembedding]]", "[[Cultural Barrier in Higher Education]]"]
+related_theories: []
 related_persons: ["[[Pierre Bourdieu]]"]
+related_methods: []
+related_arguments: []
 sources: ["[[郑_2023_上海三联书店]]"]
 confidence: low
 status: draft
