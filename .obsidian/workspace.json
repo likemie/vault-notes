@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/Atomisation of Knowledge and Skills.md",
+                "file": "wiki/concepts/Classroom Learning Culture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atomisation of Knowledge and Skills"
+              "title": "Classroom Learning Culture"
             }
           }
         ]
@@ -189,6 +189,14 @@
   },
   "active": "79737c99d19b469f",
   "lastOpenFiles": [
+    "wiki/concepts/Buen Vivir.md",
+    "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
+    "books/郑_2023_上海三联书店/案例样本.jpeg",
+    "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
+    "books/郑_2023_上海三联书店/附录一个案描述3.jpeg",
+    "wiki/concepts/Cult of the Guru.md",
+    "wiki/concepts/Bildung.md",
+    "wiki/concepts/Atomisation of Knowledge and Skills.md",
     "wiki/arguments/Argument_郑_2023_上海三联书店.md",
     "templater/template-theory.md",
     "templater/template-person.md",
@@ -214,19 +222,12 @@
     "books/schema-monograph-epub.md",
     "books/schema-edited-volume.md",
     "books/schema-monograph-pdf.md",
-    "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
     "books/郑_2023_上海三联书店/附录一个案描述2.jpeg",
     "books/郑_2023_上海三联书店/第五章大学生出路产生机制的四分类.jpeg",
     "books/郑_2023_上海三联书店/第三章.jpeg",
-    "index.md",
-    "schema-monograph-epub.md",
-    "wiki/schema-monograph-epub.md",
-    "wiki/template-theory.md",
     "wiki/obsidian_templates_improved",
     "obsidian_templates_improved",
     "obsidian_templates_improved.zip",
-    "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
-    "books/郑_2023_上海三联书店/案例样本.jpeg",
     "books/郑_2023_上海三联书店/第五章 受访者亚群体在不同主轴位置上的分布情况.jpeg"
   ]
 }
