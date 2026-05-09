@@ -2,14 +2,14 @@
 title: Intuition-Dependent Mode
 type: concept
 tags: [intuition-dependent-mode, higher-education, cultural-capital, region/china, level/higher-ed]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Symbolic Boundary]]", "[[The Shock of the Elite]]", "[[Self-Authorship]]"]
+related_concepts: ["[[Goal-Controlled Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Symbolic Boundary]]", "[[The Shock of the Elite]]", "[[Self-Authorship]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Graduation Pathway Typology (Zheng)]]"]
 related_theories: ["[[Bourdieu's Social Theory]]", "[[Culture as Toolkit]]", "[[Dual-Process Model of Culture in Action]]", "[[Rational Action Theory in Education]]"]
 related_persons: ["[[Yajun Zheng]]", "[[Max Weber]]", "[[Ann Swidler]]", "[[Marcia Baxter Magolda]]"]
 sources: ["[[郑_2023_上海三联书店]]"]
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 ## 定义
@@ -212,6 +212,26 @@ Reay 等人（2009）的"精英休克"概念在郑雅君的访谈中获得了丰
 - **冰倩**（南方大学社科，湖南农村，第一代大学生）：轻信"大学好自由，喜欢的东西就努力追寻"，大一抱着"拿个 60 分就可以了"的心态，到大三才意识到绩点的重要性。无实习经历、未做求职准备、考研落榜，最终延毕。反复说自己"好傻"——"要是当时有谁跟我说说绩点决定很多东西，我估计就不会抱着那么随便的态度去学习了"（郑雅君，2023）
 - **昌盛**（南方大学社科，甘肃偏僻农村，贫困专项计划）：上大学后发现"现实已经远远地偏离了我的预期"，大二陷入轻度抑郁——"每次出门我都会有一种恐惧，就是害怕与其他人交流……感觉别人看我时候的眼神是不对的，我感觉他们可能是在嘲笑我"（郑雅君，2023）
 - [[Recommendation-Based Graduate Admission System]] — 推免制度以大一至大三的累积学分绩点为选拔依据。采用直觉依赖模式的学生可能在入学初期未认识到学业成绩与推免资格之间的关联，等到大二、大三意识到时为时已晚，错失这一最优升学路径（郑雅君，2023）
+
+---
+
+## 亚类型：迷失无从者与价值归顺者
+
+第五章进一步区分了直觉依赖模式内部的两种亚类型，依据价值信念驱动力的强弱（郑雅君，2023）：
+
+### [[Lost Mode|迷失无从者]]
+
+迷失无从者既缺乏策略性工具，也未能内化一套自洽的价值信念。他们的文化工具箱中"工具"既少又零碎，且互不配套甚至彼此抵牾——在家庭责任、消费趣味、学校家国理想三种图式之间漂泊无定。因为长期无法确定方向，在左顾右盼间错失出路准备的窗口期，最终被动接受权宜之策。在四类中处于最不利地位，其名校文凭的兑换能力随之缩水（郑雅君，2023）。
+
+> 例：牛铭——大学四年从未实习、简历空白，"糊里糊涂就直博了"；寒梅——直研未果→借钱留学→拒信→延毕→再申失败→被迫求职（郑雅君，2023）
+
+### [[Value Conformist Mode|价值归顺者]]
+
+价值归顺者虽然也面临直觉依赖模式下的策略不足，但因为顺服于学校正式教育而内化了"家国理想-社会价值"图式，并据此选择了大学提供赞助的生涯发展方向（选调生、学术职业、公共服务等）。在中国市场体制与政府体制并行的[[Dual Elite Career Paths|二元精英路径]]下，他们获得了从学校到体制的"赞助性流动"，虽薪酬不及机会主义者，但声望和地位同样理想（郑雅君，2023）。
+
+> 例：益民——从贫困县到选调生，通过扶贫调研、支教走出迷失，"能够发展好自己，然后最好给周围的人带来一些改变"；高程——放弃几十万年薪选择省委组织部，"你始终是在为国家做事"（郑雅君，2023）
+
+两种亚类型的共性是都面临[[Cultural Barrier in Higher Education|文化障碍]]，但价值归顺者因为接受了大学主流文化宣导而免于生涯困境——这是大学教育作为"再社会化"过程的积极面向（郑雅君，2023）。
 
 ---
 

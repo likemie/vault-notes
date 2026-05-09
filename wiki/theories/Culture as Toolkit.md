@@ -2,14 +2,14 @@
 title: Culture as Toolkit
 type: theory
 tags: [culture-as-toolkit, cultural-sociology, paradigm/interpretivist]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]"]
+related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Work Meaning Schemas (Zheng)]]", "[[Graduation Pathway Typology (Zheng)]]"]
 related_theories: ["[[Dual-Process Model of Culture in Action]]", "[[Rational Action Theory in Education]]"]
 related_persons: ["[[Ann Swidler]]", "[[Yajun Zheng]]", "[[Max Weber]]"]
 sources: ["[[郑_2023_上海三联书店]]"]
 confidence: low
 status: draft
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 ## 核心主张
@@ -101,10 +101,34 @@ updated: 2026-05-08
 
 这一章的分析也呼应了 Swidler（1986）对不稳定生活状态的理论——在进入大学场域后的"不稳定"时期，大学提供的文化资源（同辈交往、导师指导、学术项目、学生工作）对直觉依赖者的工具箱重组产生了直接而深远的影响（郑雅君，2023）。
 
+## 在第五章中的应用：择业中的图式运用与价值信念
+
+郑雅君（2023）第五章将工具箱理论进一步延伸至工作意义建构和择业决策领域，发现了两个关键机制：
+
+### 图式运用的两种情形
+
+大学生在择业中运用文化工具箱内的图式资源，分为两种基本情形（郑雅君，2023）：
+
+- **方向导引**（Direction Guidance）：大学生经过四年学习生活，毕业时已形成对某些图式的鲜明认同和内化，在择业时自然知道该激活哪些图式，决策方向与该图式的指向保持一致。此时意义感如灯塔般驱动和指引出路选择
+- **结果合理化**（Outcome Rationalization）：大学生毕业时各类图式均保持较低内化水平，未能主动调用任何图式来驱动选择，其出路结果通常是服从外部制度安排或偶然因素的结果。此时学生事后调用与该结果相符的某图式来"合理化"自己的择业结果
+
+在"方向导引"中，多数被访者同时激活两个图式并面对其张力。常见化解策略包括兼顾与次序化（如先求职回应家庭责任→再创业实现财务自由→再环球体验回应个体趣味）以及意义再解释（将自身选择用家人能接受的图式重新包装）（郑雅君，2023）。
+
+### 图式内化程度的阶层分化与代内分化
+
+70 名被访者在三种图式构成的"意义地图"上的分布显示：内陆地区、农民/劳工家庭、体制内就业者多集中在"地位保障-家国理想"主轴；沿海地区、富有/中产家庭、体制外就业者多分布在"家国理想-个体趣味"主轴。作为"90后"新生代的大学生虽普遍熟识从父辈承袭而来的文化工具，但其中成长于改革开放前沿地区的优势群体，能够更加自然和熟练地运用个体本位的文化图式去建构工作意义（郑雅君，2023）。
+
+### 两种理论范式的互补运作
+
+第五章的发现进一步验证了 Swidler 工具箱范式与 Weber 价值观驱动范式在现实中的互补关系——在学校-工作转换的具体语境下，学生能在生涯选择上享有多大程度的自由，取决于：（1）内化的价值观念是否驱动了自洽的、明晰的目标（价值观驱动维度）；（2）学生作为理性行动者使用文化工具达成目标的能力（工具箱维度）。二者分别对应郑雅君 2×2 四分类模型（[[Graduation Pathway Typology (Zheng)]]）的横轴和纵轴（郑雅君，2023）。
+
+---
+
 ## 应用领域
 
-- [[Goal-Controlled Mode]] — 该概念以文化工具箱理论为分析框架：目标掌控模式被理解为一组由优势家庭提供的文化工具，使学生能够在大学场域中策略性地组织自己的行动路线（郑雅君，2023）
-- [[Intuition-Dependent Mode]] — 直觉依赖模式则说明低阶层学生可及的文化工具集中缺少那些对精英大学场域具有高度适用性的"工具"，因而在组织大学生活时缺乏策略性（郑雅君，2023）
+- [[Goal-Controlled Mode]] — 该概念以文化工具箱理论为分析框架：目标掌控模式被理解为一组由优势家庭提供的文化工具，使学生能够在大学场域中策略性地组织自己的行动路线。其亚类型[[Self-Driven Mode|自主驱动者]]和[[Opportunist Mode|机会主义者]]的区分，进一步体现了工具箱范式中"价值目的"和"策略手段"两个维度的独立运作（郑雅君，2023）
+- [[Intuition-Dependent Mode]] — 直觉依赖模式说明低阶层学生可及的文化工具集中缺少那些对精英大学场域具有高度适用性的"工具"。其亚类型[[Lost Mode|迷失无从者]]和[[Value Conformist Mode|价值归顺者]]的区分，则体现了"工具匮乏"与"价值馈赠"可能同时发生的复杂关系（郑雅君，2023）
+- [[Work Meaning Schemas (Zheng)]] — 名校大学生文化工具箱中三种可供调用的工作意义图式——地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达——及其代内分化（郑雅君，2023）
 
 ---
 

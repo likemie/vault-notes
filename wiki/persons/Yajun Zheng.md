@@ -3,14 +3,14 @@ title: Yajun Zheng
 type: person
 tags: [Yajun-Zheng, higher-education, cultural-sociology, region/china]
 related_theories: ["[[Bourdieu's Social Theory]]", "[[Culture as Toolkit]]", "[[Rational Action Theory in Education]]", "[[Dual-Process Model of Culture in Action]]"]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[The Shock of the Elite]]", "[[Self-Authorship]]"]
+related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[The Shock of the Elite]]", "[[Self-Authorship]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Work Meaning Schemas (Zheng)]]"]
 related_persons: ["[[Marcia Baxter Magolda]]"]
 related_methods: ["[[Constructivist Grounded Theory]]"]
 sources: ["books/郑_2023_上海三联书店/郑_2023_上海三联书店.md"]
 confidence: low
 status: draft
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 ## 简介
@@ -53,6 +53,8 @@ updated: 2026-05-08
 - [[Goal-Controlled Mode]] — 原创概念，描述优势阶层学生策略性组织大学生活的实践图式
 - [[Intuition-Dependent Mode]] — 原创概念，描述弱势阶层学生凭直觉被动应对大学生活的实践图式
 - [[Cultural Barrier in Higher Education]] — 系统阐述的概念，揭示精英大学中的隐性文化障碍及其对教育公平的侵蚀
+- [[Graduation Pathway Typology (Zheng)]] — 在双模式基础上纳入价值信念维度，提出2×2四分类模型（自主驱动者/机会主义者/迷失无从者/价值归顺者）
+- [[Work Meaning Schemas (Zheng)]] — 揭示名校大学生建构工作意义的三种文化图式（地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达）及其代内分化
 
 ---
 

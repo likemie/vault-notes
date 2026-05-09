@@ -2,14 +2,14 @@
 title: Goal-Controlled Mode
 type: concept
 tags: [goal-controlled-mode, higher-education, cultural-capital, region/china, level/higher-ed]
-related_concepts: ["[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Symbolic Boundary]]", "[[Self-Authorship]]", "[[The Shock of the Elite]]"]
+related_concepts: ["[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Symbolic Boundary]]", "[[Self-Authorship]]", "[[The Shock of the Elite]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Graduation Pathway Typology (Zheng)]]"]
 related_theories: ["[[Bourdieu's Social Theory]]", "[[Culture as Toolkit]]", "[[Dual-Process Model of Culture in Action]]", "[[Rational Action Theory in Education]]"]
 related_persons: ["[[Yajun Zheng]]", "[[Max Weber]]", "[[Ann Swidler]]", "[[Marcia Baxter Magolda]]"]
 sources: ["[[郑_2023_上海三联书店]]"]
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 ## 定义
@@ -169,6 +169,26 @@ updated: 2026-05-08
 - **泽斌**（南方大学光电工程，东部城市，父母企业中层）：专业被调剂，但通过名企实习找到商业营销方向。大四放弃保研名额，拿到知名游戏公司市场营销岗位（起薪 20 万）。其核心理念——"我一直坚信就是所有东西都是'我想'最重要"——典型体现了将大学视为"三观建设"而非单纯知识学习的目标掌控取向（郑雅君，2023）
 - 中国精英大学（双一流高校）中，优势家庭学生更可能采取目标掌控模式，在出国留学申请中提前1-2年准备语言考试、研究经历和推荐信；在推免读研中从大一起维持高学分绩点；在求职中有针对性地积累实习经历和职业证书（郑雅君，2023）
 - [[Recommendation-Based Graduate Admission System]] — 推免制度以累积学分绩点为核心选拔依据，天然有利于从大一起就有策略性学业规划的[[Goal-Controlled Mode]]运用者（郑雅君，2023）
+
+---
+
+## 亚类型：自主驱动者与机会主义者
+
+第五章进一步区分了目标掌控模式内部的两种亚类型，依据价值信念驱动力的强弱（郑雅君，2023）：
+
+### [[Self-Driven Mode|自主驱动者]]
+
+自主驱动者在具备策略性行动能力的同时，还深层内化了一套自洽的价值信念作为意义感的支撑。他们的生涯目标是价值驱动的——"我真正想做什么"驱动其决策。他们对大学的价值教育保持独立审视，善于在多元观念来源中进行自主反思，最终锚定一个有强烈意义感支撑的生涯理想。其选择偏好取决于意义感设定，通常指向精英性质的职业或升学目标（郑雅君，2023）。
+
+> 例：思同（北方大学，毕业后创业）——"当你去追的时候，你觉得你就跟这个事情都已经是融为一体了"；友斌——"钱反正够花就行了，赚多了没用……你花了人民币是要追求什么？是追求自己高兴"（郑雅君，2023）
+
+### [[Opportunist Mode|机会主义者]]
+
+机会主义者具备同样强的策略性行动能力，但未深入内化一种逻辑自洽的价值信念。其生涯目标往往是短期的、工具性的——"做什么可以让我最成功"驱动其决策。他们对"为什么要成功"没有答案并将其暂时搁置，将工作视为纯粹的交易关系。在竞争中依靠工具理性胜出，紧盯高薪热门职位（郑雅君，2023）。
+
+> 例：泽斌——"目前支撑我的就是这两个（财富和地位），其实这个东西越简单越好"；国凡——"我其实就是一条狗，谁给我的骨头肉多我就给谁干活"（郑雅君，2023）
+
+两种亚类型的关键区分在于：自主驱动者重视"我真正想做什么"，机会主义者更考虑"做什么可以让我最成功"。二者均来自优势家庭背景，但意义感的驱动力形成了系统性的分叉（郑雅君，2023）。
 
 ---
 
