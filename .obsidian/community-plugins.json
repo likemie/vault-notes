@@ -6,5 +6,6 @@
   "templater-obsidian",
   "obsidian42-brat",
   "automatic-linker",
-  "obsidian-linter"
+  "obsidian-linter",
+  "floating-toc"
 ]
