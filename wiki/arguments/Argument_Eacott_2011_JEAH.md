@@ -1,5 +1,6 @@
 ---
 title: Argument_Eacott_2011_JEAH
+aliases: [Eacott 2011 JEAH]
 type: argument
 citation: "Eacott, S. (2011). Preparing 'educational' leaders in managerialist times: an Australian story. *Journal of Educational Administration and History*, 43(1), 43–59."
 tags:
@@ -14,8 +15,12 @@ related_concepts:
   - "[[New Public Management in Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Performativity of Measurement]]"
+  - "[[Champ]]"
+  - "[[Habitus]]"
+  - "[[Doxa]]"
+  - "[[Cultural Capital]]"
 related_theories:
-  - - "[[Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
 related_persons:
   - "[[Clippings/Pierre Bourdieu]]"
   - "[[Helen Gunter]]"
@@ -23,34 +28,50 @@ sources:
   - sources/Eacott_2011_JEAH.md
 status: draft
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-05-09
+---
+
+# Argument_Eacott_2011_JEAH
+
 ---
 
 ## 研究问题
 
-在管理主义时代，澳大利亚新南威尔士州（NSW）公立学校系统的校长培养方案如何建构了特定的校长身份？这种身份建构服务于什么目的？是否存在替代性的领导力培养路径？
+> [!question]
+> 在管理主义时代，澳大利亚新南威尔士州（NSW）公立学校系统的校长培养方案如何建构了特定的校长身份？这种身份建构服务于什么目的？是否存在替代性的领导力培养路径？
 
 Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共部门管理主义干预的一部分"，它将校长建构为"国家启动的改革的交付者（deliverer）"。论文提出替代方案：学校领导者需要一种基于"教育问题提出与争辩"（educational problem posing and contestation）而非"组织问题解决"（organisational problem solving）的替代性领导习性（Eacott, 2011, p.45）。
 
+---
+
 ## 理论框架
 
-论文以 **Pierre Bourdieu 的社会理论**为核心分析工具（Eacott, 2011, p.47-49）：
+> [!abstract]
+> 论文以 **Pierre Bourdieu 的社会理论**为核心分析工具（Eacott, 2011, p.47-49）：
 
-- **场域（field）**：相对自主的社会世界，其自主性体现为生成自身价值和成就标志的能力。教育场域正在削弱——"市场和管理主义的语言已渗透进核心教育论述"（Blackmore, 2010, p.108，引自 Eacott, 2011, p.48）
-- **习性（habitus）**：通过暴露于特定经验而体现的行为倾向系统，仅在实践中显现。校长位于多重社会场域（经济、政治）的交叉点，其习性"被分裂为对抗自身，在与自身的持续协商中"（Eacott, 2011, p.49）
-- **自明真理（doxa）**：被视为理所当然的正统。在学校领导力中，doxa 将校长建构为"系统议程的地方面孔"（Eacott, 2011, p.45）
-- **资本（capital）**：在场域中被视为最有价值的资源。在学校领导力中，资本日益以经济语言被定义（Eacott, 2011, p.50）
+- **[[Champ|场域]]**：相对自主的社会世界，其自主性体现为生成自身价值和成就标志的能力。教育场域正在削弱——"市场和管理主义的语言已渗透进核心教育论述"（Blackmore, 2010, p.108，引自 Eacott, 2011, p.48）
+- **[[Habitus|习性]]**：通过暴露于特定经验而体现的行为倾向系统，仅在实践中显现。校长位于多重社会场域（经济、政治）的交叉点，其习性"被分裂为对抗自身，在与自身的持续协商中"（Eacott, 2011, p.49）
+- **[[Doxa|自明真理]]**：被视为理所当然的正统。在学校领导力中，doxa 将校长建构为"系统议程的地方面孔"（Eacott, 2011, p.45）
+- **[[Cultural Capital|资本]]**：在场域中被视为最有价值的资源。在学校领导力中，资本日益以经济语言被定义（Eacott, 2011, p.50）
 
 论文还借鉴了 Oakeshott 和 Bates 的"加入世界对话"（join the conversation of the world）概念，以及 English 的"知识动态"（knowledge dynamic），作为替代性领导力培养的哲学基础（Eacott, 2011, p.43-44）。
 
+---
+
 ## 研究方法
 
-- **方法**：理论性／批判性政策分析（polemical intervention），以 Bourdieuian 社会理论为分析透镜
-- **案例**：NSW 公立学校系统（澳大利亚最大的学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校）
-- **数据来源**：政策文件（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *Melbourne Declaration*）、联邦/州教育政策、学术文献
-- **立场声明**：论文明确承认其"对大学本位、理论丰富的项目的潜在特权化"（Eacott, 2011, p.44），以及其从"对澳大利亚教育领导力培养现状的不满"出发的立场（p.44）
+> [!info]
+> - **方法**：理论性／批判性政策分析（polemical intervention），以 Bourdieuian 社会理论为分析透镜
+> - **案例**：NSW 公立学校系统（澳大利亚最大的学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校）
+> - **数据来源**：政策文件（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *Melbourne Declaration*）、联邦/州教育政策、学术文献
+> - **立场声明**：论文明确承认其"对大学本位、理论丰富的项目的潜在特权化"（Eacott, 2011, p.44），以及其从"对澳大利亚教育领导力培养现状的不满"出发的立场（p.44）
 
-## 核心论证
+---
+
+## 论证结构
+
+> [!example]
+> 论文以四个递进步骤展开论证：
 
 ### 第一步：NSW 校长培养是管理主义国家干预
 
@@ -83,7 +104,11 @@ Eacott 提出（Eacott, 2011, p.56-58）：
 - English 的理想："最活跃的教育领导力培养项目应以内部矛盾、二律背反、循环性和争辩性交叉点为特征"（English, 2006, p.466，引自 Eacott, 2011, p.57）
 - 技术技能仍然需要但应被"去中心化"，视为"对更关键的'教育'领导力事业的附属"（Lumby & English, 2009, p.112，引自 Eacott, 2011, p.58）
 
+---
+
 ## 主要发现
+
+> [!success]
 
 1. NSW 公立学校系统的校长培养方案体现了教育场域被经济和政治场域渗透的系统性削弱——"校长培养不过是当代国家对公共部门管理主义干预的一部分"（Eacott, 2011, p.45）
 2. 学校领导力 doxa 通过学校本位规划、择优晋升、领导力能力框架和竞争性入学等结构安排，将校长身份建构为"国家改革的交付者"（Eacott, 2011, p.45, 52）
@@ -91,25 +116,41 @@ Eacott 提出（Eacott, 2011, p.56-58）：
 4. 校长位于多重社会场域交叉点的独特社会空间——向内看（教育实践本身的目的）与向外看（经济和政治的成功衡量）之间的持续张力导致习性"被分裂为对抗自身"（Eacott, 2011, p.48-49）
 5. 替代方案需要一种基于"教育问题提出与争辩"的领导习性——引入参与者"加入世界对话"，这要求跨边界（地理和场域）的阅读（Eacott, 2011, p.57-58）
 
+> [!info]- 核心数据
+> - NSW 公立学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校（Eacott, 2011, p.43）
+> - 2002-2006 年仅 2.3% 的 ARC Discovery 拨款流向教育领域，其中不到 5% 流向教育领导力研究，年均仅 USD 52,000（Mulford, 2007，引自 Eacott, 2011, p.56）
+
+---
+
 ## 关键引用
 
+> [!quote]
 > "The preparation of principals in the New South Wales public school system is evidence of the diminished strength of the field of schooling to refract interference from other fields, particularly the economic and political fields."（p.45）
 
+> [!quote]
 > "The central thesis of this article is that if school leaders are to reclaim their radical past and engage in public intellectualism, an alternate leadership habitus, one built on educational problem posing and contestation as opposed to organisational problem solving, is required."（p.45）
 
+> [!quote]
 > "To be a player in the game of school leadership, one must learn or be habituated to the rules of the game. A game couched in economic language with frequent intervention, or interference, from those beyond education."（p.50）
 
+> [!quote]
 > "Any attempt to objectify and/or de-contextualise leadership practice destroys that which it attempts to explain. Leadership is a social practice, it is not static, it is defined moment-by-moment in the interactions between organisational/group members."（p.56）
 
+> [!quote]
 > "If orthodoxy is to be challenged alternate ways of being are needed. Not just alternate means of problem solving, but alternate ways of thinking and problem posing."（p.58）
+
+---
 
 ## 局限性与批评
 
-- **论文自认局限**：作为一篇"争论性干预"（polemical intervention），论文明确基于对现状的"不满"立场（p.44），可能被批评为选择性使用证据
-- **大学本位偏见**：作者承认对"大学本位、理论丰富的项目"存在"潜在特权化"（p.44），尽管声明试图同时问题化两种立场以避免现代主义二元对立
-- **NSW 案例的推广性**：论文聚焦单一系统（NSW 公立学校），其结论向其他情境（私立学校、其他州/国家）的推广需要谨慎
-- **缺乏实证数据**：作为理论／政策分析而非实证研究，论文未提供校长或项目参与者的直接经验数据
-- **替代方案的具体性不足**：虽然提出了"加入世界对话"的哲学方向，但未提供具体的课程设计或实施方案
+> [!warning]
+> - **论文自认局限**：作为一篇"争论性干预"（polemical intervention），论文明确基于对现状的"不满"立场（p.44），可能被批评为选择性使用证据
+> - **大学本位偏见**：作者承认对"大学本位、理论丰富的项目"存在"潜在特权化"（p.44），尽管声明试图同时问题化两种立场以避免现代主义二元对立
+> - **NSW 案例的推广性**：论文聚焦单一系统（NSW 公立学校），其结论向其他情境（私立学校、其他州/国家）的推广需要谨慎
+> - **缺乏实证数据**：作为理论／政策分析而非实证研究，论文未提供校长或项目参与者的直接经验数据
+> - **替代方案的具体性不足**：虽然提出了"加入世界对话"的哲学方向，但未提供具体的课程设计或实施方案
+
+---
 
 ## 来源
 

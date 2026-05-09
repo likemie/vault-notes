@@ -49,11 +49,11 @@ related_methods:
   - "[[Case Study]]"
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Clippings/Pierre Bourdieu]]"
   - "[[Max Weber]]"
   - "[[Ann Swidler]]"
   - "[[Marcia Baxter Magolda]]"
   - "[[Didier Eribon]]"
+  - "[[wiki/persons/Pierre Bourdieu]]"
 related_facts:
   - "[[China College Graduate Employment Reform 1986-1997]]"
   - "[[Recommendation-Based Graduate Admission System]]"
