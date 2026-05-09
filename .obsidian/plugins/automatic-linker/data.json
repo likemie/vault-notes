@@ -1,5 +1,5 @@
 {
-  "formatOnSave": false,
+  "formatOnSave": true,
   "showNotice": false,
   "respectNewFileFolderPath": true,
   "includeAliases": true,
@@ -25,5 +25,5 @@
   "removeAliasInDirs": [],
   "runLinterAfterFormatting": false,
   "runPrettierAfterFormatting": false,
-  "formatDelayMs": 1
+  "formatDelayMs": 500
 }
