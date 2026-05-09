@@ -2,7 +2,7 @@
 title: Intuition-Dependent Mode
 type: concept
 tags: [intuition-dependent-mode, higher-education, cultural-capital, region/china, level/higher-ed]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Symbolic Boundary]]", "[[The Shock of the Elite]]", "[[Self-Authorship]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Graduation Pathway Typology (Zheng)]]"]
+related_concepts: ["[[Goal-Controlled Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Symbolic Boundary]]", "[[The Shock of the Elite]]", "[[Self-Authorship]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Cultural Disembedding]]", "[[Cultural Disorientation]]"]
 related_theories: ["[[Bourdieu's Social Theory]]", "[[Culture as Toolkit]]", "[[Dual-Process Model of Culture in Action]]", "[[Rational Action Theory in Education]]"]
 related_persons: ["[[Yajun Zheng]]", "[[Max Weber]]", "[[Ann Swidler]]", "[[Marcia Baxter Magolda]]"]
 sources: ["[[郑_2023_上海三联书店]]"]

@@ -11,14 +11,12 @@
             "id": "79737c99d19b469f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "epub",
               "state": {
-                "file": "wiki/arguments/Argument_郑_2023_上海三联书店.md",
-                "mode": "source",
-                "source": false
+                "file": "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub"
               },
-              "icon": "lucide-file",
-              "title": "Argument_郑_2023_上海三联书店"
+              "icon": "doc-epub",
+              "title": "金榜题名之后_大学生出路分化之谜"
             }
           }
         ]
@@ -189,9 +187,11 @@
   },
   "active": "79737c99d19b469f",
   "lastOpenFiles": [
+    "wiki/arguments/Argument_郑_2023_上海三联书店.md",
+    "wiki/persons/Didier Eribon.md",
+    "wiki/concepts/Cultural Disorientation.md",
     "wiki/concepts/Cultural Disembedding.md",
     "wiki/concepts/Graduation Pathway Typology (Zheng).md",
-    "wiki/arguments/Argument_郑_2023_上海三联书店.md",
     "Clippings/Pierre Bourdieu — Wikipédia.md",
     "wiki/persons/Pierre Bourdieu.md",
     "wiki/arguments/Argument_Eacott_2011_JEAH.md",
@@ -216,8 +216,6 @@
     "wiki/concepts/Cult of the Guru.md",
     "wiki/concepts/Bildung.md",
     "wiki/concepts/Atomisation of Knowledge and Skills.md",
-    "templater/template-theory.md",
-    "templater/template-person.md",
     "templater",
     "wiki/templater",
     "wiki/Templater",

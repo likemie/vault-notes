@@ -3,8 +3,8 @@ title: Yajun Zheng
 type: person
 tags: [Yajun-Zheng, higher-education, cultural-sociology, region/china]
 related_theories: ["[[Bourdieu's Social Theory]]", "[[Culture as Toolkit]]", "[[Rational Action Theory in Education]]", "[[Dual-Process Model of Culture in Action]]"]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[The Shock of the Elite]]", "[[Self-Authorship]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Work Meaning Schemas (Zheng)]]"]
-related_persons: ["[[Marcia Baxter Magolda]]"]
+related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[The Shock of the Elite]]", "[[Self-Authorship]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Work Meaning Schemas (Zheng)]]", "[[Cultural Disembedding]]", "[[Cultural Disorientation]]"]
+related_persons: ["[[Marcia Baxter Magolda]]", "[[Didier Eribon]]"]
 related_methods: ["[[Constructivist Grounded Theory]]"]
 sources: ["books/郑_2023_上海三联书店/郑_2023_上海三联书店.md"]
 confidence: low
