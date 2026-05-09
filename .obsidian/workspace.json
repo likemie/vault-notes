@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/theories/Bourdieu's Social Theory.md",
+                "file": "wiki/arguments/Argument_郑_2023_上海三联书店.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bourdieu's Social Theory"
+              "title": "Argument_郑_2023_上海三联书店"
             }
           }
         ]
@@ -189,10 +189,17 @@
   },
   "active": "0bbe7c7b09a48b3e",
   "lastOpenFiles": [
+    "wiki/arguments/Argument_Peterson_2016_IJRME.md",
+    "wiki/concepts/Goal-Controlled Mode.md",
+    "wiki/concepts/Phenomenon-Based Learning.md",
+    "wiki/persons/Kimberly Ochs.md",
+    "wiki/persons/Michael Porter.md",
+    "wiki/persons/Ray Pawson.md",
     "wiki/persons/Pierre Bourdieu.md",
     "wiki/theories/Bourdieu's Social Theory.md",
+    "wiki/concepts/Cultural Capital.md",
+    "wiki/concepts/Habitus.md",
     "wiki/concepts/Black Box RCTs.md",
-    "wiki/persons/Ray Pawson.md",
     "wiki/arguments/Argument_Eacott_2011_JEAH.md",
     "wiki/arguments/Argument_Eacott_2015_EPT.md",
     "sources/Eacott_2011_JEAH.md",
@@ -214,13 +221,6 @@
     "wiki/arguments/Argument_Downey_2016_SoE.md",
     "wiki/arguments/Argument_Cowen_2019_ERE.md",
     "wiki/arguments/Argument_Cheung_2021_ROE.md",
-    "wiki/arguments/Argument_Cowen_2015_CHESS.md",
-    "wiki/concepts/Intuition-Dependent Mode.md",
-    "wiki/concepts/Goal-Controlled Mode.md",
-    "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
-    "wiki/concepts/Value Conformist Mode.md",
-    "wiki/concepts/Lost Mode.md",
-    "wiki/concepts/Opportunist Mode.md",
     "books/郑_2023_上海三联书店/案例样本.jpeg",
     "books/郑_2023_上海三联书店/附录一个案描述3.jpeg",
     "templater",
