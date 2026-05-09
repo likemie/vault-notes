@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a5090c4265f3496e",
+        "id": "85d60fe6e80a244d",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b8cae84211ca27",
+            "id": "0b957f33b379760b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "information/Journal of Curriculum Studies_20260425_2238.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journal of Curriculum Studies_20260425_2238"
+              "title": "index"
             }
           }
         ]
@@ -185,8 +185,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c9b8cae84211ca27",
+  "active": "0b957f33b379760b",
   "lastOpenFiles": [
+    "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
+    "books/郑_2023_上海三联书店/案例样本.jpeg",
+    "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
+    "information/Journal of Curriculum Studies_20260425_2238.md",
     "information/Journal of Curriculum Studies_20260425_0207.md",
     "information/Journal of Curriculum Studies_20260422_1925.md",
     "information/Journal of Comparative and International Education_20260504_2301.md",
@@ -202,7 +206,6 @@
     "wiki/arguments/Argument_Lekhal_2015_Paideia.md",
     "books/郑_2023_上海三联书店/附录一个案描述2.jpeg",
     "books/郑_2023_上海三联书店/第五章 受访者亚群体在不同主轴位置上的分布情况.jpeg",
-    "books/郑_2023_上海三联书店/第三章.jpeg",
-    "books/郑_2023_上海三联书店/案例样本.jpeg"
+    "books/郑_2023_上海三联书店/第三章.jpeg"
   ]
 }
