@@ -10,7 +10,7 @@ tags:
   - region/france
 related_concepts:
   - "[[Cultural Capital]]"
-  - "[[Field (Bourdieu)]]"
+  - "[[Champ]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Barrier in Higher Education]]"

@@ -21,7 +21,7 @@ related_concepts:
   - "[[Value Conformist Mode]]"
   - "[[Habitus]]"
   - "[[Cultural Capital]]"
-  - "[[Field (Bourdieu)]]"
+  - "[[Champ]]"
 related_theories:
   - "[[Bourdieu's Social Theory]]"
 related_persons:

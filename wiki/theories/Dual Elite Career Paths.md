@@ -2,7 +2,7 @@
 title: Dual Elite Career Paths
 type: theory
 tags: [dual-elite-career-paths, social-stratification, post-socialism, region/china, level/higher-ed]
-related_concepts: ["[[Credential Inflation]]", "[[Field (Bourdieu)]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Value Conformist Mode]]"]
+related_concepts: ["[[Credential Inflation]]", "[[Champ]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Value Conformist Mode]]"]
 related_persons: ["[[Andrew Walder]]"]
 sources: ["books/郑_2023_上海三联书店/郑_2023_上海三联书店.md"]
 confidence: low

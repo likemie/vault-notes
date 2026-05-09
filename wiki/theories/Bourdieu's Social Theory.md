@@ -15,7 +15,7 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Habitus]]"
   - "[[Cultural Capital]]"
-  - "[[Field (Bourdieu)]]"
+  - "[[Champ]]"
   - "[[Doxa]]"
   - "[[Symbolic Violence]]"
   - "[[Goal-Controlled Mode]]"
@@ -65,7 +65,7 @@ Bourdieu, Chamboredon & Passeron（1968/1991）在 *The Craft of Sociology: Epis
 
 Bourdieu 的社会理论由一组相互建构的核心概念构成操作框架。各概念的详细讨论见对应条目：
 
-- **[[Field (Bourdieu)|场域]]** — 相对自主的社会竞争空间。场域自主性体现为其折射外部力量干扰的能力；教育场域正在因经济和政治场域的渗透而削弱（Eacott, 2011, p.48）。详见 [[Field (Bourdieu)]]。
+- **[[Champ|场域]]** — 相对自主的社会竞争空间。场域自主性体现为其折射外部力量干扰的能力；教育场域正在因经济和政治场域的渗透而削弱（Eacott, 2011, p.48）。详见 [[Champ]]。
 - **[[Habitus|习性]]** — 通过社会化获得的持久倾向系统。校长的习性被多重场域交叉所分裂——"在某种程度上注定了某种重复，或对自我的双重感知"（Eacott, 2011, p.49）。详见 [[Habitus]]。
 - **[[Cultural Capital|资本]]** — 场域中被视为最有价值的资源，形式随场域变化。在学校领导力中，资本定义日益由经济和政治手段主导（Eacott, 2011, p.48-50）。详见 [[Cultural Capital]]。
 - **[[Doxa|自明真理]]** — 场域中不经追问的正统或常识，通过结构安排而非强制合法化。在学校领导力中表现为"证据本位策略"等论述框架（Eacott, 2011, p.50-51）。详见 [[Doxa]]。

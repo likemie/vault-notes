@@ -3,7 +3,7 @@ title: Doxa
 aliases: [自明真理, doxa]
 type: concept
 tags: [doxa, Bourdieu, social-theory, paradigm/critical, region/france]
-related_concepts: ["[[Habitus]]", "[[Field (Bourdieu)]]", "[[Cultural Capital]]", "[[Symbolic Violence]]"]
+related_concepts: ["[[Habitus]]", "[[Champ]]", "[[Cultural Capital]]", "[[Symbolic Violence]]"]
 related_theories: ["[[Bourdieu's Social Theory]]"]
 related_methods: []
 related_persons: ["[[Pierre Bourdieu]]"]
@@ -41,7 +41,7 @@ updated: 2026-05-09
 - **场域特定性**：每个场域都有自身的 doxa——特定类型的知识和资本在该场域中被特权化为不言自明的标准。例如教育场域中的"证据本位策略"论述构成一种 doxa（Eacott, 2011, p.50）
 - **结构性的合法化机制**：Doxa 通过制度化的结构安排（如晋升标准、能力框架、选拔程序）而非直接的强制来维持。这些结构不断再生产 doxa 的常识地位，使其免受质疑（Eacott, 2011, p.45）
 - **再生产功能**：Doxa 的核心功能是维持现有权力关系——"在一个范式内的领导力培养对系统而言是（再）生产性的，维持着现有权力关系"（Eacott, 2011, p.51）
-- **与 illusio 的关系**：Doxa 与 [[Field (Bourdieu)|illusio]] 密切关联——当行动者被"卷入游戏"（illusio）时，他们通常也接受了该场域的 doxa 作为游戏的既定前提
+- **与 illusio 的关系**：Doxa 与 [[Champ|illusio]] 密切关联——当行动者被"卷入游戏"（illusio）时，他们通常也接受了该场域的 doxa 作为游戏的既定前提
 
 ---
 
@@ -50,7 +50,7 @@ updated: 2026-05-09
 > [!example]
 > - vs [[Symbolic Violence]] — 符号暴力是支配关系通过符号被合法化的**过程**，doxa 则是这一过程的结果——即已经被自然化了的那套常识本身。符号暴力制造 doxa，doxa 遮蔽符号暴力的任意性
 > - vs [[Habitus]] — 习性是内化于个体身心的倾向系统，doxa 是外在于个体的场域层面的共识结构；但习性与 doxa 相互生产：习性使人倾向于将 doxa 体验为自然，doxa 反过来强化特定的习性结构
-> - vs [[Field (Bourdieu)]] — 每个场域都有自身的 doxa；场域自主性的重要标志之一即其 doxa 在多大程度上独立于外部场域（经济、政治）的常识
+> - vs [[Champ]] — 每个场域都有自身的 doxa；场域自主性的重要标志之一即其 doxa 在多大程度上独立于外部场域（经济、政治）的常识
 
 ---
 

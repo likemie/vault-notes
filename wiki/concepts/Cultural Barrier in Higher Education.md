@@ -13,7 +13,7 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Habitus]]"
   - "[[Cultural Capital]]"
-  - "[[Field (Bourdieu)]]"
+  - "[[Champ]]"
   - "[[The Shock of the Elite]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"

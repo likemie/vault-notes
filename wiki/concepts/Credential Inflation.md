@@ -2,7 +2,7 @@
 title: Credential Inflation
 type: concept
 tags: [credential-inflation, higher-education, social-stratification, level/higher-ed]
-related_concepts: ["[[Economy of Experience]]", "[[Field (Bourdieu)]]"]
+related_concepts: ["[[Economy of Experience]]", "[[Champ]]"]
 related_theories: ["[[Dual Elite Career Paths]]"]
 related_persons: ["[[Randall Collins]]"]
 sources: ["[[郑_2023_上海三联书店]]"]
