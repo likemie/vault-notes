@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Pierre Bourdieu.md",
+                "file": "wiki/concepts/Field (Bourdieu).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pierre Bourdieu"
+              "title": "Field (Bourdieu)"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "0bbe7c7b09a48b3e",
   "lastOpenFiles": [
-    "Clippings/Hattie-Studie.md",
     "Clippings/Pierre Bourdieu.md",
+    "Clippings/Hattie-Studie.md",
     "wiki/concepts/Doxa.md",
     "wiki/arguments/Argument_郑_2023_上海三联书店.md",
     "wiki/arguments/Argument_Peterson_2016_IJRME.md",
