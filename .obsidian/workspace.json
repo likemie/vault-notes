@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e32db6494e722862",
+        "id": "54303ab228c17d00",
         "type": "tabs",
         "children": [
           {
-            "id": "c45e4e224eb4fbf2",
+            "id": "8d855c275f68667b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/arguments/Argument_ONeill_2012_NZJES.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Argument_ONeill_2012_NZJES"
+              "title": "新标签页"
             }
           }
         ]
@@ -187,16 +183,25 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c45e4e224eb4fbf2",
+  "active": "8d855c275f68667b",
   "lastOpenFiles": [
+    "wiki/persons/Max Weber.md",
+    "wiki/arguments/Argument_郑_2023_上海三联书店.md",
+    "Max Weber1.md",
+    "Clippings/Max Weber1.md",
+    "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md",
+    "raw/Parreira do Amaral(Ed.)_2022_Springer.pdf",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer.pdf",
+    "wiki/arguments/Argument_ONeill_2012_NZJES.md",
+    "raw/978-3-030-94415-5.pdf",
+    "raw",
+    "未命名文件夹",
     "wiki/arguments/Argument_Nielsen_2021_NordPsych.md",
     "wiki/arguments/Argument_Keddie_2020_JEAH.md",
     "wiki/arguments/Argument_Golovchin_2019_ESC.md",
     "wiki/arguments/Argument_Blass_2020_JESP.md",
     "wiki/arguments/Argument_Berk_2011_ER.md",
-    "wiki/persons/Max Weber.md",
-    "wiki/arguments/Argument_郑_2023_上海三联书店.md",
-    "Clippings/Max Weber1.md",
     "wiki/persons/Ann Swidler.md",
     "Clippings/Pierre Bourdieu.md",
     "wiki/facts/china/Recommendation-Based Graduate Admission System.md",
@@ -205,16 +210,12 @@
     "wiki/concepts/Cultural Disorientation.md",
     "wiki/concepts/Cultural Disembedding.md",
     "wiki/facts/china/China College Graduate Employment Reform 1986-1997.md",
-    "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
     "wiki/concepts/Champ.md",
     "wiki/concepts/Credential Inflation.md",
     "wiki/concepts/Economy of Experience.md",
     "wiki/concepts/Employability.md",
     "wiki/concepts/Graduate Attributes.md",
     "wiki/concepts/Lost Mode.md",
-    "wiki/theories/Rational Action Theory in Education.md",
-    "wiki/concepts/Graduation Pathway Typology (Zheng).md",
-    "wiki/concepts/Academic Engagement.md",
     "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
     "books/郑_2023_上海三联书店/学校案例.jpeg",
     "books/郑_2023_上海三联书店/框架图.jpeg",
@@ -229,9 +230,6 @@
     "wiki/未命名文件夹",
     "books/郑_2023_上海三联书店/附录一个案描述2.jpeg",
     "books/郑_2023_上海三联书店/第五章大学生出路产生机制的四分类.jpeg",
-    "books/郑_2023_上海三联书店/第三章.jpeg",
-    "wiki/obsidian_templates_improved",
-    "obsidian_templates_improved",
-    "obsidian_templates_improved.zip"
+    "books/郑_2023_上海三联书店/第三章.jpeg"
   ]
 }
