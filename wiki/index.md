@@ -41,6 +41,7 @@
 - [[Knowledge Transfer]] — Partaken 核心概念：知识一旦被生产即进入挪用、传授、窃取、审查、破坏等动态过程，主张 GPK 的核心是知识转移而非知识生产，六模态框架
 - [[Knowledge Production]] — GPK 两面之一：谁生产知识、以何种视角、为谁的利益，后殖民 GPK 传统的核心分析维度，其术语流行与知识产权商业化同步
 - [[Forced Knowledge Transfer]] — GPK 知识转移模态：通过规定、胁迫和暴力的自上而下知识灌输，以 Freire"银行概念"和 Kokutai no Hongi 为案例
+- [[Fourth Industrial Revolution]] — Schwab/WEF 推广的概念，声称 AI、区块链等构成第四次工业革命，Partaken 以 Kuhn 不可通约性标准批判其为霸权性知识生产话语的自我包装
 - [[Narrative Knowledge]] — Lyotard (1979/1984) 区分于科学知识的社科人文知识类型，Partaken 分析其在全球化中因商业价值科学知识崛起而急剧衰退
 - [[Knowledge Sabotage]] — GPK 知识转移模态：蓄意破坏敌对方知识资产，以网络攻击为主要当代形式
 - [[Economic and Industrial Espionage]] — Søilen 区分经济间谍（政府参与）与工业间谍（无政府），Partaken 以中美技术紧张为核心案例
@@ -51,6 +52,7 @@
 - [[Progressive Neoliberalism]] — Nancy Fraser (2019) 概念：新自由主义经济政策与进步社会议程的话语结合，Moisio (2022) 定位为过去三十年知识经济化的主要政治推力（"硅谷世界观"），正在消退
 - [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念：超国家或国际组织通过指标、排名等监管机制对区域内高等教育进行间接治理的模式
 - [[Classical Geopolitics]] — Moisio (2022) 概念：以国家"硬"领土力量和势力范围为中心的传统地缘政治理解，与知识地缘政治的关系性空间构型形成对照
+- [[Concealment-Exposure Framework]] — Nagel (1998) 提出、Partaken 提升至 GPK 的分析框架：隐藏与暴露的边界控制是人性核心属性，在 GPK 中体现为监视、审查和破坏三种运作模式
 - [[Economic Patriotism]] — Crouch & Le Galès (2012) 概念：国家将资源集中于冠军城市以锚定全球资本流动，将爱国情感与特定领土利益绑定的政策实践，Moisio (2022) 定位为知识经济化中国家的核心行为逻辑
 - [[Endogenous and Exogenous Privatisation]] — Ball & Youdell (2008) 识别的两种全球公立学校私有化趋势：学校变得更像企业（内生）vs 私营部门进入学校（外生）
 - [[Geopolitical Subject]] — Moisio (2022) 的概念：从政治权力角度被装备上特定技能、行为、取向和空间心态的人形集合，在高等教育空间中被形塑以服务于全球竞争
@@ -429,6 +431,7 @@
 
 #### Other
 
+- [[Areopagitica (1644)]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
 - [[Selective Schools Expansion Fund 2018]] — 保守党政府 £50M 基金允许现有文法学校扩展招生，在新建禁令未修改的情况下以替代路径扩大选择性教育
 - [[EEF Teaching and Learning Toolkit]] — 英国 EEF 的元-元分析工具，以联盟表格式按成本/有效性/证据确定性排名 30+ 类干预，面临 Simpson/Wrigley 方法论批评，Wrigley & McCusker (2019) 通过体育参与案例揭示三级聚合失真
 - [[Eleven-plus Exam]] — 英国 11 岁中等教育选拔考试，决定学生进入文法学校或综合学校，研究证据一致表明其加剧不平等且不促进社会流动
@@ -488,6 +491,12 @@
 
 - [[John Biggs]] — 澳大利亚教育心理学家，建构性对齐（Constructive Alignment）和 SOLO 分类法创始人，属于 1990 年代激进建构主义运动
 - [[Scott Eacott]] — UNSW Sydney 教育行政学者，将 Bourdieu 社会理论和认识论引入教育领导力研究，提出 Cult of the Guru、Parallel Monologues、Neo-Taylorism 批评和关系取向组织理论
+
+### Brazil
+
+#### Contemporary (1900–2000)
+
+- [[Paulo Freire]] — 巴西教育家，批判教育学奠基人，《被压迫者教育学》(1972) 作者，提出"银行概念"揭示教学中不可化约的权力梯度，Partaken 将其应用于 GPK 强制知识转移分析
 
 ### Canada
 
