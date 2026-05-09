@@ -3,7 +3,7 @@ title: Max Weber
 type: person
 tags: [Max-Weber, classical-sociology, interpretivism, region/germany]
 related_concepts: ["[[Goal-Controlled Mode]]", "[[Work Meaning Schemas (Zheng)]]", "[[Graduation Pathway Typology (Zheng)]]"]
-related_theories: ["[[Bourdieu's Social Theory]]", "[[Culture as Toolkit]]"]
+related_theories: ["[[Pierre Bourdieu]]", "[[Culture as Toolkit]]"]
 sources: ["[[郑_2023_上海三联书店]]"]
 confidence: low
 status: draft

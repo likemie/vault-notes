@@ -3,7 +3,7 @@ title: Goal-Controlled Mode
 type: concept
 tags: [goal-controlled-mode, higher-education, cultural-capital, region/china, level/higher-ed]
 related_concepts: ["[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Champ]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Symbolic Boundary]]", "[[Self-Authorship]]", "[[The Shock of the Elite]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Graduation Pathway Typology (Zheng)]]"]
-related_theories: ["[[Bourdieu's Social Theory]]", "[[Culture as Toolkit]]", "[[Dual-Process Model of Culture in Action]]", "[[Rational Action Theory in Education]]"]
+related_theories: ["[[Pierre Bourdieu]]", "[[Culture as Toolkit]]", "[[Dual-Process Model of Culture in Action]]", "[[Rational Action Theory in Education]]"]
 related_persons: ["[[Yajun Zheng]]", "[[Max Weber]]", "[[Ann Swidler]]", "[[Marcia Baxter Magolda]]"]
 sources: ["[[郑_2023_上海三联书店]]"]
 confidence: medium
@@ -146,7 +146,7 @@ updated: 2026-05-09
 
 目标掌控模式根植于郑雅君（2023）第二章建构的"大学过程"三层嵌套框架，由以下理论脉络支撑：
 
-- [[Bourdieu's Social Theory]] — 对应**资本化过程**：目标掌控模式是优势阶层[[Habitus]]的具身化表达。优势家庭通过代际传递将[[Cultural Capital]]（特别是对教育系统隐性规则的直觉性理解）转化为子女在大学场域中的竞争优势（郑雅君，2023）
+- [[Pierre Bourdieu]] — 对应**资本化过程**：目标掌控模式是优势阶层[[Habitus]]的具身化表达。优势家庭通过代际传递将[[Cultural Capital]]（特别是对教育系统隐性规则的直觉性理解）转化为子女在大学场域中的竞争优势（郑雅君，2023）
 - [[Culture as Toolkit]] — 对应**价值选择过程**的工具维度：援用 [[Ann Swidler]]（1986）将文化视为"工具箱"的思路，目标掌控模式被理解为一组由优势家庭提供的文化工具（规划意识、策略思维、信息搜集能力），使学生能在大学场域中策略性地组织行动路线（郑雅君，2023）
 - [[Dual-Process Model of Culture in Action]] — Vaisey（2009）的双过程模型为理解目标掌控模式提供了整合框架：该模式既包含**深层内化**的价值观驱动（优势阶层家庭教育中内化的"成功叙事"和生涯目标意识），也包含**浅层内化**的工具箱能力（灵活使用信息、人脉和制度知识为特定出路做准备）（郑雅君，2023）
 - [[Academic and Social Integration]] + [[Student Engagement]] — 对应**投入过程**：目标掌控模式下的投入是**策略性而非弥散性**的——学生并非不投入，而是有方向地选择与目标出路匹配的教育性实践活动（如保研者重点投入学术竞赛和师生互动，求职者重点投入实习和职业社交）（郑雅君，2023）

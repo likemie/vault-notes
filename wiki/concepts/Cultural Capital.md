@@ -20,7 +20,7 @@ related_concepts:
   - "[[The Shock of the Elite]]"
   - "[[Doxa]]"
 related_theories:
-  - "[[Bourdieu's Social Theory]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Culture as Toolkit]]"
 related_persons:
   - "[[Clippings/Pierre Bourdieu]]"
@@ -83,7 +83,7 @@ Bourdieu 区分文化资本的三种存在形态：
 ## 理论基础
 
 > [!tip]
-> - [[Bourdieu's Social Theory]] — 文化资本是 Bourdieu 实践理论的核心操作概念之一。在[(习性)(资本)] + 场域 = 实践的关系式中，文化资本是行动者在场域中争夺的核心赌注，习性决定了文化资本被如何获取、积累和使用
+> - [[Pierre Bourdieu]] — 文化资本是 Bourdieu 实践理论的核心操作概念之一。在[(习性)(资本)] + 场域 = 实践的关系式中，文化资本是行动者在场域中争夺的核心赌注，习性决定了文化资本被如何获取、积累和使用
 > - [[Culture as Toolkit]] — Swidler (1986) 的文化工具箱理论提供了与 Bourdieu 互补的视角：文化资本不仅定义"什么是有价值的"，更为行动者提供了在特定场域中策略性行动的"工具"
 
 ---

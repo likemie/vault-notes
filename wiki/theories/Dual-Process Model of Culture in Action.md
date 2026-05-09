@@ -61,7 +61,7 @@ Vaisey 援引认知科学的双过程发现（郑雅君，2023，引 Vaisey, 200
 ## 相关理论
 
 - [[Culture as Toolkit]] — Swidler（1986）的工具箱范式是 Vaisey 调和的两极之一；Vaisey 的贡献在于论证了工具箱范式在"浅层内化"意识层次的有效性，同时恢复了价值观驱动范式在"深层内化"层次的解释力
-- [[Bourdieu's Social Theory]] — Vaisey 援引 Bourdieu 和 Giddens 关于无意识动机/习性的论述来论证"工具箱"范式的意识层面假设有问题
+- [[Pierre Bourdieu]] — Vaisey 援引 Bourdieu 和 Giddens 关于无意识动机/习性的论述来论证"工具箱"范式的意识层面假设有问题
 
 ---
 

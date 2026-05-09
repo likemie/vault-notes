@@ -235,7 +235,6 @@
 - [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，Laursen (2015) 用其检验以英语国家研究为主的有效教学综合是否适用于丹麦
 - [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，Larsen (2019) 以盲点和结构耦合概念批判 VL
 - [[Rational Action Theory in Education]] — Breen & Goldthorpe (1997) 的教育分层理论：以相对风险规避机制解释阶层间教育选择的系统性差异，揭示家庭背景的次属效应，郑雅君 (2023) 作为"价值选择过程"的理论对话方
-- [[Bourdieu's Social Theory]] — 场域-习性-资本-doxa 四位一体的社会分析框架，揭示学校如何通过符号支配（再）生产社会秩序，Eacott 将其应用于学校领导力培养分析
 - [[World Culture Theory]] — 全球学校模式趋同假设：西方现代民族国家模型向全球扩散，导致课程和学校标准化，但 LS 案例揭示其解释力局限
 
 ### Management & Organisation

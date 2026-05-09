@@ -4,7 +4,7 @@ type: argument
 citation: "Eacott, S. (2019). Ranting, raving and complaining: reflections on working against orthodoxy. International Journal of Leadership in Education, 22(6), 774–782."
 tags: [educational-administration, school-leadership, parallel-monologues, neo-taylorism, stance/critique]
 related_concepts: ["[[Parallel Monologues]]", "[[Visible Learning]]", "[[Neo-Taylorism in Educational Administration]]"]
-related_theories: ["[[Bourdieu's Social Theory]]"]
+related_theories: ["[[Pierre Bourdieu]]"]
 related_persons: ["[[Scott Eacott]]", "[[John Hattie]]"]
 sources: ["sources/Eacott_2019_IJLE.md"]
 status: draft
@@ -18,7 +18,7 @@ updated: 2026-05-03
 
 ## 理论框架
 
-- [[Bourdieu's Social Theory]] — Eacott 遵循 Bourdieu 的学术逻辑立场：学术工作的逻辑应是论证与反驳（argument and refutation），而非 thesis-antithesis-synthesis（Eacott, 2019, p.774）
+- [[Pierre Bourdieu]] — Eacott 遵循 Bourdieu 的学术逻辑立场：学术工作的逻辑应是论证与反驳（argument and refutation），而非 thesis-antithesis-synthesis（Eacott, 2019, p.774）
 - 社会认识论（social epistemology）— Eacott 将其先前关于教育行政与领导力社会认识论的工作（Eacott, 2017b）引入本文，关注该领域知识生产的社会条件和逻辑（Eacott, 2019, p.774）
 
 ## 研究方法

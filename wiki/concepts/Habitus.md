@@ -18,7 +18,7 @@ related_concepts:
   - "[[The Shock of the Elite]]"
   - "[[Doxa]]"
 related_theories:
-  - "[[Bourdieu's Social Theory]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Culture as Toolkit]]"
 related_persons:
   - "[[Clippings/Pierre Bourdieu]]"
@@ -85,7 +85,7 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 ## 理论基础
 
 > [!tip]
-> - [[Bourdieu's Social Theory]] — 习性是布迪厄实践理论的枢纽概念，连接场域（外部结构）和资本（争夺对象），使宏观社会结构与微观个体行动之间的双向转化成为可能
+> - [[Pierre Bourdieu]] — 习性是布迪厄实践理论的枢纽概念，连接场域（外部结构）和资本（争夺对象），使宏观社会结构与微观个体行动之间的双向转化成为可能
 
 ---
 

@@ -4,7 +4,7 @@ type: concept
 tags: [Parallel Monologues, educational-administration, research-methodology]
 related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]"]
 related_persons: ["[[Scott Eacott]]", "[[John Hattie]]"]
-related_theories: ["[[Bourdieu's Social Theory]]"]
+related_theories: ["[[Pierre Bourdieu]]"]
 sources: ["sources/Eacott_2019_IJLE.md"]
 confidence: medium
 status: draft
@@ -40,7 +40,7 @@ Eacott 随后通过组织特刊（*Journal of Educational Administration and Fou
 
 ## 理论基础
 
-- [[Bourdieu's Social Theory]] — Eacott 遵循 Bourdieu 关于学术逻辑的规范性立场：学术工作的逻辑应是论证与反驳（argument and refutation）（Eacott, 2019, p.774）
+- [[Pierre Bourdieu]] — Eacott 遵循 Bourdieu 关于学术逻辑的规范性立场：学术工作的逻辑应是论证与反驳（argument and refutation）（Eacott, 2019, p.774）
 
 ## 实证发现
 

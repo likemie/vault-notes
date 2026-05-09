@@ -18,7 +18,7 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
 related_theories:
-  - "[[Bourdieu's Social Theory]]"
+  - "[[Pierre Bourdieu]]"
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Clippings/Pierre Bourdieu]]"
@@ -49,7 +49,7 @@ updated: 2026-05-09
 
 ## 理论基础
 
-- [[Bourdieu's Social Theory]] — 文化障碍概念直接源于布迪厄对文化资本、习性和场域的分析。布迪厄和帕斯隆指出："各种教育……暗含地以一整套有教养阶级传递的知识、本领、表达模式为前提。……它导致了这种特权者游戏面前根本性的不平等"（郑雅君，2023，引 Bourdieu & Passeron, 1979, pp.21-22）
+- [[Pierre Bourdieu]] — 文化障碍概念直接源于布迪厄对文化资本、习性和场域的分析。布迪厄和帕斯隆指出："各种教育……暗含地以一整套有教养阶级传递的知识、本领、表达模式为前提。……它导致了这种特权者游戏面前根本性的不平等"（郑雅君，2023，引 Bourdieu & Passeron, 1979, pp.21-22）
 
 ---
 

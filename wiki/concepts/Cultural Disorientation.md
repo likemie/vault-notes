@@ -23,7 +23,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Champ]]"
 related_theories:
-  - "[[Bourdieu's Social Theory]]"
+  - "[[Pierre Bourdieu]]"
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Clippings/Pierre Bourdieu]]"

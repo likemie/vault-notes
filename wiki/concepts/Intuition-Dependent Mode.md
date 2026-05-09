@@ -3,7 +3,7 @@ title: Intuition-Dependent Mode
 type: concept
 tags: [intuition-dependent-mode, higher-education, cultural-capital, region/china, level/higher-ed]
 related_concepts: ["[[Goal-Controlled Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Champ]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Symbolic Boundary]]", "[[The Shock of the Elite]]", "[[Self-Authorship]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Cultural Disembedding]]", "[[Cultural Disorientation]]"]
-related_theories: ["[[Bourdieu's Social Theory]]", "[[Culture as Toolkit]]", "[[Dual-Process Model of Culture in Action]]", "[[Rational Action Theory in Education]]"]
+related_theories: ["[[Pierre Bourdieu]]", "[[Culture as Toolkit]]", "[[Dual-Process Model of Culture in Action]]", "[[Rational Action Theory in Education]]"]
 related_persons: ["[[Yajun Zheng]]", "[[Max Weber]]", "[[Ann Swidler]]", "[[Marcia Baxter Magolda]]"]
 sources: ["[[郑_2023_上海三联书店]]"]
 confidence: medium
@@ -162,7 +162,7 @@ Reay 等人（2009）的"精英休克"概念在郑雅君的访谈中获得了丰
 
 直觉依赖模式根植于郑雅君（2023）第二章建构的"大学过程"三层嵌套框架，由以下理论脉络支撑：
 
-- [[Bourdieu's Social Theory]] — 对应**资本化过程**：直觉依赖模式是弱势阶层[[Habitus]]的具身化表达。弱势家庭缺乏可在大学场域中兑换为优势的文化资本存量——父母无大学经验，无法向子女传递对场域规则的直觉性认识。布迪厄指出，学校教育暗含地以有教养阶级传递的知识和表达模式为前提，导致了"特权者游戏面前根本性的不平等"（郑雅君，2023，引 Bourdieu & Passeron, 1979, pp.21-22）
+- [[Pierre Bourdieu]] — 对应**资本化过程**：直觉依赖模式是弱势阶层[[Habitus]]的具身化表达。弱势家庭缺乏可在大学场域中兑换为优势的文化资本存量——父母无大学经验，无法向子女传递对场域规则的直觉性认识。布迪厄指出，学校教育暗含地以有教养阶级传递的知识和表达模式为前提，导致了"特权者游戏面前根本性的不平等"（郑雅君，2023，引 Bourdieu & Passeron, 1979, pp.21-22）
 - [[Culture as Toolkit]] — 对应**价值选择过程**的工具维度：直觉依赖模式反映的是文化工具箱的**缺失**——弱势学生可及的文化工具集中缺少那些对精英大学场域具有高度适用性的"工具"（长线规划意识、策略思维、场域规则信息），因而在组织大学生活时缺乏策略性（郑雅君，2023，引 [[Ann Swidler]], 1986）
 - [[Dual-Process Model of Culture in Action]] — Vaisey（2009）的双过程模型为理解直觉依赖模式提供了整合框架：该模式在**两个意识层次上均面对结构性制约**——深层内化层面，弱势家庭社会化中内化的价值信念（如"好好学习就行"）与精英大学场域的实际要求（需要主动规划、策略性社交）不匹配；浅层内化层面，弱势学生也缺乏可灵活选取的文化工具来为行动提供正当性或策略性辩护（郑雅君，2023）
 - [[Academic and Social Integration]] + [[Student Engagement]] — 对应**投入过程**：直觉依赖模式下的投入是**弥散性而非策略性**的——学生倾向于将"好学生"等同于"好成绩"，大量投入课业学习，但忽视了就业市场更看重的"软"实力积累。高等教育学的传统研究将这种投入不足归因于个人不努力，但郑雅君（2023）指出这种"不投入"是结构性约束的结果，而非个人选择

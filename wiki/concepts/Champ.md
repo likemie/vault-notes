@@ -17,7 +17,7 @@ related_concepts:
   - "[[Credential Inflation]]"
   - "[[Doxa]]"
 related_theories:
-  - "[[Bourdieu's Social Theory]]"
+  - "[[Pierre Bourdieu]]"
 related_persons:
   - "[[Clippings/Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
@@ -79,7 +79,7 @@ updated: 2026-05-09
 ## 理论基础
 
 > [!tip]
-> - [[Bourdieu's Social Theory]] — 场域是 Bourdieu 实践理论三位一体框架（场域-习性-资本）的结构维度。场域塑造了特定类型的习性，习性则使行动者在场域中产生"合拍"的实践感（feel for the game）；不同场域赋予不同类型的资本以不同的价值。
+> - [[Pierre Bourdieu]] — 场域是 Bourdieu 实践理论三位一体框架（场域-习性-资本）的结构维度。场域塑造了特定类型的习性，习性则使行动者在场域中产生"合拍"的实践感（feel for the game）；不同场域赋予不同类型的资本以不同的价值。
 
 ---
 

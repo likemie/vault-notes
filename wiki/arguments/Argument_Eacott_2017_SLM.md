@@ -4,7 +4,7 @@ type: argument
 citation: "Eacott, S. (2017). School leadership and the cult of the guru: The neo-Taylorism of Hattie. School Leadership & Management, 37(4), 413–426."
 tags: [school-leadership, neo-taylorism, visible-learning, cult-of-the-guru, stance/critique, region/australia]
 related_concepts: ["[[Cult of the Guru]]", "[[Neo-Taylorism in Educational Administration]]", "[[Visible Learning]]", "[[School Leadership]]"]
-related_theories: ["[[Bourdieu's Social Theory]]"]
+related_theories: ["[[Pierre Bourdieu]]"]
 related_persons: ["[[Scott Eacott]]", "[[John Hattie]]"]
 sources: ["sources/Eacott_2017_SLM.md"]
 status: draft
@@ -18,7 +18,7 @@ updated: 2026-05-03
 
 ## 理论框架
 
-- [[Bourdieu's Social Theory]] — 本体论共谋（ontological complicity）：学者对周围世界的嵌入具身性关系使其难以与现状决裂（Eacott, 2017, p.414, citing Bourdieu & Wacquant, 1992; Eacott, 2015）
+- [[Pierre Bourdieu]] — 本体论共谋（ontological complicity）：学者对周围世界的嵌入具身性关系使其难以与现状决裂（Eacott, 2017, p.414, citing Bourdieu & Wacquant, 1992; Eacott, 2015）
 - Callahan（1962）*Education and the Cult of Efficiency* — 历史类比：20 世纪上半叶美国公立教育被商业实践（尤其是 Taylor 的科学管理）渗透，Eacott 将其作为分析框架类比于当代澳大利亚的"Hattie 大师崇拜"（Eacott, 2017, p.413-414）
 - 管理修辞（managerial rhetoric）理论：Abrahamson（1997）和 Hartley（2010）的修辞类型学——理性/控制修辞（rational/control rhetoric）在感知到绩效下降时主导，规范性/抱负性修辞在急剧衰退时主导（Eacott, 2017, p.415）
 - 关系取向（relational approach）：区别于实体主义（substantialist）分析——Eacott 关注的是"使 Hattie 工作获得广泛接受成为可能的条件"，而非 Hattie 个人（Eacott, 2017, p.414）

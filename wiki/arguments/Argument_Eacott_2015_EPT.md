@@ -12,7 +12,7 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[School Leadership]]"
 related_theories:
-  - "[[Bourdieu's Social Theory]]"
+  - "[[Pierre Bourdieu]]"
 related_persons:
   - "[[Clippings/Pierre Bourdieu]]"
   - "[[Thomas Barr Greenfield]]"

@@ -14,7 +14,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Symbolic Violence]]"
 related_theories:
-  - "[[Bourdieu's Social Theory]]"
+  - "[[Pierre Bourdieu]]"
 related_persons:
   - "[[Clippings/Pierre Bourdieu]]"
 sources:
@@ -80,7 +80,7 @@ updated: 2026-05-09
 ## 理论基础
 
 > [!tip]
-> - [[Bourdieu's Social Theory]] — Doxa 是 Bourdieu 四位一体框架（习性-场域-资本-符号暴力）之外的分析性补充概念，与符号暴力一道解释支配关系的合法化机制
+> - [[Pierre Bourdieu]] — Doxa 是 Bourdieu 四位一体框架（习性-场域-资本-符号暴力）之外的分析性补充概念，与符号暴力一道解释支配关系的合法化机制
 
 ---
 

@@ -15,7 +15,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Performativity of Measurement]]"
 related_theories:
-  - - "[[Bourdieu's Social Theory]]"
+  - - "[[Pierre Bourdieu]]"
 related_persons:
   - "[[Clippings/Pierre Bourdieu]]"
   - "[[Helen Gunter]]"

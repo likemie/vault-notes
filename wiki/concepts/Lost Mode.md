@@ -22,7 +22,7 @@ related_concepts:
   - "[[The Shock of the Elite]]"
 related_theories:
   - "[[Culture as Toolkit]]"
-  - "[[Bourdieu's Social Theory]]"
+  - "[[Pierre Bourdieu]]"
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Clippings/Pierre Bourdieu]]"

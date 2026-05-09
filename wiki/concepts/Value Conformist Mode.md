@@ -24,7 +24,7 @@ related_concepts:
   - "[[Symbolic Boundary]]"
 related_theories:
   - "[[Culture as Toolkit]]"
-  - "[[Bourdieu's Social Theory]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Dual Elite Career Paths]]"
 related_persons:
   - "[[Yajun Zheng]]"

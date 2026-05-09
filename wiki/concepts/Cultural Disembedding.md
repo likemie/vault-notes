@@ -19,7 +19,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Cultural Capital]]"
 related_theories:
-  - "[[Bourdieu's Social Theory]]"
+  - "[[Pierre Bourdieu]]"
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Clippings/Pierre Bourdieu]]"

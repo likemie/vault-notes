@@ -2,7 +2,7 @@
 title: Scott Eacott
 type: person
 tags: [Scott Eacott, educational-administration, school-leadership, paradigm/critical, region/australia]
-related_theories: ["[[Bourdieu's Social Theory]]"]
+related_theories: ["[[Pierre Bourdieu]]"]
 related_concepts: ["[[Parallel Monologues]]", "[[Neo-Taylorism in Educational Administration]]", "[[Cult of the Guru]]", "[[Epistemological Break]]", "[[Epistemological Vigilance]]", "[[Visible Learning]]"]
 related_arguments: ["[[Argument_Hattie_2017_SLM]]"]
 related_facts: ["[[Visible Learning Branding and Global Influences]]"]

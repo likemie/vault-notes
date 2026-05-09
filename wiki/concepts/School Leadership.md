@@ -12,7 +12,7 @@ related_concepts:
   - "[[New Public Management in Education]]"
   - "[[School Autonomy]]"
 related_theories:
-  - - "[[Bourdieu's Social Theory]]"
+  - - "[[Pierre Bourdieu]]"
 related_persons:
   - "[[Christopher Day]]"
   - "[[Jorunn Møller]]"
