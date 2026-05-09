@@ -1,12 +1,37 @@
 ---
 title: Value Conformist Mode
-aliases: [价值归顺者, value conformist, 价值归顺]
+aliases:
+  - 价值归顺者
+  - value conformist
+  - 价值归顺
 type: concept
-tags: [value-conformist-mode, higher-education, social-stratification, region/china, level/higher-ed]
-related_concepts: ["[[Intuition-Dependent Mode]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Lost Mode]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Work Meaning Schemas (Zheng)]]", "[[Cultural Barrier in Higher Education]]", "[[Dual Elite Career Paths]]", "[[Liberal Studies (Hong Kong)]]", "[[Symbolic Boundary]]"]
-related_theories: ["[[Culture as Toolkit]]", "[[Bourdieu's Social Theory]]", "[[Dual Elite Career Paths]]"]
-related_persons: ["[[Yajun Zheng]]", "[[Pierre Bourdieu]]", "[[Paul Willis]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+  - value-conformist-mode
+  - higher-education
+  - social-stratification
+  - region/china
+  - level/higher-ed
+related_concepts:
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Graduation Pathway Typology (Zheng)]]"
+  - "[[Work Meaning Schemas (Zheng)]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Dual Elite Career Paths]]"
+  - "[[Liberal Studies (Hong Kong)]]"
+  - "[[Symbolic Boundary]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
+  - "[[Bourdieu's Social Theory]]"
+  - "[[Dual Elite Career Paths]]"
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Clippings/Pierre Bourdieu]]"
+  - "[[Paul Willis]]"
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-09

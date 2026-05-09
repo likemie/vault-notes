@@ -1,11 +1,20 @@
 ---
 title: Epistemological Vigilance
 type: concept
-tags: [Epistemological Vigilance, epistemology, Bourdieu, paradigm/critical]
-related_theories: ["[[Bourdieu's Social Theory]]"]
-related_persons: ["[[Pierre Bourdieu]]", "[[Gaston Bachelard]]"]
-related_concepts: ["[[Epistemological Break]]"]
-sources: ["sources/Eacott_2015_EPT.md"]
+tags:
+  - Epistemological Vigilance
+  - epistemology
+  - Bourdieu
+  - paradigm/critical
+related_theories:
+  - "[[Bourdieu's Social Theory]]"
+related_persons:
+  - "[[Clippings/Pierre Bourdieu]]"
+  - "[[Gaston Bachelard]]"
+related_concepts:
+  - "[[Epistemological Break]]"
+sources:
+  - sources/Eacott_2015_EPT.md
 confidence: medium
 status: draft
 created: 2026-05-02

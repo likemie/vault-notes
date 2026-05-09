@@ -2,11 +2,25 @@
 title: Argument_Eacott_2011_JEAH
 type: argument
 citation: "Eacott, S. (2011). Preparing 'educational' leaders in managerialist times: an Australian story. *Journal of Educational Administration and History*, 43(1), 43–59."
-tags: [school-leadership, leadership-preparation, managerialism, Bourdieu, region/australia, stance/critique]
-related_concepts: ["[[School Leadership]]", "[[New Public Management in Education]]", "[[Evidence-Based Education]]", "[[Performativity of Measurement]]"]
-related_theories: [["[[Bourdieu's Social Theory]]"]]
-related_persons: ["[[Pierre Bourdieu]]", "[[Helen Gunter]]"]
-sources: ["sources/Eacott_2011_JEAH.md"]
+tags:
+  - school-leadership
+  - leadership-preparation
+  - managerialism
+  - Bourdieu
+  - region/australia
+  - stance/critique
+related_concepts:
+  - "[[School Leadership]]"
+  - "[[New Public Management in Education]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Performativity of Measurement]]"
+related_theories:
+  - - "[[Bourdieu's Social Theory]]"
+related_persons:
+  - "[[Clippings/Pierre Bourdieu]]"
+  - "[[Helen Gunter]]"
+sources:
+  - sources/Eacott_2011_JEAH.md
 status: draft
 created: 2026-05-02
 updated: 2026-05-02

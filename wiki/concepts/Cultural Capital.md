@@ -1,11 +1,32 @@
 ---
 title: Cultural Capital
 type: concept
-tags: [cultural-capital, Bourdieu, social-stratification, paradigm/critical, region/france, level/higher-ed]
-related_concepts: ["[[Habitus]]", "[[Field (Bourdieu)]]", "[[Cultural Barrier in Higher Education]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[The Shock of the Elite]]"]
-related_theories: ["[[Bourdieu's Social Theory]]", "[[Culture as Toolkit]]"]
-related_persons: ["[[Pierre Bourdieu]]", "[[Yajun Zheng]]"]
-sources: ["sources/Eacott_2011_JEAH.md", "[[郑_2023_上海三联书店]]"]
+tags:
+  - cultural-capital
+  - Bourdieu
+  - social-stratification
+  - paradigm/critical
+  - region/france
+  - level/higher-ed
+related_concepts:
+  - "[[Habitus]]"
+  - "[[Field (Bourdieu)]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Academic and Social Integration]]"
+  - "[[Student Engagement]]"
+  - "[[The Shock of the Elite]]"
+  - "[[Doxa]]"
+related_theories:
+  - "[[Bourdieu's Social Theory]]"
+  - "[[Culture as Toolkit]]"
+related_persons:
+  - "[[Clippings/Pierre Bourdieu]]"
+  - "[[Yajun Zheng]]"
+sources:
+  - sources/Eacott_2011_JEAH.md
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-08

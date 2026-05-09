@@ -1,11 +1,40 @@
 ---
 title: Bourdieu's Social Theory
 type: theory
-tags: [Bourdieu, field-theory, habitus, paradigm/critical, region/france]
-related_concepts: ["[[School Leadership]]", "[[New Public Management in Education]]", "[[Performativity of Measurement]]", "[[Epistemological Break]]", "[[Epistemological Vigilance]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Academic and Social Integration]]", "[[Student Engagement]]"]
-related_theories: ["[[Rational Action Theory in Education]]", "[[Dual-Process Model of Culture in Action]]", "[[Culture as Toolkit]]"]
-related_persons: ["[[Pierre Bourdieu]]", "[[Gaston Bachelard]]", "[[Yajun Zheng]]"]
-sources: ["sources/Eacott_2011_JEAH.md", "sources/Eacott_2015_EPT.md", "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md"]
+tags:
+  - Bourdieu
+  - field-theory
+  - habitus
+  - paradigm/critical
+  - region/france
+related_concepts:
+  - "[[School Leadership]]"
+  - "[[New Public Management in Education]]"
+  - "[[Performativity of Measurement]]"
+  - "[[Epistemological Break]]"
+  - "[[Epistemological Vigilance]]"
+  - "[[Habitus]]"
+  - "[[Cultural Capital]]"
+  - "[[Field (Bourdieu)]]"
+  - "[[Doxa]]"
+  - "[[Symbolic Violence]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Academic and Social Integration]]"
+  - "[[Student Engagement]]"
+related_theories:
+  - "[[Rational Action Theory in Education]]"
+  - "[[Dual-Process Model of Culture in Action]]"
+  - "[[Culture as Toolkit]]"
+related_persons:
+  - "[[Clippings/Pierre Bourdieu]]"
+  - "[[Gaston Bachelard]]"
+  - "[[Yajun Zheng]]"
+sources:
+  - sources/Eacott_2011_JEAH.md
+  - sources/Eacott_2015_EPT.md
+  - books/郑_2023_上海三联书店/郑_2023_上海三联书店.md
 confidence: medium
 status: draft
 created: 2026-05-02
@@ -34,45 +63,13 @@ Bourdieu, Chamboredon & Passeron（1968/1991）在 *The Craft of Sociology: Epis
 
 ## 理论内部结构
 
-### 场域（Field）
+Bourdieu 的社会理论由一组相互建构的核心概念构成操作框架。各概念的详细讨论见对应条目：
 
-详见 [[Field (Bourdieu)]]。场域是一个**相对自主的社会世界**，其属性有助于其随时间再生产的（Eacott, 2011, p.48）。
-
-- 场域是**持续斗争的场所**——斗争的赢家是那些拥有在场域中被视为最有价值的资源或"资本"的人
-- 场域的**自主性**体现为它生成自身价值和成就标志的方式
-- 场域自主性的程度反映在其**折射外部场域（特别是经济和政治场域）干扰的能力**上
-- 对教育场域的关键洞察：教育场域正在削弱——"市场和管理主义的语言已渗透进核心教育论述"，教育场域保护自身边界、语言和实践免受政治、新闻和经济场域渗透的能力在减弱（Blackmore, 2010, p.108，引自 Eacott, 2011, p.48）
-
-> 例：当学校领导力有效性的衡量标准由政治和经济手段（标准化测试、排名、MySchool 网站）定义时，学校领导者定义自身成就标志的能力被削弱或消除——这体现了教育场域自主性的丧失（Eacott, 2011, p.48-49）。
-
-### 习性（Habitus）
-
-详见 [[Habitus]]。习性是**通过暴露于特定经验而体现的一套行为倾向系统**（Eacott, 2011, p.49）。
-
-- 习性**仅在实践中显现且仅存在于实践中**
-- 习性由个体的社会位置和"玩游戏"的生活史所塑造——"渴望校长职位的人通过其作为渴望者的位置及其玩教育游戏的生活史，被倾向于按照游戏规则和内部真理叙事行事"（Eacott, 2011, p.45）
-- 当个体从教师向校长演变时，其场域位置发生变化——从教育场域内部移动到被多重社会场域（经济、政治）夹击的位置，习性"被分裂为对抗自身，在与自身的持续协商中"（Eacott, 2011, p.49）
-- 对学校领导者的关键洞察：校长的习性"在某种程度上注定了某种重复，或对自我的双重感知，忠诚于多重身份"（Eacott, 2011, p.49）
-
-> 例：一位在 NSW 公立学校工作的校长必须在向内看（以教育本身为目的的教育实践——这是其教师习性中体现的）和向外看（经济和政治的成功衡量——NAPLAN 分数、MySchool 排名）之间持续协商。表面上"理性"的决策（如将资源集中于边缘学生以最大化达标率）实际上并非理性选择的结果，而是这两种忠诚之间的习性张力的产物（编者类比，基于 Eacott, 2011, p.48-49）。
-
-### 自明真理（Doxa）
-
-Doxa 是场域中被视为**理所当然的正统或常识**——"某些知识和资本被特权化，提供了 Bourdieu 称之为 doxa 的常识或正统"（Blackmore, 2010, p.102，引自 Eacott, 2011, p.50）。
-
-- Doxa 不是通过强制而是通过**结构安排**来合法化——在学校领导力中，这些结构包括：学校本位规划、择优晋升、领导力能力框架、竞争性入学领导力项目（Eacott, 2011, p.45）
-- Doxa 的再生产功能：维持现有权力关系——"在一个范式内的领导力培养对系统而言是（再）生产性的，维持着现有权力关系"（Eacott, 2011, p.51）
-- 挑战 doxa 需要"替代的存在方式"——"不仅是对问题解决的替代手段，更是对思考和问题提出的替代方式"（Eacott, 2011, p.58）
-
-> 例：NSW 校长培养项目中的"证据本位策略"论述构成了教育领导力的 doxa——将"什么有效"视为不言自明的问题框架，消除了对"谁决定什么是重要的"和"学校成功的衡量标准由谁设定"等前提性问题的追问（Eacott, 2011, p.50）。
-
-### 资本（Capital）
-
-详见 [[Cultural Capital]]。资本是在场域中被视为**最有价值的资源**（Eacott, 2011, p.48）。
-
-- 资本的形式和定义随场域变化而变化——在学校领导力中，资本日益**以经济语言被定义**
-- 学校领导者倾向于"通过获取资本来维持和推进学校/个体的相对位置"——但由于资本的定义日益由经济和政治场域设定，这进一步巩固了外部场域的支配（Eacott, 2011, p.50-51）
-- 对教育场域的关键影响：当"什么算作资本"由政治和经济手段定义时，学校领导者丧失了定义自身成就标志和折射外部干扰的能力
+- **[[Field (Bourdieu)|场域]]** — 相对自主的社会竞争空间。场域自主性体现为其折射外部力量干扰的能力；教育场域正在因经济和政治场域的渗透而削弱（Eacott, 2011, p.48）。详见 [[Field (Bourdieu)]]。
+- **[[Habitus|习性]]** — 通过社会化获得的持久倾向系统。校长的习性被多重场域交叉所分裂——"在某种程度上注定了某种重复，或对自我的双重感知"（Eacott, 2011, p.49）。详见 [[Habitus]]。
+- **[[Cultural Capital|资本]]** — 场域中被视为最有价值的资源，形式随场域变化。在学校领导力中，资本定义日益由经济和政治手段主导（Eacott, 2011, p.48-50）。详见 [[Cultural Capital]]。
+- **[[Doxa|自明真理]]** — 场域中不经追问的正统或常识，通过结构安排而非强制合法化。在学校领导力中表现为"证据本位策略"等论述框架（Eacott, 2011, p.50-51）。详见 [[Doxa]]。
+- **[[Symbolic Violence|符号暴力]]** — 支配关系通过符号被合法化的机制。教育系统是其主要运作场所——将阶级差异自然化为个体能力差异。详见 [[Symbolic Violence]]。
 
 ## 发展脉络
 

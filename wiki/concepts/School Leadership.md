@@ -1,11 +1,29 @@
 ---
 title: School Leadership
 type: concept
-tags: [School Leadership, subject/curriculum, level/k12]
-related_concepts: ["[[Transformative Leadership]]", "[[Evidence-Based Education]]", "[[Performativity of Measurement]]", "[[New Public Management in Education]]", "[[School Autonomy]]"]
-related_theories: [["[[Bourdieu's Social Theory]]"]]
-related_persons: ["[[Christopher Day]]", "[[Jorunn Møller]]", "[[Helen Gunter]]", "[[Carolyn Shields]]", "[[Pierre Bourdieu]]"]
-sources: ["sources/Møller_2017_EERJ.md", "sources/Eacott_2011_JEAH.md", "sources/Keddie_2020_JEAH.md", "sources/Keddie_2020_IJLE.md"]
+tags:
+  - School Leadership
+  - subject/curriculum
+  - level/k12
+related_concepts:
+  - "[[Transformative Leadership]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Performativity of Measurement]]"
+  - "[[New Public Management in Education]]"
+  - "[[School Autonomy]]"
+related_theories:
+  - - "[[Bourdieu's Social Theory]]"
+related_persons:
+  - "[[Christopher Day]]"
+  - "[[Jorunn Møller]]"
+  - "[[Helen Gunter]]"
+  - "[[Carolyn Shields]]"
+  - "[[Clippings/Pierre Bourdieu]]"
+sources:
+  - sources/Møller_2017_EERJ.md
+  - sources/Eacott_2011_JEAH.md
+  - sources/Keddie_2020_JEAH.md
+  - sources/Keddie_2020_IJLE.md
 confidence: medium
 status: draft
 created: 2026-05-02

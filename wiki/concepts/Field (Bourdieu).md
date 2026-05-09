@@ -1,11 +1,28 @@
 ---
 title: Field (Bourdieu)
 type: concept
-tags: [field-theory, Bourdieu, social-theory, paradigm/critical, region/france, level/higher-ed]
-related_concepts: ["[[Habitus]]", "[[Cultural Capital]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Credential Inflation]]"]
-related_theories: ["[[Bourdieu's Social Theory]]"]
-related_persons: ["[[Pierre Bourdieu]]", "[[Yajun Zheng]]"]
-sources: ["sources/Eacott_2011_JEAH.md", "[[郑_2023_上海三联书店]]"]
+tags:
+  - field-theory
+  - Bourdieu
+  - social-theory
+  - paradigm/critical
+  - region/france
+  - level/higher-ed
+related_concepts:
+  - "[[Habitus]]"
+  - "[[Cultural Capital]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Credential Inflation]]"
+  - "[[Doxa]]"
+related_theories:
+  - "[[Bourdieu's Social Theory]]"
+related_persons:
+  - "[[Clippings/Pierre Bourdieu]]"
+  - "[[Yajun Zheng]]"
+sources:
+  - sources/Eacott_2011_JEAH.md
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-08

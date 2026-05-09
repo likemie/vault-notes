@@ -1,17 +1,66 @@
 ---
 title: Argument_郑_2023_上海三联书店
-aliases: [金榜题名之后]
+aliases:
+  - 金榜题名之后
 type: argument
 subtype: monograph
-citation: "郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海三联书店."
-tags: [higher-education, social-stratification, cultural-capital, region/china, level/higher-ed]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Economy of Experience]]", "[[Credential Inflation]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[Student Involvement (Astin, 1984)]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Symbolic Boundary]]", "[[Self-Authorship]]", "[[Employability]]", "[[The Shock of the Elite]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Work Meaning Schemas (Zheng)]]", "[[Cultural Disembedding]]", "[[Cultural Disorientation]]"]
-related_theories: ["[[Bourdieu's Social Theory]]", "[[Culture as Toolkit]]", "[[Dual Elite Career Paths]]", "[[Rational Action Theory in Education]]", "[[Dual-Process Model of Culture in Action]]"]
-related_methods: ["[[Constructivist Grounded Theory]]", "[[In-depth Interview]]", "[[Case Study]]"]
-related_persons: ["[[Yajun Zheng]]", "[[Pierre Bourdieu]]", "[[Max Weber]]", "[[Ann Swidler]]", "[[Marcia Baxter Magolda]]", "[[Didier Eribon]]"]
-related_facts: ["[[China College Graduate Employment Reform 1986-1997]]", "[[Recommendation-Based Graduate Admission System]]", "[[Coleman Report 1966]]"]
+citation: 郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海三联书店.
+tags:
+  - higher-education
+  - social-stratification
+  - cultural-capital
+  - region/china
+  - level/higher-ed
+related_concepts:
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Economy of Experience]]"
+  - "[[Credential Inflation]]"
+  - "[[Habitus]]"
+  - "[[Cultural Capital]]"
+  - "[[Field (Bourdieu)]]"
+  - "[[Academic and Social Integration]]"
+  - "[[Student Engagement]]"
+  - "[[Student Involvement (Astin, 1984)]]"
+  - "[[Academic Engagement]]"
+  - "[[Social Engagement]]"
+  - "[[Symbolic Boundary]]"
+  - "[[Self-Authorship]]"
+  - "[[Employability]]"
+  - "[[The Shock of the Elite]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Value Conformist Mode]]"
+  - "[[Graduation Pathway Typology (Zheng)]]"
+  - "[[Work Meaning Schemas (Zheng)]]"
+  - "[[Cultural Disembedding]]"
+  - "[[Cultural Disorientation]]"
+related_theories:
+  - "[[Bourdieu's Social Theory]]"
+  - "[[Culture as Toolkit]]"
+  - "[[Dual Elite Career Paths]]"
+  - "[[Rational Action Theory in Education]]"
+  - "[[Dual-Process Model of Culture in Action]]"
+related_methods:
+  - "[[Constructivist Grounded Theory]]"
+  - "[[In-depth Interview]]"
+  - "[[Case Study]]"
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Clippings/Pierre Bourdieu]]"
+  - "[[Max Weber]]"
+  - "[[Ann Swidler]]"
+  - "[[Marcia Baxter Magolda]]"
+  - "[[Didier Eribon]]"
+related_facts:
+  - "[[China College Graduate Employment Reform 1986-1997]]"
+  - "[[Recommendation-Based Graduate Admission System]]"
+  - "[[Coleman Report 1966]]"
 related_arguments: []
-sources: ["[[郑_2023_上海三联书店]]"]
+sources:
+  - "[[郑_2023_上海三联书店]]"
 part_of:
 status: draft
 created: 2026-05-08
@@ -129,7 +178,7 @@ updated: 2026-05-09
 
 **关键引述：**
 - [[Coleman Report 1966]]（Coleman, 1966, p.71-72）："学校只有使学生的前景尽可能免受其社会出身的制约，才算完成了它的使命"
-- [[Pierre Bourdieu]]和帕斯隆（Bourdieu & Passeron, 1979, pp.21-22）："各种教育……暗含地以一整套有教养阶级传递的知识、本领、表达模式为前提。……它导致了这种特权者游戏面前根本性的不平等"
+- [[Clippings/Pierre Bourdieu]]和帕斯隆（Bourdieu & Passeron, 1979, pp.21-22）："各种教育……暗含地以一整套有教养阶级传递的知识、本领、表达模式为前提。……它导致了这种特权者游戏面前根本性的不平等"
 
 ---
 
@@ -145,7 +194,7 @@ updated: 2026-05-09
 
 **第一步：确立分析视角——大学作为布迪厄式的"游戏场"**
 
-以[[Pierre Bourdieu]]和帕斯隆（Bourdieu & Passeron, 1979, pp.21-22）的引文开篇：学校教育暗含地以有教养阶级传递的知识和表达模式为前提，导致了"特权者游戏面前根本性的不平等"（郑雅君，2023）。
+以[[Clippings/Pierre Bourdieu]]和帕斯隆（Bourdieu & Passeron, 1979, pp.21-22）的引文开篇：学校教育暗含地以有教养阶级传递的知识和表达模式为前提，导致了"特权者游戏面前根本性的不平等"（郑雅君，2023）。
 
 布迪厄的场域概念：一个"空间和时间都有严格界限、存在明晰而具体的'游戏规则'的社会领域"，参赛者投下各类资本作为赌注以试图取胜（郑雅君，2023，引 Bourdieu, 1990, p.67）。
 
@@ -263,7 +312,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 "作为过程"的视角兴起有三股推力（郑雅君，2023，引 Stuber, 2011）：
 1. 1970s 女权主义者抗议将阶级操作化为单一职业地位——阶层是多维度的生成过程
 2. 分层研究的"文化转向"（cultural turn）——使意义、反思性和符号重回视野
-3. [[Pierre Bourdieu]]及其追随者——文化资本与习性对教育不平等的深刻理论化
+3. [[Clippings/Pierre Bourdieu]]及其追随者——文化资本与习性对教育不平等的深刻理论化
 
 **郑雅君的定位**：明确选择第二种视角——将大学视为学生经历社会化、建立自我认同、选择生涯道路的关键过程。直接回应 Stevens, Armstrong & Arum（2008）的呼吁：关注"大学生活经历核心"（experiential core of college life）中的分层过程（郑雅君，2023）。
 
@@ -663,7 +712,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 | **理论根源** | [[Habitus\|习性]]与大学场域匹配；对应 Swidler（1986）的"稳定生活状态"（settled lives）——行动者自然而然知道如何利用熟悉的文化工具建立行动策略 | [[Habitus\|习性滞后]]（[[habitus]] hysteresis）——原有习性不匹配新场域；对应 Swidler（1986）的"不稳定生活状态"（unsettled lives）——先前的文化目标被抛弃，需要学习组织行动的新方式 |
 
 **三类理论资源**启发了这一对概念的建构（郑雅君，2023）：
-1. **[[Pierre Bourdieu|布迪厄]]《继承人》**：区分了"考试能手"和"浅薄涉猎"两类学生——处于最不利地位的大学生"除考试外忘掉了一切"，而最优越地位的大学生则"与工作保持着一种很神秘化的关系"
+1. **[[Clippings/Pierre Bourdieu|布迪厄]]《继承人》**：区分了"考试能手"和"浅薄涉猎"两类学生——处于最不利地位的大学生"除考试外忘掉了一切"，而最优越地位的大学生则"与工作保持着一种很神秘化的关系"
 2. **[[Marcia Baxter Magolda]] 的[[Self-Authorship|自我主导理论]]**（[[self-authorship]]）：个体根据其内在声音和核心价值观去主导认知发展、自我认同和人际关系——"目标掌控"中的"掌控"一词含有此意
 3. **Swidler（1986）的[[Culture as Toolkit\|文化工具箱]]理论**：两种生活状态（settled/unsettled lives）的区分与两种模式对应——前者文化工具顺手可得，后者需要重新学习组织行动的新方式
 
@@ -734,7 +783,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 
 **第五步：理论收束——迷宫游戏的比喻**
 
-郑雅君以[[Pierre Bourdieu|布迪厄]]的"游戏"比喻收束全章（郑雅君，2023，引 Bourdieu, 1990, pp.98-100; Bourdieu & Wacquant, 1992, pp.66-69）：
+郑雅君以[[Clippings/Pierre Bourdieu|布迪厄]]的"游戏"比喻收束全章（郑雅君，2023，引 Bourdieu, 1990, pp.98-100; Bourdieu & Wacquant, 1992, pp.66-69）：
 
 | 布迪厄概念 | 迷宫比喻中的对应 |
 |-----------|---------------|

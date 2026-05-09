@@ -1,10 +1,25 @@
 ---
 title: The Shock of the Elite
 type: concept
-tags: [elite-shock, higher-education, working-class, habitus, social-mobility, level/higher-ed]
-related_concepts: ["[[Intuition-Dependent Mode]]", "[[Habitus]]", "[[Cultural Barrier in Higher Education]]", "[[Cultural Capital]]", "[[Cultural Disembedding]]", "[[Cultural Disorientation]]"]
-related_persons: ["[[Yajun Zheng]]", "[[Pierre Bourdieu]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+  - elite-shock
+  - higher-education
+  - working-class
+  - habitus
+  - social-mobility
+  - level/higher-ed
+related_concepts:
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Habitus]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Cultural Capital]]"
+  - "[[Cultural Disembedding]]"
+  - "[[Cultural Disorientation]]"
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Clippings/Pierre Bourdieu]]"
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: low
 status: draft
 created: 2026-05-08

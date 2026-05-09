@@ -1,11 +1,31 @@
 ---
 title: Habitus
 type: concept
-tags: [habitus, Bourdieu, social-theory, cultural-sociology, paradigm/critical, region/france]
-related_concepts: ["[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[The Shock of the Elite]]"]
-related_theories: ["[[Bourdieu's Social Theory]]", "[[Culture as Toolkit]]"]
-related_persons: ["[[Pierre Bourdieu]]", "[[Yajun Zheng]]"]
-sources: ["sources/Eacott_2011_JEAH.md", "sources/Eacott_2015_EPT.md", "[[郑_2023_上海三联书店]]"]
+tags:
+  - habitus
+  - Bourdieu
+  - social-theory
+  - cultural-sociology
+  - paradigm/critical
+  - region/france
+related_concepts:
+  - "[[Cultural Capital]]"
+  - "[[Field (Bourdieu)]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[The Shock of the Elite]]"
+  - "[[Doxa]]"
+related_theories:
+  - "[[Bourdieu's Social Theory]]"
+  - "[[Culture as Toolkit]]"
+related_persons:
+  - "[[Clippings/Pierre Bourdieu]]"
+  - "[[Yajun Zheng]]"
+sources:
+  - sources/Eacott_2011_JEAH.md
+  - sources/Eacott_2015_EPT.md
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -30,6 +50,19 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 
 ---
 
+## 概念演变
+
+> [!note]
+> 习性概念的谱系可追溯至经院哲学，经民族志田野的中介，最终发展为 Bourdieu 实践理论的核心操作概念：
+
+- **亚里士多德 *hexis*** — 经 Thomas Aquinas 翻译为拉丁语 *habitus*，指一种稳定的品质或状态，使行动者倾向于以特定方式行动
+- **Marcel Mauss（1934）** — 在"身体技术"（techniques du corps）概念中使用了 habitus 一词，指不同社会中人们使用身体方式的习得性差异
+- **Bourdieu 在 Béarn 的早期使用** — 最早出现于 Bourdieu 对 Béarn 农民社会单身现象的考察，用于解释婚姻策略的持久模式（*Le Bal des célibataires* 的前期研究）
+- ***Esquisse d'une théorie de la pratique*（1972）** — 在 Kabylie 民族志基础上首次系统阐述习性概念，旨在超越主观主义与客观主义的二元对立
+- ***Le Sens pratique*（1980）** — 进一步发展习性的"生成性"面向，引入"实践感"（sens pratique）以批判理性选择理论
+
+---
+
 ## 核心特征
 
 - **具身性**：习性铭刻在身体之中，表现为不经深思熟虑即可自然调用的感知、判断和行动倾向。用郑雅君（2023）的话说，阶层条件"铭刻进了阶层成员各自的身体，化作了他们日用而不知的'上大学'的独特实践"
@@ -41,14 +74,11 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 
 ## 在高等教育中的表现
 
-### 两种上大学模式的习性根基
+### 习性错配：三种理论形态
 
-郑雅君（2023）以习性概念为核心，揭示了中国精英大学中两种大学生活组织模式的社会根源：
+当习性进入一个与自身不匹配的场域时，Bourdieu 区分了三种不同程度的错配状态：
 
-- 优势阶层习性 → [[Goal-Controlled Mode]]：自幼通过家庭社会化内化了长线规划、资源识别与策略性行动的倾向，进入大学后"自然地"知道如何为目标做准备
-- 弱势阶层习性 → [[Intuition-Dependent Mode]]：成长环境中缺乏对高等教育的隐性知识，内化了"听老师话、好好学习"的被动倾向，在大学场域中沿袭这一模式而不自知
-
-### 习性滞后（Habitus Hysteresis）
+**习性滞后（Habitus Hysteresis）**
 
 习性滞后是布迪厄用以解释"机遇被错过"的关键概念。当行动者从原有场域进入一个与自身习性不匹配的新场域时，旧习性无法有效驾驭新环境，而新习性尚未形成——这一时间差即为习性滞后（郑雅君，2023，引 Bourdieu, 1990）：
 
@@ -56,11 +86,18 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 
 在中国精英大学的情境中，弱势阶层学生从应试导向的中学场域进入强调自主规划的大学场域，习性的"转换时差"使他们迟迟无法建立目标感。郑雅君（2023）指出，升学流动带来了"场域的剧烈转换，从而引发其内在自我及文化常识的震动，陷入一种不清楚自己是谁、将要成为谁的模糊的位置感"。
 
-### 习性错置与习性分裂（Habitus Dislocation & Habitus Divided Against Itself）
+**习性错置（Habitus Dislocation）**
 
 习性错置（habitus dislocation）描述的是习性进入一个与自身不配合的场域时产生的如同"鱼离了水"的感觉（郑雅君，2023，引 Bourdieu & Wacquant, 1992）。在 Reay 等人（2009）的研究中，这表现为英国工人阶级学生进入精英大学后的"精英休克"（the shock of the elite）体验。
 
-习性分裂（a habitus divided against itself）则是更严重的情形——个体需要不断调和自身与新场域之间的矛盾，同时维持与旧有场域的联系和发展新的倾向，由此"产生一种习性分裂的体验"（郑雅君，2023，引 Bourdieu, 1999, p.511）。郑雅君的被访者昌盛（甘肃偏僻农村考入南方大学）的体验是典型例证：大二陷入"非常低迷的状态，可以说稍微有点抑郁。每次出门我都会有一种恐惧，就是害怕与其他人交流"——自我认同的撕裂使得他不再清楚自己是谁，更不用说树立目标（郑雅君，2023）。
+- **习性分裂（a habitus divided against itself）**则是更严重的情形——个体需要不断调和自身与新场域之间的矛盾，同时维持与旧有场域的联系和发展新的倾向，由此"产生一种习性分裂的体验"（郑雅君，2023，引 Bourdieu, 1999, p.511）。郑雅君的被访者昌盛（甘肃偏僻农村考入南方大学）的体验是典型例证：大二陷入"非常低迷的状态，可以说稍微有点抑郁。每次出门我都会有一种恐惧，就是害怕与其他人交流"——自我认同的撕裂使得他不再清楚自己是谁，更不用说树立目标（郑雅君，2023）。
+
+### 两种"上大学"模式的习性根基
+
+郑雅君（2023）以习性概念为核心，揭示了中国精英大学中两种大学生活组织模式的社会根源：
+
+- 优势阶层习性 → [[Goal-Controlled Mode]]：自幼通过家庭社会化内化了长线规划、资源识别与策略性行动的倾向，进入大学后"自然地"知道如何为目标做准备
+- 弱势阶层习性 → [[Intuition-Dependent Mode]]：成长环境中缺乏对高等教育的隐性知识，内化了"听老师话、好好学习"的被动倾向，在大学场域中沿袭这一模式而不自知
 
 ### 习性转换：大学作为再社会化场域
 

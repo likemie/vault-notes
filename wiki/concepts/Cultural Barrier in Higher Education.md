@@ -1,11 +1,29 @@
 ---
 title: Cultural Barrier in Higher Education
 type: concept
-tags: [cultural-barrier, higher-education, inequality, cultural-capital, region/china, level/higher-ed]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Field (Bourdieu)]]", "[[The Shock of the Elite]]", "[[Cultural Disembedding]]", "[[Cultural Disorientation]]"]
-related_theories: ["[[Bourdieu's Social Theory]]"]
-related_persons: ["[[Yajun Zheng]]", "[[Pierre Bourdieu]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+  - cultural-barrier
+  - higher-education
+  - inequality
+  - cultural-capital
+  - region/china
+  - level/higher-ed
+related_concepts:
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Habitus]]"
+  - "[[Cultural Capital]]"
+  - "[[Field (Bourdieu)]]"
+  - "[[The Shock of the Elite]]"
+  - "[[Cultural Disembedding]]"
+  - "[[Cultural Disorientation]]"
+related_theories:
+  - "[[Bourdieu's Social Theory]]"
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Clippings/Pierre Bourdieu]]"
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: low
 status: draft
 created: 2026-05-08

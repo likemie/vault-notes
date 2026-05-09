@@ -1,11 +1,21 @@
 ---
 title: Epistemological Break
 type: concept
-tags: [Epistemological Break, epistemology, Bourdieu, paradigm/critical]
-related_theories: ["[[Bourdieu's Social Theory]]", "[[Critical Realism]]"]
-related_persons: ["[[Pierre Bourdieu]]", "[[Gaston Bachelard]]"]
-related_concepts: ["[[Epistemological Vigilance]]"]
-sources: ["sources/Eacott_2015_EPT.md"]
+tags:
+  - Epistemological Break
+  - epistemology
+  - Bourdieu
+  - paradigm/critical
+related_theories:
+  - "[[Bourdieu's Social Theory]]"
+  - "[[Critical Realism]]"
+related_persons:
+  - "[[Clippings/Pierre Bourdieu]]"
+  - "[[Gaston Bachelard]]"
+related_concepts:
+  - "[[Epistemological Vigilance]]"
+sources:
+  - sources/Eacott_2015_EPT.md
 confidence: medium
 status: draft
 created: 2026-05-02

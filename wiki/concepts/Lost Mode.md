@@ -1,12 +1,33 @@
 ---
 title: Lost Mode
-aliases: [迷失无从者, lost actor, 迷失]
+aliases:
+  - 迷失无从者
+  - lost actor
+  - 迷失
 type: concept
-tags: [lost-mode, higher-education, social-stratification, region/china, level/higher-ed]
-related_concepts: ["[[Intuition-Dependent Mode]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Value Conformist Mode]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Work Meaning Schemas (Zheng)]]", "[[Cultural Barrier in Higher Education]]", "[[The Shock of the Elite]]"]
-related_theories: ["[[Culture as Toolkit]]", "[[Bourdieu's Social Theory]]"]
-related_persons: ["[[Yajun Zheng]]", "[[Pierre Bourdieu]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+  - lost-mode
+  - higher-education
+  - social-stratification
+  - region/china
+  - level/higher-ed
+related_concepts:
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Value Conformist Mode]]"
+  - "[[Graduation Pathway Typology (Zheng)]]"
+  - "[[Work Meaning Schemas (Zheng)]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[The Shock of the Elite]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
+  - "[[Bourdieu's Social Theory]]"
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Clippings/Pierre Bourdieu]]"
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-09

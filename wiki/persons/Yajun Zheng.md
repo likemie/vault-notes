@@ -38,7 +38,7 @@ updated: 2026-05-09
 
 ## 核心思想
 
-郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（Tinto [[Academic and Social Integration|融入理论]]、Kuh [[Student Engagement|投入理论]]）、教育社会学（[[Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、Vaisey [[Dual-Process Model of Culture in Action|双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"分析框架（郑雅君，2023）。
+郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（Tinto [[Academic and Social Integration|融入理论]]、Kuh [[Student Engagement|投入理论]]）、教育社会学（[[wiki/persons/Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、Vaisey [[Dual-Process Model of Culture in Action|双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"分析框架（郑雅君，2023）。
 
 在此基础上，其核心发现是：大学生在组织大学生活的方式上存在系统性的阶层差异——优势家庭学生更常采用[[Goal-Controlled Mode|目标掌控模式]]（有策略地规划大学生活以实现职业目标），而弱势家庭学生更常采用[[Intuition-Dependent Mode|直觉依赖模式]]（凭直觉应对大学选择，缺乏对场域规则的了解）。在 Vaisey 双过程框架下，这两种模式分别对应着在深层价值观驱动和浅层工具箱能力两个维度上的系统性阶层差异（郑雅君，2023）。
 
