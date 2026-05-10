@@ -1,6 +1,6 @@
 ---
 title: Endogenous and Exogenous Privatisation
-aliases: []
+aliases: ["内生与外生私有化", "教育私有化", "endogenous privatization", "exogenous privatization"]
 type: concept
 tags: [privatisation, education-policy, neoliberal, region/global, level/higher-ed]
 related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance in Education]]", "[[Policy Entrepreneur]]", "[[Venture Philanthropy]]", "[[Internationalization of Higher Education]]", "[[New Public Management in Education]]", "[[Knowledge-Based Economy]]"]
@@ -13,11 +13,12 @@ sources: ["sources/ONeill_2016_Report.md", "books/Parreira do Amaral(Ed.)_2022_S
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 ## 定义
 
+> [!info]
 Ball 和 Youdell（2008）在其提交给 Education International 的报告中识别了全球公立学校政策中的两种私有化趋势（O'Neill et al., 2016, p.4）：
 
 1. **内生私有化**（Endogenous privatisation）：学校变得更像企业或以企业方式运营——将私营部门的管理逻辑、绩效技术和商业实践引入公立学校系统内部
@@ -35,6 +36,7 @@ Ball 和 Youdell（2008）在其提交给 Education International 的报告中�
 
 ## 概念演变
 
+> [!note]
 O'Neill 等指出，在过去十年中，私营部门参与教育政策制定的形式迅速变得更加多样化，同时更加不透明（opaque）。两种私有化形式的区分在新西兰语境中具有特定的分析价值：
 
 - **1990 年代–2000 年代初**：私营部门参与主要以合同外包服务形式交付已由政治家和公务员制定的政策举措（外生私有化）

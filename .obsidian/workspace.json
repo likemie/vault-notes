@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/persons/Fazal Rizvi.md",
+                "file": "wiki/arguments/Argument_Rizvi_2022_Springer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fazal Rizvi"
+              "title": "Argument_Rizvi_2022_Springer"
             }
           }
         ]
@@ -189,9 +189,12 @@
   },
   "active": "1c9b1d9f1feb84d0",
   "lastOpenFiles": [
-    "wiki/concepts/Internationalization of Higher Education.md",
-    "wiki/persons/Fazal Rizvi.md",
+    "wiki/concepts/Orientalism.md",
     "wiki/arguments/Argument_Rizvi_2022_Springer.md",
+    "wiki/persons/Fazal Rizvi.md",
+    "wiki/concepts/Transnational Research Collaboration in Higher Education.md",
+    "wiki/theories/Network Society.md",
+    "wiki/concepts/Internationalization of Higher Education.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md",
     "wiki/concepts/Geopolitics of Knowledge.md",
     "raw/Parreira do Amaral(Ed.)_2022_Springer.pdf",
@@ -202,7 +205,6 @@
     "templater/template-fact-event.md",
     "Clippings/Hattie-Studie.md",
     "Clippings/Pierre Bourdieu.md",
-    "wiki/theories/Network Society.md",
     "wiki/concepts/Mondialisation.md",
     "wiki/facts/us/WWC SCD Pilot Standards 2010.md",
     "wiki/facts/us/A Nation at Risk 1983.md",
@@ -216,8 +218,6 @@
     "wiki/facts/us/US-China Economic and Security Review Commission (2000).md",
     "wiki/facts/multi/Sino-American Trade War (2018).md",
     "wiki/concepts/Economic and Industrial Espionage.md",
-    "wiki/concepts/Orientalism.md",
-    "wiki/concepts/New Public Management in Education.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.pdf",
     "_update_frontmatter.py",
     "raw/978-3-030-94415-5_6.pdf",

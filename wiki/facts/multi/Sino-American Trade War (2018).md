@@ -4,23 +4,24 @@ aliases: ["中美贸易战", "中美贸易摩擦", "US-China Trade War"]
 type: fact
 subtype: event
 tags: ["region/china", "region/us", "geopolitics-of-knowledge", "trade", "technology-transfer"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Economic and Industrial Espionage]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Economic and Industrial Espionage]]", "[[Internationalization of Higher Education]]"]
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons: ["[[Fazal Rizvi]]"]
 related_facts: ["[[US-China Economic and Security Review Commission (2000)]]", "[[Thousand Talents Program]]", "[[Great Firewall of China]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_arguments: ["[[Argument_Partaken_2022_Springer]]", "[[Argument_Rizvi_2022_Springer]]"]
+sources: ["[[Ch5_Partaken_2022]]", "[[Ch6_Rizvi_2022]]"]
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 # Sino-American Trade War (2018)
 
 ## 背景
 
+> [!info]
 2018 年 3 月，美国与欧洲和东亚各国关于贸易逆差和市场准入的争端全部结束，唯独中国除外。到了当月底，贸易争端的真正目标明确为中国而非韩国、德国等其他美国盟友（Partaken, 2022, p.78）。
 
 ## 经过
@@ -43,6 +44,15 @@ updated: 2026-05-10
 > - 从"美国优先"霸权话语的视角看，这场跨太平洋"冷战 II"最强和最一致的开战理由（casus belli）是系统性持续的知识盗窃和间谍活动（Partaken, 2022, p.84）
 > - Partaken 认为中国的知识转移传统建立在教学者-学习者等级制和学者的道德卓越之上，而对合同诚信、权力分立、权利和义务等原则重视甚少（Partaken, 2022, p.84）
 
+### 对国际高等教育的影响
+
+Rizvi (2022) 从中美地缘政治紧张的角度分析了贸易战对[[Internationalization of Higher Education|高等教育国际化]]的多重冲击：
+
+- **中国留学生处境恶化**："关于 Covid-19 起源、技术转让、人权和香港的争议"导致来自中国的国际学生感到越来越不受欢迎、越来越不安全（Rizvi, 2022, p.101）
+- **新自由主义全球化想象的动摇**：中美地缘政治紧张正在改变新自由主义全球化想象赖以建立和庆祝的基础——以竞争和市场为核心的国际化范式日益暴露其内在矛盾（Rizvi, 2022, pp.101–102）
+- **权力不对称的重构**：新兴的地缘政治格局要求"互惠和互利"，英美国家"不再能不受挑战地定义经济、政治和文化交换的条款"（Rizvi, 2022, p.101）。但与此同时，**新的不对称正在出现**——中国将高等教育用作全球影响力的工具，在新的权力格局中制造了亚洲内部新的等级关系（Rizvi, 2022, pp.101–102）
+- **知识地缘政治的多极化**：虽然英语国家大学仍居主导地位，但"其他知识生产中心，特别是在亚洲，正在崛起"，许多系统"将其文化和认识论遗产视为同等至关重要，甚至更为优越"（Rizvi, 2022, p.102）。这一趋势要求超越商业化逻辑，重新想象跨国研究合作的可能性
+
 ## 争议与评论
 
 > [!warning]
@@ -55,6 +65,7 @@ updated: 2026-05-10
 > - [[Knowledge Transfer]] — 中美贸易战是知识转移作为 GPK 核心的经验案例
 > - [[US-China Economic and Security Review Commission (2000)]] — 贸易战的制度前史
 > - [[Thousand Talents Program]] — 中美知识转移争端的焦点议题之一
+> - [[Internationalization of Higher Education]] — Rizvi (2022) 分析中美地缘政治紧张对中国留学生处境和 HE 国际化范式的冲击
 
 ## 来源
 
