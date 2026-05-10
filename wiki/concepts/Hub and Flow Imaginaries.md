@@ -1,6 +1,6 @@
 ---
 title: Hub and Flow Imaginaries
-aliases: []
+aliases: ["枢纽与流动想象", "hub and flow imaginaries"]
 type: concept
 tags: [hub-and-flow, geopolitical-imaginaries, knowledge-based-economization, spatial-imaginaries, region/global]
 related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Geopolitical Subject]]", "[[Spatial Sortings]]", "[[Knowledge-Based Economy]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[International Education Hubs]]", "[[Minerva University]]"]

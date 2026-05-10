@@ -1,6 +1,6 @@
 ---
 title: Decolonial Geopolitics of Knowledge
-aliases: []
+aliases: ["去殖民知识地缘政治", "decolonial geopolitics of knowledge"]
 type: theory
 tags: [decolonial-theory, geopolitics-of-knowledge, coloniality, epistemology, postcolonial-studies, region/global]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Orientalism]]", "[[Horizon 2020 SSH Integration]]", "[[Global Education Industry (GEI)]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]", "[[Forced Knowledge Transfer]]"]

@@ -1,6 +1,6 @@
 ---
 title: Network Society
-aliases: []
+aliases: ["网络社会", "network society"]
 type: theory
 tags: [network-society, Castells, globalization, knowledge-economy, region/global, level/higher-ed]
 related_concepts: ["[[Transnational Research Collaboration in Higher Education]]", "[[Internationalization of Higher Education]]", "[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Hub and Flow Imaginaries]]", "[[International Education Hubs]]"]

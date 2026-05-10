@@ -1,6 +1,6 @@
 ---
 title: Knowledge-Based Economy
-aliases: []
+aliases: ["知识经济", "知识型经济", "knowledge-based economy", "KBE"]
 type: concept
 tags: [knowledge-based-economy, knowledge-economy, post-industrialism, endogenous-growth, region/global, level/higher-ed]
 related_concepts: ["[[Knowledge-Based Economization]]", "[[Knowledge Capitalism]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Internationalization of Higher Education]]", "[[International Education Hubs]]", "[[New Public Management in Education]]"]

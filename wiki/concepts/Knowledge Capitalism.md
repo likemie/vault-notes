@@ -1,6 +1,6 @@
 ---
 title: Knowledge Capitalism
-aliases: []
+aliases: ["知识资本主义", "knowledge capitalism"]
 type: concept
 tags: [knowledge-capitalism, knowledge-economy, paradigm/neoliberal, region/global, level/higher-ed]
 related_concepts: ["[[Knowledge-Based Economy]]", "[[Geopolitics of Knowledge]]", "[[Internationalization of Higher Education]]", "[[New Public Management in Education]]", "[[Knowledge-Based Economization]]"]

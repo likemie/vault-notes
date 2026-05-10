@@ -1,6 +1,6 @@
 ---
 title: Critical Geopolitics
-aliases: []
+aliases: ["批判地缘政治学", "批判地缘政治", "critical geopolitics"]
 type: theory
 tags: [critical-geopolitics, geopolitics-of-knowledge, knowledge-based-economization, spatial-turn, political-geography, region/global]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge-Based Economization]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[International Education Hubs]]", "[[Minerva University]]", "[[Global Education Industry (GEI)]]", "[[Internationalization of Higher Education]]", "[[Orientalism]]"]

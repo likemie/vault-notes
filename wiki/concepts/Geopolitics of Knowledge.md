@@ -1,6 +1,6 @@
 ---
 title: Geopolitics of Knowledge
-aliases: []
+aliases: ["知识地缘政治", "geopolitics of knowledge", "GPK"]
 type: concept
 tags: [geopolitics-of-knowledge, higher-education, knowledge-based-economy, region/global, level/higher-ed]
 related_concepts: ["[[Knowledge-Based Economy]]", "[[Knowledge-Based Economization]]", "[[Knowledge Capitalism]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Global Regionalisms in Higher Education]]", "[[Regulatory Regionalism]]", "[[Global Education Industry (GEI)]]", "[[International Education Hubs]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[Minerva University]]", "[[Horizon 2020 SSH Integration]]", "[[Horizon Europe Missions]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]", "[[Forced Knowledge Transfer]]", "[[Knowledge Sabotage]]", "[[Narrative Knowledge]]", "[[Economic and Industrial Espionage]]", "[[Internationalization of Higher Education]]", "[[Transnational Research Collaboration in Higher Education]]", "[[Orientalism]]"]

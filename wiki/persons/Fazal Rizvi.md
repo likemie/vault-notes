@@ -1,6 +1,6 @@
 ---
 title: Fazal Rizvi
-aliases: []
+aliases: ["法扎尔·里兹维", "Fazal Rizvi"]
 type: person
 tags: [Fazal-Rizvi, higher-education, internationalization, geopolitics, region/australia, region/global, level/higher-ed]
 related_concepts: ["[[Internationalization of Higher Education]]", "[[Transnational Research Collaboration in Higher Education]]", "[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Critical Geopolitics]]", "[[International Education Hubs]]", "[[Knowledge-Based Economy]]", "[[New Public Management in Education]]", "[[Endogenous and Exogenous Privatisation]]"]

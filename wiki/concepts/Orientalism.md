@@ -1,6 +1,6 @@
 ---
 title: Orientalism
-aliases: []
+aliases: ["东方主义", "orientalism"]
 type: concept
 tags: [Orientalism, postcolonial-theory, knowledge-production, region/global, level/higher-ed]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Internationalization of Higher Education]]", "[[Knowledge Capitalism]]", "[[Colonial Modernity]]"]
