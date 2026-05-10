@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md",
+                "file": "wiki/concepts/Self-Driven Mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch3_Parreira do Amaral_2022"
+              "title": "Self-Driven Mode"
             }
           }
         ]
@@ -187,8 +187,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "88e92adc127e8098",
+  "active": "1c9b1d9f1feb84d0",
   "lastOpenFiles": [
+    "wiki/persons/Chen Xie.md",
+    "wiki/persons/Geert Hofstede.md",
+    "wiki/persons/Jane Knight.md",
+    "wiki/persons/Klaus Nielsen.md",
+    "wiki/persons/Norberto Bottani.md",
+    "wiki/persons/Scott Eacott.md",
+    "wiki/theories/Refraction Framework.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md",
     "_update_frontmatter.py",
     "raw/Parreira do Amaral(Ed.)_2022_Springer.pdf",
     "raw/978-3-030-94415-5_6.pdf",
@@ -210,13 +218,6 @@
     "wiki/persons/Frantz Fanon.md",
     "wiki/persons/Chen Kuan-Hsing.md",
     "wiki/persons/Walter Mignolo.md",
-    "wiki/concepts/Concealment-Exposure Framework.md",
-    "wiki/facts/uk/Areopagitica (1644).md",
-    "wiki/concepts/Fourth Industrial Revolution.md",
-    "wiki/persons/Paulo Freire.md",
-    "wiki/theories/Decolonial Geopolitics of Knowledge.md",
-    "wiki/facts/china/China Social Credit System.md",
-    "wiki/facts/japan/Kokutai no Hongi (1937).md",
     "wiki/facts/japan",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.pdf",
     "books/郑_2023_上海三联书店/第三章.jpeg",
@@ -233,7 +234,6 @@
     "raw/978-3-030-94415-5.pdf",
     "raw",
     "未命名文件夹",
-    "books/郑_2023_上海三联书店/附录一个案描述1.jpeg",
-    "templater"
+    "books/郑_2023_上海三联书店/附录一个案描述1.jpeg"
   ]
 }
