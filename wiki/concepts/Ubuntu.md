@@ -1,9 +1,14 @@
 ---
 title: Ubuntu
+aliases: []
 type: concept
 tags: [ubuntu, african-philosophy, relational-ontology, posthumanism, care-ethics, region/global]
 related_concepts: ["[[Posthumanism]]", "[[Buen Vivir]]"]
 related_persons: []
+related_theories: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: low
 status: draft

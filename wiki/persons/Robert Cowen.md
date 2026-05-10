@@ -1,9 +1,13 @@
 ---
 title: Robert Cowen
+aliases: []
 type: person
 tags: [Robert-Cowen, comparative-education, region/uk]
 related_concepts: ["[[Transitology]]", "[[Regional University Alliances]]", "[[Policy Borrowing]]"]
 related_theories: []
+related_methods: []
+related_persons: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

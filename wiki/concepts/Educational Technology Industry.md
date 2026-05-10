@@ -1,9 +1,14 @@
 ---
 title: Educational Technology Industry
+aliases: []
 type: concept
 tags: [edtech, educational-technology, digitalization, marketization, higher-ed, region/global]
 related_concepts: ["[[Global Education Industry (GEI)]]", "[[Knowledge-Based Economy]]", "[[New Public Management in Education]]", "[[Transhumanism]]", "[[Learning Analytics]]", "[[Regional University Alliances]]"]
 related_persons: ["[[Donna Haraway]]"]
+related_theories: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

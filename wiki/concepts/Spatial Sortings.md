@@ -1,10 +1,14 @@
 ---
 title: Spatial Sortings
+aliases: []
 type: concept
 tags: [spatial-sortings, knowledge-based-economization, spatial-inequality, urbanization, region/global]
 related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge-Based Economy]]", "[[Geopolitical Subject]]", "[[Economic Patriotism]]", "[[Progressive Neoliberalism]]"]
 related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
 related_persons: ["[[Sami Moisio]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
 confidence: low
 status: draft

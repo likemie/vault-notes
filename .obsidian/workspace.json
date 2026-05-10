@@ -187,8 +187,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1c9b1d9f1feb84d0",
+  "active": "88e92adc127e8098",
   "lastOpenFiles": [
+    "_update_frontmatter.py",
     "raw/Parreira do Amaral(Ed.)_2022_Springer.pdf",
     "raw/978-3-030-94415-5_6.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md",
@@ -233,7 +234,6 @@
     "raw",
     "未命名文件夹",
     "books/郑_2023_上海三联书店/附录一个案描述1.jpeg",
-    "templater",
-    "wiki/templater"
+    "templater"
   ]
 }

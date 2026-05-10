@@ -1,10 +1,14 @@
 ---
 title: Fixity-Motion Tension
+aliases: []
 type: theory
 tags: [fixity-motion-tension, harvey, geopolitics-of-capitalism, spatial-dynamics, capital-circulation, region/global]
 related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]", "[[Classical Geopolitics]]", "[[Spatial Sortings]]", "[[Knowledge-Based Economy]]", "[[Geopolitical Subject]]"]
 related_theories: ["[[Critical Geopolitics]]"]
 related_persons: ["[[Sami Moisio]]", "[[David Harvey]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
 confidence: medium
 status: draft

@@ -1,9 +1,14 @@
 ---
 title: Response-ability
+aliases: []
 type: concept
 tags: [response-ability, care-ethics, posthumanism, relational-ontology]
 related_concepts: ["[[Sympoiesis]]", "[[Posthumanism]]", "[[SF (Haraway)]]"]
 related_persons: ["[[Donna Haraway]]"]
+related_theories: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

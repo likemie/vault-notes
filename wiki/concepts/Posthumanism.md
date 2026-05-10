@@ -1,10 +1,14 @@
 ---
 title: Posthumanism
+aliases: []
 type: concept
 tags: [posthumanism, relational-ontology, sympoiesis, world-making, higher-ed]
 related_concepts: ["[[Transhumanism]]", "[[Sympoiesis]]", "[[Autopoiesis]]", "[[Mondialisation]]", "[[SF (Haraway)]]", "[[Humosity]]"]
 related_persons: ["[[Donna Haraway]]", "[[Arturo Escobar]]"]
 related_theories: ["[[Autopoiesis]]", "[[Transition Design]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

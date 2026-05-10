@@ -1,11 +1,14 @@
 ---
 title: Nation Building through Education
+aliases: []
 type: theory
 tags: [nation-building, national-identity, citizenship-education, frontier-regions, China, paradigm/critical, region/china]
 related_concepts: ["[[National Education in Hong Kong]]", "[[Membership-Creating Function of Education]]"]
 related_theories: []
 related_persons: ["[[Paul Morris]]"]
 related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["sources/Yan_2025_JCS.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

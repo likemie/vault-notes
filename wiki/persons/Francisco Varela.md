@@ -1,10 +1,13 @@
 ---
 title: Francisco Varela
+aliases: []
 type: person
 tags: [Francisco-Varela, autopoiesis, biology, neuroscience]
 related_concepts: ["[[Posthumanism]]"]
 related_theories: ["[[Autopoiesis]]"]
 related_persons: ["[[Humberto Maturana]]", "[[Arturo Escobar]]"]
+related_methods: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

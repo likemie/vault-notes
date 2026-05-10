@@ -1,10 +1,16 @@
 ---
 title: Argument_Parreira do Amaral_2022_Springer
+aliases: []
 type: argument
 subtype: edited-volume
 citation: "Parreira do Amaral, M., & Thompson, C. (Eds.). (2022). Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation. Springer."
 tags: [geopolitics-of-knowledge, higher-education, knowledge-based-economy, region/global, level/higher-ed]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Global Regionalisms in Higher Education]]", "[[Regulatory Regionalism]]", "[[Global Education Industry (GEI)]]"]
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
 sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md"]
 part_of:
 status: draft

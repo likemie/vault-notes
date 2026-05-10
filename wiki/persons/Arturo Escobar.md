@@ -1,10 +1,13 @@
 ---
 title: Arturo Escobar
+aliases: []
 type: person
 tags: [Arturo-Escobar, design, pluriverse, decolonial, transition-design]
 related_concepts: ["[[Transition Design]]", "[[Mondialisation]]", "[[Posthumanism]]", "[[Ubuntu]]", "[[Buen Vivir]]"]
 related_theories: ["[[Autopoiesis]]"]
 related_persons: ["[[Francisco Varela]]", "[[Humberto Maturana]]", "[[Donna Haraway]]"]
+related_methods: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

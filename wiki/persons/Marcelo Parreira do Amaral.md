@@ -1,9 +1,13 @@
 ---
 title: Marcelo Parreira do Amaral
+aliases: []
 type: person
 tags: [Marcelo-Parreira-do-Amaral, comparative-education, geopolitics-of-knowledge, region/germany, region/global, level/higher-ed]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Education Industry (GEI)]]", "[[Knowledge-Based Economization]]", "[[International Education Hubs]]", "[[Global Regionalisms in Higher Education]]"]
 related_theories: ["[[Critical Geopolitics]]", "[[Decolonial Geopolitics of Knowledge]]"]
+related_methods: []
+related_persons: []
+related_arguments: []
 sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
 confidence: low
 status: draft

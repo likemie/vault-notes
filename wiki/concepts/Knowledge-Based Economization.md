@@ -1,10 +1,14 @@
 ---
 title: Knowledge-Based Economization
+aliases: []
 type: concept
 tags: [knowledge-based-economization, knowledge-based-economy, geopolitics, economization, region/global, level/higher-ed]
 related_concepts: ["[[Knowledge-Based Economy]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[Global Education Industry (GEI)]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[Progressive Neoliberalism]]"]
 related_theories: ["[[Luhmann's Systems Theory]]", "[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
 related_persons: ["[[Sami Moisio]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
 confidence: medium
 status: draft

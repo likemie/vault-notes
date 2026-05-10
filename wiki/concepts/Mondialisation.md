@@ -1,9 +1,14 @@
 ---
 title: Mondialisation
+aliases: []
 type: concept
 tags: [mondialisation, globalization, pluriverse, world-making, alternative-globalization]
 related_concepts: ["[[Posthumanism]]"]
 related_persons: ["[[Arturo Escobar]]"]
+related_theories: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: low
 status: draft

@@ -1,9 +1,14 @@
 ---
 title: Buen Vivir
+aliases: []
 type: concept
 tags: [buen-vivir, latin-american-philosophy, relational-ontology, posthumanism, alternative-development, region/global]
 related_concepts: ["[[Posthumanism]]", "[[Ubuntu]]"]
 related_persons: []
+related_theories: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: low
 status: draft

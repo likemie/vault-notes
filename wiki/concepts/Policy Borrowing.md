@@ -1,11 +1,14 @@
 ---
 title: Policy Borrowing
+aliases: []
 type: concept
 tags: [policy-borrowing, policy-referencing, comparative-education, globalization, education-policy, region/global]
 related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Cross-National Attraction]]", "[[Externalization (Schriewer)]]", "[[Transitology]]", "[[Argument_Rappleye_2006_RCIE]]", "[[American Attraction to Japanese Education 1980s]]", "[[Late Qing Borrowing of Japanese Education]]"]
 related_theories: ["[[World Culture Theory]]"]
 related_persons: ["[[Gita Steiner-Khamsi]]", "[[David Phillips]]", "[[Kimberly Ochs]]", "[[Jurgen Schriewer]]", "[[Paul Morris]]", "[[John Hattie]]"]
 related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["sources/Rappleye_2006_RCIE.md", "sources/Golovchin_2019_ESC.md", "sources/Yan_2025_JCS.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: high
 status: draft

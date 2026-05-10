@@ -1,9 +1,13 @@
 ---
 title: Walter Mignolo
+aliases: []
 type: person
 tags: [Walter-Mignolo, decolonial-theory, geopolitics-of-knowledge, coloniality, postcolonial-studies, region/us, region/argentina]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]"]
 related_theories: ["[[Decolonial Geopolitics of Knowledge]]", "[[Critical Geopolitics]]"]
+related_methods: []
+related_persons: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
 confidence: low
 status: draft

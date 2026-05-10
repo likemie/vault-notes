@@ -1,10 +1,13 @@
 ---
 title: Jane Knight
+aliases: []
 type: person
 tags: [Jane-Knight, international-education, cross-border-education, education-hubs, region/canada, level/higher-ed]
 related_concepts: ["[[International Education Hubs]]", "[[Geopolitics of Knowledge]]"]
 related_theories: []
 related_persons: ["[[Marcelo Parreira do Amaral]]"]
+related_methods: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
 confidence: low
 status: draft

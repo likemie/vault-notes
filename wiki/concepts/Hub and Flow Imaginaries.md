@@ -1,10 +1,14 @@
 ---
 title: Hub and Flow Imaginaries
+aliases: []
 type: concept
 tags: [hub-and-flow, geopolitical-imaginaries, knowledge-based-economization, spatial-imaginaries, region/global]
 related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Geopolitical Subject]]", "[[Spatial Sortings]]", "[[Knowledge-Based Economy]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[International Education Hubs]]", "[[Minerva University]]"]
 related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
 related_persons: ["[[Sami Moisio]]", "[[Michael Porter]]", "[[Bob Jessop]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
 confidence: low
 status: draft

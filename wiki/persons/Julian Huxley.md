@@ -1,8 +1,13 @@
 ---
 title: Julian Huxley
+aliases: []
 type: person
 tags: [Julian-Huxley, transhumanism, UNESCO, eugenics, scientific-humanism, region/uk]
 related_concepts: ["[[Transhumanism]]", "[[Posthumanism]]"]
+related_theories: []
+related_methods: []
+related_persons: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

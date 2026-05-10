@@ -1,9 +1,14 @@
 ---
 title: Progressive Neoliberalism
+aliases: []
 type: concept
 tags: [progressive-neoliberalism, nancy-fraser, knowledge-based-economization, silicon-valley-worldview, region/global]
 related_concepts: ["[[Knowledge-Based Economization]]", "[[Knowledge-Based Economy]]", "[[Spatial Sortings]]", "[[Hub and Flow Imaginaries]]"]
 related_persons: ["[[Sami Moisio]]"]
+related_theories: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
 confidence: low
 status: draft

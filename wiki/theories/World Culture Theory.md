@@ -1,11 +1,14 @@
 ---
 title: World Culture Theory
+aliases: []
 type: theory
 tags: [world-culture-theory, globalization, comparative-education, curriculum-change, paradigm/globalization]
 related_concepts: ["[[Policy Borrowing]]", "[[Geopolitics of Knowledge]]", "[[Membership-Creating Function of Education]]", "[[Knowledge-Based Economy]]", "[[Liberal Studies (Hong Kong)]]", "[[Replacement of LS by CSD 2021]]"]
 related_theories: ["[[Nation Building through Education]]"]
 related_persons: ["[[John W. Meyer]]", "[[Francisco O. Ramirez]]", "[[Gita Steiner-Khamsi]]", "[[Robert Cowen]]"]
 related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["sources/Yan_2025_JCS.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

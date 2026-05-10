@@ -1,11 +1,15 @@
 ---
 title: Argument_Parreira do Amaral_2022_geopolitics-knowledge
+aliases: []
 type: argument
 citation: "Parreira do Amaral, M. (2022). Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 35–51). Springer."
 tags: [geopolitics-of-knowledge, higher-education, global-regionalisms, global-education-industry, international-education-hubs, region/global, level/higher-ed]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Regionalisms in Higher Education]]", "[[Global Education Industry (GEI)]]", "[[International Education Hubs]]", "[[Classical Geopolitics]]", "[[Minerva University]]", "[[Hub and Flow Imaginaries]]"]
 related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
 related_persons: ["[[Jane Knight]]", "[[Walter Mignolo]]", "[[Susan Robertson]]", "[[Marcelo Parreira do Amaral]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft

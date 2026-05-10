@@ -1,10 +1,14 @@
 ---
 title: National Competitive Advantage
+aliases: []
 type: concept
 tags: [national-competitive-advantage, porter, competitiveness, geopolitical-imaginary, knowledge-based-economy, region/global]
 related_concepts: ["[[Knowledge-Based Economy]]", "[[Knowledge-Based Economization]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Economic Patriotism]]"]
 related_theories: ["[[Fixity-Motion Tension]]"]
 related_persons: ["[[Michael Porter]]", "[[Sami Moisio]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
 confidence: medium
 status: draft

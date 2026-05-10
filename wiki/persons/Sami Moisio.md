@@ -1,10 +1,13 @@
 ---
 title: Sami Moisio
+aliases: []
 type: person
 tags: [Sami-Moisio, geopolitics, knowledge-based-economy, knowledge-based-economization, region/finland, level/higher-ed]
 related_concepts: ["[[Knowledge-Based Economy]]", "[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[Progressive Neoliberalism]]"]
 related_persons: ["[[Michael Porter]]", "[[Bob Jessop]]"]
 related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
+related_methods: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
 confidence: medium
 status: draft

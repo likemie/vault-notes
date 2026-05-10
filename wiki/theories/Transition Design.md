@@ -1,10 +1,14 @@
 ---
 title: Transition Design
+aliases: []
 type: theory
 tags: [transition-design, design, pluriverse, wicked-problems, social-change]
 related_concepts: ["[[Posthumanism]]", "[[Mondialisation]]"]
 related_persons: ["[[Arturo Escobar]]", "[[Francisco Varela]]", "[[Humberto Maturana]]"]
 related_theories: ["[[Autopoiesis]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

@@ -1,10 +1,14 @@
 ---
 title: Critical Geopolitics
+aliases: []
 type: theory
 tags: [critical-geopolitics, geopolitics-of-knowledge, knowledge-based-economization, spatial-turn, political-geography, region/global]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge-Based Economization]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[International Education Hubs]]", "[[Minerva University]]", "[[Global Education Industry (GEI)]]"]
 related_theories: ["[[Fixity-Motion Tension]]", "[[Decolonial Geopolitics of Knowledge]]"]
 related_persons: ["[[Sami Moisio]]", "[[Michael Porter]]", "[[Bob Jessop]]", "[[David Harvey]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
 confidence: low
 status: draft

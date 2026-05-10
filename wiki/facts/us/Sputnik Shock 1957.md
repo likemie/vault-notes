@@ -1,8 +1,14 @@
 ---
 title: Sputnik Shock 1957
+aliases: []
 type: fact
 tags: [sputnik-shock, cold-war, stem-education, oecd, region/us, level/k12, level/higher-ed]
 related_concepts: ["[[Knowledge-Based Economy]]", "[[Educational Technology Industry]]", "[[International Indicators of Education Systems (INES)]]", "[[Education at a Glance (EAG)]]"]
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

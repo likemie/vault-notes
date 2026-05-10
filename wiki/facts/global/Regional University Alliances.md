@@ -1,10 +1,15 @@
 ---
 title: Regional University Alliances
+aliases: []
 type: fact
 subtype: event
 tags: [higher-education, university-alliances, europe, regionalization, region/global, level/higher-ed]
 related_concepts: ["[[Global Regionalisms in Higher Education]]", "[[International Education Hubs]]", "[[Educational Technology Industry]]"]
 related_theories: ["[[Transitology]]"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

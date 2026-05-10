@@ -1,9 +1,14 @@
 ---
 title: Sympoiesis
+aliases: []
 type: concept
 tags: [sympoiesis, posthumanism, relational-ontology, care-ethics]
 related_concepts: ["[[Autopoiesis]]", "[[Posthumanism]]", "[[SF (Haraway)]]", "[[Humosity]]", "[[Response-ability]]"]
 related_persons: ["[[Donna Haraway]]", "[[Francisco Varela]]", "[[Humberto Maturana]]"]
+related_theories: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

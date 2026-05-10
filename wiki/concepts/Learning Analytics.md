@@ -1,9 +1,14 @@
 ---
 title: Learning Analytics
+aliases: []
 type: concept
 tags: [learning-analytics, personalized-learning, edtech, digitalization, data-science, region/global, level/higher-ed]
 related_concepts: ["[[Educational Technology Industry]]", "[[Knowledge-Based Economy]]", "[[Transhumanism]]"]
 related_persons: []
+related_theories: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: low
 status: draft

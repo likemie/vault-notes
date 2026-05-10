@@ -1,9 +1,14 @@
 ---
 title: Vergegenkunft
+aliases: []
 type: concept
 tags: [vergegenkunft, temporality, past-present-future, literature]
 related_concepts: ["[[Transitology]]"]
 related_persons: ["[[Robert Cowen]]"]
+related_theories: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: low
 status: draft

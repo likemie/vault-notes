@@ -1,9 +1,14 @@
 ---
 title: Humosity
+aliases: []
 type: concept
 tags: [humosity, posthumanism, haraway, decentering, ecology, mortality]
 related_concepts: ["[[Posthumanism]]", "[[Sympoiesis]]"]
 related_persons: ["[[Donna Haraway]]"]
+related_theories: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: low
 status: draft

@@ -1,9 +1,13 @@
 ---
 title: Bob Jessop
+aliases: []
 type: person
 tags: [bob-jessop, cultural-political-economy, knowledge-based-economy, meta-governance, region/united-kingdom, level/higher-ed]
 related_concepts: ["[[Knowledge-Based Economy]]", "[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]"]
 related_persons: ["[[Sami Moisio]]"]
+related_theories: []
+related_methods: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
 confidence: medium
 status: draft

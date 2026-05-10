@@ -1,11 +1,15 @@
 ---
 title: Minerva University
+aliases: []
 type: fact
 subtype: event
 tags: [minerva-university, higher-education, ed-tech, privatization, region/global, level/higher-ed]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Global Education Industry (GEI)]]", "[[International Education Hubs]]", "[[Hub and Flow Imaginaries]]"]
 related_theories: ["[[Critical Geopolitics]]"]
 related_persons: ["[[Christiane Thompson]]", "[[Marcelo Parreira do Amaral]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
 confidence: low
 status: draft

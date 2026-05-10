@@ -1,9 +1,14 @@
 ---
 title: SF (Haraway)
+aliases: []
 type: concept
 tags: [sf, haraway, string-figures, speculative-fabulation, science-fiction, storytelling, world-making]
 related_concepts: ["[[Sympoiesis]]", "[[Response-ability]]", "[[Posthumanism]]"]
 related_persons: ["[[Donna Haraway]]"]
+related_theories: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: low
 status: draft

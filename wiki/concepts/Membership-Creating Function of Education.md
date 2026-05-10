@@ -1,10 +1,14 @@
 ---
 title: Membership-Creating Function of Education
+aliases: []
 type: concept
 tags: [membership, nation-state, mass-education, citizenship, boundaries]
 related_concepts: ["[[National Education in Hong Kong]]", "[[Citizenship and Social Development (Hong Kong)]]"]
 related_theories: ["[[Nation Building through Education]]", "[[World Culture Theory]]"]
 related_persons: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

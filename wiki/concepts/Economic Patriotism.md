@@ -1,10 +1,14 @@
 ---
 title: Economic Patriotism
+aliases: []
 type: concept
 tags: [economic-patriotism, knowledge-based-economization, spatial-policy, urbanization, region/global]
 related_concepts: ["[[Knowledge-Based Economization]]", "[[National Competitive Advantage]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Geopolitics of Knowledge]]"]
 related_theories: ["[[Fixity-Motion Tension]]"]
 related_persons: ["[[Sami Moisio]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
 confidence: low
 status: draft

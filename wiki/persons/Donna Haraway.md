@@ -1,9 +1,13 @@
 ---
 title: Donna Haraway
+aliases: []
 type: person
 tags: [Donna-Haraway, posthumanism, new-materialism, region/us]
 related_concepts: ["[[Transhumanism]]", "[[Posthumanism]]", "[[Sympoiesis]]", "[[Response-ability]]", "[[SF (Haraway)]]", "[[Humosity]]"]
 related_theories: ["[[Autopoiesis]]"]
+related_methods: []
+related_persons: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

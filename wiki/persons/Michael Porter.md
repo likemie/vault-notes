@@ -1,9 +1,13 @@
 ---
 title: Michael Porter
+aliases: []
 type: person
 tags: [michael-porter, competitive-strategy, national-competitive-advantage, region/united-states, level/higher-ed]
 related_concepts: ["[[National Competitive Advantage]]", "[[Knowledge-Based Economy]]", "[[Hub and Flow Imaginaries]]"]
 related_persons: ["[[Sami Moisio]]"]
+related_theories: []
+related_methods: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
 confidence: medium
 status: draft

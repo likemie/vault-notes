@@ -1,10 +1,13 @@
 ---
 title: Humberto Maturana
+aliases: []
 type: person
 tags: [Humberto-Maturana, autopoiesis, biology, social-theory]
 related_concepts: ["[[Posthumanism]]"]
 related_theories: ["[[Autopoiesis]]"]
 related_persons: ["[[Francisco Varela]]", "[[Arturo Escobar]]"]
+related_methods: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

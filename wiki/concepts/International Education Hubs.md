@@ -1,10 +1,14 @@
 ---
 title: International Education Hubs
+aliases: []
 type: concept
 tags: [international-education-hubs, higher-education, cross-border-education, geopolitical-projects, region/global, level/higher-ed]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Regionalisms in Higher Education]]", "[[Global Education Industry (GEI)]]", "[[Hub and Flow Imaginaries]]", "[[Minerva University]]", "[[Regional University Alliances]]"]
 related_theories: ["[[Critical Geopolitics]]"]
 related_persons: ["[[Jane Knight]]", "[[Marcelo Parreira do Amaral]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: low
 status: draft

@@ -1,9 +1,14 @@
 ---
 title: Transitology
+aliases: []
 type: concept
 tags: [transitology, comparative-education, late-modernity, higher-ed]
 related_persons: ["[[Robert Cowen]]"]
 related_concepts: ["[[Knowledge-Based Economy]]", "[[New Public Management in Education]]", "[[Policy Borrowing]]", "[[Regional University Alliances]]"]
+related_theories: []
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft

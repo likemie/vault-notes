@@ -1,8 +1,14 @@
 ---
 title: Regulatory Regionalism
+aliases: []
 type: concept
 tags: [regulatory-regionalism, higher-education-governance, region/global, level/higher-ed]
 related_concepts: ["[[Global Regionalisms in Higher Education]]", "[[Geopolitics of Knowledge]]"]
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
 sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md"]
 confidence: low
 status: draft

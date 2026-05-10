@@ -1,9 +1,15 @@
 ---
 title: Horizon Europe Missions
+aliases: []
 type: fact
 subtype: policy
 tags: [horizon-europe, eu-research-policy, missions, region/global, level/higher-ed]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Global Regionalisms in Higher Education]]", "[[Regional University Alliances]]"]
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
 sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: low
 status: draft

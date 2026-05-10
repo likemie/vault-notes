@@ -1,10 +1,14 @@
 ---
 title: Knowledge-Based Economy
+aliases: []
 type: concept
 tags: [knowledge-based-economy, knowledge-economy, post-industrialism, endogenous-growth, region/global, level/higher-ed]
 related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]"]
 related_theories: ["[[Fixity-Motion Tension]]"]
 related_persons: ["[[Sami Moisio]]"]
+related_methods: []
+related_facts: []
+related_arguments: []
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
 confidence: medium
 status: draft
