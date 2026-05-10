@@ -4,12 +4,12 @@ aliases: ["去殖民知识地缘政治", "decolonial geopolitics of knowledge"]
 type: theory
 tags: [decolonial-theory, geopolitics-of-knowledge, coloniality, epistemology, postcolonial-studies, region/global]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Orientalism]]", "[[Horizon 2020 SSH Integration]]", "[[Global Education Industry (GEI)]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]", "[[Forced Knowledge Transfer]]"]
-related_theories: ["[[Critical Geopolitics]]"]
+related_theories: ["[[Critical Geopolitics]]", "[[Creative Tension of Sense]]"]
 related_persons: ["[[Walter Mignolo]]", "[[Arturo Escobar]]", "[[Enrique Dussel]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]", "[[James Partaken]]"]
 related_methods: []
 related_facts: []
-related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md"]
+related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch7_Delambre_2022.md"]
 confidence: low
 status: draft
 created: 2026-05-07

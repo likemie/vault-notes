@@ -10,12 +10,12 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Moisio_2022_Springer]]", "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]", "[[Argument_Amos_2022_Springer]]", "[[Argument_Partaken_2022_Springer]]"]
+related_arguments: ["[[Argument_Moisio_2022_Springer]]", "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]", "[[Argument_Amos_2022_Springer]]", "[[Argument_Partaken_2022_Springer]]", "[[Argument_Delambre_2022_Springer]]"]
 sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md"]
 part_of:
 status: draft
 created: 2026-05-07
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 ## 编者论点
