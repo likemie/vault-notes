@@ -132,6 +132,8 @@
 - [[Graduation Pathway Typology (Zheng)]] — 郑雅君 (2023) 的毕业出路产生机制2×2四分类模型：以目的-手段行动力为纵轴、价值信念驱动力为横轴，划分自主驱动者/机会主义者/迷失无从者/价值归顺者四种类型
 - [[Intuition-Dependent Mode]] — 郑雅君 (2023) 提出的大学生活组织实践图式：缺乏清晰规划、凭直觉被动应对大学选择，在低阶层大学生中更为普遍
 - [[International Education Hubs]] — Knight 的概念：国家将自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目，三种模型（学生／人才／知识创新枢纽）
+- [[Internationalization of Higher Education]] — Rizvi 的分析焦点：高等教育国际化的理性已从发展主义转向市场逻辑，亚洲崛起和 COVID-19 为关键转折点
+- [[Transnational Research Collaboration in Higher Education]] — Rizvi 的分析焦点：跨国研究合作中个体学术、机构声誉、国家经济和外交四重理性的融合
 - [[The Shock of the Elite]] — Reay, Crozier & Clayton (2009) 的概念：弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，郑雅君 (2023) 作为直觉依赖模式激化的关键机制
 - [[Lost Mode]] — 郑雅君 (2023) 的类型：直觉依赖模式+弱价值信念=迷失无从者，在四类中处于最不利地位，被动接受权宜之策
 - [[Opportunist Mode]] — 郑雅君 (2023) 的类型：目标掌控模式+弱价值信念=机会主义者，擅长策略但无深层价值认同，追求工具性利益最大化
@@ -361,6 +363,8 @@
 - [[Horizon 2020 SSH Integration]] — EU 2014–2020 年研究框架取消社会科学与人文学科独立资助渠道，将其作为横向议题嵌入所有优先领域以服务于政策证据基础
 - [[Minerva University]] — 2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标
 - [[Regional University Alliances]] — Amos (2022) 在晚期现代教育转型语境中关注的三类欧洲大学联盟（LERU、The GUILD、European University Alliances），在科研合作、师生流动和联合学位中运作，构成多层级地缘政治教育空间中的制度行动者
+- [[Australia in the Asian Century White Paper 2012]] — 澳大利亚 Henry Report：将亚洲崛起定位为"澳大利亚的机遇"，推动 AISRF、ACSRF 等与亚洲的研究合作
+- [[GATS and Trade in Education Services]] — WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映"新帝国主义"
 
 ### Hong Kong
 
@@ -790,6 +794,7 @@
 - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral: 整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
 - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos: 以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
 - [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken: 区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性
+- [[Argument_Rizvi_2022_Springer]] — Ch6 Fazal Rizvi: 以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构
 - 📖 [[Argument_郑_2023_上海三联书店]] — 郑雅君：以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化
 
 ### Reports & Policy Documents
