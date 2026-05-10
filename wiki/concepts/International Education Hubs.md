@@ -3,12 +3,12 @@ title: International Education Hubs
 aliases: []
 type: concept
 tags: [international-education-hubs, higher-education, cross-border-education, geopolitical-projects, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Regionalisms in Higher Education]]", "[[Global Education Industry (GEI)]]", "[[Hub and Flow Imaginaries]]", "[[Minerva University]]", "[[Regional University Alliances]]", "[[Internationalization of Higher Education]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Regionalisms in Higher Education]]", "[[Global Education Industry (GEI)]]", "[[Hub and Flow Imaginaries]]", "[[Minerva University]]", "[[Regional University Alliances]]", "[[Internationalization of Higher Education]]", "[[Knowledge-Based Economy]]"]
 related_theories: ["[[Critical Geopolitics]]"]
-related_persons: ["[[Jane Knight]]", "[[Marcelo Parreira do Amaral]]"]
+related_persons: ["[[Jane Knight]]", "[[Marcelo Parreira do Amaral]]", "[[Fazal Rizvi]]"]
 related_methods: []
 related_facts: []
-related_arguments: []
+related_arguments: ["[[Argument_Rizvi_2022_Springer]]"]
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
 confidence: low
 status: draft
@@ -26,7 +26,7 @@ updated: 2026-05-10
 
 ## 概念辨析
 
-- vs 高等教育国际化：国际化侧重院校层面的跨境流动与合作；IEHs 则是国家／地区层面的战略性项目，涉及高等教育系统与经济发展目标的深度整合
+- vs [[Internationalization of Higher Education|高等教育国际化]]：国际化侧重院校层面的跨境流动与合作；IEHs 则是国家/地区层面的战略性项目，涉及高等教育系统与经济发展目标的深度整合
 - vs 跨境高等教育（Cross-Border Higher Education）：跨境高等教育是 IEHs 的构成基础——IEHs 包含并建立于此基础之上，但代表了一种更广泛的战略配置
 
 ---
@@ -35,7 +35,21 @@ updated: 2026-05-10
 
 IEH 概念由 [[Jane Knight]] (2014a, 2014b, 2014c) 在跨境高等教育研究的基础上系统提出和发展。Knight 指出，过去十年中多个国家——主要位于东亚和中东——已建立 IEHs，意图成为全球高等教育学习和研究能力的首选目的地（Parreira do Amaral, 2022, p.44）。近年来 IEHs 被进一步分析为地缘政治项目，超越了简单的国际化策略（Erfurth, 2019; Parreira do Amaral, 2022）。
 
-Rizvi (2022) 从亚洲崛起的视角为 IEHs 的分析提供了补充语境：IEHs 的创建集中体现了亚洲国家将高等教育系统性地整合进经济竞争力和地缘政治定位的战略——从学生枢纽（教育出口）到知识/创新枢纽（全球知识经济核心节点）的升维路径，反映了亚洲国家从国际化的被动接受者到主动塑造者的角色转变（Rizvi, 2022, pp.95–100）。
+### Rizvi 的亚洲崛起视角
+
+Rizvi (2022) 从亚洲崛起的视角为 IEHs 的分析提供了关键的语境补充。其核心论点是：IEHs 的创建集中体现了亚洲国家将高等教育**系统性地整合进经济竞争力和地缘政治定位**的战略转变。
+
+这一转变的核心是**从被动到主动的角色转换**。在旧的发展主义范式下，亚洲国家是西方高等教育国际化的接受方——西方大学招收亚洲学生被视为"援助和发展"的延伸。IEHs 的出现标志着角色的根本转变：亚洲国家不再是国际教育的被动消费者，而是成为全球知识流动网络的**主动塑造者**（Rizvi, 2022, pp.95–100）。
+
+**从学生枢纽到知识/创新枢纽的升维路径**体现了这种主动性的深化：
+
+- **学生枢纽**阶段：主要以教育服务出口为目标——扩大入学机会、提升本国高教系统形象、通过外国学生流入创造收入（Knight & Lee, 2014, p.31）。这一阶段仍以接受西方既有的国际化框架为前提
+- **人才枢纽**阶段：关注焦点从教育出口转向人力资本积累——扩大技能劳动力储备、增强经济竞争力（Knight & Lee, 2014, p.32）。国家开始对国际教育流动进行战略性引导，服务于本国产业发展需求
+- **知识/创新枢纽**阶段：聚焦具有商业应用潜力的新知识的生产和应用，范畴远超高等教育，涵盖公共和私营部门合作研究及企业研发。这是与[[Knowledge-Based Economy|知识经济]]逻辑最深度整合的阶段（Knight & Lee, 2014, pp.33–34）
+
+### 市场理性作为驱动逻辑
+
+Rizvi 的分析进一步揭示了 IEHs 兴起背后的**话语理性转移**。IEHs 作为国家战略项目，其正当性不再建立在"帮助发展中国家现代化"的发展主义话语之上，而是建立在"提升全球经济竞争力"的[[Knowledge-Based Economy|市场理性]]之上。这一转移与 Rizvi 诊断的[[Internationalization of Higher Education|高等教育国际化]]整体理性转变——从发展主义到市场理性——是同一过程在国家层面的战略表达。详见 [[Internationalization of Higher Education#概念演变|高等教育国际化 > 概念演变]]（Rizvi, 2022, pp.96–97）。
 
 ---
 
@@ -46,22 +60,22 @@ Rizvi (2022) 从亚洲崛起的视角为 IEHs 的分析提供了补充语境：I
 [[Jane Knight|Knight]] & Lee (2014) 提出了 IEHs 的三类模型：
 
 - **学生枢纽（Student Hub）**：旨在扩大高等教育入学机会、现代化和国际化本国高校、提升国家高等教育系统形象、并通过外国学生流入创造收入。主要功能聚焦于教育服务出口（Knight & Lee, 2014, p.31, cited in Parreira do Amaral, 2022, p.44）
-- **人才枢纽（Talent Hub）**：旨在扩大技能劳动力储备、为服务型和／或知识型经济做出贡献、增强经济竞争力并提高劳动力的质量和相关性。关注焦点从教育出口转向人力资本积累（Knight & Lee, 2014, p.32, cited in Parreira do Amaral, 2022, p.44）
-- **知识／创新枢纽（Knowledge/Innovation Hub）**：聚焦于具有商业应用潜力的新知识的生产和应用，其范畴远超高等教育，涵盖公共和私营部门合作研究及企业部门的研发活动。这是三类模型中与经济竞争力逻辑最深度整合的一类（Knight & Lee, 2014, pp.33–34, cited in Parreira do Amaral, 2022, p.44）
+- **人才枢纽（Talent Hub）**：旨在扩大技能劳动力储备、为服务型和/或知识型经济做出贡献、增强经济竞争力并提高劳动力的质量和相关性。关注焦点从教育出口转向人力资本积累（Knight & Lee, 2014, p.32, cited in Parreira do Amaral, 2022, p.44）
+- **知识/创新枢纽（Knowledge/Innovation Hub）**：聚焦于具有商业应用潜力的新知识的生产和应用，其范畴远超高等教育，涵盖公共和私营部门合作研究及企业部门的研发活动。这是三类模型中与经济竞争力逻辑最深度整合的一类（Knight & Lee, 2014, pp.33–34, cited in Parreira do Amaral, 2022, p.44）
 
 ### 地缘政治维度
 
 - **国家角色转变**：IEHs 体现国家功能从垄断教育供给向强化监管角色的转变——国家成为"权力连接器"（power connector），协调全球流通与本地治理（Erfurth, 2019, cited in Parreira do Amaral, 2022, pp.44–45）
-- **治理分类的转移**：高等教育治理的基本理性正从社会和教育范畴（可及性、可负担性、公平性、质量、流动性、开放研究、进步）转向经济范畴（收入创造、可专利的非开放研究和知识的生产、经济竞争力）（Parreira do Amaral, 2022, p.45）
-- **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的国家枢纽角色**：IEHs 是 [[Sami Moisio|Moisio]] (2018) 的 Hub and Flow 想象在高等教育领域最直接的国家层面物质化——各国通过 IEH 项目将自身塑造为全球知识流动网络中的"枢纽"，吸引并锚定人才、资本和知识的跨国流动。从学生枢纽到知识/创新枢纽的三级分类，刻画了国家从单纯的教育服务出口方到全球知识经济核心节点的战略升维路径（Parreira do Amaral, 2022, pp.43–45）
-- **与 [[Minerva University|Minerva 项目]]的对照**：IEHs 和 Minerva 代表了知识地缘政治中两种不同的空间策略——IEHs 体现以国家领土为锚点的"枢纽"逻辑（国家在特定领土内集中教育资源和政策以吸引全球流动），Minerva 则体现以资本和技术为驱动的"流动"逻辑（机构本身脱离领土、跨越边界在全球城市网络中运作）。两者共同构成 Parreira do Amaral (2022) 所谓"新知识地缘政治"中领土固着与场所无涉两种空间想象的张力（Parreira do Amaral, 2022, pp.43–48）
+- **治理理性的转换**：高等教育治理的基本理性正从社会和教育范畴（可及性、可负担性、公平性、质量、流动性、开放研究、进步）转向经济范畴（收入创造、可专利的非开放研究和知识的生产、经济竞争力）（Parreira do Amaral, 2022, p.45）。Rizvi (2022) 从亚洲崛起的视角为此提供了市场化维度的补充：这一理性转换不仅发生在西方输出国，也深度嵌入亚洲接受国的国家战略之中（Rizvi, 2022, pp.95–100）
+- **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的国家枢纽角色**：IEHs 是 [[Sami Moisio|Moisio]] (2018) 的 Hub and Flow 想象在高等教育领域最直接的国家层面物质化——各国通过 IEH 项目将自身塑造为全球知识流动网络中的"枢纽"，吸引并锚定人才、资本和知识的跨国流动（Parreira do Amaral, 2022, pp.43–45）
+- **与 [[Minerva University|Minerva 项目]]的对照**：IEHs 和 Minerva 代表了知识地缘政治中两种不同的空间策略——IEHs 体现以国家领土为锚点的"枢纽"逻辑（国家在特定领土内集中教育资源和政策以吸引全球流动），Minerva 则体现以资本和技术为驱动的"流动"逻辑（机构本身脱离领土、跨越边界在全球城市网络中运作）。两者共同构成 Parreira do Amaral (2022) 所谓"新知识地缘政治"中领土固着与场所无涉两种空间想象的张力（Parreira do Amaral, 2022, pp.43–48）。详见 [[Geopolitics of Knowledge#两条理论脉络|知识地缘政治 > 两条理论脉络]]
 
 ---
 
 ## 实证发现
 
 - 多个 IEHs 在过去十年间被创建，主要位于东亚和中东：[[香港]]（Mok & Bodycott, 2014）、[[阿拉伯联合酋长国]]（Halsey Fox & Al Shamisi, 2014; Erfurth, 2019）、[[新加坡]]（Sidhu et al., 2014; Erfurth, 2019）（Parreira do Amaral, 2022, p.44）
-- IEHs 体现了地方到全球层面之间的相互关联——它们构成了全球性的话语空间，同时又将特定国家／行动者的经济目标空间化，关系到其在全球知识经济中的参与和定位（Parreira do Amaral, 2022, p.45）
+- IEHs 体现了地方到全球层面之间的相互关联——它们构成了全球性的话语空间，同时又将特定国家/行动者的经济目标空间化，关系到其在全球知识经济中的参与和定位（Parreira do Amaral, 2022, p.45）
 
 ---
 
