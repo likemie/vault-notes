@@ -3,13 +3,13 @@ title: Classical Geopolitics
 aliases: []
 type: concept
 tags: [classical-geopolitics, geopolitics, territorial-power, nation-state, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge Transfer]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge Transfer]]", "[[Internationalization of Higher Education]]"]
 related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
-related_persons: ["[[Sami Moisio]]", "[[Marcelo Parreira do Amaral]]", "[[James Partaken]]"]
+related_persons: ["[[Sami Moisio]]", "[[Marcelo Parreira do Amaral]]", "[[James Partaken]]", "[[Fazal Rizvi]]"]
 related_facts: ["[[Sino-American Trade War (2018)]]"]
 related_methods: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "[[Ch5_Partaken_2022]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "[[Ch5_Partaken_2022]]", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
 confidence: medium
 status: draft
 created: 2026-05-07
@@ -44,7 +44,9 @@ updated: 2026-05-10
 >
 > Moisio（2022）论证，尽管关系性地缘政治视角已在学术界发展，古典地缘政治的某些维度并未消失——在当代，这体现在强大国家（特别是[[Sino-American Trade War (2018)|中美之间]]）将大型科技公司视为代表国家利益的实体，"试图将世界划分为技术影响的势力范围"（Moisio, 2022, p.26）。
 >
-> Parreira do Amaral (2022) 进一步补充了古典地缘政治概念的历史演变细节：地缘政治（Geopolitics）这一术语因与殖民和帝国意识形态的关联而具有"漫长且有争议的历史"（Parreira do Amaral, 2022, p.36）。古典地缘政治的正统观点曾为纳粹德国的侵略性扩张主义提供正当性，直接关联第二次世界大战的巨大灾难，导致该术语在战后几乎从政治词汇中消失——直至被美国政策顾问重新普及，特别是 Samuel P. Huntington 的争议性著作 *Clash of Civilizations* (1996)（Parreira do Amaral, 2022, pp.36–37）。
+> Rizvi (2022) 将古典地缘政治作为其分析高等教育地缘政治动态的对照基线，援引 Dalby (2013) 对现实主义地缘政治的界定：民族国家是主要行动者、国际关系处于无政府状态、自利驱动权力行使。Rizvi 的论点是：这一现实主义理解不足以解释当代高等教育中的地缘政治动态——它忽视了新兴的跨国社会想象、网络化关系和全球高等教育市场中意识形态与文化的多重维度（Rizvi, 2022, pp.90–91）。
+
+Parreira do Amaral (2022) 进一步补充了古典地缘政治概念的历史演变细节：地缘政治（Geopolitics）这一术语因与殖民和帝国意识形态的关联而具有"漫长且有争议的历史"（Parreira do Amaral, 2022, p.36）。古典地缘政治的正统观点曾为纳粹德国的侵略性扩张主义提供正当性，直接关联第二次世界大战的巨大灾难，导致该术语在战后几乎从政治词汇中消失——直至被美国政策顾问重新普及，特别是 Samuel P. Huntington 的争议性著作 *Clash of Civilizations* (1996)（Parreira do Amaral, 2022, pp.36–37）。
 >
 > 在当代政策话语和公共舆论中，虽然地缘政治被表述为更少关注领土竞争——似乎这些关切属于全球化和新自由主义政治之前的时代——但古典领土权力逻辑仍在多个场域积极运作："在俄罗斯吞并克里米亚后，政治家和媒体将此解读为属于二十世纪的老式地缘政治战略行为"（Moisio, 2018, cited in Parreira do Amaral, 2022, p.37）。同时，英国脱欧和中美贸易战也被视为当代地缘政治权力博弈的例证（Parreira do Amaral, 2022, pp.37–38）。
 >

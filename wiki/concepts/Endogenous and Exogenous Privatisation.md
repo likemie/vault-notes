@@ -2,14 +2,14 @@
 title: Endogenous and Exogenous Privatisation
 type: concept
 tags: [privatisation, education-policy, subject/curriculum, region/global]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance in Education]]", "[[Policy Entrepreneur]]", "[[Venture Philanthropy]]"]
+related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance in Education]]", "[[Policy Entrepreneur]]", "[[Venture Philanthropy]]", "[[Internationalization of Higher Education]]", "[[New Public Management in Education]]"]
 related_theories: []
 related_persons: ["[[Stephen Ball]]"]
-sources: ["sources/ONeill_2016_Report.md"]
+sources: ["sources/ONeill_2016_Report.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-05-05
+updated: 2026-05-10
 ---
 
 ## 定义
@@ -51,5 +51,10 @@ O'Neill 等（2016, pp.8–12）记录的九项新西兰近十余年的现代化
 
 这一概念框架揭示了：私有化不仅仅是"更多私营部门进入教育"的线性叙事，而是在两个维度上同时推进——既改变学校内部的运作逻辑（市场化、绩效化），也改变学校外部的服务交付结构（合同化、外包化）。两者相互强化：外生私有化创造了对内生私有化技术（如绩效测量、效应量评估）的需求，而内生私有化技术又使外生私有化合同的管理和监控成为可能。
 
+## 在高等教育国际化中的表现
+
+Rizvi (2022) 将这一概念框架应用于高等教育国际化分析。在澳大利亚，大学在招收全额付费国际学生方面取得的成功使政府有底气推动其他市场导向政策："内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"（Rizvi, 2022, pp.97–98）。国际学生学费成为主要收入来源后，政府不再感到有必要为高等教育机构提供所需公共资金——这形成了国际化驱动内生私有化的因果链条：国际学生市场收入 → 政府削减公共拨款 → 大学被迫采纳企业化运营模式（NPM、商业实践、市场定位）（Rizvi, 2022, pp.97–98）。
+
 ## 来源
 - [[ONeill_2016_Report]]
+- [[Ch6_Rizvi_2022]]

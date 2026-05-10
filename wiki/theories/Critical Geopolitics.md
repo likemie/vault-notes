@@ -3,17 +3,17 @@ title: Critical Geopolitics
 aliases: []
 type: theory
 tags: [critical-geopolitics, geopolitics-of-knowledge, knowledge-based-economization, spatial-turn, political-geography, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge-Based Economization]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[International Education Hubs]]", "[[Minerva University]]", "[[Global Education Industry (GEI)]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge-Based Economization]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[International Education Hubs]]", "[[Minerva University]]", "[[Global Education Industry (GEI)]]", "[[Internationalization of Higher Education]]"]
 related_theories: ["[[Fixity-Motion Tension]]", "[[Decolonial Geopolitics of Knowledge]]"]
-related_persons: ["[[Sami Moisio]]", "[[Michael Porter]]", "[[Bob Jessop]]", "[[David Harvey]]"]
+related_persons: ["[[Sami Moisio]]", "[[Michael Porter]]", "[[Bob Jessop]]", "[[David Harvey]]", "[[Fazal Rizvi]]"]
 related_methods: []
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
 confidence: low
 status: draft
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-10
 ---
 
 ## 定位
@@ -40,6 +40,7 @@ updated: 2026-05-07
 - **[[Spatial Sortings|空间分选]]**：知识经济化将某些地点和人群置于发展中心，同时边缘化其他地点和人群，国家通过空间选择性政策中介这一过程（Moisio, 2022, pp.28–31）。详见 [[Spatial Sortings]]
 - **[[Geopolitical Subject|地缘政治主体]]的生产**：高等教育空间被用于塑造知识密集型资本主义所需的主体性——创新性、创业性、连接性（Moisio, 2022, pp.29–30）。详见 [[Geopolitical Subject]]
 - **全球化强化国家角色**：Porter 的悖论——"竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"——揭示了国家在知识经济化中作为空间分选中介和[[Economic Patriotism|经济爱国主义]]推力的关键角色（Moisio, 2022, pp.27–29）
+- **地缘政治的意识形态建构性**：Rizvi (2022) 进一步援引 Sharp (2009) 与 Dodds (2019)，强调批判地缘政治学的核心洞见——地缘政治关系不是自然给定的而是意识形态建构的、浸透了社会和文化意义。Dodds (2019, p.36) 将批判地缘政治学的关注点定位为"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"，这一视角对于分析亚洲中产阶级的教育消费选择和国际学生的流动决策尤为关键（Rizvi, 2022, p.91）
 
 ---
 
@@ -83,3 +84,4 @@ Parreira do Amaral（2022）将批判地缘政治学与[[Decolonial Geopolitics 
 
 - [[Ch2_Moisio_2022]]
 - [[Ch3_Parreira do Amaral_2022]]
+- [[Ch6_Rizvi_2022]]
