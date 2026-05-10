@@ -4,7 +4,7 @@ aliases: []
 type: concept
 tags: [international-education-hubs, higher-education, cross-border-education, geopolitical-projects, region/global, level/higher-ed]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Regionalisms in Higher Education]]", "[[Global Education Industry (GEI)]]", "[[Hub and Flow Imaginaries]]", "[[Minerva University]]", "[[Regional University Alliances]]", "[[Internationalization of Higher Education]]", "[[Knowledge-Based Economy]]"]
-related_theories: ["[[Critical Geopolitics]]"]
+related_theories: ["[[Critical Geopolitics]]", "[[Network Society]]"]
 related_persons: ["[[Jane Knight]]", "[[Marcelo Parreira do Amaral]]", "[[Fazal Rizvi]]"]
 related_methods: []
 related_facts: []
@@ -13,7 +13,7 @@ sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_20
 confidence: low
 status: draft
 created: 2026-05-07
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 ## 定义

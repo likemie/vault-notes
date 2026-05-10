@@ -3,8 +3,8 @@ title: Knowledge-Based Economy
 aliases: []
 type: concept
 tags: [knowledge-based-economy, knowledge-economy, post-industrialism, endogenous-growth, region/global, level/higher-ed]
-related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Internationalization of Higher Education]]", "[[International Education Hubs]]", "[[New Public Management in Education]]"]
-related_theories: ["[[Fixity-Motion Tension]]"]
+related_concepts: ["[[Knowledge-Based Economization]]", "[[Knowledge Capitalism]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Internationalization of Higher Education]]", "[[International Education Hubs]]", "[[New Public Management in Education]]"]
+related_theories: ["[[Fixity-Motion Tension]]", "[[Network Society]]"]
 related_persons: ["[[Sami Moisio]]", "[[Fazal Rizvi]]"]
 related_methods: []
 related_facts: ["[[Australia in the Asian Century White Paper 2012]]"]
@@ -13,7 +13,7 @@ sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "boo
 confidence: medium
 status: draft
 created: 2026-05-07
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 ## 定义

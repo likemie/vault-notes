@@ -4,7 +4,7 @@ aliases: []
 type: concept
 tags: [hub-and-flow, geopolitical-imaginaries, knowledge-based-economization, spatial-imaginaries, region/global]
 related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Geopolitical Subject]]", "[[Spatial Sortings]]", "[[Knowledge-Based Economy]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[International Education Hubs]]", "[[Minerva University]]"]
-related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
+related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]", "[[Network Society]]"]
 related_persons: ["[[Sami Moisio]]", "[[Michael Porter]]", "[[Bob Jessop]]"]
 related_methods: []
 related_facts: []
@@ -13,7 +13,7 @@ sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "boo
 confidence: low
 status: draft
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-11
 ---
 
 ## 定义

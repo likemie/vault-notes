@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md",
+                "file": "wiki/persons/Fazal Rizvi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch2_Moisio_2022"
+              "title": "Fazal Rizvi"
             }
           }
         ]
@@ -189,12 +189,20 @@
   },
   "active": "1c9b1d9f1feb84d0",
   "lastOpenFiles": [
+    "wiki/concepts/Internationalization of Higher Education.md",
+    "wiki/persons/Fazal Rizvi.md",
+    "wiki/arguments/Argument_Rizvi_2022_Springer.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md",
+    "wiki/concepts/Geopolitics of Knowledge.md",
+    "raw/Parreira do Amaral(Ed.)_2022_Springer.pdf",
+    "raw/978-3-030-94415-5_7 (1).pdf",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md",
+    "wiki/concepts/Geopolitical Subject.md",
     "wiki/arguments/Argument_Biesta_2010_SPE.md",
     "templater/template-fact-event.md",
     "Clippings/Hattie-Studie.md",
     "Clippings/Pierre Bourdieu.md",
     "wiki/theories/Network Society.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md",
     "wiki/concepts/Mondialisation.md",
     "wiki/facts/us/WWC SCD Pilot Standards 2010.md",
     "wiki/facts/us/A Nation at Risk 1983.md",
@@ -204,21 +212,14 @@
     "wiki/concepts/Material Fallacies.md",
     "wiki/concepts/Performance Pay.md",
     "wiki/concepts/Whole Language.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.pdf",
     "wiki/facts/us/US-China Economic and Security Review Commission (2000).md",
     "wiki/facts/multi/Sino-American Trade War (2018).md",
     "wiki/concepts/Economic and Industrial Espionage.md",
     "wiki/concepts/Orientalism.md",
-    "wiki/arguments/Argument_Rizvi_2022_Springer.md",
     "wiki/concepts/New Public Management in Education.md",
-    "wiki/concepts/Endogenous and Exogenous Privatisation.md",
-    "wiki/concepts/Knowledge Capitalism.md",
-    "wiki/concepts/Classical Geopolitics.md",
-    "wiki/theories/Critical Geopolitics.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.pdf",
     "_update_frontmatter.py",
-    "raw/Parreira do Amaral(Ed.)_2022_Springer.pdf",
     "raw/978-3-030-94415-5_6.pdf",
     "wiki/facts/japan",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.pdf",
@@ -233,7 +234,6 @@
     "books/郑_2023_上海三联书店/学校案例.jpeg",
     "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer.pdf",
-    "raw/978-3-030-94415-5.pdf",
     "books/郑_2023_上海三联书店/附录一个案描述1.jpeg"
   ]
 }

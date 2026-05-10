@@ -3,17 +3,17 @@ title: Geopolitics of Knowledge
 aliases: []
 type: concept
 tags: [geopolitics-of-knowledge, higher-education, knowledge-based-economy, region/global, level/higher-ed]
-related_concepts: ["[[Knowledge-Based Economy]]", "[[Knowledge-Based Economization]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Global Regionalisms in Higher Education]]", "[[Regulatory Regionalism]]", "[[Global Education Industry (GEI)]]", "[[International Education Hubs]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[Minerva University]]", "[[Horizon 2020 SSH Integration]]", "[[Horizon Europe Missions]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]", "[[Forced Knowledge Transfer]]", "[[Knowledge Sabotage]]", "[[Narrative Knowledge]]", "[[Economic and Industrial Espionage]]", "[[Internationalization of Higher Education]]", "[[Transnational Research Collaboration in Higher Education]]"]
-related_theories: ["[[World Culture Theory]]", "[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]", "[[Decolonial Geopolitics of Knowledge]]"]
+related_concepts: ["[[Knowledge-Based Economy]]", "[[Knowledge-Based Economization]]", "[[Knowledge Capitalism]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Global Regionalisms in Higher Education]]", "[[Regulatory Regionalism]]", "[[Global Education Industry (GEI)]]", "[[International Education Hubs]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[Minerva University]]", "[[Horizon 2020 SSH Integration]]", "[[Horizon Europe Missions]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]", "[[Forced Knowledge Transfer]]", "[[Knowledge Sabotage]]", "[[Narrative Knowledge]]", "[[Economic and Industrial Espionage]]", "[[Internationalization of Higher Education]]", "[[Transnational Research Collaboration in Higher Education]]", "[[Orientalism]]"]
+related_theories: ["[[World Culture Theory]]", "[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]", "[[Decolonial Geopolitics of Knowledge]]", "[[Network Society]]"]
 related_facts: ["[[Sino-American Trade War (2018)]]", "[[Great Firewall of China]]", "[[China Social Credit System]]", "[[US-China Economic and Security Review Commission (2000)]]", "[[Thousand Talents Program]]", "[[Kokutai no Hongi (1937)]]"]
-related_persons: ["[[Marcelo Parreira do Amaral]]", "[[Christiane Thompson]]", "[[Sami Moisio]]", "[[Walter Mignolo]]", "[[James Partaken]]", "[[Jean-François Lyotard]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]", "[[Fazal Rizvi]]"]
+related_persons: ["[[Marcelo Parreira do Amaral]]", "[[Christiane Thompson]]", "[[Sami Moisio]]", "[[Walter Mignolo]]", "[[James Partaken]]", "[[Jean-François Lyotard]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]", "[[Fazal Rizvi]]", "[[Edward Said]]", "[[Manuel Castells]]"]
 related_methods: []
 related_arguments: ["[[Argument_Rizvi_2022_Springer]]"]
 sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
 confidence: medium
 status: draft
 created: 2026-05-07
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 ## 定义

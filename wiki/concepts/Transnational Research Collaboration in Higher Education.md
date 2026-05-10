@@ -3,8 +3,8 @@ title: Transnational Research Collaboration in Higher Education
 aliases: ["跨国研究合作", "transnational research collaboration", "international research collaboration"]
 type: concept
 tags: ["research-collaboration", "higher-education", "internationalization", "geopolitics", "region/global", "level/higher-ed"]
-related_concepts: ["[[Internationalization of Higher Education]]", "[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]"]
-related_theories: ["[[Critical Geopolitics]]"]
+related_concepts: ["[[Internationalization of Higher Education]]", "[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Knowledge Capitalism]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]", "[[Orientalism]]"]
+related_theories: ["[[Critical Geopolitics]]", "[[Network Society]]"]
 related_methods: []
 related_persons: ["[[Fazal Rizvi]]"]
 related_facts: ["[[Australia in the Asian Century White Paper 2012]]"]
@@ -13,7 +13,7 @@ sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 # Transnational Research Collaboration in Higher Education

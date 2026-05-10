@@ -14,6 +14,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Knowledge Capitalism]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Endogenous and Exogenous Privatisation]]"
 related_theories:
@@ -37,7 +38,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 ## 定义

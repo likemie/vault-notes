@@ -35,7 +35,8 @@
 - [[Geopolitics of Knowledge]] — 高等教育被重构为知识地缘政治竞争的核心维度：创新、科学和教育成为个体、企业、国家全球战略定位的关键特征，涉及古典地缘政治向关系性空间构型的理论转变
 - [[Global Regionalisms in Higher Education]] — Robertson et al. (2016) 的概念：高等教育被整合进世界各地区大规模政治经济区域整合项目（EU、ASEAN 等），成为区域地缘政治想象的核心支柱
 - [[International Indicators of Education Systems (INES)]] — 1988 年 OECD 启动的国际教育指标开发项目，EAG 的前身和生产者
-- [[Knowledge-Based Economy]] — 知识经济：知识、创新、高等教育和研发为价值创造与全球竞争核心要素的实际存在经济形态，Sum & Jessop (2013) 定义，Moisio (2022) 追溯其从 List 经 Drucker/Bell/Romer 到 OECD/World Bank 的概念演变
+- [[Knowledge-Based Economy]] — 知识经济：知识、创新、高等教育和研发为价值创造与全球竞争核心要素的实际存在经济形态
+- [[Knowledge Capitalism]] — 知识资本主义：知识作为首要资本积累形式的全球经济秩序，Peters (2013) 系统阐述，Rizvi (2022) 将其定位为解释 HE 全球转型的既有框架之一，Sum & Jessop (2013) 定义，Moisio (2022) 追溯其从 List 经 Drucker/Bell/Romer 到 OECD/World Bank 的概念演变
 - [[Knowledge-Based Economization]] — Moisio (2018) 的概念：关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践被话语建构的过程
 - [[Policy Borrowing]] — 政策借用：国内政治考量驱动选择性参照外部教育论述来合法化议程，Steiner-Khamsi 系统框架，Phillips & Ochs 四阶段模型，Rappleye 情境概念地图，Cowen 形态变异，核心机制为外化、合法化、问题建构与选择性变异
 - [[Knowledge Transfer]] — Partaken 核心概念：知识一旦被生产即进入挪用、传授、窃取、审查、破坏等动态过程，主张 GPK 的核心是知识转移而非知识生产，六模态框架
@@ -58,6 +59,7 @@
 - [[Geopolitical Subject]] — Moisio (2022) 的概念：从政治权力角度被装备上特定技能、行为、取向和空间心态的人形集合，在高等教育空间中被形塑以服务于全球竞争
 - [[Hub and Flow Imaginaries]] — Moisio (2022) 的概念：知识经济化中的核心空间想象类型，将世界划分为枢纽中心与边缘区域，集群、创意城市、创业城市等为其空间表述
 - [[Mondialisation]] — Weil/Supiot (2019) 基于 Decroly (1929) 恢复的替代全球化概念：以"星球的普世性"和对生命多元形式的尊重为核心，与 market-driven 的 globalisation 形成对抗，与 Escobar 的 pluriverse 并置
+- [[Orientalism]] — Said (1983) 的概念：殖民者通过知识生产建构对被殖民者的"东方化"想象，Rizvi (2022) 将其应用于分析当代 HE 国际化中西方教育优越性的隐性再生产
 - [[Spatial Sortings]] — Moisio (2022) 的概念：知识密集型资本主义系统性地将地点和人口划分为"赢家"与"输家"的过程，由公共和私人投资驱动、国家中介
 - [[Transitology]] — Cowen (1996, 2000) 的比较教育概念：国家机器、社会分层体系和政治愿景的同时性崩溃与重建，教育在其中被赋予象征性和重构性角色，Amos (2022) 用于分析晚期现代教育的市场中心转向
 
@@ -244,6 +246,7 @@
 - [[Refraction Framework]] — Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成
 - [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，Laursen (2015) 用其检验以英语国家研究为主的有效教学综合是否适用于丹麦
 - [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，Larsen (2019) 以盲点和结构耦合概念批判 VL
+- [[Network Society]] — Castells (1996) 的理论：社会组织从稳定等级制转向流动网络形式，Benkler (2006) 延伸论证跨国网络为知识创造新源泉，Rizvi (2022) 用于分析跨国研究合作的网络化转型
 - [[Rational Action Theory in Education]] — Breen & Goldthorpe (1997) 的教育分层理论：以相对风险规避机制解释阶层间教育选择的系统性差异，揭示家庭背景的次属效应，郑雅君 (2023) 作为"价值选择过程"的理论对话方
 - [[World Culture Theory]] — 全球学校模式趋同假设：西方现代民族国家模型向全球扩散，导致课程和学校标准化，但 LS 案例揭示其解释力局限
 
@@ -495,6 +498,7 @@
 
 - [[John Biggs]] — 澳大利亚教育心理学家，建构性对齐（Constructive Alignment）和 SOLO 分类法创始人，属于 1990 年代激进建构主义运动
 - [[Scott Eacott]] — UNSW Sydney 教育行政学者，将 Bourdieu 社会理论和认识论引入教育领导力研究，提出 Cult of the Guru、Parallel Monologues、Neo-Taylorism 批评和关系取向组织理论
+- [[Fazal Rizvi]] — 高等教育国际化与全球化研究学者，以批判地缘政治学视角分析亚洲崛起对全球 HE 架构的重塑，提出国际化理性的发展主义 vs 市场理性二元结构
 
 ### Brazil
 

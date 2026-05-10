@@ -3,8 +3,8 @@ title: Internationalization of Higher Education
 aliases: ["高等教育国际化", "internationalisation of higher education", "international education"]
 type: concept
 tags: ["internationalization", "higher-education", "geopolitics", "region/global", "level/higher-ed"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Transnational Research Collaboration in Higher Education]]", "[[International Education Hubs]]", "[[Knowledge-Based Economy]]", "[[Endogenous and Exogenous Privatisation]]", "[[New Public Management in Education]]"]
-related_theories: ["[[Critical Geopolitics]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Transnational Research Collaboration in Higher Education]]", "[[International Education Hubs]]", "[[Knowledge-Based Economy]]", "[[Endogenous and Exogenous Privatisation]]", "[[New Public Management in Education]]", "[[Knowledge Capitalism]]", "[[Orientalism]]"]
+related_theories: ["[[Critical Geopolitics]]", "[[Network Society]]"]
 related_methods: []
 related_persons: ["[[Fazal Rizvi]]"]
 related_facts: ["[[GATS and Trade in Education Services]]", "[[Australia in the Asian Century White Paper 2012]]"]
@@ -13,7 +13,7 @@ sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 # Internationalization of Higher Education
