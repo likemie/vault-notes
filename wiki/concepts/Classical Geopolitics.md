@@ -1,15 +1,37 @@
 ---
 title: Classical Geopolitics
-aliases: []
+aliases:
+  - 古典地缘政治
 type: concept
-tags: [classical-geopolitics, geopolitics, territorial-power, nation-state, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge Transfer]]", "[[Internationalization of Higher Education]]"]
-related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
-related_persons: ["[[Sami Moisio]]", "[[Marcelo Parreira do Amaral]]", "[[James Partaken]]", "[[Fazal Rizvi]]"]
-related_facts: ["[[Sino-American Trade War (2018)]]"]
+tags:
+  - classical-geopolitics
+  - geopolitics
+  - territorial-power
+  - nation-state
+  - region/global
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Internationalization of Higher Education]]"
+related_theories:
+  - "[[Fixity-Motion Tension]]"
+  - "[[Critical Geopolitics]]"
+related_persons:
+  - "[[Sami Moisio]]"
+  - "[[Marcelo Parreira do Amaral]]"
+  - "[[James Partaken]]"
+  - "[[Fazal Rizvi]]"
+related_facts:
+  - "[[Sino-American Trade War (2018)]]"
 related_methods: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "[[Ch5_Partaken_2022]]", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
+sources:
+  - books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md
+  - books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md
+  - "[[Ch5_Partaken_2022]]"
+  - books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md
 confidence: medium
 status: draft
 created: 2026-05-07
