@@ -13,4 +13,5 @@ processed_date: 2026-05-10
 - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral: 提出新知识地缘政治概念，以批判地缘政治学和后殖民去殖民两条脉络综合为框架，分析全球区域主义和 GEI 两大转型语境，展示 IEHs 和 Minerva 作为地缘政治案例
 - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos: 以 Cowen 的 transitology 和双轴模型为框架，对比超人类主义（技术优化）与后人类主义（关系性与世界制造）两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新型公共教育理论
 - [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken: 区分 GPK 两面（知识生产 vs 知识转移），提出知识转移六模态（强制转移、间谍、监视、审查、破坏、交换），以中美紧张关系为核心案例论证知识转移为 GPK 的真正核心
-- [[Argument_Rizvi_2022_Springer]] — Ch6 Fazal Rizvi: 以批判地缘政治为分析透镜，论证亚洲的经济和政治崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构，以 COVID-19 为中美观紧张为当代转折点
+- [[Argument_Rizvi_2022_Springer]] — Ch6 Fazal Rizvi: 以批判地缘政治为分析透镜，论证亚洲的经济和政治崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构，以 COVID-19 和中美关系紧张为当代转折点
+- [[Argument_Delambre_2022_Springer]] — Ch7 Dell Delambre: 提出 Creative Tension of Sense 认识论和 Ganz-Methode 方法论，主张承载而非消解新旧之间的意义张力，以里约热内卢基层实践为案例，为知识地缘政治讨论提供来自拉丁美洲的认识论贡献

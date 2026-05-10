@@ -87,6 +87,7 @@
 - [[SF (Haraway)]] — Haraway 的核心方法论缩写：同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今），Amos (2022) 将其定位为通过讲故事实践进行"世界制造"的后人类主义方法
 - [[Sympoiesis]] — Haraway 的核心概念："与他人一起制造"（making with），与 autopoiesis（自我制造）形成对照，强调跨物种的相互依存和伦理回应（response-ability），是后人类主义教育的核心伦理表达
 - [[Cargo Cult Science]] — Feynman (1974) 概念：看起来像科学但缺乏认识论诚信的伪科学实践，应用于 VL 批判
+- [[Ganz-Methode]] — Dell Delambre 基于 Creative Tension of Sense 理论开发的实践方法论（Whole Approach），两步法承载而非消解意义张力，以里约热内卢多案例实践为基础
 - [[Critic and Conscience of Society]] — Gerald Grace 1988 年提出、后写入新西兰大学立法的概念：大学在民主社会中有独立的权力制衡角色，须基于系统公正分析"向权力说真话"，区别于仅关注学科内部的正常学术批评
 - [[Transhumanism]] — Huxley (1957) 提出、Amos (2022) 在教育语境中分析的超人类主义：以技术手段超越人类生物局限追求无限优化和增强的意识形态，是高度现代性的激进延续，与市场驱动教育模型高度兼容
 - [[Structural Coupling]] — Luhmann (1997) 系统理论概念：两个封闭、自我指涉系统之间的非因果链接，Qvortrup 用于描述教学与学习之间的关系 — Eacott 以 Callahan (1962) 为框架提出的概念，描述教育领导力领域对单一权威人物的不加批判的接受，以 Hattie 崇拜为典型案例分析其形成的三个时间条件
@@ -230,6 +231,8 @@
 ### Other
 
 - [[Vergegenkunft]] — Günther Grass 自创的文学原则：Vergangenheit/Gegenwart/Zukunft（过去/现在/未来）的合成词，表达时间的非线性纠缠，Amos (2022) 以此说明教育转型中过去-现在-未来的交织
+- [[Life Power]] — Dell Delambre 的概念（Lebenskraft）：在新旧张力中为存在赋予意义的实践性再定位能力，通过 Ganz-Methode 的第二步被识别和发现
+- [[Tense Society]] — Dell Delambre 对当代社会的诊断：所有领域的"新"与"旧"意义张力呈指数级加速且高度互联，"正常"就是张力，呼吁将张力教育作为全球地缘政治项目
 
 —
 
@@ -283,6 +286,7 @@
 - [[Ubuntu]] — 非洲关系性伦理哲学："一个人之所以为人，是因为其他人"（I am because we are），Amos (2022) 将其与后人类主义并置为非西方的关系性本体论资源
 - [[Science and Technology Studies (STS)]] — 跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念
 - [[Transition Design]] — Escobar (2018) 基于 Irwin (2015) 的社会变革框架：转型不是被设计的而是涌现的，以生命系统理论（autopoiesis）为本体论基础，以日常生活为设计情境，十条原则倡导基于地方的全球化联网和草根方案放大
+- [[Creative Tension of Sense]] — Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话
 
 ### Psychology & Cognitive Development
 
@@ -505,6 +509,10 @@
 #### Contemporary (1900–2000)
 
 - [[Paulo Freire]] — 巴西教育家，批判教育学奠基人，《被压迫者教育学》(1972) 作者，提出"银行概念"揭示教学中不可化约的权力梯度，Partaken 将其应用于 GPK 强制知识转移分析
+
+#### Current (2000–present)
+
+- [[Dell Delambre]] — 巴西认识论学者和实践者，提出 Creative Tension of Sense 理论和 Ganz-Methode 方法论，以里约热内卢贫民窟剧场和社区博物馆等基层实践为基础，为知识地缘政治讨论提供拉丁美洲视角
 
 ### Canada
 
@@ -799,6 +807,7 @@
 - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos: 以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
 - [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken: 区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性
 - [[Argument_Rizvi_2022_Springer]] — Ch6 Fazal Rizvi: 以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构
+- [[Argument_Delambre_2022_Springer]] — Ch7 Dell Delambre: 提出 Creative Tension of Sense 认识论和 Ganz-Methode，主张承载新旧之间的意义张力，以巴西里约热内卢基层实践为案例
 - 📖 [[Argument_郑_2023_上海三联书店]] — 郑雅君：以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化
 
 ### Reports & Policy Documents
