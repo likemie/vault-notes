@@ -19,16 +19,18 @@ updated: 2026-05-11
 
 ## 简介
 
-Dell Delambre 是巴西学者和实践者，任职于 WTS Sustainable Business & Coaching（位于里约热内卢）。其工作跨越商业教练、可持续发展、社区发展和认识论研究，提出 [[Creative Tension of Sense]] 理论和 [[Ganz-Methode]] 方法论。他的研究根植于巴西里约热内卢的基层实践——包括贫民窟（favela）社区剧场、社会博物馆学（social museology）和 ecomuseology——试图在西方现代性认识论霸权之外构建替代性知识范式（Delambre, 2022, p.105, 107, 109–110）。
-
-其思想对话对象涵盖 [[Walter Mignolo]]（去殖民知识地缘政治）、Enrique Dussel（超现代性）、Boaventura de Sousa Santos（南方认识论）、Enrique Leff（环境理性）和 Aníbal Quijano（殖民性权力）等拉丁美洲批判思想家。他将这些高度抽象的去殖民理论转化为具体的社区实践方法，是少数试图在"批判"和"建构"之间架桥的当代认识论学者之一。
+> [!info]
+> Dell Delambre 是巴西学者和实践者，任职于 WTS Sustainable Business & Coaching（位于里约热内卢）。其工作跨越商业教练、可持续发展、社区发展和认识论研究，提出 [[Creative Tension of Sense]] 理论和 [[Ganz-Methode]] 方法论。他的研究根植于巴西里约热内卢的基层实践——包括贫民窟（favela）社区剧场、社会博物馆学（social museology）和 ecomuseology——试图在西方现代性认识论霸权之外构建替代性知识范式（Delambre, 2022, p.105, 107, 109–110）。
+>
+> 其思想对话对象涵盖 [[Walter Mignolo]]（去殖民知识地缘政治）、Enrique Dussel（超现代性）、Boaventura de Sousa Santos（南方认识论）、Enrique Leff（环境理性）和 Aníbal Quijano（殖民性权力）等拉丁美洲批判思想家。他将这些高度抽象的去殖民理论转化为具体的社区实践方法，是少数试图在"批判"和"建构"之间架桥的当代认识论学者之一。
 
 ## 生平与职涯
 
-- 在巴西里约热内卢工作和生活，任职于 WTS Sustainable Business & Coaching（Delambre, 2022, p.105）
-- 2013–2020 年在里约热内卢开展多案例实践研究，涵盖个体发展、地方发展（通过 ecomuseums 和剧场）、商业发展、学校发展、制度发展和可持续发展（Delambre, 2022, p.107）
-- 与巴西著名女演员和剧场导演 Camilla de Hollanda Amado（1941–2021）共同创立"Bora Bora em Bando"项目。Amado 的梦想是看到贫民窟知识被用于国家发展，该项目旨在帮助 Rocinha 贫民窟的"Bando Cultural Favelados da Rocinha"剧场团体获得社会可见度和认可。Amado 于 2021 年 6 月 6 日去世，享年 82 岁（Delambre, 2022, p.110）
-- 开发 WTS Coaching 项目——将 Creative Tension of Sense 理论和 Ganz-Methode 操作化为教练实践（Delambre, 2022, p.107）
+> [!note]
+> - 在巴西里约热内卢工作和生活，任职于 WTS Sustainable Business & Coaching（Delambre, 2022, p.105）
+> - 2013–2020 年在里约热内卢开展多案例实践研究，涵盖个体发展、地方发展（通过 ecomuseums 和剧场）、商业发展、学校发展、制度发展和可持续发展（Delambre, 2022, p.107）
+> - 与巴西著名女演员和剧场导演 Camilla de Hollanda Amado（1941–2021）共同创立"Bora Bora em Bando"项目。Amado 的梦想是看到贫民窟知识被用于国家发展，该项目旨在帮助 Rocinha 贫民窟的"Bando Cultural Favelados da Rocinha"剧场团体获得社会可见度和认可。Amado 于 2021 年 6 月 6 日去世，享年 82 岁（Delambre, 2022, p.110）
+> - 开发 WTS Coaching 项目——将 Creative Tension of Sense 理论和 Ganz-Methode 操作化为教练实践（Delambre, 2022, p.107）
 
 ## 主要著作与思想发展
 
