@@ -1,6 +1,6 @@
 ---
 title: Ellen Hazelkorn
-aliases: ["Hazelkorn", "埃伦·黑兹尔科恩", "黑兹尔科恩"]
+aliases: ["Hazelkorn", "埃伦·黑兹尔科恩"]
 type: person
 tags: [person, higher-education, rankings, region/ireland, region/global]
 related_concepts: ["[[Global Universities Rankings]]", "[[Geopolitics of Knowledge]]"]

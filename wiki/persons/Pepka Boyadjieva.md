@@ -1,6 +1,6 @@
 ---
 title: Pepka Boyadjieva
-aliases: ["Boyadjieva", "佩普卡·博亚季耶娃", "博亚季耶娃"]
+aliases: ["Boyadjieva", "佩普卡·博亚季耶娃"]
 type: person
 tags: [person, higher-education, rankings, region/bulgaria, capability-approach]
 related_concepts: ["[[Global Universities Rankings]]"]
