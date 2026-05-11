@@ -137,6 +137,7 @@
 - [[International Education Hubs]] — Knight 的概念：国家将自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目，三种模型（学生／人才／知识创新枢纽）
 - [[Internationalization of Higher Education]] — Rizvi 的分析焦点：高等教育国际化的理性已从发展主义转向市场逻辑，亚洲崛起和 COVID-19 为关键转折点
 - [[Transnational Research Collaboration in Higher Education]] — Rizvi 的分析焦点：跨国研究合作中个体学术、机构声誉、国家经济和外交四重理性的融合
+- [[University Rankings (Global)]] — 全球大学排名：比较性评估 HEI 的工具系统，已成为驱动高教系统转型和地缘政治竞争的核心力量，因推行一刀切模型、忽视使命多样性和确认有限公共利益理解而受批评
 - [[The Shock of the Elite]] — Reay, Crozier & Clayton (2009) 的概念：弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，郑雅君 (2023) 作为直觉依赖模式激化的关键机制
 - [[Lost Mode]] — 郑雅君 (2023) 的类型：直觉依赖模式+弱价值信念=迷失无从者，在四类中处于最不利地位，被动接受权宜之策
 - [[Opportunist Mode]] — 郑雅君 (2023) 的类型：目标掌控模式+弱价值信念=机会主义者，擅长策略但无深层价值认同，追求工具性利益最大化
@@ -281,6 +282,7 @@
 - [[Cartwright's Three-Stage Knowledge Framework]] — RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用
 - [[Critical Realism]] — Bhaskar 的科学哲学：区分实在/实际/经验三层本体论和开放/封闭系统，Wrigley & McCusker (2019) 用作批判 EBT 方法论的哲学框架
 - [[Autopoiesis]] — Maturana & Varela 的生命系统理论：生命系统通过自我指涉和自我生产持续维持自身，Escobar 延伸至社会转型分析，Amos (2022) 将其与 Haraway 的 sympoiesis 对照用于晚期现代性教育愿景分析
+- [[Capability Approach in Education]] — Drèze & Sen (2002) 的可行能力路径在教育中的应用：区分教育对个人自由的五种价值（内在重要性、工具性个人/社会/过程角色、赋权与分配），Boyadjieva (2022) 以此为基础构建高等教育多维使命模型
 - [[Decolonial Geopolitics of Knowledge]] — Mignolo/Dussel 的去殖民批判：西方认识论通过殖民差异稳定全球权力空间表达，主张社会科学去殖民化而非"开放"，Parreira do Amaral (2022) 将其作为新知识地缘政治的两大分析支柱之一
 - [[Goldman's Discrimination Theory of Knowledge]] — 知识要求区分真实状态与相关替代可能状态的能力，Wiliam (2019) 以此论证教育知识的局部性和临时性
 - [[Phenomenology]] — 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的"现象"概念和教育意义
@@ -332,6 +334,7 @@
 - [[ECNU Declaration on Evidence-Based Research 2017]] — 华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣言，提出 10 条措施推进中国教育实证研究，标志中国证据本位改革的制度化里程碑（Slavin et al., 2021）
 - [[Late Qing Borrowing of Japanese Education]] — 甲午战败后清末以日本为主要参照推进新式教育体系建设
 - [[Recommendation-Based Graduate Admission System]] — 1980s 中期至今的推免研究生制度：以累积学分为依据免试直升，985 院校覆盖率可达 40%+，郑雅君 (2023) 分析其对不同阶层学生的隐性要求差异，改革派与保守派在"借鉴日本教育"上形成阶段性共识并推动大规模借用
+- [[Academic Ranking of World Universities (ARWU)]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
 - [[Great Firewall of China]] — 中国国家互联网审查系统，Partaken (2022) 定位为 GPK 审查模态的核心制度工具
 - [[China Social Credit System]] — 中国利用大数据对公民行为进行永久性评估的治理系统，Partaken (2022) 定位为 GPK 监视模态的当代典范
 - [[Thousand Talents Program]] — 中国海外高层次人才引进计划，被美方视为制度化知识盗窃机制，中美技术紧张焦点
@@ -368,6 +371,7 @@
 #### Other
 
 - [[INES Lugano General Assembly 1991]] — INES 第二届全体大会，科学家-政策制定者权力关系的分水岭：政策制定者强行将学生成绩数据纳入 EAG
+- [[OECD AHELO Project]] — OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败
 - [[ISSPP Project]] — Christopher Day 领导、自 2002 年起 20+ 国参与的国际成功学校校长项目，最全面的跨国学校领导力案例研究，Møller 以亲历者立场提出方法论反思
 - [[OECD Improving School Leadership Project 2006]] — OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
 - [[Horizon Europe Missions]] — EU 2021–2027 年研究与创新框架的核心机制，将研究整合为针对五大社会挑战（癌症、气候、海洋、城市、食物）的使命承诺
@@ -494,6 +498,7 @@
 - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
 - [[What Works Clearinghouse (WWC)]] — 美国教育部 2002 年创建的 evidence clearinghouse，评级项目、政策、实践和研究；Wiliam (2019) 追溯其政治动力，Wadhwa et al. (2024) 记录其在教育清算中心生态中的高度可见度
 - [[WWC SCD Pilot Standards 2010]] — Kratochwill & Hitchcock 为 IES 开发的 WWC 单一个案设计审查试行标准，含 Review Guide 和 5-3-20 规则
+- [[University of Kentucky Top-20 Plan]] — 肯塔基州立法机构指令赠地大学达到 Top-20 排名的战略计划，因 USNWR 评分惩罚招收弱势群体学生而失败，成为排名与使命冲突的经典案例
 - [[US-China Economic and Security Review Commission (2000)]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
 
 —
@@ -519,6 +524,12 @@
 - [[Dell Delambre]] — 巴西认识论学者和实践者，提出 Creative Tension of Sense 理论和 Ganz-Methode 方法论，以里约热内卢贫民窟剧场和社区博物馆等基层实践为基础，为知识地缘政治讨论提供拉丁美洲视角
 - [[Richard Castelo Branco]] — 巴西剧场导演，Rocinha 贫民窟剧场团体"Bando Cultural Favelados da Rocinha"导演，开发抵抗认识论剧场方法 EspectAtor
 - [[Camilla de Hollanda Amado]] — 巴西著名女演员和剧场导演（1941–2021），与 Delambre 共同创立"Bora Bora em Bando"项目为贫民窟剧场争取社会可见度
+
+### Bulgaria
+
+#### Current (2000–present)
+
+- [[Pepka Boyadjieva]] — 保加利亚科学院哲学与社会学研究所，与 Ilieva-Trichkova 共同发展高等教育多维使命模型（个体/社会×工具/内在/转化-赋权 2×3 矩阵），以可行能力路径和制度理论批判全球排名对高教使命的还原
 
 ### Canada
 
@@ -602,6 +613,12 @@
 - [[Hilbert Meyer]] — 德语有效教学综合作者，其十项"好教学"质量与 Hattie、Helmke 一起构成 Laursen 的国际有效教学参照
 - [[Marcelo Parreira do Amaral]] — 明斯特大学比较教育教授，全球教育产业（GEI）和知识地缘政治研究者，与 Thompson 共同主编 *Geopolitical Transformations in Higher Education* (2022)
 - [[Christiane Thompson]] — 法兰克福歌德大学教育科学教授，高等教育主体化与数字化治理技术研究者，与 Parreira do Amaral 共同主编多部 GEI 著作
+
+### Ireland
+
+#### Current (2000–present)
+
+- [[Ellen Hazelkorn]] — 全球大学排名研究领军学者，排名重塑高等教育的系统分析者，提出排名是"高等教育地缘政治的隐喻"（2018），与 Altbach 联合呼吁高校"专注于使命而非排名"
 
 ### Netherlands
 
@@ -814,6 +831,7 @@
 - [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken: 区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性
 - [[Argument_Rizvi_2022_Springer]] — Ch6 Fazal Rizvi: 以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构
 - [[Argument_Delambre_2022_Springer]] — Ch7 Dell Delambre: 提出 Creative Tension of Sense 认识论和 Ganz-Methode，主张承载新旧之间的意义张力，以巴西里约热内卢基层实践为案例
+- [[Argument_Boyadjieva_2022_Springer]] — Ch8 Pepka Boyadjieva: 以可行能力路径和制度理论构建 HE 多维使命模型（2×3 矩阵），批判全球排名推行一刀切大学模型、忽视使命多样性
 - 📖 [[Argument_郑_2023_上海三联书店]] — 郑雅君：以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化
 
 ### Reports & Policy Documents

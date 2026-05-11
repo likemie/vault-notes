@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "84801c427dc83815",
+        "id": "3a593863fa53013c",
         "type": "tabs",
         "children": [
           {
-            "id": "1c9b1d9f1feb84d0",
+            "id": "7e2fcbcd227ff4e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/persons/Richard Castelo Branco.md",
+                "file": "information/Journal of Comparative and International Education_20260503_1825.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Richard Castelo Branco"
+              "title": "Journal of Comparative and International Education_20260503_1825"
             }
           }
         ]
@@ -187,8 +187,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1c9b1d9f1feb84d0",
+  "active": "7e2fcbcd227ff4e2",
   "lastOpenFiles": [
+    "information/Journal of Comparative and International Education_20260504_2301.md",
+    "information/Journal of Comparative and International Education_20260502_2300.md",
+    "information/合并文献_20260506_0210.md",
+    "information/Journal of Comparative and International Education_20260502_2303.md",
+    "information/Journal of Comparative and International Education_20260503_1825.md",
+    "information/Journal of Curriculum Studies_20260425_2238.md",
+    "wiki/persons/Richard Castelo Branco.md",
+    "wiki/facts/us/University of Kentucky Top-20 Plan.md",
+    "wiki/arguments/Argument_Boyadjieva_2022_Springer.md",
+    "wiki/facts/global/OECD AHELO Project.md",
+    "wiki/facts/china/Academic Ranking of World Universities (ARWU).md",
     "wiki/persons/Ellen Hazelkorn.md",
     "wiki/persons/Pepka Boyadjieva.md",
     "wiki/theories/Capability Approach in Education.md",
@@ -201,26 +212,15 @@
     "wiki/persons/Dell Delambre.md",
     "wiki/persons/Walter Mignolo.md",
     "wiki/concepts/Life Power.md",
-    "wiki/persons/Richard Castelo Branco.md",
     "wiki/concepts/Whole Sustainability.md",
     "wiki/concepts/Ecomuseology.md",
     "wiki/arguments/Argument_Delambre_2022_Springer.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch7_Delambre_2022.md",
-    "wiki/concepts/Epistemology of Resistance.md",
-    "wiki/concepts/Ganz-Methode.md",
-    "wiki/theories/Creative Tension of Sense.md",
-    "wiki/concepts/Geopolitics of Knowledge.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch7_Delambre_2022.pdf",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md",
     "raw/Parreira do Amaral(Ed.)_2022_Springer_第8章.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer.pdf",
     "raw/978-3-030-94415-5_8.pdf",
-    "wiki/concepts/Tense Society.md",
-    "wiki/arguments/Argument_Parreira do Amaral_2022_Springer.md",
-    "sources/Parreira do Amaral(Ed.)_2022_Springer.md",
-    "wiki/arguments/Argument_Rizvi_2022_Springer.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch1_Thompson_Parreira do Amaral_2022.pdf",
-    "wiki/concepts/Orientalism.md",
     "raw/Parreira do Amaral(Ed.)_2022_Springer.pdf",
     "raw/978-3-030-94415-5_7 (1).pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.pdf",
