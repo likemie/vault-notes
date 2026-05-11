@@ -1,6 +1,6 @@
 ---
 title: Richard Castelo Branco
-aliases: ["Castelo Branco", "Richard Castelo Branco", "Branco"]
+aliases: ["Castelo Branco", "Richard Castelo Branco"]
 type: person
 tags: ["region/brazil", "field/theater", "field/community-arts", "theme/resistance"]
 related_concepts: ["[[Epistemology of Resistance]]", "[[Ganz-Methode]]", "[[Life Power]]"]

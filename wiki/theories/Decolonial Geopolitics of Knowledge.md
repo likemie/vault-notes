@@ -3,7 +3,7 @@ title: Decolonial Geopolitics of Knowledge
 aliases: ["去殖民知识地缘政治", "decolonial geopolitics of knowledge"]
 type: theory
 tags: [decolonial-theory, geopolitics-of-knowledge, coloniality, epistemology, postcolonial-studies, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Orientalism]]", "[[Horizon 2020 SSH Integration]]", "[[Global Education Industry (GEI)]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]", "[[Forced Knowledge Transfer]]", "[[Social Museology]]", "[[Epistemology of Resistance]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Orientalism]]", "[[Horizon 2020 SSH Integration]]", "[[Global Education Industry (GEI)]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]", "[[Forced Knowledge Transfer]]", "[[Social Museology]]", "[[Epistemology of Resistance]]", "[[Ecomuseology]]", "[[Whole Sustainability]]"]
 related_theories: ["[[Critical Geopolitics]]", "[[Creative Tension of Sense]]"]
 related_persons: ["[[Walter Mignolo]]", "[[Dell Delambre]]", "[[Arturo Escobar]]", "[[Enrique Dussel]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]", "[[James Partaken]]"]
 related_methods: []

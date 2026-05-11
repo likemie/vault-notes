@@ -3,10 +3,10 @@ title: Epistemology of Resistance
 aliases: ["抵抗认识论", "resistive epistemology", "epistemology of resistance"]
 type: concept
 tags: ["region/brazil", "theme/epistemology", "theme/resistance", "theme/decolonial"]
-related_concepts: ["[[Ganz-Methode]]", "[[Life Power]]", "[[Social Museology]]", "[[Geopolitics of Knowledge]]"]
+related_concepts: ["[[Ganz-Methode]]", "[[Life Power]]", "[[Social Museology]]", "[[Ecomuseology]]", "[[Geopolitics of Knowledge]]"]
 related_theories: ["[[Creative Tension of Sense]]", "[[Decolonial Geopolitics of Knowledge]]"]
 related_methods: []
-related_persons: ["[[Dell Delambre]]", "[[Walter Mignolo]]"]
+related_persons: ["[[Dell Delambre]]", "[[Walter Mignolo]]", "[[Richard Castelo Branco]]", "[[Camilla de Hollanda Amado]]"]
 related_facts: []
 related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
 sources: ["[[Ch7_Delambre_2022]]"]

@@ -1,6 +1,6 @@
 ---
 title: Camilla de Hollanda Amado
-aliases: ["Camilla Amado", "Amado", "Camilla de Hollanda Amado"]
+aliases: ["Camilla Amado", "Camilla de Hollanda Amado"]
 type: person
 tags: ["region/brazil", "field/theater", "field/community-arts"]
 related_concepts: ["[[Epistemology of Resistance]]", "[[Ganz-Methode]]", "[[Life Power]]"]

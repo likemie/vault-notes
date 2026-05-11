@@ -3,7 +3,7 @@ title: Life Power
 aliases: ["Lebenskraft", "生命力量", "life power"]
 type: concept
 tags: ["region/brazil", "region/global"]
-related_concepts: ["[[Ganz-Methode]]", "[[Tense Society]]"]
+related_concepts: ["[[Ganz-Methode]]", "[[Tense Society]]", "[[Whole Sustainability]]"]
 related_theories: ["[[Creative Tension of Sense]]"]
 related_methods: []
 related_persons: ["[[Dell Delambre]]"]

@@ -3,7 +3,7 @@ title: Social Museology
 aliases: ["社会博物馆学", "sociomuseology", "sociomuseologia", "new museology"]
 type: concept
 tags: ["region/brazil", "region/global", "theme/museology", "theme/community"]
-related_concepts: ["[[Life Power]]", "[[Ganz-Methode]]", "[[Geopolitics of Knowledge]]"]
+related_concepts: ["[[Life Power]]", "[[Ganz-Methode]]", "[[Geopolitics of Knowledge]]", "[[Ecomuseology]]"]
 related_theories: ["[[Creative Tension of Sense]]", "[[Decolonial Geopolitics of Knowledge]]"]
 related_methods: []
 related_persons: ["[[Dell Delambre]]", "[[Walter Mignolo]]"]

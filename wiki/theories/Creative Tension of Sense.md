@@ -3,10 +3,10 @@ title: Creative Tension of Sense
 aliases: ["意义创造性张力", "tension theory", "creative tension of sense theory", "创造性意义张力理论"]
 type: theory
 tags: ["region/brazil", "region/global", "level/higher-ed"]
-related_concepts: ["[[Ganz-Methode]]", "[[Life Power]]", "[[Tense Society]]", "[[Geopolitics of Knowledge]]"]
+related_concepts: ["[[Ganz-Methode]]", "[[Life Power]]", "[[Tense Society]]", "[[Geopolitics of Knowledge]]", "[[Social Museology]]", "[[Epistemology of Resistance]]", "[[Ecomuseology]]", "[[Whole Sustainability]]"]
 related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
 related_methods: []
-related_persons: ["[[Dell Delambre]]"]
+related_persons: ["[[Dell Delambre]]", "[[Walter Mignolo]]", "[[Richard Castelo Branco]]", "[[Camilla de Hollanda Amado]]"]
 related_facts: []
 related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
 sources: ["[[Ch7_Delambre_2022]]"]
