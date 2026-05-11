@@ -1,6 +1,6 @@
 ---
 title: Ellen Hazelkorn
-aliases: ["Hazelkorn", "埃伦·黑兹尔科恩"]
+aliases: ["Hazelkorn", "埃伦·黑兹尔科恩", "黑兹尔科恩"]
 type: person
 tags: [person, higher-education, rankings, region/ireland, region/global]
 related_concepts: ["[[Global Universities Rankings]]", "[[Geopolitics of Knowledge]]"]
@@ -11,7 +11,7 @@ sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
 confidence: low
 status: draft
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Ellen Hazelkorn

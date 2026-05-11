@@ -1,6 +1,6 @@
 ---
 title: Argument_Boyadjieva_2022_Springer
-aliases: []
+aliases: ["Boyadjieva 2022 排名与使命冲突", "大学排名与使命冲突论证"]
 type: argument
 citation: "Boyadjieva, P. (2022). (Un)avoidable clash: Higher education at the altar of its missions and rankings. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 125–142). Springer."
 tags: [higher-education, rankings, missions, capability-approach, institutional-theory, region/global, level/higher-ed]
@@ -13,7 +13,7 @@ sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 status: draft
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Argument_Boyadjieva_2022_Springer

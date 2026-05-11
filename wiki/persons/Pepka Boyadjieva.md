@@ -1,6 +1,6 @@
 ---
 title: Pepka Boyadjieva
-aliases: ["Boyadjieva", "佩普卡·博亚季耶娃"]
+aliases: ["Boyadjieva", "佩普卡·博亚季耶娃", "博亚季耶娃"]
 type: person
 tags: [person, higher-education, rankings, region/bulgaria, capability-approach]
 related_concepts: ["[[Global Universities Rankings]]"]
@@ -11,7 +11,7 @@ sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
 confidence: low
 status: draft
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Pepka Boyadjieva

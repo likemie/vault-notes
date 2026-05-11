@@ -1,6 +1,6 @@
 ---
 title: Academic Ranking of World Universities (ARWU)
-aliases: ["世界大学学术排名", "ARWU", "上海排名", "Shanghai Ranking"]
+aliases: ["世界大学学术排名", "ARWU", "上海排名", "Shanghai Ranking", "Academic Ranking of World Universities"]
 type: fact
 subtype: event
 tags: [university-rankings, higher-education, region/china, region/global, level/higher-ed]
@@ -13,7 +13,7 @@ sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
 confidence: medium
 status: draft
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Academic Ranking of World Universities (ARWU)
@@ -21,7 +21,7 @@ updated: 2026-05-11
 ## 背景
 
 > [!info]
-> 20 世纪末至 21 世纪初，随着高等教育的大众化、国际化和商业化进程加速，跨国比较评估高等教育机构的需求日益迫切。中国在这一时期积极推进高水平大学建设，上海交通大学高等教育研究所于 2003 年发布了全球首个综合性大学排名——世界大学学术排名（ARWU）（Boyadjieva, 2022, p.131）。
+> 20 世纪末至 21 世纪初，[[Global Universities Rankings|全球大学排名]] 首先在各国国内出现，但跨国比较的需求日益迫切——高等教育的大众化、国际学生流动的激增、学术劳动力市场的全球化，共同催生了对"跨国可比较信息"的巨大需求。中国在这一时期积极推进"世界一流大学"建设，上海交通大学高等教育研究所于 **2003 年**发布了全球首个多国综合性大学排名——世界大学学术排名（ARWU），开创了跨国大学排名系统的新纪元（Boyadjieva, 2022, pp.130–131）。
 
 ---
 
@@ -37,7 +37,7 @@ updated: 2026-05-11
 ## 影响与后果
 
 > [!success]
-> ARWU 的发布引发了全球高等教育领域的排名竞赛（rankings race）。它标志着高等教育评估从国家层面向全球层面的历史性转变——高校不仅与国内同行比较，更被置于全球竞争场域中定位。其以研究产出为核心的指标体系深刻影响了后续全球排名的设计取向，也加剧了全球排名系统性偏爱的模式：研究密集型、自然科学强势、英语发表为主、历史悠久的老牌院校持续占据顶端（Boyadjieva, 2022, pp.131–132）。
+> ARWU 的发布引发了全球高等教育领域的排名竞赛（rankings race）。它标志着高等教育评估从国家层面向全球层面的历史性转变——高校不仅与国内同行比较，更被置于全球竞争场域中定位（Boyadjieva, 2022, p.131）。其以研究产出为核心的指标体系深刻影响了后续全球排名的设计取向，也奠定了 [[Global Universities Rankings|全球排名系统性偏见]] 的基本模式：研究密集型、自然科学强势、英语发表为主、历史悠久的老牌院校持续占据顶端。详见 [[Global Universities Rankings#核心特征与系统性偏见]]（Boyadjieva, 2022, pp.131–132）。
 
 ---
 
