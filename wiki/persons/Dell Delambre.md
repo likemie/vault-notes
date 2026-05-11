@@ -3,7 +3,7 @@ title: Dell Delambre
 aliases: ["Delambre", "Dell Delambre"]
 type: person
 tags: ["region/brazil", "field/epistemology", "field/higher-education", "field/sustainability"]
-related_concepts: ["[[Ganz-Methode]]", "[[Life Power]]", "[[Tense Society]]"]
+related_concepts: ["[[Ganz-Methode]]", "[[Life Power]]", "[[Tense Society]]", "[[Social Museology]]", "[[Epistemology of Resistance]]"]
 related_theories: ["[[Creative Tension of Sense]]"]
 related_methods: []
 related_persons: ["[[Walter Mignolo]]"]

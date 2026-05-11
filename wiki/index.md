@@ -674,7 +674,7 @@
 - [[Herbert A. Simon]] — 卡内基梅隆大学教授，1978 年诺贝尔经济学奖得主，有限理性理论创始人，Qvortrup 用作教学认识论基础
 - [[Jacob Cohen]] — 美国统计学家，效应量/Cohen's d 解释框架的关键人物，small/medium/large 阈值常在教育研究中被转化为实践判断工具
 - [[Ken Goodman]] — 美国教育研究者，全语言运动创始人，1967 年 Reading: A Psycholinguistic Guessing Game 奠定全语言理论基础
-- [[Walter Mignolo]] — 杜克大学文学与文化研究教授（阿根廷裔），去殖民理论奠基人，提出知识地缘政治（后殖民/去殖民脉络）、殖民差异和认识论不服从概念
+- [[Walter Mignolo]] — 杜克大学文学与文化研究教授（阿根廷裔），去殖民理论奠基人，提出知识地缘政治、殖民差异、殖民性、边界思维和认识论不服从概念，其思想被 Delambre 定位为 Creative Tension of Sense 理论的核心对话对象
 - [[Michael Porter]] — 哈佛商学院教授，竞争战略和国家竞争优势（1990）理论创始人，Moisio (2022) 将其"全球化使国家更重要"悖论分析为塑造知识经济化空间政策的关键地缘政治想象
 - [[Robert Slavin]] — 约翰霍普金斯大学教育心理学家，证据本位教育改革运动奠基人，Success for All 和 Evidence for ESSA 创始人
 - [[Grover Whitehurst]] — Bush 政府 OERI 主任 / IES 首任所长，将 RCT 确立为联邦教育研究黄金标准的关键政策执行者，制定 2002–2007 OERI 战略计划
