@@ -3,7 +3,7 @@ title: Ellen Hazelkorn
 aliases: ["Hazelkorn", "埃伦·黑兹尔科恩"]
 type: person
 tags: [person, higher-education, rankings, region/ireland, region/global]
-related_concepts: ["[[University Rankings (Global)]]", "[[Geopolitics of Knowledge]]"]
+related_concepts: ["[[Global Universities Rankings]]", "[[Geopolitics of Knowledge]]"]
 related_theories: []
 related_persons: ["[[Pepka Boyadjieva]]", "[[Philip Altbach]]"]
 related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]"]
@@ -39,14 +39,14 @@ updated: 2026-05-11
 - APA：Hazelkorn, E. (2015). *Rankings and the reshaping of higher education: The battle for world class excellence* (2nd ed.). Palgrave Macmillan.
 - 核心内容：通过大规模国际调查（2014 年），系统记录了全球排名如何驱动高校战略决策、组织重组和优先事项转变——84% 的高校已建立审视排名的内部机制（Boyadjieva, 2022, p.125）。
 - 思想位置：理论成熟期——建立了排名研究的经验基础和分析框架。
-- 相关概念：[[University Rankings (Global)]]
+- 相关概念：[[Global Universities Rankings]]
 
 ### 2018 — *Reshaping the World Order of Higher Education*
 
 - APA：Hazelkorn, E. (2018). Reshaping the world order of higher education: The role and impact of rankings on national and global systems. *Policy Reviews in Higher Education*, 2(1), 4–31.
 - 核心内容：将排名置于地缘政治分析框架中——论证排名"主要测量基础研究和传播——在有限的领域、以传统的方式——为精英大学和国家提供竞争优势"。高等教育已被"从以地方或次国家范围的、以社会为主的机构转变为经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16, cited in Boyadjieva, 2022, p.138）。
 - 思想位置：理论深化——将排名分析从制度层面提升至全球地缘政治层面。
-- 相关概念：[[Geopolitics of Knowledge]]、[[University Rankings (Global)]]
+- 相关概念：[[Geopolitics of Knowledge]]、[[Global Universities Rankings]]
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Capability Approach in Education
-aliases: ["可行能力路径", "capability approach", "Sen's capability approach"]
+aliases: ["可行能力路径", "capability approach", "Sen's capability approach", "可行能力理论", "能力路径", "capability theory", "capabilities approach"]
 type: theory
 tags: [capability-approach, higher-education, social-justice, philosophy]
-related_concepts: ["[[University Rankings (Global)]]"]
+related_concepts: ["[[Global Universities Rankings]]"]
 related_theories: []
 related_persons: ["[[Pepka Boyadjieva]]"]
 related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]"]
@@ -19,7 +19,10 @@ updated: 2026-05-11
 ## 核心主张
 
 > [!tip]
-> 可行能力路径（capability approach）由 Amartya Sen 和 Jean Drèze 系统阐述。该理论的核心主张是：发展的目标不应仅以资源或效用衡量，而应以扩展人们"实际享有的自由"（real freedoms that people enjoy）为评价标准。在教育领域，该路径为理解教育对个人自由的多重价值提供了一个超越纯经济回报的分析框架（Boyadjieva, 2022, p.128）。
+> 可行能力路径（capability approach）由 Amartya Sen 在 1980–1990 年代发展，最初作为对功利主义福利经济学的替代框架。其核心主张是：发展的目标不应仅以资源占有或效用满足来衡量，而应以扩展人们"实际享有的自由"（real freedoms that people enjoy）为根本评价标准——即一个人"能够做什么、成为什么"（functionings and capabilities），而非仅仅"拥有什么"（Boyadjieva, 2022, p.128）。
+
+> [!example]
+> 在教育语境中，这意味着问的不是"教育让毕业生赚了多少钱"，而是"教育以哪些不同的方式扩展了一个人的自由"——包括但不限于：能否独立思考、能否参与公共事务、能否在社会中获得尊重和公平对待。Boyadjieva (2022) 正是以此为概念基础，构建了批判全球排名的多维使命模型（pp.128–130）。
 
 ---
 
@@ -48,7 +51,7 @@ updated: 2026-05-11
 ## 应用领域
 
 > [!success]
-> - [[University Rankings (Global)]] — Boyadjieva (2022) 以可行能力路径为基础构建多维使命模型，用于批判全球排名对高等教育公共价值的忽视
+> - [[Global Universities Rankings]] — Boyadjieva (2022) 以可行能力路径为基础构建多维使命模型，用于批判全球排名对高等教育公共价值的忽视
 > - [[Pepka Boyadjieva]] 的高等教育多维使命模型——将五种教育价值重构为个体/社会×工具/内在/转化-赋权的矩阵框架
 
 ---

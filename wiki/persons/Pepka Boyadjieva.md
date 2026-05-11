@@ -3,7 +3,7 @@ title: Pepka Boyadjieva
 aliases: ["Boyadjieva", "佩普卡·博亚季耶娃"]
 type: person
 tags: [person, higher-education, rankings, region/bulgaria, capability-approach]
-related_concepts: ["[[University Rankings (Global)]]"]
+related_concepts: ["[[Global Universities Rankings]]"]
 related_theories: ["[[Capability Approach in Education]]"]
 related_persons: ["[[Ellen Hazelkorn]]"]
 related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]"]
@@ -41,7 +41,7 @@ updated: 2026-05-11
 - APA：Boyadjieva, P., & Ilieva-Trichkova, P. (2016). Rethinking missions and values of higher education: Insights from the capability approach and the institutional perspective. In R. Pritchard & J. Williams (Eds.), *Positioning higher education institutions: From here to there* (pp. 41–62). Sense Publishers.
 - 核心内容：基于 Drèze & Sen 的可行能力路径和制度理论，发展了一个规范性的高等教育使命/角色多维模型（Boyadjieva, 2022, pp.128–129）。
 - 思想位置：理论形成期——奠定了后续排名批判工作的概念基础。
-- 相关概念／理论：[[Capability Approach in Education]]、[[University Rankings (Global)]]
+- 相关概念／理论：[[Capability Approach in Education]]、[[Global Universities Rankings]]
 
 ### 2020 — *Inclusion and Fairness in Access to Higher Education*
 
@@ -55,7 +55,7 @@ updated: 2026-05-11
 - APA：Boyadjieva, P. (2022). (Un)avoidable clash: Higher education at the altar of its missions and rankings. In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical transformations in higher education* (pp. 125–142). Springer.
 - 核心内容：以多维使命模型为棱镜系统批判全球排名，论证排名推行一刀切的高校模型、忽视高等教育使命多样性、确认有限的公共利益理解（Boyadjieva, 2022, pp.132–136）。
 - 思想位置：理论应用与政策批判——将 2016 年发展的模型应用于排名分析。
-- 相关概念／理论：[[University Rankings (Global)]]、[[Capability Approach in Education]]
+- 相关概念／理论：[[Global Universities Rankings]]、[[Capability Approach in Education]]
 
 ---
 

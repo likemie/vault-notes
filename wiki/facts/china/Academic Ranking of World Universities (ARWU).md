@@ -4,7 +4,7 @@ aliases: ["世界大学学术排名", "ARWU", "上海排名", "Shanghai Ranking"
 type: fact
 subtype: event
 tags: [university-rankings, higher-education, region/china, region/global, level/higher-ed]
-related_concepts: ["[[University Rankings (Global)]]", "[[Geopolitics of Knowledge]]"]
+related_concepts: ["[[Global Universities Rankings]]", "[[Geopolitics of Knowledge]]"]
 related_theories: []
 related_persons: []
 related_facts: ["[[OECD AHELO Project]]"]
@@ -53,7 +53,7 @@ updated: 2026-05-11
 ## 相关概念／政策
 
 > [!example]
-> - [[University Rankings (Global)]] — ARWU 是首个全球排名，开启了排名重塑高等教育的时代
+> - [[Global Universities Rankings]] — ARWU 是首个全球排名，开启了排名重塑高等教育的时代
 > - [[OECD AHELO Project]] — OECD 试图以类似 PISA 的方式测量高等教育学习成果，部分回应了排名对教学质量测量的缺失
 
 ---

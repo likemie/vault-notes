@@ -4,7 +4,7 @@ aliases: ["肯塔基大学Top-20计划", "Kentucky Top-20 Plan"]
 type: fact
 subtype: event
 tags: [university-rankings, higher-education, mission, region/us, level/higher-ed]
-related_concepts: ["[[University Rankings (Global)]]"]
+related_concepts: ["[[Global Universities Rankings]]"]
 related_theories: []
 related_persons: []
 related_facts: []
@@ -54,7 +54,7 @@ updated: 2026-05-11
 ## 相关概念／政策
 
 > [!example]
-> - [[University Rankings (Global)]] — Kentucky 案例是排名与使命冲突的经典示范
+> - [[Global Universities Rankings]] — Kentucky 案例是排名与使命冲突的经典示范
 
 ---
 

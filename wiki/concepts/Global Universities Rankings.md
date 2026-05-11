@@ -1,6 +1,6 @@
 ---
-title: University Rankings (Global)
-aliases: ["全球大学排名", "university rankings", "global rankings", "league tables"]
+title: Global Universities Rankings
+aliases: ["全球大学排名", "university rankings", "global rankings", "league tables", "global university rankings", "University Rankings (Global)"]
 type: concept
 tags: [university-rankings, higher-education, geopolitics, region/global, level/higher-ed]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Global Education Industry (GEI)]]", "[[Internationalization of Higher Education]]"]
@@ -15,7 +15,7 @@ created: 2026-05-11
 updated: 2026-05-11
 ---
 
-# University Rankings (Global)
+# Global Universities Rankings
 
 ## 定义
 

@@ -8,8 +8,8 @@ related_theories: ["[[Fixity-Motion Tension]]", "[[Network Society]]"]
 related_persons: ["[[Sami Moisio]]", "[[Fazal Rizvi]]"]
 related_methods: []
 related_facts: ["[[Australia in the Asian Century White Paper 2012]]"]
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
+related_arguments: ["[[Argument_Rizvi_2022_Springer]]", "[[Argument_Boyadjieva_2022_Springer]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
 confidence: medium
 status: draft
 created: 2026-05-07

@@ -4,7 +4,7 @@ aliases: ["AHELO", "高等教育学习成果评估", "Assessment of Higher Educa
 type: fact
 subtype: event
 tags: [oecd, higher-education, assessment, learning-outcomes, region/global, level/higher-ed]
-related_concepts: ["[[University Rankings (Global)]]", "[[Education Indicators]]"]
+related_concepts: ["[[Global Universities Rankings]]", "[[Education Indicators]]"]
 related_theories: []
 related_persons: ["[[Philip Altbach]]"]
 related_facts: ["[[Academic Ranking of World Universities (ARWU)]]"]
@@ -55,7 +55,7 @@ updated: 2026-05-11
 ## 相关概念／政策
 
 > [!example]
-> - [[University Rankings (Global)]] — AHELO 试图填补排名系统对教学质量测量的空白
+> - [[Global Universities Rankings]] — AHELO 试图填补排名系统对教学质量测量的空白
 > - [[Academic Ranking of World Universities (ARWU)]] — ARWU 是唯一以校友获奖间接反映教育结果的全球排名
 
 ---

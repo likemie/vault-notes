@@ -137,7 +137,7 @@
 - [[International Education Hubs]] — Knight 的概念：国家将自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目，三种模型（学生／人才／知识创新枢纽）
 - [[Internationalization of Higher Education]] — Rizvi 的分析焦点：高等教育国际化的理性已从发展主义转向市场逻辑，亚洲崛起和 COVID-19 为关键转折点
 - [[Transnational Research Collaboration in Higher Education]] — Rizvi 的分析焦点：跨国研究合作中个体学术、机构声誉、国家经济和外交四重理性的融合
-- [[University Rankings (Global)]] — 全球大学排名：比较性评估 HEI 的工具系统，已成为驱动高教系统转型和地缘政治竞争的核心力量，因推行一刀切模型、忽视使命多样性和确认有限公共利益理解而受批评
+- [[Global Universities Rankings]] — 全球大学排名：比较性评估 HEI 的工具系统，已成为驱动高教系统转型和地缘政治竞争的核心力量，因推行一刀切模型、忽视使命多样性和确认有限公共利益理解而受批评
 - [[The Shock of the Elite]] — Reay, Crozier & Clayton (2009) 的概念：弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，郑雅君 (2023) 作为直觉依赖模式激化的关键机制
 - [[Lost Mode]] — 郑雅君 (2023) 的类型：直觉依赖模式+弱价值信念=迷失无从者，在四类中处于最不利地位，被动接受权宜之策
 - [[Opportunist Mode]] — 郑雅君 (2023) 的类型：目标掌控模式+弱价值信念=机会主义者，擅长策略但无深层价值认同，追求工具性利益最大化

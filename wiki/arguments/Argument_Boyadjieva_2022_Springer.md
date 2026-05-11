@@ -4,7 +4,7 @@ aliases: []
 type: argument
 citation: "Boyadjieva, P. (2022). (Un)avoidable clash: Higher education at the altar of its missions and rankings. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 125–142). Springer."
 tags: [higher-education, rankings, missions, capability-approach, institutional-theory, region/global, level/higher-ed]
-related_concepts: ["[[University Rankings (Global)]]", "[[Geopolitics of Knowledge]]"]
+related_concepts: ["[[Global Universities Rankings]]", "[[Geopolitics of Knowledge]]"]
 related_theories: ["[[Capability Approach in Education]]"]
 related_persons: ["[[Pepka Boyadjieva]]", "[[Ellen Hazelkorn]]"]
 related_facts: ["[[Academic Ranking of World Universities (ARWU)]]", "[[OECD AHELO Project]]", "[[University of Kentucky Top-20 Plan]]"]
@@ -21,7 +21,7 @@ updated: 2026-05-11
 ## 研究问题
 
 > [!question]
-> 围绕 [[University Rankings (Global)|全球大学排名]] 与高等教育使命的关系，这里追问一个看似矛盾的问题：既然各方都承认排名有严重缺陷，为什么它们的影响力仍然与日俱增？具体拆为三个子问题：（1）排名所推崇的"好大学"标准，与高等教育实际上承担的多元使命之间，到底有没有冲突？（2）如果冲突确实存在，它具体表现在哪些方面？（3）既然冲突这么深，大学能不能干脆不理排名、回归自己的使命？（Boyadjieva, 2022, pp.126, 137）
+> 围绕 [[Global Universities Rankings|全球大学排名]] 与高等教育使命的关系，这里追问一个看似矛盾的问题：既然各方都承认排名有严重缺陷，为什么它们的影响力仍然与日俱增？具体拆为三个子问题：（1）排名所推崇的"好大学"标准，与高等教育实际上承担的多元使命之间，到底有没有冲突？（2）如果冲突确实存在，它具体表现在哪些方面？（3）既然冲突这么深，大学能不能干脆不理排名、回归自己的使命？（Boyadjieva, 2022, pp.126, 137）
 
 ---
 
@@ -39,7 +39,7 @@ updated: 2026-05-11
 ## 研究方法
 
 > [!info]
-> - **方法类型**：规范性概念分析 + 批判性政策评论。研究先构建一个理论模型（多维使命模型），再以该模型为"检验标准"去审查 [[University Rankings (Global)|全球排名系统]]，识别后者在哪些维度上系统地偏离了高等教育的完整使命。
+> - **方法类型**：规范性概念分析 + 批判性政策评论。研究先构建一个理论模型（多维使命模型），再以该模型为"检验标准"去审查 [[Global Universities Rankings|全球排名系统]]，识别后者在哪些维度上系统地偏离了高等教育的完整使命。
 > - **资料来源**：排名系统文件（ARWU、THE、QS 等的指标和方法说明）、排名实证研究文献（Hazelkorn 2015/2018 的国际调查数据；Marginson 2009/2014 的排名批判分析；Altbach 2011 的评论等）、制度理论和新制度主义文献（Meyer 1970/1977、Scott & Davis 2016、Ramirez 2013）、美国肯塔基大学排名驱动转型的案例分析（DeYoung & Baas, 2012）。
 
 ---
@@ -155,7 +155,7 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 
 ### 第四步：用使命模型当"照妖镜"——揭露排名漏掉了什么
 
-有了多维使命模型，就可以展开最核心的批判工作：把 [[University Rankings (Global)|全球排名]] 放到这个模型下检验，看它到底覆盖了大学使命的哪一部分、漏掉了哪一部分（Boyadjieva, 2022, pp.132–136）。
+有了多维使命模型，就可以展开最核心的批判工作：把 [[Global Universities Rankings|全球排名]] 放到这个模型下检验，看它到底覆盖了大学使命的哪一部分、漏掉了哪一部分（Boyadjieva, 2022, pp.132–136）。
 
 **4.1 排名只看一种大学——研究型、自然科学、英语、老牌**
 
@@ -183,7 +183,7 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 **4.3 排名惩罚履行公共使命的大学——肯塔基案例**
 
 > [!example]
-> 这是论证从头到尾贯穿的核心案例，也是最有力的证据（Boyadjieva, 2022, pp.125–126）：
+> 这是 Boyadjieva (2022) 从头到尾贯穿的核心案例，也是最有力的证据（pp.125–126）：
 >
 > [[University of Kentucky Top-20 Plan|肯塔基大学]]是一所公立赠地大学，成立于 1865 年。作为"赠地大学"，它的法定使命是"为弱势群体增加教育机会，并坚定致力于区域和州经济发展"（DeYoung & Baas, 2012, p.82）。这意味着它必须招收大量低收入家庭学生、少数族裔学生和非传统学生——这些学生统计学上的毕业概率较低，需要更多的学术支持和经济资助。
 >
@@ -206,7 +206,7 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 **4.5 排名在测量一个它从未定义过的概念——"质量"**
 
 > [!example]
-> 这是论证最犀利的逻辑攻击之一。所有排名系统都声称自己在按"质量"排序——"最好的大学""前 100 名大学""前 500 名大学"。但是：
+> 这是 Boyadjieva (2022) 最犀利的逻辑攻击之一。所有排名系统都声称自己在按"质量"排序——"最好的大学""前 100 名大学""前 500 名大学"。但是：
 >
 > - **没有任何一个排名系统给出过"高等教育质量"的定义**
 > - **国际上不存在对"高等教育质量"的共识定义或测量方法**
@@ -218,7 +218,7 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 
 **4.6 排名改革尝试——诚意有，但结构性问题没解决**
 
-论证公平地承认，一些排名系统已经意识到了上述问题并在尝试改进（Boyadjieva, 2022, pp.133–134）：
+Boyadjieva (2022) 公平地承认，一些排名系统已经意识到了上述问题并在尝试改进（pp.133–134）：
 
 > - **U-Multirank（2015）**：加入了区域参与指标——毕业生留本地率、学生实习、与区域的联合发表和商业收入
 > - **QS Stars**：设立了社会责任感、包容性等专项评分
@@ -230,7 +230,7 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 
 ### 第五步：为什么"不理排名"行不通——五道锁链
 
-在系统批判排名之后，论证转向一个更棘手的问题。2017 年，Altbach 和 [[Ellen Hazelkorn]] 联合发表了一篇广为流传的文章，呼吁高校"专注于使命，而非排名"。这个建议听起来合情合理，但 Boyadjieva 追问：它可行吗？她的回答是：**不行，至少短期内不行**。她用新制度主义框架提出了五道"锁链"，解释了为什么即使一所大学想不理排名，它也做不到（Boyadjieva, 2022, pp.137–139）。
+在系统批判排名之后，Boyadjieva (2022) 转向一个更棘手的问题。2017 年，Altbach 和 [[Ellen Hazelkorn]] 联合发表了一篇广为流传的文章，呼吁高校"专注于使命，而非排名"。这个建议听起来合情合理，但 Boyadjieva 追问：它可行吗？她的回答是：**不行，至少短期内不行**。她用新制度主义框架提出了五道"锁链"，解释了为什么即使一所大学想不理排名，它也做不到（Boyadjieva, 2022, pp.137–139）。
 
 > **锁链 1：高等教育的"产品"无法客观测量**
 >
