@@ -14,7 +14,7 @@ sources: ["[[Ch9_Zapp_2022]]"]
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # UN Sustainable Development Goals 2015
