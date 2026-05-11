@@ -8,8 +8,8 @@ related_theories: ["[[World Culture Theory]]", "[[Fixity-Motion Tension]]", "[[C
 related_facts: ["[[Sino-American Trade War (2018)]]", "[[Great Firewall of China]]", "[[China Social Credit System]]", "[[US-China Economic and Security Review Commission (2000)]]", "[[Thousand Talents Program]]", "[[Kokutai no Hongi (1937)]]"]
 related_persons: ["[[Marcelo Parreira do Amaral]]", "[[Christiane Thompson]]", "[[Sami Moisio]]", "[[Walter Mignolo]]", "[[James Partaken]]", "[[Jean-François Lyotard]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]", "[[Fazal Rizvi]]", "[[Edward Said]]", "[[Manuel Castells]]", "[[Ellen Hazelkorn]]"]
 related_methods: []
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]", "[[Argument_Delambre_2022_Springer]]", "[[Argument_Boyadjieva_2022_Springer]]"]
-sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch7_Delambre_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
+related_arguments: ["[[Argument_Rizvi_2022_Springer]]", "[[Argument_Delambre_2022_Springer]]", "[[Argument_Boyadjieva_2022_Springer]]", "[[Argument_Zapp_2022_Springer]]"]
+sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch7_Delambre_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch9_Zapp_2022.md"]
 confidence: medium
 status: draft
 created: 2026-05-07

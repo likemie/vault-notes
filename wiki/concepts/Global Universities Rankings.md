@@ -6,9 +6,9 @@ tags: [university-rankings, higher-education, geopolitics, region/global, level/
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Global Education Industry (GEI)]]", "[[Internationalization of Higher Education]]", "[[Social Charter]]"]
 related_theories: []
 related_persons: ["[[Ellen Hazelkorn]]", "[[Pepka Boyadjieva]]", "[[Simon Marginson]]", "[[Philip Altbach]]"]
-related_facts: ["[[Academic Ranking of World Universities (ARWU)]]", "[[OECD AHELO Project]]"]
-related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
+related_facts: ["[[Academic Ranking of World Universities (ARWU)]]", "[[OECD AHELO Project]]", "[[THE Impact Ranking 2019]]"]
+related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]", "[[Argument_Zapp_2022_Springer]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md", "[[Ch9_Zapp_2022]]"]
 confidence: medium
 status: draft
 created: 2026-05-11
@@ -41,6 +41,8 @@ updated: 2026-05-12
 > 排名首先在国家高等教育系统内部作为评估工具出现。随着高等教育大众化和全球化进程的加速，跨国比较评估的需求日益迫切。**2003 年**上海交通大学高等教育研究所发布了[[Academic Ranking of World Universities (ARWU)|首个全球大学排名（ARWU）]]，次年 Times Higher Education（THE）推出其排名。此后，Leiden、Scimago、QS World University Rankings 和 European U-Multirank 等多个全球排名系统相继建立（Boyadjieva, 2022, p.131）。
 
 > 2014 年一项国际调查显示：84% 的受调查高校已建立内部机制审视自身排名，"绝大多数"用排名指导战略决策、设定目标和塑造优先事项（Hazelkorn, 2015, pp.xix–xv, cited in Boyadjieva, 2022, p.125）。Philip Altbach（2011, p.2）指出："如果排名不存在，有人会发明它们"（Boyadjieva, 2022, p.130）。
+
+> **2019 年**，THE 推出了[[THE Impact Ranking 2019|首个基于联合国 SDGs 的全球大学影响力排名]]，标志着排名逻辑的一个显著转向：从仅衡量研究卓越和声誉，扩展到衡量大学对解决紧迫社会问题（性别平等、气候行动、可持续城市等）的贡献。该排名 2020 年覆盖 85 个国家近 800 所大学，其中 SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标（Zapp, 2022, p.147）。O'Malley & Mitchell（2019）将其描述为"世界上首次全球性尝试，记录高等教育影响力的证据，提供一种定义卓越的新方式，并认可大学为社会福祉所做的出色工作"（Zapp, 2022, p.147）。
 
 ---
 

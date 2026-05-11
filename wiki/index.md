@@ -129,6 +129,7 @@
 - [[Cultural Disembedding]] — 郑雅君 (2023) 的概念：寒门学子进入精英大学后对物理环境和社会文化环境的全面疏离感，是文化障碍的第一重维度
 - [[Cultural Disorientation]] — 郑雅君 (2023) 的概念：寒门学子升入名校后场域转换造成内在自我冲突和目标策略迷失，是文化障碍的第二重维度
 - [[Economy of Experience]] — Phillip Brown 的概念：大学生需将课余生活精细投资管理以打造为简历加分的"履历资本"，郑雅君 (2023) 用于分析中国精英大学就业竞争
+- [[Epistemic Governance]] — Zapp (2022) 的概念：以规范、认知和知识为基础的全球治理机制，与强制和规制性"硬"治理形成对照；大学通过提供科学知识、培养全球治理专家和推行 USR 在去中心化全球治理架构中占据知识权威位置
 - [[Global Education Industry (GEI)]] — 教育实践、供给、研究和政策被经济理性渗透的多重过程，Verger et al. (2016) 定义，Parreira do Amaral 将其作为知识地缘政治转型的关键语境
 - [[Goal-Controlled Mode]] — 郑雅君 (2023) 提出的大学生活组织实践图式：早期确立生涯目标，策略性地利用大学资源为毕业出路做准备，根植于优势阶层习性
 - [[Graduate Attributes]] — 大学认同其学生在学期间应当发展的品质、技能和理解，受高等教育市场化驱动，Wong et al. (2022) 识别 UK 四大话语
@@ -141,6 +142,8 @@
 - [[The Shock of the Elite]] — Reay, Crozier & Clayton (2009) 的概念：弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，郑雅君 (2023) 作为直觉依赖模式激化的关键机制
 - [[Lost Mode]] — 郑雅君 (2023) 的类型：直觉依赖模式+弱价值信念=迷失无从者，在四类中处于最不利地位，被动接受权宜之策
 - [[Opportunist Mode]] — 郑雅君 (2023) 的类型：目标掌控模式+弱价值信念=机会主义者，擅长策略但无深层价值认同，追求工具性利益最大化
+- [[Organizational Actorhood]] — Krücken & Meier (2006)、Bromley & Meyer (2015) 的概念：组织在结构和行为上的扩展，将自主性、目标导向、问责性和社会嵌入性纳入核心身份；大学正从公共行政的"特定组织"转变为"完全组织"
+- [[Otherhood]] — Meyer & Jepperson (2000) 的概念：组织为其他行动者、非行动者实体和现代性原则行使代理权的社会过程；大学近乎理想型地代表 otherhood 的全部三种形式
 - [[Self-Authorship]] — Baxter Magolda 的概念：个体根据内在声音和核心价值观主导认知发展、自我认同和人际关系，郑雅君 (2023) 作为目标掌控模式的理论灵感之一
 - [[Self-Driven Mode]] — 郑雅君 (2023) 的类型：目标掌控模式+强价值信念=自主驱动者，既有策略能力又有深层意义感支撑，自主设定精英生涯目标
 - [[Social Charter]] — Meyer (1970) 的概念：大学与社会之间不成文的约定，规定毕业生获得的社会地位，完全独立于教学效果，排名无法捕捉这一制度维度
@@ -149,6 +152,7 @@
 - [[Student Involvement]] — Alexander Astin (1984) 的概念：学生投入的生理和心理能量的数量和质量，五条涉入公理为 Kuh 学生投入理论的前身
 - [[Employability]] — Phillip Brown 的概念：知识经济时代就业力建立在比较排序之上，毕业证书只是敲门砖，需通过经历管理展示个人品质，郑雅君 (2023) 作为社会性投入分析的理论基础
 - [[Symbolic Boundary]] — Lamont 的概念：通过赋予行为、品味和价值观以道德涵义在自我与他者之间划分"我们"与"他们"，郑雅君 (2023) 揭示两种模式间互相区隔的道德话语
+- [[University Social Responsibility]] — 大学社会责任（USR）：大学对多元利益相关者和社会议题的制度化开放性；全球 200+ 所大学已发布 CSR/可持续发展报告，SDGs 和 THE Impact Ranking 推动了 USR 的全球制度化
 - [[Value Conformist Mode]] — 郑雅君 (2023) 的类型：直觉依赖模式+强价值信念=价值归顺者，内化学校理想信念获得体制赞助性流动
 - [[Work Meaning Schemas (Zheng)]] — 郑雅君 (2023) 的工作意义三角图式结构：地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达三种文化图式及其代内分化
 
@@ -258,6 +262,7 @@
 - [[Network Society]] — Castells (1996) 的理论：社会组织从稳定等级制转向流动网络形式，Benkler (2006) 延伸论证跨国网络为知识创造新源泉，Rizvi (2022) 用于分析跨国研究合作的网络化转型
 - [[Rational Action Theory in Education]] — Breen & Goldthorpe (1997) 的教育分层理论：以相对风险规避机制解释阶层间教育选择的系统性差异，揭示家庭背景的次属效应，郑雅君 (2023) 作为"价值选择过程"的理论对话方
 - [[World Culture Theory]] — 全球学校模式趋同假设：西方现代民族国家模型向全球扩散，导致课程和学校标准化，但 LS 案例揭示其解释力局限
+- [[World Society Theory]] — Meyer et al. (1997) 的社会学理论：世界社会缺乏传统控制与权威机制，本质上通过 otherhood（文化模型的扩散与模仿）建构；大学和科学在此过程中提供知识合法性与文化模型
 
 ### Management & Organisation
 
@@ -381,6 +386,8 @@
 - [[Regional University Alliances]] — Amos (2022) 在晚期现代教育转型语境中关注的三类欧洲大学联盟（LERU、The GUILD、European University Alliances），在科研合作、师生流动和联合学位中运作，构成多层级地缘政治教育空间中的制度行动者
 - [[Australia in the Asian Century White Paper 2012]] — 澳大利亚 Henry Report：将亚洲崛起定位为"澳大利亚的机遇"，推动 AISRF、ACSRF 等与亚洲的研究合作
 - [[GATS and Trade in Education Services]] — WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映"新帝国主义"
+- [[THE Impact Ranking 2019]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
+- [[UN Sustainable Development Goals 2015]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的"新型第三使命"
 
 ### Hong Kong
 
@@ -696,6 +703,7 @@
 - [[Herbert A. Simon]] — 卡内基梅隆大学教授，1978 年诺贝尔经济学奖得主，有限理性理论创始人，Qvortrup 用作教学认识论基础
 - [[Jacob Cohen]] — 美国统计学家，效应量/Cohen's d 解释框架的关键人物，small/medium/large 阈值常在教育研究中被转化为实践判断工具
 - [[Ken Goodman]] — 美国教育研究者，全语言运动创始人，1967 年 Reading: A Psycholinguistic Guessing Game 奠定全语言理论基础
+- [[John W. Meyer]] — 斯坦福大学社会学家，世界社会理论（world society theory）创始人，提出组织能动者身份（organizational actorhood）和 otherhood 等核心概念，Zapp (2022) 以其理论框架分析大学在全球治理中的知识行动者角色
 - [[Walter Mignolo]] — 杜克大学文学与文化研究教授（阿根廷裔），去殖民理论奠基人，提出知识地缘政治、殖民差异、殖民性、边界思维和认识论不服从概念，其思想被 Delambre 定位为 Creative Tension of Sense 理论的核心对话对象
 - [[Michael Porter]] — 哈佛商学院教授，竞争战略和国家竞争优势（1990）理论创始人，Moisio (2022) 将其"全球化使国家更重要"悖论分析为塑造知识经济化空间政策的关键地缘政治想象
 - [[Robert Slavin]] — 约翰霍普金斯大学教育心理学家，证据本位教育改革运动奠基人，Success for All 和 Evidence for ESSA 创始人
@@ -833,6 +841,7 @@
 - [[Argument_Rizvi_2022_Springer]] — Ch6 Fazal Rizvi: 以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构
 - [[Argument_Delambre_2022_Springer]] — Ch7 Dell Delambre: 提出 Creative Tension of Sense 认识论和 Ganz-Methode，主张承载新旧之间的意义张力，以巴西里约热内卢基层实践为案例
 - [[Argument_Boyadjieva_2022_Springer]] — Ch8 Pepka Boyadjieva: 以可行能力路径和制度理论构建 HE 多维使命模型（2×3 矩阵），批判全球排名推行一刀切大学模型、忽视使命多样性
+- [[Argument_Zapp_2022_Springer]] — Ch9 Mike Zapp: 以世界社会理论和组织能动者身份为框架，分析大学通过研究、教学、内部政策和网络四种机制嵌入全球治理，以 SDGs 为案例，警示科学的政治化和大学的地缘政治再领土化风险
 - 📖 [[Argument_郑_2023_上海三联书店]] — 郑雅君：以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化
 
 ### Reports & Policy Documents

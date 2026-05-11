@@ -4,11 +4,11 @@ aliases: ["知识经济", "知识型经济", "knowledge-based economy", "KBE"]
 type: concept
 tags: [knowledge-based-economy, knowledge-economy, post-industrialism, endogenous-growth, region/global, level/higher-ed]
 related_concepts: ["[[Knowledge-Based Economization]]", "[[Knowledge Capitalism]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Internationalization of Higher Education]]", "[[International Education Hubs]]", "[[New Public Management in Education]]"]
-related_theories: ["[[Fixity-Motion Tension]]", "[[Network Society]]"]
+related_theories: ["[[Fixity-Motion Tension]]", "[[Network Society]]", "[[World Society Theory]]"]
 related_persons: ["[[Sami Moisio]]", "[[Fazal Rizvi]]"]
 related_methods: []
 related_facts: ["[[Australia in the Asian Century White Paper 2012]]"]
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]", "[[Argument_Boyadjieva_2022_Springer]]"]
+related_arguments: ["[[Argument_Rizvi_2022_Springer]]", "[[Argument_Boyadjieva_2022_Springer]]", "[[Argument_Zapp_2022_Springer]]"]
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
 confidence: medium
 status: draft
