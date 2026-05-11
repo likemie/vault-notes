@@ -42,7 +42,7 @@ updated: 2026-05-11
 ## 发展脉络
 
 > [!note]
-> - Dell Delambre 在 2013–2020 年期间于巴西里约热内卢开展多案例实践研究中逐步发展出该理论。案例涵盖个体发展、地方发展（通过 ecomuseums 和剧场）、商业发展、学校发展、制度发展和可持续发展（Delambre, 2022, p.107）
+> - Dell Delambre 在 2013–2020 年期间于巴西里约热内卢开展多案例实践研究中逐步发展出该理论。案例涵盖个体发展、地方发展（通过生态博物馆和剧场）、商业发展、学校发展、制度发展和可持续发展（Delambre, 2022, p.107）
 > - 理论建构受到 Enrique Leff 的环境理性（environmental rationality）、Boaventura de Sousa Santos 的南方认识论（Epistemologies of the South）、Enrique Dussel 的超现代性（transmodernity）以及 [[Walter Mignolo]] 的去殖民知识地缘政治等思想的影响（Delambre, 2022, p.105–109）
 > - 2022 年，Delambre 在 Parreira do Amaral & Thompson 主编的 *Geopolitical Transformations in Higher Education* 论文集中以章节形式系统阐述该理论及其方法论 [[Ganz-Methode]]（Delambre, 2022）
 

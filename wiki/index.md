@@ -233,8 +233,10 @@
 - [[Vergegenkunft]] — Günther Grass 自创的文学原则：Vergangenheit/Gegenwart/Zukunft（过去/现在/未来）的合成词，表达时间的非线性纠缠，Amos (2022) 以此说明教育转型中过去-现在-未来的交织
 - [[Life Power]] — Dell Delambre 的概念（Lebenskraft）：在新旧张力中为存在赋予意义的实践性再定位能力，通过 Ganz-Methode 的第二步被识别和发现
 - [[Tense Society]] — Dell Delambre 对当代社会的诊断：所有领域的"新"与"旧"意义张力呈指数级加速且高度互联，"正常"就是张力，呼吁将张力教育作为全球地缘政治项目
-- [[Social Museology]] — 社会博物馆学（sociomuseologia）：将博物馆定位为社区发展工具，居民自己选择展品、讲述故事、保存记忆，巴西社区博物馆和 ecomuseums 为其主要实践形式
+- [[Social Museology]] — 社会博物馆学（sociomuseologia）：将博物馆定位为社区发展工具，居民自己选择展品、讲述故事、保存记忆，巴西社区博物馆和生态博物馆为其主要实践形式
 - [[Epistemology of Resistance]] — 抵抗认识论：从被排斥群体的具体经验出发构建替代性知识形式，Rocinha 贫民窟剧场导演 Castelo Branco 的 EspectAtor 方法为核心实践案例
+- [[Ecomuseology]] — 生态博物馆学：将整个地域视为博物馆，由社区主导保护和阐释自然与文化遗产，与巴西社会博物馆学高度交叉共存
+- [[Whole Sustainability]] — 整体可持续性：Delambre 将张力理论应用于可持续性领域的概念，纳入局部社区的一切生命力量要素及内外部威胁
 
 —
 
@@ -515,6 +517,8 @@
 #### Current (2000–present)
 
 - [[Dell Delambre]] — 巴西认识论学者和实践者，提出 Creative Tension of Sense 理论和 Ganz-Methode 方法论，以里约热内卢贫民窟剧场和社区博物馆等基层实践为基础，为知识地缘政治讨论提供拉丁美洲视角
+- [[Richard Castelo Branco]] — 巴西剧场导演，Rocinha 贫民窟剧场团体"Bando Cultural Favelados da Rocinha"导演，开发抵抗认识论剧场方法 EspectAtor
+- [[Camilla de Hollanda Amado]] — 巴西著名女演员和剧场导演（1941–2021），与 Delambre 共同创立"Bora Bora em Bando"项目为贫民窟剧场争取社会可见度
 
 ### Canada
 
