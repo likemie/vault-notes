@@ -42,12 +42,18 @@ updated: 2026-05-11
 ## 发展脉络
 
 > [!note]
-> - 1970s  John W. Meyer 在斯坦福大学开始发展新制度主义组织理论，关注制度环境对组织形式的塑造作用
-> - 1997 年 Meyer, Boli, Thomas & Ramirez 在 *American Journal of Sociology* 发表 "World Society and the Nation-State"，标志世界社会理论的系统阐述——论证民族国家的制度形式（如宪法、教育系统、公民身份概念）在全球范围内趋同，这种趋同无法由国家利益或功能性需求解释（Zapp, 2022, p.145）
-> - 2000 年 Meyer & Jepperson 在 *Sociological Theory* 提出 otherhood 概念，完善了世界社会理论中"能动者"的文化建构理论（Zapp, 2022, p.149）
-> - 2015 年 Bromley & Meyer 在 *Hyper-Organization* 中发展组织能动者身份理论，将世界社会理论延伸至组织研究领域（Zapp, 2022, p.148）
-> - 2020 年 Frank & Meyer 在 *The University and the Global Knowledge Society* 将世界社会理论系统应用于大学分析，论证大学是全球知识社会的核心制度（Zapp, 2022, p.143）
-> - Zapp (2020a, 2020b, 2022) 将世界社会理论中的 otherhood 概念应用于分析国际组织和大学在全球治理中的知识行动者角色（Zapp, 2022, pp.148–149）
+
+### 理论奠基与系统阐述
+
+- 1970s  [[John W. Meyer]] 在斯坦福大学开始发展新制度主义组织理论，关注制度环境对组织形式的塑造作用。这一阶段的标志性成果是与 Brian Rowan 合作的 "Institutionalized Organizations: Formal Structure as Myth and Ceremony" (1977)，提出组织的正式结构反映制度环境中的"理性神话"而非技术效率需求
+- 1997 年 Meyer, Boli, Thomas & Ramirez 在 *American Journal of Sociology* 发表 "World Society and the Nation-State"，标志世界社会理论的系统阐述——论证民族国家的制度形式（如宪法、教育系统、公民身份概念）在全球范围内趋同，这种趋同无法由国家利益或功能性需求解释。这篇文章将分析层次从组织提升到世界层面（Zapp, 2022, p.145）
+- 2000 年 Meyer & Jepperson 在 *Sociological Theory* 提出 [[Otherhood]] 概念，完善了世界社会理论中"能动者"的文化建构理论——论证现代社会中的"能动者"本身就是一种文化建构，otherhood 是这种建构的核心运作机制（Zapp, 2022, p.149）
+
+### 组织研究应用与高等教育扩展
+
+- 2015 年 Bromley & Meyer 在 *Hyper-Organization* 中发展 [[Organizational Actorhood]] 理论，提出四维度模型（自主性、目标导向、问责性、社会嵌入性），将世界社会理论延伸至全球组织扩张的分析（Zapp, 2022, p.148）
+- 2020 年 Frank & Meyer 在 *The University and the Global Knowledge Society* 将世界社会理论系统应用于大学分析，论证大学——尤其是现代"超级研究型大学"——是全球知识社会的核心制度（Zapp, 2022, p.143）
+- Zapp (2020a, 2020b, 2022) 将世界社会理论中的 otherhood 概念应用于分析国际组织和大学在全球治理中的知识行动者角色，以 SDGs 为案例展示了大学通过四种机制嵌入全球治理，详见 [[Argument_Zapp_2022_Springer]]（Zapp, 2022, pp.148–154）
 
 ---
 ## 认识论立场
