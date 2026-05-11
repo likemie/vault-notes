@@ -128,7 +128,7 @@ Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——
 - 诺贝尔奖得主被当作"国家骄傲"来庆祝（Baram-Tsabari & Segev, 2018）
 - 总统国事访问的行程中，大学取代了军事基地成为重要的"打卡点"
 - 各国推出"卓越计划"（excellence initiatives）和大规模研究资助来提升本国科学和创新系统（Zapp et al., 2018）
-- 建设 [[International Education Hubs|"教育枢纽"]]（education hubs）、"知识村""智慧城市"和"技术极"（technopoles）以吸引外国人才和资本（Knight, 2018; Moisio, 2018）
+- 建设 [[International Education Hubs|"国际教育枢纽"]]、"知识村""智慧城市"和"技术极"（technopoles）以吸引外国人才和资本（Knight, 2018; Moisio, 2018）
 - 高等教育是世界贸易组织（World Trade Organization, WTO）《服务贸易总协定》（General Agreement on Trade in Services, GATS）中被最频繁纳入的行业（WTO, 2020），详见 [[GATS and Trade in Education Services]]
 - 二十国集团（G20）开始实施研究计分卡评估各国研究系统表现（Web of Science Group, 2019）
 

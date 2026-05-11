@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/persons/Jane Knight.md",
+                "file": "wiki/arguments/Argument_Zapp_2022_Springer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jane Knight"
+              "title": "Argument_Zapp_2022_Springer"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:education-hubs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,40 +187,39 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "375cc78b5e25ff42",
+  "active": "7e2fcbcd227ff4e2",
   "lastOpenFiles": [
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch9_Zapp_2022.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch9_Zapp_2022.pdf",
+    "wiki/concepts/Direct Instruction.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md",
+    "wiki/arguments/Argument_Boyadjieva_2022_Springer.md",
+    "wiki/arguments/Argument_Nielsen_2021_NordPsych.md",
+    "wiki/theories/World Society Theory.md",
     "wiki/arguments/Argument_Zapp_2022_Springer.md",
+    "wiki/concepts/Evidence-Based Education.md",
+    "wiki/persons/Sami Moisio.md",
+    "wiki/persons/Jane Knight.md",
+    "wiki/concepts/International Education Hubs.md",
     "wiki/facts/global/THE Impact Ranking 2019.md",
     "wiki/facts/global/UN Sustainable Development Goals 2015.md",
     "wiki/persons/Ellen Hazelkorn.md",
     "wiki/persons/John W. Meyer.md",
-    "wiki/persons/Sami Moisio.md",
-    "wiki/persons/Jane Knight.md",
     "wiki/concepts/Geopolitics of Knowledge.md",
-    "wiki/theories/World Society Theory.md",
-    "wiki/concepts/Evidence-Based Education.md",
     "wiki/concepts/University Social Responsibility.md",
     "wiki/concepts/Global Universities Rankings.md",
     "wiki/concepts/Organizational Actorhood.md",
     "wiki/concepts/Knowledge-Based Economy.md",
     "wiki/concepts/Epistemic Governance.md",
     "wiki/concepts/Otherhood.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch9_Zapp_2022.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch9_Zapp_2022.pdf",
     "wiki/theories/Decolonial Geopolitics of Knowledge.md",
     "raw/marginson-2025-space-power-and-globalization-on-the-geopolitics-of-higher-education.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md",
     "wiki/theories/Critical Geopolitics.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.pdf",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md",
     "raw/Parreira do Amaral(Ed.)_2022_Springer_第9章.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer.pdf",
-    "wiki/facts/us/University of Kentucky Top-20 Plan.md",
     "raw/978-3-030-94415-5_9.pdf",
-    "wiki/concepts/Social Charter.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md",
-    "wiki/persons/Francisco Varela.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch7_Delambre_2022.pdf",
     "raw/Parreira do Amaral(Ed.)_2022_Springer_第8章.pdf",
     "raw/978-3-030-94415-5_8.pdf",
