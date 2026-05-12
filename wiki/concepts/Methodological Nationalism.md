@@ -3,7 +3,7 @@ title: Methodological Nationalism
 aliases: [方法论民族主义]
 type: concept
 tags: [region/global, theme/geopolitics, level/higher-ed]
-related_concepts: ["[[Sovereign Internationalism]]", "[[Radical Liberal Internationalism]]", "[[Multiplicity (Massey)]]"]
+related_concepts: ["[[Sovereign Internationalism]]", "[[Radical Liberal Internationalism]]", "[[Multiplicity (Massey)]]", "[[Methodological Globalism]]", "[[Scale in Higher Education]]"]
 related_theories: ["[[World-Systems Theory]]"]
 related_persons: ["[[Doreen Massey]]"]
 sources: ["[[Marginson_2025_ROE]]"]

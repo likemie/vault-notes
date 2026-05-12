@@ -9,6 +9,7 @@ tags:
   - field/higher-education
 related_concepts:
   - "[[Multiplicity (Massey)]]"
+  - "[[Power-Geometries]]"
   - "[[Space-Making in Higher Education]]"
   - "[[Methodological Nationalism]]"
 related_theories: []

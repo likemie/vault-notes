@@ -3,8 +3,8 @@ title: World-Systems Theory
 aliases: [世界体系理论, center-periphery model]
 type: theory
 tags: [region/global, theme/geopolitics, theory/political-economy]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Capitalism]]"]
-related_theories: []
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Capitalism]]", "[[Methodological Globalism]]", "[[Semi-Autonomy of Higher Education]]"]
+related_theories: ["[[Hegemony]]"]
 related_persons: []
 sources: ["[[Marginson_2025_ROE]]"]
 confidence: medium
