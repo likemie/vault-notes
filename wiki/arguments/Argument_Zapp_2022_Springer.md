@@ -44,7 +44,7 @@ updated: 2026-05-12
 > [!info]
 > 本章为理论-概念讨论（conceptual discussion），非实证研究。
 > - 方法：文献综述、概念分析、二次数据分析
-> - 数据来源：Zapp 整合了自身此前发表的多项实证研究作为论据——包括 Zapp (2017b) 对 1325+ 个国际组织 1970–2017 年科学产出与大学合作关系的分析、Zapp (2020a) 对 1947–2019 年逾 100 份国际组织全球报告的引用分析、Zapp & Lerch (2020) 对全球近 465,000 个学位项目的国际取向分析。此外还使用了 Corporate Register (2019) 的 CSR 报告目录和 Global Reporting Initiative (2019) 的可持续发展披露数据库
+> - 数据来源：Zapp 整合了自身此前发表的多项实证研究作为论据——包括 Zapp (2017b) 对 1325+ 个国际组织 1970–2017 年科学产出与大学合作关系的分析、Zapp (2020a) 对 1947–2019 年逾 100 份国际组织全球报告的引用分析、Zapp & Lerch (2020) 对全球近 465,000 个学位项目的国际取向分析。此外还使用了 Corporate Register (2019) 的企业社会责任（Corporate Social Responsibility, CSR）报告目录和 Global Reporting Initiative (2019) 的可持续发展披露数据库
 
 ---
 ## 论证结构
@@ -55,7 +55,7 @@ updated: 2026-05-12
 
 Zapp 的论证起点是一个"缺席的在场"：自 1990 年代末以来，"全球知识经济"（[[Knowledge-Based Economy|global knowledge economy]]）话语无处不在——媒体、政策制定者、国际组织都在说：知识是二十一世纪经济的核心驱动力，而大学是生产知识的"超级工厂"（p.143）。但 Zapp 指出，**这个经济叙事有一个盲区：它只看到大学为经济服务（培养人力资本、产生专利、驱动创新），却没有看到大学同时也在经历一场政治性的身份转型**——大学正在悄悄地变成全球治理的行动者（p.143）。
 
-> 例：想象一个典型的政策讨论场景：政府投资建设"大学科技园"、OECD 发布"教育概览"比较各国高教投入、世界银行说"知识投资比物理投资更重要"。在这些讨论里，大学被框定为"经济引擎"。但 Zapp 追问：大学除了帮国家赚钱，还在帮谁做事？他的答案是——大学正在帮"全世界"解决没有国界的问题：气候变化、传染病、贫困、不平等。
+> 例：想象一个典型的政策讨论场景：政府投资建设"大学科技园"、经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）发布"教育概览"比较各国高教投入、世界银行说"知识投资比物理投资更重要"。在这些讨论里，大学被框定为"经济引擎"。但 Zapp 追问：大学除了帮国家赚钱，还在帮谁做事？他的答案是——大学正在帮"全世界"解决没有国界的问题：气候变化、传染病、贫困、不平等。
 
 ### 第二步：全球治理研究的知识转向
 
@@ -73,7 +73,7 @@ Zapp 的论证起点是一个"缺席的在场"：自 1990 年代末以来，"全
 
 Zapp 论证大学经历了两个层次的身份变化（pp.147–149）：
 
-**第一层：从"特定组织"到"完全组织"**。传统欧洲大学像政府的一个科室——目标由上级定、资源由上级拨、不对外负责。但现在，大学越来越像一个独立的法人：自己定使命（自主性）、自己设 KPI（目标导向）、对外接受评估和排名（问责性）、主动对接社区和全球议题（社会嵌入性）。这四个特征构成了 **[[Organizational Actorhood]]**（组织能动者身份）（Bromley & Meyer, 2015）。
+**第一层：从"特定组织"到"完全组织"**。传统欧洲大学像政府的一个科室——目标由上级定、资源由上级拨、不对外负责。但现在，大学越来越像一个独立的法人：自己定使命（自主性）、自己设关键绩效指标（Key Performance Indicators, KPI）（目标导向）、对外接受评估和排名（问责性）、主动对接社区和全球议题（社会嵌入性）。这四个特征构成了 **[[Organizational Actorhood]]**（组织能动者身份）（Bromley & Meyer, 2015）。
 
 > 例：一个传统大学和现代大学的对比——传统教授："我的研究由好奇心驱动，不需要向任何人解释。"现代大学管理者："我们制定了五年战略规划，目标是在 THE 排名中进入前 100，为此我们需要提升研究影响力、扩大国际学生比例、并发布年度社会责任报告。"
 
@@ -97,7 +97,7 @@ Zapp 论证大学经历了两个层次的身份变化（pp.147–149）：
 
 > 例：想象一个循环——联合国教科文组织（UNESCO）发布一份关于"全球教育不平等"的报告，引用了 3000 篇学术论文，然后各国教育部长根据这份报告制定政策，大学的经费因此流向"教育不平等"研究，更多论文被产出，再被下一份 UNESCO 报告引用……知识就在这个循环中同时充当了治理的工具和治理的对象。
 
-**机制二：教学对齐（Aligning Teaching）**。大学用课程和学位项目培养全球治理的专业人才。Zapp 列举了丰富的案例：Oxford 开设 MSc in Global Governance and Diplomacy，Copenhagen 开设 MSc in Climate Change，KTH 开设 MA in Sustainable Technology，Manchester 提供关于发展中国家水供应与卫生政策的 MOOCs 和 Global Health and Humanitarianism 课程，Bologna 大学报告 1174 个与 SDGs 相关的课程单元，McMaster 开设全球卫生博士项目，Gothenburg 开设"从研究到政策促进可持续发展"跨学科博士项目（pp.151–152）。
+**机制二：教学对齐（Aligning Teaching）**。大学用课程和学位项目培养全球治理的专业人才。Zapp 列举了丰富的案例：Oxford 开设 MSc in Global Governance and Diplomacy，Copenhagen 开设 MSc in Climate Change，KTH 开设 MA in Sustainable Technology，Manchester 提供关于发展中国家水供应与卫生政策的大规模开放在线课程（Massive Open Online Courses, MOOCs）和 Global Health and Humanitarianism 课程，Bologna 大学报告 1174 个与 SDGs 相关的课程单元，McMaster 开设全球卫生博士项目，Gothenburg 开设"从研究到政策促进可持续发展"跨学科博士项目（pp.151–152）。
 
 在宏观层面，Zapp & Lerch (2020) 分析全球近 465,000 个学位项目，发现超过 22,451 个明确具有国际取向——国际商务、比较法、全球发展、跨文化教育等。这不是零星的个别现象，而是全球高等教育教学的结构性转型。
 
@@ -105,7 +105,7 @@ Zapp 论证大学经历了两个层次的身份变化（pp.147–149）：
 
 **机制三：内部政策对齐（Aligning Internal Policies）**。大学不仅对外声称支持 SDGs，也在内部落实。Zapp 发现了 [[University Social Responsibility|大学社会责任]]（USR）的制度化趋势——Corporate Register (2019) 和全球报告倡议组织（Global Reporting Initiative, GRI） (2019) 的数据库共列出全球 200+ 所大学的企业社会责任（Corporate Social Responsibility, CSR）报告，其中大多数在过去 5 年内首次发布（Fig. 9.1）。大学校园正被改造为"活实验室"和"可持续发展试验台"——涵盖能源、水、交通、废物和食品的全系统可持续管理，并通过专门的办公室和组织单元实现正式制度化（pp.152–153）。
 
-> 例：这类似于企业从"我们合规了"到"我们在做 ESG 报告"的转变。一所大学不再只说"我们有化学实验室"，而是说"我们的化学实验室实现了零碳排放，使用的能源 100% 来自校园太阳能板，相关数据已在年度可持续发展报告中披露"。Zapp 用 Fig. 9.1 展示这种转变的加速：1990 年几乎没有大学发布 CSR 报告，到 2020 年超过 150 所——指数级增长。
+> 例：这类似于企业从"我们合规了"到"我们在做环境、社会和治理（Environmental, Social and Governance, ESG）报告"的转变。一所大学不再只说"我们有化学实验室"，而是说"我们的化学实验室实现了零碳排放，使用的能源 100% 来自校园太阳能板，相关数据已在年度可持续发展报告中披露"。Zapp 用 Fig. 9.1 展示这种转变的加速：1990 年几乎没有大学发布 CSR 报告，到 2020 年超过 150 所——指数级增长。
 
 **机制四：网络对齐（Aligning Networks）**。大学组建"元组织"（meta-organizations，即以组织为成员的组织）来联合应对全球问题。Brankovic (2018) 追溯发现 185 个此类协会，大多数在过去二十年成立（p.153）。在 SDG 领域，联合国可持续发展解决方案网络（UN Sustainable Development Solutions Network, UN SDSN）将大学、政府机构、研究机构和国际组织与非政府组织（International and Non-Governmental Organizations, I(N)GOs）聚集在一起开发和推广 SD 政策。国际大学协会（International Association of Universities, IAU）主办"高等教育与研究促进可持续发展"（Higher Education and Research for Sustainable Development, HEA-RSD）倡议，其 Iquitos Statement 详细说明大学如何为 SDGs 做贡献（pp.153–154）。
 
@@ -132,7 +132,7 @@ Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——
 - 高等教育是世界贸易组织（World Trade Organization, WTO）《服务贸易总协定》（General Agreement on Trade in Services, GATS）中被最频繁纳入的行业（WTO, 2020），详见 [[GATS and Trade in Education Services]]
 - 二十国集团（G20）开始实施研究计分卡评估各国研究系统表现（Web of Science Group, 2019）
 
-> 例：想象一个场景——一所大学的研究者在国际期刊上发表了一篇关于 AI 的论文，这篇论文被硅谷公司用来开发新产品，同时也被另一国政府视为"我们需要赶上"的信号。该国随即推出"AI 卓越计划"，投入数十亿美元，同时限制本国 AI 人才出境，并加强对来自竞争对手国家的研究生的签证审查。一篇纯粹的知识论文，就这样被卷入了地缘政治的漩涡。[[Sami Moisio|Moisio]] & Kangas (2016) 说得更尖锐：所谓的"国际化"和"全球性"的知识空间——包括大学——往往掩盖了城市、区域、国家和超国家实体持有者的领土主张和市场利益（参见 [[Geopolitics of Knowledge]]）。
+> 例：想象一个场景——一所大学的研究者在国际期刊上发表了一篇关于人工智能（Artificial Intelligence, AI）的论文，这篇论文被硅谷公司用来开发新产品，同时也被另一国政府视为"我们需要赶上"的信号。该国随即推出"AI 卓越计划"，投入数十亿美元，同时限制本国 AI 人才出境，并加强对来自竞争对手国家的研究生的签证审查。一篇纯粹的知识论文，就这样被卷入了地缘政治的漩涡。[[Sami Moisio|Moisio]] & Kangas (2016) 说得更尖锐：所谓的"国际化"和"全球性"的知识空间——包括大学——往往掩盖了城市、区域、国家和超国家实体持有者的领土主张和市场利益（参见 [[Geopolitics of Knowledge]]）。
 
 ### 第六步：结论——大学必须从"追随者"变成"塑造者"
 
