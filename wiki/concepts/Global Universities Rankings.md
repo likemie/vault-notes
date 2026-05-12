@@ -3,12 +3,12 @@ title: Global Universities Rankings
 aliases: ["全球大学排名", "university rankings", "global rankings", "league tables", "global university rankings", "University Rankings (Global)"]
 type: concept
 tags: [university-rankings, higher-education, geopolitics, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Global Education Industry (GEI)]]", "[[Internationalization of Higher Education]]", "[[Social Charter]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Global Education Industry (GEI)]]", "[[Internationalization of Higher Education]]", "[[Social Charter]]", "[[Space-Making in Higher Education]]"]
 related_theories: []
 related_persons: ["[[Ellen Hazelkorn]]", "[[Pepka Boyadjieva]]", "[[Simon Marginson]]", "[[Philip Altbach]]"]
 related_facts: ["[[Academic Ranking of World Universities (ARWU)]]", "[[OECD AHELO Project]]", "[[THE Impact Ranking 2019]]"]
 related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]", "[[Argument_Zapp_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md", "[[Ch9_Zapp_2022]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md", "[[Ch9_Zapp_2022]]", "[[Marginson_2025_ROE]]"]
 confidence: medium
 status: draft
 created: 2026-05-11
@@ -88,6 +88,14 @@ updated: 2026-05-12
 - **作为合法化不平等的工具**：排名"确认、巩固和再生产高等教育的声望和权力"（Marginson, 2009, p.600, cited in Boyadjieva, 2022, p.132），"将资源差异和全球知识生产的不均衡合法化"（Hazelkorn, 2018, p.18, cited in Boyadjieva, 2022, p.134）
 - **作为市场式竞争的驱动者**：排名驱动"高等教育中的市场式竞争"（Marginson, 2014, p.47, cited in Boyadjieva, 2022, p.132），将高等教育从"以地方或次国家范围的、以社会为主的机构"转变为"经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16, cited in Boyadjieva, 2022, p.138）
 - **作为不对等起点**：排名"巩固了领先大学享有的优势……后来者、新兴大学和国家难以打入。排名对竞争中的大学并不'公平'——出发位置明显不对等"（Marginson, 2014, p.46, cited in Boyadjieva, 2022, p.135）
+
+### 排名作为空间制造
+
+Marginson（2025）将全球大学排名的创建定位为高等教育空间制造的典型案例。2002/2003 年，一位中国大学规划者和一家伦敦杂志构想了一个以校准绩效排名来排序的大学世界——ARWU 由此诞生。这一构想结合了：（a）物质元素（既有研究产出数据、大学声誉层级）；（b）空间想象（一个可比较、可竞争的全球大学市场）；（c）社会实践（数据收集、指标加权和年度排名发布），将一种特定版本的"世界一流大学"想象固化为全球制度现实（Marginson, 2025, pp. 4–5）。
+
+### 排名与国际教育的循环效应
+
+Marginson（2025）以澳大利亚为案例揭示了排名与国际学生市场之间的自我强化循环：澳大利亚大学以国际学生费用资助了约四分之一的大学科研，提升了研究产出和排名；排名的提升又强化了其在全球学生市场中的招生吸引力，从而维持了费用收入和排名位置。"全球排名维持了澳大利亚在全球学生市场中的招生，这又维持了排名——一种循环效应"（Marginson, 2025, p. 19）。2019 年，人口仅 2500 万的澳大利亚有 7 所大学进入 ARWU 前 100 名，高引用论文比例与英国持平（Marginson, 2025, p. 19）。
 
 ---
 

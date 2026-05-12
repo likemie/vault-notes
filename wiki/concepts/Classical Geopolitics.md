@@ -15,14 +15,18 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[Knowledge Transfer]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Multiplicity (Massey)]]"
+  - "[[Space-Making in Higher Education]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
   - "[[Critical Geopolitics]]"
+  - "[[World-Systems Theory]]"
 related_persons:
   - "[[Sami Moisio]]"
   - "[[Marcelo Parreira do Amaral]]"
   - "[[James Partaken]]"
   - "[[Fazal Rizvi]]"
+  - "[[Doreen Massey]]"
 related_facts:
   - "[[Sino-American Trade War (2018)]]"
 related_methods: []
@@ -32,10 +36,11 @@ sources:
   - books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md
   - "[[Ch5_Partaken_2022]]"
   - books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md
+  - "[[Marginson_2025_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-07
-updated: 2026-05-10
+updated: 2026-05-12
 ---
 
 ## 定义
@@ -52,6 +57,7 @@ updated: 2026-05-10
 > [!example]
 > - vs [[Geopolitics of Knowledge]]：古典地缘政治以领土控制、自然资源和军事战略为中心，源自十九至二十世纪工业时代的政治特征——"领土和自然资源的控制是国家间竞争的关键维度和国民财富与地位的根本构成要素"（Moisio, 2022, p.26）。知识地缘政治则关注关系性空间构型，其中政治想象、全球连接性和知识经济化构成核心维度，不限于领土性框架
 > - vs 关系性地缘政治（Relational Geopolitics）：古典地缘政治视空间为天然预设的领土容器；关系性地缘政治则将空间理解为通过社会空间关系网络构成的——"空间性不限于领土性"（Kuus, 2017, p.5）——资金、人才和思想的流动通过政治行动被持续再领土化（Moisio, 2022, pp.26–27）
+- vs [[Multiplicity (Massey)|Massey 的多重性地缘政治]]：Marginson（2025）以 Massey（2005）的关系性空间理论重新定义地缘政治为"区域和全球尺度上制度化的权力关系"，强调地缘政治不仅包含竞争与等级，也包含合作与水平性——可以是双赢也可以是零和。高等教育中的地缘政治关系，尤其在科学领域，比政治、经济和军事关系更具合作性（Marginson, 2025, p. 11）
 > - vs [[Critical Geopolitics]]：古典地缘政治是批判地缘政治学的批判对象——后者揭示前者的"领土偏见"及其与殖民主义、民族主义暴力的历史纠缠。详见 [[Critical Geopolitics#发展脉络]]
 
 ---

@@ -51,6 +51,7 @@
 - [[Network Governance in Education]] — 传统市场/科层制公立学校治理被网络与部落形式取代，Thompson (1991) 为理论框架，新西兰自 2008 年加速发展
 - [[Policy Entrepreneur]] — Mintrom (2000) 和 Ball (2012) 概念：在教育系统内外通过协作和网络化影响政策发展的行动者，John Hattie 为新西兰典型
 - [[Progressive Neoliberalism]] — Nancy Fraser (2019) 概念：新自由主义经济政策与进步社会议程的话语结合，Moisio (2022) 定位为过去三十年知识经济化的主要政治推力（"硅谷世界观"），正在消退
+- [[Radical Liberal Internationalism]] — Sakwa (2023) 的概念：冷战后取代主权国际主义的自由反多元立场，以美国例外论和英美"基于规则的秩序"为形态，支持干预主义和政权更迭
 - [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念：超国家或国际组织通过指标、排名等监管机制对区域内高等教育进行间接治理的模式
 - [[Classical Geopolitics]] — Moisio (2022) 概念：以国家"硬"领土力量和势力范围为中心的传统地缘政治理解，与知识地缘政治的关系性空间构型形成对照
 - [[Concealment-Exposure Framework]] — Nagel (1998) 提出、Partaken 提升至 GPK 的分析框架：隐藏与暴露的边界控制是人性核心属性，在 GPK 中体现为监视、审查和破坏三种运作模式
@@ -59,8 +60,11 @@
 - [[Geopolitical Subject]] — Moisio (2022) 的概念：从政治权力角度被装备上特定技能、行为、取向和空间心态的人形集合，在高等教育空间中被形塑以服务于全球竞争
 - [[Hub and Flow Imaginaries]] — Moisio (2022) 的概念：知识经济化中的核心空间想象类型，将世界划分为枢纽中心与边缘区域，集群、创意城市、创业城市等为其空间表述
 - [[Mondialisation]] — Weil/Supiot (2019) 基于 Decroly (1929) 恢复的替代全球化概念：以"星球的普世性"和对生命多元形式的尊重为核心，与 market-driven 的 globalisation 形成对抗，与 Escobar 的 pluriverse 并置
+- [[Methodological Nationalism]] — Wimmer & Schiller (2003) 的概念：认为民族国家是现代世界自然社会和政治形式的信念，遮蔽全球现象和多重尺度，Massey 批判其为"对连贯国族性的浪漫幻想"
+- [[Multiplicity (Massey)]] — Doreen Massey (2005) 的空间理论核心概念：空间中差异的共存，多重轨迹交汇产生不可预测性，"总是有松散的末端"意味着任何权力系统都无法永久固定
 - [[Orientalism]] — Said (1983) 的概念：殖民者通过知识生产建构对被殖民者的"东方化"想象，Rizvi (2022) 将其应用于分析当代 HE 国际化中西方教育优越性的隐性再生产
 - [[Spatial Sortings]] — Moisio (2022) 的概念：知识密集型资本主义系统性地将地点和人口划分为"赢家"与"输家"的过程，由公共和私人投资驱动、国家中介
+- [[Sovereign Internationalism]] — Sakwa (2023) 的概念：1945 年联合国宪章体系核心理念，世界作为多元空间容忍文明差异和政治制度多样性，尊重不干涉原则
 - [[Transitology]] — Cowen (1996, 2000) 的比较教育概念：国家机器、社会分层体系和政治愿景的同时性崩溃与重建，教育在其中被赋予象征性和重构性角色，Amos (2022) 用于分析晚期现代教育的市场中心转向
 
 ### Curriculum
@@ -127,6 +131,7 @@
 - [[Academic and Social Integration]] — Vincent Tinto (1993) 的学生发展理论：大学生须经分离-转折-习得三阶段融入大学学术与社交环境，郑雅君 (2023) 作为"投入过程"的理论基础
 - [[Academic Engagement]] — 学业投入：学生向学术性教育活动投入的时间精力，Tinto 学业融入与 Kuh 学生投入的交叉维度，郑雅君 (2023) 作为"投入过程"的两大分析轴之一
 - [[Credential Inflation]] — Randall Collins (1979) 的概念：大学文凭作为交换职业地位的通货在市场上发生萎缩，中国扩招后从 84.8 万（1999）升至 753.3 万毕业生（2018）
+- [[Double Spatiality of Universities]] — 大学的双重空间特征：同时扎根于具体的城市与国家，又通过学术流动和开放心智视野跨越边界，贯穿从佛教寺院到现代大学的高等教育史
 - [[Cultural Barrier in Higher Education]] — 郑雅君 (2023) 的概念：因不具备精英大学中默认掌握的文化知识和文化技能而造成的无形障碍，不利于低阶层大学生获取向上流动机会和主观自我认同
 - [[Cultural Disembedding]] — 郑雅君 (2023) 的概念：寒门学子进入精英大学后对物理环境和社会文化环境的全面疏离感，是文化障碍的第一重维度
 - [[Cultural Disorientation]] — 郑雅君 (2023) 的概念：寒门学子升入名校后场域转换造成内在自我冲突和目标策略迷失，是文化障碍的第二重维度

@@ -8,12 +8,12 @@ related_theories: ["[[Critical Geopolitics]]", "[[Network Society]]"]
 related_methods: []
 related_persons: ["[[Fazal Rizvi]]"]
 related_facts: ["[[GATS and Trade in Education Services]]", "[[Australia in the Asian Century White Paper 2012]]"]
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
+related_arguments: ["[[Argument_Rizvi_2022_Springer]]", "[[Argument_Marginson_2025_ROE]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md", "[[Marginson_2025_ROE]]"]
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Internationalization of Higher Education
@@ -37,6 +37,20 @@ updated: 2026-05-11
 > [!note]- 理性演变
 > - **发展主义阶段（早期）**：国际化的理性基于现代化、能力建设、国际理解——高等教育被赋予促进发展中国家制度建设和跨文化理解的使命（Rizvi, 2022, pp.96–97）
 > - **市场理性阶段（当代）**：国际化转向收入创造、机构声誉和市场份额竞争——国际学生被视为商品和收入来源，催生了庞大的国际教育中介产业（Rizvi, 2022, pp.96–97）
+
+### 全球地缘政治的两阶段演变
+
+Marginson（2025）从空间和地缘政治角度将高等教育的全球国际化分为两个历史阶段（Marginson, 2025, pp. 15–32）：
+
+**1990–2015：美国主导的霸权式全球化**
+- 在苏联解体后，美国以军事优势为后盾推行全球性政治-经济-文化霸权。英语大学在扩展中的全球高等教育空间中占据优势——在东亚/东南亚设立分校、建立合作联盟和研究链接、吸引国际学生和博士人才
+- 这一时期的"国际化"在很大程度上意味着西方化（Marginson, 2023），由一种规范性的普世主义话语正当化。英国、澳大利亚和新西兰的大学建设了大规模的国际化教育商业产业
+- 但在此表面的同质化之下，新加坡、中国、韩国、法国和北欧国家等也在采取全球性举措——"国际化"的实践远非单一（Marginson, 2025, pp. 15–17）
+
+**2015 至今：部分去全球化与西方反弹**
+- 西方对跨境连接的反弹表现为：规范国际主义和世界主义让位于单一国家认同论、多边主义削弱、本土主义反移民（包括跨境学生流动）
+- 美国推动的中美在政治经济-技术-科学-大学领域关系的部分破裂，标志着"国际化"作为共享规范性框架的终结
+- Marginson 指出这一反弹的深层根源在于：（a）殖民秩序的侵蚀和全球多重性的增长——包括中国和全球南方的崛起；（b）新自由主义导致的欧美人口贫困化，催生了民粹政治（Marginson, 2025, pp. 22–23）
 
 ## 核心要素
 
