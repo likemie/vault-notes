@@ -61,7 +61,9 @@
 - [[Hub and Flow Imaginaries]] — Moisio (2022) 的概念：知识经济化中的核心空间想象类型，将世界划分为枢纽中心与边缘区域，集群、创意城市、创业城市等为其空间表述
 - [[Mondialisation]] — Weil/Supiot (2019) 基于 Decroly (1929) 恢复的替代全球化概念：以"星球的普世性"和对生命多元形式的尊重为核心，与 market-driven 的 globalisation 形成对抗，与 Escobar 的 pluriverse 并置
 - [[Methodological Nationalism]] — Wimmer & Schiller (2003) 的概念：认为民族国家是现代世界自然社会和政治形式的信念，遮蔽全球现象和多重尺度，Massey 批判其为"对连贯国族性的浪漫幻想"
+- [[Methodological Globalism]] — Marginson (2025) 提出的方法论民族主义的镜像概念：认为国家尺度完全由全球尺度决定，Wallerstein 世界体系理论为其典型案例，否定了高等教育的半自主演化能力
 - [[Multiplicity (Massey)]] — Doreen Massey (2005) 的空间理论核心概念：空间中差异的共存，多重轨迹交汇产生不可预测性，"总是有松散的末端"意味着任何权力系统都无法永久固定
+- [[Power-Geometries]] — Doreen Massey (2005) 的空间理论核心概念：空间中的开放、封闭和互联不是中立的，而是通过社会关系被不平等地建构，英美大学既是全球知识枢纽也是全球不平等制造者
 - [[Orientalism]] — Said (1983) 的概念：殖民者通过知识生产建构对被殖民者的"东方化"想象，Rizvi (2022) 将其应用于分析当代 HE 国际化中西方教育优越性的隐性再生产
 - [[Spatial Sortings]] — Moisio (2022) 的概念：知识密集型资本主义系统性地将地点和人口划分为"赢家"与"输家"的过程，由公共和私人投资驱动、国家中介
 - [[Sovereign Internationalism]] — Sakwa (2023) 的概念：1945 年联合国宪章体系核心理念，世界作为多元空间容忍文明差异和政治制度多样性，尊重不干涉原则
@@ -155,6 +157,8 @@
 - [[Self-Driven Mode]] — 郑雅君 (2023) 的类型：目标掌控模式+强价值信念=自主驱动者，既有策略能力又有深层意义感支撑，自主设定精英生涯目标
 - [[Social Charter]] — Meyer (1970) 的概念：大学与社会之间不成文的约定，规定毕业生获得的社会地位，完全独立于教学效果，排名无法捕捉这一制度维度
 - [[Space-Making in Higher Education]] — Marginson (2025) 基于 Lefebvre 和 Massey 发展的分析框架：高等教育社会空间由物质结构、空间想象和社会实践三层机制共同制造
+- [[Scale in Higher Education]] — 尺度的关系性分析：七层不可化约的活跃尺度（世界-全球-泛国家区域-国家-次国家-地方-个体），尺度不是俄罗斯套娃，"国家科学 vs 全球科学"的对比提供了关键证据
+- [[Semi-Autonomy of Higher Education]] — Gramsci 霸权理论的推论：科学和高等教育相对于国家和经济具有部分自主性，既被政治经济塑造又按自身认识论逻辑演化，2018-2024 中美科学合作在政治紧张中持续是其经验证据
 - [[Social Engagement]] — 社会性投入：学生向人际互动、课外活动和职业探索投入的时间精力，与学业投入并列作为 Zheng "投入过程"的两大分析轴
 - [[Student Engagement]] — George Kuh (1991) 的概念：学生向学校教育性实践活动中投入的时间精力越多越可能产出积极教育结果，与 Astin 学生涉入理论异曲同工，郑雅君 (2023) 作为"投入过程"的理论基础
 - [[Student Involvement]] — Alexander Astin (1984) 的概念：学生投入的生理和心理能量的数量和质量，五条涉入公理为 Kuh 学生投入理论的前身
@@ -282,6 +286,7 @@
 - [[Critical Geopolitics]] — 1990s 以来人文地理学批判转向：空间性≠领土性，地缘政治通过政治想象和话语被建构，Moisio (2022) 将其应用于知识经济化，Parreira do Amaral (2022) 将其作为新知识地缘政治的两大分析支柱之一
 - [[Fixity-Motion Tension]] — David Harvey (1985/2001) 的资本主义地缘政治核心理论：资本主义需要创造空间固着来促进资本流通，但流通又不断破坏既有空间配置，Moisio (2022) 将其应用于知识经济化分析
 - [[World-Systems Theory]] — Immanuel Wallerstein (1974) 的中心-边缘-半边缘三层全球空间理论，零和剩余假设，Marginson (2025) 以过去三十年高等教育和科学的多国同时进步论证其刚性空间性的失败
+- [[Hegemony]] — Antonio Gramsci (1971) 的权力理论：区分强制与霸权（通过法律、教育、媒体、科学、大学等文化制度赢得被统治者积极同意），文化部门的半自主性和知识分子的双重角色是高等教育地缘政治分析的核心工具
 
 ### Political Science & Policy Studies
 
