@@ -154,6 +154,7 @@
 - [[Self-Authorship]] — Baxter Magolda 的概念：个体根据内在声音和核心价值观主导认知发展、自我认同和人际关系，郑雅君 (2023) 作为目标掌控模式的理论灵感之一
 - [[Self-Driven Mode]] — 郑雅君 (2023) 的类型：目标掌控模式+强价值信念=自主驱动者，既有策略能力又有深层意义感支撑，自主设定精英生涯目标
 - [[Social Charter]] — Meyer (1970) 的概念：大学与社会之间不成文的约定，规定毕业生获得的社会地位，完全独立于教学效果，排名无法捕捉这一制度维度
+- [[Space-Making in Higher Education]] — Marginson (2025) 基于 Lefebvre 和 Massey 发展的分析框架：高等教育社会空间由物质结构、空间想象和社会实践三层机制共同制造
 - [[Social Engagement]] — 社会性投入：学生向人际互动、课外活动和职业探索投入的时间精力，与学业投入并列作为 Zheng "投入过程"的两大分析轴
 - [[Student Engagement]] — George Kuh (1991) 的概念：学生向学校教育性实践活动中投入的时间精力越多越可能产出积极教育结果，与 Astin 学生涉入理论异曲同工，郑雅君 (2023) 作为"投入过程"的理论基础
 - [[Student Involvement]] — Alexander Astin (1984) 的概念：学生投入的生理和心理能量的数量和质量，五条涉入公理为 Kuh 学生投入理论的前身
@@ -280,6 +281,7 @@
 
 - [[Critical Geopolitics]] — 1990s 以来人文地理学批判转向：空间性≠领土性，地缘政治通过政治想象和话语被建构，Moisio (2022) 将其应用于知识经济化，Parreira do Amaral (2022) 将其作为新知识地缘政治的两大分析支柱之一
 - [[Fixity-Motion Tension]] — David Harvey (1985/2001) 的资本主义地缘政治核心理论：资本主义需要创造空间固着来促进资本流通，但流通又不断破坏既有空间配置，Moisio (2022) 将其应用于知识经济化分析
+- [[World-Systems Theory]] — Immanuel Wallerstein (1974) 的中心-边缘-半边缘三层全球空间理论，零和剩余假设，Marginson (2025) 以过去三十年高等教育和科学的多国同时进步论证其刚性空间性的失败
 
 ### Political Science & Policy Studies
 
@@ -685,6 +687,7 @@
 - [[Robert Cowen]] — 英国比较教育学者，transitology 概念和现代／晚期现代教育双轴比较模型的原创者，对教育与社会转型关系的理论化有重要影响
 - [[Gerald Grace]] — 伦敦大学教育学者，前惠灵顿维多利亚大学教育学系主任，"Critic and Conscience of Society"概念的原创者（1988），后写入新西兰大学立法
 - [[Christopher Day]] — 英国教育研究者，ISSPP 项目创始人和领导者，构建了 20+ 国的成功学校领导力跨国知识基础
+- [[Doreen Massey]] — 英国人文地理学家（1944–2016），关系性空间理论创始人，以开放本体论、多重性、权力几何学等概念深刻影响高等教育地缘政治研究
 - [[Helen Gunter]] — 英国教育研究者，以教育领导力的批判性政策分析和知识政治研究著称，LE@DS 研究网络成员
 - [[Dylan Wiliam]] — UCL 教育研究院教授，教育评估和形成性评价研究者，以 Goldman 区分理论论证教育知识局部且临时，提出 EBE 批判的四个决策问题框架
 - [[Matt Homer]] — 利兹大学教育研究者，IJRME "什么有效"特刊共同编辑（Pampaka, Williams & Homer, 2016）
@@ -780,6 +783,7 @@
 - [[Argument_Qvortrup_2019_NordSTEP]] — VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为"缺失环节"
 - [[Argument_Møller_2017_EERJ]] — 以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越"什么有效"议程，提议以变革型领导力和批判性教育政策为双重分析透镜
 - [[Argument_McKnight_2020_Discourse]] — 从文化政治视角对 Visible Learning 提出七点系统批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设
+- [[Argument_Marginson_2025_ROE]] — 以 Massey 关系性空间理论为基础，将高等教育地缘政治分为 1990–2015 霸权式全球化与 2015 至今部分去全球化两个历史阶段，以中美英澳四国的国家-全球协同模式分析空间制造的多样性
 - [[Argument_Eacott_2011_JEAH]] — 以 Bourdieu 场域/习性/doxa 框架分析 NSW 校长培养，论证其将校长建构为"国家改革的交付者"，提出基于"教育问题提出与争辩"的替代性领导习性
 - [[Argument_Keddie_2020_JEAH]] — 基于 42 位澳大利亚教育利益相关者访谈，论证市场驱动的学校自主权改革对校长和弱势学校的系统性不公正影响
 - [[Argument_Eacott_2015_EPT]] — 以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论证教育行政学者的嵌入具身性塑造其智识凝视，呼吁重新审视知识生产条件
