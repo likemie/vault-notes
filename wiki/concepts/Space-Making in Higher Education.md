@@ -1,0 +1,51 @@
+---
+title: Space-Making in Higher Education
+aliases: [高等教育空间制造, space-making]
+type: concept
+tags: [theme/spatiality, level/higher-ed, region/global]
+related_concepts: ["[[Multiplicity (Massey)]]", "[[Double Spatiality of Universities]]", "[[Geopolitics of Knowledge]]"]
+related_theories: []
+related_persons: ["[[Doreen Massey]]"]
+sources: ["[[Marginson_2025_ROE]]"]
+confidence: medium
+status: draft
+created: 2026-05-12
+updated: 2026-05-12
+---
+
+# Space-Making in Higher Education
+
+## 定义
+
+高等教育空间制造（space-making in higher education）是 Simon Marginson（2022d, 2025）在 Lefebvre（1991）和 Massey（2005）的基础上提出的分析框架。社会空间不是预先存在的容器，而是由人类行动者通过持续努力构建的、不断运动的关系性产物。Marginson 将高等教育中的关系性空间制造分析为三个维度的结合：（a）预先给定的历史-物质元素（结构）；（b）空间制造行动者的想象和解释；（c）行动者将愿景付诸物质形式的社会实践（Marginson, 2025, pp. 3–4）。
+
+> [!quote]
+> "Social space is the outcome of prolonged and often strenuous past and present human effort."（Marginson, 2025, p. 3）
+
+---
+
+## 核心要素
+
+- **物质元素（结构）** — 包括经济资源、机构和机构系统、传播网络、法律、法规、政策和使用语言等预先给定的结构（Marginson, 2025, p. 4）
+- **想象与解释** — 个体、群体和组织行动者对空间的构想和诠释。Marginson 指出，在高等教育空间制造中"想象力"与社会经验相互塑造，如 Archer（1995, 2003）所理论化的社会自我与内在自我的反思性对话（Marginson, 2025, p. 4）
+- **社会实践** — 行动者运用领域 2 中的想法和解释，重新加工领域 1 中的物质元素，构建高等教育中新的活动、项目和组织。这些嵌入性的物质实践随后成为领域 1 中持续运作的结构（Marginson, 2025, p. 4）
+- **空间制造案例** — 大学签署协议、建立联盟、创建跨境联合学位；新加坡将自身定位为"全球校园"并邀请外国大学设立分校；中国大学规划者和伦敦杂志在 2002/2003 年设想以校准排名来排序的大学世界；各国政府建设"世界一流大学"层级；欧盟和东盟建立区域认证协议；西方大学在东亚和东南亚设立分校；MOOC 的创建；研究者的跨国合作；数百万学生的跨境流动——所有这些都在制造高等教育的社��空间（Marginson, 2025, pp. 4–5）
+
+---
+
+## 理论基础
+
+- [[Doreen Massey]] — Massey 的开放本体论和关系性空间理论是本框架的直接基础。Massey（2005）将每个人的生命描述为在时间中移动的轨迹，空间由个人和集体之间的互动关系构成，并被物质性结构化（Marginson, 2025, p. 3）
+- Lefebvre（1991） — 空间生产理论，强调空间既是社会产物又反过来塑造社会关系
+
+---
+
+## 应用领域
+
+- [[Geopolitics of Knowledge]] — 空间制造分析揭示了地缘政治关系如何通过物质结构、想象和实践三层机制在高等教育中被生产和再生产
+
+---
+
+## 来源
+
+- [[Marginson_2025_ROE]]
