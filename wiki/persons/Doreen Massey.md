@@ -1,12 +1,20 @@
 ---
 title: Doreen Massey
-aliases: [多琳·马西, 马西]
+aliases:
+  - 多琳·马西
 type: person
-tags: [region/uk, field/human-geography, field/higher-education]
-related_concepts: ["[[Multiplicity (Massey)]]", "[[Space-Making in Higher Education]]", "[[Methodological Nationalism]]"]
+tags:
+  - region/uk
+  - field/human-geography
+  - field/higher-education
+related_concepts:
+  - "[[Multiplicity (Massey)]]"
+  - "[[Space-Making in Higher Education]]"
+  - "[[Methodological Nationalism]]"
 related_theories: []
 related_persons: []
-sources: ["[[Marginson_2025_ROE]]"]
+sources:
+  - "[[Marginson_2025_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-12
