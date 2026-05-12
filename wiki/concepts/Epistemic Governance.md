@@ -3,7 +3,7 @@ title: Epistemic Governance
 aliases: ["知识治理", "认知治理", "global epistemic governance", "知识本位治理"]
 type: concept
 tags: ["region/global", "level/higher-ed"]
-related_concepts: ["[[Otherhood]]", "[[Organizational Actorhood]]", "[[Knowledge-Based Economy]]", "[[Geopolitics of Knowledge]]"]
+related_concepts: ["[[Otherhood]]", "[[Organizational Actorhood]]", "[[Knowledge-Based Economy]]", "[[Geopolitics of Knowledge]]", "[[Scientization of Politics]]", "[[Epistemic Drift]]"]
 related_theories: ["[[World Society Theory]]"]
 related_methods: []
 related_persons: ["[[John W. Meyer]]"]
@@ -29,6 +29,7 @@ updated: 2026-05-12
 
 > [!example]
 > - vs 硬治理（hard governance） — 硬治理依赖强制性和规制性工具（法律、制裁、军事力量），以国家为中心；知识治理依赖规范性、认知性工具（观念、知识、文化模型），以多行动者网络为架构。二者的关系不是替代而是层叠——知识治理更多地在硬治理的框架之上运作，为其提供合法性和认知基础（Zapp, 2022, pp.145–146）
+> - vs [[Scientization of Politics|政策的科学化（Scientization of Politics）]] — 政策的科学化是知识治理兴起的关键前提：当政策制定者接受"决策应依据科学证据"时，大学和研究者获得进入治理核心的制度通道；知识治理描述的是这一通道打开后的整体治理架构及其运作机制（Zapp, 2022, pp.145–149）
 > - vs 证据本位政策（evidence-based policy） — 证据本位政策主要关注"政策制定是否依据科学证据"这一工具性问题，通常在国家政策层面讨论；知识治理是一个更广泛的生成性概念（generative concept），关注"知识如何在去中心化的全球治理架构中产生治理效应"——不仅包括证据被使用，更包括知识如何通过 [[Otherhood]] 机制建构治理的文化模型本身（Zapp, 2022, pp.145–149）
 > - vs 技术官僚（technocracy） — 技术官僚指"专家统治"，暗示科学知识替代民主决策；知识治理不假设科学家取代政治家，而是分析知识、规范和观念如何与权力、利益和制度相互作用，共同构成治理的认知基础设施（Zapp, 2022, pp.154–155）
 
@@ -84,8 +85,8 @@ updated: 2026-05-12
 ## 争议与批评
 
 > [!warning]
-> - **科学的政治化风险**：知识的政治化（politicization of science）是知识治理的内在悖论——政策制定者借用科学权威支撑政治行动，科学家则在政治兴趣中寻找填补缩减资金线的机会，研究在精准性、碎片化和情境依赖性的特点使其易受操纵、争议甚至压制（Cozzens & Woodhouse, 1995; Klees & Edwards, 2014，引自 Zapp, 2022, pp.154–155）
-> - **认识漂移（epistemic drift）**：研究者将自身兴趣与外部需求对齐，牺牲内部学术议程（Elzinga, 1997，引自 Zapp, 2022, p.155）
+> - **[[Scientization of Politics|科学的政治化]]风险**：知识的政治化（politicization of science）是 [[Scientization of Politics|政策的科学化]] 的内在悖论——政策制定者借用科学权威支撑政治行动，科学家则在政治兴趣中寻找填补缩减资金线的机会，研究在精准性、碎片化和情境依赖性的特点使其易受操纵、争议甚至压制（Cozzens & Woodhouse, 1995; Klees & Edwards, 2014，引自 Zapp, 2022, pp.154–155）
+> - **[[Epistemic Drift|认识漂移]]**：研究者将自身兴趣与外部需求对齐，牺牲内部学术议程（Elzinga, 1997，引自 Zapp, 2022, p.155）
 > - **选择性引用**：政策制定者可能极其选择性地引用科学证据以支撑自身议程（Steiner-Khamsi et al., 2020，引自 Zapp, 2022, p.155）
 > - **伪科学与反科学**：Trump 和 Bolsonaro 等民粹领导人对气候变化科学共识和公共卫生专业知识的拒绝，同时提供"替代事实"，是科学-政治关系恶化的极端案例（Barrera et al., 2020; Hopf et al., 2019，引自 Zapp, 2022, p.155）
 

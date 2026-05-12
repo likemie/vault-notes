@@ -84,6 +84,7 @@
 - [[Material Fallacies]] — 逻辑学中"在理解术语的含义或用法方面的错误"（Kreeft, 2010），O'Neill 将其引入教育政策话语分析以审查证据被误用的现象
 - [[Posthumanism]] — Amos (2022) 通过 Haraway 和 Escobar 分析的后人类主义：将人类从宇宙中心彻底移开，强调人与非人之间通过 sympoiesis（共同制造）和 response-ability 的根本性相互依存，作为超人类主义的对立教育愿景
 - [[Scientism]] — 对科学方法的过度美化及在其原始范围之外轻率应用，Gasparatou/Hayek/Ross 等定义，Johnson & Janzen 将其应用于 VL 批判
+- [[Scientization of Politics]] — Zapp (2022) 的概念：政策制定者接受科学证据作为决策的合法性基础，使科学知识从信息来源转变为治理合法性的构成性要素，是知识治理兴起的关键维度
 - [[SF (Haraway)]] — Haraway 的核心方法论缩写：同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今），Amos (2022) 将其定位为通过讲故事实践进行"世界制造"的后人类主义方法
 - [[Sympoiesis]] — Haraway 的核心概念："与他人一起制造"（making with），与 autopoiesis（自我制造）形成对照，强调跨物种的相互依存和伦理回应（response-ability），是后人类主义教育的核心伦理表达
 - [[Cargo Cult Science]] — Feynman (1974) 概念：看起来像科学但缺乏认识论诚信的伪科学实践，应用于 VL 批判
@@ -91,6 +92,7 @@
 - [[Critic and Conscience of Society]] — Gerald Grace 1988 年提出、后写入新西兰大学立法的概念：大学在民主社会中有独立的权力制衡角色，须基于系统公正分析"向权力说真话"，区别于仅关注学科内部的正常学术批评
 - [[Transhumanism]] — Huxley (1957) 提出、Amos (2022) 在教育语境中分析的超人类主义：以技术手段超越人类生物局限追求无限优化和增强的意识形态，是高度现代性的激进延续，与市场驱动教育模型高度兼容
 - [[Structural Coupling]] — Luhmann (1997) 系统理论概念：两个封闭、自我指涉系统之间的非因果链接，Qvortrup 用于描述教学与学习之间的关系 — Eacott 以 Callahan (1962) 为框架提出的概念，描述教育领导力领域对单一权威人物的不加批判的接受，以 Hattie 崇拜为典型案例分析其形成的三个时间条件
+- [[Epistemic Drift]] — Elzinga (1997) 的概念、Zapp (2022) 引入高等教育研究：研究者将学术议程对齐资助方偏好的系统性漂移，是科学-政治关系三级恶化光谱中的第一级
 - [[Epistemological Break]] — Bourdieu 认识论核心概念：科学研究必须与前科学世界的日常语言和自发理解决裂，Eacott 将其引入教育行政研究
 - [[Epistemological Vigilance]] — Bourdieu 认识论核心概念：社会科学家需持续保持对日常语言和前科学概念的批判性警觉，是终身的智识项目
 - [[Neo-Taylorism in Educational Administration]] — Taylor 科学管理原理在教育行政领域的当代复兴，Eacott 论证 Hattie VL 是"新时代的泰勒主义"，以寻找唯一正确方法和最大化效率为核心逻辑
