@@ -9,7 +9,7 @@ related_methods: []
 related_persons: []
 related_facts: ["[[Innovation Union]]", "[[EU Skills Agenda]]"]
 related_arguments: ["[[Argument_Rambla_2022_Springer]]"]
-sources: ["[[Parreira do Amaral(Ed.)_2022_Springer-5]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
 confidence: medium
 status: draft
 created: 2026-05-13

@@ -5,7 +5,7 @@ tags: [network-governance, subject/curriculum, region/new-zealand, region/eu]
 related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Policy Entrepreneur]]", "[[Privatisation of State Schooling]]", "[[Endogenous and Exogenous Privatisation]]", "[[Venture Philanthropy]]", "[[Performance Indicators (Policy Instruments)]]", "[[Theories of Change (Policy)]]"]
 related_theories: []
 related_persons: ["[[John Hattie]]", "[[Stephen Ball]]"]
-sources: ["sources/ONeill_2016_Report.md", "[[Parreira do Amaral(Ed.)_2022_Springer-5]]"]
+sources: ["sources/ONeill_2016_Report.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
 confidence: medium
 status: draft
 created: 2026-05-04

@@ -9,7 +9,7 @@ related_methods: []
 related_persons: []
 related_facts: ["[[Innovation Union]]", "[[Europe 2020 Strategy]]", "[[EU Skills Agenda]]", "[[Youth Guarantee Scheme]]"]
 related_arguments: []
-sources: ["[[Parreira do Amaral(Ed.)_2022_Springer-5]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-13
