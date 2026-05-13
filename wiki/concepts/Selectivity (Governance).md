@@ -7,7 +7,7 @@ related_concepts: ["[[Performance Indicators (Policy Instruments)]]", "[[Theorie
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Innovation Union]]", "[[EU Skills Agenda]]", "[[Europe 2020 Strategy]]"]
+related_facts: ["[[Innovation Union]]", "[[EU Skills Agenda]]", "[[Europe 2020 Strategy]]", "[[Youth Guarantee Scheme]]"]
 related_arguments: ["[[Argument_Rambla_2022_Springer]]"]
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
 confidence: medium
