@@ -1,15 +1,15 @@
 ---
 title: Network Governance in Education
 type: concept
-tags: [network-governance, subject/curriculum, region/new-zealand]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Policy Entrepreneur]]", "[[Privatisation of State Schooling]]", "[[Endogenous and Exogenous Privatisation]]", "[[Venture Philanthropy]]"]
+tags: [network-governance, subject/curriculum, region/new-zealand, region/eu]
+related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Policy Entrepreneur]]", "[[Privatisation of State Schooling]]", "[[Endogenous and Exogenous Privatisation]]", "[[Venture Philanthropy]]", "[[Performance Indicators (Policy Instruments)]]", "[[Theories of Change (Policy)]]"]
 related_theories: []
 related_persons: ["[[John Hattie]]", "[[Stephen Ball]]"]
-sources: ["sources/ONeill_2016_Report.md"]
+sources: ["sources/ONeill_2016_Report.md", "[[Parreira do Amaral(Ed.)_2022_Springer-5]]"]
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-05-05
+updated: 2026-05-13
 ---
 
 ## 定义
@@ -61,10 +61,37 @@ O'Neill et al.（2016, pp.8–12）列出近十余年新西兰同时体现私营
 
 报告指出关键张力：传统上，系统层面的学校政策干预依赖科层制、官僚式的区域关系（如 SEMO）或全国性（如 Ka Hikitea、Pasifika Education Plan）来解决教育成就的不平等。因此，对于在公立学校系统中相对未有良好成果的群体、社区和家庭来说，更具企业家精神、网络和部族的关系可能具有更大吸引力——特别是当群体看到更大的、更直接的治理和管理其自身教育事务的前景时（O'Neill et al., 2016, pp.13–14）。
 
+## 在欧盟的表现
+
+Rambla（2022）基于 YOUNG_ADULLLT 项目对 16 个欧盟地区 168 名终身学习政策专家的访谈，提供了网络治理在欧盟教育与培训政策中运作的实证证据（Rambla, 2022, p.172–173）。
+
+### 官僚制与网络治理的混合模式
+
+YOUNG_ADULLLT 的研究发现，在欧盟各地，终身学习政策主要通过官僚治理和网络治理的混合模式实施——但市场治理（如美国私人培训提供商普遍活跃的模式）在欧盟并不显著（Rambla, 2022, p.172）。
+
+### 国家间差异
+
+网络治理的具体形态因国家制度传统不同而呈现显著差异（Rambla, 2022, p.172–173）：
+
+- **德国及邻国的新社团主义网络**：政策网络包含传统的新社团主义（neocorporatism）伙伴——即政府、雇主协会和工会的三方合作。在这些国家，系统的"变革理论"（如学徒制系统）为地方专业人员提供了连贯的行动框架。
+- **芬兰的公私民合作**："公共—私营—民众合作"（Public-Private-People-Partnerships）模式将网络治理扩展至公民个人层面，终身学习政策被理解为面向所有人、服务于多元生命情境的人类发展服务，而非仅针对失业青年的就业工具。
+- **苏格兰的就业管道**："就业管道"（Employment Pipeline）模式将就业服务、教育培训和非营利支持整合为一条龙网络。
+- **南欧和东欧的弱网络**：政策网络显著较弱，但地方非营利组织、就业服务与教育培训体系之间的初步协作正在出现。专业人员缺乏系统的"变革理论"支撑，更倾向于依赖对青年受益人的负面刻板印象（Rambla, 2022, p.173）。
+
+### 地方创新与新型政治关系
+
+在意大利利古里亚和西班牙加泰罗尼亚，第二机会学校（second-chance schools）展示了网络治理中地方创新的可能性：非营利组织先行独立创建教育服务模式，随后向市政府申请公共支持，由此形成了一种自下而上的新型政治关系——不同于传统的自上而下的科层制资源分配，也不同于纯粹的市场化合同外包（Rambla, 2022, p.173）。
+
+### 绩效指标对网络治理的塑造
+
+欧盟通过 EUROSTAT 的区域绩效指标体系间接塑造了网络治理的运作方式：指标不仅衡量成果，也定义了"良好治理"的标准，鼓励各级政府和非政府行动者围绕共同的基准展开竞争与合作。这种"通过指标的治理"（governance by indicators）是网络治理在超国家层面的一种特殊表现形态（Rambla, 2022, p.174–175）。
+
 ## 争议与批评
 - 网络治理模式将比例上更多重点放在私营部门网络化与合同上，比例上更少关注社会民主式、参与式的公共政策制定方法（O'Neill et al., 2016, p.xvi）
 - 私营部门参与带来了决策权和财产权的期望——从对产品和服务的商业/社会投资回报，到在共同利益上决定政策的角色（O'Neill et al., 2016, p.xv）
 - 这些较新的公立学校关系——PPP、合同外包、风险慈善和慈善——需要在私营部门行动者追求的政治策略和战术方面得到更深入的理解（O'Neill et al., 2016, p.xvi）
 
 ## 来源
+
 - [[ONeill_2016_Report]]
+- [[Parreira do Amaral(Ed.)_2022_Springer-5]]
