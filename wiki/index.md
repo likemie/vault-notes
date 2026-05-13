@@ -405,6 +405,10 @@
 - [[GATS and Trade in Education Services]] — WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映"新帝国主义"
 - [[THE Impact Ranking 2019]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
 - [[UN Sustainable Development Goals 2015]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的"新型第三使命"
+- [[Innovation Union]] — EU 2010–2020 旗舰政策，旨在构建区域创新生态体系，以 EUROSTAT 区域创新记分牌为核心监测工具，Rambla (2022) 分析其同质化假设
+- [[Europe 2020 Strategy]] — EU 2010–2020 十年战略规划，以"智能、可持续与包容性增长"为框架，涵盖就业、研发、气候、教育、减贫五大领域
+- [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，YOUNG_ADULLLT 项目揭示其在欧盟各地差异化实施
+- [[Youth Guarantee Scheme]] — EU 2013 年理事会建议书，确保青年在离校或失业后 4 个月内获得就业、教育、培训或学徒机会
 
 ### Hong Kong
 
@@ -861,6 +865,7 @@
 - [[Argument_Delambre_2022_Springer]] — Ch7 Dell Delambre: 提出 Creative Tension of Sense 认识论和 Ganz-Methode，主张承载新旧之间的意义张力，以巴西里约热内卢基层实践为案例
 - [[Argument_Boyadjieva_2022_Springer]] — Ch8 Pepka Boyadjieva: 以可行能力路径和制度理论构建 HE 多维使命模型（2×3 矩阵），批判全球排名推行一刀切大学模型、忽视使命多样性
 - [[Argument_Zapp_2022_Springer]] — Ch9 Mike Zapp: 以世界社会理论和组织能动者身份为框架，分析大学通过研究、教学、内部政策和网络四种机制嵌入全球治理，以 SDGs 为案例，警示科学的政治化和大学的地缘政治再领土化风险
+- [[Argument_Rambla_2022_Springer]] — Ch10 Xavier Rambla: 以 Le Galès 政策工具框架分析欧盟创新与教育培训政策如何通过绩效指标构建区域性的教育与创新想象，揭示其选择性优先技术研发和就业导向而边缘化区域异质性与人文赋权
 - 📖 [[Argument_郑_2023_上海三联书店]] — 郑雅君：以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化
 
 ### Reports & Policy Documents
