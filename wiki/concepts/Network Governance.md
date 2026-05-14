@@ -1,8 +1,9 @@
 ---
-title: Network Governance in Education
+title: Network Governance
+aliases: ["网络治理", "network governance in education"]
 type: concept
 tags: [network-governance, subject/curriculum, region/new-zealand, region/eu]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Policy Entrepreneur]]", "[[Privatisation of State Schooling]]", "[[Endogenous and Exogenous Privatisation]]", "[[Venture Philanthropy]]", "[[Performance Indicators (Policy Instruments)]]", "[[Theories of Change (Policy)]]", "[[Selectivity (Governance)]]"]
+related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Policy Entrepreneur]]", "[[Privatisation of State Schooling]]", "[[Endogenous and Exogenous Privatisation]]", "[[Venture Philanthropy]]", "[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity (Governance)]]"]
 related_theories: []
 related_persons: ["[[John Hattie]]", "[[Stephen Ball]]"]
 related_facts: ["[[EU Skills Agenda]]", "[[Innovation Union]]", "[[Europe 2020 Strategy]]", "[[Youth Guarantee Scheme]]"]
@@ -11,10 +12,10 @@ sources: ["sources/ONeill_2016_Report.md", "books/Parreira do Amaral(Ed.)_2022_S
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-05-13
+updated: 2026-05-14
 ---
 
-# Network Governance in Education
+# Network Governance
 
 ## 定义
 
@@ -27,7 +28,7 @@ updated: 2026-05-13
 
 > [!tip]
 > - Thompson（1991）的组织形式分类学提供了理论框架：传统的市场与科层形式正在被网络与部落（clan）形式所取代（O'Neill et al., 2016, p.vi）
-> - [[Performance Indicators (Policy Instruments)]] — 在欧盟层面，绩效指标通过建构"良好治理"的标准间接塑造了网络治理的运作方式（Rambla, 2022, p.174–175）
+> - [[Performance Indicators]] — 在欧盟层面，绩效指标通过建构"良好治理"的标准间接塑造了网络治理的运作方式（Rambla, 2022, p.174–175）
 
 ## 核心要素
 
@@ -92,7 +93,7 @@ YOUNG_ADULLLT 的研究发现，在欧盟各地，终身学习政策主要通过
 
 ### 新社团主义网络（制度传统较强的国家）
 
-在德国及拥有新社团主义（neocorporatism）传统的邻国，政策网络包含传统伙伴——政府、雇主协会和工会的三方合作。在这些国家，系统的 [[Theories of Change (Policy)]]（如"学徒制系统"）为地方专业人员提供了连贯的行动框架，多元行动者的参与使 [[Selectivity (Governance)]] 效应在一定程度上被制度多元性所缓冲（Rambla, 2022, p.172–173）。
+在德国及拥有新社团主义（neocorporatism）传统的邻国，政策网络包含传统伙伴——政府、雇主协会和工会的三方合作。在这些国家，系统的 [[Theories of Policy Change]]（如"学徒制系统"）为地方专业人员提供了连贯的行动框架，多元行动者的参与使 [[Selectivity (Governance)]] 效应在一定程度上被制度多元性所缓冲（Rambla, 2022, p.172–173）。
 
 ### 公私民合作与就业管道
 
@@ -101,7 +102,7 @@ YOUNG_ADULLLT 的研究发现，在欧盟各地，终身学习政策主要通过
 
 ### 弱网络环境中的初步协作（南欧和东欧）
 
-在南欧和东欧，政策网络显著较弱，但地方非营利组织、就业服务与教育培训体系之间的初步协作正在出现。专业人员缺乏系统的 [[Theories of Change (Policy)]] 支撑，更倾向于依赖对青年受益人的负面刻板印象组织服务（Rambla, 2022, p.173）。
+在南欧和东欧，政策网络显著较弱，但地方非营利组织、就业服务与教育培训体系之间的初步协作正在出现。专业人员缺乏系统的 [[Theories of Policy Change]] 支撑，更倾向于依赖对青年受益人的负面刻板印象组织服务（Rambla, 2022, p.173）。
 
 ### 自下而上的新型政治关系
 
@@ -109,7 +110,7 @@ YOUNG_ADULLLT 的研究发现，在欧盟各地，终身学习政策主要通过
 
 ### 绩效指标对网络治理的塑造
 
-欧盟通过 EUROSTAT 的区域 [[Performance Indicators (Policy Instruments)]] 间接塑造了网络治理的运作方式：指标不仅衡量成果，也定义了"良好治理"的标准，鼓励各级政府和非政府行动者围绕共同的基准展开竞争与合作。这种"通过指标的治理"（governance by indicators）是网络治理在超国家层面的一种特殊表现形态（Rambla, 2022, p.174–175）。
+欧盟通过 EUROSTAT 的区域 [[Performance Indicators]] 间接塑造了网络治理的运作方式：指标不仅衡量成果，也定义了"良好治理"的标准，鼓励各级政府和非政府行动者围绕共同的基准展开竞争与合作。这种"通过指标的治理"（governance by indicators）是网络治理在超国家层面的一种特殊表现形态（Rambla, 2022, p.174–175）。
 
 ---
 
