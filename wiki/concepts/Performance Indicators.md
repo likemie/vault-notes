@@ -3,7 +3,7 @@ title: Performance Indicators
 aliases: ["绩效指标", "education indicators", "教育指标", "policy instruments"]
 type: concept
 tags: ["policy-instruments", "governance", "measurement", "region/global", "Comparative Education"]
-related_concepts: ["[[Theories of Policy Change]]", "[[Selectivity (Governance)]]", "[[Regulatory Regionalism]]", "[[Education at a Glance (EAG)]]", "[[International Indicators of Education Systems (INES)]]", "[[Sociology of Measurement]]", "[[Performativity of Measurement]]", "[[Network Governance]]"]
+related_concepts: ["[[Theories of Policy Change]]", "[[Selectivity]]", "[[Regulatory Regionalism]]", "[[Education at a Glance (EAG)]]", "[[International Indicators of Education Systems (INES)]]", "[[Sociology of Measurement]]", "[[Performativity of Measurement]]", "[[Network Governance]]"]
 related_theories: ["[[Science and Technology Studies (STS)]]"]
 related_methods: []
 related_persons: ["[[Norberto Bottani]]"]
@@ -48,7 +48,7 @@ updated: 2026-05-14
 > - **1992 年**：首版 [[Education at a Glance (EAG)]] 出版，标志着教育指标的常规化年度生产（Gorur, 2014, p.11）
 > - **2000s**：Bottani 称之为"对绩效指标的痴迷和心理测量比较的胜利"的十年（Gorur, 2014, p.13）
 > - **2001 年**：里斯本议程后，欧盟开始以十年战略规划（如 [[Europe 2020 Strategy]]）驱动绩效指标治理模式
-> - **2007 年**：Jessop 在 State Power 中提出 [[Selectivity (Governance)]] 概念，为分析指标的政治效应提供理论基础（Rambla, 2022, p.166）
+> - **2007 年**：Jessop 在 State Power 中提出 [[Selectivity]] 概念，为分析指标的政治效应提供理论基础（Rambla, 2022, p.166）
 > - **2010 年代**：EUROSTAT 的区域创新记分牌和 NUTS2 教育指标将绩效指标扩展至区域层面（Rambla, 2022, p.169–170）
 > - **2016 年**：Le Galès 系统论证绩效指标作为政策工具的技术—权力双重性（Rambla, 2022, p.165）
 > - **2022 年**：Rambla 将 Le Galès 框架与 Collins（2018）的互动性专业技能和 Jessop（2007）的选择性综合为四维分析工具（p.165–166）
@@ -82,14 +82,14 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 
 **传播共同的变革理论**：绩效指标承载特定的因果叙事——关于政策干预在何种情境中激活何种机制的信念体系。详见 [[Theories of Policy Change]]。OECD 传播了"投资研发→培养创造力→高学历劳动力→经济增长"的良性循环叙事；EU 的 ET 2020 战略假定降低早期辍学率与促进创新将产生强大增效作用（Rambla, 2022, p.165–166）。
 
-**嵌入政治关系并实施选择性**：绩效指标间接重塑政府与公民社会之间的关系。通过指标，政府试图说服所有利益相关方同时竞争和合作，而非通过具有约束力的立法固定各方角色（Le Galès, 2016; Rambla, 2022, p.166）。同时，指标实施 [[Selectivity (Governance)]]——筛选政策议题的优先次序，系统性地优先某些替代方案，同时使其他议题被边缘化（Jessop, 2007; Rambla, 2022, p.174–175）。
+**嵌入政治关系并实施选择性**：绩效指标间接重塑政府与公民社会之间的关系。通过指标，政府试图说服所有利益相关方同时竞争和合作，而非通过具有约束力的立法固定各方角色（Le Galès, 2016; Rambla, 2022, p.166）。同时，指标实施 [[Selectivity]]——筛选政策议题的优先次序，系统性地优先某些替代方案，同时使其他议题被边缘化（Jessop, 2007; Rambla, 2022, p.174–175）。
 
 ## 理论基础
 
 > [!tip]
 > - [[Sociology of Measurement]] — 指标构建过程体现了测量的 instrumentalism（如何在各种约束下"让事物运作"）和 performativity（指标一旦存在就改变世界）（Gorur, 2014, p.6–7）
 > - [[Performativity of Measurement]] — 国际教育指标在多个层面上是 performative：影响政策制定者行为、改变国家优先级、使某些关联被物化为因果关系（Gorur, 2014, p.16–18）
-> - [[Selectivity (Governance)]] — Jessop（2007）的策略关系国家理论为理解绩效指标的政策选择性提供了结构性解释
+> - [[Selectivity]] — Jessop（2007）的策略关系国家理论为理解绩效指标的政策选择性提供了结构性解释
 > - [[Theories of Policy Change]] — Pawson（2006）的实在论评估框架解释了绩效指标如何承载和传播关于因果机制的信念体系
 > - [[Regulatory Regionalism]] — 绩效指标是超国家组织通过排名和指标对区域内教育进行间接治理的核心操作机制
 

@@ -48,6 +48,7 @@
 - [[Economic and Industrial Espionage]] — Søilen 区分经济间谍（政府参与）与工业间谍（无政府），Partaken 以中美技术紧张为核心案例
 - [[Educational Management Organisation (EMO)]] — 参与公立学校教育政策制定与服务交付的私营部门实体，营利/非营利两种形式，Cognition Education 和 CORE Education 为新西兰最大 EMO
 - [[National Competitive Advantage]] — Porter (1990) 理论：国家竞争优势通过高度本地化过程被创造，全球化反而使国家角色更重要，Moisio (2022) 将其分析为塑造 Hub and Flow 想象的关键地缘政治想象
+- [[Neocorporatism]] — 政府—雇主—工会三方制度化合作的治理模式，Rambla (2022) 在 EU 终身学习治理中分析其缓冲 [[Selectivity]] 效应的功能
 - [[Network Governance]] — 传统市场/科层制公立学校治理被网络与部落形式取代，Thompson (1991) 为理论框架，新西兰自 2008 年加速发展
 - [[Policy Entrepreneur]] — Mintrom (2000) 和 Ball (2012) 概念：在教育系统内外通过协作和网络化影响政策发展的行动者，John Hattie 为新西兰典型
 - [[Progressive Neoliberalism]] — Nancy Fraser (2019) 概念：新自由主义经济政策与进步社会议程的话语结合，Moisio (2022) 定位为过去三十年知识经济化的主要政治推力（"硅谷世界观"），正在消退
@@ -70,7 +71,7 @@
 - [[Transitology]] — Cowen (1996, 2000) 的比较教育概念：国家机器、社会分层体系和政治愿景的同时性崩溃与重建，教育在其中被赋予象征性和重构性角色，Amos (2022) 用于分析晚期现代教育的市场中心转向
 
 - [[Theories of Policy Change]] — Pawson (2006) 的实在论评估概念：政策承载的因果机制叙事，Rambla (2022) 分析其在欧盟旗舰政策中的应用与地方转化
-- [[Selectivity (Governance)]] — Jessop (2007) 的治理概念：政策工具通过结构性偏向系统性地优先某些替代方案而边缘化其他，Rambla (2022) 在欧盟区域创新和终身学习政策中分析
+- [[Selectivity]] — Jessop (2007) 的治理概念：政策工具通过结构性偏向系统性地优先某些替代方案而边缘化其他，Rambla (2022) 在欧盟区域创新和终身学习政策中分析
 
 ### Curriculum
 
@@ -408,6 +409,7 @@
 - [[Innovation Union]] — EU 2010–2020 旗舰政策，旨在构建区域创新生态体系，以 EUROSTAT 区域创新记分牌为核心监测工具，Rambla (2022) 分析其同质化假设
 - [[Europe 2020 Strategy]] — EU 2010–2020 十年战略规划，以"智能、可持续与包容性增长"为框架，涵盖就业、研发、气候、教育、减贫五大领域
 - [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，YOUNG_ADULLLT 项目揭示其在欧盟各地差异化实施
+- [[YOUNG_ADULLLT]] — EU Horizon 2020 研究项目（Grant No 693167），9 国 16 区 168 名专家访谈，考察终身学习政策区域治理与地方变革理论
 - [[Youth Guarantee Scheme]] — EU 2013 年理事会建议书，确保青年在离校或失业后 4 个月内获得就业、教育、培训或学徒机会
 
 ### Hong Kong

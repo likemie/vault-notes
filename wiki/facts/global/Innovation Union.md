@@ -4,7 +4,7 @@ aliases: ["创新联盟（欧盟）", "EU Innovation Union"]
 type: fact
 subtype: policy
 tags: ["region/eu", "region/global", "policy/innovation", "policy/education"]
-related_concepts: ["[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity (Governance)]]"]
+related_concepts: ["[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -76,7 +76,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 ### 结构性局限
 
-- 绩效指标体系倾向于将创新窄化为研发投入和专利产出等可量化指标，忽视了社会创新、基层创新等更广泛的创新形式。详见 [[Selectivity (Governance)]]（Rambla, 2022, p.174）
+- 绩效指标体系倾向于将创新窄化为研发投入和专利产出等可量化指标，忽视了社会创新、基层创新等更广泛的创新形式。详见 [[Selectivity]]（Rambla, 2022, p.174）
 - 区域创新记分牌的分类（"创新领导者""一般创新者"）在年复一年的发布中从描述性标签演变为自我实现的预言——"创新领导者"更易吸引投资，"一般创新者"则陷入资源劣势的累积循环（p.174）
 
 > [!info]- 核心数据
@@ -95,7 +95,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 > [!tip]
 > - [[Performance Indicators]] — 区域创新记分牌是绩效指标作为政策工具的典型案例
 > - [[Theories of Policy Change]] — Innovation Union 承载"创新生态体系→经济增长"的核心因果叙事
-> - [[Selectivity (Governance)]] — Innovation Union 通过指标定义"什么是创新"，系统性地优先技术研发型创新
+> - [[Selectivity]] — Innovation Union 通过指标定义"什么是创新"，系统性地优先技术研发型创新
 > - [[EU Skills Agenda]] — 同为 Europe 2020 旗舰，共享"创新+教育协同演化"的变革理论
 > - [[Europe 2020 Strategy]] — Innovation Union 所属的十年战略框架
 

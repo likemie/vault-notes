@@ -4,7 +4,7 @@ aliases: ["青年保障计划（欧盟）", "EU Youth Guarantee"]
 type: fact
 subtype: policy
 tags: ["region/eu", "region/global", "policy/employment", "policy/education", "level/k12", "level/higher-ed"]
-related_concepts: ["[[Theories of Policy Change]]", "[[Selectivity (Governance)]]", "[[Performance Indicators]]", "[[Network Governance]]"]
+related_concepts: ["[[Theories of Policy Change]]", "[[Selectivity]]", "[[Performance Indicators]]", "[[Network Governance]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -76,13 +76,13 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 
 > [!warning]
 > - **4 个月时限与教育质量的张力**：Youth Guarantee 的"4 个月"时限承载了一种隐含的变革理论（[[Theories of Policy Change]]）——即快速衔接教育到就业的过渡本身是好的，而过渡的"空窗期"是需要被最小化的问题。然而，这一预设可能与终身学习的人文发展目标存在张力：一个花 1 年时间参与社区环保项目并获得组织技能的青年，在绩效指标的逻辑下被视为"失业 12 个月"的失败案例，而一个在 3 个月内找到超市收银工作的青年则被视为"成功就业"（Rambla, 2022, p.174）
-> - **就业优先预设**：在多数欧盟成员国中，Youth Guarantee 在实践中被操作为就业优先工具——就业安置的紧迫性往往压倒了对教育质量和个体赋权的关注。这与 [[Selectivity (Governance)]] 的诊断一致：绩效指标体系系统性地奖励短期就业结果，使更长远的人力发展路径在政策视野中变得不可见（Rambla, 2022, p.174–175）
+> - **就业优先预设**：在多数欧盟成员国中，Youth Guarantee 在实践中被操作为就业优先工具——就业安置的紧迫性往往压倒了对教育质量和个体赋权的关注。这与 [[Selectivity]] 的诊断一致：绩效指标体系系统性地奖励短期就业结果，使更长远的人力发展路径在政策视野中变得不可见（Rambla, 2022, p.174–175）
 
 ## 相关概念／理论
 
 > [!tip]
 > - [[Theories of Policy Change]] — Youth Guarantee 的"4 个月窗口"承载了"快速衔接=有效政策"的隐含因果叙事
-> - [[Selectivity (Governance)]] — 就业优先指标使短期就业安置压倒长期人力发展
+> - [[Selectivity]] — 就业优先指标使短期就业安置压倒长期人力发展
 > - [[Performance Indicators]] — 以"4 个月内就业/教育/培训/学徒"作为衡量成功的核心指标
 > - [[Network Governance]] — 政策建议成员国建立多元利益相关方合作网络
 > - [[EU Skills Agenda]] — Youth Guarantee 是 Skills Agenda 框架内将就业与教育培训衔接的制度支柱

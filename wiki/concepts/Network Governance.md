@@ -3,7 +3,7 @@ title: Network Governance
 aliases: ["网络治理", "network governance in education"]
 type: concept
 tags: [network-governance, subject/curriculum, region/new-zealand, region/eu]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Policy Entrepreneur]]", "[[Privatisation of State Schooling]]", "[[Endogenous and Exogenous Privatisation]]", "[[Venture Philanthropy]]", "[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity (Governance)]]"]
+related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Policy Entrepreneur]]", "[[Privatisation of State Schooling]]", "[[Endogenous and Exogenous Privatisation]]", "[[Venture Philanthropy]]", "[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity]]"]
 related_theories: []
 related_persons: ["[[John Hattie]]", "[[Stephen Ball]]"]
 related_facts: ["[[EU Skills Agenda]]", "[[Innovation Union]]", "[[Europe 2020 Strategy]]", "[[Youth Guarantee Scheme]]"]
@@ -93,7 +93,7 @@ YOUNG_ADULLLT 的研究发现，在欧盟各地，终身学习政策主要通过
 
 ### 新社团主义网络（制度传统较强的国家）
 
-在德国及拥有新社团主义（neocorporatism）传统的邻国，政策网络包含传统伙伴——政府、雇主协会和工会的三方合作。在这些国家，系统的 [[Theories of Policy Change]]（如"学徒制系统"）为地方专业人员提供了连贯的行动框架，多元行动者的参与使 [[Selectivity (Governance)]] 效应在一定程度上被制度多元性所缓冲（Rambla, 2022, p.172–173）。
+在德国及拥有新社团主义（neocorporatism）传统的邻国，政策网络包含传统伙伴——政府、雇主协会和工会的三方合作。在这些国家，系统的 [[Theories of Policy Change]]（如"学徒制系统"）为地方专业人员提供了连贯的行动框架，多元行动者的参与使 [[Selectivity]] 效应在一定程度上被制度多元性所缓冲（Rambla, 2022, p.172–173）。
 
 ### 公私民合作与就业管道
 

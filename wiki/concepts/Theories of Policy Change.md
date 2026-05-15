@@ -3,7 +3,7 @@ title: Theories of Policy Change
 aliases: ["政策变革理论", "theories of change", "theory of change", "变革理论（政策）"]
 type: concept
 tags: ["policy-instruments", "governance", "region/global"]
-related_concepts: ["[[Performance Indicators]]", "[[Selectivity (Governance)]]"]
+related_concepts: ["[[Performance Indicators]]", "[[Selectivity]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -100,7 +100,7 @@ updated: 2026-05-14
 > [!warning]
 > - **因果链条未经检验**：许多政策变革理论的核心因果假设（如"促进创新将自然带动教育改善"）并未经过严格的实证检验，而是作为政策工具的内在成分被嵌入。Pawson（2006）的实在论评估本身正是对这种"黑箱"思维的批判性回应（Rambla, 2022, p.165）
 > - **同质化风险**：通用变革理论将高度异质的区域和国家纳入同一因果框架，忽视地方特定情境、制度传统和权力结构的决定性影响。如将北欧的"公私民合作"预设为所有区域应效仿的最佳实践，但南欧地区连基础的政策网络结构都尚未建立（Rambla, 2022, p.172–174）
-> - **民主审议空间的压缩**：当变革理论被嵌入指标并自然化为"客观事实"时，本应经过民主审议的价值选择（"我们希望培养什么样的公民？"）被技术化为"数据告诉我们该怎么做"。详见 [[Selectivity (Governance)]]（Rambla, 2022, p.175–176）
+> - **民主审议空间的压缩**：当变革理论被嵌入指标并自然化为"客观事实"时，本应经过民主审议的价值选择（"我们希望培养什么样的公民？"）被技术化为"数据告诉我们该怎么做"。详见 [[Selectivity]]（Rambla, 2022, p.175–176）
 
 ## 相关案例／政策
 
