@@ -4,7 +4,7 @@ aliases: ["创新联盟（欧盟）", "EU Innovation Union"]
 type: fact
 subtype: policy
 tags: ["region/eu", "region/global", "policy/innovation", "policy/education"]
-related_concepts: ["[[Performance Indicators (Policy Instruments)]]", "[[Theories of Change (Policy)]]", "[[Selectivity (Governance)]]"]
+related_concepts: ["[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity (Governance)]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -45,7 +45,7 @@ updated: 2026-05-13
 
 ### 核心政策工具：区域创新记分牌
 
-EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovation Union 的核心监测工具，根据各 NUTS2 区域的创新能力将其分为"创新领导者""强创新者""一般创新者""温和创新者"四个类别。指标涵盖研发支出、专利数量、科技人员数量等（Hollanders & Es-Sadki, 2017; Rambla, 2022, p.169）。该记分牌是 [[Performance Indicators (Policy Instruments)]] 在欧盟治理中的典型案例——它同时运作于技术维度（提供可比较数据）和权力维度（塑造"什么是好创新"的定义并推动区域竞争）。
+EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovation Union 的核心监测工具，根据各 NUTS2 区域的创新能力将其分为"创新领导者""强创新者""一般创新者""温和创新者"四个类别。指标涵盖研发支出、专利数量、科技人员数量等（Hollanders & Es-Sadki, 2017; Rambla, 2022, p.169）。该记分牌是 [[Performance Indicators]] 在欧盟治理中的典型案例——它同时运作于技术维度（提供可比较数据）和权力维度（塑造"什么是好创新"的定义并推动区域竞争）。
 
 ## 时间线
 
@@ -88,13 +88,13 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 > [!warning]
 > - **区域同质化假设**：Innovation Union 假设所有欧盟区域——无论其经济发展水平、制度传统和创新能力如何——都应且能够成为同一类型的"创新生态体系"。这一假设忽视了区域之间在产业结构、人力资本、制度能力等维度上的根本结构性差异（Rambla, 2022, p.174）
 > - **创新定义的窄化**：通过将创新操作化为研发支出、专利数量和科技人员数量，Innovation Union 在话语上排除了社会创新、文化创新和基层互助创新。这一操作化定义的窄化并非技术必然，而是一种政治选择——但它被指标的"客观性"外表所遮蔽（p.174–175）
-> - **与 [[EU Skills Agenda]] 的协调问题**：两个旗舰政策共享"协同演化"的变革理论（[[Theories of Change (Policy)]]），但在治理实践中，通过模糊此前分离的政策领域边界，为代表不同层级政府的行动者带来了大量协调问题——这些在政策设计中未被充分预见（p.169）
+> - **与 [[EU Skills Agenda]] 的协调问题**：两个旗舰政策共享"协同演化"的变革理论（[[Theories of Policy Change]]），但在治理实践中，通过模糊此前分离的政策领域边界，为代表不同层级政府的行动者带来了大量协调问题——这些在政策设计中未被充分预见（p.169）
 
 ## 相关概念／理论
 
 > [!tip]
-> - [[Performance Indicators (Policy Instruments)]] — 区域创新记分牌是绩效指标作为政策工具的典型案例
-> - [[Theories of Change (Policy)]] — Innovation Union 承载"创新生态体系→经济增长"的核心因果叙事
+> - [[Performance Indicators]] — 区域创新记分牌是绩效指标作为政策工具的典型案例
+> - [[Theories of Policy Change]] — Innovation Union 承载"创新生态体系→经济增长"的核心因果叙事
 > - [[Selectivity (Governance)]] — Innovation Union 通过指标定义"什么是创新"，系统性地优先技术研发型创新
 > - [[EU Skills Agenda]] — 同为 Europe 2020 旗舰，共享"创新+教育协同演化"的变革理论
 > - [[Europe 2020 Strategy]] — Innovation Union 所属的十年战略框架

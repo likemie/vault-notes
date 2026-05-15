@@ -3,7 +3,7 @@ title: Finnish National Core Curriculum 2014
 type: fact
 subtype: policy
 tags: [curriculum, region/finland, level/k12, phenomenon-based-learning]
-related_concepts: ["[[Phenomenon-Based Learning]]", "[[Bildung]]", "[[Didaktik]]", "[[Epochal Key Problems]]", "[[Atomisation of Knowledge and Skills]]", "[[SveaSus Project]]", "[[Problem-Based Learning]]", "[[Education Indicators]]"]
+related_concepts: ["[[Phenomenon-Based Learning]]", "[[Bildung]]", "[[Didaktik]]", "[[Epochal Key Problems]]", "[[Atomisation of Knowledge and Skills]]", "[[SveaSus Project]]", "[[Problem-Based Learning]]", "[[Performance Indicators]]"]
 related_theories: ["[[Phenomenology]]", "[[Radical Constructivism]]"]
 sources: ["sources/Schaffar_2024_CogentEdu.md"]
 confidence: medium
@@ -18,7 +18,7 @@ updated: 2026-05-06
 
 芬兰教育政策原本嵌入北欧福利国家传统，强调民主、团结、平等，以及全民基础教育、医疗、养老金、失业保障和高等教育支持等共享制度。1990 年代苏联解体后，芬兰经历严重经济衰退，政策话语开始把国家未来描绘为"信息社会"，并积极吸收 OECD 关于劳动力市场变化和教育现代化的政策语言（Schaffar & Wolff, 2024, p.8）。
 
-2000 年前后，芬兰在 OECD 和 World Economic Forum 报告中成为教育"榜样国家"。这种由 [[Education Indicators]] 和国际比较强化的声誉反过来影响国内政策表述：课程改革常以"保持领先""避免落后于竞争者""让最好的变得更好"等语言包装。PhBL 的课程化也可放在这一语境中理解：它既回应复杂未来与横向能力的需要，也服务于芬兰教育模式持续更新的国际叙事（Schaffar & Wolff, 2024, pp.8-9）。
+2000 年前后，芬兰在 OECD 和 World Economic Forum 报告中成为教育"榜样国家"。这种由 [[Performance Indicators]] 和国际比较强化的声誉反过来影响国内政策表述：课程改革常以"保持领先""避免落后于竞争者""让最好的变得更好"等语言包装。PhBL 的课程化也可放在这一语境中理解：它既回应复杂未来与横向能力的需要，也服务于芬兰教育模式持续更新的国际叙事（Schaffar & Wolff, 2024, pp.8-9）。
 
 ## 政策文本摘要
 

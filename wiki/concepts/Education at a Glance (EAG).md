@@ -2,7 +2,7 @@
 title: Education at a Glance (EAG)
 type: concept
 tags: [Education at a Glance, EAG, OECD indicators, Comparative Education, region/global, level/k12]
-related_concepts: ["[[International Indicators of Education Systems (INES)]]", "[[Education Indicators]]", "[[Performativity of Measurement]]"]
+related_concepts: ["[[International Indicators of Education Systems (INES)]]", "[[Performance Indicators]]", "[[Performativity of Measurement]]"]
 related_theories: ["[[Science and Technology Studies (STS)]]"]
 related_persons: ["[[Norberto Bottani]]"]
 sources: ["sources/Gorur_2014_Discourse.md"]
@@ -43,7 +43,7 @@ EAG 包含四大类指标（OECD, 2012; Gorur, 2014, p.9）：
 ## 与相关概念的区别
 
 - vs **[[PISA]]** — PISA 更知名（因涉及更多国家和统一的考试），但 EAG 更全面：涵盖投入、过程、产出、财务、劳动力市场结果等多维度，而 PISA 主要关注学生成绩（Gorur, 2014, p.4）
-- vs **[[Education Indicators]]** — EAG 是教育指标的具体集合/产品，Education Indicators 是更广泛的指标概念
+- vs **[[Performance Indicators]]** — EAG 是教育指标的具体集合/产品，Education Indicators 是更广泛的指标概念
 - vs **[[International Indicators of Education Systems (INES)]]** — INES 是开发 EAG 指标的项目/组织，EAG 是 INES 的产出物
 
 ## 理论基础

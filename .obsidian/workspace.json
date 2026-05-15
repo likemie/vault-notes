@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/Geopolitics of Knowledge.md",
+                "file": "wiki/arguments/Argument_Rambla_2022_Springer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geopolitics of Knowledge"
+              "title": "Argument_Rambla_2022_Springer"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:policy-instruments",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,6 +189,9 @@
   },
   "active": "ca60ccc8b591cddf",
   "lastOpenFiles": [
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md",
+    "wiki/arguments/Argument_Parreira do Amaral_2022_Springer.md",
+    "wiki/concepts/Geopolitics of Knowledge.md",
     "wiki/concepts/Network Governance.md",
     "wiki/concepts/Theories of Policy Change.md",
     "wiki/concepts/Performance Indicators.md",
@@ -198,7 +200,6 @@
     "wiki/concepts/Network Governance in Education.md",
     "wiki/concepts/Performance Indicators (Policy Instruments).md",
     "wiki/concepts/Education Indicators.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md",
     "wiki/facts/global/Youth Guarantee Scheme.md",
     "wiki/facts/global/Innovation Union.md",
     "wiki/facts/global/Europe 2020 Strategy.md",
@@ -220,8 +221,6 @@
     "wiki/theories/World-Systems Theory.md",
     "wiki/arguments/Argument_Boyadjieva_2022_Springer.md",
     "wiki/theories/Hegemony.md",
-    "wiki/concepts/Semi-Autonomy of Higher Education.md",
-    "wiki/concepts/Methodological Globalism.md",
     "sources/Marginson_2025_ROE.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch9_Zapp_2022.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch7_Delambre_2022.pdf",

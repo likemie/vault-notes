@@ -3,7 +3,7 @@ title: Tomorrow's Schools Reforms (NZ 1989)
 type: fact
 subtype: policy
 tags: [school-reform, region/new-zealand, level/k12]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance in Education]]", "[[Privatisation of State Schooling]]"]
+related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance]]", "[[Privatisation of State Schooling]]"]
 sources: ["sources/ONeill_2016_Report.md", "sources/Johnson_2023_CE.md", "sources/Sarbiewska_2019_JSR.md"]
 confidence: medium
 status: draft
@@ -46,7 +46,7 @@ Johnson & Janzen（2023, p.30）详细记录了改革引发的私营化链条中
 
 ## 相关概念
 - [[Educational Management Organisation (EMO)]]
-- [[Network Governance in Education]]
+- [[Network Governance]]
 - [[School Autonomy]]
 
 ## 来源

@@ -3,7 +3,7 @@ title: Stephen Ball
 type: person
 tags: [Stephen Ball, education-policy, privatisation, region/uk]
 related_theories: []
-related_concepts: ["[[Endogenous and Exogenous Privatisation]]", "[[Policy Entrepreneur]]", "[[Network Governance in Education]]"]
+related_concepts: ["[[Endogenous and Exogenous Privatisation]]", "[[Policy Entrepreneur]]", "[[Network Governance]]"]
 related_persons: []
 sources: ["sources/ONeill_2016_Report.md"]
 confidence: medium
@@ -37,7 +37,7 @@ Ball（2012）将 Mintrom（2000）的政策创业者概念扩展至跨国维度
 
 ### 网络治理
 
-Ball 的工作为理解教育中网络治理模式（network governance modality）提供了理论基础——传统的市场与科层治理形式如何被新的政策网络形式所补充或取代。参见 [[Network Governance in Education]]。
+Ball 的工作为理解教育中网络治理模式（network governance modality）提供了理论基础——传统的市场与科层治理形式如何被新的政策网络形式所补充或取代。参见 [[Network Governance]]。
 
 ## 来源
 - [[ONeill_2016_Report]]

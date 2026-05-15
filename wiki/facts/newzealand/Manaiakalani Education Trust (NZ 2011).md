@@ -2,7 +2,7 @@
 title: Manaiakalani Education Trust (NZ 2011)
 type: fact
 tags: [manaiakalani, digital-learning, subject/curriculum, region/new-zealand, education-policy]
-related_concepts: ["[[Network Governance in Education]]", "[[Venture Philanthropy]]"]
+related_concepts: ["[[Network Governance]]", "[[Venture Philanthropy]]"]
 related_theories: []
 related_persons: []
 sources: ["sources/ONeill_2016_Report.md"]

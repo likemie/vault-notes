@@ -4,7 +4,7 @@ aliases: ["AHELO", "高等教育学习成果评估", "Assessment of Higher Educa
 type: fact
 subtype: event
 tags: [oecd, higher-education, assessment, learning-outcomes, region/global, level/higher-ed]
-related_concepts: ["[[Global Universities Rankings]]", "[[Education Indicators]]"]
+related_concepts: ["[[Global Universities Rankings]]", "[[Performance Indicators]]"]
 related_theories: []
 related_persons: ["[[Philip Altbach]]"]
 related_facts: ["[[Academic Ranking of World Universities (ARWU)]]"]

@@ -3,7 +3,7 @@ title: Foundation North Māori and Pasifika Education Initiative (MPEI 2009)
 type: fact
 subtype: policy
 tags: [philanthropy, region/new-zealand, level/k12]
-related_concepts: ["[[Venture Philanthropy]]", "[[Network Governance in Education]]"]
+related_concepts: ["[[Venture Philanthropy]]", "[[Network Governance]]"]
 sources: ["sources/ONeill_2016_Report.md"]
 confidence: medium
 status: draft
@@ -30,7 +30,7 @@ Foundation North（前 ASB Community Trust）是澳大拉西亚最大的慈善�
 
 ## 相关概念
 - [[Venture Philanthropy]]
-- [[Network Governance in Education]]
+- [[Network Governance]]
 
 ## 来源
 - [[ONeill_2016_Report]]

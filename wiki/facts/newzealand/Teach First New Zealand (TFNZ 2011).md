@@ -2,7 +2,7 @@
 title: Teach First New Zealand Ako Mātātupu (TFNZ 2011)
 type: fact
 tags: [teach-first, teacher-training, subject/curriculum, region/new-zealand, education-policy]
-related_concepts: ["[[Network Governance in Education]]", "[[Policy Entrepreneur]]", "[[Venture Philanthropy]]"]
+related_concepts: ["[[Network Governance]]", "[[Policy Entrepreneur]]", "[[Venture Philanthropy]]"]
 related_theories: []
 related_persons: []
 sources: ["sources/ONeill_2016_Report.md"]

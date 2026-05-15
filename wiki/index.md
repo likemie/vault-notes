@@ -30,7 +30,7 @@
 
 - [[Cross-National Attraction]] — Phillips & Ochs 政策借用四阶段模型的第一阶段，Rappleye (2006) 以情境概念地图系统理论化其结构／人的双层推力与阻力和四种吸引力"火花"
 - [[Education at a Glance (EAG)]] — OECD 年度旗舰出版物，以 30 项国际教育指标描述各国教育系统，涵盖产出、投入、参与、环境四大维度
-- [[Education Indicators]] — 经目的性选择和加工的派生统计量，合并多数据源，旨在提醒决策者注意潜在问题而非诊断评估
+- [[Performance Indicators]] — 经目的性选择和加工的派生统计量，合并多数据源；Le Galès 技术—权力双重性框架，Rambla 四维运作机制分析；合并原 Education Indicators
 - [[Externalization (Schriewer)]] — Schriewer 的比较教育核心概念：教育系统将内部问题构型投射到国际参照系中的过滤过程，Rappleye (2006) 发展为双向运作（外化到国际趋势／外化到传统）
 - [[Geopolitics of Knowledge]] — 高等教育被重构为知识地缘政治竞争的核心维度：创新、科学和教育成为个体、企业、国家全球战略定位的关键特征，涉及古典地缘政治向关系性空间构型的理论转变
 - [[Global Regionalisms in Higher Education]] — Robertson et al. (2016) 的概念：高等教育被整合进世界各地区大规模政治经济区域整合项目（EU、ASEAN 等），成为区域地缘政治想象的核心支柱
@@ -48,11 +48,11 @@
 - [[Economic and Industrial Espionage]] — Søilen 区分经济间谍（政府参与）与工业间谍（无政府），Partaken 以中美技术紧张为核心案例
 - [[Educational Management Organisation (EMO)]] — 参与公立学校教育政策制定与服务交付的私营部门实体，营利/非营利两种形式，Cognition Education 和 CORE Education 为新西兰最大 EMO
 - [[National Competitive Advantage]] — Porter (1990) 理论：国家竞争优势通过高度本地化过程被创造，全球化反而使国家角色更重要，Moisio (2022) 将其分析为塑造 Hub and Flow 想象的关键地缘政治想象
-- [[Network Governance in Education]] — 传统市场/科层制公立学校治理被网络与部落形式取代，Thompson (1991) 为理论框架，新西兰自 2008 年加速发展
+- [[Network Governance]] — 传统市场/科层制公立学校治理被网络与部落形式取代，Thompson (1991) 为理论框架，新西兰自 2008 年加速发展
 - [[Policy Entrepreneur]] — Mintrom (2000) 和 Ball (2012) 概念：在教育系统内外通过协作和网络化影响政策发展的行动者，John Hattie 为新西兰典型
 - [[Progressive Neoliberalism]] — Nancy Fraser (2019) 概念：新自由主义经济政策与进步社会议程的话语结合，Moisio (2022) 定位为过去三十年知识经济化的主要政治推力（"硅谷世界观"），正在消退
 - [[Radical Liberal Internationalism]] — Sakwa (2023) 的概念：冷战后取代主权国际主义的自由反多元立场，以美国例外论和英美"基于规则的秩序"为形态，支持干预主义和政权更迭
-- [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念：超国家或国际组织通过指标、排名等监管机制对区域内高等教育进行间接治理的模式
+- [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念：超国家组织通过指标、排名等监管机制对区域内高等教育进行间接治理；Rambla (2022) 以 EU 绩效指标为操作案例
 - [[Classical Geopolitics]] — Moisio (2022) 概念：以国家"硬"领土力量和势力范围为中心的传统地缘政治理解，与知识地缘政治的关系性空间构型形成对照
 - [[Concealment-Exposure Framework]] — Nagel (1998) 提出、Partaken 提升至 GPK 的分析框架：隐藏与暴露的边界控制是人性核心属性，在 GPK 中体现为监视、审查和破坏三种运作模式
 - [[Economic Patriotism]] — Crouch & Le Galès (2012) 概念：国家将资源集中于冠军城市以锚定全球资本流动，将爱国情感与特定领土利益绑定的政策实践，Moisio (2022) 定位为知识经济化中国家的核心行为逻辑
@@ -68,8 +68,8 @@
 - [[Spatial Sortings]] — Moisio (2022) 的概念：知识密集型资本主义系统性地将地点和人口划分为"赢家"与"输家"的过程，由公共和私人投资驱动、国家中介
 - [[Sovereign Internationalism]] — Sakwa (2023) 的概念：1945 年联合国宪章体系核心理念，世界作为多元空间容忍文明差异和政治制度多样性，尊重不干涉原则
 - [[Transitology]] — Cowen (1996, 2000) 的比较教育概念：国家机器、社会分层体系和政治愿景的同时性崩溃与重建，教育在其中被赋予象征性和重构性角色，Amos (2022) 用于分析晚期现代教育的市场中心转向
-- [[Performance Indicators (Policy Instruments)]] — Le Galès (2016) 的政策工具概念：绩效指标作为兼具技术和权力维度的治理工具，Rambla (2022) 在欧盟创新和教育政策语境中分析其四维运作机制
-- [[Theories of Change (Policy)]] — Pawson (2006) 的实在论评估概念：政策承载的因果机制叙事，Rambla (2022) 分析其在欧盟旗舰政策中的应用与地方转化
+
+- [[Theories of Policy Change]] — Pawson (2006) 的实在论评估概念：政策承载的因果机制叙事，Rambla (2022) 分析其在欧盟旗舰政策中的应用与地方转化
 - [[Selectivity (Governance)]] — Jessop (2007) 的治理概念：政策工具通过结构性偏向系统性地优先某些替代方案而边缘化其他，Rambla (2022) 在欧盟区域创新和终身学习政策中分析
 
 ### Curriculum

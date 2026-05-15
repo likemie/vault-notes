@@ -2,7 +2,7 @@
 title: International Indicators of Education Systems (INES)
 type: concept
 tags: [INES, OECD, education indicators, Comparative Education, region/global]
-related_concepts: ["[[Education at a Glance (EAG)]]", "[[Education Indicators]]"]
+related_concepts: ["[[Education at a Glance (EAG)]]", "[[Performance Indicators]]"]
 related_theories: []
 related_persons: ["[[Norberto Bottani]]"]
 sources: ["sources/Gorur_2014_Discourse.md"]

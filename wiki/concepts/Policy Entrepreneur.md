@@ -2,7 +2,7 @@
 title: Policy Entrepreneur
 type: concept
 tags: [policy-entrepreneur, subject/curriculum, region/new-zealand, region/global]
-related_concepts: ["[[Network Governance in Education]]", "[[Educational Management Organisation (EMO)]]", "[[Endogenous and Exogenous Privatisation]]"]
+related_concepts: ["[[Network Governance]]", "[[Educational Management Organisation (EMO)]]", "[[Endogenous and Exogenous Privatisation]]"]
 related_theories: []
 related_persons: ["[[John Hattie]]"]
 related_facts: ["[[Visible Learning Branding and Global Influences]]"]

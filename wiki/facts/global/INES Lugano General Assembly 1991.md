@@ -3,7 +3,7 @@ title: INES Lugano General Assembly 1991
 type: fact
 subtype: event
 tags: [INES, OECD, education indicators, region/global]
-related_concepts: ["[[International Indicators of Education Systems (INES)]]", "[[Education at a Glance (EAG)]]", "[[Education Indicators]]"]
+related_concepts: ["[[International Indicators of Education Systems (INES)]]", "[[Education at a Glance (EAG)]]", "[[Performance Indicators]]"]
 related_theories: []
 related_persons: ["[[Norberto Bottani]]"]
 sources: ["sources/Gorur_2014_Discourse.md"]
@@ -67,7 +67,7 @@ Bottani 后来反思：Lugano 开创了"对绩效指标的痴迷"（obsession wi
 ## 相关概念／政策
 - [[International Indicators of Education Systems (INES)]]
 - [[Education at a Glance (EAG)]]
-- [[Education Indicators]]
+- [[Performance Indicators]]
 - [[Performativity of Measurement]]
 
 ## 来源

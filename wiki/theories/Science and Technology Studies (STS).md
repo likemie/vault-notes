@@ -2,7 +2,7 @@
 title: Science and Technology Studies (STS)
 type: theory
 tags: [STS, Science and Technology Studies, paradigm/constructivist, Philosophy & Epistemology]
-related_concepts: ["[[Sociology of Measurement]]", "[[Performativity of Measurement]]", "[[Education Indicators]]"]
+related_concepts: ["[[Sociology of Measurement]]", "[[Performativity of Measurement]]", "[[Performance Indicators]]"]
 related_theories: []
 related_persons: []
 related_methods: []

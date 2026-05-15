@@ -2,7 +2,7 @@
 title: Sociology of Measurement
 type: concept
 tags: [Sociology of Measurement, measurement, STS, performativity, Educational Sociology]
-related_concepts: ["[[Performativity of Measurement]]", "[[Education Indicators]]"]
+related_concepts: ["[[Performativity of Measurement]]", "[[Performance Indicators]]"]
 related_theories: ["[[Science and Technology Studies (STS)]]"]
 related_persons: []
 sources: ["sources/Gorur_2014_Discourse.md"]

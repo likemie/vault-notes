@@ -3,7 +3,7 @@ title: Contestable School Support Services (NZ 2011)
 type: fact
 subtype: policy
 tags: [school-reform, region/new-zealand, level/k12]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance in Education]]"]
+related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance]]"]
 sources: ["sources/ONeill_2016_Report.md"]
 confidence: medium
 status: draft

@@ -3,7 +3,7 @@ title: Selectivity (Governance)
 aliases: ["选择性（治理）", "policy selectivity", "strategic selectivity"]
 type: concept
 tags: ["governance", "policy-instruments", "region/global"]
-related_concepts: ["[[Performance Indicators (Policy Instruments)]]", "[[Theories of Change (Policy)]]"]
+related_concepts: ["[[Performance Indicators]]", "[[Theories of Policy Change]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -33,7 +33,7 @@ updated: 2026-05-13
 > [!example]
 > - vs 有意的偏向（intentional bias）：选择性不是决策者主动排斥某些议题，而是政策工具本身的设计使某些替代方案在操作上更可行、在话语上更"合理"。这是一种结构效应，而非个人动机（Rambla, 2022, p.174）
 > - vs 优先级设定（priority-setting）：优先级设定是明确的议程选择（如"本年度重点推进创新政策"），而选择性是隐性的——它是政策工具运作中产生的系统性效应，常不被行动者意识到（Jessop, 2007）
-> - vs [[Performance Indicators (Policy Instruments)]]：选择性是绩效指标的四个操作维度之一。绩效指标是工具，选择性是该工具产生的一种系统性效应——指该工具"筛选掉了什么"。详见 [[Performance Indicators (Policy Instruments)]]。
+> - vs [[Performance Indicators]]：选择性是绩效指标的四个操作维度之一。绩效指标是工具，选择性是该工具产生的一种系统性效应——指该工具"筛选掉了什么"。详见 [[Performance Indicators]]。
 
 ## 概念演变
 
@@ -102,7 +102,7 @@ updated: 2026-05-13
 > - [[Innovation Union]] — 绩效指标对创新的界定向研发密集型模式倾斜，排斥社会创新
 > - [[EU Skills Agenda]] — 终身学习政策中就业优先于个人发展和公民参与维度的选择性
 > - [[Europe 2020 Strategy]] — 战略框架隐含的自由主义经济秩序预设本身就是一种结构性选择
-> - [[Performance Indicators (Policy Instruments)]] — 选择性是绩效指标的四个构成维度之一
+> - [[Performance Indicators]] — 选择性是绩效指标的四个构成维度之一
 
 ## 来源
 

@@ -2,7 +2,7 @@
 title: Educational Management Organisation (EMO)
 type: concept
 tags: [EMO, subject/curriculum, region/new-zealand, region/global]
-related_concepts: ["[[Network Governance in Education]]", "[[Privatisation of State Schooling]]", "[[Venture Philanthropy]]", "[[Endogenous and Exogenous Privatisation]]", "[[Policy Entrepreneur]]"]
+related_concepts: ["[[Network Governance]]", "[[Privatisation of State Schooling]]", "[[Venture Philanthropy]]", "[[Endogenous and Exogenous Privatisation]]", "[[Policy Entrepreneur]]"]
 related_theories: []
 related_persons: ["[[John Hattie]]"]
 related_facts: ["[[Visible Learning Branding and Global Influences]]"]
@@ -59,7 +59,7 @@ Poirier（2013）指出，新西兰慈善法包容收费服务的非营利组织
 - **Pearson** — 全球最大教育组织，40,000 名员工遍布 70+ 国家，2015 年销售额约 £4.5B，以教育服务、思想领导力和风险投资品牌运营（O'Neill et al., 2016, pp.59–64）
 
 ## 与相关概念的区别
-- vs [[Network Governance in Education]] — EMO 是网络治理中的一类具体行动者（组织实体），网络治理是更广泛的治理模式理论框架
+- vs [[Network Governance]] — EMO 是网络治理中的一类具体行动者（组织实体），网络治理是更广泛的治理模式理论框架
 - vs [[Venture Philanthropy]] — EMOs 直接提供学校产品和服务，而风险慈善侧重战略性投资与社会回报评估
 
 ## 实证发现

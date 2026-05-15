@@ -3,7 +3,7 @@ title: Endogenous and Exogenous Privatisation
 aliases: ["内生与外生私有化", "教育私有化", "endogenous privatization", "exogenous privatization"]
 type: concept
 tags: [privatisation, education-policy, neoliberal, region/global, level/higher-ed]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance in Education]]", "[[Policy Entrepreneur]]", "[[Venture Philanthropy]]", "[[Internationalization of Higher Education]]", "[[New Public Management in Education]]", "[[Knowledge-Based Economy]]"]
+related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance]]", "[[Policy Entrepreneur]]", "[[Venture Philanthropy]]", "[[Internationalization of Higher Education]]", "[[New Public Management in Education]]", "[[Knowledge-Based Economy]]"]
 related_theories: []
 related_persons: ["[[Stephen Ball]]", "[[Fazal Rizvi]]"]
 related_methods: []

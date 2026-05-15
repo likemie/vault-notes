@@ -2,7 +2,7 @@
 title: Performativity of Measurement
 type: concept
 tags: [Performativity of Measurement, performativity, measurement, STS, Educational Philosophy, paradigm/constructivist]
-related_concepts: ["[[Sociology of Measurement]]", "[[Education Indicators]]", "[[Education at a Glance (EAG)]]", "[[New Public Management in Education]]", "[[School Leadership]]", "[[Visible Learning]]", "[[Visible Learning Branding and Global Influences]]", "[[Neo-Taylorism in Educational Administration]]", "[[Evidence-Based Education]]", "[[Atomisation of Knowledge and Skills]]"]
+related_concepts: ["[[Sociology of Measurement]]", "[[Performance Indicators]]", "[[Education at a Glance (EAG)]]", "[[New Public Management in Education]]", "[[School Leadership]]", "[[Visible Learning]]", "[[Visible Learning Branding and Global Influences]]", "[[Neo-Taylorism in Educational Administration]]", "[[Evidence-Based Education]]", "[[Atomisation of Knowledge and Skills]]"]
 related_theories: ["[[Science and Technology Studies (STS)]]", "[[Technical Rationality]]"]
 related_persons: ["[[Jorunn Møller]]", "[[Helen Gunter]]", "[[John Hattie]]", "[[Lucinda McKnight]]"]
 sources: ["sources/Gorur_2014_Discourse.md", "sources/Møller_2017_EERJ.md", "sources/McKnight_2020_Discourse.md", "sources/Johnson_2023_CE.md"]

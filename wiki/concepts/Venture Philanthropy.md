@@ -2,7 +2,7 @@
 title: Venture Philanthropy
 type: concept
 tags: [venture-philanthropy, subject/curriculum, region/new-zealand]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance in Education]]", "[[Endogenous and Exogenous Privatisation]]"]
+related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance]]", "[[Endogenous and Exogenous Privatisation]]"]
 related_theories: []
 related_persons: []
 sources: ["sources/ONeill_2016_Report.md"]

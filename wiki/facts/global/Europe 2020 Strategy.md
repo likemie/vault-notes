@@ -4,7 +4,7 @@ aliases: ["欧洲2020战略", "EU 2020 Strategy", "Europe 2020"]
 type: fact
 subtype: policy
 tags: ["region/eu", "region/global", "policy/employment", "policy/education", "policy/innovation"]
-related_concepts: ["[[Performance Indicators (Policy Instruments)]]", "[[Theories of Change (Policy)]]", "[[Selectivity (Governance)]]", "[[Network Governance in Education]]"]
+related_concepts: ["[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity (Governance)]]", "[[Network Governance]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -51,7 +51,7 @@ updated: 2026-05-13
 
 ### 核心治理机制
 
-Europe 2020 的核心治理机制是 [[Performance Indicators (Policy Instruments)]]。EUROSTAT 通过区域层面的指标体系（如区域创新记分牌和 NUTS2 教育指标）将复杂的政策目标转化为可比较、可排名的量化数据。Rambla（2022）的分析指出，这一治理机制的运作依赖于一个嵌入指标体系中的 [[Theories of Change (Policy)]]——即"创新生态体系"与"教育培训体系"协同演化→产生增效→实现智能、可持续与包容性增长（p.170–172）。
+Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通过区域层面的指标体系（如区域创新记分牌和 NUTS2 教育指标）将复杂的政策目标转化为可比较、可排名的量化数据。Rambla（2022）的分析指出，这一治理机制的运作依赖于一个嵌入指标体系中的 [[Theories of Policy Change]]——即"创新生态体系"与"教育培训体系"协同演化→产生增效→实现智能、可持续与包容性增长（p.170–172）。
 
 ## 时间线
 
@@ -70,7 +70,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators (Policy Instrument
 >
 > - **顶层设计**：欧盟委员会和欧盟理事会发布建议书和战略通讯，设定总体目标和基准
 > - **监测与排名**：EUROSTAT 通过 NUTS2 区域指标体系监测各成员国和区域的进展，发布可比较的排名
-> - **多层协调**：成员国和区域政府被鼓励建立来自政府、企业、非营利和公民社会的多元利益相关方网络。详见 [[Network Governance in Education]] 中欧盟部分
+> - **多层协调**：成员国和区域政府被鼓励建立来自政府、企业、非营利和公民社会的多元利益相关方网络。详见 [[Network Governance]] 中欧盟部分
 > - **财政杠杆**：欧盟社会基金（European Social Fund, ESF）为培训和积极劳动力市场政策提供资金支持
 
 ## 效果与评价
@@ -88,13 +88,13 @@ Europe 2020 的核心治理机制是 [[Performance Indicators (Policy Instrument
 > [!warning]
 > - **同质化逻辑**：Europe 2020 将所有欧盟区域纳入同一政策框架，忽略了区域之间在经济结构、制度和创新能力上的根本性差异。绩效指标体系将这种同质化操作化为可比较的排名，进一步固化了"领先"与"滞后"的分类（Rambla, 2022, p.174）
 > - **选择性偏向**：战略框架隐含的自由主义经济秩序预设——即 Jessop（2007）所描述的"决策者不可避免地聚焦于某些议题而忽略其他"——可能系统性地排斥替代性政策路径，如强调社会投资而非经济竞争的福利国家模式（Jessop, 2007; Rambla, 2022, p.166, 174）。详见 [[Selectivity (Governance)]]
-> - **因果叙事未经检验**：战略所依赖的"创新+教育=增长"的变革理论（[[Theories of Change (Policy)]]）核心因果假设未经过严格的实证检验——它更像是政策工具的内在成分，被嵌入而非被验证（p.165–166）
+> - **因果叙事未经检验**：战略所依赖的"创新+教育=增长"的变革理论（[[Theories of Policy Change]]）核心因果假设未经过严格的实证检验——它更像是政策工具的内在成分，被嵌入而非被验证（p.165–166）
 
 ## 相关概念／理论
 
 > [!tip]
-> - [[Performance Indicators (Policy Instruments)]] — 基准管理是 Europe 2020 的核心治理机制
-> - [[Theories of Change (Policy)]] — 战略承载"创新+教育=智能增长"的核心因果叙事
+> - [[Performance Indicators]] — 基准管理是 Europe 2020 的核心治理机制
+> - [[Theories of Policy Change]] — 战略承载"创新+教育=智能增长"的核心因果叙事
 > - [[Selectivity (Governance)]] — 战略框架隐含的自由主义经济秩序预设构成结构性选择
 > - [[Innovation Union]] — 战略的旗舰倡议，聚焦创新
 > - [[EU Skills Agenda]] — 战略的旗舰倡议，聚焦技能与就业
