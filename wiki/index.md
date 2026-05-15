@@ -374,6 +374,25 @@
 - [[Hattie på dansk 2017]] — Bjerre 等编辑的丹麦语批评文集，汇集多篇对 VL 的强烈批评，Qvortrup 以 Alexander 话语框架定性为"文化战争"
 - [[SFI Report 2013]] — Winther & Nielsen 编辑的丹麦 SFI 报告，是检验 Hattie/Meyer/Helmke 有效教学综合丹麦适用性的主要本土证据
 
+### EU
+
+- [[Europe 2020 Strategy]] — EU 2010–2020 十年战略规划，以"智能、可持续与包容性增长"为框架，涵盖就业、研发、气候、教育、减贫五大领域
+
+#### Innovation & Research Policy
+
+- [[Innovation Union]] — EU 2010–2020 旗舰政策，旨在构建区域创新生态体系，以 EUROSTAT 区域创新记分牌为核心监测工具
+- [[Horizon 2020 SSH Integration]] — EU 2014–2020 年研究框架取消社会科学与人文学科独立资助渠道，作为横向议题嵌入所有优先领域
+- [[Horizon Europe Missions]] — EU 2021–2027 年研究与创新框架的核心机制，将研究整合为五大社会挑战的使命承诺
+
+#### Education & Training Policy
+
+- [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，YOUNG_ADULLLT 项目揭示其在欧盟各地差异化实施
+- [[YOUNG_ADULLLT]] — EU Horizon 2020 研究项目（Grant No 693167），9 国 16 区 168 名专家访谈，考察终身学习政策区域治理
+
+#### Employment & Social Policy
+
+- [[Youth Guarantee Scheme]] — EU 2013 年理事会建议书，确保青年在离校或失业后 4 个月内获得就业、教育、培训或学徒机会
+
 ### Finland
 
 #### Curriculum Policy
@@ -398,19 +417,13 @@
 - [[OECD AHELO Project]] — OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败
 - [[ISSPP Project]] — Christopher Day 领导、自 2002 年起 20+ 国参与的国际成功学校校长项目，最全面的跨国学校领导力案例研究，Møller 以亲历者立场提出方法论反思
 - [[OECD Improving School Leadership Project 2006]] — OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
-- [[Horizon Europe Missions]] — EU 2021–2027 年研究与创新框架的核心机制，将研究整合为针对五大社会挑战（癌症、气候、海洋、城市、食物）的使命承诺
-- [[Horizon 2020 SSH Integration]] — EU 2014–2020 年研究框架取消社会科学与人文学科独立资助渠道，将其作为横向议题嵌入所有优先领域以服务于政策证据基础
 - [[Minerva University]] — 2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标
 - [[Regional University Alliances]] — Amos (2022) 在晚期现代教育转型语境中关注的三类欧洲大学联盟（LERU、The GUILD、European University Alliances），在科研合作、师生流动和联合学位中运作，构成多层级地缘政治教育空间中的制度行动者
 - [[Australia in the Asian Century White Paper 2012]] — 澳大利亚 Henry Report：将亚洲崛起定位为"澳大利亚的机遇"，推动 AISRF、ACSRF 等与亚洲的研究合作
 - [[GATS and Trade in Education Services]] — WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映"新帝国主义"
 - [[THE Impact Ranking 2019]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
 - [[UN Sustainable Development Goals 2015]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的"新型第三使命"
-- [[Innovation Union]] — EU 2010–2020 旗舰政策，旨在构建区域创新生态体系，以 EUROSTAT 区域创新记分牌为核心监测工具，Rambla (2022) 分析其同质化假设
-- [[Europe 2020 Strategy]] — EU 2010–2020 十年战略规划，以"智能、可持续与包容性增长"为框架，涵盖就业、研发、气候、教育、减贫五大领域
-- [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，YOUNG_ADULLLT 项目揭示其在欧盟各地差异化实施
-- [[YOUNG_ADULLLT]] — EU Horizon 2020 研究项目（Grant No 693167），9 国 16 区 168 名专家访谈，考察终身学习政策区域治理与地方变革理论
-- [[Youth Guarantee Scheme]] — EU 2013 年理事会建议书，确保青年在离校或失业后 4 个月内获得就业、教育、培训或学徒机会
+
 
 ### Hong Kong
 
