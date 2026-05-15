@@ -1,9 +1,9 @@
 ---
-title: Selectivity (Governance)
-aliases: ["选择性（治理）", "policy selectivity", "strategic selectivity"]
+title: Selectivity
+aliases: ["选择性（治理）", "政策选择性", "policy selectivity", "strategic selectivity"]
 type: concept
 tags: ["governance", "policy-instruments", "region/global"]
-related_concepts: ["[[Performance Indicators]]", "[[Theories of Policy Change]]"]
+related_concepts: ["[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Neocorporatism]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -13,10 +13,10 @@ sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
 confidence: medium
 status: draft
 created: 2026-05-13
-updated: 2026-05-13
+updated: 2026-05-14
 ---
 
-# Selectivity (Governance)
+# Selectivity
 
 ## 定义
 
@@ -33,7 +33,7 @@ updated: 2026-05-13
 > [!example]
 > - vs 有意的偏向（intentional bias）：选择性不是决策者主动排斥某些议题，而是政策工具本身的设计使某些替代方案在操作上更可行、在话语上更"合理"。这是一种结构效应，而非个人动机（Rambla, 2022, p.174）
 > - vs 优先级设定（priority-setting）：优先级设定是明确的议程选择（如"本年度重点推进创新政策"），而选择性是隐性的——它是政策工具运作中产生的系统性效应，常不被行动者意识到（Jessop, 2007）
-> - vs [[Performance Indicators]]：选择性是绩效指标的四个操作维度之一。绩效指标是工具，选择性是该工具产生的一种系统性效应——指该工具"筛选掉了什么"。详见 [[Performance Indicators]]。
+> - vs [[Performance Indicators]]：选择性是绩效指标的四个操作维度之一。绩效指标是工具，选择性是该工具产生的一种系统性效应——指该工具"筛选掉了什么"。详见 [[Performance Indicators]]
 
 ## 概念演变
 
@@ -59,7 +59,7 @@ updated: 2026-05-13
 
 ### 就业维度优先于赋权维度
 
-在终身学习领域，选择性表现为就业维度系统性地优先于个人发展和公民参与维度。YOUNG_ADULLLT 项目发现，除芬兰外，大多数欧盟成员国的终身学习专业人员将政策理解为就业优先（employment-first）工具——即在短期内帮助青年获得工作，而非支持整个生命历程中的学习与成长（Rambla, 2022, p.174–175）。
+在终身学习领域，选择性表现为就业维度系统性地优先于个人发展和公民参与维度。[[YOUNG_ADULLLT]] 项目发现，除芬兰外，大多数欧盟成员国的终身学习专业人员将政策理解为就业优先（employment-first）工具——即在短期内帮助青年获得工作，而非支持整个生命历程中的学习与成长（Rambla, 2022, p.174–175）。
 
 > 例：一个青年花 1 年时间参与社区环保项目并获得组织技能（指标：失业 12 个月），与一个在 3 个月内找到超市收银工作的青年（指标：成功就业）——绩效指标体系天然地奖励后者。问题不在于就业不值得肯定，而在于指标体系使前者的发展路径在政策视野中变得不可见。
 
@@ -72,22 +72,22 @@ updated: 2026-05-13
 ## 实证发现
 
 > [!success]
-> 以下发现全部来自 Rambla（2022）基于 YOUNG_ADULLLT 数据的分析：
+> 以下发现全部来自 Rambla（2022）基于 [[YOUNG_ADULLLT]] 数据的分析：
 
 ### 制度传统对选择性的缓冲效应
 
-在德国和新社团主义（neocorporatism）传统较强的邻国，政策网络包含政府、雇主协会和工会等传统伙伴，选择性在一定程度上被制度多元性所缓冲——多元行动者的参与使更多维度的政策考量得以进入议程（p.173–174）。
+在德国和 [[Neocorporatism]] 传统较强的邻国，政策网络包含政府、雇主协会和工会等传统伙伴，选择性在一定程度上被制度多元性所缓冲——多元行动者的参与使更多维度的政策考量得以进入议程（Rambla, 2022, p.173–174）。
 
 ### 制度薄弱环境中选择性的放大效应
 
-在南欧和东欧，政策网络较弱，选择性效应更为显著。由于缺乏系统的变革理论支持，地方专业人员更容易被就业优先的绩效指标逻辑所牵引——"帮助青年尽快找到任何工作"成为压倒性的实践取向（p.173–174）。
+在南欧和东欧，政策网络较弱，选择性效应更为显著。由于缺乏系统的变革理论支持，地方专业人员更容易被就业优先的绩效指标逻辑所牵引——"帮助青年尽快找到任何工作"成为压倒性的实践取向（Rambla, 2022, p.173–174）。
 
 ### 自下而上的选择性突破
 
-意大利和西班牙的第二机会学校案例表明，地方层面可以通过自主发展替代变革理论来突破绩效指标的选择性框架。但这些突破高度依赖地方创新能力——而这恰恰是许多被标记为"落后"的区域最缺乏的资源（p.173）。
+意大利和西班牙的第二机会学校案例表明，地方层面可以通过自主发展替代变革理论来突破绩效指标的选择性框架。但这些突破高度依赖地方创新能力——而这恰恰是许多被标记为"落后"的区域最缺乏的资源（Rambla, 2022, p.173）。
 
 > [!info]- 核心数据
-> - YOUNG_ADULLLT 项目覆盖 16 个欧盟地区，168 名专家访谈（p.172）
+> - [[YOUNG_ADULLLT]] 项目覆盖 16 个欧盟地区，168 名专家访谈（p.172）
 > - 除芬兰外，所有受访国家的终身学习专业人员将政策首要目标理解为就业安置（p.174）
 
 ## 争议与批评
