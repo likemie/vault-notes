@@ -11,14 +11,12 @@
             "id": "ca60ccc8b591cddf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "vault-schema.md",
-                "mode": "source",
-                "source": false
+                "file": "books/Ryan(Ed.)_2010_HKUP/Ryan(Ed.)_2010_HKUP_前言.pdf"
               },
-              "icon": "lucide-file",
-              "title": "vault-schema"
+              "icon": "lucide-file-text",
+              "title": "Ryan(Ed.)_2010_HKUP_前言"
             }
           }
         ]
@@ -187,8 +185,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ca60ccc8b591cddf",
+  "active": "88e92adc127e8098",
   "lastOpenFiles": [
+    "books/Ryan(Ed.)_2010_HKUP/Ryan(Ed.)_2010_HKUP_International Education and the Chinese Learner_overview.md",
+    "wiki/arguments/Argument_Ryan_2010_HKUP.md",
+    "wiki/facts/multi/Transnationalism and America Project SYSU.md",
+    "wiki/facts/hongkong/English Schools Foundation Hong Kong.md",
+    "wiki/facts/hongkong/Symposium on International Teaching 2007.md",
+    "wiki/concepts/Fourth Culture.md",
+    "wiki/concepts/Chinese Learner.md",
+    "wiki/concepts/International Education.md",
+    "wiki/concepts/International Education.md.tmp.19396.e725185341eb",
+    "vault-schema.md",
+    "vault-schema-books-fixed.md",
+    "books/schema-edited-volume.md",
     "books/Ryan(Ed.)_2010_HKUP/Ryan(Ed.)_2010_HKUP_前言.pdf",
     "books/Ryan(Ed.)_2010_HKUP",
     "wiki/arguments/Argument_Rambla_2022_Springer.md",
@@ -208,23 +218,11 @@
     "wiki/facts/global/YOUNG_ADULLLT.md",
     "wiki/concepts/Selectivity.md",
     "wiki/facts/global/Europe 2020 Strategy.md",
-    "wiki/facts/global/EU Skills Agenda.md",
-    "wiki/concepts/Geopolitics of Knowledge.md",
-    "wiki/concepts/Network Governance.md",
-    "wiki/concepts/Theories of Policy Change.md",
-    "wiki/concepts/Performance Indicators.md",
-    "wiki/concepts/Regulatory Regionalism.md",
-    "wiki/concepts/Network Governance in Education.md",
-    "wiki/concepts/Performance Indicators (Policy Instruments).md",
-    "wiki/concepts/Education Indicators.md",
-    "wiki/facts/global/Youth Guarantee Scheme.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer-5/Ch10_Rambla_2022.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer-5",
     "raw/Parreira do Amaral(Ed.)_2022_Springer-5_第10章.pdf",
     "raw/Parreira do Amaral(Ed.)_2022_Springer-5_10.pdf",
-    "raw/978-3-030-94415-5_10.pdf",
-    "sources/Marginson_2025_ROE.pdf",
     "books/郑_2023_上海三联书店/第三章.jpeg",
     "books/郑_2023_上海三联书店/附录一个案描述5.jpeg",
     "books/郑_2023_上海三联书店/第五章 四种类型的毕业出路获得机制.jpeg",

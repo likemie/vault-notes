@@ -3,7 +3,10 @@
 ## Folder Structure
 - `raw/` — 待处理原始文献（不可编辑）
 - `sources/` — 已处理论文存档（从 raw/ 移入，不可编辑）
-- `books/` — 书籍处理工作区
+- `books/` — 书籍处理工作区与书籍处理 schema
+  - `books/schema-edited-volume.md` — 论文集处理方案
+  - `books/schema-monograph-pdf.md` — 专著 PDF 处理方案
+  - `books/schema-monograph-epub.md` — 专著 epub 处理方案
   - `books/Author(Ed.)_Year_Publisher/` — 论文集文件夹
   - `books/作者姓_年份_出版社/` — 专著文件夹
 - `wiki/` — 知识条目根目录
@@ -21,7 +24,8 @@
   - `wiki/persons/` — 人物
   - `wiki/methods/` — 研究方法
   - `wiki/arguments/` — 论证框架
-  - `wiki/templates/` — 条目模板（共7个，新建条目时按需读取）
+  - `wiki/templates/` — AI / Claude Code 条目模板（新建条目时按需读取；不等同于 Obsidian Templater 插件目录）
+- `templater/` — Obsidian Templater 插件模板目录（仅供插件插入模板使用，不替代 `wiki/templates/`）
 - `wiki/index.md` — 全局索引（工作流必读）
 - `vault-schema.md` — 本文件（位于根文件夹，不在 wiki/ 内）
 
@@ -446,13 +450,15 @@ Method 容易被忽略，扫描论文时须主动识别：
 
 ## 书籍处理
 
-看到以下标识或格式时，读取对应 schema 文件，不继续论文流程：
+看到以下标识或格式时，读取 `books/` 下对应的三个书籍处理方案之一，不继续普通论文流程：
 
-| 触发条件 | 读取文件 |
-|---------|---------|
-| 用户标注「(Ed.)」 | `books/schema-edited-volume.md` |
-| 用户标注「专著」 | `books/schema-monograph-pdf.md` |
-| 文件为 `.epub` 格式 | `books/schema-monograph-epub.md` |
+| 触发条件 | 读取文件 | 处理对象 |
+|---------|---------|---------|
+| 用户标注「(Ed.)」 | `books/schema-edited-volume.md` | 论文集／编著 |
+| 用户标注「专著」且文件为 PDF | `books/schema-monograph-pdf.md` | 专著 PDF |
+| 文件为 `.epub` 格式 | `books/schema-monograph-epub.md` | 专著 epub |
+
+> 旧的 `book-schema.md` 已删除；不要再读取或引用该文件。
 
 ---
 
