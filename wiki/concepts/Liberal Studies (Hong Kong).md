@@ -5,6 +5,8 @@ tags: [Liberal Studies (Hong Kong), subject/curriculum, region/china, level/k12]
 related_concepts: ["[[Policy Borrowing]]"]
 related_theories: ["[[Cuban's Curriculum Change Theory]]", "[[World Culture Theory]]"]
 related_persons: ["[[Paul Morris]]", "[[Carrie Lam]]", "[[Tung Chee-hwa]]"]
+related_facts: ["[[English Schools Foundation Hong Kong]]"]
+related_arguments: ["[[Argument_Ryan_2010_HKUP]]"]
 sources: ["sources/Yan_2025_JCS.md"]
 confidence: high
 status: draft

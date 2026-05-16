@@ -35,6 +35,7 @@
 - [[Geopolitics of Knowledge]] — 高等教育被重构为知识地缘政治竞争的核心维度：创新、科学和教育成为个体、企业、国家全球战略定位的关键特征，涉及古典地缘政治向关系性空间构型的理论转变
 - [[Global Regionalisms in Higher Education]] — Robertson et al. (2016) 的概念：高等教育被整合进世界各地区大规模政治经济区域整合项目（EU、ASEAN 等），成为区域地缘政治想象的核心支柱
 - [[International Indicators of Education Systems (INES)]] — 1988 年 OECD 启动的国际教育指标开发项目，EAG 的前身和生产者
+- [[International Education]] — 超越特定国家地理与教学边界的跨文化、跨国际教育；2006 年全球 270 万+ 大学生出国留学、200 万+ 学生在国际学校就读，总计 600 万+ 参与
 - [[Knowledge-Based Economy]] — 知识经济：知识、创新、高等教育和研发为价值创造与全球竞争核心要素的实际存在经济形态
 - [[Knowledge Capitalism]] — 知识资本主义：知识作为首要资本积累形式的全球经济秩序，Peters (2013) 系统阐述，Rizvi (2022) 将其定位为解释 HE 全球转型的既有框架之一，Sum & Jessop (2013) 定义，Moisio (2022) 追溯其从 List 经 Drucker/Bell/Romer 到 OECD/World Bank 的概念演变
 - [[Knowledge-Based Economization]] — Moisio (2018) 的概念：关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践被话语建构的过程
@@ -55,6 +56,7 @@
 - [[Radical Liberal Internationalism]] — Sakwa (2023) 的概念：冷战后取代主权国际主义的自由反多元立场，以美国例外论和英美"基于规则的秩序"为形态，支持干预主义和政权更迭
 - [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念：超国家组织通过指标、排名等监管机制对区域内高等教育进行间接治理；Rambla (2022) 以 EU 绩效指标为操作案例
 - [[Classical Geopolitics]] — Moisio (2022) 概念：以国家"硬"领土力量和势力范围为中心的传统地缘政治理解，与知识地缘政治的关系性空间构型形成对照
+- [[Chinese Learner]] — 来自中国及儒家文化圈（香港、台湾、新加坡）的学生群体；西方持有缺陷型（死记硬背、被动）和优势型（数学好、勤奋）两种矛盾刻板印象，Ryan 主张全面审视其本质化
 - [[Concealment-Exposure Framework]] — Nagel (1998) 提出、Partaken 提升至 GPK 的分析框架：隐藏与暴露的边界控制是人性核心属性，在 GPK 中体现为监视、审查和破坏三种运作模式
 - [[Economic Patriotism]] — Crouch & Le Galès (2012) 概念：国家将资源集中于冠军城市以锚定全球资本流动，将爱国情感与特定领土利益绑定的政策实践，Moisio (2022) 定位为知识经济化中国家的核心行为逻辑
 - [[Endogenous and Exogenous Privatisation]] — Ball & Youdell (2008) 识别的两种全球公立学校私有化趋势：学校变得更像企业（内生）vs 私营部门进入学校（外生）
@@ -115,6 +117,7 @@
 
 - [[Cultural Capital]] — Pierre Bourdieu 的核心概念：个体通过家庭社会化获得的、在特定场域中具有交换价值的文化资源，三种形态（具身化/客体化/制度化），郑雅君 (2023) 分析其如何通过习性转化为大学场域中的竞争优势
 - [[Doxa]] — Pierre Bourdieu 的概念：场域中视为理所当然的正统或常识，通过结构安排而非强制来合法化，Eacott (2011) 分析其对学校领导力培养的再生产性影响
+- [[Fourth Culture]] — Deveney (2005) 的概念：位于学生母国境内但并不代表其本土文化与信仰的国际学校，Jabal 用于分析香港国际学校中中国学习者的"调适复杂性"
 - [[Champ]] — Pierre Bourdieu 的核心概念：具有相对自主性和自身游戏规则的社会空间，郑雅君 (2023) 将中国精英大学分析为一个布迪厄式场域，Eacott (2011) 诊断教育场域自主性的削弱
 - [[Habitus]] — Pierre Bourdieu 的核心概念：通过长期暴露于特定社会经验而具身化的行为倾向系统，郑雅君 (2023) 以之解释两种上大学模式的阶层根源，Eacott (2011) 揭示校长习性在多重场域交叉中的分裂
 - [[Atomisation of Knowledge and Skills]] — 测量、问责和经济竞争逻辑下，教育内容被拆成可评估、可比较、可交易的小单位
@@ -435,9 +438,11 @@
 
 #### Other
 
+- [[English Schools Foundation Hong Kong]] — 香港最大英语学校体系，从英国国民学校（限 10% 本地华人）转型为 40%–50% 本地华人学生，改变了学生认同与语言课程
 - [[2012 Moral and National Education Controversy]] — 2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点
 - [[2019 Hong Kong Protests and Education]] — 2019 年反修例运动被定性为"国家安全危机"后，中国官媒将 LS 构建为年轻人参与抗议的"罪魁祸首"，触发课程替代
 - [[National Security Law Impact on Hong Kong Education]] — 《香港国安法》(2020) 颁布后为强制国民教育提供法律框架，关闭公民社会协商空间，实现从协商式到命令式教育决策的转变
+- [[Symposium on International Teaching 2007]] — 2007 年 3 月 21 日香港大学文学院主办的学术会议，促进中小学与大学教育者关于中国学习者的对话，直接催生了 Ryan & Slethaug (2010) 论文集
 
 ### Japan
 
@@ -451,6 +456,7 @@
 
 - [[Best Evidence in Brief (BEiB)]] — Johns Hopkins University 与约克大学创建的全球证据传播网络（每两周简报），扩展至 NNU 中国大陆中文版和 CUHK 海外华人版（Slavin et al., 2021）
 - [[Sino-American Trade War (2018)]] — 中美贸易与技术转移争端，Partaken (2022) 定位为 GPK"最好且最当下的经验案例"
+- [[Transnationalism and America Project SYSU]] — 岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍
 
 ### New Zealand
 
@@ -872,6 +878,7 @@
 ### Books
 
 - [[Argument_Parreira do Amaral_2022_Springer]] — 论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制度与互动→主体形塑）逐层展开
+- [[Argument_Ryan_2010_HKUP]] — 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化"中国学习者"概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
 - [[Argument_Moisio_2022_Springer]] — Ch2 Sami Moisio: 论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架
 - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral: 整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
 - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos: 以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
