@@ -23,7 +23,6 @@
   - `wiki/arguments/` — 论证框架
   - `wiki/templates/` — 条目模板（共7个，新建条目时按需读取）
 - `wiki/index.md` — 全局索引（工作流必读）
-- `wiki/book-schema.md` — 书籍处理规范
 - `vault-schema.md` — 本文件（位于根文件夹，不在 wiki/ 内）
 
 ---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/Argument_Rambla_2022_Springer.md",
+                "file": "vault-schema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Rambla_2022_Springer"
+              "title": "vault-schema"
             }
           }
         ]
@@ -189,10 +189,13 @@
   },
   "active": "ca60ccc8b591cddf",
   "lastOpenFiles": [
+    "books/Ryan(Ed.)_2010_HKUP/Ryan(Ed.)_2010_HKUP_前言.pdf",
+    "books/Ryan(Ed.)_2010_HKUP",
+    "wiki/arguments/Argument_Rambla_2022_Springer.md",
+    "raw/International Education and the Chinese Learner -- (Ed.)前言  Janette Ryan and Gordon Slethaug -- Hong Kong University Press, Hong Kong, 2010.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md",
     "wiki/arguments/Argument_Parreira do Amaral_2022_Springer.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md",
-    "wiki/arguments/Argument_Rambla_2022_Springer.md",
     "wiki/facts/eu/Youth Guarantee Scheme.md",
     "wiki/facts/eu/YOUNG_ADULLLT.md",
     "wiki/facts/eu/Innovation Union.md",
@@ -215,7 +218,6 @@
     "wiki/concepts/Performance Indicators (Policy Instruments).md",
     "wiki/concepts/Education Indicators.md",
     "wiki/facts/global/Youth Guarantee Scheme.md",
-    "wiki/facts/global/Innovation Union.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer-5/Ch10_Rambla_2022.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer-5",
@@ -223,8 +225,6 @@
     "raw/Parreira do Amaral(Ed.)_2022_Springer-5_10.pdf",
     "raw/978-3-030-94415-5_10.pdf",
     "sources/Marginson_2025_ROE.pdf",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch9_Zapp_2022.pdf",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch7_Delambre_2022.pdf",
     "books/郑_2023_上海三联书店/第三章.jpeg",
     "books/郑_2023_上海三联书店/附录一个案描述5.jpeg",
     "books/郑_2023_上海三联书店/第五章 四种类型的毕业出路获得机制.jpeg",
