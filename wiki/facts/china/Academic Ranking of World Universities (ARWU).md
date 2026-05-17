@@ -7,13 +7,13 @@ tags: [university-rankings, higher-education, region/china, region/global, level
 related_concepts: ["[[Global Universities Rankings]]", "[[Geopolitics of Knowledge]]"]
 related_theories: []
 related_persons: []
-related_facts: ["[[OECD AHELO Project]]"]
-related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
+related_facts: ["[[OECD AHELO Project]]", "[[PISA 2000]]"]
+related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]", "[[Argument_Slethaug_2010_InternationalEducation]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md", "[[Ch1_Slethaug_2010]]"]
 confidence: medium
 status: draft
 created: 2026-05-11
-updated: 2026-05-12
+updated: 2026-05-17
 ---
 
 # Academic Ranking of World Universities (ARWU)
@@ -31,6 +31,7 @@ updated: 2026-05-12
 > - **2003 年**：上海交通大学高等教育研究所发布首个全球大学排名（ARWU），开创了跨国大学排名系统的新纪元（Boyadjieva, 2022, p.131）
 > - 此后，Times Higher Education（2004）、Leiden University、Scimago、QS World University Rankings 和 European U-Multirank 等多个全球排名系统相继建立
 > - ARWU 的指标体系侧重研究产出，包括校友和教师获得诺贝尔奖和菲尔兹奖的数量、高被引学者数、在 *Nature* 和 *Science* 上发表论文数、被 SCIE 和 SSCI 收录的论文数等
+> - ARWU 官方声明其"考虑每一所拥有诺贝尔奖得主、菲尔兹奖得主和高被引研究人员的大学，以及在 *Nature* 或 *Science* 上发表过论文的大学。此外，拥有大量被 SCIE 和 SSCI 收录论文的大学也被纳入"（"Academic Ranking", 2008，转引自 Slethaug, 2010, p.11）
 
 ---
 

@@ -3,17 +3,17 @@ title: Chinese Learner
 aliases: [中国学习者, Chinese learners, Chinese student]
 type: concept
 tags: [region/china, region/hongkong, region/singapore, region/taiwan, level/k12, level/higher-ed]
-related_concepts: ["[[International Education]]", "[[Fourth Culture]]"]
+related_concepts: ["[[International Education]]", "[[Fourth Culture]]", "[[International Schools]]"]
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[English Schools Foundation Hong Kong]]", "[[Hong Kong International School]]"]
-related_arguments: ["[[Argument_Ryan_2010_HKUP]]"]
-sources: ["[[Ryan(Ed.)_2010_HKUP]]"]
+related_facts: ["[[English Schools Foundation Hong Kong]]"]
+related_arguments: ["[[Argument_Ryan_2010_HKUP]]", "[[Argument_Slethaug_2010_InternationalEducation]]"]
+sources: ["[[Ryan(Ed.)_2010_HKUP]]", "[[Ch1_Slethaug_2010]]"]
 confidence: medium
 status: draft
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 # Chinese Learner
@@ -46,6 +46,14 @@ Ryan 主张通过以下维度打破对中国学习者的单一化理解（Sletha
 ## 多样性现实
 
 该论文集各章共同表明：不存在单一类型的中国学习者，也无法确定单一的教学场所。最佳教学实践高度依赖于学习者文化、教师文化以及两者之间的互动（Slethaug, 2010, p.15）。中国学习者存在于各个年龄段和各类教育环境中——从香港的国际中小学生到丹麦、澳大利亚的大学留学生，再到中国本土接受外教教学的本科生。
+
+### 中国学习者内部的差异
+
+Slethaug（2010）强调，来自中国大陆的中国学习者不希望他人假设他们与世界其他地区的中国学习者拥有相同的认同、价值观和偏好——甚至中国大陆内部的学习者也因地区、年龄、性别、宗教、经济和文化地位的差异而极为多元（Hu, 2003; Louie, 2005; Shi, 2006，均转引自 Slethaug, 2010, p.34）。在国际课堂中，仅考虑一种"中国性"（Chineseness）——无论其代表什么——或完全忽视中国性以迁就教师母国的个体、家庭和教学价值，都可能是有问题的（Slethaug, 2010, p.34）。
+
+### 流动规模
+
+中国学习者是全球学生流动的最大群体之一。1978 至 2003 年间，580,000 名中国本科和研究生赴美留学（Levin, 2003, p.8，转引自 Slethaug, 2010, p.17）。仅 2007 年一年，据《中国日报》报道即有 200,000 名中国学生出国（Wang, 2008，转引自 Slethaug, 2010, p.17）。IIE 的数据更高——2004 年即有 349,506 名中国学生出国（Slethaug, 2010, p.17）。同时，中国自身也成为日益受欢迎的留学目的地：2001 年有 61,869 名外国大学生赴华，2005 年增至超过 140,000 名（Slethaug, 2010, p.18）。
 
 ## 来源
 

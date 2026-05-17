@@ -6,13 +6,13 @@ tags: [university-rankings, higher-education, geopolitics, region/global, level/
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Global Education Industry (GEI)]]", "[[Internationalization of Higher Education]]", "[[Social Charter]]", "[[Space-Making in Higher Education]]"]
 related_theories: []
 related_persons: ["[[Ellen Hazelkorn]]", "[[Pepka Boyadjieva]]", "[[Simon Marginson]]", "[[Philip Altbach]]"]
-related_facts: ["[[Academic Ranking of World Universities (ARWU)]]", "[[OECD AHELO Project]]", "[[THE Impact Ranking 2019]]"]
-related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]", "[[Argument_Zapp_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md", "[[Ch9_Zapp_2022]]", "[[Marginson_2025_ROE]]"]
+related_facts: ["[[Academic Ranking of World Universities (ARWU)]]", "[[OECD AHELO Project]]", "[[THE Impact Ranking 2019]]", "[[PISA 2000]]"]
+related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]", "[[Argument_Zapp_2022_Springer]]", "[[Argument_Slethaug_2010_InternationalEducation]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md", "[[Ch9_Zapp_2022]]", "[[Marginson_2025_ROE]]", "[[Ch1_Slethaug_2010]]"]
 confidence: medium
 status: draft
 created: 2026-05-11
-updated: 2026-05-12
+updated: 2026-05-17
 ---
 
 # Global Universities Rankings
@@ -38,7 +38,11 @@ updated: 2026-05-12
 ## 概念演变
 
 > [!note]
-> 排名首先在国家高等教育系统内部作为评估工具出现。随着高等教育大众化和全球化进程的加速，跨国比较评估的需求日益迫切。**2003 年**上海交通大学高等教育研究所发布了[[Academic Ranking of World Universities (ARWU)|首个全球大学排名（ARWU）]]，次年 Times Higher Education（THE）推出其排名。此后，Leiden、Scimago、QS World University Rankings 和 European U-Multirank 等多个全球排名系统相继建立（Boyadjieva, 2022, p.131）。
+> 大学排名首先在国家层面出现。最早的大学排名之一为 **1983 年**《美国新闻与世界报道》（US News & World Report）发布的美国大学排名；加拿大《麦克林》（Maclean's）杂志的公立大学排名也已运行约十五年；欧盟委员会自 **2003 年**起发布涵盖约二十二所欧洲大学的排名（Slethaug, 2010, pp.5–6）。这些早期排名反映了人们对本国教育体系相对重要性的日益关注。
+
+> **2003 年**上海交通大学高等教育研究所发布了[[Academic Ranking of World Universities (ARWU)|首个全球大学排名（ARWU）]]，次年 Times Higher Education（THE）推出其排名。此后，Leiden、Scimago、QS World University Rankings 和 European U-Multirank 等多个全球排名系统相继建立（Boyadjieva, 2022, p.131）。
+
+> 不同排名机构的结果差异极大。以香港大学（HKU）为例，2007 年：ARWU 未将其列入前 300 名（2006 年排第 263，2008 年排 201–300 之间）；Webometrics 排第 156；THES-QS 排第 24；基于"网络流行度"的排名将其列为第 8——所有结果在同一年内得出，取决于评估机构和标准的不同（Slethaug, 2010, pp.10–11）。这种巨大差异表明，排名远非客观中立的测量，而是高度依赖于指标选择和价值判断的社会建构。
 
 > 2014 年一项国际调查显示：84% 的受调查高校已建立内部机制审视自身排名，"绝大多数"用排名指导战略决策、设定目标和塑造优先事项（Hazelkorn, 2015, pp.xix–xv, cited in Boyadjieva, 2022, p.125）。Philip Altbach（2011, p.2）指出："如果排名不存在，有人会发明它们"（Boyadjieva, 2022, p.130）。
 
