@@ -1,16 +1,27 @@
 ---
 title: PISA
-aliases: [国际学生评估项目, Programme for International Student Assessment, PISA 2000]
+aliases:
+  - 国际学生评估项目
+  - Programme for International Student Assessment
 type: fact
 subtype: event
-tags: [region/global, level/k12, subject/assessment]
-related_concepts: ["[[International Education]]", "[[Global Universities Rankings]]", "[[International Baccalaureate (IB)]]"]
+tags:
+  - region/global
+  - level/k12
+  - subject/assessment
+related_concepts:
+  - "[[International Education]]"
+  - "[[Global Universities Rankings]]"
+  - "[[International Baccalaureate (IB)]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Academic Ranking of World Universities (ARWU)]]"]
-related_arguments: ["[[Argument_Slethaug_2010_InternationalEducation]]"]
-sources: ["[[Ch1_Slethaug_2010]]"]
+related_facts:
+  - "[[Academic Ranking of World Universities (ARWU)]]"
+related_arguments:
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
+sources:
+  - "[[Ch1_Slethaug_2010]]"
 confidence: medium
 status: draft
 created: 2026-05-17

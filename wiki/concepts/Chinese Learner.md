@@ -7,7 +7,7 @@ related_concepts: ["[[International Education]]", "[[Fourth Culture]]", "[[Inter
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[English Schools Foundation Hong Kong]]"]
+related_facts: ["[[English Schools Foundation Hong Kong]]", "[[Transnationalism and America Project SYSU]]"]
 related_arguments: ["[[Argument_Ryan_2010_HKUP]]", "[[Argument_Slethaug_2010_InternationalEducation]]"]
 sources: ["[[Ryan(Ed.)_2010_HKUP]]", "[[Ch1_Slethaug_2010]]"]
 confidence: medium

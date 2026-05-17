@@ -4,7 +4,7 @@ aliases: ["世界大学学术排名", "ARWU", "上海排名", "Shanghai Ranking"
 type: fact
 subtype: event
 tags: [university-rankings, higher-education, region/china, region/global, level/higher-ed]
-related_concepts: ["[[Global Universities Rankings]]", "[[Geopolitics of Knowledge]]"]
+related_concepts: ["[[Global Universities Rankings]]", "[[Geopolitics of Knowledge]]", "[[International Education]]"]
 related_theories: []
 related_persons: []
 related_facts: ["[[OECD AHELO Project]]", "[[PISA]]"]
