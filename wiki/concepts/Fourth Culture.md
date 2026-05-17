@@ -3,7 +3,7 @@ title: Fourth Culture
 aliases: [第四文化, fourth culture]
 type: concept
 tags: [region/hongkong, level/k12]
-related_concepts: ["[[Chinese Learner]]", "[[International Education]]"]
+related_concepts: ["[[Chinese Learner]]", "[[International Education]]", "[[International Schools]]", "[[International Baccalaureate (IB)]]"]
 related_theories: []
 related_methods: []
 related_persons: []

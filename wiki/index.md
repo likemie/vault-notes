@@ -74,9 +74,11 @@
 
 - [[Theories of Policy Change]] — Pawson (2006) 的实在论评估概念：政策承载的因果机制叙事，Rambla (2022) 分析其在欧盟旗舰政策中的应用与地方转化
 - [[Selectivity]] — Jessop (2007) 的治理概念：政策工具通过结构性偏向系统性地优先某些替代方案而边缘化其他，Rambla (2022) 在欧盟区域创新和终身学习政策中分析
+- [[Boarding Schools]] — 寄宿学校从中世纪修道院到当代"大学跳板"的演变；UK 700+ 所 100K+ 学生/年，AU 101 所，CA 约 60 所
 
 ### Curriculum
 
+- [[International Baccalaureate (IB)]] — 覆盖 3–19 岁的国际课程体系（PYP/MYP/DP），709K 学生 2,609 学校 135 国(2009)；六学科组+TOK+EE+CAS；主张意识形态中立但被质疑西方根源
 - [[Citizenship and Social Development (Hong Kong)]] — 2021 年取代通识教育科的香港高中必修科，课程核心从批判性思维转向爱国主义与国家安全
 - [[Didaktik]] — 德语教学理论传统，关注什么知识值得教、为什么教、如何教；Schaffar & Wolff 将其作为芬兰 PhBL 的大陆教育哲学根源之一
 - [[Epochal Key Problems]] — Klafki 的课程组织概念：以环境危机、社会不平等、战争等时代问题连接学科深度与跨学科广度
@@ -151,6 +153,7 @@
 - [[Graduate Attributes]] — 大学认同其学生在学期间应当发展的品质、技能和理解，受高等教育市场化驱动，Wong et al. (2022) 识别 UK 四大话语
 - [[Graduation Pathway Typology (Zheng)]] — 郑雅君 (2023) 的毕业出路产生机制2×2四分类模型：以目的-手段行动力为纵轴、价值信念驱动力为横轴，划分自主驱动者/机会主义者/迷失无从者/价值归顺者四种类型
 - [[Intuition-Dependent Mode]] — 郑雅君 (2023) 提出的大学生活组织实践图式：缺乏清晰规划、凭直觉被动应对大学选择，在低阶层大学生中更为普遍
+- [[International Schools]] — 从 50 所(1964)→3,000+(2005)的爆炸增长；去国家化转型(70%→30%母国学生)；市场化精英机构；师资培训系统性缺失
 - [[International Education Hubs]] — Knight 的概念：国家将自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目，三种模型（学生／人才／知识创新枢纽）
 - [[Internationalization of Higher Education]] — Rizvi 的分析焦点：高等教育国际化的理性已从发展主义转向市场逻辑，亚洲崛起和 COVID-19 为关键转折点
 - [[Transnational Research Collaboration in Higher Education]] — Rizvi 的分析焦点：跨国研究合作中个体学术、机构声誉、国家经济和外交四重理性的融合
@@ -412,6 +415,8 @@
 
 #### PISA
 
+- [[PISA 2000]] — OECD 2000 年启动的国际学生评估项目，每三年测试 15 岁学生阅读/数学/科学素养；芬兰、HK、韩国、加拿大等为模范国家；女性超越男性，二代移民超越本地生
+
 #### UNESCO
 
 #### Other
@@ -423,6 +428,7 @@
 - [[Minerva University]] — 2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标
 - [[Regional University Alliances]] — Amos (2022) 在晚期现代教育转型语境中关注的三类欧洲大学联盟（LERU、The GUILD、European University Alliances），在科研合作、师生流动和联合学位中运作，构成多层级地缘政治教育空间中的制度行动者
 - [[Australia in the Asian Century White Paper 2012]] — 澳大利亚 Henry Report：将亚洲崛起定位为"澳大利亚的机遇"，推动 AISRF、ACSRF 等与亚洲的研究合作
+- [[Education City Doha]] — 卡塔尔首都多哈的多大学海外分校集中园区：康奈尔医学院、乔治城、卡内基梅隆等，标志大学全球化的新阶段
 - [[GATS and Trade in Education Services]] — WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映"新帝国主义"
 - [[THE Impact Ranking 2019]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
 - [[UN Sustainable Development Goals 2015]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的"新型第三使命"
@@ -879,6 +885,7 @@
 
 - [[Argument_Parreira do Amaral_2022_Springer]] — 论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制度与互动→主体形塑）逐层展开
 - [[Argument_Ryan_2010_HKUP]] — 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化"中国学习者"概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
+- [[Argument_Slethaug_2010_InternationalEducation]] — Ch1 背景章节：国际学校 50→3,000+(1964–2005)的爆炸增长与去国家化转型，IB 全球扩散，中国学习者多元性，国际教育师资培训系统性缺失
 - [[Argument_Moisio_2022_Springer]] — Ch2 Sami Moisio: 论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架
 - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral: 整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
 - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos: 以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论

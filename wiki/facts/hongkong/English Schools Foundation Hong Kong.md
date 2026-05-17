@@ -4,7 +4,7 @@ aliases: [ESF, 英基学校基金会, ESF Hong Kong]
 type: fact
 subtype: event
 tags: [region/hongkong, level/k12]
-related_concepts: ["[[Chinese Learner]]", "[[International Education]]", "[[Fourth Culture]]"]
+related_concepts: ["[[Chinese Learner]]", "[[International Education]]", "[[Fourth Culture]]", "[[International Schools]]"]
 related_theories: []
 related_methods: []
 related_persons: []
