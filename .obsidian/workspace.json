@@ -11,12 +11,14 @@
             "id": "ca60ccc8b591cddf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Ryan(Ed.)_2010_HKUP/Ryan(Ed.)_2010_HKUP_前言.pdf"
+                "file": "books/Ryan(Ed.)_2010_HKUP/Ryan(Ed.)_2010_HKUP_International Education and the Chinese Learner_overview.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Ryan(Ed.)_2010_HKUP_前言"
+              "icon": "lucide-file",
+              "title": "Ryan(Ed.)_2010_HKUP_International Education and the Chinese Learner_overview"
             }
           }
         ]
@@ -185,21 +187,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "88e92adc127e8098",
+  "active": "ca60ccc8b591cddf",
   "lastOpenFiles": [
+    "raw/Ryan(Ed.)_2010_HKUP 第一章.pdf",
+    "books/Ryan(Ed.)_2010_HKUP/Ryan(Ed.)_2010_HKUP_前言.pdf",
     "books/Ryan(Ed.)_2010_HKUP/Ryan(Ed.)_2010_HKUP_International Education and the Chinese Learner_overview.md",
     "wiki/arguments/Argument_Ryan_2010_HKUP.md",
     "wiki/facts/multi/Transnationalism and America Project SYSU.md",
-    "wiki/facts/hongkong/English Schools Foundation Hong Kong.md",
-    "wiki/facts/hongkong/Symposium on International Teaching 2007.md",
-    "wiki/concepts/Fourth Culture.md",
     "wiki/concepts/Chinese Learner.md",
+    "wiki/facts/hongkong/English Schools Foundation Hong Kong.md",
+    "wiki/concepts/Fourth Culture.md",
     "wiki/concepts/International Education.md",
+    "Argument_Slethaug_2010_InternationalEducation.md",
+    "books/schema-edited-volume.md",
+    "wiki/facts/hongkong/Symposium on International Teaching 2007.md",
     "wiki/concepts/International Education.md.tmp.19396.e725185341eb",
     "vault-schema.md",
     "vault-schema-books-fixed.md",
-    "books/schema-edited-volume.md",
-    "books/Ryan(Ed.)_2010_HKUP/Ryan(Ed.)_2010_HKUP_前言.pdf",
     "books/Ryan(Ed.)_2010_HKUP",
     "wiki/arguments/Argument_Rambla_2022_Springer.md",
     "raw/International Education and the Chinese Learner -- (Ed.)前言  Janette Ryan and Gordon Slethaug -- Hong Kong University Press, Hong Kong, 2010.pdf",
@@ -216,8 +220,6 @@
     "wiki/facts/eu",
     "wiki/concepts/Neocorporatism.md",
     "wiki/facts/global/YOUNG_ADULLLT.md",
-    "wiki/concepts/Selectivity.md",
-    "wiki/facts/global/Europe 2020 Strategy.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer-5/Ch10_Rambla_2022.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer-5",
