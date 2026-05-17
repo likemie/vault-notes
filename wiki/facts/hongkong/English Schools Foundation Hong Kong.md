@@ -8,13 +8,13 @@ related_concepts: ["[[Chinese Learner]]", "[[International Education]]", "[[Four
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Liberal Studies (Hong Kong)]]"]
+related_facts: ["[[Liberal Studies (Hong Kong)]]", "[[Symposium on International Teaching 2007]]"]
 related_arguments: ["[[Argument_Ryan_2010_HKUP]]"]
 sources: ["[[Ryan(Ed.)_2010_HKUP]]"]
 confidence: medium
 status: draft
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 ---
 
 # English Schools Foundation Hong Kong

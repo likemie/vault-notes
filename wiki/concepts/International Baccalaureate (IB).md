@@ -3,7 +3,7 @@ title: International Baccalaureate (IB)
 aliases: [国际文凭, IB, IB Diploma, IB Diploma Program, International Baccalaureate]
 type: concept
 tags: [region/global, level/k12, subject/curriculum]
-related_concepts: ["[[International Education]]", "[[International Schools]]", "[[Chinese Learner]]"]
+related_concepts: ["[[International Education]]", "[[International Schools]]", "[[Chinese Learner]]", "[[Fourth Culture]]"]
 related_theories: []
 related_methods: []
 related_persons: []

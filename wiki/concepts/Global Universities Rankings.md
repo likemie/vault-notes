@@ -5,7 +5,7 @@ type: concept
 tags: [university-rankings, higher-education, geopolitics, region/global, level/higher-ed]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Global Education Industry (GEI)]]", "[[Internationalization of Higher Education]]", "[[Social Charter]]", "[[Space-Making in Higher Education]]"]
 related_theories: []
-related_persons: ["[[Ellen Hazelkorn]]", "[[Pepka Boyadjieva]]", "[[Simon Marginson]]", "[[Philip Altbach]]"]
+related_persons: ["[[Ellen Hazelkorn]]", "[[Pepka Boyadjieva]]"]
 related_facts: ["[[Academic Ranking of World Universities (ARWU)]]", "[[OECD AHELO Project]]", "[[THE Impact Ranking 2019]]", "[[PISA]]"]
 related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]", "[[Argument_Zapp_2022_Springer]]", "[[Argument_Slethaug_2010_InternationalEducation]]"]
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md", "[[Ch9_Zapp_2022]]", "[[Marginson_2025_ROE]]", "[[Ch1_Slethaug_2010]]"]
