@@ -7,7 +7,7 @@ tags: [university-rankings, higher-education, region/china, region/global, level
 related_concepts: ["[[Global Universities Rankings]]", "[[Geopolitics of Knowledge]]"]
 related_theories: []
 related_persons: []
-related_facts: ["[[OECD AHELO Project]]", "[[PISA 2000]]"]
+related_facts: ["[[OECD AHELO Project]]", "[[PISA]]"]
 related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]", "[[Argument_Slethaug_2010_InternationalEducation]]"]
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md", "[[Ch1_Slethaug_2010]]"]
 confidence: medium

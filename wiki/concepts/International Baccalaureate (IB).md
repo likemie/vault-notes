@@ -7,7 +7,7 @@ related_concepts: ["[[International Education]]", "[[International Schools]]", "
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[PISA 2000]]"]
+related_facts: ["[[PISA]]"]
 related_arguments: ["[[Argument_Slethaug_2010_InternationalEducation]]"]
 sources: ["[[Ch1_Slethaug_2010]]"]
 confidence: medium

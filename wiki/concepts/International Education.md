@@ -7,7 +7,7 @@ related_concepts: ["[[Chinese Learner]]", "[[Fourth Culture]]", "[[International
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[English Schools Foundation Hong Kong]]", "[[PISA 2000]]", "[[Education City Doha]]"]
+related_facts: ["[[English Schools Foundation Hong Kong]]", "[[PISA]]", "[[Education City Doha]]"]
 related_arguments: ["[[Argument_Ryan_2010_HKUP]]", "[[Argument_Slethaug_2010_InternationalEducation]]"]
 sources: ["[[Ryan(Ed.)_2010_HKUP]]", "[[Ch1_Slethaug_2010]]"]
 confidence: medium
@@ -38,7 +38,7 @@ updated: 2026-05-17
 
 ## 教育国际化的早期信号
 
-2000 年 OECD 启动的 [[PISA 2000|国际学生评估项目（PISA）]] 是教育国际化的关键早期信号之一（Slethaug, 2010, pp.6–8）。PISA 对 15 岁学生在阅读、数学和科学素养方面的跨国比较表明：在日益增长的知识经济中，知识生产是一个国家进行国际竞争的最关键因素（Slethaug, 2010, p.8）。
+2000 年 OECD 启动的 [[PISA|国际学生评估项目（PISA）]] 是教育国际化的关键早期信号之一（Slethaug, 2010, pp.6–8）。PISA 对 15 岁学生在阅读、数学和科学素养方面的跨国比较表明：在日益增长的知识经济中，知识生产是一个国家进行国际竞争的最关键因素（Slethaug, 2010, p.8）。
 
 ## 大学排名与国际化
 

@@ -1,6 +1,6 @@
 ---
-title: PISA 2000
-aliases: [国际学生评估项目, Programme for International Student Assessment, PISA]
+title: PISA
+aliases: [国际学生评估项目, Programme for International Student Assessment, PISA 2000]
 type: fact
 subtype: event
 tags: [region/global, level/k12, subject/assessment]
@@ -17,7 +17,7 @@ created: 2026-05-17
 updated: 2026-05-17
 ---
 
-# PISA 2000
+# PISA
 
 ## 背景
 
