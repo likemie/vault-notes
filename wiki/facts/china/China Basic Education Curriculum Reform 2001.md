@@ -71,7 +71,7 @@ updated: 2026-05-17
 > [!tip]
 > - [[Chinese Learner]] — Ryan 以该改革为核心论据，证明对中国学习者的静态刻板印象已严重脱离现实
 > - [[Stereotype Threat]] — 刻板印象威胁的循环之所以能被打破，正是因为该改革提供了客观的"反证"：中国学习者并非刻板印象描述的那样
-> - [[Argument_Ryan_2010_ChineseLearner]] — Ryan 在 Ch2 中以该改革作为论证链的第六步（刻板印象过时证明）
+> - [[Argument_Ryan_2010_ChineseLearner]] — 该改革被 Ryan（2010）作为论证中国学习者刻板印象已过时的核心证据
 
 ## 来源
 
