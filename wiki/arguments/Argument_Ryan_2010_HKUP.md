@@ -9,7 +9,7 @@ related_theories: []
 related_methods: []
 related_persons: ["[[Paul Morris]]"]
 related_facts: ["[[Symposium on International Teaching 2007]]", "[[English Schools Foundation Hong Kong]]", "[[Transnationalism and America Project SYSU]]", "[[Liberal Studies (Hong Kong)]]"]
-related_arguments: ["[[Argument_Slethaug_2010_InternationalEducation]]"]
+related_arguments: ["[[Argument_Slethaug_2010_InternationalEducation]]", "[[Argument_Ryan_2010_ChineseLearner]]"]
 sources: ["[[Ryan(Ed.)_2010_HKUP]]"]
 part_of:
 status: draft

@@ -57,6 +57,8 @@
 - [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念：超国家组织通过指标、排名等监管机制对区域内高等教育进行间接治理；Rambla (2022) 以 EU 绩效指标为操作案例
 - [[Classical Geopolitics]] — Moisio (2022) 概念：以国家"硬"领土力量和势力范围为中心的传统地缘政治理解，与知识地缘政治的关系性空间构型形成对照
 - [[Chinese Learner]] — 来自中国及儒家文化圈（香港、台湾、新加坡）的学生群体；西方持有缺陷型（死记硬背、被动）和优势型（数学好、勤奋）两种矛盾刻板印象，Ryan 主张全面审视其本质化
+- [[Meta-Cultural Sensitivity]] — Louie (2005) 的跨文化教学元能力："后退一步"将所有文化（包括自身文化）作为系统来理解，既不盲目推崇也不简单否定
+- [[Stereotype Threat]] — Aronson (2002) 的社会心理学概念：个体意识到关于自身群体的刻板印象时产生的额外情感与认知负担及去认同化，被 Ryan 应用于分析中国学习者内化刻板印象的机制
 - [[Concealment-Exposure Framework]] — Nagel (1998) 提出、Partaken 提升至 GPK 的分析框架：隐藏与暴露的边界控制是人性核心属性，在 GPK 中体现为监视、审查和破坏三种运作模式
 - [[Economic Patriotism]] — Crouch & Le Galès (2012) 概念：国家将资源集中于冠军城市以锚定全球资本流动，将爱国情感与特定领土利益绑定的政策实践，Moisio (2022) 定位为知识经济化中国家的核心行为逻辑
 - [[Endogenous and Exogenous Privatisation]] — Ball & Youdell (2008) 识别的两种全球公立学校私有化趋势：学校变得更像企业（内生）vs 私营部门进入学校（外生）
@@ -355,6 +357,8 @@
 ### China
 
 #### Curriculum Policy
+
+- [[China Basic Education Curriculum Reform 2001]] — 教育部发布《基础教育课程改革纲要（试行）》，从"双基"转向"素质教育"、从教师中心转向学生中心教学，在大城市和偏远地区均深入推进
 
 #### Examinations & Assessment
 
@@ -886,6 +890,7 @@
 - [[Argument_Parreira do Amaral_2022_Springer]] — 论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制度与互动→主体形塑）逐层展开
 - [[Argument_Ryan_2010_HKUP]] — 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化"中国学习者"概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
 - [[Argument_Slethaug_2010_InternationalEducation]] — Ch1 背景章节：国际学校 50→3,000+(1964–2005)的爆炸增长与去国家化转型，IB 全球扩散，中国学习者多元性，国际教育师资培训系统性缺失
+- [[Argument_Ryan_2010_ChineseLearner]] — Ch2 文献批判综述：西方对中国学习者"缺陷型"与"优势型"双重刻板印象的诊断，二元对立表格的建构，"儒家价值"归因的非实证性，2001 年中国课程改革使刻板印象过时，元文化敏感度作为替代路径
 - [[Argument_Moisio_2022_Springer]] — Ch2 Sami Moisio: 论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架
 - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral: 整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
 - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos: 以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论

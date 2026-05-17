@@ -8,7 +8,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: ["[[PISA]]", "[[Education City Doha]]", "[[Academic Ranking of World Universities (ARWU)]]"]
-related_arguments: ["[[Argument_Ryan_2010_HKUP]]"]
+related_arguments: ["[[Argument_Ryan_2010_HKUP]]", "[[Argument_Ryan_2010_ChineseLearner]]"]
 sources: ["[[Ch1_Slethaug_2010]]"]
 part_of: "[[Argument_Ryan_2010_HKUP]]"
 status: draft

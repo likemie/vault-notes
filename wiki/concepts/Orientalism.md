@@ -3,12 +3,12 @@ title: Orientalism
 aliases: ["东方主义", "orientalism"]
 type: concept
 tags: [Orientalism, postcolonial-theory, knowledge-production, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Internationalization of Higher Education]]", "[[Knowledge Capitalism]]", "[[Colonial Modernity]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Internationalization of Higher Education]]", "[[Knowledge Capitalism]]", "[[Colonial Modernity]]", "[[Stereotype Threat]]"]
 related_theories: ["[[Postcolonial Theory]]", "[[Decolonial Geopolitics of Knowledge]]", "[[Critical Geopolitics]]"]
 related_persons: ["[[Edward Said]]", "[[Frantz Fanon]]", "[[Arturo Escobar]]", "[[Fazal Rizvi]]"]
 related_methods: []
 related_facts: []
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]"]
+related_arguments: ["[[Argument_Rizvi_2022_Springer]]", "[[Argument_Ryan_2010_ChineseLearner]]"]
 sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
 confidence: low
 status: draft
@@ -21,6 +21,10 @@ updated: 2026-05-11
 东方主义（Orientalism）指殖民者通过知识生产和话语实践对被殖民者进行"东方化"想象建构的过程与机制。这一概念由 Edward Said (1983) 系统阐述，核心论点是：西方关于"东方"的知识不是对东方的客观描述，而是**服务于帝国权力的意识形态建构**——它将"东方"表征为异域的、落后的、需要被西方文明教化的他者，从而为殖民统治提供了文化和认识论的合法性（Rizvi, 2022, pp.91–92）。
 
 > 在 Rizvi (2022) 的理论框架中，东方主义是后殖民理论的三大核心资源之一，与 Fanon (1967) 的去殖民化理论和 Escobar (1995) 的发展主义批判并列。三条路径共同揭示了一个核心洞察：**知识与权力之间存在内在的共构关系**——知识生产从来不是政治中立的，它始终嵌入在殖民、发展和全球化的权力结构之中。
+
+### 在中国学习者刻板印象中的应用
+
+Ryan（2010, p.40）在对[[Chinese Learner|中国学习者]]刻板印象的批判中援引 Said 的东方主义框架——Wie Watkins & Biggs（2001, p.4）所指出："Chinese-ness is in effect defined in terms of deviance from Western norms"（中国性实际上是以偏离西方规范来定义的）。这表明东方主义的运作不仅限于殖民语境中的政治统治，也在当代跨文化教育中以"缺陷型刻板印象"——将中国学习者的特征构造为西方学术规范的"反面"——的形式被隐性再生产（Ryan, 2010, pp.39–40）。详见 [[Argument_Ryan_2010_ChineseLearner]]。
 
 ---
 
