@@ -293,7 +293,7 @@
 - [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，Larsen (2019) 以盲点和结构耦合概念批判 VL
 - [[Network Society]] — Castells (1996) 的理论：社会组织从稳定等级制转向流动网络形式，Benkler (2006) 延伸论证跨国网络为知识创造新源泉，Rizvi (2022) 用于分析跨国研究合作的网络化转型
 - [[Rational Action Theory in Education]] — Breen & Goldthorpe (1997) 的教育分层理论：以相对风险规避机制解释阶层间教育选择的系统性差异，揭示家庭背景的次属效应，郑雅君 (2023) 作为"价值选择过程"的理论对话方
-- [[World Culture Theory]] — 全球学校模式趋同假设：西方现代民族国家模型向全球扩散，导致课程和学校标准化，但 LS 案例揭示其解释力局限
+- [[World Society Theory]] — 全球学校模式趋同假设：西方现代民族国家模型向全球扩散，导致课程和学校标准化，但 LS 案例揭示其解释力局限
 - [[World Society Theory]] — Meyer et al. (1997) 的社会学理论：世界社会缺乏传统控制与权威机制，本质上通过 otherhood（文化模型的扩散与模仿）建构；大学和科学在此过程中提供知识合法性与文化模型
 
 ### Management & Organisation
