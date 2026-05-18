@@ -1,6 +1,7 @@
 ---
 title: Kimberly Ochs
-aliases: []
+aliases:
+- 金伯莉·奥克斯
 summary: 比较教育学者，与 David Phillips 共同开发政策借用模型，区分政策文本与政策话语，分类四种吸引力"火花
 type: person
 nationality: uk

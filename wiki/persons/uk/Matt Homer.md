@@ -1,6 +1,7 @@
 ---
 title: Matt Homer
-aliases: []
+aliases:
+- 马特·霍默
 summary: 利兹大学教育研究者，IJRME "什么有效"特刊共同编辑（Pampaka, Williams & Homer, 2016）
 type: person
 nationality: uk

@@ -1,6 +1,7 @@
 ---
 title: Julie Nelson
-aliases: []
+aliases:
+- 朱莉·纳尔逊
 summary: NFER 高级研究员，专注 EIP 测量工具开发和 KMb 研究，与 Campbell 共同编辑 EIP 特刊
 type: person
 nationality: uk

@@ -1,6 +1,7 @@
 ---
 title: Paul Morris
-aliases: []
+aliases:
+- 保罗·莫里斯
 summary: UCL 比较教育教授，专攻香港课程变革政治分析、政策借用与国家安全的课程后果
 type: person
 nationality: global

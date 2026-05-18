@@ -1,6 +1,7 @@
 ---
 title: Gita Steiner-Khamsi
-aliases: []
+aliases:
+- 吉塔·施泰纳-卡姆西
 summary: 哥伦比亚大学教师学院比较教育学者，政策借用与借出政治分析领军人物，强调关注转移的能动者和受益者
 type: person
 nationality: us

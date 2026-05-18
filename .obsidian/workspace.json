@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/persons/france/Pierre Bourdieu.md",
+                "file": "wiki/persons/global/Klaus Nielsen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pierre Bourdieu"
+              "title": "Klaus Nielsen"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 361.5
   },
   "right": {
     "id": "2b6b615f6587554a",
@@ -187,12 +187,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f49437b00d1a74a8",
+  "active": "88e92adc127e8098",
   "lastOpenFiles": [
+    "wiki/persons/global/Jean Piaget.md",
+    "wiki/persons/global/Ernst von Glasersfeld.md",
+    "wiki/persons/germany/Niklas Luhmann.md",
+    "wiki/persons/germany/Wolfgang Klafki.md",
+    "wiki/persons/germany/Dietrich Benner.md",
+    "wiki/persons/germany/Andreas Helmke.md",
     "wiki/persons/germany/Christiane Thompson.md",
+    "wiki/persons/france/Didier Eribon.md",
     "wiki/persons/france/Pierre Bourdieu.md",
     "wiki/persons/france/Jean-François Lyotard.md",
-    "wiki/persons/france/Didier Eribon.md",
     "wiki/persons/us/Ann Swidler.md",
     "wiki/persons/china/Alan C. K. Cheung.md",
     "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Slethaug_2010_InternationalEducation.md",
@@ -209,12 +215,6 @@
     "wiki/arguments/journal-articles/Argument_Allerup_2015_Paideia.md",
     "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
     "wiki/arguments/journal-articles/Argument_Bolton_2017_ArchPsych.md",
-    "wiki/arguments/journal-articles/Argument_Blass_2020_JESP.md",
-    "wiki/arguments/journal-articles/Argument_Biesta_2010_SPE.md",
-    "wiki/arguments/journal-articles/Argument_Bainbridge_2022_ROE.md",
-    "wiki/methods/qualitative/Carnivalesque Analysis.md",
-    "wiki/methods/mixed/Mixed Method and Multi-method Research.md",
-    "wiki/facts/australia/Australian Curriculum.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer",
     "wiki/arguments/books/郑_2023_上海三联书店",
     "wiki/arguments/books/Ryan(Ed.)_2010_HKUP",

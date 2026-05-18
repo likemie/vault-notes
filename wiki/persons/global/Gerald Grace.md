@@ -1,6 +1,7 @@
 ---
 title: Gerald Grace
-aliases: []
+aliases:
+- 杰拉尔德·格雷斯
 summary: 伦敦大学教育学者，前惠灵顿维多利亚大学教育学系主任，"Critic and Conscience of Society"概念的原创者（1988），后写入新西兰大学立法
 type: person
 nationality: global

@@ -1,6 +1,7 @@
 ---
 title: Adrian Simpson
-aliases: []
+aliases:
+- 阿德里安·辛普森
 summary: 杜伦大学教育研究者，论证效应量作为试验灵敏度指标而非有效性指标，效应量是类别错误
 type: person
 nationality: uk

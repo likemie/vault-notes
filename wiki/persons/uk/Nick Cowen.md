@@ -1,6 +1,7 @@
 ---
 title: Nick Cowen
-aliases: []
+aliases:
+- 尼克·考恩
 summary: 林肯大学/纽约大学政治科学家，以公共选择理论分析证据本位教育的政治经济学，解释 EBE 的官僚功能
 type: person
 nationality: uk

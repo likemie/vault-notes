@@ -1,6 +1,7 @@
 ---
 title: Robbie Case
-aliases: []
+aliases:
+- 罗比·凯斯
 summary: 新皮亚杰理论家，进一步发展 Pascual-Leone 模型为四子域发展模型，以平衡木测试测量阶段内和阶段间发展差异
 type: person
 nationality: global
