@@ -1,7 +1,12 @@
 ---
 title: <% tp.file.title %>
-aliases: []
+summary: ""
 type: argument
+subtype: journal-article
+publication_type: journal-article
+journal: ""
+book_title: ""
+issuing_organization: ""
 citation: ""
 tags: []
 related_concepts: []
@@ -24,7 +29,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 研究问题
 
 > [!question]
-> 论文试图回答什么问题。
+> 直接陈述问题意识，不用“本论文/作者认为”作主语。说明该论证要解释的教育现象、理论问题或政策问题。
 
 ---
 
@@ -47,9 +52,14 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 论证结构
 
 > [!example]
-> 1. 前提／观察
-> 2. 论证步骤
-> 3. 结论
+> 详细拆解推理链，用易懂语言说明每一步如何成立。抽象处加入原文例子或简短教育情境说明。
+> 1. 问题起点
+> 2. 理论／概念工具
+> 3. 关键前提
+> 4. 证据支撑
+> 5. 中间推论
+> 6. 结论
+> 7. 可疑跳跃
 
 ---
 

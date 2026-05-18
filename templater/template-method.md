@@ -1,7 +1,9 @@
 ---
 title: <% tp.file.title %>
 aliases: []
+summary: ""
 type: method
+method_type: qualitative
 tags: []
 related_concepts: []
 related_theories: []

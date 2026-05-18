@@ -1,8 +1,11 @@
 ---
 title: <% tp.file.title %>
 aliases: []
+summary: ""
 type: fact
 subtype: policy
+region: ""
+issuing_organization: ""
 tags: []
 related_concepts: []
 related_theories: []

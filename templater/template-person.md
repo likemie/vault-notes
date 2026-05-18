@@ -1,7 +1,9 @@
 ---
 title: <% tp.file.title %>
 aliases: []
+summary: ""
 type: person
+nationality: ""
 tags: []
 related_concepts: []
 related_theories: []

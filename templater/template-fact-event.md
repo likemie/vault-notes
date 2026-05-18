@@ -1,8 +1,10 @@
 ---
 title: <% tp.file.title %>
 aliases: []
+summary: ""
 type: fact
 subtype: event
+region: ""
 tags: []
 related_concepts: []
 related_theories: []

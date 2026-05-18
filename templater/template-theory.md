@@ -1,6 +1,7 @@
 ---
 title: <% tp.file.title %>
 aliases: []
+summary: ""
 type: theory
 tags: []
 related_concepts: []

@@ -1,8 +1,12 @@
 ---
 title: <% tp.file.title %>
-aliases: []
+summary: ""
 type: argument
 subtype: edited-volume
+publication_type: book
+book_title: ""
+editors: []
+publisher: ""
 citation: ""
 tags: []
 related_concepts: []

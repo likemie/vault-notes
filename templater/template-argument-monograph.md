@@ -1,8 +1,12 @@
 ---
 title: <% tp.file.title %>
-aliases: []
+summary: ""
 type: argument
 subtype: monograph
+publication_type: book
+book_title: ""
+authors: []
+publisher: ""
 citation: ""
 tags: []
 related_concepts: []
@@ -48,10 +52,14 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 论证结构
 
 > [!example]
-> 全书整体论证脉络，综合各章要点：
-> 1. 前提／观察
-> 2. 论证步骤
-> 3. 结论
+> 全书整体论证脉络，综合各章要点。用易懂语言详细拆解推理链，抽象处加入例子。
+> 1. 问题起点
+> 2. 理论／概念工具
+> 3. 关键前提
+> 4. 证据支撑
+> 5. 中间推论
+> 6. 结论
+> 7. 可疑跳跃
 
 ---
 
