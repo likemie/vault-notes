@@ -1,6 +1,6 @@
 ---
 title: Argument_Rambla_2022_Springer
-summary: 欧盟创新与技能政策通过绩效指标选择性放大可量化目标，从而塑造特定的区域教育与创新想象。
+summary: 'Ch10 Xavier Rambla: 以 Le Galès 政策工具框架分析欧盟创新与教育培训政策如何通过绩效指标构建区域性的教育与创新想象，揭示其选择性优先技术研发和就业导向而边缘化区域异质性与人文赋权'
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -38,7 +38,6 @@ status: draft
 created: '2026-05-13'
 updated: '2026-05-18'
 ---
-
 
 # Argument_Rambla_2022_Springer
 

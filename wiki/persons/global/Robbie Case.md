@@ -1,7 +1,7 @@
 ---
 title: Robbie Case
 aliases: []
-summary: 新皮亚杰理论家，进一步发展了 Pascual-Leone 的双因素认知发展模型，提出四子域发展模型。
+summary: 新皮亚杰理论家，进一步发展 Pascual-Leone 模型为四子域发展模型，以平衡木测试测量阶段内和阶段间发展差异
 type: person
 nationality: global
 tags:

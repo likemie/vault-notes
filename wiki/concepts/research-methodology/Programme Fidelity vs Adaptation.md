@@ -1,16 +1,37 @@
 ---
 title: Programme Fidelity vs Adaptation
+aliases: []
+summary: 证据本位方案实施中的核心张力：忠实复制原始方案 vs 根据本地条件调整，Cartwright 以加州 1996 年班级缩减政策说明两者各有限度
 type: concept
-tags: [evidence-based-education, implementation, programme-fidelity, adaptation, level/k12]
-related_concepts: ["[[Evidence-Based Education]]", "[[Local Knowledge in Evidence-Based Policy]]", "[[Visible Learning]]"]
-related_theories: ["[[Cartwright's Three-Stage Knowledge Framework]]"]
-related_persons: ["[[Nancy Cartwright]]", "[[Nick Cowen]]", "[[Dylan Wiliam]]", "[[John Hattie]]"]
-related_arguments: ["[[Argument_Knudsen_2017_NordSTEP]]"]
-sources: ["sources/Cowen_2015_CHESS.md", "sources/Knudsen_2017_NordSTEP.md", "sources/Wiliam_2019_ERE.md"]
+tags:
+- evidence-based-education
+- implementation
+- programme-fidelity
+- adaptation
+- level/k12
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Local Knowledge in Evidence-Based Policy]]'
+- '[[Visible Learning]]'
+related_theories:
+- '[[Cartwright''s Three-Stage Knowledge Framework]]'
+related_methods: []
+related_persons:
+- '[[Nancy Cartwright]]'
+- '[[Nick Cowen]]'
+- '[[Dylan Wiliam]]'
+- '[[John Hattie]]'
+related_facts: []
+related_arguments:
+- '[[Argument_Knudsen_2017_NordSTEP]]'
+sources:
+- '[[Cowen_2015_CHESS]]'
+- '[[Knudsen_2017_NordSTEP]]'
+- '[[Wiliam_2019_ERE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

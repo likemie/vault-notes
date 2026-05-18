@@ -1,6 +1,6 @@
 ---
 title: Argument_Hattie_2010_NZJES
-summary: 教育学者既应批评政策，也应参与政策形成；公共介入不是背离学术，而是学术责任的一部分。
+summary: Hattie 以第一人称反思教育学者作为"社会批评者与良知"的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -38,7 +38,6 @@ status: draft
 created: '2026-05-06'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

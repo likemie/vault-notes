@@ -1,19 +1,35 @@
 ---
 title: Theories of Policy Change
-aliases: ["政策变革理论", "theories of change", "theory of change", "变革理论（政策）"]
+aliases:
+- 政策变革理论
+- theories of change
+- theory of change
+- 变革理论（政策）
+summary: Pawson (2006) 的实在论评估概念：政策承载的因果机制叙事，Rambla (2022) 分析其在欧盟旗舰政策中的应用与地方转化
 type: concept
-tags: ["policy-instruments", "governance", "region/global"]
-related_concepts: ["[[Performance Indicators]]", "[[Selectivity]]"]
+tags:
+- policy-instruments
+- governance
+- region/global
+related_concepts:
+- '[[Performance Indicators]]'
+- '[[Selectivity]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Innovation Union]]", "[[EU Skills Agenda]]", "[[Europe 2020 Strategy]]", "[[Youth Guarantee Scheme]]"]
-related_arguments: ["[[Argument_Rambla_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
+related_facts:
+- '[[Innovation Union]]'
+- '[[EU Skills Agenda]]'
+- '[[Europe 2020 Strategy]]'
+- '[[Youth Guarantee Scheme]]'
+related_arguments:
+- '[[Argument_Rambla_2022_Springer]]'
+sources:
+- '[[Ch10_Rambla_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-13
-updated: 2026-05-14
+created: '2026-05-13'
+updated: '2026-05-18'
 ---
 
 # Theories of Policy Change

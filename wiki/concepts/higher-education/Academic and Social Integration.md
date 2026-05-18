@@ -1,15 +1,37 @@
 ---
 title: Academic and Social Integration
-aliases: [学习社交融入理论, 学业融入与社交融入, Tinto 融入理论, academic and social integration]
+aliases:
+- 学习社交融入理论
+- 学业融入与社交融入
+- Tinto 融入理论
+- academic and social integration
+summary: Vincent Tinto (1993) 的学生发展理论：大学生须经分离-转折-习得三阶段融入大学学术与社交环境，郑雅君 (2023) 作为"投入过程"的理论基础
 type: concept
-tags: [student-integration, higher-education, Tinto, level/higher-ed]
-related_concepts: ["[[Student Engagement]]", "[[Student Involvement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]"]
-related_persons: ["[[Vincent Tinto]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- student-integration
+- higher-education
+- Tinto
+- level/higher-ed
+related_concepts:
+- '[[Student Engagement]]'
+- '[[Student Involvement]]'
+- '[[Academic Engagement]]'
+- '[[Social Engagement]]'
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Cultural Barrier in Higher Education]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Vincent Tinto]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Academic and Social Integration

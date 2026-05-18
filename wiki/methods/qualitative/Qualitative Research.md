@@ -2,7 +2,7 @@
 title: Qualitative Research
 aliases:
 - 质性研究
-summary: 质性研究（Qualitative Research）在 Brady et al. (2023) 的编码中指不操纵自变量、并使用访谈、观察等文本数据的研究。
+summary: 不操纵自变量并使用访谈、观察等文本数据的非干预研究；Brady et al. (2023) 发现其在教育心理学经验期刊中升至 22%
 type: method
 method_type: qualitative
 tags:

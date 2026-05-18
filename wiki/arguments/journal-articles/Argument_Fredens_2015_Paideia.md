@@ -1,6 +1,6 @@
 ---
 title: Argument_Fredens_2015_Paideia
-summary: Visible Learning and the Science of How We Learn 被概括为把学校重塑为反馈文化的脑科学化学习方案。
+summary: Kjeld Fredens 对 Hattie & Yates Synlig læring og læringens anatomi 的丹麦语书评，提炼九条学习原则，提出反馈文化概念并补充默认网络功能批评
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -31,7 +31,6 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

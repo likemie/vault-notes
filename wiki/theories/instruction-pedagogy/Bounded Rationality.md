@@ -1,14 +1,27 @@
 ---
 title: Bounded Rationality
+aliases: []
+summary: Simon (1969/1996) 的有限理性理论：复杂专业任务的复杂度大于专业人员的实践能力，Qvortrup 用作专业判断的理论基础
 type: theory
-tags: [bounded-rationality, decision-making, organizational-theory]
-related_concepts: ["[[Professional Judgment]]", "[[Visible Learning]]"]
-related_persons: ["[[Herbert A. Simon]]"]
-sources: ["sources/Qvortrup_2019_NordSTEP.md"]
+tags:
+- bounded-rationality
+- decision-making
+- organizational-theory
+related_concepts:
+- '[[Professional Judgment]]'
+- '[[Visible Learning]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Herbert A. Simon]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Qvortrup_2019_NordSTEP]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

@@ -1,18 +1,50 @@
 ---
 title: Global Universities Rankings
-aliases: ["全球大学排名", "university rankings", "global rankings", "league tables", "global university rankings", "University Rankings (Global)"]
+aliases:
+- 全球大学排名
+- university rankings
+- global rankings
+- league tables
+- global university rankings
+- University Rankings (Global)
+summary: 全球大学排名：比较性评估 HEI 的工具系统，已成为驱动高教系统转型和地缘政治竞争的核心力量，因推行一刀切模型、忽视使命多样性和确认有限公共利益理解而受批评
 type: concept
-tags: [university-rankings, higher-education, geopolitics, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Global Education Industry]]", "[[Internationalization of Higher Education]]", "[[Social Charter]]", "[[Space-Making in Higher Education]]"]
+tags:
+- university-rankings
+- higher-education
+- geopolitics
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Global Education Industry]]'
+- '[[Internationalization of Higher Education]]'
+- '[[Social Charter]]'
+- '[[Space-Making in Higher Education]]'
 related_theories: []
-related_persons: ["[[Ellen Hazelkorn]]", "[[Pepka Boyadjieva]]"]
-related_facts: ["[[Academic Ranking of World Universities (ARWU)]]", "[[OECD AHELO Project]]", "[[THE Impact Ranking 2019]]", "[[PISA]]"]
-related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]", "[[Argument_Zapp_2022_Springer]]", "[[Argument_Slethaug_2010_InternationalEducation]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md", "[[Ch9_Zapp_2022]]", "[[Marginson_2025_ROE]]", "[[Ch1_Slethaug_2010]]"]
+related_methods: []
+related_persons:
+- '[[Ellen Hazelkorn]]'
+- '[[Pepka Boyadjieva]]'
+related_facts:
+- '[[Academic Ranking of World Universities (ARWU)]]'
+- '[[OECD AHELO Project]]'
+- '[[THE Impact Ranking 2019]]'
+- '[[PISA]]'
+related_arguments:
+- '[[Argument_Boyadjieva_2022_Springer]]'
+- '[[Argument_Zapp_2022_Springer]]'
+- '[[Argument_Slethaug_2010_InternationalEducation]]'
+sources:
+- '[[Ch8_Boyadjieva_2022]]'
+- '[[Ch9_Zapp_2022]]'
+- '[[Marginson_2025_ROE]]'
+- '[[Ch1_Slethaug_2010]]'
 confidence: medium
 status: draft
-created: 2026-05-11
-updated: 2026-05-17
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Global Universities Rankings

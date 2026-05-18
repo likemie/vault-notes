@@ -1,15 +1,31 @@
 ---
 title: Global Education Reform Movement (GERM)
+aliases: []
+summary: Sahlberg (2012) 术语：以新自由主义意识形态驱动的全球教育改革运动，标准化、问责、市场化、私有化为特征，Johnson & Janzen 论证 VL 在 GERM 中扮演推手角色
 type: concept
-tags: [GERM, 全球教育改革运动, 新自由主义, region/global]
-related_concepts: ["[[Visible Learning]]", "[[New Public Management in Education]]", "[[Performativity of Measurement]]", "[[Neo-Taylorism in Educational Administration]]"]
-related_persons: ["[[John Hattie]]"]
-related_facts: ["[[Visible Learning Branding and Global Influences]]"]
-sources: ["sources/Johnson_2023_CE.md"]
+tags:
+- GERM
+- 全球教育改革运动
+- 新自由主义
+- region/global
+related_concepts:
+- '[[Visible Learning]]'
+- '[[New Public Management in Education]]'
+- '[[Performativity of Measurement]]'
+- '[[Neo-Taylorism in Educational Administration]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts:
+- '[[Visible Learning Branding and Global Influences]]'
+related_arguments: []
+sources:
+- '[[Johnson_2023_CE]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

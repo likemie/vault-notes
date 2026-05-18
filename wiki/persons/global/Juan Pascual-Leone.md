@@ -2,7 +2,7 @@
 title: Juan Pascual-Leone
 aliases:
 - Pascual-Leone
-summary: 首位将信息加工理论与皮亚杰认知发展理论整合的新皮亚杰理论家（1970 年），提出心智能力（Mental Power / M-power）概念。
+summary: 首位新皮亚杰理论家（1970），提出沉默/主观算子双层模型和心智能力（M-power）概念，解释皮亚杰阶段递进机制
 type: person
 nationality: global
 tags:

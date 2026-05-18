@@ -1,14 +1,33 @@
 ---
 title: Problem-Based Learning
+aliases: []
+summary: 以问题驱动学习的教学方法，9 项元分析综合 d≈0.08–0.24，Hattie (2015) 论证其在学生缺乏表层知识时低效
 type: concept
-tags: [problem-based-learning, subject/instruction, level/higher-ed]
-related_concepts: ["[[Visible Learning]]", "[[Surface and Deep Learning]]", "[[Direct Instruction]]", "[[Meta-analysis]]", "[[Effect Size]]", "[[Phenomenon-Based Learning]]"]
-related_persons: ["[[John Hattie]]"]
-sources: ["sources/Hattie_2015_SOTLP.md", "sources/Blass_2020_JESP.md", "sources/Schaffar_2024_CogentEdu.md"]
+tags:
+- problem-based-learning
+- subject/instruction
+- level/higher-ed
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Surface and Deep Learning]]'
+- '[[Direct Instruction]]'
+- '[[Meta-analysis]]'
+- '[[Effect Size]]'
+- '[[Phenomenon-Based Learning]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Hattie_2015_SOTLP]]'
+- '[[Blass_2020_JESP]]'
+- '[[Schaffar_2024_CogentEdu]]'
 confidence: low
 status: draft
-created: 2026-05-04
-updated: 2026-05-06
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -2,7 +2,7 @@
 title: Sean McCusker
 aliases:
 - McCusker
-summary: Sean McCusker 任职于英国诺桑比亚大学（Northumbria University）社会科学系（Department of Social Sciences）。
+summary: 诺桑比亚大学社会科学系，与 Wrigley 合作发表证据本位教学科学观的批判性研究
 type: person
 nationality: uk
 tags:

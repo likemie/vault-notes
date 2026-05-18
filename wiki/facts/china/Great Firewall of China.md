@@ -1,20 +1,37 @@
 ---
 title: Great Firewall of China
-aliases: ["中国防火长城", "中国国家防火墙", "GFW"]
+aliases:
+- 中国防火长城
+- 中国国家防火墙
+- GFW
+summary: 中国国家互联网审查系统，Partaken (2022) 定位为 GPK 审查模态的核心制度工具
 type: fact
 subtype: event
-tags: ["region/china", "internet-censorship", "knowledge-transfer", "geopolitics-of-knowledge"]
-related_concepts: ["[[Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Forced Knowledge Transfer]]", "[[Knowledge Sabotage]]"]
+region: china
+tags:
+- region/china
+- internet-censorship
+- knowledge-transfer
+- geopolitics-of-knowledge
+related_concepts:
+- '[[Knowledge Transfer]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Forced Knowledge Transfer]]'
+- '[[Knowledge Sabotage]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[China Social Credit System]]", "[[Sino-American Trade War (2018)]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_facts:
+- '[[China Social Credit System]]'
+- '[[Sino-American Trade War (2018)]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Great Firewall of China

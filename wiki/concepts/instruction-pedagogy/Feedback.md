@@ -1,15 +1,42 @@
 ---
 title: Feedback
+aliases: []
+summary: Hattie (2009) 定义反馈为代理人提供的关于表现或理解的信息（d=0.73），Nielsen & Klitmøller (2021) 对其 5 项最重元分析逐项审查发现 4/5 未研究 Hattie 所定义的反馈
 type: concept
-tags: [feedback, reinforcement, subject/instruction, level/k12]
-related_concepts: ["[[Visible Learning]]", "[[Effect Size]]", "[[Evidence-Based Education]]", "[[Surface and Deep Learning]]", "[[working-memory]]", "[[Effective Teaching]]", "[[Student-Teacher Relationship]]", "[[Gender Differences in Academic Achievement]]"]
-related_theories: ["[[Technical Rationality]]"]
-related_persons: ["[[John Hattie]]", "[[Hilbert Meyer]]", "[[Andreas Helmke]]", "[[Klaus Nielsen]]"]
-sources: ["sources/Hattie_2015_SOTLP.md", "sources/Fredens_2015_Paideia.md", "sources/Nielsen_2021_NordPsych.md", "sources/Laursen_2015_Paideia.md", "sources/Lekhal_2015_Paideia.md"]
+tags:
+- feedback
+- reinforcement
+- subject/instruction
+- level/k12
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Effect Size]]'
+- '[[Evidence-Based Education]]'
+- '[[Surface and Deep Learning]]'
+- '[[working-memory]]'
+- '[[Effective Teaching]]'
+- '[[Student-Teacher Relationship]]'
+- '[[Gender Differences in Academic Achievement]]'
+related_theories:
+- '[[Technical Rationality]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Hilbert Meyer]]'
+- '[[Andreas Helmke]]'
+- '[[Klaus Nielsen]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Hattie_2015_SOTLP]]'
+- '[[Fredens_2015_Paideia]]'
+- '[[Nielsen_2021_NordPsych]]'
+- '[[Laursen_2015_Paideia]]'
+- '[[Lekhal_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-04
-updated: 2026-05-06
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

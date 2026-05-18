@@ -1,15 +1,29 @@
 ---
 title: Karmel Report 1973
+aliases: []
+summary: 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
 type: fact
 subtype: policy
-tags: [school-autonomy, region/australia, level/k12]
-related_concepts: ["[[School Autonomy]]", "[[New Public Management in Education]]"]
+region: australia
+issuing_organization: ''
+tags:
+- school-autonomy
+- region/australia
+- level/k12
+related_concepts:
+- '[[School Autonomy]]'
+- '[[New Public Management in Education]]'
 related_theories: []
-sources: ["sources/Keddie_2020_IJLE.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Keddie_2020_IJLE]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 背景

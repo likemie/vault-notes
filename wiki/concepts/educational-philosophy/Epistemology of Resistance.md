@@ -1,19 +1,40 @@
 ---
 title: Epistemology of Resistance
-aliases: ["抵抗认识论", "resistive epistemology", "epistemology of resistance"]
+aliases:
+- 抵抗认识论
+- resistive epistemology
+- epistemology of resistance
+summary: 抵抗认识论：从被排斥群体的具体经验出发构建替代性知识形式，Rocinha 贫民窟剧场导演 Castelo Branco 的 EspectAtor 方法为核心实践案例
 type: concept
-tags: ["region/brazil", "theme/epistemology", "theme/resistance", "theme/decolonial"]
-related_concepts: ["[[Ganz-Methode]]", "[[Life Power]]", "[[Social Museology]]", "[[Ecomuseology]]", "[[Geopolitics of Knowledge]]"]
-related_theories: ["[[Creative Tension of Sense]]", "[[Decolonial Geopolitics of Knowledge]]"]
+tags:
+- region/brazil
+- theme/epistemology
+- theme/resistance
+- theme/decolonial
+related_concepts:
+- '[[Ganz-Methode]]'
+- '[[Life Power]]'
+- '[[Social Museology]]'
+- '[[Ecomuseology]]'
+- '[[Geopolitics of Knowledge]]'
+related_theories:
+- '[[Creative Tension of Sense]]'
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
-related_persons: ["[[Dell Delambre]]", "[[Walter Mignolo]]", "[[Richard Castelo Branco]]", "[[Camilla de Hollanda Amado]]"]
+related_persons:
+- '[[Dell Delambre]]'
+- '[[Walter Mignolo]]'
+- '[[Richard Castelo Branco]]'
+- '[[Camilla de Hollanda Amado]]'
 related_facts: []
-related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
-sources: ["[[Ch7_Delambre_2022]]"]
+related_arguments:
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch7_Delambre_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Epistemology of Resistance

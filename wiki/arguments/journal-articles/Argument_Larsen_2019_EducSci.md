@@ -1,6 +1,6 @@
 ---
 title: Argument_Larsen_2019_EducSci
-summary: Visible Learning 的“看见”本身带有哲学盲点，它以可测量性替代了对教育关系、内容与意义的理解。
+summary: 从 Bildung、神经可塑性、现象学自由和概念史四维度对 Hattie VL 范式的哲学批判，论证盲视是教育观看不可避免的组成部分
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -34,7 +34,6 @@ status: draft
 created: '2026-05-04'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

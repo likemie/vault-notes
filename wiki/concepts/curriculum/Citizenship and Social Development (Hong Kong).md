@@ -1,15 +1,32 @@
 ---
 title: Citizenship and Social Development (Hong Kong)
+aliases: []
+summary: 2021 年取代通识教育科的香港高中必修科，课程核心从批判性思维转向爱国主义与国家安全
 type: concept
-tags: [Citizenship-and-Social-Development, CSD, Hong-Kong, subject/curriculum, national-identity, region/china, level/k12]
-related_concepts: ["[[Liberal Studies (Hong Kong)]]", "[[National Education in Hong Kong]]"]
-related_theories: ["[[Cuban's Curriculum Change Theory]]"]
-related_persons: ["[[Paul Morris]]"]
-sources: ["sources/Yan_2025_JCS.md"]
+tags:
+- Citizenship-and-Social-Development
+- CSD
+- Hong-Kong
+- subject/curriculum
+- national-identity
+- region/china
+- level/k12
+related_concepts:
+- '[[Liberal Studies (Hong Kong)]]'
+- '[[National Education in Hong Kong]]'
+related_theories:
+- '[[Cuban''s Curriculum Change Theory]]'
+related_methods: []
+related_persons:
+- '[[Paul Morris]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Yan_2025_JCS]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

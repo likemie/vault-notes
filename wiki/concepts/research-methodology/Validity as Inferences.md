@@ -1,16 +1,34 @@
 ---
 title: Validity as Inferences
+aliases: []
+summary: Cronbach/Messick 的效度理论：效度是推论的属性而非测试或实验的属性，验证是永无止境的过程，Wiliam (2019) 将其应用于教育 RCT 方法论批判
 type: concept
-tags: [validity, educational-assessment, psychometrics, research-methodology, evidence-based-education]
-related_concepts: ["[[Evidence-Based Education]]", "[[Effect Size]]"]
-related_persons: ["[[Dylan Wiliam]]", "[[Lee Cronbach]]", "[[Samuel Messick]]"]
-related_theories: ["[[Goldman's Discrimination Theory of Knowledge]]"]
-sources: ["sources/Wiliam_2019_ERE.md"]
+tags:
+- validity
+- educational-assessment
+- psychometrics
+- research-methodology
+- evidence-based-education
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Effect Size]]'
+related_theories:
+- '[[Goldman''s Discrimination Theory of Knowledge]]'
+related_methods: []
+related_persons:
+- '[[Dylan Wiliam]]'
+- '[[Lee Cronbach]]'
+- '[[Samuel Messick]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wiliam_2019_ERE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
+
 ## 定义
 
 效度（validity）不是测试或实验的属性，而是**从数据中得出推论的属性**。这一立场由 Lee Cronbach (1971) 在心理测量学中首次明确提出，后由 Samuel Messick (1989) 发展为"验证作为永无止境的过程"的系统论述。Wiliam (2019) 将此立场从教育测量延伸至教育研究方法论，论证其对 RCT 和证据本位教育的直接含义。

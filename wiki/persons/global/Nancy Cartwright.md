@@ -2,7 +2,7 @@
 title: Nancy Cartwright
 aliases:
 - Cartwright
-summary: Nancy Cartwright，科学哲学家，杜伦大学哲学系教授（Durham University）和加州大学圣地亚哥分校（UC San Diego）荣休教授。
+summary: 杜伦大学/UC San Diego 科学哲学家，CHESS 核心成员，提出 RCT 证据外推三阶段框架，与 Nick Cowen 合作研究教育 EBP 实施
 type: person
 nationality: global
 tags:

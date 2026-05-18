@@ -2,7 +2,7 @@
 title: Larry Cuban
 aliases:
 - Cuban
-summary: Larry Cuban 是美国教育史学家和课程理论家，斯坦福大学教育学院荣休教授。
+summary: 斯坦福教育史学家，提出课程变革的三因素理论：进步教育运动、冷战/国防、立法法律决定
 type: person
 nationality: us
 tags:

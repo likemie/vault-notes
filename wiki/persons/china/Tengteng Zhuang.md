@@ -2,7 +2,7 @@
 title: Tengteng Zhuang
 aliases:
 - 庄腾腾
-summary: 庄腾腾，北京师范大学（Beijing Normal University）教育研究者，研究方向为中国教育实证研究的文献计量分析和制度化发展。
+summary: 庄腾腾，北京师范大学教育研究者，系统整理中国教育实证研究文献计量数据（CNKI ~5000 篇，Slavin et al., 2021）
 type: person
 nationality: china
 tags:

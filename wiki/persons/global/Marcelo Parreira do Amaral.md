@@ -2,7 +2,7 @@
 title: Marcelo Parreira do Amaral
 aliases:
 - Amaral
-summary: Marcelo Parreira do Amaral 是德国明斯特大学（University of Münster）教育学院教授，比较教育与高等教育研究者。
+summary: 明斯特大学比较教育教授，全球教育产业（GEI）和知识地缘政治研究者，与 Thompson 共同主编 *Geopolitical Transformations in Higher Education* (2022)
 type: person
 nationality: global
 tags:

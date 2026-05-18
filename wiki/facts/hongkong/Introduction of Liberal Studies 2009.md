@@ -1,16 +1,35 @@
 ---
 title: Introduction of Liberal Studies 2009
+aliases: []
+summary: 通识教育科作为新高中核心必修科的创立，以全球化论述和 IBDP 参照包装国内政策需求
 type: fact
 subtype: policy
-tags: [Liberal Studies (Hong Kong), region/china, level/k12, curriculum-reform, 3-3-4-reform]
-related_concepts: ["[[Liberal Studies (Hong Kong)]]", "[[Policy Borrowing]]", "[[National Education in Hong Kong]]"]
-related_theories: ["[[Policy Borrowing]]", "[[World Society Theory]]"]
-related_persons: ["[[Tung Chee-hwa]]"]
-sources: ["sources/Yan_2025_JCS.md"]
+region: hongkong
+issuing_organization: ''
+tags:
+- Liberal Studies (Hong Kong)
+- region/china
+- level/k12
+- curriculum-reform
+- 3-3-4-reform
+related_concepts:
+- '[[Liberal Studies (Hong Kong)]]'
+- '[[Policy Borrowing]]'
+- '[[National Education in Hong Kong]]'
+related_theories:
+- '[[Policy Borrowing]]'
+- '[[World Society Theory]]'
+related_methods: []
+related_persons:
+- '[[Tung Chee-hwa]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Yan_2025_JCS]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 背景

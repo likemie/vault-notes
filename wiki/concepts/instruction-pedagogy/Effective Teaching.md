@@ -1,15 +1,32 @@
 ---
 title: Effective Teaching
+aliases: []
+summary: 综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提促进学习
 type: concept
-tags: [effective-teaching, subject/instruction, level/k12]
-related_concepts: ["[[Visible Learning]]", "[[Feedback]]", "[[Individualised Instruction]]"]
-related_theories: ["[[Hofstede's Cultural Dimensions]]"]
-related_persons: ["[[John Hattie]]", "[[Hilbert Meyer]]", "[[Andreas Helmke]]", "[[Jill Mehlbye]]"]
-sources: ["sources/Laursen_2015_Paideia.md"]
+tags:
+- effective-teaching
+- subject/instruction
+- level/k12
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Feedback]]'
+- '[[Individualised Instruction]]'
+related_theories:
+- '[[Hofstede''s Cultural Dimensions]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Hilbert Meyer]]'
+- '[[Andreas Helmke]]'
+- '[[Jill Mehlbye]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Laursen_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-06
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,14 +1,28 @@
 ---
 title: Constructive Alignment
+aliases: []
+summary: Biggs (1996, 2003) 的课程设计原则：学习结果、教学活动和评估三者逻辑一致对齐，被 Hattie VL 框架采纳为关键实施要素
 type: concept
-tags: [constructive-alignment, subject/curriculum, level/higher-ed]
-related_concepts: ["[[Visible Learning]]", "[[Surface and Deep Learning]]"]
-related_persons: ["[[John Biggs]]", "[[John Hattie]]"]
-sources: ["sources/Hattie_2015_SOTLP.md"]
+tags:
+- constructive-alignment
+- subject/curriculum
+- level/higher-ed
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Surface and Deep Learning]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Biggs]]'
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Hattie_2015_SOTLP]]'
 confidence: low
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

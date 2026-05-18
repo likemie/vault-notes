@@ -1,19 +1,30 @@
 ---
 title: Membership-Creating Function of Education
 aliases: []
+summary: Ramirez & Boli (1987) 揭示的现代教育基础功能：公立学校系统同时建立忠诚与归属的纽带（创造成员身份）和划定"谁属于我们、谁是外人"的边界，Amos (2022) 以此分析晚期现代性中该功能的弱化
 type: concept
-tags: [membership, nation-state, mass-education, citizenship, boundaries]
-related_concepts: ["[[National Education in Hong Kong]]", "[[Citizenship and Social Development (Hong Kong)]]"]
-related_theories: ["[[Nation Building through Education]]", "[[World Society Theory]]"]
-related_persons: []
+tags:
+- membership
+- nation-state
+- mass-education
+- citizenship
+- boundaries
+related_concepts:
+- '[[National Education in Hong Kong]]'
+- '[[Citizenship and Social Development (Hong Kong)]]'
+related_theories:
+- '[[Nation Building through Education]]'
+- '[[World Society Theory]]'
 related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

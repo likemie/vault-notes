@@ -1,19 +1,40 @@
 ---
 title: Ecomuseology
-aliases: ["生态博物馆学", "ecomuseology", "生态博物馆", "ecomuseum", "ecomuseums"]
+aliases:
+- 生态博物馆学
+- ecomuseology
+- 生态博物馆
+- ecomuseum
+- ecomuseums
+summary: 生态博物馆学：将整个地域视为博物馆，由社区主导保护和阐释自然与文化遗产，与巴西社会博物馆学高度交叉共存
 type: concept
-tags: ["region/brazil", "region/global", "theme/museology", "theme/ecology", "theme/community"]
-related_concepts: ["[[Social Museology]]", "[[Life Power]]", "[[Ganz-Methode]]", "[[Geopolitics of Knowledge]]"]
-related_theories: ["[[Creative Tension of Sense]]", "[[Decolonial Geopolitics of Knowledge]]"]
+tags:
+- region/brazil
+- region/global
+- theme/museology
+- theme/ecology
+- theme/community
+related_concepts:
+- '[[Social Museology]]'
+- '[[Life Power]]'
+- '[[Ganz-Methode]]'
+- '[[Geopolitics of Knowledge]]'
+related_theories:
+- '[[Creative Tension of Sense]]'
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
-related_persons: ["[[Dell Delambre]]", "[[Walter Mignolo]]"]
+related_persons:
+- '[[Dell Delambre]]'
+- '[[Walter Mignolo]]'
 related_facts: []
-related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
-sources: ["[[Ch7_Delambre_2022]]"]
+related_arguments:
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch7_Delambre_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Ecomuseology

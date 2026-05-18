@@ -1,15 +1,31 @@
 ---
 title: Preregistration
+aliases: []
+summary: 在研究开始前公开登记研究设计、结果测量和分析计划，被提出作为缓解开发者效应和可疑研究实践的关键机制
 type: concept
-tags: [preregistration, research-methodology, open-science, program-evaluation, evidence-based-education, REES]
-related_concepts: ["[[Publication Bias]]", "[[Researcher Degrees of Freedom]]", "[[Developer Effect]]", "[[Evidence-Based Education]]"]
+tags:
+- preregistration
+- research-methodology
+- open-science
+- program-evaluation
+- evidence-based-education
+- REES
+related_concepts:
+- '[[Publication Bias]]'
+- '[[Researcher Degrees of Freedom]]'
+- '[[Developer Effect]]'
+- '[[Evidence-Based Education]]'
 related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/Wolf_2020_JREE.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wolf_2020_JREE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

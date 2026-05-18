@@ -2,7 +2,7 @@
 title: John Biggs
 aliases:
 - Biggs
-summary: John Biggs，澳大利亚教育心理学家，以"建构性对齐"（Constructive Alignment）和 SOLO 分类法（Structure of Observed Learning Outcomes）闻名。Rømer (2018) 将其定位为 1990 年代激进建构主义运动的一部分。
+summary: 澳大利亚教育心理学家，建构性对齐（Constructive Alignment）和 SOLO 分类法创始人，属于 1990 年代激进建构主义运动
 type: person
 nationality: global
 tags:

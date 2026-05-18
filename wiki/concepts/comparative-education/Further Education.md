@@ -1,19 +1,34 @@
 ---
 title: Further Education
-aliases: ["继续教育", "further education and training", "非正规成人教育", "终身学习培训"]
+aliases:
+- 继续教育
+- further education and training
+- 非正规成人教育
+- 终身学习培训
+summary: 继续教育：非正规中学后教育形式，在结构化教育系统之外进行，与非学位证书和微证书相关联，是后福特知识经济中终身学习的关键组成部分
 type: concept
-tags: ["level/adult", "region/global", "subject/comparative-education"]
-related_concepts: ["[[Corporate Education]]", "[[Corporate University]]", "[[Knowledge-Based Economy]]", "[[Global Education Industry]]"]
-related_theories: ["[[Institutional Isomorphism]]"]
+tags:
+- level/adult
+- region/global
+- subject/comparative-education
+related_concepts:
+- '[[Corporate Education]]'
+- '[[Corporate University]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Global Education Industry]]'
+related_theories:
+- '[[Institutional Isomorphism]]'
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Hartmann_2022_CorporateEducation]]"]
-sources: ["[[Ch11_Hartmann_2022]]"]
+related_arguments:
+- '[[Argument_Hartmann_2022_CorporateEducation]]'
+sources:
+- '[[Ch11_Hartmann_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-18
-updated: 2026-05-18
+created: '2026-05-18'
+updated: '2026-05-18'
 ---
 
 # Further Education

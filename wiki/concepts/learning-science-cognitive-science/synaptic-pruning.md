@@ -1,14 +1,31 @@
 ---
 title: Synaptic Pruning
+aliases: []
+summary: 突触消除的程序性过程，基于 Hebb 原则精简低效连接，儿童兴奋性突触为成人 2–3 倍，PFC 中 2–7 岁密度大幅下降
 type: concept
-tags: [synaptic-pruning, brain-development, neuroscience, learning-science, cognitive-science]
-related_concepts: ["[[synaptogenesis]]", "[[myelination]]", "[[neuroplasticity]]", "[[prefrontal-cortex]]"]
-related_theories: ["[[hebbian-principles]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+tags:
+- synaptic-pruning
+- brain-development
+- neuroscience
+- learning-science
+- cognitive-science
+related_concepts:
+- '[[synaptogenesis]]'
+- '[[myelination]]'
+- '[[neuroplasticity]]'
+- '[[prefrontal-cortex]]'
+related_theories:
+- '[[hebbian-principles]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

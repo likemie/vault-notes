@@ -1,19 +1,45 @@
 ---
 title: Hub and Flow Imaginaries
-aliases: ["枢纽与流动想象", "hub and flow imaginaries"]
+aliases:
+- 枢纽与流动想象
+- hub and flow imaginaries
+summary: Moisio (2022) 的概念：知识经济化中的核心空间想象类型，将世界划分为枢纽中心与边缘区域，集群、创意城市、创业城市等为其空间表述
 type: concept
-tags: [hub-and-flow, geopolitical-imaginaries, knowledge-based-economization, spatial-imaginaries, region/global]
-related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Geopolitical Subject]]", "[[Spatial Sortings]]", "[[Knowledge-Based Economy]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[International Education Hubs]]", "[[Minerva University]]"]
-related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]", "[[Network Society]]"]
-related_persons: ["[[Sami Moisio]]", "[[Michael Porter]]", "[[Bob Jessop]]"]
+tags:
+- hub-and-flow
+- geopolitical-imaginaries
+- knowledge-based-economization
+- spatial-imaginaries
+- region/global
+related_concepts:
+- '[[Knowledge-Based Economization]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Classical Geopolitics]]'
+- '[[Geopolitical Subject]]'
+- '[[Spatial Sortings]]'
+- '[[Knowledge-Based Economy]]'
+- '[[National Competitive Advantage]]'
+- '[[Economic Patriotism]]'
+- '[[International Education Hubs]]'
+- '[[Minerva University]]'
+related_theories:
+- '[[Fixity-Motion Tension]]'
+- '[[Critical Geopolitics]]'
+- '[[Network Society]]'
 related_methods: []
+related_persons:
+- '[[Sami Moisio]]'
+- '[[Michael Porter]]'
+- '[[Bob Jessop]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
+sources:
+- '[[Ch2_Moisio_2022]]'
+- '[[Ch3_Parreira do Amaral_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-11
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

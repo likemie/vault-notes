@@ -1,15 +1,32 @@
 ---
 title: Promising Practices Network (PPN)
+aliases: []
+summary: 面向儿童与家庭的多领域非营利清算中心，因 2020 年中停止运行未进入 Wadhwa et al. (2024) 最终一致性分析
 type: fact
-subtype: institution
-tags: [PPN, educational-evidence-clearinghouse, evidence-based-education, promising-practices, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]", "[[Effect Size]]"]
+subtype: event
+region: us
+tags:
+- PPN
+- educational-evidence-clearinghouse
+- evidence-based-education
+- promising-practices
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
+- '[[Effect Size]]'
 related_theories: []
-sources: ["sources/Wadhwa_2024_RER.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

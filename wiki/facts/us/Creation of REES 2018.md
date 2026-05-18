@@ -1,15 +1,32 @@
 ---
 title: Creation of REES 2018
+aliases: []
+summary: IES 于 2018 年启动的教育项目评估预注册平台（Registry of Efficacy and Effectiveness Studies），旨在缓解可疑研究实践并增加对知识库的信心
 type: fact
 subtype: event
-tags: [REES, preregistration, open-science, program-evaluation, region/us]
-related_concepts: ["[[Preregistration]]", "[[Developer Effect]]", "[[Publication Bias]]", "[[Researcher Degrees of Freedom]]"]
+region: us
+tags:
+- REES
+- preregistration
+- open-science
+- program-evaluation
+- region/us
+related_concepts:
+- '[[Preregistration]]'
+- '[[Developer Effect]]'
+- '[[Publication Bias]]'
+- '[[Researcher Degrees of Freedom]]'
+related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/Wolf_2020_JREE.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wolf_2020_JREE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 背景

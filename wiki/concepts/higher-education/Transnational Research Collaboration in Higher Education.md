@@ -1,19 +1,42 @@
 ---
 title: Transnational Research Collaboration in Higher Education
-aliases: ["跨国研究合作", "transnational research collaboration", "international research collaboration"]
+aliases:
+- 跨国研究合作
+- transnational research collaboration
+- international research collaboration
+summary: Rizvi 的分析焦点：跨国研究合作中个体学术、机构声誉、国家经济和外交四重理性的融合
 type: concept
-tags: ["research-collaboration", "higher-education", "internationalization", "geopolitics", "region/global", "level/higher-ed"]
-related_concepts: ["[[Internationalization of Higher Education]]", "[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Knowledge Capitalism]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]", "[[Orientalism]]"]
-related_theories: ["[[Critical Geopolitics]]", "[[Network Society]]"]
+tags:
+- research-collaboration
+- higher-education
+- internationalization
+- geopolitics
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Internationalization of Higher Education]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Knowledge Capitalism]]'
+- '[[Knowledge Transfer]]'
+- '[[Knowledge Production]]'
+- '[[Orientalism]]'
+related_theories:
+- '[[Critical Geopolitics]]'
+- '[[Network Society]]'
 related_methods: []
-related_persons: ["[[Fazal Rizvi]]"]
-related_facts: ["[[Australia in the Asian Century White Paper 2012]]"]
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
+related_persons:
+- '[[Fazal Rizvi]]'
+related_facts:
+- '[[Australia in the Asian Century White Paper 2012]]'
+related_arguments:
+- '[[Argument_Rizvi_2022_Springer]]'
+sources:
+- '[[Ch6_Rizvi_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-11
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Transnational Research Collaboration in Higher Education

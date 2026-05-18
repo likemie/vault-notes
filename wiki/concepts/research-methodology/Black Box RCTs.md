@@ -1,16 +1,34 @@
 ---
 title: Black Box RCTs
+aliases: []
+summary: Scriven (1994) 提出、Peterson (2016) 系统批判的 RCT 设计取向：不提供干预如何/为何/在何条件下有效的信息，将教师视为项目交付管道而非专业判断者
 type: concept
-tags: [black-box-rcts, RCT, experimental-design, evidence-based-education, methodology, paradigm/positivist]
-related_concepts: ["[[Evidence-Based Education]]", "[[Mechanism Experiments]]", "[[Randomised Controlled Trials]]", "[[Improvement Science]]"]
+tags:
+- black-box-rcts
+- RCT
+- experimental-design
+- evidence-based-education
+- methodology
+- paradigm/positivist
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Mechanism Experiments]]'
+- '[[Randomised Controlled Trials]]'
+- '[[Improvement Science]]'
 related_theories: []
-related_persons: ["[[Amelia Peterson]]", "[[Dylan Wiliam]]"]
-related_methods: ["[[Randomised Controlled Trials]]"]
-sources: ["sources/Peterson_2016_IJRME.md"]
+related_methods:
+- '[[Randomised Controlled Trials]]'
+related_persons:
+- '[[Amelia Peterson]]'
+- '[[Dylan Wiliam]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Peterson_2016_IJRME]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,6 +1,6 @@
 ---
 title: Argument_Slethaug_2010_InternationalEducation
-summary: 国际教育的全球扩张使中国学习者成为核心行动者，也使教学问题从方法选择转向文化、认同与制度重构。
+summary: Ch1 背景章节：国际学校 50→3,000+(1964–2005)的爆炸增长与去国家化转型，IB 全球扩散，中国学习者多元性，国际教育师资培训系统性缺失
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -35,7 +35,6 @@ status: draft
 created: '2026-05-17'
 updated: '2026-05-18'
 ---
-
 
 # Argument_Slethaug_2010_InternationalEducation
 

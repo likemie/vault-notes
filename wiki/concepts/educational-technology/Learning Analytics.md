@@ -1,19 +1,31 @@
 ---
 title: Learning Analytics
 aliases: []
+summary: Amos (2022) 定位为数字化三重驱动力中"教师专业发展"维度的核心技术：通过收集和分析学习数字痕迹来理解和优化学习，与个性化学习构成"测量-反馈-适应"循环，同时创造数据科学家和学习设计师等新职业类别
 type: concept
-tags: [learning-analytics, personalized-learning, edtech, digitalization, data-science, region/global, level/higher-ed]
-related_concepts: ["[[Educational Technology Industry]]", "[[Knowledge-Based Economy]]", "[[Transhumanism]]"]
-related_persons: []
+tags:
+- learning-analytics
+- personalized-learning
+- edtech
+- digitalization
+- data-science
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Educational Technology Industry]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Transhumanism]]'
 related_theories: []
 related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

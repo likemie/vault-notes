@@ -4,7 +4,7 @@ aliases:
 - 元-元分析
 - 元元分析
 - mega-analysis
-summary: 元-元分析（Meta-meta-analysis，也称 Mega-analysis）是一种将多个已发表的元分析结果在更高层次上进行统计综合的方法——"改变层次，组合元分析，尝试开发一个元-元分析"。
+summary: 将多个已发表元分析在更高层次统计综合的方法，包含 Wecker 6 项方法论要求的数学推导、等价性证明、全语言案例和稳定性/变异性双重困境
 type: method
 method_type: quantitative
 tags:

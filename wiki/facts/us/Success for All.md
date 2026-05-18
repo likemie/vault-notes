@@ -1,14 +1,35 @@
 ---
 title: Success for All
+aliases: []
+summary: Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断
 type: fact
-subtype: educational-program-case
-tags: [Success-for-All, educational-program, literacy, comprehensive-school-reform, clearinghouse-rating-case, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[What Works Clearinghouse (WWC)]]", "[[Best Evidence Encyclopedia (BEE)]]", "[[Blueprints for Healthy Youth Development]]", "[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]", "[[Social Programs That Work (SPTW)]]"]
-sources: ["sources/Wadhwa_2024_RER.md"]
+subtype: event
+region: us
+tags:
+- Success-for-All
+- educational-program
+- literacy
+- comprehensive-school-reform
+- clearinghouse-rating-case
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[What Works Clearinghouse (WWC)]]'
+- '[[Best Evidence Encyclopedia (BEE)]]'
+- '[[Blueprints for Healthy Youth Development]]'
+- '[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]'
+- '[[Social Programs That Work (SPTW)]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

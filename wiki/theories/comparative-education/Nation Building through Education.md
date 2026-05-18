@@ -1,19 +1,32 @@
 ---
 title: Nation Building through Education
 aliases: []
+summary: 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析
 type: theory
-tags: [nation-building, national-identity, citizenship-education, frontier-regions, China, paradigm/critical, region/china]
-related_concepts: ["[[National Education in Hong Kong]]", "[[Membership-Creating Function of Education]]"]
+tags:
+- nation-building
+- national-identity
+- citizenship-education
+- frontier-regions
+- China
+- paradigm/critical
+- region/china
+related_concepts:
+- '[[National Education in Hong Kong]]'
+- '[[Membership-Creating Function of Education]]'
 related_theories: []
-related_persons: ["[[Paul Morris]]"]
 related_methods: []
+related_persons:
+- '[[Paul Morris]]'
 related_facts: []
 related_arguments: []
-sources: ["sources/Yan_2025_JCS.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Yan_2025_JCS]]'
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

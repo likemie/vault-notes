@@ -1,17 +1,35 @@
 ---
 title: China College Graduate Employment Reform 1986-1997
-aliases: [中国高校毕业生就业制度改革 1986-1997, 双向选择制度, 并轨招生]
+aliases:
+- 中国高校毕业生就业制度改革 1986-1997
+- 双向选择制度
+- 并轨招生
+summary: 从统包统分到双向选择的高校毕业生就业市场化改革，1986 提出→1989 批准→1994 并轨试点→1997 全国实施
 type: fact
 subtype: policy
-tags: [college-graduate-employment, market-reform, region/china, level/higher-ed]
-related_concepts: ["[[Credential Inflation]]", "[[Economy of Experience]]"]
-related_theories: ["[[Dual Elite Career Paths]]"]
-related_facts: ["[[Recommendation-Based Graduate Admission System]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+region: china
+issuing_organization: ''
+tags:
+- college-graduate-employment
+- market-reform
+- region/china
+- level/higher-ed
+related_concepts:
+- '[[Credential Inflation]]'
+- '[[Economy of Experience]]'
+related_theories:
+- '[[Dual Elite Career Paths]]'
+related_methods: []
+related_persons: []
+related_facts:
+- '[[Recommendation-Based Graduate Admission System]]'
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # China College Graduate Employment Reform 1986-1997

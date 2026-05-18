@@ -1,16 +1,32 @@
 ---
 title: Educational Management Organisation (EMO)
+aliases: []
+summary: 参与公立学校教育政策制定与服务交付的私营部门实体，营利/非营利两种形式，Cognition Education 和 CORE Education 为新西兰最大 EMO
 type: concept
-tags: [EMO, subject/curriculum, region/new-zealand, region/global]
-related_concepts: ["[[Network Governance]]", "[[Privatisation of State Schooling]]", "[[Venture Philanthropy]]", "[[Endogenous and Exogenous Privatisation]]", "[[Policy Entrepreneur]]"]
+tags:
+- EMO
+- subject/curriculum
+- region/new-zealand
+- region/global
+related_concepts:
+- '[[Network Governance]]'
+- '[[Privatisation of State Schooling]]'
+- '[[Venture Philanthropy]]'
+- '[[Endogenous and Exogenous Privatisation]]'
+- '[[Policy Entrepreneur]]'
 related_theories: []
-related_persons: ["[[John Hattie]]"]
-related_facts: ["[[Visible Learning Branding and Global Influences]]"]
-sources: ["sources/ONeill_2016_Report.md"]
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts:
+- '[[Visible Learning Branding and Global Influences]]'
+related_arguments: []
+sources:
+- '[[ONeill_2016_Report]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-05
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

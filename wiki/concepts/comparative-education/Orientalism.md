@@ -1,19 +1,42 @@
 ---
 title: Orientalism
-aliases: ["东方主义", "orientalism"]
+aliases:
+- 东方主义
+- orientalism
+summary: Said (1983) 的概念：殖民者通过知识生产建构对被殖民者的"东方化"想象，Rizvi (2022) 将其应用于分析当代 HE 国际化中西方教育优越性的隐性再生产
 type: concept
-tags: [Orientalism, postcolonial-theory, knowledge-production, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Internationalization of Higher Education]]", "[[Knowledge Capitalism]]", "[[Colonial Modernity]]", "[[Stereotype Threat]]"]
-related_theories: ["[[Postcolonial Theory]]", "[[Decolonial Geopolitics of Knowledge]]", "[[Critical Geopolitics]]"]
-related_persons: ["[[Edward Said]]", "[[Frantz Fanon]]", "[[Arturo Escobar]]", "[[Fazal Rizvi]]"]
+tags:
+- Orientalism
+- postcolonial-theory
+- knowledge-production
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Internationalization of Higher Education]]'
+- '[[Knowledge Capitalism]]'
+- '[[Colonial Modernity]]'
+- '[[Stereotype Threat]]'
+related_theories:
+- '[[Postcolonial Theory]]'
+- '[[Decolonial Geopolitics of Knowledge]]'
+- '[[Critical Geopolitics]]'
 related_methods: []
+related_persons:
+- '[[Edward Said]]'
+- '[[Frantz Fanon]]'
+- '[[Arturo Escobar]]'
+- '[[Fazal Rizvi]]'
 related_facts: []
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]", "[[Argument_Ryan_2010_ChineseLearner]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
+related_arguments:
+- '[[Argument_Rizvi_2022_Springer]]'
+- '[[Argument_Ryan_2010_ChineseLearner]]'
+sources:
+- '[[Ch6_Rizvi_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 ## 定义

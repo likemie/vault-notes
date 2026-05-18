@@ -1,16 +1,35 @@
 ---
 title: Critical Realism
+aliases: []
+summary: Bhaskar 的科学哲学：区分实在/实际/经验三层本体论和开放/封闭系统，Wrigley & McCusker (2019) 用作批判 EBT 方法论的哲学框架
 type: theory
-tags: [critical-realism, Bhaskar, philosophy-of-science, ontology, epistemology, paradigm/constructivist]
-related_concepts: ["[[Evidence-Based Education]]", "[[Effect Size]]"]
+tags:
+- critical-realism
+- Bhaskar
+- philosophy-of-science
+- ontology
+- epistemology
+- paradigm/constructivist
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Effect Size]]'
 related_theories: []
-related_persons: ["[[Roy Bhaskar]]", "[[Ray Pawson]]", "[[Terry Wrigley]]", "[[Andrew Sayer]]"]
-related_methods: ["[[Randomised Controlled Trials]]", "[[Meta-analysis]]"]
-sources: ["sources/Wrigley_2019_ERE.md"]
+related_methods:
+- '[[Randomised Controlled Trials]]'
+- '[[Meta-analysis]]'
+related_persons:
+- '[[Roy Bhaskar]]'
+- '[[Ray Pawson]]'
+- '[[Terry Wrigley]]'
+- '[[Andrew Sayer]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wrigley_2019_ERE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

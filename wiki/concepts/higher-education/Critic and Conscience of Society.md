@@ -1,16 +1,31 @@
 ---
 title: Critic and Conscience of Society
+aliases: []
+summary: Gerald Grace 1988 年提出、后写入新西兰大学立法的概念：大学在民主社会中有独立的权力制衡角色，须基于系统公正分析"向权力说真话"，区别于仅关注学科内部的正常学术批评
 type: concept
-tags: [critic-and-conscience-of-society, region/new-zealand, level/higher-ed]
-related_concepts: ["[[Visible Learning]]", "[[Cult of the Guru]]"]
-related_persons: ["[[Gerald Grace]]", "[[John Hattie]]"]
-related_arguments: ["[[Argument_Hattie_2017_SLM]]"]
-related_facts: ["[[Learning for Life Report 1989]]"]
-sources: ["sources/Grace_2010_NZJES.md", "sources/Hattie_2017_SLM.md"]
+tags:
+- critic-and-conscience-of-society
+- region/new-zealand
+- level/higher-ed
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Cult of the Guru]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Gerald Grace]]'
+- '[[John Hattie]]'
+related_facts:
+- '[[Learning for Life Report 1989]]'
+related_arguments:
+- '[[Argument_Hattie_2017_SLM]]'
+sources:
+- '[[Grace_2010_NZJES]]'
+- '[[Hattie_2017_SLM]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

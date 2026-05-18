@@ -1,14 +1,31 @@
 ---
 title: Miyake's Unity and Diversity Framework of Executive Function
+aliases: []
+summary: Miyake (2000) 的 EF 统一性与多样性框架：抑制、转换、更新与监控三成分既相关又各具独特功能和发展轨迹
 type: theory
-tags: [miyake, executive-function, cognitive-science, learning-science]
-related_concepts: ["[[executive-function]]", "[[cognitive-inhibition]]", "[[cognitive-shifting]]", "[[updating-and-monitoring]]", "[[working-memory]]"]
-related_persons: ["[[Akira Miyake]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+tags:
+- miyake
+- executive-function
+- cognitive-science
+- learning-science
+related_concepts:
+- '[[executive-function]]'
+- '[[cognitive-inhibition]]'
+- '[[cognitive-shifting]]'
+- '[[updating-and-monitoring]]'
+- '[[working-memory]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Akira Miyake]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

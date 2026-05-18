@@ -1,19 +1,35 @@
 ---
 title: Hegemony
-aliases: [霸权理论, 葛兰西霸权理论, Gramsci hegemony, 文化霸权, cultural hegemony]
+aliases:
+- 霸权理论
+- 葛兰西霸权理论
+- Gramsci hegemony
+- 文化霸权
+- cultural hegemony
+summary: Antonio Gramsci (1971) 的权力理论：区分强制与霸权（通过法律、教育、媒体、科学、大学等文化制度赢得被统治者积极同意），文化部门的半自主性和知识分子的双重角色是高等教育地缘政治分析的核心工具
 type: theory
-tags: [theory/political-economy, theme/power, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Semi-Autonomy of Higher Education]]", "[[Knowledge Capitalism]]"]
-related_theories: ["[[World-Systems Theory]]", "[[Critical Geopolitics]]"]
-related_persons: []
+tags:
+- theory/political-economy
+- theme/power
+- region/global
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Semi-Autonomy of Higher Education]]'
+- '[[Knowledge Capitalism]]'
+related_theories:
+- '[[World-Systems Theory]]'
+- '[[Critical Geopolitics]]'
 related_methods: []
+related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Marginson_2025_ROE]]"]
-sources: ["[[Marginson_2025_ROE]]"]
+related_arguments:
+- '[[Argument_Marginson_2025_ROE]]'
+sources:
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-05-18'
 ---
 
 # Hegemony

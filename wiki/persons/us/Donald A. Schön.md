@@ -3,7 +3,7 @@ title: Donald A. Schön
 aliases:
 - Donald A. Schon
 - Schön
-summary: Donald A. Schön（1930–1997）是美国哲学家和组织学习理论家，MIT 城市研究与规划教授，以对专业实践和反思性实践（reflective practice）的开创性研究著称。
+summary: MIT 教授，反思性实践（reflection-in/on-practice）和技术理性批判的提出者，Qvortrup 纳入专业判断框架
 type: person
 nationality: us
 tags:

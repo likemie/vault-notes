@@ -1,19 +1,37 @@
 ---
 title: OECD AHELO Project
-aliases: ["AHELO", "高等教育学习成果评估", "Assessment of Higher Education Learning Outcomes"]
+aliases:
+- AHELO
+- 高等教育学习成果评估
+- Assessment of Higher Education Learning Outcomes
+summary: OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败
 type: fact
 subtype: event
-tags: [oecd, higher-education, assessment, learning-outcomes, region/global, level/higher-ed]
-related_concepts: ["[[Global Universities Rankings]]", "[[Performance Indicators]]"]
+region: global
+tags:
+- oecd
+- higher-education
+- assessment
+- learning-outcomes
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Global Universities Rankings]]'
+- '[[Performance Indicators]]'
 related_theories: []
-related_persons: ["[[Philip Altbach]]"]
-related_facts: ["[[Academic Ranking of World Universities (ARWU)]]"]
-related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
+related_methods: []
+related_persons:
+- '[[Philip Altbach]]'
+related_facts:
+- '[[Academic Ranking of World Universities (ARWU)]]'
+related_arguments:
+- '[[Argument_Boyadjieva_2022_Springer]]'
+sources:
+- '[[Ch8_Boyadjieva_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # OECD AHELO Project

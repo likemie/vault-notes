@@ -1,14 +1,35 @@
 ---
 title: School Norm Adaptation
+aliases: []
+summary: 学生对学校规范与课堂秩序期待的行为性适配；在挪威样本中是解释成绩与性别差异的核心变量之一
 type: concept
-tags: [school-norms, student-behaviour, gender, subject/psychology, level/k12, region/norway]
-related_concepts: ["[[Gender Differences in Academic Achievement]]", "[[Professional Judgment]]", "[[Learning-Impeding Behavior]]", "[[Motivation and Work Effort]]", "[[Classroom Learning Culture]]", "[[Self-control]]", "[[Assertiveness]]"]
-related_methods: ["[[Observational and Correlational Research]]"]
-sources: ["sources/Lekhal_2015_Paideia.md"]
+tags:
+- school-norms
+- student-behaviour
+- gender
+- subject/psychology
+- level/k12
+- region/norway
+related_concepts:
+- '[[Gender Differences in Academic Achievement]]'
+- '[[Professional Judgment]]'
+- '[[Learning-Impeding Behavior]]'
+- '[[Motivation and Work Effort]]'
+- '[[Classroom Learning Culture]]'
+- '[[Self-control]]'
+- '[[Assertiveness]]'
+related_theories: []
+related_methods:
+- '[[Observational and Correlational Research]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Lekhal_2015_Paideia]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

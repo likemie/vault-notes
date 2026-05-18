@@ -1,15 +1,37 @@
 ---
 title: Statistical Significance
+aliases: []
+summary: 判断观察到的差异是否足以拒绝零假设；它与效应量只有在给定样本量时才相连
 type: concept
-tags: [statistical-significance, p-value, hypothesis-testing, effect-size, research-methodology]
-related_concepts: ["[[Effect Size]]", "[[Confidence Interval]]", "[[Publication Bias]]", "[[Educational Evidence Clearinghouses]]"]
-related_methods: ["[[Meta-analysis]]", "[[Meta-meta-analysis]]", "[[Randomised Controlled Trials]]"]
-related_persons: ["[[Jacob Cohen]]", "[[John Hattie]]"]
-sources: ["sources/Allerup_2015_Paideia.md", "sources/Terhart_2011_JCS.md", "sources/Wadhwa_2024_RER.md"]
+tags:
+- statistical-significance
+- p-value
+- hypothesis-testing
+- effect-size
+- research-methodology
+related_concepts:
+- '[[Effect Size]]'
+- '[[Confidence Interval]]'
+- '[[Publication Bias]]'
+- '[[Educational Evidence Clearinghouses]]'
+related_theories: []
+related_methods:
+- '[[Meta-analysis]]'
+- '[[Meta-meta-analysis]]'
+- '[[Randomised Controlled Trials]]'
+related_persons:
+- '[[Jacob Cohen]]'
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Allerup_2015_Paideia]]'
+- '[[Terhart_2011_JCS]]'
+- '[[Wadhwa_2024_RER]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

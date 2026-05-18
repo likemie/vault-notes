@@ -1,15 +1,31 @@
 ---
 title: Researcher Degrees of Freedom
+aliases: []
+summary: Simmons et al. (2011) 提出的研究者未披露分析决策（样本、变量、案例排除）的累积效应，是开发者效应的可能解释机制之一
 type: concept
-tags: [researcher-degrees-of-freedom, research-methodology, questionable-research-practices, meta-analysis, evidence-based-education]
-related_concepts: ["[[Developer Effect]]", "[[Publication Bias]]", "[[Preregistration]]", "[[Effect Size]]", "[[Evidence-Based Education]]"]
+tags:
+- researcher-degrees-of-freedom
+- research-methodology
+- questionable-research-practices
+- meta-analysis
+- evidence-based-education
+related_concepts:
+- '[[Developer Effect]]'
+- '[[Publication Bias]]'
+- '[[Preregistration]]'
+- '[[Effect Size]]'
+- '[[Evidence-Based Education]]'
 related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/Wolf_2020_JREE.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wolf_2020_JREE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

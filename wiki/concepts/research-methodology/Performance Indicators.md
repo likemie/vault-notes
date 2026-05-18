@@ -1,19 +1,48 @@
 ---
 title: Performance Indicators
-aliases: ["绩效指标", "education indicators", "教育指标", "policy instruments"]
+aliases:
+- 绩效指标
+- education indicators
+- 教育指标
+- policy instruments
+summary: 经目的性选择和加工的派生统计量，合并多数据源；Le Galès 技术—权力双重性框架，Rambla 四维运作机制分析；合并原 Education Indicators
 type: concept
-tags: ["policy-instruments", "governance", "measurement", "region/global", "Comparative Education"]
-related_concepts: ["[[Theories of Policy Change]]", "[[Selectivity]]", "[[Regulatory Regionalism]]", "[[Education at a Glance (EAG)]]", "[[International Indicators of Education Systems (INES)]]", "[[Sociology of Measurement]]", "[[Performativity of Measurement]]", "[[Network Governance]]"]
-related_theories: ["[[Science and Technology Studies (STS)]]"]
+tags:
+- policy-instruments
+- governance
+- measurement
+- region/global
+- Comparative Education
+related_concepts:
+- '[[Theories of Policy Change]]'
+- '[[Selectivity]]'
+- '[[Regulatory Regionalism]]'
+- '[[Education at a Glance (EAG)]]'
+- '[[International Indicators of Education Systems (INES)]]'
+- '[[Sociology of Measurement]]'
+- '[[Performativity of Measurement]]'
+- '[[Network Governance]]'
+related_theories:
+- '[[Science and Technology Studies (STS)]]'
 related_methods: []
-related_persons: ["[[Norberto Bottani]]"]
-related_facts: ["[[Innovation Union]]", "[[EU Skills Agenda]]", "[[Europe 2020 Strategy]]", "[[Youth Guarantee Scheme]]", "[[INES Lugano General Assembly 1991]]"]
-related_arguments: ["[[Argument_Rambla_2022_Springer]]", "[[Argument_Gorur_2014_Discourse]]"]
-sources: ["sources/Gorur_2014_Discourse.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
+related_persons:
+- '[[Norberto Bottani]]'
+related_facts:
+- '[[Innovation Union]]'
+- '[[EU Skills Agenda]]'
+- '[[Europe 2020 Strategy]]'
+- '[[Youth Guarantee Scheme]]'
+- '[[INES Lugano General Assembly 1991]]'
+related_arguments:
+- '[[Argument_Rambla_2022_Springer]]'
+- '[[Argument_Gorur_2014_Discourse]]'
+sources:
+- '[[Gorur_2014_Discourse]]'
+- '[[Ch10_Rambla_2022]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-14
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 # Performance Indicators

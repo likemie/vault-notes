@@ -1,6 +1,6 @@
 ---
 title: Argument_Boyadjieva_2022_Springer
-summary: 全球大学排名把大学压缩为可比较的组织绩效，由此与大学作为制度所承担的多重社会使命发生结构性冲突。
+summary: 'Ch8 Pepka Boyadjieva: 以可行能力路径和制度理论构建 HE 多维使命模型（2×3 矩阵），批判全球排名推行一刀切大学模型、忽视使命多样性'
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -36,7 +36,6 @@ status: draft
 created: '2026-05-11'
 updated: '2026-05-18'
 ---
-
 
 # Argument_Boyadjieva_2022_Springer
 

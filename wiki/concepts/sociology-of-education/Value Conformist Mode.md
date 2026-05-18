@@ -1,41 +1,45 @@
 ---
 title: Value Conformist Mode
 aliases:
-  - 价值归顺者
-  - value conformist
-  - 价值归顺
+- 价值归顺者
+- value conformist
+- 价值归顺
+summary: 郑雅君 (2023) 的类型：直觉依赖模式+强价值信念=价值归顺者，内化学校理想信念获得体制赞助性流动
 type: concept
 tags:
-  - value-conformist-mode
-  - higher-education
-  - social-stratification
-  - region/china
-  - level/higher-ed
+- value-conformist-mode
+- higher-education
+- social-stratification
+- region/china
+- level/higher-ed
 related_concepts:
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Self-Driven Mode]]"
-  - "[[Opportunist Mode]]"
-  - "[[Lost Mode]]"
-  - "[[Graduation Pathway Typology (Zheng)]]"
-  - "[[Work Meaning Schemas (Zheng)]]"
-  - "[[Cultural Barrier in Higher Education]]"
-  - "[[Dual Elite Career Paths]]"
-  - "[[Liberal Studies (Hong Kong)]]"
-  - "[[Symbolic Boundary]]"
+- '[[Intuition-Dependent Mode]]'
+- '[[Self-Driven Mode]]'
+- '[[Opportunist Mode]]'
+- '[[Lost Mode]]'
+- '[[Graduation Pathway Typology (Zheng)]]'
+- '[[Work Meaning Schemas (Zheng)]]'
+- '[[Cultural Barrier in Higher Education]]'
+- '[[Dual Elite Career Paths]]'
+- '[[Liberal Studies (Hong Kong)]]'
+- '[[Symbolic Boundary]]'
 related_theories:
-  - "[[Culture as Toolkit]]"
-  - "[[Pierre Bourdieu]]"
-  - "[[Dual Elite Career Paths]]"
+- '[[Culture as Toolkit]]'
+- '[[Pierre Bourdieu]]'
+- '[[Dual Elite Career Paths]]'
+related_methods: []
 related_persons:
-  - "[[Yajun Zheng]]"
-  - "[[Clippings/Pierre Bourdieu]]"
-  - "[[Paul Willis]]"
+- '[[Yajun Zheng]]'
+- '[[Clippings/Pierre Bourdieu]]'
+- '[[Paul Willis]]'
+related_facts: []
+related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-09
-updated: 2026-05-09
+created: '2026-05-09'
+updated: '2026-05-18'
 ---
 
 ## 定义

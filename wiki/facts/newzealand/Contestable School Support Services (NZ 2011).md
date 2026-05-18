@@ -1,14 +1,29 @@
 ---
 title: Contestable School Support Services (NZ 2011)
+aliases: []
+summary: 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M
 type: fact
 subtype: policy
-tags: [school-reform, region/new-zealand, level/k12]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance]]"]
-sources: ["sources/ONeill_2016_Report.md"]
+region: newzealand
+issuing_organization: ''
+tags:
+- school-reform
+- region/new-zealand
+- level/k12
+related_concepts:
+- '[[Educational Management Organisation (EMO)]]'
+- '[[Network Governance]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[ONeill_2016_Report]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 背景

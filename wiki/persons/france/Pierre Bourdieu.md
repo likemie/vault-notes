@@ -6,7 +6,7 @@ aliases:
 - 皮埃尔·布迪厄
 - Pierre Bourdieu
 - Bourdieu
-summary: Pierre Bourdieu（1930–2002），法国社会学家、人类学家和哲学家，20 世纪下半叶最具影响力的社会理论家之一。
+summary: 法国社会学家，场域-习性-资本-doxa 社会理论框架创始人，对教育作为社会再生产机制的分析深刻影响教育领导力批判研究
 type: person
 nationality: france
 tags:

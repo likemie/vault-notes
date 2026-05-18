@@ -1,14 +1,31 @@
 ---
 title: Dual Elite Career Paths
+aliases: []
+summary: Andrew Walder 的后社会主义精英流动理论：政治管理精英（党员身份）与专业技术精英（大学学历）为两条分立路径，郑雅君 (2023) 用于分析中国名校毕业生出路选择
 type: theory
-tags: [dual-elite-career-paths, social-stratification, post-socialism, region/china, level/higher-ed]
-related_concepts: ["[[Credential Inflation]]", "[[Champ]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Value Conformist Mode]]"]
-related_persons: ["[[Andrew Walder]]"]
-sources: ["books/郑_2023_上海三联书店/郑_2023_上海三联书店.md"]
+tags:
+- dual-elite-career-paths
+- social-stratification
+- post-socialism
+- region/china
+- level/higher-ed
+related_concepts:
+- '[[Credential Inflation]]'
+- '[[Champ]]'
+- '[[Graduation Pathway Typology (Zheng)]]'
+- '[[Value Conformist Mode]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Andrew Walder]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-09
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

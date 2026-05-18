@@ -2,7 +2,7 @@
 title: Robert Slavin
 aliases:
 - Slavin
-summary: Robert E. Slavin 是美国约翰霍普金斯大学（Johns Hopkins University）教育研究与改革中心（Center for Research and Reform in Education）主任，教育心理学家，**证据本位教育改革运动最核心的倡导者和奠基人之一**。
+summary: 约翰霍普金斯大学教育心理学家，证据本位教育改革运动奠基人，Success for All 和 Evidence for ESSA 创始人
 type: person
 nationality: us
 tags:

@@ -1,14 +1,29 @@
 ---
 title: Self-Authorship
+aliases: []
+summary: Baxter Magolda 的概念：个体根据内在声音和核心价值观主导认知发展、自我认同和人际关系，郑雅君 (2023) 作为目标掌控模式的理论灵感之一
 type: concept
-tags: [self-authorship, higher-education, student-development, goal-orientation]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]"]
-related_persons: ["[[Yajun Zheng]]", "[[Marcia Baxter Magolda]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- self-authorship
+- higher-education
+- student-development
+- goal-orientation
+related_concepts:
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Yajun Zheng]]'
+- '[[Marcia Baxter Magolda]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

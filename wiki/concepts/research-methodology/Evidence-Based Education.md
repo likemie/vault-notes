@@ -1,16 +1,132 @@
 ---
 title: Evidence-Based Education
-aliases: ["证据本位教育", "循证教育", "evidence-based education", "EBE", "evidence-based policy in education", "证据为本教育"]
+aliases:
+- 证据本位教育
+- 循证教育
+- evidence-based education
+- EBE
+- evidence-based policy in education
+- 证据为本教育
+summary: 主张教育实践应以实验研究证据为基础的运动，Biesta 以三重缺陷框架进行系统批判，Cowen 以 Tullock 官僚制理论解释其制度韧性，Slavin (2002/2019/2021) 从政策机制角度倡导改革并记录中国制度化发展，Nelson & Campbell (2017) 以 EIP 和 KMb 框架提供替代取向，Pampaka et al. (2016) 诊断大规模有效干预缺失与"萎靡感"并识别 agency 为核心哲学分歧，Wrigley & McCusker (2019) 从科学哲学角度批判其"简单科学观"，Wiliam (2019) 以 Goldman 区分理论论证教育知识局部且临时、EBE 永远不可能成功，Peterson (2016) 提出以机制实验和改进科学整合的"什么有效 2.0"改革方案
 type: concept
-tags: [evidence-based-education, evidence-based-practice, research-practice-gap, local-knowledge, implementation, paradigm/positivist, region/global]
-related_concepts: ["[[Value-Based Education]]", "[[Complexity Reduction]]", "[[Visible Learning]]", "[[Evidence-Based Reform]]", "[[Educational Evidence Clearinghouses]]", "[[The New Zealand Curriculum]]", "[[Australian Curriculum]]", "[[Scientism]]", "[[Cargo Cult Science]]", "[[Evidence-Informed Practice (EIP)]]", "[[Local Knowledge in Evidence-Based Policy]]", "[[Programme Fidelity vs Adaptation]]", "[[Effect Size]]", "[[Validity as Inferences]]", "[[Mechanism Experiments]]", "[[Improvement Science]]", "[[Black Box RCTs]]", "[[Cluster Randomized Trials]]", "[[Intent-to-Treat Analysis]]", "[[Single-Case Design (SCD)]]", "[[Gating Procedure]]", "[[Professional Judgment]]", "[[Interpretation Community]]", "[[Structural Coupling]]", "[[Side Effects in Education]]", "[[Evidence-Based Medicine]]", "[[Recommendations for Practice]]", "[[Intervention Research]]", "[[Non-intervention Research]]", "[[Observational and Correlational Research]]", "[[Material Fallacies]]", "[[Dynamic Knowledge and Learning Model]]", "[[Moral Sidestep]]", "[[Justified Warrants]]", "[[Selective Education]]", "[[Epistemic Governance]]", "[[Scientization of Politics]]", "[[Epistemic Drift]]"]
-related_theories: ["[[Transactional Epistemology]]", "[[Tullock's Bureaucracy Theory]]", "[[Cartwright's Three-Stage Knowledge Framework]]", "[[Critical Realism]]", "[[Goldman's Discrimination Theory of Knowledge]]", "[[Campbellian Validity Framework]]"]
-related_persons: ["[[Gert Biesta]]", "[[Nick Cowen]]", "[[Robert Slavin]]", "[[Terry Wrigley]]", "[[Nancy Cartwright]]", "[[Gordon Tullock]]", "[[John Dewey]]", "[[Julie Nelson]]", "[[Carol Campbell]]", "[[Sean McCusker]]", "[[Roy Bhaskar]]", "[[Ray Pawson]]", "[[Gary Thomas]]", "[[Adrian Simpson]]", "[[Dylan Wiliam]]", "[[Jorunn Møller]]", "[[Amelia Peterson]]", "[[Maria Pampaka]]", "[[Julian Williams]]", "[[John Hattie]]", "[[Lucinda McKnight]]", "[[Lars Qvortrup]]", "[[Donald A. Schön]]", "[[Herbert A. Simon]]", "[[Yong Zhao]]", "[[Eddie Blass]]"]
-sources: ["sources/Sarbiewska_2019_JSR.md", "sources/Slavin_2002_ER.md", "sources/Biesta_2010_SPE.md", "sources/Berk_2011_ER.md", "sources/Terhart_2011_JCS.md", "sources/Cowen_2015_CHESS.md", "sources/Hitchcock_2015_JBE.md", "sources/Peterson_2016_IJRME.md", "sources/Pampaka_2016_IJRME.md", "sources/Møller_2017_EERJ.md", "sources/Nelson_2017_ER.md", "sources/Zhao_2017_JEC.md", "sources/Wrigley_2018_BERJ.md", "sources/Cowen_2019_ERE.md", "sources/Qvortrup_2019_NordSTEP.md", "sources/Simpson_2019_ERE.md", "sources/Slavin_2019_EP.md", "sources/Wiliam_2019_ERE.md", "sources/Wrigley_2019_ERE.md", "sources/Blass_2020_JESP.md", "sources/McKnight_2020_Discourse.md", "sources/Nielsen_2021_IRTP.md", "sources/Slavin_2021_ROE.md", "sources/Johnson_2023_CE.md", "sources/Brady_2023_EPR.md", "sources/Wadhwa_2024_RER.md", "sources/ONeill_2012_NZJES.md", "sources/Bainbridge_2022_ROE.md", "[[Ch9_Zapp_2022]]"]
+tags:
+- evidence-based-education
+- evidence-based-practice
+- research-practice-gap
+- local-knowledge
+- implementation
+- paradigm/positivist
+- region/global
+related_concepts:
+- '[[Value-Based Education]]'
+- '[[Complexity Reduction]]'
+- '[[Visible Learning]]'
+- '[[Evidence-Based Reform]]'
+- '[[Educational Evidence Clearinghouses]]'
+- '[[The New Zealand Curriculum]]'
+- '[[Australian Curriculum]]'
+- '[[Scientism]]'
+- '[[Cargo Cult Science]]'
+- '[[Evidence-Informed Practice (EIP)]]'
+- '[[Local Knowledge in Evidence-Based Policy]]'
+- '[[Programme Fidelity vs Adaptation]]'
+- '[[Effect Size]]'
+- '[[Validity as Inferences]]'
+- '[[Mechanism Experiments]]'
+- '[[Improvement Science]]'
+- '[[Black Box RCTs]]'
+- '[[Cluster Randomized Trials]]'
+- '[[Intent-to-Treat Analysis]]'
+- '[[Single-Case Design (SCD)]]'
+- '[[Gating Procedure]]'
+- '[[Professional Judgment]]'
+- '[[Interpretation Community]]'
+- '[[Structural Coupling]]'
+- '[[Side Effects in Education]]'
+- '[[Evidence-Based Medicine]]'
+- '[[Recommendations for Practice]]'
+- '[[Intervention Research]]'
+- '[[Non-intervention Research]]'
+- '[[Observational and Correlational Research]]'
+- '[[Material Fallacies]]'
+- '[[Dynamic Knowledge and Learning Model]]'
+- '[[Moral Sidestep]]'
+- '[[Justified Warrants]]'
+- '[[Selective Education]]'
+- '[[Epistemic Governance]]'
+- '[[Scientization of Politics]]'
+- '[[Epistemic Drift]]'
+related_theories:
+- '[[Transactional Epistemology]]'
+- '[[Tullock''s Bureaucracy Theory]]'
+- '[[Cartwright''s Three-Stage Knowledge Framework]]'
+- '[[Critical Realism]]'
+- '[[Goldman''s Discrimination Theory of Knowledge]]'
+- '[[Campbellian Validity Framework]]'
+related_methods: []
+related_persons:
+- '[[Gert Biesta]]'
+- '[[Nick Cowen]]'
+- '[[Robert Slavin]]'
+- '[[Terry Wrigley]]'
+- '[[Nancy Cartwright]]'
+- '[[Gordon Tullock]]'
+- '[[John Dewey]]'
+- '[[Julie Nelson]]'
+- '[[Carol Campbell]]'
+- '[[Sean McCusker]]'
+- '[[Roy Bhaskar]]'
+- '[[Ray Pawson]]'
+- '[[Gary Thomas]]'
+- '[[Adrian Simpson]]'
+- '[[Dylan Wiliam]]'
+- '[[Jorunn Møller]]'
+- '[[Amelia Peterson]]'
+- '[[Maria Pampaka]]'
+- '[[Julian Williams]]'
+- '[[John Hattie]]'
+- '[[Lucinda McKnight]]'
+- '[[Lars Qvortrup]]'
+- '[[Donald A. Schön]]'
+- '[[Herbert A. Simon]]'
+- '[[Yong Zhao]]'
+- '[[Eddie Blass]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Sarbiewska_2019_JSR]]'
+- '[[Slavin_2002_ER]]'
+- '[[Biesta_2010_SPE]]'
+- '[[Berk_2011_ER]]'
+- '[[Terhart_2011_JCS]]'
+- '[[Cowen_2015_CHESS]]'
+- '[[Hitchcock_2015_JBE]]'
+- '[[Peterson_2016_IJRME]]'
+- '[[Pampaka_2016_IJRME]]'
+- '[[Møller_2017_EERJ]]'
+- '[[Nelson_2017_ER]]'
+- '[[Zhao_2017_JEC]]'
+- '[[Wrigley_2018_BERJ]]'
+- '[[Cowen_2019_ERE]]'
+- '[[Qvortrup_2019_NordSTEP]]'
+- '[[Simpson_2019_ERE]]'
+- '[[Slavin_2019_EP]]'
+- '[[Wiliam_2019_ERE]]'
+- '[[Wrigley_2019_ERE]]'
+- '[[Blass_2020_JESP]]'
+- '[[McKnight_2020_Discourse]]'
+- '[[Nielsen_2021_IRTP]]'
+- '[[Slavin_2021_ROE]]'
+- '[[Johnson_2023_CE]]'
+- '[[Brady_2023_EPR]]'
+- '[[Wadhwa_2024_RER]]'
+- '[[ONeill_2012_NZJES]]'
+- '[[Bainbridge_2022_ROE]]'
+- '[[Ch9_Zapp_2022]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-12
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

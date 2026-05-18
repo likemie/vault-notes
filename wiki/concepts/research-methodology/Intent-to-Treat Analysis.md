@@ -1,14 +1,29 @@
 ---
 title: Intent-to-Treat Analysis
+aliases: []
+summary: RCT 估计方法，按原始随机分配分析无论实际接受与否，反映干预可获得性而非实际接受效果，政策意义重大（Pampaka et al., 2016）
 type: concept
-tags: [Intent-to-Treat Analysis, subject/research-methodology]
-related_concepts: ["[[Randomised Controlled Trials]]", "[[Cluster Randomized Trials]]", "[[Effect Size]]", "[[Educational Evidence Clearinghouses]]"]
-related_methods: ["[[Randomised Controlled Trials]]"]
-sources: ["sources/Pampaka_2016_IJRME.md", "sources/Wadhwa_2024_RER.md"]
+tags:
+- Intent-to-Treat Analysis
+- subject/research-methodology
+related_concepts:
+- '[[Randomised Controlled Trials]]'
+- '[[Cluster Randomized Trials]]'
+- '[[Effect Size]]'
+- '[[Educational Evidence Clearinghouses]]'
+related_theories: []
+related_methods:
+- '[[Randomised Controlled Trials]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Pampaka_2016_IJRME]]'
+- '[[Wadhwa_2024_RER]]'
 confidence: low
 status: draft
-created: 2026-05-02
-updated: 2026-05-05
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

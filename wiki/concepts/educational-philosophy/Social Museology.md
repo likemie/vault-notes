@@ -1,19 +1,38 @@
 ---
 title: Social Museology
-aliases: ["社会博物馆学", "sociomuseology", "sociomuseologia", "new museology"]
+aliases:
+- 社会博物馆学
+- sociomuseology
+- sociomuseologia
+- new museology
+summary: 社会博物馆学（sociomuseologia）：将博物馆定位为社区发展工具，居民自己选择展品、讲述故事、保存记忆，巴西社区博物馆和生态博物馆为其主要实践形式
 type: concept
-tags: ["region/brazil", "region/global", "theme/museology", "theme/community"]
-related_concepts: ["[[Life Power]]", "[[Ganz-Methode]]", "[[Geopolitics of Knowledge]]", "[[Ecomuseology]]"]
-related_theories: ["[[Creative Tension of Sense]]", "[[Decolonial Geopolitics of Knowledge]]"]
+tags:
+- region/brazil
+- region/global
+- theme/museology
+- theme/community
+related_concepts:
+- '[[Life Power]]'
+- '[[Ganz-Methode]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Ecomuseology]]'
+related_theories:
+- '[[Creative Tension of Sense]]'
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
-related_persons: ["[[Dell Delambre]]", "[[Walter Mignolo]]"]
+related_persons:
+- '[[Dell Delambre]]'
+- '[[Walter Mignolo]]'
 related_facts: []
-related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
-sources: ["[[Ch7_Delambre_2022]]"]
+related_arguments:
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch7_Delambre_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Social Museology

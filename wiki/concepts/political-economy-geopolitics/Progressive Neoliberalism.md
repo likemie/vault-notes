@@ -1,19 +1,31 @@
 ---
 title: Progressive Neoliberalism
 aliases: []
+summary: Nancy Fraser (2019) 概念：新自由主义经济政策与进步社会议程的话语结合，Moisio (2022) 定位为过去三十年知识经济化的主要政治推力（"硅谷世界观"），正在消退
 type: concept
-tags: [progressive-neoliberalism, nancy-fraser, knowledge-based-economization, silicon-valley-worldview, region/global]
-related_concepts: ["[[Knowledge-Based Economization]]", "[[Knowledge-Based Economy]]", "[[Spatial Sortings]]", "[[Hub and Flow Imaginaries]]"]
-related_persons: ["[[Sami Moisio]]"]
+tags:
+- progressive-neoliberalism
+- nancy-fraser
+- knowledge-based-economization
+- silicon-valley-worldview
+- region/global
+related_concepts:
+- '[[Knowledge-Based Economization]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Spatial Sortings]]'
+- '[[Hub and Flow Imaginaries]]'
 related_theories: []
 related_methods: []
+related_persons:
+- '[[Sami Moisio]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
+sources:
+- '[[Ch2_Moisio_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

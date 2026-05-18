@@ -1,19 +1,38 @@
 ---
 title: Ganz-Methode
-aliases: ["Whole Approach", "整体方法", "整体进路", "Ganz Method"]
+aliases:
+- Whole Approach
+- 整体方法
+- 整体进路
+- Ganz Method
+summary: Dell Delambre 基于 Creative Tension of Sense 理论开发的实践方法论（Whole Approach），两步法承载而非消解意义张力，以里约热内卢多案例实践为基础
 type: concept
-tags: ["region/brazil", "region/global", "level/higher-ed"]
-related_concepts: ["[[Life Power]]", "[[Tense Society]]", "[[Geopolitics of Knowledge]]", "[[Social Museology]]", "[[Epistemology of Resistance]]", "[[Ecomuseology]]", "[[Whole Sustainability]]"]
-related_theories: ["[[Creative Tension of Sense]]"]
+tags:
+- region/brazil
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Life Power]]'
+- '[[Tense Society]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Social Museology]]'
+- '[[Epistemology of Resistance]]'
+- '[[Ecomuseology]]'
+- '[[Whole Sustainability]]'
+related_theories:
+- '[[Creative Tension of Sense]]'
 related_methods: []
-related_persons: ["[[Dell Delambre]]"]
+related_persons:
+- '[[Dell Delambre]]'
 related_facts: []
-related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
-sources: ["[[Ch7_Delambre_2022]]"]
+related_arguments:
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch7_Delambre_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Ganz-Methode

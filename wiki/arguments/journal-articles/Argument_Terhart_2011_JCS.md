@@ -1,6 +1,6 @@
 ---
 title: Argument_Terhart_2011_JCS
-summary: Visible Learning 汇聚海量研究并未找到教学研究“圣杯”，反而暴露出元元分析与教学理论之间的深层断裂。
+summary: VL 最早的学术书评之一，从元-元分析认识论困境、教学理论内容空洞、Foucault 式可见性政治三维度审查 Hattie，提出稳定性/变异性双重困境
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -31,7 +31,6 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

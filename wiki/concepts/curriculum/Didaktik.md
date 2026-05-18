@@ -1,15 +1,32 @@
 ---
 title: Didaktik
+aliases: []
+summary: 德语教学理论传统，关注什么知识值得教、为什么教、如何教；Schaffar & Wolff 将其作为芬兰 PhBL 的大陆教育哲学根源之一
 type: concept
-tags: [Didaktik, subject/curriculum, subject/pedagogy, paradigm/critical]
-related_theories: ["[[Critical Realism]]"]
-related_concepts: ["[[Bildung]]", "[[Epochal Key Problems]]", "[[Phenomenon-Based Learning]]", "[[Atomisation of Knowledge and Skills]]", "[[Finnish National Core Curriculum 2014]]"]
-related_persons: ["[[Wolfgang Klafki]]"]
-sources: ["sources/Schaffar_2024_CogentEdu.md"]
+tags:
+- Didaktik
+- subject/curriculum
+- subject/pedagogy
+- paradigm/critical
+related_concepts:
+- '[[Bildung]]'
+- '[[Epochal Key Problems]]'
+- '[[Phenomenon-Based Learning]]'
+- '[[Atomisation of Knowledge and Skills]]'
+- '[[Finnish National Core Curriculum 2014]]'
+related_theories:
+- '[[Critical Realism]]'
+related_methods: []
+related_persons:
+- '[[Wolfgang Klafki]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Schaffar_2024_CogentEdu]]'
 confidence: low
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

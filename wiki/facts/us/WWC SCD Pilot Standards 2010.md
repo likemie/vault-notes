@@ -1,15 +1,35 @@
 ---
 title: WWC SCD Pilot Standards 2010
+aliases: []
+summary: Kratochwill & Hitchcock 为 IES 开发的 WWC 单一个案设计审查试行标准，含 Review Guide 和 5-3-20 规则
 type: fact
 subtype: policy
-tags: [What-Works-Clearinghouse, single-case-design, evidence-standards, research-methodology, region/us]
-related_concepts: ["[[What Works Clearinghouse (WWC)]]", "[[Single-Case Design (SCD)]]", "[[5-3-20 Rule]]", "[[Gating Procedure]]", "[[Evidence-Based Education]]"]
-related_theories: ["[[Campbellian Validity Framework]]"]
-sources: ["sources/Hitchcock_2015_JBE.md"]
+region: us
+issuing_organization: ''
+tags:
+- What-Works-Clearinghouse
+- single-case-design
+- evidence-standards
+- research-methodology
+- region/us
+related_concepts:
+- '[[What Works Clearinghouse (WWC)]]'
+- '[[Single-Case Design (SCD)]]'
+- '[[5-3-20 Rule]]'
+- '[[Gating Procedure]]'
+- '[[Evidence-Based Education]]'
+related_theories:
+- '[[Campbellian Validity Framework]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Hitchcock_2015_JBE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-05
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 背景

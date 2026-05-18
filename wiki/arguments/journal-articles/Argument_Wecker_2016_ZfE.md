@@ -1,6 +1,6 @@
 ---
 title: Argument_Wecker_2016_ZfE
-summary: Hattie 的二级元分析在数学要求、数据处理和推论适当性上系统失范，因此其效应量排名缺乏稳健性。
+summary: 以固定效应模型数学基础推导 6 项二级元分析方法论要求，对 Hattie Visible Learning 进行系统性的内部+外部方法论批判，提出中央证据数据库方案
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -29,7 +29,6 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

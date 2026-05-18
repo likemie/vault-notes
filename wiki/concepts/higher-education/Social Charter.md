@@ -1,18 +1,33 @@
 ---
 title: Social Charter
-aliases: ["社会宪章", "social charter", "Meyer social charter", "高等教育社会宪章"]
+aliases:
+- 社会宪章
+- social charter
+- Meyer social charter
+- 高等教育社会宪章
+summary: Meyer (1970) 的概念：大学与社会之间不成文的约定，规定毕业生获得的社会地位，完全独立于教学效果，排名无法捕捉这一制度维度
 type: concept
-tags: [social-charter, higher-education, institutional-theory, sociology-of-education, level/higher-ed]
-related_concepts: ["[[Global Universities Rankings]]"]
+tags:
+- social-charter
+- higher-education
+- institutional-theory
+- sociology-of-education
+- level/higher-ed
+related_concepts:
+- '[[Global Universities Rankings]]'
 related_theories: []
+related_methods: []
 related_persons: []
-related_facts: ["[[University of Kentucky Top-20 Plan]]"]
-related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
+related_facts:
+- '[[University of Kentucky Top-20 Plan]]'
+related_arguments:
+- '[[Argument_Boyadjieva_2022_Springer]]'
+sources:
+- '[[Ch8_Boyadjieva_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-12
-updated: 2026-05-12
+created: '2026-05-12'
+updated: '2026-05-18'
 ---
 
 # Social Charter

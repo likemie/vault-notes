@@ -3,7 +3,7 @@ title: Yajun Zheng
 aliases:
 - 郑雅君
 - Zheng
-summary: 郑雅君，中国高等教育研究者，研究方向为高等教育社会学、教育公平与大学生发展。
+summary: 郑雅君，复旦大学高等教育研究所，原创性提出目标掌控模式／直觉依赖模式双模式框架和高等教育文化障碍概念，专著《金榜题名之后》(2023)
 type: person
 nationality: china
 tags:

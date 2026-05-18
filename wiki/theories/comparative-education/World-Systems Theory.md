@@ -1,16 +1,31 @@
 ---
 title: World-Systems Theory
-aliases: [世界体系理论, center-periphery model]
+aliases:
+- 世界体系理论
+- center-periphery model
+summary: Immanuel Wallerstein (1974) 的中心-边缘-半边缘三层全球空间理论，零和剩余假设，Marginson (2025) 以过去三十年高等教育和科学的多国同时进步论证其刚性空间性的失败
 type: theory
-tags: [region/global, theme/geopolitics, theory/political-economy]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Capitalism]]", "[[Methodological Globalism]]", "[[Semi-Autonomy of Higher Education]]"]
-related_theories: ["[[Hegemony]]"]
+tags:
+- region/global
+- theme/geopolitics
+- theory/political-economy
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Capitalism]]'
+- '[[Methodological Globalism]]'
+- '[[Semi-Autonomy of Higher Education]]'
+related_theories:
+- '[[Hegemony]]'
+related_methods: []
 related_persons: []
-sources: ["[[Marginson_2025_ROE]]"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-12
-updated: 2026-05-12
+created: '2026-05-12'
+updated: '2026-05-18'
 ---
 
 # World-Systems Theory

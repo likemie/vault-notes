@@ -1,16 +1,31 @@
 ---
 title: Theory Movement in Educational Administration
+aliases: []
+summary: 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
 type: fact
 subtype: event
-tags: [Theory Movement, educational-administration, region/us, level/higher-ed, paradigm/positivist]
-related_concepts: ["[[Epistemological Break]]", "[[Epistemological Vigilance]]"]
-related_persons: ["[[Thomas Barr Greenfield]]"]
+region: us
+tags:
+- Theory Movement
+- educational-administration
+- region/us
+- level/higher-ed
+- paradigm/positivist
+related_concepts:
+- '[[Epistemological Break]]'
+- '[[Epistemological Vigilance]]'
 related_theories: []
-sources: ["sources/Eacott_2015_EPT.md"]
+related_methods: []
+related_persons:
+- '[[Thomas Barr Greenfield]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Eacott_2015_EPT]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 背景

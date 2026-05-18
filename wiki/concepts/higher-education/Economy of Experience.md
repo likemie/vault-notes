@@ -1,15 +1,36 @@
 ---
 title: Economy of Experience
-aliases: [履历经济学, economy of experience, 履历资本]
+aliases:
+- 履历经济学
+- economy of experience
+- 履历资本
+summary: Phillip Brown 的概念：大学生需将课余生活精细投资管理以打造为简历加分的"履历资本"，郑雅君 (2023) 用于分析中国精英大学就业竞争
 type: concept
-tags: [economy-of-experience, employability, higher-education, cultural-capital, level/higher-ed]
-related_concepts: ["[[Employability]]", "[[Credential Inflation]]", "[[Cultural Capital]]", "[[Social Engagement]]", "[[Goal-Controlled Mode]]"]
-related_persons: ["[[Phillip Brown]]", "[[Yajun Zheng]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- economy-of-experience
+- employability
+- higher-education
+- cultural-capital
+- level/higher-ed
+related_concepts:
+- '[[Employability]]'
+- '[[Credential Inflation]]'
+- '[[Cultural Capital]]'
+- '[[Social Engagement]]'
+- '[[Goal-Controlled Mode]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Phillip Brown]]'
+- '[[Yajun Zheng]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Economy of Experience

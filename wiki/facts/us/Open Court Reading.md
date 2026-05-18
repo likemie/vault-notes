@@ -1,14 +1,33 @@
 ---
 title: Open Court Reading
+aliases: []
+summary: Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、BEE 均评为 promising，但研究解释标准不同
 type: fact
-subtype: educational-program-case
-tags: [Open-Court-Reading, educational-program, clearinghouse-rating-case, evidence-based-education, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[What Works Clearinghouse (WWC)]]", "[[Blueprints for Healthy Youth Development]]", "[[Best Evidence Encyclopedia (BEE)]]", "[[Randomised Controlled Trials]]"]
-sources: ["sources/Wadhwa_2024_RER.md"]
+subtype: event
+region: us
+tags:
+- Open-Court-Reading
+- educational-program
+- clearinghouse-rating-case
+- evidence-based-education
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[What Works Clearinghouse (WWC)]]'
+- '[[Blueprints for Healthy Youth Development]]'
+- '[[Best Evidence Encyclopedia (BEE)]]'
+- '[[Randomised Controlled Trials]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

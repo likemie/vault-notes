@@ -1,16 +1,32 @@
 ---
 title: Rose Report 2006
+aliases: []
+summary: Jim Rose 领导的英国早期阅读教学独立审查，推广简单阅读观，直接导致全英强制合成语音教学
 type: fact
 subtype: policy
-tags: [Rose-Report, synthetic-phonics, literacy, region/uk, level/k12]
-related_concepts: ["[[Simple View of Reading]]", "[[Synthetic Phonics]]", "[[Whole Language]]"]
-related_persons: []
+region: uk
+issuing_organization: ''
+tags:
+- Rose-Report
+- synthetic-phonics
+- literacy
+- region/uk
+- level/k12
+related_concepts:
+- '[[Simple View of Reading]]'
+- '[[Synthetic Phonics]]'
+- '[[Whole Language]]'
 related_theories: []
-sources: ["sources/OConnor_2020_AJLL.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[OConnor_2020_AJLL]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 背景

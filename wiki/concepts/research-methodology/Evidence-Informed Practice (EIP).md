@@ -1,15 +1,32 @@
 ---
 title: Evidence-Informed Practice (EIP)
+aliases: []
+summary: Nelson & Campbell (2017) 系统阐述的替代取向：证据是多种因素之一，教育者需运用专业判断整合研究证据、课堂数据和系统数据，KMb 四策略框架
 type: concept
-tags: [evidence-informed-practice, evidence-based-education, professional-judgment, knowledge-mobilisation, research-use, region/global]
-related_concepts: ["[[Evidence-Based Education]]", "[[Local Knowledge in Evidence-Based Policy]]", "[[Knowledge Mobilisation (KMb)]]"]
+tags:
+- evidence-informed-practice
+- evidence-based-education
+- professional-judgment
+- knowledge-mobilisation
+- research-use
+- region/global
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Local Knowledge in Evidence-Based Policy]]'
+- '[[Knowledge Mobilisation (KMb)]]'
 related_theories: []
-related_persons: ["[[Julie Nelson]]", "[[Carol Campbell]]"]
-sources: ["sources/Nelson_2017_ER.md"]
+related_methods: []
+related_persons:
+- '[[Julie Nelson]]'
+- '[[Carol Campbell]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Nelson_2017_ER]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

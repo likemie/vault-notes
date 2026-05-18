@@ -1,20 +1,35 @@
 ---
 title: Areopagitica (1644)
-aliases: ["论出版自由", "Areopagitica", "Milton's Areopagitica"]
+aliases:
+- 论出版自由
+- Areopagitica
+- Milton's Areopagitica
+summary: Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
 type: fact
 subtype: event
-tags: ["region/uk", "censorship", "freedom-of-speech", "knowledge-transfer", "geopolitics-of-knowledge"]
-related_concepts: ["[[Knowledge Transfer]]", "[[Geopolitics of Knowledge]]"]
+region: uk
+tags:
+- region/uk
+- censorship
+- freedom-of-speech
+- knowledge-transfer
+- geopolitics-of-knowledge
+related_concepts:
+- '[[Knowledge Transfer]]'
+- '[[Geopolitics of Knowledge]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Great Firewall of China]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_facts:
+- '[[Great Firewall of China]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Areopagitica (1644)

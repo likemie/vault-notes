@@ -1,20 +1,31 @@
 ---
 title: Education City Doha
-aliases: [多哈教育城, Education City]
+aliases:
+- 多哈教育城
+- Education City
+summary: 卡塔尔首都多哈的多大学海外分校集中园区：康奈尔医学院、乔治城、卡内基梅隆等，标志大学全球化的新阶段
 type: fact
 subtype: event
-tags: [region/global, region/qatar, level/higher-ed]
-related_concepts: ["[[International Education]]", "[[International Schools]]"]
+region: global
+tags:
+- region/global
+- region/qatar
+- level/higher-ed
+related_concepts:
+- '[[International Education]]'
+- '[[International Schools]]'
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Slethaug_2010_InternationalEducation]]"]
-sources: ["[[Ch1_Slethaug_2010]]"]
+related_arguments:
+- '[[Argument_Slethaug_2010_InternationalEducation]]'
+sources:
+- '[[Ch1_Slethaug_2010]]'
 confidence: medium
 status: draft
-created: 2026-05-17
-updated: 2026-05-17
+created: '2026-05-17'
+updated: '2026-05-18'
 ---
 
 # Education City Doha

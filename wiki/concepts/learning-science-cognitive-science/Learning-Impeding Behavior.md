@@ -1,14 +1,31 @@
 ---
 title: Learning-Impeding Behavior
+aliases: []
+summary: 学生自评的课堂学习阻碍行为（如干扰同伴、疲惫分心）；在性别差异上呈小到中等差距，并进入成绩差异解释路径
 type: concept
-tags: [learning-impeding-behavior, classroom-behavior, self-regulation, subject/psychology, level/k12, region/norway]
-related_concepts: ["[[School Norm Adaptation]]", "[[Motivation and Work Effort]]", "[[Gender Differences in Academic Achievement]]"]
-related_methods: ["[[Observational and Correlational Research]]"]
-sources: ["sources/Lekhal_2015_Paideia.md"]
+tags:
+- learning-impeding-behavior
+- classroom-behavior
+- self-regulation
+- subject/psychology
+- level/k12
+- region/norway
+related_concepts:
+- '[[School Norm Adaptation]]'
+- '[[Motivation and Work Effort]]'
+- '[[Gender Differences in Academic Achievement]]'
+related_theories: []
+related_methods:
+- '[[Observational and Correlational Research]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Lekhal_2015_Paideia]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

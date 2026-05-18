@@ -1,20 +1,33 @@
 ---
 title: Regional University Alliances
 aliases: []
+summary: Amos (2022) 在晚期现代教育转型语境中关注的三类欧洲大学联盟（LERU、The GUILD、European University Alliances），在科研合作、师生流动和联合学位中运作，构成多层级地缘政治教育空间中的制度行动者
 type: fact
 subtype: event
-tags: [higher-education, university-alliances, europe, regionalization, region/global, level/higher-ed]
-related_concepts: ["[[Global Regionalisms in Higher Education]]", "[[International Education Hubs]]", "[[Educational Technology Industry]]"]
-related_theories: ["[[Transitology]]"]
+region: global
+tags:
+- higher-education
+- university-alliances
+- europe
+- regionalization
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Global Regionalisms in Higher Education]]'
+- '[[International Education Hubs]]'
+- '[[Educational Technology Industry]]'
+related_theories:
+- '[[Transitology]]'
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 背景

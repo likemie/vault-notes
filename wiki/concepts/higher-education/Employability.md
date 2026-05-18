@@ -1,15 +1,37 @@
 ---
 title: Employability
-aliases: [就业力, employability, 就业能力]
+aliases:
+- 就业力
+- employability
+- 就业能力
+summary: Phillip Brown 的概念：知识经济时代就业力建立在比较排序之上，毕业证书只是敲门砖，需通过经历管理展示个人品质，郑雅君 (2023) 作为社会性投入分析的理论基础
 type: concept
-tags: [employability, higher-education, knowledge-economy, graduate-employment, level/higher-ed]
-related_concepts: ["[[Economy of Experience]]", "[[Credential Inflation]]", "[[Graduate Attributes]]", "[[Social Engagement]]", "[[Academic Engagement]]", "[[Goal-Controlled Mode]]"]
-related_persons: ["[[Phillip Brown]]", "[[Yajun Zheng]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- employability
+- higher-education
+- knowledge-economy
+- graduate-employment
+- level/higher-ed
+related_concepts:
+- '[[Economy of Experience]]'
+- '[[Credential Inflation]]'
+- '[[Graduate Attributes]]'
+- '[[Social Engagement]]'
+- '[[Academic Engagement]]'
+- '[[Goal-Controlled Mode]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Phillip Brown]]'
+- '[[Yajun Zheng]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Employability

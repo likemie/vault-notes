@@ -1,14 +1,33 @@
 ---
 title: Selective Schools Expansion Fund 2018
+aliases: []
+summary: 保守党政府 £50M 基金允许现有文法学校扩展招生，在新建禁令未修改的情况下以替代路径扩大选择性教育
 type: fact
 subtype: policy
-tags: [selective-education, grammar-schools, region/uk, level/k12]
-related_concepts: ["[[Selective Education]]", "[[Grammar School]]", "[[Moral Sidestep]]", "[[Eleven-plus Exam]]", "[[Ofsted]]"]
-sources: ["sources/Bainbridge_2022_ROE.md"]
+region: uk
+issuing_organization: ''
+tags:
+- selective-education
+- grammar-schools
+- region/uk
+- level/k12
+related_concepts:
+- '[[Selective Education]]'
+- '[[Grammar School]]'
+- '[[Moral Sidestep]]'
+- '[[Eleven-plus Exam]]'
+- '[[Ofsted]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bainbridge_2022_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 背景

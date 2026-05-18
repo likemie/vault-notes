@@ -1,14 +1,30 @@
 ---
 title: The New Zealand Curriculum
+aliases: []
+summary: 2010 年实施的 NZ 国家课程，包含八项原则（高期望、学会学习、未来焦点），允许各校设计独特学习项目，ERO 定期评估
 type: fact
 subtype: policy
-tags: [region/newzealand, level/k12, curriculum, Visible Learning]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]"]
-sources: ["sources/Sarbiewska_2019_JSR.md"]
+region: newzealand
+issuing_organization: ''
+tags:
+- region/newzealand
+- level/k12
+- curriculum
+- Visible Learning
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Sarbiewska_2019_JSR]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 背景

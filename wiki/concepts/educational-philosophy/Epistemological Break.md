@@ -1,25 +1,30 @@
 ---
 title: Epistemological Break
+aliases: []
+summary: Bourdieu 认识论核心概念：科学研究必须与前科学世界的日常语言和自发理解决裂，Eacott 将其引入教育行政研究
 type: concept
 tags:
-  - Epistemological Break
-  - epistemology
-  - Bourdieu
-  - paradigm/critical
-related_theories:
-  - "[[Pierre Bourdieu]]"
-  - "[[Critical Realism]]"
-related_persons:
-  - "[[Clippings/Pierre Bourdieu]]"
-  - "[[Gaston Bachelard]]"
+- Epistemological Break
+- epistemology
+- Bourdieu
+- paradigm/critical
 related_concepts:
-  - "[[Epistemological Vigilance]]"
+- '[[Epistemological Vigilance]]'
+related_theories:
+- '[[Pierre Bourdieu]]'
+- '[[Critical Realism]]'
+related_methods: []
+related_persons:
+- '[[Clippings/Pierre Bourdieu]]'
+- '[[Gaston Bachelard]]'
+related_facts: []
+related_arguments: []
 sources:
-  - sources/Eacott_2015_EPT.md
+- '[[Eacott_2015_EPT]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

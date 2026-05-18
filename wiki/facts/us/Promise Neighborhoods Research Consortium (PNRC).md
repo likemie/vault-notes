@@ -1,15 +1,32 @@
 ---
 title: Promise Neighborhoods Research Consortium (PNRC)
+aliases: []
+summary: 评价项目、政策和实践的 public 清算中心，不进行项目效果分层评级，未进入 Wadhwa et al. (2024) 最终一致性分析
 type: fact
-subtype: institution
-tags: [PNRC, educational-evidence-clearinghouse, evidence-based-education, promise-neighborhoods, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]", "[[Intent-to-Treat Analysis]]"]
+subtype: event
+region: us
+tags:
+- PNRC
+- educational-evidence-clearinghouse
+- evidence-based-education
+- promise-neighborhoods
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
+- '[[Intent-to-Treat Analysis]]'
 related_theories: []
-sources: ["sources/Wadhwa_2024_RER.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

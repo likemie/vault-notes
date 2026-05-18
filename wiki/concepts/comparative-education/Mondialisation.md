@@ -1,19 +1,28 @@
 ---
 title: Mondialisation
 aliases: []
+summary: Weil/Supiot (2019) 基于 Decroly (1929) 恢复的替代全球化概念：以"星球的普世性"和对生命多元形式的尊重为核心，与 market-driven 的 globalisation 形成对抗，与 Escobar 的 pluriverse 并置
 type: concept
-tags: [mondialisation, globalization, pluriverse, world-making, alternative-globalization]
-related_concepts: ["[[Posthumanism]]"]
-related_persons: ["[[Arturo Escobar]]"]
+tags:
+- mondialisation
+- globalization
+- pluriverse
+- world-making
+- alternative-globalization
+related_concepts:
+- '[[Posthumanism]]'
 related_theories: []
 related_methods: []
+related_persons:
+- '[[Arturo Escobar]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

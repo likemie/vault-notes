@@ -1,19 +1,37 @@
 ---
 title: Fixity-Motion Tension
 aliases: []
+summary: David Harvey (1985/2001) 的资本主义地缘政治核心理论：资本主义需要创造空间固着来促进资本流通，但流通又不断破坏既有空间配置，Moisio (2022) 将其应用于知识经济化分析
 type: theory
-tags: [fixity-motion-tension, harvey, geopolitics-of-capitalism, spatial-dynamics, capital-circulation, region/global]
-related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]", "[[Classical Geopolitics]]", "[[Spatial Sortings]]", "[[Knowledge-Based Economy]]", "[[Geopolitical Subject]]"]
-related_theories: ["[[Critical Geopolitics]]"]
-related_persons: ["[[Sami Moisio]]", "[[David Harvey]]"]
+tags:
+- fixity-motion-tension
+- harvey
+- geopolitics-of-capitalism
+- spatial-dynamics
+- capital-circulation
+- region/global
+related_concepts:
+- '[[Knowledge-Based Economization]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Hub and Flow Imaginaries]]'
+- '[[Classical Geopolitics]]'
+- '[[Spatial Sortings]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Geopolitical Subject]]'
+related_theories:
+- '[[Critical Geopolitics]]'
 related_methods: []
+related_persons:
+- '[[Sami Moisio]]'
+- '[[David Harvey]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
+sources:
+- '[[Ch2_Moisio_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

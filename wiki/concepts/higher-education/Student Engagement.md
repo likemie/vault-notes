@@ -1,15 +1,36 @@
 ---
 title: Student Engagement
-aliases: [学生投入, student engagement, Kuh 学生投入理论]
+aliases:
+- 学生投入
+- student engagement
+- Kuh 学生投入理论
+summary: George Kuh (1991) 的概念：学生向学校教育性实践活动中投入的时间精力越多越可能产出积极教育结果，与 Astin 学生涉入理论异曲同工，郑雅君 (2023) 作为"投入过程"的理论基础
 type: concept
-tags: [student-engagement, higher-education, level/higher-ed]
-related_concepts: ["[[Academic and Social Integration]]", "[[Student Involvement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]"]
-related_persons: ["[[George Kuh]]", "[[Alexander Astin]]", "[[Vincent Tinto]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- student-engagement
+- higher-education
+- level/higher-ed
+related_concepts:
+- '[[Academic and Social Integration]]'
+- '[[Student Involvement]]'
+- '[[Academic Engagement]]'
+- '[[Social Engagement]]'
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[George Kuh]]'
+- '[[Alexander Astin]]'
+- '[[Vincent Tinto]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Student Engagement

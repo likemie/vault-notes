@@ -3,7 +3,7 @@ title: Functional Magnetic Resonance Imaging
 aliases:
 - 功能性磁共振成像
 - fMRI
-summary: 功能性磁共振成像（fMRI）是一种功能神经影像技术，通过测量特定脑区血液成分的存在来记录解剖学定义的脑活动，同时参与者在完成任务或活动。fMRI 在确定空间信息方面优于时间信息。
+summary: 功能性磁共振成像（fMRI）：通过测量脑区血液成分记录脑活动，空间分辨率优于时间分辨率，大多数研究集中于 7 岁以上儿童
 type: method
 method_type: quantitative
 tags:

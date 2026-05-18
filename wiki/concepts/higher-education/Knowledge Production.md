@@ -1,19 +1,36 @@
 ---
 title: Knowledge Production
-aliases: ["知识生产", "knowledge production (GPK)"]
+aliases:
+- 知识生产
+- knowledge production (GPK)
+summary: GPK 两面之一：谁生产知识、以何种视角、为谁的利益，后殖民 GPK 传统的核心分析维度，其术语流行与知识产权商业化同步
 type: concept
-tags: ["geopolitics-of-knowledge", "knowledge-economy", "postcolonial-studies", "region/global"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Narrative Knowledge]]"]
-related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
+tags:
+- geopolitics-of-knowledge
+- knowledge-economy
+- postcolonial-studies
+- region/global
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Transfer]]'
+- '[[Narrative Knowledge]]'
+related_theories:
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
-related_persons: ["[[Jean-François Lyotard]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]", "[[Walter Mignolo]]"]
+related_persons:
+- '[[Jean-François Lyotard]]'
+- '[[Frantz Fanon]]'
+- '[[Chen Kuan-Hsing]]'
+- '[[Walter Mignolo]]'
 related_facts: []
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Knowledge Production

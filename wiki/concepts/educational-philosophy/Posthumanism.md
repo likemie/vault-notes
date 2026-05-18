@@ -1,19 +1,36 @@
 ---
 title: Posthumanism
 aliases: []
+summary: Amos (2022) 通过 Haraway 和 Escobar 分析的后人类主义：将人类从宇宙中心彻底移开，强调人与非人之间通过 sympoiesis（共同制造）和 response-ability 的根本性相互依存，作为超人类主义的对立教育愿景
 type: concept
-tags: [posthumanism, relational-ontology, sympoiesis, world-making, higher-ed]
-related_concepts: ["[[Transhumanism]]", "[[Sympoiesis]]", "[[Autopoiesis]]", "[[Mondialisation]]", "[[SF (Haraway)]]", "[[Humosity]]"]
-related_persons: ["[[Donna Haraway]]", "[[Arturo Escobar]]"]
-related_theories: ["[[Autopoiesis]]", "[[Transition Design]]"]
+tags:
+- posthumanism
+- relational-ontology
+- sympoiesis
+- world-making
+- higher-ed
+related_concepts:
+- '[[Transhumanism]]'
+- '[[Sympoiesis]]'
+- '[[Autopoiesis]]'
+- '[[Mondialisation]]'
+- '[[SF (Haraway)]]'
+- '[[Humosity]]'
+related_theories:
+- '[[Autopoiesis]]'
+- '[[Transition Design]]'
 related_methods: []
+related_persons:
+- '[[Donna Haraway]]'
+- '[[Arturo Escobar]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

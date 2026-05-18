@@ -1,19 +1,123 @@
 ---
 title: Visible Learning
+aliases: []
+summary: John Hattie (2009) 基于 800+ 元分析综合的教育证据项目，以效应量排名 150+ 教学干预，已在至少 23 国采用；McKnight & Whitburn (2020) 从文化政治视角提出七点系统批评
 type: concept
-tags: [Visible Learning, evidence-based-education, subject/instruction, level/k12]
-related_concepts: ["[[Evidence-Based Education]]", "[[Evidence-Based Reform]]", "[[Effect Size]]", "[[Meta-analysis]]", "[[Pure Evaluation]]", "[[Cult of the Guru]]", "[[Neo-Taylorism in Educational Administration]]", "[[Policy Borrowing]]", "[[Programme Fidelity vs Adaptation]]", "[[Performativity of Measurement]]", "[[Professional Judgment]]", "[[Interpretation Community]]", "[[Structural Coupling]]", "[[Class Size]]", "[[Performance Pay]]", "[[Policy Entrepreneur]]", "[[Educational Management Organisation (EMO)]]", "[[Bildung]]", "[[Learnification]]", "[[Neuroplasticity]]", "[[Incarnation-Extension Dialectics]]", "[[Blind Spot in Observation]]", "[[Feedback]]", "[[Effective Teaching]]", "[[Side Effects in Education]]", "[[Direct Instruction]]", "[[Scientism]]", "[[Cargo Cult Science]]", "[[Global Education Reform Movement (GERM)]]", "[[Problem-Based Learning]]", "[[Surface and Deep Learning]]", "[[Dynamic Knowledge and Learning Model]]", "[[Constructive Alignment]]", "[[The New Zealand Curriculum]]", "[[Australian Curriculum]]", "[[Material Fallacies]]", "[[Critic and Conscience of Society]]"]
-related_persons: ["[[John Hattie]]", "[[Thomas Aastrup Rømer]]", "[[Klaus Nielsen]]", "[[Ernst von Glasersfeld]]", "[[Carl Bereiter]]", "[[Gert Biesta]]", "[[Scott Eacott]]", "[[Lars Qvortrup]]", "[[Donald A. Schön]]", "[[Herbert A. Simon]]", "[[Ivan Snook]]", "[[Steen Nepper Larsen]]", "[[Niklas Luhmann]]", "[[John Biggs]]", "[[Dietrich Benner]]", "[[Gerald Grace]]"]
-related_facts: ["[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]", "[[New Zealand National Standards (2009)]]", "[[Visible Learning Branding and Global Influences]]"]
-related_arguments: ["[[Argument_Hattie_2017_SLM]]", "[[Argument_Knudsen_2017_NordSTEP]]", "[[Argument_Bainbridge_2022_ROE]]"]
-related_theories: ["[[New Public Management in Education]]", "[[Technical Rationality]]", "[[Radical Constructivism]]", "[[Popper's Three Worlds Theory]]", "[[Bounded Rationality]]", "[[Luhmann's Systems Theory]]", "[[Hofstede's Cultural Dimensions]]"]
-sources: ["sources/Snook_2009_NZJES.md", "sources/Grace_2010_NZJES.md", "sources/Hattie_2010_NZJES.md", "sources/Snook_2010_NZJES.md", "sources/Terhart_2011_JCS.md", "sources/ONeill_2012_NZJES.md", "sources/Allerup_2015_Paideia.md", "sources/Fredens_2015_Paideia.md", "sources/Hattie_2015_SOTLP.md", "sources/Laursen_2015_Paideia.md", "sources/Qvortrup_2015_Paideia.md", "sources/ONeill_2016_Report.md", "sources/Wecker_2016_ZfE.md", "sources/Bergeron_2017_MJE.md", "sources/Eacott_2017_SLM.md", "sources/Hattie_2017_SLM.md", "sources/Knudsen_2017_NordSTEP.md", "sources/Zhao_2017_JEC.md", "sources/Romer_2018_EPT.md", "sources/Eacott_2019_IJLE.md", "sources/Golovchin_2019_ESC.md", "sources/Larsen_2019_EducSci.md", "sources/Qvortrup_2019_NordSTEP.md", "sources/Sarbiewska_2019_JSR.md", "sources/Blass_2020_JESP.md", "sources/McKnight_2020_Discourse.md", "sources/OConnor_2020_AJLL.md", "sources/Nielsen_2021_IRTP.md", "sources/Nielsen_2021_NordPsych.md", "sources/Bainbridge_2022_ROE.md", "sources/Johnson_2023_CE.md"]
+tags:
+- Visible Learning
+- evidence-based-education
+- subject/instruction
+- level/k12
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
+- '[[Effect Size]]'
+- '[[Meta-analysis]]'
+- '[[Pure Evaluation]]'
+- '[[Cult of the Guru]]'
+- '[[Neo-Taylorism in Educational Administration]]'
+- '[[Policy Borrowing]]'
+- '[[Programme Fidelity vs Adaptation]]'
+- '[[Performativity of Measurement]]'
+- '[[Professional Judgment]]'
+- '[[Interpretation Community]]'
+- '[[Structural Coupling]]'
+- '[[Class Size]]'
+- '[[Performance Pay]]'
+- '[[Policy Entrepreneur]]'
+- '[[Educational Management Organisation (EMO)]]'
+- '[[Bildung]]'
+- '[[Learnification]]'
+- '[[Neuroplasticity]]'
+- '[[Incarnation-Extension Dialectics]]'
+- '[[Blind Spot in Observation]]'
+- '[[Feedback]]'
+- '[[Effective Teaching]]'
+- '[[Side Effects in Education]]'
+- '[[Direct Instruction]]'
+- '[[Scientism]]'
+- '[[Cargo Cult Science]]'
+- '[[Global Education Reform Movement (GERM)]]'
+- '[[Problem-Based Learning]]'
+- '[[Surface and Deep Learning]]'
+- '[[Dynamic Knowledge and Learning Model]]'
+- '[[Constructive Alignment]]'
+- '[[The New Zealand Curriculum]]'
+- '[[Australian Curriculum]]'
+- '[[Material Fallacies]]'
+- '[[Critic and Conscience of Society]]'
+related_theories:
+- '[[New Public Management in Education]]'
+- '[[Technical Rationality]]'
+- '[[Radical Constructivism]]'
+- '[[Popper''s Three Worlds Theory]]'
+- '[[Bounded Rationality]]'
+- '[[Luhmann''s Systems Theory]]'
+- '[[Hofstede''s Cultural Dimensions]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Thomas Aastrup Rømer]]'
+- '[[Klaus Nielsen]]'
+- '[[Ernst von Glasersfeld]]'
+- '[[Carl Bereiter]]'
+- '[[Gert Biesta]]'
+- '[[Scott Eacott]]'
+- '[[Lars Qvortrup]]'
+- '[[Donald A. Schön]]'
+- '[[Herbert A. Simon]]'
+- '[[Ivan Snook]]'
+- '[[Steen Nepper Larsen]]'
+- '[[Niklas Luhmann]]'
+- '[[John Biggs]]'
+- '[[Dietrich Benner]]'
+- '[[Gerald Grace]]'
+related_facts:
+- '[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]'
+- '[[New Zealand National Standards (2009)]]'
+- '[[Visible Learning Branding and Global Influences]]'
+related_arguments:
+- '[[Argument_Hattie_2017_SLM]]'
+- '[[Argument_Knudsen_2017_NordSTEP]]'
+- '[[Argument_Bainbridge_2022_ROE]]'
+sources:
+- '[[Snook_2009_NZJES]]'
+- '[[Grace_2010_NZJES]]'
+- '[[Hattie_2010_NZJES]]'
+- '[[Snook_2010_NZJES]]'
+- '[[Terhart_2011_JCS]]'
+- '[[ONeill_2012_NZJES]]'
+- '[[Allerup_2015_Paideia]]'
+- '[[Fredens_2015_Paideia]]'
+- '[[Hattie_2015_SOTLP]]'
+- '[[Laursen_2015_Paideia]]'
+- '[[Qvortrup_2015_Paideia]]'
+- '[[ONeill_2016_Report]]'
+- '[[Wecker_2016_ZfE]]'
+- '[[Bergeron_2017_MJE]]'
+- '[[Eacott_2017_SLM]]'
+- '[[Hattie_2017_SLM]]'
+- '[[Knudsen_2017_NordSTEP]]'
+- '[[Zhao_2017_JEC]]'
+- '[[Romer_2018_EPT]]'
+- '[[Eacott_2019_IJLE]]'
+- '[[Golovchin_2019_ESC]]'
+- '[[Larsen_2019_EducSci]]'
+- '[[Qvortrup_2019_NordSTEP]]'
+- '[[Sarbiewska_2019_JSR]]'
+- '[[Blass_2020_JESP]]'
+- '[[McKnight_2020_Discourse]]'
+- '[[OConnor_2020_AJLL]]'
+- '[[Nielsen_2021_IRTP]]'
+- '[[Nielsen_2021_NordPsych]]'
+- '[[Bainbridge_2022_ROE]]'
+- '[[Johnson_2023_CE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-07
-
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
+
 ## 定义
 
 Visible Learning 是 [[John Hattie]] 于 2009 年出版的 *Visible Learning: A synthesis of over 800 meta-analyses relating to achievement* 中提出的教育证据综合项目，将 800 余项[[Meta-analysis|元分析]]（涵盖数万项原始研究）汇总为一份"什么有效"的排名清单，以[[Effect Size|效应量]]（effect size）为标准对 150+ 项教学干预进行排序（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020]], p.32）。英国教育部在 Coldwell et al.（2017）报告中将 Visible Learning 列为官方认可的"approved"证据来源之一（与 [[EEF Teaching and Learning Toolkit|EEF]] 和 Sutton Trust 并列）（Bainbridge et al., 2022, p.4）。

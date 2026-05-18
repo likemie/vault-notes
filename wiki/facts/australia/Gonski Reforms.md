@@ -1,15 +1,31 @@
 ---
 title: Gonski Reforms
+aliases: []
+summary: 2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于"不让任何学校更糟"条款
 type: fact
 subtype: policy
-tags: [school-funding, region/australia, level/k12, equity]
-related_concepts: ["[[School Autonomy]]", "[[New Public Management in Education]]"]
+region: australia
+issuing_organization: ''
+tags:
+- school-funding
+- region/australia
+- level/k12
+- equity
+related_concepts:
+- '[[School Autonomy]]'
+- '[[New Public Management in Education]]'
 related_theories: []
-sources: ["sources/Keddie_2020_IJLE.md", "sources/Sarbiewska_2019_JSR.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Keddie_2020_IJLE]]'
+- '[[Sarbiewska_2019_JSR]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-05
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 背景

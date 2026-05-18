@@ -1,19 +1,33 @@
 ---
 title: International Schools
-aliases: [国际学校, international school]
+aliases:
+- 国际学校
+- international school
+summary: 从 50 所(1964)→3,000+(2005)的爆炸增长；去国家化转型(70%→30%母国学生)；市场化精英机构；师资培训系统性缺失
 type: concept
-tags: [region/global, level/k12]
-related_concepts: ["[[International Education]]", "[[International Baccalaureate (IB)]]", "[[Chinese Learner]]", "[[Fourth Culture]]", "[[Boarding Schools]]"]
+tags:
+- region/global
+- level/k12
+related_concepts:
+- '[[International Education]]'
+- '[[International Baccalaureate (IB)]]'
+- '[[Chinese Learner]]'
+- '[[Fourth Culture]]'
+- '[[Boarding Schools]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[English Schools Foundation Hong Kong]]", "[[Education City Doha]]"]
-related_arguments: ["[[Argument_Slethaug_2010_InternationalEducation]]"]
-sources: ["[[Ch1_Slethaug_2010]]"]
+related_facts:
+- '[[English Schools Foundation Hong Kong]]'
+- '[[Education City Doha]]'
+related_arguments:
+- '[[Argument_Slethaug_2010_InternationalEducation]]'
+sources:
+- '[[Ch1_Slethaug_2010]]'
 confidence: medium
 status: draft
-created: 2026-05-17
-updated: 2026-05-17
+created: '2026-05-17'
+updated: '2026-05-18'
 ---
 
 # International Schools

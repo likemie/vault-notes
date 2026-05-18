@@ -1,6 +1,6 @@
 ---
 title: Argument_Hattie_2015_SOTLP
-summary: Visible Learning 在高等教育中可作为反思教学影响的启发框架，但不能被简单移植为统一处方。
+summary: 将 VL 框架应用于高等教育：PBL 低效（d≈0.08）、在线 vs 面授无差异（d≈0.12）、提出六项关键发现、DIE 模型和八项教师思维框架
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,7 +32,6 @@ status: draft
 created: '2026-05-04'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

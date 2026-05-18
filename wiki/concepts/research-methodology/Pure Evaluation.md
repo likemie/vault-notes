@@ -1,14 +1,27 @@
 ---
 title: Pure Evaluation
+aliases: []
+summary: Tanggaard, Rømer & Brinkmann (2014) 仿照"纯粹教育"提出的概念，描述被宣称在自调节系统中独立于时空运作的评价实践，Hattie 的元-元分析为其典型案例
 type: concept
-tags: [evaluation, methodology, region/denmark]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]"]
-related_persons: ["[[John Hattie]]"]
-sources: ["sources/Romer_2018_EPT.md"]
+tags:
+- evaluation
+- methodology
+- region/denmark
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Romer_2018_EPT]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

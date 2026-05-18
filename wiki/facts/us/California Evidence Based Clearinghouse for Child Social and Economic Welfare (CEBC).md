@@ -1,15 +1,31 @@
 ---
 title: California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)
+aliases: []
+summary: 面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果
 type: fact
-subtype: institution
-tags: [CEBC, educational-evidence-clearinghouse, evidence-based-education, child-welfare, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]"]
+subtype: event
+region: us
+tags:
+- CEBC
+- educational-evidence-clearinghouse
+- evidence-based-education
+- child-welfare
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
 related_theories: []
-sources: ["sources/Wadhwa_2024_RER.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

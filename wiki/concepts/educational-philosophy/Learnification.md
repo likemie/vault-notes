@@ -1,14 +1,27 @@
 ---
 title: Learnification
+aliases: []
+summary: Gert Biesta 提出的批判概念：学习被效果中心的结果逻辑所吞噬，教师被降格为"学习促进者"，Larsen (2019) 在丹麦语境中追溯其历史演变
 type: concept
-tags: [Learnification, stance/critique]
-related_concepts: ["[[Visible Learning]]", "[[Bildung]]"]
-related_persons: ["[[Gert Biesta]]", "[[Steen Nepper Larsen]]"]
-sources: ["sources/Larsen_2019_EducSci.md"]
+tags:
+- Learnification
+- stance/critique
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Bildung]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Gert Biesta]]'
+- '[[Steen Nepper Larsen]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Larsen_2019_EducSci]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

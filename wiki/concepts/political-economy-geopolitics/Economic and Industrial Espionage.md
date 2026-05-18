@@ -1,19 +1,37 @@
 ---
 title: Economic and Industrial Espionage
-aliases: ["经济和工业间谍", "economic espionage", "industrial espionage", "知识产权盗窃"]
+aliases:
+- 经济和工业间谍
+- economic espionage
+- industrial espionage
+- 知识产权盗窃
+summary: Søilen 区分经济间谍（政府参与）与工业间谍（无政府），Partaken 以中美技术紧张为核心案例
 type: concept
-tags: ["geopolitics-of-knowledge", "knowledge-transfer", "intellectual-property", "region/global"]
-related_concepts: ["[[Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Knowledge Sabotage]]", "[[Forced Knowledge Transfer]]"]
+tags:
+- geopolitics-of-knowledge
+- knowledge-transfer
+- intellectual-property
+- region/global
+related_concepts:
+- '[[Knowledge Transfer]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Sabotage]]'
+- '[[Forced Knowledge Transfer]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Sino-American Trade War (2018)]]", "[[US-China Economic and Security Review Commission (2000)]]", "[[Thousand Talents Program]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_facts:
+- '[[Sino-American Trade War (2018)]]'
+- '[[US-China Economic and Security Review Commission (2000)]]'
+- '[[Thousand Talents Program]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Economic and Industrial Espionage

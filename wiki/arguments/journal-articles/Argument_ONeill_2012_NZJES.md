@@ -1,6 +1,6 @@
 ---
 title: Argument_ONeill_2012_NZJES
-summary: 当政策建议建立在对研究证据的实质性谬误之上时，研究者有责任指出其逻辑错误与公共风险。
+summary: 以 NZ Treasury 2011 年简报为案例，运用 Kreeft 实质谬误框架分析教育政策论述中证据被误用的机制，提出研究者有责任警惕和挑战基于实质谬误的公共政策辩论
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -35,7 +35,6 @@ status: published
 created: '2026-05-06'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

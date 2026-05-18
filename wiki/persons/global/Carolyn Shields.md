@@ -2,7 +2,7 @@
 title: Carolyn Shields
 aliases:
 - Shields
-summary: Carolyn Shields，加拿大教育研究者，以提出**变革型领导力**（Transformative Leadership）框架而著称。
+summary: 加拿大教育研究者，提出以权力为调查起点的变革型领导力框架，被 Møller 采纳为超越"什么有效"议程的关键替代视角
 type: person
 nationality: global
 tags:

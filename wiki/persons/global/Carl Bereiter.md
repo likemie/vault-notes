@@ -2,7 +2,7 @@
 title: Carl Bereiter
 aliases:
 - Bereiter
-summary: Carl Bereiter，加拿大教育理论家，以"知识建构"（knowledge building）理论和"知识社会中的心智"研究著称。
+summary: 加拿大教育理论家，知识建构理论创始人，将 Popper 三个世界理论引入教育研究，在 Popper 与 Hattie 之间扮演关键中介角色
 type: person
 nationality: global
 tags:

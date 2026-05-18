@@ -2,7 +2,7 @@
 title: Dylan Wiliam
 aliases:
 - Wiliam
-summary: Dylan Wiliam，英国教育评估和形成性评价领域的重要研究者，UCL 教育研究院（Institute of Education, University College London）教授。
+summary: UCL 教育研究院教授，教育评估和形成性评价研究者，以 Goldman 区分理论论证教育知识局部且临时，提出 EBE 批判的四个决策问题框架
 type: person
 nationality: uk
 tags:

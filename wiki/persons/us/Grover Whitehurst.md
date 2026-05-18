@@ -2,7 +2,7 @@
 title: Grover Whitehurst
 aliases:
 - Whitehurst
-summary: Grover "Russ" Whitehurst 是 Bush 政府时期（2001–2009）美国教育部教育研究与改进办公室（OERI, Office of Educational Research and Improvement）主任，后任教育科学研究所（IES, Institute of Education Sciences）首任所长。
+summary: Bush 政府 OERI 主任 / IES 首任所长，将 RCT 确立为联邦教育研究黄金标准的关键政策执行者，制定 2002–2007 OERI 战略计划
 type: person
 nationality: us
 tags:

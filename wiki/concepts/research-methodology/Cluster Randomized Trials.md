@@ -1,14 +1,30 @@
 ---
 title: Cluster Randomized Trials
+aliases: []
+summary: RCT 设计变体，随机化单位为学校/班级而非个体，教育 RCT 标准实践，以 MDES 作为研究精度指标（Pampaka et al., 2016）
 type: concept
-tags: [Cluster Randomized Trials, subject/research-methodology, level/k12]
-related_concepts: ["[[Randomised Controlled Trials]]", "[[Intent-to-Treat Analysis]]", "[[Effect Size]]", "[[Stable Unit Treatment Value Assumption (SUTVA)]]"]
-related_methods: ["[[Randomised Controlled Trials]]"]
-sources: ["sources/Pampaka_2016_IJRME.md", "sources/Berk_2011_ER.md"]
+tags:
+- Cluster Randomized Trials
+- subject/research-methodology
+- level/k12
+related_concepts:
+- '[[Randomised Controlled Trials]]'
+- '[[Intent-to-Treat Analysis]]'
+- '[[Effect Size]]'
+- '[[Stable Unit Treatment Value Assumption (SUTVA)]]'
+related_theories: []
+related_methods:
+- '[[Randomised Controlled Trials]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Pampaka_2016_IJRME]]'
+- '[[Berk_2011_ER]]'
 confidence: low
 status: draft
-created: 2026-05-02
-updated: 2026-05-03
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

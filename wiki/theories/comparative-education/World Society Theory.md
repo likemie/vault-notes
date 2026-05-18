@@ -1,19 +1,54 @@
 ---
 title: World Society Theory
-aliases: ["世界社会理论", "world polity theory", "世界政体理论", "Stanford school", "World Culture Theory", "世界文化理论", "world culture theory"]
+aliases:
+- 世界社会理论
+- world polity theory
+- 世界政体理论
+- Stanford school
+- World Culture Theory
+- 世界文化理论
+- world culture theory
+summary: Meyer et al. (1997) 的社会学理论（亦称 World Culture Theory / 斯坦福学派）：世界社会通过 otherhood（文化模型的扩散与模仿）建构和维持，解释全球学校模式趋同和大学在全球治理中的知识权威角色；LS 案例揭示其解释力局限
 type: theory
-tags: ["region/global", "paradigm/globalization", "subject/comparative-education"]
-related_concepts: ["[[Organizational Actorhood]]", "[[Otherhood]]", "[[Epistemic Governance]]", "[[Knowledge-Based Economy]]", "[[Policy Borrowing]]", "[[Geopolitics of Knowledge]]", "[[Membership-Creating Function of Education]]", "[[Liberal Studies (Hong Kong)]]", "[[Replacement of LS by CSD 2021]]"]
-related_theories: ["[[Nation Building through Education]]", "[[Institutional Isomorphism]]"]
+tags:
+- region/global
+- paradigm/globalization
+- subject/comparative-education
+related_concepts:
+- '[[Organizational Actorhood]]'
+- '[[Otherhood]]'
+- '[[Epistemic Governance]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Policy Borrowing]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Membership-Creating Function of Education]]'
+- '[[Liberal Studies (Hong Kong)]]'
+- '[[Replacement of LS by CSD 2021]]'
+related_theories:
+- '[[Nation Building through Education]]'
+- '[[Institutional Isomorphism]]'
 related_methods: []
-related_persons: ["[[John W. Meyer]]", "[[Francisco O. Ramirez]]", "[[Gita Steiner-Khamsi]]", "[[Robert Cowen]]"]
-related_facts: ["[[UN Sustainable Development Goals 2015]]"]
-related_arguments: ["[[Argument_Zapp_2022_Springer]]", "[[Argument_Parreira do Amaral_2022_Springer]]", "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]", "[[Argument_Amos_2022_Springer]]", "[[Argument_Yan_2025_JCS]]"]
-sources: ["[[Ch9_Zapp_2022]]", "[[Yan_2025_JCS]]", "[[Ch4_Amos_2022]]"]
+related_persons:
+- '[[John W. Meyer]]'
+- '[[Francisco O. Ramirez]]'
+- '[[Gita Steiner-Khamsi]]'
+- '[[Robert Cowen]]'
+related_facts:
+- '[[UN Sustainable Development Goals 2015]]'
+related_arguments:
+- '[[Argument_Zapp_2022_Springer]]'
+- '[[Argument_Parreira do Amaral_2022_Springer]]'
+- '[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]'
+- '[[Argument_Amos_2022_Springer]]'
+- '[[Argument_Yan_2025_JCS]]'
+sources:
+- '[[Ch9_Zapp_2022]]'
+- '[[Yan_2025_JCS]]'
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-11
-updated: 2026-05-18
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # World Society Theory

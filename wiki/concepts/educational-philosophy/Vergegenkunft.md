@@ -1,19 +1,27 @@
 ---
 title: Vergegenkunft
 aliases: []
+summary: Günther Grass 自创的文学原则：Vergangenheit/Gegenwart/Zukunft（过去/现在/未来）的合成词，表达时间的非线性纠缠，Amos (2022) 以此说明教育转型中过去-现在-未来的交织
 type: concept
-tags: [vergegenkunft, temporality, past-present-future, literature]
-related_concepts: ["[[Transitology]]"]
-related_persons: ["[[Robert Cowen]]"]
+tags:
+- vergegenkunft
+- temporality
+- past-present-future
+- literature
+related_concepts:
+- '[[Transitology]]'
 related_theories: []
 related_methods: []
+related_persons:
+- '[[Robert Cowen]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

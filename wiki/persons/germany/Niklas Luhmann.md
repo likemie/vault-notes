@@ -2,7 +2,7 @@
 title: Niklas Luhmann
 aliases:
 - Luhmann
-summary: Niklas Luhmann (1927–1998) 是德国社会学家，社会系统理论（Social Systems Theory）的创始人，20 世纪最具影响力的社会理论家之一。
+summary: 德国社会学家，社会系统理论创始人，提出盲点、结构耦合、社会/心理系统区分等概念
 type: person
 nationality: germany
 tags:

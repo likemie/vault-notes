@@ -1,16 +1,37 @@
 ---
 title: Tennessee STAR Project 1985-1989
+aliases: []
+summary: 被 Mosteller 称为"有史以来最重要的教育调查之一"的班级缩减 RCT，Wiliam (2019) 揭示其 RCT 外推的三重失败（非代表性、随机化破坏、教师质量混淆）
 type: fact
 subtype: event
-tags: [class-size-reduction, RCT, evidence-based-policy, Tennessee, region/us, level/k12]
-related_concepts: ["[[Programme Fidelity vs Adaptation]]", "[[Evidence-Based Education]]", "[[Class Size]]"]
-related_persons: ["[[Dylan Wiliam]]"]
-sources: ["sources/Wiliam_2019_ERE.md", "sources/Snook_2009_NZJES.md", "sources/Downey_2016_SoE.md"]
+region: us
+tags:
+- class-size-reduction
+- RCT
+- evidence-based-policy
+- Tennessee
+- region/us
+- level/k12
+related_concepts:
+- '[[Programme Fidelity vs Adaptation]]'
+- '[[Evidence-Based Education]]'
+- '[[Class Size]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Dylan Wiliam]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wiliam_2019_ERE]]'
+- '[[Snook_2009_NZJES]]'
+- '[[Downey_2016_SoE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-04
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
+
 ## 背景
 
 Student-Teacher Achievement Ratio (STAR) 项目是美国田纳西州于 1985 年至 1989 年进行的班级规模缩减随机对照试验。该研究被设计为满足 RCT 大多数要求（双盲除外）的大规模教育实验。（Wiliam, 2019, pp.5–6）

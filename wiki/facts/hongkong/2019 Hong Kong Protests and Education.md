@@ -1,16 +1,33 @@
 ---
 title: 2019 Hong Kong Protests and Education
+aliases: []
+summary: 2019 年反修例运动被定性为"国家安全危机"后，中国官媒将 LS 构建为年轻人参与抗议的"罪魁祸首"，触发课程替代
 type: fact
 subtype: event
-tags: [Hong-Kong, 2019-protests, National-Security-Law, Liberal-Studies, education-politics, region/china]
-related_concepts: ["[[Liberal Studies (Hong Kong)]]", "[[National Education in Hong Kong]]"]
-related_theories: ["[[Cuban's Curriculum Change Theory]]"]
-related_persons: ["[[Carrie Lam]]"]
-sources: ["sources/Yan_2025_JCS.md"]
+region: hongkong
+tags:
+- Hong-Kong
+- 2019-protests
+- National-Security-Law
+- Liberal-Studies
+- education-politics
+- region/china
+related_concepts:
+- '[[Liberal Studies (Hong Kong)]]'
+- '[[National Education in Hong Kong]]'
+related_theories:
+- '[[Cuban''s Curriculum Change Theory]]'
+related_methods: []
+related_persons:
+- '[[Carrie Lam]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Yan_2025_JCS]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 背景

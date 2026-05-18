@@ -1,15 +1,37 @@
 ---
 title: Atomisation of Knowledge and Skills
+aliases: []
+summary: 测量、问责和经济竞争逻辑下，教育内容被拆成可评估、可比较、可交易的小单位
 type: concept
-tags: [atomisation-of-knowledge, accountability, curriculum, measurement, paradigm/critical]
-related_theories: ["[[Phenomenology]]", "[[Critical Realism]]"]
-related_concepts: ["[[Phenomenon-Based Learning]]", "[[Bildung]]", "[[Didaktik]]", "[[Epochal Key Problems]]", "[[Performativity of Measurement]]", "[[Complexity Reduction]]", "[[Performance Indicators]]", "[[Finnish National Core Curriculum 2014]]", "[[SveaSus Project]]"]
+tags:
+- atomisation-of-knowledge
+- accountability
+- curriculum
+- measurement
+- paradigm/critical
+related_concepts:
+- '[[Phenomenon-Based Learning]]'
+- '[[Bildung]]'
+- '[[Didaktik]]'
+- '[[Epochal Key Problems]]'
+- '[[Performativity of Measurement]]'
+- '[[Complexity Reduction]]'
+- '[[Performance Indicators]]'
+- '[[Finnish National Core Curriculum 2014]]'
+- '[[SveaSus Project]]'
+related_theories:
+- '[[Phenomenology]]'
+- '[[Critical Realism]]'
+related_methods: []
 related_persons: []
-sources: ["sources/Schaffar_2024_CogentEdu.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Schaffar_2024_CogentEdu]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

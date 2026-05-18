@@ -3,7 +3,7 @@ title: Covariate Adjustment
 aliases:
 - 协变量控制
 - 协变量调整
-summary: 协变量控制（Covariate Adjustment）是在分析某一因素与结果之间关系时，把可能影响结果的第三变量纳入模型，以检验原有差异是否仍然存在。
+summary: 在模型中纳入第三变量重新估计效应；控制 SES 等协变量可能显著改变教学因素的效应量估计
 type: method
 method_type: quantitative
 tags:

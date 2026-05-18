@@ -1,41 +1,42 @@
 ---
 title: Cultural Disorientation
 aliases:
-  - 文化迷失
-  - cultural disorientation
+- 文化迷失
+- cultural disorientation
+summary: 郑雅君 (2023) 的概念：寒门学子升入名校后场域转换造成内在自我冲突和目标策略迷失，是文化障碍的第二重维度
 type: concept
 tags:
-  - cultural-disorientation
-  - higher-education
-  - inequality
-  - cultural-barrier
-  - identity
-  - region/china
-  - level/higher-ed
+- cultural-disorientation
+- higher-education
+- inequality
+- cultural-barrier
+- identity
+- region/china
+- level/higher-ed
 related_concepts:
-  - "[[Cultural Barrier in Higher Education]]"
-  - "[[Cultural Disembedding]]"
-  - "[[The Shock of the Elite]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Lost Mode]]"
-  - "[[Value Conformist Mode]]"
-  - "[[Habitus]]"
-  - "[[Cultural Capital]]"
-  - "[[Champ]]"
+- '[[Cultural Barrier in Higher Education]]'
+- '[[Cultural Disembedding]]'
+- '[[The Shock of the Elite]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Lost Mode]]'
+- '[[Value Conformist Mode]]'
+- '[[Habitus]]'
+- '[[Cultural Capital]]'
+- '[[Champ]]'
 related_theories:
-  - "[[Pierre Bourdieu]]"
-related_persons:
-  - "[[Yajun Zheng]]"
-  - "[[Clippings/Pierre Bourdieu]]"
+- '[[Pierre Bourdieu]]'
 related_methods: []
+related_persons:
+- '[[Yajun Zheng]]'
+- '[[Clippings/Pierre Bourdieu]]'
 related_facts: []
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-09
-updated: 2026-05-09
+created: '2026-05-09'
+updated: '2026-05-18'
 ---
 
 ## 定义

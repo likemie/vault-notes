@@ -2,7 +2,7 @@
 title: Roy Bhaskar
 aliases:
 - Bhaskar
-summary: Roy Bhaskar (1944–2014) 是英国哲学家，**批判实在论（Critical Realism）**的创始人。
+summary: 英国哲学家，批判实在论创始人，区分三层本体论和开放/封闭系统，为 Wrigley 的 EBE 方法论批判提供哲学基础
 type: person
 nationality: uk
 tags:

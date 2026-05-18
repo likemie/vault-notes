@@ -1,6 +1,6 @@
 ---
 title: Argument_Downey_2016_SoE
-summary: 学校既不是天然复制不平等，也不是天然抵消不平等，而是通过不同机制折射并重组社会差距。
+summary: 在 Coleman Report 50 周年重新审视学校与不平等的关系，提出折射框架调和批判视角与季节性比较证据，论证学校对 SES 认知差距是补偿性的
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,7 +32,6 @@ status: draft
 created: '2026-05-04'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

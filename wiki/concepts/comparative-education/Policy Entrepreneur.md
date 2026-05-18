@@ -1,16 +1,30 @@
 ---
 title: Policy Entrepreneur
+aliases: []
+summary: Mintrom (2000) 和 Ball (2012) 概念：在教育系统内外通过协作和网络化影响政策发展的行动者，John Hattie 为新西兰典型
 type: concept
-tags: [policy-entrepreneur, subject/curriculum, region/new-zealand, region/global]
-related_concepts: ["[[Network Governance]]", "[[Educational Management Organisation (EMO)]]", "[[Endogenous and Exogenous Privatisation]]"]
+tags:
+- policy-entrepreneur
+- subject/curriculum
+- region/new-zealand
+- region/global
+related_concepts:
+- '[[Network Governance]]'
+- '[[Educational Management Organisation (EMO)]]'
+- '[[Endogenous and Exogenous Privatisation]]'
 related_theories: []
-related_persons: ["[[John Hattie]]"]
-related_facts: ["[[Visible Learning Branding and Global Influences]]"]
-sources: ["sources/ONeill_2016_Report.md"]
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts:
+- '[[Visible Learning Branding and Global Influences]]'
+related_arguments: []
+sources:
+- '[[ONeill_2016_Report]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-05
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

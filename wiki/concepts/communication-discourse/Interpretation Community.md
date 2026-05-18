@@ -1,14 +1,23 @@
 ---
 title: Interpretation Community
+aliases: []
+summary: Stanley Fish (1980) 的解释社群理论：某种解释在社群中获得动量并从观点演变为广泛接受的事实，Qvortrup 用于分析丹麦 Hattie 批评现象
 type: concept
-tags: [interpretation-community, paradigm/interpretivist]
+tags:
+- interpretation-community
+- paradigm/interpretivist
+related_concepts: []
 related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/Qvortrup_2019_NordSTEP.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Qvortrup_2019_NordSTEP]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

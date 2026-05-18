@@ -1,6 +1,6 @@
 ---
 title: Argument_ONeill_2016_Report
-summary: 私营慈善、企业与政策创业者正重塑新西兰公立学校治理，其公共利益话语与私有化推进相互交缠。
+summary: 以 Thompson 网络治理理论为框架，通过六案例社会网络分析绘制新西兰公立教育私营部门参与全景图，揭示 John Hattie 政策创业与 VL 商业化轨迹，质疑 EMO 慈善捐赠比例与公共福利透明度
 type: argument
 subtype: report
 publication_type: report
@@ -31,7 +31,6 @@ status: draft
 created: '2026-05-04'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 报告试图绘制新西兰公立学校教育政策制定与交付中私营部门行动者参与的全景"草图"（preliminary sketch map），核心关注非营利慈善实体在公立学校中的角色，并评估这些新兴的公立学校慈善行动者在多大程度上受到公共福利、公共利益和利他主义的驱动（O'Neill et al., 2016, p.v）。

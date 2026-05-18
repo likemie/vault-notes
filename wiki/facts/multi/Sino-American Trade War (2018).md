@@ -1,20 +1,42 @@
 ---
 title: Sino-American Trade War (2018)
-aliases: ["中美贸易战", "中美贸易摩擦", "US-China Trade War"]
+aliases:
+- 中美贸易战
+- 中美贸易摩擦
+- US-China Trade War
+summary: 中美贸易与技术转移争端，Partaken (2022) 定位为 GPK"最好且最当下的经验案例
 type: fact
 subtype: event
-tags: ["region/china", "region/us", "geopolitics-of-knowledge", "trade", "technology-transfer"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Economic and Industrial Espionage]]", "[[Internationalization of Higher Education]]"]
+region: multi
+tags:
+- region/china
+- region/us
+- geopolitics-of-knowledge
+- trade
+- technology-transfer
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Transfer]]'
+- '[[Economic and Industrial Espionage]]'
+- '[[Internationalization of Higher Education]]'
 related_theories: []
 related_methods: []
-related_persons: ["[[Fazal Rizvi]]"]
-related_facts: ["[[US-China Economic and Security Review Commission (2000)]]", "[[Thousand Talents Program]]", "[[Great Firewall of China]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]", "[[Argument_Rizvi_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]", "[[Ch6_Rizvi_2022]]"]
+related_persons:
+- '[[Fazal Rizvi]]'
+related_facts:
+- '[[US-China Economic and Security Review Commission (2000)]]'
+- '[[Thousand Talents Program]]'
+- '[[Great Firewall of China]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+- '[[Argument_Rizvi_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
+- '[[Ch6_Rizvi_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-11
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Sino-American Trade War (2018)

@@ -4,7 +4,7 @@ aliases:
 - Castelo Branco
 - Richard Castelo Branco
 - Branco
-summary: Richard Castelo Branco 是巴西剧场导演，里约热内卢 Rocinha 贫民窟剧场团体"Bando Cultural Favelados da Rocinha"的导演。
+summary: 巴西剧场导演，Rocinha 贫民窟剧场团体"Bando Cultural Favelados da Rocinha"导演，开发抵抗认识论剧场方法 EspectAtor
 type: person
 nationality: global
 tags:

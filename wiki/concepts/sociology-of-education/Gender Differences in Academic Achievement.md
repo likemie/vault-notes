@@ -1,15 +1,36 @@
 ---
 title: Gender Differences in Academic Achievement
+aliases: []
+summary: 学业性别差异并非主要由性别直接决定，而是通过学校规范适应、学习动机与行为评价机制间接形成；挪威 4128 人样本显示女生在教师评定指标上整体更高
 type: concept
-tags: [gender, academic-achievement, subject/psychology, level/k12, region/norway]
-related_theories: ["[[Transactional Epistemology]]"]
-related_concepts: ["[[School Norm Adaptation]]", "[[Motivation and Work Effort]]", "[[Student-Teacher Relationship]]", "[[Classroom Learning Culture]]", "[[Learning-Impeding Behavior]]", "[[Self-control]]", "[[Assertiveness]]", "[[Academic Well-being and Interest in Learning]]"]
-related_methods: ["[[Observational and Correlational Research]]"]
-sources: ["sources/Lekhal_2015_Paideia.md"]
+tags:
+- gender
+- academic-achievement
+- subject/psychology
+- level/k12
+- region/norway
+related_concepts:
+- '[[School Norm Adaptation]]'
+- '[[Motivation and Work Effort]]'
+- '[[Student-Teacher Relationship]]'
+- '[[Classroom Learning Culture]]'
+- '[[Learning-Impeding Behavior]]'
+- '[[Self-control]]'
+- '[[Assertiveness]]'
+- '[[Academic Well-being and Interest in Learning]]'
+related_theories:
+- '[[Transactional Epistemology]]'
+related_methods:
+- '[[Observational and Correlational Research]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Lekhal_2015_Paideia]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,15 +1,32 @@
 ---
 title: Goldman's Discrimination Theory of Knowledge
+aliases: []
+summary: 知识要求区分真实状态与相关替代可能状态的能力，Wiliam (2019) 以此论证教育知识的局部性和临时性
 type: theory
-tags: [Goldman, discrimination-theory, epistemology, knowledge, justification, paradigm/analytic]
-related_concepts: ["[[Evidence-Based Education]]", "[[Validity as Inferences]]"]
-related_persons: ["[[Dylan Wiliam]]"]
-sources: ["sources/Wiliam_2019_ERE.md"]
+tags:
+- Goldman
+- discrimination-theory
+- epistemology
+- knowledge
+- justification
+- paradigm/analytic
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Validity as Inferences]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Dylan Wiliam]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wiliam_2019_ERE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
+
 ## 核心主张
 
 Goldman (1976) 提出，传统的"知识即被证成的真信念"（justified true belief, JTB）不足以判定某人是否真正知道某事。他主张知识要求个体能够**区分或辨别**（discriminate）某事物为真的状态与相关可能状态中该事物为假的状态。

@@ -1,16 +1,35 @@
 ---
 title: Improvement Science
+aliases: []
+summary: 源自组织研究（Langley et al., 2009）的教育研究替代范式，以系统视角、关注变异性、人类行动者中心和反馈循环为特征，Bryk et al. (2015) 将其引入美国教育
 type: concept
-tags: [improvement-science, evidence-based-education, networked-improvement, teacher-inquiry, implementation, paradigm/interpretivist]
-related_concepts: ["[[Evidence-Based Education]]", "[[Mechanism Experiments]]", "[[Black Box RCTs]]", "[[Spirals of Inquiry]]"]
+tags:
+- improvement-science
+- evidence-based-education
+- networked-improvement
+- teacher-inquiry
+- implementation
+- paradigm/interpretivist
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Mechanism Experiments]]'
+- '[[Black Box RCTs]]'
+- '[[Spirals of Inquiry]]'
 related_theories: []
-related_persons: ["[[Amelia Peterson]]", "[[Anthony Bryk]]", "[[Catherine Lewis]]"]
-related_methods: ["[[Randomised Controlled Trials]]"]
-sources: ["sources/Peterson_2016_IJRME.md"]
+related_methods:
+- '[[Randomised Controlled Trials]]'
+related_persons:
+- '[[Amelia Peterson]]'
+- '[[Anthony Bryk]]'
+- '[[Catherine Lewis]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Peterson_2016_IJRME]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

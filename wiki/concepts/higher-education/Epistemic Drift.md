@@ -1,19 +1,30 @@
 ---
 title: Epistemic Drift
-aliases: ["认识漂移", "知识漂移", "epistemic drift"]
+aliases:
+- 认识漂移
+- 知识漂移
+- epistemic drift
+summary: Elzinga (1997) 的概念、Zapp (2022) 引入高等教育研究：研究者将学术议程对齐资助方偏好的系统性漂移，是科学-政治关系三级恶化光谱中的第一级
 type: concept
-tags: ["region/global", "level/higher-ed"]
-related_concepts: ["[[Scientization of Politics]]", "[[Epistemic Governance]]", "[[Evidence-Based Education]]"]
+tags:
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Scientization of Politics]]'
+- '[[Epistemic Governance]]'
+- '[[Evidence-Based Education]]'
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Zapp_2022_Springer]]"]
-sources: ["[[Ch9_Zapp_2022]]"]
+related_arguments:
+- '[[Argument_Zapp_2022_Springer]]'
+sources:
+- '[[Ch9_Zapp_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-12
-updated: 2026-05-12
+created: '2026-05-12'
+updated: '2026-05-18'
 ---
 
 # Epistemic Drift

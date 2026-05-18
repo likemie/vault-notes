@@ -1,15 +1,33 @@
 ---
 title: Neo-Piagetian Theories
+aliases: []
+summary: 修正皮亚杰模型的新皮亚杰理论群：Pascual-Leone 的双层/M-power 模型、Case 的四子域模型、Fischer 的技能理论
 type: theory
-tags: [neo-piagetian, cognitive-development, constructivism, paradigm/constructivist, level/k12]
-related_concepts: ["[[executive-function]]", "[[working-memory]]"]
-related_persons: ["[[Juan Pascual-Leone]]", "[[Robbie Case]]", "[[Kurt Fischer]]", "[[Jean Piaget]]"]
-related_theories: ["[[piagets-theory-of-cognitive-development]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+tags:
+- neo-piagetian
+- cognitive-development
+- constructivism
+- paradigm/constructivist
+- level/k12
+related_concepts:
+- '[[executive-function]]'
+- '[[working-memory]]'
+related_theories:
+- '[[piagets-theory-of-cognitive-development]]'
+related_methods: []
+related_persons:
+- '[[Juan Pascual-Leone]]'
+- '[[Robbie Case]]'
+- '[[Kurt Fischer]]'
+- '[[Jean Piaget]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

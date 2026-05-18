@@ -2,7 +2,7 @@
 title: Ann Swidler
 aliases:
 - Swidler
-summary: 'Ann Swidler（安·斯威德勒），美国文化社会学家，以 1986 年在《美国社会学评论》（*American Sociological Review*）上发表的论文 *Culture in Action: Symbols and Strategies* 提出文化工具箱理论（Culture as Toolkit）而著称。'
+summary: 美国文化社会学家，文化工具箱理论（1986）创始人，区分稳定/不稳定生活状态中文化与行动的不同关系，郑雅君 (2023) 的核心理论支柱之一
 type: person
 nationality: us
 tags:

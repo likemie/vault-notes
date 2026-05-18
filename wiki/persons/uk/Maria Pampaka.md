@@ -2,7 +2,7 @@
 title: Maria Pampaka
 aliases:
 - Pampaka
-summary: 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究方法论、学习结果测量（包括态度、倾向和抱负等非成就性指标）、"什么有效"议程的批判性评估。
+summary: 曼彻斯特大学教育研究者，IJRME "什么有效"特刊编辑，识别 agency 分配为核心哲学分歧，关注学习者能动性和替代性学习结果测量
 type: person
 nationality: uk
 tags:

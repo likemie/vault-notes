@@ -1,20 +1,37 @@
 ---
 title: UN Sustainable Development Goals 2015
-aliases: ["联合国可持续发展目标", "SDGs", "2030 Agenda", "可持续发展目标"]
+aliases:
+- 联合国可持续发展目标
+- SDGs
+- 2030 Agenda
+- 可持续发展目标
+summary: 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的"新型第三使命
 type: fact
 subtype: policy
-tags: ["region/global", "level/higher-ed"]
-related_concepts: ["[[Epistemic Governance]]", "[[University Social Responsibility]]", "[[Organizational Actorhood]]", "[[Otherhood]]"]
-related_theories: ["[[World Society Theory]]"]
+region: global
+issuing_organization: ''
+tags:
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Epistemic Governance]]'
+- '[[University Social Responsibility]]'
+- '[[Organizational Actorhood]]'
+- '[[Otherhood]]'
+related_theories:
+- '[[World Society Theory]]'
 related_methods: []
 related_persons: []
-related_facts: ["[[THE Impact Ranking 2019]]"]
-related_arguments: ["[[Argument_Zapp_2022_Springer]]"]
-sources: ["[[Ch9_Zapp_2022]]"]
+related_facts:
+- '[[THE Impact Ranking 2019]]'
+related_arguments:
+- '[[Argument_Zapp_2022_Springer]]'
+sources:
+- '[[Ch9_Zapp_2022]]'
 confidence: high
 status: draft
-created: 2026-05-11
-updated: 2026-05-12
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # UN Sustainable Development Goals 2015

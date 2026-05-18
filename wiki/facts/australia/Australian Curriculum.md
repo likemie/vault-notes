@@ -1,14 +1,29 @@
 ---
 title: Australian Curriculum
+aliases: []
+summary: 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
 type: fact
 subtype: policy
-tags: [region/australia, level/k12, curriculum]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]"]
-sources: ["sources/Sarbiewska_2019_JSR.md"]
+region: australia
+issuing_organization: ''
+tags:
+- region/australia
+- level/k12
+- curriculum
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Sarbiewska_2019_JSR]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 背景

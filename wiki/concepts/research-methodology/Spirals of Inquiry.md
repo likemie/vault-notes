@@ -1,14 +1,29 @@
 ---
 title: Spirals of Inquiry
+aliases: []
+summary: Timperley, Halbert & Kaser (2014) 开发的教师探究循环模型（扫描→聚焦→直觉→学习→行动→检查），OECD (2015) 推广其支持创新学习系统规模化实施的能力
 type: concept
-tags: [spirals-of-inquiry, teacher-inquiry, improvement-science, professional-development, evidence-informed-practice]
-related_concepts: ["[[Improvement Science]]", "[[Evidence-Based Education]]"]
-related_persons: ["[[Amelia Peterson]]"]
-sources: ["sources/Peterson_2016_IJRME.md"]
+tags:
+- spirals-of-inquiry
+- teacher-inquiry
+- improvement-science
+- professional-development
+- evidence-informed-practice
+related_concepts:
+- '[[Improvement Science]]'
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Amelia Peterson]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Peterson_2016_IJRME]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

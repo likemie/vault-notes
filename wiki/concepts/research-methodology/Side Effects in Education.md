@@ -1,15 +1,33 @@
 ---
 title: Side Effects in Education
+aliases: []
+summary: Zhao (2017) 从医学引入教育研究的概念：教育干预的效果与副作用不可分离，教育研究系统性地忽视"什么有效可能同时有害
 type: concept
-tags: [side-effects, what-works, evidence-based-education, educational-policy, methodology]
-related_concepts: ["[[Evidence-Based Education]]", "[[Direct Instruction]]", "[[Randomised Controlled Trials]]", "[[Visible Learning]]", "[[Effect Size]]"]
-related_persons: ["[[Yong Zhao]]"]
-related_facts: ["[[No Child Left Behind Act 2001]]"]
-sources: ["sources/Zhao_2017_JEC.md"]
+tags:
+- side-effects
+- what-works
+- evidence-based-education
+- educational-policy
+- methodology
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Direct Instruction]]'
+- '[[Randomised Controlled Trials]]'
+- '[[Visible Learning]]'
+- '[[Effect Size]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Yong Zhao]]'
+related_facts:
+- '[[No Child Left Behind Act 2001]]'
+related_arguments: []
+sources:
+- '[[Zhao_2017_JEC]]'
 confidence: low
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

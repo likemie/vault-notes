@@ -1,30 +1,36 @@
 ---
 title: Doxa
-aliases: [自明真理, doxa]
+aliases:
+- 自明真理
+- doxa
+summary: Pierre Bourdieu 的概念：场域中视为理所当然的正统或常识，通过结构安排而非强制来合法化，Eacott (2011) 分析其对学校领导力培养的再生产性影响
 type: concept
 tags:
-  - doxa
-  - Bourdieu
-  - social-theory
-  - paradigm/critical
-  - region/france
+- doxa
+- Bourdieu
+- social-theory
+- paradigm/critical
+- region/france
 related_concepts:
-  - "[[Habitus]]"
-  - "[[Champ]]"
-  - "[[Cultural Capital]]"
-  - "[[Symbolic Violence]]"
+- '[[Habitus]]'
+- '[[Champ]]'
+- '[[Cultural Capital]]'
+- '[[Symbolic Violence]]'
 related_theories:
-  - "[[Pierre Bourdieu]]"
+- '[[Pierre Bourdieu]]'
+related_methods: []
 related_persons:
-  - "[[Clippings/Pierre Bourdieu]]"
+- '[[Clippings/Pierre Bourdieu]]'
+related_facts: []
+related_arguments: []
 sources:
-  - sources/Eacott_2011_JEAH.md
-  - sources/Eacott_2015_EPT.md
-  - "[[Pierre Bourdieu — Wikipédia]]"
+- '[[Eacott_2011_JEAH]]'
+- '[[Eacott_2015_EPT]]'
+- '[[Pierre Bourdieu — Wikipédia]]'
 confidence: medium
 status: draft
-created: 2026-05-09
-updated: 2026-05-09
+created: '2026-05-09'
+updated: '2026-05-18'
 ---
 
 # Doxa

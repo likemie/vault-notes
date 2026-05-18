@@ -1,20 +1,39 @@
 ---
 title: Horizon 2020 SSH Integration
 aliases: []
+summary: EU 2014–2020 年研究框架取消社会科学与人文学科独立资助渠道，作为横向议题嵌入所有优先领域
 type: fact
 subtype: policy
-tags: [horizon-2020, eu-research-policy, ssh, epistemic-governance, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Global Regionalisms in Higher Education]]", "[[Regulatory Regionalism]]", "[[Horizon Europe Missions]]"]
-related_theories: ["[[Decolonial Geopolitics of Knowledge]]", "[[Critical Geopolitics]]"]
-related_persons: ["[[Marcelo Parreira do Amaral]]"]
+region: eu
+issuing_organization: ''
+tags:
+- horizon-2020
+- eu-research-policy
+- ssh
+- epistemic-governance
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge-Based Economization]]'
+- '[[Global Regionalisms in Higher Education]]'
+- '[[Regulatory Regionalism]]'
+- '[[Horizon Europe Missions]]'
+related_theories:
+- '[[Decolonial Geopolitics of Knowledge]]'
+- '[[Critical Geopolitics]]'
 related_methods: []
+related_persons:
+- '[[Marcelo Parreira do Amaral]]'
 related_facts: []
 related_arguments: []
-sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
+sources:
+- '[[Parreira do Amaral(Ed.)_2022_Springer]]'
+- '[[Ch3_Parreira do Amaral_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 背景

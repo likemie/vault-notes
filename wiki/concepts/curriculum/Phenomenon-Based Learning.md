@@ -1,15 +1,36 @@
 ---
 title: Phenomenon-Based Learning
+aliases: []
+summary: 芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任
 type: concept
-tags: [phenomenon-based-learning, subject/curriculum, subject/instruction, region/finland, level/k12]
-related_theories: ["[[Phenomenology]]", "[[Radical Constructivism]]"]
-related_concepts: ["[[Bildung]]", "[[Didaktik]]", "[[Epochal Key Problems]]", "[[Problem-Based Learning]]", "[[Atomisation of Knowledge and Skills]]", "[[Finnish National Core Curriculum 2014]]", "[[SveaSus Project]]"]
-related_persons: ["[[Wolfgang Klafki]]"]
-sources: ["sources/Schaffar_2024_CogentEdu.md"]
+tags:
+- phenomenon-based-learning
+- subject/curriculum
+- subject/instruction
+- region/finland
+- level/k12
+related_concepts:
+- '[[Bildung]]'
+- '[[Didaktik]]'
+- '[[Epochal Key Problems]]'
+- '[[Problem-Based Learning]]'
+- '[[Atomisation of Knowledge and Skills]]'
+- '[[Finnish National Core Curriculum 2014]]'
+- '[[SveaSus Project]]'
+related_theories:
+- '[[Phenomenology]]'
+- '[[Radical Constructivism]]'
+related_methods: []
+related_persons:
+- '[[Wolfgang Klafki]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Schaffar_2024_CogentEdu]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,19 +1,46 @@
 ---
 title: Internationalization of Higher Education
-aliases: ["高等教育国际化", "internationalisation of higher education", "international education"]
+aliases:
+- 高等教育国际化
+- internationalisation of higher education
+- international education
+summary: Rizvi 的分析焦点：高等教育国际化的理性已从发展主义转向市场逻辑，亚洲崛起和 COVID-19 为关键转折点
 type: concept
-tags: ["internationalization", "higher-education", "geopolitics", "region/global", "level/higher-ed"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Transnational Research Collaboration in Higher Education]]", "[[International Education Hubs]]", "[[Knowledge-Based Economy]]", "[[Endogenous and Exogenous Privatisation]]", "[[New Public Management in Education]]", "[[Knowledge Capitalism]]", "[[Orientalism]]", "[[International Education]]"]
-related_theories: ["[[Critical Geopolitics]]", "[[Network Society]]"]
+tags:
+- internationalization
+- higher-education
+- geopolitics
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Transnational Research Collaboration in Higher Education]]'
+- '[[International Education Hubs]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Endogenous and Exogenous Privatisation]]'
+- '[[New Public Management in Education]]'
+- '[[Knowledge Capitalism]]'
+- '[[Orientalism]]'
+- '[[International Education]]'
+related_theories:
+- '[[Critical Geopolitics]]'
+- '[[Network Society]]'
 related_methods: []
-related_persons: ["[[Fazal Rizvi]]"]
-related_facts: ["[[GATS and Trade in Education Services]]", "[[Australia in the Asian Century White Paper 2012]]"]
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]", "[[Argument_Marginson_2025_ROE]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md", "[[Marginson_2025_ROE]]"]
+related_persons:
+- '[[Fazal Rizvi]]'
+related_facts:
+- '[[GATS and Trade in Education Services]]'
+- '[[Australia in the Asian Century White Paper 2012]]'
+related_arguments:
+- '[[Argument_Rizvi_2022_Springer]]'
+- '[[Argument_Marginson_2025_ROE]]'
+sources:
+- '[[Ch6_Rizvi_2022]]'
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-12
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Internationalization of Higher Education

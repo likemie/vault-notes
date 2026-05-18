@@ -1,16 +1,30 @@
 ---
 title: Multiplicity (Massey)
-aliases: [多重性, multiplicity]
+aliases:
+- 多重性
+- multiplicity
+summary: Doreen Massey (2005) 的空间理论核心概念：空间中差异的共存，多重轨迹交汇产生不可预测性，"总是有松散的末端"意味着任何权力系统都无法永久固定
 type: concept
-tags: [theme/spatiality, region/global, level/higher-ed]
-related_concepts: ["[[Space-Making in Higher Education]]", "[[Methodological Nationalism]]", "[[Classical Geopolitics]]"]
+tags:
+- theme/spatiality
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Space-Making in Higher Education]]'
+- '[[Methodological Nationalism]]'
+- '[[Classical Geopolitics]]'
 related_theories: []
-related_persons: ["[[Doreen Massey]]"]
-sources: ["[[Marginson_2025_ROE]]"]
+related_methods: []
+related_persons:
+- '[[Doreen Massey]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-12
-updated: 2026-05-12
+created: '2026-05-12'
+updated: '2026-05-18'
 ---
 
 # Multiplicity (Massey)

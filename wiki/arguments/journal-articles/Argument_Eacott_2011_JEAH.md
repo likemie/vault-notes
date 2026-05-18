@@ -1,6 +1,6 @@
 ---
 title: Argument_Eacott_2011_JEAH
-summary: 管理主义时代的校长培养把教育领导者塑造成国家改革的执行者，压缩了教育争辩与公共判断空间。
+summary: 以 Bourdieu 场域/习性/doxa 框架分析 NSW 校长培养，论证其将校长建构为"国家改革的交付者"，提出基于"教育问题提出与争辩"的替代性领导习性
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -37,7 +37,6 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
-
 
 # Argument_Eacott_2011_JEAH
 

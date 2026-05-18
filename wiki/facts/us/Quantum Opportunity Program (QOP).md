@@ -1,14 +1,34 @@
 ---
 title: Quantum Opportunity Program (QOP)
+aliases: []
+summary: Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP 与 Eisenhower QOP 两个项目版本
 type: fact
-subtype: educational-program-case
-tags: [Quantum-Opportunity-Program, QOP, Eisenhower-QOP, educational-program, clearinghouse-rating-case, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[What Works Clearinghouse (WWC)]]", "[[Blueprints for Healthy Youth Development]]", "[[National Dropout Prevention Center (NDPC)]]", "[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]"]
-sources: ["sources/Wadhwa_2024_RER.md"]
+subtype: event
+region: us
+tags:
+- Quantum-Opportunity-Program
+- QOP
+- Eisenhower-QOP
+- educational-program
+- clearinghouse-rating-case
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[What Works Clearinghouse (WWC)]]'
+- '[[Blueprints for Healthy Youth Development]]'
+- '[[National Dropout Prevention Center (NDPC)]]'
+- '[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

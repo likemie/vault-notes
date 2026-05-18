@@ -1,16 +1,39 @@
 ---
 title: Self-Driven Mode
-aliases: [自主驱动者, self-driven actor, 自主驱动]
+aliases:
+- 自主驱动者
+- self-driven actor
+- 自主驱动
+summary: 郑雅君 (2023) 的类型：目标掌控模式+强价值信念=自主驱动者，既有策略能力又有深层意义感支撑，自主设定精英生涯目标
 type: concept
-tags: [self-driven-mode, higher-education, career-development, region/china, level/higher-ed]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Opportunist Mode]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Work Meaning Schemas (Zheng)]]", "[[Self-Authorship]]"]
-related_theories: ["[[Culture as Toolkit]]"]
-related_persons: ["[[Yajun Zheng]]", "[[Marcia Baxter Magolda]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- self-driven-mode
+- higher-education
+- career-development
+- region/china
+- level/higher-ed
+related_concepts:
+- '[[Goal-Controlled Mode]]'
+- '[[Opportunist Mode]]'
+- '[[Lost Mode]]'
+- '[[Value Conformist Mode]]'
+- '[[Graduation Pathway Typology (Zheng)]]'
+- '[[Work Meaning Schemas (Zheng)]]'
+- '[[Self-Authorship]]'
+related_theories:
+- '[[Culture as Toolkit]]'
+related_methods: []
+related_persons:
+- '[[Yajun Zheng]]'
+- '[[Marcia Baxter Magolda]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-09
-updated: 2026-05-09
+created: '2026-05-09'
+updated: '2026-05-18'
 ---
 
 ## 定义

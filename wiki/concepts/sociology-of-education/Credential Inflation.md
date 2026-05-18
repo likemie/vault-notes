@@ -1,17 +1,37 @@
 ---
 title: Credential Inflation
-aliases: [文凭通货膨胀, credential inflation, 文凭通胀, 学历贬值]
+aliases:
+- 文凭通货膨胀
+- credential inflation
+- 文凭通胀
+- 学历贬值
+summary: Randall Collins (1979) 的概念：大学文凭作为交换职业地位的通货在市场上发生萎缩，中国扩招后从 84.8 万（1999）升至 753.3 万毕业生（2018）
 type: concept
-tags: [credential-inflation, higher-education, social-stratification, level/higher-ed]
-related_concepts: ["[[Economy of Experience]]", "[[Employability]]", "[[Champ]]", "[[Recommendation-Based Graduate Admission System]]"]
-related_theories: ["[[Dual Elite Career Paths]]"]
-related_persons: ["[[Randall Collins]]", "[[Phillip Brown]]"]
-related_facts: ["[[China College Graduate Employment Reform 1986-1997]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- credential-inflation
+- higher-education
+- social-stratification
+- level/higher-ed
+related_concepts:
+- '[[Economy of Experience]]'
+- '[[Employability]]'
+- '[[Champ]]'
+- '[[Recommendation-Based Graduate Admission System]]'
+related_theories:
+- '[[Dual Elite Career Paths]]'
+related_methods: []
+related_persons:
+- '[[Randall Collins]]'
+- '[[Phillip Brown]]'
+related_facts:
+- '[[China College Graduate Employment Reform 1986-1997]]'
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Credential Inflation

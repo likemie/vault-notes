@@ -1,19 +1,36 @@
 ---
 title: Spatial Sortings
 aliases: []
+summary: Moisio (2022) 的概念：知识密集型资本主义系统性地将地点和人口划分为"赢家"与"输家"的过程，由公共和私人投资驱动、国家中介
 type: concept
-tags: [spatial-sortings, knowledge-based-economization, spatial-inequality, urbanization, region/global]
-related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge-Based Economy]]", "[[Geopolitical Subject]]", "[[Economic Patriotism]]", "[[Progressive Neoliberalism]]"]
-related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
-related_persons: ["[[Sami Moisio]]"]
+tags:
+- spatial-sortings
+- knowledge-based-economization
+- spatial-inequality
+- urbanization
+- region/global
+related_concepts:
+- '[[Knowledge-Based Economization]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Hub and Flow Imaginaries]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Geopolitical Subject]]'
+- '[[Economic Patriotism]]'
+- '[[Progressive Neoliberalism]]'
+related_theories:
+- '[[Fixity-Motion Tension]]'
+- '[[Critical Geopolitics]]'
 related_methods: []
+related_persons:
+- '[[Sami Moisio]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
+sources:
+- '[[Ch2_Moisio_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

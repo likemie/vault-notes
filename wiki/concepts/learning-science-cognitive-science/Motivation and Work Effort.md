@@ -1,14 +1,35 @@
 ---
 title: Motivation and Work Effort
+aliases: []
+summary: 学生在校学习成功动机与努力投入水平；在分性别回归中对成绩具有最高或接近最高的解释力
 type: concept
-tags: [motivation, work-effort, student-engagement, gender, subject/instruction-pedagogy, level/k12, region/norway]
-related_concepts: ["[[School Norm Adaptation]]", "[[Gender Differences in Academic Achievement]]", "[[Learning-Impeding Behavior]]", "[[Student-Teacher Relationship]]", "[[Classroom Learning Culture]]", "[[Academic Well-being and Interest in Learning]]"]
-related_methods: ["[[Observational and Correlational Research]]"]
-sources: ["sources/Lekhal_2015_Paideia.md"]
+tags:
+- motivation
+- work-effort
+- student-engagement
+- gender
+- subject/instruction-pedagogy
+- level/k12
+- region/norway
+related_concepts:
+- '[[School Norm Adaptation]]'
+- '[[Gender Differences in Academic Achievement]]'
+- '[[Learning-Impeding Behavior]]'
+- '[[Student-Teacher Relationship]]'
+- '[[Classroom Learning Culture]]'
+- '[[Academic Well-being and Interest in Learning]]'
+related_theories: []
+related_methods:
+- '[[Observational and Correlational Research]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Lekhal_2015_Paideia]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

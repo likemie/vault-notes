@@ -1,16 +1,32 @@
 ---
 title: Playing for Success
+aliases: []
+summary: 英国在足球俱乐部场地设立的学习支持中心项目，Wrigley & McCusker (2019) 揭示元-元分析程序缺陷的关键案例
 type: fact
 subtype: event
-tags: [Playing-for-Success, sports-participation, study-support, football-clubs, out-of-school-learning, region/uk, level/k12]
-related_concepts: ["[[Evidence-Based Education]]", "[[Effect Size]]"]
+region: uk
+tags:
+- Playing-for-Success
+- sports-participation
+- study-support
+- football-clubs
+- out-of-school-learning
+- region/uk
+- level/k12
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Effect Size]]'
 related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/Wrigley_2019_ERE.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wrigley_2019_ERE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 背景

@@ -1,20 +1,31 @@
 ---
 title: Symposium on International Teaching 2007
-aliases: [国际教学研讨会2007]
+aliases:
+- 国际教学研讨会2007
+summary: 2007 年 3 月 21 日香港大学文学院主办的学术会议，促进中小学与大学教育者关于中国学习者的对话，直接催生了 Ryan & Slethaug (2010) 论文集
 type: fact
 subtype: event
-tags: [region/hongkong, level/k12, level/higher-ed]
-related_concepts: ["[[International Education]]", "[[Chinese Learner]]"]
+region: hongkong
+tags:
+- region/hongkong
+- level/k12
+- level/higher-ed
+related_concepts:
+- '[[International Education]]'
+- '[[Chinese Learner]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[English Schools Foundation Hong Kong]]"]
-related_arguments: ["[[Argument_Ryan_2010_HKUP]]"]
-sources: ["[[Ryan(Ed.)_2010_HKUP]]"]
+related_facts:
+- '[[English Schools Foundation Hong Kong]]'
+related_arguments:
+- '[[Argument_Ryan_2010_HKUP]]'
+sources:
+- '[[Ryan(Ed.)_2010_HKUP]]'
 confidence: medium
 status: draft
-created: 2026-05-16
-updated: 2026-05-17
+created: '2026-05-16'
+updated: '2026-05-18'
 ---
 
 # Symposium on International Teaching 2007

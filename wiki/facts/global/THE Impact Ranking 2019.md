@@ -1,20 +1,35 @@
 ---
 title: THE Impact Ranking 2019
-aliases: ["THE世界大学影响力排名", "Times Higher Education Impact Ranking", "THE SDG ranking"]
+aliases:
+- THE世界大学影响力排名
+- Times Higher Education Impact Ranking
+- THE SDG ranking
+summary: 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
 type: fact
 subtype: policy
-tags: ["region/global", "level/higher-ed"]
-related_concepts: ["[[Global Universities Rankings]]", "[[University Social Responsibility]]", "[[Organizational Actorhood]]"]
+region: global
+issuing_organization: ''
+tags:
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Global Universities Rankings]]'
+- '[[University Social Responsibility]]'
+- '[[Organizational Actorhood]]'
 related_theories: []
 related_methods: []
-related_persons: ["[[Ellen Hazelkorn]]"]
-related_facts: ["[[UN Sustainable Development Goals 2015]]"]
-related_arguments: ["[[Argument_Zapp_2022_Springer]]"]
-sources: ["[[Ch9_Zapp_2022]]"]
+related_persons:
+- '[[Ellen Hazelkorn]]'
+related_facts:
+- '[[UN Sustainable Development Goals 2015]]'
+related_arguments:
+- '[[Argument_Zapp_2022_Springer]]'
+sources:
+- '[[Ch9_Zapp_2022]]'
 confidence: high
 status: draft
-created: 2026-05-11
-updated: 2026-05-12
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # THE Impact Ranking 2019

@@ -4,7 +4,7 @@ aliases:
 - Mignolo
 - Walter D. Mignolo
 - 米尼奥洛
-summary: Walter D. Mignolo（1941–）是阿根廷裔美国符号学家、文学理论家和去殖民思想家。
+summary: 杜克大学文学与文化研究教授（阿根廷裔），去殖民理论奠基人，提出知识地缘政治、殖民差异、殖民性、边界思维和认识论不服从概念，其思想被 Delambre 定位为 Creative Tension of Sense 理论的核心对话对象
 type: person
 nationality: global
 tags:

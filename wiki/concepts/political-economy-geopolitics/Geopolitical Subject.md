@@ -1,19 +1,40 @@
 ---
 title: Geopolitical Subject
-aliases: ["地缘政治主体", "geopolitical subject", "geopolitical subjects"]
+aliases:
+- 地缘政治主体
+- geopolitical subject
+- geopolitical subjects
+summary: Moisio (2022) 的概念：从政治权力角度被装备上特定技能、行为、取向和空间心态的人形集合，在高等教育空间中被形塑以服务于全球竞争
 type: concept
-tags: [geopolitical-subject, knowledge-based-economization, subject-formation, region/global, level/higher-ed]
-related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Corporate Education]]"]
-related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
-related_persons: ["[[Sami Moisio]]"]
+tags:
+- geopolitical-subject
+- knowledge-based-economization
+- subject-formation
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Knowledge-Based Economization]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Hub and Flow Imaginaries]]'
+- '[[Spatial Sortings]]'
+- '[[Corporate Education]]'
+related_theories:
+- '[[Fixity-Motion Tension]]'
+- '[[Critical Geopolitics]]'
 related_methods: []
+related_persons:
+- '[[Sami Moisio]]'
 related_facts: []
-related_arguments: ["[[Argument_Hartmann_2022_CorporateEducation]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022.md"]
+related_arguments:
+- '[[Argument_Hartmann_2022_CorporateEducation]]'
+sources:
+- '[[Ch2_Moisio_2022]]'
+- '[[Ch11_Hartmann_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

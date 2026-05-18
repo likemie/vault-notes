@@ -2,7 +2,7 @@
 title: Thomas Aastrup Rømer
 aliases:
 - Rømer
-summary: Thomas Aastrup Rømer，丹麦奥胡斯大学（Aarhus University）教育哲学副教授、博士，研究方向为教育理论。
+summary: 奥胡斯大学教育哲学副教授，以对 Hattie VL 的五线哲学批判著称，提出"纯粹评价"概念
 type: person
 nationality: global
 tags:

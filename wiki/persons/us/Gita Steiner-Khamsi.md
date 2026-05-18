@@ -2,7 +2,7 @@
 title: Gita Steiner-Khamsi
 aliases:
 - Steiner-Khamsi
-summary: Gita Steiner-Khamsi 是比较教育和国际教育政策研究领域的领军学者，专注于教育政策转移（educational transfer）的政治维度。
+summary: 哥伦比亚大学教师学院比较教育学者，政策借用与借出政治分析领军人物，强调关注转移的能动者和受益者
 type: person
 nationality: us
 tags:

@@ -3,7 +3,7 @@ title: Cognitive Task Analysis
 aliases:
 - 认知任务分析
 - CTA
-summary: 认知任务分析（Cognitive Task Analysis, CTA）是一种针对复杂学习情境的研究与教学方法，要求高水平的思维和决策能力。
+summary: 针对复杂学习情境的研究与教学方法，分析专家认知过程和知识结构，强调教师激活而非促进
 type: method
 method_type: qualitative
 tags:

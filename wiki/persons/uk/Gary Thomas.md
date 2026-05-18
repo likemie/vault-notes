@@ -2,7 +2,7 @@
 title: Gary Thomas
 aliases:
 - Thomas
-summary: Gary Thomas 是英国伯明翰大学（University of Birmingham）教育与社会包容教授，以其对实验方法和 RCT 在教育研究中的"黄金标准"地位的批判而知名。
+summary: 伯明翰大学教育教授，提出"民间科学观"概念和"最佳解释推理"框架，系统批判 RCT 作为教育研究黄金标准
 type: person
 nationality: uk
 tags:

@@ -1,19 +1,32 @@
 ---
 title: Life Power
-aliases: ["Lebenskraft", "生命力量", "life power"]
+aliases:
+- Lebenskraft
+- 生命力量
+- life power
+summary: Dell Delambre 的概念（Lebenskraft）：在新旧张力中为存在赋予意义的实践性再定位能力，通过 Ganz-Methode 的第二步被识别和发现
 type: concept
-tags: ["region/brazil", "region/global"]
-related_concepts: ["[[Ganz-Methode]]", "[[Tense Society]]", "[[Whole Sustainability]]"]
-related_theories: ["[[Creative Tension of Sense]]"]
+tags:
+- region/brazil
+- region/global
+related_concepts:
+- '[[Ganz-Methode]]'
+- '[[Tense Society]]'
+- '[[Whole Sustainability]]'
+related_theories:
+- '[[Creative Tension of Sense]]'
 related_methods: []
-related_persons: ["[[Dell Delambre]]"]
+related_persons:
+- '[[Dell Delambre]]'
 related_facts: []
-related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
-sources: ["[[Ch7_Delambre_2022]]"]
+related_arguments:
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch7_Delambre_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Life Power

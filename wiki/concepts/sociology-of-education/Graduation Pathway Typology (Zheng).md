@@ -1,37 +1,41 @@
 ---
 title: Graduation Pathway Typology (Zheng)
 aliases:
-  - 毕业出路产生机制四分类
-  - 2×2四分类模型
-  - 出路分化四类型
+- 毕业出路产生机制四分类
+- 2×2四分类模型
+- 出路分化四类型
+summary: 郑雅君 (2023) 的毕业出路产生机制2×2四分类模型：以目的-手段行动力为纵轴、价值信念驱动力为横轴，划分自主驱动者/机会主义者/迷失无从者/价值归顺者四种类型
 type: concept
 tags:
-  - graduation-pathway
-  - higher-education
-  - social-stratification
-  - region/china
-  - level/higher-ed
+- graduation-pathway
+- higher-education
+- social-stratification
+- region/china
+- level/higher-ed
 related_concepts:
-  - "[[Goal-Controlled Mode]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Work Meaning Schemas (Zheng)]]"
-  - "[[Self-Driven Mode]]"
-  - "[[Opportunist Mode]]"
-  - "[[Lost Mode]]"
-  - "[[Value Conformist Mode]]"
-  - "[[Cultural Barrier in Higher Education]]"
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Work Meaning Schemas (Zheng)]]'
+- '[[Self-Driven Mode]]'
+- '[[Opportunist Mode]]'
+- '[[Lost Mode]]'
+- '[[Value Conformist Mode]]'
+- '[[Cultural Barrier in Higher Education]]'
 related_theories:
-  - "[[Culture as Toolkit]]"
-  - "[[Dual Elite Career Paths]]"
+- '[[Culture as Toolkit]]'
+- '[[Dual Elite Career Paths]]'
+related_methods: []
 related_persons:
-  - "[[Yajun Zheng]]"
-  - "[[Max Weber]]"
+- '[[Yajun Zheng]]'
+- '[[Max Weber]]'
+related_facts: []
+related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-09
-updated: 2026-05-09
+created: '2026-05-09'
+updated: '2026-05-18'
 ---
 
 ## 定义

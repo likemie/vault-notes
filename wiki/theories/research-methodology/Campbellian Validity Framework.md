@@ -1,15 +1,35 @@
 ---
 title: Campbellian Validity Framework
+aliases: []
+summary: Shadish, Cook & Campbell (2002) 的实验效度理论：因果推断需通过排除内部效度威胁建立因果关系，再评估跨情境/人群/测量的外部效度，Hitchcock et al. (2015) 应用于 SCD 审查程序
 type: theory
-tags: [Campbellian-validity, internal-validity, external-validity, experimental-design, causal-inference, research-methodology]
-related_concepts: ["[[Single-Case Design (SCD)]]", "[[Gating Procedure]]", "[[Evidence-Based Education]]", "[[Educational Evidence Clearinghouses]]", "[[5-3-20 Rule]]"]
+tags:
+- Campbellian-validity
+- internal-validity
+- external-validity
+- experimental-design
+- causal-inference
+- research-methodology
+related_concepts:
+- '[[Single-Case Design (SCD)]]'
+- '[[Gating Procedure]]'
+- '[[Evidence-Based Education]]'
+- '[[Educational Evidence Clearinghouses]]'
+- '[[5-3-20 Rule]]'
+related_theories: []
+related_methods:
+- '[[Single-Case Design (SCD)]]'
+- '[[Randomised Controlled Trials]]'
 related_persons: []
-related_methods: ["[[Single-Case Design (SCD)]]", "[[Randomised Controlled Trials]]"]
-sources: ["sources/Hitchcock_2015_JBE.md", "sources/Wadhwa_2024_RER.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Hitchcock_2015_JBE]]'
+- '[[Wadhwa_2024_RER]]'
 confidence: low
 status: draft
-created: 2026-05-02
-updated: 2026-05-05
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

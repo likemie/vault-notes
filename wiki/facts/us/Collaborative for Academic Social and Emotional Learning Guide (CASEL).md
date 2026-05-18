@@ -1,15 +1,32 @@
 ---
 title: Collaborative for Academic Social and Emotional Learning Guide (CASEL)
+aliases: []
+summary: 聚焦社会情感学习项目的非营利教育清算中心，Wadhwa et al. (2024) 样本中贡献 25 个项目
 type: fact
-subtype: institution
-tags: [CASEL, educational-evidence-clearinghouse, evidence-based-education, social-emotional-learning, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]", "[[What Works Clearinghouse (WWC)]]"]
+subtype: event
+region: us
+tags:
+- CASEL
+- educational-evidence-clearinghouse
+- evidence-based-education
+- social-emotional-learning
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
+- '[[What Works Clearinghouse (WWC)]]'
 related_theories: []
-sources: ["sources/Wadhwa_2024_RER.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

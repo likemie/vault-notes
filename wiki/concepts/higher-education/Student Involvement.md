@@ -1,15 +1,34 @@
 ---
 title: Student Involvement
-aliases: [学生涉入, student involvement, Astin 涉入理论]
+aliases:
+- 学生涉入
+- student involvement
+- Astin 涉入理论
+summary: Alexander Astin (1984) 的概念：学生投入的生理和心理能量的数量和质量，五条涉入公理为 Kuh 学生投入理论的前身
 type: concept
-tags: [student-involvement, higher-education, student-development, level/higher-ed]
-related_concepts: ["[[Student Engagement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Academic and Social Integration]]"]
-related_persons: ["[[Alexander Astin]]", "[[George Kuh]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- student-involvement
+- higher-education
+- student-development
+- level/higher-ed
+related_concepts:
+- '[[Student Engagement]]'
+- '[[Academic Engagement]]'
+- '[[Social Engagement]]'
+- '[[Academic and Social Integration]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Alexander Astin]]'
+- '[[George Kuh]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Student Involvement

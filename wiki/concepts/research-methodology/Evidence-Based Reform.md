@@ -1,15 +1,45 @@
 ---
 title: Evidence-Based Reform
+aliases: []
+summary: Slavin (2002) 提出、(2017/2019/2021) 完善的教育政策框架：以实验有效性证据作为选择项目和产品的核心标准，依赖开发-评估-推广范式和政府拨款激励实现良性循环，Slavin et al. (2021) 首次进行中美英国际比较并记录中国证据本位研究的制度化发展，Cheung & Xie (2021) 以 Editorial 汇集七国八篇文章呈现全球全景
 type: concept
-tags: [evidence-based-reform, evidence-based-education, ESSA, policy, RCT, paradigm/positivist, region/us, region/uk]
-related_concepts: ["[[Evidence-Based Education]]", "[[Educational Evidence Clearinghouses]]", "[[ECNU Declaration on Evidence-Based Research 2017]]", "[[Best Evidence in Brief (BEiB)]]"]
+tags:
+- evidence-based-reform
+- evidence-based-education
+- ESSA
+- policy
+- RCT
+- paradigm/positivist
+- region/us
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Educational Evidence Clearinghouses]]'
+- '[[ECNU Declaration on Evidence-Based Research 2017]]'
+- '[[Best Evidence in Brief (BEiB)]]'
 related_theories: []
-related_persons: ["[[Robert Slavin]]", "[[Terry Wrigley]]", "[[Grover Whitehurst]]", "[[Amelia Peterson]]", "[[Alan C. K. Cheung]]", "[[Tengteng Zhuang]]"]
-sources: ["sources/Slavin_2002_ER.md", "sources/Slavin_2019_EP.md", "sources/Wrigley_2018_BERJ.md", "sources/Peterson_2016_IJRME.md", "sources/Slavin_2021_ROE.md", "sources/Cheung_2021_ROE.md", "sources/Wadhwa_2024_RER.md"]
+related_methods: []
+related_persons:
+- '[[Robert Slavin]]'
+- '[[Terry Wrigley]]'
+- '[[Grover Whitehurst]]'
+- '[[Amelia Peterson]]'
+- '[[Alan C. K. Cheung]]'
+- '[[Tengteng Zhuang]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Slavin_2002_ER]]'
+- '[[Slavin_2019_EP]]'
+- '[[Wrigley_2018_BERJ]]'
+- '[[Peterson_2016_IJRME]]'
+- '[[Slavin_2021_ROE]]'
+- '[[Cheung_2021_ROE]]'
+- '[[Wadhwa_2024_RER]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-05
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

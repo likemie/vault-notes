@@ -1,6 +1,6 @@
 ---
 title: Argument_Kraft_2023_ER
-summary: 教育干预常常失败这一事实比任何平均效应量基准都更重要，因为学校改革发生在高度复杂且受约束的系统中。
+summary: 回应 Simpson 对效应量基准的批评，以 3,426 个教育干预 RCT 效应量显示 36% 小于 0.05，主张"教育干预经常失败"才是解释政策相关性的核心基准
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -29,7 +29,6 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

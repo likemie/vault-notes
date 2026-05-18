@@ -2,7 +2,7 @@
 title: Steen Nepper Larsen
 aliases:
 - Larsen
-summary: Steen Nepper Larsen 是丹麦奥胡斯大学（Aarhus University）丹麦教育学院（Danish School of Education）的教育哲学学者。
+summary: 奥胡斯大学教育哲学学者，以 Bildung 复兴和具身化-扩展辩证法对 Hattie VL 的系统哲学批判著称
 type: person
 nationality: global
 tags:

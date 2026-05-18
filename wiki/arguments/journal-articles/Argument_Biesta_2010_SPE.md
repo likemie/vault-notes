@@ -1,6 +1,6 @@
 ---
 title: Argument_Biesta_2010_SPE
-summary: 教育决策无法由“what works”直接导出，因为教育首先是价值判断问题，而非纯粹技术效果问题。
+summary: 从认识论、存在论、实践论三维度识别证据本位教育的三重缺陷（知识缺陷、效力缺陷、应用缺陷），提出价值本位教育作为替代
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -36,7 +36,6 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

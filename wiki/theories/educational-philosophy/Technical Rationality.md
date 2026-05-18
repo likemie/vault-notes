@@ -1,15 +1,35 @@
 ---
 title: Technical Rationality
+aliases: []
+summary: Schön (1983) 的实证主义专业实践模型：工程/医学模式，手段-目的思维，价值中立；Nielsen & Klitmøller 论证其为 Hattie VL 的理论内核
 type: theory
-tags: [technical-rationality, positivism, means-ends-thinking, paradigm/positivist]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Neo-Taylorism in Educational Administration]]", "[[Scientism]]"]
-related_persons: ["[[Donald Schön]]", "[[John Hattie]]", "[[Jürgen Habermas]]", "[[Klaus Nielsen]]"]
+tags:
+- technical-rationality
+- positivism
+- means-ends-thinking
+- paradigm/positivist
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Neo-Taylorism in Educational Administration]]'
+- '[[Scientism]]'
 related_theories: []
-sources: ["sources/Nielsen_2021_IRTP.md", "sources/Nielsen_2021_NordPsych.md", "sources/Johnson_2023_CE.md"]
+related_methods: []
+related_persons:
+- '[[Donald Schön]]'
+- '[[John Hattie]]'
+- '[[Jürgen Habermas]]'
+- '[[Klaus Nielsen]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Nielsen_2021_IRTP]]'
+- '[[Nielsen_2021_NordPsych]]'
+- '[[Johnson_2023_CE]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-04
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

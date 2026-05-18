@@ -1,14 +1,32 @@
 ---
 title: Working Memory
+aliases: []
+summary: 工作记忆：动态保持和操纵信息的能力，容量有限，依赖 dlPFC，从 15 个月开始发展，3–5 岁出现大幅变化
 type: concept
-tags: [working-memory, learning-science, cognitive-science]
-related_concepts: ["[[executive-function]]", "[[updating-and-monitoring]]", "[[prefrontal-cortex]]", "[[Cognitive Task Analysis]]", "[[Visible Learning]]", "[[Feedback]]"]
-related_theories: ["[[miyake-unity-diversity-framework]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md", "sources/Fredens_2015_Paideia.md"]
+tags:
+- working-memory
+- learning-science
+- cognitive-science
+related_concepts:
+- '[[executive-function]]'
+- '[[updating-and-monitoring]]'
+- '[[prefrontal-cortex]]'
+- '[[Cognitive Task Analysis]]'
+- '[[Visible Learning]]'
+- '[[Feedback]]'
+related_theories:
+- '[[miyake-unity-diversity-framework]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
+- '[[Fredens_2015_Paideia]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-05
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

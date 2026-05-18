@@ -1,33 +1,38 @@
 ---
 title: Cultural Barrier in Higher Education
+aliases: []
+summary: 郑雅君 (2023) 的概念：因不具备精英大学中默认掌握的文化知识和文化技能而造成的无形障碍，不利于低阶层大学生获取向上流动机会和主观自我认同
 type: concept
 tags:
-  - cultural-barrier
-  - higher-education
-  - inequality
-  - cultural-capital
-  - region/china
-  - level/higher-ed
+- cultural-barrier
+- higher-education
+- inequality
+- cultural-capital
+- region/china
+- level/higher-ed
 related_concepts:
-  - "[[Goal-Controlled Mode]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Habitus]]"
-  - "[[Cultural Capital]]"
-  - "[[Champ]]"
-  - "[[The Shock of the Elite]]"
-  - "[[Cultural Disembedding]]"
-  - "[[Cultural Disorientation]]"
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Habitus]]'
+- '[[Cultural Capital]]'
+- '[[Champ]]'
+- '[[The Shock of the Elite]]'
+- '[[Cultural Disembedding]]'
+- '[[Cultural Disorientation]]'
 related_theories:
-  - "[[Pierre Bourdieu]]"
+- '[[Pierre Bourdieu]]'
+related_methods: []
 related_persons:
-  - "[[Yajun Zheng]]"
-  - "[[Clippings/Pierre Bourdieu]]"
+- '[[Yajun Zheng]]'
+- '[[Clippings/Pierre Bourdieu]]'
+related_facts: []
+related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-09
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

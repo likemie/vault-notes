@@ -1,14 +1,29 @@
 ---
 title: Autopoiesis
+aliases: []
+summary: Maturana & Varela 的生命系统理论：生命系统通过自我指涉和自我生产持续维持自身，Escobar 延伸至社会转型分析，Amos (2022) 将其与 Haraway 的 sympoiesis 对照用于晚期现代性教育愿景分析
 type: theory
-tags: [autopoiesis, living-systems-theory, biology, social-theory]
-related_persons: ["[[Francisco Varela]]", "[[Humberto Maturana]]", "[[Donna Haraway]]"]
-related_concepts: ["[[Transhumanism]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+tags:
+- autopoiesis
+- living-systems-theory
+- biology
+- social-theory
+related_concepts:
+- '[[Transhumanism]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Francisco Varela]]'
+- '[[Humberto Maturana]]'
+- '[[Donna Haraway]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

@@ -4,7 +4,7 @@ aliases:
 - 简·奈特
 - Jane Knight
 - Knight
-summary: Jane Knight，加拿大多伦多大学安大略教育研究院（OISE/University of Toronto）国际教育与跨境高等教育学者。
+summary: OISE/University of Toronto 跨境高等教育学者，国际教育枢纽（IEH）概念框架和三类模型（学生/人才/知识创新）提出者
 type: person
 nationality: global
 tags:

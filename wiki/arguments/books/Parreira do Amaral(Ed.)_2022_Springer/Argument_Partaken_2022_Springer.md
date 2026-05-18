@@ -1,6 +1,6 @@
 ---
 title: Argument_Partaken_2022_Springer
-summary: 知识地缘政治的核心不在知识生产而在知识转移，其机制可由中美紧张中的强制、监视、破坏与交换等模态解释。
+summary: 'Ch5 James Partaken: 区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性'
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -40,7 +40,6 @@ status: draft
 created: '2026-05-10'
 updated: '2026-05-18'
 ---
-
 
 # Argument_Partaken_2022_Springer
 

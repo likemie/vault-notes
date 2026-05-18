@@ -1,15 +1,31 @@
 ---
 title: Hattie på dansk 2017
+aliases: []
+summary: Bjerre 等编辑的丹麦语批评文集，汇集多篇对 VL 的强烈批评，Qvortrup 以 Alexander 话语框架定性为"文化战争
 type: fact
 subtype: event
-tags: [visible-learning, region/denmark, academic-publication, critique]
-related_concepts: ["[[Visible Learning]]", "[[Interpretation Community]]"]
-related_persons: ["[[John Hattie]]", "[[Thomas Aastrup Rømer]]"]
-sources: ["sources/Qvortrup_2019_NordSTEP.md"]
+region: denmark
+tags:
+- visible-learning
+- region/denmark
+- academic-publication
+- critique
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Interpretation Community]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Thomas Aastrup Rømer]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Qvortrup_2019_NordSTEP]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 背景

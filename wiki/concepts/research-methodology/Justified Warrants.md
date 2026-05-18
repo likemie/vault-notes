@@ -1,16 +1,30 @@
 ---
 title: Justified Warrants
+aliases: []
+summary: Malone & Hogan (2020) 基于 Dewey 的概念：研究应提供暂定性、可修正的担保断言而非确定性证明，Bainbridge et al. (2022) 用于评估政策论证的逻辑推进
 type: concept
-tags: [justified-warrants, evidence-based-policy, research-methodology]
-related_concepts: ["[[Evidence-Based Education]]", "[[Moral Sidestep]]"]
-related_theories: ["[[Legitimation Theory Van Leeuwen]]"]
-related_facts: ["[[Ofsted]]", "[[Selective Schools Expansion Fund 2018]]"]
-related_persons: ["[[Gert Biesta]]"]
-sources: ["sources/Bainbridge_2022_ROE.md"]
+tags:
+- justified-warrants
+- evidence-based-policy
+- research-methodology
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Moral Sidestep]]'
+related_theories:
+- '[[Legitimation Theory Van Leeuwen]]'
+related_methods: []
+related_persons:
+- '[[Gert Biesta]]'
+related_facts:
+- '[[Ofsted]]'
+- '[[Selective Schools Expansion Fund 2018]]'
+related_arguments: []
+sources:
+- '[[Bainbridge_2022_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

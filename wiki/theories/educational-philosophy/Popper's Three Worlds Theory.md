@@ -1,16 +1,37 @@
 ---
 title: Popper's Three Worlds Theory
+aliases: []
+summary: Karl Popper 的本体论框架：World 1 物理世界 / World 2 主观世界 / World 3 文化与科学对象（"客观地伟大的"），Rømer (2018) 论证 Hattie 通过 Bereiter 严重误读该理论
 type: theory
-tags: [Popper, epistemology, realism, paradigm/critical]
-related_concepts: ["[[Visible Learning]]", "[[Surface and Deep Learning]]", "[[Dynamic Knowledge and Learning Model]]"]
-related_persons: ["[[Karl Popper]]", "[[Carl Bereiter]]", "[[John Hattie]]", "[[Lars Qvortrup]]"]
-related_arguments: ["[[Argument_Hattie_2017_SLM]]"]
-related_theories: ["[[Radical Constructivism]]"]
-sources: ["sources/Hattie_2015_SOTLP.md", "sources/Qvortrup_2015_Paideia.md", "sources/Hattie_2017_SLM.md", "sources/Romer_2018_EPT.md"]
+tags:
+- Popper
+- epistemology
+- realism
+- paradigm/critical
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Surface and Deep Learning]]'
+- '[[Dynamic Knowledge and Learning Model]]'
+related_theories:
+- '[[Radical Constructivism]]'
+related_methods: []
+related_persons:
+- '[[Karl Popper]]'
+- '[[Carl Bereiter]]'
+- '[[John Hattie]]'
+- '[[Lars Qvortrup]]'
+related_facts: []
+related_arguments:
+- '[[Argument_Hattie_2017_SLM]]'
+sources:
+- '[[Hattie_2015_SOTLP]]'
+- '[[Qvortrup_2015_Paideia]]'
+- '[[Hattie_2017_SLM]]'
+- '[[Romer_2018_EPT]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-07
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

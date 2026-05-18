@@ -1,15 +1,28 @@
 ---
 title: Refraction Framework
+aliases: []
+summary: Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成
 type: theory
-tags: [refraction-framework, inequality, sociology-of-education, stratification, paradigm/sociological]
+tags:
+- refraction-framework
+- inequality
+- sociology-of-education
+- stratification
+- paradigm/sociological
 related_concepts: []
-related_methods: ["[[Seasonal Comparison]]"]
-related_facts: ["[[Coleman Report 1966]]"]
-sources: ["sources/Downey_2016_SoE.md"]
+related_theories: []
+related_methods:
+- '[[Seasonal Comparison]]'
+related_persons: []
+related_facts:
+- '[[Coleman Report 1966]]'
+related_arguments: []
+sources:
+- '[[Downey_2016_SoE]]'
 confidence: low
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

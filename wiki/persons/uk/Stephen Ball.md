@@ -1,7 +1,7 @@
 ---
 title: Stephen Ball
 aliases: []
-summary: Stephen Ball 是英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）教授，以研究教育政策社会学、私有化和政策网络著称。
+summary: UCL 教育学院教育社会学家，提出内生/外生私有化区分（Ball & Youdell 2008）、教育政策五重语境框架（1994）和跨国政策创业概念（2012）
 type: person
 nationality: uk
 tags:

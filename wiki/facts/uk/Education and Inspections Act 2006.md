@@ -1,14 +1,32 @@
 ---
 title: Education and Inspections Act 2006
+aliases: []
+summary: 英国法律禁止新建文法学校，但允许现有 163 所文法学校继续运作
 type: fact
 subtype: policy
-tags: [education-law, selective-education, grammar-schools, region/uk, level/k12]
-related_concepts: ["[[Selective Education]]", "[[Grammar School]]", "[[Eleven-plus Exam]]"]
-sources: ["sources/Bainbridge_2022_ROE.md"]
+region: uk
+issuing_organization: ''
+tags:
+- education-law
+- selective-education
+- grammar-schools
+- region/uk
+- level/k12
+related_concepts:
+- '[[Selective Education]]'
+- '[[Grammar School]]'
+- '[[Eleven-plus Exam]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bainbridge_2022_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 背景

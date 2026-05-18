@@ -1,31 +1,33 @@
 ---
 title: PISA
 aliases:
-  - 国际学生评估项目
-  - Programme for International Student Assessment
+- 国际学生评估项目
+- Programme for International Student Assessment
+summary: OECD 2000 年启动的国际学生评估项目，每三年测试 15 岁学生阅读/数学/科学素养；芬兰、HK、韩国、加拿大等为模范国家；女性超越男性，二代移民超越本地生
 type: fact
 subtype: event
+region: global
 tags:
-  - region/global
-  - level/k12
-  - subject/assessment
+- region/global
+- level/k12
+- subject/assessment
 related_concepts:
-  - "[[International Education]]"
-  - "[[Global Universities Rankings]]"
-  - "[[International Baccalaureate (IB)]]"
+- '[[International Education]]'
+- '[[Global Universities Rankings]]'
+- '[[International Baccalaureate (IB)]]'
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Academic Ranking of World Universities (ARWU)]]"
+- '[[Academic Ranking of World Universities (ARWU)]]'
 related_arguments:
-  - "[[Argument_Slethaug_2010_InternationalEducation]]"
+- '[[Argument_Slethaug_2010_InternationalEducation]]'
 sources:
-  - "[[Ch1_Slethaug_2010]]"
+- '[[Ch1_Slethaug_2010]]'
 confidence: medium
 status: draft
-created: 2026-05-17
-updated: 2026-05-17
+created: '2026-05-17'
+updated: '2026-05-18'
 ---
 
 # PISA

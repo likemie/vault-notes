@@ -1,19 +1,35 @@
 ---
 title: Narrative Knowledge
-aliases: ["叙事知识", "narrative knowledge (Lyotard)", "scientific knowledge vs narrative knowledge"]
+aliases:
+- 叙事知识
+- narrative knowledge (Lyotard)
+- scientific knowledge vs narrative knowledge
+summary: Lyotard (1979/1984) 区分于科学知识的社科人文知识类型，Partaken 分析其在全球化中因商业价值科学知识崛起而急剧衰退
 type: concept
-tags: ["geopolitics-of-knowledge", "knowledge-production", "postmodernism"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Forced Knowledge Transfer]]"]
-related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
+tags:
+- geopolitics-of-knowledge
+- knowledge-production
+- postmodernism
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Transfer]]'
+- '[[Forced Knowledge Transfer]]'
+related_theories:
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
-related_persons: ["[[Jean-François Lyotard]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]"]
+related_persons:
+- '[[Jean-François Lyotard]]'
+- '[[Frantz Fanon]]'
+- '[[Chen Kuan-Hsing]]'
 related_facts: []
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Narrative Knowledge

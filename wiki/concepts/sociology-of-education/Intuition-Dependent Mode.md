@@ -1,16 +1,49 @@
 ---
 title: Intuition-Dependent Mode
-aliases: [直觉依赖模式, intuition-dependent mode]
+aliases:
+- 直觉依赖模式
+- intuition-dependent mode
+summary: 郑雅君 (2023) 提出的大学生活组织实践图式：缺乏清晰规划、凭直觉被动应对大学选择，在低阶层大学生中更为普遍
 type: concept
-tags: [intuition-dependent-mode, higher-education, region/china, level/higher-ed]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Champ]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Cultural Disembedding]]", "[[Cultural Disorientation]]", "[[The Shock of the Elite]]", "[[Self-Authorship]]"]
-related_theories: ["[[Pierre Bourdieu]]", "[[Culture as Toolkit]]", "[[Dual-Process Model of Culture in Action]]"]
-related_persons: ["[[Yajun Zheng]]", "[[Ann Swidler]]", "[[Marcia Baxter Magolda]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- intuition-dependent-mode
+- higher-education
+- region/china
+- level/higher-ed
+related_concepts:
+- '[[Goal-Controlled Mode]]'
+- '[[Cultural Barrier in Higher Education]]'
+- '[[Habitus]]'
+- '[[Cultural Capital]]'
+- '[[Champ]]'
+- '[[Academic and Social Integration]]'
+- '[[Student Engagement]]'
+- '[[Academic Engagement]]'
+- '[[Social Engagement]]'
+- '[[Lost Mode]]'
+- '[[Value Conformist Mode]]'
+- '[[Graduation Pathway Typology (Zheng)]]'
+- '[[Cultural Disembedding]]'
+- '[[Cultural Disorientation]]'
+- '[[The Shock of the Elite]]'
+- '[[Self-Authorship]]'
+related_theories:
+- '[[Pierre Bourdieu]]'
+- '[[Culture as Toolkit]]'
+- '[[Dual-Process Model of Culture in Action]]'
+related_methods: []
+related_persons:
+- '[[Yajun Zheng]]'
+- '[[Ann Swidler]]'
+- '[[Marcia Baxter Magolda]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Intuition-Dependent Mode

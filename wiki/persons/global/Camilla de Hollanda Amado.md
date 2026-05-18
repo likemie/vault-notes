@@ -4,7 +4,7 @@ aliases:
 - Camilla Amado
 - Camilla de Hollanda Amado
 - Amado
-summary: Camilla de Hollanda Amado（1941–2021）是巴西著名女演员和剧场导演。
+summary: 巴西著名女演员和剧场导演（1941–2021），与 Delambre 共同创立"Bora Bora em Bando"项目为贫民窟剧场争取社会可见度
 type: person
 nationality: global
 tags:

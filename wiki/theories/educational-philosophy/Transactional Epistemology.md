@@ -1,16 +1,30 @@
 ---
 title: Transactional Epistemology
+aliases: []
+summary: Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
 type: theory
-tags: [transactional-epistemology, Dewey, pragmatism, epistemology, paradigm/pragmatist]
-related_concepts: ["[[Evidence-Based Education]]", "[[Value-Based Education]]"]
+tags:
+- transactional-epistemology
+- Dewey
+- pragmatism
+- epistemology
+- paradigm/pragmatist
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Value-Based Education]]'
 related_theories: []
-related_persons: ["[[John Dewey]]", "[[Gert Biesta]]"]
 related_methods: []
-sources: ["sources/Biesta_2010_SPE.md"]
+related_persons:
+- '[[John Dewey]]'
+- '[[Gert Biesta]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Biesta_2010_SPE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

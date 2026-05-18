@@ -1,14 +1,35 @@
 ---
 title: Communities in Schools (CIS)
+aliases: []
+summary: Wadhwa et al. (2024) 的清算中心评级分歧案例：NDPC 推荐，PPN/CNCS 认为 promising 或中等支持，Blueprints/CMFR 不背书
 type: fact
-subtype: educational-program-case
-tags: [Communities-in-Schools, CIS, dropout-prevention, educational-program, clearinghouse-rating-case, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Promising Practices Network (PPN)]]", "[[Blueprints for Healthy Youth Development]]", "[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]", "[[National Dropout Prevention Center (NDPC)]]", "[[CNCS Evidence Exchange (EE)]]"]
-sources: ["sources/Wadhwa_2024_RER.md"]
+subtype: event
+region: us
+tags:
+- Communities-in-Schools
+- CIS
+- dropout-prevention
+- educational-program
+- clearinghouse-rating-case
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Promising Practices Network (PPN)]]'
+- '[[Blueprints for Healthy Youth Development]]'
+- '[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]'
+- '[[National Dropout Prevention Center (NDPC)]]'
+- '[[CNCS Evidence Exchange (EE)]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

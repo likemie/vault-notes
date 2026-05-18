@@ -2,7 +2,7 @@
 title: Humberto Maturana
 aliases:
 - Maturana
-summary: Humberto Maturana（1928–2021），智利生物学家和哲学家，与 Francisco Varela 共同创立 autopoiesis（自创生）理论。
+summary: 智利生物学家和哲学家，与 Varela 共同创立 autopoiesis 理论，彻底改变了关于生命作为宏大系统的思考方式
 type: person
 nationality: global
 tags:

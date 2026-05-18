@@ -1,19 +1,38 @@
 ---
 title: Forced Knowledge Transfer
-aliases: ["强制知识转移", "forced transfer of knowledge", "top-down knowledge transfer"]
+aliases:
+- 强制知识转移
+- forced transfer of knowledge
+- top-down knowledge transfer
+summary: GPK 知识转移模态：通过规定、胁迫和暴力的自上而下知识灌输，以 Freire"银行概念"和 Kokutai no Hongi 为案例
 type: concept
-tags: ["geopolitics-of-knowledge", "knowledge-transfer", "colonial-education", "pedagogy"]
-related_concepts: ["[[Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Narrative Knowledge]]"]
-related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
+tags:
+- geopolitics-of-knowledge
+- knowledge-transfer
+- colonial-education
+- pedagogy
+related_concepts:
+- '[[Knowledge Transfer]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Narrative Knowledge]]'
+related_theories:
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
-related_persons: ["[[Frantz Fanon]]", "[[Jean-François Lyotard]]"]
-related_facts: ["[[Kokutai no Hongi (1937)]]", "[[Great Firewall of China]]", "[[China Social Credit System]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_persons:
+- '[[Frantz Fanon]]'
+- '[[Jean-François Lyotard]]'
+related_facts:
+- '[[Kokutai no Hongi (1937)]]'
+- '[[Great Firewall of China]]'
+- '[[China Social Credit System]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Forced Knowledge Transfer

@@ -1,19 +1,34 @@
 ---
 title: Whole Sustainability
-aliases: ["整体可持续性", "whole sustainability", "Whole Sustainability"]
+aliases:
+- 整体可持续性
+- whole sustainability
+- Whole Sustainability
+summary: 整体可持续性：Delambre 将张力理论应用于可持续性领域的概念，纳入局部社区的一切生命力量要素及内外部威胁
 type: concept
-tags: ["region/brazil", "region/global", "theme/sustainability", "theme/development"]
-related_concepts: ["[[Life Power]]", "[[Ganz-Methode]]", "[[Tense Society]]"]
-related_theories: ["[[Creative Tension of Sense]]"]
+tags:
+- region/brazil
+- region/global
+- theme/sustainability
+- theme/development
+related_concepts:
+- '[[Life Power]]'
+- '[[Ganz-Methode]]'
+- '[[Tense Society]]'
+related_theories:
+- '[[Creative Tension of Sense]]'
 related_methods: []
-related_persons: ["[[Dell Delambre]]"]
+related_persons:
+- '[[Dell Delambre]]'
 related_facts: []
-related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
-sources: ["[[Ch7_Delambre_2022]]"]
+related_arguments:
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch7_Delambre_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Whole Sustainability

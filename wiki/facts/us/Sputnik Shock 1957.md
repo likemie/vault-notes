@@ -1,19 +1,34 @@
 ---
 title: Sputnik Shock 1957
 aliases: []
+summary: 1957 年苏联发射人类首颗人造卫星触发美国科技信心危机，Amos (2022) 将其定位为教育与地缘政治关系的关键转折点：触发 OECD 对 STEM 教育的系统性关注，建立"教育质量→科技能力→国家竞争力"的政策逻辑链
 type: fact
-tags: [sputnik-shock, cold-war, stem-education, oecd, region/us, level/k12, level/higher-ed]
-related_concepts: ["[[Knowledge-Based Economy]]", "[[Educational Technology Industry]]", "[[International Indicators of Education Systems (INES)]]", "[[Education at a Glance (EAG)]]"]
+subtype: event
+region: us
+tags:
+- sputnik-shock
+- cold-war
+- stem-education
+- oecd
+- region/us
+- level/k12
+- level/higher-ed
+related_concepts:
+- '[[Knowledge-Based Economy]]'
+- '[[Educational Technology Industry]]'
+- '[[International Indicators of Education Systems (INES)]]'
+- '[[Education at a Glance (EAG)]]'
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 概述

@@ -1,6 +1,6 @@
 ---
 title: Argument_Keddie_2020_JEAH
-summary: 市场化学校自治同时加重校长负担并损害资源分配与政治参与正义，使弱势学校处境更不利。
+summary: 基于 42 位澳大利亚教育利益相关者访谈，论证市场驱动的学校自主权改革对校长和弱势学校的系统性不公正影响
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,7 +32,6 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

@@ -1,6 +1,6 @@
 ---
 title: Argument_Moisio_2022_Springer
-summary: 知识型资本主义应被理解为通过国家、城市和区域持续再领土化的地缘政治经济过程，而非单纯市场现象。
+summary: 'Ch2 Sami Moisio: 论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架'
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -40,7 +40,6 @@ status: draft
 created: '2026-05-07'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

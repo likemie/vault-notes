@@ -4,7 +4,7 @@ aliases:
 - 因果建模
 - 结构方程建模
 - SEM
-summary: 因果建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, SEM），是随机实验之外最常用的因果推断替代方法。
+summary: 结构方程建模(SEM)，1970s 进入社会科学承诺整合理论与统计，面临模型选择使推断无效和点按软件误用等批评（Berk, 2011）
 type: method
 method_type: quantitative
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Argument_Bergeron_2017_MJE
-summary: Visible Learning 用真实数据支撑了伪科学式推论，其统计综合无法合法推出稳定的教育因果判断。
+summary: 从统计学家视角系统批判 Hattie Visible Learning 方法论为伪科学，揭示 CLE 计算错误、基线比较任意性、三种效应量公式矛盾排名和 r→d 转换危险
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,7 +32,6 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

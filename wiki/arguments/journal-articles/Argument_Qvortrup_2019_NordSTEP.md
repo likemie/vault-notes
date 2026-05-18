@@ -1,6 +1,6 @@
 ---
 title: Argument_Qvortrup_2019_NordSTEP
-summary: Visible Learning 的真正缺失环节不是更多数据，而是把学习理论与教学实践连接起来的中介机制。
+summary: VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为"缺失环节
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -37,7 +37,6 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

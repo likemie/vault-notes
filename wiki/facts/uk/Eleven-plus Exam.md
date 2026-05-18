@@ -1,15 +1,33 @@
 ---
 title: Eleven-plus Exam
+aliases: []
+summary: 英国 11 岁中等教育选拔考试，决定学生进入文法学校或综合学校，研究证据一致表明其加剧不平等且不促进社会流动
 type: fact
 subtype: policy
-tags: [eleven-plus, selective-education, grammar-schools, examination, region/uk]
-related_concepts: ["[[Selective Education]]", "[[Grammar School]]"]
-related_facts: ["[[Education and Inspections Act 2006]]", "[[Selective Schools Expansion Fund 2018]]"]
-sources: ["sources/Bainbridge_2022_ROE.md"]
+region: uk
+issuing_organization: ''
+tags:
+- eleven-plus
+- selective-education
+- grammar-schools
+- examination
+- region/uk
+related_concepts:
+- '[[Selective Education]]'
+- '[[Grammar School]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts:
+- '[[Education and Inspections Act 2006]]'
+- '[[Selective Schools Expansion Fund 2018]]'
+related_arguments: []
+sources:
+- '[[Bainbridge_2022_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 背景

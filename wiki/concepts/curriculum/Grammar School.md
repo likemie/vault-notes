@@ -1,13 +1,29 @@
 ---
 title: Grammar School
+aliases: []
+summary: 英格兰以 11-plus 考试选拔学生的公立学术中学，现有 163 所，159 所获 Ofsted 良好/优秀评级
 type: concept
-tags: [grammar-school, selective-education, region/uk, level/k12]
-related_concepts: ["[[Selective Education]]", "[[Eleven-plus Exam]]", "[[Moral Sidestep]]", "[[Ofsted]]"]
-sources: ["sources/Bainbridge_2022_ROE.md"]
+tags:
+- grammar-school
+- selective-education
+- region/uk
+- level/k12
+related_concepts:
+- '[[Selective Education]]'
+- '[[Eleven-plus Exam]]'
+- '[[Moral Sidestep]]'
+- '[[Ofsted]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bainbridge_2022_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

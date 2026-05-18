@@ -1,6 +1,6 @@
 ---
 title: Argument_Laursen_2015_Paideia
-summary: 国际有效教学结论只有与丹麦文化和本土证据对照后，才可能判断其在丹麦是否成立。
+summary: 比较 Hattie、Meyer、Helmke 国际有效教学综合与丹麦 SFI 等研究，论证其核心结论在丹麦总体有效，国家文化影响弱于学生社会背景
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -34,7 +34,6 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

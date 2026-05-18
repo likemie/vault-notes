@@ -1,15 +1,35 @@
 ---
 title: Neuroplasticity
+aliases: []
+summary: 人脑约 860 亿神经元、13 万亿突触的动态可塑性，Larsen (2019) 论证其极度复杂性使 VL 的简化测量在科学上不成立
 type: concept
-tags: [Neuroplasticity, learning-science, paradigm/critical]
-related_concepts: ["[[Visible Learning]]", "[[Neuro-myths]]", "[[synaptogenesis]]", "[[synaptic-pruning]]", "[[myelination]]", "[[prefrontal-cortex]]"]
-related_persons: ["[[Steen Nepper Larsen]]", "[[John Hattie]]"]
-related_theories: ["[[Luhmann's Systems Theory]]", "[[hebbian-principles]]"]
-sources: ["sources/Larsen_2019_EducSci.md", "sources/Bolton_2017_ArchPsych.md"]
+tags:
+- Neuroplasticity
+- learning-science
+- paradigm/critical
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Neuro-myths]]'
+- '[[synaptogenesis]]'
+- '[[synaptic-pruning]]'
+- '[[myelination]]'
+- '[[prefrontal-cortex]]'
+related_theories:
+- '[[Luhmann''s Systems Theory]]'
+- '[[hebbian-principles]]'
+related_methods: []
+related_persons:
+- '[[Steen Nepper Larsen]]'
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Larsen_2019_EducSci]]'
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

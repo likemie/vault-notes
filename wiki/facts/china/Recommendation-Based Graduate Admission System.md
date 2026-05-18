@@ -1,16 +1,37 @@
 ---
 title: Recommendation-Based Graduate Admission System
-aliases: [推荐免试研究生制度, 推免制度, 推免, recommendation-based admission]
+aliases:
+- 推荐免试研究生制度
+- 推免制度
+- 推免
+- recommendation-based admission
+summary: 1980s 中期至今的推免研究生制度：以累积学分为依据免试直升，985 院校覆盖率可达 40%+，郑雅君 (2023) 分析其对不同阶层学生的隐性要求差异，改革派与保守派在"借鉴日本教育"上形成阶段性共识并推动大规模借用
 type: fact
 subtype: policy
-tags: [graduate-admission, recommendation-based, region/china, level/higher-ed]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Credential Inflation]]", "[[Intuition-Dependent Mode]]", "[[Academic Engagement]]"]
-related_facts: ["[[China College Graduate Employment Reform 1986-1997]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+region: china
+issuing_organization: ''
+tags:
+- graduate-admission
+- recommendation-based
+- region/china
+- level/higher-ed
+related_concepts:
+- '[[Goal-Controlled Mode]]'
+- '[[Credential Inflation]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Academic Engagement]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts:
+- '[[China College Graduate Employment Reform 1986-1997]]'
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Recommendation-Based Graduate Admission System

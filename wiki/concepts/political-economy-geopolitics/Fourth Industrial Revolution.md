@@ -1,19 +1,33 @@
 ---
 title: Fourth Industrial Revolution
-aliases: ["第四次工业革命", "4IR", "Industry 4.0"]
+aliases:
+- 第四次工业革命
+- 4IR
+- Industry 4.0
+summary: Schwab/WEF 推广的概念，声称 AI、区块链等构成第四次工业革命，Partaken 以 Kuhn 不可通约性标准批判其为霸权性知识生产话语的自我包装
 type: concept
-tags: ["geopolitics-of-knowledge", "knowledge-economy", "innovation-discourse", "region/global"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Production]]", "[[Knowledge Transfer]]"]
+tags:
+- geopolitics-of-knowledge
+- knowledge-economy
+- innovation-discourse
+- region/global
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Production]]'
+- '[[Knowledge Transfer]]'
 related_theories: []
 related_methods: []
-related_persons: ["[[James Partaken]]"]
+related_persons:
+- '[[James Partaken]]'
 related_facts: []
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Fourth Industrial Revolution

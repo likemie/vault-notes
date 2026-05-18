@@ -1,19 +1,35 @@
 ---
 title: Semi-Autonomy of Higher Education
-aliases: [高等教育半自主性, semi-autonomy, relative autonomy of higher education, 高等教育相对自主性]
+aliases:
+- 高等教育半自主性
+- semi-autonomy
+- relative autonomy of higher education
+- 高等教育相对自主性
+summary: Gramsci 霸权理论的推论：科学和高等教育相对于国家和经济具有部分自主性，既被政治经济塑造又按自身认识论逻辑演化，2018-2024 中美科学合作在政治紧张中持续是其经验证据
 type: concept
-tags: [theme/power, theme/geopolitics, level/higher-ed, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Double Spatiality of Universities]]", "[[Methodological Globalism]]", "[[Knowledge Capitalism]]"]
-related_theories: ["[[World-Systems Theory]]"]
-related_persons: []
+tags:
+- theme/power
+- theme/geopolitics
+- level/higher-ed
+- region/global
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Double Spatiality of Universities]]'
+- '[[Methodological Globalism]]'
+- '[[Knowledge Capitalism]]'
+related_theories:
+- '[[World-Systems Theory]]'
 related_methods: []
+related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Marginson_2025_ROE]]"]
-sources: ["[[Marginson_2025_ROE]]"]
+related_arguments:
+- '[[Argument_Marginson_2025_ROE]]'
+sources:
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-05-18'
 ---
 
 # Semi-Autonomy of Higher Education

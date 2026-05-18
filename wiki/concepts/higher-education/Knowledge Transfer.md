@@ -1,19 +1,44 @@
 ---
 title: Knowledge Transfer
-aliases: ["知识转移", "geopolitics of knowledge transfer", "knowledge in motion"]
+aliases:
+- 知识转移
+- geopolitics of knowledge transfer
+- knowledge in motion
+summary: Partaken 核心概念：知识一旦被生产即进入挪用、传授、窃取、审查、破坏等动态过程，主张 GPK 的核心是知识转移而非知识生产，六模态框架
 type: concept
-tags: ["geopolitics-of-knowledge", "knowledge-economy", "region/global"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Production]]", "[[Forced Knowledge Transfer]]", "[[Knowledge Sabotage]]", "[[Economic and Industrial Espionage]]", "[[Narrative Knowledge]]"]
-related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
+tags:
+- geopolitics-of-knowledge
+- knowledge-economy
+- region/global
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Production]]'
+- '[[Forced Knowledge Transfer]]'
+- '[[Knowledge Sabotage]]'
+- '[[Economic and Industrial Espionage]]'
+- '[[Narrative Knowledge]]'
+related_theories:
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
-related_persons: ["[[Jean-François Lyotard]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]"]
-related_facts: ["[[Sino-American Trade War (2018)]]", "[[Great Firewall of China]]", "[[China Social Credit System]]", "[[Kokutai no Hongi (1937)]]", "[[Thousand Talents Program]]", "[[US-China Economic and Security Review Commission (2000)]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_persons:
+- '[[Jean-François Lyotard]]'
+- '[[Frantz Fanon]]'
+- '[[Chen Kuan-Hsing]]'
+related_facts:
+- '[[Sino-American Trade War (2018)]]'
+- '[[Great Firewall of China]]'
+- '[[China Social Credit System]]'
+- '[[Kokutai no Hongi (1937)]]'
+- '[[Thousand Talents Program]]'
+- '[[US-China Economic and Security Review Commission (2000)]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Knowledge Transfer

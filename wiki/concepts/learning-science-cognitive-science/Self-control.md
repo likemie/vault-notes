@@ -1,14 +1,32 @@
 ---
 title: Self-control
+aliases: []
+summary: 学生在课堂中调节注意、情绪与行为反应的能力；在教师评定维度中呈中等性别差异
 type: concept
-tags: [self-control, self-regulation, classroom-behavior, subject/psychology, level/k12]
-related_concepts: ["[[School Norm Adaptation]]", "[[Learning-Impeding Behavior]]", "[[Motivation and Work Effort]]", "[[Gender Differences in Academic Achievement]]", "[[Assertiveness]]"]
-related_methods: ["[[Observational and Correlational Research]]"]
-sources: ["sources/Lekhal_2015_Paideia.md"]
+tags:
+- self-control
+- self-regulation
+- classroom-behavior
+- subject/psychology
+- level/k12
+related_concepts:
+- '[[School Norm Adaptation]]'
+- '[[Learning-Impeding Behavior]]'
+- '[[Motivation and Work Effort]]'
+- '[[Gender Differences in Academic Achievement]]'
+- '[[Assertiveness]]'
+related_theories: []
+related_methods:
+- '[[Observational and Correlational Research]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Lekhal_2015_Paideia]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

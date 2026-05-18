@@ -1,19 +1,35 @@
 ---
 title: Knowledge Sabotage
-aliases: ["知识破坏", "sabotage of knowledge", "undermining knowledge"]
+aliases:
+- 知识破坏
+- sabotage of knowledge
+- undermining knowledge
+summary: GPK 知识转移模态：蓄意破坏敌对方知识资产，以网络攻击为主要当代形式
 type: concept
-tags: ["geopolitics-of-knowledge", "knowledge-transfer", "cyber-warfare"]
-related_concepts: ["[[Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Economic and Industrial Espionage]]", "[[Forced Knowledge Transfer]]"]
+tags:
+- geopolitics-of-knowledge
+- knowledge-transfer
+- cyber-warfare
+related_concepts:
+- '[[Knowledge Transfer]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Economic and Industrial Espionage]]'
+- '[[Forced Knowledge Transfer]]'
 related_theories: []
 related_methods: []
-related_persons: ["[[Jean-François Lyotard]]"]
-related_facts: ["[[Great Firewall of China]]", "[[Sino-American Trade War (2018)]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_persons:
+- '[[Jean-François Lyotard]]'
+related_facts:
+- '[[Great Firewall of China]]'
+- '[[Sino-American Trade War (2018)]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Knowledge Sabotage

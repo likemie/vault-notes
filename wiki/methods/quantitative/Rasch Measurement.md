@@ -3,7 +3,7 @@ title: Rasch Measurement
 aliases:
 - 拉施测量
 - Rasch
-summary: Rasch Measurement（Rasch 测量）是一种把测验答题数据转换到共同尺度上的测量方法。
+summary: 将测验答题数据转换到共同尺度的教育测量方法；PISA/TIMSS/PIRLS 等国际评估排名依赖这类统计转换
 type: method
 method_type: quantitative
 tags:

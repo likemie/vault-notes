@@ -1,20 +1,34 @@
 ---
 title: Kokutai no Hongi (1937)
-aliases: ["国体之本义", "Cardinal Principles of the National Entity of Japan"]
+aliases:
+- 国体之本义
+- Cardinal Principles of the National Entity of Japan
+summary: 日本文部省思想局编写的皇国思想教育文本，在殖民地强制教学，Partaken 定位为 GPK 强制知识转移的历史典范
 type: fact
 subtype: event
-tags: ["region/japan", "region/asia", "colonial-education", "knowledge-transfer", "geopolitics-of-knowledge"]
-related_concepts: ["[[Knowledge Transfer]]", "[[Forced Knowledge Transfer]]"]
+region: japan
+tags:
+- region/japan
+- region/asia
+- colonial-education
+- knowledge-transfer
+- geopolitics-of-knowledge
+related_concepts:
+- '[[Knowledge Transfer]]'
+- '[[Forced Knowledge Transfer]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Great Firewall of China]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_facts:
+- '[[Great Firewall of China]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Kokutai no Hongi (1937)

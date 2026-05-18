@@ -1,15 +1,30 @@
 ---
 title: Potential Outcomes Framework
+aliases: []
+summary: Neyman-Rubin-Holland 因果推断核心框架：因果效应通过比较同一主体在两种条件下的假设性潜在结果来定义，区分因果效应的定义与估计（Berk, 2011）
 type: concept
-tags: [potential-outcomes-framework, causal-inference, subject/research-methodology, paradigm/positivist]
-related_concepts: ["[[Stable Unit Treatment Value Assumption (SUTVA)]]", "[[Causal Modeling]]", "[[Randomised Controlled Trials]]"]
-related_methods: ["[[Randomised Controlled Trials]]", "[[Matching]]"]
+tags:
+- potential-outcomes-framework
+- causal-inference
+- subject/research-methodology
+- paradigm/positivist
+related_concepts:
+- '[[Stable Unit Treatment Value Assumption (SUTVA)]]'
+- '[[Causal Modeling]]'
+- '[[Randomised Controlled Trials]]'
+related_theories: []
+related_methods:
+- '[[Randomised Controlled Trials]]'
+- '[[Matching]]'
 related_persons: []
-sources: ["sources/Berk_2011_ER.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Berk_2011_ER]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

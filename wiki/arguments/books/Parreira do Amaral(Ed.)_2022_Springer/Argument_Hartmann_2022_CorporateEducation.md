@@ -1,6 +1,6 @@
 ---
 title: Argument_Hartmann_2022_CorporateEducation
-summary: 企业教育的跨国统一不主要取决于公司权力，而取决于培训能否在不同制度环境中获得合法性与权威。
+summary: 'Ch11 Eva Hartmann: 以制度同构理论和 MNC 组织类型学为框架，分析企业教育的国际化及其地缘政治与地缘经济维度，识别四种权威来源策略，论证营利性教育提供商的市场集中化趋势'
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -35,7 +35,6 @@ status: draft
 created: '2026-05-18'
 updated: '2026-05-18'
 ---
-
 
 # Argument_Hartmann_2022_CorporateEducation
 

@@ -1,16 +1,28 @@
 ---
 title: Cuban's Curriculum Change Theory
+aliases: []
+summary: 课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因"国家安全"而权重重组
 type: theory
-tags: [Cuban, curriculum-change, political-analysis, paradigm/critical, region/us]
-related_concepts: ["[[Liberal Studies (Hong Kong)]]"]
+tags:
+- Cuban
+- curriculum-change
+- political-analysis
+- paradigm/critical
+- region/us
+related_concepts:
+- '[[Liberal Studies (Hong Kong)]]'
 related_theories: []
-related_persons: ["[[Larry Cuban]]"]
 related_methods: []
-sources: ["sources/Yan_2025_JCS.md"]
+related_persons:
+- '[[Larry Cuban]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Yan_2025_JCS]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

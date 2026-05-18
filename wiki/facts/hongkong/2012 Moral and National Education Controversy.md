@@ -1,16 +1,30 @@
 ---
 title: 2012 Moral and National Education Controversy
+aliases: []
+summary: 2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点
 type: fact
 subtype: event
-tags: [Moral-National-Education, Hong-Kong, curriculum-controversy, national-identity, region/china]
-related_concepts: ["[[Liberal Studies (Hong Kong)]]", "[[National Education in Hong Kong]]"]
+region: hongkong
+tags:
+- Moral-National-Education
+- Hong-Kong
+- curriculum-controversy
+- national-identity
+- region/china
+related_concepts:
+- '[[Liberal Studies (Hong Kong)]]'
+- '[[National Education in Hong Kong]]'
 related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/Yan_2025_JCS.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Yan_2025_JCS]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 背景

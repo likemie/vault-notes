@@ -1,15 +1,35 @@
 ---
 title: Whole Language
+aliases: []
+summary: 强调语言在真实完整语境中学习的读写教学哲学，Goodman 1967 年里程碑文章奠基，Hattie (2009) 将其效应量评为 d=0.06 引发争议，O'Connor (2020) 详细审查揭示 VL 评估存在方法论缺陷和先验偏见
 type: concept
-tags: [whole-language, literacy, subject/curriculum, level/k12, paradigm/constructivist]
-related_concepts: ["[[Visible Learning]]", "[[Simple View of Reading]]", "[[Language Experience Approach]]", "[[Synthetic Phonics]]", "[[Meta-analysis]]", "[[Direct Instruction]]"]
-related_persons: ["[[Ken Goodman]]", "[[John Hattie]]"]
+tags:
+- whole-language
+- literacy
+- subject/curriculum
+- level/k12
+- paradigm/constructivist
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Simple View of Reading]]'
+- '[[Language Experience Approach]]'
+- '[[Synthetic Phonics]]'
+- '[[Meta-analysis]]'
+- '[[Direct Instruction]]'
 related_theories: []
-sources: ["sources/OConnor_2020_AJLL.md", "sources/Snook_2009_NZJES.md"]
+related_methods: []
+related_persons:
+- '[[Ken Goodman]]'
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[OConnor_2020_AJLL]]'
+- '[[Snook_2009_NZJES]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-04
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

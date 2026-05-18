@@ -2,7 +2,7 @@
 title: Geert Hofstede
 aliases:
 - Hofstede
-summary: Geert Hofstede 是国家文化研究中被 Laursen 称为"最有影响力"的学者。Laursen 引用 Hofstede、Hofstede 与 Minkov (2010) 的表述。
+summary: 国家文化研究学者，提出个人主义/集体主义、权力距离、女性化/男性化、不确定性规避等文化维度，Laursen 用其分析丹麦有效教学语境
 type: person
 nationality: global
 tags:

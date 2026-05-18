@@ -1,14 +1,29 @@
 ---
 title: Luhmann's Systems Theory
+aliases: []
+summary: 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，Larsen (2019) 以盲点和结构耦合概念批判 VL
 type: theory
-tags: [Luhmann, paradigm/systems-theory]
-related_concepts: ["[[Blind Spot in Observation]]", "[[Structural Coupling]]", "[[Visible Learning]]", "[[Knowledge-Based Economization]]"]
-related_persons: ["[[Niklas Luhmann]]", "[[Steen Nepper Larsen]]"]
-sources: ["sources/Larsen_2019_EducSci.md"]
+tags:
+- Luhmann
+- paradigm/systems-theory
+related_concepts:
+- '[[Blind Spot in Observation]]'
+- '[[Structural Coupling]]'
+- '[[Visible Learning]]'
+- '[[Knowledge-Based Economization]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Niklas Luhmann]]'
+- '[[Steen Nepper Larsen]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Larsen_2019_EducSci]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-07
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

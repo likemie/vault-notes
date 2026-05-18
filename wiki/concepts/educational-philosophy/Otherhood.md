@@ -1,19 +1,33 @@
 ---
 title: Otherhood
-aliases: ["为他者行动", "他者代理"]
+aliases:
+- 为他者行动
+- 他者代理
+summary: Meyer & Jepperson (2000) 的概念：组织为其他行动者、非行动者实体和现代性原则行使代理权的社会过程；大学近乎理想型地代表 otherhood 的全部三种形式
 type: concept
-tags: ["level/higher-ed", "region/global"]
-related_concepts: ["[[Organizational Actorhood]]", "[[Epistemic Governance]]", "[[University Social Responsibility]]"]
-related_theories: ["[[World Society Theory]]"]
+tags:
+- level/higher-ed
+- region/global
+related_concepts:
+- '[[Organizational Actorhood]]'
+- '[[Epistemic Governance]]'
+- '[[University Social Responsibility]]'
+related_theories:
+- '[[World Society Theory]]'
 related_methods: []
-related_persons: ["[[John W. Meyer]]"]
-related_facts: ["[[UN Sustainable Development Goals 2015]]", "[[THE Impact Ranking 2019]]"]
-related_arguments: ["[[Argument_Zapp_2022_Springer]]"]
-sources: ["[[Ch9_Zapp_2022]]"]
+related_persons:
+- '[[John W. Meyer]]'
+related_facts:
+- '[[UN Sustainable Development Goals 2015]]'
+- '[[THE Impact Ranking 2019]]'
+related_arguments:
+- '[[Argument_Zapp_2022_Springer]]'
+sources:
+- '[[Ch9_Zapp_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-11
-updated: 2026-05-12
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Otherhood

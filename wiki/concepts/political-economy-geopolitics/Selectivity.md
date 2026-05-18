@@ -1,19 +1,36 @@
 ---
 title: Selectivity
-aliases: ["选择性（治理）", "政策选择性", "policy selectivity", "strategic selectivity"]
+aliases:
+- 选择性（治理）
+- 政策选择性
+- policy selectivity
+- strategic selectivity
+summary: Jessop (2007) 的治理概念：政策工具通过结构性偏向系统性地优先某些替代方案而边缘化其他，Rambla (2022) 在欧盟区域创新和终身学习政策中分析
 type: concept
-tags: ["governance", "policy-instruments", "region/global"]
-related_concepts: ["[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Neocorporatism]]"]
+tags:
+- governance
+- policy-instruments
+- region/global
+related_concepts:
+- '[[Performance Indicators]]'
+- '[[Theories of Policy Change]]'
+- '[[Neocorporatism]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Innovation Union]]", "[[EU Skills Agenda]]", "[[Europe 2020 Strategy]]", "[[Youth Guarantee Scheme]]"]
-related_arguments: ["[[Argument_Rambla_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
+related_facts:
+- '[[Innovation Union]]'
+- '[[EU Skills Agenda]]'
+- '[[Europe 2020 Strategy]]'
+- '[[Youth Guarantee Scheme]]'
+related_arguments:
+- '[[Argument_Rambla_2022_Springer]]'
+sources:
+- '[[Ch10_Rambla_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-13
-updated: 2026-05-14
+created: '2026-05-13'
+updated: '2026-05-18'
 ---
 
 # Selectivity

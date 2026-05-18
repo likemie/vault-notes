@@ -1,15 +1,30 @@
 ---
 title: Manaiakalani Education Trust (NZ 2011)
+aliases: []
+summary: 2011 年成立的 Tamaki 社区数字学习慈善信托，从 EHSAS/ICT 集群起步，获 NEXT Foundation 资助全国规模化推广 Outreach 项目
 type: fact
-tags: [manaiakalani, digital-learning, subject/curriculum, region/new-zealand, education-policy]
-related_concepts: ["[[Network Governance]]", "[[Venture Philanthropy]]"]
+subtype: event
+region: newzealand
+tags:
+- manaiakalani
+- digital-learning
+- subject/curriculum
+- region/new-zealand
+- education-policy
+related_concepts:
+- '[[Network Governance]]'
+- '[[Venture Philanthropy]]'
 related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/ONeill_2016_Report.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[ONeill_2016_Report]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 概述

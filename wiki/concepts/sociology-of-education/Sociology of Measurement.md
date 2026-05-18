@@ -1,15 +1,29 @@
 ---
 title: Sociology of Measurement
+aliases: []
+summary: Woolgar 的分析框架：将测量视为技术，关注其 instrumentalism（如何被弄到运作）和 performativity（如何制造世界）
 type: concept
-tags: [Sociology of Measurement, measurement, STS, performativity, Educational Sociology]
-related_concepts: ["[[Performativity of Measurement]]", "[[Performance Indicators]]"]
-related_theories: ["[[Science and Technology Studies (STS)]]"]
+tags:
+- Sociology of Measurement
+- measurement
+- STS
+- performativity
+- Educational Sociology
+related_concepts:
+- '[[Performativity of Measurement]]'
+- '[[Performance Indicators]]'
+related_theories:
+- '[[Science and Technology Studies (STS)]]'
+related_methods: []
 related_persons: []
-sources: ["sources/Gorur_2014_Discourse.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Gorur_2014_Discourse]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

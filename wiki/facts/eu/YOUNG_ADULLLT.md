@@ -1,20 +1,38 @@
 ---
 title: YOUNG_ADULLLT
-aliases: ["YOUNG_ADULLLT 项目", "YOUNG_ADULLLT project"]
+aliases:
+- YOUNG_ADULLLT 项目
+- YOUNG_ADULLLT project
+summary: EU Horizon 2020 研究项目（Grant No 693167），9 国 16 区 168 名专家访谈，考察终身学习政策区域治理
 type: fact
 subtype: event
-tags: ["region/eu", "region/global", "policy/lifelong-learning", "policy/employment", "research-project"]
-related_concepts: ["[[Network Governance]]", "[[Theories of Policy Change]]", "[[Selectivity]]", "[[Performance Indicators]]"]
+region: eu
+tags:
+- region/eu
+- region/global
+- policy/lifelong-learning
+- policy/employment
+- research-project
+related_concepts:
+- '[[Network Governance]]'
+- '[[Theories of Policy Change]]'
+- '[[Selectivity]]'
+- '[[Performance Indicators]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[EU Skills Agenda]]", "[[Youth Guarantee Scheme]]", "[[Europe 2020 Strategy]]"]
-related_arguments: ["[[Argument_Rambla_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
+related_facts:
+- '[[EU Skills Agenda]]'
+- '[[Youth Guarantee Scheme]]'
+- '[[Europe 2020 Strategy]]'
+related_arguments:
+- '[[Argument_Rambla_2022_Springer]]'
+sources:
+- '[[Ch10_Rambla_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-14
-updated: 2026-05-14
+created: '2026-05-14'
+updated: '2026-05-18'
 ---
 
 # YOUNG_ADULLLT

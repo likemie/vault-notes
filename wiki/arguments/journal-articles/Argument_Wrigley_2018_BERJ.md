@@ -1,6 +1,6 @@
 ---
 title: Argument_Wrigley_2018_BERJ
-summary: 当“证据”被压缩为 RCT、元分析和平均效应量时，教育研究会在技术、哲学与意识形态三个层级同时失真。
+summary: 以批判实在论对 EBE 方法论进行三层解构：RCT 的简化 → 元分析的混淆 → 元-元分析（Hattie/Toolkit）的失真，定位 EBE 于新自由主义框架
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -36,7 +36,6 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

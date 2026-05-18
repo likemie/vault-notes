@@ -2,7 +2,7 @@
 title: Paul Morris
 aliases:
 - Morris
-summary: Paul Morris 是伦敦大学学院（UCL）教育与社会学院（Institute of Education, Department of Education, Practice and Society）的教授。
+summary: UCL 比较教育教授，专攻香港课程变革政治分析、政策借用与国家安全的课程后果
 type: person
 nationality: global
 tags:

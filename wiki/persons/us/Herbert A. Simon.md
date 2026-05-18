@@ -2,7 +2,7 @@
 title: Herbert A. Simon
 aliases:
 - Simon
-summary: Herbert A. Simon（1916–2001）是美国政治科学家、经济学家和认知心理学家，卡内基梅隆大学教授，1978 年诺贝尔经济学奖获得者。
+summary: 卡内基梅隆大学教授，1978 年诺贝尔经济学奖得主，有限理性理论创始人，Qvortrup 用作教学认识论基础
 type: person
 nationality: us
 tags:

@@ -1,19 +1,45 @@
 ---
 title: Chinese Learner
-aliases: [中国学习者, Chinese learners, Chinese student]
+aliases:
+- 中国学习者
+- Chinese learners
+- Chinese student
+summary: 来自中国及儒家文化圈（香港、台湾、新加坡）的学生群体；西方持有缺陷型（死记硬背、被动）和优势型（数学好、勤奋）两种矛盾刻板印象，Ryan 主张全面审视其本质化
 type: concept
-tags: [region/china, region/hongkong, region/singapore, region/taiwan, level/k12, level/higher-ed]
-related_concepts: ["[[International Education]]", "[[Fourth Culture]]", "[[International Schools]]", "[[Stereotype Threat]]", "[[Meta-Cultural Sensitivity]]", "[[Orientalism]]"]
-related_theories: ["[[Hofstede's Cultural Dimensions]]"]
+tags:
+- region/china
+- region/hongkong
+- region/singapore
+- region/taiwan
+- level/k12
+- level/higher-ed
+related_concepts:
+- '[[International Education]]'
+- '[[Fourth Culture]]'
+- '[[International Schools]]'
+- '[[Stereotype Threat]]'
+- '[[Meta-Cultural Sensitivity]]'
+- '[[Orientalism]]'
+related_theories:
+- '[[Hofstede''s Cultural Dimensions]]'
 related_methods: []
 related_persons: []
-related_facts: ["[[English Schools Foundation Hong Kong]]", "[[Transnationalism and America Project SYSU]]", "[[China Basic Education Curriculum Reform 2001]]"]
-related_arguments: ["[[Argument_Ryan_2010_HKUP]]", "[[Argument_Slethaug_2010_InternationalEducation]]", "[[Argument_Ryan_2010_ChineseLearner]]"]
-sources: ["[[Ryan(Ed.)_2010_HKUP]]", "[[Ch1_Slethaug_2010]]", "[[Ch2_Ryan_2010]]"]
+related_facts:
+- '[[English Schools Foundation Hong Kong]]'
+- '[[Transnationalism and America Project SYSU]]'
+- '[[China Basic Education Curriculum Reform 2001]]'
+related_arguments:
+- '[[Argument_Ryan_2010_HKUP]]'
+- '[[Argument_Slethaug_2010_InternationalEducation]]'
+- '[[Argument_Ryan_2010_ChineseLearner]]'
+sources:
+- '[[Ryan(Ed.)_2010_HKUP]]'
+- '[[Ch1_Slethaug_2010]]'
+- '[[Ch2_Ryan_2010]]'
 confidence: medium
 status: draft
-created: 2026-05-16
-updated: 2026-05-17
+created: '2026-05-16'
+updated: '2026-05-18'
 ---
 
 # Chinese Learner

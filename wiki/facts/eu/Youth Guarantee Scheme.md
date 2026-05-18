@@ -1,20 +1,40 @@
 ---
 title: Youth Guarantee Scheme
-aliases: ["青年保障计划（欧盟）", "EU Youth Guarantee"]
+aliases:
+- 青年保障计划（欧盟）
+- EU Youth Guarantee
+summary: EU 2013 年理事会建议书，确保青年在离校或失业后 4 个月内获得就业、教育、培训或学徒机会
 type: fact
 subtype: policy
-tags: ["region/eu", "region/global", "policy/employment", "policy/education", "level/k12", "level/higher-ed"]
-related_concepts: ["[[Theories of Policy Change]]", "[[Selectivity]]", "[[Performance Indicators]]", "[[Network Governance]]"]
+region: eu
+issuing_organization: ''
+tags:
+- region/eu
+- region/global
+- policy/employment
+- policy/education
+- level/k12
+- level/higher-ed
+related_concepts:
+- '[[Theories of Policy Change]]'
+- '[[Selectivity]]'
+- '[[Performance Indicators]]'
+- '[[Network Governance]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Europe 2020 Strategy]]", "[[EU Skills Agenda]]", "[[Innovation Union]]"]
-related_arguments: ["[[Argument_Rambla_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
+related_facts:
+- '[[Europe 2020 Strategy]]'
+- '[[EU Skills Agenda]]'
+- '[[Innovation Union]]'
+related_arguments:
+- '[[Argument_Rambla_2022_Springer]]'
+sources:
+- '[[Ch10_Rambla_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-05-18'
 ---
 
 # Youth Guarantee Scheme

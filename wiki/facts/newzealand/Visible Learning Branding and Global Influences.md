@@ -1,16 +1,66 @@
 ---
 title: Visible Learning Branding and Global Influences
+aliases: []
+summary: VL 品牌化与全球影响：asTTle 起源→2010 年 Cognition Education 推出 VLplus 商业化 Hattie VL→2018 年 Corwin 收购，已扩散至 23+ 国；含商标、产品体系、各国政策采纳、政策误用与制度批评（O'Neill/Terhart/O'Connor/Blass/Johnson & Janzen）、品牌免疫分析
 type: fact
 subtype: event
-tags: [Visible Learning, commercialization, branding, global-policy-adoption, region/newzealand, region/australia, region/denmark, region/russia, region/international]
-related_concepts: ["[[Visible Learning]]", "[[Educational Management Organisation (EMO)]]", "[[Tomorrow's Schools Reforms (NZ 1989)]]", "[[Cult of the Guru]]", "[[Policy Entrepreneur]]", "[[Performativity of Measurement]]", "[[Neo-Taylorism in Educational Administration]]", "[[Policy Borrowing]]", "[[Global Education Reform Movement (GERM)]]", "[[Evidence-Based Education]]", "[[Effect Size]]", "[[Performance Pay]]", "[[Class Size]]", "[[Material Fallacies]]"]
-related_persons: ["[[John Hattie]]", "[[Scott Eacott]]", "[[Lars Qvortrup]]"]
-related_facts: ["[[New Zealand National Standards (2009)]]", "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]", "[[Danish Public School Reform 2014]]", "[[Russian Translation of Visible Learning 2017]]", "[[Victorian HITS and Literacy Toolkit 2017]]"]
-sources: ["sources/ONeill_2016_Report.md", "sources/Terhart_2011_JCS.md", "sources/ONeill_2012_NZJES.md", "sources/Laursen_2015_Paideia.md", "sources/Hattie_2015_SOTLP.md", "sources/Eacott_2017_SLM.md", "sources/Eacott_2019_IJLE.md", "sources/Golovchin_2019_ESC.md", "sources/Qvortrup_2019_NordSTEP.md", "sources/Sarbiewska_2019_JSR.md", "sources/Blass_2020_JESP.md", "sources/McKnight_2020_Discourse.md", "sources/Johnson_2023_CE.md"]
+region: newzealand
+tags:
+- Visible Learning
+- commercialization
+- branding
+- global-policy-adoption
+- region/newzealand
+- region/australia
+- region/denmark
+- region/russia
+- region/international
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Educational Management Organisation (EMO)]]'
+- '[[Tomorrow''s Schools Reforms (NZ 1989)]]'
+- '[[Cult of the Guru]]'
+- '[[Policy Entrepreneur]]'
+- '[[Performativity of Measurement]]'
+- '[[Neo-Taylorism in Educational Administration]]'
+- '[[Policy Borrowing]]'
+- '[[Global Education Reform Movement (GERM)]]'
+- '[[Evidence-Based Education]]'
+- '[[Effect Size]]'
+- '[[Performance Pay]]'
+- '[[Class Size]]'
+- '[[Material Fallacies]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Scott Eacott]]'
+- '[[Lars Qvortrup]]'
+related_facts:
+- '[[New Zealand National Standards (2009)]]'
+- '[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]'
+- '[[Danish Public School Reform 2014]]'
+- '[[Russian Translation of Visible Learning 2017]]'
+- '[[Victorian HITS and Literacy Toolkit 2017]]'
+related_arguments: []
+sources:
+- '[[ONeill_2016_Report]]'
+- '[[Terhart_2011_JCS]]'
+- '[[ONeill_2012_NZJES]]'
+- '[[Laursen_2015_Paideia]]'
+- '[[Hattie_2015_SOTLP]]'
+- '[[Eacott_2017_SLM]]'
+- '[[Eacott_2019_IJLE]]'
+- '[[Golovchin_2019_ESC]]'
+- '[[Qvortrup_2019_NordSTEP]]'
+- '[[Sarbiewska_2019_JSR]]'
+- '[[Blass_2020_JESP]]'
+- '[[McKnight_2020_Discourse]]'
+- '[[Johnson_2023_CE]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-07
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 背景

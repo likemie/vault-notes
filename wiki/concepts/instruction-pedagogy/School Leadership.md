@@ -1,33 +1,38 @@
 ---
 title: School Leadership
+aliases: []
+summary: 对学生教育成功具有决定性影响的因素，最好在具体情境中理解，ISSPP 识别出设定方向、发展人员、改进组织、建立信任、构建安全学习环境等跨情境基本领导实践
 type: concept
 tags:
-  - School Leadership
-  - subject/curriculum
-  - level/k12
+- School Leadership
+- subject/curriculum
+- level/k12
 related_concepts:
-  - "[[Transformative Leadership]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Performativity of Measurement]]"
-  - "[[New Public Management in Education]]"
-  - "[[School Autonomy]]"
+- '[[Transformative Leadership]]'
+- '[[Evidence-Based Education]]'
+- '[[Performativity of Measurement]]'
+- '[[New Public Management in Education]]'
+- '[[School Autonomy]]'
 related_theories:
-  - - "[[Pierre Bourdieu]]"
+- '[[[''[[Pierre Bourdieu]]'']]]'
+related_methods: []
 related_persons:
-  - "[[Christopher Day]]"
-  - "[[Jorunn Møller]]"
-  - "[[Helen Gunter]]"
-  - "[[Carolyn Shields]]"
-  - "[[Clippings/Pierre Bourdieu]]"
+- '[[Christopher Day]]'
+- '[[Jorunn Møller]]'
+- '[[Helen Gunter]]'
+- '[[Carolyn Shields]]'
+- '[[Clippings/Pierre Bourdieu]]'
+related_facts: []
+related_arguments: []
 sources:
-  - sources/Møller_2017_EERJ.md
-  - sources/Eacott_2011_JEAH.md
-  - sources/Keddie_2020_JEAH.md
-  - sources/Keddie_2020_IJLE.md
+- '[[Møller_2017_EERJ]]'
+- '[[Eacott_2011_JEAH]]'
+- '[[Keddie_2020_JEAH]]'
+- '[[Keddie_2020_IJLE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-03
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

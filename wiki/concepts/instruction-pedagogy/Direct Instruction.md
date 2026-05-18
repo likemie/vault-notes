@@ -1,14 +1,35 @@
 ---
 title: Direct Instruction
+aliases: []
+summary: 以教师主导的结构化明确讲解为特征的教学方法，Hattie 评级 d=0.59；Zhao (2017) 以副作用框架论证其效果（成绩提升）与副作用（抑制创造力、限制探索、非生产性成功）不可分离
 type: concept
-tags: [direct-instruction, explicit-instruction, pedagogy, subject/instruction, level/k12]
-related_concepts: ["[[Side Effects in Education]]", "[[Visible Learning]]", "[[Whole Language]]", "[[Effect Size]]", "[[Problem-Based Learning]]"]
-related_persons: ["[[John Hattie]]", "[[Yong Zhao]]"]
-sources: ["sources/Zhao_2017_JEC.md", "sources/Hattie_2015_SOTLP.md", "sources/Fredens_2015_Paideia.md"]
+tags:
+- direct-instruction
+- explicit-instruction
+- pedagogy
+- subject/instruction
+- level/k12
+related_concepts:
+- '[[Side Effects in Education]]'
+- '[[Visible Learning]]'
+- '[[Whole Language]]'
+- '[[Effect Size]]'
+- '[[Problem-Based Learning]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Yong Zhao]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Zhao_2017_JEC]]'
+- '[[Hattie_2015_SOTLP]]'
+- '[[Fredens_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-04
-updated: 2026-05-05
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

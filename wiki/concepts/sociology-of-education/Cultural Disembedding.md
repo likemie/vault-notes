@@ -1,37 +1,38 @@
 ---
 title: Cultural Disembedding
 aliases:
-  - 文化脱嵌
-  - cultural disembedding
+- 文化脱嵌
+- cultural disembedding
+summary: 郑雅君 (2023) 的概念：寒门学子进入精英大学后对物理环境和社会文化环境的全面疏离感，是文化障碍的第一重维度
 type: concept
 tags:
-  - cultural-disembedding
-  - higher-education
-  - inequality
-  - cultural-barrier
-  - region/china
-  - level/higher-ed
+- cultural-disembedding
+- higher-education
+- inequality
+- cultural-barrier
+- region/china
+- level/higher-ed
 related_concepts:
-  - "[[Cultural Barrier in Higher Education]]"
-  - "[[Cultural Disorientation]]"
-  - "[[The Shock of the Elite]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Habitus]]"
-  - "[[Cultural Capital]]"
+- '[[Cultural Barrier in Higher Education]]'
+- '[[Cultural Disorientation]]'
+- '[[The Shock of the Elite]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Habitus]]'
+- '[[Cultural Capital]]'
 related_theories:
-  - "[[Pierre Bourdieu]]"
-related_persons:
-  - "[[Yajun Zheng]]"
-  - "[[Clippings/Pierre Bourdieu]]"
+- '[[Pierre Bourdieu]]'
 related_methods: []
+related_persons:
+- '[[Yajun Zheng]]'
+- '[[Clippings/Pierre Bourdieu]]'
 related_facts: []
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-09
-updated: 2026-05-09
+created: '2026-05-09'
+updated: '2026-05-18'
 ---
 
 ## 定义

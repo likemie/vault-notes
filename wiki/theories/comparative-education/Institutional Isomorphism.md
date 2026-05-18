@@ -1,19 +1,35 @@
 ---
 title: Institutional Isomorphism
-aliases: ["制度同构", "制度同形", "制度性同构", "institutional isomorphism theory", "DiMaggio and Powell isomorphism"]
+aliases:
+- 制度同构
+- 制度同形
+- 制度性同构
+- institutional isomorphism theory
+- DiMaggio and Powell isomorphism
+summary: DiMaggio & Powell (1983) 的组织社会学理论：组织场域中的组织通过强制型、模仿型和规范型三种机制在结构和实践上趋于同质化，Hartmann (2022) 应用于分析 MNCs 企业教育的规范扩散
 type: theory
-tags: ["paradigm/interpretivist", "subject/comparative-education"]
-related_concepts: ["[[Corporate Education]]", "[[Corporate University]]", "[[Further Education]]", "[[New Public Management in Education]]"]
-related_theories: ["[[World Society Theory]]"]
+tags:
+- paradigm/interpretivist
+- subject/comparative-education
+related_concepts:
+- '[[Corporate Education]]'
+- '[[Corporate University]]'
+- '[[Further Education]]'
+- '[[New Public Management in Education]]'
+related_theories:
+- '[[World Society Theory]]'
 related_methods: []
-related_persons: ["[[Max Weber]]"]
+related_persons:
+- '[[Max Weber]]'
 related_facts: []
-related_arguments: ["[[Argument_Hartmann_2022_CorporateEducation]]"]
-sources: ["[[Ch11_Hartmann_2022]]"]
+related_arguments:
+- '[[Argument_Hartmann_2022_CorporateEducation]]'
+sources:
+- '[[Ch11_Hartmann_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-18
-updated: 2026-05-18
+created: '2026-05-18'
+updated: '2026-05-18'
 ---
 
 # Institutional Isomorphism

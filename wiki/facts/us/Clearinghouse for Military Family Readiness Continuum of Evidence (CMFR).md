@@ -1,15 +1,31 @@
 ---
 title: Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)
+aliases: []
+summary: 面向军人家庭的 public 清算中心，对 RCT 与一般 QED 均有详细证据标准
 type: fact
-subtype: institution
-tags: [CMFR, educational-evidence-clearinghouse, evidence-based-education, military-family, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]"]
+subtype: event
+region: us
+tags:
+- CMFR
+- educational-evidence-clearinghouse
+- evidence-based-education
+- military-family
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
 related_theories: []
-sources: ["sources/Wadhwa_2024_RER.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

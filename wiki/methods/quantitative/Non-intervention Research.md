@@ -2,7 +2,7 @@
 title: Non-intervention Research
 aliases:
 - 非干预研究
-summary: 非干预研究（Non-intervention Research）是不操纵自变量的研究集合。Brady et al. (2023) 的分类中。
+summary: 不操纵自变量的研究集合，包括观察/相关、质性、混合方法/多方法研究；Brady et al. (2023) 发现其仍占经验教育心理学研究约四分之三
 type: method
 method_type: quantitative
 tags:

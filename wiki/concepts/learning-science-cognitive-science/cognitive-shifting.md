@@ -1,14 +1,31 @@
 ---
 title: Cognitive Shifting
+aliases: []
+summary: 亦称认知灵活性或任务切换，执行功能的核心成分：在多个任务、操作或心理集之间切换的能力，与 PFC 的 vlPFC 和 dlPFC 激活相关
 type: concept
-tags: [cognitive-shifting, cognitive-flexibility, executive-function, learning-science, cognitive-science]
-related_concepts: ["[[executive-function]]", "[[cognitive-inhibition]]", "[[updating-and-monitoring]]", "[[prefrontal-cortex]]"]
-related_theories: ["[[miyake-unity-diversity-framework]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+tags:
+- cognitive-shifting
+- cognitive-flexibility
+- executive-function
+- learning-science
+- cognitive-science
+related_concepts:
+- '[[executive-function]]'
+- '[[cognitive-inhibition]]'
+- '[[updating-and-monitoring]]'
+- '[[prefrontal-cortex]]'
+related_theories:
+- '[[miyake-unity-diversity-framework]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

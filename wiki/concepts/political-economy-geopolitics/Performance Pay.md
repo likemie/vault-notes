@@ -1,15 +1,30 @@
 ---
 title: Performance Pay
+aliases: []
+summary: 将教师薪酬与测量表现挂钩的制度，亦称 merit pay；过去 25+ 年大多数尝试失败；与 Hattie 强调的安全信任教师文化直接矛盾
 type: concept
-tags: [performance-pay, merit-pay, subject/curriculum, level/k12]
-related_concepts: ["[[Visible Learning]]", "[[Professional Judgment]]"]
-related_persons: ["[[John Hattie]]"]
-related_facts: ["[[The Scott Report 1986]]"]
-sources: ["sources/Snook_2009_NZJES.md", "sources/Hattie_2010_NZJES.md"]
+tags:
+- performance-pay
+- merit-pay
+- subject/curriculum
+- level/k12
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Professional Judgment]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts:
+- '[[The Scott Report 1986]]'
+related_arguments: []
+sources:
+- '[[Snook_2009_NZJES]]'
+- '[[Hattie_2010_NZJES]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-06
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

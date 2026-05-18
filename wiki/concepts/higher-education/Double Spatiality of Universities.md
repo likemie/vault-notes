@@ -1,16 +1,28 @@
 ---
 title: Double Spatiality of Universities
-aliases: [大学双重空间性]
+aliases:
+- 大学双重空间性
+summary: 大学的双重空间特征：同时扎根于具体的城市与国家，又通过学术流动和开放心智视野跨越边界，贯穿从佛教寺院到现代大学的高等教育史
 type: concept
-tags: [theme/spatiality, level/higher-ed, region/global]
-related_concepts: ["[[Space-Making in Higher Education]]", "[[Geopolitics of Knowledge]]"]
+tags:
+- theme/spatiality
+- level/higher-ed
+- region/global
+related_concepts:
+- '[[Space-Making in Higher Education]]'
+- '[[Geopolitics of Knowledge]]'
 related_theories: []
-related_persons: ["[[Doreen Massey]]"]
-sources: ["[[Marginson_2025_ROE]]"]
+related_methods: []
+related_persons:
+- '[[Doreen Massey]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-12
-updated: 2026-05-12
+created: '2026-05-12'
+updated: '2026-05-18'
 ---
 
 # Double Spatiality of Universities

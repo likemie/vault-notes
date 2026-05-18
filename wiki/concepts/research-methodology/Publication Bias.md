@@ -1,15 +1,35 @@
 ---
 title: Publication Bias
+aliases: []
+summary: 正面/显著结果比零/负面结果更可能被发表或传播的系统性倾向（文件抽屉效应），在教育评估中可解释约 66% 的开发者效应
 type: concept
-tags: [publication-bias, file-drawer-effect, meta-analysis, research-methodology, evidence-based-education]
-related_concepts: ["[[Effect Size]]", "[[Statistical Significance]]", "[[Developer Effect]]", "[[Preregistration]]", "[[Researcher Degrees of Freedom]]", "[[Evidence-Based Education]]"]
+tags:
+- publication-bias
+- file-drawer-effect
+- meta-analysis
+- research-methodology
+- evidence-based-education
+related_concepts:
+- '[[Effect Size]]'
+- '[[Statistical Significance]]'
+- '[[Developer Effect]]'
+- '[[Preregistration]]'
+- '[[Researcher Degrees of Freedom]]'
+- '[[Evidence-Based Education]]'
 related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/Wolf_2020_JREE.md", "sources/Wecker_2016_ZfE.md", "sources/Snook_2009_NZJES.md", "sources/Kraft_2023_ER.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wolf_2020_JREE]]'
+- '[[Wecker_2016_ZfE]]'
+- '[[Snook_2009_NZJES]]'
+- '[[Kraft_2023_ER]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-05
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

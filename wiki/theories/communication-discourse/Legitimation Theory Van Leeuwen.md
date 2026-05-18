@@ -1,15 +1,33 @@
 ---
 title: Legitimation Theory Van Leeuwen
+aliases: []
+summary: Van Leeuwen (2007) 的四层次合法化框架：权威/传统、道德价值、理性/真理、奖励叙事，Bainbridge et al. 用于解释教育证据如何被政策制定者接受或排斥
 type: theory
-tags: [Legitimation-Theory, Van-Leeuwen, discourse-analysis, evidence-based-policy, critical-discourse-analysis]
-related_concepts: ["[[Moral Sidestep]]", "[[Justified Warrants]]", "[[Evidence-Based Education]]", "[[Grammar School]]", "[[Selective Education]]"]
-related_persons: ["[[Gert Biesta]]"]
-related_methods: ["[[Carnivalesque Analysis]]"]
-sources: ["sources/Bainbridge_2022_ROE.md"]
+tags:
+- Legitimation-Theory
+- Van-Leeuwen
+- discourse-analysis
+- evidence-based-policy
+- critical-discourse-analysis
+related_concepts:
+- '[[Moral Sidestep]]'
+- '[[Justified Warrants]]'
+- '[[Evidence-Based Education]]'
+- '[[Grammar School]]'
+- '[[Selective Education]]'
+related_theories: []
+related_methods:
+- '[[Carnivalesque Analysis]]'
+related_persons:
+- '[[Gert Biesta]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bainbridge_2022_ROE]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

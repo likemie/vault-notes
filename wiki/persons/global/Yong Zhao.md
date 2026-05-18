@@ -2,7 +2,7 @@
 title: Yong Zhao
 aliases:
 - 赵勇
-summary: Yong Zhao（赵勇）是美国教育研究者，长期从比较教育与教育创新视角批判证据本位改革只问“什么有效”而忽视副作用。
+summary: University of Kansas 教育政策与比较教育教授，从医学引入副作用概念至教育研究，论证教育干预的效果与副作用不可分离
 type: person
 nationality: global
 tags:

@@ -1,15 +1,29 @@
 ---
 title: Parallel Monologues
+aliases: []
+summary: Eacott 提出的概念，描述教育行政研究中学者各自在子领域内发表和引用但很少实质性交锋的结构性现象，主张以论证与反驳为学术工作的生成逻辑
 type: concept
-tags: [Parallel Monologues, educational-administration, research-methodology]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]"]
-related_persons: ["[[Scott Eacott]]", "[[John Hattie]]"]
-related_theories: ["[[Pierre Bourdieu]]"]
-sources: ["sources/Eacott_2019_IJLE.md"]
+tags:
+- Parallel Monologues
+- educational-administration
+- research-methodology
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+related_theories:
+- '[[Pierre Bourdieu]]'
+related_methods: []
+related_persons:
+- '[[Scott Eacott]]'
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Eacott_2019_IJLE]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,37 +1,43 @@
 ---
 title: Cultural Capital
-aliases: [文化资本, cultural capital]
+aliases:
+- 文化资本
+- cultural capital
+summary: Pierre Bourdieu 的核心概念：个体通过家庭社会化获得的、在特定场域中具有交换价值的文化资源，三种形态（具身化/客体化/制度化），郑雅君 (2023) 分析其如何通过习性转化为大学场域中的竞争优势
 type: concept
 tags:
-  - cultural-capital
-  - Bourdieu
-  - social-stratification
-  - paradigm/critical
-  - region/france
-  - level/higher-ed
+- cultural-capital
+- Bourdieu
+- social-stratification
+- paradigm/critical
+- region/france
+- level/higher-ed
 related_concepts:
-  - "[[Habitus]]"
-  - "[[Champ]]"
-  - "[[Cultural Barrier in Higher Education]]"
-  - "[[Goal-Controlled Mode]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Academic and Social Integration]]"
-  - "[[Student Engagement]]"
-  - "[[The Shock of the Elite]]"
-  - "[[Doxa]]"
+- '[[Habitus]]'
+- '[[Champ]]'
+- '[[Cultural Barrier in Higher Education]]'
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Academic and Social Integration]]'
+- '[[Student Engagement]]'
+- '[[The Shock of the Elite]]'
+- '[[Doxa]]'
 related_theories:
-  - "[[Pierre Bourdieu]]"
-  - "[[Culture as Toolkit]]"
+- '[[Pierre Bourdieu]]'
+- '[[Culture as Toolkit]]'
+related_methods: []
 related_persons:
-  - "[[Clippings/Pierre Bourdieu]]"
-  - "[[Yajun Zheng]]"
+- '[[Clippings/Pierre Bourdieu]]'
+- '[[Yajun Zheng]]'
+related_facts: []
+related_arguments: []
 sources:
-  - sources/Eacott_2011_JEAH.md
-  - "[[郑_2023_上海三联书店]]"
+- '[[Eacott_2011_JEAH]]'
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-09
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Cultural Capital

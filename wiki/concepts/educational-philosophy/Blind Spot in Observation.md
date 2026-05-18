@@ -1,15 +1,27 @@
 ---
 title: Blind Spot in Observation
+aliases: []
+summary: Niklas Luhmann 的观察盲点概念：每次观察都基于盲点，观察者无法看见自身，Larsen 将其应用于 VL 范式批判
 type: concept
-tags: [Blind Spot in Observation, paradigm/systems-theory]
-related_theories: ["[[Luhmann's Systems Theory]]"]
-related_persons: ["[[Niklas Luhmann]]"]
-related_concepts: ["[[Visible Learning]]", "[[Structural Coupling]]"]
-sources: ["sources/Larsen_2019_EducSci.md"]
+tags:
+- Blind Spot in Observation
+- paradigm/systems-theory
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Structural Coupling]]'
+related_theories:
+- '[[Luhmann''s Systems Theory]]'
+related_methods: []
+related_persons:
+- '[[Niklas Luhmann]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Larsen_2019_EducSci]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

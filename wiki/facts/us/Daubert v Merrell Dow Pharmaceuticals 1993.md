@@ -1,16 +1,30 @@
 ---
 title: Daubert v. Merrell Dow Pharmaceuticals (1993)
+aliases: []
+summary: 美国联邦最高法院里程碑裁决，确立科学证据可采性标准，Berk (2011) 引入评估研究方法论讨论以框架化证据与垃圾科学的区分
 type: fact
 subtype: event
-tags: [Daubert, junk-science, region/us, legal, evidence-standards, subject/research-methodology]
-related_concepts: ["[[Evidence-Based Education]]"]
+region: us
+tags:
+- Daubert
+- junk-science
+- region/us
+- legal
+- evidence-standards
+- subject/research-methodology
+related_concepts:
+- '[[Evidence-Based Education]]'
 related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/Berk_2011_ER.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Berk_2011_ER]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 背景

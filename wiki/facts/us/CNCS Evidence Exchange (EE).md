@@ -1,15 +1,31 @@
 ---
 title: CNCS Evidence Exchange (EE)
+aliases: []
+summary: 只审查 CNCS 自身资助项目和干预的 public 清算中心，在 Wadhwa et al. (2024) 样本中贡献 52 个项目
 type: fact
-subtype: institution
-tags: [CNCS-Evidence-Exchange, EE, educational-evidence-clearinghouse, evidence-based-education, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]"]
+subtype: event
+region: us
+tags:
+- CNCS-Evidence-Exchange
+- EE
+- educational-evidence-clearinghouse
+- evidence-based-education
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
 related_theories: []
-sources: ["sources/Wadhwa_2024_RER.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

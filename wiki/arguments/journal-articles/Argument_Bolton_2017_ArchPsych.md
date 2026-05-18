@@ -1,6 +1,6 @@
 ---
 title: Argument_Bolton_2017_ArchPsych
-summary: 皮亚杰与新皮亚杰的发展阶段可与前额叶和执行功能的发展大体对应，从而为认知阶段论提供神经基础支持。
+summary: 将皮亚杰/新皮亚杰认知发展阶段与 PFC 解剖生理发育及 EF 发展轨迹进行对齐的文献综述，论证阶段过渡是 EF 随脑发育而发展的函数
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -42,7 +42,6 @@ status: draft
 created: '2026-05-04'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 论文试图回答：皮亚杰和新皮亚杰的认知发展阶段理论是否与前额叶皮层（PFC）的解剖生理发育以及执行功能（EF）的发展在时间上平行对应？（Bolton & Hattie, 2017, p.1–2）

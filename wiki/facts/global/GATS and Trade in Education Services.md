@@ -1,20 +1,41 @@
 ---
 title: GATS and Trade in Education Services
-aliases: ["GATS", "General Agreement on Trade in Services", "服务贸易总协定", "教育服务贸易"]
+aliases:
+- GATS
+- General Agreement on Trade in Services
+- 服务贸易总协定
+- 教育服务贸易
+summary: WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映"新帝国主义
 type: fact
 subtype: policy
-tags: ["GATS", "WTO", "trade-in-services", "education-trade", "neoliberalism", "region/global", "level/higher-ed"]
-related_concepts: ["[[Internationalization of Higher Education]]", "[[Geopolitics of Knowledge]]", "[[Endogenous and Exogenous Privatisation]]", "[[Knowledge-Based Economy]]"]
+region: global
+issuing_organization: ''
+tags:
+- GATS
+- WTO
+- trade-in-services
+- education-trade
+- neoliberalism
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Internationalization of Higher Education]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Endogenous and Exogenous Privatisation]]'
+- '[[Knowledge-Based Economy]]'
 related_theories: []
 related_methods: []
-related_persons: ["[[Fazal Rizvi]]"]
+related_persons:
+- '[[Fazal Rizvi]]'
 related_facts: []
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
+related_arguments:
+- '[[Argument_Rizvi_2022_Springer]]'
+sources:
+- '[[Ch6_Rizvi_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # GATS and Trade in Education Services

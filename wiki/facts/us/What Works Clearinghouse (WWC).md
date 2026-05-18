@@ -1,15 +1,39 @@
 ---
 title: What Works Clearinghouse (WWC)
+aliases: []
+summary: 美国教育部 2002 年创建的 evidence clearinghouse，评级项目、政策、实践和研究；Wiliam (2019) 追溯其政治动力，Wadhwa et al. (2024) 记录其在教育清算中心生态中的高度可见度
 type: fact
-subtype: institution
-tags: [What-Works-Clearinghouse, WWC, educational-evidence-clearinghouse, evidence-based-education, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]", "[[Effect Size]]", "[[Single-Case Design (SCD)]]", "[[5-3-20 Rule]]", "[[Gating Procedure]]"]
-related_theories: ["[[Campbellian Validity Framework]]"]
-sources: ["sources/Wiliam_2019_ERE.md", "sources/Wolf_2020_JREE.md", "sources/Hitchcock_2015_JBE.md", "sources/Wadhwa_2024_RER.md"]
+subtype: event
+region: us
+tags:
+- What-Works-Clearinghouse
+- WWC
+- educational-evidence-clearinghouse
+- evidence-based-education
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
+- '[[Effect Size]]'
+- '[[Single-Case Design (SCD)]]'
+- '[[5-3-20 Rule]]'
+- '[[Gating Procedure]]'
+related_theories:
+- '[[Campbellian Validity Framework]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wiliam_2019_ERE]]'
+- '[[Wolf_2020_JREE]]'
+- '[[Hitchcock_2015_JBE]]'
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

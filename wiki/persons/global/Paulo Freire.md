@@ -5,7 +5,7 @@ aliases:
 - 弗莱雷
 - 保罗·弗莱雷
 - Paulo Reglus Neves Freire
-summary: Paulo Freire（1921–1997），巴西教育家、哲学家，批判教育学（critical pedagogy）的奠基人。
+summary: 巴西教育家，批判教育学奠基人，《被压迫者教育学》(1972) 作者，提出"银行概念"揭示教学中不可化约的权力梯度，Partaken 将其应用于 GPK 强制知识转移分析
 type: person
 nationality: global
 tags:

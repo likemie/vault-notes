@@ -1,18 +1,33 @@
 ---
 title: Coleman Report 1966
+aliases: []
+summary: 美国教育部委托的里程碑式教育机会平等研究（650,000+ 学生、4,000 所学校），结论为家庭背景而非学校特征是学业差距的主要驱动力，50 年后 Downey & Condron 重新评估认为 Coleman 低估了学校的补偿性作用
 type: fact
 subtype: event
-tags: [coleman-report, education-inequality, federal-study, region/us, level/k12]
+region: us
+tags:
+- coleman-report
+- education-inequality
+- federal-study
+- region/us
+- level/k12
 related_concepts: []
-related_persons: ["[[James S. Coleman]]"]
-related_theories: ["[[Refraction Framework]]"]
-related_methods: ["[[Seasonal Comparison]]"]
-related_facts: ["[[Moynihan Report 1965]]", "[[A Nation at Risk 1983]]"]
-sources: ["sources/Downey_2016_SoE.md"]
+related_theories:
+- '[[Refraction Framework]]'
+related_methods:
+- '[[Seasonal Comparison]]'
+related_persons:
+- '[[James S. Coleman]]'
+related_facts:
+- '[[Moynihan Report 1965]]'
+- '[[A Nation at Risk 1983]]'
+related_arguments: []
+sources:
+- '[[Downey_2016_SoE]]'
 confidence: high
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 背景

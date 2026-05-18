@@ -1,17 +1,41 @@
 ---
 title: Neo-Taylorism in Educational Administration
+aliases: []
+summary: Taylor 科学管理原理在教育行政领域的当代复兴，Eacott 论证 Hattie VL 是"新时代的泰勒主义"，以寻找唯一正确方法和最大化效率为核心逻辑
 type: concept
-tags: [Neo-Taylorism, educational-administration, school-leadership, paradigm/critical]
-related_concepts: ["[[Visible Learning]]", "[[School Leadership]]", "[[Cult of the Guru]]", "[[Class Size]]", "[[Performativity of Measurement]]"]
-related_persons: ["[[Scott Eacott]]", "[[John Hattie]]"]
-related_theories: ["[[New Public Management in Education]]", "[[Technical Rationality]]"]
-related_arguments: ["[[Argument_Eacott_2017_SLM]]", "[[Argument_Hattie_2017_SLM]]"]
-related_facts: ["[[Visible Learning Branding and Global Influences]]", "[[Victorian HITS and Literacy Toolkit 2017]]"]
-sources: ["sources/Eacott_2017_SLM.md", "sources/Hattie_2017_SLM.md", "sources/Eacott_2019_IJLE.md", "sources/Johnson_2023_CE.md"]
+tags:
+- Neo-Taylorism
+- educational-administration
+- school-leadership
+- paradigm/critical
+related_concepts:
+- '[[Visible Learning]]'
+- '[[School Leadership]]'
+- '[[Cult of the Guru]]'
+- '[[Class Size]]'
+- '[[Performativity of Measurement]]'
+related_theories:
+- '[[New Public Management in Education]]'
+- '[[Technical Rationality]]'
+related_methods: []
+related_persons:
+- '[[Scott Eacott]]'
+- '[[John Hattie]]'
+related_facts:
+- '[[Visible Learning Branding and Global Influences]]'
+- '[[Victorian HITS and Literacy Toolkit 2017]]'
+related_arguments:
+- '[[Argument_Eacott_2017_SLM]]'
+- '[[Argument_Hattie_2017_SLM]]'
+sources:
+- '[[Eacott_2017_SLM]]'
+- '[[Hattie_2017_SLM]]'
+- '[[Eacott_2019_IJLE]]'
+- '[[Johnson_2023_CE]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-07
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,19 +1,35 @@
 ---
 title: Scale in Higher Education
-aliases: [高等教育尺度, scale analysis in higher education, 尺度分析]
+aliases:
+- 高等教育尺度
+- scale analysis in higher education
+- 尺度分析
+summary: 尺度的关系性分析：七层不可化约的活跃尺度（世界-全球-泛国家区域-国家-次国家-地方-个体），尺度不是俄罗斯套娃，"国家科学 vs 全球科学"的对比提供了关键证据
 type: concept
-tags: [theme/spatiality, level/higher-ed, region/global]
-related_concepts: ["[[Methodological Nationalism]]", "[[Methodological Globalism]]", "[[Double Spatiality of Universities]]", "[[Space-Making in Higher Education]]", "[[Geopolitics of Knowledge]]"]
-related_theories: ["[[World-Systems Theory]]"]
-related_persons: ["[[Doreen Massey]]"]
+tags:
+- theme/spatiality
+- level/higher-ed
+- region/global
+related_concepts:
+- '[[Methodological Nationalism]]'
+- '[[Methodological Globalism]]'
+- '[[Double Spatiality of Universities]]'
+- '[[Space-Making in Higher Education]]'
+- '[[Geopolitics of Knowledge]]'
+related_theories:
+- '[[World-Systems Theory]]'
 related_methods: []
+related_persons:
+- '[[Doreen Massey]]'
 related_facts: []
-related_arguments: ["[[Argument_Marginson_2025_ROE]]"]
-sources: ["[[Marginson_2025_ROE]]"]
+related_arguments:
+- '[[Argument_Marginson_2025_ROE]]'
+sources:
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-05-18'
 ---
 
 # Scale in Higher Education

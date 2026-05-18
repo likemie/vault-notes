@@ -1,24 +1,29 @@
 ---
 title: Epistemological Vigilance
+aliases: []
+summary: Bourdieu 认识论核心概念：社会科学家需持续保持对日常语言和前科学概念的批判性警觉，是终身的智识项目
 type: concept
 tags:
-  - Epistemological Vigilance
-  - epistemology
-  - Bourdieu
-  - paradigm/critical
-related_theories:
-  - "[[Pierre Bourdieu]]"
-related_persons:
-  - "[[Clippings/Pierre Bourdieu]]"
-  - "[[Gaston Bachelard]]"
+- Epistemological Vigilance
+- epistemology
+- Bourdieu
+- paradigm/critical
 related_concepts:
-  - "[[Epistemological Break]]"
+- '[[Epistemological Break]]'
+related_theories:
+- '[[Pierre Bourdieu]]'
+related_methods: []
+related_persons:
+- '[[Clippings/Pierre Bourdieu]]'
+- '[[Gaston Bachelard]]'
+related_facts: []
+related_arguments: []
 sources:
-  - sources/Eacott_2015_EPT.md
+- '[[Eacott_2015_EPT]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

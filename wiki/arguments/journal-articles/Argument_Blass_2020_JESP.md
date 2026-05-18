@@ -1,6 +1,6 @@
 ---
 title: Argument_Blass_2020_JESP
-summary: 学术研究能否转化为政策不只看方法是否严谨，还取决于情境、假设、领导力与时效性的共同作用。
+summary: 以五要素框架（方法论、情境、假设、领导力、时效性）评估 Hattie VL 在澳大利亚教育政策中的误用，揭示 VL 被用作"不改变的好借口"而抑制教学创新，记录 Hattie 后续工作中放弃排名转向学习模型
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -30,7 +30,6 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

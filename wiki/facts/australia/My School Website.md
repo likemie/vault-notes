@@ -1,16 +1,33 @@
 ---
 title: My School Website
+aliases: []
+summary: 2008 年建立的澳大利亚学校透明度和比较网站，基于 NAPLAN 成绩排名学校，被批评为制造社会分裂和残余化的核心机制
 type: fact
 subtype: policy
-tags: [My School, region/australia, level/k12, assessment, accountability]
-related_concepts: ["[[School Autonomy]]", "[[New Public Management in Education]]", "[[Performativity of Measurement]]"]
+region: australia
+issuing_organization: ''
+tags:
+- My School
+- region/australia
+- level/k12
+- assessment
+- accountability
+related_concepts:
+- '[[School Autonomy]]'
+- '[[New Public Management in Education]]'
+- '[[Performativity of Measurement]]'
 related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/Keddie_2020_JEAH.md", "sources/Keddie_2020_IJLE.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Keddie_2020_JEAH]]'
+- '[[Keddie_2020_IJLE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-03
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 背景

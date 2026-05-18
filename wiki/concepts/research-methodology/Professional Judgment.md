@@ -1,15 +1,29 @@
 ---
 title: Professional Judgment
+aliases: []
+summary: 教师在复杂情境中整合研究知识、伦理标准和方法论原则做出教学决策的能力，Qvortrup 定位为 VL 中教学干预与学习成果之间的"缺失环节
 type: concept
-tags: [professional-judgment, teacher-development, evidence-based-education]
-related_theories: ["[[Bounded Rationality]]"]
-related_persons: ["[[Donald A. Schön]]", "[[Herbert A. Simon]]"]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]"]
-sources: ["sources/Qvortrup_2019_NordSTEP.md"]
+tags:
+- professional-judgment
+- teacher-development
+- evidence-based-education
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+related_theories:
+- '[[Bounded Rationality]]'
+related_methods: []
+related_persons:
+- '[[Donald A. Schön]]'
+- '[[Herbert A. Simon]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Qvortrup_2019_NordSTEP]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,16 +1,38 @@
 ---
 title: Dual-Process Model of Culture in Action
-aliases: [文化行动双过程模型, dual-process model, Vaisey 双过程模型]
+aliases:
+- 文化行动双过程模型
+- dual-process model
+- Vaisey 双过程模型
+summary: Stephen Vaisey (2009) 的理论：调和文化工具箱与价值观驱动两种范式，论证二者在不同意识层次上并存，郑雅君 (2023) 作为"价值选择过程"的理论基础
 type: theory
-tags: [dual-process-model, cultural-sociology, cognitive-sociology, paradigm/interpretivist]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Habitus]]", "[[Work Meaning Schemas (Zheng)]]", "[[Graduation Pathway Typology (Zheng)]]"]
-related_theories: ["[[Culture as Toolkit]]", "[[Pierre Bourdieu]]"]
-related_persons: ["[[Stephen Vaisey]]", "[[Ann Swidler]]", "[[Yajun Zheng]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- dual-process-model
+- cultural-sociology
+- cognitive-sociology
+- paradigm/interpretivist
+related_concepts:
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Habitus]]'
+- '[[Work Meaning Schemas (Zheng)]]'
+- '[[Graduation Pathway Typology (Zheng)]]'
+related_theories:
+- '[[Culture as Toolkit]]'
+- '[[Pierre Bourdieu]]'
+related_methods: []
+related_persons:
+- '[[Stephen Vaisey]]'
+- '[[Ann Swidler]]'
+- '[[Yajun Zheng]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Dual-Process Model of Culture in Action

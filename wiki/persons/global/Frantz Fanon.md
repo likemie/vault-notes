@@ -4,7 +4,7 @@ aliases:
 - Fanon
 - 法农
 - 弗朗茨·法农
-summary: Frantz Fanon（1925–1961），出生于法属马提尼克（Martinique）的精神病学家、哲学家和革命理论家，去殖民化运动的核心思想人物。
+summary: 法国（马提尼克）精神病学家与去殖民化理论家，Black Skin White Masks (1952) 作者，Partaken (2022) 定位为后殖民 GPK 传统的奠基者
 type: person
 nationality: global
 tags:

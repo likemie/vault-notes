@@ -1,7 +1,7 @@
 ---
 title: Christopher Day
 aliases: []
-summary: Christopher Day，英国教育研究者，ISSPP（International Successful School Principalship Project）项目的创始人和领导者。
+summary: 英国教育研究者，ISSPP 项目创始人和领导者，构建了 20+ 国的成功学校领导力跨国知识基础
 type: person
 nationality: uk
 tags:

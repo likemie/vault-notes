@@ -1,19 +1,31 @@
 ---
 title: Fourth Culture
-aliases: [第四文化, fourth culture]
+aliases:
+- 第四文化
+- fourth culture
+summary: Deveney (2005) 的概念：位于学生母国境内但并不代表其本土文化与信仰的国际学校，Jabal 用于分析香港国际学校中中国学习者的"调适复杂性
 type: concept
-tags: [region/hongkong, level/k12]
-related_concepts: ["[[Chinese Learner]]", "[[International Education]]", "[[International Schools]]", "[[International Baccalaureate (IB)]]"]
+tags:
+- region/hongkong
+- level/k12
+related_concepts:
+- '[[Chinese Learner]]'
+- '[[International Education]]'
+- '[[International Schools]]'
+- '[[International Baccalaureate (IB)]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[English Schools Foundation Hong Kong]]"]
-related_arguments: ["[[Argument_Ryan_2010_HKUP]]"]
-sources: ["[[Ryan(Ed.)_2010_HKUP]]"]
+related_facts:
+- '[[English Schools Foundation Hong Kong]]'
+related_arguments:
+- '[[Argument_Ryan_2010_HKUP]]'
+sources:
+- '[[Ryan(Ed.)_2010_HKUP]]'
 confidence: medium
 status: draft
-created: 2026-05-16
-updated: 2026-05-17
+created: '2026-05-16'
+updated: '2026-05-18'
 ---
 
 # Fourth Culture

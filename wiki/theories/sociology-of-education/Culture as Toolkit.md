@@ -1,40 +1,44 @@
 ---
 title: Culture as Toolkit
 aliases:
-  - 文化工具箱
-  - culture as toolkit
-  - Swidler 工具箱理论
+- 文化工具箱
+- culture as toolkit
+- Swidler 工具箱理论
+summary: Ann Swidler (1986) 的文化社会学理论：文化不仅定义价值观更是提供行动策略所需的"工具"，郑雅君 (2023) 用于分析大学生活组织图式的阶层差异
 type: theory
 tags:
-  - culture-as-toolkit
-  - cultural-sociology
-  - paradigm/interpretivist
+- culture-as-toolkit
+- cultural-sociology
+- paradigm/interpretivist
 related_concepts:
-  - "[[Goal-Controlled Mode]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Cultural Barrier in Higher Education]]"
-  - "[[Habitus]]"
-  - "[[Cultural Capital]]"
-  - "[[Self-Driven Mode]]"
-  - "[[Opportunist Mode]]"
-  - "[[Lost Mode]]"
-  - "[[Value Conformist Mode]]"
-  - "[[Work Meaning Schemas (Zheng)]]"
-  - "[[Graduation Pathway Typology (Zheng)]]"
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Cultural Barrier in Higher Education]]'
+- '[[Habitus]]'
+- '[[Cultural Capital]]'
+- '[[Self-Driven Mode]]'
+- '[[Opportunist Mode]]'
+- '[[Lost Mode]]'
+- '[[Value Conformist Mode]]'
+- '[[Work Meaning Schemas (Zheng)]]'
+- '[[Graduation Pathway Typology (Zheng)]]'
 related_theories:
-  - "[[Dual-Process Model of Culture in Action]]"
-  - "[[Pierre Bourdieu]]"
+- '[[Dual-Process Model of Culture in Action]]'
+- '[[Pierre Bourdieu]]'
+related_methods: []
 related_persons:
-  - "[[Ann Swidler]]"
-  - "[[Yajun Zheng]]"
-  - "[[Max Weber]]"
-  - "[[Stephen Vaisey]]"
+- '[[Ann Swidler]]'
+- '[[Yajun Zheng]]'
+- '[[Max Weber]]'
+- '[[Stephen Vaisey]]'
+related_facts: []
+related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Culture as Toolkit

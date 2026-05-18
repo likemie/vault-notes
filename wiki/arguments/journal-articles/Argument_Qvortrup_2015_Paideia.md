@@ -1,6 +1,6 @@
 ---
 title: Argument_Qvortrup_2015_Paideia
-summary: Visible Learning 的影响力建立在其对学习与知识概念的特定设定上，而这些设定本身需要被单独审视。
+summary: VL 支持者立场讨论论文：回应三类批评，并指出学习结果概念需通过动态知识与学习模型加以重建
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -38,7 +38,6 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

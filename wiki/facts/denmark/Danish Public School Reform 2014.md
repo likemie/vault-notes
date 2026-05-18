@@ -1,16 +1,38 @@
 ---
 title: Danish Public School Reform 2014
+aliases: []
+summary: 丹麦议会多数通过公立学校改革，以学习目标替代科目目标，明确引用 Hattie VL，引发教师和研究者的强烈反对
 type: fact
 subtype: policy
-tags: [education-reform, region/denmark, level/k12, visible-learning]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Learnification]]", "[[Bildung]]", "[[Effective Teaching]]"]
-related_persons: ["[[John Hattie]]", "[[Lars Qvortrup]]"]
-related_facts: ["[[Visible Learning Branding and Global Influences]]"]
-sources: ["sources/Larsen_2019_EducSci.md", "sources/Qvortrup_2019_NordSTEP.md", "sources/Laursen_2015_Paideia.md"]
+region: denmark
+issuing_organization: ''
+tags:
+- education-reform
+- region/denmark
+- level/k12
+- visible-learning
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Learnification]]'
+- '[[Bildung]]'
+- '[[Effective Teaching]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Lars Qvortrup]]'
+related_facts:
+- '[[Visible Learning Branding and Global Influences]]'
+related_arguments: []
+sources:
+- '[[Larsen_2019_EducSci]]'
+- '[[Qvortrup_2019_NordSTEP]]'
+- '[[Laursen_2015_Paideia]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-05
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 背景

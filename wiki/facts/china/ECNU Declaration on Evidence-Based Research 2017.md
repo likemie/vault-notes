@@ -1,15 +1,29 @@
 ---
 title: ECNU Declaration on Evidence-Based Research 2017
+aliases: []
+summary: 华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣言，提出 10 条措施推进中国教育实证研究，标志中国证据本位改革的制度化里程碑（Slavin et al., 2021）
 type: fact
 subtype: event
-tags: [Evidence-Based Reform, region/china, level/higher-ed]
-related_concepts: ["[[Evidence-Based Reform]]", "[[Evidence-Based Education]]"]
-related_persons: ["[[Robert Slavin]]"]
-sources: ["sources/Slavin_2021_ROE.md"]
+region: china
+tags:
+- Evidence-Based Reform
+- region/china
+- level/higher-ed
+related_concepts:
+- '[[Evidence-Based Reform]]'
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Robert Slavin]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Slavin_2021_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 背景

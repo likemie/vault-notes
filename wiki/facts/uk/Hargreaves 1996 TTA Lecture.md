@@ -1,16 +1,31 @@
 ---
 title: Hargreaves 1996 TTA Lecture
+aliases: []
+summary: David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
 type: fact
 subtype: event
-tags: [evidence-based-education, research-practice-gap, Teacher-Training-Agency, region/uk]
-related_concepts: ["[[Evidence-Based Education]]"]
-related_persons: ["[[David Hargreaves]]"]
-sources: ["sources/Wiliam_2019_ERE.md"]
+region: uk
+tags:
+- evidence-based-education
+- research-practice-gap
+- Teacher-Training-Agency
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[David Hargreaves]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wiliam_2019_ERE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
+
 ## 背景
 
 1990 年代中期，英国教育研究与实践之间的关系日益受到关注。Ofsted（教育标准办公室）已开始委托一系列为教师撰写的研究综述（如 Arnot et al., 1998; Askew & Wiliam, 1995; Gillborn & Gipps, 1996; Reynolds & Farrell, 1996），但教育研究与专业实践之间的系统性脱节仍然显著。（Wiliam, 2019, pp.3–4）

@@ -1,16 +1,38 @@
 ---
 title: Opportunist Mode
-aliases: [机会主义者, opportunist actor, 机会主义]
+aliases:
+- 机会主义者
+- opportunist actor
+- 机会主义
+summary: 郑雅君 (2023) 的类型：目标掌控模式+弱价值信念=机会主义者，擅长策略但无深层价值认同，追求工具性利益最大化
 type: concept
-tags: [opportunist-mode, higher-education, career-development, region/china, level/higher-ed]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Self-Driven Mode]]", "[[Lost Mode]]", "[[Value Conformist Mode]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Work Meaning Schemas (Zheng)]]", "[[Economy of Experience]]"]
-related_theories: ["[[Culture as Toolkit]]"]
-related_persons: ["[[Yajun Zheng]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- opportunist-mode
+- higher-education
+- career-development
+- region/china
+- level/higher-ed
+related_concepts:
+- '[[Goal-Controlled Mode]]'
+- '[[Self-Driven Mode]]'
+- '[[Lost Mode]]'
+- '[[Value Conformist Mode]]'
+- '[[Graduation Pathway Typology (Zheng)]]'
+- '[[Work Meaning Schemas (Zheng)]]'
+- '[[Economy of Experience]]'
+related_theories:
+- '[[Culture as Toolkit]]'
+related_methods: []
+related_persons:
+- '[[Yajun Zheng]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-09
-updated: 2026-05-09
+created: '2026-05-09'
+updated: '2026-05-18'
 ---
 
 ## 定义

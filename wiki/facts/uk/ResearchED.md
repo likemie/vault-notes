@@ -1,15 +1,32 @@
 ---
 title: ResearchED
+aliases: []
+summary: 2013 年 Tom Bennett 创立的以 RCT 为黄金标准的教师草根运动，获 Nick Gibb 背书，被 Wrigley 批评为以"赋权教师"之名限制方法论视野，Wrigley & McCusker (2019) 批评其推广"民间科学观
 type: fact
-tags: [ResearchED, evidence-based-education, teacher-movement, RCT, synthetic-phonics, region/uk]
-related_concepts: ["[[Evidence-Based Education]]"]
+subtype: event
+region: uk
+tags:
+- ResearchED
+- evidence-based-education
+- teacher-movement
+- RCT
+- synthetic-phonics
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
 related_theories: []
-related_persons: ["[[Terry Wrigley]]"]
-sources: ["sources/Wrigley_2018_BERJ.md", "sources/Wrigley_2019_ERE.md"]
+related_methods: []
+related_persons:
+- '[[Terry Wrigley]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wrigley_2018_BERJ]]'
+- '[[Wrigley_2019_ERE]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 概述

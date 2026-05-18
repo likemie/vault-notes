@@ -1,15 +1,32 @@
 ---
 title: Education at a Glance (EAG)
+aliases: []
+summary: OECD 年度旗舰出版物，以 30 项国际教育指标描述各国教育系统，涵盖产出、投入、参与、环境四大维度
 type: concept
-tags: [Education at a Glance, EAG, OECD indicators, Comparative Education, region/global, level/k12]
-related_concepts: ["[[International Indicators of Education Systems (INES)]]", "[[Performance Indicators]]", "[[Performativity of Measurement]]"]
-related_theories: ["[[Science and Technology Studies (STS)]]"]
-related_persons: ["[[Norberto Bottani]]"]
-sources: ["sources/Gorur_2014_Discourse.md"]
+tags:
+- Education at a Glance
+- EAG
+- OECD indicators
+- Comparative Education
+- region/global
+- level/k12
+related_concepts:
+- '[[International Indicators of Education Systems (INES)]]'
+- '[[Performance Indicators]]'
+- '[[Performativity of Measurement]]'
+related_theories:
+- '[[Science and Technology Studies (STS)]]'
+related_methods: []
+related_persons:
+- '[[Norberto Bottani]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Gorur_2014_Discourse]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

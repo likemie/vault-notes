@@ -1,19 +1,29 @@
 ---
 title: Buen Vivir
 aliases: []
+summary: 拉丁美洲安第斯原住民传统概念："与自然和共同体和谐共处"的"好好生活"——区别于 vivir mejor（更好生活=更多消费），Amos (2022) 将其与后人类主义并置为替代现代性教育愿景的非西方文化资源
 type: concept
-tags: [buen-vivir, latin-american-philosophy, relational-ontology, posthumanism, alternative-development, region/global]
-related_concepts: ["[[Posthumanism]]", "[[Ubuntu]]"]
-related_persons: []
+tags:
+- buen-vivir
+- latin-american-philosophy
+- relational-ontology
+- posthumanism
+- alternative-development
+- region/global
+related_concepts:
+- '[[Posthumanism]]'
+- '[[Ubuntu]]'
 related_theories: []
 related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,6 +1,6 @@
 ---
 title: Argument_Ryan_2010_ChineseLearner
-summary: “中国学习者”刻板印象同时误读文化差异与个体经验，跨文化教学更应转向去本质化理解与相互调适。
+summary: Ch2 文献批判综述：西方对中国学习者"缺陷型"与"优势型"双重刻板印象的诊断，二元对立表格的建构，"儒家价值"归因的非实证性，2001 年中国课程改革使刻板印象过时，元文化敏感度作为替代路径
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -33,7 +33,6 @@ status: draft
 created: '2026-05-17'
 updated: '2026-05-18'
 ---
-
 
 # Argument_Ryan_2010_ChineseLearner
 

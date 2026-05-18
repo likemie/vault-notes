@@ -1,13 +1,28 @@
 ---
 title: Hebbian Principles
+aliases: []
+summary: Hebb 突触可塑性原则：经常使用的神经通路被加强，不常用的被移除，是突触修剪的理论基础
 type: theory
-tags: [hebbian-learning, neuroscience, synaptic-plasticity, learning-science]
-related_concepts: ["[[synaptic-pruning]]", "[[synaptogenesis]]", "[[neuroplasticity]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+tags:
+- hebbian-learning
+- neuroscience
+- synaptic-plasticity
+- learning-science
+related_concepts:
+- '[[synaptic-pruning]]'
+- '[[synaptogenesis]]'
+- '[[neuroplasticity]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

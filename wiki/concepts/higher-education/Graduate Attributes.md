@@ -1,14 +1,33 @@
 ---
 title: Graduate Attributes
-aliases: [毕业生特质, graduate attributes, 毕业生素养, graduate outcomes, graduate skills, graduate qualities]
+aliases:
+- 毕业生特质
+- graduate attributes
+- 毕业生素养
+- graduate outcomes
+- graduate skills
+- graduate qualities
+summary: 大学认同其学生在学期间应当发展的品质、技能和理解，受高等教育市场化驱动，Wong et al. (2022) 识别 UK 四大话语
 type: concept
-tags: [graduate-attributes, ideal-graduate, level/higher-ed, region/uk]
-related_concepts: ["[[Employability]]", "[[Credential Inflation]]"]
-sources: ["sources/Wong_2022_HERD.md"]
+tags:
+- graduate-attributes
+- ideal-graduate
+- level/higher-ed
+- region/uk
+related_concepts:
+- '[[Employability]]'
+- '[[Credential Inflation]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wong_2022_HERD]]'
 confidence: low
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

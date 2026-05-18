@@ -1,16 +1,39 @@
 ---
 title: No Child Left Behind Act 2001
+aliases: []
+summary: Bush 政府 ESEA 重新授权，"科学本位研究"出现 110 次，将实验证据标准嵌入联邦教育项目核心，ESSA (2015) 的前身
 type: fact
 subtype: policy
-tags: [No-Child-Left-Behind, evidence-based-education, scientifically-based-research, ESEA, federal-education-law, region/us, level/k12]
-related_concepts: ["[[Evidence-Based Education]]", "[[Evidence-Based Reform]]", "[[Side Effects in Education]]"]
+region: us
+issuing_organization: ''
+tags:
+- No-Child-Left-Behind
+- evidence-based-education
+- scientifically-based-research
+- ESEA
+- federal-education-law
+- region/us
+- level/k12
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
+- '[[Side Effects in Education]]'
 related_theories: []
-related_persons: ["[[Robert Slavin]]", "[[Yong Zhao]]"]
-sources: ["sources/Slavin_2002_ER.md", "sources/OConnor_2020_AJLL.md", "sources/Zhao_2017_JEC.md", "sources/Downey_2016_SoE.md"]
+related_methods: []
+related_persons:
+- '[[Robert Slavin]]'
+- '[[Yong Zhao]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Slavin_2002_ER]]'
+- '[[OConnor_2020_AJLL]]'
+- '[[Zhao_2017_JEC]]'
+- '[[Downey_2016_SoE]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-04
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 背景

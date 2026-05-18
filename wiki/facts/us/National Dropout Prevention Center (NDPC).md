@@ -1,15 +1,31 @@
 ---
 title: National Dropout Prevention Center (NDPC)
+aliases: []
+summary: 聚焦辍学预防项目的非营利教育清算中心，在 Wadhwa et al. (2024) 四个详细比较对象中最高评级门槛最低
 type: fact
-subtype: institution
-tags: [NDPC, educational-evidence-clearinghouse, evidence-based-education, dropout-prevention, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]"]
+subtype: event
+region: us
+tags:
+- NDPC
+- educational-evidence-clearinghouse
+- evidence-based-education
+- dropout-prevention
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
 related_theories: []
-sources: ["sources/Wadhwa_2024_RER.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

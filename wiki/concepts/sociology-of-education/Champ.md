@@ -1,33 +1,41 @@
 ---
 title: Champ
-aliases: [场域, Field (Bourdieu), field, champ]
+aliases:
+- 场域
+- Field (Bourdieu)
+- field
+- champ
+summary: Pierre Bourdieu 的核心概念：具有相对自主性和自身游戏规则的社会空间，郑雅君 (2023) 将中国精英大学分析为一个布迪厄式场域，Eacott (2011) 诊断教育场域自主性的削弱
 type: concept
 tags:
-  - field-theory
-  - Bourdieu
-  - social-theory
-  - paradigm/critical
-  - region/france
-  - level/higher-ed
+- field-theory
+- Bourdieu
+- social-theory
+- paradigm/critical
+- region/france
+- level/higher-ed
 related_concepts:
-  - "[[Habitus]]"
-  - "[[Cultural Capital]]"
-  - "[[Goal-Controlled Mode]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Credential Inflation]]"
-  - "[[Doxa]]"
+- '[[Habitus]]'
+- '[[Cultural Capital]]'
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Credential Inflation]]'
+- '[[Doxa]]'
 related_theories:
-  - "[[Pierre Bourdieu]]"
+- '[[Pierre Bourdieu]]'
+related_methods: []
 related_persons:
-  - "[[Clippings/Pierre Bourdieu]]"
-  - "[[Yajun Zheng]]"
+- '[[Clippings/Pierre Bourdieu]]'
+- '[[Yajun Zheng]]'
+related_facts: []
+related_arguments: []
 sources:
-  - sources/Eacott_2011_JEAH.md
-  - "[[郑_2023_上海三联书店]]"
+- '[[Eacott_2011_JEAH]]'
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-09
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Champ

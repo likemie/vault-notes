@@ -1,14 +1,33 @@
 ---
 title: Prefrontal Cortex
+aliases: []
+summary: 前额叶皮层（PFC），位于大脑额叶，分眼眶/内侧/外侧三区，最后成熟（~30 岁）且最先老化，在学习序列开始时被激活
 type: concept
-tags: [prefrontal-cortex, brain, neuroscience, learning-science, cognitive-science]
-related_concepts: ["[[executive-function]]", "[[working-memory]]", "[[synaptogenesis]]", "[[synaptic-pruning]]", "[[myelination]]", "[[neuroplasticity]]"]
-related_theories: ["[[piagets-theory-of-cognitive-development]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+tags:
+- prefrontal-cortex
+- brain
+- neuroscience
+- learning-science
+- cognitive-science
+related_concepts:
+- '[[executive-function]]'
+- '[[working-memory]]'
+- '[[synaptogenesis]]'
+- '[[synaptic-pruning]]'
+- '[[myelination]]'
+- '[[neuroplasticity]]'
+related_theories:
+- '[[piagets-theory-of-cognitive-development]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

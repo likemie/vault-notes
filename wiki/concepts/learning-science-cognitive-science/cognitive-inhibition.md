@@ -1,14 +1,30 @@
 ---
 title: Cognitive Inhibition
+aliases: []
+summary: 执行功能的核心成分：在必要时故意抑制主导性或自动化反应的能力，约 2–5 岁为关键发展期，4 岁左右出现"铰链点
 type: concept
-tags: [cognitive-inhibition, executive-function, learning-science, cognitive-science]
-related_concepts: ["[[executive-function]]", "[[cognitive-shifting]]", "[[updating-and-monitoring]]", "[[prefrontal-cortex]]"]
-related_theories: ["[[miyake-unity-diversity-framework]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+tags:
+- cognitive-inhibition
+- executive-function
+- learning-science
+- cognitive-science
+related_concepts:
+- '[[executive-function]]'
+- '[[cognitive-shifting]]'
+- '[[updating-and-monitoring]]'
+- '[[prefrontal-cortex]]'
+related_theories:
+- '[[miyake-unity-diversity-framework]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,14 +1,31 @@
 ---
 title: Gating Procedure
+aliases: []
+summary: 系统综述策略：仅内部效度强的研究通过门槛进入推广性评估，WWC 对 SCD 和组间设计均采用此程序
 type: concept
-tags: [gating-procedure, systematic-review, research-methodology, What-Works-Clearinghouse, internal-validity]
-related_concepts: ["[[Single-Case Design (SCD)]]", "[[5-3-20 Rule]]", "[[Evidence-Based Education]]", "[[What Works Clearinghouse (WWC)]]"]
-related_theories: ["[[Campbellian Validity Framework]]"]
-sources: ["sources/Hitchcock_2015_JBE.md"]
+tags:
+- gating-procedure
+- systematic-review
+- research-methodology
+- What-Works-Clearinghouse
+- internal-validity
+related_concepts:
+- '[[Single-Case Design (SCD)]]'
+- '[[5-3-20 Rule]]'
+- '[[Evidence-Based Education]]'
+- '[[What Works Clearinghouse (WWC)]]'
+related_theories:
+- '[[Campbellian Validity Framework]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Hitchcock_2015_JBE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-05
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

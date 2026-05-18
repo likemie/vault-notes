@@ -1,19 +1,33 @@
 ---
 title: Economic Patriotism
 aliases: []
+summary: Crouch & Le Galès (2012) 概念：国家将资源集中于冠军城市以锚定全球资本流动，将爱国情感与特定领土利益绑定的政策实践，Moisio (2022) 定位为知识经济化中国家的核心行为逻辑
 type: concept
-tags: [economic-patriotism, knowledge-based-economization, spatial-policy, urbanization, region/global]
-related_concepts: ["[[Knowledge-Based Economization]]", "[[National Competitive Advantage]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Geopolitics of Knowledge]]"]
-related_theories: ["[[Fixity-Motion Tension]]"]
-related_persons: ["[[Sami Moisio]]"]
+tags:
+- economic-patriotism
+- knowledge-based-economization
+- spatial-policy
+- urbanization
+- region/global
+related_concepts:
+- '[[Knowledge-Based Economization]]'
+- '[[National Competitive Advantage]]'
+- '[[Hub and Flow Imaginaries]]'
+- '[[Spatial Sortings]]'
+- '[[Geopolitics of Knowledge]]'
+related_theories:
+- '[[Fixity-Motion Tension]]'
 related_methods: []
+related_persons:
+- '[[Sami Moisio]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
+sources:
+- '[[Ch2_Moisio_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

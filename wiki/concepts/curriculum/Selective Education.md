@@ -1,14 +1,32 @@
 ---
 title: Selective Education
+aliases: []
+summary: 依据学术能力考试将中学生分流至文法学校与现代中学的制度，研究证据一致表明其效果至多为中性，多数为负面
 type: concept
-tags: [selective-education, grammar-schools, secondary-education, region/uk, level/k12]
-related_concepts: ["[[Grammar School]]", "[[Moral Sidestep]]", "[[Evidence-Based Education]]", "[[Eleven-plus Exam]]", "[[Ofsted]]"]
-related_theories: ["[[Legitimation Theory Van Leeuwen]]"]
-sources: ["sources/Bainbridge_2022_ROE.md"]
+tags:
+- selective-education
+- grammar-schools
+- secondary-education
+- region/uk
+- level/k12
+related_concepts:
+- '[[Grammar School]]'
+- '[[Moral Sidestep]]'
+- '[[Evidence-Based Education]]'
+- '[[Eleven-plus Exam]]'
+- '[[Ofsted]]'
+related_theories:
+- '[[Legitimation Theory Van Leeuwen]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bainbridge_2022_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

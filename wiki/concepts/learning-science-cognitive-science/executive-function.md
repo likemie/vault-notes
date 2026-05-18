@@ -1,15 +1,32 @@
 ---
 title: Executive Function
+aliases: []
+summary: 执行功能（EF）：一组高阶通用目的控制过程（抑制、转换、更新与监控），调节认知功能以实现目标，是学业表现的主要预测因素
 type: concept
-tags: [executive-function, learning-science, cognitive-science]
-related_concepts: ["[[working-memory]]", "[[cognitive-inhibition]]", "[[cognitive-shifting]]", "[[updating-and-monitoring]]", "[[prefrontal-cortex]]"]
-related_theories: ["[[miyake-unity-diversity-framework]]", "[[piagets-theory-of-cognitive-development]]"]
-related_persons: ["[[Akira Miyake]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+tags:
+- executive-function
+- learning-science
+- cognitive-science
+related_concepts:
+- '[[working-memory]]'
+- '[[cognitive-inhibition]]'
+- '[[cognitive-shifting]]'
+- '[[updating-and-monitoring]]'
+- '[[prefrontal-cortex]]'
+related_theories:
+- '[[miyake-unity-diversity-framework]]'
+- '[[piagets-theory-of-cognitive-development]]'
+related_methods: []
+related_persons:
+- '[[Akira Miyake]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

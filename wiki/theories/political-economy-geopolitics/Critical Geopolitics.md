@@ -1,19 +1,55 @@
 ---
 title: Critical Geopolitics
-aliases: ["批判地缘政治学", "批判地缘政治", "critical geopolitics"]
+aliases:
+- 批判地缘政治学
+- 批判地缘政治
+- critical geopolitics
+summary: 1990s 以来人文地理学批判转向：空间性≠领土性，地缘政治通过政治想象和话语被建构，Moisio (2022) 将其应用于知识经济化，Parreira do Amaral (2022) 将其作为新知识地缘政治的两大分析支柱之一
 type: theory
-tags: [critical-geopolitics, geopolitics-of-knowledge, knowledge-based-economization, spatial-turn, political-geography, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge-Based Economization]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[International Education Hubs]]", "[[Minerva University]]", "[[Global Education Industry]]", "[[Internationalization of Higher Education]]", "[[Orientalism]]"]
-related_theories: ["[[Fixity-Motion Tension]]", "[[Decolonial Geopolitics of Knowledge]]", "[[Network Society]]"]
-related_persons: ["[[Sami Moisio]]", "[[Michael Porter]]", "[[Bob Jessop]]", "[[David Harvey]]", "[[Fazal Rizvi]]"]
+tags:
+- critical-geopolitics
+- geopolitics-of-knowledge
+- knowledge-based-economization
+- spatial-turn
+- political-geography
+- region/global
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Classical Geopolitics]]'
+- '[[Hub and Flow Imaginaries]]'
+- '[[Knowledge-Based Economization]]'
+- '[[Spatial Sortings]]'
+- '[[Geopolitical Subject]]'
+- '[[National Competitive Advantage]]'
+- '[[Economic Patriotism]]'
+- '[[International Education Hubs]]'
+- '[[Minerva University]]'
+- '[[Global Education Industry]]'
+- '[[Internationalization of Higher Education]]'
+- '[[Orientalism]]'
+related_theories:
+- '[[Fixity-Motion Tension]]'
+- '[[Decolonial Geopolitics of Knowledge]]'
+- '[[Network Society]]'
 related_methods: []
+related_persons:
+- '[[Sami Moisio]]'
+- '[[Michael Porter]]'
+- '[[Bob Jessop]]'
+- '[[David Harvey]]'
+- '[[Fazal Rizvi]]'
 related_facts: []
-related_arguments: ["[[Argument_Hartmann_2022_CorporateEducation]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022.md"]
+related_arguments:
+- '[[Argument_Hartmann_2022_CorporateEducation]]'
+sources:
+- '[[Ch2_Moisio_2022]]'
+- '[[Ch3_Parreira do Amaral_2022]]'
+- '[[Ch6_Rizvi_2022]]'
+- '[[Ch11_Hartmann_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-11
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

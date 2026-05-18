@@ -2,7 +2,7 @@
 title: John Hattie
 aliases:
 - Hattie
-summary: John Hattie 是新西兰教育统计学家，现任墨尔本大学教育研究所（Melbourne Graduate School of Education）教授。
+summary: 墨尔本大学教育统计学家，Visible Learning 创始人，以 800+ 元分析综合效应量排名全球影响教育政策和实践，同时面临方法论和文化政治的多维度批评
 type: person
 nationality: global
 tags:

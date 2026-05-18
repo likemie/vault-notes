@@ -1,15 +1,37 @@
 ---
 title: Ofsted
+aliases: []
+summary: 英国教育标准办公室，其学校评级被 Bainbridge et al. 发现系统性混同为研究证据，成为"建构型道德侧步"的核心操作工具
 type: fact
 subtype: policy
-tags: [Ofsted, school-inspection, evidence-based-policy, accountability, region/uk]
-related_concepts: ["[[Grammar School]]", "[[Selective Education]]", "[[Evidence-Based Education]]", "[[Moral Sidestep]]", "[[Justified Warrants]]"]
-related_facts: ["[[EEF Teaching and Learning Toolkit]]", "[[Selective Schools Expansion Fund 2018]]", "[[Eleven-plus Exam]]"]
-sources: ["sources/Bainbridge_2022_ROE.md"]
+region: uk
+issuing_organization: ''
+tags:
+- Ofsted
+- school-inspection
+- evidence-based-policy
+- accountability
+- region/uk
+related_concepts:
+- '[[Grammar School]]'
+- '[[Selective Education]]'
+- '[[Evidence-Based Education]]'
+- '[[Moral Sidestep]]'
+- '[[Justified Warrants]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts:
+- '[[EEF Teaching and Learning Toolkit]]'
+- '[[Selective Schools Expansion Fund 2018]]'
+- '[[Eleven-plus Exam]]'
+related_arguments: []
+sources:
+- '[[Bainbridge_2022_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 背景

@@ -1,19 +1,35 @@
 ---
 title: Power-Geometries
-aliases: [权力几何学, power-geometries, power geometry]
+aliases:
+- 权力几何学
+- power-geometries
+- power geometry
+summary: Doreen Massey (2005) 的空间理论核心概念：空间中的开放、封闭和互联不是中立的，而是通过社会关系被不平等地建构，英美大学既是全球知识枢纽也是全球不平等制造者
 type: concept
-tags: [theme/spatiality, theme/power, region/global, level/higher-ed]
-related_concepts: ["[[Multiplicity (Massey)]]", "[[Space-Making in Higher Education]]", "[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]"]
-related_theories: ["[[World-Systems Theory]]"]
-related_persons: ["[[Doreen Massey]]"]
+tags:
+- theme/spatiality
+- theme/power
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Multiplicity (Massey)]]'
+- '[[Space-Making in Higher Education]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Classical Geopolitics]]'
+related_theories:
+- '[[World-Systems Theory]]'
 related_methods: []
+related_persons:
+- '[[Doreen Massey]]'
 related_facts: []
-related_arguments: ["[[Argument_Marginson_2025_ROE]]"]
-sources: ["[[Marginson_2025_ROE]]"]
+related_arguments:
+- '[[Argument_Marginson_2025_ROE]]'
+sources:
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-05-18'
 ---
 
 # Power-Geometries

@@ -1,19 +1,34 @@
 ---
 title: Corporate University
-aliases: ["企业大学", "公司大学", "CU", "corporate training academy"]
+aliases:
+- 企业大学
+- 公司大学
+- CU
+- corporate training academy
+summary: 企业大学：MNCs 集中化教育培训的总称，Rademakers 区分为学校型（高度标准化）、学院型（对齐策略）和学院型（高级管理层共同生产知识）三类
 type: concept
-tags: ["level/adult", "region/global", "subject/comparative-education"]
-related_concepts: ["[[Corporate Education]]", "[[Further Education]]", "[[Global Education Industry]]", "[[Varieties of Capitalism]]"]
-related_theories: ["[[Institutional Isomorphism]]"]
+tags:
+- level/adult
+- region/global
+- subject/comparative-education
+related_concepts:
+- '[[Corporate Education]]'
+- '[[Further Education]]'
+- '[[Global Education Industry]]'
+- '[[Varieties of Capitalism]]'
+related_theories:
+- '[[Institutional Isomorphism]]'
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Hartmann_2022_CorporateEducation]]"]
-sources: ["[[Ch11_Hartmann_2022]]"]
+related_arguments:
+- '[[Argument_Hartmann_2022_CorporateEducation]]'
+sources:
+- '[[Ch11_Hartmann_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-18
-updated: 2026-05-18
+created: '2026-05-18'
+updated: '2026-05-18'
 ---
 
 # Corporate University

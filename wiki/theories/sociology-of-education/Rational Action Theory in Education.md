@@ -1,15 +1,32 @@
 ---
 title: Rational Action Theory in Education
+aliases: []
+summary: Breen & Goldthorpe (1997) 的教育分层理论：以相对风险规避机制解释阶层间教育选择的系统性差异，揭示家庭背景的次属效应，郑雅君 (2023) 作为"价值选择过程"的理论对话方
 type: theory
-tags: [rational-action-theory, social-stratification, educational-inequality, region/uk, level/higher-ed]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]"]
-related_persons: ["[[Richard Breen]]", "[[John Goldthorpe]]", "[[Raymond Boudon]]"]
-related_theories: ["[[Culture as Toolkit]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- rational-action-theory
+- social-stratification
+- educational-inequality
+- region/uk
+- level/higher-ed
+related_concepts:
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+related_theories:
+- '[[Culture as Toolkit]]'
+related_methods: []
+related_persons:
+- '[[Richard Breen]]'
+- '[[John Goldthorpe]]'
+- '[[Raymond Boudon]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

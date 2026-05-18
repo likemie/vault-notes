@@ -2,7 +2,7 @@
 title: Carol Campbell
 aliases:
 - Campbell
-summary: Carol Campbell 是多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, OISE/University of Toronto）的领导力与教育变革教授，专注于**教育领导力**、**证据知情实践**、**知识动员**和**教育系统变革**领域的研究。
+summary: 多伦多大学 OISE 教育领导力教授，KNAER 系统级知识动员案例研究领导者，与 Nelson 共同编辑 EIP 特刊
 type: person
 nationality: global
 tags:

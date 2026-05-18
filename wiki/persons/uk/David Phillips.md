@@ -2,7 +2,7 @@
 title: David Phillips
 aliases:
 - Phillips
-summary: David Phillips 是牛津大学比较教育学教授，教育政策转移（educational policy transfer）研究领域的核心人物。
+summary: 牛津大学比较教育学教授，与 Kimberly Ochs 共同提出政策借用四阶段模型和跨国吸引力结构性类型学
 type: person
 nationality: uk
 tags:

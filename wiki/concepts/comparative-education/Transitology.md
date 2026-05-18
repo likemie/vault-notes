@@ -1,19 +1,30 @@
 ---
 title: Transitology
 aliases: []
+summary: Cowen (1996, 2000) 的比较教育概念：国家机器、社会分层体系和政治愿景的同时性崩溃与重建，教育在其中被赋予象征性和重构性角色，Amos (2022) 用于分析晚期现代教育的市场中心转向
 type: concept
-tags: [transitology, comparative-education, late-modernity, higher-ed]
-related_persons: ["[[Robert Cowen]]"]
-related_concepts: ["[[Knowledge-Based Economy]]", "[[New Public Management in Education]]", "[[Policy Borrowing]]", "[[Regional University Alliances]]"]
+tags:
+- transitology
+- comparative-education
+- late-modernity
+- higher-ed
+related_concepts:
+- '[[Knowledge-Based Economy]]'
+- '[[New Public Management in Education]]'
+- '[[Policy Borrowing]]'
+- '[[Regional University Alliances]]'
 related_theories: []
 related_methods: []
+related_persons:
+- '[[Robert Cowen]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

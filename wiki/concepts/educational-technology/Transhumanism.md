@@ -1,14 +1,33 @@
 ---
 title: Transhumanism
+aliases: []
+summary: Huxley (1957) 提出、Amos (2022) 在教育语境中分析的超人类主义：以技术手段超越人类生物局限追求无限优化和增强的意识形态，是高度现代性的激进延续，与市场驱动教育模型高度兼容
 type: concept
-tags: [transhumanism, posthumanism, edtech, higher-ed, optimization]
-related_concepts: ["[[Knowledge-Based Economy]]", "[[Posthumanism]]", "[[Humosity]]", "[[Learning Analytics]]"]
-related_persons: ["[[Donna Haraway]]", "[[Arturo Escobar]]", "[[Julian Huxley]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+tags:
+- transhumanism
+- posthumanism
+- edtech
+- higher-ed
+- optimization
+related_concepts:
+- '[[Knowledge-Based Economy]]'
+- '[[Posthumanism]]'
+- '[[Humosity]]'
+- '[[Learning Analytics]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Donna Haraway]]'
+- '[[Arturo Escobar]]'
+- '[[Julian Huxley]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,19 +1,53 @@
 ---
 title: Decolonial Geopolitics of Knowledge
-aliases: ["去殖民知识地缘政治", "decolonial geopolitics of knowledge"]
+aliases:
+- 去殖民知识地缘政治
+- decolonial geopolitics of knowledge
+summary: Mignolo/Dussel 的去殖民批判：西方认识论通过殖民差异稳定全球权力空间表达，主张社会科学去殖民化而非"开放"，Parreira do Amaral (2022) 将其作为新知识地缘政治的两大分析支柱之一
 type: theory
-tags: [decolonial-theory, geopolitics-of-knowledge, coloniality, epistemology, postcolonial-studies, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Orientalism]]", "[[Horizon 2020 SSH Integration]]", "[[Global Education Industry]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]", "[[Forced Knowledge Transfer]]", "[[Social Museology]]", "[[Epistemology of Resistance]]", "[[Ecomuseology]]", "[[Whole Sustainability]]"]
-related_theories: ["[[Critical Geopolitics]]", "[[Creative Tension of Sense]]"]
-related_persons: ["[[Walter Mignolo]]", "[[Dell Delambre]]", "[[Arturo Escobar]]", "[[Enrique Dussel]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]", "[[James Partaken]]"]
+tags:
+- decolonial-theory
+- geopolitics-of-knowledge
+- coloniality
+- epistemology
+- postcolonial-studies
+- region/global
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Classical Geopolitics]]'
+- '[[Orientalism]]'
+- '[[Horizon 2020 SSH Integration]]'
+- '[[Global Education Industry]]'
+- '[[Knowledge Transfer]]'
+- '[[Knowledge Production]]'
+- '[[Forced Knowledge Transfer]]'
+- '[[Social Museology]]'
+- '[[Epistemology of Resistance]]'
+- '[[Ecomuseology]]'
+- '[[Whole Sustainability]]'
+related_theories:
+- '[[Critical Geopolitics]]'
+- '[[Creative Tension of Sense]]'
 related_methods: []
+related_persons:
+- '[[Walter Mignolo]]'
+- '[[Dell Delambre]]'
+- '[[Arturo Escobar]]'
+- '[[Enrique Dussel]]'
+- '[[Frantz Fanon]]'
+- '[[Chen Kuan-Hsing]]'
+- '[[James Partaken]]'
 related_facts: []
-related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch7_Delambre_2022.md"]
+related_arguments:
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch3_Parreira do Amaral_2022]]'
+- '[[Ch5_Partaken_2022]]'
+- '[[Ch7_Delambre_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-11
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

@@ -1,20 +1,107 @@
 ---
 title: Geopolitics of Knowledge
-aliases: ["知识地缘政治", "geopolitics of knowledge", "GPK"]
+aliases:
+- 知识地缘政治
+- geopolitics of knowledge
+- GPK
+summary: 高等教育被重构为知识地缘政治竞争的核心维度：创新、科学和教育成为个体、企业、国家全球战略定位的关键特征，涉及古典地缘政治向关系性空间构型的理论转变
 type: concept
-tags: [geopolitics-of-knowledge, higher-education, knowledge-based-economy, region/global, level/higher-ed]
-related_concepts: ["[[Knowledge-Based Economy]]", "[[Knowledge-Based Economization]]", "[[Knowledge Capitalism]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Global Regionalisms in Higher Education]]", "[[Regulatory Regionalism]]", "[[Global Education Industry]]", "[[International Education Hubs]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[Minerva University]]", "[[Horizon 2020 SSH Integration]]", "[[Horizon Europe Missions]]", "[[Knowledge Transfer]]", "[[Knowledge Production]]", "[[Forced Knowledge Transfer]]", "[[Knowledge Sabotage]]", "[[Narrative Knowledge]]", "[[Economic and Industrial Espionage]]", "[[Internationalization of Higher Education]]", "[[Transnational Research Collaboration in Higher Education]]", "[[Orientalism]]", "[[Ganz-Methode]]", "[[Life Power]]", "[[Tense Society]]", "[[Social Museology]]", "[[Epistemology of Resistance]]", "[[Ecomuseology]]", "[[Whole Sustainability]]", "[[Global Universities Rankings]]", "[[Multiplicity (Massey)]]", "[[Space-Making in Higher Education]]", "[[Methodological Nationalism]]", "[[Double Spatiality of Universities]]", "[[Sovereign Internationalism]]", "[[Radical Liberal Internationalism]]"]
-related_theories: ["[[World Society Theory]]", "[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]", "[[Decolonial Geopolitics of Knowledge]]", "[[Network Society]]", "[[Creative Tension of Sense]]", "[[World-Systems Theory]]"]
-related_persons: ["[[Marcelo Parreira do Amaral]]", "[[Christiane Thompson]]", "[[Sami Moisio]]", "[[Walter Mignolo]]", "[[James Partaken]]", "[[Jean-François Lyotard]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]", "[[Fazal Rizvi]]", "[[Edward Said]]", "[[Manuel Castells]]", "[[Ellen Hazelkorn]]", "[[Doreen Massey]]"]
-related_facts: ["[[Sino-American Trade War (2018)]]", "[[Great Firewall of China]]", "[[China Social Credit System]]", "[[US-China Economic and Security Review Commission (2000)]]", "[[Thousand Talents Program]]", "[[Kokutai no Hongi (1937)]]"]
-elated_persons: ["[[Marcelo Parreira do Amaral]]", "[[Christiane Thompson]]", "[[Sami Moisio]]", "[[Walter Mignolo]]", "[[James Partaken]]", "[[Jean-François Lyotard]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]", "[[Fazal Rizvi]]", "[[Edward Said]]", "[[Manuel Castells]]", "[[Ellen Hazelkorn]]"]
+tags:
+- geopolitics-of-knowledge
+- higher-education
+- knowledge-based-economy
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Knowledge-Based Economy]]'
+- '[[Knowledge-Based Economization]]'
+- '[[Knowledge Capitalism]]'
+- '[[Classical Geopolitics]]'
+- '[[Hub and Flow Imaginaries]]'
+- '[[Spatial Sortings]]'
+- '[[Global Regionalisms in Higher Education]]'
+- '[[Regulatory Regionalism]]'
+- '[[Global Education Industry]]'
+- '[[International Education Hubs]]'
+- '[[Geopolitical Subject]]'
+- '[[National Competitive Advantage]]'
+- '[[Economic Patriotism]]'
+- '[[Minerva University]]'
+- '[[Horizon 2020 SSH Integration]]'
+- '[[Horizon Europe Missions]]'
+- '[[Knowledge Transfer]]'
+- '[[Knowledge Production]]'
+- '[[Forced Knowledge Transfer]]'
+- '[[Knowledge Sabotage]]'
+- '[[Narrative Knowledge]]'
+- '[[Economic and Industrial Espionage]]'
+- '[[Internationalization of Higher Education]]'
+- '[[Transnational Research Collaboration in Higher Education]]'
+- '[[Orientalism]]'
+- '[[Ganz-Methode]]'
+- '[[Life Power]]'
+- '[[Tense Society]]'
+- '[[Social Museology]]'
+- '[[Epistemology of Resistance]]'
+- '[[Ecomuseology]]'
+- '[[Whole Sustainability]]'
+- '[[Global Universities Rankings]]'
+- '[[Multiplicity (Massey)]]'
+- '[[Space-Making in Higher Education]]'
+- '[[Methodological Nationalism]]'
+- '[[Double Spatiality of Universities]]'
+- '[[Sovereign Internationalism]]'
+- '[[Radical Liberal Internationalism]]'
+related_theories:
+- '[[World Society Theory]]'
+- '[[Fixity-Motion Tension]]'
+- '[[Critical Geopolitics]]'
+- '[[Decolonial Geopolitics of Knowledge]]'
+- '[[Network Society]]'
+- '[[Creative Tension of Sense]]'
+- '[[World-Systems Theory]]'
 related_methods: []
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]", "[[Argument_Delambre_2022_Springer]]", "[[Argument_Boyadjieva_2022_Springer]]", "[[Argument_Zapp_2022_Springer]]", "[[Argument_Marginson_2025_ROE]]"]
-sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch7_Delambre_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch9_Zapp_2022.md", "[[Marginson_2025_ROE]]"]
+related_persons:
+- '[[Marcelo Parreira do Amaral]]'
+- '[[Christiane Thompson]]'
+- '[[Sami Moisio]]'
+- '[[Walter Mignolo]]'
+- '[[James Partaken]]'
+- '[[Jean-François Lyotard]]'
+- '[[Frantz Fanon]]'
+- '[[Chen Kuan-Hsing]]'
+- '[[Fazal Rizvi]]'
+- '[[Edward Said]]'
+- '[[Manuel Castells]]'
+- '[[Ellen Hazelkorn]]'
+- '[[Doreen Massey]]'
+related_facts:
+- '[[Sino-American Trade War (2018)]]'
+- '[[Great Firewall of China]]'
+- '[[China Social Credit System]]'
+- '[[US-China Economic and Security Review Commission (2000)]]'
+- '[[Thousand Talents Program]]'
+- '[[Kokutai no Hongi (1937)]]'
+related_arguments:
+- '[[Argument_Rizvi_2022_Springer]]'
+- '[[Argument_Delambre_2022_Springer]]'
+- '[[Argument_Boyadjieva_2022_Springer]]'
+- '[[Argument_Zapp_2022_Springer]]'
+- '[[Argument_Marginson_2025_ROE]]'
+sources:
+- '[[Parreira do Amaral(Ed.)_2022_Springer]]'
+- '[[Ch2_Moisio_2022]]'
+- '[[Ch3_Parreira do Amaral_2022]]'
+- '[[Ch5_Partaken_2022]]'
+- '[[Ch6_Rizvi_2022]]'
+- '[[Ch7_Delambre_2022]]'
+- '[[Ch8_Boyadjieva_2022]]'
+- '[[Ch9_Zapp_2022]]'
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-12
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

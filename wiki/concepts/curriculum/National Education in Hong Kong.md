@@ -1,15 +1,35 @@
 ---
 title: National Education in Hong Kong
+aliases: []
+summary: 培养香港青少年对中华人民共和国的国家认同与爱国情感的教育实践，在《国安法》后成为课程核心
 type: concept
-tags: [national-education, hong-kong, citizenship-education, patriotism, region/china, level/k12]
-related_concepts: ["[[Liberal Studies (Hong Kong)]]", "[[Citizenship and Social Development (Hong Kong)]]", "[[Membership-Creating Function of Education]]"]
-related_theories: ["[[Nation Building through Education]]"]
-related_persons: ["[[Tung Chee-hwa]]", "[[Carrie Lam]]", "[[Xi Jinping]]"]
-sources: ["sources/Yan_2025_JCS.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+tags:
+- national-education
+- hong-kong
+- citizenship-education
+- patriotism
+- region/china
+- level/k12
+related_concepts:
+- '[[Liberal Studies (Hong Kong)]]'
+- '[[Citizenship and Social Development (Hong Kong)]]'
+- '[[Membership-Creating Function of Education]]'
+related_theories:
+- '[[Nation Building through Education]]'
+related_methods: []
+related_persons:
+- '[[Tung Chee-hwa]]'
+- '[[Carrie Lam]]'
+- '[[Xi Jinping]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Yan_2025_JCS]]'
+- '[[Ch4_Amos_2022]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

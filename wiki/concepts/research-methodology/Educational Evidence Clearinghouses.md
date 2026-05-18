@@ -1,15 +1,38 @@
 ---
 title: Educational Evidence Clearinghouses
+aliases: []
+summary: 审查教育项目效果研究并发布项目有效性评级的证据中介机构；Wadhwa et al. (2024) 比较 12 个清算中心发现同一项目评级一致性有限
 type: concept
-tags: [educational-evidence-clearinghouses, evidence-based-education, clearinghouse, what-works, research-synthesis, region/us, region/uk]
-related_concepts: ["[[Evidence-Based Education]]", "[[Evidence-Based Reform]]", "[[Randomised Controlled Trials]]", "[[Intent-to-Treat Analysis]]", "[[Effect Size]]", "[[Statistical Significance]]", "[[Single-Case Design (SCD)]]", "[[5-3-20 Rule]]", "[[Gating Procedure]]"]
-related_theories: ["[[Campbellian Validity Framework]]"]
+tags:
+- educational-evidence-clearinghouses
+- evidence-based-education
+- clearinghouse
+- what-works
+- research-synthesis
+- region/us
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
+- '[[Randomised Controlled Trials]]'
+- '[[Intent-to-Treat Analysis]]'
+- '[[Effect Size]]'
+- '[[Statistical Significance]]'
+- '[[Single-Case Design (SCD)]]'
+- '[[5-3-20 Rule]]'
+- '[[Gating Procedure]]'
+related_theories:
+- '[[Campbellian Validity Framework]]'
+related_methods: []
 related_persons: []
-sources: ["sources/Wadhwa_2024_RER.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

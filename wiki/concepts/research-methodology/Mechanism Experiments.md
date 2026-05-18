@@ -1,16 +1,35 @@
 ---
 title: Mechanism Experiments
+aliases: []
+summary: 测试特定行为理论的小规模现场实验，Peterson (2016) 从发展经济学引入作为黑箱 RCT 的替代，以鼓励设计（Imai et al., 2013）为关键方法论工具
 type: concept
-tags: [mechanism-experiments, RCT, experimental-design, evidence-based-education, improvement-science, paradigm/positivist]
-related_concepts: ["[[Evidence-Based Education]]", "[[Black Box RCTs]]", "[[Improvement Science]]", "[[Evidence-Based Reform]]"]
-related_theories: ["[[Cartwright's Three-Stage Knowledge Framework]]"]
-related_persons: ["[[Amelia Peterson]]", "[[Nancy Cartwright]]"]
-related_methods: ["[[Randomised Controlled Trials]]"]
-sources: ["sources/Peterson_2016_IJRME.md"]
+tags:
+- mechanism-experiments
+- RCT
+- experimental-design
+- evidence-based-education
+- improvement-science
+- paradigm/positivist
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Black Box RCTs]]'
+- '[[Improvement Science]]'
+- '[[Evidence-Based Reform]]'
+related_theories:
+- '[[Cartwright''s Three-Stage Knowledge Framework]]'
+related_methods:
+- '[[Randomised Controlled Trials]]'
+related_persons:
+- '[[Amelia Peterson]]'
+- '[[Nancy Cartwright]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Peterson_2016_IJRME]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

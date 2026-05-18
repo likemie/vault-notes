@@ -1,14 +1,34 @@
 ---
 title: Peer-Assisted Learning Strategies (PALS)
+aliases: []
+summary: Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断
 type: fact
-subtype: educational-program-case
-tags: [PALS, peer-assisted-learning, educational-program, clearinghouse-rating-case, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[What Works Clearinghouse (WWC)]]", "[[Best Evidence Encyclopedia (BEE)]]", "[[Blueprints for Healthy Youth Development]]", "[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]", "[[National Dropout Prevention Center (NDPC)]]"]
-sources: ["sources/Wadhwa_2024_RER.md"]
+subtype: event
+region: us
+tags:
+- PALS
+- peer-assisted-learning
+- educational-program
+- clearinghouse-rating-case
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[What Works Clearinghouse (WWC)]]'
+- '[[Best Evidence Encyclopedia (BEE)]]'
+- '[[Blueprints for Healthy Youth Development]]'
+- '[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]'
+- '[[National Dropout Prevention Center (NDPC)]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

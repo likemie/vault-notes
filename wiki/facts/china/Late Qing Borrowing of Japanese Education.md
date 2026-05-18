@@ -1,15 +1,32 @@
 ---
 title: Late Qing Borrowing of Japanese Education
+aliases: []
+summary: 甲午战败后清末以日本为主要参照推进新式教育体系建设
 type: fact
 subtype: event
-tags: [policy-borrowing, cross-national-attraction, region/china, region/japan, education-reform, late-qing]
-related_concepts: ["[[Cross-National Attraction]]", "[[Policy Borrowing]]", "[[Externalization (Schriewer)]]"]
+region: china
+tags:
+- policy-borrowing
+- cross-national-attraction
+- region/china
+- region/japan
+- education-reform
+- late-qing
+related_concepts:
+- '[[Cross-National Attraction]]'
+- '[[Policy Borrowing]]'
+- '[[Externalization (Schriewer)]]'
+related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/Rappleye_2006_RCIE.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Rappleye_2006_RCIE]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-07
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 背景

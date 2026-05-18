@@ -1,6 +1,6 @@
 ---
 title: Argument_Møller_2017
-summary: 超越“what works”需要把教育领导从技术执行转向价值判断、专业责任与民主公共性的实践。
+summary: 以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越"什么有效"议程，提议以变革型领导力和批判性教育政策为双重分析透镜
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -35,7 +35,6 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

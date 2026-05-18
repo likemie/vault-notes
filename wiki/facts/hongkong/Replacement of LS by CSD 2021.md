@@ -1,16 +1,37 @@
 ---
 title: Replacement of LS by CSD 2021
+aliases: []
+summary: 通识教育科在官媒攻击和《国安法》颁布后被"公民与社会发展科"取代，课程核心转向爱国主义
 type: fact
 subtype: event
-tags: [Liberal Studies (Hong Kong), Citizenship and Social Development (Hong Kong), region/china, level/k12, curriculum-reform, National-Security-Law]
-related_concepts: ["[[Liberal Studies (Hong Kong)]]", "[[Citizenship and Social Development (Hong Kong)]]", "[[National Education in Hong Kong]]"]
-related_theories: ["[[Cuban's Curriculum Change Theory]]", "[[Nation Building through Education]]"]
-related_persons: ["[[Carrie Lam]]", "[[Tung Chee-hwa]]", "[[Xi Jinping]]"]
-sources: ["sources/Yan_2025_JCS.md"]
+region: hongkong
+tags:
+- Liberal Studies (Hong Kong)
+- Citizenship and Social Development (Hong Kong)
+- region/china
+- level/k12
+- curriculum-reform
+- National-Security-Law
+related_concepts:
+- '[[Liberal Studies (Hong Kong)]]'
+- '[[Citizenship and Social Development (Hong Kong)]]'
+- '[[National Education in Hong Kong]]'
+related_theories:
+- '[[Cuban''s Curriculum Change Theory]]'
+- '[[Nation Building through Education]]'
+related_methods: []
+related_persons:
+- '[[Carrie Lam]]'
+- '[[Tung Chee-hwa]]'
+- '[[Xi Jinping]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Yan_2025_JCS]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 背景

@@ -1,15 +1,39 @@
 ---
 title: Social Engagement
-aliases: [社会性投入, social engagement]
+aliases:
+- 社会性投入
+- social engagement
+summary: 社会性投入：学生向人际互动、课外活动和职业探索投入的时间精力，与学业投入并列作为 Zheng "投入过程"的两大分析轴
 type: concept
-tags: [social-engagement, student-engagement, higher-education, level/higher-ed]
-related_concepts: ["[[Academic Engagement]]", "[[Student Engagement]]", "[[Student Involvement]]", "[[Academic and Social Integration]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Employability]]", "[[Economy of Experience]]", "[[Cultural Barrier in Higher Education]]"]
-related_persons: ["[[George Kuh]]", "[[Vincent Tinto]]", "[[Phillip Brown]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- social-engagement
+- student-engagement
+- higher-education
+- level/higher-ed
+related_concepts:
+- '[[Academic Engagement]]'
+- '[[Student Engagement]]'
+- '[[Student Involvement]]'
+- '[[Academic and Social Integration]]'
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Employability]]'
+- '[[Economy of Experience]]'
+- '[[Cultural Barrier in Higher Education]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[George Kuh]]'
+- '[[Vincent Tinto]]'
+- '[[Phillip Brown]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Social Engagement

@@ -1,15 +1,36 @@
 ---
 title: Academic Engagement
-aliases: [学业投入, academic engagement]
+aliases:
+- 学业投入
+- academic engagement
+summary: 学业投入：学生向学术性教育活动投入的时间精力，Tinto 学业融入与 Kuh 学生投入的交叉维度，郑雅君 (2023) 作为"投入过程"的两大分析轴之一
 type: concept
-tags: [academic-engagement, student-engagement, higher-education, level/higher-ed]
-related_concepts: ["[[Social Engagement]]", "[[Student Engagement]]", "[[Student Involvement]]", "[[Academic and Social Integration]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]"]
-related_persons: ["[[George Kuh]]", "[[Vincent Tinto]]", "[[Alexander Astin]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- academic-engagement
+- student-engagement
+- higher-education
+- level/higher-ed
+related_concepts:
+- '[[Social Engagement]]'
+- '[[Student Engagement]]'
+- '[[Student Involvement]]'
+- '[[Academic and Social Integration]]'
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[George Kuh]]'
+- '[[Vincent Tinto]]'
+- '[[Alexander Astin]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Academic Engagement

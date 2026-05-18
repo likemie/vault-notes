@@ -1,14 +1,31 @@
 ---
 title: Synaptogenesis
+aliases: []
+summary: 中枢神经系统中新突触的创建过程，涉及神经元和连接的过度生产，7–12 个月发生剧烈突触发生
 type: concept
-tags: [synaptogenesis, brain-development, neuroscience, learning-science, cognitive-science]
-related_concepts: ["[[synaptic-pruning]]", "[[myelination]]", "[[neuroplasticity]]", "[[prefrontal-cortex]]"]
-related_theories: ["[[hebbian-principles]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+tags:
+- synaptogenesis
+- brain-development
+- neuroscience
+- learning-science
+- cognitive-science
+related_concepts:
+- '[[synaptic-pruning]]'
+- '[[myelination]]'
+- '[[neuroplasticity]]'
+- '[[prefrontal-cortex]]'
+related_theories:
+- '[[hebbian-principles]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

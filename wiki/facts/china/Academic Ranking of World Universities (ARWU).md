@@ -1,19 +1,41 @@
 ---
 title: Academic Ranking of World Universities (ARWU)
-aliases: ["世界大学学术排名", "ARWU", "上海排名", "Shanghai Ranking", "Academic Ranking of World Universities"]
+aliases:
+- 世界大学学术排名
+- ARWU
+- 上海排名
+- Shanghai Ranking
+- Academic Ranking of World Universities
+summary: 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
 type: fact
 subtype: event
-tags: [university-rankings, higher-education, region/china, region/global, level/higher-ed]
-related_concepts: ["[[Global Universities Rankings]]", "[[Geopolitics of Knowledge]]", "[[International Education]]"]
+region: china
+tags:
+- university-rankings
+- higher-education
+- region/china
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Global Universities Rankings]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[International Education]]'
 related_theories: []
+related_methods: []
 related_persons: []
-related_facts: ["[[OECD AHELO Project]]", "[[PISA]]"]
-related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]", "[[Argument_Slethaug_2010_InternationalEducation]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md", "[[Ch1_Slethaug_2010]]"]
+related_facts:
+- '[[OECD AHELO Project]]'
+- '[[PISA]]'
+related_arguments:
+- '[[Argument_Boyadjieva_2022_Springer]]'
+- '[[Argument_Slethaug_2010_InternationalEducation]]'
+sources:
+- '[[Ch8_Boyadjieva_2022]]'
+- '[[Ch1_Slethaug_2010]]'
 confidence: medium
 status: draft
-created: 2026-05-11
-updated: 2026-05-17
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Academic Ranking of World Universities (ARWU)

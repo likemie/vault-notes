@@ -1,15 +1,31 @@
 ---
 title: School Autonomy
+aliases: []
+summary: 教育决策权从中央官僚机构向个别学校的下放，市场逻辑（竞争、经济效率、公共问责）将其从潜在的公平工具扭曲为制造不平等的机制
 type: concept
-tags: [School Autonomy, school-autonomy, region/australia, level/k12, paradigm/neoliberal]
-related_concepts: ["[[School Leadership]]", "[[New Public Management in Education]]", "[[My School Website]]"]
+tags:
+- School Autonomy
+- school-autonomy
+- region/australia
+- level/k12
+- paradigm/neoliberal
+related_concepts:
+- '[[School Leadership]]'
+- '[[New Public Management in Education]]'
+- '[[My School Website]]'
 related_theories: []
-related_persons: ["[[Jill Blackmore]]"]
-sources: ["sources/Keddie_2020_JEAH.md", "sources/Keddie_2020_IJLE.md"]
+related_methods: []
+related_persons:
+- '[[Jill Blackmore]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Keddie_2020_JEAH]]'
+- '[[Keddie_2020_IJLE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-03
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

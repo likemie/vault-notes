@@ -1,6 +1,6 @@
 ---
 title: Argument_Keddie_2020_IJLE
-summary: 澳大利亚公校自治在赋权与问责、灵活性与不平等之间形成悖论，并对社会正义造成结构性张力。
+summary: 以 Dolan 悖论框架分析 42 位澳大利亚教育利益相关者访谈，识别市场驱动的学校自主权改革的四大社会正义悖论
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -28,7 +28,6 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

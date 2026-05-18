@@ -1,19 +1,47 @@
 ---
 title: International Education Hubs
-aliases: ["国际教育枢纽", "IEH", "International Education Hub"]
+aliases:
+- 国际教育枢纽
+- IEH
+- International Education Hub
+summary: Knight 的概念：国家将自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目，三种模型（学生／人才／知识创新枢纽）
 type: concept
-tags: [international-education-hubs, higher-education, cross-border-education, geopolitical-projects, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Regionalisms in Higher Education]]", "[[Global Education Industry]]", "[[Hub and Flow Imaginaries]]", "[[Minerva University]]", "[[Regional University Alliances]]", "[[Internationalization of Higher Education]]", "[[Knowledge-Based Economy]]", "[[International Education]]"]
-related_theories: ["[[Critical Geopolitics]]", "[[Network Society]]"]
-related_persons: ["[[Jane Knight]]", "[[Marcelo Parreira do Amaral]]", "[[Fazal Rizvi]]"]
+tags:
+- international-education-hubs
+- higher-education
+- cross-border-education
+- geopolitical-projects
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Global Regionalisms in Higher Education]]'
+- '[[Global Education Industry]]'
+- '[[Hub and Flow Imaginaries]]'
+- '[[Minerva University]]'
+- '[[Regional University Alliances]]'
+- '[[Internationalization of Higher Education]]'
+- '[[Knowledge-Based Economy]]'
+- '[[International Education]]'
+related_theories:
+- '[[Critical Geopolitics]]'
+- '[[Network Society]]'
 related_methods: []
+related_persons:
+- '[[Jane Knight]]'
+- '[[Marcelo Parreira do Amaral]]'
+- '[[Fazal Rizvi]]'
 related_facts: []
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
+related_arguments:
+- '[[Argument_Rizvi_2022_Springer]]'
+sources:
+- '[[Ch3_Parreira do Amaral_2022]]'
+- '[[Ch4_Amos_2022]]'
+- '[[Ch6_Rizvi_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-11
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

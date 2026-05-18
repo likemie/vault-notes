@@ -1,19 +1,49 @@
 ---
 title: Global Education Industry
-aliases: ["全球教育产业", "GEI", "global education industry"]
+aliases:
+- 全球教育产业
+- GEI
+- global education industry
+summary: 教育实践、供给、研究和政策被经济理性渗透的多重过程，Verger et al. (2016) 定义，Parreira do Amaral 将其作为知识地缘政治转型的关键语境
 type: concept
-tags: [global-education-industry, privatization, commodification, marketization, higher-education, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Endogenous and Exogenous Privatisation]]", "[[Educational Management Organisation (EMO)]]", "[[Global Regionalisms in Higher Education]]", "[[International Education Hubs]]", "[[Minerva University]]", "[[Educational Technology Industry]]", "[[Further Education]]", "[[Corporate Education]]", "[[Corporate University]]"]
-related_persons: ["[[Marcelo Parreira do Amaral]]", "[[Christiane Thompson]]", "[[Gita Steiner-Khamsi]]", "[[Stephen Ball]]"]
+tags:
+- global-education-industry
+- privatization
+- commodification
+- marketization
+- higher-education
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge-Based Economization]]'
+- '[[Endogenous and Exogenous Privatisation]]'
+- '[[Educational Management Organisation (EMO)]]'
+- '[[Global Regionalisms in Higher Education]]'
+- '[[International Education Hubs]]'
+- '[[Minerva University]]'
+- '[[Educational Technology Industry]]'
+- '[[Further Education]]'
+- '[[Corporate Education]]'
+- '[[Corporate University]]'
 related_theories: []
 related_methods: []
+related_persons:
+- '[[Marcelo Parreira do Amaral]]'
+- '[[Christiane Thompson]]'
+- '[[Gita Steiner-Khamsi]]'
+- '[[Stephen Ball]]'
 related_facts: []
-related_arguments: ["[[Argument_Hartmann_2022_CorporateEducation]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022.md"]
+related_arguments:
+- '[[Argument_Hartmann_2022_CorporateEducation]]'
+sources:
+- '[[Ch3_Parreira do Amaral_2022]]'
+- '[[Ch4_Amos_2022]]'
+- '[[Ch11_Hartmann_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

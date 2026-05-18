@@ -1,19 +1,45 @@
 ---
 title: Policy Borrowing
 aliases: []
+summary: 政策借用：国内政治考量驱动选择性参照外部教育论述来合法化议程，Steiner-Khamsi 系统框架，Phillips & Ochs 四阶段模型，Rappleye 情境概念地图，Cowen 形态变异，核心机制为外化、合法化、问题建构与选择性变异
 type: concept
-tags: [policy-borrowing, policy-referencing, comparative-education, globalization, education-policy, region/global]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Cross-National Attraction]]", "[[Externalization (Schriewer)]]", "[[Transitology]]", "[[Argument_Rappleye_2006_RCIE]]", "[[American Attraction to Japanese Education 1980s]]", "[[Late Qing Borrowing of Japanese Education]]"]
-related_theories: ["[[World Society Theory]]"]
-related_persons: ["[[Gita Steiner-Khamsi]]", "[[David Phillips]]", "[[Kimberly Ochs]]", "[[Jurgen Schriewer]]", "[[Paul Morris]]", "[[John Hattie]]"]
+tags:
+- policy-borrowing
+- policy-referencing
+- comparative-education
+- globalization
+- education-policy
+- region/global
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Cross-National Attraction]]'
+- '[[Externalization (Schriewer)]]'
+- '[[Transitology]]'
+- '[[Argument_Rappleye_2006_RCIE]]'
+- '[[American Attraction to Japanese Education 1980s]]'
+- '[[Late Qing Borrowing of Japanese Education]]'
+related_theories:
+- '[[World Society Theory]]'
 related_methods: []
+related_persons:
+- '[[Gita Steiner-Khamsi]]'
+- '[[David Phillips]]'
+- '[[Kimberly Ochs]]'
+- '[[Jurgen Schriewer]]'
+- '[[Paul Morris]]'
+- '[[John Hattie]]'
 related_facts: []
 related_arguments: []
-sources: ["sources/Rappleye_2006_RCIE.md", "sources/Golovchin_2019_ESC.md", "sources/Yan_2025_JCS.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Rappleye_2006_RCIE]]'
+- '[[Golovchin_2019_ESC]]'
+- '[[Yan_2025_JCS]]'
+- '[[Ch4_Amos_2022]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-08
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,15 +1,35 @@
 ---
 title: Cross-National Attraction
+aliases: []
+summary: Phillips & Ochs 政策借用四阶段模型的第一阶段，Rappleye (2006) 以情境概念地图系统理论化其结构／人的双层推力与阻力和四种吸引力"火花
 type: concept
-tags: [cross-national-attraction, policy-borrowing, educational-transfer, comparative-education, region/global]
-related_concepts: ["[[Policy Borrowing]]", "[[Externalization (Schriewer)]]", "[[Argument_Rappleye_2006_RCIE]]", "[[American Attraction to Japanese Education 1980s]]", "[[Late Qing Borrowing of Japanese Education]]"]
+tags:
+- cross-national-attraction
+- policy-borrowing
+- educational-transfer
+- comparative-education
+- region/global
+related_concepts:
+- '[[Policy Borrowing]]'
+- '[[Externalization (Schriewer)]]'
+- '[[Argument_Rappleye_2006_RCIE]]'
+- '[[American Attraction to Japanese Education 1980s]]'
+- '[[Late Qing Borrowing of Japanese Education]]'
 related_theories: []
-related_persons: ["[[David Phillips]]", "[[Kimberly Ochs]]", "[[Gita Steiner-Khamsi]]", "[[Jurgen Schriewer]]"]
-sources: ["sources/Rappleye_2006_RCIE.md"]
+related_methods: []
+related_persons:
+- '[[David Phillips]]'
+- '[[Kimberly Ochs]]'
+- '[[Gita Steiner-Khamsi]]'
+- '[[Jurgen Schriewer]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Rappleye_2006_RCIE]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-07
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

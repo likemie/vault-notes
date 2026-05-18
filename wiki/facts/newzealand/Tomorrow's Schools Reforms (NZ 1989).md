@@ -1,14 +1,32 @@
 ---
 title: Tomorrow's Schools Reforms (NZ 1989)
+aliases: []
+summary: 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
 type: fact
 subtype: policy
-tags: [school-reform, region/new-zealand, level/k12]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance]]", "[[Privatisation of State Schooling]]"]
-sources: ["sources/ONeill_2016_Report.md", "sources/Johnson_2023_CE.md", "sources/Sarbiewska_2019_JSR.md"]
+region: newzealand
+issuing_organization: ''
+tags:
+- school-reform
+- region/new-zealand
+- level/k12
+related_concepts:
+- '[[Educational Management Organisation (EMO)]]'
+- '[[Network Governance]]'
+- '[[Privatisation of State Schooling]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[ONeill_2016_Report]]'
+- '[[Johnson_2023_CE]]'
+- '[[Sarbiewska_2019_JSR]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-05
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 背景

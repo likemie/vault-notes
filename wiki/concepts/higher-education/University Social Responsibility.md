@@ -1,19 +1,33 @@
 ---
 title: University Social Responsibility
-aliases: ["大学社会责任", "USR", "university corporate social responsibility"]
+aliases:
+- 大学社会责任
+- USR
+- university corporate social responsibility
+summary: 大学社会责任（USR）：大学对多元利益相关者和社会议题的制度化开放性；全球 200+ 所大学已发布 CSR/可持续发展报告，SDGs 和 THE Impact Ranking 推动了 USR 的全球制度化
 type: concept
-tags: ["level/higher-ed", "region/global"]
-related_concepts: ["[[Organizational Actorhood]]", "[[Otherhood]]", "[[Epistemic Governance]]"]
-related_theories: ["[[World Society Theory]]"]
+tags:
+- level/higher-ed
+- region/global
+related_concepts:
+- '[[Organizational Actorhood]]'
+- '[[Otherhood]]'
+- '[[Epistemic Governance]]'
+related_theories:
+- '[[World Society Theory]]'
 related_methods: []
 related_persons: []
-related_facts: ["[[UN Sustainable Development Goals 2015]]", "[[THE Impact Ranking 2019]]"]
-related_arguments: ["[[Argument_Zapp_2022_Springer]]"]
-sources: ["[[Ch9_Zapp_2022]]"]
+related_facts:
+- '[[UN Sustainable Development Goals 2015]]'
+- '[[THE Impact Ranking 2019]]'
+related_arguments:
+- '[[Argument_Zapp_2022_Springer]]'
+sources:
+- '[[Ch9_Zapp_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-11
-updated: 2026-05-12
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # University Social Responsibility

@@ -1,14 +1,32 @@
 ---
 title: Classroom Learning Culture
+aliases: []
+summary: 班级学习氛围与同伴协作文化；在该样本中性别差异不显著，体现差异并非遍在于所有校内变量
 type: concept
-tags: [classroom-culture, peer-relations, learning-environment, subject/instruction-pedagogy, level/k12, region/norway]
-related_concepts: ["[[Student-Teacher Relationship]]", "[[Gender Differences in Academic Achievement]]", "[[School Norm Adaptation]]", "[[Motivation and Work Effort]]"]
-related_methods: ["[[Observational and Correlational Research]]"]
-sources: ["sources/Lekhal_2015_Paideia.md"]
+tags:
+- classroom-culture
+- peer-relations
+- learning-environment
+- subject/instruction-pedagogy
+- level/k12
+- region/norway
+related_concepts:
+- '[[Student-Teacher Relationship]]'
+- '[[Gender Differences in Academic Achievement]]'
+- '[[School Norm Adaptation]]'
+- '[[Motivation and Work Effort]]'
+related_theories: []
+related_methods:
+- '[[Observational and Correlational Research]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Lekhal_2015_Paideia]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

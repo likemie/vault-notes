@@ -1,15 +1,33 @@
 ---
 title: Confidence Interval
+aliases: []
+summary: 点估计周围的误差范围；缺少 CI/SE 时，相邻效应量或排名差异容易被过度解释
 type: concept
-tags: [confidence-interval, standard-error, statistical-inference, effect-size, research-methodology]
-related_concepts: ["[[Effect Size]]", "[[Statistical Significance]]"]
-related_methods: ["[[Meta-analysis]]", "[[Meta-meta-analysis]]", "[[Rasch Measurement]]"]
-related_persons: ["[[John Hattie]]"]
-sources: ["sources/Allerup_2015_Paideia.md", "sources/Wecker_2016_ZfE.md"]
+tags:
+- confidence-interval
+- standard-error
+- statistical-inference
+- effect-size
+- research-methodology
+related_concepts:
+- '[[Effect Size]]'
+- '[[Statistical Significance]]'
+related_theories: []
+related_methods:
+- '[[Meta-analysis]]'
+- '[[Meta-meta-analysis]]'
+- '[[Rasch Measurement]]'
+related_persons:
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Allerup_2015_Paideia]]'
+- '[[Wecker_2016_ZfE]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,16 +1,32 @@
 ---
 title: Tullock's Bureaucracy Theory
+aliases: []
+summary: 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
 type: theory
-tags: [Tullock, bureaucracy, public-choice, knowledge-problem, information-asymmetry, EBE, paradigm/rational-choice, region/global]
-related_concepts: ["[[Evidence-Based Education]]"]
+tags:
+- Tullock
+- bureaucracy
+- public-choice
+- knowledge-problem
+- information-asymmetry
+- EBE
+- paradigm/rational-choice
+- region/global
+related_concepts:
+- '[[Evidence-Based Education]]'
 related_theories: []
-related_persons: ["[[Gordon Tullock]]", "[[Nick Cowen]]"]
 related_methods: []
-sources: ["sources/Cowen_2019_ERE.md"]
+related_persons:
+- '[[Gordon Tullock]]'
+- '[[Nick Cowen]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Cowen_2019_ERE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

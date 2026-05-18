@@ -1,20 +1,40 @@
 ---
 title: EU Skills Agenda
-aliases: ["欧盟技能议程", "Skills Agenda", "New Skills Agenda for Europe"]
+aliases:
+- 欧盟技能议程
+- Skills Agenda
+- New Skills Agenda for Europe
+summary: EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，YOUNG_ADULLLT 项目揭示其在欧盟各地差异化实施
 type: fact
 subtype: policy
-tags: ["region/eu", "region/global", "policy/employment", "policy/education", "policy/lifelong-learning"]
-related_concepts: ["[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity]]", "[[Network Governance]]"]
+region: eu
+issuing_organization: ''
+tags:
+- region/eu
+- region/global
+- policy/employment
+- policy/education
+- policy/lifelong-learning
+related_concepts:
+- '[[Performance Indicators]]'
+- '[[Theories of Policy Change]]'
+- '[[Selectivity]]'
+- '[[Network Governance]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Europe 2020 Strategy]]", "[[Innovation Union]]", "[[Youth Guarantee Scheme]]"]
-related_arguments: ["[[Argument_Rambla_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
+related_facts:
+- '[[Europe 2020 Strategy]]'
+- '[[Innovation Union]]'
+- '[[Youth Guarantee Scheme]]'
+related_arguments:
+- '[[Argument_Rambla_2022_Springer]]'
+sources:
+- '[[Ch10_Rambla_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-05-18'
 ---
 
 # EU Skills Agenda

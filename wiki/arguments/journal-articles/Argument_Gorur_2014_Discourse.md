@@ -1,6 +1,6 @@
 ---
 title: Argument_Gorur_2014_Discourse
-summary: OECD《Education at a Glance》通过可计算指标生产出可治理的教育世界，同时牺牲了复杂性与科学严谨性。
+summary: 以 STS 和测量社会学框架追溯 OECD 教育指标从"几乎不可能"到年度常规生产的历程，论证测量是制造世界而非描述世界的生产性行为，批判因此是道德事业
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -33,7 +33,6 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

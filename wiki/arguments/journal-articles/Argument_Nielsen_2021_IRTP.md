@@ -1,6 +1,6 @@
 ---
 title: Argument_Nielsen_2021
-summary: Visible Learning 以技术理性把教育者与学生转化为可测量生命，压缩了实践判断与主体形成。
+summary: 以 Habermas 合法化危机理论解释 Hattie VL 全球流行：VL 的吸引力在于其技术理性内核满足了教育系统的合法化需求，而非其科学质量
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -33,7 +33,6 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

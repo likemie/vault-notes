@@ -1,19 +1,35 @@
 ---
 title: International Baccalaureate (IB)
-aliases: [国际文凭, IB, IB Diploma, IB Diploma Program, International Baccalaureate]
+aliases:
+- 国际文凭
+- IB
+- IB Diploma
+- IB Diploma Program
+- International Baccalaureate
+summary: 覆盖 3–19 岁的国际课程体系（PYP/MYP/DP），709K 学生 2,609 学校 135 国(2009)；六学科组+TOK+EE+CAS；主张意识形态中立但被质疑西方根源
 type: concept
-tags: [region/global, level/k12, subject/curriculum]
-related_concepts: ["[[International Education]]", "[[International Schools]]", "[[Chinese Learner]]", "[[Fourth Culture]]"]
+tags:
+- region/global
+- level/k12
+- subject/curriculum
+related_concepts:
+- '[[International Education]]'
+- '[[International Schools]]'
+- '[[Chinese Learner]]'
+- '[[Fourth Culture]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[PISA]]"]
-related_arguments: ["[[Argument_Slethaug_2010_InternationalEducation]]"]
-sources: ["[[Ch1_Slethaug_2010]]"]
+related_facts:
+- '[[PISA]]'
+related_arguments:
+- '[[Argument_Slethaug_2010_InternationalEducation]]'
+sources:
+- '[[Ch1_Slethaug_2010]]'
 confidence: medium
 status: draft
-created: 2026-05-17
-updated: 2026-05-17
+created: '2026-05-17'
+updated: '2026-05-18'
 ---
 
 # International Baccalaureate (IB)

@@ -1,19 +1,39 @@
 ---
 title: Network Society
-aliases: ["网络社会", "network society"]
+aliases:
+- 网络社会
+- network society
+summary: Castells (1996) 的理论：社会组织从稳定等级制转向流动网络形式，Benkler (2006) 延伸论证跨国网络为知识创造新源泉，Rizvi (2022) 用于分析跨国研究合作的网络化转型
 type: theory
-tags: [network-society, Castells, globalization, knowledge-economy, region/global, level/higher-ed]
-related_concepts: ["[[Transnational Research Collaboration in Higher Education]]", "[[Internationalization of Higher Education]]", "[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Hub and Flow Imaginaries]]", "[[International Education Hubs]]"]
-related_theories: ["[[Critical Geopolitics]]"]
-related_persons: ["[[Manuel Castells]]", "[[Fazal Rizvi]]"]
+tags:
+- network-society
+- Castells
+- globalization
+- knowledge-economy
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Transnational Research Collaboration in Higher Education]]'
+- '[[Internationalization of Higher Education]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Hub and Flow Imaginaries]]'
+- '[[International Education Hubs]]'
+related_theories:
+- '[[Critical Geopolitics]]'
 related_methods: []
+related_persons:
+- '[[Manuel Castells]]'
+- '[[Fazal Rizvi]]'
 related_facts: []
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
+related_arguments:
+- '[[Argument_Rizvi_2022_Springer]]'
+sources:
+- '[[Ch6_Rizvi_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

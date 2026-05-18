@@ -3,7 +3,7 @@ title: Philosophical Analysis in Education
 aliases:
 - 教育中的哲学分析
 - 哲学分析
-summary: 教育中的哲学分析是一种非实证的研究方法，通过对教育实践和政策背后的**概念前提、认识论假设和规范性主张**进行系统分析，揭示其内在张力和未被承认的后果。
+summary: 通过概念区分、逻辑推理和哲学论证分析教育政策与实践的前提假设，为从业者提供抵抗资源
 type: method
 method_type: qualitative
 tags:

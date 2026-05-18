@@ -4,7 +4,7 @@ aliases:
 - 迪迪埃·埃里蓬
 - Didier Eribon
 - Eribon
-summary: Didier Eribon（迪迪埃·埃里蓬），法国社会学家和哲学家，以其自传体社会学著作《回归故里》（*Retour à Reims*, 2009；中译本 2020，王献译，上海文化出版社）著称。
+summary: 法国社会学家和哲学家，《回归故里》作者，郑雅君 (2023) 援引其与原生文化和解的思想为寒门学子提供建议
 type: person
 nationality: france
 tags:

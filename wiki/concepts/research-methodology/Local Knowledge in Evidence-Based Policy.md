@@ -1,15 +1,33 @@
 ---
 title: Local Knowledge in Evidence-Based Policy
+aliases: []
+summary: 从业者对本地情境的深入了解和专业判断，多项研究表明它是 EBP 成功实施不可或缺的组成部分
 type: concept
-tags: [evidence-based-policy, local-knowledge, implementation, professional-judgement, level/k12]
-related_concepts: ["[[Evidence-Based Education]]", "[[Programme Fidelity vs Adaptation]]"]
-related_theories: ["[[Cartwright's Three-Stage Knowledge Framework]]"]
-related_persons: ["[[Nancy Cartwright]]", "[[Nick Cowen]]", "[[Dylan Wiliam]]"]
-sources: ["sources/Cowen_2015_CHESS.md", "sources/Wiliam_2019_ERE.md"]
+tags:
+- evidence-based-policy
+- local-knowledge
+- implementation
+- professional-judgement
+- level/k12
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Programme Fidelity vs Adaptation]]'
+related_theories:
+- '[[Cartwright''s Three-Stage Knowledge Framework]]'
+related_methods: []
+related_persons:
+- '[[Nancy Cartwright]]'
+- '[[Nick Cowen]]'
+- '[[Dylan Wiliam]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Cowen_2015_CHESS]]'
+- '[[Wiliam_2019_ERE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

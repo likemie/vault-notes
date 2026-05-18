@@ -1,15 +1,32 @@
 ---
 title: Best Evidence Encyclopedia (BEE)
+aliases: []
+summary: 教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目
 type: fact
-subtype: institution
-tags: [Best-Evidence-Encyclopedia, BEE, educational-evidence-clearinghouse, evidence-based-education, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]", "[[Effect Size]]"]
+subtype: event
+region: us
+tags:
+- Best-Evidence-Encyclopedia
+- BEE
+- educational-evidence-clearinghouse
+- evidence-based-education
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
+- '[[Effect Size]]'
 related_theories: []
-sources: ["sources/Wadhwa_2024_RER.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

@@ -1,19 +1,38 @@
 ---
 title: Regulatory Regionalism
-aliases: ["监管型区域主义", "监管区域主义"]
+aliases:
+- 监管型区域主义
+- 监管区域主义
+summary: Jayasuriya (2010) 与 Robertson (2010) 的概念：超国家组织通过指标、排名等监管机制对区域内高等教育进行间接治理；Rambla (2022) 以 EU 绩效指标为操作案例
 type: concept
-tags: [regulatory-regionalism, higher-education-governance, region/global, level/higher-ed, governance]
-related_concepts: ["[[Global Regionalisms in Higher Education]]", "[[Geopolitics of Knowledge]]", "[[Performance Indicators]]", "[[Selectivity]]", "[[Theories of Policy Change]]"]
+tags:
+- regulatory-regionalism
+- higher-education-governance
+- region/global
+- level/higher-ed
+- governance
+related_concepts:
+- '[[Global Regionalisms in Higher Education]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Performance Indicators]]'
+- '[[Selectivity]]'
+- '[[Theories of Policy Change]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Innovation Union]]", "[[EU Skills Agenda]]", "[[Europe 2020 Strategy]]"]
-related_arguments: ["[[Argument_Rambla_2022_Springer]]"]
-sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
+related_facts:
+- '[[Innovation Union]]'
+- '[[EU Skills Agenda]]'
+- '[[Europe 2020 Strategy]]'
+related_arguments:
+- '[[Argument_Rambla_2022_Springer]]'
+sources:
+- '[[Parreira do Amaral(Ed.)_2022_Springer]]'
+- '[[Ch10_Rambla_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-14
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 # Regulatory Regionalism

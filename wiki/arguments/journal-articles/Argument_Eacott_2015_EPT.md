@@ -1,6 +1,6 @@
 ---
 title: Argument_Eacott_2015_EPT
-summary: 教育行政研究的知识凝视本身需要被问题化，学者应反思自身如何在研究中生产对象与正当性。
+summary: 以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论证教育行政学者的嵌入具身性塑造其智识凝视，呼吁重新审视知识生产条件
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -31,7 +31,6 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

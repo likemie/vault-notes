@@ -1,47 +1,48 @@
 ---
 title: New Public Management in Education
 aliases:
-  - 新公共管理
+- 新公共管理
+summary: 过去约 30 年西方教育系统以新管理主义理念进行的改革浪潮，特征为绩效标准、产出控制、供给竞争和管理问责，与分布式领导话语并行运作构成悖论
 type: concept
 tags:
-  - New Public Management
-  - paradigm/neoliberal
-  - region/global
-  - level/higher-ed
+- New Public Management
+- paradigm/neoliberal
+- region/global
+- level/higher-ed
 related_concepts:
-  - "[[Visible Learning]]"
-  - "[[Performativity of Measurement]]"
-  - "[[School Leadership]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[Knowledge Capitalism]]"
-  - "[[Internationalization of Higher Education]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+- '[[Visible Learning]]'
+- '[[Performativity of Measurement]]'
+- '[[School Leadership]]'
+- '[[Evidence-Based Education]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Knowledge Capitalism]]'
+- '[[Internationalization of Higher Education]]'
+- '[[Endogenous and Exogenous Privatisation]]'
 related_theories:
-  - "[[Transitology]]"
-  - "[[Institutional Isomorphism]]"
-related_persons:
-  - "[[Helen Gunter]]"
-  - "[[Jorunn Møller]]"
-  - "[[Fazal Rizvi]]"
+- '[[Transitology]]'
+- '[[Institutional Isomorphism]]'
 related_methods: []
+related_persons:
+- '[[Helen Gunter]]'
+- '[[Jorunn Møller]]'
+- '[[Fazal Rizvi]]'
 related_facts:
-  - "[[Australia in the Asian Century White Paper 2012]]"
+- '[[Australia in the Asian Century White Paper 2012]]'
 related_arguments:
-  - "[[Argument_Rizvi_2022_Springer]]"
-  - "[[Argument_Hartmann_2022_CorporateEducation]]"
+- '[[Argument_Rizvi_2022_Springer]]'
+- '[[Argument_Hartmann_2022_CorporateEducation]]'
 sources:
-  - sources/Møller_2017_EERJ.md
-  - sources/Eacott_2011_JEAH.md
-  - sources/Keddie_2020_JEAH.md
-  - sources/Keddie_2020_IJLE.md
-  - books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md
-  - books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md
-  - books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022.md
+- '[[Møller_2017_EERJ]]'
+- '[[Eacott_2011_JEAH]]'
+- '[[Keddie_2020_JEAH]]'
+- '[[Keddie_2020_IJLE]]'
+- '[[Ch4_Amos_2022]]'
+- '[[Ch6_Rizvi_2022]]'
+- '[[Ch11_Hartmann_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-11
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

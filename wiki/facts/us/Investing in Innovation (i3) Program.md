@@ -1,15 +1,31 @@
 ---
 title: Investing in Innovation (i3) Program
+aliases: []
+summary: 2009–2016 年美国教育部 USD 1.4B 分层拨款项目，以开发→验证→规模化结构推动教育 RCT 证据生产
 type: fact
-tags: [i3, Investing-in-Innovation, evidence-based-reform, federal-funding, RCT, region/us]
-related_concepts: ["[[Evidence-Based Reform]]"]
+subtype: event
+region: us
+tags:
+- i3
+- Investing-in-Innovation
+- evidence-based-reform
+- federal-funding
+- RCT
+- region/us
+related_concepts:
+- '[[Evidence-Based Reform]]'
 related_theories: []
-related_persons: ["[[Robert Slavin]]"]
-sources: ["sources/Slavin_2019_EP.md"]
+related_methods: []
+related_persons:
+- '[[Robert Slavin]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Slavin_2019_EP]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 概述

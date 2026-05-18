@@ -1,16 +1,32 @@
 ---
 title: What Works Network (UK)
+aliases: []
+summary: 英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴
 type: fact
 subtype: policy
-tags: [evidence-based-policy, UK, evidence-clearing-house, region/uk]
-related_concepts: ["[[Evidence-Based Education]]", "[[Evidence-Based Reform]]"]
+region: uk
+issuing_organization: ''
+tags:
+- evidence-based-policy
+- UK
+- evidence-clearing-house
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
 related_theories: []
-related_persons: ["[[Nick Cowen]]", "[[Nancy Cartwright]]"]
-sources: ["sources/Cowen_2015_CHESS.md"]
+related_methods: []
+related_persons:
+- '[[Nick Cowen]]'
+- '[[Nancy Cartwright]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Cowen_2015_CHESS]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 背景

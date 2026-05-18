@@ -1,19 +1,31 @@
 ---
 title: Methodological Globalism
-aliases: [方法论全球主义]
+aliases:
+- 方法论全球主义
+summary: Marginson (2025) 提出的方法论民族主义的镜像概念：认为国家尺度完全由全球尺度决定，Wallerstein 世界体系理论为其典型案例，否定了高等教育的半自主演化能力
 type: concept
-tags: [theme/geopolitics, theme/spatiality, region/global, level/higher-ed]
-related_concepts: ["[[Methodological Nationalism]]", "[[Scale in Higher Education]]", "[[Semi-Autonomy of Higher Education]]"]
-related_theories: ["[[World-Systems Theory]]"]
-related_persons: []
+tags:
+- theme/geopolitics
+- theme/spatiality
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Methodological Nationalism]]'
+- '[[Scale in Higher Education]]'
+- '[[Semi-Autonomy of Higher Education]]'
+related_theories:
+- '[[World-Systems Theory]]'
 related_methods: []
+related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Marginson_2025_ROE]]"]
-sources: ["[[Marginson_2025_ROE]]"]
+related_arguments:
+- '[[Argument_Marginson_2025_ROE]]'
+sources:
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-05-18'
 ---
 
 # Methodological Globalism

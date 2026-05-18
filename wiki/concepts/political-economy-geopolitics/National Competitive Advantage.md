@@ -1,19 +1,35 @@
 ---
 title: National Competitive Advantage
 aliases: []
+summary: Porter (1990) 理论：国家竞争优势通过高度本地化过程被创造，全球化反而使国家角色更重要，Moisio (2022) 将其分析为塑造 Hub and Flow 想象的关键地缘政治想象
 type: concept
-tags: [national-competitive-advantage, porter, competitiveness, geopolitical-imaginary, knowledge-based-economy, region/global]
-related_concepts: ["[[Knowledge-Based Economy]]", "[[Knowledge-Based Economization]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Economic Patriotism]]"]
-related_theories: ["[[Fixity-Motion Tension]]"]
-related_persons: ["[[Michael Porter]]", "[[Sami Moisio]]"]
+tags:
+- national-competitive-advantage
+- porter
+- competitiveness
+- geopolitical-imaginary
+- knowledge-based-economy
+- region/global
+related_concepts:
+- '[[Knowledge-Based Economy]]'
+- '[[Knowledge-Based Economization]]'
+- '[[Hub and Flow Imaginaries]]'
+- '[[Spatial Sortings]]'
+- '[[Economic Patriotism]]'
+related_theories:
+- '[[Fixity-Motion Tension]]'
 related_methods: []
+related_persons:
+- '[[Michael Porter]]'
+- '[[Sami Moisio]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
+sources:
+- '[[Ch2_Moisio_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

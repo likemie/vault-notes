@@ -1,13 +1,30 @@
 ---
 title: Myelination
+aliases: []
+summary: 在轴突周围积累髓鞘（白质）的过程，增加电绝缘使信号传输更快，儿童早期开始，缺失与神经退行性疾病相关
 type: concept
-tags: [myelination, brain-development, neuroscience, learning-science, cognitive-science]
-related_concepts: ["[[synaptogenesis]]", "[[synaptic-pruning]]", "[[neuroplasticity]]", "[[prefrontal-cortex]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+tags:
+- myelination
+- brain-development
+- neuroscience
+- learning-science
+- cognitive-science
+related_concepts:
+- '[[synaptogenesis]]'
+- '[[synaptic-pruning]]'
+- '[[neuroplasticity]]'
+- '[[prefrontal-cortex]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

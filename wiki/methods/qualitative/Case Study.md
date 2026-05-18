@@ -2,7 +2,7 @@
 title: Case Study
 aliases:
 - 个案研究
-summary: 个案研究（Case Study）是一种质性研究设计，以少数典型案例为分析单位，通过对个案的深入考察来理解更广泛的社会过程或机制。
+summary: 质性研究设计：以跟踪式个案为分析单位，通过目的抽样与理论抽样选取典型案例，结合类别系列分解策略优化可外推性，郑雅君 (2023) 用于中国精英大学学生出路分化研究
 type: method
 method_type: qualitative
 tags:

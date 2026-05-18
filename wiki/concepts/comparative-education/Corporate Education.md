@@ -1,19 +1,38 @@
 ---
 title: Corporate Education
-aliases: ["企业教育", "公司教育", "company-based education", "firm-based training", "corporate training"]
+aliases:
+- 企业教育
+- 公司教育
+- company-based education
+- firm-based training
+- corporate training
+summary: 企业教育：企业为雇员提供的教育培训，以"像公司一样看世界"为软权力功能，范围涵盖初始职业教育到高层管理培训
 type: concept
-tags: ["level/adult", "region/global", "subject/comparative-education"]
-related_concepts: ["[[Further Education]]", "[[Corporate University]]", "[[Global Education Industry]]", "[[Knowledge-Based Economy]]", "[[Geopolitical Subject]]", "[[Varieties of Capitalism]]"]
-related_theories: ["[[Institutional Isomorphism]]"]
+tags:
+- level/adult
+- region/global
+- subject/comparative-education
+related_concepts:
+- '[[Further Education]]'
+- '[[Corporate University]]'
+- '[[Global Education Industry]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Geopolitical Subject]]'
+- '[[Varieties of Capitalism]]'
+related_theories:
+- '[[Institutional Isomorphism]]'
 related_methods: []
-related_persons: ["[[Sami Moisio]]"]
+related_persons:
+- '[[Sami Moisio]]'
 related_facts: []
-related_arguments: ["[[Argument_Hartmann_2022_CorporateEducation]]"]
-sources: ["[[Ch11_Hartmann_2022]]"]
+related_arguments:
+- '[[Argument_Hartmann_2022_CorporateEducation]]'
+sources:
+- '[[Ch11_Hartmann_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-18
-updated: 2026-05-18
+created: '2026-05-18'
+updated: '2026-05-18'
 ---
 
 # Corporate Education

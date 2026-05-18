@@ -7,7 +7,7 @@ aliases:
 - 混合方法研究
 - Mixed Method Research
 - Multi-method Research
-summary: 混合方法/多方法研究（Mixed Method/Multi-method Research）在 Brady et al. (2023) 的编码中指不操纵自变量、并同时包含量化数据和质性数据的研究。
+summary: 不操纵自变量且同时包含量化和质性数据的非干预研究；Brady et al. (2023) 将其作为新增编码类别并发现 2020 年占 6%
 type: method
 method_type: mixed
 tags:

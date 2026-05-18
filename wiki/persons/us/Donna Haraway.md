@@ -2,7 +2,7 @@
 title: Donna Haraway
 aliases:
 - Haraway
-summary: Donna Haraway，美国女性主义科学与技术研究学者，以 [[Posthumanism]]（后人类主义）、[[Sympoiesis]]（共同制造）和 [[SF (Haraway)]] 叙事方法论著称，其 2016 年著作 *Staying with the Trouble* 被 Amos 援引为晚期现代性替代教育愿景的核心思想资源。
+summary: 美国女性主义科学与技术研究学者，sympoiesis、response-ability 和 SF 叙事方法论提出者，其 Staying with the Trouble (2016) 为后人类主义教育愿景提供核心思想资源
 type: person
 nationality: us
 tags:

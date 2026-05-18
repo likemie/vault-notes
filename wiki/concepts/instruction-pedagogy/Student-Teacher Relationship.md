@@ -1,14 +1,30 @@
 ---
 title: Student-Teacher Relationship
+aliases: []
+summary: 学生对师生互动支持性的主观感知；在该挪威样本中的性别差异很小，提示关系变量的测量来源效应
 type: concept
-tags: [student-teacher-relationship, relational-factors, subject/instruction-pedagogy, level/k12, region/norway]
-related_concepts: ["[[Feedback]]", "[[Gender Differences in Academic Achievement]]", "[[School Norm Adaptation]]"]
-related_methods: ["[[Observational and Correlational Research]]"]
-sources: ["sources/Lekhal_2015_Paideia.md"]
+tags:
+- student-teacher-relationship
+- relational-factors
+- subject/instruction-pedagogy
+- level/k12
+- region/norway
+related_concepts:
+- '[[Feedback]]'
+- '[[Gender Differences in Academic Achievement]]'
+- '[[School Norm Adaptation]]'
+related_theories: []
+related_methods:
+- '[[Observational and Correlational Research]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Lekhal_2015_Paideia]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

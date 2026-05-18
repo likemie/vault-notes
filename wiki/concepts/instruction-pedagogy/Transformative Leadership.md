@@ -1,15 +1,29 @@
 ---
 title: Transformative Leadership
+aliases: []
+summary: Shields 提出的以权力为调查起点的教育领导力框架，Møller 建议用作超越"什么有效"议程的替代视角
 type: concept
-tags: [Transformative Leadership, stance/critique, level/k12]
-related_concepts: ["[[School Leadership]]", "[[New Public Management in Education]]"]
+tags:
+- Transformative Leadership
+- stance/critique
+- level/k12
+related_concepts:
+- '[[School Leadership]]'
+- '[[New Public Management in Education]]'
 related_theories: []
-related_persons: ["[[Carolyn Shields]]", "[[Helen Gunter]]", "[[Jorunn Møller]]"]
-sources: ["sources/Møller_2017_EERJ.md"]
+related_methods: []
+related_persons:
+- '[[Carolyn Shields]]'
+- '[[Helen Gunter]]'
+- '[[Jorunn Møller]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Møller_2017_EERJ]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

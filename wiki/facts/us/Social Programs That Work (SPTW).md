@@ -1,15 +1,32 @@
 ---
 title: Social Programs That Work (SPTW)
+aliases: []
+summary: 多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库
 type: fact
-subtype: institution
-tags: [SPTW, educational-evidence-clearinghouse, evidence-based-education, social-programs, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]", "[[Intent-to-Treat Analysis]]"]
+subtype: event
+region: us
+tags:
+- SPTW
+- educational-evidence-clearinghouse
+- evidence-based-education
+- social-programs
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
+- '[[Intent-to-Treat Analysis]]'
 related_theories: []
-sources: ["sources/Wadhwa_2024_RER.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

@@ -2,7 +2,7 @@
 title: Gerald Grace
 aliases:
 - Grace
-summary: Gerald Grace 是英国教育学者，现任（2010 年）伦敦大学（University of London）教授。
+summary: 伦敦大学教育学者，前惠灵顿维多利亚大学教育学系主任，"Critic and Conscience of Society"概念的原创者（1988），后写入新西兰大学立法
 type: person
 nationality: global
 tags:

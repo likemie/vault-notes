@@ -1,15 +1,46 @@
 ---
 title: Performativity of Measurement
+aliases: []
+summary: 测量不仅是描述性行为更是制造世界的生产性行为，一旦存在即改变优先事项和行为，批判测量因此是道德事业
 type: concept
-tags: [Performativity of Measurement, performativity, measurement, STS, Educational Philosophy, paradigm/constructivist]
-related_concepts: ["[[Sociology of Measurement]]", "[[Performance Indicators]]", "[[Education at a Glance (EAG)]]", "[[New Public Management in Education]]", "[[School Leadership]]", "[[Visible Learning]]", "[[Visible Learning Branding and Global Influences]]", "[[Neo-Taylorism in Educational Administration]]", "[[Evidence-Based Education]]", "[[Atomisation of Knowledge and Skills]]"]
-related_theories: ["[[Science and Technology Studies (STS)]]", "[[Technical Rationality]]"]
-related_persons: ["[[Jorunn Møller]]", "[[Helen Gunter]]", "[[John Hattie]]", "[[Lucinda McKnight]]"]
-sources: ["sources/Gorur_2014_Discourse.md", "sources/Møller_2017_EERJ.md", "sources/McKnight_2020_Discourse.md", "sources/Johnson_2023_CE.md"]
+tags:
+- Performativity of Measurement
+- performativity
+- measurement
+- STS
+- Educational Philosophy
+- paradigm/constructivist
+related_concepts:
+- '[[Sociology of Measurement]]'
+- '[[Performance Indicators]]'
+- '[[Education at a Glance (EAG)]]'
+- '[[New Public Management in Education]]'
+- '[[School Leadership]]'
+- '[[Visible Learning]]'
+- '[[Visible Learning Branding and Global Influences]]'
+- '[[Neo-Taylorism in Educational Administration]]'
+- '[[Evidence-Based Education]]'
+- '[[Atomisation of Knowledge and Skills]]'
+related_theories:
+- '[[Science and Technology Studies (STS)]]'
+- '[[Technical Rationality]]'
+related_methods: []
+related_persons:
+- '[[Jorunn Møller]]'
+- '[[Helen Gunter]]'
+- '[[John Hattie]]'
+- '[[Lucinda McKnight]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Gorur_2014_Discourse]]'
+- '[[Møller_2017_EERJ]]'
+- '[[McKnight_2020_Discourse]]'
+- '[[Johnson_2023_CE]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-04
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

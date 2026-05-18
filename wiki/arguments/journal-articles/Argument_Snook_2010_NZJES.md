@@ -1,6 +1,6 @@
 ---
 title: Argument_Snook_2010_NZJES
-summary: Hattie 对批评的回应没有解决 Visible Learning 在方法论与政策解释上的核心缺陷。
+summary: 对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -35,7 +35,6 @@ status: draft
 created: '2026-05-06'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

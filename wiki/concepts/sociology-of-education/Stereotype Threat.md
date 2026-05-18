@@ -1,19 +1,29 @@
 ---
 title: Stereotype Threat
-aliases: [刻板印象威胁, stereotype threat]
+aliases:
+- 刻板印象威胁
+- stereotype threat
+summary: Aronson (2002) 的社会心理学概念：个体意识到关于自身群体的刻板印象时产生的额外情感与认知负担及去认同化，被 Ryan 应用于分析中国学习者内化刻板印象的机制
 type: concept
-tags: [theme/cross-cultural, level/k12, level/higher-ed]
-related_concepts: ["[[Chinese Learner]]", "[[Meta-Cultural Sensitivity]]"]
+tags:
+- theme/cross-cultural
+- level/k12
+- level/higher-ed
+related_concepts:
+- '[[Chinese Learner]]'
+- '[[Meta-Cultural Sensitivity]]'
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Ryan_2010_ChineseLearner]]"]
-sources: ["[[Ch2_Ryan_2010]]"]
+related_arguments:
+- '[[Argument_Ryan_2010_ChineseLearner]]'
+sources:
+- '[[Ch2_Ryan_2010]]'
 confidence: medium
 status: draft
-created: 2026-05-17
-updated: 2026-05-17
+created: '2026-05-17'
+updated: '2026-05-18'
 ---
 
 # Stereotype Threat

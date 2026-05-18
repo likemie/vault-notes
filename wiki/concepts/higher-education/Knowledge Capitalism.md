@@ -1,19 +1,35 @@
 ---
 title: Knowledge Capitalism
-aliases: ["知识资本主义", "knowledge capitalism"]
+aliases:
+- 知识资本主义
+- knowledge capitalism
+summary: 知识资本主义：知识作为首要资本积累形式的全球经济秩序，Peters (2013) 系统阐述，Rizvi (2022) 将其定位为解释 HE 全球转型的既有框架之一，Sum & Jessop (2013) 定义，Moisio (2022) 追溯其从 List 经 Drucker/Bell/Romer 到 OECD/World Bank 的概念演变
 type: concept
-tags: [knowledge-capitalism, knowledge-economy, paradigm/neoliberal, region/global, level/higher-ed]
-related_concepts: ["[[Knowledge-Based Economy]]", "[[Geopolitics of Knowledge]]", "[[Internationalization of Higher Education]]", "[[New Public Management in Education]]", "[[Knowledge-Based Economization]]"]
+tags:
+- knowledge-capitalism
+- knowledge-economy
+- paradigm/neoliberal
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Knowledge-Based Economy]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Internationalization of Higher Education]]'
+- '[[New Public Management in Education]]'
+- '[[Knowledge-Based Economization]]'
 related_theories: []
-related_persons: ["[[Fazal Rizvi]]"]
 related_methods: []
+related_persons:
+- '[[Fazal Rizvi]]'
 related_facts: []
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
+related_arguments:
+- '[[Argument_Rizvi_2022_Springer]]'
+sources:
+- '[[Ch6_Rizvi_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 ## 定义

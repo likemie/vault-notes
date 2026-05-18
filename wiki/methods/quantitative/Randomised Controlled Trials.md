@@ -3,7 +3,7 @@ title: Randomised Controlled Trials
 aliases:
 - 随机对照试验
 - RCT
-summary: 随机对照试验（Randomised Controlled Trial, RCT）是一种实验设计方法，通过将参与者随机分配到干预组和对照组来评估干预措施的效果。
+summary: 从药物试验借鉴至教育领域的实验设计方法，面临双盲不可能、控制组模糊、封闭系统幻觉等结构性缺陷
 type: method
 method_type: quantitative
 tags:

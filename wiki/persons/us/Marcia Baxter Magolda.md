@@ -2,7 +2,7 @@
 title: Marcia Baxter Magolda
 aliases:
 - Magolda
-summary: Marcia Baxter Magolda 是美国教育心理学家，迈阿密大学（Miami University）教育领导力系教授。
+summary: 迈阿密大学教育心理学家，自我主导性（self-authorship）理论创始人，郑雅君 (2023) 以之作为目标掌控模式的理论灵感之一
 type: person
 nationality: us
 tags:

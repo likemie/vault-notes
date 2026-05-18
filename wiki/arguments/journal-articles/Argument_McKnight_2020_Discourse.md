@@ -1,6 +1,6 @@
 ---
 title: Argument_McKnight_2020_Discourse
-summary: Visible Learning 的霸权遮蔽了教育中的视觉政治、监控逻辑与结构性暴力，因此不应被当作中性改进工具。
+summary: 从文化政治视角对 Visible Learning 提出七点系统批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,7 +32,6 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

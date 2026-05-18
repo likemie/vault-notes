@@ -1,29 +1,35 @@
 ---
 title: The Shock of the Elite
+aliases: []
+summary: Reay, Crozier & Clayton (2009) 的概念：弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，郑雅君 (2023) 作为直觉依赖模式激化的关键机制
 type: concept
 tags:
-  - elite-shock
-  - higher-education
-  - working-class
-  - habitus
-  - social-mobility
-  - level/higher-ed
+- elite-shock
+- higher-education
+- working-class
+- habitus
+- social-mobility
+- level/higher-ed
 related_concepts:
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Habitus]]"
-  - "[[Cultural Barrier in Higher Education]]"
-  - "[[Cultural Capital]]"
-  - "[[Cultural Disembedding]]"
-  - "[[Cultural Disorientation]]"
+- '[[Intuition-Dependent Mode]]'
+- '[[Habitus]]'
+- '[[Cultural Barrier in Higher Education]]'
+- '[[Cultural Capital]]'
+- '[[Cultural Disembedding]]'
+- '[[Cultural Disorientation]]'
+related_theories: []
+related_methods: []
 related_persons:
-  - "[[Yajun Zheng]]"
-  - "[[Clippings/Pierre Bourdieu]]"
+- '[[Yajun Zheng]]'
+- '[[Clippings/Pierre Bourdieu]]'
+related_facts: []
+related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-09
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

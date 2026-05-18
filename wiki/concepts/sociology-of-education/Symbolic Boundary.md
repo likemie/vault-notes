@@ -1,14 +1,30 @@
 ---
 title: Symbolic Boundary
+aliases: []
+summary: Lamont 的概念：通过赋予行为、品味和价值观以道德涵义在自我与他者之间划分"我们"与"他们"，郑雅君 (2023) 揭示两种模式间互相区隔的道德话语
 type: concept
-tags: [symbolic-boundary, cultural-sociology, moral-judgment, paradigm/interpretivist]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Habitus]]", "[[Cultural Capital]]"]
-related_persons: ["[[Yajun Zheng]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- symbolic-boundary
+- cultural-sociology
+- moral-judgment
+- paradigm/interpretivist
+related_concepts:
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Habitus]]'
+- '[[Cultural Capital]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Yajun Zheng]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

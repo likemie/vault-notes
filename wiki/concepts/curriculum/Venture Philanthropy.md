@@ -1,15 +1,27 @@
 ---
 title: Venture Philanthropy
+aliases: []
+summary: 以"投资"而非"拨款"为核心逻辑的慈善方式，战略性、多年期、以社会/经济回报评估结果，Foundation North 为新西兰代表案例
 type: concept
-tags: [venture-philanthropy, subject/curriculum, region/new-zealand]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance]]", "[[Endogenous and Exogenous Privatisation]]"]
+tags:
+- venture-philanthropy
+- subject/curriculum
+- region/new-zealand
+related_concepts:
+- '[[Educational Management Organisation (EMO)]]'
+- '[[Network Governance]]'
+- '[[Endogenous and Exogenous Privatisation]]'
 related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/ONeill_2016_Report.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[ONeill_2016_Report]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-05
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

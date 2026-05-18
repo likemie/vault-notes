@@ -1,15 +1,29 @@
 ---
 title: Material Fallacies
+aliases: []
+summary: 逻辑学中"在理解术语的含义或用法方面的错误"（Kreeft, 2010），O'Neill 将其引入教育政策话语分析以审查证据被误用的现象
 type: concept
-tags: [Material Fallacies, Evidence-Based Education, research-methodology]
-related_concepts: ["[[Evidence-Based Education]]", "[[Visible Learning]]", "[[Effect Size]]"]
-related_persons: ["[[John Hattie]]"]
-related_facts: ["[[Visible Learning Branding and Global Influences]]"]
-sources: ["sources/ONeill_2012_NZJES.md"]
+tags:
+- Material Fallacies
+- Evidence-Based Education
+- research-methodology
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Visible Learning]]'
+- '[[Effect Size]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts:
+- '[[Visible Learning Branding and Global Influences]]'
+related_arguments: []
+sources:
+- '[[ONeill_2012_NZJES]]'
 confidence: low
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -4,7 +4,7 @@ aliases:
 - 单一个案设计
 - SCD
 - 单一被试设计
-summary: 单一个案设计（Single-Case Design, SCD）是一类实验方法，由多种设计组成，涉及在不同条件下对特定行为或技能进行重复测量，以评估干预对个体或小群体的有效性，个体或小群体作为自身的控制组。
+summary: 在不同条件下对个体或小群体行为进行重复测量的实验方法，个体作为自身控制，WWC 认可其作为 RCT 之外的证据生成方法
 type: method
 method_type: quantitative
 tags:

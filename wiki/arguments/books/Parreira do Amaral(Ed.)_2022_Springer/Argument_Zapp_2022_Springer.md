@@ -1,6 +1,6 @@
 ---
 title: Argument_Zapp_2022_Springer
-summary: 大学在知识经济叙事中已从服务经济的机构转变为以科学权威参与全球治理的知识行动者。
+summary: 'Ch9 Mike Zapp: 以世界社会理论和组织能动者身份为框架，分析大学通过研究、教学、内部政策和网络四种机制嵌入全球治理，以 SDGs 为案例，警示科学的政治化和大学的地缘政治再领土化风险'
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -43,7 +43,6 @@ status: draft
 created: '2026-05-11'
 updated: '2026-05-18'
 ---
-
 
 # Argument_Zapp_2022_Springer
 

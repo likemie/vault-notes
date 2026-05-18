@@ -1,6 +1,6 @@
 ---
 title: Argument_Parreira do Amaral_2022_geopolitics-knowledge
-summary: 地缘政治视角揭示高等教育已被纳入国家、区域与企业争夺全球知识经济位置的战略计算。
+summary: 'Ch3 Marcelo Parreira do Amaral: 整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例'
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -39,7 +39,6 @@ status: draft
 created: '2026-05-07'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

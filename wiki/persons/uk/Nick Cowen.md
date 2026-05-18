@@ -2,7 +2,7 @@
 title: Nick Cowen
 aliases:
 - Cowen
-summary: Nick Cowen 是英国政治科学家，任职于林肯大学（University of Lincoln）社会与政治科学学院。
+summary: 林肯大学/纽约大学政治科学家，以公共选择理论分析证据本位教育的政治经济学，解释 EBE 的官僚功能
 type: person
 nationality: uk
 tags:

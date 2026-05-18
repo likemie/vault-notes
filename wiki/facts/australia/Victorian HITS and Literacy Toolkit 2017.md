@@ -1,17 +1,34 @@
 ---
 title: Victorian HITS and Literacy Toolkit 2017
+aliases: []
+summary: 维州教育部发布 10 项 HITS 和 Literacy Toolkit，均以 Hattie 的 VL 为首要参考，O'Connor (2020) 质疑其证据基础
 type: fact
 subtype: policy
-tags: [Victorian-HITS, Visible-Learning, evidence-based-education, region/australia, level/k12]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]"]
-related_persons: ["[[John Hattie]]"]
+region: australia
+issuing_organization: ''
+tags:
+- Victorian-HITS
+- Visible-Learning
+- evidence-based-education
+- region/australia
+- level/k12
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
 related_theories: []
-related_facts: ["[[Visible Learning Branding and Global Influences]]"]
-sources: ["sources/OConnor_2020_AJLL.md", "sources/Sarbiewska_2019_JSR.md"]
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts:
+- '[[Visible Learning Branding and Global Influences]]'
+related_arguments: []
+sources:
+- '[[OConnor_2020_AJLL]]'
+- '[[Sarbiewska_2019_JSR]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-05
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 背景

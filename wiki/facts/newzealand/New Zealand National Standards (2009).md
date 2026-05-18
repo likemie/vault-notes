@@ -1,16 +1,34 @@
 ---
 title: New Zealand National Standards (2009)
+aliases: []
+summary: 国家党联合政府推行的国家教育标准政策，Hattie 参与技术顾问和部长顾问组，引发激烈争议
 type: fact
 subtype: policy
-tags: [assessment, national-standards, region/new-zealand, level/k12]
-related_concepts: ["[[Visible Learning]]", "[[Professional Judgment]]", "[[Evidence-Based Education]]"]
-related_persons: ["[[John Hattie]]"]
-related_facts: ["[[Tomorrow's Schools Reforms (NZ 1989)]]", "[[Visible Learning Branding and Global Influences]]"]
-sources: ["sources/Hattie_2010_NZJES.md"]
+region: newzealand
+issuing_organization: ''
+tags:
+- assessment
+- national-standards
+- region/new-zealand
+- level/k12
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Professional Judgment]]'
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts:
+- '[[Tomorrow''s Schools Reforms (NZ 1989)]]'
+- '[[Visible Learning Branding and Global Influences]]'
+related_arguments: []
+sources:
+- '[[Hattie_2010_NZJES]]'
 confidence: low
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 背景

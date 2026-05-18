@@ -2,7 +2,7 @@
 title: Christiane Thompson
 aliases:
 - Thompson
-summary: Christiane Thompson 是德国法兰克福歌德大学（Goethe University Frankfurt/Main）教育科学系教授。
+summary: 法兰克福歌德大学教育科学教授，高等教育主体化与数字化治理技术研究者，与 Parreira do Amaral 共同主编多部 GEI 著作
 type: person
 nationality: germany
 tags:

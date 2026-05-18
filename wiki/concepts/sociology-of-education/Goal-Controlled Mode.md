@@ -1,16 +1,47 @@
 ---
 title: Goal-Controlled Mode
-aliases: [目标掌控模式, goal-controlled mode]
+aliases:
+- 目标掌控模式
+- goal-controlled mode
+summary: 郑雅君 (2023) 提出的大学生活组织实践图式：早期确立生涯目标，策略性地利用大学资源为毕业出路做准备，根植于优势阶层习性
 type: concept
-tags: [goal-controlled-mode, higher-education, region/china, level/higher-ed]
-related_concepts: ["[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Habitus]]", "[[Cultural Capital]]", "[[Champ]]", "[[Academic and Social Integration]]", "[[Student Engagement]]", "[[Academic Engagement]]", "[[Social Engagement]]", "[[Self-Driven Mode]]", "[[Opportunist Mode]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Work Meaning Schemas (Zheng)]]", "[[Self-Authorship]]"]
-related_theories: ["[[Pierre Bourdieu]]", "[[Culture as Toolkit]]", "[[Dual-Process Model of Culture in Action]]"]
-related_persons: ["[[Yajun Zheng]]", "[[Ann Swidler]]", "[[Marcia Baxter Magolda]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+tags:
+- goal-controlled-mode
+- higher-education
+- region/china
+- level/higher-ed
+related_concepts:
+- '[[Intuition-Dependent Mode]]'
+- '[[Cultural Barrier in Higher Education]]'
+- '[[Habitus]]'
+- '[[Cultural Capital]]'
+- '[[Champ]]'
+- '[[Academic and Social Integration]]'
+- '[[Student Engagement]]'
+- '[[Academic Engagement]]'
+- '[[Social Engagement]]'
+- '[[Self-Driven Mode]]'
+- '[[Opportunist Mode]]'
+- '[[Graduation Pathway Typology (Zheng)]]'
+- '[[Work Meaning Schemas (Zheng)]]'
+- '[[Self-Authorship]]'
+related_theories:
+- '[[Pierre Bourdieu]]'
+- '[[Culture as Toolkit]]'
+- '[[Dual-Process Model of Culture in Action]]'
+related_methods: []
+related_persons:
+- '[[Yajun Zheng]]'
+- '[[Ann Swidler]]'
+- '[[Marcia Baxter Magolda]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Goal-Controlled Mode

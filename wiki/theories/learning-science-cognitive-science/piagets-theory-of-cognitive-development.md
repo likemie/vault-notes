@@ -1,15 +1,33 @@
 ---
 title: Piaget's Theory of Cognitive Development
+aliases: []
+summary: 皮亚杰的认知发展四阶段建构主义理论：感觉运动→前运算→具体运算→形式运算，Bolton & Hattie (2017) 论证其与 PFC 发育在时间上平行对应
 type: theory
-tags: [piaget, cognitive-development, constructivism, paradigm/constructivist, level/k12]
-related_concepts: ["[[executive-function]]", "[[prefrontal-cortex]]"]
-related_persons: ["[[Jean Piaget]]", "[[Juan Pascual-Leone]]", "[[Robbie Case]]", "[[Kurt Fischer]]"]
-related_theories: ["[[neo-piagetian-theories]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+tags:
+- piaget
+- cognitive-development
+- constructivism
+- paradigm/constructivist
+- level/k12
+related_concepts:
+- '[[executive-function]]'
+- '[[prefrontal-cortex]]'
+related_theories:
+- '[[neo-piagetian-theories]]'
+related_methods: []
+related_persons:
+- '[[Jean Piaget]]'
+- '[[Juan Pascual-Leone]]'
+- '[[Robbie Case]]'
+- '[[Kurt Fischer]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

@@ -3,7 +3,7 @@ title: Pepka Boyadjieva
 aliases:
 - Boyadjieva
 - 佩普卡·博亚季耶娃
-summary: Pepka Boyadjieva 是保加利亚科学院（Bulgarian Academy of Sciences）哲学与社会学研究所（Institute of Philosophy and Sociology）的研究者。
+summary: 保加利亚科学院哲学与社会学研究所，与 Ilieva-Trichkova 共同发展高等教育多维使命模型（个体/社会×工具/内在/转化-赋权 2×3 矩阵），以可行能力路径和制度理论批判全球排名对高教使命的还原
 type: person
 nationality: global
 tags:

@@ -2,7 +2,7 @@
 title: In-depth Interview
 aliases:
 - 深度访谈
-summary: 深度访谈（In-depth Interview）是一种质性研究资料收集方法，目的是通过与被访者的深入对话，理解其对自身行动意义的主观建构。
+summary: 半结构式质性资料收集方法：以"深入事实内部"和渐进式聚焦为原则，通过了解个人生活史获得对被访者行动意义的"同感解释"，郑雅君 (2023) 以此为核心资料收集方法（62 人，累计 150+ 万字转录）
 type: method
 method_type: qualitative
 tags:

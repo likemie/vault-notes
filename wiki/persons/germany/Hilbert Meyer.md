@@ -2,7 +2,7 @@
 title: Hilbert Meyer
 aliases:
 - Meyer
-summary: Hilbert Meyer 是德语[[Effective Teaching|有效教学]]研究综合的重要作者，代表作 *Hvad er god undervisning?
+summary: 德语有效教学综合作者，其十项"好教学"质量与 Hattie、Helmke 一起构成 Laursen 的国际有效教学参照
 type: person
 nationality: germany
 tags:

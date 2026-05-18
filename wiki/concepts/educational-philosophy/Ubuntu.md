@@ -1,19 +1,29 @@
 ---
 title: Ubuntu
 aliases: []
+summary: 非洲关系性伦理哲学："一个人之所以为人，是因为其他人"（I am because we are），Amos (2022) 将其与后人类主义并置为非西方的关系性本体论资源
 type: concept
-tags: [ubuntu, african-philosophy, relational-ontology, posthumanism, care-ethics, region/global]
-related_concepts: ["[[Posthumanism]]", "[[Buen Vivir]]"]
-related_persons: []
+tags:
+- ubuntu
+- african-philosophy
+- relational-ontology
+- posthumanism
+- care-ethics
+- region/global
+related_concepts:
+- '[[Posthumanism]]'
+- '[[Buen Vivir]]'
 related_theories: []
 related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

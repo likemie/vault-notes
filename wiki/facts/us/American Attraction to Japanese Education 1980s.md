@@ -1,15 +1,33 @@
 ---
 title: American Attraction to Japanese Education 1980s
+aliases: []
+summary: 1980 年代美国在危机叙事与国际比较推动下持续强化"向日本学习"参照网络，但受联邦—州—地方分权制约未形成全国统一制度移植
 type: fact
 subtype: event
-tags: [policy-borrowing, cross-national-attraction, region/us, region/japan, education-reform]
-related_concepts: ["[[Cross-National Attraction]]", "[[Policy Borrowing]]", "[[Externalization (Schriewer)]]"]
-related_persons: ["[[David Phillips]]", "[[Kimberly Ochs]]"]
-sources: ["sources/Rappleye_2006_RCIE.md"]
+region: us
+tags:
+- policy-borrowing
+- cross-national-attraction
+- region/us
+- region/japan
+- education-reform
+related_concepts:
+- '[[Cross-National Attraction]]'
+- '[[Policy Borrowing]]'
+- '[[Externalization (Schriewer)]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[David Phillips]]'
+- '[[Kimberly Ochs]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Rappleye_2006_RCIE]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-07
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 背景

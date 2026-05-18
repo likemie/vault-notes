@@ -1,6 +1,6 @@
 ---
 title: Argument_Slavin_2002_ER
-summary: 教育改进应像医学和农业一样依赖严格评估的可复制项目，并通过随机化或高质量匹配研究累积可用知识。
+summary: EBE 支持者阵营的奠基性论述：以医学类比论证教育需采用证据本位政策，提出开发-评估-推广范式和"基于研究 vs 经评估"的关键区分
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -35,7 +35,6 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

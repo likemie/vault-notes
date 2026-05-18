@@ -1,15 +1,40 @@
 ---
 title: Bildung
+aliases: []
+summary: 源自德国精神科学传统的品格陶成概念，Larsen (2019) 将其复兴为对可见学习范式的批判和替代框架
 type: concept
-tags: [Bildung, paradigm/critical, stance/critique]
-related_concepts: ["[[Visible Learning]]", "[[Learnification]]", "[[Incarnation-Extension Dialectics]]", "[[Phenomenon-Based Learning]]", "[[Didaktik]]", "[[Epochal Key Problems]]", "[[Atomisation of Knowledge and Skills]]", "[[Finnish National Core Curriculum 2014]]"]
-related_theories: ["[[Phenomenology]]", "[[Luhmann's Systems Theory]]"]
-related_persons: ["[[Steen Nepper Larsen]]", "[[Gert Biesta]]", "[[Dietrich Benner]]", "[[Wolfgang Klafki]]"]
-sources: ["sources/Larsen_2019_EducSci.md", "sources/Sarbiewska_2019_JSR.md", "sources/Schaffar_2024_CogentEdu.md"]
+tags:
+- Bildung
+- paradigm/critical
+- stance/critique
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Learnification]]'
+- '[[Incarnation-Extension Dialectics]]'
+- '[[Phenomenon-Based Learning]]'
+- '[[Didaktik]]'
+- '[[Epochal Key Problems]]'
+- '[[Atomisation of Knowledge and Skills]]'
+- '[[Finnish National Core Curriculum 2014]]'
+related_theories:
+- '[[Phenomenology]]'
+- '[[Luhmann''s Systems Theory]]'
+related_methods: []
+related_persons:
+- '[[Steen Nepper Larsen]]'
+- '[[Gert Biesta]]'
+- '[[Dietrich Benner]]'
+- '[[Wolfgang Klafki]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Larsen_2019_EducSci]]'
+- '[[Sarbiewska_2019_JSR]]'
+- '[[Schaffar_2024_CogentEdu]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-06
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

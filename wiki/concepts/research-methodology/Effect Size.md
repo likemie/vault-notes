@@ -1,16 +1,70 @@
 ---
 title: Effect Size
+aliases: []
+summary: 标准化干预效果统计指标，Simpson 论证其测量试验灵敏度而非有效性，Wrigley & McCusker (2019) 展示三级聚合失真过程，Wiliam (2019) 断言元-元分析在教育政策中无任何角色并提供 11 点评估清单
 type: concept
-tags: [effect-size, meta-analysis, evidence-based-education, methodology, statistics]
-related_concepts: ["[[Evidence-Based Education]]", "[[Educational Evidence Clearinghouses]]", "[[Visible Learning]]", "[[Statistical Significance]]", "[[Confidence Interval]]", "[[Cluster Randomized Trials]]", "[[Intent-to-Treat Analysis]]", "[[Developer Effect]]", "[[Publication Bias]]", "[[Researcher Degrees of Freedom]]", "[[EEF Teaching and Learning Toolkit]]", "[[Side Effects in Education]]", "[[Material Fallacies]]"]
-related_theories: ["[[Critical Realism]]", "[[Technical Rationality]]"]
-related_persons: ["[[Adrian Simpson]]", "[[Gene Glass]]", "[[Terry Wrigley]]", "[[Dylan Wiliam]]", "[[Pierre-Jérôme Bergeron]]", "[[John Hattie]]", "[[Jacob Cohen]]", "[[Lars Qvortrup]]"]
-related_methods: ["[[Meta-analysis]]", "[[Meta-meta-analysis]]", "[[Covariate Adjustment]]", "[[Rasch Measurement]]"]
-sources: ["sources/Snook_2009_NZJES.md", "sources/Hattie_2010_NZJES.md", "sources/Terhart_2011_JCS.md", "sources/Allerup_2015_Paideia.md", "sources/Qvortrup_2015_Paideia.md", "sources/Pampaka_2016_IJRME.md", "sources/Wecker_2016_ZfE.md", "sources/Bergeron_2017_MJE.md", "sources/Simpson_2017_JEP.md", "sources/Sarbiewska_2019_JSR.md", "sources/Simpson_2019_ERE.md", "sources/Wiliam_2019_ERE.md", "sources/Wrigley_2019_ERE.md", "sources/OConnor_2020_AJLL.md", "sources/Wolf_2020_JREE.md", "sources/Kraft_2023_ER.md", "sources/Wadhwa_2024_RER.md", "sources/ONeill_2012_NZJES.md"]
+tags:
+- effect-size
+- meta-analysis
+- evidence-based-education
+- methodology
+- statistics
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Visible Learning]]'
+- '[[Statistical Significance]]'
+- '[[Confidence Interval]]'
+- '[[Cluster Randomized Trials]]'
+- '[[Intent-to-Treat Analysis]]'
+- '[[Developer Effect]]'
+- '[[Publication Bias]]'
+- '[[Researcher Degrees of Freedom]]'
+- '[[EEF Teaching and Learning Toolkit]]'
+- '[[Side Effects in Education]]'
+- '[[Material Fallacies]]'
+related_theories:
+- '[[Critical Realism]]'
+- '[[Technical Rationality]]'
+related_methods:
+- '[[Meta-analysis]]'
+- '[[Meta-meta-analysis]]'
+- '[[Covariate Adjustment]]'
+- '[[Rasch Measurement]]'
+related_persons:
+- '[[Adrian Simpson]]'
+- '[[Gene Glass]]'
+- '[[Terry Wrigley]]'
+- '[[Dylan Wiliam]]'
+- '[[Pierre-Jérôme Bergeron]]'
+- '[[John Hattie]]'
+- '[[Jacob Cohen]]'
+- '[[Lars Qvortrup]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Snook_2009_NZJES]]'
+- '[[Hattie_2010_NZJES]]'
+- '[[Terhart_2011_JCS]]'
+- '[[Allerup_2015_Paideia]]'
+- '[[Qvortrup_2015_Paideia]]'
+- '[[Pampaka_2016_IJRME]]'
+- '[[Wecker_2016_ZfE]]'
+- '[[Bergeron_2017_MJE]]'
+- '[[Simpson_2017_JEP]]'
+- '[[Sarbiewska_2019_JSR]]'
+- '[[Simpson_2019_ERE]]'
+- '[[Wiliam_2019_ERE]]'
+- '[[Wrigley_2019_ERE]]'
+- '[[OConnor_2020_AJLL]]'
+- '[[Wolf_2020_JREE]]'
+- '[[Kraft_2023_ER]]'
+- '[[Wadhwa_2024_RER]]'
+- '[[ONeill_2012_NZJES]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-06
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

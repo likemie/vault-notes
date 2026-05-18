@@ -1,6 +1,6 @@
 ---
 title: Argument_Slavin_2021_ROE
-summary: 证据本位改革可通过系统发现、传播、实施和累积有效项目，把教育改进转化为持续创新与评估过程。
+summary: 首个中美英证据本位改革国际比较：记录中国教育实证研究的制度化发展（ECNU 论坛、华东师大宣言、BEiB），呈现中国学者五类内部质疑，以四项核心活动框架分析中国情境
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,7 +32,6 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

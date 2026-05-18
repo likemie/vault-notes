@@ -1,19 +1,42 @@
 ---
 title: International Education
-aliases: [国际教育, international education]
+aliases:
+- 国际教育
+- international education
+summary: 超越特定国家地理与教学边界的跨文化、跨国际教育；2006 年全球 270 万+ 大学生出国留学、200 万+ 学生在国际学校就读，总计 600 万+ 参与
 type: concept
-tags: [region/global, level/k12, level/higher-ed]
-related_concepts: ["[[Chinese Learner]]", "[[Fourth Culture]]", "[[International Baccalaureate (IB)]]", "[[International Schools]]", "[[Boarding Schools]]", "[[Global Universities Rankings]]", "[[Internationalization of Higher Education]]", "[[International Education Hubs]]"]
+tags:
+- region/global
+- level/k12
+- level/higher-ed
+related_concepts:
+- '[[Chinese Learner]]'
+- '[[Fourth Culture]]'
+- '[[International Baccalaureate (IB)]]'
+- '[[International Schools]]'
+- '[[Boarding Schools]]'
+- '[[Global Universities Rankings]]'
+- '[[Internationalization of Higher Education]]'
+- '[[International Education Hubs]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[English Schools Foundation Hong Kong]]", "[[PISA]]", "[[Education City Doha]]", "[[Transnationalism and America Project SYSU]]", "[[Academic Ranking of World Universities (ARWU)]]"]
-related_arguments: ["[[Argument_Ryan_2010_HKUP]]", "[[Argument_Slethaug_2010_InternationalEducation]]"]
-sources: ["[[Ryan(Ed.)_2010_HKUP]]", "[[Ch1_Slethaug_2010]]"]
+related_facts:
+- '[[English Schools Foundation Hong Kong]]'
+- '[[PISA]]'
+- '[[Education City Doha]]'
+- '[[Transnationalism and America Project SYSU]]'
+- '[[Academic Ranking of World Universities (ARWU)]]'
+related_arguments:
+- '[[Argument_Ryan_2010_HKUP]]'
+- '[[Argument_Slethaug_2010_InternationalEducation]]'
+sources:
+- '[[Ryan(Ed.)_2010_HKUP]]'
+- '[[Ch1_Slethaug_2010]]'
 confidence: medium
 status: draft
-created: 2026-05-16
-updated: 2026-05-17
+created: '2026-05-16'
+updated: '2026-05-18'
 ---
 
 # International Education

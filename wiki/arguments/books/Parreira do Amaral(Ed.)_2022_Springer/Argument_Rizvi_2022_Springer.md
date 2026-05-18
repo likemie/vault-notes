@@ -1,6 +1,6 @@
 ---
 title: Argument_Rizvi_2022_Springer
-summary: 亚洲崛起不仅改变了高等教育国际化政策，也重塑了知识生产、流动与竞争的全球空间格局。
+summary: 'Ch6 Fazal Rizvi: 以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构'
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -44,7 +44,6 @@ status: draft
 created: '2026-05-10'
 updated: '2026-05-18'
 ---
-
 
 # Argument_Rizvi_2022_Springer
 

@@ -2,7 +2,7 @@
 title: Andreas Helmke
 aliases:
 - Helmke
-summary: Andreas Helmke 是德语[[Effective Teaching|有效教学]]研究综合的重要作者。
+summary: 德语有效教学综合作者，Laursen 用其十项教学质量、学生前提条件和文化语境讨论检验丹麦适用性
 type: person
 nationality: germany
 tags:

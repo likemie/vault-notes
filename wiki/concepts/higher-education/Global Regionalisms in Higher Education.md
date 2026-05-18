@@ -1,19 +1,33 @@
 ---
 title: Global Regionalisms in Higher Education
 aliases: []
+summary: Robertson et al. (2016) 的概念：高等教育被整合进世界各地区大规模政治经济区域整合项目（EU、ASEAN 等），成为区域地缘政治想象的核心支柱
 type: concept
-tags: [global-regionalisms, higher-education, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Regulatory Regionalism]]", "[[Global Education Industry]]", "[[International Education Hubs]]", "[[Regional University Alliances]]"]
-related_persons: ["[[Susan Robertson]]"]
+tags:
+- global-regionalisms
+- higher-education
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Regulatory Regionalism]]'
+- '[[Global Education Industry]]'
+- '[[International Education Hubs]]'
+- '[[Regional University Alliances]]'
 related_theories: []
 related_methods: []
+related_persons:
+- '[[Susan Robertson]]'
 related_facts: []
 related_arguments: []
-sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Parreira do Amaral(Ed.)_2022_Springer]]'
+- '[[Ch3_Parreira do Amaral_2022]]'
+- '[[Ch4_Amos_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-08
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

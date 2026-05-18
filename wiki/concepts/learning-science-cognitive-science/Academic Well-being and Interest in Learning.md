@@ -1,14 +1,31 @@
 ---
 title: Academic Well-being and Interest in Learning
+aliases: []
+summary: 学生对上学与学习的积极情感体验和兴趣水平；在该样本中性别差异较小
 type: concept
-tags: [academic-well-being, learning-interest, school-attitude, subject/psychology, level/k12]
-related_concepts: ["[[Motivation and Work Effort]]", "[[Gender Differences in Academic Achievement]]", "[[Learning-Impeding Behavior]]", "[[School Norm Adaptation]]"]
-related_methods: ["[[Observational and Correlational Research]]"]
-sources: ["sources/Lekhal_2015_Paideia.md"]
+tags:
+- academic-well-being
+- learning-interest
+- school-attitude
+- subject/psychology
+- level/k12
+related_concepts:
+- '[[Motivation and Work Effort]]'
+- '[[Gender Differences in Academic Achievement]]'
+- '[[Learning-Impeding Behavior]]'
+- '[[School Norm Adaptation]]'
+related_theories: []
+related_methods:
+- '[[Observational and Correlational Research]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Lekhal_2015_Paideia]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

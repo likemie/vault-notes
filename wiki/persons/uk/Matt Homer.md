@@ -1,7 +1,7 @@
 ---
 title: Matt Homer
 aliases: []
-summary: 利兹大学（University of Leeds）教育研究者，研究方向为教育研究方法论、定量研究方法、"什么有效"议程的批判性评估。
+summary: 利兹大学教育研究者，IJRME "什么有效"特刊共同编辑（Pampaka, Williams & Homer, 2016）
 type: person
 nationality: uk
 tags:

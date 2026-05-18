@@ -4,7 +4,7 @@ aliases:
 - 约翰·迈耶
 - John Meyer
 - Meyer
-summary: John W. Meyer，美国社会学家，斯坦福大学社会学系教授（荣休）。
+summary: 斯坦福大学社会学家，世界社会理论（world society theory）创始人，提出组织能动者身份（organizational actorhood）和 otherhood 等核心概念，Zapp (2022) 以其理论框架分析大学在全球治理中的知识行动者角色
 type: person
 nationality: us
 tags:

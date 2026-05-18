@@ -1,16 +1,32 @@
 ---
 title: Cartwright's Three-Stage Knowledge Framework
+aliases: []
+summary: RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用
 type: theory
-tags: [RCT, causal-inference, evidence-based-policy, external-validity, paradigm/scientific-realism]
-related_concepts: ["[[Evidence-Based Education]]", "[[Programme Fidelity vs Adaptation]]", "[[Local Knowledge in Evidence-Based Policy]]"]
+tags:
+- RCT
+- causal-inference
+- evidence-based-policy
+- external-validity
+- paradigm/scientific-realism
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Programme Fidelity vs Adaptation]]'
+- '[[Local Knowledge in Evidence-Based Policy]]'
 related_theories: []
-related_persons: ["[[Nancy Cartwright]]", "[[Nick Cowen]]"]
-related_methods: ["[[RCT in Education]]"]
-sources: ["sources/Cowen_2015_CHESS.md"]
+related_methods:
+- '[[RCT in Education]]'
+related_persons:
+- '[[Nancy Cartwright]]'
+- '[[Nick Cowen]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Cowen_2015_CHESS]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

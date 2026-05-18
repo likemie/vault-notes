@@ -1,15 +1,42 @@
 ---
 title: Class Size
+aliases: []
+summary: 班级学生人数，Hattie 评级 d≈0.2（小型效应），但 STAR 研究等高质量 RCT 发现效应量达 0.62–0.66；效果取决于与教学方法的交互，仅减班不改变教学无效果
 type: concept
-tags: [class-size, subject/curriculum, level/k12]
-related_concepts: ["[[Visible Learning]]", "[[Effect Size]]", "[[Performance Pay]]", "[[Neo-Taylorism in Educational Administration]]", "[[Scientism]]", "[[Global Education Reform Movement (GERM)]]", "[[Constructive Alignment]]", "[[Material Fallacies]]"]
-related_persons: ["[[John Hattie]]"]
-related_facts: ["[[Tennessee STAR Project 1985-1989]]", "[[California Class Size Reduction 1996]]", "[[Tomorrow's Schools Reforms (NZ 1989)]]", "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"]
-sources: ["sources/Snook_2009_NZJES.md", "sources/Hattie_2010_NZJES.md", "sources/Hattie_2015_SOTLP.md", "sources/Nielsen_2021_NordPsych.md", "sources/Johnson_2023_CE.md", "sources/ONeill_2012_NZJES.md"]
+tags:
+- class-size
+- subject/curriculum
+- level/k12
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Effect Size]]'
+- '[[Performance Pay]]'
+- '[[Neo-Taylorism in Educational Administration]]'
+- '[[Scientism]]'
+- '[[Global Education Reform Movement (GERM)]]'
+- '[[Constructive Alignment]]'
+- '[[Material Fallacies]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts:
+- '[[Tennessee STAR Project 1985-1989]]'
+- '[[California Class Size Reduction 1996]]'
+- '[[Tomorrow''s Schools Reforms (NZ 1989)]]'
+- '[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]'
+related_arguments: []
+sources:
+- '[[Snook_2009_NZJES]]'
+- '[[Hattie_2010_NZJES]]'
+- '[[Hattie_2015_SOTLP]]'
+- '[[Nielsen_2021_NordPsych]]'
+- '[[Johnson_2023_CE]]'
+- '[[ONeill_2012_NZJES]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-06
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

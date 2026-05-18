@@ -1,6 +1,6 @@
 ---
 title: Argument_Bainbridge_2022_ROE
-summary: 研究证据进入议会并不会自动主导政策，选择性教育改革更受党派目标、制度程序与行动者策略共同塑形。
+summary: 以 SSEF 为案例研究 UK 议会如何系统性回避选择性教育研究证据，识别"建构型道德侧步"：Ofsted 评级被混同为研究证据并道德化为"好学校"话语
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -41,7 +41,6 @@ status: draft
 created: '2026-05-07'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

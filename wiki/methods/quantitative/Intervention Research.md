@@ -2,7 +2,7 @@
 title: Intervention Research
 aliases:
 - 干预研究
-summary: 干预研究（Intervention Research）是在研究中操纵自变量、检验某种教育处理或实践是否影响结果的研究设计。Brady et al. (2023) 在编码教育心理学期刊文章时。
+summary: 操纵自变量以检验教育处理或实践效果的研究设计；Brady et al. (2023) 发现其在教育心理学期刊中从 2000 年 40% 降至 2010/2020 年 25%
 type: method
 method_type: quantitative
 tags:

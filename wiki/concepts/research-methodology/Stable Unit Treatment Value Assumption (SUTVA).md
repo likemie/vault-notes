@@ -1,24 +1,29 @@
 ---
 title: Stable Unit Treatment Value Assumption (SUTVA)
+aliases: []
+summary: 潜在结果框架关键假定：每个主体的潜在结果仅取决于自身处理；违反导致主体间干扰，集群随机化中单一因果效应不再存在（Berk, 2011）
 type: concept
 tags:
-  - SUTVA
-  - stable-unit-treatment-value-assumption
-  - causal-inference
-  - subject/research-methodology
+- SUTVA
+- stable-unit-treatment-value-assumption
+- causal-inference
+- subject/research-methodology
 related_concepts:
-  - "[[Potential Outcomes Framework]]"
-  - "[[Cluster Randomized Trials]]"
-  - "[[Randomised Controlled Trials]]"
+- '[[Potential Outcomes Framework]]'
+- '[[Cluster Randomized Trials]]'
+- '[[Randomised Controlled Trials]]'
+related_theories: []
 related_methods:
-  - "[[Randomised Controlled Trials]]"
+- '[[Randomised Controlled Trials]]'
 related_persons: []
+related_facts: []
+related_arguments: []
 sources:
-  - sources/Berk_2011_ER.md
+- '[[Berk_2011_ER]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

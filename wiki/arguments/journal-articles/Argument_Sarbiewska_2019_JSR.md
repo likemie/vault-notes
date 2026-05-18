@@ -1,6 +1,6 @@
 ---
 title: Argument_Sarbiewska_2019_JSR
-summary: 新西兰与澳大利亚的证据本位改革借助 Visible Learning 扩张政策影响，但其理论基础与适用边界并不稳固。
+summary: 以 Benner 修正版教学三角为框架，分析 VL 如何影响新西兰和澳大利亚教育政策与实践，记录 PISA 2001 后的政策转向及 HITS、Gonski 2.0 等制度化采纳
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -36,7 +36,6 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

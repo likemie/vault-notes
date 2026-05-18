@@ -1,19 +1,29 @@
 ---
 title: Tense Society
-aliases: ["张力社会", "tension society"]
+aliases:
+- 张力社会
+- tension society
+summary: Dell Delambre 对当代社会的诊断：所有领域的"新"与"旧"意义张力呈指数级加速且高度互联，"正常"就是张力，呼吁将张力教育作为全球地缘政治项目
 type: concept
-tags: ["region/global"]
-related_concepts: ["[[Ganz-Methode]]", "[[Life Power]]"]
-related_theories: ["[[Creative Tension of Sense]]"]
+tags:
+- region/global
+related_concepts:
+- '[[Ganz-Methode]]'
+- '[[Life Power]]'
+related_theories:
+- '[[Creative Tension of Sense]]'
 related_methods: []
-related_persons: ["[[Dell Delambre]]"]
+related_persons:
+- '[[Dell Delambre]]'
 related_facts: []
-related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
-sources: ["[[Ch7_Delambre_2022]]"]
+related_arguments:
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch7_Delambre_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Tense Society

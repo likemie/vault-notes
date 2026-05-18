@@ -3,7 +3,7 @@ title: Dell Delambre
 aliases:
 - Delambre
 - Dell Delambre
-summary: Dell Delambre 是巴西学者和实践者，任职于 WTS Sustainable Business & Coaching（位于里约热内卢）。
+summary: 巴西认识论学者和实践者，提出 Creative Tension of Sense 理论和 Ganz-Methode 方法论，以里约热内卢贫民窟剧场和社区博物馆等基层实践为基础，为知识地缘政治讨论提供拉丁美洲视角
 type: person
 nationality: global
 tags:

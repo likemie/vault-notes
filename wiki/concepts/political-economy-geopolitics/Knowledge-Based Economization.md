@@ -1,19 +1,41 @@
 ---
 title: Knowledge-Based Economization
 aliases: []
+summary: Moisio (2018) 的概念：关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践被话语建构的过程
 type: concept
-tags: [knowledge-based-economization, knowledge-based-economy, geopolitics, economization, region/global, level/higher-ed]
-related_concepts: ["[[Knowledge-Based Economy]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[Global Education Industry]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[Progressive Neoliberalism]]"]
-related_theories: ["[[Luhmann's Systems Theory]]", "[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
-related_persons: ["[[Sami Moisio]]"]
+tags:
+- knowledge-based-economization
+- knowledge-based-economy
+- geopolitics
+- economization
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Knowledge-Based Economy]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Hub and Flow Imaginaries]]'
+- '[[Spatial Sortings]]'
+- '[[Geopolitical Subject]]'
+- '[[Global Education Industry]]'
+- '[[National Competitive Advantage]]'
+- '[[Economic Patriotism]]'
+- '[[Progressive Neoliberalism]]'
+related_theories:
+- '[[Luhmann''s Systems Theory]]'
+- '[[Fixity-Motion Tension]]'
+- '[[Critical Geopolitics]]'
 related_methods: []
+related_persons:
+- '[[Sami Moisio]]'
 related_facts: []
 related_arguments: []
-sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
+sources:
+- '[[Parreira do Amaral(Ed.)_2022_Springer]]'
+- '[[Ch2_Moisio_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

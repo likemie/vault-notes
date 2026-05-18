@@ -1,19 +1,33 @@
 ---
 title: Scientization of Politics
-aliases: ["政策的科学化", "政治的科学化", "scientization of politics", "scientisation of politics"]
+aliases:
+- 政策的科学化
+- 政治的科学化
+- scientization of politics
+- scientisation of politics
+summary: Zapp (2022) 的概念：政策制定者接受科学证据作为决策的合法性基础，使科学知识从信息来源转变为治理合法性的构成性要素，是知识治理兴起的关键维度
 type: concept
-tags: ["region/global", "level/higher-ed"]
-related_concepts: ["[[Epistemic Governance]]", "[[Evidence-Based Education]]", "[[Otherhood]]", "[[Epistemic Drift]]"]
-related_theories: ["[[World Society Theory]]"]
+tags:
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Epistemic Governance]]'
+- '[[Evidence-Based Education]]'
+- '[[Otherhood]]'
+- '[[Epistemic Drift]]'
+related_theories:
+- '[[World Society Theory]]'
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Zapp_2022_Springer]]"]
-sources: ["[[Ch9_Zapp_2022]]"]
+related_arguments:
+- '[[Argument_Zapp_2022_Springer]]'
+sources:
+- '[[Ch9_Zapp_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-12
-updated: 2026-05-12
+created: '2026-05-12'
+updated: '2026-05-18'
 ---
 
 # Scientization of Politics

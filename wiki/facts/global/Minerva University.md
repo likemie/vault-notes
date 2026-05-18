@@ -1,20 +1,38 @@
 ---
 title: Minerva University
 aliases: []
+summary: 2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标
 type: fact
 subtype: event
-tags: [minerva-university, higher-education, ed-tech, privatization, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Global Education Industry]]", "[[International Education Hubs]]", "[[Hub and Flow Imaginaries]]"]
-related_theories: ["[[Critical Geopolitics]]"]
-related_persons: ["[[Christiane Thompson]]", "[[Marcelo Parreira do Amaral]]"]
+region: global
+tags:
+- minerva-university
+- higher-education
+- ed-tech
+- privatization
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge-Based Economization]]'
+- '[[Global Education Industry]]'
+- '[[International Education Hubs]]'
+- '[[Hub and Flow Imaginaries]]'
+related_theories:
+- '[[Critical Geopolitics]]'
 related_methods: []
+related_persons:
+- '[[Christiane Thompson]]'
+- '[[Marcelo Parreira do Amaral]]'
 related_facts: []
 related_arguments: []
-sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
+sources:
+- '[[Parreira do Amaral(Ed.)_2022_Springer]]'
+- '[[Ch3_Parreira do Amaral_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 背景

@@ -1,19 +1,38 @@
 ---
 title: Epistemic Governance
-aliases: ["知识治理", "认知治理", "global epistemic governance", "知识本位治理"]
+aliases:
+- 知识治理
+- 认知治理
+- global epistemic governance
+- 知识本位治理
+summary: Zapp (2022) 的概念：以规范、认知和知识为基础的全球治理机制，与强制和规制性"硬"治理形成对照；大学通过提供科学知识、培养全球治理专家和推行 USR 在去中心化全球治理架构中占据知识权威位置
 type: concept
-tags: ["region/global", "level/higher-ed"]
-related_concepts: ["[[Otherhood]]", "[[Organizational Actorhood]]", "[[Knowledge-Based Economy]]", "[[Geopolitics of Knowledge]]", "[[Scientization of Politics]]", "[[Epistemic Drift]]"]
-related_theories: ["[[World Society Theory]]"]
+tags:
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Otherhood]]'
+- '[[Organizational Actorhood]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Scientization of Politics]]'
+- '[[Epistemic Drift]]'
+related_theories:
+- '[[World Society Theory]]'
 related_methods: []
-related_persons: ["[[John W. Meyer]]"]
-related_facts: ["[[UN Sustainable Development Goals 2015]]", "[[THE Impact Ranking 2019]]"]
-related_arguments: ["[[Argument_Zapp_2022_Springer]]"]
-sources: ["[[Ch9_Zapp_2022]]"]
+related_persons:
+- '[[John W. Meyer]]'
+related_facts:
+- '[[UN Sustainable Development Goals 2015]]'
+- '[[THE Impact Ranking 2019]]'
+related_arguments:
+- '[[Argument_Zapp_2022_Springer]]'
+sources:
+- '[[Ch9_Zapp_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-11
-updated: 2026-05-12
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Epistemic Governance

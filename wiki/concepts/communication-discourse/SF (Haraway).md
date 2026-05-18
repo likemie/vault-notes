@@ -1,19 +1,32 @@
 ---
 title: SF (Haraway)
 aliases: []
+summary: Haraway 的核心方法论缩写：同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今），Amos (2022) 将其定位为通过讲故事实践进行"世界制造"的后人类主义方法
 type: concept
-tags: [sf, haraway, string-figures, speculative-fabulation, science-fiction, storytelling, world-making]
-related_concepts: ["[[Sympoiesis]]", "[[Response-ability]]", "[[Posthumanism]]"]
-related_persons: ["[[Donna Haraway]]"]
+tags:
+- sf
+- haraway
+- string-figures
+- speculative-fabulation
+- science-fiction
+- storytelling
+- world-making
+related_concepts:
+- '[[Sympoiesis]]'
+- '[[Response-ability]]'
+- '[[Posthumanism]]'
 related_theories: []
 related_methods: []
+related_persons:
+- '[[Donna Haraway]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

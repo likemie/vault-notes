@@ -2,7 +2,7 @@
 title: Scott Eacott
 aliases:
 - Eacott
-summary: Scott Eacott 是澳大利亚 UNSW Sydney 教育学院的学者，专注于教育行政与领导力领域的社会认识论、组织理论和学术实践逻辑研究。
+summary: UNSW Sydney 教育行政学者，将 Bourdieu 社会理论和认识论引入教育领导力研究，提出 Cult of the Guru、Parallel Monologues、Neo-Taylorism 批评和关系取向组织理论
 type: person
 nationality: global
 tags:

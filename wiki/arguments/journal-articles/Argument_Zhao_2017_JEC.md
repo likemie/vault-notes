@@ -1,6 +1,6 @@
 ---
 title: Argument_Zhao_2017_JEC
-summary: 教育干预的效果与副作用不可分割，证据本位研究若不系统追踪伤害就会把“有效”误当作“值得采用”。
+summary: 从医学引入副作用概念，以直接教学、东亚教育体系、NCLB 三个案例论证教育中"什么有效可能同时有害"，提出 6 项行动建议
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -33,7 +33,6 @@ status: draft
 created: '2026-05-04'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

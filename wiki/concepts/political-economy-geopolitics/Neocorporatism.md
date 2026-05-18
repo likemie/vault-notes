@@ -1,19 +1,36 @@
 ---
 title: Neocorporatism
-aliases: ["新社团主义", "neocorporatist governance", "社团主义治理"]
+aliases:
+- 新社团主义
+- neocorporatist governance
+- 社团主义治理
+summary: 政府—雇主—工会三方制度化合作的治理模式，Rambla (2022) 在 EU 终身学习治理中分析其缓冲 [[Selectivity]] 效应的功能
 type: concept
-tags: ["governance", "region/eu", "policy/lifelong-learning", "policy/employment"]
-related_concepts: ["[[Network Governance]]", "[[Selectivity]]", "[[Theories of Policy Change]]", "[[Performance Indicators]]"]
+tags:
+- governance
+- region/eu
+- policy/lifelong-learning
+- policy/employment
+related_concepts:
+- '[[Network Governance]]'
+- '[[Selectivity]]'
+- '[[Theories of Policy Change]]'
+- '[[Performance Indicators]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[EU Skills Agenda]]", "[[Youth Guarantee Scheme]]", "[[YOUNG_ADULLLT]]"]
-related_arguments: ["[[Argument_Rambla_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
+related_facts:
+- '[[EU Skills Agenda]]'
+- '[[Youth Guarantee Scheme]]'
+- '[[YOUNG_ADULLLT]]'
+related_arguments:
+- '[[Argument_Rambla_2022_Springer]]'
+sources:
+- '[[Ch10_Rambla_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-14
-updated: 2026-05-14
+created: '2026-05-14'
+updated: '2026-05-18'
 ---
 
 # Neocorporatism

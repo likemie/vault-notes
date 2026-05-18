@@ -1,6 +1,6 @@
 ---
 title: Argument_Knudsen_2017_NordSTEP
-summary: Hattie 将自己界定为统计学家而非理论家，恰好暴露出 Visible Learning 对教育理论与知识概念的回避。
+summary: Hanne Knudsen 对 John Hattie 的深度访谈，围绕 VL 的规模化翻译、可见性与学习概念、证据与理论关系、Hattie 的多重角色四主题展开
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -30,7 +30,6 @@ status: draft
 created: '2026-05-07'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

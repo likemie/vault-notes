@@ -1,15 +1,32 @@
 ---
 title: Developer Effect
+aliases: []
+summary: 开发者委托或实施的项目评估平均效应量系统地大于独立第三方评估，Wolf et al. (2020) 以 WWC 数据首次以元分析技术系统量化
 type: concept
-tags: [developer-effect, program-evaluation, meta-analysis, evidence-based-education, research-methodology]
-related_concepts: ["[[Effect Size]]", "[[Publication Bias]]", "[[Researcher Degrees of Freedom]]", "[[Preregistration]]", "[[Evidence-Based Education]]"]
+tags:
+- developer-effect
+- program-evaluation
+- meta-analysis
+- evidence-based-education
+- research-methodology
+related_concepts:
+- '[[Effect Size]]'
+- '[[Publication Bias]]'
+- '[[Researcher Degrees of Freedom]]'
+- '[[Preregistration]]'
+- '[[Evidence-Based Education]]'
 related_theories: []
-related_persons: ["[[Robert Slavin]]"]
-sources: ["sources/Wolf_2020_JREE.md"]
+related_methods: []
+related_persons:
+- '[[Robert Slavin]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wolf_2020_JREE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

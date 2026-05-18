@@ -1,18 +1,43 @@
 ---
 title: Network Governance
-aliases: ["网络治理", "network governance in education"]
+aliases:
+- 网络治理
+- network governance in education
+summary: 传统市场/科层制公立学校治理被网络与部落形式取代，Thompson (1991) 为理论框架，新西兰自 2008 年加速发展
 type: concept
-tags: [network-governance, subject/curriculum, region/new-zealand, region/eu]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Policy Entrepreneur]]", "[[Privatisation of State Schooling]]", "[[Endogenous and Exogenous Privatisation]]", "[[Venture Philanthropy]]", "[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity]]"]
+tags:
+- network-governance
+- subject/curriculum
+- region/new-zealand
+- region/eu
+related_concepts:
+- '[[Educational Management Organisation (EMO)]]'
+- '[[Policy Entrepreneur]]'
+- '[[Privatisation of State Schooling]]'
+- '[[Endogenous and Exogenous Privatisation]]'
+- '[[Venture Philanthropy]]'
+- '[[Performance Indicators]]'
+- '[[Theories of Policy Change]]'
+- '[[Selectivity]]'
 related_theories: []
-related_persons: ["[[John Hattie]]", "[[Stephen Ball]]"]
-related_facts: ["[[EU Skills Agenda]]", "[[Innovation Union]]", "[[Europe 2020 Strategy]]", "[[Youth Guarantee Scheme]]"]
-related_arguments: ["[[Argument_Rambla_2022_Springer]]"]
-sources: ["sources/ONeill_2016_Report.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Stephen Ball]]'
+related_facts:
+- '[[EU Skills Agenda]]'
+- '[[Innovation Union]]'
+- '[[Europe 2020 Strategy]]'
+- '[[Youth Guarantee Scheme]]'
+related_arguments:
+- '[[Argument_Rambla_2022_Springer]]'
+sources:
+- '[[ONeill_2016_Report]]'
+- '[[Ch10_Rambla_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-14
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 # Network Governance

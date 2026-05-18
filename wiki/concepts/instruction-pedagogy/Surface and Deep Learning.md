@@ -1,15 +1,37 @@
 ---
 title: Surface and Deep Learning
+aliases: []
+summary: 表层学习知晓事实与内容 vs 深层学习知晓关系与连接，评估驱动表层学习是高等教育核心悖论
 type: concept
-tags: [surface-learning, deep-learning, subject/instruction, level/higher-ed]
-related_concepts: ["[[Visible Learning]]", "[[Problem-Based Learning]]", "[[Constructive Alignment]]", "[[Dynamic Knowledge and Learning Model]]"]
-related_theories: ["[[Popper's Three Worlds Theory]]"]
-related_persons: ["[[John Hattie]]", "[[John Biggs]]", "[[Thomas Aastrup Rømer]]", "[[Carl Bereiter]]"]
-sources: ["sources/Qvortrup_2015_Paideia.md", "sources/Hattie_2015_SOTLP.md", "sources/Blass_2020_JESP.md", "sources/Fredens_2015_Paideia.md"]
+tags:
+- surface-learning
+- deep-learning
+- subject/instruction
+- level/higher-ed
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Problem-Based Learning]]'
+- '[[Constructive Alignment]]'
+- '[[Dynamic Knowledge and Learning Model]]'
+related_theories:
+- '[[Popper''s Three Worlds Theory]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[John Biggs]]'
+- '[[Thomas Aastrup Rømer]]'
+- '[[Carl Bereiter]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Qvortrup_2015_Paideia]]'
+- '[[Hattie_2015_SOTLP]]'
+- '[[Blass_2020_JESP]]'
+- '[[Fredens_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-04
-updated: 2026-05-05
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

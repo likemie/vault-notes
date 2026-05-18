@@ -1,15 +1,26 @@
 ---
 title: Sovereign Internationalism
-aliases: [主权国际主义]
+aliases:
+- 主权国际主义
+summary: Sakwa (2023) 的概念：1945 年联合国宪章体系核心理念，世界作为多元空间容忍文明差异和政治制度多样性，尊重不干涉原则
 type: concept
-tags: [region/global, theme/geopolitics]
-related_concepts: ["[[Radical Liberal Internationalism]]", "[[Methodological Nationalism]]"]
+tags:
+- region/global
+- theme/geopolitics
+related_concepts:
+- '[[Radical Liberal Internationalism]]'
+- '[[Methodological Nationalism]]'
 related_theories: []
-sources: ["[[Marginson_2025_ROE]]"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-12
-updated: 2026-05-12
+created: '2026-05-12'
+updated: '2026-05-18'
 ---
 
 # Sovereign Internationalism

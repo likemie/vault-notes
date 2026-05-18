@@ -1,6 +1,6 @@
 ---
 title: Argument_Cowen_2015_CHESS
-summary: What Works 证据只有与教师的本地知识、情境判断和适应性实施结合，才能真正支持课堂政策决策。
+summary: 通过 22 位教师访谈和文献综述，揭示 EBP 从"什么有效"到"在这里有效"的知识鸿沟，提出"流动性而非忠实执行"的实施框架
 type: argument
 subtype: report
 publication_type: report
@@ -34,7 +34,6 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

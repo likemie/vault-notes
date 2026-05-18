@@ -1,19 +1,32 @@
 ---
 title: Transition Design
 aliases: []
+summary: Escobar (2018) 基于 Irwin (2015) 的社会变革框架：转型不是被设计的而是涌现的，以生命系统理论（autopoiesis）为本体论基础，以日常生活为设计情境，十条原则倡导基于地方的全球化联网和草根方案放大
 type: theory
-tags: [transition-design, design, pluriverse, wicked-problems, social-change]
-related_concepts: ["[[Posthumanism]]", "[[Mondialisation]]"]
-related_persons: ["[[Arturo Escobar]]", "[[Francisco Varela]]", "[[Humberto Maturana]]"]
-related_theories: ["[[Autopoiesis]]"]
+tags:
+- transition-design
+- design
+- pluriverse
+- wicked-problems
+- social-change
+related_concepts:
+- '[[Posthumanism]]'
+- '[[Mondialisation]]'
+related_theories:
+- '[[Autopoiesis]]'
 related_methods: []
+related_persons:
+- '[[Arturo Escobar]]'
+- '[[Francisco Varela]]'
+- '[[Humberto Maturana]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

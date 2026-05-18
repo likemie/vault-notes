@@ -1,15 +1,32 @@
 ---
 title: Blueprints for Healthy Youth Development
+aliases: []
+summary: 多领域非营利清算中心，最高评级强调高质量研究、独立复制和 12 个月持续效果
 type: fact
-subtype: institution
-tags: [Blueprints, educational-evidence-clearinghouse, evidence-based-education, youth-development, region/us]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]", "[[Intent-to-Treat Analysis]]"]
+subtype: event
+region: us
+tags:
+- Blueprints
+- educational-evidence-clearinghouse
+- evidence-based-education
+- youth-development
+- region/us
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
+- '[[Intent-to-Treat Analysis]]'
 related_theories: []
-sources: ["sources/Wadhwa_2024_RER.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 概述

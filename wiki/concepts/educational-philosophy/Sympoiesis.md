@@ -1,19 +1,33 @@
 ---
 title: Sympoiesis
 aliases: []
+summary: Haraway 的核心概念："与他人一起制造"（making with），与 autopoiesis（自我制造）形成对照，强调跨物种的相互依存和伦理回应（response-ability），是后人类主义教育的核心伦理表达
 type: concept
-tags: [sympoiesis, posthumanism, relational-ontology, care-ethics]
-related_concepts: ["[[Autopoiesis]]", "[[Posthumanism]]", "[[SF (Haraway)]]", "[[Humosity]]", "[[Response-ability]]"]
-related_persons: ["[[Donna Haraway]]", "[[Francisco Varela]]", "[[Humberto Maturana]]"]
+tags:
+- sympoiesis
+- posthumanism
+- relational-ontology
+- care-ethics
+related_concepts:
+- '[[Autopoiesis]]'
+- '[[Posthumanism]]'
+- '[[SF (Haraway)]]'
+- '[[Humosity]]'
+- '[[Response-ability]]'
 related_theories: []
 related_methods: []
+related_persons:
+- '[[Donna Haraway]]'
+- '[[Francisco Varela]]'
+- '[[Humberto Maturana]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

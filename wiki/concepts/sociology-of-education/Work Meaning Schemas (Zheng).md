@@ -1,38 +1,41 @@
 ---
 title: Work Meaning Schemas (Zheng)
 aliases:
-  - 工作意义三角图式
-  - 三角图式结构
-  - work meaning schemas
+- 工作意义三角图式
+- 三角图式结构
+- work meaning schemas
+summary: 郑雅君 (2023) 的工作意义三角图式结构：地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达三种文化图式及其代内分化
 type: concept
 tags:
-  - work-meaning
-  - higher-education
-  - cultural-sociology
-  - region/china
-  - level/higher-ed
+- work-meaning
+- higher-education
+- cultural-sociology
+- region/china
+- level/higher-ed
 related_concepts:
-  - "[[Goal-Controlled Mode]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Culture as Toolkit]]"
-  - "[[Graduation Pathway Typology (Zheng)]]"
-  - "[[Self-Driven Mode]]"
-  - "[[Opportunist Mode]]"
-  - "[[Lost Mode]]"
-  - "[[Value Conformist Mode]]"
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Culture as Toolkit]]'
+- '[[Graduation Pathway Typology (Zheng)]]'
+- '[[Self-Driven Mode]]'
+- '[[Opportunist Mode]]'
+- '[[Lost Mode]]'
+- '[[Value Conformist Mode]]'
 related_theories:
-  - "[[Culture as Toolkit]]"
+- '[[Culture as Toolkit]]'
+related_methods: []
 related_persons:
-  - "[[Yajun Zheng]]"
-  - "[[Max Weber]]"
-  - "[[Ann Swidler]]"
+- '[[Yajun Zheng]]'
+- '[[Max Weber]]'
+- '[[Ann Swidler]]'
 related_facts: []
+related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-09
-updated: 2026-05-09
+created: '2026-05-09'
+updated: '2026-05-18'
 ---
 
 ## 定义

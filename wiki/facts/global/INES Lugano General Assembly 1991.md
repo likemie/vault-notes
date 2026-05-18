@@ -1,16 +1,31 @@
 ---
 title: INES Lugano General Assembly 1991
+aliases: []
+summary: INES 第二届全体大会，科学家-政策制定者权力关系的分水岭：政策制定者强行将学生成绩数据纳入 EAG
 type: fact
 subtype: event
-tags: [INES, OECD, education indicators, region/global]
-related_concepts: ["[[International Indicators of Education Systems (INES)]]", "[[Education at a Glance (EAG)]]", "[[Performance Indicators]]"]
+region: global
+tags:
+- INES
+- OECD
+- education indicators
+- region/global
+related_concepts:
+- '[[International Indicators of Education Systems (INES)]]'
+- '[[Education at a Glance (EAG)]]'
+- '[[Performance Indicators]]'
 related_theories: []
-related_persons: ["[[Norberto Bottani]]"]
-sources: ["sources/Gorur_2014_Discourse.md"]
+related_methods: []
+related_persons:
+- '[[Norberto Bottani]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Gorur_2014_Discourse]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 背景

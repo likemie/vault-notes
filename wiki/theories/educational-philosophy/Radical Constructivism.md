@@ -1,15 +1,31 @@
 ---
 title: Radical Constructivism
+aliases: []
+summary: von Glasersfeld (1995) 的学习理论：以唯我论为出发点，所有学习和知识都是主观建构，Rømer (2018) 论证其为 Hattie VL 的学习理论根基
 type: theory
-tags: [激进建构主义, paradigm/constructivist, learning-theory]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]"]
-related_persons: ["[[Ernst von Glasersfeld]]", "[[John Hattie]]", "[[John Biggs]]"]
-related_theories: ["[[Popper's Three Worlds Theory]]"]
-sources: ["sources/Romer_2018_EPT.md", "sources/Sarbiewska_2019_JSR.md"]
+tags:
+- 激进建构主义
+- paradigm/constructivist
+- learning-theory
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+related_theories:
+- '[[Popper''s Three Worlds Theory]]'
+related_methods: []
+related_persons:
+- '[[Ernst von Glasersfeld]]'
+- '[[John Hattie]]'
+- '[[John Biggs]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Romer_2018_EPT]]'
+- '[[Sarbiewska_2019_JSR]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-05
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

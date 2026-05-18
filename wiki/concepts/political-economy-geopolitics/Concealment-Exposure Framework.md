@@ -1,19 +1,34 @@
 ---
 title: Concealment-Exposure Framework
-aliases: ["隐藏-暴露框架", "concealment and exposure", "Nagel concealment-exposure"]
+aliases:
+- 隐藏-暴露框架
+- concealment and exposure
+- Nagel concealment-exposure
+summary: Nagel (1998) 提出、Partaken 提升至 GPK 的分析框架：隐藏与暴露的边界控制是人性核心属性，在 GPK 中体现为监视、审查和破坏三种运作模式
 type: concept
-tags: ["geopolitics-of-knowledge", "knowledge-transfer", "surveillance", "epistemology"]
-related_concepts: ["[[Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Knowledge Sabotage]]"]
+tags:
+- geopolitics-of-knowledge
+- knowledge-transfer
+- surveillance
+- epistemology
+related_concepts:
+- '[[Knowledge Transfer]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Sabotage]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Great Firewall of China]]", "[[China Social Credit System]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_facts:
+- '[[Great Firewall of China]]'
+- '[[China Social Credit System]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Concealment-Exposure Framework

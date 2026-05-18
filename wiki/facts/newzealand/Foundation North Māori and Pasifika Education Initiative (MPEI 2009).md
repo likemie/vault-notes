@@ -1,14 +1,29 @@
 ---
 title: Foundation North Māori and Pasifika Education Initiative (MPEI 2009)
+aliases: []
+summary: Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社区提案驱动和网络识别两阶段模式改善 Māori 和 Pasifika 学生教育成果
 type: fact
 subtype: policy
-tags: [philanthropy, region/new-zealand, level/k12]
-related_concepts: ["[[Venture Philanthropy]]", "[[Network Governance]]"]
-sources: ["sources/ONeill_2016_Report.md"]
+region: newzealand
+issuing_organization: ''
+tags:
+- philanthropy
+- region/new-zealand
+- level/k12
+related_concepts:
+- '[[Venture Philanthropy]]'
+- '[[Network Governance]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[ONeill_2016_Report]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 背景

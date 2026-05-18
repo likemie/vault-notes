@@ -2,7 +2,7 @@
 title: Julian Huxley
 aliases:
 - Huxley
-summary: Julian Huxley（1887–1975），英国生物学家和科学管理者，UNESCO 第一任总干事（1946–1948）。
+summary: 英国生物学家，UNESCO 首任总干事（1946–1948），1957 年在 *New Bottles for New Wine* 中首次命名 transhumanism，其身兼科学人文主义、人权倡导与优生学支持者的内在矛盾揭示了超人类主义的根本困境
 type: person
 nationality: uk
 tags:

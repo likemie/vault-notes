@@ -1,15 +1,30 @@
 ---
 title: Hofstede's Cultural Dimensions
+aliases: []
+summary: 国家文化维度理论，Laursen (2015) 用其检验以英语国家研究为主的有效教学综合是否适用于丹麦
 type: theory
-tags: [culture, national-culture, comparative-education]
-related_concepts: ["[[Effective Teaching]]", "[[Visible Learning]]", "[[Chinese Learner]]"]
-related_persons: ["[[Geert Hofstede]]"]
-sources: ["sources/Laursen_2015_Paideia.md"]
-related_arguments: ["[[Argument_Laursen_2015_Paideia]]", "[[Argument_Ryan_2010_ChineseLearner]]"]
+tags:
+- culture
+- national-culture
+- comparative-education
+related_concepts:
+- '[[Effective Teaching]]'
+- '[[Visible Learning]]'
+- '[[Chinese Learner]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Geert Hofstede]]'
+related_facts: []
+related_arguments:
+- '[[Argument_Laursen_2015_Paideia]]'
+- '[[Argument_Ryan_2010_ChineseLearner]]'
+sources:
+- '[[Laursen_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-17
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 核心主张

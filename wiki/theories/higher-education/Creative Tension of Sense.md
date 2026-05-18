@@ -1,19 +1,42 @@
 ---
 title: Creative Tension of Sense
-aliases: ["意义创造性张力", "tension theory", "creative tension of sense theory", "创造性意义张力理论"]
+aliases:
+- 意义创造性张力
+- tension theory
+- creative tension of sense theory
+- 创造性意义张力理论
+summary: Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话
 type: theory
-tags: ["region/brazil", "region/global", "level/higher-ed"]
-related_concepts: ["[[Ganz-Methode]]", "[[Life Power]]", "[[Tense Society]]", "[[Geopolitics of Knowledge]]", "[[Social Museology]]", "[[Epistemology of Resistance]]", "[[Ecomuseology]]", "[[Whole Sustainability]]"]
-related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
+tags:
+- region/brazil
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Ganz-Methode]]'
+- '[[Life Power]]'
+- '[[Tense Society]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Social Museology]]'
+- '[[Epistemology of Resistance]]'
+- '[[Ecomuseology]]'
+- '[[Whole Sustainability]]'
+related_theories:
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
-related_persons: ["[[Dell Delambre]]", "[[Walter Mignolo]]", "[[Richard Castelo Branco]]", "[[Camilla de Hollanda Amado]]"]
+related_persons:
+- '[[Dell Delambre]]'
+- '[[Walter Mignolo]]'
+- '[[Richard Castelo Branco]]'
+- '[[Camilla de Hollanda Amado]]'
 related_facts: []
-related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
-sources: ["[[Ch7_Delambre_2022]]"]
+related_arguments:
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch7_Delambre_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Creative Tension of Sense

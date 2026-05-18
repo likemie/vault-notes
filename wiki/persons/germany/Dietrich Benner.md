@@ -2,7 +2,7 @@
 title: Dietrich Benner
 aliases:
 - Benner
-summary: 德国教育学家（Pedagogue），以对 Bildung（品格陶成）与 Erziehung（教育）的区分以及修正版教学三角模型著称。
+summary: 德国教育学家，提出修正版教学三角模型和 Bildung/Erziehung 区分，Sarbiewska (2019) 以其框架解释 VL 政策影响
 type: person
 nationality: germany
 tags:

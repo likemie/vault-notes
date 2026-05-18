@@ -1,17 +1,39 @@
 ---
 title: Dynamic Knowledge and Learning Model
-aliases: [动态知识与学习模型]
+aliases:
+- 动态知识与学习模型
+summary: Qvortrup (2015) 为回应 VL 学习结果概念不清提出的四阶知识模型，强调知识形式之间的动态反身作用
 type: concept
-tags: [learning-theory, knowledge, visible-learning, subject/instruction]
-related_theories: ["[[Popper's Three Worlds Theory]]"]
-related_concepts: ["[[Visible Learning]]", "[[Surface and Deep Learning]]", "[[Effect Size]]", "[[Evidence-Based Education]]", "[[Scientism]]"]
-related_methods: ["[[Meta-analysis]]", "[[Meta-meta-analysis]]"]
-related_persons: ["[[Lars Qvortrup]]", "[[John Hattie]]", "[[Carl Bereiter]]", "[[John Biggs]]", "[[Jean Piaget]]"]
-sources: ["sources/Qvortrup_2015_Paideia.md"]
+tags:
+- learning-theory
+- knowledge
+- visible-learning
+- subject/instruction
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Surface and Deep Learning]]'
+- '[[Effect Size]]'
+- '[[Evidence-Based Education]]'
+- '[[Scientism]]'
+related_theories:
+- '[[Popper''s Three Worlds Theory]]'
+related_methods:
+- '[[Meta-analysis]]'
+- '[[Meta-meta-analysis]]'
+related_persons:
+- '[[Lars Qvortrup]]'
+- '[[John Hattie]]'
+- '[[Carl Bereiter]]'
+- '[[John Biggs]]'
+- '[[Jean Piaget]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Qvortrup_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-06
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

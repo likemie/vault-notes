@@ -2,7 +2,7 @@
 title: Chen Xie
 aliases:
 - 谢晨
-summary: 谢晨（Chen Xie），华东师范大学国际与比较教育研究所（Institute of International and Comparative Education, East China Normal University）研究员。
+summary: 谢晨，华东师范大学国际与比较教育研究所研究员，ECNU ROE 证据本位改革特刊通讯编辑，中美教育技术实验比较研究
 type: person
 nationality: china
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Argument_Eacott_2019_IJLE
-summary: 领导力研究若缺乏真正交锋与异议容纳，只会把学术讨论降格为互不相干的正统独白。
+summary: 以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中"平行独白"现象，主张以论证与反驳为学术工作的生成逻辑
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -31,7 +31,6 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

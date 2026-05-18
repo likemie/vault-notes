@@ -1,15 +1,38 @@
 ---
 title: Finnish National Core Curriculum 2014
+aliases: []
+summary: 芬兰基础教育国家核心课程，将跨学科与现象本位学习纳入课程框架，但仍保留传统学科结构
 type: fact
 subtype: policy
-tags: [curriculum, region/finland, level/k12, phenomenon-based-learning]
-related_concepts: ["[[Phenomenon-Based Learning]]", "[[Bildung]]", "[[Didaktik]]", "[[Epochal Key Problems]]", "[[Atomisation of Knowledge and Skills]]", "[[SveaSus Project]]", "[[Problem-Based Learning]]", "[[Performance Indicators]]"]
-related_theories: ["[[Phenomenology]]", "[[Radical Constructivism]]"]
-sources: ["sources/Schaffar_2024_CogentEdu.md"]
+region: finland
+issuing_organization: ''
+tags:
+- curriculum
+- region/finland
+- level/k12
+- phenomenon-based-learning
+related_concepts:
+- '[[Phenomenon-Based Learning]]'
+- '[[Bildung]]'
+- '[[Didaktik]]'
+- '[[Epochal Key Problems]]'
+- '[[Atomisation of Knowledge and Skills]]'
+- '[[SveaSus Project]]'
+- '[[Problem-Based Learning]]'
+- '[[Performance Indicators]]'
+related_theories:
+- '[[Phenomenology]]'
+- '[[Radical Constructivism]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Schaffar_2024_CogentEdu]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 背景

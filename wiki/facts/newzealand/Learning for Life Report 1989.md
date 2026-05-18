@@ -1,15 +1,29 @@
 ---
 title: Learning for Life Report 1989
+aliases: []
+summary: Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald Grace 提议的"critic and conscience of society"作为大学的定义特征，后被写入新西兰法律
 type: fact
 subtype: policy
-tags: [higher-education-policy, region/new-zealand, level/higher-ed]
-related_concepts: ["[[Critic and Conscience of Society]]"]
-related_persons: ["[[Gerald Grace]]"]
-sources: ["sources/Grace_2010_NZJES.md"]
+region: newzealand
+issuing_organization: ''
+tags:
+- higher-education-policy
+- region/new-zealand
+- level/higher-ed
+related_concepts:
+- '[[Critic and Conscience of Society]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Gerald Grace]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Grace_2010_NZJES]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 背景

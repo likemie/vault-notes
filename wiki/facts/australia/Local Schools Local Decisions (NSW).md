@@ -1,15 +1,30 @@
 ---
 title: Local Schools Local Decisions (NSW)
+aliases: []
+summary: NSW 州 2011–2018 年权力下放政策，被批评为表面赋权实质成本削减
 type: fact
 subtype: policy
-tags: [school-autonomy, region/australia, level/k12, NSW]
-related_concepts: ["[[School Autonomy]]", "[[New Public Management in Education]]"]
+region: australia
+issuing_organization: ''
+tags:
+- school-autonomy
+- region/australia
+- level/k12
+- NSW
+related_concepts:
+- '[[School Autonomy]]'
+- '[[New Public Management in Education]]'
 related_theories: []
-sources: ["sources/Keddie_2020_IJLE.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Keddie_2020_IJLE]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 背景

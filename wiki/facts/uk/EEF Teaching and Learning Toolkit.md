@@ -1,17 +1,49 @@
 ---
 title: EEF Teaching and Learning Toolkit
+aliases: []
+summary: 英国 EEF 的元-元分析工具，以联盟表格式按成本/有效性/证据确定性排名 30+ 类干预，面临 Simpson/Wrigley 方法论批评，Wrigley & McCusker (2019) 通过体育参与案例揭示三级聚合失真
 type: fact
 subtype: policy
-tags: [EEF, Teaching-and-Learning-Toolkit, evidence-based-education, meta-analysis, effect-size, region/uk]
-related_concepts: ["[[Evidence-Based Education]]", "[[Evidence-Based Reform]]", "[[Local Knowledge in Evidence-Based Policy]]", "[[Effect Size]]", "[[Moral Sidestep]]", "[[Selective Education]]"]
-related_theories: ["[[Legitimation Theory Van Leeuwen]]"]
-related_persons: ["[[Robert Slavin]]", "[[Terry Wrigley]]", "[[Nick Cowen]]", "[[Nancy Cartwright]]", "[[Adrian Simpson]]"]
-related_facts: ["[[Ofsted]]"]
-sources: ["sources/Cowen_2015_CHESS.md", "sources/Cowen_2019_ERE.md", "sources/Slavin_2019_EP.md", "sources/Wrigley_2018_BERJ.md", "sources/Wrigley_2019_ERE.md", "sources/Simpson_2017_JEP.md", "sources/Bainbridge_2022_ROE.md"]
+region: uk
+issuing_organization: ''
+tags:
+- EEF
+- Teaching-and-Learning-Toolkit
+- evidence-based-education
+- meta-analysis
+- effect-size
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
+- '[[Local Knowledge in Evidence-Based Policy]]'
+- '[[Effect Size]]'
+- '[[Moral Sidestep]]'
+- '[[Selective Education]]'
+related_theories:
+- '[[Legitimation Theory Van Leeuwen]]'
+related_methods: []
+related_persons:
+- '[[Robert Slavin]]'
+- '[[Terry Wrigley]]'
+- '[[Nick Cowen]]'
+- '[[Nancy Cartwright]]'
+- '[[Adrian Simpson]]'
+related_facts:
+- '[[Ofsted]]'
+related_arguments: []
+sources:
+- '[[Cowen_2015_CHESS]]'
+- '[[Cowen_2019_ERE]]'
+- '[[Slavin_2019_EP]]'
+- '[[Wrigley_2018_BERJ]]'
+- '[[Wrigley_2019_ERE]]'
+- '[[Simpson_2017_JEP]]'
+- '[[Bainbridge_2022_ROE]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-07
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 背景

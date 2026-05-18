@@ -5,7 +5,7 @@ aliases:
 - 利奥塔
 - 让-弗朗索瓦·利奥塔
 - Jean-Francois Lyotard
-summary: Jean-François Lyotard（1924–1998），法国后结构主义哲学家，以其对后现代状况的分析而闻名。
+summary: 法国后结构主义哲学家，《后现代状况》(1979) 作者，叙事知识／科学知识区分和合法化通过权力的理论被 Partaken 用于 GPK 分析
 type: person
 nationality: france
 tags:

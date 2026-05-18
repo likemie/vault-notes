@@ -1,16 +1,34 @@
 ---
 title: Externalization (Schriewer)
+aliases: []
+summary: Schriewer 的比较教育核心概念：教育系统将内部问题构型投射到国际参照系中的过滤过程，Rappleye (2006) 发展为双向运作（外化到国际趋势／外化到传统）
 type: concept
-tags: [externalization, comparative-education, policy-borrowing, discourse-formation, region/global]
-related_concepts: ["[[Cross-National Attraction]]", "[[Policy Borrowing]]", "[[Argument_Rappleye_2006_RCIE]]", "[[American Attraction to Japanese Education 1980s]]", "[[Late Qing Borrowing of Japanese Education]]"]
+tags:
+- externalization
+- comparative-education
+- policy-borrowing
+- discourse-formation
+- region/global
+related_concepts:
+- '[[Cross-National Attraction]]'
+- '[[Policy Borrowing]]'
+- '[[Argument_Rappleye_2006_RCIE]]'
+- '[[American Attraction to Japanese Education 1980s]]'
+- '[[Late Qing Borrowing of Japanese Education]]'
 related_theories: []
-related_persons: ["[[Jurgen Schriewer]]", "[[David Phillips]]", "[[Gita Steiner-Khamsi]]"]
 related_methods: []
-sources: ["sources/Rappleye_2006_RCIE.md"]
+related_persons:
+- '[[Jurgen Schriewer]]'
+- '[[David Phillips]]'
+- '[[Gita Steiner-Khamsi]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Rappleye_2006_RCIE]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-07
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

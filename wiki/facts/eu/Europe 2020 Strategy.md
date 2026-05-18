@@ -1,20 +1,40 @@
 ---
 title: Europe 2020 Strategy
-aliases: ["欧洲2020战略", "EU 2020 Strategy", "Europe 2020"]
+aliases:
+- 欧洲2020战略
+- EU 2020 Strategy
+- Europe 2020
+summary: EU 2010–2020 十年战略规划，以"智能、可持续与包容性增长"为框架，涵盖就业、研发、气候、教育、减贫五大领域
 type: fact
 subtype: policy
-tags: ["region/eu", "region/global", "policy/employment", "policy/education", "policy/innovation"]
-related_concepts: ["[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity]]", "[[Network Governance]]"]
+region: eu
+issuing_organization: ''
+tags:
+- region/eu
+- region/global
+- policy/employment
+- policy/education
+- policy/innovation
+related_concepts:
+- '[[Performance Indicators]]'
+- '[[Theories of Policy Change]]'
+- '[[Selectivity]]'
+- '[[Network Governance]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Innovation Union]]", "[[EU Skills Agenda]]", "[[Youth Guarantee Scheme]]"]
-related_arguments: ["[[Argument_Rambla_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
+related_facts:
+- '[[Innovation Union]]'
+- '[[EU Skills Agenda]]'
+- '[[Youth Guarantee Scheme]]'
+related_arguments:
+- '[[Argument_Rambla_2022_Springer]]'
+sources:
+- '[[Ch10_Rambla_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-05-18'
 ---
 
 # Europe 2020 Strategy

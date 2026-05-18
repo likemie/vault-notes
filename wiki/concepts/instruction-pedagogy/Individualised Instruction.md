@@ -1,14 +1,29 @@
 ---
 title: Individualised Instruction
+aliases: []
+summary: 个别化教学；Laursen 将其作为丹麦"教学差异化"的近似国际参照，指出 Hattie 发现其效应较小且 Helmke 承认相关经验证据不足
 type: concept
-tags: [individualised-instruction, differentiated-instruction, subject/instruction, level/k12]
-related_concepts: ["[[Effective Teaching]]", "[[Visible Learning]]"]
-related_persons: ["[[John Hattie]]", "[[Andreas Helmke]]"]
-sources: ["sources/Laursen_2015_Paideia.md"]
+tags:
+- individualised-instruction
+- differentiated-instruction
+- subject/instruction
+- level/k12
+related_concepts:
+- '[[Effective Teaching]]'
+- '[[Visible Learning]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Andreas Helmke]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Laursen_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

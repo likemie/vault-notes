@@ -4,7 +4,7 @@ aliases:
 - 法扎尔·里兹维
 - Fazal Rizvi
 - Rizvi
-summary: Fazal Rizvi 是高等教育国际化与全球化研究领域的学者，以将批判地缘政治学视角应用于高等教育分析而著称。
+summary: 高等教育国际化与全球化研究学者，以批判地缘政治学视角分析亚洲崛起对全球 HE 架构的重塑，提出国际化理性的发展主义 vs 市场理性二元结构
 type: person
 nationality: global
 tags:

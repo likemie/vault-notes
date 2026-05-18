@@ -1,15 +1,29 @@
 ---
 title: ISSPP Project
+aliases: []
+summary: Christopher Day 领导、自 2002 年起 20+ 国参与的国际成功学校校长项目，最全面的跨国学校领导力案例研究，Møller 以亲历者立场提出方法论反思
 type: fact
 subtype: event
-tags: [school-leadership, region/global, level/k12]
-related_concepts: ["[[School Leadership]]"]
-related_persons: ["[[Christopher Day]]", "[[Jorunn Møller]]"]
-sources: ["sources/Møller_2017_EERJ.md"]
+region: global
+tags:
+- school-leadership
+- region/global
+- level/k12
+related_concepts:
+- '[[School Leadership]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Christopher Day]]'
+- '[[Jorunn Møller]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Møller_2017_EERJ]]'
 confidence: high
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 背景

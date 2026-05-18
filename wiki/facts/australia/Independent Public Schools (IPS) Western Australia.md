@@ -1,15 +1,31 @@
 ---
 title: Independent Public Schools (IPS) Western Australia
+aliases: []
+summary: WA 州最激进的学校自主权改革，575 所学校转为 IPS 地位
 type: fact
 subtype: policy
-tags: [school-autonomy, region/australia, level/k12, IPS]
-related_concepts: ["[[School Autonomy]]", "[[New Public Management in Education]]", "[[School Leadership]]"]
+region: australia
+issuing_organization: ''
+tags:
+- school-autonomy
+- region/australia
+- level/k12
+- IPS
+related_concepts:
+- '[[School Autonomy]]'
+- '[[New Public Management in Education]]'
+- '[[School Leadership]]'
 related_theories: []
-sources: ["sources/Keddie_2020_IJLE.md"]
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Keddie_2020_IJLE]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 背景

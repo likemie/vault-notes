@@ -1,15 +1,31 @@
 ---
 title: OECD Improving School Leadership Project 2006
+aliases: []
+summary: OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
 type: fact
 subtype: policy
-tags: [school-leadership, region/global, level/k12]
-related_concepts: ["[[School Leadership]]", "[[New Public Management in Education]]", "[[Evidence-Based Education]]"]
-related_persons: ["[[Jorunn Møller]]"]
-sources: ["sources/Møller_2017_EERJ.md"]
+region: global
+issuing_organization: ''
+tags:
+- school-leadership
+- region/global
+- level/k12
+related_concepts:
+- '[[School Leadership]]'
+- '[[New Public Management in Education]]'
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Jorunn Møller]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Møller_2017_EERJ]]'
 confidence: high
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 背景

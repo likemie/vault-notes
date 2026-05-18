@@ -1,15 +1,32 @@
 ---
 title: Recommendations for Practice
+aliases: []
+summary: 研究论文中将发现转化为"采用/避免某实践会改善某结果"的实践建议；Brady et al. (2023) 发现 2020 年约三分之二非干预教育心理学文章包含此类建议
 type: concept
-tags: [recommendations-for-practice, research-methodology, evidence-based-education, causal-inference]
-related_concepts: ["[[Evidence-Based Education]]"]
-related_methods: ["[[Intervention Research]]", "[[Non-intervention Research]]", "[[Observational and Correlational Research]]", "[[Qualitative Research]]", "[[Mixed Method and Multi-method Research]]", "[[Randomised Controlled Trials]]"]
+tags:
+- recommendations-for-practice
+- research-methodology
+- evidence-based-education
+- causal-inference
+related_concepts:
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods:
+- '[[Intervention Research]]'
+- '[[Non-intervention Research]]'
+- '[[Observational and Correlational Research]]'
+- '[[Qualitative Research]]'
+- '[[Mixed Method and Multi-method Research]]'
+- '[[Randomised Controlled Trials]]'
 related_persons: []
-sources: ["sources/Brady_2023_EPR.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Brady_2023_EPR]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

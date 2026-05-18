@@ -2,7 +2,7 @@
 title: Jurgen Schriewer
 aliases:
 - Schriewer
-summary: Jurgen Schriewer 是德国比较教育学者和系统理论家，以将 Niklas Luhmann 的社会系统理论引入比较教育研究而著称。
+summary: 德国比较教育学者，将 Luhmann 系统理论引入比较教育，提出"外化"概念和话语形成理论
 type: person
 nationality: germany
 tags:

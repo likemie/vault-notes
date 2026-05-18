@@ -1,6 +1,6 @@
 ---
 title: Argument_OConnor_2020_AJLL
-summary: Whole language 争论表明，把异质且低质的研究输入汇入元分析，只会放大“garbage in, garbage out”问题。
+summary: 以 VL 全语言处理为案例的细读审查：揭示分类错误、不对称审查（接受 -0.65/修正 +0.65）、选择性排除（VL 唯一被修正效应量的元分析），论证先验偏见驱动数据选择
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -36,7 +36,6 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

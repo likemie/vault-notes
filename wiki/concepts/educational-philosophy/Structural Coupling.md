@@ -1,14 +1,29 @@
 ---
 title: Structural Coupling
+aliases: []
+summary: Luhmann (1997) 系统理论概念：两个封闭、自我指涉系统之间的非因果链接，Qvortrup 用于描述教学与学习之间的关系 — Eacott 以 Callahan (1962) 为框架提出的概念，描述教育领导力领域对单一权威人物的不加批判的接受，以 Hattie 崇拜为典型案例分析其形成的三个时间条件
 type: concept
-tags: [structural-coupling, systems-theory, teaching-learning]
-related_theories: ["[[Bounded Rationality]]", "[[Luhmann's Systems Theory]]"]
-related_persons: ["[[Niklas Luhmann]]", "[[Steen Nepper Larsen]]"]
-sources: ["sources/Larsen_2019_EducSci.md", "sources/Qvortrup_2019_NordSTEP.md"]
+tags:
+- structural-coupling
+- systems-theory
+- teaching-learning
+related_concepts: []
+related_theories:
+- '[[Bounded Rationality]]'
+- '[[Luhmann''s Systems Theory]]'
+related_methods: []
+related_persons:
+- '[[Niklas Luhmann]]'
+- '[[Steen Nepper Larsen]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Larsen_2019_EducSci]]'
+- '[[Qvortrup_2019_NordSTEP]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-04
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,19 +1,33 @@
 ---
 title: Varieties of Capitalism
-aliases: ["资本主义多样性", "VoC", "varieties of capitalism", "生产体制"]
+aliases:
+- 资本主义多样性
+- VoC
+- varieties of capitalism
+- 生产体制
+summary: 资本主义多样性：Hall & Soskice (2001) 的 LME/CME 制度区分框架，Hartmann (2022) 用于解释 IVET 跨国转移困难和美国 MNCs 在全球教育市场中的先发优势
 type: concept
-tags: ["region/global", "subject/comparative-education", "subject/comparative-political-economy"]
-related_concepts: ["[[Corporate Education]]", "[[Corporate University]]", "[[Further Education]]"]
-related_theories: ["[[Institutional Isomorphism]]"]
+tags:
+- region/global
+- subject/comparative-education
+- subject/comparative-political-economy
+related_concepts:
+- '[[Corporate Education]]'
+- '[[Corporate University]]'
+- '[[Further Education]]'
+related_theories:
+- '[[Institutional Isomorphism]]'
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Hartmann_2022_CorporateEducation]]"]
-sources: ["[[Ch11_Hartmann_2022]]"]
+related_arguments:
+- '[[Argument_Hartmann_2022_CorporateEducation]]'
+sources:
+- '[[Ch11_Hartmann_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-18
-updated: 2026-05-18
+created: '2026-05-18'
+updated: '2026-05-18'
 ---
 
 # Varieties of Capitalism

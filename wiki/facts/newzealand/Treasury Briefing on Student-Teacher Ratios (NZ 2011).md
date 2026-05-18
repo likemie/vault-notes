@@ -1,16 +1,34 @@
 ---
 title: Treasury Briefing on Student-Teacher Ratios (NZ 2011)
+aliases: []
+summary: 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O'Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
 type: fact
 subtype: event
-tags: [class-size, Visible Learning, Evidence-Based Education, region/new-zealand, stance/critique]
-related_concepts: ["[[Visible Learning]]", "[[Class Size]]", "[[Effect Size]]", "[[Material Fallacies]]"]
-related_persons: ["[[John Hattie]]"]
-related_facts: ["[[Visible Learning Branding and Global Influences]]"]
-sources: ["sources/ONeill_2012_NZJES.md"]
+region: newzealand
+tags:
+- class-size
+- Visible Learning
+- Evidence-Based Education
+- region/new-zealand
+- stance/critique
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Class Size]]'
+- '[[Effect Size]]'
+- '[[Material Fallacies]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts:
+- '[[Visible Learning Branding and Global Influences]]'
+related_arguments: []
+sources:
+- '[[ONeill_2012_NZJES]]'
 confidence: medium
 status: published
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 背景

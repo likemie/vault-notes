@@ -1,20 +1,36 @@
 ---
 title: US-China Economic and Security Review Commission (2000)
-aliases: ["USCC", "美中经济与安全审查委员会"]
+aliases:
+- USCC
+- 美中经济与安全审查委员会
+summary: 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
 type: fact
 subtype: event
-tags: ["region/us", "region/china", "geopolitics-of-knowledge", "intellectual-property", "trade"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Economic and Industrial Espionage]]", "[[Knowledge Transfer]]"]
+region: us
+tags:
+- region/us
+- region/china
+- geopolitics-of-knowledge
+- intellectual-property
+- trade
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Economic and Industrial Espionage]]'
+- '[[Knowledge Transfer]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Sino-American Trade War (2018)]]", "[[Thousand Talents Program]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_facts:
+- '[[Sino-American Trade War (2018)]]'
+- '[[Thousand Talents Program]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # US-China Economic and Security Review Commission (2000)

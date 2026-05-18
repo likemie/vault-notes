@@ -1,19 +1,41 @@
 ---
 title: Endogenous and Exogenous Privatisation
-aliases: ["内生与外生私有化", "教育私有化", "endogenous privatization", "exogenous privatization"]
+aliases:
+- 内生与外生私有化
+- 教育私有化
+- endogenous privatization
+- exogenous privatization
+summary: Ball & Youdell (2008) 识别的两种全球公立学校私有化趋势：学校变得更像企业（内生）vs 私营部门进入学校（外生）
 type: concept
-tags: [privatisation, education-policy, neoliberal, region/global, level/higher-ed]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance]]", "[[Policy Entrepreneur]]", "[[Venture Philanthropy]]", "[[Internationalization of Higher Education]]", "[[New Public Management in Education]]", "[[Knowledge-Based Economy]]"]
+tags:
+- privatisation
+- education-policy
+- neoliberal
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Educational Management Organisation (EMO)]]'
+- '[[Network Governance]]'
+- '[[Policy Entrepreneur]]'
+- '[[Venture Philanthropy]]'
+- '[[Internationalization of Higher Education]]'
+- '[[New Public Management in Education]]'
+- '[[Knowledge-Based Economy]]'
 related_theories: []
-related_persons: ["[[Stephen Ball]]", "[[Fazal Rizvi]]"]
 related_methods: []
+related_persons:
+- '[[Stephen Ball]]'
+- '[[Fazal Rizvi]]'
 related_facts: []
-related_arguments: ["[[Argument_Rizvi_2022_Springer]]"]
-sources: ["sources/ONeill_2016_Report.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
+related_arguments:
+- '[[Argument_Rizvi_2022_Springer]]'
+sources:
+- '[[ONeill_2016_Report]]'
+- '[[Ch6_Rizvi_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-11
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

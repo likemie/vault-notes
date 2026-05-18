@@ -2,7 +2,7 @@
 title: Jacob Cohen
 aliases:
 - Cohen
-summary: Jacob Cohen 是美国统计学家，是 effect size（效应量）和 Cohen's d 解释框架的关键人物。
+summary: 美国统计学家，效应量/Cohen's d 解释框架的关键人物，small/medium/large 阈值常在教育研究中被转化为实践判断工具
 type: person
 nationality: us
 tags:

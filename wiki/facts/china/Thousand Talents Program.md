@@ -1,20 +1,36 @@
 ---
 title: Thousand Talents Program
-aliases: ["千人计划", "Thousand Talents Plan"]
+aliases:
+- 千人计划
+- Thousand Talents Plan
+summary: 中国海外高层次人才引进计划，被美方视为制度化知识盗窃机制，中美技术紧张焦点
 type: fact
 subtype: event
-tags: ["region/china", "geopolitics-of-knowledge", "knowledge-transfer", "brain-gain"]
-related_concepts: ["[[Knowledge Transfer]]", "[[Economic and Industrial Espionage]]", "[[Geopolitics of Knowledge]]", "[[Forced Knowledge Transfer]]"]
+region: china
+tags:
+- region/china
+- geopolitics-of-knowledge
+- knowledge-transfer
+- brain-gain
+related_concepts:
+- '[[Knowledge Transfer]]'
+- '[[Economic and Industrial Espionage]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Forced Knowledge Transfer]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Sino-American Trade War (2018)]]", "[[US-China Economic and Security Review Commission (2000)]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_facts:
+- '[[Sino-American Trade War (2018)]]'
+- '[[US-China Economic and Security Review Commission (2000)]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Thousand Talents Program

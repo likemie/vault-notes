@@ -1,15 +1,32 @@
 ---
 title: Value-Based Education
+aliases: []
+summary: Biesta 提出的教育取向：价值先于证据，教育的目的性判断从属于"我们想要达成什么"而非"什么有效
 type: concept
-tags: [value-based-education, educational-philosophy, teleology, normativity, paradigm/critical, region/global]
-related_concepts: ["[[Evidence-Based Education]]", "[[Complexity Reduction]]"]
-related_theories: ["[[Transactional Epistemology]]"]
-related_persons: ["[[Gert Biesta]]", "[[John Dewey]]"]
-sources: ["sources/Biesta_2010_SPE.md"]
+tags:
+- value-based-education
+- educational-philosophy
+- teleology
+- normativity
+- paradigm/critical
+- region/global
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Complexity Reduction]]'
+related_theories:
+- '[[Transactional Epistemology]]'
+related_methods: []
+related_persons:
+- '[[Gert Biesta]]'
+- '[[John Dewey]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Biesta_2010_SPE]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

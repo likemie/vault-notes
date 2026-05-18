@@ -1,20 +1,35 @@
 ---
 title: English Schools Foundation Hong Kong
-aliases: [ESF, 英基学校基金会, ESF Hong Kong]
+aliases:
+- ESF
+- 英基学校基金会
+- ESF Hong Kong
+summary: 香港最大英语学校体系，从英国国民学校（限 10% 本地华人）转型为 40%–50% 本地华人学生，改变了学生认同与语言课程
 type: fact
 subtype: event
-tags: [region/hongkong, level/k12]
-related_concepts: ["[[Chinese Learner]]", "[[International Education]]", "[[Fourth Culture]]", "[[International Schools]]"]
+region: hongkong
+tags:
+- region/hongkong
+- level/k12
+related_concepts:
+- '[[Chinese Learner]]'
+- '[[International Education]]'
+- '[[Fourth Culture]]'
+- '[[International Schools]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Liberal Studies (Hong Kong)]]", "[[Symposium on International Teaching 2007]]"]
-related_arguments: ["[[Argument_Ryan_2010_HKUP]]"]
-sources: ["[[Ryan(Ed.)_2010_HKUP]]"]
+related_facts:
+- '[[Liberal Studies (Hong Kong)]]'
+- '[[Symposium on International Teaching 2007]]'
+related_arguments:
+- '[[Argument_Ryan_2010_HKUP]]'
+sources:
+- '[[Ryan(Ed.)_2010_HKUP]]'
 confidence: medium
 status: draft
-created: 2026-05-16
-updated: 2026-05-17
+created: '2026-05-16'
+updated: '2026-05-18'
 ---
 
 # English Schools Foundation Hong Kong

@@ -1,20 +1,36 @@
 ---
 title: Innovation Union
-aliases: ["创新联盟（欧盟）", "EU Innovation Union"]
+aliases:
+- 创新联盟（欧盟）
+- EU Innovation Union
+summary: EU 2010–2020 旗舰政策，旨在构建区域创新生态体系，以 EUROSTAT 区域创新记分牌为核心监测工具
 type: fact
 subtype: policy
-tags: ["region/eu", "region/global", "policy/innovation", "policy/education"]
-related_concepts: ["[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity]]"]
+region: eu
+issuing_organization: ''
+tags:
+- region/eu
+- region/global
+- policy/innovation
+- policy/education
+related_concepts:
+- '[[Performance Indicators]]'
+- '[[Theories of Policy Change]]'
+- '[[Selectivity]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Europe 2020 Strategy]]", "[[EU Skills Agenda]]"]
-related_arguments: ["[[Argument_Rambla_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
+related_facts:
+- '[[Europe 2020 Strategy]]'
+- '[[EU Skills Agenda]]'
+related_arguments:
+- '[[Argument_Rambla_2022_Springer]]'
+sources:
+- '[[Ch10_Rambla_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-05-18'
 ---
 
 # Innovation Union

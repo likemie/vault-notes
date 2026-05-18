@@ -1,14 +1,30 @@
 ---
 title: Cargo Cult Science
+aliases: []
+summary: Feynman (1974) 概念：看起来像科学但缺乏认识论诚信的伪科学实践，应用于 VL 批判
 type: concept
-tags: [cargo-cult-science, 伪科学, paradigm/positivist, stance/critique]
-related_concepts: ["[[Scientism]]", "[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Dynamic Knowledge and Learning Model]]"]
-related_persons: ["[[John Hattie]]"]
-sources: ["sources/Johnson_2023_CE.md"]
+tags:
+- cargo-cult-science
+- 伪科学
+- paradigm/positivist
+- stance/critique
+related_concepts:
+- '[[Scientism]]'
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Dynamic Knowledge and Learning Model]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Johnson_2023_CE]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-06
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

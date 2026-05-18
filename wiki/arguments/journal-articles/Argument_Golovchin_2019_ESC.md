@@ -1,6 +1,6 @@
 ---
 title: Argument_Golovchin_2019_ESC
-summary: Hattie 的元元分析可为俄罗斯教师培养提供启发，但其方法前提与本土适用性都需要谨慎处理。
+summary: 以变差系数检验 Hattie 效应量数据集（Vσ=56.87%），系统综述 10+ 位批评者论点，评估 VL 对俄教育政策的适用性并建议拒绝借用
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -31,7 +31,6 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

@@ -2,7 +2,7 @@
 title: Jorunn Møller
 aliases:
 - Møller
-summary: Jorunn Møller，挪威奥斯陆大学（University of Oslo）教师教育与学校研究系教授。
+summary: 奥斯陆大学教育领导力与治理教授，ISSPP 和 OECD ISL 项目参与者，以对教育领导力研究中去政治化倾向的系统批判著称
 type: person
 nationality: global
 tags:

@@ -1,14 +1,32 @@
 ---
 title: Updating and Monitoring
+aliases: []
+summary: 执行功能的核心成分：动态操纵工作记忆内容的更新与监控能力，容量有限（成人 3–4 项）
 type: concept
-tags: [updating-and-monitoring, working-memory, executive-function, learning-science, cognitive-science]
-related_concepts: ["[[executive-function]]", "[[working-memory]]", "[[cognitive-inhibition]]", "[[cognitive-shifting]]", "[[prefrontal-cortex]]"]
-related_theories: ["[[miyake-unity-diversity-framework]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+tags:
+- updating-and-monitoring
+- working-memory
+- executive-function
+- learning-science
+- cognitive-science
+related_concepts:
+- '[[executive-function]]'
+- '[[working-memory]]'
+- '[[cognitive-inhibition]]'
+- '[[cognitive-shifting]]'
+- '[[prefrontal-cortex]]'
+related_theories:
+- '[[miyake-unity-diversity-framework]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

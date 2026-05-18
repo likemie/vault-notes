@@ -1,15 +1,33 @@
 ---
 title: Epochal Key Problems
+aliases: []
+summary: Klafki 的课程组织概念：以环境危机、社会不平等、战争等时代问题连接学科深度与跨学科广度
 type: concept
-tags: [epochal-key-problems, Didaktik, subject/curriculum, sustainability, paradigm/critical]
+tags:
+- epochal-key-problems
+- Didaktik
+- subject/curriculum
+- sustainability
+- paradigm/critical
+related_concepts:
+- '[[Didaktik]]'
+- '[[Bildung]]'
+- '[[Phenomenon-Based Learning]]'
+- '[[Finnish National Core Curriculum 2014]]'
+- '[[SveaSus Project]]'
+- '[[Atomisation of Knowledge and Skills]]'
 related_theories: []
-related_concepts: ["[[Didaktik]]", "[[Bildung]]", "[[Phenomenon-Based Learning]]", "[[Finnish National Core Curriculum 2014]]", "[[SveaSus Project]]", "[[Atomisation of Knowledge and Skills]]"]
-related_persons: ["[[Wolfgang Klafki]]"]
-sources: ["sources/Schaffar_2024_CogentEdu.md"]
+related_methods: []
+related_persons:
+- '[[Wolfgang Klafki]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Schaffar_2024_CogentEdu]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 定义

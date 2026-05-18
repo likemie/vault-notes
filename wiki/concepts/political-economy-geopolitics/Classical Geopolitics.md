@@ -1,46 +1,47 @@
 ---
 title: Classical Geopolitics
 aliases:
-  - 古典地缘政治
+- 古典地缘政治
+summary: Moisio (2022) 概念：以国家"硬"领土力量和势力范围为中心的传统地缘政治理解，与知识地缘政治的关系性空间构型形成对照
 type: concept
 tags:
-  - classical-geopolitics
-  - geopolitics
-  - territorial-power
-  - nation-state
-  - region/global
+- classical-geopolitics
+- geopolitics
+- territorial-power
+- nation-state
+- region/global
 related_concepts:
-  - "[[Geopolitics of Knowledge]]"
-  - "[[Knowledge-Based Economization]]"
-  - "[[Hub and Flow Imaginaries]]"
-  - "[[Knowledge Transfer]]"
-  - "[[Internationalization of Higher Education]]"
-  - "[[Multiplicity (Massey)]]"
-  - "[[Space-Making in Higher Education]]"
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge-Based Economization]]'
+- '[[Hub and Flow Imaginaries]]'
+- '[[Knowledge Transfer]]'
+- '[[Internationalization of Higher Education]]'
+- '[[Multiplicity (Massey)]]'
+- '[[Space-Making in Higher Education]]'
 related_theories:
-  - "[[Fixity-Motion Tension]]"
-  - "[[Critical Geopolitics]]"
-  - "[[World-Systems Theory]]"
-related_persons:
-  - "[[Sami Moisio]]"
-  - "[[Marcelo Parreira do Amaral]]"
-  - "[[James Partaken]]"
-  - "[[Fazal Rizvi]]"
-  - "[[Doreen Massey]]"
-related_facts:
-  - "[[Sino-American Trade War (2018)]]"
+- '[[Fixity-Motion Tension]]'
+- '[[Critical Geopolitics]]'
+- '[[World-Systems Theory]]'
 related_methods: []
+related_persons:
+- '[[Sami Moisio]]'
+- '[[Marcelo Parreira do Amaral]]'
+- '[[James Partaken]]'
+- '[[Fazal Rizvi]]'
+- '[[Doreen Massey]]'
+related_facts:
+- '[[Sino-American Trade War (2018)]]'
 related_arguments: []
 sources:
-  - books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md
-  - books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md
-  - "[[Ch5_Partaken_2022]]"
-  - books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md
-  - "[[Marginson_2025_ROE]]"
+- '[[Ch2_Moisio_2022]]'
+- '[[Ch3_Parreira do Amaral_2022]]'
+- '[[Ch5_Partaken_2022]]'
+- '[[Ch6_Rizvi_2022]]'
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-12
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

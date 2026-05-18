@@ -1,20 +1,32 @@
 ---
 title: China Basic Education Curriculum Reform 2001
-aliases: [中国基础教育课程改革2001, 基础教育课程改革纲要, Zhongguo Jichu Jiaoyu Kecheng Gaige Gangyao]
+aliases:
+- 中国基础教育课程改革2001
+- 基础教育课程改革纲要
+- Zhongguo Jichu Jiaoyu Kecheng Gaige Gangyao
+summary: 教育部发布《基础教育课程改革纲要（试行）》，从"双基"转向"素质教育"、从教师中心转向学生中心教学，在大城市和偏远地区均深入推进
 type: fact
 subtype: policy
-tags: [region/china, level/k12, policy/curriculum-reform]
-related_concepts: ["[[Chinese Learner]]"]
+region: china
+issuing_organization: ''
+tags:
+- region/china
+- level/k12
+- policy/curriculum-reform
+related_concepts:
+- '[[Chinese Learner]]'
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Ryan_2010_ChineseLearner]]"]
-sources: ["[[Ch2_Ryan_2010]]"]
+related_arguments:
+- '[[Argument_Ryan_2010_ChineseLearner]]'
+sources:
+- '[[Ch2_Ryan_2010]]'
 confidence: medium
 status: draft
-created: 2026-05-17
-updated: 2026-05-17
+created: '2026-05-17'
+updated: '2026-05-18'
 ---
 
 # China Basic Education Curriculum Reform 2001

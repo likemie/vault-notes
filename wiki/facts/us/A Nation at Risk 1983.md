@@ -1,17 +1,33 @@
 ---
 title: A Nation at Risk 1983
+aliases: []
+summary: 美国国家教育卓越委员会发布的报告，引发全球教育质量恐慌，直接触发 OECD 教育指标体系（INES/EAG）的加速建立
 type: fact
 subtype: event
-tags: [assessment, education reform, region/us, level/k12, stance/critique]
-related_concepts: ["[[International Indicators of Education Systems (INES)]]", "[[Education at a Glance (EAG)]]"]
+region: us
+tags:
+- assessment
+- education reform
+- region/us
+- level/k12
+- stance/critique
+related_concepts:
+- '[[International Indicators of Education Systems (INES)]]'
+- '[[Education at a Glance (EAG)]]'
 related_theories: []
+related_methods: []
 related_persons: []
-related_facts: ["[[Coleman Report 1966]]", "[[American Attraction to Japanese Education 1980s]]"]
-sources: ["sources/Gorur_2014_Discourse.md", "sources/Downey_2016_SoE.md"]
+related_facts:
+- '[[Coleman Report 1966]]'
+- '[[American Attraction to Japanese Education 1980s]]'
+related_arguments: []
+sources:
+- '[[Gorur_2014_Discourse]]'
+- '[[Downey_2016_SoE]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-07
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 背景

@@ -1,16 +1,35 @@
 ---
 title: National Security Law Impact on Hong Kong Education
+aliases: []
+summary: 《香港国安法》(2020) 颁布后为强制国民教育提供法律框架，关闭公民社会协商空间，实现从协商式到命令式教育决策的转变
 type: fact
 subtype: event
-tags: [national-security-law, hong-kong, education-policy, curriculum-change, national-education, region/china, level/k12]
-related_concepts: ["[[National Education in Hong Kong]]", "[[Liberal Studies (Hong Kong)]]", "[[Citizenship and Social Development (Hong Kong)]]"]
-related_theories: ["[[Cuban's Curriculum Change Theory]]"]
-related_persons: ["[[Paul Morris]]"]
-sources: ["sources/Yan_2025_JCS.md"]
+region: hongkong
+tags:
+- national-security-law
+- hong-kong
+- education-policy
+- curriculum-change
+- national-education
+- region/china
+- level/k12
+related_concepts:
+- '[[National Education in Hong Kong]]'
+- '[[Liberal Studies (Hong Kong)]]'
+- '[[Citizenship and Social Development (Hong Kong)]]'
+related_theories:
+- '[[Cuban''s Curriculum Change Theory]]'
+related_methods: []
+related_persons:
+- '[[Paul Morris]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Yan_2025_JCS]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 事件概述

@@ -1,15 +1,32 @@
 ---
 title: Best Evidence in Brief (BEiB)
+aliases: []
+summary: Johns Hopkins University 与约克大学创建的全球证据传播网络（每两周简报），扩展至 NNU 中国大陆中文版和 CUHK 海外华人版（Slavin et al., 2021）
 type: fact
 subtype: policy
-tags: [Evidence-Based Reform, region/global, region/china, region/us, region/uk]
-related_concepts: ["[[Evidence-Based Reform]]", "[[Evidence-Based Education]]"]
-related_persons: ["[[Robert Slavin]]"]
-sources: ["sources/Slavin_2021_ROE.md"]
+region: multi
+issuing_organization: ''
+tags:
+- Evidence-Based Reform
+- region/global
+- region/china
+- region/us
+- region/uk
+related_concepts:
+- '[[Evidence-Based Reform]]'
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Robert Slavin]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Slavin_2021_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 背景

@@ -1,19 +1,30 @@
 ---
 title: Humosity
 aliases: []
+summary: Rusten Hogness 创造、Haraway 使用的概念："腐殖性"——将人类彻底去中心化，承认人类的生死不过是物质循环中的一环（如同腐殖质），Amos (2022) 将其定位为后人类主义与超人类主义世界观分歧的精确表达
 type: concept
-tags: [humosity, posthumanism, haraway, decentering, ecology, mortality]
-related_concepts: ["[[Posthumanism]]", "[[Sympoiesis]]"]
-related_persons: ["[[Donna Haraway]]"]
+tags:
+- humosity
+- posthumanism
+- haraway
+- decentering
+- ecology
+- mortality
+related_concepts:
+- '[[Posthumanism]]'
+- '[[Sympoiesis]]'
 related_theories: []
 related_methods: []
+related_persons:
+- '[[Donna Haraway]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

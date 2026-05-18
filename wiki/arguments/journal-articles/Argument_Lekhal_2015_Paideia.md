@@ -1,6 +1,6 @@
 ---
 title: Argument_Lekhal_2015_Paideia
-summary: 男女生学业差异更多经由在校态度、行为与关系性条件中介生成，而非由性别直接决定。
+summary: 挪威 48 校 4128 名学生研究：性别本身对成绩直接解释力极小（约 0.2%），差异主要通过学校规范适应与学习动机等校内变量间接生成
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -37,7 +37,6 @@ status: draft
 created: '2026-05-06'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

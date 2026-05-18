@@ -1,15 +1,35 @@
 ---
 title: SFI Report 2013
+aliases: []
+summary: Winther & Nielsen 编辑的丹麦 SFI 报告，是检验 Hattie/Meyer/Helmke 有效教学综合丹麦适用性的主要本土证据
 type: fact
-subtype: research-report
-tags: [effective-teaching, region/denmark, level/k12, research-report]
-related_concepts: ["[[Effective Teaching]]", "[[Visible Learning]]", "[[Feedback]]", "[[Individualised Instruction]]"]
-related_persons: ["[[John Hattie]]", "[[Hilbert Meyer]]", "[[Andreas Helmke]]", "[[Jill Mehlbye]]"]
-sources: ["sources/Laursen_2015_Paideia.md"]
+subtype: event
+region: denmark
+tags:
+- effective-teaching
+- region/denmark
+- level/k12
+- research-report
+related_concepts:
+- '[[Effective Teaching]]'
+- '[[Visible Learning]]'
+- '[[Feedback]]'
+- '[[Individualised Instruction]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Hilbert Meyer]]'
+- '[[Andreas Helmke]]'
+- '[[Jill Mehlbye]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Laursen_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 背景

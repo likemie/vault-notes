@@ -1,6 +1,6 @@
 ---
 title: Argument_Hitchcock_2015_JBE
-summary: WWC 的单一个案审查规则不仅评估内部效度，也能为证据推广性提供系统信息与最低阈值。
+summary: 澄清 WWC SCD 审查程序如何通过 Review Guide 和审查协议捕获推广性信息，描述 5-3-20 证据充分性阈值
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -34,7 +34,6 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
-
 
 ## 研究问题
 

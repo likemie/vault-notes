@@ -2,7 +2,7 @@
 title: Anthony Bryk
 aliases:
 - Bryk
-summary: Anthony S. Bryk，Carnegie Foundation for the Advancement of Teaching 高级研究员，将改进科学引入美国教育研究领域的关键人物。
+summary: Carnegie Foundation 高级研究员，将改进科学引入美国教育，网络化改进社区模型的主要开发者
 type: person
 nationality: us
 tags:

@@ -1,19 +1,29 @@
 ---
 title: Boarding Schools
-aliases: [寄宿学校, boarding school]
+aliases:
+- 寄宿学校
+- boarding school
+summary: 寄宿学校从中世纪修道院到当代"大学跳板"的演变；UK 700+ 所 100K+ 学生/年，AU 101 所，CA 约 60 所
 type: concept
-tags: [region/global, level/k12]
-related_concepts: ["[[International Education]]", "[[International Schools]]", "[[Chinese Learner]]"]
+tags:
+- region/global
+- level/k12
+related_concepts:
+- '[[International Education]]'
+- '[[International Schools]]'
+- '[[Chinese Learner]]'
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Slethaug_2010_InternationalEducation]]"]
-sources: ["[[Ch1_Slethaug_2010]]"]
+related_arguments:
+- '[[Argument_Slethaug_2010_InternationalEducation]]'
+sources:
+- '[[Ch1_Slethaug_2010]]'
 confidence: medium
 status: draft
-created: 2026-05-17
-updated: 2026-05-17
+created: '2026-05-17'
+updated: '2026-05-18'
 ---
 
 # Boarding Schools

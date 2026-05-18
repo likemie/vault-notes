@@ -3,7 +3,7 @@ title: Ellen Hazelkorn
 aliases:
 - Hazelkorn
 - 埃伦·黑兹尔科恩
-summary: Ellen Hazelkorn 是全球大学排名研究领域的领军学者，以其对排名如何重塑高等教育的系统分析著称。
+summary: 全球大学排名研究领军学者，排名重塑高等教育的系统分析者，提出排名是"高等教育地缘政治的隐喻"（2018），与 Altbach 联合呼吁高校"专注于使命而非排名
 type: person
 nationality: global
 tags:

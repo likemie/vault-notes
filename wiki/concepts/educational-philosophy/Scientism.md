@@ -1,27 +1,32 @@
 ---
 title: Scientism
+aliases: []
+summary: 对科学方法的过度美化及在其原始范围之外轻率应用，Gasparatou/Hayek/Ross 等定义，Johnson & Janzen 将其应用于 VL 批判
 type: concept
 tags:
-  - Scientism
-  - scientific-method
-  - paradigm/positivist
-  - stance/critique
+- Scientism
+- scientific-method
+- paradigm/positivist
+- stance/critique
 related_concepts:
-  - "[[Visible Learning]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Cargo Cult Science]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Cargo Cult Science]]'
+- '[[Dynamic Knowledge and Learning Model]]'
 related_theories:
-  - "[[Technical Rationality]]"
+- '[[Technical Rationality]]'
+related_methods: []
 related_persons:
-  - "[[John Hattie]]"
-  - "[[Gert Biesta]]"
+- '[[John Hattie]]'
+- '[[Gert Biesta]]'
+related_facts: []
+related_arguments: []
 sources:
-  - sources/Johnson_2023_CE.md
+- '[[Johnson_2023_CE]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-06
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

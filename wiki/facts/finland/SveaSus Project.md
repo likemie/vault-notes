@@ -1,15 +1,35 @@
 ---
 title: SveaSus Project
+aliases: []
+summary: 赫尔辛基大学 2018–2023 年现象本位学习项目，以 Suomenlinna 世界遗产地为学习环境探索可持续性、具身、艺术本位和多语学习
 type: fact
 subtype: event
-tags: [phenomenon-based-learning, sustainability, world-heritage, region/finland, level/higher-ed]
-related_concepts: ["[[Phenomenon-Based Learning]]", "[[Finnish National Core Curriculum 2014]]", "[[Epochal Key Problems]]", "[[Atomisation of Knowledge and Skills]]", "[[Bildung]]", "[[Didaktik]]"]
-related_theories: ["[[Phenomenology]]"]
-sources: ["sources/Schaffar_2024_CogentEdu.md"]
+region: finland
+tags:
+- phenomenon-based-learning
+- sustainability
+- world-heritage
+- region/finland
+- level/higher-ed
+related_concepts:
+- '[[Phenomenon-Based Learning]]'
+- '[[Finnish National Core Curriculum 2014]]'
+- '[[Epochal Key Problems]]'
+- '[[Atomisation of Knowledge and Skills]]'
+- '[[Bildung]]'
+- '[[Didaktik]]'
+related_theories:
+- '[[Phenomenology]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Schaffar_2024_CogentEdu]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 背景

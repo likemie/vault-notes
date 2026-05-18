@@ -5,7 +5,7 @@ aliases:
 - Weber
 - 韦伯
 - Maximilian Carl Emil Weber
-summary: Max Weber（马克斯·韦伯，1864–1920），德国社会学家、国民经济学和法学家，古典社会学三大奠基人之一（与 Marx 和 Durkheim 并列），诠释社会学和行动理论的创始人。
+summary: 德国社会学家，诠释社会学和行动理论创始人，工具理性与价值理性的经典区分，郑雅君 (2023) 以之作为全书认识论锚点和文化社会学讨论起点
 type: person
 nationality: germany
 tags:
