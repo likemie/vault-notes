@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e119fc17d76491",
+        "id": "0af06f3c935b09ce",
         "type": "tabs",
         "children": [
           {
-            "id": "05fbb974d263edfa",
+            "id": "f49437b00d1a74a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/theories/Science and Technology Studies (STS).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Science and Technology Studies (STS)"
+              "title": "新标签页"
             }
           }
         ]
@@ -187,8 +183,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "05fbb974d263edfa",
+  "active": "f49437b00d1a74a8",
   "lastOpenFiles": [
+    "vault-schema.md",
+    "wiki/theories/Science and Technology Studies (STS).md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/vault-schema-manifest-patch.md",
     "wiki/facts/global/OECD Improving School Leadership Project 2006.md",
     "wiki/wiki-index.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md",
@@ -213,10 +212,7 @@
     "wiki/arguments/Argument_Parreira do Amaral_2022_Springer.md",
     "sources/Parreira do Amaral(Ed.)_2022_Springer.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022.pdf",
-    "CLAUDE.md",
-    "wiki/index.md",
     "raw/Parreira do Amaral(Ed.)_2022_11章.pdf",
-    "wiki/arguments/Argument_Ryan_2010_ChineseLearner.md",
     "raw/978-3-030-94415-5_11.pdf",
     "wiki/theories/Hofstede's Cultural Dimensions.md.tmp.53348.94cf9136d150",
     "books/Ryan(Ed.)_2010_HKUP/Ch1_Slethaug_2010.pdf",
