@@ -1,6 +1,7 @@
 ---
 title: Andreas Helmke
-aliases: []
+aliases:
+- 安德烈亚斯·赫尔姆克
 summary: 德语有效教学综合作者，Laursen 用其十项教学质量、学生前提条件和文化语境讨论检验丹麦适用性
 type: person
 nationality: germany

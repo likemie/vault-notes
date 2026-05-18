@@ -1,6 +1,7 @@
 ---
 title: Alan C. K. Cheung
-aliases: []
+aliases:
+- 艾伦·C·K·张
 summary: 香港中文大学教育研究者，与 Slavin 合作进行大规模随机实验和证据本位改革国际比较研究，BEiB 中文网络（海外华人版）建设者，与谢晨共同编辑 ECNU ROE 证据本位改革特刊
 type: person
 nationality: china

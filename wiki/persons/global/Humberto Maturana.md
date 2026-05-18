@@ -1,6 +1,7 @@
 ---
 title: Humberto Maturana
-aliases: []
+aliases:
+- 温贝托·马图拉纳
 summary: 智利生物学家和哲学家，与 Varela 共同创立 autopoiesis 理论，彻底改变了关于生命作为宏大系统的思考方式
 type: person
 nationality: global

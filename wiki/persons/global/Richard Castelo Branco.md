@@ -1,6 +1,7 @@
 ---
 title: Richard Castelo Branco
-aliases: []
+aliases:
+- 理查德·卡斯特洛·布兰科
 summary: 巴西剧场导演，Rocinha 贫民窟剧场团体"Bando Cultural Favelados da Rocinha"导演，开发抵抗认识论剧场方法 EspectAtor
 type: person
 nationality: global

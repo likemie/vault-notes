@@ -1,6 +1,7 @@
 ---
 title: Marcelo Parreira do Amaral
-aliases: []
+aliases:
+- 马塞洛·帕雷拉·多·阿马拉尔
 summary: 明斯特大学比较教育教授，全球教育产业（GEI）和知识地缘政治研究者，与 Thompson 共同主编 *Geopolitical Transformations in Higher Education* (2022)
 type: person
 nationality: global

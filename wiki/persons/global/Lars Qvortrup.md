@@ -1,6 +1,7 @@
 ---
 title: Lars Qvortrup
-aliases: []
+aliases:
+- 拉尔斯·克沃特鲁普
 summary: 奥胡斯大学丹麦教育学院教授，VL 丹麦引介者（与 Egelund 合写丹麦语译本导言），以 Simon/Schön/Luhmann 构建 VL 专业判断辩护框架 — 奥胡斯大学心理学系教授，以 Habermas 合法化危机理论解释 Hattie VL 的全球流行，与 Klitmøller 合作发表多篇 VL 批判
 type: person
 nationality: global

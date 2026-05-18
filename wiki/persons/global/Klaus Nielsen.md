@@ -1,6 +1,7 @@
 ---
 title: Klaus Nielsen
-aliases: []
+aliases:
+- 克劳斯·尼尔森
 summary: 丹麦理论心理学家，以 Habermas 合法化危机和 Schön 技术理性框架批判 Visible Learning 的全球流行及其理论内核
 type: person
 nationality: global

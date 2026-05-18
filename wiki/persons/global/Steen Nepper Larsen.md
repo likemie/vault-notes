@@ -1,6 +1,7 @@
 ---
 title: Steen Nepper Larsen
-aliases: []
+aliases:
+- 斯滕·内珀·拉森
 summary: 奥胡斯大学教育哲学学者，以 Bildung 复兴和具身化-扩展辩证法对 Hattie VL 的系统哲学批判著称
 type: person
 nationality: global

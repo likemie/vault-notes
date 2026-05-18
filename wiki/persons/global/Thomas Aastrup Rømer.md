@@ -1,6 +1,7 @@
 ---
 title: Thomas Aastrup Rømer
-aliases: []
+aliases:
+- 托马斯·奥斯特鲁普·勒默
 summary: 奥胡斯大学教育哲学副教授，以对 Hattie VL 的五线哲学批判著称，提出"纯粹评价"概念
 type: person
 nationality: global
