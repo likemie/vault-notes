@@ -1,6 +1,6 @@
 ---
 title: Argument_Zapp_2022_Springer
-summary: ''
+summary: 大学在知识经济叙事中已从服务经济的机构转变为以科学权威参与全球治理的知识行动者。
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -43,6 +43,7 @@ status: draft
 created: '2026-05-11'
 updated: '2026-05-18'
 ---
+
 
 # Argument_Zapp_2022_Springer
 

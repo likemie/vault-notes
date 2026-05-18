@@ -1,6 +1,6 @@
 ---
 title: Argument_Terhart_2011_JCS
-summary: ''
+summary: Visible Learning 汇聚海量研究并未找到教学研究“圣杯”，反而暴露出元元分析与教学理论之间的深层断裂。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -31,6 +31,7 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

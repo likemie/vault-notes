@@ -1,6 +1,6 @@
 ---
 title: Argument_Knudsen_2017_NordSTEP
-summary: ''
+summary: Hattie 将自己界定为统计学家而非理论家，恰好暴露出 Visible Learning 对教育理论与知识概念的回避。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -30,6 +30,7 @@ status: draft
 created: '2026-05-07'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

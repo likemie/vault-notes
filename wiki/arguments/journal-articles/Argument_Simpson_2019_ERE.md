@@ -1,6 +1,6 @@
 ---
 title: Argument_Simpson_2019
-summary: ''
+summary: 效应量与教育有效性并不等同，把前者当作后者的代理指标是把论证与结论混为一谈的范畴错误。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,6 +32,7 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

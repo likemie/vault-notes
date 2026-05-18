@@ -1,6 +1,6 @@
 ---
 title: Argument_ONeill_2012_NZJES
-summary: ''
+summary: 当政策建议建立在对研究证据的实质性谬误之上时，研究者有责任指出其逻辑错误与公共风险。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -35,6 +35,7 @@ status: published
 created: '2026-05-06'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

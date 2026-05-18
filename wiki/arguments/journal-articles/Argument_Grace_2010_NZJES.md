@@ -1,6 +1,6 @@
 ---
 title: Argument_Grace_2010_NZJES
-summary: ''
+summary: 大学的“社会批评者与良知”角色要求学者以独立、系统且面向公共利益的方式向权力说真话。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -29,6 +29,7 @@ status: draft
 created: '2026-05-07'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

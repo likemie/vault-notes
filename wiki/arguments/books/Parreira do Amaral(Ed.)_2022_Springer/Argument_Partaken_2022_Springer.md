@@ -1,6 +1,6 @@
 ---
 title: Argument_Partaken_2022_Springer
-summary: ''
+summary: 知识地缘政治的核心不在知识生产而在知识转移，其机制可由中美紧张中的强制、监视、破坏与交换等模态解释。
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -40,6 +40,7 @@ status: draft
 created: '2026-05-10'
 updated: '2026-05-18'
 ---
+
 
 # Argument_Partaken_2022_Springer
 

@@ -1,6 +1,6 @@
 ---
 title: Argument_Zhao_2017_JEC
-summary: ''
+summary: 教育干预的效果与副作用不可分割，证据本位研究若不系统追踪伤害就会把“有效”误当作“值得采用”。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -33,6 +33,7 @@ status: draft
 created: '2026-05-04'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

@@ -1,6 +1,6 @@
 ---
 title: Argument_Keddie_2020_IJLE
-summary: ''
+summary: 澳大利亚公校自治在赋权与问责、灵活性与不平等之间形成悖论，并对社会正义造成结构性张力。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -28,6 +28,7 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

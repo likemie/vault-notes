@@ -1,6 +1,6 @@
 ---
 title: Argument_Wiliam_2019
-summary: ''
+summary: 教育改进不能追问抽象的“what works”，而应在地方知识、可行性与专业判断中追问“在何种条件下有效”。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -41,6 +41,7 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

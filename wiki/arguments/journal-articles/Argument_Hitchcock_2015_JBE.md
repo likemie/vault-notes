@@ -1,6 +1,6 @@
 ---
 title: Argument_Hitchcock_2015_JBE
-summary: ''
+summary: WWC 的单一个案审查规则不仅评估内部效度，也能为证据推广性提供系统信息与最低阈值。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -34,6 +34,7 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

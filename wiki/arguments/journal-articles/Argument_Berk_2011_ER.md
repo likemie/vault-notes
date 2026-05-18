@@ -1,6 +1,6 @@
 ---
 title: Argument_Berk_2011_ER
-summary: ''
+summary: 评估研究的质量不取决于是否自称证据本位，而取决于能否区分严格证据与被噪音和立场污染的“junk-based”研究。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -33,6 +33,7 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

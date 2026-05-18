@@ -1,6 +1,6 @@
 ---
 title: Argument_Amos_2022_Springer
-summary: ''
+summary: 晚期现代性的教育转型被置于超人类主义与后人类主义的对照中，关系性、回应性的后人类路径被论证为更可取的教育愿景。
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -53,6 +53,7 @@ status: draft
 created: '2026-05-08'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

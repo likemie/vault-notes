@@ -1,6 +1,6 @@
 ---
 title: Argument_Hattie_2015_SOTLP
-summary: ''
+summary: Visible Learning 在高等教育中可作为反思教学影响的启发框架，但不能被简单移植为统一处方。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,6 +32,7 @@ status: draft
 created: '2026-05-04'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

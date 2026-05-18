@@ -1,6 +1,6 @@
 ---
 title: Argument_Hattie_2017_SLM
-summary: ''
+summary: 教育者对 Visible Learning 的使用更接近批判性借鉴而非盲从崇拜，因此“cult of Hattie”指控过度简化了实践现场。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,6 +32,7 @@ status: draft
 created: '2026-05-07'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

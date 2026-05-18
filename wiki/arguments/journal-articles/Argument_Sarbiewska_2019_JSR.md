@@ -1,6 +1,6 @@
 ---
 title: Argument_Sarbiewska_2019_JSR
-summary: ''
+summary: 新西兰与澳大利亚的证据本位改革借助 Visible Learning 扩张政策影响，但其理论基础与适用边界并不稳固。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -36,6 +36,7 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

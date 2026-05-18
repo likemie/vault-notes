@@ -1,6 +1,6 @@
 ---
 title: Argument_Eacott_2011_JEAH
-summary: ''
+summary: 管理主义时代的校长培养把教育领导者塑造成国家改革的执行者，压缩了教育争辩与公共判断空间。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -37,6 +37,7 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
+
 
 # Argument_Eacott_2011_JEAH
 

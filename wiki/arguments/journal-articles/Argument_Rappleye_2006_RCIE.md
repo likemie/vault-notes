@@ -1,6 +1,6 @@
 ---
 title: Argument_Rappleye_2006_RCIE
-summary: ''
+summary: 教育转移研究需要从简单输入输出模型转向关注跨国吸引、行动者能动性与语境关系的概念地图。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -36,6 +36,7 @@ status: draft
 created: '2026-05-06'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

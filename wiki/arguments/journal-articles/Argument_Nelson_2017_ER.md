@@ -1,6 +1,6 @@
 ---
 title: Argument_Nelson_2017_ER
-summary: ''
+summary: 证据知情实践的关键不在照搬研究结果，而在让证据在组织条件、专业判断与协作关系中真正生长。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -34,6 +34,7 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

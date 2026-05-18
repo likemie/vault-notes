@@ -1,6 +1,6 @@
 ---
 title: Argument_Snook_2009
-summary: ''
+summary: Visible Learning 的方法、推理与政策外推都存在严重问题，不能据此直接给出教育改革处方。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -39,6 +39,7 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

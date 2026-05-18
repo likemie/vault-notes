@@ -1,6 +1,6 @@
 ---
 title: Argument_Kraft_2023_ER
-summary: ''
+summary: 教育干预常常失败这一事实比任何平均效应量基准都更重要，因为学校改革发生在高度复杂且受约束的系统中。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -29,6 +29,7 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

@@ -1,6 +1,6 @@
 ---
 title: Argument_Laursen_2015_Paideia
-summary: ''
+summary: 国际有效教学结论只有与丹麦文化和本土证据对照后，才可能判断其在丹麦是否成立。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -34,6 +34,7 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

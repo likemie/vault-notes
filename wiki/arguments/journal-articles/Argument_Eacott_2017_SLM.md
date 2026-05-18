@@ -1,6 +1,6 @@
 ---
 title: Argument_Eacott_2017_SLM
-summary: ''
+summary: Hattie 式可见学习把学校领导纳入新泰勒主义的绩效治理，催生对“教育大师”的去政治化崇拜。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -33,6 +33,7 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

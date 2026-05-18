@@ -1,6 +1,6 @@
 ---
 title: Argument_Eacott_2015_EPT
-summary: ''
+summary: 教育行政研究的知识凝视本身需要被问题化，学者应反思自身如何在研究中生产对象与正当性。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -31,6 +31,7 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

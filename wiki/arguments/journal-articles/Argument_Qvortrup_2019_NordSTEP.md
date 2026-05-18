@@ -1,6 +1,6 @@
 ---
 title: Argument_Qvortrup_2019_NordSTEP
-summary: ''
+summary: Visible Learning 的真正缺失环节不是更多数据，而是把学习理论与教学实践连接起来的中介机制。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -37,6 +37,7 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

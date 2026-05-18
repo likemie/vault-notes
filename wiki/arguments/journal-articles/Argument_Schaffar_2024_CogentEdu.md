@@ -1,6 +1,6 @@
 ---
 title: Argument_Schaffar_2024_CogentEdu
-summary: ''
+summary: 芬兰现象式学习根植于更长的历史与哲学传统，其开放整体性与当代测量问责逻辑存在内在冲突。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -35,6 +35,7 @@ status: draft
 created: '2026-05-06'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

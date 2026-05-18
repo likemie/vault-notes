@@ -1,6 +1,6 @@
 ---
 title: Argument_Wrigley_2019_ERE
-summary: ''
+summary: 证据本位教学借用了一幅过度简化的“科学”图像，把开放而复杂的教育实践误装进封闭实验逻辑。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -39,6 +39,7 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

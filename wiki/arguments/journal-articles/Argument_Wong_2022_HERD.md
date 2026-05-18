@@ -1,6 +1,6 @@
 ---
 title: Argument_Wong_2022_HERD
-summary: ''
+summary: 英国大学的毕业生特质呈现高度多样化图景，更像各校文化塑造的“理想毕业生”而非统一标准。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -25,6 +25,7 @@ status: draft
 created: '2026-05-06'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 UK 大学向学生宣传的毕业生特质（graduate attributes）的整体图景是什么？UK 毕业生可以被期望具备哪些品质？

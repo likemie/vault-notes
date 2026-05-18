@@ -1,6 +1,6 @@
 ---
 title: Argument_McKnight_2020_Discourse
-summary: ''
+summary: Visible Learning 的霸权遮蔽了教育中的视觉政治、监控逻辑与结构性暴力，因此不应被当作中性改进工具。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,6 +32,7 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

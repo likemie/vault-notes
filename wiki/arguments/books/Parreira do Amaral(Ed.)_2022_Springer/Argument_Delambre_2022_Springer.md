@@ -1,6 +1,6 @@
 ---
 title: Argument_Delambre_2022_Springer
-summary: ''
+summary: 知识地缘政治不能停留于揭露认识论霸权，而要通过“意义的创造性张力”和整体方法把批判转化为教育实践。
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -35,6 +35,7 @@ status: draft
 created: '2026-05-11'
 updated: '2026-05-18'
 ---
+
 
 # Argument_Delambre_2022_Springer
 

@@ -1,6 +1,6 @@
 ---
 title: Argument_Nielsen_2021_NordPsych
-summary: ''
+summary: Hattie 并非只是统计学家，Visible Learning 内含一套薄弱却强势的教育理论，而其盲点正在于未自觉面对自身理论性。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -40,6 +40,7 @@ status: draft
 created: '2026-05-04'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

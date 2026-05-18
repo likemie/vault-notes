@@ -1,6 +1,6 @@
 ---
 title: Argument_Allerup_2015_Paideia
-summary: ''
+summary: 效应量只有在统计前提与不确定性被充分处理时才可比较，因此不足以支撑 Hattie 式的教学干预排序。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -36,6 +36,7 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

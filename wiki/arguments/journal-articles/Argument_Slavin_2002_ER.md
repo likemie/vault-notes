@@ -1,6 +1,6 @@
 ---
 title: Argument_Slavin_2002_ER
-summary: ''
+summary: 教育改进应像医学和农业一样依赖严格评估的可复制项目，并通过随机化或高质量匹配研究累积可用知识。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -35,6 +35,7 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

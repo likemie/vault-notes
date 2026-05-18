@@ -1,6 +1,6 @@
 ---
 title: Argument_Downey_2016_SoE
-summary: ''
+summary: 学校既不是天然复制不平等，也不是天然抵消不平等，而是通过不同机制折射并重组社会差距。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,6 +32,7 @@ status: draft
 created: '2026-05-04'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

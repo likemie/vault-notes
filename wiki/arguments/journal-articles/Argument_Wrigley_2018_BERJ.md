@@ -1,6 +1,6 @@
 ---
 title: Argument_Wrigley_2018_BERJ
-summary: ''
+summary: 当“证据”被压缩为 RCT、元分析和平均效应量时，教育研究会在技术、哲学与意识形态三个层级同时失真。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -36,6 +36,7 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

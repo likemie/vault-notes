@@ -1,6 +1,6 @@
 ---
 title: Argument_Hartmann_2022_CorporateEducation
-summary: ''
+summary: 企业教育的跨国统一不主要取决于公司权力，而取决于培训能否在不同制度环境中获得合法性与权威。
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -35,6 +35,7 @@ status: draft
 created: '2026-05-18'
 updated: '2026-05-18'
 ---
+
 
 # Argument_Hartmann_2022_CorporateEducation
 

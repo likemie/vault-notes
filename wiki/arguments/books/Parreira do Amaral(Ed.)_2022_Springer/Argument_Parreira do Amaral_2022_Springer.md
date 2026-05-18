@@ -1,6 +1,6 @@
 ---
 title: Argument_Parreira do Amaral_2022_Springer
-summary: ''
+summary: 高等教育正被重构为知识经济中的战略基础设施，这一转变构成了新的知识地缘政治。
 type: argument
 subtype: edited-volume
 publication_type: book
@@ -39,6 +39,7 @@ status: draft
 created: '2026-05-07'
 updated: '2026-05-18'
 ---
+
 
 ## 编者论点
 

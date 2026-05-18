@@ -1,6 +1,6 @@
 ---
 title: Argument_Hattie_2010_NZJES
-summary: ''
+summary: 教育学者既应批评政策，也应参与政策形成；公共介入不是背离学术，而是学术责任的一部分。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -38,6 +38,7 @@ status: draft
 created: '2026-05-06'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

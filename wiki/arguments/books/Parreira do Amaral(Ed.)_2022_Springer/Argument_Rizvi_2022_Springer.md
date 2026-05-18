@@ -1,6 +1,6 @@
 ---
 title: Argument_Rizvi_2022_Springer
-summary: ''
+summary: 亚洲崛起不仅改变了高等教育国际化政策，也重塑了知识生产、流动与竞争的全球空间格局。
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -44,6 +44,7 @@ status: draft
 created: '2026-05-10'
 updated: '2026-05-18'
 ---
+
 
 # Argument_Rizvi_2022_Springer
 

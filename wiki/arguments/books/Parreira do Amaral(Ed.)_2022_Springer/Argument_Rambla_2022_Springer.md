@@ -1,6 +1,6 @@
 ---
 title: Argument_Rambla_2022_Springer
-summary: ''
+summary: 欧盟创新与技能政策通过绩效指标选择性放大可量化目标，从而塑造特定的区域教育与创新想象。
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -38,6 +38,7 @@ status: draft
 created: '2026-05-13'
 updated: '2026-05-18'
 ---
+
 
 # Argument_Rambla_2022_Springer
 

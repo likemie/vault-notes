@@ -1,6 +1,6 @@
 ---
 title: Argument_Blass_2020_JESP
-summary: ''
+summary: 学术研究能否转化为政策不只看方法是否严谨，还取决于情境、假设、领导力与时效性的共同作用。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -30,6 +30,7 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

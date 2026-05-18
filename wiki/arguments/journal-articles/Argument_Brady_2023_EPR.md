@@ -1,6 +1,6 @@
 ---
 title: Argument_Brady_2023_EPR
-summary: ''
+summary: 教育心理学越来越倾向于在非干预研究中挤出因果与实践建议，这削弱了其科学性与政策可信度。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -34,6 +34,7 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

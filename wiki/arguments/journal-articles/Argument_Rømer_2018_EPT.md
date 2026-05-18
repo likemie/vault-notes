@@ -1,6 +1,6 @@
 ---
 title: Argument_Rømer_2018
-summary: ''
+summary: Visible Learning 背后隐含的教育理论在哲学上过于狭窄，无法支撑其全球政策影响力。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -39,6 +39,7 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

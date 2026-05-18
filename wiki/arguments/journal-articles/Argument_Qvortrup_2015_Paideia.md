@@ -1,6 +1,6 @@
 ---
 title: Argument_Qvortrup_2015_Paideia
-summary: ''
+summary: Visible Learning 的影响力建立在其对学习与知识概念的特定设定上，而这些设定本身需要被单独审视。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -38,6 +38,7 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

@@ -1,6 +1,6 @@
 ---
 title: Argument_Slavin_2019_EP
-summary: ''
+summary: 证据本位改革只有在持续发现有效项目、支持规模化实施并建立累积改进体系时，才会真正改变教育研究与实践。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -31,6 +31,7 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

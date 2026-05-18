@@ -1,6 +1,6 @@
 ---
 title: Argument_Eacott_2019_IJLE
-summary: ''
+summary: 领导力研究若缺乏真正交锋与异议容纳，只会把学术讨论降格为互不相干的正统独白。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -31,6 +31,7 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

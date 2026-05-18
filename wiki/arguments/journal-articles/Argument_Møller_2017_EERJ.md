@@ -1,6 +1,6 @@
 ---
 title: Argument_Møller_2017
-summary: ''
+summary: 超越“what works”需要把教育领导从技术执行转向价值判断、专业责任与民主公共性的实践。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -35,6 +35,7 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

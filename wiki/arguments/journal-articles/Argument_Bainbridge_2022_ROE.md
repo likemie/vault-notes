@@ -1,6 +1,6 @@
 ---
 title: Argument_Bainbridge_2022_ROE
-summary: ''
+summary: 研究证据进入议会并不会自动主导政策，选择性教育改革更受党派目标、制度程序与行动者策略共同塑形。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -41,6 +41,7 @@ status: draft
 created: '2026-05-07'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

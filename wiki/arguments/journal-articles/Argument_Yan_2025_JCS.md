@@ -1,6 +1,6 @@
 ---
 title: Argument_Yan_2025_JCS
-summary: ''
+summary: 香港通识教育科的诞生与废除都应被理解为课程作为政治建构在不同权力条件下的重组结果。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -35,6 +35,7 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

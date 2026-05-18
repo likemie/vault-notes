@@ -1,6 +1,6 @@
 ---
 title: Argument_Golovchin_2019_ESC
-summary: ''
+summary: Hattie 的元元分析可为俄罗斯教师培养提供启发，但其方法前提与本土适用性都需要谨慎处理。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -31,6 +31,7 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

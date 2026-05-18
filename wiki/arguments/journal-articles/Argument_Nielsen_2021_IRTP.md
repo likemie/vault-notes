@@ -1,6 +1,6 @@
 ---
 title: Argument_Nielsen_2021
-summary: ''
+summary: Visible Learning 以技术理性把教育者与学生转化为可测量生命，压缩了实践判断与主体形成。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -33,6 +33,7 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

@@ -1,6 +1,6 @@
 ---
 title: Argument_Cowen_2019_ERE
-summary: ''
+summary: 证据本位教育之所以持续占优，不仅因其科学宣称，更因其契合决策者对可计算、可管控政策工具的政治需求。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -34,6 +34,7 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

@@ -1,6 +1,6 @@
 ---
 title: Argument_Ryan_2010_ChineseLearner
-summary: ''
+summary: “中国学习者”刻板印象同时误读文化差异与个体经验，跨文化教学更应转向去本质化理解与相互调适。
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -33,6 +33,7 @@ status: draft
 created: '2026-05-17'
 updated: '2026-05-18'
 ---
+
 
 # Argument_Ryan_2010_ChineseLearner
 

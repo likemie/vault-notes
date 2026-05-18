@@ -1,6 +1,6 @@
 ---
 title: Argument_Simpson_2017_JEP
-summary: ''
+summary: 把标准化效应量比较、合并并用于公共决策，是把研究设计工具误当作教育政策判断工具。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -33,6 +33,7 @@ status: draft
 created: '2026-05-04'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

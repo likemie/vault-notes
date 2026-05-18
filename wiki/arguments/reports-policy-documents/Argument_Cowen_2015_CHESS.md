@@ -1,6 +1,6 @@
 ---
 title: Argument_Cowen_2015_CHESS
-summary: ''
+summary: What Works 证据只有与教师的本地知识、情境判断和适应性实施结合，才能真正支持课堂政策决策。
 type: argument
 subtype: report
 publication_type: report
@@ -34,6 +34,7 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

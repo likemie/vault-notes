@@ -1,6 +1,6 @@
 ---
 title: Argument_Snook_2010_NZJES
-summary: ''
+summary: Hattie 对批评的回应没有解决 Visible Learning 在方法论与政策解释上的核心缺陷。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -35,6 +35,7 @@ status: draft
 created: '2026-05-06'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

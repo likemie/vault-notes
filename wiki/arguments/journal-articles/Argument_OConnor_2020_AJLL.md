@@ -1,6 +1,6 @@
 ---
 title: Argument_OConnor_2020_AJLL
-summary: ''
+summary: Whole language 争论表明，把异质且低质的研究输入汇入元分析，只会放大“garbage in, garbage out”问题。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -36,6 +36,7 @@ status: draft
 created: '2026-05-03'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

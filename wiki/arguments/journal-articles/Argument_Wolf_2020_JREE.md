@@ -1,6 +1,6 @@
 ---
 title: Argument_Wolf_2020_JREE
-summary: ''
+summary: 开发者委托或实施的项目评估往往产生更大效应量，显示教育研究存在显著的开发者效应与偏倚风险。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -34,6 +34,7 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

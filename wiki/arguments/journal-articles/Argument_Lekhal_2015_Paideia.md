@@ -1,6 +1,6 @@
 ---
 title: Argument_Lekhal_2015_Paideia
-summary: ''
+summary: 男女生学业差异更多经由在校态度、行为与关系性条件中介生成，而非由性别直接决定。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -37,6 +37,7 @@ status: draft
 created: '2026-05-06'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

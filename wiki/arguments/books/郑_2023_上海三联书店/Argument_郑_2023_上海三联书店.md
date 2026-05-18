@@ -1,6 +1,6 @@
 ---
 title: Argument_郑_2023_上海三联书店
-summary: ''
+summary: 家庭资本经由大学阶段的投入方式与价值选择转化为毕业出路分化，是高等教育内部持续生产社会分层的关键机制。
 type: argument
 subtype: monograph
 publication_type: book
@@ -70,6 +70,7 @@ status: draft
 created: '2026-05-08'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

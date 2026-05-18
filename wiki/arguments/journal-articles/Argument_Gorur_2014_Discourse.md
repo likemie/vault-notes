@@ -1,6 +1,6 @@
 ---
 title: Argument_Gorur_2014_Discourse
-summary: ''
+summary: OECD《Education at a Glance》通过可计算指标生产出可治理的教育世界，同时牺牲了复杂性与科学严谨性。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -33,6 +33,7 @@ status: draft
 created: '2026-05-01'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

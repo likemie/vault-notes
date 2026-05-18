@@ -1,6 +1,6 @@
 ---
 title: Argument_Wadhwa_2024_RER
-summary: ''
+summary: 不同 clearinghouse 对“evidence-based”的判准和评级结果差异显著，说明其有效性判断并不稳定一致。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -31,6 +31,7 @@ status: draft
 created: '2026-05-05'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

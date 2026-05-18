@@ -1,6 +1,6 @@
 ---
 title: Argument_Boyadjieva_2022_Springer
-summary: ''
+summary: 全球大学排名把大学压缩为可比较的组织绩效，由此与大学作为制度所承担的多重社会使命发生结构性冲突。
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -36,6 +36,7 @@ status: draft
 created: '2026-05-11'
 updated: '2026-05-18'
 ---
+
 
 # Argument_Boyadjieva_2022_Springer
 

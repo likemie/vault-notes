@@ -1,6 +1,6 @@
 ---
 title: Argument_Marginson_2025_ROE
-summary: ''
+summary: 高等教育全球化必须从空间、权力与尺度关系来理解，而不能被简化为无地理差异的流动过程。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -42,6 +42,7 @@ status: draft
 created: '2026-05-12'
 updated: '2026-05-18'
 ---
+
 
 # Argument_Marginson_2025_ROE
 

@@ -1,6 +1,6 @@
 ---
 title: Argument_Slethaug_2010_InternationalEducation
-summary: ''
+summary: 国际教育的全球扩张使中国学习者成为核心行动者，也使教学问题从方法选择转向文化、认同与制度重构。
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -35,6 +35,7 @@ status: draft
 created: '2026-05-17'
 updated: '2026-05-18'
 ---
+
 
 # Argument_Slethaug_2010_InternationalEducation
 

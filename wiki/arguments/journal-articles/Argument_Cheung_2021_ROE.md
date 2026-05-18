@@ -1,6 +1,6 @@
 ---
 title: Argument_Cheung_2021_ROE
-summary: ''
+summary: 证据本位改革应从发现有效项目、传播证据、支持实施与累积知识四个环节系统推进。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,6 +32,7 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

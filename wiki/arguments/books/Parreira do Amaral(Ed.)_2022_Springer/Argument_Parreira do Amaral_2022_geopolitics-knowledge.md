@@ -1,6 +1,6 @@
 ---
 title: Argument_Parreira do Amaral_2022_geopolitics-knowledge
-summary: ''
+summary: 地缘政治视角揭示高等教育已被纳入国家、区域与企业争夺全球知识经济位置的战略计算。
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -39,6 +39,7 @@ status: draft
 created: '2026-05-07'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

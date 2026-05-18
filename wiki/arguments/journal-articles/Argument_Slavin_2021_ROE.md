@@ -1,6 +1,6 @@
 ---
 title: Argument_Slavin_2021_ROE
-summary: ''
+summary: 证据本位改革可通过系统发现、传播、实施和累积有效项目，把教育改进转化为持续创新与评估过程。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -32,6 +32,7 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 

@@ -1,6 +1,6 @@
 ---
 title: Argument_Pampaka_2016_IJRME
-summary: ''
+summary: “what works”议程并未终结方法论争议，反而推动教育研究走向更反思的多方法整合与批判发展。
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -30,6 +30,7 @@ status: draft
 created: '2026-05-02'
 updated: '2026-05-18'
 ---
+
 
 ## 研究问题
 
