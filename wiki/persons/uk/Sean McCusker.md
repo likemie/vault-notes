@@ -1,7 +1,6 @@
 ---
 title: Sean McCusker
-aliases:
-- McCusker
+aliases: []
 summary: 诺桑比亚大学社会科学系，与 Wrigley 合作发表证据本位教学科学观的批判性研究
 type: person
 nationality: uk

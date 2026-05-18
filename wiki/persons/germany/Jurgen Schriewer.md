@@ -1,7 +1,6 @@
 ---
 title: Jurgen Schriewer
-aliases:
-- Schriewer
+aliases: []
 summary: 德国比较教育学者，将 Luhmann 系统理论引入比较教育，提出"外化"概念和话语形成理论
 type: person
 nationality: germany

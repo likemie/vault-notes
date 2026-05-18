@@ -1,7 +1,6 @@
 ---
 title: Ray Pawson
-aliases:
-- Pawson
+aliases: []
 summary: 利兹大学社会研究方法论教授，实在论评估和实在论综合提出者，对 RCT 和元分析在教育中的应用提供系统批判
 type: person
 nationality: uk

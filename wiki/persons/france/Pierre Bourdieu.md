@@ -2,9 +2,6 @@
 title: Pierre Bourdieu
 aliases:
 - 布迪厄
-- 布尔迪厄
-- 皮埃尔·布迪厄
-- Pierre Bourdieu
 - Bourdieu
 summary: 法国社会学家，场域-习性-资本-doxa 社会理论框架创始人，对教育作为社会再生产机制的分析深刻影响教育领导力批判研究
 type: person

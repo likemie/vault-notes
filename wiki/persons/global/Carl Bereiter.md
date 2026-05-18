@@ -1,7 +1,6 @@
 ---
 title: Carl Bereiter
-aliases:
-- Bereiter
+aliases: []
 summary: 加拿大教育理论家，知识建构理论创始人，将 Popper 三个世界理论引入教育研究，在 Popper 与 Hattie 之间扮演关键中介角色
 type: person
 nationality: global

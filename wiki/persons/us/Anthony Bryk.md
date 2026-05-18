@@ -1,7 +1,6 @@
 ---
 title: Anthony Bryk
-aliases:
-- Bryk
+aliases: []
 summary: Carnegie Foundation 高级研究员，将改进科学引入美国教育，网络化改进社区模型的主要开发者
 type: person
 nationality: us

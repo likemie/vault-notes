@@ -1,7 +1,6 @@
 ---
 title: Amelia Peterson
-aliases:
-- Peterson
+aliases: []
 summary: 哈佛大学教育研究生院，提出"什么有效 2.0"整合框架，以机制实验和网络化改进为双重支柱整合实验科学与改进科学
 type: person
 nationality: us

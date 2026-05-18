@@ -1,7 +1,6 @@
 ---
 title: Bob Jessop
-aliases:
-- Jessop
+aliases: []
 summary: 兰卡斯特大学社会学家，文化政治经济学（CPE）创始人，将 KBE 定位为"霸权的元治理对象"，其"想象"概念被 Moisio (2022) 借用于分析 Hub and Flow 想象的构成性和履行性角色
 type: person
 nationality: uk

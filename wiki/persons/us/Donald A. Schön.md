@@ -1,8 +1,6 @@
 ---
 title: Donald A. Schön
-aliases:
-- Donald A. Schon
-- Schön
+aliases: []
 summary: MIT 教授，反思性实践（reflection-in/on-practice）和技术理性批判的提出者，Qvortrup 纳入专业判断框架
 type: person
 nationality: us

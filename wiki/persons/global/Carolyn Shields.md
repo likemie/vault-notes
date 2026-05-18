@@ -1,7 +1,6 @@
 ---
 title: Carolyn Shields
-aliases:
-- Shields
+aliases: []
 summary: 加拿大教育研究者，提出以权力为调查起点的变革型领导力框架，被 Møller 采纳为超越"什么有效"议程的关键替代视角
 type: person
 nationality: global

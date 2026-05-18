@@ -1,7 +1,6 @@
 ---
 title: Robert Slavin
-aliases:
-- Slavin
+aliases: []
 summary: 约翰霍普金斯大学教育心理学家，证据本位教育改革运动奠基人，Success for All 和 Evidence for ESSA 创始人
 type: person
 nationality: us

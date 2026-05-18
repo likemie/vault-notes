@@ -1,7 +1,6 @@
 ---
 title: Dylan Wiliam
-aliases:
-- Wiliam
+aliases: []
 summary: UCL 教育研究院教授，教育评估和形成性评价研究者，以 Goldman 区分理论论证教育知识局部且临时，提出 EBE 批判的四个决策问题框架
 type: person
 nationality: uk

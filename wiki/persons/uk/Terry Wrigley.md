@@ -1,7 +1,6 @@
 ---
 title: Terry Wrigley
-aliases:
-- Wrigley
+aliases: []
 summary: 诺桑比亚大学教育研究者，以批判实在论对 EBE 方法论进行三层技术解构（RCT→元分析→元-元分析），与 McCusker (2019) 合作批判 EBT"简单科学观
 type: person
 nationality: uk

@@ -1,7 +1,6 @@
 ---
 title: Ann Swidler
-aliases:
-- Swidler
+aliases: []
 summary: 美国文化社会学家，文化工具箱理论（1986）创始人，区分稳定/不稳定生活状态中文化与行动的不同关系，郑雅君 (2023) 的核心理论支柱之一
 type: person
 nationality: us

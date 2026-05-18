@@ -1,7 +1,6 @@
 ---
 title: Helen Gunter
-aliases:
-- Gunter
+aliases: []
 summary: 英国教育研究者，以教育领导力的批判性政策分析和知识政治研究著称，LE@DS 研究网络成员
 type: person
 nationality: uk

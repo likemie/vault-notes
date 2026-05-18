@@ -1,7 +1,6 @@
 ---
 title: Gary Thomas
-aliases:
-- Thomas
+aliases: []
 summary: 伯明翰大学教育教授，提出"民间科学观"概念和"最佳解释推理"框架，系统批判 RCT 作为教育研究黄金标准
 type: person
 nationality: uk

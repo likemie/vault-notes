@@ -1,7 +1,6 @@
 ---
 title: Ken Goodman
-aliases:
-- Goodman
+aliases: []
 summary: '美国教育研究者，全语言运动创始人，1967 年 Reading: A Psycholinguistic Guessing Game 奠定全语言理论基础'
 type: person
 nationality: us

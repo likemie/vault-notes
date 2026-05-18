@@ -1,7 +1,6 @@
 ---
 title: Roy Bhaskar
-aliases:
-- Bhaskar
+aliases: []
 summary: 英国哲学家，批判实在论创始人，区分三层本体论和开放/封闭系统，为 Wrigley 的 EBE 方法论批判提供哲学基础
 type: person
 nationality: uk

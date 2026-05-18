@@ -1,8 +1,7 @@
 ---
 title: Klaus Nielsen
-aliases:
-- Nielsen
-summary: Klaus Nielsen 是丹麦奥胡斯大学（Aarhus University）心理学系教授，研究兴趣为社会实践中学习、理论心理学和质性方法。
+aliases: []
+summary: 丹麦理论心理学家，以 Habermas 合法化危机和 Schön 技术理性框架批判 Visible Learning 的全球流行及其理论内核
 type: person
 nationality: global
 tags:

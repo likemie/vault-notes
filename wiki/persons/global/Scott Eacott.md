@@ -1,7 +1,6 @@
 ---
 title: Scott Eacott
-aliases:
-- Eacott
+aliases: []
 summary: UNSW Sydney 教育行政学者，将 Bourdieu 社会理论和认识论引入教育领导力研究，提出 Cult of the Guru、Parallel Monologues、Neo-Taylorism 批评和关系取向组织理论
 type: person
 nationality: global

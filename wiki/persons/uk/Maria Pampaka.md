@@ -1,7 +1,6 @@
 ---
 title: Maria Pampaka
-aliases:
-- Pampaka
+aliases: []
 summary: 曼彻斯特大学教育研究者，IJRME "什么有效"特刊编辑，识别 agency 分配为核心哲学分歧，关注学习者能动性和替代性学习结果测量
 type: person
 nationality: uk

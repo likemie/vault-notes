@@ -1,7 +1,6 @@
 ---
 title: Thomas Barr Greenfield
-aliases:
-- Greenfield
+aliases: []
 summary: 加拿大教育行政学者，1974 年以主观主义/现象学挑战理论运动的逻辑经验主义，呼吁"人性科学
 type: person
 nationality: global

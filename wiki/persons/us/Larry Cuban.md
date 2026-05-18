@@ -1,7 +1,6 @@
 ---
 title: Larry Cuban
-aliases:
-- Cuban
+aliases: []
 summary: 斯坦福教育史学家，提出课程变革的三因素理论：进步教育运动、冷战/国防、立法法律决定
 type: person
 nationality: us

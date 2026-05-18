@@ -1,10 +1,8 @@
 ---
 title: Max Weber
 aliases:
-- 马克斯·韦伯
-- Weber
 - 韦伯
-- Maximilian Carl Emil Weber
+- Weber
 summary: 德国社会学家，诠释社会学和行动理论创始人，工具理性与价值理性的经典区分，郑雅君 (2023) 以之作为全书认识论锚点和文化社会学讨论起点
 type: person
 nationality: germany

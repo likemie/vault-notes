@@ -1,7 +1,6 @@
 ---
 title: Ernst von Glasersfeld
-aliases:
-- Glasersfeld
+aliases: []
 summary: 德裔美籍哲学家和认知心理学家，激进建构主义创始人，其唯我论学习观被 Hattie 的 VL 全盘接受为理论基础
 type: person
 nationality: global

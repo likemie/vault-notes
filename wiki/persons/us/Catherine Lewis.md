@@ -1,7 +1,6 @@
 ---
 title: Catherine Lewis
-aliases:
-- Lewis
+aliases: []
 summary: 美国教育研究者，以向教育研究界系统介绍改进科学方法论著称（*Educational Researcher*, 2015）
 type: person
 nationality: us
