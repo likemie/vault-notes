@@ -107,6 +107,8 @@ updated: 2026-05-10
 - **卡里斯马型支配**：基于对某人人格神圣性、英雄力量或典范性的情感献身
 - **法制型支配**：基于对成文法规合法性的信仰，其行政机构为官僚制
 
+韦伯对权力（Macht）与权威（Herrschaft）的区分——前者是"让你不得不听"，后者是"你心甘情愿听"——为[[Institutional Isomorphism|制度同构]]理论提供了合法性分析的基础。Hartmann (2022) 将这一区分应用于[[Corporate Education|企业教育]]的分析：公司管理层可以命令员工参加培训（权力），但这不等同于培训被视为高质量（权威）。企业教育需借助外部权威来源——模仿高等教育、专业认证、同行评审、外包给营利性提供商——才能获得合法性（Hartmann, 2022, pp.182–183）。详见 [[Argument_Hartmann_2022_CorporateEducation]] 理论框架部分
+
 ### 信念伦理与责任伦理
 
 在《以政治为业》中，韦伯区分了两种伦理取向（Weber, 1919, *Politik als Beruf*）：信念伦理（Gesinnungsethik）只关注行动动机是否纯正，不计后果；责任伦理（Verantwortungsethik）要求行动者对可预见的行为后果负责。
@@ -164,6 +166,7 @@ updated: 2026-05-10
 - **影响了 [[Pierre Bourdieu]]** 的实践理论——Bourdieu 在建构习性概念时承袭并超越了韦伯对行动意义的关注
 - **影响了 [[Ann Swidler]]** 的 [[Culture as Toolkit|文化工具箱]] 理论——Swidler 与 Weber-Parsons 传统构成文化社会学的两大对立范式
 - **影响了 [[Yajun Zheng|郑雅君]]（2023）**：以韦伯诠释社会学作为全书认识论锚点，以工具/价值理性区分作为文化社会学讨论的起点；在分析大学生择业中的[[Work Meaning Schemas (Zheng)|工作意义图式]]时援引韦伯的"扳道工"（switchman）假说——"直接支配人的行为的，不是理念，而是物质的和精神的兴趣。可是，由'理念'所创造出来的'世界形象'，往往像铁路上的扳道夫一样，决定了行动的轨道被兴趣推动的动力循着什么方向在行动"（郑雅君，2023，引 Weber, 2006）；在[[Graduation Pathway Typology (Zheng)|毕业出路产生机制的四分类模型]]中，以韦伯的价值理性概念作为横轴的理论基础
+- **影响了 [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 的企业教育分析**：Hartmann 以韦伯的权力-权威区分为起点，结合 [[Institutional Isomorphism|DiMaggio & Powell 的制度同构理论]]，分析[[Corporate Education|企业教育]]如何在强制型、模仿型和规范型同构三种机制中获取合法性（Hartmann, 2022, pp.182–184）
 
 ---
 

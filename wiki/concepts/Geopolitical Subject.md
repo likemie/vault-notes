@@ -103,6 +103,7 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 - **创意创业者作为理想类型**：在知识经济化过程中，"创意创业者"（creative entrepreneur）被建构为理想的经济主体——"这一形象可以采取多种形式"——出现在集群、创意城市、创业城市、智慧城市、学习区域、创新中心等空间话语中（Moisio, 2022, p.27）
 - **大学的空间改造**：图书馆从智识闲暇的场所（Muße）转变为 makerspace 和创新创业中心，是大学作为地缘政治主体生产场所的物质证据（Thompson & Parreira do Amaral, 2022, pp.4–6）
 - **空间分选的主体维度**：[[Spatial Sortings]] 不仅分选地点，也分选人群——能够被塑造为地缘政治主体的个体（"跨国认知精英"）成为赢家，无法或不愿接受这种塑造的人成为输家。Davidson & Rees-Mogg（1999）关于信息时代赢家与输家分化的预测，正是对地缘政治主体生产的不均衡后果的预见（Moisio, 2022, pp.31–32）
+- **企业教育作为主体生产的新场所**：Hartmann (2022) 将 Moisio 的地缘政治主体概念延伸至[[Corporate Education|企业教育]]领域。借鉴 James Scott（1998）"Seeing Like a State"的分析逻辑，Hartmann 提出企业教育的深层功能是让员工学会**"像公司一样看世界"（seeing like a company）**——这是一种特定的空间心态：员工将全球市场视为理所当然的行动空间，将 MNC 的利益内化为自身的认知框架（Hartmann, 2022, p.180）。与大学通过交换项目、全球校友网络和"全球公民"话语塑造地缘政治主体类似（Moisio, 2022, pp.29–30），MNCs 通过统一的管理培训、全球高潜力人才项目和标准化操作流程，也在制造适应全球知识经济竞争的主体类型。详见 [[Argument_Hartmann_2022_CorporateEducation]] 第一步
 
 ---
 
