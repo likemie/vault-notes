@@ -1,16 +1,44 @@
 ---
 title: Argument_Nielsen_2021_NordPsych
+summary: ''
 type: argument
-citation: "Nielsen, K., & Klitmøller, J. (2021). Blind spots in visible learning: A critique of John Hattie as an educational theorist. Nordic Psychology."
-tags: [Visible Learning, John Hattie, technical-rationality, feedback, effect-size, methodology-critique, level/k12]
-related_concepts: ["[[Visible Learning]]", "[[Feedback]]", "[[Effect Size]]", "[[Class Size]]", "[[Evidence-Based Education]]"]
-related_theories: ["[[Technical Rationality]]"]
-related_persons: ["[[John Hattie]]", "[[Klaus Nielsen]]", "[[Donald A. Schön]]", "[[Thomas Aastrup Rømer]]", "[[Scott Eacott]]", "[[Terry Wrigley]]"]
-related_methods: ["[[Meta-analysis]]"]
-sources: ["sources/Nielsen_2021_NordPsych.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Nordic Psychology
+citation: 'Nielsen, K., & Klitmøller, J. (2021). Blind spots in visible learning: A critique of John Hattie as an educational theorist. Nordic Psychology.'
+tags:
+- Visible Learning
+- John Hattie
+- technical-rationality
+- feedback
+- effect-size
+- methodology-critique
+- level/k12
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Feedback]]'
+- '[[Effect Size]]'
+- '[[Class Size]]'
+- '[[Evidence-Based Education]]'
+related_theories:
+- '[[Technical Rationality]]'
+related_methods:
+- '[[Meta-analysis]]'
+related_persons:
+- '[[John Hattie]]'
+- '[[Klaus Nielsen]]'
+- '[[Donald A. Schön]]'
+- '[[Thomas Aastrup Rømer]]'
+- '[[Scott Eacott]]'
+- '[[Terry Wrigley]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Nielsen_2021_NordPsych]]'
+part_of: ''
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

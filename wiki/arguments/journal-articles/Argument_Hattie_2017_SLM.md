@@ -1,15 +1,36 @@
 ---
 title: Argument_Hattie_2017_SLM
+summary: ''
 type: argument
-citation: "Hattie, J. (2017). Educators are not uncritical believers of a cult figure. School Leadership & Management, 37(4), 427–430."
-tags: [Visible Learning, Cult of the Guru, Neo-Taylorism, school-leadership, paradigm/positivist, region/australia]
-related_concepts: ["[[Visible Learning]]", "[[Cult of the Guru]]", "[[Neo-Taylorism in Educational Administration]]", "[[Critic and Conscience of Society]]"]
-related_persons: ["[[John Hattie]]", "[[Scott Eacott]]"]
-sources: ["sources/Hattie_2017_SLM.md"]
-part_of:
+subtype: journal-article
+publication_type: journal-article
+journal: School Leadership & Management
+citation: Hattie, J. (2017). Educators are not uncritical believers of a cult figure. School Leadership & Management, 37(4), 427–430.
+tags:
+- Visible Learning
+- Cult of the Guru
+- Neo-Taylorism
+- school-leadership
+- paradigm/positivist
+- region/australia
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Cult of the Guru]]'
+- '[[Neo-Taylorism in Educational Administration]]'
+- '[[Critic and Conscience of Society]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Scott Eacott]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Hattie_2017_SLM]]'
+part_of: ''
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

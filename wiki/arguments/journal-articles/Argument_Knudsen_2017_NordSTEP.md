@@ -1,15 +1,34 @@
 ---
 title: Argument_Knudsen_2017_NordSTEP
+summary: ''
 type: argument
-citation: "Knudsen, H. (2017). John Hattie: I'm a statistician, I'm not a theoretician. Nordic Journal of Studies in Educational Policy, 3(3), 253-261."
-tags: [visible-learning, john-hattie, evidence-based-education, implementation, region/denmark, region/new-zealand]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Programme Fidelity vs Adaptation]]"]
-related_persons: ["[[John Hattie]]"]
-sources: ["sources/Knudsen_2017_NordSTEP.md"]
-part_of:
+subtype: journal-article
+publication_type: journal-article
+journal: Nordic Journal of Studies in Educational Policy
+citation: 'Knudsen, H. (2017). John Hattie: I''m a statistician, I''m not a theoretician. Nordic Journal of Studies in Educational Policy, 3(3), 253-261.'
+tags:
+- visible-learning
+- john-hattie
+- evidence-based-education
+- implementation
+- region/denmark
+- region/new-zealand
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Programme Fidelity vs Adaptation]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Knudsen_2017_NordSTEP]]'
+part_of: ''
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

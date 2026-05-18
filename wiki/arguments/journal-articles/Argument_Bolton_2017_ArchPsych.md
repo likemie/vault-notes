@@ -1,16 +1,46 @@
 ---
 title: Argument_Bolton_2017_ArchPsych
+summary: ''
 type: argument
-citation: "Bolton, S., & Hattie, J. (2017). Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex. Archives of Psychology, 1(3)."
-tags: [cognitive-development, executive-function, piaget, prefrontal-cortex, neuroscience, learning-science]
-related_concepts: ["[[executive-function]]", "[[prefrontal-cortex]]", "[[synaptogenesis]]", "[[synaptic-pruning]]", "[[myelination]]"]
-related_theories: ["[[piagets-theory-of-cognitive-development]]", "[[neo-piagetian-theories]]", "[[miyake-unity-diversity-framework]]", "[[hebbian-principles]]"]
-related_persons: ["[[Jean Piaget]]", "[[Juan Pascual-Leone]]", "[[Robbie Case]]", "[[Kurt Fischer]]", "[[Akira Miyake]]"]
-related_methods: ["[[functional-magnetic-resonance-imaging]]", "[[electroencephalography]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Archives of Psychology
+citation: 'Bolton, S., & Hattie, J. (2017). Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex. Archives of Psychology, 1(3).'
+tags:
+- cognitive-development
+- executive-function
+- piaget
+- prefrontal-cortex
+- neuroscience
+- learning-science
+related_concepts:
+- '[[executive-function]]'
+- '[[prefrontal-cortex]]'
+- '[[synaptogenesis]]'
+- '[[synaptic-pruning]]'
+- '[[myelination]]'
+related_theories:
+- '[[piagets-theory-of-cognitive-development]]'
+- '[[neo-piagetian-theories]]'
+- '[[miyake-unity-diversity-framework]]'
+- '[[hebbian-principles]]'
+related_methods:
+- '[[functional-magnetic-resonance-imaging]]'
+- '[[electroencephalography]]'
+related_persons:
+- '[[Jean Piaget]]'
+- '[[Juan Pascual-Leone]]'
+- '[[Robbie Case]]'
+- '[[Kurt Fischer]]'
+- '[[Akira Miyake]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
+part_of: ''
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

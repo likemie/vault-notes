@@ -1,16 +1,43 @@
 ---
 title: Argument_Snook_2009
+summary: ''
 type: argument
-citation: "Snook, I., O'Neill, J., Clark, J., O'Neill, A. M., & Openshaw, R. (2009). Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement. New Zealand Journal of Educational Studies, 44(1), 93–106."
-tags: [Visible Learning, effect-size, meta-analysis, stance/critique, region/new-zealand]
-related_concepts: ["[[Visible Learning]]", "[[Effect Size]]", "[[Class Size]]", "[[Performance Pay]]", "[[Whole Language]]", "[[Publication Bias]]", "[[Argument_Hattie_2010_NZJES]]", "[[Argument_Snook_2010_NZJES]]"]
-related_methods: ["[[Meta-analysis]]", "[[Meta-meta-analysis]]"]
-related_persons: ["[[John Hattie]]"]
-related_facts: ["[[Tennessee STAR Project 1985-1989]]"]
-sources: ["sources/Snook_2009_NZJES.md", "sources/Hattie_2010_NZJES.md", "sources/Snook_2010_NZJES.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: New Zealand Journal of Educational Studies
+citation: 'Snook, I., O''Neill, J., Clark, J., O''Neill, A. M., & Openshaw, R. (2009). Invisible Learnings? A Commentary on John Hattie''s book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement. New Zealand Journal of Educational Studies, 44(1), 93–106.'
+tags:
+- Visible Learning
+- effect-size
+- meta-analysis
+- stance/critique
+- region/new-zealand
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Effect Size]]'
+- '[[Class Size]]'
+- '[[Performance Pay]]'
+- '[[Whole Language]]'
+- '[[Publication Bias]]'
+- '[[Argument_Hattie_2010_NZJES]]'
+- '[[Argument_Snook_2010_NZJES]]'
+related_theories: []
+related_methods:
+- '[[Meta-analysis]]'
+- '[[Meta-meta-analysis]]'
+related_persons:
+- '[[John Hattie]]'
+related_facts:
+- '[[Tennessee STAR Project 1985-1989]]'
+related_arguments: []
+sources:
+- '[[Snook_2009_NZJES]]'
+- '[[Hattie_2010_NZJES]]'
+- '[[Snook_2010_NZJES]]'
+part_of: ''
 status: draft
-created: 2026-05-03
-updated: 2026-05-07
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

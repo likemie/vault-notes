@@ -1,30 +1,36 @@
 ---
 title: Argument_Downey_2016_SoE
+summary: ''
 type: argument
-citation: "Downey, D. B., & Condron, D. J. (2016). Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality. Sociology of Education, 89(3), 207–220."
+subtype: journal-article
+publication_type: journal-article
+journal: Sociology of Education
+citation: 'Downey, D. B., & Condron, D. J. (2016). Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality. Sociology of Education, 89(3), 207–220.'
 tags:
-  - refraction-framework
-  - seasonal-comparison
-  - coleman-report
-  - inequality
-  - stratification
-  - region/us
-  - level/k12
+- refraction-framework
+- seasonal-comparison
+- coleman-report
+- inequality
+- stratification
+- region/us
+- level/k12
 related_concepts: []
 related_theories:
-  - "[[Refraction Framework]]"
+- '[[Refraction Framework]]'
 related_methods:
-  - "[[Seasonal Comparison]]"
+- '[[Seasonal Comparison]]'
+related_persons: []
 related_facts:
-  - "[[Coleman Report 1966]]"
-  - "[[No Child Left Behind Act 2001]]"
-  - "[[Tennessee STAR Project 1985-1989]]"
+- '[[Coleman Report 1966]]'
+- '[[No Child Left Behind Act 2001]]'
+- '[[Tennessee STAR Project 1985-1989]]'
+related_arguments: []
 sources:
-  - sources/Downey_2016_SoE.md
-part_of:
+- '[[Downey_2016_SoE]]'
+part_of: ''
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

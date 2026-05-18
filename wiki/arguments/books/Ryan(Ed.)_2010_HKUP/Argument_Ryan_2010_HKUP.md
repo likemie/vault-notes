@@ -1,20 +1,43 @@
 ---
 title: Argument_Ryan_2010_HKUP
+summary: ''
 type: argument
 subtype: edited-volume
-citation: "Ryan, J. & Slethaug, G. (Eds.). (2010). International Education and the Chinese Learner. Hong Kong University Press."
-tags: [region/global, region/china, region/hongkong, level/k12, level/higher-ed]
-related_concepts: ["[[International Education]]", "[[Chinese Learner]]", "[[Fourth Culture]]"]
+publication_type: book
+book_title: International Education and the Chinese Learner
+editors:
+- Ryan, J.
+- Slethaug, G.
+publisher: Hong Kong University Press
+citation: Ryan, J. & Slethaug, G. (Eds.). (2010). International Education and the Chinese Learner. Hong Kong University Press.
+tags:
+- region/global
+- region/china
+- region/hongkong
+- level/k12
+- level/higher-ed
+related_concepts:
+- '[[International Education]]'
+- '[[Chinese Learner]]'
+- '[[Fourth Culture]]'
 related_theories: []
 related_methods: []
-related_persons: ["[[Paul Morris]]"]
-related_facts: ["[[Symposium on International Teaching 2007]]", "[[English Schools Foundation Hong Kong]]", "[[Transnationalism and America Project SYSU]]", "[[Liberal Studies (Hong Kong)]]"]
-related_arguments: ["[[Argument_Slethaug_2010_InternationalEducation]]", "[[Argument_Ryan_2010_ChineseLearner]]"]
-sources: ["[[Ryan(Ed.)_2010_HKUP]]"]
-part_of:
+related_persons:
+- '[[Paul Morris]]'
+related_facts:
+- '[[Symposium on International Teaching 2007]]'
+- '[[English Schools Foundation Hong Kong]]'
+- '[[Transnationalism and America Project SYSU]]'
+- '[[Liberal Studies (Hong Kong)]]'
+related_arguments:
+- '[[Argument_Slethaug_2010_InternationalEducation]]'
+- '[[Argument_Ryan_2010_ChineseLearner]]'
+sources:
+- '[[Ryan(Ed.)_2010_HKUP]]'
+part_of: ''
 status: draft
-created: 2026-05-16
-updated: 2026-05-17
+created: '2026-05-16'
+updated: '2026-05-18'
 ---
 
 # Argument_Ryan_2010_HKUP

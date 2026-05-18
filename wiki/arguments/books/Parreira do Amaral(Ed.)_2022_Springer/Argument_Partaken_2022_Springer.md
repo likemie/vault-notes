@@ -1,20 +1,44 @@
 ---
 title: Argument_Partaken_2022_Springer
-aliases: []
+summary: ''
 type: argument
-citation: "Partaken, J. (2022). Two faces of geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 67–90). Springer."
-tags: ["region/global", "knowledge-transfer", "geopolitics-of-knowledge"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Forced Knowledge Transfer]]", "[[Knowledge Sabotage]]", "[[Narrative Knowledge]]", "[[Economic and Industrial Espionage]]", "[[Knowledge-Based Economy]]"]
-related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
+subtype: book-chapter
+publication_type: book
+book_title: Geopolitical Transformations in Higher Education
+citation: Partaken, J. (2022). Two faces of geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 67–90). Springer.
+tags:
+- region/global
+- knowledge-transfer
+- geopolitics-of-knowledge
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Transfer]]'
+- '[[Forced Knowledge Transfer]]'
+- '[[Knowledge Sabotage]]'
+- '[[Narrative Knowledge]]'
+- '[[Economic and Industrial Espionage]]'
+- '[[Knowledge-Based Economy]]'
+related_theories:
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
-related_persons: ["[[Jean-François Lyotard]]", "[[Frantz Fanon]]", "[[Chen Kuan-Hsing]]", "[[Walter Mignolo]]"]
-related_facts: ["[[Great Firewall of China]]", "[[China Social Credit System]]", "[[Sino-American Trade War (2018)]]", "[[Kokutai no Hongi (1937)]]"]
-related_arguments: ["[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
-part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
+related_persons:
+- '[[Jean-François Lyotard]]'
+- '[[Frantz Fanon]]'
+- '[[Chen Kuan-Hsing]]'
+- '[[Walter Mignolo]]'
+related_facts:
+- '[[Great Firewall of China]]'
+- '[[China Social Credit System]]'
+- '[[Sino-American Trade War (2018)]]'
+- '[[Kokutai no Hongi (1937)]]'
+related_arguments:
+- '[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
+part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Argument_Partaken_2022_Springer

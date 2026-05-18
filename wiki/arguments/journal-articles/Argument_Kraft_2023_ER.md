@@ -1,17 +1,33 @@
 ---
 title: Argument_Kraft_2023_ER
+summary: ''
 type: argument
-citation: "Kraft, M. A. (2023). The effect-size benchmark that matters most: Education interventions often fail. Educational Researcher, 52(3), 183-187. https://doi.org/10.3102/0013189X231155154"
-tags: [effect-size, randomized-controlled-trials, evidence-based-education, policy-relevance, methodology]
-related_concepts: ["[[Effect Size]]", "[[Publication Bias]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Educational Researcher
+citation: 'Kraft, M. A. (2023). The effect-size benchmark that matters most: Education interventions often fail. Educational Researcher, 52(3), 183-187. https://doi.org/10.3102/0013189X231155154'
+tags:
+- effect-size
+- randomized-controlled-trials
+- evidence-based-education
+- policy-relevance
+- methodology
+related_concepts:
+- '[[Effect Size]]'
+- '[[Publication Bias]]'
 related_theories: []
-related_methods: ["[[Randomised Controlled Trials]]"]
-related_persons: ["[[Adrian Simpson]]"]
-sources: ["sources/Kraft_2023_ER.md"]
-part_of:
+related_methods:
+- '[[Randomised Controlled Trials]]'
+related_persons:
+- '[[Adrian Simpson]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Kraft_2023_ER]]'
+part_of: ''
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

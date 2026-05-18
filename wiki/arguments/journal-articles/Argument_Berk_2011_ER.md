@@ -1,15 +1,37 @@
 ---
 title: Argument_Berk_2011_ER
+summary: ''
 type: argument
-citation: "Berk, R. (2011). Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review. Evaluation Review, 35(3), 191-203."
-tags: [evaluation-research, evidence-based-policy, causal-inference, junk-science, methodology-critique, subject/research-methodology]
-related_concepts: ["[[Evidence-Based Education]]", "[[Potential Outcomes Framework]]", "[[Stable Unit Treatment Value Assumption (SUTVA)]]"]
-related_methods: ["[[Randomised Controlled Trials]]", "[[Meta-analysis]]", "[[Causal Modeling]]", "[[Matching]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Evaluation Review
+citation: 'Berk, R. (2011). Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review. Evaluation Review, 35(3), 191-203.'
+tags:
+- evaluation-research
+- evidence-based-policy
+- causal-inference
+- junk-science
+- methodology-critique
+- subject/research-methodology
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Potential Outcomes Framework]]'
+- '[[Stable Unit Treatment Value Assumption (SUTVA)]]'
+related_theories: []
+related_methods:
+- '[[Randomised Controlled Trials]]'
+- '[[Meta-analysis]]'
+- '[[Causal Modeling]]'
+- '[[Matching]]'
 related_persons: []
-sources: ["sources/Berk_2011_ER.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Berk_2011_ER]]'
+part_of: ''
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

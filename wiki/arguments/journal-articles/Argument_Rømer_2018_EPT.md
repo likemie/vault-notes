@@ -1,15 +1,43 @@
 ---
 title: Argument_Rømer_2018
+summary: ''
 type: argument
-citation: "Rømer, T. A. (2018). A critique of John Hattie's theory of Visible Learning. Educational Philosophy and Theory. https://doi.org/10.1080/00131857.2018.1488216"
-tags: [Visible Learning, 激进建构主义, Popper, evaluation-theory, feedback, stance/critique]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Effect Size]]", "[[Pure Evaluation]]"]
-related_theories: ["[[Radical Constructivism]]", "[[Popper's Three Worlds Theory]]", "[[Technical Rationality]]"]
-related_persons: ["[[John Hattie]]", "[[Gert Biesta]]", "[[Ernst von Glasersfeld]]", "[[Carl Bereiter]]", "[[John Biggs]]", "[[Scott Eacott]]"]
-sources: ["sources/Romer_2018_EPT.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Educational Philosophy and Theory
+citation: Rømer, T. A. (2018). A critique of John Hattie's theory of Visible Learning. Educational Philosophy and Theory. https://doi.org/10.1080/00131857.2018.1488216
+tags:
+- Visible Learning
+- 激进建构主义
+- Popper
+- evaluation-theory
+- feedback
+- stance/critique
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Effect Size]]'
+- '[[Pure Evaluation]]'
+related_theories:
+- '[[Radical Constructivism]]'
+- '[[Popper''s Three Worlds Theory]]'
+- '[[Technical Rationality]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Gert Biesta]]'
+- '[[Ernst von Glasersfeld]]'
+- '[[Carl Bereiter]]'
+- '[[John Biggs]]'
+- '[[Scott Eacott]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Romer_2018_EPT]]'
+part_of: ''
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

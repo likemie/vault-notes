@@ -1,34 +1,41 @@
 ---
 title: Argument_Eacott_2011_JEAH
-aliases: [Eacott 2011 JEAH]
+summary: ''
 type: argument
-citation: "Eacott, S. (2011). Preparing 'educational' leaders in managerialist times: an Australian story. *Journal of Educational Administration and History*, 43(1), 43–59."
+subtype: journal-article
+publication_type: journal-article
+journal: Journal of Educational Administration and History
+citation: 'Eacott, S. (2011). Preparing ''educational'' leaders in managerialist times: an Australian story. *Journal of Educational Administration and History*, 43(1), 43–59.'
 tags:
-  - school-leadership
-  - leadership-preparation
-  - managerialism
-  - Bourdieu
-  - region/australia
-  - stance/critique
+- school-leadership
+- leadership-preparation
+- managerialism
+- Bourdieu
+- region/australia
+- stance/critique
 related_concepts:
-  - "[[School Leadership]]"
-  - "[[New Public Management in Education]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Performativity of Measurement]]"
-  - "[[Champ]]"
-  - "[[Habitus]]"
-  - "[[Doxa]]"
-  - "[[Cultural Capital]]"
+- '[[School Leadership]]'
+- '[[New Public Management in Education]]'
+- '[[Evidence-Based Education]]'
+- '[[Performativity of Measurement]]'
+- '[[Champ]]'
+- '[[Habitus]]'
+- '[[Doxa]]'
+- '[[Cultural Capital]]'
 related_theories:
-  - "[[Pierre Bourdieu]]"
+- '[[Pierre Bourdieu]]'
+related_methods: []
 related_persons:
-  - "[[Clippings/Pierre Bourdieu]]"
-  - "[[Helen Gunter]]"
+- '[[Clippings/Pierre Bourdieu]]'
+- '[[Helen Gunter]]'
+related_facts: []
+related_arguments: []
 sources:
-  - sources/Eacott_2011_JEAH.md
+- '[[Eacott_2011_JEAH]]'
+part_of: ''
 status: draft
-created: 2026-05-02
-updated: 2026-05-09
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 # Argument_Eacott_2011_JEAH

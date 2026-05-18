@@ -1,17 +1,40 @@
 ---
 title: Argument_Rappleye_2006_RCIE
+summary: ''
 type: argument
-citation: "Rappleye, J. (2006). Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction. Research in Comparative and International Education, 1(3), 223–240."
-tags: [policy-borrowing, educational-transfer, cross-national-attraction, comparative-education, region/global]
-related_concepts: ["[[Cross-National Attraction]]", "[[Policy Borrowing]]", "[[Externalization (Schriewer)]]", "[[American Attraction to Japanese Education 1980s]]", "[[Late Qing Borrowing of Japanese Education]]", "[[A Nation at Risk 1983]]"]
-related_theories: ["[[Policy Borrowing]]"]
-related_persons: ["[[David Phillips]]", "[[Gita Steiner-Khamsi]]", "[[Kimberly Ochs]]", "[[Jurgen Schriewer]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Research in Comparative and International Education
+citation: 'Rappleye, J. (2006). Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction. Research in Comparative and International Education, 1(3), 223–240.'
+tags:
+- policy-borrowing
+- educational-transfer
+- cross-national-attraction
+- comparative-education
+- region/global
+related_concepts:
+- '[[Cross-National Attraction]]'
+- '[[Policy Borrowing]]'
+- '[[Externalization (Schriewer)]]'
+- '[[American Attraction to Japanese Education 1980s]]'
+- '[[Late Qing Borrowing of Japanese Education]]'
+- '[[A Nation at Risk 1983]]'
+related_theories:
+- '[[Policy Borrowing]]'
 related_methods: []
-sources: ["sources/Rappleye_2006_RCIE.md"]
-part_of:
+related_persons:
+- '[[David Phillips]]'
+- '[[Gita Steiner-Khamsi]]'
+- '[[Kimberly Ochs]]'
+- '[[Jurgen Schriewer]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Rappleye_2006_RCIE]]'
+part_of: ''
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

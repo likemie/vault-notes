@@ -1,16 +1,38 @@
 ---
 title: Argument_Brady_2023_EPR
+summary: ''
 type: argument
-citation: "Brady, A. C., Griffin, M. M., Lewis, A. R., Fong, C. J., & Robinson, D. H. (2023). How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies. Educational Psychology Review, 35, Article 37. https://doi.org/10.1007/s10648-023-09759-9"
-tags: [educational-psychology, research-methodology, causal-inference, recommendations-for-practice, evidence-based-education]
-related_concepts: ["[[Recommendations for Practice]]", "[[Evidence-Based Education]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Educational Psychology Review
+citation: Brady, A. C., Griffin, M. M., Lewis, A. R., Fong, C. J., & Robinson, D. H. (2023). How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies. Educational Psychology Review, 35, Article 37. https://doi.org/10.1007/s10648-023-09759-9
+tags:
+- educational-psychology
+- research-methodology
+- causal-inference
+- recommendations-for-practice
+- evidence-based-education
+related_concepts:
+- '[[Recommendations for Practice]]'
+- '[[Evidence-Based Education]]'
 related_theories: []
-related_methods: ["[[Intervention Research]]", "[[Non-intervention Research]]", "[[Observational and Correlational Research]]", "[[Qualitative Research]]", "[[Mixed Method and Multi-method Research]]", "[[Causal Modeling]]", "[[Randomised Controlled Trials]]"]
-sources: ["sources/Brady_2023_EPR.md"]
-part_of:
+related_methods:
+- '[[Intervention Research]]'
+- '[[Non-intervention Research]]'
+- '[[Observational and Correlational Research]]'
+- '[[Qualitative Research]]'
+- '[[Mixed Method and Multi-method Research]]'
+- '[[Causal Modeling]]'
+- '[[Randomised Controlled Trials]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Brady_2023_EPR]]'
+part_of: ''
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

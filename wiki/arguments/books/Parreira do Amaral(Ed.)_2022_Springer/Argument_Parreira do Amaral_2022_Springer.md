@@ -1,21 +1,43 @@
 ---
 title: Argument_Parreira do Amaral_2022_Springer
-aliases: []
+summary: ''
 type: argument
 subtype: edited-volume
-citation: "Parreira do Amaral, M., & Thompson, C. (Eds.). (2022). Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation. Springer."
-tags: [geopolitics-of-knowledge, higher-education, knowledge-based-economy, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Global Regionalisms in Higher Education]]", "[[Regulatory Regionalism]]", "[[Global Education Industry]]"]
+publication_type: book
+book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
+editors:
+- Parreira do Amaral, M.,
+- Thompson, C.
+publisher: Springer
+citation: 'Parreira do Amaral, M., & Thompson, C. (Eds.). (2022). Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation. Springer.'
+tags:
+- geopolitics-of-knowledge
+- higher-education
+- knowledge-based-economy
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge-Based Economization]]'
+- '[[Global Regionalisms in Higher Education]]'
+- '[[Regulatory Regionalism]]'
+- '[[Global Education Industry]]'
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Moisio_2022_Springer]]", "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]", "[[Argument_Amos_2022_Springer]]", "[[Argument_Partaken_2022_Springer]]", "[[Argument_Delambre_2022_Springer]]"]
-sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md"]
-part_of:
+related_arguments:
+- '[[Argument_Moisio_2022_Springer]]'
+- '[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]'
+- '[[Argument_Amos_2022_Springer]]'
+- '[[Argument_Partaken_2022_Springer]]'
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Parreira do Amaral(Ed.)_2022_Springer]]'
+part_of: ''
 status: draft
-created: 2026-05-07
-updated: 2026-05-11
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 编者论点

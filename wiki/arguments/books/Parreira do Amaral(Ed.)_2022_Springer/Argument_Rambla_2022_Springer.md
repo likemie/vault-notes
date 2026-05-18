@@ -1,19 +1,42 @@
 ---
 title: Argument_Rambla_2022_Springer
+summary: ''
 type: argument
-citation: "Rambla, X. (2022). Imaginaries of Education and Innovation in the European Union. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 163–178). Springer."
-tags: ["region/eu", "region/global", "policy-instruments", "performance-indicators", "innovation-policy", "lifelong-learning"]
-related_concepts: ["[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity]]", "[[Geopolitics of Knowledge]]", "[[Network Governance]]", "[[Regulatory Regionalism]]", "[[Neocorporatism]]"]
+subtype: book-chapter
+publication_type: book
+book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
+citation: 'Rambla, X. (2022). Imaginaries of Education and Innovation in the European Union. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 163–178). Springer.'
+tags:
+- region/eu
+- region/global
+- policy-instruments
+- performance-indicators
+- innovation-policy
+- lifelong-learning
+related_concepts:
+- '[[Performance Indicators]]'
+- '[[Theories of Policy Change]]'
+- '[[Selectivity]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Network Governance]]'
+- '[[Regulatory Regionalism]]'
+- '[[Neocorporatism]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Innovation Union]]", "[[Europe 2020 Strategy]]", "[[EU Skills Agenda]]", "[[Youth Guarantee Scheme]]", "[[YOUNG_ADULLLT]]"]
+related_facts:
+- '[[Innovation Union]]'
+- '[[Europe 2020 Strategy]]'
+- '[[EU Skills Agenda]]'
+- '[[Youth Guarantee Scheme]]'
+- '[[YOUNG_ADULLLT]]'
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022.md"]
-part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
+sources:
+- '[[Ch10_Rambla_2022]]'
+part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
-created: 2026-05-13
-updated: 2026-05-13
+created: '2026-05-13'
+updated: '2026-05-18'
 ---
 
 # Argument_Rambla_2022_Springer

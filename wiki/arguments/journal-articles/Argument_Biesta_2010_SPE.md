@@ -1,16 +1,40 @@
 ---
 title: Argument_Biesta_2010_SPE
+summary: ''
 type: argument
-citation: "Biesta, G. J. J. (2010). Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education. Studies in Philosophy and Education, 29(5), 491–503."
-tags: [evidence-based-education, value-based-education, epistemology, ontology, Dewey, Latour, paradigm/critical, region/global]
-related_concepts: ["[[Evidence-Based Education]]", "[[Value-Based Education]]", "[[Complexity Reduction]]"]
-related_theories: ["[[Transactional Epistemology]]"]
-related_methods: ["[[Philosophical Analysis in Education]]"]
-related_persons: ["[[Gert Biesta]]", "[[John Dewey]]", "[[Bruno Latour]]"]
-sources: ["sources/Biesta_2010_SPE.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Studies in Philosophy and Education
+citation: 'Biesta, G. J. J. (2010). Why ''What Works'' Still Won''t Work: From Evidence-Based Education to Value-Based Education. Studies in Philosophy and Education, 29(5), 491–503.'
+tags:
+- evidence-based-education
+- value-based-education
+- epistemology
+- ontology
+- Dewey
+- Latour
+- paradigm/critical
+- region/global
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Value-Based Education]]'
+- '[[Complexity Reduction]]'
+related_theories:
+- '[[Transactional Epistemology]]'
+related_methods:
+- '[[Philosophical Analysis in Education]]'
+related_persons:
+- '[[Gert Biesta]]'
+- '[[John Dewey]]'
+- '[[Bruno Latour]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Biesta_2010_SPE]]'
+part_of: ''
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

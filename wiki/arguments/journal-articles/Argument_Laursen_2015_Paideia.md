@@ -1,15 +1,38 @@
 ---
 title: Argument_Laursen_2015_Paideia
+summary: ''
 type: argument
-citation: "Laursen, P. F. (2015). Er Hattie og co. gyldige i Danmark? Paideia, (9), 34–41."
-tags: [Visible Learning, effective-teaching, national-culture, region/denmark, level/k12]
-related_concepts: ["[[Visible Learning]]", "[[Effective Teaching]]", "[[Feedback]]", "[[Individualised Instruction]]"]
-related_theories: ["[[Hofstede's Cultural Dimensions]]"]
-related_persons: ["[[John Hattie]]", "[[Hilbert Meyer]]", "[[Andreas Helmke]]", "[[Geert Hofstede]]"]
-sources: ["sources/Laursen_2015_Paideia.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Paideia
+citation: Laursen, P. F. (2015). Er Hattie og co. gyldige i Danmark? Paideia, (9), 34–41.
+tags:
+- Visible Learning
+- effective-teaching
+- national-culture
+- region/denmark
+- level/k12
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Effective Teaching]]'
+- '[[Feedback]]'
+- '[[Individualised Instruction]]'
+related_theories:
+- '[[Hofstede''s Cultural Dimensions]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Hilbert Meyer]]'
+- '[[Andreas Helmke]]'
+- '[[Geert Hofstede]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Laursen_2015_Paideia]]'
+part_of: ''
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

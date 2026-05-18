@@ -1,14 +1,36 @@
 ---
 title: Argument_Cheung_2021_ROE
+summary: ''
 type: argument
-citation: "Cheung, A. C. K., & Xie, C. (2021). Evidence-based reform in education: Global perspectives [Editorial]. ECNU Review of Education, 4(1), 3–6."
-tags: [evidence-based-reform, region/global, region/china, region/us, region/uk, region/europe, level/k12]
-related_concepts: ["[[Evidence-Based Reform]]", "[[Evidence-Based Education]]"]
-related_persons: ["[[Alan C. K. Cheung]]", "[[Robert Slavin]]", "[[Chen Xie]]"]
-sources: ["sources/Cheung_2021_ROE.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: ECNU Review of Education
+citation: 'Cheung, A. C. K., & Xie, C. (2021). Evidence-based reform in education: Global perspectives [Editorial]. ECNU Review of Education, 4(1), 3–6.'
+tags:
+- evidence-based-reform
+- region/global
+- region/china
+- region/us
+- region/uk
+- region/europe
+- level/k12
+related_concepts:
+- '[[Evidence-Based Reform]]'
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Alan C. K. Cheung]]'
+- '[[Robert Slavin]]'
+- '[[Chen Xie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Cheung_2021_ROE]]'
+part_of: ''
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

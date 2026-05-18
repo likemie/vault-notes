@@ -1,16 +1,37 @@
 ---
 title: Argument_Fredens_2015_Paideia
+summary: ''
 type: argument
-citation: "Fredens, K. (2015). Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]. Paideia, (9), 70–75."
-tags: [Visible Learning, feedback, learning-science, region/denmark, level/k12]
-related_concepts: ["[[Visible Learning]]", "[[Feedback]]", "[[Direct Instruction]]", "[[working-memory]]"]
-related_persons: ["[[John Hattie]]"]
-related_methods: ["[[Cognitive Task Analysis]]"]
-sources: ["sources/Fredens_2015_Paideia.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Paideia
+citation: Fredens, K. (2015). Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]. Paideia, (9), 70–75.
+tags:
+- Visible Learning
+- feedback
+- learning-science
+- region/denmark
+- level/k12
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Feedback]]'
+- '[[Direct Instruction]]'
+- '[[working-memory]]'
+related_theories: []
+related_methods:
+- '[[Cognitive Task Analysis]]'
+related_persons:
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Fredens_2015_Paideia]]'
+part_of: ''
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
+
 ## 研究问题
 
 书评评述 Hattie & Yates 合著 *Synlig læring og læringens anatomi*（Dafolo, 2014，即 *Visible Learning and the Science of How We Learn* 的丹麦语译本），评估该书对丹麦教育实践的贡献与局限。

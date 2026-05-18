@@ -1,16 +1,38 @@
 ---
 title: Argument_Nelson_2017_ER
+summary: ''
 type: argument
-citation: "Nelson, J. & Campbell, C. (2017). Evidence-informed practice in education: meanings and applications. Educational Research, 59(2), 127–135."
-tags: [evidence-informed-practice, evidence-based-education, knowledge-mobilisation, professional-judgment, research-use, region/uk, region/canada, region/global]
-related_concepts: ["[[Evidence-Informed Practice (EIP)]]", "[[Evidence-Based Education]]", "[[Knowledge Mobilisation (KMb)]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Educational Research
+citation: 'Nelson, J. & Campbell, C. (2017). Evidence-informed practice in education: meanings and applications. Educational Research, 59(2), 127–135.'
+tags:
+- evidence-informed-practice
+- evidence-based-education
+- knowledge-mobilisation
+- professional-judgment
+- research-use
+- region/uk
+- region/canada
+- region/global
+related_concepts:
+- '[[Evidence-Informed Practice (EIP)]]'
+- '[[Evidence-Based Education]]'
+- '[[Knowledge Mobilisation (KMb)]]'
 related_theories: []
-related_methods: ["[[Research Practice Partnerships (RPPs)]]"]
-related_persons: ["[[Julie Nelson]]", "[[Carol Campbell]]"]
-sources: ["sources/Nelson_2017_ER.md"]
+related_methods:
+- '[[Research Practice Partnerships (RPPs)]]'
+related_persons:
+- '[[Julie Nelson]]'
+- '[[Carol Campbell]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Nelson_2017_ER]]'
+part_of: ''
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

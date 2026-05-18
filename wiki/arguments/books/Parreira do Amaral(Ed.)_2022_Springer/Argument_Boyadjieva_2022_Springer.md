@@ -1,36 +1,40 @@
 ---
 title: Argument_Boyadjieva_2022_Springer
-aliases: []
+summary: ''
 type: argument
-citation: "Boyadjieva, P. (2022). (Un)avoidable clash: Higher education at the altar of its missions and rankings. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 125–142). Springer."
+subtype: book-chapter
+publication_type: book
+book_title: 'Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation'
+citation: 'Boyadjieva, P. (2022). (Un)avoidable clash: Higher education at the altar of its missions and rankings. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 125–142). Springer.'
 tags:
-  - higher-education
-  - rankings
-  - missions
-  - capability-approach
-  - institutional-theory
-  - region/global
-  - level/higher-ed
+- higher-education
+- rankings
+- missions
+- capability-approach
+- institutional-theory
+- region/global
+- level/higher-ed
 related_concepts:
-  - "[[Global Universities Rankings]]"
-  - "[[Geopolitics of Knowledge]]"
-  - "[[Social Charter]]"
+- '[[Global Universities Rankings]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Social Charter]]'
 related_theories:
-  - "[[Capability Approach in Education]]"
+- '[[Capability Approach in Education]]'
+related_methods: []
 related_persons:
-  - "[[Pepka Boyadjieva]]"
-  - "[[Ellen Hazelkorn]]"
+- '[[Pepka Boyadjieva]]'
+- '[[Ellen Hazelkorn]]'
 related_facts:
-  - "[[Academic Ranking of World Universities (ARWU)]]"
-  - "[[OECD AHELO Project]]"
-  - "[[University of Kentucky Top-20 Plan]]"
+- '[[Academic Ranking of World Universities (ARWU)]]'
+- '[[OECD AHELO Project]]'
+- '[[University of Kentucky Top-20 Plan]]'
 related_arguments: []
 sources:
-  - books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md
-part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
+- '[[Ch8_Boyadjieva_2022]]'
+part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
-created: 2026-05-11
-updated: 2026-05-12
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Argument_Boyadjieva_2022_Springer

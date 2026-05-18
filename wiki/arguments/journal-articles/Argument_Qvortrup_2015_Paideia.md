@@ -1,17 +1,42 @@
 ---
 title: Argument_Qvortrup_2015_Paideia
+summary: ''
 type: argument
-citation: "Qvortrup, L. (2015). Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet. Paideia, 9, 22–33."
-tags: [visible-learning, meta-analysis, learning-theory, knowledge, region/denmark, stance/support]
-related_concepts: ["[[Visible Learning]]", "[[Surface and Deep Learning]]", "[[Dynamic Knowledge and Learning Model]]", "[[Effect Size]]"]
-related_theories: ["[[Popper's Three Worlds Theory]]"]
-related_persons: ["[[John Hattie]]", "[[Lars Qvortrup]]", "[[John Biggs]]", "[[Carl Bereiter]]", "[[Jean Piaget]]"]
-related_methods: ["[[Meta-analysis]]", "[[Meta-meta-analysis]]"]
-sources: ["sources/Qvortrup_2015_Paideia.md"]
-part_of:
+subtype: journal-article
+publication_type: journal-article
+journal: Paideia
+citation: Qvortrup, L. (2015). Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet. Paideia, 9, 22–33.
+tags:
+- visible-learning
+- meta-analysis
+- learning-theory
+- knowledge
+- region/denmark
+- stance/support
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Surface and Deep Learning]]'
+- '[[Dynamic Knowledge and Learning Model]]'
+- '[[Effect Size]]'
+related_theories:
+- '[[Popper''s Three Worlds Theory]]'
+related_methods:
+- '[[Meta-analysis]]'
+- '[[Meta-meta-analysis]]'
+related_persons:
+- '[[John Hattie]]'
+- '[[Lars Qvortrup]]'
+- '[[John Biggs]]'
+- '[[Carl Bereiter]]'
+- '[[Jean Piaget]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Qvortrup_2015_Paideia]]'
+part_of: ''
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

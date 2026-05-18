@@ -1,20 +1,39 @@
 ---
 title: Argument_Delambre_2022_Springer
-aliases: ["Creative Tension of Sense argument"]
+summary: ''
 type: argument
-citation: "Delambre, D. (2022). Creative Tension of Sense and the Whole Approach to Knowledge and Practice. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 105–122). Springer."
-tags: ["region/brazil", "region/global", "level/higher-ed"]
-related_concepts: ["[[Ganz-Methode]]", "[[Life Power]]", "[[Tense Society]]", "[[Geopolitics of Knowledge]]", "[[Social Museology]]", "[[Epistemology of Resistance]]", "[[Ecomuseology]]", "[[Whole Sustainability]]"]
-related_theories: ["[[Creative Tension of Sense]]"]
+subtype: book-chapter
+publication_type: book
+book_title: Geopolitical Transformations in Higher Education
+citation: Delambre, D. (2022). Creative Tension of Sense and the Whole Approach to Knowledge and Practice. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 105–122). Springer.
+tags:
+- region/brazil
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Ganz-Methode]]'
+- '[[Life Power]]'
+- '[[Tense Society]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Social Museology]]'
+- '[[Epistemology of Resistance]]'
+- '[[Ecomuseology]]'
+- '[[Whole Sustainability]]'
+related_theories:
+- '[[Creative Tension of Sense]]'
 related_methods: []
-related_persons: ["[[Dell Delambre]]", "[[Richard Castelo Branco]]", "[[Camilla de Hollanda Amado]]"]
+related_persons:
+- '[[Dell Delambre]]'
+- '[[Richard Castelo Branco]]'
+- '[[Camilla de Hollanda Amado]]'
 related_facts: []
-related_arguments: ["[[Argument_Parreira do Amaral_2022_Springer]]"]
+related_arguments:
+- '[[Argument_Parreira do Amaral_2022_Springer]]'
 sources: []
-part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
+part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Argument_Delambre_2022_Springer

@@ -1,15 +1,38 @@
 ---
 title: Argument_Wolf_2020_JREE
+summary: ''
 type: argument
-citation: "Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K. (2020). Average effect sizes in developer-commissioned and independent evaluations. Journal of Research on Educational Effectiveness, 13(2), 428–447."
-tags: [developer-effect, program-evaluation, meta-analysis, WWC, ESSA, publication-bias, preregistration]
-related_concepts: ["[[Developer Effect]]", "[[Effect Size]]", "[[Publication Bias]]", "[[Researcher Degrees of Freedom]]", "[[Preregistration]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Journal of Research on Educational Effectiveness
+citation: Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K. (2020). Average effect sizes in developer-commissioned and independent evaluations. Journal of Research on Educational Effectiveness, 13(2), 428–447.
+tags:
+- developer-effect
+- program-evaluation
+- meta-analysis
+- WWC
+- ESSA
+- publication-bias
+- preregistration
+related_concepts:
+- '[[Developer Effect]]'
+- '[[Effect Size]]'
+- '[[Publication Bias]]'
+- '[[Researcher Degrees of Freedom]]'
+- '[[Preregistration]]'
 related_theories: []
-related_methods: ["[[Meta-analysis]]", "[[Randomised Controlled Trials]]"]
-sources: ["sources/Wolf_2020_JREE.md"]
+related_methods:
+- '[[Meta-analysis]]'
+- '[[Randomised Controlled Trials]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wolf_2020_JREE]]'
+part_of: ''
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

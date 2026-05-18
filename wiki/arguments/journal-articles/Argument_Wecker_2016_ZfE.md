@@ -1,15 +1,33 @@
 ---
 title: Argument_Wecker_2016_ZfE
+summary: ''
 type: argument
-citation: "Wecker, C., Vogel, F., & Hetmanek, A. (2016). Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]. *Zeitschrift für Erziehungswissenschaft*, 20, 21–40. https://doi.org/10.1007/s11618-016-0696-0"
-tags: [Visible-Learning, meta-analysis, methodology, effect-size, evidence-based-education]
-related_concepts: ["[[Visible Learning]]", "[[Effect Size]]", "[[Publication Bias]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Zeitschrift für Erziehungswissenschaft
+citation: Wecker, C., Vogel, F., & Hetmanek, A. (2016). Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]. *Zeitschrift für Erziehungswissenschaft*, 20, 21–40. https://doi.org/10.1007/s11618-016-0696-0
+tags:
+- Visible-Learning
+- meta-analysis
+- methodology
+- effect-size
+- evidence-based-education
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Effect Size]]'
+- '[[Publication Bias]]'
 related_theories: []
-related_methods: ["[[Meta-analysis]]"]
-sources: ["sources/Wecker_2016_ZfE.md"]
+related_methods:
+- '[[Meta-analysis]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wecker_2016_ZfE]]'
+part_of: ''
 status: draft
-created: 2026-05-03
-updated: 2026-05-04
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

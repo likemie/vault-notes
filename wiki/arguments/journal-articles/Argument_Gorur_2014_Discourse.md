@@ -1,16 +1,37 @@
 ---
 title: Argument_Gorur_2014_Discourse
+summary: ''
 type: argument
-citation: "Gorur, R. (2014). Producing calculable worlds: education at a glance. *Discourse: Studies in the Cultural Politics of Education*, 36(4), 578–595. doi: 10.1080/01596306.2015.974942"
-tags: [OECD, education indicators, STS, sociology of measurement, performativity, Comparative Education]
-related_concepts: ["[[Education at a Glance (EAG)]]", "[[International Indicators of Education Systems (INES)]]", "[[Sociology of Measurement]]", "[[Performance Indicators]]", "[[Performativity of Measurement]]"]
-related_theories: ["[[Science and Technology Studies (STS)]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: 'Discourse: Studies in the Cultural Politics of Education'
+citation: 'Gorur, R. (2014). Producing calculable worlds: education at a glance. *Discourse: Studies in the Cultural Politics of Education*, 36(4), 578–595. doi: 10.1080/01596306.2015.974942'
+tags:
+- OECD
+- education indicators
+- STS
+- sociology of measurement
+- performativity
+- Comparative Education
+related_concepts:
+- '[[Education at a Glance (EAG)]]'
+- '[[International Indicators of Education Systems (INES)]]'
+- '[[Sociology of Measurement]]'
+- '[[Performance Indicators]]'
+- '[[Performativity of Measurement]]'
+related_theories:
+- '[[Science and Technology Studies (STS)]]'
 related_methods: []
-related_persons: ["[[Norberto Bottani]]"]
-sources: ["sources/Gorur_2014_Discourse.md"]
+related_persons:
+- '[[Norberto Bottani]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Gorur_2014_Discourse]]'
+part_of: ''
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

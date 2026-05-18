@@ -1,28 +1,35 @@
 ---
 title: Argument_Eacott_2015_EPT
+summary: ''
 type: argument
+subtype: journal-article
+publication_type: journal-article
+journal: Educational Philosophy and Theory
 citation: Eacott, S. (2015). Problematising the intellectual gaze of the educational administration scholar. Educational Philosophy and Theory, 47(4), 312–329.
 tags:
-  - educational-administration
-  - epistemology
-  - Bourdieu
-  - paradigm/critical
+- educational-administration
+- epistemology
+- Bourdieu
+- paradigm/critical
 related_concepts:
-  - "[[Epistemological Break]]"
-  - "[[Epistemological Vigilance]]"
-  - "[[School Leadership]]"
+- '[[Epistemological Break]]'
+- '[[Epistemological Vigilance]]'
+- '[[School Leadership]]'
 related_theories:
-  - "[[Pierre Bourdieu]]"
-related_persons:
-  - "[[Clippings/Pierre Bourdieu]]"
-  - "[[Thomas Barr Greenfield]]"
-  - "[[Helen Gunter]]"
+- '[[Pierre Bourdieu]]'
 related_methods: []
+related_persons:
+- '[[Clippings/Pierre Bourdieu]]'
+- '[[Thomas Barr Greenfield]]'
+- '[[Helen Gunter]]'
+related_facts: []
+related_arguments: []
 sources:
-  - sources/Eacott_2015_EPT.md
+- '[[Eacott_2015_EPT]]'
+part_of: ''
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

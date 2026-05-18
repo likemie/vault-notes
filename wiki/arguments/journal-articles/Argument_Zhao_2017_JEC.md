@@ -1,15 +1,37 @@
 ---
 title: Argument_Zhao_2017_JEC
+summary: ''
 type: argument
-citation: "Zhao, Y. (2017). What works may hurt: Side effects in education. Journal of Educational Change."
-tags: [side-effects, evidence-based-education, direct-instruction, PISA, NCLB, RCT, level/k12]
-related_concepts: ["[[Side Effects in Education]]", "[[Direct Instruction]]", "[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]"]
-related_facts: ["[[No Child Left Behind Act 2001]]"]
-related_persons: ["[[Yong Zhao]]"]
-sources: ["sources/Zhao_2017_JEC.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Journal of Educational Change
+citation: 'Zhao, Y. (2017). What works may hurt: Side effects in education. Journal of Educational Change.'
+tags:
+- side-effects
+- evidence-based-education
+- direct-instruction
+- PISA
+- NCLB
+- RCT
+- level/k12
+related_concepts:
+- '[[Side Effects in Education]]'
+- '[[Direct Instruction]]'
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Yong Zhao]]'
+related_facts:
+- '[[No Child Left Behind Act 2001]]'
+related_arguments: []
+sources:
+- '[[Zhao_2017_JEC]]'
+part_of: ''
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

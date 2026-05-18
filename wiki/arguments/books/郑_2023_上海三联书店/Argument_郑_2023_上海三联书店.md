@@ -1,70 +1,74 @@
 ---
 title: Argument_郑_2023_上海三联书店
-aliases:
-  - 金榜题名之后
+summary: ''
 type: argument
 subtype: monograph
+publication_type: book
+book_title: 金榜题名之后：大学生出路分化之谜
+authors:
+- 郑雅君
+publisher: 上海三联书店
 citation: 郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海三联书店.
 tags:
-  - higher-education
-  - social-stratification
-  - cultural-capital
-  - region/china
-  - level/higher-ed
+- higher-education
+- social-stratification
+- cultural-capital
+- region/china
+- level/higher-ed
 related_concepts:
-  - "[[Goal-Controlled Mode]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Cultural Barrier in Higher Education]]"
-  - "[[Economy of Experience]]"
-  - "[[Credential Inflation]]"
-  - "[[Habitus]]"
-  - "[[Cultural Capital]]"
-  - "[[Champ]]"
-  - "[[Academic and Social Integration]]"
-  - "[[Student Engagement]]"
-  - "[[Student Involvement]]"
-  - "[[Academic Engagement]]"
-  - "[[Social Engagement]]"
-  - "[[Symbolic Boundary]]"
-  - "[[Self-Authorship]]"
-  - "[[Employability]]"
-  - "[[The Shock of the Elite]]"
-  - "[[Self-Driven Mode]]"
-  - "[[Opportunist Mode]]"
-  - "[[Lost Mode]]"
-  - "[[Value Conformist Mode]]"
-  - "[[Graduation Pathway Typology (Zheng)]]"
-  - "[[Work Meaning Schemas (Zheng)]]"
-  - "[[Cultural Disembedding]]"
-  - "[[Cultural Disorientation]]"
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Cultural Barrier in Higher Education]]'
+- '[[Economy of Experience]]'
+- '[[Credential Inflation]]'
+- '[[Habitus]]'
+- '[[Cultural Capital]]'
+- '[[Champ]]'
+- '[[Academic and Social Integration]]'
+- '[[Student Engagement]]'
+- '[[Student Involvement]]'
+- '[[Academic Engagement]]'
+- '[[Social Engagement]]'
+- '[[Symbolic Boundary]]'
+- '[[Self-Authorship]]'
+- '[[Employability]]'
+- '[[The Shock of the Elite]]'
+- '[[Self-Driven Mode]]'
+- '[[Opportunist Mode]]'
+- '[[Lost Mode]]'
+- '[[Value Conformist Mode]]'
+- '[[Graduation Pathway Typology (Zheng)]]'
+- '[[Work Meaning Schemas (Zheng)]]'
+- '[[Cultural Disembedding]]'
+- '[[Cultural Disorientation]]'
 related_theories:
-  - "[[Pierre Bourdieu]]"
-  - "[[Culture as Toolkit]]"
-  - "[[Dual Elite Career Paths]]"
-  - "[[Rational Action Theory in Education]]"
-  - "[[Dual-Process Model of Culture in Action]]"
+- '[[Pierre Bourdieu]]'
+- '[[Culture as Toolkit]]'
+- '[[Dual Elite Career Paths]]'
+- '[[Rational Action Theory in Education]]'
+- '[[Dual-Process Model of Culture in Action]]'
 related_methods:
-  - "[[Constructivist Grounded Theory]]"
-  - "[[In-depth Interview]]"
-  - "[[Case Study]]"
+- '[[Constructivist Grounded Theory]]'
+- '[[In-depth Interview]]'
+- '[[Case Study]]'
 related_persons:
-  - "[[Yajun Zheng]]"
-  - "[[Ann Swidler]]"
-  - "[[Marcia Baxter Magolda]]"
-  - "[[Didier Eribon]]"
-  - "[[wiki/persons/Pierre Bourdieu]]"
-  - "[[Max Weber]]"
+- '[[Yajun Zheng]]'
+- '[[Ann Swidler]]'
+- '[[Marcia Baxter Magolda]]'
+- '[[Didier Eribon]]'
+- '[[Pierre Bourdieu]]'
+- '[[Max Weber]]'
 related_facts:
-  - "[[China College Graduate Employment Reform 1986-1997]]"
-  - "[[Recommendation-Based Graduate Admission System]]"
-  - "[[Coleman Report 1966]]"
+- '[[China College Graduate Employment Reform 1986-1997]]'
+- '[[Recommendation-Based Graduate Admission System]]'
+- '[[Coleman Report 1966]]'
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
-part_of:
+- '[[郑_2023_上海三联书店]]'
+part_of: ''
 status: draft
-created: 2026-05-08
-updated: 2026-05-09
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

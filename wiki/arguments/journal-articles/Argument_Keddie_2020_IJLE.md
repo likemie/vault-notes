@@ -1,15 +1,32 @@
 ---
 title: Argument_Keddie_2020_IJLE
+summary: ''
 type: argument
-citation: "Keddie, A., MacDonald, K., Blackmore, J., Wilkinson, J., Gobby, B., Niesche, R., Eacott, S., & Mahoney, C. (2020). The constitution of school autonomy in Australian public education: areas of paradox for social justice. *International Journal of Leadership in Education*. https://doi.org/10.1080/13603124.2020.1781934"
-tags: [school-autonomy, social-justice, region/australia, marketization, paradox]
-related_concepts: ["[[School Autonomy]]", "[[New Public Management in Education]]", "[[School Leadership]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: International Journal of Leadership in Education
+citation: 'Keddie, A., MacDonald, K., Blackmore, J., Wilkinson, J., Gobby, B., Niesche, R., Eacott, S., & Mahoney, C. (2020). The constitution of school autonomy in Australian public education: areas of paradox for social justice. *International Journal of Leadership in Education*. https://doi.org/10.1080/13603124.2020.1781934'
+tags:
+- school-autonomy
+- social-justice
+- region/australia
+- marketization
+- paradox
+related_concepts:
+- '[[School Autonomy]]'
+- '[[New Public Management in Education]]'
+- '[[School Leadership]]'
 related_theories: []
 related_methods: []
-sources: ["sources/Keddie_2020_IJLE.md"]
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Keddie_2020_IJLE]]'
+part_of: ''
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

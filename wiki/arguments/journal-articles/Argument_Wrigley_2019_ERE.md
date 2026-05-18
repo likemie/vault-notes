@@ -1,16 +1,43 @@
 ---
 title: Argument_Wrigley_2019_ERE
+summary: ''
 type: argument
-citation: "Wrigley, T., & McCusker, S. (2019). Evidence-based teaching: a simple view of 'science'. Educational Research and Evaluation, 25(1–2), 110–126."
-tags: [evidence-based-teaching, science, critical-realism, RCT, meta-analysis, effect-size, paradigm/constructivist, region/uk]
-related_concepts: ["[[Evidence-Based Education]]", "[[Effect Size]]"]
-related_theories: ["[[Critical Realism]]"]
-related_methods: ["[[Meta-analysis]]", "[[Randomised Controlled Trials]]"]
-related_persons: ["[[Terry Wrigley]]", "[[Sean McCusker]]", "[[Roy Bhaskar]]", "[[Ray Pawson]]", "[[Gary Thomas]]", "[[Adrian Simpson]]"]
-sources: ["sources/Wrigley_2019_ERE.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Educational Research and Evaluation
+citation: 'Wrigley, T., & McCusker, S. (2019). Evidence-based teaching: a simple view of ''science''. Educational Research and Evaluation, 25(1–2), 110–126.'
+tags:
+- evidence-based-teaching
+- science
+- critical-realism
+- RCT
+- meta-analysis
+- effect-size
+- paradigm/constructivist
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Effect Size]]'
+related_theories:
+- '[[Critical Realism]]'
+related_methods:
+- '[[Meta-analysis]]'
+- '[[Randomised Controlled Trials]]'
+related_persons:
+- '[[Terry Wrigley]]'
+- '[[Sean McCusker]]'
+- '[[Roy Bhaskar]]'
+- '[[Ray Pawson]]'
+- '[[Gary Thomas]]'
+- '[[Adrian Simpson]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wrigley_2019_ERE]]'
+part_of: ''
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

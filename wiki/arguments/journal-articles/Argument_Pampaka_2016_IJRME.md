@@ -1,15 +1,34 @@
 ---
 title: Argument_Pampaka_2016_IJRME
+summary: ''
 type: argument
-citation: "Pampaka, M., Williams, J., & Homer, M. (2016). Is the educational 'what works' agenda working? Critical methodological developments. International Journal of Research & Method in Education, 39(3), 231-236."
-tags: [Evidence-Based Education, Randomised Controlled Trials, level/k12, level/higher-ed]
-related_concepts: ["[[Evidence-Based Education]]", "[[Cluster Randomized Trials]]", "[[Intent-to-Treat Analysis]]", "[[Effect Size]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: International Journal of Research & Method in Education
+citation: Pampaka, M., Williams, J., & Homer, M. (2016). Is the educational 'what works' agenda working? Critical methodological developments. International Journal of Research & Method in Education, 39(3), 231-236.
+tags:
+- Evidence-Based Education
+- Randomised Controlled Trials
+- level/k12
+- level/higher-ed
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Cluster Randomized Trials]]'
+- '[[Intent-to-Treat Analysis]]'
+- '[[Effect Size]]'
 related_theories: []
-related_methods: ["[[Randomised Controlled Trials]]", "[[Meta-analysis]]"]
-sources: ["sources/Pampaka_2016_IJRME.md"]
+related_methods:
+- '[[Randomised Controlled Trials]]'
+- '[[Meta-analysis]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Pampaka_2016_IJRME]]'
+part_of: ''
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

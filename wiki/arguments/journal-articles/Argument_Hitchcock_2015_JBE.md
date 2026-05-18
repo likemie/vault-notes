@@ -1,15 +1,38 @@
 ---
 title: Argument_Hitchcock_2015_JBE
+summary: ''
 type: argument
-citation: "Hitchcock, J. H., Kratochwill, T. R., & Chezan, L. C. (2015). What Works Clearinghouse standards and generalization of single-case design evidence. Journal of Behavioral Education, 24(4), 459–469."
-tags: [single-case-design, What-Works-Clearinghouse, generalization, external-validity, research-methodology, evidence-based-education]
-related_concepts: ["[[What Works Clearinghouse (WWC)]]", "[[WWC SCD Pilot Standards 2010]]", "[[Single-Case Design (SCD)]]", "[[5-3-20 Rule]]", "[[Gating Procedure]]", "[[Evidence-Based Education]]"]
-related_theories: ["[[Campbellian Validity Framework]]"]
-related_methods: ["[[Single-Case Design (SCD)]]"]
-sources: ["sources/Hitchcock_2015_JBE.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Journal of Behavioral Education
+citation: Hitchcock, J. H., Kratochwill, T. R., & Chezan, L. C. (2015). What Works Clearinghouse standards and generalization of single-case design evidence. Journal of Behavioral Education, 24(4), 459–469.
+tags:
+- single-case-design
+- What-Works-Clearinghouse
+- generalization
+- external-validity
+- research-methodology
+- evidence-based-education
+related_concepts:
+- '[[What Works Clearinghouse (WWC)]]'
+- '[[WWC SCD Pilot Standards 2010]]'
+- '[[Single-Case Design (SCD)]]'
+- '[[5-3-20 Rule]]'
+- '[[Gating Procedure]]'
+- '[[Evidence-Based Education]]'
+related_theories:
+- '[[Campbellian Validity Framework]]'
+related_methods:
+- '[[Single-Case Design (SCD)]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Hitchcock_2015_JBE]]'
+part_of: ''
 status: draft
-created: 2026-05-02
-updated: 2026-05-05
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

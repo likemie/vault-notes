@@ -1,16 +1,41 @@
 ---
 title: Argument_Qvortrup_2019_NordSTEP
+summary: ''
 type: argument
-citation: "Qvortrup, L. (2019). Visible learning and its enemies – the missing link. Nordic Journal of Studies in Educational Policy, 5(1), 3–7."
-tags: [visible-learning, evidence-based-education, professional-judgment, region/denmark, stance/support]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Professional Judgment]]", "[[Interpretation Community]]", "[[Structural Coupling]]", "[[Meta-analysis]]"]
-related_theories: ["[[Bounded Rationality]]"]
-related_persons: ["[[John Hattie]]", "[[Donald A. Schön]]", "[[Herbert A. Simon]]", "[[Thomas Aastrup Rømer]]"]
-related_methods: ["[[Meta-analysis]]"]
-sources: ["sources/Qvortrup_2019_NordSTEP.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Nordic Journal of Studies in Educational Policy
+citation: Qvortrup, L. (2019). Visible learning and its enemies – the missing link. Nordic Journal of Studies in Educational Policy, 5(1), 3–7.
+tags:
+- visible-learning
+- evidence-based-education
+- professional-judgment
+- region/denmark
+- stance/support
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Professional Judgment]]'
+- '[[Interpretation Community]]'
+- '[[Structural Coupling]]'
+- '[[Meta-analysis]]'
+related_theories:
+- '[[Bounded Rationality]]'
+related_methods:
+- '[[Meta-analysis]]'
+related_persons:
+- '[[John Hattie]]'
+- '[[Donald A. Schön]]'
+- '[[Herbert A. Simon]]'
+- '[[Thomas Aastrup Rømer]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Qvortrup_2019_NordSTEP]]'
+part_of: ''
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

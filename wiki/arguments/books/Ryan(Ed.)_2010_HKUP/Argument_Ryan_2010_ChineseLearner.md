@@ -1,19 +1,37 @@
 ---
 title: Argument_Ryan_2010_ChineseLearner
+summary: ''
 type: argument
-citation: "Ryan, J. (2010). The Chinese Learner: Misconceptions and Realities. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 37–56). Hong Kong University Press."
-tags: [region/china, region/hongkong, level/higher-ed, level/k12, theme/cross-cultural]
-related_concepts: ["[[Chinese Learner]]", "[[Stereotype Threat]]", "[[Meta-Cultural Sensitivity]]", "[[Orientalism]]"]
-related_theories: ["[[Hofstede's Cultural Dimensions]]"]
+subtype: book-chapter
+publication_type: book
+book_title: International Education and the Chinese Learner
+citation: 'Ryan, J. (2010). The Chinese Learner: Misconceptions and Realities. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 37–56). Hong Kong University Press.'
+tags:
+- region/china
+- region/hongkong
+- level/higher-ed
+- level/k12
+- theme/cross-cultural
+related_concepts:
+- '[[Chinese Learner]]'
+- '[[Stereotype Threat]]'
+- '[[Meta-Cultural Sensitivity]]'
+- '[[Orientalism]]'
+related_theories:
+- '[[Hofstede''s Cultural Dimensions]]'
 related_methods: []
 related_persons: []
-related_facts: ["[[China Basic Education Curriculum Reform 2001]]"]
-related_arguments: ["[[Argument_Ryan_2010_HKUP]]", "[[Argument_Slethaug_2010_InternationalEducation]]"]
-sources: ["[[Ch2_Ryan_2010]]"]
-part_of: "[[Ryan(Ed.)_2010_HKUP]]"
+related_facts:
+- '[[China Basic Education Curriculum Reform 2001]]'
+related_arguments:
+- '[[Argument_Ryan_2010_HKUP]]'
+- '[[Argument_Slethaug_2010_InternationalEducation]]'
+sources:
+- '[[Ch2_Ryan_2010]]'
+part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
-created: 2026-05-17
-updated: 2026-05-17
+created: '2026-05-17'
+updated: '2026-05-18'
 ---
 
 # Argument_Ryan_2010_ChineseLearner

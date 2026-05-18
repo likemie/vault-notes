@@ -1,15 +1,37 @@
 ---
 title: Argument_Nielsen_2021
+summary: ''
 type: argument
-citation: "Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational psychology. International Review of Theoretical Psychologies, 1(1), 78-92."
-tags: [Visible Learning, legitimation-crisis, technical-rationality, Habermas, evidence-based-education, stance/critique]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]"]
-related_theories: ["[[Technical Rationality]]"]
-related_persons: ["[[John Hattie]]", "[[Jürgen Habermas]]", "[[Klaus Nielsen]]", "[[Jacob Klitmøller]]"]
-sources: ["sources/Nielsen_2021_IRTP.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: International Review of Theoretical Psychologies
+citation: Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational psychology. International Review of Theoretical Psychologies, 1(1), 78-92.
+tags:
+- Visible Learning
+- legitimation-crisis
+- technical-rationality
+- Habermas
+- evidence-based-education
+- stance/critique
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+related_theories:
+- '[[Technical Rationality]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Jürgen Habermas]]'
+- '[[Klaus Nielsen]]'
+- '[[Jacob Klitmøller]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Nielsen_2021_IRTP]]'
+part_of: ''
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

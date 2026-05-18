@@ -1,16 +1,36 @@
 ---
 title: Argument_Keddie_2020_JEAH
+summary: ''
 type: argument
-citation: "Keddie, A., MacDonald, K. C., Blackmore, J., Eacott, S., Gobby, B., Mahoney, C., Niesche, R., & Wilkinson, J. (2020). School autonomy, marketisation and social justice: the plight of principals and schools. *Journal of Educational Administration and History*, 52(4), 432–447."
-tags: [school-autonomy, marketisation, social-justice, principals, region/australia, level/k12]
-related_concepts: ["[[School Autonomy]]", "[[School Leadership]]", "[[New Public Management in Education]]", "[[My School Website]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Journal of Educational Administration and History
+citation: 'Keddie, A., MacDonald, K. C., Blackmore, J., Eacott, S., Gobby, B., Mahoney, C., Niesche, R., & Wilkinson, J. (2020). School autonomy, marketisation and social justice: the plight of principals and schools. *Journal of Educational Administration and History*, 52(4), 432–447.'
+tags:
+- school-autonomy
+- marketisation
+- social-justice
+- principals
+- region/australia
+- level/k12
+related_concepts:
+- '[[School Autonomy]]'
+- '[[School Leadership]]'
+- '[[New Public Management in Education]]'
+- '[[My School Website]]'
 related_theories: []
-related_persons: ["[[Jill Blackmore]]", "[[Helen Gunter]]"]
 related_methods: []
-sources: ["sources/Keddie_2020_JEAH.md"]
+related_persons:
+- '[[Jill Blackmore]]'
+- '[[Helen Gunter]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Keddie_2020_JEAH]]'
+part_of: ''
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

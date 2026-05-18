@@ -1,15 +1,34 @@
 ---
 title: Argument_Blass_2020_JESP
+summary: ''
 type: argument
-citation: "Blass, E. (2020). Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia. Journal of Education & Social Policy, 7(4), 91–97."
-tags: [Visible Learning, evidence-based-education, region/australia, stance/critique]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Problem-Based Learning]]", "[[Surface and Deep Learning]]"]
-related_persons: ["[[John Hattie]]"]
-related_methods: ["[[Meta-analysis]]"]
-sources: ["sources/Blass_2020_JESP.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Journal of Education & Social Policy
+citation: 'Blass, E. (2020). Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia. Journal of Education & Social Policy, 7(4), 91–97.'
+tags:
+- Visible Learning
+- evidence-based-education
+- region/australia
+- stance/critique
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Problem-Based Learning]]'
+- '[[Surface and Deep Learning]]'
+related_theories: []
+related_methods:
+- '[[Meta-analysis]]'
+related_persons:
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Blass_2020_JESP]]'
+part_of: ''
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

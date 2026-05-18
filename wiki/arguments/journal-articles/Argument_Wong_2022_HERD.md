@@ -1,13 +1,29 @@
 ---
 title: Argument_Wong_2022_HERD
+summary: ''
 type: argument
-citation: "Wong, B., Chiu, Y. L. T., Copsey-Blake, M., & Nikolopoulou, M. (2022). A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355."
-tags: [graduate-attributes, ideal-graduate, level/higher-ed, region/uk]
-related_concepts: ["[[Graduate Attributes]]"]
-sources: ["sources/Wong_2022_HERD.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Higher Education Research & Development
+citation: 'Wong, B., Chiu, Y. L. T., Copsey-Blake, M., & Nikolopoulou, M. (2022). A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355.'
+tags:
+- graduate-attributes
+- ideal-graduate
+- level/higher-ed
+- region/uk
+related_concepts:
+- '[[Graduate Attributes]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wong_2022_HERD]]'
+part_of: ''
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

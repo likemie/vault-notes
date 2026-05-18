@@ -1,15 +1,38 @@
 ---
 title: Argument_Larsen_2019_EducSci
+summary: ''
 type: argument
-citation: "Larsen, S. N. (2019). Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education. Education Sciences, 9(1), 47."
-tags: [Visible Learning, Bildung, paradigm/critical, stance/critique]
-related_concepts: ["[[Visible Learning]]", "[[Bildung]]", "[[Learnification]]", "[[Neuroplasticity]]", "[[Incarnation-Extension Dialectics]]", "[[Blind Spot in Observation]]"]
-related_theories: ["[[Luhmann's Systems Theory]]"]
-related_persons: ["[[John Hattie]]", "[[Gert Biesta]]", "[[Niklas Luhmann]]"]
-sources: ["sources/Larsen_2019_EducSci.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Education Sciences
+citation: 'Larsen, S. N. (2019). Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education. Education Sciences, 9(1), 47.'
+tags:
+- Visible Learning
+- Bildung
+- paradigm/critical
+- stance/critique
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Bildung]]'
+- '[[Learnification]]'
+- '[[Neuroplasticity]]'
+- '[[Incarnation-Extension Dialectics]]'
+- '[[Blind Spot in Observation]]'
+related_theories:
+- '[[Luhmann''s Systems Theory]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Gert Biesta]]'
+- '[[Niklas Luhmann]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Larsen_2019_EducSci]]'
+part_of: ''
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

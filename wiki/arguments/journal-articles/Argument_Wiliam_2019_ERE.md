@@ -1,17 +1,47 @@
 ---
 title: Argument_Wiliam_2019
+summary: ''
 type: argument
-citation: "Wiliam, D. (2019). Some reflections on the role of evidence in improving education. Educational Research and Evaluation, 25(7–8), 392–404. https://doi.org/10.1080/13803611.2019.1617993"
-tags: [evidence-based-education, RCT, meta-analysis, effect-size, validity, teacher-quality, class-size-reduction, ability-grouping, feedback, region/global]
-related_concepts: ["[[Evidence-Based Education]]", "[[Effect Size]]", "[[Programme Fidelity vs Adaptation]]", "[[Local Knowledge in Evidence-Based Policy]]", "[[Validity as Inferences]]"]
-related_theories: ["[[Goldman's Discrimination Theory of Knowledge]]"]
-related_methods: ["[[Randomised Controlled Trials]]", "[[Meta-analysis]]"]
-related_persons: ["[[Dylan Wiliam]]", "[[Adrian Simpson]]", "[[John Hattie]]"]
-sources: ["sources/Wiliam_2019_ERE.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Educational Research and Evaluation
+citation: Wiliam, D. (2019). Some reflections on the role of evidence in improving education. Educational Research and Evaluation, 25(7–8), 392–404. https://doi.org/10.1080/13803611.2019.1617993
+tags:
+- evidence-based-education
+- RCT
+- meta-analysis
+- effect-size
+- validity
+- teacher-quality
+- class-size-reduction
+- ability-grouping
+- feedback
+- region/global
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Effect Size]]'
+- '[[Programme Fidelity vs Adaptation]]'
+- '[[Local Knowledge in Evidence-Based Policy]]'
+- '[[Validity as Inferences]]'
+related_theories:
+- '[[Goldman''s Discrimination Theory of Knowledge]]'
+related_methods:
+- '[[Randomised Controlled Trials]]'
+- '[[Meta-analysis]]'
+related_persons:
+- '[[Dylan Wiliam]]'
+- '[[Adrian Simpson]]'
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wiliam_2019_ERE]]'
+part_of: ''
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
+
 ## 研究问题
 
 作为 ERE 特刊的闭幕反思论文，Wiliam 旨在澄清随机对照试验和系统综述在改进教育成就中可能扮演的角色，并对特刊论文的论点进行综合与延伸。

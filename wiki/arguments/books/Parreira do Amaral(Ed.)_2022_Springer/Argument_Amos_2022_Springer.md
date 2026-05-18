@@ -1,20 +1,57 @@
 ---
 title: Argument_Amos_2022_Springer
-aliases: []
+summary: ''
 type: argument
-citation: "Amos, S. K. (2022). Which Vision of Education for Late Modernity? In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 53–65). Springer."
-tags: [late-modernity, transitology, transhumanism, posthumanism, higher-ed]
-related_concepts: ["[[Transitology]]", "[[Transhumanism]]", "[[New Public Management in Education]]", "[[Posthumanism]]", "[[Sympoiesis]]", "[[Educational Technology Industry]]", "[[Membership-Creating Function of Education]]", "[[Ubuntu]]", "[[Buen Vivir]]", "[[Response-ability]]", "[[Vergegenkunft]]", "[[Mondialisation]]", "[[SF (Haraway)]]", "[[Humosity]]", "[[Learning Analytics]]", "[[Regional University Alliances]]", "[[Knowledge-Based Economy]]", "[[Sputnik Shock 1957]]"]
-related_theories: ["[[Autopoiesis]]", "[[World Society Theory]]", "[[Transition Design]]", "[[Nation Building through Education]]"]
-related_persons: ["[[Robert Cowen]]", "[[Donna Haraway]]", "[[Arturo Escobar]]", "[[Francisco Varela]]", "[[Humberto Maturana]]", "[[Julian Huxley]]"]
+subtype: book-chapter
+publication_type: book
+book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
+citation: 'Amos, S. K. (2022). Which Vision of Education for Late Modernity? In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 53–65). Springer.'
+tags:
+- late-modernity
+- transitology
+- transhumanism
+- posthumanism
+- higher-ed
+related_concepts:
+- '[[Transitology]]'
+- '[[Transhumanism]]'
+- '[[New Public Management in Education]]'
+- '[[Posthumanism]]'
+- '[[Sympoiesis]]'
+- '[[Educational Technology Industry]]'
+- '[[Membership-Creating Function of Education]]'
+- '[[Ubuntu]]'
+- '[[Buen Vivir]]'
+- '[[Response-ability]]'
+- '[[Vergegenkunft]]'
+- '[[Mondialisation]]'
+- '[[SF (Haraway)]]'
+- '[[Humosity]]'
+- '[[Learning Analytics]]'
+- '[[Regional University Alliances]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Sputnik Shock 1957]]'
+related_theories:
+- '[[Autopoiesis]]'
+- '[[World Society Theory]]'
+- '[[Transition Design]]'
+- '[[Nation Building through Education]]'
 related_methods: []
+related_persons:
+- '[[Robert Cowen]]'
+- '[[Donna Haraway]]'
+- '[[Arturo Escobar]]'
+- '[[Francisco Varela]]'
+- '[[Humberto Maturana]]'
+- '[[Julian Huxley]]'
 related_facts: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
-part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
+sources:
+- '[[Ch4_Amos_2022]]'
+part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

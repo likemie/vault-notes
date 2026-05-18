@@ -1,19 +1,47 @@
 ---
 title: Argument_Zapp_2022_Springer
+summary: ''
 type: argument
-citation: "Zapp, M. (2022). Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 143–161). Springer."
-tags: ["region/global", "level/higher-ed"]
-related_concepts: ["[[Organizational Actorhood]]", "[[Otherhood]]", "[[Epistemic Governance]]", "[[University Social Responsibility]]", "[[Knowledge-Based Economy]]", "[[Evidence-Based Education]]", "[[Geopolitics of Knowledge]]", "[[Global Universities Rankings]]", "[[International Education Hubs]]", "[[Scientization of Politics]]", "[[Epistemic Drift]]"]
-related_theories: ["[[World Society Theory]]"]
+subtype: book-chapter
+publication_type: book
+book_title: Geopolitical Transformations in Higher Education
+citation: Zapp, M. (2022). Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 143–161). Springer.
+tags:
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Organizational Actorhood]]'
+- '[[Otherhood]]'
+- '[[Epistemic Governance]]'
+- '[[University Social Responsibility]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Evidence-Based Education]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Global Universities Rankings]]'
+- '[[International Education Hubs]]'
+- '[[Scientization of Politics]]'
+- '[[Epistemic Drift]]'
+related_theories:
+- '[[World Society Theory]]'
 related_methods: []
-related_persons: ["[[John W. Meyer]]", "[[Ellen Hazelkorn]]", "[[Jane Knight]]", "[[Sami Moisio]]"]
-related_facts: ["[[UN Sustainable Development Goals 2015]]", "[[THE Impact Ranking 2019]]"]
-related_arguments: ["[[Argument_Parreira do Amaral_2022_Springer]]", "[[Argument_Moisio_2022_Springer]]", "[[Argument_Boyadjieva_2022_Springer]]"]
-sources: ["[[Ch9_Zapp_2022]]"]
-part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
+related_persons:
+- '[[John W. Meyer]]'
+- '[[Ellen Hazelkorn]]'
+- '[[Jane Knight]]'
+- '[[Sami Moisio]]'
+related_facts:
+- '[[UN Sustainable Development Goals 2015]]'
+- '[[THE Impact Ranking 2019]]'
+related_arguments:
+- '[[Argument_Parreira do Amaral_2022_Springer]]'
+- '[[Argument_Moisio_2022_Springer]]'
+- '[[Argument_Boyadjieva_2022_Springer]]'
+sources:
+- '[[Ch9_Zapp_2022]]'
+part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
-created: 2026-05-11
-updated: 2026-05-12
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Argument_Zapp_2022_Springer

@@ -1,15 +1,42 @@
 ---
 title: Argument_Hattie_2010_NZJES
+summary: ''
 type: argument
-citation: "Hattie, J. (2010). On being a 'critic and conscience of society': The role of the education academic in public debates. New Zealand Journal of Educational Studies, 45(1), 85–96."
-tags: [Visible Learning, evidence-based-education, stance/support, region/new-zealand]
-related_concepts: ["[[Visible Learning]]", "[[Effect Size]]", "[[Class Size]]", "[[Performance Pay]]", "[[Critic and Conscience of Society]]", "[[Argument_Snook_2009_NZJES]]", "[[Argument_Snook_2010_NZJES]]", "[[Argument_Grace_2010_NZJES]]"]
-related_persons: ["[[John Hattie]]", "[[Gerald Grace]]"]
-related_facts: ["[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"]
-sources: ["sources/Snook_2009_NZJES.md", "sources/Hattie_2010_NZJES.md", "sources/Grace_2010_NZJES.md", "sources/Snook_2010_NZJES.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: New Zealand Journal of Educational Studies
+citation: 'Hattie, J. (2010). On being a ''critic and conscience of society'': The role of the education academic in public debates. New Zealand Journal of Educational Studies, 45(1), 85–96.'
+tags:
+- Visible Learning
+- evidence-based-education
+- stance/support
+- region/new-zealand
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Effect Size]]'
+- '[[Class Size]]'
+- '[[Performance Pay]]'
+- '[[Critic and Conscience of Society]]'
+- '[[Argument_Snook_2009_NZJES]]'
+- '[[Argument_Snook_2010_NZJES]]'
+- '[[Argument_Grace_2010_NZJES]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Gerald Grace]]'
+related_facts:
+- '[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]'
+related_arguments: []
+sources:
+- '[[Snook_2009_NZJES]]'
+- '[[Hattie_2010_NZJES]]'
+- '[[Grace_2010_NZJES]]'
+- '[[Snook_2010_NZJES]]'
+part_of: ''
 status: draft
-created: 2026-05-06
-updated: 2026-05-07
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

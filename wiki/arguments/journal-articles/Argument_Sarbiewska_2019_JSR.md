@@ -1,15 +1,40 @@
 ---
 title: Argument_Sarbiewska_2019_JSR
+summary: ''
 type: argument
-citation: "Sarbiewska, A. (2019). Visible Learning and educational policies in New Zealand and Australia. Język-Szkoła-Rodzina, 16, 117–129."
-tags: [Visible Learning, Evidence-Based Education, region/newzealand, region/australia, level/k12]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Effect Size]]", "[[The New Zealand Curriculum]]", "[[Australian Curriculum]]", "[[Victorian HITS and Literacy Toolkit 2017]]", "[[Gonski Reforms]]", "[[Tomorrow's Schools Reforms (NZ 1989)]]"]
-related_theories: ["[[Radical Constructivism]]"]
-related_persons: ["[[John Hattie]]", "[[Dietrich Benner]]"]
-sources: ["sources/Sarbiewska_2019_JSR.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Język-Szkoła-Rodzina
+citation: Sarbiewska, A. (2019). Visible Learning and educational policies in New Zealand and Australia. Język-Szkoła-Rodzina, 16, 117–129.
+tags:
+- Visible Learning
+- Evidence-Based Education
+- region/newzealand
+- region/australia
+- level/k12
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Effect Size]]'
+- '[[The New Zealand Curriculum]]'
+- '[[Australian Curriculum]]'
+- '[[Victorian HITS and Literacy Toolkit 2017]]'
+- '[[Gonski Reforms]]'
+- '[[Tomorrow''s Schools Reforms (NZ 1989)]]'
+related_theories:
+- '[[Radical Constructivism]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Dietrich Benner]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Sarbiewska_2019_JSR]]'
+part_of: ''
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

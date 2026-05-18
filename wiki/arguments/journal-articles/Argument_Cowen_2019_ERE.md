@@ -1,16 +1,38 @@
 ---
 title: Argument_Cowen_2019_ERE
+summary: ''
 type: argument
-citation: "Cowen, N. (2019). For whom does 'what works' work? The political economy of evidence-based education. Educational Research and Evaluation, 25(1–2), 81–98. DOI: 10.1080/13803611.2019.1617991"
-tags: [evidence-based-education, political-economy, public-choice, Tullock, bureaucracy, RCT, paradigm/critical, region/uk, region/us]
-related_concepts: ["[[Evidence-Based Education]]"]
-related_theories: ["[[Tullock's Bureaucracy Theory]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Educational Research and Evaluation
+citation: 'Cowen, N. (2019). For whom does ''what works'' work? The political economy of evidence-based education. Educational Research and Evaluation, 25(1–2), 81–98. DOI: 10.1080/13803611.2019.1617991'
+tags:
+- evidence-based-education
+- political-economy
+- public-choice
+- Tullock
+- bureaucracy
+- RCT
+- paradigm/critical
+- region/uk
+- region/us
+related_concepts:
+- '[[Evidence-Based Education]]'
+related_theories:
+- '[[Tullock''s Bureaucracy Theory]]'
 related_methods: []
-related_persons: ["[[Nick Cowen]]", "[[Gordon Tullock]]", "[[Gert Biesta]]"]
-sources: ["sources/Cowen_2019_ERE.md"]
+related_persons:
+- '[[Nick Cowen]]'
+- '[[Gordon Tullock]]'
+- '[[Gert Biesta]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Cowen_2019_ERE]]'
+part_of: ''
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

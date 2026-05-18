@@ -1,16 +1,36 @@
 ---
 title: Argument_Simpson_2019
+summary: ''
 type: argument
-citation: "Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. Educational Research and Evaluation, 25(1-2), 99-109."
-tags: [effect-size, evidence-based-education, category-error, methodology, statistics, stance/critique]
-related_concepts: ["[[Effect Size]]", "[[Evidence-Based Education]]", "[[Visible Learning]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Educational Research and Evaluation
+citation: 'Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. Educational Research and Evaluation, 25(1-2), 99-109.'
+tags:
+- effect-size
+- evidence-based-education
+- category-error
+- methodology
+- statistics
+- stance/critique
+related_concepts:
+- '[[Effect Size]]'
+- '[[Evidence-Based Education]]'
+- '[[Visible Learning]]'
 related_theories: []
 related_methods: []
-related_persons: ["[[Adrian Simpson]]", "[[John Hattie]]", "[[Gene Glass]]"]
-sources: ["sources/Simpson_2019_ERE.md"]
+related_persons:
+- '[[Adrian Simpson]]'
+- '[[John Hattie]]'
+- '[[Gene Glass]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Simpson_2019_ERE]]'
+part_of: ''
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

@@ -1,19 +1,39 @@
 ---
 title: Argument_Slethaug_2010_InternationalEducation
+summary: ''
 type: argument
-citation: "Slethaug, G. (2010). Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 15–36). Hong Kong University Press."
-tags: [region/global, region/china, level/k12, level/higher-ed]
-related_concepts: ["[[International Education]]", "[[International Schools]]", "[[International Baccalaureate (IB)]]", "[[Boarding Schools]]", "[[Chinese Learner]]", "[[Global Universities Rankings]]"]
+subtype: book-chapter
+publication_type: book
+book_title: International Education and the Chinese Learner
+citation: 'Slethaug, G. (2010). Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 15–36). Hong Kong University Press.'
+tags:
+- region/global
+- region/china
+- level/k12
+- level/higher-ed
+related_concepts:
+- '[[International Education]]'
+- '[[International Schools]]'
+- '[[International Baccalaureate (IB)]]'
+- '[[Boarding Schools]]'
+- '[[Chinese Learner]]'
+- '[[Global Universities Rankings]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[PISA]]", "[[Education City Doha]]", "[[Academic Ranking of World Universities (ARWU)]]"]
-related_arguments: ["[[Argument_Ryan_2010_HKUP]]", "[[Argument_Ryan_2010_ChineseLearner]]"]
-sources: ["[[Ch1_Slethaug_2010]]"]
-part_of: "[[Argument_Ryan_2010_HKUP]]"
+related_facts:
+- '[[PISA]]'
+- '[[Education City Doha]]'
+- '[[Academic Ranking of World Universities (ARWU)]]'
+related_arguments:
+- '[[Argument_Ryan_2010_HKUP]]'
+- '[[Argument_Ryan_2010_ChineseLearner]]'
+sources:
+- '[[Ch1_Slethaug_2010]]'
+part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
-created: 2026-05-17
-updated: 2026-05-17
+created: '2026-05-17'
+updated: '2026-05-18'
 ---
 
 # Argument_Slethaug_2010_InternationalEducation

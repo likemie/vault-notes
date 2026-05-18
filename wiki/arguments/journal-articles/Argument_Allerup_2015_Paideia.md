@@ -1,16 +1,40 @@
 ---
 title: Argument_Allerup_2015_Paideia
+summary: ''
 type: argument
-citation: "Allerup, P. (2015). Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser. Paideia, 9, 42-51."
-tags: [Visible-Learning, effect-size, meta-meta-analysis, methodology-critique, statistics, subject/research-methodology]
-related_concepts: ["[[Visible Learning]]", "[[Effect Size]]", "[[Statistical Significance]]", "[[Confidence Interval]]"]
-related_methods: ["[[Meta-meta-analysis]]", "[[Meta-analysis]]", "[[Covariate Adjustment]]", "[[Rasch Measurement]]"]
-related_persons: ["[[John Hattie]]", "[[Jacob Cohen]]"]
-sources: ["sources/Allerup_2015_Paideia.md"]
-part_of:
+subtype: journal-article
+publication_type: journal-article
+journal: Paideia
+citation: Allerup, P. (2015). Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser. Paideia, 9, 42-51.
+tags:
+- Visible-Learning
+- effect-size
+- meta-meta-analysis
+- methodology-critique
+- statistics
+- subject/research-methodology
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Effect Size]]'
+- '[[Statistical Significance]]'
+- '[[Confidence Interval]]'
+related_theories: []
+related_methods:
+- '[[Meta-meta-analysis]]'
+- '[[Meta-analysis]]'
+- '[[Covariate Adjustment]]'
+- '[[Rasch Measurement]]'
+related_persons:
+- '[[John Hattie]]'
+- '[[Jacob Cohen]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Allerup_2015_Paideia]]'
+part_of: ''
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

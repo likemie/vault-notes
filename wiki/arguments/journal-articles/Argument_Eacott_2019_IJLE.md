@@ -1,15 +1,35 @@
 ---
 title: Argument_Eacott_2019_IJLE
+summary: ''
 type: argument
-citation: "Eacott, S. (2019). Ranting, raving and complaining: reflections on working against orthodoxy. International Journal of Leadership in Education, 22(6), 774–782."
-tags: [educational-administration, school-leadership, parallel-monologues, neo-taylorism, stance/critique]
-related_concepts: ["[[Parallel Monologues]]", "[[Visible Learning]]", "[[Neo-Taylorism in Educational Administration]]"]
-related_theories: ["[[Pierre Bourdieu]]"]
-related_persons: ["[[Scott Eacott]]", "[[John Hattie]]"]
-sources: ["sources/Eacott_2019_IJLE.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: International Journal of Leadership in Education
+citation: 'Eacott, S. (2019). Ranting, raving and complaining: reflections on working against orthodoxy. International Journal of Leadership in Education, 22(6), 774–782.'
+tags:
+- educational-administration
+- school-leadership
+- parallel-monologues
+- neo-taylorism
+- stance/critique
+related_concepts:
+- '[[Parallel Monologues]]'
+- '[[Visible Learning]]'
+- '[[Neo-Taylorism in Educational Administration]]'
+related_theories:
+- '[[Pierre Bourdieu]]'
+related_methods: []
+related_persons:
+- '[[Scott Eacott]]'
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Eacott_2019_IJLE]]'
+part_of: ''
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

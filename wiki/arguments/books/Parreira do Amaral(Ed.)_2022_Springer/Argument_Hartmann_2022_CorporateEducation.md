@@ -1,19 +1,39 @@
 ---
 title: Argument_Hartmann_2022_CorporateEducation
+summary: ''
 type: argument
-citation: "Hartmann, E. (2022). The Internationalisation of Further Education: Between Geoeconomics and Geopolitics. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 179–198). Springer."
-tags: ["level/adult", "region/global", "subject/comparative-education"]
-related_concepts: ["[[Further Education]]", "[[Corporate Education]]", "[[Corporate University]]", "[[Global Education Industry]]", "[[Knowledge-Based Economy]]", "[[Geopolitical Subject]]", "[[Varieties of Capitalism]]"]
-related_theories: ["[[Institutional Isomorphism]]", "[[Critical Geopolitics]]"]
+subtype: book-chapter
+publication_type: book
+book_title: Geopolitical Transformations in Higher Education
+citation: 'Hartmann, E. (2022). The Internationalisation of Further Education: Between Geoeconomics and Geopolitics. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 179–198). Springer.'
+tags:
+- level/adult
+- region/global
+- subject/comparative-education
+related_concepts:
+- '[[Further Education]]'
+- '[[Corporate Education]]'
+- '[[Corporate University]]'
+- '[[Global Education Industry]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Geopolitical Subject]]'
+- '[[Varieties of Capitalism]]'
+related_theories:
+- '[[Institutional Isomorphism]]'
+- '[[Critical Geopolitics]]'
 related_methods: []
-related_persons: ["[[Sami Moisio]]", "[[Max Weber]]"]
+related_persons:
+- '[[Sami Moisio]]'
+- '[[Max Weber]]'
 related_facts: []
-related_arguments: ["[[Argument_Moisio_2022_Springer]]"]
-sources: ["[[Ch11_Hartmann_2022]]"]
-part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
+related_arguments:
+- '[[Argument_Moisio_2022_Springer]]'
+sources:
+- '[[Ch11_Hartmann_2022]]'
+part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
-created: 2026-05-18
-updated: 2026-05-18
+created: '2026-05-18'
+updated: '2026-05-18'
 ---
 
 # Argument_Hartmann_2022_CorporateEducation

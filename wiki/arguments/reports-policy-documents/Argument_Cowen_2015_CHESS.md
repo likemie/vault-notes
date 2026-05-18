@@ -1,16 +1,38 @@
 ---
 title: Argument_Cowen_2015_CHESS
+summary: ''
 type: argument
-citation: "Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). Making the Most of the Evidence: Evidence-based policy in the classroom. CHESS Working Paper No. 2015-03, Durham University."
-tags: [evidence-based-education, policy-implementation, RCT, local-knowledge, EEF, fidelity, region/uk, level/k12]
-related_concepts: ["[[Evidence-Based Education]]", "[[Programme Fidelity vs Adaptation]]", "[[Local Knowledge in Evidence-Based Policy]]"]
-related_theories: ["[[Cartwright's Three-Stage Knowledge Framework]]", "[[Tullock's Bureaucracy Theory]]"]
-related_methods: ["[[Elite Interview Method]]"]
+subtype: report
+publication_type: report
+issuing_organization: Durham University
+citation: 'Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). Making the Most of the Evidence: Evidence-based policy in the classroom. CHESS Working Paper No. 2015-03, Durham University.'
+tags:
+- evidence-based-education
+- policy-implementation
+- RCT
+- local-knowledge
+- EEF
+- fidelity
+- region/uk
+- level/k12
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Programme Fidelity vs Adaptation]]'
+- '[[Local Knowledge in Evidence-Based Policy]]'
+related_theories:
+- '[[Cartwright''s Three-Stage Knowledge Framework]]'
+- '[[Tullock''s Bureaucracy Theory]]'
+related_methods:
+- '[[Elite Interview Method]]'
 related_persons: []
-sources: ["sources/Cowen_2015_CHESS.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Cowen_2015_CHESS]]'
+part_of: ''
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

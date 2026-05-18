@@ -1,15 +1,37 @@
 ---
 title: Argument_Peterson_2016_IJRME
+summary: ''
 type: argument
-citation: "Peterson, A. (2016). Getting 'What Works' working: building blocks for the integration of experimental and improvement science. International Journal of Research & Method in Education, 39(3), 299–313."
-tags: [evidence-based-education, mechanism-experiments, improvement-science, black-box-RCTs, what-works, research-methodology]
-related_concepts: ["[[Evidence-Based Education]]", "[[Mechanism Experiments]]", "[[Improvement Science]]", "[[Black Box RCTs]]", "[[Spirals of Inquiry]]"]
-related_theories: ["[[Cartwright's Three-Stage Knowledge Framework]]"]
-related_methods: ["[[Randomised Controlled Trials]]"]
-sources: ["sources/Peterson_2016_IJRME.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: International Journal of Research & Method in Education
+citation: 'Peterson, A. (2016). Getting ''What Works'' working: building blocks for the integration of experimental and improvement science. International Journal of Research & Method in Education, 39(3), 299–313.'
+tags:
+- evidence-based-education
+- mechanism-experiments
+- improvement-science
+- black-box-RCTs
+- what-works
+- research-methodology
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Mechanism Experiments]]'
+- '[[Improvement Science]]'
+- '[[Black Box RCTs]]'
+- '[[Spirals of Inquiry]]'
+related_theories:
+- '[[Cartwright''s Three-Stage Knowledge Framework]]'
+related_methods:
+- '[[Randomised Controlled Trials]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Peterson_2016_IJRME]]'
+part_of: ''
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

@@ -1,16 +1,40 @@
 ---
 title: Argument_Wrigley_2018_BERJ
+summary: ''
 type: argument
-citation: "Wrigley, T. (2018). The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376. DOI: 10.1002/berj.3338"
-tags: [evidence-based-education, evidence-based-teaching, RCT, meta-analysis, meta-meta-analysis, Hattie, EEF-Toolkit, critical-realism, neoliberalism, paradigm/critical, region/uk]
-related_concepts: ["[[Evidence-Based Education]]", "[[Evidence-Based Reform]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: British Educational Research Journal
+citation: 'Wrigley, T. (2018). The power of ''evidence'': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376. DOI: 10.1002/berj.3338'
+tags:
+- evidence-based-education
+- evidence-based-teaching
+- RCT
+- meta-analysis
+- meta-meta-analysis
+- Hattie
+- EEF-Toolkit
+- critical-realism
+- neoliberalism
+- paradigm/critical
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
 related_theories: []
 related_methods: []
-related_persons: ["[[Terry Wrigley]]", "[[Gert Biesta]]", "[[Robert Slavin]]"]
-sources: ["sources/Wrigley_2018_BERJ.md"]
+related_persons:
+- '[[Terry Wrigley]]'
+- '[[Gert Biesta]]'
+- '[[Robert Slavin]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wrigley_2018_BERJ]]'
+part_of: ''
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

@@ -1,17 +1,46 @@
 ---
 title: Argument_Marginson_2025_ROE
+summary: ''
 type: argument
-citation: "Marginson, S. (2025). Space, power, and globalization: On the geopolitics of higher education. ECNU Review of Education, 9(2), 1–39."
-tags: [theme/geopolitics, theme/spatiality, level/higher-ed, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Space-Making in Higher Education]]", "[[Multiplicity (Massey)]]", "[[Methodological Nationalism]]", "[[Methodological Globalism]]", "[[Sovereign Internationalism]]", "[[Radical Liberal Internationalism]]", "[[Double Spatiality of Universities]]", "[[Classical Geopolitics]]", "[[Internationalization of Higher Education]]", "[[Global Universities Rankings]]", "[[Scale in Higher Education]]", "[[Power-Geometries]]", "[[Semi-Autonomy of Higher Education]]"]
-related_theories: ["[[World-Systems Theory]]", "[[Hegemony]]"]
-related_persons: ["[[Doreen Massey]]"]
-related_facts: ["[[Academic Ranking of World Universities (ARWU)]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: ECNU Review of Education
+citation: 'Marginson, S. (2025). Space, power, and globalization: On the geopolitics of higher education. ECNU Review of Education, 9(2), 1–39.'
+tags:
+- theme/geopolitics
+- theme/spatiality
+- level/higher-ed
+- region/global
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Space-Making in Higher Education]]'
+- '[[Multiplicity (Massey)]]'
+- '[[Methodological Nationalism]]'
+- '[[Methodological Globalism]]'
+- '[[Sovereign Internationalism]]'
+- '[[Radical Liberal Internationalism]]'
+- '[[Double Spatiality of Universities]]'
+- '[[Classical Geopolitics]]'
+- '[[Internationalization of Higher Education]]'
+- '[[Global Universities Rankings]]'
+- '[[Scale in Higher Education]]'
+- '[[Power-Geometries]]'
+- '[[Semi-Autonomy of Higher Education]]'
+related_theories:
+- '[[World-Systems Theory]]'
+- '[[Hegemony]]'
+related_methods: []
+related_persons:
+- '[[Doreen Massey]]'
+related_facts:
+- '[[Academic Ranking of World Universities (ARWU)]]'
 related_arguments: []
-sources: ["[[Marginson_2025_ROE]]"]
+sources:
+- '[[Marginson_2025_ROE]]'
+part_of: ''
 status: draft
-created: 2026-05-12
-updated: 2026-05-12
+created: '2026-05-12'
+updated: '2026-05-18'
 ---
 
 # Argument_Marginson_2025_ROE

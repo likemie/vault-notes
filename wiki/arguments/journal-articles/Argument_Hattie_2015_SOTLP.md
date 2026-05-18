@@ -1,16 +1,36 @@
 ---
 title: Argument_Hattie_2015_SOTLP
+summary: ''
 type: argument
-citation: "Hattie, J. (2015). The applicability of Visible Learning to higher education. Scholarship of Teaching and Learning in Psychology, 1(1), 79–91."
-tags: [Visible Learning, higher-education, level/higher-ed]
-related_concepts: ["[[Visible Learning]]", "[[Problem-Based Learning]]", "[[Surface and Deep Learning]]", "[[Constructive Alignment]]", "[[Feedback]]", "[[Class Size]]"]
-related_persons: ["[[John Hattie]]", "[[John Biggs]]"]
-related_methods: ["[[Meta-analysis]]"]
-sources: ["sources/Hattie_2015_SOTLP.md"]
-part_of:
+subtype: journal-article
+publication_type: journal-article
+journal: Scholarship of Teaching and Learning in Psychology
+citation: Hattie, J. (2015). The applicability of Visible Learning to higher education. Scholarship of Teaching and Learning in Psychology, 1(1), 79–91.
+tags:
+- Visible Learning
+- higher-education
+- level/higher-ed
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Problem-Based Learning]]'
+- '[[Surface and Deep Learning]]'
+- '[[Constructive Alignment]]'
+- '[[Feedback]]'
+- '[[Class Size]]'
+related_theories: []
+related_methods:
+- '[[Meta-analysis]]'
+related_persons:
+- '[[John Hattie]]'
+- '[[John Biggs]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Hattie_2015_SOTLP]]'
+part_of: ''
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

@@ -1,15 +1,36 @@
 ---
 title: Argument_Bergeron_2017_MJE
+summary: ''
 type: argument
-citation: "Bergeron, P.-J. & Rivard, L. (2017). How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician. McGill Journal of Education, 52(1), 237-246."
-tags: [Visible-Learning, effect-size, meta-analysis, pseudoscience, methodology-critique, statistics, subject/research-methodology]
-related_concepts: ["[[Visible Learning]]", "[[Effect Size]]", "[[Meta-analysis]]"]
-related_persons: ["[[John Hattie]]"]
-related_methods: ["[[Meta-analysis]]"]
-sources: ["sources/Bergeron_2017_MJE.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: McGill Journal of Education
+citation: 'Bergeron, P.-J. & Rivard, L. (2017). How to engage in pseudoscience with real data: A criticism of John Hattie''s arguments in Visible Learning from the perspective of a statistician. McGill Journal of Education, 52(1), 237-246.'
+tags:
+- Visible-Learning
+- effect-size
+- meta-analysis
+- pseudoscience
+- methodology-critique
+- statistics
+- subject/research-methodology
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Effect Size]]'
+- '[[Meta-analysis]]'
+related_theories: []
+related_methods:
+- '[[Meta-analysis]]'
+related_persons:
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Bergeron_2017_MJE]]'
+part_of: ''
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

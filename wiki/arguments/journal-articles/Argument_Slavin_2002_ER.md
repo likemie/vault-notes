@@ -1,16 +1,39 @@
 ---
 title: Argument_Slavin_2002_ER
+summary: ''
 type: argument
-citation: "Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. Educational Researcher, 31(7), 15–21."
-tags: [evidence-based-education, evidence-based-reform, RCT, policy, Comprehensive-School-Reform, No-Child-Left-Behind, level/k12, region/us]
-related_concepts: ["[[Evidence-Based Education]]", "[[Evidence-Based Reform]]", "[[Scientifically Based Research vs Rigorously Evaluated Programs]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Educational Researcher
+citation: 'Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. Educational Researcher, 31(7), 15–21.'
+tags:
+- evidence-based-education
+- evidence-based-reform
+- RCT
+- policy
+- Comprehensive-School-Reform
+- No-Child-Left-Behind
+- level/k12
+- region/us
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
+- '[[Scientifically Based Research vs Rigorously Evaluated Programs]]'
 related_theories: []
-related_methods: ["[[Randomized Experiment in Education]]", "[[Matched Experiment]]"]
-related_persons: ["[[Robert Slavin]]", "[[Grover Whitehurst]]"]
-sources: ["sources/Slavin_2002_ER.md"]
+related_methods:
+- '[[Randomized Experiment in Education]]'
+- '[[Matched Experiment]]'
+related_persons:
+- '[[Robert Slavin]]'
+- '[[Grover Whitehurst]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Slavin_2002_ER]]'
+part_of: ''
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

@@ -1,15 +1,35 @@
 ---
 title: Argument_Golovchin_2019_ESC
+summary: ''
 type: argument
-citation: "Golovchin M.A. (2019). What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education. *Economic and Social Changes: Facts, Trends, Forecast*, 12(5), 229–242."
-tags: [Visible Learning, evidence-based-education, policy-borrowing, region/russia, meta-analysis]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Policy Borrowing]]", "[[Effect Size]]"]
-related_persons: ["[[John Hattie]]"]
-related_methods: ["[[Meta-analysis]]"]
-sources: ["sources/Golovchin_2019_ESC.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: 'Economic and Social Changes: Facts, Trends, Forecast'
+citation: 'Golovchin M.A. (2019). What kind of teacher does the ''school of the future'' need? Possibility of using John Hattie''s approach in Russian education. *Economic and Social Changes: Facts, Trends, Forecast*, 12(5), 229–242.'
+tags:
+- Visible Learning
+- evidence-based-education
+- policy-borrowing
+- region/russia
+- meta-analysis
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Policy Borrowing]]'
+- '[[Effect Size]]'
+related_theories: []
+related_methods:
+- '[[Meta-analysis]]'
+related_persons:
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Golovchin_2019_ESC]]'
+part_of: ''
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

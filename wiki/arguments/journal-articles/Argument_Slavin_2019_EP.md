@@ -1,16 +1,35 @@
 ---
 title: Argument_Slavin_2019_EP
+summary: ''
 type: argument
-citation: "Slavin, R. E. (2019). How Evidence-Based Reform Will Transform Research and Practice in Education. Educational Psychologist, 55(1), 1–13. DOI: 10.1080/00461520.2019.1611432"
-tags: [evidence-based-education, evidence-based-reform, ESSA, RCT, RTI, policy, paradigm/positivist, region/us]
-related_concepts: ["[[Evidence-Based Education]]", "[[Evidence-Based Reform]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Educational Psychologist
+citation: 'Slavin, R. E. (2019). How Evidence-Based Reform Will Transform Research and Practice in Education. Educational Psychologist, 55(1), 1–13. DOI: 10.1080/00461520.2019.1611432'
+tags:
+- evidence-based-education
+- evidence-based-reform
+- ESSA
+- RCT
+- RTI
+- policy
+- paradigm/positivist
+- region/us
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
 related_theories: []
 related_methods: []
-related_persons: ["[[Robert Slavin]]"]
-sources: ["sources/Slavin_2019_EP.md"]
+related_persons:
+- '[[Robert Slavin]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Slavin_2019_EP]]'
+part_of: ''
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

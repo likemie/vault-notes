@@ -1,16 +1,36 @@
 ---
 title: Argument_Slavin_2021_ROE
+summary: ''
 type: argument
-citation: "Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24."
-tags: [Evidence-Based Reform, Evidence-Based Education, region/china, region/us, region/uk, level/k12]
-related_concepts: ["[[Evidence-Based Reform]]", "[[Evidence-Based Education]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: ECNU Review of Education
+citation: Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24.
+tags:
+- Evidence-Based Reform
+- Evidence-Based Education
+- region/china
+- region/us
+- region/uk
+- level/k12
+related_concepts:
+- '[[Evidence-Based Reform]]'
+- '[[Evidence-Based Education]]'
 related_theories: []
-related_methods: ["[[Randomised Controlled Trials]]"]
-related_persons: ["[[Robert Slavin]]", "[[Alan C. K. Cheung]]", "[[Tengteng Zhuang]]"]
-sources: ["sources/Slavin_2021_ROE.md"]
+related_methods:
+- '[[Randomised Controlled Trials]]'
+related_persons:
+- '[[Robert Slavin]]'
+- '[[Alan C. K. Cheung]]'
+- '[[Tengteng Zhuang]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Slavin_2021_ROE]]'
+part_of: ''
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

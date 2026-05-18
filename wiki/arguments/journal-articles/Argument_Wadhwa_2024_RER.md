@@ -1,16 +1,35 @@
 ---
 title: Argument_Wadhwa_2024_RER
+summary: ''
 type: argument
-citation: "Wadhwa, M., Zheng, J., & Cook, T. D. (2024). How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs. Review of Educational Research, 94(1), 3–32. https://doi.org/10.3102/00346543231152262"
-tags: [educational-evidence-clearinghouses, evidence-based-education, clearinghouse, what-works, RER, methodology]
-related_concepts: ["[[Educational Evidence Clearinghouses]]", "[[Evidence-Based Education]]", "[[Evidence-Based Reform]]"]
-related_theories: ["[[Campbellian Validity Framework]]"]
-related_methods: ["[[Randomised Controlled Trials]]"]
-sources: ["sources/Wadhwa_2024_RER.md"]
-part_of:
+subtype: journal-article
+publication_type: journal-article
+journal: Review of Educational Research
+citation: Wadhwa, M., Zheng, J., & Cook, T. D. (2024). How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs. Review of Educational Research, 94(1), 3–32. https://doi.org/10.3102/00346543231152262
+tags:
+- educational-evidence-clearinghouses
+- evidence-based-education
+- clearinghouse
+- what-works
+- RER
+- methodology
+related_concepts:
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
+related_theories:
+- '[[Campbellian Validity Framework]]'
+related_methods:
+- '[[Randomised Controlled Trials]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+- '[[Wadhwa_2024_RER]]'
+part_of: ''
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

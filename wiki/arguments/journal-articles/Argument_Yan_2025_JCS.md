@@ -1,16 +1,39 @@
 ---
 title: Argument_Yan_2025_JCS
+summary: ''
 type: argument
-citation: "Yan, K. C. A., & Morris, P. (2025). The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong. Journal of Curriculum Studies, 57(4), 480–494."
-tags: [curriculum-change, hong-kong, liberal-studies, national-education, policy-borrowing, world-culture-theory, region/china, level/k12]
-related_concepts: ["[[Liberal Studies (Hong Kong)]]", "[[Citizenship and Social Development (Hong Kong)]]", "[[Policy Borrowing]]"]
-related_theories: ["[[Cuban's Curriculum Change Theory]]", "[[World Society Theory]]", "[[Policy Borrowing]]"]
-related_methods: ["[[Historical Document Analysis of Curriculum]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Journal of Curriculum Studies
+citation: 'Yan, K. C. A., & Morris, P. (2025). The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong. Journal of Curriculum Studies, 57(4), 480–494.'
+tags:
+- curriculum-change
+- hong-kong
+- liberal-studies
+- national-education
+- policy-borrowing
+- world-culture-theory
+- region/china
+- level/k12
+related_concepts:
+- '[[Liberal Studies (Hong Kong)]]'
+- '[[Citizenship and Social Development (Hong Kong)]]'
+- '[[Policy Borrowing]]'
+related_theories:
+- '[[Cuban''s Curriculum Change Theory]]'
+- '[[World Society Theory]]'
+- '[[Policy Borrowing]]'
+related_methods:
+- '[[Historical Document Analysis of Curriculum]]'
 related_persons: []
-sources: ["sources/Yan_2025_JCS.md"]
+related_facts: []
+related_arguments: []
+sources:
+- '[[Yan_2025_JCS]]'
+part_of: ''
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

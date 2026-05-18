@@ -1,16 +1,39 @@
 ---
 title: Argument_Møller_2017
+summary: ''
 type: argument
-citation: "Møller, J. (2017). Leading education beyond what works. European Educational Research Journal, 16(4), 375–385."
-tags: [school-leadership, evidence-based-education, performativity, stance/critique, region/global]
-related_concepts: ["[[School Leadership]]", "[[Transformative Leadership]]", "[[New Public Management in Education]]", "[[Evidence-Based Education]]", "[[Performativity of Measurement]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: European Educational Research Journal
+citation: Møller, J. (2017). Leading education beyond what works. European Educational Research Journal, 16(4), 375–385.
+tags:
+- school-leadership
+- evidence-based-education
+- performativity
+- stance/critique
+- region/global
+related_concepts:
+- '[[School Leadership]]'
+- '[[Transformative Leadership]]'
+- '[[New Public Management in Education]]'
+- '[[Evidence-Based Education]]'
+- '[[Performativity of Measurement]]'
 related_theories: []
-related_methods: ["[[Randomised Controlled Trials]]"]
-related_persons: ["[[Jorunn Møller]]", "[[Christopher Day]]", "[[Carolyn Shields]]", "[[Helen Gunter]]"]
-sources: ["sources/Møller_2017_EERJ.md"]
+related_methods:
+- '[[Randomised Controlled Trials]]'
+related_persons:
+- '[[Jorunn Møller]]'
+- '[[Christopher Day]]'
+- '[[Carolyn Shields]]'
+- '[[Helen Gunter]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Møller_2017_EERJ]]'
+part_of: ''
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

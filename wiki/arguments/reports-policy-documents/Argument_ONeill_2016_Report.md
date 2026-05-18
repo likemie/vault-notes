@@ -1,16 +1,35 @@
 ---
 title: Argument_ONeill_2016_Report
+summary: ''
 type: argument
-citation: "O'Neill, J., with Duffy, C., & Fernando, S. (2016). Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand. Final report to NZEI Te Riu Roa, NZPPTA Te Wehengarua, and NZPF Ngā Tumuaki o Aotearoa. Massey University."
-tags: [privatisation, philanthropy, policy-entrepreneur, region/new-zealand, level/k12]
-related_concepts: ["[[Educational Management Organisation (EMO)]]", "[[Network Governance]]", "[[Venture Philanthropy]]", "[[Policy Entrepreneur]]", "[[Evidence-Based Education]]"]
+subtype: report
+publication_type: report
+issuing_organization: Massey University
+citation: O'Neill, J., with Duffy, C., & Fernando, S. (2016). Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand. Final report to NZEI Te Riu Roa, NZPPTA Te Wehengarua, and NZPF Ngā Tumuaki o Aotearoa. Massey University.
+tags:
+- privatisation
+- philanthropy
+- policy-entrepreneur
+- region/new-zealand
+- level/k12
+related_concepts:
+- '[[Educational Management Organisation (EMO)]]'
+- '[[Network Governance]]'
+- '[[Venture Philanthropy]]'
+- '[[Policy Entrepreneur]]'
+- '[[Evidence-Based Education]]'
 related_theories: []
-related_persons: ["[[John Hattie]]"]
 related_methods: []
-sources: ["sources/ONeill_2016_Report.md"]
+related_persons:
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[ONeill_2016_Report]]'
+part_of: ''
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

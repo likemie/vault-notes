@@ -1,17 +1,45 @@
 ---
 title: Argument_Bainbridge_2022_ROE
+summary: ''
 type: argument
-citation: "Bainbridge, A., Troppe, T., & Bartley, J. (2022). Responding to research evidence in Parliament: A case study on selective education policy. Review of Education, 10, e3335."
-tags: [evidence-based-policy, selective-education, moral-sidestep, grammar-schools, region/uk]
-related_concepts: ["[[Moral Sidestep]]", "[[Selective Education]]", "[[Grammar School]]", "[[Justified Warrants]]", "[[Evidence-Based Education]]", "[[EEF Teaching and Learning Toolkit]]", "[[Visible Learning]]"]
-related_theories: ["[[Legitimation Theory Van Leeuwen]]"]
-related_facts: ["[[Ofsted]]", "[[Selective Schools Expansion Fund 2018]]", "[[Eleven-plus Exam]]", "[[Education and Inspections Act 2006]]"]
-related_persons: ["[[John Hattie]]", "[[Gert Biesta]]", "[[Terry Wrigley]]"]
-related_methods: ["[[Carnivalesque Analysis]]"]
-sources: ["sources/Bainbridge_2022_ROE.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: Review of Education
+citation: 'Bainbridge, A., Troppe, T., & Bartley, J. (2022). Responding to research evidence in Parliament: A case study on selective education policy. Review of Education, 10, e3335.'
+tags:
+- evidence-based-policy
+- selective-education
+- moral-sidestep
+- grammar-schools
+- region/uk
+related_concepts:
+- '[[Moral Sidestep]]'
+- '[[Selective Education]]'
+- '[[Grammar School]]'
+- '[[Justified Warrants]]'
+- '[[Evidence-Based Education]]'
+- '[[EEF Teaching and Learning Toolkit]]'
+- '[[Visible Learning]]'
+related_theories:
+- '[[Legitimation Theory Van Leeuwen]]'
+related_methods:
+- '[[Carnivalesque Analysis]]'
+related_persons:
+- '[[John Hattie]]'
+- '[[Gert Biesta]]'
+- '[[Terry Wrigley]]'
+related_facts:
+- '[[Ofsted]]'
+- '[[Selective Schools Expansion Fund 2018]]'
+- '[[Eleven-plus Exam]]'
+- '[[Education and Inspections Act 2006]]'
+related_arguments: []
+sources:
+- '[[Bainbridge_2022_ROE]]'
+part_of: ''
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

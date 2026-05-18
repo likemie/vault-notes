@@ -1,16 +1,37 @@
 ---
 title: Argument_Simpson_2017_JEP
+summary: ''
 type: argument
-citation: "Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466."
-tags: [effect-size, meta-analysis, evidence-based-education, methodology, region/uk]
-related_concepts: ["[[Effect Size]]", "[[Evidence-Based Education]]", "[[EEF Teaching and Learning Toolkit]]", "[[Visible Learning]]"]
+subtype: journal-article
+publication_type: journal-article
+journal: Journal of Education Policy
+citation: 'Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466.'
+tags:
+- effect-size
+- meta-analysis
+- evidence-based-education
+- methodology
+- region/uk
+related_concepts:
+- '[[Effect Size]]'
+- '[[Evidence-Based Education]]'
+- '[[EEF Teaching and Learning Toolkit]]'
+- '[[Visible Learning]]'
 related_theories: []
-related_methods: ["[[Meta-analysis]]", "[[Meta-meta-analysis]]"]
-related_persons: ["[[Adrian Simpson]]", "[[John Hattie]]"]
-sources: ["sources/Simpson_2017_JEP.md"]
+related_methods:
+- '[[Meta-analysis]]'
+- '[[Meta-meta-analysis]]'
+related_persons:
+- '[[Adrian Simpson]]'
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Simpson_2017_JEP]]'
+part_of: ''
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 研究问题

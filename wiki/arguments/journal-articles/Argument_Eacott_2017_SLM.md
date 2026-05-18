@@ -1,15 +1,37 @@
 ---
 title: Argument_Eacott_2017_SLM
+summary: ''
 type: argument
-citation: "Eacott, S. (2017). School leadership and the cult of the guru: The neo-Taylorism of Hattie. School Leadership & Management, 37(4), 413–426."
-tags: [school-leadership, neo-taylorism, visible-learning, cult-of-the-guru, stance/critique, region/australia]
-related_concepts: ["[[Cult of the Guru]]", "[[Neo-Taylorism in Educational Administration]]", "[[Visible Learning]]", "[[School Leadership]]"]
-related_theories: ["[[Pierre Bourdieu]]"]
-related_persons: ["[[Scott Eacott]]", "[[John Hattie]]"]
-sources: ["sources/Eacott_2017_SLM.md"]
+subtype: journal-article
+publication_type: journal-article
+journal: School Leadership & Management
+citation: 'Eacott, S. (2017). School leadership and the cult of the guru: The neo-Taylorism of Hattie. School Leadership & Management, 37(4), 413–426.'
+tags:
+- school-leadership
+- neo-taylorism
+- visible-learning
+- cult-of-the-guru
+- stance/critique
+- region/australia
+related_concepts:
+- '[[Cult of the Guru]]'
+- '[[Neo-Taylorism in Educational Administration]]'
+- '[[Visible Learning]]'
+- '[[School Leadership]]'
+related_theories:
+- '[[Pierre Bourdieu]]'
+related_methods: []
+related_persons:
+- '[[Scott Eacott]]'
+- '[[John Hattie]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Eacott_2017_SLM]]'
+part_of: ''
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 研究问题
