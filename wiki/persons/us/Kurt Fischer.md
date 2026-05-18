@@ -1,6 +1,7 @@
 ---
 title: Kurt Fischer
-aliases: []
+aliases:
+- Fischer
 summary: 新皮亚杰理论家，提出技能理论（Skill Theory），考察学习发生的环境如何影响认知发展的实际水平和最优技能水平。
 type: person
 nationality: us

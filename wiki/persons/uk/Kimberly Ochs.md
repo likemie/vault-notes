@@ -1,6 +1,7 @@
 ---
 title: Kimberly Ochs
-aliases: []
+aliases:
+- Ochs
 summary: Kimberly Ochs 是比较教育学者，与 David Phillips 合作开发了政策借用四阶段模型和跨国吸引力结构性类型学——教育政策转移研究领域的基础性分析框架。
 type: person
 nationality: uk

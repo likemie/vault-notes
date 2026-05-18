@@ -1,6 +1,7 @@
 ---
 title: Thomas Barr Greenfield
-aliases: []
+aliases:
+- Greenfield
 summary: Thomas Barr Greenfield 是加拿大的教育行政学者，以对教育行政中**逻辑经验主义和理论运动**的认识论基础提出挑战而闻名。
 type: person
 nationality: global

@@ -1,6 +1,7 @@
 ---
 title: Jean Piaget
-aliases: []
+aliases:
+- 皮亚杰
 summary: 瑞士心理学家，建构主义与认知发展阶段论的创始人。他是第一位系统研究认知发展的心理学家，开创了考察学习的新方法。
 type: person
 nationality: global
