@@ -2,7 +2,7 @@
 title: Pepka Boyadjieva
 aliases:
 - 佩普卡·博亚季耶娃
-summary: 保加利亚科学院哲学与社会学研究所，与 Ilieva-Trichkova 共同发展高等教育多维使命模型（个体/社会×工具/内在/转化-赋权 2×3 矩阵），以可行能力路径和制度理论批判全球排名对高教使命的还原
+summary: 保加利亚社会学家和高等教育研究者，高教多维使命模型提出者，为教育研究反思排名逻辑对大学使命的压缩提供框架。
 type: person
 nationality: global
 tags:
@@ -25,7 +25,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Pepka Boyadjieva

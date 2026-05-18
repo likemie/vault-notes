@@ -2,7 +2,7 @@
 title: Christiane Thompson
 aliases:
 - 克里斯蒂安妮·汤普森
-summary: 法兰克福歌德大学教育科学教授，高等教育主体化与数字化治理技术研究者，与 Parreira do Amaral 共同主编多部 GEI 著作
+summary: 德国教育学者和高等教育研究者，主体化与数字化治理研究者，为教育研究分析大学治理与学习文化转型提供理论视角。
 type: person
 nationality: germany
 tags:
@@ -25,7 +25,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

@@ -2,7 +2,7 @@
 title: Ann Swidler
 aliases:
 - 安·斯威德勒
-summary: 美国文化社会学家，文化工具箱理论（1986）创始人，区分稳定/不稳定生活状态中文化与行动的不同关系，郑雅君 (2023) 的核心理论支柱之一
+summary: 美国文化社会学家，文化工具箱理论提出者，为教育研究理解学生行动策略、文化资源与情境差异提供强有力框架。
 type: person
 nationality: us
 tags:
@@ -26,7 +26,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

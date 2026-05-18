@@ -2,7 +2,7 @@
 title: Marcia Baxter Magolda
 aliases:
 - 马西娅·巴克斯特·马戈尔达
-summary: 迈阿密大学教育心理学家，自我主导性（self-authorship）理论创始人，郑雅君 (2023) 以之作为目标掌控模式的理论灵感之一
+summary: 美国教育心理学家，自我主导性理论提出者，为教育研究理解大学生认知、身份与意义建构发展提供重要框架。
 type: person
 nationality: us
 tags:
@@ -24,7 +24,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

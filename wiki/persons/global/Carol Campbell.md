@@ -2,7 +2,7 @@
 title: Carol Campbell
 aliases:
 - 卡罗尔·坎贝尔
-summary: 多伦多大学 OISE 教育领导力教授，KNAER 系统级知识动员案例研究领导者，与 Nelson 共同编辑 EIP 特刊
+summary: 加拿大教育领导力学者，知识动员和证据知情实践研究者，为教育研究连接系统改革、专业学习与证据使用提供路径。
 type: person
 nationality: global
 tags:
@@ -25,7 +25,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

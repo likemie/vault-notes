@@ -2,7 +2,7 @@
 title: Akira Miyake
 aliases:
 - 阿基拉·三宅
-summary: 认知心理学家，执行功能统一性与多样性框架提出者（Miyake et al., 2000），识别 EF 三成分（抑制/转换/更新与监控）
+summary: 日裔认知心理学家，执行功能统一性与多样性框架提出者，为教育研究测量学习中的执行功能与认知控制提供基础模型。
 type: person
 nationality: global
 tags:
@@ -24,7 +24,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

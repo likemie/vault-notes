@@ -2,7 +2,7 @@
 title: Ken Goodman
 aliases:
 - 肯·古德曼
-summary: '美国教育研究者，全语言运动创始人，1967 年 Reading: A Psycholinguistic Guessing Game 奠定全语言理论基础'
+summary: 美国教育学者，全语言运动奠基人与《Reading: A Psycholinguistic Guessing Game》作者，为教育研究提供与技能本位识字观对立的重要传统。
 type: person
 nationality: us
 tags:
@@ -22,7 +22,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

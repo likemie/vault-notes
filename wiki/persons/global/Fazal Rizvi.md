@@ -2,7 +2,7 @@
 title: Fazal Rizvi
 aliases:
 - 法扎尔·里兹维
-summary: 高等教育国际化与全球化研究学者，以批判地缘政治学视角分析亚洲崛起对全球 HE 架构的重塑，提出国际化理性的发展主义 vs 市场理性二元结构
+summary: 澳大利亚高等教育与全球化研究学者，国际化与地缘政治批判分析代表人物，为教育研究理解亚洲崛起与全球高教重组提供框架。
 type: person
 nationality: global
 tags:
@@ -39,7 +39,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

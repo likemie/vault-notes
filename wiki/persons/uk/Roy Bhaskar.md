@@ -2,7 +2,7 @@
 title: Roy Bhaskar
 aliases:
 - 罗伊·巴斯卡
-summary: 英国哲学家，批判实在论创始人，区分三层本体论和开放/封闭系统，为 Wrigley 的 EBE 方法论批判提供哲学基础
+summary: 英国哲学家，批判实在论创始人，为教育研究在实证主义与相对主义之外重建因果解释与分层本体论提供基础。
 type: person
 nationality: uk
 tags:
@@ -24,7 +24,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

@@ -4,7 +4,7 @@ aliases:
 - 保罗·弗莱雷
 - 弗莱雷
 - Freire
-summary: 巴西教育家，批判教育学奠基人，《被压迫者教育学》(1972) 作者，提出"银行概念"揭示教学中不可化约的权力梯度，Partaken 将其应用于 GPK 强制知识转移分析
+summary: 巴西教育家，《被压迫者教育学》作者与批判教育学奠基人，为教育研究连接对话、解放与权力批判提供经典语言。
 type: person
 nationality: global
 tags:
@@ -30,7 +30,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Paulo Freire

@@ -2,7 +2,7 @@
 title: Kimberly Ochs
 aliases:
 - 金伯莉·奥克斯
-summary: 比较教育学者，与 David Phillips 共同开发政策借用模型，区分政策文本与政策话语，分类四种吸引力"火花
+summary: 比较教育学者，政策借用与跨国吸引类型学共同提出者，为教育研究分析改革为何被引入与如何被转译提供模型。
 type: person
 nationality: uk
 tags:
@@ -22,7 +22,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

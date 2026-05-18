@@ -2,7 +2,7 @@
 title: Robert Slavin
 aliases:
 - 罗伯特·斯莱文
-summary: 约翰霍普金斯大学教育心理学家，证据本位教育改革运动奠基人，Success for All 和 Evidence for ESSA 创始人
+summary: 美国教育心理学家，证据本位教育改革奠基人与Success for All创建者，为教育研究和政策推动实验评价与项目证据标准化提供关键力量。
 type: person
 nationality: us
 tags:
@@ -27,7 +27,7 @@ sources:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

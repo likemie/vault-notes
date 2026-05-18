@@ -2,7 +2,7 @@
 title: Julian Huxley
 aliases:
 - 朱利安·赫胥黎
-summary: 英国生物学家，UNESCO 首任总干事（1946–1948），1957 年在 *New Bottles for New Wine* 中首次命名 transhumanism，其身兼科学人文主义、人权倡导与优生学支持者的内在矛盾揭示了超人类主义的根本困境
+summary: 英国生物学家与科学管理者，transhumanism一词提出者，为教育研究思考超人类主义、进步叙事与人性改造提供谱系线索。
 type: person
 nationality: uk
 tags:
@@ -24,7 +24,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

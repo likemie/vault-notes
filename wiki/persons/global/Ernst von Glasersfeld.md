@@ -2,7 +2,7 @@
 title: Ernst von Glasersfeld
 aliases:
 - 恩斯特·冯·格拉泽斯费尔德
-summary: 德裔美籍哲学家和认知心理学家，激进建构主义创始人，其唯我论学习观被 Hattie 的 VL 全盘接受为理论基础
+summary: 德裔美籍哲学家和认知心理学家，激进建构主义创始人，为教育研究理解知识建构、学习主体与反表征认识论提供重要参照。
 type: person
 nationality: global
 tags:
@@ -22,7 +22,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

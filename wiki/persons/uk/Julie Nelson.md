@@ -2,7 +2,7 @@
 title: Julie Nelson
 aliases:
 - 朱莉·纳尔逊
-summary: NFER 高级研究员，专注 EIP 测量工具开发和 KMb 研究，与 Campbell 共同编辑 EIP 特刊
+summary: 英国教育研究者和NFER高级研究员，证据知情实践测量工具开发者，为教育研究理解教师如何使用证据提供经验框架。
 type: person
 nationality: uk
 tags:
@@ -25,7 +25,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

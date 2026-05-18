@@ -2,7 +2,7 @@
 title: Didier Eribon
 aliases:
 - 迪迪埃·埃里蓬
-summary: 法国社会学家和哲学家，《回归故里》作者，郑雅君 (2023) 援引其与原生文化和解的思想为寒门学子提供建议
+summary: 法国社会学家和哲学家，《回归故里》作者与阶级自传写作代表人物，为教育研究理解阶级流动后的文化撕裂提供思想资源。
 type: person
 nationality: france
 tags:
@@ -24,7 +24,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-09'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

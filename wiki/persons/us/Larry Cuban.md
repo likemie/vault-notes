@@ -2,7 +2,7 @@
 title: Larry Cuban
 aliases:
 - 拉里·库班
-summary: 斯坦福教育史学家，提出课程变革的三因素理论：进步教育运动、冷战/国防、立法法律决定
+summary: 美国教育史学家和课程理论家，学校改革史与技术乌托邦批判代表人物，为教育研究理解改革循环、课堂稳定性与政策落差提供历史视角。
 type: person
 nationality: us
 tags:
@@ -22,7 +22,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

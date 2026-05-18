@@ -2,7 +2,7 @@
 title: Yajun Zheng
 aliases:
 - 郑雅君
-summary: 郑雅君，复旦大学高等教育研究所，原创性提出目标掌控模式／直觉依赖模式双模式框架和高等教育文化障碍概念，专著《金榜题名之后》(2023)
+summary: 中国高等教育研究者，《金榜题名之后》作者与双模式框架提出者，为解释大学生出路分化与文化障碍提供分析工具。
 type: person
 nationality: china
 tags:
@@ -46,7 +46,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Yajun Zheng

@@ -2,7 +2,7 @@
 title: Dylan Wiliam
 aliases:
 - 迪伦·威廉
-summary: UCL 教育研究院教授，教育评估和形成性评价研究者，以 Goldman 区分理论论证教育知识局部且临时，提出 EBE 批判的四个决策问题框架
+summary: 英国教育评估学者，形成性评价研究代表人物与教育知识局部性论者，为教育研究把评价、教师判断与方法论谦抑重新连起来。
 type: person
 nationality: uk
 tags:
@@ -26,7 +26,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

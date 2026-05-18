@@ -2,7 +2,7 @@
 title: Andreas Helmke
 aliases:
 - 安德烈亚斯·赫尔姆克
-summary: 德语有效教学综合作者，Laursen 用其十项教学质量、学生前提条件和文化语境讨论检验丹麦适用性
+summary: 德国教育学者和有效教学研究者，《Unterrichtsqualität und Lehrerprofessionalität》作者，为课堂质量与教师专业性研究提供德语传统框架。
 type: person
 nationality: germany
 tags:
@@ -24,7 +24,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

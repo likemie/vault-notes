@@ -2,7 +2,7 @@
 title: Juan Pascual-Leone
 aliases:
 - 胡安·帕斯夸尔-莱昂内
-summary: 首位新皮亚杰理论家（1970），提出沉默/主观算子双层模型和心智能力（M-power）概念，解释皮亚杰阶段递进机制
+summary: 加拿大神经心理学家和新皮亚杰理论家，M-power模型提出者，为教育研究连接认知发展阶段与信息加工能力提供桥梁。
 type: person
 nationality: global
 tags:
@@ -23,7 +23,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

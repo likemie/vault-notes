@@ -2,7 +2,7 @@
 title: Yong Zhao
 aliases:
 - 赵勇
-summary: University of Kansas 教育政策与比较教育教授，从医学引入副作用概念至教育研究，论证教育干预的效果与副作用不可分离
+summary: 中国裔教育学者和比较教育研究者，教育副作用与个性化学习倡导者，为教育研究反思标准化改革和干预评估提供不同尺度。
 type: person
 nationality: global
 tags:
@@ -26,7 +26,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 基本信息

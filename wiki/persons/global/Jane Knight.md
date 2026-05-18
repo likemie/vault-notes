@@ -2,7 +2,7 @@
 title: Jane Knight
 aliases:
 - 简·奈特
-summary: OISE/University of Toronto 跨境高等教育学者，国际教育枢纽（IEH）概念框架和三类模型（学生/人才/知识创新）提出者
+summary: 加拿大高等教育学者，国际教育枢纽与跨境高教研究代表人物，为教育研究分析大学国际化模式与政策扩散提供框架。
 type: person
 nationality: global
 tags:
@@ -27,7 +27,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Jane Knight

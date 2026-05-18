@@ -2,7 +2,7 @@
 title: Jacob Cohen
 aliases:
 - 雅各布·科恩
-summary: 美国统计学家，效应量/Cohen's d 解释框架的关键人物，small/medium/large 阈值常在教育研究中被转化为实践判断工具
+summary: 美国统计学家，Cohen's d与效应量阈值框架提出者，为教育研究提供广泛使用但也常被误读的统计语言。
 type: person
 nationality: us
 tags:
@@ -24,7 +24,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

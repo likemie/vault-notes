@@ -2,7 +2,7 @@
 title: Norberto Bottani
 aliases:
 - 诺伯托·博塔尼
-summary: INES 项目创始人兼首任负责人（1988–1997），从早期倡导者转变为指标误用的尖锐批评者，其幻灭三部曲记录国际教育指标的认识论与政治困境
+summary: 瑞士教育政策研究者和OECD指标专家，INES项目创始人，为教育研究反思教育指标、比较数据与治理工具化提供内部批判视角。
 type: person
 nationality: global
 tags:
@@ -26,7 +26,7 @@ sources:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

@@ -4,7 +4,7 @@ aliases:
 - 让-弗朗索瓦·利奥塔
 - 利奥塔
 - Lyotard
-summary: 法国后结构主义哲学家，《后现代状况》(1979) 作者，叙事知识／科学知识区分和合法化通过权力的理论被 Partaken 用于 GPK 分析
+summary: 法国后结构主义哲学家，《后现代状况》作者与知识合法化理论代表人物，为教育研究反思知识、权威与绩效逻辑提供框架。
 type: person
 nationality: france
 tags:
@@ -27,7 +27,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Jean-François Lyotard

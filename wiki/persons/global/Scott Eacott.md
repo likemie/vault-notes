@@ -2,7 +2,7 @@
 title: Scott Eacott
 aliases:
 - 斯科特·伊科特
-summary: UNSW Sydney 教育行政学者，将 Bourdieu 社会理论和认识论引入教育领导力研究，提出 Cult of the Guru、Parallel Monologues、Neo-Taylorism 批评和关系取向组织理论
+summary: 澳大利亚教育行政学者，关系取向组织理论与领导力知识批判代表人物，为教育研究反思教育领导力领域的话语、方法与权威结构提供工具。
 type: person
 nationality: global
 tags:
@@ -33,7 +33,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

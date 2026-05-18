@@ -2,7 +2,7 @@
 title: Jill Mehlbye
 aliases:
 - 吉尔·梅尔比
-summary: 丹麦教育研究者，其高绩效学校研究支持高要求、学业表现取向、明确课堂管理与频繁测试的丹麦本土证据
+summary: 丹麦教育研究者，高绩效学校与弱势学生提升研究者，为教育研究提供丹麦语境下有效教学与学校改进的本土证据。
 type: person
 nationality: global
 tags:
@@ -20,7 +20,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

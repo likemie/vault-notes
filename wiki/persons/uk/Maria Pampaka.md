@@ -2,7 +2,7 @@
 title: Maria Pampaka
 aliases:
 - 玛丽亚·潘帕卡
-summary: 曼彻斯特大学教育研究者，IJRME "什么有效"特刊编辑，识别 agency 分配为核心哲学分歧，关注学习者能动性和替代性学习结果测量
+summary: 英国教育研究者，学习结果测量与“什么有效”批判研究者，为教育研究把能动性与非成就性结果重新纳入方法论讨论。
 type: person
 nationality: uk
 tags:
@@ -20,7 +20,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

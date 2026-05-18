@@ -2,7 +2,7 @@
 title: Hilbert Meyer
 aliases:
 - 希尔伯特·迈耶
-summary: 德语有效教学综合作者，其十项"好教学"质量与 Hattie、Helmke 一起构成 Laursen 的国际有效教学参照
+summary: 德国教育学者和Didaktik研究者，“好教学十项标准”提出者，为教学质量研究和课堂观察提供系统参照。
 type: person
 nationality: germany
 tags:
@@ -22,7 +22,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

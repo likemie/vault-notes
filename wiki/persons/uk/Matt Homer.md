@@ -2,7 +2,7 @@
 title: Matt Homer
 aliases:
 - 马特·霍默
-summary: 利兹大学教育研究者，IJRME "什么有效"特刊共同编辑（Pampaka, Williams & Homer, 2016）
+summary: 英国教育研究者和定量方法学者，“什么有效”议程批判讨论参与者，为教育研究反思定量证据的适用范围提供声音。
 type: person
 nationality: uk
 tags:
@@ -19,7 +19,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

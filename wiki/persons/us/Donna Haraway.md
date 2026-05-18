@@ -2,7 +2,7 @@
 title: Donna Haraway
 aliases:
 - 唐娜·哈拉维
-summary: 美国女性主义科学与技术研究学者，sympoiesis、response-ability 和 SF 叙事方法论提出者，其 Staying with the Trouble (2016) 为后人类主义教育愿景提供核心思想资源
+summary: 美国女性主义科技研究学者，赛博格、sympoiesis与SF叙事方法论代表人物，为教育研究提供后人类主义、关系伦理与知识叙事的另类框架。
 type: person
 nationality: us
 tags:
@@ -27,7 +27,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

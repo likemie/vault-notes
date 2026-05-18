@@ -2,7 +2,7 @@
 title: Sean McCusker
 aliases:
 - 肖恩·麦卡斯克
-summary: 诺桑比亚大学社会科学系，与 Wrigley 合作发表证据本位教学科学观的批判性研究
+summary: 英国社会科学研究者，证据本位教学科学观批判合作者，为教育研究反思方法崇拜与简化科学形象提供补充论证。
 type: person
 nationality: uk
 tags:
@@ -22,7 +22,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

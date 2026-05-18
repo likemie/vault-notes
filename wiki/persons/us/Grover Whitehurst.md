@@ -2,7 +2,7 @@
 title: Grover Whitehurst
 aliases:
 - 格罗弗·怀特赫斯特
-summary: Bush 政府 OERI 主任 / IES 首任所长，将 RCT 确立为联邦教育研究黄金标准的关键政策执行者，制定 2002–2007 OERI 战略计划
+summary: 美国教育政策官员和研究管理者，IES证据标准体系关键设计者，为教育研究制度化RCT优先级和联邦证据治理提供案例。
 type: person
 nationality: us
 tags:
@@ -23,7 +23,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

@@ -2,7 +2,7 @@
 title: Herbert A. Simon
 aliases:
 - 赫伯特·A.西蒙
-summary: 卡内基梅隆大学教授，1978 年诺贝尔经济学奖得主，有限理性理论创始人，Qvortrup 用作教学认识论基础
+summary: 美国政治学家、经济学家和认知科学家，有限理性理论创立者，为教育研究理解专业判断、决策局限与复杂系统中的选择提供基础。
 type: person
 nationality: us
 tags:
@@ -23,7 +23,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

@@ -2,7 +2,7 @@
 title: Francisco Varela
 aliases:
 - 弗朗西斯科·瓦雷拉
-summary: 智利生物学家和神经科学家，与 Maturana 共同创立 autopoiesis 理论，提出 Ethical Know-How 和自我的非固化概念
+summary: 智利生物学家和神经科学家，自创生理论共同创立者与具身认知代表人物，为教育研究理解认知、主体性与关系性学习提供资源。
 type: person
 nationality: global
 tags:
@@ -24,7 +24,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

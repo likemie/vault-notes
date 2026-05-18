@@ -2,7 +2,7 @@
 title: Thomas Barr Greenfield
 aliases:
 - 托马斯·巴尔·格林菲尔德
-summary: 加拿大教育行政学者，1974 年以主观主义/现象学挑战理论运动的逻辑经验主义，呼吁"人性科学
+summary: 加拿大教育行政学者，主观主义教育行政研究代表人物，为教育研究挑战实证主义组织理论并重申意义与经验的重要性提供转向。
 type: person
 nationality: global
 tags:
@@ -22,7 +22,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

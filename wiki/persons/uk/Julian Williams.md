@@ -2,7 +2,7 @@
 title: Julian Williams
 aliases:
 - 朱利安·威廉斯
-summary: 曼彻斯特大学教育研究者，关注研究-政策-实践"第三空间"混合活动设计和替代性学习结果测量，IJRME "什么有效"特刊共同编辑
+summary: 英国教育研究者，“第三空间”与替代性学习结果测量研究者，为教育研究连接政策、实践与非成就性结果提供方法论视角。
 type: person
 nationality: uk
 tags:
@@ -19,7 +19,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

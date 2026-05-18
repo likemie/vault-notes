@@ -2,7 +2,7 @@
 title: Doreen Massey
 aliases:
 - 多琳·马西
-summary: 英国人文地理学家（1944–2016），关系性空间理论创始人，以开放本体论、多重性、权力几何学等概念深刻影响高等教育地缘政治研究
+summary: 英国人文地理学家，关系性空间与权力几何理论代表人物，为教育研究理解高教空间、流动与地缘政治提供重要语言。
 type: person
 nationality: uk
 tags:
@@ -23,7 +23,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Doreen Massey

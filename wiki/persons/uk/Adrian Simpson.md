@@ -2,7 +2,7 @@
 title: Adrian Simpson
 aliases:
 - 阿德里安·辛普森
-summary: 杜伦大学教育研究者，论证效应量作为试验灵敏度指标而非有效性指标，效应量是类别错误
+summary: 英国数学教育学者和方法论批评者，系统拆解效应量误用问题，为教育研究反思统计指标的解释边界提供精密论证。
 type: person
 nationality: uk
 tags:
@@ -37,7 +37,7 @@ sources:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

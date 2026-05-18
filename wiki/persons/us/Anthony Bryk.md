@@ -2,7 +2,7 @@
 title: Anthony Bryk
 aliases:
 - 安东尼·布赖克
-summary: Carnegie Foundation 高级研究员，将改进科学引入美国教育，网络化改进社区模型的主要开发者
+summary: 美国教育研究者和组织改进学者，网络化改进共同体与改进科学代表人物，为教育研究提供以系统改进替代单次干预验证的路径。
 type: person
 nationality: us
 tags:
@@ -22,7 +22,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

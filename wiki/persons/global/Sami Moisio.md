@@ -2,7 +2,7 @@
 title: Sami Moisio
 aliases:
 - 萨米·莫伊西奥
-summary: 赫尔辛基大学政治地理学者，提出 Knowledge-Based Economization 和 Geopolitics of the Knowledge-Based Economy 概念，将批判地缘政治学延伸至高等教育和城市治理领域
+summary: 芬兰政治地理学者，知识经济化与知识经济地缘政治概念提出者，为教育研究分析高教、城市与国家竞争的空间政治提供框架。
 type: person
 nationality: global
 tags:
@@ -38,7 +38,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

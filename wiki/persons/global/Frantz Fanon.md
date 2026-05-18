@@ -4,7 +4,7 @@ aliases:
 - 弗朗兹·法农
 - 法农
 - Fanon
-summary: 法国（马提尼克）精神病学家与去殖民化理论家，Black Skin White Masks (1952) 作者，Partaken (2022) 定位为后殖民 GPK 传统的奠基者
+summary: 马提尼克裔法国精神病学家和去殖民思想家，《黑皮肤，白面具》作者，为教育研究分析殖民主体性、种族化经验与知识解放提供基础。
 type: person
 nationality: global
 tags:
@@ -31,7 +31,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Frantz Fanon

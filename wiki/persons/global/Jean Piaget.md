@@ -3,7 +3,7 @@ title: Jean Piaget
 aliases:
 - 让·皮亚杰
 - 皮亚杰
-summary: 瑞士心理学家，建构主义与认知发展四阶段论创始人，第一位系统研究认知发展的心理学家
+summary: 瑞士心理学家，认知发展阶段理论与发生认识论创立者，为教育研究理解儿童发展、建构主义与课程设计提供根基。
 type: person
 nationality: global
 tags:
@@ -25,7 +25,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

@@ -2,7 +2,7 @@
 title: Kurt Fischer
 aliases:
 - 库尔特·费舍尔
-summary: 新皮亚杰理论家，提出技能理论（Skill Theory），区分实际/最优发展水平，强调环境在认知发展中的作用
+summary: 美国发展心理学家和新皮亚杰理论家，技能理论提出者，为教育研究把发展水平理解为情境化与可变的表现提供模型。
 type: person
 nationality: us
 tags:
@@ -24,7 +24,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

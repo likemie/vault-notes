@@ -2,7 +2,7 @@
 title: Catherine Lewis
 aliases:
 - 凯瑟琳·刘易斯
-summary: 美国教育研究者，以向教育研究界系统介绍改进科学方法论著称（*Educational Researcher*, 2015）
+summary: 美国教育研究者，改进科学教育化引介者，为教育研究把持续改进、情境变异与实践迭代纳入研究设计提供说明。
 type: person
 nationality: us
 tags:
@@ -21,7 +21,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

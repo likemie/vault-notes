@@ -2,7 +2,7 @@
 title: Nancy Cartwright
 aliases:
 - 南希·卡特赖特
-summary: 杜伦大学/UC San Diego 科学哲学家，CHESS 核心成员，提出 RCT 证据外推三阶段框架，与 Nick Cowen 合作研究教育 EBP 实施
+summary: 英国科学哲学家，因果外推与RCT局限研究代表人物，为教育研究反思“什么有效”的证据迁移条件提供方法论基础。
 type: person
 nationality: global
 tags:
@@ -23,7 +23,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

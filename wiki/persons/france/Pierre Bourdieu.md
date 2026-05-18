@@ -4,7 +4,7 @@ aliases:
 - 皮埃尔·布迪厄
 - 布迪厄
 - Bourdieu
-summary: 法国社会学家，场域-习性-资本-doxa 社会理论框架创始人，对教育作为社会再生产机制的分析深刻影响教育领导力批判研究
+summary: 法国社会学家，场域-习性-资本理论创立者与《区分》作者，为教育研究分析再生产、不平等与学校权力提供核心语言。
 type: person
 nationality: france
 tags:
@@ -50,7 +50,7 @@ sources:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Pierre Bourdieu

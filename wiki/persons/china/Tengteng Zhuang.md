@@ -2,7 +2,7 @@
 title: Tengteng Zhuang
 aliases:
 - 庄腾腾
-summary: 庄腾腾，北京师范大学教育研究者，系统整理中国教育实证研究文献计量数据（CNKI ~5000 篇，Slavin et al., 2021）
+summary: 中国教育研究者，中国教育实证研究文献计量整理者，为理解本土证据生产格局和研究趋势提供基础资料。
 type: person
 nationality: china
 tags:
@@ -22,7 +22,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

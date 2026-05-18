@@ -2,7 +2,7 @@
 title: Carolyn Shields
 aliases:
 - 卡罗琳·希尔兹
-summary: 加拿大教育研究者，提出以权力为调查起点的变革型领导力框架，被 Møller 采纳为超越"什么有效"议程的关键替代视角
+summary: 加拿大教育学者，变革型领导力理论提出者，为教育研究把权力、正义与领导实践重新连起来提供框架。
 type: person
 nationality: global
 tags:
@@ -21,7 +21,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

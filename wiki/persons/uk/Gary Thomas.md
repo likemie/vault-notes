@@ -2,7 +2,7 @@
 title: Gary Thomas
 aliases:
 - 加里·托马斯
-summary: 伯明翰大学教育教授，提出"民间科学观"概念和"最佳解释推理"框架，系统批判 RCT 作为教育研究黄金标准
+summary: 英国教育学者和方法论批评者，“民间科学观”批判提出者，为教育研究反思RCT黄金标准和因果解释模式提供替代视角。
 type: person
 nationality: uk
 tags:
@@ -23,7 +23,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

@@ -2,7 +2,7 @@
 title: Chen Xie
 aliases:
 - 谢晨
-summary: 谢晨，华东师范大学国际与比较教育研究所研究员，ECNU ROE 证据本位改革特刊通讯编辑，中美教育技术实验比较研究
+summary: 中国比较教育研究者，教育技术实验比较与证据本位改革研究者，为中文教育研究连接国际实证改革议程提供支持。
 type: person
 nationality: china
 tags:
@@ -24,7 +24,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

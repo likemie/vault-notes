@@ -2,7 +2,7 @@
 title: Jorunn Møller
 aliases:
 - 约伦·默勒
-summary: 奥斯陆大学教育领导力与治理教授，ISSPP 和 OECD ISL 项目参与者，以对教育领导力研究中去政治化倾向的系统批判著称
+summary: 挪威教育领导力学者，学校治理与问责研究者，为教育研究批判领导力研究的去政治化和OECD化提供重要声音。
 type: person
 nationality: global
 tags:
@@ -22,7 +22,7 @@ sources:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

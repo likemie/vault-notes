@@ -2,7 +2,7 @@
 title: John Biggs
 aliases:
 - 约翰·比格斯
-summary: 澳大利亚教育心理学家，建构性对齐（Constructive Alignment）和 SOLO 分类法创始人，属于 1990 年代激进建构主义运动
+summary: 澳大利亚教育心理学家，建构性对齐和SOLO分类法提出者，为教育研究连接课程设计、学习结果与评价提供高频工具。
 type: person
 nationality: global
 tags:
@@ -26,7 +26,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

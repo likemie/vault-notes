@@ -2,7 +2,7 @@
 title: Walter Mignolo
 aliases:
 - 米尼奥洛
-summary: 杜克大学文学与文化研究教授（阿根廷裔），去殖民理论奠基人，提出知识地缘政治、殖民差异、殖民性、边界思维和认识论不服从概念，其思想被 Delambre 定位为 Creative Tension of Sense 理论的核心对话对象
+summary: 阿根廷裔文学与文化理论家，殖民性、边界思维与认识论不服从理论代表人物，为教育研究提供去殖民知识政治的核心概念。
 type: person
 nationality: global
 tags:
@@ -34,7 +34,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Walter Mignolo

@@ -4,7 +4,7 @@ aliases:
 - 约翰·哈蒂
 - 哈蒂
 - Hattie
-summary: 墨尔本大学教育统计学家，Visible Learning 创始人，以 800+ 元分析综合效应量排名全球影响教育政策和实践，同时面临方法论和文化政治的多维度批评
+summary: 新西兰教育统计学家，《Visible Learning》作者与元分析综合代表人物，为教育研究和政策实践提供高影响力但极具争议的证据排序框架。
 type: person
 nationality: global
 tags:
@@ -86,7 +86,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

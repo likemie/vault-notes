@@ -2,7 +2,7 @@
 title: Donald A. Schön
 aliases:
 - 唐纳德·舍恩
-summary: MIT 教授，反思性实践（reflection-in/on-practice）和技术理性批判的提出者，Qvortrup 纳入专业判断框架
+summary: 美国哲学家和组织学习学者，《反思性实践者》作者与技术理性批判者，为教育研究重估专业判断、实践知识与教师反思提供核心资源。
 type: person
 nationality: us
 tags:
@@ -23,7 +23,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

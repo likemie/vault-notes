@@ -2,7 +2,7 @@
 title: Dell Delambre
 aliases:
 - 戴尔·德朗布尔
-summary: 巴西认识论学者和实践者，提出 Creative Tension of Sense 理论和 Ganz-Methode 方法论，以里约热内卢贫民窟剧场和社区博物馆等基层实践为基础，为知识地缘政治讨论提供拉丁美洲视角
+summary: 巴西认识论学者和实践者，Creative Tension of Sense与Ganz-Methode提出者，为教育研究连接基层实践、剧场与知识地缘政治提供拉美视角。
 type: person
 nationality: global
 tags:
@@ -32,7 +32,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Dell Delambre

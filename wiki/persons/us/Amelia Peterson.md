@@ -2,7 +2,7 @@
 title: Amelia Peterson
 aliases:
 - 阿米莉亚·彼得森
-summary: 哈佛大学教育研究生院，提出"什么有效 2.0"整合框架，以机制实验和网络化改进为双重支柱整合实验科学与改进科学
+summary: 美国教育研究者，“What Works 2.0”框架提出者，为教育研究尝试调和实验科学与改进科学提供整合路径。
 type: person
 nationality: us
 tags:
@@ -25,7 +25,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

@@ -2,7 +2,7 @@
 title: Thomas Aastrup Rømer
 aliases:
 - 托马斯·奥斯特鲁普·勒默
-summary: 奥胡斯大学教育哲学副教授，以对 Hattie VL 的五线哲学批判著称，提出"纯粹评价"概念
+summary: 丹麦教育哲学学者，Visible Learning五线批评和“纯粹评价”概念提出者，为教育研究反思评价主义和技术化治理提供系统批判。
 type: person
 nationality: global
 tags:
@@ -34,7 +34,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

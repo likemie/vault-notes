@@ -4,7 +4,7 @@ aliases:
 - 马克斯·韦伯
 - 韦伯
 - Weber
-summary: 德国社会学家，诠释社会学和行动理论创始人，工具理性与价值理性的经典区分，郑雅君 (2023) 以之作为全书认识论锚点和文化社会学讨论起点
+summary: 德国社会学家，理解社会学奠基人与《新教伦理与资本主义精神》作者，为教育研究分析理性化、价值冲突与社会行动提供经典框架。
 type: person
 nationality: germany
 tags:
@@ -32,7 +32,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Max Weber

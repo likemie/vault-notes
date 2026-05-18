@@ -2,7 +2,7 @@
 title: Chen Kuan-Hsing
 aliases:
 - 陈光兴
-summary: 台湾文化研究学者，Asia as Method (2010) 作者，提出"去帝国化、去殖民化、去冷战"三重任务和"地缘殖民历史唯物主义"，Partaken 将其定位为后殖民 GPK 谱系中 Fanon 之后的关键人物
+summary: 中国台湾文化研究学者，《Asia as Method》作者与去帝国化倡议者，为教育研究反思知识生产的亚洲视角和后殖民方法提供资源。
 type: person
 nationality: global
 tags:
@@ -29,7 +29,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Chen Kuan-Hsing

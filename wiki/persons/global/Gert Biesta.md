@@ -2,7 +2,7 @@
 title: Gert Biesta
 aliases:
 - 格特·比斯塔
-summary: 当代最具影响力的教育哲学家之一，以对证据本位教育的系统性批判和教育目的论阐述著称
+summary: 荷兰教育哲学家，《教育的美丽风险》作者与教育目的论重构者，为教育研究反思证据本位、学习化与主体形成提供核心批判。
 type: person
 nationality: global
 tags:
@@ -39,7 +39,7 @@ sources:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

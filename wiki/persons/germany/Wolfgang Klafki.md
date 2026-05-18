@@ -2,7 +2,7 @@
 title: Wolfgang Klafki
 aliases:
 - 沃尔夫冈·克拉夫基
-summary: 德国教育学家和 Didaktik 传统关键人物，提出以 epochal key problems 组织面向未来的课程工作
+summary: 德国教育学家和Didaktik代表人物，范畴教育学与关键问题课程论提出者，为课程研究连接Bildung、公共性与未来议题提供框架。
 type: person
 nationality: germany
 tags:
@@ -27,7 +27,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

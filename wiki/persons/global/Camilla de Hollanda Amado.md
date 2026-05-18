@@ -2,7 +2,7 @@
 title: Camilla de Hollanda Amado
 aliases:
 - 卡米拉·德·奥兰达·阿马多
-summary: 巴西著名女演员和剧场导演（1941–2021），与 Delambre 共同创立"Bora Bora em Bando"项目为贫民窟剧场争取社会可见度
+summary: 巴西演员和剧场导演，社区剧场项目组织者，为教育研究理解基层文化实践、表演与公共学习提供案例资源。
 type: person
 nationality: global
 tags:
@@ -26,7 +26,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 # Camilla de Hollanda Amado

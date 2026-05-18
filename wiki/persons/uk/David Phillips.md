@@ -2,7 +2,7 @@
 title: David Phillips
 aliases:
 - 大卫·菲利普斯
-summary: 牛津大学比较教育学教授，与 Kimberly Ochs 共同提出政策借用四阶段模型和跨国吸引力结构性类型学
+summary: 英国比较教育学者，政策借用四阶段模型共同提出者，为教育研究分析跨国教育改革流动提供经典模型。
 type: person
 nationality: uk
 tags:
@@ -23,7 +23,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介

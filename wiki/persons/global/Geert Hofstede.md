@@ -2,7 +2,7 @@
 title: Geert Hofstede
 aliases:
 - 吉尔特·霍夫斯泰德
-summary: 国家文化研究学者，提出个人主义/集体主义、权力距离、女性化/男性化、不确定性规避等文化维度，Laursen 用其分析丹麦有效教学语境
+summary: 荷兰组织社会心理学家，文化维度理论提出者，为教育研究比较国家文化差异与课堂、学校组织提供常用框架。
 type: person
 nationality: global
 tags:
@@ -21,7 +21,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 简介
