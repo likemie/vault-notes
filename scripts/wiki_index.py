@@ -9,11 +9,21 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "wiki"
+
+# Machine index for AI lookup.
 INDEX_JSON = WIKI_DIR / "index.json"
-INDEX_MD = WIKI_DIR / "index.md"
+
+# Human-readable static Markdown index for Obsidian / Quartz / GitHub.
+INDEX_MD = WIKI_DIR / "wiki-index.md"
 
 EXCLUDE_DIR_PARTS = {"templates", "indexes", ".obsidian"}
-EXCLUDE_FILENAMES = {"index.md", "index.json", "manifest.md", "manifest.json"}
+EXCLUDE_FILENAMES = {
+    "index.md",
+    "index.json",
+    "wiki-index.md",
+    "manifest.md",
+    "manifest.json",
+}
 
 TYPE_ORDER = ["concept", "theory", "method", "person", "fact", "argument", "source", "unknown"]
 
@@ -56,7 +66,6 @@ SECOND_LEVEL_LABELS = {
     "us": "US",
     "uk": "UK",
 }
-
 
 LIST_KEYS = {
     "aliases",
@@ -119,18 +128,6 @@ def parse_inline_list(value: str) -> list[str]:
 
 
 def extract_frontmatter(text: str) -> dict[str, Any]:
-    """
-    Lightweight YAML frontmatter parser.
-
-    Supports:
-    key: value
-    key: [a, b]
-    key:
-      - a
-      - b
-
-    This is intentionally small and dependency-free.
-    """
     if not text.startswith("---\n"):
         return {}
 
@@ -146,7 +143,6 @@ def extract_frontmatter(text: str) -> dict[str, Any]:
         if not line.strip() or line.lstrip().startswith("#"):
             continue
 
-        # Multiline list item
         if current_key and re.match(r"^\s*-\s+", line):
             item = re.sub(r"^\s*-\s+", "", line).strip()
             if not isinstance(data.get(current_key), list):
@@ -154,7 +150,6 @@ def extract_frontmatter(text: str) -> dict[str, Any]:
             data[current_key].append(clean_scalar(item))
             continue
 
-        # key: value
         m = re.match(r"^([A-Za-z0-9_-]+):\s*(.*)$", line)
         if not m:
             current_key = None
@@ -164,7 +159,6 @@ def extract_frontmatter(text: str) -> dict[str, Any]:
         current_key = None
 
         if value == "":
-            # Treat known list fields as empty lists so later "- item" appends safely.
             if key in LIST_KEYS:
                 data[key] = []
                 current_key = key
@@ -274,16 +268,12 @@ def collect_entries() -> list[dict[str, Any]]:
             "third_folder": third_folder_from_path(path, typ),
             "path": path.relative_to(ROOT).as_posix(),
             "aliases": normalize_list(fm.get("aliases")),
-            "tags": normalize_list(fm.get("tags")),
-            "status": str(fm.get("status") or "").strip(),
             "summary": str(fm.get("summary") or "").strip(),
+            # These are only used to generate wiki-index.md group headings.
             "journal": str(fm.get("journal") or "").strip(),
             "book_title": str(fm.get("book_title") or "").strip(),
             "issuing_organization": str(fm.get("issuing_organization") or "").strip(),
-            "publisher": str(fm.get("publisher") or "").strip(),
             "nationality": str(fm.get("nationality") or "").strip(),
-            "region": str(fm.get("region") or "").strip(),
-            "method_type": str(fm.get("method_type") or "").strip(),
         }
         entry["third_level"] = third_level(entry)
         entries.append(entry)
@@ -301,33 +291,24 @@ def collect_entries() -> list[dict[str, Any]]:
 
 
 def write_json(entries: list[dict[str, Any]]) -> None:
-    compact: list[dict[str, Any]] = []
+    """
+    Keep this intentionally minimal.
 
+    Purpose:
+    - Let AI / Claude Code quickly know whether an entry exists.
+    - Provide the file path if it needs to open the entry.
+    - Include aliases for matching Chinese names / abbreviations.
+
+    Do not store type, tags, status, journal, book_title, sources, or related_* here.
+    """
+    compact = []
     for e in entries:
         item = {
             "title": e["title"],
-            "type": e["type"],
-            "subtype": e["subtype"],
             "path": e["path"],
-            "aliases": e["aliases"],
-            "summary": e["summary"],
         }
-
-        if e.get("second_level"):
-            item["folder_group"] = e["second_level"]
-
-        if e["type"] in {"argument", "fact", "person"}:
-            item["index_group"] = e.get("third_level", "")
-
-        if e["type"] == "argument":
-            item["journal"] = e["journal"]
-            item["book_title"] = e["book_title"]
-            item["issuing_organization"] = e["issuing_organization"]
-        elif e["type"] == "person":
-            item["nationality"] = e["nationality"]
-        elif e["type"] == "fact":
-            item["region"] = e["region"]
-
+        if e.get("aliases"):
+            item["aliases"] = e["aliases"]
         compact.append(item)
 
     INDEX_JSON.write_text(json.dumps(compact, ensure_ascii=False, indent=2), encoding="utf-8")
