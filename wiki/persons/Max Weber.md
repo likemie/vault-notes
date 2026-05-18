@@ -3,10 +3,10 @@ title: Max Weber
 aliases: [马克斯·韦伯, Weber, 韦伯, Maximilian Carl Emil Weber]
 type: person
 tags: [Max-Weber, classical-sociology, interpretivism, region/germany]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Work Meaning Schemas (Zheng)]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Credential Inflation]]"]
-related_theories: ["[[Culture as Toolkit]]"]
+related_concepts: ["[[Goal-Controlled Mode]]", "[[Work Meaning Schemas (Zheng)]]", "[[Graduation Pathway Typology (Zheng)]]", "[[Credential Inflation]]", "[[Corporate Education]]"]
+related_theories: ["[[Culture as Toolkit]]", "[[Institutional Isomorphism]]"]
 related_persons: ["[[Pierre Bourdieu]]", "[[Yajun Zheng]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+sources: ["[[郑_2023_上海三联书店]]", "[[Ch11_Hartmann_2022]]"]
 confidence: medium
 status: draft
 created: 2026-05-08
