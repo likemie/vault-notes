@@ -18,3 +18,4 @@ processed_date: 2026-05-11
 - [[Argument_Boyadjieva_2022_Springer]] — Ch8 Pepka Boyadjieva: 以可行能力路径和制度理论构建高等教育多维使命模型（2×3 矩阵），以此批判全球排名推行一刀切大学模型、忽视使命多样性和肯定有限公共利益理解
 - [[Argument_Zapp_2022_Springer]] — Ch9 Mike Zapp: 以世界社会理论和组织能动者身份（actorhood/otherhood）为框架，分析大学通过研究、教学、内部政策和网络四种机制嵌入全球治理，以 SDGs 为案例，警示科学的政治化和大学的地缘政治再领土化风险
 - [[Argument_Rambla_2022_Springer]] — Ch10 Xavier Rambla: 以 Le Galès 政策工具框架分析欧盟创新与教育培训政策如何通过绩效指标构建区域性的教育与创新想象，揭示其系统性地优先技术研发和就业导向的终身学习、边缘化区域异质性和终身学习的人文赋权维度
+- [[Argument_Hartmann_2022_CorporateEducation]] — Ch11 Eva Hartmann: 以制度同构理论和 MNC 组织类型学为框架，分析企业教育的国际化程度及其地缘政治与地缘经济维度，识别四种权威来源策略

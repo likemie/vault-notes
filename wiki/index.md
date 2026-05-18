@@ -180,6 +180,12 @@
 - [[Value Conformist Mode]] — 郑雅君 (2023) 的类型：直觉依赖模式+强价值信念=价值归顺者，内化学校理想信念获得体制赞助性流动
 - [[Work Meaning Schemas (Zheng)]] — 郑雅君 (2023) 的工作意义三角图式结构：地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达三种文化图式及其代内分化
 
+### Adult & Further Education
+
+- [[Further Education]] — 继续教育：非正规中学后教育形式，在结构化教育系统之外进行，与非学位证书和微证书相关联，是后福特知识经济中终身学习的关键组成部分
+- [[Corporate Education]] — 企业教育：企业为雇员提供的教育培训，以"像公司一样看世界"为软权力功能，范围涵盖初始职业教育到高层管理培训
+- [[Corporate University]] — 企业大学：MNCs 集中化教育培训的总称，Rademakers 区分为学校型（高度标准化）、学院型（对齐策略）和学院型（高级管理层共同生产知识）三类
+
 ### Instruction & Pedagogy
 
 - [[Learnification]] — Gert Biesta 提出的批判概念：学习被效果中心的结果逻辑所吞噬，教师被降格为"学习促进者"，Larsen (2019) 在丹麦语境中追溯其历史演变
@@ -282,6 +288,7 @@
 - [[Dual-Process Model of Culture in Action]] — Stephen Vaisey (2009) 的理论：调和文化工具箱与价值观驱动两种范式，论证二者在不同意识层次上并存，郑雅君 (2023) 作为"价值选择过程"的理论基础
 - [[Refraction Framework]] — Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成
 - [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，Laursen (2015) 用其检验以英语国家研究为主的有效教学综合是否适用于丹麦
+- [[Institutional Isomorphism]] — DiMaggio & Powell (1983) 的组织社会学理论：组织场域中的组织通过强制型、模仿型和规范型三种机制在结构和实践上趋于同质化，Hartmann (2022) 应用于分析 MNCs 企业教育的规范扩散
 - [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，Larsen (2019) 以盲点和结构耦合概念批判 VL
 - [[Network Society]] — Castells (1996) 的理论：社会组织从稳定等级制转向流动网络形式，Benkler (2006) 延伸论证跨国网络为知识创造新源泉，Rizvi (2022) 用于分析跨国研究合作的网络化转型
 - [[Rational Action Theory in Education]] — Breen & Goldthorpe (1997) 的教育分层理论：以相对风险规避机制解释阶层间教育选择的系统性差异，揭示家庭背景的次属效应，郑雅君 (2023) 作为"价值选择过程"的理论对话方
