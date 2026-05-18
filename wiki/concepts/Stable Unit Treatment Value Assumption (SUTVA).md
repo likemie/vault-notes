@@ -1,11 +1,20 @@
 ---
 title: Stable Unit Treatment Value Assumption (SUTVA)
 type: concept
-tags: [SUTVA, stable-unit-treatment-value-assumption, causal-inference, subject/research-methodology]
-related_concepts: ["[[Potential Outcomes Framework]]", "[[Cluster Randomized Trials]]", "[[Randomised Controlled Trials]]"]
-related_methods: ["[[Randomised Controlled Trials]]"]
+tags:
+  - SUTVA
+  - stable-unit-treatment-value-assumption
+  - causal-inference
+  - subject/research-methodology
+related_concepts:
+  - "[[Potential Outcomes Framework]]"
+  - "[[Cluster Randomized Trials]]"
+  - "[[Randomised Controlled Trials]]"
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
-sources: ["sources/Berk_2011_ER.md"]
+sources:
+  - sources/Berk_2011_ER.md
 confidence: low
 status: draft
 created: 2026-05-03

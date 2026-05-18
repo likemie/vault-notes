@@ -1,13 +1,31 @@
 ---
 title: Cult of the Guru
 type: concept
-tags: [Cult of the Guru, school-leadership, educational-administration, paradigm/critical, region/australia]
-related_concepts: ["[[Neo-Taylorism in Educational Administration]]", "[[Visible Learning]]", "[[School Leadership]]"]
-related_persons: ["[[Scott Eacott]]", "[[John Hattie]]"]
-related_theories: ["[[Pierre Bourdieu]]"]
-related_arguments: ["[[Argument_Eacott_2017_SLM]]", "[[Argument_Hattie_2017_SLM]]"]
-related_facts: ["[[Visible Learning Branding and Global Influences]]"]
-sources: ["sources/Eacott_2017_SLM.md", "sources/Hattie_2017_SLM.md", "sources/Eacott_2019_IJLE.md", "sources/Johnson_2023_CE.md"]
+tags:
+  - Cult of the Guru
+  - school-leadership
+  - educational-administration
+  - paradigm/critical
+  - region/australia
+related_concepts:
+  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Visible Learning]]"
+  - "[[School Leadership]]"
+related_persons:
+  - "[[Scott Eacott]]"
+  - "[[John Hattie]]"
+related_theories:
+  - "[[Pierre Bourdieu]]"
+related_arguments:
+  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Hattie_2017_SLM]]"
+related_facts:
+  - "[[Visible Learning Branding and Global Influences]]"
+sources:
+  - sources/Eacott_2017_SLM.md
+  - sources/Hattie_2017_SLM.md
+  - sources/Eacott_2019_IJLE.md
+  - sources/Johnson_2023_CE.md
 confidence: medium
 status: draft
 created: 2026-05-03
