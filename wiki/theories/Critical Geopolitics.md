@@ -8,8 +8,8 @@ related_theories: ["[[Fixity-Motion Tension]]", "[[Decolonial Geopolitics of Kno
 related_persons: ["[[Sami Moisio]]", "[[Michael Porter]]", "[[Bob Jessop]]", "[[David Harvey]]", "[[Fazal Rizvi]]"]
 related_methods: []
 related_facts: []
-related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
+related_arguments: ["[[Argument_Hartmann_2022_CorporateEducation]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022.md"]
 confidence: low
 status: draft
 created: 2026-05-07

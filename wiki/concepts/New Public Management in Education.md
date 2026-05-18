@@ -19,6 +19,7 @@ related_concepts:
   - "[[Endogenous and Exogenous Privatisation]]"
 related_theories:
   - "[[Transitology]]"
+  - "[[Institutional Isomorphism]]"
 related_persons:
   - "[[Helen Gunter]]"
   - "[[Jorunn Møller]]"
@@ -28,6 +29,7 @@ related_facts:
   - "[[Australia in the Asian Century White Paper 2012]]"
 related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources:
   - sources/Møller_2017_EERJ.md
   - sources/Eacott_2011_JEAH.md
@@ -35,6 +37,7 @@ sources:
   - sources/Keddie_2020_IJLE.md
   - books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md
   - books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md
+  - books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022.md
 confidence: medium
 status: draft
 created: 2026-05-02

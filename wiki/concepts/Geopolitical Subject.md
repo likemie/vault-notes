@@ -3,13 +3,13 @@ title: Geopolitical Subject
 aliases: []
 type: concept
 tags: [geopolitical-subject, knowledge-based-economization, subject-formation, region/global, level/higher-ed]
-related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]"]
+related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Corporate Education]]"]
 related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
 related_persons: ["[[Sami Moisio]]"]
 related_methods: []
 related_facts: []
-related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
+related_arguments: ["[[Argument_Hartmann_2022_CorporateEducation]]"]
+sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022.md"]
 confidence: low
 status: draft
 created: 2026-05-07
