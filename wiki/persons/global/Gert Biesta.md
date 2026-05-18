@@ -1,6 +1,7 @@
 ---
 title: Gert Biesta
-aliases: []
+aliases:
+- 格特·比斯塔
 summary: 当代最具影响力的教育哲学家之一，以对证据本位教育的系统性批判和教育目的论阐述著称
 type: person
 nationality: global

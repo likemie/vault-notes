@@ -1,6 +1,8 @@
 ---
 title: John Hattie
 aliases:
+- 约翰·哈蒂
+- 哈蒂
 - Hattie
 summary: 墨尔本大学教育统计学家，Visible Learning 创始人，以 800+ 元分析综合效应量排名全球影响教育政策和实践，同时面临方法论和文化政治的多维度批评
 type: person
@@ -319,4 +321,3 @@ Larsen 与 Hattie 于 2018 年在哥本哈根进行了关于"教育的目的"的
 - [[Nielsen_2021_NordPsych]]
 - [[Bainbridge_2022_ROE]]
 - [[Johnson_2023_CE]]
-
