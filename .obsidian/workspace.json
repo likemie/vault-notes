@@ -11,10 +11,14 @@
             "id": "f49437b00d1a74a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/arguments/Argument_Delambre_2022_Springer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Argument_Delambre_2022_Springer"
             }
           }
         ]
@@ -185,6 +189,7 @@
   },
   "active": "f49437b00d1a74a8",
   "lastOpenFiles": [
+    "wiki/concepts/Whole Sustainability.md",
     "vault-schema.md",
     "wiki/theories/Science and Technology Studies (STS).md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/vault-schema-manifest-patch.md",
@@ -210,7 +215,6 @@
     "wiki/concepts/Further Education.md",
     "wiki/persons/Max Weber.md",
     "wiki/arguments/Argument_Parreira do Amaral_2022_Springer.md",
-    "sources/Parreira do Amaral(Ed.)_2022_Springer.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022.pdf",
     "raw/Parreira do Amaral(Ed.)_2022_11章.pdf",
     "raw/978-3-030-94415-5_11.pdf",
