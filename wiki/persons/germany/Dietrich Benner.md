@@ -1,6 +1,7 @@
 ---
 title: Dietrich Benner
-aliases: []
+aliases:
+- 迪特里希·本纳
 summary: 德国教育学家，提出修正版教学三角模型和 Bildung/Erziehung 区分，Sarbiewska (2019) 以其框架解释 VL 政策影响
 type: person
 nationality: germany

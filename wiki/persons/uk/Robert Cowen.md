@@ -1,6 +1,7 @@
 ---
 title: Robert Cowen
-aliases: []
+aliases:
+- 罗伯特·考恩
 summary: 英国比较教育学者，transitology 概念和现代／晚期现代教育双轴比较模型的原创者，对教育与社会转型关系的理论化有重要影响
 type: person
 nationality: uk

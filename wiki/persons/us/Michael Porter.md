@@ -1,6 +1,7 @@
 ---
 title: Michael Porter
-aliases: []
+aliases:
+- 迈克尔·波特
 summary: 哈佛商学院教授，竞争战略和国家竞争优势（1990）理论创始人，Moisio (2022) 将其"全球化使国家更重要"悖论分析为塑造知识经济化空间政策的关键地缘政治想象
 type: person
 nationality: us

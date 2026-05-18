@@ -1,6 +1,7 @@
 ---
 title: Geert Hofstede
-aliases: []
+aliases:
+- 吉尔特·霍夫斯泰德
 summary: 国家文化研究学者，提出个人主义/集体主义、权力距离、女性化/男性化、不确定性规避等文化维度，Laursen 用其分析丹麦有效教学语境
 type: person
 nationality: global

@@ -1,6 +1,7 @@
 ---
 title: Stephen Ball
-aliases: []
+aliases:
+- 斯蒂芬·鲍尔
 summary: UCL 教育学院教育社会学家，提出内生/外生私有化区分（Ball & Youdell 2008）、教育政策五重语境框架（1994）和跨国政策创业概念（2012）
 type: person
 nationality: uk

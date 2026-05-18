@@ -1,6 +1,7 @@
 ---
 title: Wolfgang Klafki
-aliases: []
+aliases:
+- 沃尔夫冈·克拉夫基
 summary: 德国教育学家和 Didaktik 传统关键人物，提出以 epochal key problems 组织面向未来的课程工作
 type: person
 nationality: germany

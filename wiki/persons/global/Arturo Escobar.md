@@ -1,6 +1,7 @@
 ---
 title: Arturo Escobar
-aliases: []
+aliases:
+- 阿图罗·埃斯科瓦尔
 summary: 哥伦比亚裔美国人类学家和设计理论家，Pluriverse 和 transition design 概念提出者，被 Amos (2022) 援引为晚期现代性替代教育愿景的理论资源
 type: person
 nationality: global
