@@ -16,6 +16,8 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Spatial Sortings]]"
 related_theories: []
 related_methods: []
 related_persons:

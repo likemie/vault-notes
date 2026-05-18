@@ -85,6 +85,7 @@ related_facts:
 related_arguments:
 - '[[Argument_Rizvi_2022_Springer]]'
 - '[[Argument_Delambre_2022_Springer]]'
+- '[[Argument_Erfurth_2022_education-hubs]]'
 - '[[Argument_Boyadjieva_2022_Springer]]'
 - '[[Argument_Zapp_2022_Springer]]'
 - '[[Argument_Marginson_2025_ROE]]'
@@ -97,11 +98,12 @@ sources:
 - '[[Ch7_Delambre_2022]]'
 - '[[Ch8_Boyadjieva_2022]]'
 - '[[Ch9_Zapp_2022]]'
+- '[[Ch12_Erfurth_2022]]'
 - '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 定义
