@@ -1,7 +1,7 @@
 ---
 title: A Nation at Risk 1983
 aliases: []
-summary: 美国国家教育卓越委员会发布的报告，引发全球教育质量恐慌，直接触发 OECD 教育指标体系（INES/EAG）的加速建立
+summary: "美国国家教育卓越委员会发布的报告，引发全球教育质量恐慌，直接触发 OECD 教育指标体系（INES/EAG）的加速建立"
 type: fact
 subtype: event
 region: us

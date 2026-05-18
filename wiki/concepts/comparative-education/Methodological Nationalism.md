@@ -2,7 +2,7 @@
 title: Methodological Nationalism
 aliases:
 - 方法论民族主义
-summary: Wimmer & Schiller (2003) 的概念：认为民族国家是现代世界自然社会和政治形式的信念，遮蔽全球现象和多重尺度，Massey 批判其为"对连贯国族性的浪漫幻想
+summary: "Wimmer & Schiller (2003) 的概念：认为民族国家是现代世界自然社会和政治形式的信念，遮蔽全球现象和多重尺度，Massey 批判其为\"对连贯国族性的浪漫幻想"
 type: concept
 tags:
 - region/global

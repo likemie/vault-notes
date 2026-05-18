@@ -1,6 +1,6 @@
 ---
 title: Argument_Zapp_2022_Springer
-summary: 'Ch9 Mike Zapp: 以世界社会理论和组织能动者身份为框架，分析大学通过研究、教学、内部政策和网络四种机制嵌入全球治理，以 SDGs 为案例，警示科学的政治化和大学的地缘政治再领土化风险'
+summary: "Ch9 Mike Zapp_ 以世界社会理论和组织能动者身份为框架，分析大学通过研究、教学、内部政策和网络四种机制嵌入全球治理，以 SDGs 为案例，警示科学的政治化和大学的地缘政治再领土化风险"
 type: argument
 subtype: book-chapter
 publication_type: book

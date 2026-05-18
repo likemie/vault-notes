@@ -1,6 +1,6 @@
 ---
 title: Argument_Simpson_2017_JEP
-summary: 以农场肥料思想实验和真实研究案例，论证效应量三大系统性偏差（比较组、范围限制、测量设计）使元分析联盟表成为"研究设计操纵开放程度的等级"而非教育有效性排名
+summary: "以农场肥料思想实验和真实研究案例，论证效应量三大系统性偏差（比较组、范围限制、测量设计）使元分析联盟表成为\"研究设计操纵开放程度的等级\"而非教育有效性排名"
 type: argument
 subtype: journal-article
 publication_type: journal-article

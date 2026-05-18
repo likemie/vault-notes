@@ -1,7 +1,7 @@
 ---
 title: Cultural Barrier in Higher Education
 aliases: []
-summary: 郑雅君 (2023) 的概念：因不具备精英大学中默认掌握的文化知识和文化技能而造成的无形障碍，不利于低阶层大学生获取向上流动机会和主观自我认同
+summary: "郑雅君 (2023) 的概念：因不具备精英大学中默认掌握的文化知识和文化技能而造成的无形障碍，不利于低阶层大学生获取向上流动机会和主观自我认同"
 type: concept
 tags:
 - cultural-barrier

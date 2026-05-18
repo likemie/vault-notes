@@ -1,6 +1,6 @@
 ---
 title: Argument_Wiliam_2019
-summary: ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，论证教育知识局部且临时、EBE 永远不会成功、"什么有效"是错误问题，提出四个决策问题框架
+summary: "ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，论证教育知识局部且临时、EBE 永远不会成功、\"什么有效\"是错误问题，提出四个决策问题框架"
 type: argument
 subtype: journal-article
 publication_type: journal-article

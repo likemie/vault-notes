@@ -2,7 +2,7 @@
 title: Nancy Cartwright
 aliases:
 - 南希·卡特赖特
-summary: 英国科学哲学家，因果外推与RCT局限研究代表人物，为教育研究反思“什么有效”的证据迁移条件提供方法论基础。
+summary: "英国科学哲学家，因果外推与RCT局限研究代表人物，为教育研究反思“什么有效”的证据迁移条件提供方法论基础。"
 type: person
 nationality: uk
 tags:

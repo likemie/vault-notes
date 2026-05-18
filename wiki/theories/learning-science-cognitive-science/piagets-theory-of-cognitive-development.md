@@ -1,7 +1,7 @@
 ---
 title: Piaget's Theory of Cognitive Development
 aliases: []
-summary: 皮亚杰的认知发展四阶段建构主义理论：感觉运动→前运算→具体运算→形式运算，Bolton & Hattie (2017) 论证其与 PFC 发育在时间上平行对应
+summary: "皮亚杰的认知发展四阶段建构主义理论：感觉运动→前运算→具体运算→形式运算，Bolton & Hattie (2017) 论证其与 PFC 发育在时间上平行对应"
 type: theory
 tags:
 - piaget

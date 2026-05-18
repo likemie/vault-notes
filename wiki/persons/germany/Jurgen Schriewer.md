@@ -2,7 +2,7 @@
 title: Jurgen Schriewer
 aliases:
 - 于尔根·施里韦尔
-summary: 德国比较教育学者，系统理论与“外化”概念引入者，为教育研究分析政策借用与跨国参照提供方法论资源。
+summary: "德国比较教育学者，系统理论与“外化”概念引入者，为教育研究分析政策借用与跨国参照提供方法论资源。"
 type: person
 nationality: germany
 tags:

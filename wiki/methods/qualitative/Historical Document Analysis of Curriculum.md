@@ -3,7 +3,7 @@ title: Historical Document Analysis of Curriculum
 aliases:
 - 课程历史文献分析
 - 历史文献分析
-summary: 通过系统分析课程文件、政府政策、媒体报道和学术文献重建科目演变历程，识别课程变革的政治动力
+summary: "通过系统分析课程文件、政府政策、媒体报道和学术文献重建科目演变历程，识别课程变革的政治动力"
 type: method
 method_type: qualitative
 tags:

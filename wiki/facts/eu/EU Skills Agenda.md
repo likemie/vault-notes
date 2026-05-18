@@ -4,7 +4,7 @@ aliases:
 - 欧盟技能议程
 - Skills Agenda
 - New Skills Agenda for Europe
-summary: EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，YOUNG_ADULLLT 项目揭示其在欧盟各地差异化实施
+summary: "EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，YOUNG_ADULLLT 项目揭示其在欧盟各地差异化实施"
 type: fact
 subtype: policy
 region: eu

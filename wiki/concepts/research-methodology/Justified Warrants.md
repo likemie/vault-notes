@@ -1,7 +1,7 @@
 ---
 title: Justified Warrants
 aliases: []
-summary: Malone & Hogan (2020) 基于 Dewey 的概念：研究应提供暂定性、可修正的担保断言而非确定性证明，Bainbridge et al. (2022) 用于评估政策论证的逻辑推进
+summary: "Malone & Hogan (2020) 基于 Dewey 的概念：研究应提供暂定性、可修正的担保断言而非确定性证明，Bainbridge et al. (2022) 用于评估政策论证的逻辑推进"
 type: concept
 tags:
 - justified-warrants

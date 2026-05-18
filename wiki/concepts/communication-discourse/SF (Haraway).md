@@ -1,7 +1,7 @@
 ---
 title: SF (Haraway)
 aliases: []
-summary: Haraway 的核心方法论缩写：同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今），Amos (2022) 将其定位为通过讲故事实践进行"世界制造"的后人类主义方法
+summary: "Haraway 的核心方法论缩写：同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今），Amos (2022) 将其定位为通过讲故事实践进行\"世界制造\"的后人类主义方法"
 type: concept
 tags:
 - sf

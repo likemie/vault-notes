@@ -1,7 +1,7 @@
 ---
 title: Membership-Creating Function of Education
 aliases: []
-summary: Ramirez & Boli (1987) 揭示的现代教育基础功能：公立学校系统同时建立忠诚与归属的纽带（创造成员身份）和划定"谁属于我们、谁是外人"的边界，Amos (2022) 以此分析晚期现代性中该功能的弱化
+summary: "Ramirez & Boli (1987) 揭示的现代教育基础功能：公立学校系统同时建立忠诚与归属的纽带（创造成员身份）和划定\"谁属于我们、谁是外人\"的边界，Amos (2022) 以此分析晚期现代性中该功能的弱化"
 type: concept
 tags:
 - membership

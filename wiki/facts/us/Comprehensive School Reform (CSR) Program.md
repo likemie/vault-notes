@@ -1,7 +1,7 @@
 ---
 title: Comprehensive School Reform (CSR) Program
 aliases: []
-summary: 1998 年 Obey-Porter 立法首次将联邦教育拨款与有效性证据挂钩（USD 150M→USD 310M/年），但仅 20.8% 拨款流向强证据项目
+summary: "1998 年 Obey-Porter 立法首次将联邦教育拨款与有效性证据挂钩（USD 150M→USD 310M/年），但仅 20.8% 拨款流向强证据项目"
 type: fact
 subtype: policy
 region: us

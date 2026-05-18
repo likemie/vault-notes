@@ -1,7 +1,7 @@
 ---
 title: Surface and Deep Learning
 aliases: []
-summary: 表层学习知晓事实与内容 vs 深层学习知晓关系与连接，评估驱动表层学习是高等教育核心悖论
+summary: "表层学习知晓事实与内容 vs 深层学习知晓关系与连接，评估驱动表层学习是高等教育核心悖论"
 type: concept
 tags:
 - surface-learning

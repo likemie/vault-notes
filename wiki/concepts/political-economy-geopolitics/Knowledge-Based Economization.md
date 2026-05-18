@@ -1,7 +1,7 @@
 ---
 title: Knowledge-Based Economization
 aliases: []
-summary: Moisio (2018) 的概念：关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践被话语建构的过程
+summary: "Moisio (2018) 的概念：关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践被话语建构的过程"
 type: concept
 tags:
 - knowledge-based-economization

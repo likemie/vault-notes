@@ -1,6 +1,6 @@
 ---
 title: Argument_McKnight_2020_Discourse
-summary: 从文化政治视角对 Visible Learning 提出七点系统批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设
+summary: "从文化政治视角对 Visible Learning 提出七点系统批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设"
 type: argument
 subtype: journal-article
 publication_type: journal-article

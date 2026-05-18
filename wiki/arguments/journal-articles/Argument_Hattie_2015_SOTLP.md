@@ -1,6 +1,6 @@
 ---
 title: Argument_Hattie_2015_SOTLP
-summary: 将 VL 框架应用于高等教育：PBL 低效（d≈0.08）、在线 vs 面授无差异（d≈0.12）、提出六项关键发现、DIE 模型和八项教师思维框架
+summary: "将 VL 框架应用于高等教育：PBL 低效（d≈0.08）、在线 vs 面授无差异（d≈0.12）、提出六项关键发现、DIE 模型和八项教师思维框架"
 type: argument
 subtype: journal-article
 publication_type: journal-article

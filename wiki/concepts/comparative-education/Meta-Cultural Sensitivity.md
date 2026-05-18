@@ -3,7 +3,7 @@ title: Meta-Cultural Sensitivity
 aliases:
 - 元文化敏感度
 - meta-cultural sensitivity
-summary: Louie (2005) 的跨文化教学元能力："后退一步"将所有文化（包括自身文化）作为系统来理解，既不盲目推崇也不简单否定
+summary: "Louie (2005) 的跨文化教学元能力：\"后退一步\"将所有文化（包括自身文化）作为系统来理解，既不盲目推崇也不简单否定"
 type: concept
 tags:
 - theme/cross-cultural

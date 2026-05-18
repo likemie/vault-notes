@@ -1,6 +1,6 @@
 ---
 title: Argument_Johnson_2023_CE
-summary: 从方法论不透明、新泰勒主义教师监控、新自由主义商业化、Cargo Cult Science 四角度对 VL 的系统批判
+summary: "从方法论不透明、新泰勒主义教师监控、新自由主义商业化、Cargo Cult Science 四角度对 VL 的系统批判"
 type: argument
 subtype: journal-article
 publication_type: journal-article

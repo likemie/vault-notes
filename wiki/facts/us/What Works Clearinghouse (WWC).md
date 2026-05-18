@@ -1,7 +1,7 @@
 ---
 title: What Works Clearinghouse (WWC)
 aliases: []
-summary: 美国教育部 2002 年创建的 evidence clearinghouse，评级项目、政策、实践和研究；Wiliam (2019) 追溯其政治动力，Wadhwa et al. (2024) 记录其在教育清算中心生态中的高度可见度
+summary: "美国教育部 2002 年创建的 evidence clearinghouse，评级项目、政策、实践和研究；Wiliam (2019) 追溯其政治动力，Wadhwa et al. (2024) 记录其在教育清算中心生态中的高度可见度"
 type: fact
 subtype: event
 region: us

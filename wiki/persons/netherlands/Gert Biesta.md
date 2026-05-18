@@ -2,7 +2,7 @@
 title: Gert Biesta
 aliases:
 - 格特·比斯塔
-summary: 荷兰教育哲学家，《教育的美丽风险》作者与教育目的论重构者，为教育研究反思证据本位、学习化与主体形成提供核心批判。
+summary: "荷兰教育哲学家，教育的美丽风险作者与教育目的论重构者，为教育研究反思证据本位、学习化与主体形成提供核心批判。"
 type: person
 nationality: netherlands
 tags:

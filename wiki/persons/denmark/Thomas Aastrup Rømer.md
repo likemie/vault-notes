@@ -2,7 +2,7 @@
 title: Thomas Aastrup Rømer
 aliases:
 - 托马斯·奥斯特鲁普·勒默
-summary: 丹麦教育哲学学者，Visible Learning五线批评和“纯粹评价”概念提出者，为教育研究反思评价主义和技术化治理提供系统批判。
+summary: "丹麦教育哲学学者，Visible Learning五线批评和“纯粹评价”概念提出者，为教育研究反思评价主义和技术化治理提供系统批判。"
 type: person
 nationality: denmark
 tags:

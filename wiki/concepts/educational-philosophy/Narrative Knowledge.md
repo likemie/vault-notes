@@ -4,7 +4,7 @@ aliases:
 - 叙事知识
 - narrative knowledge (Lyotard)
 - scientific knowledge vs narrative knowledge
-summary: Lyotard (1979/1984) 区分于科学知识的社科人文知识类型，Partaken 分析其在全球化中因商业价值科学知识崛起而急剧衰退
+summary: "Lyotard (1979/1984) 区分于科学知识的社科人文知识类型，Partaken 分析其在全球化中因商业价值科学知识崛起而急剧衰退"
 type: concept
 tags:
 - geopolitics-of-knowledge

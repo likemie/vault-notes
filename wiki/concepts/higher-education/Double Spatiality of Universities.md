@@ -2,7 +2,7 @@
 title: Double Spatiality of Universities
 aliases:
 - 大学双重空间性
-summary: 大学的双重空间特征：同时扎根于具体的城市与国家，又通过学术流动和开放心智视野跨越边界，贯穿从佛教寺院到现代大学的高等教育史
+summary: "大学的双重空间特征：同时扎根于具体的城市与国家，又通过学术流动和开放心智视野跨越边界，贯穿从佛教寺院到现代大学的高等教育史"
 type: concept
 tags:
 - theme/spatiality

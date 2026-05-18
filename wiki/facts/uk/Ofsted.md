@@ -1,7 +1,7 @@
 ---
 title: Ofsted
 aliases: []
-summary: 英国教育标准办公室，其学校评级被 Bainbridge et al. 发现系统性混同为研究证据，成为"建构型道德侧步"的核心操作工具
+summary: "英国教育标准办公室，其学校评级被 Bainbridge et al. 发现系统性混同为研究证据，成为\"建构型道德侧步\"的核心操作工具"
 type: fact
 subtype: policy
 region: uk

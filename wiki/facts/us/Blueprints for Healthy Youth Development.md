@@ -1,7 +1,7 @@
 ---
 title: Blueprints for Healthy Youth Development
 aliases: []
-summary: 多领域非营利清算中心，最高评级强调高质量研究、独立复制和 12 个月持续效果
+summary: "多领域非营利清算中心，最高评级强调高质量研究、独立复制和 12 个月持续效果"
 type: fact
 subtype: event
 region: us

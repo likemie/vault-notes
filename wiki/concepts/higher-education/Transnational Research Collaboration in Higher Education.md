@@ -4,7 +4,7 @@ aliases:
 - 跨国研究合作
 - transnational research collaboration
 - international research collaboration
-summary: Rizvi 的分析焦点：跨国研究合作中个体学术、机构声誉、国家经济和外交四重理性的融合
+summary: "Rizvi 的分析焦点：跨国研究合作中个体学术、机构声誉、国家经济和外交四重理性的融合"
 type: concept
 tags:
 - research-collaboration

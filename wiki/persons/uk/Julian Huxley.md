@@ -2,7 +2,7 @@
 title: Julian Huxley
 aliases:
 - 朱利安·赫胥黎
-summary: 英国生物学家与科学管理者，transhumanism一词提出者，为教育研究思考超人类主义、进步叙事与人性改造提供谱系线索。
+summary: "英国生物学家与科学管理者，transhumanism一词提出者，为教育研究思考超人类主义、进步叙事与人性改造提供谱系线索。"
 type: person
 nationality: uk
 tags:

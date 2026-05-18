@@ -1,7 +1,7 @@
 ---
 title: California Class Size Reduction 1996
 aliases: []
-summary: 加州试图复制田纳西州班级缩减成功但失败，因缺乏合格教师和教室空间，成为 fidelity vs adaptation 辩论的经典案例，Wiliam (2019) 量化教师质量恶化（未认证教师 1/200→1/8）并论证试验条件在大规模推广时系统性不成立
+summary: "加州试图复制田纳西州班级缩减成功但失败，因缺乏合格教师和教室空间，成为 fidelity vs adaptation 辩论的经典案例，Wiliam (2019) 量化教师质量恶化（未认证教师 1/200→1/8）并论证试验条件在大规模推广时系统性不成立"
 type: fact
 subtype: event
 region: us

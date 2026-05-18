@@ -1,7 +1,7 @@
 ---
 title: Atomisation of Knowledge and Skills
 aliases: []
-summary: 测量、问责和经济竞争逻辑下，教育内容被拆成可评估、可比较、可交易的小单位
+summary: "测量、问责和经济竞争逻辑下，教育内容被拆成可评估、可比较、可交易的小单位"
 type: concept
 tags:
 - atomisation-of-knowledge

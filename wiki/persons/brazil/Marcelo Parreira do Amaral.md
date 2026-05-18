@@ -2,7 +2,7 @@
 title: Marcelo Parreira do Amaral
 aliases:
 - 马塞洛·帕雷拉·多·阿马拉尔
-summary: 巴西裔德国比较教育学者，全球教育产业与知识地缘政治研究者，为教育研究分析高教国际化、市场化与地缘政治转型提供框架。
+summary: "巴西裔德国比较教育学者，全球教育产业与知识地缘政治研究者，为教育研究分析高教国际化、市场化与地缘政治转型提供框架。"
 type: person
 nationality: brazil
 tags:

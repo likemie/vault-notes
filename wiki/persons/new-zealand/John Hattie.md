@@ -4,7 +4,7 @@ aliases:
 - 约翰·哈蒂
 - 哈蒂
 - Hattie
-summary: 新西兰教育统计学家，《Visible Learning》作者与元分析综合代表人物，为教育研究和政策实践提供高影响力但极具争议的证据排序框架。
+summary: "新西兰教育统计学家，Visible Learning作者与元分析综合代表人物，为教育研究和政策实践提供高影响力但极具争议的证据排序框架。"
 type: person
 nationality: new-zealand
 tags:

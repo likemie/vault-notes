@@ -1,7 +1,7 @@
 ---
 title: Global Education Reform Movement (GERM)
 aliases: []
-summary: Sahlberg (2012) 术语：以新自由主义意识形态驱动的全球教育改革运动，标准化、问责、市场化、私有化为特征，Johnson & Janzen 论证 VL 在 GERM 中扮演推手角色
+summary: "Sahlberg (2012) 术语：以新自由主义意识形态驱动的全球教育改革运动，标准化、问责、市场化、私有化为特征，Johnson & Janzen 论证 VL 在 GERM 中扮演推手角色"
 type: concept
 tags:
 - GERM

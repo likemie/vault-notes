@@ -4,7 +4,7 @@ aliases:
 - 中国社会信用体系
 - 社会信用体系
 - Social Credit System
-summary: 中国利用大数据对公民行为进行永久性评估的治理系统，Partaken (2022) 定位为 GPK 监视模态的当代典范
+summary: "中国利用大数据对公民行为进行永久性评估的治理系统，Partaken (2022) 定位为 GPK 监视模态的当代典范"
 type: fact
 subtype: event
 region: china

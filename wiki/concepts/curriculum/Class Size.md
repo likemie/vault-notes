@@ -1,7 +1,7 @@
 ---
 title: Class Size
 aliases: []
-summary: 班级学生人数，Hattie 评级 d≈0.2（小型效应），但 STAR 研究等高质量 RCT 发现效应量达 0.62–0.66；效果取决于与教学方法的交互，仅减班不改变教学无效果
+summary: "班级学生人数，Hattie 评级 d≈0.2（小型效应），但 STAR 研究等高质量 RCT 发现效应量达 0.62–0.66；效果取决于与教学方法的交互，仅减班不改变教学无效果"
 type: concept
 tags:
 - class-size

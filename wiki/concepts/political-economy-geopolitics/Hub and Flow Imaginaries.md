@@ -3,7 +3,7 @@ title: Hub and Flow Imaginaries
 aliases:
 - 枢纽与流动想象
 - hub and flow imaginaries
-summary: Moisio (2022) 的概念：知识经济化中的核心空间想象类型，将世界划分为枢纽中心与边缘区域，集群、创意城市、创业城市等为其空间表述
+summary: "Moisio (2022) 的概念：知识经济化中的核心空间想象类型，将世界划分为枢纽中心与边缘区域，集群、创意城市、创业城市等为其空间表述"
 type: concept
 tags:
 - hub-and-flow

@@ -1,7 +1,7 @@
 ---
 title: Phenomenology
 aliases: []
-summary: 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的"现象"概念和教育意义
+summary: "以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的\"现象\"概念和教育意义"
 type: theory
 tags:
 - phenomenology

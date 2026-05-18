@@ -1,7 +1,7 @@
 ---
 title: Playing for Success
 aliases: []
-summary: 英国在足球俱乐部场地设立的学习支持中心项目，Wrigley & McCusker (2019) 揭示元-元分析程序缺陷的关键案例
+summary: "英国在足球俱乐部场地设立的学习支持中心项目，Wrigley & McCusker (2019) 揭示元-元分析程序缺陷的关键案例"
 type: fact
 subtype: event
 region: uk

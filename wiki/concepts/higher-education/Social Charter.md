@@ -5,7 +5,7 @@ aliases:
 - social charter
 - Meyer social charter
 - 高等教育社会宪章
-summary: Meyer (1970) 的概念：大学与社会之间不成文的约定，规定毕业生获得的社会地位，完全独立于教学效果，排名无法捕捉这一制度维度
+summary: "Meyer (1970) 的概念：大学与社会之间不成文的约定，规定毕业生获得的社会地位，完全独立于教学效果，排名无法捕捉这一制度维度"
 type: concept
 tags:
 - social-charter

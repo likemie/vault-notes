@@ -1,7 +1,7 @@
 ---
 title: Programme Fidelity vs Adaptation
 aliases: []
-summary: 证据本位方案实施中的核心张力：忠实复制原始方案 vs 根据本地条件调整，Cartwright 以加州 1996 年班级缩减政策说明两者各有限度
+summary: "证据本位方案实施中的核心张力：忠实复制原始方案 vs 根据本地条件调整，Cartwright 以加州 1996 年班级缩减政策说明两者各有限度"
 type: concept
 tags:
 - evidence-based-education

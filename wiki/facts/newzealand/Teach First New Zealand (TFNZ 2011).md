@@ -1,7 +1,7 @@
 ---
 title: Teach First New Zealand Ako Mātātupu (TFNZ 2011)
 aliases: []
-summary: 2011 年启动的高成就毕业生就业型初级教师教育慈善信托，7% 接受率，与 Teach for All 全球网络和奥克兰大学合作运营
+summary: "2011 年启动的高成就毕业生就业型初级教师教育慈善信托，7% 接受率，与 Teach for All 全球网络和奥克兰大学合作运营"
 type: fact
 subtype: event
 region: newzealand

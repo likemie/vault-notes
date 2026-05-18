@@ -8,7 +8,7 @@ aliases:
 - World Culture Theory
 - 世界文化理论
 - world culture theory
-summary: Meyer et al. (1997) 的社会学理论（亦称 World Culture Theory / 斯坦福学派）：世界社会通过 otherhood（文化模型的扩散与模仿）建构和维持，解释全球学校模式趋同和大学在全球治理中的知识权威角色；LS 案例揭示其解释力局限
+summary: "Meyer et al. (1997) 的社会学理论（亦称 World Culture Theory / 斯坦福学派）：世界社会通过 otherhood（文化模型的扩散与模仿）建构和维持，解释全球学校模式趋同和大学在全球治理中的知识权威角色；LS 案例揭示其解释力局限"
 type: theory
 tags:
 - region/global

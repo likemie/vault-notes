@@ -2,7 +2,7 @@
 title: Classical Geopolitics
 aliases:
 - 古典地缘政治
-summary: Moisio (2022) 概念：以国家"硬"领土力量和势力范围为中心的传统地缘政治理解，与知识地缘政治的关系性空间构型形成对照
+summary: "Moisio (2022) 概念：以国家\"硬\"领土力量和势力范围为中心的传统地缘政治理解，与知识地缘政治的关系性空间构型形成对照"
 type: concept
 tags:
 - classical-geopolitics

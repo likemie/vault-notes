@@ -2,7 +2,7 @@
 title: Ann Swidler
 aliases:
 - 安·斯威德勒
-summary: 美国文化社会学家，文化工具箱理论提出者，为教育研究理解学生行动策略、文化资源与情境差异提供强有力框架。
+summary: "美国文化社会学家，文化工具箱理论提出者，为教育研究理解学生行动策略、文化资源与情境差异提供强有力框架。"
 type: person
 nationality: us
 tags:

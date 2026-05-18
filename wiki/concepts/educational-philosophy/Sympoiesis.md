@@ -1,7 +1,7 @@
 ---
 title: Sympoiesis
 aliases: []
-summary: Haraway 的核心概念："与他人一起制造"（making with），与 autopoiesis（自我制造）形成对照，强调跨物种的相互依存和伦理回应（response-ability），是后人类主义教育的核心伦理表达
+summary: "Haraway 的核心概念：\"与他人一起制造\"（making with），与 autopoiesis（自我制造）形成对照，强调跨物种的相互依存和伦理回应（response-ability），是后人类主义教育的核心伦理表达"
 type: concept
 tags:
 - sympoiesis

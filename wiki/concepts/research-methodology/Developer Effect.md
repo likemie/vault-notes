@@ -1,7 +1,7 @@
 ---
 title: Developer Effect
 aliases: []
-summary: 开发者委托或实施的项目评估平均效应量系统地大于独立第三方评估，Wolf et al. (2020) 以 WWC 数据首次以元分析技术系统量化
+summary: "开发者委托或实施的项目评估平均效应量系统地大于独立第三方评估，Wolf et al. (2020) 以 WWC 数据首次以元分析技术系统量化"
 type: concept
 tags:
 - developer-effect

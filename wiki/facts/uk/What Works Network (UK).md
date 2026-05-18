@@ -1,7 +1,7 @@
 ---
 title: What Works Network (UK)
 aliases: []
-summary: 英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴
+summary: "英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴"
 type: fact
 subtype: policy
 region: uk

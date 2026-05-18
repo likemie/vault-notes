@@ -1,7 +1,7 @@
 ---
 title: Response-ability
 aliases: []
-summary: Donna Haraway 的双关伦理概念：同时意味着 responsibility（责任）和 ability to respond（回应的能力），是 sympoiesis 的伦理内核——世界通过共同制造而存在，伦理因此要求发展对他者需求的敏感性和回应能力
+summary: "Donna Haraway 的双关伦理概念：同时意味着 responsibility（责任）和 ability to respond（回应的能力），是 sympoiesis 的伦理内核——世界通过共同制造而存在，伦理因此要求发展对他者需求的敏感性和回应能力"
 type: concept
 tags:
 - response-ability

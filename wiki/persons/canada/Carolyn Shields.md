@@ -2,7 +2,7 @@
 title: Carolyn Shields
 aliases:
 - 卡罗琳·希尔兹
-summary: 加拿大教育学者，变革型领导力理论提出者，为教育研究把权力、正义与领导实践重新连起来提供框架。
+summary: "加拿大教育学者，变革型领导力理论提出者，为教育研究把权力、正义与领导实践重新连起来提供框架。"
 type: person
 nationality: canada
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Social Programs That Work (SPTW)
 aliases: []
-summary: 多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库
+summary: "多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库"
 type: fact
 subtype: event
 region: us

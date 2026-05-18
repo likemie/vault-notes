@@ -1,7 +1,7 @@
 ---
 title: Potential Outcomes Framework
 aliases: []
-summary: Neyman-Rubin-Holland 因果推断核心框架：因果效应通过比较同一主体在两种条件下的假设性潜在结果来定义，区分因果效应的定义与估计（Berk, 2011）
+summary: "Neyman-Rubin-Holland 因果推断核心框架：因果效应通过比较同一主体在两种条件下的假设性潜在结果来定义，区分因果效应的定义与估计（Berk, 2011）"
 type: concept
 tags:
 - potential-outcomes-framework

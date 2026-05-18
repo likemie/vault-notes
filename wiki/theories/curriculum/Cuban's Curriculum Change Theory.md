@@ -1,7 +1,7 @@
 ---
 title: Cuban's Curriculum Change Theory
 aliases: []
-summary: 课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因"国家安全"而权重重组
+summary: "课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因\"国家安全\"而权重重组"
 type: theory
 tags:
 - Cuban

@@ -5,7 +5,7 @@ aliases:
 - Asian Century White Paper
 - Henry Report 2012
 - 亚洲世纪白皮书
-summary: 澳大利亚 Henry Report：将亚洲崛起定位为"澳大利亚的机遇"，推动 AISRF、ACSRF 等与亚洲的研究合作
+summary: "澳大利亚 Henry Report：将亚洲崛起定位为\"澳大利亚的机遇\"，推动 AISRF、ACSRF 等与亚洲的研究合作"
 type: fact
 subtype: policy
 region: global

@@ -4,7 +4,7 @@ aliases:
 - 就业力
 - employability
 - 就业能力
-summary: Phillip Brown 的概念：知识经济时代就业力建立在比较排序之上，毕业证书只是敲门砖，需通过经历管理展示个人品质，郑雅君 (2023) 作为社会性投入分析的理论基础
+summary: "Phillip Brown 的概念：知识经济时代就业力建立在比较排序之上，毕业证书只是敲门砖，需通过经历管理展示个人品质，郑雅君 (2023) 作为社会性投入分析的理论基础"
 type: concept
 tags:
 - employability

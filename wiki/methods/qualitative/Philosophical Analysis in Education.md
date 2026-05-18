@@ -3,7 +3,7 @@ title: Philosophical Analysis in Education
 aliases:
 - 教育中的哲学分析
 - 哲学分析
-summary: 通过概念区分、逻辑推理和哲学论证分析教育政策与实践的前提假设，为从业者提供抵抗资源
+summary: "通过概念区分、逻辑推理和哲学论证分析教育政策与实践的前提假设，为从业者提供抵抗资源"
 type: method
 method_type: qualitative
 tags:

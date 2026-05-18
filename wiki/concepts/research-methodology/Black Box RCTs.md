@@ -1,7 +1,7 @@
 ---
 title: Black Box RCTs
 aliases: []
-summary: Scriven (1994) 提出、Peterson (2016) 系统批判的 RCT 设计取向：不提供干预如何/为何/在何条件下有效的信息，将教师视为项目交付管道而非专业判断者
+summary: "Scriven (1994) 提出、Peterson (2016) 系统批判的 RCT 设计取向：不提供干预如何/为何/在何条件下有效的信息，将教师视为项目交付管道而非专业判断者"
 type: concept
 tags:
 - black-box-rcts

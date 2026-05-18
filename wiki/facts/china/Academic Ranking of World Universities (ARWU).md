@@ -6,7 +6,7 @@ aliases:
 - 上海排名
 - Shanghai Ranking
 - Academic Ranking of World Universities
-summary: 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
+summary: "2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代"
 type: fact
 subtype: event
 region: china

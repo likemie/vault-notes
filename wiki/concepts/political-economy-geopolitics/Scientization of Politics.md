@@ -5,7 +5,7 @@ aliases:
 - 政治的科学化
 - scientization of politics
 - scientisation of politics
-summary: Zapp (2022) 的概念：政策制定者接受科学证据作为决策的合法性基础，使科学知识从信息来源转变为治理合法性的构成性要素，是知识治理兴起的关键维度
+summary: "Zapp (2022) 的概念：政策制定者接受科学证据作为决策的合法性基础，使科学知识从信息来源转变为治理合法性的构成性要素，是知识治理兴起的关键维度"
 type: concept
 tags:
 - region/global

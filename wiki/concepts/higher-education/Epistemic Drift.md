@@ -4,7 +4,7 @@ aliases:
 - 认识漂移
 - 知识漂移
 - epistemic drift
-summary: Elzinga (1997) 的概念、Zapp (2022) 引入高等教育研究：研究者将学术议程对齐资助方偏好的系统性漂移，是科学-政治关系三级恶化光谱中的第一级
+summary: "Elzinga (1997) 的概念、Zapp (2022) 引入高等教育研究：研究者将学术议程对齐资助方偏好的系统性漂移，是科学-政治关系三级恶化光谱中的第一级"
 type: concept
 tags:
 - region/global

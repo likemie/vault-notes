@@ -1,6 +1,6 @@
 ---
 title: Argument_Grace_2010_NZJES
-summary: 以"Critic and Conscience of Society"概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了"学术领域批评者"与"社会批评者与良知"两种角色，指出 VL 排除非学校因素与该角色根本矛盾
+summary: "以\"Critic and Conscience of Society\"概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了\"学术领域批评者\"与\"社会批评者与良知\"两种角色，指出 VL 排除非学校因素与该角色根本矛盾"
 type: argument
 subtype: journal-article
 publication_type: journal-article

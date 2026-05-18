@@ -4,7 +4,7 @@ aliases:
 - 论出版自由
 - Areopagitica
 - Milton's Areopagitica
-summary: Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
+summary: "Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准"
 type: fact
 subtype: event
 region: uk

@@ -1,7 +1,7 @@
 ---
 title: American Attraction to Japanese Education 1980s
 aliases: []
-summary: 1980 年代美国在危机叙事与国际比较推动下持续强化"向日本学习"参照网络，但受联邦—州—地方分权制约未形成全国统一制度移植
+summary: "1980 年代美国在危机叙事与国际比较推动下持续强化\"向日本学习\"参照网络，但受联邦—州—地方分权制约未形成全国统一制度移植"
 type: fact
 subtype: event
 region: us

@@ -1,7 +1,7 @@
 ---
 title: Tomorrow's Schools Reforms (NZ 1989)
 aliases: []
-summary: 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
+summary: "1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件"
 type: fact
 subtype: policy
 region: newzealand

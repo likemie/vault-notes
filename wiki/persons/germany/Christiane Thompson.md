@@ -2,7 +2,7 @@
 title: Christiane Thompson
 aliases:
 - 克里斯蒂安妮·汤普森
-summary: 德国教育学者和高等教育研究者，主体化与数字化治理研究者，为教育研究分析大学治理与学习文化转型提供理论视角。
+summary: "德国教育学者和高等教育研究者，主体化与数字化治理研究者，为教育研究分析大学治理与学习文化转型提供理论视角。"
 type: person
 nationality: germany
 tags:

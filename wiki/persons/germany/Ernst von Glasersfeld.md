@@ -2,7 +2,7 @@
 title: Ernst von Glasersfeld
 aliases:
 - 恩斯特·冯·格拉泽斯费尔德
-summary: 德裔美籍哲学家和认知心理学家，激进建构主义创始人，为教育研究理解知识建构、学习主体与反表征认识论提供重要参照。
+summary: "德裔美籍哲学家和认知心理学家，激进建构主义创始人，为教育研究理解知识建构、学习主体与反表征认识论提供重要参照。"
 type: person
 nationality: germany
 tags:

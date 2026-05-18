@@ -1,7 +1,7 @@
 ---
 title: Problem-Based Learning
 aliases: []
-summary: 以问题驱动学习的教学方法，9 项元分析综合 d≈0.08–0.24，Hattie (2015) 论证其在学生缺乏表层知识时低效
+summary: "以问题驱动学习的教学方法，9 项元分析综合 d≈0.08–0.24，Hattie (2015) 论证其在学生缺乏表层知识时低效"
 type: concept
 tags:
 - problem-based-learning

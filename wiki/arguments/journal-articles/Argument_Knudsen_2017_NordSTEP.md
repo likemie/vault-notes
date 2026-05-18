@@ -1,6 +1,6 @@
 ---
 title: Argument_Knudsen_2017_NordSTEP
-summary: Hanne Knudsen 对 John Hattie 的深度访谈，围绕 VL 的规模化翻译、可见性与学习概念、证据与理论关系、Hattie 的多重角色四主题展开
+summary: "Hanne Knudsen 对 John Hattie 的深度访谈，围绕 VL 的规模化翻译、可见性与学习概念、证据与理论关系、Hattie 的多重角色四主题展开"
 type: argument
 subtype: journal-article
 publication_type: journal-article

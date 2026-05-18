@@ -3,7 +3,7 @@ title: Tense Society
 aliases:
 - 张力社会
 - tension society
-summary: Dell Delambre 对当代社会的诊断：所有领域的"新"与"旧"意义张力呈指数级加速且高度互联，"正常"就是张力，呼吁将张力教育作为全球地缘政治项目
+summary: "Dell Delambre 对当代社会的诊断：所有领域的\"新\"与\"旧\"意义张力呈指数级加速且高度互联，\"正常\"就是张力，呼吁将张力教育作为全球地缘政治项目"
 type: concept
 tags:
 - region/global

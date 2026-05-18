@@ -1,7 +1,7 @@
 ---
 title: Spirals of Inquiry
 aliases: []
-summary: Timperley, Halbert & Kaser (2014) 开发的教师探究循环模型（扫描→聚焦→直觉→学习→行动→检查），OECD (2015) 推广其支持创新学习系统规模化实施的能力
+summary: "Timperley, Halbert & Kaser (2014) 开发的教师探究循环模型（扫描→聚焦→直觉→学习→行动→检查），OECD (2015) 推广其支持创新学习系统规模化实施的能力"
 type: concept
 tags:
 - spirals-of-inquiry

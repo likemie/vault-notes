@@ -3,7 +3,7 @@ title: Decolonial Geopolitics of Knowledge
 aliases:
 - 去殖民知识地缘政治
 - decolonial geopolitics of knowledge
-summary: Mignolo/Dussel 的去殖民批判：西方认识论通过殖民差异稳定全球权力空间表达，主张社会科学去殖民化而非"开放"，Parreira do Amaral (2022) 将其作为新知识地缘政治的两大分析支柱之一
+summary: "Mignolo/Dussel 的去殖民批判：西方认识论通过殖民差异稳定全球权力空间表达，主张社会科学去殖民化而非\"开放\"，Parreira do Amaral (2022) 将其作为新知识地缘政治的两大分析支柱之一"
 type: theory
 tags:
 - decolonial-theory

@@ -3,7 +3,7 @@ title: Radical Liberal Internationalism
 aliases:
 - 激进自由国际主义
 - rules-based order
-summary: Sakwa (2023) 的概念：冷战后取代主权国际主义的自由反多元立场，以美国例外论和英美"基于规则的秩序"为形态，支持干预主义和政权更迭
+summary: "Sakwa (2023) 的概念：冷战后取代主权国际主义的自由反多元立场，以美国例外论和英美\"基于规则的秩序\"为形态，支持干预主义和政权更迭"
 type: concept
 tags:
 - region/global

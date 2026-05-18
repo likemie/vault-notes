@@ -4,7 +4,7 @@ aliases:
 - 中国学习者
 - Chinese learners
 - Chinese student
-summary: 来自中国及儒家文化圈（香港、台湾、新加坡）的学生群体；西方持有缺陷型（死记硬背、被动）和优势型（数学好、勤奋）两种矛盾刻板印象，Ryan 主张全面审视其本质化
+summary: "来自中国及儒家文化圈（香港、台湾、新加坡）的学生群体；西方持有缺陷型（死记硬背、被动）和优势型（数学好、勤奋）两种矛盾刻板印象，Ryan 主张全面审视其本质化"
 type: concept
 tags:
 - region/china

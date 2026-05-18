@@ -3,7 +3,7 @@ title: Covariate Adjustment
 aliases:
 - 协变量控制
 - 协变量调整
-summary: 在模型中纳入第三变量重新估计效应；控制 SES 等协变量可能显著改变教学因素的效应量估计
+summary: "在模型中纳入第三变量重新估计效应；控制 SES 等协变量可能显著改变教学因素的效应量估计"
 type: method
 method_type: quantitative
 tags:

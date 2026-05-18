@@ -2,7 +2,7 @@
 title: Geert Hofstede
 aliases:
 - 吉尔特·霍夫斯泰德
-summary: 荷兰组织社会心理学家，文化维度理论提出者，为教育研究比较国家文化差异与课堂、学校组织提供常用框架。
+summary: "荷兰组织社会心理学家，文化维度理论提出者，为教育研究比较国家文化差异与课堂、学校组织提供常用框架。"
 type: person
 nationality: netherlands
 tags:

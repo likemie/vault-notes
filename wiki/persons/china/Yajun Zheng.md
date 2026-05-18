@@ -2,7 +2,7 @@
 title: Yajun Zheng
 aliases:
 - 郑雅君
-summary: 中国高等教育研究者，《金榜题名之后》作者与双模式框架提出者，为解释大学生出路分化与文化障碍提供分析工具。
+summary: "中国高等教育研究者，金榜题名之后作者与双模式框架提出者，为解释大学生出路分化与文化障碍提供分析工具。"
 type: person
 nationality: china
 tags:

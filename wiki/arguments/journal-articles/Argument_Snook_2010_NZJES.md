@@ -1,6 +1,6 @@
 ---
 title: Argument_Snook_2010_NZJES
-summary: 对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题
+summary: "对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题"
 type: argument
 subtype: journal-article
 publication_type: journal-article

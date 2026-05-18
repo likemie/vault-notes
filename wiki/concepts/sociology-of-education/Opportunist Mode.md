@@ -4,7 +4,7 @@ aliases:
 - 机会主义者
 - opportunist actor
 - 机会主义
-summary: 郑雅君 (2023) 的类型：目标掌控模式+弱价值信念=机会主义者，擅长策略但无深层价值认同，追求工具性利益最大化
+summary: "郑雅君 (2023) 的类型：目标掌控模式+弱价值信念=机会主义者，擅长策略但无深层价值认同，追求工具性利益最大化"
 type: concept
 tags:
 - opportunist-mode

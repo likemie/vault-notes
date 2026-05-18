@@ -5,7 +5,7 @@ aliases:
 - General Agreement on Trade in Services
 - 服务贸易总协定
 - 教育服务贸易
-summary: WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映"新帝国主义
+summary: "WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映\"新帝国主义"
 type: fact
 subtype: policy
 region: global

@@ -1,7 +1,7 @@
 ---
 title: Replacement of LS by CSD 2021
 aliases: []
-summary: 通识教育科在官媒攻击和《国安法》颁布后被"公民与社会发展科"取代，课程核心转向爱国主义
+summary: "通识教育科在官媒攻击和国安法颁布后被\"公民与社会发展科\"取代，课程核心转向爱国主义"
 type: fact
 subtype: event
 region: hongkong

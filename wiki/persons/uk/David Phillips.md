@@ -2,7 +2,7 @@
 title: David Phillips
 aliases:
 - 大卫·菲利普斯
-summary: 英国比较教育学者，政策借用四阶段模型共同提出者，为教育研究分析跨国教育改革流动提供经典模型。
+summary: "英国比较教育学者，政策借用四阶段模型共同提出者，为教育研究分析跨国教育改革流动提供经典模型。"
 type: person
 nationality: uk
 tags:

@@ -3,7 +3,7 @@ title: Regulatory Regionalism
 aliases:
 - 监管型区域主义
 - 监管区域主义
-summary: Jayasuriya (2010) 与 Robertson (2010) 的概念：超国家组织通过指标、排名等监管机制对区域内高等教育进行间接治理；Rambla (2022) 以 EU 绩效指标为操作案例
+summary: "Jayasuriya (2010) 与 Robertson (2010) 的概念：超国家组织通过指标、排名等监管机制对区域内高等教育进行间接治理；Rambla (2022) 以 EU 绩效指标为操作案例"
 type: concept
 tags:
 - regulatory-regionalism

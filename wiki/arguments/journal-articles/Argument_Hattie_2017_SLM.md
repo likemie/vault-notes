@@ -1,6 +1,6 @@
 ---
 title: Argument_Hattie_2017_SLM
-summary: Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援引 Popper 证伪主义和 Said 公共知识分子传统，逐条反驳 Eacott 三项主张
+summary: "Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援引 Popper 证伪主义和 Said 公共知识分子传统，逐条反驳 Eacott 三项主张"
 type: argument
 subtype: journal-article
 publication_type: journal-article

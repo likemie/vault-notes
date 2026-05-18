@@ -4,7 +4,7 @@ aliases:
 - AHELO
 - 高等教育学习成果评估
 - Assessment of Higher Education Learning Outcomes
-summary: OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败
+summary: "OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败"
 type: fact
 subtype: event
 region: global

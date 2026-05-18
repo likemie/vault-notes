@@ -1,7 +1,7 @@
 ---
 title: Karmel Report 1973
 aliases: []
-summary: 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
+summary: "澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型"
 type: fact
 subtype: policy
 region: australia

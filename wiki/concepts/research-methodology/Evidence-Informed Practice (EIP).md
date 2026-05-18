@@ -1,7 +1,7 @@
 ---
 title: Evidence-Informed Practice (EIP)
 aliases: []
-summary: Nelson & Campbell (2017) 系统阐述的替代取向：证据是多种因素之一，教育者需运用专业判断整合研究证据、课堂数据和系统数据，KMb 四策略框架
+summary: "Nelson & Campbell (2017) 系统阐述的替代取向：证据是多种因素之一，教育者需运用专业判断整合研究证据、课堂数据和系统数据，KMb 四策略框架"
 type: concept
 tags:
 - evidence-informed-practice

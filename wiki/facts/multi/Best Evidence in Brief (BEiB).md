@@ -1,7 +1,7 @@
 ---
 title: Best Evidence in Brief (BEiB)
 aliases: []
-summary: Johns Hopkins University 与约克大学创建的全球证据传播网络（每两周简报），扩展至 NNU 中国大陆中文版和 CUHK 海外华人版（Slavin et al., 2021）
+summary: "Johns Hopkins University 与约克大学创建的全球证据传播网络（每两周简报），扩展至 NNU 中国大陆中文版和 CUHK 海外华人版（Slavin et al., 2021）"
 type: fact
 subtype: policy
 region: multi

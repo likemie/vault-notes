@@ -3,7 +3,7 @@ title: Habitus
 aliases:
 - 习性
 - habitus
-summary: Pierre Bourdieu 的核心概念：通过长期暴露于特定社会经验而具身化的行为倾向系统，郑雅君 (2023) 以之解释两种上大学模式的阶层根源，Eacott (2011) 揭示校长习性在多重场域交叉中的分裂
+summary: "Pierre Bourdieu 的核心概念：通过长期暴露于特定社会经验而具身化的行为倾向系统，郑雅君 (2023) 以之解释两种上大学模式的阶层根源，Eacott (2011) 揭示校长习性在多重场域交叉中的分裂"
 type: concept
 tags:
 - habitus

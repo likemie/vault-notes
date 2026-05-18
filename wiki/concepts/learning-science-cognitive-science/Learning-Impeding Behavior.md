@@ -1,7 +1,7 @@
 ---
 title: Learning-Impeding Behavior
 aliases: []
-summary: 学生自评的课堂学习阻碍行为（如干扰同伴、疲惫分心）；在性别差异上呈小到中等差距，并进入成绩差异解释路径
+summary: "学生自评的课堂学习阻碍行为（如干扰同伴、疲惫分心）；在性别差异上呈小到中等差距，并进入成绩差异解释路径"
 type: concept
 tags:
 - learning-impeding-behavior

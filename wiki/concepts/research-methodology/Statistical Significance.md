@@ -1,7 +1,7 @@
 ---
 title: Statistical Significance
 aliases: []
-summary: 判断观察到的差异是否足以拒绝零假设；它与效应量只有在给定样本量时才相连
+summary: "判断观察到的差异是否足以拒绝零假设；它与效应量只有在给定样本量时才相连"
 type: concept
 tags:
 - statistical-significance

@@ -3,7 +3,7 @@ title: Multiplicity (Massey)
 aliases:
 - 多重性
 - multiplicity
-summary: Doreen Massey (2005) 的空间理论核心概念：空间中差异的共存，多重轨迹交汇产生不可预测性，"总是有松散的末端"意味着任何权力系统都无法永久固定
+summary: "Doreen Massey (2005) 的空间理论核心概念：空间中差异的共存，多重轨迹交汇产生不可预测性，\"总是有松散的末端\"意味着任何权力系统都无法永久固定"
 type: concept
 tags:
 - theme/spatiality

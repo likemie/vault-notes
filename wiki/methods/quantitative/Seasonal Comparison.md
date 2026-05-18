@@ -3,7 +3,7 @@ title: Seasonal Comparison
 aliases:
 - 季节性比较
 - 季节比较
-summary: 利用学年 vs 暑假作为自然实验的准实验研究设计，比较学校与非学校环境对不平等的相对影响，类似医学交叉设计
+summary: "利用学年 vs 暑假作为自然实验的准实验研究设计，比较学校与非学校环境对不平等的相对影响，类似医学交叉设计"
 type: method
 method_type: quantitative
 tags:

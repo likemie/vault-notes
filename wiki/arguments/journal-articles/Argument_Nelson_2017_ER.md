@@ -1,6 +1,6 @@
 ---
 title: Argument_Nelson_2017_ER
-summary: EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定义、知识动员四策略框架和测量挑战三个维度，提出"肥沃的土壤"隐喻
+summary: "EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定义、知识动员四策略框架和测量挑战三个维度，提出\"肥沃的土壤\"隐喻"
 type: argument
 subtype: journal-article
 publication_type: journal-article

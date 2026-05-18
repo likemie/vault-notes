@@ -2,7 +2,7 @@
 title: Ray Pawson
 aliases:
 - 雷·波森
-summary: 英国社会研究方法论学者，实在论评估与实在论综合提出者，为教育研究提供“什么对谁在何种情境下有效”的替代框架。
+summary: "英国社会研究方法论学者，实在论评估与实在论综合提出者，为教育研究提供“什么对谁在何种情境下有效”的替代框架。"
 type: person
 nationality: uk
 tags:

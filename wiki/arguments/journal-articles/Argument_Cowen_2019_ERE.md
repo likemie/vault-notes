@@ -1,6 +1,6 @@
 ---
 title: Argument_Cowen_2019_ERE
-summary: 以 Tullock 官僚制理论解释 EBE 的持续影响力：RCT/系统综述作为对主权者透明的过滤机制，以牺牲一线关联性为代价
+summary: "以 Tullock 官僚制理论解释 EBE 的持续影响力：RCT/系统综述作为对主权者透明的过滤机制，以牺牲一线关联性为代价"
 type: argument
 subtype: journal-article
 publication_type: journal-article

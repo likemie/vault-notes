@@ -1,7 +1,7 @@
 ---
 title: Gating Procedure
 aliases: []
-summary: 系统综述策略：仅内部效度强的研究通过门槛进入推广性评估，WWC 对 SCD 和组间设计均采用此程序
+summary: "系统综述策略：仅内部效度强的研究通过门槛进入推广性评估，WWC 对 SCD 和组间设计均采用此程序"
 type: concept
 tags:
 - gating-procedure

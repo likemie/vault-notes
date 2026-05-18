@@ -1,7 +1,7 @@
 ---
 title: Creation of REES 2018
 aliases: []
-summary: IES 于 2018 年启动的教育项目评估预注册平台（Registry of Efficacy and Effectiveness Studies），旨在缓解可疑研究实践并增加对知识库的信心
+summary: "IES 于 2018 年启动的教育项目评估预注册平台（Registry of Efficacy and Effectiveness Studies），旨在缓解可疑研究实践并增加对知识库的信心"
 type: fact
 subtype: event
 region: us

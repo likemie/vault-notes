@@ -1,7 +1,7 @@
 ---
 title: Dual Elite Career Paths
 aliases: []
-summary: Andrew Walder 的后社会主义精英流动理论：政治管理精英（党员身份）与专业技术精英（大学学历）为两条分立路径，郑雅君 (2023) 用于分析中国名校毕业生出路选择
+summary: "Andrew Walder 的后社会主义精英流动理论：政治管理精英（党员身份）与专业技术精英（大学学历）为两条分立路径，郑雅君 (2023) 用于分析中国名校毕业生出路选择"
 type: theory
 tags:
 - dual-elite-career-paths

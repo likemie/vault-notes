@@ -1,7 +1,7 @@
 ---
 title: Bildung
 aliases: []
-summary: 源自德国精神科学传统的品格陶成概念，Larsen (2019) 将其复兴为对可见学习范式的批判和替代框架
+summary: "源自德国精神科学传统的品格陶成概念，Larsen (2019) 将其复兴为对可见学习范式的批判和替代框架"
 type: concept
 tags:
 - Bildung

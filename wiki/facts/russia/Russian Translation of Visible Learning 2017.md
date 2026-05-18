@@ -1,7 +1,7 @@
 ---
 title: Russian Translation of Visible Learning 2017
 aliases: []
-summary: Hattie *Visible Learning* 俄文版由 Prosveshchenie 集团于 2017 年出版，引发俄学界热烈讨论；Golovchin (2019) 基于方法论和文化分析建议俄教育政策不予采用
+summary: "Hattie Visible Learning 俄文版由 Prosveshchenie 集团于 2017 年出版，引发俄学界热烈讨论；Golovchin (2019) 基于方法论和文化分析建议俄教育政策不予采用"
 type: fact
 subtype: event
 region: russia

@@ -4,7 +4,7 @@ aliases:
 - Lebenskraft
 - 生命力量
 - life power
-summary: Dell Delambre 的概念（Lebenskraft）：在新旧张力中为存在赋予意义的实践性再定位能力，通过 Ganz-Methode 的第二步被识别和发现
+summary: "Dell Delambre 的概念（Lebenskraft）：在新旧张力中为存在赋予意义的实践性再定位能力，通过 Ganz-Methode 的第二步被识别和发现"
 type: concept
 tags:
 - region/brazil

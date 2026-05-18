@@ -5,7 +5,7 @@ aliases:
 - 整体方法
 - 整体进路
 - Ganz Method
-summary: Dell Delambre 基于 Creative Tension of Sense 理论开发的实践方法论（Whole Approach），两步法承载而非消解意义张力，以里约热内卢多案例实践为基础
+summary: "Dell Delambre 基于 Creative Tension of Sense 理论开发的实践方法论（Whole Approach），两步法承载而非消解意义张力，以里约热内卢多案例实践为基础"
 type: concept
 tags:
 - region/brazil

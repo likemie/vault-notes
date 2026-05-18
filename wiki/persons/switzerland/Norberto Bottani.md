@@ -2,7 +2,7 @@
 title: Norberto Bottani
 aliases:
 - 诺伯托·博塔尼
-summary: 瑞士教育政策研究者和OECD指标专家，INES项目创始人，为教育研究反思教育指标、比较数据与治理工具化提供内部批判视角。
+summary: "瑞士教育政策研究者和OECD指标专家，INES项目创始人，为教育研究反思教育指标、比较数据与治理工具化提供内部批判视角。"
 type: person
 nationality: switzerland
 tags:

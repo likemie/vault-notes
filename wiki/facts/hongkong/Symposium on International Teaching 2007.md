@@ -2,7 +2,7 @@
 title: Symposium on International Teaching 2007
 aliases:
 - 国际教学研讨会2007
-summary: 2007 年 3 月 21 日香港大学文学院主办的学术会议，促进中小学与大学教育者关于中国学习者的对话，直接催生了 Ryan & Slethaug (2010) 论文集
+summary: "2007 年 3 月 21 日香港大学文学院主办的学术会议，促进中小学与大学教育者关于中国学习者的对话，直接催生了 Ryan & Slethaug (2010) 论文集"
 type: fact
 subtype: event
 region: hongkong

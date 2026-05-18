@@ -1,6 +1,6 @@
 ---
 title: Argument_Marginson_2025_ROE
-summary: 以 Massey 关系性空间理论为基础，将高等教育地缘政治分为 1990–2015 霸权式全球化与 2015 至今部分去全球化两个历史阶段，以中美英澳四国的国家-全球协同模式分析空间制造的多样性
+summary: "以 Massey 关系性空间理论为基础，将高等教育地缘政治分为 1990–2015 霸权式全球化与 2015 至今部分去全球化两个历史阶段，以中美英澳四国的国家-全球协同模式分析空间制造的多样性"
 type: argument
 subtype: journal-article
 publication_type: journal-article

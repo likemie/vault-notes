@@ -4,7 +4,7 @@ aliases:
 - 知识破坏
 - sabotage of knowledge
 - undermining knowledge
-summary: GPK 知识转移模态：蓄意破坏敌对方知识资产，以网络攻击为主要当代形式
+summary: "GPK 知识转移模态：蓄意破坏敌对方知识资产，以网络攻击为主要当代形式"
 type: concept
 tags:
 - geopolitics-of-knowledge

@@ -1,7 +1,7 @@
 ---
 title: National Security Law Impact on Hong Kong Education
 aliases: []
-summary: 《香港国安法》(2020) 颁布后为强制国民教育提供法律框架，关闭公民社会协商空间，实现从协商式到命令式教育决策的转变
+summary: "香港国安法(2020) 颁布后为强制国民教育提供法律框架，关闭公民社会协商空间，实现从协商式到命令式教育决策的转变"
 type: fact
 subtype: event
 region: hongkong

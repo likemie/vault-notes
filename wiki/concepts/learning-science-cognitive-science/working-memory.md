@@ -1,7 +1,7 @@
 ---
 title: Working Memory
 aliases: []
-summary: 工作记忆：动态保持和操纵信息的能力，容量有限，依赖 dlPFC，从 15 个月开始发展，3–5 岁出现大幅变化
+summary: "工作记忆：动态保持和操纵信息的能力，容量有限，依赖 dlPFC，从 15 个月开始发展，3–5 岁出现大幅变化"
 type: concept
 tags:
 - working-memory

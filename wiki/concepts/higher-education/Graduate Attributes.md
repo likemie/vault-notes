@@ -7,7 +7,7 @@ aliases:
 - graduate outcomes
 - graduate skills
 - graduate qualities
-summary: 大学认同其学生在学期间应当发展的品质、技能和理解，受高等教育市场化驱动，Wong et al. (2022) 识别 UK 四大话语
+summary: "大学认同其学生在学期间应当发展的品质、技能和理解，受高等教育市场化驱动，Wong et al. (2022) 识别 UK 四大话语"
 type: concept
 tags:
 - graduate-attributes

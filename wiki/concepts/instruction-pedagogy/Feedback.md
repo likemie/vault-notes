@@ -1,7 +1,7 @@
 ---
 title: Feedback
 aliases: []
-summary: Hattie (2009) 定义反馈为代理人提供的关于表现或理解的信息（d=0.73），Nielsen & Klitmøller (2021) 对其 5 项最重元分析逐项审查发现 4/5 未研究 Hattie 所定义的反馈
+summary: "Hattie (2009) 定义反馈为代理人提供的关于表现或理解的信息（d=0.73），Nielsen & Klitmøller (2021) 对其 5 项最重元分析逐项审查发现 4/5 未研究 Hattie 所定义的反馈"
 type: concept
 tags:
 - feedback

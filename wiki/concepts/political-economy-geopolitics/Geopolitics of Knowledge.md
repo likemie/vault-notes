@@ -4,7 +4,7 @@ aliases:
 - 知识地缘政治
 - geopolitics of knowledge
 - GPK
-summary: 高等教育被重构为知识地缘政治竞争的核心维度：创新、科学和教育成为个体、企业、国家全球战略定位的关键特征，涉及古典地缘政治向关系性空间构型的理论转变
+summary: "高等教育被重构为知识地缘政治竞争的核心维度：创新、科学和教育成为个体、企业、国家全球战略定位的关键特征，涉及古典地缘政治向关系性空间构型的理论转变"
 type: concept
 tags:
 - geopolitics-of-knowledge

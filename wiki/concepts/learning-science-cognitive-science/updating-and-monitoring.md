@@ -1,7 +1,7 @@
 ---
 title: Updating and Monitoring
 aliases: []
-summary: 执行功能的核心成分：动态操纵工作记忆内容的更新与监控能力，容量有限（成人 3–4 项）
+summary: "执行功能的核心成分：动态操纵工作记忆内容的更新与监控能力，容量有限（成人 3–4 项）"
 type: concept
 tags:
 - updating-and-monitoring

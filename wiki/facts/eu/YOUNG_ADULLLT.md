@@ -3,7 +3,7 @@ title: YOUNG_ADULLLT
 aliases:
 - YOUNG_ADULLLT 项目
 - YOUNG_ADULLLT project
-summary: EU Horizon 2020 研究项目（Grant No 693167），9 国 16 区 168 名专家访谈，考察终身学习政策区域治理
+summary: "EU Horizon 2020 研究项目（Grant No 693167），9 国 16 区 168 名专家访谈，考察终身学习政策区域治理"
 type: fact
 subtype: event
 region: eu

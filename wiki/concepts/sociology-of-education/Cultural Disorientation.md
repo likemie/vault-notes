@@ -3,7 +3,7 @@ title: Cultural Disorientation
 aliases:
 - 文化迷失
 - cultural disorientation
-summary: 郑雅君 (2023) 的概念：寒门学子升入名校后场域转换造成内在自我冲突和目标策略迷失，是文化障碍的第二重维度
+summary: "郑雅君 (2023) 的概念：寒门学子升入名校后场域转换造成内在自我冲突和目标策略迷失，是文化障碍的第二重维度"
 type: concept
 tags:
 - cultural-disorientation

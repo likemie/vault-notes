@@ -1,7 +1,7 @@
 ---
 title: Promise Neighborhoods Research Consortium (PNRC)
 aliases: []
-summary: 评价项目、政策和实践的 public 清算中心，不进行项目效果分层评级，未进入 Wadhwa et al. (2024) 最终一致性分析
+summary: "评价项目、政策和实践的 public 清算中心，不进行项目效果分层评级，未进入 Wadhwa et al. (2024) 最终一致性分析"
 type: fact
 subtype: event
 region: us

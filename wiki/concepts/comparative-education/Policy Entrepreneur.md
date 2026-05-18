@@ -1,7 +1,7 @@
 ---
 title: Policy Entrepreneur
 aliases: []
-summary: Mintrom (2000) 和 Ball (2012) 概念：在教育系统内外通过协作和网络化影响政策发展的行动者，John Hattie 为新西兰典型
+summary: "Mintrom (2000) 和 Ball (2012) 概念：在教育系统内外通过协作和网络化影响政策发展的行动者，John Hattie 为新西兰典型"
 type: concept
 tags:
 - policy-entrepreneur

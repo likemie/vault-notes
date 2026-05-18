@@ -4,7 +4,7 @@ aliases:
 - 权力几何学
 - power-geometries
 - power geometry
-summary: Doreen Massey (2005) 的空间理论核心概念：空间中的开放、封闭和互联不是中立的，而是通过社会关系被不平等地建构，英美大学既是全球知识枢纽也是全球不平等制造者
+summary: "Doreen Massey (2005) 的空间理论核心概念：空间中的开放、封闭和互联不是中立的，而是通过社会关系被不平等地建构，英美大学既是全球知识枢纽也是全球不平等制造者"
 type: concept
 tags:
 - theme/spatiality

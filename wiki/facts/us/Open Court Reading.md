@@ -1,7 +1,7 @@
 ---
 title: Open Court Reading
 aliases: []
-summary: Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、BEE 均评为 promising，但研究解释标准不同
+summary: "Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、BEE 均评为 promising，但研究解释标准不同"
 type: fact
 subtype: event
 region: us

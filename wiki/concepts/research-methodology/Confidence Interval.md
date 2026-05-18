@@ -1,7 +1,7 @@
 ---
 title: Confidence Interval
 aliases: []
-summary: 点估计周围的误差范围；缺少 CI/SE 时，相邻效应量或排名差异容易被过度解释
+summary: "点估计周围的误差范围；缺少 CI/SE 时，相邻效应量或排名差异容易被过度解释"
 type: concept
 tags:
 - confidence-interval

@@ -1,7 +1,7 @@
 ---
 title: Symbolic Boundary
 aliases: []
-summary: Lamont 的概念：通过赋予行为、品味和价值观以道德涵义在自我与他者之间划分"我们"与"他们"，郑雅君 (2023) 揭示两种模式间互相区隔的道德话语
+summary: "Lamont 的概念：通过赋予行为、品味和价值观以道德涵义在自我与他者之间划分\"我们\"与\"他们\"，郑雅君 (2023) 揭示两种模式间互相区隔的道德话语"
 type: concept
 tags:
 - symbolic-boundary

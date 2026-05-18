@@ -1,7 +1,7 @@
 ---
 title: Researcher Degrees of Freedom
 aliases: []
-summary: Simmons et al. (2011) 提出的研究者未披露分析决策（样本、变量、案例排除）的累积效应，是开发者效应的可能解释机制之一
+summary: "Simmons et al. (2011) 提出的研究者未披露分析决策（样本、变量、案例排除）的累积效应，是开发者效应的可能解释机制之一"
 type: concept
 tags:
 - researcher-degrees-of-freedom

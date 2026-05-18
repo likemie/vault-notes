@@ -5,7 +5,7 @@ aliases:
 - VoC
 - varieties of capitalism
 - 生产体制
-summary: 资本主义多样性：Hall & Soskice (2001) 的 LME/CME 制度区分框架，Hartmann (2022) 用于解释 IVET 跨国转移困难和美国 MNCs 在全球教育市场中的先发优势
+summary: "资本主义多样性：Hall & Soskice (2001) 的 LME/CME 制度区分框架，Hartmann (2022) 用于解释 IVET 跨国转移困难和美国 MNCs 在全球教育市场中的先发优势"
 type: concept
 tags:
 - region/global

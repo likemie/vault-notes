@@ -1,7 +1,7 @@
 ---
 title: ResearchED
 aliases: []
-summary: 2013 年 Tom Bennett 创立的以 RCT 为黄金标准的教师草根运动，获 Nick Gibb 背书，被 Wrigley 批评为以"赋权教师"之名限制方法论视野，Wrigley & McCusker (2019) 批评其推广"民间科学观
+summary: "2013 年 Tom Bennett 创立的以 RCT 为黄金标准的教师草根运动，获 Nick Gibb 背书，被 Wrigley 批评为以\"赋权教师\"之名限制方法论视野，Wrigley & McCusker (2019) 批评其推广\"民间科学观"
 type: fact
 subtype: event
 region: uk

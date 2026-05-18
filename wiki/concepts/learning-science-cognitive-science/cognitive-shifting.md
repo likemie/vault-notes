@@ -1,7 +1,7 @@
 ---
 title: Cognitive Shifting
 aliases: []
-summary: 亦称认知灵活性或任务切换，执行功能的核心成分：在多个任务、操作或心理集之间切换的能力，与 PFC 的 vlPFC 和 dlPFC 激活相关
+summary: "亦称认知灵活性或任务切换，执行功能的核心成分：在多个任务、操作或心理集之间切换的能力，与 PFC 的 vlPFC 和 dlPFC 激活相关"
 type: concept
 tags:
 - cognitive-shifting

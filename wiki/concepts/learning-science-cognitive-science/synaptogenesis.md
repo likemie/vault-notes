@@ -1,7 +1,7 @@
 ---
 title: Synaptogenesis
 aliases: []
-summary: 中枢神经系统中新突触的创建过程，涉及神经元和连接的过度生产，7–12 个月发生剧烈突触发生
+summary: "中枢神经系统中新突触的创建过程，涉及神经元和连接的过度生产，7–12 个月发生剧烈突触发生"
 type: concept
 tags:
 - synaptogenesis

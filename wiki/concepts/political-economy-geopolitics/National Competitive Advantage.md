@@ -1,7 +1,7 @@
 ---
 title: National Competitive Advantage
 aliases: []
-summary: Porter (1990) 理论：国家竞争优势通过高度本地化过程被创造，全球化反而使国家角色更重要，Moisio (2022) 将其分析为塑造 Hub and Flow 想象的关键地缘政治想象
+summary: "Porter (1990) 理论：国家竞争优势通过高度本地化过程被创造，全球化反而使国家角色更重要，Moisio (2022) 将其分析为塑造 Hub and Flow 想象的关键地缘政治想象"
 type: concept
 tags:
 - national-competitive-advantage

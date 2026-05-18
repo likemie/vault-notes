@@ -1,7 +1,7 @@
 ---
 title: Whole Language
 aliases: []
-summary: 强调语言在真实完整语境中学习的读写教学哲学，Goodman 1967 年里程碑文章奠基，Hattie (2009) 将其效应量评为 d=0.06 引发争议，O'Connor (2020) 详细审查揭示 VL 评估存在方法论缺陷和先验偏见
+summary: "强调语言在真实完整语境中学习的读写教学哲学，Goodman 1967 年里程碑文章奠基，Hattie (2009) 将其效应量评为 d=0.06 引发争议，O'Connor (2020) 详细审查揭示 VL 评估存在方法论缺陷和先验偏见"
 type: concept
 tags:
 - whole-language

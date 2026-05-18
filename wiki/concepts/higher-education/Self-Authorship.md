@@ -1,7 +1,7 @@
 ---
 title: Self-Authorship
 aliases: []
-summary: Baxter Magolda 的概念：个体根据内在声音和核心价值观主导认知发展、自我认同和人际关系，郑雅君 (2023) 作为目标掌控模式的理论灵感之一
+summary: "Baxter Magolda 的概念：个体根据内在声音和核心价值观主导认知发展、自我认同和人际关系，郑雅君 (2023) 作为目标掌控模式的理论灵感之一"
 type: concept
 tags:
 - self-authorship

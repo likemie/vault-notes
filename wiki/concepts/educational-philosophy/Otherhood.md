@@ -3,7 +3,7 @@ title: Otherhood
 aliases:
 - 为他者行动
 - 他者代理
-summary: Meyer & Jepperson (2000) 的概念：组织为其他行动者、非行动者实体和现代性原则行使代理权的社会过程；大学近乎理想型地代表 otherhood 的全部三种形式
+summary: "Meyer & Jepperson (2000) 的概念：组织为其他行动者、非行动者实体和现代性原则行使代理权的社会过程；大学近乎理想型地代表 otherhood 的全部三种形式"
 type: concept
 tags:
 - level/higher-ed

@@ -3,7 +3,7 @@ title: Network Society
 aliases:
 - 网络社会
 - network society
-summary: Castells (1996) 的理论：社会组织从稳定等级制转向流动网络形式，Benkler (2006) 延伸论证跨国网络为知识创造新源泉，Rizvi (2022) 用于分析跨国研究合作的网络化转型
+summary: "Castells (1996) 的理论：社会组织从稳定等级制转向流动网络形式，Benkler (2006) 延伸论证跨国网络为知识创造新源泉，Rizvi (2022) 用于分析跨国研究合作的网络化转型"
 type: theory
 tags:
 - network-society

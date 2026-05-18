@@ -1,7 +1,7 @@
 ---
 title: Policy Borrowing
 aliases: []
-summary: 政策借用：国内政治考量驱动选择性参照外部教育论述来合法化议程，Steiner-Khamsi 系统框架，Phillips & Ochs 四阶段模型，Rappleye 情境概念地图，Cowen 形态变异，核心机制为外化、合法化、问题建构与选择性变异
+summary: "政策借用：国内政治考量驱动选择性参照外部教育论述来合法化议程，Steiner-Khamsi 系统框架，Phillips & Ochs 四阶段模型，Rappleye 情境概念地图，Cowen 形态变异，核心机制为外化、合法化、问题建构与选择性变异"
 type: concept
 tags:
 - policy-borrowing

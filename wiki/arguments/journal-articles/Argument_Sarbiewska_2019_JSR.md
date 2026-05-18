@@ -1,6 +1,6 @@
 ---
 title: Argument_Sarbiewska_2019_JSR
-summary: 以 Benner 修正版教学三角为框架，分析 VL 如何影响新西兰和澳大利亚教育政策与实践，记录 PISA 2001 后的政策转向及 HITS、Gonski 2.0 等制度化采纳
+summary: "以 Benner 修正版教学三角为框架，分析 VL 如何影响新西兰和澳大利亚教育政策与实践，记录 PISA 2001 后的政策转向及 HITS、Gonski 2.0 等制度化采纳"
 type: argument
 subtype: journal-article
 publication_type: journal-article

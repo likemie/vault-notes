@@ -3,7 +3,7 @@ title: Transnationalism and America Project SYSU
 aliases:
 - 跨国主义与美国项目
 - SYSU Transnationalism and America
-summary: 岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍
+summary: "岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍"
 type: fact
 subtype: event
 region: multi

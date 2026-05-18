@@ -1,7 +1,7 @@
 ---
 title: Mondialisation
 aliases: []
-summary: Weil/Supiot (2019) 基于 Decroly (1929) 恢复的替代全球化概念：以"星球的普世性"和对生命多元形式的尊重为核心，与 market-driven 的 globalisation 形成对抗，与 Escobar 的 pluriverse 并置
+summary: "Weil/Supiot (2019) 基于 Decroly (1929) 恢复的替代全球化概念：以\"星球的普世性\"和对生命多元形式的尊重为核心，与 market-driven 的 globalisation 形成对抗，与 Escobar 的 pluriverse 并置"
 type: concept
 tags:
 - mondialisation

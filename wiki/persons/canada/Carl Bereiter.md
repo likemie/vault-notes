@@ -2,7 +2,7 @@
 title: Carl Bereiter
 aliases:
 - 卡尔·贝赖特
-summary: 加拿大教育理论家，知识建构理论创立者和《Education and Mind in the Knowledge Age》作者，为教育研究重新理解学习共同体与知识创造提供框架。
+summary: "加拿大教育理论家，知识建构理论创立者和Education and Mind in the Knowledge Age作者，为教育研究重新理解学习共同体与知识创造提供框架。"
 type: person
 nationality: canada
 tags:

@@ -4,7 +4,7 @@ aliases:
 - ESF
 - 英基学校基金会
 - ESF Hong Kong
-summary: 香港最大英语学校体系，从英国国民学校（限 10% 本地华人）转型为 40%–50% 本地华人学生，改变了学生认同与语言课程
+summary: "香港最大英语学校体系，从英国国民学校（限 10% 本地华人）转型为 40%–50% 本地华人学生，改变了学生认同与语言课程"
 type: fact
 subtype: event
 region: hongkong

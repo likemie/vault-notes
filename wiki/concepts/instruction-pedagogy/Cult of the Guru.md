@@ -1,7 +1,7 @@
 ---
 title: Cult of the Guru
 aliases: []
-summary: Eacott 提出的批判概念：教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，Hattie 现象为典型案例
+summary: "Eacott 提出的批判概念：教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，Hattie 现象为典型案例"
 type: concept
 tags:
 - Cult of the Guru

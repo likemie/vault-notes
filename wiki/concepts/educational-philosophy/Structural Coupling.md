@@ -1,7 +1,7 @@
 ---
 title: Structural Coupling
 aliases: []
-summary: Luhmann (1997) 系统理论概念：两个封闭、自我指涉系统之间的非因果链接，Qvortrup 用于描述教学与学习之间的关系 — Eacott 以 Callahan (1962) 为框架提出的概念，描述教育领导力领域对单一权威人物的不加批判的接受，以 Hattie 崇拜为典型案例分析其形成的三个时间条件
+summary: "Luhmann (1997) 系统理论概念：两个封闭、自我指涉系统之间的非因果链接，Qvortrup 用于描述教学与学习之间的关系 — Eacott 以 Callahan (1962) 为框架提出的概念，描述教育领导力领域对单一权威人物的不加批判的接受，以 Hattie 崇拜为典型案例分析其形成的三个时间条件"
 type: concept
 tags:
 - structural-coupling

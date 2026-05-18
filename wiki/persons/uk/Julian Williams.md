@@ -2,7 +2,7 @@
 title: Julian Williams
 aliases:
 - 朱利安·威廉斯
-summary: 英国教育研究者，“第三空间”与替代性学习结果测量研究者，为教育研究连接政策、实践与非成就性结果提供方法论视角。
+summary: "英国教育研究者，“第三空间”与替代性学习结果测量研究者，为教育研究连接政策、实践与非成就性结果提供方法论视角。"
 type: person
 nationality: uk
 tags:

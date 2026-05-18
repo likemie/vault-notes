@@ -1,7 +1,7 @@
 ---
 title: Neuroplasticity
 aliases: []
-summary: 人脑约 860 亿神经元、13 万亿突触的动态可塑性，Larsen (2019) 论证其极度复杂性使 VL 的简化测量在科学上不成立
+summary: "人脑约 860 亿神经元、13 万亿突触的动态可塑性，Larsen (2019) 论证其极度复杂性使 VL 的简化测量在科学上不成立"
 type: concept
 tags:
 - Neuroplasticity

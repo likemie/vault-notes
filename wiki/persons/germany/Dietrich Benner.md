@@ -2,7 +2,7 @@
 title: Dietrich Benner
 aliases:
 - 迪特里希·本纳
-summary: 德国教育学家，一般教育学代表人物和Bildung/Erziehung区分提出者，为教育研究连接教学论与规范性判断提供基础。
+summary: "德国教育学家，一般教育学代表人物和Bildung/Erziehung区分提出者，为教育研究连接教学论与规范性判断提供基础。"
 type: person
 nationality: germany
 tags:

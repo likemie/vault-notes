@@ -3,7 +3,7 @@ title: Thousand Talents Program
 aliases:
 - 千人计划
 - Thousand Talents Plan
-summary: 中国海外高层次人才引进计划，被美方视为制度化知识盗窃机制，中美技术紧张焦点
+summary: "中国海外高层次人才引进计划，被美方视为制度化知识盗窃机制，中美技术紧张焦点"
 type: fact
 subtype: event
 region: china

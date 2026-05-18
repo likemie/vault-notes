@@ -2,7 +2,7 @@
 title: Klaus Nielsen
 aliases:
 - 克劳斯·尼尔森
-summary: 丹麦理论心理学家，社会实践学习与Visible Learning批判研究者，为教育研究提供从实践论和合法化危机视角反思证据主义的资源。
+summary: "丹麦理论心理学家，社会实践学习与Visible Learning批判研究者，为教育研究提供从实践论和合法化危机视角反思证据主义的资源。"
 type: person
 nationality: denmark
 tags:

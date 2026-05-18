@@ -1,7 +1,7 @@
 ---
 title: Epistemological Vigilance
 aliases: []
-summary: Bourdieu 认识论核心概念：社会科学家需持续保持对日常语言和前科学概念的批判性警觉，是终身的智识项目
+summary: "Bourdieu 认识论核心概念：社会科学家需持续保持对日常语言和前科学概念的批判性警觉，是终身的智识项目"
 type: concept
 tags:
 - Epistemological Vigilance

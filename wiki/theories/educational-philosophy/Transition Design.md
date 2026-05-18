@@ -1,7 +1,7 @@
 ---
 title: Transition Design
 aliases: []
-summary: Escobar (2018) 基于 Irwin (2015) 的社会变革框架：转型不是被设计的而是涌现的，以生命系统理论（autopoiesis）为本体论基础，以日常生活为设计情境，十条原则倡导基于地方的全球化联网和草根方案放大
+summary: "Escobar (2018) 基于 Irwin (2015) 的社会变革框架：转型不是被设计的而是涌现的，以生命系统理论（autopoiesis）为本体论基础，以日常生活为设计情境，十条原则倡导基于地方的全球化联网和草根方案放大"
 type: theory
 tags:
 - transition-design

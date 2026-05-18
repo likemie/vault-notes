@@ -1,7 +1,7 @@
 ---
 title: Global Regionalisms in Higher Education
 aliases: []
-summary: Robertson et al. (2016) 的概念：高等教育被整合进世界各地区大规模政治经济区域整合项目（EU、ASEAN 等），成为区域地缘政治想象的核心支柱
+summary: "Robertson et al. (2016) 的概念：高等教育被整合进世界各地区大规模政治经济区域整合项目（EU、ASEAN 等），成为区域地缘政治想象的核心支柱"
 type: concept
 tags:
 - global-regionalisms

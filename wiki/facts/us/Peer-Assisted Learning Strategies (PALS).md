@@ -1,7 +1,7 @@
 ---
 title: Peer-Assisted Learning Strategies (PALS)
 aliases: []
-summary: Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断
+summary: "Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断"
 type: fact
 subtype: event
 region: us

@@ -1,7 +1,7 @@
 ---
 title: Transactional Epistemology
 aliases: []
-summary: Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
+summary: "Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性"
 type: theory
 tags:
 - transactional-epistemology

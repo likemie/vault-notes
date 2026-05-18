@@ -3,7 +3,7 @@ title: World-Systems Theory
 aliases:
 - 世界体系理论
 - center-periphery model
-summary: Immanuel Wallerstein (1974) 的中心-边缘-半边缘三层全球空间理论，零和剩余假设，Marginson (2025) 以过去三十年高等教育和科学的多国同时进步论证其刚性空间性的失败
+summary: "Immanuel Wallerstein (1974) 的中心-边缘-半边缘三层全球空间理论，零和剩余假设，Marginson (2025) 以过去三十年高等教育和科学的多国同时进步论证其刚性空间性的失败"
 type: theory
 tags:
 - region/global

@@ -3,7 +3,7 @@ title: Randomised Controlled Trials
 aliases:
 - 随机对照试验
 - RCT
-summary: 从药物试验借鉴至教育领域的实验设计方法，面临双盲不可能、控制组模糊、封闭系统幻觉等结构性缺陷
+summary: "从药物试验借鉴至教育领域的实验设计方法，面临双盲不可能、控制组模糊、封闭系统幻觉等结构性缺陷"
 type: method
 method_type: quantitative
 tags:

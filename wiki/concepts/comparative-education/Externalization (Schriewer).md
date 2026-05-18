@@ -1,7 +1,7 @@
 ---
 title: Externalization (Schriewer)
 aliases: []
-summary: Schriewer 的比较教育核心概念：教育系统将内部问题构型投射到国际参照系中的过滤过程，Rappleye (2006) 发展为双向运作（外化到国际趋势／外化到传统）
+summary: "Schriewer 的比较教育核心概念：教育系统将内部问题构型投射到国际参照系中的过滤过程，Rappleye (2006) 发展为双向运作（外化到国际趋势／外化到传统）"
 type: concept
 tags:
 - externalization

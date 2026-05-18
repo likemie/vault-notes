@@ -4,7 +4,7 @@ aliases:
 - 抵抗认识论
 - resistive epistemology
 - epistemology of resistance
-summary: 抵抗认识论：从被排斥群体的具体经验出发构建替代性知识形式，Rocinha 贫民窟剧场导演 Castelo Branco 的 EspectAtor 方法为核心实践案例
+summary: "抵抗认识论：从被排斥群体的具体经验出发构建替代性知识形式，Rocinha 贫民窟剧场导演 Castelo Branco 的 EspectAtor 方法为核心实践案例"
 type: concept
 tags:
 - region/brazil

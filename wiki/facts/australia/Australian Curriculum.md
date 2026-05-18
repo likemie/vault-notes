@@ -1,7 +1,7 @@
 ---
 title: Australian Curriculum
 aliases: []
-summary: 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
+summary: "2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践"
 type: fact
 subtype: policy
 region: australia

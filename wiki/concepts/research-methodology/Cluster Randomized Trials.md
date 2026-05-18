@@ -1,7 +1,7 @@
 ---
 title: Cluster Randomized Trials
 aliases: []
-summary: RCT 设计变体，随机化单位为学校/班级而非个体，教育 RCT 标准实践，以 MDES 作为研究精度指标（Pampaka et al., 2016）
+summary: "RCT 设计变体，随机化单位为学校/班级而非个体，教育 RCT 标准实践，以 MDES 作为研究精度指标（Pampaka et al., 2016）"
 type: concept
 tags:
 - Cluster Randomized Trials

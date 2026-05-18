@@ -1,7 +1,7 @@
 ---
 title: Prefrontal Cortex
 aliases: []
-summary: 前额叶皮层（PFC），位于大脑额叶，分眼眶/内侧/外侧三区，最后成熟（~30 岁）且最先老化，在学习序列开始时被激活
+summary: "前额叶皮层（PFC），位于大脑额叶，分眼眶/内侧/外侧三区，最后成熟（~30 岁）且最先老化，在学习序列开始时被激活"
 type: concept
 tags:
 - prefrontal-cortex

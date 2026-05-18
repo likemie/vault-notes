@@ -3,7 +3,7 @@ title: Education City Doha
 aliases:
 - 多哈教育城
 - Education City
-summary: 卡塔尔首都多哈的多大学海外分校集中园区：康奈尔医学院、乔治城、卡内基梅隆等，标志大学全球化的新阶段
+summary: "卡塔尔首都多哈的多大学海外分校集中园区：康奈尔医学院、乔治城、卡内基梅隆等，标志大学全球化的新阶段"
 type: fact
 subtype: event
 region: global

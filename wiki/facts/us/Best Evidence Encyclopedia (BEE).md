@@ -1,7 +1,7 @@
 ---
 title: Best Evidence Encyclopedia (BEE)
 aliases: []
-summary: 教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目
+summary: "教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目"
 type: fact
 subtype: event
 region: us

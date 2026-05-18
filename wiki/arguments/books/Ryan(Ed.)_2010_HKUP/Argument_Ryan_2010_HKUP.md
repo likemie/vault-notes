@@ -1,6 +1,6 @@
 ---
 title: Argument_Ryan_2010_HKUP
-summary: 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化"中国学习者"概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
+summary: "论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化\"中国学习者\"概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）"
 type: argument
 subtype: edited-volume
 publication_type: book

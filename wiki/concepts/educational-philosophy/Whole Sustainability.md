@@ -4,7 +4,7 @@ aliases:
 - 整体可持续性
 - whole sustainability
 - Whole Sustainability
-summary: 整体可持续性：Delambre 将张力理论应用于可持续性领域的概念，纳入局部社区的一切生命力量要素及内外部威胁
+summary: "整体可持续性：Delambre 将张力理论应用于可持续性领域的概念，纳入局部社区的一切生命力量要素及内外部威胁"
 type: concept
 tags:
 - region/brazil

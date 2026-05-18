@@ -1,7 +1,7 @@
 ---
 title: Hargreaves 1996 TTA Lecture
 aliases: []
-summary: David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
+summary: "David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点"
 type: fact
 subtype: event
 region: uk

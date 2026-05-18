@@ -2,7 +2,7 @@
 title: Anthony Bryk
 aliases:
 - 安东尼·布赖克
-summary: 美国教育研究者和组织改进学者，网络化改进共同体与改进科学代表人物，为教育研究提供以系统改进替代单次干预验证的路径。
+summary: "美国教育研究者和组织改进学者，网络化改进共同体与改进科学代表人物，为教育研究提供以系统改进替代单次干预验证的路径。"
 type: person
 nationality: us
 tags:

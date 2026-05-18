@@ -3,7 +3,7 @@ title: Knowledge Production
 aliases:
 - 知识生产
 - knowledge production (GPK)
-summary: GPK 两面之一：谁生产知识、以何种视角、为谁的利益，后殖民 GPK 传统的核心分析维度，其术语流行与知识产权商业化同步
+summary: "GPK 两面之一：谁生产知识、以何种视角、为谁的利益，后殖民 GPK 传统的核心分析维度，其术语流行与知识产权商业化同步"
 type: concept
 tags:
 - geopolitics-of-knowledge

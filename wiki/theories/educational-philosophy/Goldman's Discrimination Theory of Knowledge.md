@@ -1,7 +1,7 @@
 ---
 title: Goldman's Discrimination Theory of Knowledge
 aliases: []
-summary: 知识要求区分真实状态与相关替代可能状态的能力，Wiliam (2019) 以此论证教育知识的局部性和临时性
+summary: "知识要求区分真实状态与相关替代可能状态的能力，Wiliam (2019) 以此论证教育知识的局部性和临时性"
 type: theory
 tags:
 - Goldman

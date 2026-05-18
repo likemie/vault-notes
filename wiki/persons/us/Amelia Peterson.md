@@ -2,7 +2,7 @@
 title: Amelia Peterson
 aliases:
 - 阿米莉亚·彼得森
-summary: 美国教育研究者，“What Works 2.0”框架提出者，为教育研究尝试调和实验科学与改进科学提供整合路径。
+summary: "美国教育研究者，“What Works 2.0”框架提出者，为教育研究尝试调和实验科学与改进科学提供整合路径。"
 type: person
 nationality: us
 tags:

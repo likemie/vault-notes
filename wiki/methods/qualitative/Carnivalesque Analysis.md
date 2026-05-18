@@ -2,7 +2,7 @@
 title: Carnivalesque Analysis
 aliases:
 - 嘉年华式分析
-summary: Aydarova (2020) 基于 Bakhtin 嘉年华理论的质性方法：研究者以"小丑"角色打乱官方叙事、追踪矛盾，揭露主导话语掩盖的真相
+summary: "Aydarova (2020) 基于 Bakhtin 嘉年华理论的质性方法：研究者以\"小丑\"角色打乱官方叙事、追踪矛盾，揭露主导话语掩盖的真相"
 type: method
 method_type: qualitative
 tags:

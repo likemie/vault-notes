@@ -2,7 +2,7 @@
 title: Jorunn Møller
 aliases:
 - 约伦·默勒
-summary: 挪威教育领导力学者，学校治理与问责研究者，为教育研究批判领导力研究的去政治化和OECD化提供重要声音。
+summary: "挪威教育领导力学者，学校治理与问责研究者，为教育研究批判领导力研究的去政治化和OECD化提供重要声音。"
 type: person
 nationality: norway
 tags:

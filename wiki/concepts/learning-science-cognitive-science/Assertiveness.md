@@ -1,7 +1,7 @@
 ---
 title: Assertiveness
 aliases: []
-summary: 学生在课堂互动中主动表达与参与的倾向；在教师评定维度中呈小到中等性别差异
+summary: "学生在课堂互动中主动表达与参与的倾向；在教师评定维度中呈小到中等性别差异"
 type: concept
 tags:
 - assertiveness

@@ -1,7 +1,7 @@
 ---
 title: Science and Technology Studies (STS)
 aliases: []
-summary: 跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念
+summary: "跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念"
 type: theory
 tags:
 - STS

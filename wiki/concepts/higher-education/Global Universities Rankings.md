@@ -7,7 +7,7 @@ aliases:
 - league tables
 - global university rankings
 - University Rankings (Global)
-summary: 全球大学排名：比较性评估 HEI 的工具系统，已成为驱动高教系统转型和地缘政治竞争的核心力量，因推行一刀切模型、忽视使命多样性和确认有限公共利益理解而受批评
+summary: "全球大学排名：比较性评估 HEI 的工具系统，已成为驱动高教系统转型和地缘政治竞争的核心力量，因推行一刀切模型、忽视使命多样性和确认有限公共利益理解而受批评"
 type: concept
 tags:
 - university-rankings

@@ -3,7 +3,7 @@ title: Space-Making in Higher Education
 aliases:
 - 高等教育空间制造
 - space-making
-summary: Marginson (2025) 基于 Lefebvre 和 Massey 发展的分析框架：高等教育社会空间由物质结构、空间想象和社会实践三层机制共同制造
+summary: "Marginson (2025) 基于 Lefebvre 和 Massey 发展的分析框架：高等教育社会空间由物质结构、空间想象和社会实践三层机制共同制造"
 type: concept
 tags:
 - theme/spatiality

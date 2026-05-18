@@ -1,7 +1,7 @@
 ---
 title: National Dropout Prevention Center (NDPC)
 aliases: []
-summary: 聚焦辍学预防项目的非营利教育清算中心，在 Wadhwa et al. (2024) 四个详细比较对象中最高评级门槛最低
+summary: "聚焦辍学预防项目的非营利教育清算中心，在 Wadhwa et al. (2024) 四个详细比较对象中最高评级门槛最低"
 type: fact
 subtype: event
 region: us

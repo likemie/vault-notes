@@ -1,6 +1,6 @@
 ---
 title: Argument_Rappleye_2006_RCIE
-summary: 提出跨国吸引力情境概念地图，区分结构／人双层推力与阻力及四种吸引力"火花"，回应全球化对教育转移研究的新要求
+summary: "提出跨国吸引力情境概念地图，区分结构／人双层推力与阻力及四种吸引力\"火花\"，回应全球化对教育转移研究的新要求"
 type: argument
 subtype: journal-article
 publication_type: journal-article

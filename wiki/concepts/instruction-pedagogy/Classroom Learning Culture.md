@@ -1,7 +1,7 @@
 ---
 title: Classroom Learning Culture
 aliases: []
-summary: 班级学习氛围与同伴协作文化；在该样本中性别差异不显著，体现差异并非遍在于所有校内变量
+summary: "班级学习氛围与同伴协作文化；在该样本中性别差异不显著，体现差异并非遍在于所有校内变量"
 type: concept
 tags:
 - classroom-culture

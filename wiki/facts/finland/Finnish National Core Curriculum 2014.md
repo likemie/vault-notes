@@ -1,7 +1,7 @@
 ---
 title: Finnish National Core Curriculum 2014
 aliases: []
-summary: 芬兰基础教育国家核心课程，将跨学科与现象本位学习纳入课程框架，但仍保留传统学科结构
+summary: "芬兰基础教育国家核心课程，将跨学科与现象本位学习纳入课程框架，但仍保留传统学科结构"
 type: fact
 subtype: policy
 region: finland

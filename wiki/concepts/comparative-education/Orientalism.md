@@ -3,7 +3,7 @@ title: Orientalism
 aliases:
 - 东方主义
 - orientalism
-summary: Said (1983) 的概念：殖民者通过知识生产建构对被殖民者的"东方化"想象，Rizvi (2022) 将其应用于分析当代 HE 国际化中西方教育优越性的隐性再生产
+summary: "Said (1983) 的概念：殖民者通过知识生产建构对被殖民者的\"东方化\"想象，Rizvi (2022) 将其应用于分析当代 HE 国际化中西方教育优越性的隐性再生产"
 type: concept
 tags:
 - Orientalism

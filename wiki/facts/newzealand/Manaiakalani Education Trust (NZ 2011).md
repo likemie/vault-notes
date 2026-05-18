@@ -1,7 +1,7 @@
 ---
 title: Manaiakalani Education Trust (NZ 2011)
 aliases: []
-summary: 2011 年成立的 Tamaki 社区数字学习慈善信托，从 EHSAS/ICT 集群起步，获 NEXT Foundation 资助全国规模化推广 Outreach 项目
+summary: "2011 年成立的 Tamaki 社区数字学习慈善信托，从 EHSAS/ICT 集群起步，获 NEXT Foundation 资助全国规模化推广 Outreach 项目"
 type: fact
 subtype: event
 region: newzealand

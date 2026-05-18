@@ -2,7 +2,7 @@
 title: Yong Zhao
 aliases:
 - 赵勇
-summary: 中国裔教育学者和比较教育研究者，教育副作用与个性化学习倡导者，为教育研究反思标准化改革和干预评估提供不同尺度。
+summary: "中国裔教育学者和比较教育研究者，教育副作用与个性化学习倡导者，为教育研究反思标准化改革和干预评估提供不同尺度。"
 type: person
 nationality: china
 tags:

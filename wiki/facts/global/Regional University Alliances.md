@@ -1,7 +1,7 @@
 ---
 title: Regional University Alliances
 aliases: []
-summary: Amos (2022) 在晚期现代教育转型语境中关注的三类欧洲大学联盟（LERU、The GUILD、European University Alliances），在科研合作、师生流动和联合学位中运作，构成多层级地缘政治教育空间中的制度行动者
+summary: "Amos (2022) 在晚期现代教育转型语境中关注的三类欧洲大学联盟（LERU、The GUILD、European University Alliances），在科研合作、师生流动和联合学位中运作，构成多层级地缘政治教育空间中的制度行动者"
 type: fact
 subtype: event
 region: global

@@ -1,6 +1,6 @@
 ---
 title: Argument_Peterson_2016_IJRME
-summary: 以文献综述和美英 What Works 倡议对话为基础，提出以机制实验和改进网络为双重支柱的"什么有效 2.0"整合框架
+summary: "以文献综述和美英 What Works 倡议对话为基础，提出以机制实验和改进网络为双重支柱的\"什么有效 2.0\"整合框架"
 type: argument
 subtype: journal-article
 publication_type: journal-article

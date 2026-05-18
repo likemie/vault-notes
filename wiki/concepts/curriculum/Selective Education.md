@@ -1,7 +1,7 @@
 ---
 title: Selective Education
 aliases: []
-summary: 依据学术能力考试将中学生分流至文法学校与现代中学的制度，研究证据一致表明其效果至多为中性，多数为负面
+summary: "依据学术能力考试将中学生分流至文法学校与现代中学的制度，研究证据一致表明其效果至多为中性，多数为负面"
 type: concept
 tags:
 - selective-education

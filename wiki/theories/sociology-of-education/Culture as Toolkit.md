@@ -4,7 +4,7 @@ aliases:
 - 文化工具箱
 - culture as toolkit
 - Swidler 工具箱理论
-summary: Ann Swidler (1986) 的文化社会学理论：文化不仅定义价值观更是提供行动策略所需的"工具"，郑雅君 (2023) 用于分析大学生活组织图式的阶层差异
+summary: "Ann Swidler (1986) 的文化社会学理论：文化不仅定义价值观更是提供行动策略所需的\"工具\"，郑雅君 (2023) 用于分析大学生活组织图式的阶层差异"
 type: theory
 tags:
 - culture-as-toolkit

@@ -1,7 +1,7 @@
 ---
 title: Introduction of Liberal Studies 2009
 aliases: []
-summary: 通识教育科作为新高中核心必修科的创立，以全球化论述和 IBDP 参照包装国内政策需求
+summary: "通识教育科作为新高中核心必修科的创立，以全球化论述和 IBDP 参照包装国内政策需求"
 type: fact
 subtype: policy
 region: hongkong

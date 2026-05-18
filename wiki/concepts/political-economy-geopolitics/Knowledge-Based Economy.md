@@ -5,7 +5,7 @@ aliases:
 - 知识型经济
 - knowledge-based economy
 - KBE
-summary: 知识经济：知识、创新、高等教育和研发为价值创造与全球竞争核心要素的实际存在经济形态
+summary: "知识经济：知识、创新、高等教育和研发为价值创造与全球竞争核心要素的实际存在经济形态"
 type: concept
 tags:
 - knowledge-based-economy

@@ -1,7 +1,7 @@
 ---
 title: The Shock of the Elite
 aliases: []
-summary: Reay, Crozier & Clayton (2009) 的概念：弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，郑雅君 (2023) 作为直觉依赖模式激化的关键机制
+summary: "Reay, Crozier & Clayton (2009) 的概念：弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，郑雅君 (2023) 作为直觉依赖模式激化的关键机制"
 type: concept
 tags:
 - elite-shock

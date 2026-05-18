@@ -1,6 +1,6 @@
 ---
 title: Argument_Berk_2011_ER
-summary: 基于 35 年 ER 创始编辑经验，反思评估研究中证据与垃圾科学的五大方法论战场（因果效应定义/RCT集群随机化/因果建模/匹配/元分析），提出中立审查、团队评估、数据科学训练三条对策
+summary: "基于 35 年 ER 创始编辑经验，反思评估研究中证据与垃圾科学的五大方法论战场（因果效应定义/RCT集群随机化/因果建模/匹配/元分析），提出中立审查、团队评估、数据科学训练三条对策"
 type: argument
 subtype: journal-article
 publication_type: journal-article

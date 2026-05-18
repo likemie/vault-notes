@@ -1,7 +1,7 @@
 ---
 title: Hebbian Principles
 aliases: []
-summary: Hebb 突触可塑性原则：经常使用的神经通路被加强，不常用的被移除，是突触修剪的理论基础
+summary: "Hebb 突触可塑性原则：经常使用的神经通路被加强，不常用的被移除，是突触修剪的理论基础"
 type: theory
 tags:
 - hebbian-learning

@@ -4,7 +4,7 @@ aliases:
 - 国际教育枢纽
 - IEH
 - International Education Hub
-summary: Knight 的概念：国家将自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目，三种模型（学生／人才／知识创新枢纽）
+summary: "Knight 的概念：国家将自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目，三种模型（学生／人才／知识创新枢纽）"
 type: concept
 tags:
 - international-education-hubs

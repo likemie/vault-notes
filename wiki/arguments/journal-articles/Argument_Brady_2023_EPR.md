@@ -1,6 +1,6 @@
 ---
 title: Argument_Brady_2023_EPR
-summary: 追踪 2020 年五本教育心理学经验期刊的方法趋势，发现随机实验降至 20%、非干预文章中约三分之二包含实践建议
+summary: "追踪 2020 年五本教育心理学经验期刊的方法趋势，发现随机实验降至 20%、非干预文章中约三分之二包含实践建议"
 type: argument
 subtype: journal-article
 publication_type: journal-article

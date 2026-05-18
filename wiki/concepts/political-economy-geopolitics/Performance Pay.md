@@ -1,7 +1,7 @@
 ---
 title: Performance Pay
 aliases: []
-summary: 将教师薪酬与测量表现挂钩的制度，亦称 merit pay；过去 25+ 年大多数尝试失败；与 Hattie 强调的安全信任教师文化直接矛盾
+summary: "将教师薪酬与测量表现挂钩的制度，亦称 merit pay；过去 25+ 年大多数尝试失败；与 Hattie 强调的安全信任教师文化直接矛盾"
 type: concept
 tags:
 - performance-pay

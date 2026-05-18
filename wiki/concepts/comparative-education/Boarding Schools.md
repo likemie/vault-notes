@@ -3,7 +3,7 @@ title: Boarding Schools
 aliases:
 - 寄宿学校
 - boarding school
-summary: 寄宿学校从中世纪修道院到当代"大学跳板"的演变；UK 700+ 所 100K+ 学生/年，AU 101 所，CA 约 60 所
+summary: "寄宿学校从中世纪修道院到当代\"大学跳板\"的演变；UK 700+ 所 100K+ 学生/年，AU 101 所，CA 约 60 所"
 type: concept
 tags:
 - region/global

@@ -2,7 +2,7 @@
 title: Stephen Ball
 aliases:
 - 斯蒂芬·鲍尔
-summary: 英国教育社会学家，教育政策语境理论与私有化分析代表人物，为教育研究分析政策网络、市场化与治理变迁提供核心框架。
+summary: "英国教育社会学家，教育政策语境理论与私有化分析代表人物，为教育研究分析政策网络、市场化与治理变迁提供核心框架。"
 type: person
 nationality: uk
 tags:

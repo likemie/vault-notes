@@ -1,7 +1,7 @@
 ---
 title: Visible Learning
 aliases: []
-summary: John Hattie (2009) 基于 800+ 元分析综合的教育证据项目，以效应量排名 150+ 教学干预，已在至少 23 国采用；McKnight & Whitburn (2020) 从文化政治视角提出七点系统批评
+summary: "John Hattie (2009) 基于 800+ 元分析综合的教育证据项目，以效应量排名 150+ 教学干预，已在至少 23 国采用；McKnight & Whitburn (2020) 从文化政治视角提出七点系统批评"
 type: concept
 tags:
 - Visible Learning

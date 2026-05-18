@@ -3,7 +3,7 @@ title: Intuition-Dependent Mode
 aliases:
 - 直觉依赖模式
 - intuition-dependent mode
-summary: 郑雅君 (2023) 提出的大学生活组织实践图式：缺乏清晰规划、凭直觉被动应对大学选择，在低阶层大学生中更为普遍
+summary: "郑雅君 (2023) 提出的大学生活组织实践图式：缺乏清晰规划、凭直觉被动应对大学选择，在低阶层大学生中更为普遍"
 type: concept
 tags:
 - intuition-dependent-mode

@@ -1,7 +1,7 @@
 ---
 title: Side Effects in Education
 aliases: []
-summary: Zhao (2017) 从医学引入教育研究的概念：教育干预的效果与副作用不可分离，教育研究系统性地忽视"什么有效可能同时有害
+summary: "Zhao (2017) 从医学引入教育研究的概念：教育干预的效果与副作用不可分离，教育研究系统性地忽视\"什么有效可能同时有害"
 type: concept
 tags:
 - side-effects

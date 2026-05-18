@@ -5,7 +5,7 @@ aliases:
 - education indicators
 - 教育指标
 - policy instruments
-summary: 经目的性选择和加工的派生统计量，合并多数据源；Le Galès 技术—权力双重性框架，Rambla 四维运作机制分析；合并原 Education Indicators
+summary: "经目的性选择和加工的派生统计量，合并多数据源；Le Galès 技术—权力双重性框架，Rambla 四维运作机制分析；合并原 Education Indicators"
 type: concept
 tags:
 - policy-instruments

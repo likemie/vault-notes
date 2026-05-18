@@ -1,7 +1,7 @@
 ---
 title: Constructive Alignment
 aliases: []
-summary: Biggs (1996, 2003) 的课程设计原则：学习结果、教学活动和评估三者逻辑一致对齐，被 Hattie VL 框架采纳为关键实施要素
+summary: "Biggs (1996, 2003) 的课程设计原则：学习结果、教学活动和评估三者逻辑一致对齐，被 Hattie VL 框架采纳为关键实施要素"
 type: concept
 tags:
 - constructive-alignment

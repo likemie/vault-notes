@@ -5,7 +5,7 @@ aliases:
 - 公司大学
 - CU
 - corporate training academy
-summary: 企业大学：MNCs 集中化教育培训的总称，Rademakers 区分为学校型（高度标准化）、学院型（对齐策略）和学院型（高级管理层共同生产知识）三类
+summary: "企业大学：MNCs 集中化教育培训的总称，Rademakers 区分为学校型（高度标准化）、学院型（对齐策略）和学院型（高级管理层共同生产知识）三类"
 type: concept
 tags:
 - level/adult

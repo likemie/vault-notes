@@ -6,7 +6,7 @@ aliases:
 - 生态博物馆
 - ecomuseum
 - ecomuseums
-summary: 生态博物馆学：将整个地域视为博物馆，由社区主导保护和阐释自然与文化遗产，与巴西社会博物馆学高度交叉共存
+summary: "生态博物馆学：将整个地域视为博物馆，由社区主导保护和阐释自然与文化遗产，与巴西社会博物馆学高度交叉共存"
 type: concept
 tags:
 - region/brazil

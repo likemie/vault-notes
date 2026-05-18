@@ -1,7 +1,7 @@
 ---
 title: Minerva University
 aliases: []
-summary: 2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标
+summary: "2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标"
 type: fact
 subtype: event
 region: global

@@ -1,7 +1,7 @@
 ---
 title: Bounded Rationality
 aliases: []
-summary: Simon (1969/1996) 的有限理性理论：复杂专业任务的复杂度大于专业人员的实践能力，Qvortrup 用作专业判断的理论基础
+summary: "Simon (1969/1996) 的有限理性理论：复杂专业任务的复杂度大于专业人员的实践能力，Qvortrup 用作专业判断的理论基础"
 type: theory
 tags:
 - bounded-rationality

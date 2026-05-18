@@ -5,7 +5,7 @@ aliases:
 - 学业融入与社交融入
 - Tinto 融入理论
 - academic and social integration
-summary: Vincent Tinto (1993) 的学生发展理论：大学生须经分离-转折-习得三阶段融入大学学术与社交环境，郑雅君 (2023) 作为"投入过程"的理论基础
+summary: "Vincent Tinto (1993) 的学生发展理论：大学生须经分离-转折-习得三阶段融入大学学术与社交环境，郑雅君 (2023) 作为\"投入过程\"的理论基础"
 type: concept
 tags:
 - student-integration

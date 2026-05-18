@@ -2,7 +2,7 @@
 title: Pepka Boyadjieva
 aliases:
 - 佩普卡·博亚季耶娃
-summary: 保加利亚社会学家和高等教育研究者，高教多维使命模型提出者，为教育研究反思排名逻辑对大学使命的压缩提供框架。
+summary: "保加利亚社会学家和高等教育研究者，高教多维使命模型提出者，为教育研究反思排名逻辑对大学使命的压缩提供框架。"
 type: person
 nationality: bulgaria
 tags:

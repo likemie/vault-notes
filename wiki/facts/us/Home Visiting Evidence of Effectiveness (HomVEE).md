@@ -1,7 +1,7 @@
 ---
 title: Home Visiting Evidence of Effectiveness (HomVEE)
 aliases: []
-summary: 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、QED、RDD 均有详细标准
+summary: "聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、QED、RDD 均有详细标准"
 type: fact
 subtype: event
 region: us

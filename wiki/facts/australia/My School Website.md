@@ -1,7 +1,7 @@
 ---
 title: My School Website
 aliases: []
-summary: 2008 年建立的澳大利亚学校透明度和比较网站，基于 NAPLAN 成绩排名学校，被批评为制造社会分裂和残余化的核心机制
+summary: "2008 年建立的澳大利亚学校透明度和比较网站，基于 NAPLAN 成绩排名学校，被批评为制造社会分裂和残余化的核心机制"
 type: fact
 subtype: policy
 region: australia

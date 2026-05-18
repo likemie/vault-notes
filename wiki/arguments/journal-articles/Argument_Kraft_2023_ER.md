@@ -1,6 +1,6 @@
 ---
 title: Argument_Kraft_2023_ER
-summary: 回应 Simpson 对效应量基准的批评，以 3,426 个教育干预 RCT 效应量显示 36% 小于 0.05，主张"教育干预经常失败"才是解释政策相关性的核心基准
+summary: "回应 Simpson 对效应量基准的批评，以 3,426 个教育干预 RCT 效应量显示 36% 小于 0.05，主张\"教育干预经常失败\"才是解释政策相关性的核心基准"
 type: argument
 subtype: journal-article
 publication_type: journal-article

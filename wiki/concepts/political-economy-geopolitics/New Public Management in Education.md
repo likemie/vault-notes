@@ -2,7 +2,7 @@
 title: New Public Management in Education
 aliases:
 - 新公共管理
-summary: 过去约 30 年西方教育系统以新管理主义理念进行的改革浪潮，特征为绩效标准、产出控制、供给竞争和管理问责，与分布式领导话语并行运作构成悖论
+summary: "过去约 30 年西方教育系统以新管理主义理念进行的改革浪潮，特征为绩效标准、产出控制、供给竞争和管理问责，与分布式领导话语并行运作构成悖论"
 type: concept
 tags:
 - New Public Management

@@ -1,7 +1,7 @@
 ---
 title: International Indicators of Education Systems (INES)
 aliases: []
-summary: 1988 年 OECD 启动的国际教育指标开发项目，EAG 的前身和生产者
+summary: "1988 年 OECD 启动的国际教育指标开发项目，EAG 的前身和生产者"
 type: concept
 tags:
 - INES

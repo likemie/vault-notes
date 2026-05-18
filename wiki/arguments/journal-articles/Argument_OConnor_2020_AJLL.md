@@ -1,6 +1,6 @@
 ---
 title: Argument_OConnor_2020_AJLL
-summary: 以 VL 全语言处理为案例的细读审查：揭示分类错误、不对称审查（接受 -0.65/修正 +0.65）、选择性排除（VL 唯一被修正效应量的元分析），论证先验偏见驱动数据选择
+summary: "以 VL 全语言处理为案例的细读审查：揭示分类错误、不对称审查（接受 -0.65/修正 +0.65）、选择性排除（VL 唯一被修正效应量的元分析），论证先验偏见驱动数据选择"
 type: argument
 subtype: journal-article
 publication_type: journal-article

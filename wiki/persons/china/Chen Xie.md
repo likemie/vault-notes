@@ -2,7 +2,7 @@
 title: Chen Xie
 aliases:
 - 谢晨
-summary: 中国比较教育研究者，教育技术实验比较与证据本位改革研究者，为中文教育研究连接国际实证改革议程提供支持。
+summary: "中国比较教育研究者，教育技术实验比较与证据本位改革研究者，为中文教育研究连接国际实证改革议程提供支持。"
 type: person
 nationality: china
 tags:

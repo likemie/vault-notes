@@ -5,7 +5,7 @@ aliases:
 - 教育私有化
 - endogenous privatization
 - exogenous privatization
-summary: Ball & Youdell (2008) 识别的两种全球公立学校私有化趋势：学校变得更像企业（内生）vs 私营部门进入学校（外生）
+summary: "Ball & Youdell (2008) 识别的两种全球公立学校私有化趋势：学校变得更像企业（内生）vs 私营部门进入学校（外生）"
 type: concept
 tags:
 - privatisation

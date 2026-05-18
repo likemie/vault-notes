@@ -4,7 +4,7 @@ aliases:
 - 地缘政治主体
 - geopolitical subject
 - geopolitical subjects
-summary: Moisio (2022) 的概念：从政治权力角度被装备上特定技能、行为、取向和空间心态的人形集合，在高等教育空间中被形塑以服务于全球竞争
+summary: "Moisio (2022) 的概念：从政治权力角度被装备上特定技能、行为、取向和空间心态的人形集合，在高等教育空间中被形塑以服务于全球竞争"
 type: concept
 tags:
 - geopolitical-subject

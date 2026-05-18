@@ -1,7 +1,7 @@
 ---
 title: Education at a Glance (EAG)
 aliases: []
-summary: OECD 年度旗舰出版物，以 30 项国际教育指标描述各国教育系统，涵盖产出、投入、参与、环境四大维度
+summary: "OECD 年度旗舰出版物，以 30 项国际教育指标描述各国教育系统，涵盖产出、投入、参与、环境四大维度"
 type: concept
 tags:
 - Education at a Glance

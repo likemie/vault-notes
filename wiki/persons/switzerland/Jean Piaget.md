@@ -3,7 +3,7 @@ title: Jean Piaget
 aliases:
 - 让·皮亚杰
 - 皮亚杰
-summary: 瑞士心理学家，认知发展阶段理论与发生认识论创立者，为教育研究理解儿童发展、建构主义与课程设计提供根基。
+summary: "瑞士心理学家，认知发展阶段理论与发生认识论创立者，为教育研究理解儿童发展、建构主义与课程设计提供根基。"
 type: person
 nationality: switzerland
 tags:

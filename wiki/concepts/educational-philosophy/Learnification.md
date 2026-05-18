@@ -1,7 +1,7 @@
 ---
 title: Learnification
 aliases: []
-summary: Gert Biesta 提出的批判概念：学习被效果中心的结果逻辑所吞噬，教师被降格为"学习促进者"，Larsen (2019) 在丹麦语境中追溯其历史演变
+summary: "Gert Biesta 提出的批判概念：学习被效果中心的结果逻辑所吞噬，教师被降格为\"学习促进者\"，Larsen (2019) 在丹麦语境中追溯其历史演变"
 type: concept
 tags:
 - Learnification

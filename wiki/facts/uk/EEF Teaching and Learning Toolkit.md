@@ -1,7 +1,7 @@
 ---
 title: EEF Teaching and Learning Toolkit
 aliases: []
-summary: 英国 EEF 的元-元分析工具，以联盟表格式按成本/有效性/证据确定性排名 30+ 类干预，面临 Simpson/Wrigley 方法论批评，Wrigley & McCusker (2019) 通过体育参与案例揭示三级聚合失真
+summary: "英国 EEF 的元-元分析工具，以联盟表格式按成本/有效性/证据确定性排名 30+ 类干预，面临 Simpson/Wrigley 方法论批评，Wrigley & McCusker (2019) 通过体育参与案例揭示三级聚合失真"
 type: fact
 subtype: policy
 region: uk

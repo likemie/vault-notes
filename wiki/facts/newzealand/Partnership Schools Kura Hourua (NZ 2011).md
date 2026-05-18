@@ -1,7 +1,7 @@
 ---
 title: Partnership Schools Kura Hourua (NZ 2011)
 aliases: []
-summary: 新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动
+summary: "新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动"
 type: fact
 subtype: event
 region: newzealand

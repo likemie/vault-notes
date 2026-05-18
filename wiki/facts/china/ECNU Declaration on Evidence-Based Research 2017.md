@@ -1,7 +1,7 @@
 ---
 title: ECNU Declaration on Evidence-Based Research 2017
 aliases: []
-summary: 华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣言，提出 10 条措施推进中国教育实证研究，标志中国证据本位改革的制度化里程碑（Slavin et al., 2021）
+summary: "华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣言，提出 10 条措施推进中国教育实证研究，标志中国证据本位改革的制度化里程碑（Slavin et al., 2021）"
 type: fact
 subtype: event
 region: china

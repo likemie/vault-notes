@@ -1,7 +1,7 @@
 ---
 title: Complexity Reduction
 aliases: []
-summary: 通过减少系统中的可用选项数量使社会情境变得可预测，Biesta 将其定义为政治权力行为
+summary: "通过减少系统中的可用选项数量使社会情境变得可预测，Biesta 将其定义为政治权力行为"
 type: concept
 tags:
 - complexity-reduction

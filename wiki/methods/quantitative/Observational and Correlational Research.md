@@ -5,7 +5,7 @@ aliases:
 - 观察
 - 相关研究
 - 观察研究
-summary: 不操纵自变量、以量化数据分析变量关系的非干预研究设计；Brady et al. (2023) 发现此类文章中实践建议比例持续上升
+summary: "不操纵自变量、以量化数据分析变量关系的非干预研究设计；Brady et al. (2023) 发现此类文章中实践建议比例持续上升"
 type: method
 method_type: quantitative
 tags:

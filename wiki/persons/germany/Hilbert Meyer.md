@@ -2,7 +2,7 @@
 title: Hilbert Meyer
 aliases:
 - 希尔伯特·迈耶
-summary: 德国教育学者和Didaktik研究者，“好教学十项标准”提出者，为教学质量研究和课堂观察提供系统参照。
+summary: "德国教育学者和Didaktik研究者，“好教学十项标准”提出者，为教学质量研究和课堂观察提供系统参照。"
 type: person
 nationality: germany
 tags:

@@ -4,7 +4,7 @@ aliases:
 - 价值归顺者
 - value conformist
 - 价值归顺
-summary: 郑雅君 (2023) 的类型：直觉依赖模式+强价值信念=价值归顺者，内化学校理想信念获得体制赞助性流动
+summary: "郑雅君 (2023) 的类型：直觉依赖模式+强价值信念=价值归顺者，内化学校理想信念获得体制赞助性流动"
 type: concept
 tags:
 - value-conformist-mode

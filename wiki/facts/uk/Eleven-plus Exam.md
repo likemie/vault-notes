@@ -1,7 +1,7 @@
 ---
 title: Eleven-plus Exam
 aliases: []
-summary: 英国 11 岁中等教育选拔考试，决定学生进入文法学校或综合学校，研究证据一致表明其加剧不平等且不促进社会流动
+summary: "英国 11 岁中等教育选拔考试，决定学生进入文法学校或综合学校，研究证据一致表明其加剧不平等且不促进社会流动"
 type: fact
 subtype: policy
 region: uk

@@ -3,7 +3,7 @@ title: PISA
 aliases:
 - 国际学生评估项目
 - Programme for International Student Assessment
-summary: OECD 2000 年启动的国际学生评估项目，每三年测试 15 岁学生阅读/数学/科学素养；芬兰、HK、韩国、加拿大等为模范国家；女性超越男性，二代移民超越本地生
+summary: "OECD 2000 年启动的国际学生评估项目，每三年测试 15 岁学生阅读/数学/科学素养；芬兰、HK、韩国、加拿大等为模范国家；女性超越男性，二代移民超越本地生"
 type: fact
 subtype: event
 region: global

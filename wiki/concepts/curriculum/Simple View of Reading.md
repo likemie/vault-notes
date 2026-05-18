@@ -1,7 +1,7 @@
 ---
 title: Simple View of Reading
 aliases: []
-summary: Gough & Tunmer (1986) 的阅读理论模型：解码×理解=阅读，从提出起即明确针对全语言理论，通过英国 Rose Report 影响政策
+summary: "Gough & Tunmer (1986) 的阅读理论模型：解码×理解=阅读，从提出起即明确针对全语言理论，通过英国 Rose Report 影响政策"
 type: concept
 tags:
 - simple-view-of-reading

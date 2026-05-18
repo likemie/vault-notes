@@ -1,7 +1,7 @@
 ---
 title: Local Knowledge in Evidence-Based Policy
 aliases: []
-summary: 从业者对本地情境的深入了解和专业判断，多项研究表明它是 EBP 成功实施不可或缺的组成部分
+summary: "从业者对本地情境的深入了解和专业判断，多项研究表明它是 EBP 成功实施不可或缺的组成部分"
 type: concept
 tags:
 - evidence-based-policy

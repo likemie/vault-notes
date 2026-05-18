@@ -1,7 +1,7 @@
 ---
 title: Rose Report 2006
 aliases: []
-summary: Jim Rose 领导的英国早期阅读教学独立审查，推广简单阅读观，直接导致全英强制合成语音教学
+summary: "Jim Rose 领导的英国早期阅读教学独立审查，推广简单阅读观，直接导致全英强制合成语音教学"
 type: fact
 subtype: policy
 region: uk

@@ -1,7 +1,7 @@
 ---
 title: Educational Technology Industry
 aliases: []
-summary: Amos (2022) 分析的 EdTech 产业生态系统：以利润（Google/Apple/Microsoft/Coursera）、正义平等叙事（UNESCO anytime/anywhere）和教师专业发展三重动机推动教育的数字化、市场化和商业化，是当代 GEI 最具变革性的技术维度
+summary: "Amos (2022) 分析的 EdTech 产业生态系统：以利润（Google/Apple/Microsoft/Coursera）、正义平等叙事（UNESCO anytime/anywhere）和教师专业发展三重动机推动教育的数字化、市场化和商业化，是当代 GEI 最具变革性的技术维度"
 type: concept
 tags:
 - edtech

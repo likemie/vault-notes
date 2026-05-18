@@ -1,7 +1,7 @@
 ---
 title: Communities in Schools (CIS)
 aliases: []
-summary: Wadhwa et al. (2024) 的清算中心评级分歧案例：NDPC 推荐，PPN/CNCS 认为 promising 或中等支持，Blueprints/CMFR 不背书
+summary: "Wadhwa et al. (2024) 的清算中心评级分歧案例：NDPC 推荐，PPN/CNCS 认为 promising 或中等支持，Blueprints/CMFR 不背书"
 type: fact
 subtype: event
 region: us

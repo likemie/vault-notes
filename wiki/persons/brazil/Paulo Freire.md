@@ -4,7 +4,7 @@ aliases:
 - 保罗·弗莱雷
 - 弗莱雷
 - Freire
-summary: 巴西教育家，《被压迫者教育学》作者与批判教育学奠基人，为教育研究连接对话、解放与权力批判提供经典语言。
+summary: "巴西教育家，被压迫者教育学作者与批判教育学奠基人，为教育研究连接对话、解放与权力批判提供经典语言。"
 type: person
 nationality: brazil
 tags:

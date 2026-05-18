@@ -2,7 +2,7 @@
 title: Francisco Varela
 aliases:
 - 弗朗西斯科·瓦雷拉
-summary: 智利生物学家和神经科学家，自创生理论共同创立者与具身认知代表人物，为教育研究理解认知、主体性与关系性学习提供资源。
+summary: "智利生物学家和神经科学家，自创生理论共同创立者与具身认知代表人物，为教育研究理解认知、主体性与关系性学习提供资源。"
 type: person
 nationality: chile
 tags:

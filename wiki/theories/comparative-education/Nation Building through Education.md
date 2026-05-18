@@ -1,7 +1,7 @@
 ---
 title: Nation Building through Education
 aliases: []
-summary: 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析
+summary: "国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析"
 type: theory
 tags:
 - nation-building

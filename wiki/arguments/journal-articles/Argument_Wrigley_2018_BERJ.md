@@ -1,6 +1,6 @@
 ---
 title: Argument_Wrigley_2018_BERJ
-summary: 以批判实在论对 EBE 方法论进行三层解构：RCT 的简化 → 元分析的混淆 → 元-元分析（Hattie/Toolkit）的失真，定位 EBE 于新自由主义框架
+summary: "以批判实在论对 EBE 方法论进行三层解构：RCT 的简化 → 元分析的混淆 → 元-元分析（Hattie/Toolkit）的失真，定位 EBE 于新自由主义框架"
 type: argument
 subtype: journal-article
 publication_type: journal-article
