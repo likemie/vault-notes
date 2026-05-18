@@ -32,6 +32,17 @@ updated: 2026-05-07
 
 ---
 
+## 概念演变
+
+> [!note]
+> GEI 的形成与后福特经济转型、新公共管理改革和教育技术发展深度交织。Hartmann (2022) 从[[Corporate Education|企业教育]]市场的视角提供了 GEI 扩张的一个具体时间线：
+
+- **1990s**：第一所[[Corporate University|企业大学]]由美国通用汽车（GM）创建，Motorola、Apple、Deloitte、IBM、GE 等美国公司迅速跟进——企业培训从内部职能部门升级为品牌化教育项目，成为 GEI 中增长最快的板块之一（Hartmann, 2022, p.189）
+- **1990s–2000s**：欧洲 MNCs 相继建立企业大学（德国 Lufthansa、VW、Siemens；法国 AXA、Alcatel-Lucent；西班牙 Santander、Telefónica 等），但欧洲对企业大学概念比美国更存争议——部分学者质疑其仅为营销包装（Hartmann, 2022, pp.185, 189）
+- **2000s–**：企业教育市场集中化加速——少数 IT 巨头（Microsoft、LinkedIn Learning）和大型 e-learning 提供商（Skillsoft 覆盖 160 国）通过规模效应、IPR 排他性和跨业务协同效应形成寡头市场，规范扩散力量近乎强制型同构（Hartmann, 2022, pp.191–193）。详见 [[Argument_Hartmann_2022_CorporateEducation]] 第五步
+
+---
+
 ## 核心要素
 
 - **多重经济理性**：GEI 在经济化、市场化、私有化、商品化和金融化等多重过程中运作（Verger et al., 2016; Parreira do Amaral et al., 2019, cited in Parreira do Amaral, 2022, p.42）

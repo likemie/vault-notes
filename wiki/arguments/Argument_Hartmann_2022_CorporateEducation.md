@@ -3,7 +3,7 @@ title: Argument_Hartmann_2022_CorporateEducation
 type: argument
 citation: "Hartmann, E. (2022). The Internationalisation of Further Education: Between Geoeconomics and Geopolitics. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 179–198). Springer."
 tags: ["level/adult", "region/global", "subject/comparative-education"]
-related_concepts: ["[[Further Education]]", "[[Corporate Education]]", "[[Corporate University]]", "[[Global Education Industry]]", "[[Knowledge-Based Economy]]", "[[Geopolitical Subject]]"]
+related_concepts: ["[[Further Education]]", "[[Corporate Education]]", "[[Corporate University]]", "[[Global Education Industry]]", "[[Knowledge-Based Economy]]", "[[Geopolitical Subject]]", "[[Varieties of Capitalism]]"]
 related_theories: ["[[Institutional Isomorphism]]", "[[Critical Geopolitics]]"]
 related_methods: []
 related_persons: ["[[Sami Moisio]]", "[[Max Weber]]"]

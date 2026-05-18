@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/theories/World Culture Theory.md",
+                "file": "wiki/theories/World Society Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World Culture Theory"
+              "title": "World Society Theory"
             }
           }
         ]
@@ -190,21 +190,23 @@
   "active": "ca60ccc8b591cddf",
   "lastOpenFiles": [
     "wiki/theories/Institutional Isomorphism.md",
-    "wiki/concepts/Global Education Industry.md",
+    "wiki/theories/World Culture Theory.md",
     "wiki/arguments/Argument_Hartmann_2022_CorporateEducation.md",
+    "wiki/concepts/Geopolitical Subject.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022.md",
+    "wiki/theories/Critical Geopolitics.md",
+    "wiki/theories/World Society Theory.md",
+    "wiki/concepts/Varieties of Capitalism.md",
+    "wiki/concepts/Global Education Industry.md",
     "wiki/concepts/Knowledge-Based Economy.md",
     "wiki/concepts/Corporate Education.md",
     "wiki/persons/Sami Moisio.md",
-    "wiki/concepts/Geopolitical Subject.md",
     "wiki/concepts/Global Education Industry (GEI).md",
     "wiki/concepts/Corporate University.md",
     "wiki/concepts/Further Education.md",
-    "wiki/theories/Critical Geopolitics.md",
     "wiki/persons/Max Weber.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022.md",
     "wiki/arguments/Argument_Parreira do Amaral_2022_Springer.md",
     "sources/Parreira do Amaral(Ed.)_2022_Springer.md",
-    "wiki/theories/World Culture Theory.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022.pdf",
     "CLAUDE.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md",
@@ -216,8 +218,6 @@
     "wiki/arguments/Argument_Slethaug_2010_InternationalEducation.md",
     "books/Ryan(Ed.)_2010_HKUP/Ch1_Slethaug_2010.md",
     "wiki/facts/china/Academic Ranking of World Universities (ARWU).md",
-    "wiki/concepts/International Education.md",
-    "wiki/facts/global/Education City Doha.md",
     "wiki/theories/Hofstede's Cultural Dimensions.md.tmp.53348.94cf9136d150",
     "books/Ryan(Ed.)_2010_HKUP/Ch1_Slethaug_2010.pdf",
     "books/Ryan(Ed.)_2010_HKUP/Ch2_Ryan_2010.pdf",

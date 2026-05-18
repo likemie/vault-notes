@@ -185,6 +185,7 @@
 - [[Further Education]] — 继续教育：非正规中学后教育形式，在结构化教育系统之外进行，与非学位证书和微证书相关联，是后福特知识经济中终身学习的关键组成部分
 - [[Corporate Education]] — 企业教育：企业为雇员提供的教育培训，以"像公司一样看世界"为软权力功能，范围涵盖初始职业教育到高层管理培训
 - [[Corporate University]] — 企业大学：MNCs 集中化教育培训的总称，Rademakers 区分为学校型（高度标准化）、学院型（对齐策略）和学院型（高级管理层共同生产知识）三类
+- [[Varieties of Capitalism]] — 资本主义多样性：Hall & Soskice (2001) 的 LME/CME 制度区分框架，Hartmann (2022) 用于解释 IVET 跨国转移困难和美国 MNCs 在全球教育市场中的先发优势
 
 ### Instruction & Pedagogy
 
@@ -306,6 +307,7 @@
 - [[Fixity-Motion Tension]] — David Harvey (1985/2001) 的资本主义地缘政治核心理论：资本主义需要创造空间固着来促进资本流通，但流通又不断破坏既有空间配置，Moisio (2022) 将其应用于知识经济化分析
 - [[World-Systems Theory]] — Immanuel Wallerstein (1974) 的中心-边缘-半边缘三层全球空间理论，零和剩余假设，Marginson (2025) 以过去三十年高等教育和科学的多国同时进步论证其刚性空间性的失败
 - [[Hegemony]] — Antonio Gramsci (1971) 的权力理论：区分强制与霸权（通过法律、教育、媒体、科学、大学等文化制度赢得被统治者积极同意），文化部门的半自主性和知识分子的双重角色是高等教育地缘政治分析的核心工具
+- [[Varieties of Capitalism]] — 资本主义多样性：Hall & Soskice (2001) 的 LME/CME 制度区分框架，Hartmann (2022) 用于解释 IVET 跨国转移困难和美国 MNCs 在全球教育市场中的先发优势
 
 ### Political Science & Policy Studies
 

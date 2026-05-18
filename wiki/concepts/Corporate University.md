@@ -3,7 +3,7 @@ title: Corporate University
 aliases: ["企业大学", "公司大学", "CU", "corporate training academy"]
 type: concept
 tags: ["level/adult", "region/global", "subject/comparative-education"]
-related_concepts: ["[[Corporate Education]]", "[[Further Education]]", "[[Global Education Industry]]"]
+related_concepts: ["[[Corporate Education]]", "[[Further Education]]", "[[Global Education Industry]]", "[[Varieties of Capitalism]]"]
 related_theories: ["[[Institutional Isomorphism]]"]
 related_methods: []
 related_persons: []

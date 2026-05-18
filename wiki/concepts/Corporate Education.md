@@ -3,7 +3,7 @@ title: Corporate Education
 aliases: ["企业教育", "公司教育", "company-based education", "firm-based training", "corporate training"]
 type: concept
 tags: ["level/adult", "region/global", "subject/comparative-education"]
-related_concepts: ["[[Further Education]]", "[[Corporate University]]", "[[Global Education Industry]]", "[[Knowledge-Based Economy]]", "[[Geopolitical Subject]]"]
+related_concepts: ["[[Further Education]]", "[[Corporate University]]", "[[Global Education Industry]]", "[[Knowledge-Based Economy]]", "[[Geopolitical Subject]]", "[[Varieties of Capitalism]]"]
 related_theories: ["[[Institutional Isomorphism]]"]
 related_methods: []
 related_persons: ["[[Sami Moisio]]"]
