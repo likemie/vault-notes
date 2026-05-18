@@ -15,13 +15,14 @@ books/
       ch02_章节名.txt
 ```
 
-整合完成后建立 sources 记录：
+整合完成后建立书籍 sources 记录：
 ```
-sources/
-  作者姓_年份_出版社.pdf     ← 原书 PDF
-  作者姓_年份_出版社.md      ← sources 记录（永久保留）
+books/
+  作者姓_年份_出版社/
+    BookName.pdf
+    作者姓_年份_出版社.md      ← sources 记录（永久保留，放在书籍文件夹内）
 
-wiki/arguments/
+wiki/arguments/books/
   Argument_作者姓_年份_出版社.md  ← 全书论证框架
 ```
 
@@ -64,8 +65,7 @@ wiki/arguments/
    PYEOF
 4. 将章节列表展示给用户，停下等待用户指定章节：
    「以上是全书章节列表（共 X 章），请告知需要处理哪一章？」
-5. 在 wiki/index.md 的 Arguments > Books 分组加入：
-   📖 [[Argument_作者姓_年份_出版社]] — 书名
+5. 不处理正文内容，停下等待用户指定章节；首次真正写入 Argument 或条目后，再运行 `python3 scripts/update_wiki_index.py`
 ```
 
 **注意：拆分完成后原始 PDF 不再读取，后续每次只读对应的 chXX.txt 文件。**
@@ -76,15 +76,15 @@ wiki/arguments/
 1. 读取 vault-schema.md
 2. 读取用户指定的 chapters/chXX_章节名.txt
 3. 基于 vault-schema.md 提取规范扫描章节内容，列出可提取条目
-4. 读取 wiki/index.md，将条目分为待更新和待新建两组，标注类型
-5. 按 vault-schema.md 工作流步骤 8、9 执行：
+4. 读取 `wiki/index.json`，将条目分为待更新和待新建两组，标注类型与目标二级文件夹
+5. 按 vault-schema.md 的更新／新建条目规则 执行：
    - 步骤 8：逐条读取已有条目，检查格式与重构需求，整合新内容
    - 步骤 9：按类型逐条读取模板新建条目，写入 wiki/类型/ 正式文件夹
 6. 将本章内容追加到 Argument 的「各章概览」：
-   - 若 Argument 尚不存在 → 读取 wiki/templates/template-argument-monograph.md，新建文件，只填入「各章概览」章节
+   - 若 Argument 尚不存在 → 读取 `wiki/templates/template-argument-monograph.md`，在 `wiki/arguments/books/` 新建文件，至少填写 `summary`、`book_title`、`authors`、`publisher`、`citation`，正文可先只填「各章概览」章节
    - 若 Argument 已存在 → 用 str_replace 追加本章内容到「各章概览」末尾
    - 格式自由，忠实记录该章论点、论据、关键引用，不套模板
-7. 执行 vault-schema.md 工作流步骤 10（双向链接维护）
+7. 按 vault-schema.md 维护必要的 frontmatter related_*、sources 与正文 wikilink
 8. 停下，告知用户：「第 XX 章《章节名》处理完成。」
 ```
 
@@ -106,12 +106,12 @@ wiki/arguments/
    - 从各章概览中提炼全书研究问题、理论框架、论证结构、主要发现、关键引用、局限性
    - 用 str_replace 在「各章概览」之前写入正式章节
    - 「各章概览」保留在最后，作为原始章节记录
-4. 新建 sources 记录（sources/作者姓_年份_出版社.md）：
+4. 新建书籍 sources 记录（`books/作者姓_年份_出版社/作者姓_年份_出版社.md`）：
    - citation（APA）
    - extracted_to（所有提取条目的完整列表 + Argument 链接）
    - processed_date
-   - ![[书名.pdf]] 嵌入 PDF
-5. 更新 wiki/index.md，将 📖 改为 ✅
+   - `![[BookName.pdf]]` 嵌入 PDF
+5. 运行 `python3 scripts/update_wiki_index.py` 更新 `wiki/index.json` 与 `wiki/index.md`，将 📖 改为 ✅
 ```
 
 ---

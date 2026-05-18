@@ -20,7 +20,7 @@ books/
     BookName.epub
     作者姓_年份_出版社.md      ← sources 记录（永久保留，放在书籍文件夹内）
 
-wiki/arguments/
+wiki/arguments/books/
   Argument_作者姓_年份_出版社.md  ← 全书论证框架
 ```
 
@@ -65,8 +65,7 @@ Quartz 网页端阅读通过统一配置好的静态脚本实现：
    "
 4. 将章节列表展示给用户，停下等待用户指定章节：
    「以上是全书章节列表，请告知需要处理哪一章？」
-5. 在 wiki/index.md 的 Arguments > Books 分组加入：
-   📖 [[Argument_作者姓_年份_出版社]] — 书名
+5. 不处理正文内容，停下等待用户指定章节；首次真正写入 Argument 或条目后，再运行 `python3 scripts/update_wiki_index.py`
 ```
 
 ---
@@ -92,18 +91,18 @@ Quartz 网页端阅读通过统一配置好的静态脚本实现：
 
 3. 基于 vault-schema.md 提取规范扫描章节内容，列出可提取条目。
 
-4. 读取 wiki/index.md，将条目分为待更新和待新建两组，标注类型。
+4. 读取 `wiki/index.json`，将条目分为待更新和待新建两组，标注类型与目标二级文件夹。
 
-5. 按 vault-schema.md 工作流步骤 8、9 执行：
+5. 按 vault-schema.md 的更新／新建条目规则 执行：
    - 步骤 8：逐条读取已有条目，检查格式与重构需求，整合新内容
    - 步骤 9：按类型逐条读取模板新建条目，写入 wiki/类型/ 正式文件夹
 
 6. 将本章内容追加到 Argument 的「各章概览」：
-   - 若 Argument 尚不存在 → 读取 wiki/templates/template-argument-monograph.md，新建文件，只填入「各章概览」章节
+   - 若 Argument 尚不存在 → 读取 `wiki/templates/template-argument-monograph.md`，在 `wiki/arguments/books/` 新建文件，至少填写 `summary`、`book_title`、`authors`、`publisher`、`citation`，正文可先只填「各章概览」章节
    - 若 Argument 已存在 → 用 str_replace 追加本章内容到「各章概览」末尾
    - 格式自由，忠实记录该章论点、论据、关键引用，不套模板
 
-7. 执行 vault-schema.md 工作流步骤 10（双向链接维护）。
+7. 按 vault-schema.md 维护必要的 frontmatter related_*、sources 与正文 wikilink。
 
 8. 停下，告知用户：
    「第 XX 章《章节名》处理完成。」
@@ -143,7 +142,7 @@ Quartz 网页端阅读通过统一配置好的静态脚本实现：
    - processed_date
    - epub_viewer HTML 调用块
 
-5. 更新 wiki/index.md，将 📖 改为 ✅。
+5. 运行 `python3 scripts/update_wiki_index.py` 更新 `wiki/index.json` 与 `wiki/index.md`，重新生成静态索引。
 ```
 
 ---
@@ -187,11 +186,6 @@ status: processed
 ## EPUB Reader
 
 <div id="epub-viewer" style="width:100%;height:560px;border:1px solid rgb(204,204,204);" data-epub="/books/作者姓_年份_出版社/BookName.epub"></div>
-<script defer src="/static/jszip.min.js"></script>
-<script defer src="/static/epub.min.js"></script>
-<script defer src="/static/epub-loader.js"></script>
-<script defer src="/static/epub-init.js"></script>
-
 ---
 
 ## Notes
