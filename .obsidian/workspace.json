@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/persons/brazil/Paulo Freire.md",
+                "file": "wiki/theories/theories-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paulo Freire"
+              "title": "theories-index"
             }
           }
         ]
@@ -187,9 +187,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "88e92adc127e8098",
+  "active": "f49437b00d1a74a8",
   "lastOpenFiles": [
     "wiki/wiki-index.md",
+    "wiki/persons/brazil/Paulo Freire.md",
+    "wiki/arguments/arguments-index.md",
+    "wiki/facts/facts-index.md",
+    "wiki/persons/persons-index.md",
+    "wiki/methods/methods-index.md",
+    "wiki/theories/theories-index.md",
+    "wiki/concepts/concepts-index.md",
+    "wiki/wiki_index.py",
     "wiki/persons/brazil/Dell Delambre.md",
     "wiki/persons/argentina/Walter Mignolo.md",
     "wiki/index.md",
@@ -209,13 +217,6 @@
     "wiki/facts/china/ECNU Declaration on Evidence-Based Research 2017.md",
     "wiki/facts/china/China Social Credit System.md",
     "wiki/facts/china/China Basic Education Curriculum Reform 2001.md",
-    "wiki/facts/australia/Victorian HITS and Literacy Toolkit 2017.md",
-    "wiki/facts/australia/My School Website.md",
-    "wiki/facts/australia/Gonski Reforms.md",
-    "wiki/facts/australia/Australian Curriculum.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_Springer.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Hartmann_2022_CorporateEducation.md",
     "wiki/persons/argentina",
     "wiki/persons/finland",
     "wiki/persons/bulgaria",
@@ -224,7 +225,6 @@
     "wiki/persons/denmark",
     "wiki/persons/switzerland",
     "wiki/persons/netherlands",
-    "wiki/persons/chile",
     "books/郑_2023_上海三联书店/第三章.jpeg",
     "books/郑_2023_上海三联书店/附录一个案描述5.jpeg",
     "books/郑_2023_上海三联书店/第五章 四种类型的毕业出路获得机制.jpeg",
