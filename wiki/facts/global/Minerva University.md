@@ -4,7 +4,7 @@ aliases: []
 type: fact
 subtype: event
 tags: [minerva-university, higher-education, ed-tech, privatization, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Global Education Industry (GEI)]]", "[[International Education Hubs]]", "[[Hub and Flow Imaginaries]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Global Education Industry]]", "[[International Education Hubs]]", "[[Hub and Flow Imaginaries]]"]
 related_theories: ["[[Critical Geopolitics]]"]
 related_persons: ["[[Christiane Thompson]]", "[[Marcelo Parreira do Amaral]]"]
 related_methods: []
@@ -108,7 +108,7 @@ Minerva University 被 [[Christiane Thompson|Thompson]] 和 [[Marcelo Parreira d
 
 - [[Geopolitics of Knowledge]] — Minerva 是知识地缘政治在机构层面物质化的典型案例
 - [[Hub and Flow Imaginaries]] — Minerva 代表 Hub and Flow 光谱中"流动"维度的极值
-- [[Global Education Industry (GEI)]] — Minerva 是 GEI 中营利性高等教育创业的典型代表
+- [[Global Education Industry]] — Minerva 是 GEI 中营利性高等教育创业的典型代表
 - [[International Education Hubs]] — IEHs 代表的国家锚定式"枢纽"策略与 Minerva 的"场所无涉"策略形成对照
 - [[Knowledge-Based Economization]] — Minerva 从课程到商业模式的全部设计均体现了知识经济化的核心逻辑
 

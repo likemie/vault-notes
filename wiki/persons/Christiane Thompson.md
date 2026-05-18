@@ -3,7 +3,7 @@ title: Christiane Thompson
 aliases: []
 type: person
 tags: [Christiane-Thompson, subjectification, digitization, higher-education, region/germany, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Education Industry (GEI)]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Education Industry]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -47,7 +47,7 @@ Thompson 的研究关注高等教育治理技术如何通过数字化和数据�
 
 - [[Geopolitics of Knowledge]] — 与 Parreira do Amaral 共同发展了高等教育研究的地缘政治视角
 - 高等教育的数字化主体化 — 揭示了数字技术如何重构学术主体性和学习文化
-- [[Global Education Industry (GEI)]] — 与 Parreira do Amaral 和 Steiner-Khamsi 共同编辑该领域的核心著作
+- [[Global Education Industry]] — 与 Parreira do Amaral 和 Steiner-Khamsi 共同编辑该领域的核心著作
 
 ## 来源
 

@@ -5,7 +5,7 @@ type: argument
 subtype: edited-volume
 citation: "Parreira do Amaral, M., & Thompson, C. (Eds.). (2022). Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation. Springer."
 tags: [geopolitics-of-knowledge, higher-education, knowledge-based-economy, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Global Regionalisms in Higher Education]]", "[[Regulatory Regionalism]]", "[[Global Education Industry (GEI)]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Global Regionalisms in Higher Education]]", "[[Regulatory Regionalism]]", "[[Global Education Industry]]"]
 related_theories: []
 related_methods: []
 related_persons: []
@@ -56,7 +56,7 @@ updated: 2026-05-11
 - [[Knowledge-Based Economization]] — Moisio (2018) 的概念框架，关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践的话语建构
 - [[Global Regionalisms in Higher Education]] — Robertson et al. (2016) 的框架，分析高等教育如何被整合进世界各地区的区域整合项目（EU、ASEAN 等）
 - [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念，揭示超国家组织在高等教育区域化中的监管角色
-- [[Global Education Industry (GEI)]] — Verger et al. (2016) 与 Parreira do Amaral et al. (2019) 的框架，涵盖经济化、商品化、私有化、数字化、市场化、标准化等全球教育变革维度
+- [[Global Education Industry]] — Verger et al. (2016) 与 Parreira do Amaral et al. (2019) 的框架，涵盖经济化、商品化、私有化、数字化、市场化、标准化等全球教育变革维度
 
 ---
 

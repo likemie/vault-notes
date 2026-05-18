@@ -3,7 +3,7 @@ title: Global Regionalisms in Higher Education
 aliases: []
 type: concept
 tags: [global-regionalisms, higher-education, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Regulatory Regionalism]]", "[[Global Education Industry (GEI)]]", "[[International Education Hubs]]", "[[Regional University Alliances]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Regulatory Regionalism]]", "[[Global Education Industry]]", "[[International Education Hubs]]", "[[Regional University Alliances]]"]
 related_persons: ["[[Susan Robertson]]"]
 related_theories: []
 related_methods: []

@@ -1,6 +1,6 @@
 ---
 title: Geopolitical Subject
-aliases: []
+aliases: ["地缘政治主体", "geopolitical subject", "geopolitical subjects"]
 type: concept
 tags: [geopolitical-subject, knowledge-based-economization, subject-formation, region/global, level/higher-ed]
 related_concepts: ["[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economy]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Corporate Education]]"]

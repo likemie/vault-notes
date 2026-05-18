@@ -1,6 +1,6 @@
 ---
-title: Global Education Industry (GEI)
-aliases: []
+title: Global Education Industry
+aliases: ["全球教育产业", "GEI", "global education industry"]
 type: concept
 tags: [global-education-industry, privatization, commodification, marketization, higher-education, region/global, level/higher-ed]
 related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge-Based Economization]]", "[[Endogenous and Exogenous Privatisation]]", "[[Educational Management Organisation (EMO)]]", "[[Global Regionalisms in Higher Education]]", "[[International Education Hubs]]", "[[Minerva University]]", "[[Educational Technology Industry]]", "[[Further Education]]", "[[Corporate Education]]", "[[Corporate University]]"]

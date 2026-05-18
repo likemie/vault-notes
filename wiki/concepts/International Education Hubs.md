@@ -3,7 +3,7 @@ title: International Education Hubs
 aliases: ["国际教育枢纽", "IEH", "International Education Hub"]
 type: concept
 tags: [international-education-hubs, higher-education, cross-border-education, geopolitical-projects, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Regionalisms in Higher Education]]", "[[Global Education Industry (GEI)]]", "[[Hub and Flow Imaginaries]]", "[[Minerva University]]", "[[Regional University Alliances]]", "[[Internationalization of Higher Education]]", "[[Knowledge-Based Economy]]", "[[International Education]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Regionalisms in Higher Education]]", "[[Global Education Industry]]", "[[Hub and Flow Imaginaries]]", "[[Minerva University]]", "[[Regional University Alliances]]", "[[Internationalization of Higher Education]]", "[[Knowledge-Based Economy]]", "[[International Education]]"]
 related_theories: ["[[Critical Geopolitics]]", "[[Network Society]]"]
 related_persons: ["[[Jane Knight]]", "[[Marcelo Parreira do Amaral]]", "[[Fazal Rizvi]]"]
 related_methods: []

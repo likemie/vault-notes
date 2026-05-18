@@ -150,7 +150,7 @@
 - [[Cultural Disorientation]] — 郑雅君 (2023) 的概念：寒门学子升入名校后场域转换造成内在自我冲突和目标策略迷失，是文化障碍的第二重维度
 - [[Economy of Experience]] — Phillip Brown 的概念：大学生需将课余生活精细投资管理以打造为简历加分的"履历资本"，郑雅君 (2023) 用于分析中国精英大学就业竞争
 - [[Epistemic Governance]] — Zapp (2022) 的概念：以规范、认知和知识为基础的全球治理机制，与强制和规制性"硬"治理形成对照；大学通过提供科学知识、培养全球治理专家和推行 USR 在去中心化全球治理架构中占据知识权威位置
-- [[Global Education Industry (GEI)]] — 教育实践、供给、研究和政策被经济理性渗透的多重过程，Verger et al. (2016) 定义，Parreira do Amaral 将其作为知识地缘政治转型的关键语境
+- [[Global Education Industry]] — 教育实践、供给、研究和政策被经济理性渗透的多重过程，Verger et al. (2016) 定义，Parreira do Amaral 将其作为知识地缘政治转型的关键语境
 - [[Goal-Controlled Mode]] — 郑雅君 (2023) 提出的大学生活组织实践图式：早期确立生涯目标，策略性地利用大学资源为毕业出路做准备，根植于优势阶层习性
 - [[Graduate Attributes]] — 大学认同其学生在学期间应当发展的品质、技能和理解，受高等教育市场化驱动，Wong et al. (2022) 识别 UK 四大话语
 - [[Graduation Pathway Typology (Zheng)]] — 郑雅君 (2023) 的毕业出路产生机制2×2四分类模型：以目的-手段行动力为纵轴、价值信念驱动力为横轴，划分自主驱动者/机会主义者/迷失无从者/价值归顺者四种类型

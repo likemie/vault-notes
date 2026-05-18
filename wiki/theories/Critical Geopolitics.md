@@ -3,7 +3,7 @@ title: Critical Geopolitics
 aliases: ["批判地缘政治学", "批判地缘政治", "critical geopolitics"]
 type: theory
 tags: [critical-geopolitics, geopolitics-of-knowledge, knowledge-based-economization, spatial-turn, political-geography, region/global]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge-Based Economization]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[International Education Hubs]]", "[[Minerva University]]", "[[Global Education Industry (GEI)]]", "[[Internationalization of Higher Education]]", "[[Orientalism]]"]
+related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Knowledge-Based Economization]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[International Education Hubs]]", "[[Minerva University]]", "[[Global Education Industry]]", "[[Internationalization of Higher Education]]", "[[Orientalism]]"]
 related_theories: ["[[Fixity-Motion Tension]]", "[[Decolonial Geopolitics of Knowledge]]", "[[Network Society]]"]
 related_persons: ["[[Sami Moisio]]", "[[Michael Porter]]", "[[Bob Jessop]]", "[[David Harvey]]", "[[Fazal Rizvi]]"]
 related_methods: []

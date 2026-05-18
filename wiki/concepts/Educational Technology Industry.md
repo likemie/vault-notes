@@ -3,7 +3,7 @@ title: Educational Technology Industry
 aliases: []
 type: concept
 tags: [edtech, educational-technology, digitalization, marketization, higher-ed, region/global]
-related_concepts: ["[[Global Education Industry (GEI)]]", "[[Knowledge-Based Economy]]", "[[New Public Management in Education]]", "[[Transhumanism]]", "[[Learning Analytics]]", "[[Regional University Alliances]]"]
+related_concepts: ["[[Global Education Industry]]", "[[Knowledge-Based Economy]]", "[[New Public Management in Education]]", "[[Transhumanism]]", "[[Learning Analytics]]", "[[Regional University Alliances]]"]
 related_persons: ["[[Donna Haraway]]"]
 related_theories: []
 related_methods: []

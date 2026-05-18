@@ -3,7 +3,7 @@ title: Further Education
 aliases: ["继续教育", "further education and training", "非正规成人教育", "终身学习培训"]
 type: concept
 tags: ["level/adult", "region/global", "subject/comparative-education"]
-related_concepts: ["[[Corporate Education]]", "[[Corporate University]]", "[[Knowledge-Based Economy]]", "[[Global Education Industry (GEI)]]"]
+related_concepts: ["[[Corporate Education]]", "[[Corporate University]]", "[[Knowledge-Based Economy]]", "[[Global Education Industry]]"]
 related_theories: ["[[Institutional Isomorphism]]"]
 related_methods: []
 related_persons: []
