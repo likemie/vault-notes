@@ -1,16 +1,56 @@
 ---
 title: Meta-meta-analysis
+aliases:
+- 元-元分析
+- 元元分析
+- mega-analysis
+summary: 元-元分析（Meta-meta-analysis，也称 Mega-analysis）是一种将多个已发表的元分析结果在更高层次上进行统计综合的方法——"改变层次，组合元分析，尝试开发一个元-元分析"。
 type: method
-tags: [meta-meta-analysis, mega-analysis, meta-analysis, effect-size, evidence-based-education, statistical-synthesis, methodology]
-related_concepts: ["[[Effect Size]]", "[[Statistical Significance]]", "[[Confidence Interval]]", "[[Evidence-Based Education]]", "[[Visible Learning]]", "[[EEF Teaching and Learning Toolkit]]", "[[Whole Language]]", "[[Cargo Cult Science]]"]
-related_methods: ["[[Meta-analysis]]", "[[Covariate Adjustment]]"]
-related_persons: ["[[John Hattie]]", "[[Adrian Simpson]]", "[[Dylan Wiliam]]", "[[Terry Wrigley]]", "[[Ewald Terhart]]", "[[Lars Qvortrup]]"]
-related_theories: ["[[Critical Realism]]"]
-sources: ["sources/Snook_2009_NZJES.md", "sources/Terhart_2011_JCS.md", "sources/Qvortrup_2015_Paideia.md", "sources/Allerup_2015_Paideia.md", "sources/Wecker_2016_ZfE.md", "sources/Simpson_2017_JEP.md", "sources/Simpson_2019_ERE.md", "sources/OConnor_2020_AJLL.md", "sources/Johnson_2023_CE.md"]
+method_type: quantitative
+tags:
+- meta-meta-analysis
+- mega-analysis
+- meta-analysis
+- effect-size
+- evidence-based-education
+- statistical-synthesis
+- methodology
+related_concepts:
+- '[[Effect Size]]'
+- '[[Statistical Significance]]'
+- '[[Confidence Interval]]'
+- '[[Evidence-Based Education]]'
+- '[[Visible Learning]]'
+- '[[EEF Teaching and Learning Toolkit]]'
+- '[[Whole Language]]'
+- '[[Cargo Cult Science]]'
+related_theories:
+- '[[Critical Realism]]'
+related_methods:
+- '[[Meta-analysis]]'
+- '[[Covariate Adjustment]]'
+related_persons:
+- '[[John Hattie]]'
+- '[[Adrian Simpson]]'
+- '[[Dylan Wiliam]]'
+- '[[Terry Wrigley]]'
+- '[[Ewald Terhart]]'
+- '[[Lars Qvortrup]]'
+related_arguments: []
+sources:
+- '[[Snook_2009_NZJES]]'
+- '[[Terhart_2011_JCS]]'
+- '[[Qvortrup_2015_Paideia]]'
+- '[[Allerup_2015_Paideia]]'
+- '[[Wecker_2016_ZfE]]'
+- '[[Simpson_2017_JEP]]'
+- '[[Simpson_2019_ERE]]'
+- '[[OConnor_2020_AJLL]]'
+- '[[Johnson_2023_CE]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-05
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,18 +1,39 @@
 ---
 title: Dell Delambre
-aliases: ["Delambre", "Dell Delambre"]
+aliases:
+- Delambre
+- Dell Delambre
+summary: Dell Delambre 是巴西学者和实践者，任职于 WTS Sustainable Business & Coaching（位于里约热内卢）。
 type: person
-tags: ["region/brazil", "field/epistemology", "field/higher-education", "field/sustainability"]
-related_concepts: ["[[Ganz-Methode]]", "[[Life Power]]", "[[Tense Society]]", "[[Social Museology]]", "[[Epistemology of Resistance]]", "[[Ecomuseology]]", "[[Whole Sustainability]]"]
-related_theories: ["[[Creative Tension of Sense]]"]
+nationality: global
+tags:
+- region/brazil
+- field/epistemology
+- field/higher-education
+- field/sustainability
+related_concepts:
+- '[[Ganz-Methode]]'
+- '[[Life Power]]'
+- '[[Tense Society]]'
+- '[[Social Museology]]'
+- '[[Epistemology of Resistance]]'
+- '[[Ecomuseology]]'
+- '[[Whole Sustainability]]'
+related_theories:
+- '[[Creative Tension of Sense]]'
 related_methods: []
-related_persons: ["[[Walter Mignolo]]", "[[Richard Castelo Branco]]", "[[Camilla de Hollanda Amado]]"]
-related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
-sources: ["[[Ch7_Delambre_2022]]"]
+related_persons:
+- '[[Walter Mignolo]]'
+- '[[Richard Castelo Branco]]'
+- '[[Camilla de Hollanda Amado]]'
+related_arguments:
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch7_Delambre_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Dell Delambre

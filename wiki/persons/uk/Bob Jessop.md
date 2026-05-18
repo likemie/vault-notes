@@ -1,18 +1,33 @@
 ---
 title: Bob Jessop
-aliases: []
+aliases:
+- Jessop
+summary: Bob Jessop，英国社会学家和政治经济学家，兰卡斯特大学社会学系教授。
 type: person
-tags: [bob-jessop, cultural-political-economy, knowledge-based-economy, meta-governance, region/united-kingdom, level/higher-ed]
-related_concepts: ["[[Knowledge-Based Economy]]", "[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Hub and Flow Imaginaries]]"]
-related_persons: ["[[Sami Moisio]]"]
+nationality: uk
+tags:
+- bob-jessop
+- cultural-political-economy
+- knowledge-based-economy
+- meta-governance
+- region/united-kingdom
+- level/higher-ed
+related_concepts:
+- '[[Knowledge-Based Economy]]'
+- '[[Knowledge-Based Economization]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Hub and Flow Imaginaries]]'
 related_theories: []
 related_methods: []
+related_persons:
+- '[[Sami Moisio]]'
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
+sources:
+- '[[Ch2_Moisio_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-10
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 简介

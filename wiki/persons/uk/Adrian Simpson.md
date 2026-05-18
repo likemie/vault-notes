@@ -1,15 +1,43 @@
 ---
 title: Adrian Simpson
+aliases:
+- Simpson
+summary: Adrian Simpson 是英国杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长。
 type: person
-tags: [Adrian Simpson, effect-size, meta-analysis, evidence-based-education, methodology, statistics, region/uk]
+nationality: uk
+tags:
+- Adrian Simpson
+- effect-size
+- meta-analysis
+- evidence-based-education
+- methodology
+- statistics
+- region/uk
+related_concepts:
+- '[[Effect Size]]'
+- '[[Evidence-Based Education]]'
+- '[[EEF Teaching and Learning Toolkit]]'
+- '[[Visible Learning]]'
+- '[[Meta-meta-analysis]]'
+- '[[Meta-analysis]]'
 related_theories: []
-related_concepts: ["[[Effect Size]]", "[[Evidence-Based Education]]", "[[EEF Teaching and Learning Toolkit]]", "[[Visible Learning]]", "[[Meta-meta-analysis]]", "[[Meta-analysis]]"]
-related_persons: ["[[John Hattie]]", "[[Dylan Wiliam]]", "[[Terry Wrigley]]", "[[Gene Glass]]"]
-sources: ["sources/Simpson_2017_JEP.md", "sources/Simpson_2019_ERE.md", "sources/Wrigley_2019_ERE.md", "sources/Wiliam_2019_ERE.md", "sources/Kraft_2023_ER.md"]
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Dylan Wiliam]]'
+- '[[Terry Wrigley]]'
+- '[[Gene Glass]]'
+related_arguments: []
+sources:
+- '[[Simpson_2017_JEP]]'
+- '[[Simpson_2019_ERE]]'
+- '[[Wrigley_2019_ERE]]'
+- '[[Wiliam_2019_ERE]]'
+- '[[Kraft_2023_ER]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-05
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

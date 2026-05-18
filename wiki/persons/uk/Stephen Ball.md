@@ -1,15 +1,28 @@
 ---
 title: Stephen Ball
+aliases: []
+summary: Stephen Ball 是英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）教授，以研究教育政策社会学、私有化和政策网络著称。
 type: person
-tags: [Stephen Ball, education-policy, privatisation, region/uk]
+nationality: uk
+tags:
+- Stephen Ball
+- education-policy
+- privatisation
+- region/uk
+related_concepts:
+- '[[Endogenous and Exogenous Privatisation]]'
+- '[[Policy Entrepreneur]]'
+- '[[Network Governance]]'
 related_theories: []
-related_concepts: ["[[Endogenous and Exogenous Privatisation]]", "[[Policy Entrepreneur]]", "[[Network Governance]]"]
+related_methods: []
 related_persons: []
-sources: ["sources/ONeill_2016_Report.md"]
+related_arguments: []
+sources:
+- '[[ONeill_2016_Report]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 简介

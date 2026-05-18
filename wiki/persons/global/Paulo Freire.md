@@ -1,19 +1,37 @@
 ---
 title: Paulo Freire
-aliases: ["Freire", "弗莱雷", "保罗·弗莱雷", "Paulo Reglus Neves Freire"]
+aliases:
+- Freire
+- 弗莱雷
+- 保罗·弗莱雷
+- Paulo Reglus Neves Freire
+summary: Paulo Freire（1921–1997），巴西教育家、哲学家，批判教育学（critical pedagogy）的奠基人。
 type: person
-tags: ["region/brazil", "critical-pedagogy", "decolonization", "adult-education", "geopolitics-of-knowledge"]
-related_concepts: ["[[Forced Knowledge Transfer]]", "[[Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Knowledge Production]]"]
-related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
+nationality: global
+tags:
+- region/brazil
+- critical-pedagogy
+- decolonization
+- adult-education
+- geopolitics-of-knowledge
+related_concepts:
+- '[[Forced Knowledge Transfer]]'
+- '[[Knowledge Transfer]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Production]]'
+related_theories:
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
-related_persons: ["[[Frantz Fanon]]"]
-related_facts: ["[[Kokutai no Hongi (1937)]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_persons:
+- '[[Frantz Fanon]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Paulo Freire

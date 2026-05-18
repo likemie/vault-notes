@@ -1,14 +1,33 @@
 ---
 title: Wolfgang Klafki
+aliases:
+- Klafki
+summary: Wolfgang Klafki 是德国教育学与 [[Didaktik]] 传统中的关键人物。
 type: person
-tags: [Wolfgang-Klafki, Didaktik, Bildung, curriculum, region/germany]
+nationality: germany
+tags:
+- Wolfgang-Klafki
+- Didaktik
+- Bildung
+- curriculum
+- region/germany
+related_concepts:
+- '[[Didaktik]]'
+- '[[Bildung]]'
+- '[[Epochal Key Problems]]'
+- '[[Phenomenon-Based Learning]]'
+- '[[Finnish National Core Curriculum 2014]]'
+- '[[Atomisation of Knowledge and Skills]]'
 related_theories: []
-related_concepts: ["[[Didaktik]]", "[[Bildung]]", "[[Epochal Key Problems]]", "[[Phenomenon-Based Learning]]", "[[Finnish National Core Curriculum 2014]]", "[[Atomisation of Knowledge and Skills]]"]
-sources: ["sources/Schaffar_2024_CogentEdu.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Schaffar_2024_CogentEdu]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 简介

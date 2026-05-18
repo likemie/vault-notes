@@ -1,14 +1,37 @@
 ---
 title: Single-Case Design (SCD)
+aliases:
+- 单一个案设计
+- SCD
+- 单一被试设计
+summary: 单一个案设计（Single-Case Design, SCD）是一类实验方法，由多种设计组成，涉及在不同条件下对特定行为或技能进行重复测量，以评估干预对个体或小群体的有效性，个体或小群体作为自身的控制组。
 type: method
-tags: [single-case-design, SCD, experimental-design, evidence-based-education]
-related_concepts: ["[[WWC SCD Pilot Standards 2010]]", "[[5-3-20 Rule]]", "[[Gating Procedure]]", "[[Evidence-Based Education]]", "[[Educational Evidence Clearinghouses]]", "[[What Works Clearinghouse (WWC)]]", "[[Home Visiting Evidence of Effectiveness (HomVEE)]]"]
-related_theories: ["[[Campbellian Validity Framework]]"]
-sources: ["sources/Hitchcock_2015_JBE.md", "sources/Wadhwa_2024_RER.md"]
+method_type: quantitative
+tags:
+- single-case-design
+- SCD
+- experimental-design
+- evidence-based-education
+related_concepts:
+- '[[WWC SCD Pilot Standards 2010]]'
+- '[[5-3-20 Rule]]'
+- '[[Gating Procedure]]'
+- '[[Evidence-Based Education]]'
+- '[[Educational Evidence Clearinghouses]]'
+- '[[What Works Clearinghouse (WWC)]]'
+- '[[Home Visiting Evidence of Effectiveness (HomVEE)]]'
+related_theories:
+- '[[Campbellian Validity Framework]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Hitchcock_2015_JBE]]'
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-05
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 定义

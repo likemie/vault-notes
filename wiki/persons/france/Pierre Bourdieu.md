@@ -1,55 +1,58 @@
 ---
 title: Pierre Bourdieu
 aliases:
-  - 布迪厄
-  - 布尔迪厄
-  - 皮埃尔·布迪厄
-  - Pierre Bourdieu
+- 布迪厄
+- 布尔迪厄
+- 皮埃尔·布迪厄
+- Pierre Bourdieu
+- Bourdieu
+summary: Pierre Bourdieu（1930–2002），法国社会学家、人类学家和哲学家，20 世纪下半叶最具影响力的社会理论家之一。
 type: person
+nationality: france
 tags:
-  - Pierre-Bourdieu
-  - sociology
-  - paradigm/critical
-  - region/france
+- Pierre-Bourdieu
+- sociology
+- paradigm/critical
+- region/france
 related_concepts:
-  - "[[Habitus]]"
-  - "[[Cultural Capital]]"
-  - "[[Champ]]"
-  - "[[Symbolic Violence]]"
-  - "[[Doxa]]"
-  - "[[Cultural Disembedding]]"
-  - "[[Cultural Disorientation]]"
-  - "[[Cultural Barrier in Higher Education]]"
-  - "[[The Shock of the Elite]]"
-  - "[[Goal-Controlled Mode]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Lost Mode]]"
-  - "[[Value Conformist Mode]]"
-  - "[[School Leadership]]"
-  - "[[New Public Management in Education]]"
+- '[[Habitus]]'
+- '[[Cultural Capital]]'
+- '[[Champ]]'
+- '[[Symbolic Violence]]'
+- '[[Doxa]]'
+- '[[Cultural Disembedding]]'
+- '[[Cultural Disorientation]]'
+- '[[Cultural Barrier in Higher Education]]'
+- '[[The Shock of the Elite]]'
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Lost Mode]]'
+- '[[Value Conformist Mode]]'
+- '[[School Leadership]]'
+- '[[New Public Management in Education]]'
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[Jean-Claude Passeron]]"
-  - "[[Yajun Zheng]]"
-  - "[[Max Weber]]"
-  - "[[Karl Marx]]"
-  - "[[Émile Durkheim]]"
-  - "[[Claude Lévi-Strauss]]"
-  - "[[Raymond Aron]]"
-  - "[[Michel Foucault]]"
-  - "[[Luc Boltanski]]"
-  - "[[Loïc Wacquant]]"
+- '[[Jean-Claude Passeron]]'
+- '[[Yajun Zheng]]'
+- '[[Max Weber]]'
+- '[[Karl Marx]]'
+- '[[Émile Durkheim]]'
+- '[[Claude Lévi-Strauss]]'
+- '[[Raymond Aron]]'
+- '[[Michel Foucault]]'
+- '[[Luc Boltanski]]'
+- '[[Loïc Wacquant]]'
 related_arguments:
-  - "[[郑_2023_上海三联书店]]"
+- '[[郑_2023_上海三联书店]]'
 sources:
-  - sources/Eacott_2011_JEAH.md
-  - "[[郑_2023_上海三联书店]]"
-  - "[[Clippings/Pierre Bourdieu]]"
+- '[[Eacott_2011_JEAH]]'
+- '[[郑_2023_上海三联书店]]'
+- '[[Clippings/Pierre Bourdieu]]'
 confidence: high
 status: draft
-created: 2026-05-02
-updated: 2026-05-09
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 # Pierre Bourdieu

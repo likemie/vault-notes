@@ -1,14 +1,31 @@
 ---
 title: Carl Bereiter
+aliases:
+- Bereiter
+summary: Carl Bereiter，加拿大教育理论家，以"知识建构"（knowledge building）理论和"知识社会中的心智"研究著称。
 type: person
-tags: [Bereiter, knowledge-building, region/canada]
-related_theories: ["[[Popper's Three Worlds Theory]]"]
-related_concepts: ["[[Visible Learning]]", "[[Surface and Deep Learning]]", "[[Dynamic Knowledge and Learning Model]]"]
-sources: ["sources/Hattie_2015_SOTLP.md", "sources/Qvortrup_2015_Paideia.md", "sources/Romer_2018_EPT.md"]
+nationality: global
+tags:
+- Bereiter
+- knowledge-building
+- region/canada
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Surface and Deep Learning]]'
+- '[[Dynamic Knowledge and Learning Model]]'
+related_theories:
+- '[[Popper''s Three Worlds Theory]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Hattie_2015_SOTLP]]'
+- '[[Qvortrup_2015_Paideia]]'
+- '[[Romer_2018_EPT]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-05
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 简介

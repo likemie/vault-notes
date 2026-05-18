@@ -1,15 +1,29 @@
 ---
 title: Gary Thomas
+aliases:
+- Thomas
+summary: Gary Thomas 是英国伯明翰大学（University of Birmingham）教育与社会包容教授，以其对实验方法和 RCT 在教育研究中的"黄金标准"地位的批判而知名。
 type: person
-tags: [Gary Thomas, educational-research-methodology, RCT, science, philosophy-of-science, region/uk]
+nationality: uk
+tags:
+- Gary Thomas
+- educational-research-methodology
+- RCT
+- science
+- philosophy-of-science
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
 related_theories: []
-related_concepts: ["[[Evidence-Based Education]]"]
+related_methods: []
 related_persons: []
-sources: ["sources/Wrigley_2019_ERE.md"]
+related_arguments: []
+sources:
+- '[[Wrigley_2019_ERE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

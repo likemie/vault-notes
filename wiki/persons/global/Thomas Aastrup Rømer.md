@@ -1,15 +1,40 @@
 ---
 title: Thomas Aastrup Rømer
+aliases:
+- Rømer
+summary: Thomas Aastrup Rømer，丹麦奥胡斯大学（Aarhus University）教育哲学副教授、博士，研究方向为教育理论。
 type: person
-tags: [Rømer, educational-philosophy, region/denmark]
-related_concepts: ["[[Visible Learning]]", "[[Pure Evaluation]]", "[[Hattie på dansk 2017]]", "[[Argument_Rømer_2018_EPT]]", "[[Surface and Deep Learning]]"]
-related_persons: ["[[John Hattie]]", "[[Gert Biesta]]", "[[Ernst von Glasersfeld]]", "[[Lars Qvortrup]]", "[[Klaus Nielsen]]"]
-related_theories: ["[[Radical Constructivism]]", "[[Popper's Three Worlds Theory]]", "[[Technical Rationality]]"]
-sources: ["sources/Romer_2018_EPT.md", "sources/Qvortrup_2019_NordSTEP.md", "sources/Hattie_2015_SOTLP.md"]
+nationality: global
+tags:
+- Rømer
+- educational-philosophy
+- region/denmark
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Pure Evaluation]]'
+- '[[Hattie på dansk 2017]]'
+- '[[Argument_Rømer_2018_EPT]]'
+- '[[Surface and Deep Learning]]'
+related_theories:
+- '[[Radical Constructivism]]'
+- '[[Popper''s Three Worlds Theory]]'
+- '[[Technical Rationality]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Gert Biesta]]'
+- '[[Ernst von Glasersfeld]]'
+- '[[Lars Qvortrup]]'
+- '[[Klaus Nielsen]]'
+related_arguments: []
+sources:
+- '[[Romer_2018_EPT]]'
+- '[[Qvortrup_2019_NordSTEP]]'
+- '[[Hattie_2015_SOTLP]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-05
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 简介

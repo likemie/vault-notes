@@ -1,15 +1,28 @@
 ---
 title: Jurgen Schriewer
+aliases:
+- Schriewer
+summary: Jurgen Schriewer 是德国比较教育学者和系统理论家，以将 Niklas Luhmann 的社会系统理论引入比较教育研究而著称。
 type: person
-tags: [Jurgen-Schriewer, comparative-education, discourse-formation, externalization, region/germany]
-related_concepts: ["[[Externalization (Schriewer)]]", ]
+nationality: germany
+tags:
+- Jurgen-Schriewer
+- comparative-education
+- discourse-formation
+- externalization
+- region/germany
+related_concepts:
+- '[[Externalization (Schriewer)]]'
 related_theories: []
+related_methods: []
 related_persons: []
-sources: ["sources/Rappleye_2006_RCIE.md"]
+related_arguments: []
+sources:
+- '[[Rappleye_2006_RCIE]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 简介

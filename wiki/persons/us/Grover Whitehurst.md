@@ -1,15 +1,29 @@
 ---
 title: Grover Whitehurst
+aliases:
+- Whitehurst
+summary: Grover "Russ" Whitehurst 是 Bush 政府时期（2001–2009）美国教育部教育研究与改进办公室（OERI, Office of Educational Research and Improvement）主任，后任教育科学研究所（IES, Institute of Education Sciences）首任所长。
 type: person
-tags: [Grover Whitehurst, evidence-based-education, RCT, OERI, region/us]
+nationality: us
+tags:
+- Grover Whitehurst
+- evidence-based-education
+- RCT
+- OERI
+- region/us
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
 related_theories: []
-related_concepts: ["[[Evidence-Based Education]]", "[[Evidence-Based Reform]]"]
+related_methods: []
 related_persons: []
-sources: ["sources/Slavin_2002_ER.md"]
+related_arguments: []
+sources:
+- '[[Slavin_2002_ER]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

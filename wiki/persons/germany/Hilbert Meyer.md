@@ -1,14 +1,28 @@
 ---
 title: Hilbert Meyer
+aliases:
+- Meyer
+summary: Hilbert Meyer 是德语[[Effective Teaching|有效教学]]研究综合的重要作者，代表作 *Hvad er god undervisning?
 type: person
-tags: [Hilbert-Meyer, effective-teaching, region/germany]
-related_concepts: ["[[Effective Teaching]]"]
-related_persons: ["[[John Hattie]]", "[[Andreas Helmke]]"]
-sources: ["sources/Laursen_2015_Paideia.md"]
+nationality: germany
+tags:
+- Hilbert-Meyer
+- effective-teaching
+- region/germany
+related_concepts:
+- '[[Effective Teaching]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Andreas Helmke]]'
+related_arguments: []
+sources:
+- '[[Laursen_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 简介

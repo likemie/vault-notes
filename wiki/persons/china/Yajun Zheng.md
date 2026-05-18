@@ -1,49 +1,53 @@
 ---
 title: Yajun Zheng
-aliases: [郑雅君, 郑雅君]
+aliases:
+- 郑雅君
+- Zheng
+summary: 郑雅君，中国高等教育研究者，研究方向为高等教育社会学、教育公平与大学生发展。
 type: person
+nationality: china
 tags:
-  - Yajun-Zheng
-  - higher-education
-  - cultural-sociology
-  - region/china
+- Yajun-Zheng
+- higher-education
+- cultural-sociology
+- region/china
 related_concepts:
-  - "[[Goal-Controlled Mode]]"
-  - "[[Intuition-Dependent Mode]]"
-  - "[[Cultural Barrier in Higher Education]]"
-  - "[[Habitus]]"
-  - "[[Cultural Capital]]"
-  - "[[Champ]]"
-  - "[[Academic and Social Integration]]"
-  - "[[Student Engagement]]"
-  - "[[The Shock of the Elite]]"
-  - "[[Self-Authorship]]"
-  - "[[Self-Driven Mode]]"
-  - "[[Opportunist Mode]]"
-  - "[[Lost Mode]]"
-  - "[[Value Conformist Mode]]"
-  - "[[Graduation Pathway Typology (Zheng)]]"
-  - "[[Work Meaning Schemas (Zheng)]]"
-  - "[[Cultural Disembedding]]"
-  - "[[Cultural Disorientation]]"
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Cultural Barrier in Higher Education]]'
+- '[[Habitus]]'
+- '[[Cultural Capital]]'
+- '[[Champ]]'
+- '[[Academic and Social Integration]]'
+- '[[Student Engagement]]'
+- '[[The Shock of the Elite]]'
+- '[[Self-Authorship]]'
+- '[[Self-Driven Mode]]'
+- '[[Opportunist Mode]]'
+- '[[Lost Mode]]'
+- '[[Value Conformist Mode]]'
+- '[[Graduation Pathway Typology (Zheng)]]'
+- '[[Work Meaning Schemas (Zheng)]]'
+- '[[Cultural Disembedding]]'
+- '[[Cultural Disorientation]]'
 related_theories:
-  - "[[Pierre Bourdieu]]"
-  - "[[Culture as Toolkit]]"
-  - "[[Rational Action Theory in Education]]"
-  - "[[Dual-Process Model of Culture in Action]]"
+- '[[Pierre Bourdieu]]'
+- '[[Culture as Toolkit]]'
+- '[[Rational Action Theory in Education]]'
+- '[[Dual-Process Model of Culture in Action]]'
 related_methods:
-  - "[[Constructivist Grounded Theory]]"
+- '[[Constructivist Grounded Theory]]'
 related_persons:
-  - "[[Marcia Baxter Magolda]]"
-  - "[[Didier Eribon]]"
+- '[[Marcia Baxter Magolda]]'
+- '[[Didier Eribon]]'
 related_arguments:
-  - "[[Argument_郑_2023_上海三联书店]]"
+- '[[Argument_郑_2023_上海三联书店]]'
 sources:
-  - "[[郑_2023_上海三联书店]]"
+- '[[郑_2023_上海三联书店]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-09
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 # Yajun Zheng

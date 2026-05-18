@@ -1,15 +1,32 @@
 ---
 title: Philosophical Analysis in Education
+aliases:
+- 教育中的哲学分析
+- 哲学分析
+summary: 教育中的哲学分析是一种非实证的研究方法，通过对教育实践和政策背后的**概念前提、认识论假设和规范性主张**进行系统分析，揭示其内在张力和未被承认的后果。
 type: method
-tags: [philosophical-analysis, conceptual-analysis, philosophy-of-education, paradigm/critical, paradigm/pragmatist]
-related_theories: ["[[Transactional Epistemology]]", "[[Phenomenology]]"]
-related_concepts: ["[[Phenomenon-Based Learning]]"]
+method_type: qualitative
+tags:
+- philosophical-analysis
+- conceptual-analysis
+- philosophy-of-education
+- paradigm/critical
+- paradigm/pragmatist
+related_concepts:
+- '[[Phenomenon-Based Learning]]'
+related_theories:
+- '[[Transactional Epistemology]]'
+- '[[Phenomenology]]'
 related_methods: []
-sources: ["sources/Biesta_2010_SPE.md", "sources/Schaffar_2024_CogentEdu.md"]
+related_persons: []
+related_arguments: []
+sources:
+- '[[Biesta_2010_SPE]]'
+- '[[Schaffar_2024_CogentEdu]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-06
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

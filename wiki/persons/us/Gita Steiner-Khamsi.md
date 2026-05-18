@@ -1,15 +1,30 @@
 ---
 title: Gita Steiner-Khamsi
+aliases:
+- Steiner-Khamsi
+summary: Gita Steiner-Khamsi 是比较教育和国际教育政策研究领域的领军学者，专注于教育政策转移（educational transfer）的政治维度。
 type: person
-tags: [Gita-Steiner-Khamsi, comparative-education, policy-borrowing, globalization, region/us]
-related_concepts: [ "[[Cross-National Attraction]]", "[[Externalization (Schriewer)]]"]
+nationality: us
+tags:
+- Gita-Steiner-Khamsi
+- comparative-education
+- policy-borrowing
+- globalization
+- region/us
+related_concepts:
+- '[[Cross-National Attraction]]'
+- '[[Externalization (Schriewer)]]'
 related_theories: []
-related_persons: ["[[David Phillips]]"]
-sources: ["sources/Rappleye_2006_RCIE.md"]
+related_methods: []
+related_persons:
+- '[[David Phillips]]'
+related_arguments: []
+sources:
+- '[[Rappleye_2006_RCIE]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 简介

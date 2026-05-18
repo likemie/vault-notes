@@ -1,15 +1,35 @@
 ---
 title: Steen Nepper Larsen
+aliases:
+- Larsen
+summary: Steen Nepper Larsen 是丹麦奥胡斯大学（Aarhus University）丹麦教育学院（Danish School of Education）的教育哲学学者。
 type: person
-tags: [Larsen, paradigm/critical, region/denmark]
-related_concepts: ["[[Bildung]]", "[[Incarnation-Extension Dialectics]]", "[[Visible Learning]]", "[[Learnification]]", "[[Neuroplasticity]]", "[[Blind Spot in Observation]]"]
-related_theories: ["[[Luhmann's Systems Theory]]"]
-related_persons: ["[[John Hattie]]", "[[Gert Biesta]]", "[[Niklas Luhmann]]"]
-sources: ["sources/Larsen_2019_EducSci.md"]
+nationality: global
+tags:
+- Larsen
+- paradigm/critical
+- region/denmark
+related_concepts:
+- '[[Bildung]]'
+- '[[Incarnation-Extension Dialectics]]'
+- '[[Visible Learning]]'
+- '[[Learnification]]'
+- '[[Neuroplasticity]]'
+- '[[Blind Spot in Observation]]'
+related_theories:
+- '[[Luhmann''s Systems Theory]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Gert Biesta]]'
+- '[[Niklas Luhmann]]'
+related_arguments: []
+sources:
+- '[[Larsen_2019_EducSci]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 简介

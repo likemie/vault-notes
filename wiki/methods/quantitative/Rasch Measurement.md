@@ -1,16 +1,31 @@
 ---
 title: Rasch Measurement
+aliases:
+- 拉施测量
+- Rasch
+summary: Rasch Measurement（Rasch 测量）是一种把测验答题数据转换到共同尺度上的测量方法。
 type: method
-tags: [rasch-measurement, educational-measurement, assessment, quantitative-methods, international-assessment]
+method_type: quantitative
+tags:
+- rasch-measurement
+- educational-measurement
+- assessment
+- quantitative-methods
+- international-assessment
+related_concepts:
+- '[[Confidence Interval]]'
+- '[[Effect Size]]'
 related_theories: []
-related_concepts: ["[[Confidence Interval]]", "[[Effect Size]]"]
-related_methods: ["[[Meta-analysis]]"]
+related_methods:
+- '[[Meta-analysis]]'
 related_persons: []
-sources: ["sources/Allerup_2015_Paideia.md"]
+related_arguments: []
+sources:
+- '[[Allerup_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

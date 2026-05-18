@@ -1,15 +1,31 @@
 ---
 title: Carol Campbell
+aliases:
+- Campbell
+summary: Carol Campbell 是多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, OISE/University of Toronto）的领导力与教育变革教授，专注于**教育领导力**、**证据知情实践**、**知识动员**和**教育系统变革**领域的研究。
 type: person
-tags: [Carol Campbell, evidence-informed-practice, knowledge-mobilisation, educational-leadership, Ontario, region/canada]
+nationality: global
+tags:
+- Carol Campbell
+- evidence-informed-practice
+- knowledge-mobilisation
+- educational-leadership
+- Ontario
+- region/canada
+related_concepts:
+- '[[Evidence-Informed Practice (EIP)]]'
+- '[[Knowledge Mobilisation (KMb)]]'
 related_theories: []
-related_concepts: ["[[Evidence-Informed Practice (EIP)]]", "[[Knowledge Mobilisation (KMb)]]"]
-related_persons: ["[[Julie Nelson]]"]
-sources: ["sources/Nelson_2017_ER.md"]
+related_methods: []
+related_persons:
+- '[[Julie Nelson]]'
+related_arguments: []
+sources:
+- '[[Nelson_2017_ER]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

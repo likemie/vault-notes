@@ -1,15 +1,31 @@
 ---
 title: Julie Nelson
+aliases:
+- Nelson
+summary: Julie Nelson 是英国国家教育研究基金会（National Foundation for Educational Research, NFER）的高级研究员。
 type: person
-tags: [Julie Nelson, evidence-informed-practice, knowledge-mobilisation, research-use, NFER, region/uk]
+nationality: uk
+tags:
+- Julie Nelson
+- evidence-informed-practice
+- knowledge-mobilisation
+- research-use
+- NFER
+- region/uk
+related_concepts:
+- '[[Evidence-Informed Practice (EIP)]]'
+- '[[Knowledge Mobilisation (KMb)]]'
 related_theories: []
-related_concepts: ["[[Evidence-Informed Practice (EIP)]]", "[[Knowledge Mobilisation (KMb)]]"]
-related_persons: ["[[Carol Campbell]]"]
-sources: ["sources/Nelson_2017_ER.md"]
+related_methods: []
+related_persons:
+- '[[Carol Campbell]]'
+related_arguments: []
+sources:
+- '[[Nelson_2017_ER]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

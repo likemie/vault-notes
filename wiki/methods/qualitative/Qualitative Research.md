@@ -1,15 +1,31 @@
 ---
 title: Qualitative Research
+aliases:
+- 质性研究
+summary: 质性研究（Qualitative Research）在 Brady et al. (2023) 的编码中指不操纵自变量、并使用访谈、观察等文本数据的研究。
 type: method
-tags: [qualitative-research, educational-psychology, research-methodology, paradigm/interpretivist]
+method_type: qualitative
+tags:
+- qualitative-research
+- educational-psychology
+- research-methodology
+- paradigm/interpretivist
+related_concepts:
+- '[[Recommendations for Practice]]'
 related_theories: []
-related_concepts: ["[[Recommendations for Practice]]"]
-related_methods: ["[[Non-intervention Research]]", "[[Observational and Correlational Research]]", "[[Mixed Method and Multi-method Research]]", "[[Intervention Research]]"]
-sources: ["sources/Brady_2023_EPR.md"]
+related_methods:
+- '[[Non-intervention Research]]'
+- '[[Observational and Correlational Research]]'
+- '[[Mixed Method and Multi-method Research]]'
+- '[[Intervention Research]]'
+related_persons: []
+related_arguments: []
+sources:
+- '[[Brady_2023_EPR]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

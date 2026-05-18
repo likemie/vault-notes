@@ -1,15 +1,27 @@
 ---
 title: Case Study
+aliases:
+- 个案研究
+summary: 个案研究（Case Study）是一种质性研究设计，以少数典型案例为分析单位，通过对个案的深入考察来理解更广泛的社会过程或机制。
 type: method
-tags: [case-study, qualitative-research, methodology]
+method_type: qualitative
+tags:
+- case-study
+- qualitative-research
+- methodology
 related_concepts: []
 related_theories: []
-related_methods: ["[[In-depth Interview]]", "[[Constructivist Grounded Theory]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+related_methods:
+- '[[In-depth Interview]]'
+- '[[Constructivist Grounded Theory]]'
+related_persons: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

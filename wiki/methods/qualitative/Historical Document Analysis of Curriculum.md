@@ -1,15 +1,29 @@
 ---
 title: Historical Document Analysis of Curriculum
+aliases:
+- 课程历史文献分析
+- 历史文献分析
+summary: 课程的历史文献分析是一种质性研究方法，通过系统地分析课程指引、政府文件、政策文本、媒体报道和既有学术文献，重建学校科目的演变历程，解释课程变革的政治与历史动力。
 type: method
-tags: [document-analysis, curriculum-history, qualitative, paradigm/critical, paradigm/interpretivist]
-related_theories: ["[[Cuban's Curriculum Change Theory]]"]
+method_type: qualitative
+tags:
+- document-analysis
+- curriculum-history
+- qualitative
+- paradigm/critical
+- paradigm/interpretivist
 related_concepts: []
+related_theories:
+- '[[Cuban''s Curriculum Change Theory]]'
 related_methods: []
-sources: ["sources/Yan_2025_JCS.md"]
+related_persons: []
+related_arguments: []
+sources:
+- '[[Yan_2025_JCS]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-04
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

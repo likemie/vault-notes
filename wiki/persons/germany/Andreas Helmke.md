@@ -1,14 +1,30 @@
 ---
 title: Andreas Helmke
+aliases:
+- Helmke
+summary: Andreas Helmke 是德语[[Effective Teaching|有效教学]]研究综合的重要作者。
 type: person
-tags: [Andreas-Helmke, effective-teaching, region/germany]
-related_concepts: ["[[Effective Teaching]]", "[[Feedback]]", "[[Individualised Instruction]]"]
-related_persons: ["[[John Hattie]]", "[[Hilbert Meyer]]"]
-sources: ["sources/Laursen_2015_Paideia.md"]
+nationality: germany
+tags:
+- Andreas-Helmke
+- effective-teaching
+- region/germany
+related_concepts:
+- '[[Effective Teaching]]'
+- '[[Feedback]]'
+- '[[Individualised Instruction]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Hilbert Meyer]]'
+related_arguments: []
+sources:
+- '[[Laursen_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 简介

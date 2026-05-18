@@ -1,15 +1,36 @@
 ---
 title: Mixed Method and Multi-method Research
+aliases:
+- 混合方法/多方法研究
+- 混合方法
+- 多方法研究
+- 混合方法研究
+- Mixed Method Research
+- Multi-method Research
+summary: 混合方法/多方法研究（Mixed Method/Multi-method Research）在 Brady et al. (2023) 的编码中指不操纵自变量、并同时包含量化数据和质性数据的研究。
 type: method
-tags: [mixed-methods, multi-method, educational-psychology, research-methodology]
+method_type: mixed
+tags:
+- mixed-methods
+- multi-method
+- educational-psychology
+- research-methodology
+related_concepts:
+- '[[Recommendations for Practice]]'
 related_theories: []
-related_concepts: ["[[Recommendations for Practice]]"]
-related_methods: ["[[Non-intervention Research]]", "[[Qualitative Research]]", "[[Observational and Correlational Research]]", "[[Intervention Research]]"]
-sources: ["sources/Brady_2023_EPR.md"]
+related_methods:
+- '[[Non-intervention Research]]'
+- '[[Qualitative Research]]'
+- '[[Observational and Correlational Research]]'
+- '[[Intervention Research]]'
+related_persons: []
+related_arguments: []
+sources:
+- '[[Brady_2023_EPR]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,14 +1,28 @@
 ---
 title: Jorunn Møller
+aliases:
+- Møller
+summary: Jorunn Møller，挪威奥斯陆大学（University of Oslo）教师教育与学校研究系教授。
 type: person
-tags: [Jorunn Møller, region/norway]
+nationality: global
+tags:
+- Jorunn Møller
+- region/norway
+related_concepts:
+- '[[School Leadership]]'
+- '[[Transformative Leadership]]'
+- '[[New Public Management in Education]]'
+- '[[Performativity of Measurement]]'
 related_theories: []
-related_concepts: ["[[School Leadership]]", "[[Transformative Leadership]]", "[[New Public Management in Education]]", "[[Performativity of Measurement]]"]
-sources: ["sources/Møller_2017_EERJ.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Møller_2017_EERJ]]'
 confidence: high
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

@@ -1,16 +1,31 @@
 ---
 title: Yong Zhao
+aliases: []
+summary: ''
 type: person
-tags: [person, education-researcher, side-effects, evidence-based-education, PISA, region/us, region/china]
-related_concepts: ["[[Side Effects in Education]]", "[[Direct Instruction]]", "[[Evidence-Based Education]]"]
-related_facts: ["[[No Child Left Behind Act 2001]]"]
-related_persons: []
+nationality: global
+tags:
+- person
+- education-researcher
+- side-effects
+- evidence-based-education
+- PISA
+- region/us
+- region/china
+related_concepts:
+- '[[Side Effects in Education]]'
+- '[[Direct Instruction]]'
+- '[[Evidence-Based Education]]'
 related_theories: []
-sources: ["sources/Zhao_2017_JEC.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Zhao_2017_JEC]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 基本信息

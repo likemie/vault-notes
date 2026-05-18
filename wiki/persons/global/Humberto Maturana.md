@@ -1,18 +1,30 @@
 ---
 title: Humberto Maturana
-aliases: []
+aliases:
+- Maturana
+summary: Humberto Maturana（1928–2021），智利生物学家和哲学家，与 Francisco Varela 共同创立 autopoiesis（自创生）理论。
 type: person
-tags: [Humberto-Maturana, autopoiesis, biology, social-theory]
-related_concepts: ["[[Posthumanism]]"]
-related_theories: ["[[Autopoiesis]]"]
-related_persons: ["[[Francisco Varela]]", "[[Arturo Escobar]]"]
+nationality: global
+tags:
+- Humberto-Maturana
+- autopoiesis
+- biology
+- social-theory
+related_concepts:
+- '[[Posthumanism]]'
+related_theories:
+- '[[Autopoiesis]]'
 related_methods: []
+related_persons:
+- '[[Francisco Varela]]'
+- '[[Arturo Escobar]]'
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 简介

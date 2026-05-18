@@ -1,14 +1,31 @@
 ---
 title: Electroencephalography
+aliases:
+- 脑电图
+- 脑电描记术
+- EEG
+summary: 脑电图（Electroencephalography, EEG）是一种功能神经影像技术，通过测量相邻神经元群落的激活来记录脑活动。
 type: method
-tags: [EEG, neuroimaging, neuroscience, paradigm/positivist]
-related_concepts: ["[[prefrontal-cortex]]", "[[executive-function]]"]
-related_methods: ["[[functional-magnetic-resonance-imaging]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+method_type: quantitative
+tags:
+- EEG
+- neuroimaging
+- neuroscience
+- paradigm/positivist
+related_concepts:
+- '[[prefrontal-cortex]]'
+- '[[executive-function]]'
+related_theories: []
+related_methods:
+- '[[functional-magnetic-resonance-imaging]]'
+related_persons: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

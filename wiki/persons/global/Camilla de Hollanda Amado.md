@@ -1,19 +1,34 @@
 ---
 title: Camilla de Hollanda Amado
-aliases: ["Camilla Amado", "Camilla de Hollanda Amado"]
+aliases:
+- Camilla Amado
+- Camilla de Hollanda Amado
+- Amado
+summary: Camilla de Hollanda Amado（1941–2021）是巴西著名女演员和剧场导演。
 type: person
-tags: ["region/brazil", "field/theater", "field/community-arts"]
-related_concepts: ["[[Epistemology of Resistance]]", "[[Ganz-Methode]]", "[[Life Power]]"]
-related_theories: ["[[Creative Tension of Sense]]"]
+nationality: global
+tags:
+- region/brazil
+- field/theater
+- field/community-arts
+related_concepts:
+- '[[Epistemology of Resistance]]'
+- '[[Ganz-Methode]]'
+- '[[Life Power]]'
+related_theories:
+- '[[Creative Tension of Sense]]'
 related_methods: []
-related_persons: ["[[Dell Delambre]]", "[[Richard Castelo Branco]]"]
-related_facts: []
-related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
-sources: ["[[Ch7_Delambre_2022]]"]
+related_persons:
+- '[[Dell Delambre]]'
+- '[[Richard Castelo Branco]]'
+related_arguments:
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch7_Delambre_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Camilla de Hollanda Amado

@@ -1,14 +1,27 @@
 ---
 title: Anthony Bryk
+aliases: []
+summary: Anthony S. Bryk，Carnegie Foundation for the Advancement of Teaching 高级研究员，将改进科学引入美国教育研究领域的关键人物。
 type: person
-tags: [Anthony-Bryk, improvement-science, networked-improvement-communities, Carnegie-Foundation, region/us]
-related_concepts: ["[[Improvement Science]]"]
+nationality: us
+tags:
+- Anthony-Bryk
+- improvement-science
+- networked-improvement-communities
+- Carnegie-Foundation
+- region/us
+related_concepts:
+- '[[Improvement Science]]'
 related_theories: []
-sources: ["sources/Peterson_2016_IJRME.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Peterson_2016_IJRME]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

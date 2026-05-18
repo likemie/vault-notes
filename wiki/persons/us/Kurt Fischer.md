@@ -1,15 +1,29 @@
 ---
 title: Kurt Fischer
+aliases: []
+summary: 新皮亚杰理论家，提出技能理论（Skill Theory），考察学习发生的环境如何影响认知发展的实际水平和最优技能水平。
 type: person
-tags: [Fischer, paradigm/constructivist, neo-piagetian]
-related_theories: ["[[neo-piagetian-theories]]", "[[piagets-theory-of-cognitive-development]]"]
-related_concepts: ["[[executive-function]]"]
-related_persons: ["[[Jean Piaget]]", "[[Robbie Case]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+nationality: us
+tags:
+- Fischer
+- paradigm/constructivist
+- neo-piagetian
+related_concepts:
+- '[[executive-function]]'
+related_theories:
+- '[[neo-piagetian-theories]]'
+- '[[piagets-theory-of-cognitive-development]]'
+related_methods: []
+related_persons:
+- '[[Jean Piaget]]'
+- '[[Robbie Case]]'
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: low
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 简介

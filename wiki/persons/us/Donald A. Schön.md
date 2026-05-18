@@ -1,14 +1,30 @@
 ---
 title: Donald A. Schön
+aliases:
+- Donald A. Schon
+- Schön
+summary: Donald A. Schön（1930–1997）是美国哲学家和组织学习理论家，MIT 城市研究与规划教授，以对专业实践和反思性实践（reflective practice）的开创性研究著称。
 type: person
-tags: [Schön, professional-practice, reflective-practitioner, paradigm/pragmatist, region/us]
-related_theories: ["[[Technical Rationality]]"]
-related_concepts: ["[[Professional Judgment]]"]
-sources: ["sources/Qvortrup_2019_NordSTEP.md"]
+nationality: us
+tags:
+- Schön
+- professional-practice
+- reflective-practitioner
+- paradigm/pragmatist
+- region/us
+related_concepts:
+- '[[Professional Judgment]]'
+related_theories:
+- '[[Technical Rationality]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Qvortrup_2019_NordSTEP]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 简介

@@ -1,14 +1,31 @@
 ---
 title: Amelia Peterson
+aliases:
+- Peterson
+summary: Amelia Peterson，哈佛大学教育研究生院（Harvard Graduate School of Education）研究者。
 type: person
-tags: [Amelia-Peterson, evidence-based-education, improvement-science, mechanism-experiments, region/us]
-related_concepts: ["[[Mechanism Experiments]]", "[[Black Box RCTs]]", "[[Improvement Science]]", "[[Evidence-Based Education]]"]
+nationality: us
+tags:
+- Amelia-Peterson
+- evidence-based-education
+- improvement-science
+- mechanism-experiments
+- region/us
+related_concepts:
+- '[[Mechanism Experiments]]'
+- '[[Black Box RCTs]]'
+- '[[Improvement Science]]'
+- '[[Evidence-Based Education]]'
 related_theories: []
-sources: ["sources/Peterson_2016_IJRME.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Peterson_2016_IJRME]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

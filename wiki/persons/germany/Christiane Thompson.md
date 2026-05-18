@@ -1,18 +1,31 @@
 ---
 title: Christiane Thompson
-aliases: []
+aliases:
+- Thompson
+summary: Christiane Thompson 是德国法兰克福歌德大学（Goethe University Frankfurt/Main）教育科学系教授。
 type: person
-tags: [Christiane-Thompson, subjectification, digitization, higher-education, region/germany, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Education Industry]]"]
+nationality: germany
+tags:
+- Christiane-Thompson
+- subjectification
+- digitization
+- higher-education
+- region/germany
+- level/higher-ed
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Global Education Industry]]'
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
+sources:
+- '[[Parreira do Amaral(Ed.)_2022_Springer]]'
+- '[[Ch3_Parreira do Amaral_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-10
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 简介

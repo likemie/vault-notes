@@ -1,18 +1,32 @@
 ---
 title: John W. Meyer
-aliases: ["约翰·迈耶", "John Meyer"]
+aliases:
+- 约翰·迈耶
+- John Meyer
+- Meyer
+summary: John W. Meyer，美国社会学家，斯坦福大学社会学系教授（荣休）。
 type: person
-tags: ["region/us", "discipline/sociology", "school/world-society-theory"]
-related_concepts: ["[[Organizational Actorhood]]", "[[Otherhood]]", "[[Epistemic Governance]]"]
-related_theories: ["[[World Society Theory]]"]
+nationality: us
+tags:
+- region/us
+- discipline/sociology
+- school/world-society-theory
+related_concepts:
+- '[[Organizational Actorhood]]'
+- '[[Otherhood]]'
+- '[[Epistemic Governance]]'
+related_theories:
+- '[[World Society Theory]]'
 related_methods: []
 related_persons: []
-related_arguments: ["[[Argument_Zapp_2022_Springer]]"]
-sources: ["[[Ch9_Zapp_2022]]"]
+related_arguments:
+- '[[Argument_Zapp_2022_Springer]]'
+sources:
+- '[[Ch9_Zapp_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-11
-updated: 2026-05-12
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # John W. Meyer

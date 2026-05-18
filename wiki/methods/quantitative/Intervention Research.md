@@ -1,15 +1,33 @@
 ---
 title: Intervention Research
+aliases:
+- 干预研究
+summary: 干预研究（Intervention Research）是在研究中操纵自变量、检验某种教育处理或实践是否影响结果的研究设计。Brady et al. (2023) 在编码教育心理学期刊文章时。
 type: method
-tags: [intervention-research, educational-psychology, causal-inference, research-methodology]
+method_type: quantitative
+tags:
+- intervention-research
+- educational-psychology
+- causal-inference
+- research-methodology
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Recommendations for Practice]]'
 related_theories: []
-related_concepts: ["[[Evidence-Based Education]]", "[[Recommendations for Practice]]"]
-related_methods: ["[[Randomised Controlled Trials]]", "[[Non-intervention Research]]", "[[Observational and Correlational Research]]", "[[Qualitative Research]]", "[[Mixed Method and Multi-method Research]]"]
-sources: ["sources/Brady_2023_EPR.md"]
+related_methods:
+- '[[Randomised Controlled Trials]]'
+- '[[Non-intervention Research]]'
+- '[[Observational and Correlational Research]]'
+- '[[Qualitative Research]]'
+- '[[Mixed Method and Multi-method Research]]'
+related_persons: []
+related_arguments: []
+sources:
+- '[[Brady_2023_EPR]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

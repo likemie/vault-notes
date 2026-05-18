@@ -1,14 +1,28 @@
 ---
 title: Juan Pascual-Leone
+aliases: []
+summary: 首位将信息加工理论与皮亚杰认知发展理论整合的新皮亚杰理论家（1970 年），提出心智能力（Mental Power / M-power）概念。
 type: person
-tags: [Pascual-Leone, paradigm/constructivist, neo-piagetian]
-related_theories: ["[[neo-piagetian-theories]]", "[[piagets-theory-of-cognitive-development]]"]
-related_concepts: ["[[working-memory]]", "[[executive-function]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+nationality: global
+tags:
+- Pascual-Leone
+- paradigm/constructivist
+- neo-piagetian
+related_concepts:
+- '[[working-memory]]'
+- '[[executive-function]]'
+related_theories:
+- '[[neo-piagetian-theories]]'
+- '[[piagets-theory-of-cognitive-development]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: low
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 简介

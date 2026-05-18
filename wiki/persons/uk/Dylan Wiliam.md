@@ -1,16 +1,34 @@
 ---
 title: Dylan Wiliam
+aliases:
+- Wiliam
+summary: Dylan Wiliam，英国教育评估和形成性评价领域的重要研究者，UCL 教育研究院（Institute of Education, University College London）教授。
 type: person
-tags: [Dylan-Wiliam, educational-assessment, evidence-based-education, formative-assessment, region/uk]
-related_theories: ["[[Goldman's Discrimination Theory of Knowledge]]"]
-related_concepts: ["[[Evidence-Based Education]]", "[[Validity as Inferences]]", "[[Effect Size]]"]
-related_methods: ["[[Meta-analysis]]"]
-sources: ["sources/Wiliam_2019_ERE.md"]
+nationality: uk
+tags:
+- Dylan-Wiliam
+- educational-assessment
+- evidence-based-education
+- formative-assessment
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Validity as Inferences]]'
+- '[[Effect Size]]'
+related_theories:
+- '[[Goldman''s Discrimination Theory of Knowledge]]'
+related_methods:
+- '[[Meta-analysis]]'
+related_persons: []
+related_arguments: []
+sources:
+- '[[Wiliam_2019_ERE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
+
 ## 简介
 
 Dylan Wiliam，英国教育评估和形成性评价领域的重要研究者，UCL 教育研究院（Institute of Education, University College London）教授。其研究涵盖课堂评估、教师质量和证据本位教育的方法论批判。

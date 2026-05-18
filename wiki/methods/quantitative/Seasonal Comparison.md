@@ -1,14 +1,29 @@
 ---
 title: Seasonal Comparison
+aliases:
+- 季节性比较
+- 季节比较
+summary: 季节性比较（Seasonal Comparison）是一种准实验研究设计，利用学校日历的季节性特征——九个月的学年后接三个月的暑假——作为自然实验来理解学校如何影响不平等。
 type: method
-tags: [seasonal-comparison, research-design, quasi-experimental, causal-inference, paradigm/positivist]
-related_theories: ["[[Refraction Framework]]"]
-related_facts: ["[[Coleman Report 1966]]"]
-sources: ["sources/Downey_2016_SoE.md"]
+method_type: quantitative
+tags:
+- seasonal-comparison
+- research-design
+- quasi-experimental
+- causal-inference
+- paradigm/positivist
+related_concepts: []
+related_theories:
+- '[[Refraction Framework]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Downey_2016_SoE]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,15 +1,27 @@
 ---
 title: In-depth Interview
+aliases:
+- 深度访谈
+summary: 深度访谈（In-depth Interview）是一种质性研究资料收集方法，目的是通过与被访者的深入对话，理解其对自身行动意义的主观建构。
 type: method
-tags: [in-depth-interview, qualitative-research, paradigm/interpretivist]
+method_type: qualitative
+tags:
+- in-depth-interview
+- qualitative-research
+- paradigm/interpretivist
 related_concepts: []
 related_theories: []
-related_methods: ["[[Case Study]]", "[[Constructivist Grounded Theory]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+related_methods:
+- '[[Case Study]]'
+- '[[Constructivist Grounded Theory]]'
+related_persons: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

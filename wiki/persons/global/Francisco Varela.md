@@ -1,18 +1,30 @@
 ---
 title: Francisco Varela
-aliases: []
+aliases:
+- Varela
+summary: Francisco Varela（1946–2001），智利生物学家和神经科学家。
 type: person
-tags: [Francisco-Varela, autopoiesis, biology, neuroscience]
-related_concepts: ["[[Posthumanism]]"]
-related_theories: ["[[Autopoiesis]]"]
-related_persons: ["[[Humberto Maturana]]", "[[Arturo Escobar]]"]
+nationality: global
+tags:
+- Francisco-Varela
+- autopoiesis
+- biology
+- neuroscience
+related_concepts:
+- '[[Posthumanism]]'
+related_theories:
+- '[[Autopoiesis]]'
 related_methods: []
+related_persons:
+- '[[Humberto Maturana]]'
+- '[[Arturo Escobar]]'
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 简介

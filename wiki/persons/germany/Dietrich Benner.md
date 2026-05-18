@@ -1,14 +1,26 @@
 ---
 title: Dietrich Benner
+aliases:
+- Benner
+summary: 德国教育学家（Pedagogue），以对 Bildung（品格陶成）与 Erziehung（教育）的区分以及修正版教学三角模型著称。
 type: person
-tags: [Dietrich Benner, paradigm/Bildung, region/germany]
-related_concepts: ["[[Bildung]]"]
+nationality: germany
+tags:
+- Dietrich Benner
+- paradigm/Bildung
+- region/germany
+related_concepts:
+- '[[Bildung]]'
 related_theories: []
-sources: ["sources/Sarbiewska_2019_JSR.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Sarbiewska_2019_JSR]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 简介

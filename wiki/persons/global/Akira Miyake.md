@@ -1,14 +1,30 @@
 ---
 title: Akira Miyake
+aliases:
+- Miyake
+summary: 认知心理学家，执行功能（EF）统一性与多样性框架（Unity and Diversity Framework）的提出者。
 type: person
-tags: [Miyake, executive-function, cognitive-science]
-related_theories: ["[[miyake-unity-diversity-framework]]"]
-related_concepts: ["[[executive-function]]", "[[cognitive-inhibition]]", "[[cognitive-shifting]]", "[[updating-and-monitoring]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+nationality: global
+tags:
+- Miyake
+- executive-function
+- cognitive-science
+related_concepts:
+- '[[executive-function]]'
+- '[[cognitive-inhibition]]'
+- '[[cognitive-shifting]]'
+- '[[updating-and-monitoring]]'
+related_theories:
+- '[[miyake-unity-diversity-framework]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: low
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 简介

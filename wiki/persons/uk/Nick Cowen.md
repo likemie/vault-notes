@@ -1,15 +1,35 @@
 ---
 title: Nick Cowen
+aliases:
+- Cowen
+summary: Nick Cowen 是英国政治科学家，任职于林肯大学（University of Lincoln）社会与政治科学学院。
 type: person
-tags: [Nick Cowen, evidence-based-education, evidence-based-policy-implementation, public-choice, political-economy, bureaucracy, region/uk]
-related_theories: ["[[Tullock's Bureaucracy Theory]]", "[[Cartwright's Three-Stage Knowledge Framework]]"]
-related_concepts: ["[[Evidence-Based Education]]", "[[Local Knowledge in Evidence-Based Policy]]"]
-related_persons: ["[[Nancy Cartwright]]"]
-sources: ["sources/Cowen_2015_CHESS.md", "sources/Cowen_2019_ERE.md"]
+nationality: uk
+tags:
+- Nick Cowen
+- evidence-based-education
+- evidence-based-policy-implementation
+- public-choice
+- political-economy
+- bureaucracy
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Local Knowledge in Evidence-Based Policy]]'
+related_theories:
+- '[[Tullock''s Bureaucracy Theory]]'
+- '[[Cartwright''s Three-Stage Knowledge Framework]]'
+related_methods: []
+related_persons:
+- '[[Nancy Cartwright]]'
+related_arguments: []
+sources:
+- '[[Cowen_2015_CHESS]]'
+- '[[Cowen_2019_ERE]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

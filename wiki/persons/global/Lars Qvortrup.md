@@ -1,16 +1,41 @@
 ---
 title: Lars Qvortrup
+aliases:
+- Qvortrup
+summary: Lars Qvortrup，丹麦奥胡斯大学（Aarhus University）丹麦教育学院（Danish School of Education）国家学校研究中心（National Centre for School Research）教授。
 type: person
-tags: [Qvortrup, visible-learning, evidence-based-education, region/denmark, stance/support]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Professional Judgment]]", "[[Interpretation Community]]", "[[Structural Coupling]]", "[[Dynamic Knowledge and Learning Model]]", "[[Surface and Deep Learning]]"]
-related_theories: ["[[Bounded Rationality]]", "[[Popper's Three Worlds Theory]]"]
-related_persons: ["[[John Hattie]]", "[[Donald A. Schön]]", "[[Herbert A. Simon]]", "[[Thomas Aastrup Rømer]]"]
-related_facts: ["[[Visible Learning Branding and Global Influences]]"]
-sources: ["sources/Qvortrup_2015_Paideia.md", "sources/Qvortrup_2019_NordSTEP.md"]
+nationality: global
+tags:
+- Qvortrup
+- visible-learning
+- evidence-based-education
+- region/denmark
+- stance/support
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Professional Judgment]]'
+- '[[Interpretation Community]]'
+- '[[Structural Coupling]]'
+- '[[Dynamic Knowledge and Learning Model]]'
+- '[[Surface and Deep Learning]]'
+related_theories:
+- '[[Bounded Rationality]]'
+- '[[Popper''s Three Worlds Theory]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Donald A. Schön]]'
+- '[[Herbert A. Simon]]'
+- '[[Thomas Aastrup Rømer]]'
+related_arguments: []
+sources:
+- '[[Qvortrup_2015_Paideia]]'
+- '[[Qvortrup_2019_NordSTEP]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-05
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 简介

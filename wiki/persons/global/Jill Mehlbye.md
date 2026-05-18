@@ -1,14 +1,26 @@
 ---
 title: Jill Mehlbye
+aliases:
+- Mehlbye
+summary: Jill Mehlbye 是丹麦教育研究者，研究重点包括高绩效学校、弱社会背景学生的学校提升，以及丹麦学校中高要求、学业表现取向和课堂管理等教学质量。
 type: person
-tags: [Jill-Mehlbye, effective-teaching, region/denmark]
-related_concepts: ["[[Effective Teaching]]"]
+nationality: global
+tags:
+- Jill-Mehlbye
+- effective-teaching
+- region/denmark
+related_concepts:
+- '[[Effective Teaching]]'
 related_theories: []
-sources: ["sources/Laursen_2015_Paideia.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Laursen_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 简介

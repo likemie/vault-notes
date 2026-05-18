@@ -1,14 +1,26 @@
 ---
 title: Maria Pampaka
+aliases:
+- Pampaka
+summary: 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究方法论、学习结果测量（包括态度、倾向和抱负等非成就性指标）、"什么有效"议程的批判性评估。
 type: person
-tags: [Maria Pampaka, region/uk]
+nationality: uk
+tags:
+- Maria Pampaka
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Randomised Controlled Trials]]'
 related_theories: []
-related_concepts: ["[[Evidence-Based Education]]", "[[Randomised Controlled Trials]]"]
-sources: ["sources/Pampaka_2016_IJRME.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Pampaka_2016_IJRME]]'
 confidence: low
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

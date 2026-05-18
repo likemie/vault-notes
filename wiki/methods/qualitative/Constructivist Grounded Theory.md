@@ -1,14 +1,29 @@
 ---
 title: Constructivist Grounded Theory
+aliases:
+- 建构主义扎根理论
+summary: 建构主义扎根理论（Constructivist Grounded Theory）是美国社会学家 Kathy Charmaz（2006）在 Glaser 和 Strauss 经典扎根理论基础上发展的质性研究方法论变体。
 type: method
-tags: [constructivist-grounded-theory, qualitative-research, methodology, paradigm/constructivist]
-related_methods: ["[[In-depth Interview]]", "[[Case Study]]"]
-related_persons: ["[[Kathy Charmaz]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+method_type: qualitative
+tags:
+- constructivist-grounded-theory
+- qualitative-research
+- methodology
+- paradigm/constructivist
+related_concepts: []
+related_theories: []
+related_methods:
+- '[[In-depth Interview]]'
+- '[[Case Study]]'
+related_persons:
+- '[[Kathy Charmaz]]'
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-08
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 定义

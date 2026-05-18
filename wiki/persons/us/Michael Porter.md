@@ -1,18 +1,31 @@
 ---
 title: Michael Porter
-aliases: []
+aliases:
+- Porter
+summary: Michael E. Porter，美国经济学家和竞争战略理论家，哈佛商学院教授。
 type: person
-tags: [michael-porter, competitive-strategy, national-competitive-advantage, region/united-states, level/higher-ed]
-related_concepts: ["[[National Competitive Advantage]]", "[[Knowledge-Based Economy]]", "[[Hub and Flow Imaginaries]]"]
-related_persons: ["[[Sami Moisio]]"]
+nationality: us
+tags:
+- michael-porter
+- competitive-strategy
+- national-competitive-advantage
+- region/united-states
+- level/higher-ed
+related_concepts:
+- '[[National Competitive Advantage]]'
+- '[[Knowledge-Based Economy]]'
+- '[[Hub and Flow Imaginaries]]'
 related_theories: []
 related_methods: []
+related_persons:
+- '[[Sami Moisio]]'
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md"]
+sources:
+- '[[Ch2_Moisio_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-10
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 简介

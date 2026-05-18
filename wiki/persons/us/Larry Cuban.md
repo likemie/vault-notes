@@ -1,15 +1,28 @@
 ---
 title: Larry Cuban
+aliases:
+- Cuban
+summary: Larry Cuban 是美国教育史学家和课程理论家，斯坦福大学教育学院荣休教授。
 type: person
-tags: [Larry Cuban, curriculum-change, curriculum-theory, education-history, region/us]
-related_theories: ["[[Cuban's Curriculum Change Theory]]"]
+nationality: us
+tags:
+- Larry Cuban
+- curriculum-change
+- curriculum-theory
+- education-history
+- region/us
 related_concepts: []
+related_theories:
+- '[[Cuban''s Curriculum Change Theory]]'
+related_methods: []
 related_persons: []
-sources: ["sources/Yan_2025_JCS.md"]
+related_arguments: []
+sources:
+- '[[Yan_2025_JCS]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-04
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

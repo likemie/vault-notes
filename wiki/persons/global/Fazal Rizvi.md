@@ -1,19 +1,47 @@
 ---
 title: Fazal Rizvi
-aliases: ["法扎尔·里兹维", "Fazal Rizvi"]
+aliases:
+- 法扎尔·里兹维
+- Fazal Rizvi
+- Rizvi
+summary: Fazal Rizvi 是高等教育国际化与全球化研究领域的学者，以将批判地缘政治学视角应用于高等教育分析而著称。
 type: person
-tags: [Fazal-Rizvi, higher-education, internationalization, geopolitics, region/australia, region/global, level/higher-ed]
-related_concepts: ["[[Internationalization of Higher Education]]", "[[Transnational Research Collaboration in Higher Education]]", "[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Critical Geopolitics]]", "[[International Education Hubs]]", "[[Knowledge-Based Economy]]", "[[New Public Management in Education]]", "[[Endogenous and Exogenous Privatisation]]"]
-related_theories: ["[[Critical Geopolitics]]", "[[Postcolonial Theory]]", "[[Network Society]]"]
-related_persons: ["[[Edward Said]]", "[[Frantz Fanon]]", "[[Arturo Escobar]]", "[[Manuel Castells]]"]
+nationality: global
+tags:
+- Fazal-Rizvi
+- higher-education
+- internationalization
+- geopolitics
+- region/australia
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Internationalization of Higher Education]]'
+- '[[Transnational Research Collaboration in Higher Education]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Classical Geopolitics]]'
+- '[[Critical Geopolitics]]'
+- '[[International Education Hubs]]'
+- '[[Knowledge-Based Economy]]'
+- '[[New Public Management in Education]]'
+- '[[Endogenous and Exogenous Privatisation]]'
+related_theories:
+- '[[Critical Geopolitics]]'
+- '[[Postcolonial Theory]]'
+- '[[Network Society]]'
 related_methods: []
-related_facts: ["[[Australia in the Asian Century White Paper 2012]]", "[[GATS and Trade in Education Services]]"]
+related_persons:
+- '[[Edward Said]]'
+- '[[Frantz Fanon]]'
+- '[[Arturo Escobar]]'
+- '[[Manuel Castells]]'
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md"]
+sources:
+- '[[Ch6_Rizvi_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 ## 简介

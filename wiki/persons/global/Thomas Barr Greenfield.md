@@ -1,15 +1,27 @@
 ---
 title: Thomas Barr Greenfield
+aliases: []
+summary: Thomas Barr Greenfield 是加拿大的教育行政学者，以对教育行政中**逻辑经验主义和理论运动**的认识论基础提出挑战而闻名。
 type: person
-tags: [Thomas Barr Greenfield, region/canada, paradigm/interpretivist, educational-administration]
+nationality: global
+tags:
+- Thomas Barr Greenfield
+- region/canada
+- paradigm/interpretivist
+- educational-administration
+related_concepts:
+- '[[Epistemological Break]]'
+- '[[School Leadership]]'
 related_theories: []
-related_concepts: ["[[Epistemological Break]]", "[[School Leadership]]"]
+related_methods: []
 related_persons: []
-sources: ["sources/Eacott_2015_EPT.md"]
+related_arguments: []
+sources:
+- '[[Eacott_2015_EPT]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

@@ -1,14 +1,32 @@
 ---
 title: Ann Swidler
+aliases:
+- Swidler
+summary: 'Ann Swidler（安·斯威德勒），美国文化社会学家，以 1986 年在《美国社会学评论》（*American Sociological Review*）上发表的论文 *Culture in Action: Symbols and Strategies* 提出文化工具箱理论（Culture as Toolkit）而著称。'
 type: person
-tags: [Ann-Swidler, cultural-sociology, region/us]
-related_concepts: ["[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Cultural Barrier in Higher Education]]", "[[Work Meaning Schemas (Zheng)]]", "[[Graduation Pathway Typology (Zheng)]]"]
-related_theories: ["[[Culture as Toolkit]]", "[[Dual-Process Model of Culture in Action]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+nationality: us
+tags:
+- Ann-Swidler
+- cultural-sociology
+- region/us
+related_concepts:
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Cultural Barrier in Higher Education]]'
+- '[[Work Meaning Schemas (Zheng)]]'
+- '[[Graduation Pathway Typology (Zheng)]]'
+related_theories:
+- '[[Culture as Toolkit]]'
+- '[[Dual-Process Model of Culture in Action]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-09
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 简介

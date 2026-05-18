@@ -1,17 +1,90 @@
 ---
 title: John Hattie
+aliases:
+- Hattie
+summary: John Hattie 是新西兰教育统计学家，现任墨尔本大学教育研究所（Melbourne Graduate School of Education）教授。
 type: person
-tags: [John Hattie, evidence-based-education, paradigm/positivist, region/new-zealand, region/australia]
-related_theories: ["[[Evidence-Based Education]]", "[[Technical Rationality]]", "[[Radical Constructivism]]", "[[Popper's Three Worlds Theory]]", "[[Luhmann's Systems Theory]]"]
-related_concepts: ["[[Visible Learning]]", "[[Effect Size]]", "[[Meta-analysis]]", "[[Evidence-Based Reform]]", "[[Policy Borrowing]]", "[[Cult of the Guru]]", "[[Neo-Taylorism in Educational Administration]]", "[[Pure Evaluation]]", "[[Policy Entrepreneur]]", "[[Educational Management Organisation (EMO)]]", "[[Network Governance]]", "[[Learnification]]", "[[Bildung]]", "[[Blind Spot in Observation]]", "[[Problem-Based Learning]]", "[[Surface and Deep Learning]]", "[[Constructive Alignment]]", "[[Dynamic Knowledge and Learning Model]]", "[[Critic and Conscience of Society]]"]
-related_persons: ["[[Thomas Aastrup Rømer]]", "[[Ernst von Glasersfeld]]", "[[Carl Bereiter]]", "[[Lars Qvortrup]]", "[[Steen Nepper Larsen]]", "[[Yong Zhao]]", "[[Gerald Grace]]"]
-related_arguments: ["[[Argument_Hattie_2017_SLM]]", "[[Argument_Bainbridge_2022_ROE]]"]
-related_facts: ["[[New Zealand National Standards (2009)]]", "[[Visible Learning Branding and Global Influences]]"]
-sources: ["sources/Snook_2009_NZJES.md", "sources/Grace_2010_NZJES.md", "sources/Hattie_2010_NZJES.md", "sources/Snook_2010_NZJES.md", "sources/Terhart_2011_JCS.md", "sources/ONeill_2012_NZJES.md", "sources/Allerup_2015_Paideia.md", "sources/Fredens_2015_Paideia.md", "sources/Hattie_2015_SOTLP.md", "sources/Laursen_2015_Paideia.md", "sources/Qvortrup_2015_Paideia.md", "sources/ONeill_2016_Report.md", "sources/Wecker_2016_ZfE.md", "sources/Bergeron_2017_MJE.md", "sources/Eacott_2017_SLM.md", "sources/Hattie_2017_SLM.md", "sources/Knudsen_2017_NordSTEP.md", "sources/Zhao_2017_JEC.md", "sources/Romer_2018_EPT.md", "sources/Eacott_2019_IJLE.md", "sources/Golovchin_2019_ESC.md", "sources/Larsen_2019_EducSci.md", "sources/Qvortrup_2019_NordSTEP.md", "sources/Sarbiewska_2019_JSR.md", "sources/Blass_2020_JESP.md", "sources/McKnight_2020_Discourse.md", "sources/OConnor_2020_AJLL.md", "sources/Nielsen_2021_IRTP.md", "sources/Nielsen_2021_NordPsych.md", "sources/Bainbridge_2022_ROE.md", "sources/Johnson_2023_CE.md"]
+nationality: global
+tags:
+- John Hattie
+- evidence-based-education
+- paradigm/positivist
+- region/new-zealand
+- region/australia
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Effect Size]]'
+- '[[Meta-analysis]]'
+- '[[Evidence-Based Reform]]'
+- '[[Policy Borrowing]]'
+- '[[Cult of the Guru]]'
+- '[[Neo-Taylorism in Educational Administration]]'
+- '[[Pure Evaluation]]'
+- '[[Policy Entrepreneur]]'
+- '[[Educational Management Organisation (EMO)]]'
+- '[[Network Governance]]'
+- '[[Learnification]]'
+- '[[Bildung]]'
+- '[[Blind Spot in Observation]]'
+- '[[Problem-Based Learning]]'
+- '[[Surface and Deep Learning]]'
+- '[[Constructive Alignment]]'
+- '[[Dynamic Knowledge and Learning Model]]'
+- '[[Critic and Conscience of Society]]'
+related_theories:
+- '[[Evidence-Based Education]]'
+- '[[Technical Rationality]]'
+- '[[Radical Constructivism]]'
+- '[[Popper''s Three Worlds Theory]]'
+- '[[Luhmann''s Systems Theory]]'
+related_methods: []
+related_persons:
+- '[[Thomas Aastrup Rømer]]'
+- '[[Ernst von Glasersfeld]]'
+- '[[Carl Bereiter]]'
+- '[[Lars Qvortrup]]'
+- '[[Steen Nepper Larsen]]'
+- '[[Yong Zhao]]'
+- '[[Gerald Grace]]'
+related_arguments:
+- '[[Argument_Hattie_2017_SLM]]'
+- '[[Argument_Bainbridge_2022_ROE]]'
+sources:
+- '[[Snook_2009_NZJES]]'
+- '[[Grace_2010_NZJES]]'
+- '[[Hattie_2010_NZJES]]'
+- '[[Snook_2010_NZJES]]'
+- '[[Terhart_2011_JCS]]'
+- '[[ONeill_2012_NZJES]]'
+- '[[Allerup_2015_Paideia]]'
+- '[[Fredens_2015_Paideia]]'
+- '[[Hattie_2015_SOTLP]]'
+- '[[Laursen_2015_Paideia]]'
+- '[[Qvortrup_2015_Paideia]]'
+- '[[ONeill_2016_Report]]'
+- '[[Wecker_2016_ZfE]]'
+- '[[Bergeron_2017_MJE]]'
+- '[[Eacott_2017_SLM]]'
+- '[[Hattie_2017_SLM]]'
+- '[[Knudsen_2017_NordSTEP]]'
+- '[[Zhao_2017_JEC]]'
+- '[[Romer_2018_EPT]]'
+- '[[Eacott_2019_IJLE]]'
+- '[[Golovchin_2019_ESC]]'
+- '[[Larsen_2019_EducSci]]'
+- '[[Qvortrup_2019_NordSTEP]]'
+- '[[Sarbiewska_2019_JSR]]'
+- '[[Blass_2020_JESP]]'
+- '[[McKnight_2020_Discourse]]'
+- '[[OConnor_2020_AJLL]]'
+- '[[Nielsen_2021_IRTP]]'
+- '[[Nielsen_2021_NordPsych]]'
+- '[[Bainbridge_2022_ROE]]'
+- '[[Johnson_2023_CE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-07
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

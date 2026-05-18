@@ -1,15 +1,29 @@
 ---
 title: Nancy Cartwright
+aliases:
+- Cartwright
+summary: Nancy Cartwright，科学哲学家，杜伦大学哲学系教授（Durham University）和加州大学圣地亚哥分校（UC San Diego）荣休教授。
 type: person
-tags: [Nancy Cartwright, paradigm/scientific-realism, region/uk, region/us]
-related_theories: ["[[Cartwright's Three-Stage Knowledge Framework]]"]
-related_concepts: ["[[Evidence-Based Education]]", "[[Programme Fidelity vs Adaptation]]"]
+nationality: global
+tags:
+- Nancy Cartwright
+- paradigm/scientific-realism
+- region/uk
+- region/us
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Programme Fidelity vs Adaptation]]'
+related_theories:
+- '[[Cartwright''s Three-Stage Knowledge Framework]]'
+related_methods: []
 related_persons: []
-sources: ["sources/Cowen_2015_CHESS.md"]
+related_arguments: []
+sources:
+- '[[Cowen_2015_CHESS]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

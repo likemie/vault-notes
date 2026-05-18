@@ -1,14 +1,28 @@
 ---
 title: Ken Goodman
+aliases:
+- Goodman
+summary: Ken Goodman 是美国教育研究者，全语言（Whole Language）运动的最具影响力的创始人。
 type: person
-tags: [Ken-Goodman, whole-language, literacy, paradigm/constructivist, region/us]
+nationality: us
+tags:
+- Ken-Goodman
+- whole-language
+- literacy
+- paradigm/constructivist
+- region/us
+related_concepts:
+- '[[Whole Language]]'
 related_theories: []
-related_concepts: ["[[Whole Language]]"]
-sources: ["sources/OConnor_2020_AJLL.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[OConnor_2020_AJLL]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 简介

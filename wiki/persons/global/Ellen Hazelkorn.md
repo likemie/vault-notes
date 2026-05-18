@@ -1,17 +1,33 @@
 ---
 title: Ellen Hazelkorn
-aliases: ["Hazelkorn", "埃伦·黑兹尔科恩"]
+aliases:
+- Hazelkorn
+- 埃伦·黑兹尔科恩
+summary: Ellen Hazelkorn 是全球大学排名研究领域的领军学者，以其对排名如何重塑高等教育的系统分析著称。
 type: person
-tags: [person, higher-education, rankings, region/ireland, region/global]
-related_concepts: ["[[Global Universities Rankings]]", "[[Geopolitics of Knowledge]]"]
+nationality: global
+tags:
+- person
+- higher-education
+- rankings
+- region/ireland
+- region/global
+related_concepts:
+- '[[Global Universities Rankings]]'
+- '[[Geopolitics of Knowledge]]'
 related_theories: []
-related_persons: ["[[Pepka Boyadjieva]]", "[[Philip Altbach]]"]
-related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
+related_methods: []
+related_persons:
+- '[[Pepka Boyadjieva]]'
+- '[[Philip Altbach]]'
+related_arguments:
+- '[[Argument_Boyadjieva_2022_Springer]]'
+sources:
+- '[[Ch8_Boyadjieva_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-12
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Ellen Hazelkorn

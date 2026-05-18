@@ -1,14 +1,27 @@
 ---
 title: Tengteng Zhuang
+aliases: []
+summary: 庄腾腾，北京师范大学（Beijing Normal University）教育研究者，研究方向为中国教育实证研究的文献计量分析和制度化发展。
 type: person
-tags: [Tengteng Zhuang, region/china]
-related_concepts: ["[[Evidence-Based Reform]]", "[[Evidence-Based Education]]"]
-related_persons: ["[[Robert Slavin]]", "[[Alan C. K. Cheung]]"]
-sources: ["sources/Slavin_2021_ROE.md"]
+nationality: china
+tags:
+- Tengteng Zhuang
+- region/china
+related_concepts:
+- '[[Evidence-Based Reform]]'
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Robert Slavin]]'
+- '[[Alan C. K. Cheung]]'
+related_arguments: []
+sources:
+- '[[Slavin_2021_ROE]]'
 confidence: low
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

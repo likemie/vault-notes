@@ -1,14 +1,28 @@
 ---
 title: Ernst von Glasersfeld
+aliases:
+- Glasersfeld
+summary: Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心理学家，激进建构主义（Radical Constructivism）创始人。
 type: person
-tags: [von Glasersfeld, paradigm/constructivist, region/germany, region/us]
-related_theories: ["[[Radical Constructivism]]"]
-related_concepts: ["[[Visible Learning]]"]
-sources: ["sources/Romer_2018_EPT.md"]
+nationality: global
+tags:
+- von Glasersfeld
+- paradigm/constructivist
+- region/germany
+- region/us
+related_concepts:
+- '[[Visible Learning]]'
+related_theories:
+- '[[Radical Constructivism]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Romer_2018_EPT]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 简介

@@ -1,18 +1,28 @@
 ---
 title: Robert Cowen
-aliases: []
+aliases:
+- Cowen
+summary: Robert Cowen，英国比较教育学者，以 [[Transitology]] 概念和现代／晚期现代教育的双轴比较模型著称，对比较教育领域教育与社会转型关系的理论化有重要影响。
 type: person
-tags: [Robert-Cowen, comparative-education, region/uk]
-related_concepts: ["[[Transitology]]", "[[Regional University Alliances]]", "[[Policy Borrowing]]"]
+nationality: uk
+tags:
+- Robert-Cowen
+- comparative-education
+- region/uk
+related_concepts:
+- '[[Transitology]]'
+- '[[Regional University Alliances]]'
+- '[[Policy Borrowing]]'
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 简介

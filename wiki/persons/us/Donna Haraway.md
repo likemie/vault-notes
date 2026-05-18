@@ -1,18 +1,33 @@
 ---
 title: Donna Haraway
-aliases: []
+aliases:
+- Haraway
+summary: Donna Haraway，美国女性主义科学与技术研究学者，以 [[Posthumanism]]（后人类主义）、[[Sympoiesis]]（共同制造）和 [[SF (Haraway)]] 叙事方法论著称，其 2016 年著作 *Staying with the Trouble* 被 Amos 援引为晚期现代性替代教育愿景的核心思想资源。
 type: person
-tags: [Donna-Haraway, posthumanism, new-materialism, region/us]
-related_concepts: ["[[Transhumanism]]", "[[Posthumanism]]", "[[Sympoiesis]]", "[[Response-ability]]", "[[SF (Haraway)]]", "[[Humosity]]"]
-related_theories: ["[[Autopoiesis]]"]
+nationality: us
+tags:
+- Donna-Haraway
+- posthumanism
+- new-materialism
+- region/us
+related_concepts:
+- '[[Transhumanism]]'
+- '[[Posthumanism]]'
+- '[[Sympoiesis]]'
+- '[[Response-ability]]'
+- '[[SF (Haraway)]]'
+- '[[Humosity]]'
+related_theories:
+- '[[Autopoiesis]]'
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 简介

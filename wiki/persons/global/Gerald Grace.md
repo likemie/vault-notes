@@ -1,15 +1,28 @@
 ---
 title: Gerald Grace
+aliases:
+- Grace
+summary: Gerald Grace 是英国教育学者，现任（2010 年）伦敦大学（University of London）教授。
 type: person
-tags: [Gerald Grace, region/new-zealand, region/uk, level/higher-ed]
-related_concepts: ["[[Critic and Conscience of Society]]"]
-related_persons: ["[[John Hattie]]"]
-related_facts: ["[[Learning for Life Report 1989]]"]
-sources: ["sources/Grace_2010_NZJES.md"]
+nationality: global
+tags:
+- Gerald Grace
+- region/new-zealand
+- region/uk
+- level/higher-ed
+related_concepts:
+- '[[Critic and Conscience of Society]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+related_arguments: []
+sources:
+- '[[Grace_2010_NZJES]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 简介

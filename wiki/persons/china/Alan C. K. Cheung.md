@@ -1,14 +1,30 @@
 ---
 title: Alan C. K. Cheung
+aliases:
+- Cheung
+summary: 香港中文大学（The Chinese University of Hong Kong）教育研究者。
 type: person
-tags: [Alan C. K. Cheung, region/china, region/hongkong]
-related_concepts: ["[[Evidence-Based Reform]]", "[[Evidence-Based Education]]"]
-related_persons: ["[[Robert Slavin]]", "[[Chen Xie]]"]
-sources: ["sources/Slavin_2021_ROE.md", "sources/Cheung_2021_ROE.md"]
+nationality: china
+tags:
+- Alan C. K. Cheung
+- region/china
+- region/hongkong
+related_concepts:
+- '[[Evidence-Based Reform]]'
+- '[[Evidence-Based Education]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Robert Slavin]]'
+- '[[Chen Xie]]'
+related_arguments: []
+sources:
+- '[[Slavin_2021_ROE]]'
+- '[[Cheung_2021_ROE]]'
 confidence: low
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

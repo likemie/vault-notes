@@ -1,18 +1,36 @@
 ---
 title: Marcelo Parreira do Amaral
-aliases: []
+aliases:
+- Amaral
+summary: Marcelo Parreira do Amaral 是德国明斯特大学（University of Münster）教育学院教授，比较教育与高等教育研究者。
 type: person
-tags: [Marcelo-Parreira-do-Amaral, comparative-education, geopolitics-of-knowledge, region/germany, region/global, level/higher-ed]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Global Education Industry]]", "[[Knowledge-Based Economization]]", "[[International Education Hubs]]", "[[Global Regionalisms in Higher Education]]"]
-related_theories: ["[[Critical Geopolitics]]", "[[Decolonial Geopolitics of Knowledge]]"]
+nationality: global
+tags:
+- Marcelo-Parreira-do-Amaral
+- comparative-education
+- geopolitics-of-knowledge
+- region/germany
+- region/global
+- level/higher-ed
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Global Education Industry]]'
+- '[[Knowledge-Based Economization]]'
+- '[[International Education Hubs]]'
+- '[[Global Regionalisms in Higher Education]]'
+related_theories:
+- '[[Critical Geopolitics]]'
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: ["sources/Parreira do Amaral(Ed.)_2022_Springer.md", "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md"]
+sources:
+- '[[Parreira do Amaral(Ed.)_2022_Springer]]'
+- '[[Ch3_Parreira do Amaral_2022]]'
 confidence: low
 status: draft
-created: 2026-05-07
-updated: 2026-05-10
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 简介

@@ -1,15 +1,33 @@
 ---
 title: Robert Slavin
+aliases:
+- Slavin
+summary: Robert E. Slavin 是美国约翰霍普金斯大学（Johns Hopkins University）教育研究与改革中心（Center for Research and Reform in Education）主任，教育心理学家，**证据本位教育改革运动最核心的倡导者和奠基人之一**。
 type: person
-tags: [Robert Slavin, evidence-based-education, evidence-based-reform, Success-for-All, ESSA, educational-psychology, region/us]
+nationality: us
+tags:
+- Robert Slavin
+- evidence-based-education
+- evidence-based-reform
+- Success-for-All
+- ESSA
+- educational-psychology
+- region/us
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
 related_theories: []
-related_concepts: ["[[Evidence-Based Education]]", "[[Evidence-Based Reform]]"]
-related_persons: ["[[Grover Whitehurst]]"]
-sources: ["sources/Slavin_2002_ER.md", "sources/Slavin_2019_EP.md"]
+related_methods: []
+related_persons:
+- '[[Grover Whitehurst]]'
+related_arguments: []
+sources:
+- '[[Slavin_2002_ER]]'
+- '[[Slavin_2019_EP]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

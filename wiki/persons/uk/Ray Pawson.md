@@ -1,15 +1,31 @@
 ---
 title: Ray Pawson
+aliases:
+- Pawson
+summary: Ray Pawson 是英国利兹大学（University of Leeds）社会研究方法论教授。
 type: person
-tags: [Ray Pawson, evidence-based-policy, realist-evaluation, critical-realism, meta-analysis, methodology, region/uk]
-related_theories: ["[[Critical Realism]]"]
-related_concepts: ["[[Evidence-Based Education]]"]
+nationality: uk
+tags:
+- Ray Pawson
+- evidence-based-policy
+- realist-evaluation
+- critical-realism
+- meta-analysis
+- methodology
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+related_theories:
+- '[[Critical Realism]]'
+related_methods: []
 related_persons: []
-sources: ["sources/Wrigley_2019_ERE.md"]
+related_arguments: []
+sources:
+- '[[Wrigley_2019_ERE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

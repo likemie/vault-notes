@@ -1,16 +1,39 @@
 ---
 title: Scott Eacott
+aliases:
+- Eacott
+summary: Scott Eacott 是澳大利亚 UNSW Sydney 教育学院的学者，专注于教育行政与领导力领域的社会认识论、组织理论和学术实践逻辑研究。
 type: person
-tags: [Scott Eacott, educational-administration, school-leadership, paradigm/critical, region/australia]
-related_theories: ["[[Pierre Bourdieu]]"]
-related_concepts: ["[[Parallel Monologues]]", "[[Neo-Taylorism in Educational Administration]]", "[[Cult of the Guru]]", "[[Epistemological Break]]", "[[Epistemological Vigilance]]", "[[Visible Learning]]"]
-related_arguments: ["[[Argument_Hattie_2017_SLM]]"]
-related_facts: ["[[Visible Learning Branding and Global Influences]]"]
-sources: ["sources/Eacott_2011_JEAH.md", "sources/Eacott_2015_EPT.md", "sources/Eacott_2017_SLM.md", "sources/Hattie_2017_SLM.md", "sources/Eacott_2019_IJLE.md"]
+nationality: global
+tags:
+- Scott Eacott
+- educational-administration
+- school-leadership
+- paradigm/critical
+- region/australia
+related_concepts:
+- '[[Parallel Monologues]]'
+- '[[Neo-Taylorism in Educational Administration]]'
+- '[[Cult of the Guru]]'
+- '[[Epistemological Break]]'
+- '[[Epistemological Vigilance]]'
+- '[[Visible Learning]]'
+related_theories:
+- '[[Pierre Bourdieu]]'
+related_methods: []
+related_persons: []
+related_arguments:
+- '[[Argument_Hattie_2017_SLM]]'
+sources:
+- '[[Eacott_2011_JEAH]]'
+- '[[Eacott_2015_EPT]]'
+- '[[Eacott_2017_SLM]]'
+- '[[Hattie_2017_SLM]]'
+- '[[Eacott_2019_IJLE]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-07
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 简介

@@ -1,16 +1,63 @@
 ---
 title: Randomised Controlled Trials
+aliases:
+- 随机对照试验
+- RCT
+summary: 随机对照试验（Randomised Controlled Trial, RCT）是一种实验设计方法，通过将参与者随机分配到干预组和对照组来评估干预措施的效果。
 type: method
-tags: [RCT, randomised-controlled-trials, evidence-based-education, experimental-design, methodology, paradigm/positivist]
-related_theories: ["[[Critical Realism]]"]
-related_concepts: ["[[Evidence-Based Education]]", "[[Educational Evidence Clearinghouses]]", "[[Effect Size]]", "[[Validity as Inferences]]", "[[Black Box RCTs]]", "[[Mechanism Experiments]]", "[[Cluster Randomized Trials]]", "[[Intent-to-Treat Analysis]]", "[[Stable Unit Treatment Value Assumption (SUTVA)]]", "[[Potential Outcomes Framework]]", "[[Side Effects in Education]]", "[[Recommendations for Practice]]"]
-related_methods: ["[[Intervention Research]]", "[[Non-intervention Research]]", "[[Observational and Correlational Research]]"]
-related_persons: ["[[Dylan Wiliam]]", "[[Jorunn Møller]]", "[[Amelia Peterson]]", "[[Maria Pampaka]]", "[[Terry Wrigley]]", "[[Ray Pawson]]", "[[Gert Biesta]]", "[[Nancy Cartwright]]", "[[Yong Zhao]]"]
-sources: ["sources/Berk_2011_ER.md", "sources/Pampaka_2016_IJRME.md", "sources/Peterson_2016_IJRME.md", "sources/Møller_2017_EERJ.md", "sources/Zhao_2017_JEC.md", "sources/Wiliam_2019_ERE.md", "sources/Wrigley_2019_ERE.md", "sources/Kraft_2023_ER.md", "sources/Brady_2023_EPR.md", "sources/Wadhwa_2024_RER.md"]
+method_type: quantitative
+tags:
+- RCT
+- randomised-controlled-trials
+- evidence-based-education
+- experimental-design
+- methodology
+- paradigm/positivist
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Effect Size]]'
+- '[[Validity as Inferences]]'
+- '[[Black Box RCTs]]'
+- '[[Mechanism Experiments]]'
+- '[[Cluster Randomized Trials]]'
+- '[[Intent-to-Treat Analysis]]'
+- '[[Stable Unit Treatment Value Assumption (SUTVA)]]'
+- '[[Potential Outcomes Framework]]'
+- '[[Side Effects in Education]]'
+- '[[Recommendations for Practice]]'
+related_theories:
+- '[[Critical Realism]]'
+related_methods:
+- '[[Intervention Research]]'
+- '[[Non-intervention Research]]'
+- '[[Observational and Correlational Research]]'
+related_persons:
+- '[[Dylan Wiliam]]'
+- '[[Jorunn Møller]]'
+- '[[Amelia Peterson]]'
+- '[[Maria Pampaka]]'
+- '[[Terry Wrigley]]'
+- '[[Ray Pawson]]'
+- '[[Gert Biesta]]'
+- '[[Nancy Cartwright]]'
+- '[[Yong Zhao]]'
+related_arguments: []
+sources:
+- '[[Berk_2011_ER]]'
+- '[[Pampaka_2016_IJRME]]'
+- '[[Peterson_2016_IJRME]]'
+- '[[Møller_2017_EERJ]]'
+- '[[Zhao_2017_JEC]]'
+- '[[Wiliam_2019_ERE]]'
+- '[[Wrigley_2019_ERE]]'
+- '[[Kraft_2023_ER]]'
+- '[[Brady_2023_EPR]]'
+- '[[Wadhwa_2024_RER]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-05
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

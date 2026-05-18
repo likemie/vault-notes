@@ -1,15 +1,30 @@
 ---
 title: Robbie Case
+aliases: []
+summary: 新皮亚杰理论家，进一步发展了 Pascual-Leone 的双因素认知发展模型，提出四子域发展模型。
 type: person
-tags: [Case, paradigm/constructivist, neo-piagetian]
-related_theories: ["[[neo-piagetian-theories]]", "[[piagets-theory-of-cognitive-development]]"]
-related_concepts: ["[[working-memory]]", "[[executive-function]]"]
-related_persons: ["[[Juan Pascual-Leone]]", "[[Jean Piaget]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+nationality: global
+tags:
+- Case
+- paradigm/constructivist
+- neo-piagetian
+related_concepts:
+- '[[working-memory]]'
+- '[[executive-function]]'
+related_theories:
+- '[[neo-piagetian-theories]]'
+- '[[piagets-theory-of-cognitive-development]]'
+related_methods: []
+related_persons:
+- '[[Juan Pascual-Leone]]'
+- '[[Jean Piaget]]'
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: low
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 简介

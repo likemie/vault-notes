@@ -1,19 +1,35 @@
 ---
 title: Jane Knight
-aliases: ["简·奈特", "Jane Knight"]
+aliases:
+- 简·奈特
+- Jane Knight
+- Knight
+summary: Jane Knight，加拿大多伦多大学安大略教育研究院（OISE/University of Toronto）国际教育与跨境高等教育学者。
 type: person
-tags: ["region/canada", "level/higher-ed", "discipline/international-education"]
-related_concepts: ["[[International Education Hubs]]", "[[Internationalization of Higher Education]]", "[[GATS and Trade in Education Services]]", "[[Geopolitics of Knowledge]]"]
+nationality: global
+tags:
+- region/canada
+- level/higher-ed
+- discipline/international-education
+related_concepts:
+- '[[International Education Hubs]]'
+- '[[Internationalization of Higher Education]]'
+- '[[GATS and Trade in Education Services]]'
+- '[[Geopolitics of Knowledge]]'
 related_theories: []
-related_persons: ["[[Sami Moisio]]", "[[Marcelo Parreira do Amaral]]"]
 related_methods: []
-related_arguments: ["[[Argument_Zapp_2022_Springer]]"]
-related_facts: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md", "[[Ch9_Zapp_2022]]"]
+related_persons:
+- '[[Sami Moisio]]'
+- '[[Marcelo Parreira do Amaral]]'
+related_arguments:
+- '[[Argument_Zapp_2022_Springer]]'
+sources:
+- '[[Ch3_Parreira do Amaral_2022]]'
+- '[[Ch9_Zapp_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-12
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 # Jane Knight

@@ -1,16 +1,36 @@
 ---
 title: Covariate Adjustment
+aliases:
+- 协变量控制
+- 协变量调整
+summary: 协变量控制（Covariate Adjustment）是在分析某一因素与结果之间关系时，把可能影响结果的第三变量纳入模型，以检验原有差异是否仍然存在。
 type: method
-tags: [covariate-adjustment, covariate, causal-inference, statistical-modeling, quantitative-methods]
+method_type: quantitative
+tags:
+- covariate-adjustment
+- covariate
+- causal-inference
+- statistical-modeling
+- quantitative-methods
+related_concepts:
+- '[[Effect Size]]'
+- '[[Statistical Significance]]'
 related_theories: []
-related_concepts: ["[[Effect Size]]", "[[Statistical Significance]]"]
-related_methods: ["[[Causal Modeling]]", "[[Matching]]", "[[Observational and Correlational Research]]", "[[Meta-analysis]]", "[[Meta-meta-analysis]]"]
+related_methods:
+- '[[Causal Modeling]]'
+- '[[Matching]]'
+- '[[Observational and Correlational Research]]'
+- '[[Meta-analysis]]'
+- '[[Meta-meta-analysis]]'
 related_persons: []
-sources: ["sources/Allerup_2015_Paideia.md", "sources/Berk_2011_ER.md"]
+related_arguments: []
+sources:
+- '[[Allerup_2015_Paideia]]'
+- '[[Berk_2011_ER]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

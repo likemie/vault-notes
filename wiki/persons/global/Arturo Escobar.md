@@ -1,18 +1,36 @@
 ---
 title: Arturo Escobar
-aliases: []
+aliases:
+- Escobar
+summary: Arturo Escobar，哥伦比亚裔美国人类学家和设计理论家，以 pluriverse（多元世界）和 [[Transition Design]]（转型设计）概念著称。
 type: person
-tags: [Arturo-Escobar, design, pluriverse, decolonial, transition-design]
-related_concepts: ["[[Transition Design]]", "[[Mondialisation]]", "[[Posthumanism]]", "[[Ubuntu]]", "[[Buen Vivir]]"]
-related_theories: ["[[Autopoiesis]]"]
-related_persons: ["[[Francisco Varela]]", "[[Humberto Maturana]]", "[[Donna Haraway]]"]
+nationality: global
+tags:
+- Arturo-Escobar
+- design
+- pluriverse
+- decolonial
+- transition-design
+related_concepts:
+- '[[Transition Design]]'
+- '[[Mondialisation]]'
+- '[[Posthumanism]]'
+- '[[Ubuntu]]'
+- '[[Buen Vivir]]'
+related_theories:
+- '[[Autopoiesis]]'
 related_methods: []
+related_persons:
+- '[[Francisco Varela]]'
+- '[[Humberto Maturana]]'
+- '[[Donna Haraway]]'
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 简介

@@ -1,15 +1,38 @@
 ---
 title: Causal Modeling
+aliases:
+- 因果建模
+- 结构方程建模
+- SEM
+summary: 因果建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, SEM），是随机实验之外最常用的因果推断替代方法。
 type: method
-tags: [causal-modeling, structural-equation-modeling, SEM, subject/research-methodology, paradigm/positivist]
-related_concepts: ["[[Potential Outcomes Framework]]", "[[Recommendations for Practice]]"]
-related_methods: ["[[Matching]]", "[[Covariate Adjustment]]", "[[Randomised Controlled Trials]]", "[[Non-intervention Research]]", "[[Observational and Correlational Research]]"]
+method_type: quantitative
+tags:
+- causal-modeling
+- structural-equation-modeling
+- SEM
+- subject/research-methodology
+- paradigm/positivist
+related_concepts:
+- '[[Potential Outcomes Framework]]'
+- '[[Recommendations for Practice]]'
+related_theories: []
+related_methods:
+- '[[Matching]]'
+- '[[Covariate Adjustment]]'
+- '[[Randomised Controlled Trials]]'
+- '[[Non-intervention Research]]'
+- '[[Observational and Correlational Research]]'
 related_persons: []
-sources: ["sources/Berk_2011_ER.md", "sources/Allerup_2015_Paideia.md", "sources/Brady_2023_EPR.md"]
+related_arguments: []
+sources:
+- '[[Berk_2011_ER]]'
+- '[[Allerup_2015_Paideia]]'
+- '[[Brady_2023_EPR]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-05
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

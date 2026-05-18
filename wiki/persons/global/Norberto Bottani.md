@@ -1,15 +1,32 @@
 ---
 title: Norberto Bottani
+aliases:
+- Bottani
+summary: Norberto Bottani 是国际教育指标开发史上的关键人物。
 type: person
-tags: [Norberto Bottani, OECD, education indicators, INES, region/switzerland, paradigm/positivist]
-related_theories: ["[[Performativity of Measurement]]"]
-related_concepts: ["[[International Indicators of Education Systems (INES)]]", "[[Education at a Glance (EAG)]]", "[[Performance Indicators]]"]
+nationality: global
+tags:
+- Norberto Bottani
+- OECD
+- education indicators
+- INES
+- region/switzerland
+- paradigm/positivist
+related_concepts:
+- '[[International Indicators of Education Systems (INES)]]'
+- '[[Education at a Glance (EAG)]]'
+- '[[Performance Indicators]]'
+related_theories:
+- '[[Performativity of Measurement]]'
+related_methods: []
 related_persons: []
-sources: ["sources/Gorur_2014_Discourse.md"]
+related_arguments: []
+sources:
+- '[[Gorur_2014_Discourse]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

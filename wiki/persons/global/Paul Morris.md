@@ -1,17 +1,32 @@
 ---
 title: Paul Morris
+aliases:
+- Morris
+summary: Paul Morris 是伦敦大学学院（UCL）教育与社会学院（Institute of Education, Department of Education, Practice and Society）的教授。
 type: person
-tags: [Paul Morris, curriculum-change, Hong-Kong, comparative-education, region/uk, region/china]
-related_theories: [ "[[Cuban's Curriculum Change Theory]]"]
-related_concepts: ["[[Liberal Studies (Hong Kong)]]", "[[National Education in Hong Kong]]"]
+nationality: global
+tags:
+- Paul Morris
+- curriculum-change
+- Hong-Kong
+- comparative-education
+- region/uk
+- region/china
+related_concepts:
+- '[[Liberal Studies (Hong Kong)]]'
+- '[[National Education in Hong Kong]]'
+related_theories:
+- '[[Cuban''s Curriculum Change Theory]]'
+related_methods: []
 related_persons: []
-related_facts: ["[[Transnationalism and America Project SYSU]]"]
-related_arguments: ["[[Argument_Ryan_2010_HKUP]]"]
-sources: ["sources/Yan_2025_JCS.md"]
+related_arguments:
+- '[[Argument_Ryan_2010_HKUP]]'
+sources:
+- '[[Yan_2025_JCS]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

@@ -1,18 +1,34 @@
 ---
 title: Jean-François Lyotard
-aliases: ["Lyotard", "利奥塔", "让-弗朗索瓦·利奥塔"]
+aliases:
+- Lyotard
+- 利奥塔
+- 让-弗朗索瓦·利奥塔
+- Jean-Francois Lyotard
+summary: Jean-François Lyotard（1924–1998），法国后结构主义哲学家，以其对后现代状况的分析而闻名。
 type: person
-tags: ["region/france", "postmodernism", "philosophy", "knowledge"]
-related_concepts: ["[[Narrative Knowledge]]", "[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Forced Knowledge Transfer]]"]
+nationality: france
+tags:
+- region/france
+- postmodernism
+- philosophy
+- knowledge
+related_concepts:
+- '[[Narrative Knowledge]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Transfer]]'
+- '[[Forced Knowledge Transfer]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Jean-François Lyotard

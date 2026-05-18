@@ -1,18 +1,37 @@
 ---
 title: Frantz Fanon
-aliases: ["Fanon", "法农", "弗朗茨·法农"]
+aliases:
+- Fanon
+- 法农
+- 弗朗茨·法农
+summary: Frantz Fanon（1925–1961），出生于法属马提尼克（Martinique）的精神病学家、哲学家和革命理论家，去殖民化运动的核心思想人物。
 type: person
-tags: ["region/france", "region/africa", "decolonization", "postcolonial-studies", "psychiatry"]
-related_concepts: ["[[Forced Knowledge Transfer]]", "[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Narrative Knowledge]]"]
-related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
+nationality: global
+tags:
+- region/france
+- region/africa
+- decolonization
+- postcolonial-studies
+- psychiatry
+related_concepts:
+- '[[Forced Knowledge Transfer]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Transfer]]'
+- '[[Narrative Knowledge]]'
+related_theories:
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
-related_persons: ["[[Chen Kuan-Hsing]]", "[[Jean-Paul Sartre]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_persons:
+- '[[Chen Kuan-Hsing]]'
+- '[[Jean-Paul Sartre]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Frantz Fanon

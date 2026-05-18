@@ -1,14 +1,25 @@
 ---
 title: Julian Williams
+aliases:
+- Williams
+summary: 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究中的"第三空间"（third spaces）、研究-政策-实践的混合活动设计、替代性学习结果测量。
 type: person
-tags: [Julian Williams, region/uk]
+nationality: uk
+tags:
+- Julian Williams
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
 related_theories: []
-related_concepts: ["[[Evidence-Based Education]]"]
-sources: ["sources/Pampaka_2016_IJRME.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Pampaka_2016_IJRME]]'
 confidence: low
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

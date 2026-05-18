@@ -1,14 +1,29 @@
 ---
 title: Jean Piaget
+aliases: []
+summary: 瑞士心理学家，建构主义与认知发展阶段论的创始人。他是第一位系统研究认知发展的心理学家，开创了考察学习的新方法。
 type: person
-tags: [Piaget, paradigm/constructivist, region/switzerland]
-related_theories: ["[[piagets-theory-of-cognitive-development]]"]
-related_concepts: ["[[executive-function]]", "[[prefrontal-cortex]]", "[[Dynamic Knowledge and Learning Model]]"]
-sources: ["sources/Qvortrup_2015_Paideia.md", "sources/Bolton_2017_ArchPsych.md"]
+nationality: global
+tags:
+- Piaget
+- paradigm/constructivist
+- region/switzerland
+related_concepts:
+- '[[executive-function]]'
+- '[[prefrontal-cortex]]'
+- '[[Dynamic Knowledge and Learning Model]]'
+related_theories:
+- '[[piagets-theory-of-cognitive-development]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Qvortrup_2015_Paideia]]'
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-05
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 简介

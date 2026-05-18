@@ -1,15 +1,27 @@
 ---
 title: Carnivalesque Analysis
+aliases:
+- 嘉年华式分析
+summary: Carnivalesque analysis（嘉年华式分析）是 Aydarova（2020）基于 Bakhtin 的嘉年华（carnival）概念发展的质性研究方法：研究者以"嘉年华小丑"（joker）的角色介入数据，通过打乱官方叙事、追踪矛盾和并置不同来源的数据，揭露被主导话语掩盖的"非官方真相"。
 type: method
-tags: [carnivalesque-analysis, qualitative-research, paradigm/critical]
-related_concepts: ["[[Moral Sidestep]]"]
-related_theories: ["[[Legitimation Theory Van Leeuwen]]"]
-related_facts: ["[[Ofsted]]", "[[Selective Schools Expansion Fund 2018]]"]
-sources: ["sources/Bainbridge_2022_ROE.md"]
+method_type: qualitative
+tags:
+- carnivalesque-analysis
+- qualitative-research
+- paradigm/critical
+related_concepts:
+- '[[Moral Sidestep]]'
+related_theories:
+- '[[Legitimation Theory Van Leeuwen]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Bainbridge_2022_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-07
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 定义

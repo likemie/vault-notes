@@ -1,15 +1,25 @@
 ---
 title: Christopher Day
+aliases: []
+summary: Christopher Day，英国教育研究者，ISSPP（International Successful School Principalship Project）项目的创始人和领导者。
 type: person
-tags: [Christopher Day, region/uk]
+nationality: uk
+tags:
+- Christopher Day
+- region/uk
+related_concepts:
+- '[[School Leadership]]'
 related_theories: []
-related_concepts: ["[[School Leadership]]"]
-related_persons: ["[[Jorunn Møller]]"]
-sources: ["sources/Møller_2017_EERJ.md"]
+related_methods: []
+related_persons:
+- '[[Jorunn Møller]]'
+related_arguments: []
+sources:
+- '[[Møller_2017_EERJ]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

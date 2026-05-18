@@ -1,14 +1,32 @@
 ---
 title: John Biggs
+aliases:
+- Biggs
+summary: John Biggs，澳大利亚教育心理学家，以"建构性对齐"（Constructive Alignment）和 SOLO 分类法（Structure of Observed Learning Outcomes）闻名。Rømer (2018) 将其定位为 1990 年代激进建构主义运动的一部分。
 type: person
-tags: [Biggs, paradigm/constructivist, region/australia]
-related_theories: ["[[Radical Constructivism]]"]
-related_concepts: ["[[Visible Learning]]", "[[Constructive Alignment]]", "[[Surface and Deep Learning]]", "[[Dynamic Knowledge and Learning Model]]"]
-sources: ["sources/Hattie_2015_SOTLP.md", "sources/Qvortrup_2015_Paideia.md", "sources/Romer_2018_EPT.md"]
+nationality: global
+tags:
+- Biggs
+- paradigm/constructivist
+- region/australia
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Constructive Alignment]]'
+- '[[Surface and Deep Learning]]'
+- '[[Dynamic Knowledge and Learning Model]]'
+related_theories:
+- '[[Radical Constructivism]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Hattie_2015_SOTLP]]'
+- '[[Qvortrup_2015_Paideia]]'
+- '[[Romer_2018_EPT]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-05
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 简介

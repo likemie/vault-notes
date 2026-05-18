@@ -1,16 +1,54 @@
 ---
 title: Meta-analysis
+aliases:
+- 元分析
+summary: 元分析（Meta-analysis）是一种统计方法，通过计算多项原始研究的平均[[Effect Size|效应量]]来综合研究证据。
 type: method
-tags: [meta-analysis, effect-size, evidence-based-education, statistical-synthesis, methodology]
-related_theories: ["[[Critical Realism]]"]
-related_concepts: ["[[Effect Size]]", "[[Statistical Significance]]", "[[Confidence Interval]]", "[[Evidence-Based Education]]", "[[Visible Learning]]", "[[Publication Bias]]"]
-related_methods: ["[[Meta-meta-analysis]]", "[[Covariate Adjustment]]"]
-related_persons: ["[[Dylan Wiliam]]", "[[John Hattie]]", "[[Adrian Simpson]]", "[[Ray Pawson]]", "[[Lars Qvortrup]]"]
-sources: ["sources/Snook_2009_NZJES.md", "sources/Snook_2010_NZJES.md", "sources/Terhart_2011_JCS.md", "sources/Berk_2011_ER.md", "sources/Hattie_2015_SOTLP.md", "sources/Qvortrup_2015_Paideia.md", "sources/Allerup_2015_Paideia.md", "sources/Simpson_2017_JEP.md", "sources/Wecker_2016_ZfE.md", "sources/Qvortrup_2019_NordSTEP.md", "sources/Wiliam_2019_ERE.md", "sources/Wrigley_2019_ERE.md", "sources/OConnor_2020_AJLL.md", "sources/ONeill_2012_NZJES.md"]
+method_type: quantitative
+tags:
+- meta-analysis
+- effect-size
+- evidence-based-education
+- statistical-synthesis
+- methodology
+related_concepts:
+- '[[Effect Size]]'
+- '[[Statistical Significance]]'
+- '[[Confidence Interval]]'
+- '[[Evidence-Based Education]]'
+- '[[Visible Learning]]'
+- '[[Publication Bias]]'
+related_theories:
+- '[[Critical Realism]]'
+related_methods:
+- '[[Meta-meta-analysis]]'
+- '[[Covariate Adjustment]]'
+related_persons:
+- '[[Dylan Wiliam]]'
+- '[[John Hattie]]'
+- '[[Adrian Simpson]]'
+- '[[Ray Pawson]]'
+- '[[Lars Qvortrup]]'
+related_arguments: []
+sources:
+- '[[Snook_2009_NZJES]]'
+- '[[Snook_2010_NZJES]]'
+- '[[Terhart_2011_JCS]]'
+- '[[Berk_2011_ER]]'
+- '[[Hattie_2015_SOTLP]]'
+- '[[Qvortrup_2015_Paideia]]'
+- '[[Allerup_2015_Paideia]]'
+- '[[Simpson_2017_JEP]]'
+- '[[Wecker_2016_ZfE]]'
+- '[[Qvortrup_2019_NordSTEP]]'
+- '[[Wiliam_2019_ERE]]'
+- '[[Wrigley_2019_ERE]]'
+- '[[OConnor_2020_AJLL]]'
+- '[[ONeill_2012_NZJES]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-07
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 定义

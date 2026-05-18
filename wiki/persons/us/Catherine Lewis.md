@@ -1,14 +1,27 @@
 ---
 title: Catherine Lewis
+aliases:
+- Lewis
+summary: Catherine Lewis，美国教育研究者，以对改进科学（Improvement Science）在教育中应用的倡导著称。
 type: person
-tags: [Catherine-Lewis, improvement-science, education-research, region/us]
-related_concepts: ["[[Improvement Science]]"]
+nationality: us
+tags:
+- Catherine-Lewis
+- improvement-science
+- education-research
+- region/us
+related_concepts:
+- '[[Improvement Science]]'
 related_theories: []
-sources: ["sources/Peterson_2016_IJRME.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Peterson_2016_IJRME]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

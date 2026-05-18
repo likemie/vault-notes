@@ -1,16 +1,35 @@
 ---
 title: Matching
+aliases:
+- 匹配
+- SEM
+summary: 匹配（Matching）是一种观察性研究的因果推断方法，通过在处理组和对照组之间匹配协变量分布相似的研究对象，使两组在可观测特征上变得可比。
 type: method
-tags: [matching, observational-studies, causal-inference, subject/research-methodology, paradigm/positivist]
-related_concepts: ["[[Potential Outcomes Framework]]", "[[Stable Unit Treatment Value Assumption (SUTVA)]]"]
+method_type: quantitative
+tags:
+- matching
+- observational-studies
+- causal-inference
+- subject/research-methodology
+- paradigm/positivist
+related_concepts:
+- '[[Potential Outcomes Framework]]'
+- '[[Stable Unit Treatment Value Assumption (SUTVA)]]'
 related_theories: []
-related_methods: ["[[Randomised Controlled Trials]]", "[[Causal Modeling]]", "[[Covariate Adjustment]]", "[[Non-intervention Research]]", "[[Observational and Correlational Research]]"]
+related_methods:
+- '[[Randomised Controlled Trials]]'
+- '[[Causal Modeling]]'
+- '[[Covariate Adjustment]]'
+- '[[Non-intervention Research]]'
+- '[[Observational and Correlational Research]]'
 related_persons: []
-sources: ["sources/Berk_2011_ER.md"]
+related_arguments: []
+sources:
+- '[[Berk_2011_ER]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-05
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 定义

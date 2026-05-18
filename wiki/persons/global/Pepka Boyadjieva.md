@@ -1,17 +1,32 @@
 ---
 title: Pepka Boyadjieva
-aliases: ["Boyadjieva", "佩普卡·博亚季耶娃"]
+aliases:
+- Boyadjieva
+- 佩普卡·博亚季耶娃
+summary: Pepka Boyadjieva 是保加利亚科学院（Bulgarian Academy of Sciences）哲学与社会学研究所（Institute of Philosophy and Sociology）的研究者。
 type: person
-tags: [person, higher-education, rankings, region/bulgaria, capability-approach]
-related_concepts: ["[[Global Universities Rankings]]"]
-related_theories: ["[[Capability Approach in Education]]"]
-related_persons: ["[[Ellen Hazelkorn]]"]
-related_arguments: ["[[Argument_Boyadjieva_2022_Springer]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022.md"]
+nationality: global
+tags:
+- person
+- higher-education
+- rankings
+- region/bulgaria
+- capability-approach
+related_concepts:
+- '[[Global Universities Rankings]]'
+related_theories:
+- '[[Capability Approach in Education]]'
+related_methods: []
+related_persons:
+- '[[Ellen Hazelkorn]]'
+related_arguments:
+- '[[Argument_Boyadjieva_2022_Springer]]'
+sources:
+- '[[Ch8_Boyadjieva_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-12
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Pepka Boyadjieva

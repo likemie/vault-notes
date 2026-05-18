@@ -1,15 +1,27 @@
 ---
 title: Carolyn Shields
+aliases:
+- Shields
+summary: Carolyn Shields，加拿大教育研究者，以提出**变革型领导力**（Transformative Leadership）框架而著称。
 type: person
-tags: [Carolyn Shields, region/canada]
+nationality: global
+tags:
+- Carolyn Shields
+- region/canada
+related_concepts:
+- '[[Transformative Leadership]]'
+- '[[School Leadership]]'
 related_theories: []
-related_concepts: ["[[Transformative Leadership]]", "[[School Leadership]]"]
-related_persons: ["[[Jorunn Møller]]"]
-sources: ["sources/Møller_2017_EERJ.md"]
+related_methods: []
+related_persons:
+- '[[Jorunn Møller]]'
+related_arguments: []
+sources:
+- '[[Møller_2017_EERJ]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

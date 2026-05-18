@@ -1,13 +1,30 @@
 ---
 title: Marcia Baxter Magolda
+aliases:
+- Magolda
+summary: Marcia Baxter Magolda 是美国教育心理学家，迈阿密大学（Miami University）教育领导力系教授。
 type: person
-tags: [Marcia Baxter Magolda, psychology, higher-education, region/us]
-related_concepts: ["[[Self-Authorship]]", "[[Goal-Controlled Mode]]", "[[Intuition-Dependent Mode]]", "[[Self-Driven Mode]]"]
-sources: ["[[郑_2023_上海三联书店]]"]
+nationality: us
+tags:
+- Marcia Baxter Magolda
+- psychology
+- higher-education
+- region/us
+related_concepts:
+- '[[Self-Authorship]]'
+- '[[Goal-Controlled Mode]]'
+- '[[Intuition-Dependent Mode]]'
+- '[[Self-Driven Mode]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-08
-updated: 2026-05-09
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 简介

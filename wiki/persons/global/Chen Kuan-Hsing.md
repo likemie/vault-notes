@@ -1,18 +1,38 @@
 ---
 title: Chen Kuan-Hsing
-aliases: ["Chen Kuan-Hsing", "陈光兴", "Kuan-Hsing Chen"]
+aliases:
+- Chen Kuan-Hsing
+- 陈光兴
+- Kuan-Hsing Chen
+- Kuan-Hsing
+summary: Chen Kuan-Hsing（陈光兴），台湾文化研究学者，国立交通大学社会与文化研究所教授，*Inter-Asia Cultural Studies* 期刊和运动的创始人和核心推动者。
 type: person
-tags: ["region/taiwan", "region/asia", "postcolonial-studies", "deimperialization", "decolonization"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Knowledge Transfer]]", "[[Forced Knowledge Transfer]]", "[[Narrative Knowledge]]"]
-related_theories: ["[[Decolonial Geopolitics of Knowledge]]"]
+nationality: global
+tags:
+- region/taiwan
+- region/asia
+- postcolonial-studies
+- deimperialization
+- decolonization
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Knowledge Transfer]]'
+- '[[Forced Knowledge Transfer]]'
+- '[[Narrative Knowledge]]'
+related_theories:
+- '[[Decolonial Geopolitics of Knowledge]]'
 related_methods: []
-related_persons: ["[[Frantz Fanon]]", "[[Walter Mignolo]]"]
-related_arguments: ["[[Argument_Partaken_2022_Springer]]"]
-sources: ["[[Ch5_Partaken_2022]]"]
+related_persons:
+- '[[Frantz Fanon]]'
+- '[[Walter Mignolo]]'
+related_arguments:
+- '[[Argument_Partaken_2022_Springer]]'
+sources:
+- '[[Ch5_Partaken_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-10
-updated: 2026-05-10
+created: '2026-05-10'
+updated: '2026-05-18'
 ---
 
 # Chen Kuan-Hsing

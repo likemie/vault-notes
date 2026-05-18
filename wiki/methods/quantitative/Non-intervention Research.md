@@ -1,15 +1,35 @@
 ---
 title: Non-intervention Research
+aliases:
+- 非干预研究
+summary: 非干预研究（Non-intervention Research）是不操纵自变量的研究集合。Brady et al. (2023) 的分类中。
 type: method
-tags: [non-intervention-research, educational-psychology, causal-inference, research-methodology]
+method_type: quantitative
+tags:
+- non-intervention-research
+- educational-psychology
+- causal-inference
+- research-methodology
+related_concepts:
+- '[[Recommendations for Practice]]'
+- '[[Evidence-Based Education]]'
 related_theories: []
-related_concepts: ["[[Recommendations for Practice]]", "[[Evidence-Based Education]]"]
-related_methods: ["[[Intervention Research]]", "[[Randomised Controlled Trials]]", "[[Observational and Correlational Research]]", "[[Qualitative Research]]", "[[Mixed Method and Multi-method Research]]", "[[Causal Modeling]]", "[[Matching]]"]
-sources: ["sources/Brady_2023_EPR.md"]
+related_methods:
+- '[[Intervention Research]]'
+- '[[Randomised Controlled Trials]]'
+- '[[Observational and Correlational Research]]'
+- '[[Qualitative Research]]'
+- '[[Mixed Method and Multi-method Research]]'
+- '[[Causal Modeling]]'
+- '[[Matching]]'
+related_persons: []
+related_arguments: []
+sources:
+- '[[Brady_2023_EPR]]'
 confidence: medium
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,25 +1,30 @@
 ---
 title: Doreen Massey
 aliases:
-  - 多琳·马西
+- 多琳·马西
+- Massey
+summary: Doreen Massey（1944–2016），英国人文地理学家，以对空间、地方和权力的关系性理论著称。
 type: person
+nationality: uk
 tags:
-  - region/uk
-  - field/human-geography
-  - field/higher-education
+- region/uk
+- field/human-geography
+- field/higher-education
 related_concepts:
-  - "[[Multiplicity (Massey)]]"
-  - "[[Power-Geometries]]"
-  - "[[Space-Making in Higher Education]]"
-  - "[[Methodological Nationalism]]"
+- '[[Multiplicity (Massey)]]'
+- '[[Power-Geometries]]'
+- '[[Space-Making in Higher Education]]'
+- '[[Methodological Nationalism]]'
 related_theories: []
+related_methods: []
 related_persons: []
+related_arguments: []
 sources:
-  - "[[Marginson_2025_ROE]]"
+- '[[Marginson_2025_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-12
-updated: 2026-05-12
+created: '2026-05-12'
+updated: '2026-05-18'
 ---
 
 # Doreen Massey

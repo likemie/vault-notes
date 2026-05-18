@@ -1,18 +1,30 @@
 ---
 title: Julian Huxley
-aliases: []
+aliases:
+- Huxley
+summary: Julian Huxley（1887–1975），英国生物学家和科学管理者，UNESCO 第一任总干事（1946–1948）。
 type: person
-tags: [Julian-Huxley, transhumanism, UNESCO, eugenics, scientific-humanism, region/uk]
-related_concepts: ["[[Transhumanism]]", "[[Posthumanism]]"]
+nationality: uk
+tags:
+- Julian-Huxley
+- transhumanism
+- UNESCO
+- eugenics
+- scientific-humanism
+- region/uk
+related_concepts:
+- '[[Transhumanism]]'
+- '[[Posthumanism]]'
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md"]
+sources:
+- '[[Ch4_Amos_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-08
-updated: 2026-05-10
+created: '2026-05-08'
+updated: '2026-05-18'
 ---
 
 ## 简介

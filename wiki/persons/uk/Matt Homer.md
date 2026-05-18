@@ -1,14 +1,24 @@
 ---
 title: Matt Homer
+aliases: []
+summary: 利兹大学（University of Leeds）教育研究者，研究方向为教育研究方法论、定量研究方法、"什么有效"议程的批判性评估。
 type: person
-tags: [Matt Homer, region/uk]
+nationality: uk
+tags:
+- Matt Homer
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
 related_theories: []
-related_concepts: ["[[Evidence-Based Education]]"]
-sources: ["sources/Pampaka_2016_IJRME.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Pampaka_2016_IJRME]]'
 confidence: low
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

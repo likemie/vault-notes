@@ -1,18 +1,42 @@
 ---
 title: Walter Mignolo
-aliases: ["Mignolo", "Walter D. Mignolo", "米尼奥洛"]
+aliases:
+- Mignolo
+- Walter D. Mignolo
+- 米尼奥洛
+summary: Walter D. Mignolo（1941–）是阿根廷裔美国符号学家、文学理论家和去殖民思想家。
 type: person
-tags: ["region/us", "region/argentina", "field/decolonial-theory", "field/epistemology", "field/postcolonial-studies", "field/literary-theory"]
-related_concepts: ["[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Ganz-Methode]]", "[[Life Power]]", "[[Tense Society]]"]
-related_theories: ["[[Decolonial Geopolitics of Knowledge]]", "[[Critical Geopolitics]]", "[[Creative Tension of Sense]]"]
+nationality: global
+tags:
+- region/us
+- region/argentina
+- field/decolonial-theory
+- field/epistemology
+- field/postcolonial-studies
+- field/literary-theory
+related_concepts:
+- '[[Geopolitics of Knowledge]]'
+- '[[Classical Geopolitics]]'
+- '[[Ganz-Methode]]'
+- '[[Life Power]]'
+- '[[Tense Society]]'
+related_theories:
+- '[[Decolonial Geopolitics of Knowledge]]'
+- '[[Critical Geopolitics]]'
+- '[[Creative Tension of Sense]]'
 related_methods: []
-related_persons: ["[[Dell Delambre]]"]
-related_arguments: ["[[Argument_Parreira do Amaral_2022_Springer]]", "[[Argument_Delambre_2022_Springer]]"]
-sources: ["[[Ch3_Parreira do Amaral_2022]]", "[[Ch7_Delambre_2022]]"]
+related_persons:
+- '[[Dell Delambre]]'
+related_arguments:
+- '[[Argument_Parreira do Amaral_2022_Springer]]'
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch3_Parreira do Amaral_2022]]'
+- '[[Ch7_Delambre_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-11
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 # Walter Mignolo

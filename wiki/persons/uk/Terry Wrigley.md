@@ -1,17 +1,45 @@
 ---
 title: Terry Wrigley
+aliases:
+- Wrigley
+summary: Terry Wrigley 是英国诺桑比亚大学（Northumbria University）健康、社区与教育研究学院（School of Health, Community and Education Studies）教育研究者，曾任教于利兹大学和爱丁堡大学。
 type: person
-tags: [Terry Wrigley, evidence-based-education, critical-realism, educational-research-methodology, neoliberalism, region/uk]
-related_theories: ["[[Critical Realism]]"]
-related_concepts: ["[[Evidence-Based Education]]", "[[Evidence-Based Reform]]", "[[Effect Size]]", "[[Visible Learning]]", "[[Moral Sidestep]]"]
-related_persons: ["[[Sean McCusker]]", "[[Roy Bhaskar]]", "[[Ray Pawson]]", "[[Gary Thomas]]", "[[Adrian Simpson]]", "[[Gert Biesta]]", "[[John Hattie]]"]
-related_facts: ["[[EEF Teaching and Learning Toolkit]]"]
-related_arguments: ["[[Argument_Bainbridge_2022_ROE]]", "[[Argument_Wrigley_2019_ERE]]"]
-sources: ["sources/Wrigley_2018_BERJ.md", "sources/Wrigley_2019_ERE.md", "sources/Bainbridge_2022_ROE.md"]
+nationality: uk
+tags:
+- Terry Wrigley
+- evidence-based-education
+- critical-realism
+- educational-research-methodology
+- neoliberalism
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
+- '[[Effect Size]]'
+- '[[Visible Learning]]'
+- '[[Moral Sidestep]]'
+related_theories:
+- '[[Critical Realism]]'
+related_methods: []
+related_persons:
+- '[[Sean McCusker]]'
+- '[[Roy Bhaskar]]'
+- '[[Ray Pawson]]'
+- '[[Gary Thomas]]'
+- '[[Adrian Simpson]]'
+- '[[Gert Biesta]]'
+- '[[John Hattie]]'
+related_arguments:
+- '[[Argument_Bainbridge_2022_ROE]]'
+- '[[Argument_Wrigley_2019_ERE]]'
+sources:
+- '[[Wrigley_2018_BERJ]]'
+- '[[Wrigley_2019_ERE]]'
+- '[[Bainbridge_2022_ROE]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-07
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

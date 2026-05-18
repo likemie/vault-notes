@@ -1,14 +1,29 @@
 ---
 title: Chen Xie
+aliases: []
+summary: 谢晨（Chen Xie），华东师范大学国际与比较教育研究所（Institute of International and Comparative Education, East China Normal University）研究员。
 type: person
-tags: [Chen Xie, Xie Chen, region/china, evidence-based-reform, educational-technology]
-related_concepts: ["[[Evidence-Based Reform]]"]
-related_persons: ["[[Alan C. K. Cheung]]", "[[Robert Slavin]]"]
-sources: ["sources/Cheung_2021_ROE.md"]
+nationality: china
+tags:
+- Chen Xie
+- Xie Chen
+- region/china
+- evidence-based-reform
+- educational-technology
+related_concepts:
+- '[[Evidence-Based Reform]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Alan C. K. Cheung]]'
+- '[[Robert Slavin]]'
+related_arguments: []
+sources:
+- '[[Cheung_2021_ROE]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介

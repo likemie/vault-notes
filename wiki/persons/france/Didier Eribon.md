@@ -1,29 +1,32 @@
 ---
 title: Didier Eribon
 aliases:
-  - 迪迪埃·埃里蓬
-  - Didier Eribon
+- 迪迪埃·埃里蓬
+- Didier Eribon
+- Eribon
+summary: Didier Eribon（迪迪埃·埃里蓬），法国社会学家和哲学家，以其自传体社会学著作《回归故里》（*Retour à Reims*, 2009；中译本 2020，王献译，上海文化出版社）著称。
 type: person
+nationality: france
 tags:
-  - Didier-Eribon
-  - sociology
-  - social-class
-  - region/france
+- Didier-Eribon
+- sociology
+- social-class
+- region/france
 related_concepts:
-  - "[[Cultural Disorientation]]"
-  - "[[Cultural Disembedding]]"
-  - "[[Cultural Barrier in Higher Education]]"
+- '[[Cultural Disorientation]]'
+- '[[Cultural Disembedding]]'
+- '[[Cultural Barrier in Higher Education]]'
 related_theories: []
-related_persons:
-  - "[[wiki/persons/Pierre Bourdieu]]"
 related_methods: []
+related_persons:
+- '[[Pierre Bourdieu]]'
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+- '[[郑_2023_上海三联书店]]'
 confidence: low
 status: draft
-created: 2026-05-09
-updated: 2026-05-09
+created: '2026-05-09'
+updated: '2026-05-18'
 ---
 
 ## 简介

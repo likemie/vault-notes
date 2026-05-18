@@ -1,15 +1,37 @@
 ---
 title: Klaus Nielsen
+aliases:
+- Nielsen
+summary: Klaus Nielsen 是丹麦奥胡斯大学（Aarhus University）心理学系教授，研究兴趣为社会实践中学习、理论心理学和质性方法。
 type: person
-tags: [Klaus Nielsen, Visible Learning, legitimation-crisis, Habermas, technical-rationality, region/denmark]
-related_theories: ["[[Technical Rationality]]"]
-related_concepts: ["[[Visible Learning]]", "[[Evidence-Based Education]]", "[[Feedback]]"]
-related_persons: ["[[John Hattie]]", "[[Jürgen Habermas]]", "[[Jacob Klitmøller]]", "[[Donald A. Schön]]"]
-sources: ["sources/Nielsen_2021_IRTP.md", "sources/Nielsen_2021_NordPsych.md"]
+nationality: global
+tags:
+- Klaus Nielsen
+- Visible Learning
+- legitimation-crisis
+- Habermas
+- technical-rationality
+- region/denmark
+related_concepts:
+- '[[Visible Learning]]'
+- '[[Evidence-Based Education]]'
+- '[[Feedback]]'
+related_theories:
+- '[[Technical Rationality]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Jürgen Habermas]]'
+- '[[Jacob Klitmøller]]'
+- '[[Donald A. Schön]]'
+related_arguments: []
+sources:
+- '[[Nielsen_2021_IRTP]]'
+- '[[Nielsen_2021_NordPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-03
-updated: 2026-05-04
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 简介

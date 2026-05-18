@@ -1,18 +1,46 @@
 ---
 title: Sami Moisio
-aliases: ["萨米·莫伊西奥", "Sami Moisio"]
+aliases:
+- 萨米·莫伊西奥
+- Sami Moisio
+- Moisio
+summary: Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理系（Department of Geosciences and Geography）教授。
 type: person
-tags: ["region/finland", "level/higher-ed", "discipline/political-geography"]
-related_concepts: ["[[Knowledge-Based Economy]]", "[[Knowledge-Based Economization]]", "[[Geopolitics of Knowledge]]", "[[Classical Geopolitics]]", "[[Hub and Flow Imaginaries]]", "[[Spatial Sortings]]", "[[Geopolitical Subject]]", "[[National Competitive Advantage]]", "[[Economic Patriotism]]", "[[Progressive Neoliberalism]]", "[[International Education Hubs]]"]
-related_persons: ["[[Michael Porter]]", "[[Bob Jessop]]"]
-related_theories: ["[[Fixity-Motion Tension]]", "[[Critical Geopolitics]]"]
+nationality: global
+tags:
+- region/finland
+- level/higher-ed
+- discipline/political-geography
+related_concepts:
+- '[[Knowledge-Based Economy]]'
+- '[[Knowledge-Based Economization]]'
+- '[[Geopolitics of Knowledge]]'
+- '[[Classical Geopolitics]]'
+- '[[Hub and Flow Imaginaries]]'
+- '[[Spatial Sortings]]'
+- '[[Geopolitical Subject]]'
+- '[[National Competitive Advantage]]'
+- '[[Economic Patriotism]]'
+- '[[Progressive Neoliberalism]]'
+- '[[International Education Hubs]]'
+related_theories:
+- '[[Fixity-Motion Tension]]'
+- '[[Critical Geopolitics]]'
 related_methods: []
-related_arguments: ["[[Argument_Zapp_2022_Springer]]", "[[Argument_Hartmann_2022_CorporateEducation]]"]
-sources: ["books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md", "[[Ch9_Zapp_2022]]", "[[Ch11_Hartmann_2022]]"]
+related_persons:
+- '[[Michael Porter]]'
+- '[[Bob Jessop]]'
+related_arguments:
+- '[[Argument_Zapp_2022_Springer]]'
+- '[[Argument_Hartmann_2022_CorporateEducation]]'
+sources:
+- '[[Ch2_Moisio_2022]]'
+- '[[Ch9_Zapp_2022]]'
+- '[[Ch11_Hartmann_2022]]'
 confidence: medium
 status: draft
-created: 2026-05-07
-updated: 2026-05-12
+created: '2026-05-07'
+updated: '2026-05-18'
 ---
 
 ## 简介

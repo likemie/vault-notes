@@ -1,14 +1,30 @@
 ---
 title: Jacob Cohen
+aliases:
+- Cohen
+summary: Jacob Cohen 是美国统计学家，是 effect size（效应量）和 Cohen's d 解释框架的关键人物。
 type: person
-tags: [Jacob-Cohen, effect-size, statistics, psychology, region/us]
+nationality: us
+tags:
+- Jacob-Cohen
+- effect-size
+- statistics
+- psychology
+- region/us
+related_concepts:
+- '[[Effect Size]]'
+- '[[Statistical Significance]]'
 related_theories: []
-related_concepts: ["[[Effect Size]]", "[[Statistical Significance]]"]
-sources: ["sources/Allerup_2015_Paideia.md", "sources/Terhart_2011_JCS.md"]
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Allerup_2015_Paideia]]'
+- '[[Terhart_2011_JCS]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 简介

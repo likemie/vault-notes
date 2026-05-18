@@ -1,15 +1,29 @@
 ---
 title: Niklas Luhmann
+aliases:
+- Luhmann
+summary: Niklas Luhmann (1927–1998) 是德国社会学家，社会系统理论（Social Systems Theory）的创始人，20 世纪最具影响力的社会理论家之一。
 type: person
-tags: [Luhmann, paradigm/systems-theory, region/germany]
-related_theories: ["[[Luhmann's Systems Theory]]"]
-related_concepts: ["[[Blind Spot in Observation]]", "[[Structural Coupling]]"]
-related_persons: ["[[Steen Nepper Larsen]]"]
-sources: ["sources/Larsen_2019_EducSci.md"]
+nationality: germany
+tags:
+- Luhmann
+- paradigm/systems-theory
+- region/germany
+related_concepts:
+- '[[Blind Spot in Observation]]'
+- '[[Structural Coupling]]'
+related_theories:
+- '[[Luhmann''s Systems Theory]]'
+related_methods: []
+related_persons:
+- '[[Steen Nepper Larsen]]'
+related_arguments: []
+sources:
+- '[[Larsen_2019_EducSci]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 简介

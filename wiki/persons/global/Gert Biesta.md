@@ -1,16 +1,45 @@
 ---
 title: Gert Biesta
+aliases:
+- Biesta
+summary: Gert J. J. Biesta（荷兰籍）是当代最具影响力的教育哲学家之一。
 type: person
-tags: [Gert Biesta, educational-philosophy, evidence-based-education, pragmatism, Dewey, region/uk, region/netherlands]
-related_theories: ["[[Transactional Epistemology]]"]
-related_concepts: ["[[Evidence-Based Education]]", "[[Value-Based Education]]", "[[Complexity Reduction]]", "[[Learnification]]", "[[Moral Sidestep]]"]
-related_persons: ["[[John Hattie]]", "[[Thomas Aastrup Rømer]]", "[[Steen Nepper Larsen]]", "[[Terry Wrigley]]", "[[Nick Cowen]]"]
-related_arguments: ["[[Argument_Bainbridge_2022_ROE]]"]
-sources: ["sources/Biesta_2010_SPE.md", "sources/Romer_2018_EPT.md", "sources/Larsen_2019_EducSci.md", "sources/Wrigley_2019_ERE.md", "sources/Bainbridge_2022_ROE.md"]
+nationality: global
+tags:
+- Gert Biesta
+- educational-philosophy
+- evidence-based-education
+- pragmatism
+- Dewey
+- region/uk
+- region/netherlands
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Value-Based Education]]'
+- '[[Complexity Reduction]]'
+- '[[Learnification]]'
+- '[[Moral Sidestep]]'
+related_theories:
+- '[[Transactional Epistemology]]'
+related_methods: []
+related_persons:
+- '[[John Hattie]]'
+- '[[Thomas Aastrup Rømer]]'
+- '[[Steen Nepper Larsen]]'
+- '[[Terry Wrigley]]'
+- '[[Nick Cowen]]'
+related_arguments:
+- '[[Argument_Bainbridge_2022_ROE]]'
+sources:
+- '[[Biesta_2010_SPE]]'
+- '[[Romer_2018_EPT]]'
+- '[[Larsen_2019_EducSci]]'
+- '[[Wrigley_2019_ERE]]'
+- '[[Bainbridge_2022_ROE]]'
 confidence: high
 status: draft
-created: 2026-05-01
-updated: 2026-05-07
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

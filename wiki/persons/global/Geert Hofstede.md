@@ -1,14 +1,27 @@
 ---
 title: Geert Hofstede
+aliases:
+- Hofstede
+summary: Geert Hofstede 是国家文化研究中被 Laursen 称为"最有影响力"的学者。Laursen 引用 Hofstede、Hofstede 与 Minkov (2010) 的表述。
 type: person
-tags: [Geert-Hofstede, culture, national-culture]
-related_theories: ["[[Hofstede's Cultural Dimensions]]"]
-related_concepts: ["[[Effective Teaching]]"]
-sources: ["sources/Laursen_2015_Paideia.md"]
+nationality: global
+tags:
+- Geert-Hofstede
+- culture
+- national-culture
+related_concepts:
+- '[[Effective Teaching]]'
+related_theories:
+- '[[Hofstede''s Cultural Dimensions]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Laursen_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 简介

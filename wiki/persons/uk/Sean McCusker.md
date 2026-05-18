@@ -1,15 +1,28 @@
 ---
 title: Sean McCusker
+aliases:
+- McCusker
+summary: Sean McCusker 任职于英国诺桑比亚大学（Northumbria University）社会科学系（Department of Social Sciences）。
 type: person
-tags: [Sean McCusker, evidence-based-education, educational-research-methodology, region/uk]
-related_theories: ["[[Critical Realism]]"]
-related_concepts: ["[[Evidence-Based Education]]"]
+nationality: uk
+tags:
+- Sean McCusker
+- evidence-based-education
+- educational-research-methodology
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+related_theories:
+- '[[Critical Realism]]'
+related_methods: []
 related_persons: []
-sources: ["sources/Wrigley_2019_ERE.md"]
+related_arguments: []
+sources:
+- '[[Wrigley_2019_ERE]]'
 confidence: low
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

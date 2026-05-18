@@ -1,12 +1,26 @@
 ---
 title: Cognitive Task Analysis
+aliases:
+- 认知任务分析
+- CTA
+summary: 认知任务分析（Cognitive Task Analysis, CTA）是一种针对复杂学习情境的研究与教学方法，要求高水平的思维和决策能力。
 type: method
-tags: [cognitive-task-analysis, paradigm/cognitivist, level/higher-ed]
-sources: ["sources/Fredens_2015_Paideia.md"]
+method_type: qualitative
+tags:
+- cognitive-task-analysis
+- paradigm/cognitivist
+- level/higher-ed
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Fredens_2015_Paideia]]'
 confidence: low
 status: draft
-created: 2026-05-05
-updated: 2026-05-05
+created: '2026-05-05'
+updated: '2026-05-18'
 ---
 
 ## 定义

@@ -1,19 +1,35 @@
 ---
 title: Richard Castelo Branco
-aliases: ["Castelo Branco", "Richard Castelo Branco"]
+aliases:
+- Castelo Branco
+- Richard Castelo Branco
+- Branco
+summary: Richard Castelo Branco 是巴西剧场导演，里约热内卢 Rocinha 贫民窟剧场团体"Bando Cultural Favelados da Rocinha"的导演。
 type: person
-tags: ["region/brazil", "field/theater", "field/community-arts", "theme/resistance"]
-related_concepts: ["[[Epistemology of Resistance]]", "[[Ganz-Methode]]", "[[Life Power]]"]
-related_theories: ["[[Creative Tension of Sense]]"]
+nationality: global
+tags:
+- region/brazil
+- field/theater
+- field/community-arts
+- theme/resistance
+related_concepts:
+- '[[Epistemology of Resistance]]'
+- '[[Ganz-Methode]]'
+- '[[Life Power]]'
+related_theories:
+- '[[Creative Tension of Sense]]'
 related_methods: []
-related_persons: ["[[Dell Delambre]]", "[[Camilla de Hollanda Amado]]"]
-related_facts: []
-related_arguments: ["[[Argument_Delambre_2022_Springer]]"]
-sources: ["[[Ch7_Delambre_2022]]"]
+related_persons:
+- '[[Dell Delambre]]'
+- '[[Camilla de Hollanda Amado]]'
+related_arguments:
+- '[[Argument_Delambre_2022_Springer]]'
+sources:
+- '[[Ch7_Delambre_2022]]'
 confidence: low
 status: draft
-created: 2026-05-11
-updated: 2026-05-11
+created: '2026-05-11'
+updated: '2026-05-18'
 ---
 
 # Richard Castelo Branco

@@ -1,15 +1,29 @@
 ---
 title: David Phillips
+aliases:
+- Phillips
+summary: David Phillips 是牛津大学比较教育学教授，教育政策转移（educational policy transfer）研究领域的核心人物。
 type: person
-tags: [David-Phillips, comparative-education, policy-borrowing, region/uk]
-related_concepts: ["[[Cross-National Attraction]]", ]
+nationality: uk
+tags:
+- David-Phillips
+- comparative-education
+- policy-borrowing
+- region/uk
+related_concepts:
+- '[[Cross-National Attraction]]'
 related_theories: []
-related_persons: ["[[Kimberly Ochs]]", "[[Gita Steiner-Khamsi]]"]
-sources: ["sources/Rappleye_2006_RCIE.md"]
+related_methods: []
+related_persons:
+- '[[Kimberly Ochs]]'
+- '[[Gita Steiner-Khamsi]]'
+related_arguments: []
+sources:
+- '[[Rappleye_2006_RCIE]]'
 confidence: medium
 status: draft
-created: 2026-05-06
-updated: 2026-05-06
+created: '2026-05-06'
+updated: '2026-05-18'
 ---
 
 ## 简介

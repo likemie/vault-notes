@@ -1,14 +1,30 @@
 ---
 title: Functional Magnetic Resonance Imaging
+aliases:
+- 功能性磁共振成像
+- fMRI
+summary: 功能性磁共振成像（fMRI）是一种功能神经影像技术，通过测量特定脑区血液成分的存在来记录解剖学定义的脑活动，同时参与者在完成任务或活动。fMRI 在确定空间信息方面优于时间信息。
 type: method
-tags: [fMRI, neuroimaging, neuroscience, paradigm/positivist]
-related_concepts: ["[[prefrontal-cortex]]", "[[executive-function]]"]
-related_methods: ["[[electroencephalography]]"]
-sources: ["sources/Bolton_2017_ArchPsych.md"]
+method_type: quantitative
+tags:
+- fMRI
+- neuroimaging
+- neuroscience
+- paradigm/positivist
+related_concepts:
+- '[[prefrontal-cortex]]'
+- '[[executive-function]]'
+related_theories: []
+related_methods:
+- '[[electroencephalography]]'
+related_persons: []
+related_arguments: []
+sources:
+- '[[Bolton_2017_ArchPsych]]'
 confidence: medium
 status: draft
-created: 2026-05-04
-updated: 2026-05-04
+created: '2026-05-04'
+updated: '2026-05-18'
 ---
 
 ## 定义

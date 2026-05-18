@@ -1,15 +1,30 @@
 ---
 title: Roy Bhaskar
+aliases:
+- Bhaskar
+summary: Roy Bhaskar (1944–2014) 是英国哲学家，**批判实在论（Critical Realism）**的创始人。
 type: person
-tags: [Roy Bhaskar, critical-realism, philosophy-of-science, ontology, epistemology, region/uk]
-related_theories: ["[[Critical Realism]]"]
-related_concepts: ["[[Evidence-Based Education]]"]
+nationality: uk
+tags:
+- Roy Bhaskar
+- critical-realism
+- philosophy-of-science
+- ontology
+- epistemology
+- region/uk
+related_concepts:
+- '[[Evidence-Based Education]]'
+related_theories:
+- '[[Critical Realism]]'
+related_methods: []
 related_persons: []
-sources: ["sources/Wrigley_2019_ERE.md"]
+related_arguments: []
+sources:
+- '[[Wrigley_2019_ERE]]'
 confidence: medium
 status: draft
-created: 2026-05-01
-updated: 2026-05-01
+created: '2026-05-01'
+updated: '2026-05-18'
 ---
 
 ## 简介

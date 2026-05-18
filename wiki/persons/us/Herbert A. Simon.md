@@ -1,14 +1,29 @@
 ---
 title: Herbert A. Simon
+aliases:
+- Simon
+summary: Herbert A. Simon（1916–2001）是美国政治科学家、经济学家和认知心理学家，卡内基梅隆大学教授，1978 年诺贝尔经济学奖获得者。
 type: person
-tags: [Simon, bounded-rationality, decision-making, organizational-theory, region/us]
-related_theories: ["[[Bounded Rationality]]"]
-related_concepts: ["[[Professional Judgment]]"]
-sources: ["sources/Qvortrup_2019_NordSTEP.md"]
+nationality: us
+tags:
+- Simon
+- bounded-rationality
+- decision-making
+- organizational-theory
+- region/us
+related_concepts:
+- '[[Professional Judgment]]'
+related_theories:
+- '[[Bounded Rationality]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources:
+- '[[Qvortrup_2019_NordSTEP]]'
 confidence: low
 status: draft
-created: 2026-05-03
-updated: 2026-05-03
+created: '2026-05-03'
+updated: '2026-05-18'
 ---
 
 ## 简介

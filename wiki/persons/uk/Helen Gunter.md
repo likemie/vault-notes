@@ -1,15 +1,29 @@
 ---
 title: Helen Gunter
+aliases:
+- Gunter
+summary: Helen Gunter，英国教育研究者，以对教育领导力的批判性政策分析和知识政治研究著称。
 type: person
-tags: [Helen Gunter, region/uk]
+nationality: uk
+tags:
+- Helen Gunter
+- region/uk
+related_concepts:
+- '[[School Leadership]]'
+- '[[New Public Management in Education]]'
+- '[[Transformative Leadership]]'
 related_theories: []
-related_concepts: ["[[School Leadership]]", "[[New Public Management in Education]]", "[[Transformative Leadership]]"]
-related_persons: ["[[Jorunn Møller]]"]
-sources: ["sources/Møller_2017_EERJ.md", "sources/Eacott_2015_EPT.md"]
+related_methods: []
+related_persons:
+- '[[Jorunn Møller]]'
+related_arguments: []
+sources:
+- '[[Møller_2017_EERJ]]'
+- '[[Eacott_2015_EPT]]'
 confidence: medium
 status: draft
-created: 2026-05-02
-updated: 2026-05-02
+created: '2026-05-02'
+updated: '2026-05-18'
 ---
 
 ## 简介
