@@ -3365,5 +3365,23 @@
       "Deleuze societies of control",
       "société de contrôle"
     ]
+  },
+  {
+    "title": "Digital Self",
+    "path": "wiki/concepts/educational-technology/Digital Self.md",
+    "type": "concept",
+    "tags": [
+      "digital-self",
+      "datafication",
+      "subjectification",
+      "algorithmic-governance",
+      "learning-analytics",
+      "level/higher-ed",
+      "theme/digitalization",
+      "theme/subjectification"
+    ],
+    "status": "draft",
+    "created": "2026-05-20",
+    "updated": "2026-05-20"
   }
 ]
