@@ -3252,5 +3252,38 @@
   {
     "title": "Argument_ONeill_2016_Report",
     "path": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md"
+  },
+  {
+    "title": "Online Self-Assessment (OSA)",
+    "path": "wiki/concepts/higher-education/Online Self-Assessment (OSA).md",
+    "aliases": [
+      "在线自评工具",
+      "Online-Self-Assessment",
+      "OSA",
+      "在线学习选择检查",
+      "Online Study Choice Check"
+    ]
+  },
+  {
+    "title": "Promising Student",
+    "path": "wiki/concepts/higher-education/Promising Student.md",
+    "aliases": [
+      "有前景的学生",
+      "有前途的学生",
+      "promising student"
+    ]
+  },
+  {
+    "title": "German Online Self-Assessment Policy 2004",
+    "path": "wiki/facts/germany/German Online Self-Assessment Policy 2004.md",
+    "aliases": [
+      "德国在线自评政策 2004",
+      "Wissenschaftsrat 2004 OSA Recommendation",
+      "德国学术评议会 2004 自评工具建议"
+    ]
+  },
+  {
+    "title": "Argument_Thompson_2022_Promising_Student",
+    "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md"
   }
 ]
