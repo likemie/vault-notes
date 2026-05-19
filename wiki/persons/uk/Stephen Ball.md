@@ -28,9 +28,11 @@ updated: '2026-05-19'
 
 ## 简介
 
-Stephen Ball 是英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）教授，以研究教育政策社会学、私有化和政策网络著称。
+> [!info] 简介
+> Stephen Ball 是英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）教授，以研究教育政策社会学、私有化和政策网络著称。
 
 ## 核心贡献
+
 
 ### 内生与外生私有化（Ball & Youdell, 2008）
 
@@ -54,4 +56,5 @@ Ball（2012）将 Mintrom（2000）的政策创业者概念扩展至跨国维度
 Ball 的工作为理解教育中网络治理模式（network governance modality）提供了理论基础——传统的市场与科层治理形式如何被新的政策网络形式所补充或取代。参见 [[Network Governance]]。
 
 ## 来源
+
 - [[ONeill_2016_Report]]
