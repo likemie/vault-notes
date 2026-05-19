@@ -232,8 +232,7 @@
     "path": "wiki/concepts/educational-philosophy/Bildung.md",
     "aliases": [
       "教养"
-    ],
-    "updated": "2026-05-20"
+    ]
   },
   {
     "title": "Blind Spot in Observation",
@@ -473,8 +472,7 @@
       "认知治理",
       "global epistemic governance",
       "知识本位治理"
-    ],
-    "updated": "2026-05-20"
+    ]
   },
   {
     "title": "Global Regionalisms in Higher Education",
@@ -490,8 +488,7 @@
       "league tables",
       "global university rankings",
       "University Rankings (Global)"
-    ],
-    "updated": "2026-05-20"
+    ]
   },
   {
     "title": "Graduate Attributes",
@@ -872,8 +869,7 @@
       "地缘政治主体",
       "geopolitical subject",
       "geopolitical subjects"
-    ],
-    "updated": "2026-05-20"
+    ]
   },
   {
     "title": "Geopolitics of Knowledge",
@@ -882,8 +878,7 @@
       "知识地缘政治",
       "geopolitics of knowledge",
       "GPK"
-    ],
-    "updated": "2026-05-20"
+    ]
   },
   {
     "title": "Hub and Flow Imaginaries",
@@ -944,8 +939,7 @@
     "path": "wiki/concepts/political-economy-geopolitics/New Public Management.md",
     "aliases": [
       "新公共管理"
-    ],
-    "updated": "2026-05-20"
+    ]
   },
   {
     "title": "Performance Pay",
@@ -3341,6 +3335,10 @@
   {
     "title": "Argument_Hansen_2015_Paideia",
     "path": "wiki/arguments/journal-articles/Argument_Hansen_2015_Paideia.md"
+  },
+  {
+    "title": "Argument_Håkansson_2015_Paideia",
+    "path": "wiki/arguments/journal-articles/Argument_Håkansson_2015_Paideia.md"
   },
   {
     "title": "Argument_Laursen_2015_Paideia",

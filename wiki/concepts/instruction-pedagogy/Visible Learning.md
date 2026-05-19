@@ -92,6 +92,7 @@ sources:
 - '[[Hattie_2015_SOTLP]]'
 - '[[Laursen_2015_Paideia]]'
 - '[[Qvortrup_2015_Paideia]]'
+- '[[Håkansson_2015_Paideia]]'
 - '[[ONeill_2016_Report]]'
 - '[[Wecker_2016_ZfE]]'
 - '[[Bergeron_2017_MJE]]'
@@ -320,7 +321,7 @@ VL 品牌的传播依赖于 ACEL（澳大利亚教育领导力委员会）、Cog
 
 ### 各国政策采纳
 
-截至 2017 年 VL 已在至少 23 个国家被采用。新西兰和澳大利亚的政策重点从外部因素转向师生互动质量（[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]]）；丹麦 2014 年公立学校改革明确引用 VL，随后引发激烈反弹（Qvortrup, 2019）；俄罗斯 2017 年翻译出版 VL 俄文版，但 Golovchin（2019）建议俄教育政策不予采用。各国政策采纳的详细路径、制度嵌入和争议，详见 [[Visible Learning Branding and Global Influences]]。
+截至 2017 年 VL 已在至少 23 个国家被采用。新西兰和澳大利亚的政策重点从外部因素转向师生互动质量（[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]]）；丹麦 2014 年公立学校改革明确引用 VL，随后引发激烈反弹（Qvortrup, 2019）；瑞典在 2010 年代中期出现了 Håkansson 所说的“教学复兴”路径，即学校改进更集中到课堂近端策略、同伴观察、教师协作和围绕教学的系统性质量工作上，VL 在这里更像重组改进议程的催化剂，而不是单一处方（[[Argument_Håkansson_2015_Paideia|Håkansson, 2015]], pp.52–59）；俄罗斯 2017 年翻译出版 VL 俄文版，但 Golovchin（2019）建议俄教育政策不予采用。各国政策采纳的详细路径、制度嵌入和争议，详见 [[Visible Learning Branding and Global Influences]]。
 
 ### 品牌对批评的免疫与制度化反弹
 

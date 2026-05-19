@@ -5,15 +5,15 @@ aliases:
 - 认知治理
 - global epistemic governance
 - 知识本位治理
-summary: "Zapp (2022) 的概念：以规范、认知和知识为基础的全球治理机制，大学通过提供科学知识、培养治理专家和推行 USR 在去中心化全球治理中占据知识权威位置；Ch13 展示了这一逻辑的微观运作——OSA 通过数据知识对学生进行先发制人的主体治理"
+summary: "以规范、认知和知识为基础的全球治理机制，与强制和规制性硬治理形成对照；大学通过提供科学知识、培养全球治理专家和推行大学社会责任在去中心化全球治理架构中占据知识权威位置"
 type: concept
 tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - '[[Online Self-Assessment]]'
-  - '[[Promising Student]]'
-  - '[[Competitiveness in Higher Education]]'
+- '[[Online Self-Assessment]]'
+- '[[Promising Student]]'
+- '[[Competitiveness in Higher Education]]'
 - '[[Otherhood]]'
 - '[[Organizational Actorhood]]'
 - '[[Knowledge-Based Economy]]'
@@ -29,10 +29,10 @@ related_facts:
 - '[[UN Sustainable Development Goals 2015]]'
 - '[[THE Impact Ranking 2019]]'
 related_arguments:
-  - '[[Argument_Thompson_2022_Promising_Student]]'
+- '[[Argument_Thompson_2022_Promising_Student]]'
 - '[[Argument_Zapp_2022_Springer]]'
 sources:
-  - '[[Ch13_Thompson_2022]]'
+- '[[Ch13_Thompson_2022]]'
 - '[[Ch9_Zapp_2022]]'
 confidence: medium
 status: draft
