@@ -4,7 +4,7 @@ aliases:
 - 国际教育枢纽
 - IEH
 - International Education Hub
-summary: "Knight 提出的概念_国家将自身战略性地定位为教育、培训、知识生产和创新活动中心的地缘政治项目_包含学生、人才、知识创新三类递进模型_后经 Rizvi 和 Erfurth 分别从市场理性转向与双重运作维度加以拓展"
+summary: "Knight 提出的概念，国家将自身战略性地定位为教育、培训、知识生产和创新活动中心的地缘政治项目，包含学生、人才、知识创新三类递进模型，后经 Rizvi 和 Erfurth 分别从市场理性转向与双重运作维度加以拓展"
 type: concept
 tags:
 - international-education-hubs

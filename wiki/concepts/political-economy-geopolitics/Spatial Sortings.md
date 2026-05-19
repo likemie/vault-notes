@@ -4,7 +4,7 @@ aliases:
 - 空间分选
 - spatial sortings
 - 空间分化
-summary: "Moisio (2022) 的概念：知识密集型资本主义系统性地将地点和人口划分为\"赢家\"与\"输家\"的过程，由公共和私人投资驱动、国家中介"
+summary: "Moisio (2022) 的概念：知识密集型资本主义系统性地将地点和人口划分为赢家与输家的过程，由公共和私人投资驱动、国家中介"
 type: concept
 tags:
 - spatial-sortings

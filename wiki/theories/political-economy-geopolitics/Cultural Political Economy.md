@@ -4,7 +4,7 @@ aliases:
 - 文化政治经济学
 - CPE
 - cultural political economy
-summary: "Sum & Jessop (2013) 提出的理论框架_主张文化（符号）维度与结构-物质维度在经济和政治分析中应被同等对待_Erfurth (2022) 将其应用于教育枢纽分析_导出文化外交与政治经济两个运作维度"
+summary: "Sum & Jessop (2013) 提出的理论框架，主张文化（符号）维度与结构-物质维度在经济和政治分析中应被同等对待，Erfurth (2022) 将其应用于教育枢纽分析，导出文化外交与政治经济两个运作维度"
 type: theory
 tags:
 - cultural-political-economy
