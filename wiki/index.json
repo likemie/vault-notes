@@ -3383,5 +3383,22 @@
     "status": "draft",
     "created": "2026-05-20",
     "updated": "2026-05-20"
+  },
+  {
+    "title": "Governmentality",
+    "path": "wiki/theories/political-economy-geopolitics/Governmentality.md",
+    "type": "theory",
+    "tags": [
+      "Foucault",
+      "governmentality",
+      "conduct-of-conduct",
+      "technologies-of-the-self",
+      "theory/poststructuralism",
+      "theme/governmentality",
+      "theme/subjectification"
+    ],
+    "status": "draft",
+    "created": "2026-05-20",
+    "updated": "2026-05-20"
   }
 ]
