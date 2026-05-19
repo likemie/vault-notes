@@ -49,7 +49,7 @@ updated: '2026-05-18'
 
 ## 经过
 
-> [!note]
+> [!note]-
 > - **2003 年**：上海交通大学高等教育研究所发布首个全球大学排名（ARWU），开创了跨国大学排名系统的新纪元（Boyadjieva, 2022, p.131）
 > - 此后，Times Higher Education（2004）、Leiden University、Scimago、QS World University Rankings 和 European U-Multirank 等多个全球排名系统相继建立
 > - ARWU 的指标体系侧重研究产出，包括校友和教师获得诺贝尔奖和菲尔兹奖的数量、高被引学者数、在 *Nature* 和 *Science* 上发表论文数、被 SCIE 和 SSCI 收录的论文数等

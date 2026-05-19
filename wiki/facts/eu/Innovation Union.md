@@ -65,7 +65,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 1990 年代：欧盟创始条约为 Innovation Union 提供了法律架构建构（Rambla, 2022, p.169）
 > - 2001 年：里斯本议程首次尝试将创新原则转化为可操作的政策目标（p.169）
 > - 2010 年：[[Europe 2020 Strategy]] 启动，Innovation Union 成为旗舰倡议（p.168）

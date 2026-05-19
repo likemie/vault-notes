@@ -45,7 +45,7 @@ updated: '2026-05-18'
 
 ## 经过
 
-> [!note]
+> [!note]-
 > - OECD 启动 AHELO 可行性研究，试图开发跨国可比的高等教育学习成果评估工具（Tremblay, Lalancette & Roseveare, 2012, cited in Boyadjieva, 2022, p.136）
 > - 可行性研究获得的评估结果相当矛盾，未能证明该项目的技术可行性和国际可比性
 > - 项目遭到学术界的强烈反对——Philip Altbach（2015）批评"由于各国课程差异显著，AHELO 将是在测试苹果和橙子，更不用说猕猴桃和西兰花了"（Boyadjieva, 2022, p.136）

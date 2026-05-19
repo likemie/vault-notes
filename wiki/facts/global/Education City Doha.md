@@ -39,7 +39,7 @@ updated: '2026-05-18'
 
 ## 经过
 
-> [!note]
+> [!note]-
 > 卡塔尔首都多哈的教育城（Education City）是大学海外分支校园集中布局的典型案例。在一个共享的园区内，多所美国顶尖大学设立了分校（Lewin, 2008a, p.1，转引自 Slethaug, 2010, pp.15–16）：
 > - 康奈尔大学威尔医学院（Weill Medical College of Cornell University）— 医学
 > - 乔治城大学（Georgetown）— 国际事务

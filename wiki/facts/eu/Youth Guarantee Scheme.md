@@ -71,7 +71,7 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 2013 年 4 月 22 日：欧盟理事会通过关于设立 Youth Guarantee 的建议书（European Council, 2013）
 > - 该计划与 [[Europe 2020 Strategy]] 同步运作至 2020 年
 > - 与 [[EU Skills Agenda]]（2016）形成政策互补，共同服务于 Europe 2020 的就业和教育目标

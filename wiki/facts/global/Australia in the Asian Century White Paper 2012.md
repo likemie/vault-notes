@@ -53,7 +53,7 @@ updated: '2026-05-18'
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 2012 发布白皮书（Henry, 2012）
 > - 后续推动 Australia-India Strategic Research Fund (AISRF) 和 Australia China Science and Research Fund (ACSRF) 等与研究合作相关的项目
 

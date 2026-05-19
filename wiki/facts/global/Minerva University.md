@@ -45,12 +45,12 @@ Minerva University 是一所全球性的营利性高等教育机构，由前 Sna
 
 ## 经过
 
-> [!note] 2010–2014 创立与启动
+> [!note]- 2010–2014 创立与启动
 > - 2010 年 9 月，Ben Nelson 在旧金山创立 Minerva Project，定位为以教育技术方案解决高等教育"所有主要弊病"的营利性初创公司（Thompson & Parreira do Amaral, 2022, p.2）
 > - 仅用四年获得 Benchmark Capital 2,500 万美元风险投资——Nelson 称其为"当时硅谷最受尊敬的投资公司"（Parreira do Amaral, 2022, pp.45–46）
 > - 2014 年 Minerva University 正式成立，首批试点学生启动、官方四年制学生入学。速度之快背后是高度影响力的政界人物、前大学校长、知名学者、市场营销专家和企业家网络的推动（Parreira do Amaral, 2022, pp.45–46）
 
-> [!note] 2014–至今 运营与扩张
+> [!note]- 2014–至今 运营与扩张
 > - 与克莱蒙特学院联盟（The Claremont Colleges）成员 Keck Graduate Institute（KGI）合作，利用其共享的现有制度基础设施构建"高效且可扩展"的业务和运营模型（Parreira do Amaral, 2022, p.45）
 > - "全球沉浸"体系逐步扩展至旧金山、布宜诺斯艾利斯、柏林、伦敦、海得拉巴、首尔和台北七大城市（Minerva, 2020b, cited in Parreira do Amaral, 2022, p.48）
 

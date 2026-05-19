@@ -66,7 +66,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 
 ## 时间线
 
-> [!note]
+> [!note]-
 > - 2011 年：欧盟理事会发布关于减少早期辍学的建议书（European Council, 2011a）和关于成人教育更新的决议（European Council, 2011b），为 Skills Agenda 奠定政策基础
 > - 2013 年：[[Youth Guarantee Scheme]] 建立，将就业与教育培训衔接制度化
 > - 2016 年：欧盟委员会发布《欧洲新技能议程》通讯文件（European Commission, 2016）
