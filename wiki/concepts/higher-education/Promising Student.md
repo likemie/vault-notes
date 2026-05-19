@@ -19,7 +19,10 @@ related_concepts:
 - '[[Learning Analytics]]'
 - '[[Knowledge-Based Economy]]'
 - '[[Bildung]]'
-related_theories: []
+- '[[Competitiveness in Higher Education]]'
+- '[[Digital Self]]'
+related_theories:
+- '[[Societies of Control]]'
 related_methods: []
 related_persons:
 - '[[Christiane Thompson]]'
@@ -77,7 +80,7 @@ updated: '2026-05-19'
 > 有前景的学生这一概念依托于两个理论视角：
 
 - **Foucault 的治理性（governmentality）**：治理性关涉"行为的引导"（conduct of conduct）——不是通过强制，而是通过塑造主体的自我理解来引导行为。有前景的学生正是通过 OSA 等自我技术被引导为"企业家型的学术主体"（entrepreneurial academic subject）（Thompson et al., 2022, p.226）。
-- **Deleuze 的控制社会（societies of control）**：Deleuze（1992）指出，规训性社会控制正在被"超快形式自由浮动的控制"取代。在教育领域，学生不再像过去那样在一次考试后从机构中被释放，而是处于持续的调制之中——从入学前的 OSA 到毕业后的校友追踪，控制从未终止（Thompson et al., 2022, pp.221–222）。
+- **Deleuze 的[[Societies of Control|控制社会]]**：Deleuze（1992）指出，规训性社会控制正在被"超快形式自由浮动的控制"取代。在教育领域，学生不再像过去那样在一次考试后从机构中被释放，而是处于持续的调制之中——从入学前的 OSA 到毕业后的校友追踪，控制从未终止（Thompson et al., 2022, pp.221–222）。
 
 > [!example]
 > 在规训社会中，考试是权力的节点——学生在考试前被规训、考试后被释放。在控制社会中，OSA 将权力的作用点提前到入学之前，[[Learning Analytics|学习分析]]系统在学习全程中持续追踪学生的每一项行为。一个学生可能因为 OSA 结果显示"外语经历不足"而在入学前就开始自行弥补，入学后被学习平台标记为"高风险"，被辅导员约谈——但她从未被"开除"。控制社会的特点是"'解雇'不再存在"（Deleuze, 1992, p.5），任何人都被永久地纳入调制之中。

@@ -3346,5 +3346,24 @@
   {
     "title": "Argument_ONeill_2016_Report",
     "path": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md"
+  },
+  {
+    "title": "Competitiveness in Higher Education",
+    "path": "wiki/concepts/higher-education/Competitiveness in Higher Education.md",
+    "aliases": [
+      "高等教育竞争力",
+      "竞争性地缘政治装置",
+      "competitive university"
+    ]
+  },
+  {
+    "title": "Societies of Control",
+    "path": "wiki/theories/educational-philosophy/Societies of Control.md",
+    "aliases": [
+      "控制社会",
+      "德勒兹控制社会",
+      "Deleuze societies of control",
+      "société de contrôle"
+    ]
   }
 ]

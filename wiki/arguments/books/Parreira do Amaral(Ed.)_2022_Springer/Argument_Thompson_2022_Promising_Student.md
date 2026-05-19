@@ -27,7 +27,9 @@ related_concepts:
 - '[[Epistemic Governance]]'
 - '[[New Public Management in Education]]'
 - '[[Geopolitical Subject]]'
-related_theories: []
+- '[[Competitiveness in Higher Education]]'
+related_theories:
+- '[[Societies of Control]]'
 related_methods: []
 related_persons:
 - '[[Christiane Thompson]]'
