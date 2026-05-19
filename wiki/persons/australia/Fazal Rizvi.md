@@ -21,7 +21,7 @@ related_concepts:
 - '[[Critical Geopolitics]]'
 - '[[International Education Hubs]]'
 - '[[Knowledge-Based Economy]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Endogenous and Exogenous Privatisation]]'
 related_theories:
 - '[[Critical Geopolitics]]'
@@ -93,7 +93,7 @@ updated: '2026-05-19'
 > [!success] 影响
 > - 为[[Geopolitics of Knowledge|知识地缘政治]]的分析补充了市场化维度——此前 GPK 的讨论关注了知识经济化、空间分选和认识论治理，但普遍遗漏了亚洲崛起如何通过改变国际教育的市场结构和话语逻辑来重塑全球 GPK 格局（Rizvi, 2022, pp.89–90）
 > - 为[[International Education Hubs|国际教育枢纽]]的分析提供了亚洲视角——IEHs 集中体现了亚洲国家从国际化的被动接受者到主动塑造者的角色转变
-> - 对[[New Public Management in Education|NPM 在高等教育中的运作]]机制提供了新的因果解释——国际化成功本身成为加速 NPM 渗透的催化剂，而非仅仅是 NPM 的应用领域
+> - 对[[New Public Management|NPM 在高等教育中的运作]]机制提供了新的因果解释——国际化成功本身成为加速 NPM 渗透的催化剂，而非仅仅是 NPM 的应用领域
 >
 
 ## 来源

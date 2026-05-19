@@ -10,7 +10,7 @@ tags:
 - higher-ed
 related_concepts:
 - '[[Knowledge-Based Economy]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Policy Borrowing]]'
 - '[[Regional University Alliances]]'
 related_theories: []

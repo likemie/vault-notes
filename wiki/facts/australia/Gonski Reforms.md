@@ -13,7 +13,7 @@ tags:
 - equity
 related_concepts:
 - '[[School Autonomy]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 related_theories: []
 related_methods: []
 related_persons: []
@@ -80,7 +80,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／理论
 > - [[School Autonomy]] — Gonski 改革在权力下放和学校自主权的背景下运作
 > - [[Karmel Report 1973]] — Gonski 改革试图回归 Karmel 的需求本位拨款原则
-> - [[New Public Management in Education]] — NPM 的市场逻辑与新自由主义拨款模式的关系
+> - [[New Public Management]] — NPM 的市场逻辑与新自由主义拨款模式的关系
 
 ## 来源
 

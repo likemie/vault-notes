@@ -16,7 +16,7 @@ related_concepts:
 - '[[Sociology of Measurement]]'
 - '[[Performance Indicators]]'
 - '[[Education at a Glance (EAG)]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[School Leadership]]'
 - '[[Visible Learning]]'
 - '[[Visible Learning Branding and Global Influences]]'
@@ -191,7 +191,7 @@ updated: '2026-05-18'
 > - [[Victorian HITS and Literacy Toolkit 2017]] — Johnson & Janzen (2023) 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
 > - [[Education at a Glance (EAG)]] — Gorur (2014) 的核心案例，OECD 指标的 performativity 如何在政策层面制造世界
 > - [[Neo-Taylorism in Educational Administration]] — 测量施行性与新泰勒主义共享全景监狱逻辑
-> - [[New Public Management in Education]] — NPM 的绩效问责制是 performativity 在公共部门扩散的制度载体
+> - [[New Public Management]] — NPM 的绩效问责制是 performativity 在公共部门扩散的制度载体
 
 ## 来源
 

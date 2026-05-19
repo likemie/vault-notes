@@ -1,8 +1,8 @@
 ---
-title: New Public Management in Education
+title: New Public Management
 aliases:
 - 新公共管理
-summary: "过去约 30 年西方教育系统以新管理主义理念进行的改革浪潮，特征为绩效标准、产出控制、供给竞争和管理问责，与分布式领导话语并行运作构成悖论"
+summary: "以企业管理逻辑重塑公共教育的改革浪潮，特征为绩效标准、产出控制、供给竞争和管理问责；在 Ch13 中体现为竞争性大学地缘政治装置的制度条件——绩效指标和审计文化将大学重塑为竞争者"
 type: concept
 tags:
 - New Public Management
@@ -12,6 +12,7 @@ tags:
 related_concepts:
 - '[[Visible Learning]]'
 - '[[Performativity of Measurement]]'
+- '[[Competitiveness in Higher Education]]'
 - '[[School Leadership]]'
 - '[[Evidence-Based Education]]'
 - '[[Knowledge-Based Economy]]'
@@ -31,6 +32,7 @@ related_facts:
 related_arguments:
 - '[[Argument_Rizvi_2022_Springer]]'
 - '[[Argument_Hartmann_2022_CorporateEducation]]'
+- '[[Argument_Thompson_2022_Promising_Student]]'
 sources:
 - '[[Møller_2017_EERJ]]'
 - '[[Eacott_2011_JEAH]]'

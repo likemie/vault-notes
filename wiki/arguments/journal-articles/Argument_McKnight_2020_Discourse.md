@@ -17,9 +17,9 @@ related_concepts:
 - '[[Visible Learning]]'
 - '[[Evidence-Based Education]]'
 - '[[Performativity of Measurement]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 related_theories:
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 related_methods: []
 related_persons:
 - '[[John Hattie]]'

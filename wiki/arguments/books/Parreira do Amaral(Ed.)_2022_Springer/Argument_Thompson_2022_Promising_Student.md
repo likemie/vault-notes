@@ -25,7 +25,7 @@ related_concepts:
 - '[[Performativity of Measurement]]'
 - '[[Bildung]]'
 - '[[Epistemic Governance]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Geopolitical Subject]]'
 - '[[Competitiveness in Higher Education]]'
 related_theories:

@@ -16,7 +16,7 @@ tags:
 related_concepts:
 - '[[School Autonomy]]'
 - '[[School Leadership]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[My School Website]]'
 related_theories: []
 related_methods: []

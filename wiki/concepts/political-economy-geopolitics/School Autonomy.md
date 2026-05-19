@@ -11,7 +11,7 @@ tags:
 - paradigm/neoliberal
 related_concepts:
 - '[[School Leadership]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[My School Website]]'
 related_theories: []
 related_methods: []
@@ -85,7 +85,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[New Public Management in Education]] — NPM 是驱动学校自主权改革走向市场化的**制度逻辑**，学校自主权是这一逻辑在**学校治理结构**层面的具体体现
+> - vs [[New Public Management]] — NPM 是驱动学校自主权改革走向市场化的**制度逻辑**，学校自主权是这一逻辑在**学校治理结构**层面的具体体现
 > - vs [[School Leadership]] — 学校领导力是自主权改革效果的**中介变量**：学校领导力被认为是"决定学校自主权如何发挥作用的最强大的中介力量"（Caldwell, 2015; MGSE, 2013，引自 Keddie et al., 2020, p.434）
 
 ## 实证发现

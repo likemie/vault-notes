@@ -11,7 +11,7 @@ tags:
 related_concepts:
 - '[[School Leadership]]'
 - '[[Transformative Leadership]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Performativity of Measurement]]'
 related_theories: []
 related_methods: []

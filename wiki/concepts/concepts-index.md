@@ -175,7 +175,7 @@ Total entries: **207**
 - [[National Competitive Advantage]] — Porter (1990) 理论：国家竞争优势通过高度本地化过程被创造，全球化反而使国家角色更重要，Moisio (2022) 将其分析为塑造 Hub and Flow 想象的关键地缘政治想象
 - [[Neocorporatism]] — 政府—雇主—工会三方制度化合作的治理模式，Rambla (2022) 在 EU 终身学习治理中分析其缓冲 [[Selectivity]] 效应的功能
 - [[Network Governance]] — 传统市场/科层制公立学校治理被网络与部落形式取代，Thompson (1991) 为理论框架，新西兰自 2008 年加速发展
-- [[New Public Management in Education]] — 过去约 30 年西方教育系统以新管理主义理念进行的改革浪潮，特征为绩效标准、产出控制、供给竞争和管理问责，与分布式领导话语并行运作构成悖论
+- [[New Public Management]] — 过去约 30 年西方教育系统以新管理主义理念进行的改革浪潮，特征为绩效标准、产出控制、供给竞争和管理问责，与分布式领导话语并行运作构成悖论
 - [[Performance Pay]] — 将教师薪酬与测量表现挂钩的制度，亦称 merit pay；过去 25+ 年大多数尝试失败；与 Hattie 强调的安全信任教师文化直接矛盾
 - [[Power-Geometries]] — Doreen Massey (2005) 的空间理论核心概念：空间中的开放、封闭和互联不是中立的，而是通过社会关系被不平等地建构，英美大学既是全球知识枢纽也是全球不平等制造者
 - [[Progressive Neoliberalism]] — Nancy Fraser (2019) 概念：新自由主义经济政策与进步社会议程的话语结合，Moisio (2022) 定位为过去三十年知识经济化的主要政治推力（\"硅谷世界观\"），正在消退

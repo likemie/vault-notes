@@ -14,7 +14,7 @@ tags:
 - accountability
 related_concepts:
 - '[[School Autonomy]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Performativity of Measurement]]'
 related_theories: []
 related_methods: []
@@ -87,7 +87,7 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／理论
 > - [[School Autonomy]] — My School 是市场驱动的学校自主权改革的核心问责工具
-> - [[New Public Management in Education]] — My School 体现了 NPM 的"产出控制"和"管理问责"特征
+> - [[New Public Management]] — My School 体现了 NPM 的"产出控制"和"管理问责"特征
 > - [[Performativity of Measurement]] — My School 的排名使 NAPLAN 分数从测量工具变为学校身份的定义者
 
 ## 来源

@@ -15,7 +15,7 @@ tags:
 related_concepts:
 - '[[Transitology]]'
 - '[[Transhumanism]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Posthumanism]]'
 - '[[Sympoiesis]]'
 - '[[Educational Technology Industry]]'
@@ -227,7 +227,7 @@ updated: '2026-05-18'
 >
 > Amos 观察到一个有意味的"家族相似性"：Escobar 和 Haraway 的思想与非洲的 **[[Ubuntu]]**（"我存在，因为我们存在"）和拉丁美洲的 **[[Buen Vivir]]**（"好好生活"——不是更多消费，而是与自然和共同体的和谐共处）有亲和力，可能跟 Buen Vivir 的共鸣略多一些。这些非西方传统为后人类主义教育愿景提供了额外的文化和伦理资源（Amos, 2022, p.64）。
 >
-> > 例：Ubuntu 的经典表达：一个人只有在与他人、与祖先、与自然的关系中才能成为"人"。把这种思维放到教育中：不把学习者看作独立的、可测量的个体单位（"这个学生的数学成绩在年级前 10%"），而是看作处于多重关系网络中的存在（"这个学生怎样支持同伴的学习？她与她的社区有什么关系？她的学习对她的家庭意味着什么？"）。这直接挑战了超人类主义和 [[New Public Management in Education]] 共有的 individualism 假设。
+> > 例：Ubuntu 的经典表达：一个人只有在与他人、与祖先、与自然的关系中才能成为"人"。把这种思维放到教育中：不把学习者看作独立的、可测量的个体单位（"这个学生的数学成绩在年级前 10%"），而是看作处于多重关系网络中的存在（"这个学生怎样支持同伴的学习？她与她的社区有什么关系？她的学习对她的家庭意味着什么？"）。这直接挑战了超人类主义和 [[New Public Management]] 共有的 individualism 假设。
 >
 > ### 最终立场：保留大众教育的问责性，但重建其组织原则
 >

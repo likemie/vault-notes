@@ -14,7 +14,7 @@ tags:
 - paradox
 related_concepts:
 - '[[School Autonomy]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[School Leadership]]'
 related_theories: []
 related_methods: []

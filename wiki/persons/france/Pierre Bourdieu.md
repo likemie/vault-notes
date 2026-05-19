@@ -27,7 +27,7 @@ related_concepts:
 - '[[Lost Mode]]'
 - '[[Value Conformist Mode]]'
 - '[[School Leadership]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 related_theories: []
 related_methods: []
 related_persons:

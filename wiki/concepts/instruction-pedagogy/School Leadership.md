@@ -11,7 +11,7 @@ related_concepts:
 - '[[Transformative Leadership]]'
 - '[[Evidence-Based Education]]'
 - '[[Performativity of Measurement]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[School Autonomy]]'
 related_theories:
 - '[[[''[[Pierre Bourdieu]]'']]]'

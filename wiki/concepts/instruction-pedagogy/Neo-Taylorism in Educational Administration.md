@@ -15,7 +15,7 @@ related_concepts:
 - '[[Class Size]]'
 - '[[Performativity of Measurement]]'
 related_theories:
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Technical Rationality]]'
 related_methods: []
 related_persons:
@@ -82,7 +82,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 ## 概念辨析
 
 - vs **Taylorism（经典泰勒主义）**：经典泰勒主义是 20 世纪初工厂管理方法；Neo-Taylorism 是其在当代教育领域的复兴，包装为"科学证据"和"数据驱动"，但核心逻辑（效率最大化、标准化、"唯一最佳方法"）高度一致
-- vs [[New Public Management in Education]]：NPM 是更广泛的教育治理改革框架（绩效标准、产出控制、竞争、问责），Neo-Taylorism 特指 NPM 中与科学管理原理直接对应的部分——将教学实践还原为技术操作单元并以效率为标准进行排名
+- vs [[New Public Management]]：NPM 是更广泛的教育治理改革框架（绩效标准、产出控制、竞争、问责），Neo-Taylorism 特指 NPM 中与科学管理原理直接对应的部分——将教学实践还原为技术操作单元并以效率为标准进行排名
 - vs **Productive Pedagogies / Quality Teaching**：Eacott 对比了澳洲教育改革中的两种取向——Productive Pedagogies 和 Quality Teaching 旨在为教师和学校领导提供"反思和发展自身技艺的资源"；而 Hattie 的方法"告诉教育者做什么以获得最大回报"（Eacott, 2019, p.778）
 - vs [[Cult of the Guru]]：Neo-Taylorism 侧重分析 Hattie 工作与 Taylor 科学管理的结构同源性（效率最大化、任务拆解）；[[Cult of the Guru]] 侧重分析这种工作为何以及如何在特定社会条件下被不加批判地接受和制度化。两者互补：Neo-Taylorism 回答"什么使 Hattie 的工作成为泰勒主义"，Cult of the Guru 回答"什么使这种泰勒主义成为崇拜"
 
@@ -92,7 +92,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 - Callahan（1962）*Education and the Cult of Efficiency* — 历史分析框架：论证美国公立教育曾被效率崇拜渗透，Eacott 将其类比于当代 Hattie 现象
 - [[Technical Rationality]] — Schön（1983）的实证主义专业实践模型是 Neo-Taylorism 的认识论内核：手段-目的思维、价值中立、工程/医学模式
 - Foucault（1977）*Discipline and Punish* — 全景监狱（panopticon）隐喻为理解 asTTle/VL 的监控逻辑提供理论框架
-- [[New Public Management in Education]] — 更广泛的制度语境：NPM 创造了绩效标准、产出控制和市场竞争的制度条件，Neo-Taylorism 是 NPM 中与科学管理原理直接对应的部分
+- [[New Public Management]] — 更广泛的制度语境：NPM 创造了绩效标准、产出控制和市场竞争的制度条件，Neo-Taylorism 是 NPM 中与科学管理原理直接对应的部分
 
 ## 制度表现
 

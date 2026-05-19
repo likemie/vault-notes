@@ -12,7 +12,7 @@ tags:
 - level/k12
 related_concepts:
 - '[[School Leadership]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Evidence-Based Education]]'
 related_theories: []
 related_methods: []
@@ -78,7 +78,7 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／理论
 > - [[School Leadership]] — ISL 项目将学校领导力确立为全球教育政策核心议程
-> - [[New Public Management in Education]] — ISL 的矛盾在于同时推崇专业共同体和 NPM 控制两个方向
+> - [[New Public Management]] — ISL 的矛盾在于同时推崇专业共同体和 NPM 控制两个方向
 > - [[Evidence-Based Education]] — ISL 项目紧密关联 OECD 的基准测试和效率研究
 
 ## 来源

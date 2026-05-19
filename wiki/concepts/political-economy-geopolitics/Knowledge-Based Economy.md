@@ -24,7 +24,7 @@ related_concepts:
 - '[[National Competitive Advantage]]'
 - '[[Internationalization of Higher Education]]'
 - '[[International Education Hubs]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Further Education]]'
 - '[[Corporate Education]]'
 related_theories:

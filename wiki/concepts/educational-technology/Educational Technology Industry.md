@@ -13,7 +13,7 @@ tags:
 related_concepts:
 - '[[Global Education Industry]]'
 - '[[Knowledge-Based Economy]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Transhumanism]]'
 - '[[Learning Analytics]]'
 - '[[Regional University Alliances]]'

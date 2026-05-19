@@ -10,7 +10,7 @@ tags:
 - region/global
 related_concepts:
 - '[[Visible Learning]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Performativity of Measurement]]'
 - '[[Neo-Taylorism in Educational Administration]]'
 related_theories: []
@@ -46,7 +46,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[New Public Management in Education]] — 新管理主义为 GERM 提供制度操作框架
+> - [[New Public Management]] — 新管理主义为 GERM 提供制度操作框架
 > - [[Technical Rationality]] — 手段-目的思维为 GERM 的效率追求提供认识论基础
 
 ## 实证发现

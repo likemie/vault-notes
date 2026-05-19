@@ -15,7 +15,7 @@ tags:
 - stance/critique
 related_concepts:
 - '[[School Leadership]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Evidence-Based Education]]'
 - '[[Performativity of Measurement]]'
 - '[[Champ]]'

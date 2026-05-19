@@ -10,7 +10,7 @@ tags:
 - region/uk
 related_concepts:
 - '[[School Leadership]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Transformative Leadership]]'
 related_theories: []
 related_methods: []

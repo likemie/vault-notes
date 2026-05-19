@@ -12,7 +12,7 @@ tags:
 - level/k12
 related_concepts:
 - '[[School Autonomy]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 related_theories: []
 related_methods: []
 related_persons: []
@@ -64,7 +64,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／理论
 > - [[School Autonomy]] — Karmel Report 是澳大利亚学校自主权改革的民主起源
 > - [[Gonski Reforms]] — 试图回归 Karmel 的需求本位拨款原则
-> - [[New Public Management in Education]] — 当代学校自主权改革的市场逻辑与 Karmel 的民主逻辑形成对比
+> - [[New Public Management]] — 当代学校自主权改革的市场逻辑与 Karmel 的民主逻辑形成对比
 
 ## 来源
 

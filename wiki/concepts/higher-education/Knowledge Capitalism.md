@@ -15,7 +15,7 @@ related_concepts:
 - '[[Knowledge-Based Economy]]'
 - '[[Geopolitics of Knowledge]]'
 - '[[Internationalization of Higher Education]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 - '[[Knowledge-Based Economization]]'
 related_theories: []
 related_methods: []
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 > [!example] 概念辨析
 > - vs [[Knowledge-Based Economy]]：KBE 描述经济形态（知识作为价值来源），知识资本主义强调资本积累的**制度逻辑**（知识如何被转化为可积累、可交易的资本）。两者高度重叠但分析焦点不同。详见 [[Knowledge-Based Economy#定义|知识经济 > 定义]]
 > - vs [[Knowledge-Based Economization]]：知识经济化关注 KBE 被话语想象和物质实践**持续建构的过程**，知识资本主义则关注这一过程所导向的**制度结果**——一种以知识为资本核心形式的全球秩序
-> - vs [[New Public Management in Education|NPM]]：知识资本主义为 NPM 在教育中的渗透提供了宏观的经济合理性——如果知识是首要的资本形式，那么教育（知识生产的主要场所）就应当像企业一样被管理和优化
+> - vs [[New Public Management|NPM]]：知识资本主义为 NPM 在教育中的渗透提供了宏观的经济合理性——如果知识是首要的资本形式，那么教育（知识生产的主要场所）就应当像企业一样被管理和优化
 >
 
 ## 在 Rizvi 论证中的位置

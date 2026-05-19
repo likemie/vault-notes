@@ -160,7 +160,7 @@ Eacott（2011）发现，当教师升任校长时，其习性"被分裂为对抗
 > - [[Goal-Controlled Mode]] — 优势阶层习性在大学场域中的实践表现
 > - [[Intuition-Dependent Mode]] — 弱势阶层习性在大学场域中的实践表现
 > - [[Cultural Barrier in Higher Education]] — 习性错配在大学场域中产生的文化障碍
-> - [[New Public Management in Education]] — NPM 对教育场域的渗透导致校长习性分裂的结构性条件
+> - [[New Public Management]] — NPM 对教育场域的渗透导致校长习性分裂的结构性条件
 
 ---
 

@@ -22,7 +22,7 @@ related_concepts:
 - '[[Online Self-Assessment]]'
 - '[[Promising Student]]'
 - '[[Digital Self]]'
-- '[[New Public Management in Education]]'
+- '[[New Public Management]]'
 related_theories:
 - '[[Governmentality]]'
 related_methods: []
