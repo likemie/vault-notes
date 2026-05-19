@@ -25,8 +25,7 @@ related_theories: []
 related_methods: []
 related_persons:
 - '[[Christiane Thompson]]'
-related_facts:
-- '[[German Online Self-Assessment Policy 2004]]'
+related_facts: []
 related_arguments:
 - '[[Argument_Thompson_2022_Promising_Student]]'
 sources:
@@ -107,12 +106,34 @@ OSA 在"控制社会"（societies of control, Deleuze, 1992）的逻辑中运作
 - **可预测性的幻觉**：OSA 的逻辑预设学生的未来可以被其入场数据预测，但这种"可预测的未来"排除了教育的根本开放性——Bildung 指向的是一个超越数据相关性的、开放且不可预测的未来（Thompson et al., 2022, p.227）
 - **对学术文化的潜在侵蚀**：当每个人都沿着自己的学习轨迹独自优化时，大学作为学术共同体的公共空间——共同建构知识和进行审议——可能被削弱（Thompson et al., 2022, p.227）
 
-## 相关案例／政策
+## 政策背景
+
+> [!info]
+> 2004 年，德国学术评议会（Wissenschaftsrat）发布《关于改革大学入学制度的建议》，推荐实施"以咨询为目的的性向评估程序"（aptitude assessment procedures for the purpose of counselling），在入学前改善学生入学资格与学习项目要求之间的匹配，以降低大学辍学率（Wissenschaftsrat, 2004, p.6; Thompson et al., 2022, p.223）。
+
+> [!quote]
+> "Empfehlungen zur Reform des Hochschulzugangs" — 建议设立一种期望：潜在学生应对自身适合度进行反思，以降低辍学率（Wissenschaftsrat, 2004, p.4; Thompson et al., 2022, p.223）
+
+### 时间线
+
+> [!note]
+> - **2004**：Wissenschaftsrat 发布建议，推荐实施以咨询为目的的性向评估程序
+> - **2004–2014**：OSA 在德国大学中逐步推广，各大学自行开发或采购自评工具
+> - **2017**：OSA-Portal 上线，尝试整合德语区在线自评工具（Höft & Hell, 2017）
+> - **2018**：Hell 等人统计德国已有超过 600 个自评工具（Hell et al., 2018, p.133）
+> - **2019**：德国约有 20,000 个学习项目，各大学 OSA 使用方式从可选到强制不等（HRK, 2019）
+
+### 实施方式
 
 > [!example]
+> - **使用方式**：部分大学将完成 OSA 设为可选项，另一部分将其作为入学的先决条件（Thompson et al., 2022, p.218）
+> - **工具类型**：形式多样——有的侧重兴趣和期望问卷，有的包含认知能力测试
+> - **核心机构**：大学自身开发和维护 OSA（如 TU Braunschweig 的 Fit4TU、TU Berlin 的 T2-SCA），部分与商业公司合作（如 CYQUEST）
 
-- [[German Online Self-Assessment Policy 2004]] — 德国学术评议会（Wissenschaftsrat）2004 年建议及其后续发展
-- Saxion University 学习选择检查 — 荷兰案例，以 YouTube 视频形式呈现匹配逻辑
+## 相关案例
+
+> [!example]
+> - Saxion University 学习选择检查 — 荷兰案例，以 YouTube 视频形式呈现匹配逻辑（Thompson et al., 2022, pp.222–223）
 
 ## 来源
 

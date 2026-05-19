@@ -22,8 +22,7 @@ related_methods: []
 related_persons: []
 related_arguments:
 - '[[Argument_Thompson_2022_Promising_Student]]'
-related_facts:
-- '[[German Online Self-Assessment Policy 2004]]'
+related_facts: []
 sources:
 - '[[Parreira do Amaral(Ed.)_2022_Springer]]'
 - '[[Ch3_Parreira do Amaral_2022]]'

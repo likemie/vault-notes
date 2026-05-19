@@ -20,8 +20,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[German Online Self-Assessment Policy 2004]]'
+related_facts: []
 related_arguments:
 - '[[Argument_Thompson_2022_Promising_Student]]'
 sources:
