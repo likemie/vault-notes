@@ -18,6 +18,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Spatial Sortings]]"
+  - "[[Cultural Diplomacy in Higher Education]]"
 related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"
@@ -28,6 +29,7 @@ related_persons:
   - "[[Bob Jessop]]"
 related_facts:
   - "[[Singapore Education Hub Policy]]"
+  - "[[UAE Education Hub Projects]]"
 related_arguments:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
   - "[[Argument_Rizvi_2022_Springer]]"
@@ -119,7 +121,7 @@ issuing_organization: ""
 
 新加坡案例展示了文化外交维度（通过精英教育培育区域影响力和行使软实力）与政治经济维度（创造教育出口产业）的**前后交替运作**——"东方波士顿"的文化外交逻辑先行，随后以"全球校园"补充政治经济逻辑，但后者遭遇市场失败。
 
-**阿联酋**（pp.207–211）：
+**阿联酋**（详见 [[UAE Education Hub Projects]]）（pp.207–211）：
 
 - 2004 年前后：领导层更替后启动现代化议程，以经济多元化和全球融合为驱动
 - **阿布扎比**：利用石油财富资助高端文化机构——NYU Abu Dhabi、索邦大学、卢浮宫阿布扎比——通过关联全球高雅文化投射进步形象。引用阿联酋外交部官方话语："阿联酋建于开国者谢赫扎耶德关于宽容、和平和稳定的基本价值之上"（MoFAIC, 2020）。2020 年阿联酋全球软实力指数排名地区第一、全球第 18（MoFAIC, 2020）

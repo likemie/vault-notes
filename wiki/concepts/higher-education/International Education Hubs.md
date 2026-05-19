@@ -23,6 +23,7 @@ related_concepts:
 - '[[Internationalization of Higher Education]]'
 - '[[Knowledge-Based Economy]]'
 - '[[International Education]]'
+- '[[Cultural Diplomacy in Higher Education]]'
 related_theories:
 - '[[Critical Geopolitics]]'
 - '[[Network Society]]'
@@ -34,6 +35,7 @@ related_persons:
 - '[[Fazal Rizvi]]'
 related_facts:
 - '[[Singapore Education Hub Policy]]'
+- '[[UAE Education Hub Projects]]'
 related_arguments:
 - '[[Argument_Rizvi_2022_Springer]]'
 - '[[Argument_Erfurth_2022_education-hubs]]'

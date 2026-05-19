@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Parreira do Amaral(Ed.)_2022_Springer/Ch12_Erfurth_2022.md",
+                "file": "wiki/methods/qualitative/Comparative Case Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch12_Erfurth_2022"
+              "title": "Comparative Case Study"
             }
           }
         ]
@@ -189,12 +189,18 @@
   },
   "active": "f49437b00d1a74a8",
   "lastOpenFiles": [
+    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
+    "wiki/concepts/political-economy-geopolitics/Hub and Flow Imaginaries.md",
+    "wiki/concepts/higher-education/International Education Hubs.md",
+    "wiki/concepts/political-economy-geopolitics/Spatial Sortings.md",
+    "wiki/concepts/political-economy-geopolitics/Cultural Diplomacy in Higher Education.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch12_Erfurth_2022.md",
+    "sources/Parreira do Amaral(Ed.)_2022_Springer.md",
+    "wiki/facts/uae/UAE Education Hub Projects.md",
+    "wiki/facts/uae",
     "wiki/facts/singapore/Singapore Education Hub Policy.md",
     "wiki/facts/singapore",
     "wiki/methods/qualitative/Comparative Case Study.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
-    "wiki/concepts/political-economy-geopolitics/Hub and Flow Imaginaries.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch12_Erfurth_2022.md",
     "wiki/persons/canada/Jane Knight.md",
     "wiki/concepts/higher-education/Internationalization of Higher Education.md",
     "wiki/persons/finland/Sami Moisio.md",
@@ -203,7 +209,6 @@
     "wiki/persons/uk/Bob Jessop.md",
     "wiki/persons/brazil/Marcelo Parreira do Amaral.md",
     "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economy.md",
-    "wiki/concepts/higher-education/International Education Hubs.md",
     "raw/Argument_Parreira do Amaral_2022_Springer_12章.pdf",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
@@ -216,15 +221,10 @@
     "wiki/facts/facts-index.md",
     "wiki/persons/persons-index.md",
     "wiki/methods/methods-index.md",
-    "wiki/concepts/concepts-index.md",
     "wiki/wiki_index.py",
-    "wiki/persons/brazil/Dell Delambre.md",
-    "wiki/persons/argentina/Walter Mignolo.md",
-    "wiki/index.md",
     "wiki/index.json",
     "wiki/persons/argentina",
     "wiki/persons/finland",
-    "wiki/persons/bulgaria",
     "books/郑_2023_上海三联书店/第三章.jpeg",
     "books/郑_2023_上海三联书店/附录一个案描述5.jpeg",
     "books/郑_2023_上海三联书店/第五章 四种类型的毕业出路获得机制.jpeg",
