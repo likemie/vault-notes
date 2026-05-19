@@ -15,7 +15,7 @@ tags:
 - theme/competitiveness
 - theory/governmentality
 related_concepts:
-- '[[Online Self-Assessment (OSA)]]'
+- '[[Online Self-Assessment]]'
 - '[[Promising Student]]'
 - '[[Learning Analytics]]'
 - '[[Knowledge-Based Economy]]'

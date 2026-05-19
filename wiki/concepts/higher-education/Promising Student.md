@@ -14,7 +14,7 @@ tags:
 - theme/governmentality
 - theme/digitalization
 related_concepts:
-- '[[Online Self-Assessment (OSA)]]'
+- '[[Online Self-Assessment]]'
 - '[[Learning Analytics]]'
 - '[[Knowledge-Based Economy]]'
 related_theories: []
@@ -60,7 +60,7 @@ updated: '2026-05-19'
 
 ### OSA 作为主体化工具
 
-[[Online Self-Assessment (OSA)|OSA]] 是建构有前景的学生的核心工具。潜在学生通过完成 OSA，被引导将自身与"完美匹配"的理想学生形象对齐。数字自我（digital self，由数据构建的学生画像）与数字最优（digital optimum，算法优化的理想参照）之间的差距，驱动着持续的自我优化行为（Thompson et al., 2022, p.226）。
+[[Online Self-Assessment|OSA]] 是建构有前景的学生的核心工具。潜在学生通过完成 OSA，被引导将自身与"完美匹配"的理想学生形象对齐。数字自我（digital self，由数据构建的学生画像）与数字最优（digital optimum，算法优化的理想参照）之间的差距，驱动着持续的自我优化行为（Thompson et al., 2022, p.226）。
 
 ## 理论基础
 

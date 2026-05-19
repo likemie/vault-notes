@@ -15,7 +15,7 @@ tags:
 related_concepts:
 - '[[Geopolitics of Knowledge]]'
 - '[[Global Education Industry]]'
-- '[[Online Self-Assessment (OSA)]]'
+- '[[Online Self-Assessment]]'
 - '[[Promising Student]]'
 related_theories: []
 related_methods: []

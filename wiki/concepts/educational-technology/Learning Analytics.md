@@ -15,7 +15,7 @@ related_concepts:
 - '[[Educational Technology Industry]]'
 - '[[Knowledge-Based Economy]]'
 - '[[Transhumanism]]'
-- '[[Online Self-Assessment (OSA)]]'
+- '[[Online Self-Assessment]]'
 - '[[Promising Student]]'
 related_theories: []
 related_methods: []
@@ -71,7 +71,7 @@ updated: '2026-05-19'
 ## 在先发制人的学生治理中的角色
 
 > [!info]
-> Thompson、Schröder 和 Wrana（2022, pp.224–226）分析了学习分析在一种特定的高等教育治理场景中的作用——在线自评工具（[[Online Self-Assessment (OSA)|OSA]]）。在这一场景中，学习分析的技术能力被用于入学前的"先发制人"（preemptive）阶段：
+> Thompson、Schröder 和 Wrana（2022, pp.224–226）分析了学习分析在一种特定的高等教育治理场景中的作用——在线自评工具（[[Online Self-Assessment|OSA]]）。在这一场景中，学习分析的技术能力被用于入学前的"先发制人"（preemptive）阶段：
 
 - **从"数字荒漠"到"数字海洋"**：Behrens & DiCerbo（2014, pp.39–40）描述了教育数据挖掘（EDM）如何实现从数据稀缺到数据丰富的转变，这种数据丰富性推进了控制社会的权力——同时承诺了"通过数据实现对自我的完全可读性"（Bächle, 2016, p.172; Thompson et al., 2022, p.224）
 - **ASAP 分类器**：Antunes（2010, pp.353–363）提出了"ASAP 分类器"（ASAP classifiers）——能够自动预测学生成功或失败概率的算法，以便在最早阶段实施对策（Thompson et al., 2022, p.224）
