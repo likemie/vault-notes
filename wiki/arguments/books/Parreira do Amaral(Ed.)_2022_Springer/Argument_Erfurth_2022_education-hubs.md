@@ -18,8 +18,9 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Spatial Sortings]]"
-  - "[[Cultural Diplomacy in Higher Education]]"
-related_theories: []
+  - "[[Cultural Diplomacy]]"
+related_theories:
+  - "[[Cultural Political Economy]]"
 related_methods:
   - "[[Comparative Case Study]]"
 related_persons:

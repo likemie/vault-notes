@@ -17,7 +17,8 @@ related_concepts:
 - '[[Knowledge-Based Economization]]'
 - '[[Geopolitics of Knowledge]]'
 - '[[Hub and Flow Imaginaries]]'
-related_theories: []
+related_theories:
+- '[[Cultural Political Economy]]'
 related_methods: []
 related_persons:
 - '[[Sami Moisio]]'

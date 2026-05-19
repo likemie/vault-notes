@@ -23,10 +23,11 @@ related_concepts:
 - '[[Internationalization of Higher Education]]'
 - '[[Knowledge-Based Economy]]'
 - '[[International Education]]'
-- '[[Cultural Diplomacy in Higher Education]]'
+- '[[Cultural Diplomacy]]'
 related_theories:
 - '[[Critical Geopolitics]]'
 - '[[Network Society]]'
+- '[[Cultural Political Economy]]'
 related_methods:
 - '[[Comparative Case Study]]'
 related_persons:
