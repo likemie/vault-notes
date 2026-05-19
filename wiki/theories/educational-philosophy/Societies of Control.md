@@ -18,6 +18,9 @@ related_concepts:
   - "[[Competitiveness in Higher Education]]"
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
+  - '[[Digital Optimum]]'
+  - '[[Preemptive Governance]]'
+  - '[[Stakeholder University]]'
 related_theories:
   - "[[Governmentality]]"
 related_methods: []

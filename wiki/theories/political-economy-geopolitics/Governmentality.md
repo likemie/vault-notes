@@ -22,6 +22,8 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Competitiveness in Higher Education]]"
   - "[[Bildung]]"
+  - '[[Preemptive Governance]]'
+  - '[[Digital Optimum]]'
 related_theories:
   - "[[Societies of Control]]"
 related_methods: []

@@ -2,7 +2,7 @@
 title: Bildung
 aliases:
   - 教养
-summary: "源自德国精神科学传统的品格陶成概念，Larsen (2019) 将其复兴为对可见学习范式的批判；Thompson et al. (2022, p.227) 将其引入数字治理批判——Bildung 的开放未来与数据预测的封闭性构成根本张力"
+summary: "源自德国精神科学传统的品格陶成概念，主张教育应指向超越工具性学习和数据相关性的开放未来；在数字治理语境中，其开放性与 OSA 可预测性逻辑构成根本张力"
 type: concept
 tags:
   - Bildung

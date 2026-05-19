@@ -4,7 +4,7 @@ aliases:
 - 地缘政治主体
 - geopolitical subject
 - geopolitical subjects
-summary: "Moisio (2022) 的概念：从政治权力角度被装备上特定技能、行为、取向和空间心态的人形集合；Thompson et al. (2022) 的 promising student 构成其在教学领域的当代变体——通过 OSA 等自我技术被建构的理想学生类型"
+summary: "从政治权力角度被装备上特定技能、行为、取向和空间心态的人形集合，在高等教育空间中被形塑以服务于全球竞争；有前景的学生构成其在教学领域的当代变体"
 type: concept
 tags:
 - geopolitical-subject

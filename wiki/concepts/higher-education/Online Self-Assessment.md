@@ -6,7 +6,7 @@ aliases:
 - OSA
 - 在线学习选择检查
 - Online Study Choice Check
-summary: "Thompson, Schröder & Wrana (2022) 分析的一种德国大学治理工具：通过数字化问卷和认知测试让潜在学生进行自我评估和项目匹配，被解释为竞争性大学中主体化的关键工具"
+summary: "德国大学广泛采用的数字化入学前咨询工具，通过问卷和认知测试让潜在学生进行自我评估和项目匹配；在竞争性大学治理中作为主体化的关键工具运作，以自我选择而非直接筛选为机制"
 type: concept
 tags:
 - osas
@@ -18,6 +18,9 @@ tags:
 - theme/subjectification
 - theme/competitiveness
 related_concepts:
+  - '[[Digital Optimum]]'
+  - '[[Stakeholder University]]'
+  - '[[Preemptive Governance]]'
 - '[[Promising Student]]'
 - '[[Learning Analytics]]'
 - '[[Knowledge-Based Economy]]'
@@ -37,7 +40,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-19'
-updated: '2026-05-19'
+updated: 2026-05-20
 ---
 
 # Online Self-Assessment

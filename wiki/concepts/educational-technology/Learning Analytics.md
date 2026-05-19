@@ -6,7 +6,7 @@ aliases:
   - LA
   - Educational Data Mining
   - EDM
-summary: 通过对学习过程中产生的数字痕迹进行收集、分析与报告以理解和优化学习的技术实践
+summary: "通过对学习过程中产生的数字痕迹进行收集、分析与报告以理解和优化学习的技术实践；在高等教育治理中从个性化学习工具延伸至先发制人的学生治理——通过构建数字自我和成功相关性分析在入学前预判和干预"
 type: concept
 tags:
   - learning-analytics
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Transhumanism]]"
   - "[[Performativity of Measurement]]"
   - "[[Digital Self]]"
+  - '[[Digital Optimum]]'
+  - '[[Preemptive Governance]]'
 related_theories: []
 related_methods: []
 related_persons: []
@@ -39,7 +41,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 # Learning Analytics

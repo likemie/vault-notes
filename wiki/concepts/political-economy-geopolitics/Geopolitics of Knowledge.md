@@ -4,7 +4,7 @@ aliases:
 - 知识地缘政治
 - geopolitics of knowledge
 - GPK
-summary: "高等教育被重构为知识地缘政治竞争的核心维度；Thompson et al. (2022) 进一步以 OSA 和 promising student 为案例展示了知识地缘政治在教学治理层面的微观运作——竞争性地缘政治装置如何通过数据化自我技术建构特定主体形态"
+summary: "高等教育被重构为知识地缘政治竞争的核心维度，涉及古典地缘政治向关系性空间构型的转变；在教学治理层面表现为通过 OSA 等数字化自我技术建构竞争性主体形态"
 type: concept
 tags:
 - geopolitics-of-knowledge

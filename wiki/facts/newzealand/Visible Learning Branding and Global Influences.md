@@ -13,6 +13,7 @@ tags:
 - region/newzealand
 - region/australia
 - region/denmark
+- region/sweden
 - region/russia
 - region/international
 related_concepts:
@@ -40,6 +41,7 @@ related_facts:
 - '[[New Zealand National Standards (2009)]]'
 - '[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]'
 - '[[Danish Public School Reform 2014]]'
+- '[[Visible Learning in Sweden]]'
 - '[[Russian Translation of Visible Learning 2017]]'
 - '[[Victorian HITS and Literacy Toolkit 2017]]'
 related_arguments: []
@@ -48,6 +50,7 @@ sources:
 - '[[Terhart_2011_JCS]]'
 - '[[ONeill_2012_NZJES]]'
 - '[[Laursen_2015_Paideia]]'
+- '[[Håkansson_2015_Paideia]]'
 - '[[Hattie_2015_SOTLP]]'
 - '[[Eacott_2017_SLM]]'
 - '[[Eacott_2019_IJLE]]'
@@ -242,6 +245,12 @@ updated: '2026-05-18'
 > - **反弹与批评**：改革后在短期内形成了一个由研究者、政治家和工会代表组成的广泛 [[Interpretation Community|解释社群]]——将 Hattie 从"教育英雄"转变为"教育敌人"。批评文集 [[Hattie på dansk 2017]] 汇集了多篇强烈批评文章（Qvortrup, 2019, p.5）
 > - **Qvortrup 的辩护**：2019 年 Qvortrup 在 NordSTEP 发表讨论论文，以三线论证为 VL 辩护——批评者形成了意识形态驱动的解释社群而非进行学术反驳、定量与定性方法是互补的观察透镜、VL 的目的是提供"智能问题解决的假设"而非"食谱"（详见 [[Argument_Qvortrup_2019_NordSTEP]]）
 > - **Laursen 的适用性检验**：Laursen (2015) 从较温和的经验比较角度追问 Hattie、Meyer 和 Helmke 的国际 [[Effective Teaching|有效教学]] 综合是否适用于丹麦。尽管这些综合主要基于英语国家研究，Laursen 比较 [[SFI Report 2013|SFI 报告]] 和 [[Jill Mehlbye|Mehlbye 高绩效学校研究]] 等丹麦证据后认为，教师领导、清晰目标、高要求、良好班级社会环境等核心质量在丹麦同样促进学生学习（Laursen, 2015, pp.34–40）
+>
+> #### 瑞典
+>
+> 瑞典路径与丹麦和俄罗斯都不同。这里的 VL 影响更少表现为公开的政策争论或译著事件，更多表现为学校改进重心的再定向。Håkansson（2015）指出，2010 年代中期瑞典出现了一种“教学复兴”路径，学校改进越来越多转向课堂近端策略、同伴观察、教师协作和围绕教学主题的系统性质量工作（pp.52–59）。
+>
+> 这一转向的制度背景，是瑞典学校法要求教学建立在“科学基础与经验证据”之上。VL 在这里的作用，不是简单提供一张可直接照搬的教学排行榜，而是提供一套能把研究语言翻译成学校工作流程的框架，例如围绕清晰目标、反馈、课堂领导和教师影响来组织改进（Håkansson, 2015, pp.53–57）。Håkansson 跟踪的 5 所学校显示，这种转化是否真正发生，取决于校长能否长期稳定聚焦单一主题、教师能否围绕具体课堂片段展开专业对话，以及学校是否具备足够的“变革资本”来支撑持续组织学习（pp.58–59）。详见 [[Visible Learning in Sweden]]。
 >
 > #### 俄罗斯
 >

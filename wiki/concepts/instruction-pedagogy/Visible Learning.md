@@ -75,6 +75,7 @@ related_persons:
 related_facts:
 - '[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]'
 - '[[New Zealand National Standards (2009)]]'
+- '[[Visible Learning in Sweden]]'
 - '[[Visible Learning Branding and Global Influences]]'
 related_arguments:
 - '[[Argument_Hattie_2017_SLM]]'
@@ -321,7 +322,13 @@ VL 品牌的传播依赖于 ACEL（澳大利亚教育领导力委员会）、Cog
 
 ### 各国政策采纳
 
-截至 2017 年 VL 已在至少 23 个国家被采用。新西兰和澳大利亚的政策重点从外部因素转向师生互动质量（[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]]）；丹麦 2014 年公立学校改革明确引用 VL，随后引发激烈反弹（Qvortrup, 2019）；瑞典在 2010 年代中期出现了 Håkansson 所说的“教学复兴”路径，即学校改进更集中到课堂近端策略、同伴观察、教师协作和围绕教学的系统性质量工作上，VL 在这里更像重组改进议程的催化剂，而不是单一处方（[[Argument_Håkansson_2015_Paideia|Håkansson, 2015]], pp.52–59）；俄罗斯 2017 年翻译出版 VL 俄文版，但 Golovchin（2019）建议俄教育政策不予采用。各国政策采纳的详细路径、制度嵌入和争议，详见 [[Visible Learning Branding and Global Influences]]。
+截至 2017 年 VL 已在至少 23 个国家被采用。新西兰和澳大利亚的政策重点从外部因素转向师生互动质量（[[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]]）；丹麦 2014 年公立学校改革明确引用 VL，随后引发激烈反弹（Qvortrup, 2019）；瑞典在 2010 年代中期出现了 Håkansson 所说的“教学复兴”路径，即学校改进更集中到课堂近端策略、同伴观察、教师协作和围绕教学的系统性质量工作上，VL 在这里更像重组改进议程的催化剂，而不是单一处方（[[Visible Learning in Sweden]]；[[Argument_Håkansson_2015_Paideia|Håkansson, 2015]], pp.52–59）；俄罗斯 2017 年翻译出版 VL 俄文版，但 Golovchin（2019）建议俄教育政策不予采用。各国政策采纳的详细路径、制度嵌入和争议，详见 [[Visible Learning Branding and Global Influences]]。
+
+#### 瑞典
+
+Håkansson（2015）提供了一条与丹麦和俄罗斯都不同的瑞典路径。VL 在瑞典最重要的作用，不是推动一场围绕“学习目标”或“国家标准”的显性政治冲突，也不是作为一本译著引发方法论争论，而是把学校改进的重心重新拉回课堂教学本身（pp.52–53, 58）。在“教学必须建立在科学基础与经验证据之上”的制度要求下，学校改进越来越常通过课堂试验、同伴观察、课后反思和围绕单一教学主题的教师协作来推进（pp.56–58）。
+
+这意味着瑞典对 VL 的吸收更像一种“工作方式的转向”。学校不只是问“学生成绩有没有上升”，而是更具体地问“这节课里教师是怎样提问的”“学生是否明白学习目标”“反馈是否帮助学生知道下一步怎么改”。Håkansson 跟踪的 5 所学校显示，这种课堂近端改进只有在校长持续聚焦主题、教师愿意围绕具体课堂片段展开专业对话、学校具备长期组织学习能力时才会真正发生（pp.58–59）。参见 [[Visible Learning in Sweden]]。
 
 ### 品牌对批评的免疫与制度化反弹
 

@@ -4,7 +4,7 @@ aliases:
 - 高等教育竞争力
 - 竞争性地缘政治装置
 - competitive university
-summary: "Thompson et al. (2022) 借助 Moisio 等地缘政治理论分析的一种高等教育治理形态：竞争力作为地缘政治装置通过排名、指标化和审计文化将大学重塑为竞争者，在教学领域表现为对学生潜在未来努力的预期管理"
+summary: "高等教育中以排名、指标化和审计文化为基础设施的地缘政治装置，将大学重塑为市场参与者；在教学领域表现为对学生潜在未来努力的预期管理，通过预判性治理工具将不确定性转化为可治理对象"
 type: concept
 tags:
 - competitiveness
@@ -15,6 +15,8 @@ tags:
 - theme/neoliberalism
 - theme/governmentality
 related_concepts:
+  - '[[Stakeholder University]]'
+  - '[[Preemptive Governance]]'
 - '[[Global Universities Rankings]]'
 - '[[Performativity of Measurement]]'
 - '[[Knowledge-Based Economy]]'
@@ -38,7 +40,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-19'
-updated: '2026-05-19'
+updated: 2026-05-20
 ---
 
 # Competitiveness in Higher Education

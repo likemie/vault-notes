@@ -5,7 +5,7 @@ aliases:
 - digitales Selbst
 - statistical artefact
 - 统计人造物
-summary: "Thompson et al. (2022) 借助 Bächle (2016) 分析的一种数据化主体形态：通过学习分析和 OSA 收集的数据将学生特征转化为可归因于个体的数字指标组合，与数字最优形成差异以驱动算法治理和自我优化"
+summary: "通过 OSA 和学习分析收集的数据将学生特征转化为可归因于个体的数字指标组合所建构的统计人造物；与数字最优之间的差异驱动算法治理和自我优化"
 type: concept
 tags:
 - digital-self
@@ -17,6 +17,8 @@ tags:
 - theme/digitalization
 - theme/subjectification
 related_concepts:
+  - '[[Digital Optimum]]'
+  - '[[Preemptive Governance]]'
 - '[[Online Self-Assessment]]'
 - '[[Promising Student]]'
 - '[[Learning Analytics]]'
@@ -33,7 +35,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-20'
-updated: '2026-05-20'
+updated: 2026-05-20
 ---
 
 # Digital Self

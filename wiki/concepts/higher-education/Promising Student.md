@@ -4,7 +4,7 @@ aliases:
 - 有前景的学生
 - 有前途的学生
 - promising student
-summary: "Thompson, Schröder & Wrana (2022) 提出的主体形态概念：在竞争性地缘政治框架中通过 OSA 等数字化治理技术被建构的理想学生类型，以自我评估和持续优化为核心特征，区别于天赋型的传统好学生观"
+summary: "竞争性大学中被 OSA 等数字化治理技术建构的理想学生主体形态，以自我评估和持续优化为核心特征，将学业成功重构为个人风险管理，区别于天赋型的传统好学生观"
 type: concept
 tags:
 - subjectification
@@ -15,6 +15,8 @@ tags:
 - theme/digitalization
 - theme/subjectification
 related_concepts:
+  - '[[Digital Optimum]]'
+  - '[[Preemptive Governance]]'
 - '[[Online Self-Assessment]]'
 - '[[Learning Analytics]]'
 - '[[Knowledge-Based Economy]]'
@@ -35,7 +37,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-19'
-updated: '2026-05-19'
+updated: 2026-05-20
 ---
 
 # Promising Student

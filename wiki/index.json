@@ -371,6 +371,16 @@
     ]
   },
   {
+    "title": "Digital Optimum",
+    "path": "wiki/concepts/educational-technology/Digital Optimum.md",
+    "aliases": [
+      "数字最优",
+      "digitales Optimum",
+      "perfect start",
+      "完美起点"
+    ]
+  },
+  {
     "title": "Digital Self",
     "path": "wiki/concepts/educational-technology/Digital Self.md",
     "aliases": [
@@ -557,6 +567,16 @@
     ]
   },
   {
+    "title": "Preemptive Governance",
+    "path": "wiki/concepts/higher-education/Preemptive Governance.md",
+    "aliases": [
+      "先发制人治理",
+      "预判性治理",
+      "先发制人的学生治理",
+      "preemptive student governance"
+    ]
+  },
+  {
     "title": "Promising Student",
     "path": "wiki/concepts/higher-education/Promising Student.md",
     "aliases": [
@@ -620,6 +640,14 @@
     "aliases": [
       "高等教育空间制造",
       "space-making"
+    ]
+  },
+  {
+    "title": "Stakeholder University",
+    "path": "wiki/concepts/higher-education/Stakeholder University.md",
+    "aliases": [
+      "利益相关者大学",
+      "利益攸关者大学"
     ]
   },
   {
@@ -2853,6 +2881,10 @@
       "东方波士顿",
       "Boston of the East"
     ]
+  },
+  {
+    "title": "Visible Learning in Sweden",
+    "path": "wiki/facts/sweden/Visible Learning in Sweden.md"
   },
   {
     "title": "UAE Education Hub Projects",
