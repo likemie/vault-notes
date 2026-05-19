@@ -26,12 +26,14 @@ related_concepts:
 related_theories:
 - '[[Critical Geopolitics]]'
 - '[[Network Society]]'
-related_methods: []
+related_methods:
+- '[[Comparative Case Study]]'
 related_persons:
 - '[[Jane Knight]]'
 - '[[Marcelo Parreira do Amaral]]'
 - '[[Fazal Rizvi]]'
-related_facts: []
+related_facts:
+- '[[Singapore Education Hub Policy]]'
 related_arguments:
 - '[[Argument_Rizvi_2022_Springer]]'
 - '[[Argument_Erfurth_2022_education-hubs]]'
