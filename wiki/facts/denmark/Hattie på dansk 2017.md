@@ -1,7 +1,7 @@
 ---
 title: Hattie på dansk 2017
 aliases: []
-summary: "Bjerre 等编辑的丹麦语批评文集，汇集多篇对 VL 的强烈批评，Qvortrup 以 Alexander 话语框架定性为\"文化战争"
+summary: "2017 年丹麦出版的 Visible Learning 批评文集，汇集多篇强烈反对 Hattie 的文章，成为丹麦 VL 争议制度化扩散的重要节点"
 type: fact
 subtype: event
 region: denmark

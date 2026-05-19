@@ -3,7 +3,7 @@ title: Goal-Controlled Mode
 aliases:
 - 目标掌控模式
 - goal-controlled mode
-summary: "郑雅君 (2023) 提出的大学生活组织实践图式：早期确立生涯目标，策略性地利用大学资源为毕业出路做准备，根植于优势阶层习性"
+summary: "大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连"
 type: concept
 tags:
 - goal-controlled-mode

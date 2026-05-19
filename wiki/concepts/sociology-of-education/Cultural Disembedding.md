@@ -3,7 +3,7 @@ title: Cultural Disembedding
 aliases:
 - 文化脱嵌
 - cultural disembedding
-summary: "郑雅君 (2023) 的概念：寒门学子进入精英大学后对物理环境和社会文化环境的全面疏离感，是文化障碍的第一重维度"
+summary: "弱势背景学生进入精英大学后对物理环境与社会文化环境的全面疏离感，是高等教育文化障碍的第一重维度"
 type: concept
 tags:
 - cultural-disembedding
