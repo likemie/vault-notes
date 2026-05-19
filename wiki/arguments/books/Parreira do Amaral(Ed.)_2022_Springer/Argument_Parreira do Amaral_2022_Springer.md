@@ -53,7 +53,6 @@ updated: '2026-05-18'
 
 编者以三个当代案例开篇——[[Minerva University]]、University Industry Interaction Network (UIIN) 的 Thoughtbook 系列、以及大学图书馆向"makerspaces"的空间重构——以展示高等教育在想象、物质空间和主体性层面的多维度转变（Thompson & Parreira do Amaral, 2022, pp.2–6）。
 
----
 
 ## 全书结构
 
@@ -69,7 +68,6 @@ updated: '2026-05-18'
 **Part III — Subjectivities and Subject-Formations（Ch 13–15）**
 关注被期望生产的主体原型——创新性、创业性、连接性——以及部署的治理技术。涵盖竞争性大学中的学生成功数字化管理、算法技术中被遗忘的 Bildung 维度、以及 21 世纪技能框架对知识和生产性自我的重新定义。
 
----
 
 ## 理论框架
 
@@ -80,7 +78,6 @@ updated: '2026-05-18'
 - [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念，揭示超国家组织在高等教育区域化中的监管角色
 - [[Global Education Industry]] — Verger et al. (2016) 与 Parreira do Amaral et al. (2019) 的框架，涵盖经济化、商品化、私有化、数字化、市场化、标准化等全球教育变革维度
 
----
 
 ## 各章概览
 
@@ -90,7 +87,6 @@ updated: '2026-05-18'
 > - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos: 以 Cowen 的 transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新型公共教育理论
 > - [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken: 区分 GPK 两面（知识生产 vs 知识转移），提出知识转移六模态，以中美紧张关系为核心案例论证知识转移为 GPK 的真正核心
 
----
 
 ## 来源
 
