@@ -2,7 +2,9 @@
 title: National Education in Hong Kong
 aliases: []
 summary: "培养香港青少年对中华人民共和国的国家认同与爱国情感的教育实践，在国安法后成为课程核心"
-type: concept
+type: fact
+subtype: policy
+region: hongkong
 tags:
 - national-education
 - hong-kong

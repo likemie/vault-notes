@@ -7,7 +7,9 @@ aliases:
 - IB Diploma Program
 - International Baccalaureate
 summary: "覆盖 3–19 岁的国际课程体系（PYP/MYP/DP），709K 学生 2,609 学校 135 国(2009)；六学科组+TOK+EE+CAS；主张意识形态中立但被质疑西方根源"
-type: concept
+type: fact
+subtype: event
+region: global
 tags:
 - region/global
 - level/k12
