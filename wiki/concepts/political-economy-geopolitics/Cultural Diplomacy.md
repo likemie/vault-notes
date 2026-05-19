@@ -1,8 +1,10 @@
 ---
-title: Cultural Diplomacy in Higher Education
+title: Cultural Diplomacy
 aliases:
+- 文化外交
 - 高等教育中的文化外交
 - 高教文化外交
+- cultural diplomacy
 summary: "通过引入外国大学、资助高端文化机构和培育他国精英来提升国家软实力和国际形象的战略_Erfurth 在教育枢纽分析中将其与政治经济维度并列为核心运作维度"
 type: concept
 tags:
@@ -35,7 +37,7 @@ created: 2026-05-19
 updated: 2026-05-19
 ---
 
-# Cultural Diplomacy in Higher Education
+# Cultural Diplomacy
 
 ## 定义
 
