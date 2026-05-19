@@ -229,7 +229,11 @@
   },
   {
     "title": "Bildung",
-    "path": "wiki/concepts/educational-philosophy/Bildung.md"
+    "path": "wiki/concepts/educational-philosophy/Bildung.md",
+    "aliases": [
+      "教养"
+    ],
+    "updated": "2026-05-20"
   },
   {
     "title": "Blind Spot in Observation",
@@ -368,6 +372,16 @@
     ]
   },
   {
+    "title": "Digital Self",
+    "path": "wiki/concepts/educational-technology/Digital Self.md",
+    "aliases": [
+      "数字自我",
+      "digitales Selbst",
+      "statistical artefact",
+      "统计人造物"
+    ]
+  },
+  {
     "title": "Educational Technology Industry",
     "path": "wiki/concepts/educational-technology/Educational Technology Industry.md"
   },
@@ -402,6 +416,15 @@
     "aliases": [
       "学业投入",
       "academic engagement"
+    ]
+  },
+  {
+    "title": "Competitiveness in Higher Education",
+    "path": "wiki/concepts/higher-education/Competitiveness in Higher Education.md",
+    "aliases": [
+      "高等教育竞争力",
+      "竞争性地缘政治装置",
+      "competitive university"
     ]
   },
   {
@@ -450,7 +473,8 @@
       "认知治理",
       "global epistemic governance",
       "知识本位治理"
-    ]
+    ],
+    "updated": "2026-05-20"
   },
   {
     "title": "Global Regionalisms in Higher Education",
@@ -466,7 +490,8 @@
       "league tables",
       "global university rankings",
       "University Rankings (Global)"
-    ]
+    ],
+    "updated": "2026-05-20"
   },
   {
     "title": "Graduate Attributes",
@@ -847,7 +872,8 @@
       "地缘政治主体",
       "geopolitical subject",
       "geopolitical subjects"
-    ]
+    ],
+    "updated": "2026-05-20"
   },
   {
     "title": "Geopolitics of Knowledge",
@@ -856,7 +882,8 @@
       "知识地缘政治",
       "geopolitics of knowledge",
       "GPK"
-    ]
+    ],
+    "updated": "2026-05-20"
   },
   {
     "title": "Hub and Flow Imaginaries",
@@ -913,11 +940,12 @@
     ]
   },
   {
-    "title": "New Public Management in Education",
-    "path": "wiki/concepts/political-economy-geopolitics/New Public Management in Education.md",
+    "title": "New Public Management",
+    "path": "wiki/concepts/political-economy-geopolitics/New Public Management.md",
     "aliases": [
       "新公共管理"
-    ]
+    ],
+    "updated": "2026-05-20"
   },
   {
     "title": "Performance Pay",
@@ -1369,6 +1397,14 @@
     "path": "wiki/theories/educational-philosophy/Science and Technology Studies (STS).md"
   },
   {
+    "title": "Societies of Control",
+    "path": "wiki/theories/educational-philosophy/Societies of Control.md",
+    "aliases": [
+      "控制社会",
+      "société de contrôle"
+    ]
+  },
+  {
     "title": "Technical Rationality",
     "path": "wiki/theories/educational-philosophy/Technical Rationality.md"
   },
@@ -1447,6 +1483,17 @@
   {
     "title": "Fixity-Motion Tension",
     "path": "wiki/theories/political-economy-geopolitics/Fixity-Motion Tension.md"
+  },
+  {
+    "title": "Governmentality",
+    "path": "wiki/theories/political-economy-geopolitics/Governmentality.md",
+    "aliases": [
+      "治理性",
+      "治理术",
+      "gouvernementalité",
+      "conduct of conduct",
+      "行为的引导"
+    ]
   },
   {
     "title": "Hegemony",
@@ -3292,6 +3339,10 @@
     "path": "wiki/arguments/journal-articles/Argument_Fredens_2015_Paideia.md"
   },
   {
+    "title": "Argument_Hansen_2015_Paideia",
+    "path": "wiki/arguments/journal-articles/Argument_Hansen_2015_Paideia.md"
+  },
+  {
     "title": "Argument_Laursen_2015_Paideia",
     "path": "wiki/arguments/journal-articles/Argument_Laursen_2015_Paideia.md"
   },
@@ -3346,59 +3397,5 @@
   {
     "title": "Argument_ONeill_2016_Report",
     "path": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md"
-  },
-  {
-    "title": "Competitiveness in Higher Education",
-    "path": "wiki/concepts/higher-education/Competitiveness in Higher Education.md",
-    "aliases": [
-      "高等教育竞争力",
-      "竞争性地缘政治装置",
-      "competitive university"
-    ]
-  },
-  {
-    "title": "Societies of Control",
-    "path": "wiki/theories/educational-philosophy/Societies of Control.md",
-    "aliases": [
-      "控制社会",
-      "德勒兹控制社会",
-      "Deleuze societies of control",
-      "société de contrôle"
-    ]
-  },
-  {
-    "title": "Digital Self",
-    "path": "wiki/concepts/educational-technology/Digital Self.md",
-    "type": "concept",
-    "tags": [
-      "digital-self",
-      "datafication",
-      "subjectification",
-      "algorithmic-governance",
-      "learning-analytics",
-      "level/higher-ed",
-      "theme/digitalization",
-      "theme/subjectification"
-    ],
-    "status": "draft",
-    "created": "2026-05-20",
-    "updated": "2026-05-20"
-  },
-  {
-    "title": "Governmentality",
-    "path": "wiki/theories/political-economy-geopolitics/Governmentality.md",
-    "type": "theory",
-    "tags": [
-      "Foucault",
-      "governmentality",
-      "conduct-of-conduct",
-      "technologies-of-the-self",
-      "theory/poststructuralism",
-      "theme/governmentality",
-      "theme/subjectification"
-    ],
-    "status": "draft",
-    "created": "2026-05-20",
-    "updated": "2026-05-20"
   }
 ]

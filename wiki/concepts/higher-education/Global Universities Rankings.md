@@ -7,7 +7,7 @@ aliases:
 - league tables
 - global university rankings
 - University Rankings (Global)
-summary: "全球大学排名：比较性评估 HEI 的工具系统，已成为驱动高教系统转型和地缘政治竞争的核心力量，因推行一刀切模型、忽视使命多样性和确认有限公共利益理解而受批评"
+summary: "对各国 HEI 进行比较性评估和排序的工具系统，已成为驱动高教系统转型和地缘政治竞争的核心力量；Thompson et al. (2022) 将其定位为竞争性大学地缘政治装置的基础设施——排名和指标化不描述差异而是创造差异"
 type: concept
 tags:
 - university-rankings
@@ -16,6 +16,9 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - '[[Competitiveness in Higher Education]]'
+  - '[[Promising Student]]'
+  - '[[Online Self-Assessment]]'
 - '[[Geopolitics of Knowledge]]'
 - '[[Knowledge-Based Economy]]'
 - '[[Global Education Industry]]'
@@ -33,10 +36,12 @@ related_facts:
 - '[[THE Impact Ranking 2019]]'
 - '[[PISA]]'
 related_arguments:
+  - '[[Argument_Thompson_2022_Promising_Student]]'
 - '[[Argument_Boyadjieva_2022_Springer]]'
 - '[[Argument_Zapp_2022_Springer]]'
 - '[[Argument_Slethaug_2010_InternationalEducation]]'
 sources:
+  - '[[Ch13_Thompson_2022]]'
 - '[[Ch8_Boyadjieva_2022]]'
 - '[[Ch9_Zapp_2022]]'
 - '[[Marginson_2025_ROE]]'
@@ -44,7 +49,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: 2026-05-20
 ---
 
 # Global Universities Rankings
@@ -124,6 +129,12 @@ updated: '2026-05-18'
 - **作为合法化不平等的工具**：排名"确认、巩固和再生产高等教育的声望和权力"（Marginson, 2009, p.600, cited in Boyadjieva, 2022, p.132），"将资源差异和全球知识生产的不均衡合法化"（Hazelkorn, 2018, p.18, cited in Boyadjieva, 2022, p.134）
 - **作为市场式竞争的驱动者**：排名驱动"高等教育中的市场式竞争"（Marginson, 2014, p.47, cited in Boyadjieva, 2022, p.132），将高等教育从"以地方或次国家范围的、以社会为主的机构"转变为"经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16, cited in Boyadjieva, 2022, p.138）
 - **作为不对等起点**：排名"巩固了领先大学享有的优势……后来者、新兴大学和国家难以打入。排名对竞争中的大学并不'公平'——出发位置明显不对等"（Marginson, 2014, p.46, cited in Boyadjieva, 2022, p.135）
+
+### 排名作为竞争性地缘政治装置的基础设施
+
+Thompson 等人（2022, pp.219–220）从 [[Competitiveness in Higher Education|高等教育竞争力]] 的分析视角，将排名定位为竞争性地缘政治装置（geopolitical apparatus）的核心基础设施。这一视角的关键洞见在于：排名和指标化的运作不仅衡量竞争——它们**创造**竞争。在排名出现之前，大学之间并不天然地处于可比较、可排序的竞争关系之中；排名通过选定指标（论文引用、师生比、国际学生比例）并赋予权重，将异质的大学转化为同质的可比较单位，从而将竞争关系"制造"出来（Thompson et al., 2022, p.220）。
+
+这一分析超越了"排名是否公平"的讨论，指向一个更根本的问题：排名的 [[Performativity of Measurement|生产性]]——排名在"描述"大学的同时规定了"什么是好的大学"，驱动大学将资源集中于排名指标所奖励的活动。在教学领域，这一逻辑进一步延伸至学生治理：大学需要"有前景的学生"来维持和提升排名位置，由此催生了 [[Online Self-Assessment|OSA]] 等预判性治理工具（Thompson et al., 2022, pp.220–226）。详见 [[Competitiveness in Higher Education#排名与指标化作为竞争基础设施]]。
 
 ### 排名作为空间制造
 

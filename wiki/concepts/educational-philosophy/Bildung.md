@@ -2,7 +2,7 @@
 title: Bildung
 aliases:
   - 教养
-summary: 源自德国精神科学传统的品格陶成概念，Larsen (2019) 将其复兴为对可见学习范式的批判和替代框架
+summary: "源自德国精神科学传统的品格陶成概念，Larsen (2019) 将其复兴为对可见学习范式的批判；Thompson et al. (2022, p.227) 将其引入数字治理批判——Bildung 的开放未来与数据预测的封闭性构成根本张力"
 type: concept
 tags:
   - Bildung
@@ -17,9 +17,14 @@ related_concepts:
   - "[[Epochal Key Problems]]"
   - "[[Atomisation of Knowledge and Skills]]"
   - "[[Finnish National Core Curriculum 2014]]"
+  - '[[Promising Student]]'
+  - '[[Online Self-Assessment]]'
+  - '[[Digital Self]]'
 related_theories:
   - "[[Phenomenology]]"
   - "[[Luhmann's Systems Theory]]"
+  - '[[Governmentality]]'
+  - '[[Societies of Control]]'
 related_methods: []
 related_persons:
   - "[[Steen Nepper Larsen]]"
@@ -27,15 +32,17 @@ related_persons:
   - "[[Dietrich Benner]]"
   - "[[Wolfgang Klafki]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Thompson_2022_Promising_Student]]"
 sources:
   - "[[Larsen_2019_EducSci]]"
   - "[[Sarbiewska_2019_JSR]]"
   - "[[Schaffar_2024_CogentEdu]]"
+  - '[[Ch13_Thompson_2022]]'
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-05-18
+updated: 2026-05-20
 ---
 
 ## 定义
@@ -97,6 +104,7 @@ updated: 2026-05-18
 > - Bildung 概念本身高度争议，其语义复杂且多层次，在当代教育政策和实践中面临被边缘化的困境。Larsen 承认其"Bildung 信条"仍需加强和固化（Larsen, 2019, p.10）
 > - 批评者可能认为 Bildung 过于抽象和精英主义，难以在当代大众教育体系中操作
 > - Bildung 在德国和芬兰教育史中曾被用于建立精英阶层结构和强化民族主义；这类用法可理解为对原初思想的误用。[[Wolfgang Klafki]] 强调，经典 Bildung 理论在其时代具有推动正义、自由和责任的激进社会政治性（Schaffar & Wolff, 2024, p.6）。
+- **数字治理对教育开放性的压缩**：Thompson 等人（2022, p.227）将 Bildung 引入对高等教育数字治理的批判。核心张力在于：Bildung 指向一个开放的、不可预测的未来——超越数据相关性；而 [[Online Self-Assessment|OSA]] 和 [[Learning Analytics|学习分析]] 所代表的数字治理逻辑恰恰以"可预测性"为核心——通过"成功相关性"分析预测学生未来、通过 [[Digital Self|数字自我]]与数字最优的差异驱动预先优化。当学生的未来被简化为"被预测的未来"（predicted future），Bildung 所承诺的开放性——那种无法被入场数据预先决定的人格形成过程——被系统性地压缩（Thompson et al., 2022, p.227）。
 
 ## 相关案例／政策
 
