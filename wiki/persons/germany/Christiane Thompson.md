@@ -15,13 +15,19 @@ tags:
 related_concepts:
 - '[[Geopolitics of Knowledge]]'
 - '[[Global Education Industry]]'
+- '[[Online Self-Assessment (OSA)]]'
+- '[[Promising Student]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+- '[[Argument_Thompson_2022_Promising_Student]]'
+related_facts:
+- '[[German Online Self-Assessment Policy 2004]]'
 sources:
 - '[[Parreira do Amaral(Ed.)_2022_Springer]]'
 - '[[Ch3_Parreira do Amaral_2022]]'
+- '[[Ch13_Thompson_2022]]'
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -54,7 +60,7 @@ Christiane Thompson 是德国法兰克福歌德大学（Goethe University Frankf
 
 > [!tip]
 
-Thompson 的研究关注高等教育治理技术如何通过数字化和数据化过程塑造新型主体性——特别是"有前途的学生"（promising student）的建构。她与合作者将大学中的评估工具和自我管理技术理解为一种治理性主体化（governmental subjectification）形式（Thompson & Parreira do Amaral, 2022, pp.15–16）。
+Thompson 的研究关注高等教育治理技术如何通过数字化和数据化过程塑造新型主体性——特别是"有前途的学生"（promising student）的建构。她与合作者将大学中的评估工具和自我管理技术理解为一种治理性主体化（governmental subjectification）形式（Thompson & Parreira do Amaral, 2022, pp.15–16）。在与 Schröder 和 Wrana 的合作中，她进一步将在线自评工具（OSA）分析为竞争性大学中建构"有前景的学生"的核心主体化工具，提出数字自我（digital self）与数字最优（digital optimum）之间的差异驱动算法治理的理论分析框架（Thompson et al., 2022, pp.224–226）。
 
 ## 主要贡献
 

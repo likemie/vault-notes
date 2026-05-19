@@ -15,17 +15,22 @@ related_concepts:
 - '[[Educational Technology Industry]]'
 - '[[Knowledge-Based Economy]]'
 - '[[Transhumanism]]'
+- '[[Online Self-Assessment (OSA)]]'
+- '[[Promising Student]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+- '[[German Online Self-Assessment Policy 2004]]'
+related_arguments:
+- '[[Argument_Thompson_2022_Promising_Student]]'
 sources:
 - '[[Ch4_Amos_2022]]'
+- '[[Ch13_Thompson_2022]]'
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: '2026-05-19'
 ---
 
 ## 定义
@@ -63,6 +68,18 @@ updated: '2026-05-18'
 > - **劳动市场分层**：学习分析同时创造高端技术岗位（数据科学家）和"执行层"教学岗位（按仪表盘指示行动的教师），可能加剧教育劳动市场的两极分化
 > - **去专业化风险**：当教学决策越来越多地由算法驱动，"教师的专业判断"空间可能被压缩——这与 Amos 在章末呼吁的"以 connectivity 和 [[Response-ability]] 为组织原则"的教育形成张力
 >
+
+## 在先发制人的学生治理中的角色
+
+> [!info]
+> Thompson、Schröder 和 Wrana（2022, pp.224–226）分析了学习分析在一种特定的高等教育治理场景中的作用——在线自评工具（[[Online Self-Assessment (OSA)|OSA]]）。在这一场景中，学习分析的技术能力被用于入学前的"先发制人"（preemptive）阶段：
+
+- **从"数字荒漠"到"数字海洋"**：Behrens & DiCerbo（2014, pp.39–40）描述了教育数据挖掘（EDM）如何实现从数据稀缺到数据丰富的转变，这种数据丰富性推进了控制社会的权力——同时承诺了"通过数据实现对自我的完全可读性"（Bächle, 2016, p.172; Thompson et al., 2022, p.224）
+- **ASAP 分类器**：Antunes（2010, pp.353–363）提出了"ASAP 分类器"（ASAP classifiers）——能够自动预测学生成功或失败概率的算法，以便在最早阶段实施对策（Thompson et al., 2022, p.224）
+- **OSA 作为入学前的数据节点**：OSA 使"问题学生"在进入项目之前就能被识别——这是学习分析从学习过程追踪向入学前预判的延伸。OSA 通过收集更广泛的学生特征（兴趣、期望、动机、认知技能），支持构建"学习者模型"（learner models）以识别学业成功的预测因子（Thompson et al., 2022, p.224）
+- **数字自我与数字最优的差异**：学习分析的量化过程伴随着"价值化"（valorization, Mau, 2019, pp.40–59）——不仅仅表征世界（如学生的某种能力），还创造了带有等级不平等的新现实。在 OSA 的情境中，这表现为[[Promising Student|"有前景的学生"]]与"数字最优"之间的差距，驱动着学生的自我优化行为（Thompson et al., 2022, pp.225–226）
+
+> 例：亚利桑那大学的 e-advice 系统提供了学习分析与先发制人治理结合的典型案例——当算法自动追踪记录到一系列"问题学生行为"（如未按时完成课程作业、花在健身房的时间多于图书馆）时，辅导员被自动通知并介入（Amos, 2019, p.238; Thompson et al., 2022, p.225）。这一系统展示了学习分析如何将学生的日常行为转化为持续的调制信号，使干预从反应性（学生主动求助）转变为预判性（系统在学生意识到问题之前就标记风险）。
 
 ## 争议与批评
 
