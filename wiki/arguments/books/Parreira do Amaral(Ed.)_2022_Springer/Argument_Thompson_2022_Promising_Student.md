@@ -88,7 +88,7 @@ updated: '2026-05-19'
 
 将 OSA 置于竞争性大学的更广框架中理解：借助 [[Sami Moisio|Moisio]]（2018）对[[Knowledge-Based Economy|知识经济]]地缘政治的分析，竞争力已成为重新组织高等教育的"地缘政治装置"（geopolitical apparatus）：
 
-- [[Global Universities Rankings|排名]]和指标化实践将大学转化为竞争者——[[Performativity of Measurement|测量的操演性]]在此发挥关键作用（Thompson et al., 2022, p.220）
+- [[Global Universities Rankings|排名]]和指标化实践将大学转化为竞争者——[[Performativity of Measurement|测量的生产性]]在此发挥关键作用（Thompson et al., 2022, p.220）
 - 在科研领域，Bröckling & Peter（2017）已证明"卓越"与自我呈现和持续自我优化的任务绑定在一起——德国卓越计划和英国 REF 就是通过指标和排名构建市场环境的典型技术（Thompson et al., 2022, p.220）
 - 在教学领域，竞争力表现为对**学生成功的预期管理**——大学竞争的是学生的"潜在未来努力"（Thompson et al., 2022, p.220）
 

@@ -1,6 +1,8 @@
 ---
 title: Performativity of Measurement
-aliases: []
+aliases:
+- 测量的生产性
+- 测量的施行性
 summary: "测量不仅是描述性行为更是制造世界的生产性行为，一旦存在即改变优先事项和行为，批判测量因此是道德事业"
 type: concept
 tags:
@@ -46,7 +48,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> Performativity of Measurement（测量的施行性 / 生产性）是指：测量不仅仅是描述世界的中立行为，更是制造世界的生产性行为。measurement 一旦启动，就作用于世界，改变优先事项、影响行为、政策和实践（Gorur, 2014, p.7, 17–18）。
+> Performativity of Measurement（测量的生产性）是指：测量不仅仅是描述世界的中立行为，更是制造世界的生产性行为。measurement 一旦启动，就作用于世界，改变优先事项、影响行为、政策和实践（Gorur, 2014, p.7, 17–18）。
 >
 > > "As soon as the measurement exercise begins, it acts upon the world, changing priorities and influencing behaviours, policies and practices."（Gorur, 2014, p.7）
 

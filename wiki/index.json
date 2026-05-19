@@ -373,7 +373,14 @@
   },
   {
     "title": "Learning Analytics",
-    "path": "wiki/concepts/educational-technology/Learning Analytics.md"
+    "path": "wiki/concepts/educational-technology/Learning Analytics.md",
+    "aliases": [
+      "学习分析",
+      "学习分析学",
+      "LA",
+      "Educational Data Mining",
+      "EDM"
+    ]
   },
   {
     "title": "Transhumanism",
@@ -1061,7 +1068,11 @@
   },
   {
     "title": "Performativity of Measurement",
-    "path": "wiki/concepts/research-methodology/Performativity of Measurement.md"
+    "path": "wiki/concepts/research-methodology/Performativity of Measurement.md",
+    "aliases": [
+      "测量的生产性",
+      "测量的施行性"
+    ]
   },
   {
     "title": "Potential Outcomes Framework",
