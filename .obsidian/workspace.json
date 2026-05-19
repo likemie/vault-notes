@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
+                "file": "wiki/concepts/political-economy-geopolitics/Hub and Flow Imaginaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Erfurth_2022_education-hubs"
+              "title": "Hub and Flow Imaginaries"
             }
           }
         ]
@@ -189,17 +189,20 @@
   },
   "active": "f49437b00d1a74a8",
   "lastOpenFiles": [
+    "wiki/concepts/political-economy-geopolitics/Geopolitical Subject.md",
+    "wiki/concepts/political-economy-geopolitics/Hub and Flow Imaginaries.md",
+    "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economization.md",
+    "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economy.md",
     "wiki/theories/political-economy-geopolitics/Cultural Political Economy.md",
+    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
     "wiki/concepts/political-economy-geopolitics/Cultural Diplomacy.md",
     "wiki/concepts/political-economy-geopolitics/Cultural Diplomacy in Higher Education.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
     "wiki/persons/uk/Bob Jessop.md",
     "wiki/persons/finland/Sami Moisio.md",
     "wiki/concepts/higher-education/International Education Hubs.md",
     "wiki/facts/uae/UAE Education Hub Projects.md",
     "wiki/methods/qualitative/Comparative Case Study.md",
     "Cultural Political Economy.md",
-    "wiki/concepts/political-economy-geopolitics/Hub and Flow Imaginaries.md",
     "wiki/concepts/political-economy-geopolitics/Spatial Sortings.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch12_Erfurth_2022.md",
     "sources/Parreira do Amaral(Ed.)_2022_Springer.md",
@@ -211,7 +214,6 @@
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch12_Erfurth_2022.pdf",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_Springer.md",
     "wiki/persons/brazil/Marcelo Parreira do Amaral.md",
-    "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economy.md",
     "raw/Argument_Parreira do Amaral_2022_Springer_12章.pdf",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
@@ -219,8 +221,6 @@
     "raw/978-3-030-94415-5_12章.pdf",
     "raw/978-3-030-94415-5_12.pdf",
     "wiki/wiki-index.md",
-    "wiki/persons/brazil/Paulo Freire.md",
-    "wiki/arguments/arguments-index.md",
     "wiki/wiki_index.py",
     "wiki/index.json",
     "wiki/persons/argentina",
