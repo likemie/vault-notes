@@ -1,7 +1,7 @@
 ---
 title: Vergegenkunft
 aliases: []
-summary: "Günther Grass 自创的文学原则：Vergangenheit/Gegenwart/Zukunft（过去/现在/未来）的合成词，表达时间的非线性纠缠，Amos (2022) 以此说明教育转型中过去-现在-未来的交织"
+summary: "把过去、现在和未来压缩进同一时间结构的文学概念，用来表达历史经验与未来想象在当下不断纠缠的非线性时间感"
 type: concept
 tags:
 - vergegenkunft

@@ -1,7 +1,7 @@
 ---
 title: Autopoiesis
 aliases: []
-summary: "Maturana & Varela 的生命系统理论：生命系统通过自我指涉和自我生产持续维持自身，Escobar 延伸至社会转型分析，Amos (2022) 将其与 Haraway 的 sympoiesis 对照用于晚期现代性教育愿景分析"
+summary: "把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织"
 type: theory
 tags:
 - autopoiesis

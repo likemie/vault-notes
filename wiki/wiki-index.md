@@ -59,29 +59,29 @@ Total entries: **577**
 
 - [[Bildung]] — 源自德国精神科学传统的品格陶成概念，主张教育应指向超越工具性学习和数据相关性的开放未来；在数字治理语境中，其开放性与 OSA 可预测性逻辑构成根本张力
 - [[Blind Spot in Observation]] — Niklas Luhmann 的观察盲点概念：每次观察都基于盲点，观察者无法看见自身，Larsen 将其应用于 VL 范式批判
-- [[Buen Vivir]] — 拉丁美洲安第斯原住民传统概念：\"与自然和共同体和谐共处\"的\"好好生活\"——区别于 vivir mejor（更好生活=更多消费），Amos (2022) 将其与后人类主义并置为替代现代性教育愿景的非西方文化资源
+- [[Buen Vivir]] — 安第斯原住民传统中的好好生活概念，强调与自然、共同体和日常再生产保持和谐，而不是把更多消费视为更好生活
 - [[Cargo Cult Science]] — Feynman (1974) 概念：看起来像科学但缺乏认识论诚信的伪科学实践，应用于 VL 批判
 - [[Complexity Reduction]] — 通过减少系统中的可用选项数量使社会情境变得可预测，Biesta 将其定义为政治权力行为
 - [[Ecomuseology]] — 生态博物馆学：将整个地域视为博物馆，由社区主导保护和阐释自然与文化遗产，与巴西社会博物馆学高度交叉共存
 - [[Epistemological Break]] — Bourdieu 认识论核心概念：科学研究必须与前科学世界的日常语言和自发理解决裂，Eacott 将其引入教育行政研究
 - [[Epistemological Vigilance]] — Bourdieu 认识论核心概念：社会科学家需持续保持对日常语言和前科学概念的批判性警觉，是终身的智识项目
 - [[Epistemology of Resistance]] — 抵抗认识论：从被排斥群体的具体经验出发构建替代性知识形式，Rocinha 贫民窟剧场导演 Castelo Branco 的 EspectAtor 方法为核心实践案例
-- [[Humosity]] — Rusten Hogness 创造、Haraway 使用的概念：\"腐殖性\"——将人类彻底去中心化，承认人类的生死不过是物质循环中的一环（如同腐殖质），Amos (2022) 将其定位为后人类主义与超人类主义世界观分歧的精确表达
-- [[Incarnation-Extension Dialectics]] — Larsen (2019) 提出的具身化-扩展双向运动框架，作为 VL 的替代学习理论
-- [[Learnification]] — Gert Biesta 提出的批判概念：学习被效果中心的结果逻辑所吞噬，教师被降格为\"学习促进者\"，Larsen (2019) 在丹麦语境中追溯其历史演变
+- [[Humosity]] — 将人类去中心化并置入物质循环之中的后人类主义概念，强调人类生命只是更广泛生态生成与腐解过程中的一环
+- [[Incarnation-Extension Dialectics]] — 把学习理解为具身存在与向外延展之间双向运动的框架，强调身体、环境和世界关系在认知形成中的共同作用
+- [[Learnification]] — 批判教育被学习结果和效果逻辑全面重写的概念，指出教师角色、课程内容和教育目的会被压缩为促进可测学习的手段
 - [[Moral Sidestep]] — 政策制定者以道德关切回避或替代实证研究证据的话语策略，在教育政策辩论中常表现为把价值判断包装成证据立场
 - [[Multiplicity (Massey)]] — Doreen Massey (2005) 的空间理论核心概念：空间中差异的共存，多重轨迹交汇产生不可预测性，\"总是有松散的末端\"意味着任何权力系统都无法永久固定
 - [[Narrative Knowledge]] — Lyotard (1979/1984) 区分于科学知识的社科人文知识类型，Partaken 分析其在全球化中因商业价值科学知识崛起而急剧衰退
 - [[Otherhood]] — Meyer & Jepperson (2000) 的概念：组织为其他行动者、非行动者实体和现代性原则行使代理权的社会过程；大学近乎理想型地代表 otherhood 的全部三种形式
-- [[Posthumanism]] — Amos (2022) 通过 Haraway 和 Escobar 分析的后人类主义：将人类从宇宙中心彻底移开，强调人与非人之间通过 sympoiesis（共同制造）和 response-ability 的根本性相互依存，作为超人类主义的对立教育愿景
-- [[Response-ability]] — Donna Haraway 的双关伦理概念：同时意味着 responsibility（责任）和 ability to respond（回应的能力），是 sympoiesis 的伦理内核——世界通过共同制造而存在，伦理因此要求发展对他者需求的敏感性和回应能力
+- [[Posthumanism]] — 将人类从世界中心位置移开并强调人与非人共同生成、相互依存和关系责任的思想取向，是现代人类中心主义的重要批判方向
+- [[Response-ability]] — 把责任理解为对他者和共同世界保持敏感并具备回应能力的伦理概念，是后人类主义关系伦理的重要核心
 - [[Scientism]] — 对科学方法的过度美化及在其原始范围之外轻率应用，Gasparatou/Hayek/Ross 等定义，Johnson & Janzen 将其应用于 VL 批判
 - [[Social Museology]] — 社会博物馆学（sociomuseologia）：将博物馆定位为社区发展工具，居民自己选择展品、讲述故事、保存记忆，巴西社区博物馆和生态博物馆为其主要实践形式
-- [[Structural Coupling]] — Luhmann (1997) 系统理论概念：两个封闭、自我指涉系统之间的非因果链接，Qvortrup 用于描述教学与学习之间的关系 — Eacott 以 Callahan (1962) 为框架提出的概念，描述教育领导力领域对单一权威人物的不加批判的接受，以 Hattie 崇拜为典型案例分析其形成的三个时间条件
-- [[Sympoiesis]] — Haraway 的核心概念：\"与他人一起制造\"（making with），与 autopoiesis（自我制造）形成对照，强调跨物种的相互依存和伦理回应（response-ability），是后人类主义教育的核心伦理表达
+- [[Structural Coupling]] — 系统理论中的概念，指两个自我指涉系统在保持各自封闭性的同时通过稳定接口相互关联而非直接因果控制
+- [[Sympoiesis]] — 强调存在总是在与他者共同制造中生成的后人类主义概念，突出跨物种相互依存、协作生成和伦理回应关系
 - [[Ubuntu]] — 非洲关系性伦理哲学：\"一个人之所以为人，是因为其他人\"（I am because we are），Amos (2022) 将其与后人类主义并置为非西方的关系性本体论资源
-- [[Value-Based Education]] — Biesta 提出的教育取向：价值先于证据，教育的目的性判断从属于\"我们想要达成什么\"而非\"什么有效
-- [[Vergegenkunft]] — Günther Grass 自创的文学原则：Vergangenheit/Gegenwart/Zukunft（过去/现在/未来）的合成词，表达时间的非线性纠缠，Amos (2022) 以此说明教育转型中过去-现在-未来的交织
+- [[Value-Based Education]] — 把教育目的与价值判断置于证据选择之前的教育取向，强调先回答想培养什么样的人与社会，再讨论什么做法有效
+- [[Vergegenkunft]] — 把过去、现在和未来压缩进同一时间结构的文学概念，用来表达历史经验与未来想象在当下不断纠缠的非线性时间感
 - [[Whole Sustainability]] — 整体可持续性：Delambre 将张力理论应用于可持续性领域的概念，纳入局部社区的一切生命力量要素及内外部威胁
 
 ### Educational Technology
@@ -264,10 +264,10 @@ Total entries: **577**
 ### Comparative Education
 
 - [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，Laursen (2015) 用其检验以英语国家研究为主的有效教学综合是否适用于丹麦
-- [[Institutional Isomorphism]] — DiMaggio & Powell (1983) 的组织社会学理论：组织场域中的组织通过强制型、模仿型和规范型三种机制在结构和实践上趋于同质化，Hartmann (2022) 应用于分析 MNCs 企业教育的规范扩散
+- [[Institutional Isomorphism]] — 解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论
 - [[Nation Building through Education]] — 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析
-- [[World Society Theory]] — Meyer et al. (1997) 的社会学理论（亦称 World Culture Theory / 斯坦福学派）：世界社会通过 otherhood（文化模型的扩散与模仿）建构和维持，解释全球学校模式趋同和大学在全球治理中的知识权威角色；LS 案例揭示其解释力局限
-- [[World-Systems Theory]] — Immanuel Wallerstein (1974) 的中心-边缘-半边缘三层全球空间理论，零和剩余假设，Marginson (2025) 以过去三十年高等教育和科学的多国同时进步论证其刚性空间性的失败
+- [[World Society Theory]] — 把全球制度扩散理解为世界文化模型广泛传播与模仿结果的社会学理论，用于解释学校制度和大学组织为何在跨国范围内趋同
+- [[World-Systems Theory]] — 把全球资本主义组织为中心、半边缘和边缘三层结构的历史社会理论，用于分析国家与地区在世界体系中的不平等位置和依附关系
 
 ### Curriculum
 
@@ -275,23 +275,23 @@ Total entries: **577**
 
 ### Educational Philosophy
 
-- [[Autopoiesis]] — Maturana & Varela 的生命系统理论：生命系统通过自我指涉和自我生产持续维持自身，Escobar 延伸至社会转型分析，Amos (2022) 将其与 Haraway 的 sympoiesis 对照用于晚期现代性教育愿景分析
+- [[Autopoiesis]] — 把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织
 - [[Critical Realism]] — Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架
 - [[Goldman's Discrimination Theory of Knowledge]] — 知识的成立依赖区分真实状态与相关替代可能状态的能力，可用于说明教育判断为何往往具有局部性、情境性与暂定性
 - [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，Larsen (2019) 以盲点和结构耦合概念批判 VL
 - [[Phenomenology]] — 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的\"现象\"概念和教育意义
-- [[Popper's Three Worlds Theory]] — Karl Popper 的本体论框架：World 1 物理世界 / World 2 主观世界 / World 3 文化与科学对象（\"客观地伟大的\"），Rømer (2018) 论证 Hattie 通过 Bereiter 严重误读该理论
-- [[Radical Constructivism]] — von Glasersfeld (1995) 的学习理论：以唯我论为出发点，所有学习和知识都是主观建构，Rømer (2018) 论证其为 Hattie VL 的学习理论根基
+- [[Popper's Three Worlds Theory]] — 将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承
+- [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
 - [[Science and Technology Studies (STS)]] — 跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念
 - [[Societies of Control]] — Deleuze (1992) 提出的社会理论_ 后规训时代的权力形态以持续调制取代封闭式规训，教育机构被纳入企业网络逻辑，调制永不终止
-- [[Technical Rationality]] — Schön (1983) 的实证主义专业实践模型：工程/医学模式，手段-目的思维，价值中立；Nielsen & Klitmøller 论证其为 Hattie VL 的理论内核
+- [[Technical Rationality]] — 把专业实践理解为以手段目的计算解决问题的实证主义模型，强调技术控制、价值中立和标准化决策，是批判教育技术化的重要参照
 - [[Transactional Epistemology]] — Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
-- [[Transition Design]] — Escobar (2018) 基于 Irwin (2015) 的社会变革框架：转型不是被设计的而是涌现的，以生命系统理论（autopoiesis）为本体论基础，以日常生活为设计情境，十条原则倡导基于地方的全球化联网和草根方案放大
+- [[Transition Design]] — 把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大
 
 ### Higher Education
 
 - [[Creative Tension of Sense]] — Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话
-- [[Network Society]] — Castells (1996) 的理论：社会组织从稳定等级制转向流动网络形式，Benkler (2006) 延伸论证跨国网络为知识创造新源泉，Rizvi (2022) 用于分析跨国研究合作的网络化转型
+- [[Network Society]] — 把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织
 
 ### Instruction Pedagogy
 
@@ -306,23 +306,23 @@ Total entries: **577**
 
 ### Political Economy Geopolitics
 
-- [[Critical Geopolitics]] — 1990s 以来人文地理学批判转向：空间性≠领土性，地缘政治通过政治想象和话语被建构，Moisio (2022) 将其应用于知识经济化，Parreira do Amaral (2022) 将其作为新知识地缘政治的两大分析支柱之一
-- [[Cultural Political Economy]] — Sum & Jessop (2013) 提出的理论框架，主张文化（符号）维度与结构-物质维度在经济和政治分析中应被同等对待，Erfurth (2022) 将其应用于教育枢纽分析，导出文化外交与政治经济两个运作维度
-- [[Decolonial Geopolitics of Knowledge]] — Mignolo/Dussel 的去殖民批判：西方认识论通过殖民差异稳定全球权力空间表达，主张社会科学去殖民化而非\"开放\"，Parreira do Amaral (2022) 将其作为新知识地缘政治的两大分析支柱之一
-- [[Fixity-Motion Tension]] — David Harvey (1985/2001) 的资本主义地缘政治核心理论：资本主义需要创造空间固着来促进资本流通，但流通又不断破坏既有空间配置，Moisio (2022) 将其应用于知识经济化分析
+- [[Critical Geopolitics]] — 把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实
+- [[Cultural Political Economy]] — 把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造
+- [[Decolonial Geopolitics of Knowledge]] — 从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化
+- [[Fixity-Motion Tension]] — 解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论
 - [[Governmentality]] — Foucault 提出的权力分析概念_ 一种通过塑造主体自我理解而非直接强制来引导行为（conduct of conduct）的治理理性，以自我技术为运作机制
 - [[Hegemony]] — Antonio Gramsci (1971) 的权力理论：区分强制与霸权（通过法律、教育、媒体、科学、大学等文化制度赢得被统治者积极同意），文化部门的半自主性和知识分子的双重角色是高等教育地缘政治分析的核心工具
 - [[Tullock's Bureaucracy Theory]] — 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
 
 ### Research Methodology
 
-- [[Campbellian Validity Framework]] — Shadish, Cook & Campbell (2002) 的实验效度理论：因果推断需通过排除内部效度威胁建立因果关系，再评估跨情境/人群/测量的外部效度，Hitchcock et al. (2015) 应用于 SCD 审查程序
+- [[Campbellian Validity Framework]] — 围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界
 - [[Cartwright's Three-Stage Knowledge Framework]] — RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用
 
 ### Sociology of Education
 
 - [[Capability Approach in Education]] — Drèze & Sen (2002) 的可行能力路径在教育中的应用：区分教育对个人自由的五种价值（内在重要性、工具性个人/社会/过程角色、赋权与分配），Boyadjieva (2022) 以此为基础构建高等教育多维使命模型
-- [[Culture as Toolkit]] — Ann Swidler (1986) 的文化社会学理论：文化不仅定义价值观更是提供行动策略所需的\"工具\"，郑雅君 (2023) 用于分析大学生活组织图式的阶层差异
+- [[Culture as Toolkit]] — 把文化理解为提供行动策略、习惯和可调用资源工具箱的文化社会学理论，强调人们并非只按抽象价值观行动
 - [[Dual Elite Career Paths]] — Andrew Walder 的后社会主义精英流动理论：政治管理精英（党员身份）与专业技术精英（大学学历）为两条分立路径，郑雅君 (2023) 用于分析中国名校毕业生出路选择
 - [[Dual-Process Model of Culture in Action]] — Stephen Vaisey (2009) 的理论：调和文化工具箱与价值观驱动两种范式，论证二者在不同意识层次上并存，郑雅君 (2023) 作为\"价值选择过程\"的理论基础
 - [[Rational Action Theory in Education]] — Breen & Goldthorpe (1997) 的教育分层理论：以相对风险规避机制解释阶层间教育选择的系统性差异，揭示家庭背景的次属效应，郑雅君 (2023) 作为\"价值选择过程\"的理论对话方

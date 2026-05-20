@@ -1,7 +1,7 @@
 ---
 title: Technical Rationality
 aliases: []
-summary: "Schön (1983) 的实证主义专业实践模型：工程/医学模式，手段-目的思维，价值中立；Nielsen & Klitmøller 论证其为 Hattie VL 的理论内核"
+summary: "把专业实践理解为以手段目的计算解决问题的实证主义模型，强调技术控制、价值中立和标准化决策，是批判教育技术化的重要参照"
 type: theory
 tags:
 - technical-rationality

@@ -1,7 +1,7 @@
 ---
 title: Value-Based Education
 aliases: []
-summary: "Biesta 提出的教育取向：价值先于证据，教育的目的性判断从属于\"我们想要达成什么\"而非\"什么有效"
+summary: "把教育目的与价值判断置于证据选择之前的教育取向，强调先回答想培养什么样的人与社会，再讨论什么做法有效"
 type: concept
 tags:
 - value-based-education

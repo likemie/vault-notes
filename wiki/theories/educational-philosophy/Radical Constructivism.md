@@ -1,7 +1,7 @@
 ---
 title: Radical Constructivism
 aliases: []
-summary: "von Glasersfeld (1995) 的学习理论：以唯我论为出发点，所有学习和知识都是主观建构，Rømer (2018) 论证其为 Hattie VL 的学习理论根基"
+summary: "把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握"
 type: theory
 tags:
 - 激进建构主义

@@ -1,7 +1,7 @@
 ---
 title: Humosity
 aliases: []
-summary: "Rusten Hogness 创造、Haraway 使用的概念：\"腐殖性\"——将人类彻底去中心化，承认人类的生死不过是物质循环中的一环（如同腐殖质），Amos (2022) 将其定位为后人类主义与超人类主义世界观分歧的精确表达"
+summary: "将人类去中心化并置入物质循环之中的后人类主义概念，强调人类生命只是更广泛生态生成与腐解过程中的一环"
 type: concept
 tags:
 - humosity

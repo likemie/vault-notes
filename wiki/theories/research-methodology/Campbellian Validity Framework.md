@@ -1,7 +1,7 @@
 ---
 title: Campbellian Validity Framework
 aliases: []
-summary: "Shadish, Cook & Campbell (2002) 的实验效度理论：因果推断需通过排除内部效度威胁建立因果关系，再评估跨情境/人群/测量的外部效度，Hitchcock et al. (2015) 应用于 SCD 审查程序"
+summary: "围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界"
 type: theory
 tags:
 - Campbellian-validity

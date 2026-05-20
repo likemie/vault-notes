@@ -6,7 +6,7 @@ aliases:
 - 制度性同构
 - institutional isomorphism theory
 - DiMaggio and Powell isomorphism
-summary: "DiMaggio & Powell (1983) 的组织社会学理论：组织场域中的组织通过强制型、模仿型和规范型三种机制在结构和实践上趋于同质化，Hartmann (2022) 应用于分析 MNCs 企业教育的规范扩散"
+summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论"
 type: theory
 tags:
 - paradigm/interpretivist

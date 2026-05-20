@@ -1,7 +1,7 @@
 ---
 title: Fixity-Motion Tension
 aliases: []
-summary: "David Harvey (1985/2001) 的资本主义地缘政治核心理论：资本主义需要创造空间固着来促进资本流通，但流通又不断破坏既有空间配置，Moisio (2022) 将其应用于知识经济化分析"
+summary: "解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论"
 type: theory
 tags:
 - fixity-motion-tension

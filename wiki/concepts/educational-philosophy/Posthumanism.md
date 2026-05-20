@@ -1,7 +1,7 @@
 ---
 title: Posthumanism
 aliases: []
-summary: "Amos (2022) 通过 Haraway 和 Escobar 分析的后人类主义：将人类从宇宙中心彻底移开，强调人与非人之间通过 sympoiesis（共同制造）和 response-ability 的根本性相互依存，作为超人类主义的对立教育愿景"
+summary: "将人类从世界中心位置移开并强调人与非人共同生成、相互依存和关系责任的思想取向，是现代人类中心主义的重要批判方向"
 type: concept
 tags:
 - posthumanism

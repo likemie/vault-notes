@@ -55,29 +55,29 @@ Total entries: **212**
 
 - [[Bildung]] — 源自德国精神科学传统的品格陶成概念，主张教育应指向超越工具性学习和数据相关性的开放未来；在数字治理语境中，其开放性与 OSA 可预测性逻辑构成根本张力
 - [[Blind Spot in Observation]] — Niklas Luhmann 的观察盲点概念：每次观察都基于盲点，观察者无法看见自身，Larsen 将其应用于 VL 范式批判
-- [[Buen Vivir]] — 拉丁美洲安第斯原住民传统概念：\"与自然和共同体和谐共处\"的\"好好生活\"——区别于 vivir mejor（更好生活=更多消费），Amos (2022) 将其与后人类主义并置为替代现代性教育愿景的非西方文化资源
+- [[Buen Vivir]] — 安第斯原住民传统中的好好生活概念，强调与自然、共同体和日常再生产保持和谐，而不是把更多消费视为更好生活
 - [[Cargo Cult Science]] — Feynman (1974) 概念：看起来像科学但缺乏认识论诚信的伪科学实践，应用于 VL 批判
 - [[Complexity Reduction]] — 通过减少系统中的可用选项数量使社会情境变得可预测，Biesta 将其定义为政治权力行为
 - [[Ecomuseology]] — 生态博物馆学：将整个地域视为博物馆，由社区主导保护和阐释自然与文化遗产，与巴西社会博物馆学高度交叉共存
 - [[Epistemological Break]] — Bourdieu 认识论核心概念：科学研究必须与前科学世界的日常语言和自发理解决裂，Eacott 将其引入教育行政研究
 - [[Epistemological Vigilance]] — Bourdieu 认识论核心概念：社会科学家需持续保持对日常语言和前科学概念的批判性警觉，是终身的智识项目
 - [[Epistemology of Resistance]] — 抵抗认识论：从被排斥群体的具体经验出发构建替代性知识形式，Rocinha 贫民窟剧场导演 Castelo Branco 的 EspectAtor 方法为核心实践案例
-- [[Humosity]] — Rusten Hogness 创造、Haraway 使用的概念：\"腐殖性\"——将人类彻底去中心化，承认人类的生死不过是物质循环中的一环（如同腐殖质），Amos (2022) 将其定位为后人类主义与超人类主义世界观分歧的精确表达
-- [[Incarnation-Extension Dialectics]] — Larsen (2019) 提出的具身化-扩展双向运动框架，作为 VL 的替代学习理论
-- [[Learnification]] — Gert Biesta 提出的批判概念：学习被效果中心的结果逻辑所吞噬，教师被降格为\"学习促进者\"，Larsen (2019) 在丹麦语境中追溯其历史演变
+- [[Humosity]] — 将人类去中心化并置入物质循环之中的后人类主义概念，强调人类生命只是更广泛生态生成与腐解过程中的一环
+- [[Incarnation-Extension Dialectics]] — 把学习理解为具身存在与向外延展之间双向运动的框架，强调身体、环境和世界关系在认知形成中的共同作用
+- [[Learnification]] — 批判教育被学习结果和效果逻辑全面重写的概念，指出教师角色、课程内容和教育目的会被压缩为促进可测学习的手段
 - [[Moral Sidestep]] — 政策制定者以道德关切回避或替代实证研究证据的话语策略，在教育政策辩论中常表现为把价值判断包装成证据立场
 - [[Multiplicity (Massey)]] — Doreen Massey (2005) 的空间理论核心概念：空间中差异的共存，多重轨迹交汇产生不可预测性，\"总是有松散的末端\"意味着任何权力系统都无法永久固定
 - [[Narrative Knowledge]] — Lyotard (1979/1984) 区分于科学知识的社科人文知识类型，Partaken 分析其在全球化中因商业价值科学知识崛起而急剧衰退
 - [[Otherhood]] — Meyer & Jepperson (2000) 的概念：组织为其他行动者、非行动者实体和现代性原则行使代理权的社会过程；大学近乎理想型地代表 otherhood 的全部三种形式
-- [[Posthumanism]] — Amos (2022) 通过 Haraway 和 Escobar 分析的后人类主义：将人类从宇宙中心彻底移开，强调人与非人之间通过 sympoiesis（共同制造）和 response-ability 的根本性相互依存，作为超人类主义的对立教育愿景
-- [[Response-ability]] — Donna Haraway 的双关伦理概念：同时意味着 responsibility（责任）和 ability to respond（回应的能力），是 sympoiesis 的伦理内核——世界通过共同制造而存在，伦理因此要求发展对他者需求的敏感性和回应能力
+- [[Posthumanism]] — 将人类从世界中心位置移开并强调人与非人共同生成、相互依存和关系责任的思想取向，是现代人类中心主义的重要批判方向
+- [[Response-ability]] — 把责任理解为对他者和共同世界保持敏感并具备回应能力的伦理概念，是后人类主义关系伦理的重要核心
 - [[Scientism]] — 对科学方法的过度美化及在其原始范围之外轻率应用，Gasparatou/Hayek/Ross 等定义，Johnson & Janzen 将其应用于 VL 批判
 - [[Social Museology]] — 社会博物馆学（sociomuseologia）：将博物馆定位为社区发展工具，居民自己选择展品、讲述故事、保存记忆，巴西社区博物馆和生态博物馆为其主要实践形式
-- [[Structural Coupling]] — Luhmann (1997) 系统理论概念：两个封闭、自我指涉系统之间的非因果链接，Qvortrup 用于描述教学与学习之间的关系 — Eacott 以 Callahan (1962) 为框架提出的概念，描述教育领导力领域对单一权威人物的不加批判的接受，以 Hattie 崇拜为典型案例分析其形成的三个时间条件
-- [[Sympoiesis]] — Haraway 的核心概念：\"与他人一起制造\"（making with），与 autopoiesis（自我制造）形成对照，强调跨物种的相互依存和伦理回应（response-ability），是后人类主义教育的核心伦理表达
+- [[Structural Coupling]] — 系统理论中的概念，指两个自我指涉系统在保持各自封闭性的同时通过稳定接口相互关联而非直接因果控制
+- [[Sympoiesis]] — 强调存在总是在与他者共同制造中生成的后人类主义概念，突出跨物种相互依存、协作生成和伦理回应关系
 - [[Ubuntu]] — 非洲关系性伦理哲学：\"一个人之所以为人，是因为其他人\"（I am because we are），Amos (2022) 将其与后人类主义并置为非西方的关系性本体论资源
-- [[Value-Based Education]] — Biesta 提出的教育取向：价值先于证据，教育的目的性判断从属于\"我们想要达成什么\"而非\"什么有效
-- [[Vergegenkunft]] — Günther Grass 自创的文学原则：Vergangenheit/Gegenwart/Zukunft（过去/现在/未来）的合成词，表达时间的非线性纠缠，Amos (2022) 以此说明教育转型中过去-现在-未来的交织
+- [[Value-Based Education]] — 把教育目的与价值判断置于证据选择之前的教育取向，强调先回答想培养什么样的人与社会，再讨论什么做法有效
+- [[Vergegenkunft]] — 把过去、现在和未来压缩进同一时间结构的文学概念，用来表达历史经验与未来想象在当下不断纠缠的非线性时间感
 - [[Whole Sustainability]] — 整体可持续性：Delambre 将张力理论应用于可持续性领域的概念，纳入局部社区的一切生命力量要素及内外部威胁
 
 ## Educational Technology

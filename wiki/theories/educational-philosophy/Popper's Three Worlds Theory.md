@@ -1,7 +1,7 @@
 ---
 title: Popper's Three Worlds Theory
 aliases: []
-summary: "Karl Popper 的本体论框架：World 1 物理世界 / World 2 主观世界 / World 3 文化与科学对象（\"客观地伟大的\"），Rømer (2018) 论证 Hattie 通过 Bereiter 严重误读该理论"
+summary: "将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承"
 type: theory
 tags:
 - Popper

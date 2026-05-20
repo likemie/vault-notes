@@ -34,8 +34,10 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 sources:
   - "[[Larsen_2019_EducSci]]"
+  - "[[Ch14_Jornitz_2022]]"
   - "[[Sarbiewska_2019_JSR]]"
   - "[[Schaffar_2024_CogentEdu]]"
   - '[[Ch13_Thompson_2022]]'
@@ -60,6 +62,8 @@ updated: 2026-05-20
 > Bildung 概念有深厚的神学根源——《圣经·创世记》1:22 中"人是按上帝的形象（Bild）造的"，但在当代世俗世界中，Bildung 已脱离了神学语境（Larsen, 2019, p.9）。
 >
 > 其哲学传统贯穿德国思想史，经由 Humboldt、Herder、Kant、Hegel、Schlegel、Nietzsche、批判理论、诠释学、现象学和概念史（Begriffsgeschichte）的持续发展。当代对 Bildung 的复兴依赖于这一丰富的接受史（Hans-Georg Gadamer 所称的 Wirkungsgeschichte），其目标是"继承并超越"这一传统，以创造新的思维和行动方式（Larsen, 2019, p.9）。
+
+Humboldt（1793）将 Bildung 定义为"个体与世界之间最独立的交互作用（interdependency）"——这一交互既涉及个体如何与世界及其对象打交道，也涉及个体如何在世界中表达、建构和塑造世界（Humboldt, 1956/1793, p.29, cited in Jornitz & Klinge, 2022, p.239）。Nordenbo（2002, p.341）则强调 Bildung 概念包含一个"主动内核"——一个人只有在其自身的形成或发展中发挥了积极作用，才获得了 Bildung；换言之，Bildung 不能被外部灌输，只能由主体主动参与其自身的形成过程（Jornitz & Klinge, 2022, p.237）。
 >
 > 1960-70 年代，Bildung 概念以批判性教育学的形式进入丹麦语境，被用于批判威权式、自上而下的教育决策和强制社会化模式。但自 1990 年代起，学习范式被资本主义逻辑吸收，Bildung 的批判性被边缘化（Larsen, 2019, p.8）。
 >
@@ -76,6 +80,7 @@ updated: 2026-05-20
 > - **品格与判断力** — Bildung 关涉启蒙、权威、知识、智慧、自主思考、审美判断以及语言与当代社会批判等宏大主题（Larsen, 2019, p.9）
 > - **反对盲目适应** — Bildung 是拒绝被教育'系统'变得愚蠢、短视和过度顺从的过程和结果（Larsen, 2019, p.8）
 > - **开放未来** — Bildung 要求人在无法预先描绘终点的情况下持续成为人；因此教育必须帮助学生面对未知未来，而不是只训练已知答案或可测技能。这一点与 [[Wolfgang Klafki]] 的 [[Epochal Key Problems]] 相连（Schaffar & Wolff, 2024, pp.5-7）
+> - **三维关系结构** — Masschelein & Ricken（2010, p.130）将 Bildung 拆解为三重关系：（1）自我与自身的关系——自我的形成；（2）自我与他者的关系——社会性的形成，即自我与他者关系中特定的自我形塑；（3）与世界的关系——在世界中的存在。这一三维结构为批判数字学习工具提供了分析框架：数字工具通过积分和金币框定了自我关系，通过去沟通化的抽象竞争建构了他者关系，通过即时对错的绿红色彩方案简化了与世界的关系（Jornitz & Klinge, 2022, p.246）
 
 ## 与相关概念的区别
 

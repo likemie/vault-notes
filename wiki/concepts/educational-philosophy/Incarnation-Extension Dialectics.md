@@ -1,7 +1,7 @@
 ---
 title: Incarnation-Extension Dialectics
 aliases: []
-summary: "Larsen (2019) 提出的具身化-扩展双向运动框架，作为 VL 的替代学习理论"
+summary: "把学习理解为具身存在与向外延展之间双向运动的框架，强调身体、环境和世界关系在认知形成中的共同作用"
 type: concept
 tags:
 - Incarnation-Extension Dialectics

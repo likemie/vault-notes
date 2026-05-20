@@ -4,7 +4,7 @@ aliases:
 - 批判地缘政治学
 - 批判地缘政治
 - critical geopolitics
-summary: "1990s 以来人文地理学批判转向：空间性≠领土性，地缘政治通过政治想象和话语被建构，Moisio (2022) 将其应用于知识经济化，Parreira do Amaral (2022) 将其作为新知识地缘政治的两大分析支柱之一"
+summary: "把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实"
 type: theory
 tags:
 - critical-geopolitics
