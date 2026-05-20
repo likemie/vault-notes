@@ -11,14 +11,12 @@
             "id": "f49437b00d1a74a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
-                "mode": "source",
-                "source": false
+                "file": "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Argument_Zapp_2022_Springer"
+              "icon": "lucide-file-text",
+              "title": "Ch6_Rizvi_2022"
             }
           }
         ]
@@ -189,9 +187,11 @@
   },
   "active": "f49437b00d1a74a8",
   "lastOpenFiles": [
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rambla_2022_Springer.md",
+    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md",
+    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
+    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Partaken_2022_Springer.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_Springer.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
@@ -208,7 +208,6 @@
     "sources/Marginson_2025_ROE.pdf",
     "sources/Marginson_2025_ROE.md",
     "wiki/arguments/journal-articles/Argument_Marginson_2025_ROE.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md",
@@ -221,7 +220,6 @@
     "raw/Parreira do Amaral(Ed.)_2022-5_15章.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer.pdf",
     "wiki/concepts/educational-technology/Data Behaviorism.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch14_Jornitz_2022.md",
     "raw/978-3-030-94415-5_15.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch14_Jornitz_2022.pdf",
     "raw/Parreira do Amaral(Ed.)_2022_14章.pdf",
