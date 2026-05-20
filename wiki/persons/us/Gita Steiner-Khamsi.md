@@ -2,7 +2,7 @@
 title: Gita Steiner-Khamsi
 aliases:
 - 吉塔·施泰纳-卡姆西
-summary: "比较教育学者，政策借用与借出政治分析代表人物，为教育研究把注意力从政策内容转向能动者、利益与流通过程提供框架。"
+summary: "美国比较教育学者，政策借用与借出政治分析代表人物，为教育研究把注意力从政策内容转向能动者、利益与流通过程提供框架。"
 type: person
 nationality: us
 tags:

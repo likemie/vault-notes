@@ -2,7 +2,7 @@
 title: Christopher Day
 aliases:
 - 克里斯托弗·戴
-summary: "英国教育领导力学者，ISSPP项目创始人，为教育研究建立情境敏感的成功校长国际比较知识基础。"
+summary: "英国教育领导力学者，ISSPP 项目创始人，为教育研究建立情境敏感的成功校长国际比较知识基础。"
 type: person
 nationality: uk
 tags:

@@ -3,7 +3,7 @@ title: International Education
 aliases:
 - 国际教育
 - international education
-summary: "超越特定国家地理与教学边界的跨文化、跨国际教育；2006 年全球 270 万+ 大学生出国留学、200 万+ 学生在国际学校就读，总计 600 万+ 参与"
+summary: "跨越单一国家边界组织、流动或想象的教育形式，涵盖国际学校、跨国高教、留学流动与跨文化学习安排"
 type: concept
 tags:
 - region/global

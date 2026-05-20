@@ -2,7 +2,7 @@
 title: Julie Nelson
 aliases:
 - 朱莉·纳尔逊
-summary: "英国教育研究者和NFER高级研究员，证据知情实践测量工具开发者，为教育研究理解教师如何使用证据提供经验框架。"
+summary: "英国教育研究者和 NFER 高级研究员，证据知情实践测量工具开发者，为教育研究理解教师如何使用证据提供经验框架。"
 type: person
 nationality: uk
 tags:

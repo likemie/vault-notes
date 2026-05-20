@@ -12,29 +12,29 @@ Total entries: **213**
 
 ## Comparative Education
 
-- [[Boarding Schools]] — 寄宿学校从中世纪修道院到当代\"大学跳板\"的演变；UK 700+ 所 100K+ 学生/年，AU 101 所，CA 约 60 所
-- [[Chinese Learner]] — 来自中国及儒家文化圈（香港、台湾、新加坡）的学生群体；西方持有缺陷型（死记硬背、被动）和优势型（数学好、勤奋）两种矛盾刻板印象，Ryan 主张全面审视其本质化
-- [[Corporate Education]] — 企业教育：企业为雇员提供的教育培训，以\"像公司一样看世界\"为软权力功能，范围涵盖初始职业教育到高层管理培训
-- [[Corporate University]] — 企业大学：MNCs 集中化教育培训的总称，Rademakers 区分为学校型（高度标准化）、学院型（对齐策略）和学院型（高级管理层共同生产知识）三类
-- [[Cross-National Attraction]] — Phillips & Ochs 政策借用四阶段模型的第一阶段，Rappleye (2006) 以情境概念地图系统理论化其结构／人的双层推力与阻力和四种吸引力\"火花
-- [[Externalization (Schriewer)]] — Schriewer 的比较教育核心概念：教育系统将内部问题构型投射到国际参照系中的过滤过程，Rappleye (2006) 发展为双向运作（外化到国际趋势／外化到传统）
-- [[Further Education]] — 继续教育：非正规中学后教育形式，在结构化教育系统之外进行，与非学位证书和微证书相关联，是后福特知识经济中终身学习的关键组成部分
-- [[Global Education Industry]] — 教育实践、供给、研究和政策被经济理性渗透的多重过程，Verger et al. (2016) 定义，Parreira do Amaral 将其作为知识地缘政治转型的关键语境
+- [[Boarding Schools]] — 以学生在校住宿为组织特征的学校形式，兼具学业、生活管理与社会化功能，在国际教育与精英培养中占据重要位置
+- [[Chinese Learner]] — 围绕中国及儒家文化圈学生形成的跨文化教育概念，长期伴随勤奋优势与被动记忆并存的矛盾刻板印象
+- [[Corporate Education]] — 企业为雇员组织和提供的教育培训形式，范围涵盖初始职业教育到高层管理培养，并常与企业文化塑造和战略协调相连
+- [[Corporate University]] — 企业集中组织教育培训、知识管理和领导力发展的制度形式，常用于把员工学习、组织战略和内部认证体系整合起来
+- [[Cross-National Attraction]] — 政策借用过程中外部教育经验之所以显得有吸引力的阶段性机制，涉及结构条件、行动者动机以及不同类型的借用火花
+- [[Externalization (Schriewer)]] — 教育系统把内部问题投射到外部参照框架中加以理解和正当化的过程，是比较教育中解释政策参照与国际借鉴的重要概念
+- [[Further Education]] — 位于义务教育和高等教育之外的中学后继续教育形式，常与成人学习、职业培训、非学位证书和终身学习体系相连
+- [[Global Education Industry]] — 教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域
 - [[Global Education Reform Movement (GERM)]] — 描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度
-- [[International Education]] — 超越特定国家地理与教学边界的跨文化、跨国际教育；2006 年全球 270 万+ 大学生出国留学、200 万+ 学生在国际学校就读，总计 600 万+ 参与
-- [[International Schools]] — 从 50 所(1964)→3,000+(2005)的爆炸增长；去国家化转型(70%→30%母国学生)；市场化精英机构；师资培训系统性缺失
-- [[Membership-Creating Function of Education]] — Ramirez & Boli (1987) 揭示的现代教育基础功能：公立学校系统同时建立忠诚与归属的纽带（创造成员身份）和划定\"谁属于我们、谁是外人\"的边界，Amos (2022) 以此分析晚期现代性中该功能的弱化
-- [[Meta-Cultural Sensitivity]] — Louie (2005) 的跨文化教学元能力：\"后退一步\"将所有文化（包括自身文化）作为系统来理解，既不盲目推崇也不简单否定
+- [[International Education]] — 跨越单一国家边界组织、流动或想象的教育形式，涵盖国际学校、跨国高教、留学流动与跨文化学习安排
+- [[International Schools]] — 面向跨国流动家庭、本地精英或国际课程需求而设立的学校类型，兼具国际化、市场化和精英教育特征
+- [[Membership-Creating Function of Education]] — 现代教育通过培养忠诚、归属和共同体边界来创造成员身份的基础功能，同时界定谁属于我们以及谁被排除在外
+- [[Meta-Cultural Sensitivity]] — 一种跨文化教学元能力，强调后退一步把他者文化和自身文化都作为系统来理解，避免本质化赞美或简单否定
 - [[Methodological Globalism]] — 把全球尺度视为完全决定国家尺度的方法论立场，常作为方法论民族主义的镜像，并倾向弱化地方和制度的相对自主性
-- [[Methodological Nationalism]] — Wimmer & Schiller (2003) 的概念：认为民族国家是现代世界自然社会和政治形式的信念，遮蔽全球现象和多重尺度，Massey 批判其为\"对连贯国族性的浪漫幻想
-- [[Mondialisation]] — Weil/Supiot (2019) 基于 Decroly (1929) 恢复的替代全球化概念：以\"星球的普世性\"和对生命多元形式的尊重为核心，与 market-driven 的 globalisation 形成对抗，与 Escobar 的 pluriverse 并置
-- [[Organizational Actorhood]] — Krücken & Meier (2006)、Bromley & Meyer (2015) 的概念：组织在结构和行为上的扩展，将自主性、目标导向、问责性和社会嵌入性纳入核心身份；大学正从公共行政的\"特定组织\"转变为\"完全组织
-- [[Orientalism]] — Said (1983) 的概念：殖民者通过知识生产建构对被殖民者的\"东方化\"想象，Rizvi (2022) 将其应用于分析当代 HE 国际化中西方教育优越性的隐性再生产
-- [[Policy Borrowing]] — 政策借用：国内政治考量驱动选择性参照外部教育论述来合法化议程，Steiner-Khamsi 系统框架，Phillips & Ochs 四阶段模型，Rappleye 情境概念地图，Cowen 形态变异，核心机制为外化、合法化、问题建构与选择性变异
-- [[Policy Entrepreneur]] — Mintrom (2000) 和 Ball (2012) 概念：在教育系统内外通过协作和网络化影响政策发展的行动者，John Hattie 为新西兰典型
+- [[Methodological Nationalism]] — 把民族国家视为现代社会自然单位的方法论立场，容易遮蔽全球联系、跨尺度过程和空间关系的复杂性
+- [[Mondialisation]] — 强调星球共同体、生命多样性和世界普遍责任的替代全球化概念，用以对抗市场驱动的单一路径全球化
+- [[Organizational Actorhood]] — 组织把自主性、目标导向、问责性和社会嵌入性纳入核心身份并作为行动者被广泛承认的制度过程
+- [[Orientalism]] — 通过知识生产把东方建构为被观看、被解释和被支配对象的批判概念，用于揭示文化优越感和殖民想象的再生产
+- [[Policy Borrowing]] — 教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念
+- [[Policy Entrepreneur]] — 在教育系统内外通过网络、合作和机会识别推动政策变化的行动者，常兼具知识传播、议程设置和组织动员功能
 - [[Theories of Policy Change]] — 把政策理解为承载特定因果机制叙事的分析概念，用于追问政策为何在不同情境中产生不同变化路径
 - [[Transitology]] — 描述国家机器、社会分层和政治愿景在转型时期同时崩解与重建的比较教育概念，强调教育在制度重组中的象征与重构作用
-- [[Varieties of Capitalism]] — 资本主义多样性：Hall & Soskice (2001) 的 LME/CME 制度区分框架，Hartmann (2022) 用于解释 IVET 跨国转移困难和美国 MNCs 在全球教育市场中的先发优势
+- [[Varieties of Capitalism]] — 区分不同资本主义制度协调方式的比较政治经济框架，常用来解释教育培训体系、企业行为和技能形成路径的跨国差异
 
 ## Curriculum
 

@@ -2,7 +2,7 @@
 title: Robert Cowen
 aliases:
 - 罗伯特·考恩
-summary: "英国比较教育学者，transitology与教育现代性比较模型提出者，为教育研究把教育放回社会转型和历史断裂中理解提供框架。"
+summary: "英国比较教育学者，transitology 与教育现代性比较模型代表人物，为教育研究把教育放回社会转型和历史断裂中理解提供框架。"
 type: person
 nationality: uk
 tags:

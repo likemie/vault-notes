@@ -3098,10 +3098,6 @@
     "path": "wiki/facts/us/WWC SCD Pilot Standards 2010.md"
   },
   {
-    "title": "Argument_Jornitz_2022_Bildung_algorithmic",
-    "path": "wiki/arguments/books/Argument_Jornitz_2022_Bildung_algorithmic.md"
-  },
-  {
     "title": "Argument_Amos_2022_Springer",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md"
   },
@@ -3120,6 +3116,10 @@
   {
     "title": "Argument_Hartmann_2022_CorporateEducation",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Hartmann_2022_CorporateEducation.md"
+  },
+  {
+    "title": "Argument_Jornitz_2022_Bildung_algorithmic",
+    "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Jornitz_2022_Bildung_algorithmic.md"
   },
   {
     "title": "Argument_Moisio_2022_Springer",

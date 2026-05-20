@@ -5,7 +5,7 @@ aliases:
 - further education and training
 - 非正规成人教育
 - 终身学习培训
-summary: "继续教育：非正规中学后教育形式，在结构化教育系统之外进行，与非学位证书和微证书相关联，是后福特知识经济中终身学习的关键组成部分"
+summary: "位于义务教育和高等教育之外的中学后继续教育形式，常与成人学习、职业培训、非学位证书和终身学习体系相连"
 type: concept
 tags:
 - level/adult

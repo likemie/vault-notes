@@ -2,7 +2,7 @@
 title: Terry Wrigley
 aliases:
 - 特里·瑞格利
-summary: "英国教育研究者，批判实在论取向的证据本位教学批评者，为教育研究系统拆解RCT、元分析与元元分析的层层局限。"
+summary: "英国教育研究者，批判实在论取向的证据本位教学批评者，为教育研究系统拆解 RCT、元分析与元元分析的层层局限。"
 type: person
 nationality: uk
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Cross-National Attraction
 aliases: []
-summary: "Phillips & Ochs 政策借用四阶段模型的第一阶段，Rappleye (2006) 以情境概念地图系统理论化其结构／人的双层推力与阻力和四种吸引力\"火花"
+summary: "政策借用过程中外部教育经验之所以显得有吸引力的阶段性机制，涉及结构条件、行动者动机以及不同类型的借用火花"
 type: concept
 tags:
 - cross-national-attraction

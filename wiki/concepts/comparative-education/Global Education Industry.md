@@ -4,7 +4,7 @@ aliases:
 - 全球教育产业
 - GEI
 - global education industry
-summary: "教育实践、供给、研究和政策被经济理性渗透的多重过程，Verger et al. (2016) 定义，Parreira do Amaral 将其作为知识地缘政治转型的关键语境"
+summary: "教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域"
 type: concept
 tags:
 - global-education-industry

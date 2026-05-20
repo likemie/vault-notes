@@ -6,7 +6,7 @@ aliases:
 - company-based education
 - firm-based training
 - corporate training
-summary: "企业教育：企业为雇员提供的教育培训，以\"像公司一样看世界\"为软权力功能，范围涵盖初始职业教育到高层管理培训"
+summary: "企业为雇员组织和提供的教育培训形式，范围涵盖初始职业教育到高层管理培养，并常与企业文化塑造和战略协调相连"
 type: concept
 tags:
 - level/adult

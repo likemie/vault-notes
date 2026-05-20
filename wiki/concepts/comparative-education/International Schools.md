@@ -3,7 +3,7 @@ title: International Schools
 aliases:
 - 国际学校
 - international school
-summary: "从 50 所(1964)→3,000+(2005)的爆炸增长；去国家化转型(70%→30%母国学生)；市场化精英机构；师资培训系统性缺失"
+summary: "面向跨国流动家庭、本地精英或国际课程需求而设立的学校类型，兼具国际化、市场化和精英教育特征"
 type: concept
 tags:
 - region/global

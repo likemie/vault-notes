@@ -4,7 +4,7 @@ aliases:
 - 组织能动者身份
 - 组织行动者身份
 - organizational actor
-summary: "Krücken & Meier (2006)、Bromley & Meyer (2015) 的概念：组织在结构和行为上的扩展，将自主性、目标导向、问责性和社会嵌入性纳入核心身份；大学正从公共行政的\"特定组织\"转变为\"完全组织"
+summary: "组织把自主性、目标导向、问责性和社会嵌入性纳入核心身份并作为行动者被广泛承认的制度过程"
 type: concept
 tags:
 - level/higher-ed

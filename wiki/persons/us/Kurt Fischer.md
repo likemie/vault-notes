@@ -2,7 +2,7 @@
 title: Kurt Fischer
 aliases:
 - 库尔特·费舍尔
-summary: "美国发展心理学家和新皮亚杰理论家，技能理论提出者，为教育研究把发展水平理解为情境化与可变的表现提供模型。"
+summary: "美国发展心理学家和新皮亚杰理论家，技能理论提出者，为教育研究把发展水平理解为情境化与可变表现提供模型。"
 type: person
 nationality: us
 tags:

@@ -2,7 +2,7 @@
 title: Gerald Grace
 aliases:
 - 杰拉尔德·格雷斯
-summary: "英国教育社会学者，天主教教育与“社会的批判者与良知”论述代表人物，为教育研究连接教育领导、价值与公共使命提供语言。"
+summary: "英国教育社会学者，天主教教育与社会的批判者和良知论述代表人物，为教育研究连接教育领导、价值与公共使命提供语言。"
 type: person
 nationality: uk
 tags:

@@ -6,10 +6,6 @@ Total entries: **86**
 
 ## Books
 
-### Argument_Jornitz_2022_Bildung_algorithmic.md
-
-- [[Argument_Jornitz_2022_Bildung_algorithmic]] — 以 Bildung 概念和 Gruschka 教学理论为框架，分析学习软件的即时反馈、奖励系统和表现仪表盘三大机制如何系统性地排除教育中的意义建构与人格陶成
-
 ### Parreira do Amaral(Ed.)_2022_Springer
 
 - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos_ 以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
@@ -17,6 +13,7 @@ Total entries: **86**
 - [[Argument_Delambre_2022_Springer]] — Ch7 Dell Delambre_ 提出 Creative Tension of Sense 认识论和 Ganz-Methode，主张承载新旧之间的意义张力，以巴西里约热内卢基层实践为案例
 - [[Argument_Erfurth_2022_education-hubs]] — 以文化政治经济学和比较案例研究为框架，从文化外交与政治经济两个维度比较新加坡与阿联酋的教育枢纽项目，揭示该路径绕开制度建设、依赖市场自由化与基础设施扩张却获国际发展界认可的悖论
 - [[Argument_Hartmann_2022_CorporateEducation]] — Ch11 Eva Hartmann_ 以制度同构理论和 MNC 组织类型学为框架，分析企业教育的国际化及其地缘政治与地缘经济维度，识别四种权威来源策略，论证营利性教育提供商的市场集中化趋势
+- [[Argument_Jornitz_2022_Bildung_algorithmic]] — 以 Bildung 概念和 Gruschka 教学理论为框架，分析学习软件的即时反馈、奖励系统和表现仪表盘三大机制如何系统性地排除教育中的意义建构与人格陶成，将算法技术的全球传播解读为数字知识地缘政治
 - [[Argument_Moisio_2022_Springer]] — Ch2 Sami Moisio_ 论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架
 - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral_ 整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
 - [[Argument_Parreira do Amaral_2022_Springer]] — 论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制度与互动→主体形塑）逐层展开
