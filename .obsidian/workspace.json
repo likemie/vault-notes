@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/sociology-of-education/Credential Inflation.md",
+                "file": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_Springer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Credential Inflation"
+              "title": "Argument_Parreira do Amaral_2022_Springer"
             }
           }
         ]
@@ -187,11 +187,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "88e92adc127e8098",
+  "active": "f49437b00d1a74a8",
   "lastOpenFiles": [
-    "wiki/concepts/educational-technology/Gamification.md",
+    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Jornitz_2022_Bildung_algorithmic.md",
     "wiki/arguments/books/Argument_Jornitz_2022_Bildung_algorithmic.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch14_Jornitz_2022.md",
+    "wiki/concepts/sociology-of-education/Credential Inflation.md",
+    "wiki/concepts/educational-technology/Gamification.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch14_Jornitz_2022.pdf",
     "wiki/concepts/concepts-index.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer.pdf",
@@ -222,8 +224,6 @@
     "wiki/concepts/educational-technology/Digital Optimum.md",
     "wiki/concepts/higher-education/Epistemic Governance.md",
     "wiki/concepts/higher-education/Online Self-Assessment.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
     "sources/Håkansson_2015_Paideia.pdf",
     "books/郑_2023_上海三联书店/第三章.jpeg",
     "books/郑_2023_上海三联书店/附录一个案描述5.jpeg",
