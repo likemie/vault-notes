@@ -189,7 +189,11 @@
   },
   {
     "title": "Didaktik",
-    "path": "wiki/concepts/curriculum/Didaktik.md"
+    "path": "wiki/concepts/curriculum/Didaktik.md",
+    "aliases": [
+      "教学理论",
+      "教授学"
+    ]
   },
   {
     "title": "Educational Management Organisation (EMO)",
@@ -728,7 +732,10 @@
   },
   {
     "title": "Feedback",
-    "path": "wiki/concepts/instruction-pedagogy/Feedback.md"
+    "path": "wiki/concepts/instruction-pedagogy/Feedback.md",
+    "aliases": [
+      "反馈"
+    ]
   },
   {
     "title": "Individualised Instruction",
