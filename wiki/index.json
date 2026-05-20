@@ -12,6 +12,17 @@
     "path": "wiki/concepts/communication-discourse/SF (Haraway).md"
   },
   {
+    "title": "21st Century Skills and Competencies Discourse",
+    "path": "wiki/concepts/comparative-education/21st Century Skills and Competencies Discourse.md",
+    "aliases": [
+      "21世纪技能与素养话语",
+      "21st century skills discourse",
+      "SCD",
+      "21世纪关键能力框架",
+      "key competencies discourse"
+    ]
+  },
+  {
     "title": "Boarding Schools",
     "path": "wiki/concepts/comparative-education/Boarding Schools.md",
     "aliases": [
@@ -1314,6 +1325,16 @@
       "自主驱动者",
       "self-driven actor",
       "自主驱动"
+    ]
+  },
+  {
+    "title": "Self-Entrepreneur",
+    "path": "wiki/concepts/sociology-of-education/Self-Entrepreneur.md",
+    "aliases": [
+      "自我企业家",
+      "企业型自我",
+      "entrepreneurial self",
+      "自我创业者"
     ]
   },
   {
@@ -3120,6 +3141,10 @@
   {
     "title": "WWC SCD Pilot Standards 2010",
     "path": "wiki/facts/us/WWC SCD Pilot Standards 2010.md"
+  },
+  {
+    "title": "Argument_Zelinka_2022_SCD_subjectivity",
+    "path": "wiki/arguments/books/Argument_Zelinka_2022_SCD_subjectivity.md"
   },
   {
     "title": "Argument_Amos_2022_Springer",
