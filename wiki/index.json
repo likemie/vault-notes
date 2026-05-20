@@ -371,6 +371,14 @@
     ]
   },
   {
+    "title": "Data Behaviorism",
+    "path": "wiki/concepts/educational-technology/Data Behaviorism.md",
+    "aliases": [
+      "数据行为主义",
+      "data-behaviourism"
+    ]
+  },
+  {
     "title": "Digital Optimum",
     "path": "wiki/concepts/educational-technology/Digital Optimum.md",
     "aliases": [
@@ -1468,6 +1476,15 @@
   {
     "title": "Bounded Rationality",
     "path": "wiki/theories/instruction-pedagogy/Bounded Rationality.md"
+  },
+  {
+    "title": "Theory of Teaching (Gruschka)",
+    "path": "wiki/theories/instruction-pedagogy/Theory of Teaching (Gruschka).md",
+    "aliases": [
+      "教学理论 (Gruschka)",
+      "Gruschka's teaching theory",
+      "Gruschka教学理论"
+    ]
   },
   {
     "title": "Hebbian Principles",

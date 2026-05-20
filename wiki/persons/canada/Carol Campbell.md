@@ -2,7 +2,7 @@
 title: Carol Campbell
 aliases:
 - 卡罗尔·坎贝尔
-summary: "加拿大教育领导力学者，知识动员和证据知情实践研究者，为教育研究连接系统改革、专业学习与证据使用提供路径。"
+summary: "加拿大教育领导力学者，知识动员与证据知情实践研究者，为教育研究连接系统改革、专业学习与证据使用提供路径。"
 type: person
 nationality: canada
 tags:

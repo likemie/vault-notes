@@ -2,7 +2,7 @@
 title: Alan C. K. Cheung
 aliases:
 - 艾伦·C·K·张
-summary: "香港教育研究者，大规模教育随机实验和证据本位改革国际比较研究者，为中文教育实证研究与国际证据对话提供桥梁。"
+summary: "中国香港教育研究者，大规模教育随机实验与证据本位改革国际比较研究者，为中文教育实证研究与国际证据对话提供桥梁。"
 type: person
 nationality: china
 tags:

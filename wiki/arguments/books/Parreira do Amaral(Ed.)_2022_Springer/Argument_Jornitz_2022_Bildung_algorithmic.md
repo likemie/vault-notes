@@ -26,7 +26,9 @@ related_concepts:
   - "[[Educational Technology Industry]]"
   - "[[Performativity of Measurement]]"
   - "[[Geopolitics of Knowledge]]"
-related_theories: []
+  - "[[Data Behaviorism]]"
+related_theories:
+  - "[[Theory of Teaching (Gruschka)]]"
 related_methods: []
 related_persons: []
 related_facts: []

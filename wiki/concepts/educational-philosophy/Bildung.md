@@ -25,6 +25,7 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
   - '[[Governmentality]]'
   - '[[Societies of Control]]'
+  - "[[Theory of Teaching (Gruschka)]]"
 related_methods: []
 related_persons:
   - "[[Steen Nepper Larsen]]"

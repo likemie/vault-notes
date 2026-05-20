@@ -2,7 +2,7 @@
 title: Steen Nepper Larsen
 aliases:
 - 斯滕·内珀·拉森
-summary: "丹麦教育哲学学者，Bildung复兴与Visible Learning批判代表人物，为教育研究捍卫教育的哲学维度和非还原性提供声音。"
+summary: "丹麦教育哲学学者，Bildung 复兴与 Visible Learning 批判代表人物，为教育研究捍卫教育的哲学维度和非还原性提供重要声音。"
 type: person
 nationality: denmark
 tags:

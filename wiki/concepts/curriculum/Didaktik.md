@@ -16,6 +16,7 @@ related_concepts:
 - '[[Finnish National Core Curriculum 2014]]'
 related_theories:
 - '[[Critical Realism]]'
+- "[[Theory of Teaching (Gruschka)]]"
 related_methods: []
 related_persons:
 - '[[Wolfgang Klafki]]'
