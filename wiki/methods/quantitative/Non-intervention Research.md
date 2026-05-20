@@ -2,7 +2,7 @@
 title: Non-intervention Research
 aliases:
 - 非干预研究
-summary: "不操纵自变量的研究集合，包括观察/相关、质性、混合方法/多方法研究；Brady et al. (2023) 发现其仍占经验教育心理学研究约四分之三"
+summary: "不直接操纵处理条件而观察现象、关系或过程的研究集合，适合分析自然发生的教育情境与经验分布"
 type: method
 method_type: quantitative
 tags:

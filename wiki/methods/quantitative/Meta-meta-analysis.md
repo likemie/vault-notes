@@ -4,7 +4,7 @@ aliases:
 - 元-元分析
 - 元元分析
 - mega-analysis
-summary: "将多个已发表元分析在更高层次统计综合的方法，包含 Wecker 6 项方法论要求的数学推导、等价性证明、全语言案例和稳定性/变异性双重困境"
+summary: "在更高层次汇总多个已发表元分析结果的统计综合方法，用于处理大型证据库、比较不同综合结论并评估聚合稳定性"
 type: method
 method_type: quantitative
 tags:

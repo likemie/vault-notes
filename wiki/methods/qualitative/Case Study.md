@@ -2,7 +2,7 @@
 title: Case Study
 aliases:
 - 个案研究
-summary: "质性研究设计：以跟踪式个案为分析单位，通过目的抽样与理论抽样选取典型案例，结合类别系列分解策略优化可外推性，郑雅君 (2023) 用于中国精英大学学生出路分化研究"
+summary: "以单个或少数个案为分析单位深入追踪过程、情境和机制的研究设计，适合解释复杂现象如何在具体场域中展开"
 type: method
 method_type: qualitative
 tags:

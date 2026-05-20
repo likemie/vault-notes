@@ -4,7 +4,7 @@ aliases:
 - 学生投入
 - student engagement
 - Kuh 学生投入理论
-summary: "George Kuh (1991) 的概念：学生向学校教育性实践活动中投入的时间精力越多越可能产出积极教育结果，与 Astin 学生涉入理论异曲同工，郑雅君 (2023) 作为\"投入过程\"的理论基础"
+summary: "学生在教育性活动中投入时间、精力和参与质量的概念，常用于解释高等教育中的学习结果、归属感和持续就读差异"
 type: concept
 tags:
 - student-engagement

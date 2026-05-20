@@ -6,36 +6,36 @@ Total entries: **27**
 
 ## Mixed
 
-- [[Improvement Science]] — 源自组织研究（Langley et al., 2009）的教育研究替代范式，以系统视角、关注变异性、人类行动者中心和反馈循环为特征，Bryk et al. (2015) 将其引入美国教育
-- [[Mixed Method and Multi-method Research]] — 不操纵自变量且同时包含量化和质性数据的非干预研究；Brady et al. (2023) 将其作为新增编码类别并发现 2020 年占 6%
+- [[Improvement Science]] — 把教育改进视为在真实系统中持续测试、反馈和迭代优化的研究与实践方法，强调变异性、情境差异和集体学习
+- [[Mixed Method and Multi-method Research]] — 结合量化与质性资料或并用多种研究技术的研究方法，适合同时处理结果分布、行动过程和情境解释
 - [[Spirals of Inquiry]] — 围绕扫描、聚焦、形成直觉、学习、行动和检查展开的教师探究循环模型，用于把证据使用与持续学校改进连接起来
 
 ## Qualitative
 
-- [[Carnivalesque Analysis]] — Aydarova (2020) 基于 Bakhtin 嘉年华理论的质性方法：研究者以\"小丑\"角色打乱官方叙事、追踪矛盾，揭露主导话语掩盖的真相
-- [[Case Study]] — 质性研究设计：以跟踪式个案为分析单位，通过目的抽样与理论抽样选取典型案例，结合类别系列分解策略优化可外推性，郑雅君 (2023) 用于中国精英大学学生出路分化研究
+- [[Carnivalesque Analysis]] — 通过反讽、错位和颠倒主导叙事来追踪矛盾与隐藏权力关系的质性分析方法，适合拆解官方话语的自明性
+- [[Case Study]] — 以单个或少数个案为分析单位深入追踪过程、情境和机制的研究设计，适合解释复杂现象如何在具体场域中展开
 - [[Cognitive Task Analysis]] — 针对复杂学习情境的研究与教学方法，分析专家认知过程和知识结构，强调教师激活而非促进
 - [[Comparative Case Study]] — Bartlett 与 Vavrus 提出的比较案例研究方法，通过水平、垂直和横贯三个轴同时对案例进行跨地点、跨尺度和历时比较，适合分析复杂连接的教育政策与治理现象
 - [[Constructivist Grounded Theory]] — 扎根理论的建构主义变体，强调概念与意义由研究者和被研究者在互动中共同生成，适合分析行动者如何赋予经验以解释框架
-- [[Ganz-Methode]] — Dell Delambre 基于 Creative Tension of Sense 理论开发的实践方法论（Whole Approach），两步法承载而非消解意义张力，以里约热内卢多案例实践为基础
+- [[Ganz-Methode]] — 通过整体进路承载而非消解意义张力的实践方法论，适合在复杂社会情境中识别行动可能性和生命力重组过程
 - [[Historical Document Analysis of Curriculum]] — 通过系统分析课程文件、政府政策、媒体报道和学术文献重建科目演变历程，识别课程变革的政治动力
 - [[In-depth Interview]] — 通过持续追问、渐进聚焦和生活史叙述深入理解行动者经验与意义建构的质性资料收集方法，常用于解释复杂选择和主观处境
 - [[Philosophical Analysis in Education]] — 通过概念区分、逻辑推理和哲学论证分析教育政策与实践的前提假设，为从业者提供抵抗资源
-- [[Qualitative Research]] — 不操纵自变量并使用访谈、观察等文本数据的非干预研究；Brady et al. (2023) 发现其在教育心理学经验期刊中升至 22%
+- [[Qualitative Research]] — 通过访谈、观察和文本材料理解行动者经验、意义建构与实践情境的研究方法，适合解释教育过程中的复杂关系
 
 ## Quantitative
 
-- [[Causal Modeling]] — 结构方程建模(SEM)，1970s 进入社会科学承诺整合理论与统计，面临模型选择使推断无效和点按软件误用等批评（Berk, 2011）
-- [[Covariate Adjustment]] — 在模型中纳入第三变量重新估计效应；控制 SES 等协变量可能显著改变教学因素的效应量估计
+- [[Causal Modeling]] — 通过结构方程等统计模型表示变量之间因果路径并同时估计多重关系的量化方法，常用于检验理论结构与中介机制
+- [[Covariate Adjustment]] — 在统计模型中纳入协变量以重新估计处理效应或变量关系的量化方法，用于减少混杂因素对结果解释的干扰
 - [[Electroencephalography]] — 脑电图（EEG）：通过测量相邻神经元群落激活记录脑活动，可测毫秒级增量，时间分辨率优于空间分辨率，便携式 EEG 扩大了对年幼儿童的研究可能
 - [[Functional Magnetic Resonance Imaging]] — 功能性磁共振成像（fMRI）：通过测量脑区血液成分记录脑活动，空间分辨率优于时间分辨率，大多数研究集中于 7 岁以上儿童
-- [[Intervention Research]] — 操纵自变量以检验教育处理或实践效果的研究设计；Brady et al. (2023) 发现其在教育心理学期刊中从 2000 年 40% 降至 2010/2020 年 25%
+- [[Intervention Research]] — 通过操纵教育处理、项目或实践条件来检验效果及因果影响的研究设计，常用于评估干预是否带来可观察变化
 - [[Matching]] — 观察性研究中的因果推断方法，通过匹配协变量分布提高处理组与对照组可比性，以减少选择偏差对效果估计的干扰
-- [[Meta-analysis]] — 通过计算多项原始研究平均效应量综合研究证据的统计方法，Pawson 和 Wrigley 论证其在聚合中系统性消除因果信息
-- [[Meta-meta-analysis]] — 将多个已发表元分析在更高层次统计综合的方法，包含 Wecker 6 项方法论要求的数学推导、等价性证明、全语言案例和稳定性/变异性双重困境
-- [[Non-intervention Research]] — 不操纵自变量的研究集合，包括观察/相关、质性、混合方法/多方法研究；Brady et al. (2023) 发现其仍占经验教育心理学研究约四分之三
-- [[Observational and Correlational Research]] — 不操纵自变量、以量化数据分析变量关系的非干预研究设计；Brady et al. (2023) 发现此类文章中实践建议比例持续上升
+- [[Meta-analysis]] — 通过汇总多项原始研究的效应量来综合证据的统计方法，常用于比较干预强度、估计平均效果和检验结果一致性
+- [[Meta-meta-analysis]] — 在更高层次汇总多个已发表元分析结果的统计综合方法，用于处理大型证据库、比较不同综合结论并评估聚合稳定性
+- [[Non-intervention Research]] — 不直接操纵处理条件而观察现象、关系或过程的研究集合，适合分析自然发生的教育情境与经验分布
+- [[Observational and Correlational Research]] — 不操纵自变量而以量化资料分析变量关系、模式和相关性的非干预研究设计，适合描述分布并探索潜在关联
 - [[Randomised Controlled Trials]] — 从药物试验借鉴至教育领域的实验设计方法，面临双盲不可能、控制组模糊、封闭系统幻觉等结构性缺陷
 - [[Rasch Measurement]] — 将测验答题数据转换到共同尺度的教育测量方法；PISA/TIMSS/PIRLS 等国际评估排名依赖这类统计转换
 - [[Seasonal Comparison]] — 利用学年 vs 暑假作为自然实验的准实验研究设计，比较学校与非学校环境对不平等的相对影响，类似医学交叉设计
-- [[Single-Case Design (SCD)]] — 在不同条件下对个体或小群体行为进行重复测量的实验方法，个体作为自身控制，WWC 认可其作为 RCT 之外的证据生成方法
+- [[Single-Case Design (SCD)]] — 通过在不同条件下对个体或小群体进行重复测量并让其作为自身控制的实验方法，适合评估小样本干预效果

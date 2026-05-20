@@ -20,9 +20,11 @@ related_methods: []
 related_persons:
 - '[[Wolfgang Klafki]]'
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 sources:
 - '[[Schaffar_2024_CogentEdu]]'
+- "[[Ch14_Jornitz_2022]]"
 confidence: low
 status: draft
 created: '2026-05-06'

@@ -395,6 +395,15 @@
     "path": "wiki/concepts/educational-technology/Educational Technology Industry.md"
   },
   {
+    "title": "Gamification",
+    "path": "wiki/concepts/educational-technology/Gamification.md",
+    "aliases": [
+      "游戏化",
+      "游戏化学习",
+      "game-based reinforcement"
+    ]
+  },
+  {
     "title": "Learning Analytics",
     "path": "wiki/concepts/educational-technology/Learning Analytics.md",
     "aliases": [
@@ -3087,6 +3096,10 @@
   {
     "title": "WWC SCD Pilot Standards 2010",
     "path": "wiki/facts/us/WWC SCD Pilot Standards 2010.md"
+  },
+  {
+    "title": "Argument_Jornitz_2022_Bildung_algorithmic",
+    "path": "wiki/arguments/books/Argument_Jornitz_2022_Bildung_algorithmic.md"
   },
   {
     "title": "Argument_Amos_2022_Springer",

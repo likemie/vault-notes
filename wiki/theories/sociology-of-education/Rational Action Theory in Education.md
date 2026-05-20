@@ -1,7 +1,7 @@
 ---
 title: Rational Action Theory in Education
 aliases: []
-summary: "Breen & Goldthorpe (1997) 的教育分层理论：以相对风险规避机制解释阶层间教育选择的系统性差异，揭示家庭背景的次属效应，郑雅君 (2023) 作为\"价值选择过程\"的理论对话方"
+summary: "以相对风险规避解释不同阶层教育选择差异的教育分层理论，强调家庭背景如何通过成本、收益和风险判断影响升学决策"
 type: theory
 tags:
 - rational-action-theory

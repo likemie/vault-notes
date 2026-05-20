@@ -1,7 +1,7 @@
 ---
 title: Improvement Science
 aliases: []
-summary: "源自组织研究（Langley et al., 2009）的教育研究替代范式，以系统视角、关注变异性、人类行动者中心和反馈循环为特征，Bryk et al. (2015) 将其引入美国教育"
+summary: "把教育改进视为在真实系统中持续测试、反馈和迭代优化的研究与实践方法，强调变异性、情境差异和集体学习"
 type: method
 method_type: mixed
 tags:

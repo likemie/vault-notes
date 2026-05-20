@@ -4,7 +4,7 @@ aliases:
 - 文化行动双过程模型
 - dual-process model
 - Vaisey 双过程模型
-summary: "Stephen Vaisey (2009) 的理论：调和文化工具箱与价值观驱动两种范式，论证二者在不同意识层次上并存，郑雅君 (2023) 作为\"价值选择过程\"的理论基础"
+summary: "解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存"
 type: theory
 tags:
 - dual-process-model

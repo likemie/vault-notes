@@ -2,7 +2,7 @@
 title: Meta-analysis
 aliases:
 - 元分析
-summary: "通过计算多项原始研究平均效应量综合研究证据的统计方法，Pawson 和 Wrigley 论证其在聚合中系统性消除因果信息"
+summary: "通过汇总多项原始研究的效应量来综合证据的统计方法，常用于比较干预强度、估计平均效果和检验结果一致性"
 type: method
 method_type: quantitative
 tags:

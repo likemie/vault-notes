@@ -5,7 +5,7 @@ aliases:
 - theories of change
 - theory of change
 - 变革理论（政策）
-summary: "Pawson (2006) 的实在论评估概念：政策承载的因果机制叙事，Rambla (2022) 分析其在欧盟旗舰政策中的应用与地方转化"
+summary: "把政策理解为承载特定因果机制叙事的分析概念，用于追问政策为何在不同情境中产生不同变化路径"
 type: concept
 tags:
 - policy-instruments

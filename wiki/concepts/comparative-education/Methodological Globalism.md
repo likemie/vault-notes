@@ -2,7 +2,7 @@
 title: Methodological Globalism
 aliases:
 - 方法论全球主义
-summary: "Marginson (2025) 提出的方法论民族主义的镜像概念：认为国家尺度完全由全球尺度决定，Wallerstein 世界体系理论为其典型案例，否定了高等教育的半自主演化能力"
+summary: "把全球尺度视为完全决定国家尺度的方法论立场，常作为方法论民族主义的镜像，并倾向弱化地方和制度的相对自主性"
 type: concept
 tags:
 - theme/geopolitics

@@ -2,7 +2,7 @@
 title: Qualitative Research
 aliases:
 - 质性研究
-summary: "不操纵自变量并使用访谈、观察等文本数据的非干预研究；Brady et al. (2023) 发现其在教育心理学经验期刊中升至 22%"
+summary: "通过访谈、观察和文本材料理解行动者经验、意义建构与实践情境的研究方法，适合解释教育过程中的复杂关系"
 type: method
 method_type: qualitative
 tags:

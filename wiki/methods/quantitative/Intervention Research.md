@@ -2,7 +2,7 @@
 title: Intervention Research
 aliases:
 - 干预研究
-summary: "操纵自变量以检验教育处理或实践效果的研究设计；Brady et al. (2023) 发现其在教育心理学期刊中从 2000 年 40% 降至 2010/2020 年 25%"
+summary: "通过操纵教育处理、项目或实践条件来检验效果及因果影响的研究设计，常用于评估干预是否带来可观察变化"
 type: method
 method_type: quantitative
 tags:

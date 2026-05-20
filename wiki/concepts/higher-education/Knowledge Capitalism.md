@@ -3,7 +3,7 @@ title: Knowledge Capitalism
 aliases:
 - 知识资本主义
 - knowledge capitalism
-summary: "知识资本主义：知识作为首要资本积累形式的全球经济秩序，Peters (2013) 系统阐述，Rizvi (2022) 将其定位为解释 HE 全球转型的既有框架之一，Sum & Jessop (2013) 定义，Moisio (2022) 追溯其从 List 经 Drucker/Bell/Romer 到 OECD/World Bank 的概念演变"
+summary: "把知识生产、流通和应用置于资本积累核心位置的全球经济秩序概念，用于解释大学、创新体系和地缘竞争的深度重组"
 type: concept
 tags:
 - knowledge-capitalism
