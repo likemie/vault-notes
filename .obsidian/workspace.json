@@ -11,14 +11,12 @@
             "id": "f49437b00d1a74a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md",
-                "mode": "source",
-                "source": false
+                "file": "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview"
+              "icon": "lucide-file-text",
+              "title": "Ch2_Moisio_2022"
             }
           }
         ]
@@ -189,6 +187,9 @@
   },
   "active": "f49437b00d1a74a8",
   "lastOpenFiles": [
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.pdf",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md.tmp.17274.3b60c88578a6",
     "wiki/arguments/books/Argument_Zelinka_2022_SCD_subjectivity.md",
     "wiki/concepts/sociology-of-education/Self-Entrepreneur.md",
@@ -205,7 +206,6 @@
     "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md",
     "wiki/arguments/journal-articles/Argument_Marginson_2025_ROE.md",
     "sources/Marginson_2025_ROE.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md",
     "wiki/theories/political-economy-geopolitics/Critical Geopolitics.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md",
@@ -218,13 +218,10 @@
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Hartmann_2022_CorporateEducation.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Delambre_2022_Springer.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Boyadjieva_2022_Springer.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch14_Jornitz_2022.pdf",
     "raw/Parreira do Amaral(Ed.)_2022_14章.pdf",
     "raw/Parreira do Amaral(Ed.)_2022_14.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch1_Thompson_Parreira do Amaral_2022.pdf",
-    "raw/978-3-030-94415-5_14.pdf",
     "books/郑_2023_上海三联书店/第三章.jpeg",
     "books/郑_2023_上海三联书店/附录一个案描述5.jpeg",
     "books/郑_2023_上海三联书店/第五章 四种类型的毕业出路获得机制.jpeg",
