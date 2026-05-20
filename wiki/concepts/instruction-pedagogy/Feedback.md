@@ -2,7 +2,7 @@
 title: Feedback
 aliases:
   - 反馈
-summary: 教学中围绕表现、理解和下一步改进所提供的信息，在 Visible Learning 中被列为高影响因素，但其定义与证据基础存在持续争议
+summary: "教学中围绕表现、理解和下一步改进所提供的信息，用于帮助学习者识别当前状态、调整策略并改进后续行动。"
 type: concept
 tags:
   - feedback

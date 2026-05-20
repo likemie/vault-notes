@@ -1,7 +1,7 @@
 ---
 title: Cognitive Inhibition
 aliases: []
-summary: "执行功能的核心成分：在必要时故意抑制主导性或自动化反应的能力，约 2–5 岁为关键发展期，4 岁左右出现\"铰链点"
+summary: "执行功能的核心成分，指在必要时故意抑制主导性或自动化反应的能力，用于支持自我控制、选择性注意和目标导向行为。"
 type: concept
 tags:
 - cognitive-inhibition

@@ -1,7 +1,7 @@
 ---
 title: Transformative Leadership
 aliases: []
-summary: "Shields 提出的以权力为调查起点的教育领导力框架，Møller 建议用作超越\"什么有效\"议程的替代视角"
+summary: "Shields 提出的教育领导力框架，以权力、正义和社会转化为分析起点，用于超越仅关注什么有效的工具主义领导观。"
 type: concept
 tags:
 - Transformative Leadership

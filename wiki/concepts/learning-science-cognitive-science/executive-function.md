@@ -1,7 +1,7 @@
 ---
 title: Executive Function
 aliases: []
-summary: "执行功能（EF）：一组高阶通用目的控制过程（抑制、转换、更新与监控），调节认知功能以实现目标，是学业表现的主要预测因素"
+summary: "执行功能是一组用于目标导向控制的高阶认知过程，通常包括抑制、转换、更新与监控，用于调节思维和行为以完成任务。"
 type: concept
 tags:
 - executive-function

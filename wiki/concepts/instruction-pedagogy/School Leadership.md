@@ -1,7 +1,7 @@
 ---
 title: School Leadership
 aliases: []
-summary: "对学生教育成功具有决定性影响的因素，最好在具体情境中理解，ISSPP 识别出设定方向、发展人员、改进组织、建立信任、构建安全学习环境等跨情境基本领导实践"
+summary: "围绕学校方向设定、人员发展、组织改进和关系建设展开的教育领导实践，用于理解学校如何组织改进、建立信任并支持学习环境。"
 type: concept
 tags:
 - School Leadership

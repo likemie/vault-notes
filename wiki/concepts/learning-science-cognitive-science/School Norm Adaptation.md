@@ -1,7 +1,7 @@
 ---
 title: School Norm Adaptation
 aliases: []
-summary: "学生对学校规范与课堂秩序期待的行为性适配；在挪威样本中是解释成绩与性别差异的核心变量之一"
+summary: "学生对学校规范、课堂秩序和行为期待的适配程度，用于描述个体如何调整行为以符合学校制度环境。"
 type: concept
 tags:
 - school-norms

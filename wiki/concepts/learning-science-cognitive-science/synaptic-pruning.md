@@ -1,7 +1,7 @@
 ---
 title: Synaptic Pruning
 aliases: []
-summary: "突触消除的程序性过程，基于 Hebb 原则精简低效连接，儿童兴奋性突触为成人 2–3 倍，PFC 中 2–7 岁密度大幅下降"
+summary: "通过清除低效或较少使用连接来精简神经回路的过程，用于解释大脑如何在发展中提高处理效率和功能专门化。"
 type: concept
 tags:
 - synaptic-pruning

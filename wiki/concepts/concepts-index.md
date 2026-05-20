@@ -127,41 +127,41 @@ Total entries: **214**
 
 ## Instruction Pedagogy
 
-- [[Classroom Learning Culture]] — 班级学习氛围与同伴协作文化；在该样本中性别差异不显著，体现差异并非遍在于所有校内变量
-- [[Cult of the Guru]] — Eacott 提出的批判概念：教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，Hattie 现象为典型案例
-- [[Direct Instruction]] — 以教师主导的结构化明确讲解为特征的教学方法，Hattie 评级 d=0.59；Zhao (2017) 以副作用框架论证其效果（成绩提升）与副作用（抑制创造力、限制探索、非生产性成功）不可分离
-- [[Dynamic Knowledge and Learning Model]] — 为澄清学习结果概念而提出的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累
-- [[Effective Teaching]] — 综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提促进学习
-- [[Feedback]] — 教学中围绕表现、理解和下一步改进所提供的信息，在 Visible Learning 中被列为高影响因素，但其定义与证据基础存在持续争议
-- [[Individualised Instruction]] — 个别化教学；Laursen 将其作为丹麦\"教学差异化\"的近似国际参照，指出 Hattie 发现其效应较小且 Helmke 承认相关经验证据不足
-- [[Language Experience Approach]] — R.V. Allen (1964) 的早期读写法，公式\"能想→能说→能写→能读\"，是全语言的前身但被 Hattie 错误等同于全语言
-- [[Neo-Taylorism in Educational Administration]] — Taylor 科学管理原理在教育行政领域的当代复兴，Eacott 论证 Hattie VL 是\"新时代的泰勒主义\"，以寻找唯一正确方法和最大化效率为核心逻辑
-- [[Problem-Based Learning]] — 以问题驱动学习的教学方法，9 项元分析综合 d≈0.08–0.24，Hattie (2015) 论证其在学生缺乏表层知识时低效
-- [[School Leadership]] — 对学生教育成功具有决定性影响的因素，最好在具体情境中理解，ISSPP 识别出设定方向、发展人员、改进组织、建立信任、构建安全学习环境等跨情境基本领导实践
-- [[Student-Teacher Relationship]] — 学生对师生互动支持性的主观感知；在该挪威样本中的性别差异很小，提示关系变量的测量来源效应
-- [[Surface and Deep Learning]] — 表层学习知晓事实与内容 vs 深层学习知晓关系与连接，评估驱动表层学习是高等教育核心悖论
-- [[Transformative Leadership]] — Shields 提出的以权力为调查起点的教育领导力框架，Møller 建议用作超越\"什么有效\"议程的替代视角
-- [[Visible Learning]] — John Hattie (2009) 基于 800+ 元分析综合的教育证据项目，以效应量排名 150+ 教学干预，已在至少 23 国采用；McKnight & Whitburn (2020) 从文化政治视角提出七点系统批评
+- [[Classroom Learning Culture]] — 班级中的学习氛围与同伴协作文化，用于描述课堂内部的互动规范、参与方式和共同学习环境。
+- [[Cult of the Guru]] — Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。
+- [[Direct Instruction]] — 以教师主导、结构化和明确讲解为特征的教学方法，强调分步示范、练习巩固和清晰反馈，常用于基础知识和技能教学。
+- [[Dynamic Knowledge and Learning Model]] — 用于澄清学习结果概念的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累。
+- [[Effective Teaching]] — 综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习。
+- [[Feedback]] — 教学中围绕表现、理解和下一步改进所提供的信息，用于帮助学习者识别当前状态、调整策略并改进后续行动。
+- [[Individualised Instruction]] — 根据学生差异调整内容、进度、支持方式或任务要求的教学安排，用于回应学生在能力、兴趣和学习节奏上的不同。
+- [[Language Experience Approach]] — 基于学生自身口语经验生成阅读与写作材料的早期读写教学法，强调从能想、能说到能写、能读的连续发展。
+- [[Neo-Taylorism in Educational Administration]] — Taylor 科学管理原理在教育行政领域的当代复兴，用于批评以唯一正确方法、效率最大化和标准化控制组织教学与管理的倾向。
+- [[Problem-Based Learning]] — 以复杂问题驱动学习过程的教学方法，强调学生围绕真实或拟真的问题开展探究、协作和知识应用。
+- [[School Leadership]] — 围绕学校方向设定、人员发展、组织改进和关系建设展开的教育领导实践，用于理解学校如何组织改进、建立信任并支持学习环境。
+- [[Student-Teacher Relationship]] — 学生对师生互动支持性、信任感和被理解程度的主观感知，用于描述课堂关系质量及其对学习参与的影响。
+- [[Surface and Deep Learning]] — 区分以记忆事实和完成任务为主的表层学习与以理解关系、意义和结构为主的深层学习，用于分析学习方式与教学评价之间的关系。
+- [[Transformative Leadership]] — Shields 提出的教育领导力框架，以权力、正义和社会转化为分析起点，用于超越仅关注什么有效的工具主义领导观。
+- [[Visible Learning]] — John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。
 
 ## Learning Science Cognitive Science
 
-- [[Academic Well-being and Interest in Learning]] — 学生对上学与学习的积极情感体验和兴趣水平；在该样本中性别差异较小
-- [[Assertiveness]] — 学生在课堂互动中主动表达与参与的倾向；在教师评定维度中呈小到中等性别差异
-- [[Cognitive Inhibition]] — 执行功能的核心成分：在必要时故意抑制主导性或自动化反应的能力，约 2–5 岁为关键发展期，4 岁左右出现\"铰链点
-- [[Cognitive Shifting]] — 亦称认知灵活性或任务切换，执行功能的核心成分：在多个任务、操作或心理集之间切换的能力，与 PFC 的 vlPFC 和 dlPFC 激活相关
-- [[Executive Function]] — 执行功能（EF）：一组高阶通用目的控制过程（抑制、转换、更新与监控），调节认知功能以实现目标，是学业表现的主要预测因素
-- [[Learning-Impeding Behavior]] — 学生自评的课堂学习阻碍行为（如干扰同伴、疲惫分心）；在性别差异上呈小到中等差距，并进入成绩差异解释路径
-- [[Life Power]] — Dell Delambre 的概念（Lebenskraft）：在新旧张力中为存在赋予意义的实践性再定位能力，通过 Ganz-Methode 的第二步被识别和发现
-- [[Motivation and Work Effort]] — 学生在校学习成功动机与努力投入水平；在分性别回归中对成绩具有最高或接近最高的解释力
-- [[Myelination]] — 在轴突周围积累髓鞘（白质）的过程，增加电绝缘使信号传输更快，儿童早期开始，缺失与神经退行性疾病相关
-- [[Neuroplasticity]] — 人脑约 860 亿神经元、13 万亿突触的动态可塑性，Larsen (2019) 论证其极度复杂性使 VL 的简化测量在科学上不成立
-- [[Prefrontal Cortex]] — 前额叶皮层（PFC），位于大脑额叶，分眼眶/内侧/外侧三区，最后成熟（~30 岁）且最先老化，在学习序列开始时被激活
-- [[School Norm Adaptation]] — 学生对学校规范与课堂秩序期待的行为性适配；在挪威样本中是解释成绩与性别差异的核心变量之一
-- [[Self-control]] — 学生在课堂中调节注意、情绪与行为反应的能力；在教师评定维度中呈中等性别差异
-- [[Synaptic Pruning]] — 突触消除的程序性过程，基于 Hebb 原则精简低效连接，儿童兴奋性突触为成人 2–3 倍，PFC 中 2–7 岁密度大幅下降
-- [[Synaptogenesis]] — 中枢神经系统中新突触的创建过程，涉及神经元和连接的过度生产，7–12 个月发生剧烈突触发生
-- [[Updating and Monitoring]] — 执行功能的核心成分：动态操纵工作记忆内容的更新与监控能力，容量有限（成人 3–4 项）
-- [[Working Memory]] — 工作记忆：动态保持和操纵信息的能力，容量有限，依赖 dlPFC，从 15 个月开始发展，3–5 岁出现大幅变化
+- [[Academic Well-being and Interest in Learning]] — 学生对上学、学习活动和学校生活的积极情感体验与兴趣水平，用于描述学习投入、归属感和日常学习体验的主观维度。
+- [[Assertiveness]] — 学生在课堂互动中主动表达、提出观点和参与交流的倾向，用于描述学习参与中的主动性和表达能力。
+- [[Cognitive Inhibition]] — 执行功能的核心成分，指在必要时故意抑制主导性或自动化反应的能力，用于支持自我控制、选择性注意和目标导向行为。
+- [[Cognitive Shifting]] — 亦称认知灵活性或任务切换，指在多个任务、操作规则或心理集合之间切换的能力，是执行功能的核心成分之一。
+- [[Executive Function]] — 执行功能是一组用于目标导向控制的高阶认知过程，通常包括抑制、转换、更新与监控，用于调节思维和行为以完成任务。
+- [[Learning-Impeding Behavior]] — 学生在课堂中表现出的干扰同伴、分心、疲惫或其他妨碍学习过程的行为，用于描述不利于学习参与和课堂秩序的行为模式。
+- [[Life Power]] — Dell Delambre 提出的概念，指个体在新旧张力中为自身存在重新赋予意义的实践性再定位能力，用于理解行动可能性和生命力重组。
+- [[Motivation and Work Effort]] — 学生在校学习中的成功动机和努力投入水平，用于描述其对学习任务的投入程度、坚持性和成就导向。
+- [[Myelination]] — 在轴突周围形成髓鞘的过程，用于提高神经信号传输速度并支持神经系统的成熟与高效运作。
+- [[Neuroplasticity]] — 神经系统在经验、练习和环境作用下持续改变连接、功能和组织方式的能力，用于说明学习、发展和适应具有动态生物基础。
+- [[Prefrontal Cortex]] — 位于额叶前部、与计划、抑制、决策和执行功能密切相关的脑区，是理解高阶认知控制和发展晚熟性的关键神经基础。
+- [[School Norm Adaptation]] — 学生对学校规范、课堂秩序和行为期待的适配程度，用于描述个体如何调整行为以符合学校制度环境。
+- [[Self-control]] — 学生调节注意、情绪和行为反应以维持目标导向行动的能力，用于理解课堂参与、行为管理和延迟满足。
+- [[Synaptic Pruning]] — 通过清除低效或较少使用连接来精简神经回路的过程，用于解释大脑如何在发展中提高处理效率和功能专门化。
+- [[Synaptogenesis]] — 中枢神经系统中新突触形成和扩增的过程，用于解释大脑如何在发展和经验作用下建立新的神经连接。
+- [[Updating and Monitoring]] — 执行功能的核心成分，指对工作记忆内容进行持续更新、监控和调整的能力，用于支持复杂推理、问题解决和任务管理。
+- [[Working Memory]] — 动态保持和操纵信息以支持当前认知任务的能力，是理解推理、学习和复杂任务处理的重要认知系统。
 
 ## Political Economy Geopolitics
 

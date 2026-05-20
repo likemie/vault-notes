@@ -1,7 +1,7 @@
 ---
 title: Individualised Instruction
 aliases: []
-summary: "个别化教学；Laursen 将其作为丹麦\"教学差异化\"的近似国际参照，指出 Hattie 发现其效应较小且 Helmke 承认相关经验证据不足"
+summary: "根据学生差异调整内容、进度、支持方式或任务要求的教学安排，用于回应学生在能力、兴趣和学习节奏上的不同。"
 type: concept
 tags:
 - individualised-instruction

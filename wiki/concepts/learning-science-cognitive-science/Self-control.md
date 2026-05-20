@@ -1,7 +1,7 @@
 ---
 title: Self-control
 aliases: []
-summary: "学生在课堂中调节注意、情绪与行为反应的能力；在教师评定维度中呈中等性别差异"
+summary: "学生调节注意、情绪和行为反应以维持目标导向行动的能力，用于理解课堂参与、行为管理和延迟满足。"
 type: concept
 tags:
 - self-control

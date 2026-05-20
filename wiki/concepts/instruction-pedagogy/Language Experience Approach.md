@@ -1,7 +1,7 @@
 ---
 title: Language Experience Approach
 aliases: []
-summary: "R.V. Allen (1964) 的早期读写法，公式\"能想→能说→能写→能读\"，是全语言的前身但被 Hattie 错误等同于全语言"
+summary: "基于学生自身口语经验生成阅读与写作材料的早期读写教学法，强调从能想、能说到能写、能读的连续发展。"
 type: concept
 tags:
 - language-experience-approach

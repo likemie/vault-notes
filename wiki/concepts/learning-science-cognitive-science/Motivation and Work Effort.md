@@ -1,7 +1,7 @@
 ---
 title: Motivation and Work Effort
 aliases: []
-summary: "学生在校学习成功动机与努力投入水平；在分性别回归中对成绩具有最高或接近最高的解释力"
+summary: "学生在校学习中的成功动机和努力投入水平，用于描述其对学习任务的投入程度、坚持性和成就导向。"
 type: concept
 tags:
 - motivation

@@ -1,7 +1,7 @@
 ---
 title: Myelination
 aliases: []
-summary: "在轴突周围积累髓鞘（白质）的过程，增加电绝缘使信号传输更快，儿童早期开始，缺失与神经退行性疾病相关"
+summary: "在轴突周围形成髓鞘的过程，用于提高神经信号传输速度并支持神经系统的成熟与高效运作。"
 type: concept
 tags:
 - myelination

@@ -1,7 +1,7 @@
 ---
 title: Academic Well-being and Interest in Learning
 aliases: []
-summary: "学生对上学与学习的积极情感体验和兴趣水平；在该样本中性别差异较小"
+summary: "学生对上学、学习活动和学校生活的积极情感体验与兴趣水平，用于描述学习投入、归属感和日常学习体验的主观维度。"
 type: concept
 tags:
 - academic-well-being

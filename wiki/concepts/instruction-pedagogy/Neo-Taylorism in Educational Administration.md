@@ -1,7 +1,7 @@
 ---
 title: Neo-Taylorism in Educational Administration
 aliases: []
-summary: "Taylor 科学管理原理在教育行政领域的当代复兴，Eacott 论证 Hattie VL 是\"新时代的泰勒主义\"，以寻找唯一正确方法和最大化效率为核心逻辑"
+summary: "Taylor 科学管理原理在教育行政领域的当代复兴，用于批评以唯一正确方法、效率最大化和标准化控制组织教学与管理的倾向。"
 type: concept
 tags:
 - Neo-Taylorism

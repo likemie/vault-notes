@@ -1,7 +1,7 @@
 ---
 title: Student-Teacher Relationship
 aliases: []
-summary: "学生对师生互动支持性的主观感知；在该挪威样本中的性别差异很小，提示关系变量的测量来源效应"
+summary: "学生对师生互动支持性、信任感和被理解程度的主观感知，用于描述课堂关系质量及其对学习参与的影响。"
 type: concept
 tags:
 - student-teacher-relationship

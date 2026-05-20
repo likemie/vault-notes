@@ -1,7 +1,7 @@
 ---
 title: Direct Instruction
 aliases: []
-summary: "以教师主导的结构化明确讲解为特征的教学方法，Hattie 评级 d=0.59；Zhao (2017) 以副作用框架论证其效果（成绩提升）与副作用（抑制创造力、限制探索、非生产性成功）不可分离"
+summary: "以教师主导、结构化和明确讲解为特征的教学方法，强调分步示范、练习巩固和清晰反馈，常用于基础知识和技能教学。"
 type: concept
 tags:
 - direct-instruction
