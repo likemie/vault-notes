@@ -1,7 +1,7 @@
 ---
 title: Material Fallacies
 aliases: []
-summary: "逻辑学中\"在理解术语的含义或用法方面的错误\"（Kreeft, 2010），O'Neill 将其引入教育政策话语分析以审查证据被误用的现象"
+summary: "逻辑学中因误解术语含义、适用范围或使用方式而产生的推理错误，用于分析政策和研究话语中的证据误用现象。"
 type: concept
 tags:
 - Material Fallacies

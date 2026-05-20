@@ -1,7 +1,7 @@
 ---
 title: Evidence-Based Reform
 aliases: []
-summary: "Slavin (2002) 提出、(2017/2019/2021) 完善的教育政策框架：以实验有效性证据作为选择项目和产品的核心标准，依赖开发-评估-推广范式和政府拨款激励实现良性循环，Slavin et al. (2021) 首次进行中美英国际比较并记录中国证据本位研究的制度化发展，Cheung & Xie (2021) 以 Editorial 汇集七国八篇文章呈现全球全景"
+summary: "以实验有效性证据作为选择教育项目和产品核心标准的改革框架，强调开发、评估、推广和政策激励之间的联动循环。"
 type: concept
 tags:
 - evidence-based-reform

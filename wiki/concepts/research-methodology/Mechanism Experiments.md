@@ -1,7 +1,7 @@
 ---
 title: Mechanism Experiments
 aliases: []
-summary: "测试特定行为理论的小规模现场实验，Peterson (2016) 从发展经济学引入作为黑箱 RCT 的替代，以鼓励设计（Imai et al., 2013）为关键方法论工具"
+summary: "用于测试特定行为机制或理论路径的小规模现场实验，强调解释干预为何起作用而不仅是估计其平均效果。"
 type: concept
 tags:
 - mechanism-experiments

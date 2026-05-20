@@ -1,7 +1,7 @@
 ---
 title: Stable Unit Treatment Value Assumption (SUTVA)
 aliases: []
-summary: "潜在结果框架关键假定：每个主体的潜在结果仅取决于自身处理；违反导致主体间干扰，集群随机化中单一因果效应不再存在（Berk, 2011）"
+summary: "潜在结果框架中的关键假定，指每个主体的潜在结果只取决于自身接受的处理而不受他人处理影响。"
 type: concept
 tags:
 - SUTVA

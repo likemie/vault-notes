@@ -1,7 +1,7 @@
 ---
 title: Pure Evaluation
 aliases: []
-summary: "Tanggaard, Rømer & Brinkmann (2014) 仿照\"纯粹教育\"提出的概念，描述被宣称在自调节系统中独立于时空运作的评价实践，Hattie 的元-元分析为其典型案例"
+summary: "用于描述被宣称可在自调节系统中独立于具体时空运作的评价实践的概念，常用于批评抽离情境的普遍化评估逻辑。"
 type: concept
 tags:
 - evaluation

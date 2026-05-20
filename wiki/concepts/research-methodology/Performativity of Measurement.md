@@ -3,7 +3,7 @@ title: Performativity of Measurement
 aliases:
 - 测量的生产性
 - 测量的施行性
-summary: "测量不仅是描述性行为更是制造世界的生产性行为，一旦存在即改变优先事项和行为，批判测量因此是道德事业"
+summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 tags:
 - Performativity of Measurement

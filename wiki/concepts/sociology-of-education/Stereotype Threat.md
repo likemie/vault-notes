@@ -3,7 +3,7 @@ title: Stereotype Threat
 aliases:
 - 刻板印象威胁
 - stereotype threat
-summary: "Aronson (2002) 的社会心理学概念：个体意识到关于自身群体的刻板印象时产生的额外情感与认知负担及去认同化，被 Ryan 应用于分析中国学习者内化刻板印象的机制"
+summary: "社会心理学概念，指个体意识到针对自身群体的负面刻板印象时产生的额外情感与认知负担，进而影响表现、参与和认同。"
 type: concept
 tags:
 - theme/cross-cultural

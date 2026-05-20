@@ -1,7 +1,7 @@
 ---
 title: Intent-to-Treat Analysis
 aliases: []
-summary: "RCT 估计方法，按原始随机分配分析无论实际接受与否，反映干预可获得性而非实际接受效果，政策意义重大（Pampaka et al., 2016）"
+summary: "一种按原始随机分配而非实际接受情况来分析结果的 RCT 估计方法，用于评估干预可获得性对总体结果的影响。"
 type: concept
 tags:
 - Intent-to-Treat Analysis

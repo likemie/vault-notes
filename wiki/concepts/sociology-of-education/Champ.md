@@ -5,7 +5,7 @@ aliases:
 - Field (Bourdieu)
 - field
 - champ
-summary: "Pierre Bourdieu 的核心概念：具有相对自主性和自身游戏规则的社会空间，郑雅君 (2023) 将中国精英大学分析为一个布迪厄式场域，Eacott (2011) 诊断教育场域自主性的削弱"
+summary: "Pierre Bourdieu 的核心概念，指具有相对自主性、内部竞争规则和资本分布结构的社会空间，用于分析教育、文化和职业领域中的位置关系与权力运作。"
 type: concept
 tags:
 - field-theory

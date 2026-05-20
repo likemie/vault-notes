@@ -1,7 +1,7 @@
 ---
 title: Sociology of Measurement
 aliases: []
-summary: "Woolgar 的分析框架：将测量视为技术，关注其 instrumentalism（如何被弄到运作）和 performativity（如何制造世界）"
+summary: "将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。"
 type: concept
 tags:
 - Sociology of Measurement

@@ -3,7 +3,7 @@ title: Cultural Capital
 aliases:
 - 文化资本
 - cultural capital
-summary: "Pierre Bourdieu 的核心概念：个体通过家庭社会化获得的、在特定场域中具有交换价值的文化资源，三种形态（具身化/客体化/制度化），郑雅君 (2023) 分析其如何通过习性转化为大学场域中的竞争优势"
+summary: "Pierre Bourdieu 的核心概念，指个体通过社会化获得并在特定场域中具有交换价值的文化资源，通常包括具身化、客体化和制度化三种形态。"
 type: concept
 tags:
 - cultural-capital

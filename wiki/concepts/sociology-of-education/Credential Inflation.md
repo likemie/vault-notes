@@ -5,7 +5,7 @@ aliases:
 - credential inflation
 - 文凭通胀
 - 学历贬值
-summary: "Randall Collins (1979) 的概念：大学文凭作为交换职业地位的通货在市场上发生萎缩，中国扩招后从 84.8 万（1999）升至 753.3 万毕业生（2018）"
+summary: "Randall Collins 提出的概念，指学历数量扩张导致文凭在劳动力市场中的区分效力下降，用于分析教育扩张、职业筛选和地位竞争。"
 type: concept
 tags:
 - credential-inflation

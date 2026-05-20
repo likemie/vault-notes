@@ -1,7 +1,7 @@
 ---
 title: Recommendations for Practice
 aliases: []
-summary: "研究论文中将发现转化为\"采用/避免某实践会改善某结果\"的实践建议；Brady et al. (2023) 发现 2020 年约三分之二非干预教育心理学文章包含此类建议"
+summary: "研究论文中把研究发现转化为采用或避免某种实践的行动建议，用于连接研究结论与政策或教学实践。"
 type: concept
 tags:
 - recommendations-for-practice

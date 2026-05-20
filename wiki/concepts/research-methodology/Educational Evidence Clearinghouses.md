@@ -1,7 +1,7 @@
 ---
 title: Educational Evidence Clearinghouses
 aliases: []
-summary: "审查教育项目效果研究并发布项目有效性评级的证据中介机构；Wadhwa et al. (2024) 比较 12 个清算中心发现同一项目评级一致性有限"
+summary: "审查教育项目效果研究并发布有效性评级的证据中介机构，用于在研究、政策和实践之间提供筛选、汇总和传播功能。"
 type: concept
 tags:
 - educational-evidence-clearinghouses

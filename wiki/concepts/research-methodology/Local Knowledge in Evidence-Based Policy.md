@@ -1,7 +1,7 @@
 ---
 title: Local Knowledge in Evidence-Based Policy
 aliases: []
-summary: "从业者对本地情境的深入了解和专业判断，多项研究表明它是 EBP 成功实施不可或缺的组成部分"
+summary: "从业者对本地情境、关系网络和实际约束的深入了解，用于说明证据本位政策实施为何离不开地方知识和专业判断。"
 type: concept
 tags:
 - evidence-based-policy

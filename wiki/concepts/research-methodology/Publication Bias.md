@@ -1,7 +1,7 @@
 ---
 title: Publication Bias
 aliases: []
-summary: "正面/显著结果比零/负面结果更可能被发表或传播的系统性倾向（文件抽屉效应），在教育评估中可解释约 66% 的开发者效应"
+summary: "正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，用于解释证据库为何可能高估干预效果。"
 type: concept
 tags:
 - publication-bias

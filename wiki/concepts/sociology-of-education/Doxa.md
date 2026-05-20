@@ -3,7 +3,7 @@ title: Doxa
 aliases:
 - 自明真理
 - doxa
-summary: "Pierre Bourdieu 的概念：场域中视为理所当然的正统或常识，通过结构安排而非强制来合法化，Eacott (2011) 分析其对学校领导力培养的再生产性影响"
+summary: "Pierre Bourdieu 的概念，指场域中被视为理所当然的正统观念或常识，通过结构安排而非显性强制维持其合法性。"
 type: concept
 tags:
 - doxa

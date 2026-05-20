@@ -3,7 +3,7 @@ title: Cultural Disorientation
 aliases:
 - 文化迷失
 - cultural disorientation
-summary: "精英大学弱势背景学生因场域转换而出现的自我冲突与目标迷失，是高等教育文化障碍从环境不适应转向行动失向的第二重维度"
+summary: "弱势背景学生在场域转换过程中出现的自我冲突、目标迷失和行动失向，用于描述高等教育文化障碍的定向失调维度。"
 type: concept
 tags:
 - cultural-disorientation

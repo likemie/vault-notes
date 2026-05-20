@@ -1,7 +1,7 @@
 ---
 title: Preregistration
 aliases: []
-summary: "在研究开始前公开登记研究设计、结果测量和分析计划，被提出作为缓解开发者效应和可疑研究实践的关键机制"
+summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
 tags:
 - preregistration
