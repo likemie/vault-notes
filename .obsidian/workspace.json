@@ -11,14 +11,12 @@
             "id": "f49437b00d1a74a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "wiki/concepts/political-economy-geopolitics/Economic and Industrial Espionage.md",
-                "mode": "source",
-                "source": false
+                "file": "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Economic and Industrial Espionage"
+              "icon": "lucide-file-text",
+              "title": "Ch2_Moisio_2022"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "东德",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +72,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,11 +187,14 @@
   },
   "active": "f49437b00d1a74a8",
   "lastOpenFiles": [
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.pdf",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md",
+    "wiki/concepts/political-economy-geopolitics/Economic and Industrial Espionage.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Partaken_2022_Springer.md",
     "wiki/persons/germany/Max Weber.md",
     "wiki/concepts/higher-education/Knowledge Transfer.md",
-    "wiki/concepts/political-economy-geopolitics/Economic and Industrial Espionage.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
@@ -209,18 +209,14 @@
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Delambre_2022_Springer.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Boyadjieva_2022_Springer.md",
     "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.pdf",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022.md",
     "sources/Marginson_2025_ROE.pdf",
     "sources/Marginson_2025_ROE.md",
     "wiki/arguments/journal-articles/Argument_Marginson_2025_ROE.md",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer_Geopolitical Transformations_overview.md.tmp.17274.3b60c88578a6",
     "wiki/arguments/books/Argument_Zelinka_2022_SCD_subjectivity.md",
-    "wiki/concepts/sociology-of-education/Self-Entrepreneur.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch15_Zelinka_2022.pdf",
     "raw/Parreira do Amaral(Ed.)_2022-5_15章.pdf",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Parreira do Amaral(Ed.)_2022_Springer.pdf",
