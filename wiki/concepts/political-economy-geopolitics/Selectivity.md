@@ -5,7 +5,7 @@ aliases:
 - 政策选择性
 - policy selectivity
 - strategic selectivity
-summary: "Jessop (2007) 的治理概念：政策工具通过结构性偏向系统性地优先某些替代方案而边缘化其他，Rambla (2022) 在欧盟区域创新和终身学习政策中分析"
+summary: "治理中的结构性偏向机制，使某些政策选项、行动者和利益更容易获得支持，而其他替代方案被系统性边缘化"
 type: concept
 tags:
 - governance

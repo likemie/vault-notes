@@ -1,7 +1,7 @@
 ---
 title: Moral Sidestep
 aliases: []
-summary: "Stevens (2019) 概念：政策制定者以道德关切回避实证研究证据的话语策略，Bainbridge et al. (2022) 将其引入教育政策分析并发展为\"建构型侧步"
+summary: "政策制定者以道德关切回避或替代实证研究证据的话语策略，在教育政策辩论中常表现为把价值判断包装成证据立场"
 type: concept
 tags:
 - moral-sidestep

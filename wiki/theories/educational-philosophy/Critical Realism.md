@@ -1,7 +1,7 @@
 ---
 title: Critical Realism
 aliases: []
-summary: "Bhaskar 的科学哲学：区分实在/实际/经验三层本体论和开放/封闭系统，Wrigley & McCusker (2019) 用作批判 EBT 方法论的哲学框架"
+summary: "Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架"
 type: theory
 tags:
 - critical-realism

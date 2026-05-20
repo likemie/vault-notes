@@ -4,7 +4,7 @@ aliases:
 - 履历经济学
 - economy of experience
 - 履历资本
-summary: "Phillip Brown 的概念：大学生需将课余生活精细投资管理以打造为简历加分的\"履历资本\"，郑雅君 (2023) 用于分析中国精英大学就业竞争"
+summary: "大学生将课余经历、活动和自我展示精细投资管理以积累履历资本的竞争逻辑，是高等教育就业竞争向生活全域扩展的表现"
 type: concept
 tags:
 - economy-of-experience

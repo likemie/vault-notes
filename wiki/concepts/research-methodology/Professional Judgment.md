@@ -1,7 +1,7 @@
 ---
 title: Professional Judgment
 aliases: []
-summary: "教师在复杂情境中整合研究知识、伦理标准和方法论原则做出教学决策的能力，Qvortrup 定位为 VL 中教学干预与学习成果之间的\"缺失环节"
+summary: "教师在复杂情境中整合研究知识、伦理标准和方法原则做出决策的能力，是把一般性证据转化为具体教学行动的关键中介"
 type: concept
 tags:
 - professional-judgment

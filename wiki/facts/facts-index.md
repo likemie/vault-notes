@@ -12,8 +12,8 @@ Total entries: **118**
 - [[Gonski Reforms]] — 2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于\"不让任何学校更糟\"条款
 - [[Independent Public Schools (IPS) Western Australia]] — WA 州最激进的学校自主权改革，575 所学校转为 IPS 地位
 - [[Karmel Report 1973]] — 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
-- [[Local Schools Local Decisions (NSW)]] — NSW 州 2011–2018 年权力下放政策，被批评为表面赋权实质成本削减
-- [[My School Website]] — 2008 年建立的澳大利亚学校透明度和比较网站，基于 NAPLAN 成绩排名学校，被批评为制造社会分裂和残余化的核心机制
+- [[Local Schools Local Decisions (NSW)]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
+- [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
 - [[Victorian HITS and Literacy Toolkit 2017]] — 维州教育部发布 10 项 HITS 和 Literacy Toolkit，均以 Hattie 的 VL 为首要参考，O'Connor (2020) 质疑其证据基础
 
 ## China
@@ -37,7 +37,7 @@ Total entries: **118**
 
 ### Event
 
-- [[Hattie på dansk 2017]] — Bjerre 等编辑的丹麦语批评文集，汇集多篇对 VL 的强烈批评，Qvortrup 以 Alexander 话语框架定性为\"文化战争
+- [[Hattie på dansk 2017]] — 2017 年丹麦出版的 Visible Learning 批评文集，汇集多篇强烈反对 Hattie 的文章，成为丹麦 VL 争议制度化扩散的重要节点
 - [[SFI Report 2013]] — Winther & Nielsen 编辑的丹麦 SFI 报告，是检验 Hattie/Meyer/Helmke 有效教学综合丹麦适用性的主要本土证据
 
 ### Policy
@@ -135,7 +135,7 @@ Total entries: **118**
 - [[Partnership Schools Kura Hourua (NZ 2011)]] — 新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动
 - [[Teach First New Zealand Ako Mātātupu (TFNZ 2011)]] — 2011 年启动的高成就毕业生就业型初级教师教育慈善信托，7% 接受率，与 Teach for All 全球网络和奥克兰大学合作运营
 - [[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]] — 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O'Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
-- [[Visible Learning Branding and Global Influences]] — VL 品牌化与全球影响：asTTle 起源→2010 年 Cognition Education 推出 VLplus 商业化 Hattie VL→2018 年 Corwin 收购，已扩散至 23+ 国；含商标、产品体系、各国政策采纳、政策误用与制度批评（O'Neill/Terhart/O'Connor/Blass/Johnson & Janzen）、品牌免疫分析
+- [[Visible Learning Branding and Global Influences]] — Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议
 
 ### Policy
 
@@ -177,16 +177,16 @@ Total entries: **118**
 
 - [[Areopagitica (1644)]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
 - [[Hargreaves 1996 TTA Lecture]] — David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
-- [[Playing for Success]] — 英国在足球俱乐部场地设立的学习支持中心项目，Wrigley & McCusker (2019) 揭示元-元分析程序缺陷的关键案例
-- [[ResearchED]] — 2013 年 Tom Bennett 创立的以 RCT 为黄金标准的教师草根运动，获 Nick Gibb 背书，被 Wrigley 批评为以\"赋权教师\"之名限制方法论视野，Wrigley & McCusker (2019) 批评其推广\"民间科学观
+- [[Playing for Success]] — 英国依托足球俱乐部场地设立的学习支持中心项目，结合体育吸引力与课外辅导实践，后续成为教育证据聚合争议中的重要案例
+- [[ResearchED]] — 2013 年英国兴起的教师草根运动，主张以研究证据尤其随机试验支持课堂实践，推动证据本位教学的公共传播与制度争论
 
 ### Policy
 
 - [[Education and Inspections Act 2006]] — 英国法律禁止新建文法学校，但允许现有 163 所文法学校继续运作
-- [[EEF Teaching and Learning Toolkit]] — 英国 EEF 的元-元分析工具，以联盟表格式按成本/有效性/证据确定性排名 30+ 类干预，面临 Simpson/Wrigley 方法论批评，Wrigley & McCusker (2019) 通过体育参与案例揭示三级聚合失真
+- [[EEF Teaching and Learning Toolkit]] — 英国 EEF 发布的教学干预比较工具，按成本、效果和证据强度汇总 30 多类策略，已广泛影响学校决策并持续引发方法论争议
 - [[Eleven-plus Exam]] — 英国 11 岁中等教育选拔考试，决定学生进入文法学校或综合学校，研究证据一致表明其加剧不平等且不促进社会流动
 - [[Grammar School]] — 英格兰以 11-plus 考试选拔学生的公立学术中学，现有 163 所，159 所获 Ofsted 良好/优秀评级
-- [[Ofsted]] — 英国教育标准办公室，其学校评级被 Bainbridge et al. 发现系统性混同为研究证据，成为\"建构型道德侧步\"的核心操作工具
+- [[Ofsted]] — 英国教育标准办公室，负责英格兰学校检查与评级，其评级在教育政策辩论中常被当作研究证据使用并带有强烈道德判断色彩
 - [[Rose Report 2006]] — Jim Rose 领导的英国早期阅读教学独立审查，推广简单阅读观，直接导致全英强制合成语音教学
 - [[Selective Schools Expansion Fund 2018]] — 保守党政府 £50M 基金允许现有文法学校扩展招生，在新建禁令未修改的情况下以替代路径扩大选择性教育
 - [[What Works Network (UK)]] — 英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴
@@ -199,7 +199,7 @@ Total entries: **118**
 - [[American Attraction to Japanese Education 1980s]] — 1980 年代美国在危机叙事与国际比较推动下持续强化\"向日本学习\"参照网络，但受联邦—州—地方分权制约未形成全国统一制度移植
 - [[Best Evidence Encyclopedia (BEE)]] — 教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目
 - [[Blueprints for Healthy Youth Development]] — 多领域非营利清算中心，最高评级强调高质量研究、独立复制和 12 个月持续效果
-- [[California Class Size Reduction 1996]] — 加州试图复制田纳西州班级缩减成功但失败，因缺乏合格教师和教室空间，成为 fidelity vs adaptation 辩论的经典案例，Wiliam (2019) 量化教师质量恶化（未认证教师 1/200→1/8）并论证试验条件在大规模推广时系统性不成立
+- [[California Class Size Reduction 1996]] — 1996 年加州大规模推行的班额缩减政策，因教师与教室供给不足暴露出试点成功经验在全州扩张中的实施条件问题
 - [[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)]] — 面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果
 - [[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]] — 面向军人家庭的 public 清算中心，对 RCT 与一般 QED 均有详细证据标准
 - [[CNCS Evidence Exchange (EE)]] — 只审查 CNCS 自身资助项目和干预的 public 清算中心，在 Wadhwa et al. (2024) 样本中贡献 52 个项目
@@ -220,11 +220,11 @@ Total entries: **118**
 - [[Social Programs That Work (SPTW)]] — 多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库
 - [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发美国科技信心危机，Amos (2022) 将其定位为教育与地缘政治关系的关键转折点：触发 OECD 对 STEM 教育的系统性关注，建立\"教育质量→科技能力→国家竞争力\"的政策逻辑链
 - [[Success for All]] — Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断
-- [[Tennessee STAR Project 1985-1989]] — 被 Mosteller 称为\"有史以来最重要的教育调查之一\"的班级缩减 RCT，Wiliam (2019) 揭示其 RCT 外推的三重失败（非代表性、随机化破坏、教师质量混淆）
+- [[Tennessee STAR Project 1985-1989]] — 1985 至 1989 年田纳西州实施的大型班额缩减随机试验，成为教育因果识别、班级规模政策和结果外推争论中的关键案例
 - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
 - [[University of Kentucky Top-20 Plan]] — 肯塔基州立法机构指令赠地大学达到 Top-20 排名的战略计划，因 USNWR 评分惩罚招收弱势群体学生而失败，成为排名与使命冲突的经典案例
 - [[US-China Economic and Security Review Commission (2000)]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
-- [[What Works Clearinghouse (WWC)]] — 美国教育部 2002 年创建的 evidence clearinghouse，评级项目、政策、实践和研究；Wiliam (2019) 追溯其政治动力，Wadhwa et al. (2024) 记录其在教育清算中心生态中的高度可见度
+- [[What Works Clearinghouse (WWC)]] — 美国教育部 2002 年建立的教育证据清算中心，用于评估项目、实践和研究质量，已成为证据本位教育基础设施中的核心节点
 
 ### Policy
 

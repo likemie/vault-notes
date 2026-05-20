@@ -6,7 +6,7 @@ Total entries: **212**
 
 ## Communication Discourse
 
-- [[Interpretation Community]] — Stanley Fish (1980) 的解释社群理论：某种解释在社群中获得动量并从观点演变为广泛接受的事实，Qvortrup 用于分析丹麦 Hattie 批评现象
+- [[Interpretation Community]] — 某种解释在特定社群中获得动量并从观点演变为广泛接受事实的机制，用于说明争议如何被共同语言、立场和制度位置稳定下来
 - [[Parallel Monologues]] — Eacott 提出的概念，描述教育行政研究中学者各自在子领域内发表和引用但很少实质性交锋的结构性现象，主张以论证与反驳为学术工作的生成逻辑
 - [[SF (Haraway)]] — Haraway 的核心方法论缩写：同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今），Amos (2022) 将其定位为通过讲故事实践进行\"世界制造\"的后人类主义方法
 
@@ -39,7 +39,7 @@ Total entries: **212**
 ## Curriculum
 
 - [[Atomisation of Knowledge and Skills]] — 测量、问责和经济竞争逻辑下，教育内容被拆成可评估、可比较、可交易的小单位
-- [[Class Size]] — 班级学生人数，Hattie 评级 d≈0.2（小型效应），但 STAR 研究等高质量 RCT 发现效应量达 0.62–0.66；效果取决于与教学方法的交互，仅减班不改变教学无效果
+- [[Class Size]] — 班级学生人数这一教育组织变量，其影响不仅取决于人数变化本身，还取决于教师质量、课堂资源和教学方式是否随之调整
 - [[Constructive Alignment]] — Biggs (1996, 2003) 的课程设计原则：学习结果、教学活动和评估三者逻辑一致对齐，被 Hattie VL 框架采纳为关键实施要素
 - [[Didaktik]] — 德语教学理论传统，关注什么知识值得教、为什么教、如何教；Schaffar & Wolff 将其作为芬兰 PhBL 的大陆教育哲学根源之一
 - [[Educational Management Organisation (EMO)]] — 参与公立学校教育政策制定与服务交付的私营部门实体，营利/非营利两种形式，Cognition Education 和 CORE Education 为新西兰最大 EMO
@@ -49,7 +49,7 @@ Total entries: **212**
 - [[Selective Education]] — 依据学术能力考试将中学生分流至文法学校与现代中学的制度，研究证据一致表明其效果至多为中性，多数为负面
 - [[Simple View of Reading]] — Gough & Tunmer (1986) 的阅读理论模型：解码×理解=阅读，从提出起即明确针对全语言理论，通过英国 Rose Report 影响政策
 - [[Venture Philanthropy]] — 以\"投资\"而非\"拨款\"为核心逻辑的慈善方式，战略性、多年期、以社会/经济回报评估结果，Foundation North 为新西兰代表案例
-- [[Whole Language]] — 强调语言在真实完整语境中学习的读写教学哲学，Goodman 1967 年里程碑文章奠基，Hattie (2009) 将其效应量评为 d=0.06 引发争议，O'Connor (2020) 详细审查揭示 VL 评估存在方法论缺陷和先验偏见
+- [[Whole Language]] — 强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于证据与方法论争议中心
 
 ## Educational Philosophy
 
@@ -65,7 +65,7 @@ Total entries: **212**
 - [[Humosity]] — Rusten Hogness 创造、Haraway 使用的概念：\"腐殖性\"——将人类彻底去中心化，承认人类的生死不过是物质循环中的一环（如同腐殖质），Amos (2022) 将其定位为后人类主义与超人类主义世界观分歧的精确表达
 - [[Incarnation-Extension Dialectics]] — Larsen (2019) 提出的具身化-扩展双向运动框架，作为 VL 的替代学习理论
 - [[Learnification]] — Gert Biesta 提出的批判概念：学习被效果中心的结果逻辑所吞噬，教师被降格为\"学习促进者\"，Larsen (2019) 在丹麦语境中追溯其历史演变
-- [[Moral Sidestep]] — Stevens (2019) 概念：政策制定者以道德关切回避实证研究证据的话语策略，Bainbridge et al. (2022) 将其引入教育政策分析并发展为\"建构型侧步
+- [[Moral Sidestep]] — 政策制定者以道德关切回避或替代实证研究证据的话语策略，在教育政策辩论中常表现为把价值判断包装成证据立场
 - [[Multiplicity (Massey)]] — Doreen Massey (2005) 的空间理论核心概念：空间中差异的共存，多重轨迹交汇产生不可预测性，\"总是有松散的末端\"意味着任何权力系统都无法永久固定
 - [[Narrative Knowledge]] — Lyotard (1979/1984) 区分于科学知识的社科人文知识类型，Partaken 分析其在全球化中因商业价值科学知识崛起而急剧衰退
 - [[Otherhood]] — Meyer & Jepperson (2000) 的概念：组织为其他行动者、非行动者实体和现代性原则行使代理权的社会过程；大学近乎理想型地代表 otherhood 的全部三种形式
@@ -95,8 +95,8 @@ Total entries: **212**
 - [[Competitiveness in Higher Education]] — 高等教育中以排名、指标化和审计文化为基础设施的地缘政治装置，将大学重塑为市场参与者；在教学领域表现为对学生潜在未来努力的预期管理，通过预判性治理工具将不确定性转化为可治理对象
 - [[Critic and Conscience of Society]] — Gerald Grace 1988 年提出、后写入新西兰大学立法的概念：大学在民主社会中有独立的权力制衡角色，须基于系统公正分析\"向权力说真话\"，区别于仅关注学科内部的正常学术批评
 - [[Double Spatiality of Universities]] — 大学的双重空间特征：同时扎根于具体的城市与国家，又通过学术流动和开放心智视野跨越边界，贯穿从佛教寺院到现代大学的高等教育史
-- [[Economy of Experience]] — Phillip Brown 的概念：大学生需将课余生活精细投资管理以打造为简历加分的\"履历资本\"，郑雅君 (2023) 用于分析中国精英大学就业竞争
-- [[Employability]] — Phillip Brown 的概念：知识经济时代就业力建立在比较排序之上，毕业证书只是敲门砖，需通过经历管理展示个人品质，郑雅君 (2023) 作为社会性投入分析的理论基础
+- [[Economy of Experience]] — 大学生将课余经历、活动和自我展示精细投资管理以积累履历资本的竞争逻辑，是高等教育就业竞争向生活全域扩展的表现
+- [[Employability]] — 知识经济时代围绕毕业生可雇用性形成的比较排序逻辑，文凭只是入场门槛，个体还需通过经历管理和能力展示争取竞争优势
 - [[Epistemic Drift]] — Elzinga (1997) 的概念、Zapp (2022) 引入高等教育研究：研究者将学术议程对齐资助方偏好的系统性漂移，是科学-政治关系三级恶化光谱中的第一级
 - [[Epistemic Governance]] — 以规范、认知和知识为基础的全球治理机制，与强制和规制性硬治理形成对照；大学通过提供科学知识、培养全球治理专家和推行大学社会责任在去中心化全球治理架构中占据知识权威位置
 - [[Global Regionalisms in Higher Education]] — Robertson et al. (2016) 的概念：高等教育被整合进世界各地区大规模政治经济区域整合项目（EU、ASEAN 等），成为区域地缘政治想象的核心支柱
@@ -128,9 +128,9 @@ Total entries: **212**
 - [[Classroom Learning Culture]] — 班级学习氛围与同伴协作文化；在该样本中性别差异不显著，体现差异并非遍在于所有校内变量
 - [[Cult of the Guru]] — Eacott 提出的批判概念：教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，Hattie 现象为典型案例
 - [[Direct Instruction]] — 以教师主导的结构化明确讲解为特征的教学方法，Hattie 评级 d=0.59；Zhao (2017) 以副作用框架论证其效果（成绩提升）与副作用（抑制创造力、限制探索、非生产性成功）不可分离
-- [[Dynamic Knowledge and Learning Model]] — Qvortrup (2015) 为回应 VL 学习结果概念不清提出的四阶知识模型，强调知识形式之间的动态反身作用
+- [[Dynamic Knowledge and Learning Model]] — 为澄清学习结果概念而提出的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累
 - [[Effective Teaching]] — 综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提促进学习
-- [[Feedback]] — Hattie (2009) 定义反馈为代理人提供的关于表现或理解的信息（d=0.73），Nielsen & Klitmøller (2021) 对其 5 项最重元分析逐项审查发现 4/5 未研究 Hattie 所定义的反馈
+- [[Feedback]] — 教学中围绕表现、理解和下一步改进所提供的信息，在 Visible Learning 中被列为高影响因素，但其定义与证据基础存在持续争议
 - [[Individualised Instruction]] — 个别化教学；Laursen 将其作为丹麦\"教学差异化\"的近似国际参照，指出 Hattie 发现其效应较小且 Helmke 承认相关经验证据不足
 - [[Language Experience Approach]] — R.V. Allen (1964) 的早期读写法，公式\"能想→能说→能写→能读\"，是全语言的前身但被 Hattie 错误等同于全语言
 - [[Neo-Taylorism in Educational Administration]] — Taylor 科学管理原理在教育行政领域的当代复兴，Eacott 论证 Hattie VL 是\"新时代的泰勒主义\"，以寻找唯一正确方法和最大化效率为核心逻辑
@@ -173,7 +173,7 @@ Total entries: **212**
 - [[Fourth Industrial Revolution]] — Schwab/WEF 推广的概念，声称 AI、区块链等构成第四次工业革命，Partaken 以 Kuhn 不可通约性标准批判其为霸权性知识生产话语的自我包装
 - [[Geopolitical Subject]] — 从政治权力角度被装备上特定技能、行为、取向和空间心态的人形集合，在高等教育空间中被形塑以服务于全球竞争；有前景的学生构成其在教学领域的当代变体
 - [[Geopolitics of Knowledge]] — 高等教育被重构为知识地缘政治竞争的核心维度，涉及古典地缘政治向关系性空间构型的转变；在教学治理层面表现为通过 OSA 等数字化自我技术建构竞争性主体形态
-- [[Hub and Flow Imaginaries]] — Moisio (2022) 的概念：知识经济化中的核心空间想象类型，将世界划分为枢纽中心与边缘区域，集群、创意城市、创业城市等为其空间表述
+- [[Hub and Flow Imaginaries]] — 知识经济化中的核心空间想象，把世界组织成枢纽中心与边缘区域的流动结构，并通过集群、创意城市和创业城市等话语具体化
 - [[Knowledge Sabotage]] — GPK 知识转移模态：蓄意破坏敌对方知识资产，以网络攻击为主要当代形式
 - [[Knowledge-Based Economization]] — Moisio (2018) 的概念：关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践被话语建构的过程
 - [[Knowledge-Based Economy]] — 知识经济：知识、创新、高等教育和研发为价值创造与全球竞争核心要素的实际存在经济形态
@@ -187,9 +187,9 @@ Total entries: **212**
 - [[Radical Liberal Internationalism]] — Sakwa (2023) 的概念：冷战后取代主权国际主义的自由反多元立场，以美国例外论和英美\"基于规则的秩序\"为形态，支持干预主义和政权更迭
 - [[School Autonomy]] — 教育决策权从中央官僚机构向个别学校的下放，市场逻辑（竞争、经济效率、公共问责）将其从潜在的公平工具扭曲为制造不平等的机制
 - [[Scientization of Politics]] — Zapp (2022) 的概念：政策制定者接受科学证据作为决策的合法性基础，使科学知识从信息来源转变为治理合法性的构成性要素，是知识治理兴起的关键维度
-- [[Selectivity]] — Jessop (2007) 的治理概念：政策工具通过结构性偏向系统性地优先某些替代方案而边缘化其他，Rambla (2022) 在欧盟区域创新和终身学习政策中分析
+- [[Selectivity]] — 治理中的结构性偏向机制，使某些政策选项、行动者和利益更容易获得支持，而其他替代方案被系统性边缘化
 - [[Sovereign Internationalism]] — Sakwa (2023) 的概念：1945 年联合国宪章体系核心理念，世界作为多元空间容忍文明差异和政治制度多样性，尊重不干涉原则
-- [[Spatial Sortings]] — Moisio (2022) 的概念：知识密集型资本主义系统性地将地点和人口划分为赢家与输家的过程，由公共和私人投资驱动、国家中介
+- [[Spatial Sortings]] — 知识密集型资本主义通过投资、治理和空间规划持续把地点与人口划分为赢家和输家的过程，是空间不平等生产的重要机制
 
 ## Research Methodology
 
@@ -199,13 +199,13 @@ Total entries: **212**
 - [[Confidence Interval]] — 点估计周围的误差范围；缺少 CI/SE 时，相邻效应量或排名差异容易被过度解释
 - [[Developer Effect]] — 开发者委托或实施的项目评估平均效应量系统地大于独立第三方评估，Wolf et al. (2020) 以 WWC 数据首次以元分析技术系统量化
 - [[Educational Evidence Clearinghouses]] — 审查教育项目效果研究并发布项目有效性评级的证据中介机构；Wadhwa et al. (2024) 比较 12 个清算中心发现同一项目评级一致性有限
-- [[Effect Size]] — 标准化干预效果统计指标，Simpson 论证其测量试验灵敏度而非有效性，Wrigley & McCusker (2019) 展示三级聚合失真过程，Wiliam (2019) 断言元-元分析在教育政策中无任何角色并提供 11 点评估清单
-- [[Evidence-Based Education]] — 主张教育实践应以实验研究证据为基础的运动，Biesta 以三重缺陷框架进行系统批判，Cowen 以 Tullock 官僚制理论解释其制度韧性，Slavin (2002/2019/2021) 从政策机制角度倡导改革并记录中国制度化发展，Nelson & Campbell (2017) 以 EIP 和 KMb 框架提供替代取向，Pampaka et al. (2016) 诊断大规模有效干预缺失与\"萎靡感\"并识别 agency 为核心哲学分歧，Wrigley & McCusker (2019) 从科学哲学角度批判其\"简单科学观\"，Wiliam (2019) 以 Goldman 区分理论论证教育知识局部且临时、EBE 永远不可能成功，Peterson (2016) 提出以机制实验和改进科学整合的\"什么有效 2.0\"改革方案
+- [[Effect Size]] — 比较不同干预或变量影响强度的标准化统计指标，被广泛用于元分析与证据排序，但其解释边界、聚合方式和政策用途长期存在争议
+- [[Evidence-Based Education]] — 主张教育实践应更多建立在系统研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡
 - [[Evidence-Based Reform]] — Slavin (2002) 提出、(2017/2019/2021) 完善的教育政策框架：以实验有效性证据作为选择项目和产品的核心标准，依赖开发-评估-推广范式和政府拨款激励实现良性循环，Slavin et al. (2021) 首次进行中美英国际比较并记录中国证据本位研究的制度化发展，Cheung & Xie (2021) 以 Editorial 汇集七国八篇文章呈现全球全景
 - [[Evidence-Informed Practice (EIP)]] — Nelson & Campbell (2017) 系统阐述的替代取向：证据是多种因素之一，教育者需运用专业判断整合研究证据、课堂数据和系统数据，KMb 四策略框架
 - [[Gating Procedure]] — 系统综述策略：仅内部效度强的研究通过门槛进入推广性评估，WWC 对 SCD 和组间设计均采用此程序
 - [[Intent-to-Treat Analysis]] — RCT 估计方法，按原始随机分配分析无论实际接受与否，反映干预可获得性而非实际接受效果，政策意义重大（Pampaka et al., 2016）
-- [[Justified Warrants]] — Malone & Hogan (2020) 基于 Dewey 的概念：研究应提供暂定性、可修正的担保断言而非确定性证明，Bainbridge et al. (2022) 用于评估政策论证的逻辑推进
+- [[Justified Warrants]] — 研究结论应提供暂定、可修正的担保断言而非确定性证明，可用于评估政策论证是否真正由证据支持而不是靠修辞跳跃推进
 - [[Local Knowledge in Evidence-Based Policy]] — 从业者对本地情境的深入了解和专业判断，多项研究表明它是 EBP 成功实施不可或缺的组成部分
 - [[Material Fallacies]] — 逻辑学中\"在理解术语的含义或用法方面的错误\"（Kreeft, 2010），O'Neill 将其引入教育政策话语分析以审查证据被误用的现象
 - [[Mechanism Experiments]] — 测试特定行为理论的小规模现场实验，Peterson (2016) 从发展经济学引入作为黑箱 RCT 的替代，以鼓励设计（Imai et al., 2013）为关键方法论工具
@@ -213,7 +213,7 @@ Total entries: **212**
 - [[Performativity of Measurement]] — 测量不仅是描述性行为更是制造世界的生产性行为，一旦存在即改变优先事项和行为，批判测量因此是道德事业
 - [[Potential Outcomes Framework]] — Neyman-Rubin-Holland 因果推断核心框架：因果效应通过比较同一主体在两种条件下的假设性潜在结果来定义，区分因果效应的定义与估计（Berk, 2011）
 - [[Preregistration]] — 在研究开始前公开登记研究设计、结果测量和分析计划，被提出作为缓解开发者效应和可疑研究实践的关键机制
-- [[Professional Judgment]] — 教师在复杂情境中整合研究知识、伦理标准和方法论原则做出教学决策的能力，Qvortrup 定位为 VL 中教学干预与学习成果之间的\"缺失环节
+- [[Professional Judgment]] — 教师在复杂情境中整合研究知识、伦理标准和方法原则做出决策的能力，是把一般性证据转化为具体教学行动的关键中介
 - [[Programme Fidelity vs Adaptation]] — 证据本位方案实施中的核心张力：忠实复制原始方案 vs 根据本地条件调整，Cartwright 以加州 1996 年班级缩减政策说明两者各有限度
 - [[Publication Bias]] — 正面/显著结果比零/负面结果更可能被发表或传播的系统性倾向（文件抽屉效应），在教育评估中可解释约 66% 的开发者效应
 - [[Pure Evaluation]] — Tanggaard, Rømer & Brinkmann (2014) 仿照\"纯粹教育\"提出的概念，描述被宣称在自调节系统中独立于时空运作的评价实践，Hattie 的元-元分析为其典型案例
@@ -222,29 +222,29 @@ Total entries: **212**
 - [[Side Effects in Education]] — Zhao (2017) 从医学引入教育研究的概念：教育干预的效果与副作用不可分离，教育研究系统性地忽视\"什么有效可能同时有害
 - [[Stable Unit Treatment Value Assumption (SUTVA)]] — 潜在结果框架关键假定：每个主体的潜在结果仅取决于自身处理；违反导致主体间干扰，集群随机化中单一因果效应不再存在（Berk, 2011）
 - [[Statistical Significance]] — 判断观察到的差异是否足以拒绝零假设；它与效应量只有在给定样本量时才相连
-- [[Validity as Inferences]] — Cronbach/Messick 的效度理论：效度是推论的属性而非测试或实验的属性，验证是永无止境的过程，Wiliam (2019) 将其应用于教育 RCT 方法论批判
+- [[Validity as Inferences]] — 效度被理解为推论的属性而非测试或实验本身的属性，验证是持续修正推论边界与证据基础的过程
 
 ## Sociology of Education
 
 - [[Champ]] — Pierre Bourdieu 的核心概念：具有相对自主性和自身游戏规则的社会空间，郑雅君 (2023) 将中国精英大学分析为一个布迪厄式场域，Eacott (2011) 诊断教育场域自主性的削弱
 - [[Credential Inflation]] — Randall Collins (1979) 的概念：大学文凭作为交换职业地位的通货在市场上发生萎缩，中国扩招后从 84.8 万（1999）升至 753.3 万毕业生（2018）
-- [[Cultural Barrier in Higher Education]] — 郑雅君 (2023) 的概念：因不具备精英大学中默认掌握的文化知识和文化技能而造成的无形障碍，不利于低阶层大学生获取向上流动机会和主观自我认同
+- [[Cultural Barrier in Higher Education]] — 弱势背景学生因缺乏精英大学默认要求的文化知识与文化技能而遭遇的无形障碍，会同时限制向上流动机会与主观自我认同
 - [[Cultural Capital]] — Pierre Bourdieu 的核心概念：个体通过家庭社会化获得的、在特定场域中具有交换价值的文化资源，三种形态（具身化/客体化/制度化），郑雅君 (2023) 分析其如何通过习性转化为大学场域中的竞争优势
-- [[Cultural Disembedding]] — 郑雅君 (2023) 的概念：寒门学子进入精英大学后对物理环境和社会文化环境的全面疏离感，是文化障碍的第一重维度
-- [[Cultural Disorientation]] — 郑雅君 (2023) 的概念：寒门学子升入名校后场域转换造成内在自我冲突和目标策略迷失，是文化障碍的第二重维度
+- [[Cultural Disembedding]] — 弱势背景学生进入精英大学后对物理环境与社会文化环境的全面疏离感，是高等教育文化障碍的第一重维度
+- [[Cultural Disorientation]] — 精英大学弱势背景学生因场域转换而出现的自我冲突与目标迷失，是高等教育文化障碍从环境不适应转向行动失向的第二重维度
 - [[Doxa]] — Pierre Bourdieu 的概念：场域中视为理所当然的正统或常识，通过结构安排而非强制来合法化，Eacott (2011) 分析其对学校领导力培养的再生产性影响
 - [[Gender Differences in Academic Achievement]] — 学业性别差异并非主要由性别直接决定，而是通过学校规范适应、学习动机与行为评价机制间接形成；挪威 4128 人样本显示女生在教师评定指标上整体更高
-- [[Goal-Controlled Mode]] — 郑雅君 (2023) 提出的大学生活组织实践图式：早期确立生涯目标，策略性地利用大学资源为毕业出路做准备，根植于优势阶层习性
-- [[Graduation Pathway Typology (Zheng)]] — 郑雅君 (2023) 的毕业出路产生机制2×2四分类模型：以目的-手段行动力为纵轴、价值信念驱动力为横轴，划分自主驱动者/机会主义者/迷失无从者/价值归顺者四种类型
+- [[Goal-Controlled Mode]] — 大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连
+- [[Graduation Pathway Typology (Zheng)]] — 解释大学生毕业出路分化的 2×2 四分类模型，以目的手段行动力和价值信念驱动力为两轴，划分自主驱动者、机会主义者、迷失无从者和价值归顺者
 - [[Habitus]] — Pierre Bourdieu 的核心概念：通过长期暴露于特定社会经验而具身化的行为倾向系统，郑雅君 (2023) 以之解释两种上大学模式的阶层根源，Eacott (2011) 揭示校长习性在多重场域交叉中的分裂
 - [[Intuition-Dependent Mode]] — 郑雅君 (2023) 提出的大学生活组织实践图式：缺乏清晰规划、凭直觉被动应对大学选择，在低阶层大学生中更为普遍
-- [[Lost Mode]] — 郑雅君 (2023) 的类型：直觉依赖模式+弱价值信念=迷失无从者，在四类中处于最不利地位，被动接受权宜之策
-- [[Opportunist Mode]] — 郑雅君 (2023) 的类型：目标掌控模式+弱价值信念=机会主义者，擅长策略但无深层价值认同，追求工具性利益最大化
-- [[Self-Driven Mode]] — 郑雅君 (2023) 的类型：目标掌控模式+强价值信念=自主驱动者，既有策略能力又有深层意义感支撑，自主设定精英生涯目标
+- [[Lost Mode]] — 毕业出路分化中的一种类型，以直觉依赖和弱价值信念结合为特征，缺乏稳定目标与行动方向，常被动接受权宜性选择
+- [[Opportunist Mode]] — 毕业出路分化中的一种类型，以目标掌控和弱价值信念结合为特征，擅长策略性配置资源但缺乏深层价值认同，偏向工具性收益最大化
+- [[Self-Driven Mode]] — 毕业出路分化中的一种类型，以目标掌控和强价值信念结合为特征，既能策略性行动又有稳定意义感支撑，倾向主动设定长期发展目标
 - [[Sociology of Measurement]] — Woolgar 的分析框架：将测量视为技术，关注其 instrumentalism（如何被弄到运作）和 performativity（如何制造世界）
 - [[Stereotype Threat]] — Aronson (2002) 的社会心理学概念：个体意识到关于自身群体的刻板印象时产生的额外情感与认知负担及去认同化，被 Ryan 应用于分析中国学习者内化刻板印象的机制
 - [[Symbolic Boundary]] — Lamont 的概念：通过赋予行为、品味和价值观以道德涵义在自我与他者之间划分\"我们\"与\"他们\"，郑雅君 (2023) 揭示两种模式间互相区隔的道德话语
 - [[Tense Society]] — Dell Delambre 对当代社会的诊断：所有领域的\"新\"与\"旧\"意义张力呈指数级加速且高度互联，\"正常\"就是张力，呼吁将张力教育作为全球地缘政治项目
-- [[The Shock of the Elite]] — Reay, Crozier & Clayton (2009) 的概念：弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，郑雅君 (2023) 作为直觉依赖模式激化的关键机制
-- [[Value Conformist Mode]] — 郑雅君 (2023) 的类型：直觉依赖模式+强价值信念=价值归顺者，内化学校理想信念获得体制赞助性流动
-- [[Work Meaning Schemas (Zheng)]] — 郑雅君 (2023) 的工作意义三角图式结构：地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达三种文化图式及其代内分化
+- [[The Shock of the Elite]] — 弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，常表现为习性失配、归属感受损和行动方向不稳
+- [[Value Conformist Mode]] — 毕业出路分化中的一种类型，以直觉依赖和强价值信念结合为特征，通过内化学校理想与主流规范获得体制赞助性流动
+- [[Work Meaning Schemas (Zheng)]] — 名校大学生理解工作意义的三角图式结构，由地位保障与家庭责任、家国理想与社会价值、个体趣味与自我表达三种文化逻辑构成

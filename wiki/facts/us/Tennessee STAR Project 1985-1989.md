@@ -1,7 +1,7 @@
 ---
 title: Tennessee STAR Project 1985-1989
 aliases: []
-summary: "被 Mosteller 称为\"有史以来最重要的教育调查之一\"的班级缩减 RCT，Wiliam (2019) 揭示其 RCT 外推的三重失败（非代表性、随机化破坏、教师质量混淆）"
+summary: "1985 至 1989 年田纳西州实施的大型班额缩减随机试验，成为教育因果识别、班级规模政策和结果外推争论中的关键案例"
 type: fact
 subtype: event
 region: us

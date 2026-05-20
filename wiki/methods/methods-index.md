@@ -8,7 +8,7 @@ Total entries: **27**
 
 - [[Improvement Science]] — 源自组织研究（Langley et al., 2009）的教育研究替代范式，以系统视角、关注变异性、人类行动者中心和反馈循环为特征，Bryk et al. (2015) 将其引入美国教育
 - [[Mixed Method and Multi-method Research]] — 不操纵自变量且同时包含量化和质性数据的非干预研究；Brady et al. (2023) 将其作为新增编码类别并发现 2020 年占 6%
-- [[Spirals of Inquiry]] — Timperley, Halbert & Kaser (2014) 开发的教师探究循环模型（扫描→聚焦→直觉→学习→行动→检查），OECD (2015) 推广其支持创新学习系统规模化实施的能力
+- [[Spirals of Inquiry]] — 围绕扫描、聚焦、形成直觉、学习、行动和检查展开的教师探究循环模型，用于把证据使用与持续学校改进连接起来
 
 ## Qualitative
 
@@ -16,10 +16,10 @@ Total entries: **27**
 - [[Case Study]] — 质性研究设计：以跟踪式个案为分析单位，通过目的抽样与理论抽样选取典型案例，结合类别系列分解策略优化可外推性，郑雅君 (2023) 用于中国精英大学学生出路分化研究
 - [[Cognitive Task Analysis]] — 针对复杂学习情境的研究与教学方法，分析专家认知过程和知识结构，强调教师激活而非促进
 - [[Comparative Case Study]] — Bartlett 与 Vavrus 提出的比较案例研究方法，通过水平、垂直和横贯三个轴同时对案例进行跨地点、跨尺度和历时比较，适合分析复杂连接的教育政策与治理现象
-- [[Constructivist Grounded Theory]] — Kathy Charmaz (2006) 在经典扎根理论基础上发展的建构主义变体：意义由被研究者与研究者共同建构，郑雅君 (2023) 以此方法论产出了目标掌控模式／直觉依赖模式的类型学发现
+- [[Constructivist Grounded Theory]] — 扎根理论的建构主义变体，强调概念与意义由研究者和被研究者在互动中共同生成，适合分析行动者如何赋予经验以解释框架
 - [[Ganz-Methode]] — Dell Delambre 基于 Creative Tension of Sense 理论开发的实践方法论（Whole Approach），两步法承载而非消解意义张力，以里约热内卢多案例实践为基础
 - [[Historical Document Analysis of Curriculum]] — 通过系统分析课程文件、政府政策、媒体报道和学术文献重建科目演变历程，识别课程变革的政治动力
-- [[In-depth Interview]] — 半结构式质性资料收集方法：以\"深入事实内部\"和渐进式聚焦为原则，通过了解个人生活史获得对被访者行动意义的\"同感解释\"，郑雅君 (2023) 以此为核心资料收集方法（62 人，累计 150+ 万字转录）
+- [[In-depth Interview]] — 通过持续追问、渐进聚焦和生活史叙述深入理解行动者经验与意义建构的质性资料收集方法，常用于解释复杂选择和主观处境
 - [[Philosophical Analysis in Education]] — 通过概念区分、逻辑推理和哲学论证分析教育政策与实践的前提假设，为从业者提供抵抗资源
 - [[Qualitative Research]] — 不操纵自变量并使用访谈、观察等文本数据的非干预研究；Brady et al. (2023) 发现其在教育心理学经验期刊中升至 22%
 
@@ -30,7 +30,7 @@ Total entries: **27**
 - [[Electroencephalography]] — 脑电图（EEG）：通过测量相邻神经元群落激活记录脑活动，可测毫秒级增量，时间分辨率优于空间分辨率，便携式 EEG 扩大了对年幼儿童的研究可能
 - [[Functional Magnetic Resonance Imaging]] — 功能性磁共振成像（fMRI）：通过测量脑区血液成分记录脑活动，空间分辨率优于时间分辨率，大多数研究集中于 7 岁以上儿童
 - [[Intervention Research]] — 操纵自变量以检验教育处理或实践效果的研究设计；Brady et al. (2023) 发现其在教育心理学期刊中从 2000 年 40% 降至 2010/2020 年 25%
-- [[Matching]] — 观察性研究因果推断方法，通过协变量分布匹配使处理组与对照组可比，回避因果建模的模型选择问题，Berk (2011) 推荐为 SEM 的替代方法
+- [[Matching]] — 观察性研究中的因果推断方法，通过匹配协变量分布提高处理组与对照组可比性，以减少选择偏差对效果估计的干扰
 - [[Meta-analysis]] — 通过计算多项原始研究平均效应量综合研究证据的统计方法，Pawson 和 Wrigley 论证其在聚合中系统性消除因果信息
 - [[Meta-meta-analysis]] — 将多个已发表元分析在更高层次统计综合的方法，包含 Wecker 6 项方法论要求的数学推导、等价性证明、全语言案例和稳定性/变异性双重困境
 - [[Non-intervention Research]] — 不操纵自变量的研究集合，包括观察/相关、质性、混合方法/多方法研究；Brady et al. (2023) 发现其仍占经验教育心理学研究约四分之三

@@ -3,7 +3,7 @@ title: Matching
 aliases:
 - 匹配
 - SEM
-summary: "观察性研究因果推断方法，通过协变量分布匹配使处理组与对照组可比，回避因果建模的模型选择问题，Berk (2011) 推荐为 SEM 的替代方法"
+summary: "观察性研究中的因果推断方法，通过匹配协变量分布提高处理组与对照组可比性，以减少选择偏差对效果估计的干扰"
 type: method
 method_type: quantitative
 tags:

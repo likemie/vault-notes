@@ -1,7 +1,7 @@
 ---
 title: Legitimation Theory Van Leeuwen
 aliases: []
-summary: "Van Leeuwen (2007) 的四层次合法化框架：权威/传统、道德价值、理性/真理、奖励叙事，Bainbridge et al. 用于解释教育证据如何被政策制定者接受或排斥"
+summary: "分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场"
 type: theory
 tags:
 - Legitimation-Theory

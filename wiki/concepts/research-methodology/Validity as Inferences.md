@@ -1,7 +1,7 @@
 ---
 title: Validity as Inferences
 aliases: []
-summary: "Cronbach/Messick 的效度理论：效度是推论的属性而非测试或实验的属性，验证是永无止境的过程，Wiliam (2019) 将其应用于教育 RCT 方法论批判"
+summary: "效度被理解为推论的属性而非测试或实验本身的属性，验证是持续修正推论边界与证据基础的过程"
 type: concept
 tags:
 - validity

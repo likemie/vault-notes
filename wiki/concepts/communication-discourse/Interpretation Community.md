@@ -1,7 +1,7 @@
 ---
 title: Interpretation Community
 aliases: []
-summary: "Stanley Fish (1980) 的解释社群理论：某种解释在社群中获得动量并从观点演变为广泛接受的事实，Qvortrup 用于分析丹麦 Hattie 批评现象"
+summary: "某种解释在特定社群中获得动量并从观点演变为广泛接受事实的机制，用于说明争议如何被共同语言、立场和制度位置稳定下来"
 type: concept
 tags:
 - interpretation-community

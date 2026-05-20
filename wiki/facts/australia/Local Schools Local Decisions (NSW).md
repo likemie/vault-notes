@@ -1,7 +1,7 @@
 ---
 title: Local Schools Local Decisions (NSW)
 aliases: []
-summary: "NSW 州 2011–2018 年权力下放政策，被批评为表面赋权实质成本削减"
+summary: "2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理"
 type: fact
 subtype: policy
 region: australia

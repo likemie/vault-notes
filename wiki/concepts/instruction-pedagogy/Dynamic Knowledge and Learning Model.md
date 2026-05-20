@@ -2,7 +2,7 @@
 title: Dynamic Knowledge and Learning Model
 aliases:
 - 动态知识与学习模型
-summary: "Qvortrup (2015) 为回应 VL 学习结果概念不清提出的四阶知识模型，强调知识形式之间的动态反身作用"
+summary: "为澄清学习结果概念而提出的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累"
 type: concept
 tags:
 - learning-theory

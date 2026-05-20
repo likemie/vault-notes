@@ -1,7 +1,7 @@
 ---
 title: Visible Learning Branding and Global Influences
 aliases: []
-summary: "VL 品牌化与全球影响：asTTle 起源→2010 年 Cognition Education 推出 VLplus 商业化 Hattie VL→2018 年 Corwin 收购，已扩散至 23+ 国；含商标、产品体系、各国政策采纳、政策误用与制度批评（O'Neill/Terhart/O'Connor/Blass/Johnson & Janzen）、品牌免疫分析"
+summary: "Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议"
 type: fact
 subtype: event
 region: newzealand

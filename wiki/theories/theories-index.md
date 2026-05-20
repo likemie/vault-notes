@@ -6,7 +6,7 @@ Total entries: **41**
 
 ## Communication Discourse
 
-- [[Legitimation Theory Van Leeuwen]] — Van Leeuwen (2007) 的四层次合法化框架：权威/传统、道德价值、理性/真理、奖励叙事，Bainbridge et al. 用于解释教育证据如何被政策制定者接受或排斥
+- [[Legitimation Theory Van Leeuwen]] — 分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场
 
 ## Comparative Education
 
@@ -23,8 +23,8 @@ Total entries: **41**
 ## Educational Philosophy
 
 - [[Autopoiesis]] — Maturana & Varela 的生命系统理论：生命系统通过自我指涉和自我生产持续维持自身，Escobar 延伸至社会转型分析，Amos (2022) 将其与 Haraway 的 sympoiesis 对照用于晚期现代性教育愿景分析
-- [[Critical Realism]] — Bhaskar 的科学哲学：区分实在/实际/经验三层本体论和开放/封闭系统，Wrigley & McCusker (2019) 用作批判 EBT 方法论的哲学框架
-- [[Goldman's Discrimination Theory of Knowledge]] — 知识要求区分真实状态与相关替代可能状态的能力，Wiliam (2019) 以此论证教育知识的局部性和临时性
+- [[Critical Realism]] — Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架
+- [[Goldman's Discrimination Theory of Knowledge]] — 知识的成立依赖区分真实状态与相关替代可能状态的能力，可用于说明教育判断为何往往具有局部性、情境性与暂定性
 - [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，Larsen (2019) 以盲点和结构耦合概念批判 VL
 - [[Phenomenology]] — 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的\"现象\"概念和教育意义
 - [[Popper's Three Worlds Theory]] — Karl Popper 的本体论框架：World 1 物理世界 / World 2 主观世界 / World 3 文化与科学对象（\"客观地伟大的\"），Rømer (2018) 论证 Hattie 通过 Bereiter 严重误读该理论
@@ -42,7 +42,7 @@ Total entries: **41**
 
 ## Instruction Pedagogy
 
-- [[Bounded Rationality]] — Simon (1969/1996) 的有限理性理论：复杂专业任务的复杂度大于专业人员的实践能力，Qvortrup 用作专业判断的理论基础
+- [[Bounded Rationality]] — 解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理
 
 ## Learning Science Cognitive Science
 

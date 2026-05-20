@@ -2,7 +2,7 @@
 title: Constructivist Grounded Theory
 aliases:
 - 建构主义扎根理论
-summary: "Kathy Charmaz (2006) 在经典扎根理论基础上发展的建构主义变体：意义由被研究者与研究者共同建构，郑雅君 (2023) 以此方法论产出了目标掌控模式／直觉依赖模式的类型学发现"
+summary: "扎根理论的建构主义变体，强调概念与意义由研究者和被研究者在互动中共同生成，适合分析行动者如何赋予经验以解释框架"
 type: method
 method_type: qualitative
 tags:

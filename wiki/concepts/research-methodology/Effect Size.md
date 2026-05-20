@@ -1,7 +1,7 @@
 ---
 title: Effect Size
 aliases: []
-summary: "标准化干预效果统计指标，Simpson 论证其测量试验灵敏度而非有效性，Wrigley & McCusker (2019) 展示三级聚合失真过程，Wiliam (2019) 断言元-元分析在教育政策中无任何角色并提供 11 点评估清单"
+summary: "比较不同干预或变量影响强度的标准化统计指标，被广泛用于元分析与证据排序，但其解释边界、聚合方式和政策用途长期存在争议"
 type: concept
 tags:
 - effect-size

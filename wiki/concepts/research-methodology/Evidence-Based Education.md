@@ -7,7 +7,7 @@ aliases:
 - EBE
 - evidence-based policy in education
 - 证据为本教育
-summary: "主张教育实践应以实验研究证据为基础的运动，Biesta 以三重缺陷框架进行系统批判，Cowen 以 Tullock 官僚制理论解释其制度韧性，Slavin (2002/2019/2021) 从政策机制角度倡导改革并记录中国制度化发展，Nelson & Campbell (2017) 以 EIP 和 KMb 框架提供替代取向，Pampaka et al. (2016) 诊断大规模有效干预缺失与\"萎靡感\"并识别 agency 为核心哲学分歧，Wrigley & McCusker (2019) 从科学哲学角度批判其\"简单科学观\"，Wiliam (2019) 以 Goldman 区分理论论证教育知识局部且临时、EBE 永远不可能成功，Peterson (2016) 提出以机制实验和改进科学整合的\"什么有效 2.0\"改革方案"
+summary: "主张教育实践应更多建立在系统研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 tags:
 - evidence-based-education
