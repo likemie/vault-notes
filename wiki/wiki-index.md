@@ -10,9 +10,9 @@ Total entries: **581**
 
 ### Communication Discourse
 
-- [[Interpretation Community]] — 某种解释在特定社群中获得动量并从观点演变为广泛接受事实的机制，用于说明争议如何被共同语言、立场和制度位置稳定下来
-- [[Parallel Monologues]] — Eacott 提出的概念，描述教育行政研究中学者各自在子领域内发表和引用但很少实质性交锋的结构性现象，主张以论证与反驳为学术工作的生成逻辑
-- [[SF (Haraway)]] — Haraway 的核心方法论缩写：同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今），Amos (2022) 将其定位为通过讲故事实践进行\"世界制造\"的后人类主义方法
+- [[Interpretation Community]] — 某种解释在特定社群中获得动量并从观点演变为广泛接受事实的机制，用于说明争议如何被共同语言、立场和制度位置稳定下来。
+- [[Parallel Monologues]] — Eacott 提出的概念，描述教育行政研究中学者各自在子领域内发表和引用但很少实质性交锋的结构性现象，用于批评缺乏论证与反驳的学术交流模式。
+- [[SF (Haraway)]] — Haraway 的核心概念缩写，同时代表 string figures、speculative fabulation、science fiction 和 so far，用于通过讲故事、连结关系与共同想象来实践后人类主义的世界制造。
 
 ### Comparative Education
 
@@ -42,18 +42,18 @@ Total entries: **581**
 
 ### Curriculum
 
-- [[Atomisation of Knowledge and Skills]] — 测量、问责和经济竞争逻辑下，教育内容被拆成可评估、可比较、可交易的小单位
-- [[Class Size]] — 班级学生人数这一教育组织变量，其影响不仅取决于人数变化本身，还取决于教师质量、课堂资源和教学方式是否随之调整
-- [[Constructive Alignment]] — Biggs (1996, 2003) 的课程设计原则：学习结果、教学活动和评估三者逻辑一致对齐，被 Hattie VL 框架采纳为关键实施要素
-- [[Didaktik]] — 德语教学理论传统，关注什么知识值得教、为什么教、如何教；Schaffar & Wolff 将其作为芬兰 PhBL 的大陆教育哲学根源之一
-- [[Educational Management Organisation (EMO)]] — 参与公立学校教育政策制定与服务交付的私营部门实体，营利/非营利两种形式，Cognition Education 和 CORE Education 为新西兰最大 EMO
-- [[Epochal Key Problems]] — Klafki 的课程组织概念：以环境危机、社会不平等、战争等时代问题连接学科深度与跨学科广度
-- [[Fourth Culture]] — Deveney (2005) 的概念：位于学生母国境内但并不代表其本土文化与信仰的国际学校，Jabal 用于分析香港国际学校中中国学习者的\"调适复杂性
-- [[Phenomenon-Based Learning]] — 芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任
-- [[Selective Education]] — 依据学术能力考试将中学生分流至文法学校与现代中学的制度，研究证据一致表明其效果至多为中性，多数为负面
-- [[Simple View of Reading]] — Gough & Tunmer (1986) 的阅读理论模型：解码×理解=阅读，从提出起即明确针对全语言理论，通过英国 Rose Report 影响政策
-- [[Venture Philanthropy]] — 以\"投资\"而非\"拨款\"为核心逻辑的慈善方式，战略性、多年期、以社会/经济回报评估结果，Foundation North 为新西兰代表案例
-- [[Whole Language]] — 强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于证据与方法论争议中心
+- [[Atomisation of Knowledge and Skills]] — 在测量、问责和经济竞争逻辑下，教育内容被拆分为可评估、可比较和可交易的小单位，用于描述课程知识与技能的碎片化组织方式。
+- [[Class Size]] — 班级学生人数这一教育组织变量，其影响不仅取决于人数变化本身，还取决于教师质量、课堂资源和教学方式是否随之调整。
+- [[Constructive Alignment]] — Biggs 提出的课程设计原则，强调学习结果、教学活动和评估三者之间的逻辑一致性，用于协调课程目标、教学过程和评价方式。
+- [[Didaktik]] — 德语教学理论传统，关注什么知识值得教、为什么教以及如何教，用于连接课程内容、教育目的和教学判断。
+- [[Educational Management Organisation (EMO)]] — 参与公立学校教育政策制定、管理支持和服务交付的私营部门实体，兼具营利和非营利形式，用于描述教育治理中的外部组织化介入。
+- [[Epochal Key Problems]] — Klafki 提出的课程组织概念，以环境危机、社会不平等和战争等时代问题连接学科深度与跨学科广度。
+- [[Fourth Culture]] — Deveney 提出的概念，指位于学生母国境内但并不代表其本土文化与信仰的国际学校环境，用于分析本地学生在国际学校中的文化调适复杂性。
+- [[Phenomenon-Based Learning]] — 芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。
+- [[Selective Education]] — 依据学术能力考试将中学生分流至不同学校类型的制度，常用于描述以早期选拔组织中等教育机会和路径的安排。
+- [[Simple View of Reading]] — Gough 与 Tunmer 提出的阅读理论模型，认为阅读由解码和理解共同构成，常用于支持系统识字教学和阅读困难分析。
+- [[Venture Philanthropy]] — 以投资而非拨款为核心逻辑的慈善方式，强调战略性、多年期支持和社会或经济回报评估，常见于教育改革资助和治理网络。
+- [[Whole Language]] — 强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。
 
 ### Educational Philosophy
 
@@ -86,13 +86,13 @@ Total entries: **581**
 
 ### Educational Technology
 
-- [[Data Behaviorism]] — Rouvroy (2013) 提出的概念，指算法系统通过实时运作绕过人类的转录、解释和符号化等意义建构过程，以行为数据关联取代主观理解的一种知识生产模式
-- [[Digital Optimum]] — 算法理性在持续优化评估环境中产生的完美起点理想形象，作为参照标准传递对理想学生的具体期望；与数字自我之间的差异驱动着自我优化和算法治理
-- [[Digital Self]] — 通过 OSA 和学习分析收集的数据将学生特征转化为可归因于个体的数字指标组合所建构的统计人造物；与数字最优之间的差异驱动算法治理和自我优化
-- [[Educational Technology Industry]] — Amos (2022) 分析的 EdTech 产业生态系统：以利润（Google/Apple/Microsoft/Coursera）、正义平等叙事（UNESCO anytime/anywhere）和教师专业发展三重动机推动教育的数字化、市场化和商业化，是当代 GEI 最具变革性的技术维度
-- [[Gamification]] — 将游戏设计元素（积分、徽章、排行榜、反馈循环）应用于非游戏情境以调节行为的设计策略，Zichermann & Cunningham (2011) 定义；在教育中其行为主义根基与 Bildung 的反思性目标构成根本张力
-- [[Learning Analytics]] — 通过对学习过程中产生的数字痕迹进行收集、分析与报告以理解和优化学习的技术实践；在高等教育治理中从个性化学习工具延伸至先发制人的学生治理——通过构建数字自我和成功相关性分析在入学前预判和干预
-- [[Transhumanism]] — Huxley (1957) 提出、Amos (2022) 在教育语境中分析的超人类主义：以技术手段超越人类生物局限追求无限优化和增强的意识形态，是高度现代性的激进延续，与市场驱动教育模型高度兼容
+- [[Data Behaviorism]] — Rouvroy 提出的概念，指算法系统通过实时运作绕过解释和符号化等意义建构过程，以行为数据关联取代主观理解的知识生产模式。
+- [[Digital Optimum]] — 算法理性在持续优化评估环境中产生的理想学生参照形象，作为比较标准传递对学生表现的具体期望，并通过与数字自我的差异推动自我优化和算法治理。
+- [[Digital Self]] — 通过 OSA 和学习分析把学生特征转化为一组可归因于个体的数字指标所建构的统计人造物，常作为算法治理、自我优化和风险预判的对象。
+- [[Educational Technology Industry]] — 围绕数字平台、软件服务、数据基础设施和政策叙事形成的 EdTech 产业生态系统，通过利润、平等和专业发展等多重动机推动教育数字化、市场化和商业化。
+- [[Gamification]] — 将积分、徽章、排行榜和反馈循环等游戏设计元素应用于非游戏情境以调节行为的设计策略，在教育中常与学习动机、行为管理和反思性教育目标之间形成张力。
+- [[Learning Analytics]] — 通过收集、分析和报告学习过程中的数字痕迹来理解和优化学习的技术实践，在教育治理中也常被用于风险预判、行为干预和学生管理。
+- [[Transhumanism]] — 以技术手段超越人类生物局限并追求持续优化和增强的思想取向，常用于讨论教育中的能力提升、技术改造和高度现代性的进步想象。
 
 ### Higher Education
 

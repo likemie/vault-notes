@@ -5,7 +5,7 @@ aliases:
   - digitales Optimum
   - perfect start
   - 完美起点
-summary: "算法理性在持续优化评估环境中产生的完美起点理想形象，作为参照标准传递对理想学生的具体期望；与数字自我之间的差异驱动着自我优化和算法治理"
+summary: "算法理性在持续优化评估环境中产生的理想学生参照形象，作为比较标准传递对学生表现的具体期望，并通过与数字自我的差异推动自我优化和算法治理。"
 type: concept
 tags:
   - digital-optimum

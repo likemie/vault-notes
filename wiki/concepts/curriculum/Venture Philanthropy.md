@@ -1,7 +1,7 @@
 ---
 title: Venture Philanthropy
 aliases: []
-summary: "以\"投资\"而非\"拨款\"为核心逻辑的慈善方式，战略性、多年期、以社会/经济回报评估结果，Foundation North 为新西兰代表案例"
+summary: "以投资而非拨款为核心逻辑的慈善方式，强调战略性、多年期支持和社会或经济回报评估，常见于教育改革资助和治理网络。"
 type: concept
 tags:
 - venture-philanthropy

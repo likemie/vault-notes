@@ -1,7 +1,7 @@
 ---
 title: Transhumanism
 aliases: []
-summary: "Huxley (1957) 提出、Amos (2022) 在教育语境中分析的超人类主义：以技术手段超越人类生物局限追求无限优化和增强的意识形态，是高度现代性的激进延续，与市场驱动教育模型高度兼容"
+summary: "以技术手段超越人类生物局限并追求持续优化和增强的思想取向，常用于讨论教育中的能力提升、技术改造和高度现代性的进步想象。"
 type: concept
 tags:
 - transhumanism

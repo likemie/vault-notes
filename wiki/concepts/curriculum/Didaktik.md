@@ -1,7 +1,7 @@
 ---
 title: Didaktik
 aliases: []
-summary: "德语教学理论传统，关注什么知识值得教、为什么教、如何教；Schaffar & Wolff 将其作为芬兰 PhBL 的大陆教育哲学根源之一"
+summary: "德语教学理论传统，关注什么知识值得教、为什么教以及如何教，用于连接课程内容、教育目的和教学判断。"
 type: concept
 tags:
 - Didaktik

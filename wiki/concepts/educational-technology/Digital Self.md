@@ -5,7 +5,7 @@ aliases:
 - digitales Selbst
 - statistical artefact
 - 统计人造物
-summary: "通过 OSA 和学习分析收集的数据将学生特征转化为可归因于个体的数字指标组合所建构的统计人造物；与数字最优之间的差异驱动算法治理和自我优化"
+summary: "通过 OSA 和学习分析把学生特征转化为一组可归因于个体的数字指标所建构的统计人造物，常作为算法治理、自我优化和风险预判的对象。"
 type: concept
 tags:
 - digital-self

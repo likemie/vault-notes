@@ -3,7 +3,7 @@ title: Data Behaviorism
 aliases:
   - 数据行为主义
   - data-behaviourism
-summary: "Rouvroy (2013) 提出的概念，指算法系统通过实时运作绕过人类的转录、解释和符号化等意义建构过程，以行为数据关联取代主观理解的一种知识生产模式"
+summary: "Rouvroy 提出的概念，指算法系统通过实时运作绕过解释和符号化等意义建构过程，以行为数据关联取代主观理解的知识生产模式。"
 type: concept
 tags:
   - data-behaviorism
@@ -15,6 +15,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Learning Analytics]]"
   - "[[Gamification]]"
+  - "[[Feedback]]"
 related_theories: []
 related_methods: []
 related_persons: []

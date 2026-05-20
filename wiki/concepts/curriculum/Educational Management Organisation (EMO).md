@@ -1,7 +1,7 @@
 ---
 title: Educational Management Organisation (EMO)
 aliases: []
-summary: "参与公立学校教育政策制定与服务交付的私营部门实体，营利/非营利两种形式，Cognition Education 和 CORE Education 为新西兰最大 EMO"
+summary: "参与公立学校教育政策制定、管理支持和服务交付的私营部门实体，兼具营利和非营利形式，用于描述教育治理中的外部组织化介入。"
 type: concept
 tags:
 - EMO
