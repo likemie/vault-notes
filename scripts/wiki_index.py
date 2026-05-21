@@ -14,30 +14,23 @@ WIKI_DIR = ROOT / "wiki"
 INDEX_JSON = WIKI_DIR / "index.json"
 
 # Human-readable static Markdown index for Obsidian / Quartz / GitHub.
-INDEX_MD = WIKI_DIR / "wiki-index.md"
+INDEX_MD = WIKI_DIR / "index.md"
 
 # Per-type local indexes. These are generated too; do not edit manually.
 LOCAL_INDEX_FILES = {
-    "concept": WIKI_DIR / "concepts" / "concepts-index.md",
-    "theory": WIKI_DIR / "theories" / "theories-index.md",
-    "method": WIKI_DIR / "methods" / "methods-index.md",
-    "person": WIKI_DIR / "persons" / "persons-index.md",
-    "fact": WIKI_DIR / "facts" / "facts-index.md",
-    "argument": WIKI_DIR / "arguments" / "arguments-index.md",
+    "concept": WIKI_DIR / "concepts" / "index.md",
+    "theory": WIKI_DIR / "theories" / "index.md",
+    "method": WIKI_DIR / "methods" / "index.md",
+    "person": WIKI_DIR / "persons" / "index.md",
+    "fact": WIKI_DIR / "facts" / "index.md",
+    "argument": WIKI_DIR / "arguments" / "index.md",
 }
 
 EXCLUDE_DIR_PARTS = {"templates", "indexes", ".obsidian"}
 EXCLUDE_FILENAMES = {
     "index.md",
     "index.json",
-    "wiki-index.md",
-    "concepts-index.md",
-    "theories-index.md",
-    "methods-index.md",
-    "persons-index.md",
-    "facts-index.md",
-    "arguments-index.md",
-    "manifest.md",
+        "manifest.md",
     "manifest.json",
 }
 
@@ -285,7 +278,7 @@ def collect_entries() -> list[dict[str, Any]]:
             "path": path.relative_to(ROOT).as_posix(),
             "aliases": normalize_list(fm.get("aliases")),
             "summary": str(fm.get("summary") or "").strip(),
-            # These are only used to generate wiki-index.md group headings.
+            # These are only used to generate index.md group headings.
             "journal": str(fm.get("journal") or "").strip(),
             "book_title": str(fm.get("book_title") or "").strip(),
             "issuing_organization": str(fm.get("issuing_organization") or "").strip(),
@@ -401,14 +394,14 @@ def write_local_indexes(entries: list[dict[str, Any]]) -> None:
     Generate local indexes inside each major wiki folder.
 
     Examples:
-    - wiki/concepts/concepts-index.md
-    - wiki/theories/theories-index.md
-    - wiki/methods/methods-index.md
-    - wiki/persons/persons-index.md
-    - wiki/facts/facts-index.md
-    - wiki/arguments/arguments-index.md
+    - wiki/concepts/index.md
+    - wiki/theories/index.md
+    - wiki/methods/index.md
+    - wiki/persons/index.md
+    - wiki/facts/index.md
+    - wiki/arguments/index.md
 
-    The grouping rule is the same as wiki-index.md, but each file contains
+    The grouping rule is the same as index.md, but each file contains
     only entries of that type.
     """
     by_type = group_entries(entries, "type")

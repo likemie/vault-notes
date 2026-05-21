@@ -19,7 +19,11 @@ related_concepts:
 - '[[Social Engagement]]'
 - '[[Academic Engagement]]'
 - '[[Goal-Controlled Mode]]'
-related_theories: []
+- '[[21st Century Skills and Competencies Discourse]]'
+- '[[Self-Entrepreneur]]'
+- '[[Geopolitics of Knowledge]]'
+related_theories:
+- '[[Governmentality]]'
 related_methods: []
 related_persons:
 - '[[Phillip Brown]]'
@@ -28,6 +32,7 @@ related_facts: []
 related_arguments: []
 sources:
 - '[[郑_2023_上海三联书店]]'
+- '[[Ch15_Zelinka_2022]]'
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -74,12 +79,22 @@ updated: '2026-05-18'
 > - **相对就业力**：求职者在所有竞争者中的比较性排序位置。当越来越多竞争者具备相近的绝对能力，招聘甄别遂从"硬"通货扩展到"软"实力（郑雅君，2023，引 Brown & Hesketh, 2004）
 > - **就业力管理的个人化**：在比较性竞争中，就业力成为个体需要持续管理、展现和优化的项目——简历撰写、面试表现、人际网络维护均成为就业力管理的组成部分（郑雅君，2023）
 
+### SCD 视角：作为话语建构的就业力技能
+
+[[21st Century Skills and Competencies Discourse|21 世纪技能与素养话语]]（SCD）为就业力概念提供了另一条分析线索：就业力技能不仅是情境性的（context-based），更是**话语性的**（discourse-based）——由教育、经济和政治多重理性所共同塑造（Zelinka, 2022, p.258）。
+
+SCD 的运作机制是将就业力技能呈现为自我企业家（[[Self-Entrepreneur]]）需持续获取的生产要素。Hampson 和 Junor（2009）将"素养"（competency）视为典型的盎格鲁概念——个人主义的、由雇主定义的、不受其他社会力量制约（Zelinka, 2022, p.259）。在此逻辑中，获得一项素养意味着"做好某件事"，但成功标准不由个体自己设定，而是由外部期望、规范和价值观所决定，使个体长期处于竞争和自我实现模式之中。
+
+SCD 中突出强调的技能主要是**结果导向的**（outcome-oriented）——获取它们旨在提高就业力（Zelinka, 2022, p.261）。这种将就业力窄化为可市场化技能集合的倾向，详见 [[21st Century Skills and Competencies Discourse#三组张力中的主体性生产]]。
+
 ---
 
 ## 理论基础
 
 > [!tip]
 > - [[Credential Inflation]]（Collins, 1979）— 文凭通胀是就业力从绝对转向相对的结构性条件：当大学文凭供给超过白领岗位需求，文凭的交换价值下降，就业力竞争随之加剧（郑雅君，2023）
+> - [[21st Century Skills and Competencies Discourse]] — SCD 将就业力技能建构为话语性的、由外部期望所定义的个人化竞争项目，其核心机制详见 [[21st Century Skills and Competencies Discourse#三组张力中的主体性生产]]（Zelinka, 2022, pp.258-263）
+> - [[Governmentality]]（Foucault）— SCD 对就业力技能的塑造可被理解为一种远距治理技术：通过生产"可欲的"自我引导模式，使个体"自由地"将自己塑造为就业力主体。详见 [[Governmentality#远距治理]]（Zelinka, 2022, pp.264-265）
 > - 知识经济与高等教育大众化理论 — 在知识经济时代，高等教育的扩张改变了劳动力市场的供需结构，就业力日益成为建立在比较和排序之上的相对概念（郑雅君，2023，引 Brown & Hesketh, 2003）
 
 ---
@@ -98,6 +113,7 @@ updated: '2026-05-18'
 > [!warning]
 > - **个人化责任的陷阱**：就业力概念的相对化将结构性竞争压力转化为个体的管理责任——学生被要求不断优化自我呈现和积累履历资本，但不同阶层的学生在这方面的起点和资源截然不同。这一批评指向就业力话语可能掩盖了劳动力市场的结构性不平等（郑雅君，2023）
 > - **教育的工具化**：就业力为导向的高等教育可能将大学的育人目标窄化为职业技能培训，挤压了通识教育、批判性思维和公民素养的空间。详见 [[Graduate Attributes]] 中关于毕业生特质涵盖更广泛素养的讨论
+- **SCD 技能与实际就业力的证据缺口**：瞄准 SCD 框架中的关键技能是否真的能提升个体的就业力，尚缺乏充分证据。Pellegrino 和 Hilton（2012, p.4）指出，仅有少数研究证明了 21 世纪素养与成人结果之间的因果关系；公开宣称的技能（国际框架中）与正式要求的技能（求职时）之间的比较研究尚未完成（Zelinka, 2022, p.260）。Finegold 和 Notabartolo（2010, p.41）进一步指出，如果工作岗位的设计不使用这些能力，投资提升个体通用能力不太可能带来正回报
 
 ---
 

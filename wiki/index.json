@@ -187,6 +187,10 @@
     ]
   },
   {
+    "title": "concepts-index",
+    "path": "wiki/concepts/concepts-index.md"
+  },
+  {
     "title": "Atomisation of Knowledge and Skills",
     "path": "wiki/concepts/curriculum/Atomisation of Knowledge and Skills.md"
   },
@@ -1638,6 +1642,14 @@
     "path": "wiki/theories/sociology-of-education/Refraction Framework.md"
   },
   {
+    "title": "theories-index",
+    "path": "wiki/theories/theories-index.md"
+  },
+  {
+    "title": "methods-index",
+    "path": "wiki/methods/methods-index.md"
+  },
+  {
     "title": "Improvement Science",
     "path": "wiki/methods/mixed/Improvement Science.md"
   },
@@ -2214,6 +2226,10 @@
     ]
   },
   {
+    "title": "persons-index",
+    "path": "wiki/persons/persons-index.md"
+  },
+  {
     "title": "Jean Piaget",
     "path": "wiki/persons/switzerland/Jean Piaget.md",
     "aliases": [
@@ -2686,6 +2702,10 @@
     ]
   },
   {
+    "title": "facts-index",
+    "path": "wiki/facts/facts-index.md"
+  },
+  {
     "title": "SveaSus Project",
     "path": "wiki/facts/finland/SveaSus Project.md"
   },
@@ -3143,6 +3163,10 @@
     "path": "wiki/facts/us/WWC SCD Pilot Standards 2010.md"
   },
   {
+    "title": "arguments-index",
+    "path": "wiki/arguments/arguments-index.md"
+  },
+  {
     "title": "Argument_Zelinka_2022_SCD_subjectivity",
     "path": "wiki/arguments/books/Argument_Zelinka_2022_SCD_subjectivity.md"
   },
@@ -3489,5 +3513,9 @@
   {
     "title": "Argument_ONeill_2016_Report",
     "path": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md"
+  },
+  {
+    "title": "wiki-index",
+    "path": "wiki/wiki-index.md"
   }
 ]
