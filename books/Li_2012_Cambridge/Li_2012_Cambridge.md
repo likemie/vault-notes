@@ -12,7 +12,13 @@ extracted_to:
 - "[[Filial Piety]]"
 - "[[Li (Propriety)]]"
 - "[[Learning Virtues]]"
-processed_date: 2026-05-21
+- "[[Confucius]]"
+- "[[Mencius]]"
+- "[[Zhu Xi]]"
+- "[[Wang Yangming]]"
+- "[[Confucian Learning Tradition]]"
+- "[[Civil Service Examination]]"
+processed_date: 2026-05-22
 ---
 
 # Li_2012_Cambridge

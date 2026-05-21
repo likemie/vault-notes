@@ -11,7 +11,7 @@ tags:
 - region/china
 - theory/confucianism
 - field/cultural-psychology
-- field/comparative-education
+- field/chinese-philosophy
 - theme/ethics
 related_concepts:
 - "[[Five Cardinal Relationships]]"

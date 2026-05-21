@@ -10,7 +10,7 @@ tags:
 - region/china
 - theory/confucianism
 - field/cultural-psychology
-- field/comparative-education
+- field/chinese-philosophy
 - theme/learning
 related_concepts:
 - "[[Self-Cultivation]]"
