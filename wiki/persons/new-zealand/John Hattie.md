@@ -49,6 +49,7 @@ related_persons:
 - '[[Yong Zhao]]'
 - '[[Gerald Grace]]'
 related_arguments:
+- '[[Argument_Nordahl_2015_Paideia]]'
 - '[[Argument_Hattie_2017_SLM]]'
 - '[[Argument_Bainbridge_2022_ROE]]'
 sources:
@@ -60,6 +61,7 @@ sources:
 - '[[ONeill_2012_NZJES]]'
 - '[[Allerup_2015_Paideia]]'
 - '[[Fredens_2015_Paideia]]'
+- '[[Nordahl_2015_Paideia]]'
 - '[[Hattie_2015_SOTLP]]'
 - '[[Laursen_2015_Paideia]]'
 - '[[Qvortrup_2015_Paideia]]'

@@ -92,7 +92,8 @@ related_persons:
 - '[[Yong Zhao]]'
 - '[[Eddie Blass]]'
 related_facts: []
-related_arguments: []
+related_arguments:
+- '[[Argument_Nordahl_2015_Paideia]]'
 sources:
 - '[[Sarbiewska_2019_JSR]]'
 - '[[Slavin_2002_ER]]'
@@ -121,6 +122,7 @@ sources:
 - '[[Brady_2023_EPR]]'
 - '[[Wadhwa_2024_RER]]'
 - '[[ONeill_2012_NZJES]]'
+- '[[Nordahl_2015_Paideia]]'
 - '[[Bainbridge_2022_ROE]]'
 - '[[Ch9_Zapp_2022]]'
 confidence: high

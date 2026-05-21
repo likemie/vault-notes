@@ -15,13 +15,16 @@ related_methods:
 - '[[Case Study]]'
 - '[[Constructivist Grounded Theory]]'
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_郑_2023_上海三联书店]]"
+  - "[[Argument_Yu_2024_CE]]"
 sources:
-- '[[郑_2023_上海三联书店]]'
-confidence: low
+  - "[[郑_2023_上海三联书店]]"
+  - "[[Yu_2024_CE]]"
+confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: '2026-05-21'
 ---
 
 ## 定义
@@ -101,8 +104,10 @@ updated: '2026-05-18'
 
 > [!example] 使用此方法的研究
 > - [[Argument_郑_2023_上海三联书店]] — 郑雅君（2023）以半结构式深度访谈为资料收集方法，采用渐进式聚焦法对 62 名中国两所精英大学毕业生进行跟踪式访谈，每次 2.5–3.5 小时，累计转录超过 150 万字
+> - [[Argument_Yu_2024_CE]] — Yu & Zhao（2024）以半结构化深度访谈收集 37 名来自 15 个民族、约 65% 有宗教信仰的大学生对儒家传统学习和理解的经验叙述。采用最大变异抽样（maximum variation sampling，Miles, Huberman, & Saldana 2014），覆盖民族、宗教、性别和学科多样性（Yu & Zhao, 2024, p.65–66）。该研究展示了深度访谈在获取文化边缘群体声音方面的独特价值——这些群体的经验极少被纳入官方课程叙事，访谈成为其表达替代性文化理解的几乎唯一渠道。方法局限在于访谈以普通话进行，对母语非汉语的学生可能存在叙述深度和情感表达上的损失
 >
 
 ## 来源
 
 - [[郑_2023_上海三联书店]]
+- [[Yu_2024_CE]]

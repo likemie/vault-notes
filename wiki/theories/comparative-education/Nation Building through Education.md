@@ -45,7 +45,7 @@ updated: '2026-05-21'
 >
 > > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." (Vickers & Morris, 2022, p. 47，引自 Yan & Morris, 2025, p. 483)
 
-> Yu & Zhao（2024）从学校课程的文化维度补充了这一框架：课程中的"官方知识"（[[Official Knowledge]]）不仅通过语言和历史叙事进行国族建构，还通过对特定文化传统（如儒家传统）的选择性阐释，建构汉文化相对于少数民族文化的优越地位。在中国的学校教科书中，儒家传统被呈现为中华文化的核心乃至等价物，非汉政权被描绘为"向先进汉文化学习"的对象——这种叙事在教育层面强化了中心-边缘的文化权力等级（Yu & Zhao, 2024, p.67–68）。与此同时，来自非汉少数民族和宗教背景的学生则倾向于将儒家传统视为中国文化多元组成的一部分、一种可以（而且应该）被其他文化视角批判性反思的世界观——这与官方叙事形成鲜明对照（Yu & Zhao, 2024, p.68–70）。
+> Yu & Zhao（2024）从课程**文化内容**维度推进了这一框架：[[Nation Building through Education|国族建构]]不仅通过语言统一和叙事标准化运作，还通过对[[Official Knowledge|官方知识]]的选择性阐释来建构[[Hegemony|文化等级]]。在六门必修科目的教科书中，[[Confucian Revival in China|儒家传统]]被呈现为中华文化的核心，非汉政权被塑造为"向先进汉文化学习"的对象——这种"学习"叙事在教育层面将汉文化定位为文明"中心"、将非汉文化定位为"边缘"（Yu & Zhao, 2024, p.67–68）。而约 86% 的少数民族和宗教背景学生视儒家仅为中国文化多元组成之一——[[Argument_Yu_2024_CE|其详细论证]]揭示的官方-边缘叙事断裂，暴露了单一文化国族建构在多元社会中的内在矛盾（Yu & Zhao, 2024, p.68–70）。
 
 ## 理论内部结构
 

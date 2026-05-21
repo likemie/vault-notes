@@ -19,20 +19,25 @@ related_concepts:
 - '[[Intuition-Dependent Mode]]'
 - '[[Habitus]]'
 - '[[Cultural Capital]]'
+- '[[Official Knowledge]]'
+- '[[Sinicisation]]'
 related_theories:
 - '[[Pierre Bourdieu]]'
 related_methods: []
 related_persons:
 - '[[Yajun Zheng]]'
 - '[[Clippings/Pierre Bourdieu]]'
-related_facts: []
-related_arguments: []
+related_facts:
+- '[[Confucian Revival in China]]'
+related_arguments:
+  - "[[Argument_Yu_2024_CE]]"
 sources:
-- '[[郑_2023_上海三联书店]]'
-confidence: low
+  - "[[郑_2023_上海三联书店]]"
+  - "[[Yu_2024_CE]]"
+confidence: medium
 status: draft
 created: '2026-05-09'
-updated: '2026-05-18'
+updated: '2026-05-21'
 ---
 
 ## 定义
@@ -83,6 +88,18 @@ updated: '2026-05-18'
 > - vs [[Cultural Disorientation]] — "文化脱嵌"是第一重障碍，侧重对外部环境的疏离，偏短期且可能自然缓解；"文化迷失"是第二重障碍，侧重内在自我的冲突和目标迷失，更根本、更长期，需要有意识地反思和克服（郑雅君，2023）
 >
 
+## 相关案例
+
+> [!example] 国族文化层面的脱嵌：少数民族学生与官方"中国文化"定义
+> 郑雅君（2023）讨论的文化脱嵌发生在弱势学生进入精英大学的场域转换中。[[Argument_Yu_2024_CE|Yu & Zhao（2024）]] 的研究揭示了同一机制的宏观层面运作——少数民族和宗教背景学生在面对学校课程中关于"什么是中国文化"的 [[Official Knowledge|官方定义]] 时产生的疏离感。
+>
+> 在中国的学校教科书中，"中国文化"被系统地等同于汉-儒家传统：历史教科书将东亚文化圈命名为"[[Confucian Revival in China|儒家文化圈]]"，英语教科书将孔子与林肯、爱因斯坦并列为"英雄"（Yu & Zhao, 2024, p.67）。对于非汉少数民族学生而言，这种定义产生了一种文化脱嵌——他们被告知自己属于"中国文化"，但课程中呈现的"中国文化"几乎不见他们自身的语言、宗教和传统。
+>
+> 这种脱嵌的后果与郑雅君（2023）描述的类似：约 86% 的学生并不内化官方定义，而是将儒家视为中国文化多元组成中的一支（Yu & Zhao, 2024, p.68）；约 43% 指出儒家文化具有等级性；三分之一（全部为佛教徒或穆斯林）质疑儒家文化在当代是否仍然"活着"（Yu & Zhao, 2024, p.69）。
+>
+> 两种脱嵌的核心区别在于**场域的层级**：郑雅君讨论的是个体进入特定机构（精英大学）后的文化冲击，偏短期且可自然缓解；Yu & Zhao 揭示的是群体在整个国家教育体系中被 [[Sinicisation|系统性地]] 排斥于"中国文化"的定义之外，是结构性的、制度化的。
+
 ## 来源
 
 - [[郑_2023_上海三联书店]]
+- [[Yu_2024_CE]]
