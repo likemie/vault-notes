@@ -20,26 +20,37 @@ related_concepts:
 - '[[Stereotype Threat]]'
 - '[[Meta-Cultural Sensitivity]]'
 - '[[Orientalism]]'
+- '[[Self-Cultivation]]'
+- '[[Ren]]'
+- '[[Junzi]]'
+- '[[Learning Virtues]]'
+- '[[Heart and Mind for Wanting to Learn]]'
 related_theories:
 - '[[Hofstede''s Cultural Dimensions]]'
+- '[[Confucian Learning Tradition]]'
 related_methods: []
-related_persons: []
+related_persons:
+- '[[Jin Li]]'
+- '[[Confucius]]'
 related_facts:
 - '[[English Schools Foundation Hong Kong]]'
 - '[[Transnationalism and America Project SYSU]]'
 - '[[China Basic Education Curriculum Reform 2001]]'
+- '[[Civil Service Examination]]'
 related_arguments:
 - '[[Argument_Ryan_2010_HKUP]]'
 - '[[Argument_Slethaug_2010_InternationalEducation]]'
 - '[[Argument_Ryan_2010_ChineseLearner]]'
+- '[[Argument_Li_2012_Cambridge]]'
 sources:
 - '[[Ryan(Ed.)_2010_HKUP]]'
 - '[[Ch1_Slethaug_2010]]'
 - '[[Ch2_Ryan_2010]]'
+- '[[Li_2012_Cambridge]]'
 confidence: medium
 status: draft
 created: '2026-05-16'
-updated: '2026-05-18'
+updated: '2026-05-22'
 ---
 
 # Chinese Learner
@@ -123,6 +134,55 @@ updated: '2026-05-18'
 > - **理解异国环境中的孤立感与认同丧失** — 中国学习者在海外面临的不仅是学术挑战，还有社会文化调适（Ryan, 2010, pp.49–50）
 > - **发展元文化敏感度** — 教师需要"后退一步"将自身文化和学生文化均作为系统来审视；能力构成详见 [[Meta-Cultural Sensitivity#核心要素]]
 > - **认识中国社会的快速变化** — 中国学习者所处的社会环境正在剧烈转型，2001 年课程改革是最有力的证据；详见 [[China Basic Education Curriculum Reform 2001]]
+
+---
+
+## Li (2012) 的儒家学习者模型
+
+> [!info]
+> 与上述以刻板印象批判为中心的讨论不同，[[Jin Li]]（2012）从文化心理学角度提供了对中国学习者的系统性正面描述。她在 [[Argument_Li_2012_Cambridge|Cultural Foundations of Learning]] 第 2 章中追溯了儒家学习传统的知识根源，将其提炼为一个**八个同心圆层次的学习模型**（见 Figure 2.2），与西方的"探究外部世界"模型形成系统对比（Li, 2012, pp.36-56）。
+
+### 八层学习路径
+
+> [!abstract]
+> 该模型由内向外展开，表示学习者从个人修身逐步扩展到天下关怀的完整过程（Li, 2012, pp.46-47）：
+
+| 层次 | 内容 | 英文 |
+|------|------|------|
+| 第 1 层 | 格物 | Investigate things |
+| 第 2 层 | 致知 | Extend knowledge |
+| 第 3 层 | 诚意 | Be sincere |
+| 第 4 层 | 正心 | Rectify heart/mind |
+| **第 5 层（核心）** | **[[Self-Cultivation|修身]]** | **Cultivate self** |
+| 第 6 层 | 齐家 | Regulate family |
+| 第 7 层 | 治国 | Order the state |
+| 第 8 层 | 平天下 | Bring peace to the world |
+
+第 5 层（修身）的线最粗——"前面的层次不通过修身就无法继续发展，后面的层次不通过修身也无法达成"（Li, 2012, p.56）。中心的向上箭头表示学习者不断自我完善、通往[[Junzi|君子]]和圣人理想的开放性和超越性过程。
+
+### 学习美德作为个人能动性
+
+贯穿所有层次的是七种[[Learning Virtues|学习美德]]——诚心、勤奋、刻苦、恒心、专心、尊师、谦虚——它们构成了学习者的个人能动性。这些美德既是道德品质，也是学习品质（Li, 2012, pp.49-52）。
+
+### 行勝於言与沉默的意义
+
+Li 挑战了对中国学习者"沉默即被动"的流行误解。在儒家传统中，"行勝於言"（清华大学校训刻在校园主楼前）是深刻的文化信念——[[Confucius|孔子]]对"巧言令色"抱有根本性的不信任，因为说话将人承诺于相应的行动，而言行不一是严重的道德失范。因此，"君子欲讷于言而敏于行"——沉默不等于不投入，而可能是一种对言语的严肃态度（Li, 2012, pp.52-54）。
+
+### 与西方"中国学习者"话语的对比
+
+> [!example]
+> Li 的模型与 Ryan（2010）等人讨论的西方"中国学习者"刻板印象话语之间形成了一种有趣的张力：
+
+| 维度 | Li (2012) 的文化模型 | Ryan (2010) 的批判话语 |
+|------|---------------------|----------------------|
+| 视角 | 文化描述性——"照亮"文化传统如何塑造学习 | 批判性——拆解和纠正西方学术界的刻板印象 |
+| 方法 | 追溯知识传统 + 实证研究 | 文献分析 + 访谈 |
+| 对"儒家"的使用 | 作为真实活着的文化传统 | 作为可能被政治利用的话语资源 |
+| 核心关心 | 理解差异，不规定好坏 | 纠正偏见，暴露权力的运作 |
+
+两种视角互补而非对立——Li 提供了"中国学习者有什么样的学习文化"的正面描述，Ryan 提供了"西方如何建构和扭曲中国学习者形象"的批判分析。
+
+完整论证拆解见 [[Argument_Li_2012_Cambridge#第 2 章 两种文化学习模型]]。
 
 ---
 
