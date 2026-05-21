@@ -23,7 +23,7 @@ related_persons: []
 related_facts:
   - "[[Confucian Revival in China]]"
 related_arguments:
-  - "[[Argument_Yu_2024_Comparative_Education]]"
+  - "[[Argument_Yu_2024_CE]]"
 sources:
   - "[[10.1080_03050068.2023.2273641]]"
 confidence: medium

@@ -6,10 +6,6 @@ Total entries: **88**
 
 ## Books
 
-### Argument_Zelinka_2022_SCD_subjectivity.md
-
-- [[Argument_Zelinka_2022_SCD_subjectivity]] — 以 Foucault 治理术和话语分析为框架，审查 21 世纪技能与素养话语的七个国际框架，揭示其如何通过三组张力生产以自我企业家为核心的新主体性，并将新知识地缘政治概念化为一种全球治理技术。
-
 ### Parreira do Amaral(Ed.)_2022_Springer
 
 - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos_ 以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
@@ -26,6 +22,7 @@ Total entries: **88**
 - [[Argument_Rizvi_2022_Springer]] — Ch6 Fazal Rizvi_ 以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构
 - [[Argument_Thompson_2022_Promising_Student]] — Ch13 Thompson, Schröder & Wrana_ 以 Foucault 治理术和 Deleuze 控制社会为理论框架，分析在线自评工具如何作为主体化工具在竞争性地缘政治框架中建构有前景的学生，揭示数字化治理如何将入学前选择重构为自我评估和自我优化的持续性调制过程
 - [[Argument_Zapp_2022_Springer]] — Ch9 Mike Zapp_ 以世界社会理论和组织能动者身份为框架，分析大学通过研究、教学、内部政策和网络四种机制嵌入全球治理，以 SDGs 为案例，警示科学的政治化和大学的地缘政治再领土化风险
+- [[Argument_Zelinka_2022_SCD_subjectivity]] — 以 Foucault 治理术和话语分析为框架，审查 21 世纪技能与素养话语的七个国际框架，揭示其如何通过三组张力生产以自我企业家为核心的新主体性，并将新知识地缘政治概念化为一种全球治理技术。
 
 ### Ryan(Ed.)_2010_HKUP
 
@@ -57,7 +54,7 @@ Total entries: **88**
 
 ### Comparative Education
 
-- [[Argument_Yu_2024_Comparative_Education]] — 对比中国学校课程'官方知识'与少数民族/宗教背景学生视角，揭示官方儒家叙事强化汉文化中心等级，而边缘学生将其视为中国文化多元组成之一
+- [[Argument_Yu_2024_CE]] — 对比六科教科书官方儒家叙事与37名少数民族/宗教背景学生访谈，揭示官方知识将儒学塑造为中华文化核心以强化汉文化中心-边缘等级，而学生视其为文化多元组成之一并可被跨文化反思
 
 ### Critical Education
 

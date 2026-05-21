@@ -25,7 +25,7 @@ related_persons:
 related_facts:
 - '[[Confucian Revival in China]]'
 related_arguments:
-- '[[Argument_Yu_2024_Comparative_Education]]'
+- '[[Argument_Yu_2024_CE]]'
 sources:
 - '[[Yan_2025_JCS]]'
 - '[[Ch4_Amos_2022]]'
@@ -123,7 +123,7 @@ updated: '2026-05-21'
 > - Leibold & Dorjee (2024) — 西藏
 > - Tobin (2024) — 新疆
 > - Bulag (2024) — 内蒙古
-> - [[Argument_Yu_2024_Comparative_Education]] — 课程文化与儒家复兴视角下的国族建构
+> - [[Argument_Yu_2024_CE]] — 课程文化与儒家复兴视角下的国族建构
 
 ## 应用领域
 

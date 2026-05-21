@@ -3973,10 +3973,6 @@
     ]
   },
   {
-    "title": "Argument_Zelinka_2022_SCD_subjectivity",
-    "path": "wiki/arguments/books/Argument_Zelinka_2022_SCD_subjectivity.md"
-  },
-  {
     "title": "Argument_Amos_2022_Springer",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md"
   },
@@ -4033,6 +4029,10 @@
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md"
   },
   {
+    "title": "Argument_Zelinka_2022_SCD_subjectivity",
+    "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zelinka_2022_SCD_subjectivity.md"
+  },
+  {
     "title": "Argument_Ryan_2010_ChineseLearner",
     "path": "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_ChineseLearner.md"
   },
@@ -4065,8 +4065,8 @@
     "path": "wiki/arguments/journal-articles/Argument_Schaffar_2024_CogentEdu.md"
   },
   {
-    "title": "Argument_Yu_2024_Comparative_Education",
-    "path": "wiki/arguments/journal-articles/Argument_Yu_2024_Comparative_Education.md"
+    "title": "Argument_Yu_2024_CE",
+    "path": "wiki/arguments/journal-articles/Argument_Yu_2024_CE.md"
   },
   {
     "title": "Argument_Johnson_2023_CE",
