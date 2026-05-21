@@ -1,6 +1,8 @@
 ---
 title: Evidence-Informed Practice (EIP)
-aliases: []
+aliases:
+  - 证据知情实践
+  - EIP
 summary: "一种将研究证据视为多种决策资源之一的实践取向，强调教育者通过专业判断整合研究、课堂数据和系统信息来形成行动。"
 type: concept
 tags:

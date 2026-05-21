@@ -2,7 +2,6 @@
 title: Walter Mignolo
 aliases:
   - 沃尔特·米尼奥罗
-  - 米尼奥罗
 summary: 阿根廷裔文学与文化理论家，殖民性、边界思维与认识论不服从理论代表人物，为教育研究提供去殖民知识政治的核心概念。
 type: person
 nationality: argentina

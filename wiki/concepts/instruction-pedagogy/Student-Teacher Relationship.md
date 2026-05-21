@@ -1,6 +1,7 @@
 ---
 title: Student-Teacher Relationship
-aliases: []
+aliases:
+  - 师生关系
 summary: "学生对师生互动支持性、信任感和被理解程度的主观感知，用于描述课堂关系质量及其对学习参与的影响。"
 type: concept
 tags:

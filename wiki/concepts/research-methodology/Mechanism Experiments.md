@@ -1,6 +1,7 @@
 ---
 title: Mechanism Experiments
-aliases: []
+aliases:
+  - 机制实验
 summary: "用于测试特定行为机制或理论路径的小规模现场实验，强调解释干预为何起作用而不仅是估计其平均效果。"
 type: concept
 tags:

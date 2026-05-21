@@ -1,6 +1,7 @@
 ---
 title: Researcher Degrees of Freedom
-aliases: []
+aliases:
+  - 研究者自由度
 summary: "研究者在样本选择、变量处理、模型设定和案例排除等分析决策上的自由度累积效应，用于解释结果偏差和可重复性问题。"
 type: concept
 tags:

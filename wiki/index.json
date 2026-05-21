@@ -839,15 +839,24 @@
   },
   {
     "title": "Classroom Learning Culture",
-    "path": "wiki/concepts/instruction-pedagogy/Classroom Learning Culture.md"
+    "path": "wiki/concepts/instruction-pedagogy/Classroom Learning Culture.md",
+    "aliases": [
+      "课堂学习文化"
+    ]
   },
   {
     "title": "Cult of the Guru",
-    "path": "wiki/concepts/instruction-pedagogy/Cult of the Guru.md"
+    "path": "wiki/concepts/instruction-pedagogy/Cult of the Guru.md",
+    "aliases": [
+      "大师崇拜"
+    ]
   },
   {
     "title": "Direct Instruction",
-    "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md"
+    "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
+    "aliases": [
+      "直接教学"
+    ]
   },
   {
     "title": "Dynamic Knowledge and Learning Model",
@@ -858,7 +867,10 @@
   },
   {
     "title": "Effective Teaching",
-    "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
+    "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
+    "aliases": [
+      "有效教学"
+    ]
   },
   {
     "title": "Feedback",
@@ -869,39 +881,72 @@
   },
   {
     "title": "Individualised Instruction",
-    "path": "wiki/concepts/instruction-pedagogy/Individualised Instruction.md"
+    "path": "wiki/concepts/instruction-pedagogy/Individualised Instruction.md",
+    "aliases": [
+      "个别化教学",
+      "个性化教学"
+    ]
   },
   {
     "title": "Language Experience Approach",
-    "path": "wiki/concepts/instruction-pedagogy/Language Experience Approach.md"
+    "path": "wiki/concepts/instruction-pedagogy/Language Experience Approach.md",
+    "aliases": [
+      "语言经验法"
+    ]
   },
   {
     "title": "Neo-Taylorism in Educational Administration",
-    "path": "wiki/concepts/instruction-pedagogy/Neo-Taylorism in Educational Administration.md"
+    "path": "wiki/concepts/instruction-pedagogy/Neo-Taylorism in Educational Administration.md",
+    "aliases": [
+      "教育行政中的新泰勒主义",
+      "新泰勒主义"
+    ]
   },
   {
     "title": "Problem-Based Learning",
-    "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md"
+    "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
+    "aliases": [
+      "问题本位学习",
+      "PBL"
+    ]
   },
   {
     "title": "School Leadership",
-    "path": "wiki/concepts/instruction-pedagogy/School Leadership.md"
+    "path": "wiki/concepts/instruction-pedagogy/School Leadership.md",
+    "aliases": [
+      "学校领导力",
+      "学校领导"
+    ]
   },
   {
     "title": "Student-Teacher Relationship",
-    "path": "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md"
+    "path": "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
+    "aliases": [
+      "师生关系"
+    ]
   },
   {
     "title": "Surface and Deep Learning",
-    "path": "wiki/concepts/instruction-pedagogy/Surface and Deep Learning.md"
+    "path": "wiki/concepts/instruction-pedagogy/Surface and Deep Learning.md",
+    "aliases": [
+      "表层学习与深层学习",
+      "表层学习",
+      "深层学习"
+    ]
   },
   {
     "title": "Transformative Leadership",
-    "path": "wiki/concepts/instruction-pedagogy/Transformative Leadership.md"
+    "path": "wiki/concepts/instruction-pedagogy/Transformative Leadership.md",
+    "aliases": [
+      "变革型领导力"
+    ]
   },
   {
     "title": "Visible Learning",
-    "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
+    "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md",
+    "aliases": [
+      "可见学习"
+    ]
   },
   {
     "title": "Academic Well-being and Interest in Learning",
@@ -1209,31 +1254,57 @@
   },
   {
     "title": "5-3-20 Rule",
-    "path": "wiki/concepts/research-methodology/5-3-20 Rule.md"
+    "path": "wiki/concepts/research-methodology/5-3-20 Rule.md",
+    "aliases": [
+      "5-3-20规则"
+    ]
   },
   {
     "title": "Black Box RCTs",
-    "path": "wiki/concepts/research-methodology/Black Box RCTs.md"
+    "path": "wiki/concepts/research-methodology/Black Box RCTs.md",
+    "aliases": [
+      "黑箱RCT",
+      "黑箱随机对照试验"
+    ]
   },
   {
     "title": "Cluster Randomized Trials",
-    "path": "wiki/concepts/research-methodology/Cluster Randomized Trials.md"
+    "path": "wiki/concepts/research-methodology/Cluster Randomized Trials.md",
+    "aliases": [
+      "集群随机试验",
+      "集群随机对照试验",
+      "CRT"
+    ]
   },
   {
     "title": "Confidence Interval",
-    "path": "wiki/concepts/research-methodology/Confidence Interval.md"
+    "path": "wiki/concepts/research-methodology/Confidence Interval.md",
+    "aliases": [
+      "置信区间",
+      "CI"
+    ]
   },
   {
     "title": "Developer Effect",
-    "path": "wiki/concepts/research-methodology/Developer Effect.md"
+    "path": "wiki/concepts/research-methodology/Developer Effect.md",
+    "aliases": [
+      "开发者效应"
+    ]
   },
   {
     "title": "Educational Evidence Clearinghouses",
-    "path": "wiki/concepts/research-methodology/Educational Evidence Clearinghouses.md"
+    "path": "wiki/concepts/research-methodology/Educational Evidence Clearinghouses.md",
+    "aliases": [
+      "教育证据清算中心",
+      "教育证据清算机构"
+    ]
   },
   {
     "title": "Effect Size",
-    "path": "wiki/concepts/research-methodology/Effect Size.md"
+    "path": "wiki/concepts/research-methodology/Effect Size.md",
+    "aliases": [
+      "效应量"
+    ]
   },
   {
     "title": "Evidence-Based Education",
@@ -1249,35 +1320,62 @@
   },
   {
     "title": "Evidence-Based Reform",
-    "path": "wiki/concepts/research-methodology/Evidence-Based Reform.md"
+    "path": "wiki/concepts/research-methodology/Evidence-Based Reform.md",
+    "aliases": [
+      "证据本位改革"
+    ]
   },
   {
     "title": "Evidence-Informed Practice (EIP)",
-    "path": "wiki/concepts/research-methodology/Evidence-Informed Practice (EIP).md"
+    "path": "wiki/concepts/research-methodology/Evidence-Informed Practice (EIP).md",
+    "aliases": [
+      "证据知情实践",
+      "EIP"
+    ]
   },
   {
     "title": "Gating Procedure",
-    "path": "wiki/concepts/research-methodology/Gating Procedure.md"
+    "path": "wiki/concepts/research-methodology/Gating Procedure.md",
+    "aliases": [
+      "闸门程序"
+    ]
   },
   {
     "title": "Intent-to-Treat Analysis",
-    "path": "wiki/concepts/research-methodology/Intent-to-Treat Analysis.md"
+    "path": "wiki/concepts/research-methodology/Intent-to-Treat Analysis.md",
+    "aliases": [
+      "意向治疗分析",
+      "ITT"
+    ]
   },
   {
     "title": "Justified Warrants",
-    "path": "wiki/concepts/research-methodology/Justified Warrants.md"
+    "path": "wiki/concepts/research-methodology/Justified Warrants.md",
+    "aliases": [
+      "有根据的担保断言"
+    ]
   },
   {
     "title": "Local Knowledge in Evidence-Based Policy",
-    "path": "wiki/concepts/research-methodology/Local Knowledge in Evidence-Based Policy.md"
+    "path": "wiki/concepts/research-methodology/Local Knowledge in Evidence-Based Policy.md",
+    "aliases": [
+      "证据本位政策中的地方知识",
+      "地方知识"
+    ]
   },
   {
     "title": "Material Fallacies",
-    "path": "wiki/concepts/research-methodology/Material Fallacies.md"
+    "path": "wiki/concepts/research-methodology/Material Fallacies.md",
+    "aliases": [
+      "实质谬误"
+    ]
   },
   {
     "title": "Mechanism Experiments",
-    "path": "wiki/concepts/research-methodology/Mechanism Experiments.md"
+    "path": "wiki/concepts/research-methodology/Mechanism Experiments.md",
+    "aliases": [
+      "机制实验"
+    ]
   },
   {
     "title": "Performance Indicators",
@@ -1299,51 +1397,90 @@
   },
   {
     "title": "Potential Outcomes Framework",
-    "path": "wiki/concepts/research-methodology/Potential Outcomes Framework.md"
+    "path": "wiki/concepts/research-methodology/Potential Outcomes Framework.md",
+    "aliases": [
+      "潜在结果框架"
+    ]
   },
   {
     "title": "Preregistration",
-    "path": "wiki/concepts/research-methodology/Preregistration.md"
+    "path": "wiki/concepts/research-methodology/Preregistration.md",
+    "aliases": [
+      "预注册"
+    ]
   },
   {
     "title": "Professional Judgment",
-    "path": "wiki/concepts/research-methodology/Professional Judgment.md"
+    "path": "wiki/concepts/research-methodology/Professional Judgment.md",
+    "aliases": [
+      "专业判断"
+    ]
   },
   {
     "title": "Programme Fidelity vs Adaptation",
-    "path": "wiki/concepts/research-methodology/Programme Fidelity vs Adaptation.md"
+    "path": "wiki/concepts/research-methodology/Programme Fidelity vs Adaptation.md",
+    "aliases": [
+      "项目忠实性与适应",
+      "方案忠实性与适应"
+    ]
   },
   {
     "title": "Publication Bias",
-    "path": "wiki/concepts/research-methodology/Publication Bias.md"
+    "path": "wiki/concepts/research-methodology/Publication Bias.md",
+    "aliases": [
+      "发表偏差",
+      "发表偏倚"
+    ]
   },
   {
     "title": "Pure Evaluation",
-    "path": "wiki/concepts/research-methodology/Pure Evaluation.md"
+    "path": "wiki/concepts/research-methodology/Pure Evaluation.md",
+    "aliases": [
+      "纯粹评价"
+    ]
   },
   {
     "title": "Recommendations for Practice",
-    "path": "wiki/concepts/research-methodology/Recommendations for Practice.md"
+    "path": "wiki/concepts/research-methodology/Recommendations for Practice.md",
+    "aliases": [
+      "实践建议"
+    ]
   },
   {
     "title": "Researcher Degrees of Freedom",
-    "path": "wiki/concepts/research-methodology/Researcher Degrees of Freedom.md"
+    "path": "wiki/concepts/research-methodology/Researcher Degrees of Freedom.md",
+    "aliases": [
+      "研究者自由度"
+    ]
   },
   {
     "title": "Side Effects in Education",
-    "path": "wiki/concepts/research-methodology/Side Effects in Education.md"
+    "path": "wiki/concepts/research-methodology/Side Effects in Education.md",
+    "aliases": [
+      "教育中的副作用"
+    ]
   },
   {
     "title": "Stable Unit Treatment Value Assumption (SUTVA)",
-    "path": "wiki/concepts/research-methodology/Stable Unit Treatment Value Assumption (SUTVA).md"
+    "path": "wiki/concepts/research-methodology/Stable Unit Treatment Value Assumption (SUTVA).md",
+    "aliases": [
+      "稳定单元处理值假定",
+      "SUTVA"
+    ]
   },
   {
     "title": "Statistical Significance",
-    "path": "wiki/concepts/research-methodology/Statistical Significance.md"
+    "path": "wiki/concepts/research-methodology/Statistical Significance.md",
+    "aliases": [
+      "统计显著性"
+    ]
   },
   {
     "title": "Validity as Inferences",
-    "path": "wiki/concepts/research-methodology/Validity as Inferences.md"
+    "path": "wiki/concepts/research-methodology/Validity as Inferences.md",
+    "aliases": [
+      "作为推论的效度"
+    ]
   },
   {
     "title": "Champ",
@@ -1992,8 +2129,7 @@
     "title": "Walter Mignolo",
     "path": "wiki/persons/argentina/Walter Mignolo.md",
     "aliases": [
-      "沃尔特·米尼奥罗",
-      "米尼奥罗"
+      "沃尔特·米尼奥罗"
     ]
   },
   {

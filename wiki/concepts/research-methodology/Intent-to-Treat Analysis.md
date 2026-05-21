@@ -1,6 +1,8 @@
 ---
 title: Intent-to-Treat Analysis
-aliases: []
+aliases:
+  - 意向治疗分析
+  - ITT
 summary: "一种按原始随机分配而非实际接受情况来分析结果的 RCT 估计方法，用于评估干预可获得性对总体结果的影响。"
 type: concept
 tags:

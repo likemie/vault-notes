@@ -1,6 +1,7 @@
 ---
 title: Pure Evaluation
-aliases: []
+aliases:
+  - 纯粹评价
 summary: "用于描述被宣称可在自调节系统中独立于具体时空运作的评价实践的概念，常用于批评抽离情境的普遍化评估逻辑。"
 type: concept
 tags:

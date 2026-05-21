@@ -1,6 +1,8 @@
 ---
 title: Local Knowledge in Evidence-Based Policy
-aliases: []
+aliases:
+  - 证据本位政策中的地方知识
+  - 地方知识
 summary: "从业者对本地情境、关系网络和实际约束的深入了解，用于说明证据本位政策实施为何离不开地方知识和专业判断。"
 type: concept
 tags:

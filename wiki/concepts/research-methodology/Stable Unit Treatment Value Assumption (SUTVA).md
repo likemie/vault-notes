@@ -1,6 +1,8 @@
 ---
 title: Stable Unit Treatment Value Assumption (SUTVA)
-aliases: []
+aliases:
+  - 稳定单元处理值假定
+  - SUTVA
 summary: "潜在结果框架中的关键假定，指每个主体的潜在结果只取决于自身接受的处理而不受他人处理影响。"
 type: concept
 tags:

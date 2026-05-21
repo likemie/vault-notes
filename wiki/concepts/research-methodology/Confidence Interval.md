@@ -1,6 +1,8 @@
 ---
 title: Confidence Interval
-aliases: []
+aliases:
+  - 置信区间
+  - CI
 summary: "围绕点估计给出的可能取值范围，用于表示估计不确定性并帮助判断不同结果之间差异的稳定程度。"
 type: concept
 tags:

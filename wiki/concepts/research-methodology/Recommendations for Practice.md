@@ -1,6 +1,7 @@
 ---
 title: Recommendations for Practice
-aliases: []
+aliases:
+  - 实践建议
 summary: "研究论文中把研究发现转化为采用或避免某种实践的行动建议，用于连接研究结论与政策或教学实践。"
 type: concept
 tags:

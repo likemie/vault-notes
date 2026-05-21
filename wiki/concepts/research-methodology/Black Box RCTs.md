@@ -1,6 +1,8 @@
 ---
 title: Black Box RCTs
-aliases: []
+aliases:
+  - 黑箱RCT
+  - 黑箱随机对照试验
 summary: "一种不解释干预如何、为何以及在何种条件下有效的 RCT 设计取向，常被用于批评只报告平均效果而忽视机制、情境和专业判断的实验研究。"
 type: concept
 tags:

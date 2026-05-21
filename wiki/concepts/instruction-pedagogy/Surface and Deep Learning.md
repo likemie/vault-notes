@@ -1,6 +1,9 @@
 ---
 title: Surface and Deep Learning
-aliases: []
+aliases:
+  - 表层学习与深层学习
+  - 表层学习
+  - 深层学习
 summary: "区分以记忆事实和完成任务为主的表层学习与以理解关系、意义和结构为主的深层学习，用于分析学习方式与教学评价之间的关系。"
 type: concept
 tags:

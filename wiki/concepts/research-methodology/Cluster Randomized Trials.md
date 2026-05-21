@@ -1,6 +1,9 @@
 ---
 title: Cluster Randomized Trials
-aliases: []
+aliases:
+  - 集群随机试验
+  - 集群随机对照试验
+  - CRT
 summary: "一种以学校、班级或其他群体而非个体作为随机化单位的 RCT 设计变体，常用于教育研究中处理集体干预和现场实施条件。"
 type: concept
 tags:

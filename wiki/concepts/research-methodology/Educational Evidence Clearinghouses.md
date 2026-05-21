@@ -1,6 +1,8 @@
 ---
 title: Educational Evidence Clearinghouses
-aliases: []
+aliases:
+  - 教育证据清算中心
+  - 教育证据清算机构
 summary: "审查教育项目效果研究并发布有效性评级的证据中介机构，用于在研究、政策和实践之间提供筛选、汇总和传播功能。"
 type: concept
 tags:

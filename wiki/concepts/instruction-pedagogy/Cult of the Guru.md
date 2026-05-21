@@ -1,6 +1,7 @@
 ---
 title: Cult of the Guru
-aliases: []
+aliases:
+  - 大师崇拜
 summary: "Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。"
 type: concept
 tags:

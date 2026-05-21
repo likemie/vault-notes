@@ -1,6 +1,8 @@
 ---
 title: Programme Fidelity vs Adaptation
-aliases: []
+aliases:
+  - 项目忠实性与适应
+  - 方案忠实性与适应
 summary: "证据本位方案实施中的核心张力，指忠实复制原始方案与根据本地条件进行调整之间的平衡问题。"
 type: concept
 tags:

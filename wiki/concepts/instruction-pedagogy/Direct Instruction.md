@@ -1,6 +1,7 @@
 ---
 title: Direct Instruction
-aliases: []
+aliases:
+  - 直接教学
 summary: "以教师主导、结构化和明确讲解为特征的教学方法，强调分步示范、练习巩固和清晰反馈，常用于基础知识和技能教学。"
 type: concept
 tags:

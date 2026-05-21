@@ -1,6 +1,8 @@
 ---
 title: Neo-Taylorism in Educational Administration
-aliases: []
+aliases:
+  - 教育行政中的新泰勒主义
+  - 新泰勒主义
 summary: "Taylor 科学管理原理在教育行政领域的当代复兴，用于批评以唯一正确方法、效率最大化和标准化控制组织教学与管理的倾向。"
 type: concept
 tags:

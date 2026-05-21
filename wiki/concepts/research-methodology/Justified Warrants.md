@@ -1,6 +1,7 @@
 ---
 title: Justified Warrants
-aliases: []
+aliases:
+  - 有根据的担保断言
 summary: "研究结论应提供暂定、可修正的担保断言而非确定性证明，可用于评估政策论证是否真正由证据支持而不是靠修辞跳跃推进"
 type: concept
 tags:

@@ -1,6 +1,8 @@
 ---
 title: Individualised Instruction
-aliases: []
+aliases:
+  - 个别化教学
+  - 个性化教学
 summary: "根据学生差异调整内容、进度、支持方式或任务要求的教学安排，用于回应学生在能力、兴趣和学习节奏上的不同。"
 type: concept
 tags:

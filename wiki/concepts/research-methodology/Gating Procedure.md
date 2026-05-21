@@ -1,6 +1,7 @@
 ---
 title: Gating Procedure
-aliases: []
+aliases:
+  - 闸门程序
 summary: "系统综述中的筛选程序，指只有内部效度达到门槛的研究才能进入后续综合和推广性评估。"
 type: concept
 tags:
