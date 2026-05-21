@@ -18,6 +18,8 @@ related_concepts:
 - "[[Ren]]"
 - "[[Self-Cultivation]]"
 - "[[Filial Piety]]"
+- "[[Rightness]]"
+- "[[Shame (Confucianism)]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -54,10 +56,10 @@ updated: 2026-05-22
 > **礼 ≠ 英文的 propriety**：Li 明确指出，"英文词 propriety 并不能完全传达 li 的概念的丰富含义"，因为礼的范围远比西方语境中的"礼仪"广阔——它渗透到东亚人日常生活的方方面面（Li, 2012, p.40）。
 
 > [!example]
-> **礼在儒家道德体系中的位置**：礼是孔子所列四项超越德目之一，其余三项为：
-> - 义（yi, 義）— 做正确的事，正义感
+> **礼在儒家道德体系中的位置**：礼是[[Confucius|孔子]]所列四项超越德目之一，其余三项为：
+> - [[Rightness|义]]（yi, 義）— 做正确的事，正义感
 > - 廉（lian, 廉）— 个人操守，诚实管理
-> - 耻（chi, 恥）— 羞耻感，作为自我纠正的动力（Li, 2012, pp.39-40）
+> - [[Shame (Confucianism)|耻]]（chi, 恥）— 羞耻感，作为自我纠正的动力（Li, 2012, pp.39-40）
 
 ---
 

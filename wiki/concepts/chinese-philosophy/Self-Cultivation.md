@@ -1,34 +1,34 @@
 ---
 title: Self-Cultivation
 aliases:
-- 修身
-- 自我修養
-- self-perfect
-- self-perfection
-- xiū shēn
-summary: "儒学学习传统的核心目标，以自我（而非外部世界）为认识、反思、实践和完成的终身工程，通过道德与社会的自我完善实现人性卓越。"
+  - 修身
+  - 自我修養
+  - self-perfect
+  - self-perfection
+  - xiū shēn
+summary: 儒学学习传统的核心目标，以自我（而非外部世界）为认识、反思、实践和完成的终身工程，通过道德与社会的自我完善实现人性卓越。
 type: concept
 tags:
-- region/china
-- theory/confucianism
-- field/cultural-psychology
-- field/chinese-philosophy
-- theme/learning
+  - region/china
+  - theory/confucianism
+  - field/cultural-psychology
+  - field/chinese-philosophy
+  - theme/learning
 related_concepts:
-- "[[Ren]]"
-- "[[Junzi]]"
-- "[[Five Cardinal Relationships]]"
-- "[[Learning Virtues]]"
-- "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Ren]]"
+  - "[[Junzi]]"
+  - "[[Five Cardinal Relationships]]"
+  - "[[Learning Virtues]]"
+  - "[[Heart and Mind for Wanting to Learn]]"
 related_theories: []
 related_methods: []
 related_persons:
-- "[[Confucius]]"
+  - "[[Confucius]]"
 related_facts: []
 related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Li_2012_Cambridge]]"
 sources:
-- "[[Li_2012_Cambridge]]"
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22

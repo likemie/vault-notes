@@ -18,6 +18,7 @@ related_concepts:
 - "[[Self-Cultivation]]"
 - "[[Sage]]"
 - "[[Learning Virtues]]"
+- "[[Take the World Upon Oneself]]"
 related_theories: []
 related_methods: []
 related_persons:

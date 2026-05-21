@@ -19,6 +19,11 @@ extracted_to:
 - "[[Confucian Learning Tradition]]"
 - "[[Civil Service Examination]]"
 - "[[University Motto]]"
+- "[[Sage]]"
+- "[[Take the World Upon Oneself]]"
+- "[[Action Better Than Words]]"
+- "[[Rightness]]"
+- "[[Shame (Confucianism)]]"
 processed_date: 2026-05-22
 ---
 
