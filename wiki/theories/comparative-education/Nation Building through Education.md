@@ -16,19 +16,24 @@ tags:
 related_concepts:
 - '[[National Education in Hong Kong]]'
 - '[[Membership-Creating Function of Education]]'
+- '[[Official Knowledge]]'
+- '[[Sinicisation]]'
 related_theories: []
 related_methods: []
 related_persons:
 - '[[Paul Morris]]'
-related_facts: []
-related_arguments: []
+related_facts:
+- '[[Confucian Revival in China]]'
+related_arguments:
+- '[[Argument_Yu_2024_Comparative_Education]]'
 sources:
 - '[[Yan_2025_JCS]]'
 - '[[Ch4_Amos_2022]]'
+- '[[10.1080_03050068.2023.2273641]]'
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-21'
 ---
 
 ## 核心主张
@@ -39,6 +44,8 @@ updated: '2026-05-18'
 > Yan & Morris (2025, p. 490) 将香港国民教育与中共在西藏、新疆、内蒙古的边疆教育政策并置分析，揭示了统一的治理逻辑。
 >
 > > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." (Vickers & Morris, 2022, p. 47，引自 Yan & Morris, 2025, p. 483)
+
+> Yu & Zhao（2024）从学校课程的文化维度补充了这一框架：课程中的"官方知识"（[[Official Knowledge]]）不仅通过语言和历史叙事进行国族建构，还通过对特定文化传统（如儒家传统）的选择性阐释，建构汉文化相对于少数民族文化的优越地位。在中国的学校教科书中，儒家传统被呈现为中华文化的核心乃至等价物，非汉政权被描绘为"向先进汉文化学习"的对象——这种叙事在教育层面强化了中心-边缘的文化权力等级（Yu & Zhao, 2024, p.67–68）。与此同时，来自非汉少数民族和宗教背景的学生则倾向于将儒家传统视为中国文化多元组成的一部分、一种可以（而且应该）被其他文化视角批判性反思的世界观——这与官方叙事形成鲜明对照（Yu & Zhao, 2024, p.68–70）。
 
 ## 理论内部结构
 
@@ -78,6 +85,7 @@ updated: '2026-05-18'
 > - **Tobin (2024)** — 新疆案例分析："普通话化"作为教育政策工具
 > - **Bulag (2024)** — 内蒙古案例分析："中华民族"叙事替代蒙古族历史
 > - **Yan & Morris (2025)** — 将香港纳入同一边疆国族建构框架，揭示统一的治理逻辑
+> - **Yu & Zhao (2024)** — 从课程文化维度揭示国族建构的另一层面：学校教科书中的"官方知识"（[[Official Knowledge]]）通过将儒家传统塑造为中华文化核心，在教育层面强化了汉文化中心与少数民族边缘之间的文化等级
 
 ## 研究范式
 
@@ -115,6 +123,7 @@ updated: '2026-05-18'
 > - Leibold & Dorjee (2024) — 西藏
 > - Tobin (2024) — 新疆
 > - Bulag (2024) — 内蒙古
+> - [[Argument_Yu_2024_Comparative_Education]] — 课程文化与儒家复兴视角下的国族建构
 
 ## 应用领域
 
@@ -124,3 +133,4 @@ updated: '2026-05-18'
 ## 来源
 
 - [[Yan_2025_JCS]]
+- [[10.1080_03050068.2023.2273641]]

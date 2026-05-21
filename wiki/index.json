@@ -206,6 +206,16 @@
     ]
   },
   {
+    "title": "Sinicisation",
+    "path": "wiki/concepts/comparative-education/Sinicisation.md",
+    "aliases": [
+      "汉化",
+      "中国化",
+      "sinicisation",
+      "sinicization"
+    ]
+  },
+  {
     "title": "Theories of Policy Change",
     "path": "wiki/concepts/comparative-education/Theories of Policy Change.md",
     "aliases": [
@@ -1265,6 +1275,15 @@
     "path": "wiki/concepts/political-economy-geopolitics/New Public Management.md",
     "aliases": [
       "新公共管理"
+    ]
+  },
+  {
+    "title": "Official Knowledge",
+    "path": "wiki/concepts/political-economy-geopolitics/Official Knowledge.md",
+    "aliases": [
+      "官方知识",
+      "官方知识 (Apple)",
+      "official knowledge (Apple)"
     ]
   },
   {
@@ -3095,6 +3114,15 @@
     ]
   },
   {
+    "title": "Confucian Revival in China",
+    "path": "wiki/facts/china/Confucian Revival in China.md",
+    "aliases": [
+      "中国儒家复兴",
+      "儒学复兴",
+      "儒家文化复兴"
+    ]
+  },
+  {
     "title": "ECNU Declaration on Evidence-Based Research 2017",
     "path": "wiki/facts/china/ECNU Declaration on Evidence-Based Research 2017.md",
     "aliases": [
@@ -4035,6 +4063,10 @@
   {
     "title": "Argument_Schaffar_2024_CogentEdu",
     "path": "wiki/arguments/journal-articles/Argument_Schaffar_2024_CogentEdu.md"
+  },
+  {
+    "title": "Argument_Yu_2024_Comparative_Education",
+    "path": "wiki/arguments/journal-articles/Argument_Yu_2024_Comparative_Education.md"
   },
   {
     "title": "Argument_Johnson_2023_CE",
