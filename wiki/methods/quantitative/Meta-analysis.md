@@ -29,13 +29,15 @@ related_persons:
 - '[[Adrian Simpson]]'
 - '[[Ray Pawson]]'
 - '[[Lars Qvortrup]]'
-related_arguments: []
+related_arguments:
+- '[[Argument_Hattie_2015_Paideia]]'
 sources:
 - '[[Snook_2009_NZJES]]'
 - '[[Snook_2010_NZJES]]'
 - '[[Terhart_2011_JCS]]'
 - '[[Berk_2011_ER]]'
 - '[[Hattie_2015_SOTLP]]'
+- '[[Hattie_2015_Paideia]]'
 - '[[Qvortrup_2015_Paideia]]'
 - '[[Allerup_2015_Paideia]]'
 - '[[Simpson_2017_JEP]]'
@@ -48,7 +50,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-21'
 ---
 
 ## 定义

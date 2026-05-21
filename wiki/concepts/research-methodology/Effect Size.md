@@ -42,13 +42,15 @@ related_persons:
 - '[[Jacob Cohen]]'
 - '[[Lars Qvortrup]]'
 related_facts: []
-related_arguments: []
+related_arguments:
+- '[[Argument_Hattie_2015_Paideia]]'
 sources:
 - '[[Snook_2009_NZJES]]'
 - '[[Hattie_2010_NZJES]]'
 - '[[Terhart_2011_JCS]]'
 - '[[Allerup_2015_Paideia]]'
 - '[[Qvortrup_2015_Paideia]]'
+- '[[Hattie_2015_Paideia]]'
 - '[[Pampaka_2016_IJRME]]'
 - '[[Wecker_2016_ZfE]]'
 - '[[Bergeron_2017_MJE]]'
@@ -65,7 +67,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-21'
 ---
 
 ## 定义

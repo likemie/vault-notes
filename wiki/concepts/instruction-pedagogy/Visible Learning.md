@@ -79,6 +79,7 @@ related_facts:
 - '[[Visible Learning in Sweden]]'
 - '[[Visible Learning Branding and Global Influences]]'
 related_arguments:
+- '[[Argument_Hattie_2015_Paideia]]'
 - '[[Argument_Hattie_2017_SLM]]'
 - '[[Argument_Knudsen_2017_NordSTEP]]'
 - '[[Argument_Bainbridge_2022_ROE]]'
@@ -97,6 +98,7 @@ sources:
 - '[[Laursen_2015_Paideia]]'
 - '[[Qvortrup_2015_Paideia]]'
 - '[[Håkansson_2015_Paideia]]'
+- '[[Hattie_2015_Paideia]]'
 - '[[ONeill_2016_Report]]'
 - '[[Wecker_2016_ZfE]]'
 - '[[Bergeron_2017_MJE]]'

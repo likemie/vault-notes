@@ -30,8 +30,10 @@ related_persons:
   - "[[Klaus Nielsen]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Hattie_2015_Paideia]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 sources:
+  - "[[Hattie_2015_Paideia]]"
   - "[[Hattie_2015_SOTLP]]"
   - "[[Fredens_2015_Paideia]]"
   - "[[Nielsen_2021_NordPsych]]"
@@ -41,7 +43,7 @@ sources:
 confidence: low
 status: draft
 created: 2026-05-04
-updated: 2026-05-18
+updated: 2026-05-21
 ---
 
 ## 定义

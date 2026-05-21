@@ -50,6 +50,7 @@ related_persons:
 - '[[Gerald Grace]]'
 related_arguments:
 - '[[Argument_Nordahl_2015_Paideia]]'
+- '[[Argument_Hattie_2015_Paideia]]'
 - '[[Argument_Hattie_2017_SLM]]'
 - '[[Argument_Bainbridge_2022_ROE]]'
 sources:
@@ -63,6 +64,7 @@ sources:
 - '[[Fredens_2015_Paideia]]'
 - '[[Nordahl_2015_Paideia]]'
 - '[[Hattie_2015_SOTLP]]'
+- '[[Hattie_2015_Paideia]]'
 - '[[Laursen_2015_Paideia]]'
 - '[[Qvortrup_2015_Paideia]]'
 - '[[ONeill_2016_Report]]'

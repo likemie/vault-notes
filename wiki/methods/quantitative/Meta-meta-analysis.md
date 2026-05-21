@@ -36,11 +36,13 @@ related_persons:
 - '[[Terry Wrigley]]'
 - '[[Ewald Terhart]]'
 - '[[Lars Qvortrup]]'
-related_arguments: []
+related_arguments:
+- '[[Argument_Hattie_2015_Paideia]]'
 sources:
 - '[[Snook_2009_NZJES]]'
 - '[[Terhart_2011_JCS]]'
 - '[[Qvortrup_2015_Paideia]]'
+- '[[Hattie_2015_Paideia]]'
 - '[[Allerup_2015_Paideia]]'
 - '[[Wecker_2016_ZfE]]'
 - '[[Simpson_2017_JEP]]'
@@ -50,7 +52,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-05-21'
 ---
 
 ## 定义
