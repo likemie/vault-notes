@@ -25,6 +25,8 @@ related_concepts:
 - '[[Junzi]]'
 - '[[Learning Virtues]]'
 - '[[University Motto]]'
+- '[[Action Better Than Words]]'
+- '[[Take the World Upon Oneself]]'
 - '[[Heart and Mind for Wanting to Learn]]'
 related_theories:
 - '[[Hofstede''s Cultural Dimensions]]'

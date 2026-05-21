@@ -21,6 +21,12 @@ related_concepts:
 - '[[Filial Piety]]'
 - '[[Li (Propriety)]]'
 - '[[Learning Virtues]]'
+- '[[Sage]]'
+- '[[Take the World Upon Oneself]]'
+- '[[Action Better Than Words]]'
+- '[[Rightness]]'
+- '[[Shame (Confucianism)]]'
+- '[[University Motto]]'
 related_theories:
 - '[[Confucian Learning Tradition]]'
 related_methods: []

@@ -4,7 +4,7 @@ aliases:
 - 儒家学习传统
 - Confucian learning model
 - East Asian learning tradition
-summary: "Li (2012) 识别的东亚文化学习模型，以修身为核心目标，包含修身心、立大志、学习美德、行勝於言四个文化主题"
+summary: "Li (2012) 识别的东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德、行勝於言四个文化主题"
 type: theory
 tags:
 - region/east-asia
@@ -23,6 +23,11 @@ related_concepts:
 - "[[Learning Virtues]]"
 - "[[Heart and Mind for Wanting to Learn]]"
 - "[[Chinese Learner]]"
+- "[[Sage]]"
+- "[[Take the World Upon Oneself]]"
+- "[[Action Better Than Words]]"
+- "[[Rightness]]"
+- "[[Shame (Confucianism)]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -66,7 +71,7 @@ updated: 2026-05-22
 
 学习的核心对象是**自我而非世界**。因为所有人都在[[Five Cardinal Relationships|社会关系中]]生存和发展，一个人的存在不可避免地嵌入在父母、手足、配偶、上司和朋友等深层人际关系中。这些关系及其道德意义——而非生物性——定义了我们的人性。"Jenny 如何去履行她对生活中各类人群的角色和关系，将塑造 Jenny 是怎样的人、将成为怎样的人"（Li, 2012, pp.37-38）。
 
-### 2. 以天下为己任（Take the World Upon Oneself）
+### 2. [[Take the World Upon Oneself|以天下为己任]]（Take the World Upon Oneself）
 
 修身不只关乎个人的圆满——它从个体出发，逐步扩展到家庭（齐家）、国家（治国）和天下（平天下）。[[Mencius|孟子]]是第一个明确提出"以天下为己任"的人，de Bary 将其概括为"个体是自我决定的道德能动者"（Li, 2012, pp.45-47）。
 
@@ -74,9 +79,9 @@ updated: 2026-05-22
 
 儒家学习者需要发展七种[[Learning Virtues|学习美德]]作为个人能动性：诚心、勤奋、刻苦、恒心、专心、尊师、谦虚。这些品质既是道德品性，也是学习品性（Li, 2012, pp.49-52）。
 
-### 4. 行勝於言（Action Better Than Words）
+### 4. [[Action Better Than Words|行勝於言]]（Action Better Than Words）
 
-孔子对巧言令色极度不信任——"君子欲讷于言而敏于行"。说话是一种严肃的道德行为，因为它将说话者承诺于相应的行动。因此，典范之人说话少、行动快（Li, 2012, pp.52-54）。
+[[Confucius|孔子]]对巧言令色极度不信任——"君子欲讷于言而敏于行"。说话是一种严肃的道德行为，因为它将说话者承诺于相应的行动。因此，典范之人说话少、行动快（Li, 2012, pp.52-54）。
 
 ---
 
