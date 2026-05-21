@@ -1,6 +1,7 @@
 ---
 title: Vergegenkunft
-aliases: []
+aliases:
+  - 过去现在未来同现
 summary: "把过去、现在和未来压缩进同一时间结构的文学概念，用来表达历史经验与未来想象在当下不断纠缠的非线性时间感"
 type: concept
 tags:

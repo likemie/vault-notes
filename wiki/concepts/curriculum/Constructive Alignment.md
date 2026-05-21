@@ -1,6 +1,7 @@
 ---
 title: Constructive Alignment
-aliases: []
+aliases:
+  - 建构性对齐
 summary: "Biggs 提出的课程设计原则，强调学习结果、教学活动和评估三者之间的逻辑一致性，用于协调课程目标、教学过程和评价方式。"
 type: concept
 tags:

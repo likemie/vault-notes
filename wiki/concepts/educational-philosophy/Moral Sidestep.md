@@ -1,6 +1,7 @@
 ---
 title: Moral Sidestep
-aliases: []
+aliases:
+  - 道德回避
 summary: "以道德关切回避、替代或压过实证研究证据的话语策略，常用于分析政策争论中的价值与证据错位。"
 type: concept
 tags:

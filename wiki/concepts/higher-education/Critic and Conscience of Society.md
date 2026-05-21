@@ -1,6 +1,7 @@
 ---
 title: Critic and Conscience of Society
-aliases: []
+aliases:
+  - 社会的批评者与良知
 summary: "指大学在民主社会中承担独立批判和公共良知角色的概念，强调其不仅生产知识，也要基于公共责任对权力和社会问题发声。"
 type: concept
 tags:

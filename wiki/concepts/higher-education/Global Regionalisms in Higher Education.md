@@ -1,6 +1,8 @@
 ---
 title: Global Regionalisms in Higher Education
-aliases: []
+aliases:
+  - 高等教育中的全球区域主义
+  - 全球区域主义
 summary: "指高等教育被整合进跨国区域政治经济项目并成为区域合作、竞争和身份建构关键支柱的现象。"
 type: concept
 tags:

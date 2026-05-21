@@ -1,6 +1,7 @@
 ---
 title: Simple View of Reading
-aliases: []
+aliases:
+  - 阅读简单观
 summary: "Gough 与 Tunmer 提出的阅读理论模型，认为阅读由解码和理解共同构成，常用于支持系统识字教学和阅读困难分析。"
 type: concept
 tags:

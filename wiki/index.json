@@ -1,15 +1,25 @@
 [
   {
     "title": "Interpretation Community",
-    "path": "wiki/concepts/communication-discourse/Interpretation Community.md"
+    "path": "wiki/concepts/communication-discourse/Interpretation Community.md",
+    "aliases": [
+      "解释共同体"
+    ]
   },
   {
     "title": "Parallel Monologues",
-    "path": "wiki/concepts/communication-discourse/Parallel Monologues.md"
+    "path": "wiki/concepts/communication-discourse/Parallel Monologues.md",
+    "aliases": [
+      "平行独白"
+    ]
   },
   {
     "title": "SF (Haraway)",
-    "path": "wiki/concepts/communication-discourse/SF (Haraway).md"
+    "path": "wiki/concepts/communication-discourse/SF (Haraway).md",
+    "aliases": [
+      "哈拉维的SF",
+      "推测性编造"
+    ]
   },
   {
     "title": "21st Century Skills and Competencies Discourse",
@@ -187,20 +197,26 @@
     ]
   },
   {
-    "title": "concepts-index",
-    "path": "wiki/concepts/concepts-index.md"
-  },
-  {
     "title": "Atomisation of Knowledge and Skills",
-    "path": "wiki/concepts/curriculum/Atomisation of Knowledge and Skills.md"
+    "path": "wiki/concepts/curriculum/Atomisation of Knowledge and Skills.md",
+    "aliases": [
+      "知识与技能原子化"
+    ]
   },
   {
     "title": "Class Size",
-    "path": "wiki/concepts/curriculum/Class Size.md"
+    "path": "wiki/concepts/curriculum/Class Size.md",
+    "aliases": [
+      "班级规模",
+      "班额"
+    ]
   },
   {
     "title": "Constructive Alignment",
-    "path": "wiki/concepts/curriculum/Constructive Alignment.md"
+    "path": "wiki/concepts/curriculum/Constructive Alignment.md",
+    "aliases": [
+      "建构性对齐"
+    ]
   },
   {
     "title": "Didaktik",
@@ -212,11 +228,18 @@
   },
   {
     "title": "Educational Management Organisation (EMO)",
-    "path": "wiki/concepts/curriculum/Educational Management Organisation (EMO).md"
+    "path": "wiki/concepts/curriculum/Educational Management Organisation (EMO).md",
+    "aliases": [
+      "教育管理组织",
+      "EMO"
+    ]
   },
   {
     "title": "Epochal Key Problems",
-    "path": "wiki/concepts/curriculum/Epochal Key Problems.md"
+    "path": "wiki/concepts/curriculum/Epochal Key Problems.md",
+    "aliases": [
+      "时代关键问题"
+    ]
   },
   {
     "title": "Fourth Culture",
@@ -228,23 +251,40 @@
   },
   {
     "title": "Phenomenon-Based Learning",
-    "path": "wiki/concepts/curriculum/Phenomenon-Based Learning.md"
+    "path": "wiki/concepts/curriculum/Phenomenon-Based Learning.md",
+    "aliases": [
+      "现象本位学习",
+      "PhBL"
+    ]
   },
   {
     "title": "Selective Education",
-    "path": "wiki/concepts/curriculum/Selective Education.md"
+    "path": "wiki/concepts/curriculum/Selective Education.md",
+    "aliases": [
+      "选拔性教育"
+    ]
   },
   {
     "title": "Simple View of Reading",
-    "path": "wiki/concepts/curriculum/Simple View of Reading.md"
+    "path": "wiki/concepts/curriculum/Simple View of Reading.md",
+    "aliases": [
+      "阅读简单观"
+    ]
   },
   {
     "title": "Venture Philanthropy",
-    "path": "wiki/concepts/curriculum/Venture Philanthropy.md"
+    "path": "wiki/concepts/curriculum/Venture Philanthropy.md",
+    "aliases": [
+      "风险慈善"
+    ]
   },
   {
     "title": "Whole Language",
-    "path": "wiki/concepts/curriculum/Whole Language.md"
+    "path": "wiki/concepts/curriculum/Whole Language.md",
+    "aliases": [
+      "全语言",
+      "whole language"
+    ]
   },
   {
     "title": "Bildung",
@@ -255,19 +295,32 @@
   },
   {
     "title": "Blind Spot in Observation",
-    "path": "wiki/concepts/educational-philosophy/Blind Spot in Observation.md"
+    "path": "wiki/concepts/educational-philosophy/Blind Spot in Observation.md",
+    "aliases": [
+      "观察盲点"
+    ]
   },
   {
     "title": "Buen Vivir",
-    "path": "wiki/concepts/educational-philosophy/Buen Vivir.md"
+    "path": "wiki/concepts/educational-philosophy/Buen Vivir.md",
+    "aliases": [
+      "好好生活",
+      "美好生活"
+    ]
   },
   {
     "title": "Cargo Cult Science",
-    "path": "wiki/concepts/educational-philosophy/Cargo Cult Science.md"
+    "path": "wiki/concepts/educational-philosophy/Cargo Cult Science.md",
+    "aliases": [
+      "货物崇拜科学"
+    ]
   },
   {
     "title": "Complexity Reduction",
-    "path": "wiki/concepts/educational-philosophy/Complexity Reduction.md"
+    "path": "wiki/concepts/educational-philosophy/Complexity Reduction.md",
+    "aliases": [
+      "复杂性缩减"
+    ]
   },
   {
     "title": "Ecomuseology",
@@ -282,11 +335,17 @@
   },
   {
     "title": "Epistemological Break",
-    "path": "wiki/concepts/educational-philosophy/Epistemological Break.md"
+    "path": "wiki/concepts/educational-philosophy/Epistemological Break.md",
+    "aliases": [
+      "认识论断裂"
+    ]
   },
   {
     "title": "Epistemological Vigilance",
-    "path": "wiki/concepts/educational-philosophy/Epistemological Vigilance.md"
+    "path": "wiki/concepts/educational-philosophy/Epistemological Vigilance.md",
+    "aliases": [
+      "认识论警觉"
+    ]
   },
   {
     "title": "Epistemology of Resistance",
@@ -299,19 +358,32 @@
   },
   {
     "title": "Humosity",
-    "path": "wiki/concepts/educational-philosophy/Humosity.md"
+    "path": "wiki/concepts/educational-philosophy/Humosity.md",
+    "aliases": [
+      "腐殖性",
+      "humosity"
+    ]
   },
   {
     "title": "Incarnation-Extension Dialectics",
-    "path": "wiki/concepts/educational-philosophy/Incarnation-Extension Dialectics.md"
+    "path": "wiki/concepts/educational-philosophy/Incarnation-Extension Dialectics.md",
+    "aliases": [
+      "具身-延展辩证法"
+    ]
   },
   {
     "title": "Learnification",
-    "path": "wiki/concepts/educational-philosophy/Learnification.md"
+    "path": "wiki/concepts/educational-philosophy/Learnification.md",
+    "aliases": [
+      "学习化"
+    ]
   },
   {
     "title": "Moral Sidestep",
-    "path": "wiki/concepts/educational-philosophy/Moral Sidestep.md"
+    "path": "wiki/concepts/educational-philosophy/Moral Sidestep.md",
+    "aliases": [
+      "道德回避"
+    ]
   },
   {
     "title": "Multiplicity (Massey)",
@@ -340,15 +412,24 @@
   },
   {
     "title": "Posthumanism",
-    "path": "wiki/concepts/educational-philosophy/Posthumanism.md"
+    "path": "wiki/concepts/educational-philosophy/Posthumanism.md",
+    "aliases": [
+      "后人类主义"
+    ]
   },
   {
     "title": "Response-ability",
-    "path": "wiki/concepts/educational-philosophy/Response-ability.md"
+    "path": "wiki/concepts/educational-philosophy/Response-ability.md",
+    "aliases": [
+      "回应能力"
+    ]
   },
   {
     "title": "Scientism",
-    "path": "wiki/concepts/educational-philosophy/Scientism.md"
+    "path": "wiki/concepts/educational-philosophy/Scientism.md",
+    "aliases": [
+      "科学主义"
+    ]
   },
   {
     "title": "Social Museology",
@@ -362,23 +443,39 @@
   },
   {
     "title": "Structural Coupling",
-    "path": "wiki/concepts/educational-philosophy/Structural Coupling.md"
+    "path": "wiki/concepts/educational-philosophy/Structural Coupling.md",
+    "aliases": [
+      "结构耦合"
+    ]
   },
   {
     "title": "Sympoiesis",
-    "path": "wiki/concepts/educational-philosophy/Sympoiesis.md"
+    "path": "wiki/concepts/educational-philosophy/Sympoiesis.md",
+    "aliases": [
+      "共生成"
+    ]
   },
   {
     "title": "Ubuntu",
-    "path": "wiki/concepts/educational-philosophy/Ubuntu.md"
+    "path": "wiki/concepts/educational-philosophy/Ubuntu.md",
+    "aliases": [
+      "乌班图",
+      "ubuntu"
+    ]
   },
   {
     "title": "Value-Based Education",
-    "path": "wiki/concepts/educational-philosophy/Value-Based Education.md"
+    "path": "wiki/concepts/educational-philosophy/Value-Based Education.md",
+    "aliases": [
+      "价值本位教育"
+    ]
   },
   {
     "title": "Vergegenkunft",
-    "path": "wiki/concepts/educational-philosophy/Vergegenkunft.md"
+    "path": "wiki/concepts/educational-philosophy/Vergegenkunft.md",
+    "aliases": [
+      "过去现在未来同现"
+    ]
   },
   {
     "title": "Whole Sustainability",
@@ -419,7 +516,11 @@
   },
   {
     "title": "Educational Technology Industry",
-    "path": "wiki/concepts/educational-technology/Educational Technology Industry.md"
+    "path": "wiki/concepts/educational-technology/Educational Technology Industry.md",
+    "aliases": [
+      "教育技术产业",
+      "EdTech产业"
+    ]
   },
   {
     "title": "Gamification",
@@ -443,7 +544,10 @@
   },
   {
     "title": "Transhumanism",
-    "path": "wiki/concepts/educational-technology/Transhumanism.md"
+    "path": "wiki/concepts/educational-technology/Transhumanism.md",
+    "aliases": [
+      "超人类主义"
+    ]
   },
   {
     "title": "Academic and Social Integration",
@@ -474,7 +578,10 @@
   },
   {
     "title": "Critic and Conscience of Society",
-    "path": "wiki/concepts/higher-education/Critic and Conscience of Society.md"
+    "path": "wiki/concepts/higher-education/Critic and Conscience of Society.md",
+    "aliases": [
+      "社会的批评者与良知"
+    ]
   },
   {
     "title": "Double Spatiality of Universities",
@@ -522,7 +629,11 @@
   },
   {
     "title": "Global Regionalisms in Higher Education",
-    "path": "wiki/concepts/higher-education/Global Regionalisms in Higher Education.md"
+    "path": "wiki/concepts/higher-education/Global Regionalisms in Higher Education.md",
+    "aliases": [
+      "高等教育中的全球区域主义",
+      "全球区域主义"
+    ]
   },
   {
     "title": "Global Universities Rankings",
@@ -640,7 +751,11 @@
   },
   {
     "title": "Self-Authorship",
-    "path": "wiki/concepts/higher-education/Self-Authorship.md"
+    "path": "wiki/concepts/higher-education/Self-Authorship.md",
+    "aliases": [
+      "自我主导性",
+      "self-authorship"
+    ]
   },
   {
     "title": "Semi-Autonomy of Higher Education",
@@ -899,7 +1014,10 @@
   },
   {
     "title": "Economic Patriotism",
-    "path": "wiki/concepts/political-economy-geopolitics/Economic Patriotism.md"
+    "path": "wiki/concepts/political-economy-geopolitics/Economic Patriotism.md",
+    "aliases": [
+      "经济爱国主义"
+    ]
   },
   {
     "title": "Endogenous and Exogenous Privatisation",
@@ -968,7 +1086,10 @@
   },
   {
     "title": "Knowledge-Based Economization",
-    "path": "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economization.md"
+    "path": "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economization.md",
+    "aliases": [
+      "知识经济化"
+    ]
   },
   {
     "title": "Knowledge-Based Economy",
@@ -982,7 +1103,10 @@
   },
   {
     "title": "National Competitive Advantage",
-    "path": "wiki/concepts/political-economy-geopolitics/National Competitive Advantage.md"
+    "path": "wiki/concepts/political-economy-geopolitics/National Competitive Advantage.md",
+    "aliases": [
+      "国家竞争优势"
+    ]
   },
   {
     "title": "Neocorporatism",
@@ -1010,7 +1134,11 @@
   },
   {
     "title": "Performance Pay",
-    "path": "wiki/concepts/political-economy-geopolitics/Performance Pay.md"
+    "path": "wiki/concepts/political-economy-geopolitics/Performance Pay.md",
+    "aliases": [
+      "绩效工资",
+      "merit pay"
+    ]
   },
   {
     "title": "Power-Geometries",
@@ -1023,7 +1151,10 @@
   },
   {
     "title": "Progressive Neoliberalism",
-    "path": "wiki/concepts/political-economy-geopolitics/Progressive Neoliberalism.md"
+    "path": "wiki/concepts/political-economy-geopolitics/Progressive Neoliberalism.md",
+    "aliases": [
+      "进步新自由主义"
+    ]
   },
   {
     "title": "Radical Liberal Internationalism",
@@ -1035,7 +1166,10 @@
   },
   {
     "title": "School Autonomy",
-    "path": "wiki/concepts/political-economy-geopolitics/School Autonomy.md"
+    "path": "wiki/concepts/political-economy-geopolitics/School Autonomy.md",
+    "aliases": [
+      "学校自主权"
+    ]
   },
   {
     "title": "Scientization of Politics",
@@ -1642,14 +1776,6 @@
     "path": "wiki/theories/sociology-of-education/Refraction Framework.md"
   },
   {
-    "title": "theories-index",
-    "path": "wiki/theories/theories-index.md"
-  },
-  {
-    "title": "methods-index",
-    "path": "wiki/methods/methods-index.md"
-  },
-  {
     "title": "Improvement Science",
     "path": "wiki/methods/mixed/Improvement Science.md"
   },
@@ -1866,7 +1992,8 @@
     "title": "Walter Mignolo",
     "path": "wiki/persons/argentina/Walter Mignolo.md",
     "aliases": [
-      "米尼奥洛"
+      "沃尔特·米尼奥罗",
+      "米尼奥罗"
     ]
   },
   {
@@ -2224,10 +2351,6 @@
     "aliases": [
       "约伦·默勒"
     ]
-  },
-  {
-    "title": "persons-index",
-    "path": "wiki/persons/persons-index.md"
   },
   {
     "title": "Jean Piaget",
@@ -2702,10 +2825,6 @@
     ]
   },
   {
-    "title": "facts-index",
-    "path": "wiki/facts/facts-index.md"
-  },
-  {
     "title": "SveaSus Project",
     "path": "wiki/facts/finland/SveaSus Project.md"
   },
@@ -3163,10 +3282,6 @@
     "path": "wiki/facts/us/WWC SCD Pilot Standards 2010.md"
   },
   {
-    "title": "arguments-index",
-    "path": "wiki/arguments/arguments-index.md"
-  },
-  {
     "title": "Argument_Zelinka_2022_SCD_subjectivity",
     "path": "wiki/arguments/books/Argument_Zelinka_2022_SCD_subjectivity.md"
   },
@@ -3513,9 +3628,5 @@
   {
     "title": "Argument_ONeill_2016_Report",
     "path": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md"
-  },
-  {
-    "title": "wiki-index",
-    "path": "wiki/wiki-index.md"
   }
 ]

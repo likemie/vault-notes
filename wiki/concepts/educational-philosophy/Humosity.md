@@ -1,6 +1,8 @@
 ---
 title: Humosity
-aliases: []
+aliases:
+  - 腐殖性
+  - humosity
 summary: "将人类去中心化并置入物质循环之中的后人类主义概念，强调人类生命只是更广泛生态生成与腐解过程中的一环"
 type: concept
 tags:

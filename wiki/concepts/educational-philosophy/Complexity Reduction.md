@@ -1,6 +1,7 @@
 ---
 title: Complexity Reduction
-aliases: []
+aliases:
+  - 复杂性缩减
 summary: "通过减少系统中的可用选项数量使社会情境变得更可预测的过程，常用于分析权力如何组织选择空间。"
 type: concept
 tags:

@@ -1,6 +1,8 @@
 ---
 title: Buen Vivir
-aliases: []
+aliases:
+  - 好好生活
+  - 美好生活
 summary: "安第斯原住民传统中的好好生活概念，强调与自然、共同体和日常再生产保持和谐，而不是把更多消费视为更好生活"
 type: concept
 tags:

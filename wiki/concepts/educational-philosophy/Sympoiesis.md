@@ -1,6 +1,7 @@
 ---
 title: Sympoiesis
-aliases: []
+aliases:
+  - 共生成
 summary: "强调存在总是在与他者共同制造中生成的后人类主义概念，突出跨物种相互依存、协作生成和伦理回应关系"
 type: concept
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Atomisation of Knowledge and Skills
-aliases: []
+aliases:
+  - 知识与技能原子化
 summary: "在测量、问责和经济竞争逻辑下，教育内容被拆分为可评估、可比较和可交易的小单位，用于描述课程知识与技能的碎片化组织方式。"
 type: concept
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Selective Education
-aliases: []
+aliases:
+  - 选拔性教育
 summary: "依据学术能力考试将中学生分流至不同学校类型的制度，常用于描述以早期选拔组织中等教育机会和路径的安排。"
 type: concept
 tags:

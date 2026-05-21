@@ -1,6 +1,7 @@
 ---
 title: National Competitive Advantage
-aliases: []
+aliases:
+  - 国家竞争优势
 summary: "Porter 提出的理论，认为国家竞争优势通过高度本地化的产业、制度和创新条件被创造和维持。"
 type: concept
 tags:

@@ -1,6 +1,8 @@
 ---
 title: Self-Authorship
-aliases: []
+aliases:
+  - 自我主导性
+  - self-authorship
 summary: "个体依据内在声音和核心价值观主导认知、自我认同与人际关系发展的概念，强调从外部依赖走向内部定向"
 type: concept
 tags:

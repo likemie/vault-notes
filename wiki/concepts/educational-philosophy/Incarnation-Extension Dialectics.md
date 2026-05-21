@@ -1,6 +1,7 @@
 ---
 title: Incarnation-Extension Dialectics
-aliases: []
+aliases:
+  - 具身-延展辩证法
 summary: "把学习理解为具身存在与向外延展之间双向运动的框架，强调身体、环境和世界关系在认知形成中的共同作用"
 type: concept
 tags:

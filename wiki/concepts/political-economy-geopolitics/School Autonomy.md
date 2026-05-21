@@ -1,6 +1,7 @@
 ---
 title: School Autonomy
-aliases: []
+aliases:
+  - 学校自主权
 summary: "教育决策权从中央官僚机构向个别学校下放的制度安排，用于组织学校层面的资源配置、课程决策和管理责任。"
 type: concept
 tags:

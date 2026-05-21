@@ -1,6 +1,7 @@
 ---
 title: Knowledge-Based Economization
-aliases: []
+aliases:
+  - 知识经济化
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
 tags:

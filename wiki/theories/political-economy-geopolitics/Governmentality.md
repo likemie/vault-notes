@@ -24,6 +24,9 @@ related_concepts:
   - "[[Bildung]]"
   - '[[Preemptive Governance]]'
   - '[[Digital Optimum]]'
+  - '[[21st Century Skills and Competencies Discourse]]'
+  - '[[Geopolitics of Knowledge]]'
+  - '[[Self-Entrepreneur]]'
 related_theories:
   - "[[Societies of Control]]"
 related_methods: []
@@ -31,8 +34,10 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
+  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
 sources:
   - "[[Ch13_Thompson_2022]]"
+  - "[[Ch15_Zelinka_2022]]"
 confidence: medium
 status: draft
 created: 2026-05-20
@@ -75,13 +80,32 @@ updated: 2026-05-20
 
 治理性的一个重要洞见是"自由"并非治理的对立面，而是治理得以运作的条件：个体在"自由选择"中进行自我管理，而这种自由的运作恰好实现了治理目标。OSA 明确宣称"不是入学考试、不影响录取"——正是这种"非强制性"使治理效果更深入：学生在没有人强迫的情况下，自愿接受匹配逻辑、自行调整学习路径（Thompson et al., 2022, pp.222–223）。
 
+### 远距治理（Governing at a Distance）
+
+远距治理是治理性运作的空间机制：权力并不直接作用于被治理者，而是通过重塑关系、想象和话语——在"远处"组织行为。Zelinka（2022, pp.251-252）援引 Bell 和 Green（2016, p.240）将新自由主义界定为一种**理性**（rationality），它"重新想象、解释和组装人与物之间的关系以实现远距治理"。Ball（2010, p.135）则以原文强调的方式指出，新自由主义治理性"在远处组织全球教育转型"（organises the global transformation of education *at a distance*）。
+
+远距治理的关键不在于物理距离，而在于治理**不依赖直接命令**，而是通过创造可欲的自我引导形式来操控个体。在 [[21st Century Skills and Competencies Discourse|21 世纪 SCD]] 的案例中，远距治理体现为：不被任何单一机构或政府所控制的 SCD 框架，通过界定"未来所需的关键技能"来远距塑造全球教育政策和个体行为——各国政府和个体"自愿"采纳这些框架，因为不采纳意味着在全球竞争中落后（Zelinka, 2022, pp.259-260）。
+
+### 全球治理技术（Global Governmental Technology）
+
+Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘政治]]概念化为一种全球治理技术，识别出三重运作机制：
+
+1. **问题化与个体化**（problematizing and individualizing）：教育挑战被表述为 [[Fourth Industrial Revolution|VUCA]]——波动性、不确定性、复杂性、模糊性。回应方式被锁定为"让个体装备必要技能"，结构性问题被转化为个体责任（Zelinka, 2022, p.264）。
+
+2. **授权知识生产手段**（authorizing and validating the means of knowledge-production）：全球治理性成功想象出一个空间，其中特定人群可以决定什么算作"卓越"和"创新"，以及资源应分配至何处。这强化了那些被授权定义未来进步者的权力地位，同时排斥了无法承诺于此类知识生产的人（Zelinka, 2022, pp.264-265）。
+
+3. **主体化、区分与创造自由**（subjectivation, differentiation, and creation of liberties）：一方面推崇[[Self-Entrepreneur|自我企业家精神]]和主动性；另一方面将排除者框定为"脆弱"或"需要帮助的"——不留出拒绝或抵抗的空间。这种双重操作使治理同时涵盖"愿意者"和"不愿者"，全覆盖地塑造全球教育秩序中的主体（Zelinka, 2022, p.265）。
+
+对这套全球治理技术的抵抗，Zelinka 认为起点在于质疑其根本前提：即将主体定义为"知识承载者"（knowledge-bearers）（Zelinka, 2022, p.265）。
+
 ## 发展脉络
 
 > [!note]
 > - **1978–1979**：Foucault 在法兰西学院讲座 Security_Territory_Population 和 The Birth of Biopolitics 中系统阐述治理性概念
 > - **1980s**：治理性概念被引入英语学术界，引发"治理性研究"（governmentality studies）浪潮（Burchell, Gordon & Miller, 1991）
 > - **1990s–2000s**：治理性分析被广泛应用于教育研究，包括终身学习治理（Olssen, 2006）、高等教育新公共管理（Dean, 2010）、国际教育政策比较研究
-> - **2022**：Thompson 等人将治理性应用于数字教育治理分析，结合 [[Online Self-Assessment|OSA]] 和 [[Digital Self|数字自我]] 展示治理性在算法时代的运作形态（Thompson et al., 2022, pp.220–226）
+> - **2022a**：Thompson 等人将治理性应用于数字教育治理分析，结合 [[Online Self-Assessment|OSA]] 和 [[Digital Self|数字自我]] 展示治理性在算法时代的运作形态（Thompson et al., 2022, pp.220–226）
+- **2022b**：Zelinka 将治理性分析扩展至全球尺度的知识地缘政治，将（新）[[Geopolitics of Knowledge]] 概念化为全球治理技术，以 [[21st Century Skills and Competencies Discourse|21 世纪 SCD]] 为案例揭示远距治理的三重运作机制——问题化与个体化、授权知识生产手段、通过主体化和区分创造自由（Zelinka, 2022, pp.251-265）
 
 ## 认识论立场
 
@@ -107,6 +131,8 @@ updated: 2026-05-20
 > - [[Online Self-Assessment]] — 作为治理性工具（technology of governmentality），通过自我选择机制引导潜在学生
 > - [[Promising Student]] — 治理性视角下的主体形态分析：如何通过自我技术被"呼唤"出来
 > - [[Competitiveness in Higher Education]] — 竞争力作为地缘政治装置，通过绩效指标和排名塑造大学的治理性自我理解
+> - [[Geopolitics of Knowledge]] — Zelinka（2022）将其概念化为全球治理技术，通过远距治理的三重机制运作（问题化与个体化、授权知识生产、主体化与区分）
+> - [[21st Century Skills and Competencies Discourse]] — SCD 框架是远距治理的典型案例：通过界定"未来所需技能"远距引导各国教育政策和个体的自我塑造（Zelinka, 2022, pp.258-260）
 
 ## 来源
 

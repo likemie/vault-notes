@@ -1,40 +1,41 @@
 ---
 title: Walter Mignolo
 aliases:
-- 米尼奥洛
-summary: "阿根廷裔文学与文化理论家，殖民性、边界思维与认识论不服从理论代表人物，为教育研究提供去殖民知识政治的核心概念。"
+  - 沃尔特·米尼奥罗
+  - 米尼奥罗
+summary: 阿根廷裔文学与文化理论家，殖民性、边界思维与认识论不服从理论代表人物，为教育研究提供去殖民知识政治的核心概念。
 type: person
 nationality: argentina
 tags:
-- region/us
-- region/argentina
-- field/decolonial-theory
-- field/epistemology
-- field/postcolonial-studies
-- field/literary-theory
+  - region/us
+  - region/argentina
+  - field/decolonial-theory
+  - field/epistemology
+  - field/postcolonial-studies
+  - field/literary-theory
 related_concepts:
-- '[[Geopolitics of Knowledge]]'
-- '[[Classical Geopolitics]]'
-- '[[Ganz-Methode]]'
-- '[[Life Power]]'
-- '[[Tense Society]]'
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Classical Geopolitics]]"
+  - "[[Ganz-Methode]]"
+  - "[[Life Power]]"
+  - "[[Tense Society]]"
 related_theories:
-- '[[Decolonial Geopolitics of Knowledge]]'
-- '[[Critical Geopolitics]]'
-- '[[Creative Tension of Sense]]'
+  - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Critical Geopolitics]]"
+  - "[[Creative Tension of Sense]]"
 related_methods: []
 related_persons:
-- '[[Dell Delambre]]'
+  - "[[Dell Delambre]]"
 related_arguments:
-- '[[Argument_Parreira do Amaral_2022_Springer]]'
-- '[[Argument_Delambre_2022_Springer]]'
+  - "[[Argument_Parreira do Amaral_2022_Springer]]"
+  - "[[Argument_Delambre_2022_Springer]]"
 sources:
-- '[[Ch3_Parreira do Amaral_2022]]'
-- '[[Ch7_Delambre_2022]]'
+  - "[[Ch3_Parreira do Amaral_2022]]"
+  - "[[Ch7_Delambre_2022]]"
 confidence: medium
 status: draft
-created: '2026-05-07'
-updated: '2026-05-19'
+created: 2026-05-07
+updated: 2026-05-19
 ---
 
 # Walter Mignolo

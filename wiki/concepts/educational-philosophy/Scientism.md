@@ -1,6 +1,7 @@
 ---
 title: Scientism
-aliases: []
+aliases:
+  - 科学主义
 summary: "对科学方法和科学权威的过度美化，以及将其轻率扩展到原本不适用领域的思想倾向。"
 type: concept
 tags:

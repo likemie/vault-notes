@@ -1,6 +1,7 @@
 ---
 title: Epistemological Vigilance
-aliases: []
+aliases:
+  - 认识论警觉
 summary: "Bourdieu 的认识论概念，指研究者需持续对日常语言、前科学概念和研究习惯保持批判性警觉。"
 type: concept
 tags:

@@ -1,6 +1,8 @@
 ---
 title: Performance Pay
-aliases: []
+aliases:
+  - 绩效工资
+  - merit pay
 summary: "将教师薪酬与测量表现直接挂钩的制度安排，用于通过激励机制推动绩效提升和行为调整。"
 type: concept
 tags:

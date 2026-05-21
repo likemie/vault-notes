@@ -1,6 +1,8 @@
 ---
 title: Class Size
-aliases: []
+aliases:
+  - 班级规模
+  - 班额
 summary: "班级学生人数这一教育组织变量，其影响不仅取决于人数变化本身，还取决于教师质量、课堂资源和教学方式是否随之调整。"
 type: concept
 tags:

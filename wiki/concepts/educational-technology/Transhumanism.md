@@ -1,6 +1,7 @@
 ---
 title: Transhumanism
-aliases: []
+aliases:
+  - 超人类主义
 summary: "以技术手段超越人类生物局限并追求持续优化和增强的思想取向，常用于讨论教育中的能力提升、技术改造和高度现代性的进步想象。"
 type: concept
 tags:
