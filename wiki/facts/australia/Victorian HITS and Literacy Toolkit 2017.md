@@ -1,6 +1,8 @@
 ---
 title: Victorian HITS and Literacy Toolkit 2017
-aliases: []
+aliases:
+  - 维州HITS与读写工具包
+  - HITS
 summary: "维州教育部发布 10 项 HITS 和 Literacy Toolkit，均以 Hattie 的 VL 为首要参考，O'Connor (2020) 质疑其证据基础"
 type: fact
 subtype: policy

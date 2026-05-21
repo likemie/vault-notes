@@ -1,6 +1,8 @@
 ---
 title: Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)
-aliases: []
+aliases:
+  - 军人家庭准备证据清算中心
+  - CMFR
 summary: "面向军人家庭的 public 清算中心，对 RCT 与一般 QED 均有详细证据标准"
 type: fact
 subtype: event

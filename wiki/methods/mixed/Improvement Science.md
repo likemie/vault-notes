@@ -1,6 +1,7 @@
 ---
 title: Improvement Science
-aliases: []
+aliases:
+  - 改进科学
 summary: "把教育改进视为在真实系统中持续测试、反馈和迭代优化的研究与实践方法，强调变异性、情境差异和集体学习"
 type: method
 method_type: mixed

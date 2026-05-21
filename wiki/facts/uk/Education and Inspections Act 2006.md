@@ -1,6 +1,7 @@
 ---
 title: Education and Inspections Act 2006
-aliases: []
+aliases:
+  - 2006教育与督察法案
 summary: "英国法律禁止新建文法学校，但允许现有 163 所文法学校继续运作"
 type: fact
 subtype: policy

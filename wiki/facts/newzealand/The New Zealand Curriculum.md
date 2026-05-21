@@ -1,6 +1,7 @@
 ---
 title: The New Zealand Curriculum
-aliases: []
+aliases:
+  - 新西兰课程
 summary: "2010 年实施的 NZ 国家课程，包含八项原则（高期望、学会学习、未来焦点），允许各校设计独特学习项目，ERO 定期评估"
 type: fact
 subtype: policy

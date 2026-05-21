@@ -1,6 +1,7 @@
 ---
 title: Contestable School Support Services (NZ 2011)
-aliases: []
+aliases:
+  - 可竞争学校支持服务
 summary: "教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M"
 type: fact
 subtype: policy

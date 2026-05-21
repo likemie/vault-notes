@@ -1,6 +1,7 @@
 ---
 title: New Zealand National Standards (2009)
-aliases: []
+aliases:
+  - 新西兰国家标准
 summary: "国家党联合政府推行的国家教育标准政策，Hattie 参与技术顾问和部长顾问组，引发激烈争议"
 type: fact
 subtype: policy

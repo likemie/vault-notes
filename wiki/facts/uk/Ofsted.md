@@ -1,6 +1,8 @@
 ---
 title: Ofsted
-aliases: []
+aliases:
+  - 英国教育标准办公室
+  - OFSTED
 summary: "英国教育标准办公室，负责英格兰学校检查与评级，其评级在教育政策辩论中常被当作研究证据使用并带有强烈道德判断色彩"
 type: fact
 subtype: policy

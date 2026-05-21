@@ -1,6 +1,7 @@
 ---
 title: ESSA 2015 Evidence Standards
-aliases: []
+aliases:
+  - ESSA证据标准
 summary: "美国联邦教育主法首次定义强/中/有希望三级证据标准，将联邦拨款与使用达到证据标准的项目绑定"
 type: fact
 subtype: event

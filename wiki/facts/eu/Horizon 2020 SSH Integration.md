@@ -1,6 +1,8 @@
 ---
 title: Horizon 2020 SSH Integration
-aliases: []
+aliases:
+  - 地平线2020 SSH整合
+  - Horizon 2020 SSH
 summary: "EU 2014–2020 年研究框架取消社会科学与人文学科独立资助渠道，作为横向议题嵌入所有优先领域"
 type: fact
 subtype: policy

@@ -1,6 +1,7 @@
 ---
 title: Visible Learning in Sweden
-aliases: []
+aliases:
+  - 瑞典的可见学习
 summary: "2010年代中期 Visible Learning 在瑞典被转化为课堂近端学校改进议程，重点从结果治理转向教学观察、教师协作与系统性质量工作"
 type: fact
 subtype: event

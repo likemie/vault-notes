@@ -1,6 +1,8 @@
 ---
 title: CNCS Evidence Exchange (EE)
-aliases: []
+aliases:
+  - CNCS证据交流平台
+  - EE
 summary: "只审查 CNCS 自身资助项目和干预的 public 清算中心，在 Wadhwa et al. (2024) 样本中贡献 52 个项目"
 type: fact
 subtype: event

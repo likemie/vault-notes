@@ -1,6 +1,8 @@
 ---
 title: Horizon Europe Missions
-aliases: []
+aliases:
+  - 地平线欧洲使命
+  - Horizon Europe Missions
 summary: "EU 2021–2027 年研究与创新框架的核心机制，将研究整合为五大社会挑战的使命承诺"
 type: fact
 subtype: policy

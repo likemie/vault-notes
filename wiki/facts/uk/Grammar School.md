@@ -1,6 +1,7 @@
 ---
 title: Grammar School
-aliases: []
+aliases:
+  - 文法学校
 summary: "英格兰以 11-plus 考试选拔学生的公立学术中学，现有 163 所，159 所获 Ofsted 良好/优秀评级"
 type: fact
 subtype: policy

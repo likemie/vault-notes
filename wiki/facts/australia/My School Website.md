@@ -1,6 +1,8 @@
 ---
 title: My School Website
-aliases: []
+aliases:
+  - My School
+  - 我的学校网站
 summary: "澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争"
 type: fact
 subtype: policy

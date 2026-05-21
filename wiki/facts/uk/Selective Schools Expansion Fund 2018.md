@@ -1,6 +1,7 @@
 ---
 title: Selective Schools Expansion Fund 2018
-aliases: []
+aliases:
+  - 选择性学校扩张基金
 summary: "保守党政府 £50M 基金允许现有文法学校扩展招生，在新建禁令未修改的情况下以替代路径扩大选择性教育"
 type: fact
 subtype: policy

@@ -1,6 +1,7 @@
 ---
 title: Late Qing Borrowing of Japanese Education
-aliases: []
+aliases:
+  - 晚清借鉴日本教育
 summary: "甲午战败后清末以日本为主要参照推进新式教育体系建设"
 type: fact
 subtype: event

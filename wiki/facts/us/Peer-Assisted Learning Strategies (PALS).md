@@ -1,6 +1,8 @@
 ---
 title: Peer-Assisted Learning Strategies (PALS)
-aliases: []
+aliases:
+  - 同伴辅助学习策略
+  - PALS
 summary: "Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断"
 type: fact
 subtype: event

@@ -1,6 +1,7 @@
 ---
 title: Playing for Success
-aliases: []
+aliases:
+  - Playing for Success计划
 summary: "英国依托足球俱乐部场地设立的学习支持中心项目，结合体育吸引力与课外辅导实践，后续成为教育证据聚合争议中的重要案例"
 type: fact
 subtype: event

@@ -1,6 +1,7 @@
 ---
 title: Theory Movement in Educational Administration
-aliases: []
+aliases:
+  - 教育行政理论运动
 summary: "1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战"
 type: fact
 subtype: event

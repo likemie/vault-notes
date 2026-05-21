@@ -1,6 +1,7 @@
 ---
 title: Visible Learning Branding and Global Influences
-aliases: []
+aliases:
+  - 可见学习品牌化与全球影响
 summary: "Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议"
 type: fact
 subtype: event

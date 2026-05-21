@@ -1,6 +1,7 @@
 ---
 title: EEF Teaching and Learning Toolkit
-aliases: []
+aliases:
+  - EEF教学与学习工具包
 summary: "英国 EEF 发布的教学干预比较工具，按成本、效果和证据强度汇总 30 多类策略，已广泛影响学校决策并持续引发方法论争议"
 type: fact
 subtype: policy

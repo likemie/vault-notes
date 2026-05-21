@@ -1,6 +1,8 @@
 ---
 title: Liberal Studies (Hong Kong)
-aliases: []
+aliases:
+  - 香港通识教育科
+  - LS
 summary: "2009–2021 年香港高中必修的通识教育科，跨学科议题为本探究，2021 年被公民科取代"
 type: fact
 subtype: policy

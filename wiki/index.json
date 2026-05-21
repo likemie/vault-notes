@@ -78,6 +78,15 @@
     ]
   },
   {
+    "title": "Discursive Opportunity Structures",
+    "path": "wiki/concepts/comparative-education/Discursive Opportunity Structures.md",
+    "aliases": [
+      "话语性机会结构",
+      "话语机会结构",
+      "discursive and institutional opportunity structures"
+    ]
+  },
+  {
     "title": "Externalization (Schriewer)",
     "path": "wiki/concepts/comparative-education/Externalization (Schriewer).md",
     "aliases": [
@@ -2114,7 +2123,10 @@
   },
   {
     "title": "Improvement Science",
-    "path": "wiki/methods/mixed/Improvement Science.md"
+    "path": "wiki/methods/mixed/Improvement Science.md",
+    "aliases": [
+      "改进科学"
+    ]
   },
   {
     "title": "Mixed Method and Multi-method Research",
@@ -2130,7 +2142,10 @@
   },
   {
     "title": "Spirals of Inquiry",
-    "path": "wiki/methods/mixed/Spirals of Inquiry.md"
+    "path": "wiki/methods/mixed/Spirals of Inquiry.md",
+    "aliases": [
+      "探究螺旋"
+    ]
   },
   {
     "title": "Carnivalesque Analysis",
@@ -2999,31 +3014,56 @@
   },
   {
     "title": "Australian Curriculum",
-    "path": "wiki/facts/australia/Australian Curriculum.md"
+    "path": "wiki/facts/australia/Australian Curriculum.md",
+    "aliases": [
+      "澳大利亚课程"
+    ]
   },
   {
     "title": "Gonski Reforms",
-    "path": "wiki/facts/australia/Gonski Reforms.md"
+    "path": "wiki/facts/australia/Gonski Reforms.md",
+    "aliases": [
+      "冈斯基改革"
+    ]
   },
   {
     "title": "Independent Public Schools (IPS) Western Australia",
-    "path": "wiki/facts/australia/Independent Public Schools (IPS) Western Australia.md"
+    "path": "wiki/facts/australia/Independent Public Schools (IPS) Western Australia.md",
+    "aliases": [
+      "西澳独立公立学校",
+      "IPS"
+    ]
   },
   {
     "title": "Karmel Report 1973",
-    "path": "wiki/facts/australia/Karmel Report 1973.md"
+    "path": "wiki/facts/australia/Karmel Report 1973.md",
+    "aliases": [
+      "卡梅尔报告"
+    ]
   },
   {
     "title": "Local Schools Local Decisions (NSW)",
-    "path": "wiki/facts/australia/Local Schools Local Decisions (NSW).md"
+    "path": "wiki/facts/australia/Local Schools Local Decisions (NSW).md",
+    "aliases": [
+      "地方学校地方决策",
+      "LSLD"
+    ]
   },
   {
     "title": "My School Website",
-    "path": "wiki/facts/australia/My School Website.md"
+    "path": "wiki/facts/australia/My School Website.md",
+    "aliases": [
+      "My School",
+      "我的学校网站"
+    ]
   },
   {
     "title": "Victorian HITS and Literacy Toolkit 2017",
-    "path": "wiki/facts/australia/Victorian HITS and Literacy Toolkit 2017.md"
+    "path": "wiki/facts/australia/Victorian HITS and Literacy Toolkit 2017.md",
+    "aliases": [
+      "维州HITS与读写工具包",
+      "HITS"
+    ]
   },
   {
     "title": "Academic Ranking of World Universities (ARWU)",
@@ -3047,7 +3087,11 @@
   },
   {
     "title": "ECNU Declaration on Evidence-Based Research 2017",
-    "path": "wiki/facts/china/ECNU Declaration on Evidence-Based Research 2017.md"
+    "path": "wiki/facts/china/ECNU Declaration on Evidence-Based Research 2017.md",
+    "aliases": [
+      "华东师大循证研究宣言",
+      "华东师范大学循证研究宣言"
+    ]
   },
   {
     "title": "Great Firewall of China",
@@ -3060,7 +3104,10 @@
   },
   {
     "title": "Late Qing Borrowing of Japanese Education",
-    "path": "wiki/facts/china/Late Qing Borrowing of Japanese Education.md"
+    "path": "wiki/facts/china/Late Qing Borrowing of Japanese Education.md",
+    "aliases": [
+      "晚清借鉴日本教育"
+    ]
   },
   {
     "title": "Thousand Talents Program",
@@ -3100,15 +3147,24 @@
   },
   {
     "title": "Hattie på dansk 2017",
-    "path": "wiki/facts/denmark/Hattie på dansk 2017.md"
+    "path": "wiki/facts/denmark/Hattie på dansk 2017.md",
+    "aliases": [
+      "丹麦版可见学习"
+    ]
   },
   {
     "title": "SFI Report 2013",
-    "path": "wiki/facts/denmark/SFI Report 2013.md"
+    "path": "wiki/facts/denmark/SFI Report 2013.md",
+    "aliases": [
+      "SFI报告2013"
+    ]
   },
   {
     "title": "Danish Public School Reform 2014",
-    "path": "wiki/facts/denmark/Danish Public School Reform 2014.md"
+    "path": "wiki/facts/denmark/Danish Public School Reform 2014.md",
+    "aliases": [
+      "丹麦公立学校改革2014"
+    ]
   },
   {
     "title": "YOUNG_ADULLLT",
@@ -3138,11 +3194,19 @@
   },
   {
     "title": "Horizon 2020 SSH Integration",
-    "path": "wiki/facts/eu/Horizon 2020 SSH Integration.md"
+    "path": "wiki/facts/eu/Horizon 2020 SSH Integration.md",
+    "aliases": [
+      "地平线2020 SSH整合",
+      "Horizon 2020 SSH"
+    ]
   },
   {
     "title": "Horizon Europe Missions",
-    "path": "wiki/facts/eu/Horizon Europe Missions.md"
+    "path": "wiki/facts/eu/Horizon Europe Missions.md",
+    "aliases": [
+      "地平线欧洲使命",
+      "Horizon Europe Missions"
+    ]
   },
   {
     "title": "Innovation Union",
@@ -3162,15 +3226,25 @@
   },
   {
     "title": "SveaSus Project",
-    "path": "wiki/facts/finland/SveaSus Project.md"
+    "path": "wiki/facts/finland/SveaSus Project.md",
+    "aliases": [
+      "SveaSus项目"
+    ]
   },
   {
     "title": "Finnish National Core Curriculum 2014",
-    "path": "wiki/facts/finland/Finnish National Core Curriculum 2014.md"
+    "path": "wiki/facts/finland/Finnish National Core Curriculum 2014.md",
+    "aliases": [
+      "芬兰国家核心课程2014"
+    ]
   },
   {
     "title": "Education at a Glance (EAG)",
-    "path": "wiki/facts/global/Education at a Glance (EAG).md"
+    "path": "wiki/facts/global/Education at a Glance (EAG).md",
+    "aliases": [
+      "教育概览",
+      "EAG"
+    ]
   },
   {
     "title": "Education City Doha",
@@ -3182,7 +3256,10 @@
   },
   {
     "title": "INES Lugano General Assembly 1991",
-    "path": "wiki/facts/global/INES Lugano General Assembly 1991.md"
+    "path": "wiki/facts/global/INES Lugano General Assembly 1991.md",
+    "aliases": [
+      "INES卢加诺大会1991"
+    ]
   },
   {
     "title": "International Baccalaureate (IB)",
@@ -3197,15 +3274,25 @@
   },
   {
     "title": "International Indicators of Education Systems (INES)",
-    "path": "wiki/facts/global/International Indicators of Education Systems (INES).md"
+    "path": "wiki/facts/global/International Indicators of Education Systems (INES).md",
+    "aliases": [
+      "国际教育系统指标",
+      "INES"
+    ]
   },
   {
     "title": "ISSPP Project",
-    "path": "wiki/facts/global/ISSPP Project.md"
+    "path": "wiki/facts/global/ISSPP Project.md",
+    "aliases": [
+      "ISSPP项目"
+    ]
   },
   {
     "title": "Minerva University",
-    "path": "wiki/facts/global/Minerva University.md"
+    "path": "wiki/facts/global/Minerva University.md",
+    "aliases": [
+      "密涅瓦大学"
+    ]
   },
   {
     "title": "OECD AHELO Project",
@@ -3226,7 +3313,10 @@
   },
   {
     "title": "Regional University Alliances",
-    "path": "wiki/facts/global/Regional University Alliances.md"
+    "path": "wiki/facts/global/Regional University Alliances.md",
+    "aliases": [
+      "区域大学联盟"
+    ]
   },
   {
     "title": "Australia in the Asian Century White Paper 2012",
@@ -3250,7 +3340,10 @@
   },
   {
     "title": "OECD Improving School Leadership Project 2006",
-    "path": "wiki/facts/global/OECD Improving School Leadership Project 2006.md"
+    "path": "wiki/facts/global/OECD Improving School Leadership Project 2006.md",
+    "aliases": [
+      "OECD改进学校领导力项目"
+    ]
   },
   {
     "title": "THE Impact Ranking 2019",
@@ -3273,11 +3366,17 @@
   },
   {
     "title": "2012 Moral and National Education Controversy",
-    "path": "wiki/facts/hongkong/2012 Moral and National Education Controversy.md"
+    "path": "wiki/facts/hongkong/2012 Moral and National Education Controversy.md",
+    "aliases": [
+      "2012国民教育争议"
+    ]
   },
   {
     "title": "2019 Hong Kong Protests and Education",
-    "path": "wiki/facts/hongkong/2019 Hong Kong Protests and Education.md"
+    "path": "wiki/facts/hongkong/2019 Hong Kong Protests and Education.md",
+    "aliases": [
+      "2019香港抗议与教育"
+    ]
   },
   {
     "title": "English Schools Foundation Hong Kong",
@@ -3290,11 +3389,17 @@
   },
   {
     "title": "National Security Law Impact on Hong Kong Education",
-    "path": "wiki/facts/hongkong/National Security Law Impact on Hong Kong Education.md"
+    "path": "wiki/facts/hongkong/National Security Law Impact on Hong Kong Education.md",
+    "aliases": [
+      "国安法对香港教育的影响"
+    ]
   },
   {
     "title": "Replacement of LS by CSD 2021",
-    "path": "wiki/facts/hongkong/Replacement of LS by CSD 2021.md"
+    "path": "wiki/facts/hongkong/Replacement of LS by CSD 2021.md",
+    "aliases": [
+      "2021通识改公民与社会发展"
+    ]
   },
   {
     "title": "Symposium on International Teaching 2007",
@@ -3305,19 +3410,33 @@
   },
   {
     "title": "Citizenship and Social Development (Hong Kong)",
-    "path": "wiki/facts/hongkong/Citizenship and Social Development (Hong Kong).md"
+    "path": "wiki/facts/hongkong/Citizenship and Social Development (Hong Kong).md",
+    "aliases": [
+      "公民与社会发展科",
+      "CSD"
+    ]
   },
   {
     "title": "Introduction of Liberal Studies 2009",
-    "path": "wiki/facts/hongkong/Introduction of Liberal Studies 2009.md"
+    "path": "wiki/facts/hongkong/Introduction of Liberal Studies 2009.md",
+    "aliases": [
+      "2009通识教育科引入"
+    ]
   },
   {
     "title": "Liberal Studies (Hong Kong)",
-    "path": "wiki/facts/hongkong/Liberal Studies (Hong Kong).md"
+    "path": "wiki/facts/hongkong/Liberal Studies (Hong Kong).md",
+    "aliases": [
+      "香港通识教育科",
+      "LS"
+    ]
   },
   {
     "title": "National Education in Hong Kong",
-    "path": "wiki/facts/hongkong/National Education in Hong Kong.md"
+    "path": "wiki/facts/hongkong/National Education in Hong Kong.md",
+    "aliases": [
+      "香港国民教育"
+    ]
   },
   {
     "title": "Kokutai no Hongi (1937)",
@@ -3346,59 +3465,106 @@
   },
   {
     "title": "Best Evidence in Brief (BEiB)",
-    "path": "wiki/facts/multi/Best Evidence in Brief (BEiB).md"
+    "path": "wiki/facts/multi/Best Evidence in Brief (BEiB).md",
+    "aliases": [
+      "最佳证据简报",
+      "BEiB"
+    ]
   },
   {
     "title": "Manaiakalani Education Trust (NZ 2011)",
-    "path": "wiki/facts/newzealand/Manaiakalani Education Trust (NZ 2011).md"
+    "path": "wiki/facts/newzealand/Manaiakalani Education Trust (NZ 2011).md",
+    "aliases": [
+      "Manaiakalani教育信托"
+    ]
   },
   {
     "title": "Partnership Schools Kura Hourua (NZ 2011)",
-    "path": "wiki/facts/newzealand/Partnership Schools Kura Hourua (NZ 2011).md"
+    "path": "wiki/facts/newzealand/Partnership Schools Kura Hourua (NZ 2011).md",
+    "aliases": [
+      "伙伴学校Kura Hourua",
+      "特许学校"
+    ]
   },
   {
     "title": "Teach First New Zealand Ako Mātātupu (TFNZ 2011)",
-    "path": "wiki/facts/newzealand/Teach First New Zealand (TFNZ 2011).md"
+    "path": "wiki/facts/newzealand/Teach First New Zealand (TFNZ 2011).md",
+    "aliases": [
+      "Teach First新西兰",
+      "TFNZ"
+    ]
   },
   {
     "title": "Treasury Briefing on Student-Teacher Ratios (NZ 2011)",
-    "path": "wiki/facts/newzealand/Treasury Briefing on Student-Teacher Ratios (NZ 2011).md"
+    "path": "wiki/facts/newzealand/Treasury Briefing on Student-Teacher Ratios (NZ 2011).md",
+    "aliases": [
+      "财政部师生比简报"
+    ]
   },
   {
     "title": "Visible Learning Branding and Global Influences",
-    "path": "wiki/facts/newzealand/Visible Learning Branding and Global Influences.md"
+    "path": "wiki/facts/newzealand/Visible Learning Branding and Global Influences.md",
+    "aliases": [
+      "可见学习品牌化与全球影响"
+    ]
   },
   {
     "title": "Contestable School Support Services (NZ 2011)",
-    "path": "wiki/facts/newzealand/Contestable School Support Services (NZ 2011).md"
+    "path": "wiki/facts/newzealand/Contestable School Support Services (NZ 2011).md",
+    "aliases": [
+      "可竞争学校支持服务"
+    ]
   },
   {
     "title": "Foundation North Māori and Pasifika Education Initiative (MPEI 2009)",
-    "path": "wiki/facts/newzealand/Foundation North Māori and Pasifika Education Initiative (MPEI 2009).md"
+    "path": "wiki/facts/newzealand/Foundation North Māori and Pasifika Education Initiative (MPEI 2009).md",
+    "aliases": [
+      "北方基金会毛利与太平洋岛民教育计划",
+      "MPEI"
+    ]
   },
   {
     "title": "Learning for Life Report 1989",
-    "path": "wiki/facts/newzealand/Learning for Life Report 1989.md"
+    "path": "wiki/facts/newzealand/Learning for Life Report 1989.md",
+    "aliases": [
+      "为生活而学习报告"
+    ]
   },
   {
     "title": "New Zealand National Standards (2009)",
-    "path": "wiki/facts/newzealand/New Zealand National Standards (2009).md"
+    "path": "wiki/facts/newzealand/New Zealand National Standards (2009).md",
+    "aliases": [
+      "新西兰国家标准"
+    ]
   },
   {
     "title": "The New Zealand Curriculum",
-    "path": "wiki/facts/newzealand/The New Zealand Curriculum.md"
+    "path": "wiki/facts/newzealand/The New Zealand Curriculum.md",
+    "aliases": [
+      "新西兰课程"
+    ]
   },
   {
     "title": "The Scott Report 1986",
-    "path": "wiki/facts/newzealand/The Scott Report 1986.md"
+    "path": "wiki/facts/newzealand/The Scott Report 1986.md",
+    "aliases": [
+      "斯科特报告"
+    ]
   },
   {
     "title": "Tomorrow's Schools Reforms (NZ 1989)",
-    "path": "wiki/facts/newzealand/Tomorrow's Schools Reforms (NZ 1989).md"
+    "path": "wiki/facts/newzealand/Tomorrow's Schools Reforms (NZ 1989).md",
+    "aliases": [
+      "明日学校改革",
+      "Tomorrow's Schools"
+    ]
   },
   {
     "title": "Russian Translation of Visible Learning 2017",
-    "path": "wiki/facts/russia/Russian Translation of Visible Learning 2017.md"
+    "path": "wiki/facts/russia/Russian Translation of Visible Learning 2017.md",
+    "aliases": [
+      "俄文版可见学习"
+    ]
   },
   {
     "title": "Singapore Education Hub Policy",
@@ -3413,7 +3579,10 @@
   },
   {
     "title": "Visible Learning in Sweden",
-    "path": "wiki/facts/sweden/Visible Learning in Sweden.md"
+    "path": "wiki/facts/sweden/Visible Learning in Sweden.md",
+    "aliases": [
+      "瑞典的可见学习"
+    ]
   },
   {
     "title": "UAE Education Hub Projects",
@@ -3435,155 +3604,288 @@
   },
   {
     "title": "Hargreaves 1996 TTA Lecture",
-    "path": "wiki/facts/uk/Hargreaves 1996 TTA Lecture.md"
+    "path": "wiki/facts/uk/Hargreaves 1996 TTA Lecture.md",
+    "aliases": [
+      "哈格里夫斯1996年TTA演讲"
+    ]
   },
   {
     "title": "Playing for Success",
-    "path": "wiki/facts/uk/Playing for Success.md"
+    "path": "wiki/facts/uk/Playing for Success.md",
+    "aliases": [
+      "Playing for Success计划"
+    ]
   },
   {
     "title": "ResearchED",
-    "path": "wiki/facts/uk/ResearchED.md"
+    "path": "wiki/facts/uk/ResearchED.md",
+    "aliases": [
+      "ResearchED",
+      "研究ED"
+    ]
   },
   {
     "title": "Education and Inspections Act 2006",
-    "path": "wiki/facts/uk/Education and Inspections Act 2006.md"
+    "path": "wiki/facts/uk/Education and Inspections Act 2006.md",
+    "aliases": [
+      "2006教育与督察法案"
+    ]
   },
   {
     "title": "EEF Teaching and Learning Toolkit",
-    "path": "wiki/facts/uk/EEF Teaching and Learning Toolkit.md"
+    "path": "wiki/facts/uk/EEF Teaching and Learning Toolkit.md",
+    "aliases": [
+      "EEF教学与学习工具包"
+    ]
   },
   {
     "title": "Eleven-plus Exam",
-    "path": "wiki/facts/uk/Eleven-plus Exam.md"
+    "path": "wiki/facts/uk/Eleven-plus Exam.md",
+    "aliases": [
+      "11+考试",
+      "Eleven-plus"
+    ]
   },
   {
     "title": "Grammar School",
-    "path": "wiki/facts/uk/Grammar School.md"
+    "path": "wiki/facts/uk/Grammar School.md",
+    "aliases": [
+      "文法学校"
+    ]
   },
   {
     "title": "Ofsted",
-    "path": "wiki/facts/uk/Ofsted.md"
+    "path": "wiki/facts/uk/Ofsted.md",
+    "aliases": [
+      "英国教育标准办公室",
+      "OFSTED"
+    ]
   },
   {
     "title": "Rose Report 2006",
-    "path": "wiki/facts/uk/Rose Report 2006.md"
+    "path": "wiki/facts/uk/Rose Report 2006.md",
+    "aliases": [
+      "罗斯报告"
+    ]
   },
   {
     "title": "Selective Schools Expansion Fund 2018",
-    "path": "wiki/facts/uk/Selective Schools Expansion Fund 2018.md"
+    "path": "wiki/facts/uk/Selective Schools Expansion Fund 2018.md",
+    "aliases": [
+      "选择性学校扩张基金"
+    ]
   },
   {
     "title": "What Works Network (UK)",
-    "path": "wiki/facts/uk/What Works Network (UK).md"
+    "path": "wiki/facts/uk/What Works Network (UK).md",
+    "aliases": [
+      "英国What Works网络"
+    ]
   },
   {
     "title": "A Nation at Risk 1983",
-    "path": "wiki/facts/us/A Nation at Risk 1983.md"
+    "path": "wiki/facts/us/A Nation at Risk 1983.md",
+    "aliases": [
+      "国家处于危险中"
+    ]
   },
   {
     "title": "American Attraction to Japanese Education 1980s",
-    "path": "wiki/facts/us/American Attraction to Japanese Education 1980s.md"
+    "path": "wiki/facts/us/American Attraction to Japanese Education 1980s.md",
+    "aliases": [
+      "1980年代美国对日本教育的兴趣"
+    ]
   },
   {
     "title": "Best Evidence Encyclopedia (BEE)",
-    "path": "wiki/facts/us/Best Evidence Encyclopedia (BEE).md"
+    "path": "wiki/facts/us/Best Evidence Encyclopedia (BEE).md",
+    "aliases": [
+      "最佳证据百科",
+      "BEE"
+    ]
   },
   {
     "title": "Blueprints for Healthy Youth Development",
-    "path": "wiki/facts/us/Blueprints for Healthy Youth Development.md"
+    "path": "wiki/facts/us/Blueprints for Healthy Youth Development.md",
+    "aliases": [
+      "健康青年发展蓝图"
+    ]
   },
   {
     "title": "California Class Size Reduction 1996",
-    "path": "wiki/facts/us/California Class Size Reduction 1996.md"
+    "path": "wiki/facts/us/California Class Size Reduction 1996.md",
+    "aliases": [
+      "加州缩小班额政策"
+    ]
   },
   {
     "title": "California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)",
-    "path": "wiki/facts/us/California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC).md"
+    "path": "wiki/facts/us/California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC).md",
+    "aliases": [
+      "加州儿童社会与经济福祉循证清算中心",
+      "CEBC"
+    ]
   },
   {
     "title": "Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)",
-    "path": "wiki/facts/us/Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR).md"
+    "path": "wiki/facts/us/Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR).md",
+    "aliases": [
+      "军人家庭准备证据清算中心",
+      "CMFR"
+    ]
   },
   {
     "title": "CNCS Evidence Exchange (EE)",
-    "path": "wiki/facts/us/CNCS Evidence Exchange (EE).md"
+    "path": "wiki/facts/us/CNCS Evidence Exchange (EE).md",
+    "aliases": [
+      "CNCS证据交流平台",
+      "EE"
+    ]
   },
   {
     "title": "Coleman Report 1966",
-    "path": "wiki/facts/us/Coleman Report 1966.md"
+    "path": "wiki/facts/us/Coleman Report 1966.md",
+    "aliases": [
+      "科尔曼报告"
+    ]
   },
   {
     "title": "Collaborative for Academic Social and Emotional Learning Guide (CASEL)",
-    "path": "wiki/facts/us/Collaborative for Academic Social and Emotional Learning Guide (CASEL).md"
+    "path": "wiki/facts/us/Collaborative for Academic Social and Emotional Learning Guide (CASEL).md",
+    "aliases": [
+      "学术社会与情感学习协作组织指南",
+      "CASEL"
+    ]
   },
   {
     "title": "Communities in Schools (CIS)",
-    "path": "wiki/facts/us/Communities in Schools (CIS).md"
+    "path": "wiki/facts/us/Communities in Schools (CIS).md",
+    "aliases": [
+      "学校中的社区",
+      "CIS"
+    ]
   },
   {
     "title": "Creation of REES 2018",
-    "path": "wiki/facts/us/Creation of REES 2018.md"
+    "path": "wiki/facts/us/Creation of REES 2018.md",
+    "aliases": [
+      "REES设立"
+    ]
   },
   {
     "title": "Daubert v. Merrell Dow Pharmaceuticals (1993)",
-    "path": "wiki/facts/us/Daubert v Merrell Dow Pharmaceuticals 1993.md"
+    "path": "wiki/facts/us/Daubert v Merrell Dow Pharmaceuticals 1993.md",
+    "aliases": [
+      "道伯特诉默雷尔道制药案",
+      "Daubert案"
+    ]
   },
   {
     "title": "ESSA 2015 Evidence Standards",
-    "path": "wiki/facts/us/ESSA 2015 Evidence Standards.md"
+    "path": "wiki/facts/us/ESSA 2015 Evidence Standards.md",
+    "aliases": [
+      "ESSA证据标准"
+    ]
   },
   {
     "title": "Home Visiting Evidence of Effectiveness (HomVEE)",
-    "path": "wiki/facts/us/Home Visiting Evidence of Effectiveness (HomVEE).md"
+    "path": "wiki/facts/us/Home Visiting Evidence of Effectiveness (HomVEE).md",
+    "aliases": [
+      "家访效果证据",
+      "HomVEE"
+    ]
   },
   {
     "title": "Investing in Innovation (i3) Program",
-    "path": "wiki/facts/us/Investing in Innovation (i3) Program.md"
+    "path": "wiki/facts/us/Investing in Innovation (i3) Program.md",
+    "aliases": [
+      "创新投资项目",
+      "i3"
+    ]
   },
   {
     "title": "National Dropout Prevention Center (NDPC)",
-    "path": "wiki/facts/us/National Dropout Prevention Center (NDPC).md"
+    "path": "wiki/facts/us/National Dropout Prevention Center (NDPC).md",
+    "aliases": [
+      "全国防辍学中心",
+      "NDPC"
+    ]
   },
   {
     "title": "Open Court Reading",
-    "path": "wiki/facts/us/Open Court Reading.md"
+    "path": "wiki/facts/us/Open Court Reading.md",
+    "aliases": [
+      "Open Court阅读教材"
+    ]
   },
   {
     "title": "Peer-Assisted Learning Strategies (PALS)",
-    "path": "wiki/facts/us/Peer-Assisted Learning Strategies (PALS).md"
+    "path": "wiki/facts/us/Peer-Assisted Learning Strategies (PALS).md",
+    "aliases": [
+      "同伴辅助学习策略",
+      "PALS"
+    ]
   },
   {
     "title": "Promise Neighborhoods Research Consortium (PNRC)",
-    "path": "wiki/facts/us/Promise Neighborhoods Research Consortium (PNRC).md"
+    "path": "wiki/facts/us/Promise Neighborhoods Research Consortium (PNRC).md",
+    "aliases": [
+      "希望社区研究联盟",
+      "PNRC"
+    ]
   },
   {
     "title": "Promising Practices Network (PPN)",
-    "path": "wiki/facts/us/Promising Practices Network (PPN).md"
+    "path": "wiki/facts/us/Promising Practices Network (PPN).md",
+    "aliases": [
+      "经验做法网络",
+      "PPN"
+    ]
   },
   {
     "title": "Quantum Opportunity Program (QOP)",
-    "path": "wiki/facts/us/Quantum Opportunity Program (QOP).md"
+    "path": "wiki/facts/us/Quantum Opportunity Program (QOP).md",
+    "aliases": [
+      "量子机会计划",
+      "QOP"
+    ]
   },
   {
     "title": "Social Programs That Work (SPTW)",
-    "path": "wiki/facts/us/Social Programs That Work (SPTW).md"
+    "path": "wiki/facts/us/Social Programs That Work (SPTW).md",
+    "aliases": [
+      "有效社会项目",
+      "SPTW"
+    ]
   },
   {
     "title": "Sputnik Shock 1957",
-    "path": "wiki/facts/us/Sputnik Shock 1957.md"
+    "path": "wiki/facts/us/Sputnik Shock 1957.md",
+    "aliases": [
+      "斯普特尼克冲击"
+    ]
   },
   {
     "title": "Success for All",
-    "path": "wiki/facts/us/Success for All.md"
+    "path": "wiki/facts/us/Success for All.md",
+    "aliases": [
+      "全面成功计划"
+    ]
   },
   {
     "title": "Tennessee STAR Project 1985-1989",
-    "path": "wiki/facts/us/Tennessee STAR Project 1985-1989.md"
+    "path": "wiki/facts/us/Tennessee STAR Project 1985-1989.md",
+    "aliases": [
+      "田纳西STAR项目",
+      "STAR"
+    ]
   },
   {
     "title": "Theory Movement in Educational Administration",
-    "path": "wiki/facts/us/Theory Movement in Educational Administration.md"
+    "path": "wiki/facts/us/Theory Movement in Educational Administration.md",
+    "aliases": [
+      "教育行政理论运动"
+    ]
   },
   {
     "title": "University of Kentucky Top-20 Plan",
@@ -3603,19 +3905,35 @@
   },
   {
     "title": "What Works Clearinghouse (WWC)",
-    "path": "wiki/facts/us/What Works Clearinghouse (WWC).md"
+    "path": "wiki/facts/us/What Works Clearinghouse (WWC).md",
+    "aliases": [
+      "何者有效清算中心",
+      "WWC"
+    ]
   },
   {
     "title": "Comprehensive School Reform (CSR) Program",
-    "path": "wiki/facts/us/Comprehensive School Reform (CSR) Program.md"
+    "path": "wiki/facts/us/Comprehensive School Reform (CSR) Program.md",
+    "aliases": [
+      "综合学校改革项目",
+      "CSR"
+    ]
   },
   {
     "title": "No Child Left Behind Act 2001",
-    "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
+    "path": "wiki/facts/us/No Child Left Behind Act 2001.md",
+    "aliases": [
+      "不让一个孩子掉队法案",
+      "NCLB"
+    ]
   },
   {
     "title": "WWC SCD Pilot Standards 2010",
-    "path": "wiki/facts/us/WWC SCD Pilot Standards 2010.md"
+    "path": "wiki/facts/us/WWC SCD Pilot Standards 2010.md",
+    "aliases": [
+      "WWC单一个案设计试行标准",
+      "WWC SCD标准"
+    ]
   },
   {
     "title": "Argument_Zelinka_2022_SCD_subjectivity",

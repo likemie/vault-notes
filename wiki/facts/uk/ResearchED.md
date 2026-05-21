@@ -1,6 +1,8 @@
 ---
 title: ResearchED
-aliases: []
+aliases:
+  - ResearchED
+  - 研究ED
 summary: "2013 年英国兴起的教师草根运动，主张以研究证据尤其随机试验支持课堂实践，推动证据本位教学的公共传播与制度争论"
 type: fact
 subtype: event

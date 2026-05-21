@@ -1,6 +1,7 @@
 ---
 title: INES Lugano General Assembly 1991
-aliases: []
+aliases:
+  - INES卢加诺大会1991
 summary: "INES 第二届全体大会，科学家-政策制定者权力关系的分水岭：政策制定者强行将学生成绩数据纳入 EAG"
 type: fact
 subtype: event

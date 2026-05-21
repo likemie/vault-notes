@@ -1,6 +1,7 @@
 ---
 title: Danish Public School Reform 2014
-aliases: []
+aliases:
+  - 丹麦公立学校改革2014
 summary: "丹麦议会多数通过公立学校改革，以学习目标替代科目目标，明确引用 Hattie VL，引发教师和研究者的强烈反对"
 type: fact
 subtype: policy

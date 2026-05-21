@@ -1,6 +1,7 @@
 ---
 title: Success for All
-aliases: []
+aliases:
+  - 全面成功计划
 summary: "Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断"
 type: fact
 subtype: event

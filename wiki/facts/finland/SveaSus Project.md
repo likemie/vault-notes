@@ -1,6 +1,7 @@
 ---
 title: SveaSus Project
-aliases: []
+aliases:
+  - SveaSus项目
 summary: "赫尔辛基大学 2018–2023 年现象本位学习项目，以 Suomenlinna 世界遗产地为学习环境探索可持续性、具身、艺术本位和多语学习"
 type: fact
 subtype: event

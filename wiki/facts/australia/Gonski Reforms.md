@@ -1,6 +1,7 @@
 ---
 title: Gonski Reforms
-aliases: []
+aliases:
+  - 冈斯基改革
 summary: "2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于\"不让任何学校更糟\"条款"
 type: fact
 subtype: policy

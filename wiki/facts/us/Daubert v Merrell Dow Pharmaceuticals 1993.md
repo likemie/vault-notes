@@ -1,6 +1,8 @@
 ---
 title: Daubert v. Merrell Dow Pharmaceuticals (1993)
-aliases: []
+aliases:
+  - 道伯特诉默雷尔道制药案
+  - Daubert案
 summary: "美国联邦最高法院里程碑裁决，确立科学证据可采性标准，Berk (2011) 引入评估研究方法论讨论以框架化证据与垃圾科学的区分"
 type: fact
 subtype: event

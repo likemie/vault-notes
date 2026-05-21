@@ -1,6 +1,8 @@
 ---
 title: Investing in Innovation (i3) Program
-aliases: []
+aliases:
+  - 创新投资项目
+  - i3
 summary: "2009–2016 年美国教育部 USD 1.4B 分层拨款项目，以开发→验证→规模化结构推动教育 RCT 证据生产"
 type: fact
 subtype: event
