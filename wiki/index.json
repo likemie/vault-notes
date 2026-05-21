@@ -2028,8 +2028,8 @@
     "title": "Governmentality",
     "path": "wiki/theories/political-economy-geopolitics/Governmentality.md",
     "aliases": [
-      "治理性",
       "治理术",
+      "治理性",
       "gouvernementalité",
       "conduct of conduct",
       "行为的引导"
@@ -2183,6 +2183,15 @@
     "path": "wiki/methods/qualitative/Constructivist Grounded Theory.md",
     "aliases": [
       "建构主义扎根理论"
+    ]
+  },
+  {
+    "title": "Critical Companion",
+    "path": "wiki/methods/qualitative/Critical Companion.md",
+    "aliases": [
+      "批判性伴随",
+      "critical companion approach",
+      "批判性伴随方法"
     ]
   },
   {
