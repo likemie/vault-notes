@@ -18,6 +18,7 @@ tags:
 related_concepts:
 - '[[Heart and Mind for Wanting to Learn]]'
 - '[[Chinese Learner]]'
+- '[[Enculturation]]'
 related_theories: []
 related_methods: []
 related_persons:

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/persons/china/Jin Li.md",
+                "file": "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jin Li"
+              "title": "Argument_Li_2012_Cambridge"
             }
           }
         ]
@@ -189,8 +189,9 @@
   },
   "active": "05ff7f377a4eb1b1",
   "lastOpenFiles": [
-    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "wiki/concepts/sociology-of-education/Enculturation.md",
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
+    "wiki/persons/china/Jin Li.md",
     "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "information/Comparative Education_20260511_2026.md",
     "information/Comparative Education.md",
@@ -207,7 +208,6 @@
     "wiki/concepts/comparative-education/Chinese Learner.md",
     "wiki/concepts/comparative-education/Heart and Mind for Wanting to Learn.md",
     "wiki/facts/singapore/Singapore Education Hub Policy.md",
-    "wiki/persons/china/Jin Li.md",
     "sources/Hansen_2015_Paideia.md",
     "wiki/arguments/journal-articles/Argument_Hansen_2015_Paideia.md",
     "wiki/persons/norway/Thomas Nordahl.md",
