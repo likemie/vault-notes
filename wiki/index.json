@@ -1474,6 +1474,17 @@
     ]
   },
   {
+    "title": "Knowledge Mobilisation",
+    "path": "wiki/concepts/research-methodology/Knowledge Mobilisation.md",
+    "aliases": [
+      "知识动员",
+      "知识转译",
+      "KMb",
+      "knowledge mobilisation",
+      "knowledge mobilization"
+    ]
+  },
+  {
     "title": "Local Knowledge in Evidence-Based Policy",
     "path": "wiki/concepts/research-methodology/Local Knowledge in Evidence-Based Policy.md",
     "aliases": [
@@ -2729,6 +2740,14 @@
     "path": "wiki/persons/norway/Jorunn Møller.md",
     "aliases": [
       "约伦·默勒"
+    ]
+  },
+  {
+    "title": "Thomas Nordahl",
+    "path": "wiki/persons/norway/Thomas Nordahl.md",
+    "aliases": [
+      "托马斯·诺达尔",
+      "诺达尔"
     ]
   },
   {

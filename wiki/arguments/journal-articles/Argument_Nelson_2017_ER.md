@@ -18,7 +18,7 @@ tags:
 related_concepts:
 - '[[Evidence-Informed Practice (EIP)]]'
 - '[[Evidence-Based Education]]'
-- '[[Knowledge Mobilisation (KMb)]]'
+- '[[Knowledge Mobilisation]]'
 related_theories: []
 related_methods:
 - '[[Research Practice Partnerships (RPPs)]]'

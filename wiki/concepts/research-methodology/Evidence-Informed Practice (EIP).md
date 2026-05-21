@@ -15,7 +15,7 @@ tags:
 related_concepts:
 - '[[Evidence-Based Education]]'
 - '[[Local Knowledge in Evidence-Based Policy]]'
-- '[[Knowledge Mobilisation (KMb)]]'
+- '[[Knowledge Mobilisation]]'
 related_theories: []
 related_methods: []
 related_persons:
@@ -107,7 +107,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - **知识动员理论**：EIP 借鉴跨部门的知识动员（KMb）理论——研究知识如何被传播、翻译、中介并最终嵌入实践决策（参见 [[Knowledge Mobilisation (KMb)]]）
+> - **知识动员理论**：EIP 借鉴跨部门的知识动员理论——研究知识如何被传播、翻译、中介并最终嵌入实践决策（参见 [[Knowledge Mobilisation]]）
 > - **专业判断的认识论**：EIP 预设教学是一种需要情境化判断的专业实践，而非技术性执行——证据提供信息但不替代判断
 
 ## 实证发现

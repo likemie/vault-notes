@@ -14,7 +14,7 @@ tags:
 - region/uk
 related_concepts:
 - '[[Evidence-Informed Practice (EIP)]]'
-- '[[Knowledge Mobilisation (KMb)]]'
+- '[[Knowledge Mobilisation]]'
 related_theories: []
 related_methods: []
 related_persons:

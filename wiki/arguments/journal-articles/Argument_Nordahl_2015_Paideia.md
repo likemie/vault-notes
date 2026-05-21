@@ -16,12 +16,14 @@ related_concepts:
 - '[[Visible Learning]]'
 - '[[Evidence-Based Education]]'
 - '[[Professional Judgment]]'
+- '[[Knowledge Mobilisation]]'
 - '[[New Public Management]]'
 related_theories: []
 related_methods: []
 related_persons:
 - '[[John Hattie]]'
 - '[[Gert Biesta]]'
+- '[[Thomas Nordahl]]'
 related_facts:
 - '[[No Child Left Behind Act 2001]]'
 related_arguments:
@@ -48,6 +50,7 @@ updated: '2026-05-21'
 > - [[Visible Learning]] — 学习结果被放到学校改进的中心位置。关键不是背诵干预排名，而是承认“不同教学做法带来的学习效果并不一样”，所以学校必须持续比较哪些做法更可能推动学生进步（Nordahl, 2015, pp.61–64）。
 > - [[Evidence-Based Education]] — 循证被理解为“提高成功概率”的知识取向，而不是保证任何课堂都自动成功的万能公式。研究证据的作用，是减少完全凭运气或习惯行事的空间（Nordahl, 2015, pp.63–64）。
 > - [[Professional Judgment]] — 专业判断不是研究证据的对立面。更稳妥的判断，恰恰需要把研究知识、反思和情境判断放在一起，而不是只依赖个人直觉（Nordahl, 2015, pp.64–65）。
+> - [[Knowledge Mobilisation]] — 研究知识不会自动进入课堂，而要经过翻译、协作与组织支持，才能转成教师行动（Nordahl, 2015, pp.66–67）。
 > - [[New Public Management]] — 单纯依靠 top-down 控制、测试压力和绩效激励，难以把学校真正改进到课堂层面。更可行的路径，是把改进重心放到教师知识、协作和知识转化上（Nordahl, 2015, pp.65–67）。
 
 ## 研究方法
