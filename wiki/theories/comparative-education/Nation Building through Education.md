@@ -29,7 +29,7 @@ related_arguments:
 sources:
 - '[[Yan_2025_JCS]]'
 - '[[Ch4_Amos_2022]]'
-- '[[10.1080_03050068.2023.2273641]]'
+- '[[Yu_2024_CE]]'
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -133,4 +133,4 @@ updated: '2026-05-21'
 ## 来源
 
 - [[Yan_2025_JCS]]
-- [[10.1080_03050068.2023.2273641]]
+- [[Yu_2024_CE]]
