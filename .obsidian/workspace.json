@@ -11,12 +11,14 @@
             "id": "f49437b00d1a74a8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.pdf"
+                "file": "wiki/arguments/books/Argument_Zelinka_2022_SCD_subjectivity.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Ch2_Moisio_2022"
+              "icon": "lucide-file",
+              "title": "Argument_Zelinka_2022_SCD_subjectivity"
             }
           }
         ]
@@ -187,8 +189,9 @@
   },
   "active": "f49437b00d1a74a8",
   "lastOpenFiles": [
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch15_Zelinka_2022.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.pdf",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md",
     "wiki/concepts/political-economy-geopolitics/Economic and Industrial Espionage.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022.md",
