@@ -5,6 +5,13 @@ extracted_to:
 - "[[Jin Li]]"
 - "[[Enculturation]]"
 - "[[Argument_Li_2012_Cambridge]]"
+- "[[Ren]]"
+- "[[Self-Cultivation]]"
+- "[[Junzi]]"
+- "[[Five Cardinal Relationships]]"
+- "[[Filial Piety]]"
+- "[[Li (Propriety)]]"
+- "[[Learning Virtues]]"
 processed_date: 2026-05-21
 ---
 
