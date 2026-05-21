@@ -137,6 +137,7 @@ updated: '2026-05-21'
 > [!abstract] 主要著作
 > - Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement*. Routledge. — 奠基性著作，以效应量排名 150+ 教学干预
 > - Hattie, J., & Yates, G. (2014). *Visible learning and the science of how we learn*. Routledge. [丹麦语译本：*Synlig læring og læringens anatomi*, Dafolo, 2014.] — 与认知科学家 Yates 合作，从脑科学和认知心理学角度阐述九条学习原则
+> - Hattie, J. (2015). Synlig læring i dag. *Paideia, 9*, 9-21. — 回顾 Visible Learning 的形成过程并回应效应量、研究质量和学习概念等批评，强调“Know thy impact”不是教学法清单而是评价性专业判断
 > - Hattie, J. (2015). The applicability of Visible Learning to higher education. *Scholarship of Teaching and Learning in Psychology, 1*(1), 79–91. — 将 VL 框架应用于高等教育，提出六项关键发现、DIE 模型和八项教师思维框架
 > - Fisher, D., Frey, N., & Hattie, J. (2016). *Visible learning for literacy: Implementing the practices that work best to accelerate student learning*. Corwin Press. — 将 VL 框架扩展至读写教学
 > - Hattie, J., Masters, D., & Birch, K. (2016). *Visible learning into action: International case studies of impact*. Routledge. — 汇编 Visible Learning 实施案例，展示"影响"的证据
@@ -147,10 +148,11 @@ updated: '2026-05-21'
 
 > [!info] 核心思想
 > - **可见的教与学**："当教师成为自身教学的学习者、学生成为自身教师时，对学生学习产生最大效应"（Hattie, 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）
-> - **效应量铰链点 d=0.40**：以 d=0.40 为判断干预是否有效的阈值，所有低于此值的干预被视为无效（Hattie, 2009）。详见 [[Effect Size#Hattie 的铰链点 d=0.40 与影响气压计（2009）]]
+> - **效应量铰链点 d=0.40**：以 d=0.40 作为比较教育影响的经验参考点，而非脱离情境的硬性戒律；Hattie 后来强调低于 0.40 的效果仍需结合学段、结果类型和同类研究解释（Hattie, 2015, pp.11, 17）。详见 [[Effect Size#Hattie 的铰链点 d=0.40 与影响气压计（2009–2015）]]
 > - **"教师作为激活者 vs 促进者"的核心区分**：Hattie 基于其分析结果将教师角色分为两类——激活者（activator，d=0.60 平均）和促进者（facilitator，d=0.17 平均）（Hattie, 2009, p.243；[[Argument_Terhart_2011_JCS|Terhart, 2011]], p.433, Table 3）。激活者策略包括交互教学（d=0.74）、反馈（d=0.72）、元认知策略（d=0.67）、直接教学（d=0.59）、精熟学习（d=0.57）；促进者策略包括模拟与游戏（d=0.32）、探究式教学（d=0.31）、小班教学（d=0.21）、问题式学习（d=0.15）、全语言（d=0.06）。Hattie 由此得出结论："建构主义是一种知识形式，但不是一种教学形式"（Hattie, 2009, p.243，引自 Terhart, 2011, p.433）
 > - 主张学习必须是"被学习者分享、承诺和理解的"（Hattie, 2009, p.23），以进步教育哲学的语言包装实证主义议程（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020]], p.34）
 > - **"Know thy impact"**：教师须以可见证据评估自身教学对学生成绩的影响——这成为 Visible Learning 的标志性口号（Hattie, Masters, & Birch, 2016, p.3）
+> - **评价者型教师**：Hattie (2015) 将“Know thy impact”解释为教师和学校的评价姿态：教师不是简单收集数据，而是解释证据、判断干预的价值和重要性，并与同事共同比较影响的大小、深度和覆盖范围（Hattie, 2015, pp.11-14）。这一点把他的思想从单纯的[[Effect Size|效应量]]排名推进到学校层面的 [[Professional Judgment]]，但具体统计争议仍应放在 [[Effect Size]] 和 [[Meta-meta-analysis]] 中处理。
 > - **学习结果的多重含义**：Qvortrup (2015) 指出 Hattie 同时使用 achievement、student achievement、learning、student learning、study outcome 和 school achievement 等词汇，且学习结果在 *Visible Learning* 中并非单一良定义概念；这不妨碍通过效应量比较相对效果，却意味着 VL 的总效应量很难说明测量的是表层知识、深层理解、社会能力还是概念性学习（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015]], p.27）
 > - **忠实执行**：强调对方案的一丝不苟的遵循——"它是脚本化的。逐字逐句。你永远不会知道它是脚本化的，而这是成功的一部分"（Knudsen, 2017, p.254）。Hattie 从咖啡连锁店授权经营模式中获取灵感——核心关注质量控制和法律合同（Knudsen, 2017, p.254）。在培训中，Hattie 称五人中仅一人通过认证，因为"几乎每个教师都想站起来讲自己的故事、轶事和课堂。我们不允许这样"（Knudsen, 2017, p.254）
 > - **证据与理论的关系**：在 Knudsen（2017, p.259）的访谈中，Hattie 明确反对丹麦 VL 序言中"教育终于变得 evidence-based 可以摆脱理论"的说法——"证据不意味着不应该有理论……证据是被解释的；证据通过镜头解释，那个镜头就是理论。理论是主导的"。他承认 VL"在理论方面相当缺乏"，但强调"我当然有非常强的教学模式"（Knudsen, 2017, pp.258–259）。他将证据定义为"被争夺的"（contested），不同人（教师、学生、同伴、家长、学校领导）根据自身视角做出不同解释；证据也可以与经验相关——"教师广泛的、经验性的证据也是合法的证据"（Knudsen, 2017, p.259）
@@ -300,6 +302,7 @@ updated: '2026-05-21'
 - [[Allerup_2015_Paideia]]
 - [[Fredens_2015_Paideia]]
 - [[Hattie_2015_SOTLP]]
+- [[Hattie_2015_Paideia]]
 - [[Laursen_2015_Paideia]]
 - [[Qvortrup_2015_Paideia]]
 - [[ONeill_2016_Report]]

@@ -165,6 +165,7 @@ updated: '2026-05-21'
 > [!success] 适用场景
 > - 当某一研究领域已积累大量[[Meta-analysis|元分析]]，再做新的元分析只是"more of the same"时，元-元分析提供了更高层次的综合视角（Terhart, 2011, p.436）
 > - 适合为政策制定者和实践者提供关于"什么有效"的宏观概览——[[EEF Teaching and Learning Toolkit]]和[[Visible Learning]]是这一用途的标志性产物
+> - 在 Hattie 的自我解释中，二级综合还承担一种“生成问题”的功能：它把大量正向但分散的教育研究结果放到同一张地图上，使教师和研究者继续追问为什么某些影响更强、哪些条件改变平均效果、哪些解释可以被反驳（Hattie, 2015, pp.9-15）。这一用法比直接照排名决策更谨慎。
 
 ## 局限性
 
@@ -298,6 +299,7 @@ updated: '2026-05-21'
 
 - [[Snook_2009_NZJES]]
 - [[Terhart_2011_JCS]]
+- [[Hattie_2015_Paideia]]
 - [[Allerup_2015_Paideia]]
 - [[Wecker_2016_ZfE]]
 - [[Simpson_2017_JEP]]

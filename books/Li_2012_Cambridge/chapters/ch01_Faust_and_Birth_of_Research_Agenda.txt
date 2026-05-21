@@ -1,0 +1,821 @@
+!
+1
+Faust and the Birth of a Research Agenda
+Enco&nt()ing ,-&.t
+Based on a real person, Dr. Faustus, who lived in Europe in the early 
+ sixteenth century, several artistic works combined to build the legend of 
+Faust and the Faustian Bargain. Accordingly, Faust came to be known 
+as a man who sought forbidden knowledge and made a bargain with the 
+Devil. In exchange for his immortal soul, Faust would be given the power 
+to know. Te two best-known and most acclaimed renditions of the Faust 
+tale were created by English playwright Christopher Marlowe and German 
+poet Johann Wolfgang von Goethe. Marlowe dramatized the irrevocable 
+nature of a pact signed in blood with the Devil, the frivolous and unsat-
+isfying end to which the knowledge was put, and, ﬁnally, the passionate 
+and desperate damnation that lay at the end of Faust’s search for “illegiti-
+mate power through learning.”! Goethe in his mid-nineteenth-century geist 
+modiﬁed the bargain and made it contingent on Faust’s having a moment of 
+contentment. Goethe allowed the angels to rescue Faust because his search 
+and aspiration never ceased. Faust triumphed in the end. Although these 
+two literary works diﬀer in their emphasis and form, they both kept the 
+Faustian Bargain as the crux of their artistic vision.
+Surprisingly, Goethe’s Faust was also translated, along with other impor-
+tant Western works, into Chinese, and therefore it served as an inspiration 
+for a New Cultural Movement in China during the early twentieth century.2 
+My late mother remembered seeing the book as a middle-school girl in the 
+!930s in her school’s library in a rural Chinese town where only a few priv-
+ileged children could attend school. She did dare to open this book with a 
+strange title, but her desire to read further was put to rest for good because 
+she could understand nothing.
+
+Cultural Foundations of Learning
+2
+Later, in the !970s, the ﬁrst group of Chinese students emerging from 
+the farm labor of Mao Zedong’s reeducation program,3 afer ten years of 
+closed schools and condemnation of education, entered college. We woke 
+up from a deep slumber and were shocked to ﬁnd that China had been lef 
+behind. “Economically destitute and culturally barren” (一窮二白) was the 
+general sentiment. Te indescribable sorrow that befell everyone was that 
+the Mainland Chinese thought that they had it right, ﬁghting a noble cause 
+to correct a great social wrong, pursuing relentlessly equality, equity, and 
+emancipation from their millennia-long cultural yoke toward some unde-
+ﬁned ultimate bliss. But we were wrong (even evil in the world’s eye); what 
+was even harder to bear was that we were more pathetic than Don Quixote 
+tilting at windmills mistaken for giants. A hitherto unknown sense of col-
+lective shame and anger toward our leadership erupted. A quick reaction 
+was, rightfully, to restore education. All of a sudden, schools were reopened 
+and knowledge, particularly scientiﬁc knowledge, prized.
+Backed up ten years, millions of students waiting their turn for higher 
+education, still dispersed in the countryside, were urged to hurry to review 
+their book knowledge in order to partake in the ﬁrst college entrance 
+exam. Many simply gave up because afer high school they had trashed or 
+burned their books to display their anti-bourgeoisie resolution, or else they 
+packed their books away, never to touch them again. But many rose to the 
+occasion and gave it their best shot. I was lucky to pass the exam, and the 
+reported ratio of college admissions was 4.7 percent from those who took 
+the exam.4 Although we were not given much choice of schools and sub-
+jects of study (there were few to begin with), most students desired schools 
+and programs that had a reputation of Western disciplines such as natural 
+sciences and technology. However, the most desired subject of study was, 
+perhaps, European languages, with English ranking at the top and French 
+and German next. Tese languages were especially sought by those who felt 
+not less desirous, but less prepared, to pursue scientiﬁc studies. At that time, 
+it was true that few Chinese were ﬂuent in these languages. Te Chinese 
+government and people alike had known, since the end of the imperial sys-
+tem at the turn of the twentieth century, that for them to have any chance 
+of making it in the modern world, they had to increase their population’s 
+proﬁciency in Western languages. Afer all, foreign language is, as Marx 
+asserted, a tool in human struggle – a slogan that every schoolchild could 
+recite, if not comprehend. Studying foreign (really Western) languages 
+became an ever-greater aspiration even when Marx’s glow grew dimmer.
+Te idea that one could be lifed out of the ruins of a collapsed state 
+and learn new things from the advanced human world was analogous to a 
+
+Faust and the Birth of a Research Agenda
+3
+drowning person holding onto a thread of air. Not only did those who passed 
+the exam harbor the utmost hopes for their own lives, but their government 
+also regarded them as its only hope and epoch-deﬁning fresh blood. Tese 
+students went to college with all tuition and all study-related fees waived. 
+Moreover, they were not expected to engage in energy-draining work-study 
+to earn extra money. In other words, they were made worry-free, all for one 
+purpose: to devote their time and energy to study, to master what China 
+had lamentably neglected for ten years.
+Such was the ethos under which I began my college career. We were an 
+elite group, but not by birth or socioeconomic status; there was no birth 
+class or diﬀerence in socioeconomic status. We passed the exam and were 
+chosen; that was the commonality. Before the exam, all exam takers had 
+to declare three schools and three subjects for each school as their prefer-
+ences. I named English as my ﬁrst choice of study, followed by French and 
+German, for all three schools. I was admitted into my second-choice col-
+lege, one of the best schools for foreign languages in the country. Te col-
+lege admissions o:cer later told me that the reason he placed only me in 
+the German group from all the province’s applicants was that I was the only 
+student qualifying for English but also willing to study German. Without 
+any regret and with only gratitude, I welcomed the placement and plunged 
+into my German studies.
+To maximize these students’ success, the Chinese government contracted 
+with West Germany to send teachers from gymnasiums and universities. As 
+a result, my four years of college were mostly taught, quite unusually, by 
+West German instructors with a curriculum much tuned to their pedagogi-
+cal theory and design. Although we also had Chinese professors who taught 
+some German classes and other subjects such as history, Chinese literature, 
+economics, and English, German teachers were mostly responsible for what 
+we studied. As far as I can tell, students of my class had a good taste of 
+liberal arts education from the West, understandably with a German bent 
+(the same was true in the French and English departments based on their 
+respective instructors from abroad).
+Students exhibited high energy and motivation for learning by any 
+standard. We all got up early in the morning and read our texts aloud. 
+All tried to memorize their vocabulary sheets and related texts. All went 
+to the library to study, and all read into the night in their tent-like mos-
+quito nets until lights went out. No one missed a class unless one was too 
+ill or had an emergency. We did sports and extracurricular activities, but 
+the sight of everyone holding a book in their hand reading, and of a very 
+crowded library, was a daily occurrence. My husband, European American 
+
+Cultural Foundations of Learning
+4
+by origin, taught at the same college and to this date attests that he had 
+never – and has never since – seen such a sight on any of the campuses of 
+some twelve American colleges and universities where he has taught. He 
+still could not believe the level of these Chinese students’ dedication to 
+their learning.
+German is not an easy language for any non-Germanic Westerner, but 
+it was notoriously harder for the Chinese, whose native language does 
+not have conjugations for anything, let alone the three articles, four cases, 
+and endless combinatorial variations. But we absorbed all those mechani-
+cal di:culties of the language. We mastered the pronunciation, sentences, 
+comprehension, grammar, even some medieval words and usages. We 
+studied German history and read Goethe, Schiller, Heinrich Heine, Georg 
+Büchner, Gerhart Hauptmann, Tomas Mann, Robert Musil, Franz Ka;a, 
+Bertolt Brecht, and the writers afer World War II. We listened to Mozart, 
+Beethoven, Schubert, Schumann, Mahler, even Wagner. I loved learning 
+about this important European culture. As this learning deepened, Chinese 
+culture became more and more a distant and vanishing memory. Anything 
+Chinese was scorned. We did not even speak much Chinese on campus 
+because we were busy practicing our German. We also frequently dismissed 
+our German teachers’ curiosity about Chinese culture and told them that it 
+was not worth their while because it was the Chinese culture (mistakenly, 
+in hindsight) that brought our country to ashes.
+But then came Goethe’s Faust, a monument of German literature. By 
+then, the knowledge-thirsty students had gained some perspective and had 
+cooled down from the embracing zeal they had cultivated in the revolution-
+ary time. Print materials that revealed unheard-of things were “smuggled 
+in” from Hong Kong, and some classmate even got connected to a Buddhist 
+monk who sent her hand-printed material about Buddhism. We read these 
+things with a ﬂashlight in bed. Tis exposure and gradual change prepared 
+the students for what might be called a questioning spell. We began ques-
+tioning everything, not necessarily in open forums but certainly in chats 
+with peers, leisurely strolls, and romantic interactions. We contemplated 
+our existence, our sein, our experiences, our society, German culture and 
+people, America, life, death, love, virtually every subject. It was like a mini-
+renaissance where free spirits roamed outside classrooms. I remember a 
+poem that I wrote in Chinese to share with my peers:
+Progress and Regress
+Te train is dashing through the Yellow Plateau, and I am counting the 
+tombs of ancient emperors. . . .
+
+Faust and the Birth of a Research Agenda
+5
+Who says that tombs
+Symbolize only death?
+I’d say they symbolize immortality and eternity
+Who says that the running train
+Is progress in our time?
+I’d say it’s blind curiosity
+Like children
+Who have to tear into pieces the mushroom
+To see what’s hidden inside
+People on the train are fooled by it
+Modernization is not visible in the far end
+But tombs are visible right here with us
+As if they are reminding us
+To contrast, to reason, and to reﬂect
+Te train lures us
+To follow, to dash, and to blunder
+However, despite this vibrant learning, we remained quite “uninterested” in 
+our own culture.
+Faust, especially the ﬁrst parts where the Faustian Bargain took place, 
+was read slowly and discussed line by line. Although the poetic form was 
+no longer daunting, we had di:culty with all the religious tradition and 
+allegories. I remember thinking to myself, tossing ideas to my friends, and 
+hearing their echoes back: Why does Faust have to lose his soul, his life, for 
+wanting to know more? Ignorance was precisely what the Chinese suﬀered. 
+What’s wrong with Faust wanting to be more knowledgeable and wanting 
+to have full human experience? Why did Goethe, the literary giant, write 
+an epic in such a way that seeking knowledge is like committing a crime 
+somehow? Even more, aren’t we this guy? Here we are devoting ourselves 
+with all our might and passion, seeking knowledge, resembling in some way 
+Faust’s spirit, if not his full scope. We were puzzled. But neither my peers 
+nor I actually raised these questions to our German teacher in fear that we 
+might make fools of ourselves, questioning Goethe. At least for me, I could 
+not abandon these questions until I found their satisfactory answers. But 
+before that happened, I had to come to America to endure more bewilder-
+ment and soul searching.
+.hock in -?()ic-
+A few years afer college, I gave up my position teaching German and 
+immigrated to America. My ﬁrst desire was to make myself useful to my 
+
+Cultural Foundations of Learning
+6
+newly married life: ﬁnding a job. But my English was abysmally poor. Tis 
+self-assessment was actually not an incidence of the well-known “Asian” 
+self-eﬀacement. My English was abysmal; I had spent all my time perfecting 
+my German. I simply did not spend enough time mastering English. Truth 
+be told, I did not even like English very much because it did not have the 
+complicated articles and cases, or the elegance of the logical combinations 
+of sentence variations. I managed to learn to read and write English at some 
+grade level. But speaking and listening proved to be out of reach. Coming 
+to America was not planned, but I fell in love with a European American. 
+Although I lucked out with this marriage, Gott sei Dank, at the time I expe-
+rienced a profound displacement when I found myself in the United States 
+instead of Germany.
+I registered, with my husband’s help, as a substitute teacher for German 
+in Burlington, Vermont, where I ﬁrst landed afer immigration. Te reason 
+was simple: Tat was the only thing I could do, short of being a Chinese 
+restaurant kitchen aide. Tis job did not require a teacher’s certiﬁcate, and 
+for a while I thought that I could at least teach the fun German language to 
+American students.
+Unfortunately, my ﬁrst teaching assignment at the local high school was 
+English rather than German, which, as confessed previously, I could hardly 
+speak, let alone teach. I had to admit it to the caller just in case she made a 
+mistake. But despite my honesty and insistence that I lacked any qualiﬁca-
+tion for teaching English, I was told that the school needed me, and I had 
+to be there. So I went, in a cold sweat, too scared to face something like an 
+English equivalent of Faust – Shakespeare or anything vaguely literary! I 
+wanted to disappear into the ground.
+Someone ushered me into the o:ce, trying to calm me down, saying 
+that it would be an easy job, and that the only thing I needed to do was 
+to follow the lesson plan made by the called-in-sick teacher and “to keep 
+the kids out of trouble.” “What trouble?” I said to myself, gazing around. I 
+had never seen, not even in my dreams, such a school, with all the brightly 
+lit classrooms, hallways, and all the books in the library. Te students 
+were undoubtedly well nourished and well clothed, projecting more self-
+ conﬁdence and happiness than I or any student I had seen back home. Tis 
+is a learning paradise! What trouble could there be for such blessed lives?
+To my shock, those students did not seem to care about maintaining 
+a good learning environment: Tey chatted freely and giggled and threw 
+things at each other as if I, the teacher, did not exist. What struck me most 
+was that they were not the least bit interested in learning the content of the 
+already minimal English tasks. But my surprise did not lead me to blame 
+
+Faust and the Birth of a Research Agenda
+7
+the students. Instead, I blamed myself and my poor English. It was then that 
+I vowed to learn English well enough not to let this disappointing situation 
+happen again in my substitute classroom.
+As my English and self-conﬁdence improved, sadly, I saw a recurrent, 
+actually more severe, scenario in Pennsylvania. I became, on a blitz track, a 
+supervisor for student teaching at the University of Pittsburgh only a year 
+later. I thought that it was strange to bestow such responsibility on me given 
+how little I knew about American education. It was even more bizarre for 
+me to supervise student teachers while struggling through my own student 
+teaching (in German ﬁnally) at a high school in a remote town where I pro-
+vided the only ethnic diversity. Perhaps this was the university’s way to kill 
+two birds with one stone. In any event, I was forced to function like a two-
+headed creature, or else a split personality, while still struggling to improve 
+my English.
+My regular visits to ﬁve schools across four districts and my daily work 
+in the classroom gave me a pretty good chance to encounter students’ 
+lack of interest in learning. Tis time I could not hold myself responsible 
+because I mostly did not teach. Where I actually taught, I did succeed in 
+boosting their morale for learning from moment to moment, but it ofen 
+felt like a drop in the ocean of disinterest. In fact, it was this very di:-
+culty that discouraged me once and for all from pursuing my certiﬁcate to 
+teach high school in America. Nevertheless, in hindsight, I must say that 
+these Pennsylvanian students were angels. No one really had any “trouble,” 
+at least not the type I was aware of: dropping out, drugs, teenage pregnancy, 
+and violence, barring perhaps smoking and other petty oﬀenses. By and 
+large, these students showed up at school on time, remained through the 
+day, and did their assigned work. Not everyone made the best eﬀort, the 
+kind I would have liked to see – certainly not the one that would resem-
+ble the by-now already archaic fantasy in my head, the eﬀort worthy of the 
+Faustian spirit. But compared to what I later saw in urban places, these 
+students were any teacher’s dream.
+Massachusetts students were not better, not even in the supposedly 
+better towns, away from the really troubled inner city. Te same lack of 
+enthusiasm in learning continued to shock me as I again endeavored to 
+work more in schools. Of course, the education reform, along with the 
+weekly news reports, drumming up the meager academic performance of 
+American students gave me a clear sense that what I observed was not 
+an isolated phenomenon. My perplexity deepened; the idea of the richest 
+nation on earth inhabited by so many students not wanting to learn really 
+threw me for a loop.
+
+Cultural Foundations of Learning
+A
+Bi.h Ci.coD()ing E-t()
+At the University of Pittsburgh, I took several courses in educational psy-
+chology and child development as required for my teacher certiﬁcation. 
+Te most thrilling course ever was on how to develop children’s creativity. I 
+had never studied or even fancied that creativity could be studied, let alone 
+taught. Contemporary Chinese people inherited a long-held (more than a 
+century) belief that their age-old Confucian tradition was the root of all 
+their political, social, and economical ills. Confucianism was even called a 
+culture that “ate people” by radical thinkers such as Lu Xun (!AA!–!936).5 In 
+education, the most condemned were children lacking creativity – the sen-
+timent holding strong to the present day. Now, to Chinese people’s horror, 
+not only did Marx’s dogma and audacious experiment fail to emancipate 
+people into freedom and creativity, but it managed to suck the last breath of 
+human vitality out of their children. Part of my motivation to continue my 
+graduate studies in America was to ﬁnd ways to help rectify Chinese educa-
+tion problems (another part had to do with my lost conﬁdence that I could 
+ever teach in an American high school). Learning about the teachability of 
+creativity raised hope for me again.
+When I inquired where I could study creativity for a PhD, my profes-
+sors recommended Harvard Graduate School of Education,6 where Howard 
+Gardner was attracting many students. Tey gave me his book, Frames of 
+Mind, to read, and reading that book made me decide that I wanted to study 
+not just creativity but the whole human potential. I lucked out again with 
+the admissions and began a marathon of doctoral training in human devel-
+opment and psychology. But my single desire to ﬁgure out human creativity 
+and potential could not be fulﬁlled without also studying other impor-
+tant processes that inﬂuence child development. Finally and inevitably, I 
+encountered culture as a developmental concept. As I delved deeper into 
+my studies, I realized – this time, to my personal astonishment – that I had 
+been blind to culture. I was the ﬁsh who was the last to discover water.
+Once discovered, I could not see the world without water. Culture soon 
+became the looking glass that was impossible for me to put down, even afer 
+all those years of unawareness on my part. Culture, as the largest human-
+created system (as opposed to our biology), penetrates so profoundly into 
+all spheres of human life that it alters human cognition, emotion, and 
+behavior, setting us apart from the next smartest creatures in the animal 
+ kingdom.7 Culture is like the air we breathe; we are completely dependent on 
+it. Together with our biology, culture produces us, but we also alter culture 
+
+Faust and the Birth of a Research Agenda
+9
+continuously. Tis interactive process is the inescapable force underlying 
+child development.
+For me, however, the awakening was not about human culture as a 
+whole, but a particular culture, my own culture. Yes, what about my culture? 
+Because I was born into a preexisting world, did my own culture imprint 
+me in any speciﬁc way? If so, in what way? I lived my own culture as any 
+anthropologist would attest, but why was I unaware of it for so long? Did 
+Marxism push my culture out of me, or perhaps it buried my culture and 
+pushed something else into me? My questions were endless, and this process 
+was not fun. My peers from China seemed to have gone through a similarly 
+painful process. We shared our identity crises, confusions, and reﬂections. 
+One friend was already writing her dissertation and introduced me to the 
+writings of Professor Tu Wei-ming (杜維明), an authoritative scholar on 
+Confucianism at Harvard Yenching. I went to the Yenching Library and bor-
+rowed his books. He led me to other related books. Now, for the ﬁrst time, 
+rather late in life, I read, word for word for myself, Confucius’s Analects, 
+Mencius, and other original works. I experienced an intense process simi-
+lar to when I ﬁrst peeked into Western cultures through the German gate 
+opened in college, but this time I was gazing into my own soul.
+I could not believe the words and passages I was reading from these 
+books. What we as children growing up in China were toldA (but not allowed 
+to read directly) about Confucius and his ideas and the actual words by 
+Confucius and Mencius were like day and night. I knew that if we had no 
+reason to believe that Chinese people’s intelligence is no less than that of 
+any other people on this planet, something must have gone terribly wrong. 
+Why did the Chinese admire Confucius for 2,500 years? Why was he called 
+a sage and an “exemplary teacher for all ages” (萬世師表) even by the pow-
+erful (for example, emperors) and smart people (i.e. scholars), and why was 
+his Analects required reading of all schoolchildren for millennia?9 Were all 
+the Chinese who lived before me wrong – stupid even? Tese questions 
+greatly disturbed me.
+Further reading and contemplation led to the realization that the Chinese 
+had gone through a century-long tormented soul searching because they 
+could not defend themselves against the surging Western powers. China was 
+in an all-around steady decline until its eventual defeat and the subsequent 
+chaos, suﬀering unprecedented humiliation and loss of self- conﬁdence. 
+Intellectuals were the ﬁrst to turn inward to self-examine, and they came to 
+a devastating verdict: Te root cause was the Confucian ideology all ruling 
+dynasties had adopted.!0 It relied on the personal moral cultivation of the 
+
+Cultural Foundations of Learning
+!0
+ruler to bestow mercy onto his subjects. If a ruler succeeded in cultivating 
+himself, he attracted good and able ministers to manage his dynasty, and 
+people enjoyed peace and prosperity as a result. But if a ruler was ruth-
+less and tyrannical, such as the Qin Emperor who built the Great Wall but 
+caused great suﬀering to people, then people revolted against the empire, 
+sometimes successfully but ofentimes not. Whenever such a peasant upris-
+ing prevailed, another ruler arose and reinstated the same old system with 
+the same old Confucian ideology.!! Although China was blessed with some 
+good rulers, the bad and incompetent ones outnumbered the more virtuous 
+and able ones.
+Tis cycle of the political process and dynastic ruling lasted for millen-
+nia, but its vitality was exhausted when Western powers pounded open 
+China’s door.!2 What defeated the Chinese system at the turn of the twenti-
+eth century, as intellectuals and politicians agreed, was really not Western 
+troops but their science, which the Confucian ideology clearly lacked. 
+Western science was most admired because it produced “solid ships and 
+eﬀective cannons” (船堅炮利), while the Chinese were still relying on 
+spears, swords, and even martial arts to ﬁght on land and sea. Tis conclu-
+sion led to a whole series of new education policies and political reform. 
+Waves of Chinese students were sent to the West to study science and tech-
+nology. Moreover, many leaders and scholars attributed Western power to 
+their better democratic governmental systems. China, along with other East 
+Asian nations that suﬀered a similar fate, began a protracted endeavor of 
+learning from the West (a process that has not yet reached its peak), despite 
+a period of interruption immediately afer the communist takeover. I must 
+admit that I myself was also a small element of this massive cross-cultural 
+learning process.
+chin(.( c&Ft&)( -nC B-&.t -g-in
+Tis grasp of the general historical perspective eased my distress to some 
+extent, but it did not persuade me that Confucius and his ideas were the 
+root cause of, and therefore were to be blamed for, all Chinese political, 
+social, and economic ills. Confucius lived 2,500 years ago and did not have 
+any noted political power. He was a thinker, philosopher, and, most of all, 
+teacher. Students came to him and sought his teaching of their own volition. 
+It would be groundless to blame him or even his ideas for China’s later prob-
+lems. If anyone were to be blamed, it would be those who, under the name of 
+Confucianism, waged unjust wars, conquered land, and established illegit-
+imate dynasties, not to mention those who buried alive Confucian scholars 
+
+Faust and the Birth of a Research Agenda
+!!
+and burned their books,!3 those who ruthlessly oppressed their people and 
+neglected their civil duties, and those who were driven more by power and 
+wealth than by benevolence and virtue. In other words, those who failed to 
+achieve Confucian self-perfection but unfortunately held power. Blaming 
+Confucius is like blaming Jesus for the medieval Inquisition and other 
+immoral acts committed in the name of Christianity.
+Tis new reﬂection made me ﬁnally realize that part of my confusion 
+came from equating a country’s political system with its culture. Tis con-
+fusion was the reason why, during my undergraduate years, we thought that 
+anything Chinese was bad. But then, in graduate school, I discovered and 
+began to feel the enormity of culture, thanks to anthropology, Confucian 
+works, and the great body of scholarly interpretations of Ames, de Bary, 
+Fingarette, K. K. Hwang, Ivanhoe, Munro, Rosemont, Wei-ming Tu, 
+C. F. Yang, K. S. Yang, and Ying-shi Yu, among others. Culture is much larger 
+and more long-lasting than any political system. Culture is even larger than 
+the existence of society or nation: Whereas either of the latter is usually 
+bound by a geographical location under a certain political system at a given 
+time, the former encompasses people beyond geographical boundaries, as 
+the case of Jewish culture demonstrates. A given society or nation can wit-
+ness many political systems come and go even in a short period of time, as 
+is the case with China.!4 But people living in diﬀerent systems, both succes-
+sively and simultaneously, such as the Chinese living in the Mainland, Hong 
+Kong, Singapore, Taiwan, the United States, Europe, and other parts of the 
+world, having nothing to do with a particular political system or particular 
+society, still unambiguously identify themselves as Chinese.
+Tis jagged intellectual journey of mine raised the inevitable question 
+for me: Given that I have no doubt that I am Chinese by cultural heritage, 
+what then marks me as such a cultural member, particularly when I am no 
+longer a citizen of Mainland China? As it turns out, this type of question 
+is commonly asked, not just by Chinese, but by anyone who experiences 
+cross-cultural living and the acculturation process. Although commonly 
+asked, answers to this question are not easy to come by. Ofen one feels that 
+one is diﬀerent, but articulating such diﬀerences proves to be immensely 
+challenging. In a sense, cultural psychologists and anthropologists spend 
+their lives trying to do just that – understanding and articulating such dif-
+ferences among the world’s peoples.
+Considering the intellectual path by which I encountered two Western 
+cultures, German and European American, it was impossible for me to 
+ignore the topic of learning and knowing. Te shadow of the Faustian 
+Bargain still hovered over my head, and American students’ indiﬀerence 
+
+Cultural Foundations of Learning
+!2
+toward learning still troubled me. But afer I began asking the cultural ques-
+tion about myself, it became clear that I, not Faust or American students, 
+was the cause of my puzzlement and problem. I grew up in a culture that 
+has, despite the apparent political and social upheaval, a very diﬀerent out-
+look toward learning and knowledge. Tat I inherited this outlook (my idi-
+osyncratic characteristics notwithstanding) is, I dare to assert, a result of 
+what anthropologists refer to as the process of enculturation!5 rather than 
+the storm of the Marxist swirl.
+Te reason, from a developmental perspective, is that the child is cared 
+for, loved, and nurtured day to day by the caregivers. Few caregivers in 
+Mainland Chinese families, during political turmoil or otherwise, and 
+rarely if at all, assigned any kind of priority to delivering political mes-
+sages to their children (it would be absurd). Even if parents did that, it is 
+highly doubtful that this would have any eﬀect during infancy and subse-
+quent years. Based on anthropological psychology, the overarching polit-
+ical and economic climate is only an indirect factor that inﬂuences child 
+ development. Te local cultural customs, the caregiver’s psychological 
+characteristics, and the actual daily interactions are the more direct shap-
+ing force on the child.!6 Tis inﬂuence has its most observable eﬀect during 
+the formative years of infancy and early childhood, which is foundational 
+to a person’s further development. To the extent that my parents and my 
+nannies inherited from their parents childrearing values and practices 
+of a long-existing culture, it is likely that they adopted these deep-seated 
+cultural frames to care for, to guide, and to discipline their child, rather 
+than using Marxist doctrine to cook, to feed, or to love the child (to my 
+ knowledge, Marxism says nothing about human psychology, let lone chil-
+drearing routines).!7
+Terefore, I grew up thoroughly Chinese. For learning and education, 
+my parents’ voices will probably ring forever in my head. I recall some of 
+their words I heard whenever they tried to encourage and instruct me and 
+my siblings with regard to learning:
+Having studied, to then always practice what you have learned – is this 
+• 
+not a pleasure? 學而時習之，不亦說乎？(when we did not want to 
+practice what we learned)
+In strolling with only two people, I am bound to ﬁnd a teacher. 
+• 
+Identifying their strengths, I follow them, and identifying their weak-
+nesses, I correct them in myself. 三人行，必有我師焉，擇其善者
+而從之，其不善者而改之 (when we failed to see what we could 
+learn from others)
+
+Faust and the Birth of a Research Agenda
+!3
+Continue studying without respite, instruct others without growing 
+• 
+weary 學而不厭，誨人不倦 (when we grew tired of studying and of 
+helping others in school)
+Love for learning 
+• 
+好學 (when we talked about going through the 
+motions in learning)
+To know what you know and know what you do not know – this is 
+• 
+wisdom 知之為知之, 不知為不知, 是知也 (when we pretended to 
+know)
+Learn, then you will know your inadequacy 
+• 
+學然后知不足 (when we 
+claimed that we knew enough)
+Do not impose on others what you yourself do not want 
+• 
+己所不欲勿
+施於人 (when we pushed things we did not like on each other)
+Tese words turned out to be those spoken by Confucius, but I did not 
+know that growing up. My parents began quoting with “the ancient said” 
+(古人說) rather than “Confucius says” because they feared that announc-
+ing Confucius’s name would bring political persecution during a time when 
+Confucius (and Confucianism) was singled out for criticism.
+School learning also instilled much of these same values, norms, and 
+preferences in me, even though schools were under greater pressure to pro-
+mote Marxist ideology. Consider the following: Any Chinese classroom 
+was, and still is, decorated with a motto “Learn well and make progress 
+everyday” (好好學習，天天向上) – a quote by Mao Zedong. I always 
+found it interesting that out of all of his ﬁerce attacks of traditional edu-
+cation philosophy and pedagogy as expressed in his voluminous writings, 
+this very motto was picked to be posted in every classroom to encourage 
+student learning. Purely in its wording, the message is completely consis-
+tent with traditional Chinese learning philosophy. When I visited schools in 
+Beijing, Nanjing, Shanghai, Shandong, Sichuan, and Guangdong during the 
+!990s and early 2000s, I also saw secondary and college classrooms quite 
+uniformly decorated with these poetic verses among other similar motiva-
+tional aphorisms:
+Long-term diligence is the road to the mount of knowledge; endurance 
+of hardship is the boat to the boundless sea of learning 書山有路勤為徑,  
+學海無涯苦作舟.!A
+In all my school years, when we had a quiz or exam in class, the teacher 
+frequently asked the most hardworking student, not the highest-achieving 
+one, to stand up to receive applause from peers for his or her great learning 
+virtue. Whenever any student did well in class, teachers would say to them, 
+
+Cultural Foundations of Learning
+!4
+“don’t be too proud but continue to strive to achieve better. Tere is no end 
+to learning.” Whenever a student did not do well, the ﬁrst line of advising 
+and disciplining was “you did not work hard, you did not concentrate, you 
+did not listen well in class, and you did not practice enough.” Sometimes 
+teachers would mention that a student uses his or her mind ﬂexibly 
+(腦筋靈活), but I never heard any teacher, or any peer for that matter, 
+attribute a student’s high achievement to his or her born intelligence alone; 
+likewise, no student’s low achievement was ever attributed merely to his or 
+her lack of inherited potential.
+Tis unwinding of my childhood experiences has crystallized for me the 
+intellectual tradition that holds the following notions about learning:
+ 
+!. Learning is the most important thing in life; it is the life’s purpose.
+ 
+2. Learning enables one to become a better, not just smarter, person. 
+Te ultimate purpose of learning is to self-perfect and to contribute 
+to others at the same time.
+ 
+3. Learning is a life-long process. It starts early in life and continues 
+throughout one’s life.
+ 
+4. Te kind of knowledge that sets one person apart from another does 
+not come to one automatically. One must seek it. Seeking knowl-
+edge requires resolve, diligence, endurance of hardship, steadfast-
+ness, concentration, and humility. One must have what the Chinese 
+call “a heart and mind for wanting to learn” (好學心), a passion for 
+learning.
+ 
+5. Learning does not privilege anyone, and neither does it discriminate 
+against anyone. Everyone is capable of seeking and achieving knowl-
+edge regardless of one’s inborn capacity and social circumstances.
+ 
+6. One begins the learning process as a beneﬁciary from others’ ded-
+icated guidance. But one will become a benefactor to others’ learn-
+ing and self-cultivation as one matures, making harmony with the 
+world.!9
+Tese ideas were (and to a large extent still are) passed down to children 
+through the implicit as well as explicit process of enculturation. As any 
+other cultural process, the deep-seated beliefs were learned and internal-
+ized so successfully that hardly any child questioned them and the associ-
+ated values, preferences, and norms they carried.20
+As this returning to my own culture took place, my understanding of 
+Western traditions also deepened. Evidently, Faust epitomizes an entirely 
+diﬀerent way of learning and knowing. Inheriting a long-standing intellec-
+tual tradition that originated from Greek antiquity through the Christian 
+
+Faust and the Birth of a Research Agenda
+!5
+scholarship and ﬁnally standing at the cusp of modern science, Faust (either 
+the real person or, more likely, the combined ﬁgure created by Marlowe 
+and Goethe) represents an approach to learning and knowing that has been 
+essential in the Western world, and this approach still ﬂourishes in the pre-
+sent day and quite possibly will continue for long. Tis tradition emphasizes 
+the following key themes:
+ 
+!. Human curiosity about the external world is the inspiration for 
+knowledge.
+ 
+2. Relentless spirit of inquiry into the universe will lead to knowledge.2!
+ 
+3. Mind is the highest human faculty that enables this inquiry.
+ 
+4. Reason (not heart) is the process by which we know the world.
+ 
+5. Learning privileges those who have superior ability.
+ 
+6. Te individual is the sole entity for inquiring, discovery, and ultimate 
+triumph.
+Juxtaposing these two learning traditions, the reason for the di:culties my 
+mother, my college peers, and I had about the Faustian Bargain revealed 
+itself: Learning and knowledge in the Confucian world are deﬁned funda-
+mentally diﬀerently. Learning and knowing are geared not to the external 
+world, but to one’s self as a goal of personal striving. Learning how to per-
+fect oneself and to become a better person morally and socially is never 
+viewed as a cost or liability to oneself or anyone else. As such, it is viewed 
+not just positively, but as an ultimate good.
+Apparently, my shock about American students’ lack of interest in 
+learning also stemmed from this diﬀerence in the learning outlook. My 
+reaction may have appeared judgmental and harsh, and in hindsight was 
+quite regrettable. American students’ motivation for learning turned out 
+to be an intricate ﬁeld of study in itself, but it is no less connected to the 
+Western intellectual tradition, as will be discussed in Chapters 2–A. Still, 
+if not anything else, my initial encounter with the students in Vermont 
+and Pennsylvania stimulated me to look into myself, to discover my own 
+ culture, and to peek through the looking glass that has both enabled and 
+constrained my own learning.
+Tis arduous but eventually fruitful search ﬁnally gave birth to a research 
+agenda. Now, afer a journey on which I myself have inherited some of the 
+Western learning spirit, I could not resist returning to the Faustian quest, 
+but this time with much more grounding and understanding. I wanted to 
+know if these basic learning concepts were still alive today in both cultural 
+worlds. As a developmental researcher, my natural curiosity is directed to 
+children. Assuming the empirical answer would be found a:rmatively, 
+
+Cultural Foundations of Learning
+!6
+how are these beliefs transmitted to children generation afer generation? 
+Finally, how do diﬀerent learning beliefs inﬂuence children’s learning?
+As will be seen in later chapters, I have reviewed and gathered consis-
+tent empirical support that, despite much political, social, and economical 
+change and exchange in recent decades, the basic learning models still per-
+sist in their respective cultures. Tey underlie much of thinking, feeling, 
+and behavior of learners as well as actions of their social world, and exert 
+profound inﬂuence on their children.
+not(.
+ !. Quote from Knox, M. M., McGalliard, J. C., Pasinetti, P. M., Hugo, H. E., 
+Spacks, P. M., Wellek, R., Doughlas, K., & S. Lawall (!992) Te Norton anthology 
+of world masterpieces, Vol. 2. New York: Norton, p. 462.
+ 2. Te New Cultural Movement (!9!5–!923) was a part of China’s radical and pain-
+ful modern history. Tis movement was launched by intellectuals to reform 
+the political, economic, educational, linguistic, literary, and artistic traditions to 
+embrace Western democratic and scientiﬁc spirit. For example, Chinese written 
+language was forced to change from traditional grammar to vernacular gram-
+mar across all curricular materials in school. For a comprehensive discussion 
+of the movement, see Yu, Y.-S. (!992). 中國文化與現代變遷 [Chinese culture 
+and modern evolution]. Sanmin Publishing House.
+ 3. Mao Zedong’s reeducation program (!96A–!97A). In the peak of his absolute 
+political power, Mao launched the movement, urging the so-called educated 
+youth from middle and high school to go to the countryside to learn from 
+the farmers. In his espoused radical theory, book knowledge was regarded as 
+divorced from life and therefore useless for his revolution. But his theory in 
+action, according to scholarly analyses, was a strategy to shif the burden of 
+the large unemployment and therefore looming threat of youth unrest to the 
+already destitute but vast farming land. Some !6 million youth were sent down, 
+separated from their families, to work in the ﬁelds. In addition to worsening 
+farmers’ livelihood, many young people suﬀered social isolation, displacement, 
+abuse, and emotional disturbances under the conditions of this vast forced-
+ labor camp. For detailed accounts, see Meisner, M. (!999). Mao’s China and 
+afer: A history of the People’s Republic (3rd ed.). New York: Free Press; and 
+Chang, T. H. (!999). China during the Cultural Revolution, 1966–1976: A selected 
+bibliography of English language works. Westport, CT: Greenwood.
+ 4. Te ﬁrst college admissions rate in !977 afer ten years of Cultural Revolution 
+was 4.7G (27,000 admitted from 5,700,000 who took the exam. However, mil-
+lions more youth from the ten years of Cultural Revolution did not take the 
+exam. Te percentage of successful students entering college that year would be 
+much smaller if all of the potential pool were included). See SSB (State Statistics 
+Bureau). (2005). 新中國55年統計資料匯編 [China’s ﬁfy-ﬁve years of statisti-
+cal data]. Beijing, China: China Statistical Press for related statistics.
+
+Faust and the Birth of a Research Agenda
+!7
+ 5. Lu Xun was the most forthright writer, critic of traditional Chinese culture. His 
+novels and essays attacked Confucianism most vehemently. See reference in 
+Note 2 to this chapter for a historical discussion and reevaluation of the anti-
+tradition writers and other intellectuals in early-twentieth-century China.
+ 6. Finally, I have a chance to express my much belated gratitude to Professors 
+Mushalko and Fredette at the University of Pittsburgh for opening my mind 
+to creativity in children and for mentioning Harvard Graduate School of 
+Education to me. I had no clue that I might not have been qualiﬁed to apply. I 
+am forever indebted for their encouragement and conﬁdence.
+ 7. See Tomasello, M. (!999). Te cultural origins of human cognition. Cambridge, 
+MA: Harvard University Press for his research on the topic of how human cul-
+ture as a whole has been part of our heritage and how human cognition and 
+social understanding are irreversibly altered.
+ A. During my formative years, we read nothing by Confucian scholars. But 
+because Mao Zedong liked some writing by Xun Zi (Hsun Tzu 荀我, 325–235 
+BCE), strangely, the centralized textbook for middle school children during 
+the !970s contained one of Xun Zi’s most famous essay “Advice on Learning” 
+(厭學焉), which we were required to memorize. Xun Zi was, with Confucius 
+and Mencius, one of the three early Confucians. However, other than this ser-
+endipity, schoolchildren were told that Confucius and his followers were coun-
+terrevolutionaries; they disregarded working people; they only valued book 
+knowledge and preached ideas for the ruling class. Tis vicious distortion and 
+Machiavellian attack of Confucius was the reason why many of my generation 
+felt cheated and lied to about our own culture. Tese lies become apparent when 
+one opens the Analects and Mencius and reads for oneself. What a change we 
+witnessed when the 200A Beijing Olympic Games opened with the second line 
+in Confucius Analects “To have friends [who share the goal of self-cultivation] 
+come from distant quarters – is this not enjoyment?” (translated in watered-
+down English as “Welcome my friends”) in front of the !.3 billion Chinese not 
+just in Mainland China but all Chinese in the world! What a sharp contrast it is 
+for the current Chinese leadership to revamp the fundamental Confucian value 
+of harmony and elevate it to a national agenda for building a harmonious soci-
+ety (although no leader has openly acknowledged its Confucian origin)! All this 
+is signaling to me a cultural awakening, as far as Confucianism is concerned, 
+despite the fast process of Westernization and globalization.
+ 9. Analects was a required reading of all schoolchildren since the Han Dynasty (206 
+BCE–22 CE) until the early twentieth century when the Civil Service Examination 
+system was abolished. But the Fours Books and the Five Scriptures continued to 
+be taught as the basic texts to schoolchildren until the communists took power in 
+!945. However, Taiwan, Hong Kong, and Singapore continued (many schools to 
+date still) to require such Confucian books in school; see a review by C.-L. Yang 
+(!995). 誨倦好知為是也然后從足己擇所其善欲勿知為施是於古 [Reciting 
+or listening to the origin and ideal of children’s classics training]. 天向國文學
+上 [Bulletin of Chinese] (National Kaohsiung Normal University), 8, !–50. As 
+such, my mother at age nine in !930 began her schooling by formally acknowl-
+edging Confucius as the “teacher for all ages” and her own private tutor and by 
+
+Cultural Foundations of Learning
+!A
+being taught Confucius’ Analects ﬁrst. She could still recite much of it well into 
+her late A0s. Likewise, my father at age ten in the !920s began his schooling with 
+Confucian Analects in a village private tutoring school (書山).
+ !0. See the paragraph on the Civil Service Examination system in the section Taking 
+the World Upon Oneself in Chapter 2.
+ !!. See X.-R. Han (2006). Chinese discourses on the peasant, 1900–19,9. Albany, NY: 
+State University of New York Press; and Gernet, J., Foster, J. R., & Hartman, C. 
+(!996). A history of Chinese civilization. New York: Cambridge University Press, 
+for reviews of the dynastic cycle in Chinese history.
+ !2. Western powers opened the door to China. Te Opium War and events that 
+followed led to Dr. Sun Yat-sen’s revolution in !9!!, ending the millennia-long 
+dynastic ruling system in China. Te subsequent period was governed by the 
+Nationalist government until the Communist takeover in !945.
+ !3. Emperor Qin (259–2!0 BCE) murdered Confucian scholars by burying them 
+alive and by burning their books (2!3–2!2 BCE).
+ !4. China for the last century went through dynasty to semi-colony, republic, war-
+lord rule, communist, planned economy, and now market economy. Te notion 
+of culture outlasts all of these short-lived governmental forms.
+ !5. See LeVine, R. A. (!990). Enculturation: A biosocial perspective on the develop-
+ment of self. In D. Cicchetti & M. Beeghly (Eds.), Te self in transition: Infancy 
+to childhood (pp. 99–!!7). Chicago: University of Chicago Press on the notion of 
+enculturation.
+ !6. See Harkness, S., & Super, C. (!992). Te developmental niche: A theoretical 
+framework for analyzing the household production of health. Social science and 
+Medicine, 38, 2!7–226 for their introduction to the notion of “developmental 
+niche.” See Trevarthen, C. (!99A). Te concept and foundation of infant inter-
+subjectivity. In S. Braten (Ed.), Intersubject communication and emotion in early 
+ontogeny (pp. !5–46). New York: Cambridge University Press for a review of 
+research on infant-caregiver intersubjectivity.
+ !7. Tis section was not frivolously written but intended to respond to those who 
+falsely assumed that because the Mainland Chinese lived under a particular 
+political system, somehow they were not normal, worse yet that their paren-
+tal love and care somehow were subquality, and worse, because they did not 
+receive any cultural heritage.
+ !A. Tere is little wonder why this set of verses entered the top-twenty list of my 
+learning lexicon study (see more details of the research in Chapter 3).
+ !9. Tat learning and acquisition of culturally desirable skills also brings practi-
+cal beneﬁts such as getting a job or supporting oneself or one’s family is not a 
+unique Chinese value. It is common value for all humans. Naturally, Chinese 
+people also learn for practical purposes. Chapters 2 and 3 discuss how this part 
+is integrated with the higher purposes of Confucian learning tradition.
+ 20. Yes, Emperor Qin buried Confucian scholars alive and burned their books, and 
+there were other times of persecution of learning, including censored learning 
+in recent history. But these events only proved the Emperor’s cruelty and the 
+subsequent times’ inhumanity, which faces continuous condemnation. Tis side 
+of the history, particularly Emperor Qin’s tyranny, remains a permanent blem-
+ish on Chinese conscience. Te learned were and still are the cultural heroes. 
+
+Faust and the Birth of a Research Agenda
+!9
+Intellectuals during the New Cultural Movement and in a more distorted form 
+throughout recent Chinese history also questioned, attacked, and rejected this 
+learning tradition. However, as will be seen in later chapters, this tradition is 
+not easily done away with. Its power and tenacity are yet to be understood. Te 
+fact that only one slogan, “Learn well and make progress everyday,” from Mao’s 
+voluminous writings got posted in every classroom (but no other quote from 
+him enjoyed this persistent popularity) is testimony to the tenacity of this learn-
+ing tradition. Whenever children see this quote, no speciﬁc context in which 
+Mao uttered those words accompanied the sight; nor did any teacher bother to 
+qualify to children that the quote was only for communist purpose. Te quote 
+hangs above the blackboard, viewable without failure by anyone entering the 
+classroom. It hangs there, decontextualized forever, as if it is a stand-alone and 
+eternal halo. It is so powerful and enduring that it continues to be the sight in 
+every classroom today. All I had ever heard in China for my twenty-ﬁve years 
+of school presence was study hard to contribute to society. Terefore, what mes-
+sage children and teachers receive is the bare meaning of these words, which, 
+as already noted, is but consistent with the enduring Confucian learning tradi-
+tion. Children study hard regardless of the political system. In a strange way, 
+the very political force that thought itself iconoclastic against tradition ended 
+up promoting and perpetuating the tradition. To me – but to no surprise of any 
+anthropologist – this is but a common manifestation of the enduring power of 
+culture. Viewed from this perspective, this learning tradition transcends time 
+and space and therefore any political system. Te claim of this learning tradi-
+tion meets ample empirical support in and outside China wherever Chinese 
+ﬂourish in the world.
+ 2!. However the universe was deﬁned. Faust got himself in trouble because the 
+universe was conceived of, at his time, as God’s will and design that was not 
+fully knowable by humans; humans were forbidden from pursuing such knowl-
+edge. Although modern philosophy and science no longer treat divinity as the 
+ontological giving of the world, and modern Fausts do not have to give up their 
+lives for their quest, the questions of how the external world is knowable or how 
+certainly it is knowable to humans continue to generate epistemological debates 
+in these ﬁelds.
+
