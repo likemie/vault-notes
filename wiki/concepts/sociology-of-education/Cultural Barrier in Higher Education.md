@@ -1,6 +1,8 @@
 ---
 title: Cultural Barrier in Higher Education
-aliases: []
+aliases:
+  - 高等教育中的文化障碍
+  - 文化障碍
 summary: "弱势背景学生因缺乏精英大学默认要求的文化知识与文化技能而遭遇的无形障碍，会同时限制向上流动机会与主观自我认同"
 type: concept
 tags:

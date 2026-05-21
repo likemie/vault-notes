@@ -72,11 +72,18 @@
   },
   {
     "title": "Cross-National Attraction",
-    "path": "wiki/concepts/comparative-education/Cross-National Attraction.md"
+    "path": "wiki/concepts/comparative-education/Cross-National Attraction.md",
+    "aliases": [
+      "跨国吸引"
+    ]
   },
   {
     "title": "Externalization (Schriewer)",
-    "path": "wiki/concepts/comparative-education/Externalization (Schriewer).md"
+    "path": "wiki/concepts/comparative-education/Externalization (Schriewer).md",
+    "aliases": [
+      "外化",
+      "externalization"
+    ]
   },
   {
     "title": "Further Education",
@@ -99,7 +106,11 @@
   },
   {
     "title": "Global Education Reform Movement (GERM)",
-    "path": "wiki/concepts/comparative-education/Global Education Reform Movement (GERM).md"
+    "path": "wiki/concepts/comparative-education/Global Education Reform Movement (GERM).md",
+    "aliases": [
+      "全球教育改革运动",
+      "GERM"
+    ]
   },
   {
     "title": "International Education",
@@ -119,7 +130,10 @@
   },
   {
     "title": "Membership-Creating Function of Education",
-    "path": "wiki/concepts/comparative-education/Membership-Creating Function of Education.md"
+    "path": "wiki/concepts/comparative-education/Membership-Creating Function of Education.md",
+    "aliases": [
+      "教育的成员资格创造功能"
+    ]
   },
   {
     "title": "Meta-Cultural Sensitivity",
@@ -145,7 +159,11 @@
   },
   {
     "title": "Mondialisation",
-    "path": "wiki/concepts/comparative-education/Mondialisation.md"
+    "path": "wiki/concepts/comparative-education/Mondialisation.md",
+    "aliases": [
+      "世界化",
+      "mondialisation"
+    ]
   },
   {
     "title": "Organizational Actorhood",
@@ -166,11 +184,17 @@
   },
   {
     "title": "Policy Borrowing",
-    "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
+    "path": "wiki/concepts/comparative-education/Policy Borrowing.md",
+    "aliases": [
+      "政策借用"
+    ]
   },
   {
     "title": "Policy Entrepreneur",
-    "path": "wiki/concepts/comparative-education/Policy Entrepreneur.md"
+    "path": "wiki/concepts/comparative-education/Policy Entrepreneur.md",
+    "aliases": [
+      "政策企业家"
+    ]
   },
   {
     "title": "Theories of Policy Change",
@@ -184,7 +208,10 @@
   },
   {
     "title": "Transitology",
-    "path": "wiki/concepts/comparative-education/Transitology.md"
+    "path": "wiki/concepts/comparative-education/Transitology.md",
+    "aliases": [
+      "转型学"
+    ]
   },
   {
     "title": "Varieties of Capitalism",
@@ -950,27 +977,50 @@
   },
   {
     "title": "Academic Well-being and Interest in Learning",
-    "path": "wiki/concepts/learning-science-cognitive-science/Academic Well-being and Interest in Learning.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/Academic Well-being and Interest in Learning.md",
+    "aliases": [
+      "学业幸福感与学习兴趣"
+    ]
   },
   {
     "title": "Assertiveness",
-    "path": "wiki/concepts/learning-science-cognitive-science/Assertiveness.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/Assertiveness.md",
+    "aliases": [
+      "主动表达",
+      "自信表达"
+    ]
   },
   {
     "title": "Cognitive Inhibition",
-    "path": "wiki/concepts/learning-science-cognitive-science/cognitive-inhibition.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/cognitive-inhibition.md",
+    "aliases": [
+      "认知抑制",
+      "inhibition"
+    ]
   },
   {
     "title": "Cognitive Shifting",
-    "path": "wiki/concepts/learning-science-cognitive-science/cognitive-shifting.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/cognitive-shifting.md",
+    "aliases": [
+      "认知转换",
+      "认知灵活性",
+      "task switching"
+    ]
   },
   {
     "title": "Executive Function",
-    "path": "wiki/concepts/learning-science-cognitive-science/executive-function.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/executive-function.md",
+    "aliases": [
+      "执行功能",
+      "EF"
+    ]
   },
   {
     "title": "Learning-Impeding Behavior",
-    "path": "wiki/concepts/learning-science-cognitive-science/Learning-Impeding Behavior.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/Learning-Impeding Behavior.md",
+    "aliases": [
+      "学习阻碍行为"
+    ]
   },
   {
     "title": "Life Power",
@@ -983,43 +1033,74 @@
   },
   {
     "title": "Motivation and Work Effort",
-    "path": "wiki/concepts/learning-science-cognitive-science/Motivation and Work Effort.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/Motivation and Work Effort.md",
+    "aliases": [
+      "学习动机与努力投入"
+    ]
   },
   {
     "title": "Myelination",
-    "path": "wiki/concepts/learning-science-cognitive-science/myelination.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/myelination.md",
+    "aliases": [
+      "髓鞘化"
+    ]
   },
   {
     "title": "Neuroplasticity",
-    "path": "wiki/concepts/learning-science-cognitive-science/Neuroplasticity.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/Neuroplasticity.md",
+    "aliases": [
+      "神经可塑性"
+    ]
   },
   {
     "title": "Prefrontal Cortex",
-    "path": "wiki/concepts/learning-science-cognitive-science/prefrontal-cortex.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/prefrontal-cortex.md",
+    "aliases": [
+      "前额叶皮层",
+      "PFC"
+    ]
   },
   {
     "title": "School Norm Adaptation",
-    "path": "wiki/concepts/learning-science-cognitive-science/School Norm Adaptation.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/School Norm Adaptation.md",
+    "aliases": [
+      "学校规范适应"
+    ]
   },
   {
     "title": "Self-control",
-    "path": "wiki/concepts/learning-science-cognitive-science/Self-control.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/Self-control.md",
+    "aliases": [
+      "自我控制"
+    ]
   },
   {
     "title": "Synaptic Pruning",
-    "path": "wiki/concepts/learning-science-cognitive-science/synaptic-pruning.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/synaptic-pruning.md",
+    "aliases": [
+      "突触修剪"
+    ]
   },
   {
     "title": "Synaptogenesis",
-    "path": "wiki/concepts/learning-science-cognitive-science/synaptogenesis.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/synaptogenesis.md",
+    "aliases": [
+      "突触发生"
+    ]
   },
   {
     "title": "Updating and Monitoring",
-    "path": "wiki/concepts/learning-science-cognitive-science/updating-and-monitoring.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/updating-and-monitoring.md",
+    "aliases": [
+      "更新与监控"
+    ]
   },
   {
     "title": "Working Memory",
-    "path": "wiki/concepts/learning-science-cognitive-science/working-memory.md"
+    "path": "wiki/concepts/learning-science-cognitive-science/working-memory.md",
+    "aliases": [
+      "工作记忆"
+    ]
   },
   {
     "title": "Classical Geopolitics",
@@ -1250,6 +1331,15 @@
       "空间分选",
       "spatial sortings",
       "空间分化"
+    ]
+  },
+  {
+    "title": "VUCA",
+    "path": "wiki/concepts/political-economy-geopolitics/VUCA.md",
+    "aliases": [
+      "波动性-不确定性-复杂性-模糊性",
+      "VUCA 框架",
+      "VUCA环境"
     ]
   },
   {
@@ -1504,7 +1594,11 @@
   },
   {
     "title": "Cultural Barrier in Higher Education",
-    "path": "wiki/concepts/sociology-of-education/Cultural Barrier in Higher Education.md"
+    "path": "wiki/concepts/sociology-of-education/Cultural Barrier in Higher Education.md",
+    "aliases": [
+      "高等教育中的文化障碍",
+      "文化障碍"
+    ]
   },
   {
     "title": "Cultural Capital",
@@ -1540,7 +1634,10 @@
   },
   {
     "title": "Gender Differences in Academic Achievement",
-    "path": "wiki/concepts/sociology-of-education/Gender Differences in Academic Achievement.md"
+    "path": "wiki/concepts/sociology-of-education/Gender Differences in Academic Achievement.md",
+    "aliases": [
+      "学业成就性别差异"
+    ]
   },
   {
     "title": "Goal-Controlled Mode",
@@ -1614,7 +1711,10 @@
   },
   {
     "title": "Sociology of Measurement",
-    "path": "wiki/concepts/sociology-of-education/Sociology of Measurement.md"
+    "path": "wiki/concepts/sociology-of-education/Sociology of Measurement.md",
+    "aliases": [
+      "测量社会学"
+    ]
   },
   {
     "title": "Stereotype Threat",
@@ -1626,7 +1726,10 @@
   },
   {
     "title": "Symbolic Boundary",
-    "path": "wiki/concepts/sociology-of-education/Symbolic Boundary.md"
+    "path": "wiki/concepts/sociology-of-education/Symbolic Boundary.md",
+    "aliases": [
+      "象征边界"
+    ]
   },
   {
     "title": "Tense Society",
@@ -1638,7 +1741,10 @@
   },
   {
     "title": "The Shock of the Elite",
-    "path": "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
+    "path": "wiki/concepts/sociology-of-education/The Shock of the Elite.md",
+    "aliases": [
+      "精英冲击"
+    ]
   },
   {
     "title": "Value Conformist Mode",

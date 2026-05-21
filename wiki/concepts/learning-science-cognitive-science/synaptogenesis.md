@@ -1,6 +1,7 @@
 ---
 title: Synaptogenesis
-aliases: []
+aliases:
+  - 突触发生
 summary: "中枢神经系统中新突触形成和扩增的过程，用于解释大脑如何在发展和经验作用下建立新的神经连接。"
 type: concept
 tags:

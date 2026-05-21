@@ -1,6 +1,8 @@
 ---
 title: Prefrontal Cortex
-aliases: []
+aliases:
+  - 前额叶皮层
+  - PFC
 summary: "位于额叶前部、与计划、抑制、决策和执行功能密切相关的脑区，是理解高阶认知控制和发展晚熟性的关键神经基础。"
 type: concept
 tags:

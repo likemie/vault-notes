@@ -1,6 +1,8 @@
 ---
 title: Assertiveness
-aliases: []
+aliases:
+  - 主动表达
+  - 自信表达
 summary: "学生在课堂互动中主动表达、提出观点和参与交流的倾向，用于描述学习参与中的主动性和表达能力。"
 type: concept
 tags:

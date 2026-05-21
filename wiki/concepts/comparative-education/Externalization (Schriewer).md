@@ -1,6 +1,8 @@
 ---
 title: Externalization (Schriewer)
-aliases: []
+aliases:
+  - 外化
+  - externalization
 summary: "教育系统把内部问题投射到外部参照框架中加以理解和正当化的过程，是比较教育中解释政策参照与国际借鉴的重要概念"
 type: concept
 tags:

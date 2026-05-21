@@ -1,6 +1,7 @@
 ---
 title: Learning-Impeding Behavior
-aliases: []
+aliases:
+  - 学习阻碍行为
 summary: "学生在课堂中表现出的干扰同伴、分心、疲惫或其他妨碍学习过程的行为，用于描述不利于学习参与和课堂秩序的行为模式。"
 type: concept
 tags:

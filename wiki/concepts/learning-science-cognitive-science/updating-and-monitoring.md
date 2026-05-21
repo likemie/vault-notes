@@ -1,6 +1,7 @@
 ---
 title: Updating and Monitoring
-aliases: []
+aliases:
+  - 更新与监控
 summary: "执行功能的核心成分，指对工作记忆内容进行持续更新、监控和调整的能力，用于支持复杂推理、问题解决和任务管理。"
 type: concept
 tags:

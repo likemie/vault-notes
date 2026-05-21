@@ -1,6 +1,7 @@
 ---
 title: The Shock of the Elite
-aliases: []
+aliases:
+  - 精英冲击
 summary: "弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，常表现为习性失配、归属感受损和行动方向不稳"
 type: concept
 tags:

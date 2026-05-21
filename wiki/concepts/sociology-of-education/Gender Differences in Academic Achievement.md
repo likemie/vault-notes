@@ -1,6 +1,7 @@
 ---
 title: Gender Differences in Academic Achievement
-aliases: []
+aliases:
+  - 学业成就性别差异
 summary: "学生学业表现中的性别差异现象，常用于分析学校规范适应、学习动机、行为评价和制度期待如何共同影响成绩分化。"
 type: concept
 tags:

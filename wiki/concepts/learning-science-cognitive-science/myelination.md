@@ -1,6 +1,7 @@
 ---
 title: Myelination
-aliases: []
+aliases:
+  - 髓鞘化
 summary: "在轴突周围形成髓鞘的过程，用于提高神经信号传输速度并支持神经系统的成熟与高效运作。"
 type: concept
 tags:

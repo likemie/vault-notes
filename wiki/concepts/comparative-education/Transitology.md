@@ -1,6 +1,7 @@
 ---
 title: Transitology
-aliases: []
+aliases:
+  - 转型学
 summary: "描述国家机器、社会分层和政治愿景在转型时期同时崩解与重建的比较教育概念，强调教育在制度重组中的象征与重构作用"
 type: concept
 tags:

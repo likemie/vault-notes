@@ -1,6 +1,7 @@
 ---
 title: Synaptic Pruning
-aliases: []
+aliases:
+  - 突触修剪
 summary: "通过清除低效或较少使用连接来精简神经回路的过程，用于解释大脑如何在发展中提高处理效率和功能专门化。"
 type: concept
 tags:

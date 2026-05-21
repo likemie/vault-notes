@@ -1,6 +1,7 @@
 ---
 title: Cross-National Attraction
-aliases: []
+aliases:
+  - 跨国吸引
 summary: "政策借用过程中外部教育经验之所以显得有吸引力的阶段性机制，涉及结构条件、行动者动机以及不同类型的借用火花"
 type: concept
 tags:
