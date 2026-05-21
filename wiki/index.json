@@ -122,6 +122,16 @@
     ]
   },
   {
+    "title": "Heart and Mind for Wanting to Learn",
+    "path": "wiki/concepts/comparative-education/Heart and Mind for Wanting to Learn.md",
+    "aliases": [
+      "好學心",
+      "hao-xue-xin",
+      "好学心",
+      "心向学"
+    ]
+  },
+  {
     "title": "International Education",
     "path": "wiki/concepts/comparative-education/International Education.md",
     "aliases": [
@@ -1444,8 +1454,8 @@
     ]
   },
   {
-    "title": "Evidence-Informed Practice (EIP)",
-    "path": "wiki/concepts/research-methodology/Evidence-Informed Practice (EIP).md",
+    "title": "Evidence-Informed Practice",
+    "path": "wiki/concepts/research-methodology/Evidence-Informed Practice.md",
     "aliases": [
       "证据知情实践",
       "EIP"
@@ -2526,6 +2536,13 @@
     "path": "wiki/persons/china/Chen Xie.md",
     "aliases": [
       "谢晨"
+    ]
+  },
+  {
+    "title": "Jin Li",
+    "path": "wiki/persons/china/Jin Li.md",
+    "aliases": [
+      "李瑾"
     ]
   },
   {
@@ -3990,6 +4007,10 @@
       "WWC单一个案设计试行标准",
       "WWC SCD标准"
     ]
+  },
+  {
+    "title": "Argument_Li_2012_Cambridge",
+    "path": "wiki/arguments/books/Argument_Li_2012_Cambridge.md"
   },
   {
     "title": "Argument_Amos_2022_Springer",

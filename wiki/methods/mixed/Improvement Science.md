@@ -102,7 +102,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - **vs [[Evidence-Based Education]]** — EBE 关注"什么有效"（项目层面证据）；改进科学关注"什么在什么情境中导致改进"（过程和互动层面证据）。Peterson 论证两者互补而非竞争
-> - **vs [[Evidence-Informed Practice (EIP)]]** — EIP 将证据定位为多种因素之一供教师判断；改进科学将教师定位于系统性地生成和检验关于改进的假设
+> - **vs [[Evidence-Informed Practice]]** — EIP 将证据定位为多种因素之一供教师判断；改进科学将教师定位于系统性地生成和检验关于改进的假设
 
 ## 实证发现
 

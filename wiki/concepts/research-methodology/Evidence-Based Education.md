@@ -27,7 +27,7 @@ related_concepts:
 - '[[Australian Curriculum]]'
 - '[[Scientism]]'
 - '[[Cargo Cult Science]]'
-- '[[Evidence-Informed Practice (EIP)]]'
+- '[[Evidence-Informed Practice]]'
 - '[[Local Knowledge in Evidence-Based Policy]]'
 - '[[Programme Fidelity vs Adaptation]]'
 - '[[Effect Size]]'
@@ -362,7 +362,7 @@ Pampaka et al. (2016, p.235) 总结了特刊论文的共识方向：
 - **vs [[Value-Based Education]]** — [[Gert Biesta|Biesta]] (2010) 论证：证据本位教育将"什么有效"置于首位；价值本位教育将"什么是值得做的"置于首位
 - **vs 循证医学（Evidence-Based Medicine）** — 循证医学是 EBE 的**起源**和**主要类比**，但 Biesta、[[Nancy Cartwright|Cartwright]]、[[Terry Wrigley|Wrigley]] & McCusker 分别从教育哲学、科学哲学和方法论角度论证了直接类比的局限。[[Dylan Wiliam|Wiliam]] (2019, p.4) 通过追溯 Hargreaves (1996) TTA 讲座的历史起源，展示医学类比如何从一开始就塑造了 EBE 的议程
 - **vs [[Local Knowledge in Evidence-Based Policy]]** — 本地知识是 EBE 实施中常被忽视但不可或缺的互补性知识来源；Wiliam (2019, pp.12–13) 以 Hayek (1945) 的知识理论为此提供政治经济学基础
-- **vs [[Evidence-Informed Practice (EIP)]]** — EBE 使研究证据成为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 [[Julie Nelson|Nelson]] & [[Carol Campbell|Campbell]] (2017) 系统阐述
+- **vs [[Evidence-Informed Practice]]** — EBE 使研究证据成为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 [[Julie Nelson|Nelson]] & [[Carol Campbell|Campbell]] (2017) 系统阐述
 - **vs [[Effect Size]]** — 效应量是 EBE 方法论的核心分析单位；[[Adrian Simpson|Simpson]] 论证其测量试验灵敏度而非有效性；Wiliam (2019, p.11) 明确断言"元-元分析在教育政策制定中绝对没有任何角色"
 - **vs [[Dynamic Knowledge and Learning Model]]** — EBE 常回答"有没有效"；动态模型进一步追问"对哪一类知识有效"，用于细化 EBE 的结果解释层。
 - **vs [[Validity as Inferences]]** — Wiliam (2019, pp.9–10) 将 Cronbach/Messick 的效度理论应用于教育研究方法论：效度是推论的属性，意味着 EBE 的"什么有效"知识永远是临时且局部的

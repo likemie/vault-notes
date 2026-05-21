@@ -15,7 +15,7 @@ tags:
 - research-use
 - school-improvement
 related_concepts:
-- '[[Evidence-Informed Practice (EIP)]]'
+- '[[Evidence-Informed Practice]]'
 - '[[Evidence-Based Education]]'
 - '[[Professional Judgment]]'
 related_theories: []
@@ -48,7 +48,7 @@ updated: '2026-05-21'
 
 > [!example]
 > - **vs [[Evidence-Based Education]]** — EBE 更常追问“什么有效”；KMb 追问的是“这些知识如何被带进学校、被谁翻译、通过什么机制变成行动”。
-> - **vs [[Evidence-Informed Practice (EIP)]]** — EIP 是一种实践取向，强调证据、数据与专业判断的整合；KMb 更像支撑 EIP 的中介过程理论，解释研究如何在系统中流动、被重组和被采用。
+> - **vs [[Evidence-Informed Practice]]** — EIP 是一种实践取向，强调证据、数据与专业判断的整合；KMb 更像支撑 EIP 的中介过程理论，解释研究如何在系统中流动、被重组和被采用。
 > - **vs [[Professional Judgment]]** — 专业判断是教师或领导者在具体情境中的决策能力；KMb 关注的是这些判断所需的研究知识如何进入现场并被消化。
 
 ## 概念演变
@@ -72,7 +72,7 @@ updated: '2026-05-21'
 ## 理论基础
 
 > [!tip]
-> - [[Evidence-Informed Practice (EIP)]] — 知识动员为 EIP 提供中介机制解释，说明证据如何从研究世界进入实践世界。
+> - [[Evidence-Informed Practice]] — 知识动员为 EIP 提供中介机制解释，说明证据如何从研究世界进入实践世界。
 > - [[Professional Judgment]] — 知识动员并不取消专业判断，反而预设研究知识必须经过实践者的情境化判断才能产生作用。
 
 ## 实证发现
@@ -93,7 +93,7 @@ updated: '2026-05-21'
 ## 相关案例／政策
 
 > [!example]
-> - [[Evidence-Informed Practice (EIP)]] — 知识动员在教育领域最清晰的应用场景之一。
+> - [[Evidence-Informed Practice]] — 知识动员在教育领域最清晰的应用场景之一。
 > - [[Visible Learning]] — 在北欧学校改进语境中，知识动员被用来解释研究知识如何从可见学习论述进入教师协作与课堂行动（Nordahl, 2015, pp.66–67）。
 
 ## 来源

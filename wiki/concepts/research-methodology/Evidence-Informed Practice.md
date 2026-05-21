@@ -1,0 +1,128 @@
+---
+title: Evidence-Informed Practice
+aliases:
+  - 证据知情实践
+  - EIP
+summary: "一种将研究证据视为多种决策资源之一的实践取向，强调教育者通过专业判断整合研究、课堂数据和系统信息来形成行动。"
+type: concept
+tags:
+- evidence-informed-practice
+- evidence-based-education
+- professional-judgment
+- knowledge-mobilisation
+- research-use
+- region/global
+related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Local Knowledge in Evidence-Based Policy]]'
+- '[[Knowledge Mobilisation]]'
+related_theories: []
+related_methods: []
+related_persons:
+- '[[Julie Nelson]]'
+- '[[Carol Campbell]]'
+related_facts: []
+related_arguments: []
+sources:
+- '[[Nelson_2017_ER]]'
+confidence: medium
+status: draft
+created: '2026-05-01'
+updated: '2026-05-21'
+---
+
+## 定义
+
+> [!info] 定义
+> 证据知情实践（Evidence-Informed Practice, EIP）是一种教育决策取向：研究证据只是影响实践判断的多个资源之一，教育者需要把研究、课堂数据、系统信息与专业判断一起整合，而不是被单一证据源驱动（Nelson & Campbell, 2017, pp.127–129）。
+>
+> > "We named this special issue Evidence-informed practice in education to reflect our view that evidence is just one of a number of factors that influence educational decisions, with educators needing to apply professional judgment, rather than being driven solely by research evidence or data."（Nelson & Campbell, 2017, p.128）
+
+## 核心要素
+
+> [!abstract]
+> 当前材料里，EIP 最适合先按主题而不是按时间理解。
+
+### 多源证据整合
+
+Nelson & Campbell (2017, p.129) 把 EIP 概括成四类资源的整合：
+
+1. **专业判断**：教育者基于经验、价值观和情境理解作出的判断
+2. **系统层面数据**：学校、学区、州/省或国家的管理与评估数据
+3. **课堂数据**：形成性评估、观察、学生作业等现场信息
+4. **研究证据**：来自学术研究的发现，包括但不限于实验研究
+
+> [!example]
+> 一个教师决定如何教分数概念时，可能同时考虑分数教学研究、班级最近的数学表现、昨天课堂里学生对前置概念的掌握情况，以及自己多年教这个单元的经验。EIP 要求的不是“只听研究”，而是把这些不同来源放到同一个审议过程里。
+
+### 证据不是命令
+
+EIP 的核心分歧不在“要不要看研究”，而在“研究在决策里是什么地位”。这里研究证据不被理解成直接决定课堂行动的命令，而被理解成进入专业判断过程的一类输入（Nelson & Campbell, 2017, p.128–129）。
+
+### 肥沃的土壤与中介条件
+
+Nelson & Campbell (2017, p.127) 用“肥沃的土壤”说明 EIP 成败不取决于研究是否存在，而取决于教育者是否具备接住证据的条件：
+
+- **可及性**：能否接触高质量、相关研究
+- **能力**：是否具备研究素养与数据分析能力
+- **时间**：是否有专门时间做合作探究
+- **文化**：学校和系统是否把证据使用视为专业学习的一部分
+- **中介**：学校领导、专业协会、研究机构等是否发挥连接作用
+
+### 与知识动员的关系
+
+EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则更进一步解释“这些知识是怎样进入学校并被翻译成行动的”。两者是分工关系，而不是重复概念。
+
+## 与相关概念的区别
+
+> [!example] 与相关概念的区别
+> - **vs [[Evidence-Based Education]]** — EBE 更容易把研究证据，尤其高等级实验证据，放在实践决策中心；EIP 则明确把证据定位为多种因素之一，最终仍需通过专业判断整合。
+> - **vs [[Local Knowledge in Evidence-Based Policy]]** — EIP 将本地知识和专业判断直接内置进定义，不把它们视为证据应用后的外部修正。
+> - **vs Research-Informed Practice** — Nelson & Campbell (2017, p.129) 强调研究证据不等于全部证据，课堂数据和系统数据同样重要；因此 EIP 比单纯“research-informed”更强调多源整合。
+
+## 历史沿革
+
+> [!note]
+> - **1979** — Weiss 的研究利用工作为后续“研究如何进入实践”的讨论提供早期基础。
+> - **1996** — Hargreaves 提出“教学作为研究本位专业”，为教育领域的证据使用争论提供政策起点。
+> - **2000s–2010s** — 英国 Teaching and Learning Research Programme、美国问责政策变化以及加拿大安大略省教育研究与评估战略等，共同推动 EIP 的制度化讨论。
+> - **2013** — 英国 ResearchED 兴起，草根教师研究使用运动增强。
+> - **2015** — “Flip the System”等论述强化了教师主导、专业判断优先的改进语言。
+> - **2017** — Nelson & Campbell 编辑 *Educational Research* 特刊，把 EIP 系统整合为定义、应用和测量三个维度的讨论。
+
+## 理论基础
+
+> [!info] 理论基础
+> - **[[Knowledge Mobilisation]]** — 说明研究知识如何被传播、翻译和嵌入实践，是 EIP 的关键中介框架。
+> - **[[Professional Judgment]]** — EIP 预设教学是一种需要情境化判断的专业实践，因此证据提供输入，但不替代判断。
+
+## 实证发现
+
+> [!success] 实证发现
+> - **教师间传播占主导**：教师主要从其他教师处获取关于有效实践的信息（Cooper et al., cited in Nelson & Campbell, 2017, p.130）。
+> - **实践产生的证据使用比研究使用更普遍**：即使主动发展教师证据使用，实践产生的证据仍比原始研究更常被使用（LaPointe-McEwan et al., cited in Nelson & Campbell, 2017, p.130）。
+> - **EIP 的积极影响已有初步证据，但仍不足**：关于 EIP 对学校改进的影响已有一些支持性发现，但 Dagenais et al. (2012) 仍被概括为“证据很少”（Nelson & Campbell, 2017, p.131）。
+> - **实践者参与研究正在增加，但仍有距离**：教师与研究的关联在英国已更常见，但离广泛、稳定的专业常态仍有差距（CUREE, 2011, cited in Nelson & Campbell, 2017, p.130）。
+
+> [!info]- 核心数据
+> - Nelson & Campbell (2017, p.129) 将 EIP 概括为 4 类核心证据资源。
+> - Nelson & Campbell (2017, p.131) 明确指出关于 EIP 成效的直接证据仍然有限。
+
+## 争议与批评
+
+> [!warning]
+> - **是否只是 EBP 的软版本**：支持强版本 EBE 的立场常把 EIP 视为“证据可以被随意忽视”的宽松版本；而 EIP 支持者则认为它更准确地描述了教育决策的复杂性（Nelson & Campbell, 2017, p.128–129）。
+> - **测量困境**：EIP 越强调情境依赖和动态整合，就越难被简单量化；Nelson & Campbell (2017, p.133) 明确提醒，不能只研究那些最容易量化的部分。
+> - **英语国家中心主义**：当前被整合的案例主要来自英语或欧洲语境，EIP 在非西方教育系统中的概念化与制度条件仍欠缺呈现。
+
+## 相关案例／政策
+
+> [!example]
+> - [[ResearchED]] — 英国教师草根证据使用运动。
+> - [[What Works Network (UK)]] — 更偏 EBP 制度化的一侧，与 EIP 取向存在张力。
+> - [[Carol Campbell]] — 在安大略系统改革中把 EIP 与教育领导力、知识动员连接起来。
+> - [[Julie Nelson]] — 把 EIP 推向测量与经验研究层面。
+
+## 来源
+
+- [[Nelson_2017_ER]]

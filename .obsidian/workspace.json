@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "08f9cf39888b1f3b",
+        "id": "7e847e178c477d58",
         "type": "tabs",
         "children": [
           {
-            "id": "b617fa66a12a6d81",
+            "id": "05ff7f377a4eb1b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Argument_Yu_2024_CE.md",
+                "file": "wiki/facts/singapore/Singapore Education Hub Policy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Yu_2024_CE"
+              "title": "Singapore Education Hub Policy"
             }
           }
         ]
@@ -187,13 +187,25 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b617fa66a12a6d81",
+  "active": "05ff7f377a4eb1b1",
   "lastOpenFiles": [
+    "books/Li_2012_Cambridge/Cultural Foundations of Learning _ East and West 引言.pdf",
+    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
+    "wiki/persons/china/Jin Li.md",
+    "wiki/concepts/comparative-education/Heart and Mind for Wanting to Learn.md",
+    "sources/Hansen_2015_Paideia.md",
+    "wiki/arguments/journal-articles/Argument_Hansen_2015_Paideia.md",
+    "wiki/persons/norway/Thomas Nordahl.md",
+    "wiki/arguments/journal-articles/Argument_Yu_2024_CE.md",
+    "books/Li_2012_Cambridge/chapters/ch00_Preface.txt",
+    "books/Li_2012_Cambridge/chapters",
+    "books/Li_2012_Cambridge",
+    "wiki/concepts/research-methodology/Evidence-Informed Practice.md",
+    "raw/Cultural Foundations of Learning _ East and West 引言.pdf",
     "wiki/concepts/research-methodology/Knowledge Mobilisation.md",
     "wiki/concepts/research-methodology/Knowledge Mobilisation (KMb).md",
-    "wiki/persons/norway/Thomas Nordahl.md",
     "wiki/concepts/sociology-of-education/Symbolic Boundary.md",
-    "wiki/arguments/journal-articles/Argument_Yu_2024_CE.md",
     "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
     "wiki/methods/qualitative/In-depth Interview.md",
     "wiki/arguments/journal-articles/Argument_Nordahl_2015_Paideia.md",
@@ -210,21 +222,9 @@
     "sources/10.1080_03050068.2023.2273641.md",
     "wiki/facts/china/Confucian Revival in China.md",
     "information/Comparative Education.md",
-    "wiki/concepts/comparative-education/Sinicisation.md",
     "sources/10.1080_03050068.2023.2273641.pdf",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zelinka_2022_SCD_subjectivity.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md",
-    "wiki/concepts/political-economy-geopolitics/Official Knowledge.md",
-    "wiki/arguments/journal-articles/Argument_Yu_2024_Comparative_Education.md",
-    "wiki/arguments/journal-articles/Argument_Yan_2025_JCS.md",
     "raw/10.1080_03050068.2023.2273641.pdf",
-    "information/Journal of Comparative and International Education_20260503_1825.md",
-    "wiki/theories/educational-philosophy/Phenomenology.md",
     "books/Parreira do Amaral(Ed.)_2022_Springer/Ch15_Zelinka_2022.pdf",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.pdf",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022.pdf",
-    "sources/Marginson_2025_ROE.pdf",
-    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.pdf",
     "books/郑_2023_上海三联书店/第三章.jpeg",
     "books/郑_2023_上海三联书店/附录一个案描述5.jpeg",
     "books/郑_2023_上海三联书店/第五章 四种类型的毕业出路获得机制.jpeg",

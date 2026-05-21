@@ -16,7 +16,7 @@ tags:
 - region/canada
 - region/global
 related_concepts:
-- '[[Evidence-Informed Practice (EIP)]]'
+- '[[Evidence-Informed Practice]]'
 - '[[Evidence-Based Education]]'
 - '[[Knowledge Mobilisation]]'
 related_theories: []
