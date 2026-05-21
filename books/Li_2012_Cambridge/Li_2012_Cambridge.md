@@ -18,6 +18,7 @@ extracted_to:
 - "[[Wang Yangming]]"
 - "[[Confucian Learning Tradition]]"
 - "[[Civil Service Examination]]"
+- "[[University Motto]]"
 processed_date: 2026-05-22
 ---
 
