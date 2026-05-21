@@ -3,7 +3,7 @@ title: Network Governance
 aliases:
 - 网络治理
 - network governance in education
-summary: "传统市场/科层制公立学校治理被网络与部落形式取代，Thompson (1991) 为理论框架，新西兰自 2008 年加速发展"
+summary: "以多主体网络协作、关系协调和分布式控制替代单一科层或市场机制的治理方式。"
 type: concept
 tags:
 - network-governance

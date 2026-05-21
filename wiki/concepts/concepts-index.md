@@ -55,31 +55,31 @@ Total entries: **216**
 ## Educational Philosophy
 
 - [[Bildung]] — 源自德国精神科学传统的品格陶成概念，主张教育应指向超越工具性学习和数据相关性的开放未来；在数字治理语境中，其开放性与 OSA 可预测性逻辑构成根本张力
-- [[Blind Spot in Observation]] — Niklas Luhmann 的观察盲点概念：每次观察都基于盲点，观察者无法看见自身，Larsen 将其应用于 VL 范式批判
+- [[Blind Spot in Observation]] — Luhmann 的观察概念，指每次观察都建立在某个无法被观察者同时看见的盲点之上。
 - [[Buen Vivir]] — 安第斯原住民传统中的好好生活概念，强调与自然、共同体和日常再生产保持和谐，而不是把更多消费视为更好生活
-- [[Cargo Cult Science]] — Feynman (1974) 概念：看起来像科学但缺乏认识论诚信的伪科学实践，应用于 VL 批判
-- [[Complexity Reduction]] — 通过减少系统中的可用选项数量使社会情境变得可预测，Biesta 将其定义为政治权力行为
-- [[Ecomuseology]] — 生态博物馆学：将整个地域视为博物馆，由社区主导保护和阐释自然与文化遗产，与巴西社会博物馆学高度交叉共存
-- [[Epistemological Break]] — Bourdieu 认识论核心概念：科学研究必须与前科学世界的日常语言和自发理解决裂，Eacott 将其引入教育行政研究
-- [[Epistemological Vigilance]] — Bourdieu 认识论核心概念：社会科学家需持续保持对日常语言和前科学概念的批判性警觉，是终身的智识项目
-- [[Epistemology of Resistance]] — 抵抗认识论：从被排斥群体的具体经验出发构建替代性知识形式，Rocinha 贫民窟剧场导演 Castelo Branco 的 EspectAtor 方法为核心实践案例
+- [[Cargo Cult Science]] — Feynman 提出的概念，指看起来像科学却缺乏认识论诚信和自我纠错精神的伪科学实践。
+- [[Complexity Reduction]] — 通过减少系统中的可用选项数量使社会情境变得更可预测的过程，常用于分析权力如何组织选择空间。
+- [[Ecomuseology]] — 将整个地域视为博物馆并由社区主导保护和阐释自然与文化遗产的博物馆学取向。
+- [[Epistemological Break]] — Bourdieu 的认识论概念，指科学研究必须与前科学世界的日常语言和自发理解进行断裂。
+- [[Epistemological Vigilance]] — Bourdieu 的认识论概念，指研究者需持续对日常语言、前科学概念和研究习惯保持批判性警觉。
+- [[Epistemology of Resistance]] — 从被排斥群体的具体经验出发构建替代性知识形式的认识论取向，用于反抗支配性知识秩序。
 - [[Humosity]] — 将人类去中心化并置入物质循环之中的后人类主义概念，强调人类生命只是更广泛生态生成与腐解过程中的一环
 - [[Incarnation-Extension Dialectics]] — 把学习理解为具身存在与向外延展之间双向运动的框架，强调身体、环境和世界关系在认知形成中的共同作用
 - [[Learnification]] — 批判教育被学习结果和效果逻辑全面重写的概念，指出教师角色、课程内容和教育目的会被压缩为促进可测学习的手段
-- [[Moral Sidestep]] — 政策制定者以道德关切回避或替代实证研究证据的话语策略，在教育政策辩论中常表现为把价值判断包装成证据立场
-- [[Multiplicity (Massey)]] — Doreen Massey (2005) 的空间理论核心概念：空间中差异的共存，多重轨迹交汇产生不可预测性，\"总是有松散的末端\"意味着任何权力系统都无法永久固定
-- [[Narrative Knowledge]] — Lyotard (1979/1984) 区分于科学知识的社科人文知识类型，Partaken 分析其在全球化中因商业价值科学知识崛起而急剧衰退
+- [[Moral Sidestep]] — 以道德关切回避、替代或压过实证研究证据的话语策略，常用于分析政策争论中的价值与证据错位。
+- [[Multiplicity (Massey)]] — Massey 的空间理论概念，指空间中差异、关系和多重轨迹的共存，由此带来开放性和不可预测性。
+- [[Narrative Knowledge]] — Lyotard 区分于科学知识的知识类型，强调通过故事、传统和文化实践传递意义与合法性。
 - [[Otherhood]] — 组织为其他行动者、非行动者实体或抽象原则行使代理权的社会过程，用于解释现代机构如何代表更广泛价值与权威行动
 - [[Posthumanism]] — 将人类从世界中心位置移开并强调人与非人共同生成、相互依存和关系责任的思想取向，是现代人类中心主义的重要批判方向
 - [[Response-ability]] — 把责任理解为对他者和共同世界保持敏感并具备回应能力的伦理概念，是后人类主义关系伦理的重要核心
-- [[Scientism]] — 对科学方法的过度美化及在其原始范围之外轻率应用，Gasparatou/Hayek/Ross 等定义，Johnson & Janzen 将其应用于 VL 批判
-- [[Social Museology]] — 社会博物馆学（sociomuseologia）：将博物馆定位为社区发展工具，居民自己选择展品、讲述故事、保存记忆，巴西社区博物馆和生态博物馆为其主要实践形式
+- [[Scientism]] — 对科学方法和科学权威的过度美化，以及将其轻率扩展到原本不适用领域的思想倾向。
+- [[Social Museology]] — 将博物馆定位为社区发展、记忆保存和公共参与工具的博物馆学取向。
 - [[Structural Coupling]] — 系统理论中的概念，指两个自我指涉系统在保持各自封闭性的同时通过稳定接口相互关联而非直接因果控制
 - [[Sympoiesis]] — 强调存在总是在与他者共同制造中生成的后人类主义概念，突出跨物种相互依存、协作生成和伦理回应关系
-- [[Ubuntu]] — 非洲关系性伦理哲学：\"一个人之所以为人，是因为其他人\"（I am because we are），Amos (2022) 将其与后人类主义并置为非西方的关系性本体论资源
+- [[Ubuntu]] — 强调个体在关系中成其为人的非洲关系性伦理哲学，用于理解共同体、互依性和相互责任。
 - [[Value-Based Education]] — 把教育目的与价值判断置于证据选择之前的教育取向，强调先回答想培养什么样的人与社会，再讨论什么做法有效
 - [[Vergegenkunft]] — 把过去、现在和未来压缩进同一时间结构的文学概念，用来表达历史经验与未来想象在当下不断纠缠的非线性时间感
-- [[Whole Sustainability]] — 整体可持续性：Delambre 将张力理论应用于可持续性领域的概念，纳入局部社区的一切生命力量要素及内外部威胁
+- [[Whole Sustainability]] — 把可持续性理解为纳入局部社区生命力量、关系网络和内外部威胁的整体性概念。
 
 ## Educational Technology
 
@@ -94,37 +94,37 @@ Total entries: **216**
 ## Higher Education
 
 - [[Academic and Social Integration]] — 解释大学生如何通过学术融入与社交融入逐步稳定留在高等教育体系中的学生发展概念，强调归属感与参与质量的重要性
-- [[Academic Engagement]] — 学业投入：学生向学术性教育活动投入的时间精力，Tinto 学业融入与 Kuh 学生投入的交叉维度，郑雅君 (2023) 作为\"投入过程\"的两大分析轴之一
-- [[Competitiveness in Higher Education]] — 高等教育中以排名、指标化和审计文化为基础设施的地缘政治装置，将大学重塑为市场参与者；在教学领域表现为对学生潜在未来努力的预期管理，通过预判性治理工具将不确定性转化为可治理对象
-- [[Critic and Conscience of Society]] — Gerald Grace 1988 年提出、后写入新西兰大学立法的概念：大学在民主社会中有独立的权力制衡角色，须基于系统公正分析\"向权力说真话\"，区别于仅关注学科内部的正常学术批评
-- [[Double Spatiality of Universities]] — 大学的双重空间特征：同时扎根于具体的城市与国家，又通过学术流动和开放心智视野跨越边界，贯穿从佛教寺院到现代大学的高等教育史
+- [[Academic Engagement]] — 学生向学术性教育活动投入的时间、精力和注意力，用于描述其在课程学习、课堂参与和学术任务中的投入程度。
+- [[Competitiveness in Higher Education]] — 以排名、指标化和审计文化为基础设施的高等教育竞争逻辑，将大学重塑为争夺资源、声誉和地位的市场参与者。
+- [[Critic and Conscience of Society]] — 指大学在民主社会中承担独立批判和公共良知角色的概念，强调其不仅生产知识，也要基于公共责任对权力和社会问题发声。
+- [[Double Spatiality of Universities]] — 大学同时扎根于具体城市与国家，又通过学术流动、网络和知识视野跨越边界的双重空间特征。
 - [[Economy of Experience]] — 大学生将课余经历、活动和自我展示精细投资管理以积累履历资本的竞争逻辑，是高等教育就业竞争向生活全域扩展的表现
 - [[Employability]] — 知识经济时代围绕毕业生可雇用性形成的比较排序逻辑，文凭只是入场门槛，个体还需通过经历管理和能力展示争取竞争优势
-- [[Epistemic Drift]] — Elzinga (1997) 的概念、Zapp (2022) 引入高等教育研究：研究者将学术议程对齐资助方偏好的系统性漂移，是科学-政治关系三级恶化光谱中的第一级
-- [[Epistemic Governance]] — 以规范、认知和知识为基础的全球治理机制，与强制和规制性硬治理形成对照；大学通过提供科学知识、培养全球治理专家和推行大学社会责任在去中心化全球治理架构中占据知识权威位置
-- [[Global Regionalisms in Higher Education]] — Robertson et al. (2016) 的概念：高等教育被整合进世界各地区大规模政治经济区域整合项目（EU、ASEAN 等），成为区域地缘政治想象的核心支柱
-- [[Global Universities Rankings]] — 对各国高等教育机构进行比较性评估和排序的工具系统，已成为驱动高教系统转型和地缘政治竞争的核心力量；作为竞争性大学地缘政治装置的基础设施，排名通过指标化创造而非仅描述竞争关系
-- [[Graduate Attributes]] — 大学认同其学生在学期间应当发展的品质、技能和理解，受高等教育市场化驱动，Wong et al. (2022) 识别 UK 四大话语
-- [[International Education Hubs]] — Knight 提出的概念，国家将自身战略性地定位为教育、培训、知识生产和创新活动中心的地缘政治项目，包含学生、人才、知识创新三类递进模型，后经 Rizvi 和 Erfurth 分别从市场理性转向与双重运作维度加以拓展
-- [[Internationalization of Higher Education]] — Rizvi 的分析焦点：高等教育国际化的理性已从发展主义转向市场逻辑，亚洲崛起和 COVID-19 为关键转折点
+- [[Epistemic Drift]] — 指研究者和学术机构将研究议程系统性对齐外部资助方、政策方或市场偏好的漂移现象，用于分析科学自主性的弱化。
+- [[Epistemic Governance]] — 以规范、认知和知识为基础的治理机制，用于说明高等教育机构如何通过知识权威、专家培养和价值框架参与全球治理。
+- [[Global Regionalisms in Higher Education]] — 指高等教育被整合进跨国区域政治经济项目并成为区域合作、竞争和身份建构关键支柱的现象。
+- [[Global Universities Rankings]] — 对高等教育机构进行比较性评估和排序的工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。
+- [[Graduate Attributes]] — 大学认定学生在学习过程中应发展出的品质、技能和理解，用于组织课程、评价培养目标和回应外部问责。
+- [[International Education Hubs]] — Knight 提出的概念，指国家战略性地把自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目。
+- [[Internationalization of Higher Education]] — 高等教育跨越国家边界组织流动、合作和制度安排的过程，涵盖学生流动、跨境合作、国际课程和全球战略布局。
 - [[Knowledge Capitalism]] — 把知识生产、流通和应用置于资本积累核心位置的全球经济秩序概念，用于解释大学、创新体系和地缘竞争的深度重组
-- [[Knowledge Production]] — GPK 两面之一：谁生产知识、以何种视角、为谁的利益，后殖民 GPK 传统的核心分析维度，其术语流行与知识产权商业化同步
-- [[Knowledge Transfer]] — Partaken 核心概念：知识一旦被生产即进入挪用、传授、窃取、审查、破坏等动态过程，主张 GPK 的核心是知识转移而非知识生产，六模态框架
-- [[Online Self-Assessment]] — 德国大学广泛采用的数字化入学前咨询工具，通过问卷和认知测试让潜在学生进行自我评估和项目匹配；在竞争性大学治理中作为主体化的关键工具运作，以自我选择而非直接筛选为机制
-- [[Preemptive Governance]] — 高等教育中通过在问题发生前利用数据分析和预测算法对潜在学生进行预判、标记和干预的治理逻辑；以 OSA 为典型工具，将治理窗口从学习过程中提前至入学之前
-- [[Promising Student]] — 竞争性大学中被 OSA 等数字化治理技术建构的理想学生主体形态，以自我评估和持续优化为核心特征，将学业成功重构为个人风险管理，区别于天赋型的传统好学生观
-- [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念：超国家组织通过指标、排名等监管机制对区域内高等教育进行间接治理；Rambla (2022) 以 EU 绩效指标为操作案例
-- [[Scale in Higher Education]] — 尺度的关系性分析：七层不可化约的活跃尺度（世界-全球-泛国家区域-国家-次国家-地方-个体），尺度不是俄罗斯套娃，\"国家科学 vs 全球科学\"的对比提供了关键证据
+- [[Knowledge Production]] — 围绕谁生产知识、以何种视角生产以及知识服务于谁的过程性概念，用于分析高等教育中的知识权力和利益分布。
+- [[Knowledge Transfer]] — 指知识在生产之后进入传授、挪用、流通、审查、窃取或破坏等动态过程的概念，用于分析知识如何在权力关系中移动。
+- [[Online Self-Assessment]] — 用于入学前咨询和项目匹配的数字化自我评估工具，通常通过问卷和测试引导潜在学生评估自身特征、准备程度和就读适配性。
+- [[Preemptive Governance]] — 通过数据分析和预测工具在问题发生前对潜在学生进行预判、标记和干预的治理逻辑，用于把不确定性转化为可管理风险。
+- [[Promising Student]] — 在竞争性大学治理中被数字化工具和制度期待建构出来的理想学生主体形态，强调自我评估、持续优化和风险管理。
+- [[Regulatory Regionalism]] — 指超国家组织通过指标、排名和协调机制对区域内高等教育进行间接治理的区域监管形式。
+- [[Scale in Higher Education]] — 用于分析高等教育活动如何在全球、区域、国家、地方和个体等不同尺度上同时展开并相互作用的关系性概念。
 - [[Self-Authorship]] — 个体依据内在声音和核心价值观主导认知、自我认同与人际关系发展的概念，强调从外部依赖走向内部定向
-- [[Semi-Autonomy of Higher Education]] — Gramsci 霸权理论的推论：科学和高等教育相对于国家和经济具有部分自主性，既被政治经济塑造又按自身认识论逻辑演化，2018-2024 中美科学合作在政治紧张中持续是其经验证据
-- [[Social Charter]] — Meyer (1970) 的概念：大学与社会之间不成文的约定，规定毕业生获得的社会地位，完全独立于教学效果，排名无法捕捉这一制度维度
-- [[Social Engagement]] — 社会性投入：学生向人际互动、课外活动和职业探索投入的时间精力，与学业投入并列作为 Zheng \"投入过程\"的两大分析轴
-- [[Space-Making in Higher Education]] — Marginson (2025) 基于 Lefebvre 和 Massey 发展的分析框架：高等教育社会空间由物质结构、空间想象和社会实践三层机制共同制造
-- [[Stakeholder University]] — Wæraas & Solbakk (2009) 提出的制度形态概念：大学从学术共同体转变为连接学生、教师、政府、商业服务商和自动化代理的多利益相关者网络节点，在竞争性地缘政治框架中被重构为地缘政治机会枢纽
+- [[Semi-Autonomy of Higher Education]] — 指高等教育相对于国家和经济既受塑造又保有部分独立运作逻辑的状态，用于分析大学制度的相对自主性。
+- [[Social Charter]] — Meyer 提出的概念，指大学与社会之间关于毕业生地位、资格和社会认可的不成文约定。
+- [[Social Engagement]] — 学生向人际互动、课外活动、组织参与和职业探索投入时间精力的社会性投入维度。
+- [[Space-Making in Higher Education]] — 用于分析高等教育社会空间如何由物质结构、空间想象和社会实践共同制造的框架。
+- [[Stakeholder University]] — 指大学从相对封闭的学术共同体转变为连接学生、教师、政府、市场和其他行动者的多利益相关者网络节点的制度形态。
 - [[Student Engagement]] — 学生在教育性活动中投入时间、精力和参与质量的概念，常用于解释高等教育中的学习结果、归属感和持续就读差异
-- [[Student Involvement]] — Alexander Astin (1984) 的概念：学生投入的生理和心理能量的数量和质量，五条涉入公理为 Kuh 学生投入理论的前身
-- [[Transnational Research Collaboration in Higher Education]] — Rizvi 的分析焦点：跨国研究合作中个体学术、机构声誉、国家经济和外交四重理性的融合
-- [[University Social Responsibility]] — 大学社会责任（USR）：大学对多元利益相关者和社会议题的制度化开放性；全球 200+ 所大学已发布 CSR/可持续发展报告，SDGs 和 THE Impact Ranking 推动了 USR 的全球制度化
+- [[Student Involvement]] — Astin 提出的概念，指学生投入到学习和校园生活中的生理与心理能量的数量和质量。
+- [[Transnational Research Collaboration in Higher Education]] — 高等教育中的跨国研究合作形式，涉及学者、机构和国家在知识生产、声誉竞争与政策目标上的多重联结。
+- [[University Social Responsibility]] — 大学对多元利益相关者和社会议题保持制度化回应与公共责任的取向，用于组织大学的社会参与、伦理承诺和公共使命。
 
 ## Instruction Pedagogy
 
@@ -166,32 +166,32 @@ Total entries: **216**
 
 ## Political Economy Geopolitics
 
-- [[Classical Geopolitics]] — Moisio (2022) 概念：以国家\"硬\"领土力量和势力范围为中心的传统地缘政治理解，与知识地缘政治的关系性空间构型形成对照
-- [[Concealment-Exposure Framework]] — Nagel (1998) 提出、Partaken 提升至 GPK 的分析框架：隐藏与暴露的边界控制是人性核心属性，在 GPK 中体现为监视、审查和破坏三种运作模式
-- [[Cultural Diplomacy]] — 通过引入外国大学、资助高端文化机构和培育他国精英来提升国家软实力和国际形象的战略，Erfurth 在教育枢纽分析中将其与政治经济维度并列为核心运作维度
-- [[Economic and Industrial Espionage]] — Søilen 区分经济间谍（政府参与）与工业间谍（无政府），Partaken 以中美技术紧张为核心案例
-- [[Economic Patriotism]] — Crouch & Le Galès (2012) 概念：国家将资源集中于冠军城市以锚定全球资本流动，将爱国情感与特定领土利益绑定的政策实践，Moisio (2022) 定位为知识经济化中国家的核心行为逻辑
-- [[Endogenous and Exogenous Privatisation]] — Ball & Youdell (2008) 识别的两种全球公立学校私有化趋势：学校变得更像企业（内生）vs 私营部门进入学校（外生）
-- [[Forced Knowledge Transfer]] — GPK 知识转移模态：通过规定、胁迫和暴力的自上而下知识灌输，以 Freire\"银行概念\"和 Kokutai no Hongi 为案例
-- [[Fourth Industrial Revolution]] — Schwab/WEF 推广的概念，声称 AI、区块链等构成第四次工业革命，Partaken 以 Kuhn 不可通约性标准批判其为霸权性知识生产话语的自我包装
-- [[Geopolitical Subject]] — 从政治权力角度被装备上特定技能、行为、取向和空间心态的人形集合，在高等教育空间中被形塑以服务于全球竞争；有前景的学生构成其在教学领域的当代变体
-- [[Geopolitics of Knowledge]] — 高等教育被重构为知识地缘政治竞争的核心维度，涉及古典地缘政治向关系性空间构型的转变；在教学治理层面表现为通过 OSA 等数字化自我技术建构竞争性主体形态
-- [[Hub and Flow Imaginaries]] — 知识经济化中的核心空间想象，把世界组织成枢纽中心与边缘区域的流动结构，并通过集群、创意城市和创业城市等话语具体化
-- [[Knowledge Sabotage]] — GPK 知识转移模态：蓄意破坏敌对方知识资产，以网络攻击为主要当代形式
-- [[Knowledge-Based Economization]] — Moisio (2018) 的概念：关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践被话语建构的过程
-- [[Knowledge-Based Economy]] — 知识经济：知识、创新、高等教育和研发为价值创造与全球竞争核心要素的实际存在经济形态
-- [[National Competitive Advantage]] — Porter (1990) 理论：国家竞争优势通过高度本地化过程被创造，全球化反而使国家角色更重要，Moisio (2022) 将其分析为塑造 Hub and Flow 想象的关键地缘政治想象
-- [[Neocorporatism]] — 政府—雇主—工会三方制度化合作的治理模式，Rambla (2022) 在 EU 终身学习治理中分析其缓冲 [[Selectivity]] 效应的功能
-- [[Network Governance]] — 传统市场/科层制公立学校治理被网络与部落形式取代，Thompson (1991) 为理论框架，新西兰自 2008 年加速发展
-- [[New Public Management]] — 以企业管理逻辑重塑公共教育的改革浪潮，特征为绩效标准、产出控制、供给竞争和管理问责；在 Ch13 中体现为竞争性大学地缘政治装置的制度条件——绩效指标和审计文化将大学重塑为竞争者
-- [[Performance Pay]] — 将教师薪酬与测量表现挂钩的制度，亦称 merit pay；过去 25+ 年大多数尝试失败；与 Hattie 强调的安全信任教师文化直接矛盾
-- [[Power-Geometries]] — Doreen Massey (2005) 的空间理论核心概念：空间中的开放、封闭和互联不是中立的，而是通过社会关系被不平等地建构，英美大学既是全球知识枢纽也是全球不平等制造者
-- [[Progressive Neoliberalism]] — Nancy Fraser (2019) 概念：新自由主义经济政策与进步社会议程的话语结合，Moisio (2022) 定位为过去三十年知识经济化的主要政治推力（\"硅谷世界观\"），正在消退
-- [[Radical Liberal Internationalism]] — Sakwa (2023) 的概念：冷战后取代主权国际主义的自由反多元立场，以美国例外论和英美\"基于规则的秩序\"为形态，支持干预主义和政权更迭
-- [[School Autonomy]] — 教育决策权从中央官僚机构向个别学校的下放，市场逻辑（竞争、经济效率、公共问责）将其从潜在的公平工具扭曲为制造不平等的机制
-- [[Scientization of Politics]] — Zapp (2022) 的概念：政策制定者接受科学证据作为决策的合法性基础，使科学知识从信息来源转变为治理合法性的构成性要素，是知识治理兴起的关键维度
+- [[Classical Geopolitics]] — 以国家领土控制、势力范围和硬实力竞争为中心的传统地缘政治理解，与关系性和网络化的空间分析形成对照。
+- [[Concealment-Exposure Framework]] — 用于分析隐藏与暴露边界如何被控制的框架，强调知识流动中可见性、遮蔽和暴露之间的权力关系。
+- [[Cultural Diplomacy]] — 通过教育、文化机构和精英培育来提升国家软实力、国际形象和跨国影响力的战略。
+- [[Economic and Industrial Espionage]] — 围绕商业技术、产业知识和经济情报获取展开的秘密信息攫取活动，用于分析国家与企业之间的竞争性知识争夺。
+- [[Economic Patriotism]] — 将爱国情感与特定领土利益绑定并通过政策把资源集中于关键产业、城市或机构的国家战略实践。
+- [[Endogenous and Exogenous Privatisation]] — Ball 与 Youdell 区分的两种公立教育私有化趋势，分别指学校内部运作企业化和私营部门进入学校体系。
+- [[Forced Knowledge Transfer]] — 通过规定、胁迫或暴力把知识自上而下强加给他者的知识转移形态，用于分析支配性教育和意识形态灌输。
+- [[Fourth Industrial Revolution]] — 围绕人工智能、区块链和自动化等技术集群构成新一轮社会经济变革的概念，常用于组织技术未来叙事和政策动员。
+- [[Geopolitical Subject]] — 被政治权力塑造成具有特定技能、行为取向和空间心态的人形集合，用于分析教育如何服务于国家竞争和地缘政治想象。
+- [[Geopolitics of Knowledge]] — 围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。
+- [[Hub and Flow Imaginaries]] — 把世界想象为由枢纽中心和边缘区域构成流动结构的空间想象，用于解释知识经济中的集中、连接和不平等。
+- [[Knowledge Sabotage]] — 通过破坏、削弱或扰乱敌对方知识资产和知识基础设施来削减其能力的知识转移形态。
+- [[Knowledge-Based Economization]] — 指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。
+- [[Knowledge-Based Economy]] — 以知识、创新、高等教育和研发作为价值创造与全球竞争核心要素的经济形态。
+- [[National Competitive Advantage]] — Porter 提出的理论，认为国家竞争优势通过高度本地化的产业、制度和创新条件被创造和维持。
+- [[Neocorporatism]] — 政府、雇主和工会三方之间制度化合作与协商的治理模式，用于协调政策、利益分配和社会调节。
+- [[Network Governance]] — 以多主体网络协作、关系协调和分布式控制替代单一科层或市场机制的治理方式。
+- [[New Public Management]] — 以企业管理逻辑重塑公共部门的改革浪潮，强调绩效标准、产出控制、供给竞争和管理问责。
+- [[Performance Pay]] — 将教师薪酬与测量表现直接挂钩的制度安排，用于通过激励机制推动绩效提升和行为调整。
+- [[Power-Geometries]] — Massey 的空间理论概念，指空间中的开放、封闭和互联总是通过不平等的社会关系被建构和分配。
+- [[Progressive Neoliberalism]] — Nancy Fraser 提出的概念，指新自由主义经济政策与进步社会议程之间形成的话语和政治联盟。
+- [[Radical Liberal Internationalism]] — Sakwa 提出的概念，指以自由主义普遍主义和反多元立场为基础、支持干预主义和政权更迭的国际主义取向。
+- [[School Autonomy]] — 教育决策权从中央官僚机构向个别学校下放的制度安排，用于组织学校层面的资源配置、课程决策和管理责任。
+- [[Scientization of Politics]] — 指科学证据被政策制定者吸纳为决策合法性基础的过程，使科学知识从信息来源转变为治理权威的一部分。
 - [[Selectivity]] — 治理中的结构性偏向机制，使某些政策选项、行动者和利益更容易获得支持，而其他替代方案被系统性边缘化
-- [[Sovereign Internationalism]] — Sakwa (2023) 的概念：1945 年联合国宪章体系核心理念，世界作为多元空间容忍文明差异和政治制度多样性，尊重不干涉原则
+- [[Sovereign Internationalism]] — Sakwa 提出的概念，指以主权平等、不干涉和制度多样性为基础的国际秩序理解。
 - [[Spatial Sortings]] — 知识密集型资本主义通过投资、治理和空间规划持续把地点与人口划分为赢家和输家的过程，是空间不平等生产的重要机制
 
 ## Research Methodology

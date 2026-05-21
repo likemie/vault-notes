@@ -5,7 +5,7 @@ aliases:
 - semi-autonomy
 - relative autonomy of higher education
 - 高等教育相对自主性
-summary: "Gramsci 霸权理论的推论：科学和高等教育相对于国家和经济具有部分自主性，既被政治经济塑造又按自身认识论逻辑演化，2018-2024 中美科学合作在政治紧张中持续是其经验证据"
+summary: "指高等教育相对于国家和经济既受塑造又保有部分独立运作逻辑的状态，用于分析大学制度的相对自主性。"
 type: concept
 tags:
 - theme/power

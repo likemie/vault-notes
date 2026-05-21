@@ -4,7 +4,7 @@ aliases:
 - 高等教育尺度
 - scale analysis in higher education
 - 尺度分析
-summary: "尺度的关系性分析：七层不可化约的活跃尺度（世界-全球-泛国家区域-国家-次国家-地方-个体），尺度不是俄罗斯套娃，\"国家科学 vs 全球科学\"的对比提供了关键证据"
+summary: "用于分析高等教育活动如何在全球、区域、国家、地方和个体等不同尺度上同时展开并相互作用的关系性概念。"
 type: concept
 tags:
 - theme/spatiality

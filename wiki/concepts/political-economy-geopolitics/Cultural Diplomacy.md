@@ -5,7 +5,7 @@ aliases:
 - 高等教育中的文化外交
 - 高教文化外交
 - cultural diplomacy
-summary: "通过引入外国大学、资助高端文化机构和培育他国精英来提升国家软实力和国际形象的战略，Erfurth 在教育枢纽分析中将其与政治经济维度并列为核心运作维度"
+summary: "通过教育、文化机构和精英培育来提升国家软实力、国际形象和跨国影响力的战略。"
 type: concept
 tags:
 - cultural-diplomacy

@@ -25,7 +25,7 @@ book_title: "Geopolitical Transformations in Higher Education_ Imagining, Fabric
 ## 研究问题
 
 > [!question]
-> 新知识地缘政治（(new) Geopolitics of Knowledge）通过全球教育治理话语生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其副作用是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（SCD）为分析焦点，追问：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么（Zelinka, 2022, pp.251-252）。
+> 新知识地缘政治（(new) Geopolitics of Knowledge）通过全球教育治理话语生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其副作用是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（21st Century Skills and Competencies Discourse，以下简称 SCD）为分析焦点，追问：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么（Zelinka, 2022, pp.251-252）。
 
 ## 理论框架
 
@@ -55,13 +55,13 @@ book_title: "Geopolitical Transformations in Higher Education_ Imagining, Fabric
 
 论证起点是一个已被广泛认可的经验观察：高等教育已经持续经历了新自由主义化和产业化，大学之间相互竞争（Hazelkorn, 2017）、发展新型商业模式（Kehm & Lanzendorf, 2005）、不断追求卓越和全球领导地位（Altbach & Salmi, 2011）。教育被转型为以经济增长和提高生产力为主要目标（Spring, 2015）。
 
-这一全球转型同时被理解为知识论转变和地缘政治博弈，由此催生了"（新）知识地缘政治"（(new) Geopolitics of Knowledge）概念（Mignolo, 2002）。关键的特征是它嵌入新自由主义之中——新自由主义作为一种**理性**（rationality），重新想象、解释和组装人与物之间的关系以实现"在远处的治理"（governing at a distance, Ward & England, 2007; Bell & Green, 2016, p.240）。新自由主义治理性**在远处组织**全球教育转型（Ball, 2010, p.135），试图通过创造可欲的自我引导形式来操控个体。
+这一全球转型同时被理解为知识论转变和地缘政治博弈，由此催生了"（新）知识地缘政治"（(new) [[Geopolitics of Knowledge]]）概念（Mignolo, 2002）。关键的特征是它嵌入新自由主义之中——新自由主义作为一种**理性**（rationality），重新想象、解释和组装人与物之间的关系以实现**远距治理**（governing at a distance, Ward & England, 2007; Bell & Green, 2016, p.240）。新自由主义治理性**远距组织**全球教育转型（Ball, 2010, p.135），试图通过创造可欲的自我引导形式来操控个体。
 
 注意这里的论证前提：因为新自由主义治理性运作于"远处"，所以它不能通过直接命令来塑造行为，而是必须**生产特定的主体性**——即个体将主动采纳的思维和行动模式。这就将分析焦点引向了主体性生产。
 
-### 第二层：21 世纪 SCD 作为主体性生产的话语装置
+### 第二层：[[21st Century Skills and Competencies Discourse|21 世纪 SCD]] 作为主体性生产的话语装置
 
-该章选择 21 世纪 SCD 作为分析对象，因为它"在全球层面运作"，是观察全球教育转型过程的极佳窗口。推动 SCD 的包括政治、经济、教育和社会文化关切，核心聚焦于如何应对未来劳动市场和社会的**不确定性、不可预测性和不稳定性**（Zelinka, 2022, p.254）。
+该章选择 [[21st Century Skills and Competencies Discourse|21 世纪 SCD]] 作为分析对象，因为它"在全球层面运作"，是观察全球教育转型过程的极佳窗口。推动 SCD 的包括政治、经济、教育和社会文化关切，核心聚焦于如何应对未来劳动市场和社会的**不确定性、不可预测性和不稳定性**（Zelinka, 2022, p.254）。
 
 **四个分析面向的提炼**（Zelinka, 2022, pp.258-260）：
 
@@ -78,7 +78,7 @@ book_title: "Geopolitical Transformations in Higher Education_ Imagining, Fabric
 
 **张力一：愿意主体 vs 不愿主体**
 
-SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新能力。这催生了**自我企业家**（self-entrepreneur, Bröckling, 2015）——一种以就业力和市场为导向的主体性。
+SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新能力。这催生了 **[[Self-Entrepreneur|自我企业家]]**（self-entrepreneur, Bröckling, 2015）——一种以 **[[Employability|就业力]]** 和市场为导向的主体性。
 
 关键推论在这一步：在这种"生产文化"中，被生产的不是技能和素养本身，而是基于受期望能力的**主体性**——即自我引导模式——成为生产的来源（Reed, 2009, p.33）。主体的"意愿"和"激情"成为新的生产要素。主体只有在展现对增长的激情和加速意愿时才不被弃置（Vostal, 2016）。
 

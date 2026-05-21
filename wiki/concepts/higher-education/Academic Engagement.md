@@ -3,7 +3,7 @@ title: Academic Engagement
 aliases:
 - 学业投入
 - academic engagement
-summary: "学业投入：学生向学术性教育活动投入的时间精力，Tinto 学业融入与 Kuh 学生投入的交叉维度，郑雅君 (2023) 作为\"投入过程\"的两大分析轴之一"
+summary: "学生向学术性教育活动投入的时间、精力和注意力，用于描述其在课程学习、课堂参与和学术任务中的投入程度。"
 type: concept
 tags:
 - academic-engagement

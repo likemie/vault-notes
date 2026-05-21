@@ -4,7 +4,7 @@ aliases:
   - 知识地缘政治
   - geopolitics of knowledge
   - GPK
-summary: "高等教育被重构为知识地缘政治竞争的核心维度，涉及古典地缘政治向关系性空间构型的转变；在教学治理层面表现为通过 OSA 等数字化自我技术建构竞争性主体形态"
+summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 tags:
   - geopolitics-of-knowledge

@@ -4,7 +4,7 @@ aliases:
 - 知识转移
 - geopolitics of knowledge transfer
 - knowledge in motion
-summary: "Partaken 核心概念：知识一旦被生产即进入挪用、传授、窃取、审查、破坏等动态过程，主张 GPK 的核心是知识转移而非知识生产，六模态框架"
+summary: "指知识在生产之后进入传授、挪用、流通、审查、窃取或破坏等动态过程的概念，用于分析知识如何在权力关系中移动。"
 type: concept
 tags:
 - geopolitics-of-knowledge

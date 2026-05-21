@@ -1,7 +1,7 @@
 ---
 title: Progressive Neoliberalism
 aliases: []
-summary: "Nancy Fraser (2019) 概念：新自由主义经济政策与进步社会议程的话语结合，Moisio (2022) 定位为过去三十年知识经济化的主要政治推力（\"硅谷世界观\"），正在消退"
+summary: "Nancy Fraser 提出的概念，指新自由主义经济政策与进步社会议程之间形成的话语和政治联盟。"
 type: concept
 tags:
 - progressive-neoliberalism

@@ -5,7 +5,7 @@ aliases:
 - sociomuseology
 - sociomuseologia
 - new museology
-summary: "社会博物馆学（sociomuseologia）：将博物馆定位为社区发展工具，居民自己选择展品、讲述故事、保存记忆，巴西社区博物馆和生态博物馆为其主要实践形式"
+summary: "将博物馆定位为社区发展、记忆保存和公共参与工具的博物馆学取向。"
 type: concept
 tags:
 - region/brazil

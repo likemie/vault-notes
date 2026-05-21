@@ -1,7 +1,7 @@
 ---
 title: Blind Spot in Observation
 aliases: []
-summary: "Niklas Luhmann 的观察盲点概念：每次观察都基于盲点，观察者无法看见自身，Larsen 将其应用于 VL 范式批判"
+summary: "Luhmann 的观察概念，指每次观察都建立在某个无法被观察者同时看见的盲点之上。"
 type: concept
 tags:
 - Blind Spot in Observation

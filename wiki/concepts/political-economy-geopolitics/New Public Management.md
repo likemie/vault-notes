@@ -2,7 +2,7 @@
 title: New Public Management
 aliases:
 - 新公共管理
-summary: "以企业管理逻辑重塑公共教育的改革浪潮，特征为绩效标准、产出控制、供给竞争和管理问责；在 Ch13 中体现为竞争性大学地缘政治装置的制度条件——绩效指标和审计文化将大学重塑为竞争者"
+summary: "以企业管理逻辑重塑公共部门的改革浪潮，强调绩效标准、产出控制、供给竞争和管理问责。"
 type: concept
 tags:
 - New Public Management

@@ -4,7 +4,7 @@ aliases:
 - 第四次工业革命
 - 4IR
 - Industry 4.0
-summary: "Schwab/WEF 推广的概念，声称 AI、区块链等构成第四次工业革命，Partaken 以 Kuhn 不可通约性标准批判其为霸权性知识生产话语的自我包装"
+summary: "围绕人工智能、区块链和自动化等技术集群构成新一轮社会经济变革的概念，常用于组织技术未来叙事和政策动员。"
 type: concept
 tags:
 - geopolitics-of-knowledge

@@ -4,7 +4,7 @@ aliases:
 - 高等教育国际化
 - internationalisation of higher education
 - international education
-summary: "Rizvi 的分析焦点：高等教育国际化的理性已从发展主义转向市场逻辑，亚洲崛起和 COVID-19 为关键转折点"
+summary: "高等教育跨越国家边界组织流动、合作和制度安排的过程，涵盖学生流动、跨境合作、国际课程和全球战略布局。"
 type: concept
 tags:
 - internationalization

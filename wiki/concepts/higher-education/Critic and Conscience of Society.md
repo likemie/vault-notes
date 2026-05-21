@@ -1,7 +1,7 @@
 ---
 title: Critic and Conscience of Society
 aliases: []
-summary: "Gerald Grace 1988 年提出、后写入新西兰大学立法的概念：大学在民主社会中有独立的权力制衡角色，须基于系统公正分析\"向权力说真话\"，区别于仅关注学科内部的正常学术批评"
+summary: "指大学在民主社会中承担独立批判和公共良知角色的概念，强调其不仅生产知识，也要基于公共责任对权力和社会问题发声。"
 type: concept
 tags:
 - critic-and-conscience-of-society

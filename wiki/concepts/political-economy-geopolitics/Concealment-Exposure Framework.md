@@ -4,7 +4,7 @@ aliases:
 - 隐藏-暴露框架
 - concealment and exposure
 - Nagel concealment-exposure
-summary: "Nagel (1998) 提出、Partaken 提升至 GPK 的分析框架：隐藏与暴露的边界控制是人性核心属性，在 GPK 中体现为监视、审查和破坏三种运作模式"
+summary: "用于分析隐藏与暴露边界如何被控制的框架，强调知识流动中可见性、遮蔽和暴露之间的权力关系。"
 type: concept
 tags:
 - geopolitics-of-knowledge

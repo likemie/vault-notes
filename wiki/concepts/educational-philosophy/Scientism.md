@@ -1,7 +1,7 @@
 ---
 title: Scientism
 aliases: []
-summary: "对科学方法的过度美化及在其原始范围之外轻率应用，Gasparatou/Hayek/Ross 等定义，Johnson & Janzen 将其应用于 VL 批判"
+summary: "对科学方法和科学权威的过度美化，以及将其轻率扩展到原本不适用领域的思想倾向。"
 type: concept
 tags:
 - Scientism

@@ -4,7 +4,7 @@ aliases:
 - 强制知识转移
 - forced transfer of knowledge
 - top-down knowledge transfer
-summary: "GPK 知识转移模态：通过规定、胁迫和暴力的自上而下知识灌输，以 Freire\"银行概念\"和 Kokutai no Hongi 为案例"
+summary: "通过规定、胁迫或暴力把知识自上而下强加给他者的知识转移形态，用于分析支配性教育和意识形态灌输。"
 type: concept
 tags:
 - geopolitics-of-knowledge

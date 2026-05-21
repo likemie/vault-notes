@@ -4,7 +4,7 @@ aliases:
 - 地缘政治主体
 - geopolitical subject
 - geopolitical subjects
-summary: "从政治权力角度被装备上特定技能、行为、取向和空间心态的人形集合，在高等教育空间中被形塑以服务于全球竞争；有前景的学生构成其在教学领域的当代变体"
+summary: "被政治权力塑造成具有特定技能、行为取向和空间心态的人形集合，用于分析教育如何服务于国家竞争和地缘政治想象。"
 type: concept
 tags:
 - geopolitical-subject

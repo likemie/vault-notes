@@ -5,7 +5,7 @@ aliases:
 - economic espionage
 - industrial espionage
 - 知识产权盗窃
-summary: "Søilen 区分经济间谍（政府参与）与工业间谍（无政府），Partaken 以中美技术紧张为核心案例"
+summary: "围绕商业技术、产业知识和经济情报获取展开的秘密信息攫取活动，用于分析国家与企业之间的竞争性知识争夺。"
 type: concept
 tags:
 - geopolitics-of-knowledge

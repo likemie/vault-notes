@@ -4,7 +4,7 @@ aliases:
 - 有前景的学生
 - 有前途的学生
 - promising student
-summary: "竞争性大学中被 OSA 等数字化治理技术建构的理想学生主体形态，以自我评估和持续优化为核心特征，将学业成功重构为个人风险管理，区别于天赋型的传统好学生观"
+summary: "在竞争性大学治理中被数字化工具和制度期待建构出来的理想学生主体形态，强调自我评估、持续优化和风险管理。"
 type: concept
 tags:
 - subjectification

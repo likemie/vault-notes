@@ -1,7 +1,7 @@
 ---
 title: School Autonomy
 aliases: []
-summary: "教育决策权从中央官僚机构向个别学校的下放，市场逻辑（竞争、经济效率、公共问责）将其从潜在的公平工具扭曲为制造不平等的机制"
+summary: "教育决策权从中央官僚机构向个别学校下放的制度安排，用于组织学校层面的资源配置、课程决策和管理责任。"
 type: concept
 tags:
 - School Autonomy

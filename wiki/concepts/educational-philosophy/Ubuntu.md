@@ -1,7 +1,7 @@
 ---
 title: Ubuntu
 aliases: []
-summary: "非洲关系性伦理哲学：\"一个人之所以为人，是因为其他人\"（I am because we are），Amos (2022) 将其与后人类主义并置为非西方的关系性本体论资源"
+summary: "强调个体在关系中成其为人的非洲关系性伦理哲学，用于理解共同体、互依性和相互责任。"
 type: concept
 tags:
 - ubuntu

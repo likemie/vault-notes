@@ -5,7 +5,7 @@ aliases:
   - 预判性治理
   - 先发制人的学生治理
   - preemptive student governance
-summary: "高等教育中通过在问题发生前利用数据分析和预测算法对潜在学生进行预判、标记和干预的治理逻辑；以 OSA 为典型工具，将治理窗口从学习过程中提前至入学之前"
+summary: "通过数据分析和预测工具在问题发生前对潜在学生进行预判、标记和干预的治理逻辑，用于把不确定性转化为可管理风险。"
 type: concept
 tags:
   - preemptive-governance

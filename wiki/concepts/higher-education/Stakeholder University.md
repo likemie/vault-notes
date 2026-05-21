@@ -3,7 +3,7 @@ title: Stakeholder University
 aliases:
   - 利益相关者大学
   - 利益攸关者大学
-summary: "Wæraas & Solbakk (2009) 提出的制度形态概念：大学从学术共同体转变为连接学生、教师、政府、商业服务商和自动化代理的多利益相关者网络节点，在竞争性地缘政治框架中被重构为地缘政治机会枢纽"
+summary: "指大学从相对封闭的学术共同体转变为连接学生、教师、政府、市场和其他行动者的多利益相关者网络节点的制度形态。"
 type: concept
 tags:
   - stakeholder-university

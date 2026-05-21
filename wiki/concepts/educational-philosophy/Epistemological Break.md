@@ -1,7 +1,7 @@
 ---
 title: Epistemological Break
 aliases: []
-summary: "Bourdieu 认识论核心概念：科学研究必须与前科学世界的日常语言和自发理解决裂，Eacott 将其引入教育行政研究"
+summary: "Bourdieu 的认识论概念，指科学研究必须与前科学世界的日常语言和自发理解进行断裂。"
 type: concept
 tags:
 - Epistemological Break

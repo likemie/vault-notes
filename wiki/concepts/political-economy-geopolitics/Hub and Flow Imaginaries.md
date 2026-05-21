@@ -5,7 +5,7 @@ aliases:
 - 枢纽想象
 - 流动想象
 - hub and flow imaginaries
-summary: "知识经济化中的核心空间想象，把世界组织成枢纽中心与边缘区域的流动结构，并通过集群、创意城市和创业城市等话语具体化"
+summary: "把世界想象为由枢纽中心和边缘区域构成流动结构的空间想象，用于解释知识经济中的集中、连接和不平等。"
 type: concept
 tags:
 - hub-and-flow

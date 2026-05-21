@@ -7,7 +7,7 @@ aliases:
 - league tables
 - global university rankings
 - University Rankings (Global)
-summary: "对各国高等教育机构进行比较性评估和排序的工具系统，已成为驱动高教系统转型和地缘政治竞争的核心力量；作为竞争性大学地缘政治装置的基础设施，排名通过指标化创造而非仅描述竞争关系"
+summary: "对高等教育机构进行比较性评估和排序的工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 tags:
 - university-rankings

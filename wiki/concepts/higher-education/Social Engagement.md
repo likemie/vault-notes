@@ -3,7 +3,7 @@ title: Social Engagement
 aliases:
 - 社会性投入
 - social engagement
-summary: "社会性投入：学生向人际互动、课外活动和职业探索投入的时间精力，与学业投入并列作为 Zheng \"投入过程\"的两大分析轴"
+summary: "学生向人际互动、课外活动、组织参与和职业探索投入时间精力的社会性投入维度。"
 type: concept
 tags:
 - social-engagement

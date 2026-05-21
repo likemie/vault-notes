@@ -4,7 +4,7 @@ aliases:
 - 学生涉入
 - student involvement
 - Astin 涉入理论
-summary: "Alexander Astin (1984) 的概念：学生投入的生理和心理能量的数量和质量，五条涉入公理为 Kuh 学生投入理论的前身"
+summary: "Astin 提出的概念，指学生投入到学习和校园生活中的生理与心理能量的数量和质量。"
 type: concept
 tags:
 - student-involvement

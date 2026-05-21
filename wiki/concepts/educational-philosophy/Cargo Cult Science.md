@@ -1,7 +1,7 @@
 ---
 title: Cargo Cult Science
 aliases: []
-summary: "Feynman (1974) 概念：看起来像科学但缺乏认识论诚信的伪科学实践，应用于 VL 批判"
+summary: "Feynman 提出的概念，指看起来像科学却缺乏认识论诚信和自我纠错精神的伪科学实践。"
 type: concept
 tags:
 - cargo-cult-science

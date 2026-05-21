@@ -1,7 +1,7 @@
 ---
 title: Economic Patriotism
 aliases: []
-summary: "Crouch & Le Galès (2012) 概念：国家将资源集中于冠军城市以锚定全球资本流动，将爱国情感与特定领土利益绑定的政策实践，Moisio (2022) 定位为知识经济化中国家的核心行为逻辑"
+summary: "将爱国情感与特定领土利益绑定并通过政策把资源集中于关键产业、城市或机构的国家战略实践。"
 type: concept
 tags:
 - economic-patriotism

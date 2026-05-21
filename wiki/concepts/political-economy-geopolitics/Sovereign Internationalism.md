@@ -2,7 +2,7 @@
 title: Sovereign Internationalism
 aliases:
 - 主权国际主义
-summary: "Sakwa (2023) 的概念：1945 年联合国宪章体系核心理念，世界作为多元空间容忍文明差异和政治制度多样性，尊重不干涉原则"
+summary: "Sakwa 提出的概念，指以主权平等、不干涉和制度多样性为基础的国际秩序理解。"
 type: concept
 tags:
 - region/global
