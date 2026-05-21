@@ -1766,11 +1766,19 @@
   },
   {
     "title": "Legitimation Theory Van Leeuwen",
-    "path": "wiki/theories/communication-discourse/Legitimation Theory Van Leeuwen.md"
+    "path": "wiki/theories/communication-discourse/Legitimation Theory Van Leeuwen.md",
+    "aliases": [
+      "范李文的合法化理论",
+      "合法化理论"
+    ]
   },
   {
     "title": "Hofstede's Cultural Dimensions",
-    "path": "wiki/theories/comparative-education/Hofstede's Cultural Dimensions.md"
+    "path": "wiki/theories/comparative-education/Hofstede's Cultural Dimensions.md",
+    "aliases": [
+      "霍夫斯泰德文化维度理论",
+      "文化维度理论"
+    ]
   },
   {
     "title": "Institutional Isomorphism",
@@ -1785,7 +1793,11 @@
   },
   {
     "title": "Nation Building through Education",
-    "path": "wiki/theories/comparative-education/Nation Building through Education.md"
+    "path": "wiki/theories/comparative-education/Nation Building through Education.md",
+    "aliases": [
+      "教育建国",
+      "教育国家建构"
+    ]
   },
   {
     "title": "World Society Theory",
@@ -1810,39 +1822,71 @@
   },
   {
     "title": "Cuban's Curriculum Change Theory",
-    "path": "wiki/theories/curriculum/Cuban's Curriculum Change Theory.md"
+    "path": "wiki/theories/curriculum/Cuban's Curriculum Change Theory.md",
+    "aliases": [
+      "库班课程变革理论"
+    ]
   },
   {
     "title": "Autopoiesis",
-    "path": "wiki/theories/educational-philosophy/Autopoiesis.md"
+    "path": "wiki/theories/educational-philosophy/Autopoiesis.md",
+    "aliases": [
+      "自创生",
+      "autopoiesis"
+    ]
   },
   {
     "title": "Critical Realism",
-    "path": "wiki/theories/educational-philosophy/Critical Realism.md"
+    "path": "wiki/theories/educational-philosophy/Critical Realism.md",
+    "aliases": [
+      "批判实在论"
+    ]
   },
   {
     "title": "Goldman's Discrimination Theory of Knowledge",
-    "path": "wiki/theories/educational-philosophy/Goldman's Discrimination Theory of Knowledge.md"
+    "path": "wiki/theories/educational-philosophy/Goldman's Discrimination Theory of Knowledge.md",
+    "aliases": [
+      "高德曼的知识辨识理论",
+      "知识辨识理论"
+    ]
   },
   {
     "title": "Luhmann's Systems Theory",
-    "path": "wiki/theories/educational-philosophy/Luhmann's Systems Theory.md"
+    "path": "wiki/theories/educational-philosophy/Luhmann's Systems Theory.md",
+    "aliases": [
+      "卢曼系统理论",
+      "系统理论"
+    ]
   },
   {
     "title": "Phenomenology",
-    "path": "wiki/theories/educational-philosophy/Phenomenology.md"
+    "path": "wiki/theories/educational-philosophy/Phenomenology.md",
+    "aliases": [
+      "现象学"
+    ]
   },
   {
     "title": "Popper's Three Worlds Theory",
-    "path": "wiki/theories/educational-philosophy/Popper's Three Worlds Theory.md"
+    "path": "wiki/theories/educational-philosophy/Popper's Three Worlds Theory.md",
+    "aliases": [
+      "波普尔三世界理论",
+      "三世界理论"
+    ]
   },
   {
     "title": "Radical Constructivism",
-    "path": "wiki/theories/educational-philosophy/Radical Constructivism.md"
+    "path": "wiki/theories/educational-philosophy/Radical Constructivism.md",
+    "aliases": [
+      "激进建构主义"
+    ]
   },
   {
     "title": "Science and Technology Studies (STS)",
-    "path": "wiki/theories/educational-philosophy/Science and Technology Studies (STS).md"
+    "path": "wiki/theories/educational-philosophy/Science and Technology Studies (STS).md",
+    "aliases": [
+      "科学技术研究",
+      "STS"
+    ]
   },
   {
     "title": "Societies of Control",
@@ -1854,15 +1898,24 @@
   },
   {
     "title": "Technical Rationality",
-    "path": "wiki/theories/educational-philosophy/Technical Rationality.md"
+    "path": "wiki/theories/educational-philosophy/Technical Rationality.md",
+    "aliases": [
+      "技术理性"
+    ]
   },
   {
     "title": "Transactional Epistemology",
-    "path": "wiki/theories/educational-philosophy/Transactional Epistemology.md"
+    "path": "wiki/theories/educational-philosophy/Transactional Epistemology.md",
+    "aliases": [
+      "交互认识论"
+    ]
   },
   {
     "title": "Transition Design",
-    "path": "wiki/theories/educational-philosophy/Transition Design.md"
+    "path": "wiki/theories/educational-philosophy/Transition Design.md",
+    "aliases": [
+      "转型设计"
+    ]
   },
   {
     "title": "Creative Tension of Sense",
@@ -1884,7 +1937,10 @@
   },
   {
     "title": "Bounded Rationality",
-    "path": "wiki/theories/instruction-pedagogy/Bounded Rationality.md"
+    "path": "wiki/theories/instruction-pedagogy/Bounded Rationality.md",
+    "aliases": [
+      "有限理性"
+    ]
   },
   {
     "title": "Theory of Teaching (Gruschka)",
@@ -1897,19 +1953,34 @@
   },
   {
     "title": "Hebbian Principles",
-    "path": "wiki/theories/learning-science-cognitive-science/hebbian-principles.md"
+    "path": "wiki/theories/learning-science-cognitive-science/hebbian-principles.md",
+    "aliases": [
+      "赫布原则",
+      "Hebbian principles"
+    ]
   },
   {
     "title": "Miyake's Unity and Diversity Framework of Executive Function",
-    "path": "wiki/theories/learning-science-cognitive-science/miyake-unity-diversity-framework.md"
+    "path": "wiki/theories/learning-science-cognitive-science/miyake-unity-diversity-framework.md",
+    "aliases": [
+      "宫崎统一-多样性框架",
+      "执行功能统一-多样性框架"
+    ]
   },
   {
     "title": "Neo-Piagetian Theories",
-    "path": "wiki/theories/learning-science-cognitive-science/neo-piagetian-theories.md"
+    "path": "wiki/theories/learning-science-cognitive-science/neo-piagetian-theories.md",
+    "aliases": [
+      "新皮亚杰理论"
+    ]
   },
   {
     "title": "Piaget's Theory of Cognitive Development",
-    "path": "wiki/theories/learning-science-cognitive-science/piagets-theory-of-cognitive-development.md"
+    "path": "wiki/theories/learning-science-cognitive-science/piagets-theory-of-cognitive-development.md",
+    "aliases": [
+      "皮亚杰认知发展理论",
+      "认知发展阶段理论"
+    ]
   },
   {
     "title": "Critical Geopolitics",
@@ -1939,7 +2010,10 @@
   },
   {
     "title": "Fixity-Motion Tension",
-    "path": "wiki/theories/political-economy-geopolitics/Fixity-Motion Tension.md"
+    "path": "wiki/theories/political-economy-geopolitics/Fixity-Motion Tension.md",
+    "aliases": [
+      "固着-流动张力"
+    ]
   },
   {
     "title": "Governmentality",
@@ -1965,15 +2039,26 @@
   },
   {
     "title": "Tullock's Bureaucracy Theory",
-    "path": "wiki/theories/political-economy-geopolitics/Tullock's Bureaucracy Theory.md"
+    "path": "wiki/theories/political-economy-geopolitics/Tullock's Bureaucracy Theory.md",
+    "aliases": [
+      "图洛克官僚制理论",
+      "官僚制理论"
+    ]
   },
   {
     "title": "Campbellian Validity Framework",
-    "path": "wiki/theories/research-methodology/Campbellian Validity Framework.md"
+    "path": "wiki/theories/research-methodology/Campbellian Validity Framework.md",
+    "aliases": [
+      "坎贝尔效度框架"
+    ]
   },
   {
     "title": "Cartwright's Three-Stage Knowledge Framework",
-    "path": "wiki/theories/research-methodology/Cartwright's Three-Stage Knowledge Framework.md"
+    "path": "wiki/theories/research-methodology/Cartwright's Three-Stage Knowledge Framework.md",
+    "aliases": [
+      "卡特赖特三阶段知识框架",
+      "三阶段知识框架"
+    ]
   },
   {
     "title": "Capability Approach in Education",
@@ -1999,7 +2084,10 @@
   },
   {
     "title": "Dual Elite Career Paths",
-    "path": "wiki/theories/sociology-of-education/Dual Elite Career Paths.md"
+    "path": "wiki/theories/sociology-of-education/Dual Elite Career Paths.md",
+    "aliases": [
+      "双重精英生涯路径"
+    ]
   },
   {
     "title": "Dual-Process Model of Culture in Action",
@@ -2012,11 +2100,17 @@
   },
   {
     "title": "Rational Action Theory in Education",
-    "path": "wiki/theories/sociology-of-education/Rational Action Theory in Education.md"
+    "path": "wiki/theories/sociology-of-education/Rational Action Theory in Education.md",
+    "aliases": [
+      "教育中的理性行动理论"
+    ]
   },
   {
     "title": "Refraction Framework",
-    "path": "wiki/theories/sociology-of-education/Refraction Framework.md"
+    "path": "wiki/theories/sociology-of-education/Refraction Framework.md",
+    "aliases": [
+      "折射框架"
+    ]
   },
   {
     "title": "Improvement Science",

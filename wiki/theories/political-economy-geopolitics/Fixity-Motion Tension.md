@@ -1,6 +1,7 @@
 ---
 title: Fixity-Motion Tension
-aliases: []
+aliases:
+  - 固着-流动张力
 summary: "解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论"
 type: theory
 tags:

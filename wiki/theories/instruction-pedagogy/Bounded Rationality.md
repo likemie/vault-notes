@@ -1,6 +1,7 @@
 ---
 title: Bounded Rationality
-aliases: []
+aliases:
+  - 有限理性
 summary: "解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理"
 type: theory
 tags:

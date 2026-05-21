@@ -1,6 +1,7 @@
 ---
 title: Transactional Epistemology
-aliases: []
+aliases:
+  - 交互认识论
 summary: "Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性"
 type: theory
 tags:

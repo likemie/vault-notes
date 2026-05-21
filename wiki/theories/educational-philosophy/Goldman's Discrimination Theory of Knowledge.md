@@ -1,6 +1,8 @@
 ---
 title: Goldman's Discrimination Theory of Knowledge
-aliases: []
+aliases:
+  - 高德曼的知识辨识理论
+  - 知识辨识理论
 summary: "知识的成立依赖区分真实状态与相关替代可能状态的能力，可用于说明教育判断为何往往具有局部性、情境性与暂定性"
 type: theory
 tags:

@@ -1,6 +1,8 @@
 ---
 title: Miyake's Unity and Diversity Framework of Executive Function
-aliases: []
+aliases:
+  - 宫崎统一-多样性框架
+  - 执行功能统一-多样性框架
 summary: "Miyake (2000) 的 EF 统一性与多样性框架：抑制、转换、更新与监控三成分既相关又各具独特功能和发展轨迹"
 type: theory
 tags:

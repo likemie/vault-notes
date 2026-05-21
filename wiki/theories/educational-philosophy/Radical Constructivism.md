@@ -1,6 +1,7 @@
 ---
 title: Radical Constructivism
-aliases: []
+aliases:
+  - 激进建构主义
 summary: "把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握"
 type: theory
 tags:

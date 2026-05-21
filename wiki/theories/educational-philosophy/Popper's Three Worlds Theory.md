@@ -1,6 +1,8 @@
 ---
 title: Popper's Three Worlds Theory
-aliases: []
+aliases:
+  - 波普尔三世界理论
+  - 三世界理论
 summary: "将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承"
 type: theory
 tags:

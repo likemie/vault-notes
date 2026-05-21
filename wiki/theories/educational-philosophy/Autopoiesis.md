@@ -1,6 +1,8 @@
 ---
 title: Autopoiesis
-aliases: []
+aliases:
+  - 自创生
+  - autopoiesis
 summary: "把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织"
 type: theory
 tags:

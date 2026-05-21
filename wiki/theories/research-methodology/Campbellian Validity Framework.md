@@ -1,6 +1,7 @@
 ---
 title: Campbellian Validity Framework
-aliases: []
+aliases:
+  - 坎贝尔效度框架
 summary: "围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界"
 type: theory
 tags:

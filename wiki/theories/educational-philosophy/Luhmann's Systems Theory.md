@@ -1,6 +1,8 @@
 ---
 title: Luhmann's Systems Theory
-aliases: []
+aliases:
+  - 卢曼系统理论
+  - 系统理论
 summary: "社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，Larsen (2019) 以盲点和结构耦合概念批判 VL"
 type: theory
 tags:

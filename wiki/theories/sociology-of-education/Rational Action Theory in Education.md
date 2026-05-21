@@ -1,6 +1,7 @@
 ---
 title: Rational Action Theory in Education
-aliases: []
+aliases:
+  - 教育中的理性行动理论
 summary: "以相对风险规避解释不同阶层教育选择差异的教育分层理论，强调家庭背景如何通过成本、收益和风险判断影响升学决策"
 type: theory
 tags:
