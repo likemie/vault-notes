@@ -17,12 +17,12 @@ tags:
 related_concepts:
   - '[[Digital Optimum]]'
   - '[[Preemptive Governance]]'
-- '[[Online Self-Assessment]]'
-- '[[Learning Analytics]]'
-- '[[Knowledge-Based Economy]]'
-- '[[Bildung]]'
-- '[[Competitiveness in Higher Education]]'
-- '[[Digital Self]]'
+  - '[[Online Self-Assessment]]'
+  - '[[Learning Analytics]]'
+  - '[[Knowledge-Based Economy]]'
+  - '[[Bildung]]'
+  - '[[Competitiveness in Higher Education]]'
+  - '[[Digital Self]]'
 related_theories:
 - '[[Governmentality]]'
 - '[[Societies of Control]]'

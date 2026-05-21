@@ -41,7 +41,7 @@ sources:
 - '[[Ch4_Amos_2022]]'
 - '[[Ch6_Rizvi_2022]]'
 - '[[Ch11_Hartmann_2022]]'
-  - '[[Ch13_Thompson_2022]]'
+- '[[Ch13_Thompson_2022]]'
 confidence: medium
 status: draft
 created: '2026-05-02'

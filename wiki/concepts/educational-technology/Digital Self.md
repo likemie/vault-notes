@@ -19,10 +19,10 @@ tags:
 related_concepts:
   - '[[Digital Optimum]]'
   - '[[Preemptive Governance]]'
-- '[[Online Self-Assessment]]'
-- '[[Promising Student]]'
-- '[[Learning Analytics]]'
-- '[[Performativity of Measurement]]'
+  - '[[Online Self-Assessment]]'
+  - '[[Promising Student]]'
+  - '[[Learning Analytics]]'
+  - '[[Performativity of Measurement]]'
 related_theories:
 - '[[Societies of Control]]'
 related_methods: []

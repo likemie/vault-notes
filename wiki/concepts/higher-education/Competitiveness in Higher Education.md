@@ -17,14 +17,14 @@ tags:
 related_concepts:
   - '[[Stakeholder University]]'
   - '[[Preemptive Governance]]'
-- '[[Global Universities Rankings]]'
-- '[[Performativity of Measurement]]'
-- '[[Knowledge-Based Economy]]'
-- '[[Geopolitics of Knowledge]]'
-- '[[Online Self-Assessment]]'
-- '[[Promising Student]]'
-- '[[Digital Self]]'
-- '[[New Public Management]]'
+  - '[[Global Universities Rankings]]'
+  - '[[Performativity of Measurement]]'
+  - '[[Knowledge-Based Economy]]'
+  - '[[Geopolitics of Knowledge]]'
+  - '[[Online Self-Assessment]]'
+  - '[[Promising Student]]'
+  - '[[Digital Self]]'
+  - '[[New Public Management]]'
 related_theories:
 - '[[Governmentality]]'
 related_methods: []

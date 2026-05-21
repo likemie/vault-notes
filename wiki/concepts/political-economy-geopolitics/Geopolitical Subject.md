@@ -16,12 +16,12 @@ related_concepts:
   - '[[Promising Student]]'
   - '[[Competitiveness in Higher Education]]'
   - '[[Online Self-Assessment]]'
-- '[[Knowledge-Based Economization]]'
-- '[[Geopolitics of Knowledge]]'
-- '[[Knowledge-Based Economy]]'
-- '[[Hub and Flow Imaginaries]]'
-- '[[Spatial Sortings]]'
-- '[[Corporate Education]]'
+  - '[[Knowledge-Based Economization]]'
+  - '[[Geopolitics of Knowledge]]'
+  - '[[Knowledge-Based Economy]]'
+  - '[[Hub and Flow Imaginaries]]'
+  - '[[Spatial Sortings]]'
+  - '[[Corporate Education]]'
 related_theories:
 - '[[Fixity-Motion Tension]]'
 - '[[Critical Geopolitics]]'
@@ -31,11 +31,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - '[[Argument_Thompson_2022_Promising_Student]]'
-- '[[Argument_Hartmann_2022_CorporateEducation]]'
+  - '[[Argument_Hartmann_2022_CorporateEducation]]'
 sources:
   - '[[Ch13_Thompson_2022]]'
-- '[[Ch2_Moisio_2022]]'
-- '[[Ch11_Hartmann_2022]]'
+  - '[[Ch2_Moisio_2022]]'
+  - '[[Ch11_Hartmann_2022]]'
 confidence: low
 status: draft
 created: '2026-05-07'

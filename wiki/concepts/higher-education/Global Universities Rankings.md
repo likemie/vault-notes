@@ -19,12 +19,12 @@ related_concepts:
   - '[[Competitiveness in Higher Education]]'
   - '[[Promising Student]]'
   - '[[Online Self-Assessment]]'
-- '[[Geopolitics of Knowledge]]'
-- '[[Knowledge-Based Economy]]'
-- '[[Global Education Industry]]'
-- '[[Internationalization of Higher Education]]'
-- '[[Social Charter]]'
-- '[[Space-Making in Higher Education]]'
+  - '[[Geopolitics of Knowledge]]'
+  - '[[Knowledge-Based Economy]]'
+  - '[[Global Education Industry]]'
+  - '[[Internationalization of Higher Education]]'
+  - '[[Social Charter]]'
+  - '[[Space-Making in Higher Education]]'
 related_theories: []
 related_methods: []
 related_persons:
@@ -37,15 +37,15 @@ related_facts:
 - '[[PISA]]'
 related_arguments:
   - '[[Argument_Thompson_2022_Promising_Student]]'
-- '[[Argument_Boyadjieva_2022_Springer]]'
-- '[[Argument_Zapp_2022_Springer]]'
-- '[[Argument_Slethaug_2010_InternationalEducation]]'
+  - '[[Argument_Boyadjieva_2022_Springer]]'
+  - '[[Argument_Zapp_2022_Springer]]'
+  - '[[Argument_Slethaug_2010_InternationalEducation]]'
 sources:
   - '[[Ch13_Thompson_2022]]'
-- '[[Ch8_Boyadjieva_2022]]'
-- '[[Ch9_Zapp_2022]]'
-- '[[Marginson_2025_ROE]]'
-- '[[Ch1_Slethaug_2010]]'
+  - '[[Ch8_Boyadjieva_2022]]'
+  - '[[Ch9_Zapp_2022]]'
+  - '[[Marginson_2025_ROE]]'
+  - '[[Ch1_Slethaug_2010]]'
 confidence: medium
 status: draft
 created: '2026-05-11'
