@@ -1164,6 +1164,14 @@
     ]
   },
   {
+    "title": "Structured Teaching",
+    "path": "wiki/concepts/instruction-pedagogy/Structured Teaching.md",
+    "aliases": [
+      "结构化教学",
+      "structured teaching"
+    ]
+  },
+  {
     "title": "Student-Teacher Relationship",
     "path": "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
     "aliases": [
@@ -2426,6 +2434,14 @@
     ]
   },
   {
+    "title": "Comparative Meta-synthesis",
+    "path": "wiki/methods/qualitative/Comparative Meta-synthesis.md",
+    "aliases": [
+      "比较性元综合",
+      "comparative meta-synthesis"
+    ]
+  },
+  {
     "title": "Constructivist Grounded Theory",
     "path": "wiki/methods/qualitative/Constructivist Grounded Theory.md",
     "aliases": [
@@ -2863,14 +2879,6 @@
     ]
   },
   {
-    "title": "Descartes",
-    "path": "wiki/persons/france/Descartes.md",
-    "aliases": [
-      "笛卡尔",
-      "René Descartes"
-    ]
-  },
-  {
     "title": "Didier Eribon",
     "path": "wiki/persons/france/Didier Eribon.md",
     "aliases": [
@@ -2896,6 +2904,14 @@
     ]
   },
   {
+    "title": "Jean-Jacques Rousseau",
+    "path": "wiki/persons/france/Jean-Jacques Rousseau.md",
+    "aliases": [
+      "卢梭",
+      "Rousseau"
+    ]
+  },
+  {
     "title": "Pierre Bourdieu",
     "path": "wiki/persons/france/Pierre Bourdieu.md",
     "aliases": [
@@ -2905,11 +2921,11 @@
     ]
   },
   {
-    "title": "Rousseau",
-    "path": "wiki/persons/france/Rousseau.md",
+    "title": "René Descartes",
+    "path": "wiki/persons/france/René Descartes.md",
     "aliases": [
-      "卢梭",
-      "Jean-Jacques Rousseau"
+      "笛卡尔",
+      "Descartes"
     ]
   },
   {
@@ -2948,18 +2964,18 @@
     ]
   },
   {
+    "title": "Immanuel Kant",
+    "path": "wiki/persons/germany/Immanuel Kant.md",
+    "aliases": [
+      "康德",
+      "Kant"
+    ]
+  },
+  {
     "title": "Jurgen Schriewer",
     "path": "wiki/persons/germany/Jurgen Schriewer.md",
     "aliases": [
       "于尔根·施里韦尔"
-    ]
-  },
-  {
-    "title": "Kant",
-    "path": "wiki/persons/germany/Kant.md",
-    "aliases": [
-      "康德",
-      "Immanuel Kant"
     ]
   },
   {
@@ -3082,12 +3098,11 @@
     ]
   },
   {
-    "title": "Berkeley",
-    "path": "wiki/persons/uk/Berkeley.md",
+    "title": "Bertrand Russell",
+    "path": "wiki/persons/uk/Bertrand Russell.md",
     "aliases": [
-      "贝克莱",
-      "George Berkeley",
-      "贝克莱主教"
+      "罗素",
+      "Russell"
     ]
   },
   {
@@ -3133,6 +3148,14 @@
     ]
   },
   {
+    "title": "George Berkeley",
+    "path": "wiki/persons/uk/George Berkeley.md",
+    "aliases": [
+      "贝克莱",
+      "Berkeley"
+    ]
+  },
+  {
     "title": "Gerald Grace",
     "path": "wiki/persons/uk/Gerald Grace.md",
     "aliases": [
@@ -3144,6 +3167,14 @@
     "path": "wiki/persons/uk/Helen Gunter.md",
     "aliases": [
       "海伦·冈特"
+    ]
+  },
+  {
+    "title": "John Locke",
+    "path": "wiki/persons/uk/John Locke.md",
+    "aliases": [
+      "洛克",
+      "Locke"
     ]
   },
   {
@@ -3172,14 +3203,6 @@
     "path": "wiki/persons/uk/Kimberly Ochs.md",
     "aliases": [
       "金伯莉·奥克斯"
-    ]
-  },
-  {
-    "title": "Locke",
-    "path": "wiki/persons/uk/Locke.md",
-    "aliases": [
-      "洛克",
-      "John Locke"
     ]
   },
   {
@@ -3236,14 +3259,6 @@
     "path": "wiki/persons/uk/Roy Bhaskar.md",
     "aliases": [
       "罗伊·巴斯卡"
-    ]
-  },
-  {
-    "title": "Russell",
-    "path": "wiki/persons/uk/Russell.md",
-    "aliases": [
-      "罗素",
-      "Bertrand Russell"
     ]
   },
   {
@@ -4679,6 +4694,10 @@
   {
     "title": "Argument_Biesta_2010_SPE",
     "path": "wiki/arguments/journal-articles/Argument_Biesta_2010_SPE.md"
+  },
+  {
+    "title": "Argument_Håkansson_2015_TT",
+    "path": "wiki/arguments/journal-articles/Argument_Håkansson_2015_TT.md"
   },
   {
     "title": "Argument_Wecker_2016_ZfE",
