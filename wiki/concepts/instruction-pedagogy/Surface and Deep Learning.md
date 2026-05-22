@@ -4,18 +4,22 @@ aliases:
   - 表层学习与深层学习
   - 表层学习
   - 深层学习
-summary: "区分以记忆事实和完成任务为主的表层学习与以理解关系、意义和结构为主的深层学习，用于分析学习方式与教学评价之间的关系。"
+summary: "区分以记忆事实和任务完成为主的表层学习与以理解关系、意义和结构为主的深层学习。CHC 研究对该二分法提出了跨文化挑战_中国学习者的记忆并非表层学习的终点_而是通向深层理解的第一步。"
 type: concept
 tags:
 - surface-learning
 - deep-learning
 - subject/instruction
 - level/higher-ed
+- region/china
 related_concepts:
 - '[[Visible Learning]]'
 - '[[Problem-Based Learning]]'
 - '[[Constructive Alignment]]'
 - '[[Dynamic Knowledge and Learning Model]]'
+- '[[Paradox of the Chinese Learner]]'
+- '[[Chinese Learner]]'
+- '[[Confucian Heritage Cultures]]'
 related_theories:
 - '[[Popper''s Three Worlds Theory]]'
 related_methods: []
@@ -25,12 +29,14 @@ related_persons:
 - '[[Thomas Aastrup Rømer]]'
 - '[[Carl Bereiter]]'
 related_facts: []
-related_arguments: []
+related_arguments:
+- '[[Argument_Li_2012_Cambridge]]'
 sources:
 - '[[Qvortrup_2015_Paideia]]'
 - '[[Hattie_2015_SOTLP]]'
 - '[[Blass_2020_JESP]]'
 - '[[Fredens_2015_Paideia]]'
+- '[[Li_2012_Cambridge]]'
 confidence: low
 status: draft
 created: '2026-05-04'
@@ -83,6 +89,52 @@ updated: '2026-05-18'
 
 > [!success] 笔记的学习效果
 > Henk & Stahl (1985) 的元分析发现一个与表层/深层区分相关的模式：学生从讲座中记笔记对学习只有 modest 改善（d=0.34），但**回顾**这些笔记 dramatically 提高了学习（d=1.56）。"重要的不是记笔记，而是回顾"（Hattie, 2015, p.84）。这暗示表层学习（记录信息）必须经过深层处理（回顾和重新组织）才能产生最大效果。
+
+---
+
+## 跨文化挑战：中国学习者的记忆-理解路径
+
+> [!info]
+> [[Jin Li|Li]]（2012, pp.80-83）在综述 [[Paradox of the Chinese Learner|中国学习者悖论]] 研究时，系统呈现了 CHC 研究对该二分法的跨文化挑战。核心发现是：**中国学习者的"记忆"不是西方意义上的表层学习终点——它是通向深层理解的第一步**。
+
+### Marton 等（1996）：记忆作为深度策略
+
+> [!success]
+> Ference Marton、Gloria Dall'Alba 和 Lai Kun Tse 直接针对中国学习者最被诟病的"死记硬背"（rote learning）进行了研究。结果发现：中国学习者的背诵**不是目的本身**（not an end in itself），而是作为达成深层理解的更大策略的**第一步**（Li, 2012, pp.80-81）。
+
+这一发现挑战了表层/深层二分法的一个隐含假设：记忆 = 表层，理解 = 深层，两者是互斥的。在中国学习者的实践中，记忆和理解不是对立的——记忆是**通往理解的路径**。
+
+### Dahlin & Watkins（2000）：两种不同的"理解"概念
+
+> [!success]
+> Bo Dahlin 和 [[John Biggs|David Watkins]] 比较了英国和中国学生对记忆与重复的使用，发现了更深层的文化差异（Li, 2012, p.81）：
+>
+> - **英国学生**：用重复来**检查**自己是否真的记住了——重复是验证工具
+> - **中国学生**：用重复来创造**"深刻印象"**（deep impressions），为理解奠定基础——重复是创造工具
+> - **英国学生**视理解为**突然的顿悟**（sudden insight）
+> - **中国学生**视理解为**需要大量心智努力的长期过程**（long process requiring extensive mental effort）
+>
+> 这意味着："理解"本身在不同文化中被不同地定义——这对以"理解"为深层学习核心标准的理论框架提出了根本性的元认知挑战。
+
+### Pratt、Kelly & Wong（1999）：四步学习链
+
+> [!success]
+> Daniel Pratt、Mavis Kelly 和 Winnie Wong 在对香港大学生和教师（包括华人和西方外籍教师）的研究中，发现中国学生遵循一个清晰的四步学习序列（Li, 2012, pp.81-82）：
+>
+> 1. **记忆**（memorize）——初次接触新材料时，先将材料记入心中
+> 2. **理解**（understand）——理解材料的意图、风格和含义
+> 3. **应用**（apply）——将理解应用于需要使用该知识的情境
+> 4. **质疑与修正**（question and modify）——进入更深层的质疑和对原始材料的修正
+>
+> 前三个步骤更适合**独自学习和沉思**（solitary learning and contemplation），只有第四步是口头互动性的。这意味着中国学习者的学习过程**不受即时口头交流的约束**——它可以在数天、数周、数月甚至数年内展开（Li 举例：博士生可能在数年后发表论文来挑战导师的观点）。
+>
+> > [!example] 两种教学期望的冲突
+> > Pratt 等观察到：当中国学生面对一位"其期望和评估形式将他们立即推到这一链条的远端（质疑和分析）"的西方教师时——他们会感到**困惑和挫折**（Li, 2012, p.82）。这不是学生"能力不足"——而是两种学习文化对"何时该做何事"的时间表完全不同。
+
+> [!warning] 对表层/深层二分法的方法论含义
+> 上述 CHC 研究不是简单地"反驳"了表层/深层二分法，而是揭示了它可能受限于**特定的西方文化学习序列**。如果"记忆"本身可以是产生理解的途径——而非理解的替代品——那么将"记忆"等同于"表层学习"的分类本身就需要重新审视。这一挑战与 [[Paradox of the Chinese Learner]] 的核心张力一致：看似低效的学习方式如何产生高成就？答案的一部分可能在于：**这些学习方式并不低效——只是它们的效率逻辑与西方的表层/深层时间表不同**。
+
+---
 
 ## 理论基础
 

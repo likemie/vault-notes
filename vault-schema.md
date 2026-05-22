@@ -8,10 +8,10 @@
 
 - 只读取当前任务需要的文件，避免扫描无关文件夹。
 - 先读 `wiki/index.json` 判断条目是否可能已存在；若缺失、过期或有歧义，再按类型搜索对应二级文件夹。
-- `wiki/index.json` 和 `wiki/index.md` 由 `scripts/update_wiki_index.py` 自动生成，不手动维护。
+- `wiki/index.json` 和 `wiki/index.md` 由 `scripts/wiki_index.py` 自动生成，不手动维护。
 - 新建、移动、删除、重命名条目后，运行：
   ```bash
-  python3 scripts/update_wiki_index.py
+  python3 scripts/wiki_index.py
   ```
 - 修改已有条目必须使用 `str_replace`，只替换需要修改的段落，不重写整个文件。
 - 写入前必须声明插入位置：
@@ -31,7 +31,7 @@ books/                       书籍工作区与书籍 schema
   schema-monograph-pdf.md
   schema-monograph-epub.md
 templater/                   Obsidian Templater 插件模板，不供 AI 工作流读取
-scripts/update_wiki_index.py 自动生成 wiki/index.json 与 wiki/index.md
+scripts/wiki_index.py 自动生成 wiki/index.json 与 wiki/index.md
 wiki/
   index.json                 AI / Claude Code 检索用机器索引
   index.md                   GitHub / Quartz / Obsidian 可读静态索引
@@ -107,7 +107,7 @@ processed_date: YYYY-MM-DD
 8. 逐条处理待更新条目：读取文件 → 判断插入位置 → 用 `str_replace` 精确整合。
 9. 逐条处理待新建条目：只读取对应模板 → 按模板写入对应二级文件夹。
 10. 维护必要的 frontmatter `related_*`、`sources` 与正文 wikilink。
-11. 运行 `python3 scripts/update_wiki_index.py`。
+11. 运行 `python3 scripts/wiki_index.py`。
 
 ### 书籍任务
 
