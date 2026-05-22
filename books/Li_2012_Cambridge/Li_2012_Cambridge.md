@@ -24,6 +24,11 @@ extracted_to:
 - "[[Action Better Than Words]]"
 - "[[Rightness]]"
 - "[[Shame (Confucianism)]]"
+- "[[Certainty of Knowledge]]"
+- "[[Mind and Its Wonders]]"
+- "[[Examined Life]]"
+- "[[Western Learner]]"
+- "[[Socrates]]"
 processed_date: 2026-05-22
 ---
 

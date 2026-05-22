@@ -28,6 +28,10 @@ related_concepts:
 - '[[Action Better Than Words]]'
 - '[[Take the World Upon Oneself]]'
 - '[[Heart and Mind for Wanting to Learn]]'
+- '[[Certainty of Knowledge]]'
+- '[[Mind and Its Wonders]]'
+- '[[Examined Life]]'
+- '[[Western Learner]]'
 related_theories:
 - '[[Hofstede''s Cultural Dimensions]]'
 - '[[Confucian Learning Tradition]]'
@@ -35,6 +39,7 @@ related_methods: []
 related_persons:
 - '[[Jin Li]]'
 - '[[Confucius]]'
+- '[[Socrates]]'
 related_facts:
 - '[[English Schools Foundation Hong Kong]]'
 - '[[Transnationalism and America Project SYSU]]'

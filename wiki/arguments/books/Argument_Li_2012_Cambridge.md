@@ -32,6 +32,10 @@ related_concepts:
 - '[[Action Better Than Words]]'
 - '[[Rightness]]'
 - '[[Shame (Confucianism)]]'
+- '[[Certainty of Knowledge]]'
+- '[[Mind and Its Wonders]]'
+- '[[Examined Life]]'
+- '[[Western Learner]]'
 related_theories:
 - '[[Confucian Learning Tradition]]'
 related_methods: []
@@ -41,6 +45,7 @@ related_persons:
 - '[[Mencius]]'
 - '[[Zhu Xi]]'
 - '[[Wang Yangming]]'
+- '[[Socrates]]'
 related_facts:
 - '[[Civil Service Examination]]'
 related_arguments: []
