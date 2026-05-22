@@ -2,86 +2,101 @@
 title: Direct Instruction
 aliases:
   - 直接教学
-summary: "以教师主导、结构化和明确讲解为特征的教学方法，强调分步示范、练习巩固和清晰反馈，常用于基础知识和技能教学。"
+summary: "以教师清晰示范、分步讲解、理解检查和练习巩固为核心的教学取向，常被用作讨论结构化教学和基础知识教学的参照。"
 type: concept
 tags:
-- direct-instruction
-- explicit-instruction
-- pedagogy
-- subject/instruction
-- level/k12
+  - direct-instruction
+  - explicit-instruction
+  - subject/instruction
+  - level/k12
 related_concepts:
-- '[[Side Effects in Education]]'
-- '[[Visible Learning]]'
-- '[[Whole Language]]'
-- '[[Effect Size]]'
-- '[[Problem-Based Learning]]'
+  - "[[Structured Teaching]]"
+  - "[[Effective Teaching]]"
+  - "[[Visible Learning]]"
+  - "[[Feedback]]"
+  - "[[Individualised Instruction]]"
+  - "[[Problem-Based Learning]]"
+  - "[[Side Effects in Education]]"
 related_theories: []
 related_methods: []
 related_persons:
-- '[[John Hattie]]'
-- '[[Yong Zhao]]'
+  - "[[John Hattie]]"
+  - "[[Yong Zhao]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Håkansson_2015_TT]]"
 sources:
-- '[[Zhao_2017_JEC]]'
-- '[[Hattie_2015_SOTLP]]'
-- '[[Fredens_2015_Paideia]]'
+  - "[[Zhao_2017_JEC]]"
+  - "[[Hattie_2015_SOTLP]]"
+  - "[[Fredens_2015_Paideia]]"
+  - "[[Håkansson_2015_TT]]"
 confidence: low
 status: draft
-created: '2026-05-04'
-updated: '2026-05-18'
+created: "2026-05-04"
+updated: "2026-05-22"
 ---
+
+# Direct Instruction
 
 ## 定义
 
 > [!info] 定义
-> 直接教学（Direct Instruction, DI）有大小写之分。大写 DI 指 Engelmann 等人开发的特定教学项目（如 DISTAR）；小写 di 指以明确讲解（explicit instruction）为特征的一般教学取向。Rosenshine (2008) 识别了该术语的五种含义。Zhao (2017) 在广义上使用该概念——指以教师主导的、结构化的、明确的讲解为特征的教学方法（Zhao, 2017, p.7）。
+> 直接教学（Direct Instruction, DI）通常指一种由教师主动组织学习过程的教学取向，核心做法包括明确说明目标、分步示范、带领练习、检查理解并通过复习巩固知识。严格来说，大写 DI 也可专指 Engelmann 等人开发的特定教学项目；在当前 vault 更常处理的是广义用法，也就是以明确讲解和清晰引导为特征的一般教学取向（Zhao, 2017, p.7）。
 >
-> > 例：教师在课堂开始时向全班明确讲解一个新数学概念，逐步示范解题步骤，引导学生进行有指导的练习，然后布置独立练习——这整个过程体现了直接教学的基本原则。
+> > 例：教师先把一个分数运算规则拆成几个步骤讲清楚，接着现场示范，再让学生跟着做一题，确认多数人懂了以后再进入独立练习。这种“先示范，再练习，再检查”的节奏，就是典型的直接教学。
+
+## 概念辨析
+
+> [!example] 概念辨析
+> - vs [[Structured Teaching]] — [[Structured Teaching]] 是更宽的课堂组织概念，重点是教师如何把目标、活动、时间和支持安排清楚。[[Direct Instruction]] 可以是它的一种实现方式，但结构化教学不等于整堂课都采用直接讲授（Håkansson, 2015, p.593）。
+> - vs [[Effective Teaching]] — [[Effective Teaching]] 处理的是“什么样的课堂条件更可能促进学习”，范围比直接教学更宽，包括目标清晰、学习气氛、反馈和学生参与等。直接教学只是其中一种常见实现路径。
+> - vs [[Individualised Instruction]] — 直接教学强调由教师先把关键知识结构搭起来；个别化教学则更关注如何根据学生差异调整任务、节奏和支持。两者不是天然对立，但解决的问题不同。
+> - vs [[Problem-Based Learning]] — 问题导向学习更强调学生在问题中组织知识和推理。直接教学则更适合在学生尚未建立基础概念时先把关键框架说明白；若要看两者在不同学习阶段如何互补，详见 [[Problem-Based Learning]]。
 
 ## 核心要素
 
-> [!abstract] 教学特征
-> 直接教学的核心特征包括：教师清晰呈现学习目标、结构化讲解、示范（modeling）、有指导的练习（guided practice）、频繁检查理解程度、独立练习、系统性复习（Zhao, 2017, p.7; Rosenshine, 2008）。
+> [!abstract] 核心要素
+> - 明确目标：教师先让学生知道这节课要学什么、学会之后应能做到什么（Zhao, 2017, p.7）。
+> - 分步示范：教师把关键过程拆开，边做边解释，而不是只给结论（Zhao, 2017, p.7）。
+> - 理解检查：在进入独立任务前，教师需要确认学生是否真的听懂，而不是默认“讲过就算学会”（Zhao, 2017, p.7）。
+> - 有指导练习：学生先在教师支持下练习，再逐步过渡到独立完成（Zhao, 2017, p.7）。
+> - 复习与巩固：已学内容会被回收、总结和再练习，使知识结构稳定下来（Zhao, 2017, p.7）。
 
+## 在教学组织中的位置
 
-> [!abstract] 效果证据
-> 直接教学是教育领域研究最多的教学法之一。National Institute for Direct Instruction 2015 年的文献目录达 102 页（每页约 12 条目）。Hattie (2009) 将直接教学评为 d=0.59（远高于 0.40 阈值），将其归入"教师作为激活者"类别（Terhart, 2011, p.433; Zhao, 2017, p.7）。Hattie & Yates (2014) 在 *Visible Learning and the Science of How We Learn* 中进一步将直接教学提升为九条学习原则的第四条核心要素——"学习者可从社会榜样、直接教学和纠正性反馈中极大受益"（Fredens, 2015, p.70）。
-
-
-> [!abstract] 副作用证据
-> 然而，直接教学同时被认为存在一系列潜在的负面副作用（Zhao, 2017, pp.7-10）：
+> [!tip] 在教学组织中的位置
+> Håkansson（2015）对瑞典 [[Structured Teaching]] 的分析，有助于把直接教学放回更合适的位置。文章并不主张“课堂问题的答案就是老师一直讲”，而是指出教师清晰示范、目标说明、理解检查和复习，确实构成了高结构课堂的重要部分（Håkansson, 2015, pp.592-593）。
 >
-> - **抑制创造力与问题解决**：Peterson (1979) 回顾 200+ 研究发现——直接教学在成绩测试上略优，但在抽象思维测试（创造力、问题解决）上略差；开放教学在成绩测试上略差，但在创造力和学校态度上更好（p.8）
-> - **限制自发性探索**：Bonawitza et al. (2011) 的学龄前儿童实验随机分配四种条件（教学／中断／天真／基线），发现被教学的儿童执行的独特动作更少、发现的其他功能更少——"教学限制了儿童的自发探索和发现"（p.8）
-> - **鼓励模仿而非创新**：Buchsbauma et al. (2011) 发现被教学条件下的儿童更可能模仿教师，但更不可能探索并提出新颖解决方案（p.9）
-> - **"非生产性成功"**：Kapur (2014, 2016) 提出数学中直接教学产生"非生产性成功"——学生在解决良好结构化问题时表现更好，但在需要深层概念理解的任务上表现差于"生产性失败"条件下的学生（p.9）
+> 但同一篇文章也提醒：这些特征并不要求课堂只能采取单一讲授形式。一个有结构的项目学习、小组活动或结对任务，也可以吸收直接教学中的“先讲清框架、再让学生展开”的组织逻辑（Håkansson, 2015, pp.593-595）。
+>
+> > 例：老师先用 10 分钟示范怎样分析一段文本，再让学生两人一组练习，再收束讨论。这堂课有明显的直接教学环节，但整堂课不是单向讲授。
 
-## 与相关概念的区别
+## 实证发现
 
-> [!example] 与相关概念的区别
-> - vs [[Whole Language]] — 直接教学与全语言代表教学连续体上的两个对立端：DI 强调教师主导的结构化讲解，全语言强调在真实完整语境中学习。Hattie 将全语言评为 d=0.06 而 DI 评为 d=0.59，但 Zhao 的副作用框架指出两者都有各自的"效果+副作用"组合——选择取决于教育消费者对风险和收益的权衡
-> - vs 探究式学习（Inquiry-Based Learning） — Hattie 将探究式教学评为 d=0.31，低于直接教学。但 Peterson (1979) 的研究和 Kapur (2014) 的"生产性失败"实验表明：探究式学习在短期成绩测试上可能不及 DI，但在深层理解和创造性问题解决上可能具有优势
-> - vs [[Problem-Based Learning]] — PBL 是探究式学习的一种具体形式。Hattie (2015, p.84-85) 汇总 9 项元分析得 PBL 总体 d≈0.08–0.24，远低于 DI 的 d=0.60。但 Hattie 论证 PBL 低效可能源于学生在缺乏[[Surface and Deep Learning|表层知识]]时即被引入——PBL 要求学生进行深层推理，而 DI 先建立表层知识基础。两者可能互补：DI 建立基础 → PBL 深化应用（Hattie, 2015, p.84-85）
+> [!success] 实证发现
+> - 在 [[Visible Learning]] 体系中，直接教学通常被视为高效应量教学策略之一，常被用来支撑“教师作为激活者”的教学图像（Terhart, 2011, p.433; Zhao, 2017, p.7）。
+> - Håkansson（2015）并不直接测量 DI 的独立效果，但其对 43 项研究综述的比较显示，目标清晰、教师领导、活动组织、及时 [[Feedback]] 和复习巩固等特征，确实受到教学研究支持。这些正是直接教学常包含的要素（Håkansson, 2015, pp.591-593）。
+> - 同一证据也说明，真正受到支持的不是“单向讲授本身”，而是教师提供清晰结构的能力。因此，直接教学更适合被理解为一组高结构教学动作，而不是万能课堂形式（Håkansson, 2015, pp.593-595）。
+
+> [!info]- 核心数据
+> - Zhao（2017）转述 Hattie 对直接教学的效应量估计约为 `d=0.59`，高于 `d=0.40` 的常用阈值（Zhao, 2017, p.7）。
 
 ## 争议与批评
 
-> [!warning] 效果与副作用之争
-> Zhao（2017, p.7-8）指出围绕直接教学的争论之所以持续 40+ 年无法解决，根本原因在于教育研究缺乏"副作用"框架：
->
-> - **支持方**：提供了大量证据证明 DI 在提高学业成绩方面有效（Hempenstall, 2012, 2013），将批评者关注的问题（僵化、不适合某些儿童、抑制创造力和自主性）视为"迷思"（Adams & Engelmann, 1996）
-> - **批评方**：关注 DI 对学习者自主性、创造力和长期发展的潜在损害
-> - **Zhao 的解决框架**：双方都是"对且错"——各自看着同一枚硬币的不同面。DI 的效果与副作用不可分离。更有建设性的路径是承认 DI 有其位置，但需研究何时、对谁、以何种方式使用以最小化副作用
+> [!warning] 争议与批评
+> - 效果与副作用并存：Zhao（2017）提醒，直接教学在短期成绩表现上常常有利，但这不自动意味着它在创造力、开放探索和复杂问题解决上也总是更优。更完整的讨论见 [[Side Effects in Education]]（Zhao, 2017, pp.7-10）。
+> - 容易被误读成“讲得越多越好”：Håkansson（2015）对瑞典政策讨论的批评，刚好可以用来修正这种误读。研究支持教师把结构搭清楚，但不支持把教学简化为片面的讲坛式回归（Håkansson, 2015, pp.593-595）。
+> - 适用边界强依赖学习阶段：当学生尚未形成基础知识框架时，直接教学往往更容易发挥作用；但若长期只保留讲解和模仿，而不给学生更高阶应用与反思空间，就可能把“清晰结构”变成“过度控制”。
 
+## 相关案例／政策
 
-> [!warning] "非生产性成功"概念
-> Kapur（2016）为这场争论提供了一个操作性区分框架（Zhao, 2017, p.9）：
-> - **非生产性成功**（Unproductive Success）：短期的表现好但长期的学习未得到最大化——DI 属于此类
-> - **生产性失败**（Productive Failure）：短期表现差但长期学习更深刻——先让学生尝试解决复杂问题（即使失败），再提供讲解
+> [!example] 相关案例／政策
+> - [[Structured Teaching]] — 瑞典案例说明，直接教学中的清晰目标、示范、理解检查和复习，可被吸收到更广义的结构化教学中。
+> - [[Visible Learning]] — 直接教学在 Hattie 的综合中被不断用作高效策略参照。
 
 ## 来源
 
 - [[Zhao_2017_JEC]]
 - [[Hattie_2015_SOTLP]]
 - [[Fredens_2015_Paideia]]
+- [[Håkansson_2015_TT]]

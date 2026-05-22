@@ -3,77 +3,87 @@ title: Individualised Instruction
 aliases:
   - 个别化教学
   - 个性化教学
-summary: "根据学生差异调整内容、进度、支持方式或任务要求的教学安排，用于回应学生在能力、兴趣和学习节奏上的不同。"
+summary: "围绕学生差异调整内容、节奏与支持方式的教学安排，但其效果高度依赖教师结构和学生前提条件，不能简单等同于把学习责任交给学生。"
 type: concept
 tags:
-- individualised-instruction
-- differentiated-instruction
-- subject/instruction
-- level/k12
+  - individualised-instruction
+  - differentiated-instruction
+  - subject/instruction
+  - level/k12
 related_concepts:
-- '[[Effective Teaching]]'
-- '[[Visible Learning]]'
+  - "[[Structured Teaching]]"
+  - "[[Effective Teaching]]"
+  - "[[Visible Learning]]"
+  - "[[Feedback]]"
+  - "[[Direct Instruction]]"
 related_theories: []
 related_methods: []
 related_persons:
-- '[[John Hattie]]'
-- '[[Andreas Helmke]]'
+  - "[[John Hattie]]"
+  - "[[Andreas Helmke]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Håkansson_2015_TT]]"
 sources:
-- '[[Laursen_2015_Paideia]]'
+  - "[[Laursen_2015_Paideia]]"
+  - "[[Håkansson_2015_TT]]"
 confidence: low
 status: draft
-created: '2026-05-05'
-updated: '2026-05-18'
+created: "2026-05-05"
+updated: "2026-05-22"
 ---
+
+# Individualised Instruction
 
 ## 定义
 
 > [!info] 定义
-> 个别化教学（individualised instruction）关注教师如何根据学生差异调整教学安排。在丹麦讨论中，它与"教学差异化"（undervisningsdifferentiering）相邻，但二者不能简单等同。英语研究中没有一个与丹麦"教学差异化"完全平行的概念；较接近的参照是 Hattie 讨论的 individualised instruction，而其学习效果很小（Laursen, 2015, p.38）。
+> 个别化教学（individualised instruction）指教师根据学生差异，在内容、进度、任务难度、支持方式或学习路径上做出调整，以回应学生不同的能力、兴趣和学习节奏。它的核心问题不是“是否让学生自己做”，而是“教师如何在差异面前组织支持”（Laursen, 2015, p.38）。
+>
+> 在当前 vault 的文献链里，这个概念经常和“教学差异化”相邻出现，但两者并不完全等同。英语语境中的 individualised instruction 只是对北欧讨论中“教学差异化”的近似参照（Laursen, 2015, p.38）。
 
-## 历史沿革
+## 概念辨析
 
-> [!note-] 历史沿革
-> 在这篇论文中，个别化教学主要作为比较丹麦"教学差异化"与国际研究综合的参照概念出现。丹麦研究没有显示教学差异化能显著提升学习，国际研究中最接近的 individualised instruction 也没有显示强效果（Laursen, 2015, p.38）。
+> [!example] 概念辨析
+> - vs [[Structured Teaching]] — [[Structured Teaching]] 关心的是课堂整体框架是否清晰；个别化教学关心的是在这个框架内，教师如何对不同学生提供不同支持。前者回答“课堂怎么组织”，后者回答“差异怎么处理”。
+> - vs 开放式个人工作 — Håkansson（2015）指出，个人工作增加并不自动等于个别化教学。若学生只是被要求自己安排任务、自己理解规则，而教师支持反而减少，这更接近“把责任下放给学生”，不是高质量的个别化教学（Håkansson, 2015, pp.586-587, 594-595）。
+> - vs [[Direct Instruction]] — 直接教学通常先由教师把关键知识结构搭起来；个别化教学则处理学生在理解速度、支持强度和任务形式上的差异。两者常常需要配合，而不是二选一。
 
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **关注学生差异**：该概念的基本问题是，教师是否根据学生不同前提条件调整教学。这里的重点不在具体技术，而在这种调整是否能稳定提升学习结果（Laursen, 2015, p.38）。
-> - **与开放教学不同**：教学差异化不等同于开放、弱控制教学。开放教学的证据显示，低控制、少要求和少[[Feedback|反馈]]的安排对社会背景较弱学生尤其不利；个别化或差异化教学则是另一组关于"如何适配学生差异"的问题（Laursen, 2015, pp.36, 38）。
-
-## 与相关概念的区别
-
-> [!example] 与相关概念的区别
-> - vs **教学差异化（undervisningsdifferentiering）** — 英语研究中没有一个与丹麦"教学差异化"完全平行的概念；因此 Hattie 的 individualised instruction 只能作为近似参照，而不能简单等同（Laursen, 2015, p.38）。
-> - vs [[Effective Teaching]] — 有效教学指清晰目标、教师领导、良好气氛、适配学生前提和学生主动参与等基础质量；个别化教学只是其中"如何照顾学生差异"的一个具体问题（Laursen, 2015, pp.35–38）。
+> - 差异识别：教师需要先判断学生在哪些地方不同，例如基础、节奏、理解方式或任务支持需求。
+> - 结构化支持：个别化教学不是简单放手，而是按差异调整支持强度和任务路径。
+> - 目标一致：即便路径不同，学生仍需面对清楚的学习目标，否则个别化容易变成碎片化安排。
+> - 反馈嵌入：若没有 [[Feedback]]，教师就很难知道某种调整是否真的对特定学生起作用。
 
 ## 理论基础
 
-> [!info] 理论基础
-> - [[Visible Learning]] — Hattie 的研究综合中，individualised instruction 的效果很小；这使丹麦研究中"教学差异化"效果不显著的结果并不意外（Laursen, 2015, p.38）。
-> - [[Andreas Helmke]] — Helmke 支持教学差异化，但承认关于教学差异化是否提升学习的经验证据并不充分；这一判断与 [[SFI Report 2013|SFI 报告]]的丹麦结果相互呼应（Laursen, 2015, p.38）。
+> [!tip] 理论基础
+> - [[Effective Teaching]] — 个别化教学可被看作有效教学中“适配学生前提条件”的一部分，而不是独立万能策略。
+> - [[Visible Learning]] — Hattie 对 individualised instruction 的处理，使它常被放在“效果不算强”的位置上；但这个判断本身也依赖概念和测量方式如何被界定（Laursen, 2015, p.38）。
 
 ## 实证发现
 
 > [!success] 实证发现
-> - [[SFI Report 2013|丹麦 SFI 报告]]没有显示"教学差异化"能显著提升学生学习。这一结果接近 Hattie 对"个别化教学"效应较小的判断，也接近 Helmke 关于教学差异化经验证据不足的说法（Laursen, 2015, p.38）。
-> - 丹麦研究没有发现学生学习效果依赖特定教学形式或方法；更具体地说，共同解题对社会背景较弱的学生较好，个体解题对社会背景较强的学生较好。这说明"适配学生差异"可能存在，但不必然表现为一般意义上的教学差异化整体有效（Laursen, 2015, p.38）。
+> - Laursen（2015）整理的丹麦证据没有显示“教学差异化”能稳定显著提升学习，这和 Hattie 对 individualised instruction 效果较小的判断方向接近（Laursen, 2015, p.38）。
+> - 但 Håkansson（2015）提供了一个重要修正：问题不在于“教师是否照顾差异”本身，而在于当课堂越来越个人化时，教师支持是否也随之退场。若教师结构不足，学生可能被留在看似自由、实际上缺乏支撑的学习状态中（Håkansson, 2015, pp.586-587, 594-595）。
+> - 这意味着，个别化教学的关键不只是“给不同学生不同任务”，而是“在差异化安排下，教师是否仍持续提供目标、解释、理解检查和支持”（Håkansson, 2015, pp.592-595）。
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **概念对应问题**：丹麦"教学差异化"与英语 individualised instruction 之间并非完全对应，因此跨语境比较时需要谨慎。Hattie 的 individualised instruction 只是最接近的国际证据参照（Laursen, 2015, p.38）。
-> - **证据不足问题**：Helmke 虽然支持教学差异化，但承认经验证据不足；SFI 的丹麦结果也没有显示显著效果。因此，教学差异化不能被当作已被强证据支持的普遍有效教学质量（Laursen, 2015, p.38）。
+> - 概念对应并不严密：北欧语境的“教学差异化”和英语 individualised instruction 并非完全一一对应，跨语境比较时需要谨慎（Laursen, 2015, p.38）。
+> - 容易滑向“责任外包给学生”：Håkansson（2015）对瑞典课堂变化的分析提醒我们，很多被说成“个别化”的安排，实际可能只是让学生自己承担更多计划和理解工作，而教师支持变弱了（Håkansson, 2015, pp.586-587）。
+> - 若脱离结构框架，个别化可能扩大差异：学习准备强的学生更能从开放安排中获益，基础较弱的学生则更可能在缺少明确引导时掉队（Håkansson, 2015, pp.594-595）。
 
-## 相关研究
+## 相关案例／政策
 
-> [!example] 相关研究
-> - [[SFI Report 2013]] — 记录丹麦教学差异化效果不显著、共同解题和个体解题对不同社会背景学生效果不同等发现。
-> - [[Effective Teaching]] — 个别化教学属于有效教学中"适配学生前提条件"的问题，但不是已经被强证据支持的独立万能策略。
+> [!example] 相关案例／政策
+> - [[Structured Teaching]] — 瑞典案例说明，好的差异化不应以削弱教师结构为代价。
+> - [[Effective Teaching]] — 个别化教学更适合放回有效教学框架中理解，而不是被当成独立处方。
 
 ## 来源
 
 - [[Laursen_2015_Paideia]]
+- [[Håkansson_2015_TT]]
