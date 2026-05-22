@@ -29,6 +29,13 @@ extracted_to:
 - "[[Examined Life]]"
 - "[[Western Learner]]"
 - "[[Socrates]]"
+- "[[Plato]]"
+- "[[Kant]]"
+- "[[Rousseau]]"
+- "[[Descartes]]"
+- "[[Locke]]"
+- "[[Berkeley]]"
+- "[[Russell]]"
 processed_date: 2026-05-22
 ---
 

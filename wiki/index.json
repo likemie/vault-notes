@@ -1,5 +1,134 @@
 [
   {
+    "title": "Action Better Than Words",
+    "path": "wiki/concepts/chinese-philosophy/Action Better Than Words.md",
+    "aliases": [
+      "行勝於言",
+      "行胜于言",
+      "Facta non Verba",
+      "actions speak louder than words",
+      "slow to speak quick to act"
+    ]
+  },
+  {
+    "title": "Filial Piety",
+    "path": "wiki/concepts/chinese-philosophy/Filial Piety.md",
+    "aliases": [
+      "孝",
+      "xiào",
+      "filial conduct",
+      "filial devotion"
+    ]
+  },
+  {
+    "title": "Five Cardinal Relationships",
+    "path": "wiki/concepts/chinese-philosophy/Five Cardinal Relationships.md",
+    "aliases": [
+      "五伦",
+      "wǔ lún",
+      "five cardinal human relationships",
+      "five Confucian relationships"
+    ]
+  },
+  {
+    "title": "Junzi",
+    "path": "wiki/concepts/chinese-philosophy/Junzi.md",
+    "aliases": [
+      "君子",
+      "exemplary person",
+      "gentleman",
+      "nobleman"
+    ]
+  },
+  {
+    "title": "Learning Virtues",
+    "path": "wiki/concepts/chinese-philosophy/Learning Virtues.md",
+    "aliases": [
+      "学习美德",
+      "Confucian learning virtues",
+      "seven learning virtues"
+    ]
+  },
+  {
+    "title": "Li (Propriety)",
+    "path": "wiki/concepts/chinese-philosophy/Li (Propriety).md",
+    "aliases": [
+      "禮",
+      "礼",
+      "propriety",
+      "ritual propriety"
+    ]
+  },
+  {
+    "title": "Ren",
+    "path": "wiki/concepts/chinese-philosophy/Ren.md",
+    "aliases": [
+      "仁",
+      "human goodness",
+      "benevolence",
+      "humanheartedness",
+      "authoritative conduct"
+    ]
+  },
+  {
+    "title": "Rightness",
+    "path": "wiki/concepts/chinese-philosophy/Rightness.md",
+    "aliases": [
+      "义",
+      "義",
+      "yi",
+      "righteousness",
+      "uprightness",
+      "sense of justice"
+    ]
+  },
+  {
+    "title": "Sage",
+    "path": "wiki/concepts/chinese-philosophy/Sage.md",
+    "aliases": [
+      "圣",
+      "聖",
+      "圣人",
+      "聖人",
+      "圣贤",
+      "sheng",
+      "shengxian",
+      "sagehood"
+    ]
+  },
+  {
+    "title": "Self-Cultivation",
+    "path": "wiki/concepts/chinese-philosophy/Self-Cultivation.md",
+    "aliases": [
+      "修身",
+      "自我修養",
+      "self-perfect",
+      "self-perfection",
+      "xiū shēn"
+    ]
+  },
+  {
+    "title": "Shame (Confucianism)",
+    "path": "wiki/concepts/chinese-philosophy/Shame (Confucianism).md",
+    "aliases": [
+      "耻",
+      "恥",
+      "chi",
+      "sense of shame",
+      "羞耻感"
+    ]
+  },
+  {
+    "title": "Take the World Upon Oneself",
+    "path": "wiki/concepts/chinese-philosophy/Take the World Upon Oneself.md",
+    "aliases": [
+      "以天下为己任",
+      "taking on the weight of the world",
+      "taking the world upon oneself",
+      "天下为己任"
+    ]
+  },
+  {
     "title": "Interpretation Community",
     "path": "wiki/concepts/communication-discourse/Interpretation Community.md",
     "aliases": [
@@ -243,6 +372,15 @@
     ]
   },
   {
+    "title": "University Motto",
+    "path": "wiki/concepts/comparative-education/University Motto.md",
+    "aliases": [
+      "校训",
+      "university mottos",
+      "大学校训"
+    ]
+  },
+  {
     "title": "Varieties of Capitalism",
     "path": "wiki/concepts/comparative-education/Varieties of Capitalism.md",
     "aliases": [
@@ -372,6 +510,17 @@
     ]
   },
   {
+    "title": "Certainty of Knowledge",
+    "path": "wiki/concepts/educational-philosophy/Certainty of Knowledge.md",
+    "aliases": [
+      "知识的确定性",
+      "true knowledge",
+      "eternal truth",
+      "absolute knowledge",
+      "pursuit of certainty"
+    ]
+  },
+  {
     "title": "Complexity Reduction",
     "path": "wiki/concepts/educational-philosophy/Complexity Reduction.md",
     "aliases": [
@@ -413,6 +562,17 @@
     ]
   },
   {
+    "title": "Examined Life",
+    "path": "wiki/concepts/educational-philosophy/Examined Life.md",
+    "aliases": [
+      "省察的生活",
+      "unexamined life",
+      "the examined life",
+      "Socratic examination",
+      "未经省察的生活不值得过"
+    ]
+  },
+  {
     "title": "Humosity",
     "path": "wiki/concepts/educational-philosophy/Humosity.md",
     "aliases": [
@@ -432,6 +592,17 @@
     "path": "wiki/concepts/educational-philosophy/Learnification.md",
     "aliases": [
       "学习化"
+    ]
+  },
+  {
+    "title": "Mind and Its Wonders",
+    "path": "wiki/concepts/educational-philosophy/Mind and Its Wonders.md",
+    "aliases": [
+      "心智及其奇迹",
+      "mind and its wonders",
+      "human intellect",
+      "human mind",
+      "western mind"
     ]
   },
   {
@@ -531,6 +702,15 @@
     "path": "wiki/concepts/educational-philosophy/Vergegenkunft.md",
     "aliases": [
       "过去现在未来同现"
+    ]
+  },
+  {
+    "title": "Western Learner",
+    "path": "wiki/concepts/educational-philosophy/Western Learner.md",
+    "aliases": [
+      "西方学习者",
+      "Western learner model",
+      "Western learning model"
     ]
   },
   {
@@ -1832,6 +2012,15 @@
     ]
   },
   {
+    "title": "Confucian Learning Tradition",
+    "path": "wiki/theories/chinese-philosophy/Confucian Learning Tradition.md",
+    "aliases": [
+      "儒家学习传统",
+      "Confucian learning model",
+      "East Asian learning tradition"
+    ]
+  },
+  {
     "title": "Legitimation Theory Van Leeuwen",
     "path": "wiki/theories/communication-discourse/Legitimation Theory Van Leeuwen.md",
     "aliases": [
@@ -2557,6 +2746,16 @@
     ]
   },
   {
+    "title": "Confucius",
+    "path": "wiki/persons/china/Confucius.md",
+    "aliases": [
+      "孔子",
+      "Kongzi",
+      "Kong Qiu",
+      "孔丘"
+    ]
+  },
+  {
     "title": "Jin Li",
     "path": "wiki/persons/china/Jin Li.md",
     "aliases": [
@@ -2564,10 +2763,30 @@
     ]
   },
   {
+    "title": "Mencius",
+    "path": "wiki/persons/china/Mencius.md",
+    "aliases": [
+      "孟子",
+      "Mengzi",
+      "Meng Ke",
+      "孟轲"
+    ]
+  },
+  {
     "title": "Tengteng Zhuang",
     "path": "wiki/persons/china/Tengteng Zhuang.md",
     "aliases": [
       "庄腾腾"
+    ]
+  },
+  {
+    "title": "Wang Yangming",
+    "path": "wiki/persons/china/Wang Yangming.md",
+    "aliases": [
+      "王阳明",
+      "Wang Shouren",
+      "王守仁",
+      "Wang Yang-ming"
     ]
   },
   {
@@ -2582,6 +2801,16 @@
     "path": "wiki/persons/china/Yong Zhao.md",
     "aliases": [
       "赵勇"
+    ]
+  },
+  {
+    "title": "Zhu Xi",
+    "path": "wiki/persons/china/Zhu Xi.md",
+    "aliases": [
+      "朱熹",
+      "朱子",
+      "Zhuzi",
+      "Zhu Xi (Neo-Confucianism)"
     ]
   },
   {
@@ -2634,6 +2863,14 @@
     ]
   },
   {
+    "title": "Descartes",
+    "path": "wiki/persons/france/Descartes.md",
+    "aliases": [
+      "笛卡尔",
+      "René Descartes"
+    ]
+  },
+  {
     "title": "Didier Eribon",
     "path": "wiki/persons/france/Didier Eribon.md",
     "aliases": [
@@ -2665,6 +2902,14 @@
       "皮埃尔·布迪厄",
       "布迪厄",
       "Bourdieu"
+    ]
+  },
+  {
+    "title": "Rousseau",
+    "path": "wiki/persons/france/Rousseau.md",
+    "aliases": [
+      "卢梭",
+      "Jean-Jacques Rousseau"
     ]
   },
   {
@@ -2710,6 +2955,14 @@
     ]
   },
   {
+    "title": "Kant",
+    "path": "wiki/persons/germany/Kant.md",
+    "aliases": [
+      "康德",
+      "Immanuel Kant"
+    ]
+  },
+  {
     "title": "Max Weber",
     "path": "wiki/persons/germany/Max Weber.md",
     "aliases": [
@@ -2731,6 +2984,20 @@
     "path": "wiki/persons/germany/Wolfgang Klafki.md",
     "aliases": [
       "沃尔夫冈·克拉夫基"
+    ]
+  },
+  {
+    "title": "Plato",
+    "path": "wiki/persons/greece/Plato.md",
+    "aliases": [
+      "柏拉图"
+    ]
+  },
+  {
+    "title": "Socrates",
+    "path": "wiki/persons/greece/Socrates.md",
+    "aliases": [
+      "苏格拉底"
     ]
   },
   {
@@ -2812,6 +3079,15 @@
     "path": "wiki/persons/uk/Adrian Simpson.md",
     "aliases": [
       "阿德里安·辛普森"
+    ]
+  },
+  {
+    "title": "Berkeley",
+    "path": "wiki/persons/uk/Berkeley.md",
+    "aliases": [
+      "贝克莱",
+      "George Berkeley",
+      "贝克莱主教"
     ]
   },
   {
@@ -2899,6 +3175,14 @@
     ]
   },
   {
+    "title": "Locke",
+    "path": "wiki/persons/uk/Locke.md",
+    "aliases": [
+      "洛克",
+      "John Locke"
+    ]
+  },
+  {
     "title": "Maria Pampaka",
     "path": "wiki/persons/uk/Maria Pampaka.md",
     "aliases": [
@@ -2952,6 +3236,14 @@
     "path": "wiki/persons/uk/Roy Bhaskar.md",
     "aliases": [
       "罗伊·巴斯卡"
+    ]
+  },
+  {
+    "title": "Russell",
+    "path": "wiki/persons/uk/Russell.md",
+    "aliases": [
+      "罗素",
+      "Bertrand Russell"
     ]
   },
   {
@@ -3165,6 +3457,16 @@
       "中国社会信用体系",
       "社会信用体系",
       "Social Credit System"
+    ]
+  },
+  {
+    "title": "Civil Service Examination",
+    "path": "wiki/facts/china/Civil Service Examination.md",
+    "aliases": [
+      "科举",
+      "科举制度",
+      "imperial examination",
+      "keju"
     ]
   },
   {

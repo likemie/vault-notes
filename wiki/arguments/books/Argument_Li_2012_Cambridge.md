@@ -46,6 +46,13 @@ related_persons:
 - '[[Zhu Xi]]'
 - '[[Wang Yangming]]'
 - '[[Socrates]]'
+- '[[Plato]]'
+- '[[Kant]]'
+- '[[Rousseau]]'
+- '[[Descartes]]'
+- '[[Locke]]'
+- '[[Berkeley]]'
+- '[[Russell]]'
 related_facts:
 - '[[Civil Service Examination]]'
 related_arguments: []

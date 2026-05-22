@@ -21,6 +21,7 @@ related_theories: []
 related_methods: []
 related_persons:
 - "[[Jin Li]]"
+- "[[Plato]]"
 related_facts: []
 related_arguments:
 - "[[Argument_Li_2012_Cambridge]]"
