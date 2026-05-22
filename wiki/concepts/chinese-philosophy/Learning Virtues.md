@@ -19,7 +19,8 @@ related_concepts:
 - "[[Filial Piety]]"
 - "[[Heart and Mind for Wanting to Learn]]"
 related_theories: []
-related_methods: []
+related_methods:
+- '[[Prototype Methods]]'
 related_persons:
 - "[[Confucius]]"
 related_facts: []
