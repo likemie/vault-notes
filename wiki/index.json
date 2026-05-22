@@ -179,6 +179,17 @@
     ]
   },
   {
+    "title": "Confucian Heritage Cultures (CHC)",
+    "path": "wiki/concepts/comparative-education/Confucian Heritage Cultures (CHC).md",
+    "aliases": [
+      "儒家文化圈",
+      "儒家遗产文化",
+      "CHC",
+      "Confucian-heritage cultures",
+      "CHC learner"
+    ]
+  },
+  {
     "title": "Corporate Education",
     "path": "wiki/concepts/comparative-education/Corporate Education.md",
     "aliases": [
@@ -213,6 +224,28 @@
       "话语性机会结构",
       "话语机会结构",
       "discursive and institutional opportunity structures"
+    ]
+  },
+  {
+    "title": "Establishing One's Will (lizhi)",
+    "path": "wiki/concepts/comparative-education/Establishing Ones Will (lizhi).md",
+    "aliases": [
+      "立志",
+      "立志向学",
+      "lizhi",
+      "establish one's will",
+      "建立志向",
+      "determination in learning"
+    ]
+  },
+  {
+    "title": "Examination Hell",
+    "path": "wiki/concepts/comparative-education/Examination Hell.md",
+    "aliases": [
+      "考试地狱",
+      "考试地域",
+      "exam hell",
+      "examination-driven system"
     ]
   },
   {
@@ -277,6 +310,15 @@
     ]
   },
   {
+    "title": "Learning Gap",
+    "path": "wiki/concepts/comparative-education/Learning Gap.md",
+    "aliases": [
+      "学习差距",
+      "ability vs effort",
+      "能力归因与努力归因"
+    ]
+  },
+  {
     "title": "Membership-Creating Function of Education",
     "path": "wiki/concepts/comparative-education/Membership-Creating Function of Education.md",
     "aliases": [
@@ -328,6 +370,15 @@
     "aliases": [
       "东方主义",
       "orientalism"
+    ]
+  },
+  {
+    "title": "Paradox of the Chinese Learner",
+    "path": "wiki/concepts/comparative-education/Paradox of the Chinese Learner.md",
+    "aliases": [
+      "中国学习者悖论",
+      "Chinese learner paradox",
+      "CHC learner paradox"
     ]
   },
   {
