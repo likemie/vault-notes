@@ -115,6 +115,112 @@ Brunei 项目虽然成功完成，却也暴露出国际业务的脆弱性。Prin
 
 本章最后用 Edcom 的短暂成功与关闭，补出另一种风险机制。Edcom 原本通过与 Telecom 合作，为学校提供 ICT 帮助台和 Microsoft 软件折扣，曾迅速扩展到接近 1200 所学校，并一度成为重要盈利来源。但当 Labour 政府与 Microsoft 达成全体国立学校统一供给协议后，原有会员模式的吸引力被一次性抽空，Edcom 到 2004 年关闭。这个例子说明，即便在看似成功的市场化创新领域，公司收益仍可能被政府的批量采购与政治决策迅速重写。（Bates, 2017, p.28）
 
+### 第3章 Desert Sands
+
+这一章写的是公司从“试探性国际化”跨到“规模化中东扩张”的真正跃迁。Jerudong 带来的不是稳定市场，而是一种想象力与胆量；Qatar 才是第一场把这种想象力转成大规模组织能力考验的项目。（Bates, 2017, p.33-35）
+
+章节一开始就把机会来源写得很清楚。Jo Mullins 在 2003 年 EARCOS 会议上接触到 Rand Corporation 主导的 Qatar 学校改革方案，并立即把它和新西兰 [[Tomorrow's Schools Reforms (NZ 1989)]] 的制度经验联系起来。这里的关键不是简单“输出新西兰经验”，而是公司相信自己熟悉的去中心化学校治理语言，能够和 Qatar 选择的 adapted charter school model 对接起来，因为后者同样强调 autonomy、accountability、variety 和 choice。（Bates, 2017, p.33-34）
+
+这一段论证的第一层很重要。作者实际上在说明，Cognition 进入 Qatar，并不是因为它先拥有强大的中东在地能力，而是因为它抓住了一个政策语言高度同构的窗口。也就是说，跨国教育咨询市场的进入门槛，首先可能是能否用客户熟悉的改革话语讲出一个可信的对接故事，而不是先拥有全面在地知识。（Bates, 2017, p.33-34）
+
+但全章随即表明，话语同构并不等于实施顺利。合同很快暴露出典型的中东项目风险：表面上的价格接受看似爽快，标准合同却高度单向；团队进场后又要面对住房、水电、网络、办公空间、签证、翻译和税务合规等一系列基础条件问题。作者借这些细节说明，国际扩张真正难的部分，并不在拿下项目，而在把 distant organisation 变成能在陌生法政环境里持续运转的实体能力。（Bates, 2017, p.34-36）
+
+本章对 Qatar 的核心判断是，项目规格并不是在签约时固定下来的。Rand、Charter Schools Development Centre、Education Institute 与 Supreme Education Council 之间的关系仍在形成，学校经营者的合同文本与预算也需要被大幅重写。Multi Serve 不仅要提供支持，还要替多方填补制度与能力空缺。因此，合同在实践中变成不断被高层政治决定重新解释的 broad framework，而不是可据此稳定执行的固定 specification。（Bates, 2017, p.35-36）
+
+这一步把全书的“适应”概念推进了一层。在新西兰语境中，适应更多意味着应对 procurement 周期、政策摇摆和价格竞争；在 Qatar，这种适应则变成对不透明决策、行政能力不足、文化差异和不断变动的 client expectations 的快速反应。也就是说，公司不再只是响应市场信号，而是在一个高度政治化的执行环境中学习如何生存。（Bates, 2017, p.36）
+
+作者特别强调，中东合同中的 black letter contract 往往只是关系起点，而不是边界清晰的执行文件。客户对临时变更的习惯、 civil service 主要服从上级指令的运作文化，以及对承包方 operational consequences 的低敏感，共同塑造了一种高收益但高不确定性的商业环境。这一判断不只是描述 Qatar，也是在为后续 Abu Dhabi、Saudi Arabia 和 Kuwait 的经验预作解释框架。（Bates, 2017, p.36）
+
+不过，章节并没有把 Qatar 写成单纯灾难叙事。作者同时强调团队内部存在明显的 adventure 与 optimism，成员相信自己确实可能在推动改变。这一点很关键，因为它解释了为什么公司愿意继续加码这类高风险项目。不是因为风险被忽略，而是因为体量、利润空间和“making a difference”的道德意义在组织内部被同时感知为真实诱因。（Bates, 2017, p.45）
+
+这一章的另一条重要线索，是国际扩张与国内收缩同时发生。就在 Qatar 项目扩大时，公司在新西兰失去了主力 ATOL 合同，被迫重新调整国内咨询团队和 regional hub 结构。作者借这一对照说明，国际增长并不是建立在国内稳固基础上，而是在国内合同损失的压力下倒逼出来的再组织化过程。（Bates, 2017, p.45-46）
+
+由此，章节进一步提出一个内部组织问题。公司一些员工会把低价甚至亏损服务理解为慈善使命的延伸，但管理层必须重新划清商业臂和公益臂的关系，强调只有商业端先盈利，慈善分配才可能持续存在。这个辨析对理解 Cognition 很重要，因为它显示组织的“使命感”并不会自动带来可持续性，反而可能遮蔽 pricing discipline 和商业边界。（Bates, 2017, p.46）
+
+在失去 ATOL 之后，公司刻意把 domestic consultancy 从“trainer-heavy”转向更具技术权威与政策评估能力的团队，吸纳更多高声望人员和 PhDs，并发展 programme evaluation 等高毛利、更多元的业务。作者用随后咨询收入三年内增长约 30%、新增多类评估合同来说明，这次转向不是被动缩编后的止损，而是能力结构和市场定位的升级。（Bates, 2017, p.46-47）
+
+这一转向也解释了 Cognition 后来为何不再只是教育培训供应者，而成为更广义的 policy evaluation actor。它开始为多个政府部门和 NGO 评估教育、监狱教育、道路安全、健康促进学校等项目，并重回 digital education 领域。这说明公司的国内基础开始从单一 Ministry contract dependency，转向以跨部门评估、数字项目与专业知识品牌支撑的较多元组合。（Bates, 2017, p.47）
+
+章节尾声把 Qatar 的成功直接接到 Abu Dhabi 的更大规模项目上，并展示增长速度之快几乎超出组织既有基础设施的承载能力。2007 年底管理层还把 2012 年 55M 年收入写在白板上作为五年目标，但这个数字在 18 个月内就被实现，随后 2009 到 2011 三年平均营业额达到 55M。作者借此表明，中东并不是边缘补充市场，而是把 Multi Serve 彻底推向 “Cognition Education” 新规模和新身份的决定性平台。（Bates, 2017, p.47-48）
+
+### 第4章 The Braided River
+
+这一章处理的不是单一危机，而是增长神话破裂后的重组逻辑。到 2010 年后，中东大合同的收入和利润空间快速下滑，ADEC 合同的毛利已经接近新西兰 Ministry 合同，但行政与合规成本却高得多，说明公司先前依赖的大型国际项目模式正在失去支撑力。（Bates, 2017, p.55-56）
+
+作者用 braided river 这个比喻来替换此前两条大河汇流的想象，很能说明这一阶段的变化。组织不再依赖少数超大项目驱动增长，而是必须同时维持许多较小、方向不同、风险结构不同的业务水道。这里的“适应”不再只是扩张，而是如何在多股收入流之间保持整体可持续性。（Bates, 2017, p.56）
+
+这一章的第一条主线，是国内 PLD 市场的再组织。面对 Ministry 改写核心 school support services 的供给规则，Cognition 不是独自拼价格，而是主动发起并实质推动了 Te Toi Tupu consortium，把 CORE、Waikato、NZCER 和 Tainui Endowed College 组织成正式市场联盟。作者借此说明，公司开始借用建筑业 consortium 的运作逻辑来应对教育市场中高复杂度、低利润率的投标环境。（Bates, 2017, p.56-58）
+
+这一段的关键论点是，合作并不是慈善式联合，而是一种新的商业技术。通过共享投标、统一价格表、共建 secretariat 和 contract management regime，联盟减少了彼此在 constrained market 中的重复竞争，也让 Cognition 能把自己嵌入更大规模的国内供给网络里。结果是 2013 到 2016 年间，国内咨询业务年收入上升到约 13M，占总业务约四成，成为国际业务回落时期的重要承重结构。（Bates, 2017, p.57-58）
+
+作者还特别强调，数学项目让公司能够稳定测量 intervention impact，并给出 0.98 effect size。这一点并不只是项目绩效数据，而是在说明 Cognition 越来越把“可测量影响”做成自己的市场识别标志。这条线索和后文 Visible Learning 的扩张是同一逻辑，即把 evidence 和 impact 语言直接转化为商业竞争力。（Bates, 2017, p.58）
+
+第二条主线是学校工资业务的终结，也就是一个二十多年 fiscal anchor 的消失。Novopay 替代 Datacom/Cognition 的过程，在作者笔下既是商业损失，也是情感性的制度断裂。公司最终拒绝继续作为 Talent 2 的分包方，部分原因是对其开发缺陷与谈判姿态感到担忧，而后续 Ministerial Inquiry 也证明 Ministry 在 go-live 前严重低估并误述了风险状况。（Bates, 2017, p.58-59）
+
+这一部分的重要意义，在于它把第一章的起点和第四章的终点接了起来。1989 年改革所催生的核心合同，到 2012 年随着 Novopay 切换而正式结束；而改革早期就已显露的“采购节奏压过实施复杂性”的问题，再次在 Novopay 身上重演。作者借此强化全书的一个持续判断：国家并没有因为市场化而减少系统性失误，反而可能通过外包与项目化治理把风险重新配置给承包方和学校。（Bates, 2017, p.58-59）
+
+第三条主线是 [[Visible Learning]] 商业化平台的真正起飞。John Hattie 在 University of Auckland 未继续支持其商业平台后，转向 Cognition 寻找新载体；而 Cognition 之所以迅速接手，不只是因为 Hattie 的国际名声，更因为 Visible Learning 恰好符合公司想把 intervention design 和 measurable student outcomes 绑定起来的战略方向。（Bates, 2017, p.59）
+
+作者对 VL 的叙述很清楚地展示了一个“轻资产知识产品”模式。公司不是主要出售 Hattie 的演讲，而是把其研究原则转换成可模块化、可授权、可在多国复制的 professional learning curriculum。通过 Macmillan、James Nottingham Associates、Osiris 和 Corwin 等合作方，Cognition 以 licensor 身份快速进入多个市场，避免了在各国建立重型组织所需的资本与合规成本。（Bates, 2017, p.60）
+
+这一模式与此前中东扩张形成鲜明对照。前者依赖驻场团队、签证、现金流与合同执行；后者依赖品牌、课程模块、授权协议和本地合作方。作者实际上是在说明，公司开始从 labour-intensive consulting business 转向更 scalable 的 intellectual property business，这使它可以在失去 payroll 后，用更高利润率接近甚至替代原有收入流。（Bates, 2017, p.59-60）
+
+本章也把 VL 和 Russell Bishop 的 Culture Counts 关系写得很重要。Northern Territory 的 Collaborative Impact 方案，将 Visible Learning 与 Relationships Based Learning 混合起来，不再只是面向单个教师或学校，而是面向 cluster、principal、officials 共同设计系统层级干预。也就是说，Cognition 在这里卖的不是单一理念，而是一整套把理念、组织行为和实施编码化的系统改进方法。（Bates, 2017, p.60-61）
+
+作者用 Northern Territory 初步 NAPLAN 结果来证明该模型的成效，同时也暗示 CIP 可能成为未来系统干预的通用框架。这里再次出现公司越来越擅长的一件事：把研究者的概念资源转译为可销售、可复制、可度量的 intervention architecture。（Bates, 2017, p.61）
+
+第四条主线是 Pacific 与 Southeast Asia 的再多元化。Nauru、Solomon Islands、Cook Islands、Tonga、Malaysia 与 Indonesia 项目都表明，公司不再把国际市场想象为再造一个 Abu Dhabi，而是接受较小项目、援助资金、CSR 计划和青年领导力项目也可以构成稳定的国际业务组合。与大 Gulf contracts 相比，这些项目规模较小、后勤复杂，但更分散，也更适合 braided river 式经营。（Bates, 2017, p.62-63）
+
+因此，这一章的总体论证可以概括为：Cognition 在 2011 到 2016 年的成功，不再来自押注单一大河道，而来自主动把自己改造成一个能同时经营 consortium、品牌授权、系统干预、援助项目和较小私校合同的复合型组织。所谓 braided river，不只是困难时期的被动比喻，而是新的组织模型。（Bates, 2017, p.56-63）
+
+### 第5章 Giving Back
+
+这一章把全书开头提到的“商业公司与慈善信托的复合结构”真正展开了。作者要说明的不是公司赚了钱以后顺便做慈善，而是“giving back”本身就是 Cognition family 的 existential anchor，是其自我理解与合法性叙述中不可分割的一部分。（Bates, 2017, p.69）
+
+章节首先界定组织结构。Cognition Education Trust 是公司及其子公司的唯一股东，公司利润定期捐赠给 Trust，而 Trust 的法定目的则是惠及 Auckland region 与新西兰的学校。这意味着公益并不是企业外围的 CSR 附件，而是从产权和收益流设计上就嵌在组织中的一条主线。（Bates, 2017, p.69）
+
+但作者并没有把这一结构写成天然稳定的安排。恰恰相反，随着 2006 年后公司规模迅速扩张，原先由同一批人同时担任公司董事和 Trust trustees 的双重治理结构，开始暴露出 accountability 风险。问题不只是形式上的利益冲突，而是当公司既要投资增长、又要向 shareholder 提供足够回报以维持 credible philanthropy 时，自我监督模式越来越难成立。（Bates, 2017, p.69-70）
+
+因此，2011 年的治理分离是本章最重要的制度转折。商业董事退出 Trust，独立 Trust board 成立，Trust 不仅负责 appoint commercial directors，还负责监督公司绩效、管理 donations 与执行 granting programme。作者借此表明，“giving back” 要想可信，不能只依赖良好意愿，而需要被重新制度化为一种外部化、可问责的治理关系。（Bates, 2017, p.70）
+
+这里的关键点是，Trust 与 company 的关系开始通过 Statement of Intent 被正式写下来。这个借自 state-owned enterprises 的装置，把商业增长目标、捐赠预期和问责关系都明确化了。换句话说，Cognition 的 philanthropy 不再只是利润出来以后“看情况分一点”，而是被嵌入商业治理框架之中，成为对公司绩效的正式要求。（Bates, 2017, p.70）
+
+章节随后回顾了 philanthropic form 的几次演化。最早十五年的 Multi Serve Awards 主要是表彰 principals、teachers、trustees 和 volunteers，本质上是一种 celebratory philanthropy，重在认可教育共同体中的优秀实践与贡献。（Bates, 2017, p.70-71）后来与 ASG 合作赞助 NEiTA 的教育领导奖，也延续了这种“表彰”逻辑，只是平台更全国化、更正式。（Bates, 2017, p.71）
+
+真正的转向出现在 2006 年 CERT 的成立。CERT 将焦点从庆祝教育表现，转向资助研究、干预和 practitioner-researcher-policymaker 之间的 productive discourse。作者把这一变化写得很清楚：philanthropy 从感知性认可，转向试图通过研究与知识生产直接“growing educational performance”。（Bates, 2017, p.71-72）
+
+这一变化非常关键，因为它把 Trust 的运作逻辑逐渐拉近到公司本身的方法论偏好上。Fulbright teacher research scholarship、doctoral scholarships、国内教育研究项目、相关 symposium 和出版物，都体现出一种明确倾向：不是撒小额善款，而是投资于可产出知识、可扩散影响、可塑造教育话语的项目。（Bates, 2017, p.71-72）
+
+不过，作者也没有把这条线写成连续成功。Cognition Institute 被描述为一次“probably premature”的尝试。它试图把 CERT 进一步发展为独立教育政策与研究 think tank，但在治理分离、关键人员流失与持续资金不足的多重条件下未能成形，最终被 Trust 终止。（Bates, 2017, p.72）这一段说明，慈善创新同样受组织能力与资源约束，不会因为目标正当就自动成功。
+
+本章接下来把问题推进到“慈善如何可持续”这一层。Trust 如果继续只靠公司每年按盈利情况波动的 donation，就无法形成稳定 grant strategy。于是 Candis Craven 以其投资基金经验推动建立 perpetual investment fund，把大额捐赠资本化，再用投资收益支撑未来 granting。这一步非常重要，因为它把 philanthropy 从利润分配的副产品，改造成一个拥有自身财政逻辑的制度体。（Bates, 2017, p.72-73）
+
+作者特别指出，2012 到 2014 年公司因中东项目尾款、performance bonds 释放以及 Zurich 补偿案和解，向 Trust 注入了 7.85M，再加上其后到 2016 年的 1.0M，构成了约 8.5M 投资基金的基础。也就是说，公司在商业收缩期反而完成了对 Trust 财政独立性的关键资本化，这使“giving back” 不再完全受 company business cycle 的即时波动支配。（Bates, 2017, p.73）
+
+随后两条 operating principles 进一步说明 Trust 如何把慈善当作需要 disciplined management 的事业。第一，只动用基金收益支付运作成本和 grant；第二，把收益的大头用于 grants 和 fund growth，同时压低 administrative overheads。作者显然把这套原则视为一种成熟化标志，意味着 philanthropy 也必须像 business 一样被审慎设计、控制成本并追求可持续。（Bates, 2017, p.73）
+
+章节后段又把 grant focus 拉回到组织更大的 methodological genome。Trust 优先支持提升 teacher effectiveness 和 children and youth capability 的项目，并强调 evaluation 关注教师对学习者的 measurable impact。这与公司在 VL、RBL、CIP 等项目中越来越强调的影响测量、证据语言和 intervention design 高度一致。（Bates, 2017, p.73-74）
+
+因此，这一章的深层含义并不只是“慈善做得更专业了”，而是商业端和公益端在方法论上越来越趋同。Trust 的 grant strategy 不是公司价值观的平衡物，而是在某种程度上复现并延伸了公司的证据本位、影响导向和能力建设逻辑。这一趋同既增加了家族式一致性，也意味着其 philanthropy 很难被理解为完全独立于商业方法之外的另一套价值体系。（Bates, 2017, p.73-74）
+
+章节结尾把整个演化总结为一个判断：早期 philanthropy 主要是庆祝教育表现，过去十年则转向投资于教育表现的改进；而在这一过程中，家族逐渐认识到 philanthropy 也是一种 business，必须被相应地管理和配置资源。这个结论很能呼应全书主轴，因为它表明 Cognition 的适应并不限于市场与项目，也包括对“公益”本身的组织化与财政化重构。（Bates, 2017, p.74）
+
+### 第6章 Epilogue
+
+尾声并不试图给出一个封闭结论，而是刻意把全书写成 open-ended organisational history。作者反复强调，Cognition 的故事还在继续，因此最靠近当下的变化还很难被稳定解释。这种写法本身就在延续全书的核心隐喻：组织不是完成了某种成熟形态，而是会继续 morph。（Bates, 2017, p.75-76）
+
+这一章首先指出，2015 年以后公司又在寻找新的 feeding grounds，并开始生成若干 acquisition 和 spin-off specialist trading entities，合称为 Cognition Group。这里的重要变化是，作者不再把组织理解为单一公司加信托，而是进一步朝一个由多个专业化商业实体组成的 group 结构迈进。（Bates, 2017, p.75）
+
+尾声同时把全球扩张逻辑继续往前推。澳大利亚与英国的商业实体已经设立，Malaysia 站点被恢复，国际 licensing 与 franchising footprint 继续增长，digital media 也被视为具有超出本土市场的扩张潜力。换句话说，上一章形成的轻资产、可复制、多节点的 business model，在这里被明确写成未来方向，而不再只是过渡性调整。（Bates, 2017, p.75-76）
+
+但作者也没有把未来写成单向乐观。相反，他指出国内市场前景变得更加不确定。随着政府在过去五年逐步把学校工资和校车运输重新收归内部，transport contract 也在 2017 年 6 月正式终止；与此同时，Investing in Educational Success 政策削弱了 central agencies 在国内 PLD procurement 中的角色，把资源分散给 communities of learning。这让本土 PLD 场域更碎片化，也更偏向小型供应者。（Bates, 2017, p.76）
+
+这里的论证意义很明确。全书起点处由 [[Tomorrow's Schools Reforms (NZ 1989)]] 创造出来的学校支持服务市场，到尾声时已经发生反向重构：早期依靠外包、合同与 contestability 生成的核心业务，如工资和运输，正在被重新 in-source；而本土 PLD 市场则被重新切分成更多小规模、分散化的采购空间。也就是说，国家并没有退出，而是在不同阶段以不同方式重绘市场边界。（Bates, 2017, p.76）
+
+尾声最重要的作用，是把前面各章累积的经验压缩成一个关于组织能力的最终判断。作者承认未来战略能否实现仍属 speculative，但他认为过去近三十年的历史已经足以显示，组织拥有某种 evolutionary DNA，能够在反复波动的政策与市场环境中继续 adapt and thrive。这个判断与其说是经验总结，不如说是整本书最核心的组织神话陈述。（Bates, 2017, p.76）
+
+因此，尾声没有提供新的事实密度，而是完成了全书叙事的最后一步：把所有前述重组、转向、失败、再扩张和治理调整，都重新编码为 agility 与 adaptability 的长期证据。最后那句“better to be an agile Galapagos finch than the proverbial canary in a coal-mine”，既是修辞收束，也是全书对自身主张的最集中概括。（Bates, 2017, p.76）
+
 ## 主要发现
 
 > [!success]

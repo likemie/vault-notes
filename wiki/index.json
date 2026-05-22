@@ -294,6 +294,17 @@
     ]
   },
   {
+    "title": "Ideal Learner",
+    "path": "wiki/concepts/comparative-education/Ideal Learner.md",
+    "aliases": [
+      "理想学习者",
+      "ideal learner",
+      "ideal learner image",
+      "ideal-learner image",
+      "理想学习者形象"
+    ]
+  },
+  {
     "title": "International Education",
     "path": "wiki/concepts/comparative-education/International Education.md",
     "aliases": [
@@ -1666,6 +1677,16 @@
     "aliases": [
       "置信区间",
       "CI"
+    ]
+  },
+  {
+    "title": "Cultural Models",
+    "path": "wiki/concepts/research-methodology/Cultural Models.md",
+    "aliases": [
+      "文化模型",
+      "cultural model",
+      "culture-level models",
+      "culture-level model"
     ]
   },
   {

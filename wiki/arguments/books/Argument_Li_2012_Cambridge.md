@@ -41,6 +41,9 @@ related_concepts:
 - '[[Learning Gap]]'
 - '[[Confucian Heritage Cultures]]'
 - '[[Establishing Ones Will (lizhi)]]'
+- '[[Cultural Models]]'
+- '[[Ideal Learner]]'
+- '[[Surface and Deep Learning]]'
 related_theories:
 - '[[Confucian Learning Tradition]]'
 related_methods:
