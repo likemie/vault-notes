@@ -1,8 +1,8 @@
 ---
-title: Russell
+title: Bertrand Russell
 aliases:
 - 罗素
-- Bertrand Russell
+- Russell
 summary: "英国哲学家与数学家，Li 在第 2 章中以罗素的《西方哲学史》为西方智识传统的主要参考来源，并多次引用他对数学知识与希腊哲学的评价"
 type: person
 nationality: uk
@@ -19,7 +19,7 @@ related_methods: []
 related_persons:
 - "[[Jin Li]]"
 - "[[Plato]]"
-- "[[Rousseau]]"
+- "[[Jean-Jacques Rousseau]]"
 related_facts: []
 related_arguments:
 - "[[Argument_Li_2012_Cambridge]]"
@@ -80,7 +80,7 @@ updated: 2026-05-22
 > - Russell 对数学知识特征的描述被 Li 用于阐明 [[Certainty of Knowledge|西方知识确定性的理想模型]]（Li, 2012, p.24）
 > - Russell 对 Pythagoras 和纯粹数学家的评价——"纯粹数学家像音乐家一样是其有序美的世界的自由创造者"——被 Li 引用来阐明数学即"沉思生活"的理想（Li, 2012, p.24）
 > - Russell 的 *A History of Western Philosophy* 是 Li 构建第 2 章西方智识传统叙述的主要参考架构（Li, 2012, p.57 脚注 3）
-> - 据 Russell，Plutarch 的 *Life of Lycurgus* 影响了 [[Rousseau]]、Thomas Arnold 和英国公学（Li, 2012, p.59 脚注 36）
+> - 据 Russell，Plutarch 的 *Life of Lycurgus* 影响了 [[Jean-Jacques Rousseau]]、Thomas Arnold 和英国公学（Li, 2012, p.59 脚注 36）
 
 ---
 

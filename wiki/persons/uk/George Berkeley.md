@@ -1,9 +1,8 @@
 ---
-title: Berkeley
+title: George Berkeley
 aliases:
 - 贝克莱
-- George Berkeley
-- 贝克莱主教
+- Berkeley
 summary: "爱尔兰哲学家与主教，延续洛克经验论并走向主观唯心论，主张一切实在都是心智性的，被 Li 列入西方经验论心智传统"
 type: person
 nationality: uk
@@ -19,7 +18,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-- "[[Locke]]"
+- "[[John Locke]]"
 - "[[Jin Li]]"
 related_facts: []
 related_arguments:
@@ -37,7 +36,7 @@ updated: 2026-05-22
 ## 简介
 
 > [!info]
-> 乔治·贝克莱（1685–1753）是爱尔兰哲学家与主教。在 Li 对西方心智传统的追溯中，贝克莱紧随 [[Locke|洛克]] 的经验论，进一步将其推向主观唯心论——他主张"一切实在，不只是世界中的离散事物，都是心智性的"（Li, 2012, p.30）。
+> 乔治·贝克莱（1685–1753）是爱尔兰哲学家与主教。在 Li 对西方心智传统的追溯中，贝克莱紧随 [[John Locke|洛克]] 的经验论，进一步将其推向主观唯心论——他主张"一切实在，不只是世界中的离散事物，都是心智性的"（Li, 2012, p.30）。
 
 ---
 
@@ -72,7 +71,7 @@ updated: 2026-05-22
 ## 影响
 
 > [!success]
-> - 在 [[Mind and Its Wonders|西方心智传统的经验论脉络]]中，贝克莱与 [[Locke]]、[[Hume]] 构成了从经验到主观、从客观实在到心智构造的递进论证链——Li 将三人并列为经验论阵营的主要代表（Li, 2012, pp.29-30）
+> - 在 [[Mind and Its Wonders|西方心智传统的经验论脉络]]中，贝克莱与 [[John Locke]]、[[Hume]] 构成了从经验到主观、从客观实在到心智构造的递进论证链——Li 将三人并列为经验论阵营的主要代表（Li, 2012, pp.29-30）
 > - 贝克莱将经验论的逻辑推到极致——如果一切知识来自感觉经验，那么所谓的"外部世界"本身也只不过是感觉的组合，这为后来的现象主义和唯心论传统开辟了道路
 
 ---

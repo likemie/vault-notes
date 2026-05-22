@@ -41,12 +41,12 @@ related_persons:
 - '[[Wang Yangming]]'
 - '[[Socrates]]'
 - '[[Plato]]'
-- '[[Kant]]'
-- '[[Rousseau]]'
-- '[[Descartes]]'
-- '[[Locke]]'
-- '[[Berkeley]]'
-- '[[Russell]]'
+- '[[Immanuel Kant]]'
+- '[[Jean-Jacques Rousseau]]'
+- '[[René Descartes]]'
+- '[[John Locke]]'
+- '[[George Berkeley]]'
+- '[[Bertrand Russell]]'
 related_facts:
 - '[[Civil Service Examination]]'
 related_arguments:

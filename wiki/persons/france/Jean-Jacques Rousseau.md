@@ -1,8 +1,8 @@
 ---
-title: Rousseau
+title: Jean-Jacques Rousseau
 aliases:
 - 卢梭
-- Jean-Jacques Rousseau
+- Rousseau
 summary: "法国启蒙思想家，以《爱弥儿》对当时教育发起重大攻击，提出儿童天然好奇心的教育理念，对进步教育和 Reggio Emilia 产生持久影响"
 type: person
 nationality: france
