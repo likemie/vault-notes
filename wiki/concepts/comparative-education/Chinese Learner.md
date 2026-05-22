@@ -40,7 +40,8 @@ related_concepts:
 related_theories:
 - '[[Hofstede''s Cultural Dimensions]]'
 - '[[Confucian Learning Tradition]]'
-related_methods: []
+related_methods:
+- '[[Prototype Methods]]'
 related_persons:
 - '[[Jin Li]]'
 - '[[Confucius]]'

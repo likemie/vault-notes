@@ -1293,6 +1293,12 @@ Table 3.2（Li, 2012, pp.90-91）归纳了四个维度的系统性差异：
 
 **聚类分析生成的概念地图**（Figures 3.1 & 3.2, Li, 2012, pp.92-97）：
 
+> [!abstract] Figure 3.1 — 欧裔美国学习概念地图
+> ![[books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png]]
+
+> [!abstract] Figure 3.2 — 中国学习概念地图
+> ![[books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png]]
+
 > [!abstract] 两种概念地图的核心结构对比
 >
 > **欧裔美国概念地图**（Figure 3.1）的顶层区分是"学习过程 vs 学习内容"——以**认知活动类型**为组织原则：
