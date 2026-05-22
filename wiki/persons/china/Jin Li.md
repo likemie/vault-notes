@@ -34,7 +34,7 @@ related_concepts:
 - '[[Examination Hell]]'
 - '[[Paradox of the Chinese Learner]]'
 - '[[Learning Gap]]'
-- '[[Confucian Heritage Cultures (CHC)]]'
+- '[[Confucian Heritage Cultures]]'
 - '[[Establishing Ones Will (lizhi)]]'
 related_theories:
 - '[[Confucian Learning Tradition]]'

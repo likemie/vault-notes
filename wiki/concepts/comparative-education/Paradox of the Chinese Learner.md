@@ -13,7 +13,7 @@ tags:
 - theme/learning-process
 related_concepts:
 - '[[Chinese Learner]]'
-- '[[Confucian Heritage Cultures (CHC)]]'
+- '[[Confucian Heritage Cultures]]'
 - '[[Surface and Deep Learning]]'
 - '[[Learning Gap]]'
 related_theories:

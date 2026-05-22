@@ -14,7 +14,7 @@ tags:
 - theme/examination
 related_concepts:
 - '[[Chinese Learner]]'
-- '[[Confucian Heritage Cultures (CHC)]]'
+- '[[Confucian Heritage Cultures]]'
 - '[[Filial Piety]]'
 related_theories:
 - '[[Confucian Learning Tradition]]'

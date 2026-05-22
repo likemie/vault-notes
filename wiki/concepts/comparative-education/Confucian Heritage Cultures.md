@@ -1,5 +1,5 @@
 ---
-title: Confucian Heritage Cultures (CHC)
+title: Confucian Heritage Cultures
 aliases:
 - 儒家文化圈
 - 儒家遗产文化
@@ -33,7 +33,7 @@ created: '2026-05-22'
 updated: '2026-05-22'
 ---
 
-# Confucian Heritage Cultures (CHC)
+# Confucian Heritage Cultures
 
 ## 定义
 
