@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e847e178c477d58",
+        "id": "edc4cfa9824da59f",
         "type": "tabs",
         "children": [
           {
-            "id": "05ff7f377a4eb1b1",
+            "id": "1ae9539e2ff14392",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Argument_Li_2012_Cambridge"
+              "title": "新标签页"
             }
           }
         ]
@@ -187,16 +183,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "05ff7f377a4eb1b1",
+  "active": "1ae9539e2ff14392",
   "lastOpenFiles": [
+    "vault-schema.md",
+    "wiki/templates/template-argument.md",
+    "index.md",
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "raw/Argument_Li_2012_Cambridge第五章.pdf",
     "raw/Cultural Foundations of Learning _ East and West -- Jin Li -- 1, 2012 -- Cambridge University Press_ 32 Avenue of the Americas, New -- isbn13 9780521160629 -- 2a9b817dfa3a402b88c6e2903e4a7c8c -- Anna’s Archive (1).pdf",
     "wiki/concepts/educational-technology/Technology Infusion.md",
     "wiki/arguments/journal-articles/Argument_Ross_Morrison_2021_ROE.md",
     "sources/Ross_Morrison_2021_ROE.md",
     "sources/Ross_Morrison_2021_ROE.pdf",
-    "vault-schema.md",
-    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "wiki/facts/uk/Committee for the Accreditation of Teacher Education.md",
     "wiki/persons/uk/Basil Bernstein.md",
     "wiki/concepts/sociology-of-education/Horizontal Knowledge Structure.md",
@@ -212,7 +210,6 @@
     "wiki/concepts/research-methodology/Cultural Models.md",
     "sources/Ball_2008_SR.pdf",
     "Self-Determination Theory.md",
-    "index.md",
     "CLAUDE.md",
     "AGENTS.md",
     "sources/Wrigley_2019_ERE.pdf",
@@ -224,7 +221,6 @@
     "sources/Cowen_2019_ERE.md",
     "sources/Cowen_2015_CHESS.pdf",
     "sources/Cowen_2015_CHESS.md",
-    "sources/Cheung_2021_ROE.pdf",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/iShot_2026-05-23_15.07.28.png",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
