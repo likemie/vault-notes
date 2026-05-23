@@ -54,7 +54,7 @@ Total entries: **279**
 - [[International Education]] — 跨越单一国家边界组织、流动或想象的教育形式，涵盖国际学校、跨国高教、留学流动与跨文化学习安排
 - [[International Schools]] — 面向跨国流动家庭、本地精英或国际课程需求而设立的学校类型，兼具国际化、市场化和精英教育特征
 - [[Learning Gap]] — Stevenson 与 Stigler (1992) 通过跨国比较研究提出的概念，指美国学生以能力解释学业成就而东亚学生以努力解释成就的系统性文化差异。Li (2012) 将其作为中国学习者文化模型的重要实证基础之一。
-- [[MCC Discourse Analysis Examples]] — Li 2012 第7章母子对话研究中话语分析的22段对话示例_按认知社会化与情感社会化两大主题组织_先记录原始对话再展示Li的分析操作
+- [[MCC Discourse Analysis Examples]] — Li 2012 第7章母子对话研究中话语分析的22段原始对话记录与中文翻译_按认知社会化与情感社会化两大主题组织_先呈现逐句对话再展示Li的分析操作
 - [[Membership-Creating Function of Education]] — 现代教育通过培养忠诚、归属和共同体边界来创造成员身份的基础功能，同时界定谁属于我们以及谁被排除在外
 - [[Meta-Cultural Sensitivity]] — 一种跨文化教学元能力，强调后退一步把他者文化和自身文化都作为系统来理解，避免本质化赞美或简单否定
 - [[Methodological Globalism]] — 把全球尺度视为完全决定国家尺度的方法论立场，常作为方法论民族主义的镜像，并倾向弱化地方和制度的相对自主性
