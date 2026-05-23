@@ -40,7 +40,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-05-23'
 ---
 
 ## 定义

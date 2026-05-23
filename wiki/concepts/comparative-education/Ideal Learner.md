@@ -34,7 +34,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-05-23
 ---
 
 # Ideal Learner

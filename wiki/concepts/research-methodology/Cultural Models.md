@@ -30,7 +30,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-05-23
 ---
 
 # Cultural Models
@@ -75,7 +75,7 @@ updated: 2026-05-22
 ## Li 研究中的运用
 
 > [!success]
-> Li 在 Ch3 中将文化模型作为核心研究框架，具体体现在三个方面：
+> Li 在其实证研究（Li, 2012, pp.87-105）中将文化模型作为核心研究框架，具体体现在三个方面：
 
 ### 1. 文化层面学习模型的建构
 
