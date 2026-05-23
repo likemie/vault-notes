@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
+  - "[[Horizontal Knowledge Structure]]"
 related_theories:
   - "[[Governmentality]]"
 related_methods: []

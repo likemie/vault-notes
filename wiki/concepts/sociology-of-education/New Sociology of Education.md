@@ -13,12 +13,15 @@ tags:
 related_concepts:
   - "[[Political Arithmetic]]"
   - "[[School Effectiveness]]"
+  - "[[Horizontal Knowledge Structure]]"
 related_theories:
   - "[[Governmentality]]"
 related_methods: []
 related_persons:
+  - "[[Basil Bernstein]]"
   - "[[Stephen Ball]]"
-related_facts: []
+related_facts:
+  - "[[Committee for the Accreditation of Teacher Education]]"
 related_arguments:
   - "[[Argument_Ball_2008_SR]]"
 sources:
@@ -74,7 +77,12 @@ updated: 2026-05-23
 > NSE 早期带有过度乐观的可能主义，相信通过激进实践能够改变学校不平等；但这一乐观很快被一些马克思主义取向中的激进悲观所取代，后者更强调结构性再生产对学校改革可能性的限制（Ball, 2008, p.659）。
 
 > [!warning] Bernstein 与 NSE 的关系
-> 虽然 Bernstein 在教育社会学中具有标志性地位，也推动了 Young 文集的出版，但他并非 NSE 的组成部分；他对 NSE 的许多构成要素持尖锐批评，尤其批评其薄弱的经验基础（Ball, 2008, p.661）。
+> 虽然 [[Basil Bernstein]] 在教育社会学中具有标志性地位，也推动了 Young 文集的出版，但他并非 NSE 的组成部分；他对 NSE 的许多构成要素持尖锐批评，尤其批评其薄弱的经验基础（Ball, 2008, p.661）。
+
+## 相关案例／政策
+
+> [!example]
+> - [[Committee for the Accreditation of Teacher Education]] — 1984 年后将教师教育从学科基础转向课堂技能和能力训练，压缩了 NSE 依托教师教育课程传播的制度空间（Ball, 2008, p.659）。
 
 ## 来源
 

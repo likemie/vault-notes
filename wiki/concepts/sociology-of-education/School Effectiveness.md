@@ -16,12 +16,14 @@ related_concepts:
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[Sociology of Measurement]]"
+  - "[[Horizontal Knowledge Structure]]"
 related_theories:
   - "[[Governmentality]]"
 related_methods: []
 related_persons:
   - "[[Stephen Ball]]"
-related_facts: []
+related_facts:
+  - "[[Committee for the Accreditation of Teacher Education]]"
 related_arguments:
   - "[[Argument_Ball_2008_SR]]"
 sources:
