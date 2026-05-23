@@ -12,6 +12,8 @@ extracted_to:
 - "[[Filial Piety]]"
 - "[[Li (Propriety)]]"
 - "[[Learning Virtues]]"
+- "[[Shu (Familiarization)]]"
+- "[[Jing (Refined Mastery)]]"
 - "[[Confucius]]"
 - "[[Mencius]]"
 - "[[Zhu Xi]]"
@@ -36,7 +38,7 @@ extracted_to:
 - "[[Locke]]"
 - "[[Berkeley]]"
 - "[[Russell]]"
-processed_date: 2026-05-22
+processed_date: 2026-05-23
 ---
 
 # Li_2012_Cambridge
