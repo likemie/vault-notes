@@ -244,7 +244,7 @@ Total entries: **94**
 
 ### The Sociological Review
 
-- [[Argument_Ball_2008_SR]] — 以Bernstein、Foucault和Bourdieu为工具重写英国教育社会学史，指出政治算术、NSE和学校效能分别构造了家庭、学校知识和学校管理的研究目光，并参与教育治理
+- [[Argument_Ball_2008_SR]] — 以Bernstein、Foucault和Bourdieu为工具重写英国教育社会学史，说明教育社会学如何通过不同研究目光把家庭、学校知识和学校管理转化为治理对象
 
 ### Zeitschrift für Erziehungswissenschaft
 
