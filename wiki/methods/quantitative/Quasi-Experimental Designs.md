@@ -31,12 +31,10 @@ created: 2026-05-23
 updated: 2026-05-23
 ---
 
-# Quasi-Experimental Designs
-
 ## 定义
 
 > [!info]
-> 准实验设计（Quasi-Experimental Designs, QED）是在教育项目证据标准中被视为严格研究的一类量化设计。Ross 与 Morrison 将 QED 列为 [[What Works Clearinghouse (WWC)]] 达到“有保留”证据标准的研究路径之一，也列为 [[ESSA 2015 Evidence Standards]] 中“中等证据”的对应设计（Ross & Morrison, 2021, p.109）。
+> 准实验设计（Quasi-Experimental Designs, QED）是在教育项目证据标准中被视为严格研究的一类量化设计。在 [[What Works Clearinghouse (WWC)]] 中，QED 是达到“有保留”证据标准的研究路径之一；在 [[ESSA 2015 Evidence Standards]] 中，QED 对应“中等证据”（Ross & Morrison, 2021, p.109）。
 
 ## 认识论立场
 
@@ -46,7 +44,7 @@ updated: 2026-05-23
 ## 研究程序
 
 > [!example]
-> Ross 与 Morrison 没有展开 QED 的具体操作步骤，但在讨论证据审查时指出，现代证据审查会重点检查研究的内部效度，尤其是潜在偏误是否被控制。对于 RCT 或 QED，干预组所面对的反事实条件本身也很关键：如果对照条件是低质量或低强度项目，干预更容易显示优势；如果对照条件本身已经很强，干预效果就更难显示出来（Ross & Morrison, 2021, p.112）。
+> 在证据审查中，QED 的关键不是“有没有对照组”这么简单，而是反事实条件是否可信、潜在偏误是否被控制。干预组面对的比较条件也会影响解释：如果对照条件是低质量或低强度项目，干预更容易显示优势；如果对照条件本身已经很强，干预效果就更难显示出来（Ross & Morrison, 2021, p.112）。
 
 ## 适用场景
 
@@ -61,7 +59,9 @@ updated: 2026-05-23
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Ross_Morrison_2021_ROE]] — 使用 QED 作为 ESSA 与 WWC 证据标准中的关键方法节点，讨论严格证据在学校项目选择中的作用和局限（Ross & Morrison, 2021, pp.109, 112）。
+> - [[ESSA 2015 Evidence Standards]] — QED 对应“中等证据”，用于把非随机但设计良好的项目研究纳入政策证据层级（Ross & Morrison, 2021, p.109）。
+> - [[Educational Evidence Clearinghouses]] — 清算中心对 QED 的纳入和评级标准并不完全一致，具体差异集中写在清算中心条目中（Wadhwa et al., 2024, pp.9-11）。
+> - [[Argument_Ross_Morrison_2021_ROE]] — 作为论证条目，讨论严格证据在学校项目选择中的作用和局限（Ross & Morrison, 2021, pp.109, 112）。
 
 ## 来源
 

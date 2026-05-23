@@ -32,8 +32,6 @@ created: 2026-05-23
 updated: 2026-05-23
 ---
 
-# Technology Infusion
-
 ## 定义
 
 > [!info]
@@ -73,8 +71,15 @@ updated: 2026-05-23
 ## 相关案例／政策
 
 > [!example]
-> - STAT — Baltimore County Public Schools 于 2014-2015 学年启动的全学区技术整合项目，2018-2019 学年扩展到全学区；其评价模型把专业发展、课堂环境改变、数字内容使用、学生参与、21 世纪学习活动和学生成就联系起来（Ross & Morrison, 2021, pp.114-116）。
-> - ESSA 证据运动 — [[ESSA 2015 Evidence Standards]] 使学校和学区更重视有严格证据支持的教育项目，但也使技术融入这类复杂改革面临“如何证明有效”的压力（Ross & Morrison, 2021, pp.109-113）。
+> 技术融入的相关案例分为“复杂改革案例”和“证据政策环境”：前者说明技术融入如何被实施和评价，后者说明为什么这类改革会面临严格有效性证明压力。
+
+### 复杂改革案例
+
+- [[Students and Teachers Accessing Tomorrow (STAT)]] — Baltimore County Public Schools 的全学区技术整合项目；其分阶段推进和评价结果集中写在 STAT 条目中（Ross & Morrison, 2021, pp.114-116）。
+
+### 证据政策环境
+
+- [[ESSA 2015 Evidence Standards]] — 使学校和学区更重视有严格证据支持的教育项目，也使技术融入这类复杂改革面临“如何证明有效”的压力（Ross & Morrison, 2021, pp.109-113）。
 
 ## 来源
 

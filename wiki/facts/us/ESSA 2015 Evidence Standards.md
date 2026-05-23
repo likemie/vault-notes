@@ -55,7 +55,7 @@ updated: '2026-05-23'
 >
 > 所有层级均需至少一项严格研究证明**统计显著**的正向效果，且**无研究显示负面效果**（Wolf et al., 2020, p. 428）。
 
-Ross 与 Morrison 将 ESSA 概括为四个有序证据层级：强证据对应 [[Randomised Controlled Trials|RCT]]；中等证据对应 [[Quasi-Experimental Designs|QED]]；有希望证据对应带有选择偏差统计控制的相关研究；第四层是“展示理论依据”，即由研究支持且说明清楚的逻辑模型（Ross & Morrison, 2021, p.109）。
+ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Controlled Trials|RCT]]；中等证据对应 [[Quasi-Experimental Designs|QED]]；有希望证据对应带有选择偏差统计控制的相关研究；第四层是“展示理论依据”，即由研究支持且说明清楚的逻辑模型（Ross & Morrison, 2021, p.109）。
 
 ## 技术要求细节
 

@@ -34,12 +34,10 @@ created: 2026-05-23
 updated: 2026-05-23
 ---
 
-# Students and Teachers Accessing Tomorrow (STAT)
-
 ## 背景
 
 > [!info]
-> Students and Teachers Accessing Tomorrow（STAT）是 Baltimore County Public Schools（BCPS）在 2014-2015 学年启动的全学区技术整合项目。Ross 与 Morrison 将其作为复杂教育系统中证据生成、解释和使用的案例，用来说明综合性改革很难被还原为单一干预效果（Ross & Morrison, 2021, pp.113-115）。
+> Students and Teachers Accessing Tomorrow（STAT）是 Baltimore County Public Schools（BCPS）在 2014-2015 学年启动的全学区技术整合项目。作为复杂教育系统中的技术整合改革，STAT 展示了证据生成、解释和使用的困难：综合性改革很难被还原为单一干预效果（Ross & Morrison, 2021, pp.113-115）。
 
 ## 政策文本摘要
 
