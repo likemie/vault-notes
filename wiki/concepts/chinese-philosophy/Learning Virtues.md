@@ -22,6 +22,8 @@ related_concepts:
 - "[[Jing (Refined Mastery)]]"
 - "[[Confucian Tutoring Style]]"
 - "[[Socratic Tutoring Style]]"
+
+- "[[MCC Discourse Analysis Examples]]"
 related_theories: []
 related_methods:
 - '[[Prototype Methods]]'
@@ -190,7 +192,9 @@ updated: 2026-05-23
 - **刻苦**：母亲明确指出"辛苦中有快乐"——不否认学习的困难（苦），但引导儿童将困难视为学习**固有的、可接受的部分**
 
 > [!info] 关键数据
-> 话语分析仅呈现了 !! 段对话样本（每组 !! 段）。Li 坦承这"只是刚刚触及我们收集的极为丰富的对话数据的表面"。更大样本的系统性话语分析仍在进行中。
+> 话语分析仅呈现了 22 段对话样本（每组 11 段）。Li 坦承这"只是刚刚触及我们收集的极为丰富的对话数据的表面"。更大样本的系统性话语分析仍在进行中。
+>
+> 详细的对话记录与 Li 的话语分析操作，见 [[MCC Discourse Analysis Examples|MCC 话语分析示例]]。
 
 ---
 

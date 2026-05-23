@@ -416,6 +416,15 @@
     ]
   },
   {
+    "title": "MCC Discourse Analysis Examples",
+    "path": "wiki/concepts/comparative-education/MCC Discourse Analysis Examples.md",
+    "aliases": [
+      "MCC 话语分析示例",
+      "Li MCC discourse analysis",
+      "Ch7 discourse examples"
+    ]
+  },
+  {
     "title": "Membership-Creating Function of Education",
     "path": "wiki/concepts/comparative-education/Membership-Creating Function of Education.md",
     "aliases": [
@@ -2905,6 +2914,16 @@
     "path": "wiki/methods/qualitative/In-depth Interview.md",
     "aliases": [
       "深度访谈"
+    ]
+  },
+  {
+    "title": "Mother-Child Conversation (MCC)",
+    "path": "wiki/methods/qualitative/Mother-Child Conversation (MCC).md",
+    "aliases": [
+      "母子对话法",
+      "MCC",
+      "mother-child conversation",
+      "simulated mother-child conversation"
     ]
   },
   {

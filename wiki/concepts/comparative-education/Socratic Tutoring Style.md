@@ -16,6 +16,8 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Pride in Learning]]"
   - "[[Western Learner]]"
+
+  - "[[MCC Discourse Analysis Examples]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -91,6 +93,8 @@ updated: 2026-05-24
 
 > [!example]
 > 一个典型的话语案例：母亲引导儿子 Ed 讨论他在自由时间与朋友谈论书籍的行为。母亲将这种行为定性为"非常聪明"（smart），儿子的回应从最初的犹豫（"Sort of. Sometimes"）迅速升级为自豪地宣称"我们实际上想成为世界上最伟大的科学家！"（Li, 2012）。
+>
+> 更多苏格拉底式辅导的对话示例与 Li 的话语分析操作，见 [[MCC Discourse Analysis Examples|MCC 话语分析示例]]。
 
 ---
 ## 与苏格拉底教学法的类比

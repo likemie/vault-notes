@@ -19,6 +19,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Self-Cultivation]]"
 related_theories:
+  - "[[MCC Discourse Analysis Examples]]"
   - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons: []
@@ -101,6 +102,8 @@ updated: 2026-05-24
 
 > [!example]
 > 一个典型的话语案例：母亲与女儿 Jia 讨论写作。母亲先肯定女儿理解课文主旨的进步（"你甚至不需要我教你了"），但紧接着就转向"你还需要在作文上加把劲"和"我觉得你在其他方面也需要坚持"——她甚至在表扬之前就已经提到需要改进（Li, 2012）。
+>
+> 更多儒家式辅导的对话示例与 Li 的话语分析操作，见 [[MCC Discourse Analysis Examples|MCC 话语分析示例]]。
 
 ---
 ## 一个重要澄清：不是"专制型"教养
