@@ -41,7 +41,7 @@ extracted_to:
 - "[[Chinese Learner]]"
 - "[[Confucian Heritage Cultures]]"
 - "[[Cultural Models]]"
-- "[[Establishing Ones Will (lizhi)]]"
+- "[[Establishing One's Will (lizhi)]]"
 - "[[Examination Hell]]"
 - "[[Ideal Learner]]"
 - "[[Learning Gap]]"

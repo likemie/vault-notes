@@ -15,7 +15,7 @@ tags:
   - theme/self-cultivation
 related_concepts:
   - "[[Heart and Mind for Wanting to Learn]]"
-  - "[[Establishing Ones Will (lizhi)]]"
+  - "[[Establishing One's Will (lizhi)]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
 related_theories:
