@@ -185,6 +185,16 @@
     ]
   },
   {
+    "title": "Affect-Respect and Ought-Respect",
+    "path": "wiki/concepts/comparative-education/Affect-Respect and Ought-Respect.md",
+    "aliases": [
+      "情感性尊重与义务性尊重",
+      "affect-respect",
+      "ought-respect",
+      "两种尊重"
+    ]
+  },
+  {
     "title": "Boarding Schools",
     "path": "wiki/concepts/comparative-education/Boarding Schools.md",
     "aliases": [
@@ -314,6 +324,17 @@
       "hao-xue-xin",
       "好学心",
       "心向学"
+    ]
+  },
+  {
+    "title": "Humility in Learning",
+    "path": "wiki/concepts/comparative-education/Humility in Learning.md",
+    "aliases": [
+      "学习中的谦逊",
+      "谦虚",
+      "谦逊",
+      "qian xun",
+      "humility"
     ]
   },
   {
@@ -1337,11 +1358,44 @@
     ]
   },
   {
+    "title": "Entity vs Incremental Intelligence",
+    "path": "wiki/concepts/learning-science-cognitive-science/Entity vs Incremental Intelligence.md",
+    "aliases": [
+      "实体论与增长论智力观",
+      "growth mindset",
+      "fixed mindset",
+      "entity theory of intelligence",
+      "incremental theory of intelligence",
+      "智力实体观与增长观"
+    ]
+  },
+  {
     "title": "Executive Function",
     "path": "wiki/concepts/learning-science-cognitive-science/executive-function.md",
     "aliases": [
       "执行功能",
       "EF"
+    ]
+  },
+  {
+    "title": "Flow",
+    "path": "wiki/concepts/learning-science-cognitive-science/Flow.md",
+    "aliases": [
+      "心流",
+      "沉浸体验",
+      "optimal experience",
+      "flow state",
+      "flow theory"
+    ]
+  },
+  {
+    "title": "Intrinsic vs Extrinsic Motivation",
+    "path": "wiki/concepts/learning-science-cognitive-science/Intrinsic vs Extrinsic Motivation.md",
+    "aliases": [
+      "内在动机与外在动机",
+      "intrinsic motivation",
+      "extrinsic motivation",
+      "内部动机与外部动机"
     ]
   },
   {
@@ -2364,6 +2418,15 @@
     ]
   },
   {
+    "title": "Attribution Theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Attribution Theory.md",
+    "aliases": [
+      "归因理论",
+      "Weiner's attribution theory",
+      "维纳归因理论"
+    ]
+  },
+  {
     "title": "Hebbian Principles",
     "path": "wiki/theories/learning-science-cognitive-science/hebbian-principles.md",
     "aliases": [
@@ -2392,6 +2455,15 @@
     "aliases": [
       "皮亚杰认知发展理论",
       "认知发展阶段理论"
+    ]
+  },
+  {
+    "title": "Self-Worth Theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Self-Worth Theory.md",
+    "aliases": [
+      "自我价值理论",
+      "Covington's self-worth theory",
+      "卡温顿自我价值理论"
     ]
   },
   {
@@ -2679,6 +2751,16 @@
       "脑电图",
       "脑电描记术",
       "EEG"
+    ]
+  },
+  {
+    "title": "Experience Sampling Method",
+    "path": "wiki/methods/quantitative/Experience Sampling Method.md",
+    "aliases": [
+      "经验取样法",
+      "ESM",
+      "体验抽样法",
+      "experience sampling"
     ]
   },
   {
@@ -4036,6 +4118,21 @@
     "aliases": [
       "国体之本义",
       "Cardinal Principles of the National Entity of Japan"
+    ]
+  },
+  {
+    "title": "Cram Schools",
+    "path": "wiki/facts/multi/Cram Schools.md",
+    "aliases": [
+      "补习班",
+      "補習班",
+      "Buxiban",
+      "Juku",
+      "塾",
+      "Bukatsu",
+      "活部",
+      "课后补习",
+      "private tutoring academies"
     ]
   },
   {

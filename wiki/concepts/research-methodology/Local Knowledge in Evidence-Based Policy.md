@@ -13,6 +13,9 @@ tags:
 - level/k12
 related_concepts:
 - '[[Evidence-Based Education]]'
+- '[[Evidence-Informed Practice]]'
+- '[[Professional Judgment]]'
+- '[[Educational Evidence Clearinghouses]]'
 - '[[Programme Fidelity vs Adaptation]]'
 related_theories:
 - '[[Cartwright''s Three-Stage Knowledge Framework]]'
@@ -21,15 +24,18 @@ related_persons:
 - '[[Nancy Cartwright]]'
 - '[[Nick Cowen]]'
 - '[[Dylan Wiliam]]'
-related_facts: []
-related_arguments: []
+related_facts:
+- '[[Students and Teachers Accessing Tomorrow (STAT)]]'
+related_arguments:
+- '[[Argument_Ross_Morrison_2021_ROE]]'
 sources:
 - '[[Cowen_2015_CHESS]]'
 - '[[Wiliam_2019_ERE]]'
+- '[[Ross_Morrison_2021_ROE]]'
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-23'
 ---
 
 ## 定义
@@ -51,18 +57,22 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> **本地知识包括但不限于：**
-> - 对学生群体特征的具体了解（族裔、语言、社会经济背景）（Cowen et al., 2015, p.27）
-> - 对学校文化和制度的默会知识（Cowen et al., 2015, p.27-28）
-> - 对个别学生需求和家庭环境的了解（Cowen et al., 2015, p.27-28）
-> - 对本地社区政治和文化的敏感性（Cowen et al., 2015, p.27）
-> - 专业经验积累形成的判断力（Cowen et al., 2015, p.23-25）
->
-> **本地知识的功能：**
-> 1. **赋予证据意义** — 将抽象研究发现转化为与本地情境相关的具体行动方案（Cowen et al., 2015, p.14）
-> 2. **识别问题** — "确定问题才是最难的部分"（Cowen et al., 2015, p.26）
-> 3. **评估可行性** — 判断某项干预是否具备本地支持因素（Cowen et al., 2015, p.27-28）
-> 4. **补充证据盲区** — 正式研究证据忽视的结果维度可由本地知识捕捉（Cowen et al., 2015, p.41）
+> 本地知识不是“凭感觉反对研究”，而是把外部证据翻译成可行动判断时必须补上的情境信息。它至少包含三类知识：情境诊断知识、证据翻译知识、采购与实施知识。
+
+### 情境诊断知识
+
+本地知识首先帮助学校判断“我们到底面对什么问题”。它包括对学生群体特征、学校文化、个别学生需求、家庭环境、社区政治和制度约束的具体了解（Cowen et al., 2015, pp.23-28）。如果没有这一步，学校可能把一个外地有效的方案用于自己并不真正面对的问题上；Wiliam 因此把“这解决我们面临的问题吗？”放在证据使用的第一个问题（Wiliam, 2019, p.12）。
+
+### 证据翻译知识
+
+本地知识的第二个功能是给研究证据“赋义”：抽象研究发现只有经过从业者解释，才会变成可执行的行动方案（Cowen et al., 2015, p.14）。例如，一个项目的平均[[Effect Size|效应量]]较高，并不自动说明它适合本校；学校还要判断研究学校、教师能力、学生构成、课程节奏和资源条件是否与本地足够接近（Wiliam, 2019, pp.12-13）。
+
+### 采购与实施知识
+
+Ross 与 Morrison 补充了一个更贴近学校采购的层面：教育产品消费者不仅需要“是否有效”的结论，还需要产品特征、实施要求、使用满意度、成本、潜在结果和情境相关性等信息。实践者偏好同伴推荐和本地试点，并不只是因为他们“不懂研究”，也因为这些渠道常常更快提供学校持续实施必须知道的信息（Ross & Morrison, 2021, pp.120-121）。
+
+> [!example]
+> 如果一个数字学习平台在研究中有显著正向效果，校长仍需要知道：教师每天要花多少准备时间？学生是否愿意持续使用？旧设备能否运行？家长是否支持？这些问题不是[[Statistical Significance|统计显著性]]能直接回答的，而是本地知识进入[[Evidence-Informed Practice|证据知情实践]]的地方（Ross & Morrison, 2021, pp.120-121）。
 
 
 > [!abstract] Wiliam (2019) 的四个决策问题框架中的本地知识
@@ -94,6 +104,7 @@ updated: '2026-05-18'
 > - Honig & Coburn (2007) 对 50+ 项研究的综述发现：学区中央办公室管理者严重依赖从业者知识和本地知识（Cowen et al., 2015, p.14）
 > - 教师访谈中几乎所有受访者都强调了本地情境因素（Cowen et al., 2015, p.27-28）
 > - Tennessee STAR 案例：参与学校系统性不同于全州平均——规模更大、非裔学生比例高出 40%（Hanushek, 1999）——忽视这一本地特征导致加州对"STAR 成功可复制"的错误假设（Wiliam, 2019, p.6）
+> - [[Students and Teachers Accessing Tomorrow (STAT)]] 案例显示，同一组形成性评价证据会因为利益相关者重视的目标不同而被解释为“进展明显”或“成就无效”；这说明本地知识也包含对地方价值排序的理解（Ross & Morrison, 2021, pp.122-123）。
 
 ## 争议与批评
 
@@ -108,8 +119,10 @@ updated: '2026-05-18'
 > - [[EEF Teaching and Learning Toolkit]] — Toolkit 鼓励教师运用专业判断，但提供的本地相关信息有限
 > - [[California Class Size Reduction 1996]] — 忽视本地知识（加州教师和教室供应情况）的后果
 > - [[Tennessee STAR Project 1985-1989]] — 参与学校的本地特征（规模、非裔学生比例）使其结果不可直接外推
+> - [[Students and Teachers Accessing Tomorrow (STAT)]] — 技术整合改革中，形成性数据、成就结果和地方价值目标共同影响证据解释
 
 ## 来源
 
 - [[Cowen_2015_CHESS]]
 - [[Wiliam_2019_ERE]]
+- [[Ross_Morrison_2021_ROE]]

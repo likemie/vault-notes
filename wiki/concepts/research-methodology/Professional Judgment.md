@@ -11,20 +11,26 @@ tags:
 related_concepts:
 - '[[Visible Learning]]'
 - '[[Evidence-Based Education]]'
+- '[[Evidence-Informed Practice]]'
+- '[[Local Knowledge in Evidence-Based Policy]]'
+- '[[Statistical Significance]]'
 related_theories:
 - '[[Bounded Rationality]]'
 related_methods: []
 related_persons:
 - '[[Donald A. Schön]]'
 - '[[Herbert A. Simon]]'
-related_facts: []
-related_arguments: []
+related_facts:
+- '[[Students and Teachers Accessing Tomorrow (STAT)]]'
+related_arguments:
+- '[[Argument_Ross_Morrison_2021_ROE]]'
 sources:
 - '[[Qvortrup_2019_NordSTEP]]'
+- '[[Ross_Morrison_2021_ROE]]'
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-05-23'
 ---
 
 ## 定义
@@ -52,10 +58,16 @@ updated: '2026-05-18'
 >
 > > 例：教师面对课堂中一个学生不理解某个概念时，需要综合：关于"什么最可能有效"的研究知识、该学生的具体情况、课堂的整体节奏，以及对自身教学的即时评估——这不是简单地"应用"一个研究发现的干预，而是一个在有限信息下做出的综合判断（编者类比）。
 
+> [!abstract] 证据解释中的专业判断
+> Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow (STAT)]] 案例说明，专业判断也发生在“证据已经产生之后”。STAT 的形成性评价显示教师准备、数字资源使用、学生参与和学生中心教学有积极进展，但学生成就结果并不明确；是否继续支持该项目，取决于决策者如何权衡数字公民、技术公平、学生参与、教师实践改变和标准化成绩（Ross & Morrison, 2021, pp.121-123）。
+>
+> 例：同一份评价报告中，学校董事会成员可能更看重投入产出和成绩变化，校长可能更看重教师教学方式和学生技术接入的改善。两者不是在读不同证据，而是在用不同教育目标解释同一组证据（Ross & Morrison, 2021, pp.122-123）。
+
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
 > - vs [[Evidence-Based Education]] — EBE 的强版本将研究证据置于实践决策的核心；专业判断将研究证据定位为三种"成分"之一（与伦理标准和方法论原则并列），三者通过教师的反思循环整合转化为行动
+> - vs [[Evidence-Informed Practice]] — EIP 是决策取向，强调多源证据共同进入实践；专业判断是执行这一取向的能力，即判断不同证据在特定情境中应如何加权
 > - vs [[Programme Fidelity vs Adaptation]] — 专业判断强调教师的情境适应和反思，而非对外部方案的忠实执行
 
 ## 理论基础
@@ -68,7 +80,9 @@ updated: '2026-05-18'
 
 > [!warning] 争议与批评
 > - Qvortrup 将专业判断框架作为对 Hattie VL 的辩护——批评者可能认为这一辩护将 VL 从其自身的还原论含义中拯救出来，但 VL 的实际培训实践（如"五人中仅一人通过"认证、禁止教师分享自身经验）与该框架的反思性理念直接矛盾（编者类比）
+> - 专业判断不能被浪漫化为“经验自然正确”。Ross 与 Morrison 指出，评价者需要以清楚、非威胁性的方式帮助非方法专业的利益相关者理解证据局限；否则，专业判断可能退化为只选择符合既有立场的解释（Ross & Morrison, 2021, p.123）。
 
 ## 来源
 
 - [[Qvortrup_2019_NordSTEP]]
+- [[Ross_Morrison_2021_ROE]]
