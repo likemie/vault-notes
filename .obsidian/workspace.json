@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/sociology-of-education/Doxa.md",
+                "file": "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doxa"
+              "title": "Argument_Li_2012_Cambridge"
             }
           }
         ]
@@ -189,8 +189,12 @@
   },
   "active": "1ae9539e2ff14392",
   "lastOpenFiles": [
-    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
+    "sources/Dachet_2021_ROE.pdf",
+    "sources/Dachet_2021_ROE.md",
+    "wiki/arguments/journal-articles/Argument_Dachet_2021_ROE.md",
+    "wiki/facts/belgium/Pact for Educational Excellence.md",
     "wiki/concepts/sociology-of-education/Doxa.md",
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "wiki/facts/belgium",
     "wiki/facts/china/Three Excellences (San Hao Sheng).md",
     "wiki/concepts/comparative-education/Talent Assumption.md",
@@ -220,11 +224,7 @@
     "books/Li_2012_Cambridge/chapters/ch06.txt",
     "books/Li_2012_Cambridge/Li_2012_Cambridge第六章.pdf",
     "wiki/facts/eu/EU Evidence-Informed Education Policy Initiatives.md",
-    "wiki/arguments/journal-articles/Argument_Pellegrini_2021_ROE.md",
-    "sources/Pellegrini_2021_ROE.md",
     "raw/Argument_Li_2012_Cambridge第六章.pdf",
-    "wiki/concepts/research-methodology/Local Knowledge in Evidence-Based Policy.md",
-    "wiki/concepts/comparative-education/Pride in Learning.md",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/iShot_2026-05-23_15.07.28.png",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",

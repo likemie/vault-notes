@@ -100,6 +100,7 @@ related_facts:
 - '[[ESSA 2015 Evidence Standards]]'
 - '[[Students and Teachers Accessing Tomorrow (STAT)]]'
 - '[[EU Evidence-Informed Education Policy Initiatives]]'
+- '[[Pact for Educational Excellence]]'
 - '[[Azione LIM 2008]]'
 - '[[French Class Size Reduction 2017]]'
 - '[[EU Key Competences for Lifelong Learning 2018]]'
@@ -107,6 +108,7 @@ related_arguments:
 - '[[Argument_Nordahl_2015_Paideia]]'
 - '[[Argument_Ross_Morrison_2021_ROE]]'
 - '[[Argument_Pellegrini_2021_ROE]]'
+- '[[Argument_Dachet_2021_ROE]]'
 sources:
 - '[[Sarbiewska_2019_JSR]]'
 - '[[Slavin_2002_ER]]'
@@ -140,6 +142,7 @@ sources:
 - '[[Ch9_Zapp_2022]]'
 - '[[Ross_Morrison_2021_ROE]]'
 - '[[Pellegrini_2021_ROE]]'
+- '[[Dachet_2021_ROE]]'
 confidence: high
 status: draft
 created: '2026-05-01'
