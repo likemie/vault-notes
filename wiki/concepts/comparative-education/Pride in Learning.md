@@ -18,6 +18,8 @@ tags:
 related_concepts:
   - "[[Humility in Learning]]"
   - "[[Intrinsic vs Extrinsic Motivation]]"
+  - "[[Socratic Tutoring Style]]"
+  - "[[Confucian Tutoring Style]]"
 related_theories:
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
@@ -70,6 +72,21 @@ updated: 2026-05-23
 - 中国受访者更愿为家人的成就（如考入名校）感到骄傲，而非为自己的成就；骄傲应只在成就惠及他人时才被体验（Li, 2012, p.77–78）
 - 体验取样研究显示：当东亚人感到骄傲时，同时会伴随内疚、烦躁、悲伤和担忧等不愉快情绪——统计上骄傲具有正负双重因子载荷（Li, 2012, p.78）
 - Li 对学龄前儿童的研究发现，年仅五岁的中国儿童就已表现出"傲慢担忧"（arrogance concern）——担心高成就者会变得骄傲自满，无法继续自我完善（Li, 2012, p.78）
+
+### 苏格拉底式辅导中的骄傲社会化
+
+> [!success]
+> Li 与 Heidi Fung 的母子对话研究（第 7 章）直接观察到了欧裔美国母亲如何通过日常对话将骄傲**主动教给**儿童（Li, 2012, pp.!BC–!B!）。
+
+在话语分析中，欧裔美国母亲将骄傲定位为对学习成就的**标准情感反应**。一个典型例子是母亲与八岁儿子 Ian 的对话：Ian 在班上出色地呈现了莎士比亚的《罗密欧与朱丽叶》，"每个人都印象深刻"。母亲明确指出两种骄傲（Li, 2012, p.!BC）：
+
+1. **父母的骄傲**：母亲说"So you wanted us to be proud"——让儿童知道他的成就给父母带来了骄傲
+2. **自我的骄傲**：母亲追问"Or you wanted to be proud of yourself?"——明确要求儿童**自己也应该为自己感到骄傲**，Ian 回答"Yeah"
+
+> [!example]
+> 在另一例中，一位母亲对七岁儿子 Tim 的数学进步进行总结："And it's OK to get some wrong sometimes, right? Cause..."——她将"犯错不要紧"与"最终成功带来的骄傲"联系起来，建立了**安全失败 + 最终骄傲**的情感配对（Li, 2012, pp.!=A–!=B）。
+
+与台湾母亲形成系统性对比：台湾母亲在类似情境中几乎不谈论骄傲，而是将成就转化为**面向未来继续努力的动力**（如"妈妈很欣慰……希望你把不放弃、全力以赴应用到做任何事"）（Li, 2012, p.!BC）。
 
 ---
 

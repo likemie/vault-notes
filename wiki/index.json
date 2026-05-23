@@ -246,6 +246,15 @@
     ]
   },
   {
+    "title": "Confucian Tutoring Style",
+    "path": "wiki/concepts/comparative-education/Confucian Tutoring Style.md",
+    "aliases": [
+      "儒家式辅导",
+      "Confucian tutoring",
+      "Confucian parenting style"
+    ]
+  },
+  {
     "title": "Corporate Education",
     "path": "wiki/concepts/comparative-education/Corporate Education.md",
     "aliases": [
@@ -514,6 +523,15 @@
       "中国化",
       "sinicisation",
       "sinicization"
+    ]
+  },
+  {
+    "title": "Socratic Tutoring Style",
+    "path": "wiki/concepts/comparative-education/Socratic Tutoring Style.md",
+    "aliases": [
+      "苏格拉底式辅导",
+      "Socratic tutoring",
+      "Socratic parenting style"
     ]
   },
   {
