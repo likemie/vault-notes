@@ -2040,6 +2040,14 @@
     ]
   },
   {
+    "title": "Reusability Paradox",
+    "path": "wiki/concepts/research-methodology/Reusability Paradox.md",
+    "aliases": [
+      "可重用性悖论",
+      "reusability paradox"
+    ]
+  },
+  {
     "title": "Side Effects in Education",
     "path": "wiki/concepts/research-methodology/Side Effects in Education.md",
     "aliases": [
@@ -3993,6 +4001,15 @@
     ]
   },
   {
+    "title": "EU Key Competences for Lifelong Learning 2018",
+    "path": "wiki/facts/eu/EU Key Competences for Lifelong Learning 2018.md",
+    "aliases": [
+      "Council Recommendation of 22 May 2018 on Key Competences for Lifelong Learning",
+      "欧盟终身学习关键能力建议2018",
+      "EU key competences"
+    ]
+  },
+  {
     "title": "EU Skills Agenda",
     "path": "wiki/facts/eu/EU Skills Agenda.md",
     "aliases": [
@@ -4054,6 +4071,14 @@
     "path": "wiki/facts/finland/Finnish National Core Curriculum 2014.md",
     "aliases": [
       "芬兰国家核心课程2014"
+    ]
+  },
+  {
+    "title": "French Class Size Reduction 2017",
+    "path": "wiki/facts/france/French Class Size Reduction 2017.md",
+    "aliases": [
+      "法国2017年班额缩减政策",
+      "French class size reduction"
     ]
   },
   {
@@ -4262,6 +4287,15 @@
     "path": "wiki/facts/hongkong/National Education in Hong Kong.md",
     "aliases": [
       "香港国民教育"
+    ]
+  },
+  {
+    "title": "Azione LIM 2008",
+    "path": "wiki/facts/italy/Azione LIM 2008.md",
+    "aliases": [
+      "Interactive Whiteboard Action",
+      "意大利互动白板行动",
+      "Azione LIM"
     ]
   },
   {

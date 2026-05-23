@@ -19,6 +19,7 @@ related_concepts:
 - '[[Local Knowledge in Evidence-Based Policy]]'
 - '[[Professional Judgment]]'
 - '[[Evidence-Informed Practice]]'
+- '[[Reusability Paradox]]'
 - '[[Effect Size]]'
 - '[[Statistical Significance]]'
 - '[[Technology Infusion]]'
@@ -41,6 +42,9 @@ related_facts:
 - '[[Students and Teachers Accessing Tomorrow (STAT)]]'
 - '[[EU Evidence-Informed Education Policy Initiatives]]'
 - '[[EEF Teaching and Learning Toolkit]]'
+- '[[Azione LIM 2008]]'
+- '[[French Class Size Reduction 2017]]'
+- '[[EU Key Competences for Lifelong Learning 2018]]'
 related_arguments:
 - '[[Argument_Ross_Morrison_2021_ROE]]'
 - '[[Argument_Pellegrini_2021_ROE]]'

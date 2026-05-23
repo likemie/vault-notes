@@ -30,6 +30,7 @@ related_concepts:
 - '[[Evidence-Informed Practice]]'
 - '[[Local Knowledge in Evidence-Based Policy]]'
 - '[[Programme Fidelity vs Adaptation]]'
+- '[[Reusability Paradox]]'
 - '[[Effect Size]]'
 - '[[Validity as Inferences]]'
 - '[[Mechanism Experiments]]'
@@ -99,6 +100,9 @@ related_facts:
 - '[[ESSA 2015 Evidence Standards]]'
 - '[[Students and Teachers Accessing Tomorrow (STAT)]]'
 - '[[EU Evidence-Informed Education Policy Initiatives]]'
+- '[[Azione LIM 2008]]'
+- '[[French Class Size Reduction 2017]]'
+- '[[EU Key Competences for Lifelong Learning 2018]]'
 related_arguments:
 - '[[Argument_Nordahl_2015_Paideia]]'
 - '[[Argument_Ross_Morrison_2021_ROE]]'

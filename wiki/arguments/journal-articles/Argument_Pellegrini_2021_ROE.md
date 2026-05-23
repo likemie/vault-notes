@@ -20,6 +20,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Technology Infusion]]"
+  - "[[Reusability Paradox]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -36,6 +37,9 @@ related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
   - "[[Evidence-Based Teachers Network]]"
+  - "[[Azione LIM 2008]]"
+  - "[[French Class Size Reduction 2017]]"
+  - "[[EU Key Competences for Lifelong Learning 2018]]"
 related_arguments: []
 sources:
   - "[[Pellegrini_2021_ROE]]"
@@ -79,7 +83,7 @@ updated: 2026-05-23
 2. 欧洲与美国的政策语言不同。[[ESSA 2015 Evidence Standards|ESSA]] 通过强、中、有希望等证据等级给学校采用有证据项目提供激励；欧洲更常说 evidence-informed education，意味着证据来源可以包括定性和混合方法，欧盟文件也主要提供指导而非强制要求（Pellegrini & Vivanet, 2021, pp.26-27）。
 3. [[EU Evidence-Informed Education Policy Initiatives|欧盟层面的政策进程]] 从 2006 年开始更清楚地成形。2006 年欧洲理事会结论强调评价文化，2007 年欧洲委员会工作文件提出证据本位政策与实践应成为教育和培训系统改革的驱动力（Pellegrini & Vivanet, 2021, pp.28-29）。
 
-例子：意大利 2008 年 “Azione LIM” 大规模采购互动白板，投入 EUR 93,354,571，2016 年已有 42% 班级配备互动白板；但英国实验和系统综述显示其对成绩影响很小或不显著。这说明 [[Technology Infusion|技术导入政策]] 若只依据创新叙事而不看效果证据，可能投入巨大却难以改善学习（Pellegrini & Vivanet, 2021, p.27）。
+例子：[[Azione LIM 2008]] 大规模采购互动白板，投入 EUR 93,354,571，2016 年已有 42% 班级配备互动白板；但英国实验和系统综述显示其对成绩影响很小或不显著。这说明 [[Technology Infusion|技术导入政策]] 若只依据创新叙事而不看效果证据，可能投入巨大却难以改善学习（Pellegrini & Vivanet, 2021, p.27）。
 
 ### 第二步：欧洲建立了若干证据中介和研究网络
 
@@ -94,7 +98,7 @@ updated: 2026-05-23
 ### 第三步：欧洲的主要瓶颈是可迁移性
 
 7. 证据不能像“菜谱”一样在任何情境中复制。一个项目在特定情境、对象和目标下由 RCT 证明有效，并不意味着它换到另一国、另一课程标准、另一学段时仍然有效（Pellegrini & Vivanet, 2021, p.35）。
-8. 文章用 Wiley 的“可重用性悖论”解释这一点：项目越为特定情境精细设计，越难跨情境复用；项目越追求普遍可用，就越可能不能充分满足任何一个具体情境的需要（Pellegrini & Vivanet, 2021, p.36）。
+8. 文章用 Wiley 的 [[Reusability Paradox|可重用性悖论]] 解释这一点：项目越为特定情境精细设计，越难跨情境复用；项目越追求普遍可用，就越可能不能充分满足任何一个具体情境的需要（Pellegrini & Vivanet, 2021, p.36）。
 9. 欧洲内部有 43 个教育系统，且组织模式、语言、课程和教学大纲不同；欧盟还有 24 种官方语言，因此英语项目和英国／美国证据数据库很难直接服务非英语国家（Pellegrini & Vivanet, 2021, p.36）。
 
 例子：一个英国阅读干预项目即使在英国小学中有效，进入意大利或芬兰学校时仍要重新面对课程目标、语言材料、教师培训和本地评价标准问题。文章的意思不是证据无用，而是证据要转化为本地设计的参照，而不能机械复制（Pellegrini & Vivanet, 2021, pp.35-36）。
@@ -106,7 +110,7 @@ updated: 2026-05-23
 
 ### 第五步：关键能力改革放大了证据本位政策的难度
 
-12. 欧洲课程从 2000 年代初逐步转向能力本位模式。2018 年欧盟关键能力建议把能力定义为知识、技能和态度的动态组合，并列出八项关键能力（Pellegrini & Vivanet, 2021, p.39）。
+12. 欧洲课程从 2000 年代初逐步转向能力本位模式。[[EU Key Competences for Lifelong Learning 2018]] 把能力定义为知识、技能和态度的动态组合，并列出八项关键能力（Pellegrini & Vivanet, 2021, p.39）。
 13. 基础读写知识和技能已有较成熟的评估和项目证据，但“积极的读写态度”“批判性和建设性对话倾向”“语言的社会责任使用”等多维能力更难设计干预和评估效果（Pellegrini & Vivanet, 2021, pp.40-41）。
 14. 因此，[[Evidence-Based Reform|证据本位改革]] 若要进入欧洲能力本位课程，就必须同时解决课程目标重写、目标指标化、有效评价工具、教师培训和多语言资源共享问题（Pellegrini & Vivanet, 2021, p.41）。
 

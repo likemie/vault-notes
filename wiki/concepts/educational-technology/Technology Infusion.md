@@ -25,10 +25,13 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
+  - "[[Azione LIM 2008]]"
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Pellegrini_2021_ROE]]"
 sources:
   - "[[Ross_Morrison_2021_ROE]]"
+  - "[[Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -79,6 +82,7 @@ updated: 2026-05-23
 ### 复杂改革案例
 
 - [[Students and Teachers Accessing Tomorrow (STAT)]] — Baltimore County Public Schools 的全学区技术整合项目；其分阶段推进和评价结果集中写在 STAT 条目中（Ross & Morrison, 2021, pp.114-116）。
+- [[Azione LIM 2008]] — 意大利互动白板行动，显示大规模设备投入若缺少有效性证据和教学整合设计，可能成为高成本低效果的技术政策案例（Pellegrini & Vivanet, 2021, p.27）。
 
 ### 证据政策环境
 
@@ -87,3 +91,4 @@ updated: 2026-05-23
 ## 来源
 
 - [[Ross_Morrison_2021_ROE]]
+- [[Pellegrini_2021_ROE]]

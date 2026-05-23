@@ -21,6 +21,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Reusability Paradox]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -28,6 +29,9 @@ related_facts:
   - "[[Europe 2020 Strategy]]"
   - "[[ESSA 2015 Evidence Standards]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Azione LIM 2008]]"
+  - "[[French Class Size Reduction 2017]]"
+  - "[[EU Key Competences for Lifelong Learning 2018]]"
   - "[[Campbell Collaboration]]"
   - "[[Danish Clearinghouse for Educational Research]]"
   - "[[EPPI-Centre]]"
@@ -98,7 +102,8 @@ updated: 2026-05-23
 > [!warning] 主要问题
 > - 政策力度有限：欧盟官方文件鼓励使用证据，但通常不规定具体行动线；这使欧洲证据知情教育政策更像“软治理”而非统一制度安排。与 [[ESSA 2015 Evidence Standards|ESSA]] 的对照见 [[Argument_Pellegrini_2021_ROE]]（Pellegrini & Vivanet, 2021, pp.26, 41-42）。
 > - 协调不足：EIPPEE 发现欧洲国家活动水平较高，但跨欧洲合作和协调较少；文章也判断许多证据生产和传播倡议彼此之间仍较分散（Pellegrini & Vivanet, 2021, pp.30, 42）。
-> - 外部效度和复用困难：证据不能当作可在任何情境复制的“菜谱”；欧洲多教育系统、多语言、多课程结构放大了项目迁移难度。具体论证见 [[Argument_Pellegrini_2021_ROE]]（Pellegrini & Vivanet, 2021, pp.35-36）。
+> - 外部效度和复用困难：证据不能当作可在任何情境复制的“菜谱”；欧洲多教育系统、多语言、多课程结构放大了 [[Reusability Paradox|可重用性悖论]]。具体论证见 [[Argument_Pellegrini_2021_ROE]]（Pellegrini & Vivanet, 2021, pp.35-36）。
+> - 能力评价复杂：[[EU Key Competences for Lifelong Learning 2018]] 推动能力本位课程，但多维能力的干预设计和评价标准更难证据化（Pellegrini & Vivanet, 2021, pp.39-41）。
 
 ## 相关概念／理论
 

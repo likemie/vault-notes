@@ -25,6 +25,7 @@ related_persons:
 related_facts:
 - '[[Tennessee STAR Project 1985-1989]]'
 - '[[California Class Size Reduction 1996]]'
+- '[[French Class Size Reduction 2017]]'
 - '[[Tomorrow''s Schools Reforms (NZ 1989)]]'
 - '[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]'
 related_arguments: []
@@ -35,6 +36,7 @@ sources:
 - '[[Nielsen_2021_NordPsych]]'
 - '[[Johnson_2023_CE]]'
 - '[[ONeill_2012_NZJES]]'
+- '[[Pellegrini_2021_ROE]]'
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -98,6 +100,7 @@ Hattie (2015, p.83-84) 指出班级规模在大学层面也备受关注，最大
 > - **Hattie 立场**：班级规模效应量约 0.2，属于小型效应，不足以支持减班投资（Snook et al., 2009, p.100）。Hattie (2010, p.90) 澄清其真实表述是——缩减班级规模确实提高成绩（d≈0.20），但相对于所有可能效应的平均值（d≈0.40），花费数十亿可能不值得，这些资金本可以用于其他更有效的干预。Hattie 还驳斥了 Snook et al. 选择性引用 STAR 研究大效应量（0.62）的做法，指出既然平均效应为 0.20，"必然也存在大的负面效应才能达到约 0.20 的平均值——元分析的主要优势正是使极端发现被更大的研究样本所调节"（Hattie, 2010, p.90）
 > - **批评方立场**：0.2 并非可忽略；在医学中阿司匹林降低心脏病风险的效应量仅 0.07，却意味着每 1000 人拯救 34 人（Snook et al., 2009, p.99）；高质量研究（[[Tennessee STAR Project 1985-1989|STAR]]、Blatchford）得出的效应量远超 0.2（Snook et al., 2009, p.100–101）
 > - **调和观点**：班级规模不能孤立看待；真正的问题是通过小班使教师和学生能够做出不同的教学互动，而非简单的人数减少（Snook et al., 2009, p.102）
+> - **欧洲政策案例**：[[French Class Size Reduction 2017]] 显示，班额缩减可以体现政策制定者使用证据的积极态度，但若效果证据较弱且成本较高，它也可能成为相对低效的公平政策工具（Pellegrini & Vivanet, 2021, pp.27-28）
 
 
 > [!warning] Berger (1982) 的分析单元问题
@@ -143,3 +146,4 @@ Hattie (2015, p.83-84) 指出班级规模在大学层面也备受关注，最大
 - [[Johnson_2023_CE]]
 - [[Hattie_2015_SOTLP]]
 - [[ONeill_2012_NZJES]]
+- [[Pellegrini_2021_ROE]]
