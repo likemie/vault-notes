@@ -11,14 +11,12 @@
             "id": "05ff7f377a4eb1b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
-                "mode": "source",
-                "source": false
+                "file": "sources/Wrigley_2019_ERE.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Argument_Li_2012_Cambridge"
+              "icon": "lucide-file-text",
+              "title": "Wrigley_2019_ERE"
             }
           }
         ]
@@ -189,8 +187,17 @@
   },
   "active": "05ff7f377a4eb1b1",
   "lastOpenFiles": [
-    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+    "sources/Wrigley_2019_ERE.md",
+    "sources/Terhart_2011_JCS.pdf",
+    "sources/Terhart_2011_JCS.md",
+    "sources/Snook_2010_NZJES.pdf",
+    "sources/Cowen_2019_ERE.md",
+    "sources/Cowen_2015_CHESS.pdf",
+    "sources/Cowen_2015_CHESS.md",
+    "sources/Cheung_2021_ROE.md",
+    "sources/Cheung_2021_ROE.pdf",
     "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
+    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/iShot_2026-05-23_15.07.28.png",
     "wiki/concepts/educational-philosophy/Western Learner.md",
@@ -206,26 +213,18 @@
     "books/Bates_2017_CognitionEducationTrust/Bates_2017_CognitionEducationTrust.md",
     "raw/Cultural Foundations of Learning _ East and West -- Jin Li -- 1, 2012 -- Cambridge University Press_ 32 Avenue of the Americas, New -- isbn13 9780521160629 -- 2a9b817dfa3a402b88c6e2903e4a7c8c -- Anna’s Archive (1).pdf",
     "wiki/facts/brunei/Jerudong International School Establishment (Brunei 1997).md",
-    "books/Bates_2017_CognitionEducationTrust/Darwin'FinchAShortHistoryofGognition.pdf",
     "wiki/facts/newzealand/Visible Learning Branding and Global Influences.md",
     "wiki/facts/newzealand/Foundation North Māori and Pasifika Education Initiative (MPEI 2009).md",
     "wiki/facts/newzealand/Contestable School Support Services (NZ 2011).md",
     "wiki/facts/newzealand/Tomorrow's Schools Reforms (NZ 1989).md",
     "wiki/concepts/comparative-education/Ideal Learner.md",
     "wiki/concepts/research-methodology/Cultural Models.md",
-    "wiki/facts/brunei",
-    "books/Bates_2017_CognitionEducationTrust/chapters/ch07_Epilogue.txt",
-    "books/Bates_2017_CognitionEducationTrust/chapters/ch06_Giving_Back.txt",
     "wiki/concepts/instruction-pedagogy/Classroom Management.md",
     "wiki/methods/mixed/Prototype Methods.md",
     "Self-Determination Theory.md",
     "wiki/concepts/comparative-education/Learning Gap.md",
     "wiki/concepts/comparative-education/Paradox of the Chinese Learner.md",
     "wiki/persons/australia/John Biggs.md",
-    "wiki/concepts/comparative-education/Confucian Heritage Cultures.md",
-    "wiki/concepts/chinese-philosophy/Self-Cultivation.md",
-    "wiki/concepts/chinese-philosophy/Learning Virtues.md",
-    "wiki/concepts/instruction-pedagogy/Surface and Deep Learning.md",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/fig2-1_western_learner.png",
