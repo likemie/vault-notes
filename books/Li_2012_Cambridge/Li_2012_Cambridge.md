@@ -38,6 +38,17 @@ extracted_to:
 - "[[Locke]]"
 - "[[Berkeley]]"
 - "[[Russell]]"
+- "[[Chinese Learner]]"
+- "[[Confucian Heritage Cultures]]"
+- "[[Cultural Models]]"
+- "[[Establishing Ones Will (lizhi)]]"
+- "[[Examination Hell]]"
+- "[[Ideal Learner]]"
+- "[[Learning Gap]]"
+- "[[Paradox of the Chinese Learner]]"
+- "[[Prototype Methods]]"
+- "[[Surface and Deep Learning]]"
+- "[[John Biggs]]"
 processed_date: 2026-05-23
 ---
 
