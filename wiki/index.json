@@ -2040,12 +2040,37 @@
     ]
   },
   {
+    "title": "New Sociology of Education",
+    "path": "wiki/concepts/sociology-of-education/New Sociology of Education.md",
+    "aliases": [
+      "新教育社会学",
+      "NSE"
+    ]
+  },
+  {
     "title": "Opportunist Mode",
     "path": "wiki/concepts/sociology-of-education/Opportunist Mode.md",
     "aliases": [
       "机会主义者",
       "opportunist actor",
       "机会主义"
+    ]
+  },
+  {
+    "title": "Political Arithmetic",
+    "path": "wiki/concepts/sociology-of-education/Political Arithmetic.md",
+    "aliases": [
+      "政治算术",
+      "political arithmetic tradition"
+    ]
+  },
+  {
+    "title": "School Effectiveness",
+    "path": "wiki/concepts/sociology-of-education/School Effectiveness.md",
+    "aliases": [
+      "学校效能",
+      "school effectiveness research",
+      "SE"
     ]
   },
   {
@@ -4835,6 +4860,10 @@
   {
     "title": "Argument_Håkansson_2015_TT",
     "path": "wiki/arguments/journal-articles/Argument_Håkansson_2015_TT.md"
+  },
+  {
+    "title": "Argument_Ball_2008_SR",
+    "path": "wiki/arguments/journal-articles/Argument_Ball_2008_SR.md"
   },
   {
     "title": "Argument_Wecker_2016_ZfE",

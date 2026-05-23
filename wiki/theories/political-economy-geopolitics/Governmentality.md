@@ -27,6 +27,7 @@ related_concepts:
   - '[[21st Century Skills and Competencies Discourse]]'
   - '[[Geopolitics of Knowledge]]'
   - '[[Self-Entrepreneur]]'
+  - '[[School Effectiveness]]'
 related_theories:
   - "[[Societies of Control]]"
 related_methods: ["[[Critical Companion]]"]
@@ -35,13 +36,15 @@ related_facts: []
 related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
+  - "[[Argument_Ball_2008_SR]]"
 sources:
   - "[[Ch13_Thompson_2022]]"
   - "[[Ch15_Zelinka_2022]]"
+  - "[[Ball_2008_SR]]"
 confidence: medium
 status: draft
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-05-23
 ---
 
 # Governmentality
@@ -142,7 +145,9 @@ Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘
 > - [[Competitiveness in Higher Education]] — 竞争力作为地缘政治装置，通过绩效指标和排名塑造大学的治理术自我理解
 > - [[Geopolitics of Knowledge]] — Zelinka（2022）将其概念化为全球治理技术，通过远距治理的三重机制运作（问题化与个体化、授权知识生产、主体化与区分）
 > - [[21st Century Skills and Competencies Discourse]] — SCD 框架是远距治理的典型案例：通过界定"未来所需技能"远距引导各国教育政策和个体的自我塑造（Zelinka, 2022, pp.258-260）
+> - [[School Effectiveness]] — Ball（2008）将学校效能研究在英国政策中的转译解释为一种把学校构造成可检查、可比较、可改进对象的治理技术；它通过测量、检查、排行榜和失败学校命名等机制，把学校与教师重新纳入政策管理（Ball, 2008, pp.663-665）
 
 ## 来源
 
 - [[Ch13_Thompson_2022]]
+- [[Ball_2008_SR]]

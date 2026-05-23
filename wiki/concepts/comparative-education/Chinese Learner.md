@@ -161,16 +161,16 @@ updated: '2026-05-22'
 > [!abstract]
 > 该模型由内向外展开，表示学习者从个人修身逐步扩展到天下关怀的完整过程（Li, 2012, pp.46-47）：
 
-| 层次 | 内容 | 英文 |
-|------|------|------|
-| 第 1 层 | 格物 | Investigate things |
-| 第 2 层 | 致知 | Extend knowledge |
-| 第 3 层 | 诚意 | Be sincere |
-| 第 4 层 | 正心 | Rectify heart/mind |
-| **第 5 层（核心）** | **[[Self-Cultivation|修身]]** | **Cultivate self** |
-| 第 6 层 | 齐家 | Regulate family |
-| 第 7 层 | 治国 | Order the state |
-| 第 8 层 | 平天下 | Bring peace to the world |
+| 层次            | 内容                   | 英文                       |                    |
+| ------------- | -------------------- | ------------------------ | ------------------ |
+| 第 1 层         | 格物                   | Investigate things       |                    |
+| 第 2 层         | 致知                   | Extend knowledge         |                    |
+| 第 3 层         | 诚意                   | Be sincere               |                    |
+| 第 4 层         | 正心                   | Rectify heart/mind       |                    |
+| **第 5 层（核心）** | **[[Self-Cultivation | 修身]]**                   | **Cultivate self** |
+| 第 6 层         | 齐家                   | Regulate family          |                    |
+| 第 7 层         | 治国                   | Order the state          |                    |
+| 第 8 层         | 平天下                  | Bring peace to the world |                    |
 
 第 5 层（修身）的线最粗——"前面的层次不通过修身就无法继续发展，后面的层次不通过修身也无法达成"（Li, 2012, p.56）。中心的向上箭头表示学习者不断自我完善、通往[[Junzi|君子]]和圣人理想的开放性和超越性过程。
 

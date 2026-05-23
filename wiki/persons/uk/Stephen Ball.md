@@ -14,16 +14,21 @@ related_concepts:
 - '[[Endogenous and Exogenous Privatisation]]'
 - '[[Policy Entrepreneur]]'
 - '[[Network Governance]]'
+- '[[Political Arithmetic]]'
+- '[[New Sociology of Education]]'
+- '[[School Effectiveness]]'
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+- '[[Argument_Ball_2008_SR]]'
 sources:
 - '[[ONeill_2016_Report]]'
+- '[[Ball_2008_SR]]'
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: '2026-05-19'
+updated: '2026-05-23'
 ---
 
 ## 简介
@@ -55,6 +60,11 @@ Ball（2012）将 Mintrom（2000）的政策创业者概念扩展至跨国维度
 
 Ball 的工作为理解教育中网络治理模式（network governance modality）提供了理论基础——传统的市场与科层治理形式如何被新的政策网络形式所补充或取代。参见 [[Network Governance]]。
 
+### 教育社会学史与治理视角（Ball, 2008）
+
+Ball（2008）将英国教育社会学史重写为若干问题、位置和研究目光的转换：[[Political Arithmetic|政治算术]]将家庭、阶级和机会分配置于福利国家政策视野中；[[New Sociology of Education|新教育社会学]]把研究目光转向学校知识和课堂过程；[[School Effectiveness|学校效能]]则把学校重构为可测量、可比较、可治理的组织对象（Ball, 2008, pp.650-665）。这一分析延续了 Ball 对教育政策、治理技术和教师专业权力关系的关注：教育社会学不只是解释教育现实，也会生产使家庭、学校、教师和学生可被政策干预的权力光学（Ball, 2008, pp.651, 665）。
+
 ## 来源
 
 - [[ONeill_2016_Report]]
+- [[Ball_2008_SR]]
