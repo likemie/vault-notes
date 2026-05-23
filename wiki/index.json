@@ -451,6 +451,18 @@
     ]
   },
   {
+    "title": "Pride in Learning",
+    "path": "wiki/concepts/comparative-education/Pride in Learning.md",
+    "aliases": [
+      "学习骄傲",
+      "骄傲",
+      "jiao-ao",
+      "驕傲",
+      "pride",
+      "自豪"
+    ]
+  },
+  {
     "title": "Sinicisation",
     "path": "wiki/concepts/comparative-education/Sinicisation.md",
     "aliases": [
@@ -1399,6 +1411,15 @@
     ]
   },
   {
+    "title": "Learned Helplessness",
+    "path": "wiki/concepts/learning-science-cognitive-science/Learned Helplessness.md",
+    "aliases": [
+      "习得性无助",
+      "learned helplessness",
+      "习得无助"
+    ]
+  },
+  {
     "title": "Learning-Impeding Behavior",
     "path": "wiki/concepts/learning-science-cognitive-science/Learning-Impeding Behavior.md",
     "aliases": [
@@ -1412,6 +1433,17 @@
       "Lebenskraft",
       "生命力量",
       "life power"
+    ]
+  },
+  {
+    "title": "Locus of Control",
+    "path": "wiki/concepts/learning-science-cognitive-science/Locus of Control.md",
+    "aliases": [
+      "控制点",
+      "控制源",
+      "locus of control",
+      "内外控",
+      "internal vs external control"
     ]
   },
   {
@@ -1455,6 +1487,16 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Self-control.md",
     "aliases": [
       "自我控制"
+    ]
+  },
+  {
+    "title": "Self-Efficacy",
+    "path": "wiki/concepts/learning-science-cognitive-science/Self-Efficacy.md",
+    "aliases": [
+      "自我效能感",
+      "self-efficacy",
+      "perceived self-efficacy",
+      "自我效能"
     ]
   },
   {
@@ -1742,6 +1784,15 @@
     ]
   },
   {
+    "title": "Absorptive Capacity",
+    "path": "wiki/concepts/research-methodology/Absorptive Capacity.md",
+    "aliases": [
+      "吸收能力",
+      "absorptive capacity",
+      "district absorptive capacity"
+    ]
+  },
+  {
     "title": "Black Box RCTs",
     "path": "wiki/concepts/research-methodology/Black Box RCTs.md",
     "aliases": [
@@ -1830,6 +1881,16 @@
     "path": "wiki/concepts/research-methodology/Gating Procedure.md",
     "aliases": [
       "闸门程序"
+    ]
+  },
+  {
+    "title": "Implementation Fidelity",
+    "path": "wiki/concepts/research-methodology/Implementation Fidelity.md",
+    "aliases": [
+      "实施忠实度",
+      "实施保真度",
+      "fidelity of implementation",
+      "implementation quality"
     ]
   },
   {
@@ -2418,6 +2479,17 @@
     ]
   },
   {
+    "title": "Appraisal Theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Appraisal Theory.md",
+    "aliases": [
+      "评估理论",
+      "评价理论",
+      "Frijda's appraisal theory",
+      "appraisal theory of emotion",
+      "情感评估理论"
+    ]
+  },
+  {
     "title": "Attribution Theory",
     "path": "wiki/theories/learning-science-cognitive-science/Attribution Theory.md",
     "aliases": [
@@ -2597,10 +2669,29 @@
     ]
   },
   {
+    "title": "Formative Evaluation",
+    "path": "wiki/methods/mixed/Formative Evaluation.md",
+    "aliases": [
+      "形成性评价",
+      "formative evaluation",
+      "formative program evaluation"
+    ]
+  },
+  {
     "title": "Improvement Science",
     "path": "wiki/methods/mixed/Improvement Science.md",
     "aliases": [
       "改进科学"
+    ]
+  },
+  {
+    "title": "Logic Model",
+    "path": "wiki/methods/mixed/Logic Model.md",
+    "aliases": [
+      "逻辑模型",
+      "evaluation logic model",
+      "program logic model",
+      "program theory model"
     ]
   },
   {
@@ -2826,7 +2917,10 @@
       "准实验设计",
       "quasi-experimental design",
       "quasi-experimental designs",
-      "QED"
+      "QED",
+      "counterfactual viability",
+      "counterfactual strength",
+      "反事实可行性"
     ]
   },
   {

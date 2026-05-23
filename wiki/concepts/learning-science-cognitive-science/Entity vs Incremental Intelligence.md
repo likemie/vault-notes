@@ -15,6 +15,7 @@ tags:
   - theme/intelligence
 related_concepts:
   - "[[Intrinsic vs Extrinsic Motivation]]"
+  - "[[Learned Helplessness]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -46,7 +47,7 @@ updated: 2026-05-23
 - 认为智力是固定的，不随学习而改变
 - 面对困难和挑战时容易放弃
 - 表现出低自尊和对失败的恐惧
-- 这种现象被概括为"习得性无助"（learned helplessness）（Li, 2012, p.58–59）
+- 这种现象被概括为[[Learned Helplessness|习得性无助]]（Li, 2012, p.58–59）
 
 **增长观（incremental view）**
 - 认为智力可以通过学习来提升

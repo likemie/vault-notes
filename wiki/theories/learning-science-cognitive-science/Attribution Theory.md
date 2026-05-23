@@ -12,6 +12,7 @@ tags:
   - theme/achievement
 related_concepts:
   - "[[Intrinsic vs Extrinsic Motivation]]"
+  - "[[Locus of Control]]"
 related_theories:
   - "[[Self-Worth Theory]]"
 related_methods: []
@@ -33,7 +34,7 @@ updated: 2026-05-23
 > [!tip]
 > Weiner 的归因理论认为，人类天然倾向于寻找事件的因果解释（做出因果归因），尤其是那些对自身重要的事件（如学业表现）。这些因果归因反过来又影响个体在后续成就情境中的行为和情感反应（Li, 2012, p.60–61）。
 
-该理论是在 Rotter 的控制点（locus of control）理论基础上的进一步发展。Weiner 将 Rotter 的单一控制点维度扩展为三个独立且相互作用的因素（Li, 2012, p.61）。
+该理论是在 Rotter 的 [[Locus of Control|控制点]] 理论基础上的进一步发展。Weiner 将 Rotter 的单一控制点维度扩展为三个独立且相互作用的因素（Li, 2012, p.61）。
 
 ---
 

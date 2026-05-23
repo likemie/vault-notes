@@ -19,9 +19,13 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
+  - "[[Absorptive Capacity]]"
+  - "[[Implementation Fidelity]]"
 related_theories: []
 related_methods:
   - "[[Quasi-Experimental Designs]]"
+  - "[[Formative Evaluation]]"
+  - "[[Logic Model]]"
 related_persons: []
 related_facts: []
 related_arguments:

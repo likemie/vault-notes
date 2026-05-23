@@ -18,6 +18,7 @@ related_concepts:
   - "[[Establishing One's Will (lizhi)]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
+  - "[[Pride in Learning]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []
@@ -37,7 +38,7 @@ updated: 2026-05-23
 ## 定义
 
 > [!info]
-> 谦逊（humility）在东亚学习传统中被视为一种核心美德和内在力量。它不是低微的自我评价，而是一种使人能够正视自身不足、持续自省和寻求进步的品质。在儒家思想体系中，谦逊被构想为骄傲（自满）的对立面，而非西方语境中以羞耻（shame）为骄傲之反面的逻辑（Li, 2012, p.79）。
+> 谦逊（humility）在东亚学习传统中被视为一种核心美德和内在力量。它不是低微的自我评价，而是一种使人能够正视自身不足、持续自省和寻求进步的品质。在儒家思想体系中，谦逊被构想为 [[Pride in Learning|骄傲]]（自满）的对立面，而非西方语境中以羞耻（shame）为骄傲之反面的逻辑（Li, 2012, p.79）。
 
 > [!quote]
 > Humility in the Confucian persuasion has never been conceived of as a personal weakness or lowly self-regard, but only as a strength one must have if one desires to self-cultivate.

@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Flow]]"
   - "[[Entity vs Incremental Intelligence]]"
+  - "[[Self-Efficacy]]"
 related_theories:
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
