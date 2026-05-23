@@ -41,6 +41,7 @@ related_persons:
 related_facts:
 - '[[New Zealand National Standards (2009)]]'
 - '[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]'
+- '[[Cognition Education (NZ)]]'
 - '[[Danish Public School Reform 2014]]'
 - '[[Visible Learning in Sweden]]'
 - '[[Russian Translation of Visible Learning 2017]]'
@@ -99,6 +100,14 @@ updated: '2026-05-18'
 > > "John Hattie, then an academic at the University of Auckland and also a member of the Cognition board, had approached the company looking for a new home for the nascent commercial platform that had been developed out of his landmark meta-analysis of impactful teacher practice, Visible Learning (VL), published two years earlier"（Bates, 2017, p.59, cited in Johnson & Janzen, 2023, p.30）
 >
 > > "The key focus was converting the critical principles of the VL research to a graduated professional learning curriculum (targeted at teachers and school leaders) that could be modularised and sold as such. In return Hattie received a royalty on all VL-related income"（Bates, 2017, p.59, cited in Johnson & Janzen, 2023, p.30）
+>
+> #### Cognition Education 作为商业化载体
+>
+> VL 的商业化并不是由出版社直接接手，而是由 [[Cognition Education (NZ)]] 这个起源于 [[Tomorrow's Schools Reforms (NZ 1989)]] 的教育管理组织接住。Johnson & Janzen 把这一步放回新西兰教育市场化历史中理解：原 Auckland 学校董事会的交通与工资部门先被改制为 Multi Serve，后更名为 Cognition Education，并在营利公司加慈善信托的双层结构下经营教育服务与知识产品。（Johnson & Janzen, 2023, p.30；Bates, 2017, p.11-12, p.69）
+>
+> 这使 VL 一开始就不是单纯的学术传播，而是被嵌入一个已经成熟的教育服务平台。2010 年末奥克兰大学教育学院决定不再继续支持该商业平台后，Cognition 与 Hattie 很快达成合作，把 VL 原理转写成面向教师和学校领导的模块化 professional learning curriculum。按 Bates 的回顾，Hattie 取得所有 VL 相关收入的版税，而新 division 自 2011 年初启动后增长极快，第一年收入已接近 2M，次年接近 2.7M，且利润率高于此前长期支撑公司的 payroll 业务。（Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30）
+>
+> VL 后来的全球扩散也依赖 Cognition 设计的轻资产授权模式，而不是各国自建重型分公司。最初 Macmillan 在澳大利亚负责销售与活动，Cognition 提供课程与人员；随后 James Nottingham Associates、Osiris 和 Corwin 等机构按地区取得授权，帮助 VL 快速进入多个市场，同时避免在各国设立 Cognition 实体所需的资本、合规与品牌培育成本。（Bates, 2017, p.60；O'Neill et al., 2016, p.67）
 >
 > #### 2009 年媒体风暴与公众反应
 >

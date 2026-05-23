@@ -1,6 +1,6 @@
 ---
 citation: "Bates, T. (2017). Darwin's Finch: A Short History of Cognition. Cognition Education Trust."
-extracted_to: ["[[Argument_Bates_2017_CognitionEducationTrust]]", "[[Tomorrow's Schools Reforms (NZ 1989)]]", "[[Jerudong International School Establishment (Brunei 1997)]]"]
+extracted_to: ["[[Argument_Bates_2017_CognitionEducationTrust]]", "[[Tomorrow's Schools Reforms (NZ 1989)]]", "[[Jerudong International School Establishment (Brunei 1997)]]", "[[Cognition Education (NZ)]]"]
 processed_date: 2026-05-23
 ---
 
