@@ -55,6 +55,9 @@ related_concepts:
 - '[[Pride in Learning]]'
 - '[[Nerd (School Peer Culture)]]'
 - '[[Tongxue]]'
+- '[[Tall Poppy Syndrome]]'
+- '[[Codeswitcher (School)]]'
+- '[[Talent Assumption]]'
 related_theories:
 - '[[Confucian Learning Tradition]]'
 - '[[Attribution Theory]]'

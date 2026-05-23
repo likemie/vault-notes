@@ -66,6 +66,9 @@ extracted_to:
 - "[[Nerd (School Peer Culture)]]"
 - "[[Tongxue]]"
 - "[[Three Excellences (San Hao Sheng)]]"
+- "[[Tall Poppy Syndrome]]"
+- "[[Codeswitcher (School)]]"
+- "[[Talent Assumption]]"
 processed_date: 2026-05-23
 ---
 
