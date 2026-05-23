@@ -63,6 +63,9 @@ extracted_to:
 - "[[Learned Helplessness]]"
 - "[[Appraisal Theory]]"
 - "[[Pride in Learning]]"
+- "[[Nerd (School Peer Culture)]]"
+- "[[Tongxue]]"
+- "[[Three Excellences (San Hao Sheng)]]"
 processed_date: 2026-05-23
 ---
 

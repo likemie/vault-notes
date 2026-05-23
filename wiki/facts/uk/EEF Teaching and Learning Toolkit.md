@@ -21,6 +21,8 @@ related_concepts:
 - '[[Effect Size]]'
 - '[[Moral Sidestep]]'
 - '[[Selective Education]]'
+- '[[Educational Evidence Clearinghouses]]'
+- '[[Knowledge Mobilisation]]'
 related_theories:
 - '[[Legitimation Theory Van Leeuwen]]'
 related_methods: []
@@ -32,7 +34,8 @@ related_persons:
 - '[[Adrian Simpson]]'
 related_facts:
 - '[[Ofsted]]'
-related_arguments: []
+related_arguments:
+- '[[Argument_Pellegrini_2021_ROE]]'
 sources:
 - '[[Cowen_2015_CHESS]]'
 - '[[Cowen_2019_ERE]]'
@@ -41,6 +44,7 @@ sources:
 - '[[Wrigley_2019_ERE]]'
 - '[[Simpson_2017_JEP]]'
 - '[[Bainbridge_2022_ROE]]'
+- '[[Pellegrini_2021_ROE]]'
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -55,6 +59,8 @@ updated: '2026-05-18'
 >
 > 英国教育部在 Coldwell et al.（2017）报告中将 EEF 列为官方认可的"approved"证据来源之一（与 Sutton Trust 和 [[John Hattie]] 并列），同时将 [[Ofsted]] 和议会内部报告排除在证据定义之外。然而，Bainbridge et al.（2022）发现，在实际政策制定中，Ofsted 评级被混同为研究证据使用，而符合政府定义的 EEF Toolkit 等学术证据来源反被回避（Bainbridge et al., 2022, p.4, 27）。
 >
+
+Pellegrini & Vivanet 将 EEF 放入欧洲证据基础设施中理解：EEF 不仅维护 Toolkit，还资助独立评价、开展研究综述，并通过 Research Schools Network 支持学校使用证据；其功能与 [[Educational Evidence Clearinghouses]] 和 [[Knowledge Mobilisation]] 相连接（Pellegrini & Vivanet, 2021, pp.32-33）。
 
 ## 运作方式
 
@@ -215,3 +221,4 @@ updated: '2026-05-18'
 - [[Wrigley_2018_BERJ]]
 - [[Wrigley_2019_ERE]]
 - [[Bainbridge_2022_ROE]]
+- [[Pellegrini_2021_ROE]]

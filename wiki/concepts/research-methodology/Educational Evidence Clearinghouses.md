@@ -36,6 +36,15 @@ related_facts:
 - '[[What Works Clearinghouse (WWC)]]'
 - '[[ESSA 2015 Evidence Standards]]'
 - '[[EU Evidence-Informed Education Policy Initiatives]]'
+- '[[EEF Teaching and Learning Toolkit]]'
+- '[[Campbell Collaboration]]'
+- '[[Danish Clearinghouse for Educational Research]]'
+- '[[EPPI-Centre]]'
+- '[[Institute for Effective Education]]'
+- '[[Swedish Institute for Educational Research]]'
+- '[[Top Institute for Evidence-Based Education Research]]'
+- '[[Centre for the Use of Research and Evidence in Education]]'
+- '[[Evidence-Based Teachers Network]]'
 related_arguments:
 - '[[Argument_Ross_Morrison_2021_ROE]]'
 - '[[Argument_Pellegrini_2021_ROE]]'
@@ -146,9 +155,15 @@ updated: '2026-05-23'
 
 - [[What Works Clearinghouse (WWC)]] — 教育领域 public 清算中心，评价项目、政策、实践和研究；在 1,359 个项目样本中贡献 537 个项目，且在教育生态中具有特殊可见度（Wadhwa et al., 2024, pp.7, 16, 28）。
 - [[Best Evidence Encyclopedia (BEE)]] — 教育领域清算中心，目标人群为学生，评级对象为项目，在比较样本中贡献 124 个教育项目（Wadhwa et al., 2024, pp.7, 16）。
-- EEF Teaching and Learning Toolkit — 英国 EEF 维护的证据资源，面向学校专业人员提供关于教学策略有效性的证据；EEF 同时资助独立评价、开展研究综述，并通过 Research Schools Network 推动证据使用（Pellegrini & Vivanet, 2021, pp.32-33, 35）。
-- Danish Clearinghouse for Educational Research — 2006 年在奥胡斯大学设立，是欧洲大陆较早的证据本位教育中心之一，通过系统综述为丹麦学校实践者提供研究信息（Pellegrini & Vivanet, 2021, p.32）。
-- Campbell Collaboration — 虽起源于英美社会科学证据运动，但 2007 年将主办公室迁至挪威，并在社会、经济和教育干预领域开展系统综述，体现欧洲证据生产基础设施的一部分（Pellegrini & Vivanet, 2021, p.32）。
+- [[EEF Teaching and Learning Toolkit]] — 英国 EEF 维护的证据资源；欧洲语境中的完整机构功能写在 EEF 条目和 [[Argument_Pellegrini_2021_ROE]]。
+- [[Campbell Collaboration]] — 系统综述型证据组织，2007 年将国际总部迁至挪威。
+- [[Danish Clearinghouse for Educational Research]] — 丹麦国家语境中的系统综述型教育证据中心。
+- [[EPPI-Centre]] — 英国系统综述和研究使用指导中心。
+- [[Institute for Effective Education]] — 英国连接学校支持、严格评价、Evidence in Brief 和 Evidence 4 Impact 的证据机构。
+- [[Swedish Institute for Educational Research]] — 瑞典系统综述、传播和研究资助机构。
+- [[Top Institute for Evidence-Based Education Research]] — 荷兰跨大学证据本位教育研究所。
+- [[Centre for the Use of Research and Evidence in Education]] — 英国研究转译和实践材料开发机构。
+- [[Evidence-Based Teachers Network]] — 英国教师、研究者和教育利益相关者证据分享网络。
 - [[Collaborative for Academic Social and Emotional Learning Guide (CASEL)]] — 聚焦社会情感学习项目的非营利教育清算中心，在比较样本中贡献 25 个项目（Wadhwa et al., 2024, pp.7, 16）。
 - [[National Dropout Prevention Center (NDPC)]] — 聚焦辍学预防项目的非营利教育清算中心；在四个详细比较对象中，其最高评级门槛最低（Wadhwa et al., 2024, pp.7, 15-16）。
 - [[Blueprints for Healthy Youth Development]] — 多领域、非营利清算中心，目标人群为 youth；最高评级要求高质量研究、独立复制和 12 个月持续效果（Wadhwa et al., 2024, pp.7, 14-15）。

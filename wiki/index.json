@@ -152,6 +152,17 @@
     ]
   },
   {
+    "title": "Tongxue",
+    "path": "wiki/concepts/chinese-philosophy/Tongxue.md",
+    "aliases": [
+      "同学",
+      "同學",
+      "tongxue",
+      "learning peer",
+      "learning friend"
+    ]
+  },
+  {
     "title": "Interpretation Community",
     "path": "wiki/concepts/communication-discourse/Interpretation Community.md",
     "aliases": [
@@ -408,6 +419,17 @@
     "aliases": [
       "世界化",
       "mondialisation"
+    ]
+  },
+  {
+    "title": "Nerd (School Peer Culture)",
+    "path": "wiki/concepts/comparative-education/Nerd (School Peer Culture).md",
+    "aliases": [
+      "书呆子",
+      "nerd",
+      "geek",
+      "nerd harassment",
+      "anti-intellectual peer culture"
     ]
   },
   {
@@ -3914,6 +3936,16 @@
     ]
   },
   {
+    "title": "Three Excellences (San Hao Sheng)",
+    "path": "wiki/facts/china/Three Excellences (San Hao Sheng).md",
+    "aliases": [
+      "三好生",
+      "三好学生",
+      "Students with Three Excellences",
+      "san hao sheng"
+    ]
+  },
+  {
     "title": "Hattie på dansk 2017",
     "path": "wiki/facts/denmark/Hattie på dansk 2017.md",
     "aliases": [
@@ -3925,6 +3957,14 @@
     "path": "wiki/facts/denmark/SFI Report 2013.md",
     "aliases": [
       "SFI报告2013"
+    ]
+  },
+  {
+    "title": "Danish Clearinghouse for Educational Research",
+    "path": "wiki/facts/denmark/Danish Clearinghouse for Educational Research.md",
+    "aliases": [
+      "丹麦教育研究清算中心",
+      "Danish Clearinghouse"
     ]
   },
   {
@@ -4107,6 +4147,14 @@
     ]
   },
   {
+    "title": "Campbell Collaboration",
+    "path": "wiki/facts/global/Campbell Collaboration.md",
+    "aliases": [
+      "坎贝尔协作组织",
+      "Campbell"
+    ]
+  },
+  {
     "title": "GATS and Trade in Education Services",
     "path": "wiki/facts/global/GATS and Trade in Education Services.md",
     "aliases": [
@@ -4265,6 +4313,14 @@
     ]
   },
   {
+    "title": "Top Institute for Evidence-Based Education Research",
+    "path": "wiki/facts/netherlands/Top Institute for Evidence-Based Education Research.md",
+    "aliases": [
+      "TIER",
+      "荷兰证据本位教育研究顶尖研究所"
+    ]
+  },
+  {
     "title": "Cognition Education (NZ)",
     "path": "wiki/facts/newzealand/Cognition Education (NZ).md",
     "aliases": [
@@ -4389,6 +4445,14 @@
     ]
   },
   {
+    "title": "Swedish Institute for Educational Research",
+    "path": "wiki/facts/sweden/Swedish Institute for Educational Research.md",
+    "aliases": [
+      "瑞典教育研究所",
+      "Skolforskningsinstitutet"
+    ]
+  },
+  {
     "title": "UAE Education Hub Projects",
     "path": "wiki/facts/uae/UAE Education Hub Projects.md",
     "aliases": [
@@ -4429,6 +4493,14 @@
     ]
   },
   {
+    "title": "Centre for the Use of Research and Evidence in Education",
+    "path": "wiki/facts/uk/Centre for the Use of Research and Evidence in Education.md",
+    "aliases": [
+      "CUREE",
+      "教育研究与证据使用中心"
+    ]
+  },
+  {
     "title": "Committee for the Accreditation of Teacher Education",
     "path": "wiki/facts/uk/Committee for the Accreditation of Teacher Education.md",
     "aliases": [
@@ -4459,10 +4531,34 @@
     ]
   },
   {
+    "title": "EPPI-Centre",
+    "path": "wiki/facts/uk/EPPI-Centre.md",
+    "aliases": [
+      "Evidence for Policy and Practice Information and Co-ordinating Centre",
+      "政策与实践证据信息协调中心"
+    ]
+  },
+  {
+    "title": "Evidence-Based Teachers Network",
+    "path": "wiki/facts/uk/Evidence-Based Teachers Network.md",
+    "aliases": [
+      "EBTN",
+      "证据本位教师网络"
+    ]
+  },
+  {
     "title": "Grammar School",
     "path": "wiki/facts/uk/Grammar School.md",
     "aliases": [
       "文法学校"
+    ]
+  },
+  {
+    "title": "Institute for Effective Education",
+    "path": "wiki/facts/uk/Institute for Effective Education.md",
+    "aliases": [
+      "IEE",
+      "有效教育研究所"
     ]
   },
   {

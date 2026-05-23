@@ -20,11 +20,22 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Knowledge Mobilisation]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Europe 2020 Strategy]]"
+  - "[[ESSA 2015 Evidence Standards]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Campbell Collaboration]]"
+  - "[[Danish Clearinghouse for Educational Research]]"
+  - "[[EPPI-Centre]]"
+  - "[[Institute for Effective Education]]"
+  - "[[Swedish Institute for Educational Research]]"
+  - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[Centre for the Use of Research and Evidence in Education]]"
+  - "[[Evidence-Based Teachers Network]]"
 related_arguments:
   - "[[Argument_Pellegrini_2021_ROE]]"
 sources:
@@ -40,14 +51,14 @@ updated: 2026-05-23
 ## 背景
 
 > [!info] 背景
-> 欧盟层面的证据知情教育政策倡议不是一项单一法案，而是一组自 2006 年以来逐步形成的政策信号、工作文件、知识中介项目和支持机制。其共同方向是鼓励成员国在教育政策和实践决策中使用研究证据，但由于教育主要由各国负责，欧盟文件通常提供指导而非强制要求（Pellegrini & Vivanet, 2021, pp.26, 28）。
+> 欧盟层面的证据知情教育政策倡议不是一项单一法案，而是一组自 2006 年以来逐步形成的政策信号、工作文件、知识中介项目和支持机制。其共同方向是鼓励成员国在教育政策和实践决策中使用研究证据，但由于教育主要由各国负责，欧盟文件通常提供指导而非强制要求；完整论证见 [[Argument_Pellegrini_2021_ROE]]（Pellegrini & Vivanet, 2021, pp.26, 28）。
 
-欧洲更常使用 “evidence-informed education” 而不是 “evidence-based education”。这一用语差异很重要：在研究层面，它允许定性研究和混合方法进入证据来源；在政策层面，它意味着欧盟文件更倾向建议成员国使用证据，而不是规定统一的证据标准或行动线（Pellegrini & Vivanet, 2021, p.26）。
+欧洲更常使用 [[Evidence-Informed Practice|evidence-informed education]] 而不是 [[Evidence-Based Education|evidence-based education]]。这一用语差异很重要：在研究层面，它允许定性研究和混合方法进入证据来源；在政策层面，它意味着欧盟文件更倾向建议成员国使用证据，而不是规定统一的证据标准或行动线（Pellegrini & Vivanet, 2021, p.26）。
 
 ## 政策文本摘要
 
 > [!abstract] 政策摘要
-> 欧盟证据知情教育政策倡议主要围绕三件事展开：建立评价文化，改善研究、政策和实践之间的联系，发展能把研究证据转化给政策制定者和学校使用的知识中介机制（Pellegrini & Vivanet, 2021, pp.28-31）。
+> 欧盟证据知情教育政策倡议主要围绕三件事展开：建立评价文化，改善研究、政策和实践之间的联系，发展能把研究证据转化给政策制定者和学校使用的 [[Educational Evidence Clearinghouses|知识中介机制]]（Pellegrini & Vivanet, 2021, pp.28-31）。
 
 2007 年欧洲委员会工作文件把知识本位政策与实践拆成三个维度：知识创造、知识应用和知识中介。知识创造指研究本位知识的生产；知识应用指政策制定者和实践者使用证据；知识中介则是把知识转译成可获得、可理解、可使用的形式（Pellegrini & Vivanet, 2021, p.29）。
 
@@ -69,12 +80,14 @@ updated: 2026-05-23
 > [!example] 实施情况
 > 欧洲层面的实施主要表现为网络、报告和知识中介机制，而不是统一的欧盟教育项目清单。EIPPEE 调查显示，各国尝试改善研究证据在政策场景中的使用，活动水平较高、路径多样，但跨欧洲层面的协作和协调仍较少（Pellegrini & Vivanet, 2021, p.30）。
 
-在成员国层面，英国被视为欧洲较前沿的案例。英国 1999 年白皮书 “Modernizing Government” 明确承诺证据本位决策，随后建立 EPPI-Centre 等研究中心；EEF 则以政府资助的独立慈善组织身份生成和转化学校证据（Pellegrini & Vivanet, 2021, p.31）。
+在成员国层面，英国被视为欧洲较前沿的案例。英国 1999 年白皮书 “Modernizing Government” 明确承诺证据本位决策，随后建立 [[EPPI-Centre]] 等研究中心；[[EEF Teaching and Learning Toolkit|EEF]] 则以政府资助的独立慈善组织身份生成和转化学校证据（Pellegrini & Vivanet, 2021, p.31）。
+
+相关证据机构分工写在各自条目中：[[Campbell Collaboration]]、[[Danish Clearinghouse for Educational Research]]、[[Institute for Effective Education]]、[[Swedish Institute for Educational Research]] 和 [[Top Institute for Evidence-Based Education Research]] 偏向证据生成、评价或综述；[[Centre for the Use of Research and Evidence in Education]] 与 [[Evidence-Based Teachers Network]] 偏向证据传播、教师网络和实践者培训（Pellegrini & Vivanet, 2021, pp.32-34）。
 
 ## 效果与评价
 
 > [!success] 评价
-> 欧盟证据倡议推动了欧洲教育政策话语中的证据使用意识，也促成了 EIPPEE、Eurydice 支持机制和多个国家层面的证据中介组织。但这些倡议仍未被系统纳入所有成员国实践，除促进证据交流的网络外，不少项目彼此之间显得分散（Pellegrini & Vivanet, 2021, pp.41-42）。
+> 欧盟证据倡议推动了欧洲教育政策话语中的证据使用意识，也促成了 EIPPEE、Eurydice 支持机制和多个国家层面的证据中介组织。但这些倡议仍未被系统纳入所有成员国实践，除促进证据交流的网络外，不少项目彼此之间显得分散；这一判断的推理链集中写在 [[Argument_Pellegrini_2021_ROE]]（Pellegrini & Vivanet, 2021, pp.41-42）。
 
 > [!info]- 核心数据
 > - Eurydice 网络包括 38 个 Erasmus+ 项目国家中的 43 个国家单位，用于说明欧洲教育系统如何组织和运行（Pellegrini & Vivanet, 2021, p.43）。
@@ -83,9 +96,9 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning] 主要问题
-> - 政策力度有限：欧盟官方文件鼓励使用证据，但通常不规定具体行动线；这使欧洲证据知情教育政策更像“软治理”而非统一制度安排（Pellegrini & Vivanet, 2021, pp.26, 41-42）。
+> - 政策力度有限：欧盟官方文件鼓励使用证据，但通常不规定具体行动线；这使欧洲证据知情教育政策更像“软治理”而非统一制度安排。与 [[ESSA 2015 Evidence Standards|ESSA]] 的对照见 [[Argument_Pellegrini_2021_ROE]]（Pellegrini & Vivanet, 2021, pp.26, 41-42）。
 > - 协调不足：EIPPEE 发现欧洲国家活动水平较高，但跨欧洲合作和协调较少；文章也判断许多证据生产和传播倡议彼此之间仍较分散（Pellegrini & Vivanet, 2021, pp.30, 42）。
-> - 外部效度和复用困难：证据不能当作可在任何情境复制的“菜谱”；欧洲多教育系统、多语言、多课程结构放大了项目迁移难度（Pellegrini & Vivanet, 2021, pp.35-36）。
+> - 外部效度和复用困难：证据不能当作可在任何情境复制的“菜谱”；欧洲多教育系统、多语言、多课程结构放大了项目迁移难度。具体论证见 [[Argument_Pellegrini_2021_ROE]]（Pellegrini & Vivanet, 2021, pp.35-36）。
 
 ## 相关概念／理论
 
