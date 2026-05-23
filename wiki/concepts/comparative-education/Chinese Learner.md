@@ -36,7 +36,7 @@ related_concepts:
 - '[[Paradox of the Chinese Learner]]'
 - '[[Learning Gap]]'
 - '[[Confucian Heritage Cultures]]'
-- '[[Establishing One's Will (lizhi)]]'
+- '[[Establishing One''s Will (lizhi)]]'
 - '[[Shu (Familiarization)]]'
 - '[[Jing (Refined Mastery)]]'
 - '[[Cultural Models]]'
