@@ -58,11 +58,11 @@ extracted_to:
 - "[[Self-Worth Theory]]"
 - "[[Experience Sampling Method]]"
 - "[[Cram Schools]]"
-  - "[[Self-Efficacy]]"
-  - "[[Locus of Control]]"
-  - "[[Learned Helplessness]]"
-  - "[[Appraisal Theory]]"
-  - "[[Pride in Learning]]"
+- "[[Self-Efficacy]]"
+- "[[Locus of Control]]"
+- "[[Learned Helplessness]]"
+- "[[Appraisal Theory]]"
+- "[[Pride in Learning]]"
 processed_date: 2026-05-23
 ---
 

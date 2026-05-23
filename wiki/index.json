@@ -3943,6 +3943,16 @@
     ]
   },
   {
+    "title": "EU Evidence-Informed Education Policy Initiatives",
+    "path": "wiki/facts/eu/EU Evidence-Informed Education Policy Initiatives.md",
+    "aliases": [
+      "欧盟证据知情教育政策倡议",
+      "European evidence-informed education policy",
+      "evidence-informed education in Europe",
+      "EIPPEE"
+    ]
+  },
+  {
     "title": "EU Skills Agenda",
     "path": "wiki/facts/eu/EU Skills Agenda.md",
     "aliases": [
@@ -4868,6 +4878,10 @@
   {
     "title": "Argument_Marginson_2025_ROE",
     "path": "wiki/arguments/journal-articles/Argument_Marginson_2025_ROE.md"
+  },
+  {
+    "title": "Argument_Pellegrini_2021_ROE",
+    "path": "wiki/arguments/journal-articles/Argument_Pellegrini_2021_ROE.md"
   },
   {
     "title": "Argument_Ross_Morrison_2021_ROE",

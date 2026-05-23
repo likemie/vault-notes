@@ -39,8 +39,10 @@ related_facts:
 - '[[No Child Left Behind Act 2001]]'
 - '[[ESSA 2015 Evidence Standards]]'
 - '[[Students and Teachers Accessing Tomorrow (STAT)]]'
+- '[[EU Evidence-Informed Education Policy Initiatives]]'
 related_arguments:
 - '[[Argument_Ross_Morrison_2021_ROE]]'
+- '[[Argument_Pellegrini_2021_ROE]]'
 sources:
 - '[[Slavin_2002_ER]]'
 - '[[Slavin_2019_EP]]'
@@ -50,6 +52,7 @@ sources:
 - '[[Cheung_2021_ROE]]'
 - '[[Wadhwa_2024_RER]]'
 - '[[Ross_Morrison_2021_ROE]]'
+- '[[Pellegrini_2021_ROE]]'
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -82,7 +85,11 @@ Cheung & Xie (2021) 的特刊汇集了来自亚洲、北美、欧洲七个国家
 
 ### 欧洲证据政策进展
 
-Pellegrini & Vivanet (2020) 审视了欧洲证据本位教育政策的进展：该进程始于 2006 年，通过多项旨在传播证据文化的倡议取得了显著进展。Edovald & Nevill (2020) 总结了英国 Education Endowment Foundation (EEF) 作为 What Works 运动旗舰组织的成功经验：快速扩展学校本位 RCT、设定高标准的研究独立性、透明度和设计标准（Cheung & Xie, 2021, p.2）。
+欧洲的证据本位改革路径比美国 ESSA 式证据标准更软。欧盟层面从 2006 年开始通过评价文化、知识本位政策文件、ET 2020 进展监测、EIPPEE 知识中介网络和 Eurydice 支持机制鼓励成员国在教育政策中使用证据；但这些文件主要是指导和协调，而不是强制规定统一行动线（Pellegrini & Vivanet, 2021, pp.28-31, 41-42）。详见 [[EU Evidence-Informed Education Policy Initiatives]]。
+
+这种路径使欧洲更常采用 evidence-informed education 的表述：证据来源不限于实验研究，也包括定性和混合方法；政策上则强调为成员国提供方向，而非像 ESSA 那样把拨款和项目证据等级直接绑定（Pellegrini & Vivanet, 2021, p.26）。欧洲推进 EBR 的主要障碍不是“是否需要证据”，而是 43 个教育系统、24 种官方语言和不同课程标准使经验证项目难以直接跨国复用（Pellegrini & Vivanet, 2021, p.36）。
+
+Edovald & Nevill (2020) 总结了英国 Education Endowment Foundation (EEF) 作为 What Works 运动旗舰组织的成功经验：快速扩展学校本位 RCT、设定高标准的研究独立性、透明度和设计标准（Cheung & Xie, 2021, p.2）。
 
 ## 与 Evidence-Based Education 的区别
 
@@ -324,3 +331,4 @@ Wrigley (2018) 和 Simpson (2017) 对 EEF Toolkit 提出系统性技术批评：
 - [[Cheung_2021_ROE]]
 - [[Wadhwa_2024_RER]]
 - [[Ross_Morrison_2021_ROE]]
+- [[Pellegrini_2021_ROE]]
