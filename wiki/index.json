@@ -163,6 +163,16 @@
     ]
   },
   {
+    "title": "Grice's Conversational Maxims",
+    "path": "wiki/concepts/communication-discourse/Grice's Conversational Maxims.md",
+    "aliases": [
+      "格莱斯会话准则",
+      "Gricean maxims",
+      "cooperative principles",
+      "合作原则"
+    ]
+  },
+  {
     "title": "Interpretation Community",
     "path": "wiki/concepts/communication-discourse/Interpretation Community.md",
     "aliases": [
@@ -423,6 +433,16 @@
       "学习差距",
       "ability vs effort",
       "能力归因与努力归因"
+    ]
+  },
+  {
+    "title": "Listening-Oriented Learning",
+    "path": "wiki/concepts/comparative-education/Listening-Oriented Learning.md",
+    "aliases": [
+      "倾听导向学习",
+      "listening-centred learning",
+      "silent participation",
+      "沉默参与"
     ]
   },
   {
@@ -1346,6 +1366,15 @@
     ]
   },
   {
+    "title": "Devil's Advocate",
+    "path": "wiki/concepts/instruction-pedagogy/Devil's Advocate.md",
+    "aliases": [
+      "魔鬼代言人",
+      "devil's advocate practice",
+      "devil's advocate speaking"
+    ]
+  },
+  {
     "title": "Direct Instruction",
     "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
     "aliases": [
@@ -1402,6 +1431,16 @@
     "aliases": [
       "问题本位学习",
       "PBL"
+    ]
+  },
+  {
+    "title": "Revoicing",
+    "path": "wiki/concepts/instruction-pedagogy/Revoicing.md",
+    "aliases": [
+      "重铸",
+      "话语重构",
+      "teacher revoicing",
+      "O'Connor and Michaels revoicing"
     ]
   },
   {
