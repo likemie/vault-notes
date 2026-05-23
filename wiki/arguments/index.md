@@ -8,7 +8,7 @@ Total entries: **93**
 
 ### Argument_Bates_2017_CognitionEducationTrust.md
 
-- [[Argument_Bates_2017_CognitionEducationTrust]] — 围绕一家新西兰教育企业及其慈善信托近三十年的组织变迁，借助组织史材料说明其如何在政策波动与经济冲击中维持商业扩张和公益使命
+- [[Argument_Bates_2017_CognitionEducationTrust]] — 受信托委托撰写的组织史 通过 Darwin finch 隐喻把 Cognition Education 的多次转向重写为适应性证据 并把商业扩张与公益使命组织成同一套自我解释
 
 ### Argument_Li_2012_Cambridge.md
 
