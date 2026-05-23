@@ -20,6 +20,8 @@ related_concepts:
 - '[[Symbolic Violence]]'
 - '[[Nerd (School Peer Culture)]]'
 - '[[Talent Assumption]]'
+- '[[Intellectual-Social Divide]]'
+- '[[Zero-Sum Competition (School)]]'
 related_theories:
 - '[[Pierre Bourdieu]]'
 related_methods: []
@@ -36,7 +38,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-09'
-updated: '2026-05-23'
+updated: '2026-05-24'
 ---
 
 # Doxa

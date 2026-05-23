@@ -19,6 +19,8 @@ related_concepts:
   - "[[Tall Poppy Syndrome]]"
   - "[[Learning Gap]]"
   - "[[Doxa]]"
+  - "[[Intellectual-Social Divide]]"
+  - "[[Zero-Sum Competition (School)]]"
 related_theories:
   - "[[Self-Worth Theory]]"
 related_methods: []
@@ -31,7 +33,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-05-24
 ---
 
 # Talent Assumption
@@ -79,7 +81,7 @@ updated: 2026-05-23
 ## 在同伴文化中的后果
 
 > [!warning]
-> 天赋假设是 [[Nerd (School Peer Culture)|nerd 同伴文化]]的关键发动机之一（Li, 2012, pp.96–97）：
+> 天赋假设是 [[Nerd (School Peer Culture)|nerd 同伴文化]]的关键发动机之一，与 [[Zero-Sum Competition (School)|零和竞争]]和 [[Intellectual-Social Divide|知性-社交二分]]共同构成 nerd 文化的因果网络（Li, 2012, pp.94–99）：
 
 1. **低能力 + 努力 = 双重骚扰**：在 Bishop 研究中，那些被认为"能力低但仍然努力学习"的学生受到了最严重的同伴骚扰——因为他们被认为在"徒劳地改变不可改变的命运"
 2. **高能力 + 不努力 = 免于骚扰**：成绩来自高 IQ（被视为无意的、天生的）的学生很少受到制裁——"effortless perfection"（毫不费力的完美）在同伴中不被视为威胁

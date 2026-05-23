@@ -58,6 +58,8 @@ related_concepts:
 - '[[Tall Poppy Syndrome]]'
 - '[[Codeswitcher (School)]]'
 - '[[Talent Assumption]]'
+- '[[Intellectual-Social Divide]]'
+- '[[Zero-Sum Competition (School)]]'
 related_theories:
 - '[[Confucian Learning Tradition]]'
 - '[[Attribution Theory]]'

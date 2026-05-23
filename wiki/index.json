@@ -372,6 +372,16 @@
     ]
   },
   {
+    "title": "Intellectual-Social Divide",
+    "path": "wiki/concepts/comparative-education/Intellectual-Social Divide.md",
+    "aliases": [
+      "知性-社交二分",
+      "智识-社交分离",
+      "intellectual-social divide",
+      "知性与社交的对立"
+    ]
+  },
+  {
     "title": "International Education",
     "path": "wiki/concepts/comparative-education/International Education.md",
     "aliases": [
@@ -561,6 +571,17 @@
       "VoC",
       "varieties of capitalism",
       "生产体制"
+    ]
+  },
+  {
+    "title": "Zero-Sum Competition (School)",
+    "path": "wiki/concepts/comparative-education/Zero-Sum Competition (School).md",
+    "aliases": [
+      "零和竞争",
+      "zero-sum competition",
+      "零和博弈式竞争",
+      "mutually exclusive competition",
+      "排他性竞争"
     ]
   },
   {

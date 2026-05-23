@@ -15,6 +15,8 @@ tags:
 related_concepts:
   - "[[Nerd (School Peer Culture)]]"
   - "[[Entity vs Incremental Intelligence]]"
+  - "[[Intellectual-Social Divide]]"
+  - "[[Zero-Sum Competition (School)]]"
 related_theories:
   - "[[Self-Worth Theory]]"
 related_methods: []
@@ -27,7 +29,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-05-24
 ---
 
 # Tall Poppy Syndrome
@@ -62,7 +64,7 @@ Feather 使用的"高罂粟的倒下"（fall of the tall poppy）隐喻精确捕
 > [!example]
 > 高罂粟综合征在 [[Nerd (School Peer Culture)|西方学校同伴文化]]中表现为：高学业成就者成为同伴骚扰的主要目标。Bishop 兄弟对 110,000+ 名美国中学生的大规模研究确认了这一点——学业成就偏离常规水平（无论是低端还是高端）的学生受到最多的同伴骚扰（Li, 2012, p.91）。
 
-这一现象与 [[Entity vs Incremental Intelligence|实体智力观]]密切相关：在"智力是固定的"信念系统中，别人的高成就直接威胁到自己的自我价值。高罂粟倒下后，观察者感到的不只是娱乐——更是一种**自我价值的相对恢复**："他掉下来了，所以我没那么差"。
+这一现象与 [[Entity vs Incremental Intelligence|实体智力观]]密切相关：在"智力是固定的"信念系统中，别人的高成就直接威胁到自己的自我价值——这种"你赢即我输"的逻辑正是 [[Zero-Sum Competition (School)|零和竞争]]的核心特征。高罂粟倒下后，观察者感到的不只是娱乐——更是一种**自我价值的相对恢复**："他掉下来了，所以我没那么差"。同时，高成就者被系统性地视为"更不善社交"（Li, 2012, p.90），这反映了 [[Intellectual-Social Divide|知性-社交二分]]在同伴态度中的运作。
 
 详细的论证拆解、证据链和跨文化对比见 [[Argument_Li_2012_Cambridge#第 6 章 Nerd's Hell and Nerd's Haven|Li (2012) 第 6 章]]。
 
@@ -71,7 +73,7 @@ Feather 使用的"高罂粟的倒下"（fall of the tall poppy）隐喻精确捕
 ## 跨文化视角
 
 > [!note]
-> Li 指出，高罂粟综合征并非人类普遍现象——它主要在**西方文化**中运作，这与西方的固定自我观和零和竞争观密切相关。在东亚文化中，高学业成就者通常被尊重和模仿，而非被贬抑。但这并不意味着东亚完全没有"抑制突出者"的现象——"枪打出头鸟"确实存在于东亚社会生活中，但主要在涉及**社会经济资源分配**的领域（而非修身学习的领域）起作用（Li, 2012, pp.112–113）。
+> Li 指出，高罂粟综合征并非人类普遍现象——它主要在**西方文化**中运作，这与西方的 [[Entity vs Incremental Intelligence|固定自我观]]、[[Zero-Sum Competition (School)|零和竞争观]]和 [[Intellectual-Social Divide|知性-社交二分]]密切相关。在东亚文化中，高学业成就者通常被尊重和模仿，而非被贬抑。但这并不意味着东亚完全没有"抑制突出者"的现象——"枪打出头鸟"确实存在于东亚社会生活中，但主要在涉及**社会经济资源分配**的领域（而非修身学习的领域）起作用（Li, 2012, pp.112–113）。
 
 ---
 

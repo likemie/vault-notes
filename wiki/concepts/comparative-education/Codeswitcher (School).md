@@ -18,6 +18,9 @@ related_concepts:
   - "[[Nerd (School Peer Culture)]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Entity vs Incremental Intelligence]]"
+  - "[[Intellectual-Social Divide]]"
+  - "[[Zero-Sum Competition (School)]]"
+  - "[[Talent Assumption]]"
 related_theories:
   - "[[Self-Worth Theory]]"
 related_methods: []
@@ -30,7 +33,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-05-24
 ---
 
 # Codeswitcher (School)
@@ -79,7 +82,7 @@ updated: 2026-05-23
 ## 在同伴文化中的功能
 
 > [!tip]
-> 代码切换揭示了一个更深层的问题：在[[Nerd (School Peer Culture)|nerd 文化]]中，**公开表达学习兴趣和努力本身就是冒险行为**。这产生了一个悖论——学校和家长鼓励学生努力学习，但同伴文化惩罚那些公开表达努力的学生。代码切换是学生在这个矛盾中发明的自保策略。
+> 代码切换揭示了一个更深层的问题：在[[Nerd (School Peer Culture)|nerd 文化]]中，**公开表达学习兴趣和努力本身就是冒险行为**。之所以冒险，是因为 [[Intellectual-Social Divide|知性-社交二分]]使理智兴趣被等同于"社交缺陷"，而 [[Zero-Sum Competition (School)|零和竞争]]使努力被解读为"试图超越同伴"。这产生了一个悖论——学校和家长鼓励学生努力学习，但同伴文化惩罚那些公开表达努力的学生。代码切换是学生在这个矛盾中发明的自保策略。
 
 更广泛的文化根源分析见 [[Argument_Li_2012_Cambridge#第 3 步：拆解西方 nerd 文化的四重根源|Li (2012) 第 6 章第 3 步]]。
 

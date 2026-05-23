@@ -17,6 +17,8 @@ related_concepts:
   - "[[Entity vs Incremental Intelligence]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Western Learner]]"
+  - "[[Intellectual-Social Divide]]"
+  - "[[Zero-Sum Competition (School)]]"
 related_theories: []
 related_methods: []
 related_persons: []

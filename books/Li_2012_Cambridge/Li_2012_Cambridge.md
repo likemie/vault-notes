@@ -69,7 +69,9 @@ extracted_to:
 - "[[Tall Poppy Syndrome]]"
 - "[[Codeswitcher (School)]]"
 - "[[Talent Assumption]]"
-processed_date: 2026-05-23
+- "[[Intellectual-Social Divide]]"
+- "[[Zero-Sum Competition (School)]]"
+processed_date: 2026-05-24
 ---
 
 # Li_2012_Cambridge
