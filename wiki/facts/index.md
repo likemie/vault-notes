@@ -218,7 +218,7 @@ Total entries: **123**
 - [[Communities in Schools (CIS)]] — Wadhwa et al. (2024) 的清算中心评级分歧案例：NDPC 推荐，PPN/CNCS 认为 promising 或中等支持，Blueprints/CMFR 不背书
 - [[Creation of REES 2018]] — IES 于 2018 年启动的教育项目评估预注册平台（Registry of Efficacy and Effectiveness Studies），旨在缓解可疑研究实践并增加对知识库的信心
 - [[Daubert v. Merrell Dow Pharmaceuticals (1993)]] — 美国联邦最高法院里程碑裁决，确立科学证据可采性标准，Berk (2011) 引入评估研究方法论讨论以框架化证据与垃圾科学的区分
-- [[ESSA 2015 Evidence Standards]] — 美国联邦教育主法首次定义强/中/有希望三级证据标准，将联邦拨款与使用达到证据标准的项目绑定
+- [[ESSA 2015 Evidence Standards]] — 美国联邦教育主法定义强/中/有希望与理论依据证据层级，将联邦拨款与使用达到证据标准的项目绑定
 - [[Home Visiting Evidence of Effectiveness (HomVEE)]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、QED、RDD 均有详细标准
 - [[Investing in Innovation (i3) Program]] — 2009–2016 年美国教育部 USD 1.4B 分层拨款项目，以开发→验证→规模化结构推动教育 RCT 证据生产
 - [[National Dropout Prevention Center (NDPC)]] — 聚焦辍学预防项目的非营利教育清算中心，在 Wadhwa et al. (2024) 四个详细比较对象中最高评级门槛最低

@@ -864,6 +864,16 @@
     ]
   },
   {
+    "title": "Technology Infusion",
+    "path": "wiki/concepts/educational-technology/Technology Infusion.md",
+    "aliases": [
+      "技术融入",
+      "技术整合",
+      "technology integration",
+      "technology infusion"
+    ]
+  },
+  {
     "title": "Transhumanism",
     "path": "wiki/concepts/educational-technology/Transhumanism.md",
     "aliases": [
@@ -4649,6 +4659,10 @@
   {
     "title": "Argument_Marginson_2025_ROE",
     "path": "wiki/arguments/journal-articles/Argument_Marginson_2025_ROE.md"
+  },
+  {
+    "title": "Argument_Ross_Morrison_2021_ROE",
+    "path": "wiki/arguments/journal-articles/Argument_Ross_Morrison_2021_ROE.md"
   },
   {
     "title": "Argument_Slavin_2021_ROE",

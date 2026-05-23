@@ -2,7 +2,7 @@
 title: ESSA 2015 Evidence Standards
 aliases:
   - ESSA证据标准
-summary: "美国联邦教育主法首次定义强/中/有希望三级证据标准，将联邦拨款与使用达到证据标准的项目绑定"
+summary: "美国联邦教育主法定义强/中/有希望与理论依据证据层级，将联邦拨款与使用达到证据标准的项目绑定"
 type: fact
 subtype: event
 region: us
@@ -21,14 +21,16 @@ related_methods: []
 related_persons:
 - '[[Robert Slavin]]'
 related_facts: []
-related_arguments: []
+related_arguments:
+- '[[Argument_Ross_Morrison_2021_ROE]]'
 sources:
 - '[[Slavin_2019_EP]]'
 - '[[Wolf_2020_JREE]]'
+- '[[Ross_Morrison_2021_ROE]]'
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-23'
 ---
 ## 概述
 
@@ -37,10 +39,10 @@ updated: '2026-05-18'
 >
 > > ESSA requires that low-achieving schools seeking school improvement grants adopt programs that meet one of the three definitions. (Slavin, 2019, p. 3)
 
-## 三层证据标准
+## 证据层级
 
-> [!abstract] 三层证据标准
-> ESSA 将证据分为三级（从强到弱）（Wolf et al., 2020, p. 428）：
+> [!abstract] 证据层级
+> ESSA 将证据分为强、中、有希望三个主要项目有效性层级（Wolf et al., 2020, p. 428），同时也包含第四层“有理论依据”的较弱支持形式（Ross & Morrison, 2021, p.109）：
 >
 > | 等级 | 英文 | 研究方法要求 | 最低研究数量 |
 > |------|------|------------|------------|
@@ -49,6 +51,8 @@ updated: '2026-05-18'
 > | **有希望** | Promising | 设计良好且实施良好的**相关研究**（统计控制选择偏差，correlational design with statistical controls for selection bias） | 至少 1 项 |
 >
 > 所有层级均需至少一项严格研究证明**统计显著**的正向效果，且**无研究显示负面效果**（Wolf et al., 2020, p. 428）。
+
+Ross 与 Morrison 将 ESSA 概括为四个有序证据层级：强证据对应 RCT；中等证据对应 QED；有希望证据对应带有选择偏差统计控制的相关研究；第四层是“展示理论依据”，即由研究支持且说明清楚的逻辑模型（Ross & Morrison, 2021, p.109）。
 
 ## 技术要求细节
 
@@ -86,8 +90,10 @@ updated: '2026-05-18'
 > - ESSA 首次将联邦拨款与具体的项目级有效性证据绑定——从此 "evidence-based" 从理念变为有法律强制力的政策杠杆
 > - 推动创建了 Evidence for ESSA（JHU 平台，月活 70,000+），直接面向教育领导者报告哪些项目满足 ESSA 标准
 > - 取代了 NCLB 不受欢迎的"适当年度进步"（AYP）问责框架，将政策重心从"惩罚低绩效学校"转向"为低绩效学校提供经过验证的改进方案"
+> - 相比 NCLB 时代，ESSA 证据层级对开发者、实践者和研究者更具现实后果，因为州和学区开始把这些层级正式用于项目审核与批准（Ross & Morrison, 2021, p.109）
 
 ## 来源
 
 - [[Slavin_2019_EP]]
 - [[Wolf_2020_JREE]]
+- [[Ross_Morrison_2021_ROE]]
