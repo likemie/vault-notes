@@ -11,10 +11,14 @@
             "id": "1ae9539e2ff14392",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/research-methodology/Local Knowledge in Evidence-Based Policy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Local Knowledge in Evidence-Based Policy"
             }
           }
         ]
@@ -185,6 +189,18 @@
   },
   "active": "1ae9539e2ff14392",
   "lastOpenFiles": [
+    "wiki/methods/quantitative/Experience Sampling Method.md",
+    "wiki/theories/learning-science-cognitive-science/Self-Worth Theory.md",
+    "wiki/theories/learning-science-cognitive-science/Attribution Theory.md",
+    "wiki/concepts/comparative-education/Affect-Respect and Ought-Respect.md",
+    "wiki/concepts/comparative-education/Humility in Learning.md",
+    "wiki/concepts/learning-science-cognitive-science/Entity vs Incremental Intelligence.md",
+    "wiki/concepts/learning-science-cognitive-science/Intrinsic vs Extrinsic Motivation.md",
+    "wiki/concepts/learning-science-cognitive-science/Flow.md",
+    "books/Li_2012_Cambridge/chapters/ch05.txt",
+    "books/Li_2012_Cambridge/Li_2012_Cambridge第五章.pdf",
+    "wiki/facts/us/Students and Teachers Accessing Tomorrow (STAT).md",
+    "wiki/methods/quantitative/Quasi-Experimental Designs.md",
     "vault-schema.md",
     "wiki/templates/template-argument.md",
     "index.md",
@@ -205,22 +221,10 @@
     "wiki/concepts/sociology-of-education/New Sociology of Education.md",
     "wiki/concepts/sociology-of-education/Political Arithmetic.md",
     "sources/Ball_2008_SR.md",
-    "wiki/concepts/educational-philosophy/Western Learner.md",
-    "wiki/concepts/comparative-education/Learning Gap.md",
-    "wiki/concepts/research-methodology/Cultural Models.md",
     "sources/Ball_2008_SR.pdf",
-    "Self-Determination Theory.md",
-    "CLAUDE.md",
-    "AGENTS.md",
     "sources/Wrigley_2019_ERE.pdf",
     "raw/ball2008.pdf",
-    "sources/Wrigley_2019_ERE.md",
     "sources/Terhart_2011_JCS.pdf",
-    "sources/Terhart_2011_JCS.md",
-    "sources/Snook_2010_NZJES.pdf",
-    "sources/Cowen_2019_ERE.md",
-    "sources/Cowen_2015_CHESS.pdf",
-    "sources/Cowen_2015_CHESS.md",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/iShot_2026-05-23_15.07.28.png",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",

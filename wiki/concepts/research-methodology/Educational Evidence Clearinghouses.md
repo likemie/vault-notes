@@ -25,7 +25,8 @@ related_concepts:
 - '[[Gating Procedure]]'
 related_theories:
 - '[[Campbellian Validity Framework]]'
-related_methods: []
+related_methods:
+- '[[Quasi-Experimental Designs]]'
 related_persons: []
 related_facts: []
 related_arguments:

@@ -20,7 +20,8 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
 sources:

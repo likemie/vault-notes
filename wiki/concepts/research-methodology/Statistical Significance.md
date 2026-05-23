@@ -11,6 +11,8 @@ tags:
 - effect-size
 - research-methodology
 related_concepts:
+- '[[Evidence-Based Education]]'
+- '[[Evidence-Based Reform]]'
 - '[[Effect Size]]'
 - '[[Confidence Interval]]'
 - '[[Publication Bias]]'
@@ -20,19 +22,23 @@ related_methods:
 - '[[Meta-analysis]]'
 - '[[Meta-meta-analysis]]'
 - '[[Randomised Controlled Trials]]'
+- '[[Quasi-Experimental Designs]]'
 related_persons:
 - '[[Jacob Cohen]]'
 - '[[John Hattie]]'
-related_facts: []
-related_arguments: []
+related_facts:
+- '[[ESSA 2015 Evidence Standards]]'
+related_arguments:
+- '[[Argument_Ross_Morrison_2021_ROE]]'
 sources:
 - '[[Allerup_2015_Paideia]]'
 - '[[Terhart_2011_JCS]]'
 - '[[Wadhwa_2024_RER]]'
+- '[[Ross_Morrison_2021_ROE]]'
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: '2026-05-23'
 ---
 
 ## 定义
@@ -54,6 +60,7 @@ updated: '2026-05-18'
 > - **t 值与样本量**：在效应量 d 已知时，若观测数为 n，可构造 `t=d√n`；样本量越大，同样 d 值对应的 t 值越大，也越容易达到统计显著（Allerup, 2015, p.45）。
 > - **p 值**：p 值表示在零假设成立时获得当前或更极端 t 值的概率。研究报告常把 p 值作为统计分析结果呈现的核心（Allerup, 2015, p.45）。
 > - **显著不等于重要**：Terhart 强调，统计显著性不说明效应大小和实践意义；这部分信息需要 [[Effect Size]] 或原始量表差异来补充（Terhart, 2011, p.427）。
+> - **显著不等于可采购**：在学校项目选择中，统计显著性只能说明研究结果达到某种统计标准，不能说明项目成本、实施难度、教师接受度、对照条件强弱或本地适配性（Ross & Morrison, 2021, pp.120-121）。
 
 ## 与相关概念的区别
 
@@ -72,17 +79,20 @@ updated: '2026-05-18'
 > [!success] 实证发现
 > - 在 n=25 的示例中，d≈0.412 对应 t=2.060，接近双侧检验 p≈0.05 的临界值；换成其他样本量，这一对应关系会改变（Allerup, 2015, p.45）。
 > - 在教育证据清算中心中，统计显著性并不总是以同样方式进入评级标准；部分机构要求统计显著正向效果，部分机构还加入最低效应量门槛（Wadhwa et al., 2024, pp.12–15）。
+> - 在 141 项大型教育 RCT 中，只有 23% 的成就效应显著大于零；这提示“严格设计”并不自动带来统计显著的教育成就效果（Ross & Morrison, 2021, p.112）。
 
 ## 争议与批评
 
 > [!warning] 争议与批评
 > - 如果只报告统计显著性，研究者可能忽略实际效应大小；如果只报告效应量点估计，则无法判断该估计是否稳定。只有 d 值而缺少 [[Confidence Interval]]、标准误或相邻排名显著性检验时，读者无法判断数值接近的干预是否真的不同（Allerup, 2015, pp.47–48）。
 > - [[Publication Bias]] 与统计显著性偏好相关：发表系统更容易接纳显著或正面结果，从而可能使元分析平均效应量偏高。
+> - Ross 与 Morrison 指出，现行证据标准容易把中等或强“有效性”缩小为严格实验中的统计显著效果；这种缩小会忽略实施质量、结果类型和地方上重视的非成就目标（Ross & Morrison, 2021, pp.110-112）。
 
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
 > - [[Educational Evidence Clearinghouses]] — 清算中心把统计显著性、效应方向和最低效应量阈值组合成项目评级规则（Wadhwa et al., 2024, pp.12–15）。
+> - [[ESSA 2015 Evidence Standards]] — ESSA 证据层级把 RCT、QED 和相关研究与项目有效性标准连接起来，统计显著正向效果成为正式证据判断的重要条件之一（Ross & Morrison, 2021, p.109）。
 > - [[Visible Learning]] — Hattie 将 d=0.40 作为实践阈值，但该值与显著性的关系依赖样本量（Allerup, 2015, p.45）。
 
 ## 来源
@@ -90,3 +100,4 @@ updated: '2026-05-18'
 - [[Allerup_2015_Paideia]]
 - [[Terhart_2011_JCS]]
 - [[Wadhwa_2024_RER]]
+- [[Ross_Morrison_2021_ROE]]

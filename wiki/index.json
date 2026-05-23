@@ -2738,6 +2738,16 @@
     ]
   },
   {
+    "title": "Quasi-Experimental Designs",
+    "path": "wiki/methods/quantitative/Quasi-Experimental Designs.md",
+    "aliases": [
+      "准实验设计",
+      "quasi-experimental design",
+      "quasi-experimental designs",
+      "QED"
+    ]
+  },
+  {
     "title": "Randomised Controlled Trials",
     "path": "wiki/methods/quantitative/Randomised Controlled Trials.md",
     "aliases": [
@@ -4526,6 +4536,14 @@
     "aliases": [
       "不让一个孩子掉队法案",
       "NCLB"
+    ]
+  },
+  {
+    "title": "Students and Teachers Accessing Tomorrow (STAT)",
+    "path": "wiki/facts/us/Students and Teachers Accessing Tomorrow (STAT).md",
+    "aliases": [
+      "STAT",
+      "Students and Teachers Accessing Tomorrow"
     ]
   },
   {

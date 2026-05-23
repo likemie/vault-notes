@@ -21,21 +21,25 @@ related_concepts:
 - '[[Evidence-Based Reform]]'
 - '[[Side Effects in Education]]'
 related_theories: []
-related_methods: []
+related_methods:
+- '[[Randomised Controlled Trials]]'
+- '[[Quasi-Experimental Designs]]'
 related_persons:
 - '[[Robert Slavin]]'
 - '[[Yong Zhao]]'
 related_facts: []
-related_arguments: []
+related_arguments:
+- '[[Argument_Ross_Morrison_2021_ROE]]'
 sources:
 - '[[Slavin_2002_ER]]'
 - '[[OConnor_2020_AJLL]]'
 - '[[Zhao_2017_JEC]]'
 - '[[Downey_2016_SoE]]'
+- '[[Ross_Morrison_2021_ROE]]'
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-23'
 ---
 ## 背景
 
@@ -58,13 +62,15 @@ updated: '2026-05-18'
 >
 > ESEA 整体拨款因该法案增加了 **18%**，为"有史以来最大增幅"。(Slavin, 2002, p. 16)
 
+Ross 与 Morrison 将 NCLB 放在美国证据问责运动的起点位置：NCLB 对“科学本位研究”的定义明确偏好随机实验；随后 WWC 和 ESSA 进一步把 RCT 与 QED 转化为教育项目证据等级中的核心方法（Ross & Morrison, 2021, p.109）。
+
 ## 时间线
 
 > [!note]- 时间线
 > - **2001** — NCLB 在 Bush 政府上任初期通过，作为 ESEA 重新授权
 > - **2002** — Slavin 发表分析，指出 NCLB 的主要弱点："基于科学本位研究"标准化程度不足——任何项目都能找到支持其原则的研究；法案尚未对实践或拨款产生实际影响（"太新"）（Slavin, 2002, pp. 16, 18–19）
 > - **2002–2014** — NCLB 的问责条款（Adequate Yearly Progress, AYP）引发广泛争议——至 2014 年要求 100% 学生达到熟练水平的截止日期被广泛批评为不切实际
-> - **2015** — ESSA 通过，替代 NCLB，将"科学本位研究"替换为更精确的三级证据标准（强/中/有希望）
+> - **2015** — ESSA 通过，替代 NCLB，将"科学本位研究"替换为更精确的证据层级，包括强证据、中等证据、有希望证据和理论依据（Ross & Morrison, 2021, p.109）
 
 ## 实施情况
 
@@ -97,8 +103,9 @@ updated: '2026-05-18'
 >
 > ### 后续评估
 >
-> NCLB 对证据标准的强调被广泛视为向 ESSA (2015) 更精确的三级证据框架迈进的**关键中间步骤**——尽管 NCLB 的"科学本位研究"定义在实践中过于宽泛而无效，但它首次将"研究必须指导实践"的原则嵌入联邦教育法律的核心文本，为后续更严格的标准奠定了基础。
+> NCLB 对证据标准的强调被广泛视为向 ESSA (2015) 更精确的证据框架迈进的**关键中间步骤**——尽管 NCLB 的"科学本位研究"定义在实践中过于宽泛而无效，但它首次将"研究必须指导实践"的原则嵌入联邦教育法律的核心文本，为后续更严格的标准奠定了基础。
 >
+> Ross 与 Morrison 进一步指出，相比 NCLB 时代，ESSA 的证据层级对开发者、实践者和研究者更具现实后果，因为这些层级开始被州和学区正式用于项目审核和批准。也就是说，NCLB 的意义在于开启“严格证据进入联邦教育政策”的方向，而 ESSA 则把这种方向更具体地转化为项目采购和批准中的操作标准（Ross & Morrison, 2021, p.109）。
 > ### Zhao (2017) — NCLB 副作用的系统性记录
 >
 > Zhao (2017, pp.13-14) 援引 Nichols & Berliner (2007) 的系统性研究，将 NCLB 作为教育干预缺乏副作用前瞻性评估的典型案例：
@@ -124,9 +131,11 @@ updated: '2026-05-18'
 > - [[Evidence-Based Reform]] — NCLB 是该政策框架的早期法律实现
 > - [[ESSA 2015 Evidence Standards]] — 替代 NCLB 的更精确的证据标准框架
 > - [[Comprehensive School Reform (CSR) Program]] — 与 NCLB 同期的联邦证据本位政策
+> - [[Randomised Controlled Trials]] 与 [[Quasi-Experimental Designs]] — NCLB、WWC 和 ESSA 证据标准中反复出现的严格研究设计（Ross & Morrison, 2021, p.109）
 
 ## 来源
 
 - [[Slavin_2002_ER]]
 - [[OConnor_2020_AJLL]]
 - [[Zhao_2017_JEC]]
+- [[Ross_Morrison_2021_ROE]]
