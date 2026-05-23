@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/facts/newzealand/Cognition Education (NZ).md",
+                "file": "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cognition Education (NZ)"
+              "title": "Argument_Li_2012_Cambridge"
             }
           }
         ]
@@ -189,13 +189,19 @@
   },
   "active": "05ff7f377a4eb1b1",
   "lastOpenFiles": [
+    "wiki/concepts/chinese-philosophy/Jing (Refined Mastery).md",
+    "wiki/concepts/chinese-philosophy/Shu (Familiarization).md",
+    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
+    "books/Li_2012_Cambridge/chapters/ch04.txt",
+    "raw/Li_2012_Cambridge第四章.pdf",
+    "raw/Li_2012_Cambridge第五章.pdf",
+    "raw/Li_2012_Cambridge.pdf",
+    "wiki/facts/newzealand/Cognition Education (NZ).md",
     "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md",
     "books/Bates_2017_CognitionEducationTrust/Bates_2017_CognitionEducationTrust.md",
-    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "raw/Cultural Foundations of Learning _ East and West -- Jin Li -- 1, 2012 -- Cambridge University Press_ 32 Avenue of the Americas, New -- isbn13 9780521160629 -- 2a9b817dfa3a402b88c6e2903e4a7c8c -- Anna’s Archive (1).pdf",
-    "wiki/facts/newzealand/Cognition Education (NZ).md",
     "wiki/facts/brunei/Jerudong International School Establishment (Brunei 1997).md",
-    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "books/Bates_2017_CognitionEducationTrust/Darwin'FinchAShortHistoryofGognition.pdf",
     "wiki/facts/newzealand/Visible Learning Branding and Global Influences.md",
     "wiki/facts/newzealand/Foundation North Māori and Pasifika Education Initiative (MPEI 2009).md",
@@ -207,10 +213,6 @@
     "books/Bates_2017_CognitionEducationTrust/chapters/ch07_Epilogue.txt",
     "books/Bates_2017_CognitionEducationTrust/chapters/ch06_Giving_Back.txt",
     "books/Bates_2017_CognitionEducationTrust/chapters/ch05_The_Braided_River.txt",
-    "books/Bates_2017_CognitionEducationTrust/chapters/ch04_Desert_Sands.txt",
-    "books/Bates_2017_CognitionEducationTrust/chapters/ch03_Broader_Horizons.txt",
-    "books/Bates_2017_CognitionEducationTrust/chapters/ch02_Foundations.txt",
-    "books/Bates_2017_CognitionEducationTrust/chapters/ch01_Preface.txt",
     "wiki/concepts/instruction-pedagogy/Classroom Management.md",
     "wiki/methods/mixed/Prototype Methods.md",
     "Self-Determination Theory.md",
@@ -223,7 +225,6 @@
     "wiki/concepts/instruction-pedagogy/Surface and Deep Learning.md",
     "AGENTS.md",
     "wiki/concepts/comparative-education/Confucian Heritage Cultures (CHC).md",
-    "wiki/concepts/comparative-education/Establishing Ones Will (lizhi).md",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/fig2-1_western_learner.png",
