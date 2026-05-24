@@ -30,7 +30,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 跨国吸引力（Cross-National Attraction）是 Phillips & Ochs [[Policy Borrowing|政策借用]]四阶段模型中的第一阶段，指一国的教育政策、实践或话语引起他国关注并被认为具有参照价值的过程。它启动整个政策借用循环，是教育转移的初始动力来源。
 >
 > Rappleye (2006) 进一步将此概念理论化，指出"跨国吸引力"一词内在地将单一民族国家视为行动者，但现实中吸引力由多元行动者——民选官员、[[Policy Entrepreneur|政策企业家]]、智库、媒体、超国家组织等——在具体教育改革辩论中生产和调动，而非由抽象的"国家"整体产生。（Rappleye, 2006, p. 229）
@@ -86,7 +86,7 @@ updated: '2026-05-18'
 > [!abstract] 结构阻力（Structural Obstacles）
 > 独立于人的能动性、制约改革的结构性因素：
 > - **法律／组织结构：** 现有法律和官僚安排的不变性（如德国 Kultusministerkonferenz 和 Verrechtilichung 使新学校模式倡导者面临"刚性的法律和官僚监管"）（Ertl & Phillips, 2000，引自 p. 231）
-> - **改革疲劳：** 系统在重大变革后的"沉淀期"不响应改革（如 Adenauer "keine Experimente"口号定[[Rightness|义]]战后德国近二十年的非改革期）（p. 231）
+> - **改革疲劳：** 系统在重大变革后的"沉淀期"不响应改革（如 Adenauer "keine Experimente"口号定义战后德国近二十年的非改革期）（p. 231）
 > - **物理设施：** 现有设施无法容纳快速变化（p. 231）
 > - **内部满意：** 对教育现状的广泛支持抵制改革（如 PISA 冲击前德国 Gymnasium 和 Realschule 的声望）（p. 231–232）
 > - **历史、传统与文化的神话：** 相信独特的历史、传统或文化支撑现有结构和运作方式——Holmes (1981) 称之为"抵制的力量"，Rappleye 将其重新框定为"停滞的修辞"（rhetoric of stasis）（p. 232）

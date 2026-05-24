@@ -42,7 +42,7 @@ updated: '2026-05-18'
 >
 > > "National Standards can provide useful evidence and can influence issues such as: ensuring there is greater emphasis in schools (and in reports to parents) on progress in, as well as levels of, achievement; ensuring that teachers have a common conception of progress...; enhancing the already developing consistency of interpretation of levels within the New Zealand curriculum; demonstrating that all students are making appropriate progress...; sharing evidence-based practices within and across schools; enhancing student assessment capabilities about their levels of performance and progress; and identifying schools where students may not be attaining satisfactory progress and intervening more quickly than we do now." (Hattie, 2010, pp.92–93)
 >
-> Hattie 强调最具关键意[[Rightness|义]]的一点是："these factors can lead to more effective teaching of all students, as the only way the policy is going to be effective is if the teaching is more appropriate, rigorous and shown to be effective" (p.93)。
+> Hattie 强调最具关键意义的一点是："these factors can lead to more effective teaching of all students, as the only way the policy is going to be effective is if the teaching is more appropriate, rigorous and shown to be effective" (p.93)。
 
 ## 时间线
 

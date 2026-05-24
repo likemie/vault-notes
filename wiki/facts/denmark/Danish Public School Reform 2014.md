@@ -45,7 +45,7 @@ updated: '2026-05-18'
 >
 > 在这一转变中，对 [[John Hattie|Hattie]] 和 [[Visible Learning]] 有明确的引用。改革将可见的学习成果置于教育目标的核心（Qvortrup, 2019, p.5）。
 >
-> Larsen (2019) 提供了更多细节：改革由社会民主党政府和议会多数通过，在三年制科目中嵌入了将近 **3,000 个所谓的"学习目标"**（nearly 3000 so-called "learning goals"），学生被期望在十年[[Rightness|义]]务教育的常规测试中努力达成这些目标（Larsen, 2019, p.2）。Larsen 将改革作为 [[Learnification]] 在丹麦制度化的典型案例——学习概念被效果中心的结果逻辑所吞噬。
+> Larsen (2019) 提供了更多细节：改革由社会民主党政府和议会多数通过，在三年制科目中嵌入了将近 **3,000 个所谓的"学习目标"**（nearly 3000 so-called "learning goals"），学生被期望在十年义务教育的常规测试中努力达成这些目标（Larsen, 2019, p.2）。Larsen 将改革作为 [[Learnification]] 在丹麦制度化的典型案例——学习概念被效果中心的结果逻辑所吞噬。
 
 ## 时间线
 
@@ -70,7 +70,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **Qvortrup（支持方）**：批评者的反应不是基于对 [[John Hattie|Hattie]] 作品的准确理解，而是基于意识形态驱动的解释社群——将"[[Visible Learning|可见学习]]"扭曲为"反理论"的实证主[[Rightness|义]]（Qvortrup, 2019, p.4-5）
+> - **Qvortrup（支持方）**：批评者的反应不是基于对 [[John Hattie|Hattie]] 作品的准确理解，而是基于意识形态驱动的解释社群——将"[[Visible Learning|可见学习]]"扭曲为"反理论"的实证主义（Qvortrup, 2019, p.4-5）
 > - **教师与工会（批评方）**：改革与削减教师权利的立法同时推进，挑战了传统的教师角色；研究者的批评被用作反对改革政治议程的学术合法性来源（Qvortrup, 2019, p.5）
 > - 批评著作 *Hattie på dansk*（[[Hattie på dansk 2017]]）在此争议背景下出版，汇集多篇强烈批评文章（Qvortrup, 2019, p.4）
 

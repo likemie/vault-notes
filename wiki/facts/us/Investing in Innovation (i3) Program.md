@@ -29,7 +29,7 @@ updated: '2026-05-18'
 ## 概述
 
 > [!info] 概述
-> The **Investing in Innovation (i3)** 拨款项目由美国教育部创新与改进办公室于 2009 年设立。它是美国联邦政府为推动教育领域**基于证据的改革**而进行的最大规模投资，采用分层证据结构（tiered evidence）来资助不同成[[Shu (Familiarization)|熟]]度的教育干预。到 2016 年结束时，i3 共资助 171 个项目，总支出超过 **USD 1.4 billion**，其中大部分投入第三方、通常为随机分配的评估。
+> The **Investing in Innovation (i3)** 拨款项目由美国教育部创新与改进办公室于 2009 年设立。它是美国联邦政府为推动教育领域**基于证据的改革**而进行的最大规模投资，采用分层证据结构（tiered evidence）来资助不同成熟度的教育干预。到 2016 年结束时，i3 共资助 171 个项目，总支出超过 **USD 1.4 billion**，其中大部分投入第三方、通常为随机分配的评估。
 >
 > > "i3 had funded 171 projects and spent more than USD 1.4 billion, much of it on third-party, usually randomized evaluations of these programs." (Slavin, 2019, p. 4)
 

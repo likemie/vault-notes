@@ -59,7 +59,7 @@ updated: '2026-05-19'
 >
 > - APA：Delambre, D. (2022). Creative Tension of Sense and the Whole Approach to Knowledge and Practice. In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 105–122). Springer.
 > - 核心内容：系统阐述 Creative Tension of Sense 理论及其 Ganz-Methode 方法论，从认识论角度回应新[[Geopolitics of Knowledge|知识地缘政治]]的讨论，并展示该理论在里约热内卢实践中的应用。
-> - 思想位置：代表理论成[[Shu (Familiarization)|熟]]和系统化表达阶段。
+> - 思想位置：代表理论成熟和系统化表达阶段。
 > - 相关概念／理论：[[Creative Tension of Sense]]、[[Ganz-Methode]]、[[Life Power]]、[[Tense Society]]
 
 ## 核心思想
@@ -68,7 +68,7 @@ updated: '2026-05-19'
 > Delambre 的核心思想围绕"张力"作为存在和知识的基本条件展开，详见 [[Creative Tension of Sense#核心主张]] 和 [[Creative Tension of Sense#核心命题]]。其思想特点可概括为四个立场：
 >
 > 1. **诊断**：现代性的封闭理性已耗竭——环境危机本质上是"认知方式的危机"，而非单纯的技术或政策失败（Delambre, 2022, p.108–109）
-> 2. **原理**：新世界永远在旧世界内部诞生，新旧之间的意[[Rightness|义]]张力是创造力的源泉，不可消除也不应消除（Delambre, 2022, p.111）
+> 2. **原理**：新世界永远在旧世界内部诞生，新旧之间的意义张力是创造力的源泉，不可消除也不应消除（Delambre, 2022, p.111）
 > 3. **方法**：正确回应不是选择新或旧，而是**承载张力**——详见 [[Ganz-Methode]]（Delambre, 2022, p.112–113）
 > 4. **实践**：理论与实践不可分离，张力认识论必须从具体情境出发并回到具体实践——其操作化工具为 WTS Coaching（Delambre, 2022, p.107, 117–118）
 >

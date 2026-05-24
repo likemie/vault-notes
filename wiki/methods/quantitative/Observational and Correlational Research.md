@@ -40,7 +40,7 @@ updated: 2026-05-18
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 观察/相关研究（Observational/Correlational Research）是不操纵自变量、以量化数据分析变量关系的[[Non-intervention Research|非干预研究]]设计。Brady et al. (2023) 在编码 2020 年教育心理学期刊文章时，将"未操纵自变量且包含量化数据"的研究归入此类；他们把"没有操纵自变量"视为 ex post facto 观察/相关设计的标志（Brady et al., 2023, pp.3-4）。
 
 ## 认识论立场

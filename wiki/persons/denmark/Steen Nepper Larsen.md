@@ -48,7 +48,7 @@ updated: '2026-05-19'
 > - Larsen, S. N. (2018). A critical essay on the exercise of critique: On the impossibility of reconciling ontology and epistemology. *Danish Yearbook of Philosophy*, 51, 119–141. — 探讨本体论与认识论不可调和性
 > - Larsen, S. N. (2016). *At Ville Noget Med Nogen. Filosofiske og Samtidskritiske Fragmenter om Dannelse og Pædagogik* [想要对某人做什么：关于 Bildung 与教育学的哲学与当代批判片段]. Turbine. — 关于 Bildung 与教育学的丹麦语哲学著作
 > - Larsen, S. N. (2015). Blind Spots in John Hattie's Evidence Credo. *Journal of Academic Perspectives*, 1. — 对 Hattie 证据信条的系统盲点分析
-> - Larsen, S. N. (2014). Compulsory Creativity—A Critique of Contemporary Cognitive Capitalism. *Culture Unbound*, 6. — 对当代认知资本主[[Rightness|义]]的批判
+> - Larsen, S. N. (2014). Compulsory Creativity—A Critique of Contemporary Cognitive Capitalism. *Culture Unbound*, 6. — 对当代认知资本主义的批判
 > - Hattie, J. & Larsen, S. N. (2019). The Purpose of Education—A conversation between John Hattie and Steen Nepper Larsen. Unpublished. — 与 Hattie 的公开对话
 
 ## 核心思想

@@ -54,11 +54,11 @@ updated: '2026-05-19'
 ## 定义
 
 > [!info]
-> 知识经济（Knowledge-Based Economy, KBE）指一种实际存在的经济形态，其中知识、创新、学习、高等教育、研发、技术和创业[[Jing (Refined Mastery)|精]]神是价值创造与提取以及在国家、城市和区域间政治竞争中的关键要素（Moisio, 2022, p.23）。Sum & Jessop（2013）将其系统定[[Rightness|义]]为：
+> 知识经济（Knowledge-Based Economy, KBE）指一种实际存在的经济形态，其中知识、创新、学习、高等教育、研发、技术和创业精神是价值创造与提取以及在国家、城市和区域间政治竞争中的关键要素（Moisio, 2022, p.23）。Sum & Jessop（2013）将其系统定义为：
 
 > "一种实际存在的经济，资本的首要方面是'一般智识'（general intellect）在知识和设计密集型商品（真实或虚构的）形式中的价值化。这涉及知识作为经济增长、财富创造和就业创造关键驱动力的生产、管理、分配和使用，横跨私营、公共和'第三'部门。在一个真正的 KBE 中，知识被反身性地应用于知识的生产，大多数部门趋向于变得更加知识密集化。"（Sum & Jessop, 2013, p.284, cited in Moisio, 2022, pp.23–24）
 
-知识经济将资本主[[Rightness|义]]的生产、分配、交换和消费，以及教育、价值观、政治主体性、规范、信念和政治制度等额外经济因素统合在一起（Moisio, 2022, p.24）。
+知识经济将资本主义的生产、分配、交换和消费，以及教育、价值观、政治主体性、规范、信念和政治制度等额外经济因素统合在一起（Moisio, 2022, p.24）。
 
 ---
 
@@ -81,7 +81,7 @@ KBE 的知性根源可追溯至 Friedrich List 的《政治经济学的国家系
 ### 二战后学术脉络（1950s–1980s）
 
 - **Peter Drucker（1959/1969）**：提出"知识工作者"（knowledge worker）概念（首次使用于 1959 年），开创知识管理学术领域，在 *The Age of Discontinuity*（1969）中系统阐述知识在组织和社会中的核心地位（Moisio, 2022, p.22）
-- **Daniel Bell（1973）**：在 *The Coming of Post-Industrial Society* 中强调理论知识在后工业主[[Rightness|义]]中的相对重要性，揭示经济-社会界面正在发生结构性转变（Moisio, 2022, p.22）
+- **Daniel Bell（1973）**：在 *The Coming of Post-Industrial Society* 中强调理论知识在后工业主义中的相对重要性，揭示经济-社会界面正在发生结构性转变（Moisio, 2022, p.22）
 - **Paul Romer（1986）** 与其他"新增长理论家"：提出内生增长理论（endogenous growth theory），论证创新、学习、人力资本、创业和技术是"内生增长"的根本驱动力。在此框架中，知识和人力资本投资被视为不受有限限制的增长和利润关键资产（Moisio, 2022, p.23）
 
 ### Sputnik Shock 与 OECD 的早期制度介入
@@ -153,12 +153,12 @@ Erfurth (2022) 通过对新加坡和[[UAE Education Hub Projects|阿联酋教育
 ## 实证发现
 
 > [!success]
-> - 物质性转折点（1980 年代后期）：在部分发达资本主[[Rightness|义]]国家，市场经济的财富主要来源开始从自然资源→有形资产→无形资产的系统转变，知识和信息成为价值创造的根本基础（Dunning, 2000, p.8, cited in Moisio, 2022, p.23）
+> - 物质性转折点（1980 年代后期）：在部分发达资本主义国家，市场经济的财富主要来源开始从自然资源→有形资产→无形资产的系统转变，知识和信息成为价值创造的根本基础（Dunning, 2000, p.8, cited in Moisio, 2022, p.23）
 - 大学的战略角色转变：在 KBE 巩固过程中，"大学的战略政治角色根本性增加"——大学成为全球竞争中产生价值和比较优势的核心基础设施（Moisio, 2022, p.23）
-- **[[Single-Case Design (SCD)|SCD]]：KBE 逻辑在个体层面的操作化**：21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse|SCD]]）可被理解为 KBE 在个体主体性层面的操作机制——KBE 将知识界定为经济增长的核心驱动力，SCD 则将这一宏观逻辑转化为个体需持续获取和更新的技能清单。新自由主[[Rightness|义]]知识型社会通过 SCD 框架将劳动力市场需求表述为个体的自我投资义务，以此完成 KBE 从"经济形态"到"主体性生产"的传导（Zelinka, 2022, pp.259-260）。SCD 与 KBE 的关系详见 [[21st Century Skills and Competencies Discourse#地缘政治维度]]
+- **[[Single-Case Design (SCD)|SCD]]：KBE 逻辑在个体层面的操作化**：21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse|SCD]]）可被理解为 KBE 在个体主体性层面的操作机制——KBE 将知识界定为经济增长的核心驱动力，SCD 则将这一宏观逻辑转化为个体需持续获取和更新的技能清单。新自由主义知识型社会通过 SCD 框架将劳动力市场需求表述为个体的自我投资义务，以此完成 KBE 从"经济形态"到"主体性生产"的传导（Zelinka, 2022, pp.259-260）。SCD 与 KBE 的关系详见 [[21st Century Skills and Competencies Discourse#地缘政治维度]]
 - KBE 的[[Spatial Sortings|空间分化]]效应：KBE 既将某些地点和人口置于发展的中心，又同时将其他地点和人口边缘化（参见 [[Spatial Sortings]]）。枢纽地区（大型城市的创新综合体）与边缘地区（较小城市群、农村）之间的分化加剧——"增长潜力集中在 KBE 的城市枢纽中，而枢纽之外地区因'经济结构变迁'经历相对衰退"（Moisio, 2022, pp.30–31）
 - **亚洲政府的高等教育大规模投资**：Rizvi (2022) 记录了亚洲各国政府如何以 KBE 话语为框架大规模投资高等教育、允许私人投资、鼓励公众将高等教育视为人力资本投资。亚洲高等教育系统积极改革课程以对接全球劳动力市场的变化需求，同时追求对西方顶尖大学的"追赶"（Rizvi, 2022, p.95）
-- **KBE 话语作为亚洲中产阶级教育消费的文化推力**：Rizvi (2022) 指出，KBE 话语不仅自上而下地塑造政府政策，也自下而上地渗透进亚洲中产阶级的教育消费决策。海外教育被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in Rizvi, 2022, p.96）——这与 KBE 将教育框定为"人力资本投资"的话语高度一致。亚洲各地[[Jing (Refined Mastery)|精]]英[[International Schools|国际学校]]的快速增长和留学中介产业的庞大化，可视作 KBE 话语在消费文化层面的物质化（Rizvi, 2022, pp.95–97）
+- **KBE 话语作为亚洲中产阶级教育消费的文化推力**：Rizvi (2022) 指出，KBE 话语不仅自上而下地塑造政府政策，也自下而上地渗透进亚洲中产阶级的教育消费决策。海外教育被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in Rizvi, 2022, p.96）——这与 KBE 将教育框定为"人力资本投资"的话语高度一致。亚洲各地精英[[International Schools|国际学校]]的快速增长和留学中介产业的庞大化，可视作 KBE 话语在消费文化层面的物质化（Rizvi, 2022, pp.95–97）
 - **[[Further Education|继续教育]]的持续扩张**：2016 年欧盟 25–64 岁人口中超过 40% 在过去一年参与过教育培训，且此后在所有高收入国家持续增长。KBE 逻辑下知识生命周期的缩短是这一趋势的根本驱动力。企业培训支出遵循"滴漏策略"（trickle-down strategy）：员工原有正式资格越高、职位越高，获得培训的可能性越大（Hartmann, 2022, pp.179, 185）
 - **澳大利亚：KBE 驱动的教育出口战略**：澳大利亚 2012 年《[[Australia in the Asian Century White Paper 2012|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》展示了 KBE 话语如何被系统性地转化为国家教育出口政策。研究基金（AISRF、ACSRF）将[[Transnational Research Collaboration in Higher Education|跨国研究合作]]与贸易和外交目标深度绑定——高等教育政策在此过程中转变为**经济政策、外交政策和安全政策**的综合体（Rizvi, 2022, pp.99–100）
 - **教育枢纽作为 KBE 的极端运作形式**：新加坡的"[[Singapore Education Hub Policy|全球校园]]"项目和阿联酋迪拜的国际分校产业集群代表了 KBE 逻辑的极致运作——高等教育被完全商品化为出口产业，大学和师生主要被视为经济生产要素（Erfurth, 2022, pp.209–211）。详见 [[International Education Hubs#Erfurth 的双重运作维度]]
@@ -169,7 +169,7 @@ Erfurth (2022) 通过对新加坡和[[UAE Education Hub Projects|阿联酋教育
 
 > [!warning]
 > - KBE 的积极形象——通过技术经济创新实现无限经济增长、合作、理性对话、平等和良好治理——需要批判性社会科学的审视。Joe Painter 指出 KBE 涉及一系列"退步性元素"，从环境影响到性别议题（Sellar et al., 2020, cited in Moisio, 2022, p.30）
-- KBE 的空间极化效应：[[Progressive Neoliberalism|进步新自由主义]]版本的 KBE 为少数人口和地点生产大量财富，同时将其他人置于社会和地理边缘。Davidson & Rees-Mogg（1999）预见了信息时代"赢家"（跨国认知[[Jing (Refined Mastery)|精]]英）与"输家"（无法适应新跨国世界的人）之间的深刻分化——这正是过去十年在欧美出现的趋势（Moisio, 2022, pp.31–32）
+- KBE 的空间极化效应：[[Progressive Neoliberalism|进步新自由主义]]版本的 KBE 为少数人口和地点生产大量财富，同时将其他人置于社会和地理边缘。Davidson & Rees-Mogg（1999）预见了信息时代"赢家"（跨国认知精英）与"输家"（无法适应新跨国世界的人）之间的深刻分化——这正是过去十年在欧美出现的趋势（Moisio, 2022, pp.31–32）
 - **KBE 神话掩盖制度替代**：教育枢纽案例揭示了一个被忽视的批评维度——KBE 话语可能被威权或半威权国家用作**替代**（而非补充）社会和政治制度建设的合法性资源。当"知识=发展"成为不证自明的前提时，市场自由化+基础设施扩张就可以包装为发展的全部，制度建设被绕开而不受质疑（Erfurth, 2022, pp.200, 211）
 
 ---
@@ -179,7 +179,7 @@ Erfurth (2022) 通过对新加坡和[[UAE Education Hub Projects|阿联酋教育
 > [!example]
 > - [[Knowledge-Based Economization]] — Moisio 提出的姊妹概念：KBE 不是给定的，而是被持续生产、建构和维持的过程性结果
 - [[Geopolitics of Knowledge]] — KBE 构成了知识地缘政治的经济基础，详见 [[Geopolitics of Knowledge#知识经济化逻辑]]
-- [[21st Century Skills and Competencies Discourse]] — [[Single-Case Design (SCD)|SCD]] 是 KBE 逻辑在个体主体性层面的操作化：将宏观经济增长需求转化为个体技能获取[[Rightness|义]]务
+- [[21st Century Skills and Competencies Discourse]] — [[Single-Case Design (SCD)|SCD]] 是 KBE 逻辑在个体主体性层面的操作化：将宏观经济增长需求转化为个体技能获取义务
 - [[International Education Hubs]] — IEHs 是 KBE 逻辑在高等教育领域国家层面的战略物质化
 
 ---

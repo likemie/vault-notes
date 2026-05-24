@@ -45,7 +45,7 @@ updated: '2026-05-18'
 
 ## 案例意义
 
-> [!success] 案例意[[Rightness|义]]
+> [!success] 案例意义
 > QOP/EQOP 案例显示，项目更新版本、具体研究可获得性和清算中心对研究质量的要求会共同改变同一项目家族的评级。一个清算中心可能依据未完整列明的多地点 [[Randomised Controlled Trials|RCT]] 给出 promising，另一个清算中心则因可纳入研究未显示足够效果而不给出正向评级（Wadhwa et al., 2024, pp.24–25）。
 
 ## 相关概念／政策

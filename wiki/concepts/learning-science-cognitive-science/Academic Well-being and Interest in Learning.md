@@ -28,7 +28,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Academic Well-being and Interest in Learning 指学生对学校学习的积极情感体验与学习兴趣水平。
 
 ## 核心要素
@@ -36,7 +36,7 @@ updated: '2026-05-18'
 > [!abstract] 核心要素
 > - 学习兴趣：对学习内容与过程的持续关注与积极倾向（Lekhal_2015_Paideia）。
 > - 学校愉悦感：对上学情境的情绪体验与舒适度（Lekhal_2015_Paideia）。
-> - 学习价值感：对"上学是否有意[[Rightness|义]]"的主观判断（Lekhal_2015_Paideia）。
+> - 学习价值感：对"上学是否有意义"的主观判断（Lekhal_2015_Paideia）。
 
 ## 与相关概念的区别
 

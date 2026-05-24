@@ -36,7 +36,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Dynamic Knowledge and Learning Model 是 [[Lars Qvortrup]] (2015) 为回应 [[Visible Learning]] 中"学习结果"概念不清而提出的概念模型。它不把知识形式理解为静态分类或等级，而是把一阶到四阶知识看作相互影响、反身递归的动态系统；教学等外部影响可以刺激这个系统，但系统也具有自身的内部动力（Qvortrup, 2015, pp.29–32）。
 >
 > > "Pointen med denne videns- og læringsmodel er ... at den påviser, at vidensformerne ikke bare udgør en taksonomi, men et dynamisk og refleksivt samspil af videnskategorier."（Qvortrup, 2015, p.32）
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> 该模型本身不是实证研究发现，而是 Qvortrup 对未来[[Meta-analysis|元分析]]和教育[[Intervention Research|干预研究]]提出的概念要求：如果研究者要更[[Jing (Refined Mastery)|精]]确地说明不同教学影响对不[[Tongxue|同学]]习结果的效果，就必须把学习结果区分为不同知识形式，并理解这些形式之间的动态关系（Qvortrup, 2015, pp.29, 32–33）。
+> 该模型本身不是实证研究发现，而是 Qvortrup 对未来[[Meta-analysis|元分析]]和教育[[Intervention Research|干预研究]]提出的概念要求：如果研究者要更精确地说明不同教学影响对不[[Tongxue|同学]]习结果的效果，就必须把学习结果区分为不同知识形式，并理解这些形式之间的动态关系（Qvortrup, 2015, pp.29, 32–33）。
 
 ## 研究用途（可操作化方向）
 

@@ -32,14 +32,14 @@ updated: '2026-05-19'
 > [!info] 简介
 > Gerald Grace 是英国教育学者，现任（2010 年）伦敦大学（University of London）教授。他曾任新西兰惠灵顿维多利亚大学（Victoria University of Wellington）教育学系主任（Department of Education Chairperson）（Grace, 2010, p.89）。
 >
-> Grace 最知名的贡献是提出了"critic and conscience of society"（[[Critic and Conscience of Society|社会的批评者与良知]]）这一概念——他于 1988 年在回应文学院院长 Gary Hawke 询问大学本质特征时，将其列入大学定[[Rightness|义]]清单。这一短语随后被纳入 Hawke 的《Learning for Life》报告（1989 年 2 月，p.24），并最终写入新西兰法律，成为大学的法定特征（Grace, 2010, p.89–90）。
+> Grace 最知名的贡献是提出了"critic and conscience of society"（[[Critic and Conscience of Society|社会的批评者与良知]]）这一概念——他于 1988 年在回应文学院院长 Gary Hawke 询问大学本质特征时，将其列入大学定义清单。这一短语随后被纳入 Hawke 的《Learning for Life》报告（1989 年 2 月，p.24），并最终写入新西兰法律，成为大学的法定特征（Grace, 2010, p.89–90）。
 
 ## 核心贡献
 
 
 ### "Critic and Conscience of Society"的提出
 
-1988 年下半年，时任惠灵顿维多利亚大学教育学系主任的 Grace 收到文学院院长 Gary Hawke 教授的一份备忘录，要求他提供大学的本质定[[Rightness|义]]特征清单。Grace 提供了一份他称之为"常规智慧"的定义，包括：知识库、通过学术和研究推进知识边界、公正和全面的知识来源、鼓励智识探究和独立思考、出版符合国际质量标准的研究成果、基于最新知识提供高级教学（Grace, 2010, p.89）。
+1988 年下半年，时任惠灵顿维多利亚大学教育学系主任的 Grace 收到文学院院长 Gary Hawke 教授的一份备忘录，要求他提供大学的本质定义特征清单。Grace 提供了一份他称之为"常规智慧"的定义，包括：知识库、通过学术和研究推进知识边界、公正和全面的知识来源、鼓励智识探究和独立思考、出版符合国际质量标准的研究成果、基于最新知识提供高级教学（Grace, 2010, p.89）。
 
 经过进一步反思后，Grace 增加了一项额外特征：**接受作为"critic and conscience of society"的角色**。他之所以加上这一条，是因为他想强调：在自由民主社会中，大学有一个关键的"权力制衡角色"——无论哪个政治党派或意识形态当前执政，大学都有责任"向权力说真话"，而这种"真话"必须基于系统性的公正分析、学术与实证研究（Grace, 2010, p.89）。
 

@@ -63,7 +63,7 @@ updated: '2026-05-19'
 >
 > 2. **[[Critical Realism|批判实在论]]视角**：Wrigley 引入 Bhaskar 的三层本体论（real / actual / empirical）论证 EBE 的方法论停留在"经验层"[[Observational and Correlational Research|观察]]规则性，未能深入"真实层"寻找因果机制。教育是开放系统，规律性只在人为封闭的条件下才出现。
 >
-> 3. **新自由主[[Rightness|义]]框架分析**：Wrigley 将 EBE 的兴起置于新自由主义政策框架中——"什么有效"的话语通过技术中立的外表抹除教育目的和价值问题，使教师被去专业化。
+> 3. **新自由主义框架分析**：Wrigley 将 EBE 的兴起置于新自由主义政策框架中——"什么有效"的话语通过技术中立的外表抹除教育目的和价值问题，使教师被去专业化。
 >
 > > "The sloganistic 'what works' reflects a neoliberal demand to extract maximum efficiency from education, while marginalising the qualitative and political dimensions of human formation." (Wrigley, 2018, p. 13)
 >
@@ -86,7 +86,7 @@ updated: '2026-05-19'
 > [!note-] 与既有 [[Evidence-Based Education|EBE]] 批判者的互补
 > | 学者 | 批判层级 | 批判工具 |
 > |------|---------|---------|
-> | Biesta (2010) | 哲学前提（认识论/存在论/实践论） | Dewey 实用主[[Rightness|义]]、Latour 科学社会学 |
+> | Biesta (2010) | 哲学前提（认识论/存在论/实践论） | Dewey 实用主义、Latour 科学社会学 |
 > | Cowen (2019) | 制度逻辑（官僚委托需求） | Tullock 公共选择理论 |
 > | **Wrigley** (2018) | **方法技术（[[Randomised Controlled Trials|RCT]]→[[Meta-analysis|元分析]]→[[Meta-meta-analysis|元元分析]]的三级失真）** | **[[Critical Realism|批判实在论]]（Bhaskar/Sayer/Pawson）** |
 > | **Wrigley & McCusker** (2019) | **科学哲学 + 方法技术（简单科学观 + 案例追踪）** | **批判实在论 + EEF Toolkit 深度案例追踪** |

@@ -27,21 +27,21 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 全球高等教育区域主义指高等教育被整合进世界各地区大规模政治经济区域整合项目的现象。作为一种地缘政治协调形式，区域主义旨在通过正式的制度建设项目或政策（如 EU、ASEAN 等区域国际组织）来创建、维持或修改世界区域的秩序（Thompson & Parreira do Amaral, 2022, p.11）。
 >
 
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs [[Internationalization of Higher Education|高等教育国际化]]：国际化侧重院校层面的跨境流动与合作；区域主[[Rightness|义]]则关注作为政治经济项目的区域整合框架如何将高等教育纳入其战略议程
+> - vs [[Internationalization of Higher Education|高等教育国际化]]：国际化侧重院校层面的跨境流动与合作；区域主义则关注作为政治经济项目的区域整合框架如何将高等教育纳入其战略议程
 > - vs 比较教育：比较教育以国别为分析单位；区域主义以超越民族国家的区域为分析单位，关注国家间相互依存和空间-地理关系
 >
 
 ## 概念演变
 
 > [!note-] 概念演变
-> Susan Robertson 及其合作者（Robertson et al., 2016）系统研究了高等教育如何被整合进全球区域主[[Rightness|义]]项目、过程和政治。该领域的研究起源于：
+> Susan Robertson 及其合作者（Robertson et al., 2016）系统研究了高等教育如何被整合进全球区域主义项目、过程和政治。该领域的研究起源于：
 >
 > - 20 世纪末区域主义研究的兴起，以欧盟一体化为主要推动力
 > - 2000 年里斯本战略后，欧盟将教育和研究嵌入其作为"全球最具竞争力的[[Knowledge-Based Economy|知识经济]]体"的经济想象（Thompson & Parreira do Amaral, 2022, p.11）
@@ -62,13 +62,13 @@ updated: '2026-05-18'
 > - **区域整合项目**：通过各种超国家机构（EU、ASEAN 等）实施的大规模政治经济项目，高等教育被嵌入这些项目的竞争性想象之中（Thompson & Parreira do Amaral, 2022, pp.11–12）
 > - **监管机制**：区域框架通过指标、排名、质量保障机制等政策工具监管高等教育，如 [[Regulatory Regionalism]]（Jayasuriya, 2010; Robertson, 2010）
 > - **竞争性想象**：各区域以[[Knowledge-Based Economy|知识经济]]竞争为框架想象自身，高等教育成为实现区域竞争优势的关键[[Champ|场域]]
-> - **多层次治理**：区域主[[Rightness|义]]在超国家、国家和地方层面同时运作，各层面之间形成复杂的互动和张力
+> - **多层次治理**：区域主义在超国家、国家和地方层面同时运作，各层面之间形成复杂的互动和张力
 >
 
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Geopolitics of Knowledge]] — 区域主[[Rightness|义]]是知识地缘政治在超国家层面的关键表现形式
+> - [[Geopolitics of Knowledge]] — 区域主义是知识地缘政治在超国家层面的关键表现形式
 > - [[Regulatory Regionalism]] — Jayasuriya (2010) 和 Robertson (2010) 的概念解释了超国家组织在高等教育治理中的监管角色
 >
 
@@ -82,7 +82,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 区域主[[Rightness|义]]框架可能将高等教育缩减为经济竞争的工具，忽略其文化、民主和伦理功能（Thompson & Parreira do Amaral, 2022, pp.12–13）
+> - 区域主义框架可能将高等教育缩减为经济竞争的工具，忽略其文化、民主和伦理功能（Thompson & Parreira do Amaral, 2022, pp.12–13）
 > - 区域主义研究多以西方（尤其是欧盟）经验为中心，其他区域的分析相对不足（编者类比）
 >
 

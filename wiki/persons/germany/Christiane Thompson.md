@@ -56,7 +56,7 @@ Christiane Thompson 是德国法兰克福歌德大学（Goethe University Frankf
 
 - Parreira do Amaral, M., Steiner-Khamsi, G., & Thompson, C. (Eds.). (2019). *Researching the [[Global Education Industry|global education industry]] — Commodification, the market and business involvement*. Palgrave Macmillan.
 - Parreira do Amaral, M., & Thompson, C. (2019). Conclusion: Changing education in the GEI — Rationales, logics, and modes of operation. In M. Parreira do Amaral, G. Steiner-Khamsi, & C. Thompson (Eds.), *Researching the global education industry*. Palgrave Macmillan.
-- Thompson, C., Schröder, S., & Wrana, D. (2022). Fostering the '[[Promising Student|promising student]]' at the outset: The digitization and management of student success in the [[Competitiveness in Higher Education|competitive university]]. In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education*. Springer. — 分析竞争性大学中数字化和成功管理学如何重塑"好学生"的含[[Rightness|义]]
+- Thompson, C., Schröder, S., & Wrana, D. (2022). Fostering the '[[Promising Student|promising student]]' at the outset: The digitization and management of student success in the [[Competitiveness in Higher Education|competitive university]]. In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education*. Springer. — 分析竞争性大学中数字化和成功管理学如何重塑"好学生"的含义
 
 ## 核心思想
 

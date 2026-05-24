@@ -34,7 +34,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Education at a Glance (EAG) 是 OECD 的年度旗舰出版物，汇集 30 项[[International Education|国际教育]]指标，以 230 张表格、140 张图表和超过 100,000 个数据点描述 OECD 成员国及部分非成员国的教育系统状况。尽管名为"概览"，实际上是一份约 550 页的深度报告（Gorur, 2014, p.4）。
 >
 > > "the authoritative source for accurate and relevant information on the state of education around the world"（OECD, 2012, back cover; Gorur, 2014, p.4）
@@ -80,7 +80,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - **政策影响力**：荷兰教师利用 1996 年 EAG 教师薪资指标争取加薪；美国利用辍学率指标比较突出其高中完成率偏低；某国执政党曾要求 EAG 推迟到议会选举后发布，以免教育系统的负面比较数据影响选情（Smith & Baker, 2001, p.142; Gorur, 2014, p.3–4）
-> - **制度惯性**：即使 EAG 团队建议删除某些指标或表格，用户（政策制定者）习惯后会抵制删除。"有人称它为[[Sage|圣]]经"（OECD 官员访谈，Gorur, 2014, p.17）
+> - **制度惯性**：即使 EAG 团队建议删除某些指标或表格，用户（政策制定者）习惯后会抵制删除。"有人称它为圣经"（OECD 官员访谈，Gorur, 2014, p.17）
 > - **简化的代价**：EAG 团队承认，面对媒体时必须"忘记所有技术细节"，说出一些"作为统计学家知道并不正确的话"，因为需要"让每个人都能理解的故事"（OECD 官员访谈，Gorur, 2014, p.15）
 > - **从指标到评估的滑移**：Bottani 指出 OECD 混淆了"指标"（alert 提醒）与"评估"（assessment 评判），EAG 从警示工具演变为对教育系统的全面评估（Gorur, 2014, p.14）
 

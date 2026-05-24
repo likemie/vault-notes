@@ -61,7 +61,7 @@ updated: 2026-05-20
 
 ### 星座结构的哲学基础
 
-Gruschka 借用 Adorno（1997）的"星座"（constellation）概念来强调三要素之间的非同一关系（Jornitz & Klinge, 2022, p.238 fn.2）。在 Adorno 的用法中，"星座"是一种拒绝将概念还原为定[[Rightness|义]]或将其纳入更高概念的思维方式——它要求围绕一个事物聚集相关的概念，而不声称任何一个概念完全"代表"了该事物。同样地，Bildung、Erziehung 和 Didaktik 不能相互还原——Didaktik 不是 Bildung 的"执行工具"，Erziehung 也不是 Bildung 的"附属品"。它们各自保持独立的同时，在每一次具体的教学行动中交织成一个整体。
+Gruschka 借用 Adorno（1997）的"星座"（constellation）概念来强调三要素之间的非同一关系（Jornitz & Klinge, 2022, p.238 fn.2）。在 Adorno 的用法中，"星座"是一种拒绝将概念还原为定义或将其纳入更高概念的思维方式——它要求围绕一个事物聚集相关的概念，而不声称任何一个概念完全"代表"了该事物。同样地，Bildung、Erziehung 和 Didaktik 不能相互还原——Didaktik 不是 Bildung 的"执行工具"，Erziehung 也不是 Bildung 的"附属品"。它们各自保持独立的同时，在每一次具体的教学行动中交织成一个整体。
 
 ### 对数字学习工具的批判功能
 
@@ -80,7 +80,7 @@ Gruschka 借用 Adorno（1997）的"星座"（constellation）概念来强调三
 ## 争议与批评
 
 > [!warning]
-> - **德国语境的特殊性**：该理论深深根植于德国 [[Bildung]]/[[Didaktik]] 传统，其核心概念（Bildung, Erziehung, Didaktik）在其他教育文化中缺乏[[Jing (Refined Mastery)|精]]确的对应概念，跨国适用性有待验证（Jornitz & Klinge, 2022 本身即是将该理论应用于全球 EdTech 分析的一次尝试）
+> - **德国语境的特殊性**：该理论深深根植于德国 [[Bildung]]/[[Didaktik]] 传统，其核心概念（Bildung, Erziehung, Didaktik）在其他教育文化中缺乏精确的对应概念，跨国适用性有待验证（Jornitz & Klinge, 2022 本身即是将该理论应用于全球 EdTech 分析的一次尝试）
 > - **经验基础的可见性**：虽然 Gruschka（2013）声称基于经验研究，但在当前仅通过 Jornitz & Klinge（2022）一章的引用，尚无法全面评估其经验基础的质量和范围
 > - **信息量限制**：本条目仅基于 Jornitz & Klinge（2022）对 Gruschka 理论的总结性介绍，Gruschka 原著的完整论证有待直接阅读后补充
 

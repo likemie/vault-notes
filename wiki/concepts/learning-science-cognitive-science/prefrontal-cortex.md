@@ -34,7 +34,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 前额叶皮层（Prefrontal Cortex, PFC）是位于大脑额叶、中央沟与额极之间的区域，包括 Brodmann 细胞构筑图中的第 8–13、24、27、32 和 46 区（Bolton & [[John Hattie|Hattie]], 2017, p.7，引用 Brodmann, 1909）。
 >
 > PFC 的定义性特征是其与皮层几乎所有区域以及部分下脑区域的众多连接。与脑干、丘脑、基底神经节和边缘系统的连接被认为使 PFC 在大脑其他区域的细胞抑制中发挥重要作用（Bolton & Hattie, 2017, p.7）。
@@ -57,7 +57,7 @@ updated: '2026-05-18'
 PFC 在儿童期到青春期再到成年期的大小、形状和功能持续发展（Bolton & [[John Hattie|Hattie]], 2017, p.8）。其两个显著特征：
 
 - **相对生长更大** — 人类 PFC 的相对生长大于其他动物，是人脑的区分性特征（Bolton & Hattie, 2017, p.7，引用 Brodmann, 1912）
-- **最后成[[Shu (Familiarization)|熟]]、最先老化** — PFC 是大脑最后成熟的区域之一，约 30 岁达到成熟；同时是最早出现老化迹象的区域之一（Bolton & Hattie, 2017, p.7）
+- **最后成熟、最先老化** — PFC 是大脑最后成熟的区域之一，约 30 岁达到成熟；同时是最早出现老化迹象的区域之一（Bolton & Hattie, 2017, p.7）
 
 PFC 的解剖和生理发育与白质和灰质的变化相关，这些变化源于[[Synaptogenesis|突触发生]]、[[Synaptic Pruning|突触修剪]]和[[Myelination|髓鞘化]]过程（Bolton & Hattie, 2017, p.8）。
 

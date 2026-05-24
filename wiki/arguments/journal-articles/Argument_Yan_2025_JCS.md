@@ -48,7 +48,7 @@ updated: '2026-05-18'
 > - [[World Society Theory]] — 全球学校模式趋同假设。[[Liberal Studies (Hong Kong)|LS]] 的诞生表面上支撑该理论（引用全球趋势、IBDP 课程参照），但论文认为这是表面修辞而非变革动因
 > - [[Policy Borrowing]] — Steiner-Khamsi 的政策借用框架。分析港府如何"[[Externalization (Schriewer)|外化]]"改革需求，以全球化论述合法化国内议程
 > - **Tröhler (2023) 国家利益驱动课程变革** — 废除阶段的核心解释框架
-> - **Vickers & Morris (2022) 威权国家主[[Rightness|义]]与教育** — 解释中共如何通过教育确保边疆忠诚
+> - **Vickers & Morris (2022) 威权国家主义与教育** — 解释中共如何通过教育确保边疆忠诚
 >
 > 论文的方法论立场：来自 Apple、[[Pierre Bourdieu|Bourdieu]]、Kliebard 的批判视角——将学校科目视为"最典型的社会与政治建构"（Goodson & Marsh, 1996, p. 1）。
 
@@ -88,7 +88,7 @@ updated: '2026-05-18'
 > 4. 2020 年 6 月 《香港国安法》颁布，提供了法律基础
 > 5. 尽管 2020 年 9 月课程检讨报告建议保留 LS，港府直接宣布废除
 > 6. 废除过程无公众咨询、无持份者协商 — 教协已被关闭，批评媒体被压制
-> 7. 替换为 [[Citizenship and Social Development (Hong Kong)|CSD]]，核心目标转向爱国主[[Rightness|义]]和国家认同
+> 7. 替换为 [[Citizenship and Social Development (Hong Kong)|CSD]]，核心目标转向爱国主义和国家认同
 >
 > ### 结论
 >

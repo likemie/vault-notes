@@ -38,7 +38,7 @@ updated: 2026-05-22
 ## 定义
 
 > [!info]
-> Ren（仁）是儒学的最高道德概念，指一个人通过终身修养达到的最真诚、最完整、最富人性的道德境界。它超越任何单一德目（如[[Filial Piety|孝]]、[[Li (Propriety)|礼]]、[[Rightness|义]]），是[[Confucian Learning Tradition|儒家学习传统]]的终极目标。
+> Ren（仁）是儒学的最高道德概念，指一个人通过终身修养达到的最真诚、最完整、最富人性的道德境界。它超越任何单一德目（如孝、[[Li (Propriety)|礼]]、[[Rightness|义]]），是[[Confucian Learning Tradition|儒家学习传统]]的终极目标。
 
 > [!quote]
 > Ren 在仅约 55 页的《论语》碎片化段落中出现了 105 次，足见其核心地位（Li, 2012, p.41）。Li 将 ren 概括为：一个真正仁的人，是"终身致力于成为他／她所能成为的最真诚、最真挚、最富人性的人"，这一过程"必须永无止境"（Li, 2012, p.41）。
@@ -49,12 +49,12 @@ updated: 2026-05-22
 
 > [!example]
 > **Ren 不等于拥有某些美德或优越心智**。[[Confucius|孔子]]的许多学生各自拥有令人钦佩的道德品质和优越的智识能力，孔子承认他们的优点，但始终不愿称他们达到了 ren（Li, 2012, p.41）。这意味着：
-> - 拥有[[Filial Piety|孝]] ≠ 已达 ren
+> - 拥有孝 ≠ 已达 ren
 > - 拥有聪明才智 ≠ 已达 ren
 > - 拥有某些美德和道德品质只是起点，ren 意味着将这些品质整合为一种完整的生活方式
 
 > [!example]
-> **Ren 与西方道德概念的差异**：ren 没有[[Jing (Refined Mastery)|精]]确的英文对应词。曾被译为 human goodness（人的善）、benevolence（仁慈）、humanity（人性）、humanheartedness（人心）、authoritative conduct（权威性行为）等，但都无法完全捕捉其含[[Rightness|义]]（Li, 2012, p.41）。
+> **Ren 与西方道德概念的差异**：ren 没有精确的英文对应词。曾被译为 human goodness（人的善）、benevolence（仁慈）、humanity（人性）、humanheartedness（人心）、authoritative conduct（权威性行为）等，但都无法完全捕捉其含义（Li, 2012, p.41）。
 
 ---
 
@@ -73,7 +73,7 @@ updated: 2026-05-22
 > [!abstract]
 > 1. **终身性（never-ending）**：追求 ren 不是一次性成就，而是永无止境的过程。"仁以为己任，不亦重乎？死而后已，不亦远乎？"（Li, 2012, p.41）
 > 2. **自主性（self-chosen）**：ren 是个人自主选择的生命道路，不是外部强加的规范（Li, 2012, p.41）
-> 3. **警觉的自我审视（vigilant self-watchfulness）**：以敬畏和尊重的[[Jing (Refined Mastery)|精]]神，对每一件事、每一个行为、每一个念头进行自我审查（Li, 2012, p.41）
+> 3. **警觉的自我审视（vigilant self-watchfulness）**：以敬畏和尊重的精神，对每一件事、每一个行为、每一个念头进行自我审查（Li, 2012, p.41）
 > 4. **开放性与创造性（open and creative）**：因为每个人的实际生活境遇不同，追求 ren 的过程是开放的，需要个人的创造性（Li, 2012, p.41）
 > 5. **深刻的内在喜乐（deep joy）**：在追求 ren 的过程中，人见证自己的生命工程，伴随着深深的喜悦、满足和充实感（Li, 2012, p.41）
 > 6. **即世间而超越（earthly bound and spiritually transcendent）**：ren 既是脚踏实地的日常实践，又具有精神超越的维度（Li, 2012, p.41）
@@ -92,7 +92,7 @@ updated: 2026-05-22
 ## 争议与批评
 
 > [!warning]
-> - [[Confucius|孔子]]始终不愿确认任何具体学生已达 ren，导致 ren 的定[[Rightness|义]]边界模糊——如果连孔子最优秀的学生都未达成，那么 ren 是否是一个过于苛求、可望不可即的理想？（Li, 2012, p.41）
+> - [[Confucius|孔子]]始终不愿确认任何具体学生已达 ren，导致 ren 的定义边界模糊——如果连孔子最优秀的学生都未达成，那么 ren 是否是一个过于苛求、可望不可即的理想？（Li, 2012, p.41）
 > - ren 的高度内省性和开放性可能与现代社会对明确行为准则和可衡量目标的需求产生张力
 
 ---

@@ -95,7 +95,7 @@ updated: '2026-05-18'
 >
 > Wrigley & McCusker (2019, p. 124) 警告：ResearchED 和 EEF 以不同方式声称通过研究素养赋权实践者，但实际上"推广并延续了一种单一维度的研究观，同时边缘化了更广泛的研究形式"。数据以诱使用户对可用证据产生规定性解释的方式呈现。这形成了一个循环：狭隘的研究观和证据观 ↔ 狭隘的教学理解和实践。
 >
-> Carol Black (2018) 在其文章 "Science/Fiction" 中将"揭穿"更广泛研究传统的时尚与政治和教育保守主[[Rightness|义]]以及**传输式教育模式**（transmission model of education）联系起来。Wrigley & McCusker 总结："以'科学'之名，结合高利害问责体系的动力，我们正在见证一场反启蒙的——关闭理解和参与世界的方式的——运动"（p. 124）。
+> Carol Black (2018) 在其文章 "Science/Fiction" 中将"揭穿"更广泛研究传统的时尚与政治和教育保守主义以及**传输式教育模式**（transmission model of education）联系起来。Wrigley & McCusker 总结："以'科学'之名，结合高利害问责体系的动力，我们正在见证一场反启蒙的——关闭理解和参与世界的方式的——运动"（p. 124）。
 
 ## 来源
 

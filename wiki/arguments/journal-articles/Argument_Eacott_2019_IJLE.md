@@ -49,7 +49,7 @@ updated: '2026-05-18'
 > 1. **前提**：教育行政与领导力领域长期以来缺乏真正的学术对话，呈现为"[[Parallel Monologues|平行独白]]"状态（Eacott, 2019, p.774）
 > 2. **案例呈现**：以 Eacott（2017a）关于"[[John Hattie|Hattie]] [[Cult of the Guru|大师崇拜]]"的论文为案例，描述三种类型的反应——博士候选人博客攻击、向大学科研副校长的投诉、以及 Hattie 本人的回应（Eacott, 2019, pp.775-779）
 > 3. **分析框架**：以论文传播、期刊编辑处理、学者回应的方式为分析对象，评估该领域的"社会认识论"——即学术工作的逻辑如何生成（或未能生成）对话和辩论（Eacott, 2019, p.775）
-> 4. **核心区分**：thesis-antithesis-synthesis（正题-反题-合题）vs argument-refutation（论证-反驳）。Hattie 提供了 antithesis（反题），但并未进行 refutation（反驳）——他只需在表层引用几个词就能反驳 Eacott 的主张，而不需理解其底层生成意[[Rightness|义]]（Eacott, 2019, p.779）
+> 4. **核心区分**：thesis-antithesis-synthesis（正题-反题-合题）vs argument-refutation（论证-反驳）。Hattie 提供了 antithesis（反题），但并未进行 refutation（反驳）——他只需在表层引用几个词就能反驳 Eacott 的主张，而不需理解其底层生成意义（Eacott, 2019, p.779）
 > 5. **结论**：学术领域应从"平行独白"转向以论证和反驳为生成逻辑的学术实践（Eacott, 2019, p.779-780）
 
 ## 主要发现

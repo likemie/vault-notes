@@ -35,7 +35,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Technical Rationality]] — 论文论证 [[John Hattie|Hattie]] 的工作深受 Schön (1983) 所描述的技术理性影响，这构成其隐含的理论内核。技术理性是实证主[[Rightness|义]]的遗产，铺平了教育中的手段-目的思维
+> - [[Technical Rationality]] — 论文论证 [[John Hattie|Hattie]] 的工作深受 Schön (1983) 所描述的技术理性影响，这构成其隐含的理论内核。技术理性是实证主义的遗产，铺平了教育中的手段-目的思维
 > - 论文同时将 Hattie 的理论追溯到行为主义：Hattie (1987) 明确表示借鉴了 Glaser 的学习理论，而 Glaser 是 Skinner 的学生，以进一步发展程序化教学和行为分析闻名
 
 ## 研究方法
@@ -50,7 +50,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > 1. **前提／[[Observational and Correlational Research|观察]]**：[[John Hattie|Hattie]] 自称"我是统计学家，不是理论家"（Knudsen, 2017），其追随者将 VL 呈现为"不可否认的事实"
 >
-> 2. **论证步骤一——Hattie 是教育理论家**：所有研究都基于理论假设（定[[Rightness|义]]问题、选择方法、解释结果）。Hattie 未阐明其理论假设，制造了"结果从数据中无中介流出"的假象。其隐含理论是[[Technical Rationality|技术理性]] + 行为主义（通过 Glaser）
+> 2. **论证步骤一——Hattie 是教育理论家**：所有研究都基于理论假设（定义问题、选择方法、解释结果）。Hattie 未阐明其理论假设，制造了"结果从数据中无中介流出"的假象。其隐含理论是[[Technical Rationality|技术理性]] + 行为主义（通过 Glaser）
 >
 > 3. **论证步骤二——实证问题**：
 >    - **单一因果因素**：Hattie 追求离散因果因素（如[[Class Size|班级规模]]、作业、[[Feedback|反馈]]）的[[Effect Size|效应量]]，但教育实践是相互关联的开放系统。以班级规模为例：Berger (1982) 论证班级规模本身不能作为有意义的分析单元——需结合学生能力、社会背景、教师能力等
@@ -76,7 +76,7 @@ updated: '2026-05-18'
 > - [[John Hattie|Hattie]] 的[[Feedback|反馈]]效应（d=0.73）所依据的 5 项最重[[Meta-analysis|元分析]]中，4 项未研究同一现象——不同现象被统一在"反馈"标题下汇总（p.9-12）
 > - Hattie 对 SES 的有意排除导致他的工作"在最坏的情况下发展出阶级盲的教学思维"（p.6）
 > - d=0.40 截断值不是科学客观分类，而是高度规范性的判断；Hattie 公开承认这是为了"创造一个故事"（p.7）
-> - Hattie 通过 Glaser 在理论上受 Skinner 行为主[[Rightness|义]]影响，但他本人未明确阐述这一理论谱系（p.3）
+> - Hattie 通过 Glaser 在理论上受 Skinner 行为主义影响，但他本人未明确阐述这一理论谱系（p.3）
 > - 论文与 Rømer (2019) 的解读不同——Rømer 认为 Hattie 的理论是[[Radical Constructivism|激进建构主义]]，Nielsen & Klitmøller 论证其内核是[[Technical Rationality|技术理性]]
 
 ## 关键引用

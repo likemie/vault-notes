@@ -73,7 +73,7 @@ updated: '2026-05-24'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 教育证据清算中心（Educational Evidence Clearinghouses）是审查教育项目效果研究并发布项目有效性评级的机构。Wadhwa, Zheng & Cook 将 clearinghouse（清算中心）定义为一类实体：它们审查分析教育项目效果的研究，然后发布关于该项目"有多有效"的评级（Wadhwa et al., 2024, p.5）。
 >
 > 在[[Evidence-Based Education|证据本位教育]]中，清算中心承担五项功能：规定因果效应的科学标准、搜寻符合质量要求的研究、评价单项研究、综合研究结果以判断项目是否值得推荐，并向研究者、政策制定者、教师、学校管理者、家长和公众传播"有效、 promising、效果不清、无效或有害"等结论（Wadhwa et al., 2024, p.4）。
@@ -89,7 +89,7 @@ updated: '2026-05-24'
 - **2002** — [[What Works Clearinghouse (WWC)]] 由美国教育部创建，用于识别和审查符合严格标准的教育研究；在 WWC 体系中，达到“无保留”或“有保留”标准通常需要 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]] 证据（Ross & Morrison, 2021, p.109）。
 - **2015** — ESSA 将证据分为强、中、有希望和基于原理四级，使清算中心的评级语言更直接进入学校改进拨款和项目选择（Ross & Morrison, 2021, p.109）。
 - **2015 之后** — Evidence for ESSA 等面向实践者的平台出现，并与 WWC 一起扩展学校和学区获取项目证据的渠道；这种变化提高了正式证据的可及性，但没有自动解决实践者对成本、实施和本地适配信息的需求（Ross & Morrison, 2021, pp.110, 120-121）。
-- **2020s** — 美国和英国的教育清算中心形成多机构生态，不同机构在研究设计、复制要求、[[Effect Size|效应量]]阈值、持续效果和评级单位上采用不同标准；这使“evidence-based”在实践中的含[[Rightness|义]]变得不稳定（Wadhwa et al., 2024, pp.3-5, 26-30）。
+- **2020s** — 美国和英国的教育清算中心形成多机构生态，不同机构在研究设计、复制要求、[[Effect Size|效应量]]阈值、持续效果和评级单位上采用不同标准；这使“evidence-based”在实践中的含义变得不稳定（Wadhwa et al., 2024, pp.3-5, 26-30）。
 
 ## 核心要素
 
@@ -130,7 +130,7 @@ updated: '2026-05-24'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Campbellian Validity Framework]] — "evidence-based"在清算中心实践中的意[[Rightness|义]]可以被视为一个构念效度问题：如果不同清算中心对同一项目的有效性判断不能收敛，就说明 [[Evidence-Based Education|EBE]] 实践中的概念与实施方式差异过大，使用者应谨慎对待评级（Wadhwa et al., 2024, p.4）。
+> - [[Campbellian Validity Framework]] — "evidence-based"在清算中心实践中的意义可以被视为一个构念效度问题：如果不同清算中心对同一项目的有效性判断不能收敛，就说明 [[Evidence-Based Education|EBE]] 实践中的概念与实施方式差异过大，使用者应谨慎对待评级（Wadhwa et al., 2024, p.4）。
 
 ## 实证发现
 
@@ -145,7 +145,7 @@ updated: '2026-05-24'
 ## 争议与批评
 
 > [!warning] "Evidence-based"的构念效度不足
-> 核心问题不是某一个清算中心质量低，而是清算中心作为整体未能对"evidence-based"形成稳定的实践意[[Rightness|义]]。若一个术语具有高构念效度，那么不同清算中心在评价同一项目时至少应有较高收敛；但现有比较显示这种收敛只是有限的，因此"evidence-based"在清算中心语境中只有有限的实践构念效度（Wadhwa et al., 2024, p.26）。
+> 核心问题不是某一个清算中心质量低，而是清算中心作为整体未能对"evidence-based"形成稳定的实践意义。若一个术语具有高构念效度，那么不同清算中心在评价同一项目时至少应有较高收敛；但现有比较显示这种收敛只是有限的，因此"evidence-based"在清算中心语境中只有有限的实践构念效度（Wadhwa et al., 2024, p.26）。
 
 
 > [!warning] 证据消费者的误导风险

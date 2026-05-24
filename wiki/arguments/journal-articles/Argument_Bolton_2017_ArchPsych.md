@@ -35,7 +35,7 @@ updated: '2026-05-18'
 > [!abstract] 理论框架
 > - piagets-theory-of-cognitive-development — [[Jean Piaget|皮亚杰]]四阶段论作为认知发展的基线框架（Bolton & [[John Hattie|Hattie]], 2017, p.2–3）
 > - neo-piagetian-theories — Pascual-Leone (1970)、Case (1985, 1992)、Fischer (1980) 等[[Neo-Piagetian Theories|新皮亚杰理论]]作为修正框架（Bolton & Hattie, 2017, p.3）
-> - miyake-unity-diversity-framework — Miyake et al. (2000) 的 [[Executive Function|EF]] 统一性与多样性框架用于定[[Rightness|义]]和分解 EF 成分（Bolton & Hattie, 2017, p.4）
+> - miyake-unity-diversity-framework — Miyake et al. (2000) 的 [[Executive Function|EF]] 统一性与多样性框架用于定义和分解 EF 成分（Bolton & Hattie, 2017, p.4）
 
 ## 研究方法
 
@@ -48,7 +48,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > 1. **前提／[[Observational and Correlational Research|观察]]** — [[Jean Piaget|皮亚杰]]和[[Neo-Piagetian Theories|新皮亚杰理论]]描述了认知发展的阶段性，但一直缺乏对阶段过渡机制的令人满意的解释（Bolton & [[John Hattie|Hattie]], 2017, p.3）
 > 2. **论证步骤** — 将四个皮亚杰阶段（0–2, 2–7, 7–11, 11–16 岁）按时间顺序与 [[Executive Function|EF]] 三个成分（抑制、转换、[[Updating and Monitoring|更新与监控]]）的发展轨迹以及 [[Prefrontal Cortex|PFC]] 的解剖生理变化（[[Synaptogenesis|突触发生]]、[[Synaptic Pruning|突触修剪]]、[[Myelination|髓鞘化]]）进行对齐（Bolton & Hattie, 2017, p.8–13）
-> 3. **结论** — 皮亚杰发展阶段与 PFC 成[[Shu (Familiarization)|熟]]过程在时间上平行对应，认知发展的阶段过渡可能是执行功能随大脑发育而发展的函数（Bolton & Hattie, 2017, p.1, 13）
+> 3. **结论** — 皮亚杰发展阶段与 PFC 成熟过程在时间上平行对应，认知发展的阶段过渡可能是执行功能随大脑发育而发展的函数（Bolton & Hattie, 2017, p.1, 13）
 
 ## 主要发现
 
@@ -56,7 +56,7 @@ updated: '2026-05-18'
 > - **0–2 岁（感觉运动阶段）** — 7–12 个月发生剧烈[[Synaptogenesis|突触发生]]，[[Prefrontal Cortex|PFC]] 树突连接延伸至成人长度；[[Electroencephalography|EEG]] 研究显示 PFC 在 A not B 任务和物体检索任务中被激活（Bolton & [[John Hattie|Hattie]], 2017, p.9）
 > - **2–7 岁（前运算阶段）** — 三种 [[Executive Function|EF]] 成分在 3–5 岁出现"铰链点"（hinge point）；PFC 灰质密度在约 3 岁达到峰值；突触连接密度从比成人高 55%（2 岁）降至仅高 10%（7 岁）；[[Myelination|髓鞘化]]开始，白质体积增加（Bolton & Hattie, 2017, p.10–12）
 > - **7–11 岁（具体运算阶段）** — 儿童思维变得更加灵活，能同时组合多种视角；[[Functional Magnetic Resonance Imaging|fMRI]] 研究显示此阶段 PFC 激活模式与成人逐渐接近但仍存在差异（Bolton & Hattie, 2017, p.12–13）
-> - **11–16 岁及以后（形式运算阶段）** — EF 持续改善至约 16 岁，此后改善速率逐渐下降直至 30 岁出头；PFC 约 30 岁达到完全成[[Shu (Familiarization)|熟]]（Bolton & Hattie, 2017, p.5, 7）
+> - **11–16 岁及以后（形式运算阶段）** — EF 持续改善至约 16 岁，此后改善速率逐渐下降直至 30 岁出头；PFC 约 30 岁达到完全成熟（Bolton & Hattie, 2017, p.5, 7）
 > - EF 成分的发展顺序：抑制最早发展（2–5 岁为关键增长期），转换和更新紧随其后，所有三种成分在 3–5 岁出现大幅变化（Bolton & Hattie, 2017, p.10–11）
 > - 背外侧 PFC（dlPFC）的树突连接在 7.5–12 个月达到成人长度并至少维持到 27 岁，而 PFC 整体树突连接在 2 岁时仅达到成人水平的一半（Bolton & Hattie, 2017, p.9）
 

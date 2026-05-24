@@ -29,7 +29,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 研究者自由度（Researcher Degrees of Freedom）由 Simmons, Nelson & Simonsohn (2011) 提出，指研究者在数据收集和分析过程中可以做出一系列未被披露的决策——这些决策的累积效应可能使几乎任何结果呈现为统计显著。在教育项目评估中，开发者可能利用这些自由度来优化研究结果，构成[[Developer Effect|开发者效应]]的可能机制之一。
 >
 > > "Another way that developers could potentially influence study results... is by influencing study design and data cleaning and analysis decisions to produce the most favorable study results possible." (Wolf et al., 2020, p. 429, citing Simmons, Nelson, & Simonsohn, 2011)

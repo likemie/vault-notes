@@ -27,8 +27,8 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
-> 突触修剪（Synaptic Pruning）是突触消除的过程，即神经元之间连接的程序性丧失。它与通过[[Jing (Refined Mastery)|精]]简和移除低效神经组织来精炼神经元之间连接的过程相关（Bolton & [[John Hattie|Hattie]], 2017, p.6，引用 LaMantia & Rakic, 1984）。
+> [!info] 定义
+> 突触修剪（Synaptic Pruning）是突触消除的过程，即神经元之间连接的程序性丧失。它与通过精简和移除低效神经组织来精炼神经元之间连接的过程相关（Bolton & [[John Hattie|Hattie]], 2017, p.6，引用 LaMantia & Rakic, 1984）。
 >
 > > "Synaptic pruning is the process of synapse elimination, or the programmed loss of connections between neurons."（Bolton & Hattie, 2017, p.6）
 

@@ -24,7 +24,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 结构耦合（Structural Coupling）是 [[Niklas Luhmann]]（1997, pp.92-134）[[Luhmann's Systems Theory|系统理论]]中的概念，描述两个封闭的、自我指涉的（self-referential）、复杂的和不可预测的系统之间的关系——这种关系不是因果性的输入-输出，而是两个系统之间的"链接"（link）。Qvortrup（2019, p.4）将其引入教育研究，用以描述教师的教学与学生的学习之间的关系。
 >
 > > "Teaching and learning are not causally related. The relation is a link, or a 'structural coupling' (Luhmann, 1997, pp. 92–134), between two closed, self-referential, complex and unpredictable reflection loops: The reflection loop of the learning student, and the reflection loop of the teacher as a reflective practitioner."（Qvortrup, 2019, p.4）
@@ -53,7 +53,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> - Qvortrup（2019, p.6）基于 Luhmann 的理论框架推断：可以识别统计概率（如 [[John Hattie|Hattie]] 的[[Effect Size|效应量]]），但不能识别简单的、因果性的教学干预与学习成果之间的机制。这一推断的实质意[[Rightness|义]]在于：效应量作为概率信息具有实践价值，但不应被解释为因果知识。
+> - Qvortrup（2019, p.6）基于 Luhmann 的理论框架推断：可以识别统计概率（如 [[John Hattie|Hattie]] 的[[Effect Size|效应量]]），但不能识别简单的、因果性的教学干预与学习成果之间的机制。这一推断的实质意义在于：效应量作为概率信息具有实践价值，但不应被解释为因果知识。
 
 ## Larsen (2019) 的用法
 

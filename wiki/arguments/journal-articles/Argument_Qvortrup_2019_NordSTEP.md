@@ -47,13 +47,13 @@ updated: '2026-05-18'
 
 > [!info] 研究方法
 > - 方法：讨论论文（discussion paper）——以论辩和分析为主要方法
-> - 分析策略：以 Alexander (2011) 的四种批判性政策话语（二分法、嘲弄、神话、无意[[Rightness|义]]）为框架，分析丹麦 [[John Hattie|Hattie]] 批评文献的修辞特征
+> - 分析策略：以 Alexander (2011) 的四种批判性政策话语（二分法、嘲弄、神话、无意义）为框架，分析丹麦 [[John Hattie|Hattie]] 批评文献的修辞特征
 > - 认识论立场："[[Observational and Correlational Research|观察]]位置"（von Foerster, 1984; Thyssen, 2012）——不同的理论代表不同的观察位置和透镜，不同观察产生不同图像，相互补充而非排斥
 
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提／[[Observational and Correlational Research|观察]]**：在丹麦，[[John Hattie|Hattie]] 的 [[Visible Learning]] 引发了大量但主要是批评性的反应——包括情绪化的（"不喜欢数字和统计"）和基于表面阅读的（将 Hattie 等于古典行为主[[Rightness|义]]）批评。一个由研究者、政治家和工会代表组成的解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人（Qvortrup, 2019, p.3-5）
+> 1. **前提／[[Observational and Correlational Research|观察]]**：在丹麦，[[John Hattie|Hattie]] 的 [[Visible Learning]] 引发了大量但主要是批评性的反应——包括情绪化的（"不喜欢数字和统计"）和基于表面阅读的（将 Hattie 等于古典行为主义）批评。一个由研究者、政治家和工会代表组成的解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人（Qvortrup, 2019, p.3-5）
 >
 > 2. **论证步骤**：
 >    - **步骤一**：批评者的误读并非偶然——某些批评使用 Alexander 识别的"二分法话语"（统计 vs 独特性）和"嘲弄话语"（歪曲、嘲笑、人身攻击），将自己置于 Popper 所定义的"科学游戏"之外（Qvortrup, 2019, p.3-4）
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 > - 论文为讨论论文（discussion paper），非实证研究——论点未经过系统数据检验
 > - Qvortrup 本人是丹麦 [[John Hattie|Hattie]] 译本的导言作者之一——作为 VL 的直接推广者，其辩护者的立场可能影响其分析的中立性
 > - 论文将丹麦批评者整体定性为"解释社群"和"文化战争"可能过度简化——部分批评（如 Rømer 2018 的五线哲学批评、Nielsen & Klitmøller 2021 的合法化危机分析）确实提出了实质性的学术论点，不应被简单归类为意识形态驱动的误读
-> - Qvortrup 的"[[Observational and Correlational Research|观察]]透镜"认识论可能滑向相对主[[Rightness|义]]——如果不问透镜可以产生同样有效的但相互矛盾的图像，如何在不同透镜之间做出合理判断？
+> - Qvortrup 的"[[Observational and Correlational Research|观察]]透镜"认识论可能滑向相对主义——如果不问透镜可以产生同样有效的但相互矛盾的图像，如何在不同透镜之间做出合理判断？
 
 ## 来源
 

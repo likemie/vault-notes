@@ -38,7 +38,7 @@ updated: '2026-05-18'
 > - [[Pierre Bourdieu]] — 本体论共谋（ontological complicity）：学者对周围世界的嵌入具身性关系使其难以与现状决裂（Eacott, 2017, p.414, citing Bourdieu & Wacquant, 1992; Eacott, 2015）
 > - Callahan（1962）*Education and the Cult of Efficiency* — 历史类比：20 世纪上半叶美国公立教育被商业实践（尤其是 Taylor 的科学管理）渗透，Eacott 将其作为分析框架类比于当代澳大利亚的"[[John Hattie|Hattie]] [[Cult of the Guru|大师崇拜]]"（Eacott, 2017, p.413-414）
 > - 管理修辞（managerial rhetoric）理论：Abrahamson（1997）和 Hartley（2010）的修辞类型学——理性/控制修辞（rational/control rhetoric）在感知到绩效下降时主导，规范性/抱负性修辞在急剧衰退时主导（Eacott, 2017, p.415）
-> - 关系取向（relational approach）：区别于实体主[[Rightness|义]]（substantialist）分析——Eacott 关注的是"使 Hattie 工作获得广泛接受成为可能的条件"，而非 Hattie 个人（Eacott, 2017, p.414）
+> - 关系取向（relational approach）：区别于实体主义（substantialist）分析——Eacott 关注的是"使 Hattie 工作获得广泛接受成为可能的条件"，而非 Hattie 个人（Eacott, 2017, p.414）
 
 ## 研究方法
 
@@ -59,7 +59,7 @@ updated: '2026-05-18'
 > **第二步：[[John Hattie|Hattie]] 提供了用行政语言说话的数据**
 > - Robinson, Lloyd, & Rowe（2008）的[[Meta-analysis|元分析]]为教育行政文献带来了"感知的严谨性和稳健性"，识别了五个对学生成绩影响最大的领导力维度——但仍缺少"具体做什么"的操作指南（Eacott, 2017, p.416-418）
 > - Hattie 填补了这一空白：800+ 元分析、52,637 项研究、138 个因素按[[Effect Size|效应量]]排名——"突然之间，尽管多年的[[School Effectiveness|学校效能]]和学校改进文献以及教学领导力的呼吁，终于有了用行政语言说话的研究"（Eacott, 2017, p.418）
-> - 以 d=0.40 等同于一个学年，使行政人员可以按照"投资回报"逻辑进行决策——"对效能和效率的追求，这是泰勒主[[Rightness|义]]的核心"（Eacott, 2017, p.418-419）
+> - 以 d=0.40 等同于一个学年，使行政人员可以按照"投资回报"逻辑进行决策——"对效能和效率的追求，这是泰勒主义的核心"（Eacott, 2017, p.418-419）
 >
 > **第三步：新型"科学"学校领导力的出现**
 > - Hattie 为学校行政提供了"教学的科学"——教与学过程不再隐藏在学习者心中，而是被"可见化"（Eacott, 2017, p.420）

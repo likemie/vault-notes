@@ -39,18 +39,18 @@ updated: '2026-05-18'
 >
 > 该框架的适用范围不限于某一特定设计类型——它统一适用于[[Randomised Controlled Trials|随机对照试验]]（RCT）、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design (SCD)|单一个案设计]]（[[21st Century Skills and Competencies Discourse|SCD]]）等多种能够产生因果证据的设计（Hitchcock et al., 2015, p.462）。
 >
-> > 例：无论是 RCT 通过随机分配控制选择偏差，还是 SCD 通过重复测量和阶段对比排除成[[Shu (Familiarization)|熟]]效应，两者都在应用 Campbellian 框架的同一逻辑——识别并排除对因果推断的替代解释。
+> > 例：无论是 RCT 通过随机分配控制选择偏差，还是 SCD 通过重复测量和阶段对比排除成熟效应，两者都在应用 Campbellian 框架的同一逻辑——识别并排除对因果推断的替代解释。
 
 ## 理论内部结构
 
 > [!abstract] 内部效度（Internal Validity）
-> **定[[Rightness|义]]**：内部效度指干预与结果变量之间因果关系的成立程度——即我们能否确信[[Observational and Correlational Research|观察]]到的变化确实是由干预引起的（Shadish et al., 2002; Hitchcock et al., 2015, p.461）。
+> **定义**：内部效度指干预与结果变量之间因果关系的成立程度——即我们能否确信[[Observational and Correlational Research|观察]]到的变化确实是由干预引起的（Shadish et al., 2002; Hitchcock et al., 2015, p.461）。
 >
 > > "Internal validity, or the degree to which a causal relationship exists between a treatment and outcome variable is valid, is the sin qua non of experimental design." (Hitchcock et al., 2015, p.461, citing Shadish et al., 2002)
 >
 > **判断程序**：首先明确手中的因果问题，然后选择能够控制常见内部效度威胁的设计。这些威胁本质上是干预后因变量变化的各种替代解释（Hitchcock et al., 2015, p.462）。
 >
-> > 例：在评估一种新的阅读干预时，如果学生的阅读成绩在干预后提高了，这可能是干预的效果，也可能是因为学生自然成[[Shu (Familiarization)|熟]]（maturation）或在干预期间学校同时推行了其他阅读计划（history）。一个好的实验设计需要排除这些替代解释。
+> > 例：在评估一种新的阅读干预时，如果学生的阅读成绩在干预后提高了，这可能是干预的效果，也可能是因为学生自然成熟（maturation）或在干预期间学校同时推行了其他阅读计划（history）。一个好的实验设计需要排除这些替代解释。
 >
 > **内部效度的常见威胁**（Shadish et al., 2002; Hitchcock et al., 2015, p.462）：
 >
@@ -109,14 +109,14 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究范式
-> - **认识论立场**：Campbellian 框架植根于后实证主[[Rightness|义]]传统（编者类比）——它接受因果推断的可行性，但要求通过系统性排除威胁来逐步逼近，而非一次性"证明"
+> - **认识论立场**：Campbellian 框架植根于后实证主义传统（编者类比）——它接受因果推断的可行性，但要求通过系统性排除威胁来逐步逼近，而非一次性"证明"
 > - **对实验设计的统一性**：该框架的关键洞察是不同实验设计（[[Randomised Controlled Trials|RCT]]、准实验、[[21st Century Skills and Competencies Discourse|SCD]]）共享相同的因果推断逻辑——都通过排除替代解释来建立因果关系——因此可以被统一的理论框架所涵盖（Hitchcock et al., 2015, p.462）
 > - **常用方法**：RCT、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design (SCD)]]——该框架为所有这些设计提供统一的效度评估语言
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **外部效度的结构性不对称**：Hitchcock et al. (2015, p.462, 467) 指出，内部效度有"一套明确定[[Rightness|义]]的常见替代解释（威胁）"，这些威胁已被系统编目；但外部效度的威胁"有些容易识别，有些则不是"，且审查者不知道消费者希望推广到何处。这种不对称意味着框架对外部效度的指导远弱于对内部效度的指导（编者类比）
+> - **外部效度的结构性不对称**：Hitchcock et al. (2015, p.462, 467) 指出，内部效度有"一套明确定义的常见替代解释（威胁）"，这些威胁已被系统编目；但外部效度的威胁"有些容易识别，有些则不是"，且审查者不知道消费者希望推广到何处。这种不对称意味着框架对外部效度的指导远弱于对内部效度的指导（编者类比）
 > - **在实践中更多是门控工具而非推广工具**：[[What Works Clearinghouse (WWC)|WWC]] 使用该框架时，内部效度用于严格的门控判断（达标/不达标），但外部效度仅被"描述"而不被"评分"，由消费者自行判断（Hitchcock et al., 2015, p.466）——这实质上将框架中最困难的部分（推广性判断）转嫁给了可能缺乏方法论训练的政策制定者和从业者
 > - **[[21st Century Skills and Competencies Discourse|SCD]] 推广性的特殊偏见**：存在"一种普遍（且错误）的信念认为 [[Single-Case Design (SCD)|SCD]] 证据不能推广"（Hitchcock et al., 2015, p.467）——这意味着框架在面对 SCD 时面临额外的社会认识论障碍，不仅仅是方法论障碍
 

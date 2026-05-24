@@ -25,12 +25,12 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Geert Hofstede 是国家文化研究中被 Laursen 称为"最有影响力"的学者。Laursen 引用 Hofstede、Hofstede 与 Minkov (2010) 的表述，将文化定[[Rightness|义]]为"software of the mind"，并指出 Hofstede 把价值观视为国家文化核心（Laursen, 2015, p.36）。
+> Geert Hofstede 是国家文化研究中被 Laursen 称为"最有影响力"的学者。Laursen 引用 Hofstede、Hofstede 与 Minkov (2010) 的表述，将文化定义为"software of the mind"，并指出 Hofstede 把价值观视为国家文化核心（Laursen, 2015, p.36）。
 
 ## 核心思想
 
 > [!info] 核心思想
-> - [[Hofstede's Cultural Dimensions]] — Hofstede 的原始工作提出四个国家文化维度：个人主[[Rightness|义]]/集体主义、权力距离、女性化/男性化、不确定性规避（Laursen, 2015, p.36）。
+> - [[Hofstede's Cultural Dimensions]] — Hofstede 的原始工作提出四个国家文化维度：个人主义/集体主义、权力距离、女性化/男性化、不确定性规避（Laursen, 2015, p.36）。
 > - 国家文化价值相对稳定，并影响国家政策、制度实践以及共享该文化的人们的行为（Laursen, 2015, p.36）。
 
 ## 主要贡献

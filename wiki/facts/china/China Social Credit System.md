@@ -48,12 +48,12 @@ updated: '2026-05-18'
 
 > [!success]
 > - Partaken 借用 Foucault《规训与惩罚》（1995）中 Bentham 全景敞视监狱（Panopticon）的分析框架：监视的"最大效果"在于被监视者处于"有意识和永久性的可见状态，确保权力自动运行"——监视在其效果上是永久性的，即使其行动是间断的（Partaken, 2022, p.81）
-> - "国家支持的大规模监视对普通人造成的最严重损害，是以安全为名——且不乏悖论地以自由为名——对一个[[Jing (Refined Mastery)|精]]英治理文明的美德导向价值论的贬低"（Partaken, 2022, p.81）
+> - "国家支持的大规模监视对普通人造成的最严重损害，是以安全为名——且不乏悖论地以自由为名——对一个精英治理文明的美德导向价值论的贬低"（Partaken, 2022, p.81）
 
 ## 争议与评论
 
 > [!warning]
-> - Partaken 从西方自由主[[Rightness|义]]立场出发进行批判，强调该体系对 virtue-oriented axiology of a meritocratic civilization 的损害（Partaken, 2022, p.81）
+> - Partaken 从西方自由主义立场出发进行批判，强调该体系对 virtue-oriented axiology of a meritocratic civilization 的损害（Partaken, 2022, p.81）
 > - 该章对中国制度的描述采用强烈批判性措辞，可能低估了该体系在中国国内语境中作为信用治理工具的功能多样性
 
 ## 相关概念／政策

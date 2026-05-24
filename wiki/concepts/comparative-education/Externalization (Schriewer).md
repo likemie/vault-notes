@@ -31,7 +31,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 外化（Externalization）是 [[Jurgen Schriewer]] 在比较教育研究中提出的核心分析概念，描述教育系统如何将内部的问题构型和反思情境投射到国际环境中，从而通过参照"外部"来为内部的改革或抵制提供论证。外化不是对国际环境的客观描述，而是一个**过滤过程**——内部系统根据自身的需求选择性地接收和描述国际环境。
 >
 > > "Externalizations 'filter' the reception and description of an international environment according to the changing problem configurations and reflection situations internal to a given system." (Schriewer & Martinez, 2004, p. 32，引自 Rappleye, 2006, p. 230)
@@ -45,7 +45,7 @@ updated: '2026-05-18'
 > [!note-] 历史沿革
 > - **Schriewer (1990)** — 在比较教育方法论中首次系统提出外化概念，将其定位为比较方法的认识论工具
 > - **Schriewer (2003)** — 将外化纳入更广泛的话语形成（Discourse Formation）理论框架
-> - **Schriewer & Martinez (2004)** — 区分"进化过程"（更广阔世界的变化）和"语[[Rightness|义]]建构"（人类与结构领域的互动产物），强调两者完全独立
+> - **Schriewer & Martinez (2004)** — 区分"进化过程"（更广阔世界的变化）和"语义建构"（人类与结构领域的互动产物），强调两者完全独立
 > - **Rappleye (2006)** — 将外化概念整合入[[Cross-National Attraction|跨国吸引]]力情境概念地图，赋予其在改革和抵制两侧的对称位置
 
 ## 核心要素
@@ -69,7 +69,7 @@ updated: '2026-05-18'
 > [!abstract] 外化与情境的"双层结构"
 > 外化概念揭示了情境并非单一实体，而是由两个独立层面构成（Rappleye, 2006, p. 230–232）：
 > 1. **"更广阔世界的变化"（进化过程）：** 结构性推力与结构性阻力之间的互动——完全独立于人的能动性
-> 2. **"语[[Rightness|义]]建构"：** 改革行动者和抵制行动者如何"包装"（externalize）其改革或抵制方案——高度依赖话语策略
+> 2. **"语义建构"：** 改革行动者和抵制行动者如何"包装"（externalize）其改革或抵制方案——高度依赖话语策略
 >
 > 研究者需要区分真实的发展变化和修辞性框架——这绝非易事，但正是在这里可能发现关于[[Cross-National Attraction|跨国吸引]]力产生的最重要线索。
 
@@ -77,7 +77,7 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - Schriewer 的外化理论在比较教育方法论中属于**社会[[Luhmann's Systems Theory|系统理论]]**和**话语分析**传统
-> - 外化与 Luhmann 系统理论中的"自我指涉"（self-reference）概念有亲缘关系——系统通过参照外部来建构内部意[[Rightness|义]]
+> - 外化与 Luhmann 系统理论中的"自我指涉"（self-reference）概念有亲缘关系——系统通过参照外部来建构内部意义
 
 ## 应用领域
 

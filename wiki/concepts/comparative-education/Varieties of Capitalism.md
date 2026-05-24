@@ -34,7 +34,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 资本主[[Rightness|义]]多样性（Varieties of Capitalism, VoC）是比较政治经济学中分析发达资本主义国家制度差异的核心框架，由 Hall & Soskice（2001）系统提出。该框架将发达经济体区分为自由市场经济体（Liberal Market Economies, LMEs）和协调型市场经济体（Coordinated Market Economies, CMEs）两种理想类型——二者的核心差异不在经济规模或技术水平，而在企业协调其活动的制度方式（Hartmann, 2022, pp.184–185, 187–188）。
+> 资本主义多样性（Varieties of Capitalism, VoC）是比较政治经济学中分析发达资本主义国家制度差异的核心框架，由 Hall & Soskice（2001）系统提出。该框架将发达经济体区分为自由市场经济体（Liberal Market Economies, LMEs）和协调型市场经济体（Coordinated Market Economies, CMEs）两种理想类型——二者的核心差异不在经济规模或技术水平，而在企业协调其活动的制度方式（Hartmann, 2022, pp.184–185, 187–188）。
 
 ---
 

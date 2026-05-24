@@ -31,7 +31,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> [[Evidence-Based Education|证据本位教育]]（Evidence-Based Education）的设想——专业实践（如教育）应以科学研究证据为基础——在何种意[[Rightness|义]]上是可行的？它对证据的期待在认识论、存在论和实践论三个维度上存在什么结构性缺陷？如果证据本位不可行，什么应该取而代之？
+> [[Evidence-Based Education|证据本位教育]]（Evidence-Based Education）的设想——专业实践（如教育）应以科学研究证据为基础——在何种意义上是可行的？它对证据的期待在认识论、存在论和实践论三个维度上存在什么结构性缺陷？如果证据本位不可行，什么应该取而代之？
 >
 > > "The important question, therefore, is not whether or not there should be a role for evidence in professional action, but what kind of role it should play." (p. 492)
 
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 > - 但教育是**开放的、递归的、符号的系统**：
 >   - 开放：与外部环境互动
 >   - 递归：学生和教师基于自己的理解和解释行动（反思性）
->   - 符号：互动基础是意[[Rightness|义]]和解释，而非物理推拉
+>   - 符号：互动基础是意义和解释，而非物理推拉
 > - 因此，干预与效果之间的联系**至多是概率性的、非线性的**——这与医学或农业的因果逻辑截然不同
 >
 > > "Much talk about 'what works' operates on the assumption of a mechanistic ontology that is actually the exception, not the norm in the domain of human interaction." (p. 497)
@@ -143,13 +143,13 @@ updated: '2026-05-18'
 >
 > ### "价值"的界定问题：谁的价值观？
 >
-> **批评内容**：Biesta 将教育定[[Rightness|义]]为 teleological practice（目的性实践），但未充分展开回答一个关键政治问题：在多元社会中，教育的目的（telos）由谁来决定？如何处理不同群体之间的价值冲突（如宗教群体 vs. 世俗群体对性教育的目的分歧）？
+> **批评内容**：Biesta 将教育定义为 teleological practice（目的性实践），但未充分展开回答一个关键政治问题：在多元社会中，教育的目的（telos）由谁来决定？如何处理不同群体之间的价值冲突（如宗教群体 vs. 世俗群体对性教育的目的分歧）？
 >
 > **Biesta 可能的回应**：Biesta (2010, p. 500) 强调教育目的需要通过民主协商来确定——这暗示价值判断不是技术官僚或研究者的特权，而是民主公共领域的事务。但这更多是方向性指引，而非具体的冲突解决机制。
 >
 > **目前状态**：此批评在教育政治哲学领域持续。Gutmann & Thompson 的审议民主（deliberative democracy）框架可能为价值冲突问题提供补充资源，但 Biesta 在本文中未进行这一对接。
 >
-> ### 证据角色的[[Jing (Refined Mastery)|精]]确定位不明确
+> ### 证据角色的精确定位不明确
 >
 > **批评内容**：Biesta 反复强调证据在价值本位教育中"从属但仍有角色"，但这个角色的边界未得到系统阐述。在什么条件下证据应该主导决策？在什么条件下应该让位给价值判断？两者之间的权重如何确定？
 >

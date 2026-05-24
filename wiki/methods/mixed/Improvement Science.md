@@ -31,7 +31,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 改进科学（Improvement Science）是一套源自组织研究领域（Langley et al., 2009）的方法集合，被倡导为教育研究中一个高杠杆的替代范式（Bryk et al., 2015; Lewis, 2015）。其核心特征是将教育实践作为**系统**来研究，关注**跨情境的变异性**，并从变异性中学习——变异的实例代表了生成关于"什么在什么情境中导致更多改进"洞见的可能性（Peterson, 2016, p. 306）。
 >
 > > "Key aspects of improvement science involve studying educational practice as a system, and attending to variability across contexts, and learning from this variability." (Peterson, 2016, p. 306)

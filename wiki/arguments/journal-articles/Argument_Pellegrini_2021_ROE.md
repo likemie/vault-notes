@@ -61,7 +61,7 @@ updated: 2026-05-23
 > [!abstract] 理论框架
 > - [[Evidence-Based Education]] — 教育项目和实践应更多依靠高质量研究证据，尤其是能够评价可复制项目效果的研究（Pellegrini & Vivanet, 2021, p.26）。
 > - [[Evidence-Informed Practice]] — 欧洲文件和倡议更常使用 evidence-informed education，因为证据来源不限于 实验研究，政策文件也多是指导而非强制规定（Pellegrini & Vivanet, 2021, p.26）。
-> - [[Evidence-Based Reform]] — Slavin 的定[[Rightness|义]]把重点放在政策如何支持或鼓励使用经严格研究证明有效的项目与实践，而不是传播一般性教学原则（Pellegrini & Vivanet, 2021, p.26）。
+> - [[Evidence-Based Reform]] — Slavin 的定义把重点放在政策如何支持或鼓励使用经严格研究证明有效的项目与实践，而不是传播一般性教学原则（Pellegrini & Vivanet, 2021, p.26）。
 
 ## 研究方法
 
@@ -96,7 +96,7 @@ updated: 2026-05-23
 ### 第三步：欧洲的主要瓶颈是可迁移性
 
 7. 证据不能像“菜谱”一样在任何情境中复制。一个项目在特定情境、对象和目标下由 [[Randomised Controlled Trials|RCT]] 证明有效，并不意味着它换到另一国、另一课程标准、另一学段时仍然有效（Pellegrini & Vivanet, 2021, p.35）。
-8. 文章用 Wiley 的 [[Reusability Paradox|可重用性悖论]] 解释这一点：项目越为特定情境[[Jing (Refined Mastery)|精]]细设计，越难跨情境复用；项目越追求普遍可用，就越可能不能充分满足任何一个具体情境的需要（Pellegrini & Vivanet, 2021, p.36）。
+8. 文章用 Wiley 的 [[Reusability Paradox|可重用性悖论]] 解释这一点：项目越为特定情境精细设计，越难跨情境复用；项目越追求普遍可用，就越可能不能充分满足任何一个具体情境的需要（Pellegrini & Vivanet, 2021, p.36）。
 9. 欧洲内部有 43 个教育系统，且组织模式、语言、课程和教学大纲不同；欧盟还有 24 种官方语言，因此英语项目和英国／美国证据数据库很难直接服务非英语国家（Pellegrini & Vivanet, 2021, p.36）。
 
 例子：一个英国阅读干预项目即使在英国小学中有效，进入意大利或芬兰学校时仍要重新面对课程目标、语言材料、教师培训和本地评价标准问题。文章的意思不是证据无用，而是证据要转化为本地设计的参照，而不能机械复制（Pellegrini & Vivanet, 2021, pp.35-36）。
@@ -108,8 +108,8 @@ updated: 2026-05-23
 
 ### 第五步：关键能力改革放大了证据本位政策的难度
 
-12. 欧洲课程从 2000 年代初逐步转向能力本位模式。[[EU Key Competences for Lifelong Learning 2018]] 把能力定[[Rightness|义]]为知识、技能和态度的动态组合，并列出八项关键能力（Pellegrini & Vivanet, 2021, p.39）。
-13. 基础读写知识和技能已有较成[[Shu (Familiarization)|熟]]的评估和项目证据，但“积极的读写态度”“批判性和建设性对话倾向”“语言的社会责任使用”等多维能力更难设计干预和评估效果（Pellegrini & Vivanet, 2021, pp.40-41）。
+12. 欧洲课程从 2000 年代初逐步转向能力本位模式。[[EU Key Competences for Lifelong Learning 2018]] 把能力定义为知识、技能和态度的动态组合，并列出八项关键能力（Pellegrini & Vivanet, 2021, p.39）。
+13. 基础读写知识和技能已有较成熟的评估和项目证据，但“积极的读写态度”“批判性和建设性对话倾向”“语言的社会责任使用”等多维能力更难设计干预和评估效果（Pellegrini & Vivanet, 2021, pp.40-41）。
 14. 因此，[[Evidence-Based Reform|证据本位改革]] 若要进入欧洲能力本位课程，就必须同时解决课程目标重写、目标指标化、有效评价工具、教师培训和多语言资源共享问题（Pellegrini & Vivanet, 2021, p.41）。
 
 ## 主要发现

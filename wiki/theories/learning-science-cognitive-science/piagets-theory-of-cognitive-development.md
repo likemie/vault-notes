@@ -37,7 +37,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> [[Jean Piaget|皮亚杰]]的认知发展理论基于四个年龄依赖的阶段，儿童在不同生命阶段以不同方式思维和推理（Bolton & [[John Hattie|Hattie]], 2017, p.2）。皮亚杰是第一位系统研究认知发展的心理学家，提出建构主[[Rightness|义]]理论，开创了考察学习的新方法（Bolton & Hattie, 2017, p.1）。
+> [[Jean Piaget|皮亚杰]]的认知发展理论基于四个年龄依赖的阶段，儿童在不同生命阶段以不同方式思维和推理（Bolton & [[John Hattie|Hattie]], 2017, p.2）。皮亚杰是第一位系统研究认知发展的心理学家，提出建构主义理论，开创了考察学习的新方法（Bolton & Hattie, 2017, p.1）。
 >
 > > "Piaget was the first psychologist to systematically investigate cognitive development by proposing the theory of constructivism and thereby creating a new approach to examine learning. He stated that children think and reason differently at distinct periods in their lives."（Bolton & Hattie, 2017, p.1）
 
@@ -71,7 +71,7 @@ updated: '2026-05-18'
 
 ## 与脑发育的关联
 
-Bolton & [[John Hattie|Hattie]] (2017) 论证[[Jean Piaget|皮亚杰]]的四个阶段与[[Prefrontal Cortex|前额叶皮层]]（prefrontal-cortex）的解剖生理发育轨迹在时间上对应（Bolton & Hattie, 2017, p.8–9）。[[Executive Function|执行功能]]的年龄相关发展（抑制→转换→[[Updating and Monitoring|更新与监控]]）与 PFC 的逐步成[[Shu (Familiarization)|熟]]平行，特别是在[[Synaptogenesis|突触发生]]、[[Synaptic Pruning|突触修剪]]和[[Myelination|髓鞘化]]过程方面（Bolton & Hattie, 2017, p.12–13）。
+Bolton & [[John Hattie|Hattie]] (2017) 论证[[Jean Piaget|皮亚杰]]的四个阶段与[[Prefrontal Cortex|前额叶皮层]]（prefrontal-cortex）的解剖生理发育轨迹在时间上对应（Bolton & Hattie, 2017, p.8–9）。[[Executive Function|执行功能]]的年龄相关发展（抑制→转换→[[Updating and Monitoring|更新与监控]]）与 PFC 的逐步成熟平行，特别是在[[Synaptogenesis|突触发生]]、[[Synaptic Pruning|突触修剪]]和[[Myelination|髓鞘化]]过程方面（Bolton & Hattie, 2017, p.12–13）。
 
 ## 相关研究
 

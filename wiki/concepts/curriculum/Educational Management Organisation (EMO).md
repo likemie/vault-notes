@@ -28,14 +28,14 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Educational Management Organisations (EMOs) 是参与公立学校教育政策制定与服务交付的私营部门实体，包括营利性（for-profit）和非营利性（not-for-profit）两种形式。EMOs 不仅代表国家交付学校教育服务，还积极参与服务的设计、政策文本的制定与倡导（O'Neill et al., 2016, p.vi）。
 
 ## 核心要素
 
 > [!abstract] 核心要素
 > - **双重法律结构**：新西兰慈善法允许非营利慈善信托设立全资拥有的营利性子机构（wholly-owned subsidiary），该子机构在与公共部门实体竞争政府合同时享有母体慈善地位带来的财务与声誉优势（O'Neill et al., 2016, pp.vi–vii）
-> - **"固有慈善"主张**：非营利 EMOs 可能将其日常活动组合视为"固有慈善目的"，从而减轻或免除以运营盈余进行额外慈善捐赠的[[Rightness|义]]务（O'Neill et al., 2016, p.vii）
+> - **"固有慈善"主张**：非营利 EMOs 可能将其日常活动组合视为"固有慈善目的"，从而减轻或免除以运营盈余进行额外慈善捐赠的义务（O'Neill et al., 2016, p.vii）
 > - **公私边界模糊**：EMOs 在营利与非营利形式之间、公共与私人参与之间造成概念和实践的严重模糊（O'Neill et al., 2016, p.vii）
 
 ## 国际背景
@@ -45,7 +45,7 @@ updated: '2026-05-18'
 >
 > - **Edison Schools**（后 EdisonLearning Inc.）是最早的案例之一——作为营利性 EMO，目前与美、英、非洲 350+ 学校"合作"，为 150,000+ 学生提供教育服务；在英国通过子公司 Edison Learning Ltd 与营利和非营利"合作伙伴"混合运营（Collaborative Academies Trust, NAHT Aspire, Frog 等）（O'Neill et al., 2016, pp.19–20）
 > - 国际趋势：在英格兰和威尔士（Papanastasiou 2013）、瑞典（Erixon Arreman & Holm 2011），私营部门组织普遍运营多所学校"连锁"（chains），可以是营利和/或非营利形式（Muir 2012）
-> - 国际批评：一些名[[Rightness|义]]上的"非营利"EMOs 被批评高级管理薪酬远高于公共部门同行（如英国 TUC 报告 *Education Not for Sale*）（O'Neill et al., 2016, p.20）
+> - 国际批评：一些名义上的"非营利"EMOs 被批评高级管理薪酬远高于公共部门同行（如英国 TUC 报告 *Education Not for Sale*）（O'Neill et al., 2016, p.20）
 
 ## 新西兰 EMO 发展
 

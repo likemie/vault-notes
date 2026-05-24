@@ -28,7 +28,7 @@ updated: '2026-05-18'
 > [!info] 核心主张
 > Hebb 原则（Hebbian Principles）是解释[[Neuroplasticity|神经可塑性]]的基本理论，其核心主张是：经常使用的神经通路将被加强，而不经常需要的通路将被移除（Bolton & [[John Hattie|Hattie]], 2017, p.6）。
 >
-> 在[[Synaptic Pruning|突触修剪]]的语境中，大脑中神经元和连接的消除正是基于 Hebb 原则发生的：常用的连接被保留和强化，不常用的被[[Jing (Refined Mastery)|精]]简（Bolton & Hattie, 2017, p.6）。
+> 在[[Synaptic Pruning|突触修剪]]的语境中，大脑中神经元和连接的消除正是基于 Hebb 原则发生的：常用的连接被保留和强化，不常用的被精简（Bolton & Hattie, 2017, p.6）。
 
 ## 理论内部结构
 

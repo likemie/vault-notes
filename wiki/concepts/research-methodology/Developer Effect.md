@@ -30,7 +30,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 开发者效应（Developer Effect）指教育项目评估中，由项目开发者委托或实施的研究所报告的平均[[Effect Size|效应量]]系统地大于独立第三方评估的现象。Wolf et al. (2020) 使用 [[What Works Clearinghouse (WWC)]] 数据库中的 755 个效应量（来自 169 项研究）首次以[[Meta-analysis|元分析]]技术系统量化了这一效应。
 >
 > > "We find evidence of a 'developer effect,' where program evaluations carried out or commissioned by developers produced average effect sizes that were substantially larger than those identified in evaluations conducted by independent parties." (Wolf et al., 2020, p. 428)

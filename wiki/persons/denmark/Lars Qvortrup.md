@@ -49,7 +49,7 @@ updated: '2026-05-19'
 > [!abstract] 主要著作
 > - Qvortrup, L. (2015). Baggrund for og diskussioner af [[Visible Learning]] med særligt henblik på lærings- og vidensbegrebet. *Paideia*, 9, 22–33. — VL 支持者立场讨论论文：回应意识形态、方法论和情境三类批评，并指出 [[John Hattie|Hattie]] 的"学习结果"概念需要更动态的知识模型
 > - Qvortrup, L. (2019). Visible learning and its enemies – the missing link. *Nordic Journal of Studies in Educational Policy*, 5(1), 3–7. — VL 支持者立场讨论论文：以解释社群、[[Observational and Correlational Research|观察]]透镜认识论和[[Structural Coupling|结构耦合]]三线论证为 Hattie 辩护
-> - Qvortrup, A. (2013). Behavioristiske læringsteorier. In A. Qvortrup & M. Wiberg (Eds.), *Læringsteori & didaktik* (pp. 72–94). Copenhagen: Hans Reitzels Forlag. — 现代行为主[[Rightness|义]]学习理论的系统阐述
+> - Qvortrup, A. (2013). Behavioristiske læringsteorier. In A. Qvortrup & M. Wiberg (Eds.), *Læringsteori & didaktik* (pp. 72–94). Copenhagen: Hans Reitzels Forlag. — 现代行为主义学习理论的系统阐述
 
 ## 核心思想
 
@@ -60,7 +60,7 @@ updated: '2026-05-19'
 >
 > 他的核心贡献包括：
 >
-> - **学习结果概念批判**：从 VL 支持者立场承认 Hattie 使用 achievement、student learning、study outcome 等不同词汇，且学习和学习结果不是良定[[Rightness|义]]概念；[[Effect Size|效应量]]可比较相对效果，但会把学习结果抽象化，难以说明测量的是表层知识、深层理解还是概念性学习（Qvortrup, 2015, p.27）
+> - **学习结果概念批判**：从 VL 支持者立场承认 Hattie 使用 achievement、student learning、study outcome 等不同词汇，且学习和学习结果不是良定义概念；[[Effect Size|效应量]]可比较相对效果，但会把学习结果抽象化，难以说明测量的是表层知识、深层理解还是概念性学习（Qvortrup, 2015, p.27）
 > - **[[Dynamic Knowledge and Learning Model]]**：基于 Bateson 的一阶至四阶学习理论，将知识区分为 knowing-that、knowing-how、knowing-why 和知识边界／知识视域，并强调教学影响的是一个具有内部动力的动态学习系统（Qvortrup, 2015, pp.31–32）
 > - **解释社群分析**：使用 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源——一个由研究者、政治家和工会代表组成的社群在短期内形成了对 VL 的广泛误解（Qvortrup, 2019, p.3-5）
 > - **[[Observational and Correlational Research|观察]]透镜认识论**：以 von Foerster (1984) 和 Thyssen (2012) 为框架，论证定量与定性方法是互补的观察位置，而非相互排斥的零和游戏（Qvortrup, 2019, p.5）
@@ -86,7 +86,7 @@ updated: '2026-05-19'
 > [!warning] 争议与批评
 > - Qvortrup 作为 VL 丹麦引介者（与 Egelund 共同撰写导言），其辩护者的立场可能影响其分析的中立性
 > - 将丹麦批评者整体定性为"解释社群"可能过度简化——部分批评（如 Rømer 2018 的五线哲学批评）提出了实质性学术论点
-> - 其"[[Observational and Correlational Research|观察]]透镜"认识论可能面临相对主[[Rightness|义]]批评——如果不问透镜可以产生同样有效的但相互矛盾的图像，如何判断哪种图像更可靠？
+> - 其"[[Observational and Correlational Research|观察]]透镜"认识论可能面临相对主义批评——如果不问透镜可以产生同样有效的但相互矛盾的图像，如何判断哪种图像更可靠？
 
 ## 来源
 

@@ -66,7 +66,7 @@ updated: '2026-05-18'
 
 > [!tip]
 > - 植根于社会心理学的刻板印象研究传统（Aronson, 2002）
-> - 在跨文化教育语境中与 [[Orientalism]]（Said, 1978）形成理论衔接：正是西方学术界将[[Chinese Learner|中国学习者]]定[[Rightness|义]]为"以偏离西方规范来定义"（Watkins & Biggs, 2001, p.4），才为刻板印象威胁提供了话语激活条件。详见 [[Chinese Learner#定义]]
+> - 在跨文化教育语境中与 [[Orientalism]]（Said, 1978）形成理论衔接：正是西方学术界将[[Chinese Learner|中国学习者]]定义为"以偏离西方规范来定义"（Watkins & Biggs, 2001, p.4），才为刻板印象威胁提供了话语激活条件。详见 [[Chinese Learner#定义]]
 > - 与 [[Meta-Cultural Sensitivity]] 形成理论互补：刻板印象威胁描述了**问题机制**（刻板印象如何伤害学生），元文化敏感度提供了**解决方案**（教师如何超越刻板印象）
 
 ## 实证发现

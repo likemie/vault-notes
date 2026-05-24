@@ -45,7 +45,7 @@ updated: '2026-05-18'
 
 ## 案例意义
 
-> [!success] 案例意[[Rightness|义]]
+> [!success] 案例意义
 > SFA 案例说明，同一项目即使总体获得较正向评价，清算中心仍会因结果域、项目变体、研究纳入数量和研究质量规则而给出不同强度的证据判断。[[What Works Clearinghouse (WWC)|WWC]] 对 alphabetics、reading fluency、comprehension 和 general reading achievement 的不同结论尤其显示，按结果域拆分评级会改变消费者看到的项目形象（Wadhwa et al., 2024, p.23）。
 
 ## 相关概念／政策

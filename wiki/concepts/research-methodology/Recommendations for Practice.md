@@ -31,7 +31,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 实践建议（Recommendations for Practice, RFP）是研究论文中将研究发现转化为教育实践行动的规范性陈述。Brady et al. (2023) 沿用 Reinhart et al. (2013) 的编码标准：如果论文暗示或明确说明"若采用/避免、增加/减少实践 X，则教师或学生结果 Y 会改善"，即被编码为 RFP（Brady et al., 2023, p.4）。
 >
 > > "if Practice X is adopted/avoided or increased/decreased, then teacher or student Outcome Y will improve"（Reinhart et al., 2013, p.244, cited in Brady et al., 2023, p.4）
@@ -47,13 +47,13 @@ updated: '2026-05-18'
 
 > [!abstract] 核心要素
 > - **行动导向**：RFP 不只是解释发现，而是把发现转化为教师、学校或政策制定者应采取的行动建议（Brady et al., 2023, p.4）。
-> - **因果含[[Rightness|义]]**：即使措辞较弱，RFP 通常仍暗含"改变实践会改善结果"的因果结构；这使其证据要求高于单纯描述性结论（Brady et al., 2023, pp.3-4）。
+> - **因果含义**：即使措辞较弱，RFP 通常仍暗含"改变实践会改善结果"的因果结构；这使其证据要求高于单纯描述性结论（Brady et al., 2023, pp.3-4）。
 > - **范围与强度差异**：Brady et al. (2023) 在编码中[[Observational and Correlational Research|观察]]到，一些 RFP 紧贴研究样本，另一些则泛化到更广人群；一些使用 "may" 或 "might" 等弱化词，但强而广泛的 RFP 在[[Non-intervention Research|非干预研究]]中尤其值得警惕（Brady et al., 2023, p.9）。
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - **vs [[Non-intervention Research]]** — 非[[Intervention Research|干预研究]]是不操纵自变量的研究集合；RFP 是论文讨论部分或实践意[[Rightness|义]]部分中的行动性建议。Brady et al. (2023) 的核心问题正是二者之间的错配：非干预设计常被用来支撑实践建议（Brady et al., 2023, pp.3-4）。
+> - **vs [[Non-intervention Research]]** — 非[[Intervention Research|干预研究]]是不操纵自变量的研究集合；RFP 是论文讨论部分或实践意义部分中的行动性建议。Brady et al. (2023) 的核心问题正是二者之间的错配：非干预设计常被用来支撑实践建议（Brady et al., 2023, pp.3-4）。
 > - **vs [[Observational and Correlational Research]]** — 观察/相关研究是非干预研究的一种量化类型；RFP 是对实践行动的建议，不能仅由相关关系自动推出（Brady et al., 2023, pp.3-4）。
 > - **vs [[Randomised Controlled Trials]]** — RCT 通过随机分配与变量操纵提供更强的因果证据；Brady et al. (2023) 指出，在多数科学领域中，强实践建议通常需要严格 RCT 支撑，而非实验研究的证据基础往往不足（Brady et al., 2023, p.3）。
 

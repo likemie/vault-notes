@@ -30,7 +30,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Motivation and Work Effort 指学生在学校学习中的目标投入与持续努力程度。
 
 ## 历史沿革

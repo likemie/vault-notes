@@ -45,19 +45,19 @@ updated: '2026-05-21'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 元-[[Meta-analysis|元分析]]（Meta-meta-analysis，也称 Mega-analysis）是一种将多个已发表的元分析结果在更高层次上进行统计综合的方法——"改变层次，组合元分析，尝试开发一个元-元分析"（Terhart, 2011, p.436）。与普通[[Meta-analysis|元分析]]综合原始研究不同，元-元分析综合的是已聚合的[[Effect Size|效应量]]，从而大幅扩大参照范围（Terhart, 2011, p.436）。
 >
 > > 例：[[John Hattie|Hattie]] (2009) 的 *[[Visible Learning]]* 综合了 816 项元分析（涵盖 52,649 项原始研究、83,033,433 名参与者、146,626 个效应量），产生 138 个影响因素的效应量排名——这是该方法的标志性应用（Terhart, 2011, pp.427–428）。[[EEF Teaching and Learning Toolkit]] 是另一个采用类似逻辑的政策工具，将效应量转换为"额外学习月数"并按成本、有效性和证据确定性三个维度排名。
 >
 > Hattie 本人坚持其工作不是"元分析的元分析"，而是"综合"（synthesis）——但 Snook et al.（2009, p.94）指出，根据 Evidence Informed Policy Network 的定义，"研究综合"必须包含协议制定、系统和明确方法的使用、数据收集、分析、解释和结果报告，而 Hattie 声称不关心纳入研究的质量，这与综合的方法论要求直接矛盾。
 >
-> Qvortrup (2015) 从支持者角度为 Hattie 的综合方式辩护：元-元分析可以比较跨研究的相对学习结果，因为[[Effect Size|效应量]]把具体测量转换为共同表达式（Qvortrup, 2015, p.27）。但他同时指出，这一共同表达式的代价是结果层次变得抽象，研究者难以判断总体效应究竟来自表层知识、深层理解还是概念性学习；因此未来元-元分析需要借助[[Dynamic Knowledge and Learning Model]]更[[Jing (Refined Mastery)|精]]确地区分学习结果（Qvortrup, 2015, pp.27–33）。
+> Qvortrup (2015) 从支持者角度为 Hattie 的综合方式辩护：元-元分析可以比较跨研究的相对学习结果，因为[[Effect Size|效应量]]把具体测量转换为共同表达式（Qvortrup, 2015, p.27）。但他同时指出，这一共同表达式的代价是结果层次变得抽象，研究者难以判断总体效应究竟来自表层知识、深层理解还是概念性学习；因此未来元-元分析需要借助[[Dynamic Knowledge and Learning Model]]更精确地区分学习结果（Qvortrup, 2015, pp.27–33）。
 
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> 元-[[Meta-analysis|元分析]]共享[[Meta-analysis|元分析]]的经验主[[Rightness|义]]认识论假设——通过对多项研究的[[Effect Size|效应量]]进行统计平均产生可靠知识——但在更高的抽象层次上操作。从[[Critical Realism|批判实在论]]的三层本体论（实在/实际/经验）来看，元-元分析停留在"经验"层面的第三级聚合——原始研究的经验数据被元分析聚合一次，元分析的聚合结果再次被聚合——每一级都进一步远离了"实在"层面的因果机制（Wrigley & McCusker, 2019, pp.116–117）。
+> 元-[[Meta-analysis|元分析]]共享[[Meta-analysis|元分析]]的经验主义认识论假设——通过对多项研究的[[Effect Size|效应量]]进行统计平均产生可靠知识——但在更高的抽象层次上操作。从[[Critical Realism|批判实在论]]的三层本体论（实在/实际/经验）来看，元-元分析停留在"经验"层面的第三级聚合——原始研究的经验数据被元分析聚合一次，元分析的聚合结果再次被聚合——每一级都进一步远离了"实在"层面的因果机制（Wrigley & McCusker, 2019, pp.116–117）。
 >
 > Terhart（2011, p.436）从认识论角度提出根本性质疑：将已聚合的结果再次聚合在原则上是否合理——"当然可以通过不同渠道累积金钱并将不同货币汇集在一起——但你能用来自不同项目、不同方法的研究结果做同样的事吗？"
 >
@@ -80,7 +80,7 @@ updated: '2026-05-21'
 >
 > #### 数学模型
 >
-> 当 Hattie 声明"应用了固定效应模型"（Hattie, 2009, p.12）时，他从方法论上承诺了一个特定的数学模型。核心假设：固定效应模型假设所有主要研究估计同一个恒定的"真实"效应量——[[Observational and Correlational Research|观察]]到的不同效应量仅由主要研究内的抽样误差造成（Hedges & Olkin, 1985, p.107; Borenstein et al., 2009, p.63）。主要研究按其[[Jing (Refined Mastery)|精]]度加权——精度定[[Rightness|义]]为效应量方差的倒数。
+> 当 Hattie 声明"应用了固定效应模型"（Hattie, 2009, p.12）时，他从方法论上承诺了一个特定的数学模型。核心假设：固定效应模型假设所有主要研究估计同一个恒定的"真实"效应量——[[Observational and Correlational Research|观察]]到的不同效应量仅由主要研究内的抽样误差造成（Hedges & Olkin, 1985, p.107; Borenstein et al., 2009, p.63）。主要研究按其精度加权——精度定义为效应量方差的倒数。
 >
 > **第一级：元分析 j 内主要研究效应的汇总**
 >
@@ -194,7 +194,7 @@ updated: '2026-05-21'
 > **Johnson & Janzen（2023）——方法论不透明与读者无法验证。** Johnson & Janzen（2023）对 Hattie 的元-元分析进行了直接的透明度批判，其独特贡献在于**从读者视角**展示了方法论的不透明性如何使普通教育者无法验证其主张：
 >
 > - **Homework 效应量的逐步重构**：Hattie 声称综合了 5 项元分析（161 项研究、100,000+ 学生）得出 d=0.29。Johnson & Janzen 通过手动搜索附录 A 找到了 5 个被隐藏的 Cohen's d 值（d=0.36, 0.21, 0.39, 0.21, 0.28），确认算术平均为 0.29——但指出 5、161、100,000 这些数字实际上"do not contribute to d=0.29, an average of unstated values"（Johnson & Janzen, 2023, p.25–26）
-> - **不透明与伪科学的关联**：伪科学工作的特征——"tends to both amplify its mathematical sophistication and obfuscate its nature"——而 VL 的 methodology section 篇幅极短却声称找到了教育的"[[Sage|圣]]杯"（Johnson & Janzen, 2023, p.26）
+> - **不透明与伪科学的关联**：伪科学工作的特征——"tends to both amplify its mathematical sophistication and obfuscate its nature"——而 VL 的 methodology section 篇幅极短却声称找到了教育的"圣杯"（Johnson & Janzen, 2023, p.26）
 > - **普通教育者无法验证**："The average K-12 educator would be unlikely to have the time, skill set, or access to challenge Hattie's claims"（Johnson & Janzen, 2023, p.26）
 > - **Glass & Smith (1979) 效应量提取不透明**：详见 [[Class Size#Johnson & Janzen (2023) 的五层拆解]]。VL 从 Glass & Smith 的最大规模班级规模元分析中提取的 d=0.09 并非 Glass & Smith 自己报告的值（Johnson & Janzen, 2023, p.32–33）
 
@@ -210,7 +210,7 @@ updated: '2026-05-21'
 
 
 > [!warning] 认识论困境与角色争议
-> **Terhart（2011）——稳定性与变异性的双重困境。** Terhart（2011, p.436）提出了元-元分析的根本困境：(1) **稳定性假说**——许多因素的结果已高度稳定，进一步研究只会渐近逼近已知结论，"继续这个过程到什么时候才有意[[Rightness|义]]？"；(2) **变异性假说**——某些领域的发现已过时（如 Hattie 关于教师教育影响的元-元分析在 VL 出版时已被新的研究结果超越）。由于元-元分析同时支持两种假说，"很明显 Hattie 事实上没有找到圣杯"（Terhart, 2011, p.436）。
+> **Terhart（2011）——稳定性与变异性的双重困境。** Terhart（2011, p.436）提出了元-元分析的根本困境：(1) **稳定性假说**——许多因素的结果已高度稳定，进一步研究只会渐近逼近已知结论，"继续这个过程到什么时候才有意义？"；(2) **变异性假说**——某些领域的发现已过时（如 Hattie 关于教师教育影响的元-元分析在 VL 出版时已被新的研究结果超越）。由于元-元分析同时支持两种假说，"很明显 Hattie 事实上没有找到圣杯"（Terhart, 2011, p.436）。
 >
 > **Wiliam（2019）——元-元分析在教育政策中绝对没有任何角色。** Wiliam（2019, p.11）做出了 [[Evidence-Based Education|EBE]] 批判文献中对元-元分析最彻底的否定：
 >

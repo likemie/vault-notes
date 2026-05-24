@@ -67,14 +67,14 @@ updated: 2026-05-19
 ### 2000 — *Local Histories/Global Designs: Coloniality, Subaltern Knowledges, and Border Thinking*
 
 - APA：Mignolo, W. D. (2000). *Local histories/global designs: Coloniality, subaltern knowledges, and border thinking*. Princeton University Press.
-- 核心内容：系统阐述"殖民性"（coloniality）和"边界思维"（border thinking）概念——前者指殖民主[[Rightness|义]]结束后持续运作的权力逻辑，后者指在被殖民者的认识论边界地带产生替代性知识的思维方式。论证"局部历史"（被殖民者的经验和知识）与"全球设计"（西方现代性的普世性宣称）之间的根本张力。
-- 思想位置：代表理论成[[Shu (Familiarization)|熟]]阶段——Mignolo 最广为人知的代表作，奠定了去殖民选项的认识论基础。Delambre (2022) 引用此著作作为 [[Geopolitics of Knowledge|GPK]] 讨论的核心参照（Delambre, 2022, p.105, 122）。
+- 核心内容：系统阐述"殖民性"（coloniality）和"边界思维"（border thinking）概念——前者指殖民主义结束后持续运作的权力逻辑，后者指在被殖民者的认识论边界地带产生替代性知识的思维方式。论证"局部历史"（被殖民者的经验和知识）与"全球设计"（西方现代性的普世性宣称）之间的根本张力。
+- 思想位置：代表理论成熟阶段——Mignolo 最广为人知的代表作，奠定了去殖民选项的认识论基础。Delambre (2022) 引用此著作作为 [[Geopolitics of Knowledge|GPK]] 讨论的核心参照（Delambre, 2022, p.105, 122）。
 
 ### 2002 — "The Geopolitics of Knowledge and the Colonial Difference"
 
 - APA：Mignolo, W. D. (2002). The geopolitics of knowledge and the colonial difference. *The South Atlantic Quarterly, 101*(1), 57–96.
 - 核心内容：首次以文章形式系统阐述知识地缘政治的理论立场。提出"知识地缘政治通过殖民差异和帝国差异在历史中展开"这一核心命题，并论证社会科学需要"去殖民化"（decolonization）而非仅仅"开放"（opening）——开放只是维持其全球学术事业的垄断地位。
-- 思想位置：代表理论立场的[[Jing (Refined Mastery)|精]]炼和宣言性表达。被 Parreira do Amaral (2022, p.38) 作为新知识地缘政治两大分析支柱之一的核心引用。
+- 思想位置：代表理论立场的精炼和宣言性表达。被 Parreira do Amaral (2022, p.38) 作为新知识地缘政治两大分析支柱之一的核心引用。
 
 ### 2003 — "Globalization and the Geopolitics of Knowledge"
 
@@ -93,7 +93,7 @@ updated: 2026-05-19
 > [!tip]
 > Mignolo 的核心思想可概括为三个层层递进的概念：
 
-**1. 殖民性（Coloniality）区别于殖民主[[Rightness|义]]（Colonialism）**
+**1. 殖民性（Coloniality）区别于殖民主义（Colonialism）**
 
 殖民主义作为历史事件（政治军事占领）已经结束，但殖民性作为权力逻辑持续运作——它深嵌于[[Knowledge Production|知识生产]]、主体形塑、性别关系和自然观念中。现代性是殖民性的另一面：没有殖民扩张，就没有欧洲现代性（Parreira do Amaral, 2022, p.38）。
 
@@ -112,7 +112,7 @@ updated: 2026-05-19
 ## 影响
 
 > [!success]
-> - 与 Enrique Dussel、Aníbal Quijano 共同开创了拉丁美洲现代性/殖民性（M/C）研究项目，将"殖民性"建立为一个独立于"殖民主[[Rightness|义]]"的分析范畴
+> - 与 Enrique Dussel、Aníbal Quijano 共同开创了拉丁美洲现代性/殖民性（M/C）研究项目，将"殖民性"建立为一个独立于"殖民主义"的分析范畴
 > - 其"[[Geopolitics of Knowledge|知识地缘政治]]"概念被 Parreira do Amaral (2022) 整合进"新知识地缘政治"的分析框架，与[[Critical Geopolitics|批判地缘政治学]]并列为两大理论支柱（Parreira do Amaral, 2022, pp.37–39）
 > - [[Arturo Escobar]]（2018）和 Reiter（2019）将 Mignolo 的去殖民视角延伸至"多元世界"（pluriverse）的设计和建构
 > - [[Dell Delambre]] (2022) 将 Mignolo 的去殖民认识论从学术批判层面转化为社区实践层面的 [[Ganz-Methode]]——以巴西里约热内卢贫民窟剧场和[[Social Museology|社会博物馆学]]为实践[[Champ|场域]]，试图在"批判"和"建构"之间架设桥梁（Delambre, 2022, p.105–107, 109–110）

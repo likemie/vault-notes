@@ -27,7 +27,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 认知转换（Cognitive Shifting），亦称认知灵活性（Cognitive Flexibility）或任务切换（Task Switching），是[[Executive Function|执行功能]]（executive-function）的核心成分之一，指在多个不同任务、操作或心理集之间来回切换的能力（Bolton & [[John Hattie|Hattie]], 2017, p.5）。
 >
 > 在 Miyake 的EF 统一性与多样性框架中，任务或心理集之间的转换（shifting between tasks or mental sets）被列为 EF 的三个基本成分之一（Bolton & Hattie, 2017, p.4）。

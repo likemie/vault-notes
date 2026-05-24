@@ -51,7 +51,7 @@ updated: 2026-05-22
 
 ### 西方大学校训
 
-| 大学 | 校训（拉丁／德文） | 英文含[[Rightness|义]] | 中文翻译 |
+| 大学 | 校训（拉丁／德文） | 英文含义 | 中文翻译 |
 |------|---------------------|----------|----------|
 | Harvard | *Veritas* | Truth | 真理 |
 | Yale | *Lux et veritas* | Light and truth | 光明与真理 |
@@ -72,13 +72,13 @@ updated: 2026-05-22
 | 清华大学 | 自强不息，厚德载物 | 《周易》 | Strengthen self ceaselessly and cultivate virtue to nurture the world |
 | 北京大学 | 勤奋、严谨、求实、创新 | — | Diligence, rigor, truthfulness, and creativity |
 | 复旦大学 | 博学而笃志，切问而近思 | 《论语》 | Learn broadly and focus on your purpose, question earnestly and reflect closely |
-| 南京大学 | 诚朴雄伟，励学敦行 | 《[[Li (Propriety)|礼]]记》 | Be sincere and hold high aspirations, learn diligently and practice earnestly |
+| 南京大学 | 诚朴雄伟，励学敦行 | 《礼记》 | Be sincere and hold high aspirations, learn diligently and practice earnestly |
 | 暨南大学 | 忠信笃敬 | 《论语》 | Utmost dedication, trust, earnestness, and respect |
 | 武汉大学 | 自强、弘毅、求是、拓新 | — | Strengthen yourself, carry forward your resolution, seek truth, and create anew |
 | 厦门大学 | 自强不息，止于至善 | 《周易》+《大学》 | Strengthen self ceaselessly and strive for the highest good |
 | 台湾大学 | 敦品、励学、爱国、爱人 | — | Cultivate virtue, advance intellect; love one's country, love one's people |
 | 香港大学 | 明德格物 (*Sapietia et virtus*) | 《大学》 | Cultivate virtue and investigate things |
-| 香港中文大学 | 博文约礼 | 《论语》 | Learn broadly of culture and discipline learning with propriety |
+| 香港中文大学 | 博文约礼 | 《论语》 | Learn broadly of culture and discipline learning with [[Li (Propriety)|propriety]] |
 | 新加坡国立大学 | *Per ardua ad alta* | 拉丁语 | Through hard work, great things are achieved |
 
 ---
@@ -90,9 +90,9 @@ updated: 2026-05-22
 
 ### 1. 西方：真理、光明、心智、自由
 
-西方校训的核心语[[Rightness|义]]集中在：
+西方校训的核心语义集中在：
 - **真理和光**（Veritas, Lux, Light）：以视觉隐喻指向对终极知识的追求——"真理和光传达了终极知识的相似含义"（Li, 2012, p.34）
-- **心智与自由探究**：MIT 的"心与手"、斯坦福的"自由之风吹拂"、芝加哥的"让知识不断增长"——强调心智能力、开放[[Jing (Refined Mastery)|精]]神和批判性探究的自由
+- **心智与自由探究**：MIT 的"心与手"、斯坦福的"自由之风吹拂"、芝加哥的"让知识不断增长"——强调心智能力、开放精神和批判性探究的自由
 - **知识的增长**：芝加哥大学的校训以知识本身的扩张为终极关怀——知识增长本身就是目的，也是人类生活丰富的途径
 
 ### 2. 中国：修身、德行、勤奋
@@ -114,7 +114,7 @@ updated: 2026-05-22
 > [!success]
 > Li 在两处强调了一个相同的关键发现（Li, 2012, pp.34, 55）：
 
-对于西方大学："有人可能认为这些是古老传统的遗迹。然而，对于找到的每一条校训，我都看到了多条与之相连的当代讨论。学生、教师、行政人员和校友都在积极参与对这些结晶化表达的解释和再解释……每一次新一代学生、教师和职员进入大学，其校训的含[[Rightness|义]]都会被重新审视，其[[Jing (Refined Mastery)|精]]神会被重新唤起。"（Li, 2012, p.34）
+对于西方大学："有人可能认为这些是古老传统的遗迹。然而，对于找到的每一条校训，我都看到了多条与之相连的当代讨论。学生、教师、行政人员和校友都在积极参与对这些结晶化表达的解释和再解释……每一次新一代学生、教师和职员进入大学，其校训的含义都会被重新审视，其精神会被重新唤起。"（Li, 2012, p.34）
 
 对于中国大学："这些校训同样享有与西方大学校训相似的持久影响。它们同样向学生、教师、行政人员和职员传达了各自大学的核心教育使命。它们的当代相关性同样可以通过 Google 搜索中每个大学社群对它们的热烈讨论来证明。"（Li, 2012, p.55）
 
@@ -125,7 +125,7 @@ updated: 2026-05-22
 ## 理论基础
 
 > [!tip]
-> - [[Confucian Learning Tradition]] — 中国校训的语[[Rightness|义]]基础：[[Self-Cultivation|修身]]优先于探究世界
+> - [[Confucian Learning Tradition]] — 中国校训的语义基础：[[Self-Cultivation|修身]]优先于探究世界
 > - [[Self-Cultivation]] — "自强不息""明德""至善"的核心指向
 > - [[Learning Virtues]] — "勤奋""忠信""诚朴"与七种学习美德的对应
 > - [[Argument_Li_2012_Cambridge]] — 校训对比是该章中西方学习传统对比的浓缩例证

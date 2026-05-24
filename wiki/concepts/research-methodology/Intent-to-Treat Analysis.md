@@ -27,7 +27,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 意向治疗（ITT）分析是 [[Randomised Controlled Trials|RCT]] 中的一种估计方法：无论被试是否实际接受了干预，均按其原始随机分配组别进行分析。ITT 估计反映的是"干预可获得性（availability）"的效果，而非"干预实际接受（uptake）"的效果（Pampaka et al., 2016, p.233）。
 >
 > > "such models usually offer intent-to-treat (ITT) estimates which is of great importance for policy and practice 'as policymakers and administrators often have control only over the availability of an intervention, and not its uptake'"（Pampaka et al., 2016, p.233）
@@ -35,7 +35,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **政策意[[Rightness|义]]**：政策制定者通常只能控制干预是否可用，而无法强制接受——ITT 估计因此直接对应政策决策的实际参数
+> - **政策意义**：政策制定者通常只能控制干预是否可用，而无法强制接受——ITT 估计因此直接对应政策决策的实际参数
 > - **与依从性问题**：当存在"非合规（non-compliance）"时，传统的多水平模型"不再估计处理效应，因为它们不模拟每个个体实际接受的处理"（Pampaka et al., 2016, p.233）
 > - **ITT 的局限**：ITT 可能低估实际干预效果（当非合规率高时），因为它混合了接受者和未接受者的结果
 

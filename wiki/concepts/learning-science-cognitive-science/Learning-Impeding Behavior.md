@@ -29,7 +29,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Learning-Impeding Behavior 指会削弱课堂学习效率的负向在校行为表现。
 
 ## 核心要素

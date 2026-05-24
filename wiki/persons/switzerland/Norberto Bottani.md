@@ -39,7 +39,7 @@ updated: '2026-05-19'
 > Bottani 的核心立场经历了从乐观到幻灭的显著转变（Gorur, 2014, p.5）：
 
 
-> [!info] 早期乐观主[[Rightness|义]]（1992–1998）
+> [!info] 早期乐观主义（1992–1998）
 > Bottani 认为[[International Education|国际教育]]指标在"理解其局限性的人手中"可以提供有价值的信息。他主张指标不应被用于科学研究的严格效度标准来衡量——因为它们"并非主要为科学研究设计"（Bottani, 1994, p.335; Gorur, 2014, p.11）。
 >
 > > "The point is that indicators are not primarily designed for scientific research. They can be useful in a more limited and practical way, even if they do not account fully for these complexities."（Bottani, 1994, p.335; Gorur, 2014, p.11）
@@ -72,7 +72,7 @@ updated: '2026-05-19'
 
 > [!note-] OECD 职业历程（Gorur, 2014, p.5）
 > - **1976–1983**：OECD 早期工作，专注早期儿童教育
-> - **1983–1987**：领导 OECD 的教育、文化与语言多元主[[Rightness|义]]项目（Education, Cultural and Linguistic Pluralism）
+> - **1983–1987**：领导 OECD 的教育、文化与语言多元主义项目（Education, Cultural and Linguistic Pluralism）
 > - **1984–1987**（原文为 1994–1987，疑似笔误）：担任 OECD 教育统计与指标处处长
 > - **1988–1997**：担任 [[International Indicators of Education Systems (INES)|INES]] 项目负责人，这是[[International Education|国际教育]]指标体系的关键塑造时期
 > - 约在 [[PISA]] 概念化和开发的时期离任

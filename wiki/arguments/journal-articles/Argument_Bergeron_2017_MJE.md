@@ -46,7 +46,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> Bergeron & Rivard 的论证分为六个层次，逐层揭示 *[[Visible Learning]]* 从"[[Sage|圣]]杯"到"纸牌屋"的崩塌：
+> Bergeron & Rivard 的论证分为六个层次，逐层揭示 *[[Visible Learning]]* 从"圣杯"到"纸牌屋"的崩塌：
 >
 > ### 1. [[John Hattie|Hattie]] 的意图值得肯定，但不足以弥补错误
 >

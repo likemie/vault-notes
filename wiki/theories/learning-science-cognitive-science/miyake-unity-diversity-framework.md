@@ -61,7 +61,7 @@ updated: '2026-05-18'
 ## 应用领域
 
 > [!success] 应用领域
-> - executive-function — 以 Miyake 三成分模型为 [[Executive Function|EF]] 的核心定[[Rightness|义]]框架
+> - executive-function — 以 Miyake 三成分模型为 [[Executive Function|EF]] 的核心定义框架
 > - piagets-theory-of-cognitive-development — Bolton & [[John Hattie|Hattie]] (2017) 使用此框架将 EF 各成分的发展轨迹与[[Jean Piaget|皮亚杰]]阶段进行对齐
 
 ## 来源

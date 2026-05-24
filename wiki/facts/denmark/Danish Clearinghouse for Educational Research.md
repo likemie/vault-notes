@@ -56,7 +56,7 @@ updated: 2026-05-23
 ## 效果与评价
 
 > [!success]
-> 在欧洲证据基础设施中，Danish Clearinghouse 的意[[Rightness|义]]在于它较早把 [[Evidence-Based Education|证据本位教育]] 的系统综述机制放入欧洲大陆语境，而不只是依赖英国或美国平台（Pellegrini & Vivanet, 2021, p.32）。
+> 在欧洲证据基础设施中，Danish Clearinghouse 的意义在于它较早把 [[Evidence-Based Education|证据本位教育]] 的系统综述机制放入欧洲大陆语境，而不只是依赖英国或美国平台（Pellegrini & Vivanet, 2021, p.32）。
 
 ## 争议与评论
 

@@ -41,7 +41,7 @@ updated: '2026-05-19'
 > - 2015 年：出版 *Pædagogikkens to verdener*，探讨教育学的哲学连接
 > - 2017 年：在丹麦批评文集 *[[John Hattie|Hattie]] på dansk*（[[Hattie på dansk 2017]]）中撰文批评 VL 的[[Feedback|反馈]]概念
 > - 2018 年：在 *Educational Philosophy and Theory* 发表对 Hattie VL 的五线哲学批判（Argument_Rømer_2018_EPT）
-> - 现任奥胡斯大学（Department of Education, University of Aarhus）教育哲学副教授，研究兴趣为广[[Rightness|义]]的教育理论
+> - 现任奥胡斯大学（Department of Education, University of Aarhus）教育哲学副教授，研究兴趣为广义的教育理论
 
 ## 主要著作
 
@@ -71,7 +71,7 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 立基于 Dewey 的实用主[[Rightness|义]]教育哲学，尤其是 Dewey 对想象力和判断力的分析（Rømer, 2012）
+> - 立基于 Dewey 的实用主义教育哲学，尤其是 Dewey 对想象力和判断力的分析（Rømer, 2012）
 > - 在丹麦批评文集 *[[John Hattie|Hattie]] på dansk*（[[Hattie på dansk 2017]]）中撰文批评 VL 的[[Feedback|反馈]]概念——Qvortrup (2019, p.4) 反驳称 Rømer 声称反馈具有"集权化效应"的论断"without any kind of factual support"
 > - 其五线批评（Argument_Rømer_2018_EPT）被纳入 VL 国际批评文献谱系，补充了此前以方法论（Wecker, Bergeron, Simpson）和文化政治（McKnight & Whitburn）为主的批评维度
 > - 与丹麦教育研究界内部的 VL 接受者（[[Lars Qvortrup]]、Laursen、Egelund）形成争论，Qvortrup (2019) 以解释社群分析将丹麦批评者整体定性为短期内形成广泛误解的社群
@@ -82,7 +82,7 @@ updated: '2026-05-19'
 > Qvortrup (2019) 在以 VL 支持者立场回应丹麦批评时，专门针对 Rømer 在 [[Hattie på dansk 2017]] 中的反馈批评提出反驳：
 >
 > - **Qvortrup 的立场**：Rømer 声称 VL 的反馈概念具有"集权化效应"——即反馈机制从学生到教师到校长到市政府到国家层面逐级收集信息并以此控制下层——这一论断"without any kind of factual support"（Qvortrup, 2019, p.4）。Qvortrup 认为这是丹麦 [[John Hattie|Hattie]] 批评者"解释社群"对 VL 产生广泛误解的典型案例。
-> - **Rømer 的立场**：Rømer (2018) 的论证基于对 Hattie 反馈概念的概念分析——Hattie 本人将反馈重新定[[Rightness|义]]为"从学生到教师"最有力（Hattie, 2009, p.173），这一转向使教学实践从"文化对学生可见"逆转为"学生对教师可见"，其逻辑后果是层级监控结构的建立。Rømer 的论证属于哲学推论而非经验主张。
+> - **Rømer 的立场**：Rømer (2018) 的论证基于对 Hattie 反馈概念的概念分析——Hattie 本人将反馈重新定义为"从学生到教师"最有力（Hattie, 2009, p.173），这一转向使教学实践从"文化对学生可见"逆转为"学生对教师可见"，其逻辑后果是层级监控结构的建立。Rømer 的论证属于哲学推论而非经验主张。
 >
 > 目前此争议持续：双方分歧根源于方法论立场差异——Qvortrup 要求经验证据，Rømer 以概念分析为方法。
 

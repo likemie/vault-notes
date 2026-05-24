@@ -23,7 +23,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 由 Tanggaard, Rømer & Brinkmann (2014) 提出的概念，仿照"纯粹教育"（pure education）的用法，指一种被宣称在自调节系统中独立于时间和空间运作的评价实践。
 >
 > > 类比"pure education"——"an educational theory and practice that is claimed to work in self-regulating systems independent of time and space"（Rømer, 2018, p.3，引用 Tanggaard, Rømer, & Brinkmann, 2014）
@@ -48,7 +48,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与批评
 > - Rømer (2018) 以 [[John Hattie|Hattie]] 的 VL 为 Pure Evaluation 的典型案例：138 个变量被原子化、去情境化，在[[Meta-meta-analysis|元-元分析]]中汇总为一个全球性的 d>0.4 基准
-> - 批评的实质：评价从"评估教育"变为"定[[Rightness|义]]教育"，教育对象在评价语言游戏中消失（Rømer, 2018, p.3-5）
+> - 批评的实质：评价从"评估教育"变为"定义教育"，教育对象在评价语言游戏中消失（Rømer, 2018, p.3-5）
 
 ## 来源
 

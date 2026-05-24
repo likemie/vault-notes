@@ -39,7 +39,7 @@ updated: '2026-05-19'
 > [!abstract] 主要著作
 > - Schriewer, J. (1990). The method of comparison and the need for [[Externalization (Schriewer)|externalization]]: methodological criteria and sociological concepts. In J. Schriewer (Ed.) in cooperation with B. Holmes, *Theories and Methods in Comparative Education*, pp. 25–83. Frankfurt: Peter Lang. — 首次系统提出外化概念，将其定位为比较方法的认识论工具
 > - Schriewer, J. (Ed.) (2003). *Discourse Formation in Comparative Education*. Berlin: Peter Lang. — 将外化纳入更广泛的话语形成理论框架
-> - Schriewer, J. & Martinez, C. (2004). Constructions of internationality in education. In G. Steiner-Khamsi (Ed.), *Lessons from Elsewhere: the politics of educational borrowing and lending*. New York: Teachers College Press. — 区分"进化过程"和"语[[Rightness|义]]建构"，完善外化理论
+> - Schriewer, J. & Martinez, C. (2004). Constructions of internationality in education. In G. Steiner-Khamsi (Ed.), *Lessons from Elsewhere: the politics of educational borrowing and lending*. New York: Teachers College Press. — 区分"进化过程"和"语义建构"，完善外化理论
 
 ## 核心思想
 
@@ -49,7 +49,7 @@ updated: '2026-05-19'
 > > "Externalizations 'filter' the reception and description of an international environment according to the changing problem configurations and reflection situations internal to a given system." (Schriewer & Martinez, 2004, p. 32，引自 Rappleye, 2006, p. 230)
 
 
-> [!info] 进化过程 vs 语[[Rightness|义]]建构
+> [!info] 进化过程 vs 语义建构
 > Schriewer 区分了两种独立的现实层面（Rappleye, 2006, p. 230, 232）：
 >
 > 1. **"进化过程"（evolutionary process）：** "更广阔世界"的客观变化——完全独立于人的能动性
@@ -68,7 +68,7 @@ updated: '2026-05-19'
 > [!success] 主要贡献
 > - **[[Externalization (Schriewer)|外化]]概念** — 比较教育和政策转移研究的核心分析工具
 > - **话语形成理论** — 将比较教育纳入更广泛的社会[[Luhmann's Systems Theory|系统理论]]框架
-> - **进化过程／语[[Rightness|义]]建构的区分** — 为分析教育政策转移中的"情境"问题提供了方法论基础
+> - **进化过程／语义建构的区分** — 为分析教育政策转移中的"情境"问题提供了方法论基础
 
 ## 思想发展与影响
 

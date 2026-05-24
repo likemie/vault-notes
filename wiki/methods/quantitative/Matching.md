@@ -31,7 +31,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 匹配（Matching）是一种[[Observational and Correlational Research|观察]]性研究的因果推断方法，通过在处理组和对照组之间匹配协变量分布相似的研究对象，使两组在可观测特征上变得可比。它被 Berk (2011) 推荐为[[Causal Modeling|因果建模]]（SEM）的替代方法——"更少依赖不可检验的假设，更多受实证诊断约束，更不容易受统计不当行为的影响"（Berk, 2011, p.198）。
 
 ## 认识论立场

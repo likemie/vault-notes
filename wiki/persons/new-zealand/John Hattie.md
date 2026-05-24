@@ -119,7 +119,7 @@ updated: '2026-05-21'
 > [!info] 核心思想
 > - **可见的教与学**："当教师成为自身教学的学习者、学生成为自身教师时，对学生学习产生最大效应"（Hattie, 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）
 > - **[[Effect Size|效应量]]铰链点 d=0.40**：以 d=0.40 作为比较教育影响的经验参考点，而非脱离情境的硬性戒律；Hattie 后来强调低于 0.40 的效果仍需结合学段、结果类型和同类研究解释（Hattie, 2015, pp.11, 17）。详见 [[Effect Size#Hattie 的铰链点 d=0.40 与影响气压计（2009–2015）]]
-> - **"教师作为激活者 vs 促进者"的核心区分**：Hattie 基于其分析结果将教师角色分为两类——激活者（activator，d=0.60 平均）和促进者（facilitator，d=0.17 平均）（Hattie, 2009, p.243；Terhart, 2011, p.433, Table 3）。激活者策略包括交互教学（d=0.74）、[[Feedback|反馈]]（d=0.72）、元认知策略（d=0.67）、[[Direct Instruction|直接教学]]（d=0.59）、[[Jing (Refined Mastery)|精]][[Shu (Familiarization)|熟]]学习（d=0.57）；促进者策略包括模拟与游戏（d=0.32）、探究式教学（d=0.31）、小班教学（d=0.21）、问题式学习（d=0.15）、[[Whole Language|全语言]]（d=0.06）。Hattie 由此得出结论："建构主[[Rightness|义]]是一种知识形式，但不是一种教学形式"（Hattie, 2009, p.243，引自 Terhart, 2011, p.433）
+> - **"教师作为激活者 vs 促进者"的核心区分**：Hattie 基于其分析结果将教师角色分为两类——激活者（activator，d=0.60 平均）和促进者（facilitator，d=0.17 平均）（Hattie, 2009, p.243；Terhart, 2011, p.433, Table 3）。激活者策略包括交互教学（d=0.74）、[[Feedback|反馈]]（d=0.72）、元认知策略（d=0.67）、[[Direct Instruction|直接教学]]（d=0.59）、[[Jing (Refined Mastery)|精]]熟学习（d=0.57）；促进者策略包括模拟与游戏（d=0.32）、探究式教学（d=0.31）、小班教学（d=0.21）、问题式学习（d=0.15）、[[Whole Language|全语言]]（d=0.06）。Hattie 由此得出结论："建构主义是一种知识形式，但不是一种教学形式"（Hattie, 2009, p.243，引自 Terhart, 2011, p.433）
 > - 主张学习必须是"被学习者分享、承诺和理解的"（Hattie, 2009, p.23），以进步教育哲学的语言包装实证主义议程（McKnight & Whitburn, 2020, p.34）
 > - **"Know thy impact"**：教师须以可见证据评估自身教学对学生成绩的影响——这成为 [[Visible Learning]] 的标志性口号（Hattie, Masters, & Birch, 2016, p.3）
 > - **评价者型教师**：Hattie (2015) 将“Know thy impact”解释为教师和学校的评价姿态：教师不是简单收集数据，而是解释证据、判断干预的价值和重要性，并与同事共同比较影响的大小、深度和覆盖范围（Hattie, 2015, pp.11-14）。这一点把他的思想从单纯的[[Effect Size|效应量]]排名推进到学校层面的 [[Professional Judgment]]，但具体统计争议仍应放在 [[Effect Size]] 和 [[Meta-meta-analysis]] 中处理。
@@ -149,7 +149,7 @@ updated: '2026-05-21'
 >
 > **斯堪的纳维亚的学校改进转译**：Nordahl (2015) 提供了一条与商业化品牌扩张不同的接受路径。这里的 Hattie 既不是单纯的[[Effect Size|效应量]]排行榜作者，也不是外部问责工具的代名词，而是被转译为“学校为何必须围绕学习结果重组改进工作”的论据来源。其关键影响不在推广某个单一方法，而在推动学校把 [[Professional Judgment]]、教师协作、[[Knowledge Mobilisation|知识动员]]与学习结果评估重新绑在一起（Nordahl, 2015, pp.61–69）。
 >
-> **2009 年新西兰媒体风暴**：Hattie (2010, pp.86–87) 自述 2009 年 1 月 *Sunday Star Times* 头版报道 VL 后引发的激烈反应——"很明显许多评论者并未读过这本书（有人甚至对此表示赞许）"。[[Class Size|班级规模]]必须缩减（尽管 Hattie 从未声称减班不提高成绩）、[[Performance Pay|绩效工资]]是邪恶的、按能力分班对教师更容易等抗议声不断——"轶事和战争故事比比皆是，仿佛每一项都是反事实"。Hattie 将此定性为媒体将他的"[[Jing (Refined Mastery)|精]]心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。
+> **2009 年新西兰媒体风暴**：Hattie (2010, pp.86–87) 自述 2009 年 1 月 *Sunday Star Times* 头版报道 VL 后引发的激烈反应——"很明显许多评论者并未读过这本书（有人甚至对此表示赞许）"。[[Class Size|班级规模]]必须缩减（尽管 Hattie 从未声称减班不提高成绩）、[[Performance Pay|绩效工资]]是邪恶的、按能力分班对教师更容易等抗议声不断——"轶事和战争故事比比皆是，仿佛每一项都是反事实"。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。
 >
 > **丹麦**：2014 年学校改革明确引用 VL 后，Hattie 被丹麦批评者从"教育英雄"转变为"教育敌人"。Fredens (2015) 书评以正面立场评述 Hattie & Yates (2014) 丹麦语译本（详见 [[Argument_Fredens_2015_Paideia]]）；Qvortrup (2015) 以支持者立场回应批评，同时承认学习结果概念需通过 [[Dynamic Knowledge and Learning Model]] 加以重建（详见 [[Argument_Qvortrup_2015_Paideia]]）；Laursen (2015) 认为 VL 核心综合在丹麦"总体上"适用（详见 [[Argument_Laursen_2015_Paideia]]）；随后丹麦语批评文集 *Hattie på dansk* (2017) 汇集多篇批评；Qvortrup (2019) 进一步辩护，将批评定性为意识形态驱动的解释社群现象（详见 [[Argument_Qvortrup_2019_NordSTEP]]）。丹麦争议的详细分析参见 [[Visible Learning#丹麦争议（2014–2019）]]。
 >
@@ -171,7 +171,7 @@ updated: '2026-05-21'
 >
 > Snook, O'Neill, Clark, O'Neill, & Openshaw (2009) 发表 *Invisible Learnings? A Commentary on John Hattie's book: Visible Learning*（详见 Argument_Snook_2009_NZJES），从七个维度系统质疑 VL 的方法论和政策外推：
 > - [[Meta-analysis|元分析]]综合未评估纳入研究质量——"垃圾进垃圾出"（Eysenck）
-> - d=0.40 截断值武断；小效应在大规模随机研究中可有重大意[[Rightness|义]]
+> - d=0.40 截断值武断；小效应在大规模随机研究中可有重大意义
 > - [[Effect Size|效应量]]暗示因果性但常不可辩护
 > - 平均化掩盖复杂性（如家庭作业总体 d=0.29，小学仅 0.15、中学 0.64）
 > - 社会背景被选择性排除，但这些因素解释 70–80% 校间差异
@@ -216,7 +216,7 @@ updated: '2026-05-21'
 
 
 > [!warning] 方法论批评
-> - **Terhart (2011)** — VL 最早的学术书评之一：识别[[Meta-meta-analysis|元-元分析]]的信息损失与稳定性/变异性双重困境；批评[[Didaktik|教学理论]]内容空洞（Popper 误用、[[Bildung]] 缺失）；从 Foucault 视角定性可见性为"[[Jing (Refined Mastery)|精]]致的支配形式"。结论："很明显 Hattie 事实上没有找到[[Sage|圣]]杯"（详见 [[Argument_Terhart_2011_JCS]]、[[Visible Learning#Terhart (2011)]])
+> - **Terhart (2011)** — VL 最早的学术书评之一：识别[[Meta-meta-analysis|元-元分析]]的信息损失与稳定性/变异性双重困境；批评[[Didaktik|教学理论]]内容空洞（Popper 误用、[[Bildung]] 缺失）；从 Foucault 视角定性可见性为"精致的支配形式"。结论："很明显 Hattie 事实上没有找到圣杯"（详见 [[Argument_Terhart_2011_JCS]]、[[Visible Learning#Terhart (2011)]])
 > - **Allerup (2015)** — 从统计学角度批评 Hattie 用效应量给教学干预排序：d=0.40 与显著性的关系依赖样本量，排名未系统报告[[Confidence Interval|置信区间]]、标准误或相邻 d 值的显著性检验，且 TIMSS 2011 例子显示边际效应量在[[Societies of Control|控制社会]]经济背景后可明显下降（详见 [[Effect Size#基本公式与构成逻辑]]、[[Meta-meta-analysis#技术方法论缺陷]]）
 > - **Wecker et al. (2016)** — 迄今最系统的技术评估：构建三层分析框架，发现六个分析步骤均存在方法论不足（数据基础缺失、Fisher's z 省略、[[School Effectiveness|SE]]/SD 混淆、重复数据未中和、简单平均替代加权、无 CI/显著性检验）；外部批判揭示固定效应模型不适、138 因素不可比、d=0.40 实质意义存疑。综合判断：愿景"有远见"但方法"以科学合理的方式不可行"（详见 [[Argument_Wecker_2016_ZfE]]、[[Visible Learning#Wecker et al. (2016)]])
 > - **Bergeron & Rivard (2017)** — 统计学家视角定性为伪科学：CLE 计算错误（负概率）、基线比较任意性、三种效应量公式产生矛盾排名、r→d 转换危险、聚合任意性。结论："任何人都不应该复制这种方法论"（详见 [[Argument_Bergeron_2017_MJE]]、[[Visible Learning#Bergeron & Rivard (2017)]])

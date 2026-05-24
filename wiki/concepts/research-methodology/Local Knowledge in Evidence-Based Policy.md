@@ -38,7 +38,7 @@ updated: '2026-05-23'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 本地知识（Local Knowledge）指从业者通过直接经验、对本地情境的深入了解和[[Professional Judgment|专业判断]]所形成的知识，它不同于正式科学研究证据，但被多项研究认定为证据本位政策成功实施的不可或缺的组成部分。
 >
 > > "Local knowledge... may be essential to growing and sustaining school improvement efforts. Furthermore, practitioner knowledge may help... use the more formal types of evidence... by giving meaning to information and suggesting viable courses of action."（Honig and Coburn, 2007, p.601; 引自 Cowen et al., 2015, p.14）
@@ -63,7 +63,7 @@ updated: '2026-05-23'
 
 ### 证据翻译知识
 
-本地知识的第二个功能是给研究证据“赋[[Rightness|义]]”：抽象研究发现只有经过从业者解释，才会变成可执行的行动方案（Cowen et al., 2015, p.14）。例如，一个项目的平均[[Effect Size|效应量]]较高，并不自动说明它适合本校；学校还要判断研究学校、教师能力、学生构成、课程节奏和资源条件是否与本地足够接近（Wiliam, 2019, pp.12-13）。
+本地知识的第二个功能是给研究证据“赋义”：抽象研究发现只有经过从业者解释，才会变成可执行的行动方案（Cowen et al., 2015, p.14）。例如，一个项目的平均[[Effect Size|效应量]]较高，并不自动说明它适合本校；学校还要判断研究学校、教师能力、学生构成、课程节奏和资源条件是否与本地足够接近（Wiliam, 2019, pp.12-13）。
 
 ### 采购与实施知识
 
@@ -92,7 +92,7 @@ updated: '2026-05-23'
 
 > [!info] 理论基础
 > - [[Cartwright's Three-Stage Knowledge Framework]] — [[Randomised Controlled Trials|RCT]] 不能自动告诉你"在这里是否有效"，这个判断需要理解本地支持因素，而本地支持因素只能通过本地知识来识别
-> - Dewey 实用主[[Rightness|义]]认识论 — 知识的价值在于其对具体情境中行动的指导能力
+> - Dewey 实用主义认识论 — 知识的价值在于其对具体情境中行动的指导能力
 > - Hayek (1945) 的知识问题 — Wiliam (2019) 引入 Hayek 的经典论证：社会中关键知识是分散的、默会的、情境特定的——"特定时间和地点环境的知识"无法被任何中央权威汇总或替代。这为本地知识在 EBP 中的角色提供了政治经济学基础（Wiliam, 2019, pp.12–13）
 
 ## 实证发现

@@ -26,7 +26,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心理学家，[[Radical Constructivism|激进建构主义]]（Radical Constructivism）创始人。他将建构主[[Rightness|义]]认识论从 Piaget 的认知发展理论推向哲学极端，以唯我论（solipsism）为出发点，主张所有知识都是个体主观建构。
+> Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心理学家，[[Radical Constructivism|激进建构主义]]（Radical Constructivism）创始人。他将建构主义认识论从 Piaget 的认知发展理论推向哲学极端，以唯我论（solipsism）为出发点，主张所有知识都是个体主观建构。
 
 ## 生平与职涯
 
@@ -54,7 +54,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Radical Constructivism]] — 创始人，将知识定[[Rightness|义]]为个体主观建构，排除外部世界
+> - [[Radical Constructivism]] — 创始人，将知识定义为个体主观建构，排除外部世界
 > - 影响了 1990 年代学习理论的重要范式转向
 > - 其认识论立场被 [[John Hattie]] 的 [[Visible Learning]] 全面接受并作为理论基础（Rømer, 2018, p.7-8）
 > - 也被 [[Niklas Luhmann]] 的[[Luhmann's Systems Theory|系统理论]]引用和赞赏（Luhmann, 1998，转引自 Rømer, 2018, p.11, note 6）
@@ -64,7 +64,7 @@ updated: '2026-05-19'
 > [!warning] 争议与批评
 > - **规范性缺失**：[[Radical Constructivism|激进建构主义]]无法区分好知识与坏知识、知识与谬误，使教育判断失去基础（Rømer, 2018, p.6-7）
 > - **外部世界的消解**：Rømer 论证 Glasersfeld 的唯我论前提使教育中的社会、政治、文化和科学维度全部退场
-> - **与科学实在论的对立**：Popper 的哲学代表了 Glasersfeld 立场的[[Jing (Refined Mastery)|精]]确对立面，[[John Hattie|Hattie]] 试图桥接两者的努力因此注定失败（Rømer, 2018, p.10-11）
+> - **与科学实在论的对立**：Popper 的哲学代表了 Glasersfeld 立场的精确对立面，[[John Hattie|Hattie]] 试图桥接两者的努力因此注定失败（Rømer, 2018, p.10-11）
 
 ## 来源
 

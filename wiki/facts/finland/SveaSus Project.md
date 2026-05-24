@@ -53,7 +53,7 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success] 影响与后果
-> SveaSus 的意[[Rightness|义]]在于提供了一个 [[Phenomenon-Based Learning|PhBL]] 的具体实践场景：学习不是在抽象课堂中围绕"可持续性"概念展开，而是在世界遗产地中把地点、时间、身体经验、艺术方法、多语资源和跨学科知识组织起来（Schaffar & Wolff, 2024, p.1）。
+> SveaSus 的意义在于提供了一个 [[Phenomenon-Based Learning|PhBL]] 的具体实践场景：学习不是在抽象课堂中围绕"可持续性"概念展开，而是在世界遗产地中把地点、时间、身体经验、艺术方法、多语资源和跨学科知识组织起来（Schaffar & Wolff, 2024, p.1）。
 >
 > 该项目也说明，PhBL 可用于高等教育和教师教育，而不只属于基础教育课程改革。它把教师、研究者、艺术家和学生放入共同研究与发展关系中，体现了 PhBL 所强调的协作、共同责任和对复杂问题的多视角理解，也呼应 [[Bildung]] 和 [[Didaktik]] 对教育目的、内容选择和开放未来的关切（Schaffar & Wolff, 2024, pp.1, 6-7, 11）。
 
@@ -69,7 +69,7 @@ updated: '2026-05-18'
 > - [[Finnish National Core Curriculum 2014]] — 虽然 SveaSus 属于高等教育/教师教育语境，但它展示了芬兰课程改革中 PhBL 取向可如何转化为具体学习环境。
 > - [[Epochal Key Problems]] — 项目的可持续性主题把重大公共问题转化为具体学习[[Champ|场域]]。
 > - [[Atomisation of Knowledge and Skills]] — SveaSus 的真实场域、身体经验、艺术和多语方法可作为抵抗单纯技能化学习理解的实践例子。
-> - [[Phenomenology]] — 项目强调世界遗产地、具身学习和真实场域，体现了学习与生活世界、身体经验和意[[Rightness|义]]生成的关系。
+> - [[Phenomenology]] — 项目强调世界遗产地、具身学习和真实场域，体现了学习与生活世界、身体经验和意义生成的关系。
 
 ## 来源
 

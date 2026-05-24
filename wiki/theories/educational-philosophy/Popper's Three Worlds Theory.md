@@ -66,9 +66,9 @@ updated: '2026-05-18'
 >
 > 2. **中介环节 Bereiter**：Bereiter (2002) 已经对 Popper 做了关键化简：将"文化对象"缩减为"真理与非真理"，排除贝多芬交响乐这类 Popper 本人常用的 World 3 示例。但 Bereiter 至少保留了"心灵之外的知识"（knowledge outside the mind）以及 World 2（学习）与 World 3（知识建构）的区分。Hattie 进一步抹除了这一区分。
 >
-> 3. **实在论 vs 建构主[[Rightness|义]]的根本矛盾**：Popper 是哲学实在论者，Hattie 是主观建构主义者。Hattie 用建构主义吞噬了实在论：Popper 的"批评、大胆猜想、实验和证伪"词汇残留在 VL 中，但被重构为制造 d>0.4 的学习方法，完全丧失了与文化和科学对象的接触。
+> 3. **实在论 vs 建构主义的根本矛盾**：Popper 是哲学实在论者，Hattie 是主观建构主义者。Hattie 用建构主义吞噬了实在论：Popper 的"批评、大胆猜想、实验和证伪"词汇残留在 VL 中，但被重构为制造 d>0.4 的学习方法，完全丧失了与文化和科学对象的接触。
 >
-> 4. **后果**：以 Popper 命名的教育理论实际上服务于 Popper 哲学在认识论上的[[Jing (Refined Mastery)|精]]确对立面——[[Radical Constructivism|激进建构主义]]、唯我论和认知主义。最终得到"一个没有教育和贝多芬交响乐的世界"（Rømer, 2018, p.11）。
+> 4. **后果**：以 Popper 命名的教育理论实际上服务于 Popper 哲学在认识论上的精确对立面——[[Radical Constructivism|激进建构主义]]、唯我论和认知主义。最终得到"一个没有教育和贝多芬交响乐的世界"（Rømer, 2018, p.11）。
 
 
 > [!warning] Qvortrup 的温和修正
@@ -82,7 +82,7 @@ updated: '2026-05-18'
 ## 应用领域
 
 > [!success] 应用领域
-> - [[Visible Learning]] — [[John Hattie|Hattie]] 以（被严重误读的）Popper 三个世界理论作为 VL 的认识论基础；在回应 Eacott 的 [[Cult of the Guru]] 批评时，Hattie（2017, p.428）再度援引 Popper 证伪主[[Rightness|义]]，声称 VL 包含"大胆猜想"因此"容易被证伪"——Rømer（2018）和 Johnson & Janzen（2023）指出 Popper 的 fallibilism 旨在区分科学与伪科学，而非为未经证伪的猜想提供免于批评的盾牌
+> - [[Visible Learning]] — [[John Hattie|Hattie]] 以（被严重误读的）Popper 三个世界理论作为 VL 的认识论基础；在回应 Eacott 的 [[Cult of the Guru]] 批评时，Hattie（2017, p.428）再度援引 Popper 证伪主义，声称 VL 包含"大胆猜想"因此"容易被证伪"——Rømer（2018）和 Johnson & Janzen（2023）指出 Popper 的 fallibilism 旨在区分科学与伪科学，而非为未经证伪的猜想提供免于批评的盾牌
 > - [[Surface and Deep Learning]] — Hattie 将表层学习映射到 World 1、深层学习映射到 World 2、建构性理解映射到 World 3；Rømer (2018) 论证此映射严重误读了 Popper
 > - [[Dynamic Knowledge and Learning Model]] — Qvortrup (2015) 从 VL 内部指出 Popper/Bereiter、Bloom 和 SOLO 之间的知识层次对应不清，因而提出动态模型作为替代性概念化路径
 > - [[Radical Constructivism]] — 与 Popper 的科学实在论处于认识论的对立两极

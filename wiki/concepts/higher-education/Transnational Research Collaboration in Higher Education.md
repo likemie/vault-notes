@@ -76,7 +76,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - 跨国研究合作中多重理性的融合可能掩盖权力不对称——发达国家机构和国家在议程设置、资源分配和成果归属上占据优势地位（Rizvi, 2022, pp.98–99）
-> - Collins (2007) 对 [[GATS and Trade in Education Services|GATS]] 的批评可延伸至研究合作领域：合作话语可能"反映了一种新帝国主[[Rightness|义]]，其中更强大的国家将发展中国家保留为市场，并在其中继续在智识上进行统治"（Collins, 2007, p.283, cited in Rizvi, 2022, p.97）
+> - Collins (2007) 对 [[GATS and Trade in Education Services|GATS]] 的批评可延伸至研究合作领域：合作话语可能"反映了一种新帝国主义，其中更强大的国家将发展中国家保留为市场，并在其中继续在智识上进行统治"（Collins, 2007, p.283, cited in Rizvi, 2022, p.97）
 
 ## 相关案例／政策
 

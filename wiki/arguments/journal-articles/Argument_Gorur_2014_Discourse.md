@@ -36,7 +36,7 @@ updated: '2026-05-18'
 
 > [!abstract] 理论框架
 > - **[[Science and Technology Studies (STS)]]** — 以 Latour 的"科学在行动"为方法论指南，将指标开发视为"正在制造中的科学"（Gorur, 2014, p.6）
-> - **[[Sociology of Measurement]]**（Woolgar） — 分析测量的工具主[[Rightness|义]]（instrumentalism：事物如何在实用意义上被"弄到运作"）和施行性（performativity：测量如何制造世界）（Gorur, 2014, p.6–7）
+> - **[[Sociology of Measurement]]**（Woolgar） — 分析测量的工具主义（instrumentalism：事物如何在实用意义上被"弄到运作"）和施行性（performativity：测量如何制造世界）（Gorur, 2014, p.6–7）
 > - **共同生产（Co-production）**（Jasanoff, 2004） — 科学与治理相互构成的分析框架（Gorur, 2014, p.6）
 
 ## 研究方法
@@ -69,7 +69,7 @@ updated: '2026-05-18'
 > - [[Education at a Glance (EAG)|EAG]] 从 1992 年的 150 页增长至约 550 页（Gorur, 2014, p.14）
 > - [[Performance Indicators|绩效指标]]从 EAG 最后一节（1990s）移至第一节（2002–），反映了关注焦点的根本转变（Gorur, 2014, p.13–14）
 > - INES 网络运作如"俱乐部"——有效但可能产生封闭性决策（Bottani, 1998, p.73; Gorur, 2014, p.16）
-> - 指标一旦制度化就极难删除——即使 OECD 团队想删除，用户抵制（"有人称它为[[Sage|圣]]经"）（OECD 官员访谈; Gorur, 2014, p.17）
+> - 指标一旦制度化就极难删除——即使 OECD 团队想删除，用户抵制（"有人称它为圣经"）（OECD 官员访谈; Gorur, 2014, p.17）
 > - EAG 团队承认必须对媒体说"不正确的简化"，因为复杂真相无法被传播（OECD 官员访谈; Gorur, 2014, p.15）
 
 ## 关键引用

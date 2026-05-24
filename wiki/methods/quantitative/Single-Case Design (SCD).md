@@ -37,7 +37,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 单一个案设计（Single-Case Design, [[21st Century Skills and Competencies Discourse|SCD]]）是一类实验方法，由多种设计组成，涉及在不同条件下对特定行为或技能进行重复测量，以评估干预对个体或小群体的有效性，个体或小群体作为自身的控制组（Kazdin, 2011; Hitchcock et al., 2015, p.460）。
 >
 > > "SCDs are experimental methods consisting of various designs involving repeated measures of a specific behavior or skill under different conditions to evaluate the effectiveness of a treatment for an individual or a small group of individuals that serve as their own control." (Hitchcock et al., 2015, p.460, citing Kazdin, 2011)
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> [[21st Century Skills and Competencies Discourse|SCD]] 共享 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生因果证据的多种设计类型。SCD 的因果推断逻辑与组间实验设计（[[Randomised Controlled Trials|RCT]]、准实验）一致：通过控制对内部效度的常见威胁（成[[Shu (Familiarization)|熟]]、历史、回归均值、处理扩散、工具化等），使替代解释变得不可信（Hitchcock et al., 2015, p.462）。
+> [[21st Century Skills and Competencies Discourse|SCD]] 共享 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生因果证据的多种设计类型。SCD 的因果推断逻辑与组间实验设计（[[Randomised Controlled Trials|RCT]]、准实验）一致：通过控制对内部效度的常见威胁（成熟、历史、回归均值、处理扩散、工具化等），使替代解释变得不可信（Hitchcock et al., 2015, p.462）。
 >
 > > 例：在一个 ABAB 设计中，通过交替引入和撤除干预，研究者可以排除成熟效应（随时间自然改善）和历史效应（外部事件）作为行为变化的替代解释。
 >
@@ -58,7 +58,7 @@ updated: '2026-05-18'
 
 [[Single-Case Design (SCD)]] 是一种研究方法；[[WWC SCD Pilot Standards 2010]] 则是 [[What Works Clearinghouse (WWC)]] 为了审查 [[21st Century Skills and Competencies Discourse|SCD]] 研究而制定的专门技术标准。两者不是同一层级：SCD 回答"如何用单个个体或小群体作为自身控制来生成因果证据"，WWC SCD Pilot Standards 2010 回答"WWC 如何判断某项 SCD 研究是否达到足够内部效度、能否进入后续证据综合"（Hitchcock et al., 2015, pp.459–461, 464–466）。
 
-因此，WWC SCD Pilot Standards 2010 应被视为 SCD 在[[Educational Evidence Clearinghouses|教育证据清算中心]]中的制度化应用案例，而不是 SCD 方法本身的完整定[[Rightness|义]]。它把 SCD 方法转化为 WWC 审查流程中的操作性标准：先依据审查协议筛选研究，再用 SCD 设计标准评估内部效度，通过后才由 SCD Review Guide 记录推广性信息，并最终使用 [[5-3-20 Rule]] 判断证据是否足以生成 WWC 干预报告（Hitchcock et al., 2015, pp.461, 464–466）。
+因此，WWC SCD Pilot Standards 2010 应被视为 SCD 在[[Educational Evidence Clearinghouses|教育证据清算中心]]中的制度化应用案例，而不是 SCD 方法本身的完整定义。它把 SCD 方法转化为 WWC 审查流程中的操作性标准：先依据审查协议筛选研究，再用 SCD 设计标准评估内部效度，通过后才由 SCD Review Guide 记录推广性信息，并最终使用 [[5-3-20 Rule]] 判断证据是否足以生成 WWC 干预报告（Hitchcock et al., 2015, pp.461, 464–466）。
 
 ## 常见设计类型
 
@@ -96,7 +96,7 @@ Hitchcock et al. (2015, p.466) 列举了 [[What Works Clearinghouse (WWC)|WWC]] 
 > - 场所描述
 > - 设计类型
 > - 参与者特征和样本量
-> - 因变量的操作性定[[Rightness|义]]和记录方法
+> - 因变量的操作性定义和记录方法
 > - 基线和干预条件（会话次数、干预时长）
 > - 实施者及其接受的培训
 > - 干预忠实度（treatment fidelity）

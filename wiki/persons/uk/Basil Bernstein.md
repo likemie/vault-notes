@@ -40,7 +40,7 @@ updated: 2026-05-23
 > Bernstein 关于教育知识“分类与框架”的论文在 1970 年 BSA Durham 会议上作为闭幕发言提出，并在 1971 年 Michael Young 编辑的 Knowledge and Control 中首次发表。该论文与 [[New Sociology of Education]] 的形成时刻相邻，但 Bernstein 并不等同于 NSE 的代表人物（Ball, 2008, p.658）。
 
 > [!tip] 教育话语理论
-> Bernstein 的独特性体现在其理论生产力上：他的教育研究持续使用 Durkheim 式社会学思想，并吸收语言理论、Foucault 和若干新马克思主[[Rightness|义]]资源；其理论挑战在于建立关于教育话语建构、分配规则、再语境化规则、评价规则及其社会基础的经验性理论（Ball, 2008, p.661）。
+> Bernstein 的独特性体现在其理论生产力上：他的教育研究持续使用 Durkheim 式社会学思想，并吸收语言理论、Foucault 和若干新马克思主义资源；其理论挑战在于建立关于教育话语建构、分配规则、再语境化规则、评价规则及其社会基础的经验性理论（Ball, 2008, p.661）。
 
 ## 影响
 

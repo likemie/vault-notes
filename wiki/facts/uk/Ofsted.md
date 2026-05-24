@@ -38,7 +38,7 @@ updated: '2026-05-18'
 > [!info] 背景
 > Ofsted（Office for Standards in Education, Children's Services and Skills）是英国教育、儿童服务和技能标准办公室，一个**非内阁政府部门（non-ministerial department）**，直接向议会报告。其主要职能是对英格兰的学校进行定期检查和评级。
 >
-> Ofsted 评级在教育政策辩论中占据核心位置——Bainbridge et al.（2022）发现，在议会关于[[Grammar School|文法学校]]的辩论中，Ofsted 评级被系统性混同为研究证据使用，尽管它不符合政府自身对"证据"的定[[Rightness|义]]（Coldwell et al., 2017）。英国教育部在 Coldwell et al.（2017）报告中将 EEF、Sutton Trust 和 [[John Hattie]] 列为官方认可的"approved"证据来源——**Ofsted 未被列入其中**（Bainbridge et al., 2022, p.4）。
+> Ofsted 评级在教育政策辩论中占据核心位置——Bainbridge et al.（2022）发现，在议会关于[[Grammar School|文法学校]]的辩论中，Ofsted 评级被系统性混同为研究证据使用，尽管它不符合政府自身对"证据"的定义（Coldwell et al., 2017）。英国教育部在 Coldwell et al.（2017）报告中将 EEF、Sutton Trust 和 [[John Hattie]] 列为官方认可的"approved"证据来源——**Ofsted 未被列入其中**（Bainbridge et al., 2022, p.4）。
 >
 > > 英国教育部对"证据"的定义明确排除了 Ofsted："The ultimate test would be whether teachers could explain their choices and practice by referring to a robust evidence base and using logical argument and reasoning, rather than saying that they do it because Ofsted or the department has told them to."（Coldwell et al., 2017, pp.9–10，引自 Bainbridge et al., 2022, p.4–5）
 >
@@ -84,7 +84,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> ### 评级不符合政府对"证据"的定[[Rightness|义]]
+> ### 评级不符合政府对"证据"的定义
 >
 > Ofsted 的过程和结果"既不符合政府自己为政策制定制定的证据定义（DfE, 2017），也不符合学术界对正当理由（justified warrants）的理解"（Bainbridge et al., 2022, p.27）。当一个政府机构成为"good 的来源及其理由"，便形成了一种政策制定者在证据来源上的"non serviam"（拒绝服从）循环（p.27）。
 >
@@ -108,7 +108,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／理论
 > - [[Moral Sidestep]] — Ofsted 的"good"评级是 Bainbridge et al. 识别的"建构型道德侧步"的核心操作工具
 > - [[Grammar School]] — 159/163 文法学校评级 good/outstanding，"good"成为辩护选择性教育的伪证据
-> - [[Evidence-Based Education]] — Ofsted 评级被混同为"证据"，但不符合政府自身对证据的定[[Rightness|义]]
+> - [[Evidence-Based Education]] — Ofsted 评级被混同为"证据"，但不符合政府自身对证据的定义
 > - [[Selective Schools Expansion Fund 2018]] — 资金仅流向 Ofsted good/outstanding 文法学校
 > - [[Justified Warrants]] — Ofsted 评级不符合学术界的正当理由标准
 >

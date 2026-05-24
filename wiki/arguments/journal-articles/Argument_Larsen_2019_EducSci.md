@@ -35,7 +35,7 @@ updated: '2026-05-18'
 
 > [!abstract] 理论框架
 > - [[Luhmann's Systems Theory]] — 盲点概念（blinder Fleck）和[[Structural Coupling|结构耦合]]概念作为核心批判工具。Luhmann 的论断"[[Observational and Correlational Research|观察]]者在观察时无法看见自身"和"个体不可能知道自己不知道什么"被应用于解构 VL 的认识论前提（Larsen, 2019, p.10）
-> - [[Bildung]] 传统 — 德国[[Jing (Refined Mastery)|精]]神科学传统中的品格陶成概念作为替代框架，包括 Humboldt、Herder、[[Immanuel Kant|Kant]]、Hegel、Nietzsche 以及批判理论和概念史的传承（Larsen, 2019, p.9）
+> - [[Bildung]] 传统 — 德国精神科学传统中的品格陶成概念作为替代框架，包括 Humboldt、Herder、[[Immanuel Kant|Kant]]、Hegel、Nietzsche 以及批判理论和概念史的传承（Larsen, 2019, p.9）
 > - Thomas Fuchs 的身体[[Phenomenology|现象学]] — 大脑作为"关系器官"和具身化-扩展辩证法（Larsen, 2019, p.9-10）
 > - [[Gert Biesta]] 的教育哲学 — [[Learnification]] 概念和对教育目的论的阐述（Larsen, 2019, p.2）
 
@@ -54,7 +54,7 @@ updated: '2026-05-18'
 >
 > **1. 学习对学习主体并非即时可见（Section 1）**
 > - 学习不能作为一种可在当下把握和描绘的可见现象来理解
-> - 学习的定性存在性时间因素（个体对时间和意[[Rightness|义]]的经验）和独特生命经验远比学习结果数字、分数和"快照"重要得多（Larsen, 2019, p.3）
+> - 学习的定性存在性时间因素（个体对时间和意义的经验）和独特生命经验远比学习结果数字、分数和"快照"重要得多（Larsen, 2019, p.3）
 > - Illeris 的关键定义：学习广义上可定义为"能力的永久性变化"——这意味着需要终身视角来判断什么是真正的学习（Larsen, 2019, p.2）
 >
 > **2. 大脑-身体-社会的复杂性不可还原（Section 2）**

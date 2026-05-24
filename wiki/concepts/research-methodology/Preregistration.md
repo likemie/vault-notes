@@ -30,7 +30,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 预注册（Preregistration）指在研究开始前公开登记研究设计、结果测量和分析计划的做法。在教育项目评估中，预注册被视为缓解选择性报告、[[Publication Bias|发表偏倚]]和[[Researcher Degrees of Freedom|研究者自由度]]等"可疑研究实践"（questionable research practices）的关键机制。
 >
 > > "A potential solution to mitigate any bias resulting from selective reporting of the best outcomes, publication bias, and researcher degrees of freedom would be to require program evaluations (including specific outcome measures and analyses) to be preregistered in order for them to be included in the [[What Works Clearinghouse (WWC)|WWC]] or other program review facilities." (Wolf et al., 2020, p. 443)

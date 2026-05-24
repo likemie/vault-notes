@@ -28,7 +28,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Global Education Reform Movement（GERM，全球教育改革运动）是 Sahlberg（2012）提出的术语，描述一种以新自由主义意识形态为驱动的全球教育改革趋势，寻求在教育及社会各领域增加私有化、减少监管、施加市场化。
 >
 > > GERM "is representative of a neoliberal ideology that seeks to increase privatization, reduce regulation, and apply marketization to all facets of society, including education"（Johnson & Janzen, 2023, p.31）
@@ -44,7 +44,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[New Public Management]] — 新管理主[[Rightness|义]]为 GERM 提供制度操作框架
+> - [[New Public Management]] — 新管理主义为 GERM 提供制度操作框架
 > - [[Technical Rationality]] — 手段-目的思维为 GERM 的效率追求提供认识论基础
 
 ## 实证发现

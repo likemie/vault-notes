@@ -31,7 +31,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > School Norm Adaptation 指学生对学校规范与课堂角色期待的行为性适配程度。
 
 ## 历史沿革

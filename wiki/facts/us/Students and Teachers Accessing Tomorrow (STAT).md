@@ -68,7 +68,7 @@ updated: 2026-05-23
 > 课堂[[Observational and Correlational Research|观察]]中，高阶教学策略如探究学习和项目学习出现频率相对有限；更明显的变化是课堂从教师主导转向学生中心，并伴随数字工具更频繁使用（Ross & Morrison, 2021, pp.118-119）。
 
 > [!warning]
-> 成就结果并不明确。Lighthouse 学校在 ELA 和数学上大体呈轻微上升趋势，但结果跨年份和队列并不一致，无法通过描述性结果显示 STAT 带来显著正向趋势。2018-2019 年，Lighthouse 小学年级在 ELA 和数学[[Shu (Familiarization)|熟]]练率上比同伴和州水平增长更多，但其他小学 ELA 下降、数学上升，中学结果则较为混合（Ross & Morrison, 2021, pp.118-119）。
+> 成就结果并不明确。Lighthouse 学校在 ELA 和数学上大体呈轻微上升趋势，但结果跨年份和队列并不一致，无法通过描述性结果显示 STAT 带来显著正向趋势。2018-2019 年，Lighthouse 小学年级在 ELA 和数学熟练率上比同伴和州水平增长更多，但其他小学 ELA 下降、数学上升，中学结果则较为混合（Ross & Morrison, 2021, pp.118-119）。
 
 ## 争议与评论
 

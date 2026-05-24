@@ -24,7 +24,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Vergegenkunft 是德国诺贝尔文学奖得主 Günther Grass 自创的文学原则——将 Vergangenheit（过去）、Gegenwart（现在）和 Zukunft（未来）三个词融合为一个词——表达**过去、现在与未来并非线性排列，而是彼此纠缠、相互渗透**的时间观。
 >
 > Amos (2022, p.56) 借用这个概念来说明 Cowen 在 transitology 中的核心[[Observational and Correlational Research|观察]]：教育转型中的过去、现在和未来比严格的线性时间顺序更为交织。你不能把"现在的市场化"和"过去的国家中心"截然分开，也不能假设"未来"会干净地取代"现在"。

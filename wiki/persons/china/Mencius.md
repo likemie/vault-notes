@@ -38,7 +38,7 @@ updated: 2026-05-22
 ## 简介
 
 > [!info]
-> 孟子（Mencius, ca. 372–289 BCE），战国时期儒家思想家，[[Confucius|孔子]]学说的直接继承者。他与孔子一同被后世中国人尊为[[Sage|圣人]]。孟子最重要的贡献是将孔子"学以[[Self-Cultivation|修身]]成[[Ren|仁]]"的教导建立在人性论的基础上，为[[Confucian Learning Tradition|儒家学习传统]]提供了一套系统的哲学论证（Li, 2012, pp.42-43）。
+> 孟子（Mencius, ca. 372–289 BCE），战国时期儒家思想家，[[Confucius|孔子]]学说的直接继承者。他与孔子一同被后世中国人尊为[[Sage|圣人]]。孟子最重要的贡献是将孔子"学以[[Self-Cultivation|修身]]成仁"的教导建立在人性论的基础上，为[[Confucian Learning Tradition|儒家学习传统]]提供了一套系统的哲学论证（Li, 2012, pp.42-43）。
 
 ---
 
@@ -105,7 +105,7 @@ updated: 2026-05-22
 
 > [!success]
 > - 孟子对性善论的论证，为儒家[[Self-Cultivation|修身]]传统提供了从[[Confucius|孔子]]那里缺失的哲学基础（Li, 2012, pp.42-43）
-> - "人人皆可为尧舜"的立场，使儒家道德理想从[[Jing (Refined Mastery)|精]]英走向大众（Li, 2012, p.43）
+> - "人人皆可为尧舜"的立场，使儒家道德理想从精英走向大众（Li, 2012, p.43）
 > - "自得之"（finding it in oneself）成为宋明理学家重新发现[[Confucian Learning Tradition|儒家学习传统]]的关键概念（Li, 2012, p.43）
 > - 作为独立思想者和批判声音的典范——"[[Take the World Upon Oneself|以天下为己任]]"——影响了后世无数中国知识分子（Li, 2012, pp.45-46）
 > - 与孔子一同被后世中国人尊为[[Sage|圣人]]（Li, 2012, p.42）

@@ -34,7 +34,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 组织能动者身份（organizational actorhood）指组织在结构和行为上的扩展，将自主性（autonomy）、目标导向（goal-orientation）、问责性（accountability）和社会嵌入性（social embeddedness / citizenship）纳入其核心身份的过程（Bromley & Meyer, 2015, p.148）。这一概念最初由 Krücken 和 Meier（2006）在分析欧洲大学转型时提出，用以描述大学从传统公共行政中的"特定组织"（specific organizations）向具有自我定[[Rightness|义]]目标、自主决策能力和对外问责机制的"完全组织"（complete organizations）的转变。
+> 组织能动者身份（organizational actorhood）指组织在结构和行为上的扩展，将自主性（autonomy）、目标导向（goal-orientation）、问责性（accountability）和社会嵌入性（social embeddedness / citizenship）纳入其核心身份的过程（Bromley & Meyer, 2015, p.148）。这一概念最初由 Krücken 和 Meier（2006）在分析欧洲大学转型时提出，用以描述大学从传统公共行政中的"特定组织"（specific organizations）向具有自我定义目标、自主决策能力和对外问责机制的"完全组织"（complete organizations）的转变。
 
 > [!quote]
 > "Actorhood, here, describes organizations' structural and behavioral expansion by including autonomy, goal-orientation, accountability and social embeddedness or citizenship as part of their core identity."（Bromley & Meyer, 2015，引自 Zapp, 2022, p.148）
@@ -71,7 +71,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 > 根据 Bromley & Meyer (2015)，组织能动者身份包含四个核心维度（Zapp, 2022, p.148）：
-> - **自主性（autonomy）**：大学拥有独立的决策权，能够定[[Rightness|义]]自身目标和战略方向。传统欧洲大学是政府行政系统的延伸——预算由教育部拨付、人事由政府任命、课程由国家规定。现代大学则像独立法人：自行设定战略规划、自主筹集经费、独立做出学术和人事决策。例：一所现代大学的校长可以制定"五年进入 THE 排名前 100"的战略目标，而不是等待教育部的年度指令（Zapp, 2022, p.148）
+> - **自主性（autonomy）**：大学拥有独立的决策权，能够定义自身目标和战略方向。传统欧洲大学是政府行政系统的延伸——预算由教育部拨付、人事由政府任命、课程由国家规定。现代大学则像独立法人：自行设定战略规划、自主筹集经费、独立做出学术和人事决策。例：一所现代大学的校长可以制定"五年进入 THE 排名前 100"的战略目标，而不是等待教育部的年度指令（Zapp, 2022, p.148）
 > - **目标导向（goal-orientation）**：大学主动设定和追求可测量的目标，而非被动响应外部指令。这不同于传统的学术好奇驱动——大学管理者思考的是"我们的研究影响力指标如何提升""我们的国际化程度是否达标"，而不是"教授们对什么感兴趣"。例：越来越多大学将研究议题有意识地与 [[UN Sustainable Development Goals 2015|SDGs]] 对齐，这不是因为某个教授的好奇心，而是大学的组织性战略决策（Zapp, 2022, pp.150–151）
 > - **问责性（accountability）**：大学对其行为和绩效承担责任，接受外部评估和排名。这体现在研究评估体系（如英国 REF 中的"影响"权重持续增加）、[[Global Universities Rankings|全球大学排名]]（[[THE Impact Ranking 2019]]、[[Academic Ranking of World Universities (ARWU)|ARWU]]、THE-WUR）、以及大学 [[Comprehensive School Reform (CSR) Program|CSR]] 报告的发布（Zapp, 2022, pp.146–147, 152–153）
 > - **社会嵌入性（social embeddedness / citizenship）**：大学对多元利益相关者和社会议题保持开放，将社会参与纳入组织身份。在大学语境中集中表现为 [[University Social Responsibility]]——涵盖就业政策（雇员权利、多样性、工作生活平衡）、校园建设（能源、水、交通、废物的可持续管理）、以及将校园改造为"活实验室"（living laboratory）和"可持续发展试验台"（Zapp, 2022, pp.149, 152–153）
@@ -107,7 +107,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - **新自由主[[Rightness|义]]批判视角**：许多批判性研究将大学对上述压力的反应视为在新自由主义公共缩减时代向创业主义和管理主义的绝望转向（Clark, 1998; Deem, 2001; Olssen & Peters, 2005），认为私有化、产业联系、国际招聘和兼职合同等结构改革确实源自新自由主义模板（Zapp, 2022, p.148）
+> - **新自由主义批判视角**：许多批判性研究将大学对上述压力的反应视为在新自由主义公共缩减时代向创业主义和管理主义的绝望转向（Clark, 1998; Deem, 2001; Olssen & Peters, 2005），认为私有化、产业联系、国际招聘和兼职合同等结构改革确实源自新自由主义模板（Zapp, 2022, p.148）
 > - **[[World Society Theory|世界社会理论]]视角的回应**：Zapp 承认上述批判的有效性，但认为更深刻的转型正在发生——大学正从根本上被重新概念化，从公共行政的特定单位转变为具有自我身份和策略的组织行动者（Zapp, 2022, p.148）
 
 ---

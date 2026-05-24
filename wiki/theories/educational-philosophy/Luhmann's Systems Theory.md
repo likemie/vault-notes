@@ -45,15 +45,15 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - 1960–1961 Luhmann 在哈佛大学师从 Talcott Parsons，后发展出与 Parsons 结构功能主[[Rightness|义]]截然不同的系统理论
-> - 1984 *Soziale Systeme*（社会系统）出版，标志其理论成[[Shu (Familiarization)|熟]]
+> - 1960–1961 Luhmann 在哈佛大学师从 Talcott Parsons，后发展出与 Parsons 结构功能主义截然不同的系统理论
+> - 1984 *Soziale Systeme*（社会系统）出版，标志其理论成熟
 > - 1997 *Die Gesellschaft der Gesellschaft* 出版，为晚期系统理论的综合巨著
 > - 2002 遗作 *Das Erziehungssystem der Gesellschaft*（社会的教育系统）出版，将系统理论应用于教育分析
 
 ## 研究范式
 
 > [!info] 研究范式
-> - 认识论立场：建构主[[Rightness|义]]认识论——知识是系统内部的建构，不是对外部现实的直接反映
+> - 认识论立场：建构主义认识论——知识是系统内部的建构，不是对外部现实的直接反映
 > - 理论特征：宏大理论（grand theory），试图以统一概念框架解释一切社会现象
 > - 方法特征：理论推导与概念分析，非经验实证研究
 
@@ -71,7 +71,7 @@ updated: '2026-05-18'
 > [!success] 应用领域
 > - [[Visible Learning]] — Larsen 以 Luhmann 的盲点和系统区分概念论证 VL 范式的根本性限制
 > - 教育治理分析 — 社会系统与心理系统的不可通约性解释了为何教育政策（社会沟通）与课堂实际学习（心理过程）之间总是存在鸿沟
-> - [[Knowledge-Based Economization]] — Moisio (2018) 的概念与系统理论共享对知识密集型资本主[[Rightness|义]]的话语建构与物质实践双重关注，可用于分析经济想象如何通过沟通系统被客观化
+> - [[Knowledge-Based Economization]] — Moisio (2018) 的概念与系统理论共享对知识密集型资本主义的话语建构与物质实践双重关注，可用于分析经济想象如何通过沟通系统被客观化
 
 ## 来源
 

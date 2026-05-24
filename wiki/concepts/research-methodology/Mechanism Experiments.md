@@ -31,7 +31,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 机制实验（Mechanism Experiments）是小规模现场实验，旨在测试一个特定的行为理论或因果机制，而非评估整个项目或干预包的总体效果。与"黑箱 [[Randomised Controlled Trials|RCT]]"不同，机制实验不满足于回答"这个项目有效吗"，而是追问"什么使这个项目有效——通过什么因果路径"。
 >
 > > "Mechanism experiments are small-scale [[Champ|field]] experiments to test a specific behavioural theory." (Peterson, 2016, p. 303, citing Ludwig, Kling, & Mullainathan, 2011)
@@ -101,7 +101,7 @@ updated: '2026-05-18'
 
 ## 争议与批评
 
-> [!warning] 机制定[[Rightness|义]]的根本困难
+> [!warning] 机制定义的根本困难
 > **争议背景**：机制的统一定义在教育和社会科学中尚未达成共识。
 >
 > - **反事实/变量取向**：机制等同于可观测的中介变量——可通过统计方法（如因果中介分析）隔离和估计（Imai, Tingley, & Yamamoto, 2013; Keele, Tingley, & Yamamoto, 2015）

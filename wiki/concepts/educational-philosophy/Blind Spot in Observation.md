@@ -24,7 +24,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 盲点（Blind Spot / blinder Fleck）是 [[Niklas Luhmann]] 社会[[Luhmann's Systems Theory|系统理论]]的核心概念：每一次[[Observational and Correlational Research|观察]]都基于一个盲点——观察者在观察时无法看见自身。看到某物的条件恰恰是建立了看见与看不见之间的区分（Larsen, 2019, p.10）。
 >
 > > "Alle Selbstbeobachtung ist ja bedingt durch einen blinden Fleck. Sie ist nur möglich, weil sie ihr Sehen nicht sehen kann."（Luhmann, 1998, p.81; 引自 Larsen, 2019, p.10）

@@ -32,7 +32,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> My School 网站于 **2008 年**在澳大利亚建立，是澳大利亚公立教育系统中市场问责机制的核心基础设施。其建立与更广泛的"教育革命"议程——包括 NAPLAN 标准化测试的引入和国家课程的推行——同期发生。Eacott（2011）将 My School 的建立视为"国家对教育的管理主[[Rightness|义]]项目几乎完成"的标志之一。
+> My School 网站于 **2008 年**在澳大利亚建立，是澳大利亚公立教育系统中市场问责机制的核心基础设施。其建立与更广泛的"教育革命"议程——包括 NAPLAN 标准化测试的引入和国家课程的推行——同期发生。Eacott（2011）将 My School 的建立视为"国家对教育的管理主义项目几乎完成"的标志之一。
 
 ## 政策文本摘要
 
@@ -88,7 +88,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／理论
 > - [[School Autonomy]] — My School 是市场驱动的学校自主权改革的核心问责工具
 > - [[New Public Management]] — My School 体现了 NPM 的"产出控制"和"管理问责"特征
-> - [[Performativity of Measurement]] — My School 的排名使 NAPLAN 分数从测量工具变为学校身份的定[[Rightness|义]]者
+> - [[Performativity of Measurement]] — My School 的排名使 NAPLAN 分数从测量工具变为学校身份的定义者
 
 ## 来源
 

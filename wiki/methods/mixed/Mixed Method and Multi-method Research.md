@@ -35,13 +35,13 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 混合方法/多方法研究（Mixed Method/Multi-method Research）在 Brady et al. (2023) 的编码中指不操纵自变量、并同时包含量化数据和质性数据的研究。该类别是作者相较 Reinhart et al. (2013) 与 Robinson et al. (2007) 旧分类新增的类别（Brady et al., 2023, p.4）。
 
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> Brady et al. (2023) 将混合方法与[[Qualitative Research|质性研究]]的增长一起解释为教育心理学方法世界观更加多样的可能信号。它可能表示后实证主[[Rightness|义]]之外的研究取向更被接受，或高影响教育心理学期刊对传统方法以外的视角更加开放（Brady et al., 2023, pp.7-8）。
+> Brady et al. (2023) 将混合方法与[[Qualitative Research|质性研究]]的增长一起解释为教育心理学方法世界观更加多样的可能信号。它可能表示后实证主义之外的研究取向更被接受，或高影响教育心理学期刊对传统方法以外的视角更加开放（Brady et al., 2023, pp.7-8）。
 
 ## 操作步骤
 

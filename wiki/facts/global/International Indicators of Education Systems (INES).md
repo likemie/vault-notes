@@ -31,7 +31,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > INES（International Indicators of Education Systems / Project for International Indicators of Education Systems）是 OECD 于 1988 年从 CERI（Centre for Educational Research and Innovation）中独立出来的项目，旨在开发一套严谨的[[International Education|国际教育]]指标体系，供成员国使用。由 [[Norberto Bottani]] 自创立至 1997 年领导了近十年（Gorur, 2014, p.5, 8）。
 >
 > > "to gather, process, improve, and report statistics and indicators on education and related fields"（Bottani, 1996, p.279; Gorur, 2014, p.8）
@@ -60,7 +60,7 @@ updated: '2026-05-18'
 > [!abstract] 面临的挑战
 > - **技术层面**：缺乏优质统计数据，已有数据的可比性弱（Bottani, 1994, p.334; Gorur, 2014, p.8）
 > - **政治层面**：多方反对力量联合抵制：
->   - 教育统计学家以科学理由谴责指标的"不[[Jing (Refined Mastery)|精]]确性"和"对教育的偏见视角"
+>   - 教育统计学家以科学理由谴责指标的"不精确性"和"对教育的偏见视角"
 >   - 教师协会以政治理由质疑"教育质量危机"的存在
 >   - 进步教育运动者以伦理理由反对政府引入基于[[New Public Management|新公共管理]]技术的教育标准（Bottani, 2008, p.16; Gorur, 2014, p.9）
 

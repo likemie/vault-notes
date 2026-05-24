@@ -96,13 +96,13 @@ updated: '2026-05-18'
 >
 > VL 的商业化并不是由出版社直接接手，而是由 [[Cognition Education (NZ)]] 这个起源于 [[Tomorrow's Schools Reforms (NZ 1989)]] 的[[Educational Management Organisation (EMO)|教育管理组织]]接住。Johnson & Janzen 把这一步放回新西兰教育市场化历史中理解：原 Auckland 学校董事会的交通与工资部门先被改制为 Multi Serve，后更名为 Cognition Education，并在营利公司加慈善信托的双层结构下经营教育服务与知识产品。（Johnson & Janzen, 2023, p.30；Bates, 2017, p.11-12, p.69）
 >
-> 这使 VL 一开始就不是单纯的学术传播，而是被嵌入一个已经成[[Shu (Familiarization)|熟]]的教育服务平台。2010 年末奥克兰大学教育学院决定不再继续支持该商业平台后，Cognition 与 Hattie 很快达成合作，把 VL 原理转写成面向教师和[[School Leadership|学校领导]]的模块化 professional learning curriculum。按 Bates 的回顾，Hattie 取得所有 VL 相关收入的版税，而新 division 自 2011 年初启动后增长极快，第一年收入已接近 2M，次年接近 2.7M，且利润率高于此前长期支撑公司的 payroll 业务。（Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30）
+> 这使 VL 一开始就不是单纯的学术传播，而是被嵌入一个已经成熟的教育服务平台。2010 年末奥克兰大学教育学院决定不再继续支持该商业平台后，Cognition 与 Hattie 很快达成合作，把 VL 原理转写成面向教师和[[School Leadership|学校领导]]的模块化 professional learning curriculum。按 Bates 的回顾，Hattie 取得所有 VL 相关收入的版税，而新 division 自 2011 年初启动后增长极快，第一年收入已接近 2M，次年接近 2.7M，且利润率高于此前长期支撑公司的 payroll 业务。（Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30）
 >
 > VL 后来的全球扩散也依赖 Cognition 设计的轻资产授权模式，而不是各国自建重型分公司。最初 Macmillan 在澳大利亚负责销售与活动，Cognition 提供课程与人员；随后 James Nottingham Associates、Osiris 和 Corwin 等机构按地区取得授权，帮助 VL 快速进入多个市场，同时避免在各国设立 Cognition 实体所需的资本、合规与品牌培育成本。（Bates, 2017, p.60；O'Neill et al., 2016, p.67）
 >
 > #### 2009 年媒体风暴与公众反应
 >
-> 2009 年 1 月 *Sunday Star Times* 头版报道 VL 后引发激烈反应。Hattie (2010, pp.86–87) 自述"很明显许多评论者并未读过这本书（有人甚至对此表示赞许"）——[[Class Size|班级规模]]必须缩减、[[Performance Pay|绩效工资]]是邪恶的、能力分班更容易等抗议声不断。Hattie 将此定性为媒体将他的"[[Jing (Refined Mastery)|精]]心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架（二分法、嘲弄、神话、意[[Rightness|义]]虚无）分析批评模式。
+> 2009 年 1 月 *Sunday Star Times* 头版报道 VL 后引发激烈反应。Hattie (2010, pp.86–87) 自述"很明显许多评论者并未读过这本书（有人甚至对此表示赞许"）——[[Class Size|班级规模]]必须缩减、[[Performance Pay|绩效工资]]是邪恶的、能力分班更容易等抗议声不断。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架（二分法、嘲弄、神话、意义虚无）分析批评模式。
 >
 > Hattie 强调他在此前 15 年已通过研讨会和工作坊传播 VL 核心理念（[[Feedback|反馈]]的力量、挑战、对学生的可见影响等），Clarke, Timperley & Hattie (2003) 的教师工作手册已包含学习意图、成功标准、反馈和及时评估等关键概念，"因此当《星期日星报》报道时，对新西兰教育界许多人来说不应是新闻"（Hattie, 2010, p.87）。这一媒体风暴标志着 VL 从学术出版向公众议题的转折，也奠定了其后续品牌化传播的争议基调。
 >
@@ -280,9 +280,9 @@ updated: '2026-05-18'
 >
 > O'Neill (2012) 以新西兰 Treasury 2011 年简报为案例，揭示了 VL 证据在真实政策过程中被误用的具体机制（详见 [[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]）：
 >
-> **（1）"教学质量"术语的定[[Rightness|义]]断裂。** Hattie VL 中"教学质量"（quality of teaching，排名 56/138）的[[Meta-analysis|元分析]]证据全部来自大学生评教——按此定义对学校教育政策无任何可证明的相关性。Treasury 将此术语用作代理概念（proxy concept），包装教师绩效管理等更具争议的政策目的（ONeill, 2012, pp.154-155）。
+> **（1）"教学质量"术语的定义断裂。** Hattie VL 中"教学质量"（quality of teaching，排名 56/138）的[[Meta-analysis|元分析]]证据全部来自大学生评教——按此定义对学校教育政策无任何可证明的相关性。Treasury 将此术语用作代理概念（proxy concept），包装教师绩效管理等更具争议的政策目的（ONeill, 2012, pp.154-155）。
 >
-> **（2）术语口号化。** "优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, Hattie, 2009a）在新西兰学术和政策话语中日益被当作口号使用——引发"基于词汇[[Shu (Familiarization)|熟]]悉度而非理性的膝跳反射式赞同或反对"（Kreeft, 2010, p.78）（ONeill, 2012, pp.154-155）。
+> **（2）术语口号化。** "优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, Hattie, 2009a）在新西兰学术和政策话语中日益被当作口号使用——引发"基于词汇熟悉度而非理性的膝跳反射式赞同或反对"（Kreeft, 2010, p.78）（ONeill, 2012, pp.154-155）。
 >
 > **（3）Hattie 本人警示被系统性忽略。** Treasury 忽略了 Hattie 的多处关键警示：相关不等于因果（p.3）、成功效应多来自创新而非日常课堂（p.6）、该书"不涉及课堂生活"（p.viii）、非元分析研究可提供更丰富细致的证据（p.255）。更严重的是，Treasury 建议增加生师比直接与 Hattie 本人结论矛盾——"[[Effect Size|效应量]]的正向符号表明增加[[Class Size|班级规模]]是糟糕的政策"（Hattie, 2009a, p.88）（ONeill, 2012, pp.156-157）。
 >
@@ -361,7 +361,7 @@ updated: '2026-05-18'
 > - [[Performativity of Measurement]] — VL 商业产品中的测量施行性
 > - [[Cult of the Guru]] — 大师地位对商业品牌的加持
 > - [[Policy Entrepreneur]] — [[John Hattie|Hattie]] 作为政策创业者的角色
-> - [[Neo-Taylorism in Educational Administration]] — VL 作为"新时代的泰勒主[[Rightness|义]]"
+> - [[Neo-Taylorism in Educational Administration]] — VL 作为"新时代的泰勒主义"
 > - [[New Zealand National Standards (2009)]] — Hattie 参与技术顾问的新西兰国家教育标准
 > - [[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]] — NZ Treasury 援引 VL 证据建议增加生师比
 > - [[Danish Public School Reform 2014]] — 丹麦改革明确引用 VL

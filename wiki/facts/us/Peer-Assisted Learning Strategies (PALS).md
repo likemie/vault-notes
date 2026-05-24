@@ -45,7 +45,7 @@ updated: '2026-05-18'
 
 ## 案例意义
 
-> [!success] 案例意[[Rightness|义]]
+> [!success] 案例意义
 > PALS 案例显示，评级差异不仅来自清算中心证据门槛，也来自项目组件和结果域的切分方式。Blueprints 和 [[National Dropout Prevention Center (NDPC)|NDPC]] 概括阅读与数学结果，[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)|CMFR]] 将 PALS Math 与 PALS Reading 分开，[[Best Evidence Encyclopedia (BEE)|BEE]] 分别审查不[[Tongxue|同学]]段的数学版本，[[What Works Clearinghouse (WWC)|WWC]] 则按五个主题领域审查；这些切分方式会让消费者看到不同的项目有效性图像（Wadhwa et al., 2024, p.24）。
 
 ## 相关概念／政策

@@ -51,7 +51,7 @@ updated: '2026-05-18'
 
 ## 分析意义
 
-> [!success] 分析意[[Rightness|义]]
+> [!success] 分析意义
 > Manaiakalani 是新西兰[[Network Governance|网络治理]]的典型案例：从教育部资助的学校集群项目起步，通过成立慈善信托引入慈善和私营部门资金，最终借助 NEXT Foundation 等[[Venture Philanthropy|风险慈善]]实现全国规模化。O'Neill 等将其列为新西兰近十余年现代化和私有化的九个实例之一（O'Neill et al., 2016, pp.9）。
 
 ## 来源

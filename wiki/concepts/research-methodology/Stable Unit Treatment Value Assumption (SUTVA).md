@@ -28,7 +28,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 稳定单位处理价值假设（Stable Unit Treatment Value Assumption, SUTVA）是[[Potential Outcomes Framework|潜在结果框架]]下因果推断的一个核心假定：每个研究主体的潜在结果仅取决于该主体自身接受的处理，不受其他主体接受何种处理的影响。当 SUTVA 被违反时，即出现**主体间干扰**（subject interference），因果效应不再被唯一地定义——每个可能的研究单位分配方式都可能产生不同的因果效应（Berk, 2011, pp.194–195）。
 >
 > > "Because the outcome for any one student depends on the students with whom he or she interacts, and because that depends on which students are assigned to which interventions, causal effects are defined not just by the interventions, but by which students happen to be assigned where." (Berk, 2011, p.195)
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 >
 > - 因果效应部分由随机分配的结果决定——哪些学生恰好被分配到哪里
 > - 研究者无法报告单一的处理效应估计，因为效应本身取决于特定的随机分配实现
-> - 这不仅仅是统计检验和[[Confidence Interval|置信区间]]的问题（对此存在有效补救方法）；问题更为根本——因果效应本身的定[[Rightness|义]]取决于单位之间的分配模式
+> - 这不仅仅是统计检验和[[Confidence Interval|置信区间]]的问题（对此存在有效补救方法）；问题更为根本——因果效应本身的定义取决于单位之间的分配模式
 
 
 > [!abstract] 目前没有有效的统计补救方法
@@ -57,13 +57,13 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs [[Cluster Randomized Trials]] — SUTVA 是 CRT 设计中的一个核心威胁；CRT 设计正是因干预需要在集群层面实施而产生，但由此引入的 SUTVA 违反常被研究者忽视
-> - vs [[Potential Outcomes Framework]] — SUTVA 是该框架下因果效应能够被唯一定[[Rightness|义]]的前提条件之一
+> - vs [[Potential Outcomes Framework]] — SUTVA 是该框架下因果效应能够被唯一定义的前提条件之一
 > - vs [[Randomised Controlled Trials]] — 个体随机分配的 RCT 同样需要满足 SUTVA，但在集群随机化中 SUTVA 违反更为系统性和难以避免
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Berk (2011, p.195) 指出，SUTVA 违反虽然被认为"只是"统计检验和[[Confidence Interval|置信区间]]的问题（对此存在有效补救），但"问题远为严重"——它从本体论层面动摇了因果效应的可定[[Rightness|义]]性。然而，部分研究者可能认为这一区分过于学术化，对实践政策的直接影响有限
+> - Berk (2011, p.195) 指出，SUTVA 违反虽然被认为"只是"统计检验和[[Confidence Interval|置信区间]]的问题（对此存在有效补救），但"问题远为严重"——它从本体论层面动摇了因果效应的可定义性。然而，部分研究者可能认为这一区分过于学术化，对实践政策的直接影响有限
 
 ## 相关案例／政策
 

@@ -34,7 +34,7 @@ updated: '2026-05-19'
 >
 > 1. **知识政治**：Gunter（2012）在对 1997–2010 年英国新工党教育政策的研究中，提出批判性问题："政治家使用什么类型的知识？""谁被视为知者（knowers），为什么？"（Møller, 2017, p.379）
 >
-> 2. **成功学校的竞争性定[[Rightness|义]]**：Gunter（2001）指出教育领导力是一个政治议题，在此[[Champ|场域]]中关于"成功学校"的竞争性版本正在展开争夺（Møller, 2017, p.379）
+> 2. **成功学校的竞争性定义**：Gunter（2001）指出教育领导力是一个政治议题，在此[[Champ|场域]]中关于"成功学校"的竞争性版本正在展开争夺（Møller, 2017, p.379）
 >
 > 3. **教育领域作为多元场域**：Gunter（2016）强调教育领导力领域是多元人群和利益的集合体，社会科学学科知识应当被视为"资源机会"（resource opportunity）而非一套固定的方法论和基础性主张（Møller, 2017, p.382）
 >
@@ -49,14 +49,14 @@ updated: '2026-05-19'
 > [!success] 主要贡献
 > - **批判性教育政策视角** — 被 Møller（2017, p.381）列为与 Shields 的[[Transformative Leadership|变革型领导力]]并列的关键分析透镜
 > - **教育领导力的智识史** — *An Intellectual History of [[School Leadership]] Practice and Research*（2016）追溯该领域的知识形成过程
-> - **知识政治与反智识文化批判** — Gunter（2012, 2013）揭示教育领导力领域的[[Knowledge Production|知识生产]]如何被管理主[[Rightness|义]]塑造，智识工作如何被系统性地边缘化（Eacott, 2015, p.323）
+> - **知识政治与反智识文化批判** — Gunter（2012, 2013）揭示教育领导力领域的[[Knowledge Production|知识生产]]如何被管理主义塑造，智识工作如何被系统性地边缘化（Eacott, 2015, p.323）
 > - **LE@DS 研究网络** — 研究民主学校领导力在 NPM 环境下的命运
 > - **[[Pierre Bourdieu|Bourdieu]] 在教育行政中的应用** — Gunter（2002）是早期将 Bourdieu 社会理论应用于教育行政领域的学者之一（Eacott, 2015, p.313）
 
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Gunter, H. (1997). *Rethinking Education: The Consequences of Jurassic Management*. London: Cassell. — 早期对管理主[[Rightness|义]]在教育中影响的批判
+> - Gunter, H. (1997). *Rethinking Education: The Consequences of Jurassic Management*. London: Cassell. — 早期对管理主义在教育中影响的批判
 > - Gunter, H. (2001). *Leaders and Leadership in Education*. London: Paul Chapman. — 教育领导力的批判性基础分析
 > - Gunter, H. (2002). Purposes and positions in the [[Champ|field]] of education management: Putting [[Pierre Bourdieu|Bourdieu]] to work. *Educational Management & Administration*, 30, 7–26. — 运用 Bourdieu 框架分析教育管理领域的知识政治
 > - Gunter, H. (2010). A sociological approach to educational leadership. *British Journal of Sociology of Education*, 31, 519–527. — 系统阐述教育领导力的社会学进路

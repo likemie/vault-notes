@@ -43,7 +43,7 @@ updated: '2026-05-23'
 
 > [!info] [[Constructive Alignment|建构性对齐]]（Constructive Alignment）
 > Biggs (1996, 2003) 提出的课程设计原则，包含两个前提（[[John Hattie|Hattie]], 2015, p.87）：
-> 1. **建构性前提**：学生通过他们所做的学习活动来建构意[[Rightness|义]]（students construct meaning from what they do to learn）
+> 1. **建构性前提**：学生通过他们所做的学习活动来建构意义（students construct meaning from what they do to learn）
 > 2. **对齐前提**：教师将计划的学习活动与预期的学习结果对齐（the teacher aligns the planned learning activities with the learning outcomes）
 >
 > 任何课程的设计须确保学习活动和评估任务与课程预期的学习结果对齐。学生不应被期望自己"摸索出"要学什么以及成功意味着什么——必须在任何教学或评估之前明确说明成功标准。没有这种对齐，[[Feedback|反馈]]、评估报告和自我调节学习的强大效果就不太可能发生（Hattie, 2015, p.87）。
@@ -60,7 +60,7 @@ updated: '2026-05-23'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 属于 1990 年代[[Radical Constructivism|激进建构主义]]运动的一部分，与 von Glasersfeld 和 Bjørgen 共享建构主[[Rightness|义]]认识论前提（Rømer, 2018, p.7）
+> - 属于 1990 年代[[Radical Constructivism|激进建构主义]]运动的一部分，与 von Glasersfeld 和 Bjørgen 共享建构主义认识论前提（Rømer, 2018, p.7）
 > - [[Constructive Alignment|建构性对齐]]被纳入 [[John Hattie|Hattie]] 的 VL 评价体系
 > - Qvortrup (2015) 将 Biggs & Collis 的 SOLO 模型列为 Hattie 解释表层、深层与概念性学习时调用的框架之一，但指出 SOLO、Bloom 修订版和 Popper/Bereiter 三世界框架之间的对应关系并不清楚；这一问题推动了[[Dynamic Knowledge and Learning Model]]的提出（Qvortrup, 2015, p.30）
 

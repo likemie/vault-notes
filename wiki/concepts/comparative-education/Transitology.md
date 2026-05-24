@@ -27,7 +27,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Transitology（转型学）是 [[Robert Cowen]] (1996, 2000) 提出的比较教育核心概念，描述教育在宏观社会转型中所扮演的象征性和重构性角色。
 >
 > > "[…] the more or less simultaneous collapse and reconstruction of (a) state apparatuses; (b) social and economic stratification systems; and (c) political visions of the future; in which (d) education is given a major symbolic and reconstructionist role in these social processes of destroying the past and redefining the future."（Cowen, 2000, p.338）
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 > [!abstract] 核心要素
 > - **同时性崩溃与重构**：国家机器、社会分层体系与政治愿景三重转型同时发生（Amos, 2022, p.53）
-> - **教育的象征性角色**：教育不仅是转型的受影响者，更是"摧毁过去、重新定[[Rightness|义]]未来"的核心机制（Cowen, 2000, p.338）
+> - **教育的象征性角色**：教育不仅是转型的受影响者，更是"摧毁过去、重新定义未来"的核心机制（Cowen, 2000, p.338）
 > - **国家中心到市场中心的转向**：从 polis-driven 到 market-driven，是现代教育到晚期现代教育的结构性转变标志（Amos, 2022, p.55）
 > - **过去-现在-未来的交织**：Cowen [[Observational and Correlational Research|观察]]到过去、现在和未来比严格线性更为交织。Amos 以 Günther Grass 的文学原则 VerGegenKunft（Vergangenheit/Gegenwart/Zukunft 的合成词）来说明这种纠缠（Amos, 2022, p.56）
 >

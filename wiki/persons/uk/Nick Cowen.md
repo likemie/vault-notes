@@ -36,7 +36,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Nick Cowen 是英国政治科学家，任职于林肯大学（University of Lincoln）社会与政治科学学院，亦为纽约大学法学院古典自由主[[Rightness|义]]研究所（Classical Liberal Institute, NYU School of Law）研究员。他将公共选择理论（特别是 Tullock 的官僚制模型）应用于教育政策分析，为[[Evidence-Based Education|证据本位教育]]（EBE）的批判提供了**制度逻辑**层面的解释。此外，Cowen 与科学哲学家 [[Nancy Cartwright]] 合作，从政策实施角度研究了 EBE 证据在课堂层面应用的实践挑战。
+> Nick Cowen 是英国政治科学家，任职于林肯大学（University of Lincoln）社会与政治科学学院，亦为纽约大学法学院古典自由主义研究所（Classical Liberal Institute, NYU School of Law）研究员。他将公共选择理论（特别是 Tullock 的官僚制模型）应用于教育政策分析，为[[Evidence-Based Education|证据本位教育]]（EBE）的批判提供了**制度逻辑**层面的解释。此外，Cowen 与科学哲学家 [[Nancy Cartwright]] 合作，从政策实施角度研究了 EBE 证据在课堂层面应用的实践挑战。
 
 ## 核心思想
 
@@ -47,7 +47,7 @@ updated: '2026-05-19'
 > Cowen (2019) 论证 EBE（[[Randomised Controlled Trials|RCT]] + 系统综述）的吸引力不在于认识论优越性，而在于它为决策者提供了一种**便于信息过滤与问责**的工具——即使其研究结果对一线教师的实际价值有限。
 >
 > **维度二：EBE 的实施困境（实证研究）**
-> Cowen et al. (2015) 通过对 22 位英国教师的[[Jing (Refined Mastery)|精]]英访谈，揭示了 EBE 从"什么有效"到"在这里有效"之间的知识鸿沟。关键发现包括：
+> Cowen et al. (2015) 通过对 22 位英国教师的精英访谈，揭示了 EBE 从"什么有效"到"在这里有效"之间的知识鸿沟。关键发现包括：
 >
 > 1. **证据实施的"流动性"**：学校不是"开箱即用"地应用证据本位方案。证据与已有知识、实践和价值观以不可预测的方式互动——既可用于克服制度惯性，也可用于创造性偏离。（Cowen et al., 2015, p.40-41）
 >

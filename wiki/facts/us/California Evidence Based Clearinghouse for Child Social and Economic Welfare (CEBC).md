@@ -64,7 +64,7 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — CEBC 是 12 个被比较的教育清算中心之一，也是四个详细比较对象之一（Wadhwa et al., 2024, pp.7, 13）。
-> - [[Evidence-Based Education]] — CEBC 展示了"evidence-based"可被严格定[[Rightness|义]]为两项高质量 [[Randomised Controlled Trials|RCT]]、非重叠样本和持续效果的组合（Wadhwa et al., 2024, pp.13–14）。
+> - [[Evidence-Based Education]] — CEBC 展示了"evidence-based"可被严格定义为两项高质量 [[Randomised Controlled Trials|RCT]]、非重叠样本和持续效果的组合（Wadhwa et al., 2024, pp.13–14）。
 > - [[Randomised Controlled Trials]] — CEBC 最高等级要求至少两项高质量 RCT，且样本不重叠；其中一项须显示至少 12 个月持续效果（Wadhwa et al., 2024, pp.13–14）。
 
 ## 来源

@@ -28,7 +28,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 探究螺旋（Spirals of Inquiry）是由 Timperley, Halbert, & Kaser (2014) 开发的教师探究循环模型，已在多个情境中实施。该模型的核心主张是：教师通过参与系统性探究循环——扫描学生的教育体验→发展探究焦点→形成关于教师行动如何改变模式的假设→查阅已发表证据→采取行动→检查效果——将外部研究证据与本地证据生成过程整合（Peterson, 2016, p. 306）。
 >
 > > "This approach involves teachers engaging in cycles of scanning to understand how students are experiencing their education; developing a focus for their inquiry and a 'hunch' about which of their actions could change the patterns they are seeing; looking at published evidence to inform their practice; taking action; and finally checking to see if the action is having the desired effect." (Peterson, 2016, p. 306, summarizing Halbert & Kaser, 2014)

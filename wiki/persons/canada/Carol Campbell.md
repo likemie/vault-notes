@@ -48,7 +48,7 @@ updated: '2026-05-21'
 > [!success] 主要贡献
 > - **安大略系统改革路径** — 把教育领导力、组织支持和证据使用放进同一框架，而不把研究使用看成教师个人习惯问题。
 > - **KNAER 案例研究** — 提供系统层面 [[Knowledge Mobilisation]] 的案例，说明研究-实践合作如何作为制度化机制运行（Nelson & [[Campbell Collaboration|Campbell]], 2017, pp.130–131）。
-> - **[[Evidence-Informed Practice|EIP]] 特刊整合工作** — 与 [[Julie Nelson]] 共同把 [[Evidence-Informed Practice]] 从术语争论推进成一个包含定[[Rightness|义]]、应用与测量的清晰问题域。
+> - **[[Evidence-Informed Practice|EIP]] 特刊整合工作** — 与 [[Julie Nelson]] 共同把 [[Evidence-Informed Practice]] 从术语争论推进成一个包含定义、应用与测量的清晰问题域。
 
 ## 影响
 
@@ -59,7 +59,7 @@ updated: '2026-05-21'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Nelson, J., & [[Campbell Collaboration|Campbell]], C. (2017). *Evidence-informed practice in education_ meanings and applications*. Educational Research, 59(2), 127–135. — 系统整合 [[Evidence-Informed Practice|EIP]] 的定[[Rightness|义]]、应用和测量问题。
+> - Nelson, J., & [[Campbell Collaboration|Campbell]], C. (2017). *Evidence-informed practice in education_ meanings and applications*. Educational Research, 59(2), 127–135. — 系统整合 [[Evidence-Informed Practice|EIP]] 的定义、应用和测量问题。
 > - Campbell, C. (2016). *Supporting teachers as a profession of knowledge developers and mobilisers*. Education Today, 66(2), 5–20. — 强调教师专业不只是使用知识，也要发展与动员知识。
 > - Campbell, C. (2014). *Q&A with Carol Campbell*. Lead the Change, Series 41. AERA Educational Change SIG. — 展示安大略系统改革中的研究与评估战略。
 

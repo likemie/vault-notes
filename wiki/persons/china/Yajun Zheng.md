@@ -52,7 +52,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info]
-> 郑雅君，中国高等教育研究者，研究方向为高等教育社会学、教育公平与大学生发展。毕业于复旦大学高等教育研究所，师从熊庆年教授。其主要学术贡献在于对中国[[Jing (Refined Mastery)|精]]英大学中大学生毕业出路分化的阶层机制进行了系统的[[Qualitative Research|质性研究]]，原创性地提出了"[[Goal-Controlled Mode|目标掌控模式]]"与"[[Intuition-Dependent Mode|直觉依赖模式]]"两种大学生活组织图式的类型学框架（郑雅君，2023）。
+> 郑雅君，中国高等教育研究者，研究方向为高等教育社会学、教育公平与大学生发展。毕业于复旦大学高等教育研究所，师从熊庆年教授。其主要学术贡献在于对中国精英大学中大学生毕业出路分化的阶层机制进行了系统的[[Qualitative Research|质性研究]]，原创性地提出了"[[Goal-Controlled Mode|目标掌控模式]]"与"[[Intuition-Dependent Mode|直觉依赖模式]]"两种大学生活组织图式的类型学框架（郑雅君，2023）。
 
 ---
 
@@ -71,7 +71,7 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract]
-> - 郑雅君（2023），《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 [[Pierre Bourdieu|Bourdieu]] 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier in Higher Education|文化障碍]]如何在[[Jing (Refined Mastery)|精]]英大学中制造毕业出路的阶层分化。
+> - 郑雅君（2023），《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 [[Pierre Bourdieu|Bourdieu]] 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier in Higher Education|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
 
 ---
 
@@ -87,7 +87,7 @@ updated: '2026-05-19'
 
 - **资本化过程**（最外层结构性约束）：家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑（郑雅君，2023）
 - **投入过程**（中层行动策略）：学生在[[Academic Engagement|学业投入]]（[[Academic Engagement]]）和[[Social Engagement|社会性投入]]（[[Social Engagement]]）两个维度上如何组织大学生活，分别对应两种模式的不同策略取向
-- **价值选择过程**（最内层意[[Rightness|义]]建构）：学生在 三种工作意义图式（地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达）之间的选择与整合，决定其毕业出路的最终方向（郑雅君，2023）
+- **价值选择过程**（最内层意义建构）：学生在 三种工作意义图式（地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达）之间的选择与整合，决定其毕业出路的最终方向（郑雅君，2023）
 
 ### 核心发现
 
@@ -116,7 +116,7 @@ updated: '2026-05-19'
 ### 2017–2018 补充田野与理论深化
 
 - **核心调整**：补充低阶层样本，深化理论对话
-- **思想发展**：受牛新春老师之邀，在"南方大学"补充访谈 24 名主要来自较低阶层背景的学生，使总样本达 62 人。此阶段的理论对话扩展至 Swidler [[Culture as Toolkit|文化工具箱]]和 [[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]——Bourdieu 的再生产理论解释了结构性约束，Swidler 和 Vaisey 则帮助理解了行动者在约束中的策略和意[[Rightness|义]]建构差异（郑雅君，2023）。
+- **思想发展**：受牛新春老师之邀，在"南方大学"补充访谈 24 名主要来自较低阶层背景的学生，使总样本达 62 人。此阶段的理论对话扩展至 Swidler [[Culture as Toolkit|文化工具箱]]和 [[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]——Bourdieu 的再生产理论解释了结构性约束，Swidler 和 Vaisey 则帮助理解了行动者在约束中的策略和意义建构差异（郑雅君，2023）。
 - **相关概念**：[[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]]、[[Cultural Barrier in Higher Education]]
 
 ### 2023 出版与传播
@@ -130,7 +130,7 @@ updated: '2026-05-19'
 
 > [!success]
 > - 在中国高等教育公平研究中，双模式类型学为分析大学生活经验的阶层差异提供了可操作的概念工具
-> - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释[[Jing (Refined Mastery)|精]]英大学中[[Cultural Capital|文化资本]]如何通过日常实践转化为出路分化
+> - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释精英大学中[[Cultural Capital|文化资本]]如何通过日常实践转化为出路分化
 > - [[Cultural Barrier in Higher Education]] 概念将 [[Pierre Bourdieu|Bourdieu]] 的文化再生产理论从宏观制度层面延伸到微观的日常生活经验层面，丰富了对教育公平机制的理解
 > - 以[[Constructivist Grounded Theory]]在大规模访谈数据中的系统应用，为高等教育[[Qualitative Research|质性研究]]提供了方法论参照
 

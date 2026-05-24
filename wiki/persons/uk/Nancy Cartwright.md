@@ -28,7 +28,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Nancy Cartwright，科学哲学家，杜伦大学哲学系教授（Durham University）和加州大学[[Sage|圣]]地亚哥分校（UC San Diego）荣休教授。她是 CHESS（Centre for Humanities Engaging Science and Society）的核心成员，专注于因果推断、证据本位政策和科学哲学的实践应用。Cartwright 将科学哲学的分析工具应用于证据本位政策领域，特别是教育和社会政策，与 [[Nick Cowen]] 等人合作发表了一系列工作论文和专著。
+> Nancy Cartwright，科学哲学家，杜伦大学哲学系教授（Durham University）和加州大学圣地亚哥分校（UC San Diego）荣休教授。她是 CHESS（Centre for Humanities Engaging Science and Society）的核心成员，专注于因果推断、证据本位政策和科学哲学的实践应用。Cartwright 将科学哲学的分析工具应用于证据本位政策领域，特别是教育和社会政策，与 [[Nick Cowen]] 等人合作发表了一系列工作论文和专著。
 >
 > > 例：Cartwright 的分析不是抽象的哲学讨论，而是直接针对 [[Randomised Controlled Trials|RCT]] 证据如何从研究情境推论到特定学校课堂这一实践问题（Cowen et al., 2015）
 
@@ -57,7 +57,7 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 受 Dewey 实用主[[Rightness|义]]认识论影响，强调知识是"关于过去行动与后果关系的记录，提供可能性而非确定性"
+> - 受 Dewey 实用主义认识论影响，强调知识是"关于过去行动与后果关系的记录，提供可能性而非确定性"
 > - 与 [[Nick Cowen]] 合作，将科学[[Philosophical Analysis in Education|哲学分析]]应用于教育政策的政治经济学分析
 > - 影响了英国 What Works Network 的证据呈现和实施指导方向
 > - 在教育领域，她的工作为批判纯 [[Randomised Controlled Trials|RCT]] 中心的证据观提供了哲学基础，补充了 [[Gert Biesta]] 从教育哲学角度的批判

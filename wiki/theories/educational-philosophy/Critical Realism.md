@@ -59,7 +59,7 @@ updated: '2026-05-18'
 > 社会结构拥有不是个体行动简单聚合的涌现权力。Bhaskar 的经典表述："军队不只是士兵的复数"（p. 34）——它依赖于结构和目的。虽然个体活动是维持和再生产社会结构所必需的，但社会和文化中固有的结构先于我们作为个体而存在："社会结构……总是已经被制造出来的"（p. 42）（Wrigley & McCusker, 2019, p. 113）。
 
 
-> [!abstract] 对经验主[[Rightness|义]]的批判（Bhaskar, 1978）
+> [!abstract] 对经验主义的批判（Bhaskar, 1978）
 > 批判实在论的核心批判对象是经验主义——即将经验观察到的规则性视为充分的因果解释。Bhaskar 论证：测量规则性对科学来说是不充分的；关注表面特征之外的深层因果机制才是科学探究的本质。
 >
 > > "Measuring regularities is insufficient for science; attentive observation is an essential part of the process of looking beyond surface features." (Wrigley & McCusker, 2019, p. 117)
@@ -77,7 +77,7 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究范式
-> - **认识论立场**：反经验主[[Rightness|义]]、反实证主义。知识不是对世界的透明再现——[[Observational and Correlational Research|观察]]总是在概念框架内进行，且深层因果机制可能不直接可观察。
+> - **认识论立场**：反经验主义、反实证主义。知识不是对世界的透明再现——[[Observational and Correlational Research|观察]]总是在概念框架内进行，且深层因果机制可能不直接可观察。
 > - **常用方法**：强调因果机制的解释（而非仅规则性测量）、质性观察和理论建构的作用。与 Pawson 的实在论综合（realist synthesis）兼容——研究综述应基于因果理论而非统计平均。
 
 ## 争议与批评

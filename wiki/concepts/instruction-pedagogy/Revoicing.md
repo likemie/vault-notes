@@ -30,7 +30,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> Revoicing 是 O'Connor 和 Michaels（1993）提出的课堂话语策略，指教师将学生原始的、相对粗糙的表述**重铸**（revoice）为更标准、更认知成[[Shu (Familiarization)|熟]]的表述，同时保留学生的原意并明确其"作者权"（authorship/ownership）。这一策略根植于两个社会语言学理论：Goodwin（1990）关于课堂话语中说话权与责任的框架，以及 Goffman（1981）关于"animator"（话语发出者）与"author"（观点来源者）的区分（Li, 2012, pp.92-94）。
+> Revoicing 是 O'Connor 和 Michaels（1993）提出的课堂话语策略，指教师将学生原始的、相对粗糙的表述**重铸**（revoice）为更标准、更认知成熟的表述，同时保留学生的原意并明确其"作者权"（authorship/ownership）。这一策略根植于两个社会语言学理论：Goodwin（1990）关于课堂话语中说话权与责任的框架，以及 Goffman（1981）关于"animator"（话语发出者）与"author"（观点来源者）的区分（Li, 2012, pp.92-94）。
 
 > [!quote]
 > "The teacher deliberately placed two students in opposition and primed them to evaluate the merits of their own and each other's proposals. The teacher effectively led the students to the very notion that they were the authors/owners of their ideas."

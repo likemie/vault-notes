@@ -32,13 +32,13 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 非[[Intervention Research|干预研究]]（Non-intervention Research）是不操纵自变量的研究集合。Brady et al. (2023) 的分类中，[[Observational and Correlational Research|观察/相关研究]]、[[Qualitative Research|质性研究]]、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]都属于非干预研究；它们共同区别于操纵自变量的干预研究和实验研究（Brady et al., 2023, p.4）。
 
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> 非[[Intervention Research|干预研究]]适合在研究早期理解情境、描述现象、识别变量关系或生成干预假设。Brady et al. (2023) 承认不同方法植根于不同认识论视角，因此目标和含[[Rightness|义]]不同；问题不在于方法多元本身，而在于非干预研究的发现是否被越界解释为实践处方（Brady et al., 2023, p.2）。
+> 非[[Intervention Research|干预研究]]适合在研究早期理解情境、描述现象、识别变量关系或生成干预假设。Brady et al. (2023) 承认不同方法植根于不同认识论视角，因此目标和含义不同；问题不在于方法多元本身，而在于非干预研究的发现是否被越界解释为实践处方（Brady et al., 2023, p.2）。
 
 ## 操作步骤
 

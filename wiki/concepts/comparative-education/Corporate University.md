@@ -73,7 +73,7 @@ updated: '2026-05-18'
 > [!note]
 > - **美国起源（1990s）**：第一所企业大学由美国通用汽车（General Motors）建立，随后被 Motorola、Apple、Deloitte、IBM、GE 等美国公司迅速采纳——在美国，概念从培训部门升级为"大学"被视为自然的市场化创新（Hartmann, 2022, p.189）
 > - **欧洲扩散与争议（1990s–2000s）**：德国 Lufthansa 率先引入，Volkswagen、Daimler-Benz、Siemens、Deutsche Bank、Bayer 跟进；法国（AXA、Alcatel-Lucent、Orange 等）和西班牙（Gas Natural Fenosa、Santander、Telefónica 等）相继建立——但欧洲对此概念比美国更存争议，部分学者质疑其仅仅是营销包装（Hartmann, 2022, pp.185, 189）
-> - **概念分化与制度化（2000s–）**：Rademakers（2014）提出学校/学院/学院型三类模型，使概念从单一标签分化为有分析力的类型学。跨国同行评审网络（GlobalCCU, EFMD CLIP）的出现标志着 CU 从企业个体实践走向制度化[[Champ|场域]]——企业大学之间开始互相评审和认证，构成 DiMaggio & Powell 意[[Rightness|义]]上的组织场域（Hartmann, 2022, pp.186, 189–190）
+> - **概念分化与制度化（2000s–）**：Rademakers（2014）提出学校/学院/学院型三类模型，使概念从单一标签分化为有分析力的类型学。跨国同行评审网络（GlobalCCU, EFMD CLIP）的出现标志着 CU 从企业个体实践走向制度化[[Champ|场域]]——企业大学之间开始互相评审和认证，构成 DiMaggio & Powell 意义上的组织场域（Hartmann, 2022, pp.186, 189–190）
 
 ---
 

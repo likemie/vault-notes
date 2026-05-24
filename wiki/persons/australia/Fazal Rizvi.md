@@ -47,7 +47,7 @@ updated: '2026-05-19'
 > [!note-] 2022 — "Rise of Asia, Geopolitical Shifts and Higher Education"
 > - APA：Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 89–103). Springer.
 > - 核心内容：论证过去三十年间高等教育深刻转型的既有解释（[[Knowledge Capitalism|知识资本主义]]、工作性质转变、全球化、技术创新）普遍遗漏了一个关键因素——亚洲的崛起及其引发的地缘政治转移。亚洲崛起不仅通过国际化政策影响了高等教育系统的构成方式，更通过知识的生产、传播和利用方式深刻改变了全球高等教育的格局（Rizvi, 2022, pp.89–90）。
-> - 思想位置：代表 Rizvi 将[[Critical Geopolitics|批判地缘政治学]]系统性地应用于[[Internationalization of Higher Education|高等教育国际化]]分析的成[[Shu (Familiarization)|熟]]阶段。
+> - 思想位置：代表 Rizvi 将[[Critical Geopolitics|批判地缘政治学]]系统性地应用于[[Internationalization of Higher Education|高等教育国际化]]分析的成熟阶段。
 > - 相关概念／理论：[[Critical Geopolitics]]、[[Internationalization of Higher Education]]、[[Transnational Research Collaboration in Higher Education]]
 >
 
@@ -59,7 +59,7 @@ updated: '2026-05-19'
 > Rizvi 的策略是"补充"而非"替代"：他写道"along with these factors, the economic and political rise of Asia has also played a highly consequential role"（Rizvi, 2022, p.90）。这一策略避免了在单一因果与多元解释之间做出非此即彼的选择。
 
 
-> [!info] 国际化理性的双重结构：发展主[[Rightness|义]] vs 市场理性
+> [!info] 国际化理性的双重结构：发展主义 vs 市场理性
 > Rizvi 识别了驱动[[Internationalization of Higher Education|高等教育国际化]]的两种根本不同的理性（详见 高等教育国际化 > 概念演变）：
 >
 > - **发展主义理性**（旧范式）：国际化被理解为现代化援助、能力建设和国际理解的工具——西方大学招收国际学生被视为帮助发展中国家培养人才

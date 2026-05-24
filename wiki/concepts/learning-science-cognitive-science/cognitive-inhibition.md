@@ -25,7 +25,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 认知抑制（Cognitive Inhibition）是[[Executive Function|执行功能]]（executive-function）的核心成分之一，指在必要时故意抑制主导性、自动化或常见反应的能力（Bolton & [[John Hattie|Hattie]], 2017, p.4）。
 >
 > 在 Miyake 的EF 统一性与多样性框架中，抑制主导性或优势反应（inhibition of dominant or proponent responses）被列为 EF 的三个基本成分之一（Bolton & Hattie, 2017, p.4）。

@@ -31,7 +31,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Rasch Measurement（Rasch 测量）是一种把测验答题数据转换到共同尺度上的测量方法。在 [[PISA]]、TIMSS 和 PIRLS 等国际大规模评估中，原始[[Observational and Correlational Research|观察]]值或答对题数本身并不直接构成公共排名使用的分数；经过 Rasch scores 转换后，结果被放置到共同尺度上，并常以中点 500 的量表向公众和政策界呈现（Allerup, 2015, p.47）。
 
 ## 教育评估中的角色

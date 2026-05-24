@@ -30,7 +30,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 发表偏倚（Publication Bias），也称"文件抽屉效应"（File Drawer Effect），指具有统计显著或正面结果的研究比零结果或负面结果的研究更有可能被发表或传播的系统性倾向。在教育项目评估中，发表偏倚意味着已发表文献中的平均[[Effect Size|效应量]]可能高估了干预的真实有效性。
 >
 > > "Developer-commissioned studies with lackluster results may be withheld to a greater extent than those of independent parties, resulting in more bias due to a 'file drawer effect'." (Wolf et al., 2020, p. 429, citing Polanin, Tanner-Smith, & Hennessy, 2016; Sterling, Rosenbaum, & Weinkam, 1995)

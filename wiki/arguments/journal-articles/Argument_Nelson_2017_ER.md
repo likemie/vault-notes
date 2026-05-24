@@ -30,14 +30,14 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> Nelson & [[Campbell Collaboration|Campbell]] (2017) 作为 *Educational Research* 特刊导言，围绕三个核心问题组织该领域的讨论：(1) [[Evidence-Informed Practice|EIP]] 如何被不同利益相关者定[[Rightness|义]]和理解？(2) 有效的[[Knowledge Mobilisation|知识动员]]（knowledge mobilisation）需要什么条件？(3) EIP 的成果应如何测量？(p. 128)
+> Nelson & [[Campbell Collaboration|Campbell]] (2017) 作为 *Educational Research* 特刊导言，围绕三个核心问题组织该领域的讨论：(1) [[Evidence-Informed Practice|EIP]] 如何被不同利益相关者定义和理解？(2) 有效的[[Knowledge Mobilisation|知识动员]]（knowledge mobilisation）需要什么条件？(3) EIP 的成果应如何测量？(p. 128)
 
 ## 理论框架
 
 > [!abstract] 理论框架
 > 论文采用**概念综合**（conceptual synthesis）方法，将特刊中来自澳大利亚、加拿大、英格兰、荷兰和美国的论文整合进一个三维分析框架：
 >
-> 1. **定[[Rightness|义]]维度**：证据的定义边界——谁的证据算数？证据本位 vs 证据知情 vs 研究知情的语义区分
+> 1. **定义维度**：证据的定义边界——谁的证据算数？证据本位 vs 证据知情 vs 研究知情的语义区分
 > 2. **应用维度**：[[Knowledge Mobilisation|知识动员]]（KMb）的四种策略——沟通与传播、能力建设、伙伴关系与网络、系统化方法
 > 3. **测量维度**：中间成果（教育者行为/思维模式）与长期成果（工具性/概念性/象征性影响）的区分
 
@@ -110,7 +110,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - **非实证研究**：作为特刊导言，论文本身未提供新的实证数据，而是综合他人研究——论证的说服力依赖于被综合研究的质量
-> - **定[[Rightness|义]]问题回避**：论文承认"确保 [[Evidence-Informed Practice|EIP]] 的[[Jing (Refined Mastery)|精]]确定义具有挑战性"但未提出自己的操作性定义——而是将定义多元性作为特征而非问题接受
+> - **定义问题回避**：论文承认"确保 [[Evidence-Informed Practice|EIP]] 的精确定义具有挑战性"但未提出自己的操作性定义——而是将定义多元性作为特征而非问题接受
 > - **测量部分薄弱**：论文承认"没有收到许多详细考虑这些问题的论文"——测量挑战被提出但远未解决
 > - **英语国家偏向**：特刊覆盖澳大利亚、加拿大、英格兰、荷兰和美国，缺少非西方/非英语国家的 EIP 视角
 

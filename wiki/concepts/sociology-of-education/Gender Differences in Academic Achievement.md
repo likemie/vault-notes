@@ -34,7 +34,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 学业性别差异（Gender Differences in Academic Achievement）指在特定教育情境中，男女学生在学业表现上呈现的系统性差别，以及这些差别与学习行为、课堂关系、评价机制和制度环境之间的关联。
 
 ## 历史沿革

@@ -86,7 +86,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success]
-> - Corporate Register (2019) 和 Global Reporting Initiative (2019) 的可持续发展披露数据库共列出全球 200+ 所大学的 [[Comprehensive School Reform (CSR) Program|CSR]] 报告，涵盖公立和私立、知名和不知名大学，表明 USR 已成为跨越机构类型和声望等级的全球性趋势——不是少数[[Jing (Refined Mastery)|精]]英大学的特权实践（Zapp, 2022, pp.152–153）
+> - Corporate Register (2019) 和 Global Reporting Initiative (2019) 的可持续发展披露数据库共列出全球 200+ 所大学的 [[Comprehensive School Reform (CSR) Program|CSR]] 报告，涵盖公立和私立、知名和不知名大学，表明 USR 已成为跨越机构类型和声望等级的全球性趋势——不是少数精英大学的特权实践（Zapp, 2022, pp.152–153）
 > - 大多数大学的 CSR 报告在过去 5 年内首次发布（Fig. 9.1），其增长曲线呈指数形态，暗示我们正处于 USR 制度化的"起飞期"——这一加速与 [[UN Sustainable Development Goals 2015|SDGs]]（2015）和 THE Impact Ranking（2019）的时间节点高度吻合（Zapp, 2022, p.153）
 > - 可持续发展已被部分学者视为大学的一种新型"第三使命"（third mission）甚至"宏大挑战"（grand challenge），超越了传统的教学-研究-产业联系三使命框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013，引自 Zapp, 2022, p.150）
 > - THE 影响力排名中 SDG 17（"促进目标实现的伙伴关系"）是唯一强制报告指标——这暗示即使在竞争驱动的排名逻辑中，"联合行动"也被视为大学不可推卸的责任（Zapp, 2022, p.154）
@@ -100,7 +100,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - **"口头采纳"与"实际行动"的落差**：Zapp (2022) 提示，[[Comprehensive School Reform (CSR) Program|CSR]] 报告的快速增长可能反映的是制度性"口头采纳"（talk）而非实质性行动转变（p.153）
-> - **作为新自由主[[Rightness|义]]合法化工具**：从批判视角看，USR 可能被用于为大学的企业化、市场化和公共拨款缩减提供道德合法性外衣（Zapp, 2022, p.148）
+> - **作为新自由主义合法化工具**：从批判视角看，USR 可能被用于为大学的企业化、市场化和公共拨款缩减提供道德合法性外衣（Zapp, 2022, p.148）
 > - **指标化的简化风险**：THE 影响力排名将 USR 的复杂多维实践简化为可比较的量化指标，可能鼓励大学在易得分领域进行表面努力而忽视深层的制度变革（编者类比）
 
 ---

@@ -37,7 +37,7 @@ updated: 2026-05-22
 ## 定义
 
 > [!info]
-> 耻（sense of shame, chi）是[[Confucius|孔子]]所列四项超越特定关系的通用道德原则中的最后一项——前三项是[[Li (Propriety)|礼]]（propriety）、[[Rightness|义]]（rightness）和廉（integrity）。与其他三项以正面表述不同，耻是一个看似负面的概念——但"与西方对羞耻的纯粹负面性不同，孔子及其追随者极其强调羞耻在人生中的重要性和积极性"（Li, 2012, p.40）。
+> 耻（sense of shame, chi）是[[Confucius|孔子]]所列四项超越特定关系的通用道德原则中的最后一项——前三项是礼（[[Li (Propriety)|propriety]]）、[[Rightness|义]]（rightness）和廉（integrity）。与其他三项以正面表述不同，耻是一个看似负面的概念——但"与西方对羞耻的纯粹负面性不同，孔子及其追随者极其强调羞耻在人生中的重要性和积极性"（Li, 2012, p.40）。
 
 > [!quote]
 > "对孔子而言，没有羞耻感就等于丧失了人类自我纠正的能力。"（Li, 2012, p.40）

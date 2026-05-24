@@ -71,7 +71,7 @@ updated: 2026-05-24
 ## 相关概念／政策
 
 > [!example]
-> - [[Grade Retention]] — 主条目，记录留级作为一般教育制度实践的定[[Rightness|义]]、证据争议和跨系统意义。
+> - [[Grade Retention]] — 主条目，记录留级作为一般教育制度实践的定义、证据争议和跨系统意义。
 > - [[Evidence-Based Reform]] — 留级说明证据充足并不等于政策会自动采取最强行动。
 > - [[Pact for Educational Excellence]] — 改革把降低留级作为目标之一，但保留了共同核心阶段使用留级的可能性（Dachet & Baye, 2021, p.174）。
 

@@ -26,7 +26,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 效度（validity）不是测试或实验的属性，而是**从数据中得出推论的属性**。这一立场由 Lee Cronbach (1971) 在心理测量学中首次明确提出，后由 Samuel Messick (1989) 发展为"验证作为永无止境的过程"的系统论述。Wiliam (2019) 将此立场从教育测量延伸至教育研究方法论，论证其对 [[Randomised Controlled Trials|RCT]] 和[[Evidence-Based Education|证据本位教育]]的直接含义。
 >
 > > "One validates, not a test, but an interpretation of data arising from a specified procedure." (Cronbach, 1971, p. 447, emphasis in original; 引自 Wiliam, 2019, p.10)
@@ -40,7 +40,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 效度概念的定[[Rightness|义]]性转变
+> [!abstract] 效度概念的定义性转变
 > 传统观点将效度视为测试的内在属性——一个测试"有效"或"无效"。Cronbach 的定义性转变将此颠倒：**没有任何测试自身是"有效"的**——有效的或无效的是我们对测试分数所做的解释和使用。
 >
 > > 例：具有高阅读要求的数学测试对良好阅读者可能是其数学能力的有效评估（充分抽样了相关领域、与目标构念强相关、产生与其他评估一致的结果）。但对阅读能力差的学生，无法确定低分是因为缺乏数学能力还是无法理解题目——因此同一测试对这两组学生的**推论效度**不同。（Wiliam, 2019, pp.9–10; 编者类比）

@@ -37,7 +37,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info]
-> John W. Meyer，美国社会学家，斯坦福大学社会学系教授（荣休）。[[World Society Theory|世界社会理论]]（world society theory，亦称世界政体理论或斯坦福学派）的创始人，新制度主[[Rightness|义]]组织社会学的重要代表人物。其学术工作从根本上重塑了对全球化、组织行为和教育扩张的理解——论证民族国家的制度形式、组织的结构特征以及个体的身份认同，在很大程度上是全球[[Cultural Models|文化模型]]扩散的产物，而非纯粹的地方功能性结果。Meyer 提出或共同提出了 world society（世界社会）、organizational actorhood（[[Organizational Actorhood|组织能动者身份]]）和 otherhood（[[Otherhood|为他者行动]]）等核心概念，其理论框架是 Zapp (2022) 分析大学在全球治理中角色的主要理论资源（Zapp, 2022, pp.145, 148–149）。
+> John W. Meyer，美国社会学家，斯坦福大学社会学系教授（荣休）。[[World Society Theory|世界社会理论]]（world society theory，亦称世界政体理论或斯坦福学派）的创始人，新制度主义组织社会学的重要代表人物。其学术工作从根本上重塑了对全球化、组织行为和教育扩张的理解——论证民族国家的制度形式、组织的结构特征以及个体的身份认同，在很大程度上是全球[[Cultural Models|文化模型]]扩散的产物，而非纯粹的地方功能性结果。Meyer 提出或共同提出了 world society（世界社会）、organizational actorhood（[[Organizational Actorhood|组织能动者身份]]）和 otherhood（[[Otherhood|为他者行动]]）等核心概念，其理论框架是 Zapp (2022) 分析大学在全球治理中角色的主要理论资源（Zapp, 2022, pp.145, 148–149）。
 
 ---
 ## 生平与职涯
@@ -54,7 +54,7 @@ updated: '2026-05-19'
 ### 1977 — "Institutionalized Organizations: Formal Structure as Myth and Ceremony"（与 Brian Rowan 合著）
 
 - APA：Meyer, J. W., & Rowan, B. (1977). Institutionalized organizations: Formal structure as myth and ceremony. *American Journal of Sociology*, 83(2), 340–363.
-- 核心内容：提出新制度主[[Rightness|义]]组织理论的核心命题——组织的正式结构往往反映制度环境中的"理性神话"而非技术效率需求。
+- 核心内容：提出新制度主义组织理论的核心命题——组织的正式结构往往反映制度环境中的"理性神话"而非技术效率需求。
 - 思想位置：新制度主义组织社会学的奠基之作，为后续[[World Society Theory|世界社会理论]]提供了微观-组织层面的理论基础（Zapp, 2022 未直接引用，但这是 Meyer 思想的根基）。
 - 相关概念／理论：[[World Society Theory]]、[[Organizational Actorhood]]
 
@@ -62,7 +62,7 @@ updated: '2026-05-19'
 
 - APA：Meyer, J. W., Boli, J., Thomas, G. M., & Ramirez, F. O. (1997). World society and the nation-state. *American Journal of Sociology*, 103(1), 144–181.
 - 核心内容：系统阐述世界社会理论——论证民族国家的制度形式在全球范围内趋同，这种趋同无法由国家利益或功能性需求解释，而是全球[[Cultural Models|文化模型]]扩散的结果（Zapp, 2022, p.145）。
-- 思想位置：世界社会理论的系统阐述之作，标志着该理论的成[[Shu (Familiarization)|熟]]（Zapp, 2022, p.145）。
+- 思想位置：世界社会理论的系统阐述之作，标志着该理论的成熟（Zapp, 2022, p.145）。
 - 相关概念／理论：[[World Society Theory]]、[[Otherhood]]
 
 ### 2000 — "The 'Actors' of Modern Society: The Cultural Construction of Social Agency"（与 Ronald L. Jepperson 合著）
@@ -111,7 +111,7 @@ updated: '2026-05-19'
 > [!success]
 > - 在比较教育和高等教育研究领域：Meyer 的[[World Society Theory|世界社会理论]]是 Zapp (2022) 分析大学在全球治理中角色的核心理论资源——Zapp 用 otherhood 解释大学为何在去中心化的全球治理中占据独特位置，用 actorhood 解释大学从"象牙塔"向"完全组织"的转型，用世界社会理论解释全球治理为何依赖大学的知识权威（Zapp, 2022, pp.145, 148–149）
 > - 在组织社会学领域：Bromley & Meyer (2015) 的 [[Organizational Actorhood]] 四维度模型已成为分析大学、国际组织、NGO 等非国家行动者组织变迁的标准化框架
-> - 在国际关系学领域：世界社会理论与建构主[[Rightness|义]] IR（Wendt, 1999; Barnett & Finnemore, 2004）形成对话和互补，共同推动了全球治理研究从"硬治理"向 [[Epistemic Governance|知识治理]] 的范式转移——观念、规范和[[Cultural Models|文化模型]]而非军事和经济实力，成为分析全球化与全球治理的核心范畴（Zapp, 2022, p.145）
+> - 在国际关系学领域：世界社会理论与建构主义 IR（Wendt, 1999; Barnett & Finnemore, 2004）形成对话和互补，共同推动了全球治理研究从"硬治理"向 [[Epistemic Governance|知识治理]] 的范式转移——观念、规范和[[Cultural Models|文化模型]]而非军事和经济实力，成为分析全球化与全球治理的核心范畴（Zapp, 2022, p.145）
 > - 斯坦福学派的研究网络——包括 Francisco Ramirez、David P. Baker、Patricia Bromley、David John Frank 等——持续扩展和深化了世界社会理论在跨国比较研究中的应用，覆盖教育、组织、人权、环境等多个政策领域
 
 ---
@@ -119,7 +119,7 @@ updated: '2026-05-19'
 
 > [!warning]
 > - **对权力和冲突的低估**：Zapp (2022) 指出，[[World Society Theory|世界社会理论]]倾向于强调全球[[Cultural Models|文化模型]]的扩散与同构，可能低估国家权力、地缘政治冲突和市场逻辑对组织行为的持续塑造作用（pp.155–157）
-> - **去殖民批判**：后殖民和去殖民学者可能批评 Meyer 的普世主[[Rightness|义]]隐含了西方中心的认识论预设，未能充分关注殖民差异和认识论暴力如何塑造全球知识秩序（参见 [[Geopolitics of Knowledge]]）
+> - **去殖民批判**：后殖民和去殖民学者可能批评 Meyer 的普世主义隐含了西方中心的认识论预设，未能充分关注殖民差异和认识论暴力如何塑造全球知识秩序（参见 [[Geopolitics of Knowledge]]）
 
 ---
 ## 来源

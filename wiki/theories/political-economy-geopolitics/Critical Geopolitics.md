@@ -48,7 +48,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 批判地缘政治学（Critical Geopolitics）是 1990 年代以来在人文地理学和政治地理学中发展起来的理论传统，核心主张是：空间性不限于领土性（spatiality is not limited to territoriality）——地缘政治秩序不仅通过领土控制和物质力量被建构，更通过政治想象、话语实践和意[[Rightness|义]]建构被持续生产和再生产（Kuus, 2017, p.5, cited in Parreira do Amaral, 2022, p.37）。
+> 批判地缘政治学（Critical Geopolitics）是 1990 年代以来在人文地理学和政治地理学中发展起来的理论传统，核心主张是：空间性不限于领土性（spatiality is not limited to territoriality）——地缘政治秩序不仅通过领土控制和物质力量被建构，更通过政治想象、话语实践和意义建构被持续生产和再生产（Kuus, 2017, p.5, cited in Parreira do Amaral, 2022, p.37）。
 >
 > > "Geopolitics, in this view, refers to the territorial, relational and discursive aspects of political imaginaries through which the world has become a global network of cities, regions, hubs or (free) economic zones that drive twenty-first century knowledge-intensive capitalist accumulation."（Moisio, 2018, p.7, cited in Parreira do Amaral, 2022, pp.37–38）
 
@@ -61,7 +61,7 @@ updated: '2026-05-18'
 批判地缘政治学作为对[[Classical Geopolitics|古典地缘政治]]的批判性回应而兴起。其发展可追溯以下关键节点：
 
 - **1990 年代**：在英语世界人文地理学和政治地理学中形成。核心推动力来自人文和文化研究中的空间转向（spatial turn）——空间不再被视为天然预设之物，而被理解为通过社会空间关系网络被持续建构的过程（Thompson & Parreira do Amaral, 2022, p.10）
-- **Dodds (2019)**：为批判地缘政治学提供了系统的教科书框架。强调地缘政治关系是"浸透了社会和文化意[[Rightness|义]]"的建构物——国家间的关系不是客观存在的实体，而是通过话语和意义建构被"制造"出来的。将分析焦点从国家[[Jing (Refined Mastery)|精]]英的话语扩展到"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"（Dodds, 2019, p.36, cited in Rizvi, 2022, p.91）
+- **Dodds (2019)**：为批判地缘政治学提供了系统的教科书框架。强调地缘政治关系是"浸透了社会和文化意义"的建构物——国家间的关系不是客观存在的实体，而是通过话语和意义建构被"制造"出来的。将分析焦点从国家精英的话语扩展到"人们的日常经验以及他们为应对地缘政治和地缘经济过程而采取的策略"（Dodds, 2019, p.36, cited in Rizvi, 2022, p.91）
 - **Sharp (2009)**：强调地缘政治知识本身的意识形态建构性——地缘政治不是对世界的客观描述，而是通过特定视角和话语实践"生产"世界的政治行为
 - **Kuus (2017)**：提出"空间性不限于领土性"的核心命题——"空间性不限于领土性"（Kuus, 2017, p.5）——将地缘政治分析从领土框架扩展至关系性和网络化空间
 
@@ -73,7 +73,7 @@ updated: '2026-05-18'
 
 ### 地缘政治是意识形态建构的
 
-地缘政治关系不是自然给定的——国家和国家之间的关系不是像石头和石头那样客观存在，而是通过话语、想象和意[[Rightness|义]]建构被"制造"出来的。Dodds (2019, p.34) 指出这种关系"浸透了社会和文化意义"。Sharp (2009) 进一步指出，地缘政治知识本身具有履行性——它不仅"描述"世界，更主动"生产"世界。这一命题意味着：我们通常视为"客观地缘政治事实"的事物（"亚洲崛起"、"中美竞争"）本身即是特定话语实践和政治想象的产物（Rizvi, 2022, p.91）。
+地缘政治关系不是自然给定的——国家和国家之间的关系不是像石头和石头那样客观存在，而是通过话语、想象和意义建构被"制造"出来的。Dodds (2019, p.34) 指出这种关系"浸透了社会和文化意义"。Sharp (2009) 进一步指出，地缘政治知识本身具有履行性——它不仅"描述"世界，更主动"生产"世界。这一命题意味着：我们通常视为"客观地缘政治事实"的事物（"亚洲崛起"、"中美竞争"）本身即是特定话语实践和政治想象的产物（Rizvi, 2022, p.91）。
 
 ### 国家不是唯一的行动者
 
@@ -99,7 +99,7 @@ Dodds (2019, p.36) 强调要关注"人们的日常经验以及他们为应对地
 
 - **[[Fixity-Motion Tension|固着-流动张力]]**：Harvey 揭示的核心地缘政治悖论——资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置
 - **[[Spatial Sortings|空间分选]]**：[[Knowledge-Based Economy|知识经济]]化将某些地点和人群置于发展中心，同时边缘化其他地点和人群，国家通过空间选择性政策中介这一过程（Moisio, 2022, pp.28–31）
-- **[[Geopolitical Subject|地缘政治主体]]的生产**：高等教育空间被用于塑造知识密集型资本主[[Rightness|义]]所需的主体性——创新性、创业性、连接性（Moisio, 2022, pp.29–30）
+- **[[Geopolitical Subject|地缘政治主体]]的生产**：高等教育空间被用于塑造知识密集型资本主义所需的主体性——创新性、创业性、连接性（Moisio, 2022, pp.29–30）
 - **全球化与国家角色的悖论**：Porter 的悖论——"竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"——揭示了国家在知识经济化中作为空间分选中介和[[Economic Patriotism|经济爱国主义]]推力的关键角色（Moisio, 2022, pp.27–29）
 
 在[[Internationalization of Higher Education|高等教育国际化]]分析方面，Rizvi (2022) 将批判地缘政治学作为其核心分析透镜，用于审视亚洲崛起对全球高等教育架构的重塑，详见 Rizvi 章节论证。

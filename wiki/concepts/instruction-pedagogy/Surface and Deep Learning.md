@@ -34,7 +34,7 @@ updated: '2026-05-23'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 表层学习（surface learning）与深层学习（deep learning）是教育研究中区分学习质量的两个核心概念。表层学习涉及知晓事实、想法和内容（knowing facts, ideas, and content），深层学习涉及知晓想法之间的关系和连接、并将这些想法扩展到其他情境（knowing relations and connections between ideas and extending these ideas to other contexts）（[[John Hattie|Hattie]], 2015, p.80）。
 >
 > 表层学习是实现深层学习的必要第一步——"surface learning is a critical first step toward deeper learning"（Hattie, 2015, p.84）。
@@ -84,7 +84,7 @@ updated: '2026-05-23'
 ## 跨文化挑战：中国学习者的记忆-理解路径
 
 > [!info]
-> Li（2012, pp.80-83）在综述 [[Paradox of the Chinese Learner|中国学习者悖论]] 研究时，系统呈现了 [[Confucian Heritage Cultures|CHC]] 研究对该二分法的跨文化挑战。核心发现是：**[[Chinese Learner|中国学习者]]的"记忆"不是西方意[[Rightness|义]]上的表层学习终点——它是通向深层理解的第一步**。
+> Li（2012, pp.80-83）在综述 [[Paradox of the Chinese Learner|中国学习者悖论]] 研究时，系统呈现了 [[Confucian Heritage Cultures|CHC]] 研究对该二分法的跨文化挑战。核心发现是：**[[Chinese Learner|中国学习者]]的"记忆"不是西方意义上的表层学习终点——它是通向深层理解的第一步**。
 
 ### Marton 等（1996）：记忆作为深度策略
 
@@ -128,7 +128,7 @@ updated: '2026-05-23'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Popper's Three Worlds Theory]] — [[John Hattie|Hattie]] (2009; 2015) 将表层/深层/建构性学习映射到 Popper 的三个世界：表层学习对应 World 1（物理事物）、深层学习对应 World 2（主观观念）、建构性理解对应 World 3（文化与科学对象）。但 Rømer (2018) 论证 Hattie 通过 Bereiter (2002) 的中介严重误读了 Popper——Bereiter 已将 World 3 缩减为"真理与非真理"并排除人文学科，Hattie 进一步消除了 Bereiter 仍保留的 World 2 与 World 3 之间的关键区分。Popper 是哲学实在论者，Hattie 是主观建构主[[Rightness|义]]者——两者在认识论上[[Jing (Refined Mastery)|精]]确对立（Rømer, 2018, p.10-11）
+> - [[Popper's Three Worlds Theory]] — [[John Hattie|Hattie]] (2009; 2015) 将表层/深层/建构性学习映射到 Popper 的三个世界：表层学习对应 World 1（物理事物）、深层学习对应 World 2（主观观念）、建构性理解对应 World 3（文化与科学对象）。但 Rømer (2018) 论证 Hattie 通过 Bereiter (2002) 的中介严重误读了 Popper——Bereiter 已将 World 3 缩减为"真理与非真理"并排除人文学科，Hattie 进一步消除了 Bereiter 仍保留的 World 2 与 World 3 之间的关键区分。Popper 是哲学实在论者，Hattie 是主观建构主义者——两者在认识论上精确对立（Rømer, 2018, p.10-11）
 > - [[Dynamic Knowledge and Learning Model]] — Qvortrup (2015) 从支持者立场指出，Hattie 确实重视表层、深层和概念性知识的区分，但 *[[Visible Learning]]* 的总体结果主要呈现跨知识层次的抽象学习结果；多数测验特别擅长测量表层特征，对深层学习只有部分测量能力，很少有效测量学生从课堂经验中建构的概念表征（Qvortrup, 2015, pp.28–29）。因此，表层/深层区分需要被嵌入一种动态知识模型中：教学不是在某个单一层次上"制造"学习，而是刺激多种知识形式之间的相互作用（Qvortrup, 2015, pp.29–32）。
 
 ## 与相关概念的区别

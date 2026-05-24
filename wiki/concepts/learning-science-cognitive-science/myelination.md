@@ -26,7 +26,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 髓鞘化（Myelination）是指在轴突周围积累髓鞘的过程，增加其厚度并对神经细胞各段进行电绝缘（Bolton & [[John Hattie|Hattie]], 2017, p.7）。
 >
 > 髓鞘是围绕神经元轴突的脂肪组织层（即白质，white matter），使信号沿该细胞的传输更加快速（Bolton & Hattie, 2017, p.7）。
@@ -34,7 +34,7 @@ updated: '2026-05-18'
 ## 核心特征
 
 > [!abstract] 核心特征
-> - 是出生后大脑发育和成[[Shu (Familiarization)|熟]]过程中发生的主要神经生物学过程之一（Bolton & [[John Hattie|Hattie]], 2017, p.7）
+> - 是出生后大脑发育和成熟过程中发生的主要神经生物学过程之一（Bolton & [[John Hattie|Hattie]], 2017, p.7）
 > - 髓鞘的缺失与多种神经退行性疾病和认知障碍相关（Bolton & Hattie, 2017, p.7）
 > - 髓鞘未能发育或形成后退化会影响脑功能和发育（Bolton & Hattie, 2017, p.7）
 

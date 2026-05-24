@@ -28,7 +28,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 认识论断裂（Epistemological Break）源自 [[Pierre Bourdieu|Bourdieu]], Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*，指科学研究必须与**前科学世界**（pre-scientific world）的日常语言和自发理解进行决裂的关键操作。Bourdieu 认为，"问题的选择、概念的阐释和分析范畴如果不经过科学建构这一关键操作来与社会世界既有的样子决裂，就只是对 [[Doxa|doxa]] 的认可"（Bourdieu & Wacquant, 1992/1992, p.248，引自 Eacott, 2015, p.320）。
 >
 > > "the choice of problem, the elaboration of concepts and analytical categories function as a ratification of the doxa unless the crucial operation of scientific construction breaks with the social world as it is"（Bourdieu & Wacquant, 1992/1992, p.248）
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 >
 > 教育行政学者大多是前任学校/系统层面的行政人员，且许多人在大学中也担任行政职务。这使得研究者本身就是"自发社会学家"（spontaneous sociologist）——通过社会化过程内化了社会世界的客观结构，以 doxic 模态感知社会世界（Eacott, 2015, p.317）。
 >
-> > 例：一位教育行政教授曾担任校长，其认知图式（如何定[[Rightness|义]]"好学校"、"有效领导"）已通过职业轨迹被塑造——若无认识论断裂，其研究极易沦为对既有实践框架的确认而非质疑（编者类比）。
+> > 例：一位教育行政教授曾担任校长，其认知图式（如何定义"好学校"、"有效领导"）已通过职业轨迹被塑造——若无认识论断裂，其研究极易沦为对既有实践框架的确认而非质疑（编者类比）。
 >
 > 研究者的社会史和与教育制度的个人关系"时常在不知不觉中定向我们的思考"——这模糊了经验与认识的边界，因为"教育行政"作为研究对象的本身就是"一个植根于对研究对象本身无争议价值的先反思信念的观点的制度化"（Eacott, 2015, p.317）。
 >
@@ -83,14 +83,14 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - [[Pierre Bourdieu]] — 认识论断裂是 Bourdieu 反思社会学的方法论核心，与其[[Champ|场域]]-[[Habitus|习性]]-资本理论框架互为前提
-> - [[Critical Realism]] — 与 Bhaskar 的批判实在论共享对实证主[[Rightness|义]]科学观的批判，但 Bourdieu 的断裂更强调研究者自身的认识论条件而非本体论分层
+> - [[Critical Realism]] — 与 Bhaskar 的批判实在论共享对实证主义科学观的批判，但 Bourdieu 的断裂更强调研究者自身的认识论条件而非本体论分层
 
 ## 争议与批评
 
 > [!warning] 争议与批评
 > - **是否可能完全断裂**：[[Pierre Bourdieu|Bourdieu]] 自己也承认研究者永远无法完全逃脱社会世界——"the inexhaustible intellectual project of getting beyond the everyday is never finally won"（Eacott, 2015, p.322）。批评者质疑这是否意味着"断裂"是一个永远达不到的理想状态。
 > - **与"实践相关性"的张力**：教育行政作为"应用领域"，其体制合法性部分来自与实践的紧密关联。彻底的断裂是否会使研究对实践者不可理解或无关？（Eacott, 2015, p.319-320，讨论 Bachelard 和 Bourdieu 拒绝简化复杂内容）
-> - **Evers & Lakomski 立场**：Evers & Lakomski（1991, 1996, 2000, 2012）认为问题不在科学，而在科学的模型——逻辑经验主[[Rightness|义]]的狭隘操作化。若采用更丰富的科学模型（如自然主义的科学观），是否需要"断裂"本身也有待商榷（Eacott, 2015, p.316）。
+> - **Evers & Lakomski 立场**：Evers & Lakomski（1991, 1996, 2000, 2012）认为问题不在科学，而在科学的模型——逻辑经验主义的狭隘操作化。若采用更丰富的科学模型（如自然主义的科学观），是否需要"断裂"本身也有待商榷（Eacott, 2015, p.316）。
 
 ## 来源
 

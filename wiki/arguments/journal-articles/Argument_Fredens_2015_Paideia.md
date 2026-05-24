@@ -76,7 +76,7 @@ updated: '2026-05-18'
 > - 批评 recitationsmetoden（传统问答法）：学生学会说教师想听的话而非思考，发展出"说老师想听的，让聪明人解决其余"的生存策略（Fredens, 2015, p.71）
 > - 区分教师激活（aktivere）与促进（facilitere）：促进者在场边[[Observational and Correlational Research|观察]]，激活者则论证、指导和示范（Fredens, 2015, p.73）
 > - 指出该书以认知视角为主，但横跨阅读可发现文化视角——学校是"tilværelsesoplysning"（存在启蒙，引 Løgstrup）（Fredens, 2015, p.74）
-> - 对 [[John Hattie|Hattie]] & Yates 声称好教师不能以特定人格类型定[[Rightness|义]]的立场提出质疑，引用 Lambert & Barley (2001) 发现治疗师人格是治疗关系中最重要的因素——比所用方法更重要（Fredens, 2015, p.73）
+> - 对 [[John Hattie|Hattie]] & Yates 声称好教师不能以特定人格类型定义的立场提出质疑，引用 Lambert & Barley (2001) 发现治疗师人格是治疗关系中最重要的因素——比所用方法更重要（Fredens, 2015, p.73）
 >
 > ### Fredens 的补充性批评
 >

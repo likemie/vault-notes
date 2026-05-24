@@ -27,7 +27,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 政策创业者（Policy Entrepreneur）是在教育系统内通过协作和网络化来实质性影响政策发展和服务交付的行动者。Michael Mintrom (2000) 描述了在教育系统内运作的政策创业者；[[Stephen Ball]] (2012) 将这一概念扩展至跨国政策倡导和行动，涵盖那些在区域或全球范围内跨系统进行创业式运作的人（O'Neill et al., 2016, p.viii, p.47）。
 
 ## 核心特征
@@ -40,7 +40,7 @@ updated: '2026-05-18'
 ## 典型案例：John Hattie
 
 > [!example] 典型案例：[[John Hattie]]
-> John Hattie 被 O'Neill 等描述为新西兰自 1990 年代末以来"最[[Jing (Refined Mastery)|精]]湛的公立学校政策行动者"。其轨迹呈现为公共福利/非营利/营利创业的无缝融合：
+> John Hattie 被 O'Neill 等描述为新西兰自 1990 年代末以来"最精湛的公立学校政策行动者"。其轨迹呈现为公共福利/非营利/营利创业的无缝融合：
 >
 > - **公共部门**：受教育部合同开发 asTTle 国家课程测试系统（1999/2000），担任 AITSL 董事会主席（2014）（O'Neill et al., 2016, pp.47–50）
 > - **非营利**：任 [[Cognition Education (NZ)|Multi Serve Education Trust]] / Cognition Education Trust 董事和学术顾问（O'Neill et al., 2016, p.48）
@@ -53,7 +53,7 @@ updated: '2026-05-18'
 
 [[Stephen Ball]] (1994) 提出了五重语境框架来理解教育政策制定（O'Neill et al., 2016, pp.1–2）：
 
-1. **影响语境**（Context of influence）：利益群体争夺政策问题的定[[Rightness|义]]和论述
+1. **影响语境**（Context of influence）：利益群体争夺政策问题的定义和论述
 2. **政策文本生产语境**（Context of policy text production）：政策文件和相关文本被制作出来
 3. **实践语境**（Context of practice）：政策在学校、课堂中被解读和执行
 4. **结果语境**（Context of outcomes）：政策的实际效应和影响

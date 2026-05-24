@@ -26,7 +26,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 季节性比较（Seasonal Comparison）是一种准实验研究设计，利用学校日历的季节性特征——九个月的学年后接三个月的暑假——作为自然实验来理解学校如何影响不平等。其核心逻辑类似于医学研究中的交叉设计（crossover design）：被试在治疗期（学年）和非治疗期（暑假）被反复观测，通过比较两种条件下成就差距的变化来推断学校的因果效应（Downey & Condron, 2016, p.4）。
 >
 > > "Similar to a crossover design in medical research, where patients are observed on and off treatment, seasonal comparison researchers observe how achievement gaps change when children are on treatment (in school) versus out (summer)." (Downey & Condron, 2016, p.4)
@@ -98,7 +98,7 @@ updated: '2026-05-18'
 > - **Heyns (1978)**：亚特兰大 42 所学校 3,000+ 名六七年级学生（1971–1972 学年和暑假）——开创性发现：暑假学习是纯粹的非学校因素产物，比较两个季节揭示学校如何发挥作用
 > - **Entwisle & Alexander (1992, 1994)**：巴尔的摩纵向研究：1980 年代追踪儿童在学校系统中的进展——进一步引起对季节性模式的关注
 > - **Downey et al. (2004)**：首次全国代表性 ECLS-K 分析——确认 SES 技能差距在暑假比在学年增长更快
-> - **Alexander (1997:12)**：总结季节性比较的含[[Rightness|义]]："当涉及不平等时，'学校教育更多的是解决方案的一部分而非问题的一部分'"
+> - **Alexander (1997:12)**：总结季节性比较的含义："当涉及不平等时，'学校教育更多的是解决方案的一部分而非问题的一部分'"
 > - **von Hippel et al. (2007)**：ECLS-K 数据分析发现儿童 BMI 在暑假期间增长速度约为学年期间的两倍——黑人和低 SES 儿童尤其脆弱
 > - **Downey, Workman & von Hippel (2016)**：ECLS-K 2011 数据分析社交／行为技能差距——SES、种族和性别差距在学校期间 vs 暑假期间增长无显著差异
 

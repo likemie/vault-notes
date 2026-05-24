@@ -34,7 +34,7 @@ updated: '2026-05-18'
 
 > [!abstract] 理论框架
 > Berk 不依赖单一理论框架，而是基于评估研究方法论的演进历史进行反思性分析。他的论证锚定在：
-> - **[[Potential Outcomes Framework|潜在结果框架]]**（Neyman-Rubin-Holland-Pearl）作为因果效应定[[Rightness|义]]的概念基础
+> - **[[Potential Outcomes Framework|潜在结果框架]]**（Neyman-Rubin-Holland-Pearl）作为因果效应定义的概念基础
 > - **[[Campbell Collaboration|Campbell]] & Stanley (1963)** 的四种效度框架作为实验设计评估的参照
 > - Daubert 标准的"垃圾科学"概念作为区分证据与垃圾的司法类比（Daubert v Merrell Dow Pharmaceuticals 1993）
 
@@ -49,7 +49,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > Berk 的论证围绕五个方法论战场展开，每个战场都存在证据与垃圾之间的张力：
 >
-> ### 1. 因果效应的定[[Rightness|义]]
+> ### 1. 因果效应的定义
 >
 > [[Potential Outcomes Framework|潜在结果框架]]的核心进步在于区分因果效应的**定义**与**估计**。但实践中不同的平均处理效应定义（总体 vs. 样本、处理组 vs. 全体）常被忽视，导致估计目标不明——"可信的证据不太可能产生"（Berk, 2011, p.194）。
 >
@@ -78,7 +78,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **"证据"的定[[Rightness|义]]真空**：政策制定过程往往不明确说明什么算作证据——"into this vacuum has been drawn a mix of evaluations ranging from excellent to terrible"（Berk, 2011, p.199）
+> 1. **"证据"的定义真空**：政策制定过程往往不明确说明什么算作证据——"into this vacuum has been drawn a mix of evaluations ranging from excellent to terrible"（Berk, 2011, p.199）
 > 2. **垃圾科学的两类制造者**：一类不知道自己在做什么但使用表面特征；另一类明知故犯并使用表面特征掩盖（Berk, 2011, p.192）
 > 3. **不存在简单的解码装置**：任何易于实施的规则集都可能扼杀创新（Berk, 2011, pp.192–193）
 > 4. **随机实验的社会保护功能**：[[Randomised Controlled Trials|RCT]] 的最强理由不是方法论的，而是制度性的——它比其它设计更能防止研究者"以各种方式陷入统计列车事故"（Berk, 2011, p.196）
@@ -114,7 +114,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > - 作为编辑反思而非系统综述，论文的方法论批评虽然有 35 年编辑经验支撑，但属于个人[[Observational and Correlational Research|观察]]而非实证研究
 > - Berk 对 [[Randomised Controlled Trials|RCT]] 的辩护（"防止统计错误"）与批判（"集群随机化中的 [[Stable Unit Treatment Value Assumption (SUTVA)|SUTVA]] 违反"）之间存在张力——他的"铜标准"（bronze standard, Berk 2005）比喻试图调和二者，但在本文中未充分展开
-> - 提出的对策（中立专家审查、团队评估）偏重[[Jing (Refined Mastery)|精]]英专家模式，未回应 Cowen (2019) 后来提出的官僚知识问题和制度激励问题
+> - 提出的对策（中立专家审查、团队评估）偏重精英专家模式，未回应 Cowen (2019) 后来提出的官僚知识问题和制度激励问题
 > - 论文发表于 2011 年，此后因果推断方法（如双重差分、合成控制、断点回归设计）在经济学中的发展可能已部分回应了 Berk 对[[Causal Modeling|因果建模]]的批评
 
 ## 来源

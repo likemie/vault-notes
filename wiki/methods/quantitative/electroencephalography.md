@@ -31,7 +31,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 脑电图（Electroencephalography, EEG）是一种功能神经影像技术，通过测量相邻神经元群落的激活来记录脑活动（Bolton & [[John Hattie|Hattie]], 2017, p.2）。
 >
 > 多通道脑电图（Multichannel EEG）可测量毫秒级增量的脑活动，因此在确定时间信息方面优于空间信息（Bolton & Hattie, 2017, p.2）。

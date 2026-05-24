@@ -25,7 +25,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 执行功能（Executive Function, EF）是一个涵盖性术语（umbrella term），指一组高阶、通用目的的控制过程，用于调节多种认知功能（如思维和行为）以实现特定目标（Bolton & [[John Hattie|Hattie]], 2017, p.4）。
 >
 > > "Executive function (EF) is an umbrella term for a set of higher order, general purpose control processes that regulate a number of different cognitive functions (such as thought and behavior) for the attainment of a specific goal."（Bolton & Hattie, 2017, p.4）
@@ -48,7 +48,7 @@ updated: '2026-05-18'
 >
 > - 抑制最早发展，略早于转换和更新（Bolton & Hattie, 2017, p.10）
 > - 三种成分均在 3–5 岁出现大幅年龄相关变化或"铰链点"（Bolton & Hattie, 2017, p.10）
-> - EF 的发展与[[Prefrontal Cortex|前额叶皮层]]（prefrontal-cortex）的成[[Shu (Familiarization)|熟]]密切相关（Bolton & Hattie, 2017, p.5）
+> - EF 的发展与[[Prefrontal Cortex|前额叶皮层]]（prefrontal-cortex）的成熟密切相关（Bolton & Hattie, 2017, p.5）
 
 ## 与学业成就的关系
 

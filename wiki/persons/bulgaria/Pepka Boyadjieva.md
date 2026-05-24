@@ -32,7 +32,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info]
-> Pepka Boyadjieva 是保加利亚科学院（Bulgarian Academy of Sciences）哲学与社会学研究所（Institute of Philosophy and Sociology）的研究者。她的研究聚焦于高等教育社会学、高等教育不平等和社会正[[Rightness|义]]，以将[[Capability Approach in Education|可行能力路径]]（capability approach）与新制度主义视角结合发展高等教育的多维使命模型而著称（Boyadjieva, 2022, pp.125, 140）。
+> Pepka Boyadjieva 是保加利亚科学院（Bulgarian Academy of Sciences）哲学与社会学研究所（Institute of Philosophy and Sociology）的研究者。她的研究聚焦于高等教育社会学、高等教育不平等和社会正义，以将[[Capability Approach in Education|可行能力路径]]（capability approach）与新制度主义视角结合发展高等教育的多维使命模型而著称（Boyadjieva, 2022, pp.125, 140）。
 
 ---
 
@@ -40,7 +40,7 @@ updated: '2026-05-19'
 
 > [!note]
 > - 任职于保加利亚科学院哲学与社会学研究所（Boyadjieva, 2022, p.125）
-> - 参与由保加利亚国家科学基金资助的 JustEdu 项目——"高等教育和成人教育参与中的不平等动态：比较社会正[[Rightness|义]]视角"（项目编号 КП-06-ДВ-2/16.12.2019）（Boyadjieva, 2022, p.140）
+> - 参与由保加利亚国家科学基金资助的 JustEdu 项目——"高等教育和成人教育参与中的不平等动态：比较社会正义视角"（项目编号 КП-06-ДВ-2/16.12.2019）（Boyadjieva, 2022, p.140）
 > - 2022 年在 Parreira do Amaral & Thompson 主编的 *Geopolitical Transformations in Higher Education* 论文集中发表第 8 章（Boyadjieva, 2022）
 
 ---
@@ -60,7 +60,7 @@ updated: '2026-05-19'
 
 - APA：Boyadjieva, P., & Ilieva-Trichkova, P. (2020). Inclusion and fairness in access to higher education: Theoretical distinctions, measurement and patterns of interactions. In L. Weimer & T. Nokkala (Eds.), *Universities as political institutions* (pp. 237–261). Brill.
 - 核心内容：区分高等教育的包容性（inclusion）与公平性（fairness），并分析二者的测量和互动模式（Boyadjieva, 2022, p.141）。
-- 思想位置：将多维使命模型中的社会正[[Rightness|义]]维度进一步操作化。
+- 思想位置：将多维使命模型中的社会正义维度进一步操作化。
 - 相关概念／理论：[[Capability Approach in Education]]
 
 ### 2022 — *(Un)avoidable Clash: Higher Education at the Altar of Its Missions and Rankings*

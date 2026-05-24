@@ -33,7 +33,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 因果建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, [[Matching|SEM]]），是随机实验之外最常用的因果推断替代方法。其目标是对[[Observational and Correlational Research|观察]]性研究施加一个关于"自然如何生成数据"的模型，然后从数据中估计自然使用的参数值。它于 1970 年代进入社会科学领域，承诺将实质性社会科学理论与统计学进行形式上的整合（Berk, 2011, p.196）。
 >
 > > "Its aim is to impose on an observational study a model of how nature generated the data and then from the data, to estimate the values of the parameters nature employed." (Berk, 2011, p.196)
@@ -41,7 +41,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> 因果建模隐含一种强假设：研究者可以通过统计模型捕捉数据生成过程的结构性特征。这与[[Potential Outcomes Framework|潜在结果框架]]形成对比——后者从假设性比较出发定[[Rightness|义]]因果效应，而非从模型假设出发估计因果参数。Berk (2011, p.196) 认为因果建模对评估研究的影响"最好说是好坏参半的"（mixed at best）。
+> 因果建模隐含一种强假设：研究者可以通过统计模型捕捉数据生成过程的结构性特征。这与[[Potential Outcomes Framework|潜在结果框架]]形成对比——后者从假设性比较出发定义因果效应，而非从模型假设出发估计因果参数。Berk (2011, p.196) 认为因果建模对评估研究的影响"最好说是好坏参半的"（mixed at best）。
 
 ## 操作步骤
 
@@ -89,7 +89,7 @@ updated: '2026-05-18'
 
 
 > [!warning] 观察数据中的因果语言风险
-> Brady et al. (2023) 从教育心理学期刊实践层面补充了 Berk 的方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/相关研究更可能包含 RFP，可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。Brady et al. (2023) 原本计划继续编码"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意[[Rightness|义]]（Brady et al., 2023, p.9）。
+> Brady et al. (2023) 从教育心理学期刊实践层面补充了 Berk 的方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/相关研究更可能包含 RFP，可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。Brady et al. (2023) 原本计划继续编码"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（Brady et al., 2023, p.9）。
 
 ## 适用场景
 
@@ -99,7 +99,7 @@ updated: '2026-05-18'
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Potential Outcomes Framework]] — 为评估因果建模的因果主张提供了替代性概念框架，强调因果效应的定[[Rightness|义]]独立于估计模型
+> - [[Potential Outcomes Framework]] — 为评估因果建模的因果主张提供了替代性概念框架，强调因果效应的定义独立于估计模型
 
 ## 相关方法
 

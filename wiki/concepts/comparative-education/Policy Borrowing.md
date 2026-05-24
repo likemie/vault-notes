@@ -41,7 +41,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 政策借用（Policy Borrowing）是教育政策转移研究的核心概念，指国家或地区在教育政策制定中有选择地参照外部教育模式、实践和论述的过程。与"政策转移"（policy transfer）假设"最佳实践"从中立技术角度进行跨国搬运不同，政策借用框架的核心洞见是：**政策制定者往往先有国内议程，再借用全球论述来合法化该议程**。借用行为的根本驱动力是国内政治考量，而非对"什么有效"的客观追求。
 >
 > > "Policy makers are seen to harness well-travelled global discourses to legitimate and promote domestic agendas which are controversial." (Steiner-Khamsi, 2012，引自 Yan & Morris, 2025, p. 482)
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 
 2. **合法化功能**：全球话语的主要功能是为有争议的国内决定提供合法性保护——政府不是"从外部学习"，而是用外部话语给已决定的方案穿上"国际认可"的外衣。
 
-> 例：香港 [[Liberal Studies (Hong Kong)|LS]] 的课程设计大量引用 IBDP 的跨学科探究和建构主[[Rightness|义]]教学法语言。香港教育局（EDB, 2005）明确将 LS 与 IBDP 的"知识理论"（Theory of Knowledge）相类比——不是为了准确复制 [[International Baccalaureate (IB)|IB]] 模型，而是以 IB 的全球声望为这门全新必修科在教师联合会和公众批评中赋予课程合法性。（Yan & Morris, 2025, p. 487）
+> 例：香港 [[Liberal Studies (Hong Kong)|LS]] 的课程设计大量引用 IBDP 的跨学科探究和建构主义教学法语言。香港教育局（EDB, 2005）明确将 LS 与 IBDP 的"知识理论"（Theory of Knowledge）相类比——不是为了准确复制 [[International Baccalaureate (IB)|IB]] 模型，而是以 IB 的全球声望为这门全新必修科在教师联合会和公众批评中赋予课程合法性。（Yan & Morris, 2025, p. 487）
 
 3. **问题的社会建构**：Steiner-Khamsi (2012) 揭示的核心机制——政府往往是**先确定"解决方案"（如跨学科必修科设计），再建构与之[[Matching|匹配]]的"问题"（教育体系陈旧、不适应[[Knowledge-Based Economy|知识经济]]）**。这一"方案先行、问题后建"的顺序是政策借用框架区别于"理性政策学习"模型的关键经验预测。
 

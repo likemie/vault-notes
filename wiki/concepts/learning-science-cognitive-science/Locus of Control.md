@@ -41,7 +41,7 @@ updated: 2026-05-23
 ## 概念辨析
 
 > [!example]
-> **控制点 vs [[Attribution Theory|归因理论]]**：Rotter 的控制点是 Weiner 归因理论的直接前身。Weiner 将 Rotter 的单一"来源"维度（内部 vs 外部）扩展为三个独立维度：来源（locus）、稳定性（stability）和可控性（control）。在 Weiner 的框架中，Rotter 原初概念中的"控制"含[[Rightness|义]]被分离为独立的可控性维度（Li, 2012, p.61）。
+> **控制点 vs [[Attribution Theory|归因理论]]**：Rotter 的控制点是 Weiner 归因理论的直接前身。Weiner 将 Rotter 的单一"来源"维度（内部 vs 外部）扩展为三个独立维度：来源（locus）、稳定性（stability）和可控性（control）。在 Weiner 的框架中，Rotter 原初概念中的"控制"含义被分离为独立的可控性维度（Li, 2012, p.61）。
 
 ---
 

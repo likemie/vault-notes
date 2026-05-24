@@ -46,7 +46,7 @@ updated: '2026-05-18'
 
 ## 案例意义
 
-> [!success] 案例意[[Rightness|义]]
+> [!success] 案例意义
 > CIS 案例是 Wadhwa et al. 五个案例中最能显示消费者风险的案例：同一项目在不同清算中心中同时出现 recommended、promising/中等支持和不背书。作者认为，这种分歧主要来自评价标准、可用研究和审查更新时间的差异（Wadhwa et al., 2024, p.25）。
 
 ## 相关概念／政策

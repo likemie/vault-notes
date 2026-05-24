@@ -28,7 +28,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Classroom Learning Culture 指班级层面的学习合作、投入与课堂秩序氛围。
 
 ## 核心要素

@@ -32,7 +32,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Programme Fidelity（方案忠实度）指在实施已被研究证明有效的干预方案时，尽可能忠实地复制原始方案的所有细节。Adaptation（本地适应）则指根据本地情境对原始方案进行调整修改。这两者之间存在持续的张力，是证据本位政策实施领域的核心争论。
 >
 > > "Fidelity matters because when programmes are modified to suit site-specific preferences or circumstances, in essence a different programme results, a programme that no longer benefits from the evidence available."（Cowen et al., 2015, p.17）

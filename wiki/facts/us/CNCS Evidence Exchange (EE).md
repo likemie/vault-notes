@@ -39,7 +39,7 @@ updated: '2026-05-18'
 ## 评级对象与范围
 
 > [!abstract] 评级对象与范围
-> 作者在一致性分析中从 CNCS Evidence Exchange 选择了 52 个项目，范围为"Education"和"Capacity Building"两个 focus areas。作者只保留有"Impact"和"Outcomes"研究的项目，使用搜索部分的"Program Evaluation"过滤器，并删除没有"Level of Evidence"的项目和重复项；这些选择依据 CNCS Evidence Exchange Metadata Glossary 中对相关术语的定[[Rightness|义]]（Wadhwa et al., 2024, p.16）。
+> 作者在一致性分析中从 CNCS Evidence Exchange 选择了 52 个项目，范围为"Education"和"Capacity Building"两个 focus areas。作者只保留有"Impact"和"Outcomes"研究的项目，使用搜索部分的"Program Evaluation"过滤器，并删除没有"Level of Evidence"的项目和重复项；这些选择依据 CNCS Evidence Exchange Metadata Glossary 中对相关术语的定义（Wadhwa et al., 2024, p.16）。
 
 ## 项目纳入逻辑
 

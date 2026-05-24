@@ -45,7 +45,7 @@ updated: '2026-05-18'
 >
 > 两者的层级关系可以概括为：[[What Works Clearinghouse (WWC)]] 是发布教育干预证据审查与报告的机构/平台；WWC SCD Pilot Standards 2010 是 WWC 为了把 SCD 研究纳入其证据审查而开发的一套设计标准；具体审查时，这套标准必须与 WWC 的审查协议（review protocols）和 SCD Review Guide 一起使用，不能孤立理解（Hitchcock et al., 2015, pp.460–461）。
 >
-> 因此，SCD 条目应承担方法层面的定[[Rightness|义]]与效度逻辑，SCD Pilot Standards 条目则承担 WWC 制度化审查层面的规则说明。SCD Pilot Standards 主要回答"哪些 SCD 研究具有足够内部效度，可以进入 WWC 后续证据综合"；而 WWC 的审查协议和 SCD Review Guide 进一步规定具体审查问题、目标人群、结果领域、场所，并系统记录参与者、场所、基线、干预条件、实施者培训和干预忠实度等推广性信息（Hitchcock et al., 2015, pp.461, 464–466）。
+> 因此，SCD 条目应承担方法层面的定义与效度逻辑，SCD Pilot Standards 条目则承担 WWC 制度化审查层面的规则说明。SCD Pilot Standards 主要回答"哪些 SCD 研究具有足够内部效度，可以进入 WWC 后续证据综合"；而 WWC 的审查协议和 SCD Review Guide 进一步规定具体审查问题、目标人群、结果领域、场所，并系统记录参与者、场所、基线、干预条件、实施者培训和干预忠实度等推广性信息（Hitchcock et al., 2015, pp.461, 464–466）。
 
 ## 政策文本摘要
 
@@ -70,7 +70,7 @@ updated: '2026-05-18'
 > 一个系统化数据库工具，训练有素且经认证的审查员使用它来（Hitchcock et al., 2015, pp.464–465）：
 >
 > - 记录研究的场所、设计、参与者特征和样本量
-> - 记录因变量的操作性定[[Rightness|义]]和测量方法
+> - 记录因变量的操作性定义和测量方法
 > - 记录基线和干预条件（会话次数、干预时长）
 > - 记录实施者和培训、干预忠实度
 > - 通过视觉分析评估实验控制
@@ -105,7 +105,7 @@ updated: '2026-05-18'
 > Hitchcock et al. (2015) 整篇评论的核心论点是澄清一个误解：Maggin et al. (2013) 在比较 7 种 [[21st Century Skills and Competencies Discourse|SCD]] 评估量规时，仅审查了 [[Single-Case Design (SCD)|SCD]] 设计标准文件本身，得出了"[[What Works Clearinghouse (WWC)|WWC]] 标准未捕获推广性细节"的结论。Hitchcock 等回应：
 >
 > 1. WWC 设计标准**不能孤立看待**——它们必须与审查协议和 SCD Review Guide 一起理解（p.461）
-> 2. Review Guide 系统地捕获了 Maggin et al. (2013) 列出的所有推广性标准：基线描述、因变量操作性定[[Rightness|义]]、自变量描述、参与者描述、场所描述（p.465, Table 1）
+> 2. Review Guide 系统地捕获了 Maggin et al. (2013) 列出的所有推广性标准：基线描述、因变量操作性定义、自变量描述、参与者描述、场所描述（p.465, Table 1）
 > 3. 推广性细节**不被评分**（即不设"是否足够好"的阈值）而是**被详细描述**，以便消费者自行判断（p.466）
 > 4. 唯一的例外是 5-3-20 规则，它提供了证据是否被充分重复的阈值（p.466）
 
@@ -142,7 +142,7 @@ updated: '2026-05-18'
 ## 相关概念／政策
 
 > [!example] 相关概念／政策
-> - [[Single-Case Design (SCD)]] — [[21st Century Skills and Competencies Discourse|SCD]] 是被该标准审查的方法本体；[[What Works Clearinghouse (WWC)|WWC]] SCD Pilot Standards 2010 是其在 WWC 审查体系中的制度化标准，而非 SCD 的完整定[[Rightness|义]]（Hitchcock et al., 2015, pp.459–461）
+> - [[Single-Case Design (SCD)]] — [[21st Century Skills and Competencies Discourse|SCD]] 是被该标准审查的方法本体；[[What Works Clearinghouse (WWC)|WWC]] SCD Pilot Standards 2010 是其在 WWC 审查体系中的制度化标准，而非 SCD 的完整定义（Hitchcock et al., 2015, pp.459–461）
 > - [[5-3-20 Rule]] — 标准中定义的证据充分性阈值
 > - [[Gating Procedure]] — 标准实施中采用的系统综述策略
 > - [[What Works Clearinghouse (WWC)]] — SCD Pilot Standards 是 WWC 证据审查系统中专门用于 SCD 研究的技术标准，而非独立机构或完整手册（Hitchcock et al., 2015, pp.459–461）

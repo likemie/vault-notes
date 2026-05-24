@@ -36,7 +36,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Performativity of Measurement（测量的生产性）是指：测量不仅仅是描述世界的中立行为，更是制造世界的生产性行为。measurement 一旦启动，就作用于世界，改变优先事项、影响行为、政策和实践（Gorur, 2014, p.7, 17–18）。
 >
 > > "As soon as the measurement exercise begins, it acts upon the world, changing priorities and influencing behaviours, policies and practices."（Gorur, 2014, p.7）
@@ -67,7 +67,7 @@ updated: '2026-05-18'
 > - 描述之前需要生产：世界必须先被改变才能变得可描述（Gorur, 2014, p.15）
 
 
-> [!abstract] 对批判实践的意[[Rightness|义]]
+> [!abstract] 对批判实践的意义
 > 如果测量是 productive 而非 descriptive，那么对测量的批判就不仅仅是认识论练习，而是政治论和存在论（ontological）的干预，是一种道德事业（Gorur, 2014, p.18）。
 
 ## 与相关概念的区别
@@ -92,7 +92,7 @@ updated: '2026-05-18'
 > OECD 指标的 performativity 表现在多个层面（Gorur, 2014）：
 > - 指标成为政策制定者、媒体、公众理解教育的默认框架
 > - 各国基于比较排名调整政策，即使排名基于充满妥协的数据
-> - 指标删除遭遇强烈抵制（"它就像[[Sage|圣]]经"——OECD 官员访谈，Gorur, 2014, p.17）
+> - 指标删除遭遇强烈抵制（"它就像圣经"——OECD 官员访谈，Gorur, 2014, p.17）
 > - [[Education at a Glance (EAG)|EAG]] 团队承认对媒体说的话必须简化到不再准确的程度，因为复杂真相无法被理解（OECD 官员访谈，Gorur, 2014, p.15）
 
 
@@ -109,7 +109,7 @@ updated: '2026-05-18'
 > - OECD 同时推崇两种相互矛盾的测量与治理逻辑：(1) 将学校从科层制转变为专业实践共同体的"最佳实践"话语；(2) 新公共管理的外部控制和绩效问责话语
 > - 二者并非相互替代，而是**并行运作**——构成测量既是赋权工具又是控制工具的矛盾现象
 >
-> **教育语言侵蚀**（Møller, 2017, p.382）：教育中新管理主[[Rightness|义]]语言的采纳可能"侵蚀关于公民教育和社会正义的更广泛的长期讨论"（Møller, 2017, p.382, citing Møller, 2007）
+> **教育语言侵蚀**（Møller, 2017, p.382）：教育中新管理主义语言的采纳可能"侵蚀关于公民教育和社会正义的更广泛的长期讨论"（Møller, 2017, p.382, citing Møller, 2007）
 >
 > **问责制的双重标准**（Møller, 2017, p.382-383）：Henig (2013: xi) 指出："将问责体系写入立法和官僚实践的速度超越了支持它的证据——尽管问责体系的设计者同时也是科学本位决策的声援者。"这构成了 performativity 的一个独特案例：测量系统本身规避了其要求他人接受的证据标准。
 
@@ -175,7 +175,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Visible Learning]] — McKnight & Whitburn (2020) 论证 VL 是"新管理全景监狱主[[Rightness|义]]"的完美工具，其隐喻本身就是施行性装置
+> - [[Visible Learning]] — McKnight & Whitburn (2020) 论证 VL 是"新管理全景监狱主义"的完美工具，其隐喻本身就是施行性装置
 > - [[Visible Learning Branding and Global Influences]] — VL 商业产品（workshops、认证、Visible Classroom App）是 performativity 在商业层面的制度化体现
 > - [[Victorian HITS and Literacy Toolkit 2017]] — Johnson & Janzen (2023) 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
 > - [[Education at a Glance (EAG)]] — Gorur (2014) 的核心案例，OECD 指标的 performativity 如何在政策层面制造世界

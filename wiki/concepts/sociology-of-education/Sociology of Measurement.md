@@ -27,7 +27,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Sociology of Measurement（测量社会学）是 Steve Woolgar 提出的分析框架，将 measurement 视为一种"技术"（technology），关注测量的两个关键维度：instrumentalism（工具主义——事物如何被"弄到能用"的实用操作）与 performativity（施行性——测量不只是描述世界，更是制造世界）（Gorur, 2014, p.6–7）。
 >
 > > 测量社会学关注"测量实践的工具主义（使事物在实用意义上'运作'的方式）以及仪器的使用"（Woolgar, 1991b; Gorur, 2014, p.6–7）
@@ -42,7 +42,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] Instrumentalism（工具主[[Rightness|义]]）
+> [!abstract] Instrumentalism（工具主义）
 > 关注测量实践中如何解决实际问题——约束如何被处理、利益如何被翻译、分类如何被定义、框架如何被协商、方法如何被建立、协议如何被制定。Gorur 以 [[International Indicators of Education Systems (INES)|INES]] 为案例展示了：面对技术不可行性，科学家放弃理论模型，采用以可用性为导向的经验方法（Gorur, 2014, p.8–12）。
 
 

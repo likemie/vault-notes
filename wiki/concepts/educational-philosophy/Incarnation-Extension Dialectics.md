@@ -25,7 +25,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Incarnation-Extension Dialectics（具身化-扩展辩证法）是 [[Steen Nepper Larsen]] (2019) 提出的概念框架，作为对 [[Visible Learning]] 范式的替代方案，描述学习过程中身体具身化（incarnation）与心智扩展（extension）之间的双向运动。
 >
 > > "Every time you learn something, you, both consciously and unconsciously, both visibly and invisibly, incarnate it in your bodily being and not only in your 'inner' mental cognitive structure. And every time you incarnate something that is worthy of incarnation, you extend your bodily and mental synthesis."（Larsen, 2019, p.9-10）
@@ -42,14 +42,14 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - **Thomas Fuchs 的身体[[Phenomenology|现象学]]** — 人类运动可被描述为具身的、嵌入的、施行的（embodied, embedded, enacted）知识和经验，通过具身化-扩展辩证法的形式表达和感知（Larsen, 2019, p.10）
-> - **Fuchs & de Jaegher (2009)** 的参与式意[[Rightness|义]]建构（participatory sense-making）和相互具身化（mutual incorporation）概念（Larsen, 2019, p.10）
+> - **Fuchs & de Jaegher (2009)** 的参与式意义建构（participatory sense-making）和相互具身化（mutual incorporation）概念（Larsen, 2019, p.10）
 > - **Maxine Sheets-Johnstone** 的身体转向（corporeal turn）跨学科研究（Larsen, 2019, p.10）
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
 > - **vs [[Visible Learning]]** — VL 将学习简化为可测量的结果和[[Effect Size|效应量]]；具身化-扩展辩证法强调学习是具身的、存在的、不可直接[[Observational and Correlational Research|观察]]的过程
-> - **vs [[Bildung]]** — Larsen 将该辩证法定位为复兴 Bildung 概念的一种尝试——"从侧翼"更新被广泛滥用、极其不清晰且语[[Rightness|义]]上几乎被耗尽的"学习"概念（Larsen, 2019, p.10）
+> - **vs [[Bildung]]** — Larsen 将该辩证法定位为复兴 Bildung 概念的一种尝试——"从侧翼"更新被广泛滥用、极其不清晰且语义上几乎被耗尽的"学习"概念（Larsen, 2019, p.10）
 > - **vs 认知学习理论** — 传统认知理论将学习定位于心智内部；具身化-扩展辩证法将学习重新定位于身体存在和生命经验的整体中
 
 ## 来源

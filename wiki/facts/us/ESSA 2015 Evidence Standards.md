@@ -32,7 +32,7 @@ updated: '2026-05-23'
 ## 概述
 
 > [!info] 概述
-> The **Every Student Succeeds Act (ESSA)** 于 2015 年 12 月由奥巴马总统签署成为法律，取代了 2001 年的 No Child Left Behind Act ([[No Child Left Behind Act 2001|NCLB]])，作为美国联邦教育的主法。ESSA 在联邦法律中定[[Rightness|义]]了教育项目的证据层级，并将部分联邦拨款与使用达到证据标准的项目绑定。
+> The **Every Student Succeeds Act (ESSA)** 于 2015 年 12 月由奥巴马总统签署成为法律，取代了 2001 年的 No Child Left Behind Act ([[No Child Left Behind Act 2001|NCLB]])，作为美国联邦教育的主法。ESSA 在联邦法律中定义了教育项目的证据层级，并将部分联邦拨款与使用达到证据标准的项目绑定。
 >
 > > ESSA requires that low-achieving schools seeking school improvement grants adopt programs that meet one of the three definitions. (Slavin, 2019, p. 3)
 
@@ -83,7 +83,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 
 ## 历史意义
 
-> [!success] 历史意[[Rightness|义]]
+> [!success] 历史意义
 > - ESSA 首次将联邦拨款与具体的项目级有效性证据绑定——从此 "evidence-based" 从理念变为有法律强制力的政策杠杆
 > - 推动创建了 Evidence for ESSA（JHU 平台，月活 70,000+），直接面向教育领导者报告哪些项目满足 ESSA 标准
 > - 取代了 [[No Child Left Behind Act 2001|NCLB]] 不受欢迎的"适当年度进步"（AYP）问责框架，将政策重心从"惩罚低绩效学校"转向"为低绩效学校提供经过验证的改进方案"

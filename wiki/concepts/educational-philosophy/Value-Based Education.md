@@ -28,7 +28,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 价值本位教育（Value-Based Education）是 Biesta (2010) 提出的教育取向，作为[[Evidence-Based Education|证据本位教育]]的替代。其核心主张是：**价值先于证据**——教育实践的方向来自关于教育目的的规范性判断，关于"什么有效"的手段性问题始终从属于"我们想要达成什么"的目的性问题。
 >
 > > "Calling the idea of value-based education an alternative, is not meant to suggest that evidence plays no role at all in value-based education but is to highlight that its role is subordinate to the values that constitute practices as educational practices." (Biesta, 2010, p. 492)
@@ -77,7 +77,7 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - **vs [[Evidence-Based Education]]** — 证据本位教育将手段问题（效果）置于首位；价值本位教育将目的问题（方向）置于首位。前者可能成为"没有方向的有效性"；后者要求方向先于有效性
 > - **vs Values Education（价值观教育）** — 价值观教育是向学生传授特定价值观；价值本位教育是关于**教育实践本身的规范性基础**，而非课程内容
-> - **vs [[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice）** — 证据知情实践是证据本位教育的弱化版；价值本位教育不是弱化证据的角色，而是**重新定[[Rightness|义]]**证据与价值的关系——证据从主角变为配角
+> - **vs [[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice）** — 证据知情实践是证据本位教育的弱化版；价值本位教育不是弱化证据的角色，而是**重新定义**证据与价值的关系——证据从主角变为配角
 
 ## 理论基础
 
@@ -100,7 +100,7 @@ updated: '2026-05-18'
 > [!warning] 实操化的困难
 > 从"[[Evidence-Based Education|证据本位教育]]"转向"价值本位教育"的路径不明确。对于一线教师而言，这意味着什么具体变化？
 >
-> - **Biesta 的立场**：价值本位教育是一个**定位性概念**（orienting concept）而非操作性指南——它的作用是重新定[[Rightness|义]]证据与价值的关系，而非提供新的课堂技术。（Biesta, 2010, p. 501）
+> - **Biesta 的立场**：价值本位教育是一个**定位性概念**（orienting concept）而非操作性指南——它的作用是重新定义证据与价值的关系，而非提供新的课堂技术。（Biesta, 2010, p. 501）
 > - **批评者的立场**：如果概念不能转化为教师教育、课堂实践和教育政策层面的具体变化，其影响将仅限于学术界内部。
 >
 > **目前状态**：持续争论；部分教育哲学课程已整合 Biesta 框架（尤其在北欧和英国），但尚未产生大规模的课堂实践变革。

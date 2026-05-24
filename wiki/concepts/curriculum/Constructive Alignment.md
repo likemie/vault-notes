@@ -25,7 +25,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 建构性对齐（Constructive Alignment）是 [[John Biggs]] (1996, 2003) 提出的课程设计原则，包含两个前提：
 >
 > 1. **建构性前提**：学生通过他们所做的学习活动来建构意义（students construct meaning from what they do to learn）

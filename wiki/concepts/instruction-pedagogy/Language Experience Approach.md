@@ -28,7 +28,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > Language Experience Approach（LEA，语言经验法）是一种早期读写教学方法，由 R.V. Allen（1964）系统阐述。Allen（1964, p.60）简述其为"将阅读和其他沟通技能在教学中整合在一起的方法"（O'Connor, 2020, p.144）。
 
 ## 核心主张

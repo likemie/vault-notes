@@ -24,7 +24,7 @@ updated: 2026-05-20
 ## 定义
 
 > [!info]
-> 自我企业家（self-entrepreneur / entrepreneurial self）是 Bröckling（2015）在 Foucault [[Governmentality|治理术]]理论脉络中提出的新自由主[[Rightness|义]]主体性概念，指个体将自身视为一个需要持续投资、优化和营销的企业。这种主体性不以具体技能的掌握为核心，而是以**自我引导的模式**（modes of self-conduct）——即主体性本身——作为生产的来源（Reed, 2009, p.33, cit. by Zelinka, 2022, p.261）。
+> 自我企业家（self-entrepreneur / entrepreneurial self）是 Bröckling（2015）在 Foucault [[Governmentality|治理术]]理论脉络中提出的新自由主义主体性概念，指个体将自身视为一个需要持续投资、优化和营销的企业。这种主体性不以具体技能的掌握为核心，而是以**自我引导的模式**（modes of self-conduct）——即主体性本身——作为生产的来源（Reed, 2009, p.33, cit. by Zelinka, 2022, p.261）。
 
 在 21 世纪技能与素养话语的语境中，自我企业家代表了一种以**[[Employability|就业力]]和市场为导向**的主体性（Zelinka, 2022, p.260）。这种主体性正在全球范围内成为一种"心灵景观"（mindscape）——一种新型文化（Moisio & Kangas, 2016, p.275）。
 
@@ -33,7 +33,7 @@ updated: 2026-05-20
 > [!abstract]
 > Zelinka（2022, p.261）在分析 21 世纪技能话语时，将自我企业家的运作机制概括为：
 
-**自我实现与自我责任化**。个体有[[Rightness|义]]务获取新能力并扩展现有能力，将结构性问题的解决负担转移到个体身上（Parreira do Amaral & Zelinka, 2019）。
+**自我实现与自我责任化**。个体有义务获取新能力并扩展现有能力，将结构性问题的解决负担转移到个体身上（Parreira do Amaral & Zelinka, 2019）。
 
 **意愿作为生产要素**。主体只有在承认并强化其自我企业家主体性、展现对增长的激情和加速意愿时才有价值（Vostal, 2016）。个体的"意愿"和"激情"——即他们持续获取新技能的承诺，无论其实际用途——成为新的生产要素。
 

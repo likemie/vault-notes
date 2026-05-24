@@ -28,7 +28,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定[[Rightness|义]]
+> [!info] 定义
 > 复杂性化简（Complexity Reduction）是由 Biesta (2010) 引入的概念，指通过在系统中减少元素可用选项的数量，使原本作为开放、递归、符号系统的社会情境变得**更可预测和可控制**。它解释了为何在非决定论的社会领域中某些事物仍然"能运作"（things can work）——但代价是权力的行使。
 >
 > > "Complexity reduction has to do with the reduction of the number of available options for action for the elements of a system." (Biesta, 2010, p. 497)
@@ -95,7 +95,7 @@ updated: '2026-05-18'
 > - **Biesta 的立场**：复杂性化简作为政治行为的定性，重点在于揭示权力运作而非提供操作指南。（Biesta, 2010, p. 498）
 > - **批评者的立场**：若不能区分合法的与权力的化简，概念的政治批判力大打折扣——任何教育行为都可被表述为"权力"，导致分析模糊。
 >
-> **目前状态**：概念层面的持续讨论；Biesta 在后续著作（2017, *The Rediscovery of Teaching*）中以"成[[Shu (Familiarization)|熟]]的教育判断"概念间接回应，但复杂性化简框架本身并未系统解决这一问题。
+> **目前状态**：概念层面的持续讨论；Biesta 在后续著作（2017, *The Rediscovery of Teaching*）中以"成熟的教育判断"概念间接回应，但复杂性化简框架本身并未系统解决这一问题。
 
 
 > [!warning] 概念的过度延伸风险

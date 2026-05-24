@@ -76,7 +76,7 @@ updated: '2026-05-18'
 
 > [!tip]
 > - [[Geopolitics of Knowledge]] — 白皮书体现了知识地缘政治在国家政策层面的运作：国家通过战略投资将自身定位为知识流动网络中的核心节点
-> - [[Internationalization of Higher Education]] — 白皮书是澳大利亚高等教育国际化从发展主[[Rightness|义]]理性转向市场理性的政策标志
+> - [[Internationalization of Higher Education]] — 白皮书是澳大利亚高等教育国际化从发展主义理性转向市场理性的政策标志
 
 ## 来源
 
