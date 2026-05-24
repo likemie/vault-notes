@@ -12,6 +12,8 @@ tags:
 - region/finland
 - level/k12
 related_concepts:
+  - "[[Tongxue]]"
+  - "[[Champ]]"
   - "[[Problem-Based Learning]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
@@ -20,14 +22,17 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Radical Constructivism]]"
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Philosophical Analysis in Education]]"
 related_persons:
   - "[[Wolfgang Klafki]]"
 related_facts:
   - "[[Finnish National Core Curriculum 2014]]"
   - "[[SveaSus Project]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

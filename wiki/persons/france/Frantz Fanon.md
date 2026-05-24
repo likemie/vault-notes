@@ -14,12 +14,12 @@ tags:
 - postcolonial-studies
 - psychiatry
 related_concepts:
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Rightness]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Production]]"
   - "[[Forced Knowledge Transfer]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
 related_persons:
   - "[[Chen Kuan-Hsing]]"

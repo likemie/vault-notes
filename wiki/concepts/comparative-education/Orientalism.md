@@ -12,11 +12,22 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Knowledge Production]]"
   - "[[Chinese Learner]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Tongxue]]"
+  - "[[International Education]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[International Schools]]"
+  - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[Doxa]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Critical Geopolitics]]"
+  - "[[Hegemony]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Frantz Fanon]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Ryan_2010_ChineseLearner]]"

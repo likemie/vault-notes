@@ -17,7 +17,6 @@ tags:
 - theme/geopolitics
 related_concepts:
   - "[[International Education Hubs]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
 related_theories: []

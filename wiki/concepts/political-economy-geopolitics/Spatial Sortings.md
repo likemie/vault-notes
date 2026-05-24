@@ -14,15 +14,17 @@ tags:
 - region/global
 related_concepts:
   - "[[Knowledge-Based Economization]]"
-  - "[[Rightness]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Geopolitical Subject]]"
   - "[[International Education Hubs]]"
+  - "[[Cultural Diplomacy]]"
   - "[[Hub and Flow Imaginaries]]"
+  - "[[Flow]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Sami Moisio]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"

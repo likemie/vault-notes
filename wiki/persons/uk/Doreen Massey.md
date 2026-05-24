@@ -11,19 +11,19 @@ tags:
 - field/higher-education
 related_concepts:
   - "[[Multiplicity (Massey)]]"
-  - "[[Power-Geometries]]"
-  - "[[Shu (Familiarization)]]"
+  - "[[Space-Making in Higher Education]]"
   - "[[Methodological Nationalism]]"
+  - "[[Power-Geometries]]"
   - "[[Classical Geopolitics]]"
-  - "[[Rightness]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Scale in Higher Education]]"
-  - "[[Space-Making in Higher Education]]"
-related_theories: []
+related_theories:
+  - "[[World-Systems Theory]]"
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Marginson_2025_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-12'

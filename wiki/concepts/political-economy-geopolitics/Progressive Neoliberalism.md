@@ -11,8 +11,8 @@ tags:
 - silicon-valley-worldview
 - region/global
 related_concepts:
-  - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Spatial Sortings]]"
 related_theories: []
 related_methods: []

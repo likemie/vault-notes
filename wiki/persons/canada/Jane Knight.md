@@ -13,7 +13,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[International Education Hubs]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[Rightness]]"
   - "[[Knowledge Production]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Cultural Diplomacy]]"

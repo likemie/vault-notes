@@ -13,15 +13,21 @@ tags:
 - region/switzerland
 - paradigm/positivist
 related_concepts:
+  - "[[International Education]]"
   - "[[Performance Indicators]]"
-related_theories: []
-related_methods: []
+  - "[[Internationalization of Higher Education]]"
+related_theories:
+  - "[[Science and Technology Studies (STS)]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Gorur_2014_Discourse]]"
 related_facts:
-  - "[[International Indicators of Education Systems (INES)]]"
   - "[[Education at a Glance (EAG)]]"
+  - "[[International Indicators of Education Systems (INES)]]"
+  - "[[PISA]]"
 confidence: high
 status: draft
 created: '2026-05-01'

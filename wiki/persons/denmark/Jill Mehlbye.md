@@ -10,12 +10,15 @@ tags:
 - effective-teaching
 - region/denmark
 related_concepts:
+  - "[[Classroom Management]]"
   - "[[Effective Teaching]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Laursen_2015_Paideia]]"
 related_facts:
   - "[[SFI Report 2013]]"
 confidence: low

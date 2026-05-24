@@ -11,6 +11,9 @@ tags:
   - level/k12
   - region/sweden
 related_concepts:
+  - "[[Feedback]]"
+  - "[[Classroom Management]]"
+  - "[[Tongxue]]"
   - "[[Direct Instruction]]"
   - "[[Individualised Instruction]]"
 related_theories: []

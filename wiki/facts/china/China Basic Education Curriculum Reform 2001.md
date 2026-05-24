@@ -14,6 +14,8 @@ tags:
 - level/k12
 - policy/curriculum-reform
 related_concepts:
+  - "[[Student-Teacher Relationship]]"
+  - "[[Feedback]]"
   - "[[Chinese Learner]]"
   - "[[Stereotype Threat]]"
 related_theories: []

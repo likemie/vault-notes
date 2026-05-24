@@ -12,19 +12,22 @@ tags:
 - level/k12
 related_concepts:
   - "[[Executive Function]]"
-related_theories: []
+  - "[[Prefrontal Cortex]]"
+related_theories:
+  - "[[Piaget's Theory of Cognitive Development]]"
 related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons:
+  - "[[Jean Piaget]]"
+  - "[[John Hattie]]"
   - "[[Juan Pascual-Leone]]"
   - "[[Robbie Case]]"
   - "[[Kurt Fischer]]"
-  - "[[Jean Piaget]]"
-  - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Bolton_2017_ArchPsych]]"
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

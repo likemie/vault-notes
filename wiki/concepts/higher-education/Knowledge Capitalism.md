@@ -12,6 +12,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
 related_theories: []

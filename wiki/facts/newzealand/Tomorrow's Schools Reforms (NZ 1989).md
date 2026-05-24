@@ -13,17 +13,23 @@ tags:
 - region/new-zealand
 - level/k12
 related_concepts:
+  - "[[Feedback]]"
   - "[[Educational Management Organisation (EMO)]]"
   - "[[Network Governance]]"
   - "[[School Autonomy]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
+  - "[[Cognition Education (NZ)]]"
   - "[[Contestable School Support Services (NZ 2011)]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[ONeill_2016_Report]]"
+  - "[[Sarbiewska_2019_JSR]]"
+  - "[[Johnson_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

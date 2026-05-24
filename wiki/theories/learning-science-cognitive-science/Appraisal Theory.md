@@ -14,11 +14,11 @@ tags:
   - theme/cognition
   - theory/appraisal
 related_concepts:
-  - "[[Rightness]]"
-  - "[[Shame (Confucianism)]]"
   - "[[Cultural Models]]"
+  - "[[Pride in Learning]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

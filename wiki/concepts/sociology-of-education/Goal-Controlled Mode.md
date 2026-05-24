@@ -11,23 +11,25 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[Academic Engagement]]"
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Symbolic Boundary]]"
+  - "[[Cultural Capital]]"
   - "[[Self-Authorship]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunist Mode]]"
-  - "[[Cultural Capital]]"
   - "[[Academic and Social Integration]]"
   - "[[Student Engagement]]"
-  - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Graduation Pathway Typology (Zheng)]]"
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory in Education]]"
-related_methods: []
+related_methods:
+  - "[[Matching]]"
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"

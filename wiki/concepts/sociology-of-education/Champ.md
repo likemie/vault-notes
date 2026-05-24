@@ -15,10 +15,7 @@ tags:
 - region/france
 - level/higher-ed
 related_concepts:
-  - "[[Rightness]]"
   - "[[Habitus]]"
-  - "[[Shu (Familiarization)]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Doxa]]"
   - "[[School Leadership]]"
   - "[[Knowledge Production]]"
@@ -31,8 +28,8 @@ related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
-  - "[[Max Weber]]"
   - "[[Yajun Zheng]]"
+  - "[[Max Weber]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []

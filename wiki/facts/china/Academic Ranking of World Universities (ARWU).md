@@ -18,11 +18,13 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Global Universities Rankings]]"
+  - "[[Champ]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[OECD AHELO Project]]"
+  - "[[PISA]]"
 related_arguments: []
 sources: []
 confidence: medium

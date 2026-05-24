@@ -14,6 +14,7 @@ tags:
   - region/belgium
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"
@@ -25,7 +26,8 @@ related_facts:
   - "[[Pact for Educational Excellence]]"
 related_arguments:
   - "[[Argument_Dachet_2021_ROE]]"
-sources: []
+sources:
+  - "[[Dachet_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-24

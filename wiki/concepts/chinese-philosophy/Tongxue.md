@@ -15,9 +15,7 @@ tags:
   - theme/peer-culture
   - theme/learning-model
 related_concepts:
-  - "[[Rightness]]"
   - "[[Class Size]]"
-  - "[[Shame (Confucianism)]]"
   - "[[Zero-Sum Competition (School)]]"
 related_theories: []
 related_methods: []

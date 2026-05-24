@@ -14,20 +14,31 @@ tags:
 - paradigm/constructivist
 related_concepts:
   - "[[Sociology of Measurement]]"
+  - "[[Knowledge Production]]"
+  - "[[International Education]]"
   - "[[Atomisation of Knowledge and Skills]]"
-  - "[[Visible Learning]]"
-  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[School Leadership]]"
   - "[[New Public Management]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[Neo-Taylorism in Educational Administration]]"
 related_theories:
   - "[[Science and Technology Studies (STS)]]"
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
+  - "[[John Locke]]"
 related_facts:
+  - "[[Education at a Glance (EAG)]]"
   - "[[Victorian HITS and Literacy Toolkit 2017]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[Education at a Glance (EAG)]]"
+  - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Gorur_2014_Discourse]]"
+  - "[[McKnight_2020_Discourse]]"
+  - "[[Johnson_2023_CE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

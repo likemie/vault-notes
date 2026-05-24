@@ -11,18 +11,21 @@ tags:
 - what-works-clearinghouse
 - internal-validity
 related_concepts:
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[5-3-20 Rule]]"
-  - "[[Rightness]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design (SCD)]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse (WWC)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Hitchcock_2015_JBE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

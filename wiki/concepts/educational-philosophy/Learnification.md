@@ -8,15 +8,20 @@ tags:
 - learnification
 - stance/critique
 related_concepts:
+  - "[[Effect Size]]"
   - "[[Visible Learning]]"
   - "[[Bildung]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Gert Biesta]]"
+  - "[[Wolfgang Klafki]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

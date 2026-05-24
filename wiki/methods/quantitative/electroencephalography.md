@@ -13,8 +13,8 @@ tags:
 - neuroscience
 - paradigm/positivist
 related_concepts:
-  - "[[Executive Function]]"
   - "[[Prefrontal Cortex]]"
+  - "[[Executive Function]]"
 related_theories: []
 related_methods:
   - "[[Functional Magnetic Resonance Imaging]]"
@@ -22,7 +22,8 @@ related_persons:
   - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Bolton_2017_ArchPsych]]"
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

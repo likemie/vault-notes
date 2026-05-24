@@ -23,7 +23,8 @@ related_methods:
 related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
-sources: []
+sources:
+  - "[[Brady_2023_EPR]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

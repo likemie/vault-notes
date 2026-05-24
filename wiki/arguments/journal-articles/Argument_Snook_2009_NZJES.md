@@ -13,15 +13,26 @@ tags:
 - stance/critique
 - region/new-zealand
 related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[Class Size]]"
+  - "[[Performance Pay]]"
   - "[[Publication Bias]]"
+  - "[[Whole Language]]"
+  - "[[Critic and Conscience of Society]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_methods:
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Tennessee STAR Project 1985-1989]]"
 related_arguments:
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Snook_2010_NZJES]]"
-sources: []
+sources:
+  - "[[Snook_2009_NZJES]]"
+  - "[[Hattie_2010_NZJES]]"
 part_of: ''
 status: draft
 created: '2026-05-03'

@@ -14,13 +14,12 @@ tags:
 - region/us
 - region/uk
 related_concepts:
-  - "[[Rightness]]"
   - "[[School Leadership]]"
-  - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Evidence-Based Education]]"
+  - "[[Effect Size]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[International Education]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Effect Size]]"
   - "[[Professional Judgment]]"
   - "[[Statistical Significance]]"
   - "[[Technology Infusion]]"
@@ -39,22 +38,29 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
 related_persons:
-  - "[[Robert Slavin]]"
   - "[[John Hattie]]"
+  - "[[Robert Slavin]]"
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[Comprehensive School Reform (CSR) Program]]"
-  - "[[No Child Left Behind Act 2001]]"
-  - "[[Investing in Innovation (i3) Program]]"
-  - "[[Best Evidence in Brief (BEiB)]]"
-  - "[[Pact for Educational Excellence]]"
   - "[[Success for All]]"
-  - "[[ECNU Declaration on Evidence-Based Research 2017]]"
+  - "[[Investing in Innovation (i3) Program]]"
   - "[[What Works Clearinghouse (WWC)]]"
   - "[[Best Evidence Encyclopedia (BEE)]]"
+  - "[[No Child Left Behind Act 2001]]"
+  - "[[Best Evidence in Brief (BEiB)]]"
+  - "[[Pact for Educational Excellence]]"
+  - "[[ECNU Declaration on Evidence-Based Research 2017]]"
   - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Slavin_2002_ER]]"
+  - "[[Slavin_2019_EP]]"
+  - "[[Peterson_2016_IJRME]]"
+  - "[[Slavin_2021_ROE]]"
+  - "[[Cheung_2021_ROE]]"
+  - "[[Wadhwa_2024_RER]]"
+  - "[[Pellegrini_2021_ROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

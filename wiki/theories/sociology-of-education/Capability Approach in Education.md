@@ -16,7 +16,6 @@ tags:
 - social-justice
 - philosophy
 related_concepts:
-  - "[[Rightness]]"
   - "[[Global Universities Rankings]]"
 related_theories: []
 related_methods: []

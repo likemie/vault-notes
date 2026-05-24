@@ -12,19 +12,25 @@ tags:
 - region/denmark
 - stance/support
 related_concepts:
+  - "[[Visible Learning]]"
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Structural Coupling]]"
+  - "[[Effect Size]]"
   - "[[Professional Judgment]]"
-  - "[[Visible Learning]]"
 related_theories:
   - "[[Bounded Rationality]]"
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
+  - "[[John Hattie]]"
   - "[[Thomas Aastrup Rømer]]"
+  - "[[Steen Nepper Larsen]]"
 related_arguments:
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
-sources: []
+sources:
+  - "[[Qvortrup_2015_Paideia]]"
+  - "[[Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'

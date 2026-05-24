@@ -14,19 +14,22 @@ tags:
 - region/global
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
-  - "[[Rightness]]"
   - "[[Knowledge Production]]"
+  - "[[Corporate University]]"
   - "[[Knowledge Transfer]]"
   - "[[Hub and Flow Imaginaries]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Knowledge-Based Economization]]"
 related_theories:
   - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons:
-  - "[[Walter Mignolo]]"
   - "[[Arturo Escobar]]"
+  - "[[Walter Mignolo]]"
   - "[[Frantz Fanon]]"
   - "[[Chen Kuan-Hsing]]"
-related_facts: []
+related_facts:
+  - "[[Horizon 2020 SSH Integration]]"
 related_arguments: []
 sources: []
 confidence: low

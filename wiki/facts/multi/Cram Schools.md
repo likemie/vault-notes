@@ -20,7 +20,6 @@ tags:
   - theme/shadow-education
   - theme/academic-pressure
 related_concepts:
-  - "[[Rightness]]"
   - "[[Nerd (School Peer Culture)]]"
   - "[[Examination Hell]]"
 related_theories: []

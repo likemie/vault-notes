@@ -13,19 +13,24 @@ tags:
   - field/postcolonial-studies
   - field/literary-theory
 related_concepts:
-  - "[[Rightness]]"
-  - "[[Shu (Familiarization)]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Corporate University]]"
   - "[[Knowledge Production]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Corporate University]]"
+  - "[[Life Power]]"
+  - "[[Social Museology]]"
+  - "[[Champ]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
+  - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Critical Geopolitics]]"
 related_methods:
   - "[[Ganz-Methode]]"
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Dell Delambre]]"
   - "[[Arturo Escobar]]"
+  - "[[Chen Kuan-Hsing]]"
 related_arguments: []
 sources: []
 confidence: medium

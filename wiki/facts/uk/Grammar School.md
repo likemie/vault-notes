@@ -21,7 +21,8 @@ related_facts:
   - "[[Selective Schools Expansion Fund 2018]]"
   - "[[Education and Inspections Act 2006]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Bainbridge_2022_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

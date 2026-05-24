@@ -15,17 +15,17 @@ tags:
 - field/comparative-education
 - theme/learning
 related_concepts:
-  - "[[Shame (Confucianism)]]"
-  - "[[Junzi]]"
-  - "[[Ren]]"
-  - "[[Humility in Learning]]"
-  - "[[Rightness]]"
-  - "[[Li (Propriety)]]"
+  - "[[Fourth Culture]]"
   - "[[University Motto]]"
+  - "[[Junzi]]"
+  - "[[Humility in Learning]]"
+  - "[[Li (Propriety)]]"
+  - "[[Chinese Learner]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
-  - "[[Chinese Learner]]"
-related_theories: []
+  - "[[Feedback]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons:
   - "[[Confucius]]"

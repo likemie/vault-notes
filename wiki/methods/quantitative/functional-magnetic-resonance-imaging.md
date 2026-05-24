@@ -21,7 +21,8 @@ related_persons:
   - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Bolton_2017_ArchPsych]]"
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

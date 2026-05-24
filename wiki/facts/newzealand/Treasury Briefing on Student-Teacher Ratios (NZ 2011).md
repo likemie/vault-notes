@@ -16,9 +16,14 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Class Size]]"
   - "[[Material Fallacies]]"
+  - "[[Effect Size]]"
+  - "[[Cult of the Guru]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
   - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
 related_arguments: []

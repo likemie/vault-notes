@@ -24,6 +24,10 @@ related_methods:
 related_persons:
   - "[[Socrates]]"
   - "[[Plato]]"
+  - "[[René Descartes]]"
+  - "[[John Locke]]"
+  - "[[George Berkeley]]"
+  - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
 sources: []

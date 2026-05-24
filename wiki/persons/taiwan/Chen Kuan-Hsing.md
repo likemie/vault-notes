@@ -12,6 +12,7 @@ tags:
 - deimperialization
 - decolonization
 related_concepts:
+  - "[[Knowledge Production]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
 related_theories: []

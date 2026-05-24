@@ -10,13 +10,16 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Surface and Deep Learning]]"
+  - "[[Feedback]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[John Biggs]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Hattie_2015_SOTLP]]"
 confidence: low
 status: draft
 created: '2026-05-04'

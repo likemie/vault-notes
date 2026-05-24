@@ -11,15 +11,17 @@ tags:
 - causal-inference
 - subject/research-methodology
 related_concepts:
-  - "[[Cluster Randomized Trials]]"
   - "[[Potential Outcomes Framework]]"
+  - "[[Cluster Randomized Trials]]"
+  - "[[Confidence Interval]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Berk_2011_ER]]"
 confidence: low
 status: draft
 created: '2026-05-03'

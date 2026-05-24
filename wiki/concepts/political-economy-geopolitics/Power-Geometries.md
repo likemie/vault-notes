@@ -15,14 +15,17 @@ related_concepts:
   - "[[Multiplicity (Massey)]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Production]]"
 related_theories:
   - "[[World-Systems Theory]]"
 related_methods: []
 related_persons:
   - "[[Doreen Massey]]"
-related_facts: []
+related_facts:
+  - "[[Academic Ranking of World Universities (ARWU)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Marginson_2025_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-13'

@@ -18,18 +18,25 @@ related_concepts:
   - "[[Theories of Policy Change]]"
   - "[[Selectivity]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Production]]"
   - "[[Regulatory Regionalism]]"
+  - "[[Doxa]]"
   - "[[Network Governance]]"
+  - "[[Neocorporatism]]"
   - "[[Spatial Sortings]]"
   - "[[Scientization of Politics]]"
 related_theories:
   - "[[Appraisal Theory]]"
-related_methods: []
+related_methods:
+  - "[[Matching]]"
+  - "[[Comparative Case Study]]"
 related_persons: []
 related_facts:
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
+  - "[[UN Sustainable Development Goals 2015]]"
   - "[[Europe 2020 Strategy]]"
+  - "[[YOUNG_ADULLLT]]"
   - "[[Youth Guarantee Scheme]]"
 related_arguments:
   - "[[Argument_Parreira do Amaral_2022_Springer]]"

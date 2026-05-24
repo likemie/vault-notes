@@ -16,15 +16,21 @@ tags:
 related_concepts:
   - "[[Official Knowledge]]"
   - "[[Membership-Creating Function of Education]]"
+  - "[[Sinicisation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[National Education in Hong Kong]]"
+  - "[[Liberal Studies (Hong Kong)]]"
+  - "[[Citizenship and Social Development (Hong Kong)]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Yu_2024_CE]]"
-sources: []
+sources:
+  - "[[Yan_2025_JCS]]"
+  - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

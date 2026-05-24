@@ -13,12 +13,14 @@ tags:
 - region/denmark
 - level/k12
 related_concepts:
-  - "[[Visible Learning]]"
   - "[[Effective Teaching]]"
+  - "[[Visible Learning]]"
+  - "[[Classroom Management]]"
   - "[[Feedback]]"
   - "[[Individualised Instruction]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
+  - "[[Societies of Control]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
@@ -26,7 +28,8 @@ related_persons:
   - "[[Andreas Helmke]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Laursen_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-05'

@@ -16,10 +16,15 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Visible Learning]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Allerup_2015_Paideia]]"
+  - "[[Terhart_2011_JCS]]"
 confidence: low
 status: draft
 created: '2026-05-05'

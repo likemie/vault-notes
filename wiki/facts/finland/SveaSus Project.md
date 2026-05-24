@@ -14,6 +14,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Phenomenon-Based Learning]]"
+  - "[[Champ]]"
   - "[[Epochal Key Problems]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
@@ -25,7 +26,8 @@ related_persons: []
 related_facts:
   - "[[Finnish National Core Curriculum 2014]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

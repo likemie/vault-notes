@@ -16,7 +16,9 @@ related_theories:
   - "[[World Society Theory]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Liberal Studies (Hong Kong)]]"
+  - "[[Citizenship and Social Development (Hong Kong)]]"
 related_arguments: []
 sources: []
 confidence: medium

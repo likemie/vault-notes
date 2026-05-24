@@ -15,7 +15,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Rightness]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Further Education]]"
   - "[[Corporate Education]]"
@@ -26,7 +25,6 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Spatial Sortings]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[International Schools]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
   - "[[Progressive Neoliberalism]]"

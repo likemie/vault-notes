@@ -13,13 +13,20 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[Graduation Pathway Typology (Zheng)]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Pride in Learning]]"
+  - "[[Habitus]]"
+  - "[[Doxa]]"
   - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Lost Mode]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []

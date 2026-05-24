@@ -12,6 +12,7 @@ tags:
 related_concepts: []
 related_theories: []
 related_methods:
+  - "[[Qualitative Research]]"
   - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Yajun Zheng]]"

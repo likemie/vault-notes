@@ -14,24 +14,26 @@ tags:
   - research-methodology
   - paradigm/positivist
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Recommendations for Practice]]"
+  - "[[Evidence-Based Education]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Classroom Learning Culture]]"
   - "[[Learning-Impeding Behavior]]"
 related_theories: []
 related_methods:
   - "[[Non-intervention Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
+  - "[[Mixed Method and Multi-method Research]]"
   - "[[Causal Modeling]]"
   - "[[Matching]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Lekhal_2015_Paideia]]"
-sources: []
+sources:
+  - "[[Brady_2023_EPR]]"
+  - "[[Lekhal_2015_Paideia]]"
 confidence: medium
 status: draft
 created: 2026-05-05

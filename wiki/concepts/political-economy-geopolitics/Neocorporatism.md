@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Network Governance]]"
   - "[[Selectivity]]"
-  - "[[Rightness]]"
   - "[[Performance Indicators]]"
   - "[[Theories of Policy Change]]"
 related_theories: []

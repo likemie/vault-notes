@@ -12,13 +12,16 @@ tags:
 - evidence-based-reform
 - educational-technology
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Alan C. K. Cheung]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Cheung_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

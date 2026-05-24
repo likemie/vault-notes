@@ -12,9 +12,11 @@ tags:
 related_concepts:
   - "[[Chinese Learner]]"
   - "[[Orientalism]]"
+  - "[[Doxa]]"
   - "[[Meta-Cultural Sensitivity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:

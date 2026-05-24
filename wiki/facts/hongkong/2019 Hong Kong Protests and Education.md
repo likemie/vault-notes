@@ -13,17 +13,20 @@ tags:
 - liberal-studies
 - education-politics
 - region/china
-related_concepts: []
+related_concepts:
+  - "[[Champ]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Liberal Studies (Hong Kong)]]"
+  - "[[Citizenship and Social Development (Hong Kong)]]"
   - "[[Replacement of LS by CSD 2021]]"
   - "[[National Education in Hong Kong]]"
   - "[[National Security Law Impact on Hong Kong Education]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'

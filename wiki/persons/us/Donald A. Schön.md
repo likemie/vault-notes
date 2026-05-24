@@ -15,10 +15,12 @@ related_concepts:
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Technical Rationality]]"
+  - "[[Bounded Rationality]]"
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'

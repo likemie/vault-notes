@@ -21,7 +21,8 @@ related_facts:
   - "[[International Indicators of Education Systems (INES)]]"
   - "[[Education at a Glance (EAG)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Gorur_2014_Discourse]]"
 confidence: high
 status: draft
 created: '2026-05-01'

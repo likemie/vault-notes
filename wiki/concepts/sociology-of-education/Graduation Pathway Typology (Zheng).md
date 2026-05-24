@@ -15,17 +15,17 @@ tags:
 related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Rightness]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunist Mode]]"
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
-  - "[[Jing (Refined Mastery)]]"
-related_theories: []
+related_theories:
+  - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
+  - "[[Max Weber]]"
 related_facts: []
 related_arguments: []
 sources: []

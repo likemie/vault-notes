@@ -6,10 +6,8 @@ type: method
 method_type: qualitative
 tags: ["method/discourse-analysis", "method/critical", "theme/discourse", "theme/global-governance"]
 related_concepts:
-  - "[[Discursive Opportunity Structures]]"
-  - "[[Rightness]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Discursive Opportunity Structures]]"
   - "[[Self-Entrepreneur]]"
 related_theories:
   - "[[Governmentality]]"

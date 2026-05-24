@@ -9,13 +9,21 @@ tags:
 - alan-c-k-cheung
 - region/china
 - region/hongkong
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Reform]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons:
+  - "[[Robert Slavin]]"
   - "[[Chen Xie]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Slavin_2021_ROE]]"
+  - "[[Cheung_2021_ROE]]"
+related_facts:
+  - "[[Best Evidence in Brief (BEiB)]]"
 confidence: low
 status: draft
 created: '2026-05-02'

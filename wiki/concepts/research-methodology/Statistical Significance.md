@@ -12,20 +12,26 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Publication Bias]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Confidence Interval]]"
+  - "[[Publication Bias]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
+  - "[[Observational and Correlational Research]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-related_persons: []
+  - "[[Randomised Controlled Trials]]"
+  - "[[Quasi-Experimental Designs]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Allerup_2015_Paideia]]"
+  - "[[Terhart_2011_JCS]]"
+  - "[[Wadhwa_2024_RER]]"
 confidence: low
 status: draft
 created: '2026-05-05'

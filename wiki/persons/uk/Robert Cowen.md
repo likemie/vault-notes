@@ -11,7 +11,6 @@ tags:
 - region/uk
 related_concepts:
   - "[[Transitology]]"
-  - "[[Rightness]]"
   - "[[International Education]]"
   - "[[Vergegenkunft]]"
 related_theories: []

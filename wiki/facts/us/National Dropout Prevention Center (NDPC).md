@@ -15,14 +15,18 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Champ]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Quasi-Experimental Designs]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wadhwa_2024_RER]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

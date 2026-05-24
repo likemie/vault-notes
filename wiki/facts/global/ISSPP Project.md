@@ -15,8 +15,10 @@ related_concepts:
   - "[[Transformative Leadership]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Christopher Day]]"
+related_facts:
+  - "[[PISA]]"
 related_arguments: []
 sources: []
 confidence: high

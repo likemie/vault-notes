@@ -14,20 +14,25 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Self-Cultivation]]"
+  - "[[Ideal Learner]]"
+  - "[[Jing (Refined Mastery)]]"
   - "[[Take the World Upon Oneself]]"
-  - "[[Ren]]"
-  - "[[Heart and Mind for Wanting to Learn]]"
-  - "[[Cognitive Source]]"
-  - "[[MCC Discourse Analysis Examples]]"
-  - "[[Rightness]]"
+  - "[[Shu (Familiarization)]]"
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"
-  - "[[Shu (Familiarization)]]"
-  - "[[Jing (Refined Mastery)]]"
-related_theories: []
+  - "[[Ren]]"
+  - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Humility in Learning]]"
+  - "[[Pride in Learning]]"
+  - "[[Cognitive Source]]"
+  - "[[MCC Discourse Analysis Examples]]"
+related_theories:
+  - "[[Phenomenology]]"
 related_methods:
   - "[[Prototype Methods]]"
   - "[[Observational and Correlational Research]]"
+  - "[[Mother-Child Conversation (MCC)]]"
 related_persons:
   - "[[Confucius]]"
 related_facts: []

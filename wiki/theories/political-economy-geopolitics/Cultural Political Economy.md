@@ -12,10 +12,13 @@ tags:
 - geopolitics
 - theory/critical
 related_concepts:
+  - "[[Knowledge-Based Economization]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[International Education Hubs]]"
   - "[[Cultural Diplomacy]]"
-related_theories: []
+  - "[[Spatial Sortings]]"
+related_theories:
+  - "[[Critical Realism]]"
 related_methods:
   - "[[Comparative Case Study]]"
 related_persons: []

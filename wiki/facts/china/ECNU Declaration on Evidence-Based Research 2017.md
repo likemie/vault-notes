@@ -12,14 +12,18 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
+  - "[[International Education]]"
+  - "[[Evidence-Based Reform]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Best Evidence in Brief (BEiB)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Slavin_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

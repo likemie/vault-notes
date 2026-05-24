@@ -13,11 +13,18 @@ tags:
 - region/us
 related_concepts:
   - "[[Whole Language]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[George Berkeley]]"
+  - "[[John Hattie]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[OConnor_2020_AJLL]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

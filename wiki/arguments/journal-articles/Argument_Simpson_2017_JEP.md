@@ -13,14 +13,22 @@ tags:
 - methodology
 - region/uk
 related_concepts:
+  - "[[Effect Size]]"
   - "[[Visible Learning]]"
+  - "[[Statistical Significance]]"
+  - "[[Feedback]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Intervention Research]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Simpson_2017_JEP]]"
 part_of: ''
 status: draft
 created: '2026-05-04'

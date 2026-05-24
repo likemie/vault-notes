@@ -17,18 +17,22 @@ tags:
 related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[Social Charter]]"
+  - "[[Champ]]"
   - "[[Employability]]"
-  - "[[Rightness]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Corporate University]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Performance Indicators]]"
 related_theories:
   - "[[Capability Approach in Education]]"
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Pepka Boyadjieva]]"
   - "[[Max Weber]]"
   - "[[Ellen Hazelkorn]]"
 related_facts:
   - "[[Academic Ranking of World Universities (ARWU)]]"
+  - "[[UN Sustainable Development Goals 2015]]"
 related_arguments: []
 sources: []
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'

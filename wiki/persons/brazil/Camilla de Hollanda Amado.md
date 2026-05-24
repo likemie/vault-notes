@@ -10,6 +10,7 @@ tags:
 - field/theater
 - field/community-arts
 related_concepts:
+  - "[[Cultural Capital]]"
   - "[[Epistemology of Resistance]]"
 related_theories:
   - "[[Creative Tension of Sense]]"

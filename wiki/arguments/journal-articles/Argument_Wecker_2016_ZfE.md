@@ -12,14 +12,22 @@ tags:
 - methodology
 - effect-size
 - evidence-based-education
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[School Effectiveness]]"
+  - "[[Confidence Interval]]"
+  - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
+  - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Wecker_2016_ZfE]]"
 part_of: ''
 status: draft
 created: '2026-05-03'

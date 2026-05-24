@@ -12,18 +12,24 @@ tags:
 - colonial-education
 - pedagogy
 related_concepts:
-  - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
-related_theories: []
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Production]]"
+  - "[[Junzi]]"
+related_theories:
+  - "[[Legitimation Theory Van Leeuwen]]"
 related_methods: []
 related_persons:
+  - "[[Paulo Freire]]"
+  - "[[Plato]]"
+  - "[[Confucius]]"
   - "[[Frantz Fanon]]"
   - "[[Chen Kuan-Hsing]]"
   - "[[Jean-François Lyotard]]"
 related_facts:
+  - "[[Kokutai no Hongi (1937)]]"
   - "[[Great Firewall of China]]"
   - "[[China Social Credit System]]"
-  - "[[Kokutai no Hongi (1937)]]"
 related_arguments: []
 sources: []
 confidence: medium

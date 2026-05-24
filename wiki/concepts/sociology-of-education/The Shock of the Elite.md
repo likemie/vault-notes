@@ -12,15 +12,17 @@ tags:
 - social-mobility
 - level/higher-ed
 related_concepts:
+  - "[[Champ]]"
   - "[[Habitus]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Doxa]]"
   - "[[Tongxue]]"
   - "[[Shame (Confucianism)]]"
-  - "[[Champ]]"
-  - "[[Shu (Familiarization)]]"
+  - "[[Intuition-Dependent Mode]]"
   - "[[Goal-Controlled Mode]]"
+  - "[[Cultural Barrier in Higher Education]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
+  - "[[Lost Mode]]"
 related_theories: []
 related_methods: []
 related_persons:

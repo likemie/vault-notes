@@ -21,7 +21,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Schaffar_2024_CogentEdu]]"
 related_facts:
   - "[[Finnish National Core Curriculum 2014]]"
 confidence: medium

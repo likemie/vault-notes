@@ -13,13 +13,14 @@ tags:
 - paradigm/interpretivist
 related_concepts:
   - "[[Habitus]]"
-  - "[[Shu (Familiarization)]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Champ]]"
   - "[[Graduation Pathway Typology (Zheng)]]"
 related_theories:
   - "[[Culture as Toolkit]]"
-related_methods: []
+related_methods:
+  - "[[Matching]]"
 related_persons:
   - "[[Max Weber]]"
   - "[[Yajun Zheng]]"

@@ -14,21 +14,44 @@ tags:
 - region/new-zealand
 - region/australia
 related_concepts:
-  - "[[Effect Size]]"
-  - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[School Leadership]]"
+  - "[[Feedback]]"
+  - "[[Further Education]]"
+  - "[[Professional Judgment]]"
+  - "[[Direct Instruction]]"
+  - "[[Whole Language]]"
   - "[[Evidence-Based Education]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Self-Efficacy]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Class Size]]"
+  - "[[Performance Pay]]"
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Critic and Conscience of Society]]"
+  - "[[Didaktik]]"
   - "[[Bildung]]"
-  - "[[Direct Instruction]]"
+  - "[[Confidence Interval]]"
+  - "[[School Effectiveness]]"
+  - "[[Language Experience Approach]]"
+  - "[[Cargo Cult Science]]"
   - "[[Cult of the Guru]]"
+  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Problem-Based Learning]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Structural Coupling]]"
-related_theories: []
+related_theories:
+  - "[[Societies of Control]]"
+  - "[[Appraisal Theory]]"
+  - "[[Radical Constructivism]]"
+  - "[[Phenomenology]]"
+  - "[[Technical Rationality]]"
 related_methods:
-  - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Gerald Grace]]"
   - "[[Basil Bernstein]]"
@@ -53,8 +76,43 @@ related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Argument_Hattie_2017_SLM]]"
-sources: []
+sources:
+  - "[[Snook_2009_NZJES]]"
+  - "[[Grace_2010_NZJES]]"
+  - "[[Hattie_2010_NZJES]]"
+  - "[[Snook_2010_NZJES]]"
+  - "[[Terhart_2011_JCS]]"
+  - "[[ONeill_2012_NZJES]]"
+  - "[[Allerup_2015_Paideia]]"
+  - "[[Fredens_2015_Paideia]]"
+  - "[[Hattie_2015_SOTLP]]"
+  - "[[Hattie_2015_Paideia]]"
+  - "[[Laursen_2015_Paideia]]"
+  - "[[Qvortrup_2015_Paideia]]"
+  - "[[ONeill_2016_Report]]"
+  - "[[Wecker_2016_ZfE]]"
+  - "[[Bergeron_2017_MJE]]"
+  - "[[Eacott_2017_SLM]]"
+  - "[[Hattie_2017_SLM]]"
+  - "[[Knudsen_2017_NordSTEP]]"
+  - "[[Zhao_2017_JEC]]"
+  - "[[Romer_2018_EPT]]"
+  - "[[Eacott_2019_IJLE]]"
+  - "[[Golovchin_2019_ESC]]"
+  - "[[Larsen_2019_EducSci]]"
+  - "[[Qvortrup_2019_NordSTEP]]"
+  - "[[Sarbiewska_2019_JSR]]"
+  - "[[Blass_2020_JESP]]"
+  - "[[McKnight_2020_Discourse]]"
+  - "[[OConnor_2020_AJLL]]"
+  - "[[Nielsen_2021_IRTP]]"
+  - "[[Nielsen_2021_NordPsych]]"
+  - "[[Bainbridge_2022_ROE]]"
+  - "[[Johnson_2023_CE]]"
 related_facts:
+  - "[[Cognition Education (NZ)]]"
+  - "[[PISA]]"
+  - "[[Victorian HITS and Literacy Toolkit 2017]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"
 confidence: medium
@@ -119,7 +177,7 @@ updated: '2026-05-21'
 > [!info] 核心思想
 > - **可见的教与学**："当教师成为自身教学的学习者、学生成为自身教师时，对学生学习产生最大效应"（Hattie, 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）
 > - **[[Effect Size|效应量]]铰链点 d=0.40**：以 d=0.40 作为比较教育影响的经验参考点，而非脱离情境的硬性戒律；Hattie 后来强调低于 0.40 的效果仍需结合学段、结果类型和同类研究解释（Hattie, 2015, pp.11, 17）。详见 [[Effect Size#Hattie 的铰链点 d=0.40 与影响气压计（2009–2015）]]
-> - **"教师作为激活者 vs 促进者"的核心区分**：Hattie 基于其分析结果将教师角色分为两类——激活者（activator，d=0.60 平均）和促进者（facilitator，d=0.17 平均）（Hattie, 2009, p.243；Terhart, 2011, p.433, Table 3）。激活者策略包括交互教学（d=0.74）、[[Feedback|反馈]]（d=0.72）、元认知策略（d=0.67）、[[Direct Instruction|直接教学]]（d=0.59）、[[Jing (Refined Mastery)|精]]熟学习（d=0.57）；促进者策略包括模拟与游戏（d=0.32）、探究式教学（d=0.31）、小班教学（d=0.21）、问题式学习（d=0.15）、[[Whole Language|全语言]]（d=0.06）。Hattie 由此得出结论："建构主义是一种知识形式，但不是一种教学形式"（Hattie, 2009, p.243，引自 Terhart, 2011, p.433）
+> - **"教师作为激活者 vs 促进者"的核心区分**：Hattie 基于其分析结果将教师角色分为两类——激活者（activator，d=0.60 平均）和促进者（facilitator，d=0.17 平均）（Hattie, 2009, p.243；Terhart, 2011, p.433, Table 3）。激活者策略包括交互教学（d=0.74）、[[Feedback|反馈]]（d=0.72）、元认知策略（d=0.67）、[[Direct Instruction|直接教学]]（d=0.59）、精熟学习（d=0.57）；促进者策略包括模拟与游戏（d=0.32）、探究式教学（d=0.31）、小班教学（d=0.21）、问题式学习（d=0.15）、[[Whole Language|全语言]]（d=0.06）。Hattie 由此得出结论："建构主义是一种知识形式，但不是一种教学形式"（Hattie, 2009, p.243，引自 Terhart, 2011, p.433）
 > - 主张学习必须是"被学习者分享、承诺和理解的"（Hattie, 2009, p.23），以进步教育哲学的语言包装实证主义议程（McKnight & Whitburn, 2020, p.34）
 > - **"Know thy impact"**：教师须以可见证据评估自身教学对学生成绩的影响——这成为 [[Visible Learning]] 的标志性口号（Hattie, Masters, & Birch, 2016, p.3）
 > - **评价者型教师**：Hattie (2015) 将“Know thy impact”解释为教师和学校的评价姿态：教师不是简单收集数据，而是解释证据、判断干预的价值和重要性，并与同事共同比较影响的大小、深度和覆盖范围（Hattie, 2015, pp.11-14）。这一点把他的思想从单纯的[[Effect Size|效应量]]排名推进到学校层面的 [[Professional Judgment]]，但具体统计争议仍应放在 [[Effect Size]] 和 [[Meta-meta-analysis]] 中处理。

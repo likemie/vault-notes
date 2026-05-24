@@ -18,10 +18,12 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Junzi]]"
+  - "[[Humility in Learning]]"
   - "[[Self-Cultivation]]"
   - "[[Ren]]"
   - "[[Take the World Upon Oneself]]"
-related_theories: []
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons:
   - "[[Confucius]]"

@@ -12,6 +12,9 @@ tags:
 - improvement-science
 - paradigm/positivist
 related_concepts:
+  - "[[Champ]]"
+  - "[[Feedback]]"
+  - "[[School Leadership]]"
   - "[[Black Box RCTs]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -22,7 +25,8 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[What Works Network (UK)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Peterson_2016_IJRME]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

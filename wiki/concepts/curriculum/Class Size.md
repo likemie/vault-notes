@@ -10,12 +10,13 @@ tags:
 - subject/curriculum
 - level/k12
 related_concepts:
-  - "[[Rightness]]"
+  - "[[Classroom Management]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Effect Size]]"
   - "[[Constructive Alignment]]"
-  - "[[Shu (Familiarization)]]"
+  - "[[Visible Learning]]"
+  - "[[Material Fallacies]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -29,7 +30,16 @@ related_facts:
   - "[[California Class Size Reduction 1996]]"
   - "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Snook_2009_NZJES]]"
+  - "[[Cowen_2015_CHESS]]"
+  - "[[Hattie_2010_NZJES]]"
+  - "[[Wiliam_2019_ERE]]"
+  - "[[Nielsen_2021_NordPsych]]"
+  - "[[Johnson_2023_CE]]"
+  - "[[Hattie_2015_SOTLP]]"
+  - "[[ONeill_2012_NZJES]]"
+  - "[[Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

@@ -11,6 +11,7 @@ tags:
 - level/k12
 - level/higher-ed
 related_concepts:
+  - "[[International Education]]"
   - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []

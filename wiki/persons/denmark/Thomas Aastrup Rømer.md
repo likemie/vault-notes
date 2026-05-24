@@ -10,15 +10,25 @@ tags:
 - educational-philosophy
 - region/denmark
 related_concepts:
-  - "[[Pure Evaluation]]"
   - "[[Visible Learning]]"
+  - "[[Pure Evaluation]]"
+  - "[[Feedback]]"
+  - "[[Bildung]]"
+  - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
-related_theories: []
+related_theories:
+  - "[[Appraisal Theory]]"
+  - "[[Radical Constructivism]]"
 related_methods: []
 related_persons:
+  - "[[John Hattie]]"
+  - "[[Immanuel Kant]]"
   - "[[Lars Qvortrup]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Romer_2018_EPT]]"
+  - "[[Qvortrup_2019_NordSTEP]]"
+  - "[[Hattie_2015_SOTLP]]"
 related_facts:
   - "[[Hattie på dansk 2017]]"
 confidence: medium

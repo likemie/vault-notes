@@ -20,7 +20,8 @@ related_persons:
   - "[[Basil Bernstein]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ball_2008_SR]]"
 confidence: medium
 status: draft
 created: 2026-05-23

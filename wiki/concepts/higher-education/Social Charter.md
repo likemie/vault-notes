@@ -15,7 +15,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Global Universities Rankings]]"
-  - "[[Jing (Refined Mastery)]]"
 related_theories: []
 related_methods: []
 related_persons: []

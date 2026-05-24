@@ -15,14 +15,20 @@ tags:
 - latour
 - paradigm/critical
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Value-Based Education]]"
+related_theories:
+  - "[[Transactional Epistemology]]"
+  - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Philosophical Analysis in Education]]"
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Biesta_2010_SPE]]"
 part_of: ''
 status: draft
 created: '2026-05-01'

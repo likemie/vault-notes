@@ -95,9 +95,7 @@
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Rightness.md",
     "aliases": [
-      "义",
       "義",
-      "yi",
       "righteousness",
       "uprightness",
       "sense of justice"
@@ -149,7 +147,6 @@
     "aliases": [
       "熟",
       "熟悉化",
-      "shu",
       "familiarizing oneself",
       "familiarity"
     ]
@@ -2549,7 +2546,6 @@
     "aliases": [
       "自明真理",
       "doxa",
-      "常识",
       "不言自明"
     ]
   },
@@ -3459,7 +3455,6 @@
     "path": "wiki/methods/quantitative/Observational and Correlational Research.md",
     "aliases": [
       "观察/相关研究",
-      "观察",
       "相关研究",
       "观察研究"
     ]

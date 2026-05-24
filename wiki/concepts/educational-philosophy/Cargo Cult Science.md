@@ -16,10 +16,12 @@ related_concepts:
   - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Johnson_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

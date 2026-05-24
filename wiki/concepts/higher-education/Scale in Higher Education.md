@@ -20,7 +20,8 @@ related_persons:
   - "[[Doreen Massey]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Marginson_2025_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-13'

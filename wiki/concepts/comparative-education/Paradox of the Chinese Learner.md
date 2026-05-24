@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
-  - "[[Rightness]]"
   - "[[Examination Hell]]"
   - "[[Surface and Deep Learning]]"
   - "[[Self-Cultivation]]"

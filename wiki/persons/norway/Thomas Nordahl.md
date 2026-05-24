@@ -15,18 +15,22 @@ tags:
 - stance/support
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
-  - "[[Evidence-Based Education]]"
+  - "[[Effect Size]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Nordahl_2015_Paideia]]"
   - "[[Argument_Hansen_2015_Paideia]]"
-sources: []
+sources:
+  - "[[Nordahl_2015_Paideia]]"
+  - "[[Hansen_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-21'

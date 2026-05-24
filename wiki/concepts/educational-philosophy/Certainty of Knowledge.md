@@ -15,12 +15,17 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Self-Cultivation]]"
+  - "[[Champ]]"
   - "[[Mind and Its Wonders]]"
   - "[[Examined Life]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Socrates]]"
+  - "[[Plato]]"
+  - "[[John Locke]]"
+  - "[[Immanuel Kant]]"
+  - "[[Bertrand Russell]]"
 related_facts: []
 related_arguments: []
 sources: []

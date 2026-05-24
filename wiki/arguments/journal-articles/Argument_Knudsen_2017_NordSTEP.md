@@ -13,13 +13,23 @@ tags:
 - implementation
 - region/denmark
 - region/new-zealand
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_concepts:
+  - "[[Champ]]"
+  - "[[Problem-Based Learning]]"
+  - "[[Effect Size]]"
+  - "[[Surface and Deep Learning]]"
+related_theories:
+  - "[[Science and Technology Studies (STS)]]"
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Cognition Education (NZ)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Knudsen_2017_NordSTEP]]"
 part_of: ''
 status: draft
 created: '2026-05-07'

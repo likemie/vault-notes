@@ -19,6 +19,7 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Credential Inflation]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Capital]]"
   - "[[Goal-Controlled Mode]]"
 related_theories: []
 related_methods: []

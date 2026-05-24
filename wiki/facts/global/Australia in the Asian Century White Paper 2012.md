@@ -18,6 +18,7 @@ tags:
 - region/asia
 - region/australia
 related_concepts:
+  - "[[International Education]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Internationalization of Higher Education]]"
 related_theories: []

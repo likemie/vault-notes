@@ -12,17 +12,29 @@ tags:
 - paradigm/critical
 - region/australia
 related_concepts:
+  - "[[Knowledge Production]]"
   - "[[Parallel Monologues]]"
-  - "[[Neo-Taylorism in Educational Administration]]"
   - "[[Cult of the Guru]]"
+  - "[[Visible Learning]]"
+  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[School Leadership]]"
+  - "[[Champ]]"
+  - "[[Habitus]]"
+  - "[[Doxa]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
+  - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Eacott_2015_EPT]]"
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Eacott_2017_SLM]]"
-sources: []
+sources:
+  - "[[Eacott_2011_JEAH]]"
+  - "[[Eacott_2015_EPT]]"
+  - "[[Eacott_2019_IJLE]]"
+  - "[[Hattie_2017_SLM]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

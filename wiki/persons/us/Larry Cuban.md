@@ -17,7 +17,10 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Yan_2025_JCS]]"
+related_facts:
+  - "[[Liberal Studies (Hong Kong)]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

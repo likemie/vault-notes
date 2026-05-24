@@ -12,12 +12,17 @@ tags:
 - theme/cross-cultural-learning
 - theme/learning-motivation
 related_concepts:
-  - "[[Jing (Refined Mastery)]]"
   - "[[Enculturation]]"
-related_theories: []
-related_methods: []
+  - "[[Learning Virtues]]"
+  - "[[Humility in Learning]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Prototype Methods]]"
 related_persons:
   - "[[Jin Li]]"
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources: []

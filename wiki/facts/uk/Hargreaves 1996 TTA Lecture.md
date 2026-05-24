@@ -13,13 +13,21 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
+  - "[[Ofsted]]"
+  - "[[Campbell Collaboration]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wiliam_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

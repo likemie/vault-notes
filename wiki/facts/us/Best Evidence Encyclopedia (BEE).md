@@ -20,6 +20,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Quasi-Experimental Designs]]"
 related_persons: []
 related_facts:
   - "[[Promising Practices Network (PPN)]]"
@@ -27,8 +28,11 @@ related_facts:
   - "[[Social Programs That Work (SPTW)]]"
   - "[[What Works Clearinghouse (WWC)]]"
   - "[[Home Visiting Evidence of Effectiveness (HomVEE)]]"
+  - "[[Open Court Reading]]"
+  - "[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wadhwa_2024_RER]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

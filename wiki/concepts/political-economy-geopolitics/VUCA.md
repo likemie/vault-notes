@@ -7,11 +7,11 @@ tags: ["theme/global-governance", "theme/21st-century-skills", "theme/risk", "th
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Rightness]]"
   - "[[Fourth Industrial Revolution]]"
 related_theories:
   - "[[Governmentality]]"
-related_methods: []
+related_methods:
+  - "[[Single-Case Design (SCD)]]"
 related_persons: []
 related_facts: []
 related_arguments: []

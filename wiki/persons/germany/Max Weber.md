@@ -13,9 +13,6 @@ tags:
 - interpretivism
 - region/germany
 related_concepts:
-  - "[[Rightness]]"
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Sage]]"
   - "[[Corporate Education]]"
   - "[[Habitus]]"
 related_theories:

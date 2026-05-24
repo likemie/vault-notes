@@ -13,17 +13,22 @@ tags:
 - level/k12
 - stance/critique
 related_concepts:
+  - "[[International Education]]"
+  - "[[Performance Indicators]]"
+  - "[[New Public Management]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[International Indicators of Education Systems (INES)]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Coleman Report 1966]]"
-  - "[[International Indicators of Education Systems (INES)]]"
   - "[[Education at a Glance (EAG)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Gorur_2014_Discourse]]"
+  - "[[Downey_2016_SoE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

@@ -14,14 +14,15 @@ related_concepts:
   - "[[Recommendations for Practice]]"
 related_theories: []
 related_methods:
-  - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
+  - "[[Non-intervention Research]]"
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Intervention Research]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
-sources: []
+sources:
+  - "[[Brady_2023_EPR]]"
 confidence: low
 status: draft
 created: '2026-05-05'

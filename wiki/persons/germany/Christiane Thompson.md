@@ -16,7 +16,6 @@ related_concepts:
   - "[[Global Education Industry]]"
   - "[[Promising Student]]"
   - "[[Competitiveness in Higher Education]]"
-  - "[[Rightness]]"
   - "[[Online Self-Assessment]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"

@@ -9,12 +9,18 @@ tags:
 - miyake
 - executive-function
 - cognitive-science
-related_concepts: []
+related_concepts:
+  - "[[Executive Function]]"
+  - "[[Working Memory]]"
+  - "[[Updating and Monitoring]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Jean Piaget]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
 confidence: low
 status: draft
 created: '2026-05-04'

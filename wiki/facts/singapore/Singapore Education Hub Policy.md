@@ -20,9 +20,7 @@ tags:
 - theme/development
 related_concepts:
   - "[[Knowledge-Based Economy]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Cultural Diplomacy]]"
-  - "[[Rightness]]"
   - "[[International Education Hubs]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"

@@ -12,7 +12,7 @@ tags:
   - theme/argumentation
   - field/instruction-pedagogy
 related_concepts:
-  - "[[Ren]]"
+  - "[[Action Better Than Words]]"
 related_theories: []
 related_methods: []
 related_persons:

@@ -14,16 +14,18 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Internationalization of Higher Education]]"
+  - "[[International Education]]"
   - "[[Knowledge Production]]"
+  - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Rightness]]"
   - "[[Cultural Diplomacy]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Critical Geopolitics]]"
+  - "[[Network Society]]"
+  - "[[Cultural Political Economy]]"
 related_methods:
   - "[[Comparative Case Study]]"
 related_persons:

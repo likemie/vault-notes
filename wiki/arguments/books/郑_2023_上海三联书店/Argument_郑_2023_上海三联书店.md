@@ -16,14 +16,13 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[Tongxue]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Champ]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Academic and Social Integration]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
-  - "[[Rightness]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Self-Driven Mode]]"
@@ -34,23 +33,22 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[Doxa]]"
-  - "[[Shu (Familiarization)]]"
   - "[[Bildung]]"
   - "[[Credential Inflation]]"
   - "[[Employability]]"
-  - "[[Tongxue]]"
   - "[[Student Engagement]]"
   - "[[Student Involvement]]"
-  - "[[Li (Propriety)]]"
+  - "[[Symbolic Boundary]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Feedback]]"
-  - "[[Symbolic Boundary]]"
   - "[[Self-Authorship]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Sage]]"
   - "[[Work Meaning Schemas (Zheng)]]"
   - "[[Graduation Pathway Typology (Zheng)]]"
   - "[[Shame (Confucianism)]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
 related_theories:
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Culture as Toolkit]]"
@@ -73,8 +71,8 @@ related_persons:
 related_facts:
   - "[[Civil Service Examination]]"
   - "[[Coleman Report 1966]]"
-  - "[[China College Graduate Employment Reform 1986-1997]]"
   - "[[Recommendation-Based Graduate Admission System]]"
+  - "[[China College Graduate Employment Reform 1986-1997]]"
 related_arguments: []
 sources: []
 part_of: ''

@@ -13,11 +13,10 @@ tags:
 - research-use
 - region/global
 related_concepts:
-  - "[[Rightness]]"
+  - "[[Professional Judgment]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[Professional Judgment]]"
   - "[[School Leadership]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Based Education]]"
@@ -27,18 +26,22 @@ related_methods:
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Formative Evaluation]]"
 related_persons:
   - "[[Carol Campbell]]"
   - "[[Julie Nelson]]"
 related_facts:
   - "[[Campbell Collaboration]]"
-  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
   - "[[ResearchED]]"
+  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
+  - "[[Centre for the Use of Research and Evidence in Education]]"
   - "[[What Works Network (UK)]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
-sources: []
+sources:
+  - "[[Nelson_2017_ER]]"
+  - "[[Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

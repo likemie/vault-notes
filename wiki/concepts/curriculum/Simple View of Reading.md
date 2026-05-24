@@ -12,12 +12,15 @@ tags:
 - level/k12
 related_concepts:
   - "[[Whole Language]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[OConnor_2020_AJLL]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

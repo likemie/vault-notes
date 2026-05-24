@@ -17,7 +17,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Downey_2016_SoE]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

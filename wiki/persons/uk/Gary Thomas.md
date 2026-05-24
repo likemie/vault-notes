@@ -15,10 +15,13 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

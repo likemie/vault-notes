@@ -21,7 +21,9 @@ related_persons: []
 related_facts:
   - "[[Karmel Report 1973]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Keddie_2020_IJLE]]"
+  - "[[Sarbiewska_2019_JSR]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

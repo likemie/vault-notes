@@ -17,7 +17,8 @@ related_concepts:
   - "[[Learning Analytics]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Donna Haraway]]"
 related_facts: []
 related_arguments: []
 sources: []

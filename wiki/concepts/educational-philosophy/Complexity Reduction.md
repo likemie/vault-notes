@@ -14,12 +14,17 @@ tags:
 related_concepts:
   - "[[Atomisation of Knowledge and Skills]]"
   - "[[Evidence-Based Education]]"
-related_theories: []
-related_methods: []
+  - "[[Professional Judgment]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Matching]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Biesta_2010_SPE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

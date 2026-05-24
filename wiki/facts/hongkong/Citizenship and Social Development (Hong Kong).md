@@ -16,7 +16,7 @@ tags:
 - region/china
 - level/k12
 related_concepts:
-  - "[[Rightness]]"
+  - "[[Student Engagement]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
 related_methods: []
@@ -24,7 +24,8 @@ related_persons: []
 related_facts:
   - "[[Liberal Studies (Hong Kong)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'

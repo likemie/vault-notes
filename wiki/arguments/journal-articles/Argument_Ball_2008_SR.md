@@ -11,18 +11,22 @@ tags:
   - theme/school-effectiveness
   - paradigm/critical
 related_concepts:
+  - "[[Champ]]"
+  - "[[Horizontal Knowledge Structure]]"
+  - "[[Knowledge Production]]"
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
-  - "[[Horizontal Knowledge Structure]]"
 related_theories:
   - "[[Governmentality]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[Committee for the Accreditation of Teacher Education]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ball_2008_SR]]"
 part_of: ''
 status: draft
 created: 2026-05-23

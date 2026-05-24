@@ -17,12 +17,15 @@ related_concepts:
   - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
+  - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
   - "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"
 related_arguments:
   - "[[Argument_ONeill_2012_NZJES]]"
-sources: []
+sources:
+  - "[[Hattie_2010_NZJES]]"
 confidence: low
 status: draft
 created: '2026-05-06'

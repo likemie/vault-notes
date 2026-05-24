@@ -22,6 +22,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Academic Ranking of World Universities (ARWU)]]"
+  - "[[PISA]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -9,13 +9,15 @@ tags:
 - geert-hofstede
 - culture
 - national-culture
-related_concepts: []
+related_concepts:
+  - "[[Effective Teaching]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Laursen_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-05'

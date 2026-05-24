@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Champ]]"
-  - "[[Rightness]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
   - "[[Global Education Industry]]"

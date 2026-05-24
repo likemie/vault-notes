@@ -11,13 +11,18 @@ tags:
 - evidence-based-education
 - stance/critique
 - region/new-zealand
-related_concepts: []
+related_concepts:
+  - "[[Critic and Conscience of Society]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Basil Bernstein]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Grace_2010_NZJES]]"
 part_of: ''
 status: draft
 created: '2026-05-07'

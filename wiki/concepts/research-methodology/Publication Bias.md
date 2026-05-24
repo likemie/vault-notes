@@ -12,16 +12,26 @@ tags:
 - research-methodology
 - evidence-based-education
 related_concepts:
+  - "[[Effect Size]]"
   - "[[Developer Effect]]"
   - "[[Researcher Degrees of Freedom]]"
+  - "[[Visible Learning]]"
+  - "[[Preregistration]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
+  - "[[What Works Clearinghouse (WWC)]]"
   - "[[Creation of REES 2018]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wolf_2020_JREE]]"
+  - "[[Wecker_2016_ZfE]]"
+  - "[[Kraft_2023_ER]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

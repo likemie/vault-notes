@@ -12,6 +12,8 @@ tags:
 - theme/resistance
 related_concepts:
   - "[[Epistemology of Resistance]]"
+  - "[[Knowledge Production]]"
+  - "[[Official Knowledge]]"
   - "[[Life Power]]"
 related_theories:
   - "[[Creative Tension of Sense]]"

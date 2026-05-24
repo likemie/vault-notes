@@ -15,11 +15,17 @@ tags:
 - region/china
 related_concepts:
   - "[[Side Effects in Education]]"
+  - "[[Direct Instruction]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Zhao_2017_JEC]]"
+related_facts:
+  - "[[PISA]]"
+  - "[[No Child Left Behind Act 2001]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

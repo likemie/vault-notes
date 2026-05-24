@@ -11,7 +11,10 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Internationalization of Higher Education]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Regulatory Regionalism]]"
+  - "[[Champ]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []

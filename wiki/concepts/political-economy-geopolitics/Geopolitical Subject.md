@@ -13,22 +13,23 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Graduate Attributes]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Spatial Sortings]]"
   - "[[Corporate Education]]"
-  - "[[Knowledge-Based Economy]]"
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
   - "[[Digital Optimum]]"
   - "[[Hub and Flow Imaginaries]]"
 related_theories:
+  - "[[Governmentality]]"
   - "[[Fixity-Motion Tension]]"
 related_methods:
   - "[[Matching]]"
-related_persons: []
+related_persons:
+  - "[[Sami Moisio]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"

@@ -16,17 +16,23 @@ tags:
 - level/k12
 related_concepts:
   - "[[Class Size]]"
+  - "[[Effect Size]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
   - "[[California Class Size Reduction 1996]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wiliam_2019_ERE]]"
+  - "[[Snook_2009_NZJES]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

@@ -13,16 +13,22 @@ tags:
 - methodology
 - paradigm/positivist
 related_concepts:
+  - "[[Effect Size]]"
   - "[[Mechanism Experiments]]"
+  - "[[Publication Bias]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-related_persons: []
+  - "[[Matching]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
-  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[What Works Clearinghouse (WWC)]]"
+  - "[[Comprehensive School Reform (CSR) Program]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Peterson_2016_IJRME]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

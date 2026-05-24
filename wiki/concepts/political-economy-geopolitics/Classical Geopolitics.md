@@ -12,9 +12,8 @@ tags:
 - region/global
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge-Based Economization]]"
   - "[[Multiplicity (Massey)]]"
-  - "[[Rightness]]"
-  - "[[Sage]]"
   - "[[Champ]]"
 related_theories:
   - "[[Critical Geopolitics]]"

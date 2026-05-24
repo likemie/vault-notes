@@ -13,13 +13,12 @@ tags:
   - source/edited-volume
 related_concepts:
   - "[[Cultural Diplomacy]]"
-  - "[[Rightness]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
 related_theories:
   - "[[Cultural Political Economy]]"
 related_methods:
+  - "[[Observational and Correlational Research]]"
   - "[[Comparative Case Study]]"
   - "[[Case Study]]"
 related_persons: []

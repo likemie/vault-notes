@@ -14,12 +14,18 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Value-Based Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Philosophical Analysis in Education]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Matching]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
-sources: []
+sources:
+  - "[[Biesta_2010_SPE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

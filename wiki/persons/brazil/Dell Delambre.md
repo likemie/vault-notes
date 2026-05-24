@@ -11,15 +11,20 @@ tags:
 - field/higher-education
 - field/sustainability
 related_concepts:
+  - "[[Social Museology]]"
+  - "[[Ecomuseology]]"
+  - "[[Whole Sustainability]]"
+  - "[[Geopolitics of Knowledge]]"
   - "[[Life Power]]"
   - "[[Tense Society]]"
-  - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
+  - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
   - "[[Ganz-Methode]]"
 related_persons:
   - "[[Walter Mignolo]]"
+  - "[[Camilla de Hollanda Amado]]"
 related_arguments: []
 sources: []
 confidence: low

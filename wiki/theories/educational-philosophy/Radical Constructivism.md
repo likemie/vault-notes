@@ -10,14 +10,23 @@ tags:
 - learning-theory
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Constructive Alignment]]"
+  - "[[Posthumanism]]"
   - "[[Evidence-Based Education]]"
-related_theories: []
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
+  - "[[Appraisal Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[George Berkeley]]"
+  - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Sarbiewska_2019_JSR]]"
-sources: []
+sources:
+  - "[[Romer_2018_EPT]]"
+  - "[[Sarbiewska_2019_JSR]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

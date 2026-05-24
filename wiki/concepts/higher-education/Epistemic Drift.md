@@ -10,6 +10,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Scientization of Politics]]"
   - "[[Epistemic Governance]]"
 related_theories: []
 related_methods: []

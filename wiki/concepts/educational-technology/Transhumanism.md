@@ -15,7 +15,8 @@ related_concepts:
   - "[[Humosity]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Julian Huxley]]"
 related_facts: []
 related_arguments: []
 sources: []

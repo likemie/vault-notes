@@ -11,17 +11,23 @@ tags:
 - evidence-based-education
 - research-methodology
 related_concepts:
+  - "[[Effect Size]]"
   - "[[Publication Bias]]"
   - "[[Researcher Degrees of Freedom]]"
+  - "[[Implementation Fidelity]]"
+  - "[[Preregistration]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Quasi-Experimental Designs]]"
 related_persons: []
 related_facts:
-  - "[[ESSA 2015 Evidence Standards]]"
   - "[[What Works Clearinghouse (WWC)]]"
+  - "[[ESSA 2015 Evidence Standards]]"
   - "[[Creation of REES 2018]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wolf_2020_JREE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

@@ -15,15 +15,26 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Feedback]]"
+  - "[[Didaktik]]"
+  - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Technical Rationality]]"
-related_methods: []
+  - "[[Radical Constructivism]]"
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Matching]]"
 related_persons:
   - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Nielsen_2021_NordPsych]]"
-sources: []
+sources:
+  - "[[Nielsen_2021_IRTP]]"
+  - "[[Nielsen_2021_NordPsych]]"
+related_facts:
+  - "[[PISA]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

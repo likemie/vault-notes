@@ -15,8 +15,10 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Effect Size]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
@@ -25,7 +27,8 @@ related_facts:
   - "[[Social Programs That Work (SPTW)]]"
   - "[[Best Evidence Encyclopedia (BEE)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wadhwa_2024_RER]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

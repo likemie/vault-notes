@@ -8,16 +8,21 @@ tags:
 - critic-and-conscience-of-society
 - region/new-zealand
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Champ]]"
+  - "[[Visible Learning]]"
+  - "[[Cult of the Guru]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Gerald Grace]]"
-  - "[[Basil Bernstein]]"
   - "[[John Hattie]]"
+  - "[[Basil Bernstein]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Grace_2010_NZJES]]"
+  - "[[Hattie_2017_SLM]]"
 confidence: low
 status: draft
 created: '2026-05-07'

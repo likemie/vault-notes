@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Chinese Learner]]"
   - "[[International Education]]"
+  - "[[International Schools]]"
 related_theories: []
 related_methods: []
 related_persons:

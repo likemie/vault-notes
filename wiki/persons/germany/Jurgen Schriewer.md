@@ -11,12 +11,18 @@ tags:
 - discourse-formation
 - externalization
 - region/germany
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Externalization (Schriewer)]]"
+  - "[[Policy Borrowing]]"
+  - "[[Cross-National Attraction]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Niklas Luhmann]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

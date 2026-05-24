@@ -11,13 +11,22 @@ tags:
 - region/australia
 related_concepts:
   - "[[Constructive Alignment]]"
+  - "[[Feedback]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Paradox of the Chinese Learner]]"
+  - "[[Chinese Learner]]"
+  - "[[Confucian Heritage Cultures]]"
   - "[[Dynamic Knowledge and Learning Model]]"
-related_theories: []
+related_theories:
+  - "[[Radical Constructivism]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Hattie_2015_SOTLP]]"
+  - "[[Qvortrup_2015_Paideia]]"
+  - "[[Romer_2018_EPT]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

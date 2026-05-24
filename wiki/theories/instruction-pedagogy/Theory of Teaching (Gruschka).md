@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Bildung]]"
   - "[[Didaktik]]"
-  - "[[Rightness]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods: []

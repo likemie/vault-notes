@@ -8,11 +8,16 @@ nationality: norway
 tags:
 - jorunn-mller
 - region/norway
-related_concepts: []
+related_concepts:
+  - "[[School Leadership]]"
+  - "[[Knowledge Production]]"
+  - "[[New Public Management]]"
+  - "[[Transformative Leadership]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Helen Gunter]]"
+  - "[[Carolyn Shields]]"
 related_arguments: []
 sources: []
 confidence: high

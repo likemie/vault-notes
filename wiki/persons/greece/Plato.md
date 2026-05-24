@@ -15,14 +15,18 @@ tags:
 - theme/learning
 - theme/metaphysics
 related_concepts:
+  - "[[Examined Life]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Western Learner]]"
-  - "[[Examined Life]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Socrates]]"
+  - "[[Bertrand Russell]]"
+  - "[[René Descartes]]"
+  - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
 sources: []

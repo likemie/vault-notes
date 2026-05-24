@@ -15,9 +15,9 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Rightness]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[New Public Management]]"
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
   - "[[Geopolitics of Knowledge]]"

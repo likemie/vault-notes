@@ -13,13 +13,27 @@ tags:
 - prefrontal-cortex
 - neuroscience
 - learning-science
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Prefrontal Cortex]]"
+  - "[[Executive Function]]"
+  - "[[Updating and Monitoring]]"
+  - "[[Synaptogenesis]]"
+  - "[[Synaptic Pruning]]"
+  - "[[Myelination]]"
+related_theories:
+  - "[[Piaget's Theory of Cognitive Development]]"
+  - "[[Neo-Piagetian Theories]]"
+related_methods:
+  - "[[Functional Magnetic Resonance Imaging]]"
+  - "[[Electroencephalography]]"
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Jean Piaget]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
 part_of: ''
 status: draft
 created: '2026-05-04'

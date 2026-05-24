@@ -10,13 +10,20 @@ tags:
 - paradigm/constructivist
 - region/germany
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
 related_theories:
   - "[[Radical Constructivism]]"
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[George Berkeley]]"
+  - "[[Immanuel Kant]]"
+  - "[[John Hattie]]"
+  - "[[Niklas Luhmann]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Romer_2018_EPT]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

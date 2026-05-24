@@ -12,9 +12,12 @@ tags:
 - postmodernism
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Production]]"
+  - "[[Knowledge-Based Economy]]"
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Jean-François Lyotard]]"
   - "[[Frantz Fanon]]"
 related_facts: []
 related_arguments: []

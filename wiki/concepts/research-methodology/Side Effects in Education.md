@@ -10,13 +10,18 @@ tags:
 - evidence-based-education
 - educational-policy
 - methodology
-related_concepts: []
+related_concepts:
+  - "[[Direct Instruction]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[No Child Left Behind Act 2001]]"
+  - "[[PISA]]"
+  - "[[Campbell Collaboration]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Zhao_2017_JEC]]"
 confidence: low
 status: draft
 created: '2026-05-04'

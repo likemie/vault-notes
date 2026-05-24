@@ -8,14 +8,22 @@ tags:
 - blind-spot-in-observation
 - paradigm/systems-theory
 related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Humility in Learning]]"
+  - "[[Effect Size]]"
+  - "[[School Leadership]]"
   - "[[Structural Coupling]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
-related_methods: []
-related_persons: []
+  - "[[Phenomenology]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Niklas Luhmann]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

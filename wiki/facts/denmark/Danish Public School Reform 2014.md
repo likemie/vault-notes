@@ -13,21 +13,26 @@ tags:
 - level/k12
 - visible-learning
 related_concepts:
-  - "[[Learnification]]"
   - "[[Visible Learning]]"
-  - "[[Evidence-Based Education]]"
+  - "[[Learnification]]"
   - "[[Effective Teaching]]"
+  - "[[Classroom Management]]"
+  - "[[Evidence-Based Education]]"
   - "[[Interpretation Community]]"
   - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[John Hattie]]"
   - "[[Jill Mehlbye]]"
 related_facts:
   - "[[Hattie på dansk 2017]]"
   - "[[SFI Report 2013]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Qvortrup_2019_NordSTEP]]"
+  - "[[Larsen_2019_EducSci]]"
+  - "[[Laursen_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

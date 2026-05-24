@@ -16,6 +16,8 @@ tags:
   - theme/evidence-based-education
   - policy/technology-integration
 related_concepts:
+  - "[[Effective Teaching]]"
+  - "[[Effect Size]]"
   - "[[Technology Infusion]]"
 related_theories: []
 related_methods: []
@@ -23,7 +25,8 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Pellegrini_2021_ROE]]"
-sources: []
+sources:
+  - "[[Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23

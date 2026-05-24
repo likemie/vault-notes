@@ -13,7 +13,6 @@ tags:
 - region/global
 related_concepts:
   - "[[Performance Indicators]]"
-  - "[[Rightness]]"
   - "[[Spatial Sortings]]"
   - "[[Neocorporatism]]"
   - "[[Scientization of Politics]]"

@@ -12,15 +12,26 @@ tags:
 - paradigm/critical
 - stance/critique
 related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Structural Coupling]]"
   - "[[Bildung]]"
+  - "[[Learnification]]"
+  - "[[International Education]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
-related_methods: []
+  - "[[Phenomenology]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Matching]]"
 related_persons:
+  - "[[Immanuel Kant]]"
   - "[[Gert Biesta]]"
-related_facts: []
+  - "[[John Hattie]]"
+related_facts:
+  - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Larsen_2019_EducSci]]"
 part_of: ''
 status: draft
 created: '2026-05-04'

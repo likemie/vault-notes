@@ -13,6 +13,7 @@ tags:
 - subject/research-methodology
 - paradigm/positivist
 related_concepts:
+  - "[[Stable Unit Treatment Value Assumption (SUTVA)]]"
   - "[[Potential Outcomes Framework]]"
 related_theories: []
 related_methods:
@@ -22,7 +23,8 @@ related_methods:
   - "[[Non-intervention Research]]"
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Berk_2011_ER]]"
 confidence: low
 status: draft
 created: '2026-05-03'

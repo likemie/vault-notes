@@ -13,10 +13,12 @@ tags:
 related_concepts:
   - "[[Performance Indicators]]"
   - "[[Phenomenon-Based Learning]]"
+  - "[[Tongxue]]"
   - "[[Performativity of Measurement]]"
   - "[[Complexity Reduction]]"
   - "[[Epochal Key Problems]]"
   - "[[Bildung]]"
+  - "[[Champ]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Critical Realism]]"
@@ -26,7 +28,8 @@ related_facts:
   - "[[Finnish National Core Curriculum 2014]]"
   - "[[SveaSus Project]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

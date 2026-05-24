@@ -13,9 +13,15 @@ tags:
 related_concepts:
   - "[[Transhumanism]]"
   - "[[Humosity]]"
+  - "[[Response-ability]]"
   - "[[SF (Haraway)]]"
+  - "[[Mondialisation]]"
+  - "[[Ubuntu]]"
+  - "[[Buen Vivir]]"
+  - "[[Humility in Learning]]"
   - "[[Sympoiesis]]"
 related_theories:
+  - "[[Transition Design]]"
   - "[[Autopoiesis]]"
 related_methods: []
 related_persons: []

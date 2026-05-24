@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Locus of Control]]"
   - "[[Pride in Learning]]"
-  - "[[Shame (Confucianism)]]"
 related_theories: []
 related_methods: []
 related_persons: []

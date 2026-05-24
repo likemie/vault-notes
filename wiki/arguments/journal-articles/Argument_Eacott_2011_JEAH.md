@@ -14,7 +14,6 @@ tags:
 - region/australia
 - stance/critique
 related_concepts:
-  - "[[Rightness]]"
   - "[[School Leadership]]"
   - "[[Habitus]]"
   - "[[Champ]]"
@@ -25,7 +24,8 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Eacott_2011_JEAH]]"
 part_of: ''
 status: draft
 created: '2026-05-02'

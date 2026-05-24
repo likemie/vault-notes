@@ -13,7 +13,7 @@ tags:
   - theme/affect
   - theme/teacher-student-relationship
 related_concepts:
-  - "[[Rightness]]"
+  - "[[Student-Teacher Relationship]]"
   - "[[Learning Virtues]]"
 related_theories: []
 related_methods: []

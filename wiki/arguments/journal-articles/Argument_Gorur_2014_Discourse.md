@@ -14,14 +14,22 @@ tags:
 - performativity
 - comparative-education
 related_concepts:
+  - "[[International Education]]"
   - "[[Sociology of Measurement]]"
+  - "[[Performance Indicators]]"
 related_theories:
   - "[[Science and Technology Studies (STS)]]"
-related_methods: []
-related_persons: []
-related_facts: []
+  - "[[Luhmann's Systems Theory]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Norberto Bottani]]"
+related_facts:
+  - "[[Education at a Glance (EAG)]]"
+  - "[[International Indicators of Education Systems (INES)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Gorur_2014_Discourse]]"
 part_of: ''
 status: draft
 created: '2026-05-01'

@@ -13,16 +13,22 @@ tags:
 - education-indicators
 - comparative-education
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[International Education]]"
+  - "[[Performance Indicators]]"
+  - "[[New Public Management]]"
+  - "[[Knowledge Production]]"
 related_theories:
   - "[[Science and Technology Studies (STS)]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Norberto Bottani]]"
 related_facts:
   - "[[Education at a Glance (EAG)]]"
   - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Gorur_2014_Discourse]]"
 confidence: high
 status: draft
 created: '2026-05-01'

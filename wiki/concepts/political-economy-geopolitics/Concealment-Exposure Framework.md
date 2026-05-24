@@ -15,7 +15,8 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Sabotage]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Philosophical Analysis in Education]]"
 related_persons: []
 related_facts:
   - "[[China Social Credit System]]"

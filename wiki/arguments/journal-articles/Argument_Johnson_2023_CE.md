@@ -12,14 +12,25 @@ tags:
 - scientism
 - neoliberalism
 - stance/critique
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Scientism]]"
+  - "[[Cargo Cult Science]]"
+  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Class Size]]"
+  - "[[Bildung]]"
 related_theories:
   - "[[Technical Rationality]]"
-related_methods: []
-related_persons: []
-related_facts: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Cognition Education (NZ)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Johnson_2023_CE]]"
 part_of: ''
 status: draft
 created: '2026-05-04'

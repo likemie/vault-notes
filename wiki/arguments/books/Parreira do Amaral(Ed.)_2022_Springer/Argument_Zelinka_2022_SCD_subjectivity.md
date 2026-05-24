@@ -6,10 +6,8 @@ citation: "Zelinka, J. (2022). Subjects and Subjectivities of the (New) Geopolit
 tags: ["theme/geopolitics-of-knowledge", "theme/subjectivity", "theme/21st-century-skills", "theme/global-governance", "theory/governmentality", "level/higher-education"]
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
-  - "[[Rightness]]"
-  - "[[Discursive Opportunity Structures]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Discursive Opportunity Structures]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
   - "[[VUCA]]"
@@ -17,8 +15,9 @@ related_concepts:
 related_theories:
   - "[[Governmentality]]"
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Single-Case Design (SCD)]]"
+  - "[[Critical Companion]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

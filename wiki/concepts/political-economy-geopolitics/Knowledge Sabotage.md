@@ -15,7 +15,8 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Economic and Industrial Espionage]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Philosophical Analysis in Education]]"
 related_persons:
   - "[[Jean-François Lyotard]]"
 related_facts:

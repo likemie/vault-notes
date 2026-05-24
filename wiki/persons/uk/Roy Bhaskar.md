@@ -12,13 +12,18 @@ tags:
 - ontology
 - epistemology
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Critical Realism]]"
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Ray Pawson]]"
+  - "[[Terry Wrigley]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

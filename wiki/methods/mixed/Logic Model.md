@@ -15,6 +15,8 @@ tags:
 - implementation
 - theory-of-change
 related_concepts:
+  - "[[Feedback]]"
+  - "[[Technology Infusion]]"
   - "[[Implementation Fidelity]]"
   - "[[Absorptive Capacity]]"
 related_theories: []

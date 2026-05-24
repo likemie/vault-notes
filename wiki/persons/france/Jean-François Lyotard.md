@@ -13,9 +13,10 @@ tags:
 - philosophy
 - knowledge
 related_concepts:
-  - "[[Rightness]]"
+  - "[[Narrative Knowledge]]"
   - "[[Geopolitics of Knowledge]]"
-related_theories: []
+related_theories:
+  - "[[Phenomenology]]"
 related_methods: []
 related_persons: []
 related_arguments: []

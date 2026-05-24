@@ -12,9 +12,9 @@ tags:
   - theme/digitalization
   - paradigm/critical
 related_concepts:
-  - "[[Rightness]]"
-  - "[[Bildung]]"
+  - "[[Knowledge Production]]"
   - "[[Learning Analytics]]"
+  - "[[Bildung]]"
   - "[[Gamification]]"
 related_theories: []
 related_methods:

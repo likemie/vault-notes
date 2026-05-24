@@ -12,14 +12,16 @@ tags:
   - theme/socialization
   - region/west
 related_concepts:
-  - "[[Rightness]]"
   - "[[Cognitive Source]]"
   - "[[Pride in Learning]]"
   - "[[MCC Discourse Analysis Examples]]"
   - "[[Confucian Tutoring Style]]"
+  - "[[Learning Virtues]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Mother-Child Conversation (MCC)]]"
+related_persons:
+  - "[[Socrates]]"
 related_facts: []
 related_arguments: []
 sources: []

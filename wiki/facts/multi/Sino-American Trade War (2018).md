@@ -15,12 +15,11 @@ tags:
 - trade
 - technology-transfer
 related_concepts:
+  - "[[Knowledge Transfer]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[Rightness]]"
   - "[[Knowledge Production]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
-  - "[[Knowledge Transfer]]"
 related_theories: []
 related_methods: []
 related_persons: []

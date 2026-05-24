@@ -13,7 +13,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Pampaka_2016_IJRME]]"
 confidence: low
 status: draft
 created: '2026-05-02'

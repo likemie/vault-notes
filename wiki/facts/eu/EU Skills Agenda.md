@@ -28,6 +28,7 @@ related_facts:
   - "[[Europe 2020 Strategy]]"
   - "[[Innovation Union]]"
   - "[[Youth Guarantee Scheme]]"
+  - "[[English Schools Foundation Hong Kong]]"
   - "[[YOUNG_ADULLLT]]"
 related_arguments: []
 sources: []

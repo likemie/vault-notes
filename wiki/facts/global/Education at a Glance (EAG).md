@@ -15,6 +15,7 @@ tags:
 - region/global
 - level/k12
 related_concepts:
+  - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[Performativity of Measurement]]"
 related_theories:
@@ -25,7 +26,8 @@ related_facts:
   - "[[PISA]]"
   - "[[International Indicators of Education Systems (INES)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Gorur_2014_Discourse]]"
 confidence: high
 status: draft
 created: '2026-05-01'

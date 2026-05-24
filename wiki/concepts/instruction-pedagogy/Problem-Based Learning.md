@@ -13,13 +13,24 @@ related_concepts:
   - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[Effective Teaching]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Tongxue]]"
   - "[[Direct Instruction]]"
-related_theories: []
-related_methods: []
-related_persons: []
+related_theories:
+  - "[[Phenomenology]]"
+related_methods:
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Hattie_2015_SOTLP]]"
+  - "[[Blass_2020_JESP]]"
+  - "[[Schaffar_2024_CogentEdu]]"
 confidence: low
 status: draft
 created: '2026-05-04'

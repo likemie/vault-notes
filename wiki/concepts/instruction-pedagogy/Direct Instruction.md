@@ -12,17 +12,23 @@ tags:
 related_concepts:
   - "[[Structured Teaching]]"
   - "[[Effective Teaching]]"
+  - "[[Feedback]]"
   - "[[Individualised Instruction]]"
   - "[[Problem-Based Learning]]"
+  - "[[Tongxue]]"
   - "[[Visible Learning]]"
-  - "[[Feedback]]"
+  - "[[Effect Size]]"
   - "[[Side Effects in Education]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Zhao_2017_JEC]]"
+  - "[[Hattie_2015_SOTLP]]"
+  - "[[Fredens_2015_Paideia]]"
 confidence: low
 status: draft
 created: "2026-05-04"

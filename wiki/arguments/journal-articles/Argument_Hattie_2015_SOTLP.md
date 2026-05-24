@@ -12,13 +12,19 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[Problem-Based Learning]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Feedback]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Hattie_2015_SOTLP]]"
 part_of: ''
 status: draft
 created: '2026-05-04'

@@ -14,8 +14,10 @@ tags:
   - theme/role-model
   - theme/achievement
   - level/k-12
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Pride in Learning]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons: []
 related_facts: []

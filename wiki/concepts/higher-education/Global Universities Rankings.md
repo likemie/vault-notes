@@ -18,20 +18,19 @@ tags:
 related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Knowledge Production]]"
   - "[[Competitiveness in Higher Education]]"
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
   - "[[Preemptive Governance]]"
   - "[[Space-Making in Higher Education]]"
-  - "[[Rightness]]"
   - "[[Champ]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Academic Ranking of World Universities (ARWU)]]"
+  - "[[UN Sustainable Development Goals 2015]]"
   - "[[OECD AHELO Project]]"
   - "[[University of Kentucky Top-20 Plan]]"
 related_arguments: []

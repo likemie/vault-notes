@@ -11,14 +11,18 @@ tags:
 - performativity
 - educational-sociology
 related_concepts:
+  - "[[International Education]]"
   - "[[Performativity of Measurement]]"
 related_theories:
   - "[[Science and Technology Studies (STS)]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[International Indicators of Education Systems (INES)]]"
+  - "[[Education at a Glance (EAG)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Gorur_2014_Discourse]]"
 confidence: high
 status: draft
 created: '2026-05-01'

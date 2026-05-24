@@ -14,6 +14,7 @@ tags:
 - implementation
 - evidence-informed-practice
 related_concepts:
+  - "[[Feedback]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
   - "[[Technology Infusion]]"

@@ -12,16 +12,19 @@ tags:
 - region/global
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Policy Entrepreneur]]"
   - "[[Externalization (Schriewer)]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[PISA]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
 related_arguments:
   - "[[Argument_Rappleye_2006_RCIE]]"
-sources: []
+sources:
+  - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

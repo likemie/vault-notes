@@ -10,12 +10,17 @@ tags:
 - paradigm/constructivist
 - neo-piagetian
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Piaget's Theory of Cognitive Development]]"
+  - "[[Neo-Piagetian Theories]]"
 related_methods: []
 related_persons:
+  - "[[John Hattie]]"
+  - "[[Jean Piaget]]"
   - "[[Robbie Case]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
 confidence: low
 status: draft
 created: '2026-05-04'

@@ -7,13 +7,17 @@ type: concept
 tags:
 - interpretation-community
 - paradigm/interpretivist
-related_concepts: []
+related_concepts:
+  - "[[Doxa]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'

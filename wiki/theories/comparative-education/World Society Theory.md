@@ -16,15 +16,14 @@ tags:
 - subject/comparative-education
 related_concepts:
   - "[[Cultural Models]]"
-  - "[[Rightness]]"
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Policy Borrowing]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Epistemic Governance]]"
-related_theories: []
+related_theories:
+  - "[[Critical Geopolitics]]"
 related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons:

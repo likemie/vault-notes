@@ -11,12 +11,12 @@ tags:
 - theme/child-development
 - discipline/anthropology
 related_concepts:
-  - "[[Rightness]]"
   - "[[Nerd (School Peer Culture)]]"
   - "[[Intellectual-Social Divide]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Jin Li]]"
   - "[[Confucius]]"

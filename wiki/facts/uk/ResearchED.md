@@ -16,11 +16,16 @@ tags:
 - region/uk
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Wrigley_2018_BERJ]]"
+  - "[[Wrigley_2019_ERE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

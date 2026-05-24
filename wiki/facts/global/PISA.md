@@ -12,7 +12,9 @@ tags:
   - level/k12
   - subject/assessment
 related_concepts:
+  - "[[Knowledge-Based Economy]]"
   - "[[Structured Teaching]]"
+  - "[[Policy Borrowing]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:

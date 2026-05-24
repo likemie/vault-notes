@@ -15,9 +15,15 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effective Teaching]]"
+  - "[[Feedback]]"
+  - "[[Effect Size]]"
+  - "[[Tongxue]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
 sources: []

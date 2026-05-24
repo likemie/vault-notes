@@ -19,12 +19,16 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
+  - "[[School Leadership]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Campbell Collaboration]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Nelson_2017_ER]]"
+  - "[[Nordahl_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-21'

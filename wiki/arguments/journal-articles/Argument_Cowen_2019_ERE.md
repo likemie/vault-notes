@@ -16,13 +16,25 @@ tags:
 - paradigm/critical
 - region/uk
 - region/us
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Opportunist Mode]]"
+  - "[[Champ]]"
+  - "[[Effect Size]]"
+  - "[[Feedback]]"
+  - "[[Policy Borrowing]]"
+related_theories:
+  - "[[Tullock's Bureaucracy Theory]]"
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+  - "[[Matching]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Grammar School]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Cowen_2019_ERE]]"
 part_of: ''
 status: draft
 created: '2026-05-01'

@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Performance Indicators]]"
   - "[[Global Regionalisms in Higher Education]]"
-  - "[[Rightness]]"
   - "[[Selectivity]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"

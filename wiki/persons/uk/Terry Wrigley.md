@@ -15,17 +15,29 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Moral Sidestep]]"
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Critical Realism]]"
+  - "[[Luhmann's Systems Theory]]"
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Sean McCusker]]"
+  - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
-sources: []
+sources:
+  - "[[Wrigley_2018_BERJ]]"
+  - "[[Wrigley_2019_ERE]]"
+  - "[[Bainbridge_2022_ROE]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[ResearchED]]"
 confidence: high
 status: draft
 created: '2026-05-01'

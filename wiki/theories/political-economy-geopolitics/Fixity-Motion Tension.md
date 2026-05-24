@@ -12,8 +12,10 @@ tags:
 - capital-circulation
 - region/global
 related_concepts:
-  - "[[Rightness]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Pride in Learning]]"
+  - "[[Champ]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Spatial Sortings]]"
   - "[[Geopolitical Subject]]"

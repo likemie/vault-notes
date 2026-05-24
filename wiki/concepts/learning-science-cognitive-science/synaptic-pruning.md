@@ -12,13 +12,15 @@ tags:
 - cognitive-science
 related_concepts:
   - "[[Prefrontal Cortex]]"
+  - "[[Synaptogenesis]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

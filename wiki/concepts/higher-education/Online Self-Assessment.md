@@ -18,8 +18,6 @@ tags:
 - theme/subjectification
 - theme/competitiveness
 related_concepts:
-  - "[[Rightness]]"
-  - "[[Li (Propriety)]]"
   - "[[Digital Self]]"
   - "[[Learning Analytics]]"
   - "[[Digital Optimum]]"

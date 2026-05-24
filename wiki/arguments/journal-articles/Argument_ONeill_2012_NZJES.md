@@ -16,9 +16,14 @@ tags:
 related_concepts:
   - "[[Material Fallacies]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Effect Size]]"
+  - "[[Class Size]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
 sources:

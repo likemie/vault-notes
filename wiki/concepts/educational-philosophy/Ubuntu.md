@@ -13,11 +13,13 @@ tags:
 - care-ethics
 - region/global
 related_concepts:
-  - "[[Buen Vivir]]"
   - "[[Posthumanism]]"
+  - "[[Transhumanism]]"
+  - "[[Buen Vivir]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[René Descartes]]"
 related_facts: []
 related_arguments: []
 sources: []

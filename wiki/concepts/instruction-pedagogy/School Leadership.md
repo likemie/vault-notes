@@ -11,13 +11,11 @@ tags:
 - level/k12
 related_concepts:
   - "[[Transformative Leadership]]"
-  - "[[Rightness]]"
   - "[[Doxa]]"
   - "[[Champ]]"
   - "[[Habitus]]"
   - "[[New Public Management]]"
   - "[[School Autonomy]]"
-  - "[[Jing (Refined Mastery)]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -26,7 +24,9 @@ related_facts:
   - "[[OECD Improving School Leadership Project 2006]]"
   - "[[ISSPP Project]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Keddie_2020_JEAH]]"
+  - "[[Keddie_2020_IJLE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

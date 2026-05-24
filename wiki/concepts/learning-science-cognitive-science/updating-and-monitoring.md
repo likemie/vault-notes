@@ -10,13 +10,17 @@ tags:
 - executive-function
 - learning-science
 - cognitive-science
-related_concepts: []
+related_concepts:
+  - "[[Executive Function]]"
+  - "[[Working Memory]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

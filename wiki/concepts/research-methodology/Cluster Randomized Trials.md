@@ -11,6 +11,8 @@ tags:
 - subject/research-methodology
 - level/k12
 related_concepts:
+  - "[[Effect Size]]"
+  - "[[Stable Unit Treatment Value Assumption (SUTVA)]]"
   - "[[Intent-to-Treat Analysis]]"
 related_theories: []
 related_methods:
@@ -18,7 +20,9 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Pampaka_2016_IJRME]]"
+  - "[[Berk_2011_ER]]"
 confidence: low
 status: draft
 created: '2026-05-02'

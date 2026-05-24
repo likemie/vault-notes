@@ -14,17 +14,18 @@ tags:
   - program-evaluation
   - region/us
 related_concepts:
-  - "[[Rightness]]"
   - "[[Effect Size]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Formative Evaluation]]"
 related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
   - "[[Azione LIM 2008]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23

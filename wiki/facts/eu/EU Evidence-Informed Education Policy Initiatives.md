@@ -38,7 +38,8 @@ related_facts:
   - "[[EU Key Competences for Lifelong Learning 2018]]"
 related_arguments:
   - "[[Argument_Pellegrini_2021_ROE]]"
-sources: []
+sources:
+  - "[[Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23

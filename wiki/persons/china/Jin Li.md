@@ -12,26 +12,25 @@ tags:
 - field/cultural-psychology
 - field/learning-science
 related_concepts:
-  - "[[Nerd (School Peer Culture)]]"
+  - "[[Didaktik]]"
   - "[[Heart and Mind for Wanting to Learn]]"
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Rightness]]"
+  - "[[Nerd (School Peer Culture)]]"
   - "[[Cultural Models]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Examined Life]]"
   - "[[Western Learner]]"
   - "[[Take the World Upon Oneself]]"
+  - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
   - "[[Action Better Than Words]]"
   - "[[Chinese Learner]]"
-  - "[[Self-Cultivation]]"
   - "[[Junzi]]"
   - "[[Sage]]"
   - "[[Pride in Learning]]"
+  - "[[Jing (Refined Mastery)]]"
   - "[[Establishing One's Will (lizhi)]]"
-  - "[[Shame (Confucianism)]]"
   - "[[Ideal Learner]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
@@ -39,6 +38,7 @@ related_methods:
   - "[[Prototype Methods]]"
   - "[[Observational and Correlational Research]]"
 related_persons:
+  - "[[Kurt Fischer]]"
   - "[[Socrates]]"
   - "[[Mencius]]"
   - "[[Confucius]]"

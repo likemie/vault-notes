@@ -12,18 +12,23 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Production]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Ecomuseology]]"
+  - "[[Epistemology of Resistance]]"
   - "[[Tense Society]]"
-  - "[[Rightness]]"
-  - "[[Shu (Familiarization)]]"
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Official Knowledge]]"
   - "[[Life Power]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Social Museology]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods:
   - "[[Ganz-Methode]]"
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Walter Mignolo]]"
+  - "[[Richard Castelo Branco]]"
 related_facts: []
 related_arguments: []
 sources: []

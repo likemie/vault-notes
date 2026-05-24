@@ -12,18 +12,25 @@ tags:
 - level/k12
 - paradigm/constructivist
 related_concepts:
+  - "[[Tongxue]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
   - "[[Language Experience Approach]]"
   - "[[Simple View of Reading]]"
   - "[[Direct Instruction]]"
-  - "[[Visible Learning]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[Ken Goodman]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Rose Report 2006]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[OConnor_2020_AJLL]]"
+  - "[[Snook_2009_NZJES]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

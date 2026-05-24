@@ -15,13 +15,14 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Observational and Correlational Research]]"
   - "[[Non-intervention Research]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
-sources: []
+sources:
+  - "[[Brady_2023_EPR]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

@@ -13,25 +13,24 @@ tags:
   - region/global
   - level/higher-ed
 related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Knowledge Transfer]]"
   - "[[Classical Geopolitics]]"
+  - "[[Knowledge-Based Economization]]"
   - "[[Tongxue]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Spatial Sortings]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Knowledge-Based Economization]]"
-  - "[[Rightness]]"
   - "[[National Competitive Advantage]]"
   - "[[Flow]]"
-  - "[[Knowledge Production]]"
+  - "[[Champ]]"
   - "[[Geopolitical Subject]]"
   - "[[International Education Hubs]]"
-  - "[[Knowledge Transfer]]"
   - "[[Narrative Knowledge]]"
   - "[[Global Regionalisms in Higher Education]]"
   - "[[Global Education Industry]]"
   - "[[Space-Making in Higher Education]]"
   - "[[Multiplicity (Massey)]]"
-  - "[[Champ]]"
   - "[[Online Self-Assessment]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
@@ -44,11 +43,10 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
   - "[[Global Universities Rankings]]"
-  - "[[Jing (Refined Mastery)]]"
 related_theories:
   - "[[Critical Geopolitics]]"
-  - "[[Fixity-Motion Tension]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Fixity-Motion Tension]]"
   - "[[Governmentality]]"
   - "[[Hegemony]]"
 related_methods:
@@ -56,6 +54,7 @@ related_methods:
   - "[[Single-Case Design (SCD)]]"
 related_persons:
   - "[[Sami Moisio]]"
+  - "[[Jean-François Lyotard]]"
   - "[[Doreen Massey]]"
 related_facts:
   - "[[Minerva University]]"

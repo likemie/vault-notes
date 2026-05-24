@@ -19,14 +19,20 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
   - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[School Effectiveness]]"
+  - "[[Confidence Interval]]"
+  - "[[Feedback]]"
   - "[[Class Size]]"
-  - "[[Whole Language]]"
   - "[[Evidence-Based Education]]"
+  - "[[Whole Language]]"
+  - "[[Language Experience Approach]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Goldman's Discrimination Theory of Knowledge]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Intervention Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_arguments:
@@ -34,9 +40,19 @@ related_arguments:
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Wrigley_2019_ERE]]"
-sources: []
+sources:
+  - "[[Snook_2009_NZJES]]"
+  - "[[Terhart_2011_JCS]]"
+  - "[[Hattie_2015_Paideia]]"
+  - "[[Allerup_2015_Paideia]]"
+  - "[[Wecker_2016_ZfE]]"
+  - "[[Simpson_2017_JEP]]"
+  - "[[Simpson_2019_ERE]]"
+  - "[[OConnor_2020_AJLL]]"
+  - "[[Johnson_2023_CE]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[PISA]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

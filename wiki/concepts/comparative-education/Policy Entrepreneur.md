@@ -10,15 +10,18 @@ tags:
 - region/new-zealand
 - region/global
 related_concepts:
-  - "[[Rightness]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Stephen Ball]]"
+  - "[[John Hattie]]"
 related_facts:
+  - "[[Cognition Education (NZ)]]"
   - "[[Teach First New Zealand Ako Mātātupu (TFNZ 2011)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

@@ -11,10 +11,13 @@ tags:
 - urbanization
 - region/global
 related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Knowledge-Based Economization]]"
   - "[[National Competitive Advantage]]"
   - "[[Spatial Sortings]]"
-  - "[[Rightness]]"
+  - "[[Selectivity]]"
   - "[[Hub and Flow Imaginaries]]"
+  - "[[Flow]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
 related_methods: []

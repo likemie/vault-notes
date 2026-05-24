@@ -11,10 +11,10 @@ tags:
 - region/global
 - subject/comparative-education
 related_concepts:
-  - "[[Rightness]]"
-  - "[[Further Education]]"
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
+  - "[[Further Education]]"
+  - "[[Varieties of Capitalism]]"
 related_theories: []
 related_methods: []
 related_persons:

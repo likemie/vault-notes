@@ -13,16 +13,17 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[Graduation Pathway Typology (Zheng)]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Barrier in Higher Education]]"
-  - "[[Rightness]]"
-  - "[[Self-Efficacy]]"
+  - "[[Champ]]"
   - "[[Doxa]]"
+  - "[[Self-Efficacy]]"
   - "[[Self-Driven Mode]]"
-  - "[[Shu (Familiarization)]]"
   - "[[Value Conformist Mode]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []

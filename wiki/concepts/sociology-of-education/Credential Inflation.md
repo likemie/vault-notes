@@ -13,9 +13,9 @@ tags:
 - social-stratification
 - level/higher-ed
 related_concepts:
-  - "[[Jing (Refined Mastery)]]"
   - "[[Economy of Experience]]"
   - "[[Employability]]"
+  - "[[Champ]]"
 related_theories: []
 related_methods: []
 related_persons:

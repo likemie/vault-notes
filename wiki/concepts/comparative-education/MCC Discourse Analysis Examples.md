@@ -15,11 +15,12 @@ tags:
   - method/discourse-analysis
 related_concepts:
   - "[[Ren]]"
-  - "[[Rightness]]"
+  - "[[Tongxue]]"
   - "[[Pride in Learning]]"
 related_theories:
   - "[[Appraisal Theory]]"
-related_methods: []
+related_methods:
+  - "[[Mother-Child Conversation (MCC)]]"
 related_persons: []
 related_facts: []
 related_arguments: []

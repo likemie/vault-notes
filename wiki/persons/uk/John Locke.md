@@ -18,11 +18,15 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Certainty of Knowledge]]"
+  - "[[Humility in Learning]]"
   - "[[Mind and Its Wonders]]"
 related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons:
+  - "[[Plato]]"
+  - "[[René Descartes]]"
+  - "[[Socrates]]"
   - "[[Immanuel Kant]]"
   - "[[George Berkeley]]"
   - "[[Jean-Jacques Rousseau]]"

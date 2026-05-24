@@ -10,10 +10,13 @@ tags:
 - region/uk
 related_concepts: []
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+related_persons:
+  - "[[Julian Williams]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Pampaka_2016_IJRME]]"
 confidence: low
 status: draft
 created: '2026-05-02'

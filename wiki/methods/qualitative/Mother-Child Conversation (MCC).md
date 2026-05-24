@@ -16,15 +16,19 @@ tags:
   - region/east-asia
   - region/west
 related_concepts:
-  - "[[Rightness]]"
   - "[[Pride in Learning]]"
-  - "[[Humility in Learning]]"
   - "[[Learning Virtues]]"
+  - "[[Humility in Learning]]"
+  - "[[Heart and Mind for Wanting to Learn]]"
   - "[[MCC Discourse Analysis Examples]]"
   - "[[Cognitive Source]]"
+  - "[[Ren]]"
+  - "[[Confucian Tutoring Style]]"
 related_theories:
   - "[[Appraisal Theory]]"
-related_methods: []
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Socrates]]"
 related_arguments:

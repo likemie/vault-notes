@@ -13,26 +13,36 @@ tags:
 - region/global
 related_concepts:
   - "[[Transitology]]"
-  - "[[Externalization (Schriewer)]]"
   - "[[Cross-National Attraction]]"
+  - "[[Externalization (Schriewer)]]"
+  - "[[International Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Policy Entrepreneur]]"
+  - "[[School Autonomy]]"
 related_theories:
   - "[[World Society Theory]]"
 related_methods:
   - "[[Matching]]"
+  - "[[Comparative Case Study]]"
   - "[[Historical Document Analysis of Curriculum]]"
-related_persons: []
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
   - "[[Liberal Studies (Hong Kong)]]"
+  - "[[International Baccalaureate (IB)]]"
+  - "[[PISA]]"
   - "[[Citizenship and Social Development (Hong Kong)]]"
 related_arguments:
   - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Golovchin_2019_ESC]]"
-sources: []
+sources:
+  - "[[Rappleye_2006_RCIE]]"
+  - "[[Golovchin_2019_ESC]]"
+  - "[[Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'

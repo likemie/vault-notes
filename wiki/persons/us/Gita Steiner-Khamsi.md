@@ -11,12 +11,18 @@ tags:
 - policy-borrowing
 - globalization
 - region/us
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[International Education]]"
+  - "[[Policy Borrowing]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Rappleye_2006_RCIE]]"
+related_facts:
+  - "[[Liberal Studies (Hong Kong)]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

@@ -15,16 +15,19 @@ tags:
   - theme/educational-intervention
   - method/experimental-evaluation
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Knowledge Mobilisation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Pellegrini_2021_ROE]]"
-sources: []
+sources:
+  - "[[Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23

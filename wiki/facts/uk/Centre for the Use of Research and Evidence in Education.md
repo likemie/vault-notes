@@ -14,6 +14,7 @@ tags:
   - theme/evidence-informed-practice
   - theme/knowledge-mobilisation
 related_concepts:
+  - "[[Effective Teaching]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []
@@ -22,7 +23,8 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Pellegrini_2021_ROE]]"
-sources: []
+sources:
+  - "[[Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23

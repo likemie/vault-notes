@@ -11,16 +11,21 @@ tags:
 - meta-analysis
 - evidence-based-education
 related_concepts:
+  - "[[Developer Effect]]"
+  - "[[Implementation Fidelity]]"
+  - "[[Effect Size]]"
   - "[[Publication Bias]]"
   - "[[Preregistration]]"
-  - "[[Developer Effect]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
+  - "[[What Works Clearinghouse (WWC)]]"
   - "[[Creation of REES 2018]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wolf_2020_JREE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

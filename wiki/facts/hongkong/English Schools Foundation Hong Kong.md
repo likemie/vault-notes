@@ -13,8 +13,9 @@ tags:
 - level/k12
 related_concepts:
   - "[[Chinese Learner]]"
-  - "[[International Schools]]"
   - "[[Fourth Culture]]"
+  - "[[International Schools]]"
+  - "[[International Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

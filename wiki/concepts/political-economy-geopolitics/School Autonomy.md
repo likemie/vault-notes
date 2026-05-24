@@ -15,15 +15,18 @@ related_concepts:
   - "[[School Leadership]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Bertrand Russell]]"
 related_facts:
+  - "[[My School Website]]"
   - "[[Karmel Report 1973]]"
   - "[[Local Schools Local Decisions (NSW)]]"
   - "[[Independent Public Schools (IPS) Western Australia]]"
-  - "[[My School Website]]"
   - "[[Gonski Reforms]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Keddie_2020_JEAH]]"
+  - "[[Keddie_2020_IJLE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

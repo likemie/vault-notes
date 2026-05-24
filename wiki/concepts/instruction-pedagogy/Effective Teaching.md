@@ -9,14 +9,16 @@ tags:
 - subject/instruction
 - level/k12
 related_concepts:
-  - "[[Classroom Management]]"
   - "[[Feedback]]"
+  - "[[Classroom Management]]"
   - "[[School Leadership]]"
   - "[[Visible Learning]]"
   - "[[Individualised Instruction]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Jill Mehlbye]]"
@@ -26,7 +28,8 @@ related_facts:
   - "[[Danish Public School Reform 2014]]"
 related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
-sources: []
+sources:
+  - "[[Laursen_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-05'

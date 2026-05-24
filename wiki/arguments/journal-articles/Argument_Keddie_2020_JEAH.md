@@ -13,13 +13,17 @@ tags:
 - principals
 - region/australia
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[School Autonomy]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[My School Website]]"
+  - "[[Independent Public Schools (IPS) Western Australia]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Keddie_2020_JEAH]]"
 part_of: ''
 status: draft
 created: '2026-05-02'

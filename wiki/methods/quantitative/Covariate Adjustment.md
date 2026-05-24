@@ -14,14 +14,18 @@ tags:
 - quantitative-methods
 related_concepts:
   - "[[Effect Size]]"
-related_theories: []
+related_theories:
+  - "[[Societies of Control]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
   - "[[Matching]]"
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Allerup_2015_Paideia]]"
+  - "[[Berk_2011_ER]]"
 confidence: low
 status: draft
 created: '2026-05-05'

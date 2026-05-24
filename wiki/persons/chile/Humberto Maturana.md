@@ -10,7 +10,8 @@ tags:
 - autopoiesis
 - biology
 - social-theory
-related_concepts: []
+related_concepts:
+  - "[[Multiplicity (Massey)]]"
 related_theories:
   - "[[Autopoiesis]]"
   - "[[Transition Design]]"

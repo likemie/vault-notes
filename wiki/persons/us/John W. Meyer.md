@@ -10,10 +10,8 @@ tags:
 - discipline/sociology
 - school/world-society-theory
 related_concepts:
-  - "[[Rightness]]"
-  - "[[Organizational Actorhood]]"
   - "[[Cultural Models]]"
-  - "[[Shu (Familiarization)]]"
+  - "[[Organizational Actorhood]]"
   - "[[Otherhood]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Epistemic Governance]]"

@@ -11,13 +11,20 @@ tags:
 - region/denmark
 - academic-publication
 - critique
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Feedback]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Steen Nepper Larsen]]"
+  - "[[Thomas Aastrup Rømer]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Qvortrup_2019_NordSTEP]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

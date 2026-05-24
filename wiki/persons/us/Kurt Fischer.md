@@ -9,12 +9,17 @@ tags:
 - fischer
 - paradigm/constructivist
 - neo-piagetian
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Executive Function]]"
+related_theories:
+  - "[[Neo-Piagetian Theories]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Jean Piaget]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
 confidence: low
 status: draft
 created: '2026-05-04'

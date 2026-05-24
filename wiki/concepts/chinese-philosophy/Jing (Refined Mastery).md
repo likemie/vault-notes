@@ -18,12 +18,12 @@ tags:
 - theory/taoism
 related_concepts:
   - "[[Shu (Familiarization)]]"
-  - "[[Rightness]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources: []

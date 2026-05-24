@@ -15,7 +15,7 @@ tags:
 related_concepts:
   - "[[International Education Hubs]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
-  - "[[Rightness]]"
+  - "[[International Education]]"
   - "[[Multiplicity (Massey)]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:

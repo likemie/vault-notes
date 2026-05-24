@@ -13,13 +13,13 @@ tags:
 - graduate-employment
 - level/higher-ed
 related_concepts:
+  - "[[Knowledge-Based Economy]]"
   - "[[Graduate Attributes]]"
   - "[[Economy of Experience]]"
   - "[[Credential Inflation]]"
   - "[[Social Engagement]]"
-  - "[[Self-Entrepreneur]]"
-  - "[[Rightness]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Self-Entrepreneur]]"
   - "[[Academic Engagement]]"
   - "[[Goal-Controlled Mode]]"
 related_theories:

@@ -15,15 +15,14 @@ tags:
 - region/uk
 - region/eu
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
-  - "[[Rightness]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[School Leadership]]"
   - "[[Statistical Significance]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[Evidence-Based Education]]"
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Gating Procedure]]"
@@ -33,6 +32,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Meta-analysis]]"
   - "[[Single-Case Design (SCD)]]"
 related_persons: []
 related_facts:
@@ -64,7 +64,10 @@ related_facts:
   - "[[Promising Practices Network (PPN)]]"
 related_arguments:
   - "[[Argument_Pellegrini_2021_ROE]]"
-sources: []
+sources:
+  - "[[Hitchcock_2015_JBE]]"
+  - "[[Wadhwa_2024_RER]]"
+  - "[[Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

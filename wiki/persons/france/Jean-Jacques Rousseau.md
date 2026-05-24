@@ -19,10 +19,13 @@ tags:
 - theme/child-development
 related_concepts:
   - "[[Western Learner]]"
+  - "[[Ideal Learner]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[John Locke]]"
+  - "[[Socrates]]"
+  - "[[Jean Piaget]]"
   - "[[Bertrand Russell]]"
 related_facts: []
 related_arguments: []

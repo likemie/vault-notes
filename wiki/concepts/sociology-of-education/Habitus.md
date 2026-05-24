@@ -13,14 +13,10 @@ tags:
 - paradigm/critical
 - region/france
 related_concepts:
-  - "[[Rightness]]"
-  - "[[Shu (Familiarization)]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Champ]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Doxa]]"
   - "[[Goal-Controlled Mode]]"
-  - "[[Sage]]"
   - "[[Self-Authorship]]"
   - "[[Cultural Barrier in Higher Education]]"
   - "[[New Public Management]]"
@@ -28,6 +24,8 @@ related_theories:
   - "[[Culture as Toolkit]]"
 related_methods:
   - "[[Matching]]"
+  - "[[In-depth Interview]]"
+  - "[[Constructivist Grounded Theory]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"

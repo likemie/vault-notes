@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Five Cardinal Relationships]]"
   - "[[Self-Cultivation]]"
+  - "[[Champ]]"
 related_theories: []
 related_methods: []
 related_persons:

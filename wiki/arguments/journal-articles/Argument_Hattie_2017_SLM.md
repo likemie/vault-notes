@@ -13,13 +13,19 @@ tags:
 - school-leadership
 - paradigm/positivist
 - region/australia
-related_concepts: []
+related_concepts:
+  - "[[School Leadership]]"
+  - "[[Cult of the Guru]]"
+  - "[[Feedback]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Hattie_2017_SLM]]"
 part_of: ''
 status: draft
 created: '2026-05-07'

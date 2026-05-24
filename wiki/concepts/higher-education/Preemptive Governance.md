@@ -21,7 +21,6 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
-  - "[[Rightness]]"
   - "[[Feedback]]"
   - "[[Competitiveness in Higher Education]]"
   - "[[Stakeholder University]]"

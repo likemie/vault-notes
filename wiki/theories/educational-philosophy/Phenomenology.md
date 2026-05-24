@@ -12,15 +12,21 @@ tags:
 - paradigm/interpretivist
 related_concepts:
   - "[[Phenomenon-Based Learning]]"
+  - "[[Champ]]"
+  - "[[Neuroplasticity]]"
   - "[[Bildung]]"
+  - "[[Visible Learning]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Philosophical Analysis in Education]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-sources: []
+sources:
+  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

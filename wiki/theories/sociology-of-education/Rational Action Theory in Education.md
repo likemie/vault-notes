@@ -10,11 +10,15 @@ tags:
 - educational-inequality
 - region/uk
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Habitus]]"
+  - "[[Champ]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Max Weber]]"
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []

@@ -13,13 +13,16 @@ tags:
 - theme/development
 related_concepts:
   - "[[Life Power]]"
+  - "[[Ecomuseology]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods:
   - "[[Ganz-Methode]]"
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Dell Delambre]]"
-related_facts: []
+related_facts:
+  - "[[UN Sustainable Development Goals 2015]]"
 related_arguments: []
 sources: []
 confidence: low

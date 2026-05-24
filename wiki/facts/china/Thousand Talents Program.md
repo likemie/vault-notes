@@ -20,6 +20,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[US-China Economic and Security Review Commission (2000)]]"
   - "[[Sino-American Trade War (2018)]]"
 related_arguments: []
 sources: []

@@ -15,8 +15,6 @@ tags:
 - region/global
 related_concepts:
   - "[[Classical Geopolitics]]"
-  - "[[Rightness]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Spatial Sortings]]"

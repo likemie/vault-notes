@@ -12,13 +12,12 @@ tags:
 - level/k12
 - level/higher-ed
 related_concepts:
-  - "[[Knowledge-Based Economy]]"
-  - "[[Global Universities Rankings]]"
-  - "[[International Schools]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[International Education]]"
   - "[[Chinese Learner]]"
-  - "[[Rightness]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[International Schools]]"
+  - "[[Global Universities Rankings]]"
+  - "[[Doxa]]"
 related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"
@@ -27,6 +26,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Academic Ranking of World Universities (ARWU)]]"
   - "[[International Baccalaureate (IB)]]"
+  - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
 sources: []
 part_of: '[[Argument_Ryan_2010_HKUP]]'

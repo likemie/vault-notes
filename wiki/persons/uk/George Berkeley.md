@@ -16,11 +16,16 @@ tags:
 - theme/knowledge
 - theme/learning
 - theme/metaphysics
-related_concepts: []
+related_concepts:
+  - "[[Doxa]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[John Locke]]"
+  - "[[René Descartes]]"
+  - "[[Plato]]"
+  - "[[Immanuel Kant]]"
+  - "[[Bertrand Russell]]"
 related_facts: []
 related_arguments: []
 sources: []

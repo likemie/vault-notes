@@ -19,7 +19,8 @@ related_concepts:
   - "[[Scale in Higher Education]]"
 related_theories:
   - "[[Cultural Political Economy]]"
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"

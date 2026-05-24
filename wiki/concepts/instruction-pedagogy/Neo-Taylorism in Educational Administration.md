@@ -12,27 +12,32 @@ tags:
 - paradigm/critical
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Rightness]]"
   - "[[Effect Size]]"
-  - "[[Shu (Familiarization)]]"
+  - "[[Transformative Leadership]]"
   - "[[New Public Management]]"
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
-  - "[[Transformative Leadership]]"
   - "[[Feedback]]"
 related_theories:
   - "[[Technical Rationality]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
+  - "[[Theory Movement in Educational Administration]]"
+  - "[[Cognition Education (NZ)]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[PISA]]"
   - "[[Victorian HITS and Literacy Toolkit 2017]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Eacott_2017_SLM]]"
+  - "[[Hattie_2017_SLM]]"
+  - "[[Eacott_2019_IJLE]]"
+  - "[[Johnson_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

@@ -10,10 +10,11 @@ tags:
 - level/k12
 related_concepts:
   - "[[School Leadership]]"
-  - "[[Rightness]]"
+  - "[[Champ]]"
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Carolyn Shields]]"
   - "[[Helen Gunter]]"
 related_facts: []
 related_arguments: []

@@ -14,18 +14,20 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[Cultural Disembedding]]"
   - "[[Lost Mode]]"
   - "[[Champ]]"
-  - "[[Rightness]]"
-  - "[[Value Conformist Mode]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Habitus]]"
   - "[[Shame (Confucianism)]]"
+  - "[[Cultural Disembedding]]"
+  - "[[Value Conformist Mode]]"
   - "[[The Shock of the Elite]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []

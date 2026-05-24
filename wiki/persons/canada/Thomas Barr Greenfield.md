@@ -11,11 +11,14 @@ tags:
 - paradigm/interpretivist
 - educational-administration
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Phenomenology]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Eacott_2015_EPT]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

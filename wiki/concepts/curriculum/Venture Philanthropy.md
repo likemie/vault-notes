@@ -13,10 +13,12 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Teach First New Zealand Ako Mātātupu (TFNZ 2011)]]"
   - "[[Manaiakalani Education Trust (NZ 2011)]]"
   - "[[Partnership Schools Kura Hourua (NZ 2011)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

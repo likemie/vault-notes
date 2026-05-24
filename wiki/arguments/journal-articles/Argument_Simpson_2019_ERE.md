@@ -13,13 +13,21 @@ tags:
 - methodology
 - statistics
 - stance/critique
-related_concepts: []
+related_concepts:
+  - "[[Effect Size]]"
+  - "[[Visible Learning]]"
+  - "[[Direct Instruction]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Matching]]"
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Simpson_2019_ERE]]"
 part_of: ''
 status: draft
 created: '2026-05-03'

@@ -14,13 +14,16 @@ tags:
 - region/us
 - level/k12
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Vergegenkunft]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[International Indicators of Education Systems (INES)]]"
   - "[[Education at a Glance (EAG)]]"
+  - "[[PISA]]"
 related_arguments: []
 sources: []
 confidence: medium

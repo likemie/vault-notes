@@ -16,7 +16,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge Production]]"
-  - "[[Rightness]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Classical Geopolitics]]"

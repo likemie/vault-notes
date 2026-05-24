@@ -14,7 +14,6 @@ tags:
   - theme/achievement
   - theme/social-acceptance
 related_concepts:
-  - "[[Rightness]]"
   - "[[Academic Engagement]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Zero-Sum Competition (School)]]"

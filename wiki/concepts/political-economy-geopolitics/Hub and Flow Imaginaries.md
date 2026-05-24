@@ -14,15 +14,14 @@ tags:
 - spatial-imaginaries
 - region/global
 related_concepts:
+  - "[[Flow]]"
+  - "[[Knowledge-Based Economization]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Rightness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[National Competitive Advantage]]"
   - "[[Economic Patriotism]]"
   - "[[Spatial Sortings]]"
-  - "[[Knowledge-Based Economization]]"
   - "[[International Education Hubs]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Progressive Neoliberalism]]"
   - "[[Geopolitical Subject]]"
 related_theories:
@@ -32,7 +31,8 @@ related_theories:
   - "[[Critical Geopolitics]]"
 related_methods:
   - "[[Observational and Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[Sami Moisio]]"
 related_facts:
   - "[[Minerva University]]"
   - "[[Singapore Education Hub Policy]]"

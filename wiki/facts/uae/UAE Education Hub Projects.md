@@ -18,8 +18,8 @@ tags:
 - theme/development
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Internationalization of Higher Education]]"
   - "[[Cultural Diplomacy]]"
-  - "[[Shu (Familiarization)]]"
   - "[[Knowledge Production]]"
   - "[[International Education Hubs]]"
   - "[[Hub and Flow Imaginaries]]"

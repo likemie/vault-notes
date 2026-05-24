@@ -12,22 +12,22 @@ tags:
 - region/eu
 related_concepts:
   - "[[Performance Indicators]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Neocorporatism]]"
   - "[[Theories of Policy Change]]"
   - "[[Selectivity]]"
-  - "[[Rightness]]"
+  - "[[Venture Philanthropy]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[YOUNG_ADULLLT]]"
   - "[[Manaiakalani Education Trust (NZ 2011)]]"
   - "[[Cognition Education (NZ)]]"
   - "[[Teach First New Zealand Ako Mātātupu (TFNZ 2011)]]"
   - "[[Partnership Schools Kura Hourua (NZ 2011)]]"
-  - "[[YOUNG_ADULLLT]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

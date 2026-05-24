@@ -17,6 +17,7 @@ related_concepts:
   - "[[Enculturation]]"
   - "[[Cultural Models]]"
   - "[[Learning Virtues]]"
+  - "[[Self-Cultivation]]"
 related_theories: []
 related_methods:
   - "[[Prototype Methods]]"

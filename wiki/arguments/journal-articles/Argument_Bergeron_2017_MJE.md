@@ -14,13 +14,20 @@ tags:
 - methodology-critique
 - statistics
 - subject/research-methodology
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[Class Size]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Bergeron_2017_MJE]]"
 part_of: ''
 status: draft
 created: '2026-05-03'

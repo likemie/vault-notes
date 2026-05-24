@@ -13,8 +13,12 @@ tags:
   - theme/classroom-discourse
   - field/comparative-education
   - field/instruction-pedagogy
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Action Better Than Words]]"
+  - "[[Student Engagement]]"
+  - "[[Feedback]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons: []

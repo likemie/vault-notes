@@ -17,13 +17,23 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Effect Size]]"
+  - "[[Visible Learning]]"
 related_theories:
   - "[[Critical Realism]]"
-related_methods: []
-related_persons: []
-related_facts: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+  - "[[Philosophical Analysis in Education]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Playing for Success]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wrigley_2019_ERE]]"
 part_of: ''
 status: draft
 created: '2026-05-01'

@@ -9,14 +9,18 @@ tags:
 - evidence-based-education
 - research-methodology
 related_concepts:
+  - "[[Class Size]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[ONeill_2012_NZJES]]"
 confidence: low
 status: draft
 created: '2026-05-06'

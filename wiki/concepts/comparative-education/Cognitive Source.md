@@ -15,11 +15,16 @@ tags:
   - region/west
 related_concepts:
   - "[[Learning Virtues]]"
+  - "[[Pride in Learning]]"
+  - "[[Ren]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Confucian Tutoring Style]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Mother-Child Conversation (MCC)]]"
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Socrates]]"
 related_facts: []
 related_arguments: []
 sources: []

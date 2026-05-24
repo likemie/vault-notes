@@ -10,13 +10,19 @@ tags:
 - executive-function
 - cognitive-science
 - learning-science
-related_concepts: []
+related_concepts:
+  - "[[Executive Function]]"
+  - "[[Updating and Monitoring]]"
+  - "[[Working Memory]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Jean Piaget]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

@@ -13,13 +13,15 @@ tags:
 - region/global
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Evidence-Informed Practice]]"
 related_theories:
   - "[[Transactional Epistemology]]"
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Biesta_2010_SPE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

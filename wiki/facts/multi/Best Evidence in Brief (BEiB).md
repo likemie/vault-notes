@@ -15,14 +15,17 @@ tags:
 - region/us
 - region/uk
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Robert Slavin]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Slavin_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

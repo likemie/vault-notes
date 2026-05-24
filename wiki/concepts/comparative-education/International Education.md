@@ -13,6 +13,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Global Universities Rankings]]"
   - "[[International Schools]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Chinese Learner]]"
   - "[[International Education Hubs]]"
 related_theories: []
@@ -21,10 +22,10 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[Academic Ranking of World Universities (ARWU)]]"
+  - "[[International Baccalaureate (IB)]]"
   - "[[Education City Doha]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[Transnationalism and America Project SYSU]]"
-  - "[[International Baccalaureate (IB)]]"
 related_arguments: []
 sources: []
 confidence: medium

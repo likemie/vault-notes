@@ -19,9 +19,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Reusability Paradox]]"
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Rightness]]"
-  - "[[Shu (Familiarization)]]"
+  - "[[Class Size]]"
 related_theories: []
 related_methods:
   - "[[Mixed Method and Multi-method Research]]"
@@ -40,7 +38,8 @@ related_facts:
   - "[[Evidence-Based Teachers Network]]"
   - "[[EU Key Competences for Lifelong Learning 2018]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Pellegrini_2021_ROE]]"
 part_of: ''
 status: draft
 created: 2026-05-23

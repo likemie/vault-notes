@@ -14,22 +14,22 @@ tags:
 - geopolitics
 related_concepts:
   - "[[Knowledge Capitalism]]"
-  - "[[Rightness]]"
   - "[[Classical Geopolitics]]"
   - "[[Orientalism]]"
   - "[[Knowledge Production]]"
-  - "[[Transnational Research Collaboration in Higher Education]]"
   - "[[International Education]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Transnational Research Collaboration in Higher Education]]"
   - "[[International Schools]]"
   - "[[Doxa]]"
   - "[[Champ]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Knowledge-Based Economy]]"
 related_theories:
-  - "[[Network Society]]"
   - "[[Critical Geopolitics]]"
-related_methods: []
+  - "[[Network Society]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Frantz Fanon]]"
 related_facts:

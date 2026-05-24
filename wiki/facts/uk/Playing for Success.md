@@ -16,13 +16,20 @@ tags:
 - level/k12
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Evidence-Based Education]]"
+  - "[[School Leadership]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
+  - "[[Matching]]"
+  - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

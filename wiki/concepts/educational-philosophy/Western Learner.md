@@ -12,10 +12,9 @@ tags:
 - field/comparative-education
 - theme/learning
 related_concepts:
-  - "[[Sage]]"
   - "[[Jing (Refined Mastery)]]"
-  - "[[Shu (Familiarization)]]"
   - "[[Revoicing]]"
+  - "[[Ideal Learner]]"
   - "[[Chinese Learner]]"
   - "[[Learning Virtues]]"
   - "[[Take the World Upon Oneself]]"
@@ -29,6 +28,7 @@ related_methods:
 related_persons:
   - "[[Jean-Jacques Rousseau]]"
   - "[[Plato]]"
+  - "[[Socrates]]"
 related_facts: []
 related_arguments: []
 sources: []

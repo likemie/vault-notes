@@ -15,7 +15,6 @@ tags:
 - policy/education
 related_concepts:
   - "[[Performance Indicators]]"
-  - "[[Rightness]]"
   - "[[Selectivity]]"
   - "[[Theories of Policy Change]]"
 related_theories: []

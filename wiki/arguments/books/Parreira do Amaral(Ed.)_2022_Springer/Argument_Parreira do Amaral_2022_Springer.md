@@ -17,19 +17,28 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Knowledge Production]]"
+  - "[[Geopolitics of Knowledge]]"
   - "[[Champ]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Geopolitics of Knowledge]]"
   - "[[Global Universities Rankings]]"
   - "[[Further Education]]"
   - "[[Bildung]]"
-  - "[[Rightness]]"
+  - "[[Classical Geopolitics]]"
   - "[[Global Regionalisms in Higher Education]]"
   - "[[Regulatory Regionalism]]"
   - "[[Global Education Industry]]"
-related_theories: []
+  - "[[Flow]]"
+  - "[[Transhumanism]]"
+  - "[[Posthumanism]]"
+  - "[[Knowledge Transfer]]"
+related_theories:
+  - "[[Critical Geopolitics]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Sami Moisio]]"
+  - "[[Marcelo Parreira do Amaral]]"
 related_facts:
   - "[[Minerva University]]"
 related_arguments:

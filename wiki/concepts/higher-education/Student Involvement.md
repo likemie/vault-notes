@@ -14,12 +14,15 @@ tags:
 related_concepts:
   - "[[Student Engagement]]"
   - "[[Academic and Social Integration]]"
+  - "[[Tongxue]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
+  - "[[Cultural Capital]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []

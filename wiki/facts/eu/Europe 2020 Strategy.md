@@ -16,9 +16,11 @@ tags:
 - policy/education
 - policy/innovation
 related_concepts:
+  - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
   - "[[Theories of Policy Change]]"
   - "[[Network Governance]]"
+  - "[[Doxa]]"
   - "[[Selectivity]]"
 related_theories: []
 related_methods:
@@ -28,6 +30,7 @@ related_facts:
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
   - "[[Youth Guarantee Scheme]]"
+  - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
 sources: []
 confidence: medium

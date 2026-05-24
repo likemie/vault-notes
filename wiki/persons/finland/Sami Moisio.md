@@ -10,7 +10,6 @@ tags:
 - level/higher-ed
 - discipline/political-geography
 related_concepts:
-  - "[[Rightness]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"

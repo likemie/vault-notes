@@ -17,6 +17,8 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Response-ability]]"
   - "[[Transitology]]"
+  - "[[International Education]]"
+  - "[[School Autonomy]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Vergegenkunft]]"
   - "[[Educational Technology Industry]]"
@@ -28,11 +30,14 @@ related_concepts:
   - "[[Ubuntu]]"
   - "[[Buen Vivir]]"
   - "[[New Public Management]]"
+  - "[[Didaktik]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Autopoiesis]]"
+  - "[[Luhmann's Systems Theory]]"
   - "[[Transition Design]]"
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Robert Cowen]]"
   - "[[Julian Huxley]]"
@@ -40,7 +45,9 @@ related_persons:
   - "[[Arturo Escobar]]"
   - "[[Humberto Maturana]]"
   - "[[Francisco Varela]]"
+  - "[[Pierre Bourdieu]]"
 related_facts:
+  - "[[Grammar School]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Regional University Alliances]]"
 related_arguments: []

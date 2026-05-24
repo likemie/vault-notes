@@ -13,12 +13,21 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
   - "[[Validity as Inferences]]"
+  - "[[Feedback]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Formative Evaluation]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wiliam_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

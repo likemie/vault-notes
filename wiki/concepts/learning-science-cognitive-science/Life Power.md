@@ -9,11 +9,14 @@ type: concept
 tags:
 - region/brazil
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Ecomuseology]]"
+  - "[[Whole Sustainability]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods:
   - "[[Ganz-Methode]]"
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Dell Delambre]]"
 related_facts: []

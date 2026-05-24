@@ -14,12 +14,11 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Champ]]"
-  - "[[Rightness]]"
-  - "[[Bildung]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Habitus]]"
+  - "[[Bildung]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Tongxue]]"
   - "[[School Leadership]]"
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Economy of Experience]]"
@@ -30,7 +29,8 @@ related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
-related_facts: []
+related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources: []
 confidence: medium

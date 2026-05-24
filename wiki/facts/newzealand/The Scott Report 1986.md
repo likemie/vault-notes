@@ -20,7 +20,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Snook_2009_NZJES]]"
 confidence: low
 status: draft
 created: '2026-05-03'

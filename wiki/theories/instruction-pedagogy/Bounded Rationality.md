@@ -9,14 +9,21 @@ tags:
 - decision-making
 - organizational-theory
 related_concepts:
+  - "[[Feedback]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
-related_theories: []
-related_methods: []
-related_persons: []
+  - "[[Effect Size]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Herbert A. Simon]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'

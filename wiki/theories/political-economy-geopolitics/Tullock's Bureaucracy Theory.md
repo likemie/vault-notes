@@ -16,13 +16,18 @@ tags:
 - region/global
 related_concepts:
   - "[[Evidence-Based Education]]"
-related_theories: []
+  - "[[Feedback]]"
+  - "[[Policy Borrowing]]"
+related_theories:
+  - "[[Bounded Rationality]]"
 related_methods:
+  - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Cowen_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

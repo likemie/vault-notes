@@ -12,12 +12,20 @@ tags:
 - region/global
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Production]]"
+  - "[[Junzi]]"
+  - "[[Champ]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Economic and Industrial Espionage]]"
   - "[[Knowledge Sabotage]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Plato]]"
+  - "[[Confucius]]"
+  - "[[Paulo Freire]]"
+  - "[[Frantz Fanon]]"
+  - "[[Chen Kuan-Hsing]]"
 related_facts:
   - "[[Kokutai no Hongi (1937)]]"
   - "[[China Social Credit System]]"

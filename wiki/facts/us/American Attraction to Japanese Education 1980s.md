@@ -22,7 +22,8 @@ related_persons: []
 related_facts:
   - "[[A Nation at Risk 1983]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

@@ -9,14 +9,20 @@ tags:
 - executive-function
 - learning-science
 - cognitive-science
-related_concepts: []
+related_concepts:
+  - "[[Working Memory]]"
+  - "[[Cognitive Shifting]]"
+  - "[[Feedback]]"
+  - "[[Updating and Monitoring]]"
+  - "[[Prefrontal Cortex]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

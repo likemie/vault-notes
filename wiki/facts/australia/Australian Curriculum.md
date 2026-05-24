@@ -12,14 +12,17 @@ tags:
 - level/k12
 - curriculum
 related_concepts:
-  - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
+  - "[[Feedback]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Victorian HITS and Literacy Toolkit 2017]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Sarbiewska_2019_JSR]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

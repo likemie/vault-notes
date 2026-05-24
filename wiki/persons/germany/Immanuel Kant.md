@@ -19,10 +19,15 @@ tags:
 related_concepts:
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
-related_theories: []
+related_theories:
+  - "[[Phenomenology]]"
 related_methods: []
 related_persons:
+  - "[[Plato]]"
+  - "[[René Descartes]]"
   - "[[John Locke]]"
+  - "[[George Berkeley]]"
+  - "[[Socrates]]"
 related_facts: []
 related_arguments: []
 sources: []

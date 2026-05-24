@@ -14,15 +14,19 @@ tags:
 - region/us
 - level/k12
 related_concepts:
+  - "[[Class Size]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Cowen_2015_CHESS]]"
+  - "[[Wiliam_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

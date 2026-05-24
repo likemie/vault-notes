@@ -15,17 +15,17 @@ tags:
 - theme/ethics
 related_concepts:
   - "[[Self-Cultivation]]"
-  - "[[Rightness]]"
-  - "[[Ren]]"
-  - "[[Sage]]"
   - "[[Junzi]]"
+  - "[[Sage]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons:
   - "[[Mencius]]"
   - "[[Zhu Xi]]"
-related_facts: []
+  - "[[Socrates]]"
+related_facts:
+  - "[[Civil Service Examination]]"
 related_arguments: []
 sources: []
 confidence: medium

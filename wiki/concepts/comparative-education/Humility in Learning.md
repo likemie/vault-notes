@@ -19,7 +19,6 @@ related_concepts:
   - "[[Nerd (School Peer Culture)]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Ideal Learner]]"
-  - "[[Jing (Refined Mastery)]]"
 related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"

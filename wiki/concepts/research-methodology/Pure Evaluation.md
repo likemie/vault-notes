@@ -8,13 +8,17 @@ tags:
 - evaluation
 - methodology
 - region/denmark
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Romer_2018_EPT]]"
 confidence: low
 status: draft
 created: '2026-05-03'

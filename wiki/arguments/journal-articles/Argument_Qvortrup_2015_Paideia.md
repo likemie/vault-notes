@@ -17,13 +17,21 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Effect Size]]"
+  - "[[Tongxue]]"
+  - "[[Problem-Based Learning]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-related_persons: []
-related_facts: []
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Qvortrup_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-05'

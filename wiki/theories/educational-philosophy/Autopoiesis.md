@@ -10,10 +10,16 @@ tags:
 - living-systems-theory
 - biology
 - social-theory
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Multiplicity (Massey)]]"
+  - "[[Humility in Learning]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
+  - "[[Transition Design]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Donna Haraway]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"

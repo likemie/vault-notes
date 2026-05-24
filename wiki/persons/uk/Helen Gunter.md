@@ -8,14 +8,21 @@ nationality: uk
 tags:
 - helen-gunter
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Champ]]"
+  - "[[Knowledge Production]]"
+  - "[[Transformative Leadership]]"
+  - "[[School Leadership]]"
+  - "[[New Public Management]]"
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Pierre Bourdieu]]"
   - "[[Jorunn Møller]]"
   - "[[Carolyn Shields]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Eacott_2015_EPT]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

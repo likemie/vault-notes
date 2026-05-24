@@ -10,13 +10,16 @@ tags:
 - cultural-sociology
 - region/us
 related_concepts:
+  - "[[Symbolic Boundary]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Max Weber]]"
+  - "[[Yajun Zheng]]"
 related_arguments: []
 sources: []
 confidence: low

@@ -14,23 +14,25 @@ tags:
 - subject/research-methodology
 - subject/psychology
 related_concepts:
-  - "[[Gender Differences in Academic Achievement]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Feedback]]"
+  - "[[Learning-Impeding Behavior]]"
   - "[[School Norm Adaptation]]"
+  - "[[Gender Differences in Academic Achievement]]"
   - "[[Motivation and Work Effort]]"
   - "[[Self-control]]"
   - "[[Assertiveness]]"
-  - "[[Student-Teacher Relationship]]"
   - "[[Classroom Learning Culture]]"
-  - "[[Feedback]]"
-  - "[[Learning-Impeding Behavior]]"
   - "[[Academic Well-being and Interest in Learning]]"
+  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Lekhal_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-06'

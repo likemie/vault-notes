@@ -13,16 +13,24 @@ tags:
 - implementation
 - paradigm/interpretivist
 related_concepts:
+  - "[[Feedback]]"
+  - "[[Effect Size]]"
+  - "[[Mechanism Experiments]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Spirals of Inquiry]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
+  - "[[What Works Clearinghouse (WWC)]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[What Works Network (UK)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Peterson_2016_IJRME]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

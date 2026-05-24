@@ -14,14 +14,23 @@ tags:
 - effect-size
 - methodology-critique
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Feedback]]"
+  - "[[Class Size]]"
+  - "[[Effect Size]]"
 related_theories:
   - "[[Technical Rationality]]"
-related_methods: []
-related_persons: []
+  - "[[Radical Constructivism]]"
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Nielsen_2021_NordPsych]]"
 part_of: ''
 status: draft
 created: '2026-05-04'

@@ -17,15 +17,23 @@ tags:
 - level/k12
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Externalization (Schriewer)]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Sinicisation]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
   - "[[World Society Theory]]"
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
-related_persons: []
-related_facts: []
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Pierre Bourdieu]]"
+related_facts:
+  - "[[Citizenship and Social Development (Hong Kong)]]"
+  - "[[Liberal Studies (Hong Kong)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Yan_2025_JCS]]"
 part_of: ''
 status: draft
 created: '2026-05-01'

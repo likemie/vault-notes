@@ -6,7 +6,6 @@ type: concept
 tags: ["theme/discourse", "theme/global-governance", "theme/opportunity", "theme/subjectification", "region/europe"]
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
-  - "[[Rightness]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Self-Entrepreneur]]"
 related_theories:

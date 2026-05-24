@@ -13,9 +13,9 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[Graduation Pathway Typology (Zheng)]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Self-Driven Mode]]"
-  - "[[Rightness]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []

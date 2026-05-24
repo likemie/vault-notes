@@ -11,13 +11,24 @@ tags:
 - evidence-based-education
 - region/australia
 - stance/critique
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[Problem-Based Learning]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Feedback]]"
+  - "[[Didaktik]]"
+  - "[[Direct Instruction]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Blass_2020_JESP]]"
 part_of: ''
 status: draft
 created: '2026-05-05'

@@ -15,12 +15,12 @@ tags:
 - theory/confucianism
 - school/confucianism
 related_concepts:
+  - "[[Li (Propriety)]]"
   - "[[Self-Cultivation]]"
   - "[[Ren]]"
   - "[[Junzi]]"
   - "[[Action Better Than Words]]"
-  - "[[Shame (Confucianism)]]"
-  - "[[Rightness]]"
+  - "[[University Motto]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -11,27 +11,28 @@ tags:
 - cultural-sociology
 - region/china
 related_concepts:
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Academic and Social Integration]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
-  - "[[Rightness]]"
-  - "[[Goal-Controlled Mode]]"
-  - "[[Intuition-Dependent Mode]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunist Mode]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
-  - "[[Cultural Barrier in Higher Education]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
 related_methods:
-  - "[[Constructivist Grounded Theory]]"
+  - "[[Qualitative Research]]"
   - "[[In-depth Interview]]"
+  - "[[Constructivist Grounded Theory]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Max Weber]]"

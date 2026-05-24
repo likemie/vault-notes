@@ -12,15 +12,25 @@ tags:
 - epistemology
 - paradigm/constructivist
 related_concepts:
+  - "[[Effect Size]]"
+  - "[[Classroom Management]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[Roy Bhaskar]]"
+  - "[[Ray Pawson]]"
+related_facts:
+  - "[[Playing for Success]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
-sources: []
+sources:
+  - "[[Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

@@ -12,19 +12,23 @@ tags:
 - effect-size
 - research-methodology
 related_concepts:
-  - "[[Statistical Significance]]"
   - "[[Effect Size]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Statistical Significance]]"
   - "[[Visible Learning]]"
+  - "[[School Effectiveness]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Rasch Measurement]]"
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Allerup_2015_Paideia]]"
+  - "[[Wecker_2016_ZfE]]"
 confidence: low
 status: draft
 created: '2026-05-05'

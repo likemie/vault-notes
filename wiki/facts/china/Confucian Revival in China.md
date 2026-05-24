@@ -19,10 +19,12 @@ related_concepts:
   - "[[Official Knowledge]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-21

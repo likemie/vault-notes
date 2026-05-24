@@ -11,13 +11,21 @@ tags:
 - epistemology
 - bourdieu
 - paradigm/critical
-related_concepts: []
+related_concepts:
+  - "[[Champ]]"
+  - "[[Habitus]]"
+  - "[[Doxa]]"
+  - "[[Epistemological Break]]"
+  - "[[Epistemological Vigilance]]"
+  - "[[Knowledge Production]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Eacott_2015_EPT]]"
 part_of: ''
 status: draft
 created: '2026-05-02'

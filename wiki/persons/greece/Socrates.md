@@ -15,10 +15,12 @@ tags:
 related_concepts:
   - "[[Examined Life]]"
   - "[[Mind and Its Wonders]]"
-  - "[[Rightness]]"
+  - "[[Sage]]"
+  - "[[Effective Teaching]]"
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Plato]]"
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []

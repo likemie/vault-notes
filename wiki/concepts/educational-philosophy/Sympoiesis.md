@@ -10,13 +10,17 @@ tags:
 - relational-ontology
 - care-ethics
 related_concepts:
+  - "[[Humility in Learning]]"
+  - "[[Response-ability]]"
   - "[[Posthumanism]]"
   - "[[SF (Haraway)]]"
   - "[[Humosity]]"
 related_theories:
   - "[[Autopoiesis]]"
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Donna Haraway]]"
 related_facts: []
 related_arguments: []
 sources: []

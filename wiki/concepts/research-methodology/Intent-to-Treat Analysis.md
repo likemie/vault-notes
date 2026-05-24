@@ -8,9 +8,11 @@ type: concept
 tags:
 - intent-to-treat-analysis
 - subject/research-methodology
-related_concepts: []
+related_concepts:
+  - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
@@ -18,7 +20,9 @@ related_facts:
   - "[[Promise Neighborhoods Research Consortium (PNRC)]]"
   - "[[What Works Clearinghouse (WWC)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Pampaka_2016_IJRME]]"
+  - "[[Wadhwa_2024_RER]]"
 confidence: low
 status: draft
 created: '2026-05-02'

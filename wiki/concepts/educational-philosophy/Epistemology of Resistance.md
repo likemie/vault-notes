@@ -11,13 +11,21 @@ tags:
 - theme/epistemology
 - theme/resistance
 - theme/decolonial
-related_concepts: []
+related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Official Knowledge]]"
+  - "[[Life Power]]"
+  - "[[Social Museology]]"
+  - "[[Champ]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
+  - "[[Observational and Correlational Research]]"
   - "[[Ganz-Methode]]"
 related_persons:
+  - "[[Frantz Fanon]]"
+  - "[[Paulo Freire]]"
   - "[[Richard Castelo Branco]]"
   - "[[Dell Delambre]]"
   - "[[Camilla de Hollanda Amado]]"

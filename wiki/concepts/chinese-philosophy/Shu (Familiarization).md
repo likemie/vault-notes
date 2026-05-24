@@ -17,9 +17,11 @@ related_concepts:
   - "[[Sage]]"
   - "[[Learning Virtues]]"
   - "[[Jing (Refined Mastery)]]"
+  - "[[Chinese Learner]]"
   - "[[Self-Cultivation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

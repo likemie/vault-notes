@@ -10,15 +10,21 @@ tags:
 - moral-judgment
 - paradigm/interpretivist
 related_concepts:
+  - "[[Doxa]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Habitus]]"
+  - "[[Confucian Heritage Cultures]]"
+  - "[[Champ]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

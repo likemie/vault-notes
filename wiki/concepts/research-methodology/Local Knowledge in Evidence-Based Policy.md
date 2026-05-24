@@ -12,7 +12,7 @@ tags:
 - professional-judgement
 - level/k12
 related_concepts:
-  - "[[Rightness]]"
+  - "[[Professional Judgment]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Evidence-Informed Practice]]"
@@ -21,15 +21,19 @@ related_concepts:
   - "[[Technology Infusion]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Formative Evaluation]]"
 related_persons: []
 related_facts:
+  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[California Class Size Reduction 1996]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Cowen_2015_CHESS]]"
+  - "[[Wiliam_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

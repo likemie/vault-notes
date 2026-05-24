@@ -14,14 +14,17 @@ tags:
   - theme/ability-vs-effort
   - theme/cultural-psychology
 related_concepts:
+  - "[[Nerd (School Peer Culture)]]"
   - "[[Doxa]]"
+  - "[[Entity vs Incremental Intelligence]]"
   - "[[Feedback]]"
   - "[[Zero-Sum Competition (School)]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Codeswitcher (School)]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []

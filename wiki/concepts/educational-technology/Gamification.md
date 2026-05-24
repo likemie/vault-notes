@@ -15,10 +15,9 @@ tags:
   - theme/digitalization
   - paradigm/critical
 related_concepts:
-  - "[[Didaktik]]"
-  - "[[Rightness]]"
-  - "[[Bildung]]"
   - "[[Feedback]]"
+  - "[[Didaktik]]"
+  - "[[Bildung]]"
   - "[[Data Behaviorism]]"
 related_theories: []
 related_methods: []

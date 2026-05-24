@@ -8,8 +8,7 @@ tags:
 - moral-sidestep
 - evidence-based-policy
 - policy-making
-related_concepts:
-  - "[[Rightness]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
@@ -18,7 +17,8 @@ related_facts:
   - "[[Grammar School]]"
   - "[[Selective Schools Expansion Fund 2018]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Bainbridge_2022_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

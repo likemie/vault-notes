@@ -21,26 +21,30 @@ related_concepts:
   - "[[Promising Student]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Rightness]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
   - "[[Self-Entrepreneur]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[New Public Management]]"
+  - "[[International Education]]"
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
   - "[[Digital Self]]"
   - "[[Competitiveness in Higher Education]]"
-related_theories: []
+  - "[[Performance Indicators]]"
+related_theories:
+  - "[[Societies of Control]]"
 related_methods:
   - "[[Matching]]"
   - "[[Single-Case Design (SCD)]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Ball_2008_SR]]"
-sources: []
+sources:
+  - "[[Ball_2008_SR]]"
 confidence: medium
 status: draft
 created: 2026-05-20

@@ -13,15 +13,25 @@ tags:
 - cult-of-the-guru
 - stance/critique
 - region/australia
-related_concepts: []
+related_concepts:
+  - "[[School Leadership]]"
+  - "[[Cult of the Guru]]"
+  - "[[Effect Size]]"
+  - "[[School Effectiveness]]"
+  - "[[Visible Learning]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
 related_persons:
+  - "[[John Hattie]]"
   - "[[Pierre Bourdieu]]"
-related_facts: []
+related_facts:
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Hattie_2017_SLM]]"
-sources: []
+sources:
+  - "[[Eacott_2017_SLM]]"
 part_of: ''
 status: draft
 created: '2026-05-03'

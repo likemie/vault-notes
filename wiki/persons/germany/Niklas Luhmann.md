@@ -11,14 +11,20 @@ tags:
 - paradigm/systems-theory
 - region/germany
 related_concepts:
+  - "[[School Leadership]]"
   - "[[Blind Spot in Observation]]"
   - "[[Structural Coupling]]"
+  - "[[Effect Size]]"
+  - "[[Visible Learning]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
-related_methods: []
+  - "[[Autopoiesis]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

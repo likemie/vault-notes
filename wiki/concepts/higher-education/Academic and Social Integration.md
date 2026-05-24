@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Student Engagement]]"
   - "[[Student Involvement]]"
+  - "[[Tongxue]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Goal-Controlled Mode]]"

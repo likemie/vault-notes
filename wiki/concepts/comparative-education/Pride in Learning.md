@@ -17,11 +17,13 @@ tags:
   - region/west
 related_concepts:
   - "[[Humility in Learning]]"
-  - "[[Rightness]]"
   - "[[Western Learner]]"
   - "[[MCC Discourse Analysis Examples]]"
-related_theories: []
-related_methods: []
+  - "[[Tongxue]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

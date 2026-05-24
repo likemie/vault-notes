@@ -13,14 +13,19 @@ tags:
 - level/higher-ed
 - paradigm/positivist
 related_concepts:
+  - "[[Didaktik]]"
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Thomas Barr Greenfield]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Eacott_2015_EPT]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

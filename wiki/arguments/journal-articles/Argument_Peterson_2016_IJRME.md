@@ -14,14 +14,23 @@ tags:
 - what-works
 - research-methodology
 related_concepts:
+  - "[[Mechanism Experiments]]"
+  - "[[Feedback]]"
   - "[[Black Box RCTs]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Improvement Science]]"
+  - "[[Matching]]"
+  - "[[Spirals of Inquiry]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Investing in Innovation (i3) Program]]"
+  - "[[What Works Clearinghouse (WWC)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Peterson_2016_IJRME]]"
 part_of: ''
 status: draft
 created: '2026-05-02'

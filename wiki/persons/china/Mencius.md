@@ -15,15 +15,20 @@ tags:
 - theory/confucianism
 - school/confucianism
 related_concepts:
+  - "[[Sage]]"
+  - "[[Self-Cultivation]]"
   - "[[Ren]]"
   - "[[Rightness]]"
   - "[[Li (Propriety)]]"
   - "[[Junzi]]"
   - "[[Take the World Upon Oneself]]"
-related_theories: []
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons:
   - "[[Confucius]]"
+  - "[[Socrates]]"
+  - "[[Zhu Xi]]"
 related_facts: []
 related_arguments: []
 sources: []

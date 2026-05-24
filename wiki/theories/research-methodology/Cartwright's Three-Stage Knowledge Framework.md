@@ -12,15 +12,23 @@ tags:
 - external-validity
 - paradigm/scientific-realism
 related_concepts:
+  - "[[Class Size]]"
+  - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
+  - "[[Professional Judgment]]"
   - "[[Programme Fidelity vs Adaptation]]"
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Tullock's Bureaucracy Theory]]"
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Philosophical Analysis in Education]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cowen_2015_CHESS]]"
-sources: []
+sources:
+  - "[[Cowen_2015_CHESS]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

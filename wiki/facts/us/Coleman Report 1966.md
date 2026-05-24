@@ -12,17 +12,22 @@ tags:
 - federal-study
 - region/us
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Tongxue]]"
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:
   - "[[Seasonal Comparison]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[A Nation at Risk 1983]]"
+  - "[[PISA]]"
+  - "[[Partnership Schools Kura Hourua (NZ 2011)]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Downey_2016_SoE]]"
 confidence: high
 status: draft
 created: '2026-05-04'

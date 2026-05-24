@@ -15,13 +15,27 @@ tags:
 - policy
 - paradigm/positivist
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Reform]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Learning Analytics]]"
+  - "[[Effect Size]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Matching]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Investing in Innovation (i3) Program]]"
+  - "[[What Works Clearinghouse (WWC)]]"
+  - "[[Best Evidence Encyclopedia (BEE)]]"
+  - "[[Success for All]]"
+  - "[[Campbell Collaboration]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Slavin_2019_EP]]"
 part_of: ''
 status: draft
 created: '2026-05-01'

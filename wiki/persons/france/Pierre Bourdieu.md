@@ -13,11 +13,10 @@ tags:
 - paradigm/critical
 - region/france
 related_concepts:
-  - "[[Rightness]]"
   - "[[Habitus]]"
   - "[[Champ]]"
+  - "[[Tongxue]]"
   - "[[Cultural Capital]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Doxa]]"
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
@@ -36,7 +35,8 @@ related_persons:
   - "[[Yajun Zheng]]"
   - "[[Max Weber]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Eacott_2011_JEAH]]"
 confidence: high
 status: draft
 created: '2026-05-02'

@@ -17,7 +17,6 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Entrepreneur]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Internationalization of Higher Education]]"
   - "[[International Education]]"
 related_theories: []
@@ -29,7 +28,8 @@ related_facts:
   - "[[Teach First New Zealand Ako Mātātupu (TFNZ 2011)]]"
   - "[[Australia in the Asian Century White Paper 2012]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

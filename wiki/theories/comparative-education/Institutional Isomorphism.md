@@ -12,12 +12,11 @@ tags:
 - paradigm/interpretivist
 - subject/comparative-education
 related_concepts:
+  - "[[Champ]]"
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
-  - "[[Champ]]"
   - "[[Cultural Models]]"
   - "[[Tongxue]]"
-  - "[[Rightness]]"
   - "[[New Public Management]]"
 related_theories:
   - "[[World Society Theory]]"

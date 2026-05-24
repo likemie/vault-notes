@@ -19,25 +19,37 @@ tags:
 - region/international
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Educational Management Organisation (EMO)]]"
+  - "[[School Leadership]]"
+  - "[[Class Size]]"
+  - "[[Performance Pay]]"
+  - "[[Feedback]]"
   - "[[Effect Size]]"
+  - "[[Further Education]]"
+  - "[[Direct Instruction]]"
+  - "[[Problem-Based Learning]]"
+  - "[[Lost Mode]]"
   - "[[Evidence-Based Education]]"
   - "[[Effective Teaching]]"
   - "[[Cult of the Guru]]"
   - "[[Material Fallacies]]"
-  - "[[Class Size]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Global Education Reform Movement (GERM)]]"
-  - "[[Educational Management Organisation (EMO)]]"
   - "[[Performativity of Measurement]]"
   - "[[Policy Entrepreneur]]"
   - "[[Neo-Taylorism in Educational Administration]]"
 related_theories:
   - "[[Technical Rationality]]"
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Bertrand Russell]]"
 related_facts:
   - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
   - "[[Cognition Education (NZ)]]"
+  - "[[PISA]]"
   - "[[The New Zealand Curriculum]]"
   - "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"
   - "[[New Zealand National Standards (2009)]]"
@@ -50,9 +62,22 @@ related_facts:
 related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
 sources:
+  - "[[ONeill_2016_Report]]"
+  - "[[Johnson_2023_CE]]"
   - "[[Rightness]]"
+  - "[[Sarbiewska_2019_JSR]]"
+  - "[[Laursen_2015_Paideia]]"
   - "[[Effective Teaching]]"
+  - "[[Qvortrup_2019_NordSTEP]]"
+  - "[[Golovchin_2019_ESC]]"
+  - "[[Eacott_2017_SLM]]"
   - "[[Cult of the Guru]]"
+  - "[[Eacott_2019_IJLE]]"
+  - "[[Terhart_2011_JCS]]"
+  - "[[Hattie_2015_SOTLP]]"
+  - "[[McKnight_2020_Discourse]]"
+  - "[[ONeill_2012_NZJES]]"
+  - "[[Blass_2020_JESP]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

@@ -13,12 +13,11 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[Rightness]]"
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Shu (Familiarization)]]"
+  - "[[Multiplicity (Massey)]]"
 related_theories:
   - "[[Culture as Toolkit]]"
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Ann Swidler]]"

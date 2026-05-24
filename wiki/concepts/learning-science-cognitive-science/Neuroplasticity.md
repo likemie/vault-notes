@@ -9,14 +9,25 @@ tags:
 - learning-science
 - paradigm/critical
 related_concepts:
+  - "[[Synaptogenesis]]"
+  - "[[Executive Function]]"
+  - "[[Synaptic Pruning]]"
+  - "[[Prefrontal Cortex]]"
+  - "[[Myelination]]"
   - "[[Visible Learning]]"
+  - "[[Effect Size]]"
 related_theories:
+  - "[[Phenomenology]]"
   - "[[Luhmann's Systems Theory]]"
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Larsen_2019_EducSci]]"
+  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

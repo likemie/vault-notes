@@ -18,16 +18,23 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Official Knowledge]]"
+  - "[[Confucian Heritage Cultures]]"
   - "[[Symbolic Boundary]]"
+  - "[[Self-Cultivation]]"
+  - "[[Cultural Disembedding]]"
 related_theories:
   - "[[Hegemony]]"
 related_methods:
   - "[[In-depth Interview]]"
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
+  - "[[Mencius]]"
+  - "[[Zhu Xi]]"
 related_facts:
   - "[[Confucian Revival in China]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Yu_2024_CE]]"
 part_of: ''
 status: draft
 created: 2026-05-21

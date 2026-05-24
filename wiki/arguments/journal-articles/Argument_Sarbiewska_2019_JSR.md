@@ -13,19 +13,26 @@ tags:
 - region/australia
 - level/k12
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
-related_theories: []
-related_methods: []
+  - "[[Evidence-Based Education]]"
+  - "[[Effect Size]]"
+  - "[[Feedback]]"
+related_theories:
+  - "[[Radical Constructivism]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
+  - "[[John Hattie]]"
   - "[[Dietrich Benner]]"
 related_facts:
+  - "[[PISA]]"
   - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
   - "[[Victorian HITS and Literacy Toolkit 2017]]"
   - "[[Australian Curriculum]]"
   - "[[The New Zealand Curriculum]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Sarbiewska_2019_JSR]]"
 part_of: ''
 status: draft
 created: '2026-05-05'

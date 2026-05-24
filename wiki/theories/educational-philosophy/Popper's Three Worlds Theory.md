@@ -11,16 +11,23 @@ tags:
 - realism
 - paradigm/critical
 related_concepts:
+  - "[[Surface and Deep Learning]]"
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Visible Learning]]"
-  - "[[Surface and Deep Learning]]"
+  - "[[Cult of the Guru]]"
 related_theories:
   - "[[Radical Constructivism]]"
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Hattie_2015_SOTLP]]"
+  - "[[Qvortrup_2015_Paideia]]"
+  - "[[Hattie_2017_SLM]]"
+  - "[[Romer_2018_EPT]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

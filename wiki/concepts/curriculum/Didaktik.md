@@ -11,9 +11,9 @@ tags:
 - subject/pedagogy
 - paradigm/critical
 related_concepts:
+  - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
   - "[[Epochal Key Problems]]"
-  - "[[Phenomenon-Based Learning]]"
   - "[[Atomisation of Knowledge and Skills]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -23,7 +23,8 @@ related_persons:
 related_facts:
   - "[[Finnish National Core Curriculum 2014]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Schaffar_2024_CogentEdu]]"
 confidence: low
 status: draft
 created: '2026-05-06'

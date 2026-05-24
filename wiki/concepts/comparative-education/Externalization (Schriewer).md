@@ -12,17 +12,21 @@ tags:
 - discourse-formation
 - region/global
 related_concepts:
-  - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
-related_theories: []
+  - "[[Policy Borrowing]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Jurgen Schriewer]]"
 related_facts:
+  - "[[PISA]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
 related_arguments:
   - "[[Argument_Rappleye_2006_RCIE]]"
-sources: []
+sources:
+  - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

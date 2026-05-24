@@ -16,18 +16,16 @@ tags:
 - region/uk
 related_concepts:
   - "[[Employability]]"
-  - "[[Rightness]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Shu (Familiarization)]]"
   - "[[Feedback]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Tongxue]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Wong_2022_HERD]]"
 confidence: low
 status: draft
 created: '2026-05-06'

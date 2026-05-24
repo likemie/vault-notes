@@ -10,12 +10,21 @@ tags:
 - teaching-learning
 related_concepts:
   - "[[Professional Judgment]]"
-related_theories: []
-related_methods: []
-related_persons: []
+  - "[[Effect Size]]"
+  - "[[School Leadership]]"
+  - "[[Visible Learning]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Niklas Luhmann]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Qvortrup_2019_NordSTEP]]"
+  - "[[Larsen_2019_EducSci]]"
 confidence: low
 status: draft
 created: '2026-05-03'

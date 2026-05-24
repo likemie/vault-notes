@@ -12,15 +12,23 @@ tags:
 - philosophy-of-education
 - paradigm/critical
 - paradigm/pragmatist
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Value-Based Education]]"
+  - "[[Bildung]]"
+  - "[[Didaktik]]"
+  - "[[Phenomenon-Based Learning]]"
 related_theories:
   - "[[Transactional Epistemology]]"
+  - "[[Phenomenology]]"
 related_methods: []
 related_persons: []
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
-sources: []
+sources:
+  - "[[Biesta_2010_SPE]]"
+  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

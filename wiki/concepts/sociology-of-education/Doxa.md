@@ -4,7 +4,7 @@ aliases:
   - 自明真理
   - doxa
   - 不言自明
-summary: Bourdieu 场域理论概念，指场域中被自然化为理所当然的正统信念，通过结构安排而非显性强制维持其合法性
+summary: "Bourdieu 场域理论概念，指场域中被自然化为理所当然的正统信念，通过结构安排而非显性强制维持其合法性"
 type: concept
 tags:
   - doxa
@@ -14,7 +14,6 @@ tags:
   - region/france
 related_concepts:
   - "[[Champ]]"
-  - "[[Rightness]]"
   - "[[Habitus]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Nerd (School Peer Culture)]]"
@@ -23,7 +22,8 @@ related_concepts:
   - "[[Epistemological Break]]"
 related_theories:
   - "[[Phenomenology]]"
-related_methods: []
+related_methods:
+  - "[[Matching]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Plato]]"
@@ -31,6 +31,8 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Pierre Bourdieu]]"
+  - "[[Eacott_2011_JEAH]]"
+  - "[[Eacott_2015_EPT]]"
 confidence: medium
 status: draft
 created: 2026-05-09

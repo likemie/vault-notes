@@ -10,14 +10,20 @@ tags:
 - means-ends-thinking
 - paradigm/positivist
 related_concepts:
+  - "[[Effect Size]]"
+  - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
+  - "[[Effective Teaching]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Nielsen_2021_IRTP]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

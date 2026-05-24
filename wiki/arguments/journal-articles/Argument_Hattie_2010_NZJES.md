@@ -11,16 +11,25 @@ tags:
 - evidence-based-education
 - stance/support
 - region/new-zealand
-related_concepts: []
+related_concepts:
+  - "[[Critic and Conscience of Society]]"
+  - "[[Visible Learning]]"
+  - "[[Class Size]]"
+  - "[[Performance Pay]]"
+  - "[[Effect Size]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
 related_persons:
+  - "[[John Hattie]]"
   - "[[Gerald Grace]]"
-related_facts: []
+related_facts:
+  - "[[New Zealand National Standards (2009)]]"
 related_arguments:
   - "[[Argument_Snook_2010_NZJES]]"
   - "[[Argument_Grace_2010_NZJES]]"
-sources: []
+sources:
+  - "[[Hattie_2010_NZJES]]"
 part_of: ''
 status: draft
 created: '2026-05-06'

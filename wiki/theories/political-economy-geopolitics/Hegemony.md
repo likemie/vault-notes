@@ -13,6 +13,7 @@ tags:
 - theme/power
 - region/global
 related_concepts:
+  - "[[Champ]]"
   - "[[Official Knowledge]]"
   - "[[Sinicisation]]"
   - "[[Geopolitics of Knowledge]]"
@@ -21,12 +22,15 @@ related_concepts:
 related_theories:
   - "[[World-Systems Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Paulo Freire]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Marginson_2025_ROE]]"
   - "[[Argument_Yu_2024_CE]]"
-sources: []
+sources:
+  - "[[Marginson_2025_ROE]]"
+  - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-13'

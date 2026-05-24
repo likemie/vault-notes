@@ -15,7 +15,9 @@ tags:
 - theme/ethics
 related_concepts:
   - "[[Self-Cultivation]]"
+  - "[[Champ]]"
   - "[[Filial Piety]]"
+  - "[[Affect-Respect and Ought-Respect]]"
   - "[[Ren]]"
   - "[[Li (Propriety)]]"
 related_theories: []

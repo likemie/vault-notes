@@ -11,12 +11,25 @@ tags:
 - region/brazil
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Tense Society]]"
+  - "[[Lost Mode]]"
+  - "[[Ecomuseology]]"
+  - "[[Epistemology of Resistance]]"
+  - "[[Official Knowledge]]"
+  - "[[Life Power]]"
+  - "[[Champ]]"
+  - "[[Social Museology]]"
+  - "[[Whole Sustainability]]"
+related_theories:
+  - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
   - "[[Ganz-Methode]]"
+  - "[[Observational and Correlational Research]]"
 related_persons:
+  - "[[Dell Delambre]]"
   - "[[Walter Mignolo]]"
+  - "[[Richard Castelo Branco]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Delambre_2022_Springer]]"

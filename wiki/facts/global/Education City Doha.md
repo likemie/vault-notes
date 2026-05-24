@@ -13,6 +13,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[International Education]]"
+  - "[[Internationalization of Higher Education]]"
   - "[[International Schools]]"
 related_theories: []
 related_methods: []

@@ -14,6 +14,10 @@ tags:
 - curriculum-reform
 - 3-3-4-reform
 related_concepts:
+  - "[[Flow]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Externalization (Schriewer)]]"
+  - "[[Class Size]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -22,7 +26,8 @@ related_persons: []
 related_facts:
   - "[[Liberal Studies (Hong Kong)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'

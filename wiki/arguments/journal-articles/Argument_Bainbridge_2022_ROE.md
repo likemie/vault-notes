@@ -14,7 +14,6 @@ tags:
 - region/uk
 related_concepts:
   - "[[Moral Sidestep]]"
-  - "[[Rightness]]"
   - "[[Justified Warrants]]"
 related_theories:
   - "[[Legitimation Theory Van Leeuwen]]"
@@ -27,7 +26,8 @@ related_facts:
   - "[[Grammar School]]"
   - "[[Ofsted]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Bainbridge_2022_ROE]]"
 part_of: ''
 status: draft
 created: '2026-05-07'

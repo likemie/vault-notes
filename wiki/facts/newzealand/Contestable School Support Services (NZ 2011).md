@@ -18,8 +18,10 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
+  - "[[Cognition Education (NZ)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

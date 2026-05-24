@@ -18,12 +18,13 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Liberal Studies (Hong Kong)]]"
   - "[[Citizenship and Social Development (Hong Kong)]]"
+  - "[[Liberal Studies (Hong Kong)]]"
   - "[[National Education in Hong Kong]]"
   - "[[2019 Hong Kong Protests and Education]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'

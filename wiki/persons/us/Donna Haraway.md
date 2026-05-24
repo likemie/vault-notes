@@ -11,7 +11,6 @@ tags:
 - new-materialism
 - region/us
 related_concepts:
-  - "[[Rightness]]"
   - "[[Posthumanism]]"
   - "[[Sympoiesis]]"
   - "[[SF (Haraway)]]"

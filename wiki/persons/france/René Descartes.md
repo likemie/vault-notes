@@ -19,7 +19,12 @@ tags:
 related_concepts: []
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Socrates]]"
+  - "[[Plato]]"
+  - "[[John Locke]]"
+  - "[[George Berkeley]]"
+  - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
 sources: []

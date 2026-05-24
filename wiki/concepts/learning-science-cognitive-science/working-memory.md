@@ -8,14 +8,19 @@ tags:
 - working-memory
 - learning-science
 - cognitive-science
-related_concepts: []
+related_concepts:
+  - "[[Executive Function]]"
+  - "[[Updating and Monitoring]]"
+  - "[[Prefrontal Cortex]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
+  - "[[Fredens_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

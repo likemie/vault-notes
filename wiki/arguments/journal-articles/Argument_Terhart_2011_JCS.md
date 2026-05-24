@@ -15,12 +15,22 @@ tags:
 - region/germany
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Didaktik]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Effect Size]]"
+  - "[[Bildung]]"
+  - "[[Effective Teaching]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Terhart_2011_JCS]]"
 part_of: ''
 status: draft
 created: '2026-05-03'

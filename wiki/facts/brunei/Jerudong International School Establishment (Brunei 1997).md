@@ -9,11 +9,14 @@ type: fact
 subtype: event
 region: brunei
 tags: [region/brunei, region/new-zealand, level/k12, theme/school-establishment, theme/education-consulting, source/book]
-related_concepts: []
+related_concepts:
+  - "[[International Education]]"
+  - "[[International Schools]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Cognition Education (NZ)]]"
   - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
 related_arguments: []
 sources: []

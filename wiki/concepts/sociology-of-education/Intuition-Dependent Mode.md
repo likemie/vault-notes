@@ -11,12 +11,15 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[Habitus]]"
   - "[[Champ]]"
+  - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"
+  - "[[Symbolic Boundary]]"
+  - "[[Cultural Barrier in Higher Education]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
   - "[[Graduation Pathway Typology (Zheng)]]"
+  - "[[Tongxue]]"
   - "[[Academic and Social Integration]]"
   - "[[Student Engagement]]"
   - "[[Academic Engagement]]"
@@ -26,7 +29,8 @@ related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory in Education]]"
-related_methods: []
+related_methods:
+  - "[[Matching]]"
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"

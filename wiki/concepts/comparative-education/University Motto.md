@@ -14,9 +14,7 @@ tags:
 - theme/cross-cultural-learning
 - source/li-2012-cambridge
 related_concepts:
-  - "[[Rightness]]"
   - "[[Li (Propriety)]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Champ]]"

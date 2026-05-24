@@ -13,11 +13,16 @@ tags:
 related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Tongxue]]"
   - "[[Habitus]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Marcia Baxter Magolda]]"
+  - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []

@@ -14,13 +14,17 @@ tags:
 - federal-funding
 - rct
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Reform]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Matching]]"
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Slavin_2019_EP]]"
 confidence: high
 status: draft
 created: '2026-05-01'

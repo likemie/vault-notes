@@ -14,17 +14,21 @@ tags:
 - region/china
 - level/k12
 related_concepts:
+  - "[[Knowledge-Based Economy]]"
   - "[[Membership-Creating Function of Education]]"
+  - "[[Sinicisation]]"
 related_theories:
   - "[[Nation Building through Education]]"
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Liberal Studies (Hong Kong)]]"
+  - "[[Citizenship and Social Development (Hong Kong)]]"
   - "[[Replacement of LS by CSD 2021]]"
   - "[[National Security Law Impact on Hong Kong Education]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'

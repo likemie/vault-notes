@@ -10,6 +10,8 @@ tags:
 - bourdieu
 - paradigm/critical
 related_concepts:
+  - "[[Doxa]]"
+  - "[[Effective Teaching]]"
   - "[[Epistemological Break]]"
 related_theories: []
 related_methods: []
@@ -17,7 +19,8 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Eacott_2015_EPT]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

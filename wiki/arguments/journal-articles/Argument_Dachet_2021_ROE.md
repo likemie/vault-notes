@@ -17,23 +17,23 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Grade Retention]]"
-  - "[[Rightness]]"
   - "[[Inclusive Evidence Validation Typology]]"
-  - "[[Shu (Familiarization)]]"
 related_theories: []
 related_methods:
+  - "[[Matching]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
+  - "[[Pact for Educational Excellence]]"
   - "[[French-Speaking Belgium Education System]]"
   - "[[PISA]]"
   - "[[Grade Retention in French-Speaking Belgium]]"
   - "[[What Works Clearinghouse (WWC)]]"
   - "[[Best Evidence Encyclopedia (BEE)]]"
-  - "[[Pact for Educational Excellence]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Dachet_2021_ROE]]"
 part_of: ""
 status: draft
 created: 2026-05-23

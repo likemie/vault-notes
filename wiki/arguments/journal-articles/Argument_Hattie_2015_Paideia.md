@@ -17,16 +17,20 @@ tags:
   - region/new-zealand
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[School Leadership]]"
   - "[[Effect Size]]"
   - "[[Feedback]]"
+  - "[[Surface and Deep Learning]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Hattie_2015_Paideia]]"
 part_of: ""
 status: draft
 created: 2026-05-21

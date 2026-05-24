@@ -13,14 +13,23 @@ tags:
 - region/denmark
 - stance/support
 related_concepts:
+  - "[[Visible Learning]]"
   - "[[Interpretation Community]]"
+  - "[[Professional Judgment]]"
+  - "[[Structural Coupling]]"
+  - "[[Feedback]]"
+  - "[[Effect Size]]"
 related_theories:
   - "[[Bounded Rationality]]"
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Herbert A. Simon]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Qvortrup_2019_NordSTEP]]"
 part_of: ''
 status: draft
 created: '2026-05-03'

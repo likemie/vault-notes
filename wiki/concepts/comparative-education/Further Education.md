@@ -13,6 +13,7 @@ tags:
 - subject/comparative-education
 related_concepts:
   - "[[Corporate Education]]"
+  - "[[Externalization (Schriewer)]]"
 related_theories: []
 related_methods: []
 related_persons: []

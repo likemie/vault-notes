@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Didaktik]]"
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
 related_theories: []
@@ -26,9 +27,11 @@ related_methods:
   - "[[Rasch Measurement]]"
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Allerup_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-05'

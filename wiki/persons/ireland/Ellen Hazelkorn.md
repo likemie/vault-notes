@@ -12,9 +12,7 @@ tags:
 - region/ireland
 - region/global
 related_concepts:
-  - "[[Shu (Familiarization)]]"
   - "[[Global Universities Rankings]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []

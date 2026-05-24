@@ -16,12 +16,14 @@ related_concepts:
   - "[[Feedback]]"
   - "[[School Norm Adaptation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Matching]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Lekhal_2015_Paideia]]"
-sources: []
+sources:
+  - "[[Lekhal_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

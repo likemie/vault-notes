@@ -16,14 +16,19 @@ tags:
 - region/us
 - level/k12
 related_concepts:
+  - "[[Direct Instruction]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[No Child Left Behind Act 2001]]"
+  - "[[Success for All]]"
+  - "[[Investing in Innovation (i3) Program]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Slavin_2002_ER]]"
 confidence: high
 status: draft
 created: '2026-05-01'

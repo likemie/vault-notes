@@ -11,8 +11,6 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Rightness]]"
   - "[[Graduation Pathway Typology (Zheng)]]"
   - "[[Value Conformist Mode]]"
   - "[[Self-Driven Mode]]"

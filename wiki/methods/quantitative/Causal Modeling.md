@@ -24,7 +24,10 @@ related_methods:
   - "[[Covariate Adjustment]]"
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Berk_2011_ER]]"
+  - "[[Allerup_2015_Paideia]]"
+  - "[[Brady_2023_EPR]]"
 confidence: low
 status: draft
 created: '2026-05-03'

@@ -17,8 +17,10 @@ tags:
   - evidence-based-education
   - causal-inference
 related_concepts:
-  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Effect Size]]"
   - "[[Implementation Fidelity]]"
+  - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -26,7 +28,8 @@ related_methods:
 related_persons: []
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
-sources: []
+sources:
+  - "[[Wadhwa_2024_RER]]"
 related_facts:
   - "[[What Works Clearinghouse (WWC)]]"
   - "[[ESSA 2015 Evidence Standards]]"

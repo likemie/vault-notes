@@ -14,12 +14,10 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Rightness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
   - "[[National Competitive Advantage]]"
   - "[[Tongxue]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Knowledge Production]]"
   - "[[Classical Geopolitics]]"
   - "[[Flow]]"
@@ -28,6 +26,7 @@ related_concepts:
   - "[[Geopolitical Subject]]"
   - "[[Spatial Sortings]]"
   - "[[Progressive Neoliberalism]]"
+  - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Hegemony]]"

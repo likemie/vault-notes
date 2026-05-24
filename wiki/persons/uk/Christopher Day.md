@@ -8,7 +8,8 @@ nationality: uk
 tags:
 - christopher-day
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[School Leadership]]"
 related_theories: []
 related_methods: []
 related_persons: []

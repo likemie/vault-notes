@@ -13,13 +13,22 @@ tags:
 - junk-science
 - methodology-critique
 - subject/research-methodology
-related_concepts: []
+related_concepts:
+  - "[[Potential Outcomes Framework]]"
+  - "[[Stable Unit Treatment Value Assumption (SUTVA)]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Causal Modeling]]"
+  - "[[Matching]]"
+  - "[[Meta-analysis]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Campbell Collaboration]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Berk_2011_ER]]"
 part_of: ''
 status: draft
 created: '2026-05-03'

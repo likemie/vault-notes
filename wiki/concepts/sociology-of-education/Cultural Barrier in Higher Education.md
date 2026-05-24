@@ -13,24 +13,25 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[Cultural Disembedding]]"
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Shu (Familiarization)]]"
-  - "[[Tongxue]]"
-  - "[[Cultural Disorientation]]"
   - "[[Champ]]"
-  - "[[Lost Mode]]"
+  - "[[Cultural Capital]]"
   - "[[Habitus]]"
-  - "[[Rightness]]"
+  - "[[Bildung]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Tongxue]]"
+  - "[[Doxa]]"
+  - "[[Cultural Disembedding]]"
+  - "[[Cultural Disorientation]]"
+  - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
-  - "[[Shame (Confucianism)]]"
   - "[[Social Engagement]]"
+  - "[[Jing (Refined Mastery)]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons:
-  - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Didier Eribon]]"
 related_facts: []
 related_arguments: []

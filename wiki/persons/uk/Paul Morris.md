@@ -14,13 +14,17 @@ tags:
 - region/china
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[International Schools]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:
   - "[[Argument_Ryan_2010_HKUP]]"
-sources: []
+sources:
+  - "[[Yan_2025_JCS]]"
 related_facts:
+  - "[[PISA]]"
   - "[[Liberal Studies (Hong Kong)]]"
   - "[[Transnationalism and America Project SYSU]]"
 confidence: high

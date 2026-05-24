@@ -10,17 +10,21 @@ tags:
 - national-culture
 - comparative-education
 related_concepts:
-  - "[[Chinese Learner]]"
   - "[[Effective Teaching]]"
+  - "[[Chinese Learner]]"
+  - "[[Confucian Heritage Cultures]]"
   - "[[Visible Learning]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Ryan_2010_ChineseLearner]]"
   - "[[Argument_Laursen_2015_Paideia]]"
-sources: []
+sources:
+  - "[[Laursen_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-05'

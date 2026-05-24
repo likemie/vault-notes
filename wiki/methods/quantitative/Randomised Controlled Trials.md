@@ -15,30 +15,44 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Stable Unit Treatment Value Assumption (SUTVA)]]"
   - "[[Effect Size]]"
+  - "[[Stable Unit Treatment Value Assumption (SUTVA)]]"
   - "[[Side Effects in Education]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Intent-to-Treat Analysis]]"
-  - "[[Black Box RCTs]]"
   - "[[Mechanism Experiments]]"
+  - "[[Black Box RCTs]]"
+  - "[[Feedback]]"
+  - "[[School Leadership]]"
   - "[[Validity as Inferences]]"
   - "[[Recommendations for Practice]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
+  - "[[Matching]]"
   - "[[Intervention Research]]"
-  - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
+  - "[[Non-intervention Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Quasi-Experimental Designs]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Wadhwa_2024_RER]]"
-sources: []
+sources:
+  - "[[Berk_2011_ER]]"
+  - "[[Pampaka_2016_IJRME]]"
+  - "[[Peterson_2016_IJRME]]"
+  - "[[Zhao_2017_JEC]]"
+  - "[[Wiliam_2019_ERE]]"
+  - "[[Wrigley_2019_ERE]]"
+  - "[[Kraft_2023_ER]]"
+  - "[[Brady_2023_EPR]]"
+  - "[[Wadhwa_2024_RER]]"
 related_facts:
   - "[[What Works Clearinghouse (WWC)]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Tennessee STAR Project 1985-1989]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

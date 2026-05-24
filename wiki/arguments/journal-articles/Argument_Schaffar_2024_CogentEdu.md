@@ -14,10 +14,12 @@ tags:
 - stance/critique
 related_concepts:
   - "[[Phenomenon-Based Learning]]"
+  - "[[Problem-Based Learning]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
   - "[[Epochal Key Problems]]"
   - "[[Atomisation of Knowledge and Skills]]"
+  - "[[Tongxue]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods: []
@@ -26,7 +28,8 @@ related_persons:
 related_facts:
   - "[[SveaSus Project]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Schaffar_2024_CogentEdu]]"
 part_of: ''
 status: draft
 created: '2026-05-06'

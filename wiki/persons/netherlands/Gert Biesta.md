@@ -21,11 +21,18 @@ related_concepts:
   - "[[Visible Learning]]"
 related_theories:
   - "[[Transactional Epistemology]]"
-related_methods: []
+  - "[[Luhmann's Systems Theory]]"
+related_methods:
+  - "[[Philosophical Analysis in Education]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Immanuel Kant]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Biesta_2010_SPE]]"
+  - "[[Romer_2018_EPT]]"
+  - "[[Wrigley_2019_ERE]]"
+  - "[[Bainbridge_2022_ROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

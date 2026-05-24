@@ -18,16 +18,19 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Performance Indicators]]"
   - "[[Epochal Key Problems]]"
+  - "[[Champ]]"
   - "[[Atomisation of Knowledge and Skills]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Radical Constructivism]]"
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[SveaSus Project]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

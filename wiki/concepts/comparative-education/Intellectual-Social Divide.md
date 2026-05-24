@@ -14,10 +14,8 @@ tags:
   - theme/social-competence
   - theme/cultural-psychology
 related_concepts:
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Academic Engagement]]"
   - "[[Nerd (School Peer Culture)]]"
-  - "[[Rightness]]"
+  - "[[Academic Engagement]]"
   - "[[Zero-Sum Competition (School)]]"
   - "[[Talent Assumption]]"
   - "[[Doxa]]"

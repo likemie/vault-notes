@@ -8,7 +8,10 @@ nationality: canada
 tags:
 - carolyn-shields
 - region/canada
-related_concepts: []
+related_concepts:
+  - "[[Transformative Leadership]]"
+  - "[[School Leadership]]"
+  - "[[Champ]]"
 related_theories: []
 related_methods: []
 related_persons:

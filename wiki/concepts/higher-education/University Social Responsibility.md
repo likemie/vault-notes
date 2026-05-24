@@ -11,16 +11,16 @@ tags:
 - region/global
 related_concepts:
   - "[[Organizational Actorhood]]"
-  - "[[Otherhood]]"
   - "[[Knowledge Production]]"
+  - "[[Otherhood]]"
 related_theories:
   - "[[World Society Theory]]"
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Comprehensive School Reform (CSR) Program]]"
   - "[[UN Sustainable Development Goals 2015]]"
   - "[[THE Impact Ranking 2019]]"
-  - "[[Comprehensive School Reform (CSR) Program]]"
 related_arguments: []
 sources: []
 confidence: medium

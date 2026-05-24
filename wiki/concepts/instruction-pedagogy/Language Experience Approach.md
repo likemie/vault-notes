@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Whole Language]]"
   - "[[Effect Size]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -19,7 +20,8 @@ related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[OConnor_2020_AJLL]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

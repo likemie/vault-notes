@@ -13,17 +13,28 @@ tags:
 - evaluation-theory
 - feedback
 - stance/critique
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Bildung]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Didaktik]]"
+  - "[[Feedback]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Popper's Three Worlds Theory]]"
   - "[[Technical Rationality]]"
+  - "[[Appraisal Theory]]"
 related_methods:
   - "[[Philosophical Analysis in Education]]"
-related_persons: []
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Immanuel Kant]]"
+  - "[[Socrates]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Romer_2018_EPT]]"
 part_of: ''
 status: draft
 created: '2026-05-03'

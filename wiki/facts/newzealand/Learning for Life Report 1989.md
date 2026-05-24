@@ -11,14 +11,16 @@ tags:
 - higher-education-policy
 - region/new-zealand
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Critic and Conscience of Society]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Gerald Grace]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Grace_2010_NZJES]]"
 confidence: low
 status: draft
 created: '2026-05-07'

@@ -14,8 +14,8 @@ tags:
 - intellectual-property
 - trade
 related_concepts:
-  - "[[Geopolitics of Knowledge]]"
   - "[[Economic and Industrial Espionage]]"
+  - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
 related_persons: []

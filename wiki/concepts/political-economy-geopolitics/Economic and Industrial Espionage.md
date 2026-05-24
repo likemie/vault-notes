@@ -19,8 +19,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Sino-American Trade War (2018)]]"
   - "[[US-China Economic and Security Review Commission (2000)]]"
+  - "[[Sino-American Trade War (2018)]]"
   - "[[Thousand Talents Program]]"
 related_arguments: []
 sources: []

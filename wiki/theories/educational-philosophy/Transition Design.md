@@ -11,11 +11,16 @@ tags:
 - wicked-problems
 - social-change
 related_concepts:
+  - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Posthumanism]]"
   - "[[Mondialisation]]"
-related_theories: []
-related_methods: []
-related_persons: []
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
+  - "[[Autopoiesis]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Arturo Escobar]]"
 related_facts: []
 related_arguments: []
 sources: []

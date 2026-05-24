@@ -17,12 +17,18 @@ tags:
 - level/k12
 - level/higher-ed
 related_concepts:
+  - "[[International Education]]"
   - "[[Chinese Learner]]"
+  - "[[Fourth Culture]]"
+  - "[[International Schools]]"
+  - "[[Champ]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Paul Morris]]"
-related_facts: []
+  - "[[Pierre Bourdieu]]"
+related_facts:
+  - "[[English Schools Foundation Hong Kong]]"
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Ryan_2010_ChineseLearner]]"

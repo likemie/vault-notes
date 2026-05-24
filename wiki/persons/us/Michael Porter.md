@@ -15,7 +15,6 @@ related_concepts:
   - "[[National Competitive Advantage]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Flow]]"
-  - "[[Rightness]]"
   - "[[Hub and Flow Imaginaries]]"
 related_theories:
   - "[[Critical Geopolitics]]"

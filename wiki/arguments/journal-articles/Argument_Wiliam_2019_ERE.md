@@ -17,14 +17,23 @@ tags:
 - ability-grouping
 - feedback
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Feedback]]"
+  - "[[Effect Size]]"
 related_theories:
   - "[[Goldman's Discrimination Theory of Knowledge]]"
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Philosophical Analysis in Education]]"
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Tennessee STAR Project 1985-1989]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wiliam_2019_ERE]]"
 part_of: ''
 status: draft
 created: '2026-05-01'

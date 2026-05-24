@@ -14,14 +14,21 @@ tags:
 - research-methodology
 - evidence-based-education
 related_concepts:
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[5-3-20 Rule]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
-related_methods: []
+related_methods:
+  - "[[Single-Case Design (SCD)]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[What Works Clearinghouse (WWC)]]"
+  - "[[Campbell Collaboration]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Hitchcock_2015_JBE]]"
 part_of: ''
 status: draft
 created: '2026-05-02'

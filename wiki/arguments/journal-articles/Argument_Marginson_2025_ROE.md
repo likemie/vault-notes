@@ -14,15 +14,15 @@ tags:
 related_concepts:
   - "[[Multiplicity (Massey)]]"
   - "[[Power-Geometries]]"
-  - "[[Rightness]]"
   - "[[Methodological Globalism]]"
   - "[[Semi-Autonomy of Higher Education]]"
   - "[[Sovereign Internationalism]]"
   - "[[Radical Liberal Internationalism]]"
+  - "[[Scale in Higher Education]]"
   - "[[Champ]]"
   - "[[Methodological Nationalism]]"
   - "[[Double Spatiality of Universities]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[International Education]]"
   - "[[Zero-Sum Competition (School)]]"
   - "[[Internationalization of Higher Education]]"
 related_theories:
@@ -35,7 +35,8 @@ related_facts:
   - "[[Singapore Education Hub Policy]]"
   - "[[Academic Ranking of World Universities (ARWU)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Marginson_2025_ROE]]"
 part_of: ''
 status: draft
 created: '2026-05-12'

@@ -11,7 +11,6 @@ tags:
 - region/uk
 - level/higher-ed
 related_concepts:
-  - "[[Rightness]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Visible Learning]]"
 related_theories: []
@@ -20,7 +19,8 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Grace_2010_NZJES]]"
 confidence: low
 status: draft
 created: '2026-05-07'

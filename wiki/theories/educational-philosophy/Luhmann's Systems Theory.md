@@ -9,14 +9,21 @@ tags:
 - luhmann
 - paradigm/systems-theory
 related_concepts:
+  - "[[Effect Size]]"
+  - "[[Structural Coupling]]"
+  - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[Knowledge-Based Economization]]"
-related_theories: []
-related_methods: []
-related_persons: []
+related_theories:
+  - "[[Autopoiesis]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Niklas Luhmann]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

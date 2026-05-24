@@ -14,28 +14,25 @@ tags:
 - level/k12
 - level/higher-ed
 related_concepts:
+  - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
   - "[[Take the World Upon Oneself]]"
+  - "[[International Education]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Western Learner]]"
   - "[[Five Cardinal Relationships]]"
-  - "[[Li (Propriety)]]"
   - "[[Rightness]]"
-  - "[[Shame (Confucianism)]]"
-  - "[[Ren]]"
   - "[[Junzi]]"
   - "[[Sage]]"
-  - "[[Learning Virtues]]"
-  - "[[Shu (Familiarization)]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Humility in Learning]]"
   - "[[Action Better Than Words]]"
   - "[[University Motto]]"
   - "[[Listening-Oriented Learning]]"
   - "[[Paradox of the Chinese Learner]]"
-  - "[[Stereotype Threat]]"
-  - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Cultural Models]]"
+  - "[[Stereotype Threat]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Ideal Learner]]"
   - "[[Examination Hell]]"
   - "[[Fourth Culture]]"
@@ -43,12 +40,15 @@ related_concepts:
   - "[[Meta-Cultural Sensitivity]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Phenomenology]]"
 related_methods:
   - "[[Observational and Correlational Research]]"
-related_persons: []
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[Confucius]]"
 related_facts:
-  - "[[Civil Service Examination]]"
   - "[[English Schools Foundation Hong Kong]]"
+  - "[[Civil Service Examination]]"
   - "[[Transnationalism and America Project SYSU]]"
   - "[[China Basic Education Curriculum Reform 2001]]"
 related_arguments:

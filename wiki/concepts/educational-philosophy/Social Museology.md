@@ -14,6 +14,8 @@ tags:
 - theme/community
 related_concepts:
   - "[[Ecomuseology]]"
+  - "[[Knowledge Production]]"
+  - "[[Official Knowledge]]"
   - "[[Life Power]]"
   - "[[Epistemology of Resistance]]"
 related_theories:
@@ -21,7 +23,9 @@ related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
   - "[[Ganz-Methode]]"
-related_persons: []
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Dell Delambre]]"
 related_facts: []
 related_arguments: []
 sources: []

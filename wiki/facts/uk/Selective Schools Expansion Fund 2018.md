@@ -20,11 +20,12 @@ related_methods:
   - "[[Carnivalesque Analysis]]"
 related_persons: []
 related_facts:
-  - "[[Education and Inspections Act 2006]]"
   - "[[Grammar School]]"
+  - "[[Education and Inspections Act 2006]]"
   - "[[Ofsted]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Bainbridge_2022_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

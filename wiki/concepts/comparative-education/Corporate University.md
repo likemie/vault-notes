@@ -12,6 +12,8 @@ tags:
 - region/global
 - subject/comparative-education
 related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Champ]]"
   - "[[Corporate Education]]"
 related_theories:
   - "[[Institutional Isomorphism]]"

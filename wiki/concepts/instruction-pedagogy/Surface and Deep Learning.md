@@ -14,18 +14,29 @@ tags:
 - region/china
 related_concepts:
   - "[[Problem-Based Learning]]"
+  - "[[Western Learner]]"
   - "[[Paradox of the Chinese Learner]]"
+  - "[[Confucian Heritage Cultures]]"
   - "[[Chinese Learner]]"
   - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Visible Learning]]"
   - "[[Constructive Alignment]]"
 related_theories:
   - "[[Popper's Three Worlds Theory]]"
 related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Causal Modeling]]"
+  - "[[Observational and Correlational Research]]"
   - "[[Cognitive Task Analysis]]"
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Qvortrup_2015_Paideia]]"
+  - "[[Hattie_2015_SOTLP]]"
+  - "[[Blass_2020_JESP]]"
+  - "[[Fredens_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-04'

@@ -15,9 +15,10 @@ tags:
   - theme/competition
   - theme/cultural-psychology
 related_concepts:
-  - "[[Rightness]]"
   - "[[Nerd (School Peer Culture)]]"
   - "[[Tongxue]]"
+  - "[[Tall Poppy Syndrome]]"
+  - "[[Self-Cultivation]]"
   - "[[Talent Assumption]]"
   - "[[Intellectual-Social Divide]]"
 related_theories:

@@ -16,11 +16,15 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Matching]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Golovchin_2019_ESC]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

@@ -16,7 +16,9 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Knowledge Production]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Epistemic Governance]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Global Regionalisms in Higher Education]]"
   - "[[Regulatory Regionalism]]"

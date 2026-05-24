@@ -18,15 +18,20 @@ tags:
 - source/book
 related_concepts:
   - "[[Educational Management Organisation (EMO)]]"
+  - "[[International Education]]"
+  - "[[School Leadership]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
   - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
   - "[[Jerudong International School Establishment (Brunei 1997)]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[ONeill_2016_Report]]"
+  - "[[Johnson_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-23'

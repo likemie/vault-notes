@@ -16,7 +16,8 @@ related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Laursen_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-05'

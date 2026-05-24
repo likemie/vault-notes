@@ -14,15 +14,21 @@ tags:
 - stratification
 - region/us
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Cultural Capital]]"
+  - "[[Class Size]]"
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:
   - "[[Seasonal Comparison]]"
-related_persons: []
-related_facts: []
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Pierre Bourdieu]]"
+related_facts:
+  - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Downey_2016_SoE]]"
 part_of: ''
 status: draft
 created: '2026-05-04'

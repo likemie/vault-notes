@@ -14,9 +14,11 @@ tags:
 - clearinghouse-rating-case
 - region/us
 related_concepts:
+  - "[[Tongxue]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse (WWC)]]"
@@ -25,7 +27,8 @@ related_facts:
   - "[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]"
   - "[[National Dropout Prevention Center (NDPC)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wadhwa_2024_RER]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

@@ -12,13 +12,27 @@ tags:
 - policy-borrowing
 - region/russia
 - meta-analysis
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Policy Borrowing]]"
+  - "[[Effect Size]]"
+  - "[[Class Size]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Feedback]]"
+  - "[[Publication Bias]]"
+related_theories:
+  - "[[Societies of Control]]"
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Matching]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Golovchin_2019_ESC]]"
 part_of: ''
 status: draft
 created: '2026-05-02'

@@ -15,10 +15,10 @@ tags:
 - theme/competitiveness
 - theory/governmentality
 related_concepts:
+  - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performativity of Measurement]]"
-  - "[[Rightness]]"
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
@@ -29,6 +29,7 @@ related_theories:
 related_methods:
   - "[[Matching]]"
 related_persons:
+  - "[[Max Weber]]"
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []

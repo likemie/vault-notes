@@ -16,13 +16,13 @@ tags:
 - theory/confucianism
 - theme/meritocracy
 related_concepts:
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Sage]]"
   - "[[Self-Cultivation]]"
+  - "[[Sage]]"
   - "[[Chinese Learner]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

@@ -10,15 +10,19 @@ tags:
 - sociology-of-education
 - stratification
 - paradigm/sociological
-related_concepts: []
+related_concepts:
+  - "[[Tongxue]]"
 related_theories: []
 related_methods:
   - "[[Seasonal Comparison]]"
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[Coleman Report 1966]]"
+  - "[[No Child Left Behind Act 2001]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Downey_2016_SoE]]"
 confidence: low
 status: draft
 created: '2026-05-04'

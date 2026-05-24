@@ -14,8 +14,12 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[In-depth Interview]]"
+related_persons:
+  - "[[Yajun Zheng]]"
 related_arguments:
   - "[[Argument_郑_2023_上海三联书店]]"
 sources: []

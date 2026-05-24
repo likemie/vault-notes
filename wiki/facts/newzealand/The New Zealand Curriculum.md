@@ -18,9 +18,11 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Sarbiewska_2019_JSR]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

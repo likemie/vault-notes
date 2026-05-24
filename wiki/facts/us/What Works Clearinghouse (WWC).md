@@ -14,15 +14,17 @@ tags:
 - evidence-based-education
 - region/us
 related_concepts:
-  - "[[5-3-20 Rule]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Education]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Effect Size]]"
+  - "[[5-3-20 Rule]]"
+  - "[[Evidence-Based Education]]"
   - "[[Gating Procedure]]"
 related_theories: []
 related_methods:
-  - "[[Single-Case Design (SCD)]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Single-Case Design (SCD)]]"
 related_persons: []
 related_facts:
   - "[[WWC SCD Pilot Standards 2010]]"
@@ -31,7 +33,11 @@ related_facts:
   - "[[ESSA 2015 Evidence Standards]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wiliam_2019_ERE]]"
+  - "[[Wolf_2020_JREE]]"
+  - "[[Hitchcock_2015_JBE]]"
+  - "[[Wadhwa_2024_RER]]"
 confidence: medium
 status: draft
 created: '2026-05-05'

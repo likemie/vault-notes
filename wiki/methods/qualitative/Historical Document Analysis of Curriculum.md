@@ -12,14 +12,20 @@ tags:
 - qualitative
 - paradigm/critical
 - paradigm/interpretivist
-related_concepts: []
+related_concepts:
+  - "[[Externalization (Schriewer)]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
-related_methods: []
+related_methods:
+  - "[[Qualitative Research]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
-sources: []
+sources:
+  - "[[Yan_2025_JCS]]"
+related_facts:
+  - "[[Liberal Studies (Hong Kong)]]"
+  - "[[Citizenship and Social Development (Hong Kong)]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

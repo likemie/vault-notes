@@ -15,16 +15,17 @@ tags:
   - theme/evidence-informed-practice
   - theme/educational-intervention
 related_concepts:
+  - "[[Evidence-Informed Practice]]"
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Pellegrini_2021_ROE]]"
-sources: []
+sources:
+  - "[[Pellegrini_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23

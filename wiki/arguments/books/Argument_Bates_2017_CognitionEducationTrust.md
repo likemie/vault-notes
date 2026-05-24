@@ -9,8 +9,7 @@ authors: ["Terry Bates"]
 publisher: "Cognition Education Trust"
 citation: "Bates, T. (2017). Darwin's Finch: A Short History of Cognition. Cognition Education Trust."
 tags: [region/new-zealand, source/book, theme/organisational-history, theme/education-marketisation]
-related_concepts:
-  - "[[Rightness]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []

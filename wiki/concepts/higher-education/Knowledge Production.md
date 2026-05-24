@@ -16,7 +16,8 @@ related_concepts:
   - "[[Narrative Knowledge]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Frantz Fanon]]"
   - "[[Chen Kuan-Hsing]]"

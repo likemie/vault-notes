@@ -8,14 +8,20 @@ tags:
 - parallel-monologues
 - educational-administration
 - research-methodology
-related_concepts: []
+related_concepts:
+  - "[[Cult of the Guru]]"
+  - "[[School Leadership]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
+  - "[[Scott Eacott]]"
   - "[[Pierre Bourdieu]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Eacott_2019_IJLE]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

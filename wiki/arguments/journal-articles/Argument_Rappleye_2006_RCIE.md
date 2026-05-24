@@ -13,18 +13,21 @@ tags:
 - comparative-education
 - region/global
 related_concepts:
+  - "[[Cross-National Attraction]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization (Schriewer)]]"
-  - "[[Cross-National Attraction]]"
+  - "[[Policy Entrepreneur]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
   - "[[A Nation at Risk 1983]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Rappleye_2006_RCIE]]"
 part_of: ''
 status: draft
 created: '2026-05-06'

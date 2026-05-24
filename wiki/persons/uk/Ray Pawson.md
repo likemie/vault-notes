@@ -14,13 +14,17 @@ tags:
 - methodology
 - region/uk
 related_concepts:
+  - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Critical Realism]]"
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Wrigley_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

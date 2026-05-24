@@ -16,12 +16,14 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Selectivity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Matching]]"
 related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals 2015]]"
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
+  - "[[YOUNG_ADULLLT]]"
   - "[[Europe 2020 Strategy]]"
   - "[[Youth Guarantee Scheme]]"
 related_arguments: []

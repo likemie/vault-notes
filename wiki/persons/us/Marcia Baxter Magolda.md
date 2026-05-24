@@ -11,12 +11,17 @@ tags:
 - higher-education
 - region/us
 related_concepts:
+  - "[[Self-Authorship]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
   - "[[Self-Driven Mode]]"
   - "[[Habitus]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
 related_arguments: []
 sources: []
 confidence: low

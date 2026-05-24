@@ -15,23 +15,23 @@ tags:
 - theory/confucianism
 related_concepts:
   - "[[Self-Cultivation]]"
-  - "[[Rightness]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
   - "[[Action Better Than Words]]"
   - "[[Junzi]]"
-  - "[[Ren]]"
-  - "[[Li (Propriety)]]"
   - "[[Tongxue]]"
+  - "[[Sage]]"
+  - "[[Knowledge Production]]"
   - "[[Chinese Learner]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Confucius]]"
   - "[[Mencius]]"
-  - "[[Zhu Xi]]"
   - "[[Wang Yangming]]"
+  - "[[Zhu Xi]]"
 related_facts:
   - "[[Civil Service Examination]]"
 related_arguments:

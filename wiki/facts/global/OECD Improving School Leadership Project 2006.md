@@ -13,12 +13,16 @@ tags:
 - level/k12
 related_concepts:
   - "[[School Leadership]]"
+  - "[[International Education]]"
   - "[[New Public Management]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[PISA]]"
+  - "[[International Indicators of Education Systems (INES)]]"
+  - "[[Education at a Glance (EAG)]]"
 related_arguments: []
 sources: []
 confidence: high

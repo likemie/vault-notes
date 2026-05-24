@@ -14,11 +14,15 @@ tags:
 - level/k12
 related_concepts: []
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Cognition Education (NZ)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[ONeill_2016_Report]]"
 part_of: ''
 status: draft
 created: '2026-05-04'

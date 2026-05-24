@@ -10,9 +10,12 @@ tags:
 - late-modernity
 - higher-ed
 related_concepts:
+  - "[[International Education]]"
+  - "[[New Public Management]]"
   - "[[Policy Borrowing]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Robert Cowen]]"
 related_facts:

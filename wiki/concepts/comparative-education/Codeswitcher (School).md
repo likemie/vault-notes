@@ -15,6 +15,7 @@ tags:
   - theme/achievement
   - theme/self-presentation
 related_concepts:
+  - "[[Nerd (School Peer Culture)]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Zero-Sum Competition (School)]]"
 related_theories: []

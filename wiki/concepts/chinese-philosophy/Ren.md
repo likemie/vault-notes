@@ -15,9 +15,12 @@ tags:
 - field/chinese-philosophy
 - theme/learning
 related_concepts:
+  - "[[Li (Propriety)]]"
+  - "[[Rightness]]"
   - "[[Self-Cultivation]]"
   - "[[Junzi]]"
-related_theories: []
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons:
   - "[[Confucius]]"

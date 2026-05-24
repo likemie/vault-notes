@@ -13,9 +13,7 @@ tags:
 - theme/cross-cultural-learning
 - theme/examination
 related_concepts:
-  - "[[Shu (Familiarization)]]"
   - "[[Filial Piety]]"
-  - "[[Rightness]]"
   - "[[Self-Cultivation]]"
 related_theories: []
 related_methods:

@@ -23,7 +23,8 @@ related_facts:
   - "[[Independent Public Schools (IPS) Western Australia]]"
   - "[[Gonski Reforms]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Keddie_2020_IJLE]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

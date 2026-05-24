@@ -10,16 +10,15 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Epistemic Governance]]"
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Rightness]]"
   - "[[Cultural Models]]"
   - "[[Performance Indicators]]"
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
   - "[[Epistemic Drift]]"
-  - "[[Epistemic Governance]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Pride in Learning]]"
   - "[[International Education Hubs]]"
@@ -31,7 +30,9 @@ related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals 2015]]"
   - "[[Comprehensive School Reform (CSR) Program]]"
+  - "[[Education at a Glance (EAG)]]"
   - "[[GATS and Trade in Education Services]]"
+  - "[[THE Impact Ranking 2019]]"
 related_arguments: []
 sources: []
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'

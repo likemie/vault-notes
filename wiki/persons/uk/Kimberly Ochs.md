@@ -10,12 +10,17 @@ tags:
 - comparative-education
 - policy-borrowing
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Policy Borrowing]]"
+  - "[[Cross-National Attraction]]"
+  - "[[Global Universities Rankings]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[David Phillips]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

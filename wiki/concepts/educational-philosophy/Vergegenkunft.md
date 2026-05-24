@@ -11,7 +11,8 @@ tags:
 - literature
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

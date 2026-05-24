@@ -15,11 +15,12 @@ tags:
 - theme/achievement
 - theme/attribution
 related_concepts:
-  - "[[Rightness]]"
   - "[[International Education]]"
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"
   - "[[Learning Virtues]]"
+  - "[[Cultural Models]]"
+  - "[[Entity vs Incremental Intelligence]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:

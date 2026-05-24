@@ -15,12 +15,19 @@ tags:
 related_concepts:
   - "[[Tense Society]]"
   - "[[Life Power]]"
+  - "[[Ecomuseology]]"
+  - "[[Whole Sustainability]]"
   - "[[Epistemology of Resistance]]"
+  - "[[Social Museology]]"
+  - "[[Knowledge Production]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Dell Delambre]]"
+  - "[[Richard Castelo Branco]]"
+  - "[[Camilla de Hollanda Amado]]"
 related_facts: []
 related_arguments: []
 sources: []

@@ -15,17 +15,22 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Geopolitical Subject]]"
   - "[[Economic Patriotism]]"
-  - "[[Rightness]]"
   - "[[Doxa]]"
   - "[[Knowledge Production]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Global Education Industry]]"
   - "[[Spatial Sortings]]"
+  - "[[Progressive Neoliberalism]]"
 related_theories:
+  - "[[Cultural Political Economy]]"
+  - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Sami Moisio]]"
 related_facts:
+  - "[[Europe 2020 Strategy]]"
+  - "[[Innovation Union]]"
   - "[[Minerva University]]"
 related_arguments: []
 sources: []

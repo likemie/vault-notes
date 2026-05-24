@@ -23,7 +23,9 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Keddie_2020_JEAH]]"
+  - "[[Keddie_2020_IJLE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

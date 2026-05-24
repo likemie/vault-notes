@@ -15,13 +15,19 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Effect Size]]"
+  - "[[Feedback]]"
+  - "[[New Public Management]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Hansen_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-20'

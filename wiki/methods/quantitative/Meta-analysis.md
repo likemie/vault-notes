@@ -17,12 +17,17 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Publication Bias]]"
   - "[[Whole Language]]"
+  - "[[Tongxue]]"
   - "[[Feedback]]"
   - "[[Statistical Significance]]"
+  - "[[Class Size]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
+  - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Matching]]"
 related_persons:
   - "[[John Hattie]]"
 related_arguments:
@@ -31,7 +36,17 @@ related_arguments:
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
-sources: []
+sources:
+  - "[[Simpson_2017_JEP]]"
+  - "[[Terhart_2011_JCS]]"
+  - "[[Berk_2011_ER]]"
+  - "[[Hattie_2015_Paideia]]"
+  - "[[Allerup_2015_Paideia]]"
+  - "[[Wecker_2016_ZfE]]"
+  - "[[Qvortrup_2019_NordSTEP]]"
+  - "[[Wiliam_2019_ERE]]"
+  - "[[Wrigley_2019_ERE]]"
+  - "[[OConnor_2020_AJLL]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

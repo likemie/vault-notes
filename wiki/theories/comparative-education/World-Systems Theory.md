@@ -10,6 +10,9 @@ tags:
 - theme/geopolitics
 - theory/political-economy
 related_concepts:
+  - "[[Methodological Globalism]]"
+  - "[[Methodological Nationalism]]"
+  - "[[Multiplicity (Massey)]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
@@ -17,7 +20,8 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Marginson_2025_ROE]]"
-sources: []
+sources:
+  - "[[Marginson_2025_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-12'

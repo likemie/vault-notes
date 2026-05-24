@@ -13,17 +13,14 @@ tags:
 - level/k12
 - theme/cross-cultural
 related_concepts:
+  - "[[Chinese Learner]]"
   - "[[Orientalism]]"
   - "[[Stereotype Threat]]"
   - "[[Meta-Cultural Sensitivity]]"
   - "[[Confucian Heritage Cultures]]"
-  - "[[Chinese Learner]]"
-  - "[[Rightness]]"
+  - "[[Tongxue]]"
   - "[[International Education]]"
   - "[[Jing (Refined Mastery)]]"
-  - "[[Shu (Familiarization)]]"
-  - "[[Li (Propriety)]]"
-  - "[[Tongxue]]"
   - "[[Feedback]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"

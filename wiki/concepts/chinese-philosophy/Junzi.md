@@ -14,8 +14,9 @@ tags:
 - field/chinese-philosophy
 - theme/learning
 related_concepts:
-  - "[[Ren]]"
+  - "[[Sage]]"
   - "[[Self-Cultivation]]"
+  - "[[Ren]]"
 related_theories: []
 related_methods: []
 related_persons:

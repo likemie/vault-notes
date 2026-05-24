@@ -15,9 +15,8 @@ tags:
 - comparative-education
 related_concepts:
   - "[[Regulatory Regionalism]]"
+  - "[[International Education]]"
   - "[[Selectivity]]"
-  - "[[Rightness]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Theories of Policy Change]]"
   - "[[Sociology of Measurement]]"
   - "[[Performativity of Measurement]]"
@@ -29,11 +28,13 @@ related_facts:
   - "[[Education at a Glance (EAG)]]"
   - "[[International Indicators of Education Systems (INES)]]"
   - "[[Europe 2020 Strategy]]"
+  - "[[YOUNG_ADULLLT]]"
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
   - "[[Youth Guarantee Scheme]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Gorur_2014_Discourse]]"
 confidence: high
 status: draft
 created: '2026-05-01'

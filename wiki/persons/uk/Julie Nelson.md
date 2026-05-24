@@ -14,12 +14,16 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Informed Practice]]"
+  - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Carol Campbell]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Nelson_2017_ER]]"
+related_facts:
+  - "[[Campbell Collaboration]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

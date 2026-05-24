@@ -18,6 +18,7 @@ related_concepts:
   - "[[Rightness]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
+  - "[[Humility in Learning]]"
 related_theories: []
 related_methods: []
 related_persons:

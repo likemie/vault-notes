@@ -11,13 +11,16 @@ tags:
 - paradigm/critical
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Qualitative Research]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"
-sources: []
+sources:
+  - "[[Bainbridge_2022_ROE]]"
 related_facts:
   - "[[Ofsted]]"
+  - "[[Grammar School]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

@@ -12,15 +12,19 @@ tags:
 - knowledge-based-economy
 - region/global
 related_concepts:
+  - "[[Knowledge-Based Economization]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Rightness]]"
+  - "[[Flow]]"
   - "[[Economic Patriotism]]"
+  - "[[Classical Geopolitics]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Spatial Sortings]]"
-related_theories: []
+related_theories:
+  - "[[Critical Geopolitics]]"
 related_methods:
   - "[[Observational and Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[Michael Porter]]"
 related_facts: []
 related_arguments: []
 sources: []

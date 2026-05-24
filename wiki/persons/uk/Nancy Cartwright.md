@@ -10,15 +10,19 @@ tags:
 - paradigm/scientific-realism
 - region/uk
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Programme Fidelity vs Adaptation]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Philosophical Analysis in Education]]"
 related_persons:
   - "[[Nick Cowen]]"
   - "[[Gert Biesta]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Cowen_2015_CHESS]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

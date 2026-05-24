@@ -11,16 +11,19 @@ tags:
   - theme/educational-inequality
   - region/uk
 related_concepts:
+  - "[[Champ]]"
   - "[[Political Arithmetic]]"
   - "[[School Effectiveness]]"
-related_theories: []
+related_theories:
+  - "[[Phenomenology]]"
 related_methods: []
 related_persons:
   - "[[Basil Bernstein]]"
 related_facts:
   - "[[Committee for the Accreditation of Teacher Education]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ball_2008_SR]]"
 confidence: medium
 status: draft
 created: 2026-05-23

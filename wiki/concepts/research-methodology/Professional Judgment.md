@@ -9,17 +9,22 @@ tags:
 - teacher-development
 - evidence-based-education
 related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Programme Fidelity vs Adaptation]]"
 related_theories:
   - "[[Bounded Rationality]]"
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Formative Evaluation]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Qvortrup_2019_NordSTEP]]"
 confidence: low
 status: draft
 created: '2026-05-03'

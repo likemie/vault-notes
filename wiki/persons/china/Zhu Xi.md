@@ -16,13 +16,16 @@ tags:
 - theory/neo-confucianism
 - school/cheng-zhu-school
 related_concepts:
-  - "[[Jing (Refined Mastery)]]"
   - "[[Self-Cultivation]]"
   - "[[Sage]]"
-related_theories: []
+  - "[[Take the World Upon Oneself]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons:
   - "[[Confucius]]"
+  - "[[Mencius]]"
+  - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
 sources: []

@@ -12,14 +12,21 @@ tags:
 - parallel-monologues
 - neo-taylorism
 - stance/critique
-related_concepts: []
+related_concepts:
+  - "[[Parallel Monologues]]"
+  - "[[Knowledge Production]]"
+  - "[[Cult of the Guru]]"
+  - "[[School Leadership]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Eacott_2019_IJLE]]"
 part_of: ''
 status: draft
 created: '2026-05-03'

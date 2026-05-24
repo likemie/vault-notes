@@ -14,12 +14,15 @@ tags:
 - level/k12
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Feedback]]"
   - "[[Effective Teaching]]"
   - "[[Evidence-Based Education]]"
   - "[[Policy Borrowing]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
 sources: []

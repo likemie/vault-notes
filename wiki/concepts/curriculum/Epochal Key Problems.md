@@ -12,9 +12,11 @@ tags:
 - paradigm/critical
 related_concepts:
   - "[[Didaktik]]"
+  - "[[Tongxue]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
   - "[[Atomisation of Knowledge and Skills]]"
+  - "[[Champ]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -23,7 +25,8 @@ related_facts:
   - "[[Finnish National Core Curriculum 2014]]"
   - "[[SveaSus Project]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

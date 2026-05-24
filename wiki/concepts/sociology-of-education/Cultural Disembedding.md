@@ -13,17 +13,26 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[Doxa]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Habitus]]"
+  - "[[Champ]]"
   - "[[Tongxue]]"
+  - "[[Shame (Confucianism)]]"
+  - "[[Doxa]]"
   - "[[Cultural Disorientation]]"
+  - "[[Lost Mode]]"
   - "[[The Shock of the Elite]]"
+  - "[[Confucian Heritage Cultures]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-09'

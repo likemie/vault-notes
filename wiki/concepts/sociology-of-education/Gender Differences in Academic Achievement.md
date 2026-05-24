@@ -15,6 +15,7 @@ related_concepts:
   - "[[Motivation and Work Effort]]"
   - "[[Self-control]]"
   - "[[Assertiveness]]"
+  - "[[Effect Size]]"
   - "[[Effective Teaching]]"
   - "[[School Leadership]]"
 related_theories:
@@ -25,7 +26,8 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Lekhal_2015_Paideia]]"
-sources: []
+sources:
+  - "[[Lekhal_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

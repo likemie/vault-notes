@@ -14,13 +14,23 @@ tags:
 - literacy
 - researcher-bias
 - stance/critique
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Whole Language]]"
+  - "[[Effect Size]]"
+  - "[[Language Experience Approach]]"
+  - "[[Direct Instruction]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_methods:
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Jean-Jacques Rousseau]]"
+related_facts:
+  - "[[Victorian HITS and Literacy Toolkit 2017]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[OConnor_2020_AJLL]]"
 part_of: ''
 status: draft
 created: '2026-05-03'

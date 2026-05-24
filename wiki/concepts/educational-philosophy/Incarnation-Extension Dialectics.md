@@ -10,13 +10,18 @@ tags:
 - stance/critique
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Effect Size]]"
   - "[[Bildung]]"
-related_theories: []
-related_methods: []
-related_persons: []
+related_theories:
+  - "[[Phenomenology]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Steen Nepper Larsen]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

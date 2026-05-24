@@ -14,10 +14,15 @@ tags:
 - region/global
 related_concepts:
   - "[[Transformative Leadership]]"
+  - "[[Champ]]"
+  - "[[School Leadership]]"
+  - "[[New Public Management]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[PISA]]"
+  - "[[Education at a Glance (EAG)]]"
 related_arguments: []
 sources: []
 part_of: ''

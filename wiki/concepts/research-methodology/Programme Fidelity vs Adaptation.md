@@ -14,16 +14,20 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Effect Size]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
-  - "[[California Class Size Reduction 1996]]"
   - "[[Tennessee STAR Project 1985-1989]]"
+  - "[[California Class Size Reduction 1996]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Cowen_2015_CHESS]]"
+  - "[[Wiliam_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

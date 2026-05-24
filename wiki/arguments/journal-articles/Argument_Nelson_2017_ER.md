@@ -15,13 +15,19 @@ tags:
 - region/uk
 - region/canada
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Informed Practice]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Professional Judgment]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Campbell Collaboration]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Nelson_2017_ER]]"
 part_of: ''
 status: draft
 created: '2026-05-01'

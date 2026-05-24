@@ -13,7 +13,6 @@ tags:
 - scientific-humanism
 - region/uk
 related_concepts:
-  - "[[Rightness]]"
   - "[[Transhumanism]]"
   - "[[Posthumanism]]"
 related_theories: []

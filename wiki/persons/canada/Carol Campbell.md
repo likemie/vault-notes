@@ -15,12 +15,16 @@ tags:
 related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Julie Nelson]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Nelson_2017_ER]]"
+related_facts:
+  - "[[Campbell Collaboration]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

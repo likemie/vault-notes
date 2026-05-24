@@ -16,13 +16,16 @@ tags:
 - theme/community
 related_concepts:
   - "[[Social Museology]]"
+  - "[[Knowledge Production]]"
   - "[[Epistemology of Resistance]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
   - "[[Ganz-Methode]]"
-related_persons: []
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Dell Delambre]]"
 related_facts: []
 related_arguments: []
 sources: []

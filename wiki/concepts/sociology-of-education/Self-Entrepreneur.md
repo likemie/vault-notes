@@ -6,8 +6,8 @@ type: concept
 tags: ["theme/neoliberalism", "theme/subjectivity", "theme/employability"]
 related_concepts:
   - "[[Employability]]"
-  - "[[Rightness]]"
-related_theories: []
+related_theories:
+  - "[[Governmentality]]"
 related_methods: []
 related_persons: []
 related_facts: []

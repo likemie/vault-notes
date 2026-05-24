@@ -15,16 +15,26 @@ tags:
 - effect-size
 - region/uk
 related_concepts:
+  - "[[School Leadership]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Effect Size]]"
+  - "[[Feedback]]"
+  - "[[Professional Judgment]]"
+  - "[[Tongxue]]"
+  - "[[Statistical Significance]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[Effect Size]]"
   - "[[Moral Sidestep]]"
 related_theories:
   - "[[Legitimation Theory Van Leeuwen]]"
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[In-depth Interview]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -32,7 +42,14 @@ related_facts:
   - "[[Playing for Success]]"
   - "[[What Works Network (UK)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Cowen_2015_CHESS]]"
+  - "[[Cowen_2019_ERE]]"
+  - "[[Slavin_2019_EP]]"
+  - "[[Wrigley_2018_BERJ]]"
+  - "[[Wrigley_2019_ERE]]"
+  - "[[Bainbridge_2022_ROE]]"
+  - "[[Pellegrini_2021_ROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

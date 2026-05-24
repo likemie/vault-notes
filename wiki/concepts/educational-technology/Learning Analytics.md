@@ -22,19 +22,19 @@ related_concepts:
   - "[[Performativity of Measurement]]"
   - "[[Feedback]]"
   - "[[Educational Technology Industry]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Online Self-Assessment]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
+  - "[[Preemptive Governance]]"
+  - "[[Promising Student]]"
   - "[[Professional Judgment]]"
-  - "[[Rightness]]"
   - "[[Transhumanism]]"
   - "[[Bildung]]"
-  - "[[Preemptive Governance]]"
   - "[[Gamification]]"
   - "[[Data Behaviorism]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

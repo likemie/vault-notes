@@ -18,13 +18,28 @@ tags:
 - neoliberalism
 - paradigm/critical
 - region/uk
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[School Leadership]]"
+  - "[[Feedback]]"
+  - "[[Professional Judgment]]"
+related_theories:
+  - "[[Critical Realism]]"
+  - "[[Appraisal Theory]]"
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Matching]]"
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[ResearchED]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Wrigley_2018_BERJ]]"
 part_of: ''
 status: draft
 created: '2026-05-01'

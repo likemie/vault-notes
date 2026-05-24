@@ -11,9 +11,11 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Rightness]]"
+  - "[[Epistemic Governance]]"
+  - "[[Evidence-Based Education]]"
   - "[[Knowledge Production]]"
   - "[[Otherhood]]"
+  - "[[Cultural Models]]"
   - "[[Epistemic Drift]]"
 related_theories:
   - "[[World Society Theory]]"

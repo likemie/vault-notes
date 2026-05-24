@@ -14,8 +14,6 @@ tags:
 - knowledge-transfer
 - geopolitics-of-knowledge
 related_concepts:
-  - "[[Rightness]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Knowledge Transfer]]"

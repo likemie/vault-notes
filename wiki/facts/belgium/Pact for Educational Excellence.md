@@ -15,19 +15,23 @@ tags:
   - theme/evidence-based-education
   - policy/compulsory-education
 related_concepts:
-  - "[[Rightness]]"
   - "[[Grade Retention]]"
-  - "[[Inclusive Evidence Validation Typology]]"
   - "[[Evidence-Based Education]]"
+  - "[[Inclusive Evidence Validation Typology]]"
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Matching]]"
 related_persons: []
 related_facts:
   - "[[French-Speaking Belgium Education System]]"
+  - "[[PISA]]"
+  - "[[What Works Clearinghouse (WWC)]]"
+  - "[[Best Evidence Encyclopedia (BEE)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Dachet_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23

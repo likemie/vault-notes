@@ -11,11 +11,11 @@ tags:
 - cultural-sociology
 - paradigm/interpretivist
 related_concepts:
-  - "[[Shu (Familiarization)]]"
+  - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Habitus]]"
   - "[[Self-Authorship]]"
+  - "[[Champ]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunist Mode]]"
   - "[[Lost Mode]]"
@@ -24,13 +24,15 @@ related_concepts:
   - "[[Graduation Pathway Typology (Zheng)]]"
 related_theories:
   - "[[Dual-Process Model of Culture in Action]]"
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Ann Swidler]]"
   - "[[Yajun Zheng]]"
   - "[[Max Weber]]"
   - "[[Pierre Bourdieu]]"
-related_facts: []
+related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources: []
 confidence: medium

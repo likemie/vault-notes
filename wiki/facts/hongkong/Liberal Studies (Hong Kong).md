@@ -25,7 +25,8 @@ related_facts:
   - "[[Replacement of LS by CSD 2021]]"
   - "[[2019 Hong Kong Protests and Education]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'

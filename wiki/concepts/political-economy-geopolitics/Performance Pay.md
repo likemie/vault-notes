@@ -10,14 +10,17 @@ tags:
 - merit-pay
 - subject/curriculum
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Effective Teaching]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Snook_2009_NZJES]]"
+  - "[[Hattie_2010_NZJES]]"
 confidence: low
 status: draft
 created: '2026-05-03'

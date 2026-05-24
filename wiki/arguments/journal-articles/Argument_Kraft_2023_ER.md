@@ -12,13 +12,18 @@ tags:
 - evidence-based-education
 - policy-relevance
 - methodology
-related_concepts: []
+related_concepts:
+  - "[[Effect Size]]"
+  - "[[Publication Bias]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Kraft_2023_ER]]"
 part_of: ''
 status: draft
 created: '2026-05-05'

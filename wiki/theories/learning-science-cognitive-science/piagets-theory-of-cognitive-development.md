@@ -15,19 +15,21 @@ related_concepts:
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
   - "[[Updating and Monitoring]]"
-  - "[[Shu (Familiarization)]]"
   - "[[Synaptogenesis]]"
   - "[[Synaptic Pruning]]"
   - "[[Myelination]]"
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Neo-Piagetian Theories]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons:
-  - "[[John Hattie]]"
   - "[[Jean Piaget]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Bolton_2017_ArchPsych]]"
-sources: []
+sources:
+  - "[[Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

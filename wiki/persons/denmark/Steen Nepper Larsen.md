@@ -10,17 +10,26 @@ tags:
 - paradigm/critical
 - region/denmark
 related_concepts:
-  - "[[Incarnation-Extension Dialectics]]"
-  - "[[Bildung]]"
-  - "[[Blind Spot in Observation]]"
   - "[[Visible Learning]]"
-related_theories: []
+  - "[[Evidence-Based Education]]"
+  - "[[Neuroplasticity]]"
+  - "[[Bildung]]"
+  - "[[Effect Size]]"
+  - "[[Incarnation-Extension Dialectics]]"
+  - "[[Blind Spot in Observation]]"
+  - "[[Structural Coupling]]"
+related_theories:
+  - "[[Phenomenology]]"
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons:
+  - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
+  - "[[Immanuel Kant]]"
   - "[[Gert Biesta]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

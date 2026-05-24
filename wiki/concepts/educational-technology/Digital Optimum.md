@@ -18,9 +18,8 @@ tags:
 related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Professional Judgment]]"
-  - "[[Jing (Refined Mastery)]]"
-  - "[[Rightness]]"
   - "[[Digital Self]]"
+  - "[[Feedback]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Societies of Control]]"

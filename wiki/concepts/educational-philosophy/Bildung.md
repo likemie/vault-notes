@@ -9,9 +9,9 @@ tags:
   - paradigm/critical
   - stance/critique
 related_concepts:
-  - "[[Rightness]]"
   - "[[Epochal Key Problems]]"
   - "[[Visible Learning]]"
+  - "[[Effect Size]]"
   - "[[Learnification]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Atomisation of Knowledge and Skills]]"
@@ -21,17 +21,21 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
 related_theories:
-  - "[[Luhmann's Systems Theory]]"
   - "[[Phenomenology]]"
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons:
+  - "[[Immanuel Kant]]"
   - "[[Wolfgang Klafki]]"
   - "[[Dietrich Benner]]"
 related_facts:
   - "[[Danish Public School Reform 2014]]"
   - "[[Finnish National Core Curriculum 2014]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Larsen_2019_EducSci]]"
+  - "[[Sarbiewska_2019_JSR]]"
+  - "[[Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: 2026-05-04

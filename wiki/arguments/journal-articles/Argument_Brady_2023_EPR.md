@@ -12,9 +12,12 @@ tags:
 - causal-inference
 - recommendations-for-practice
 - evidence-based-education
-related_concepts: []
+related_concepts:
+  - "[[Recommendations for Practice]]"
+  - "[[Feedback]]"
 related_theories: []
 related_methods:
+  - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
@@ -22,7 +25,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Brady_2023_EPR]]"
 part_of: ''
 status: draft
 created: '2026-05-05'

@@ -14,12 +14,16 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Venture Philanthropy]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts:
   - "[[Partnership Schools Kura Hourua (NZ 2011)]]"
+  - "[[Cognition Education (NZ)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[ONeill_2016_Report]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

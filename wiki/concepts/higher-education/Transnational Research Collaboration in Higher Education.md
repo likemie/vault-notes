@@ -17,11 +17,16 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Transfer]]"
   - "[[Geopolitics of Knowledge]]"
-related_theories: []
+  - "[[Knowledge Production]]"
+  - "[[Champ]]"
+  - "[[International Education]]"
+related_theories:
+  - "[[Network Society]]"
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Australia in the Asian Century White Paper 2012]]"
+  - "[[GATS and Trade in Education Services]]"
 related_arguments: []
 sources: []
 confidence: medium

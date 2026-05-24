@@ -11,14 +11,28 @@ tags:
 - paradigm/critical
 - region/australia
 related_concepts:
+  - "[[Visible Learning]]"
+  - "[[School Leadership]]"
+  - "[[Effect Size]]"
+  - "[[Transformative Leadership]]"
   - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Feedback]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
 related_persons:
+  - "[[Scott Eacott]]"
+  - "[[John Hattie]]"
   - "[[Pierre Bourdieu]]"
-related_facts: []
+related_facts:
+  - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Eacott_2017_SLM]]"
+  - "[[Hattie_2017_SLM]]"
+  - "[[Eacott_2019_IJLE]]"
+  - "[[Johnson_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

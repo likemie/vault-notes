@@ -19,13 +19,12 @@ tags:
 related_concepts:
   - "[[Global Education Industry]]"
   - "[[Bildung]]"
-  - "[[Rightness]]"
   - "[[Didaktik]]"
   - "[[Feedback]]"
-  - "[[Knowledge Production]]"
   - "[[Gamification]]"
+  - "[[Knowledge Production]]"
+  - "[[Tongxue]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Jing (Refined Mastery)]]"
 related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"

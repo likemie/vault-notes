@@ -13,7 +13,6 @@ tags:
 - capability-approach
 related_concepts:
   - "[[Global Universities Rankings]]"
-  - "[[Rightness]]"
   - "[[Employability]]"
 related_theories:
   - "[[Capability Approach in Education]]"

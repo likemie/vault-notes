@@ -16,6 +16,7 @@ tags:
 - level/k12
 - level/higher-ed
 related_concepts:
+  - "[[Further Education]]"
   - "[[Network Governance]]"
   - "[[Performance Indicators]]"
   - "[[Theories of Policy Change]]"
@@ -27,6 +28,7 @@ related_facts:
   - "[[Europe 2020 Strategy]]"
   - "[[EU Skills Agenda]]"
   - "[[Innovation Union]]"
+  - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -17,10 +17,12 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Allerup_2015_Paideia]]"
 related_facts:
   - "[[PISA]]"
 confidence: low

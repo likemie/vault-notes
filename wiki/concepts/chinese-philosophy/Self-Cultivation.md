@@ -16,22 +16,23 @@ tags:
   - theme/learning
 related_concepts:
   - "[[Chinese Learner]]"
+  - "[[Champ]]"
   - "[[Action Better Than Words]]"
-  - "[[Rightness]]"
-  - "[[Shu (Familiarization)]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Ideal Learner]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
   - "[[Establishing One's Will (lizhi)]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Ren]]"
   - "[[Five Cardinal Relationships]]"
   - "[[Heart and Mind for Wanting to Learn]]"
-related_theories: []
+  - "[[Knowledge Production]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[Prototype Methods]]"
 related_persons:
+  - "[[Zhu Xi]]"
   - "[[Confucius]]"
   - "[[Mencius]]"
   - "[[Wang Yangming]]"

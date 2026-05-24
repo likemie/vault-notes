@@ -16,8 +16,8 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
-  - "[[Li (Propriety)]]"
-  - "[[Shu (Familiarization)]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Knowledge Production]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
@@ -25,6 +25,8 @@ related_persons:
   - "[[Frantz Fanon]]"
 related_arguments: []
 sources: []
+related_facts:
+  - "[[Kokutai no Hongi (1937)]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

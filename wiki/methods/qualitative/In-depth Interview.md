@@ -11,12 +11,18 @@ tags:
 - paradigm/interpretivist
 related_concepts: []
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Case Study]]"
+related_persons:
+  - "[[Max Weber]]"
+  - "[[Yajun Zheng]]"
 related_arguments:
   - "[[Argument_郑_2023_上海三联书店]]"
   - "[[Argument_Yu_2024_CE]]"
-sources: []
+sources:
+  - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

@@ -10,22 +10,31 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Doxa]]"
   - "[[Performativity of Measurement]]"
   - "[[Evidence-Based Education]]"
   - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[School Autonomy]]"
+  - "[[School Leadership]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[International Education]]"
   - "[[Competitiveness in Higher Education]]"
   - "[[Performance Indicators]]"
   - "[[Transitology]]"
-  - "[[School Autonomy]]"
+  - "[[Champ]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[Australia in the Asian Century White Paper 2012]]"
   - "[[OECD Improving School Leadership Project 2006]]"
   - "[[My School Website]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Eacott_2011_JEAH]]"
+  - "[[Keddie_2020_JEAH]]"
+  - "[[Keddie_2020_IJLE]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

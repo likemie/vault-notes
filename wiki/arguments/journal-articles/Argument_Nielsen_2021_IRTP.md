@@ -13,13 +13,21 @@ tags:
 - habermas
 - evidence-based-education
 - stance/critique
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[Didaktik]]"
+  - "[[Feedback]]"
+related_theories:
+  - "[[Technical Rationality]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Nielsen_2021_IRTP]]"
 part_of: ''
 status: draft
 created: '2026-05-03'

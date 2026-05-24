@@ -11,12 +11,19 @@ tags:
 - rct
 - oeri
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Reform]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Matching]]"
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Slavin_2002_ER]]"
+related_facts:
+  - "[[What Works Clearinghouse (WWC)]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

@@ -16,10 +16,12 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Dylan Wiliam]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Wiliam_2019_ERE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

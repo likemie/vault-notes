@@ -17,8 +17,10 @@ tags:
 related_concepts:
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Learning Virtues]]"
-  - "[[Shu (Familiarization)]]"
   - "[[Jing (Refined Mastery)]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Western Learner]]"
+  - "[[Ideal Learner]]"
 related_theories: []
 related_methods: []
 related_persons: []

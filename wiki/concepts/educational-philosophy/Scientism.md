@@ -10,17 +10,24 @@ tags:
 - paradigm/positivist
 - stance/critique
 related_concepts:
+  - "[[Champ]]"
   - "[[Cargo Cult Science]]"
   - "[[Evidence-Based Education]]"
+  - "[[Professional Judgment]]"
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Visible Learning]]"
+  - "[[Knowledge Production]]"
 related_theories:
   - "[[Technical Rationality]]"
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Johnson_2023_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-04'

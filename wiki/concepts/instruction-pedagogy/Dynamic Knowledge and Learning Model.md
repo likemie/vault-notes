@@ -13,6 +13,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Scientism]]"
+  - "[[Tongxue]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Cargo Cult Science]]"
@@ -20,6 +21,8 @@ related_theories:
   - "[[Popper's Three Worlds Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Intervention Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Lars Qvortrup]]"
@@ -27,7 +30,8 @@ related_persons:
   - "[[Jean Piaget]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Qvortrup_2015_Paideia]]"
 confidence: low
 status: draft
 created: '2026-05-05'

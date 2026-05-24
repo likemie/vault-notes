@@ -11,12 +11,12 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Otherhood]]"
-  - "[[Rightness]]"
   - "[[Cultural Models]]"
+  - "[[University Social Responsibility]]"
+  - "[[Scientization of Politics]]"
+  - "[[Otherhood]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Scientization of Politics]]"
   - "[[Epistemic Drift]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -25,6 +25,7 @@ related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals 2015]]"
   - "[[THE Impact Ranking 2019]]"
+  - "[[Comprehensive School Reform (CSR) Program]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
 sources: []

@@ -12,13 +12,21 @@ tags:
 - meta-analysis
 - stance/critique
 - region/new-zealand
-related_concepts: []
+related_concepts:
+  - "[[Critic and Conscience of Society]]"
+  - "[[Effect Size]]"
+  - "[[Class Size]]"
+  - "[[Humility in Learning]]"
+  - "[[Surface and Deep Learning]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Snook_2010_NZJES]]"
 part_of: ''
 status: draft
 created: '2026-05-06'

@@ -14,11 +14,11 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Credential Inflation]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Social Engagement]]"
   - "[[Employability]]"
   - "[[Cultural Capital]]"
   - "[[Goal-Controlled Mode]]"
+  - "[[Knowledge-Based Economy]]"
 related_theories: []
 related_methods: []
 related_persons:

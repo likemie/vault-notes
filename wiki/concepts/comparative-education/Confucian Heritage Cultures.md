@@ -14,14 +14,16 @@ tags:
 - theme/cross-cultural-learning
 - theory/confucianism
 related_concepts:
-  - "[[Paradox of the Chinese Learner]]"
-  - "[[Rightness]]"
   - "[[Chinese Learner]]"
-related_theories: []
+  - "[[Paradox of the Chinese Learner]]"
+  - "[[Cultural Models]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[John Biggs]]"
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources: []

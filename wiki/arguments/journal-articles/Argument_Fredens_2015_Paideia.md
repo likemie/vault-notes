@@ -14,14 +14,21 @@ tags:
 - level/k12
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
   - "[[Feedback]]"
+  - "[[Working Memory]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Matching]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Fredens_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-05'

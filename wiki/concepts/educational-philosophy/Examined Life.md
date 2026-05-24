@@ -14,18 +14,18 @@ tags:
 - theme/critical-thinking
 - theme/learning
 related_concepts:
-  - "[[Rightness]]"
-  - "[[Jing (Refined Mastery)]]"
   - "[[Sage]]"
   - "[[Ideal Learner]]"
   - "[[University Motto]]"
   - "[[Self-Cultivation]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
+  - "[[Effective Teaching]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Socrates]]"
+  - "[[Plato]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts: []
 related_arguments:
