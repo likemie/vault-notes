@@ -86,7 +86,7 @@ updated: '2026-05-22'
 
 ## 来源
 
-- ONeill_2016_Report
-- Sarbiewska_2019_JSR
-- Johnson_2023_CE
+- [[ONeill_2016_Report]]
+- [[Sarbiewska_2019_JSR]]
+- [[Johnson_2023_CE]]
 - Bates_2017_CognitionEducationTrust

@@ -100,4 +100,4 @@ Yan & Morris (2025) 运用 [[Cuban's Curriculum Change Theory]] 分析 [[Liberal
 
 ## 来源
 
-- Yan_2025_JCS
+- [[Yan_2025_JCS]]

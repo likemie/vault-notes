@@ -69,4 +69,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Snook_2009_NZJES
+- [[Snook_2009_NZJES]]

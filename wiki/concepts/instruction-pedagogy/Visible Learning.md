@@ -405,41 +405,41 @@ VL 品牌对学术批评表现出显著的免疫力——Hattie（2017）对 Eac
 
 ### 核心来源
 
-- Hattie_2010_NZJES
-- Hattie_2015_Paideia
-- Hattie_2015_SOTLP
-- Hattie_2017_SLM
-- Fredens_2015_Paideia
-- Laursen_2015_Paideia
-- Qvortrup_2015_Paideia
-- Sarbiewska_2019_JSR
-- Blass_2020_JESP
-- Bainbridge_2022_ROE
+- [[Hattie_2010_NZJES]]
+- [[Hattie_2015_Paideia]]
+- [[Hattie_2015_SOTLP]]
+- [[Hattie_2017_SLM]]
+- [[Fredens_2015_Paideia]]
+- [[Laursen_2015_Paideia]]
+- [[Qvortrup_2015_Paideia]]
+- [[Sarbiewska_2019_JSR]]
+- [[Blass_2020_JESP]]
+- [[Bainbridge_2022_ROE]]
 
 ### 历史与传播来源
 
-- ONeill_2012_NZJES
-- ONeill_2016_Report
-- Knudsen_2017_NordSTEP
-- Zhao_2017_JEC
+- [[ONeill_2012_NZJES]]
+- [[ONeill_2016_Report]]
+- [[Knudsen_2017_NordSTEP]]
+- [[Zhao_2017_JEC]]
 
 ### 争议导引来源
 
-- Snook_2009_NZJES
-- Grace_2010_NZJES
-- Snook_2010_NZJES
-- Terhart_2011_JCS
-- Allerup_2015_Paideia
-- Wecker_2016_ZfE
-- Bergeron_2017_MJE
-- Eacott_2017_SLM
-- Romer_2018_EPT
-- Eacott_2019_IJLE
-- Golovchin_2019_ESC
-- Larsen_2019_EducSci
-- Qvortrup_2019_NordSTEP
-- McKnight_2020_Discourse
-- OConnor_2020_AJLL
-- Nielsen_2021_IRTP
-- Nielsen_2021_NordPsych
-- Johnson_2023_CE
+- [[Snook_2009_NZJES]]
+- [[Grace_2010_NZJES]]
+- [[Snook_2010_NZJES]]
+- [[Terhart_2011_JCS]]
+- [[Allerup_2015_Paideia]]
+- [[Wecker_2016_ZfE]]
+- [[Bergeron_2017_MJE]]
+- [[Eacott_2017_SLM]]
+- [[Romer_2018_EPT]]
+- [[Eacott_2019_IJLE]]
+- [[Golovchin_2019_ESC]]
+- [[Larsen_2019_EducSci]]
+- [[Qvortrup_2019_NordSTEP]]
+- [[McKnight_2020_Discourse]]
+- [[OConnor_2020_AJLL]]
+- [[Nielsen_2021_IRTP]]
+- [[Nielsen_2021_NordPsych]]
+- [[Johnson_2023_CE]]

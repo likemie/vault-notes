@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/facts/uk/Hargreaves 1996 TTA Lecture.md",
+                "file": "wiki/concepts/educational-philosophy/Bildung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hargreaves 1996 TTA Lecture"
+              "title": "Bildung"
             }
           }
         ]
@@ -189,6 +189,11 @@
   },
   "active": "1ae9539e2ff14392",
   "lastOpenFiles": [
+    "wiki/facts/uk/Selective Schools Expansion Fund 2018.md",
+    "wiki/facts/uk/What Works Network (UK).md",
+    "wiki/facts/uk/Playing for Success.md",
+    "wiki/facts/uk/Eleven-plus Exam.md",
+    "wiki/facts/uk/Hargreaves 1996 TTA Lecture.md",
     "wiki/facts/uk/EPPI-Centre.md",
     "wiki/facts/uk/Education and Inspections Act 2006.md",
     "wiki/facts/sweden/Swedish Institute for Educational Research.md",
@@ -210,11 +215,6 @@
     "wiki/concepts/comparative-education/Chinese Learner.md",
     "wiki/methods/quantitative/Observational and Correlational Research.md",
     "wiki/concepts/comparative-education/Listening-Oriented Learning.md",
-    "wiki/concepts/comparative-education/MCC Discourse Analysis Examples.md",
-    "wiki/concepts/comparative-education/Ideal Learner.md",
-    "wiki/concepts/comparative-education/Heart and Mind for Wanting to Learn.md",
-    "wiki/concepts/comparative-education/Global Education Industry.md",
-    "wiki/concepts/comparative-education/Establishing Ones Will (lizhi).md",
     "scripts/__pycache__/wiki_linker.cpython-312.pyc",
     "scripts/__pycache__/wiki_relations.cpython-312.pyc",
     "scripts/__pycache__",

@@ -88,7 +88,7 @@ updated: '2026-05-23'
 
 ## 来源
 
-- Allerup_2015_Paideia
-- Terhart_2011_JCS
-- Wadhwa_2024_RER
+- [[Allerup_2015_Paideia]]
+- [[Terhart_2011_JCS]]
+- [[Wadhwa_2024_RER]]
 - Ross_Morrison_2021_ROE

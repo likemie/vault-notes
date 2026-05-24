@@ -158,4 +158,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Simpson_2017_JEP
+- [[Simpson_2017_JEP]]

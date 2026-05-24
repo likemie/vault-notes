@@ -90,4 +90,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Grace_2010_NZJES
+- [[Grace_2010_NZJES]]

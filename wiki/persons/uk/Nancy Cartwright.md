@@ -70,4 +70,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Cowen_2015_CHESS
+- [[Cowen_2015_CHESS]]

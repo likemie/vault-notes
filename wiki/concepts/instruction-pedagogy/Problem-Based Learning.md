@@ -128,6 +128,6 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Hattie_2015_SOTLP
-- Blass_2020_JESP
-- Schaffar_2024_CogentEdu
+- [[Hattie_2015_SOTLP]]
+- [[Blass_2020_JESP]]
+- [[Schaffar_2024_CogentEdu]]

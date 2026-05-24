@@ -371,22 +371,22 @@ updated: '2026-05-18'
 ## 来源
 
 品牌起源与商业化：
-- ONeill_2016_Report — VL 品牌化的最全面研究，覆盖商标、财务、治理和利益冲突
-- Johnson_2023_CE — 四角度批判，新自由主[[Rightness|义]]商业化与利益冲突分析
+- [[ONeill_2016_Report]] — VL 品牌化的最全面研究，覆盖商标、财务、治理和利益冲突
+- [[Johnson_2023_CE]] — 四角度批判，新自由主[[Rightness|义]]商业化与利益冲突分析
 
 各国政策采纳：
-- Sarbiewska_2019_JSR — 新西兰和澳大利亚两国政策采纳比较
-- Laursen_2015_Paideia — VL 等国际[[Effective Teaching|有效教学]]综合在丹麦的适用性检验
-- Qvortrup_2019_NordSTEP — 为 VL 在丹麦的应用辩护，提出解释社群分析
-- Golovchin_2019_ESC — 建议俄罗斯教育政策不应采用 VL
+- [[Sarbiewska_2019_JSR]] — 新西兰和澳大利亚两国政策采纳比较
+- [[Laursen_2015_Paideia]] — VL 等国际[[Effective Teaching|有效教学]]综合在丹麦的适用性检验
+- [[Qvortrup_2019_NordSTEP]] — 为 VL 在丹麦的应用辩护，提出解释社群分析
+- [[Golovchin_2019_ESC]] — 建议俄罗斯教育政策不应采用 VL
 
 传播网络与品牌化：
-- Eacott_2017_SLM — VL 品牌衍生、ACEL 网络和[[Cult of the Guru|大师崇拜]]批判
-- Eacott_2019_IJLE — 学术出版对批评的免疫，VL 的霸权性存在
-- Terhart_2011_JCS — 早期记录 VL 在新西兰的争议与政策语境
-- Hattie_2015_SOTLP — 将 VL 综合方法应用于高等教育，提出 DIE 模型和八项思维框架
-- McKnight_2020_Discourse — VL 作为话语现象的全球传播分析
+- [[Eacott_2017_SLM]] — VL 品牌衍生、ACEL 网络和[[Cult of the Guru|大师崇拜]]批判
+- [[Eacott_2019_IJLE]] — 学术出版对批评的免疫，VL 的霸权性存在
+- [[Terhart_2011_JCS]] — 早期记录 VL 在新西兰的争议与政策语境
+- [[Hattie_2015_SOTLP]] — 将 VL 综合方法应用于高等教育，提出 DIE 模型和八项思维框架
+- [[McKnight_2020_Discourse]] — VL 作为话语现象的全球传播分析
 
 政策误用与批评：
-- ONeill_2012_NZJES — 新西兰 Treasury 政策误用与术语口号化的经典案例
-- Blass_2020_JESP — 澳大利亚国家层面批评，VL 作为"不改变的好借口"
+- [[ONeill_2012_NZJES]] — 新西兰 Treasury 政策误用与术语口号化的经典案例
+- [[Blass_2020_JESP]] — 澳大利亚国家层面批评，VL 作为"不改变的好借口"

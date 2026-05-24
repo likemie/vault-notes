@@ -68,5 +68,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Qvortrup_2019_NordSTEP
-- Larsen_2019_EducSci
+- [[Qvortrup_2019_NordSTEP]]
+- [[Larsen_2019_EducSci]]

@@ -57,4 +57,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Lekhal_2015_Paideia
+- [[Lekhal_2015_Paideia]]

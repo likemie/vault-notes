@@ -80,5 +80,5 @@ updated: "2026-05-22"
 
 ## 来源
 
-- Laursen_2015_Paideia
+- [[Laursen_2015_Paideia]]
 - Håkansson_2015_TT

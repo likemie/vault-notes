@@ -73,4 +73,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Golovchin_2019_ESC
+- [[Golovchin_2019_ESC]]

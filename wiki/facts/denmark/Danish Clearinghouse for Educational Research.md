@@ -71,4 +71,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- Pellegrini_2021_ROE
+- [[Pellegrini_2021_ROE]]

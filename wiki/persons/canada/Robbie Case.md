@@ -61,4 +61,4 @@ Case (1985) 使用**平衡木测试（Balancing Beam Test）** [[Observational a
 
 ## 来源
 
-- Bolton_2017_ArchPsych
+- [[Bolton_2017_ArchPsych]]

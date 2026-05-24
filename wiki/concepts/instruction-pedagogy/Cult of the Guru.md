@@ -130,7 +130,7 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Eacott_2017_SLM
-- Hattie_2017_SLM
-- Eacott_2019_IJLE
-- Johnson_2023_CE
+- [[Eacott_2017_SLM]]
+- [[Hattie_2017_SLM]]
+- [[Eacott_2019_IJLE]]
+- [[Johnson_2023_CE]]

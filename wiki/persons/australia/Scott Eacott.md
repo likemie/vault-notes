@@ -85,7 +85,7 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Eacott_2011_JEAH
-- Eacott_2015_EPT
-- Eacott_2019_IJLE
-- Hattie_2017_SLM
+- [[Eacott_2011_JEAH]]
+- [[Eacott_2015_EPT]]
+- [[Eacott_2019_IJLE]]
+- [[Hattie_2017_SLM]]

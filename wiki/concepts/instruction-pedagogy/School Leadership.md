@@ -194,5 +194,5 @@ Smyth（2011）提出的三个政治激进主义命题被 Keddie et al.（2020, 
 ## 来源
 
 - Møller_2017_EERJ
-- Keddie_2020_JEAH
-- Keddie_2020_IJLE
+- [[Keddie_2020_JEAH]]
+- [[Keddie_2020_IJLE]]

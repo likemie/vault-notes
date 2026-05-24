@@ -66,5 +66,5 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Allerup_2015_Paideia
-- Terhart_2011_JCS
+- [[Allerup_2015_Paideia]]
+- [[Terhart_2011_JCS]]

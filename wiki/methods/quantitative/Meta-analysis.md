@@ -230,13 +230,13 @@ Pawson (2006) 提出**实在论综合（Realist Synthesis）**作为替代：研
 
 ## 来源
 
-- Simpson_2017_JEP
-- Terhart_2011_JCS
-- Berk_2011_ER
-- Hattie_2015_Paideia
-- Allerup_2015_Paideia
-- Wecker_2016_ZfE
-- Qvortrup_2019_NordSTEP
-- Wiliam_2019_ERE
-- Wrigley_2019_ERE
-- OConnor_2020_AJLL
+- [[Simpson_2017_JEP]]
+- [[Terhart_2011_JCS]]
+- [[Berk_2011_ER]]
+- [[Hattie_2015_Paideia]]
+- [[Allerup_2015_Paideia]]
+- [[Wecker_2016_ZfE]]
+- [[Qvortrup_2019_NordSTEP]]
+- [[Wiliam_2019_ERE]]
+- [[Wrigley_2019_ERE]]
+- [[OConnor_2020_AJLL]]

@@ -81,4 +81,4 @@ updated: '2026-05-20'
 
 ## 来源
 
-- Hansen_2015_Paideia
+- [[Hansen_2015_Paideia]]

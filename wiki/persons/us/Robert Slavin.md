@@ -96,5 +96,5 @@ Slavin 的立场代表 EBE 运动**最强版本**（evidence-based, not evidence
 
 ## 来源
 
-- Slavin_2002_ER
-- Slavin_2019_EP
+- [[Slavin_2002_ER]]
+- [[Slavin_2019_EP]]

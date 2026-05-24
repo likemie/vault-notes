@@ -70,4 +70,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Marginson_2025_ROE
+- [[Marginson_2025_ROE]]

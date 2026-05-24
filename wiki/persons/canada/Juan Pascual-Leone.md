@@ -51,4 +51,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Bolton_2017_ArchPsych
+- [[Bolton_2017_ArchPsych]]

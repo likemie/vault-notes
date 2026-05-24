@@ -84,4 +84,4 @@ updated: 2026-05-23
 ## 来源
 
 - Ross_Morrison_2021_ROE
-- Wadhwa_2024_RER
+- [[Wadhwa_2024_RER]]

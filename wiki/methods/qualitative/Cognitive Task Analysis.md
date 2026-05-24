@@ -52,4 +52,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Fredens_2015_Paideia
+- [[Fredens_2015_Paideia]]

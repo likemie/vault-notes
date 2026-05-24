@@ -135,4 +135,4 @@ Laursen 的结论是，Hattie、Meyer 和 Helmke 关于有效教学的综合"总
 
 ## 来源
 
-- Laursen_2015_Paideia
+- [[Laursen_2015_Paideia]]

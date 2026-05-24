@@ -97,4 +97,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Sarbiewska_2019_JSR
+- [[Sarbiewska_2019_JSR]]

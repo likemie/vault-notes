@@ -71,4 +71,4 @@ PFC 在学习序列或任务开始时被激活（通过功能神经影像学[[Ob
 
 ## 来源
 
-- Bolton_2017_ArchPsych
+- [[Bolton_2017_ArchPsych]]

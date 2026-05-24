@@ -285,12 +285,12 @@ updated: '2026-05-21'
 
 ## 来源
 
-- Snook_2009_NZJES
-- Terhart_2011_JCS
-- Hattie_2015_Paideia
-- Allerup_2015_Paideia
-- Wecker_2016_ZfE
-- Simpson_2017_JEP
-- Simpson_2019_ERE
-- OConnor_2020_AJLL
-- Johnson_2023_CE
+- [[Snook_2009_NZJES]]
+- [[Terhart_2011_JCS]]
+- [[Hattie_2015_Paideia]]
+- [[Allerup_2015_Paideia]]
+- [[Wecker_2016_ZfE]]
+- [[Simpson_2017_JEP]]
+- [[Simpson_2019_ERE]]
+- [[OConnor_2020_AJLL]]
+- [[Johnson_2023_CE]]

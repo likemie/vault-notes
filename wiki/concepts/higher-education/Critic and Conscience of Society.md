@@ -62,5 +62,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Grace_2010_NZJES
-- Hattie_2017_SLM
+- [[Grace_2010_NZJES]]
+- [[Hattie_2017_SLM]]

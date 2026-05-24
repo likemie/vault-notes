@@ -57,5 +57,5 @@ Hattie 进一步指出学校改进需要"关爱、支持的教师休息室、容
 
 ## 来源
 
-- Snook_2009_NZJES
-- Hattie_2010_NZJES
+- [[Snook_2009_NZJES]]
+- [[Hattie_2010_NZJES]]

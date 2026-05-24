@@ -73,5 +73,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- OConnor_2020_AJLL
-- Sarbiewska_2019_JSR
+- [[OConnor_2020_AJLL]]
+- [[Sarbiewska_2019_JSR]]

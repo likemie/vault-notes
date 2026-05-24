@@ -77,4 +77,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Slavin_2021_ROE
+- [[Slavin_2021_ROE]]

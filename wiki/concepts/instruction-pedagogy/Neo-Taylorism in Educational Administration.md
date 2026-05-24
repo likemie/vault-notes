@@ -118,7 +118,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 
 ## 来源
 
-- Eacott_2017_SLM
-- Hattie_2017_SLM
-- Eacott_2019_IJLE
-- Johnson_2023_CE
+- [[Eacott_2017_SLM]]
+- [[Hattie_2017_SLM]]
+- [[Eacott_2019_IJLE]]
+- [[Johnson_2023_CE]]

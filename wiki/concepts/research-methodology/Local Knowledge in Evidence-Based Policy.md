@@ -131,6 +131,6 @@ updated: '2026-05-23'
 
 ## 来源
 
-- Cowen_2015_CHESS
-- Wiliam_2019_ERE
+- [[Cowen_2015_CHESS]]
+- [[Wiliam_2019_ERE]]
 - Ross_Morrison_2021_ROE

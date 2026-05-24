@@ -64,5 +64,5 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Qvortrup_2015_Paideia
-- Bolton_2017_ArchPsych
+- [[Qvortrup_2015_Paideia]]
+- [[Bolton_2017_ArchPsych]]

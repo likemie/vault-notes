@@ -184,7 +184,7 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Gorur_2014_Discourse
+- [[Gorur_2014_Discourse]]
 - Møller_2017_EERJ
-- McKnight_2020_Discourse
-- Johnson_2023_CE
+- [[McKnight_2020_Discourse]]
+- [[Johnson_2023_CE]]

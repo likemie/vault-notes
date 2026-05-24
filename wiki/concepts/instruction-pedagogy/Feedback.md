@@ -121,11 +121,11 @@ updated: 2026-05-22
 
 ## 来源
 
-- Hattie_2015_Paideia
-- Hattie_2015_SOTLP
-- Fredens_2015_Paideia
-- Nielsen_2021_NordPsych
-- Laursen_2015_Paideia
-- Lekhal_2015_Paideia
+- [[Hattie_2015_Paideia]]
+- [[Hattie_2015_SOTLP]]
+- [[Fredens_2015_Paideia]]
+- [[Nielsen_2021_NordPsych]]
+- [[Laursen_2015_Paideia]]
+- [[Lekhal_2015_Paideia]]
 - Ch14_Jornitz_2022
 - Håkansson_2015_TT

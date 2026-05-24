@@ -146,7 +146,7 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Simpson_2017_JEP
-- Simpson_2019_ERE
-- Wrigley_2019_ERE
-- Wiliam_2019_ERE
+- [[Simpson_2017_JEP]]
+- [[Simpson_2019_ERE]]
+- [[Wrigley_2019_ERE]]
+- [[Wiliam_2019_ERE]]

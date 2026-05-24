@@ -109,5 +109,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- OConnor_2020_AJLL
-- Snook_2009_NZJES
+- [[OConnor_2020_AJLL]]
+- [[Snook_2009_NZJES]]

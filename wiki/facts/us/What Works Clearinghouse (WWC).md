@@ -121,7 +121,7 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Wiliam_2019_ERE
-- Wolf_2020_JREE
-- Hitchcock_2015_JBE
-- Wadhwa_2024_RER
+- [[Wiliam_2019_ERE]]
+- [[Wolf_2020_JREE]]
+- [[Hitchcock_2015_JBE]]
+- [[Wadhwa_2024_RER]]

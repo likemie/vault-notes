@@ -61,4 +61,4 @@ fMRI 测量特定脑区血液成分的存在，基于以下原理：活跃的脑
 
 ## 来源
 
-- Bolton_2017_ArchPsych
+- [[Bolton_2017_ArchPsych]]

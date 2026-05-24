@@ -89,7 +89,7 @@ updated: "2026-05-22"
 
 ## 来源
 
-- Zhao_2017_JEC
-- Hattie_2015_SOTLP
-- Fredens_2015_Paideia
+- [[Zhao_2017_JEC]]
+- [[Hattie_2015_SOTLP]]
+- [[Fredens_2015_Paideia]]
 - Håkansson_2015_TT

@@ -60,4 +60,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Slavin_2002_ER
+- [[Slavin_2002_ER]]

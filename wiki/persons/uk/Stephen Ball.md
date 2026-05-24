@@ -63,5 +63,5 @@ Ball（2008）将英国教育社会学史重写为若干问题、位置和研究
 
 ## 来源
 
-- ONeill_2016_Report
-- Ball_2008_SR
+- [[ONeill_2016_Report]]
+- [[Ball_2008_SR]]

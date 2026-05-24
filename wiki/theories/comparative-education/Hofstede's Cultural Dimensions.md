@@ -74,4 +74,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Laursen_2015_Paideia
+- [[Laursen_2015_Paideia]]

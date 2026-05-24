@@ -91,6 +91,6 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 
 ## 来源
 
-- Slavin_2019_EP
-- Wolf_2020_JREE
+- [[Slavin_2019_EP]]
+- [[Wolf_2020_JREE]]
 - Ross_Morrison_2021_ROE

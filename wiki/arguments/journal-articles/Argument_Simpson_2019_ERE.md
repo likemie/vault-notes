@@ -125,4 +125,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Simpson_2019_ERE
+- [[Simpson_2019_ERE]]

@@ -88,4 +88,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Terhart_2011_JCS
+- [[Terhart_2011_JCS]]

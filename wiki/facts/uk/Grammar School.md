@@ -81,4 +81,4 @@ Bainbridge et al.（2022）的核心发现之一是：政策制定者将 [[Ofste
 
 ## 来源
 
-- Bainbridge_2022_ROE
+- [[Bainbridge_2022_ROE]]

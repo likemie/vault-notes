@@ -79,4 +79,4 @@ Bainbridge et al.（2022）通过"[[Carnivalesque Analysis|嘉年华式分析]]"
 
 ## 来源
 
-- Bainbridge_2022_ROE
+- [[Bainbridge_2022_ROE]]

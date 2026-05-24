@@ -51,4 +51,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Laursen_2015_Paideia
+- [[Laursen_2015_Paideia]]

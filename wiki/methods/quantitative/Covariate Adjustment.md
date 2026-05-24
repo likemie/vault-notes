@@ -68,5 +68,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Allerup_2015_Paideia
-- Berk_2011_ER
+- [[Allerup_2015_Paideia]]
+- [[Berk_2011_ER]]

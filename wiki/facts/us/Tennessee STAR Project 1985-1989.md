@@ -97,5 +97,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Wiliam_2019_ERE
-- Snook_2009_NZJES
+- [[Wiliam_2019_ERE]]
+- [[Snook_2009_NZJES]]

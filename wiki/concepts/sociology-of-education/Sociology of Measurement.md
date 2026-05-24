@@ -84,4 +84,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Gorur_2014_Discourse
+- [[Gorur_2014_Discourse]]

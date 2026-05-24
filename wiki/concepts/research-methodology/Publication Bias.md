@@ -108,6 +108,6 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Wolf_2020_JREE
-- Wecker_2016_ZfE
-- Kraft_2023_ER
+- [[Wolf_2020_JREE]]
+- [[Wecker_2016_ZfE]]
+- [[Kraft_2023_ER]]

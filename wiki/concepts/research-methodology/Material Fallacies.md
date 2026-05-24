@@ -66,4 +66,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- ONeill_2012_NZJES
+- [[ONeill_2012_NZJES]]

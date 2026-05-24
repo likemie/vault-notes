@@ -84,5 +84,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Keddie_2020_IJLE
-- Sarbiewska_2019_JSR
+- [[Keddie_2020_IJLE]]
+- [[Sarbiewska_2019_JSR]]

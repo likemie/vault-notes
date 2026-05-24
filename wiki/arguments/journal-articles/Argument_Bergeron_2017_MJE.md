@@ -144,4 +144,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Bergeron_2017_MJE
+- [[Bergeron_2017_MJE]]

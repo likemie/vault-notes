@@ -290,13 +290,13 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Berk_2011_ER
-- Pampaka_2016_IJRME
-- Peterson_2016_IJRME
+- [[Berk_2011_ER]]
+- [[Pampaka_2016_IJRME]]
+- [[Peterson_2016_IJRME]]
 - Møller_2017_EERJ
-- Zhao_2017_JEC
-- Wiliam_2019_ERE
-- Wrigley_2019_ERE
-- Kraft_2023_ER
-- Brady_2023_EPR
-- Wadhwa_2024_RER
+- [[Zhao_2017_JEC]]
+- [[Wiliam_2019_ERE]]
+- [[Wrigley_2019_ERE]]
+- [[Kraft_2023_ER]]
+- [[Brady_2023_EPR]]
+- [[Wadhwa_2024_RER]]

@@ -95,5 +95,5 @@ updated: 2026-05-18
 
 ## 来源
 
-- Brady_2023_EPR
-- Lekhal_2015_Paideia
+- [[Brady_2023_EPR]]
+- [[Lekhal_2015_Paideia]]

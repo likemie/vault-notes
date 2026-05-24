@@ -81,5 +81,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Allerup_2015_Paideia
-- Wecker_2016_ZfE
+- [[Allerup_2015_Paideia]]
+- [[Wecker_2016_ZfE]]

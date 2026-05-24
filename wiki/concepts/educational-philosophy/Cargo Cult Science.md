@@ -59,7 +59,7 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Johnson_2023_CE
+- [[Johnson_2023_CE]]
 
 ## 交叉阅读
 

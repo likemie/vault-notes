@@ -153,4 +153,4 @@ Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘
 
 - Ch13_Thompson_2022
 - Ch15_Zelinka_2022
-- Ball_2008_SR
+- [[Ball_2008_SR]]

@@ -90,5 +90,5 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Qvortrup_2015_Paideia
-- Qvortrup_2019_NordSTEP
+- [[Qvortrup_2015_Paideia]]
+- [[Qvortrup_2019_NordSTEP]]

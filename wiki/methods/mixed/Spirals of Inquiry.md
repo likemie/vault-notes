@@ -62,4 +62,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Peterson_2016_IJRME
+- [[Peterson_2016_IJRME]]

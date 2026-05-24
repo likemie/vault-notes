@@ -77,4 +77,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Hattie_2015_SOTLP
+- [[Hattie_2015_SOTLP]]

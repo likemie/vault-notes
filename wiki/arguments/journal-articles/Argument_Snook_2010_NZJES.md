@@ -94,4 +94,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Snook_2010_NZJES
+- [[Snook_2010_NZJES]]

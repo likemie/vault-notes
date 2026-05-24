@@ -142,4 +142,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Wrigley_2019_ERE
+- [[Wrigley_2019_ERE]]

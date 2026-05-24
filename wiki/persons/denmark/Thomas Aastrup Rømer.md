@@ -92,6 +92,6 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Romer_2018_EPT
-- Qvortrup_2019_NordSTEP
-- Hattie_2015_SOTLP
+- [[Romer_2018_EPT]]
+- [[Qvortrup_2019_NordSTEP]]
+- [[Hattie_2015_SOTLP]]

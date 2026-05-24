@@ -108,6 +108,6 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Wrigley_2018_BERJ
-- Wrigley_2019_ERE
-- Bainbridge_2022_ROE
+- [[Wrigley_2018_BERJ]]
+- [[Wrigley_2019_ERE]]
+- [[Bainbridge_2022_ROE]]

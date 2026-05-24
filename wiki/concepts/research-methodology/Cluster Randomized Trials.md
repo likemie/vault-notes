@@ -66,5 +66,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Pampaka_2016_IJRME
-- Berk_2011_ER
+- [[Pampaka_2016_IJRME]]
+- [[Berk_2011_ER]]

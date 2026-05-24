@@ -200,7 +200,7 @@ updated: '2026-05-24'
 
 ## 来源
 
-- Hitchcock_2015_JBE
+- [[Hitchcock_2015_JBE]]
 - Ross_Morrison_2021_ROE
-- Wadhwa_2024_RER
-- Pellegrini_2021_ROE
+- [[Wadhwa_2024_RER]]
+- [[Pellegrini_2021_ROE]]

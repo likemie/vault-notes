@@ -79,5 +79,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Larsen_2019_EducSci
-- Bolton_2017_ArchPsych
+- [[Larsen_2019_EducSci]]
+- [[Bolton_2017_ArchPsych]]

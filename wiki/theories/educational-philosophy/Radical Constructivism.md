@@ -94,5 +94,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Romer_2018_EPT
-- Sarbiewska_2019_JSR
+- [[Romer_2018_EPT]]
+- [[Sarbiewska_2019_JSR]]

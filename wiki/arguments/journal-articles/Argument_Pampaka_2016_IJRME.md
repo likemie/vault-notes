@@ -78,4 +78,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Pampaka_2016_IJRME
+- [[Pampaka_2016_IJRME]]

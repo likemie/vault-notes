@@ -84,5 +84,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Biesta_2010_SPE
-- Schaffar_2024_CogentEdu
+- [[Biesta_2010_SPE]]
+- [[Schaffar_2024_CogentEdu]]

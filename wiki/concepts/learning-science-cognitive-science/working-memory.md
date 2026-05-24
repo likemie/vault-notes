@@ -64,5 +64,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Bolton_2017_ArchPsych
-- Fredens_2015_Paideia
+- [[Bolton_2017_ArchPsych]]
+- [[Fredens_2015_Paideia]]

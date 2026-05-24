@@ -146,5 +146,5 @@ Hitchcock et al. (2015, p.462) 援引 Shadish et al. (2002) 的论证：内部�
 
 ## 来源
 
-- Hitchcock_2015_JBE
-- Wadhwa_2024_RER
+- [[Hitchcock_2015_JBE]]
+- [[Wadhwa_2024_RER]]

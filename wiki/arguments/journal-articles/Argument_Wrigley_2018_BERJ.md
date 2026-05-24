@@ -186,4 +186,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Wrigley_2018_BERJ
+- [[Wrigley_2018_BERJ]]

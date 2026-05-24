@@ -52,4 +52,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Romer_2018_EPT
+- [[Romer_2018_EPT]]

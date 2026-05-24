@@ -99,4 +99,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Nielsen_2021_NordPsych
+- [[Nielsen_2021_NordPsych]]

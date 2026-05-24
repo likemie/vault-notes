@@ -122,5 +122,5 @@ updated: '2026-05-21'
 
 ## 来源
 
-- Marginson_2025_ROE
-- Yu_2024_CE
+- [[Marginson_2025_ROE]]
+- [[Yu_2024_CE]]

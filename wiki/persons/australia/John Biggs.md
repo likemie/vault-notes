@@ -66,6 +66,6 @@ updated: '2026-05-23'
 
 ## 来源
 
-- Hattie_2015_SOTLP
-- Qvortrup_2015_Paideia
-- Romer_2018_EPT
+- [[Hattie_2015_SOTLP]]
+- [[Qvortrup_2015_Paideia]]
+- [[Romer_2018_EPT]]

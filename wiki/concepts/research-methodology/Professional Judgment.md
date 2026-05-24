@@ -77,5 +77,5 @@ updated: '2026-05-23'
 
 ## 来源
 
-- Qvortrup_2019_NordSTEP
+- [[Qvortrup_2019_NordSTEP]]
 - Ross_Morrison_2021_ROE

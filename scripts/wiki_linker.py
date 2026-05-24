@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import subprocess
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
@@ -125,6 +126,10 @@ def make_terms(entries: list[Entry]) -> tuple[list[Term], dict[str, Entry], dict
             text = text.strip()
             if not text:
                 continue
+            # Single-character CJK aliases are too ambiguous for auto-linking:
+            # e.g. 言 matches inside 语言/发言/言论, 化 matches inside 文化/变化/自动化.
+            if len(text) == 1 and is_cjk(text):
+                continue
             key = (text, e.title)
             if key in seen:
                 continue
@@ -134,6 +139,130 @@ def make_terms(entries: list[Entry]) -> tuple[list[Term], dict[str, Entry], dict
     # Longest first prevents linking "Culture" inside "World Culture Theory".
     terms.sort(key=lambda t: len(t.text), reverse=True)
     return terms, entries_by_title, path_to_title
+
+
+def entry_terms(entry: Entry) -> set[str]:
+    return {t.text for t in make_terms([entry])[0]}
+
+
+def parse_entry_from_text(rel_path: str, text: str) -> Entry | None:
+    path = ROOT / rel_path
+    if rel_path.startswith("sources/") and path.suffix.lower() == ".md":
+        return Entry(title=path.stem, path=rel_path, aliases=())
+
+    fm, _ = split_frontmatter(text)
+    if not fm:
+        return None
+
+    title = ""
+    aliases: list[str] = []
+    lines = fm.splitlines()
+    i = 1
+    while i < len(lines):
+        line = lines[i]
+        if line == "---":
+            break
+        stripped = line.strip()
+        if stripped.startswith("title:"):
+            title = stripped.split(":", 1)[1].strip().strip("'\"")
+        elif stripped.startswith("aliases:"):
+            value = stripped.split(":", 1)[1].strip()
+            if value.startswith("[") and value.endswith("]"):
+                aliases.extend(x.strip().strip("'\"") for x in value[1:-1].split(",") if x.strip())
+            elif value:
+                aliases.append(value.strip("'\""))
+            else:
+                j = i + 1
+                while j < len(lines):
+                    child = lines[j]
+                    if not child.startswith((" ", "\t")):
+                        break
+                    child_stripped = child.strip()
+                    if child_stripped.startswith("- "):
+                        aliases.append(child_stripped[2:].strip().strip("'\""))
+                    j += 1
+                i = j - 1
+        i += 1
+
+    if not title:
+        title = path.stem
+    return Entry(title=title, path=rel_path, aliases=tuple(a for a in aliases if a))
+
+
+def git_output(args: list[str]) -> str:
+    result = subprocess.run(
+        ["git", *args],
+        cwd=ROOT,
+        check=False,
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        return ""
+    return result.stdout
+
+
+def git_file_at_head(rel_path: str) -> str:
+    return git_output(["show", f"HEAD:{rel_path}"])
+
+
+def git_changed_paths() -> set[str]:
+    changed = set(
+        line.strip()
+        for line in git_output(["diff", "--name-only", "--diff-filter=ACMRTUXB", "HEAD", "--", "wiki", "sources"]).splitlines()
+        if line.strip()
+    )
+    untracked = set(
+        line.strip()
+        for line in git_output(["ls-files", "--others", "--exclude-standard", "--", "wiki", "sources"]).splitlines()
+        if line.strip()
+    )
+    return changed | untracked
+
+
+def git_changed_terms(paths: set[str]) -> tuple[set[str], set[str], set[str]]:
+    changed_files: set[str] = set()
+    added_terms: set[str] = set()
+    removed_terms: set[str] = set()
+
+    for rel in paths:
+        path = ROOT / rel
+        if path.suffix.lower() != ".md":
+            continue
+        if rel.startswith("wiki/"):
+            if not path.exists() or should_skip_file(path):
+                continue
+            changed_files.add(rel)
+        elif not rel.startswith("sources/"):
+            continue
+
+        current_entry = None
+        if path.exists():
+            current_entry = parse_entry_from_text(rel, path.read_text(encoding="utf-8", errors="ignore"))
+        previous_text = git_file_at_head(rel)
+        previous_entry = parse_entry_from_text(rel, previous_text) if previous_text else None
+
+        current_terms = entry_terms(current_entry) if current_entry else set()
+        previous_terms = entry_terms(previous_entry) if previous_entry else set()
+        added_terms.update(current_terms - previous_terms)
+        removed_terms.update(previous_terms - current_terms)
+
+    return changed_files, added_terms, removed_terms
+
+
+def iter_git_target_files() -> list[Path]:
+    paths = git_changed_paths()
+    changed_files, added_terms, removed_terms = git_changed_terms(paths)
+    search_terms = {t for t in added_terms | removed_terms if t}
+
+    candidates = {ROOT / rel for rel in changed_files}
+    if search_terms:
+        for path in iter_target_files([]):
+            text = path.read_text(encoding="utf-8", errors="ignore")
+            if any(term in text for term in search_terms):
+                candidates.add(path)
+
+    return sorted(p for p in candidates if p.exists() and not should_skip_file(p))
 
 
 def split_frontmatter(text: str) -> tuple[str, str]:
@@ -416,14 +545,17 @@ def sync_file(
     return changed, added, removed
 
 
-def run_sync(paths: list[str], dry_run: bool) -> None:
+def run_sync(paths: list[str], dry_run: bool, git_only: bool) -> None:
+    if git_only and paths:
+        raise SystemExit("`sync --git` does not accept explicit paths; use either --git or paths.")
+
     entries = load_entries()
     source_entries = load_source_entries()
     terms, entries_by_title, path_to_title = make_terms(entries)
     for source in source_entries:
         entries_by_title.setdefault(source.title, source)
     source_titles = {source.title for source in source_entries}
-    files = iter_target_files(paths)
+    files = iter_git_target_files() if git_only else iter_target_files(paths)
 
     stats = LinkStats()
     for path in files:
@@ -451,6 +583,7 @@ def build_parser() -> argparse.ArgumentParser:
     sync = sub.add_parser("sync", help="Clean invalid links and add missing wikilinks.")
     sync.add_argument("paths", nargs="*", help="Optional file or directory paths relative to vault root.")
     sync.add_argument("--dry-run", action="store_true", help="Show changes without writing files.")
+    sync.add_argument("--git", action="store_true", help="Only process files affected by git changes.")
 
     return parser
 
@@ -461,7 +594,7 @@ def main() -> None:
     parser = build_parser()
     args = parser.parse_args()
     if args.command in {None, "sync"}:
-        run_sync(getattr(args, "paths", []), getattr(args, "dry_run", False))
+        run_sync(getattr(args, "paths", []), getattr(args, "dry_run", False), getattr(args, "git", False))
     else:
         parser.error(f"unknown command: {args.command}")
 

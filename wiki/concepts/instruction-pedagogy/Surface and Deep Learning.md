@@ -145,7 +145,7 @@ updated: '2026-05-23'
 
 ## 来源
 
-- Qvortrup_2015_Paideia
-- Hattie_2015_SOTLP
-- Blass_2020_JESP
-- Fredens_2015_Paideia
+- [[Qvortrup_2015_Paideia]]
+- [[Hattie_2015_SOTLP]]
+- [[Blass_2020_JESP]]
+- [[Fredens_2015_Paideia]]

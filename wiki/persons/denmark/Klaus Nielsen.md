@@ -115,5 +115,5 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Nielsen_2021_IRTP
-- Nielsen_2021_NordPsych
+- [[Nielsen_2021_IRTP]]
+- [[Nielsen_2021_NordPsych]]

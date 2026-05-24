@@ -173,12 +173,12 @@ Johnson & Janzen 指出，Hattie 在不同文本中使用的班级规模[[Meta-a
 
 ## 来源
 
-- Snook_2009_NZJES
-- Cowen_2015_CHESS
-- Hattie_2010_NZJES
-- Wiliam_2019_ERE
-- Nielsen_2021_NordPsych
-- Johnson_2023_CE
-- Hattie_2015_SOTLP
-- ONeill_2012_NZJES
-- Pellegrini_2021_ROE
+- [[Snook_2009_NZJES]]
+- [[Cowen_2015_CHESS]]
+- [[Hattie_2010_NZJES]]
+- [[Wiliam_2019_ERE]]
+- [[Nielsen_2021_NordPsych]]
+- [[Johnson_2023_CE]]
+- [[Hattie_2015_SOTLP]]
+- [[ONeill_2012_NZJES]]
+- [[Pellegrini_2021_ROE]]

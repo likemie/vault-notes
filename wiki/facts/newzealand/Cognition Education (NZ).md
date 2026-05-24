@@ -107,5 +107,5 @@ updated: '2026-05-23'
 ## 来源
 
 - Bates_2017_CognitionEducationTrust
-- ONeill_2016_Report
-- Johnson_2023_CE
+- [[ONeill_2016_Report]]
+- [[Johnson_2023_CE]]

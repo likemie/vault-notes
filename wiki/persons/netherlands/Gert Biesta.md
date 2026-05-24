@@ -110,7 +110,7 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Biesta_2010_SPE
-- Romer_2018_EPT
-- Wrigley_2019_ERE
-- Bainbridge_2022_ROE
+- [[Biesta_2010_SPE]]
+- [[Romer_2018_EPT]]
+- [[Wrigley_2019_ERE]]
+- [[Bainbridge_2022_ROE]]

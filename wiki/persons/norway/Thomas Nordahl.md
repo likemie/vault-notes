@@ -76,5 +76,5 @@ updated: '2026-05-21'
 
 ## 来源
 
-- Nordahl_2015_Paideia
-- Hansen_2015_Paideia
+- [[Nordahl_2015_Paideia]]
+- [[Hansen_2015_Paideia]]
