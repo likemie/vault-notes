@@ -10,19 +10,15 @@
 - 先读 `wiki/index.json` 判断条目是否可能已存在；若缺失、过期或有歧义，再按类型搜索对应二级文件夹。
 - `wiki/index.json` 和 `wiki/index.md` 由 `scripts/wiki_index.py` 自动生成，不手动维护。
 - `wiki/index.md` 是 Quartz 4 / Obsidian / GitHub 可读索引页面，可作为 `wiki/` 首页。
-- 新建、移动、删除、重命名条目后，运行完整同步流程：
-  ```bash
-  python3 scripts/wiki_index.py
-  python3 scripts/wiki_linker.py sync
-  python3 scripts/wiki_relations.py sync
-  python3 scripts/wiki_index.py
-  ```
+- 新建、移动、删除、重命名条目后，运行标准同步与检查流程。
 - 修改已有条目必须使用 `str_replace`，只替换需要修改的段落，不重写整个文件。
 - 写入前必须声明插入位置：
   > 本条内容属于 `## 章节名 > ### 子主题名`，插入位置在……之后／之前，理由是……
 - 所有来源性陈述都必须标注页码：`（Author, year, p.X）`。
 - 不使用来源以外的知识；不确定时宁可不写。
 - AI 不手动维护 `related_*` 和 YAML `sources`；这些字段由 `scripts/wiki_relations.py` 根据正文 wikilink 与 `## 来源` 章节自动同步。
+- Source 记录与阅读页面优先由 `scripts/source_record.py` 生成，不手写固定结构。
+- 发布或提交前运行 `scripts/vault_lint.py` 检查格式、链接、模板、Quartz 风险和旧命令残留。
 
 ---
 
@@ -30,7 +26,7 @@
 
 ```text
 raw/                         待处理原始文献，不编辑
-sources/                     已处理论文档案
+sources/                     已处理论文／报告 source 记录与 PDF
 books/                       书籍工作区与书籍 schema
   schema-edited-volume.md
   schema-monograph-pdf.md
@@ -40,6 +36,8 @@ scripts/
   wiki_index.py               自动生成 wiki/index.json 与 wiki/index.md
   wiki_linker.py              根据 index.json 自动同步正文 wikilink
   wiki_relations.py           根据正文 wikilink 自动同步 YAML related_* 与 sources
+  vault_lint.py               检查 vault 结构、frontmatter、链接、模板与 Quartz 风险
+  source_record.py            创建 source 记录与 PDF / EPUB 阅读页面
 wiki/
   index.json                 AI / Claude Code 检索用极简机器索引
   index.md                   Quartz 4 / Obsidian / GitHub 可读静态索引
@@ -73,29 +71,41 @@ wiki/
 
 ## 3. Script Rules
 
-### Index
+### Standard Sync and Lint
 
-`scripts/wiki_index.py` 的实际路径是：
-
-```text
-/Users/shaoyangwu/Documents/MyNotes/scripts/wiki_index.py
-```
-
-运行方式：
+每次处理完条目、书籍章节、source 记录、模板或 schema 后，运行：
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
 python3 scripts/wiki_index.py
+python3 scripts/wiki_linker.py sync
+python3 scripts/wiki_relations.py sync
+python3 scripts/wiki_index.py
+python3 scripts/vault_lint.py
 ```
 
-脚本输出：
+若只想检查某一目录：
+
+```bash
+python3 scripts/vault_lint.py --path wiki/concepts
+```
+
+更严格检查：
+
+```bash
+python3 scripts/vault_lint.py --strict
+```
+
+### Index
+
+`scripts/wiki_index.py` 输出：
 
 - `wiki/index.json`：AI / Claude Code 使用的极简索引，用于判断条目是否存在。
 - `wiki/index.md`：Quartz 4 / GitHub / Obsidian 可读静态索引，也可作为 `wiki/` 首页。
 
 不要手动编辑 `wiki/index.json` 或 `wiki/index.md`。
 
-`wiki/index.json` 不承担展示功能，不需要包含 tags、status、sources、related_*、journal、book_title 等信息。是否保留 aliases 由脚本实现决定；aliases 若进入 index，则仅用于判断已有条目和自动补链。
+`wiki/index.json` 不承担展示功能，不需要包含 tags、status、sources、related_*、journal、book_title 等信息。若脚本保留 aliases，则仅用于判断已有条目和自动补链。
 
 `summary` 只用于生成 `wiki/index.md` 的一行说明；修改 summary 后必须重新运行脚本。
 
@@ -124,12 +134,6 @@ python3 scripts/wiki_linker.py sync
 
 `scripts/wiki_relations.py` 根据正文 wikilink 自动同步 YAML 中的关系字段。
 
-运行：
-
-```bash
-python3 scripts/wiki_relations.py sync
-```
-
 自动维护：
 
 ```yaml
@@ -149,38 +153,132 @@ sources: []
 - `![[...]]` 嵌入链接不计入关系。
 - AI 不手动填写 `related_*` 和 YAML `sources`；如需建立关系，应在正文中自然使用 wikilink，并在 `## 来源` 章节列出来源。
 
-脚本不得修改：
+### Source Record Creation
 
-```yaml
-title:
-aliases:
-summary:
-type:
-subtype:
-tags:
-citation:
-journal:
-book_title:
-authors:
-editors:
-publisher:
-part_of:
-confidence:
-status:
-created:
-```
+`scripts/source_record.py` 用于创建 source 记录与 PDF / EPUB 阅读页面。AI 先根据用户指令和 schema 判断来源类型，再调用对应子命令；脚本不负责自动猜类型。
 
-### Standard Sync Command
-
-每次处理完条目、书籍章节、source 记录或模板更新后，运行：
+可用子命令：
 
 ```bash
-cd /Users/shaoyangwu/Documents/MyNotes
-python3 scripts/wiki_index.py
-python3 scripts/wiki_linker.py sync
-python3 scripts/wiki_relations.py sync
-python3 scripts/wiki_index.py
+python3 scripts/source_record.py article
+python3 scripts/source_record.py report
+python3 scripts/source_record.py monograph-pdf
+python3 scripts/source_record.py monograph-epub
+python3 scripts/source_record.py edited-volume-overview
+python3 scripts/source_record.py book-chapter
 ```
+
+分类规则：
+
+| 来源类型 | 子命令 | 输出位置 |
+|---|---|---|
+| 期刊论文 | `article` | `sources/` |
+| 报告／政策文件／白皮书 | `report` | `sources/` |
+| 专著 PDF 整本书 source | `monograph-pdf` | `books/<book-folder>/` |
+| EPUB 专著 source | `monograph-epub` | `books/<book-folder>/` |
+| 论文集／编著整体 overview | `edited-volume-overview` | `books/<book-folder>/` |
+| 论文集章节 source | `book-chapter` | `books/<book-folder>/` |
+
+普通论文示例：
+
+```bash
+python3 scripts/source_record.py article \
+  --file raw/Thomas_2000_RER.pdf \
+  --citation "Thomas, J. W. (2000). ..." \
+  --journal "Review of Educational Research" \
+  --extracted-to "[[Project-Based Learning]],[[Argument_Thomas_2000_RER]]"
+```
+
+专著 PDF 示例：
+
+```bash
+python3 scripts/source_record.py monograph-pdf \
+  --book-folder Bourdieu_1984_HUP \
+  --file books/Bourdieu_1984_HUP/Distinction.pdf \
+  --citation "Bourdieu, P. (1984). Distinction. Harvard University Press." \
+  --book-title "Distinction" \
+  --authors "Pierre Bourdieu" \
+  --publisher "Harvard University Press" \
+  --argument "[[Argument_Bourdieu_1984_HUP]]"
+```
+
+EPUB 示例：
+
+```bash
+python3 scripts/source_record.py monograph-epub \
+  --book-folder Vygotsky_1978_HUP \
+  --file books/Vygotsky_1978_HUP/MindInSociety.epub \
+  --citation "Vygotsky, L. S. (1978). Mind in society. Harvard University Press." \
+  --book-title "Mind in Society" \
+  --authors "Lev Vygotsky" \
+  --publisher "Harvard University Press" \
+  --argument "[[Argument_Vygotsky_1978_HUP]]"
+```
+
+论文集章节示例：
+
+```bash
+python3 scripts/source_record.py book-chapter \
+  --book-folder AppleEd_2019_Routledge \
+  --file books/AppleEd_2019_Routledge/Ch03_Biesta_2019.pdf \
+  --citation "Biesta, G. (2019). Chapter title. In M. Apple (Ed.), Book title (pp. xx-xx). Routledge." \
+  --book-title "Book Title" \
+  --chapter-title "Chapter Title" \
+  --authors "Gert Biesta" \
+  --editors "Michael W. Apple" \
+  --publisher "Routledge" \
+  --extracted-to "[[Argument_Biesta_2019_purpose]]" \
+  --part-of "[[AppleEd_2019_Routledge]]"
+```
+
+Source 记录统一 frontmatter：
+
+```yaml
+title: ""
+type: source
+subtype: ""
+publication_type: ""
+citation: ""
+source_file: ""
+book_file: ""
+extracted_to: []
+processed_date: YYYY-MM-DD
+status: processed
+```
+
+可选字段：
+
+```yaml
+journal: ""
+issuing_organization: ""
+book_title: ""
+chapter_title: ""
+authors: []
+editors: []
+publisher: ""
+part_of: ""
+```
+
+### Vault Lint
+
+`scripts/vault_lint.py` 是只读检查脚本，默认不修改文件。
+
+检查内容包括：
+
+- summary YAML 安全规则
+- frontmatter YAML 是否可解析
+- Argument 是否误用 aliases
+- tags 格式
+- related_* / sources / part_of 格式
+- 模板字段一致性
+- 坏 wikilink
+- 嵌入文件是否存在
+- `## 来源` 是否存在
+- source record 格式
+- Quartz 风险
+- 旧命令 `scripts/update_wiki_index.py` 残留
+- 旧路径 `wiki/wiki-index.md` 残留
+- `wiki/index.json` 与实际条目一致性
 
 ---
 
@@ -192,24 +290,18 @@ python3 scripts/wiki_index.py
 
 ### sources/
 
-普通论文或报告处理完成后，将 PDF 移入 `sources/`，并建立同名 `.md`：
+普通论文或报告处理完成后，优先使用 `source_record.py article` 或 `source_record.py report` 创建 source 记录。不要手写固定结构，除非脚本无法满足特殊情况。
 
-```markdown
----
-citation: "APA citation"
-extracted_to: ["[[Entry A]]", "[[Argument_Author_Year_Journal]]"]
-processed_date: YYYY-MM-DD
----
-
-# FileName
-
-![[FileName.pdf]]
+```bash
+python3 scripts/source_record.py article --file raw/FILENAME.pdf --citation "..." --extracted-to "[[...]]"
 ```
 
 规则：
 
-- `extracted_to` 中每个 wikilink 必须加双引号。
-- `sources` / `extracted_to` 字段使用数组格式。
+- `article` / `report` 默认将 `raw/*.pdf` 移入 `sources/`。
+- `--copy` 表示复制而不是移动。
+- `--no-move` 表示文件保留原位，但仍生成 source 记录。
+- `extracted_to` 中每个 wikilink 必须加双引号，脚本会自动生成合法 YAML 数组。
 - 书籍来源记录按对应 book schema 执行。
 - `sources/` 下的 source 记录不是普通 wiki 条目，不进入 `related_*` 自动维护逻辑。
 
@@ -227,11 +319,11 @@ processed_date: YYYY-MM-DD
 6. 将候选分为：
    - 待更新条目
    - 待新建条目，并标注类型与目标二级文件夹
-7. 移动 PDF 到 `sources/`，新建同名 source `.md`。
-8. 逐条处理待更新条目：读取文件 → 判断插入位置 → 用 `str_replace` 精确整合。
-9. 逐条处理待新建条目：只读取对应模板 → 按模板写入对应二级文件夹。
-10. 在正文中自然使用 wikilink，在 `## 来源` 章节列出 source wikilink。
-11. 运行标准同步命令。
+7. 逐条处理待更新条目：读取文件 → 判断插入位置 → 用 `str_replace` 精确整合。
+8. 逐条处理待新建条目：只读取对应模板 → 按模板写入对应二级文件夹。
+9. 在正文中自然使用 wikilink，在 `## 来源` 章节列出 source wikilink。
+10. 使用 `source_record.py article` 或 `source_record.py report` 创建 source 记录。
+11. 运行标准同步与检查流程。
 
 ### 书籍任务
 
@@ -274,10 +366,7 @@ processed_date: YYYY-MM-DD
 
 ### Argument style
 
-Argument 可以围绕文献本身，但也不要反复使用“本论文 / 本章 / 作者认为 / 本研究发现”。直接陈述论证思路：
-
-- 错误：本论文认为全球胜任力政策体现了国际组织的话语扩张。
-- 正确：全球胜任力政策被解释为国际组织扩展教育治理话语的一种方式。
+Argument 可以围绕文献本身，但也不要反复使用“本论文 / 本章 / 作者认为 / 本研究发现”。直接陈述论证思路。
 
 Argument 必须详细拆解论证链：
 
@@ -432,11 +521,6 @@ Argument 必须详细拆解论证链：
 - 泛指某类事物时不链接；如自动链接不合适，删除对应 alias 后重新同步。
 - 条目尚未建立时先写纯文字，建立后再补链接。
 - AI 不手动维护 frontmatter `related_*`；正文链接是关系来源。
-
-例：
-
-- ZPD 的详细机制写在 `[[Zone of Proximal Development]]`，不要在 `[[Vygotsky]]` 和 `[[Constructivism]]` 中重复展开。
-- `[[Vygotsky]]` 生平只写在人物条目，理论条目中只写一句关系说明。
 
 ---
 

@@ -1,18 +1,6 @@
 # Schema：专著 — EPUB
 
-触发标识：文件副档名为 `.epub`，或用户说明材料来自 EPUB 专著。
-
----
-
-## 核心原则
-
-- EPUB 文件保留在 `books/` 文件夹中。
-- 首次处理时只列出章节结构，不读取正文。
-- 用户指定章节后，AI 每次只处理该章正文。
-- 已处理章节内容累积到全书 Argument 的「各章概览」。
-- 只有用户要求整合全书 Argument 时，才从「各章概览」提炼正式论证结构。
-- 只有整本书需要建立阅读页面时，才新建书籍 source 记录。
-- `related_*` 与 `sources` 不要求 AI 手动维护，由脚本根据正文 wikilink 与 `## 来源` 自动同步。
+触发格式：文件副档名为 `.epub`。若用户明确说明该 EPUB 是论文集／编著，则转入 `schema-edited-volume.md`。
 
 ---
 
@@ -28,17 +16,9 @@ wiki/arguments/books/<book-folder>/
   Argument_作者姓_年份_出版社.md
 ```
 
-说明：
+EPUB 全程保留在 `books/` 文件夹，用 Obsidian Epub Reader 插件本地阅读。
 
-- EPUB 全程保留在 `books/<book-folder>/`。
-- `作者姓_年份_出版社.md` 是整本书 source 记录，需要建立阅读页面时再创建。
-- 全书 Argument 放在 `wiki/arguments/books/<book-folder>/`。
-
----
-
-## Quartz EPUB 阅读脚本
-
-Quartz 网页端阅读通过统一静态脚本实现：
+Quartz 网页端阅读通过统一配置好的静态脚本实现：
 
 ```text
 /static/jszip.min.js
@@ -47,22 +27,30 @@ Quartz 网页端阅读通过统一静态脚本实现：
 /static/epub-init.js
 ```
 
-不要在每本书的 source 文件或模板中重复写入 JS 源码。
+不要在每本书的 sources 文件或模板中重复写入 JS 源码。
 
 ---
 
-## 首次处理新书
+## 进度追踪
+
+不追踪章节处理进度，按需处理：
+
+- 用户指定哪章就处理哪章，已处理的章节也可重新处理。
+- 已处理章节内容累积在 Argument 的「各章概览」里，可作参考。
+
+---
+
+## 第一次处理新书
 
 1. 读取 `vault-schema.md`。
-2. 读取 `books/schema-monograph-epub.md`。
-3. 在 `books/` 下新建文件夹：
+2. 在 `books/` 下新建文件夹：`作者姓_年份_出版社/`。
+3. 将 EPUB 放入：
 
 ```text
-books/作者姓_年份_出版社/
+books/作者姓_年份_出版社/BookName.epub
 ```
 
-4. 将 EPUB 放入该文件夹。
-5. 用 Python 只列出 EPUB 章节结构，不读取正文内容：
+4. 列出 EPUB 所有章节，只读文件结构，不读正文内容：
 
 ```bash
 python3 -c "
@@ -74,21 +62,16 @@ for i, item in enumerate(book.get_items_of_type(ebooklib.ITEM_DOCUMENT)):
 "
 ```
 
-6. 将章节列表展示给用户，并停止：
-
-```text
-以上是全书章节列表，请告知需要处理哪一章。
-```
+5. 将章节列表展示给用户，停下等待用户指定章节。
+6. 不处理正文内容，不创建 source 记录。
+7. 用户指定章节后，进入单章处理流程。
 
 ---
 
 ## 单章处理流程
 
-当用户指定某一章时：
-
 1. 读取 `vault-schema.md`。
-2. 读取 `books/schema-monograph-epub.md`。
-3. 只提取用户指定章节的正文：
+2. 用 Python 提取用户指定章节的正文，只读该章，不读其他章节：
 
 ```bash
 python3 -c "
@@ -103,169 +86,74 @@ for item in book.get_items_of_type(ebooklib.ITEM_DOCUMENT):
 "
 ```
 
-4. 基于当前章节文本扫描可提取条目：
-   - Concept
-   - Theory
-   - Method
-   - Person
-   - Fact
-   - Argument
-5. 读取 `wiki/index.json` 判断候选条目是否已存在。
-6. 将候选分为：
-   - 待更新条目
-   - 待新建条目
-7. 按 `vault-schema.md` 更新或新建条目。
-8. 更新或新建全书 Argument：
+3. 基于章节内容扫描可提取条目。
+4. 读取 `wiki/index.json`，将条目分为待更新和待新建两组。
+5. 按 `vault-schema.md` 的更新／新建条目规则执行。
+6. 将本章内容追加到 Argument 的「各章概览」：
+   - 若 Argument 尚不存在 → 读取 `wiki/templates/template-argument-monograph.md`，在 `wiki/arguments/books/<book-folder>/` 新建。
+   - 若 Argument 已存在 → 用 `str_replace` 追加本章内容到「各章概览」末尾或更新对应章节。
+7. 在正文中自然使用 wikilink，在 `## 来源` 章节列出来源。
+8. 不手动维护 YAML `related_*` 和 `sources`。
+9. 运行标准同步与检查流程。
+10. 停下，告知用户当前章节处理完成。
 
-```text
-wiki/arguments/books/<book-folder>/Argument_作者姓_年份_出版社.md
-```
+---
 
-若不存在，读取：
+## 创建 source 记录与阅读页面
 
-```text
-wiki/templates/template-argument-monograph.md
-```
-
-新建时至少填写：
-
-```yaml
-subtype: monograph
-publication_type: book
-book_title: ""
-authors: []
-publisher: ""
-citation: ""
-```
-
-9. 将当前章节内容整合进「各章概览」。
-10. 维护正文 wikilink 和 `## 来源`；不手动维护 `related_*`。
-11. 运行：
+当用户要求建立 EPUB source 记录时，调用：
 
 ```bash
-python3 scripts/wiki_index.py
-python3 scripts/wiki_linker.py sync
-python3 scripts/wiki_relations.py sync
-python3 scripts/wiki_index.py
+python3 scripts/source_record.py monograph-epub \
+  --book-folder 作者姓_年份_出版社 \
+  --file books/作者姓_年份_出版社/BookName.epub \
+  --citation "作者姓, 名字缩写. (年份). 书名. 出版社." \
+  --book-title "书名" \
+  --authors "作者名" \
+  --publisher "出版社" \
+  --argument "[[Argument_作者姓_年份_出版社]]" \
+  --extracted-to "[[其他条目]],[[其他条目2]]"
 ```
 
-12. 当前章节处理完成后停止。
-
----
-
-## 重新开始
-
-如果 session 重开：
-
-1. 读取 `vault-schema.md`。
-2. 读取 `books/schema-monograph-epub.md`。
-3. 只列出 EPUB 章节结构，不读取正文。
-4. 等待用户指定章节。
-5. 用户指定后执行单章处理流程。
-
----
-
-## 整合 Argument
-
-当用户发出整合全书 Argument 的指令后：
-
-1. 读取全书 Argument 中的「各章概览」。
-2. 读取 `wiki/templates/template-argument-monograph.md`。
-3. 从各章概览中提炼：
-   - 全书研究问题
-   - 理论框架
-   - 核心概念
-   - 论证结构
-   - 章节推进关系
-   - 主要发现
-   - 关键引用
-   - 局限性与批评
-4. 用 `str_replace` 在「各章概览」之前写入正式章节。
-5. 保留「各章概览」作为原始章节记录。
-6. 运行：
-
-```bash
-python3 scripts/wiki_index.py
-python3 scripts/wiki_linker.py sync
-python3 scripts/wiki_relations.py sync
-python3 scripts/wiki_index.py
-```
-
----
-
-## 建立 source 记录与阅读页面
-
-当用户要求为整本 EPUB 建立 source 记录或阅读页面时：
-
-1. 新建：
+脚本会生成：
 
 ```text
 books/作者姓_年份_出版社/作者姓_年份_出版社.md
 ```
 
-2. source 记录格式：
+并写入 EPUB Reader HTML：
 
-```markdown
----
-title: 作者姓_年份_出版社
-summary: ""
-type: source
-subtype: monograph-epub
-citation: "作者姓, 名字缩写. (年份). 书名. 出版社."
-book_title: ""
-authors: []
-publisher: ""
-book_file: "books/作者姓_年份_出版社/BookName.epub"
-extracted_to: ["[[Argument_作者姓_年份_出版社]]"]
-processed_date: YYYY-MM-DD
-status: processed
----
-
-# 作者姓_年份_出版社
-
-## Citation
-
-作者姓, 名字缩写. (年份). *书名*. 出版社.
-
----
-
-## Extracted to
-
-- [[Argument_作者姓_年份_出版社]]
-
----
-
-## EPUB Reader
-
+```html
 <div id="epub-viewer" style="width:100%;height:560px;border:1px solid rgb(204,204,204);" data-epub="/books/作者姓_年份_出版社/BookName.epub"></div>
+```
+
+完成后运行标准同步与检查流程。
 
 ---
 
-## Notes
+## 整合 Argument
 
-- Obsidian 本地阅读用 Epub Reader 插件直接打开 EPUB。
-- Quartz 网页端通过 `/static/` 中已配置脚本渲染。
-- 不要在本文件中重复写入 `epub-loader.js` 或 `epub-init.js` 源码。
-```
+当用户发出整合指令后：
 
-3. 根据已经提取的条目补全 `extracted_to`。
-4. 运行：
-
-```bash
-python3 scripts/wiki_index.py
-python3 scripts/wiki_linker.py sync
-python3 scripts/wiki_relations.py sync
-python3 scripts/wiki_index.py
-```
+1. 读取 Argument 文件中已累积的「各章概览」。
+2. 读取 `wiki/templates/template-argument-monograph.md`。
+3. 按模板结构整合：
+   - 全书研究问题
+   - 理论框架
+   - 论证结构
+   - 主要发现
+   - 关键引用
+   - 局限性
+4. 用 `str_replace` 在「各章概览」之前写入正式章节。
+5. 「各章概览」保留在最后，作为原始章节记录。
+6. 运行标准同步与检查流程。
 
 ---
 
 ## 注意事项
 
-- 列章节时只读 EPUB 文件结构，不读正文内容。
-- 必须等用户指定章节后，才读取该章正文。
+- 列出章节列表只读文件结构，不读正文内容。
+- 必须等用户明确指定章节后，才读取该章正文。
 - 每次只处理一章。
-- 章节文本过长时，按小节拆分处理，但仍视为同一章。
-- `related_*` 由 `wiki_relations.py` 自动维护，AI 不手动填写。
-- `sources` 由 `## 来源` 章节同步，AI 只需维护正文来源列表。
-- `extracted_to` 必须使用数组格式，元素为带引号的 wikilink。
+- 章节文本过长时，按小节拆分处理。
+- source 记录由 `source_record.py monograph-epub` 生成。
