@@ -23,6 +23,7 @@ related_concepts:
 - '[[Statistical Significance]]'
 - '[[5-3-20 Rule]]'
 - '[[Gating Procedure]]'
+- '[[Inclusive Evidence Validation Typology]]'
 related_theories:
 - '[[Campbellian Validity Framework]]'
 related_methods:
@@ -45,18 +46,21 @@ related_facts:
 - '[[Top Institute for Evidence-Based Education Research]]'
 - '[[Centre for the Use of Research and Evidence in Education]]'
 - '[[Evidence-Based Teachers Network]]'
+- '[[Pact for Educational Excellence]]'
 related_arguments:
 - '[[Argument_Ross_Morrison_2021_ROE]]'
 - '[[Argument_Pellegrini_2021_ROE]]'
+- '[[Argument_Dachet_2021_ROE]]'
 sources:
 - '[[Hitchcock_2015_JBE]]'
 - '[[Ross_Morrison_2021_ROE]]'
 - '[[Wadhwa_2024_RER]]'
 - '[[Pellegrini_2021_ROE]]'
+- '[[Dachet_2021_ROE]]'
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: '2026-05-23'
+updated: '2026-05-24'
 ---
 
 ## 定义
@@ -113,6 +117,7 @@ updated: '2026-05-23'
 > - vs [[Evidence-Based Education]] — EBE 是教育实践和政策应依赖研究证据的理念；教育证据清算中心是把这一理念制度化为项目评级、证据标准和传播机制的基础设施（Wadhwa et al., 2024, p.4）。
 > - vs [[Evidence-Based Reform]] — EBR 强调用有效性证据选择项目和产品；清算中心提供 EBR 所需的"可信证据审查"环节，但不同清算中心对同一项目是否"有证据"常常并不一致（Wadhwa et al., 2024, pp.16-17）。
 > - vs 系统综述/元分析 — 系统综述和元分析是研究综合方法；清算中心则是制度化中介机构，会同时制定纳入标准、研究质量标准、效果评级规则和面向公众的传播格式（Wadhwa et al., 2024, pp.4–5）。
+> - vs [[Inclusive Evidence Validation Typology]] — 清算中心通常面向外部用户发布项目评级；包容性证据验证类型学则是在本地实验研究和项目证据稀少时，为改革内部候选工具设置最低验证标准，避免直接复制 EEF、WWC 或 BEE 标准导致绝大多数本地工具被排除（Dachet & Baye, 2021, pp.175-176）。
 
 ## 理论基础
 

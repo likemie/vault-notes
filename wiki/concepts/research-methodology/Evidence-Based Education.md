@@ -30,6 +30,7 @@ related_concepts:
 - '[[Evidence-Informed Practice]]'
 - '[[Local Knowledge in Evidence-Based Policy]]'
 - '[[Programme Fidelity vs Adaptation]]'
+- '[[Inclusive Evidence Validation Typology]]'
 - '[[Reusability Paradox]]'
 - '[[Effect Size]]'
 - '[[Validity as Inferences]]'
@@ -101,6 +102,8 @@ related_facts:
 - '[[Students and Teachers Accessing Tomorrow (STAT)]]'
 - '[[EU Evidence-Informed Education Policy Initiatives]]'
 - '[[Pact for Educational Excellence]]'
+- '[[French-Speaking Belgium Education System]]'
+- '[[Grade Retention in French-Speaking Belgium]]'
 - '[[Azione LIM 2008]]'
 - '[[French Class Size Reduction 2017]]'
 - '[[EU Key Competences for Lifelong Learning 2018]]'
@@ -146,7 +149,7 @@ sources:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-23'
+updated: '2026-05-24'
 ---
 
 ## 定义

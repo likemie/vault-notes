@@ -19,6 +19,7 @@ related_concepts:
 - '[[Local Knowledge in Evidence-Based Policy]]'
 - '[[Professional Judgment]]'
 - '[[Evidence-Informed Practice]]'
+- '[[Inclusive Evidence Validation Typology]]'
 - '[[Reusability Paradox]]'
 - '[[Effect Size]]'
 - '[[Statistical Significance]]'
@@ -43,6 +44,8 @@ related_facts:
 - '[[EU Evidence-Informed Education Policy Initiatives]]'
 - '[[EEF Teaching and Learning Toolkit]]'
 - '[[Pact for Educational Excellence]]'
+- '[[French-Speaking Belgium Education System]]'
+- '[[Grade Retention in French-Speaking Belgium]]'
 - '[[Azione LIM 2008]]'
 - '[[French Class Size Reduction 2017]]'
 - '[[EU Key Competences for Lifelong Learning 2018]]'
@@ -64,7 +67,7 @@ sources:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-23'
+updated: '2026-05-24'
 ---
 
 ## 定义

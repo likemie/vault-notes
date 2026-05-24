@@ -2046,6 +2046,15 @@
     ]
   },
   {
+    "title": "Inclusive Evidence Validation Typology",
+    "path": "wiki/concepts/research-methodology/Inclusive Evidence Validation Typology.md",
+    "aliases": [
+      "包容性证据验证类型学",
+      "inclusive typology of research designs",
+      "inclusive validation typology"
+    ]
+  },
+  {
     "title": "Intent-to-Treat Analysis",
     "path": "wiki/concepts/research-methodology/Intent-to-Treat Analysis.md",
     "aliases": [
@@ -3975,6 +3984,24 @@
     "aliases": [
       "维州HITS与读写工具包",
       "HITS"
+    ]
+  },
+  {
+    "title": "French-Speaking Belgium Education System",
+    "path": "wiki/facts/belgium/French-Speaking Belgium Education System.md",
+    "aliases": [
+      "法语比利时教育系统",
+      "French-speaking Community of Belgium education system",
+      "Wallonia-Brussels Federation education system"
+    ]
+  },
+  {
+    "title": "Grade Retention in French-Speaking Belgium",
+    "path": "wiki/facts/belgium/Grade Retention in French-Speaking Belgium.md",
+    "aliases": [
+      "法语比利时留级",
+      "grade repetition in French-speaking Belgium",
+      "redoublement in French-speaking Belgium"
     ]
   },
   {

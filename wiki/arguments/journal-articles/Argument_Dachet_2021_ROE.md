@@ -18,6 +18,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Inclusive Evidence Validation Typology]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
@@ -27,13 +28,15 @@ related_persons:
   - "[[Robert Slavin]]"
 related_facts:
   - "[[Pact for Educational Excellence]]"
+  - "[[French-Speaking Belgium Education System]]"
+  - "[[Grade Retention in French-Speaking Belgium]]"
 related_arguments: []
 sources:
   - "[[Dachet_2021_ROE]]"
 part_of: ""
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-05-24
 ---
 
 # Argument_Dachet_2021_ROE
@@ -64,7 +67,7 @@ updated: 2026-05-23
 
 ### 第一步：系统问题制造了改革窗口
 
-法语比利时教育系统在 PISA 2015/2018 中表现并不理想，科学和阅读低于 OECD 平均，数学接近平均；更严重的是，社会出身对成绩的影响强且似乎加剧（Dachet & Baye, 2021, p.170）。系统结构中还存在早期分流、频繁留级、学前教育非义务化和教师初始培养较短等问题（Dachet & Baye, 2021, pp.169-170）。
+[[French-Speaking Belgium Education System|法语比利时教育系统]]在 PISA 2015/2018 中表现并不理想，科学和阅读低于 OECD 平均，数学接近平均；更严重的是，社会出身对成绩的影响强且似乎加剧（Dachet & Baye, 2021, p.170）。系统结构中还存在早期分流、[[Grade Retention in French-Speaking Belgium|频繁留级]]、学前教育非义务化和教师初始培养较短等问题（Dachet & Baye, 2021, pp.169-170）。
 
 这一步的逻辑是：如果系统同时存在低绩效和强不公平，改革就不能只靠个别学校或教师自发改进，而需要结构层面的政策行动。
 
@@ -88,7 +91,7 @@ updated: 2026-05-23
 
 ### 第五步：包容性验证类型学成为过渡机制
 
-作者团队建立了一个包容性研究设计类型学，把专家验证、案例研究、横断研究、相关或纵向研究、实验和准实验研究纳入同一框架，同时为每类方法设置最低质量标准（Dachet & Baye, 2021, pp.175-178）。它的目的不是把弱证据伪装成强证据，而是在承认方法多样性的同时推动学科教学专家看到实验研究的附加价值（Dachet & Baye, 2021, pp.175-176）。
+作者团队建立了[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、案例研究、横断研究、相关或纵向研究、实验和准实验研究纳入同一框架，同时为每类方法设置最低质量标准（Dachet & Baye, 2021, pp.175-178）。它的目的不是把弱证据伪装成强证据，而是在承认方法多样性的同时推动学科教学专家看到实验研究的附加价值（Dachet & Baye, 2021, pp.175-176）。
 
 这种设计把 EBE 从“只承认 RCT”的冲突姿态，改造成一条可协商的能力建设路径：先承认现有工具清单和专家工作有价值，再逐步要求更系统的实施研究、准实验评价和本地有效性验证。
 
