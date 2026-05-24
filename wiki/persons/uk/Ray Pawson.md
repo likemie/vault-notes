@@ -30,17 +30,17 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Ray Pawson 是英国利兹大学（University of Leeds）社会研究方法论教授，**实在论评估（Realist Evaluation）**和**实在论综合（Realist Synthesis）**的主要提出者之一。他的工作聚焦于将批判实在论哲学转化为适用于社会政策和项目评估的具体方法论。
+> Ray Pawson 是英国利兹大学（University of Leeds）社会研究方法论教授，**实在论评估（Realist Evaluation）**和**实在论综合（Realist Synthesis）**的主要提出者之一。他的工作聚焦于将[[Critical Realism|批判实在论]]哲学转化为适用于社会政策和项目评估的具体方法论。
 
 ## 核心思想
 
 > [!info] 人的能动性作为社会变革的核心
-> Pawson 对 RCT 在教育和社会领域的适用性提出了一项根本性批评：药物试验试图消除人的因素（双盲），因为"人的意志被视为污染物"——但社会变革恰恰通过人的能动性实现（Wrigley & McCusker, 2019, p. 114）。
+> Pawson 对 [[Randomised Controlled Trials|RCT]] 在教育和社会领域的适用性提出了一项根本性批评：药物试验试图消除人的因素（双盲），因为"人的意志被视为污染物"——但社会变革恰恰通过人的能动性实现（Wrigley & McCusker, 2019, p. 114）。
 >
 > > "Whereas drugs trials try to eliminate the human factor because 'human volition is seen as a contaminator', social change is brought about through the human agent." (Pawson, 2006, p. 27, cited in Wrigley & McCusker, 2019, p. 114)
 
 
-> [!info] 元分析的系统性简化
+> [!info] [[Meta-analysis|元分析]]的系统性简化
 > Pawson 对元分析的程序进行了严厉批评——论证在元分析综述的每一阶段，解释干预如何起作用的关键特征都被系统性地消除（Wrigley & McCusker, 2019, p. 122）：
 >
 > > "At every stage of the meta-analytic review, simplifications are made. Hypotheses are abridged, studies are dropped, programme details are filtered out, contextual information is eliminated, selected findings are utilized, averages are taken, estimates are made. … In this purgative progress the very features that explain how interventions work are eliminated from the reckoning. Complex programmes are cast as simple treatments. The way in which stakeholders think and change their thinking under an intervention is expunged." (Pawson, 2006, pp. 42–43, cited in Wrigley & McCusker, 2019, p. 122)
@@ -59,7 +59,7 @@ updated: '2026-05-19'
 
 
 > [!info] 替代方案：实在论综合（Realist Synthesis）
-> Pawson 提出以实在论综合替代统计元分析——研究综述应基于因果理论（干预"为什么有效、对谁有效、在什么条件下有效"），而非计算平均效应量（Wrigley & McCusker, 2019, p. 123）。
+> Pawson 提出以实在论综合替代统计元分析——研究综述应基于因果理论（干预"为什么有效、对谁有效、在什么条件下有效"），而非计算平均[[Effect Size|效应量]]（Wrigley & McCusker, 2019, p. 123）。
 
 ## 主要贡献
 
@@ -71,7 +71,7 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Pawson, R. (2006). *Evidence-based policy: A realist perspective*. London: SAGE. — 核心批判文本，系统论述 RCT 和元分析在社会政策领域的不适用性（Wrigley & McCusker, 2019, p. 125）
+> - Pawson, R. (2006). *Evidence-based policy: A realist perspective*. London: SAGE. — 核心批判文本，系统论述 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]在社会政策领域的不适用性（Wrigley & McCusker, 2019, p. 125）
 > - Pawson, R., & Tilley, N. (1997). *Realistic evaluation*. London: SAGE. — 实在论评估方法论的奠基文本
 
 ## 来源

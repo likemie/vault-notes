@@ -28,18 +28,18 @@ updated: '2026-05-19'
 ## 核心思想
 
 > [!info] 核心思想
-> 关注证据本位教育研究在中国的制度化进程。在 Slavin et al. (2021) 中负责梳理近年中国证据本位教育改革的文献和材料，包括 CNKI 数据库文献计量数据检索和摘要（Slavin et al., 2021, p.23）。
+> 关注[[Evidence-Based Education|证据本位教育]]研究在中国的制度化进程。在 Slavin et al. (2021) 中负责梳理近年中国证据本位教育改革的文献和材料，包括 CNKI 数据库文献计量数据检索和摘要（Slavin et al., 2021, p.23）。
 
 ## 主要贡献
 
 > [!success] 主要贡献
 > - 系统整理中国教育实证研究的增长数据（CNKI ~5000 篇，1990-2019）（Slavin et al., 2021）
-> - 参与中美英证据本位教育改革国际比较研究
+> - 参与中美英[[Evidence-Based Education|证据本位教育]]改革国际比较研究
 
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? *ECNU Review of Education*, 4(1), 7–24. — 负责中国证据本位教育改革文献与数据梳理
+> - Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? *ECNU Review of Education*, 4(1), 7–24. — 负责中国[[Evidence-Based Education|证据本位教育]]改革文献与数据梳理
 
 ## 思想发展与影响
 

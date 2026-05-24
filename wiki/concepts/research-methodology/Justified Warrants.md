@@ -28,7 +28,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > Justified warrants（正当化担保）是 Malone & Hogan（2020）基于 Dewey 知识论发展的概念，主张研究应提供经得起批评的、附有保留条件的担保性断言（warranted assertions），而非确定性的"证明"。与追求可复制性和确定性的线性证据观不同，该概念将研究证据视为开放的、可修正的可能性陈述。
 >
 > > "Research guided by expectations of providing warranted assertions, as opposed to certainty, would be more provisional, open to criticism, while also being open to surprise and unexpected nuance"（Bainbridge et al., 2022, p.6–7）
@@ -37,7 +37,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs 传统证据观中的"证明"（proof）：传统证据本位教育主张追求可复制、可推广的确定性结论；justified warrants 则强调所有研究类型的证据同等值得考虑，关键是断言与其现实应用之间的逻辑推进是否合理（Bainbridge et al., 2022, p.6–7）
+> - vs 传统证据观中的"证明"（proof）：传统[[Evidence-Based Education|证据本位教育]]主张追求可复制、可推广的确定性结论；justified warrants 则强调所有研究类型的证据同等值得考虑，关键是断言与其现实应用之间的逻辑推进是否合理（Bainbridge et al., 2022, p.6–7）
 > - 与 "anything goes" 的区别：正当化担保不意味着"什么都可以"——学界有责任确保研究断言被审慎地持有，避免误导性的确定性（Bainbridge et al., 2022, p.6）
 >
 

@@ -35,19 +35,19 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > 混合方法/多方法研究（Mixed Method/Multi-method Research）在 Brady et al. (2023) 的编码中指不操纵自变量、并同时包含量化数据和质性数据的研究。该类别是作者相较 Reinhart et al. (2013) 与 Robinson et al. (2007) 旧分类新增的类别（Brady et al., 2023, p.4）。
 
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> Brady et al. (2023) 将混合方法与质性研究的增长一起解释为教育心理学方法世界观更加多样的可能信号。它可能表示后实证主义之外的研究取向更被接受，或高影响教育心理学期刊对传统方法以外的视角更加开放（Brady et al., 2023, pp.7-8）。
+> Brady et al. (2023) 将混合方法与[[Qualitative Research|质性研究]]的增长一起解释为教育心理学方法世界观更加多样的可能信号。它可能表示后实证主[[Rightness|义]]之外的研究取向更被接受，或高影响教育心理学期刊对传统方法以外的视角更加开放（Brady et al., 2023, pp.7-8）。
 
 ## 操作步骤
 
 > [!example] 操作步骤
-> - **不操纵自变量**：混合方法/多方法研究在该文分类中属于非干预研究（Brady et al., 2023, p.4）。
-> - **同时使用量化和质性数据**：这是该类别区别于观察/相关研究和质性研究的操作性标准（Brady et al., 2023, p.4）。
+> - **不操纵自变量**：混合方法/多方法研究在该文分类中属于[[Non-intervention Research|非干预研究]]（Brady et al., 2023, p.4）。
+> - **同时使用量化和质性数据**：这是该类别区别于[[Observational and Correlational Research|观察/相关研究]]和[[Qualitative Research|质性研究]]的操作性标准（Brady et al., 2023, p.4）。
 > - **作为独立编码类别**：作者在 2020 年数据中单独编码该类，因为此前研究未将其与观察/相关研究分开（Brady et al., 2023, pp.4, 6）。
 
 ## 适用场景
@@ -59,12 +59,12 @@ updated: '2026-05-18'
 
 > [!warning] 局限性
 > - **非干预限制**：在 Brady et al. (2023) 的分类中，该类研究不操纵自变量，因此即使同时包含两类数据，也不自动产生因果识别能力（Brady et al., 2023, p.4）。
-> - **实践建议比例高**：2020 年混合方法/多方法文章中 60% 包含 RFP；作者将其与观察/相关和质性研究一起归入非干预研究中实践建议高发的趋势（Brady et al., 2023, pp.6-7）。
+> - **[[Recommendations for Practice|实践建议]]比例高**：2020 年混合方法/多方法文章中 60% 包含 RFP；作者将其与[[Observational and Correlational Research|观察]]/相关和[[Qualitative Research|质性研究]]一起归入[[Non-intervention Research|非干预研究]]中实践建议高发的趋势（Brady et al., 2023, pp.6-7）。
 
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Non-intervention Research]] — 混合方法/多方法研究是 Brady et al. (2023) 分类中的非干预研究类型之一。
+> - [[Non-intervention Research]] — 混合方法/多方法研究是 Brady et al. (2023) 分类中的非[[Intervention Research|干预研究]]类型之一。
 
 ## 与相关方法的区别
 
@@ -76,7 +76,7 @@ updated: '2026-05-18'
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Brady_2023_EPR]] — 新增混合方法/多方法编码类别，发现 2020 年五刊中该类研究占 6%，其中 60% 包含实践建议（Brady et al., 2023, p.6）。
+> - [[Argument_Brady_2023_EPR]] — 新增混合方法/多方法编码类别，发现 2020 年五刊中该类研究占 6%，其中 60% 包含[[Recommendations for Practice|实践建议]]（Brady et al., 2023, p.6）。
 
 ## 来源
 

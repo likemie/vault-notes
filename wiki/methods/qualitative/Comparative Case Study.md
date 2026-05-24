@@ -37,7 +37,7 @@ updated: 2026-05-19
 ## 定义
 
 > [!info]
-> 比较案例研究（Comparative Case Study, CCS）是 Bartlett & Vavrus (2017) 在 *Rethinking Case Study Research: A Comparative Approach* 中提出的比较研究方法。与传统案例研究不同，CCS 不将案例视为封闭的、有边界的单元，而是采用**过程性的"做案例"（casing）**理解——案例不是预先给定的，而是在研究过程中被持续建构和界定的（Erfurth, 2022, p.202）。
+> 比较案例研究（Comparative [[Case Study]], CCS）是 Bartlett & Vavrus (2017) 在 *Rethinking Case Study Research: A Comparative Approach* 中提出的比较研究方法。与传统案例研究不同，CCS 不将案例视为封闭的、有边界的单元，而是采用**过程性的"做案例"（casing）**理解——案例不是预先给定的，而是在研究过程中被持续建构和界定的（Erfurth, 2022, p.202）。
 
 CCS 的核心操作是通过三个分析轴同时对现象进行比较：
 

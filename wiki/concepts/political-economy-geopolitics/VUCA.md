@@ -51,15 +51,15 @@ VUCA 将全球教育转型所面临的挑战表述为一组看似中立的客观
 ## 与其他概念的关系
 
 > [!example]
-> - vs **[[Fourth Industrial Revolution]]** — 4IR 为 VUCA 提供了技术变革叙事：自动化和数据交换的加速构成了 VUCA 条件的具体物质基础。4IR 话语将 VUCA 框定为客观环境，SCD 则以技能获取作为唯一回应（Zelinka, 2022, pp.254, 264）
-> - vs **[[21st Century Skills and Competencies Discourse]]** — SCD 是 VUCA 的"解决方案"话语：VUCA 将教育挑战个体化，SCD 提供个体需获取的技能清单。二者构成治理术的问题-解答对，详见 [[Governmentality#全球治理技术]]
+> - vs **[[Fourth Industrial Revolution]]** — 4IR 为 VUCA 提供了技术变革叙事：自动化和数据交换的加速构成了 VUCA 条件的具体物质基础。4IR 话语将 VUCA 框定为客观环境，[[21st Century Skills and Competencies Discourse|SCD]] 则以技能获取作为唯一回应（Zelinka, 2022, pp.254, 264）
+> - vs **[[21st Century Skills and Competencies Discourse]]** — [[Single-Case Design (SCD)|SCD]] 是 VUCA 的"解决方案"话语：VUCA 将教育挑战个体化，SCD 提供个体需获取的技能清单。二者构成[[Governmentality|治理术]]的问题-解答对，详见 [[Governmentality#全球治理技术]]
 > - vs **[[Geopolitics of Knowledge]]** — VUCA 在新 GoK 中充当治理技术的第一环节：通过话语框定将全球教育转型中复杂的结构性问题压缩为个体技能差距问题
 
 ## 争议与批评
 
 > [!warning]
-> - **结构问题个体化**：VUCA 的治理术功能在于将教育面临的系统性挑战（全球不平等、劳动力市场结构性变革、后殖民权力差异）框定为个体层面的适应问题，从而使个体——而非政府、国际组织或雇主——承担应对不确定性的全部责任（Zelinka, 2022, pp.264-265）
-> - **SCD 作为"唯一解"的预设**：VUCA 话语假定面对复杂不确定环境，唯一的理性回应是装备以可市场化技能——这排除了其他可能的回应方式（如结构性改革、区域差异化策略、教育目的的重新审视）
+> - **结构问题个体化**：VUCA 的[[Governmentality|治理术]]功能在于将教育面临的系统性挑战（全球不平等、劳动力市场结构性变革、后殖民权力差异）框定为个体层面的适应问题，从而使个体——而非政府、国际组织或雇主——承担应对不确定性的全部责任（Zelinka, 2022, pp.264-265）
+> - **[[21st Century Skills and Competencies Discourse|SCD]] 作为"唯一解"的预设**：VUCA 话语假定面对复杂不确定环境，唯一的理性回应是装备以可市场化技能——这排除了其他可能的回应方式（如结构性改革、区域差异化策略、教育目的的重新审视）
 > - **遮蔽区域差异**：不同区域面临的"VUCA 条件"有本质性差异——"提供生产数字技术原材料的劳动力的国家，与使用这些技术并从中获利的国家"之间存在根本区别（Zelinka, 2022, p.260, note 2）。VUCA 作为普遍化话语模糊了这一区分
 
 ## 来源

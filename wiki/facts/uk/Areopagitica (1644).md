@@ -58,7 +58,7 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success]
-> - *Areopagitica* 成为西方自由主义言论自由传统的奠基性文本，其"三重权利"框架持续影响后世关于审查制度的讨论
+> - *Areopagitica* 成为西方自由主[[Rightness|义]]言论自由传统的奠基性文本，其"三重权利"框架持续影响后世关于审查制度的讨论
 > - Partaken (2022) 将 *Areopagitica* 的三重权利标准直接置于[[Great Firewall of China|中国防火长城]]的对立面——后者系统性地阻断中国大学学者获取大量社科人文学术论文，"信息和知识多样性的减少最终将削弱人们在全球舞台上创新和竞争的能力"（Partaken, 2022, p.82）
 
 ---
@@ -73,7 +73,7 @@ updated: '2026-05-18'
 ## 相关概念／政策
 
 > [!example]
-> - [[Knowledge Transfer]] — *Areopagitica* 是 Partaken 在 GPK 审查模态分析中引出的规范性基准
+> - [[Knowledge Transfer]] — *Areopagitica* 是 Partaken 在 [[Geopolitics of Knowledge|GPK]] 审查模态分析中引出的规范性基准
 > - [[Great Firewall of China]] — Partaken 将 GFW 置于 *Areopagitica* 标准的对立面，作为审查阻断知识转移的制度典范
 
 ---

@@ -41,8 +41,8 @@ updated: 2026-05-20
 
 ## 定义
 
-> [!info] 定义
-> Sami Moisio（2022）提出地缘政治主体（geopolitical subject）概念，指被国家通过制度（尤其是高等教育）系统性形塑的一类理想化的人的类型——他们被装备上特定技能、行为取向和空间心态，能够在全球竞争中被调动起来服务于财富和竞争领土的生产（Moisio, 2022, pp.29–30）。
+> [!info] 定[[Rightness|义]]
+> [[Sami Moisio]]（2022）提出地缘政治主体（geopolitical subject）概念，指被国家通过制度（尤其是高等教育）系统性形塑的一类理想化的人的类型——他们被装备上特定技能、行为取向和空间心态，能够在全球竞争中被调动起来服务于财富和竞争领土的生产（Moisio, 2022, pp.29–30）。
 >
 > > "The concept of the geopolitical subject therefore refers to an organized set of human figures, who are, from the perspective of political power, equipped with particular ideal skills, behaviors, orientations and 'spatial mindsets' which can be harnessed in the production of territories of wealth and competition at the age of global competition."（Moisio, 2022, pp.29–30）
 >
@@ -70,13 +70,13 @@ Moisio 刻意使用 **human figures**（人形）而非 people（人）、indivi
 
 
 > [!abstract] 1. 技能装备（Skills）
-> 最直观的层面：地缘政治主体需要具备在知识密集型资本主义中创造和提取价值的技术能力——编程、数据分析、设计思维、跨文化沟通等。这些技能的教育供给已经不再仅由民族国家课程体系决定，而是日益受到全球竞争力话语的驱动。
+> 最直观的层面：地缘政治主体需要具备在知识密集型资本主[[Rightness|义]]中创造和提取价值的技术能力——编程、数据分析、设计思维、跨文化沟通等。这些技能的教育供给已经不再仅由民族国家课程体系决定，而是日益受到全球竞争力话语的驱动。
 
 
 > [!abstract] 2. 行为与取向（Behaviors and Orientations）
 > 但仅技能不够。Moisio 援引 Hardt & Negri（2000, p.xiii）论证，知识密集型资本主义需要的不只是"具有某些技能的人"，还需要"交际性、合作性和情感性劳动"（communicative, cooperative, and affective labor）——即不仅知道*做什么*和*怎么做*，还要具备特定的情感和自我管理能力（Moisio, 2022, p.29）。
 >
-> 具体而言，这意味着理想的知识经济主体需要：
+> 具体而言，这意味着理想的[[Knowledge-Based Economy|知识经济]]主体需要：
 > - **交际能力**：在跨国、多文化团队中高效沟通
 > - **合作取向**：将自身视为网络中的节点，主动寻找"协同效应"
 > - **情感劳动**：管理自身情绪以服务客户和组织的需求——微笑、共情、"积极的能量"
@@ -118,7 +118,7 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 > [!example] 概念辨析
 > - vs 人力资本（Human Capital）：这是最关键的区分。人力资本概念的核心逻辑是"投资-回报"——个体通过教育获取技能，技能在市场上兑现为更高的工资。人力资本将教育问题框定为*效率*问题（如何最大化教育投资的经济回报）。地缘政治主体概念将教育问题重新框定为*权力*问题：国家通过教育系统在做什么？不是在分配投资机会，而是在*制造适应其竞争需求的人口类型*。前者问"教育值不值得花钱"，后者问"教育在把学生变成什么样的人，这种转变服务于谁的议程"
 >
-> - vs 创意阶层（Creative Class, Florida, 2002）：创意阶层是知识经济中的一种特定理想主体类型——强调创造力、生活方式偏好和文化消费；地缘政治主体是更广义的分析范畴，涵盖国家通过教育和制度实践系统性地塑造的各类适应全球竞争的主体性形态。创意阶层可以是地缘政治主体的一种具体变体（参见下文关于"创意创业者"的讨论），但地缘政治主体不一定都是"创意阶层"——一个被训练为全球金融服务业员工的毕业生同样是地缘政治主体
+> - vs 创意阶层（Creative Class, Florida, 2002）：创意阶层是[[Knowledge-Based Economy|知识经济]]中的一种特定理想主体类型——强调创造力、生活方式偏好和文化消费；地缘政治主体是更广[[Rightness|义]]的分析范畴，涵盖国家通过教育和制度实践系统性地塑造的各类适应全球竞争的主体性形态。创意阶层可以是地缘政治主体的一种具体变体（参见下文关于"创意创业者"的讨论），但地缘政治主体不一定都是"创意阶层"——一个被训练为全球金融服务业员工的毕业生同样是地缘政治主体
 >
 > - vs [[Geopolitics of Knowledge]]：知识地缘政治是广义的分析框架，关涉政治想象、空间重构、治理技术和全球-地方张力等多个维度；地缘政治主体是该框架中"主体生产"维度的核心概念——它回答的是：在知识地缘政治的空间重构中，需要什么样的人来填充这些新的空间？
 >
@@ -128,9 +128,9 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 
 - **创意创业者作为理想类型**：在[[Knowledge-Based Economization|知识经济化]]过程中，"创意创业者"（creative entrepreneur）被建构为理想的经济主体——"这一形象可以采取多种形式"——出现在集群、创意城市、创业城市、智慧城市、学习区域、创新中心等空间话语中（Moisio, 2022, p.27）
 - **大学的空间改造**：图书馆从智识闲暇的场所（Muße）转变为 makerspace 和创新创业中心，是大学作为地缘政治主体生产场所的物质证据（Thompson & Parreira do Amaral, 2022, pp.4–6）
-- **空间分选的主体维度**：[[Spatial Sortings]] 不仅分选地点，也分选人群——能够被塑造为地缘政治主体的个体（"跨国认知[[Jing (Refined Mastery)|精]]英"）成为赢家，无法或不愿接受这种塑造的人成为输家。Davidson & Rees-Mogg（1999）关于信息时代赢家与输家分化的预测，正是对地缘政治主体生产的不均衡后果的预见（Moisio, 2022, pp.31–32）
-- **企业教育作为主体生产的新场所**：Hartmann (2022) 将 Moisio 的地缘政治主体概念延伸至[[Corporate Education|企业教育]]领域。借鉴 James Scott（1998）"Seeing Like a State"的分析逻辑，Hartmann 提出企业教育的深层功能是让员工学会**"像公司一样看世界"（seeing like a company）**——这是一种特定的空间心态：员工将全球市场视为理所当然的行动空间，将 MNC 的利益内化为自身的认知框架（Hartmann, 2022, p.180）。与大学通过交换项目、全球校友网络和"全球公民"话语塑造地缘政治主体类似（Moisio, 2022, pp.29–30），MNCs 通过统一的管理培训、全球高潜力人才项目和标准化操作流程，也在制造适应全球[[Knowledge-Based Economy|知识经济]]竞争的主体类型。详见 [[Argument_Hartmann_2022_CorporateEducation]] 第一步
-- **"有前景的学生"作为教学领域的地缘政治主体变体**：Thompson 等人（2022, pp.221–226）分析的 [[Promising Student|有前景的学生]] 可被视为地缘政治主体在教学领域的具体变体。不同于 Moisio 关注的创意创业者和企业管理者，有前景的学生是在入学前就被 [[Online Self-Assessment|OSA]] 等数字化治理技术"装备"的主体形态——被装备的不是编程或跨文化沟通技能，而是一种特定的主体姿态：主动[[Matching|匹配]]意愿、持续自我优化、将学业成功视为个人风险管理。这一变体的特殊之处在于时间维度——主体形塑从入学前便开始运作，"[[Digital Optimum|完美起点]]"的理想形象在学生还未经受任何大学教育之前就被确立为参照标准（Thompson et al., 2022, pp.224–226）。
+- **[[Spatial Sortings|空间分选]]的主体维度**：[[Spatial Sortings]] 不仅分选地点，也分选人群——能够被塑造为地缘政治主体的个体（"跨国认知[[Jing (Refined Mastery)|精]]英"）成为赢家，无法或不愿接受这种塑造的人成为输家。Davidson & Rees-Mogg（1999）关于信息时代赢家与输家分化的预测，正是对地缘政治主体生产的不均衡后果的预见（Moisio, 2022, pp.31–32）
+- **[[Corporate Education|企业教育]]作为主体生产的新场所**：Hartmann (2022) 将 Moisio 的地缘政治主体概念延伸至[[Corporate Education|企业教育]]领域。借鉴 James Scott（1998）"Seeing Like a State"的分析逻辑，Hartmann 提出企业教育的深层功能是让员工学会**"像公司一样看世界"（seeing like a company）**——这是一种特定的空间心态：员工将全球市场视为理所当然的行动空间，将 MNC 的利益内化为自身的认知框架（Hartmann, 2022, p.180）。与大学通过交换项目、全球校友网络和"全球公民"话语塑造地缘政治主体类似（Moisio, 2022, pp.29–30），MNCs 通过统一的管理培训、全球高潜力人才项目和标准化操作流程，也在制造适应全球[[Knowledge-Based Economy|知识经济]]竞争的主体类型。详见 [[Argument_Hartmann_2022_CorporateEducation]] 第一步
+- **"[[Promising Student|有前景的学生]]"作为教学领域的地缘政治主体变体**：Thompson 等人（2022, pp.221–226）分析的 [[Promising Student|有前景的学生]] 可被视为地缘政治主体在教学领域的具体变体。不同于 Moisio 关注的创意创业者和企业管理者，有前景的学生是在入学前就被 [[Online Self-Assessment|OSA]] 等数字化治理技术"装备"的主体形态——被装备的不是编程或跨文化沟通技能，而是一种特定的主体姿态：主动[[Matching|匹配]]意愿、持续自我优化、将学业成功视为个人风险管理。这一变体的特殊之处在于时间维度——主体形塑从入学前便开始运作，"[[Digital Optimum|完美起点]]"的理想形象在学生还未经受任何大学教育之前就被确立为参照标准（Thompson et al., 2022, pp.224–226）。
 
 ---
 
@@ -138,8 +138,8 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 
 > [!info] 理论基础
 > - [[Knowledge-Based Economization]] — 为地缘政治主体概念提供了总体分析框架：经济化过程不仅涉及市场逻辑的扩展，还涉及"将人们——包括经济和政治行动者——的行为带入某种将保持积累体制运转的配置"（Harvey, 1978, p.121, cited in Moisio, 2022, p.29）
-> - Hardt & Negri（2000）的 Empire 理论 — 提供对知识密集型资本主义所需劳动类型的分析（交际性、合作性、情感性劳动），解释了为什么地缘政治主体不能仅被还原为技能
-> - Foucault 的治理术（governmentality）传统 — 隐性地支撑了对主体如何在制度性实践中被形塑的分析；Moisio 的主体"装备"概念与 Foucault 的"主体化"（subjectivation）过程虽未直接引用但存在分析上的亲和性（编者类比）
+> - Hardt & Negri（2000）的 Empire 理论 — 提供对知识密集型资本主[[Rightness|义]]所需劳动类型的分析（交际性、合作性、情感性劳动），解释了为什么地缘政治主体不能仅被还原为技能
+> - Foucault 的[[Governmentality|治理术]]（governmentality）传统 — 隐性地支撑了对主体如何在制度性实践中被形塑的分析；Moisio 的主体"装备"概念与 Foucault 的"主体化"（subjectivation）过程虽未直接引用但存在分析上的亲和性（编者类比）
 >
 
 ## 争议与批评

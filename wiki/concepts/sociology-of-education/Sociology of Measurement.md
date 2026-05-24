@@ -27,7 +27,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > Sociology of Measurement（测量社会学）是 Steve Woolgar 提出的分析框架，将 measurement 视为一种"技术"（technology），关注测量的两个关键维度：instrumentalism（工具主义——事物如何被"弄到能用"的实用操作）与 performativity（施行性——测量不只是描述世界，更是制造世界）（Gorur, 2014, p.6–7）。
 >
 > > 测量社会学关注"测量实践的工具主义（使事物在实用意义上'运作'的方式）以及仪器的使用"（Woolgar, 1991b; Gorur, 2014, p.6–7）
@@ -37,19 +37,19 @@ updated: '2026-05-18'
 > [!note-] 历史沿革
 > - Woolgar (1991a, 1991b) 最早提出该框架（Gorur, 2014, p.6, 18）
 > - Derksen (2000) 在 DNA 鉴定案例中进一步发展了测量社会学（Gorur, 2014, p.6）
-> - Gorur (2014) 将其应用于教育政策领域，研究 OECD 国际教育指标的发展（Gorur, 2014, p.6–7）
+> - Gorur (2014) 将其应用于教育政策领域，研究 OECD [[International Education|国际教育]]指标的发展（Gorur, 2014, p.6–7）
 > - Gorur (2014) 在 *European Educational Research Journal* 中进一步阐述了"迈向教育政策中的测量技术社会学"（Gorur, 2014, p.18）
 
 ## 核心要素
 
-> [!abstract] Instrumentalism（工具主义）
-> 关注测量实践中如何解决实际问题——约束如何被处理、利益如何被翻译、分类如何被定义、框架如何被协商、方法如何被建立、协议如何被制定。Gorur 以 INES 为案例展示了：面对技术不可行性，科学家放弃理论模型，采用以可用性为导向的经验方法（Gorur, 2014, p.8–12）。
+> [!abstract] Instrumentalism（工具主[[Rightness|义]]）
+> 关注测量实践中如何解决实际问题——约束如何被处理、利益如何被翻译、分类如何被定义、框架如何被协商、方法如何被建立、协议如何被制定。Gorur 以 [[International Indicators of Education Systems (INES)|INES]] 为案例展示了：面对技术不可行性，科学家放弃理论模型，采用以可用性为导向的经验方法（Gorur, 2014, p.8–12）。
 
 
 > [!abstract] Performativity（施行性 / 生产性）
 > 测量一旦开始，就作用于世界，改变优先事项、影响行为、政策和实践。这是"世界制造"过程（Knorr Cetina, 1999; Law, 2009a; Pickering, 1995; Gorur, 2014, p.7, 17–18）。
 >
-> > 例：EAG 指标存在本身就产生了政治压力——教师和学校可能试图影响数据以利于自身，或影响指标的选择（Oakes, 1986; Gorur, 2014, p.18）（Gorur, 2014, p.18）
+> > 例：[[Education at a Glance (EAG)|EAG]] 指标存在本身就产生了政治压力——教师和学校可能试图影响数据以利于自身，或影响指标的选择（Oakes, 1986; Gorur, 2014, p.18）（Gorur, 2014, p.18）
 
 ## 与相关概念的区别
 
@@ -69,7 +69,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > Gorur 以 OECD 指标开发为案例展示测量社会学的应用：
-> - INES 项目通过一系列"排序"操作（Berg & Timmermans, 2000; Bowker & Star, 2000; Law, 1994）将多样化世界标准化（Gorur, 2014, p.9–10）
+> - [[International Indicators of Education Systems (INES)|INES]] 项目通过一系列"排序"操作（Berg & Timmermans, 2000; Bowker & Star, 2000; Law, 1994）将多样化世界标准化（Gorur, 2014, p.9–10）
 > - "共识"可视为一种"转译"（Callon, 1986; Latour, 1999），它消除或最小化阻碍（Gorur, 2014, p.17）
 > - 方法论的程序化产生了一种"机械客观性"（Porter, 1995），为政策制定者所珍视（Gorur, 2014, p.17）
 

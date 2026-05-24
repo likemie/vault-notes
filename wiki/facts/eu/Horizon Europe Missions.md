@@ -55,7 +55,7 @@ updated: '2026-05-18'
 > [!success] 实施影响
 > Thompson 和 Parreira do Amaral (2022, pp.11–12) 指出，Horizon Europe 进一步深化了 Horizon 2020 中 SSH 整合的逻辑——SSH 的"嵌入式"角色"被固化并放大"（cemented and amplified）——学术研究被要求直接服务于预设的政治使命。这一发展引发了对教育研究的认识论自主性和学科多样性的担忧（Parreira do Amaral, 2022, pp.42, 49）。
 >
-> Parreira do Amaral (2022) 进一步从[[Geopolitics of Knowledge|知识地缘政治]]视角解释：Horizon Europe Missions 是将欧盟的地缘政治目标（全球知识经济中的竞争优势）转化为研究治理结构的核心制度机制——"mission"的话语将研究包装为对特定社会挑战的"承诺"，同时使研究资源向技术和自然科学倾斜的学科间层级被自然化（Parreira do Amaral, 2022, pp.48–49）。
+> Parreira do Amaral (2022) 进一步从[[Geopolitics of Knowledge|知识地缘政治]]视角解释：Horizon Europe Missions 是将欧盟的地缘政治目标（全球[[Knowledge-Based Economy|知识经济]]中的竞争优势）转化为研究治理结构的核心制度机制——"mission"的话语将研究包装为对特定社会挑战的"承诺"，同时使研究资源向技术和自然科学倾斜的学科间层级被自然化（Parreira do Amaral, 2022, pp.48–49）。
 
 ## 相关概念／理论
 

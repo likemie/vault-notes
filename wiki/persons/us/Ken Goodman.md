@@ -27,15 +27,15 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Ken Goodman 是美国教育研究者，全语言（Whole Language）运动的最具影响力的创始人。他的 1967 年里程碑文章 *Reading: A Psycholinguistic Guessing Game*（阅读：一个心理语言学的猜测游戏）发表于 *Journal of the Reading Specialist*，为 1970 年代全语言运动的兴起奠定了理论基础（O'Connor, 2020, p.143）。
+> Ken Goodman 是美国教育研究者，[[Whole Language|全语言]]（Whole Language）运动的最具影响力的创始人。他的 1967 年里程碑文章 *Reading: A Psycholinguistic Guessing Game*（阅读：一个心理语言学的猜测游戏）发表于 *Journal of the Reading Specialist*，为 1970 年代全语言运动的兴起奠定了理论基础（O'Connor, 2020, p.143）。
 
 ## 核心思想
 
 > [!info] 阅读作为心理语言学过程
-> Goodman（1967）提出阅读不是一个精确的、逐字的解码过程，而是一个"心理语言学猜测游戏"——读者利用三种线索系统（语义、句法、字形）预测和建构文本意义，并在阅读过程中不断验证和修正这些预测（O'Connor, 2020, p.143）。
+> Goodman（1967）提出阅读不是一个[[Jing (Refined Mastery)|精]]确的、逐字的解码过程，而是一个"心理语言学猜测游戏"——读者利用三种线索系统（语[[Rightness|义]]、句法、字形）预测和建构文本意义，并在阅读过程中不断验证和修正这些预测（O'Connor, 2020, p.143）。
 
 
-> [!info] 全语言的定义与边界
+> [!info] [[Whole Language|全语言]]的定义与边界
 > Goodman（2005, pp.35-36）系统阐述了全语言"坚决拒绝"的做法（O'Connor, 2020, p.143）：
 >
 > - 孤立技能序列
@@ -62,22 +62,22 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Goodman, K.S. (1967). Reading: A psycholinguistic guessing game. *Journal of the Reading Specialist*, 6(4), 126–135. — 为全语言运动奠定基础的里程碑文章
+> - Goodman, K.S. (1967). Reading: A psycholinguistic guessing game. *Journal of the Reading Specialist*, 6(4), 126–135. — 为[[Whole Language|全语言]]运动奠定基础的里程碑文章
 > - Goodman, K.S. (1989). Whole-language research: Foundations and development. *The Elementary School Journal*, 90(2), 207–221. — 系统阐述全语言的研究基础
-> - Goodman, K. (2005). *What's whole in Whole Language: 20th anniversary edition*. Berkeley, California: RDR Books. — 被视为全语言定义的广泛引用的著作
+> - Goodman, K. (2005). *What's whole in Whole Language: 20th anniversary edition*. [[George Berkeley|Berkeley]], California: RDR Books. — 被视为全语言定[[Rightness|义]]的广泛引用的著作
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 在社会文化层面，全语言运动与 1960–1970 年代美国的民权运动和其他社会运动紧密相连。Y. Goodman（1989）指出，这些发展"使承认和尊重个体文化和语言差异的以儿童为中心的读写教学具有更大的紧迫性"（O'Connor, 2020, p.150）
-> - Goodman 的心理语言学阅读模型挑战了当时主导的行为主义阅读教学范式，将焦点从可观察的技能表现转向读者的认知过程
+> - 在社会文化层面，[[Whole Language|全语言]]运动与 1960–1970 年代美国的民权运动和其他社会运动紧密相连。Y. Goodman（1989）指出，这些发展"使承认和尊重个体文化和语言差异的以儿童为中心的读写教学具有更大的紧迫性"（O'Connor, 2020, p.150）
+> - Goodman 的心理语言学阅读模型挑战了当时主导的行为主[[Rightness|义]]阅读教学范式，将焦点从可[[Observational and Correlational Research|观察]]的技能表现转向读者的认知过程
 > - 全语言运动深刻影响了英语国家的读写教学，同时也引发了激烈的"阅读战争"——与系统合成语音（synthetic phonics）支持者之间的长期公开辩论
 
 ## 争议与批评
 
 > [!warning] 争议与批评
 > - Goodman 的"心理语言学猜测游戏"模型被合成语音支持者批评为忽视了字母-声音对应关系在阅读发展中的关键作用
-> - 全语言在 Hattie（2009）的 *Visible Learning* 中被评为效应量 d=0.06（接近零效果），但 O'Connor（2020）论证这一评估基于方法论上存在缺陷的元分析聚合
+> - [[Whole Language|全语言]]在 [[John Hattie|Hattie]]（2009）的 *[[Visible Learning]]* 中被评为[[Effect Size|效应量]] d=0.06（接近零效果），但 O'Connor（2020）论证这一评估基于方法论上存在缺陷的[[Meta-analysis|元分析]]聚合
 
 ## 来源
 

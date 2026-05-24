@@ -33,7 +33,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - 编辑 IJRME 特刊 *Is the educational 'what works' agenda working? Critical methodological developments*（2016），系统组织从正统 RCT 方法到批判视角的七篇论文，提出 agency（能动性）作为理解该辩论核心哲学分歧的关键维度
+> - 编辑 IJRME 特刊 *Is the educational 'what works' agenda working? Critical methodological developments*（2016），系统组织从正统 [[Randomised Controlled Trials|RCT]] 方法到批判视角的七篇论文，提出 agency（能动性）作为理解该辩论核心哲学分歧的关键维度
 > - 开发替代性学习结果测量工具，测量高等教育中的学习倾向（Pampaka et al., 2013）
 
 ## 主要著作
@@ -45,7 +45,7 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 与 Julian Williams 合作研究"什么有效"议程及其方法论局限
+> - 与 [[Julian Williams]] 合作研究"什么有效"议程及其方法论局限
 > - 关注以学习者能动性为中心的替代评估范式
 
 ## 争议与批评

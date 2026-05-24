@@ -41,7 +41,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> 2018 年框架把能力定义为学习者为个人实现与发展、就业能力、社会包容、可持续生活方式、和平社会中的成功生活、健康生活管理和积极公民身份所需的知识、技能和态度的动态组合（Pellegrini & Vivanet, 2021, p.39）。
+> 2018 年框架把能力定[[Rightness|义]]为学习者为个人实现与发展、[[Employability|就业能力]]、社会包容、可持续生活方式、和平社会中的成功生活、健康生活管理和积极公民身份所需的知识、技能和态度的动态组合（Pellegrini & Vivanet, 2021, p.39）。
 
 框架列出八项关键能力：读写能力，多语言能力，数学能力以及科学、技术和工程能力，数字能力，个人、社会和学会学习能力，公民能力，创业能力，文化意识与表达能力（Pellegrini & Vivanet, 2021, p.39）。
 
@@ -59,7 +59,7 @@ updated: 2026-05-23
 ## 效果与评价
 
 > [!success]
-> Pellegrini & Vivanet 将该框架放入 [[Evidence-Based Reform|证据本位改革]] 的欧洲挑战中：基础读写知识和技能已有较成熟的评估与项目证据，但多维能力更难设计有效干预和评价工具。能力评估必须满足公平、可靠、有效、以学习者为中心等原则（Pellegrini & Vivanet, 2021, pp.40-41）。
+> Pellegrini & Vivanet 将该框架放入 [[Evidence-Based Reform|证据本位改革]] 的欧洲挑战中：基础读写知识和技能已有较成[[Shu (Familiarization)|熟]]的评估与项目证据，但多维能力更难设计有效干预和评价工具。能力评估必须满足公平、可靠、有效、以学习者为中心等原则（Pellegrini & Vivanet, 2021, pp.40-41）。
 
 > [!info]- 核心数据
 > - 八项关键能力（Pellegrini & Vivanet, 2021, p.39）
@@ -74,7 +74,7 @@ updated: 2026-05-23
 ## 相关概念／理论
 
 > [!tip]
-> - [[Argument_Pellegrini_2021_ROE]] — 该政策是欧洲证据本位改革面临评估复杂性的核心案例。
+> - [[Argument_Pellegrini_2021_ROE]] — 该政策是欧洲[[Evidence-Based Reform|证据本位改革]]面临评估复杂性的核心案例。
 > - [[EU Evidence-Informed Education Policy Initiatives]] — 该框架与欧盟证据知情政策共同构成欧洲教育治理背景。
 
 ## 来源

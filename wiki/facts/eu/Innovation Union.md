@@ -87,7 +87,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 > [!success]
 > - Innovation Union 成功将"创新生态体系"建构为欧盟政策话语中的核心概念，使区域成为创新政策的基本治理单元（Rambla, 2022, p.175）
-> - 政策通过绩效指标和区域排名有效地动员了各成员国和区域的竞争意识（p.165）
+> - 政策通过[[Performance Indicators|绩效指标]]和区域排名有效地动员了各成员国和区域的竞争意识（p.165）
 
 ### 结构性局限
 
@@ -102,7 +102,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 > [!warning]
 > - **区域同质化假设**：Innovation Union 假设所有欧盟区域——无论其经济发展水平、制度传统和创新能力如何——都应且能够成为同一类型的"创新生态体系"。这一假设忽视了区域之间在产业结构、人力资本、制度能力等维度上的根本结构性差异（Rambla, 2022, p.174）
-> - **创新定义的窄化**：通过将创新操作化为研发支出、专利数量和科技人员数量，Innovation Union 在话语上排除了社会创新、文化创新和基层互助创新。这一操作化定义的窄化并非技术必然，而是一种政治选择——但它被指标的"客观性"外表所遮蔽（p.174–175）
+> - **创新定[[Rightness|义]]的窄化**：通过将创新操作化为研发支出、专利数量和科技人员数量，Innovation Union 在话语上排除了社会创新、文化创新和基层互助创新。这一操作化定义的窄化并非技术必然，而是一种政治选择——但它被指标的"客观性"外表所遮蔽（p.174–175）
 > - **与 [[EU Skills Agenda]] 的协调问题**：两个旗舰政策共享"协同演化"的变革理论（[[Theories of Policy Change]]），但在治理实践中，通过模糊此前分离的政策领域边界，为代表不同层级政府的行动者带来了大量协调问题——这些在政策设计中未被充分预见（p.169）
 
 ## 相关概念／理论
@@ -110,8 +110,8 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 > [!tip]
 > - [[Performance Indicators]] — 区域创新记分牌是绩效指标作为政策工具的典型案例
 > - [[Theories of Policy Change]] — Innovation Union 承载"创新生态体系→经济增长"的核心因果叙事
-> - [[Selectivity]] — Innovation Union 通过指标定义"什么是创新"，系统性地优先技术研发型创新
-> - [[EU Skills Agenda]] — 同为 Europe 2020 旗舰，共享"创新+教育协同演化"的变革理论
+> - [[Selectivity]] — Innovation Union 通过指标定[[Rightness|义]]"什么是创新"，系统性地优先技术研发型创新
+> - [[EU Skills Agenda]] — 同为 [[Europe 2020 Strategy|Europe 2020]] 旗舰，共享"创新+教育协同演化"的变革理论
 > - [[Europe 2020 Strategy]] — Innovation Union 所属的十年战略框架
 
 ## 来源

@@ -38,7 +38,7 @@ updated: '2026-05-23'
 
 ### 内生与外生私有化（Ball & Youdell, 2008）
 
-Ball 与 Youdell（2008）在提交给 Education International 的报告中识别了全球公立学校政策的两种私有化趋势：内生私有化（学校变得更像企业）和外生私有化（将私营部门带入公立学校）。这一区分成为分析全球教育私有化的核心概念框架（O'Neill et al., 2016, p.4）。详见 [[Endogenous and Exogenous Privatisation]]。
+Ball 与 Youdell（2008）在提交给 Education International 的报告中识别了全球公立学校政策的两种私有化趋势：内生私有化（学校变得更像企业）和外生私有化（将私营部门带入公立学校）。这一区分成为分析全球[[Endogenous and Exogenous Privatisation|教育私有化]]的核心概念框架（O'Neill et al., 2016, p.4）。详见 [[Endogenous and Exogenous Privatisation]]。
 
 ### 教育政策制定的五重语境（Ball, 1994）
 
@@ -55,7 +55,7 @@ Ball（2012）将 Mintrom（2000）的政策创业者概念扩展至跨国维度
 
 ### 网络治理
 
-Ball 的工作为理解教育中网络治理模式（network governance modality）提供了理论基础——传统的市场与科层治理形式如何被新的政策网络形式所补充或取代。参见 [[Network Governance]]。
+Ball 的工作为理解教育中[[Network Governance|网络治理]]模式（network governance modality）提供了理论基础——传统的市场与科层治理形式如何被新的政策网络形式所补充或取代。参见 [[Network Governance]]。
 
 ### 教育社会学史与治理视角（Ball, 2008）
 

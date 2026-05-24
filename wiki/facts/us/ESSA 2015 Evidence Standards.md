@@ -32,7 +32,7 @@ updated: '2026-05-23'
 ## 概述
 
 > [!info] 概述
-> The **Every Student Succeeds Act (ESSA)** 于 2015 年 12 月由奥巴马总统签署成为法律，取代了 2001 年的 No Child Left Behind Act (NCLB)，作为美国联邦教育的主法。ESSA 在联邦法律中定义了教育项目的证据层级，并将部分联邦拨款与使用达到证据标准的项目绑定。
+> The **Every Student Succeeds Act (ESSA)** 于 2015 年 12 月由奥巴马总统签署成为法律，取代了 2001 年的 No Child Left Behind Act ([[No Child Left Behind Act 2001|NCLB]])，作为美国联邦教育的主法。ESSA 在联邦法律中定[[Rightness|义]]了教育项目的证据层级，并将部分联邦拨款与使用达到证据标准的项目绑定。
 >
 > > ESSA requires that low-achieving schools seeking school improvement grants adopt programs that meet one of the three definitions. (Slavin, 2019, p. 3)
 
@@ -44,8 +44,8 @@ updated: '2026-05-23'
 > | 等级 | 英文 | 研究方法要求 | 最低研究数量 |
 > |------|------|------------|------------|
 > | **强** | Strong | 设计良好且实施良好的**实验研究**（随机分配，randomized design） | 至少 1 项 |
-> | **中** | Moderate | 设计良好且实施良好的**准实验研究**（匹配样本，matched or quasi-experimental design） | 至少 1 项 |
-> | **有希望** | Promising | 设计良好且实施良好的**相关研究**（统计控制选择偏差，correlational design with statistical controls for selection bias） | 至少 1 项 |
+> | **中** | Moderate | 设计良好且实施良好的**准实验研究**（[[Matching|匹配]]样本，matched or [[Quasi-Experimental Designs|quasi-experimental design]]） | 至少 1 项 |
+> | **有希望** | Promising | 设计良好且实施良好的**[[Observational and Correlational Research|相关研究]]**（统计控制选择偏差，correlational design with statistical controls for selection bias） | 至少 1 项 |
 >
 > 所有层级均需至少一项严格研究证明**统计显著**的正向效果，且**无研究显示负面效果**（Wolf et al., 2020, p. 428）。
 
@@ -59,7 +59,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 > - **测量工具**：必须独立于项目开发者或研究者
 > - **样本量和持续时间**：需要足够的样本量和研究持续时间（Evidence for ESSA 要求最少 12 周）
 > - **聚类分析**：对学校或班级层面的干预，必须在聚类层面进行统计分析（如 HLM，Raudenbush & Bryk, 2002）——通常需要 40–50 所学校
-> - **前测匹配**：准实验和相关性研究要求在成就和人口统计变量上前测匹配
+> - **前测[[Matching|匹配]]**：准实验和相关性研究要求在成就和人口统计变量上前测匹配
 
 ## 激励机制
 
@@ -72,21 +72,21 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 >
 > 部分州走得更远：
 > - **亚利桑那、路易斯安那、内华达、明尼苏达、北卡罗来纳、罗德岛** 将 ESSA 标准扩展为**州级**拨款条件
-> - 某些州（如 AZ、LA）将可选范围限制在强和中两级（排除"有希望"）
+> - 某些州（如 AZ、[[Learning Analytics|LA]]）将可选范围限制在强和中两级（排除"有希望"）
 
 ## ESSA 的"严格与宽松"
 
 > [!info] ESSA 的"严格与宽松"
 > Slavin (2019) 指出 ESSA 标准兼具严格性和宽松性：
-> - **严格**：强和中两级要求随机分配或仔细匹配的预注册样本、独立测量工具、充分样本量和持续时间、适当分析
+> - **严格**：强和中两级要求随机分配或仔细[[Matching|匹配]]的[[Preregistration|预注册]]样本、独立测量工具、充分样本量和持续时间、适当分析
 > - **宽松**：项目仅需**一项**研究即可达标——这意味着随着更多严格研究完成，标准在未来可能收紧
 
 ## 历史意义
 
-> [!success] 历史意义
+> [!success] 历史意[[Rightness|义]]
 > - ESSA 首次将联邦拨款与具体的项目级有效性证据绑定——从此 "evidence-based" 从理念变为有法律强制力的政策杠杆
 > - 推动创建了 Evidence for ESSA（JHU 平台，月活 70,000+），直接面向教育领导者报告哪些项目满足 ESSA 标准
-> - 取代了 NCLB 不受欢迎的"适当年度进步"（AYP）问责框架，将政策重心从"惩罚低绩效学校"转向"为低绩效学校提供经过验证的改进方案"
+> - 取代了 [[No Child Left Behind Act 2001|NCLB]] 不受欢迎的"适当年度进步"（AYP）问责框架，将政策重心从"惩罚低绩效学校"转向"为低绩效学校提供经过验证的改进方案"
 > - 相比 NCLB 时代，ESSA 证据层级对开发者、实践者和研究者更具现实后果，因为州和学区开始把这些层级正式用于项目审核与批准（Ross & Morrison, 2021, p.109）
 
 ## 来源

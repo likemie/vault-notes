@@ -28,7 +28,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 自 1989 年 Tomorrow's Schools 改革后，新西兰的学校支持服务（如课程专业发展、评估支持、教学咨询等）主要由大学教育学院通过教育部合同提供。2011 年，教育部将这一体系转为竞争性招标（contestable），允许私营和非营利组织竞标此前由大学垄断的服务合同（O'Neill et al., 2016, p.xii）。
+> 自 1989 年 [[Tomorrow's Schools Reforms (NZ 1989)|Tomorrow's Schools]] 改革后，新西兰的学校支持服务（如课程专业发展、评估支持、教学咨询等）主要由大学教育学院通过教育部合同提供。2011 年，教育部将这一体系转为竞争性招标（contestable），允许私营和非营利组织竞标此前由大学垄断的服务合同（O'Neill et al., 2016, p.xii）。
 
 ## 政策内容
 
@@ -45,13 +45,13 @@ updated: '2026-05-18'
 
 > [!example] 实施情况
 > - **CORE Education** 显著受益：其年收入从 2010 年的 USD 7.8M 增长至 2015 年的 USD 22.7M，员工从 55 人增至 180 人，约 85% 的年收入来自教育部合同（O'Neill et al., 2016, pp.xii, 82）
-> - **Cognition Education** 在同一时期（后全球金融危机）收入从 USD 69M (2010) 降至 USD 28M (2015)，尽管服务转为竞争性招标（O'Neill et al., 2016, pp.71）
-> - 这一政策加强了 EMO 在新西兰公立学校教育服务市场中的地位
+> - **[[Cognition Education (NZ)|Cognition Education]]** 在同一时期（后全球金融危机）收入从 USD 69M (2010) 降至 USD 28M (2015)，尽管服务转为竞争性招标（O'Neill et al., 2016, pp.71）
+> - 这一政策加强了 [[Educational Management Organisation (EMO)|EMO]] 在新西兰公立学校教育服务市场中的地位
 
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - 支持方（政府）：较小的私营慈善机构因管理费用较低和精细化的服务合同而提供更优性价比（O'Neill et al., 2016, p.xvii）
+> - 支持方（政府）：较小的私营慈善机构因管理费用较低和[[Jing (Refined Mastery)|精]]细化的服务合同而提供更优性价比（O'Neill et al., 2016, p.xvii）
 > - 批评方：竞争性招标可能使资金更多流向私营 EMOs 而非公共教育系统本身，且缺乏透明评估来确定合同外包是否真正优于公共部门直接提供服务（O'Neill et al., 2016, p.xvii）
 
 ## 相关概念

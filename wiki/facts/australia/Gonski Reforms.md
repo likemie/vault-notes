@@ -42,9 +42,9 @@ updated: '2026-05-18'
 > - **Gonski et al. (2011)**：*Review of Funding for Schooling: Final Report* — 首次系统审查澳大利亚学校教育拨款
 > - **Gonski et al. (2018)**：*Through Growth to Achievement: Report of the Review to Achieve Educational Excellence in Australian Schools* — 第二轮审查（即"Gonski 2.0"），于 2018 年 4 月 30 日发布
 >
-> 改革旨在返回 Karmel Report 1973 年启动的需求本位拨款模型，基于学生需求指标（原住民身份、地理位置、学校规模、SES、残疾）分配额外资源（Keddie et al., 2020, IJLE, p.11）。
+> 改革旨在返回 [[Karmel Report 1973]] 年启动的需求本位拨款模型，基于学生需求指标（原住民身份、地理位置、学校规模、SES、残疾）分配额外资源（Keddie et al., 2020, IJLE, p.11）。
 >
-> Gonski 2.0 的核心创新在于重新定义"成功学习"：**不是以年龄基准（age-based expectations）衡量，而是以个体取得的进步（progress individuals make）衡量，无论起点如何**。David Gonski 本人认识到"当人们被教授他们已经知道的内容或缺乏成功所需的先前知识或技能时，学习不太可能发生"（Masters, cited in Sarbiewska, 2019, p.127）。这一视角将教育公平的关注点从"投入平等"转向"成长平等"。
+> Gonski 2.0 的核心创新在于重新定[[Rightness|义]]"成功学习"：**不是以年龄基准（age-based expectations）衡量，而是以个体取得的进步（progress individuals make）衡量，无论起点如何**。David Gonski 本人认识到"当人们被教授他们已经知道的内容或缺乏成功所需的先前知识或技能时，学习不太可能发生"（Masters, cited in Sarbiewska, 2019, p.127）。这一视角将教育公平的关注点从"投入平等"转向"成长平等"。
 
 ## 时间线
 
@@ -59,14 +59,14 @@ updated: '2026-05-18'
 > 利益相关者虽然欢迎这些改革，但指出其局限性（Keddie et al., 2020, IJLE, p.11）：
 >
 > - **透明度缺失**："钱并不总是到达公式指定的[领域]"（如原住民身份、地理位置、学校规模、SES、残疾）（Kurt, bureaucrat, QLD, p.11）
-> - **精细度不足**：未能充分识别农村/偏远地区学校的特殊需求——"你可以在一个偏远的原住民学校，你每人获得的钱比[其他]州立学校多，但这笔钱不足以让教师飞到区域或大都市首府参加常规[专业发展]；也不足以让你飞入心理学家"（Kurt, bureaucrat, QLD, p.11）
+> - **[[Jing (Refined Mastery)|精]]细度不足**：未能充分识别农村/偏远地区学校的特殊需求——"你可以在一个偏远的原住民学校，你每人获得的钱比[其他]州立学校多，但这笔钱不足以让教师飞到区域或大都市首府参加常规[专业发展]；也不足以让你飞入心理学家"（Kurt, bureaucrat, QLD, p.11）
 > - **结构性不平等的维持**：改革保证"没有学校会变得更糟"——包括已经资源充足的私立学校——因此"来自 Gonski 改革的任何额外资金在分配至三个系统时，确保没有学校（包括私立部门中已经资源充足的学校）会变得更糟"（Gonski et al., 2011，引自 Keddie et al., 2020, IJLE, p.12-13）
 
 ## 效果与评价
 
 > [!success] 效果与评价
-> - **积极面**：被利益相关者视为关键的"补偿机制"（compensatory mechanisms），可在一定程度上缓解市场话语和实践对社会正义的破坏（Keddie et al., 2020, IJLE, p.11-12）
-> - **局限性**：在分配缺乏透明度和精细度、缺乏行政支持时，需求本位拨款的补偿能力受到根本性削弱（Keddie et al., 2020, IJLE, p.12）
+> - **积极面**：被利益相关者视为关键的"补偿机制"（compensatory mechanisms），可在一定程度上缓解市场话语和实践对社会正[[Rightness|义]]的破坏（Keddie et al., 2020, IJLE, p.11-12）
+> - **局限性**：在分配缺乏透明度和[[Jing (Refined Mastery)|精]]细度、缺乏行政支持时，需求本位拨款的补偿能力受到根本性削弱（Keddie et al., 2020, IJLE, p.12）
 > - **结构性批评**：在当前的公私混合拨款模式下，需求本位拨款"对缓解嵌入教育系统的结构性资源分配不公几乎无能为力"——这种不公源于（1）非公立部门获得慷慨公共拨款的模式，和（2）各学校从社区和其他来源获取资源的巨大差异性能力（Keddie et al., 2020, IJLE, p.12）
 
 ## 争议与评论
@@ -80,7 +80,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／理论
 > - [[School Autonomy]] — Gonski 改革在权力下放和学校自主权的背景下运作
 > - [[Karmel Report 1973]] — Gonski 改革试图回归 Karmel 的需求本位拨款原则
-> - [[New Public Management]] — NPM 的市场逻辑与新自由主义拨款模式的关系
+> - [[New Public Management]] — NPM 的市场逻辑与新自由主[[Rightness|义]]拨款模式的关系
 
 ## 来源
 

@@ -38,8 +38,8 @@ updated: '2026-05-23'
 
 ## 定义
 
-> [!info] 定义
-> 本地知识（Local Knowledge）指从业者通过直接经验、对本地情境的深入了解和专业判断所形成的知识，它不同于正式科学研究证据，但被多项研究认定为证据本位政策成功实施的不可或缺的组成部分。
+> [!info] 定[[Rightness|义]]
+> 本地知识（Local Knowledge）指从业者通过直接经验、对本地情境的深入了解和[[Professional Judgment|专业判断]]所形成的知识，它不同于正式科学研究证据，但被多项研究认定为证据本位政策成功实施的不可或缺的组成部分。
 >
 > > "Local knowledge... may be essential to growing and sustaining school improvement efforts. Furthermore, practitioner knowledge may help... use the more formal types of evidence... by giving meaning to information and suggesting viable courses of action."（Honig and Coburn, 2007, p.601; 引自 Cowen et al., 2015, p.14）
 >
@@ -50,7 +50,7 @@ updated: '2026-05-23'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> 本地知识的概念在证据本位政策文献中经历了从被贬低到被重新评价的过程。早期 EBP 推动者倾向于将本地知识和专业判断视为需要被科学证据取代的"轶事"或"直觉"（Cowen et al., 2015, p.14）。然而，随着实施研究的积累，越来越多的证据表明缺乏本地知识的纯证据驱动方案往往在实践中失败。Oliver et al. (2014) 对 145 项研究的系统综述发现"非正式证据"——包括本地数据和默会知识——在超过三分之一的研究中被认为是成功实施的关键因素（Cowen et al., 2015, p.12）。
+> 本地知识的概念在证据本位政策文献中经历了从被贬低到被重新评价的过程。早期 EBP 推动者倾向于将本地知识和[[Professional Judgment|专业判断]]视为需要被科学证据取代的"轶事"或"直觉"（Cowen et al., 2015, p.14）。然而，随着实施研究的积累，越来越多的证据表明缺乏本地知识的纯证据驱动方案往往在实践中失败。Oliver et al. (2014) 对 145 项研究的系统综述发现"非正式证据"——包括本地数据和默会知识——在超过三分之一的研究中被认为是成功实施的关键因素（Cowen et al., 2015, p.12）。
 
 ## 核心要素
 
@@ -91,8 +91,8 @@ updated: '2026-05-23'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Cartwright's Three-Stage Knowledge Framework]] — RCT 不能自动告诉你"在这里是否有效"，这个判断需要理解本地支持因素，而本地支持因素只能通过本地知识来识别
-> - Dewey 实用主义认识论 — 知识的价值在于其对具体情境中行动的指导能力
+> - [[Cartwright's Three-Stage Knowledge Framework]] — [[Randomised Controlled Trials|RCT]] 不能自动告诉你"在这里是否有效"，这个判断需要理解本地支持因素，而本地支持因素只能通过本地知识来识别
+> - Dewey 实用主[[Rightness|义]]认识论 — 知识的价值在于其对具体情境中行动的指导能力
 > - Hayek (1945) 的知识问题 — Wiliam (2019) 引入 Hayek 的经典论证：社会中关键知识是分散的、默会的、情境特定的——"特定时间和地点环境的知识"无法被任何中央权威汇总或替代。这为本地知识在 EBP 中的角色提供了政治经济学基础（Wiliam, 2019, pp.12–13）
 
 ## 实证发现
@@ -101,8 +101,8 @@ updated: '2026-05-23'
 > - Oliver et al. (2014) 对 145 项研究的综述发现："非正式证据"（本地数据、默会知识）在超过三分之一的研究中被列为成功实施的关键（Cowen et al., 2015, p.12）
 > - Honig & Coburn (2007) 对 50+ 项研究的综述发现：学区中央办公室管理者严重依赖从业者知识和本地知识（Cowen et al., 2015, p.14）
 > - 教师访谈中几乎所有受访者都强调了本地情境因素（Cowen et al., 2015, p.27-28）
-> - Tennessee STAR 案例：参与学校系统性不同于全州平均——规模更大、非裔学生比例高出 40%（Hanushek, 1999）——忽视这一本地特征导致加州对"STAR 成功可复制"的错误假设（Wiliam, 2019, p.6）
-> - [[Students and Teachers Accessing Tomorrow (STAT)]] 案例显示，同一组形成性评价证据会因为利益相关者重视的目标不同而被解释为“进展明显”或“成就无效”；这说明本地知识也包含对地方价值排序的理解（Ross & Morrison, 2021, pp.122-123）。
+> - Tennessee [[Tennessee STAR Project 1985-1989|STAR]] 案例：参与学校系统性不同于全州平均——规模更大、非裔学生比例高出 40%（Hanushek, 1999）——忽视这一本地特征导致加州对"STAR 成功可复制"的错误假设（Wiliam, 2019, p.6）
+> - [[Students and Teachers Accessing Tomorrow (STAT)]] 案例显示，同一组[[Formative Evaluation|形成性评价]]证据会因为利益相关者重视的目标不同而被解释为“进展明显”或“成就无效”；这说明本地知识也包含对地方价值排序的理解（Ross & Morrison, 2021, pp.122-123）。
 
 ## 争议与批评
 

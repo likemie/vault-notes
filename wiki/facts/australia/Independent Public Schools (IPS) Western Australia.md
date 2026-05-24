@@ -32,9 +32,9 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 独立公立学校（Independent Public Schools, IPS）是西澳大利亚州（WA）的学校自主权改革政策，被 Keddie et al.（2020, IJLE, p.2）描述为"近期该州公立教育系统最激进的改组"。
+> 独立公立学校（Independent Public Schools, IPS）是西澳大利亚州（WA）的[[School Autonomy|学校自主权]]改革政策，被 Keddie et al.（2020, IJLE, p.2）描述为"近期该州公立教育系统最激进的改组"。
 >
-> IPS 于 2010 年起在 WA 引入，是澳大利亚学校自主权改革从 1973 年 Karmel Report 的参与式民主理念向新自由主义效率与问责理念历史性转变的典型案例（Keddie et al., 2020, IJLE, p.2）。
+> IPS 于 2010 年起在 WA 引入，是澳大利亚学校自主权改革从 1973 年 Karmel Report 的参与式民主理念向新自由主[[Rightness|义]]效率与问责理念历史性转变的典型案例（Keddie et al., 2020, IJLE, p.2）。
 
 ## 政策文本摘要
 
@@ -63,7 +63,7 @@ updated: '2026-05-18'
 >
 > - **招生排斥**：一些 IP 学校认为"他们有权改变招生流程"以排斥特定学生（如原住民学生、难民、残疾学生），尽管这违反了"州立学校接受出现在校门口的学生的基本法定要求"（Lucas, teacher union, Qld, p.9）
 > - **竞争与残余化**：竞争机制制造了"吸取系统生命的等级秩序"，加剧了公立系统内的分层和残余化
-> - **规模经济差距**：有 3,000 名学生"你绝对大赚特赚"，只有 400 名则"你必须重组"（Russell, union, WA, p.440/10）
+> - **规模经济差距**：有 3,000 名学生"你绝对大赚特赚"，只有 400 名则"你必须重组"（[[Bertrand Russell|Russell]], union, WA, p.440/10）
 > - **正面潜力**：当资源充足且有适当支持时，更大的灵活性在理论上可以使学校更好地满足社区需求
 
 ## 争议与评论
@@ -77,7 +77,7 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／理论
 > - [[School Autonomy]] — IPS 是澳大利亚学校自主权改革的最激进版本之一
-> - [[Karmel Report 1973]] — IPS 的新自由主义逻辑与 Karmel 的民主起源形成对比
+> - [[Karmel Report 1973]] — IPS 的新自由主[[Rightness|义]]逻辑与 Karmel 的民主起源形成对比
 > - [[New Public Management]] — IPS 体现了 NPM 的市场逻辑在学校治理层面的操作化
 > - [[Local Schools Local Decisions (NSW)]] — NSW 版的学校自主权政策，可作比较
 

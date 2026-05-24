@@ -59,13 +59,13 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **1976** — Alvin Goldman 在 *The Journal of Philosophy* 发表 "Discrimination and Perceptual Knowledge"，提出区分理论，挑战传统 JTB 知识定义
-> - **2019** — Dylan Wiliam 将该理论应用于教育研究的方法论反思，论证教育知识的局部性和临时性，作为对证据本位教育"什么有效"计划的哲学批判
+> - **1976** — Alvin Goldman 在 *The Journal of Philosophy* 发表 "Discrimination and Perceptual Knowledge"，提出区分理论，挑战传统 JTB 知识定[[Rightness|义]]
+> - **2019** — [[Dylan Wiliam]] 将该理论应用于教育研究的方法论反思，论证教育知识的局部性和临时性，作为对[[Evidence-Based Education|证据本位教育]]"什么有效"计划的哲学批判
 
 ## 研究范式
 
 > [!info] 研究范式
-> - 认识论立场：分析认识论（Analytic Epistemology），外部主义（Externalism）——知识不仅依赖于主体内部状态（信念、证成），还依赖于外部环境中的事实（是否存在相关替代状态）
+> - 认识论立场：分析认识论（Analytic Epistemology），外部主[[Rightness|义]]（Externalism）——知识不仅依赖于主体内部状态（信念、证成），还依赖于外部环境中的事实（是否存在相关替代状态）
 > - 常用方法：思想实验、概念分析
 
 ## 争议与批评

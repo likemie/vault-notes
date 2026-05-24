@@ -42,14 +42,14 @@ updated: '2026-05-23'
 ## 概念辨析
 
 > [!example]
-> - vs [[Effect Size]] — 效应量显示研究中观察到的差异大小；实施忠实度解释这个差异是在什么实施条件下产生的。
+> - vs [[Effect Size]] — 效应量显示研究中[[Observational and Correlational Research|观察]]到的差异大小；实施忠实度解释这个差异是在什么实施条件下产生的。
 > - vs [[Quasi-Experimental Designs]] — QED 关注比较组是否能提供可信反事实；实施忠实度关注干预组是否真正接受了足够质量和强度的项目。
-> - vs [[Formative Evaluation]] — 形成性评价可以用来监测和反馈实施忠实度，但两者不是同一概念。
+> - vs [[Formative Evaluation]] — 形成性评价可以用来监测和[[Feedback|反馈]]实施忠实度，但两者不是同一概念。
 
 ## 核心要素
 
 > [!abstract]
-> 实施忠实度至少包括实施质量、实施强度、教师或使用者准备、开发者支持、学生实际使用和项目组件是否按逻辑模型发生。证据审查若只看研究设计和统计显著性，而很少报告这些实施条件，就会削弱实践者判断项目是否适合本地学校的能力（Ross & Morrison, 2021, pp.112, 120-121）。
+> 实施忠实度至少包括实施质量、实施强度、教师或使用者准备、开发者支持、学生实际使用和项目组件是否按[[Logic Model|逻辑模型]]发生。证据审查若只看研究设计和[[Statistical Significance|统计显著性]]，而很少报告这些实施条件，就会削弱实践者判断项目是否适合本地学校的能力（Ross & Morrison, 2021, pp.112, 120-121）。
 
 ### 理想条件与普通条件
 
@@ -80,7 +80,7 @@ updated: '2026-05-23'
 
 > [!example]
 > - [[Educational Evidence Clearinghouses]] — 清算中心若缺少实施要求、使用强度、成本和用户经验信息，项目评级对学校采购的帮助会受限（Ross & Morrison, 2021, pp.120-121）。
-> - [[Students and Teachers Accessing Tomorrow (STAT)]] — STAT 的形成性评价把实施进展作为理解项目效果的重要证据，而不是只看最终成就结果（Ross & Morrison, 2021, pp.118-123）。
+> - [[Students and Teachers Accessing Tomorrow (STAT)]] — STAT 的[[Formative Evaluation|形成性评价]]把实施进展作为理解项目效果的重要证据，而不是只看最终成就结果（Ross & Morrison, 2021, pp.118-123）。
 
 ## 来源
 

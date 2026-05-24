@@ -40,7 +40,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> 该政策向学校提供互动白板，并配套教师培训。Pellegrini & Vivanet 用它说明：教育技术投入本身并不等于有效教学改进，政策决策仍需要检查相关工具对学习过程和学习结果的证据基础（Pellegrini & Vivanet, 2021, p.27）。
+> 该政策向学校提供互动白板，并配套教师培训。Pellegrini & Vivanet 用它说明：教育技术投入本身并不等于[[Effective Teaching|有效教学]]改进，政策决策仍需要检查相关工具对学习过程和学习结果的证据基础（Pellegrini & Vivanet, 2021, p.27）。
 
 ## 时间线
 
@@ -56,7 +56,7 @@ updated: 2026-05-23
 ## 效果与评价
 
 > [!success]
-> Pellegrini & Vivanet 引用英国大规模实验研究作为对照：互动白板使用 5 个月后，英语效应量为 +.04 且不显著，数学和科学分别为 +.10 和 +.11；两年后，英语、数学和科学效应接近零。Kyriakou 与 Higgins 的系统综述也显示互动白板既未明显影响学生成就，也未明显改善课堂学习质量（Pellegrini & Vivanet, 2021, p.27）。
+> Pellegrini & Vivanet 引用英国大规模实验研究作为对照：互动白板使用 5 个月后，英语[[Effect Size|效应量]]为 +.04 且不显著，数学和科学分别为 +.10 和 +.11；两年后，英语、数学和科学效应接近零。Kyriakou 与 Higgins 的系统综述也显示互动白板既未明显影响学生成就，也未明显改善课堂学习质量（Pellegrini & Vivanet, 2021, p.27）。
 
 > [!info]- 核心数据
 > - 35,114 块互动白板（Pellegrini & Vivanet, 2021, p.27）

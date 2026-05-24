@@ -30,8 +30,8 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
-> 功能性磁共振成像（fMRI）是一种功能神经影像技术，通过测量特定脑区血液成分的存在来记录解剖学定义的脑活动，同时参与者在完成任务或活动（Bolton & Hattie, 2017, p.2）。fMRI 在确定空间信息方面优于时间信息（Bolton & Hattie, 2017, p.2）。
+> [!info] 定[[Rightness|义]]
+> 功能性磁共振成像（fMRI）是一种功能神经影像技术，通过测量特定脑区血液成分的存在来记录解剖学定义的脑活动，同时参与者在完成任务或活动（Bolton & [[John Hattie|Hattie]], 2017, p.2）。fMRI 在确定空间信息方面优于时间信息（Bolton & Hattie, 2017, p.2）。
 
 ## 操作原理
 
@@ -40,14 +40,14 @@ fMRI 测量特定脑区血液成分的存在，基于以下原理：活跃的脑
 ## 适用场景
 
 > [!success] 适用场景
-> - 将认知功能任务和测试期间的表现与特定脑区联系起来（Bolton & Hattie, 2017, p.2）
-> - 追踪儿童期到青春期 PFC 的发育变化（Bolton & Hattie, 2017, p.8）
-> - 识别成人和儿童在执行相同 EF 任务时激活的脑区差异。例如 Moriguchi & Hiraki (2013) 使用 fMRI 发现成人在 DCCS 任务中左侧下 PFC 激活更大，而 5 岁儿童在右侧下 PFC 激活更大（Bolton & Hattie, 2017, p.11–12）
+> - 将认知功能任务和测试期间的表现与特定脑区联系起来（Bolton & [[John Hattie|Hattie]], 2017, p.2）
+> - 追踪儿童期到青春期 [[Prefrontal Cortex|PFC]] 的发育变化（Bolton & Hattie, 2017, p.8）
+> - 识别成人和儿童在执行相同 [[Executive Function|EF]] 任务时激活的脑区差异。例如 Moriguchi & Hiraki (2013) 使用 fMRI 发现成人在 DCCS 任务中左侧下 PFC 激活更大，而 5 岁儿童在右侧下 PFC 激活更大（Bolton & Hattie, 2017, p.11–12）
 
 ## 局限性
 
 > [!warning] 局限性
-> - 更适合确定空间信息（脑区位置），而非时间信息（Bolton & Hattie, 2017, p.2）
+> - 更适合确定空间信息（脑区位置），而非时间信息（Bolton & [[John Hattie|Hattie]], 2017, p.2）
 > - 大多数使用 fMRI 或 PET 技术的研究集中于 7 岁以上的儿童，对年幼儿童的研究较少（Bolton & Hattie, 2017, p.9）
 
 ## 与其他技术的比较

@@ -32,7 +32,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> "地方学校地方决策"（Local Schools Local Decisions, LSLD）是新南威尔士州（NSW）于 2011–2018 年推行的学校自主权改革政策。与 Victoria 长期权力下放的历史不同，NSW"直到最近仍然高度集中化"（Keddie et al., 2020, IJLE, p.2）。
+> "地方学校地方决策"（Local Schools Local Decisions, LSLD）是新南威尔士州（NSW）于 2011–2018 年推行的[[School Autonomy|学校自主权]]改革政策。与 Victoria 长期权力下放的历史不同，NSW"直到最近仍然高度集中化"（Keddie et al., 2020, IJLE, p.2）。
 >
 > NSW 是 Keddie et al.（2020, IJLE）研究的四个州之一（另外三个为 Victoria、Queensland、Western Australia），研究中有 8 位利益相关者代表 NSW。
 
@@ -72,7 +72,7 @@ updated: '2026-05-18'
 > [!warning] 争议与评论
 > - **表面话语与实际功能的分离**：LSLD 的名称暗示赋权和解放，但利益相关者一致认为其实质功能是成本削减
 > - **招聘困难**：即使在提供"每年 25 万澳元"激励的 NSW 部分地区，"没有人会接受……这是一种悲惨的存在。你将是一个孤独的人，在很长一段时间里"（Norman, bureaucrat, NSW, p.9-10）
-> - **比较视角**：NSW 的 LSLD 与 WA 的 IPS、Victoria 的自我管理学校共同构成澳大利亚各州不同版本的学校自主权改革光谱——NSW 因历史上集中化程度高，其权力下放的影响尤为显著
+> - **比较视角**：NSW 的 LSLD 与 WA 的 [[Independent Public Schools (IPS) Western Australia|IPS]]、Victoria 的自我管理学校共同构成澳大利亚各州不同版本的[[School Autonomy|学校自主权]]改革光谱——NSW 因历史上集中化程度高，其权力下放的影响尤为显著
 
 ## 相关概念／理论
 

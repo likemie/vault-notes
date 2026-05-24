@@ -34,7 +34,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > 学业性别差异（Gender Differences in Academic Achievement）指在特定教育情境中，男女学生在学业表现上呈现的系统性差别，以及这些差别与学习行为、课堂关系、评价机制和制度环境之间的关联。
 
 ## 历史沿革
@@ -50,7 +50,7 @@ updated: '2026-05-18'
 > - 关键机制：[[School Norm Adaptation]] 与 [[Motivation and Work Effort]] 是最强预测变量（Lekhal et al., 2015, pp.83-84）。
 > - 作用路径：性别影响主要是间接作用，经由行为与评价机制交互实现（Lekhal et al., 2015, p.83）。
 > - 测量差异：教师评定维度中的性别差异普遍大于学生自评维度，提示"评分来源"本身是解释框架的一部分（Lekhal et al., 2015, p.82）。
-> - 教师评定行为维度中，[[Self-control]] 与 [[Assertiveness]] 也存在性别差异，但效应量低于规范适应与动机投入（Lekhal et al., 2015, p.82）。
+> - 教师评定行为维度中，[[Self-control]] 与 [[Assertiveness]] 也存在性别差异，但[[Effect Size|效应量]]低于规范适应与动机投入（Lekhal et al., 2015, p.82）。
 
 ## 与相关概念的区别
 

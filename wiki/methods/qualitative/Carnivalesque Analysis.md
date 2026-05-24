@@ -26,8 +26,8 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
-> Carnivalesque analysis（嘉年华式分析）是 Aydarova（2020）基于 Bakhtin 的嘉年华（carnival）概念发展的质性研究方法：研究者以"嘉年华小丑"（joker）的角色介入数据，通过打乱官方叙事、追踪矛盾和并置不同来源的数据，揭露被主导话语掩盖的"非官方真相"。
+> [!info] 定[[Rightness|义]]
+> Carnivalesque analysis（嘉年华式分析）是 Aydarova（2020）基于 Bakhtin 的嘉年华（carnival）概念发展的[[Qualitative Research|质性研究]]方法：研究者以"嘉年华小丑"（joker）的角色介入数据，通过打乱官方叙事、追踪矛盾和并置不同来源的数据，揭露被主导话语掩盖的"非官方真相"。
 >
 > > "The researcher as a Bakhtinian carnivalesque joker whose role was to: 'disrupt "the official truths" and to challenge the narrative reformers curated for public consumption'"（Bainbridge et al., 2022, p.17, citing Aydarova, 2020, p.7）
 >
@@ -79,7 +79,7 @@ updated: '2026-05-18'
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Bainbridge_2022_ROE]] — 以嘉年华式分析揭露英国文法学校政策论证中"好学校"话语的荒谬性
+> - [[Argument_Bainbridge_2022_ROE]] — 以嘉年华式分析揭露英国[[Grammar School|文法学校]]政策论证中"好学校"话语的荒谬性
 >
 
 ## 来源

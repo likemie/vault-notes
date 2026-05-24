@@ -28,7 +28,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Donald A. Schön（1930–1997）是美国哲学家和组织学习理论家，MIT 城市研究与规划教授，以对专业实践和反思性实践（reflective practice）的开创性研究著称。他提出了"反思性实践者"（The Reflective Practitioner）概念和对技术理性（Technical Rationality）的系统批判。
+> Donald A. Schön（1930–1997）是美国哲学家和组织学习理论家，MIT 城市研究与规划教授，以对专业实践和反思性实践（reflective practice）的开创性研究著称。他提出了"反思性实践者"（The Reflective Practitioner）概念和对[[Technical Rationality|技术理性]]（Technical Rationality）的系统批判。
 
 ## 生平与职涯
 
@@ -42,7 +42,7 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. London: Temple Smith. — 提出反思性实践概念，区分实践中的反思（reflection-in-practice）和对实践的反思（reflection-on-practice），批判技术理性作为专业实践模型
+> - Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. London: Temple Smith. — 提出反思性实践概念，区分实践中的反思（reflection-in-practice）和对实践的反思（reflection-on-practice），批判[[Technical Rationality|技术理性]]作为专业实践模型
 
 ## 核心思想
 
@@ -53,8 +53,8 @@ updated: '2026-05-19'
 > - **对实践的反思（reflection-on-practice）**：实践之后或之外（如与同事一起）的反思——考虑实践是否应在方法上改变、实践者是否应向新方向进修
 
 
-> [!info] 技术理性的批判
-> Schön（1983）识别了技术理性（[[Technical Rationality]]）作为实证主义遗产在专业实践中的主导地位——它将实践问题理解为独立于情境的实体，可以通过查阅和应用基础科学知识来解决。工程师的材料分析和医生的疾病诊疗成为所有专业实践（包括教育）的模型。
+> [!info] [[Technical Rationality|技术理性]]的批判
+> Schön（1983）识别了技术理性（[[Technical Rationality]]）作为实证主[[Rightness|义]]遗产在专业实践中的主导地位——它将实践问题理解为独立于情境的实体，可以通过查阅和应用基础科学知识来解决。工程师的材料分析和医生的疾病诊疗成为所有专业实践（包括教育）的模型。
 
 ## 主要贡献
 
@@ -66,9 +66,9 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 其工作立基于 Dewey 的实用主义传统——强调实践中的探究和反思
+> - 其工作立基于 Dewey 的实用主[[Rightness|义]]传统——强调实践中的探究和反思
 > - 1983 年著作深刻影响了教育、社会工作、护理和管理等专业领域的实践理论化
-> - Qvortrup（2019）将 Schön 的反思实践概念与 Simon 的有限理性理论并置，构建了专业判断的整合框架
+> - Qvortrup（2019）将 Schön 的反思实践概念与 Simon 的[[Bounded Rationality|有限理性]]理论并置，构建了[[Professional Judgment|专业判断]]的整合框架
 
 ## 来源
 

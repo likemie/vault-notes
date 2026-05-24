@@ -45,31 +45,31 @@ updated: '2026-05-18'
 > TFNZ 作为三方合作运营（O'Neill et al., 2016, pp.10, 53）：
 >
 > - **项目伙伴**：奥克兰大学、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）
-> - **赞助人**（Patrons）：Sir John Graham（Auckland Grammar School 前校长、奥克兰大学前校长、Woolf Fisher Trust 受托人）和 Dame Lesley Max（Great Potentials Foundation 联合创始人）
+> - **赞助人**（Patrons）：Sir John Graham（Auckland [[Grammar School]] 前校长、奥克兰大学前校长、Woolf Fisher Trust 受托人）和 Dame Lesley Max（Great Potentials Foundation 联合创始人）
 
 ## 资金来源与创始伙伴
 
 > [!abstract] 资金来源与创始伙伴
 > 可行性研究于 2010 年由两家私人赠款基金会的配对资助启动（O'Neill et al., 2016, p.10）：
 >
-> - **Aotearoa Foundation**（纽约）— 涉及美国对冲基金亿万富翁 Julian Robertson（2009 年首位荣誉新西兰骑士），其 Robertson Foundation 2014 年总净资产 USD 575M，大量资助与美国特许学校运动相关
+> - **Aotearoa Foundation**（纽约）— 涉及美国对冲基金亿万富翁 Julian Robertson（2009 年首位荣誉新西兰骑士），其 Robertson Foundation 2014 年总净资产 USD 575M，大量资助与美国[[Partnership Schools Kura Hourua (NZ 2011)|特许学校]]运动相关
 > - **Tindall Foundation**（奥克兰）
 >
 > 创始伙伴包括：Aotearoa Foundation、ASB Bank、Chapman Tripp、Deloitte、Harry Singer Foundation、Hutton Wilson Nominees (NEXT Foundation) 和 Woolf Fisher Trust（O'Neill et al., 2016, pp.10–11）
 >
 > 后续资助分三个层级（O'Neill et al., 2016, p.54）：
 > - **Kaitautoko Kauri**（主要）：Chapman Tripp、Deloitte、Aotearoa Foundation、NEXT Foundation、Harry Singer Foundation、Woolf Fisher Trust
-> - **Kaitautoko Rimu**：Cognition Education Trust、The Fletcher Trust、Fuji Xerox、GradConnection、KPMG
+> - **Kaitautoko Rimu**：[[Cognition Education (NZ)|Cognition Education Trust]]、The Fletcher Trust、Fuji Xerox、GradConnection、KPMG
 > - **Kaitautoko Tōtara**：Coca-Cola Amatil、Cognition Education、COMET Auckland、First Foundation 等
 
 ## 领导团队
 
 > [!abstract] 领导团队
-> 首席执行官为联合创始人 Shaun Sutton（曾在英国接受 Teach First 培训并在 Teach For All 实习）。领导团队包括前 Teach First（英国）副总监 Jay Allnutt、Cognition Education 受托人兼 NEXT Foundation 顾问 Margaret Bendall 等（O'Neill et al., 2016, p.54）。
+> 首席执行官为联合创始人 Shaun Sutton（曾在英国接受 Teach First 培训并在 Teach For All 实习）。领导团队包括前 Teach First（英国）副总监 Jay Allnutt、[[Cognition Education (NZ)|Cognition Education]] 受托人兼 NEXT Foundation 顾问 Margaret Bendall 等（O'Neill et al., 2016, p.54）。
 
 ## 分析意义
 
-> [!success] 分析意义
+> [!success] 分析意[[Rightness|义]]
 > TFNZ 体现了政策创业者如何在公共福利话语（解决教育不平等）、非营利结构（慈善信托）和跨国私营部门连接（Aotearoa Foundation 美国对冲基金资助、Teach for All 全球网络）之间运作。O'Neill 等将其与 NZI（亲市场智库）作为新西兰政策网络的两个代表案例进行对比分析（O'Neill et al., 2016, p.x）。
 
 ## 来源

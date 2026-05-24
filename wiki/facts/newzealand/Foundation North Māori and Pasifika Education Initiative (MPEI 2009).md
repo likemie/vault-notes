@@ -29,7 +29,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> Foundation North（前 ASB Community Trust）是澳大拉西亚最大的慈善组织，服务奥克兰和 Northland 地区，净资产超 USD 1B。2006 年，该信托宣布转向"风险慈善"方式，关注社区拨款和通过多年项目帮助社区组织实现可持续发展（O'Neill et al., 2016, p.xii）。
+> Foundation North（前 ASB Community Trust）是澳大拉西亚最大的慈善组织，服务奥克兰和 Northland 地区，净资产超 USD 1B。2006 年，该信托宣布转向"[[Venture Philanthropy|风险慈善]]"方式，关注社区拨款和通过多年项目帮助社区组织实现可持续发展（O'Neill et al., 2016, p.xii）。
 
 ## 政策文本摘要
 
@@ -48,7 +48,7 @@ updated: '2026-05-18'
 
 > [!info] 实施特点
 > - 以社区提案驱动（第一阶段）与网络识别（第二阶段）相结合
-> - 体现了 Foundation North 的"风险慈善"方式：战略性、多年期、大规模、以社会投资回报为评估标准
+> - 体现了 Foundation North 的"[[Venture Philanthropy|风险慈善]]"方式：战略性、多年期、大规模、以社会投资回报为评估标准
 > - 同时于 2014 年启动 Centre for Social Impact New Zealand，支持自身及其他慈善信托、政府和公司资助者的风险慈善计划（O'Neill et al., 2016, p.xiii）
 
 ## 相关概念

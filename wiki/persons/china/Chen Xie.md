@@ -28,7 +28,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 谢晨（Chen Xie），华东师范大学国际与比较教育研究所（Institute of International and Comparative Education, East China Normal University）研究员。研究方向为证据本位教育改革、教育技术与数学学业成就的比较研究（Cheung & Xie, 2021, p.1）。
+> 谢晨（Chen Xie），华东师范大学国际与比较教育研究所（Institute of International and Comparative Education, East China Normal University）研究员。研究方向为[[Evidence-Based Education|证据本位教育]]改革、教育技术与数学学业成就的比较研究（Cheung & Xie, 2021, p.1）。
 
 ## 核心思想
 
@@ -38,7 +38,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Evidence-Based Reform]] — 与 Alan C. K. Cheung 共同编辑 ECNU Review of Education 特刊 "Evidence-Based Reform in Education: Global Perspectives"（2021），汇集来自亚洲、北美、欧洲七个国家的研究者（Cheung & Xie, 2021, p.1）
+> - [[Evidence-Based Reform]] — 与 [[Alan C. K. Cheung]] 共同编辑 ECNU Review of Education 特刊 "Evidence-Based Reform in Education: Global Perspectives"（2021），汇集来自亚洲、北美、欧洲七个国家的研究者（Cheung & Xie, 2021, p.1）
 > - 教育技术对数学成就影响的比较研究 — Xie (2020) 以教育技术对数学成就的影响为例，比较美国（证据本位改革领导者）与中国（观望者）的学校本位实验研究，发现两国有若干具有强有效性证据的干预方案值得推广，但中国大陆实验研究的数量和质量令人担忧（Cheung & Xie, 2021, p.2）
 
 ## 主要著作
@@ -50,8 +50,8 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 与 [[Alan C. K. Cheung]] 合作，参与 Johns Hopkins University 证据本位改革研究网络的国际拓展
-> - 其对中国实验研究"数量和质量令人担忧"的诊断（Cheung & Xie, 2021, p.2），呼应了 Slavin et al. (2021) 对中国证据本位研究制度化发展的观察
+> - 与 [[Alan C. K. Cheung]] 合作，参与 Johns Hopkins University [[Evidence-Based Reform|证据本位改革]]研究网络的国际拓展
+> - 其对中国实验研究"数量和质量令人担忧"的诊断（Cheung & Xie, 2021, p.2），呼应了 Slavin et al. (2021) 对中国证据本位研究制度化发展的[[Observational and Correlational Research|观察]]
 
 ## 来源
 

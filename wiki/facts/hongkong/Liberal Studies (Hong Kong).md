@@ -34,7 +34,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > 通识教育科（Liberal Studies, LS）是 2009–2021 年间香港高中（中四至中六）的必修科目。它是一门没有单一学科基础的跨学科科目，采用议题为本的探究式学习，旨在培养学生的批判性思维、沟通能力和终身学习技能。
 >
 > > "LS was positioned as a reform that would address both longstanding and contemporary educational problems in Hong Kong." (Yan & Morris, 2025, p. 485)
@@ -84,7 +84,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - **vs [[Citizenship and Social Development (Hong Kong)]]** — LS 的核心是批判性思维、多角度分析和独立探究；CSD 的核心是爱国主义、国家认同和守法教育。LS 豁免教科书评审；CSD 的教科书纳入教育局评审。LS 的 IES 被内地考察团取代。
+> - **vs [[Citizenship and Social Development (Hong Kong)]]** — LS 的核心是批判性思维、多角度分析和独立探究；CSD 的核心是爱国主[[Rightness|义]]、国家认同和守法教育。LS 豁免教科书评审；CSD 的教科书纳入教育局评审。LS 的 IES 被内地考察团取代。
 > - **vs 传统学校科目** — LS 无学科基础、无高等教育对应的单一学科、无就业市场的直接对应。这使其区别于数学、历史等有清晰学科边界的传统科目。
 
 ## 理论基础
@@ -102,7 +102,7 @@ updated: '2026-05-18'
 > - **支持立场**：LS 的设计者有意识地拒绝将科目限制在传统学科边界内——课程文件明确表述知识是 "contextualised, multi-disciplinary and personally and socially constructed"（CDC & HKEAA, 2007, p. 83）。这种设计旨在培养批判性思维而非传授固定知识体系。（Yan & Morris, 2025, p. 481）
 > - **批评立场**：Deng & Luke (2008) 和 Deng (2009) 指出缺乏清晰的学科根基使 LS 容易遭受来自不同意识形态方向的攻击——因为它没有一个公认的"知识核心"来作为课程的防御基础。（Yan & Morris, 2025, p. 481）
 >
-> **目前状态**：LS 已因政治压力被 CSD 取代（2021），但"跨学科 vs 学科根基"的张力在全球课程改革中仍是活着的辩论。
+> **目前状态**：LS 已因政治压力被 [[Citizenship and Social Development (Hong Kong)|CSD]] 取代（2021），但"跨学科 vs 学科根基"的张力在全球课程改革中仍是活着的辩论。
 
 
 > [!warning] 教师专业性的结构性弱化
@@ -112,7 +112,7 @@ updated: '2026-05-18'
 
 
 > [!warning] "教科书"真空的政治攻击
-> LS 豁免于教育局教科书评审制度，允许教师使用报纸、专题文章和新闻作为教学材料（Yan & Morris, 2025, p. 483）。2019 年后官媒将此弹性描绘为"漏洞"——声称"政治活动者"可通过自编教材传播激进思想（People's Daily, 2019）。但该批评的本质是政治性的：材料的灵活性本身是 LS 课程设计的特征而非缺陷——问题在于该特征在 2019 年后被重定义为"风险"。
+> LS 豁免于教育局教科书评审制度，允许教师使用报纸、专题文章和新闻作为教学材料（Yan & Morris, 2025, p. 483）。2019 年后官媒将此弹性描绘为"漏洞"——声称"政治活动者"可通过自编教材传播激进思想（People's Daily, 2019）。但该批评的本质是政治性的：材料的灵活性本身是 LS 课程设计的特征而非缺陷——问题在于该特征在 2019 年后被重定[[Rightness|义]]为"风险"。
 >
 > **目前状态**：2020 年教育局进行了 LS "教科书"的一次性专业咨询服务（实质评审），标志着 LS 教材从专业自主转向政府控制的转变。
 
@@ -132,7 +132,7 @@ updated: '2026-05-18'
 
 > [!example] 相关案例／政策
 > - [[Introduction of Liberal Studies 2009]] — LS 创立政策
-> - [[Replacement of LS by CSD 2021]] — LS 废除与 CSD 引入
+> - [[Replacement of LS by CSD 2021]] — LS 废除与 [[Citizenship and Social Development (Hong Kong)|CSD]] 引入
 > - 2012 MNE Controversy — 德育及国民教育科争议
 > - [[2019 Hong Kong Protests and Education]] — 反修例运动与教育
 

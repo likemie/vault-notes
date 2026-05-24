@@ -37,7 +37,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!tip]
-> 可行能力路径（capability approach）由 Amartya Sen 在 1980–1990 年代发展，最初作为对功利主义福利经济学的替代框架。其核心主张是：发展的目标不应仅以资源占有或效用满足来衡量，而应以扩展人们"实际享有的自由"（real freedoms that people enjoy）为根本评价标准——即一个人"能够做什么、成为什么"（functionings and capabilities），而非仅仅"拥有什么"（Boyadjieva, 2022, p.128）。
+> 可行能力路径（capability approach）由 Amartya Sen 在 1980–1990 年代发展，最初作为对功利主[[Rightness|义]]福利经济学的替代框架。其核心主张是：发展的目标不应仅以资源占有或效用满足来衡量，而应以扩展人们"实际享有的自由"（real freedoms that people enjoy）为根本评价标准——即一个人"能够做什么、成为什么"（functionings and capabilities），而非仅仅"拥有什么"（Boyadjieva, 2022, p.128）。
 
 > [!example]
 > 在教育语境中，这意味着问的不是"教育让毕业生赚了多少钱"，而是"教育以哪些不同的方式扩展了一个人的自由"——包括但不限于：能否独立思考、能否参与公共事务、能否在社会中获得尊重和公平对待。Boyadjieva (2022) 正是以此为概念基础，构建了批判全球排名的多维使命模型（pp.128–130）。

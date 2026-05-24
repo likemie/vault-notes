@@ -49,20 +49,20 @@ updated: '2026-05-18'
 
 > [!success]
 > - 信息多样性的减少最终将削弱人们在全球舞台上创新和竞争的能力（Partaken, 2022, p.82）
-> - Partaken 以德川日本锁国时期（1639–1853）为历史类比：锁国虽使日本实现内部统一，但最终导致其在科技知识上远远落后于西方，明治维新后的模仿欧洲地缘政治与军国主义最终毁灭了日本（Partaken, 2022, p.82）
+> - Partaken 以德川日本锁国时期（1639–1853）为历史类比：锁国虽使日本实现内部统一，但最终导致其在科技知识上远远落后于西方，明治维新后的模仿欧洲地缘政治与军国主[[Rightness|义]]最终毁灭了日本（Partaken, 2022, p.82）
 > - Partaken 认为，中国近年从邓小平的开放低调路线（"韬光养晦"）倒退为自我孤立，伴随着强硬外交、内外审查和激进的领土争端（Partaken, 2022, p.83）
 
 ## 争议与评论
 
 > [!warning]
-> - Partaken 将 Great Firewall 描述为知识地缘政治的审查工具，其分析框架将中国定位为知识转移中的控制者角色（Partaken, 2022, p.82）
+> - Partaken 将 Great Firewall 描述为[[Geopolitics of Knowledge|知识地缘政治]]的审查工具，其分析框架将中国定位为[[Knowledge Transfer|知识转移]]中的控制者角色（Partaken, 2022, p.82）
 > - 该分析基于非中立的西方视角，采用 Huntington 文明冲突论作为分析背景（Partaken, 2022, p.78–79）
 
 ## 相关概念／政策
 
 > [!example]
 > - [[China Social Credit System]] — 与 Great Firewall 配套运行的大数据行为评估系统
-> - [[Knowledge Transfer]] — Great Firewall 是 GPK 审查模态的核心制度工具
+> - [[Knowledge Transfer]] — Great Firewall 是 [[Geopolitics of Knowledge|GPK]] 审查模态的核心制度工具
 > - [[Sino-American Trade War (2018)]] — 中美知识转移紧张关系的贸易维度
 
 ## 来源

@@ -36,7 +36,7 @@ updated: '2026-05-21'
 > [!info] 核心主张
 > 通过教育进行国族建构（Nation Building through Education）指国家利用教育系统——课程内容、教学语言、教科书、教师培训和学校管理——在境内多元族群和地区（特别是边疆地区）推行统一的**国家认同**和**主流文化规范**，以消除地方文化特殊性、语言差异和替代性身份认同。
 >
-> Yan & Morris (2025, p. 490) 将香港国民教育与中共在西藏、新疆、内蒙古的边疆教育政策并置分析，揭示了统一的治理逻辑。
+> Yan & Morris (2025, p. 490) 将[[National Education in Hong Kong|香港国民教育]]与中共在西藏、新疆、内蒙古的边疆教育政策并置分析，揭示了统一的治理逻辑。
 >
 > > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." (Vickers & Morris, 2022, p. 47，引自 Yan & Morris, 2025, p. 483)
 
@@ -68,9 +68,9 @@ updated: '2026-05-21'
 > | **西藏** | 强制性国民教育消除地方语言和文化认同 | Leibold & Dorjee (2024) |
 > | **新疆** | "普通话化"教育政策压制维吾尔语言教育 | Tobin (2024) |
 > | **内蒙古** | "中华民族"叙事替代蒙古族历史叙事 | Bulag (2024) |
-> | **香港** | 以 LS→CSD 替代实现从温和"中国背景"到强制爱国教育的转变 | Yan & Morris (2025); Vickers & Morris (2022) |
+> | **香港** | 以 [[Liberal Studies (Hong Kong)|LS]]→[[Citizenship and Social Development (Hong Kong)|CSD]] 替代实现从温和"中国背景"到强制爱国教育的转变 | Yan & Morris (2025); Vickers & Morris (2022) |
 >
-> > Yan & Morris (2025, p. 490) 指出香港案例的区别性特征："香港的'华化'（sinicisation）被更谨慎地执行，先以 LS 的温和'中国背景'为入口，后以 CSD 的强制爱国教育收尾。"
+> > Yan & Morris (2025, p. 490) 指出香港案例的区别性特征："香港的'华化'（[[Sinicisation|sinicisation]]）被更谨慎地执行，先以 LS 的温和'中国背景'为入口，后以 CSD 的强制爱国教育收尾。"
 
 ## 发展脉络
 
@@ -80,7 +80,7 @@ updated: '2026-05-21'
 > - **Tobin (2024)** — 新疆案例分析："普通话化"作为教育政策工具
 > - **Bulag (2024)** — 内蒙古案例分析："中华民族"叙事替代蒙古族历史
 > - **Yan & Morris (2025)** — 将香港纳入同一边疆国族建构框架，揭示统一的治理逻辑
-> - **Yu & Zhao (2024)** — 从课程文化维度揭示国族建构的另一层面：学校教科书中的"官方知识"（[[Official Knowledge]]）通过将儒家传统塑造为中华文化核心，在教育层面强化了汉文化中心与少数民族边缘之间的文化等级
+> - **Yu & Zhao (2024)** — 从课程文化维度揭示国族建构的另一层面：学校教科书中的"[[Official Knowledge|官方知识]]"（[[Official Knowledge]]）通过将儒家传统塑造为中华文化核心，在教育层面强化了汉文化中心与少数民族边缘之间的文化等级
 
 ## 研究范式
 
@@ -94,14 +94,14 @@ updated: '2026-05-21'
 > **争议背景**：批评者（如 Leibold & Dorjee, 2024; Tobin, 2024）将中国的边疆教育政策定性为"文化灭绝"（cultural genocide）——以"国族建构"之名系统性消除地方语言、文化和身份认同。
 >
 > **各方立场**：
-> - **批评立场**：强制性语言替换（普通话替代藏语、维吾尔语、蒙古语）和历史叙事替代（"中华民族"替代地方族群历史）构成联合国定义的"文化灭绝"——"强制同化"（forced assimilation）。
+> - **批评立场**：强制性语言替换（普通话替代藏语、维吾尔语、蒙古语）和历史叙事替代（"中华民族"替代地方族群历史）构成联合国定[[Rightness|义]]的"文化灭绝"——"强制同化"（forced assimilation）。
 > - **中国政府立场**：这是"民族团结教育"——所有族群在中国宪法下享有平等权利，"中华民族"是包容性而非排他性的身份框架。普通话教育是为了保障少数民族融入国家经济和社会发展的平等机会。
 >
 > **目前状态**：此争议在国际学术界和人权话语中持续。Leibold & Dorjee (2024) 和 Tobin (2024) 的实证研究为批评立场提供了经验支持，但在中国大陆内部这一分析被视为政治敏感。
 
 
 > [!warning] 香港的特殊性：一国两制下的"谨慎"同化
-> **争议背景**：Yan & Morris (2025, p. 490) 指出香港的国族建构策略比新疆和西藏"更谨慎"——先以 LS 的温和"中国背景"为入口（2009），后以 CSD 的强制爱国教育收尾（2021）。这一区别提出了分析性问题：为什么对香港采取不同的节奏和策略？
+> **争议背景**：Yan & Morris (2025, p. 490) 指出香港的国族建构策略比新疆和西藏"更谨慎"——先以 [[Liberal Studies (Hong Kong)|LS]] 的温和"中国背景"为入口（2009），后以 [[Citizenship and Social Development (Hong Kong)|CSD]] 的强制爱国教育收尾（2021）。这一区别提出了分析性问题：为什么对香港采取不同的节奏和策略？
 >
 > **可能原因**：
 > - "一国两制"的国际承诺限制了对香港的直接文化同化——需要维持"自治"外观
@@ -112,8 +112,8 @@ updated: '2026-05-21'
 
 ## 相关研究
 
-> [!example] 相关研究
-> - [[Argument_Yan_2025_JCS]] — 将香港 LS→CSD 案例纳入边疆国族建构框架
+> [!example] [[Observational and Correlational Research|相关研究]]
+> - [[Argument_Yan_2025_JCS]] — 将香港 [[Liberal Studies (Hong Kong)|LS]]→[[Citizenship and Social Development (Hong Kong)|CSD]] 案例纳入边疆国族建构框架
 > - Vickers & Morris (2022) — 国安法与香港教育的"大陆化"
 > - Leibold & Dorjee (2024) — 西藏
 > - Tobin (2024) — 新疆

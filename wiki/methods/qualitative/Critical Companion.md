@@ -29,19 +29,19 @@ updated: 2026-05-21
 ## 定义
 
 > [!info]
-> 批判性伴随（critical companion）是 Zelinka（2022, p.254）在分析 21 世纪技能与素养话语（SCD）时采用的一种质性话语分析方法。其核心特征是与所分析的全球话语保持"伴随"关系——不提供传统的系统性文献综述，而是对政策框架进行批判性检视，识别其核心特征、共同模式和盲点（Zelinka, 2022, p.254）。
+> 批判性伴随（critical companion）是 Zelinka（2022, p.254）在分析 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse|SCD]]）时采用的一种质性话语分析方法。其核心特征是与所分析的全球话语保持"伴随"关系——不提供传统的系统性文献综述，而是对政策框架进行批判性检视，识别其核心特征、共同模式和盲点（Zelinka, 2022, p.254）。
 
 该方法的命名暗示了其认识论姿态：研究者不是站在话语外部进行"客观分析"，而是以批判性的态度"伴随"话语运作，揭示话语如何框定思维与行动的可能性——即[[Discursive Opportunity Structures|话语性机会结构]]（Parreira do Amaral & Dale, 2015, cit. by Zelinka, 2022, p.253）。
 
 ## 认识论立场
 
 > [!abstract]
-> 批判性伴随方法建立在后结构主义话语分析的预设之上：社会现实具有话语性质，社会问题是话语建构的产物（Kitsuse & Spector, 1973, cit. by Zelinka, 2022, p.253）。话语生产知识、组织特定语境中的意义制造过程。因此，分析方法不能脱离分析对象——研究者始终处于话语之中，只能以批判性检视的方式"伴随"话语运作。
+> 批判性伴随方法建立在后结构主[[Rightness|义]]话语分析的预设之上：社会现实具有话语性质，社会问题是话语建构的产物（Kitsuse & Spector, 1973, cit. by Zelinka, 2022, p.253）。话语生产知识、组织特定语境中的意义制造过程。因此，分析方法不能脱离分析对象——研究者始终处于话语之中，只能以批判性检视的方式"伴随"话语运作。
 
 ## 研究程序
 
 > [!example]
-> Zelinka（2022, pp.254-260）对 SCD 的批判性伴随分析遵循以下步骤：
+> Zelinka（2022, pp.254-260）对 [[21st Century Skills and Competencies Discourse|SCD]] 的批判性伴随分析遵循以下步骤：
 
 1. **文本汇编**：收集并整理七个国际和国家层面的 21 世纪关键技能与素养框架（enGauge, P21, NRC, ATCS, WEF, OECD, EC），时间跨度超过 15 年（Zelinka, 2022, pp.255-257）
 2. **框架结构化**：按发布时间排列，将各框架的技能和素养定[[Rightness|义]]按聚类和定义进行结构化呈现，识别跨框架的共同模式和术语差异（Zelinka, 2022, pp.254-258）
@@ -66,7 +66,7 @@ updated: 2026-05-21
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Zelinka_2022_SCD_subjectivity]] — 对七个国际 21 世纪技能框架进行批判性伴随分析，揭示 SCD 如何通过三组张力生产以[[Self-Entrepreneur|自我企业家]]为核心的新主体性
+> - [[Argument_Zelinka_2022_SCD_subjectivity]] — 对七个国际 21 世纪技能框架进行批判性伴随分析，揭示 [[21st Century Skills and Competencies Discourse|SCD]] 如何通过三组张力生产以[[Self-Entrepreneur|自我企业家]]为核心的新主体性
 
 ## 来源
 

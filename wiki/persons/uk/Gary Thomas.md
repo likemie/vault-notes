@@ -28,7 +28,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Gary Thomas 是英国伯明翰大学（University of Birmingham）教育与社会包容教授，以其对实验方法和 RCT 在教育研究中的"黄金标准"地位的批判而知名。
+> Gary Thomas 是英国伯明翰大学（University of Birmingham）教育与社会包容教授，以其对实验方法和 [[Randomised Controlled Trials|RCT]] 在教育研究中的"黄金标准"地位的批判而知名。
 
 ## 核心思想
 
@@ -47,7 +47,7 @@ updated: '2026-05-19'
 
 
 > [!info] 最佳解释推理
-> Thomas (2016) 论证自然科学家并非奴隶式地遵循关于建立因果性的方法论公式——"他们基于先前知识、批判性观察、猜想和对这些猜想的检验进行推断，这一过程被科学哲学家称为'最佳解释推理'（inference to the best explanation）"（Wrigley & McCusker, 2019, p. 117）。
+> Thomas (2016) 论证自然科学家并非奴隶式地遵循关于建立因果性的方法论公式——"他们基于先前知识、批判性[[Observational and Correlational Research|观察]]、猜想和对这些猜想的检验进行推断，这一过程被科学哲学家称为'最佳解释推理'（inference to the best explanation）"（Wrigley & McCusker, 2019, p. 117）。
 >
 > > "Natural scientists don't slavishly pursue methodological formulae about establishing causation. They infer, based on their prior knowledge, their critical observation, their conjecture, and their testing of these conjectures, in a process that has come to be called by philosophers of science inference to the best explanation." (Thomas, 2016, p. 406, cited in Wrigley & McCusker, 2019, p. 117)
 
@@ -56,7 +56,7 @@ updated: '2026-05-19'
 > Thomas (2012, p. 28) 论证"每个科学领域中的每个程序领域都是高度独特的，取决于其对象的形式和质地"（Wrigley & McCusker, 2019, p. 113）。将农业、植物科学和药物测试的实验方法直接应用于教育研究，忽视了教育作为人类实践的本体论特殊性。
 
 
-> [!info] 对 RCT 的多元批判
+> [!info] 对 [[Randomised Controlled Trials|RCT]] 的多元批判
 > Thomas (2016, pp. 390–411) 系统质疑 RCT 作为"黄金标准"的地位，包括对双盲在教育中的不可能性、Hawthorne 效应和期望效应的分析（Wrigley & McCusker, 2019, p. 115）。
 
 

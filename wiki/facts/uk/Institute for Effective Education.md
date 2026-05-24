@@ -46,7 +46,7 @@ updated: 2026-05-23
 ## 时间线
 
 > [!note]
-> - 2010s — IEE 与 Johns Hopkins University 的 Center for Research and Reform in Education 合作开展 Evidence in Brief，向教师和学校传播证据知情实践信息（Pellegrini & Vivanet, 2021, p.33）。
+> - 2010s — IEE 与 Johns Hopkins University 的 Center for Research and Reform in Education 合作开展 Evidence in Brief，向教师和学校传播[[Evidence-Informed Practice|证据知情实践]]信息（Pellegrini & Vivanet, 2021, p.33）。
 
 ## 实施情况
 
@@ -68,7 +68,7 @@ updated: 2026-05-23
 > [!tip]
 > - [[Educational Evidence Clearinghouses]] — IEE 的 Evidence 4 Impact 属于把项目证据转化为评级信息的机制。
 > - [[Evidence-Informed Practice]] — IEE 面向教师和学校传播证据知情实践。
-> - [[Argument_Pellegrini_2021_ROE]] — 集中拆解 IEE 所处欧洲证据基础设施的政策意义。
+> - [[Argument_Pellegrini_2021_ROE]] — 集中拆解 IEE 所处欧洲证据基础设施的政策意[[Rightness|义]]。
 
 ## 来源
 

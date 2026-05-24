@@ -34,7 +34,7 @@ updated: '2026-05-19'
 > [!info]
 > Camilla de Hollanda Amado（1941–2021）是巴西著名女演员和剧场导演。她与 [[Dell Delambre]] 共同创立了"Bora Bora em Bando"项目——一个旨在为里约热内卢 Rocinha 贫民窟的剧场团体"Bando Cultural Favelados da Rocinha"争取社会可见度和文化认可的文化行动项目。她的梦想是"看到贫民窟知识被用于国家发展"（Delambre, 2022, p.110）。
 
-> Amado 代表了一种从巴西文化体制内部推动变革的力量——作为体制认可的著名演员和剧场导演，她运用自身的文化资本和制度资源，为贫民窟的 [[Epistemology of Resistance|抵抗认识论]] 实践争取被更广泛社会"看见"的机会。这种体制内外的张力连接，被 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 和 [[Ganz-Methode]] 中分析为"局部与全球的来回审视"在文化领域的具体呈现（Delambre, 2022, p.110, 117）。
+> Amado 代表了一种从巴西文化体制内部推动变革的力量——作为体制认可的著名演员和剧场导演，她运用自身的[[Cultural Capital|文化资本]]和制度资源，为贫民窟的 [[Epistemology of Resistance|抵抗认识论]] 实践争取被更广泛社会"看见"的机会。这种体制内外的张力连接，被 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 和 [[Ganz-Methode]] 中分析为"局部与全球的来回审视"在文化领域的具体呈现（Delambre, 2022, p.110, 117）。
 
 ## 生平与职涯
 
@@ -59,8 +59,8 @@ updated: '2026-05-19'
 ## 影响
 
 > [!success]
-> - 通过"Bora Bora em Bando"项目，Amado 为 Rocinha 贫民窟剧场团体和 [[Richard Castelo Branco]] 的抵抗认识论实践争取了原本不会拥有的社会可见度和文化体制关注（Delambre, 2022, p.110）
-> - 她的去世被 Delambre 记录为巴西社区文化运动的重大损失——"她于 2021 年 6 月 6 日去世，享年 82 岁"这一信息被单独、郑重地在论文中提及。Delambre 与她的合作经历——将她"看到贫民窟知识被用于国家发展"的梦想转化为具体文化项目的过程——构成了 Ganz-Methode 实证基础的重要组成部分（Delambre, 2022, p.110）
+> - 通过"Bora Bora em Bando"项目，Amado 为 Rocinha 贫民窟剧场团体和 [[Richard Castelo Branco]] 的[[Epistemology of Resistance|抵抗认识论]]实践争取了原本不会拥有的社会可见度和文化体制关注（Delambre, 2022, p.110）
+> - 她的去世被 Delambre 记录为巴西社区文化运动的重大损失——"她于 2021 年 6 月 6 日去世，享年 82 岁"这一信息被单独、郑重地在论文中提及。Delambre 与她的合作经历——将她"看到贫民窟知识被用于国家发展"的梦想转化为具体文化项目的过程——构成了 [[Ganz-Methode]] 实证基础的重要组成部分（Delambre, 2022, p.110）
 
 ## 格言／关键表述
 

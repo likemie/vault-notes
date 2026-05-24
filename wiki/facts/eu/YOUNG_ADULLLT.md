@@ -94,8 +94,8 @@ updated: '2026-05-18'
 > [!tip]
 > - [[Network Governance]] — YOUNG_ADULLLT 的核心发现之一是终身学习政策的官僚—网络混合治理模式
 > - [[Theories of Policy Change]] — 项目考察了地方专业人员如何内化、转化或自主建构变革理论
-> - [[Selectivity]] — 项目数据为绩效指标体系的选择性效应提供了直接的经验证据
-> - [[Neocorporatism]] — 德国及邻国的新社团主义传统构成了网络治理的重要制度基础
+> - [[Selectivity]] — 项目数据为[[Performance Indicators|绩效指标]]体系的选择性效应提供了直接的经验证据
+> - [[Neocorporatism]] — 德国及邻国的新社团主[[Rightness|义]]传统构成了网络治理的重要制度基础
 > - [[Performance Indicators]] — 项目揭示了地方专业人员对 EU 绩效指标体系的差异化回应
 
 ## 来源

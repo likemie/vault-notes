@@ -35,7 +35,7 @@ updated: '2026-05-18'
 ## 概述
 
 > [!info] 概述
-> Promise Neighborhoods Research Consortium（PNRC）是 Wadhwa et al. 比较的 12 个教育证据清算中心之一。它是多领域清算中心，覆盖教育、社会与行为发展、健康、社会和经济福利、劳动；目标人群为 youth；资金组织类型为 public；评级对象包括项目、政策和实践（Wadhwa et al., 2024, p.7）。
+> Promise Neighborhoods Research Consortium（PNRC）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它是多领域清算中心，覆盖教育、社会与行为发展、健康、社会和经济福利、劳动；目标人群为 youth；资金组织类型为 public；评级对象包括项目、政策和实践（Wadhwa et al., 2024, p.7）。
 
 ## 评级对象与范围
 
@@ -45,9 +45,9 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准编码中，PNRC 对 RCT 的描述程度为 2，对一般 QED 为 1，对 RDD 为 1，对 ITS 为 1（Wadhwa et al., 2024, p.10）。
+> 在设计标准编码中，PNRC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 为 1，对 ITS 为 1（Wadhwa et al., 2024, p.10）。
 >
-> PNRC 是要求 ITT 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Social Programs That Work (SPTW)|SPTW]]。它在复制标准上强调多地点研究以及跨地点和文化情境复制的效果（Wadhwa et al., 2024, pp.9, 11）。
+> PNRC 是要求 [[Intent-to-Treat Analysis|ITT]] 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Social Programs That Work (SPTW)|SPTW]]。它在复制标准上强调多地点研究以及跨地点和文化情境复制的效果（Wadhwa et al., 2024, pp.9, 11）。
 >
 > 对于 ITS，PNRC 提供较一般性的指南，偏好长基线但不一定要求重叠基线，并偏好较大的效果；这与 [[What Works Clearinghouse (WWC)|WWC]] 对 ITS 更强调多个处理前时间段的基线等值形成对比（Wadhwa et al., 2024, p.11）。
 

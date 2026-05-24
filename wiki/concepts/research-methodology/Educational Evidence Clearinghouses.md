@@ -73,10 +73,10 @@ updated: '2026-05-24'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > 教育证据清算中心（Educational Evidence Clearinghouses）是审查教育项目效果研究并发布项目有效性评级的机构。Wadhwa, Zheng & Cook 将 clearinghouse（清算中心）定义为一类实体：它们审查分析教育项目效果的研究，然后发布关于该项目"有多有效"的评级（Wadhwa et al., 2024, p.5）。
 >
-> 在证据本位教育中，清算中心承担五项功能：规定因果效应的科学标准、搜寻符合质量要求的研究、评价单项研究、综合研究结果以判断项目是否值得推荐，并向研究者、政策制定者、教师、学校管理者、家长和公众传播"有效、 promising、效果不清、无效或有害"等结论（Wadhwa et al., 2024, p.4）。
+> 在[[Evidence-Based Education|证据本位教育]]中，清算中心承担五项功能：规定因果效应的科学标准、搜寻符合质量要求的研究、评价单项研究、综合研究结果以判断项目是否值得推荐，并向研究者、政策制定者、教师、学校管理者、家长和公众传播"有效、 promising、效果不清、无效或有害"等结论（Wadhwa et al., 2024, p.4）。
 >
 > > "Clearinghouses set standards of scientific quality"（Wadhwa et al., 2024, p.3）
 
@@ -124,18 +124,18 @@ updated: '2026-05-24'
 > [!example] 与相关概念的区别
 > - vs [[Evidence-Based Education]] — EBE 是教育实践和政策应依赖研究证据的理念；教育证据清算中心是把这一理念制度化为项目评级、证据标准和传播机制的基础设施（Wadhwa et al., 2024, p.4）。
 > - vs [[Evidence-Based Reform]] — EBR 强调用有效性证据选择项目和产品；清算中心提供 EBR 所需的"可信证据审查"环节，但不同清算中心对同一项目是否"有证据"常常并不一致（Wadhwa et al., 2024, pp.16-17）。
-> - vs 系统综述/元分析 — 系统综述和元分析是研究综合方法；清算中心则是制度化中介机构，会同时制定纳入标准、研究质量标准、效果评级规则和面向公众的传播格式（Wadhwa et al., 2024, pp.4–5）。
-> - vs [[Inclusive Evidence Validation Typology]] — 清算中心通常面向外部用户发布项目评级；包容性证据验证类型学则是在本地实验研究和项目证据稀少时，为改革内部候选工具设置最低验证标准，避免直接复制 EEF、WWC 或 BEE 标准导致绝大多数本地工具被排除（Dachet & Baye, 2021, pp.175-176）。
+> - vs 系统综述/[[Meta-analysis|元分析]] — 系统综述和元分析是研究综合方法；清算中心则是制度化中介机构，会同时制定纳入标准、研究质量标准、效果评级规则和面向公众的传播格式（Wadhwa et al., 2024, pp.4–5）。
+> - vs [[Inclusive Evidence Validation Typology]] — 清算中心通常面向外部用户发布项目评级；包容性证据验证类型学则是在本地实验研究和项目证据稀少时，为改革内部候选工具设置最低验证标准，避免直接复制 EEF、[[What Works Clearinghouse (WWC)|WWC]] 或 [[Best Evidence Encyclopedia (BEE)|BEE]] 标准导致绝大多数本地工具被排除（Dachet & Baye, 2021, pp.175-176）。
 
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Campbellian Validity Framework]] — "evidence-based"在清算中心实践中的意义可以被视为一个构念效度问题：如果不同清算中心对同一项目的有效性判断不能收敛，就说明 EBE 实践中的概念与实施方式差异过大，使用者应谨慎对待评级（Wadhwa et al., 2024, p.4）。
+> - [[Campbellian Validity Framework]] — "evidence-based"在清算中心实践中的意[[Rightness|义]]可以被视为一个构念效度问题：如果不同清算中心对同一项目的有效性判断不能收敛，就说明 [[Evidence-Based Education|EBE]] 实践中的概念与实施方式差异过大，使用者应谨慎对待评级（Wadhwa et al., 2024, p.4）。
 
 ## 实证发现
 
 > [!success] 实证发现
-> - 尽管 WWC 和 Evidence for ESSA 扩展了研究证据的可及性，教育产品消费者仍常偏好同伴推荐和本地试点，因为这些渠道更能同时提供产品特征、实施要求、使用满意度、成本和潜在结果等地方决策信息（Ross & Morrison, 2021, pp.110, 120-121）。
+> - 尽管 [[What Works Clearinghouse (WWC)|WWC]] 和 Evidence for ESSA 扩展了研究证据的可及性，教育产品消费者仍常偏好同伴推荐和本地试点，因为这些渠道更能同时提供产品特征、实施要求、使用满意度、成本和潜在结果等地方决策信息（Ross & Morrison, 2021, pp.110, 120-121）。
 > - 以 2019 年 5 月为筛选节点，美国和英国可识别出 43 个清算中心；排除不发布效果评级、无法访问或只转载其他机构评级的站点后，聚焦 pre-K 至大学教育干预且关注学业成就、入学准备、毕业和学校社会问题预防等结果的教育清算中心为 12 个（Wadhwa et al., 2024, p.5）。
 > - 在 1,359 个教育项目中，1,131 个项目（83.2%）只被一个清算中心评级，164 个（12.1%）被两个评级，45 个（3.3%）被三个评级，15 个（1.1%）被四个评级，4 个（0.3%）被五个评级；没有项目被超过五个清算中心评级（Wadhwa et al., 2024, p.18）。
 > - 只有 17% 的项目拥有多重清算中心评级可供消费者比较；这些多重评级项目通常是教育研究与政策界更知名的项目，但即使在这些项目上，评级分歧仍很常见（Wadhwa et al., 2024, pp.18, 27）。
@@ -145,7 +145,7 @@ updated: '2026-05-24'
 ## 争议与批评
 
 > [!warning] "Evidence-based"的构念效度不足
-> 核心问题不是某一个清算中心质量低，而是清算中心作为整体未能对"evidence-based"形成稳定的实践意义。若一个术语具有高构念效度，那么不同清算中心在评价同一项目时至少应有较高收敛；但现有比较显示这种收敛只是有限的，因此"evidence-based"在清算中心语境中只有有限的实践构念效度（Wadhwa et al., 2024, p.26）。
+> 核心问题不是某一个清算中心质量低，而是清算中心作为整体未能对"evidence-based"形成稳定的实践意[[Rightness|义]]。若一个术语具有高构念效度，那么不同清算中心在评价同一项目时至少应有较高收敛；但现有比较显示这种收敛只是有限的，因此"evidence-based"在清算中心语境中只有有限的实践构念效度（Wadhwa et al., 2024, p.26）。
 
 
 > [!warning] 证据消费者的误导风险
@@ -153,7 +153,7 @@ updated: '2026-05-24'
 
 
 > [!warning] 实践信息不足
-> 对学校采购者而言，正式证据来源若只突出统计显著性和效应量，仍可能缺少实施要求、成本、用户满意度和情境限制等信息。更清楚地报告研究语境、限制、实施需求和使用者经验，可以减少实践者只能依赖同伴推荐和本地试点的压力（Ross & Morrison, 2021, p.121）。
+> 对学校采购者而言，正式证据来源若只突出[[Statistical Significance|统计显著性]]和[[Effect Size|效应量]]，仍可能缺少实施要求、成本、用户满意度和情境限制等信息。更清楚地报告研究语境、限制、实施需求和使用者经验，可以减少实践者只能依赖同伴推荐和本地试点的压力（Ross & Morrison, 2021, p.121）。
 
 
 > [!warning] 标准化与异质性的两难
@@ -180,7 +180,7 @@ updated: '2026-05-24'
 - [[Collaborative for Academic Social and Emotional Learning Guide (CASEL)]] — 聚焦社会情感学习项目的非营利教育清算中心，在比较样本中贡献 25 个项目（Wadhwa et al., 2024, pp.7, 16）。
 - [[National Dropout Prevention Center (NDPC)]] — 聚焦辍学预防项目的非营利教育清算中心；在四个详细比较对象中，其最高评级门槛最低（Wadhwa et al., 2024, pp.7, 15-16）。
 - [[Blueprints for Healthy Youth Development]] — 多领域、非营利清算中心，目标人群为 youth；最高评级要求高质量研究、独立复制和 12 个月持续效果（Wadhwa et al., 2024, pp.7, 14-15）。
-- [[Home Visiting Evidence of Effectiveness (HomVEE)]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、[[Quasi-Experimental Designs|QED]]、RDD 均有详细标准（Wadhwa et al., 2024, pp.7, 10, 16）。
+- [[Home Visiting Evidence of Effectiveness (HomVEE)]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 [[Randomised Controlled Trials|RCT]]、[[Quasi-Experimental Designs|QED]]、RDD 均有详细标准（Wadhwa et al., 2024, pp.7, 10, 16）。
 
 ### 项目评级分歧
 

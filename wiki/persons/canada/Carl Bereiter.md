@@ -25,7 +25,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Carl Bereiter，加拿大教育理论家，以"知识建构"（knowledge building）理论和"知识社会中的心智"研究著称。他在 Popper 和 Hattie 之间扮演了关键的中介角色——Bereiter 将 Popper 的三个世界理论引入教育研究，但其自身的化简为 Hattie 进一步的误读铺平了道路。
+> Carl Bereiter，加拿大教育理论家，以"知识建构"（knowledge building）理论和"知识社会中的心智"研究著称。他在 Popper 和 [[John Hattie|Hattie]] 之间扮演了关键的中介角色——Bereiter 将 Popper 的三个世界理论引入教育研究，但其自身的化简为 Hattie 进一步的误读铺平了道路。
 
 ## 生平与职涯
 
@@ -52,19 +52,19 @@ updated: '2026-05-19'
 
 
 > [!info] "容器意识理论"（Container Theory of Consciousness）
-> Bereiter 提出的概念，Hattie 引用此概念来否定传统教学观（Rømer, 2018, p.6）。
+> Bereiter 提出的概念，[[John Hattie|Hattie]] 引用此概念来否定传统教学观（Rømer, 2018, p.6）。
 
 ## 主要贡献
 
 > [!success] 主要贡献
 > - 知识建构理论的创始人
 > - 将 Popper 的认识论引入教育研究
-> - 为 Hattie 的 VL 提供了连接 Popper 的哲学通道（尽管 Hattie 进一步扭曲了这一通道）
+> - 为 [[John Hattie|Hattie]] 的 VL 提供了连接 Popper 的哲学通道（尽管 Hattie 进一步扭曲了这一通道）
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Rømer (2018, p.10) 指出 Bereiter 对 Popper 的化简——将 World 3 缩减为"真理与非真理"——为 Hattie 的进一步误读打开了大门，后者最终将 World 3 的客观性完全塌缩为 World 2 的主观学习。Hattie (2015) 在此误读基础上将表层/深层/建构性学习映射到 Popper 三个世界，形成 VL 的认识论框架
+> - Rømer (2018, p.10) 指出 Bereiter 对 Popper 的化简——将 World 3 缩减为"真理与非真理"——为 [[John Hattie|Hattie]] 的进一步误读打开了大门，后者最终将 World 3 的客观性完全塌缩为 World 2 的主观学习。Hattie (2015) 在此误读基础上将表层/深层/建构性学习映射到 Popper 三个世界，形成 VL 的认识论框架
 > - Qvortrup (2015) 从较温和的内部修正角度指出，Hattie 借 Bereiter/Popper 得到的三类知识，与 Bloom 修订版四类知识、SOLO 模型之间的对应关系并不清楚；因此需要转向[[Dynamic Knowledge and Learning Model]]，用一阶到四阶知识说明不同知识形式之间的动态关系（Qvortrup, 2015, pp.30–32）
 
 ## 来源

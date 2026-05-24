@@ -31,7 +31,7 @@ updated: 2026-05-23
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > Horizontal Knowledge Structure（横向知识结构）是 [[Basil Bernstein]] 用来分析社会科学知识形态的概念。它指一种由多个专门语言组成、缺乏整合原则的知识结构；每种语言都有自己的提问方式、文本建构标准和说话者群体，彼此之间难以完全翻译（Ball, 2008, p.651）。
 
 ## 核心问题

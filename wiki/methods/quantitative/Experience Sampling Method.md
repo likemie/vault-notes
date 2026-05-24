@@ -73,7 +73,7 @@ Csikszentmihalyi 的团队正是通过该方法从大量青少年日常体验数
 ## 使用此方法的研究
 
 > [!example]
-> - Li_2012_Cambridge — Li 提及该方法作为 Csikszentmihalyi 发现心流的方法基础，并指出后续研究也使用该方法收集了跨文化的真实情感体验数据（Li, 2012, p.77–78）
+> - Li_2012_Cambridge — Li 提及该方法作为 Csikszentmihalyi 发现[[Flow|心流]]的方法基础，并指出后续研究也使用该方法收集了跨文化的真实情感体验数据（Li, 2012, p.77–78）
 
 ---
 

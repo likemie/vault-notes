@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/comparative-education/Confucian Tutoring Style.md",
+                "file": "wiki/facts/uk/Hargreaves 1996 TTA Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confucian Tutoring Style"
+              "title": "Hargreaves 1996 TTA Lecture"
             }
           }
         ]
@@ -189,11 +189,25 @@
   },
   "active": "1ae9539e2ff14392",
   "lastOpenFiles": [
+    "wiki/facts/uk/EPPI-Centre.md",
+    "wiki/facts/uk/Education and Inspections Act 2006.md",
+    "wiki/facts/sweden/Swedish Institute for Educational Research.md",
+    "wiki/concepts/chinese-philosophy/Jing (Refined Mastery).md",
+    "wiki/facts/china/Academic Ranking of World Universities (ARWU).md",
+    "wiki/facts/australia/Victorian HITS and Literacy Toolkit 2017.md",
+    "wiki/concepts/chinese-philosophy/Rightness.md",
+    "wiki/concepts/comparative-education/Corporate Education.md",
+    "wiki/concepts/comparative-education/Corporate University.md",
+    "wiki/concepts/comparative-education/Cognitive Source.md",
+    "wiki/concepts/comparative-education/Pride in Learning.md",
+    "wiki/facts/china/Civil Service Examination.md",
+    "wiki/concepts/comparative-education/Examination Hell.md",
+    "wiki/concepts/comparative-education/Cross-National Attraction.md",
+    "wiki/concepts/comparative-education/Confucian Tutoring Style.md",
     "wiki/concepts/comparative-education/Boarding Schools.md",
     "wiki/concepts/comparative-education/International Schools.md",
     "wiki/concepts/comparative-education/Codeswitcher (School).md",
     "wiki/concepts/comparative-education/Chinese Learner.md",
-    "wiki/concepts/comparative-education/Cognitive Source.md",
     "wiki/methods/quantitative/Observational and Correlational Research.md",
     "wiki/concepts/comparative-education/Listening-Oriented Learning.md",
     "wiki/concepts/comparative-education/MCC Discourse Analysis Examples.md",
@@ -201,20 +215,6 @@
     "wiki/concepts/comparative-education/Heart and Mind for Wanting to Learn.md",
     "wiki/concepts/comparative-education/Global Education Industry.md",
     "wiki/concepts/comparative-education/Establishing Ones Will (lizhi).md",
-    "wiki/concepts/comparative-education/Discursive Opportunity Structures.md",
-    "wiki/concepts/comparative-education/Confucian Tutoring Style.md",
-    "wiki/concepts/comparative-education/Corporate Education.md",
-    "wiki/concepts/chinese-philosophy/Rightness.md",
-    "wiki/concepts/chinese-philosophy/Shu (Familiarization).md",
-    "wiki/concepts/comparative-education/Corporate University.md",
-    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
-    "wiki/facts/australia/Local Schools Local Decisions (NSW).md",
-    "wiki/facts/australia/Karmel Report 1973.md",
-    "wiki/facts/australia/Independent Public Schools (IPS) Western Australia.md",
-    "wiki/facts/australia/Gonski Reforms.md",
-    "wiki/concepts/educational-philosophy/Sympoiesis.md",
-    "wiki/concepts/educational-philosophy/Scientism.md",
-    "wiki/concepts/comparative-education/Socratic Tutoring Style.md",
     "scripts/__pycache__/wiki_linker.cpython-312.pyc",
     "scripts/__pycache__/wiki_relations.cpython-312.pyc",
     "scripts/__pycache__",

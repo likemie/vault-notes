@@ -32,7 +32,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > Programme Fidelity（方案忠实度）指在实施已被研究证明有效的干预方案时，尽可能忠实地复制原始方案的所有细节。Adaptation（本地适应）则指根据本地情境对原始方案进行调整修改。这两者之间存在持续的张力，是证据本位政策实施领域的核心争论。
 >
 > > "Fidelity matters because when programmes are modified to suit site-specific preferences or circumstances, in essence a different programme results, a programme that no longer benefits from the evidence available."（Cowen et al., 2015, p.17）
@@ -57,12 +57,12 @@ updated: '2026-05-18'
 > **本地适应（Adaptation）的理由：**
 > - 原始方案的支持因素在本地可能不存在——有时可以找到功能等价但形式不同的替代方案（Cartwright and Cowen, 2014; 引自 Cowen et al., 2015, p.18）
 > - 当方案无法完全复制时，理解你偏离了什么以及为什么偏离，比盲目追求忠实更重要（Cowen et al., 2015, p.30）
-> - 经济学家 Angus Deaton 的论证：一个与你更相似的邻近学校的经验（即使其修改了方案），可能比一个"完美"RCT 的均值结果更具预测价值（Cowen et al., 2015, p.18-19）
+> - 经济学家 Angus Deaton 的论证：一个与你更相似的邻近学校的经验（即使其修改了方案），可能比一个"完美"[[Randomised Controlled Trials|RCT]] 的均值结果更具预测价值（Cowen et al., 2015, p.18-19）
 >
 > > 例：一个家庭作业方案要求学生在家完成作业，但在某些学校学生缺乏合适的学习空间。替代方案——开设课后作业俱乐部——起到了相同的功能（提供安静的学习环境），但形式上不同于原始方案（Cartwright and Cowen, 2014; 引自 Cowen et al., 2015, p.18）
 
 
-> [!abstract] Tennessee STAR 与加州班级缩减：Fidelity vs Adaptation 的经典案例（Wiliam, 2019）
+> [!abstract] Tennessee [[Tennessee STAR Project 1985-1989|STAR]] 与加州班级缩减：Fidelity vs Adaptation 的经典案例（Wiliam, 2019）
 > Wiliam (2019, pp.5–7) 对 Tennessee STAR 项目和加州班级缩减政策进行了详细对比，揭示了 fidelity vs adaptation 辩论在大型教育政策中的具体表现：
 >
 > **Tennessee STAR (1985–1989) 的成功**：
@@ -108,12 +108,12 @@ updated: '2026-05-18'
 > - 教师访谈显示实践中几乎没有学校"开箱即用"地应用证据本位方案（Cowen et al., 2015, p.40-41）
 > - 部分教师试图向自己证明"忠实于研究"——通过测量中间结果来验证方案是否按预期产生了初始效果（Cowen et al., 2015, p.29-30）
 > - 另一位教师则认为只要理解自己偏离了什么以及为什么偏离，忠实度并非必须维持（Cowen et al., 2015, p.30）
-> - Tennessee STAR 本身也非"忠实执行"的完美范例：随机分配在操作中被破坏——家长发现孩子被分配到大班后施压转班，在平均更有效的学校中更富裕学生在小班中过度代表（Sohn, 2015）（Wiliam, 2019, pp.6–7）
+> - Tennessee [[Tennessee STAR Project 1985-1989|STAR]] 本身也非"忠实执行"的完美范例：随机分配在操作中被破坏——家长发现孩子被分配到大班后施压转班，在平均更有效的学校中更富裕学生在小班中过度代表（Sohn, 2015）（Wiliam, 2019, pp.6–7）
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **忠实执行的局限**：加州班级缩减政策的失败说明有时"忠实执行"在实践中根本不可能——因为支持因素（合格教师、教室）在当地不可得（Cowen et al., 2015, p.17-18）。Wiliam (2019, p.7) 补充了更深层的问题：当大规模推广时，RCT 试验本身的参与者（教师）质量就不可复制——这不是执行的问题，而是**试验条件本身在推广时就不再成立**。
+> - **忠实执行的局限**：加州班级缩减政策的失败说明有时"忠实执行"在实践中根本不可能——因为支持因素（合格教师、教室）在当地不可得（Cowen et al., 2015, p.17-18）。Wiliam (2019, p.7) 补充了更深层的问题：当大规模推广时，[[Randomised Controlled Trials|RCT]] 试验本身的参与者（教师）质量就不可复制——这不是执行的问题，而是**试验条件本身在推广时就不再成立**。
 > - **适应的风险**：教师创造性地使用证据有时远远超出证据支持的范围（Cowen et al., 2015, p.41）
 > - **没有手册可以告诉你答案**：Cowen et al. (2015, p.19) 指出没有现成手册规定哪些情况下应忠实哪些情况下应适应。Wiliam (2019, p.11) 的结论呼应了这一点："识别如何最有利地引导努力永远涉及判断的应用。"
 > - **"教育研究只告诉我们曾经是什么，而非可能是什么"**：Wiliam (2019, p.7) 的核心洞见——现有研究只能告诉我们"已被测试过的方案在已被测试过的条件下的效果"，而无法告诉我们"如果我们将此方案与情境适应的创新结合会发生什么"
@@ -122,8 +122,8 @@ updated: '2026-05-18'
 
 > [!example] 相关案例／政策
 > - [[California Class Size Reduction 1996]] — 加州 1996 年班级缩减政策未能复制田纳西州的成功
-> - [[Tennessee STAR Project 1985-1989]] — Wiliam (2019) 详细分析的 RCT 外推失败经典案例
-> - [[EEF Teaching and Learning Toolkit]] — 提供平均效应量但关于情境变异的信息有限
+> - [[Tennessee STAR Project 1985-1989]] — Wiliam (2019) 详细分析的 [[Randomised Controlled Trials|RCT]] 外推失败经典案例
+> - [[EEF Teaching and Learning Toolkit]] — 提供平均[[Effect Size|效应量]]但关于情境变异的信息有限
 
 ## 来源
 

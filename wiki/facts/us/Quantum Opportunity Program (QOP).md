@@ -39,14 +39,14 @@ updated: '2026-05-18'
 ## 清算中心评级分歧
 
 > [!info] 清算中心评级分歧
-> NDPC 将 QOP 评为 promising，但 Blueprints 和 WWC 均未将其评为 promising。对于更新版本 EQOP，Blueprints 给出 promising，而 CMFR 未给出 promising 评级（Wadhwa et al., 2024, pp.24–25）。
+> [[National Dropout Prevention Center (NDPC)|NDPC]] 将 QOP 评为 promising，但 Blueprints 和 [[What Works Clearinghouse (WWC)|WWC]] 均未将其评为 promising。对于更新版本 EQOP，Blueprints 给出 promising，而 [[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)|CMFR]] 未给出 promising 评级（Wadhwa et al., 2024, pp.24–25）。
 >
-> NDPC 的 QOP promising 评级依赖两项多地点 RCT，这些研究在一个地点显示了对学业技能、高中毕业和中学后教育的正向效果，但具体研究未被引用。WWC 审查两项 QOP 研究，只有 Schirm et al. (2006) 达到质量标准，但该研究没有在学校进展或学校完成方面显示统计显著或实质重要效果。Blueprints 没有发现 QOP 的正向证据，但基于一项带有限制的研究将 EQOP 评为 promising；CMFR 到 2019 年初未找到相关已发表研究，因此不能给出 promising 评级（Wadhwa et al., 2024, p.25）。
+> NDPC 的 QOP promising 评级依赖两项多地点 [[Randomised Controlled Trials|RCT]]，这些研究在一个地点显示了对学业技能、高中毕业和中学后教育的正向效果，但具体研究未被引用。WWC 审查两项 QOP 研究，只有 Schirm et al. (2006) 达到质量标准，但该研究没有在学校进展或学校完成方面显示统计显著或实质重要效果。Blueprints 没有发现 QOP 的正向证据，但基于一项带有限制的研究将 EQOP 评为 promising；CMFR 到 2019 年初未找到相关已发表研究，因此不能给出 promising 评级（Wadhwa et al., 2024, p.25）。
 
 ## 案例意义
 
-> [!success] 案例意义
-> QOP/EQOP 案例显示，项目更新版本、具体研究可获得性和清算中心对研究质量的要求会共同改变同一项目家族的评级。一个清算中心可能依据未完整列明的多地点 RCT 给出 promising，另一个清算中心则因可纳入研究未显示足够效果而不给出正向评级（Wadhwa et al., 2024, pp.24–25）。
+> [!success] 案例意[[Rightness|义]]
+> QOP/EQOP 案例显示，项目更新版本、具体研究可获得性和清算中心对研究质量的要求会共同改变同一项目家族的评级。一个清算中心可能依据未完整列明的多地点 [[Randomised Controlled Trials|RCT]] 给出 promising，另一个清算中心则因可纳入研究未显示足够效果而不给出正向评级（Wadhwa et al., 2024, pp.24–25）。
 
 ## 相关概念／政策
 

@@ -55,14 +55,14 @@ updated: '2026-05-18'
 > - 市场驱动的政策与财务可持续性——这些分校能否在经济上自给自足？
 > - 将一种文化嫁接到另一种文化之上的影响——西方教育模式在中东文化中的适用性
 > - 西方意识形态和社会实践对非西方文化的强加
-> - 人员、学科和课堂行为混合所带来的跨文化、教学法和伦理意义
+> - 人员、学科和课堂行为混合所带来的跨文化、教学法和伦理意[[Rightness|义]]
 
 ---
 
 ## 相关概念／政策
 
 > [!example]
-> - [[International Education]] — 教育城是高等教育国际化的极端案例
+> - [[International Education]] — 教育城是[[Internationalization of Higher Education|高等教育国际化]]的极端案例
 > - [[International Schools]] — K-12 层面的类似"去国家化"机构
 
 ---

@@ -52,12 +52,12 @@ updated: 2026-05-23
 ## 实施情况
 
 > [!example]
-> Campbell Collaboration 通过系统综述审查社会、经济和教育干预研究。它与欧洲证据基础设施的关系主要体现在 2007 年后国际总部迁至挪威，以及其综述被用来讨论欧洲教育政策选择的证据基础（Pellegrini & Vivanet, 2021, pp.28, 32）。
+> Campbell Collaboration 通过系统综述审查社会、经济和教育[[Intervention Research|干预研究]]。它与欧洲证据基础设施的关系主要体现在 2007 年后国际总部迁至挪威，以及其综述被用来讨论欧洲教育政策选择的证据基础（Pellegrini & Vivanet, 2021, pp.28, 32）。
 
 ## 效果与评价
 
 > [!success]
-> Campbell Collaboration 代表了 [[Evidence-Based Education|证据本位教育]] 中“先综合研究，再支持政策判断”的路径。Pellegrini & Vivanet 在讨论法国缩小班额政策时引用 Campbell 综述，说明班额缩小对阅读的影响较小、对数学可为负且不显著，从而支持“政策选择应比较成本和效果”的论点（Pellegrini & Vivanet, 2021, pp.27-28）。
+> Campbell Collaboration 代表了 [[Evidence-Based Education|证据本位教育]] 中“先综合研究，再支持政策判断”的路径。Pellegrini & Vivanet 在讨论法国缩小[[Class Size|班额]]政策时引用 Campbell 综述，说明班额缩小对阅读的影响较小、对数学可为负且不显著，从而支持“政策选择应比较成本和效果”的论点（Pellegrini & Vivanet, 2021, pp.27-28）。
 
 ## 争议与评论
 

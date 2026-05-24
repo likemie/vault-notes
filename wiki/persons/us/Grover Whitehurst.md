@@ -26,14 +26,14 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Grover "Russ" Whitehurst 是 Bush 政府时期（2001–2009）美国教育部教育研究与改进办公室（OERI, Office of Educational Research and Improvement）主任，后任教育科学研究所（IES, Institute of Education Sciences）首任所长。他是将**随机对照试验（RCT）**确立为联邦教育研究黄金标准的**关键政策执行者**。
+> Grover "Russ" Whitehurst 是 Bush 政府时期（2001–2009）美国教育部教育研究与改进办公室（OERI, Office of Educational Research and Improvement）主任，后任教育科学研究所（IES, Institute of Education Sciences）首任所长。他是将**[[Randomised Controlled Trials|随机对照试验]]（RCT）**确立为联邦教育研究黄金标准的**关键政策执行者**。
 
 ## 核心思想
 
 > [!info] 核心思想
 > Whitehurst 在任期内将随机化实验从方法论偏好转变为**联邦教育研究的制度性要求**：
 >
-> 1. **随机化实验的强力倡导**：Whitehurst 将 RCT 定位为评估教育干预的优先方法，主张"非随机化实验不可接受"。Slavin (2002, p. 17) 将此描述为"具有讽刺意味"——在政策多年对任何类型实验都漠不关心之后，OERI 直接跳过了严格匹配实验，要求随机化实验。
+> 1. **随机化实验的强力倡导**：Whitehurst 将 [[Randomised Controlled Trials|RCT]] 定位为评估教育干预的优先方法，主张"非随机化实验不可接受"。Slavin (2002, p. 17) 将此描述为"具有讽刺意味"——在政策多年对任何类型实验都漠不关心之后，OERI 直接跳过了严格[[Matching|匹配]]实验，要求随机化实验。
 >
 > 2. **早期儿童项目随机化评估的 RFP**：Whitehurst 发布了一份被 Slavin (2002, p. 15) 称为"本身就是一份革命性文件"的征求建议书（RFP），邀请早期儿童项目接受由第三方评估者收集数据的随机化评估。
 >
@@ -45,7 +45,7 @@ updated: '2026-05-19'
 
 > [!success] 主要贡献
 > - **教育科学研究所（IES）的建立**：Whitehurst 领导了将 OERI 重组为 IES 的过程，后者以医学 NIH 为模型建立了更严格的资助和研究标准
-> - **What Works Clearinghouse（WWC）**：在其领导下启动，成为美国教育项目有效性审查的核心机构
+> - **What Works Clearinghouse（[[What Works Clearinghouse (WWC)|WWC]]）**：在其领导下启动，成为美国教育项目有效性审查的核心机构
 > - **学前课程评估研究拨款项目**：首个大规模要求随机化评估的联邦教育研究拨款
 
 ## 主要著作
@@ -56,7 +56,7 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> Whitehurst 的政策行动与 Slavin 的学术倡导形成**互补但独立的推动力**：Slavin 从学术和项目开发者立场论证证据本位改革的必要性，Whitehurst 从联邦研究资助机构的制度权力出发将其付诸实施。两者的合力在 2000 年代初期创造了证据本位教育政策的"政策窗口"。
+> Whitehurst 的政策行动与 Slavin 的学术倡导形成**互补但独立的推动力**：Slavin 从学术和项目开发者立场论证[[Evidence-Based Reform|证据本位改革]]的必要性，Whitehurst 从联邦研究资助机构的制度权力出发将其付诸实施。两者的合力在 2000 年代初期创造了[[Evidence-Based Education|证据本位教育]]政策的"政策窗口"。
 
 ## 来源
 

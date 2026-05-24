@@ -48,7 +48,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 批判地缘政治学（Critical Geopolitics）是 1990 年代以来在人文地理学和政治地理学中发展起来的理论传统，核心主张是：空间性不限于领土性（spatiality is not limited to territoriality）——地缘政治秩序不仅通过领土控制和物质力量被建构，更通过政治想象、话语实践和意义建构被持续生产和再生产（Kuus, 2017, p.5, cited in Parreira do Amaral, 2022, p.37）。
+> 批判地缘政治学（Critical Geopolitics）是 1990 年代以来在人文地理学和政治地理学中发展起来的理论传统，核心主张是：空间性不限于领土性（spatiality is not limited to territoriality）——地缘政治秩序不仅通过领土控制和物质力量被建构，更通过政治想象、话语实践和意[[Rightness|义]]建构被持续生产和再生产（Kuus, 2017, p.5, cited in Parreira do Amaral, 2022, p.37）。
 >
 > > "Geopolitics, in this view, refers to the territorial, relational and discursive aspects of political imaginaries through which the world has become a global network of cities, regions, hubs or (free) economic zones that drive twenty-first century knowledge-intensive capitalist accumulation."（Moisio, 2018, p.7, cited in Parreira do Amaral, 2022, pp.37–38）
 

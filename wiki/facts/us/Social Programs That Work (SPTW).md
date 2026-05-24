@@ -39,7 +39,7 @@ updated: '2026-05-18'
 ## 概述
 
 > [!info] 概述
-> Social Programs That Work（SPTW）是 Wadhwa et al. 比较的 12 个教育证据清算中心之一。它是多领域清算中心，覆盖教育、健康、社会和经济福利、劳动、社会与行为发展；目标人群为 all；资金组织类型为 nonprofit；评级对象为项目（Wadhwa et al., 2024, p.7）。
+> Social Programs That Work（SPTW）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它是多领域清算中心，覆盖教育、健康、社会和经济福利、劳动、社会与行为发展；目标人群为 all；资金组织类型为 nonprofit；评级对象为项目（Wadhwa et al., 2024, p.7）。
 
 ## 评级对象与范围
 
@@ -49,7 +49,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准编码中，SPTW 对 RCT 的描述程度为 3，对一般 QED 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它是要求 ITT 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Promise Neighborhoods Research Consortium (PNRC)|PNRC]]（Wadhwa et al., 2024, p.9）。
+> 在设计标准编码中，SPTW 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它是要求 [[Intent-to-Treat Analysis|ITT]] 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Promise Neighborhoods Research Consortium (PNRC)|PNRC]]（Wadhwa et al., 2024, p.9）。
 >
 > SPTW 在 RCT 流失标准上接受总体流失低于 20%；在复制标准上，它强调多地点研究以及跨地点和文化情境复制的效果（Wadhwa et al., 2024, pp.9, 11）。
 >
@@ -58,7 +58,7 @@ updated: '2026-05-18'
 ## 与其他清算中心的差异
 
 > [!abstract] 与其他清算中心的差异
-> SPTW 对 RCT 的描述较详细，但对 QED 只作简要处理，且不列 RDD 或 ITS 标准。与 [[What Works Clearinghouse (WWC)|WWC]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)|CMFR]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)|CEBC]] 不同，它不区分无效项目与效果不确定项目，而是只报告正向效果项目（Wadhwa et al., 2024, pp.10, 12）。
+> SPTW 对 [[Randomised Controlled Trials|RCT]] 的描述较详细，但对 [[Quasi-Experimental Designs|QED]] 只作简要处理，且不列 RDD 或 ITS 标准。与 [[What Works Clearinghouse (WWC)|WWC]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)|CMFR]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)|CEBC]] 不同，它不区分无效项目与效果不确定项目，而是只报告正向效果项目（Wadhwa et al., 2024, pp.10, 12）。
 
 ## 相关概念／政策
 
