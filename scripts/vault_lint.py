@@ -830,7 +830,8 @@ def main() -> int:
     parser.add_argument("--strict", action="store_true", help="treat warnings as failures")
     parser.add_argument("--json", action="store_true", help="output JSON")
     parser.add_argument("--path", action="append", default=[], help="limit lint to path. Can be repeated.")
-    parser.add_argument("--quiet", action="store_true", help="only print summary unless errors/warnings exist")
+    parser.add_argument("--quiet", action="store_true", help="only print errors and summary")
+    parser.add_argument("--show-info", action="store_true", help="include INFO items in text output")
     args = parser.parse_args()
 
     paths = [Path(p) for p in args.path]
@@ -844,7 +845,9 @@ def main() -> int:
         print(json.dumps([asdict(i) for i in issues], ensure_ascii=False, indent=2))
     else:
         for issue in issues:
-            if issue.severity == "INFO" and args.quiet:
+            if args.quiet and issue.severity != "ERROR":
+                continue
+            if issue.severity == "INFO" and not args.show_info:
                 continue
             print(issue.format())
         print()

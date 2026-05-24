@@ -164,8 +164,8 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
     Split section text into (protected, chunk).
 
     Protected chunks are not edited. This avoids frontmatter/body handled elsewhere,
-    code blocks, headings, blockquotes, quote callouts, HTML, URLs/DOIs,
-    Markdown links, existing wikilinks, and embeds.
+    code blocks, headings, quote callouts, HTML, URLs/DOIs, Markdown links,
+    existing wikilinks, and embeds. Non-quote Obsidian callouts remain linkable.
     """
     protected: list[tuple[int, int]] = []
 
@@ -177,7 +177,7 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
     for m in re.finditer(r"(?ms)^```.*?^```\s*", text):
         add(m.start(), m.end())
 
-    # Headings and blockquotes line-by-line. Also skip all lines in quote callouts.
+    # Headings line-by-line. Also skip all lines in quote callouts.
     in_quote_callout = False
     pos = 0
     for line in text.splitlines(keepends=True):
@@ -185,12 +185,11 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
         stripped = line.lstrip()
         if re.match(r"^#{1,6}\s", stripped):
             add(start, end)
-        if stripped.startswith(">"):
+        if re.match(r"^>\s*\[!quote\]", stripped, re.IGNORECASE):
+            in_quote_callout = True
+        if in_quote_callout and stripped.startswith(">"):
             add(start, end)
-            if re.match(r"^>\s*\[!quote\]", stripped, re.IGNORECASE):
-                in_quote_callout = True
         elif in_quote_callout:
-            # Quote callout continuation normally uses >. If it stops, stop skipping.
             in_quote_callout = False
         pos = end
 
@@ -300,8 +299,12 @@ def link_section(section: str, terms: list[Term], current_title: str, already_li
     out: list[str] = []
 
     for protected, chunk in chunks:
-        if protected or not chunk:
+        if protected:
+            for m in WIKILINK_RE.finditer(chunk):
+                already_linked.add(m.group(1).strip())
             out.append(chunk)
+            continue
+        if not chunk:
             continue
 
         i = 0
@@ -343,13 +346,9 @@ def link_body(body: str, terms: list[Term], current_title: str) -> tuple[str, in
             linked_sections.append(section)
             continue
 
-        # Count existing valid wikilinks in this section so we do not add another
-        # link to the same target in the same ## section.
+        # Track links as we encounter them left-to-right so the first mention in
+        # a ## section gets linked even when a later mention was already linked.
         already_linked: set[str] = set()
-        for m in WIKILINK_RE.finditer(section):
-            target = m.group(1).strip()
-            already_linked.add(target)
-
         linked, added = link_section(section, terms, current_title, already_linked)
         linked_sections.append(linked)
         additions += added

@@ -1,19 +1,18 @@
 ---
 title: Shu (Familiarization)
 aliases:
-- 熟
-- 熟悉化
-- shu
-- familiarizing oneself
-- familiarity
-summary: "中国学习过程中勤奋美德的第一阶段_通过反复接触使学习者对材料的所有表层细节达到识别和流畅_被视为通往精通的必要第一步"
+  - 熟
+  - 熟悉化
+  - familiarizing oneself
+  - familiarity
+summary: 中国学习过程中勤奋美德的第一阶段_通过反复接触使学习者对材料的所有表层细节达到识别和流畅_被视为通往精通的必要第一步
 type: concept
 tags:
-- region/china
-- field/chinese-philosophy
-- field/cultural-psychology
-- theme/learning
-- theory/confucianism
+  - region/china
+  - field/chinese-philosophy
+  - field/cultural-psychology
+  - theme/learning
+  - theory/confucianism
 related_concepts:
   - "[[Sage]]"
   - "[[Learning Virtues]]"
