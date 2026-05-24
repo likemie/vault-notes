@@ -16,6 +16,7 @@ tags:
   - theme/tracking
   - level/k12
 related_concepts:
+  - "[[Grade Retention]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
@@ -49,7 +50,7 @@ updated: 2026-05-24
 - 能力本位课程以 Socles de Compétences 为代表，该法律文件规定义务教育前 8 年结束时应掌握的核心能力，并要求教育项目以此为基础（Dachet & Baye, 2021, p.169）。
 - 学前教育改革前不是义务教育，但 3 至 5 岁儿童就读率达到 97%；问题在于缺少明确说明儿童应学习内容和应被认证能力的教育标准（Dachet & Baye, 2021, p.169）。
 - 五周期结构包含早期分流：12 岁左右在普通教育和差异化教育之间进行第一次方向选择，14 岁左右在普通轨和职业轨之间进行第二次方向选择；失败和学习困难经常推动学生进入被视为失败者去处的轨道（Dachet & Baye, 2021, p.169）。
-- [[Grade Retention in French-Speaking Belgium|留级]]被频繁用于管理学习困难，小学平均每年级约 3%，中学平均每年级约 12%；到小学结束约 22.7% 学生落后同龄人，到中学结束约 60% 学生落后（Dachet & Baye, 2021, p.169）。
+- [[Grade Retention|留级]]被频繁用于管理学习困难，详见[[Grade Retention in French-Speaking Belgium|法语比利时案例]]：小学平均每年级约 3%，中学平均每年级约 12%；到小学结束约 22.7% 学生落后同龄人，到中学结束约 60% 学生落后（Dachet & Baye, 2021, p.169）。
 - 7 至 14 岁学生课堂时间接近 7,700 小时，高于 OECD 平均 6,732 小时；暑假长达两个月，假期分布不均衡（Dachet & Baye, 2021, pp.169-170）。
 - 小学和初中教师改革前接受 3 年非大学初始培养（Dachet & Baye, 2021, p.170）。
 
@@ -67,6 +68,7 @@ updated: 2026-05-24
 
 > [!example]
 > - [[Pact for Educational Excellence]] — 2015 年启动的结构性改革，直接回应该系统的绩效与公平问题（Dachet & Baye, 2021, p.170）。
+> - [[Grade Retention]] — 留级作为一般制度实践的主条目。
 > - [[Grade Retention in French-Speaking Belgium]] — 系统中最清晰的“证据充分但实践持续”的问题案例（Dachet & Baye, 2021, pp.165, 174）。
 
 ## 来源

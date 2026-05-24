@@ -15,6 +15,7 @@ tags:
   - theme/evidence-based-education
   - policy/compulsory-education
 related_concepts:
+  - "[[Grade Retention]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -45,7 +46,7 @@ updated: 2026-05-24
 > [!info]
 > 法语比利时教育系统在 1988 年第三次国家改革后拥有较高教育自治权，但仍受部分联邦规则约束，例如义务教育免费以及 6 至 18 岁义务教育要求（Dachet & Baye, 2021, p.169）。PISA 2015/2018 显示，该系统在科学和阅读上低于 OECD 平均水平，数学接近平均水平，同时社会出身对成绩的影响很强且有加剧趋势（Dachet & Baye, 2021, p.170）。
 
-改革前的[[French-Speaking Belgium Education System|法语比利时教育系统]]问题包括：学前教育虽有 97% 的 3 至 5 岁儿童就读，但并非义务教育且缺少明确教育标准；学生在 12 岁和 14 岁前后较早进入不同轨道；[[Grade Retention in French-Speaking Belgium|留级]]被频繁用于处理学习困难，小学每年级平均留级率约 3%，中学每年级约 12%；到小学结束约 22.7% 学生落后同龄人，到中学结束约 60% 学生落后；7 至 14 岁学生课堂时间接近 7,700 小时，高于 OECD 平均 6,732 小时，暑假长达两个月且假期分布不均（Dachet & Baye, 2021, pp.169-170）。
+改革前的[[French-Speaking Belgium Education System|法语比利时教育系统]]问题包括：学前教育虽有 97% 的 3 至 5 岁儿童就读，但并非义务教育且缺少明确教育标准；学生在 12 岁和 14 岁前后较早进入不同轨道；[[Grade Retention|留级]]被频繁用于处理学习困难，详见[[Grade Retention in French-Speaking Belgium|法语比利时案例]]；7 至 14 岁学生课堂时间接近 7,700 小时，高于 OECD 平均 6,732 小时，暑假长达两个月且假期分布不均（Dachet & Baye, 2021, pp.169-170）。
 
 ## 政策文本摘要
 
@@ -85,7 +86,7 @@ updated: 2026-05-24
 > [!warning]
 > 公约处在纯粹证据本位范式与学科教学专家传统专业发展取向之间的妥协位置。它承认实验研究和项目验证的重要性，但由于本地实验研究稀少、英语文献进入困难、政治上难以排除多数既有工具，只能先采用方法多元的包容性标准，而不是直接套用 EEF、WWC 或 BEE 的证据等级（Dachet & Baye, 2021, pp.175-176, 181-182）。
 
-[[Grade Retention in French-Speaking Belgium|留级政策]]展示了“有证据但改革不够强”的一面。大量综述未能识别留级的平均正效应，但改革目标只是到 2030 年降低 50%，仍允许共同核心课程阶段使用留级；这体现了自上而下禁令与自下而上软性改变之间的政策取舍（Dachet & Baye, 2021, p.174）。
+[[Grade Retention|留级]]政策展示了“有证据但改革不够强”的一面。大量综述未能识别留级的平均正效应，但[[Grade Retention in French-Speaking Belgium|法语比利时案例]]中的改革目标只是到 2030 年降低 50%，仍允许共同核心课程阶段使用留级；这体现了自上而下禁令与自下而上软性改变之间的政策取舍（Dachet & Baye, 2021, p.174）。
 
 ## 相关概念／理论
 

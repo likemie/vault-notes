@@ -14,6 +14,7 @@ tags:
   - method/narrative-case-study
   - policy/compulsory-education
 related_concepts:
+  - "[[Grade Retention]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -67,7 +68,7 @@ updated: 2026-05-24
 
 ### 第一步：系统问题制造了改革窗口
 
-[[French-Speaking Belgium Education System|法语比利时教育系统]]在 PISA 2015/2018 中表现并不理想，科学和阅读低于 OECD 平均，数学接近平均；更严重的是，社会出身对成绩的影响强且似乎加剧（Dachet & Baye, 2021, p.170）。系统结构中还存在早期分流、[[Grade Retention in French-Speaking Belgium|频繁留级]]、学前教育非义务化和教师初始培养较短等问题（Dachet & Baye, 2021, pp.169-170）。
+[[French-Speaking Belgium Education System|法语比利时教育系统]]在 PISA 2015/2018 中表现并不理想，科学和阅读低于 OECD 平均，数学接近平均；更严重的是，社会出身对成绩的影响强且似乎加剧（Dachet & Baye, 2021, p.170）。系统结构中还存在早期分流、[[Grade Retention|留级]]频繁、学前教育非义务化和教师初始培养较短等问题；其中[[Grade Retention in French-Speaking Belgium|法语比利时留级案例]]是证据与惯例脱节最清楚的例子（Dachet & Baye, 2021, pp.165, 169-170）。
 
 这一步的逻辑是：如果系统同时存在低绩效和强不公平，改革就不能只靠个别学校或教师自发改进，而需要结构层面的政策行动。
 
