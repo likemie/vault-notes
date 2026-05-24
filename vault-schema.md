@@ -8,7 +8,7 @@
 
 - 只读取当前任务需要的文件，避免扫描无关文件夹。
 - 先读 `wiki/index.json` 判断条目是否可能已存在；若缺失、过期或有歧义，再按类型搜索对应二级文件夹。
-- `wiki/index.json` 和 `wiki/index.md` 由 `scripts/wiki_index.py` 自动生成，不手动维护。
+- `wiki/index.json` 和 `wiki/wiki-index.md` 由 `scripts/wiki_index.py` 自动生成，不手动维护。
 - 新建、移动、删除、重命名条目后，运行：
   ```bash
   python3 scripts/wiki_index.py
@@ -31,10 +31,10 @@ books/                       书籍工作区与书籍 schema
   schema-monograph-pdf.md
   schema-monograph-epub.md
 templater/                   Obsidian Templater 插件模板，不供 AI 工作流读取
-scripts/wiki_index.py 自动生成 wiki/index.json 与 wiki/index.md
+scripts/wiki_index.py         自动生成 wiki/index.json 与 wiki/wiki-index.md
 wiki/
-  index.json                 AI / Claude Code 检索用机器索引
-  index.md                   GitHub / Quartz / Obsidian 可读静态索引
+  index.json                 AI / Claude Code 检索用极简机器索引，只用于判断条目是否存在
+  wiki-index.md              GitHub / Quartz / Obsidian 可读静态索引
   templates/                 AI / Claude Code 条目模板
   concepts/<field>/
   theories/<field>/
@@ -44,11 +44,11 @@ wiki/
   persons/<nationality-or-region>/
   facts/<region>/
   arguments/journal-articles/
-  arguments/books/
+  arguments/books/<book-folder>/
   arguments/reports-policy-documents/
 ```
 
-### 二级文件夹规则
+### 二级／三级文件夹规则
 
 | 条目类型 | 路径 | 归类规则 |
 |---|---|---|
@@ -57,9 +57,29 @@ wiki/
 | Method | `wiki/methods/qualitative/`、`quantitative/`、`mixed/` | 按方法类型 |
 | Person | `wiki/persons/<nationality-or-region>/` | 按国籍／地区；不明或跨国身份放 `global` |
 | Fact | `wiki/facts/<region>/` | 按地区；全球性放 `global`；多国比较放 `multi` |
-| Argument | `wiki/arguments/journal-articles/`、`books/`、`reports-policy-documents/` | 按文献类型 |
+| Argument | `wiki/arguments/journal-articles/`、`books/<book-folder>/`、`reports-policy-documents/` | 按文献类型；书籍相关 Argument 再按具体书籍文件夹分组 |
 
 文件名、文件夹名、`title`、`tags` 使用英文；正文使用简体中文。
+
+---
+
+## Index Rules
+
+- `scripts/wiki_index.py` 的实际路径是：
+  ```text
+  /Users/shaoyangwu/Documents/MyNotes/scripts/wiki_index.py
+  ```
+- 运行方式：
+  ```bash
+  cd /Users/shaoyangwu/Documents/MyNotes
+  python3 scripts/wiki_index.py
+  ```
+- 脚本输出：
+  - `wiki/index.json`：AI / Claude Code 使用的极简索引，用于判断条目是否存在
+  - `wiki/wiki-index.md`：静态 Markdown 索引，用于 GitHub / Quartz / Obsidian 浏览
+- 不要手动编辑 `wiki/index.json` 或 `wiki/wiki-index.md`。
+- `wiki/index.json` 不承担展示功能，不需要包含 tags、status、sources、related_*、journal、book_title 等信息。
+- `summary` 只用于生成 `wiki/wiki-index.md` 的一行说明；修改 summary 后必须重新运行脚本。
 
 ---
 
@@ -107,7 +127,7 @@ processed_date: YYYY-MM-DD
 8. 逐条处理待更新条目：读取文件 → 判断插入位置 → 用 `str_replace` 精确整合。
 9. 逐条处理待新建条目：只读取对应模板 → 按模板写入对应二级文件夹。
 10. 维护必要的 frontmatter `related_*`、`sources` 与正文 wikilink。
-11. 运行 `python3 scripts/wiki_index.py`。
+11. 运行 `python3 scripts/wiki_index.py`，自动更新 `wiki/index.json` 与 `wiki/wiki-index.md`。
 
 ### 书籍任务
 
