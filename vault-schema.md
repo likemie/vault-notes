@@ -8,9 +8,13 @@
 
 - 只读取当前任务需要的文件，避免扫描无关文件夹。
 - 先读 `wiki/index.json` 判断条目是否可能已存在；若缺失、过期或有歧义，再按类型搜索对应二级文件夹。
-- `wiki/index.json` 和 `wiki/wiki-index.md` 由 `scripts/wiki_index.py` 自动生成，不手动维护。
-- 新建、移动、删除、重命名条目后，运行：
+- `wiki/index.json` 和 `wiki/index.md` 由 `scripts/wiki_index.py` 自动生成，不手动维护。
+- `wiki/index.md` 是 Quartz 4 / Obsidian / GitHub 可读索引页面，可作为 `wiki/` 首页。
+- 新建、移动、删除、重命名条目后，运行完整同步流程：
   ```bash
+  python3 scripts/wiki_index.py
+  python3 scripts/wiki_linker.py sync
+  python3 scripts/wiki_relations.py sync
   python3 scripts/wiki_index.py
   ```
 - 修改已有条目必须使用 `str_replace`，只替换需要修改的段落，不重写整个文件。
@@ -18,6 +22,7 @@
   > 本条内容属于 `## 章节名 > ### 子主题名`，插入位置在……之后／之前，理由是……
 - 所有来源性陈述都必须标注页码：`（Author, year, p.X）`。
 - 不使用来源以外的知识；不确定时宁可不写。
+- AI 不手动维护 `related_*` 和 YAML `sources`；这些字段由 `scripts/wiki_relations.py` 根据正文 wikilink 与 `## 来源` 章节自动同步。
 
 ---
 
@@ -31,10 +36,13 @@ books/                       书籍工作区与书籍 schema
   schema-monograph-pdf.md
   schema-monograph-epub.md
 templater/                   Obsidian Templater 插件模板，不供 AI 工作流读取
-scripts/wiki_index.py         自动生成 wiki/index.json 与 wiki/wiki-index.md
+scripts/
+  wiki_index.py               自动生成 wiki/index.json 与 wiki/index.md
+  wiki_linker.py              根据 index.json 自动同步正文 wikilink
+  wiki_relations.py           根据正文 wikilink 自动同步 YAML related_* 与 sources
 wiki/
-  index.json                 AI / Claude Code 检索用极简机器索引，只用于判断条目是否存在
-  wiki-index.md              GitHub / Quartz / Obsidian 可读静态索引
+  index.json                 AI / Claude Code 检索用极简机器索引
+  index.md                   Quartz 4 / Obsidian / GitHub 可读静态索引
   templates/                 AI / Claude Code 条目模板
   concepts/<field>/
   theories/<field>/
@@ -57,33 +65,126 @@ wiki/
 | Method | `wiki/methods/qualitative/`、`quantitative/`、`mixed/` | 按方法类型 |
 | Person | `wiki/persons/<nationality-or-region>/` | 按国籍／地区；不明或跨国身份放 `global` |
 | Fact | `wiki/facts/<region>/` | 按地区；全球性放 `global`；多国比较放 `multi` |
-| Argument | `wiki/arguments/journal-articles/`、`books/<book-folder>/`、`reports-policy-documents/` | 按文献类型；书籍相关 Argument 再按具体书籍文件夹分组 |
+| Argument | `wiki/arguments/journal-articles/`、`wiki/arguments/books/<book-folder>/`、`wiki/arguments/reports-policy-documents/` | 按文献类型；书籍 Argument 再按具体书籍文件夹分组 |
 
 文件名、文件夹名、`title`、`tags` 使用英文；正文使用简体中文。
 
 ---
 
-## Index Rules
+## 3. Script Rules
 
-- `scripts/wiki_index.py` 的实际路径是：
-  ```text
-  /Users/shaoyangwu/Documents/MyNotes/scripts/wiki_index.py
-  ```
-- 运行方式：
-  ```bash
-  cd /Users/shaoyangwu/Documents/MyNotes
-  python3 scripts/wiki_index.py
-  ```
-- 脚本输出：
-  - `wiki/index.json`：AI / Claude Code 使用的极简索引，用于判断条目是否存在
-  - `wiki/wiki-index.md`：静态 Markdown 索引，用于 GitHub / Quartz / Obsidian 浏览
-- 不要手动编辑 `wiki/index.json` 或 `wiki/wiki-index.md`。
-- `wiki/index.json` 不承担展示功能，不需要包含 tags、status、sources、related_*、journal、book_title 等信息。
-- `summary` 只用于生成 `wiki/wiki-index.md` 的一行说明；修改 summary 后必须重新运行脚本。
+### Index
+
+`scripts/wiki_index.py` 的实际路径是：
+
+```text
+/Users/shaoyangwu/Documents/MyNotes/scripts/wiki_index.py
+```
+
+运行方式：
+
+```bash
+cd /Users/shaoyangwu/Documents/MyNotes
+python3 scripts/wiki_index.py
+```
+
+脚本输出：
+
+- `wiki/index.json`：AI / Claude Code 使用的极简索引，用于判断条目是否存在。
+- `wiki/index.md`：Quartz 4 / GitHub / Obsidian 可读静态索引，也可作为 `wiki/` 首页。
+
+不要手动编辑 `wiki/index.json` 或 `wiki/index.md`。
+
+`wiki/index.json` 不承担展示功能，不需要包含 tags、status、sources、related_*、journal、book_title 等信息。是否保留 aliases 由脚本实现决定；aliases 若进入 index，则仅用于判断已有条目和自动补链。
+
+`summary` 只用于生成 `wiki/index.md` 的一行说明；修改 summary 后必须重新运行脚本。
+
+### Automatic Wikilink
+
+`scripts/wiki_linker.py` 根据 `wiki/index.json` 自动同步正文 wikilink。
+
+运行：
+
+```bash
+python3 scripts/wiki_linker.py sync
+```
+
+规则：
+
+- `title` 和 `aliases` 是自动补链依据。
+- 如果某个 alias 太宽泛，直接从条目 frontmatter 的 `aliases` 中删除，再重新运行同步流程。
+- 以每个 `##` 二级标题为一个 section。
+- 每个 section 内，同一 target 只链接第一次出现。
+- `###` 和更低层级不重新计算。
+- 删除条目或删除 alias 后，脚本应把失效自动链接还原为纯文本。
+- 不链接当前文件自身。
+- 跳过 YAML frontmatter、标题行、代码块、已有 Markdown 链接、URL、DOI、HTML、PDF / EPUB 嵌入、blockquote、`[!quote]` callout。
+
+### Frontmatter Relations
+
+`scripts/wiki_relations.py` 根据正文 wikilink 自动同步 YAML 中的关系字段。
+
+运行：
+
+```bash
+python3 scripts/wiki_relations.py sync
+```
+
+自动维护：
+
+```yaml
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
+```
+
+规则：
+
+- `related_*` 根据正文中出现的 wikilink 自动生成，并根据被链接条目的 `type` 分类。
+- `## 来源` 或 `## Sources` 章节中的 wikilink 不写入 `related_*`，只写入 YAML `sources`。
+- `![[...]]` 嵌入链接不计入关系。
+- AI 不手动填写 `related_*` 和 YAML `sources`；如需建立关系，应在正文中自然使用 wikilink，并在 `## 来源` 章节列出来源。
+
+脚本不得修改：
+
+```yaml
+title:
+aliases:
+summary:
+type:
+subtype:
+tags:
+citation:
+journal:
+book_title:
+authors:
+editors:
+publisher:
+part_of:
+confidence:
+status:
+created:
+```
+
+### Standard Sync Command
+
+每次处理完条目、书籍章节、source 记录或模板更新后，运行：
+
+```bash
+cd /Users/shaoyangwu/Documents/MyNotes
+python3 scripts/wiki_index.py
+python3 scripts/wiki_linker.py sync
+python3 scripts/wiki_relations.py sync
+python3 scripts/wiki_index.py
+```
 
 ---
 
-## 3. Source Files
+## 4. Source Files
 
 ### raw/
 
@@ -91,7 +192,7 @@ wiki/
 
 ### sources/
 
-处理完成后，将 PDF 移入 `sources/`，并建立同名 `.md`：
+普通论文或报告处理完成后，将 PDF 移入 `sources/`，并建立同名 `.md`：
 
 ```markdown
 ---
@@ -105,20 +206,23 @@ processed_date: YYYY-MM-DD
 ![[FileName.pdf]]
 ```
 
+规则：
+
 - `extracted_to` 中每个 wikilink 必须加双引号。
 - `sources` / `extracted_to` 字段使用数组格式。
 - 书籍来源记录按对应 book schema 执行。
+- `sources/` 下的 source 记录不是普通 wiki 条目，不进入 `related_*` 自动维护逻辑。
 
 ---
 
-## 4. Workflow
+## 5. Workflow
 
 ### 普通论文／报告
 
 1. 读取 `vault-schema.md`。
 2. 若触发书籍任务，转入对应 book schema，不继续普通论文流程。
 3. 提取 `raw/FILENAME.pdf` 文本。
-4. 扫描文献，列出可提取条目：Concept / Theory / Policy / Event / Person / Method / Argument。
+4. 扫描文献，列出可提取条目：Concept / Theory / Fact / Person / Method / Argument。
 5. 读取 `wiki/index.json` 判断候选条目是否已存在；必要时搜索对应二级文件夹确认。
 6. 将候选分为：
    - 待更新条目
@@ -126,8 +230,8 @@ processed_date: YYYY-MM-DD
 7. 移动 PDF 到 `sources/`，新建同名 source `.md`。
 8. 逐条处理待更新条目：读取文件 → 判断插入位置 → 用 `str_replace` 精确整合。
 9. 逐条处理待新建条目：只读取对应模板 → 按模板写入对应二级文件夹。
-10. 维护必要的 frontmatter `related_*`、`sources` 与正文 wikilink。
-11. 运行 `python3 scripts/wiki_index.py`，自动更新 `wiki/index.json` 与 `wiki/wiki-index.md`。
+10. 在正文中自然使用 wikilink，在 `## 来源` 章节列出 source wikilink。
+11. 运行标准同步命令。
 
 ### 书籍任务
 
@@ -136,14 +240,14 @@ processed_date: YYYY-MM-DD
 | 触发条件 | 读取文件 |
 |---|---|
 | `(Ed.)` / 编著 / 论文集 | `books/schema-edited-volume.md` |
-| 专著 PDF | `books/schema-monograph-pdf.md` |
+| 专著 PDF / 用户标注「专著」 | `books/schema-monograph-pdf.md` |
 | `.epub` | `books/schema-monograph-epub.md` |
 
-书籍任务每次只处理一章，处理完停止并询问下一步。
+书籍任务每次只处理一章或用户当前指定的章节内容。处理完当前章节后停止。
 
 ---
 
-## 5. Entry Perspective
+## 6. Entry Perspective
 
 ### Knowledge-base perspective
 
@@ -188,13 +292,14 @@ Argument 必须详细拆解论证链：
 
 ---
 
-## 6. Extraction Criteria
+## 7. Extraction Criteria
 
 ### Fact
 
 有明确时间 + 地点 + 主体的政策、事件、制度安排，应建 Fact 条目。
 
 例：
+
 - 政策、法案、课程纲要、白皮书
 - 历史事件、课程改革节点
 - 教育制度、考试制度、督学制度、分流制度
@@ -235,10 +340,14 @@ Argument 必须详细拆解论证链：
 
 ---
 
-## 7. Writing and Template Rules
+## 8. Writing and Template Rules
 
 - 新建条目必须读取对应 `wiki/templates/template-*.md`。
 - 模板提供结构和样式；有内容才写，没有内容可省略空章节。
+- `summary` 只用于索引说明，不是摘要。
+- `summary` 外层必须使用双引号包裹。
+- `summary` 内容内部禁止出现英文冒号 `:`、双引号 `"`、单引号 `'`。
+- 如果英文标题原本有冒号，用下划线 `_` 替代。
 - 重要定义、关键数据、关键引用、争议、例子等，按模板使用 callout。
 - 常用 callout：
   - `[!info]`：定义、背景、方法说明
@@ -255,7 +364,7 @@ Argument 必须详细拆解论证链：
 
 ---
 
-## 8. Updating Existing Entries
+## 9. Updating Existing Entries
 
 整合新内容时：
 
@@ -267,9 +376,9 @@ Argument 必须详细拆解论证链：
 - 每条新增信息附来源页码。
 - 更新 frontmatter：
   - `updated`
-  - `sources`
   - 需要时更新 `confidence`
-  - 相关条目更新 `related_*`
+  - `related_*` 与 `sources` 不手动更新，交由脚本同步。
+- 在正文中自然使用 wikilink，脚本会自动维护 frontmatter 关系。
 
 ### 章节组织
 
@@ -281,9 +390,16 @@ Argument 必须详细拆解论证链：
 
 ---
 
-## 9. Aliases and Tags
+## 10. Aliases and Tags
 
 ### aliases
+
+`aliases` 同时承担两个功能：
+
+1. Obsidian 检索别名
+2. `wiki_linker.py` 自动 wikilink 的匹配词
+
+因此 aliases 必须保持精确。若某个 alias 产生错误链接，直接从对应条目的 aliases 中删除，然后重新运行标准同步命令。
 
 - Argument 不使用 `aliases`。
 - Concept / Theory / Method / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
@@ -301,27 +417,30 @@ Argument 必须详细拆解论证链：
   - `theme/`
   - `method/`
   - `theory/`
+  - `policy/`
+  - `source/`
 
 ---
 
-## 10. Wikilink and Duplication Rules
+## 11. Wikilink and Duplication Rules
 
 核心原则：用 wikilink 减少重复。
 
 - 详细内容只写在最相关的主条目中。
 - 其他条目只写一句关系说明 + wikilink。
-- 正文中第一次出现已有条目名称时加 wikilink；同一页面同一名称不重复链接。
-- 泛指某类事物时不链接。
+- 正文中第一次出现已有条目名称时加 wikilink；实际补链由 `wiki_linker.py` 以 `##` section 为作用域执行。
+- 泛指某类事物时不链接；如自动链接不合适，删除对应 alias 后重新同步。
 - 条目尚未建立时先写纯文字，建立后再补链接。
-- frontmatter `related_*` 与正文链接都要尽量维护双向关系。
+- AI 不手动维护 frontmatter `related_*`；正文链接是关系来源。
 
 例：
+
 - ZPD 的详细机制写在 `[[Zone of Proximal Development]]`，不要在 `[[Vygotsky]]` 和 `[[Constructivism]]` 中重复展开。
 - `[[Vygotsky]]` 生平只写在人物条目，理论条目中只写一句关系说明。
 
 ---
 
-## 11. Quartz / Markdown Safety
+## 12. Quartz / Markdown Safety
 
 写入 Markdown 时注意：
 
