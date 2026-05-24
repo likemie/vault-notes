@@ -16,10 +16,16 @@ tags:
 - school/liberalism
 - theme/knowledge
 - theme/learning
-related_concepts: []
+related_concepts:
+  - "[[Certainty of Knowledge]]"
+  - "[[Mind and Its Wonders]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Immanuel Kant]]"
+  - "[[George Berkeley]]"
+  - "[[Jean-Jacques Rousseau]]"
 related_facts: []
 related_arguments: []
 sources: []

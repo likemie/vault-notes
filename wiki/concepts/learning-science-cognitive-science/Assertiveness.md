@@ -11,7 +11,9 @@ tags:
 - classroom-interaction
 - subject/psychology
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Self-control]]"
+  - "[[Classroom Learning Culture]]"
 related_theories: []
 related_methods: []
 related_persons: []

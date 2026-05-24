@@ -11,10 +11,13 @@ tags:
   - theme/sociology-of-education
   - theme/knowledge-structure
   - theory/bernstein
-related_concepts: []
+related_concepts:
+  - "[[New Sociology of Education]]"
+  - "[[Political Arithmetic]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Basil Bernstein]]"
 related_facts: []
 related_arguments: []
 sources: []

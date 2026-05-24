@@ -12,11 +12,16 @@ tags:
 - school-reform
 - region/new-zealand
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Educational Management Organisation (EMO)]]"
+  - "[[Network Governance]]"
+  - "[[School Autonomy]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Contestable School Support Services (NZ 2011)]]"
+  - "[[Visible Learning Branding and Global Influences]]"
 related_arguments: []
 sources: []
 confidence: medium

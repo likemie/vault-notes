@@ -12,7 +12,9 @@ tags:
 - region/sweden
 - level/k12
 - subject/instruction-pedagogy
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Effective Teaching]]"
 related_theories: []
 related_methods: []
 related_persons: []

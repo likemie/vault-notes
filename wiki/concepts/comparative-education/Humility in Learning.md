@@ -13,10 +13,18 @@ tags:
   - theme/affect
   - theme/learning-virtue
   - theme/self-cultivation
-related_concepts: []
+related_concepts:
+  - "[[Pride in Learning]]"
+  - "[[Tongxue]]"
+  - "[[Nerd (School Peer Culture)]]"
+  - "[[Intellectual-Social Divide]]"
+  - "[[Ideal Learner]]"
+  - "[[Jing (Refined Mastery)]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources: []

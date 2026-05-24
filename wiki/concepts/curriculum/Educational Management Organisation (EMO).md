@@ -10,11 +10,14 @@ tags:
 - subject/curriculum
 - region/new-zealand
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Network Governance]]"
+  - "[[Venture Philanthropy]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Partnership Schools Kura Hourua (NZ 2011)]]"
 related_arguments: []
 sources: []
 confidence: medium

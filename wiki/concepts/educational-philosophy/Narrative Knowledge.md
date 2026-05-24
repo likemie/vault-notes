@@ -10,10 +10,12 @@ tags:
 - geopolitics-of-knowledge
 - knowledge-production
 - postmodernism
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Frantz Fanon]]"
 related_facts: []
 related_arguments: []
 sources: []

@@ -13,7 +13,10 @@ issuing_organization: ''
 tags:
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Epistemic Governance]]"
+  - "[[University Social Responsibility]]"
+  - "[[Organizational Actorhood]]"
 related_theories: []
 related_methods: []
 related_persons: []

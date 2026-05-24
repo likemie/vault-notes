@@ -11,8 +11,10 @@ tags:
 - decision-making
 - organizational-theory
 - region/us
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Professional Judgment]]"
+related_theories:
+  - "[[Bounded Rationality]]"
 related_methods: []
 related_persons: []
 related_arguments: []

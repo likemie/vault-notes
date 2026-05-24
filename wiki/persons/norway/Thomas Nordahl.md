@@ -13,11 +13,19 @@ tags:
 - school-improvement
 - region/norway
 - stance/support
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Professional Judgment]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[New Public Management]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_arguments: []
+related_persons:
+  - "[[John Hattie]]"
+related_arguments:
+  - "[[Argument_Nordahl_2015_Paideia]]"
+  - "[[Argument_Hansen_2015_Paideia]]"
 sources: []
 confidence: low
 status: draft

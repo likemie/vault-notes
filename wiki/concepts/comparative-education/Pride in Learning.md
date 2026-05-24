@@ -15,7 +15,11 @@ tags:
   - theme/achievement
   - region/east-asia
   - region/west
-related_concepts: []
+related_concepts:
+  - "[[Humility in Learning]]"
+  - "[[Rightness]]"
+  - "[[Western Learner]]"
+  - "[[MCC Discourse Analysis Examples]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -10,7 +10,13 @@ tags:
 - education-policy
 - privatisation
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Policy Entrepreneur]]"
+  - "[[Network Governance]]"
+  - "[[Political Arithmetic]]"
+  - "[[New Sociology of Education]]"
+  - "[[School Effectiveness]]"
 related_theories: []
 related_methods: []
 related_persons: []

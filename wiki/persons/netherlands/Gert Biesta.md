@@ -13,10 +13,17 @@ tags:
 - dewey
 - region/uk
 - region/netherlands
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Value-Based Education]]"
+  - "[[Learnification]]"
+  - "[[Complexity Reduction]]"
+  - "[[Visible Learning]]"
+related_theories:
+  - "[[Transactional Epistemology]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_arguments: []
 sources: []
 confidence: high

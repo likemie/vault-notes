@@ -11,11 +11,17 @@ tags:
 - subject/curriculum
 - level/k12
 - paradigm/constructivist
-related_concepts: []
+related_concepts:
+  - "[[Language Experience Approach]]"
+  - "[[Simple View of Reading]]"
+  - "[[Direct Instruction]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[No Child Left Behind Act 2001]]"
+  - "[[Rose Report 2006]]"
 related_arguments: []
 sources: []
 confidence: medium

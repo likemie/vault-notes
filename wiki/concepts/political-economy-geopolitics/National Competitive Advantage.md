@@ -11,9 +11,15 @@ tags:
 - geopolitical-imaginary
 - knowledge-based-economy
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Rightness]]"
+  - "[[Economic Patriotism]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Spatial Sortings]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

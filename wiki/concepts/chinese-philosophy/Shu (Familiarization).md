@@ -14,7 +14,11 @@ tags:
 - field/cultural-psychology
 - theme/learning
 - theory/confucianism
-related_concepts: []
+related_concepts:
+  - "[[Sage]]"
+  - "[[Learning Virtues]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Self-Cultivation]]"
 related_theories: []
 related_methods: []
 related_persons: []

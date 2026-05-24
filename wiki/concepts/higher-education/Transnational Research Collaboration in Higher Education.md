@@ -13,11 +13,15 @@ tags:
 - geopolitics
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Internationalization of Higher Education]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Australia in the Asian Century White Paper 2012]]"
 related_arguments: []
 sources: []
 confidence: medium

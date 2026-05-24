@@ -11,11 +11,17 @@ tags:
 - school-leadership
 - paradigm/critical
 - region/australia
-related_concepts: []
+related_concepts:
+  - "[[Parallel Monologues]]"
+  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Cult of the Guru]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Eacott_2015_EPT]]"
+  - "[[Argument_Eacott_2011_JEAH]]"
+  - "[[Argument_Eacott_2017_SLM]]"
 sources: []
 confidence: medium
 status: draft

@@ -14,7 +14,10 @@ tags:
 - level/k12
 - assessment
 - accountability
-related_concepts: []
+related_concepts:
+  - "[[School Autonomy]]"
+  - "[[New Public Management]]"
+  - "[[Performativity of Measurement]]"
 related_theories: []
 related_methods: []
 related_persons: []

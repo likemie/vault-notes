@@ -17,7 +17,9 @@ tags:
 - research-policy
 - region/asia
 - region/australia
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Internationalization of Higher Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

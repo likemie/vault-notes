@@ -11,7 +11,9 @@ tags:
 - education-politics
 - paradigm/critical
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Atomisation of Knowledge and Skills]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

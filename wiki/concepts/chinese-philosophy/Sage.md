@@ -16,10 +16,18 @@ tags:
 - theory/confucianism
 - field/chinese-philosophy
 - theme/learning
-related_concepts: []
+related_concepts:
+  - "[[Junzi]]"
+  - "[[Self-Cultivation]]"
+  - "[[Ren]]"
+  - "[[Take the World Upon Oneself]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
+  - "[[Mencius]]"
+  - "[[Zhu Xi]]"
+  - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
 sources: []

@@ -10,8 +10,13 @@ tags:
 - sympoiesis
 - world-making
 - higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Transhumanism]]"
+  - "[[Humosity]]"
+  - "[[SF (Haraway)]]"
+  - "[[Sympoiesis]]"
+related_theories:
+  - "[[Autopoiesis]]"
 related_methods: []
 related_persons: []
 related_facts: []

@@ -11,11 +11,19 @@ tags:
 - policy-instruments
 - governance
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Performance Indicators]]"
+  - "[[Network Governance]]"
+  - "[[Selectivity]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[UN Sustainable Development Goals 2015]]"
+  - "[[Innovation Union]]"
+  - "[[EU Skills Agenda]]"
+  - "[[Europe 2020 Strategy]]"
+  - "[[Youth Guarantee Scheme]]"
 related_arguments: []
 sources: []
 confidence: medium

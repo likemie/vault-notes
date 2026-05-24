@@ -10,11 +10,21 @@ tags:
 - post-socialism
 - region/china
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Rightness]]"
+  - "[[Graduation Pathway Typology (Zheng)]]"
+  - "[[Value Conformist Mode]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Credential Inflation]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Yajun Zheng]]"
+related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources:
   - "[[Yajun Zheng]]"

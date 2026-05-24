@@ -10,7 +10,9 @@ tags:
   - theme/educational-inequality
   - region/uk
   - method/quantitative
-related_concepts: []
+related_concepts:
+  - "[[New Sociology of Education]]"
+  - "[[School Effectiveness]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -9,7 +9,10 @@ tags:
 - cultural-sociology
 - moral-judgment
 - paradigm/interpretivist
-related_concepts: []
+related_concepts:
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Habitus]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -11,7 +11,8 @@ tags:
 - region/germany
 - region/us
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Radical Constructivism]]"
 related_methods: []
 related_persons: []
 related_arguments: []

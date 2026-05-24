@@ -12,7 +12,8 @@ tags:
 - marketization
 - higher-ed
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Learning Analytics]]"
 related_theories: []
 related_methods: []
 related_persons: []

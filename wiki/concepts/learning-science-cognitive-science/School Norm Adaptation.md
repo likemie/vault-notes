@@ -11,12 +11,17 @@ tags:
 - subject/psychology
 - level/k12
 - region/norway
-related_concepts: []
+related_concepts:
+  - "[[Gender Differences in Academic Achievement]]"
+  - "[[Professional Judgment]]"
+  - "[[Motivation and Work Effort]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Lekhal_2015_Paideia]]"
 sources: []
 confidence: medium
 status: draft

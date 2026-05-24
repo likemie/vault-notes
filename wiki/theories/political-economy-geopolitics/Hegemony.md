@@ -12,12 +12,20 @@ tags:
 - theory/political-economy
 - theme/power
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Official Knowledge]]"
+  - "[[Sinicisation]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Global Universities Rankings]]"
+  - "[[Internationalization of Higher Education]]"
+related_theories:
+  - "[[World-Systems Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Marginson_2025_ROE]]"
+  - "[[Argument_Yu_2024_CE]]"
 sources: []
 confidence: medium
 status: draft

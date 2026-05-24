@@ -14,7 +14,9 @@ tags:
   - theme/peer-culture
   - theme/achievement
   - theme/self-presentation
-related_concepts: []
+related_concepts:
+  - "[[Intellectual-Social Divide]]"
+  - "[[Zero-Sum Competition (School)]]"
 related_theories: []
 related_methods: []
 related_persons: []

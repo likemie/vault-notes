@@ -15,12 +15,16 @@ tags:
 - higher-education
 - social-justice
 - philosophy
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Global Universities Rankings]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pepka Boyadjieva]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Boyadjieva_2022_Springer]]"
 sources: []
 confidence: low
 status: draft

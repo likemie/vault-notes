@@ -11,11 +11,22 @@ tags:
 - economization
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Geopolitical Subject]]"
+  - "[[Economic Patriotism]]"
+  - "[[Rightness]]"
+  - "[[Doxa]]"
+  - "[[Knowledge Production]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Global Education Industry]]"
+  - "[[Spatial Sortings]]"
+related_theories:
+  - "[[Fixity-Motion Tension]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Minerva University]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -11,9 +11,12 @@ tags:
 - region/uk
 - region/us
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Nick Cowen]]"
+  - "[[Gert Biesta]]"
 related_arguments: []
 sources: []
 confidence: medium

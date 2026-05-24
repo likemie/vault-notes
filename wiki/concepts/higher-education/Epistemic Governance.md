@@ -10,12 +10,23 @@ type: concept
 tags:
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Otherhood]]"
+  - "[[Rightness]]"
+  - "[[Cultural Models]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Scientization of Politics]]"
+  - "[[Epistemic Drift]]"
+related_theories:
+  - "[[World Society Theory]]"
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[UN Sustainable Development Goals 2015]]"
+  - "[[THE Impact Ranking 2019]]"
+related_arguments:
+  - "[[Argument_Zapp_2022_Springer]]"
 sources: []
 confidence: medium
 status: draft

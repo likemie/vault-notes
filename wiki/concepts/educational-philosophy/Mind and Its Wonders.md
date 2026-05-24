@@ -14,10 +14,16 @@ tags:
 - field/cognitive-science
 - theme/knowledge
 - theme/learning
-related_concepts: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[Certainty of Knowledge]]"
+  - "[[Western Learner]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Socrates]]"
+  - "[[Plato]]"
 related_facts: []
 related_arguments: []
 sources: []

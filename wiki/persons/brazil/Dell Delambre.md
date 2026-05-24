@@ -10,10 +10,16 @@ tags:
 - field/epistemology
 - field/higher-education
 - field/sustainability
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Life Power]]"
+  - "[[Tense Society]]"
+  - "[[Geopolitics of Knowledge]]"
+related_theories:
+  - "[[Creative Tension of Sense]]"
+related_methods:
+  - "[[Ganz-Methode]]"
+related_persons:
+  - "[[Walter Mignolo]]"
 related_arguments: []
 sources: []
 confidence: low

@@ -13,7 +13,9 @@ related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_郑_2023_上海三联书店]]"
+  - "[[Argument_Yu_2024_CE]]"
 sources: []
 confidence: medium
 status: draft

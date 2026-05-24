@@ -11,7 +11,8 @@ tags:
 - level/adult
 - region/global
 - subject/comparative-education
-related_concepts: []
+related_concepts:
+  - "[[Corporate Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

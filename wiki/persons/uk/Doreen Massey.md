@@ -9,7 +9,16 @@ tags:
 - region/uk
 - field/human-geography
 - field/higher-education
-related_concepts: []
+related_concepts:
+  - "[[Multiplicity (Massey)]]"
+  - "[[Power-Geometries]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Methodological Nationalism]]"
+  - "[[Classical Geopolitics]]"
+  - "[[Rightness]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Scale in Higher Education]]"
+  - "[[Space-Making in Higher Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -12,11 +12,17 @@ tags:
 - higher-education
 - social-stratification
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Economy of Experience]]"
+  - "[[Employability]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Yajun Zheng]]"
+related_facts:
+  - "[[China College Graduate Employment Reform 1986-1997]]"
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources: []
 confidence: medium

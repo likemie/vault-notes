@@ -14,12 +14,26 @@ tags:
 - higher-education
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Corporate Education]]"
+  - "[[Corporate University]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Learning Analytics]]"
+  - "[[Bildung]]"
+  - "[[Knowledge Production]]"
+  - "[[International Education Hubs]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Partnership Schools Kura Hourua (NZ 2011)]]"
+  - "[[Minerva University]]"
+related_arguments:
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 sources: []
 confidence: low
 status: draft

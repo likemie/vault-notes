@@ -12,11 +12,20 @@ tags:
 - moral-sidestep
 - grammar-schools
 - region/uk
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Moral Sidestep]]"
+  - "[[Rightness]]"
+  - "[[Justified Warrants]]"
+related_theories:
+  - "[[Legitimation Theory Van Leeuwen]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Carnivalesque Analysis]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Grammar School]]"
+  - "[[Ofsted]]"
 related_arguments: []
 sources: []
 part_of: ''

@@ -12,11 +12,15 @@ tags:
 - region/us
 - region/japan
 - education-reform
-related_concepts: []
+related_concepts:
+  - "[[Policy Borrowing]]"
+  - "[[Cross-National Attraction]]"
+  - "[[Externalization (Schriewer)]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[A Nation at Risk 1983]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -9,10 +9,14 @@ tags:
 - literacy
 - subject/curriculum
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Whole Language]]"
+  - "[[Effect Size]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
 sources: []

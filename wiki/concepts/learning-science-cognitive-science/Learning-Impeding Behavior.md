@@ -11,7 +11,10 @@ tags:
 - subject/psychology
 - level/k12
 - region/norway
-related_concepts: []
+related_concepts:
+  - "[[Classroom Management]]"
+  - "[[School Norm Adaptation]]"
+  - "[[Motivation and Work Effort]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -12,11 +12,17 @@ tags:
 - cross-national-attraction
 - comparative-education
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Policy Borrowing]]"
+  - "[[Externalization (Schriewer)]]"
+  - "[[Cross-National Attraction]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[American Attraction to Japanese Education 1980s]]"
+  - "[[Late Qing Borrowing of Japanese Education]]"
+  - "[[A Nation at Risk 1983]]"
 related_arguments: []
 sources: []
 part_of: ''

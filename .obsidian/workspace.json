@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/educational-philosophy/Examined Life.md",
+                "file": "wiki/concepts/chinese-philosophy/Shame (Confucianism).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Examined Life"
+              "title": "Shame (Confucianism)"
             }
           }
         ]
@@ -189,6 +189,20 @@
   },
   "active": "1ae9539e2ff14392",
   "lastOpenFiles": [
+    "wiki/theories/learning-science-cognitive-science/Appraisal Theory.md",
+    "wiki/concepts/chinese-philosophy/Rightness.md",
+    "wiki/concepts/comparative-education/MCC Discourse Analysis Examples.md",
+    "wiki/concepts/comparative-education/Pride in Learning.md",
+    "wiki/concepts/educational-philosophy/Epistemology of Resistance.md",
+    "wiki/concepts/educational-philosophy/Learnification.md",
+    "wiki/concepts/educational-philosophy/Incarnation-Extension Dialectics.md",
+    "wiki/concepts/educational-philosophy/Moral Sidestep.md",
+    "scripts/__pycache__/wiki_linker.cpython-312.pyc",
+    "scripts/__pycache__/wiki_relations.cpython-312.pyc",
+    "scripts/__pycache__",
+    "wiki/facts/uk/Grammar School.md",
+    "wiki/concepts/educational-philosophy/Mind and Its Wonders.md",
+    "wiki/concepts/educational-philosophy/Examined Life.md",
     "wiki/concepts/educational-philosophy/Epistemological Break.md",
     "wiki/concepts/educational-philosophy/Complexity Reduction.md",
     "wiki/concepts/educational-philosophy/Cargo Cult Science.md",
@@ -200,7 +214,6 @@
     "books/schema-monograph-epub.md",
     "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "scripts/__pycache__/vault_lint.cpython-312.pyc",
-    "scripts/__pycache__",
     "scripts/vault_lint.py",
     "scripts/source_record.py",
     "information/CLAUDE.md",
@@ -208,23 +221,10 @@
     "books/Li_2012_Cambridge/Li_2012_Cultural_Foundations_of_Learning.pdf",
     "books/Li_2012_Cambridge/Li_2012_Cambridge第一章.pdf",
     "books/Li_2012_Cambridge/Li_2012_Cambridge第四章.pdf",
-    "books/Li_2012_Cambridge/Li_2012_Cambridge第六章.pdf",
     "wiki/persons/switzerland/Jean Piaget.md",
-    "scripts/wiki_linker.py",
     "wiki/persons/switzerland/Norberto Bottani.md",
     "wiki/persons/taiwan/Chen Kuan-Hsing.md",
     "wiki/persons/japan/Akira Miyake.md",
-    "wiki/persons/bulgaria/Pepka Boyadjieva.md",
-    "wiki/persons/argentina/Walter Mignolo.md",
-    "wiki/facts/uk/What Works Network (UK).md",
-    "wiki/facts/uk/Education and Inspections Act 2006.md",
-    "wiki/facts/uk/Committee for the Accreditation of Teacher Education.md",
-    "wiki/facts/uk/Centre for the Use of Research and Evidence in Education.md",
-    "wiki/facts/uk/Areopagitica (1644).md",
-    "wiki/facts/sweden/Visible Learning in Sweden.md",
-    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
-    "wiki/concepts/comparative-education/Grade Retention.md",
-    "wiki/facts/belgium/Grade Retention in French-Speaking Belgium.md",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/iShot_2026-05-23_15.07.28.png",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",

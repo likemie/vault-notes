@@ -13,11 +13,17 @@ tags:
 - region/global
 - policy/innovation
 - policy/education
-related_concepts: []
+related_concepts:
+  - "[[Performance Indicators]]"
+  - "[[Rightness]]"
+  - "[[Selectivity]]"
+  - "[[Theories of Policy Change]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Europe 2020 Strategy]]"
+  - "[[EU Skills Agenda]]"
 related_arguments: []
 sources: []
 confidence: medium

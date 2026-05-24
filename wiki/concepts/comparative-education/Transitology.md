@@ -9,11 +9,14 @@ tags:
 - comparative-education
 - late-modernity
 - higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Policy Borrowing]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Robert Cowen]]"
+related_facts:
+  - "[[Regional University Alliances]]"
 related_arguments: []
 sources: []
 confidence: medium

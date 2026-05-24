@@ -14,10 +14,22 @@ tags:
 - theme/digitalization
 - theme/competitiveness
 - theory/governmentality
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Online Self-Assessment]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Performativity of Measurement]]"
+  - "[[Rightness]]"
+  - "[[Learning Analytics]]"
+  - "[[Digital Self]]"
+  - "[[Digital Optimum]]"
+  - "[[Bildung]]"
+related_theories:
+  - "[[Governmentality]]"
+  - "[[Societies of Control]]"
+related_methods:
+  - "[[Matching]]"
+related_persons:
+  - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
 sources: []

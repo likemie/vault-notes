@@ -8,7 +8,8 @@ type: concept
 tags:
 - region/global
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[International Schools]]"
 related_theories: []
 related_methods: []
 related_persons: []

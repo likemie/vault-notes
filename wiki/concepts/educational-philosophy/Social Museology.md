@@ -12,9 +12,15 @@ tags:
 - region/global
 - theme/museology
 - theme/community
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Ecomuseology]]"
+  - "[[Life Power]]"
+  - "[[Epistemology of Resistance]]"
+related_theories:
+  - "[[Creative Tension of Sense]]"
+  - "[[Decolonial Geopolitics of Knowledge]]"
+related_methods:
+  - "[[Ganz-Methode]]"
 related_persons: []
 related_facts: []
 related_arguments: []

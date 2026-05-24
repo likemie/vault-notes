@@ -9,11 +9,13 @@ type: concept
 tags:
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Epistemic Governance]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[UN Sustainable Development Goals 2015]]"
 related_arguments: []
 sources: []
 confidence: medium

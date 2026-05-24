@@ -12,7 +12,9 @@ tags:
   - region/western
   - theme/affect
   - theme/teacher-student-relationship
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Learning Virtues]]"
 related_theories: []
 related_methods: []
 related_persons: []

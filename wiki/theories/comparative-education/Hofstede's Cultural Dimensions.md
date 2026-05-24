@@ -9,12 +9,17 @@ tags:
 - culture
 - national-culture
 - comparative-education
-related_concepts: []
+related_concepts:
+  - "[[Chinese Learner]]"
+  - "[[Effective Teaching]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Ryan_2010_ChineseLearner]]"
+  - "[[Argument_Laursen_2015_Paideia]]"
 sources: []
 confidence: low
 status: draft

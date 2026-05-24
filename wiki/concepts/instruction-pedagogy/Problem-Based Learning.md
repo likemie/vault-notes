@@ -9,7 +9,11 @@ tags:
 - problem-based-learning
 - subject/instruction
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Phenomenon-Based Learning]]"
+  - "[[Bildung]]"
+  - "[[Didaktik]]"
+  - "[[Direct Instruction]]"
 related_theories: []
 related_methods: []
 related_persons: []

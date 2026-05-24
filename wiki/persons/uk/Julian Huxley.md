@@ -12,7 +12,10 @@ tags:
 - eugenics
 - scientific-humanism
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Transhumanism]]"
+  - "[[Posthumanism]]"
 related_theories: []
 related_methods: []
 related_persons: []

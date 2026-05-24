@@ -14,7 +14,9 @@ tags:
 - region/global
 - level/k12
 - subject/curriculum
-related_concepts: []
+related_concepts:
+  - "[[International Schools]]"
+  - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
 related_persons: []

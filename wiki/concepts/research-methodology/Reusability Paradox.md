@@ -10,12 +10,17 @@ tags:
   - theme/external-validity
   - theme/program-implementation
   - region/eu
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[EU Evidence-Informed Education Policy Initiatives]]"
+related_arguments:
+  - "[[Argument_Pellegrini_2021_ROE]]"
 sources: []
 confidence: medium
 status: draft

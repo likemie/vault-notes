@@ -13,7 +13,8 @@ tags:
 - epistemology
 - region/uk
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Critical Realism]]"
 related_methods: []
 related_persons: []
 related_arguments: []

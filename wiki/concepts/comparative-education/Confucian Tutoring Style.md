@@ -12,7 +12,13 @@ tags:
   - theme/socialization
   - region/east-asia
   - theory/confucianism
-related_concepts: []
+related_concepts:
+  - "[[Socratic Tutoring Style]]"
+  - "[[Learning Virtues]]"
+  - "[[Rightness]]"
+  - "[[Cognitive Source]]"
+  - "[[Pride in Learning]]"
+  - "[[MCC Discourse Analysis Examples]]"
 related_theories: []
 related_methods: []
 related_persons: []

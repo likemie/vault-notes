@@ -8,11 +8,16 @@ tags:
 - professional-judgment
 - teacher-development
 - evidence-based-education
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Informed Practice]]"
+  - "[[Programme Fidelity vs Adaptation]]"
+related_theories:
+  - "[[Bounded Rationality]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
 related_arguments: []
 sources: []
 confidence: low

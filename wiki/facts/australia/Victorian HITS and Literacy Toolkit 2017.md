@@ -14,7 +14,9 @@ tags:
 - evidence-based-education
 - region/australia
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -11,9 +11,16 @@ tags:
 - statistical-inference
 - effect-size
 - research-methodology
-related_concepts: []
+related_concepts:
+  - "[[Statistical Significance]]"
+  - "[[Effect Size]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Visible Learning]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Rasch Measurement]]"
 related_persons: []
 related_facts: []
 related_arguments: []

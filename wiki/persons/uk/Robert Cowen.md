@@ -9,12 +9,19 @@ tags:
 - robert-cowen
 - comparative-education
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Transitology]]"
+  - "[[Rightness]]"
+  - "[[International Education]]"
+  - "[[Vergegenkunft]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_arguments: []
 sources: []
+related_facts:
+  - "[[Regional University Alliances]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

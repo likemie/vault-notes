@@ -13,9 +13,13 @@ tags:
 - theme/cross-cultural-learning
 - field/cultural-psychology
 - method/narrative
-related_concepts: []
+related_concepts:
+  - "[[Enculturation]]"
+  - "[[Cultural Models]]"
+  - "[[Learning Virtues]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Prototype Methods]]"
 related_persons: []
 related_arguments: []
 sources: []

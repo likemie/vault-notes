@@ -12,11 +12,19 @@ tags:
 - didaktik
 - region/finland
 - stance/critique
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Phenomenon-Based Learning]]"
+  - "[[Bildung]]"
+  - "[[Didaktik]]"
+  - "[[Epochal Key Problems]]"
+  - "[[Atomisation of Knowledge and Skills]]"
+related_theories:
+  - "[[Phenomenology]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Wolfgang Klafki]]"
+related_facts:
+  - "[[SveaSus Project]]"
 related_arguments: []
 sources: []
 part_of: ''

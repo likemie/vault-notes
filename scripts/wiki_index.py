@@ -307,13 +307,15 @@ def write_json(entries: list[dict[str, Any]]) -> None:
     - Let AI / Claude Code quickly know whether an entry exists.
     - Provide the file path if it needs to open the entry.
     - Include aliases for matching Chinese names / abbreviations.
+    - Include type so wiki_relations.py can classify links safely.
 
-    Do not store type, tags, status, journal, book_title, sources, or related_* here.
+    Do not store tags, status, journal, book_title, sources, or related_* here.
     """
     compact = []
     for e in entries:
         item = {
             "title": e["title"],
+            "type": e["type"],
             "path": e["path"],
         }
         if e.get("aliases"):

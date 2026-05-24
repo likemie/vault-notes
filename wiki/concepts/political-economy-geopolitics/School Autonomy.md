@@ -10,11 +10,18 @@ tags:
 - region/australia
 - level/k12
 - paradigm/neoliberal
-related_concepts: []
+related_concepts:
+  - "[[New Public Management]]"
+  - "[[School Leadership]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Karmel Report 1973]]"
+  - "[[Local Schools Local Decisions (NSW)]]"
+  - "[[Independent Public Schools (IPS) Western Australia]]"
+  - "[[My School Website]]"
+  - "[[Gonski Reforms]]"
 related_arguments: []
 sources: []
 confidence: medium

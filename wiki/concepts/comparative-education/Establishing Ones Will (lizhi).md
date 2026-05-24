@@ -14,7 +14,11 @@ tags:
 - theme/cross-cultural-learning
 - theme/learning-motivation
 - theme/affect
-related_concepts: []
+related_concepts:
+  - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Learning Virtues]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Jing (Refined Mastery)]]"
 related_theories: []
 related_methods: []
 related_persons: []

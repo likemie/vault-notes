@@ -12,7 +12,10 @@ tags:
 - learning-science
 - region/denmark
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Direct Instruction]]"
+  - "[[Feedback]]"
 related_theories: []
 related_methods: []
 related_persons: []

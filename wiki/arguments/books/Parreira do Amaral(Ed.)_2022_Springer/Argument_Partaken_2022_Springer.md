@@ -10,11 +10,39 @@ tags:
 - region/global
 - knowledge-transfer
 - geopolitics-of-knowledge
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Forced Knowledge Transfer]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Rightness]]"
+  - "[[Sage]]"
+  - "[[Knowledge Production]]"
+  - "[[Fourth Industrial Revolution]]"
+  - "[[Narrative Knowledge]]"
+  - "[[Junzi]]"
+  - "[[Li (Propriety)]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Economic and Industrial Espionage]]"
+  - "[[Knowledge Sabotage]]"
+related_theories:
+  - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Network Society]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Frantz Fanon]]"
+  - "[[Chen Kuan-Hsing]]"
+  - "[[Jean-François Lyotard]]"
+  - "[[Plato]]"
+  - "[[Confucius]]"
+  - "[[Paulo Freire]]"
+related_facts:
+  - "[[Kokutai no Hongi (1937)]]"
+  - "[[US-China Economic and Security Review Commission (2000)]]"
+  - "[[Thousand Talents Program]]"
+  - "[[China Social Credit System]]"
+  - "[[Areopagitica (1644)]]"
 related_arguments: []
 sources: []
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'

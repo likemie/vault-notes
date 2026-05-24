@@ -18,7 +18,21 @@ tags:
   - region/global
   - level/higher-ed
   - theme/subjectification
-related_concepts: []
+related_concepts:
+  - "[[Performativity of Measurement]]"
+  - "[[Feedback]]"
+  - "[[Educational Technology Industry]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Online Self-Assessment]]"
+  - "[[Digital Self]]"
+  - "[[Digital Optimum]]"
+  - "[[Professional Judgment]]"
+  - "[[Rightness]]"
+  - "[[Transhumanism]]"
+  - "[[Bildung]]"
+  - "[[Preemptive Governance]]"
+  - "[[Gamification]]"
+  - "[[Data Behaviorism]]"
 related_theories: []
 related_methods: []
 related_persons: []

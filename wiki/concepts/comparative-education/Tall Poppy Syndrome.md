@@ -12,9 +12,14 @@ tags:
   - theme/peer-culture
   - theme/achievement
   - theme/social-comparison
-related_concepts: []
+related_concepts:
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Nerd (School Peer Culture)]]"
+  - "[[Zero-Sum Competition (School)]]"
+  - "[[Intellectual-Social Divide]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

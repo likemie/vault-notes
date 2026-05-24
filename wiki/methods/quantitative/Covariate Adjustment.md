@@ -12,9 +12,13 @@ tags:
 - causal-inference
 - statistical-modeling
 - quantitative-methods
-related_concepts: []
+related_concepts:
+  - "[[Effect Size]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Matching]]"
 related_persons: []
 related_arguments: []
 sources: []

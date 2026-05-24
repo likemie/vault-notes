@@ -9,10 +9,13 @@ tags:
 - theme/spatiality
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Space-Making in Higher Education]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Doreen Massey]]"
 related_facts: []
 related_arguments: []
 sources: []

@@ -10,7 +10,8 @@ tags:
 - piaget
 - paradigm/constructivist
 - region/switzerland
-related_concepts: []
+related_concepts:
+  - "[[Dynamic Knowledge and Learning Model]]"
 related_theories: []
 related_methods: []
 related_persons: []

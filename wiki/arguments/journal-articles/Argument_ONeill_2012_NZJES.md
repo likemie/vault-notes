@@ -13,13 +13,16 @@ tags:
 - policy-borrowing
 - region/new-zealand
 - stance/critique
-related_concepts: []
+related_concepts:
+  - "[[Material Fallacies]]"
+  - "[[Policy Entrepreneur]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[ONeill_2012_NZJES]]"
 part_of: ''
 status: published
 created: '2026-05-06'
@@ -86,4 +89,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- ONeill_2012_NZJES
+- [[ONeill_2012_NZJES]]

@@ -12,12 +12,23 @@ tags:
 - scd
 - experimental-design
 - evidence-based-education
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Rightness]]"
+  - "[[5-3-20 Rule]]"
+  - "[[Gating Procedure]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hitchcock_2015_JBE]]"
 sources: []
+related_facts:
+  - "[[What Works Clearinghouse (WWC)]]"
+  - "[[WWC SCD Pilot Standards 2010]]"
+  - "[[Home Visiting Evidence of Effectiveness (HomVEE)]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

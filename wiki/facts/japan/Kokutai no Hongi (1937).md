@@ -13,7 +13,12 @@ tags:
 - colonial-education
 - knowledge-transfer
 - geopolitics-of-knowledge
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Forced Knowledge Transfer]]"
+  - "[[Knowledge Transfer]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -13,12 +13,23 @@ tags:
 - field/educational-philosophy
 - theme/critical-thinking
 - theme/learning
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Sage]]"
+  - "[[Ideal Learner]]"
+  - "[[University Motto]]"
+  - "[[Self-Cultivation]]"
+  - "[[Certainty of Knowledge]]"
+  - "[[Mind and Its Wonders]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Socrates]]"
+  - "[[Jean-Jacques Rousseau]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Li_2012_Cambridge]]"
 sources: []
 confidence: medium
 status: draft

@@ -17,12 +17,38 @@ tags:
 - region/sweden
 - region/russia
 - region/international
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Effective Teaching]]"
+  - "[[Cult of the Guru]]"
+  - "[[Material Fallacies]]"
+  - "[[Class Size]]"
+  - "[[Global Education Reform Movement (GERM)]]"
+  - "[[Educational Management Organisation (EMO)]]"
+  - "[[Performativity of Measurement]]"
+  - "[[Policy Entrepreneur]]"
+  - "[[Neo-Taylorism in Educational Administration]]"
+related_theories:
+  - "[[Technical Rationality]]"
 related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
+  - "[[Cognition Education (NZ)]]"
+  - "[[The New Zealand Curriculum]]"
+  - "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"
+  - "[[New Zealand National Standards (2009)]]"
+  - "[[Victorian HITS and Literacy Toolkit 2017]]"
+  - "[[Australian Curriculum]]"
+  - "[[Hattie på dansk 2017]]"
+  - "[[Visible Learning in Sweden]]"
+  - "[[Russian Translation of Visible Learning 2017]]"
+  - "[[Danish Public School Reform 2014]]"
+related_arguments:
+  - "[[Argument_Qvortrup_2019_NordSTEP]]"
 sources:
   - "[[Rightness]]"
   - "[[Effective Teaching]]"

@@ -13,12 +13,47 @@ tags:
 - region/taiwan
 - level/k12
 - level/higher-ed
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[Take the World Upon Oneself]]"
+  - "[[Confucian Heritage Cultures]]"
+  - "[[Western Learner]]"
+  - "[[Five Cardinal Relationships]]"
+  - "[[Li (Propriety)]]"
+  - "[[Rightness]]"
+  - "[[Shame (Confucianism)]]"
+  - "[[Ren]]"
+  - "[[Junzi]]"
+  - "[[Sage]]"
+  - "[[Learning Virtues]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Humility in Learning]]"
+  - "[[Action Better Than Words]]"
+  - "[[University Motto]]"
+  - "[[Listening-Oriented Learning]]"
+  - "[[Paradox of the Chinese Learner]]"
+  - "[[Stereotype Threat]]"
+  - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Cultural Models]]"
+  - "[[Ideal Learner]]"
+  - "[[Examination Hell]]"
+  - "[[Fourth Culture]]"
+  - "[[International Schools]]"
+  - "[[Meta-Cultural Sensitivity]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Civil Service Examination]]"
+  - "[[English Schools Foundation Hong Kong]]"
+  - "[[Transnationalism and America Project SYSU]]"
+  - "[[China Basic Education Curriculum Reform 2001]]"
+related_arguments:
+  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Ryan_2010_ChineseLearner]]"
 sources: []
 confidence: medium
 status: draft

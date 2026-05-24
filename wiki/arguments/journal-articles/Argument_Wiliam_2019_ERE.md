@@ -18,7 +18,8 @@ tags:
 - feedback
 - region/global
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Goldman's Discrimination Theory of Knowledge]]"
 related_methods: []
 related_persons: []
 related_facts: []

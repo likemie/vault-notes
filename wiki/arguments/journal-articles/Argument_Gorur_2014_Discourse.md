@@ -13,8 +13,10 @@ tags:
 - sociology-of-measurement
 - performativity
 - comparative-education
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Sociology of Measurement]]"
+related_theories:
+  - "[[Science and Technology Studies (STS)]]"
 related_methods: []
 related_persons: []
 related_facts: []

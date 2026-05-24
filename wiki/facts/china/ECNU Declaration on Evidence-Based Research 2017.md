@@ -11,7 +11,9 @@ tags:
 - evidence-based-reform
 - region/china
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Reform]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

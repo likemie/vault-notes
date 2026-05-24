@@ -16,7 +16,9 @@ tags:
 - region/uk
 - level/k12
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Cartwright's Three-Stage Knowledge Framework]]"
+  - "[[Tullock's Bureaucracy Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []

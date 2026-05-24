@@ -7,8 +7,10 @@ type: concept
 tags:
 - blind-spot-in-observation
 - paradigm/systems-theory
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Structural Coupling]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []

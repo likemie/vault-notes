@@ -9,10 +9,22 @@ tags:
 - knowledge
 - visible-learning
 - subject/instruction
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Scientism]]"
+  - "[[Effect Size]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Cargo Cult Science]]"
+related_theories:
+  - "[[Popper's Three Worlds Theory]]"
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[Lars Qvortrup]]"
+  - "[[John Hattie]]"
+  - "[[Jean Piaget]]"
 related_facts: []
 related_arguments: []
 sources: []

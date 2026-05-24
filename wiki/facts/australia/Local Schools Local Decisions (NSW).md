@@ -13,11 +13,15 @@ tags:
 - region/australia
 - level/k12
 - nsw
-related_concepts: []
+related_concepts:
+  - "[[School Autonomy]]"
+  - "[[New Public Management]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Independent Public Schools (IPS) Western Australia]]"
+  - "[[Gonski Reforms]]"
 related_arguments: []
 sources: []
 confidence: medium

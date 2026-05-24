@@ -11,12 +11,27 @@ tags:
 - globalization
 - education-policy
 - region/global
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Transitology]]"
+  - "[[Externalization (Schriewer)]]"
+  - "[[Cross-National Attraction]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Policy Entrepreneur]]"
+related_theories:
+  - "[[World Society Theory]]"
+related_methods:
+  - "[[Matching]]"
+  - "[[Historical Document Analysis of Curriculum]]"
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[American Attraction to Japanese Education 1980s]]"
+  - "[[Late Qing Borrowing of Japanese Education]]"
+  - "[[Liberal Studies (Hong Kong)]]"
+  - "[[Citizenship and Social Development (Hong Kong)]]"
+related_arguments:
+  - "[[Argument_Rappleye_2006_RCIE]]"
+  - "[[Argument_Yan_2025_JCS]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
 sources: []
 confidence: high
 status: draft

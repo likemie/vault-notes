@@ -16,9 +16,21 @@ tags:
   - theme/digitalization
   - theme/governmentality
   - theme/subjectification
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Online Self-Assessment]]"
+  - "[[Learning Analytics]]"
+  - "[[Digital Self]]"
+  - "[[Digital Optimum]]"
+  - "[[Rightness]]"
+  - "[[Feedback]]"
+  - "[[Competitiveness in Higher Education]]"
+  - "[[Stakeholder University]]"
+  - "[[Promising Student]]"
+related_theories:
+  - "[[Governmentality]]"
+  - "[[Societies of Control]]"
+related_methods:
+  - "[[Matching]]"
 related_persons: []
 related_facts: []
 related_arguments: []

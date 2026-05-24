@@ -12,10 +12,20 @@ tags:
 - epistemology
 - postcolonial-studies
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Rightness]]"
+  - "[[Knowledge Production]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Hub and Flow Imaginaries]]"
+related_theories:
+  - "[[Critical Geopolitics]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Walter Mignolo]]"
+  - "[[Arturo Escobar]]"
+  - "[[Frantz Fanon]]"
+  - "[[Chen Kuan-Hsing]]"
 related_facts: []
 related_arguments: []
 sources: []

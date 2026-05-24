@@ -13,11 +13,25 @@ tags:
 - measurement
 - region/global
 - comparative-education
-related_concepts: []
+related_concepts:
+  - "[[Regulatory Regionalism]]"
+  - "[[Selectivity]]"
+  - "[[Rightness]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Theories of Policy Change]]"
+  - "[[Sociology of Measurement]]"
+  - "[[Performativity of Measurement]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Matching]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education at a Glance (EAG)]]"
+  - "[[International Indicators of Education Systems (INES)]]"
+  - "[[Europe 2020 Strategy]]"
+  - "[[Innovation Union]]"
+  - "[[EU Skills Agenda]]"
+  - "[[Youth Guarantee Scheme]]"
 related_arguments: []
 sources: []
 confidence: high

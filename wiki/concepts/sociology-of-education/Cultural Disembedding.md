@@ -12,10 +12,15 @@ tags:
 - cultural-barrier
 - region/china
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Doxa]]"
+  - "[[Tongxue]]"
+  - "[[Cultural Disorientation]]"
+  - "[[The Shock of the Elite]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments: []
 sources: []

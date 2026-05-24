@@ -12,11 +12,15 @@ tags:
 - teacher-inquiry
 - implementation
 - paradigm/interpretivist
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[What Works Network (UK)]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -11,7 +11,9 @@ tags:
 - paradigm/neoliberal
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Knowledge-Based Economization]]"
 related_theories: []
 related_methods: []
 related_persons: []

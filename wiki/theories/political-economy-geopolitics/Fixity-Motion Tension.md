@@ -11,7 +11,13 @@ tags:
 - spatial-dynamics
 - capital-circulation
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Pride in Learning]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Spatial Sortings]]"
+  - "[[Geopolitical Subject]]"
+  - "[[Economic Patriotism]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -11,10 +11,20 @@ type: theory
 tags:
 - paradigm/interpretivist
 - subject/comparative-education
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Corporate Education]]"
+  - "[[Corporate University]]"
+  - "[[Champ]]"
+  - "[[Cultural Models]]"
+  - "[[Tongxue]]"
+  - "[[Rightness]]"
+  - "[[New Public Management]]"
+related_theories:
+  - "[[World Society Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Max Weber]]"
+  - "[[John W. Meyer]]"
 related_facts: []
 related_arguments: []
 sources: []

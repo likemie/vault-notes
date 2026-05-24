@@ -15,11 +15,17 @@ tags:
 - region/global
 - level/higher-ed
 - theme/geopolitics
-related_concepts: []
+related_concepts:
+  - "[[International Education Hubs]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[Knowledge-Based Economy]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Singapore Education Hub Policy]]"
+  - "[[UAE Education Hub Projects]]"
 related_arguments: []
 sources: []
 confidence: medium

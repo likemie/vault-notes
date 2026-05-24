@@ -9,10 +9,14 @@ tags:
 - andreas-helmke
 - effective-teaching
 - region/germany
-related_concepts: []
+related_concepts:
+  - "[[Effective Teaching]]"
+  - "[[Feedback]]"
+  - "[[Individualised Instruction]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_arguments: []
 sources: []
 confidence: low

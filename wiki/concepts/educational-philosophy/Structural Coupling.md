@@ -8,7 +8,8 @@ tags:
 - structural-coupling
 - systems-theory
 - teaching-learning
-related_concepts: []
+related_concepts:
+  - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []
 related_persons: []

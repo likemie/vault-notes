@@ -10,12 +10,16 @@ tags:
 - political-analysis
 - paradigm/critical
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Historical Document Analysis of Curriculum]]"
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Liberal Studies (Hong Kong)]]"
+related_arguments:
+  - "[[Argument_Yan_2025_JCS]]"
 sources: []
 confidence: high
 status: draft

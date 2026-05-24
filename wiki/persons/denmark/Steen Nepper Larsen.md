@@ -9,10 +9,16 @@ tags:
 - larsen
 - paradigm/critical
 - region/denmark
-related_concepts: []
+related_concepts:
+  - "[[Incarnation-Extension Dialectics]]"
+  - "[[Bildung]]"
+  - "[[Blind Spot in Observation]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Niklas Luhmann]]"
+  - "[[Gert Biesta]]"
 related_arguments: []
 sources: []
 confidence: medium

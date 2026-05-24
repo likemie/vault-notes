@@ -9,12 +9,17 @@ tags:
   - classroom-management
   - subject/instruction
   - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Structured Teaching]]"
+  - "[[Direct Instruction]]"
+  - "[[Individualised Instruction]]"
+  - "[[Feedback]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Håkansson_2015_TT]]"
 sources: []
 confidence: medium
 status: draft

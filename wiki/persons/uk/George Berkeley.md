@@ -19,7 +19,8 @@ tags:
 related_concepts: []
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Locke]]"
 related_facts: []
 related_arguments: []
 sources: []

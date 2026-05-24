@@ -13,11 +13,14 @@ tags:
 - literacy
 - region/uk
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Simple View of Reading]]"
+  - "[[Whole Language]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[No Child Left Behind Act 2001]]"
 related_arguments: []
 sources: []
 confidence: medium

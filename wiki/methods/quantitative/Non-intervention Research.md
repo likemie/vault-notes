@@ -10,11 +10,19 @@ tags:
 - educational-psychology
 - causal-inference
 - research-methodology
-related_concepts: []
+related_concepts:
+  - "[[Recommendations for Practice]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Intervention Research]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Qualitative Research]]"
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Brady_2023_EPR]]"
 sources: []
 confidence: medium
 status: draft

@@ -13,10 +13,15 @@ tags:
 - field/cultural-psychology
 - field/chinese-philosophy
 - theme/ethics
-related_concepts: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[Filial Piety]]"
+  - "[[Ren]]"
+  - "[[Li (Propriety)]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources: []

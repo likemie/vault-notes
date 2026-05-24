@@ -15,11 +15,19 @@ tags:
 - policy/employment
 - policy/education
 - policy/innovation
-related_concepts: []
+related_concepts:
+  - "[[Performance Indicators]]"
+  - "[[Theories of Policy Change]]"
+  - "[[Network Governance]]"
+  - "[[Selectivity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Matching]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Innovation Union]]"
+  - "[[EU Skills Agenda]]"
+  - "[[Youth Guarantee Scheme]]"
 related_arguments: []
 sources: []
 confidence: medium

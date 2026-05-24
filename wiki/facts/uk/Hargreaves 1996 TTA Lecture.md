@@ -11,11 +11,13 @@ tags:
 - research-practice-gap
 - teacher-training-agency
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
 sources: []
 confidence: medium

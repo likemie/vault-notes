@@ -9,10 +9,14 @@ tags:
 - epistemology
 - bourdieu
 - paradigm/critical
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Epistemological Vigilance]]"
+  - "[[Complexity Reduction]]"
+related_theories:
+  - "[[Critical Realism]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []

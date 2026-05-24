@@ -10,10 +10,16 @@ tags:
 - theme/cultural-transmission
 - theme/child-development
 - discipline/anthropology
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Nerd (School Peer Culture)]]"
+  - "[[Intellectual-Social Divide]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Jin Li]]"
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources: []

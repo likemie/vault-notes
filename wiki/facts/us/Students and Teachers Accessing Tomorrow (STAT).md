@@ -15,7 +15,9 @@ tags:
   - technology-integration
   - program-evaluation
   - evidence-based-education
-related_concepts: []
+related_concepts:
+  - "[[Technology Infusion]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

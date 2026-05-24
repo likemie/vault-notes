@@ -12,12 +12,64 @@ tags:
   - knowledge-based-economy
   - region/global
   - level/higher-ed
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_concepts:
+  - "[[Classical Geopolitics]]"
+  - "[[Tongxue]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Spatial Sortings]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Rightness]]"
+  - "[[National Competitive Advantage]]"
+  - "[[Flow]]"
+  - "[[Knowledge Production]]"
+  - "[[Geopolitical Subject]]"
+  - "[[International Education Hubs]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Narrative Knowledge]]"
+  - "[[Global Regionalisms in Higher Education]]"
+  - "[[Global Education Industry]]"
+  - "[[Space-Making in Higher Education]]"
+  - "[[Multiplicity (Massey)]]"
+  - "[[Champ]]"
+  - "[[Online Self-Assessment]]"
+  - "[[Digital Self]]"
+  - "[[Digital Optimum]]"
+  - "[[Promising Student]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Self-Entrepreneur]]"
+  - "[[Employability]]"
+  - "[[Economic Patriotism]]"
+  - "[[International Education]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[Global Universities Rankings]]"
+  - "[[Jing (Refined Mastery)]]"
+related_theories:
+  - "[[Critical Geopolitics]]"
+  - "[[Fixity-Motion Tension]]"
+  - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Governmentality]]"
+  - "[[Hegemony]]"
+related_methods:
+  - "[[Matching]]"
+  - "[[Single-Case Design (SCD)]]"
+related_persons:
+  - "[[Sami Moisio]]"
+  - "[[Doreen Massey]]"
+related_facts:
+  - "[[Minerva University]]"
+  - "[[Australia in the Asian Century White Paper 2012]]"
+  - "[[Academic Ranking of World Universities (ARWU)]]"
+  - "[[Sino-American Trade War (2018)]]"
+  - "[[US-China Economic and Security Review Commission (2000)]]"
+  - "[[Thousand Talents Program]]"
+  - "[[China Social Credit System]]"
+  - "[[Horizon 2020 SSH Integration]]"
+  - "[[Horizon Europe Missions]]"
+related_arguments:
+  - "[[Argument_Thompson_2022_Promising_Student]]"
+  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
 sources: []
 confidence: medium
 status: draft

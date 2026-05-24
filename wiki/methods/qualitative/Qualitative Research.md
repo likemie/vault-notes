@@ -10,11 +10,17 @@ tags:
 - educational-psychology
 - research-methodology
 - paradigm/interpretivist
-related_concepts: []
+related_concepts:
+  - "[[Recommendations for Practice]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Non-intervention Research]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Intervention Research]]"
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Brady_2023_EPR]]"
 sources: []
 confidence: low
 status: draft

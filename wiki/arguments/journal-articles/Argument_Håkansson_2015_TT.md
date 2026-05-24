@@ -14,11 +14,18 @@ tags:
   - level/k12
   - subject/instruction-pedagogy
   - method/meta-synthesis
-related_concepts: []
+related_concepts:
+  - "[[Structured Teaching]]"
+  - "[[Direct Instruction]]"
+  - "[[Individualised Instruction]]"
+  - "[[Effective Teaching]]"
+  - "[[Feedback]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Comparative Meta-synthesis]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[PISA]]"
 related_arguments: []
 sources: []
 part_of: ''

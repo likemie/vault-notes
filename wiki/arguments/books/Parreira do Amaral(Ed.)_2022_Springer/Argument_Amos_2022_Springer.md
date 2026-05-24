@@ -12,11 +12,37 @@ tags:
 - transhumanism
 - posthumanism
 - higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Transhumanism]]"
+  - "[[Posthumanism]]"
+  - "[[Response-ability]]"
+  - "[[Transitology]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Vergegenkunft]]"
+  - "[[Educational Technology Industry]]"
+  - "[[Learning Analytics]]"
+  - "[[SF (Haraway)]]"
+  - "[[Sympoiesis]]"
+  - "[[Humosity]]"
+  - "[[Mondialisation]]"
+  - "[[Ubuntu]]"
+  - "[[Buen Vivir]]"
+  - "[[New Public Management]]"
+related_theories:
+  - "[[World Society Theory]]"
+  - "[[Autopoiesis]]"
+  - "[[Transition Design]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Robert Cowen]]"
+  - "[[Julian Huxley]]"
+  - "[[Donna Haraway]]"
+  - "[[Arturo Escobar]]"
+  - "[[Humberto Maturana]]"
+  - "[[Francisco Varela]]"
+related_facts:
+  - "[[Sputnik Shock 1957]]"
+  - "[[Regional University Alliances]]"
 related_arguments: []
 sources: []
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'

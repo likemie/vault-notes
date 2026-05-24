@@ -12,9 +12,16 @@ tags:
 - subject/instruction
 - level/higher-ed
 - region/china
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Problem-Based Learning]]"
+  - "[[Paradox of the Chinese Learner]]"
+  - "[[Chinese Learner]]"
+  - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Constructive Alignment]]"
+related_theories:
+  - "[[Popper's Three Worlds Theory]]"
+related_methods:
+  - "[[Cognitive Task Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []

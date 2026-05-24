@@ -9,8 +9,13 @@ tags:
 - theme/spatiality
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Methodological Nationalism]]"
+  - "[[Scale in Higher Education]]"
+  - "[[Semi-Autonomy of Higher Education]]"
+  - "[[Multiplicity (Massey)]]"
+related_theories:
+  - "[[World-Systems Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []

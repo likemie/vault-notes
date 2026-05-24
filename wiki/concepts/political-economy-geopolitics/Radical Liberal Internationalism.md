@@ -9,7 +9,9 @@ tags:
 - region/global
 - theme/geopolitics
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Sovereign Internationalism]]"
+  - "[[Classical Geopolitics]]"
 related_theories: []
 related_methods: []
 related_persons: []

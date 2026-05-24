@@ -12,10 +12,24 @@ tags:
 - paradigm/critical
 - region/france
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Champ]]"
+  - "[[Rightness]]"
+  - "[[Bildung]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Habitus]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[School Leadership]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Economy of Experience]]"
+  - "[[Credential Inflation]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
+  - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments: []
 sources: []

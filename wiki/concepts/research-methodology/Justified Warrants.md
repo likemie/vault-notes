@@ -9,10 +9,15 @@ tags:
 - evidence-based-policy
 - research-methodology
 related_concepts: []
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Transactional Epistemology]]"
+related_methods:
+  - "[[Carnivalesque Analysis]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Ofsted]]"
+  - "[[Grammar School]]"
+  - "[[Selective Schools Expansion Fund 2018]]"
 related_arguments: []
 sources: []
 confidence: medium

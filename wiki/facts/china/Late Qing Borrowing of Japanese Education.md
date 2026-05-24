@@ -13,7 +13,10 @@ tags:
 - region/japan
 - education-reform
 - late-qing
-related_concepts: []
+related_concepts:
+  - "[[Cross-National Attraction]]"
+  - "[[Policy Borrowing]]"
+  - "[[Externalization (Schriewer)]]"
 related_theories: []
 related_methods: []
 related_persons: []

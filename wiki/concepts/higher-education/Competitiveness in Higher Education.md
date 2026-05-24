@@ -14,8 +14,18 @@ tags:
 - level/higher-ed
 - theme/neoliberalism
 - theme/governmentality
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Performativity of Measurement]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Global Universities Rankings]]"
+  - "[[Learning Analytics]]"
+  - "[[Online Self-Assessment]]"
+  - "[[Promising Student]]"
+  - "[[Stakeholder University]]"
+related_theories:
+  - "[[Governmentality]]"
+  - "[[Societies of Control]]"
 related_methods: []
 related_persons: []
 related_facts: []

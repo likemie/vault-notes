@@ -14,7 +14,11 @@ tags:
 - evidence-based-education
 - research-use
 - school-improvement
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Informed Practice]]"
+  - "[[Professional Judgment]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -9,12 +9,14 @@ tags:
 - region/global
 - theme/geopolitics
 - theory/political-economy
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Marginson_2025_ROE]]"
 sources: []
 confidence: medium
 status: draft

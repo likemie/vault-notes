@@ -15,8 +15,10 @@ tags:
 - region/us
 - level/k12
 related_concepts: []
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Refraction Framework]]"
+related_methods:
+  - "[[Seasonal Comparison]]"
 related_persons: []
 related_facts: []
 related_arguments: []

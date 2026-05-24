@@ -11,11 +11,23 @@ tags:
 - implementation
 - professional-judgement
 - level/k12
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
+  - "[[Evidence-Informed Practice]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Programme Fidelity vs Adaptation]]"
+  - "[[Technology Infusion]]"
+related_theories:
+  - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
+  - "[[California Class Size Reduction 1996]]"
 related_arguments: []
 sources: []
 confidence: medium

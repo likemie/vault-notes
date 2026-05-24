@@ -10,8 +10,13 @@ type: concept
 tags:
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Knowledge Production]]"
+  - "[[Otherhood]]"
+  - "[[Epistemic Drift]]"
+related_theories:
+  - "[[World Society Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []

@@ -9,12 +9,15 @@ tags:
 - jill-mehlbye
 - effective-teaching
 - region/denmark
-related_concepts: []
+related_concepts:
+  - "[[Effective Teaching]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
 sources: []
+related_facts:
+  - "[[SFI Report 2013]]"
 confidence: low
 status: draft
 created: '2026-05-05'

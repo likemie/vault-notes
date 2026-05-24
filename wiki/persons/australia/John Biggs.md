@@ -9,7 +9,10 @@ tags:
 - biggs
 - paradigm/constructivist
 - region/australia
-related_concepts: []
+related_concepts:
+  - "[[Constructive Alignment]]"
+  - "[[Paradox of the Chinese Learner]]"
+  - "[[Dynamic Knowledge and Learning Model]]"
 related_theories: []
 related_methods: []
 related_persons: []

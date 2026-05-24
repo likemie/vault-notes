@@ -13,10 +13,14 @@ tags:
 - field/cultural-psychology
 - field/chinese-philosophy
 - theme/learning
-related_concepts: []
+related_concepts:
+  - "[[Ren]]"
+  - "[[Self-Cultivation]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
+  - "[[Mencius]]"
 related_facts: []
 related_arguments: []
 sources: []

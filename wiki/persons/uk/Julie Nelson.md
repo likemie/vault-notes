@@ -12,10 +12,12 @@ tags:
 - research-use
 - nfer
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Carol Campbell]]"
 related_arguments: []
 sources: []
 confidence: medium

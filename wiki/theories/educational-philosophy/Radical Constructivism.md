@@ -8,12 +8,15 @@ tags:
 - radical-constructivism
 - paradigm/constructivist
 - learning-theory
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Sarbiewska_2019_JSR]]"
 sources: []
 confidence: medium
 status: draft

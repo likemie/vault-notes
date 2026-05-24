@@ -14,11 +14,21 @@ tags:
 - institutional-theory
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Global Universities Rankings]]"
+  - "[[Social Charter]]"
+  - "[[Employability]]"
+  - "[[Rightness]]"
+  - "[[Jing (Refined Mastery)]]"
+related_theories:
+  - "[[Capability Approach in Education]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Pepka Boyadjieva]]"
+  - "[[Max Weber]]"
+  - "[[Ellen Hazelkorn]]"
+related_facts:
+  - "[[Academic Ranking of World Universities (ARWU)]]"
 related_arguments: []
 sources: []
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'

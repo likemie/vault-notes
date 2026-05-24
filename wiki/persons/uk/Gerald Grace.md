@@ -10,10 +10,15 @@ tags:
 - region/new-zealand
 - region/uk
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Critic and Conscience of Society]]"
+  - "[[Visible Learning]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_arguments: []
 sources: []
 confidence: low

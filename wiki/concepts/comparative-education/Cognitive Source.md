@@ -13,7 +13,10 @@ tags:
   - method/discourse-analysis
   - region/east-asia
   - region/west
-related_concepts: []
+related_concepts:
+  - "[[Learning Virtues]]"
+  - "[[Socratic Tutoring Style]]"
+  - "[[Confucian Tutoring Style]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -10,11 +10,27 @@ tags:
 - educational-administration
 - school-leadership
 - paradigm/critical
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Rightness]]"
+  - "[[Effect Size]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[New Public Management]]"
+  - "[[School Leadership]]"
+  - "[[Cult of the Guru]]"
+  - "[[Transformative Leadership]]"
+  - "[[Feedback]]"
+related_theories:
+  - "[[Technical Rationality]]"
+related_methods:
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[PISA]]"
+  - "[[Victorian HITS and Literacy Toolkit 2017]]"
 related_arguments: []
 sources: []
 confidence: medium

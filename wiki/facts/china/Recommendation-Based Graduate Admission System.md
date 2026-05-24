@@ -15,11 +15,17 @@ tags:
 - recommendation-based
 - region/china
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Academic Engagement]]"
+  - "[[Credential Inflation]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Goal-Controlled Mode]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Yajun Zheng]]"
+related_facts:
+  - "[[China College Graduate Employment Reform 1986-1997]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -15,11 +15,18 @@ tags:
 - epistemic-governance
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Global Regionalisms in Higher Education]]"
+  - "[[Regulatory Regionalism]]"
+related_theories:
+  - "[[Critical Geopolitics]]"
+  - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Horizon Europe Missions]]"
 related_arguments: []
 sources: []
 confidence: low

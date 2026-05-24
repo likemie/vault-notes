@@ -10,7 +10,9 @@ tags:
 - higher-education
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Regulatory Regionalism]]"
+  - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -14,12 +14,15 @@ tags:
   - theme/evidence-based-education
   - theme/systematic-review
   - policy/evidence-informed-policy
-related_concepts: []
+related_concepts:
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Pellegrini_2021_ROE]]"
 sources: []
 confidence: medium
 status: draft

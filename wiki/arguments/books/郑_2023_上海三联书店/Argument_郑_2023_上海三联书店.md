@@ -15,11 +15,66 @@ tags:
 - cultural-capital
 - region/china
 - level/higher-ed
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_concepts:
+  - "[[Cultural Capital]]"
+  - "[[Habitus]]"
+  - "[[Champ]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Academic and Social Integration]]"
+  - "[[Academic Engagement]]"
+  - "[[Social Engagement]]"
+  - "[[Rightness]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Value Conformist Mode]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Cultural Disembedding]]"
+  - "[[Cultural Disorientation]]"
+  - "[[Doxa]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Bildung]]"
+  - "[[Credential Inflation]]"
+  - "[[Employability]]"
+  - "[[Tongxue]]"
+  - "[[Student Engagement]]"
+  - "[[Student Involvement]]"
+  - "[[Li (Propriety)]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Feedback]]"
+  - "[[Symbolic Boundary]]"
+  - "[[Self-Authorship]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Sage]]"
+  - "[[Work Meaning Schemas (Zheng)]]"
+  - "[[Graduation Pathway Typology (Zheng)]]"
+  - "[[Shame (Confucianism)]]"
+related_theories:
+  - "[[Dual-Process Model of Culture in Action]]"
+  - "[[Culture as Toolkit]]"
+  - "[[Dual Elite Career Paths]]"
+related_methods:
+  - "[[Constructivist Grounded Theory]]"
+  - "[[In-depth Interview]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Case Study]]"
+  - "[[Qualitative Research]]"
+  - "[[Matching]]"
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
+  - "[[Max Weber]]"
+  - "[[Ann Swidler]]"
+  - "[[Marcia Baxter Magolda]]"
+  - "[[Didier Eribon]]"
+related_facts:
+  - "[[Civil Service Examination]]"
+  - "[[Coleman Report 1966]]"
+  - "[[China College Graduate Employment Reform 1986-1997]]"
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources: []
 part_of: ''

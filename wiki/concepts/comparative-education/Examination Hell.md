@@ -12,11 +12,18 @@ tags:
 - region/east-asia
 - theme/cross-cultural-learning
 - theme/examination
-related_concepts: []
+related_concepts:
+  - "[[Shu (Familiarization)]]"
+  - "[[Filial Piety]]"
+  - "[[Rightness]]"
+  - "[[Self-Cultivation]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Confucius]]"
+related_facts:
+  - "[[Civil Service Examination]]"
 related_arguments: []
 sources: []
 confidence: medium

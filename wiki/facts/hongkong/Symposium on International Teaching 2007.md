@@ -10,7 +10,8 @@ tags:
 - region/hongkong
 - level/k12
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
 related_persons: []

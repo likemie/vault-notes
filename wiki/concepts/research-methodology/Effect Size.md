@@ -10,12 +10,44 @@ tags:
 - evidence-based-education
 - methodology
 - statistics
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Visible Learning]]"
+  - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Statistical Significance]]"
+  - "[[Confidence Interval]]"
+  - "[[Rightness]]"
+  - "[[Whole Language]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Publication Bias]]"
+  - "[[Developer Effect]]"
+  - "[[Class Size]]"
+  - "[[School Effectiveness]]"
+  - "[[Feedback]]"
+  - "[[Material Fallacies]]"
+  - "[[School Leadership]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Covariate Adjustment]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Intervention Research]]"
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Lars Qvortrup]]"
+  - "[[Adrian Simpson]]"
+  - "[[Jacob Cohen]]"
+related_facts:
+  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Promising Practices Network (PPN)]]"
+  - "[[Best Evidence Encyclopedia (BEE)]]"
+  - "[[What Works Clearinghouse (WWC)]]"
+  - "[[Playing for Success]]"
+  - "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"
+related_arguments:
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
 sources: []
 confidence: medium
 status: draft

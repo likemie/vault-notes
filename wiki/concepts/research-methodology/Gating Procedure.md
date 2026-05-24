@@ -10,11 +10,17 @@ tags:
 - research-methodology
 - what-works-clearinghouse
 - internal-validity
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[5-3-20 Rule]]"
+  - "[[Rightness]]"
+  - "[[Evidence-Based Education]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
+related_methods:
+  - "[[Single-Case Design (SCD)]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[What Works Clearinghouse (WWC)]]"
 related_arguments: []
 sources: []
 confidence: medium

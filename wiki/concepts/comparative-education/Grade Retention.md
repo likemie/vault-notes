@@ -14,11 +14,14 @@ tags:
   - theme/evidence-based-education
   - level/k12
   - region/global
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Pact for Educational Excellence]]"
+  - "[[Grade Retention in French-Speaking Belgium]]"
 related_arguments: []
 sources: []
 confidence: medium

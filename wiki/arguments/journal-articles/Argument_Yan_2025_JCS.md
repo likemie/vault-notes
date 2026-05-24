@@ -15,9 +15,13 @@ tags:
 - world-culture-theory
 - region/china
 - level/k12
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Policy Borrowing]]"
+related_theories:
+  - "[[Cuban's Curriculum Change Theory]]"
+  - "[[World Society Theory]]"
+related_methods:
+  - "[[Historical Document Analysis of Curriculum]]"
 related_persons: []
 related_facts: []
 related_arguments: []

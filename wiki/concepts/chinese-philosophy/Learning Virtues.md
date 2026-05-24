@@ -12,10 +12,24 @@ tags:
 - field/cultural-psychology
 - field/chinese-philosophy
 - theme/learning
-related_concepts: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[Take the World Upon Oneself]]"
+  - "[[Ren]]"
+  - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Cognitive Source]]"
+  - "[[MCC Discourse Analysis Examples]]"
+  - "[[Rightness]]"
+  - "[[Western Learner]]"
+  - "[[Chinese Learner]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Jing (Refined Mastery)]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Prototype Methods]]"
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources: []

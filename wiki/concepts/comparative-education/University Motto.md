@@ -13,12 +13,21 @@ tags:
 - field/chinese-philosophy
 - theme/cross-cultural-learning
 - source/li-2012-cambridge
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Li (Propriety)]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Self-Cultivation]]"
+  - "[[Learning Virtues]]"
+  - "[[Champ]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[George Berkeley]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Li_2012_Cambridge]]"
 sources: []
 confidence: medium
 status: draft

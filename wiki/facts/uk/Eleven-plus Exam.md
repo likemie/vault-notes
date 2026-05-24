@@ -14,11 +14,18 @@ tags:
 - grammar-schools
 - examination
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Selective Education]]"
+  - "[[Moral Sidestep]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Grammar School]]"
+  - "[[Education and Inspections Act 2006]]"
+  - "[[Ofsted]]"
+  - "[[Selective Schools Expansion Fund 2018]]"
 related_arguments: []
 sources: []
 confidence: medium

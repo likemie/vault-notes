@@ -8,10 +8,13 @@ tags:
 - transformative-leadership
 - stance/critique
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[School Leadership]]"
+  - "[[Rightness]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Helen Gunter]]"
 related_facts: []
 related_arguments: []
 sources: []

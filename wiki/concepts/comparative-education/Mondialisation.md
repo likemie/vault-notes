@@ -11,7 +11,8 @@ tags:
 - pluriverse
 - world-making
 - alternative-globalization
-related_concepts: []
+related_concepts:
+  - "[[Posthumanism]]"
 related_theories: []
 related_methods: []
 related_persons: []

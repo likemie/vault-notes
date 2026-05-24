@@ -9,11 +9,22 @@ tags:
 - school-leadership
 - subject/curriculum
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Transformative Leadership]]"
+  - "[[Rightness]]"
+  - "[[Doxa]]"
+  - "[[Champ]]"
+  - "[[Habitus]]"
+  - "[[New Public Management]]"
+  - "[[School Autonomy]]"
+  - "[[Jing (Refined Mastery)]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
+related_facts:
+  - "[[OECD Improving School Leadership Project 2006]]"
+  - "[[ISSPP Project]]"
 related_arguments: []
 sources: []
 confidence: medium

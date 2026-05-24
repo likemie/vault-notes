@@ -13,11 +13,14 @@ tags:
 - regionalization
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Transitology]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Robert Cowen]]"
+related_facts:
+  - "[[Horizon Europe Missions]]"
 related_arguments: []
 sources: []
 confidence: medium

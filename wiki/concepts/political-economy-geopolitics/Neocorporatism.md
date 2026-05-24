@@ -11,11 +11,19 @@ tags:
 - region/eu
 - policy/lifelong-learning
 - policy/employment
-related_concepts: []
+related_concepts:
+  - "[[Network Governance]]"
+  - "[[Selectivity]]"
+  - "[[Rightness]]"
+  - "[[Performance Indicators]]"
+  - "[[Theories of Policy Change]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[YOUNG_ADULLLT]]"
+  - "[[EU Skills Agenda]]"
+  - "[[Youth Guarantee Scheme]]"
 related_arguments: []
 sources: []
 confidence: medium

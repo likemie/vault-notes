@@ -9,8 +9,13 @@ tags:
 - scientific-method
 - paradigm/positivist
 - stance/critique
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Cargo Cult Science]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Visible Learning]]"
+related_theories:
+  - "[[Technical Rationality]]"
 related_methods: []
 related_persons: []
 related_facts: []

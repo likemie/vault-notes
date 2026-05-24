@@ -14,12 +14,17 @@ tags:
   - theme/evidence-based-education
   - theme/systematic-review
   - theme/knowledge-mobilisation
-related_concepts: []
+related_concepts:
+  - "[[Knowledge Mobilisation]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[What Works Clearinghouse (WWC)]]"
+related_arguments:
+  - "[[Argument_Pellegrini_2021_ROE]]"
 sources: []
 confidence: medium
 status: draft

@@ -12,11 +12,20 @@ tags:
 - sts
 - educational-philosophy
 - paradigm/constructivist
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Sociology of Measurement]]"
+  - "[[Atomisation of Knowledge and Skills]]"
+  - "[[Visible Learning]]"
+  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[New Public Management]]"
+related_theories:
+  - "[[Science and Technology Studies (STS)]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Victorian HITS and Literacy Toolkit 2017]]"
+  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Education at a Glance (EAG)]]"
 related_arguments: []
 sources: []
 confidence: high

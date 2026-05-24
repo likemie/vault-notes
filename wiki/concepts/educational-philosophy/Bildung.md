@@ -8,11 +8,28 @@ tags:
   - bildung
   - paradigm/critical
   - stance/critique
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Epochal Key Problems]]"
+  - "[[Visible Learning]]"
+  - "[[Learnification]]"
+  - "[[Phenomenon-Based Learning]]"
+  - "[[Atomisation of Knowledge and Skills]]"
+  - "[[Didaktik]]"
+  - "[[Online Self-Assessment]]"
+  - "[[Learning Analytics]]"
+  - "[[Digital Self]]"
+  - "[[Digital Optimum]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
+  - "[[Phenomenology]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Wolfgang Klafki]]"
+  - "[[Dietrich Benner]]"
+related_facts:
+  - "[[Danish Public School Reform 2014]]"
+  - "[[Finnish National Core Curriculum 2014]]"
 related_arguments: []
 sources: []
 confidence: medium

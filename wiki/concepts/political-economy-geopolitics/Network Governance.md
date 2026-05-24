@@ -10,11 +10,22 @@ tags:
 - subject/curriculum
 - region/new-zealand
 - region/eu
-related_concepts: []
+related_concepts:
+  - "[[Performance Indicators]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Neocorporatism]]"
+  - "[[Theories of Policy Change]]"
+  - "[[Selectivity]]"
+  - "[[Rightness]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Manaiakalani Education Trust (NZ 2011)]]"
+  - "[[Cognition Education (NZ)]]"
+  - "[[Teach First New Zealand Ako Mātātupu (TFNZ 2011)]]"
+  - "[[Partnership Schools Kura Hourua (NZ 2011)]]"
+  - "[[YOUNG_ADULLLT]]"
 related_arguments: []
 sources: []
 confidence: medium

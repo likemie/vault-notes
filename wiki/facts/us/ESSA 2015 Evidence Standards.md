@@ -15,7 +15,11 @@ tags:
 - region/us
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Logic Model]]"
 related_persons: []
 related_facts: []
 related_arguments: []

@@ -10,10 +10,20 @@ tags:
 - region/brazil
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Tense Society]]"
+  - "[[Rightness]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Life Power]]"
+related_theories:
+  - "[[Creative Tension of Sense]]"
+related_methods:
+  - "[[Ganz-Methode]]"
+related_persons:
+  - "[[Walter Mignolo]]"
 related_facts: []
 related_arguments: []
 sources: []

@@ -10,11 +10,15 @@ tags:
   - theme/curriculum
   - theme/educational-inequality
   - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Political Arithmetic]]"
+  - "[[School Effectiveness]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Basil Bernstein]]"
+related_facts:
+  - "[[Committee for the Accreditation of Teacher Education]]"
 related_arguments: []
 sources: []
 confidence: medium

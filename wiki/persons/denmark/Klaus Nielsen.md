@@ -12,11 +12,17 @@ tags:
 - habermas
 - technical-rationality
 - region/denmark
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Feedback]]"
+  - "[[Evidence-Based Education]]"
+related_theories:
+  - "[[Technical Rationality]]"
 related_methods: []
-related_persons: []
-related_arguments: []
+related_persons:
+  - "[[John Hattie]]"
+related_arguments:
+  - "[[Argument_Nielsen_2021_NordPsych]]"
 sources: []
 confidence: medium
 status: draft

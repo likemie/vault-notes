@@ -8,7 +8,9 @@ tags:
 - bounded-rationality
 - decision-making
 - organizational-theory
-related_concepts: []
+related_concepts:
+  - "[[Professional Judgment]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

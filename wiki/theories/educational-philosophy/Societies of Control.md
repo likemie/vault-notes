@@ -12,12 +12,19 @@ tags:
   - governmentality
   - theory/poststructuralism
   - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Learning Analytics]]"
+  - "[[Online Self-Assessment]]"
+  - "[[Promising Student]]"
+  - "[[Digital Self]]"
+  - "[[Digital Optimum]]"
+  - "[[Competitiveness in Higher Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Thompson_2022_Promising_Student]]"
 sources: []
 confidence: low
 status: draft

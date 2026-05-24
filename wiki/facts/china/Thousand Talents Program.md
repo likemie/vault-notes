@@ -12,11 +12,15 @@ tags:
 - geopolitics-of-knowledge
 - knowledge-transfer
 - brain-gain
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Economic and Industrial Espionage]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Sino-American Trade War (2018)]]"
 related_arguments: []
 sources: []
 confidence: medium

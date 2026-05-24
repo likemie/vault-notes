@@ -12,12 +12,26 @@ tags:
 - subject-formation
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Knowledge-Based Economization]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Graduate Attributes]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Spatial Sortings]]"
+  - "[[Corporate Education]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Promising Student]]"
+  - "[[Online Self-Assessment]]"
+  - "[[Digital Optimum]]"
+  - "[[Hub and Flow Imaginaries]]"
+related_theories:
+  - "[[Fixity-Motion Tension]]"
+related_methods:
+  - "[[Matching]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources: []
 confidence: low
 status: draft

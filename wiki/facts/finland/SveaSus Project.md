@@ -12,11 +12,18 @@ tags:
 - world-heritage
 - region/finland
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Phenomenon-Based Learning]]"
+  - "[[Epochal Key Problems]]"
+  - "[[Bildung]]"
+  - "[[Didaktik]]"
+  - "[[Atomisation of Knowledge and Skills]]"
+related_theories:
+  - "[[Phenomenology]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Finnish National Core Curriculum 2014]]"
 related_arguments: []
 sources: []
 confidence: medium

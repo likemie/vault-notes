@@ -13,7 +13,12 @@ tags:
   - theme/peer-culture
   - theme/achievement
   - theme/social-acceptance
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Academic Engagement]]"
+  - "[[Tall Poppy Syndrome]]"
+  - "[[Zero-Sum Competition (School)]]"
+  - "[[Tongxue]]"
 related_theories: []
 related_methods: []
 related_persons: []

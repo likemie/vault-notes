@@ -10,7 +10,9 @@ tags:
 - school-leadership
 - region/global
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[School Leadership]]"
+  - "[[Transformative Leadership]]"
 related_theories: []
 related_methods: []
 related_persons: []

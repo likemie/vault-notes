@@ -14,11 +14,19 @@ tags:
 - geopolitics-of-knowledge
 - trade
 - technology-transfer
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[Rightness]]"
+  - "[[Knowledge Production]]"
+  - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[Knowledge Transfer]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[US-China Economic and Security Review Commission (2000)]]"
+  - "[[Thousand Talents Program]]"
 related_arguments: []
 sources: []
 confidence: medium

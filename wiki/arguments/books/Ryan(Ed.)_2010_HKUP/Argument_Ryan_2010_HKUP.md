@@ -16,12 +16,16 @@ tags:
 - region/hongkong
 - level/k12
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Paul Morris]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Slethaug_2010_InternationalEducation]]"
+  - "[[Argument_Ryan_2010_ChineseLearner]]"
 sources: []
 part_of: ''
 status: draft

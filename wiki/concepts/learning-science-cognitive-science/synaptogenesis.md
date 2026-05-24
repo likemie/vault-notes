@@ -10,10 +10,14 @@ tags:
 - neuroscience
 - learning-science
 - cognitive-science
-related_concepts: []
+related_concepts:
+  - "[[Executive Function]]"
+  - "[[Prefrontal Cortex]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
 sources: []

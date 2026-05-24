@@ -13,7 +13,8 @@ tags:
 - effect-size
 - region/new-zealand
 - region/germany
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

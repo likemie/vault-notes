@@ -13,7 +13,12 @@ tags:
   - theme/intelligence
   - theme/ability-vs-effort
   - theme/cultural-psychology
-related_concepts: []
+related_concepts:
+  - "[[Doxa]]"
+  - "[[Feedback]]"
+  - "[[Zero-Sum Competition (School)]]"
+  - "[[Intellectual-Social Divide]]"
+  - "[[Codeswitcher (School)]]"
 related_theories: []
 related_methods: []
 related_persons: []

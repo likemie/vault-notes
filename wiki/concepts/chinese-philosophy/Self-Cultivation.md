@@ -14,10 +14,27 @@ tags:
   - field/cultural-psychology
   - field/chinese-philosophy
   - theme/learning
-related_concepts: []
+related_concepts:
+  - "[[Chinese Learner]]"
+  - "[[Action Better Than Words]]"
+  - "[[Rightness]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Take the World Upon Oneself]]"
+  - "[[Ideal Learner]]"
+  - "[[Learning Virtues]]"
+  - "[[Humility in Learning]]"
+  - "[[Establishing One's Will (lizhi)]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Ren]]"
+  - "[[Five Cardinal Relationships]]"
+  - "[[Heart and Mind for Wanting to Learn]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Prototype Methods]]"
+related_persons:
+  - "[[Confucius]]"
+  - "[[Mencius]]"
+  - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
 sources: []

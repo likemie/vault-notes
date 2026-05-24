@@ -10,9 +10,11 @@ tags:
   - theme/motivation
   - theme/affect
   - theme/self-belief
-related_concepts: []
+related_concepts:
+  - "[[Entity vs Incremental Intelligence]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

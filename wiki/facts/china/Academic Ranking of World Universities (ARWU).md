@@ -16,11 +16,13 @@ tags:
 - region/china
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Global Universities Rankings]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[OECD AHELO Project]]"
 related_arguments: []
 sources: []
 confidence: medium

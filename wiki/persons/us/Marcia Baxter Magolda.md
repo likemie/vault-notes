@@ -10,8 +10,11 @@ tags:
 - psychology
 - higher-education
 - region/us
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Self-Driven Mode]]"
+  - "[[Habitus]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons: []
 related_arguments: []

@@ -14,9 +14,16 @@ tags:
   - theme/peer-culture
   - theme/competition
   - theme/cultural-psychology
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Nerd (School Peer Culture)]]"
+  - "[[Tongxue]]"
+  - "[[Talent Assumption]]"
+  - "[[Intellectual-Social Divide]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

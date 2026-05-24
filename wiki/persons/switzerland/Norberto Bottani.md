@@ -12,12 +12,16 @@ tags:
 - ines
 - region/switzerland
 - paradigm/positivist
-related_concepts: []
+related_concepts:
+  - "[[Performance Indicators]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
 sources: []
+related_facts:
+  - "[[International Indicators of Education Systems (INES)]]"
+  - "[[Education at a Glance (EAG)]]"
 confidence: high
 status: draft
 created: '2026-05-01'

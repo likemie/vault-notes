@@ -14,11 +14,17 @@ tags:
 - tennessee
 - region/us
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Class Size]]"
+  - "[[Programme Fidelity vs Adaptation]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[California Class Size Reduction 1996]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -12,12 +12,22 @@ tags:
 - meta-governance
 - region/united-kingdom
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Rightness]]"
+  - "[[Cultural Diplomacy]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Flow]]"
+related_theories:
+  - "[[Cultural Political Economy]]"
+  - "[[Hegemony]]"
 related_methods: []
 related_persons: []
 related_arguments: []
 sources: []
+related_facts:
+  - "[[Singapore Education Hub Policy]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

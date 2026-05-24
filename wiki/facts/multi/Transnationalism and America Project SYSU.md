@@ -11,10 +11,13 @@ tags:
 - region/china
 - region/us
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Chinese Learner]]"
+  - "[[International Education]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Paul Morris]]"
 related_facts: []
 related_arguments: []
 sources: []

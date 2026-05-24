@@ -11,7 +11,10 @@ tags:
 - evidence-based-education
 - region/russia
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Policy Borrowing]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

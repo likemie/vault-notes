@@ -14,7 +14,8 @@ tags:
 related_concepts: []
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Gerald Grace]]"
 related_facts: []
 related_arguments: []
 sources: []

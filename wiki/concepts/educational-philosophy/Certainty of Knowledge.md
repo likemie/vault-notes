@@ -13,10 +13,14 @@ tags:
 - field/educational-philosophy
 - theme/knowledge
 - theme/learning
-related_concepts: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[Mind and Its Wonders]]"
+  - "[[Examined Life]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Socrates]]"
 related_facts: []
 related_arguments: []
 sources: []

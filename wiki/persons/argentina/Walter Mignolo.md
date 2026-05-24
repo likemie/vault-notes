@@ -12,10 +12,20 @@ tags:
   - field/epistemology
   - field/postcolonial-studies
   - field/literary-theory
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Corporate University]]"
+  - "[[Knowledge Production]]"
+related_theories:
+  - "[[Creative Tension of Sense]]"
+related_methods:
+  - "[[Ganz-Methode]]"
+related_persons:
+  - "[[Dell Delambre]]"
+  - "[[Arturo Escobar]]"
 related_arguments: []
 sources: []
 confidence: medium

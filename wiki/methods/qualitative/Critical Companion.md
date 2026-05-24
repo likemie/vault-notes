@@ -5,11 +5,18 @@ summary: "Zelinka (2022) 使用的质性话语分析方法_不提供传统系统
 type: method
 method_type: qualitative
 tags: ["method/discourse-analysis", "method/critical", "theme/discourse", "theme/global-governance"]
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Discursive Opportunity Structures]]"
+  - "[[Rightness]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Self-Entrepreneur]]"
+related_theories:
+  - "[[Governmentality]]"
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
 sources: []
 confidence: medium
 status: draft

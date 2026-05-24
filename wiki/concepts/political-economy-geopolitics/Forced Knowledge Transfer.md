@@ -11,11 +11,19 @@ tags:
 - knowledge-transfer
 - colonial-education
 - pedagogy
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Transfer]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Frantz Fanon]]"
+  - "[[Chen Kuan-Hsing]]"
+  - "[[Jean-François Lyotard]]"
+related_facts:
+  - "[[Great Firewall of China]]"
+  - "[[China Social Credit System]]"
+  - "[[Kokutai no Hongi (1937)]]"
 related_arguments: []
 sources: []
 confidence: medium

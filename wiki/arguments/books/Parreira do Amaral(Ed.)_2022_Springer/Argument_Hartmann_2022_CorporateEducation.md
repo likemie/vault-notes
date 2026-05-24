@@ -10,10 +10,15 @@ tags:
 - level/adult
 - region/global
 - subject/comparative-education
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Further Education]]"
+  - "[[Corporate Education]]"
+  - "[[Corporate University]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Max Weber]]"
 related_facts: []
 related_arguments: []
 sources: []

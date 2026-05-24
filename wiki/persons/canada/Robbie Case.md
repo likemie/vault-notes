@@ -11,8 +11,12 @@ tags:
 - neo-piagetian
 related_concepts: []
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Juan Pascual-Leone]]"
+  - "[[Kurt Fischer]]"
 related_arguments: []
 sources: []
 confidence: low

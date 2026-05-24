@@ -11,12 +11,18 @@ tags:
 - experimental-design
 - causal-inference
 - research-methodology
-related_concepts: []
+related_concepts:
+  - "[[Gating Procedure]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Single-Case Design (SCD)]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hitchcock_2015_JBE]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
 sources: []
 confidence: low
 status: draft

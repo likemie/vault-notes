@@ -9,11 +9,13 @@ tags:
 - dietrich-benner
 - paradigm/bildung
 - region/germany
-related_concepts: []
+related_concepts:
+  - "[[Bildung]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Sarbiewska_2019_JSR]]"
 sources: []
 confidence: low
 status: draft

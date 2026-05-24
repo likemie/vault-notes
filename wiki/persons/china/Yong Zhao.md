@@ -13,7 +13,8 @@ tags:
 - pisa
 - region/us
 - region/china
-related_concepts: []
+related_concepts:
+  - "[[Side Effects in Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

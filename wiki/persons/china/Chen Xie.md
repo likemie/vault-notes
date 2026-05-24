@@ -11,10 +11,12 @@ tags:
 - region/china
 - evidence-based-reform
 - educational-technology
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Alan C. K. Cheung]]"
 related_arguments: []
 sources: []
 confidence: medium

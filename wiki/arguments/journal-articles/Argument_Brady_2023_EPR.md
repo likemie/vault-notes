@@ -14,7 +14,11 @@ tags:
 - evidence-based-education
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Intervention Research]]"
+  - "[[Qualitative Research]]"
+  - "[[Mixed Method and Multi-method Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

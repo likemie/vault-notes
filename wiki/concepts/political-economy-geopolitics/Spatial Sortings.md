@@ -12,12 +12,20 @@ tags:
 - spatial-inequality
 - urbanization
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Knowledge-Based Economization]]"
+  - "[[Rightness]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Geopolitical Subject]]"
+  - "[[International Education Hubs]]"
+  - "[[Hub and Flow Imaginaries]]"
+related_theories:
+  - "[[Fixity-Motion Tension]]"
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Erfurth_2022_education-hubs]]"
 sources: []
 confidence: low
 status: draft

@@ -10,11 +10,21 @@ tags:
 - curriculum
 - measurement
 - paradigm/critical
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Performance Indicators]]"
+  - "[[Phenomenon-Based Learning]]"
+  - "[[Performativity of Measurement]]"
+  - "[[Complexity Reduction]]"
+  - "[[Epochal Key Problems]]"
+  - "[[Bildung]]"
+related_theories:
+  - "[[Phenomenology]]"
+  - "[[Critical Realism]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Finnish National Core Curriculum 2014]]"
+  - "[[SveaSus Project]]"
 related_arguments: []
 sources: []
 confidence: medium

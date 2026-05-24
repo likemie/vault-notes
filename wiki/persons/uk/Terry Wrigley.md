@@ -12,12 +12,20 @@ tags:
 - educational-research-methodology
 - neoliberalism
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
+  - "[[Effect Size]]"
+  - "[[Moral Sidestep]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_arguments: []
+related_persons:
+  - "[[Sean McCusker]]"
+related_arguments:
+  - "[[Argument_Wrigley_2019_ERE]]"
 sources: []
+related_facts:
+  - "[[EEF Teaching and Learning Toolkit]]"
 confidence: high
 status: draft
 created: '2026-05-01'

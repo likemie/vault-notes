@@ -11,9 +11,11 @@ tags:
 - region/uk
 - level/higher-ed
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Culture as Toolkit]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []

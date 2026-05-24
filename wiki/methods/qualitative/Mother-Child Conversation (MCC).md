@@ -15,11 +15,20 @@ tags:
   - theme/learning
   - region/east-asia
   - region/west
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Pride in Learning]]"
+  - "[[Humility in Learning]]"
+  - "[[Learning Virtues]]"
+  - "[[MCC Discourse Analysis Examples]]"
+  - "[[Cognitive Source]]"
+related_theories:
+  - "[[Appraisal Theory]]"
 related_methods: []
-related_persons: []
-related_arguments: []
+related_persons:
+  - "[[Socrates]]"
+related_arguments:
+  - "[[Argument_Li_2012_Cambridge]]"
 sources: []
 confidence: medium
 status: draft

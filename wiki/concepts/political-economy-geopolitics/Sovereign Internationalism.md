@@ -7,7 +7,10 @@ type: concept
 tags:
 - region/global
 - theme/geopolitics
-related_concepts: []
+related_concepts:
+  - "[[Radical Liberal Internationalism]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Internationalization of Higher Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

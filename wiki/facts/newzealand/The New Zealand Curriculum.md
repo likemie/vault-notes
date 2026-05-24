@@ -12,7 +12,9 @@ tags:
 - level/k12
 - curriculum
 - visible-learning
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

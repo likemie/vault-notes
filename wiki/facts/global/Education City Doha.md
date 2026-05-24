@@ -11,7 +11,9 @@ tags:
 - region/global
 - region/qatar
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[International Education]]"
+  - "[[International Schools]]"
 related_theories: []
 related_methods: []
 related_persons: []

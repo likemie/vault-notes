@@ -13,10 +13,16 @@ tags:
 - theory/confucianism
 - field/chinese-philosophy
 - theme/ethics
-related_concepts: []
+related_concepts:
+  - "[[Li (Propriety)]]"
+  - "[[Rightness]]"
+  - "[[Self-Cultivation]]"
+  - "[[Learning Virtues]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
+  - "[[Mencius]]"
 related_facts: []
 related_arguments: []
 sources: []

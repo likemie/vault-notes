@@ -16,11 +16,20 @@ tags:
 - policy/education-hub
 - theme/geopolitics
 - theme/development
-related_concepts: []
+related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Cultural Diplomacy]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Knowledge Production]]"
+  - "[[International Education Hubs]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Flow]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Singapore Education Hub Policy]]"
 related_arguments: []
 sources: []
 confidence: medium

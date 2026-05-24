@@ -17,10 +17,13 @@ tags:
 - theme/learning
 - theme/natural-education
 - theme/child-development
-related_concepts: []
+related_concepts:
+  - "[[Western Learner]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Locke]]"
+  - "[[Bertrand Russell]]"
 related_facts: []
 related_arguments: []
 sources: []

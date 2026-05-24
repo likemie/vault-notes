@@ -11,11 +11,23 @@ tags:
 - region/global
 - level/higher-ed
 - governance
-related_concepts: []
+related_concepts:
+  - "[[Performance Indicators]]"
+  - "[[Global Regionalisms in Higher Education]]"
+  - "[[Rightness]]"
+  - "[[Selectivity]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Production]]"
+  - "[[Scientization of Politics]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Innovation Union]]"
+  - "[[EU Skills Agenda]]"
+  - "[[Europe 2020 Strategy]]"
+  - "[[YOUNG_ADULLLT]]"
+  - "[[Horizon 2020 SSH Integration]]"
 related_arguments: []
 sources: []
 confidence: medium

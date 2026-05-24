@@ -11,10 +11,17 @@ tags:
 - pluriverse
 - decolonial
 - transition-design
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Mondialisation]]"
+  - "[[Ubuntu]]"
+  - "[[Buen Vivir]]"
+related_theories:
+  - "[[Transition Design]]"
+  - "[[Luhmann's Systems Theory]]"
+  - "[[Autopoiesis]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Donna Haraway]]"
 related_arguments: []
 sources: []
 confidence: medium

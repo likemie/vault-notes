@@ -16,12 +16,30 @@ tags:
   - theory/poststructuralism
   - theme/governmentality
   - theme/subjectification
-related_concepts: []
+related_concepts:
+  - "[[Online Self-Assessment]]"
+  - "[[Promising Student]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Rightness]]"
+  - "[[VUCA]]"
+  - "[[Knowledge Production]]"
+  - "[[Self-Entrepreneur]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Political Arithmetic]]"
+  - "[[New Sociology of Education]]"
+  - "[[School Effectiveness]]"
+  - "[[Digital Self]]"
+  - "[[Competitiveness in Higher Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Matching]]"
+  - "[[Single-Case Design (SCD)]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Thompson_2022_Promising_Student]]"
+  - "[[Argument_Ball_2008_SR]]"
 sources: []
 confidence: medium
 status: draft

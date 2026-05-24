@@ -14,8 +14,12 @@ tags:
 - feedback
 - stance/critique
 related_concepts: []
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Radical Constructivism]]"
+  - "[[Popper's Three Worlds Theory]]"
+  - "[[Technical Rationality]]"
+related_methods:
+  - "[[Philosophical Analysis in Education]]"
 related_persons: []
 related_facts: []
 related_arguments: []

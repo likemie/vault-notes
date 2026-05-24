@@ -15,10 +15,14 @@ tags:
 - theory/confucianism
 - theory/neo-confucianism
 - school/cheng-zhu-school
-related_concepts: []
+related_concepts:
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Self-Cultivation]]"
+  - "[[Sage]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources: []

@@ -14,11 +14,16 @@ tags:
 - market-reform
 - region/china
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Credential Inflation]]"
+  - "[[Cultural Capital]]"
+  - "[[Economy of Experience]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Yajun Zheng]]"
+related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources: []
 confidence: medium

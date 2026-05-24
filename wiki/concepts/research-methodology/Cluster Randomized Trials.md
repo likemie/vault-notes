@@ -10,9 +10,11 @@ tags:
 - cluster-randomized-trials
 - subject/research-methodology
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Intent-to-Treat Analysis]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []
 related_arguments: []

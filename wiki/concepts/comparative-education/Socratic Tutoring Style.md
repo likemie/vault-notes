@@ -11,7 +11,12 @@ tags:
   - theme/parenting
   - theme/socialization
   - region/west
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Cognitive Source]]"
+  - "[[Pride in Learning]]"
+  - "[[MCC Discourse Analysis Examples]]"
+  - "[[Confucian Tutoring Style]]"
 related_theories: []
 related_methods: []
 related_persons: []

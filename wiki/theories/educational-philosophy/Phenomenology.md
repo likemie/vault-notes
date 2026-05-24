@@ -10,12 +10,16 @@ tags:
 - ontology
 - epistemology
 - paradigm/interpretivist
-related_concepts: []
+related_concepts:
+  - "[[Phenomenon-Based Learning]]"
+  - "[[Bildung]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 sources: []
 confidence: medium
 status: draft

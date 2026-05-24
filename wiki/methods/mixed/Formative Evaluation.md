@@ -13,12 +13,21 @@ tags:
 - program-evaluation
 - implementation
 - evidence-informed-practice
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Informed Practice]]"
+  - "[[Professional Judgment]]"
+  - "[[Technology Infusion]]"
+  - "[[Absorptive Capacity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Logic Model]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
 sources: []
+related_facts:
+  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
 confidence: medium
 status: draft
 created: '2026-05-23'

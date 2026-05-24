@@ -14,7 +14,8 @@ tags:
 - evidence-based-education
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []

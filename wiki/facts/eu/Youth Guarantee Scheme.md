@@ -15,11 +15,18 @@ tags:
 - policy/education
 - level/k12
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Network Governance]]"
+  - "[[Performance Indicators]]"
+  - "[[Theories of Policy Change]]"
+  - "[[Selectivity]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Europe 2020 Strategy]]"
+  - "[[EU Skills Agenda]]"
+  - "[[Innovation Union]]"
 related_arguments: []
 sources: []
 confidence: medium

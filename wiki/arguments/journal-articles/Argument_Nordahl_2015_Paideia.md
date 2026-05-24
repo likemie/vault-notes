@@ -12,11 +12,19 @@ tags:
 - school-improvement
 - region/scandinavia
 - subject/instruction-pedagogy
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Professional Judgment]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[New Public Management]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Gert Biesta]]"
+related_facts:
+  - "[[No Child Left Behind Act 2001]]"
 related_arguments: []
 sources: []
 part_of: ''

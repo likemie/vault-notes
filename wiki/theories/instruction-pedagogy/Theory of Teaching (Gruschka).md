@@ -14,12 +14,17 @@ tags:
   - paradigm/critical
   - level/k12
   - region/germany
-related_concepts: []
+related_concepts:
+  - "[[Bildung]]"
+  - "[[Didaktik]]"
+  - "[[Rightness]]"
+  - "[[Feedback]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 sources: []
 confidence: low
 status: draft

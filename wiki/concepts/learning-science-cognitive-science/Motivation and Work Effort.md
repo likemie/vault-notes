@@ -12,12 +12,15 @@ tags:
 - subject/instruction-pedagogy
 - level/k12
 - region/norway
-related_concepts: []
+related_concepts:
+  - "[[Feedback]]"
+  - "[[School Norm Adaptation]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Lekhal_2015_Paideia]]"
 sources: []
 confidence: medium
 status: draft

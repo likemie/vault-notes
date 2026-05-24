@@ -12,9 +12,14 @@ tags:
 - causal-inference
 - subject/research-methodology
 - paradigm/positivist
-related_concepts: []
+related_concepts:
+  - "[[Potential Outcomes Framework]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Causal Modeling]]"
+  - "[[Covariate Adjustment]]"
+  - "[[Non-intervention Research]]"
 related_persons: []
 related_arguments: []
 sources: []

@@ -10,7 +10,9 @@ tags:
   - subject/instruction
   - level/k12
   - region/sweden
-related_concepts: []
+related_concepts:
+  - "[[Direct Instruction]]"
+  - "[[Individualised Instruction]]"
 related_theories: []
 related_methods: []
 related_persons: []

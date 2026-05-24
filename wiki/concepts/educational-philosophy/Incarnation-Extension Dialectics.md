@@ -8,7 +8,9 @@ tags:
 - incarnation-extension-dialectics
 - paradigm/phenomenological
 - stance/critique
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Bildung]]"
 related_theories: []
 related_methods: []
 related_persons: []

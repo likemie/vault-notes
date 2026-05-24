@@ -13,11 +13,20 @@ tags:
   - theme/intelligence
   - theme/social-competence
   - theme/cultural-psychology
-related_concepts: []
+related_concepts:
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Academic Engagement]]"
+  - "[[Nerd (School Peer Culture)]]"
+  - "[[Rightness]]"
+  - "[[Zero-Sum Competition (School)]]"
+  - "[[Talent Assumption]]"
+  - "[[Doxa]]"
+  - "[[Tongxue]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Three Excellences (San Hao Sheng)]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -14,12 +14,36 @@ tags:
 - endogenous-growth
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Further Education]]"
+  - "[[Corporate Education]]"
+  - "[[Tongxue]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[International Education]]"
+  - "[[International Education Hubs]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Spatial Sortings]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[International Schools]]"
+  - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[Progressive Neoliberalism]]"
+  - "[[Geopolitics of Knowledge]]"
+related_theories:
+  - "[[Cultural Political Economy]]"
+  - "[[Fixity-Motion Tension]]"
+related_methods:
+  - "[[Single-Case Design (SCD)]]"
+related_persons:
+  - "[[Bob Jessop]]"
+related_facts:
+  - "[[Australia in the Asian Century White Paper 2012]]"
+  - "[[UAE Education Hub Projects]]"
+  - "[[Singapore Education Hub Policy]]"
+related_arguments:
+  - "[[Argument_Erfurth_2022_education-hubs]]"
 sources: []
 confidence: medium
 status: draft

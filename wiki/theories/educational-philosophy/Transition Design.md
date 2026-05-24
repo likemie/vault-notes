@@ -10,7 +10,9 @@ tags:
 - pluriverse
 - wicked-problems
 - social-change
-related_concepts: []
+related_concepts:
+  - "[[Posthumanism]]"
+  - "[[Mondialisation]]"
 related_theories: []
 related_methods: []
 related_persons: []

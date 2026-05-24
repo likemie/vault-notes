@@ -12,11 +12,15 @@ tags:
 - clearinghouse-rating-case
 - evidence-based-education
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[What Works Clearinghouse (WWC)]]"
+  - "[[Blueprints for Healthy Youth Development]]"
+  - "[[Best Evidence Encyclopedia (BEE)]]"
 related_arguments: []
 sources: []
 confidence: medium

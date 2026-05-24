@@ -14,11 +14,27 @@ tags:
 - paradigm/critical
 - region/france
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Habitus]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Doxa]]"
+  - "[[School Leadership]]"
+  - "[[Knowledge Production]]"
+  - "[[Credential Inflation]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[New Public Management]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Pierre Bourdieu]]"
+  - "[[Max Weber]]"
+  - "[[Yajun Zheng]]"
+related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources: []
 confidence: medium

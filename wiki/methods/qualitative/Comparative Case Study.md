@@ -13,12 +13,19 @@ tags:
 - comparative-education
 - policy-analysis
 - method/qualitative
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[International Education Hubs]]"
+  - "[[Cultural Diplomacy]]"
+  - "[[Scale in Higher Education]]"
+related_theories:
+  - "[[Cultural Political Economy]]"
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Erfurth_2022_education-hubs]]"
 sources: []
+related_facts:
+  - "[[GATS and Trade in Education Services]]"
 confidence: medium
 status: draft
 created: 2026-05-19

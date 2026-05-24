@@ -12,10 +12,15 @@ tags:
 - region/brazil
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Tense Society]]"
+  - "[[Life Power]]"
+  - "[[Epistemology of Resistance]]"
+related_theories:
+  - "[[Creative Tension of Sense]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Dell Delambre]]"
 related_facts: []
 related_arguments: []
 sources: []

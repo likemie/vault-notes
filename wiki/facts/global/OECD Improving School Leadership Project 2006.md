@@ -11,7 +11,10 @@ tags:
 - school-leadership
 - region/global
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[School Leadership]]"
+  - "[[New Public Management]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

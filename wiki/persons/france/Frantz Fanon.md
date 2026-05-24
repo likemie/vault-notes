@@ -13,10 +13,17 @@ tags:
 - decolonization
 - postcolonial-studies
 - psychiatry
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Rightness]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Forced Knowledge Transfer]]"
+related_theories:
+  - "[[Phenomenology]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Chen Kuan-Hsing]]"
+  - "[[Walter Mignolo]]"
 related_arguments: []
 sources: []
 confidence: medium

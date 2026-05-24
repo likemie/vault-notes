@@ -28,6 +28,7 @@ import argparse
 import json
 import re
 import sys
+import unicodedata
 from dataclasses import dataclass, asdict
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
@@ -238,6 +239,59 @@ def is_generated_or_template(path: Path) -> bool:
     return False
 
 
+def is_schema_or_workflow_doc(path: Path) -> bool:
+    r = rel(path)
+    return (
+        r in {"vault-schema.md", "CLAUDE.md"}
+        or r.startswith("books/schema-")
+        or path.name == "vault-schema-manifest-patch.md"
+    )
+
+
+def comparable_title(value: str) -> str:
+    value = unicodedata.normalize("NFKC", value)
+    value = re.sub(r"([A-Za-z])['’]s\b", r"\1s", value)
+    value = value.replace("&", " and ")
+    value = re.sub(r"[^0-9A-Za-z]+", "-", value)
+    return value.strip("-").lower()
+
+
+def title_matches_filename(title: str, filename_stem: str) -> bool:
+    title_key = comparable_title(title)
+    filename_key = comparable_title(filename_stem)
+    if title_key == filename_key:
+        return True
+
+    stopwords = {"and", "of", "the", "s"}
+    title_words = [w for w in title_key.split("-") if w and w not in stopwords]
+    filename_words = [w for w in filename_key.split("-") if w and w not in stopwords]
+
+    def word_matches(a: str, b: str) -> bool:
+        return a == b or a.rstrip("s") == b.rstrip("s")
+
+    def is_subsequence(shorter: list[str], longer: list[str]) -> bool:
+        pos = 0
+        for word in longer:
+            if pos < len(shorter) and word_matches(shorter[pos], word):
+                pos += 1
+        return pos == len(shorter)
+
+    return is_subsequence(title_words, filename_words) or is_subsequence(filename_words, title_words)
+
+
+def remove_h2_sections(body: str, names: Iterable[str]) -> str:
+    targets = {n.lower() for n in names}
+    lines = body.splitlines(keepends=True)
+    out: list[str] = []
+    skipping = False
+    for line in lines:
+        if line.startswith("## "):
+            title = line[3:].strip().lower()
+            skipping = title in targets
+        out.append("\n" if skipping else line)
+    return "".join(out)
+
+
 def is_wiki_entry_path(path: Path) -> bool:
     if not str(path).startswith(str(WIKI_DIR)):
         return False
@@ -384,6 +438,8 @@ def check_required_files(issues: List[Issue]) -> None:
 
 
 def check_old_references(path: Path, text: str, issues: List[Issue]) -> None:
+    if is_schema_or_workflow_doc(path):
+        return
     patterns = [
         ("scripts/update_wiki_index.py", "old index script name; use scripts/wiki_index.py"),
         ("wiki/wiki-index.md", "old wiki index path; use wiki/index.md"),
@@ -400,11 +456,15 @@ def check_old_references(path: Path, text: str, issues: List[Issue]) -> None:
 
 
 def check_quartz_safety(path: Path, text: str, issues: List[Issue]) -> None:
+    if is_schema_or_workflow_doc(path):
+        return
     if "#ccc" in text:
         issues.append(Issue("WARN", rel(path), "HTML color #ccc found; use rgb(204,204,204)", line=line_of_pos(text, text.find("#ccc")), code="QUARTZ_COLOR"))
 
-    # Inline script tag risk.
-    for m in re.finditer(r"<script\b", text, flags=re.IGNORECASE):
+    # Inline script tag risk. External script files are allowed.
+    for m in re.finditer(r"<script\b[^>]*>", text, flags=re.IGNORECASE):
+        if re.search(r"\bsrc\s*=", m.group(0), flags=re.IGNORECASE):
+            continue
         issues.append(Issue("WARN", rel(path), "inline <script> found; put script logic in external static files", line=line_of_pos(text, m.start()), code="QUARTZ_SCRIPT"))
 
     # Absolute local path risk.
@@ -417,6 +477,8 @@ def check_quartz_safety(path: Path, text: str, issues: List[Issue]) -> None:
 def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]], issues: List[Issue]) -> Optional[Dict[str, Any]]:
     fm, body, _ = split_frontmatter(text)
     if fm is None:
+        if path.name in GENERATED_INDEX_FILES or is_schema_or_workflow_doc(path):
+            return None
         # Source files may have frontmatter too; templates always do. Warn generally.
         issues.append(Issue("WARN", rel(path), "missing or malformed frontmatter delimiters", code="FM_MISSING"))
         return None
@@ -435,7 +497,7 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
         elif isinstance(title, str):
             stem = path.stem
             # Templater files use placeholders; normal entries should match filename.
-            if "<%" not in title and title != stem:
+            if "<%" not in title and title != stem and not title_matches_filename(title, stem):
                 issues.append(Issue("WARN", rel(path), f"title differs from filename stem: title={title!r}, filename={stem!r}", line=frontmatter_line_number(fm, "title"), code="TITLE_FILENAME_MISMATCH"))
 
     # type checks
@@ -539,13 +601,18 @@ def check_summary(path: Path, fm: str, summary: Any, issues: List[Issue]) -> Non
 
 
 def check_wikilinks(path: Path, text: str, by_title: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
+    if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path):
+        return
+
     fm, body, body_start_line = split_frontmatter(text)
     if fm is None:
         body = text
         body_start_line = 1
 
+    body_for_links = remove_h2_sections(body, ["来源", "Sources", "Source"])
+
     # Existing normal wikilinks.
-    for m in WIKILINK_RE.finditer(strip_code_blocks(body)):
+    for m in WIKILINK_RE.finditer(strip_code_blocks(body_for_links)):
         raw = m.group(1)
         if not raw.strip():
             issues.append(Issue("ERROR", rel(path), "empty wikilink [[]]", line=line_of_pos(body, m.start(), body_start_line), code="EMPTY_WIKILINK"))
@@ -569,7 +636,8 @@ def check_wikilinks(path: Path, text: str, by_title: Dict[str, Dict[str, Any]], 
         suffix = Path(target).suffix.lower()
         if suffix in {".pdf", ".epub", ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}:
             # Search common locations by filename.
-            candidates = list(ROOT.rglob(Path(target).name))
+            target_name = unicodedata.normalize("NFC", Path(target).name)
+            candidates = [c for c in ROOT.rglob("*") if unicodedata.normalize("NFC", c.name) == target_name]
             candidates = [c for c in candidates if not any(part in SKIP_DIR_NAMES for part in c.parts)]
             if not candidates:
                 issues.append(Issue("WARN", rel(path), f"embedded file not found in vault: ![[{target}]]", line=line_of_pos(body, m.start(), body_start_line), code="MISSING_EMBED_FILE"))

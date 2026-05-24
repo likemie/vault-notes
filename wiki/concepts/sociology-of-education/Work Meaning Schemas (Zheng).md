@@ -12,10 +12,17 @@ tags:
 - cultural-sociology
 - region/china
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Shu (Familiarization)]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Ann Swidler]]"
+  - "[[Max Weber]]"
 related_facts: []
 related_arguments: []
 sources: []

@@ -11,9 +11,12 @@ tags:
 - methodology
 related_concepts: []
 related_theories: []
-related_methods: []
-related_persons: []
-related_arguments: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Yajun Zheng]]"
+related_arguments:
+  - "[[Argument_郑_2023_上海三联书店]]"
 sources: []
 confidence: low
 status: draft

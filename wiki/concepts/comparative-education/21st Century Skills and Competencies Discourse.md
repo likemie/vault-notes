@@ -4,9 +4,14 @@ aliases: ["21世纪技能与素养话语", "21st century skills discourse", "SCD
 summary: "由全球教育治理中的多边组织、国家政府和私营伙伴共同推动的技能话语，通过界定未来劳动力市场所需的关键能力来塑造教育政策与个体主体性，其核心特征包括四 C 技能的主导地位和对非认知能力的边缘化。"
 type: concept
 tags: ["theme/global-education-governance", "theme/skills", "theme/employability", "level/higher-education", "level/k-12"]
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Employability]]"
+  - "[[Self-Entrepreneur]]"
+  - "[[Jing (Refined Mastery)]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Single-Case Design (SCD)]]"
 related_persons: []
 related_facts: []
 related_arguments: []

@@ -14,12 +14,14 @@ tags:
   - theme/class-size
   - theme/equity
   - theme/evidence-based-education
-related_concepts: []
+related_concepts:
+  - "[[Class Size]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Pellegrini_2021_ROE]]"
 sources: []
 confidence: medium
 status: draft

@@ -13,9 +13,13 @@ tags:
 - knowledge
 - region/denmark
 - stance/support
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Dynamic Knowledge and Learning Model]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []

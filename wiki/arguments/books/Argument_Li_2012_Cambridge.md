@@ -15,11 +15,67 @@ tags:
 - theme/cross-cultural-learning
 - theme/learning-model
 - theme/cultural-psychology
-related_concepts: []
-related_theories: []
-related_methods: []
-related_facts: []
-related_persons: []
+related_concepts:
+  - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Rightness]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[University Motto]]"
+  - "[[Self-Efficacy]]"
+  - "[[Examination Hell]]"
+  - "[[Learning Gap]]"
+  - "[[Learning Virtues]]"
+  - "[[Paradox of the Chinese Learner]]"
+  - "[[Confucian Heritage Cultures]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Ideal Learner]]"
+  - "[[Self-Cultivation]]"
+  - "[[Establishing One's Will (lizhi)]]"
+  - "[[Cultural Models]]"
+  - "[[Western Learner]]"
+  - "[[Chinese Learner]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Externalization (Schriewer)]]"
+  - "[[Certainty of Knowledge]]"
+  - "[[Sage]]"
+  - "[[Feedback]]"
+  - "[[Entity vs Incremental Intelligence]]"
+  - "[[Flow]]"
+  - "[[Affect-Respect and Ought-Respect]]"
+  - "[[Pride in Learning]]"
+  - "[[Humility in Learning]]"
+  - "[[Nerd (School Peer Culture)]]"
+  - "[[Tall Poppy Syndrome]]"
+  - "[[Zero-Sum Competition (School)]]"
+  - "[[Talent Assumption]]"
+  - "[[Intellectual-Social Divide]]"
+  - "[[Doxa]]"
+  - "[[Tongxue]]"
+  - "[[Socratic Tutoring Style]]"
+  - "[[Confucian Tutoring Style]]"
+  - "[[MCC Discourse Analysis Examples]]"
+  - "[[Cognitive Source]]"
+  - "[[Action Better Than Words]]"
+  - "[[Grice's Conversational Maxims]]"
+  - "[[Revoicing]]"
+  - "[[Devil's Advocate]]"
+related_theories:
+  - "[[Appraisal Theory]]"
+  - "[[Attribution Theory]]"
+  - "[[Self-Worth Theory]]"
+  - "[[Confucian Learning Tradition]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Prototype Methods]]"
+  - "[[Experience Sampling Method]]"
+  - "[[Mother-Child Conversation (MCC)]]"
+related_facts:
+  - "[[PISA]]"
+  - "[[Cram Schools]]"
+  - "[[Three Excellences (San Hao Sheng)]]"
+  - "[[Civil Service Examination]]"
+related_persons:
+  - "[[Confucius]]"
+  - "[[Mencius]]"
 related_arguments: []
 sources: []
 part_of: []

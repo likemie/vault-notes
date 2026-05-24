@@ -15,12 +15,29 @@ tags:
   - policy/evidence-informed-policy
   - theme/evidence-based-education
   - theme/educational-policy
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Reusability Paradox]]"
+  - "[[Evidence-Informed Practice]]"
+  - "[[Evidence-Based Reform]]"
+  - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Mixed Method and Multi-method Research]]"
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[EPPI-Centre]]"
+  - "[[Campbell Collaboration]]"
+  - "[[Danish Clearinghouse for Educational Research]]"
+  - "[[Institute for Effective Education]]"
+  - "[[Swedish Institute for Educational Research]]"
+  - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[Centre for the Use of Research and Evidence in Education]]"
+  - "[[Evidence-Based Teachers Network]]"
+  - "[[EU Key Competences for Lifelong Learning 2018]]"
+related_arguments:
+  - "[[Argument_Pellegrini_2021_ROE]]"
 sources: []
 confidence: medium
 status: draft

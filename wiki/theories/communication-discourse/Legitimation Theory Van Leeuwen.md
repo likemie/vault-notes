@@ -11,12 +11,19 @@ tags:
 - discourse-analysis
 - evidence-based-policy
 - critical-discourse-analysis
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Moral Sidestep]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_methods:
+  - "[[Carnivalesque Analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Ofsted]]"
+  - "[[Grammar School]]"
+related_arguments:
+  - "[[Argument_Bainbridge_2022_ROE]]"
 sources: []
 confidence: low
 status: draft

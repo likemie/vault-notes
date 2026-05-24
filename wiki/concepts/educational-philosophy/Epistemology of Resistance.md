@@ -12,9 +12,15 @@ tags:
 - theme/resistance
 - theme/decolonial
 related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_theories:
+  - "[[Creative Tension of Sense]]"
+  - "[[Decolonial Geopolitics of Knowledge]]"
+related_methods:
+  - "[[Ganz-Methode]]"
+related_persons:
+  - "[[Richard Castelo Branco]]"
+  - "[[Dell Delambre]]"
+  - "[[Camilla de Hollanda Amado]]"
 related_facts: []
 related_arguments: []
 sources: []

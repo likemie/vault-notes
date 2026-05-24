@@ -12,9 +12,13 @@ tags:
   - theme/motivation
   - theme/affect
   - theme/intrinsic-motivation
-related_concepts: []
+related_concepts:
+  - "[[Shu (Familiarization)]]"
+  - "[[Intrinsic vs Extrinsic Motivation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Matching]]"
+  - "[[Experience Sampling Method]]"
 related_persons: []
 related_facts: []
 related_arguments: []

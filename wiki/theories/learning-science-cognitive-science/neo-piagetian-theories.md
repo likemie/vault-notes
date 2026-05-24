@@ -10,12 +10,20 @@ tags:
 - constructivism
 - paradigm/constructivist
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Executive Function]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Juan Pascual-Leone]]"
+  - "[[Robbie Case]]"
+  - "[[Kurt Fischer]]"
+  - "[[Jean Piaget]]"
+  - "[[John Hattie]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Bolton_2017_ArchPsych]]"
 sources: []
 confidence: medium
 status: draft

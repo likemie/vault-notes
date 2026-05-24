@@ -11,11 +11,19 @@ tags:
 - evidence-based-education
 - region/denmark
 - stance/support
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Structural Coupling]]"
+  - "[[Professional Judgment]]"
+  - "[[Visible Learning]]"
+related_theories:
+  - "[[Bounded Rationality]]"
 related_methods: []
-related_persons: []
-related_arguments: []
+related_persons:
+  - "[[Thomas Aastrup Rømer]]"
+related_arguments:
+  - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[Argument_Qvortrup_2019_NordSTEP]]"
 sources: []
 confidence: low
 status: draft

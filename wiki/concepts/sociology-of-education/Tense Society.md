@@ -8,9 +8,12 @@ type: concept
 tags:
 - region/global
 related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_theories:
+  - "[[Creative Tension of Sense]]"
+related_methods:
+  - "[[Ganz-Methode]]"
+related_persons:
+  - "[[Dell Delambre]]"
 related_facts: []
 related_arguments: []
 sources: []

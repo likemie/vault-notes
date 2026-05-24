@@ -10,11 +10,15 @@ tags:
 - secondary-education
 - region/uk
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Moral Sidestep]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Grammar School]]"
+  - "[[Selective Schools Expansion Fund 2018]]"
+  - "[[Education and Inspections Act 2006]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -10,12 +10,21 @@ tags:
 - subject/psychology
 - level/k12
 - region/norway
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[School Norm Adaptation]]"
+  - "[[Motivation and Work Effort]]"
+  - "[[Self-control]]"
+  - "[[Assertiveness]]"
+  - "[[Effective Teaching]]"
+  - "[[School Leadership]]"
+related_theories:
+  - "[[Transactional Epistemology]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Lekhal_2015_Paideia]]"
 sources: []
 confidence: medium
 status: draft

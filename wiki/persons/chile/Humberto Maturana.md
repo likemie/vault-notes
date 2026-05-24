@@ -11,9 +11,12 @@ tags:
 - biology
 - social-theory
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Autopoiesis]]"
+  - "[[Transition Design]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Francisco Varela]]"
 related_arguments: []
 sources: []
 confidence: medium

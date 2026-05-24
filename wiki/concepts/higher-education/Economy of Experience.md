@@ -12,10 +12,18 @@ tags:
 - higher-education
 - cultural-capital
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Credential Inflation]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Social Engagement]]"
+  - "[[Employability]]"
+  - "[[Cultural Capital]]"
+  - "[[Goal-Controlled Mode]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []

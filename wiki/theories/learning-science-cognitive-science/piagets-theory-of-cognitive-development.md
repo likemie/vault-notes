@@ -11,12 +11,22 @@ tags:
 - constructivism
 - paradigm/constructivist
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Prefrontal Cortex]]"
+  - "[[Executive Function]]"
+  - "[[Updating and Monitoring]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Synaptogenesis]]"
+  - "[[Synaptic Pruning]]"
+  - "[[Myelination]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Jean Piaget]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Bolton_2017_ArchPsych]]"
 sources: []
 confidence: medium
 status: draft

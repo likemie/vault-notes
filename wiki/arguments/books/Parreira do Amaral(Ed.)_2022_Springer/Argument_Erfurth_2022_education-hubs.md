@@ -11,11 +11,21 @@ tags:
   - theme/development
   - theme/internationalization
   - source/edited-volume
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Cultural Diplomacy]]"
+  - "[[Rightness]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[Knowledge-Based Economy]]"
+related_theories:
+  - "[[Cultural Political Economy]]"
+related_methods:
+  - "[[Comparative Case Study]]"
+  - "[[Case Study]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Singapore Education Hub Policy]]"
+  - "[[UAE Education Hub Projects]]"
 related_arguments: []
 sources: []
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"

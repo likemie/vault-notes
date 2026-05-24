@@ -10,10 +10,12 @@ tags:
 - neuroscience
 - learning-science
 - cognitive-science
-related_concepts: []
+related_concepts:
+  - "[[Prefrontal Cortex]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
 sources: []

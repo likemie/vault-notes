@@ -12,12 +12,15 @@ tags:
 - meta-analysis
 - stance/critique
 - region/new-zealand
-related_concepts: []
+related_concepts:
+  - "[[Publication Bias]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hattie_2010_NZJES]]"
+  - "[[Argument_Snook_2010_NZJES]]"
 sources: []
 part_of: ''
 status: draft

@@ -11,11 +11,16 @@ tags:
 - neuroimaging
 - neuroscience
 - paradigm/positivist
-related_concepts: []
+related_concepts:
+  - "[[Prefrontal Cortex]]"
+  - "[[Executive Function]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_arguments: []
+related_methods:
+  - "[[Electroencephalography]]"
+related_persons:
+  - "[[John Hattie]]"
+related_arguments:
+  - "[[Argument_Bolton_2017_ArchPsych]]"
 sources: []
 confidence: medium
 status: draft

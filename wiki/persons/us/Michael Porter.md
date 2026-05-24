@@ -11,8 +11,14 @@ tags:
 - national-competitive-advantage
 - region/united-states
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[National Competitive Advantage]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Flow]]"
+  - "[[Rightness]]"
+  - "[[Hub and Flow Imaginaries]]"
+related_theories:
+  - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons: []
 related_arguments: []

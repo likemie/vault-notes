@@ -13,11 +13,46 @@ tags:
 - paradigm/positivist
 - region/us
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[School Leadership]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Evidence-Based Education]]"
+  - "[[International Education]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Effect Size]]"
+  - "[[Professional Judgment]]"
+  - "[[Statistical Significance]]"
+  - "[[Technology Infusion]]"
+  - "[[Evidence-Informed Practice]]"
+  - "[[Feedback]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Matching]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Logic Model]]"
+  - "[[Qualitative Research]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Formative Evaluation]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[Robert Slavin]]"
+  - "[[John Hattie]]"
+related_facts:
+  - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[Comprehensive School Reform (CSR) Program]]"
+  - "[[No Child Left Behind Act 2001]]"
+  - "[[Investing in Innovation (i3) Program]]"
+  - "[[Best Evidence in Brief (BEiB)]]"
+  - "[[Pact for Educational Excellence]]"
+  - "[[Success for All]]"
+  - "[[ECNU Declaration on Evidence-Based Research 2017]]"
+  - "[[What Works Clearinghouse (WWC)]]"
+  - "[[Best Evidence Encyclopedia (BEE)]]"
+  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
 related_arguments: []
 sources: []
 confidence: high

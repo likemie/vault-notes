@@ -12,7 +12,10 @@ tags:
 - knowledge-economy
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[Knowledge Production]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -18,7 +18,14 @@ tags:
 - policy/education-hub
 - theme/geopolitics
 - theme/development
-related_concepts: []
+related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Cultural Diplomacy]]"
+  - "[[Rightness]]"
+  - "[[International Education Hubs]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Flow]]"
 related_theories: []
 related_methods: []
 related_persons: []

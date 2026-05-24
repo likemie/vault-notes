@@ -13,12 +13,32 @@ tags:
 - experimental-design
 - methodology
 - paradigm/positivist
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Stable Unit Treatment Value Assumption (SUTVA)]]"
+  - "[[Effect Size]]"
+  - "[[Side Effects in Education]]"
+  - "[[Cluster Randomized Trials]]"
+  - "[[Intent-to-Treat Analysis]]"
+  - "[[Black Box RCTs]]"
+  - "[[Mechanism Experiments]]"
+  - "[[Validity as Inferences]]"
+  - "[[Recommendations for Practice]]"
+related_theories:
+  - "[[Critical Realism]]"
+related_methods:
+  - "[[Intervention Research]]"
+  - "[[Non-intervention Research]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
 sources: []
+related_facts:
+  - "[[What Works Clearinghouse (WWC)]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

@@ -9,8 +9,12 @@ tags:
 - ann-swidler
 - cultural-sociology
 - region/us
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
+  - "[[Dual-Process Model of Culture in Action]]"
 related_methods: []
 related_persons: []
 related_arguments: []

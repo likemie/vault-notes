@@ -9,8 +9,18 @@ tags:
 - region/us
 - discipline/sociology
 - school/world-society-theory
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Organizational Actorhood]]"
+  - "[[Cultural Models]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Otherhood]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Epistemic Governance]]"
+  - "[[Geopolitics of Knowledge]]"
+related_theories:
+  - "[[World Society Theory]]"
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons: []
 related_arguments: []

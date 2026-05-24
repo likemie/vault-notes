@@ -9,11 +9,29 @@ citation: Zapp, M. (2022). Universities, Sustainable Development and the 'Knowle
 tags:
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Otherhood]]"
+  - "[[Organizational Actorhood]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Rightness]]"
+  - "[[Cultural Models]]"
+  - "[[Performance Indicators]]"
+  - "[[University Social Responsibility]]"
+  - "[[Scientization of Politics]]"
+  - "[[Epistemic Drift]]"
+  - "[[Epistemic Governance]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Pride in Learning]]"
+  - "[[International Education Hubs]]"
+  - "[[Geopolitics of Knowledge]]"
+related_theories:
+  - "[[World Society Theory]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[UN Sustainable Development Goals 2015]]"
+  - "[[Comprehensive School Reform (CSR) Program]]"
+  - "[[GATS and Trade in Education Services]]"
 related_arguments: []
 sources: []
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'

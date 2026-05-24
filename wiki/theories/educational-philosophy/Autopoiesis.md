@@ -15,7 +15,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Amos_2022_Springer]]"
 sources: []
 confidence: medium
 status: draft

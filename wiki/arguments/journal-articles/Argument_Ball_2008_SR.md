@@ -10,11 +10,17 @@ tags:
   - theme/governmentality
   - theme/school-effectiveness
   - paradigm/critical
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Political Arithmetic]]"
+  - "[[New Sociology of Education]]"
+  - "[[School Effectiveness]]"
+  - "[[Horizontal Knowledge Structure]]"
+related_theories:
+  - "[[Governmentality]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Committee for the Accreditation of Teacher Education]]"
 related_arguments: []
 sources: []
 part_of: ''

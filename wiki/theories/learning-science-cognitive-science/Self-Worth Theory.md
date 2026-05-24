@@ -11,7 +11,8 @@ tags:
   - theme/affect
   - theme/self-esteem
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Attribution Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []

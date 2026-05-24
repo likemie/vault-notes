@@ -9,12 +9,16 @@ tags:
 - theme/cross-cultural
 - level/higher-ed
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Stereotype Threat]]"
+  - "[[Chinese Learner]]"
+  - "[[Orientalism]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Ryan_2010_ChineseLearner]]"
 sources: []
 confidence: medium
 status: draft

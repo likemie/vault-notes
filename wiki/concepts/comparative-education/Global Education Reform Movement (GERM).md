@@ -10,8 +10,11 @@ tags:
 - global-education-reform-movement
 - neoliberalism
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[New Public Management]]"
+  - "[[Visible Learning]]"
+related_theories:
+  - "[[Technical Rationality]]"
 related_methods: []
 related_persons: []
 related_facts: []

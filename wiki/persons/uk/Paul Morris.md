@@ -12,12 +12,17 @@ tags:
 - comparative-education
 - region/uk
 - region/china
-related_concepts: []
+related_concepts:
+  - "[[Policy Borrowing]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Ryan_2010_HKUP]]"
 sources: []
+related_facts:
+  - "[[Liberal Studies (Hong Kong)]]"
+  - "[[Transnationalism and America Project SYSU]]"
 confidence: high
 status: draft
 created: '2026-05-01'

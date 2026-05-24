@@ -13,12 +13,23 @@ tags:
 - methodology
 - statistics
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Effect Size]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Visible Learning]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_arguments: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+related_arguments:
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_OConnor_2020_AJLL]]"
 sources: []
+related_facts:
+  - "[[EEF Teaching and Learning Toolkit]]"
 confidence: high
 status: draft
 created: '2026-05-01'

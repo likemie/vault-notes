@@ -14,7 +14,12 @@ tags:
   - digital-learning
   - theme/digitalization
   - paradigm/critical
-related_concepts: []
+related_concepts:
+  - "[[Didaktik]]"
+  - "[[Rightness]]"
+  - "[[Bildung]]"
+  - "[[Feedback]]"
+  - "[[Data Behaviorism]]"
 related_theories: []
 related_methods: []
 related_persons: []

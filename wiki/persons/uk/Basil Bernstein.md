@@ -9,10 +9,13 @@ tags:
   - region/uk
   - theme/sociology-of-education
   - theory/bernstein
-related_concepts: []
+related_concepts:
+  - "[[Horizontal Knowledge Structure]]"
+  - "[[New Sociology of Education]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_arguments: []
 sources: []
 confidence: medium

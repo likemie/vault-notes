@@ -10,9 +10,12 @@ tags:
 - stable-unit-treatment-value-assumption
 - causal-inference
 - subject/research-methodology
-related_concepts: []
+related_concepts:
+  - "[[Cluster Randomized Trials]]"
+  - "[[Potential Outcomes Framework]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []
 related_arguments: []

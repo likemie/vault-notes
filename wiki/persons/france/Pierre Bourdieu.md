@@ -12,10 +12,29 @@ tags:
 - sociology
 - paradigm/critical
 - region/france
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Habitus]]"
+  - "[[Champ]]"
+  - "[[Cultural Capital]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Doxa]]"
+  - "[[Epistemological Break]]"
+  - "[[Epistemological Vigilance]]"
+  - "[[School Leadership]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Cultural Disembedding]]"
+  - "[[Cultural Disorientation]]"
+  - "[[Cultural Barrier in Higher Education]]"
+related_theories:
+  - "[[Phenomenology]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Max Weber]]"
 related_arguments: []
 sources: []
 confidence: high

@@ -12,11 +12,18 @@ tags:
 - subject/curriculum
 - region/china
 - level/k12
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Policy Borrowing]]"
+related_theories:
+  - "[[Cuban's Curriculum Change Theory]]"
+  - "[[World Society Theory]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Citizenship and Social Development (Hong Kong)]]"
+  - "[[Introduction of Liberal Studies 2009]]"
+  - "[[Replacement of LS by CSD 2021]]"
+  - "[[2019 Hong Kong Protests and Education]]"
 related_arguments: []
 sources: []
 confidence: high

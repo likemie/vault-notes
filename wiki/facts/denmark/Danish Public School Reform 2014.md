@@ -12,11 +12,20 @@ tags:
 - region/denmark
 - level/k12
 - visible-learning
-related_concepts: []
+related_concepts:
+  - "[[Learnification]]"
+  - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Effective Teaching]]"
+  - "[[Interpretation Community]]"
+  - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Jill Mehlbye]]"
+related_facts:
+  - "[[Hattie på dansk 2017]]"
+  - "[[SFI Report 2013]]"
 related_arguments: []
 sources: []
 confidence: medium

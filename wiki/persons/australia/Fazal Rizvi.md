@@ -13,8 +13,13 @@ tags:
 - region/australia
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Internationalization of Higher Education]]"
+  - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[International Education Hubs]]"
+related_theories:
+  - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons: []
 related_arguments: []

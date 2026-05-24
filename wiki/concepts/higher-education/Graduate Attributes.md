@@ -14,7 +14,14 @@ tags:
 - ideal-graduate
 - level/higher-ed
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Employability]]"
+  - "[[Rightness]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Feedback]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Tongxue]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -13,9 +13,15 @@ tags:
 - sem
 - subject/research-methodology
 - paradigm/positivist
-related_concepts: []
+related_concepts:
+  - "[[Potential Outcomes Framework]]"
+  - "[[Effect Size]]"
+  - "[[Recommendations for Practice]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Matching]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Covariate Adjustment]]"
 related_persons: []
 related_arguments: []
 sources: []

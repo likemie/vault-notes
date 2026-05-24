@@ -10,11 +10,20 @@ tags:
 - geopolitics-of-knowledge
 - knowledge-economy
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Forced Knowledge Transfer]]"
+  - "[[Economic and Industrial Espionage]]"
+  - "[[Knowledge Sabotage]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Kokutai no Hongi (1937)]]"
+  - "[[China Social Credit System]]"
+  - "[[Great Firewall of China]]"
+  - "[[Sino-American Trade War (2018)]]"
+  - "[[Thousand Talents Program]]"
 related_arguments: []
 sources: []
 confidence: medium

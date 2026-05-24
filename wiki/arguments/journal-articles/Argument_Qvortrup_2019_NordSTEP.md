@@ -12,8 +12,10 @@ tags:
 - professional-judgment
 - region/denmark
 - stance/support
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Interpretation Community]]"
+related_theories:
+  - "[[Bounded Rationality]]"
 related_methods: []
 related_persons: []
 related_facts: []

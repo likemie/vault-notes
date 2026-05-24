@@ -9,11 +9,16 @@ tags:
 - theme/spatiality
 - level/higher-ed
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Global Universities Rankings]]"
+  - "[[Internationalization of Higher Education]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Doreen Massey]]"
+related_facts:
+  - "[[Singapore Education Hub Policy]]"
 related_arguments: []
 sources: []
 confidence: medium

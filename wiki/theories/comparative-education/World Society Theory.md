@@ -14,12 +14,33 @@ tags:
 - region/global
 - paradigm/globalization
 - subject/comparative-education
-related_concepts: []
+related_concepts:
+  - "[[Cultural Models]]"
+  - "[[Rightness]]"
+  - "[[Otherhood]]"
+  - "[[Organizational Actorhood]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Policy Borrowing]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Epistemic Governance]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John W. Meyer]]"
+  - "[[Gita Steiner-Khamsi]]"
+related_facts:
+  - "[[PISA]]"
+  - "[[UN Sustainable Development Goals 2015]]"
+  - "[[Liberal Studies (Hong Kong)]]"
+  - "[[Citizenship and Social Development (Hong Kong)]]"
+related_arguments:
+  - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Yan_2025_JCS]]"
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Parreira do Amaral_2022_Springer]]"
+  - "[[Argument_Amos_2022_Springer]]"
 sources: []
 confidence: medium
 status: draft

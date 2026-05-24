@@ -15,12 +15,28 @@ tags:
 - evidence-based-education
 - statistical-synthesis
 - methodology
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_arguments: []
+related_concepts:
+  - "[[Effect Size]]"
+  - "[[Visible Learning]]"
+  - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Class Size]]"
+  - "[[Whole Language]]"
+  - "[[Evidence-Based Education]]"
+related_theories:
+  - "[[Critical Realism]]"
+  - "[[Goldman's Discrimination Theory of Knowledge]]"
+related_methods:
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+related_arguments:
+  - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
 sources: []
+related_facts:
+  - "[[EEF Teaching and Learning Toolkit]]"
 confidence: medium
 status: draft
 created: '2026-05-03'

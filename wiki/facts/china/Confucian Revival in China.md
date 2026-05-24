@@ -14,7 +14,9 @@ tags:
   - theme/cultural-policy
   - theme/nationalism
   - theme/ideology
-related_concepts: []
+related_concepts:
+  - "[[Sinicisation]]"
+  - "[[Official Knowledge]]"
 related_theories: []
 related_methods: []
 related_persons: []

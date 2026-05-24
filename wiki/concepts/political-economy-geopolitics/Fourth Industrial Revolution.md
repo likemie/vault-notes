@@ -11,7 +11,10 @@ tags:
 - knowledge-economy
 - innovation-discourse
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Production]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
 related_theories: []
 related_methods: []
 related_persons: []

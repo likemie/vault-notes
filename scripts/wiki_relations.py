@@ -47,6 +47,14 @@ RELATION_FIELDS = {
 }
 RELATION_KEYS = list(RELATION_FIELDS.values())
 SYNC_KEYS = RELATION_KEYS + ["sources"]
+TYPE_DIRS = {
+    "concepts": "concept",
+    "theories": "theory",
+    "methods": "method",
+    "persons": "person",
+    "facts": "fact",
+    "arguments": "argument",
+}
 
 # Matches non-embedded wikilinks. ![[file.pdf]] is ignored by negative lookbehind.
 WIKILINK_RE = re.compile(r"(?<!!)\[\[([^\]\n]+?)\]\]")
@@ -69,6 +77,13 @@ def rel_to_root(path: Path) -> str:
         return path.as_posix()
 
 
+def infer_type_from_index_path(path: str) -> str:
+    parts = Path(path).parts
+    if len(parts) >= 2 and parts[0] == "wiki":
+        return TYPE_DIRS.get(parts[1], "unknown")
+    return "unknown"
+
+
 def load_index() -> dict[str, Entry]:
     if not INDEX_JSON.exists():
         raise SystemExit(f"Missing index: {INDEX_JSON}. Run python3 scripts/wiki_index.py first.")
@@ -85,7 +100,7 @@ def load_index() -> dict[str, Entry]:
             entries_raw = []
             for title, value in data.items():
                 if isinstance(value, str):
-                    entries_raw.append({"title": title, "path": value, "type": "unknown"})
+                    entries_raw.append({"title": title, "path": value, "type": infer_type_from_index_path(value)})
                 elif isinstance(value, dict):
                     item = dict(value)
                     item.setdefault("title", title)
@@ -97,7 +112,7 @@ def load_index() -> dict[str, Entry]:
     for item in entries_raw:
         title = str(item.get("title") or "").strip()
         path = str(item.get("path") or "").strip()
-        typ = str(item.get("type") or "unknown").strip() or "unknown"
+        typ = str(item.get("type") or infer_type_from_index_path(path)).strip() or "unknown"
         aliases_raw = item.get("aliases") or []
         if not isinstance(aliases_raw, list):
             aliases_raw = []
@@ -110,6 +125,11 @@ def load_index() -> dict[str, Entry]:
             key = str(key).strip()
             if key:
                 by_key[key] = entry
+    if not any(entry.type in RELATION_FIELDS for entry in by_key.values()):
+        raise SystemExit(
+            "wiki/index.json has no typed wiki entries. Run python3 scripts/wiki_index.py, "
+            "or include type/path fields so relations can be classified safely."
+        )
     return by_key
 
 

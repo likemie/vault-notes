@@ -11,12 +11,20 @@ tags:
 - higher-education
 - student-development
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Student Engagement]]"
+  - "[[Academic and Social Integration]]"
+  - "[[Academic Engagement]]"
+  - "[[Social Engagement]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Yajun Zheng]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_郑_2023_上海三联书店]]"
 sources: []
 confidence: medium
 status: draft

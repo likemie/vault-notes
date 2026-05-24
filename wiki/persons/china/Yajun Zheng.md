@@ -10,10 +10,33 @@ tags:
 - higher-education
 - cultural-sociology
 - region/china
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Cultural Capital]]"
+  - "[[Habitus]]"
+  - "[[Champ]]"
+  - "[[Academic Engagement]]"
+  - "[[Social Engagement]]"
+  - "[[Rightness]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Value Conformist Mode]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Cultural Disembedding]]"
+  - "[[Cultural Disorientation]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
+  - "[[Dual-Process Model of Culture in Action]]"
+related_methods:
+  - "[[Constructivist Grounded Theory]]"
+  - "[[In-depth Interview]]"
+related_persons:
+  - "[[Pierre Bourdieu]]"
+  - "[[Max Weber]]"
+  - "[[Ann Swidler]]"
+  - "[[Didier Eribon]]"
 related_arguments: []
 sources: []
 confidence: medium

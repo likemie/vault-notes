@@ -13,10 +13,13 @@ tags:
 - level/higher-ed
 related_concepts: []
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Ganz-Methode]]"
+related_persons:
+  - "[[Walter Mignolo]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Delambre_2022_Springer]]"
 sources: []
 confidence: low
 status: draft

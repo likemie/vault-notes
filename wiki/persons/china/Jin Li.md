@@ -11,12 +11,40 @@ tags:
 - field/comparative-education
 - field/cultural-psychology
 - field/learning-science
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Nerd (School Peer Culture)]]"
+  - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Rightness]]"
+  - "[[Cultural Models]]"
+  - "[[Certainty of Knowledge]]"
+  - "[[Mind and Its Wonders]]"
+  - "[[Examined Life]]"
+  - "[[Western Learner]]"
+  - "[[Take the World Upon Oneself]]"
+  - "[[Learning Virtues]]"
+  - "[[Humility in Learning]]"
+  - "[[Action Better Than Words]]"
+  - "[[Chinese Learner]]"
+  - "[[Self-Cultivation]]"
+  - "[[Junzi]]"
+  - "[[Sage]]"
+  - "[[Pride in Learning]]"
+  - "[[Establishing One's Will (lizhi)]]"
+  - "[[Shame (Confucianism)]]"
+  - "[[Ideal Learner]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
+related_methods:
+  - "[[Prototype Methods]]"
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Socrates]]"
+  - "[[Mencius]]"
+  - "[[Confucius]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Li_2012_Cambridge]]"
 sources: []
 confidence: medium
 status: draft

@@ -12,11 +12,29 @@ tags:
 - level/higher-ed
 - internationalization
 - geopolitics
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Knowledge Capitalism]]"
+  - "[[Rightness]]"
+  - "[[Classical Geopolitics]]"
+  - "[[Orientalism]]"
+  - "[[Knowledge Production]]"
+  - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[International Education]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[International Schools]]"
+  - "[[Doxa]]"
+  - "[[Champ]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Internationalization of Higher Education]]"
+related_theories:
+  - "[[Network Society]]"
+  - "[[Critical Geopolitics]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Frantz Fanon]]"
+related_facts:
+  - "[[GATS and Trade in Education Services]]"
+  - "[[Australia in the Asian Century White Paper 2012]]"
 related_arguments: []
 sources: []
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'

@@ -11,12 +11,19 @@ tags:
 - bildung
 - curriculum
 - region/germany
-related_concepts: []
+related_concepts:
+  - "[[Didaktik]]"
+  - "[[Bildung]]"
+  - "[[Epochal Key Problems]]"
+  - "[[Phenomenon-Based Learning]]"
+  - "[[Atomisation of Knowledge and Skills]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
 sources: []
+related_facts:
+  - "[[Finnish National Core Curriculum 2014]]"
 confidence: medium
 status: draft
 created: '2026-05-06'

@@ -12,7 +12,8 @@ tags:
   - theme/speaking
   - theme/cross-cultural-communication
   - field/communication-discourse
-related_concepts: []
+related_concepts:
+  - "[[Jing (Refined Mastery)]]"
 related_theories: []
 related_methods: []
 related_persons: []

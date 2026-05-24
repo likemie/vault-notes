@@ -11,7 +11,10 @@ tags:
 - statistics
 - psychology
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

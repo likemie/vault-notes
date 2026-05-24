@@ -13,7 +13,10 @@ tags:
   - theme/affect
   - theme/cognition
   - theory/appraisal
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Shame (Confucianism)]]"
+  - "[[Cultural Models]]"
 related_theories: []
 related_methods: []
 related_persons: []

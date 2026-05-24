@@ -10,10 +10,13 @@ tags:
 - sociology
 - social-class
 - region/france
-related_concepts: []
+related_concepts:
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Champ]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Yajun Zheng]]"
 related_arguments: []
 sources: []
 confidence: low

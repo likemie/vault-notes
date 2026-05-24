@@ -18,7 +18,9 @@ tags:
 - neoliberalism
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Internationalization of Higher Education]]"
+  - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
 related_persons: []

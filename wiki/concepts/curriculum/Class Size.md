@@ -9,11 +9,25 @@ tags:
 - class-size
 - subject/curriculum
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Programme Fidelity vs Adaptation]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Effect Size]]"
+  - "[[Constructive Alignment]]"
+  - "[[Shu (Familiarization)]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Tennessee STAR Project 1985-1989]]"
+  - "[[French Class Size Reduction 2017]]"
+  - "[[Campbell Collaboration]]"
+  - "[[California Class Size Reduction 1996]]"
+  - "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"
 related_arguments: []
 sources: []
 confidence: medium

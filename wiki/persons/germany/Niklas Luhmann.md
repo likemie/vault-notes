@@ -10,8 +10,11 @@ tags:
 - luhmann
 - paradigm/systems-theory
 - region/germany
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Blind Spot in Observation]]"
+  - "[[Structural Coupling]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons: []
 related_arguments: []

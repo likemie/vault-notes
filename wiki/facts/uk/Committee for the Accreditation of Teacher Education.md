@@ -13,7 +13,9 @@ tags:
   - theme/teacher-education
   - theme/sociology-of-education
   - policy/teacher-training
-related_concepts: []
+related_concepts:
+  - "[[New Sociology of Education]]"
+  - "[[School Effectiveness]]"
 related_theories: []
 related_methods: []
 related_persons: []

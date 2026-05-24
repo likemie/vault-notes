@@ -10,12 +10,17 @@ tags:
 - educational-transfer
 - comparative-education
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Policy Borrowing]]"
+  - "[[Externalization (Schriewer)]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[American Attraction to Japanese Education 1980s]]"
+  - "[[Late Qing Borrowing of Japanese Education]]"
+related_arguments:
+  - "[[Argument_Rappleye_2006_RCIE]]"
 sources: []
 confidence: medium
 status: draft

@@ -13,7 +13,9 @@ tags:
 - institutional-theory
 - sociology-of-education
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Global Universities Rankings]]"
+  - "[[Jing (Refined Mastery)]]"
 related_theories: []
 related_methods: []
 related_persons: []

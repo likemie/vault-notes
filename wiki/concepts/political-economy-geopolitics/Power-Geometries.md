@@ -11,10 +11,15 @@ tags:
 - theme/power
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Multiplicity (Massey)]]"
+  - "[[Classical Geopolitics]]"
+  - "[[Geopolitics of Knowledge]]"
+related_theories:
+  - "[[World-Systems Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Doreen Massey]]"
 related_facts: []
 related_arguments: []
 sources: []

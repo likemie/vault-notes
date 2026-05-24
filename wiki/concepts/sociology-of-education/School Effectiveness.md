@@ -13,7 +13,8 @@ tags:
   - region/uk
   - method/quantitative
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Governmentality]]"
 related_methods: []
 related_persons: []
 related_facts: []

@@ -11,12 +11,15 @@ tags:
 - level/adult
 - region/global
 - subject/comparative-education
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Corporate Education]]"
+related_theories:
+  - "[[Institutional Isomorphism]]"
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources: []
 confidence: medium
 status: draft

@@ -10,11 +10,18 @@ tags:
 - territorial-power
 - nation-state
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Multiplicity (Massey)]]"
+  - "[[Rightness]]"
+  - "[[Sage]]"
+  - "[[Champ]]"
+related_theories:
+  - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Sino-American Trade War (2018)]]"
 related_arguments: []
 sources: []
 confidence: medium

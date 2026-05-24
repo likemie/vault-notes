@@ -12,7 +12,9 @@ related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Manaiakalani Education Trust (NZ 2011)]]"
+  - "[[Partnership Schools Kura Hourua (NZ 2011)]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -11,12 +11,15 @@ tags:
 - region/global
 - subject/comparative-education
 - subject/comparative-political-economy
-related_concepts: []
+related_concepts:
+  - "[[Corporate Education]]"
+  - "[[Corporate University]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources: []
 confidence: medium
 status: draft

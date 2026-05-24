@@ -11,11 +11,16 @@ region: hongkong
 tags:
 - region/hongkong
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Chinese Learner]]"
+  - "[[International Schools]]"
+  - "[[Fourth Culture]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Liberal Studies (Hong Kong)]]"
+  - "[[Symposium on International Teaching 2007]]"
 related_arguments: []
 sources: []
 confidence: medium

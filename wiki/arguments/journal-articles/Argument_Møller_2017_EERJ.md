@@ -12,7 +12,8 @@ tags:
 - performativity
 - stance/critique
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Transformative Leadership]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -13,11 +13,14 @@ tags:
 - teacher-quality
 - region/us
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Programme Fidelity vs Adaptation]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Tennessee STAR Project 1985-1989]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -9,7 +9,11 @@ tags:
 - pseudoscience
 - paradigm/positivist
 - stance/critique
-related_concepts: []
+related_concepts:
+  - "[[Scientism]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

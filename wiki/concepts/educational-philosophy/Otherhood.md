@@ -8,11 +8,17 @@ type: concept
 tags:
 - level/higher-ed
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Organizational Actorhood]]"
+  - "[[University Social Responsibility]]"
+  - "[[Cultural Models]]"
+related_theories:
+  - "[[World Society Theory]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[UN Sustainable Development Goals 2015]]"
+  - "[[THE Impact Ranking 2019]]"
 related_arguments: []
 sources: []
 confidence: medium

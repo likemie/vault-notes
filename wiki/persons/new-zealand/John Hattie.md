@@ -13,12 +13,50 @@ tags:
 - paradigm/positivist
 - region/new-zealand
 - region/australia
-related_concepts: []
+related_concepts:
+  - "[[Effect Size]]"
+  - "[[Professional Judgment]]"
+  - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
+  - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Critic and Conscience of Society]]"
+  - "[[Bildung]]"
+  - "[[Direct Instruction]]"
+  - "[[Cult of the Guru]]"
+  - "[[Structural Coupling]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_arguments: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
+related_persons:
+  - "[[Gerald Grace]]"
+  - "[[Basil Bernstein]]"
+related_arguments:
+  - "[[Argument_Sarbiewska_2019_JSR]]"
+  - "[[Argument_Fredens_2015_Paideia]]"
+  - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
+  - "[[Argument_Snook_2010_NZJES]]"
+  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_Bergeron_2017_MJE]]"
+  - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Argument_ONeill_2012_NZJES]]"
+  - "[[Argument_ONeill_2016_Report]]"
+  - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Eacott_2019_IJLE]]"
+  - "[[Argument_McKnight_2020_Discourse]]"
+  - "[[Argument_Zhao_2017_JEC]]"
+  - "[[Argument_Nielsen_2021_NordPsych]]"
+  - "[[Argument_Hattie_2017_SLM]]"
 sources: []
+related_facts:
+  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

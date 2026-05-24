@@ -10,8 +10,16 @@ tags:
 - posthumanism
 - new-materialism
 - region/us
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Posthumanism]]"
+  - "[[Sympoiesis]]"
+  - "[[SF (Haraway)]]"
+  - "[[Humility in Learning]]"
+  - "[[Response-ability]]"
+  - "[[Humosity]]"
+related_theories:
+  - "[[Autopoiesis]]"
 related_methods: []
 related_persons: []
 related_arguments: []

@@ -1,23 +1,26 @@
 ---
 title: Rightness
 aliases:
-- 义
-- 義
-- yi
-- righteousness
-- uprightness
-- sense of justice
-summary: "儒学四超越德目之一，指在具体情境中做正确之事并坚守正义；孟子谓富贵不能淫、贫贱不能移、威武不能屈即为义"
+  - 義
+  - righteousness
+  - uprightness
+  - sense of justice
+summary: 儒学四超越德目之一，指在具体情境中做正确之事并坚守正义；孟子谓富贵不能淫、贫贱不能移、威武不能屈即为义
 type: concept
 tags:
-- region/china
-- theory/confucianism
-- field/chinese-philosophy
-- theme/ethics
-related_concepts: []
+  - region/china
+  - theory/confucianism
+  - field/chinese-philosophy
+  - theme/ethics
+related_concepts:
+  - "[[Li (Propriety)]]"
+  - "[[Shame (Confucianism)]]"
+  - "[[Self-Cultivation]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
+  - "[[Mencius]]"
 related_facts: []
 related_arguments: []
 sources: []

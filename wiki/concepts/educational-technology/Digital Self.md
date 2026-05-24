@@ -16,9 +16,14 @@ tags:
 - level/higher-ed
 - theme/digitalization
 - theme/subjectification
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Online Self-Assessment]]"
+  - "[[Digital Optimum]]"
+  - "[[Learning Analytics]]"
+related_theories:
+  - "[[Societies of Control]]"
+related_methods:
+  - "[[Matching]]"
 related_persons: []
 related_facts: []
 related_arguments: []

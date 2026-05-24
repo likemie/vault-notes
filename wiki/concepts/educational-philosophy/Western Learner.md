@@ -11,10 +11,24 @@ tags:
 - field/educational-philosophy
 - field/comparative-education
 - theme/learning
-related_concepts: []
+related_concepts:
+  - "[[Sage]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Revoicing]]"
+  - "[[Chinese Learner]]"
+  - "[[Learning Virtues]]"
+  - "[[Take the World Upon Oneself]]"
+  - "[[Humility in Learning]]"
+  - "[[Certainty of Knowledge]]"
+  - "[[Mind and Its Wonders]]"
+  - "[[Examined Life]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Jean-Jacques Rousseau]]"
+  - "[[Plato]]"
 related_facts: []
 related_arguments: []
 sources: []

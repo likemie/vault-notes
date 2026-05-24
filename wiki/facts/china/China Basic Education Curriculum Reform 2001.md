@@ -13,12 +13,15 @@ tags:
 - region/china
 - level/k12
 - policy/curriculum-reform
-related_concepts: []
+related_concepts:
+  - "[[Chinese Learner]]"
+  - "[[Stereotype Threat]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Ryan_2010_ChineseLearner]]"
 sources: []
 confidence: medium
 status: draft

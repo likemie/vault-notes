@@ -12,11 +12,17 @@ tags:
 - grammar-schools
 - region/uk
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Selective Education]]"
+  - "[[Moral Sidestep]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Carnivalesque Analysis]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education and Inspections Act 2006]]"
+  - "[[Grammar School]]"
+  - "[[Ofsted]]"
 related_arguments: []
 sources: []
 confidence: medium

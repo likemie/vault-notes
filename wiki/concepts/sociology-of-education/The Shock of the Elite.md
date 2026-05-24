@@ -11,10 +11,21 @@ tags:
 - habitus
 - social-mobility
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Habitus]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Tongxue]]"
+  - "[[Shame (Confucianism)]]"
+  - "[[Champ]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Cultural Disembedding]]"
+  - "[[Cultural Disorientation]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []

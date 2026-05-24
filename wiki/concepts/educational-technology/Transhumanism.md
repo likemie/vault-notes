@@ -10,7 +10,9 @@ tags:
 - edtech
 - higher-ed
 - optimization
-related_concepts: []
+related_concepts:
+  - "[[Posthumanism]]"
+  - "[[Humosity]]"
 related_theories: []
 related_methods: []
 related_persons: []

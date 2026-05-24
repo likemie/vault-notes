@@ -9,11 +9,21 @@ tags:
 - paradigm/neoliberal
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Performativity of Measurement]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Competitiveness in Higher Education]]"
+  - "[[Performance Indicators]]"
+  - "[[Transitology]]"
+  - "[[School Autonomy]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Australia in the Asian Century White Paper 2012]]"
+  - "[[OECD Improving School Leadership Project 2006]]"
+  - "[[My School Website]]"
 related_arguments: []
 sources: []
 confidence: medium

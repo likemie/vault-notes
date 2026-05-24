@@ -12,12 +12,32 @@ tags:
 - knowledge-mobilisation
 - research-use
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Professional Judgment]]"
+  - "[[School Leadership]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Quasi-Experimental Designs]]"
+related_persons:
+  - "[[Carol Campbell]]"
+  - "[[Julie Nelson]]"
+related_facts:
+  - "[[Campbell Collaboration]]"
+  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
+  - "[[ResearchED]]"
+  - "[[What Works Network (UK)]]"
+  - "[[EU Evidence-Informed Education Policy Initiatives]]"
+related_arguments:
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
 sources: []
 confidence: medium
 status: draft

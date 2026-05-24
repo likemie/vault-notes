@@ -10,12 +10,15 @@ tags:
 - pragmatism
 - epistemology
 - paradigm/pragmatist
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Value-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Biesta_2010_SPE]]"
 sources: []
 confidence: medium
 status: draft

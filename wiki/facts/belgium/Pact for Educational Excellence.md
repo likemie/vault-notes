@@ -14,11 +14,18 @@ tags:
   - theme/equity
   - theme/evidence-based-education
   - policy/compulsory-education
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Grade Retention]]"
+  - "[[Inclusive Evidence Validation Typology]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
+  - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[French-Speaking Belgium Education System]]"
 related_arguments: []
 sources: []
 confidence: medium

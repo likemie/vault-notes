@@ -10,10 +10,15 @@ tags:
 - autopoiesis
 - biology
 - neuroscience
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Posthumanism]]"
+related_theories:
+  - "[[Autopoiesis]]"
+  - "[[Luhmann's Systems Theory]]"
+  - "[[Transition Design]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Humberto Maturana]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -10,11 +10,17 @@ tags:
 - geopolitics-of-knowledge
 - knowledge-transfer
 - cyber-warfare
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Economic and Industrial Espionage]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Jean-François Lyotard]]"
+related_facts:
+  - "[[China Social Credit System]]"
+  - "[[Great Firewall of China]]"
 related_arguments: []
 sources: []
 confidence: medium

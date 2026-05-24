@@ -12,7 +12,10 @@ tags:
 - region/denmark
 - stance/support
 - subject/instruction-pedagogy
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Effect Size]]"
 related_theories: []
 related_methods: []
 related_persons: []

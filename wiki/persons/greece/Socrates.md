@@ -12,10 +12,14 @@ tags:
 - field/educational-philosophy
 - theme/critical-thinking
 - theme/learning
-related_concepts: []
+related_concepts:
+  - "[[Examined Life]]"
+  - "[[Mind and Its Wonders]]"
+  - "[[Rightness]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources: []

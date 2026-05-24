@@ -10,9 +10,12 @@ tags:
 - school-attitude
 - subject/psychology
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Motivation and Work Effort]]"
+  - "[[Learning-Impeding Behavior]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

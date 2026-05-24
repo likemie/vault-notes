@@ -9,11 +9,14 @@ tags:
 - subject/curriculum
 - region/new-zealand
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Stephen Ball]]"
+related_facts:
+  - "[[Teach First New Zealand Ako Mātātupu (TFNZ 2011)]]"
 related_arguments: []
 sources: []
 confidence: medium

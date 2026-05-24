@@ -13,10 +13,18 @@ tags:
 - political-economy
 - bureaucracy
 - region/uk
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Programme Fidelity vs Adaptation]]"
+related_theories:
+  - "[[Tullock's Bureaucracy Theory]]"
+  - "[[Cartwright's Three-Stage Knowledge Framework]]"
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+related_persons:
+  - "[[Nancy Cartwright]]"
+  - "[[Gert Biesta]]"
 related_arguments: []
 sources: []
 confidence: high

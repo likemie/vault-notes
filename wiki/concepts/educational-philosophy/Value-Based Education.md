@@ -11,8 +11,10 @@ tags:
 - normativity
 - paradigm/critical
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+related_theories:
+  - "[[Transactional Epistemology]]"
 related_methods: []
 related_persons: []
 related_facts: []

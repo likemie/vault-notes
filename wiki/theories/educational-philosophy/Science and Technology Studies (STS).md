@@ -10,11 +10,14 @@ tags:
 - science-and-technology-studies
 - paradigm/constructivist
 - philosophy-and-epistemology
-related_concepts: []
+related_concepts:
+  - "[[Sociology of Measurement]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education at a Glance (EAG)]]"
 related_arguments: []
 sources: []
 confidence: high

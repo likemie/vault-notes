@@ -12,7 +12,9 @@ tags:
 - posthumanism
 - alternative-development
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Ubuntu]]"
+  - "[[Posthumanism]]"
 related_theories: []
 related_methods: []
 related_persons: []

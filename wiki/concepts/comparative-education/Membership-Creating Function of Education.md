@@ -11,7 +11,9 @@ tags:
 - citizenship
 - boundaries
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Nation Building through Education]]"
+  - "[[World Society Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []

@@ -4,8 +4,13 @@ aliases: ["话语性机会结构", "话语机会结构", "discursive and institu
 summary: "Parreira do Amaral & Dale (2015) 提出的教育治理分析概念，区分制度性机会结构和话语性机会结构——后者指话语框定思维与行动可能性的方式，调节全球高等教育中服务、职位和实践的可及性"
 type: concept
 tags: ["theme/discourse", "theme/global-governance", "theme/opportunity", "theme/subjectification", "region/europe"]
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Rightness]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Self-Entrepreneur]]"
+related_theories:
+  - "[[Governmentality]]"
 related_methods: []
 related_persons: []
 related_facts: []

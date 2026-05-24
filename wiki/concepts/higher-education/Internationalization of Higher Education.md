@@ -12,11 +12,20 @@ tags:
 - geopolitics
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[International Education Hubs]]"
+  - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[Rightness]]"
+  - "[[Multiplicity (Massey)]]"
+  - "[[Geopolitics of Knowledge]]"
+related_theories:
+  - "[[Hegemony]]"
+  - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Australia in the Asian Century White Paper 2012]]"
+  - "[[GATS and Trade in Education Services]]"
 related_arguments: []
 sources: []
 confidence: medium

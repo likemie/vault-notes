@@ -15,10 +15,14 @@ tags:
 - theory/confucianism
 - theory/neo-confucianism
 - school/yangming-school
-related_concepts: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[Sage]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Mencius]]"
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources: []

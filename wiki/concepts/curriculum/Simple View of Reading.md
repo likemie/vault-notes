@@ -10,7 +10,8 @@ tags:
 - phonics
 - subject/curriculum
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Whole Language]]"
 related_theories: []
 related_methods: []
 related_persons: []

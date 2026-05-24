@@ -12,7 +12,8 @@ tags:
 - science
 - philosophy-of-science
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

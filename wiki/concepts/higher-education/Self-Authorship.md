@@ -10,8 +10,12 @@ tags:
 - higher-education
 - student-development
 - goal-orientation
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Habitus]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons: []
 related_facts: []

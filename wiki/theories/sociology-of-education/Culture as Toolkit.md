@@ -10,10 +10,26 @@ tags:
 - culture-as-toolkit
 - cultural-sociology
 - paradigm/interpretivist
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Shu (Familiarization)]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Habitus]]"
+  - "[[Self-Authorship]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Opportunist Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Value Conformist Mode]]"
+  - "[[Work Meaning Schemas (Zheng)]]"
+  - "[[Graduation Pathway Typology (Zheng)]]"
+related_theories:
+  - "[[Dual-Process Model of Culture in Action]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Ann Swidler]]"
+  - "[[Yajun Zheng]]"
+  - "[[Max Weber]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []

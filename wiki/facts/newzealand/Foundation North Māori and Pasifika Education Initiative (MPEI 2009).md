@@ -12,7 +12,9 @@ tags:
 - philanthropy
 - region/new-zealand
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Venture Philanthropy]]"
+  - "[[Network Governance]]"
 related_theories: []
 related_methods: []
 related_persons: []

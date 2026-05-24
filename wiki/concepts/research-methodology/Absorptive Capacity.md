@@ -12,11 +12,18 @@ tags:
 - implementation
 - program-evaluation
 - organizational-learning
-related_concepts: []
+related_concepts:
+  - "[[Feedback]]"
+  - "[[Implementation Fidelity]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Professional Judgment]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Logic Model]]"
+  - "[[Formative Evaluation]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
 related_arguments: []
 sources: []
 confidence: medium

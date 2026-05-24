@@ -10,11 +10,29 @@ tags:
 - higher-education
 - region/china
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Habitus]]"
+  - "[[Champ]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Lost Mode]]"
+  - "[[Value Conformist Mode]]"
+  - "[[Graduation Pathway Typology (Zheng)]]"
+  - "[[Academic and Social Integration]]"
+  - "[[Student Engagement]]"
+  - "[[Academic Engagement]]"
+  - "[[Social Engagement]]"
+  - "[[Self-Authorship]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
+  - "[[Dual-Process Model of Culture in Action]]"
+  - "[[Rational Action Theory in Education]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
+  - "[[Marcia Baxter Magolda]]"
+related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources: []
 confidence: medium

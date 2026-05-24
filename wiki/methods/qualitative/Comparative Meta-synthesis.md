@@ -12,9 +12,12 @@ tags:
   - subject/methodology
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Håkansson_2015_TT]]"
 sources: []
 confidence: medium
 status: draft

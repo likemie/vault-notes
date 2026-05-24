@@ -13,10 +13,18 @@ tags:
 - field/chinese-philosophy
 - theme/learning
 - theme/ethics
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[Rightness]]"
+  - "[[Ren]]"
+  - "[[Sage]]"
+  - "[[Junzi]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Mencius]]"
+  - "[[Zhu Xi]]"
 related_facts: []
 related_arguments: []
 sources: []
@@ -33,7 +41,7 @@ updated: 2026-05-22
 > [!info]
 > 以天下为己任（Take the World Upon Oneself）是儒家学习传统中[[Self-Cultivation|修身]]的公共面向——个人的道德完善不是终点，修身者必须承担起对家庭、社群、国家和天下的道德责任。[[Mencius|孟子]]是第一个明确提出这一思想的儒家思想家，"以天下为己任"中的"己任"（weight）指一种不可推卸的责任（Li, 2012, pp.45-46）。
 
-de Bary 将其概括为："这与道德生活和行为中的意志主[[Rightness|义]]相一致——即一个人必须为自己的行为承担全部责任……在新儒学中，这与道德英雄的概念紧密相关……反过来，承担对道的责任或接受维护道的义务，基于[[[Zhu Xi|朱熹]]的]个体是自我决定的道德能动者这一观点。"（Li, 2012, p.46 引 de Bary）
+de Bary 将其概括为："这与道德生活和行为中的意志主[[Rightness|义]]相一致——即一个人必须为自己的行为承担全部责任……在新儒学中，这与道德英雄的概念紧密相关……反过来，承担对道的责任或接受维护道的义务，基于[[Zhu Xi|朱熹]]的个体是自我决定的道德能动者这一观点。"（Li, 2012, p.46 引 de Bary）
 
 ---
 

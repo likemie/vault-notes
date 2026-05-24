@@ -10,7 +10,8 @@ tags:
 - culture
 - national-culture
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Hofstede's Cultural Dimensions]]"
 related_methods: []
 related_persons: []
 related_arguments: []

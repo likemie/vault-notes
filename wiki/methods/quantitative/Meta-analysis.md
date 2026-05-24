@@ -11,11 +11,26 @@ tags:
 - evidence-based-education
 - statistical-synthesis
 - methodology
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_arguments: []
+related_concepts:
+  - "[[Effect Size]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Visible Learning]]"
+  - "[[Publication Bias]]"
+  - "[[Whole Language]]"
+  - "[[Feedback]]"
+  - "[[Statistical Significance]]"
+related_theories:
+  - "[[Critical Realism]]"
+related_methods:
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+related_arguments:
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Hattie_2015_Paideia]]"
+  - "[[Argument_Hattie_2015_SOTLP]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
 sources: []
 confidence: medium
 status: draft

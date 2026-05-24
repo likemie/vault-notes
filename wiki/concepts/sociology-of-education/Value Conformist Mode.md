@@ -12,11 +12,16 @@ tags:
 - social-stratification
 - region/china
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Self-Driven Mode]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Yajun Zheng]]"
+related_facts:
+  - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources: []
 confidence: medium

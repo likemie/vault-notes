@@ -13,12 +13,26 @@ tags:
 - performance-indicators
 - innovation-policy
 - lifelong-learning
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Performance Indicators]]"
+  - "[[Theories of Policy Change]]"
+  - "[[Selectivity]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Regulatory Regionalism]]"
+  - "[[Network Governance]]"
+  - "[[Spatial Sortings]]"
+  - "[[Scientization of Politics]]"
+related_theories:
+  - "[[Appraisal Theory]]"
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Innovation Union]]"
+  - "[[EU Skills Agenda]]"
+  - "[[Europe 2020 Strategy]]"
+  - "[[Youth Guarantee Scheme]]"
+related_arguments:
+  - "[[Argument_Parreira do Amaral_2022_Springer]]"
 sources: []
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft

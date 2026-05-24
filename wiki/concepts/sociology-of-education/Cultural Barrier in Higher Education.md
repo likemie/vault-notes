@@ -12,10 +12,26 @@ tags:
 - cultural-capital
 - region/china
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Cultural Disembedding]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Tongxue]]"
+  - "[[Cultural Disorientation]]"
+  - "[[Champ]]"
+  - "[[Lost Mode]]"
+  - "[[Habitus]]"
+  - "[[Rightness]]"
+  - "[[Value Conformist Mode]]"
+  - "[[Shame (Confucianism)]]"
+  - "[[Social Engagement]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
+  - "[[Yajun Zheng]]"
+  - "[[Didier Eribon]]"
 related_facts: []
 related_arguments: []
 sources: []

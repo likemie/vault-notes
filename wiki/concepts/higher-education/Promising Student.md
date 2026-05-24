@@ -14,9 +14,18 @@ tags:
 - theme/governmentality
 - theme/digitalization
 - theme/subjectification
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Online Self-Assessment]]"
+  - "[[Performativity of Measurement]]"
+  - "[[Learning Analytics]]"
+  - "[[Digital Self]]"
+  - "[[Digital Optimum]]"
+  - "[[Bildung]]"
+related_theories:
+  - "[[Governmentality]]"
+  - "[[Societies of Control]]"
+related_methods:
+  - "[[Matching]]"
 related_persons: []
 related_facts: []
 related_arguments: []

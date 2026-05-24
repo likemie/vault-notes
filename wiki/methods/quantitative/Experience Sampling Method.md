@@ -12,7 +12,8 @@ tags:
   - method/experience-sampling
   - method/self-report
   - method/ecological-momentary-assessment
-related_concepts: []
+related_concepts:
+  - "[[Flow]]"
 related_theories: []
 related_methods: []
 related_persons: []

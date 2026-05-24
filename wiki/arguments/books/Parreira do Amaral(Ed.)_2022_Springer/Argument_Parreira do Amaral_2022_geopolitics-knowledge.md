@@ -14,10 +14,24 @@ tags:
 - international-education-hubs
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Rightness]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Classical Geopolitics]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Global Regionalisms in Higher Education]]"
+  - "[[Global Education Industry]]"
+  - "[[International Education Hubs]]"
+  - "[[Champ]]"
+related_theories:
+  - "[[Critical Geopolitics]]"
+  - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Walter Mignolo]]"
 related_facts: []
 related_arguments: []
 sources: []

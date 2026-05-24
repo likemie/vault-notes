@@ -11,12 +11,15 @@ tags:
 - evidence-based-policy
 - external-validity
 - paradigm/scientific-realism
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Programme Fidelity vs Adaptation]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cowen_2015_CHESS]]"
 sources: []
 confidence: medium
 status: draft

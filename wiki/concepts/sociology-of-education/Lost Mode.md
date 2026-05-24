@@ -12,10 +12,19 @@ tags:
 - social-stratification
 - region/china
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Rightness]]"
+  - "[[Self-Efficacy]]"
+  - "[[Doxa]]"
+  - "[[Self-Driven Mode]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Value Conformist Mode]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments: []
 sources: []

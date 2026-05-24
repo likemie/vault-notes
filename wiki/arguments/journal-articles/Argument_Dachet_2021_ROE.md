@@ -13,11 +13,25 @@ tags:
   - theme/equity
   - method/narrative-case-study
   - policy/compulsory-education
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
+  - "[[Grade Retention]]"
+  - "[[Rightness]]"
+  - "[[Inclusive Evidence Validation Typology]]"
+  - "[[Shu (Familiarization)]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[French-Speaking Belgium Education System]]"
+  - "[[PISA]]"
+  - "[[Grade Retention in French-Speaking Belgium]]"
+  - "[[What Works Clearinghouse (WWC)]]"
+  - "[[Best Evidence Encyclopedia (BEE)]]"
+  - "[[Pact for Educational Excellence]]"
 related_arguments: []
 sources: []
 part_of: ""

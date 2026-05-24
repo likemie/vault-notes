@@ -10,11 +10,18 @@ tags:
 - subject/curriculum
 - subject/pedagogy
 - paradigm/critical
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Bildung]]"
+  - "[[Epochal Key Problems]]"
+  - "[[Phenomenon-Based Learning]]"
+  - "[[Atomisation of Knowledge and Skills]]"
+related_theories:
+  - "[[Critical Realism]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Wolfgang Klafki]]"
+related_facts:
+  - "[[Finnish National Core Curriculum 2014]]"
 related_arguments: []
 sources: []
 confidence: low

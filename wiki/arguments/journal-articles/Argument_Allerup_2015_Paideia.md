@@ -13,10 +13,19 @@ tags:
 - methodology-critique
 - statistics
 - subject/research-methodology
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
+  - "[[Statistical Significance]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
+  - "[[Covariate Adjustment]]"
+  - "[[Rasch Measurement]]"
+related_persons:
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
 sources: []

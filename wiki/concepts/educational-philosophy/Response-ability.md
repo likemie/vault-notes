@@ -9,7 +9,12 @@ tags:
 - care-ethics
 - posthumanism
 - relational-ontology
-related_concepts: []
+related_concepts:
+  - "[[Sympoiesis]]"
+  - "[[Posthumanism]]"
+  - "[[Humosity]]"
+  - "[[SF (Haraway)]]"
+  - "[[Learning Analytics]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -14,11 +14,23 @@ tags:
 - meta-analysis
 - effect-size
 - region/uk
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Evidence-Based Reform]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Effect Size]]"
+  - "[[Moral Sidestep]]"
+related_theories:
+  - "[[Legitimation Theory Van Leeuwen]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Ofsted]]"
+  - "[[Playing for Success]]"
+  - "[[What Works Network (UK)]]"
 related_arguments: []
 sources: []
 confidence: high

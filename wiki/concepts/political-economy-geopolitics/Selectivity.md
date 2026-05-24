@@ -11,12 +11,22 @@ tags:
 - governance
 - policy-instruments
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Performance Indicators]]"
+  - "[[Rightness]]"
+  - "[[Spatial Sortings]]"
+  - "[[Neocorporatism]]"
+  - "[[Scientization of Politics]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[YOUNG_ADULLLT]]"
+  - "[[Innovation Union]]"
+  - "[[EU Skills Agenda]]"
+  - "[[Europe 2020 Strategy]]"
+related_arguments:
+  - "[[Argument_Rambla_2022_Springer]]"
 sources: []
 confidence: medium
 status: draft

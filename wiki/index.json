@@ -1,6 +1,7 @@
 [
   {
     "title": "Action Better Than Words",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Action Better Than Words.md",
     "aliases": [
       "行勝於言",
@@ -12,6 +13,7 @@
   },
   {
     "title": "Filial Piety",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Filial Piety.md",
     "aliases": [
       "孝",
@@ -22,6 +24,7 @@
   },
   {
     "title": "Five Cardinal Relationships",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Five Cardinal Relationships.md",
     "aliases": [
       "五伦",
@@ -32,6 +35,7 @@
   },
   {
     "title": "Jing (Refined Mastery)",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Jing (Refined Mastery).md",
     "aliases": [
       "精",
@@ -44,6 +48,7 @@
   },
   {
     "title": "Junzi",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Junzi.md",
     "aliases": [
       "君子",
@@ -54,6 +59,7 @@
   },
   {
     "title": "Learning Virtues",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Learning Virtues.md",
     "aliases": [
       "学习美德",
@@ -63,6 +69,7 @@
   },
   {
     "title": "Li (Propriety)",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Li (Propriety).md",
     "aliases": [
       "禮",
@@ -73,6 +80,7 @@
   },
   {
     "title": "Ren",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Ren.md",
     "aliases": [
       "仁",
@@ -84,6 +92,7 @@
   },
   {
     "title": "Rightness",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Rightness.md",
     "aliases": [
       "义",
@@ -96,6 +105,7 @@
   },
   {
     "title": "Sage",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Sage.md",
     "aliases": [
       "圣",
@@ -110,6 +120,7 @@
   },
   {
     "title": "Self-Cultivation",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Self-Cultivation.md",
     "aliases": [
       "修身",
@@ -121,6 +132,7 @@
   },
   {
     "title": "Shame (Confucianism)",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Shame (Confucianism).md",
     "aliases": [
       "耻",
@@ -132,6 +144,7 @@
   },
   {
     "title": "Shu (Familiarization)",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Shu (Familiarization).md",
     "aliases": [
       "熟",
@@ -143,6 +156,7 @@
   },
   {
     "title": "Take the World Upon Oneself",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Take the World Upon Oneself.md",
     "aliases": [
       "以天下为己任",
@@ -153,6 +167,7 @@
   },
   {
     "title": "Tongxue",
+    "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Tongxue.md",
     "aliases": [
       "同学",
@@ -164,6 +179,7 @@
   },
   {
     "title": "Grice's Conversational Maxims",
+    "type": "concept",
     "path": "wiki/concepts/communication-discourse/Grice's Conversational Maxims.md",
     "aliases": [
       "格莱斯会话准则",
@@ -174,6 +190,7 @@
   },
   {
     "title": "Interpretation Community",
+    "type": "concept",
     "path": "wiki/concepts/communication-discourse/Interpretation Community.md",
     "aliases": [
       "解释共同体"
@@ -181,6 +198,7 @@
   },
   {
     "title": "Parallel Monologues",
+    "type": "concept",
     "path": "wiki/concepts/communication-discourse/Parallel Monologues.md",
     "aliases": [
       "平行独白"
@@ -188,6 +206,7 @@
   },
   {
     "title": "SF (Haraway)",
+    "type": "concept",
     "path": "wiki/concepts/communication-discourse/SF (Haraway).md",
     "aliases": [
       "哈拉维的SF",
@@ -196,6 +215,7 @@
   },
   {
     "title": "21st Century Skills and Competencies Discourse",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/21st Century Skills and Competencies Discourse.md",
     "aliases": [
       "21世纪技能与素养话语",
@@ -207,6 +227,7 @@
   },
   {
     "title": "Affect-Respect and Ought-Respect",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Affect-Respect and Ought-Respect.md",
     "aliases": [
       "情感性尊重与义务性尊重",
@@ -217,6 +238,7 @@
   },
   {
     "title": "Boarding Schools",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Boarding Schools.md",
     "aliases": [
       "寄宿学校",
@@ -225,6 +247,7 @@
   },
   {
     "title": "Chinese Learner",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Chinese Learner.md",
     "aliases": [
       "中国学习者",
@@ -234,6 +257,7 @@
   },
   {
     "title": "Codeswitcher (School)",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Codeswitcher (School).md",
     "aliases": [
       "代码切换者",
@@ -246,6 +270,7 @@
   },
   {
     "title": "Cognitive Source",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Cognitive Source.md",
     "aliases": [
       "认知来源",
@@ -256,6 +281,7 @@
   },
   {
     "title": "Confucian Heritage Cultures",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Confucian Heritage Cultures.md",
     "aliases": [
       "儒家文化圈",
@@ -267,6 +293,7 @@
   },
   {
     "title": "Confucian Tutoring Style",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Confucian Tutoring Style.md",
     "aliases": [
       "儒家式辅导",
@@ -276,6 +303,7 @@
   },
   {
     "title": "Corporate Education",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Corporate Education.md",
     "aliases": [
       "企业教育",
@@ -287,6 +315,7 @@
   },
   {
     "title": "Corporate University",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Corporate University.md",
     "aliases": [
       "企业大学",
@@ -297,6 +326,7 @@
   },
   {
     "title": "Cross-National Attraction",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Cross-National Attraction.md",
     "aliases": [
       "跨国吸引"
@@ -304,6 +334,7 @@
   },
   {
     "title": "Discursive Opportunity Structures",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Discursive Opportunity Structures.md",
     "aliases": [
       "话语性机会结构",
@@ -313,6 +344,7 @@
   },
   {
     "title": "Establishing One's Will (lizhi)",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Establishing Ones Will (lizhi).md",
     "aliases": [
       "立志",
@@ -325,6 +357,7 @@
   },
   {
     "title": "Examination Hell",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Examination Hell.md",
     "aliases": [
       "考试地狱",
@@ -335,6 +368,7 @@
   },
   {
     "title": "Externalization (Schriewer)",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Externalization (Schriewer).md",
     "aliases": [
       "外化",
@@ -343,6 +377,7 @@
   },
   {
     "title": "Further Education",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Further Education.md",
     "aliases": [
       "继续教育",
@@ -353,6 +388,7 @@
   },
   {
     "title": "Global Education Industry",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Global Education Industry.md",
     "aliases": [
       "全球教育产业",
@@ -362,14 +398,16 @@
   },
   {
     "title": "Global Education Reform Movement (GERM)",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Global Education Reform Movement (GERM).md",
     "aliases": [
-      "全球教育改革运动",
+      "global-education-reform-movement",
       "GERM"
     ]
   },
   {
     "title": "Grade Retention",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Grade Retention.md",
     "aliases": [
       "留级",
@@ -381,6 +419,7 @@
   },
   {
     "title": "Heart and Mind for Wanting to Learn",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Heart and Mind for Wanting to Learn.md",
     "aliases": [
       "好學心",
@@ -391,6 +430,7 @@
   },
   {
     "title": "Humility in Learning",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Humility in Learning.md",
     "aliases": [
       "学习中的谦逊",
@@ -402,6 +442,7 @@
   },
   {
     "title": "Ideal Learner",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Ideal Learner.md",
     "aliases": [
       "理想学习者",
@@ -413,6 +454,7 @@
   },
   {
     "title": "Intellectual-Social Divide",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Intellectual-Social Divide.md",
     "aliases": [
       "知性-社交二分",
@@ -423,6 +465,7 @@
   },
   {
     "title": "International Education",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/International Education.md",
     "aliases": [
       "国际教育",
@@ -431,6 +474,7 @@
   },
   {
     "title": "International Schools",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/International Schools.md",
     "aliases": [
       "国际学校",
@@ -439,6 +483,7 @@
   },
   {
     "title": "Learning Gap",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Learning Gap.md",
     "aliases": [
       "学习差距",
@@ -448,6 +493,7 @@
   },
   {
     "title": "Listening-Oriented Learning",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Listening-Oriented Learning.md",
     "aliases": [
       "倾听导向学习",
@@ -458,6 +504,7 @@
   },
   {
     "title": "MCC Discourse Analysis Examples",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/MCC Discourse Analysis Examples.md",
     "aliases": [
       "MCC 话语分析示例",
@@ -467,6 +514,7 @@
   },
   {
     "title": "Membership-Creating Function of Education",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Membership-Creating Function of Education.md",
     "aliases": [
       "教育的成员资格创造功能"
@@ -474,6 +522,7 @@
   },
   {
     "title": "Meta-Cultural Sensitivity",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Meta-Cultural Sensitivity.md",
     "aliases": [
       "元文化敏感度",
@@ -482,6 +531,7 @@
   },
   {
     "title": "Methodological Globalism",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Methodological Globalism.md",
     "aliases": [
       "方法论全球主义"
@@ -489,6 +539,7 @@
   },
   {
     "title": "Methodological Nationalism",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Methodological Nationalism.md",
     "aliases": [
       "方法论民族主义"
@@ -496,6 +547,7 @@
   },
   {
     "title": "Mondialisation",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Mondialisation.md",
     "aliases": [
       "世界化",
@@ -504,6 +556,7 @@
   },
   {
     "title": "Nerd (School Peer Culture)",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Nerd (School Peer Culture).md",
     "aliases": [
       "书呆子",
@@ -515,6 +568,7 @@
   },
   {
     "title": "Organizational Actorhood",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Organizational Actorhood.md",
     "aliases": [
       "组织能动者身份",
@@ -524,6 +578,7 @@
   },
   {
     "title": "Orientalism",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Orientalism.md",
     "aliases": [
       "东方主义",
@@ -532,6 +587,7 @@
   },
   {
     "title": "Paradox of the Chinese Learner",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Paradox of the Chinese Learner.md",
     "aliases": [
       "中国学习者悖论",
@@ -541,6 +597,7 @@
   },
   {
     "title": "Policy Borrowing",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Policy Borrowing.md",
     "aliases": [
       "政策借用"
@@ -548,6 +605,7 @@
   },
   {
     "title": "Policy Entrepreneur",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Policy Entrepreneur.md",
     "aliases": [
       "政策企业家"
@@ -555,6 +613,7 @@
   },
   {
     "title": "Pride in Learning",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Pride in Learning.md",
     "aliases": [
       "学习骄傲",
@@ -567,6 +626,7 @@
   },
   {
     "title": "Sinicisation",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Sinicisation.md",
     "aliases": [
       "汉化",
@@ -577,6 +637,7 @@
   },
   {
     "title": "Socratic Tutoring Style",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Socratic Tutoring Style.md",
     "aliases": [
       "苏格拉底式辅导",
@@ -586,6 +647,7 @@
   },
   {
     "title": "Talent Assumption",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Talent Assumption.md",
     "aliases": [
       "天赋假设",
@@ -597,6 +659,7 @@
   },
   {
     "title": "Tall Poppy Syndrome",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Tall Poppy Syndrome.md",
     "aliases": [
       "高罂粟综合征",
@@ -607,6 +670,7 @@
   },
   {
     "title": "Theories of Policy Change",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Theories of Policy Change.md",
     "aliases": [
       "政策变革理论",
@@ -617,6 +681,7 @@
   },
   {
     "title": "Transitology",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Transitology.md",
     "aliases": [
       "转型学"
@@ -624,6 +689,7 @@
   },
   {
     "title": "University Motto",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/University Motto.md",
     "aliases": [
       "校训",
@@ -633,6 +699,7 @@
   },
   {
     "title": "Varieties of Capitalism",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Varieties of Capitalism.md",
     "aliases": [
       "资本主义多样性",
@@ -643,6 +710,7 @@
   },
   {
     "title": "Zero-Sum Competition (School)",
+    "type": "concept",
     "path": "wiki/concepts/comparative-education/Zero-Sum Competition (School).md",
     "aliases": [
       "零和竞争",
@@ -654,6 +722,7 @@
   },
   {
     "title": "Atomisation of Knowledge and Skills",
+    "type": "concept",
     "path": "wiki/concepts/curriculum/Atomisation of Knowledge and Skills.md",
     "aliases": [
       "知识与技能原子化"
@@ -661,6 +730,7 @@
   },
   {
     "title": "Class Size",
+    "type": "concept",
     "path": "wiki/concepts/curriculum/Class Size.md",
     "aliases": [
       "班级规模",
@@ -669,6 +739,7 @@
   },
   {
     "title": "Constructive Alignment",
+    "type": "concept",
     "path": "wiki/concepts/curriculum/Constructive Alignment.md",
     "aliases": [
       "建构性对齐"
@@ -676,6 +747,7 @@
   },
   {
     "title": "Didaktik",
+    "type": "concept",
     "path": "wiki/concepts/curriculum/Didaktik.md",
     "aliases": [
       "教学理论",
@@ -684,6 +756,7 @@
   },
   {
     "title": "Educational Management Organisation (EMO)",
+    "type": "concept",
     "path": "wiki/concepts/curriculum/Educational Management Organisation (EMO).md",
     "aliases": [
       "教育管理组织",
@@ -692,6 +765,7 @@
   },
   {
     "title": "Epochal Key Problems",
+    "type": "concept",
     "path": "wiki/concepts/curriculum/Epochal Key Problems.md",
     "aliases": [
       "时代关键问题"
@@ -699,6 +773,7 @@
   },
   {
     "title": "Fourth Culture",
+    "type": "concept",
     "path": "wiki/concepts/curriculum/Fourth Culture.md",
     "aliases": [
       "第四文化",
@@ -707,6 +782,7 @@
   },
   {
     "title": "Phenomenon-Based Learning",
+    "type": "concept",
     "path": "wiki/concepts/curriculum/Phenomenon-Based Learning.md",
     "aliases": [
       "现象本位学习",
@@ -715,6 +791,7 @@
   },
   {
     "title": "Selective Education",
+    "type": "concept",
     "path": "wiki/concepts/curriculum/Selective Education.md",
     "aliases": [
       "选拔性教育"
@@ -722,6 +799,7 @@
   },
   {
     "title": "Simple View of Reading",
+    "type": "concept",
     "path": "wiki/concepts/curriculum/Simple View of Reading.md",
     "aliases": [
       "阅读简单观"
@@ -729,6 +807,7 @@
   },
   {
     "title": "Venture Philanthropy",
+    "type": "concept",
     "path": "wiki/concepts/curriculum/Venture Philanthropy.md",
     "aliases": [
       "风险慈善"
@@ -736,6 +815,7 @@
   },
   {
     "title": "Whole Language",
+    "type": "concept",
     "path": "wiki/concepts/curriculum/Whole Language.md",
     "aliases": [
       "全语言",
@@ -744,6 +824,7 @@
   },
   {
     "title": "Bildung",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Bildung.md",
     "aliases": [
       "教养"
@@ -751,6 +832,7 @@
   },
   {
     "title": "Blind Spot in Observation",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Blind Spot in Observation.md",
     "aliases": [
       "观察盲点"
@@ -758,6 +840,7 @@
   },
   {
     "title": "Buen Vivir",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Buen Vivir.md",
     "aliases": [
       "好好生活",
@@ -766,6 +849,7 @@
   },
   {
     "title": "Cargo Cult Science",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Cargo Cult Science.md",
     "aliases": [
       "货物崇拜科学"
@@ -773,6 +857,7 @@
   },
   {
     "title": "Certainty of Knowledge",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Certainty of Knowledge.md",
     "aliases": [
       "知识的确定性",
@@ -784,6 +869,7 @@
   },
   {
     "title": "Complexity Reduction",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Complexity Reduction.md",
     "aliases": [
       "复杂性缩减"
@@ -791,6 +877,7 @@
   },
   {
     "title": "Ecomuseology",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Ecomuseology.md",
     "aliases": [
       "生态博物馆学",
@@ -802,6 +889,7 @@
   },
   {
     "title": "Epistemological Break",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Epistemological Break.md",
     "aliases": [
       "认识论断裂"
@@ -809,6 +897,7 @@
   },
   {
     "title": "Epistemological Vigilance",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Epistemological Vigilance.md",
     "aliases": [
       "认识论警觉"
@@ -816,6 +905,7 @@
   },
   {
     "title": "Epistemology of Resistance",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Epistemology of Resistance.md",
     "aliases": [
       "抵抗认识论",
@@ -825,6 +915,7 @@
   },
   {
     "title": "Examined Life",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Examined Life.md",
     "aliases": [
       "省察的生活",
@@ -836,6 +927,7 @@
   },
   {
     "title": "Humosity",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Humosity.md",
     "aliases": [
       "腐殖性",
@@ -844,6 +936,7 @@
   },
   {
     "title": "Incarnation-Extension Dialectics",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Incarnation-Extension Dialectics.md",
     "aliases": [
       "具身-延展辩证法"
@@ -851,6 +944,7 @@
   },
   {
     "title": "Learnification",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Learnification.md",
     "aliases": [
       "学习化"
@@ -858,6 +952,7 @@
   },
   {
     "title": "Mind and Its Wonders",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Mind and Its Wonders.md",
     "aliases": [
       "心智及其奇迹",
@@ -869,6 +964,7 @@
   },
   {
     "title": "Moral Sidestep",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Moral Sidestep.md",
     "aliases": [
       "道德回避"
@@ -876,6 +972,7 @@
   },
   {
     "title": "Multiplicity (Massey)",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Multiplicity (Massey).md",
     "aliases": [
       "多重性",
@@ -884,6 +981,7 @@
   },
   {
     "title": "Narrative Knowledge",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Narrative Knowledge.md",
     "aliases": [
       "叙事知识",
@@ -893,6 +991,7 @@
   },
   {
     "title": "Otherhood",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Otherhood.md",
     "aliases": [
       "为他者行动",
@@ -901,6 +1000,7 @@
   },
   {
     "title": "Posthumanism",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Posthumanism.md",
     "aliases": [
       "后人类主义"
@@ -908,6 +1008,7 @@
   },
   {
     "title": "Response-ability",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Response-ability.md",
     "aliases": [
       "回应能力"
@@ -915,6 +1016,7 @@
   },
   {
     "title": "Scientism",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Scientism.md",
     "aliases": [
       "科学主义"
@@ -922,6 +1024,7 @@
   },
   {
     "title": "Social Museology",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Social Museology.md",
     "aliases": [
       "社会博物馆学",
@@ -932,6 +1035,7 @@
   },
   {
     "title": "Structural Coupling",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Structural Coupling.md",
     "aliases": [
       "结构耦合"
@@ -939,6 +1043,7 @@
   },
   {
     "title": "Sympoiesis",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Sympoiesis.md",
     "aliases": [
       "共生成"
@@ -946,6 +1051,7 @@
   },
   {
     "title": "Ubuntu",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Ubuntu.md",
     "aliases": [
       "乌班图",
@@ -954,6 +1060,7 @@
   },
   {
     "title": "Value-Based Education",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Value-Based Education.md",
     "aliases": [
       "价值本位教育"
@@ -961,6 +1068,7 @@
   },
   {
     "title": "Vergegenkunft",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Vergegenkunft.md",
     "aliases": [
       "过去现在未来同现"
@@ -968,6 +1076,7 @@
   },
   {
     "title": "Western Learner",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Western Learner.md",
     "aliases": [
       "西方学习者",
@@ -977,6 +1086,7 @@
   },
   {
     "title": "Whole Sustainability",
+    "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Whole Sustainability.md",
     "aliases": [
       "整体可持续性",
@@ -986,6 +1096,7 @@
   },
   {
     "title": "Data Behaviorism",
+    "type": "concept",
     "path": "wiki/concepts/educational-technology/Data Behaviorism.md",
     "aliases": [
       "数据行为主义",
@@ -994,6 +1105,7 @@
   },
   {
     "title": "Digital Optimum",
+    "type": "concept",
     "path": "wiki/concepts/educational-technology/Digital Optimum.md",
     "aliases": [
       "数字最优",
@@ -1004,6 +1116,7 @@
   },
   {
     "title": "Digital Self",
+    "type": "concept",
     "path": "wiki/concepts/educational-technology/Digital Self.md",
     "aliases": [
       "数字自我",
@@ -1014,6 +1127,7 @@
   },
   {
     "title": "Educational Technology Industry",
+    "type": "concept",
     "path": "wiki/concepts/educational-technology/Educational Technology Industry.md",
     "aliases": [
       "教育技术产业",
@@ -1022,6 +1136,7 @@
   },
   {
     "title": "Gamification",
+    "type": "concept",
     "path": "wiki/concepts/educational-technology/Gamification.md",
     "aliases": [
       "游戏化",
@@ -1031,6 +1146,7 @@
   },
   {
     "title": "Learning Analytics",
+    "type": "concept",
     "path": "wiki/concepts/educational-technology/Learning Analytics.md",
     "aliases": [
       "学习分析",
@@ -1042,6 +1158,7 @@
   },
   {
     "title": "Technology Infusion",
+    "type": "concept",
     "path": "wiki/concepts/educational-technology/Technology Infusion.md",
     "aliases": [
       "技术融入",
@@ -1052,6 +1169,7 @@
   },
   {
     "title": "Transhumanism",
+    "type": "concept",
     "path": "wiki/concepts/educational-technology/Transhumanism.md",
     "aliases": [
       "超人类主义"
@@ -1059,6 +1177,7 @@
   },
   {
     "title": "Academic and Social Integration",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Academic and Social Integration.md",
     "aliases": [
       "学习社交融入理论",
@@ -1069,6 +1188,7 @@
   },
   {
     "title": "Academic Engagement",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Academic Engagement.md",
     "aliases": [
       "学业投入",
@@ -1077,6 +1197,7 @@
   },
   {
     "title": "Competitiveness in Higher Education",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Competitiveness in Higher Education.md",
     "aliases": [
       "高等教育竞争力",
@@ -1086,6 +1207,7 @@
   },
   {
     "title": "Critic and Conscience of Society",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Critic and Conscience of Society.md",
     "aliases": [
       "社会的批评者与良知"
@@ -1093,6 +1215,7 @@
   },
   {
     "title": "Double Spatiality of Universities",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Double Spatiality of Universities.md",
     "aliases": [
       "大学双重空间性"
@@ -1100,6 +1223,7 @@
   },
   {
     "title": "Economy of Experience",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Economy of Experience.md",
     "aliases": [
       "履历经济学",
@@ -1109,6 +1233,7 @@
   },
   {
     "title": "Employability",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Employability.md",
     "aliases": [
       "就业力",
@@ -1118,6 +1243,7 @@
   },
   {
     "title": "Epistemic Drift",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Epistemic Drift.md",
     "aliases": [
       "认识漂移",
@@ -1127,6 +1253,7 @@
   },
   {
     "title": "Epistemic Governance",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Epistemic Governance.md",
     "aliases": [
       "知识治理",
@@ -1137,6 +1264,7 @@
   },
   {
     "title": "Global Regionalisms in Higher Education",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Global Regionalisms in Higher Education.md",
     "aliases": [
       "高等教育中的全球区域主义",
@@ -1145,6 +1273,7 @@
   },
   {
     "title": "Global Universities Rankings",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Global Universities Rankings.md",
     "aliases": [
       "全球大学排名",
@@ -1157,6 +1286,7 @@
   },
   {
     "title": "Graduate Attributes",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Graduate Attributes.md",
     "aliases": [
       "毕业生特质",
@@ -1169,6 +1299,7 @@
   },
   {
     "title": "International Education Hubs",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/International Education Hubs.md",
     "aliases": [
       "国际教育枢纽",
@@ -1178,6 +1309,7 @@
   },
   {
     "title": "Internationalization of Higher Education",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Internationalization of Higher Education.md",
     "aliases": [
       "高等教育国际化",
@@ -1187,6 +1319,7 @@
   },
   {
     "title": "Knowledge Capitalism",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Knowledge Capitalism.md",
     "aliases": [
       "知识资本主义",
@@ -1195,6 +1328,7 @@
   },
   {
     "title": "Knowledge Production",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Knowledge Production.md",
     "aliases": [
       "知识生产",
@@ -1203,6 +1337,7 @@
   },
   {
     "title": "Knowledge Transfer",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Knowledge Transfer.md",
     "aliases": [
       "知识转移",
@@ -1212,6 +1347,7 @@
   },
   {
     "title": "Online Self-Assessment",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Online Self-Assessment.md",
     "aliases": [
       "在线自评工具",
@@ -1223,6 +1359,7 @@
   },
   {
     "title": "Preemptive Governance",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Preemptive Governance.md",
     "aliases": [
       "先发制人治理",
@@ -1233,6 +1370,7 @@
   },
   {
     "title": "Promising Student",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Promising Student.md",
     "aliases": [
       "有前景的学生",
@@ -1242,6 +1380,7 @@
   },
   {
     "title": "Regulatory Regionalism",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Regulatory Regionalism.md",
     "aliases": [
       "监管型区域主义",
@@ -1250,6 +1389,7 @@
   },
   {
     "title": "Scale in Higher Education",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Scale in Higher Education.md",
     "aliases": [
       "高等教育尺度",
@@ -1259,6 +1399,7 @@
   },
   {
     "title": "Self-Authorship",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Self-Authorship.md",
     "aliases": [
       "自我主导性",
@@ -1267,6 +1408,7 @@
   },
   {
     "title": "Semi-Autonomy of Higher Education",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Semi-Autonomy of Higher Education.md",
     "aliases": [
       "高等教育半自主性",
@@ -1277,6 +1419,7 @@
   },
   {
     "title": "Social Charter",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Social Charter.md",
     "aliases": [
       "社会宪章",
@@ -1287,6 +1430,7 @@
   },
   {
     "title": "Social Engagement",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Social Engagement.md",
     "aliases": [
       "社会性投入",
@@ -1295,6 +1439,7 @@
   },
   {
     "title": "Space-Making in Higher Education",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Space-Making in Higher Education.md",
     "aliases": [
       "高等教育空间制造",
@@ -1303,6 +1448,7 @@
   },
   {
     "title": "Stakeholder University",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Stakeholder University.md",
     "aliases": [
       "利益相关者大学",
@@ -1311,6 +1457,7 @@
   },
   {
     "title": "Student Engagement",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Student Engagement.md",
     "aliases": [
       "学生投入",
@@ -1320,6 +1467,7 @@
   },
   {
     "title": "Student Involvement",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Student Involvement.md",
     "aliases": [
       "学生涉入",
@@ -1329,6 +1477,7 @@
   },
   {
     "title": "Transnational Research Collaboration in Higher Education",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/Transnational Research Collaboration in Higher Education.md",
     "aliases": [
       "跨国研究合作",
@@ -1338,6 +1487,7 @@
   },
   {
     "title": "University Social Responsibility",
+    "type": "concept",
     "path": "wiki/concepts/higher-education/University Social Responsibility.md",
     "aliases": [
       "大学社会责任",
@@ -1347,6 +1497,7 @@
   },
   {
     "title": "Classroom Learning Culture",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Classroom Learning Culture.md",
     "aliases": [
       "课堂学习文化"
@@ -1354,6 +1505,7 @@
   },
   {
     "title": "Classroom Management",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Classroom Management.md",
     "aliases": [
       "课堂管理",
@@ -1362,6 +1514,7 @@
   },
   {
     "title": "Critiques of Visible Learning",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
     "aliases": [
       "可见学习批评",
@@ -1371,6 +1524,7 @@
   },
   {
     "title": "Cult of the Guru",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Cult of the Guru.md",
     "aliases": [
       "大师崇拜"
@@ -1378,6 +1532,7 @@
   },
   {
     "title": "Devil's Advocate",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Devil's Advocate.md",
     "aliases": [
       "魔鬼代言人",
@@ -1387,6 +1542,7 @@
   },
   {
     "title": "Direct Instruction",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
     "aliases": [
       "直接教学"
@@ -1394,6 +1550,7 @@
   },
   {
     "title": "Dynamic Knowledge and Learning Model",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Dynamic Knowledge and Learning Model.md",
     "aliases": [
       "动态知识与学习模型"
@@ -1401,6 +1558,7 @@
   },
   {
     "title": "Effective Teaching",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
     "aliases": [
       "有效教学"
@@ -1408,6 +1566,7 @@
   },
   {
     "title": "Feedback",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Feedback.md",
     "aliases": [
       "反馈"
@@ -1415,6 +1574,7 @@
   },
   {
     "title": "Individualised Instruction",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Individualised Instruction.md",
     "aliases": [
       "个别化教学",
@@ -1423,6 +1583,7 @@
   },
   {
     "title": "Language Experience Approach",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Language Experience Approach.md",
     "aliases": [
       "语言经验法"
@@ -1430,6 +1591,7 @@
   },
   {
     "title": "Neo-Taylorism in Educational Administration",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Neo-Taylorism in Educational Administration.md",
     "aliases": [
       "教育行政中的新泰勒主义",
@@ -1438,6 +1600,7 @@
   },
   {
     "title": "Problem-Based Learning",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
     "aliases": [
       "问题本位学习",
@@ -1446,6 +1609,7 @@
   },
   {
     "title": "Revoicing",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Revoicing.md",
     "aliases": [
       "重铸",
@@ -1456,6 +1620,7 @@
   },
   {
     "title": "School Leadership",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/School Leadership.md",
     "aliases": [
       "学校领导力",
@@ -1464,6 +1629,7 @@
   },
   {
     "title": "Structured Teaching",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Structured Teaching.md",
     "aliases": [
       "结构化教学",
@@ -1472,6 +1638,7 @@
   },
   {
     "title": "Student-Teacher Relationship",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Student-Teacher Relationship.md",
     "aliases": [
       "师生关系"
@@ -1479,6 +1646,7 @@
   },
   {
     "title": "Surface and Deep Learning",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Surface and Deep Learning.md",
     "aliases": [
       "表层学习与深层学习",
@@ -1488,6 +1656,7 @@
   },
   {
     "title": "Transformative Leadership",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Transformative Leadership.md",
     "aliases": [
       "变革型领导力"
@@ -1495,6 +1664,7 @@
   },
   {
     "title": "Visible Learning",
+    "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md",
     "aliases": [
       "可见学习"
@@ -1502,6 +1672,7 @@
   },
   {
     "title": "Academic Well-being and Interest in Learning",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Academic Well-being and Interest in Learning.md",
     "aliases": [
       "学业幸福感与学习兴趣"
@@ -1509,6 +1680,7 @@
   },
   {
     "title": "Assertiveness",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Assertiveness.md",
     "aliases": [
       "主动表达",
@@ -1517,6 +1689,7 @@
   },
   {
     "title": "Cognitive Inhibition",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/cognitive-inhibition.md",
     "aliases": [
       "认知抑制",
@@ -1525,6 +1698,7 @@
   },
   {
     "title": "Cognitive Shifting",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/cognitive-shifting.md",
     "aliases": [
       "认知转换",
@@ -1534,6 +1708,7 @@
   },
   {
     "title": "Entity vs Incremental Intelligence",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Entity vs Incremental Intelligence.md",
     "aliases": [
       "实体论与增长论智力观",
@@ -1546,6 +1721,7 @@
   },
   {
     "title": "Executive Function",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/executive-function.md",
     "aliases": [
       "执行功能",
@@ -1554,6 +1730,7 @@
   },
   {
     "title": "Flow",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Flow.md",
     "aliases": [
       "心流",
@@ -1565,6 +1742,7 @@
   },
   {
     "title": "Intrinsic vs Extrinsic Motivation",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Intrinsic vs Extrinsic Motivation.md",
     "aliases": [
       "内在动机与外在动机",
@@ -1575,6 +1753,7 @@
   },
   {
     "title": "Learned Helplessness",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Learned Helplessness.md",
     "aliases": [
       "习得性无助",
@@ -1584,6 +1763,7 @@
   },
   {
     "title": "Learning-Impeding Behavior",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Learning-Impeding Behavior.md",
     "aliases": [
       "学习阻碍行为"
@@ -1591,6 +1771,7 @@
   },
   {
     "title": "Life Power",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Life Power.md",
     "aliases": [
       "Lebenskraft",
@@ -1600,6 +1781,7 @@
   },
   {
     "title": "Locus of Control",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Locus of Control.md",
     "aliases": [
       "控制点",
@@ -1611,6 +1793,7 @@
   },
   {
     "title": "Motivation and Work Effort",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Motivation and Work Effort.md",
     "aliases": [
       "学习动机与努力投入"
@@ -1618,6 +1801,7 @@
   },
   {
     "title": "Myelination",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/myelination.md",
     "aliases": [
       "髓鞘化"
@@ -1625,6 +1809,7 @@
   },
   {
     "title": "Neuroplasticity",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Neuroplasticity.md",
     "aliases": [
       "神经可塑性"
@@ -1632,6 +1817,7 @@
   },
   {
     "title": "Prefrontal Cortex",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/prefrontal-cortex.md",
     "aliases": [
       "前额叶皮层",
@@ -1640,6 +1826,7 @@
   },
   {
     "title": "School Norm Adaptation",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/School Norm Adaptation.md",
     "aliases": [
       "学校规范适应"
@@ -1647,6 +1834,7 @@
   },
   {
     "title": "Self-control",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Self-control.md",
     "aliases": [
       "自我控制"
@@ -1654,6 +1842,7 @@
   },
   {
     "title": "Self-Efficacy",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Self-Efficacy.md",
     "aliases": [
       "自我效能感",
@@ -1664,6 +1853,7 @@
   },
   {
     "title": "Synaptic Pruning",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/synaptic-pruning.md",
     "aliases": [
       "突触修剪"
@@ -1671,6 +1861,7 @@
   },
   {
     "title": "Synaptogenesis",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/synaptogenesis.md",
     "aliases": [
       "突触发生"
@@ -1678,6 +1869,7 @@
   },
   {
     "title": "Updating and Monitoring",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/updating-and-monitoring.md",
     "aliases": [
       "更新与监控"
@@ -1685,6 +1877,7 @@
   },
   {
     "title": "Working Memory",
+    "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/working-memory.md",
     "aliases": [
       "工作记忆"
@@ -1692,6 +1885,7 @@
   },
   {
     "title": "Classical Geopolitics",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Classical Geopolitics.md",
     "aliases": [
       "古典地缘政治"
@@ -1699,6 +1893,7 @@
   },
   {
     "title": "Concealment-Exposure Framework",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Concealment-Exposure Framework.md",
     "aliases": [
       "隐藏-暴露框架",
@@ -1708,6 +1903,7 @@
   },
   {
     "title": "Cultural Diplomacy",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Cultural Diplomacy.md",
     "aliases": [
       "文化外交",
@@ -1718,6 +1914,7 @@
   },
   {
     "title": "Economic and Industrial Espionage",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Economic and Industrial Espionage.md",
     "aliases": [
       "经济和工业间谍",
@@ -1728,6 +1925,7 @@
   },
   {
     "title": "Economic Patriotism",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Economic Patriotism.md",
     "aliases": [
       "经济爱国主义"
@@ -1735,6 +1933,7 @@
   },
   {
     "title": "Endogenous and Exogenous Privatisation",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Endogenous and Exogenous Privatisation.md",
     "aliases": [
       "内生与外生私有化",
@@ -1745,6 +1944,7 @@
   },
   {
     "title": "Forced Knowledge Transfer",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Forced Knowledge Transfer.md",
     "aliases": [
       "强制知识转移",
@@ -1754,6 +1954,7 @@
   },
   {
     "title": "Fourth Industrial Revolution",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Fourth Industrial Revolution.md",
     "aliases": [
       "第四次工业革命",
@@ -1763,6 +1964,7 @@
   },
   {
     "title": "Geopolitical Subject",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Geopolitical Subject.md",
     "aliases": [
       "地缘政治主体",
@@ -1772,6 +1974,7 @@
   },
   {
     "title": "Geopolitics of Knowledge",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md",
     "aliases": [
       "知识地缘政治",
@@ -1781,6 +1984,7 @@
   },
   {
     "title": "Hub and Flow Imaginaries",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Hub and Flow Imaginaries.md",
     "aliases": [
       "枢纽与流动想象",
@@ -1791,6 +1995,7 @@
   },
   {
     "title": "Knowledge Sabotage",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Knowledge Sabotage.md",
     "aliases": [
       "知识破坏",
@@ -1800,6 +2005,7 @@
   },
   {
     "title": "Knowledge-Based Economization",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economization.md",
     "aliases": [
       "知识经济化"
@@ -1807,6 +2013,7 @@
   },
   {
     "title": "Knowledge-Based Economy",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economy.md",
     "aliases": [
       "知识经济",
@@ -1817,6 +2024,7 @@
   },
   {
     "title": "National Competitive Advantage",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/National Competitive Advantage.md",
     "aliases": [
       "国家竞争优势"
@@ -1824,6 +2032,7 @@
   },
   {
     "title": "Neocorporatism",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Neocorporatism.md",
     "aliases": [
       "新社团主义",
@@ -1833,6 +2042,7 @@
   },
   {
     "title": "Network Governance",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md",
     "aliases": [
       "网络治理",
@@ -1841,6 +2051,7 @@
   },
   {
     "title": "New Public Management",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/New Public Management.md",
     "aliases": [
       "新公共管理"
@@ -1848,6 +2059,7 @@
   },
   {
     "title": "Official Knowledge",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Official Knowledge.md",
     "aliases": [
       "官方知识",
@@ -1857,6 +2069,7 @@
   },
   {
     "title": "Performance Pay",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Performance Pay.md",
     "aliases": [
       "绩效工资",
@@ -1865,6 +2078,7 @@
   },
   {
     "title": "Power-Geometries",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Power-Geometries.md",
     "aliases": [
       "权力几何学",
@@ -1874,6 +2088,7 @@
   },
   {
     "title": "Progressive Neoliberalism",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Progressive Neoliberalism.md",
     "aliases": [
       "进步新自由主义"
@@ -1881,6 +2096,7 @@
   },
   {
     "title": "Radical Liberal Internationalism",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Radical Liberal Internationalism.md",
     "aliases": [
       "激进自由国际主义",
@@ -1889,6 +2105,7 @@
   },
   {
     "title": "School Autonomy",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/School Autonomy.md",
     "aliases": [
       "学校自主权"
@@ -1896,6 +2113,7 @@
   },
   {
     "title": "Scientization of Politics",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Scientization of Politics.md",
     "aliases": [
       "政策的科学化",
@@ -1906,6 +2124,7 @@
   },
   {
     "title": "Selectivity",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Selectivity.md",
     "aliases": [
       "选择性（治理）",
@@ -1916,6 +2135,7 @@
   },
   {
     "title": "Sovereign Internationalism",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Sovereign Internationalism.md",
     "aliases": [
       "主权国际主义"
@@ -1923,6 +2143,7 @@
   },
   {
     "title": "Spatial Sortings",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Spatial Sortings.md",
     "aliases": [
       "空间分选",
@@ -1932,6 +2153,7 @@
   },
   {
     "title": "VUCA",
+    "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/VUCA.md",
     "aliases": [
       "波动性-不确定性-复杂性-模糊性",
@@ -1941,6 +2163,7 @@
   },
   {
     "title": "5-3-20 Rule",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/5-3-20 Rule.md",
     "aliases": [
       "5-3-20规则"
@@ -1948,6 +2171,7 @@
   },
   {
     "title": "Absorptive Capacity",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Absorptive Capacity.md",
     "aliases": [
       "吸收能力",
@@ -1957,6 +2181,7 @@
   },
   {
     "title": "Black Box RCTs",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Black Box RCTs.md",
     "aliases": [
       "黑箱RCT",
@@ -1965,6 +2190,7 @@
   },
   {
     "title": "Cluster Randomized Trials",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Cluster Randomized Trials.md",
     "aliases": [
       "集群随机试验",
@@ -1974,6 +2200,7 @@
   },
   {
     "title": "Confidence Interval",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Confidence Interval.md",
     "aliases": [
       "置信区间",
@@ -1982,6 +2209,7 @@
   },
   {
     "title": "Cultural Models",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Cultural Models.md",
     "aliases": [
       "文化模型",
@@ -1992,6 +2220,7 @@
   },
   {
     "title": "Developer Effect",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Developer Effect.md",
     "aliases": [
       "开发者效应"
@@ -1999,6 +2228,7 @@
   },
   {
     "title": "Educational Evidence Clearinghouses",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Educational Evidence Clearinghouses.md",
     "aliases": [
       "教育证据清算中心",
@@ -2007,6 +2237,7 @@
   },
   {
     "title": "Effect Size",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Effect Size.md",
     "aliases": [
       "效应量"
@@ -2014,6 +2245,7 @@
   },
   {
     "title": "Evidence-Based Education",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Evidence-Based Education.md",
     "aliases": [
       "证据本位教育",
@@ -2026,6 +2258,7 @@
   },
   {
     "title": "Evidence-Based Reform",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Evidence-Based Reform.md",
     "aliases": [
       "证据本位改革"
@@ -2033,6 +2266,7 @@
   },
   {
     "title": "Evidence-Informed Practice",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Evidence-Informed Practice.md",
     "aliases": [
       "证据知情实践",
@@ -2041,6 +2275,7 @@
   },
   {
     "title": "Gating Procedure",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Gating Procedure.md",
     "aliases": [
       "闸门程序"
@@ -2048,6 +2283,7 @@
   },
   {
     "title": "Implementation Fidelity",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Implementation Fidelity.md",
     "aliases": [
       "实施忠实度",
@@ -2058,6 +2294,7 @@
   },
   {
     "title": "Inclusive Evidence Validation Typology",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Inclusive Evidence Validation Typology.md",
     "aliases": [
       "包容性证据验证类型学",
@@ -2067,6 +2304,7 @@
   },
   {
     "title": "Intent-to-Treat Analysis",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Intent-to-Treat Analysis.md",
     "aliases": [
       "意向治疗分析",
@@ -2075,6 +2313,7 @@
   },
   {
     "title": "Justified Warrants",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Justified Warrants.md",
     "aliases": [
       "有根据的担保断言"
@@ -2082,6 +2321,7 @@
   },
   {
     "title": "Knowledge Mobilisation",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Knowledge Mobilisation.md",
     "aliases": [
       "知识动员",
@@ -2093,6 +2333,7 @@
   },
   {
     "title": "Local Knowledge in Evidence-Based Policy",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Local Knowledge in Evidence-Based Policy.md",
     "aliases": [
       "证据本位政策中的地方知识",
@@ -2101,6 +2342,7 @@
   },
   {
     "title": "Material Fallacies",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Material Fallacies.md",
     "aliases": [
       "实质谬误"
@@ -2108,6 +2350,7 @@
   },
   {
     "title": "Mechanism Experiments",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Mechanism Experiments.md",
     "aliases": [
       "机制实验"
@@ -2115,6 +2358,7 @@
   },
   {
     "title": "Performance Indicators",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Performance Indicators.md",
     "aliases": [
       "绩效指标",
@@ -2125,6 +2369,7 @@
   },
   {
     "title": "Performativity of Measurement",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Performativity of Measurement.md",
     "aliases": [
       "测量的生产性",
@@ -2133,6 +2378,7 @@
   },
   {
     "title": "Potential Outcomes Framework",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Potential Outcomes Framework.md",
     "aliases": [
       "潜在结果框架"
@@ -2140,6 +2386,7 @@
   },
   {
     "title": "Preregistration",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Preregistration.md",
     "aliases": [
       "预注册"
@@ -2147,6 +2394,7 @@
   },
   {
     "title": "Professional Judgment",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Professional Judgment.md",
     "aliases": [
       "专业判断"
@@ -2154,6 +2402,7 @@
   },
   {
     "title": "Programme Fidelity vs Adaptation",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Programme Fidelity vs Adaptation.md",
     "aliases": [
       "项目忠实性与适应",
@@ -2162,6 +2411,7 @@
   },
   {
     "title": "Publication Bias",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Publication Bias.md",
     "aliases": [
       "发表偏差",
@@ -2170,6 +2420,7 @@
   },
   {
     "title": "Pure Evaluation",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Pure Evaluation.md",
     "aliases": [
       "纯粹评价"
@@ -2177,6 +2428,7 @@
   },
   {
     "title": "Recommendations for Practice",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Recommendations for Practice.md",
     "aliases": [
       "实践建议"
@@ -2184,6 +2436,7 @@
   },
   {
     "title": "Researcher Degrees of Freedom",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Researcher Degrees of Freedom.md",
     "aliases": [
       "研究者自由度"
@@ -2191,6 +2444,7 @@
   },
   {
     "title": "Reusability Paradox",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Reusability Paradox.md",
     "aliases": [
       "可重用性悖论",
@@ -2199,6 +2453,7 @@
   },
   {
     "title": "Side Effects in Education",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Side Effects in Education.md",
     "aliases": [
       "教育中的副作用"
@@ -2206,6 +2461,7 @@
   },
   {
     "title": "Stable Unit Treatment Value Assumption (SUTVA)",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Stable Unit Treatment Value Assumption (SUTVA).md",
     "aliases": [
       "稳定单元处理值假定",
@@ -2214,6 +2470,7 @@
   },
   {
     "title": "Statistical Significance",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Statistical Significance.md",
     "aliases": [
       "统计显著性"
@@ -2221,6 +2478,7 @@
   },
   {
     "title": "Validity as Inferences",
+    "type": "concept",
     "path": "wiki/concepts/research-methodology/Validity as Inferences.md",
     "aliases": [
       "作为推论的效度"
@@ -2228,6 +2486,7 @@
   },
   {
     "title": "Champ",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Champ.md",
     "aliases": [
       "场域",
@@ -2238,6 +2497,7 @@
   },
   {
     "title": "Credential Inflation",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Credential Inflation.md",
     "aliases": [
       "文凭通货膨胀",
@@ -2248,6 +2508,7 @@
   },
   {
     "title": "Cultural Barrier in Higher Education",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cultural Barrier in Higher Education.md",
     "aliases": [
       "高等教育中的文化障碍",
@@ -2256,6 +2517,7 @@
   },
   {
     "title": "Cultural Capital",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cultural Capital.md",
     "aliases": [
       "文化资本",
@@ -2264,6 +2526,7 @@
   },
   {
     "title": "Cultural Disembedding",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
     "aliases": [
       "文化脱嵌",
@@ -2272,6 +2535,7 @@
   },
   {
     "title": "Cultural Disorientation",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cultural Disorientation.md",
     "aliases": [
       "文化迷失",
@@ -2280,6 +2544,7 @@
   },
   {
     "title": "Doxa",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Doxa.md",
     "aliases": [
       "自明真理",
@@ -2290,6 +2555,7 @@
   },
   {
     "title": "Enculturation",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Enculturation.md",
     "aliases": [
       "文化濡化",
@@ -2299,6 +2565,7 @@
   },
   {
     "title": "Gender Differences in Academic Achievement",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Gender Differences in Academic Achievement.md",
     "aliases": [
       "学业成就性别差异"
@@ -2306,6 +2573,7 @@
   },
   {
     "title": "Goal-Controlled Mode",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md",
     "aliases": [
       "目标掌控模式",
@@ -2314,6 +2582,7 @@
   },
   {
     "title": "Graduation Pathway Typology (Zheng)",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Graduation Pathway Typology (Zheng).md",
     "aliases": [
       "毕业出路产生机制四分类",
@@ -2323,6 +2592,7 @@
   },
   {
     "title": "Habitus",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Habitus.md",
     "aliases": [
       "习性",
@@ -2331,6 +2601,7 @@
   },
   {
     "title": "Horizontal Knowledge Structure",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Horizontal Knowledge Structure.md",
     "aliases": [
       "横向知识结构",
@@ -2341,6 +2612,7 @@
   },
   {
     "title": "Intuition-Dependent Mode",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
     "aliases": [
       "直觉依赖模式",
@@ -2349,6 +2621,7 @@
   },
   {
     "title": "Lost Mode",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Lost Mode.md",
     "aliases": [
       "迷失无从者",
@@ -2358,6 +2631,7 @@
   },
   {
     "title": "New Sociology of Education",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/New Sociology of Education.md",
     "aliases": [
       "新教育社会学",
@@ -2366,6 +2640,7 @@
   },
   {
     "title": "Opportunist Mode",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Opportunist Mode.md",
     "aliases": [
       "机会主义者",
@@ -2375,6 +2650,7 @@
   },
   {
     "title": "Political Arithmetic",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Political Arithmetic.md",
     "aliases": [
       "政治算术",
@@ -2383,6 +2659,7 @@
   },
   {
     "title": "School Effectiveness",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/School Effectiveness.md",
     "aliases": [
       "学校效能",
@@ -2392,6 +2669,7 @@
   },
   {
     "title": "Self-Driven Mode",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Self-Driven Mode.md",
     "aliases": [
       "自主驱动者",
@@ -2401,6 +2679,7 @@
   },
   {
     "title": "Self-Entrepreneur",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Self-Entrepreneur.md",
     "aliases": [
       "自我企业家",
@@ -2411,6 +2690,7 @@
   },
   {
     "title": "Sociology of Measurement",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Sociology of Measurement.md",
     "aliases": [
       "测量社会学"
@@ -2418,6 +2698,7 @@
   },
   {
     "title": "Stereotype Threat",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Stereotype Threat.md",
     "aliases": [
       "刻板印象威胁",
@@ -2426,6 +2707,7 @@
   },
   {
     "title": "Symbolic Boundary",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Symbolic Boundary.md",
     "aliases": [
       "象征边界"
@@ -2433,6 +2715,7 @@
   },
   {
     "title": "Tense Society",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Tense Society.md",
     "aliases": [
       "张力社会",
@@ -2441,6 +2724,7 @@
   },
   {
     "title": "The Shock of the Elite",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/The Shock of the Elite.md",
     "aliases": [
       "精英冲击"
@@ -2448,6 +2732,7 @@
   },
   {
     "title": "Value Conformist Mode",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Value Conformist Mode.md",
     "aliases": [
       "价值归顺者",
@@ -2457,6 +2742,7 @@
   },
   {
     "title": "Work Meaning Schemas (Zheng)",
+    "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Work Meaning Schemas (Zheng).md",
     "aliases": [
       "工作意义三角图式",
@@ -2466,6 +2752,7 @@
   },
   {
     "title": "Confucian Learning Tradition",
+    "type": "theory",
     "path": "wiki/theories/chinese-philosophy/Confucian Learning Tradition.md",
     "aliases": [
       "儒家学习传统",
@@ -2475,6 +2762,7 @@
   },
   {
     "title": "Legitimation Theory Van Leeuwen",
+    "type": "theory",
     "path": "wiki/theories/communication-discourse/Legitimation Theory Van Leeuwen.md",
     "aliases": [
       "范李文的合法化理论",
@@ -2483,6 +2771,7 @@
   },
   {
     "title": "Hofstede's Cultural Dimensions",
+    "type": "theory",
     "path": "wiki/theories/comparative-education/Hofstede's Cultural Dimensions.md",
     "aliases": [
       "霍夫斯泰德文化维度理论",
@@ -2491,6 +2780,7 @@
   },
   {
     "title": "Institutional Isomorphism",
+    "type": "theory",
     "path": "wiki/theories/comparative-education/Institutional Isomorphism.md",
     "aliases": [
       "制度同构",
@@ -2502,6 +2792,7 @@
   },
   {
     "title": "Nation Building through Education",
+    "type": "theory",
     "path": "wiki/theories/comparative-education/Nation Building through Education.md",
     "aliases": [
       "教育建国",
@@ -2510,6 +2801,7 @@
   },
   {
     "title": "World Society Theory",
+    "type": "theory",
     "path": "wiki/theories/comparative-education/World Society Theory.md",
     "aliases": [
       "世界社会理论",
@@ -2523,6 +2815,7 @@
   },
   {
     "title": "World-Systems Theory",
+    "type": "theory",
     "path": "wiki/theories/comparative-education/World-Systems Theory.md",
     "aliases": [
       "世界体系理论",
@@ -2531,6 +2824,7 @@
   },
   {
     "title": "Cuban's Curriculum Change Theory",
+    "type": "theory",
     "path": "wiki/theories/curriculum/Cuban's Curriculum Change Theory.md",
     "aliases": [
       "库班课程变革理论"
@@ -2538,6 +2832,7 @@
   },
   {
     "title": "Autopoiesis",
+    "type": "theory",
     "path": "wiki/theories/educational-philosophy/Autopoiesis.md",
     "aliases": [
       "自创生",
@@ -2546,6 +2841,7 @@
   },
   {
     "title": "Critical Realism",
+    "type": "theory",
     "path": "wiki/theories/educational-philosophy/Critical Realism.md",
     "aliases": [
       "批判实在论"
@@ -2553,6 +2849,7 @@
   },
   {
     "title": "Goldman's Discrimination Theory of Knowledge",
+    "type": "theory",
     "path": "wiki/theories/educational-philosophy/Goldman's Discrimination Theory of Knowledge.md",
     "aliases": [
       "高德曼的知识辨识理论",
@@ -2561,6 +2858,7 @@
   },
   {
     "title": "Luhmann's Systems Theory",
+    "type": "theory",
     "path": "wiki/theories/educational-philosophy/Luhmann's Systems Theory.md",
     "aliases": [
       "卢曼系统理论",
@@ -2569,6 +2867,7 @@
   },
   {
     "title": "Phenomenology",
+    "type": "theory",
     "path": "wiki/theories/educational-philosophy/Phenomenology.md",
     "aliases": [
       "现象学"
@@ -2576,6 +2875,7 @@
   },
   {
     "title": "Popper's Three Worlds Theory",
+    "type": "theory",
     "path": "wiki/theories/educational-philosophy/Popper's Three Worlds Theory.md",
     "aliases": [
       "波普尔三世界理论",
@@ -2584,6 +2884,7 @@
   },
   {
     "title": "Radical Constructivism",
+    "type": "theory",
     "path": "wiki/theories/educational-philosophy/Radical Constructivism.md",
     "aliases": [
       "激进建构主义"
@@ -2591,6 +2892,7 @@
   },
   {
     "title": "Science and Technology Studies (STS)",
+    "type": "theory",
     "path": "wiki/theories/educational-philosophy/Science and Technology Studies (STS).md",
     "aliases": [
       "科学技术研究",
@@ -2599,6 +2901,7 @@
   },
   {
     "title": "Societies of Control",
+    "type": "theory",
     "path": "wiki/theories/educational-philosophy/Societies of Control.md",
     "aliases": [
       "控制社会",
@@ -2607,6 +2910,7 @@
   },
   {
     "title": "Technical Rationality",
+    "type": "theory",
     "path": "wiki/theories/educational-philosophy/Technical Rationality.md",
     "aliases": [
       "技术理性"
@@ -2614,6 +2918,7 @@
   },
   {
     "title": "Transactional Epistemology",
+    "type": "theory",
     "path": "wiki/theories/educational-philosophy/Transactional Epistemology.md",
     "aliases": [
       "交互认识论"
@@ -2621,6 +2926,7 @@
   },
   {
     "title": "Transition Design",
+    "type": "theory",
     "path": "wiki/theories/educational-philosophy/Transition Design.md",
     "aliases": [
       "转型设计"
@@ -2628,6 +2934,7 @@
   },
   {
     "title": "Creative Tension of Sense",
+    "type": "theory",
     "path": "wiki/theories/higher-education/Creative Tension of Sense.md",
     "aliases": [
       "意义创造性张力",
@@ -2638,6 +2945,7 @@
   },
   {
     "title": "Network Society",
+    "type": "theory",
     "path": "wiki/theories/higher-education/Network Society.md",
     "aliases": [
       "网络社会",
@@ -2646,6 +2954,7 @@
   },
   {
     "title": "Bounded Rationality",
+    "type": "theory",
     "path": "wiki/theories/instruction-pedagogy/Bounded Rationality.md",
     "aliases": [
       "有限理性"
@@ -2653,6 +2962,7 @@
   },
   {
     "title": "Theory of Teaching (Gruschka)",
+    "type": "theory",
     "path": "wiki/theories/instruction-pedagogy/Theory of Teaching (Gruschka).md",
     "aliases": [
       "教学理论 (Gruschka)",
@@ -2662,6 +2972,7 @@
   },
   {
     "title": "Appraisal Theory",
+    "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/Appraisal Theory.md",
     "aliases": [
       "评估理论",
@@ -2673,6 +2984,7 @@
   },
   {
     "title": "Attribution Theory",
+    "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/Attribution Theory.md",
     "aliases": [
       "归因理论",
@@ -2682,6 +2994,7 @@
   },
   {
     "title": "Hebbian Principles",
+    "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/hebbian-principles.md",
     "aliases": [
       "赫布原则",
@@ -2690,6 +3003,7 @@
   },
   {
     "title": "Miyake's Unity and Diversity Framework of Executive Function",
+    "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/miyake-unity-diversity-framework.md",
     "aliases": [
       "宫崎统一-多样性框架",
@@ -2698,6 +3012,7 @@
   },
   {
     "title": "Neo-Piagetian Theories",
+    "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/neo-piagetian-theories.md",
     "aliases": [
       "新皮亚杰理论"
@@ -2705,6 +3020,7 @@
   },
   {
     "title": "Piaget's Theory of Cognitive Development",
+    "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/piagets-theory-of-cognitive-development.md",
     "aliases": [
       "皮亚杰认知发展理论",
@@ -2713,6 +3029,7 @@
   },
   {
     "title": "Self-Worth Theory",
+    "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/Self-Worth Theory.md",
     "aliases": [
       "自我价值理论",
@@ -2722,6 +3039,7 @@
   },
   {
     "title": "Critical Geopolitics",
+    "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Critical Geopolitics.md",
     "aliases": [
       "批判地缘政治学",
@@ -2731,6 +3049,7 @@
   },
   {
     "title": "Cultural Political Economy",
+    "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Cultural Political Economy.md",
     "aliases": [
       "文化政治经济学",
@@ -2740,6 +3059,7 @@
   },
   {
     "title": "Decolonial Geopolitics of Knowledge",
+    "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md",
     "aliases": [
       "去殖民知识地缘政治",
@@ -2748,6 +3068,7 @@
   },
   {
     "title": "Fixity-Motion Tension",
+    "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Fixity-Motion Tension.md",
     "aliases": [
       "固着-流动张力"
@@ -2755,6 +3076,7 @@
   },
   {
     "title": "Governmentality",
+    "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Governmentality.md",
     "aliases": [
       "治理术",
@@ -2766,6 +3088,7 @@
   },
   {
     "title": "Hegemony",
+    "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Hegemony.md",
     "aliases": [
       "霸权理论",
@@ -2777,6 +3100,7 @@
   },
   {
     "title": "Tullock's Bureaucracy Theory",
+    "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Tullock's Bureaucracy Theory.md",
     "aliases": [
       "图洛克官僚制理论",
@@ -2785,6 +3109,7 @@
   },
   {
     "title": "Campbellian Validity Framework",
+    "type": "theory",
     "path": "wiki/theories/research-methodology/Campbellian Validity Framework.md",
     "aliases": [
       "坎贝尔效度框架"
@@ -2792,6 +3117,7 @@
   },
   {
     "title": "Cartwright's Three-Stage Knowledge Framework",
+    "type": "theory",
     "path": "wiki/theories/research-methodology/Cartwright's Three-Stage Knowledge Framework.md",
     "aliases": [
       "卡特赖特三阶段知识框架",
@@ -2800,6 +3126,7 @@
   },
   {
     "title": "Capability Approach in Education",
+    "type": "theory",
     "path": "wiki/theories/sociology-of-education/Capability Approach in Education.md",
     "aliases": [
       "可行能力路径",
@@ -2813,6 +3140,7 @@
   },
   {
     "title": "Culture as Toolkit",
+    "type": "theory",
     "path": "wiki/theories/sociology-of-education/Culture as Toolkit.md",
     "aliases": [
       "文化工具箱",
@@ -2822,6 +3150,7 @@
   },
   {
     "title": "Dual Elite Career Paths",
+    "type": "theory",
     "path": "wiki/theories/sociology-of-education/Dual Elite Career Paths.md",
     "aliases": [
       "双重精英生涯路径"
@@ -2829,6 +3158,7 @@
   },
   {
     "title": "Dual-Process Model of Culture in Action",
+    "type": "theory",
     "path": "wiki/theories/sociology-of-education/Dual-Process Model of Culture in Action.md",
     "aliases": [
       "文化行动双过程模型",
@@ -2838,6 +3168,7 @@
   },
   {
     "title": "Rational Action Theory in Education",
+    "type": "theory",
     "path": "wiki/theories/sociology-of-education/Rational Action Theory in Education.md",
     "aliases": [
       "教育中的理性行动理论"
@@ -2845,6 +3176,7 @@
   },
   {
     "title": "Refraction Framework",
+    "type": "theory",
     "path": "wiki/theories/sociology-of-education/Refraction Framework.md",
     "aliases": [
       "折射框架"
@@ -2852,6 +3184,7 @@
   },
   {
     "title": "Formative Evaluation",
+    "type": "method",
     "path": "wiki/methods/mixed/Formative Evaluation.md",
     "aliases": [
       "形成性评价",
@@ -2861,6 +3194,7 @@
   },
   {
     "title": "Improvement Science",
+    "type": "method",
     "path": "wiki/methods/mixed/Improvement Science.md",
     "aliases": [
       "改进科学"
@@ -2868,6 +3202,7 @@
   },
   {
     "title": "Logic Model",
+    "type": "method",
     "path": "wiki/methods/mixed/Logic Model.md",
     "aliases": [
       "逻辑模型",
@@ -2878,6 +3213,7 @@
   },
   {
     "title": "Mixed Method and Multi-method Research",
+    "type": "method",
     "path": "wiki/methods/mixed/Mixed Method and Multi-method Research.md",
     "aliases": [
       "混合方法/多方法研究",
@@ -2890,6 +3226,7 @@
   },
   {
     "title": "Prototype Methods",
+    "type": "method",
     "path": "wiki/methods/mixed/Prototype Methods.md",
     "aliases": [
       "原型方法",
@@ -2900,6 +3237,7 @@
   },
   {
     "title": "Spirals of Inquiry",
+    "type": "method",
     "path": "wiki/methods/mixed/Spirals of Inquiry.md",
     "aliases": [
       "探究螺旋"
@@ -2907,6 +3245,7 @@
   },
   {
     "title": "Carnivalesque Analysis",
+    "type": "method",
     "path": "wiki/methods/qualitative/Carnivalesque Analysis.md",
     "aliases": [
       "嘉年华式分析"
@@ -2914,6 +3253,7 @@
   },
   {
     "title": "Case Study",
+    "type": "method",
     "path": "wiki/methods/qualitative/Case Study.md",
     "aliases": [
       "个案研究"
@@ -2921,6 +3261,7 @@
   },
   {
     "title": "Cognitive Task Analysis",
+    "type": "method",
     "path": "wiki/methods/qualitative/Cognitive Task Analysis.md",
     "aliases": [
       "认知任务分析",
@@ -2929,6 +3270,7 @@
   },
   {
     "title": "Comparative Case Study",
+    "type": "method",
     "path": "wiki/methods/qualitative/Comparative Case Study.md",
     "aliases": [
       "比较案例研究",
@@ -2938,6 +3280,7 @@
   },
   {
     "title": "Comparative Meta-synthesis",
+    "type": "method",
     "path": "wiki/methods/qualitative/Comparative Meta-synthesis.md",
     "aliases": [
       "比较性元综合",
@@ -2946,6 +3289,7 @@
   },
   {
     "title": "Constructivist Grounded Theory",
+    "type": "method",
     "path": "wiki/methods/qualitative/Constructivist Grounded Theory.md",
     "aliases": [
       "建构主义扎根理论"
@@ -2953,6 +3297,7 @@
   },
   {
     "title": "Critical Companion",
+    "type": "method",
     "path": "wiki/methods/qualitative/Critical Companion.md",
     "aliases": [
       "批判性伴随",
@@ -2962,6 +3307,7 @@
   },
   {
     "title": "Ganz-Methode",
+    "type": "method",
     "path": "wiki/methods/qualitative/Ganz-Methode.md",
     "aliases": [
       "Whole Approach",
@@ -2972,6 +3318,7 @@
   },
   {
     "title": "Historical Document Analysis of Curriculum",
+    "type": "method",
     "path": "wiki/methods/qualitative/Historical Document Analysis of Curriculum.md",
     "aliases": [
       "课程历史文献分析",
@@ -2980,6 +3327,7 @@
   },
   {
     "title": "In-depth Interview",
+    "type": "method",
     "path": "wiki/methods/qualitative/In-depth Interview.md",
     "aliases": [
       "深度访谈"
@@ -2987,6 +3335,7 @@
   },
   {
     "title": "Mother-Child Conversation (MCC)",
+    "type": "method",
     "path": "wiki/methods/qualitative/Mother-Child Conversation (MCC).md",
     "aliases": [
       "母子对话法",
@@ -2997,6 +3346,7 @@
   },
   {
     "title": "Philosophical Analysis in Education",
+    "type": "method",
     "path": "wiki/methods/qualitative/Philosophical Analysis in Education.md",
     "aliases": [
       "教育中的哲学分析",
@@ -3005,6 +3355,7 @@
   },
   {
     "title": "Qualitative Research",
+    "type": "method",
     "path": "wiki/methods/qualitative/Qualitative Research.md",
     "aliases": [
       "质性研究"
@@ -3012,6 +3363,7 @@
   },
   {
     "title": "Causal Modeling",
+    "type": "method",
     "path": "wiki/methods/quantitative/Causal Modeling.md",
     "aliases": [
       "因果建模",
@@ -3021,6 +3373,7 @@
   },
   {
     "title": "Covariate Adjustment",
+    "type": "method",
     "path": "wiki/methods/quantitative/Covariate Adjustment.md",
     "aliases": [
       "协变量控制",
@@ -3029,6 +3382,7 @@
   },
   {
     "title": "Electroencephalography",
+    "type": "method",
     "path": "wiki/methods/quantitative/electroencephalography.md",
     "aliases": [
       "脑电图",
@@ -3038,6 +3392,7 @@
   },
   {
     "title": "Experience Sampling Method",
+    "type": "method",
     "path": "wiki/methods/quantitative/Experience Sampling Method.md",
     "aliases": [
       "经验取样法",
@@ -3048,6 +3403,7 @@
   },
   {
     "title": "Functional Magnetic Resonance Imaging",
+    "type": "method",
     "path": "wiki/methods/quantitative/functional-magnetic-resonance-imaging.md",
     "aliases": [
       "功能性磁共振成像",
@@ -3056,6 +3412,7 @@
   },
   {
     "title": "Intervention Research",
+    "type": "method",
     "path": "wiki/methods/quantitative/Intervention Research.md",
     "aliases": [
       "干预研究"
@@ -3063,6 +3420,7 @@
   },
   {
     "title": "Matching",
+    "type": "method",
     "path": "wiki/methods/quantitative/Matching.md",
     "aliases": [
       "匹配",
@@ -3071,6 +3429,7 @@
   },
   {
     "title": "Meta-analysis",
+    "type": "method",
     "path": "wiki/methods/quantitative/Meta-analysis.md",
     "aliases": [
       "元分析"
@@ -3078,6 +3437,7 @@
   },
   {
     "title": "Meta-meta-analysis",
+    "type": "method",
     "path": "wiki/methods/quantitative/Meta-meta-analysis.md",
     "aliases": [
       "元-元分析",
@@ -3087,6 +3447,7 @@
   },
   {
     "title": "Non-intervention Research",
+    "type": "method",
     "path": "wiki/methods/quantitative/Non-intervention Research.md",
     "aliases": [
       "非干预研究"
@@ -3094,6 +3455,7 @@
   },
   {
     "title": "Observational and Correlational Research",
+    "type": "method",
     "path": "wiki/methods/quantitative/Observational and Correlational Research.md",
     "aliases": [
       "观察/相关研究",
@@ -3104,6 +3466,7 @@
   },
   {
     "title": "Quasi-Experimental Designs",
+    "type": "method",
     "path": "wiki/methods/quantitative/Quasi-Experimental Designs.md",
     "aliases": [
       "准实验设计",
@@ -3117,6 +3480,7 @@
   },
   {
     "title": "Randomised Controlled Trials",
+    "type": "method",
     "path": "wiki/methods/quantitative/Randomised Controlled Trials.md",
     "aliases": [
       "随机对照试验",
@@ -3125,6 +3489,7 @@
   },
   {
     "title": "Rasch Measurement",
+    "type": "method",
     "path": "wiki/methods/quantitative/Rasch Measurement.md",
     "aliases": [
       "拉施测量",
@@ -3133,6 +3498,7 @@
   },
   {
     "title": "Seasonal Comparison",
+    "type": "method",
     "path": "wiki/methods/quantitative/Seasonal Comparison.md",
     "aliases": [
       "季节性比较",
@@ -3141,6 +3507,7 @@
   },
   {
     "title": "Single-Case Design (SCD)",
+    "type": "method",
     "path": "wiki/methods/quantitative/Single-Case Design (SCD).md",
     "aliases": [
       "单一个案设计",
@@ -3150,6 +3517,7 @@
   },
   {
     "title": "Walter Mignolo",
+    "type": "person",
     "path": "wiki/persons/argentina/Walter Mignolo.md",
     "aliases": [
       "沃尔特·米尼奥罗"
@@ -3157,6 +3525,7 @@
   },
   {
     "title": "Fazal Rizvi",
+    "type": "person",
     "path": "wiki/persons/australia/Fazal Rizvi.md",
     "aliases": [
       "法扎尔·里兹维"
@@ -3164,6 +3533,7 @@
   },
   {
     "title": "John Biggs",
+    "type": "person",
     "path": "wiki/persons/australia/John Biggs.md",
     "aliases": [
       "约翰·比格斯"
@@ -3171,6 +3541,7 @@
   },
   {
     "title": "Scott Eacott",
+    "type": "person",
     "path": "wiki/persons/australia/Scott Eacott.md",
     "aliases": [
       "斯科特·伊科特"
@@ -3178,6 +3549,7 @@
   },
   {
     "title": "Camilla de Hollanda Amado",
+    "type": "person",
     "path": "wiki/persons/brazil/Camilla de Hollanda Amado.md",
     "aliases": [
       "卡米拉·德·奥兰达·阿马多"
@@ -3185,6 +3557,7 @@
   },
   {
     "title": "Dell Delambre",
+    "type": "person",
     "path": "wiki/persons/brazil/Dell Delambre.md",
     "aliases": [
       "戴尔·德朗布尔"
@@ -3192,6 +3565,7 @@
   },
   {
     "title": "Marcelo Parreira do Amaral",
+    "type": "person",
     "path": "wiki/persons/brazil/Marcelo Parreira do Amaral.md",
     "aliases": [
       "马塞洛·帕雷拉·多·阿马拉尔"
@@ -3199,6 +3573,7 @@
   },
   {
     "title": "Paulo Freire",
+    "type": "person",
     "path": "wiki/persons/brazil/Paulo Freire.md",
     "aliases": [
       "保罗·弗莱雷",
@@ -3208,6 +3583,7 @@
   },
   {
     "title": "Richard Castelo Branco",
+    "type": "person",
     "path": "wiki/persons/brazil/Richard Castelo Branco.md",
     "aliases": [
       "理查德·卡斯特洛·布兰科"
@@ -3215,6 +3591,7 @@
   },
   {
     "title": "Pepka Boyadjieva",
+    "type": "person",
     "path": "wiki/persons/bulgaria/Pepka Boyadjieva.md",
     "aliases": [
       "佩普卡·博亚季耶娃"
@@ -3222,6 +3599,7 @@
   },
   {
     "title": "Carl Bereiter",
+    "type": "person",
     "path": "wiki/persons/canada/Carl Bereiter.md",
     "aliases": [
       "卡尔·贝赖特"
@@ -3229,6 +3607,7 @@
   },
   {
     "title": "Carol Campbell",
+    "type": "person",
     "path": "wiki/persons/canada/Carol Campbell.md",
     "aliases": [
       "卡罗尔·坎贝尔"
@@ -3236,6 +3615,7 @@
   },
   {
     "title": "Carolyn Shields",
+    "type": "person",
     "path": "wiki/persons/canada/Carolyn Shields.md",
     "aliases": [
       "卡罗琳·希尔兹"
@@ -3243,6 +3623,7 @@
   },
   {
     "title": "Jane Knight",
+    "type": "person",
     "path": "wiki/persons/canada/Jane Knight.md",
     "aliases": [
       "简·奈特"
@@ -3250,6 +3631,7 @@
   },
   {
     "title": "Juan Pascual-Leone",
+    "type": "person",
     "path": "wiki/persons/canada/Juan Pascual-Leone.md",
     "aliases": [
       "胡安·帕斯夸尔-莱昂内"
@@ -3257,6 +3639,7 @@
   },
   {
     "title": "Robbie Case",
+    "type": "person",
     "path": "wiki/persons/canada/Robbie Case.md",
     "aliases": [
       "罗比·凯斯"
@@ -3264,6 +3647,7 @@
   },
   {
     "title": "Thomas Barr Greenfield",
+    "type": "person",
     "path": "wiki/persons/canada/Thomas Barr Greenfield.md",
     "aliases": [
       "托马斯·巴尔·格林菲尔德"
@@ -3271,6 +3655,7 @@
   },
   {
     "title": "Francisco Varela",
+    "type": "person",
     "path": "wiki/persons/chile/Francisco Varela.md",
     "aliases": [
       "弗朗西斯科·瓦雷拉"
@@ -3278,6 +3663,7 @@
   },
   {
     "title": "Humberto Maturana",
+    "type": "person",
     "path": "wiki/persons/chile/Humberto Maturana.md",
     "aliases": [
       "温贝托·马图拉纳"
@@ -3285,6 +3671,7 @@
   },
   {
     "title": "Alan C. K. Cheung",
+    "type": "person",
     "path": "wiki/persons/china/Alan C. K. Cheung.md",
     "aliases": [
       "艾伦·C·K·张"
@@ -3292,6 +3679,7 @@
   },
   {
     "title": "Chen Xie",
+    "type": "person",
     "path": "wiki/persons/china/Chen Xie.md",
     "aliases": [
       "谢晨"
@@ -3299,6 +3687,7 @@
   },
   {
     "title": "Confucius",
+    "type": "person",
     "path": "wiki/persons/china/Confucius.md",
     "aliases": [
       "孔子",
@@ -3309,6 +3698,7 @@
   },
   {
     "title": "Jin Li",
+    "type": "person",
     "path": "wiki/persons/china/Jin Li.md",
     "aliases": [
       "李瑾"
@@ -3316,6 +3706,7 @@
   },
   {
     "title": "Mencius",
+    "type": "person",
     "path": "wiki/persons/china/Mencius.md",
     "aliases": [
       "孟子",
@@ -3326,6 +3717,7 @@
   },
   {
     "title": "Tengteng Zhuang",
+    "type": "person",
     "path": "wiki/persons/china/Tengteng Zhuang.md",
     "aliases": [
       "庄腾腾"
@@ -3333,6 +3725,7 @@
   },
   {
     "title": "Wang Yangming",
+    "type": "person",
     "path": "wiki/persons/china/Wang Yangming.md",
     "aliases": [
       "王阳明",
@@ -3343,6 +3736,7 @@
   },
   {
     "title": "Yajun Zheng",
+    "type": "person",
     "path": "wiki/persons/china/Yajun Zheng.md",
     "aliases": [
       "郑雅君"
@@ -3350,6 +3744,7 @@
   },
   {
     "title": "Yong Zhao",
+    "type": "person",
     "path": "wiki/persons/china/Yong Zhao.md",
     "aliases": [
       "赵勇"
@@ -3357,6 +3752,7 @@
   },
   {
     "title": "Zhu Xi",
+    "type": "person",
     "path": "wiki/persons/china/Zhu Xi.md",
     "aliases": [
       "朱熹",
@@ -3367,6 +3763,7 @@
   },
   {
     "title": "Arturo Escobar",
+    "type": "person",
     "path": "wiki/persons/colombia/Arturo Escobar.md",
     "aliases": [
       "阿图罗·埃斯科瓦尔"
@@ -3374,6 +3771,7 @@
   },
   {
     "title": "Jill Mehlbye",
+    "type": "person",
     "path": "wiki/persons/denmark/Jill Mehlbye.md",
     "aliases": [
       "吉尔·梅尔比"
@@ -3381,6 +3779,7 @@
   },
   {
     "title": "Klaus Nielsen",
+    "type": "person",
     "path": "wiki/persons/denmark/Klaus Nielsen.md",
     "aliases": [
       "克劳斯·尼尔森"
@@ -3388,6 +3787,7 @@
   },
   {
     "title": "Lars Qvortrup",
+    "type": "person",
     "path": "wiki/persons/denmark/Lars Qvortrup.md",
     "aliases": [
       "拉尔斯·克沃特鲁普"
@@ -3395,6 +3795,7 @@
   },
   {
     "title": "Steen Nepper Larsen",
+    "type": "person",
     "path": "wiki/persons/denmark/Steen Nepper Larsen.md",
     "aliases": [
       "斯滕·内珀·拉森"
@@ -3402,6 +3803,7 @@
   },
   {
     "title": "Thomas Aastrup Rømer",
+    "type": "person",
     "path": "wiki/persons/denmark/Thomas Aastrup Rømer.md",
     "aliases": [
       "托马斯·奥斯特鲁普·勒默"
@@ -3409,6 +3811,7 @@
   },
   {
     "title": "Sami Moisio",
+    "type": "person",
     "path": "wiki/persons/finland/Sami Moisio.md",
     "aliases": [
       "萨米·莫伊西奥"
@@ -3416,6 +3819,7 @@
   },
   {
     "title": "Didier Eribon",
+    "type": "person",
     "path": "wiki/persons/france/Didier Eribon.md",
     "aliases": [
       "迪迪埃·埃里蓬"
@@ -3423,6 +3827,7 @@
   },
   {
     "title": "Frantz Fanon",
+    "type": "person",
     "path": "wiki/persons/france/Frantz Fanon.md",
     "aliases": [
       "弗朗兹·法农",
@@ -3432,6 +3837,7 @@
   },
   {
     "title": "Jean-François Lyotard",
+    "type": "person",
     "path": "wiki/persons/france/Jean-François Lyotard.md",
     "aliases": [
       "让-弗朗索瓦·利奥塔",
@@ -3441,6 +3847,7 @@
   },
   {
     "title": "Jean-Jacques Rousseau",
+    "type": "person",
     "path": "wiki/persons/france/Jean-Jacques Rousseau.md",
     "aliases": [
       "卢梭",
@@ -3449,6 +3856,7 @@
   },
   {
     "title": "Pierre Bourdieu",
+    "type": "person",
     "path": "wiki/persons/france/Pierre Bourdieu.md",
     "aliases": [
       "皮埃尔·布迪厄",
@@ -3458,6 +3866,7 @@
   },
   {
     "title": "René Descartes",
+    "type": "person",
     "path": "wiki/persons/france/René Descartes.md",
     "aliases": [
       "笛卡尔",
@@ -3466,6 +3875,7 @@
   },
   {
     "title": "Andreas Helmke",
+    "type": "person",
     "path": "wiki/persons/germany/Andreas Helmke.md",
     "aliases": [
       "安德烈亚斯·赫尔姆克"
@@ -3473,6 +3883,7 @@
   },
   {
     "title": "Christiane Thompson",
+    "type": "person",
     "path": "wiki/persons/germany/Christiane Thompson.md",
     "aliases": [
       "克里斯蒂安妮·汤普森"
@@ -3480,6 +3891,7 @@
   },
   {
     "title": "Dietrich Benner",
+    "type": "person",
     "path": "wiki/persons/germany/Dietrich Benner.md",
     "aliases": [
       "迪特里希·本纳"
@@ -3487,6 +3899,7 @@
   },
   {
     "title": "Ernst von Glasersfeld",
+    "type": "person",
     "path": "wiki/persons/germany/Ernst von Glasersfeld.md",
     "aliases": [
       "恩斯特·冯·格拉泽斯费尔德"
@@ -3494,6 +3907,7 @@
   },
   {
     "title": "Hilbert Meyer",
+    "type": "person",
     "path": "wiki/persons/germany/Hilbert Meyer.md",
     "aliases": [
       "希尔伯特·迈耶"
@@ -3501,6 +3915,7 @@
   },
   {
     "title": "Immanuel Kant",
+    "type": "person",
     "path": "wiki/persons/germany/Immanuel Kant.md",
     "aliases": [
       "康德",
@@ -3509,6 +3924,7 @@
   },
   {
     "title": "Jurgen Schriewer",
+    "type": "person",
     "path": "wiki/persons/germany/Jurgen Schriewer.md",
     "aliases": [
       "于尔根·施里韦尔"
@@ -3516,6 +3932,7 @@
   },
   {
     "title": "Max Weber",
+    "type": "person",
     "path": "wiki/persons/germany/Max Weber.md",
     "aliases": [
       "马克斯·韦伯",
@@ -3525,6 +3942,7 @@
   },
   {
     "title": "Niklas Luhmann",
+    "type": "person",
     "path": "wiki/persons/germany/Niklas Luhmann.md",
     "aliases": [
       "尼克拉斯·卢曼",
@@ -3533,6 +3951,7 @@
   },
   {
     "title": "Wolfgang Klafki",
+    "type": "person",
     "path": "wiki/persons/germany/Wolfgang Klafki.md",
     "aliases": [
       "沃尔夫冈·克拉夫基"
@@ -3540,6 +3959,7 @@
   },
   {
     "title": "Plato",
+    "type": "person",
     "path": "wiki/persons/greece/Plato.md",
     "aliases": [
       "柏拉图"
@@ -3547,6 +3967,7 @@
   },
   {
     "title": "Socrates",
+    "type": "person",
     "path": "wiki/persons/greece/Socrates.md",
     "aliases": [
       "苏格拉底"
@@ -3554,6 +3975,7 @@
   },
   {
     "title": "Ellen Hazelkorn",
+    "type": "person",
     "path": "wiki/persons/ireland/Ellen Hazelkorn.md",
     "aliases": [
       "埃伦·黑兹尔科恩"
@@ -3561,6 +3983,7 @@
   },
   {
     "title": "Akira Miyake",
+    "type": "person",
     "path": "wiki/persons/japan/Akira Miyake.md",
     "aliases": [
       "阿基拉·三宅"
@@ -3568,6 +3991,7 @@
   },
   {
     "title": "Geert Hofstede",
+    "type": "person",
     "path": "wiki/persons/netherlands/Geert Hofstede.md",
     "aliases": [
       "吉尔特·霍夫斯泰德"
@@ -3575,6 +3999,7 @@
   },
   {
     "title": "Gert Biesta",
+    "type": "person",
     "path": "wiki/persons/netherlands/Gert Biesta.md",
     "aliases": [
       "格特·比斯塔"
@@ -3582,6 +4007,7 @@
   },
   {
     "title": "John Hattie",
+    "type": "person",
     "path": "wiki/persons/new-zealand/John Hattie.md",
     "aliases": [
       "约翰·哈蒂",
@@ -3591,6 +4017,7 @@
   },
   {
     "title": "Jorunn Møller",
+    "type": "person",
     "path": "wiki/persons/norway/Jorunn Møller.md",
     "aliases": [
       "约伦·默勒"
@@ -3598,6 +4025,7 @@
   },
   {
     "title": "Thomas Nordahl",
+    "type": "person",
     "path": "wiki/persons/norway/Thomas Nordahl.md",
     "aliases": [
       "托马斯·诺达尔",
@@ -3606,6 +4034,7 @@
   },
   {
     "title": "Jean Piaget",
+    "type": "person",
     "path": "wiki/persons/switzerland/Jean Piaget.md",
     "aliases": [
       "让·皮亚杰",
@@ -3614,6 +4043,7 @@
   },
   {
     "title": "Norberto Bottani",
+    "type": "person",
     "path": "wiki/persons/switzerland/Norberto Bottani.md",
     "aliases": [
       "诺伯托·博塔尼"
@@ -3621,6 +4051,7 @@
   },
   {
     "title": "Chen Kuan-Hsing",
+    "type": "person",
     "path": "wiki/persons/taiwan/Chen Kuan-Hsing.md",
     "aliases": [
       "陈光兴"
@@ -3628,6 +4059,7 @@
   },
   {
     "title": "Adrian Simpson",
+    "type": "person",
     "path": "wiki/persons/uk/Adrian Simpson.md",
     "aliases": [
       "阿德里安·辛普森"
@@ -3635,6 +4067,7 @@
   },
   {
     "title": "Basil Bernstein",
+    "type": "person",
     "path": "wiki/persons/uk/Basil Bernstein.md",
     "aliases": [
       "巴兹尔·伯恩斯坦"
@@ -3642,6 +4075,7 @@
   },
   {
     "title": "Bertrand Russell",
+    "type": "person",
     "path": "wiki/persons/uk/Bertrand Russell.md",
     "aliases": [
       "罗素",
@@ -3650,6 +4084,7 @@
   },
   {
     "title": "Bob Jessop",
+    "type": "person",
     "path": "wiki/persons/uk/Bob Jessop.md",
     "aliases": [
       "鲍勃·杰索普"
@@ -3657,6 +4092,7 @@
   },
   {
     "title": "Christopher Day",
+    "type": "person",
     "path": "wiki/persons/uk/Christopher Day.md",
     "aliases": [
       "克里斯托弗·戴"
@@ -3664,6 +4100,7 @@
   },
   {
     "title": "David Phillips",
+    "type": "person",
     "path": "wiki/persons/uk/David Phillips.md",
     "aliases": [
       "大卫·菲利普斯"
@@ -3671,6 +4108,7 @@
   },
   {
     "title": "Doreen Massey",
+    "type": "person",
     "path": "wiki/persons/uk/Doreen Massey.md",
     "aliases": [
       "多琳·马西"
@@ -3678,6 +4116,7 @@
   },
   {
     "title": "Dylan Wiliam",
+    "type": "person",
     "path": "wiki/persons/uk/Dylan Wiliam.md",
     "aliases": [
       "迪伦·威廉"
@@ -3685,6 +4124,7 @@
   },
   {
     "title": "Gary Thomas",
+    "type": "person",
     "path": "wiki/persons/uk/Gary Thomas.md",
     "aliases": [
       "加里·托马斯"
@@ -3692,6 +4132,7 @@
   },
   {
     "title": "George Berkeley",
+    "type": "person",
     "path": "wiki/persons/uk/George Berkeley.md",
     "aliases": [
       "贝克莱",
@@ -3700,6 +4141,7 @@
   },
   {
     "title": "Gerald Grace",
+    "type": "person",
     "path": "wiki/persons/uk/Gerald Grace.md",
     "aliases": [
       "杰拉尔德·格雷斯"
@@ -3707,6 +4149,7 @@
   },
   {
     "title": "Helen Gunter",
+    "type": "person",
     "path": "wiki/persons/uk/Helen Gunter.md",
     "aliases": [
       "海伦·冈特"
@@ -3714,6 +4157,7 @@
   },
   {
     "title": "John Locke",
+    "type": "person",
     "path": "wiki/persons/uk/John Locke.md",
     "aliases": [
       "洛克",
@@ -3722,6 +4166,7 @@
   },
   {
     "title": "Julian Huxley",
+    "type": "person",
     "path": "wiki/persons/uk/Julian Huxley.md",
     "aliases": [
       "朱利安·赫胥黎"
@@ -3729,6 +4174,7 @@
   },
   {
     "title": "Julian Williams",
+    "type": "person",
     "path": "wiki/persons/uk/Julian Williams.md",
     "aliases": [
       "朱利安·威廉斯"
@@ -3736,6 +4182,7 @@
   },
   {
     "title": "Julie Nelson",
+    "type": "person",
     "path": "wiki/persons/uk/Julie Nelson.md",
     "aliases": [
       "朱莉·纳尔逊"
@@ -3743,6 +4190,7 @@
   },
   {
     "title": "Kimberly Ochs",
+    "type": "person",
     "path": "wiki/persons/uk/Kimberly Ochs.md",
     "aliases": [
       "金伯莉·奥克斯"
@@ -3750,6 +4198,7 @@
   },
   {
     "title": "Maria Pampaka",
+    "type": "person",
     "path": "wiki/persons/uk/Maria Pampaka.md",
     "aliases": [
       "玛丽亚·潘帕卡"
@@ -3757,6 +4206,7 @@
   },
   {
     "title": "Matt Homer",
+    "type": "person",
     "path": "wiki/persons/uk/Matt Homer.md",
     "aliases": [
       "马特·霍默"
@@ -3764,6 +4214,7 @@
   },
   {
     "title": "Nancy Cartwright",
+    "type": "person",
     "path": "wiki/persons/uk/Nancy Cartwright.md",
     "aliases": [
       "南希·卡特赖特"
@@ -3771,6 +4222,7 @@
   },
   {
     "title": "Nick Cowen",
+    "type": "person",
     "path": "wiki/persons/uk/Nick Cowen.md",
     "aliases": [
       "尼克·考恩"
@@ -3778,6 +4230,7 @@
   },
   {
     "title": "Paul Morris",
+    "type": "person",
     "path": "wiki/persons/uk/Paul Morris.md",
     "aliases": [
       "保罗·莫里斯"
@@ -3785,6 +4238,7 @@
   },
   {
     "title": "Ray Pawson",
+    "type": "person",
     "path": "wiki/persons/uk/Ray Pawson.md",
     "aliases": [
       "雷·波森"
@@ -3792,6 +4246,7 @@
   },
   {
     "title": "Robert Cowen",
+    "type": "person",
     "path": "wiki/persons/uk/Robert Cowen.md",
     "aliases": [
       "罗伯特·考恩"
@@ -3799,6 +4254,7 @@
   },
   {
     "title": "Roy Bhaskar",
+    "type": "person",
     "path": "wiki/persons/uk/Roy Bhaskar.md",
     "aliases": [
       "罗伊·巴斯卡"
@@ -3806,6 +4262,7 @@
   },
   {
     "title": "Sean McCusker",
+    "type": "person",
     "path": "wiki/persons/uk/Sean McCusker.md",
     "aliases": [
       "肖恩·麦卡斯克"
@@ -3813,6 +4270,7 @@
   },
   {
     "title": "Stephen Ball",
+    "type": "person",
     "path": "wiki/persons/uk/Stephen Ball.md",
     "aliases": [
       "斯蒂芬·鲍尔"
@@ -3820,6 +4278,7 @@
   },
   {
     "title": "Terry Wrigley",
+    "type": "person",
     "path": "wiki/persons/uk/Terry Wrigley.md",
     "aliases": [
       "特里·瑞格利"
@@ -3827,6 +4286,7 @@
   },
   {
     "title": "Amelia Peterson",
+    "type": "person",
     "path": "wiki/persons/us/Amelia Peterson.md",
     "aliases": [
       "阿米莉亚·彼得森"
@@ -3834,6 +4294,7 @@
   },
   {
     "title": "Ann Swidler",
+    "type": "person",
     "path": "wiki/persons/us/Ann Swidler.md",
     "aliases": [
       "安·斯威德勒"
@@ -3841,6 +4302,7 @@
   },
   {
     "title": "Anthony Bryk",
+    "type": "person",
     "path": "wiki/persons/us/Anthony Bryk.md",
     "aliases": [
       "安东尼·布赖克"
@@ -3848,6 +4310,7 @@
   },
   {
     "title": "Catherine Lewis",
+    "type": "person",
     "path": "wiki/persons/us/Catherine Lewis.md",
     "aliases": [
       "凯瑟琳·刘易斯"
@@ -3855,6 +4318,7 @@
   },
   {
     "title": "Donald A. Schön",
+    "type": "person",
     "path": "wiki/persons/us/Donald A. Schön.md",
     "aliases": [
       "唐纳德·舍恩"
@@ -3862,6 +4326,7 @@
   },
   {
     "title": "Donna Haraway",
+    "type": "person",
     "path": "wiki/persons/us/Donna Haraway.md",
     "aliases": [
       "唐娜·哈拉维"
@@ -3869,6 +4334,7 @@
   },
   {
     "title": "Gita Steiner-Khamsi",
+    "type": "person",
     "path": "wiki/persons/us/Gita Steiner-Khamsi.md",
     "aliases": [
       "吉塔·施泰纳-卡姆西"
@@ -3876,6 +4342,7 @@
   },
   {
     "title": "Grover Whitehurst",
+    "type": "person",
     "path": "wiki/persons/us/Grover Whitehurst.md",
     "aliases": [
       "格罗弗·怀特赫斯特"
@@ -3883,6 +4350,7 @@
   },
   {
     "title": "Herbert A. Simon",
+    "type": "person",
     "path": "wiki/persons/us/Herbert A. Simon.md",
     "aliases": [
       "赫伯特·A.西蒙"
@@ -3890,6 +4358,7 @@
   },
   {
     "title": "Jacob Cohen",
+    "type": "person",
     "path": "wiki/persons/us/Jacob Cohen.md",
     "aliases": [
       "雅各布·科恩"
@@ -3897,6 +4366,7 @@
   },
   {
     "title": "John W. Meyer",
+    "type": "person",
     "path": "wiki/persons/us/John W. Meyer.md",
     "aliases": [
       "约翰·迈耶"
@@ -3904,6 +4374,7 @@
   },
   {
     "title": "Ken Goodman",
+    "type": "person",
     "path": "wiki/persons/us/Ken Goodman.md",
     "aliases": [
       "肯·古德曼"
@@ -3911,6 +4382,7 @@
   },
   {
     "title": "Kurt Fischer",
+    "type": "person",
     "path": "wiki/persons/us/Kurt Fischer.md",
     "aliases": [
       "库尔特·费舍尔"
@@ -3918,6 +4390,7 @@
   },
   {
     "title": "Larry Cuban",
+    "type": "person",
     "path": "wiki/persons/us/Larry Cuban.md",
     "aliases": [
       "拉里·库班"
@@ -3925,6 +4398,7 @@
   },
   {
     "title": "Marcia Baxter Magolda",
+    "type": "person",
     "path": "wiki/persons/us/Marcia Baxter Magolda.md",
     "aliases": [
       "马西娅·巴克斯特·马戈尔达"
@@ -3932,6 +4406,7 @@
   },
   {
     "title": "Michael Porter",
+    "type": "person",
     "path": "wiki/persons/us/Michael Porter.md",
     "aliases": [
       "迈克尔·波特"
@@ -3939,6 +4414,7 @@
   },
   {
     "title": "Robert Slavin",
+    "type": "person",
     "path": "wiki/persons/us/Robert Slavin.md",
     "aliases": [
       "罗伯特·斯莱文"
@@ -3946,6 +4422,7 @@
   },
   {
     "title": "Australian Curriculum",
+    "type": "fact",
     "path": "wiki/facts/australia/Australian Curriculum.md",
     "aliases": [
       "澳大利亚课程"
@@ -3953,6 +4430,7 @@
   },
   {
     "title": "Gonski Reforms",
+    "type": "fact",
     "path": "wiki/facts/australia/Gonski Reforms.md",
     "aliases": [
       "冈斯基改革"
@@ -3960,6 +4438,7 @@
   },
   {
     "title": "Independent Public Schools (IPS) Western Australia",
+    "type": "fact",
     "path": "wiki/facts/australia/Independent Public Schools (IPS) Western Australia.md",
     "aliases": [
       "西澳独立公立学校",
@@ -3968,6 +4447,7 @@
   },
   {
     "title": "Karmel Report 1973",
+    "type": "fact",
     "path": "wiki/facts/australia/Karmel Report 1973.md",
     "aliases": [
       "卡梅尔报告"
@@ -3975,6 +4455,7 @@
   },
   {
     "title": "Local Schools Local Decisions (NSW)",
+    "type": "fact",
     "path": "wiki/facts/australia/Local Schools Local Decisions (NSW).md",
     "aliases": [
       "地方学校地方决策",
@@ -3983,6 +4464,7 @@
   },
   {
     "title": "My School Website",
+    "type": "fact",
     "path": "wiki/facts/australia/My School Website.md",
     "aliases": [
       "My School",
@@ -3991,6 +4473,7 @@
   },
   {
     "title": "Victorian HITS and Literacy Toolkit 2017",
+    "type": "fact",
     "path": "wiki/facts/australia/Victorian HITS and Literacy Toolkit 2017.md",
     "aliases": [
       "维州HITS与读写工具包",
@@ -3999,6 +4482,7 @@
   },
   {
     "title": "French-Speaking Belgium Education System",
+    "type": "fact",
     "path": "wiki/facts/belgium/French-Speaking Belgium Education System.md",
     "aliases": [
       "法语比利时教育系统",
@@ -4008,6 +4492,7 @@
   },
   {
     "title": "Grade Retention in French-Speaking Belgium",
+    "type": "fact",
     "path": "wiki/facts/belgium/Grade Retention in French-Speaking Belgium.md",
     "aliases": [
       "法语比利时留级",
@@ -4017,6 +4502,7 @@
   },
   {
     "title": "Pact for Educational Excellence",
+    "type": "fact",
     "path": "wiki/facts/belgium/Pact for Educational Excellence.md",
     "aliases": [
       "教育卓越公约",
@@ -4025,6 +4511,7 @@
   },
   {
     "title": "Jerudong International School Establishment (Brunei 1997)",
+    "type": "fact",
     "path": "wiki/facts/brunei/Jerudong International School Establishment (Brunei 1997).md",
     "aliases": [
       "Jerudong International School",
@@ -4034,6 +4521,7 @@
   },
   {
     "title": "Academic Ranking of World Universities (ARWU)",
+    "type": "fact",
     "path": "wiki/facts/china/Academic Ranking of World Universities (ARWU).md",
     "aliases": [
       "世界大学学术排名",
@@ -4045,6 +4533,7 @@
   },
   {
     "title": "China Social Credit System",
+    "type": "fact",
     "path": "wiki/facts/china/China Social Credit System.md",
     "aliases": [
       "中国社会信用体系",
@@ -4054,6 +4543,7 @@
   },
   {
     "title": "Civil Service Examination",
+    "type": "fact",
     "path": "wiki/facts/china/Civil Service Examination.md",
     "aliases": [
       "科举",
@@ -4064,6 +4554,7 @@
   },
   {
     "title": "Confucian Revival in China",
+    "type": "fact",
     "path": "wiki/facts/china/Confucian Revival in China.md",
     "aliases": [
       "中国儒家复兴",
@@ -4073,6 +4564,7 @@
   },
   {
     "title": "ECNU Declaration on Evidence-Based Research 2017",
+    "type": "fact",
     "path": "wiki/facts/china/ECNU Declaration on Evidence-Based Research 2017.md",
     "aliases": [
       "华东师大循证研究宣言",
@@ -4081,6 +4573,7 @@
   },
   {
     "title": "Great Firewall of China",
+    "type": "fact",
     "path": "wiki/facts/china/Great Firewall of China.md",
     "aliases": [
       "中国防火长城",
@@ -4090,6 +4583,7 @@
   },
   {
     "title": "Late Qing Borrowing of Japanese Education",
+    "type": "fact",
     "path": "wiki/facts/china/Late Qing Borrowing of Japanese Education.md",
     "aliases": [
       "晚清借鉴日本教育"
@@ -4097,6 +4591,7 @@
   },
   {
     "title": "Thousand Talents Program",
+    "type": "fact",
     "path": "wiki/facts/china/Thousand Talents Program.md",
     "aliases": [
       "千人计划",
@@ -4105,6 +4600,7 @@
   },
   {
     "title": "China Basic Education Curriculum Reform 2001",
+    "type": "fact",
     "path": "wiki/facts/china/China Basic Education Curriculum Reform 2001.md",
     "aliases": [
       "中国基础教育课程改革2001",
@@ -4114,6 +4610,7 @@
   },
   {
     "title": "China College Graduate Employment Reform 1986-1997",
+    "type": "fact",
     "path": "wiki/facts/china/China College Graduate Employment Reform 1986-1997.md",
     "aliases": [
       "中国高校毕业生就业制度改革 1986-1997",
@@ -4123,6 +4620,7 @@
   },
   {
     "title": "Recommendation-Based Graduate Admission System",
+    "type": "fact",
     "path": "wiki/facts/china/Recommendation-Based Graduate Admission System.md",
     "aliases": [
       "推荐免试研究生制度",
@@ -4133,6 +4631,7 @@
   },
   {
     "title": "Three Excellences (San Hao Sheng)",
+    "type": "fact",
     "path": "wiki/facts/china/Three Excellences (San Hao Sheng).md",
     "aliases": [
       "三好生",
@@ -4143,6 +4642,7 @@
   },
   {
     "title": "Hattie på dansk 2017",
+    "type": "fact",
     "path": "wiki/facts/denmark/Hattie på dansk 2017.md",
     "aliases": [
       "丹麦版可见学习"
@@ -4150,6 +4650,7 @@
   },
   {
     "title": "SFI Report 2013",
+    "type": "fact",
     "path": "wiki/facts/denmark/SFI Report 2013.md",
     "aliases": [
       "SFI报告2013"
@@ -4157,6 +4658,7 @@
   },
   {
     "title": "Danish Clearinghouse for Educational Research",
+    "type": "fact",
     "path": "wiki/facts/denmark/Danish Clearinghouse for Educational Research.md",
     "aliases": [
       "丹麦教育研究清算中心",
@@ -4165,6 +4667,7 @@
   },
   {
     "title": "Danish Public School Reform 2014",
+    "type": "fact",
     "path": "wiki/facts/denmark/Danish Public School Reform 2014.md",
     "aliases": [
       "丹麦公立学校改革2014"
@@ -4172,6 +4675,7 @@
   },
   {
     "title": "YOUNG_ADULLLT",
+    "type": "fact",
     "path": "wiki/facts/eu/YOUNG_ADULLLT.md",
     "aliases": [
       "YOUNG_ADULLLT 项目",
@@ -4180,6 +4684,7 @@
   },
   {
     "title": "EU Evidence-Informed Education Policy Initiatives",
+    "type": "fact",
     "path": "wiki/facts/eu/EU Evidence-Informed Education Policy Initiatives.md",
     "aliases": [
       "欧盟证据知情教育政策倡议",
@@ -4190,6 +4695,7 @@
   },
   {
     "title": "EU Key Competences for Lifelong Learning 2018",
+    "type": "fact",
     "path": "wiki/facts/eu/EU Key Competences for Lifelong Learning 2018.md",
     "aliases": [
       "Council Recommendation of 22 May 2018 on Key Competences for Lifelong Learning",
@@ -4199,6 +4705,7 @@
   },
   {
     "title": "EU Skills Agenda",
+    "type": "fact",
     "path": "wiki/facts/eu/EU Skills Agenda.md",
     "aliases": [
       "欧盟技能议程",
@@ -4208,6 +4715,7 @@
   },
   {
     "title": "Europe 2020 Strategy",
+    "type": "fact",
     "path": "wiki/facts/eu/Europe 2020 Strategy.md",
     "aliases": [
       "欧洲2020战略",
@@ -4217,6 +4725,7 @@
   },
   {
     "title": "Horizon 2020 SSH Integration",
+    "type": "fact",
     "path": "wiki/facts/eu/Horizon 2020 SSH Integration.md",
     "aliases": [
       "地平线2020 SSH整合",
@@ -4225,6 +4734,7 @@
   },
   {
     "title": "Horizon Europe Missions",
+    "type": "fact",
     "path": "wiki/facts/eu/Horizon Europe Missions.md",
     "aliases": [
       "地平线欧洲使命",
@@ -4233,6 +4743,7 @@
   },
   {
     "title": "Innovation Union",
+    "type": "fact",
     "path": "wiki/facts/eu/Innovation Union.md",
     "aliases": [
       "创新联盟（欧盟）",
@@ -4241,6 +4752,7 @@
   },
   {
     "title": "Youth Guarantee Scheme",
+    "type": "fact",
     "path": "wiki/facts/eu/Youth Guarantee Scheme.md",
     "aliases": [
       "青年保障计划（欧盟）",
@@ -4249,6 +4761,7 @@
   },
   {
     "title": "SveaSus Project",
+    "type": "fact",
     "path": "wiki/facts/finland/SveaSus Project.md",
     "aliases": [
       "SveaSus项目"
@@ -4256,6 +4769,7 @@
   },
   {
     "title": "Finnish National Core Curriculum 2014",
+    "type": "fact",
     "path": "wiki/facts/finland/Finnish National Core Curriculum 2014.md",
     "aliases": [
       "芬兰国家核心课程2014"
@@ -4263,6 +4777,7 @@
   },
   {
     "title": "French Class Size Reduction 2017",
+    "type": "fact",
     "path": "wiki/facts/france/French Class Size Reduction 2017.md",
     "aliases": [
       "法国2017年班额缩减政策",
@@ -4271,6 +4786,7 @@
   },
   {
     "title": "Education at a Glance (EAG)",
+    "type": "fact",
     "path": "wiki/facts/global/Education at a Glance (EAG).md",
     "aliases": [
       "教育概览",
@@ -4279,6 +4795,7 @@
   },
   {
     "title": "Education City Doha",
+    "type": "fact",
     "path": "wiki/facts/global/Education City Doha.md",
     "aliases": [
       "多哈教育城",
@@ -4287,6 +4804,7 @@
   },
   {
     "title": "INES Lugano General Assembly 1991",
+    "type": "fact",
     "path": "wiki/facts/global/INES Lugano General Assembly 1991.md",
     "aliases": [
       "INES卢加诺大会1991"
@@ -4294,6 +4812,7 @@
   },
   {
     "title": "International Baccalaureate (IB)",
+    "type": "fact",
     "path": "wiki/facts/global/International Baccalaureate (IB).md",
     "aliases": [
       "国际文凭",
@@ -4305,6 +4824,7 @@
   },
   {
     "title": "International Indicators of Education Systems (INES)",
+    "type": "fact",
     "path": "wiki/facts/global/International Indicators of Education Systems (INES).md",
     "aliases": [
       "国际教育系统指标",
@@ -4313,6 +4833,7 @@
   },
   {
     "title": "ISSPP Project",
+    "type": "fact",
     "path": "wiki/facts/global/ISSPP Project.md",
     "aliases": [
       "ISSPP项目"
@@ -4320,6 +4841,7 @@
   },
   {
     "title": "Minerva University",
+    "type": "fact",
     "path": "wiki/facts/global/Minerva University.md",
     "aliases": [
       "密涅瓦大学"
@@ -4327,6 +4849,7 @@
   },
   {
     "title": "OECD AHELO Project",
+    "type": "fact",
     "path": "wiki/facts/global/OECD AHELO Project.md",
     "aliases": [
       "AHELO",
@@ -4336,6 +4859,7 @@
   },
   {
     "title": "PISA",
+    "type": "fact",
     "path": "wiki/facts/global/PISA.md",
     "aliases": [
       "国际学生评估项目",
@@ -4344,6 +4868,7 @@
   },
   {
     "title": "Regional University Alliances",
+    "type": "fact",
     "path": "wiki/facts/global/Regional University Alliances.md",
     "aliases": [
       "区域大学联盟"
@@ -4351,6 +4876,7 @@
   },
   {
     "title": "Australia in the Asian Century White Paper 2012",
+    "type": "fact",
     "path": "wiki/facts/global/Australia in the Asian Century White Paper 2012.md",
     "aliases": [
       "Australia in the Asian Century",
@@ -4361,6 +4887,7 @@
   },
   {
     "title": "Campbell Collaboration",
+    "type": "fact",
     "path": "wiki/facts/global/Campbell Collaboration.md",
     "aliases": [
       "坎贝尔协作组织",
@@ -4369,6 +4896,7 @@
   },
   {
     "title": "GATS and Trade in Education Services",
+    "type": "fact",
     "path": "wiki/facts/global/GATS and Trade in Education Services.md",
     "aliases": [
       "GATS",
@@ -4379,6 +4907,7 @@
   },
   {
     "title": "OECD Improving School Leadership Project 2006",
+    "type": "fact",
     "path": "wiki/facts/global/OECD Improving School Leadership Project 2006.md",
     "aliases": [
       "OECD改进学校领导力项目"
@@ -4386,6 +4915,7 @@
   },
   {
     "title": "THE Impact Ranking 2019",
+    "type": "fact",
     "path": "wiki/facts/global/THE Impact Ranking 2019.md",
     "aliases": [
       "THE世界大学影响力排名",
@@ -4395,6 +4925,7 @@
   },
   {
     "title": "UN Sustainable Development Goals 2015",
+    "type": "fact",
     "path": "wiki/facts/global/UN Sustainable Development Goals 2015.md",
     "aliases": [
       "联合国可持续发展目标",
@@ -4405,6 +4936,7 @@
   },
   {
     "title": "2012 Moral and National Education Controversy",
+    "type": "fact",
     "path": "wiki/facts/hongkong/2012 Moral and National Education Controversy.md",
     "aliases": [
       "2012国民教育争议"
@@ -4412,6 +4944,7 @@
   },
   {
     "title": "2019 Hong Kong Protests and Education",
+    "type": "fact",
     "path": "wiki/facts/hongkong/2019 Hong Kong Protests and Education.md",
     "aliases": [
       "2019香港抗议与教育"
@@ -4419,6 +4952,7 @@
   },
   {
     "title": "English Schools Foundation Hong Kong",
+    "type": "fact",
     "path": "wiki/facts/hongkong/English Schools Foundation Hong Kong.md",
     "aliases": [
       "ESF",
@@ -4428,6 +4962,7 @@
   },
   {
     "title": "National Security Law Impact on Hong Kong Education",
+    "type": "fact",
     "path": "wiki/facts/hongkong/National Security Law Impact on Hong Kong Education.md",
     "aliases": [
       "国安法对香港教育的影响"
@@ -4435,6 +4970,7 @@
   },
   {
     "title": "Replacement of LS by CSD 2021",
+    "type": "fact",
     "path": "wiki/facts/hongkong/Replacement of LS by CSD 2021.md",
     "aliases": [
       "2021通识改公民与社会发展"
@@ -4442,6 +4978,7 @@
   },
   {
     "title": "Symposium on International Teaching 2007",
+    "type": "fact",
     "path": "wiki/facts/hongkong/Symposium on International Teaching 2007.md",
     "aliases": [
       "国际教学研讨会2007"
@@ -4449,6 +4986,7 @@
   },
   {
     "title": "Citizenship and Social Development (Hong Kong)",
+    "type": "fact",
     "path": "wiki/facts/hongkong/Citizenship and Social Development (Hong Kong).md",
     "aliases": [
       "公民与社会发展科",
@@ -4457,6 +4995,7 @@
   },
   {
     "title": "Introduction of Liberal Studies 2009",
+    "type": "fact",
     "path": "wiki/facts/hongkong/Introduction of Liberal Studies 2009.md",
     "aliases": [
       "2009通识教育科引入"
@@ -4464,6 +5003,7 @@
   },
   {
     "title": "Liberal Studies (Hong Kong)",
+    "type": "fact",
     "path": "wiki/facts/hongkong/Liberal Studies (Hong Kong).md",
     "aliases": [
       "香港通识教育科",
@@ -4472,6 +5012,7 @@
   },
   {
     "title": "National Education in Hong Kong",
+    "type": "fact",
     "path": "wiki/facts/hongkong/National Education in Hong Kong.md",
     "aliases": [
       "香港国民教育"
@@ -4479,6 +5020,7 @@
   },
   {
     "title": "Azione LIM 2008",
+    "type": "fact",
     "path": "wiki/facts/italy/Azione LIM 2008.md",
     "aliases": [
       "Interactive Whiteboard Action",
@@ -4488,6 +5030,7 @@
   },
   {
     "title": "Kokutai no Hongi (1937)",
+    "type": "fact",
     "path": "wiki/facts/japan/Kokutai no Hongi (1937).md",
     "aliases": [
       "国体之本义",
@@ -4496,6 +5039,7 @@
   },
   {
     "title": "Cram Schools",
+    "type": "fact",
     "path": "wiki/facts/multi/Cram Schools.md",
     "aliases": [
       "补习班",
@@ -4511,6 +5055,7 @@
   },
   {
     "title": "Sino-American Trade War (2018)",
+    "type": "fact",
     "path": "wiki/facts/multi/Sino-American Trade War (2018).md",
     "aliases": [
       "中美贸易战",
@@ -4520,6 +5065,7 @@
   },
   {
     "title": "Transnationalism and America Project SYSU",
+    "type": "fact",
     "path": "wiki/facts/multi/Transnationalism and America Project SYSU.md",
     "aliases": [
       "跨国主义与美国项目",
@@ -4528,6 +5074,7 @@
   },
   {
     "title": "Best Evidence in Brief (BEiB)",
+    "type": "fact",
     "path": "wiki/facts/multi/Best Evidence in Brief (BEiB).md",
     "aliases": [
       "最佳证据简报",
@@ -4536,6 +5083,7 @@
   },
   {
     "title": "Top Institute for Evidence-Based Education Research",
+    "type": "fact",
     "path": "wiki/facts/netherlands/Top Institute for Evidence-Based Education Research.md",
     "aliases": [
       "TIER",
@@ -4544,6 +5092,7 @@
   },
   {
     "title": "Cognition Education (NZ)",
+    "type": "fact",
     "path": "wiki/facts/newzealand/Cognition Education (NZ).md",
     "aliases": [
       "Cognition Education",
@@ -4555,6 +5104,7 @@
   },
   {
     "title": "Manaiakalani Education Trust (NZ 2011)",
+    "type": "fact",
     "path": "wiki/facts/newzealand/Manaiakalani Education Trust (NZ 2011).md",
     "aliases": [
       "Manaiakalani教育信托"
@@ -4562,6 +5112,7 @@
   },
   {
     "title": "Partnership Schools Kura Hourua (NZ 2011)",
+    "type": "fact",
     "path": "wiki/facts/newzealand/Partnership Schools Kura Hourua (NZ 2011).md",
     "aliases": [
       "伙伴学校Kura Hourua",
@@ -4570,6 +5121,7 @@
   },
   {
     "title": "Teach First New Zealand Ako Mātātupu (TFNZ 2011)",
+    "type": "fact",
     "path": "wiki/facts/newzealand/Teach First New Zealand (TFNZ 2011).md",
     "aliases": [
       "Teach First新西兰",
@@ -4578,6 +5130,7 @@
   },
   {
     "title": "Treasury Briefing on Student-Teacher Ratios (NZ 2011)",
+    "type": "fact",
     "path": "wiki/facts/newzealand/Treasury Briefing on Student-Teacher Ratios (NZ 2011).md",
     "aliases": [
       "财政部师生比简报"
@@ -4585,6 +5138,7 @@
   },
   {
     "title": "Visible Learning Branding and Global Influences",
+    "type": "fact",
     "path": "wiki/facts/newzealand/Visible Learning Branding and Global Influences.md",
     "aliases": [
       "可见学习品牌化与全球影响"
@@ -4592,6 +5146,7 @@
   },
   {
     "title": "Contestable School Support Services (NZ 2011)",
+    "type": "fact",
     "path": "wiki/facts/newzealand/Contestable School Support Services (NZ 2011).md",
     "aliases": [
       "可竞争学校支持服务"
@@ -4599,6 +5154,7 @@
   },
   {
     "title": "Foundation North Māori and Pasifika Education Initiative (MPEI 2009)",
+    "type": "fact",
     "path": "wiki/facts/newzealand/Foundation North Māori and Pasifika Education Initiative (MPEI 2009).md",
     "aliases": [
       "北方基金会毛利与太平洋岛民教育计划",
@@ -4607,6 +5163,7 @@
   },
   {
     "title": "Learning for Life Report 1989",
+    "type": "fact",
     "path": "wiki/facts/newzealand/Learning for Life Report 1989.md",
     "aliases": [
       "为生活而学习报告"
@@ -4614,6 +5171,7 @@
   },
   {
     "title": "New Zealand National Standards (2009)",
+    "type": "fact",
     "path": "wiki/facts/newzealand/New Zealand National Standards (2009).md",
     "aliases": [
       "新西兰国家标准"
@@ -4621,6 +5179,7 @@
   },
   {
     "title": "The New Zealand Curriculum",
+    "type": "fact",
     "path": "wiki/facts/newzealand/The New Zealand Curriculum.md",
     "aliases": [
       "新西兰课程"
@@ -4628,6 +5187,7 @@
   },
   {
     "title": "The Scott Report 1986",
+    "type": "fact",
     "path": "wiki/facts/newzealand/The Scott Report 1986.md",
     "aliases": [
       "斯科特报告"
@@ -4635,6 +5195,7 @@
   },
   {
     "title": "Tomorrow's Schools Reforms (NZ 1989)",
+    "type": "fact",
     "path": "wiki/facts/newzealand/Tomorrow's Schools Reforms (NZ 1989).md",
     "aliases": [
       "明日学校改革",
@@ -4643,6 +5204,7 @@
   },
   {
     "title": "Russian Translation of Visible Learning 2017",
+    "type": "fact",
     "path": "wiki/facts/russia/Russian Translation of Visible Learning 2017.md",
     "aliases": [
       "俄文版可见学习"
@@ -4650,6 +5212,7 @@
   },
   {
     "title": "Singapore Education Hub Policy",
+    "type": "fact",
     "path": "wiki/facts/singapore/Singapore Education Hub Policy.md",
     "aliases": [
       "新加坡教育枢纽政策",
@@ -4661,6 +5224,7 @@
   },
   {
     "title": "Visible Learning in Sweden",
+    "type": "fact",
     "path": "wiki/facts/sweden/Visible Learning in Sweden.md",
     "aliases": [
       "瑞典的可见学习"
@@ -4668,6 +5232,7 @@
   },
   {
     "title": "Swedish Institute for Educational Research",
+    "type": "fact",
     "path": "wiki/facts/sweden/Swedish Institute for Educational Research.md",
     "aliases": [
       "瑞典教育研究所",
@@ -4676,6 +5241,7 @@
   },
   {
     "title": "UAE Education Hub Projects",
+    "type": "fact",
     "path": "wiki/facts/uae/UAE Education Hub Projects.md",
     "aliases": [
       "阿联酋教育枢纽项目",
@@ -4685,6 +5251,7 @@
   },
   {
     "title": "Areopagitica (1644)",
+    "type": "fact",
     "path": "wiki/facts/uk/Areopagitica (1644).md",
     "aliases": [
       "论出版自由",
@@ -4694,6 +5261,7 @@
   },
   {
     "title": "Hargreaves 1996 TTA Lecture",
+    "type": "fact",
     "path": "wiki/facts/uk/Hargreaves 1996 TTA Lecture.md",
     "aliases": [
       "哈格里夫斯1996年TTA演讲"
@@ -4701,6 +5269,7 @@
   },
   {
     "title": "Playing for Success",
+    "type": "fact",
     "path": "wiki/facts/uk/Playing for Success.md",
     "aliases": [
       "Playing for Success计划"
@@ -4708,6 +5277,7 @@
   },
   {
     "title": "ResearchED",
+    "type": "fact",
     "path": "wiki/facts/uk/ResearchED.md",
     "aliases": [
       "ResearchED",
@@ -4716,6 +5286,7 @@
   },
   {
     "title": "Centre for the Use of Research and Evidence in Education",
+    "type": "fact",
     "path": "wiki/facts/uk/Centre for the Use of Research and Evidence in Education.md",
     "aliases": [
       "CUREE",
@@ -4724,6 +5295,7 @@
   },
   {
     "title": "Committee for the Accreditation of Teacher Education",
+    "type": "fact",
     "path": "wiki/facts/uk/Committee for the Accreditation of Teacher Education.md",
     "aliases": [
       "CATE",
@@ -4732,6 +5304,7 @@
   },
   {
     "title": "Education and Inspections Act 2006",
+    "type": "fact",
     "path": "wiki/facts/uk/Education and Inspections Act 2006.md",
     "aliases": [
       "2006教育与督察法案"
@@ -4739,6 +5312,7 @@
   },
   {
     "title": "EEF Teaching and Learning Toolkit",
+    "type": "fact",
     "path": "wiki/facts/uk/EEF Teaching and Learning Toolkit.md",
     "aliases": [
       "EEF教学与学习工具包"
@@ -4746,6 +5320,7 @@
   },
   {
     "title": "Eleven-plus Exam",
+    "type": "fact",
     "path": "wiki/facts/uk/Eleven-plus Exam.md",
     "aliases": [
       "11+考试",
@@ -4754,6 +5329,7 @@
   },
   {
     "title": "EPPI-Centre",
+    "type": "fact",
     "path": "wiki/facts/uk/EPPI-Centre.md",
     "aliases": [
       "Evidence for Policy and Practice Information and Co-ordinating Centre",
@@ -4762,6 +5338,7 @@
   },
   {
     "title": "Evidence-Based Teachers Network",
+    "type": "fact",
     "path": "wiki/facts/uk/Evidence-Based Teachers Network.md",
     "aliases": [
       "EBTN",
@@ -4770,6 +5347,7 @@
   },
   {
     "title": "Grammar School",
+    "type": "fact",
     "path": "wiki/facts/uk/Grammar School.md",
     "aliases": [
       "文法学校"
@@ -4777,6 +5355,7 @@
   },
   {
     "title": "Institute for Effective Education",
+    "type": "fact",
     "path": "wiki/facts/uk/Institute for Effective Education.md",
     "aliases": [
       "IEE",
@@ -4785,6 +5364,7 @@
   },
   {
     "title": "Ofsted",
+    "type": "fact",
     "path": "wiki/facts/uk/Ofsted.md",
     "aliases": [
       "英国教育标准办公室",
@@ -4793,6 +5373,7 @@
   },
   {
     "title": "Rose Report 2006",
+    "type": "fact",
     "path": "wiki/facts/uk/Rose Report 2006.md",
     "aliases": [
       "罗斯报告"
@@ -4800,6 +5381,7 @@
   },
   {
     "title": "Selective Schools Expansion Fund 2018",
+    "type": "fact",
     "path": "wiki/facts/uk/Selective Schools Expansion Fund 2018.md",
     "aliases": [
       "选择性学校扩张基金"
@@ -4807,6 +5389,7 @@
   },
   {
     "title": "What Works Network (UK)",
+    "type": "fact",
     "path": "wiki/facts/uk/What Works Network (UK).md",
     "aliases": [
       "英国What Works网络"
@@ -4814,6 +5397,7 @@
   },
   {
     "title": "A Nation at Risk 1983",
+    "type": "fact",
     "path": "wiki/facts/us/A Nation at Risk 1983.md",
     "aliases": [
       "国家处于危险中"
@@ -4821,6 +5405,7 @@
   },
   {
     "title": "American Attraction to Japanese Education 1980s",
+    "type": "fact",
     "path": "wiki/facts/us/American Attraction to Japanese Education 1980s.md",
     "aliases": [
       "1980年代美国对日本教育的兴趣"
@@ -4828,6 +5413,7 @@
   },
   {
     "title": "Best Evidence Encyclopedia (BEE)",
+    "type": "fact",
     "path": "wiki/facts/us/Best Evidence Encyclopedia (BEE).md",
     "aliases": [
       "最佳证据百科",
@@ -4836,6 +5422,7 @@
   },
   {
     "title": "Blueprints for Healthy Youth Development",
+    "type": "fact",
     "path": "wiki/facts/us/Blueprints for Healthy Youth Development.md",
     "aliases": [
       "健康青年发展蓝图"
@@ -4843,6 +5430,7 @@
   },
   {
     "title": "California Class Size Reduction 1996",
+    "type": "fact",
     "path": "wiki/facts/us/California Class Size Reduction 1996.md",
     "aliases": [
       "加州缩小班额政策"
@@ -4850,6 +5438,7 @@
   },
   {
     "title": "California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)",
+    "type": "fact",
     "path": "wiki/facts/us/California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC).md",
     "aliases": [
       "加州儿童社会与经济福祉循证清算中心",
@@ -4858,6 +5447,7 @@
   },
   {
     "title": "Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)",
+    "type": "fact",
     "path": "wiki/facts/us/Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR).md",
     "aliases": [
       "军人家庭准备证据清算中心",
@@ -4866,6 +5456,7 @@
   },
   {
     "title": "CNCS Evidence Exchange (EE)",
+    "type": "fact",
     "path": "wiki/facts/us/CNCS Evidence Exchange (EE).md",
     "aliases": [
       "CNCS证据交流平台",
@@ -4874,6 +5465,7 @@
   },
   {
     "title": "Coleman Report 1966",
+    "type": "fact",
     "path": "wiki/facts/us/Coleman Report 1966.md",
     "aliases": [
       "科尔曼报告"
@@ -4881,6 +5473,7 @@
   },
   {
     "title": "Collaborative for Academic Social and Emotional Learning Guide (CASEL)",
+    "type": "fact",
     "path": "wiki/facts/us/Collaborative for Academic Social and Emotional Learning Guide (CASEL).md",
     "aliases": [
       "学术社会与情感学习协作组织指南",
@@ -4889,6 +5482,7 @@
   },
   {
     "title": "Communities in Schools (CIS)",
+    "type": "fact",
     "path": "wiki/facts/us/Communities in Schools (CIS).md",
     "aliases": [
       "学校中的社区",
@@ -4897,6 +5491,7 @@
   },
   {
     "title": "Creation of REES 2018",
+    "type": "fact",
     "path": "wiki/facts/us/Creation of REES 2018.md",
     "aliases": [
       "REES设立"
@@ -4904,6 +5499,7 @@
   },
   {
     "title": "Daubert v. Merrell Dow Pharmaceuticals (1993)",
+    "type": "fact",
     "path": "wiki/facts/us/Daubert v Merrell Dow Pharmaceuticals 1993.md",
     "aliases": [
       "道伯特诉默雷尔道制药案",
@@ -4912,6 +5508,7 @@
   },
   {
     "title": "ESSA 2015 Evidence Standards",
+    "type": "fact",
     "path": "wiki/facts/us/ESSA 2015 Evidence Standards.md",
     "aliases": [
       "ESSA证据标准"
@@ -4919,6 +5516,7 @@
   },
   {
     "title": "Home Visiting Evidence of Effectiveness (HomVEE)",
+    "type": "fact",
     "path": "wiki/facts/us/Home Visiting Evidence of Effectiveness (HomVEE).md",
     "aliases": [
       "家访效果证据",
@@ -4927,6 +5525,7 @@
   },
   {
     "title": "Investing in Innovation (i3) Program",
+    "type": "fact",
     "path": "wiki/facts/us/Investing in Innovation (i3) Program.md",
     "aliases": [
       "创新投资项目",
@@ -4935,6 +5534,7 @@
   },
   {
     "title": "National Dropout Prevention Center (NDPC)",
+    "type": "fact",
     "path": "wiki/facts/us/National Dropout Prevention Center (NDPC).md",
     "aliases": [
       "全国防辍学中心",
@@ -4943,6 +5543,7 @@
   },
   {
     "title": "Open Court Reading",
+    "type": "fact",
     "path": "wiki/facts/us/Open Court Reading.md",
     "aliases": [
       "Open Court阅读教材"
@@ -4950,6 +5551,7 @@
   },
   {
     "title": "Peer-Assisted Learning Strategies (PALS)",
+    "type": "fact",
     "path": "wiki/facts/us/Peer-Assisted Learning Strategies (PALS).md",
     "aliases": [
       "同伴辅助学习策略",
@@ -4958,6 +5560,7 @@
   },
   {
     "title": "Promise Neighborhoods Research Consortium (PNRC)",
+    "type": "fact",
     "path": "wiki/facts/us/Promise Neighborhoods Research Consortium (PNRC).md",
     "aliases": [
       "希望社区研究联盟",
@@ -4966,6 +5569,7 @@
   },
   {
     "title": "Promising Practices Network (PPN)",
+    "type": "fact",
     "path": "wiki/facts/us/Promising Practices Network (PPN).md",
     "aliases": [
       "经验做法网络",
@@ -4974,6 +5578,7 @@
   },
   {
     "title": "Quantum Opportunity Program (QOP)",
+    "type": "fact",
     "path": "wiki/facts/us/Quantum Opportunity Program (QOP).md",
     "aliases": [
       "量子机会计划",
@@ -4982,6 +5587,7 @@
   },
   {
     "title": "Social Programs That Work (SPTW)",
+    "type": "fact",
     "path": "wiki/facts/us/Social Programs That Work (SPTW).md",
     "aliases": [
       "有效社会项目",
@@ -4990,6 +5596,7 @@
   },
   {
     "title": "Sputnik Shock 1957",
+    "type": "fact",
     "path": "wiki/facts/us/Sputnik Shock 1957.md",
     "aliases": [
       "斯普特尼克冲击"
@@ -4997,6 +5604,7 @@
   },
   {
     "title": "Success for All",
+    "type": "fact",
     "path": "wiki/facts/us/Success for All.md",
     "aliases": [
       "全面成功计划"
@@ -5004,6 +5612,7 @@
   },
   {
     "title": "Tennessee STAR Project 1985-1989",
+    "type": "fact",
     "path": "wiki/facts/us/Tennessee STAR Project 1985-1989.md",
     "aliases": [
       "田纳西STAR项目",
@@ -5012,6 +5621,7 @@
   },
   {
     "title": "Theory Movement in Educational Administration",
+    "type": "fact",
     "path": "wiki/facts/us/Theory Movement in Educational Administration.md",
     "aliases": [
       "教育行政理论运动"
@@ -5019,6 +5629,7 @@
   },
   {
     "title": "University of Kentucky Top-20 Plan",
+    "type": "fact",
     "path": "wiki/facts/us/University of Kentucky Top-20 Plan.md",
     "aliases": [
       "肯塔基大学Top-20计划",
@@ -5027,6 +5638,7 @@
   },
   {
     "title": "US-China Economic and Security Review Commission (2000)",
+    "type": "fact",
     "path": "wiki/facts/us/US-China Economic and Security Review Commission (2000).md",
     "aliases": [
       "USCC",
@@ -5035,6 +5647,7 @@
   },
   {
     "title": "What Works Clearinghouse (WWC)",
+    "type": "fact",
     "path": "wiki/facts/us/What Works Clearinghouse (WWC).md",
     "aliases": [
       "何者有效清算中心",
@@ -5043,6 +5656,7 @@
   },
   {
     "title": "Comprehensive School Reform (CSR) Program",
+    "type": "fact",
     "path": "wiki/facts/us/Comprehensive School Reform (CSR) Program.md",
     "aliases": [
       "综合学校改革项目",
@@ -5051,6 +5665,7 @@
   },
   {
     "title": "No Child Left Behind Act 2001",
+    "type": "fact",
     "path": "wiki/facts/us/No Child Left Behind Act 2001.md",
     "aliases": [
       "不让一个孩子掉队法案",
@@ -5059,6 +5674,7 @@
   },
   {
     "title": "Students and Teachers Accessing Tomorrow (STAT)",
+    "type": "fact",
     "path": "wiki/facts/us/Students and Teachers Accessing Tomorrow (STAT).md",
     "aliases": [
       "STAT",
@@ -5067,6 +5683,7 @@
   },
   {
     "title": "WWC SCD Pilot Standards 2010",
+    "type": "fact",
     "path": "wiki/facts/us/WWC SCD Pilot Standards 2010.md",
     "aliases": [
       "WWC单一个案设计试行标准",
@@ -5075,390 +5692,487 @@
   },
   {
     "title": "Argument_Bates_2017_CognitionEducationTrust",
+    "type": "argument",
     "path": "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md"
   },
   {
     "title": "Argument_Li_2012_Cambridge",
+    "type": "argument",
     "path": "wiki/arguments/books/Argument_Li_2012_Cambridge.md"
   },
   {
     "title": "Argument_Amos_2022_Springer",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md"
   },
   {
     "title": "Argument_Boyadjieva_2022_Springer",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Boyadjieva_2022_Springer.md"
   },
   {
     "title": "Argument_Delambre_2022_Springer",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Delambre_2022_Springer.md"
   },
   {
     "title": "Argument_Erfurth_2022_education-hubs",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Erfurth_2022_education-hubs.md"
   },
   {
     "title": "Argument_Hartmann_2022_CorporateEducation",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Hartmann_2022_CorporateEducation.md"
   },
   {
     "title": "Argument_Jornitz_2022_Bildung_algorithmic",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Jornitz_2022_Bildung_algorithmic.md"
   },
   {
     "title": "Argument_Moisio_2022_Springer",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Moisio_2022_Springer.md"
   },
   {
     "title": "Argument_Parreira do Amaral_2022_geopolitics-knowledge",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md"
   },
   {
     "title": "Argument_Parreira do Amaral_2022_Springer",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_Springer.md"
   },
   {
     "title": "Argument_Partaken_2022_Springer",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Partaken_2022_Springer.md"
   },
   {
     "title": "Argument_Rambla_2022_Springer",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rambla_2022_Springer.md"
   },
   {
     "title": "Argument_Rizvi_2022_Springer",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md"
   },
   {
     "title": "Argument_Thompson_2022_Promising_Student",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md"
   },
   {
     "title": "Argument_Zapp_2022_Springer",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md"
   },
   {
     "title": "Argument_Zelinka_2022_SCD_subjectivity",
+    "type": "argument",
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zelinka_2022_SCD_subjectivity.md"
   },
   {
     "title": "Argument_Ryan_2010_ChineseLearner",
+    "type": "argument",
     "path": "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_ChineseLearner.md"
   },
   {
     "title": "Argument_Ryan_2010_HKUP",
+    "type": "argument",
     "path": "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_HKUP.md"
   },
   {
     "title": "Argument_Slethaug_2010_InternationalEducation",
+    "type": "argument",
     "path": "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Slethaug_2010_InternationalEducation.md"
   },
   {
     "title": "Argument_郑_2023_上海三联书店",
+    "type": "argument",
     "path": "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md"
   },
   {
     "title": "Argument_Bolton_2017_ArchPsych",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Bolton_2017_ArchPsych.md"
   },
   {
     "title": "Argument_OConnor_2020_AJLL",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_OConnor_2020_AJLL.md"
   },
   {
     "title": "Argument_Wrigley_2018_BERJ",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Wrigley_2018_BERJ.md"
   },
   {
     "title": "Argument_Schaffar_2024_CogentEdu",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Schaffar_2024_CogentEdu.md"
   },
   {
     "title": "Argument_Yu_2024_CE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Yu_2024_CE.md"
   },
   {
     "title": "Argument_Johnson_2023_CE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Johnson_2023_CE.md"
   },
   {
     "title": "Argument_Gorur_2014_Discourse",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Gorur_2014_Discourse.md"
   },
   {
     "title": "Argument_McKnight_2020_Discourse",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_McKnight_2020_Discourse.md"
   },
   {
     "title": "Argument_Cheung_2021_ROE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Cheung_2021_ROE.md"
   },
   {
     "title": "Argument_Dachet_2021_ROE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Dachet_2021_ROE.md"
   },
   {
     "title": "Argument_Marginson_2025_ROE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Marginson_2025_ROE.md"
   },
   {
     "title": "Argument_Pellegrini_2021_ROE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Pellegrini_2021_ROE.md"
   },
   {
     "title": "Argument_Ross_Morrison_2021_ROE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Ross_Morrison_2021_ROE.md"
   },
   {
     "title": "Argument_Slavin_2021_ROE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Slavin_2021_ROE.md"
   },
   {
     "title": "Argument_Golovchin_2019_ESC",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Golovchin_2019_ESC.md"
   },
   {
     "title": "Argument_Larsen_2019_EducSci",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Larsen_2019_EducSci.md"
   },
   {
     "title": "Argument_Eacott_2015_EPT",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Eacott_2015_EPT.md"
   },
   {
     "title": "Argument_Rømer_2018",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Rømer_2018_EPT.md"
   },
   {
     "title": "Argument_Slavin_2019_EP",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Slavin_2019_EP.md"
   },
   {
     "title": "Argument_Brady_2023_EPR",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Brady_2023_EPR.md"
   },
   {
     "title": "Argument_Nelson_2017_ER",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Nelson_2017_ER.md"
   },
   {
     "title": "Argument_Cowen_2019_ERE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Cowen_2019_ERE.md"
   },
   {
     "title": "Argument_Simpson_2019",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Simpson_2019_ERE.md"
   },
   {
     "title": "Argument_Wiliam_2019",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Wiliam_2019_ERE.md"
   },
   {
     "title": "Argument_Wrigley_2019_ERE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Wrigley_2019_ERE.md"
   },
   {
     "title": "Argument_Kraft_2023_ER",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Kraft_2023_ER.md"
   },
   {
     "title": "Argument_Slavin_2002_ER",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Slavin_2002_ER.md"
   },
   {
     "title": "Argument_Møller_2017",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Møller_2017_EERJ.md"
   },
   {
     "title": "Argument_Berk_2011_ER",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Berk_2011_ER.md"
   },
   {
     "title": "Argument_Wong_2022_HERD",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Wong_2022_HERD.md"
   },
   {
     "title": "Argument_Eacott_2019_IJLE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Eacott_2019_IJLE.md"
   },
   {
     "title": "Argument_Keddie_2020_IJLE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Keddie_2020_IJLE.md"
   },
   {
     "title": "Argument_Pampaka_2016_IJRME",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Pampaka_2016_IJRME.md"
   },
   {
     "title": "Argument_Peterson_2016_IJRME",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Peterson_2016_IJRME.md"
   },
   {
     "title": "Argument_Nielsen_2021",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Nielsen_2021_IRTP.md"
   },
   {
     "title": "Argument_Hitchcock_2015_JBE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Hitchcock_2015_JBE.md"
   },
   {
     "title": "Argument_Terhart_2011_JCS",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Terhart_2011_JCS.md"
   },
   {
     "title": "Argument_Yan_2025_JCS",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Yan_2025_JCS.md"
   },
   {
     "title": "Argument_Blass_2020_JESP",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Blass_2020_JESP.md"
   },
   {
     "title": "Argument_Simpson_2017_JEP",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Simpson_2017_JEP.md"
   },
   {
     "title": "Argument_Eacott_2011_JEAH",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Eacott_2011_JEAH.md"
   },
   {
     "title": "Argument_Keddie_2020_JEAH",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Keddie_2020_JEAH.md"
   },
   {
     "title": "Argument_Zhao_2017_JEC",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Zhao_2017_JEC.md"
   },
   {
     "title": "Argument_Wolf_2020_JREE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Wolf_2020_JREE.md"
   },
   {
     "title": "Argument_Sarbiewska_2019_JSR",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Sarbiewska_2019_JSR.md"
   },
   {
     "title": "Argument_Bergeron_2017_MJE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Bergeron_2017_MJE.md"
   },
   {
     "title": "Argument_Grace_2010_NZJES",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Grace_2010_NZJES.md"
   },
   {
     "title": "Argument_Hattie_2010_NZJES",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Hattie_2010_NZJES.md"
   },
   {
     "title": "Argument_ONeill_2012_NZJES",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_ONeill_2012_NZJES.md"
   },
   {
     "title": "Argument_Snook_2009",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Snook_2009_NZJES.md"
   },
   {
     "title": "Argument_Snook_2010_NZJES",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Snook_2010_NZJES.md"
   },
   {
     "title": "Argument_Knudsen_2017_NordSTEP",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Knudsen_2017_NordSTEP.md"
   },
   {
     "title": "Argument_Qvortrup_2019_NordSTEP",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Qvortrup_2019_NordSTEP.md"
   },
   {
     "title": "Argument_Nielsen_2021_NordPsych",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Nielsen_2021_NordPsych.md"
   },
   {
     "title": "Argument_Allerup_2015_Paideia",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Allerup_2015_Paideia.md"
   },
   {
     "title": "Argument_Fredens_2015_Paideia",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Fredens_2015_Paideia.md"
   },
   {
     "title": "Argument_Hansen_2015_Paideia",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Hansen_2015_Paideia.md"
   },
   {
     "title": "Argument_Hattie_2015_Paideia",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Hattie_2015_Paideia.md"
   },
   {
     "title": "Argument_Håkansson_2015_Paideia",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Håkansson_2015_Paideia.md"
   },
   {
     "title": "Argument_Laursen_2015_Paideia",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Laursen_2015_Paideia.md"
   },
   {
     "title": "Argument_Lekhal_2015_Paideia",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Lekhal_2015_Paideia.md"
   },
   {
     "title": "Argument_Nordahl_2015_Paideia",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Nordahl_2015_Paideia.md"
   },
   {
     "title": "Argument_Qvortrup_2015_Paideia",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Qvortrup_2015_Paideia.md"
   },
   {
     "title": "Argument_Rappleye_2006_RCIE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Rappleye_2006_RCIE.md"
   },
   {
     "title": "Argument_Bainbridge_2022_ROE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Bainbridge_2022_ROE.md"
   },
   {
     "title": "Argument_Wadhwa_2024_RER",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Wadhwa_2024_RER.md"
   },
   {
     "title": "Argument_Hattie_2015_SOTLP",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Hattie_2015_SOTLP.md"
   },
   {
     "title": "Argument_Eacott_2017_SLM",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Eacott_2017_SLM.md"
   },
   {
     "title": "Argument_Hattie_2017_SLM",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Hattie_2017_SLM.md"
   },
   {
     "title": "Argument_Downey_2016_SoE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Downey_2016_SoE.md"
   },
   {
     "title": "Argument_Biesta_2010_SPE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Biesta_2010_SPE.md"
   },
   {
     "title": "Argument_Håkansson_2015_TT",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Håkansson_2015_TT.md"
   },
   {
     "title": "Argument_Ball_2008_SR",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Ball_2008_SR.md"
   },
   {
     "title": "Argument_Wecker_2016_ZfE",
+    "type": "argument",
     "path": "wiki/arguments/journal-articles/Argument_Wecker_2016_ZfE.md"
   },
   {
     "title": "Argument_Cowen_2015_CHESS",
+    "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Cowen_2015_CHESS.md"
   },
   {
     "title": "Argument_ONeill_2016_Report",
+    "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md"
   }
 ]

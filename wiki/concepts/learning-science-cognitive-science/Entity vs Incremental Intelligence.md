@@ -13,7 +13,12 @@ tags:
   - theme/motivation
   - theme/mindset
   - theme/intelligence
-related_concepts: []
+related_concepts:
+  - "[[Learned Helplessness]]"
+  - "[[Nerd (School Peer Culture)]]"
+  - "[[Talent Assumption]]"
+  - "[[Zero-Sum Competition (School)]]"
+  - "[[Intellectual-Social Divide]]"
 related_theories: []
 related_methods: []
 related_persons: []

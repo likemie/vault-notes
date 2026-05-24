@@ -8,7 +8,9 @@ tags:
 - material-fallacies
 - evidence-based-education
 - research-methodology
-related_concepts: []
+related_concepts:
+  - "[[Effect Size]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

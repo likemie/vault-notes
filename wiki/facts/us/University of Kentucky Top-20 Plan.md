@@ -13,7 +13,8 @@ tags:
 - mission
 - region/us
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Global Universities Rankings]]"
 related_theories: []
 related_methods: []
 related_persons: []

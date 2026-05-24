@@ -13,10 +13,13 @@ tags:
 - paradigm/critical
 - paradigm/pragmatist
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Transactional Epistemology]]"
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Schaffar_2024_CogentEdu]]"
 sources: []
 confidence: medium
 status: draft

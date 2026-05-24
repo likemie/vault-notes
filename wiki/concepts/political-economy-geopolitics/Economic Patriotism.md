@@ -10,8 +10,13 @@ tags:
 - spatial-policy
 - urbanization
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[National Competitive Advantage]]"
+  - "[[Spatial Sortings]]"
+  - "[[Rightness]]"
+  - "[[Hub and Flow Imaginaries]]"
+related_theories:
+  - "[[Fixity-Motion Tension]]"
 related_methods: []
 related_persons: []
 related_facts: []

@@ -11,11 +11,22 @@ tags:
 - region/china
 - level/k12
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Global Universities Rankings]]"
+  - "[[International Schools]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[International Education]]"
+  - "[[Chinese Learner]]"
+  - "[[Rightness]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[PISA]]"
+  - "[[Academic Ranking of World Universities (ARWU)]]"
+  - "[[International Baccalaureate (IB)]]"
 related_arguments: []
 sources: []
 part_of: '[[Argument_Ryan_2010_HKUP]]'

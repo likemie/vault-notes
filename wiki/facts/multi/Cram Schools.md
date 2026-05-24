@@ -19,7 +19,10 @@ tags:
   - theme/private-tutoring
   - theme/shadow-education
   - theme/academic-pressure
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Nerd (School Peer Culture)]]"
+  - "[[Examination Hell]]"
 related_theories: []
 related_methods: []
 related_persons: []

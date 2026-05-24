@@ -12,8 +12,14 @@ tags:
   - geopolitics
   - level/higher-ed
   - theme/neoliberalism
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Learning Analytics]]"
+  - "[[Online Self-Assessment]]"
+  - "[[Rightness]]"
+  - "[[Competitiveness in Higher Education]]"
+related_theories:
+  - "[[Societies of Control]]"
 related_methods: []
 related_persons: []
 related_facts: []

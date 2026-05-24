@@ -15,11 +15,20 @@ tags:
 - policy/employment
 - policy/education
 - policy/lifelong-learning
-related_concepts: []
+related_concepts:
+  - "[[Theories of Policy Change]]"
+  - "[[Performance Indicators]]"
+  - "[[Network Governance]]"
+  - "[[Neocorporatism]]"
+  - "[[Selectivity]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Europe 2020 Strategy]]"
+  - "[[Innovation Union]]"
+  - "[[Youth Guarantee Scheme]]"
+  - "[[YOUNG_ADULLLT]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -8,11 +8,14 @@ type: concept
 tags:
 - region/hongkong
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[International Schools]]"
+  - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -9,7 +9,8 @@ tags:
 - bereiter
 - knowledge-building
 - region/canada
-related_concepts: []
+related_concepts:
+  - "[[Dynamic Knowledge and Learning Model]]"
 related_theories: []
 related_methods: []
 related_persons: []

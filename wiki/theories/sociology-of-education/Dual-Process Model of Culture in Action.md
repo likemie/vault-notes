@@ -11,10 +11,19 @@ tags:
 - cultural-sociology
 - cognitive-sociology
 - paradigm/interpretivist
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Habitus]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Graduation Pathway Typology (Zheng)]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Max Weber]]"
+  - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []

@@ -13,11 +13,15 @@ tags:
 - region/australia
 - level/k12
 - ips
-related_concepts: []
+related_concepts:
+  - "[[School Autonomy]]"
+  - "[[New Public Management]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Karmel Report 1973]]"
+  - "[[Local Schools Local Decisions (NSW)]]"
 related_arguments: []
 sources: []
 confidence: medium

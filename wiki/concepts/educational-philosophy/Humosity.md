@@ -12,10 +12,16 @@ tags:
 - decentering
 - ecology
 - mortality
-related_concepts: []
+related_concepts:
+  - "[[Posthumanism]]"
+  - "[[Transhumanism]]"
+  - "[[Humility in Learning]]"
+  - "[[Sympoiesis]]"
+  - "[[Response-ability]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Donna Haraway]]"
 related_facts: []
 related_arguments: []
 sources: []

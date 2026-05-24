@@ -9,11 +9,16 @@ authors: ["Terry Bates"]
 publisher: "Cognition Education Trust"
 citation: "Bates, T. (2017). Darwin's Finch: A Short History of Cognition. Cognition Education Trust."
 tags: [region/new-zealand, source/book, theme/organisational-history, theme/education-marketisation]
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Cognition Education (NZ)]]"
+  - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
+  - "[[Jerudong International School Establishment (Brunei 1997)]]"
+  - "[[Visible Learning Branding and Global Influences]]"
 related_arguments: []
 sources: []
 part_of:

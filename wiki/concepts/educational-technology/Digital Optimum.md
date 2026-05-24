@@ -15,8 +15,15 @@ tags:
   - level/higher-ed
   - theme/digitalization
   - theme/subjectification
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Online Self-Assessment]]"
+  - "[[Professional Judgment]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Rightness]]"
+  - "[[Digital Self]]"
+  - "[[Bildung]]"
+related_theories:
+  - "[[Societies of Control]]"
 related_methods: []
 related_persons: []
 related_facts: []

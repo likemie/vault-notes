@@ -13,12 +13,32 @@ tags:
 - knowledge-based-economization
 - spatial-imaginaries
 - region/global
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Rightness]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[National Competitive Advantage]]"
+  - "[[Economic Patriotism]]"
+  - "[[Spatial Sortings]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[International Education Hubs]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Progressive Neoliberalism]]"
+  - "[[Geopolitical Subject]]"
+related_theories:
+  - "[[Fixity-Motion Tension]]"
+  - "[[Hegemony]]"
+  - "[[Cultural Political Economy]]"
+  - "[[Critical Geopolitics]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Minerva University]]"
+  - "[[Singapore Education Hub Policy]]"
+  - "[[UAE Education Hub Projects]]"
+related_arguments:
+  - "[[Argument_Erfurth_2022_education-hubs]]"
 sources: []
 confidence: low
 status: draft

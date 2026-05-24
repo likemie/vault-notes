@@ -13,11 +13,32 @@ tags:
   - theme/educational-policy
   - theme/key-competences
   - method/document-analysis
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Reform]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Informed Practice]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Reusability Paradox]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Rightness]]"
+  - "[[Shu (Familiarization)]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[Azione LIM 2008]]"
+  - "[[EPPI-Centre]]"
+  - "[[Campbell Collaboration]]"
+  - "[[Danish Clearinghouse for Educational Research]]"
+  - "[[Institute for Effective Education]]"
+  - "[[Swedish Institute for Educational Research]]"
+  - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[Centre for the Use of Research and Evidence in Education]]"
+  - "[[Evidence-Based Teachers Network]]"
+  - "[[EU Key Competences for Lifelong Learning 2018]]"
 related_arguments: []
 sources: []
 part_of: ''

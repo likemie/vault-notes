@@ -13,10 +13,14 @@ tags:
 - region/us
 - level/k12
 related_concepts: []
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Refraction Framework]]"
+related_methods:
+  - "[[Seasonal Comparison]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[A Nation at Risk 1983]]"
+  - "[[No Child Left Behind Act 2001]]"
 related_arguments: []
 sources: []
 confidence: high

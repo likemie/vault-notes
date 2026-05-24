@@ -13,11 +13,14 @@ tags:
 - grammar-schools
 - region/uk
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Selective Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Grammar School]]"
+  - "[[Selective Schools Expansion Fund 2018]]"
 related_arguments: []
 sources: []
 confidence: medium

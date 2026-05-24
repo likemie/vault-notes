@@ -11,7 +11,11 @@ tags:
 - region/denmark
 - level/k12
 - research-report
-related_concepts: []
+related_concepts:
+  - "[[Individualised Instruction]]"
+  - "[[Feedback]]"
+  - "[[Effective Teaching]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

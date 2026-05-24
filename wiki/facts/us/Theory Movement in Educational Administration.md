@@ -12,7 +12,9 @@ tags:
 - region/us
 - level/higher-ed
 - paradigm/positivist
-related_concepts: []
+related_concepts:
+  - "[[Epistemological Break]]"
+  - "[[Epistemological Vigilance]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -13,7 +13,16 @@ tags:
 - privatization
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Champ]]"
+  - "[[Rightness]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Flow]]"
+  - "[[Global Education Industry]]"
+  - "[[International Education Hubs]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Knowledge-Based Economy]]"
 related_theories: []
 related_methods: []
 related_persons: []

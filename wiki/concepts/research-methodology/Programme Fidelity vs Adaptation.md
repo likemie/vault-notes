@@ -11,11 +11,17 @@ tags:
 - programme-fidelity
 - adaptation
 - level/k12
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+related_theories:
+  - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[California Class Size Reduction 1996]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
 sources: []
 confidence: medium

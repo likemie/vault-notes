@@ -13,8 +13,10 @@ tags:
 - external-validity
 - research-methodology
 - evidence-based-education
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[5-3-20 Rule]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
 related_methods: []
 related_persons: []
 related_facts: []

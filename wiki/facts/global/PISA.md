@@ -11,11 +11,15 @@ tags:
   - region/global
   - level/k12
   - subject/assessment
-related_concepts: []
+related_concepts:
+  - "[[Structured Teaching]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Rasch Measurement]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Visible Learning in Sweden]]"
 related_arguments: []
 sources: []
 confidence: medium

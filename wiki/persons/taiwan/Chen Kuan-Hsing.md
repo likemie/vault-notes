@@ -11,10 +11,13 @@ tags:
 - postcolonial-studies
 - deimperialization
 - decolonization
-related_concepts: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Transfer]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Frantz Fanon]]"
 related_arguments: []
 sources: []
 confidence: medium

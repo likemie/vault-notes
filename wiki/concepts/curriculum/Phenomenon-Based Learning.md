@@ -11,11 +11,21 @@ tags:
 - subject/instruction
 - region/finland
 - level/k12
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Problem-Based Learning]]"
+  - "[[Bildung]]"
+  - "[[Didaktik]]"
+  - "[[Atomisation of Knowledge and Skills]]"
+  - "[[Epochal Key Problems]]"
+related_theories:
+  - "[[Phenomenology]]"
+  - "[[Radical Constructivism]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Wolfgang Klafki]]"
+related_facts:
+  - "[[Finnish National Core Curriculum 2014]]"
+  - "[[SveaSus Project]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -9,11 +9,29 @@ tags:
 - region/finland
 - level/higher-ed
 - discipline/political-geography
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Spatial Sortings]]"
+  - "[[Further Education]]"
+  - "[[Corporate Education]]"
+  - "[[Geopolitical Subject]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Classical Geopolitics]]"
+  - "[[National Competitive Advantage]]"
+  - "[[Economic Patriotism]]"
+  - "[[Progressive Neoliberalism]]"
+  - "[[Global Education Industry]]"
+related_theories:
+  - "[[Critical Geopolitics]]"
+  - "[[Fixity-Motion Tension]]"
+  - "[[Cultural Political Economy]]"
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources: []
 confidence: medium
 status: draft

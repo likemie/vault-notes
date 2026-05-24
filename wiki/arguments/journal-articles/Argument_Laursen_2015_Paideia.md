@@ -12,10 +12,18 @@ tags:
 - national-culture
 - region/denmark
 - level/k12
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Effective Teaching]]"
+  - "[[Feedback]]"
+  - "[[Individualised Instruction]]"
+related_theories:
+  - "[[Hofstede's Cultural Dimensions]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Hilbert Meyer]]"
+  - "[[Andreas Helmke]]"
 related_facts: []
 related_arguments: []
 sources: []

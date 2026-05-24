@@ -8,7 +8,9 @@ type: theory
 tags:
 - luhmann
 - paradigm/systems-theory
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Knowledge-Based Economization]]"
 related_theories: []
 related_methods: []
 related_persons: []

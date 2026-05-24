@@ -11,12 +11,15 @@ tags:
 - ontology
 - epistemology
 - paradigm/constructivist
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Wrigley_2018_BERJ]]"
 sources: []
 confidence: medium
 status: draft

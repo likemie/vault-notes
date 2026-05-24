@@ -13,12 +13,31 @@ tags:
 - spatial-turn
 - political-geography
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Classical Geopolitics]]"
+  - "[[Rightness]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Spatial Sortings]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Geopolitical Subject]]"
+  - "[[Economic Patriotism]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Further Education]]"
+  - "[[Corporate Education]]"
+  - "[[National Competitive Advantage]]"
+related_theories:
+  - "[[Fixity-Motion Tension]]"
+  - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Cultural Political Economy]]"
+  - "[[Hegemony]]"
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources: []
 confidence: low
 status: draft

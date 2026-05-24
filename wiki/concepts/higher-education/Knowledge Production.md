@@ -10,10 +10,17 @@ tags:
 - knowledge-economy
 - postcolonial-studies
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Narrative Knowledge]]"
+related_theories:
+  - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Frantz Fanon]]"
+  - "[[Chen Kuan-Hsing]]"
+  - "[[Jean-François Lyotard]]"
 related_facts: []
 related_arguments: []
 sources: []

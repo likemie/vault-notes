@@ -16,10 +16,13 @@ tags:
 - theme/learning
 - theme/ethics
 - theme/metaphysics
-related_concepts: []
+related_concepts:
+  - "[[Certainty of Knowledge]]"
+  - "[[Mind and Its Wonders]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Locke]]"
 related_facts: []
 related_arguments: []
 sources: []

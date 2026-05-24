@@ -12,7 +12,9 @@ tags:
 - posthumanism
 - care-ethics
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Buen Vivir]]"
+  - "[[Posthumanism]]"
 related_theories: []
 related_methods: []
 related_persons: []

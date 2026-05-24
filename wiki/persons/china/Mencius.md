@@ -14,10 +14,16 @@ tags:
 - field/education
 - theory/confucianism
 - school/confucianism
-related_concepts: []
+related_concepts:
+  - "[[Ren]]"
+  - "[[Rightness]]"
+  - "[[Li (Propriety)]]"
+  - "[[Junzi]]"
+  - "[[Take the World Upon Oneself]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources: []

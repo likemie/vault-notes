@@ -10,10 +10,14 @@ tags:
 - theme/spatiality
 - level/higher-ed
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Methodological Nationalism]]"
+  - "[[Methodological Globalism]]"
+  - "[[Space-Making in Higher Education]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Doreen Massey]]"
 related_facts: []
 related_arguments: []
 sources: []

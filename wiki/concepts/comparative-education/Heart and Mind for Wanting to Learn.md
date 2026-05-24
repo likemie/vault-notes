@@ -11,10 +11,13 @@ tags:
 - region/china
 - theme/cross-cultural-learning
 - theme/learning-motivation
-related_concepts: []
+related_concepts:
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Enculturation]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Jin Li]]"
 related_facts: []
 related_arguments: []
 sources: []

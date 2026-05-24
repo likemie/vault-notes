@@ -13,10 +13,21 @@ tags:
 - social-theory
 - paradigm/critical
 - region/france
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Champ]]"
+  - "[[Rightness]]"
+  - "[[Habitus]]"
+  - "[[Intellectual-Social Divide]]"
+  - "[[Nerd (School Peer Culture)]]"
+  - "[[Tongxue]]"
+  - "[[Talent Assumption]]"
+  - "[[Epistemological Break]]"
+related_theories:
+  - "[[Phenomenology]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
+  - "[[Plato]]"
 related_facts: []
 related_arguments: []
 sources:

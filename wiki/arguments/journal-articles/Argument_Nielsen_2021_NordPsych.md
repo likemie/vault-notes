@@ -15,7 +15,8 @@ tags:
 - methodology-critique
 - level/k12
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Technical Rationality]]"
 related_methods: []
 related_persons: []
 related_facts: []

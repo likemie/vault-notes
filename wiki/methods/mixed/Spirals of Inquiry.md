@@ -11,9 +11,11 @@ tags:
 - improvement-science
 - professional-development
 - evidence-informed-practice
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Informed Practice]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Improvement Science]]"
 related_persons: []
 related_facts: []
 related_arguments: []

@@ -11,12 +11,17 @@ tags:
 - political-economy
 - geopolitics
 - theory/critical
-related_concepts: []
+related_concepts:
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[International Education Hubs]]"
+  - "[[Cultural Diplomacy]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Comparative Case Study]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Erfurth_2022_education-hubs]]"
 sources: []
 confidence: medium
 status: draft

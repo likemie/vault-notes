@@ -12,11 +12,22 @@ tags:
 - classical-sociology
 - interpretivism
 - region/germany
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Sage]]"
+  - "[[Corporate Education]]"
+  - "[[Habitus]]"
+related_theories:
+  - "[[Institutional Isomorphism]]"
+  - "[[Culture as Toolkit]]"
 related_methods: []
-related_persons: []
-related_arguments: []
+related_persons:
+  - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
+  - "[[Ann Swidler]]"
+related_arguments:
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources: []
 confidence: medium
 status: draft

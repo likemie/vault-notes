@@ -13,9 +13,27 @@ tags:
 - spatial-sortings
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[National Competitive Advantage]]"
+  - "[[Tongxue]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Knowledge Production]]"
+  - "[[Classical Geopolitics]]"
+  - "[[Flow]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Economic Patriotism]]"
+  - "[[Geopolitical Subject]]"
+  - "[[Spatial Sortings]]"
+  - "[[Progressive Neoliberalism]]"
+related_theories:
+  - "[[Cultural Political Economy]]"
+  - "[[Hegemony]]"
+  - "[[Fixity-Motion Tension]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []

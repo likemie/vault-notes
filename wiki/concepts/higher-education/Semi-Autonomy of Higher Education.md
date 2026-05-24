@@ -12,8 +12,14 @@ tags:
 - theme/geopolitics
 - level/higher-ed
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Methodological Globalism]]"
+  - "[[Double Spatiality of Universities]]"
+  - "[[Scale in Higher Education]]"
+  - "[[Multiplicity (Massey)]]"
+related_theories:
+  - "[[Hegemony]]"
+  - "[[World-Systems Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []

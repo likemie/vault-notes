@@ -17,9 +17,18 @@ tags:
 - theme/digitalization
 - theme/subjectification
 - theme/competitiveness
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Li (Propriety)]]"
+  - "[[Digital Self]]"
+  - "[[Learning Analytics]]"
+  - "[[Digital Optimum]]"
+  - "[[Bildung]]"
+related_theories:
+  - "[[Governmentality]]"
+  - "[[Societies of Control]]"
+related_methods:
+  - "[[Matching]]"
 related_persons: []
 related_facts: []
 related_arguments: []

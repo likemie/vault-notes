@@ -12,11 +12,16 @@ tags:
 - region/us
 - level/k12
 - stance/critique
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[American Attraction to Japanese Education 1980s]]"
+  - "[[Coleman Report 1966]]"
+  - "[[International Indicators of Education Systems (INES)]]"
+  - "[[Education at a Glance (EAG)]]"
 related_arguments: []
 sources: []
 confidence: high

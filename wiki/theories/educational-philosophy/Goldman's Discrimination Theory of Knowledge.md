@@ -12,7 +12,8 @@ tags:
 - knowledge
 - justification
 - paradigm/analytic
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
 related_persons: []

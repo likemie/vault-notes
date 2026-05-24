@@ -14,7 +14,13 @@ tags:
 - field/education
 - theory/confucianism
 - school/confucianism
-related_concepts: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[Ren]]"
+  - "[[Junzi]]"
+  - "[[Action Better Than Words]]"
+  - "[[Shame (Confucianism)]]"
+  - "[[Rightness]]"
 related_theories: []
 related_methods: []
 related_persons: []

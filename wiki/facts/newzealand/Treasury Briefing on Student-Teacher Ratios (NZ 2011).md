@@ -12,13 +12,18 @@ tags:
 - evidence-based-education
 - region/new-zealand
 - stance/critique
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Class Size]]"
+  - "[[Material Fallacies]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[ONeill_2012_NZJES]]"
 confidence: medium
 status: published
 created: '2026-05-06'
@@ -81,4 +86,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- ONeill_2012_NZJES
+- [[ONeill_2012_NZJES]]

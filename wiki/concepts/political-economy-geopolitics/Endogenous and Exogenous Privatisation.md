@@ -13,11 +13,21 @@ tags:
 - neoliberal
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[New Public Management]]"
+  - "[[Venture Philanthropy]]"
+  - "[[Policy Entrepreneur]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[International Education]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Partnership Schools Kura Hourua (NZ 2011)]]"
+  - "[[Teach First New Zealand Ako Mātātupu (TFNZ 2011)]]"
+  - "[[Australia in the Asian Century White Paper 2012]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -16,7 +16,11 @@ tags:
 - theme/learning
 - theory/confucianism
 - theory/taoism
-related_concepts: []
+related_concepts:
+  - "[[Shu (Familiarization)]]"
+  - "[[Rightness]]"
+  - "[[Learning Virtues]]"
+  - "[[Self-Cultivation]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -11,11 +11,29 @@ tags:
 - theme/spatiality
 - level/higher-ed
 - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Multiplicity (Massey)]]"
+  - "[[Power-Geometries]]"
+  - "[[Rightness]]"
+  - "[[Methodological Globalism]]"
+  - "[[Semi-Autonomy of Higher Education]]"
+  - "[[Sovereign Internationalism]]"
+  - "[[Radical Liberal Internationalism]]"
+  - "[[Champ]]"
+  - "[[Methodological Nationalism]]"
+  - "[[Double Spatiality of Universities]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Zero-Sum Competition (School)]]"
+  - "[[Internationalization of Higher Education]]"
+related_theories:
+  - "[[World-Systems Theory]]"
+  - "[[Hegemony]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Doreen Massey]]"
+related_facts:
+  - "[[Singapore Education Hub Policy]]"
+  - "[[Academic Ranking of World Universities (ARWU)]]"
 related_arguments: []
 sources: []
 part_of: ''

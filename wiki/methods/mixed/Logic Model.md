@@ -14,12 +14,17 @@ tags:
 - program-evaluation
 - implementation
 - theory-of-change
-related_concepts: []
+related_concepts:
+  - "[[Implementation Fidelity]]"
+  - "[[Absorptive Capacity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Formative Evaluation]]"
 related_persons: []
 related_arguments: []
 sources: []
+related_facts:
+  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
 confidence: medium
 status: draft
 created: '2026-05-23'

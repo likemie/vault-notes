@@ -9,10 +9,16 @@ tags:
 - region/brazil
 - field/theater
 - field/community-arts
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Epistemology of Resistance]]"
+related_theories:
+  - "[[Creative Tension of Sense]]"
+related_methods:
+  - "[[Ganz-Methode]]"
+related_persons:
+  - "[[Dell Delambre]]"
+  - "[[Richard Castelo Branco]]"
+  - "[[Walter Mignolo]]"
 related_arguments: []
 sources: []
 confidence: low

@@ -13,12 +13,29 @@ tags:
 - field/cultural-psychology
 - field/comparative-education
 - theory/confucianism
-related_concepts: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[Rightness]]"
+  - "[[Take the World Upon Oneself]]"
+  - "[[Learning Virtues]]"
+  - "[[Humility in Learning]]"
+  - "[[Action Better Than Words]]"
+  - "[[Junzi]]"
+  - "[[Ren]]"
+  - "[[Li (Propriety)]]"
+  - "[[Tongxue]]"
+  - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Confucius]]"
+  - "[[Mencius]]"
+  - "[[Zhu Xi]]"
+  - "[[Wang Yangming]]"
+related_facts:
+  - "[[Civil Service Examination]]"
+related_arguments:
+  - "[[Argument_Li_2012_Cambridge]]"
 sources: []
 confidence: medium
 status: draft

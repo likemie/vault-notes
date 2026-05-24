@@ -11,8 +11,12 @@ tags:
 - rankings
 - region/bulgaria
 - capability-approach
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Global Universities Rankings]]"
+  - "[[Rightness]]"
+  - "[[Employability]]"
+related_theories:
+  - "[[Capability Approach in Education]]"
 related_methods: []
 related_persons: []
 related_arguments: []

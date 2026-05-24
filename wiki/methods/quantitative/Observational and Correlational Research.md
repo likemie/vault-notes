@@ -14,11 +14,24 @@ tags:
 - causal-inference
 - research-methodology
 - paradigm/positivist
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Recommendations for Practice]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Classroom Learning Culture]]"
+  - "[[Learning-Impeding Behavior]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Non-intervention Research]]"
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Intervention Research]]"
+  - "[[Qualitative Research]]"
+  - "[[Causal Modeling]]"
+  - "[[Matching]]"
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Lekhal_2015_Paideia]]"
 sources: []
 confidence: medium
 status: draft

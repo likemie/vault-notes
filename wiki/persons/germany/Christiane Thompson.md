@@ -12,10 +12,21 @@ tags:
 - higher-education
 - region/germany
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Global Education Industry]]"
+  - "[[Promising Student]]"
+  - "[[Competitiveness in Higher Education]]"
+  - "[[Rightness]]"
+  - "[[Online Self-Assessment]]"
+  - "[[Digital Self]]"
+  - "[[Digital Optimum]]"
+  - "[[Geopolitics of Knowledge]]"
+related_theories:
+  - "[[Governmentality]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Marcelo Parreira do Amaral]]"
+  - "[[Gita Steiner-Khamsi]]"
 related_arguments: []
 related_facts: []
 sources: []

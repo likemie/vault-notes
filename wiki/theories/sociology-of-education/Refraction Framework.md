@@ -12,9 +12,11 @@ tags:
 - paradigm/sociological
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Seasonal Comparison]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Coleman Report 1966]]"
 related_arguments: []
 sources: []
 confidence: low

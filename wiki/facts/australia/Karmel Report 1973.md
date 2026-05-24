@@ -11,11 +11,14 @@ tags:
 - school-autonomy
 - region/australia
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[School Autonomy]]"
+  - "[[New Public Management]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Gonski Reforms]]"
 related_arguments: []
 sources: []
 confidence: medium

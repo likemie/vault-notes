@@ -30,6 +30,7 @@ EMBED_RE = re.compile(r"!\[\[[^\]]+\]\]")
 MD_LINK_RE = re.compile(r"!?\[[^\]]*\]\([^)]*\)")
 URL_RE = re.compile(r"https?://\S+|doi:\s*\S+|10\.\d{4,9}/\S+", re.IGNORECASE)
 HTML_TAG_RE = re.compile(r"<[^>]+>")
+SOURCE_SECTION_NAMES = {"来源", "sources", "source"}
 
 
 @dataclass(frozen=True)
@@ -151,6 +152,13 @@ def split_h2_sections(body: str) -> list[tuple[str, str]]:
     return sections
 
 
+def is_source_section_heading(heading: str) -> bool:
+    if not heading:
+        return False
+    title = heading[3:].strip().lower() if heading.startswith("## ") else heading.strip().lower()
+    return title in SOURCE_SECTION_NAMES
+
+
 def split_protected_spans(text: str) -> list[tuple[bool, str]]:
     """
     Split section text into (protected, chunk).
@@ -218,7 +226,7 @@ def current_file_title(path: Path, path_to_title: dict[str, str]) -> str:
     return path_to_title.get(rel, path.stem)
 
 
-def clean_invalid_links(body: str, entries_by_title: dict[str, Entry]) -> tuple[str, int]:
+def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -> tuple[str, int]:
     removed = 0
 
     def repl(m: re.Match[str]) -> str:
@@ -238,7 +246,22 @@ def clean_invalid_links(body: str, entries_by_title: dict[str, Entry]) -> tuple[
                 return display
         return m.group(0)
 
-    return WIKILINK_RE.sub(repl, body), removed
+    return WIKILINK_RE.sub(repl, text), removed
+
+
+def clean_invalid_links(body: str, entries_by_title: dict[str, Entry]) -> tuple[str, int]:
+    cleaned_sections: list[str] = []
+    removed = 0
+
+    for heading, section in split_h2_sections(body):
+        if is_source_section_heading(heading):
+            cleaned_sections.append(section)
+            continue
+        cleaned, count = clean_invalid_links_in_text(section, entries_by_title)
+        cleaned_sections.append(cleaned)
+        removed += count
+
+    return "".join(cleaned_sections), removed
 
 
 def is_ascii_word_char(ch: str) -> bool:
@@ -315,7 +338,11 @@ def link_body(body: str, terms: list[Term], current_title: str) -> tuple[str, in
     linked_sections: list[str] = []
     additions = 0
 
-    for _heading, section in sections:
+    for heading, section in sections:
+        if is_source_section_heading(heading):
+            linked_sections.append(section)
+            continue
+
         # Count existing valid wikilinks in this section so we do not add another
         # link to the same target in the same ## section.
         already_linked: set[str] = set()

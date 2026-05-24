@@ -16,9 +16,11 @@ tags:
 related_concepts: []
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hattie_2017_SLM]]"
 sources: []
 part_of: ''
 status: draft

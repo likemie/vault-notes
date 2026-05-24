@@ -14,10 +14,13 @@ tags:
 - comparative-education
 - region/global
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Science and Technology Studies (STS)]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education at a Glance (EAG)]]"
+  - "[[PISA]]"
 related_arguments: []
 sources: []
 confidence: high

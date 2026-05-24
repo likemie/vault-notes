@@ -11,7 +11,9 @@ tags:
 - subject/instruction-pedagogy
 - level/k12
 - region/norway
-related_concepts: []
+related_concepts:
+  - "[[School Norm Adaptation]]"
+  - "[[Motivation and Work Effort]]"
 related_theories: []
 related_methods: []
 related_persons: []

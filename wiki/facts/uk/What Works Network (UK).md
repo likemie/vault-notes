@@ -12,8 +12,11 @@ tags:
 - uk
 - evidence-clearing-house
 - region/uk
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
+related_theories:
+  - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods: []
 related_persons: []
 related_facts: []

@@ -10,11 +10,15 @@ tags:
 - questionable-research-practices
 - meta-analysis
 - evidence-based-education
-related_concepts: []
+related_concepts:
+  - "[[Publication Bias]]"
+  - "[[Preregistration]]"
+  - "[[Developer Effect]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Creation of REES 2018]]"
 related_arguments: []
 sources: []
 confidence: medium

@@ -13,8 +13,11 @@ related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Bainbridge_2022_ROE]]"
 sources: []
+related_facts:
+  - "[[Ofsted]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

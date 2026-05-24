@@ -12,7 +12,8 @@ tags:
 - education-history
 - region/us
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Cuban's Curriculum Change Theory]]"
 related_methods: []
 related_persons: []
 related_arguments: []

@@ -12,12 +12,16 @@ tags:
 - national-standards
 - region/new-zealand
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
+  - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"
+related_arguments:
+  - "[[Argument_ONeill_2012_NZJES]]"
 sources: []
 confidence: low
 status: draft

@@ -9,10 +9,12 @@ tags:
 - epistemology
 - bourdieu
 - paradigm/critical
-related_concepts: []
+related_concepts:
+  - "[[Epistemological Break]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []

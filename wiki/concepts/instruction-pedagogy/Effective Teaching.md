@@ -8,12 +8,24 @@ tags:
 - effective-teaching
 - subject/instruction
 - level/k12
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Classroom Management]]"
+  - "[[Feedback]]"
+  - "[[School Leadership]]"
+  - "[[Visible Learning]]"
+  - "[[Individualised Instruction]]"
+related_theories:
+  - "[[Hofstede's Cultural Dimensions]]"
 related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Jill Mehlbye]]"
+related_facts:
+  - "[[PISA]]"
+  - "[[SFI Report 2013]]"
+  - "[[Danish Public School Reform 2014]]"
+related_arguments:
+  - "[[Argument_Laursen_2015_Paideia]]"
 sources: []
 confidence: low
 status: draft

@@ -16,11 +16,16 @@ tags:
   - method/textbook-analysis
   - method/interview
   - paradigm/critical
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Official Knowledge]]"
+  - "[[Symbolic Boundary]]"
+related_theories:
+  - "[[Hegemony]]"
+related_methods:
+  - "[[In-depth Interview]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Confucian Revival in China]]"
 related_arguments: []
 sources: []
 part_of: ''

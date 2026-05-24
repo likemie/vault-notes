@@ -13,8 +13,12 @@ tags:
   - region/east-asia
   - region/west
   - method/discourse-analysis
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Ren]]"
+  - "[[Rightness]]"
+  - "[[Pride in Learning]]"
+related_theories:
+  - "[[Appraisal Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []

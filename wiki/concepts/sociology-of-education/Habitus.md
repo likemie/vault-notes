@@ -12,10 +12,26 @@ tags:
 - cultural-sociology
 - paradigm/critical
 - region/france
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Intuition-Dependent Mode]]"
+  - "[[Champ]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Doxa]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Sage]]"
+  - "[[Self-Authorship]]"
+  - "[[Cultural Barrier in Higher Education]]"
+  - "[[New Public Management]]"
+related_theories:
+  - "[[Culture as Toolkit]]"
+related_methods:
+  - "[[Matching]]"
+related_persons:
+  - "[[Pierre Bourdieu]]"
+  - "[[Yajun Zheng]]"
+  - "[[Marcia Baxter Magolda]]"
 related_facts: []
 related_arguments: []
 sources: []

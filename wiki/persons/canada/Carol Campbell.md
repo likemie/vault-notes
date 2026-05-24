@@ -12,10 +12,13 @@ tags:
 - educational-leadership
 - ontario
 - region/canada
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Informed Practice]]"
+  - "[[Knowledge Mobilisation]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Julie Nelson]]"
 related_arguments: []
 sources: []
 confidence: medium

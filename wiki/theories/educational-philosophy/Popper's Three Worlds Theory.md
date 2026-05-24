@@ -10,8 +10,12 @@ tags:
 - epistemology
 - realism
 - paradigm/critical
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Visible Learning]]"
+  - "[[Surface and Deep Learning]]"
+related_theories:
+  - "[[Radical Constructivism]]"
 related_methods: []
 related_persons: []
 related_facts: []

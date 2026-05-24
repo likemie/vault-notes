@@ -10,10 +10,18 @@ tags:
 - student-engagement
 - higher-education
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Social Engagement]]"
+  - "[[Student Engagement]]"
+  - "[[Habitus]]"
+  - "[[Academic and Social Integration]]"
+  - "[[Student Involvement]]"
+  - "[[Goal-Controlled Mode]]"
+  - "[[Intuition-Dependent Mode]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments: []
 sources: []

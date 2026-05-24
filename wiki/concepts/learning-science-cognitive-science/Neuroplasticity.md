@@ -8,8 +8,10 @@ tags:
 - neuroplasticity
 - learning-science
 - paradigm/critical
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Visible Learning]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []

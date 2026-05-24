@@ -9,12 +9,21 @@ tags:
 - region/canada
 - level/higher-ed
 - discipline/international-education
-related_concepts: []
+related_concepts:
+  - "[[International Education]]"
+  - "[[International Education Hubs]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[Rightness]]"
+  - "[[Knowledge Production]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Cultural Diplomacy]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
 sources: []
+related_facts:
+  - "[[GATS and Trade in Education Services]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

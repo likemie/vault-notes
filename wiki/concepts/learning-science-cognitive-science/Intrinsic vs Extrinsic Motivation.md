@@ -11,7 +11,10 @@ tags:
   - theme/motivation
   - theme/affect
   - theme/self-determination
-related_concepts: []
+related_concepts:
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Confucian Heritage Cultures]]"
+  - "[[Establishing One's Will (lizhi)]]"
 related_theories: []
 related_methods: []
 related_persons: []

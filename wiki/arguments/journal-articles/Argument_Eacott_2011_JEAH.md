@@ -13,10 +13,16 @@ tags:
 - bourdieu
 - region/australia
 - stance/critique
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[School Leadership]]"
+  - "[[Habitus]]"
+  - "[[Champ]]"
+  - "[[Doxa]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []

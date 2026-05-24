@@ -10,8 +10,10 @@ tags:
 - sts
 - performativity
 - educational-sociology
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Performativity of Measurement]]"
+related_theories:
+  - "[[Science and Technology Studies (STS)]]"
 related_methods: []
 related_persons: []
 related_facts: []

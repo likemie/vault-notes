@@ -10,11 +10,18 @@ tags:
 - subject/curriculum
 - sustainability
 - paradigm/critical
-related_concepts: []
+related_concepts:
+  - "[[Didaktik]]"
+  - "[[Phenomenon-Based Learning]]"
+  - "[[Bildung]]"
+  - "[[Atomisation of Knowledge and Skills]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Wolfgang Klafki]]"
+related_facts:
+  - "[[Finnish National Core Curriculum 2014]]"
+  - "[[SveaSus Project]]"
 related_arguments: []
 sources: []
 confidence: medium

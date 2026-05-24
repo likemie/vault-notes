@@ -13,10 +13,16 @@ tags:
 - decolonization
 - adult-education
 - geopolitics-of-knowledge
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Forced Knowledge Transfer]]"
+  - "[[Li (Propriety)]]"
+  - "[[Shu (Familiarization)]]"
+related_theories:
+  - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Frantz Fanon]]"
 related_arguments: []
 sources: []
 confidence: medium

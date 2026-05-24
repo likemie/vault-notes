@@ -11,10 +11,13 @@ tags:
 - bildung
 - paradigm/critical
 - stance/critique
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Bildung]]"
+related_theories:
+  - "[[Luhmann's Systems Theory]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Gert Biesta]]"
 related_facts: []
 related_arguments: []
 sources: []

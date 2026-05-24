@@ -12,7 +12,9 @@ tags:
 - postmodernism
 - philosophy
 - knowledge
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
 related_persons: []

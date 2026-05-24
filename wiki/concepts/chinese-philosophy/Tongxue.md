@@ -14,10 +14,15 @@ tags:
   - field/chinese-philosophy
   - theme/peer-culture
   - theme/learning-model
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Class Size]]"
+  - "[[Shame (Confucianism)]]"
+  - "[[Zero-Sum Competition (School)]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources: []

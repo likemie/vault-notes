@@ -11,11 +11,15 @@ tags:
 - program-evaluation
 - evidence-based-education
 - rees
-related_concepts: []
+related_concepts:
+  - "[[Publication Bias]]"
+  - "[[Researcher Degrees of Freedom]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Creation of REES 2018]]"
+  - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
 sources: []
 confidence: medium

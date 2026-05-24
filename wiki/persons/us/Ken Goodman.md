@@ -11,7 +11,8 @@ tags:
 - literacy
 - paradigm/constructivist
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Whole Language]]"
 related_theories: []
 related_methods: []
 related_persons: []

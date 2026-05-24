@@ -16,7 +16,8 @@ tags:
 - preregistration
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []

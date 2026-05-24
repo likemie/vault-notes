@@ -15,8 +15,13 @@ tags:
 - field/comparative-education
 - theory/confucianism
 - theme/meritocracy
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Sage]]"
+  - "[[Self-Cultivation]]"
+  - "[[Chinese Learner]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons: []
 related_facts: []

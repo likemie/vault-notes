@@ -14,9 +14,11 @@ tags:
 - ebe
 - paradigm/rational-choice
 - region/global
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []
 related_arguments: []

@@ -14,10 +14,15 @@ tags:
 - theme/knowledge
 - theme/learning
 - theme/metaphysics
-related_concepts: []
+related_concepts:
+  - "[[Certainty of Knowledge]]"
+  - "[[Mind and Its Wonders]]"
+  - "[[Western Learner]]"
+  - "[[Examined Life]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Socrates]]"
 related_facts: []
 related_arguments: []
 sources: []

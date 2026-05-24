@@ -12,12 +12,17 @@ tags:
 - assessment
 - quantitative-methods
 - international-assessment
-related_concepts: []
+related_concepts:
+  - "[[Tongxue]]"
+  - "[[Confidence Interval]]"
+  - "[[Effect Size]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
 sources: []
+related_facts:
+  - "[[PISA]]"
 confidence: low
 status: draft
 created: '2026-05-05'

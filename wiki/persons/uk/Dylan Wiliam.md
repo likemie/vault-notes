@@ -11,7 +11,9 @@ tags:
 - evidence-based-education
 - formative-assessment
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Validity as Inferences]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -9,12 +9,63 @@ tags:
 - evidence-based-education
 - subject/instruction
 - level/k12
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_concepts:
+  - "[[Effect Size]]"
+  - "[[Critiques of Visible Learning]]"
+  - "[[Professional Judgment]]"
+  - "[[Feedback]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Direct Instruction]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Rightness]]"
+  - "[[Problem-Based Learning]]"
+  - "[[Tongxue]]"
+  - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Evidence-Based Reform]]"
+  - "[[Scientism]]"
+  - "[[New Public Management]]"
+  - "[[Class Size]]"
+  - "[[Educational Management Organisation (EMO)]]"
+  - "[[School Leadership]]"
+  - "[[Pure Evaluation]]"
+  - "[[Performativity of Measurement]]"
+  - "[[Blind Spot in Observation]]"
+  - "[[Policy Entrepreneur]]"
+  - "[[Bildung]]"
+  - "[[Learnification]]"
+related_theories:
+  - "[[Radical Constructivism]]"
+  - "[[Popper's Three Worlds Theory]]"
+  - "[[Technical Rationality]]"
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
+  - "[[Matching]]"
+  - "[[Formative Evaluation]]"
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Dietrich Benner]]"
+  - "[[Jill Mehlbye]]"
+related_facts:
+  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
+  - "[[Cognition Education (NZ)]]"
+  - "[[Visible Learning in Sweden]]"
+  - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
+  - "[[Contestable School Support Services (NZ 2011)]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Danish Public School Reform 2014]]"
+  - "[[Hattie på dansk 2017]]"
+  - "[[SFI Report 2013]]"
+  - "[[Victorian HITS and Literacy Toolkit 2017]]"
+  - "[[The New Zealand Curriculum]]"
+  - "[[Australian Curriculum]]"
+  - "[[Gonski Reforms]]"
+related_arguments:
+  - "[[Argument_Hattie_2015_SOTLP]]"
 sources: []
 confidence: medium
 status: draft

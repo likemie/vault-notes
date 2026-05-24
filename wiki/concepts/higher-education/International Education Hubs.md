@@ -13,12 +13,26 @@ tags:
 - geopolitical-projects
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_concepts:
+  - "[[Internationalization of Higher Education]]"
+  - "[[Knowledge Production]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Rightness]]"
+  - "[[Cultural Diplomacy]]"
+  - "[[Hub and Flow Imaginaries]]"
+  - "[[Flow]]"
+  - "[[Geopolitics of Knowledge]]"
+related_theories:
+  - "[[Critical Geopolitics]]"
+related_methods:
+  - "[[Comparative Case Study]]"
+related_persons:
+  - "[[Jane Knight]]"
+related_facts:
+  - "[[Singapore Education Hub Policy]]"
+  - "[[Minerva University]]"
+related_arguments:
+  - "[[Argument_Erfurth_2022_education-hubs]]"
 sources: []
 confidence: low
 status: draft

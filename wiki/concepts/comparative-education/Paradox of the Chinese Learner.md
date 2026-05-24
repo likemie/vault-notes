@@ -11,11 +11,24 @@ tags:
 - region/east-asia
 - theme/cross-cultural-learning
 - theme/learning-process
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_concepts:
+  - "[[Chinese Learner]]"
+  - "[[Confucian Heritage Cultures]]"
+  - "[[Rightness]]"
+  - "[[Examination Hell]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Self-Cultivation]]"
+  - "[[Learning Virtues]]"
+  - "[[Cultural Models]]"
+  - "[[Learning Gap]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Biggs]]"
+related_facts:
+  - "[[PISA]]"
 related_arguments: []
 sources: []
 confidence: medium

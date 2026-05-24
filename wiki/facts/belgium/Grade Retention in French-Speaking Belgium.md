@@ -15,11 +15,16 @@ tags:
   - theme/equity
   - theme/evidence-based-education
   - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Grade Retention]]"
+  - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[French-Speaking Belgium Education System]]"
+  - "[[PISA]]"
+  - "[[Pact for Educational Excellence]]"
 related_arguments: []
 sources: []
 confidence: medium

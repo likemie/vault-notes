@@ -12,10 +12,19 @@ tags:
 - region/germany
 - region/global
 - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Global Education Industry]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Global Regionalisms in Higher Education]]"
+  - "[[Champ]]"
+  - "[[International Education Hubs]]"
+  - "[[Knowledge-Based Economization]]"
+related_theories:
+  - "[[Critical Geopolitics]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Christiane Thompson]]"
+  - "[[Gita Steiner-Khamsi]]"
 related_arguments: []
 sources: []
 confidence: low

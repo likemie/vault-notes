@@ -10,10 +10,12 @@ tags:
 - educational-administration
 - paradigm/critical
 - region/australia
-related_concepts: []
+related_concepts:
+  - "[[Neo-Taylorism in Educational Administration]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []

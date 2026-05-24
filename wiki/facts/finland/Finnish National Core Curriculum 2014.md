@@ -12,11 +12,20 @@ tags:
 - region/finland
 - level/k12
 - phenomenon-based-learning
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Phenomenon-Based Learning]]"
+  - "[[Bildung]]"
+  - "[[Didaktik]]"
+  - "[[Performance Indicators]]"
+  - "[[Epochal Key Problems]]"
+  - "[[Atomisation of Knowledge and Skills]]"
+related_theories:
+  - "[[Phenomenology]]"
+  - "[[Radical Constructivism]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[SveaSus Project]]"
 related_arguments: []
 sources: []
 confidence: medium

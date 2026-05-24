@@ -15,11 +15,14 @@ tags:
 - national-identity
 - region/china
 - level/k12
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Rightness]]"
+related_theories:
+  - "[[Cuban's Curriculum Change Theory]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Liberal Studies (Hong Kong)]]"
 related_arguments: []
 sources: []
 confidence: high

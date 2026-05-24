@@ -13,11 +13,16 @@ tags:
 - patriotism
 - region/china
 - level/k12
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Membership-Creating Function of Education]]"
+related_theories:
+  - "[[Nation Building through Education]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Liberal Studies (Hong Kong)]]"
+  - "[[Replacement of LS by CSD 2021]]"
+  - "[[National Security Law Impact on Hong Kong Education]]"
 related_arguments: []
 sources: []
 confidence: high

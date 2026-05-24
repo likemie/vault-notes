@@ -13,11 +13,16 @@ tags:
 - method/cluster-analysis
 - method/free-association
 - method/cultural-model
-related_concepts: []
+related_concepts:
+  - "[[Rightness]]"
+  - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Cultural Models]]"
+  - "[[Ideal Learner]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Li_2012_Cambridge]]"
 sources: []
 confidence: medium
 status: draft

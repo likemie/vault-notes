@@ -14,10 +14,16 @@ tags:
 - field/cultural-psychology
 - field/chinese-philosophy
 - theme/learning
-related_concepts: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[Junzi]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
+  - "[[Mencius]]"
+  - "[[Zhu Xi]]"
+  - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
 sources: []

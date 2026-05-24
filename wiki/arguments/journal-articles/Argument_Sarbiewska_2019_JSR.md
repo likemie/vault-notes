@@ -12,11 +12,18 @@ tags:
 - region/newzealand
 - region/australia
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Dietrich Benner]]"
+related_facts:
+  - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
+  - "[[Victorian HITS and Literacy Toolkit 2017]]"
+  - "[[Australian Curriculum]]"
+  - "[[The New Zealand Curriculum]]"
 related_arguments: []
 sources: []
 part_of: ''

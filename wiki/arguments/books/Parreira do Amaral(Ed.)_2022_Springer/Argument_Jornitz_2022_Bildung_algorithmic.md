@@ -16,11 +16,23 @@ tags:
   - paradigm/critical
   - level/k12
   - region/germany
-related_concepts: []
+related_concepts:
+  - "[[Global Education Industry]]"
+  - "[[Bildung]]"
+  - "[[Rightness]]"
+  - "[[Didaktik]]"
+  - "[[Feedback]]"
+  - "[[Knowledge Production]]"
+  - "[[Gamification]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Jing (Refined Mastery)]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+  - "[[Matching]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[PISA]]"
 related_arguments: []
 sources: []
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"

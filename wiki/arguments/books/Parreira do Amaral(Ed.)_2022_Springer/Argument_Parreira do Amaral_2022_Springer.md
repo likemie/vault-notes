@@ -16,12 +16,27 @@ tags:
 - knowledge-based-economy
 - region/global
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Champ]]"
+  - "[[Knowledge-Based Economization]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Global Universities Rankings]]"
+  - "[[Further Education]]"
+  - "[[Bildung]]"
+  - "[[Rightness]]"
+  - "[[Global Regionalisms in Higher Education]]"
+  - "[[Regulatory Regionalism]]"
+  - "[[Global Education Industry]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Minerva University]]"
+related_arguments:
+  - "[[Argument_Moisio_2022_Springer]]"
+  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
+  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Partaken_2022_Springer]]"
 sources: []
 part_of: ''
 status: draft

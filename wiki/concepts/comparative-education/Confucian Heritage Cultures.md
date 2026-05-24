@@ -13,10 +13,15 @@ tags:
 - region/east-asia
 - theme/cross-cultural-learning
 - theory/confucianism
-related_concepts: []
+related_concepts:
+  - "[[Paradox of the Chinese Learner]]"
+  - "[[Rightness]]"
+  - "[[Chinese Learner]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[John Biggs]]"
 related_facts: []
 related_arguments: []
 sources: []

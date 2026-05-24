@@ -12,11 +12,27 @@ tags:
 - level/higher-ed
 - level/k12
 - theme/cross-cultural
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
+related_concepts:
+  - "[[Orientalism]]"
+  - "[[Stereotype Threat]]"
+  - "[[Meta-Cultural Sensitivity]]"
+  - "[[Confucian Heritage Cultures]]"
+  - "[[Chinese Learner]]"
+  - "[[Rightness]]"
+  - "[[International Education]]"
+  - "[[Jing (Refined Mastery)]]"
+  - "[[Shu (Familiarization)]]"
+  - "[[Li (Propriety)]]"
+  - "[[Tongxue]]"
+  - "[[Feedback]]"
+related_theories:
+  - "[[Hofstede's Cultural Dimensions]]"
+related_methods:
+  - "[[Observational and Correlational Research]]"
+related_persons:
+  - "[[Confucius]]"
+related_facts:
+  - "[[China Basic Education Curriculum Reform 2001]]"
 related_arguments: []
 sources: []
 part_of: '[[Argument_Ryan_2010_HKUP]]'

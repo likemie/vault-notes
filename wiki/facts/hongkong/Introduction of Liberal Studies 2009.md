@@ -13,11 +13,14 @@ tags:
 - level/k12
 - curriculum-reform
 - 3-3-4-reform
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Policy Borrowing]]"
+related_theories:
+  - "[[World Society Theory]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Liberal Studies (Hong Kong)]]"
 related_arguments: []
 sources: []
 confidence: high
