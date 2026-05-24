@@ -30,14 +30,14 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> 教育研究为什么多年来极少影响教育实践？过去 15 年推动证据本位改革的三项进展是什么？一个以已验证项目系统填充学校三层教学（Tier 1/2/3）的未来将如何改变教育？
+> 教育研究为什么多年来极少影响教育实践？过去 15 年推动[[Evidence-Based Reform|证据本位改革]]的三项进展是什么？一个以已验证项目系统填充学校三层教学（Tier 1/2/3）的未来将如何改变教育？
 >
 > > "Why is it that educational research so rarely has an impact on the practice of education?" (p. 2)
 
 ## 理论立场
 
 > [!abstract] 理论立场
-> Slavin 是 **EBE 的最强版本**（evidence-based, 非 evidence-informed）：教育者应基于特定项目的实验有效性证据选择方案，而非依靠通用原则或专业直觉。理由：(1) 研究反复发现教师难以将通用原则转化为有效实践；(2) 没有与替代方案的直接比较，无法知道"什么有效"。
+> Slavin 是 **[[Evidence-Based Education|EBE]] 的最强版本**（evidence-based, 非 evidence-informed）：教育者应基于特定项目的实验有效性证据选择方案，而非依靠通用原则或专业直觉。理由：(1) 研究反复发现教师难以将通用原则转化为有效实践；(2) 没有与替代方案的直接比较，无法知道"什么有效"。
 >
 > > "This definition does not refer to simply disseminating information about generic principles of effective practice, which has not generally been found to make much of a difference in practices or outcomes." (p. 3)
 >
@@ -46,7 +46,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> ### 1. 证据本位改革的三条件
+> ### 1. [[Evidence-Based Reform|证据本位改革]]的三条件
 >
 > Slavin 论证 EBR 要成功必须同时满足三个条件：
 >
@@ -57,26 +57,26 @@ updated: '2026-05-18'
 > ### 2. 三条件的历史进展
 >
 > **条件 1 — 项目积累**：
-> - i3 项目（2009–2016）：USD 1.4B，171 个项目，多数含第三方 RCT 评估
+> - [[Investing in Innovation (i3) Program|i3]] 项目（2009–2016）：USD 1.4B，171 个项目，多数含第三方 [[Randomised Controlled Trials|RCT]] 评估
 > - EEF（英国）：180+ 第三方 RCT 评估
 > - IES 持续资助研发和评估
 > - ESSA 强/中标准的阅读和数学项目已达约 100 个
 >
 > **条件 2 — 证据审查系统**：
-> - WWC（What Works Clearinghouse）：IES 旗舰审查平台
-> - BEE（Best-Evidence Encyclopedia）：JHU 团队的系统综述网站
+> - [[What Works Clearinghouse (WWC)|WWC]]（What Works Clearinghouse）：IES 旗舰审查平台
+> - [[Best Evidence Encyclopedia (BEE)|BEE]]（Best-Evidence Encyclopedia）：JHU 团队的系统综述网站
 > - Evidence for ESSA：面向教育领导者的 ESSA 对齐平台，月活 70,000+
 >
 > **条件 3 — 政策激励**：
 > - ESSA (2015)：最低 5% 学校必须采用达到强/中/有希望标准的项目才能获得联邦改进拨款
-> - 若干州（AZ、LA、NV、MN、NC、RI）将 ESSA 标准扩展至州级拨款
+> - 若干州（AZ、[[Learning Analytics|LA]]、NV、MN、NC、RI）将 ESSA 标准扩展至州级拨款
 > - 英国 Strategic School Improvement Fund（2018）曾尝试对高贫困学校采用已验证项目提供拨款，但在最后一刻被取消
 >
 > ### 3. RTPI 方案
 >
 > 以已验证项目填充 RTI 三层的系统性方案。Slavin 论证这是 EBR 目前最有证据支撑的应用领域——阅读和数学的个别辅导已积累大量强证据，系统整合后可以几乎确保高危学生成功。
 >
-> 关键数据：Tier 2 辅导效应量普遍 +0.20 ~ +0.34；Tier 3 一对一辅导效应量可达 +0.30 ~ +0.86。
+> 关键数据：Tier 2 辅导[[Effect Size|效应量]]普遍 +0.20 ~ +0.34；Tier 3 一对一辅导效应量可达 +0.30 ~ +0.86。
 >
 > ### 4. 良性循环的愿景
 >
@@ -92,7 +92,7 @@ updated: '2026-05-18'
 > | 实验结果不概化 | 现代实验要求聚类级别分析（40-50 所学校），随机分配+大样本大幅提升了外部效度；Evidence for ESSA 报告人口统计信息供自行判断 |
 > | 早期实验不复现 | 第三方评估、禁止自编测量、加权样本量正在缓解该问题 |
 > | 高贫困学校无能力实施 | 几乎所有"已验证"研究都在高贫困学校进行；问题是政策和资源动荡，不是学校和教师的能力 |
-> | 实验特权压制其他方法 | 这是"方法匹配问题"——当问"与替代方案相比是否有效"时，实验就是最佳设计 |
+> | 实验特权压制其他方法 | 这是"方法[[Matching|匹配]]问题"——当问"与替代方案相比是否有效"时，实验就是最佳设计 |
 > | 短期效果不持续 | 应该以持续的学年级验证项目体系来累积优势，而非依赖一次性干预 |
 
 ## 主要发现
@@ -102,7 +102,7 @@ updated: '2026-05-18'
 >
 > 2. **项目存量已初步达标**：约 100 个 K-12 阅读和数学项目达到 ESSA 强或中标准
 >
-> 3. **辅导是最强证据领域**：一对一和小组辅导在阅读和数学中持续产生最大效应量（+0.20 至 +0.86）
+> 3. **辅导是最强证据领域**：一对一和小组辅导在阅读和数学中持续产生最大[[Effect Size|效应量]]（+0.20 至 +0.86）
 >
 > 4. **政府激励是关键瓶颈**：没有财政支持，已验证项目即使存在也不会被采用——营销、人脉和政治继续压倒证据
 >
@@ -124,7 +124,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > ### 利益冲突：倡导者、研究者和产品创始人三重身份
 >
-> **批评内容**：Slavin 本人是 Success for All（论文表 1 中效应量最高的阅读项目）的创始者，同时也是 BEE（Best Evidence Encyclopedia）和 Evidence for ESSA 网站的创建者。本文以学术论述和 Thorndike Award 演讲的形式呈现"EBR 的科学进展"，但存在以独立学术之名推动自身创立的项目和平台的利益动机。
+> **批评内容**：Slavin 本人是 [[Success for All]]（论文表 1 中[[Effect Size|效应量]]最高的阅读项目）的创始者，同时也是 [[Best Evidence Encyclopedia (BEE)|BEE]]（Best Evidence Encyclopedia）和 Evidence for ESSA 网站的创建者。本文以学术论述和 Thorndike Award 演讲的形式呈现"EBR 的科学进展"，但存在以独立学术之名推动自身创立的项目和平台的利益动机。
 >
 > **具体体现**：
 > - 表 1 中 Success for All 以效应量 +0.26（阅读）和 +0.35（科学）居首，但 Slavin 未披露其作为项目创始人和持续受益者的角色
@@ -134,20 +134,20 @@ updated: '2026-05-18'
 >
 > ### 对批判性文献的系统性回避
 >
-> **批评内容**：Slavin 未实质性回应 Biesta (2010) 的三重缺陷批判、Cowen (2019) 的官僚功能分析、Deaton & Cartwright (2018) 的 RCT 哲学批评——仅将所有这些工作笼统归为"怀疑论"（skepticism），以此规避与批判阵营的核心论点进行正面交锋。
+> **批评内容**：Slavin 未实质性回应 Biesta (2010) 的三重缺陷批判、Cowen (2019) 的官僚功能分析、Deaton & Cartwright (2018) 的 [[Randomised Controlled Trials|RCT]] 哲学批评——仅将所有这些工作笼统归为"怀疑论"（skepticism），以此规避与批判阵营的核心论点进行正面交锋。
 >
 > **回避的核心论点**：
 > - **Biesta (2010)**：知识缺陷——证据无法提供确定性，只提供过去关系的记录
-> - **Cowen (2019)**：EBE 的制度功能是为官僚提供"透明"的过滤机制，而非改进教学
-> - **Deaton & Cartwright (2018)**：RCT 不解决外部效度问题，元分析不解决归纳推理谬误——这些是 Cowen 也在引用的技术批评
+> - **Cowen (2019)**：[[Evidence-Based Education|EBE]] 的制度功能是为官僚提供"透明"的过滤机制，而非改进教学
+> - **Deaton & Cartwright (2018)**：RCT 不解决外部效度问题，[[Meta-analysis|元分析]]不解决归纳推理谬误——这些是 Cowen 也在引用的技术批评
 >
-> **影响**：此回避使 Slavin 的论述在 EBE 支持者圈内具有说服力，但无法与批判文献建立有效对话——形成了两个平行的话语体系（Biesta/Cowen/Wrigley 的批判 vs. Slavin/Hattie 的支持）。
+> **影响**：此回避使 Slavin 的论述在 EBE 支持者圈内具有说服力，但无法与批判文献建立有效对话——形成了两个平行的话语体系（Biesta/Cowen/Wrigley 的批判 vs. Slavin/[[John Hattie|Hattie]] 的支持）。
 >
 > **目前状态**：此平行话语现象已是 EBE 辩论的突出问题之一——双方在各自期刊和会议中发言，极少有实质性的跨阵营回应。
 >
 > ### EBE 与 EBR 的模糊边界：激励何时变成强制？
 >
-> **批评内容**：Slavin 将 EBR 定位为"政策框架"——通过政府拨款激励学校采用已验证项目。但他未明确讨论当"激励"变成事实上的强制时（如 ESSA 要求最低 5% 学校必须采用达到证据标准的项目以获得联邦改进拨款），教育者的专业自主权如何保障。这一边界在 Biesta 的极权主义批评和 Holmes et al. (2006) 的"微观法西斯主义"指控中已被问题化，Slavin 未做直接回应。
+> **批评内容**：Slavin 将 EBR 定位为"政策框架"——通过政府拨款激励学校采用已验证项目。但他未明确讨论当"激励"变成事实上的强制时（如 ESSA 要求最低 5% 学校必须采用达到证据标准的项目以获得联邦改进拨款），教育者的专业自主权如何保障。这一边界在 Biesta 的极权主[[Rightness|义]]批评和 Holmes et al. (2006) 的"微观法西斯主义"指控中已被问题化，Slavin 未做直接回应。
 >
 > **目前状态**：ESSA 的证据要求目前仅适用于联邦改进拨款的特定项目，尚未扩展至全体学校。但 Slavin 对"证据知情"弱版本的明确反对暗示了他对更广泛的证据要求的支持——这使得"激励 vs. 强制"的边界问题在未来政策辩论中将成为关键争议点。
 >
@@ -162,7 +162,7 @@ updated: '2026-05-18'
 >
 > **目前状态**：Slavin 的良性循环愿景提供了方向性激励，但 Cowen (2019) 从制度逻辑角度指出 EBE 的韧性可能恰恰来自其服务于官僚需求（而非教育改进）——这一诊断暗示良性循环在制度层面面临的结构性障碍比 Slavin 承认的更为根本。
 >
-> ### 对副作用的回避：Goodhart/Campbell 定律
+> ### 对副作用的回避：Goodhart/[[Campbell Collaboration|Campbell]] 定律
 >
 > **批评内容**：Slavin 未讨论当"达到 ESSA 证据标准"成为目标时可能产生的副作用——Goodhart 定律（当一个指标成为目标时，它就不再是好指标）和 Campbell 定律（量化社会指标越用于决策，越容易被操纵和腐败）。
 >

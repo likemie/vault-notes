@@ -30,7 +30,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> Revoicing 是 O'Connor 和 Michaels（1993）提出的课堂话语策略，指教师将学生原始的、相对粗糙的表述**重铸**（revoice）为更标准、更认知成熟的表述，同时保留学生的原意并明确其"作者权"（authorship/ownership）。这一策略根植于两个社会语言学理论：Goodwin（1990）关于课堂话语中说话权与责任的框架，以及 Goffman（1981）关于"animator"（话语发出者）与"author"（观点来源者）的区分（Li, 2012, pp.92-94）。
+> Revoicing 是 O'Connor 和 Michaels（1993）提出的课堂话语策略，指教师将学生原始的、相对粗糙的表述**重铸**（revoice）为更标准、更认知成[[Shu (Familiarization)|熟]]的表述，同时保留学生的原意并明确其"作者权"（authorship/ownership）。这一策略根植于两个社会语言学理论：Goodwin（1990）关于课堂话语中说话权与责任的框架，以及 Goffman（1981）关于"animator"（话语发出者）与"author"（观点来源者）的区分（Li, 2012, pp.92-94）。
 
 > [!quote]
 > "The teacher deliberately placed two students in opposition and primed them to evaluate the merits of their own and each other's proposals. The teacher effectively led the students to the very notion that they were the authors/owners of their ideas."
@@ -70,7 +70,7 @@ updated: 2026-05-24
 ## 跨文化对比
 
 > [!warning]
-> Revoicing 在东亚课堂中几乎没有对应实践。Agnes He 对中国语言课堂的观察显示：教师收集学生的各种回答，但从不指明"谁说了一个更好的建议、谁不同意谁"——相反，"他们只讨论什么是正确的汉字写作，然后进入下一个学习任务"（Li, 2012, p.115）。
+> Revoicing 在东亚课堂中几乎没有对应实践。Agnes He 对中国语言课堂的[[Observational and Correlational Research|观察]]显示：教师收集学生的各种回答，但从不指明"谁说了一个更好的建议、谁不同意谁"——相反，"他们只讨论什么是正确的汉字写作，然后进入下一个学习任务"（Li, 2012, p.115）。
 
 这种差异根植于东亚文化对"不把想法归因于个人"的偏好——东亚课堂的焦点是学习内容本身，而非任何学生个人的智力贡献。Li 指出，这种做法的潜在好处是"实际上消除了学生之间社会比较的不利影响"（Li, 2012, p.116）。
 

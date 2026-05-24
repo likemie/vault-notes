@@ -125,7 +125,7 @@ updated: 2026-05-22
 ## 理论基础
 
 > [!tip]
-> - [[Confucian Learning Tradition]] — 中国校训的语义基础：修身优先于探究世界
+> - [[Confucian Learning Tradition]] — 中国校训的语[[Rightness|义]]基础：[[Self-Cultivation|修身]]优先于探究世界
 > - [[Self-Cultivation]] — "自强不息""明德""至善"的核心指向
 > - [[Learning Virtues]] — "勤奋""忠信""诚朴"与七种学习美德的对应
 > - [[Argument_Li_2012_Cambridge]] — 校训对比是该章中西方学习传统对比的浓缩例证

@@ -1,19 +1,18 @@
 ---
 title: Observational and Correlational Research
 aliases:
-- 观察/相关研究
-- 观察
-- 相关研究
-- 观察研究
-summary: "不操纵自变量而以量化资料分析变量关系、模式和相关性的非干预研究设计，适合描述分布并探索潜在关联"
+  - 观察/相关研究
+  - 相关研究
+  - 观察研究
+summary: 不操纵自变量而以量化资料分析变量关系、模式和相关性的非干预研究设计，适合描述分布并探索潜在关联
 type: method
 method_type: quantitative
 tags:
-- observational-research
-- correlational-research
-- causal-inference
-- research-methodology
-- paradigm/positivist
+  - observational-research
+  - correlational-research
+  - causal-inference
+  - research-methodology
+  - paradigm/positivist
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Recommendations for Practice]]"
@@ -35,8 +34,8 @@ related_arguments:
 sources: []
 confidence: medium
 status: draft
-created: '2026-05-05'
-updated: '2026-05-18'
+created: 2026-05-05
+updated: 2026-05-18
 ---
 
 ## 定义

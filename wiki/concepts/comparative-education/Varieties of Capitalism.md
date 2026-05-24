@@ -34,7 +34,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 资本主义多样性（Varieties of Capitalism, VoC）是比较政治经济学中分析发达资本主义国家制度差异的核心框架，由 Hall & Soskice（2001）系统提出。该框架将发达经济体区分为自由市场经济体（Liberal Market Economies, LMEs）和协调型市场经济体（Coordinated Market Economies, CMEs）两种理想类型——二者的核心差异不在经济规模或技术水平，而在企业协调其活动的制度方式（Hartmann, 2022, pp.184–185, 187–188）。
+> 资本主[[Rightness|义]]多样性（Varieties of Capitalism, VoC）是比较政治经济学中分析发达资本主义国家制度差异的核心框架，由 Hall & Soskice（2001）系统提出。该框架将发达经济体区分为自由市场经济体（Liberal Market Economies, LMEs）和协调型市场经济体（Coordinated Market Economies, CMEs）两种理想类型——二者的核心差异不在经济规模或技术水平，而在企业协调其活动的制度方式（Hartmann, 2022, pp.184–185, 187–188）。
 
 ---
 
@@ -61,7 +61,7 @@ updated: '2026-05-18'
 ## 在 Hartmann (2022) 企业教育分析中的应用
 
 > [!tip]
-> Hartmann 在企业教育跨国化分析中，以 VoC 的 LME/CME 区分为透镜，解释了两个核心现象：
+> Hartmann 在[[Corporate Education|企业教育]]跨国化分析中，以 VoC 的 LME/CME 区分为透镜，解释了两个核心现象：
 
 ### 为何 IVET 难以国际化？
 
@@ -86,7 +86,7 @@ Hartmann 结合产业社会学对 MNC 组织类型的分类，揭示了 VoC 与 
 ## 争议与批评
 
 > [!warning]
-> - **二分法的局限性**：Hartmann 本人也承认，CME vs LME 的二分法无法涵盖中国、印度等不属于这两种类别的经济体中的 MNC 企业教育策略——这些国家可能构成 VoC 之外的第三种或更多制度类型（Hartmann, 2022, pp.194, 263）
+> - **二分法的局限性**：Hartmann 本人也承认，CME vs LME 的二分法无法涵盖中国、印度等不属于这两种类别的经济体中的 MNC [[Corporate Education|企业教育]]策略——这些国家可能构成 VoC 之外的第三种或更多制度类型（Hartmann, 2022, pp.194, 263）
 > - **过度决定论风险**：将 MNC 的培训策略直接归因于其母国的 VoC 类型，可能忽视了行业特性、企业规模、管理层决策等其他因素的作用
 
 ---

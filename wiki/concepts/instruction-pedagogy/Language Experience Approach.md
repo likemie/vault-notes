@@ -28,7 +28,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > Language Experience Approach（LEA，语言经验法）是一种早期读写教学方法，由 R.V. Allen（1964）系统阐述。Allen（1964, p.60）简述其为"将阅读和其他沟通技能在教学中整合在一起的方法"（O'Connor, 2020, p.144）。
 
 ## 核心主张
@@ -42,12 +42,12 @@ updated: '2026-05-18'
 
 ## 与全语言的区别
 
-> [!example] 与全语言的区别
+> [!example] 与[[Whole Language|全语言]]的区别
 > 语言经验法是全语言的重要前身，但两者之间有关键区别：
 >
 > - **出现时间**：语言经验法在 1960 年代早期即已形成，而全语言运动以 1976 年为起点（Stahl, McKenna, & Pagnucco, 1994, p.175，引自 O'Connor, 2020, p.145）
-> - **Stahl & Miller（1989）的混淆**：在其元分析中，Stahl & Miller 将语言经验法和全语言合并为"全语言/语言经验法"（whole language/language experience approaches），尽管他们承认"早期的语言经验法和当前的全语言法之间存在一些重要的差异"（p.88）。这导致 1960 年代早期的多项研究——在全语言出现之前——被纳入全语言的效应量计算（O'Connor, 2020, p.144）
-> - **Stahl 等人的更正**：在后续元分析中，Stahl, McKenna & Pagnucco（1994, p.176）明确承认将语言经验法与全语言等同是"时代错误的"（anachronistic），并排除了"纯粹涉及语言经验法的研究"。然而 Hattie 在 *Visible Learning* 中仍不加解释地包含了做此等同的元分析（O'Connor, 2020, p.145）
+> - **Stahl & Miller（1989）的混淆**：在其[[Meta-analysis|元分析]]中，Stahl & Miller 将语言经验法和全语言合并为"全语言/语言经验法"（whole language/language experience approaches），尽管他们承认"早期的语言经验法和当前的全语言法之间存在一些重要的差异"（p.88）。这导致 1960 年代早期的多项研究——在全语言出现之前——被纳入全语言的[[Effect Size|效应量]]计算（O'Connor, 2020, p.144）
+> - **Stahl 等人的更正**：在后续元分析中，Stahl, McKenna & Pagnucco（1994, p.176）明确承认将语言经验法与全语言等同是"时代错误的"（anachronistic），并排除了"纯粹涉及语言经验法的研究"。然而 [[John Hattie|Hattie]] 在 *[[Visible Learning]]* 中仍不加解释地包含了做此等同的元分析（O'Connor, 2020, p.145）
 
 ## 在元分析中的问题
 
@@ -60,7 +60,7 @@ Stahl & Miller（1989）的混淆导致语言经验法研究被错误归类为[[
 ## 相关概念
 
 > [!example] 相关概念
-> - [[Whole Language]] — LEA 是前身，两者在 Hattie 的元分析中被错误等同
+> - [[Whole Language]] — LEA 是前身，两者在 [[John Hattie|Hattie]] 的[[Meta-analysis|元分析]]中被错误等同
 
 ## 来源
 

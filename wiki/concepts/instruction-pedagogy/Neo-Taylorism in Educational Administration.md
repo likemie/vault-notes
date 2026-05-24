@@ -57,19 +57,19 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 > [!note] 1910s–1960s 科学管理起源与教育效率崇拜
 > - **Taylor (1911)** 出版 *The Principles of Scientific Management*，提出寻找"唯一正确方法"、将任务拆解为最小组件、消除"soldiering"（磨洋工）、最大化效率的核心原则（Eacott, 2017, p.418-419）
 > - **Fordism**：装配线的发明将生产节奏的控制从车间工匠转移到工程师和管理者办公室（Noble, 1978，引自 Johnson & Janzen, 2023, p.28）
-> - **Callahan (1962)** 出版 *Education and the Cult of Efficiency*，论证 20 世纪上半叶美国公立学校改革更多受管理实践（尤其是泰勒主义）而非教育理念的影响——Eacott 以此作为分析当代 Hattie 崇拜的历史框架（Eacott, 2017, p.413-414）
+> - **Callahan (1962)** 出版 *Education and the Cult of Efficiency*，论证 20 世纪上半叶美国公立学校改革更多受管理实践（尤其是泰勒主[[Rightness|义]]）而非教育理念的影响——Eacott 以此作为分析当代 [[John Hattie|Hattie]] 崇拜的历史框架（Eacott, 2017, p.413-414）
 
-> [!note] 1950s–1980s 教育行政理论运动与术语诞生
+> [!note] 1950s–1980s [[Theory Movement in Educational Administration|教育行政理论运动]]与术语诞生
 > - **1950s–1960s Theory Movement**：以 Simon（1945）*Administrative Behavior* 和维也纳圈逻辑经验主义为基础，追求教育行政中的"类法则概括"（law-like generalisations）——目标从未实现，但为后来 Hattie 的"教学科学"提供了历史先例（Eacott, 2017, p.419）
 > - **Hodgkinson (1978)** 在 *Towards a Philosophy of Administration* 中讨论教育行政的认识论及其方法论意涵（Eacott, 2019, p.775）
 > - **Gronn (1982)** 在 *Educational Administration Quarterly* 发表"Neo-Taylorism in educational administration?"，首次将该术语引入教育行政领域（Eacott, 2019, p.775）
 
 > [!note] 2008–至今 VL 与新泰勒主义的当代支配
-> - **Robinson, Lloyd, & Rowe (2008)** 在 *EAQ* 发表元分析，识别五个领导力维度及其效应量，打破变革型领导力的主导地位——Eacott 认为这为 Hattie 的崛起提供了关键"桥梁"：向教育行政社区引入效应量语言和"感知的严谨性"（Eacott, 2017, p.416-418）
+> - **Robinson, Lloyd, & Rowe (2008)** 在 *EAQ* 发表[[Meta-analysis|元分析]]，识别五个领导力维度及其[[Effect Size|效应量]]，打破[[Transformative Leadership|变革型领导力]]的主导地位——Eacott 认为这为 Hattie 的崛起提供了关键"桥梁"：向教育行政社区引入效应量语言和"感知的严谨性"（Eacott, 2017, p.416-418）
 > - **后 Fordism**：信息收集技术的引入将问责和监控方案嵌入现代工作场所（Portnoi, 2016; Manokha, 2020，引自 Johnson & Janzen, 2023, p.28）
 > - **Hattie (2009)** 出版 [[Visible Learning]]：800+ 元分析、138 个因素按效应量排名——Eacott 认为这开启了当代 Neo-Taylorism 的支配性阶段（Eacott, 2017, p.418-419）
-> - **asTTle 的全景监控设计**：Hattie 等（2003）明确写道"允许管理者监控全校六个科目的 asTTle 使用情况"——VL 的气压计图形直接进口自此工具（Johnson & Janzen, 2023, p.28）。Foucault（1977）的全景监狱隐喻——仅仅是"可能被观察"的想法就足以影响行为——为理解 asTTle/VL 的监控逻辑提供了理论框架（Johnson & Janzen, 2023, p.28）
-> - **VL 品牌商业化与制度化嵌入**：2010 Cognition Education 推出 VLplus → 2015 ACEL-Corwin 合作 → 2018 Corwin 收购 VLplus。Hattie 担任 AITSL 主席，VL 嵌入澳大利亚国家专业标准（详见 [[Visible Learning Branding and Global Influences]]）
+> - **asTTle 的全景监控设计**：Hattie 等（2003）明确写道"允许管理者监控全校六个科目的 asTTle 使用情况"——VL 的气压计图形直接进口自此工具（Johnson & Janzen, 2023, p.28）。Foucault（1977）的全景监狱隐喻——仅仅是"可能被[[Observational and Correlational Research|观察]]"的想法就足以影响行为——为理解 asTTle/VL 的监控逻辑提供了理论框架（Johnson & Janzen, 2023, p.28）
+> - **VL 品牌商业化与制度化嵌入**：2010 [[Cognition Education (NZ)|Cognition Education]] 推出 VLplus → 2015 ACEL-Corwin 合作 → 2018 Corwin 收购 VLplus。Hattie 担任 AITSL 主席，VL 嵌入澳大利亚国家专业标准（详见 [[Visible Learning Branding and Global Influences]]）
 
 ## 核心要素
 

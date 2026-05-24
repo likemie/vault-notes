@@ -26,7 +26,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> 本文是 Grace 对 Hattie (2010) 在 *NZJES* 45(1) 发表的"On being a 'critic and conscience of society'"一文的直接回应。核心问题：Hattie 是否正确理解了学术人作为"critic and conscience of society"的角色？
+> 本文是 Grace 对 [[John Hattie|Hattie]] (2010) 在 *NZJES* 45(1) 发表的"On being a 'critic and conscience of society'"一文的直接回应。核心问题：Hattie 是否正确理解了学术人作为"critic and conscience of society"的角色？
 
 ## 理论框架
 
@@ -43,33 +43,33 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> ### 论证一：Hattie 混淆了两种不同角色
+> ### 论证一：[[John Hattie|Hattie]] 混淆了两种不同角色
 >
 > Grace（p.90）区分了两种学术角色：
 > - **学术领域的批评者**：在学科内部对研究质量和方法进行技术性批评——这是正常学术工作
-> - **社会的批评者与良知**：必须将非学校因素（社会阶级、贫困、家庭资源等）纳入所有分析
+> - **[[Critic and Conscience of Society|社会的批评者与良知]]**：必须将非学校因素（社会阶级、贫困、家庭资源等）纳入所有分析
 >
-> Hattie 的 *Visible Learning* 及其 2010 年文章所扮演的是前者，而非后者——Hattie 批评了评估、教学和学习领域的研究质量，但这属于"教育教授们正常的学术工作"（p.90）。
+> Hattie 的 *[[Visible Learning]]* 及其 2010 年文章所扮演的是前者，而非后者——Hattie 批评了评估、教学和学习领域的研究质量，但这属于"教育教授们正常的学术工作"（p.90）。
 >
 > ### 论证二：排除非学校因素与"critic and conscience"角色根本矛盾
 >
 > Grace 论证的核心步骤（pp.90–91）：
 > 1. "Critic and conscience of society"要求分析必须包含非学校因素——因为这些因素"代表社会"
 > 2. Hattie 明确将非学校因素排除在 VL 的分析范围之外，尽管承认它们"可能比书中讨论的许多问题更重要"（Hattie, 2009, pp.viii–ix）
-> 3. 这种排除产生了一个"还原主义和天真的观点"——即仅靠改变教育安排就能解决教育成就不平等——这对政治家和政策制定者非常方便，因为它将注意力从更根本的社会经济不平等问题上转移开
+> 3. 这种排除产生了一个"还原主[[Rightness|义]]和天真的观点"——即仅靠改变教育安排就能解决教育成就不平等——这对政治家和政策制定者非常方便，因为它将注意力从更根本的社会经济不平等问题上转移开
 > 4. 因此，Hattie 的工作不能被视为履行了"critic and conscience of society"的角色
 >
 > ### 论证三：Bernstein 和 Nash 为真正的批判者典范
 >
 > Grace 以两位学者作为"critic and conscience of society"角色的典范（p.91）：
-> - **Basil Bernstein** 在 *Education Cannot Compensate for Society*（1970）中向政治家明确阐明：没有外部结构性和经济改革，学校无法单独创造教育机会平等
+> - **[[Basil Bernstein]]** 在 *Education Cannot Compensate for Society*（1970）中向政治家明确阐明：没有外部结构性和经济改革，学校无法单独创造教育机会平等
 > - **Roy Nash** 在 *Social Class and Education in New Zealand*（2003）中对教育成就差异的分析始终渗透着对非学校因素的清晰认识——这对于现实的政策倡议至关重要
 
 ## 主要发现
 
 > [!success] 主要发现
-> 1. 新西兰将"critic and conscience of society"写入大学立法，在新自由主义的 1980 年代具有先见性（pp.89–90）
-> 2. Hattie 对 VL 争论的参与属于正常学术批评范畴，但未达到该角色的规范性要求（p.90）
+> 1. 新西兰将"critic and conscience of society"写入大学立法，在新自由主[[Rightness|义]]的 1980 年代具有先见性（pp.89–90）
+> 2. [[John Hattie|Hattie]] 对 VL 争论的参与属于正常学术批评范畴，但未达到该角色的规范性要求（p.90）
 > 3. 将非学校因素排除在教育成就差异分析之外，虽然声称仅是方法论的"范围选择"，但产生了有利于维持现状的政治后果（p.91）
 
 ## 关键引用
@@ -85,7 +85,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - 作为个人述评而非系统研究，论证限于概念区分层面
-> - 未深入讨论 Hattie 排除非学校因素的方法论理由——即研究范围限定在"教育者能控制的因素"
+> - 未深入讨论 [[John Hattie|Hattie]] 排除非学校因素的方法论理由——即研究范围限定在"教育者能控制的因素"
 > - Grace 本人是该概念的原创者和新西兰大学立法的推动者，其立场具有特定的制度和规范承诺
 
 ## 来源

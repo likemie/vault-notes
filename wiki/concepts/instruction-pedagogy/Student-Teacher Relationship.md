@@ -27,7 +27,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > Student-Teacher Relationship 指学生对师生支持性互动质量的主观感知。
 
 ## 核心要素

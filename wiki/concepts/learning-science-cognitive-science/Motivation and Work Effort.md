@@ -30,7 +30,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > Motivation and Work Effort 指学生在学校学习中的目标投入与持续努力程度。
 
 ## 历史沿革
@@ -48,7 +48,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - 与 [[Feedback]] 相比，它是学生状态变量；与 [[School Norm Adaptation]] 相比，它强调投入强度而非规范匹配。
+> - 与 [[Feedback]] 相比，它是学生状态变量；与 [[School Norm Adaptation]] 相比，它强调投入强度而非规范[[Matching|匹配]]。
 
 ## 理论基础
 

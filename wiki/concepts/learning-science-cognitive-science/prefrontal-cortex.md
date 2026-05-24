@@ -34,23 +34,23 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
-> 前额叶皮层（Prefrontal Cortex, PFC）是位于大脑额叶、中央沟与额极之间的区域，包括 Brodmann 细胞构筑图中的第 8–13、24、27、32 和 46 区（Bolton & Hattie, 2017, p.7，引用 Brodmann, 1909）。
+> [!info] 定[[Rightness|义]]
+> 前额叶皮层（Prefrontal Cortex, PFC）是位于大脑额叶、中央沟与额极之间的区域，包括 Brodmann 细胞构筑图中的第 8–13、24、27、32 和 46 区（Bolton & [[John Hattie|Hattie]], 2017, p.7，引用 Brodmann, 1909）。
 >
 > PFC 的定义性特征是其与皮层几乎所有区域以及部分下脑区域的众多连接。与脑干、丘脑、基底神经节和边缘系统的连接被认为使 PFC 在大脑其他区域的细胞抑制中发挥重要作用（Bolton & Hattie, 2017, p.7）。
 
 ## 结构分区
 
 > [!abstract] 结构分区
-> PFC 在结构上可分为三个不同区域（Bolton & Hattie, 2017, p.7–8）：
+> PFC 在结构上可分为三个不同区域（Bolton & [[John Hattie|Hattie]], 2017, p.7–8）：
 >
 > - **眼眶 PFC（Orbital PFC）** — 负责大脑其他区域的细胞和神经元抑制，包括基底神经节、下丘脑、其余皮层及 PFC 的其他组成部分。还负责情境和社会行为。此区域损伤导致无法容忍任何形式的干扰或分心（Bolton & Hattie, 2017, p.8，引用 Fuster, 2001）
-> - **内侧 PFC（Medial PFC）** — 包含前扣带皮层（ACC），与一般运动性、注意力和情绪相关。在 EF 任务的监控和评估阶段被激活。此区域损伤者常缺乏自发性，难以发起运动和言语（Bolton & Hattie, 2017, p.8）
+> - **内侧 PFC（Medial PFC）** — 包含前扣带皮层（ACC），与一般运动性、注意力和情绪相关。在 [[Executive Function|EF]] 任务的监控和评估阶段被激活。此区域损伤者常缺乏自发性，难以发起运动和言语（Bolton & Hattie, 2017, p.8）
 > - **外侧 PFC（Lateral PFC）** — 负责支持和开发行为、言语和推理的时间组织与中介。特别是涉及规划和控制与任务相关的目标。通过控制注意力和任务相关策略，外侧 PFC 负责 EF 的主动控制。损伤表现为计划以及口语和书面语言的缺陷（Bolton & Hattie, 2017, p.8）
 >
 > 外侧 PFC 可进一步分为两个子区域：
 > - **腹外侧前额叶皮层（vlPFC）** — 与主动控制和注意力相关（Bolton & Hattie, 2017, p.8）
-> - **背外侧前额叶皮层（dlPFC）** — 与 EF 成分特别是视觉空间工作记忆密切相关。存在左/右发展分工：检索需要右侧 dlPFC，编码使用左侧 dlPFC。在任务需要新颖性或任务间切换时发挥作用（Bolton & Hattie, 2017, p.8）
+> - **背外侧前额叶皮层（dlPFC）** — 与 EF 成分特别是视觉空间[[Working Memory|工作记忆]]密切相关。存在左/右发展分工：检索需要右侧 dlPFC，编码使用左侧 dlPFC。在任务需要新颖性或任务间切换时发挥作用（Bolton & Hattie, 2017, p.8）
 
 ## 发育特征
 

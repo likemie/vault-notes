@@ -35,9 +35,9 @@ updated: '2026-05-18'
 
 > [!info] 研究问题
 > 1. 通识教育科为何以及如何成为香港高中必修科目？
-> 2. 通识教育科为何在 2021 年被"公民与社会发展科"取代？
+> 2. 通识教育科为何在 2021 年被"[[Citizenship and Social Development (Hong Kong)|公民与社会发展科]]"取代？
 >
-> > "To make sense of this curriculum change, we address two questions: Why and how did LS emerge as a compulsory school subject; and why was it replaced by CSD in 2021?" (p. 480)
+> > "To make sense of this curriculum change, we address two questions: Why and how did [[Liberal Studies (Hong Kong)|LS]] emerge as a compulsory school subject; and why was it replaced by CSD in 2021?" (p. 480)
 >
 > 论文强调将创立与废除两阶段并置分析，此前的研究仅各自关注其一。
 
@@ -45,12 +45,12 @@ updated: '2026-05-18'
 
 > [!abstract] 理论框架
 > - [[Cuban's Curriculum Change Theory]] — 作为分析起点。课程变革的三个外部因素：进步教育运动、冷战/国防、立法法律决定。论文将此框架扩展到香港语境，检验其解释力与局限
-> - [[World Society Theory]] — 全球学校模式趋同假设。LS 的诞生表面上支撑该理论（引用全球趋势、IBDP 课程参照），但论文认为这是表面修辞而非变革动因
-> - [[Policy Borrowing]] — Steiner-Khamsi 的政策借用框架。分析港府如何"外化"改革需求，以全球化论述合法化国内议程
+> - [[World Society Theory]] — 全球学校模式趋同假设。[[Liberal Studies (Hong Kong)|LS]] 的诞生表面上支撑该理论（引用全球趋势、IBDP 课程参照），但论文认为这是表面修辞而非变革动因
+> - [[Policy Borrowing]] — Steiner-Khamsi 的政策借用框架。分析港府如何"[[Externalization (Schriewer)|外化]]"改革需求，以全球化论述合法化国内议程
 > - **Tröhler (2023) 国家利益驱动课程变革** — 废除阶段的核心解释框架
-> - **Vickers & Morris (2022) 威权国家主义与教育** — 解释中共如何通过教育确保边疆忠诚
+> - **Vickers & Morris (2022) 威权国家主[[Rightness|义]]与教育** — 解释中共如何通过教育确保边疆忠诚
 >
-> 论文的方法论立场：来自 Apple、Bourdieu、Kliebard 的批判视角——将学校科目视为"最典型的社会与政治建构"（Goodson & Marsh, 1996, p. 1）。
+> 论文的方法论立场：来自 Apple、[[Pierre Bourdieu|Bourdieu]]、Kliebard 的批判视角——将学校科目视为"最典型的社会与政治建构"（Goodson & Marsh, 1996, p. 1）。
 
 ## 研究方法
 
@@ -58,14 +58,14 @@ updated: '2026-05-18'
 > - **方法**：[[Historical Document Analysis of Curriculum]] — 对课程文件、政府出版物、媒体报道、既有文献的系统分析
 > - **数据来源**：课程指引、政府政策文件、中国内地官媒文章（《人民日报》《北京日报》《中国青年报》《光明日报》）、地方媒体、学术文献
 > - **分析范围**：官方／意图课程（intended curriculum）层面，不涉及实施或习得课程
-> - **时间跨度**：2009–2021，覆盖 LS 从创立到废除的全周期
+> - **时间跨度**：2009–2021，覆盖 [[Liberal Studies (Hong Kong)|LS]] 从创立到废除的全周期
 
 ## 核心论证
 
 > [!example] 核心论证
 > ### 前提
 >
-> 香港通识教育科是一个没有清晰学科基础、与高等教育和就业无直接关联的学校科目。这使其成为纯粹的政治建构，适合分析课程变革的政治驱动力。
+> [[Liberal Studies (Hong Kong)|香港通识教育科]]是一个没有清晰学科基础、与高等教育和就业无直接关联的学校科目。这使其成为纯粹的政治建构，适合分析课程变革的政治驱动力。
 >
 > ### 论证结构
 >
@@ -76,7 +76,7 @@ updated: '2026-05-18'
 > 2. 处理"过剩教师"问题 —— 教协关注的核心议题，LS 无需学科专业背景
 > 3. 回应香港教育长期弊病（应试导向、教师中心、教科书依赖）
 > 4. 1998 年亚洲金融风暴后港府合法性下降，教育改革被定位为重建信心的起点
-> 5. 以"终身学习""知识经济"等全球化论述外化改革需求
+> 5. 以"终身学习""[[Knowledge-Based Economy|知识经济]]"等全球化论述[[Externalization (Schriewer)|外化]]改革需求
 > 6. 参照 IBDP 的课程结构（知识理论 → 批判思维、延伸论文 → IES、CAS → 其他学习经历）
 > 7. 聘请海外学者（剑桥 Mary James）背书
 > 8. 长期的公众咨询与持份者协商 —— 立法会、教协、亲中团体均参与
@@ -88,7 +88,7 @@ updated: '2026-05-18'
 > 4. 2020 年 6 月 《香港国安法》颁布，提供了法律基础
 > 5. 尽管 2020 年 9 月课程检讨报告建议保留 LS，港府直接宣布废除
 > 6. 废除过程无公众咨询、无持份者协商 — 教协已被关闭，批评媒体被压制
-> 7. 替换为 CSD，核心目标转向爱国主义和国家认同
+> 7. 替换为 [[Citizenship and Social Development (Hong Kong)|CSD]]，核心目标转向爱国主[[Rightness|义]]和国家认同
 >
 > ### 结论
 >
@@ -99,7 +99,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **全球化论述的工具性使用**：如果仅关注 LS 诞生，似乎验证了世界文化理论的趋同假设。但研究发现港府引用全球论述是为了"外化"国内问题——这更符合政策借用逻辑。（p. 491）
+> 1. **全球化论述的工具性使用**：如果仅关注 [[Liberal Studies (Hong Kong)|LS]] 诞生，似乎验证了[[World Society Theory|世界文化理论]]的趋同假设。但研究发现港府引用全球论述是为了"[[Externalization (Schriewer)|外化]]"国内问题——这更符合[[Policy Borrowing|政策借用]]逻辑。（p. 491）
 >
 > 2. **内外部因素的角色逆转**：诞生期是公民社会（教协、媒体、立法会多方协商）推动；废除期是直接的国家干预，内部利益相关者完全缺席。这与 Cuban 对美国情境的分析形成对比。（p. 481）
 >
@@ -125,14 +125,14 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > ### 官方课程层面：意图课程 vs. 实施课程
 >
-> **批评内容**：Yan & Morris (2025) 明确将分析限定在"意图课程"（intended curriculum）层面——课程指引、政府政策文件、官方论述——未涉及 LS 在课堂中的实际实施（implemented curriculum）和学生实际学习成果（attained curriculum）。
+> **批评内容**：Yan & Morris (2025) 明确将分析限定在"意图课程"（intended curriculum）层面——课程指引、政府政策文件、官方论述——未涉及 [[Liberal Studies (Hong Kong)|LS]] 在课堂中的实际实施（implemented curriculum）和学生实际学习成果（attained curriculum）。
 >
 > **影响**：
 > - 论文揭示的是政策制定层面的政治动力和修辞策略，而非 LS 在 400+ 所香港中学的实际教学效果
 > - 一个重要的未回答问题：LS 的课堂教学在多大程度上真正实现了其官方课程目标（批判思维、多角度分析）？或者说，LS 的"批判性"是否更多存在于政策文本中？
-> - CSD 自 2021 年实施以来的课堂实践仍是一片研究空白——"pass/fail"评估在课堂中产生了什么实际教学行为？
+> - [[Citizenship and Social Development (Hong Kong)|CSD]] 自 2021 年实施以来的课堂实践仍是一片研究空白——"pass/fail"评估在课堂中产生了什么实际教学行为？
 >
-> **目前状态**：此局限为后续研究提供了明确方向——需要课堂观察、教师访谈和学生成果分析来补充政策层面的发现。但在《国安法》框架下，此类研究的数据获取面临显著障碍。
+> **目前状态**：此局限为后续研究提供了明确方向——需要课堂[[Observational and Correlational Research|观察]]、教师访谈和学生成果分析来补充政策层面的发现。但在《国安法》框架下，此类研究的数据获取面临显著障碍。
 >
 > ### 媒体来源偏向：官方叙事主导废除阶段的分析
 >
@@ -147,7 +147,7 @@ updated: '2026-05-18'
 > **批评内容**：论文将香港与内蒙古（Bulag, 2024）、新疆（Tobin, 2024）、西藏（Leibold & Dorjee, 2024）并置，论证中共在边疆地区推行统一的"中华民族"认同——但这一比较仅为框架性并置（pp. 489–490），未进行深入的比较案例分析。
 >
 > **未展开的关键问题**：
-> - 香港作为"一国两制"下的特别行政区，与新疆、西藏在行政结构和法律框架上存在根本差异——"华化"（sinicisation）的实施机制是否也因此不同？
+> - 香港作为"一国两制"下的特别行政区，与新疆、西藏在行政结构和法律框架上存在根本差异——"华化"（[[Sinicisation|sinicisation]]）的实施机制是否也因此不同？
 > - 论文提到的"香港的华化被更谨慎地执行"（p. 490）是重要洞察，但未展开比较分析——谨慎到什么程度？以什么方式谨慎？与新疆的"普通话化"（Tobin, 2024）有何机制差异？
 >
 > **目前状态**：此方向为未来跨国比较研究提供了明确路径。但 Yuen (2024) 指出此类比较在中国大陆内部被视为政治敏感，可能限制后续研究的可能性。

@@ -30,36 +30,36 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> Nelson & Campbell (2017) 作为 *Educational Research* 特刊导言，围绕三个核心问题组织该领域的讨论：(1) EIP 如何被不同利益相关者定义和理解？(2) 有效的知识动员（knowledge mobilisation）需要什么条件？(3) EIP 的成果应如何测量？(p. 128)
+> Nelson & [[Campbell Collaboration|Campbell]] (2017) 作为 *Educational Research* 特刊导言，围绕三个核心问题组织该领域的讨论：(1) [[Evidence-Informed Practice|EIP]] 如何被不同利益相关者定[[Rightness|义]]和理解？(2) 有效的[[Knowledge Mobilisation|知识动员]]（knowledge mobilisation）需要什么条件？(3) EIP 的成果应如何测量？(p. 128)
 
 ## 理论框架
 
 > [!abstract] 理论框架
 > 论文采用**概念综合**（conceptual synthesis）方法，将特刊中来自澳大利亚、加拿大、英格兰、荷兰和美国的论文整合进一个三维分析框架：
 >
-> 1. **定义维度**：证据的定义边界——谁的证据算数？证据本位 vs 证据知情 vs 研究知情的语义区分
-> 2. **应用维度**：知识动员（KMb）的四种策略——沟通与传播、能力建设、伙伴关系与网络、系统化方法
+> 1. **定[[Rightness|义]]维度**：证据的定义边界——谁的证据算数？证据本位 vs 证据知情 vs 研究知情的语义区分
+> 2. **应用维度**：[[Knowledge Mobilisation|知识动员]]（KMb）的四种策略——沟通与传播、能力建设、伙伴关系与网络、系统化方法
 > 3. **测量维度**：中间成果（教育者行为/思维模式）与长期成果（工具性/概念性/象征性影响）的区分
 
 ## 研究方法
 
 > [!info] 研究方法
 > - **方法**：特刊导言（editorial），概念综合与文献综述
-> - **证据基础**：综合特刊 7 篇论文的发现，并嵌入更广泛的 EIP 文献脉络（Weiss 1979; Hargreaves 1996; Nutley et al. 2007; Goldacre 2013; Bryk 2015 等）
+> - **证据基础**：综合特刊 7 篇论文的发现，并嵌入更广泛的 [[Evidence-Informed Practice|EIP]] 文献脉络（Weiss 1979; Hargreaves 1996; Nutley et al. 2007; Goldacre 2013; Bryk 2015 等）
 
 ## 核心论证
 
 > [!example] 核心论证
-> ### 1. EIP 不是一维概念——是证据 + 专业判断 + 数据的整合
+> ### 1. [[Evidence-Informed Practice|EIP]] 不是一维概念——是证据 + [[Professional Judgment|专业判断]] + 数据的整合
 >
 > 论文反对将 EIP 简化为"使用研究证据"。多位特刊作者论证 EIP 必须被视为**专业判断、系统层面数据、课堂数据和研究证据的整合**。（p. 129）
 >
-> > "Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice." (Sharples, 2013, p.7, cited in Nelson & Campbell, 2017, p. 129)
+> > "Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice." (Sharples, 2013, p.7, cited in Nelson & [[Campbell Collaboration|Campbell]], 2017, p. 129)
 >
 > ### 2. "谁的证据算数？"是核心争议
 >
 > 论文识别了 EIP 领域的根本性张力：
-> - **Goldacre (2013) 立场**：教育不是证据本位的，因为缺乏通过 RCT 收集的稳健"什么有效"证据 → 推动英国 What Works Centres 和美国联邦政府的"什么有效"方法论
+> - **Goldacre (2013) 立场**：教育不是证据本位的，因为缺乏通过 [[Randomised Controlled Trials|RCT]] 收集的稳健"什么有效"证据 → 推动英国 What Works Centres 和美国联邦政府的"什么有效"方法论
 > - **Bredo (2006) 的反驳**：将教育研究窄化为"什么有效"的实验排除了"什么重要"（what matters）的更大问题（p. 128）
 > - **Bryk (2015) 的中间立场**：提出"基于实践的证据"（practice-based evidence），认为教育者产生的细粒度、实践相关的知识可以有形塑性地支持专业学习和学生成就（p. 129）
 >
@@ -70,7 +70,7 @@ updated: '2026-05-18'
 > - EIP 不是简单的"改善研究供给"或"增加研究需求"——而是需要**关键前提条件**到位（p. 127）
 > - 需要关注**中介过程**（mediating processes）——连接证据和实践的环节
 >
-> ### 4. 知识动员的四种策略框架
+> ### 4. [[Knowledge Mobilisation|知识动员]]的四种策略框架
 >
 > 论文从特刊论文中归纳出 KMb 的四类核心策略（pp. 130–131）：
 >
@@ -91,8 +91,8 @@ updated: '2026-05-18'
 
 > [!success] 主要发现
 > - **共识**：特刊论文一致认为"证据"构成多种类型和来源的知识和信息——包括专业知识和判断，以及数据和研究。尽管"黄金标准"方法论辩论持续，最常使用的证据来源往往来自专业经验和同事，而非原始研究。（p. 132）
-> - **持续性挑战**：获取高质量证据的渠道、专业参与和探究的时间、所有参与者的专业发展和能力建设（理解、分享、共同开发和应用证据）——以及评估 EIP 策略和成果的方法。（p. 132）
-> - **KMb 的互惠性**：研究者和实践者都需要发展 KMb 能力——"具有讽刺意味的是，我们仍然需要更多关于 EIP 在实践中的应用和成果的证据"。（p. 132）
+> - **持续性挑战**：获取高质量证据的渠道、专业参与和探究的时间、所有参与者的专业发展和能力建设（理解、分享、共同开发和应用证据）——以及评估 [[Evidence-Informed Practice|EIP]] 策略和成果的方法。（p. 132）
+> - **[[Knowledge Mobilisation|KMb]] 的互惠性**：研究者和实践者都需要发展 KMb 能力——"具有讽刺意味的是，我们仍然需要更多关于 EIP 在实践中的应用和成果的证据"。（p. 132）
 > - **实践者间传播占主导**：研究发现教师主要从其他教师处获取评估实践信息；即使有意识地发展教师的证据使用，实践产生的证据的使用仍然比原始研究的使用更普遍。（p. 130）
 
 ## 关键引用
@@ -110,7 +110,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - **非实证研究**：作为特刊导言，论文本身未提供新的实证数据，而是综合他人研究——论证的说服力依赖于被综合研究的质量
-> - **定义问题回避**：论文承认"确保 EIP 的精确定义具有挑战性"但未提出自己的操作性定义——而是将定义多元性作为特征而非问题接受
+> - **定[[Rightness|义]]问题回避**：论文承认"确保 [[Evidence-Informed Practice|EIP]] 的[[Jing (Refined Mastery)|精]]确定义具有挑战性"但未提出自己的操作性定义——而是将定义多元性作为特征而非问题接受
 > - **测量部分薄弱**：论文承认"没有收到许多详细考虑这些问题的论文"——测量挑战被提出但远未解决
 > - **英语国家偏向**：特刊覆盖澳大利亚、加拿大、英格兰、荷兰和美国，缺少非西方/非英语国家的 EIP 视角
 

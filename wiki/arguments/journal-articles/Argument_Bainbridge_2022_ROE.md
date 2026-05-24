@@ -181,14 +181,14 @@ updated: '2026-05-18'
 
 > "What has emerged...is a discourse that is constructive as it actively and persistently distorts the meaning of 'good'—it is a sidestep into a world of fantasised goodness, while also away from an often-unspoken world of 'badness'"（p.19）
 
-> "The 'good schools' discourse is an Ofsted-derived evidenced position, which makes it all the more deceptive; it is a moral sidestep cloaked in the language of evidence."（p.28）
+> "The 'good schools' discourse is an [[Ofsted]]-derived evidenced position, which makes it all the more deceptive; it is a moral sidestep cloaked in the language of evidence."（p.28）
 
 > "It would appear that it is less easy to refute or sidestep certain evidence when it emerges from within Parliament."（p.28）
 
 > "Whereas it might be asking too much of our politicians to insist that they be aware of rigorous research methods, it is not too much to hold them to a high standard of ethics and to hold them to account when their demonstrated ethics fall short."（p.30）
 
 > [!info] 核心数据
-> - 文法学校"good"提及率 235%（每校），综合学校 1.7%（每校）
+> - [[Grammar School|文法学校]]"good"提及率 235%（每校），综合学校 1.7%（每校）
 > - SSEF £50M 若按"好学校应扩张"逻辑同等应用，总预算超 £84 亿
 > - "社会流动性"论述在委员会报告后从 53 次骤降至 13 次；但"好学校"话语未被动摇
 > - 保守党"好学校"主题引用 125 次 vs 工党 30 次

@@ -45,7 +45,7 @@ updated: 2026-05-23
 
 > [!info]
 > - 方法：受委托的组织史叙述与历史回顾，而不是围绕明确研究设计展开的学术研究。（Bates, 2017, p.7-9）
-> - 样本：Cognition Education Trust、Cognition Education Limited 及其相关团队与子公司。（Bates, 2017, p.7）
+> - 样本：[[Cognition Education (NZ)|Cognition Education Trust]]、Cognition Education Limited 及其相关团队与子公司。（Bates, 2017, p.7）
 > - 数据来源：组织档案、董事与同事对事实和章节的校核意见，以及作者作为前高管的长期工作经验。（Bates, 2017, p.9）
 
 ## 论证结构

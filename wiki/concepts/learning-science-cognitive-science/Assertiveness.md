@@ -28,7 +28,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > Assertiveness 指学生在课堂与同伴互动中主动表达和参与的行为倾向。
 
 ## 核心要素

@@ -60,7 +60,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]
-> GEI 的形成与后福特经济转型、新公共管理改革和教育技术发展深度交织。Hartmann (2022) 从[[Corporate Education|企业教育]]市场的视角提供了 GEI 扩张的一个具体时间线：
+> GEI 的形成与后福特经济转型、[[New Public Management|新公共管理]]改革和教育技术发展深度交织。Hartmann (2022) 从[[Corporate Education|企业教育]]市场的视角提供了 GEI 扩张的一个具体时间线：
 
 - **1990s**：第一所[[Corporate University|企业大学]]由美国通用汽车（GM）创建，Motorola、Apple、Deloitte、IBM、GE 等美国公司迅速跟进——企业培训从内部职能部门升级为品牌化教育项目，成为 GEI 中增长最快的板块之一（Hartmann, 2022, p.189）
 - **1990s–2000s**：欧洲 MNCs 相继建立企业大学（德国 Lufthansa、VW、Siemens；法国 AXA、Alcatel-Lucent；西班牙 Santander、Telefónica 等），但欧洲对企业大学概念比美国更存争议——部分学者质疑其仅为营销包装（Hartmann, 2022, pp.185, 189）
@@ -75,7 +75,7 @@ updated: '2026-05-18'
 - **多样化的行动者**：GEI 包含从跨国公司、慈善基金会、社会企业到私营教育提供者等多元行动者，它们通过平台、联盟和连接形成影响网络（Parreira do Amaral & Thompson, 2019, cited in Parreira do Amaral, 2022, p.43）
 - **教育想象的生产**：GEI 不仅是物质过程，也是话语生产——建构关于创新、现代化的教育想象，这些想象呼吁对我们已知的教育系统进行替代或颠覆（Parreira do Amaral, 2022, pp.42–43）
 - **全球渗透性**：GEI 的核心特征是建立在"以经济为基础的立论基础"上的概念已渗透到全球教育改革和重组之中（Parreira do Amaral, 2022, p.43）
-- **企业教育市场**：[[Corporate Education|企业教育]]是 GEI 中规模最大但被研究最少的维度之一。欧盟三分之一至三分之二的企业培训外包给外部提供商，大型雇主是教育服务的主要购买者。这一市场涵盖了从营利性 e-learning 平台到咨询公司、IT 巨头认证体系等多种供给形式（Hartmann, 2022, pp.190–193）。详见 [[Argument_Hartmann_2022_CorporateEducation]] 第四至五步
+- **[[Corporate Education|企业教育]]市场**：[[Corporate Education|企业教育]]是 GEI 中规模最大但被研究最少的维度之一。欧盟三分之一至三分之二的企业培训外包给外部提供商，大型雇主是教育服务的主要购买者。这一市场涵盖了从营利性 e-learning 平台到咨询公司、IT 巨头认证体系等多种供给形式（Hartmann, 2022, pp.190–193）。详见 [[Argument_Hartmann_2022_CorporateEducation]] 第四至五步
 
 ---
 

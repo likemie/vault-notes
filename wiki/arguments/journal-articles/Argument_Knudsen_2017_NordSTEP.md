@@ -28,34 +28,34 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> Hanne Knudsen（奥胡斯大学丹麦教育学院）对 John Hattie 进行了 Skype 访谈，围绕四个核心问题展开（Knudsen, 2017, p.253–254）：
+> Hanne Knudsen（奥胡斯大学丹麦教育学院）对 [[John Hattie]] 进行了 Skype 访谈，围绕四个核心问题展开（Knudsen, 2017, p.253–254）：
 >
 > 1. **实施与翻译**：Hattie 如何反思 VL 在丹麦的实施？他和团队对丹麦学校传统了解多少，是否认为本地情境知识很重要？
-> 2. **基本概念**：Hattie 如何定义"可见性"和"学习"？这些概念对课堂实践、动机、好奇心、教师角色和儿童观的含义是什么？
+> 2. **基本概念**：Hattie 如何定[[Rightness|义]]"可见性"和"学习"？这些概念对课堂实践、动机、好奇心、教师角色和儿童观的含义是什么？
 > 3. **理论与证据**：VL 著作中几乎没有教育理论（教育心理学、教育哲学）的引用——Hattie 如何看待理论与证据的关系？
-> 4. **John Hattie 作为关键人物**：VL 同时运作于科学、教育、政治和经济场域——Hattie 认为自己主要是研究者、政治家还是商人？
+> 4. **John Hattie 作为关键人物**：VL 同时运作于科学、教育、政治和经济[[Champ|场域]]——Hattie 认为自己主要是研究者、政治家还是商人？
 >
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> Knudsen 的访谈立场受 STS（Science and Technology Studies）影响，关注教育项目的翻译过程和 performative effects（Knudsen, 2017, p.253）。她引述 Staunæs (2018) 和 Lingard (2018) 作为类似取向的研究。
+> Knudsen 的访谈立场受 [[Science and Technology Studies (STS)|STS]]（Science and Technology Studies）影响，关注教育项目的翻译过程和 performative effects（Knudsen, 2017, p.253）。她引述 Staunæs (2018) 和 Lingard (2018) 作为类似取向的研究。
 >
 
 ## 研究方法
 
 > [!info] 研究方法
 > - 方法：半结构式 Skype 访谈
-> - 访谈对象：John Hattie（墨尔本大学）
+> - 访谈对象：[[John Hattie]]（墨尔本大学）
 > - 时长与地点：2017 年初，Brisbane 与澳大利亚南海岸之间通过 Skype 进行（Knudsen, 2017, p.254）
-> - 数据处理：Knudsen 缩写并编辑了转录稿以使其可读，声称"尽可能忠实和精确"（Knudsen, 2017, p.254）
+> - 数据处理：Knudsen 缩写并编辑了转录稿以使其可读，声称"尽可能忠实和[[Jing (Refined Mastery)|精]]确"（Knudsen, 2017, p.254）
 > - Hattie 后续阅读了文本并对部分主题（特别是证据概念）进行了补充阐述
 >
 
 ## 论证结构
 
 > [!example] 论证结构
-> 论文以引言-访谈-参考文献的结构呈现。引言部分（Knudsen, 2017, p.253–254）阐述了四个研究问题的背景：丹麦 VL 实施现状、现有批评文献（Snook et al., 2009; Simpson, 2017; Biesta, 2010）、以及 Knudsen 自己的 STS 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
+> 论文以引言-访谈-参考文献的结构呈现。引言部分（Knudsen, 2017, p.253–254）阐述了四个研究问题的背景：丹麦 VL 实施现状、现有批评文献（Snook et al., 2009; Simpson, 2017; Biesta, 2010）、以及 Knudsen 自己的 [[Science and Technology Studies (STS)|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
 >
 
 ## 主要发现
@@ -63,9 +63,9 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > ### 规模化与翻译
 >
-> - Hattie 自称"我是测量人员，我是统计学家"，VL 的工作最初是"业余爱好"（Knudsen, 2017, p.254）
+> - [[John Hattie|Hattie]] 自称"我是测量人员，我是统计学家"，VL 的工作最初是"业余爱好"（Knudsen, 2017, p.254）
 > - 教育领域缺乏规模化文献——Hattie 只能找到 5 篇关于规模化成功的文章；也缺乏实施模型（Knudsen, 2017, p.254）
-> - 通过 Cognition Education 的授权经营（licensing）模式运作：Hattie 从咖啡连锁店的商业模式中获取灵感，核心关注质量控制和法律合同（p.254）
+> - 通过 [[Cognition Education (NZ)|Cognition Education]] 的授权经营（licensing）模式运作：Hattie 从咖啡连锁店的商业模式中获取灵感，核心关注质量控制和法律合同（p.254）
 > - VL 工作坊是脚本化的（"scripted. To the word"），禁止教师分享自己的故事和课堂经验（p.254）
 > - 认证通过率仅五分之一，因为"几乎每个教师都想讲自己的故事、轶事和课堂"（p.254）
 >
@@ -107,7 +107,7 @@ updated: '2026-05-18'
 > ### 学习概念
 >
 > - 学习意味着从表层→深层→迁移（p.258）
-> - 问题式学习（PBL）效应量低是因为 90% 的学校在表层学习阶段引入 PBL（p.258）
+> - 问题式学习（[[Problem-Based Learning|PBL]]）[[Effect Size|效应量]]低是因为 90% 的学校在[[Surface and Deep Learning|表层学习]]阶段引入 PBL（p.258）
 > - VL 进校第一件事：问师生"学习意味着什么"并将双方的对比展示出来——学生常回答"准时到校、坐直、保持安静"（p.258）
 >
 > ### 证据与理论
@@ -119,7 +119,7 @@ updated: '2026-05-18'
 > - 证据是"被争夺的"（contested），不同人根据自身视角做出不同解释（p.259）
 > - 证据也可与经验相关——教师的广泛经验是合法的证据（p.259）
 > - 声称 VL 模型迄今未被质疑——"没有人提出更好的数据解释"（p.259）
-> - 持续更新元分析（已到 1400 项），目的是"第一个发现错误"——援引 Popper 的证伪主义（p.259）
+> - 持续更新[[Meta-analysis|元分析]]（已到 1400 项），目的是"第一个发现错误"——援引 Popper 的证伪主[[Rightness|义]]（p.259）
 >
 > ### 政策、研究与商业
 >
@@ -141,9 +141,9 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 作为访谈而非研究论文，内容反映 Hattie 的自我陈述和立场辩护，需与其他来源交叉验证
+> - 作为访谈而非研究论文，内容反映 [[John Hattie|Hattie]] 的自我陈述和立场辩护，需与其他来源交叉验证
 > - Knudsen 承认访谈"可能有些天真"——因为"没有人能单独控制教育思想和项目的接收和翻译"（p.253）
-> - Knudsen 未能如愿在奥克兰 Cognition Education 办公室观察丹麦数据处理过程——这一请求被拒绝（p.254）
+> - Knudsen 未能如愿在奥克兰 [[Cognition Education (NZ)|Cognition Education]] 办公室[[Observational and Correlational Research|观察]]丹麦数据处理过程——这一请求被拒绝（p.254）
 > - 访谈通过 Skype 进行而非面对面，转录经编辑和缩写
 >
 

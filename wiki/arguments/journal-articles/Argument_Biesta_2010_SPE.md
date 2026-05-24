@@ -31,15 +31,15 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> 证据本位教育（Evidence-Based Education）的设想——专业实践（如教育）应以科学研究证据为基础——在何种意义上是可行的？它对证据的期待在认识论、存在论和实践论三个维度上存在什么结构性缺陷？如果证据本位不可行，什么应该取而代之？
+> [[Evidence-Based Education|证据本位教育]]（Evidence-Based Education）的设想——专业实践（如教育）应以科学研究证据为基础——在何种意[[Rightness|义]]上是可行的？它对证据的期待在认识论、存在论和实践论三个维度上存在什么结构性缺陷？如果证据本位不可行，什么应该取而代之？
 >
 > > "The important question, therefore, is not whether or not there should be a role for evidence in professional action, but what kind of role it should play." (p. 492)
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **Dewey 的交易认识论（Transactional Epistemology）** — 替代表象认识论（representational epistemology），论证实验研究无法产生未来确定性的知识
-> - **系统理论（Systems Theory）** — 封闭/开放/递归/符号系统的区分，论证社会领域的非决定论特征
+> - **Dewey 的交易认识论（[[Transactional Epistemology]]）** — 替代表象认识论（representational epistemology），论证实验研究无法产生未来确定性的知识
+> - **[[Luhmann's Systems Theory|系统理论]]（Systems Theory）** — 封闭/开放/递归/符号系统的区分，论证社会领域的非决定论特征
 > - **Latour 的计量学（Metrology）** — 论证"科学成就"并非知识应用到世界，而是世界被改造为实验室条件
 > - **教育的 teleological 特征** — 教育是目的性（telos-driven）实践，价值先于效果
 >
@@ -50,14 +50,14 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - **方法**：[[Philosophical Analysis in Education]] — 以三个维度（认识论、存在论、实践论）为框架，逐一展开概念分析和逻辑论证
 > - **论证结构**：每个维度先区分两种"解读"（representational vs. transactional / closed vs. open / application vs. incorporation），再识别一个"缺陷"
-> - **数据来源**：哲学文献（Dewey、Latour）、系统理论、教育研究方法论文献
+> - **数据来源**：哲学文献（Dewey、Latour）、[[Luhmann's Systems Theory|系统理论]]、教育研究方法论文献
 
 ## 核心论证
 
 > [!example] 核心论证
 > ### 三重缺陷框架
 >
-> Biesta 在认识论、存在论和实践论三个维度逐一拆解证据本位教育的前提假设。
+> Biesta 在认识论、存在论和实践论三个维度逐一拆解[[Evidence-Based Education|证据本位教育]]的前提假设。
 >
 > **第一重：知识缺陷（Knowledge Deficit）——认识论维度**
 >
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 > - 但教育是**开放的、递归的、符号的系统**：
 >   - 开放：与外部环境互动
 >   - 递归：学生和教师基于自己的理解和解释行动（反思性）
->   - 符号：互动基础是意义和解释，而非物理推拉
+>   - 符号：互动基础是意[[Rightness|义]]和解释，而非物理推拉
 > - 因此，干预与效果之间的联系**至多是概率性的、非线性的**——这与医学或农业的因果逻辑截然不同
 >
 > > "Much talk about 'what works' operates on the assumption of a mechanistic ontology that is actually the exception, not the norm in the domain of human interaction." (p. 497)
@@ -109,7 +109,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **三重缺陷分别挑战了证据本位教育的不同前提**：知识缺陷挑战了"研究能提供确定性"的假设；效力缺陷挑战了"社会因果可被确定"的假设；应用缺陷挑战了"进步来自知识应用"的假设
+> 1. **三重缺陷分别挑战了[[Evidence-Based Education|证据本位教育]]的不同前提**：知识缺陷挑战了"研究能提供确定性"的假设；效力缺陷挑战了"社会因果可被确定"的假设；应用缺陷挑战了"进步来自知识应用"的假设
 >
 > 2. **证据本位教育实际上是一个价值真空的项目**：如果证据是唯一基础，教育实践将"完全没有方向"
 >
@@ -135,21 +135,21 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > ### 哲学论证的实操距离
 >
-> **批评内容**：Biesta 的论证停留在哲学层面（认识论、存在论、实践论的概念分析），未提供价值本位教育如何在教师教育和课堂实践层面具体操作的路线图。Cartwright & Hardie (2012) 在 *Evidence-Based Policy: A Practical Guide to Doing It Better* 中提供了从交易认识论视角进行政策评估的操作性建议，部分回应了这一批评——但 Biesta 本人未进行这一层面的工作。
+> **批评内容**：Biesta 的论证停留在哲学层面（认识论、存在论、实践论的概念分析），未提供[[Value-Based Education|价值本位教育]]如何在教师教育和课堂实践层面具体操作的路线图。Cartwright & Hardie (2012) 在 *Evidence-Based Policy: A Practical Guide to Doing It Better* 中提供了从交易认识论视角进行政策评估的操作性建议，部分回应了这一批评——但 Biesta 本人未进行这一层面的工作。
 >
-> **影响**：此局限使得 Biesta 的论文更多被用作批判武器（"为什么 EBE 不可行"），而非建设性方案（"如何实施价值本位教育"）。其在教师群体中的直接影响力有限。
+> **影响**：此局限使得 Biesta 的论文更多被用作批判武器（"为什么 [[Evidence-Based Education|EBE]] 不可行"），而非建设性方案（"如何实施价值本位教育"）。其在教师群体中的直接影响力有限。
 >
 > **目前状态**：Biesta 在后续著作（*Good Education in an Age of Measurement*, 2010a）中对教育目的论进行了更充分的阐述，但操作性路线图仍然缺失。
 >
 > ### "价值"的界定问题：谁的价值观？
 >
-> **批评内容**：Biesta 将教育定义为 teleological practice（目的性实践），但未充分展开回答一个关键政治问题：在多元社会中，教育的目的（telos）由谁来决定？如何处理不同群体之间的价值冲突（如宗教群体 vs. 世俗群体对性教育的目的分歧）？
+> **批评内容**：Biesta 将教育定[[Rightness|义]]为 teleological practice（目的性实践），但未充分展开回答一个关键政治问题：在多元社会中，教育的目的（telos）由谁来决定？如何处理不同群体之间的价值冲突（如宗教群体 vs. 世俗群体对性教育的目的分歧）？
 >
 > **Biesta 可能的回应**：Biesta (2010, p. 500) 强调教育目的需要通过民主协商来确定——这暗示价值判断不是技术官僚或研究者的特权，而是民主公共领域的事务。但这更多是方向性指引，而非具体的冲突解决机制。
 >
 > **目前状态**：此批评在教育政治哲学领域持续。Gutmann & Thompson 的审议民主（deliberative democracy）框架可能为价值冲突问题提供补充资源，但 Biesta 在本文中未进行这一对接。
 >
-> ### 证据角色的精确定位不明确
+> ### 证据角色的[[Jing (Refined Mastery)|精]]确定位不明确
 >
 > **批评内容**：Biesta 反复强调证据在价值本位教育中"从属但仍有角色"，但这个角色的边界未得到系统阐述。在什么条件下证据应该主导决策？在什么条件下应该让位给价值判断？两者之间的权重如何确定？
 >
@@ -159,7 +159,7 @@ updated: '2026-05-18'
 >
 > ### 对量化方法的可能过度排斥
 >
-> **批评内容**：批评者（如 Slavin, 2019）可能指出 Biesta 低估了在特定条件下——如强控制的学校情境（高复杂性化简情境）——量化证据的实际效用。当学校已通过时间表、课程、评估等方式大幅减少了系统的开放性后，RCT 产生的因果推断在类似条件下的可迁移性可能比 Biesta 承认的更高。
+> **批评内容**：批评者（如 Slavin, 2019）可能指出 Biesta 低估了在特定条件下——如强控制的学校情境（高复杂性化简情境）——量化证据的实际效用。当学校已通过时间表、课程、评估等方式大幅减少了系统的开放性后，[[Randomised Controlled Trials|RCT]] 产生的因果推断在类似条件下的可迁移性可能比 Biesta 承认的更高。
 >
 > **Biesta 的回应线索**：Biesta (2010, pp. 497–498) 会回应说，高度化简的学校情境恰恰依赖权力运作来维持其"封闭性"——这不是自然的因果规律，而是政治建构——因此"有效"既是技术问题也是政治问题。但这一回应可能承认了在给定的化简条件下量化证据具有一定的局部效用。
 >

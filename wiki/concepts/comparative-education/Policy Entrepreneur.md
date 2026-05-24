@@ -27,7 +27,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > 政策创业者（Policy Entrepreneur）是在教育系统内通过协作和网络化来实质性影响政策发展和服务交付的行动者。Michael Mintrom (2000) 描述了在教育系统内运作的政策创业者；[[Stephen Ball]] (2012) 将这一概念扩展至跨国政策倡导和行动，涵盖那些在区域或全球范围内跨系统进行创业式运作的人（O'Neill et al., 2016, p.viii, p.47）。
 
 ## 核心特征
@@ -39,12 +39,12 @@ updated: '2026-05-18'
 
 ## 典型案例：John Hattie
 
-> [!example] 典型案例：John Hattie
-> John Hattie 被 O'Neill 等描述为新西兰自 1990 年代末以来"最精湛的公立学校政策行动者"。其轨迹呈现为公共福利/非营利/营利创业的无缝融合：
+> [!example] 典型案例：[[John Hattie]]
+> John Hattie 被 O'Neill 等描述为新西兰自 1990 年代末以来"最[[Jing (Refined Mastery)|精]]湛的公立学校政策行动者"。其轨迹呈现为公共福利/非营利/营利创业的无缝融合：
 >
 > - **公共部门**：受教育部合同开发 asTTle 国家课程测试系统（1999/2000），担任 AITSL 董事会主席（2014）（O'Neill et al., 2016, pp.47–50）
-> - **非营利**：任 Multi Serve Education Trust / Cognition Education Trust 董事和学术顾问（O'Neill et al., 2016, p.48）
-> - **营利**：通过 Cognition Education 将 Visible Learning 品牌商业化——16 个工作坊系列、学校认证、全球交付伙伴网络（Osiris UK, Corwin Australia/North America, Bazalt Netherlands, JN Partnership Scandinavia）；Visible Classroom App 通过墨尔本大学与 Ai-Media 合作实现商业化和全球推广（O'Neill et al., 2016, pp.48–51）
+> - **非营利**：任 [[Cognition Education (NZ)|Multi Serve Education Trust]] / Cognition Education Trust 董事和学术顾问（O'Neill et al., 2016, p.48）
+> - **营利**：通过 Cognition Education 将 [[Visible Learning]] 品牌商业化——16 个工作坊系列、学校认证、全球交付伙伴网络（Osiris UK, Corwin Australia/North America, Bazalt Netherlands, JN Partnership Scandinavia）；Visible Classroom App 通过墨尔本大学与 Ai-Media 合作实现商业化和全球推广（O'Neill et al., 2016, pp.48–51）
 >
 > > 例：Hattie 的原始学术工作（大学环境中的研究）被包装成 Visible Learning 书系 → 教师工作坊与学校认证（Cognition Education 授权给全球商业伙伴）→ Visible Classroom App（墨尔本大学与 Ai-Media 五年全球协议），每一步都产生新的收入流。
 

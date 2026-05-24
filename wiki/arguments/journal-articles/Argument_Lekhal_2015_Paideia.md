@@ -57,8 +57,8 @@ updated: '2026-05-18'
 >
 > ### 变量操作化细节
 >
-> - 学生自评变量：师生关系、班级学习文化、课堂反馈、学习阻碍行为、学习兴趣与学业愉悦（Lekhal et al., 2015, p.80）。
-> - 教师评定变量（完整）：学业成绩（挪威语/数学/英语，3 项）、自控（9 项）、自我主张（8 项）、学校规范适应（9 项）、动机与努力投入（3 项）（Lekhal et al., 2015, pp.80-82）。
+> - 学生自评变量：[[Student-Teacher Relationship|师生关系]]、班级学习文化、课堂[[Feedback|反馈]]、[[Learning-Impeding Behavior|学习阻碍行为]]、学习兴趣与学业愉悦（Lekhal et al., 2015, p.80）。
+> - 教师评定变量（完整）：学业成绩（挪威语/数学/英语，3 项）、自控（9 项）、自我主张（8 项）、[[School Norm Adaptation|学校规范适应]]（9 项）、动机与努力投入（3 项）（Lekhal et al., 2015, pp.80-82）。
 > - 信度：关键量表 alpha 多数较高（如学校规范适应与动机/努力均为 .95），支持后续回归建模（Lekhal et al., 2015, p.80）。
 >
 > ### 变量词汇映射表（统一）
@@ -71,8 +71,8 @@ updated: '2026-05-18'
 > | 英语成绩      | English                                       | 教师评定 | 因变量子项      | 单项（总分子项）           | [[Gender Differences in Academic Achievement]]   |
 > | 学校规范适应    | Adaptation to school norms                    | 教师评定 | 自变量（行为/态度） | 9 项 / 1-4 / .95    | [[School Norm Adaptation]]                       |
 > | 动机与努力投入   | Motivation and work effort                    | 教师评定 | 自变量（行为/态度） | 3 项 / 1-5 / .95    | [[Motivation and Work Effort]]                   |
-> | 自控        | Self-control                                  | 教师评定 | 自变量（行为）    | 9 项 / 1-4 / .95    | [[Self-control]]                                 |
-> | 自我主张      | Assertiveness                                 | 教师评定 | 自变量（行为）    | 8 项 / 1-4 / .91    | [[Assertiveness]]                                |
+> | 自控        | [[Self-control]]                                  | 教师评定 | 自变量（行为）    | 9 项 / 1-4 / .95    | [[Self-control]]                                 |
+> | 自我主张      | [[Assertiveness]]                                 | 教师评定 | 自变量（行为）    | 8 项 / 1-4 / .91    | [[Assertiveness]]                                |
 > | 师生关系      | Relation to teacher                           | 学生自评 | 自变量（关系）    | 8 项 / 1-4 / .86    | [[Student-Teacher Relationship]]                 |
 > | 班级学习文化    | Classroom learning culture                    | 学生自评 | 自变量（环境）    | 4 项 / 1-4 / .72    | [[Classroom Learning Culture]]                   |
 > | 课堂反馈      | Feedback in teaching                          | 学生自评 | 自变量（教学过程）  | 5 项 / 1-5 / .84    | [[Feedback]]                                     |
@@ -95,7 +95,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > - 女生在教师评定的核心学科成绩上整体高于男生，挪威语差距最大，其次英语，数学最小（Lekhal et al., 2015, p.82）。
 > - 对成绩解释力最高的变量是"适应学校规范"与"动机和劳动投入"；这两项对男女生都显著（Lekhal et al., 2015, pp.83-84）。
-> - 关系性变量（如学生自评师生关系）在本研究中的解释力较弱，作者认为这可能与"关系变量来自学生自评、成绩来自教师评定"的信息源差异有关（Lekhal et al., 2015, p.85）。
+> - 关系性变量（如学生自评[[Student-Teacher Relationship|师生关系]]）在本研究中的解释力较弱，作者认为这可能与"关系变量来自学生自评、成绩来自教师评定"的信息源差异有关（Lekhal et al., 2015, p.85）。
 > - 研究支持"性别差异主要通过校内行为与评价机制间接生成"的解释路径（Lekhal et al., 2015, pp.83-86）。
 >
 > ### 学业成绩性别差异（表 2 重构）
@@ -107,10 +107,10 @@ updated: '2026-05-18'
 > | 数学 | 3.84 (1.28) | 3.97 (1.22) | -0.10 |
 > | 英语 | 3.65 (1.24) | 4.04 (1.16) | -0.33 |
 >
-> ### 表 2/3 的关键效应量（Cohen's d）
+> ### 表 2/3 的关键[[Effect Size|效应量]]（Cohen's d）
 >
 > - 学业成绩总分：d=-0.33；其中挪威语 d=-0.50，英语 d=-0.33，数学 d=-0.10（Lekhal et al., 2015, p.82）。
-> - 教师评定行为变量：学校规范适应 d=-0.70，动机与努力 d=-0.61，自控 d=-0.42，自我主张 d=-0.29（Lekhal et al., 2015, p.82）。
+> - 教师评定行为变量：[[School Norm Adaptation|学校规范适应]] d=-0.70，动机与努力 d=-0.61，自控 d=-0.42，自我主张 d=-0.29（Lekhal et al., 2015, p.82）。
 > - 学生自评变量：多数差异较小，提示学生自我报告与教师评定在性别差异幅度上并不一致（Lekhal et al., 2015, p.82）。
 >
 > ### 在校变量性别差异（表 3 完整重构）

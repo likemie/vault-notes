@@ -25,13 +25,13 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > 风险慈善（Venture Philanthropy）是大型机构信托和私人基金会采用的一种较新的慈善方式，以"投资"（investment）而非传统的"拨款"（granting）或"种子基金"（seeding）为核心逻辑。这些投资往往具有战略范围、较大规模、多年执行周期，其结果明确按照经济投资回报和/或社会投资回报进行评估（O'Neill et al., 2016, p.vii）。
 
 ## 与传统慈善的区别
 
 > [!example] 与传统慈善的区别
-> - **传统慈善**：一次性拨款，关注即时需求，以利他主义为核心动机
+> - **传统慈善**：一次性拨款，关注即时需求，以利他主[[Rightness|义]]为核心动机
 > - **风险慈善**：战略性长期投资，多年承诺，以可测量的社会/经济回报为评估标准（O'Neill et al., 2016, p.vii）
 
 ## 新西兰案例
@@ -45,14 +45,14 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - 新西兰在 Charities Aid Foundation 2015 年世界捐赠指数中排名第三；2014 年总捐赠估计 USD 2.8B（占 GDP 1.17%），其中个人捐赠 55%、信托和基金会 42%、企业 3%（O'Neill et al., 2016, pp.vii–viii）
-> - Teach First New Zealand 的资金支持来自本地和离岸风险慈善团体、企业、慈善信托和教育部门 NGO 的多样化组合（O'Neill et al., 2016, p.ix）。详见 Teach First New Zealand (TFNZ 2011)
+> - Teach First New Zealand 的资金支持来自本地和离岸风险慈善团体、企业、慈善信托和教育部门 NGO 的多样化组合（O'Neill et al., 2016, p.ix）。详见 Teach First New Zealand ([[Teach First New Zealand Ako Mātātupu (TFNZ 2011)|TFNZ]] 2011)
 > - Manaiakalani Education Trust 获 Foundation North、Spark Foundation 和 NEXT Foundation 的多年风险慈善资助，实现从地方试点到全国规模的扩展（O'Neill et al., 2016, p.9）。详见 [[Manaiakalani Education Trust (NZ 2011)]]
-> - E Tipu E Rea（PSKH 支持实体）意图通过慈善资助维持，体现了风险慈善逻辑在特许学校政策基础设施中的应用（O'Neill et al., 2016, p.12）。详见 [[Partnership Schools Kura Hourua (NZ 2011)]]
+> - E Tipu E Rea（PSKH 支持实体）意图通过慈善资助维持，体现了风险慈善逻辑在[[Partnership Schools Kura Hourua (NZ 2011)|特许学校]]政策基础设施中的应用（O'Neill et al., 2016, p.12）。详见 [[Partnership Schools Kura Hourua (NZ 2011)]]
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 以"投资"逻辑运作的风险慈善模糊了慈善利他主义与金融投资期望之间的界限，使私有部门行动者对公立教育决策权和财产权产生期望（O'Neill et al., 2016, p.xv）
+> - 以"投资"逻辑运作的风险慈善模糊了慈善利他主[[Rightness|义]]与金融投资期望之间的界限，使私有部门行动者对公立教育决策权和财产权产生期望（O'Neill et al., 2016, p.xv）
 > - 大型慈善信托仅将少数投资回报分配为捐赠（如 Foundation North 平均 23.3%），其"永续增值"逻辑与紧迫的社会需求之间存在张力（O'Neill et al., 2016, p.xiii）
 
 ## 来源

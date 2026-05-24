@@ -30,7 +30,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> 书评评述 Hattie & Yates 合著 *Synlig læring og læringens anatomi*（Dafolo, 2014，即 *Visible Learning and the Science of How We Learn* 的丹麦语译本），评估该书对丹麦教育实践的贡献与局限。
+> 书评评述 [[John Hattie|Hattie]] & Yates 合著 *Synlig læring og læringens anatomi*（Dafolo, 2014，即 *[[Visible Learning]] and the Science of How We Learn* 的丹麦语译本），评估该书对丹麦教育实践的贡献与局限。
 
 ## 理论框架
 
@@ -47,8 +47,8 @@ updated: '2026-05-18'
 > Fredens 从书中提炼出九条贯穿全书的原则（Fredens, 2015, p.70–71）：
 >
 > 1. "天赋""先天能力"和"智力"等概念有用，但不足以解释学习或表现
-> 2. 我们通过感官接触信息来学习——但要增加知识，信息必须具备与我们心智结构相匹配的组织水平，且这种组织方式随年龄变化
-> 3. 我们的心智有局限——当这些局限达到时，深度学习变得不可能，此后仅发生表层学习
+> 2. 我们通过感官接触信息来学习——但要增加知识，信息必须具备与我们心智结构相[[Matching|匹配]]的组织水平，且这种组织方式随年龄变化
+> 3. 我们的心智有局限——当这些局限达到时，深度学习变得不可能，此后仅发生[[Surface and Deep Learning|表层学习]]
 > 4. 学习者可从社会榜样、[[Direct Instruction|直接教学]]和纠正性[[Feedback|反馈]]中极大受益——通过教师学习至关重要，教师越理解学生学习的进展，学习就越有效
 > 5. 努力（effort）对动机至关重要——努力难以激活但可学习
 > 6. 短期目标极有激励作用——但可能与长期价值冲突，因此发展冲动控制和延迟满足能力很重要
@@ -58,7 +58,7 @@ updated: '2026-05-18'
 >
 > ### 社会脑与镜像神经元
 >
-> Fredens 补充 Yates 的认知神经科学视角：我们不仅观察他人的行为和沟通，也镜像他人的情感——Damasio 称之为"as-if loop"。看到他人喜悦激活我们自己脑中相同的区域（Fredens, 2015, p.72）。
+> Fredens 补充 Yates 的认知神经科学视角：我们不仅[[Observational and Correlational Research|观察]]他人的行为和沟通，也镜像他人的情感——Damasio 称之为"as-if loop"。看到他人喜悦激活我们自己脑中相同的区域（Fredens, 2015, p.72）。
 >
 > ### 反馈文化的核心命题
 >
@@ -66,7 +66,7 @@ updated: '2026-05-18'
 >
 > ### 从实验室到课堂
 >
-> Fredens 以"翻译研究"（translational research）概念描述将研究发现引入课堂的挑战：研究常由研究者写给研究者，Hattie & Yates 的贡献在于使研究发现可为教师和政策制定者所用。但下一步——将知识真正带入学校——仍有很长的路。芬兰教师教育将教育理论和研究方法作为培训的一部分，培养教师的建设性和批判性意识，使其免疫于可疑的"学习理论"（Fredens, 2015, p.75）。
+> Fredens 以"翻译研究"（translational research）概念描述将研究发现引入课堂的挑战：研究常由研究者写给研究者，[[John Hattie|Hattie]] & Yates 的贡献在于使研究发现可为教师和政策制定者所用。但下一步——将知识真正带入学校——仍有很长的路。芬兰教师教育将教育理论和研究方法作为培训的一部分，培养教师的建设性和批判性意识，使其免疫于可疑的"学习理论"（Fredens, 2015, p.75）。
 
 ## 主要发现
 
@@ -74,14 +74,14 @@ updated: '2026-05-18'
 > - 书评总体正面评价该书，称其"videnskabeligt funderet"（科学根基扎实），并以从实验室到课堂的可及性为最大优势（Fredens, 2015, p.74–75）
 > - 指出书中九个原则被组织为三部分 31 章：课堂中的学习、学习的基础、认识你自己（Fredens, 2015, p.71）
 > - 批评 recitationsmetoden（传统问答法）：学生学会说教师想听的话而非思考，发展出"说老师想听的，让聪明人解决其余"的生存策略（Fredens, 2015, p.71）
-> - 区分教师激活（aktivere）与促进（facilitere）：促进者在场边观察，激活者则论证、指导和示范（Fredens, 2015, p.73）
+> - 区分教师激活（aktivere）与促进（facilitere）：促进者在场边[[Observational and Correlational Research|观察]]，激活者则论证、指导和示范（Fredens, 2015, p.73）
 > - 指出该书以认知视角为主，但横跨阅读可发现文化视角——学校是"tilværelsesoplysning"（存在启蒙，引 Løgstrup）（Fredens, 2015, p.74）
-> - 对 Hattie & Yates 声称好教师不能以特定人格类型定义的立场提出质疑，引用 Lambert & Barley (2001) 发现治疗师人格是治疗关系中最重要的因素——比所用方法更重要（Fredens, 2015, p.73）
+> - 对 [[John Hattie|Hattie]] & Yates 声称好教师不能以特定人格类型定[[Rightness|义]]的立场提出质疑，引用 Lambert & Barley (2001) 发现治疗师人格是治疗关系中最重要的因素——比所用方法更重要（Fredens, 2015, p.73）
 >
 > ### Fredens 的补充性批评
 >
 > - **默认网络的功能**：Hattie & Yates 强调注意力中断的缺点，但 Fredens 补充指出好处——当大脑"走神"时，前额叶关闭并转入默认网络（社会脑），在恢复的同时产生联想和创意发展。这种注意力"缺失"在创造性过程中至关重要（Fredens, 2015, p.71–72）
-> - **认知负荷与不必要指导**：Fredens 引 Hattie & Yates 警告——没有必要的指导和教学时，学生"交换无知并同时用不必要的信息填满头脑"，称此为"非生产性心理努力"（uproduktiv mental anstrengelse），认知术语为"认知负荷"（cognitive load）——工作记忆被不必要信息填满的状态（Fredens, 2015, p.73）
+> - **认知负荷与不必要指导**：Fredens 引 Hattie & Yates 警告——没有必要的指导和教学时，学生"交换无知并同时用不必要的信息填满头脑"，称此为"非生产性心理努力"（uproduktiv mental anstrengelse），认知术语为"认知负荷"（cognitive load）——[[Working Memory|工作记忆]]被不必要信息填满的状态（Fredens, 2015, p.73）
 
 ## 关键引用
 
@@ -97,7 +97,7 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 书评未对 Hattie & Yates 的元分析方法论进行系统性批判——这是其作为书评而非研究论文的性质所限
+> - 书评未对 [[John Hattie|Hattie]] & Yates 的[[Meta-analysis|元分析]]方法论进行系统性批判——这是其作为书评而非研究论文的性质所限
 > - 作为丹麦语出版物中的书评，其读者群主要限于北欧教育界
 > - 书评的补充性批评（默认网络功能、教师人格重要性）来自 Fredens 自身的脑科学和医学背景，非来自被评书籍
 

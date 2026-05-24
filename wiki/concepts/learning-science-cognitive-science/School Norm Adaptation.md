@@ -31,7 +31,7 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > School Norm Adaptation 指学生对学校规范与课堂角色期待的行为性适配程度。
 
 ## 历史沿革
@@ -44,12 +44,12 @@ updated: '2026-05-18'
 > [!abstract] 核心要素
 > - 规则遵循：按课堂与学校要求完成学习任务与日常行为（Lekhal_2015_Paideia）。
 > - 任务持续性：在学习活动中保持稳定投入与执行连贯性（Lekhal_2015_Paideia）。
-> - 角色匹配：学生行为与学校"理想学生角色"之间的一致程度（Lekhal_2015_Paideia）。
+> - 角色[[Matching|匹配]]：学生行为与学校"理想学生角色"之间的一致程度（Lekhal_2015_Paideia）。
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - 与 [[Gender Differences in Academic Achievement]] 相比，它是过程变量；与 [[Professional Judgment]] 相比，它是学生行为匹配变量。
+> - 与 [[Gender Differences in Academic Achievement]] 相比，它是过程变量；与 [[Professional Judgment]] 相比，它是学生行为[[Matching|匹配]]变量。
 
 ## 理论基础
 

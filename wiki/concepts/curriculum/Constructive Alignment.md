@@ -25,18 +25,18 @@ updated: '2026-05-18'
 
 ## 定义
 
-> [!info] 定义
+> [!info] 定[[Rightness|义]]
 > 建构性对齐（Constructive Alignment）是 [[John Biggs]] (1996, 2003) 提出的课程设计原则，包含两个前提：
 >
 > 1. **建构性前提**：学生通过他们所做的学习活动来建构意义（students construct meaning from what they do to learn）
 > 2. **对齐前提**：教师将计划的学习活动与预期的学习结果对齐（the teacher aligns the planned learning activities with the learning outcomes）
 >
-> 由此，任何课程的设计须确保学习活动和评估任务与课程预期的学习结果对齐（Hattie, 2015, p.87）。
+> 由此，任何课程的设计须确保学习活动和评估任务与课程预期的学习结果对齐（[[John Hattie|Hattie]], 2015, p.87）。
 
 ## 核心要素
 
 > [!abstract] 对齐的三个要素
-> 建构性对齐涉及三个要素的逻辑一致性（Hattie, 2015, p.87）：
+> 建构性对齐涉及三个要素的逻辑一致性（[[John Hattie|Hattie]], 2015, p.87）：
 > - **预期学习结果**（intended learning outcomes）：课程声称要达成的目标
 > - **教学活动**（teaching/learning activities）：学生为达成目标所做的活动
 > - **评估任务**（assessment tasks）：测量学生达成目标程度的任务
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 与成功标准的透明性关系
-> Hattie (2015, p.87) 强调学生不应被期望自己"摸索出"要学什么以及成功意味着什么——"通常他们只有在拿回评估结果时才学到这些"。相反，必须在任何教学或评估之前明确说明成功标准。没有这种对齐，反馈、评估报告和自我调节学习的强大效果就不太可能发生。
+> Hattie (2015, p.87) 强调学生不应被期望自己"摸索出"要学什么以及成功意味着什么——"通常他们只有在拿回评估结果时才学到这些"。相反，必须在任何教学或评估之前明确说明成功标准。没有这种对齐，[[Feedback|反馈]]、评估报告和自我调节学习的强大效果就不太可能发生。
 
 
 > [!abstract] 在 VL 框架中的应用
