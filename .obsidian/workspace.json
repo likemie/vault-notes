@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
-                "mode": "preview",
+                "file": "wiki/facts/uk/Areopagitica (1644).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Li_2012_Cambridge"
+              "title": "Areopagitica (1644)"
             }
           }
         ]
@@ -189,12 +189,13 @@
   },
   "active": "1ae9539e2ff14392",
   "lastOpenFiles": [
+    "wiki/facts/sweden/Visible Learning in Sweden.md",
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "wiki/concepts/comparative-education/Grade Retention.md",
     "wiki/facts/belgium/Grade Retention in French-Speaking Belgium.md",
     "wiki/facts/belgium/French-Speaking Belgium Education System.md",
     "wiki/concepts/research-methodology/Inclusive Evidence Validation Typology.md",
     "wiki/concepts/instruction-pedagogy/Devil's Advocate.md",
-    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "wiki/concepts/communication-discourse/Grice's Conversational Maxims.md",
     "wiki/concepts/comparative-education/Listening-Oriented Learning.md",
     "wiki/concepts/instruction-pedagogy/Revoicing.md",
@@ -224,7 +225,6 @@
     "sources/Dachet_2021_ROE.md",
     "wiki/arguments/journal-articles/Argument_Dachet_2021_ROE.md",
     "wiki/facts/belgium/Pact for Educational Excellence.md",
-    "wiki/concepts/sociology-of-education/Doxa.md",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/iShot_2026-05-23_15.07.28.png",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
