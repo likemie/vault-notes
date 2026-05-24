@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/educational-philosophy/Bildung.md",
+                "file": "wiki/concepts/learning-science-cognitive-science/Life Power.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bildung"
+              "title": "Life Power"
             }
           }
         ]
@@ -189,6 +189,15 @@
   },
   "active": "1ae9539e2ff14392",
   "lastOpenFiles": [
+    "wiki/concepts/educational-philosophy/Whole Sustainability.md",
+    "wiki/concepts/educational-philosophy/Scientism.md",
+    "wiki/concepts/educational-philosophy/Otherhood.md",
+    "wiki/concepts/educational-philosophy/Humosity.md",
+    "wiki/concepts/educational-philosophy/Epistemological Vigilance.md",
+    "wiki/concepts/sociology-of-education/Doxa.md",
+    "wiki/concepts/educational-philosophy/Ecomuseology.md",
+    "wiki/concepts/educational-philosophy/Epistemology of Resistance.md",
+    "wiki/concepts/educational-philosophy/Bildung.md",
     "wiki/facts/uk/Selective Schools Expansion Fund 2018.md",
     "wiki/facts/uk/What Works Network (UK).md",
     "wiki/facts/uk/Playing for Success.md",
@@ -206,15 +215,6 @@
     "wiki/concepts/comparative-education/Cognitive Source.md",
     "wiki/concepts/comparative-education/Pride in Learning.md",
     "wiki/facts/china/Civil Service Examination.md",
-    "wiki/concepts/comparative-education/Examination Hell.md",
-    "wiki/concepts/comparative-education/Cross-National Attraction.md",
-    "wiki/concepts/comparative-education/Confucian Tutoring Style.md",
-    "wiki/concepts/comparative-education/Boarding Schools.md",
-    "wiki/concepts/comparative-education/International Schools.md",
-    "wiki/concepts/comparative-education/Codeswitcher (School).md",
-    "wiki/concepts/comparative-education/Chinese Learner.md",
-    "wiki/methods/quantitative/Observational and Correlational Research.md",
-    "wiki/concepts/comparative-education/Listening-Oriented Learning.md",
     "scripts/__pycache__/wiki_linker.cpython-312.pyc",
     "scripts/__pycache__/wiki_relations.cpython-312.pyc",
     "scripts/__pycache__",

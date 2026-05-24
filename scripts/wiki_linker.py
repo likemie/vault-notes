@@ -126,10 +126,6 @@ def make_terms(entries: list[Entry]) -> tuple[list[Term], dict[str, Entry], dict
             text = text.strip()
             if not text:
                 continue
-            # Single-character CJK aliases are too ambiguous for auto-linking:
-            # e.g. 言 matches inside 语言/发言/言论, 化 matches inside 文化/变化/自动化.
-            if len(text) == 1 and is_cjk(text):
-                continue
             key = (text, e.title)
             if key in seen:
                 continue
@@ -378,6 +374,11 @@ def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -
             removed += 1
             return display if display is not None else target
 
+        if display is not None and is_standalone_cjk_alias(display, entries_by_title[target]):
+            if not valid_boundary(text, m.start(), m.end(), display):
+                removed += 1
+                return display
+
         if display is not None:
             display_clean = display.strip()
             entry = entries_by_title[target]
@@ -413,6 +414,10 @@ def is_cjk(ch: str) -> bool:
     return "\u4e00" <= ch <= "\u9fff"
 
 
+def is_standalone_cjk_alias(text: str, entry: Entry) -> bool:
+    return len(text) == 1 and is_cjk(text) and text in set(entry.aliases)
+
+
 def valid_boundary(text: str, start: int, end: int, term: str) -> bool:
     before = text[start - 1] if start > 0 else ""
     after = text[end] if end < len(text) else ""
@@ -424,8 +429,16 @@ def valid_boundary(text: str, start: int, end: int, term: str) -> bool:
         if after and is_ascii_word_char(after):
             return False
 
-    # For CJK terms, allow adjacent CJK because Chinese does not use spaces.
-    # Longest-first matching handles most overlap cases.
+    # Single-character CJK aliases are meaningful, but only when they stand
+    # alone. This prevents 義/熟/精/圣 from linking inside 定义/成熟/精英/圣杯.
+    if len(term) == 1 and is_cjk(term):
+        if before and is_cjk(before):
+            return False
+        if after and is_cjk(after):
+            return False
+
+    # Multi-character CJK terms may be adjacent because Chinese does not use
+    # spaces. Longest-first matching handles most overlap cases.
     return True
 
 
