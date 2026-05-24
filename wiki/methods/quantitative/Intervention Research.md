@@ -42,7 +42,7 @@ updated: '2026-05-18'
 ## 操作步骤
 
 > [!example] 操作步骤
-> - **形成干预假设**：从描述性、[[Observational and Correlational Research|观察]]性或相关性研究中识别可能的因果关系，并据此设计可能改善学习的处理（Brady et al., 2023, p.2）。
+> - **形成干预假设**：从描述性、观察性或相关性研究中识别可能的因果关系，并据此设计可能改善学习的处理（Brady et al., 2023, p.2）。
 > - **操纵自变量**：研究者主动引入某种教育实践、处理或项目，而不是仅观察既有变量关系（Brady et al., 2023, p.4）。
 > - **与标准实践比较**：干预假设应通过把新处理与既有标准实践比较来正式检验（Brady et al., 2023, p.2）。
 > - **随机分配作为更强版本**：若研究还包含随机分配，则在 Brady et al. (2023) 的分类中属于 experimental studies，而不仅是 intervention studies（Brady et al., 2023, p.4）。

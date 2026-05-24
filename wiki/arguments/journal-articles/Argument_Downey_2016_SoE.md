@@ -21,7 +21,6 @@ related_theories:
   - "[[Refraction Framework]]"
 related_methods:
   - "[[Seasonal Comparison]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
@@ -69,7 +68,7 @@ updated: '2026-05-18'
 >    - 如何权衡所有加剧性和补偿性学校机制的净效应——大多数研究只聚焦单一机制
 >    - 如何判断学校不平等是否超过非学校不平等——传统的学校间比较框架忽略了反事实（"如果没有学校会怎样？"）
 >
-> 2. **展示[[Seasonal Comparison|季节性比较]]的方法论优势**（Downey & Condron, 2016, pp.4–5）：该方法一次性克服了这三个障碍——(a) 利用学年 vs 暑假自然分离学校与非学校效应，(b) [[Observational and Correlational Research|观察]]所有机制的净效应，(c) 以暑假作为无学校反事实的经验近似
+> 2. **展示[[Seasonal Comparison|季节性比较]]的方法论优势**（Downey & Condron, 2016, pp.4–5）：该方法一次性克服了这三个障碍——(a) 利用学年 vs 暑假自然分离学校与非学校效应，(b) 观察所有机制的净效应，(c) 以暑假作为无学校反事实的经验近似
 >
 > 3. **综合季节性比较证据**（Downey & Condron, 2016, pp.4–5）：一致的发现是 SES 认知技能差距在暑假期间增长更快，证明学校是补偿性的；BMI 模式类似；社交／行为技能呈中性；种族模式复杂且可能呈加剧性
 >

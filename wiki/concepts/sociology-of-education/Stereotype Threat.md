@@ -12,11 +12,9 @@ tags:
 related_concepts:
   - "[[Chinese Learner]]"
   - "[[Orientalism]]"
-  - "[[Doxa]]"
   - "[[Meta-Cultural Sensitivity]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
@@ -49,7 +47,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - **2002 年** — Aronson 在 social psychology 领域正式提出 stereotype threat 概念，最初用于解释标准化测试中的种族和性别成绩差距
-> - **2007 年** — Ryan & Louie 将这一概念引入跨文化教育研究，[[Observational and Correlational Research|观察]]到[[Chinese Learner|中国学习者]]在西方课堂中**内化**了关于自己"被动"的刻板描述，甚至为不够主动而主动道歉（Ryan, 2010, p.44）
+> - **2007 年** — Ryan & Louie 将这一概念引入跨文化教育研究，观察到[[Chinese Learner|中国学习者]]在西方课堂中**内化**了关于自己"被动"的刻板描述，甚至为不够主动而主动道歉（Ryan, 2010, p.44）
 > - **2010 年** — Ryan（2010）在 [[Chinese Learner]] 的批判分析中，系统展示了刻板印象威胁在跨文化教育中的完整运作链条，并将其与 [[Orientalism]] 的理论框架对接
 
 ## 核心要素
@@ -57,10 +55,10 @@ updated: '2026-05-18'
 > [!abstract]
 > 刻板印象威胁在教育跨文化语境中的因果链（Ryan, 2010, pp.44, 49–50）：
 > - **前提条件：刻板印象的存在与流通** — 西方学术文献中广泛流通着"[[Chinese Learner|中国学习者]]被动、缺乏批判思维"等描述，构成刻板印象威胁的激活源
-> - **威胁感知** — 当中国学习者进入以这些描述为"[[Doxa|常识]]"的西方课堂，他们意识到自己被以某种简化标签看待
+> - **威胁感知** — 当中国学习者进入以这些描述为"常识"的西方课堂，他们意识到自己被以某种简化标签看待
 > - **情感与认知负担** — 这种意识产生额外的心理负担——不仅要完成学业任务，还要应对"我是否证实了刻板印象"的隐形压力（Aronson, 2002）
 > - **去认同化（disidentification）** — 学生逐渐对该领域（如课堂讨论、批判性写作）失去兴趣和投入，因为"无论我怎么做，都会被看作那个刻板印象中的人"
-> - **内化与自我实现** — 最严重的一步：学生开始**相信**刻板印象——"也许我就是被动的"——并据此调整自己的行为，刻板印象由此从外部标签变成自我认知，从错误的预期变成"正确"的[[Observational and Correlational Research|观察]]
+> - **内化与自我实现** — 最严重的一步：学生开始**相信**刻板印象——"也许我就是被动的"——并据此调整自己的行为，刻板印象由此从外部标签变成自我认知，从错误的预期变成"正确"的观察
 
 > 这五个步骤构成一个闭环：**刻板印象 → 威胁感知 → 心理负担 → 行为退缩 → 刻板印象被"证实" → 刻板印象被加强**。每一个循环都让下一轮更难打破。
 

@@ -26,7 +26,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -88,7 +87,7 @@ updated: '2026-05-18'
 > EBT 隐含的经验主义假设：规则性足以追求"什么有效"。但 Hume (1748/1975) 早已指出重复发生永远不能建立因果性。Gorard & See (2013, p. 22) 发现"研究报告中频繁使用强因果术语描述其发现，却没有任何明显的理由"（Wrigley & McCusker, 2019, p. 116）。
 >
 > 建立因果模型的四个标准（Gorard, 2013，引自 p. 116–117）：
-> - 重复关联：关联必须"强、清晰可[[Observational and Correlational Research|观察]]、可复制且特定于 X 和 Y"
+> - 重复关联：关联必须"强、清晰可观察、可复制且特定于 X 和 Y"
 > - 顺序：X 必须始终先于 Y
 > - 可测量的联动变化
 > - 连贯的因果机制

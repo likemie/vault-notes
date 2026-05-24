@@ -20,8 +20,7 @@ related_concepts:
   - "[[School Leadership]]"
 related_theories:
   - "[[Transactional Epistemology]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
@@ -78,7 +77,7 @@ updated: '2026-05-18'
 
 - 不同国家与学段的可比证据（尤其非北欧样本）。
 - 标准化测验与教师评分并置时的差异模式。
-- 课堂[[Observational and Correlational Research|观察]]与纵向追踪对"间接作用路径"的验证结果。
+- 课堂观察与纵向追踪对"间接作用路径"的验证结果。
 
 ## 争议与批评
 

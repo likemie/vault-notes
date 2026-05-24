@@ -16,7 +16,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Observational and Correlational Research]]"
   - "[[In-depth Interview]]"
 related_persons:
   - "[[Yajun Zheng]]"
@@ -70,7 +69,7 @@ updated: '2026-05-18'
 > [!note-] 内部效度保障
 > [[Yajun Zheng|郑雅君]]（2023）采用了以下策略保障分析质量：
 >
-> - **三角互证法**：访谈、[[Observational and Correlational Research|观察]]结论和基本信息调查问卷结果交叉对照
+> - **三角互证法**：访谈、观察结论和基本信息调查问卷结果交叉对照
 > - **人员校验法**：每被访者陈述完重要观点后，研究者用自己的话复述一遍与被访者确认，以确保对被访者所建构的现实和行动意义的准确理解
 >
 

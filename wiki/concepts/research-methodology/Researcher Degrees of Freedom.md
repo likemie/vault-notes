@@ -17,8 +17,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Preregistration]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse (WWC)]]"
@@ -67,7 +66,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - **vs [[Publication Bias]]** — 研究者自由度发生在**分析阶段**（研究内的选择性决策），发表偏倚发生在**发表阶段**（研究间的选择性传播）
-> - **vs [[Preregistration]]** — 预注册是限制研究者自由度的主要机制：通过预先锁定分析计划，减少事后自由度；但 Gelman & Loken (2014) 论证预注册不能完全消除自由度——"研究者可以通过[[Observational and Correlational Research|观察]]数据学到很多"
+> - **vs [[Preregistration]]** — 预注册是限制研究者自由度的主要机制：通过预先锁定分析计划，减少事后自由度；但 Gelman & Loken (2014) 论证预注册不能完全消除自由度——"研究者可以通过观察数据学到很多"
 
 ## 实证发现
 

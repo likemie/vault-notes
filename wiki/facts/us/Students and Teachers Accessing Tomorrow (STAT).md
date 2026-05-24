@@ -23,7 +23,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Logic Model]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Formative Evaluation]]"
 related_persons: []
 related_facts: []
@@ -57,7 +56,7 @@ updated: 2026-05-23
 ## 实施情况
 
 > [!example]
-> STAT 的实施包括教师专业发展、STAT teachers 与同事支持、课堂设备、数字内容和教学规划资源。项目评价使用教师问卷、学生焦点小组、校长与 STAT teachers 访谈、课堂教师焦点小组、课堂[[Observational and Correlational Research|观察]]、行为数据以及 ELA 和数学成就数据（Ross & Morrison, 2021, pp.115-118）。
+> STAT 的实施包括教师专业发展、STAT teachers 与同事支持、课堂设备、数字内容和教学规划资源。项目评价使用教师问卷、学生焦点小组、校长与 STAT teachers 访谈、课堂教师焦点小组、课堂观察、行为数据以及 ELA 和数学成就数据（Ross & Morrison, 2021, pp.115-118）。
 
 > [!info]- 核心数据
 > - 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应（Ross & Morrison, 2021, p.116）。
@@ -70,7 +69,7 @@ updated: 2026-05-23
 > STAT 在前四年的评价结果总体稳定：多数校长和教师对项目持积极态度，尤其认可 STAT teachers 的专业支持，以及专业发展对学生中心教学、学生参与和学生成就的影响。家长和 STAT teachers 也整体支持项目运行和延续（Ross & Morrison, 2021, p.118）。
 
 > [!success]
-> 课堂[[Observational and Correlational Research|观察]]中，高阶教学策略如探究学习和项目学习出现频率相对有限；更明显的变化是课堂从教师主导转向学生中心，并伴随数字工具更频繁使用（Ross & Morrison, 2021, pp.118-119）。
+> 课堂观察中，高阶教学策略如探究学习和项目学习出现频率相对有限；更明显的变化是课堂从教师主导转向学生中心，并伴随数字工具更频繁使用（Ross & Morrison, 2021, pp.118-119）。
 
 > [!warning]
 > 成就结果并不明确。Lighthouse 学校在 ELA 和数学上大体呈轻微上升趋势，但结果跨年份和队列并不一致，无法通过描述性结果显示 STAT 带来显著正向趋势。2018-2019 年，Lighthouse 小学年级在 ELA 和数学熟练率上比同伴和州水平增长更多，但其他小学 ELA 下降、数学上升，中学结果则较为混合（Ross & Morrison, 2021, pp.118-119）。

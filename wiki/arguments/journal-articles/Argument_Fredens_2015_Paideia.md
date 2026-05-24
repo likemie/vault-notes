@@ -21,7 +21,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Matching]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
@@ -65,7 +64,7 @@ updated: '2026-05-18'
 >
 > ### 社会脑与镜像神经元
 >
-> Fredens 补充 Yates 的认知神经科学视角：我们不仅[[Observational and Correlational Research|观察]]他人的行为和沟通，也镜像他人的情感——Damasio 称之为"as-if loop"。看到他人喜悦激活我们自己脑中相同的区域（Fredens, 2015, p.72）。
+> Fredens 补充 Yates 的认知神经科学视角：我们不仅观察他人的行为和沟通，也镜像他人的情感——Damasio 称之为"as-if loop"。看到他人喜悦激活我们自己脑中相同的区域（Fredens, 2015, p.72）。
 >
 > ### 反馈文化的核心命题
 >
@@ -81,7 +80,7 @@ updated: '2026-05-18'
 > - 书评总体正面评价该书，称其"videnskabeligt funderet"（科学根基扎实），并以从实验室到课堂的可及性为最大优势（Fredens, 2015, p.74–75）
 > - 指出书中九个原则被组织为三部分 31 章：课堂中的学习、学习的基础、认识你自己（Fredens, 2015, p.71）
 > - 批评 recitationsmetoden（传统问答法）：学生学会说教师想听的话而非思考，发展出"说老师想听的，让聪明人解决其余"的生存策略（Fredens, 2015, p.71）
-> - 区分教师激活（aktivere）与促进（facilitere）：促进者在场边[[Observational and Correlational Research|观察]]，激活者则论证、指导和示范（Fredens, 2015, p.73）
+> - 区分教师激活（aktivere）与促进（facilitere）：促进者在场边观察，激活者则论证、指导和示范（Fredens, 2015, p.73）
 > - 指出该书以认知视角为主，但横跨阅读可发现文化视角——学校是"tilværelsesoplysning"（存在启蒙，引 Løgstrup）（Fredens, 2015, p.74）
 > - 对 [[John Hattie|Hattie]] & Yates 声称好教师不能以特定人格类型定义的立场提出质疑，引用 Lambert & Barley (2001) 发现治疗师人格是治疗关系中最重要的因素——比所用方法更重要（Fredens, 2015, p.73）
 >

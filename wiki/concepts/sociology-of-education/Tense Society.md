@@ -13,7 +13,6 @@ related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods:
   - "[[Ganz-Methode]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Dell Delambre]]"
 related_facts: []
@@ -53,12 +52,12 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success]
-> 论文未提供系统的实证数据来支持张力社会的诊断。论证主要基于对当代社会趋势的[[Observational and Correlational Research|观察]]性描述和理论引述（Delambre, 2022, p.110–117）。
+> 论文未提供系统的实证数据来支持张力社会的诊断。论证主要基于对当代社会趋势的观察性描述和理论引述（Delambre, 2022, p.110–117）。
 
 ## 争议与批评
 
 > [!warning]
-> - "张力社会"作为诊断性概念，其边界和判别标准不够明确——什么时候社会处于"张力"中、什么时候不是？该概念缺乏与其他社会诊断概念（如 Beck 的风险社会、Bauman 的液态现代性、Han 的倦怠社会）的系统比较（编者[[Observational and Correlational Research|观察]]）
+> - "张力社会"作为诊断性概念，其边界和判别标准不够明确——什么时候社会处于"张力"中、什么时候不是？该概念缺乏与其他社会诊断概念（如 Beck 的风险社会、Bauman 的液态现代性、Han 的倦怠社会）的系统比较（编者观察）
 
 ## 来源
 

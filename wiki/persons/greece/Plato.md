@@ -20,8 +20,7 @@ related_concepts:
   - "[[Mind and Its Wonders]]"
   - "[[Western Learner]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Socrates]]"
   - "[[Bertrand Russell]]"
@@ -90,7 +89,7 @@ updated: 2026-05-22
 ### 几何学与数学知识观
 
 > [!tip]
-> 柏拉图在《理想国》中论述"几何学迫使人注视存在……因为几何学的知识是关于永恒之物的"（Li, 2012, pp.24-25）。这一论断奠定了西方以数学和演绎逻辑为确定性知识理想模型的传统。Li 引 [[Bertrand Russell|Russell]] 指出：数学知识"确定、精确、仅通过思维即可获得、无需[[Observational and Correlational Research|观察]]"，提供了"令日常经验知识相形见绌的理想"（Li, 2012, p.24 引 Russell）。
+> 柏拉图在《理想国》中论述"几何学迫使人注视存在……因为几何学的知识是关于永恒之物的"（Li, 2012, pp.24-25）。这一论断奠定了西方以数学和演绎逻辑为确定性知识理想模型的传统。Li 引 [[Bertrand Russell|Russell]] 指出：数学知识"确定、精确、仅通过思维即可获得、无需观察"，提供了"令日常经验知识相形见绌的理想"（Li, 2012, p.24 引 Russell）。
 
 ### 教育选拔与哲学家王
 

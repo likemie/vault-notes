@@ -22,7 +22,6 @@ related_theories:
   - "[[Science and Technology Studies (STS)]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -153,7 +152,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > - 作为访谈而非研究论文，内容反映 [[John Hattie|Hattie]] 的自我陈述和立场辩护，需与其他来源交叉验证
 > - Knudsen 承认访谈"可能有些天真"——因为"没有人能单独控制教育思想和项目的接收和翻译"（p.253）
-> - Knudsen 未能如愿在奥克兰 [[Cognition Education (NZ)|Cognition Education]] 办公室[[Observational and Correlational Research|观察]]丹麦数据处理过程——这一请求被拒绝（p.254）
+> - Knudsen 未能如愿在奥克兰 [[Cognition Education (NZ)|Cognition Education]] 办公室观察丹麦数据处理过程——这一请求被拒绝（p.254）
 > - 访谈通过 Skype 进行而非面对面，转录经编辑和缩写
 >
 

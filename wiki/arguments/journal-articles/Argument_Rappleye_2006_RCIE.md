@@ -18,8 +18,7 @@ related_concepts:
   - "[[Externalization (Schriewer)]]"
   - "[[Policy Entrepreneur]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[American Attraction to Japanese Education 1980s]]"
@@ -67,7 +66,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> **1. 前提／[[Observational and Correlational Research|观察]]：** 现有教育转移研究虽然反复强调"情境很重要"（context matters），但缺乏系统地拆解情境要素和开发分析情境影响的概念工具。大多数框架以"被借用的政策"为焦点，导致对转移的短视理解和情境作用的遮蔽。（p. 223–224）
+> **1. 前提／观察：** 现有教育转移研究虽然反复强调"情境很重要"（context matters），但缺乏系统地拆解情境要素和开发分析情境影响的概念工具。大多数框架以"被借用的政策"为焦点，导致对转移的短视理解和情境作用的遮蔽。（p. 223–224）
 >
 > > "If researchers focus on the content of transfer, there is no doubt that they will find a common denominator ... however, if we choose to bring the local context to the fore, direct our attention to agencies of lending and borrowing, and ask why some idea or discourse has been transferred, we gain a completely different understanding of transfer." (Steiner-Khamsi, 2000, p. 158，引自 p. 224)
 >

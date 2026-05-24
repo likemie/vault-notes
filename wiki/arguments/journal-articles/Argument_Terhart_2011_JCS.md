@@ -24,7 +24,6 @@ related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
@@ -57,7 +56,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提／[[Observational and Correlational Research|观察]]**：[[John Hattie|Hattie]] 的 *[[Visible Learning]]* 基于 800+ [[Meta-analysis|元分析]]（涵盖 50,000+ 项研究），将 138 个影响因素按[[Effect Size|效应量]]排名，被 *Times Educational Supplement* 比作"圣杯"的搜寻。Hattie 声称搜寻已完成（Terhart, 2011, p.426）。
+> 1. **前提／观察**：[[John Hattie|Hattie]] 的 *[[Visible Learning]]* 基于 800+ [[Meta-analysis|元分析]]（涵盖 50,000+ 项研究），将 138 个影响因素按[[Effect Size|效应量]]排名，被 *Times Educational Supplement* 比作"圣杯"的搜寻。Hattie 声称搜寻已完成（Terhart, 2011, p.426）。
 >
 > 2. **论证步骤**：
 >    - **方法论批评**：[[Meta-meta-analysis|元-元分析]]（mega-analysis）将已聚合的数据再次聚合——"通过反复累积，原始的详细经验信息消失"（p.436）。Hattie 未提供纳入元分析的质量标准信息，数据库质量高度异质——"从实验研究到非常良好维护的、较少控制的调查研究"（p.429）。大多数元分析来自 1980s-1990s，基础数据"大概不是最新的"（p.428）。

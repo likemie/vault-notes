@@ -19,8 +19,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Luhmann's Systems Theory]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
@@ -80,7 +79,7 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - 身体[[Phenomenology|现象学]]（Thomas Fuchs）— 大脑作为"关系器官"（Beziehungsorgan），嵌入身体和世界的生态学视角（Larsen, 2019, p.5-6）
-> - [[Luhmann's Systems Theory]] — 社会沟通系统永远无法[[Observational and Correlational Research|观察]]个体学生的心理系统，两个系统不共享编码（Larsen, 2019, p.4）
+> - [[Luhmann's Systems Theory]] — 社会沟通系统永远无法观察个体学生的心理系统，两个系统不共享编码（Larsen, 2019, p.4）
 
 ## 争议与批评
 

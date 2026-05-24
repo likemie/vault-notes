@@ -17,8 +17,7 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -61,7 +60,7 @@ updated: '2026-05-18'
 
 
 > [!success] 研究合作网络的形式转型
-> Rizvi [[Observational and Correlational Research|观察]]到，早期的高等教育国际网络——如 Universitas 21 和 Global Universities Network (GUN)——代表了网络化的"第一代"形式：由少数精英大学组成、相对封闭、等级化。这些早期网络"已经失去吸引力，被新的、不那么正式的合作模态所取代"（Rizvi, 2022, p.99）。这一转变体现了 Castells 所描述的网络逻辑的深化：从机构间正式联盟转向研究者层面的、更流动的、项目化的协作形式。
+> Rizvi 观察到，早期的高等教育国际网络——如 Universitas 21 和 Global Universities Network (GUN)——代表了网络化的"第一代"形式：由少数精英大学组成、相对封闭、等级化。这些早期网络"已经失去吸引力，被新的、不那么正式的合作模态所取代"（Rizvi, 2022, p.99）。这一转变体现了 Castells 所描述的网络逻辑的深化：从机构间正式联盟转向研究者层面的、更流动的、项目化的协作形式。
 >
 > > 例：一个澳大利亚气候科学家与中国、印度和越南的研究者组成的联合项目团队，其运作越来越不依赖于机构间的正式协议，而是通过研究者个人的跨国网络来调动专业知识、设备和数据集——这种"网络而非机构"的协作模式正是网络社会理论的当代表现（Rizvi, 2022, pp.98–99）。
 

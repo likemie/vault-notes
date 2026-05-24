@@ -21,7 +21,6 @@ related_concepts:
 related_theories:
   - "[[Bounded Rationality]]"
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []
@@ -56,7 +55,7 @@ updated: '2026-05-18'
 > |------|------|------|
 > | **魅力领导** | 激励下属 | 覆盖面极窄，无法规模化 |
 > | **形式规则与有限授权** | 约束下属偏离 | 僵化无法应对未预期场景 |
-> | **随机巡查** | 抽样[[Observational and Correlational Research|观察]]常态 | 上下级均难以控制；预告巡查更易操作但不及随机准确 |
+> | **随机巡查** | 抽样观察常态 | 上下级均难以控制；预告巡查更易操作但不及随机准确 |
 > | **结果判断（judgement by results）** | 以可测量产出问责，给予过程自主权 | 鼓励"博弈指标"（gaming），弱化实际目标 |
 
 

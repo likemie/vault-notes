@@ -16,7 +16,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Habitus]]"
-  - "[[Doxa]]"
   - "[[School Leadership]]"
   - "[[Knowledge Production]]"
   - "[[Credential Inflation]]"
@@ -24,8 +23,7 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[New Public Management]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
@@ -67,7 +65,7 @@ updated: '2026-05-18'
 > [!note]
 > 场域概念从 [[Pierre Bourdieu|Bourdieu]] 早期民族志田野中逐渐浮现，最终在 1980s 后期获得明确的系统性表述：
 
-- **1950s–1960s 阿尔及利亚／Kabylie 早期田野** — 在 *Sociologie de l'Algérie*（1958）和 Kabylie 民族志中，[[Pierre Bourdieu|Bourdieu]] 首次[[Observational and Correlational Research|观察]]到婚姻策略、荣誉竞争等在不同社会空间中遵循各自的规则，为场域概念的萌生奠定了经验基础
+- **1950s–1960s 阿尔及利亚／Kabylie 早期田野** — 在 *Sociologie de l'Algérie*（1958）和 Kabylie 民族志中，[[Pierre Bourdieu|Bourdieu]] 首次观察到婚姻策略、荣誉竞争等在不同社会空间中遵循各自的规则，为场域概念的萌生奠定了经验基础
 - **[[Max Weber|Weber]] 的"生活秩序"（Lebensordnungen）** — 场域概念部分借鉴 Weber 对现代社会分化为各自遵循自身逻辑的相对自主领域（宗教、经济、政治、艺术、科学）的分析，但以关系性思维取代了实质主义倾向
 - ***Choses dites*（1987）** — Bourdieu 在此书中明确宣布其方法论公式为**结构主义建构论**（structuralisme constructiviste），并以公式提出实践理论的核心关系式：[([[Habitus|习性]])(资本)] + 场域 = 实践，场域概念至此完全成熟
 - ***Les Règles de l'art*（1992）** — 以福楼拜和 19 世纪法国文学场域诞生的精细历史分析，展示了场域自主性的生成过程和 illusio 概念的重要性
@@ -82,7 +80,7 @@ updated: '2026-05-18'
 
 - **斗争性**：场域是"持续斗争的场所"——行动者利用自身持有的资本争夺场域中被视为最有价值的资源和位置。[[Yajun Zheng|郑雅君]]（2023）将精英大学描述为一个"迷宫"，各路"探索者"在各条小路上穿行收集筹码（成绩、经历、奖项），并在到达出口时用筹码兑换下一段旅程的入场券。
 
-- **游戏规则的内隐性**：场域中的"游戏规则"往往不被明文书写，而是以隐性知识（tacit knowledge）的形式存在。郑雅君（2023）指出，精英大学的规则——如毕业出路的选择策略、教授推荐信的获取方式、实习人脉的积累路径——对优势阶层学生是自幼获知的[[Doxa|常识]]，而对弱势阶层学生则是一无所知的密文。
+- **游戏规则的内隐性**：场域中的"游戏规则"往往不被明文书写，而是以隐性知识（tacit knowledge）的形式存在。郑雅君（2023）指出，精英大学的规则——如毕业出路的选择策略、教授推荐信的获取方式、实习人脉的积累路径——对优势阶层学生是自幼获知的常识，而对弱势阶层学生则是一无所知的密文。
 
 ---
 

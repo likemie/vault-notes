@@ -23,8 +23,7 @@ related_concepts:
   - "[[Entity vs Incremental Intelligence]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -51,7 +50,7 @@ updated: '2026-05-23'
 
 在 1970 年代末之前，几乎没有关于西方与东亚学习者学习信念或成就动机的比较研究。David McClelland 于 1963 年宣称传统中国人缺乏成就动机，但共产主义意识形态赋予了他们革命热情。此后近二十年间该领域沉寂，直到[[International Education|国际教育]]成就评估显示日本学生在数学和科学上的表现超越许多西方国家，这一意外结果才催生了对东亚学校和儿童学习的研究兴趣（Li, 2012, p.78）。
 
-Stevenson 和 Stigler 发起了长达十年的标志性跨国研究，克服了多国多语言研究的巨大挑战，自行构建数学成就测试以控制偏差，收集儿童和家长问卷，[[Observational and Correlational Research|观察]]课堂教学，访谈教师（Li, 2012, pp.78-79）。
+Stevenson 和 Stigler 发起了长达十年的标志性跨国研究，克服了多国多语言研究的巨大挑战，自行构建数学成就测试以控制偏差，收集儿童和家长问卷，观察课堂教学，访谈教师（Li, 2012, pp.78-79）。
 
 ---
 

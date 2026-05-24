@@ -20,7 +20,6 @@ related_concepts:
   - "[[Class Size]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提／[[Observational and Correlational Research|观察]]**：Treasury 2011 年简报援引 [[John Hattie|Hattie]] VL 证据，声称提高教学质量是最大的校内影响因素，因此可以增加生师比以释放资金用于提升教学质量
+> 1. **前提／观察**：Treasury 2011 年简报援引 [[John Hattie|Hattie]] VL 证据，声称提高教学质量是最大的校内影响因素，因此可以增加生师比以释放资金用于提升教学质量
 > 2. **论证步骤**：从三个维度逐层拆解该政策建议的逻辑缺陷：
 >    - 术语模糊且使用不一致（"教学质量"在 Hattie 中仅来自大学生评教，与学校教育无关；被当作口号和代理概念使用）
 >    - 研究证据的局限性被忽视（综合混入所有教育阶段、特殊人群研究，排名不可推广至特定政策选择）

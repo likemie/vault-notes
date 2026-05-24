@@ -18,7 +18,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Matching]]"
-  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -67,7 +66,7 @@ updated: '2026-05-18'
 ## 待补充研究
 
 
-- 后续可补充跨学科规范类型差异与教师评定-行为[[Observational and Correlational Research|观察]]一致性证据。
+- 后续可补充跨学科规范类型差异与教师评定-行为观察一致性证据。
 
 ## 争议与批评
 

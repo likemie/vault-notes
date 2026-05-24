@@ -20,8 +20,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Self-Cultivation]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -75,7 +74,7 @@ Li 从中文学习词汇研究中收集到以下典型表达（Li, 2012, pp.126-
 ## 概念辨析
 
 > [!example]
-> **熟 vs 死记硬背（rote learning）**：熟常被西方[[Observational and Correlational Research|观察]]者误读为机械的死记硬背。但关键区别在于：熟被[[Chinese Learner|中国学习者]]理解为深度理解的**第一步**而非终点。"将信息记在脑中之后，他们才去寻求理解材料"（Li, 2012, p.137）。一位香港学生的证词支持了这一点："每次我重复，我都会有新的理解——也就是说，我能更好地理解"（Marton 研究团队访谈，转引自 Li, 2012, p.137）。
+> **熟 vs 死记硬背（rote learning）**：熟常被西方观察者误读为机械的死记硬背。但关键区别在于：熟被[[Chinese Learner|中国学习者]]理解为深度理解的**第一步**而非终点。"将信息记在脑中之后，他们才去寻求理解材料"（Li, 2012, p.137）。一位香港学生的证词支持了这一点："每次我重复，我都会有新的理解——也就是说，我能更好地理解"（Marton 研究团队访谈，转引自 Li, 2012, p.137）。
 
 > [!example]
 > **熟 vs 练习（lianxi）**：熟的目标是"使材料变得熟悉"，练习的目标是"通过长时间反复操作达到[[Jing (Refined Mastery)|精通]]"。熟关注的是识别和流畅，练习关注的是深化和累积。但在实践中，两者在时间上是连续的前后阶段。

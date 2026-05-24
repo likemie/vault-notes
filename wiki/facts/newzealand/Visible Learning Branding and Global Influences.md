@@ -41,7 +41,6 @@ related_concepts:
 related_theories:
   - "[[Technical Rationality]]"
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
@@ -269,7 +268,7 @@ updated: '2026-05-18'
 > - **2014 年政策采纳**：丹麦议会多数通过 公立学校改革，将科目目标替换为学习目标，明确引用 Hattie 和 VL。改革的核心转向——教育的最终目标不应该是教师教什么而应该是学生学什么——直接呼应了 VL 的"可见的学习成果"理念（Qvortrup, 2019, p.5）
 > - **政策捆绑与阻力**：改革与对教师劳动协议的争议性立法干预高度绑定——改革在挑战传统教师角色的同时削减了教师的劳动权利（Qvortrup, 2019, p.5）
 > - **反弹与批评**：改革后在短期内形成了一个由研究者、政治家和工会代表组成的广泛 解释社群——将 Hattie 从"教育英雄"转变为"教育敌人"。批评文集 [[Hattie på dansk 2017]] 汇集了多篇强烈批评文章（Qvortrup, 2019, p.5）
-> - **Qvortrup 的辩护**：2019 年 Qvortrup 在 NordSTEP 发表讨论论文，以三线论证为 VL 辩护——批评者形成了意识形态驱动的解释社群而非进行学术反驳、定量与定性方法是互补的[[Observational and Correlational Research|观察]]透镜、VL 的目的是提供"智能问题解决的假设"而非"食谱"（详见 [[Argument_Qvortrup_2019_NordSTEP]]）
+> - **Qvortrup 的辩护**：2019 年 Qvortrup 在 NordSTEP 发表讨论论文，以三线论证为 VL 辩护——批评者形成了意识形态驱动的解释社群而非进行学术反驳、定量与定性方法是互补的观察透镜、VL 的目的是提供"智能问题解决的假设"而非"食谱"（详见 [[Argument_Qvortrup_2019_NordSTEP]]）
 > - **Laursen 的适用性检验**：Laursen (2015) 从较温和的经验比较角度追问 Hattie、Meyer 和 Helmke 的国际 [[Effective Teaching|有效教学]] 综合是否适用于丹麦。尽管这些综合主要基于英语国家研究，Laursen 比较 SFI 报告 和 Mehlbye 高绩效学校研究 等丹麦证据后认为，教师领导、清晰目标、高要求、良好班级社会环境等核心质量在丹麦同样促进学生学习（Laursen, 2015, pp.34–40）
 >
 > #### 瑞典

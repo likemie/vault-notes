@@ -25,8 +25,7 @@ related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Network Society]]"
   - "[[Legitimation Theory Van Leeuwen]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Frantz Fanon]]"
   - "[[Chen Kuan-Hsing]]"
@@ -83,7 +82,7 @@ updated: '2026-05-18'
 
 ### 第一步：确立 GPK 的重要性和历史深度（§5.1, pp.67–69）
 
-**[[Observational and Correlational Research|观察]] 1**：知识已成为当代世界各种自我描述的核心——[[Knowledge-Based Economy|知识经济]]、信息社会、[[Network Society|网络社会]]、监视资本主义——这些标签都以"知识"为关键词。因此，围绕知识展开的地缘政治是真实且高度重要的，直接影响可持续发展、和平与安全（p.67）。
+**观察 1**：知识已成为当代世界各种自我描述的核心——[[Knowledge-Based Economy|知识经济]]、信息社会、[[Network Society|网络社会]]、监视资本主义——这些标签都以"知识"为关键词。因此，围绕知识展开的地缘政治是真实且高度重要的，直接影响可持续发展、和平与安全（p.67）。
 
 **观察 2**：这一判断并非新见。Bacon 在 17 世纪即已指出"knowledge is power"（知识即权力）——但在 Bacon 的神学语境中，知识是神圣属性（potestas Dei），不带有地缘政治含义。到了 19 世纪德国，"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）已明确演变为地缘政治教义——服务于威廉德国和纳粹时期的扩张主义与霸权政治（p.67–68）。
 

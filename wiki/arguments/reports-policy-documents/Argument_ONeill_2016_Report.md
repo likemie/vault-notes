@@ -14,8 +14,7 @@ tags:
 - level/k12
 related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提/[[Observational and Correlational Research|观察]]**：自 2008 年以来，国家党领导的政府积极鼓励和促进多样化私营部门行动者进入新西兰公立学校教育的"管理市场"（O'Neill et al., 2016, p.v）
+> 1. **前提/观察**：自 2008 年以来，国家党领导的政府积极鼓励和促进多样化私营部门行动者进入新西兰公立学校教育的"管理市场"（O'Neill et al., 2016, p.v）
 > 2. **论证步骤**：
 >    - 公立学校私有化以两种形式出现：使学校更像企业运营；将私营部门引入公立学校（O'Neill et al., 2016, p.v）
 >    - 政府政策话语从"政府资助和提供"转向"政府补贴"和"社会投资"，从普遍主义转向有针对性供给（O'Neill et al., 2016, p.vii）

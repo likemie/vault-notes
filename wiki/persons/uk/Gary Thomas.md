@@ -17,7 +17,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_arguments: []
 sources:
@@ -50,7 +49,7 @@ updated: '2026-05-19'
 
 
 > [!info] 最佳解释推理
-> Thomas (2016) 论证自然科学家并非奴隶式地遵循关于建立因果性的方法论公式——"他们基于先前知识、批判性[[Observational and Correlational Research|观察]]、猜想和对这些猜想的检验进行推断，这一过程被科学哲学家称为'最佳解释推理'（inference to the best explanation）"（Wrigley & McCusker, 2019, p. 117）。
+> Thomas (2016) 论证自然科学家并非奴隶式地遵循关于建立因果性的方法论公式——"他们基于先前知识、批判性观察、猜想和对这些猜想的检验进行推断，这一过程被科学哲学家称为'最佳解释推理'（inference to the best explanation）"（Wrigley & McCusker, 2019, p. 117）。
 >
 > > "Natural scientists don't slavishly pursue methodological formulae about establishing causation. They infer, based on their prior knowledge, their critical observation, their conjecture, and their testing of these conjectures, in a process that has come to be called by philosophers of science inference to the best explanation." (Thomas, 2016, p. 406, cited in Wrigley & McCusker, 2019, p. 117)
 

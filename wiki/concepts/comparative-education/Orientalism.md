@@ -20,7 +20,6 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[International Schools]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
-  - "[[Doxa]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Critical Geopolitics]]"
@@ -88,7 +87,7 @@ updated: '2026-05-18'
 > [!abstract] 核心要素
 > - **表征的权力**：关于"东方"的知识不是对客观事实的描述，而是**话语建构**——它将复杂的、多样化的亚洲社会简化为同质的、可管理的"东方"形象（Said, 1983, cited in Rizvi, 2022, pp.91–92）
 > - **知识与权力的共构**：[[Knowledge Production|知识生产]]不是独立于权力的学术活动，而是**构成权力关系的核心机制**——殖民统治不仅依赖军事和经济控制，更依赖对"什么算知识"和"谁有资格生产知识"的界定
-> - **[[Hegemony|文化霸权]]**：东方主义不仅通过强制运作，更通过**文化霸权**——被殖民者逐渐将殖民者的认知框架内化为"[[Doxa|常识]]"，例如亚洲中产阶级将西方教育视为天然的"更好"选择（Rizvi, 2022, pp.95–96）
+> - **[[Hegemony|文化霸权]]**：东方主义不仅通过强制运作，更通过**文化霸权**——被殖民者逐渐将殖民者的认知框架内化为"常识"，例如亚洲中产阶级将西方教育视为天然的"更好"选择（Rizvi, 2022, pp.95–96）
 > - **当代隐性再生产**：去殖民化后，东方主义不是消失了，而是从显性的殖民统治话语转变为隐性的**文化等级想象**——这种想象嵌入在消费者的选择（去哪读书）、政策话语（"世界最佳实践"、"追赶"西方大学）和制度安排（全球排名系统、英语发表优先）之中（Rizvi, 2022, pp.95–97, 101）
 >
 

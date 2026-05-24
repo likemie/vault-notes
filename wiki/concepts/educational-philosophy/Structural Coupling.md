@@ -15,8 +15,7 @@ related_concepts:
   - "[[Visible Learning]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Niklas Luhmann]]"
   - "[[John Hattie]]"
@@ -71,7 +70,7 @@ updated: '2026-05-18'
 >
 > > "The social communicative system—of the teacher, the school leader, the researcher, and/or the local or national educational policymaker—can never view the psychic system of the individual pupil or student. These two systems are not code-identical, nor are they transparent to one another."
 >
-> 社会沟通系统与个体心理系统之间不共享编码、彼此不透明——教师、[[School Leadership|学校领导]]、研究者和决策者所运作的沟通系统永远无法直接[[Observational and Correlational Research|观察]]学生的意识（心理系统）。Larsen 将此作为 VL 范式的根本性限制的论据：不管多少[[Visible Learning|可见学习]]策略和[[Effect Size|效应量]]数据，都无法弥合社会系统与心理系统之间的本体论鸿沟。
+> 社会沟通系统与个体心理系统之间不共享编码、彼此不透明——教师、[[School Leadership|学校领导]]、研究者和决策者所运作的沟通系统永远无法直接观察学生的意识（心理系统）。Larsen 将此作为 VL 范式的根本性限制的论据：不管多少[[Visible Learning|可见学习]]策略和[[Effect Size|效应量]]数据，都无法弥合社会系统与心理系统之间的本体论鸿沟。
 >
 > 这与 Qvortrup 的用法形成有趣对比：Qvortrup 以结构耦合同样从 Luhmann 出发，但论证 VL 作为概率信息可以支持教师的[[Professional Judgment|专业判断]]；Larsen 则论证结构耦合的根本性意味着 VL 的可见性宣称在原则上不可能实现——两者共享 Luhmann 的理论资源，但从中得出了相反的规范性结论（编者类比）。
 

@@ -18,7 +18,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -74,7 +73,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - Kraft 承认其基准是主观的、经验启发式的，且聚焦正向[[Effect Size|效应量]]的政策相关性；未来更新不应机械使用完整分布三分位，而应结合年度学习增益、教师/学校效应等经验参照点（Kraft, 2023, pp.185-186）。
-> - [[Publication Bias|发表偏倚]]和估计误差都可能扭曲经验分布：前者会使已发表分布偏向较大正效应，后者会夸大[[Observational and Correlational Research|观察]]分布的方差，使经验基准看似应离中心更远（Kraft, 2023, p.186）。
+> - [[Publication Bias|发表偏倚]]和估计误差都可能扭曲经验分布：前者会使已发表分布偏向较大正效应，后者会夸大观察分布的方差，使经验基准看似应离中心更远（Kraft, 2023, p.186）。
 > - Kraft 与 Simpson 的共同点是都警惕用"联盟表"按效应量强弱排名教育干预；分歧在于 Kraft 认为有限度的经验基准仍有政策解释价值，而 Simpson 对跨研究效应量可比性更加怀疑（Kraft, 2023, p.184）。
 
 ## 来源

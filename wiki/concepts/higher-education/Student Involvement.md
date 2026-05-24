@@ -21,8 +21,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
@@ -52,7 +51,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[Student Engagement]]（Kuh, 1991）— 两者"异曲同工"，核心假设一致，但侧重不同：Astin 强调涉入是生理和心理能量的全面投入，关注涉入的**质量和连续性**——涉入既是过程描述也是结果预测变量；Kuh 更侧重**可[[Observational and Correlational Research|观察]]的行为性投入**和**学校的制度性支持**——不仅关注学生做了什么，也关注学校如何通过课程设计、课外活动和服务体系来推动学生投入（[[Yajun Zheng|郑雅君]]，2023，引 Astin, 1984, 1993; Kuh, 1991）
+> - vs [[Student Engagement]]（Kuh, 1991）— 两者"异曲同工"，核心假设一致，但侧重不同：Astin 强调涉入是生理和心理能量的全面投入，关注涉入的**质量和连续性**——涉入既是过程描述也是结果预测变量；Kuh 更侧重**可观察的行为性投入**和**学校的制度性支持**——不仅关注学生做了什么，也关注学校如何通过课程设计、课外活动和服务体系来推动学生投入（[[Yajun Zheng|郑雅君]]，2023，引 Astin, 1984, 1993; Kuh, 1991）
 > - 在郑雅君（2023）的"投入过程"框架中，Astin 提供了投入的**能量维度**（学生将多少精力投入何处），Kuh 提供了投入的**行为操作化**（在教育性活动中的时间和精力分配），二者并列使用
 
 ---
@@ -61,7 +60,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - **1984 提出**：Astin 在 *Journal of College Student Personnel* 发表"Student Involvement: A Developmental Theory for Higher Education"，系统提出学生涉入理论及五条公理（[[Yajun Zheng|郑雅君]]，2023，引 Astin, 1984）
-> - **1991 Kuh 发展**：Kuh 在 Astin 基础上发展[[Student Engagement|学生投入]]理论，将涉入概念进一步操作化为可[[Observational and Correlational Research|观察]]的行为指标，并强调学校的制度性支持角色（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
+> - **1991 Kuh 发展**：Kuh 在 Astin 基础上发展[[Student Engagement|学生投入]]理论，将涉入概念进一步操作化为可观察的行为指标，并强调学校的制度性支持角色（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
 > - **2023 中国教育研究应用**：[[Yajun Zheng|郑雅君]]将 Astin 涉入理论作为"大学过程"三层嵌套框架中"投入过程"的理论基础之一，与 Kuh 的[[Student Engagement]]和 Tinto 的[[Academic and Social Integration]]并列使用（郑雅君，2023）
 
 ---

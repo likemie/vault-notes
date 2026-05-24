@@ -23,8 +23,7 @@ related_concepts:
   - "[[Mind and Its Wonders]]"
   - "[[Examined Life]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Jean-Jacques Rousseau]]"
   - "[[Plato]]"
@@ -68,7 +67,7 @@ updated: 2026-05-24
 
 ### 3. 探究世界（Inquire into the World）
 
-学习者需要保持**开放的心智**和**自由的探究精神**。好的学习者既展示对广阔世界的内在兴趣，又使用自己的心智去探究和发现。应具有 Theodore Sizer 所说的"心智习惯"（habit of mind）："思考世界的基本问题、[[Observational and Correlational Research|观察]]、提问、对议题进行辩论和争论、挑战现有知识规范和权威（包括教师和专家）、以及自我表达"（Li, 2012, pp.35-36）。
+学习者需要保持**开放的心智**和**自由的探究精神**。好的学习者既展示对广阔世界的内在兴趣，又使用自己的心智去探究和发现。应具有 Theodore Sizer 所说的"心智习惯"（habit of mind）："思考世界的基本问题、观察、提问、对议题进行辩论和争论、挑战现有知识规范和权威（包括教师和专家）、以及自我表达"（Li, 2012, pp.35-36）。
 
 ### 4. 理解并掌握世界
 
@@ -97,7 +96,7 @@ updated: 2026-05-24
 ### 1. 主动参与（Active Engagement）
 
 > [!info]
-> 主动参与是 Li 从英语学习词汇研究中提取的**第一大类别**的具体学习过程（Li, 2012, pp.108-110）。典型词汇包括：*active learning, hands-on, learn by doing, trial and error, practice, study, training, work*——这些都是可[[Observational and Correlational Research|观察]]的学习者实际行为。当学习者被描述为"主动参与"时，他们是"在身体上在场，经常是手和身体——而不仅是心智——完全投入"的（Li, 2012, p.108）。
+> 主动参与是 Li 从英语学习词汇研究中提取的**第一大类别**的具体学习过程（Li, 2012, pp.108-110）。典型词汇包括：*active learning, hands-on, learn by doing, trial and error, practice, study, training, work*——这些都是可观察的学习者实际行为。当学习者被描述为"主动参与"时，他们是"在身体上在场，经常是手和身体——而不仅是心智——完全投入"的（Li, 2012, p.108）。
 
 > [!example] 主动参与的三种常见形式
 > **1. 课堂内的动手学习**：去图书馆和上网研究感兴趣的主题、写发现报告、动手构造物体（如纸浆火山模型）、制作展示理解的模型（如苔原地形和动物的纸板展示）、做科学实验、记录观察（Li, 2012, pp.108-109）。

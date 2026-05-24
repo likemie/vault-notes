@@ -33,8 +33,7 @@ related_concepts:
   - "[[Gamification]]"
   - "[[Data Behaviorism]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -55,7 +54,7 @@ updated: 2026-05-20
 从量化社会学的角度看，学习分析的量化过程伴随着"价值化"（valorization）——不仅仅表征世界（如学生的某种能力），还创造了带有等级不平等的新现实（Mau, 2019, pp.40–59; Thompson et al., 2022, p.225）。这与 [[Performativity of Measurement|测量的生产性]] 一脉相承：学习分析的数据不只是"反映"学习，更是重塑学习行为和主体性的生产性力量。
 
 > [!example]
-> 传统课堂中，教师通过[[Observational and Correlational Research|观察]]学生的面部表情、提问频率和作业表现来判断谁在挣扎、谁需要额外挑战。学习分析将这些"教师直觉"转化为数据仪表盘——每个学生的参与度被量化为数字、学习进度被可视化为进度条、薄弱知识点被算法自动标记。教师角色从"观察者-判断者"转变为"数据读取者-响应者"（Amos, 2022, p.57）。
+> 传统课堂中，教师通过观察学生的面部表情、提问频率和作业表现来判断谁在挣扎、谁需要额外挑战。学习分析将这些"教师直觉"转化为数据仪表盘——每个学生的参与度被量化为数字、学习进度被可视化为进度条、薄弱知识点被算法自动标记。教师角色从"观察者-判断者"转变为"数据读取者-响应者"（Amos, 2022, p.57）。
 
 ## 核心要素
 

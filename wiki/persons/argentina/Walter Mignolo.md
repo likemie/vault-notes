@@ -26,7 +26,6 @@ related_theories:
   - "[[Critical Geopolitics]]"
 related_methods:
   - "[[Ganz-Methode]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Dell Delambre]]"
   - "[[Arturo Escobar]]"
@@ -133,7 +132,7 @@ updated: 2026-05-19
 ## 争议与批评
 
 > [!warning]
-> - Mignolo 的"去链接"（delink）主张面临一个实践难题：完全脱离西方认识论框架后，替代性知识如何在全球化制度（如大学、学术出版、国际政策）中获得认可和流通？Delambre (2022) 的工作可视为对这一困境的回应，但其 [[Ganz-Methode]] 的有效性同样缺乏独立验证（编者[[Observational and Correlational Research|观察]]）
+> - Mignolo 的"去链接"（delink）主张面临一个实践难题：完全脱离西方认识论框架后，替代性知识如何在全球化制度（如大学、学术出版、国际政策）中获得认可和流通？Delambre (2022) 的工作可视为对这一困境的回应，但其 [[Ganz-Methode]] 的有效性同样缺乏独立验证（编者观察）
 > - 有批评者认为 Mignolo 的论证有时以西方认识论为唯一靶子，对非西方社会内部的认识论霸权和知识排斥（如性别、种姓、阶级）关注不足（编者观察）
 > - 其"边界思维"概念的操作性有限——如何在学术写作和教学中具体实践"在边界地带思考"，缺乏明确的方法论指引（编者观察）
 

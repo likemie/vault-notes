@@ -18,8 +18,7 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Developer Effect]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse (WWC)]]"
@@ -63,7 +62,7 @@ updated: '2026-05-18'
 > [!success] 影响与后果
 > - Wolf et al. (2020, p. 444) 评价 REES 为"教育领域无疑是积极的进步"（undoubtedly a positive advancement）
 > - [[Preregistration|预注册]]的预期效果：减少选择性报告、约束[[Researcher Degrees of Freedom|研究者自由度]]、降低[[Publication Bias|发表偏倚]]——这三者均被识别为[[Developer Effect|开发者效应]]的可能来源
-> - 然而，Wolf et al. (2020, p. 444) 指出 REES 不能解决全部问题：Gelman & Loken (2014) 论证研究者仍可通过"[[Observational and Correlational Research|观察]]数据"学到很多，学校环境的干预评估常需要灵活调整
+> - 然而，Wolf et al. (2020, p. 444) 指出 REES 不能解决全部问题：Gelman & Loken (2014) 论证研究者仍可通过"观察数据"学到很多，学校环境的干预评估常需要灵活调整
 
 ## 争议与评论
 

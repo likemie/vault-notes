@@ -21,8 +21,7 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Habitus]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
@@ -56,7 +55,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[Student Involvement]]（Astin, 1984）— 两者"异曲同工"，核心假设一致。Astin 强调涉入是生理和心理能量的全面投入，关注涉入的**质量和连续性**；Kuh 更侧重**可[[Observational and Correlational Research|观察]]的行为性投入**和**学校的制度性支持**。在[[Yajun Zheng|郑雅君]]（2023）框架中，Astin 提供投入的**能量维度**，Kuh 提供投入的**行为操作化**（郑雅君，2023，引 Astin, 1984; Kuh, 1991）
+> - vs [[Student Involvement]]（Astin, 1984）— 两者"异曲同工"，核心假设一致。Astin 强调涉入是生理和心理能量的全面投入，关注涉入的**质量和连续性**；Kuh 更侧重**可观察的行为性投入**和**学校的制度性支持**。在[[Yajun Zheng|郑雅君]]（2023）框架中，Astin 提供投入的**能量维度**，Kuh 提供投入的**行为操作化**（郑雅君，2023，引 Astin, 1984; Kuh, 1991）
 > - vs [[Academic and Social Integration]]（Tinto, 1993）— Tinto 更侧重从原有社会关系过渡到大学新群体的**心理融入过程**（分离-转折-习得），Kuh 更强调**可测量的行为投入**和学校的结构性支持。在郑雅君（2023）框架中，Tinto 提供投入的**心理机制**，Kuh 提供投入的**行为操作化**
 
 ---
@@ -65,7 +64,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - **1984 前身**：Astin 提出[[Student Involvement|学生涉入]]理论，奠定"投入-成果"关联的基础假设（[[Yajun Zheng|郑雅君]]，2023，引 Astin, 1984）
-> - **1991 系统化**：Kuh 在 Astin 和 Tinto 基础上，于 *Involving Colleges* 中系统提出学生投入理论，将投入操作化为可[[Observational and Correlational Research|观察]]的行为指标，并首次强调学校的制度性支持角色（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
+> - **1991 系统化**：Kuh 在 Astin 和 Tinto 基础上，于 *Involving Colleges* 中系统提出学生投入理论，将投入操作化为可观察的行为指标，并首次强调学校的制度性支持角色（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
 > - **2000s 实证积累**：Pascarella & Terenzini（2005）综合大量实证研究，确认投入-成果的正向关联（郑雅君，2023）
 > - **2023 中国教育研究深化**：[[Yajun Zheng|郑雅君]]在 Kuh 基础上引入**方向性**维度——投入不仅有多寡之分（量），更有策略性方向的区别（质）。这一发现超越了"投入越多越好"的线性假设（郑雅君，2023）
 

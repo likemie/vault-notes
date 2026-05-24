@@ -14,8 +14,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Vergegenkunft]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_arguments: []
 sources: []
@@ -47,7 +46,7 @@ Cowen 以两个核心概念框架分析教育与社会转型的关系：
 
 **现代／晚期现代双轴模型**：以两个相交轴可视化教育从现代到晚期现代的结构转型。现代模型以 polis-driven 为纵轴——上端为教育机会平等、下端为国家文化认同，水平轴为[[International Education|国际教育]]关系与经济增长；晚期现代模型中纵轴转为 market-driven——教育机会平等被内部效率与外部效能取代、国家文化认同被劳动力分化取代，水平轴转为国际经济与国际知识竞争（Cowen, 1996, pp.160–162；Amos, 2022, p.55）。
 
-Cowen 同时强调过去、现在与未来比严格的线性更为交织——这一[[Observational and Correlational Research|观察]]被 Amos 以 Günther Grass 的 [[Vergegenkunft]] 文学原则加以呼应（Amos, 2022, p.56）。
+Cowen 同时强调过去、现在与未来比严格的线性更为交织——这一观察被 Amos 以 Günther Grass 的 [[Vergegenkunft]] 文学原则加以呼应（Amos, 2022, p.56）。
 
 ---
 

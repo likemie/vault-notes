@@ -21,8 +21,7 @@ related_concepts:
   - "[[Humility in Learning]]"
   - "[[Mind and Its Wonders]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Plato]]"
   - "[[René Descartes]]"
@@ -80,7 +79,7 @@ updated: 2026-05-22
 > [!tip]
 > 洛克在《人类理解论》中论证：人心之初犹如一张"白纸"（white paper）或"空白的板"（tabula rasa）——不存在任何先天观念、先天原则或先天知识。所有观念要么来自**感官**（sensation），要么来自心智对自身运作的**反思**（reflection）。"所有先前被认为形而上的知识和世界概念都不是先天的，而是归因于我们使用的语言术语"（Li, 2012, pp.29-30）。
 
-洛克的论证策略是基于可[[Observational and Correlational Research|观察]]性：如果先天观念存在，那么儿童和"白痴"也应该拥有它们——但事实并非如此。即使是普遍公认的同一律和非矛盾律，小小孩也并不显式地知晓（待核）。
+洛克的论证策略是基于可观察性：如果先天观念存在，那么儿童和"白痴"也应该拥有它们——但事实并非如此。即使是普遍公认的同一律和非矛盾律，小小孩也并不显式地知晓（待核）。
 
 ### 第一性质与第二性质
 

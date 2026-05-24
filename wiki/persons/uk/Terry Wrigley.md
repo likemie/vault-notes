@@ -25,7 +25,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Sean McCusker]]"
   - "[[John Hattie]]"
@@ -73,7 +72,7 @@ updated: '2026-05-19'
 >
 > 1. **三层批判框架**：Wrigley 独特之处在于不只在 [[Randomised Controlled Trials|RCT]] 层面批判，而是追踪问题在**统计聚合的每一级被放大**——RCT 层面的简化在[[Meta-analysis|元分析]]中复合，在[[Meta-meta-analysis|元-元分析]]（[[John Hattie|Hattie]] / EEF Toolkit）中进一步失真。
 >
-> 2. **[[Critical Realism|批判实在论]]视角**：Wrigley 引入 Bhaskar 的三层本体论（real / actual / empirical）论证 EBE 的方法论停留在"经验层"[[Observational and Correlational Research|观察]]规则性，未能深入"真实层"寻找因果机制。教育是开放系统，规律性只在人为封闭的条件下才出现。
+> 2. **[[Critical Realism|批判实在论]]视角**：Wrigley 引入 Bhaskar 的三层本体论（real / actual / empirical）论证 EBE 的方法论停留在"经验层"观察规则性，未能深入"真实层"寻找因果机制。教育是开放系统，规律性只在人为封闭的条件下才出现。
 >
 > 3. **新自由主义框架分析**：Wrigley 将 EBE 的兴起置于新自由主义政策框架中——"什么有效"的话语通过技术中立的外表抹除教育目的和价值问题，使教师被去专业化。
 >

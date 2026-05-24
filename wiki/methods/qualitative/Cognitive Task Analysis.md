@@ -13,8 +13,7 @@ tags:
 related_concepts:
   - "[[Professional Judgment]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_arguments: []
 sources:
@@ -38,7 +37,7 @@ updated: '2026-05-18'
 ## 操作步骤
 
 > [!example] 操作步骤
-> CTA 涉及将复杂任务分解为其组成认知操作，识别专家与新手在知识组织和决策策略上的差异。Fredens (2015, p.73) 强调教师在此方法中的角色是**激活**（aktivere）——论证、指导和示范——而非**促进**（facilitere，从场边[[Observational and Correlational Research|观察]]）。
+> CTA 涉及将复杂任务分解为其组成认知操作，识别专家与新手在知识组织和决策策略上的差异。Fredens (2015, p.73) 强调教师在此方法中的角色是**激活**（aktivere）——论证、指导和示范——而非**促进**（facilitere，从场边观察）。
 
 ## 适用场景
 

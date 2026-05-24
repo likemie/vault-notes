@@ -19,7 +19,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Matching]]"
 related_persons: []
 related_arguments: []
@@ -54,12 +53,12 @@ updated: '2026-05-18'
 > [!success] 适用场景
 > - 当研究者怀疑某个教学因素与学生背景、学校条件或测量条件相关时，可用协变量控制检验边际效应是否稳健。
 > - 在 [[Meta-analysis]] 或 [[Meta-meta-analysis]] 中，协变量控制提醒研究者：不同一级研究或元分析使用的模型不同，可能产生不可直接比较的 [[Effect Size]]。
-> - 在[[Observational and Correlational Research|观察]]性数据中，协变量控制可与 [[Matching]] 等方法形成互补：匹配试图先使协变量分布平衡，协变量控制则在模型中调整这些变量。
+> - 在观察性数据中，协变量控制可与 [[Matching]] 等方法形成互补：匹配试图先使协变量分布平衡，协变量控制则在模型中调整这些变量。
 
 ## 局限性
 
 > [!warning] 协变量选择依赖理论判断
-> 协变量控制只有在关键第三变量被识别并被测量时才有效。Berk 对[[Observational and Correlational Research|观察]]性因果推断的提醒同样适用：样本在已观测协变量上达到平衡，并不意味着未观测协变量也平衡；研究者需要用既有研究和理论为变量选择辩护（Berk, 2011, p.198）。
+> 协变量控制只有在关键第三变量被识别并被测量时才有效。Berk 对观察性因果推断的提醒同样适用：样本在已观测协变量上达到平衡，并不意味着未观测协变量也平衡；研究者需要用既有研究和理论为变量选择辩护（Berk, 2011, p.198）。
 
 
 > [!warning] 控制后效应并不自动等于因果效应

@@ -18,7 +18,6 @@ related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods:
   - "[[Ganz-Methode]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Dell Delambre]]"
 related_facts:
@@ -52,7 +51,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - Delambre 在 2014 年专著 *Sustentabilidade In-sustentável* 中从对 Rio+20 峰会可持续性概念的批判出发，初步形成了"整体可持续性"的问题意识（Delambre, 2022, p.105, 2014）
-> - 在 2013–2020 年里约热内卢多案例实践中，Delambre 通过贫民窟剧场、社区博物馆和[[Ecomuseology|生态博物馆]]等项目，[[Observational and Correlational Research|观察]]到局部社区的"[[Life Power|生命力量]]"——那些被常规可持续性框架所排除的要素（记忆、口述传统、精神性、文化实践）——恰恰是社区维持存在意义连续性的关键资源。这一观察使"整体"的内涵从理论批判发展为经验性概念（Delambre, 2022, p.107, 109–110）
+> - 在 2013–2020 年里约热内卢多案例实践中，Delambre 通过贫民窟剧场、社区博物馆和[[Ecomuseology|生态博物馆]]等项目，观察到局部社区的"[[Life Power|生命力量]]"——那些被常规可持续性框架所排除的要素（记忆、口述传统、精神性、文化实践）——恰恰是社区维持存在意义连续性的关键资源。这一观察使"整体"的内涵从理论批判发展为经验性概念（Delambre, 2022, p.107, 109–110）
 > - 2022 年随 [[Creative Tension of Sense]] 理论系统发表，在 Ch7 中以脚注形式给出正式定义（Delambre, 2022, p.109 脚注）
 
 ## 核心要素
@@ -78,7 +77,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - "纳入一切"的整体性要求在操作层面面临挑战——一个可持续性项目如何同时考量"记忆、口述传统、艺术、精神性、人际关系"和"内外部威胁"而仍然保持可管理性？（编者[[Observational and Correlational Research|观察]]）
+> - "纳入一切"的整体性要求在操作层面面临挑战——一个可持续性项目如何同时考量"记忆、口述传统、艺术、精神性、人际关系"和"内外部威胁"而仍然保持可管理性？（编者观察）
 > - Whole Sustainability 的概念边界与 [[Life Power]] 高度重叠——两者都被定义为"局部社区代表存在意义的一切"，区分度有限（编者观察）
 > - 论文未提供 Whole Sustainability 在可持续发展政策或实践中的具体应用案例，概念仍停留在原则声明层面（Delambre, 2022, p.109 脚注）
 

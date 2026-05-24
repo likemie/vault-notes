@@ -27,7 +27,6 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Matching]]"
 related_persons: []
 related_facts:
@@ -87,7 +86,7 @@ updated: 2026-05-20
 
 ### 第三步：量化——让人类变得可被算法读取
 
-算法意义建构的第二个步骤是量化。人类要对数字技术变得"可检测"，就必须通过刺激-反应关系和行为数据——那些不可[[Observational and Correlational Research|观察]]的维度（思维、体验、感受）必须被（暂时）忽略或转化为可追踪的维度（Jornitz & Klinge, 2022, p.233）。
+算法意义建构的第二个步骤是量化。人类要对数字技术变得"可检测"，就必须通过刺激-反应关系和行为数据——那些不可观察的维度（思维、体验、感受）必须被（暂时）忽略或转化为可追踪的维度（Jornitz & Klinge, 2022, p.233）。
 
 量化作为一种"社会技术"有悠久的传统——它"推动准确性的价值向前"并"增强对行为及其产物的可靠性、客观性和安全性的信心"（Hörning, 2001, p.126）。但 Heintz（2010, p.169）指出了一个关键事实：可比较性并非内在于对象之中，而是诸多决策和标准化努力的**产物**。在教育学领域，这一逻辑尤为危险——因为量化、比较和测量的实践**同时生产和改变了被测量的对象**（Manhart, 2016）。
 

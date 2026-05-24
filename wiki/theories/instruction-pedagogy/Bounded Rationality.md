@@ -15,8 +15,7 @@ related_concepts:
   - "[[Effect Size]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Herbert A. Simon]]"
   - "[[John Hattie]]"
@@ -44,7 +43,7 @@ updated: '2026-05-18'
 > - **理性赤字的永久性**：专业人员始终在理性赤字的条件下工作——他们不可能拥有做出"完全理性"决策所需的所有信息
 > - **[[Feedback|反馈]]作为修正机制**：应对有限理性的基本工具不是更多的预先规划，而是使用反馈作为持续的修正机制（Qvortrup, 2019, p.6）
 >
-> > 例：教师在课堂上不可能在做出每个教学决策之前分析所有相关数据——班级中 30 个学生的先验知识、动机状态、注意力水平、社会动态等。教师必须在有限信息下做出判断，然后通过[[Observational and Correlational Research|观察]]学生的反应（反馈）来修正下一步决策。这就是有限理性在教学中的日常运作（编者类比）。
+> > 例：教师在课堂上不可能在做出每个教学决策之前分析所有相关数据——班级中 30 个学生的先验知识、动机状态、注意力水平、社会动态等。教师必须在有限信息下做出判断，然后通过观察学生的反应（反馈）来修正下一步决策。这就是有限理性在教学中的日常运作（编者类比）。
 
 ## 发展脉络
 

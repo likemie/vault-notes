@@ -22,7 +22,6 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Spirals of Inquiry]]"
-  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse (WWC)]]"
@@ -92,7 +91,7 @@ updated: '2026-05-18'
 > **六个阶段**（Peterson, 2016, p. 306; Halbert & Kaser, 2014）：
 > 1. **扫描（Scanning）**：理解学生如何体验他们的教育
 > 2. **聚焦（Focusing）**：发展一个探究焦点
-> 3. **直觉（Hunch）**：提出关于哪些教师行动可以改变[[Observational and Correlational Research|观察]]模式的假设
+> 3. **直觉（Hunch）**：提出关于哪些教师行动可以改变观察模式的假设
 > 4. **学习（Learning）**：查阅已发表证据来指导实践
 > 5. **行动（Taking Action）**：实施改变
 > 6. **检查（Checking）**：检查行动是否产生预期效果——可能通过调查学生，但核心过程涉及教师与学生的个别或小团体对话
@@ -126,7 +125,7 @@ updated: '2026-05-18'
 
 
 > [!warning] 与"什么有效"范式的范式战争
-> Peterson (2016, p. 301) 将此文定位为"避免另一场范式战争"的努力，而非倒向任一范式。但整合方案是否在政治上可行——在一方主导的制度基础设施（EEF、IES、[[What Works Clearinghouse (WWC)|WWC]]）中为改进科学争取空间——仍待[[Observational and Correlational Research|观察]]。
+> Peterson (2016, p. 301) 将此文定位为"避免另一场范式战争"的努力，而非倒向任一范式。但整合方案是否在政治上可行——在一方主导的制度基础设施（EEF、IES、[[What Works Clearinghouse (WWC)|WWC]]）中为改进科学争取空间——仍待观察。
 
 ## 相关案例／政策
 

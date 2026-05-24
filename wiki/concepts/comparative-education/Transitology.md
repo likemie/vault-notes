@@ -14,8 +14,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Policy Borrowing]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
 related_facts:
@@ -52,7 +51,7 @@ updated: '2026-05-18'
 > - **同时性崩溃与重构**：国家机器、社会分层体系与政治愿景三重转型同时发生（Amos, 2022, p.53）
 > - **教育的象征性角色**：教育不仅是转型的受影响者，更是"摧毁过去、重新定义未来"的核心机制（Cowen, 2000, p.338）
 > - **国家中心到市场中心的转向**：从 polis-driven 到 market-driven，是现代教育到晚期现代教育的结构性转变标志（Amos, 2022, p.55）
-> - **过去-现在-未来的交织**：Cowen [[Observational and Correlational Research|观察]]到过去、现在和未来比严格线性更为交织。Amos 以 Günther Grass 的文学原则 VerGegenKunft（Vergangenheit/Gegenwart/Zukunft 的合成词）来说明这种纠缠（Amos, 2022, p.56）
+> - **过去-现在-未来的交织**：Cowen 观察到过去、现在和未来比严格线性更为交织。Amos 以 Günther Grass 的文学原则 VerGegenKunft（Vergangenheit/Gegenwart/Zukunft 的合成词）来说明这种纠缠（Amos, 2022, p.56）
 >
 
 ## 理论基础

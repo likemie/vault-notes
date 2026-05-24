@@ -17,8 +17,7 @@ related_concepts:
   - "[[Cultural Models]]"
   - "[[Pride in Learning]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -61,7 +60,7 @@ updated: 2026-05-23
 Mesquita 和 Frijda 进一步论证：文化参与情绪过程的**所有七个阶段**——而非仅影响最后的调节或表达阶段。人类情绪体验是自主神经反应与[[Cultural Models|文化模型]]所规约反应的结合产物。不同文化在评估的频率、行动准备、表达与行为、调节过程等方面存在系统性差异（Li, 2012, p.55–56）。
 
 > [!example]
-> 如果某种文化强调对学习成就的[[Pride in Learning|骄傲]]，该文化中的学习者就会更频繁地感到骄傲、表达骄傲并据此行动。如果另一种文化贬低对学习成就的骄傲，我们就能[[Observational and Correlational Research|观察]]到骄傲在学习中的出现频率更低（Li, 2012, p.56）。这与 Levy 的 高度认知化／低度认知化 框架一致。
+> 如果某种文化强调对学习成就的[[Pride in Learning|骄傲]]，该文化中的学习者就会更频繁地感到骄傲、表达骄傲并据此行动。如果另一种文化贬低对学习成就的骄傲，我们就能观察到骄傲在学习中的出现频率更低（Li, 2012, p.56）。这与 Levy 的 高度认知化／低度认知化 框架一致。
 
 ---
 

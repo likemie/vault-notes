@@ -14,8 +14,7 @@ related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Visible Learning]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
@@ -43,7 +42,7 @@ updated: '2026-05-19'
 
 经过进一步反思后，Grace 增加了一项额外特征：**接受作为"critic and conscience of society"的角色**。他之所以加上这一条，是因为他想强调：在自由民主社会中，大学有一个关键的"权力制衡角色"——无论哪个政治党派或意识形态当前执政，大学都有责任"向权力说真话"，而这种"真话"必须基于系统性的公正分析、学术与实证研究（Grace, 2010, p.89）。
 
-Grace 的关切源于当时已可[[Observational and Correlational Research|观察]]到的证据——尤其在 1980 年代的英国——大学越来越依赖政府资金和研究经费，正面临丧失独立角色的危险。他因此认为有必要明确声明：真正的大学必须是"[[Critic and Conscience of Society|社会的批评者与良知]]"（Grace, 2010, p.90）。
+Grace 的关切源于当时已可观察到的证据——尤其在 1980 年代的英国——大学越来越依赖政府资金和研究经费，正面临丧失独立角色的危险。他因此认为有必要明确声明：真正的大学必须是"[[Critic and Conscience of Society|社会的批评者与良知]]"（Grace, 2010, p.90）。
 
 ### 对 Hattie 的批评
 

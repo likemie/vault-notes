@@ -20,7 +20,6 @@ related_concepts:
   - "[[Cult of the Guru]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
@@ -48,7 +47,7 @@ updated: '2026-05-18'
 >
 > > "Student achievement can be raised by improving the quality of teaching, which the evidence shows is the largest inschool influence on student outcomes. Increasing student/ teacher ratios, and consolidation of the school network, can free up funding that could be used to support initiatives to enhance the quality of teaching, such as more systemic use of value-add data and a more professionalised workforce."（Treasury, 2011, p.21）
 >
-> 2012 年 2 月 8 日，在议会质询中，教育部长拒绝排除增加[[Class Size|班级规模]]的可能性，理由是 Treasury 的"独立[[Observational and Correlational Research|观察]]"和有影响力的政府顾问 [[John Hattie]] 教授的研究发现均表明，学校教育政策应转而聚焦于提升教学质量（House of Representatives, 2012）。
+> 2012 年 2 月 8 日，在议会质询中，教育部长拒绝排除增加[[Class Size|班级规模]]的可能性，理由是 Treasury 的"独立观察"和有影响力的政府顾问 [[John Hattie]] 教授的研究发现均表明，学校教育政策应转而聚焦于提升教学质量（House of Representatives, 2012）。
 >
 > O'Neill (2012) 随后发表评论文章，系统分析该政策建议中的[[Material Fallacies|实质谬误]]。
 

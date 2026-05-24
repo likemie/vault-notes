@@ -25,8 +25,7 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Singapore Education Hub Policy]]"
@@ -154,7 +153,7 @@ updated: 2026-05-19
 
 > [!tip]
 - [[International Education Hubs]] — 阿联酋是新加坡之外最重要的 IEH 案例，其阿布扎比/迪拜空间分工模式丰富了 Knight 三类型学的实证内涵
-- [[Singapore Education Hub Policy]] — 阿联酋"[[Observational and Correlational Research|观察]]了新加坡 1990 年代的快速发展并决定效仿"，两者的比较揭示了相同的核心悖论（绕开制度建设）和不同的运作模式（时间交替 vs 空间分工）
+- [[Singapore Education Hub Policy]] — 阿联酋"观察了新加坡 1990 年代的快速发展并决定效仿"，两者的比较揭示了相同的核心悖论（绕开制度建设）和不同的运作模式（时间交替 vs 空间分工）
 - [[Hub and Flow Imaginaries]] — 迪拜的经济区和阿布扎比的[[Cultural Diplomacy|文化外交]]分别体现了 Hub and [[Flow]] 想象中"流动"和"枢纽锚定"的不同面向
 
 ---

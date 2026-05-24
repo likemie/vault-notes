@@ -18,8 +18,7 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[School Leadership]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[John Hattie]]"
@@ -63,7 +62,7 @@ updated: '2026-05-18'
 
 > [!success] 主要发现
 > - 教育行政与领导力领域的博士项目、会议和期刊均未为学者准备对话和辩论的能力（Eacott, 2019, p.774）
-> - 该领域曾有过学术交锋的传统——如 Willower (1983)、Hills (1982, 1983)、Gronn (1982, 1987) 和 Thomas (1986) 之间关于[[Observational and Correlational Research|观察]]性研究的有用性的往返交流，以及 Evers 和 Lakomski 的 trilogy 中的论证、批评和辩护——但这些已"早已远去"（Eacott, 2019, p.774-775）
+> - 该领域曾有过学术交锋的传统——如 Willower (1983)、Hills (1982, 1983)、Gronn (1982, 1987) 和 Thomas (1986) 之间关于观察性研究的有用性的往返交流，以及 Evers 和 Lakomski 的 trilogy 中的论证、批评和辩护——但这些已"早已远去"（Eacott, 2019, p.774-775）
 > - Eacott 2017 年论文的传播过程被视为"成功"——下载量超过 1000 次，带来地区级和州级专业协会的演讲邀请（p.776）
 > - 负面反应虽远少于正面，但 Eacott 承认"困扰我的始终是后者"（p.776）
 > - [[John Hattie|Hattie]] 的回应（2017）被不经同行评审地在两天内接收和发表——Eacott 指出这本身"将是证实我关于大师地位被编辑合法化的主张的证据"（p.777）

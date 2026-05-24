@@ -23,8 +23,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
@@ -64,7 +63,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - **1993 社交融入**：Tinto 在融入理论中提出社交融入（Social Integration），定义为学生发现大学社交环境与自身偏好相协调的程度（[[Yajun Zheng|郑雅君]]，2023，引 Tinto, 1993）
-> - **1991 行为操作化**：Kuh 在[[Student Engagement]]中将其操作化为可[[Observational and Correlational Research|观察]]的行为指标——课外活动、学生组织、实习、同伴交往等（郑雅君，2023，引 Kuh, 1991）
+> - **1991 行为操作化**：Kuh 在[[Student Engagement]]中将其操作化为可观察的行为指标——课外活动、学生组织、实习、同伴交往等（郑雅君，2023，引 Kuh, 1991）
 > - **2003 [[Employability|就业力]]转向**：Brown & Hesketh 将社会性投入与[[Employability|就业力]]关联——在[[Knowledge-Based Economy|知识经济]]时代，社会性投入中锻造的软技能和职业网络成为区分求职者的关键（郑雅君，2023，引 Brown & Hesketh, 2003, 2004）
 > - **2023 中国研究深化**：[[Yajun Zheng|郑雅君]]揭示社会性投入在两种[[Habitus|习性]]模式下的系统性差异——目标掌控者视其为职业锚定机制，直觉依赖者习惯性忽略——且社会性投入可能是触发模式转换的**初始杠杆**（郑雅君，2023）
 
@@ -117,7 +116,7 @@ updated: '2026-05-18'
 > [!example]
 > - 目标掌控者案例：钦凯凭借丰富的求职面试经历提炼出"演绎"能力（情商、印象管理、"转化率"），并在与年长商界精英的广泛交往中锻造了面试从容感。经纬通过"尝试—体验—放弃—再尝试"的试错路径最终锚定金融方向。详见 [[Goal-Controlled Mode]]
 > - 直觉依赖者案例：大成用"处理器难以识别语码"来描述社交融入困境（"你并不能讲出一个很好的玩笑"——文化语码不适配）；冰倩屡次社团面试失败后"弃疗"（"就觉得自己不够优秀"——其实"很多人也都不会，去了才有人手把手教的"）。详见 [[Intuition-Dependent Mode]]
-> - 模式转换案例：梓桐（听讲座→学术小圈子→台湾交流→移入学者价值图式）和高程（学生工作→[[Observational and Correlational Research|观察]]优秀学长学姐→确立从政方向）均以社会性投入为转折引擎。详见 [[Intuition-Dependent Mode]]
+> - 模式转换案例：梓桐（听讲座→学术小圈子→台湾交流→移入学者价值图式）和高程（学生工作→观察优秀学长学姐→确立从政方向）均以社会性投入为转折引擎。详见 [[Intuition-Dependent Mode]]
 
 ---
 

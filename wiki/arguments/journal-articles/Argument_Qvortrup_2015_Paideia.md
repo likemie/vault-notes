@@ -24,7 +24,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -65,7 +64,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提／[[Observational and Correlational Research|观察]]**：[[Visible Learning]] 产生巨大影响，也引发三类批评：意识形态批评反对把教学看作有意图的[[Student-Teacher Relationship|师生关系]]并考察干预与结果的关联；方法论批评质疑不同定义的教育干预能否比较；情境批评质疑不同时间和社会地理语境中的研究能否合并（Qvortrup, 2015, pp.22, 25）。
+> 1. **前提／观察**：[[Visible Learning]] 产生巨大影响，也引发三类批评：意识形态批评反对把教学看作有意图的[[Student-Teacher Relationship|师生关系]]并考察干预与结果的关联；方法论批评质疑不同定义的教育干预能否比较；情境批评质疑不同时间和社会地理语境中的研究能否合并（Qvortrup, 2015, pp.22, 25）。
 >
 > 2. **论证步骤**：
 >    - **步骤一：实证转向不是 [[John Hattie|Hattie]] 发明的。** 德语／受德国影响的教育研究从精神科学教育学转向结果导向研究，与 TIMSS、[[PISA]] 等国际比较评价有关；英美传统中，Glass 早在 1976 年已提出[[Meta-analysis|元分析]]，以回应教育研究结果太多却难以综合的问题（Qvortrup, 2015, pp.23–24）。

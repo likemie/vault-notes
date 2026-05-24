@@ -17,9 +17,9 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Observational and Correlational Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Roy Bhaskar]]"
@@ -51,7 +51,7 @@ updated: '2026-05-18'
 >
 > 1. **实在（The Real）**：深层因果机制和结构——无论我们是否感知到它们。这些因果力可能被触发或阻断，可能无法实际化。
 > 2. **实际（The Actual）**：实际发生的事件——这些事件是深层因果力与具体环境条件互动的结果。
-> 3. **经验（The Empirical）**：我们[[Observational and Correlational Research|观察]]或体验到的东西——位于最表层，与深层实在之间常存在断裂。
+> 3. **经验（The Empirical）**：我们观察或体验到的东西——位于最表层，与深层实在之间常存在断裂。
 >
 > > 例：在 EEF Toolkit 的体育参与案例中，"经验"层面是报告的平均[[Effect Size|效应量]] 0.17（+2 个月）。但追踪到"实际"层面发现：高效应量的 [[Playing for Success]] 项目包含一对一辅导、专用 ICT 套件、个性化课程和足球明星见面会——远非普通"体育参与"。而"实在"层面（什么因果机制在起作用）在统计聚合过程中完全消失了（Wrigley & McCusker, 2019, pp. 120–123）。
 
@@ -87,7 +87,7 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究范式
-> - **认识论立场**：反经验主义、反实证主义。知识不是对世界的透明再现——[[Observational and Correlational Research|观察]]总是在概念框架内进行，且深层因果机制可能不直接可观察。
+> - **认识论立场**：反经验主义、反实证主义。知识不是对世界的透明再现——观察总是在概念框架内进行，且深层因果机制可能不直接可观察。
 > - **常用方法**：强调因果机制的解释（而非仅规则性测量）、质性观察和理论建构的作用。与 Pawson 的实在论综合（realist synthesis）兼容——研究综述应基于因果理论而非统计平均。
 
 ## 争议与批评

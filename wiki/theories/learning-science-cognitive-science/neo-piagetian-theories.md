@@ -76,7 +76,7 @@ updated: '2026-05-18'
 
 ## 与脑发育的关联
 
-新[[Jean Piaget|皮亚杰]]发展阶段的转变似乎与[[Executive Function|执行功能]]（executive-function）的可[[Observational and Correlational Research|观察]]变化类似，这为两者之间的关联提供了支持。例如 Case 的 Inter-relational → Dimensional 阶段和 Fischer 的 Single Representations → Representational Mapping 阶段的转变均发生在 4–5 岁，与 EF 变化的"铰链点"吻合（Bolton & [[John Hattie|Hattie]], 2017, p.10）。
+新[[Jean Piaget|皮亚杰]]发展阶段的转变似乎与[[Executive Function|执行功能]]（executive-function）的可观察变化类似，这为两者之间的关联提供了支持。例如 Case 的 Inter-relational → Dimensional 阶段和 Fischer 的 Single Representations → Representational Mapping 阶段的转变均发生在 4–5 岁，与 EF 变化的"铰链点"吻合（Bolton & [[John Hattie|Hattie]], 2017, p.10）。
 
 ## 相关研究
 

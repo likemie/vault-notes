@@ -23,8 +23,7 @@ related_concepts:
   - "[[Intellectual-Social Divide]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -86,7 +85,7 @@ updated: 2026-05-24
 | 合作关系 | 低 | 高 | 低 |
 | 竞争结果 | 赢家 vs 输家，关系恶化 | 所有人提高成就，关系加强 | 赢家 vs 输家，关系恶化 |
 
-Fülöp 的核心结论："虽然竞争在自然界和人类世界中都可以[[Observational and Correlational Research|观察]]到，但它根据文化和竞争目标的不同而呈现出不同的形式、意义和过程。"竞争是一个**文化建构的概念**，而非人性普遍形式（Li, 2012, p.96）。
+Fülöp 的核心结论："虽然竞争在自然界和人类世界中都可以观察到，但它根据文化和竞争目标的不同而呈现出不同的形式、意义和过程。"竞争是一个**文化建构的概念**，而非人性普遍形式（Li, 2012, p.96）。
 
 ### Watkins 的香港验证
 

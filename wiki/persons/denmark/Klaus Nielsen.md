@@ -24,7 +24,6 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Matching]]"
 related_persons:
   - "[[John Hattie]]"
@@ -77,7 +76,7 @@ updated: '2026-05-19'
 
 
 > [!info] Hattie 的行为主义理论谱系（2021, NordPsych）
-> Nielsen & Klitmøller (2021, NordPsych) 追溯了 Hattie 教育理论中此前被忽视的行为主义传统，建立了一条自 Skinner → Glaser → Hattie (1987) 的清晰理论传承链。关键论证：Hattie 并非纯统计学家——他的统计方法选择（[[Effect Size|效应量]]综合、[[Meta-analysis|元分析]]）本身就是一种**理论选择**，反映了行为主义对可[[Observational and Correlational Research|观察]]、可测量行为的承诺和对意向性的排除。
+> Nielsen & Klitmøller (2021, NordPsych) 追溯了 Hattie 教育理论中此前被忽视的行为主义传统，建立了一条自 Skinner → Glaser → Hattie (1987) 的清晰理论传承链。关键论证：Hattie 并非纯统计学家——他的统计方法选择（[[Effect Size|效应量]]综合、[[Meta-analysis|元分析]]）本身就是一种**理论选择**，反映了行为主义对可观察、可测量行为的承诺和对意向性的排除。
 
 
 > [!info] [[Feedback|反馈]]元分析细读审查（2021, NordPsych）

@@ -14,8 +14,7 @@ related_concepts:
   - "[[Bildung]]"
 related_theories:
   - "[[Phenomenology]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Steen Nepper Larsen]]"
 related_facts: []
@@ -53,7 +52,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - **vs [[Visible Learning]]** — VL 将学习简化为可测量的结果和[[Effect Size|效应量]]；具身化-扩展辩证法强调学习是具身的、存在的、不可直接[[Observational and Correlational Research|观察]]的过程
+> - **vs [[Visible Learning]]** — VL 将学习简化为可测量的结果和[[Effect Size|效应量]]；具身化-扩展辩证法强调学习是具身的、存在的、不可直接观察的过程
 > - **vs [[Bildung]]** — Larsen 将该辩证法定位为复兴 Bildung 概念的一种尝试——"从侧翼"更新被广泛滥用、极其不清晰且语义上几乎被耗尽的"学习"概念（Larsen, 2019, p.10）
 > - **vs 认知学习理论** — 传统认知理论将学习定位于心智内部；具身化-扩展辩证法将学习重新定位于身体存在和生命经验的整体中
 

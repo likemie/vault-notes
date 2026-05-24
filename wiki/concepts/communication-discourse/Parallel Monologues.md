@@ -12,8 +12,7 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[School Leadership]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Scott Eacott]]"
   - "[[Pierre Bourdieu]]"
@@ -48,7 +47,7 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> Eacott 在 2017 年前后开始关注教育行政与领导力领域的对话质量问题。激发这一关注的具体事件是他[[Observational and Correlational Research|观察]]到 Peter Gronn 与 Ross Thomas 之间关于"厚描述"（thick description）的学术交流——Thomas 因不了解 Geertz 的研究而将 Gronn 的论点斥为"纯粹语义学"，Eacott 从中看到学者之间即使正面交锋也往往在"不对等的智识地带"上进行（Eacott, 2019, p.775）。
+> Eacott 在 2017 年前后开始关注教育行政与领导力领域的对话质量问题。激发这一关注的具体事件是他观察到 Peter Gronn 与 Ross Thomas 之间关于"厚描述"（thick description）的学术交流——Thomas 因不了解 Geertz 的研究而将 Gronn 的论点斥为"纯粹语义学"，Eacott 从中看到学者之间即使正面交锋也往往在"不对等的智识地带"上进行（Eacott, 2019, p.775）。
 >
 > Eacott 随后通过组织特刊（*Journal of Educational Administration and Foundations*, Vol. 26 No. 2）和出版 *Beyond Leadership*（Eacott, 2018）来展示他的规范性立场——遵循 [[Pierre Bourdieu|Bourdieu]] 等人的学术逻辑，即**argument and refutation**（论证与反驳）（Eacott, 2019, p.774）。
 

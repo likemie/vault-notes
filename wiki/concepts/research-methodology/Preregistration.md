@@ -19,7 +19,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse (WWC)]]"
@@ -58,7 +57,7 @@ updated: '2026-05-18'
 > [!abstract] 预注册的边界
 > Wolf et al. (2020, p. 444) 承认预注册不能消除所有偏倚：
 >
-> - **[[Researcher Degrees of Freedom|研究者自由度]]仍在**：Gelman & Loken (2014) 指出研究者可以通过"[[Observational and Correlational Research|观察]]数据"学到很多——预注册了方法但实际分析中仍有大量选择空间
+> - **[[Researcher Degrees of Freedom|研究者自由度]]仍在**：Gelman & Loken (2014) 指出研究者可以通过"观察数据"学到很多——预注册了方法但实际分析中仍有大量选择空间
 > - **实施环境的不可预测性**：在学校和学区环境中，干预不一定按计划进行，需要调整评估计划——预注册需要允许有合理理由的偏离
 > - **补充措施**：Wolf et al. (2020, p. 444) 主张除预注册外，研究者应尽可能公开研究数据（包括缺失值和所有初始参与者），使其他研究者可以重新分析并尝试复制发现
 
@@ -93,7 +92,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **不能消除所有偏倚**：Gelman & Loken (2014) 论证即使预注册后，研究者仍可通过"[[Observational and Correlational Research|观察]]数据"进行大量未记录的分析选择——预注册提供了约束但不构成保证（Wolf et al., 2020, p. 444）
+> - **不能消除所有偏倚**：Gelman & Loken (2014) 论证即使预注册后，研究者仍可通过"观察数据"进行大量未记录的分析选择——预注册提供了约束但不构成保证（Wolf et al., 2020, p. 444）
 > - **实施灵活性的需求**：学校环境的干预评估常需要根据实际情况调整——过于僵化的预注册要求可能与实践脱节
 
 ## 相关案例／政策

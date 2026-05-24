@@ -14,8 +14,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Venture Philanthropy]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -100,7 +99,7 @@ Poirier（2013）指出，新西兰慈善法包容收费服务的非营利组织
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **公共福利透明度**：慈善机构以营利和非营利两种形式声称贡献公共福利，但缺乏标准化信息供无利害关系的[[Observational and Correlational Research|观察]]者判断所声称的公共福利是否超过个人的私人利益（O'Neill et al., 2016, p.xv）
+> - **公共福利透明度**：慈善机构以营利和非营利两种形式声称贡献公共福利，但缺乏标准化信息供无利害关系的观察者判断所声称的公共福利是否超过个人的私人利益（O'Neill et al., 2016, p.xv）
 > - **替代性问题**：EMOs 提供的干预、产品和服务是否真正"原本不可获得"，以及合同外包是否比公共部门直接提供更具成本效益，均缺乏充分辩论（O'Neill et al., 2016, p.xvii）
 
 ## 来源

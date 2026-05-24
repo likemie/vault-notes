@@ -29,7 +29,6 @@ related_concepts:
   - "[[Statistical Significance]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Formative Evaluation]]"
   - "[[Logic Model]]"
   - "[[Randomised Controlled Trials]]"
@@ -66,7 +65,7 @@ updated: 2026-05-23
 
 > [!info] 研究方法
 > - 方法：文献综述加案例说明。前半部分梳理教育证据使用中的标准、限制和消费者偏好；后半部分用巴尔的摩郡公立学校 [[Students and Teachers Accessing Tomorrow (STAT)|STAT]] [[Technology Infusion|技术整合]]项目展示复杂系统中证据如何被生成、解释和争议化（Ross & Morrison, 2021, pp.109-110, 113-115）。
-> - 案例资料：STAT 评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂[[Observational and Correlational Research|观察]]、学校行为数据和英语语言艺术与数学成就数据；项目在 2014-2015 至 2018-2019 年分批扩展到全学区（Ross & Morrison, 2021, pp.115-118）。
+> - 案例资料：STAT 评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂观察、学校行为数据和英语语言艺术与数学成就数据；项目在 2014-2015 至 2018-2019 年分批扩展到全学区（Ross & Morrison, 2021, pp.115-118）。
 > - 研究定位：不是为了证明 STAT 的单一因果效应，而是展示综合性改革中[[Formative Evaluation|形成性评价]]、[[Logic Model|逻辑模型]]和多方解释如何共同影响项目持续性（Ross & Morrison, 2021, pp.121-124）。
 
 ## 论证结构
@@ -120,7 +119,7 @@ updated: 2026-05-23
 
 12. BCPS 的 [[Students and Teachers Accessing Tomorrow (STAT)|STAT]] 项目不是单一软件，而是全学区 [[Technology Infusion|技术融入]]改革。它包括教师专业发展、技术教练、设备配置、数字内容、课堂实践改变和长期学生表现目标（Ross & Morrison, 2021, pp.114-116）。
 
-13. 评价设计也不是单一测验，而是多源[[Formative Evaluation|形成性评价]]：教师问卷、学生焦点小组、校长和教师访谈、课堂[[Observational and Correlational Research|观察]]、行为数据以及 ELA 和数学成就数据。这样的设计更适合跟踪“改革是否正在发生”，而不是直接证明某个单一组件的因果效应（Ross & Morrison, 2021, pp.115-118）。
+13. 评价设计也不是单一测验，而是多源[[Formative Evaluation|形成性评价]]：教师问卷、学生焦点小组、校长和教师访谈、课堂观察、行为数据以及 ELA 和数学成就数据。这样的设计更适合跟踪“改革是否正在发生”，而不是直接证明某个单一组件的因果效应（Ross & Morrison, 2021, pp.115-118）。
 
 14. 形成性评价显示了多个中间成果：教师准备、设备进入课堂、数字资源使用、学生参与和学生中心教学都有进展；课堂中更明显的变化是从教师主导转向学生中心，并伴随数字工具使用增加（Ross & Morrison, 2021, pp.118-119, 122）。
 
@@ -163,7 +162,7 @@ updated: 2026-05-23
 
 > [!info]- 核心数据
 > - STAT 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应（Ross & Morrison, 2021, p.116）。
-> - 课堂[[Observational and Correlational Research|观察]]覆盖 2014 年秋至 2019 年春，单次观察约 20 分钟；观察工具总体评分者一致性 Cronbach's alpha 为 .972（Ross & Morrison, 2021, p.117）。
+> - 课堂观察覆盖 2014 年秋至 2019 年春，单次观察约 20 分钟；观察工具总体评分者一致性 Cronbach's alpha 为 .972（Ross & Morrison, 2021, p.117）。
 > - 141 项大型教育 [[Randomised Controlled Trials|RCT]] 的平均成就效应量仅为 .06 SD，且只有 23% 的效应显著大于零，这说明即使最严格的设计也常给出很小或不显著的成就结果（Ross & Morrison, 2021, p.112）。
 
 ## 关键引用

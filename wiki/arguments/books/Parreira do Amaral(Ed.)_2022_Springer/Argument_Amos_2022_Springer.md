@@ -36,8 +36,7 @@ related_theories:
   - "[[Autopoiesis]]"
   - "[[Luhmann's Systems Theory]]"
   - "[[Transition Design]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
   - "[[Julian Huxley]]"
@@ -229,7 +228,7 @@ updated: '2026-05-18'
 >
 > > 例：这里有一个直接的对比。超人类主义的教育技术：用 app 追踪你的学习进度、优化你的专注时间、评测你的认知水平——一切都是关于"你"的增强。Escobar-Varela 路径则建议：花时间在社区菜园里、学习与老人的跨代对话、练习关注他人的需要而非自己的成就——通过这些非自我中心的实践，发展出一种"我不需要站在宇宙中心"的习惯和感知方式。这两种路径的分歧不是技术问题，是关于"做一个人意味着什么"的根本立场分歧。
 >
-> Amos [[Observational and Correlational Research|观察]]到一个有意味的"家族相似性"：Escobar 和 Haraway 的思想与非洲的 **[[Ubuntu]]**（"我存在，因为我们存在"）和拉丁美洲的 **[[Buen Vivir]]**（"好好生活"——不是更多消费，而是与自然和共同体的和谐共处）有亲和力，可能跟 Buen Vivir 的共鸣略多一些。这些非西方传统为后人类主义教育愿景提供了额外的文化和伦理资源（Amos, 2022, p.64）。
+> Amos 观察到一个有意味的"家族相似性"：Escobar 和 Haraway 的思想与非洲的 **[[Ubuntu]]**（"我存在，因为我们存在"）和拉丁美洲的 **[[Buen Vivir]]**（"好好生活"——不是更多消费，而是与自然和共同体的和谐共处）有亲和力，可能跟 Buen Vivir 的共鸣略多一些。这些非西方传统为后人类主义教育愿景提供了额外的文化和伦理资源（Amos, 2022, p.64）。
 >
 > > 例：Ubuntu 的经典表达：一个人只有在与他人、与祖先、与自然的关系中才能成为"人"。把这种思维放到教育中：不把学习者看作独立的、可测量的个体单位（"这个学生的数学成绩在年级前 10%"），而是看作处于多重关系网络中的存在（"这个学生怎样支持同伴的学习？她与她的社区有什么关系？她的学习对她的家庭意味着什么？"）。这直接挑战了超人类主义和 [[New Public Management]] 共有的 individualism 假设。
 >

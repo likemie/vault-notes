@@ -12,8 +12,7 @@ related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[Multiplicity (Massey)]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Doreen Massey]]"
 related_facts: []
@@ -50,7 +49,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 > - **以国家为唯一分析单位** — 将高等教育理解为只能在各自国家范畴内被理解，跨境活动被视为边缘性的（Dale, 2005; Lo & Ng, 2013; Shahjahan & Kezar, 2013）。例如，主流比较教育研究长期以国家为比较单位，忽视跨国和全球层面的分析（Marginson, 2025, p. 8）
-> - **遮蔽全球现象** — 方法论民族主义透镜阻挡了对生态、科学（就其认识论自主性而言）等全球性现象的[[Observational and Correlational Research|观察]]（Marginson, 2025, p. 8）
+> - **遮蔽全球现象** — 方法论民族主义透镜阻挡了对生态、科学（就其认识论自主性而言）等全球性现象的观察（Marginson, 2025, p. 8）
 > - **与规范性民族主义的共生** — 二者相互倚靠，Massey（2005）称之为"对连贯国族性的浪漫幻想"和净化国家空间的徒劳尝试（Marginson, 2025, p. 8）
 > - **在高等教育中的具体表现** — 比较教育研究中以国家为唯一比较单位；大学排名将"国家表现"作为关键指标；政策研究将跨境流动视为国家政策的附属物（Marginson, 2025, pp. 8–9）
 

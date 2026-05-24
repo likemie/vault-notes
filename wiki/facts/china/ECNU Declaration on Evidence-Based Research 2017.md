@@ -16,8 +16,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Best Evidence in Brief (BEiB)]]"
@@ -67,7 +66,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> **定义分歧**：石中英 (2017) 区分广义"实证"（收集[[Observational and Correlational Research|观察]]数据提出假设）与狭义"实证"（程序化、操作化、定量化），暗示若按广义理解中国学术一直从事"证据本位"研究（Slavin et al., 2021, p.15）
+> **定义分歧**：石中英 (2017) 区分广义"实证"（收集观察数据提出假设）与狭义"实证"（程序化、操作化、定量化），暗示若按广义理解中国学术一直从事"证据本位"研究（Slavin et al., 2021, p.15）
 >
 > **"统计主义"批判**：李军 (2018) 警告不应将证据本位研究等同于"统计主义（statisticalism）"——"聚焦方法而忽视问题，聚焦数据而忽视事实，聚焦格式而忽视思想"，认为证据本位排斥了"难以量化的教育理念、价值和情感"（p.15-16）
 >

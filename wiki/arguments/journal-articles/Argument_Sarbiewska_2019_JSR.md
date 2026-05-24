@@ -19,8 +19,7 @@ related_concepts:
   - "[[Feedback]]"
 related_theories:
   - "[[Radical Constructivism]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
   - "[[Dietrich Benner]]"
@@ -60,7 +59,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提／[[Observational and Correlational Research|观察]]**：新西兰和澳大利亚自 1980 年代起停止忽视研究数据，开始将教育政策建立在教育研究结果之上
+> 1. **前提／观察**：新西兰和澳大利亚自 1980 年代起停止忽视研究数据，开始将教育政策建立在教育研究结果之上
 > 2. **论证步骤**：
 >    - 传统教育模型将"教学"等同于"学习"，课程是教师向学生传递的交换对象，评估仅用于分级
 >    - 传统模型的弱点（[[Tomorrow's Schools Reforms (NZ 1989)]]：87% 校长认为资金不足、工作量增加、校际竞争加剧、教育质量不平等）催生了对证据本位方法的追求

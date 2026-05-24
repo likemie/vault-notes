@@ -19,8 +19,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
@@ -60,7 +59,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - **1993 学业融入**：Tinto 在融入理论中提出学业融入（Academic Integration），定义为学生顺利与学校学术规范达成一致的程度（[[Yajun Zheng|郑雅君]]，2023，引 Tinto, 1993）
-> - **1991 行为操作化**：Kuh 在[[Student Engagement]]中将其操作化为可[[Observational and Correlational Research|观察]]的行为指标——课程学习、作业完成、师生学术互动等（郑雅君，2023，引 Kuh, 1991）
+> - **1991 行为操作化**：Kuh 在[[Student Engagement]]中将其操作化为可观察的行为指标——课程学习、作业完成、师生学术互动等（郑雅君，2023，引 Kuh, 1991）
 > - **2023 中国研究深化**：[[Yajun Zheng|郑雅君]]将学业投入置于阶层分析框架中，揭示其在不同[[Habitus|习性]]模式下的系统性差异——目标掌控者功能化看待学业投入，直觉依赖者则陷入"绩点无用论"与"优等生惯性"的矛盾（郑雅君，2023）
 
 ---

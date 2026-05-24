@@ -15,7 +15,6 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Improvement Science]]"
 related_persons: []
 related_facts: []
@@ -40,7 +39,7 @@ updated: '2026-05-18'
 > [!abstract] 六阶段循环
 > 1. **扫描（Scanning）**：理解学生如何体验他们的教育
 > 2. **聚焦（Focusing）**：发展一个探究焦点
-> 3. **直觉（Hunch）**：形成关于哪些教师行动可以改变[[Observational and Correlational Research|观察]]到的模式的假设
+> 3. **直觉（Hunch）**：形成关于哪些教师行动可以改变观察到的模式的假设
 > 4. **学习（Learning）**：查阅已发表证据来指导实践
 > 5. **采取行动（Taking Action）**：实施改变
 > 6. **检查（Checking）**：检查行动是否产生预期效果——可能通过调查学生，但核心过程涉及教师或管理者与学生进行个别或小组对话，使用先前使用者开发的问题（Peterson, 2016, p. 306）

@@ -15,8 +15,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Alan C. K. Cheung]]"
 related_arguments: []
@@ -54,7 +53,7 @@ updated: '2026-05-19'
 
 > [!note-] 思想发展与影响
 > - 与 [[Alan C. K. Cheung]] 合作，参与 Johns Hopkins University [[Evidence-Based Reform|证据本位改革]]研究网络的国际拓展
-> - 其对中国实验研究"数量和质量令人担忧"的诊断（Cheung & Xie, 2021, p.2），呼应了 Slavin et al. (2021) 对中国证据本位研究制度化发展的[[Observational and Correlational Research|观察]]
+> - 其对中国实验研究"数量和质量令人担忧"的诊断（Cheung & Xie, 2021, p.2），呼应了 Slavin et al. (2021) 对中国证据本位研究制度化发展的观察
 
 ## 来源
 

@@ -18,11 +18,11 @@ related_concepts:
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -41,7 +41,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info] 定义
-> 统计显著性（Statistical Significance）用于判断[[Observational and Correlational Research|观察]]到的差异是否足以拒绝"两个总体均值相同"之类的零假设。统计检验的核心不是把差异评为"大"或"小"，而是判断检验统计量是否超过临界值；超过则认为差异具有统计显著性，否则不能排除零假设仍然成立的可能（Allerup, 2015, p.45）。
+> 统计显著性（Statistical Significance）用于判断观察到的差异是否足以拒绝"两个总体均值相同"之类的零假设。统计检验的核心不是把差异评为"大"或"小"，而是判断检验统计量是否超过临界值；超过则认为差异具有统计显著性，否则不能排除零假设仍然成立的可能（Allerup, 2015, p.45）。
 
 ## 历史沿革
 

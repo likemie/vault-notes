@@ -16,8 +16,7 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
 related_theories:
   - "[[Autopoiesis]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Niklas Luhmann]]"
 related_facts: []
@@ -33,7 +32,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> [[Niklas Luhmann]] 的社会系统理论将社会理解为一个由[[Autopoiesis|自创生]]（autopoietic）沟通系统构成的整体，与个体的心理系统（意识）严格区分。其核心立场是：社会沟通系统永远无法[[Observational and Correlational Research|观察]]个体心理系统，两者不共享编码且彼此不透明（Larsen, 2019, p.4）。
+> [[Niklas Luhmann]] 的社会系统理论将社会理解为一个由[[Autopoiesis|自创生]]（autopoietic）沟通系统构成的整体，与个体的心理系统（意识）严格区分。其核心立场是：社会沟通系统永远无法观察个体心理系统，两者不共享编码且彼此不透明（Larsen, 2019, p.4）。
 >
 > > "The social communicative system—of the teacher, the school leader, the researcher, and/or the local or national educational policymaker—can never view the psychic system of the individual pupil or student. These two systems are not code-identical, nor are they transparent to one another."（Larsen, 2019, p.4）
 
@@ -43,7 +42,7 @@ updated: '2026-05-18'
 > Larsen (2019) 的论文中涉及的系统理论关键命题：
 >
 > - **社会系统 vs 心理系统** — 社会系统由沟通（communication）构成，心理系统由意识（consciousness）构成。两者是操作上封闭的、自我指涉的系统，各自遵循不同的逻辑，以不同的方式对彼此"盲视"（Larsen, 2019, p.4）
->   > 例：教师在课堂上发出教学指令（社会系统的沟通操作），但每个学生如何接收、理解、内化这些信息（心理系统的意识操作）是教师永远无法直接[[Observational and Correlational Research|观察]]的。同样，学生的内心想法需要被"翻译"为语言和行为才能进入社会沟通系统。
+>   > 例：教师在课堂上发出教学指令（社会系统的沟通操作），但每个学生如何接收、理解、内化这些信息（心理系统的意识操作）是教师永远无法直接观察的。同样，学生的内心想法需要被"翻译"为语言和行为才能进入社会沟通系统。
 > - **盲点（Blinder Fleck）** — 每一次观察都基于一个观察者无法看见的盲点。观察者在观察时无法看见自身。看到某物的条件恰恰是建立了看见与看不见之间的区分。所有自我观察都受制于盲点——它之所以可能，恰恰因为它无法看见自身的看见（Larsen, 2019, p.10）
 >   > 例：当 VL 研究者通过[[Effect Size|效应量]]数据观察"什么在教学中有效"时，他们建立了一个区分（可量化的效果 vs 不可量化的过程），但他们无法在观察框架内部看到这个区分本身的局限性和任意性。
 > - **[[Structural Coupling|结构耦合]]（Structural Coupling）** — 两个封闭、自我指涉系统之间的非因果链接。如在教育中，教学（社会系统）与学习（心理系统）之间不是因果关系而是结构耦合——教学不能直接'生产'学习，只能通过结构耦合间接地'扰动'学习者的心理系统

@@ -14,8 +14,8 @@ related_concepts:
   - "[[Recommendations for Practice]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Non-intervention Research]]"
+  - "[[Observational and Correlational Research]]"
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Intervention Research]]"
 related_persons: []
@@ -32,7 +32,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 质性研究（Qualitative Research）在 Brady et al. (2023) 的编码中指不操纵自变量、并使用访谈、[[Observational and Correlational Research|观察]]等文本数据的研究。它被归入[[Non-intervention Research|非干预研究]]，与包含量化数据的观察/相关研究相区分（Brady et al., 2023, p.4）。
+> 质性研究（Qualitative Research）在 Brady et al. (2023) 的编码中指不操纵自变量、并使用访谈、观察等文本数据的研究。它被归入[[Non-intervention Research|非干预研究]]，与包含量化数据的[[Observational and Correlational Research|观察/相关研究]]相区分（Brady et al., 2023, p.4）。
 
 ## 认识论立场
 
@@ -43,13 +43,13 @@ updated: '2026-05-18'
 
 > [!example] 操作步骤
 > - **不操纵自变量**：质性研究在该文分类中属于[[Non-intervention Research|非干预研究]]（Brady et al., 2023, p.4）。
-> - **使用文本数据**：数据例子包括访谈文本和[[Observational and Correlational Research|观察]]文本（Brady et al., 2023, p.4）。
+> - **使用文本数据**：数据例子包括访谈文本和观察文本（Brady et al., 2023, p.4）。
 > - **以解释和理解为主要目标**：该文没有展开质性分析程序，但将其放入方法多元化趋势中，强调不同经验方法可通过不同透镜研究教育现象（Brady et al., 2023, p.2）。
 
 ## 适用场景
 
 > [!success] 适用场景
-> - 适合在研究早期理解教育情境、[[Observational and Correlational Research|观察]]参与和推理等复杂现象；2020 年 *Journal of Educational Psychology* 曾出版 "Qualitative Studies of Reasoning and Participation" 专刊（Brady et al., 2023, p.5）。
+> - 适合在研究早期理解教育情境、观察参与和推理等复杂现象；2020 年 *Journal of Educational Psychology* 曾出版 "Qualitative Studies of Reasoning and Participation" 专刊（Brady et al., 2023, p.5）。
 > - 适合补充以实验和量化关联为主的教育心理学传统，使高影响期刊能纳入更广泛的方法视角（Brady et al., 2023, pp.7-8）。
 
 ## 局限性

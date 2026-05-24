@@ -13,7 +13,6 @@ related_concepts:
   - "[[Stable Unit Treatment Value Assumption (SUTVA)]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Causal Modeling]]"
   - "[[Matching]]"
   - "[[Randomised Controlled Trials]]"
@@ -71,12 +70,12 @@ updated: '2026-05-18'
 
 
 > [!abstract] 在评估研究中的传播
-> Berk (2011, p.194) [[Observational and Correlational Research|观察]]到潜在结果公式已逐渐在评估研究实践中取得重要进展，尤其在经济学家中，但进展"非常缓慢"。
+> Berk (2011, p.194) 观察到潜在结果公式已逐渐在评估研究实践中取得重要进展，尤其在经济学家中，但进展"非常缓慢"。
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Causal Modeling]] — 潜在结果框架为因果效应提供定义性基础；因果建模（[[Matching|SEM]]）尝试通过模型假设从[[Observational and Correlational Research|观察]]数据中估计因果参数，但 Berk (2011) 认为后者存在严重的过度依赖不可检验假设的问题
+> - vs [[Causal Modeling]] — 潜在结果框架为因果效应提供定义性基础；因果建模（[[Matching|SEM]]）尝试通过模型假设从观察数据中估计因果参数，但 Berk (2011) 认为后者存在严重的过度依赖不可检验假设的问题
 > - vs [[Randomised Controlled Trials]] — RCT 是估计因果效应的一种方法；潜在结果框架为理解 RCT 为何有效（随机分配使潜在结果独立于处理分配）提供了概念基础
 
 ## 理论基础

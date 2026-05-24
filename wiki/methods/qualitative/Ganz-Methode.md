@@ -22,8 +22,7 @@ related_concepts:
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Dell Delambre]]"
   - "[[Richard Castelo Branco]]"
@@ -64,7 +63,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract]
-> - **步骤一：承载张力以构建运动中的整体进路**（Sustaining Tension to Build the Whole Approach in Motion）：第一步要求在具体情境中[[Observational and Correlational Research|观察]]所有涉及存在意义的张力，识别新旧元素并将它们并置呈现（visualize the new and the old together），分析该张力与更广泛全球环境中同类张力的关系，然后选择优先保留新或旧——取决于对情境影响的解释。在此过程中，张力不被急于消解，而是被承载，以允许内部变化的发生（Delambre, 2022, p.112–113）
+> - **步骤一：承载张力以构建运动中的整体进路**（Sustaining Tension to Build the Whole Approach in Motion）：第一步要求在具体情境中观察所有涉及存在意义的张力，识别新旧元素并将它们并置呈现（visualize the new and the old together），分析该张力与更广泛全球环境中同类张力的关系，然后选择优先保留新或旧——取决于对情境影响的解释。在此过程中，张力不被急于消解，而是被承载，以允许内部变化的发生（Delambre, 2022, p.112–113）
 > - **步骤二：发现[[Life Power|生命力量]]和生命意义价值**（Life Power and Values of Sense of Life）：在承载张力的基础上，第二步要求识别该情境中的"生命力量"——即局部社区所拥有并解释为存在意义和过去-现在-未来连续性的一切；同时构建临时性规则和规范以保护和促进张力中的生命价值（如局部社区的主体性、人的尊严、生物多样性保护、局部记忆发展、被排除群体的尊严等）。此步骤也要求暴露"死亡价值"（values for death）——即那些以消灭他者为目的的张力面向（Delambre, 2022, p.113–116）
 > - **局部与全球的连接**：在 Ganz-Methode 中，每个具体情境中的张力都必须与更广泛的全球语境中的同类张力相关联。局部决策影响全球，反之亦然。这一来回审视使决策者能更清楚地感知每次选择的影响（Delambre, 2022, p.117）
 > - **伦理讨论的内在性**：Ganz-Methode 要求将伦理讨论嵌入张力承载的全过程。因为张力本身就是伦理性的——它同时包含"生命价值"（values for life）与"死亡价值"（values for death），承载张力的过程因此也是一种伦理抉择的过程（Delambre, 2022, p.113–114, 117–118）
@@ -82,7 +81,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - 方法的两步法描述仍然停留在原则层面，缺乏可复制的方法论细节——例如"承载张力"的具体操作程序、时间框架、评估标准等均未明确（编者[[Observational and Correlational Research|观察]]）
+> - 方法的两步法描述仍然停留在原则层面，缺乏可复制的方法论细节——例如"承载张力"的具体操作程序、时间框架、评估标准等均未明确（编者观察）
 > - 方法的有效性仅基于作者个人的实践经验和案例叙述，缺乏独立评估和比较研究（编者观察）
 
 ## 相关案例／政策

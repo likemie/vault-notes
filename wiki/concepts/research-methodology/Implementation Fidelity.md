@@ -20,7 +20,6 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Formative Evaluation]]"
   - "[[Logic Model]]"
@@ -45,7 +44,7 @@ updated: '2026-05-23'
 ## 概念辨析
 
 > [!example]
-> - vs [[Effect Size]] — 效应量显示研究中[[Observational and Correlational Research|观察]]到的差异大小；实施忠实度解释这个差异是在什么实施条件下产生的。
+> - vs [[Effect Size]] — 效应量显示研究中观察到的差异大小；实施忠实度解释这个差异是在什么实施条件下产生的。
 > - vs [[Quasi-Experimental Designs]] — QED 关注比较组是否能提供可信反事实；实施忠实度关注干预组是否真正接受了足够质量和强度的项目。
 > - vs [[Formative Evaluation]] — 形成性评价可以用来监测和[[Feedback|反馈]]实施忠实度，但两者不是同一概念。
 

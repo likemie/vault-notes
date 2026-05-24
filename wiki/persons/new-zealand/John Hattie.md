@@ -51,7 +51,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Gerald Grace]]"
   - "[[Basil Bernstein]]"
@@ -186,7 +185,7 @@ updated: '2026-05-21'
 > - **证据与理论的关系**：在 Knudsen（2017, p.259）的访谈中，Hattie 明确反对丹麦 VL 序言中"教育终于变得 evidence-based 可以摆脱理论"的说法——"证据不意味着不应该有理论……证据是被解释的；证据通过镜头解释，那个镜头就是理论。理论是主导的"。他承认 VL"在理论方面相当缺乏"，但强调"我当然有非常强的教学模式"（Knudsen, 2017, pp.258–259）。他将证据定义为"被争夺的"（contested），不同人（教师、学生、同伴、家长、[[School Leadership|学校领导]]）根据自身视角做出不同解释；证据也可以与经验相关——"教师广泛的、经验性的证据也是合法的证据"（Knudsen, 2017, p.259）
 > - **"Know thy impact" vs "evidence-based"**：Hattie 表示从一开始就不喜欢"evidence-based"这个词——"因为它暗示背后没有思考"。他将论述从"evidence-based"转向"know thy impact"，认为后者更接近原初的丹麦教育理念——关注对学生的 impact（Knudsen, 2017, p.256）
 > - **翻译的单向概念**：Hattie 将翻译理解为"我说什么→测试教师是否按我的意思理解了→如果没理解就是我们错了"——这种单向模型与教育研究中强调双向对话的翻译概念形成对比（Knudsen, 2017, pp.254–255）
-> - **从个人教师到学校改进工程**：在 Nordahl (2015) 的北欧接受路径里，Hattie 的意义被进一步解释为一种学校改进原则：教师要把“自己对学生学习造成了什么影响”作为持续判断对象，但这件事不能靠教师单打独斗，而要通过教师协作、课堂[[Observational and Correlational Research|观察]]、数据使用与能力建设，变成整个学校的工作方式（Nordahl, 2015, pp.61–67；参见 [[Visible Learning]]、[[Evidence-Based Education]]）。
+> - **从个人教师到学校改进工程**：在 Nordahl (2015) 的北欧接受路径里，Hattie 的意义被进一步解释为一种学校改进原则：教师要把“自己对学生学习造成了什么影响”作为持续判断对象，但这件事不能靠教师单打独斗，而要通过教师协作、课堂观察、数据使用与能力建设，变成整个学校的工作方式（Nordahl, 2015, pp.61–67；参见 [[Visible Learning]]、[[Evidence-Based Education]]）。
 >
 
 ## 主要贡献

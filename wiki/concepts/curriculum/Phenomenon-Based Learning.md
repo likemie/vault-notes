@@ -23,7 +23,6 @@ related_theories:
   - "[[Phenomenology]]"
   - "[[Radical Constructivism]]"
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Philosophical Analysis in Education]]"
 related_persons:
   - "[[Wolfgang Klafki]]"
@@ -44,7 +43,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > Phenomenon-Based Learning（PhBL，现象本位学习）是一种以真实或抽象的"现象"为学习起点的跨学科教学取向。它要求学生围绕复杂现象调动不[[Tongxue|同学]]科的知识，同时保持学科自身的深度，而不是简单取消学科边界（Schaffar & Wolff, 2024, pp.2, 4）。
 >
-> 在芬兰语原版 2014 年国家核心课程中，`phenomenon-based learning` 这个英语术语本身并未出现；英语译本中也只出现少数几次。课程文本更频繁使用的是芬兰语 `ilmiö`（phenomenon，现象）及其组合词，并要求学生[[Observational and Correlational Research|观察]]、描述、理解和解释各种日常、文化、历史、化学或世界观相关现象（Schaffar & Wolff, 2024, p.2）。
+> 在芬兰语原版 2014 年国家核心课程中，`phenomenon-based learning` 这个英语术语本身并未出现；英语译本中也只出现少数几次。课程文本更频繁使用的是芬兰语 `ilmiö`（phenomenon，现象）及其组合词，并要求学生观察、描述、理解和解释各种日常、文化、历史、化学或世界观相关现象（Schaffar & Wolff, 2024, p.2）。
 
 ## 历史沿革
 

@@ -14,8 +14,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Individualised Instruction]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_arguments: []
@@ -55,7 +54,7 @@ updated: '2026-05-19'
 
 > [!warning] 争议与批评
 > - Helmke 支持教学差异化，但承认关于教学差异化是否提升学生学习的经验证据并不充分；这一点与丹麦 SFI 报告中"教学差异化似乎没有显著效果"的结果相互呼应。相关概念见 [[Individualised Instruction]]（Laursen, 2015, p.38）。
-> - Helmke 关于亚洲表现取向的解释提醒研究者，不应把高成绩直接归因于威权教学风格。[[Observational and Correlational Research|观察]]到亚洲学生成绩高、亚洲课堂较封闭，并不能推出封闭教学就是高成绩的原因（Laursen, 2015, pp.39–40）。
+> - Helmke 关于亚洲表现取向的解释提醒研究者，不应把高成绩直接归因于威权教学风格。观察到亚洲学生成绩高、亚洲课堂较封闭，并不能推出封闭教学就是高成绩的原因（Laursen, 2015, pp.39–40）。
 
 ## 来源
 

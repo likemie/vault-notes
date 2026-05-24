@@ -25,7 +25,6 @@ related_theories:
   - "[[World Society Theory]]"
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
@@ -140,7 +139,7 @@ updated: '2026-05-18'
 > - 一个重要的未回答问题：LS 的课堂教学在多大程度上真正实现了其官方课程目标（批判思维、多角度分析）？或者说，LS 的"批判性"是否更多存在于政策文本中？
 > - [[Citizenship and Social Development (Hong Kong)|CSD]] 自 2021 年实施以来的课堂实践仍是一片研究空白——"pass/fail"评估在课堂中产生了什么实际教学行为？
 >
-> **目前状态**：此局限为后续研究提供了明确方向——需要课堂[[Observational and Correlational Research|观察]]、教师访谈和学生成果分析来补充政策层面的发现。但在《国安法》框架下，此类研究的数据获取面临显著障碍。
+> **目前状态**：此局限为后续研究提供了明确方向——需要课堂观察、教师访谈和学生成果分析来补充政策层面的发现。但在《国安法》框架下，此类研究的数据获取面临显著障碍。
 >
 > ### 媒体来源偏向：官方叙事主导废除阶段的分析
 >

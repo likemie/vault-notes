@@ -24,8 +24,7 @@ related_concepts:
   - "[[Neo-Taylorism in Educational Administration]]"
 related_theories:
   - "[[Science and Technology Studies (STS)]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
   - "[[John Locke]]"
@@ -95,7 +94,7 @@ updated: '2026-05-18'
 > - **Latour 的"科学在行动"** — 关注科学实践如何制造事实，而非科学作为成品（Gorur, 2014, p.6）
 > - **Scott 的"国家的视角"** — 排序和测量使治理成为可能，而排序和测量的行为本身改变世界（Scott, 1998; Gorur, 2014, p.6）
 > - **[[Science and Technology Studies (STS)]]** — Jasanoff 的共同生产（co-production）理论：科学与国家相互构成，知识"结晶"为组织、物质、具身的存在状态（Jasanoff, 2004, p.3; Gorur, 2014, p.6）
-> - **Bottani 的认识论** — "没有认知方法能使其[[Observational and Correlational Research|观察]]、测量、分析、比较、解码的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"（Bottani, 2008, p.22; Gorur, 2014, p.18）
+> - **Bottani 的认识论** — "没有认知方法能使其观察、测量、分析、比较、解码的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"（Bottani, 2008, p.22; Gorur, 2014, p.18）
 
 ## 实证发现
 

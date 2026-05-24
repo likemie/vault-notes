@@ -21,8 +21,7 @@ related_concepts:
   - "[[Chinese Learner]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -77,7 +76,7 @@ updated: 2026-05-22
 > [!warning]
 > - Li 承认，科举制度也导致了功利化倾向："许多学者更多地被物质回报驱动"，但即便如此，"他们仍然不得不经历同样的学习过程"（Li, 2012, pp.47-48）
 > - 科举的废除（1905 年）与[[Confucian Learning Tradition|儒家学习传统]]在 20 世纪被全面否定密切相关——许多近代中国知识分子将中国的落后归咎于儒家传统，科举制度被视为这一传统的制度象征（Li, 2012, pp.48-49）
-> - 值得注意的是，Li [[Observational and Correlational Research|观察]]到：尽管科举制度的废除和学习内容的西化（科学、数学），"学习的价值和学习者投入这个过程的方式仍然基本上是儒家的"（Li, 2012, p.49）
+> - 值得注意的是，Li 观察到：尽管科举制度的废除和学习内容的西化（科学、数学），"学习的价值和学习者投入这个过程的方式仍然基本上是儒家的"（Li, 2012, p.49）
 
 ---
 

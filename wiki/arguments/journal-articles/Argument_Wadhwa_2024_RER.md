@@ -26,7 +26,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Case Design (SCD)]]"
-  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[Campbell Collaboration]]"
@@ -182,7 +181,7 @@ updated: '2026-05-18'
 >
 > ### Table 7：多重评级项目中"有效"判断比例
 >
-> 作者将 recommended 和 promising 合并为 effective，以[[Observational and Correlational Research|观察]]较宽松意义上的正向判断是否一致（Wadhwa et al., 2024, p.18）。
+> 作者将 recommended 和 promising 合并为 effective，以观察较宽松意义上的正向判断是否一致（Wadhwa et al., 2024, p.18）。
 >
 > | 多重评级情形 | "有效"判断分布 | 项目比例 |
 > |---|---|---:|

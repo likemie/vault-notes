@@ -18,8 +18,7 @@ related_concepts:
   - "[[Intellectual-Social Divide]]"
   - "[[Self-Cultivation]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -62,7 +61,7 @@ Feather 使用的"高罂粟的倒下"（fall of the tall poppy）隐喻精确捕
 > [!example]
 > 高罂粟综合征在 西方学校同伴文化中表现为：高学业成就者成为同伴骚扰的主要目标。Bishop 兄弟对 110,000+ 名美国中学生的大规模研究确认了这一点——学业成就偏离常规水平（无论是低端还是高端）的学生受到最多的同伴骚扰（Li, 2012, p.91）。
 
-这一现象与 实体智力观密切相关：在"智力是固定的"信念系统中，别人的高成就直接威胁到自己的自我价值——这种"你赢即我输"的逻辑正是 [[Zero-Sum Competition (School)|零和竞争]]的核心特征。高罂粟倒下后，[[Observational and Correlational Research|观察]]者感到的不只是娱乐——更是一种**自我价值的相对恢复**："他掉下来了，所以我没那么差"。同时，高成就者被系统性地视为"更不善社交"（Li, 2012, p.90），这反映了 [[Intellectual-Social Divide|知性-社交二分]]在同伴态度中的运作。
+这一现象与 实体智力观密切相关：在"智力是固定的"信念系统中，别人的高成就直接威胁到自己的自我价值——这种"你赢即我输"的逻辑正是 [[Zero-Sum Competition (School)|零和竞争]]的核心特征。高罂粟倒下后，观察者感到的不只是娱乐——更是一种**自我价值的相对恢复**："他掉下来了，所以我没那么差"。同时，高成就者被系统性地视为"更不善社交"（Li, 2012, p.90），这反映了 [[Intellectual-Social Divide|知性-社交二分]]在同伴态度中的运作。
 
 详细的论证拆解、证据链和跨文化对比见 Li (2012) 第 6 章。
 

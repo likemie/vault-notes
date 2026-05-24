@@ -20,8 +20,7 @@ related_concepts:
 related_theories:
   - "[[Science and Technology Studies (STS)]]"
   - "[[Luhmann's Systems Theory]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Norberto Bottani]]"
 related_facts:
@@ -56,7 +55,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提/[[Observational and Correlational Research|观察]]**：OECD 的[[International Education|国际教育]]指标（[[Education at a Glance (EAG)|EAG]]）已成为全球教育治理中极具影响力的工具，但其早期被认为几乎不可行——缺乏数据、缺乏可比性、缺乏概念共识（Gorur, 2014, p.4, 8）
+> 1. **前提/观察**：OECD 的[[International Education|国际教育]]指标（[[Education at a Glance (EAG)|EAG]]）已成为全球教育治理中极具影响力的工具，但其早期被认为几乎不可行——缺乏数据、缺乏可比性、缺乏概念共识（Gorur, 2014, p.4, 8）
 >
 > 2. **论证步骤**：
 >

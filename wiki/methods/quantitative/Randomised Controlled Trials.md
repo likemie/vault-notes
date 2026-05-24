@@ -31,8 +31,8 @@ related_theories:
 related_methods:
   - "[[Matching]]"
   - "[[Intervention Research]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Non-intervention Research]]"
+  - "[[Observational and Correlational Research]]"
   - "[[Meta-analysis]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
@@ -160,7 +160,7 @@ updated: '2026-05-18'
 >
 > Wiliam (2019, pp.6–7) 记录了 Tennessee STAR 项目中随机分配被破坏的两个具体机制：
 >
-> 1. **家长干预**：当一些家长发现孩子被分配到大班后，向学校施压将孩子转至小班。Sohn (2015) 发现在平均更有效的学校中，更富裕学生在小班中过度代表——小班中[[Observational and Correlational Research|观察]]到的更高成就可能至少部分由高成就学生向小班迁移造成。
+> 1. **家长干预**：当一些家长发现孩子被分配到大班后，向学校施压将孩子转至小班。Sohn (2015) 发现在平均更有效的学校中，更富裕学生在小班中过度代表——小班中观察到的更高成就可能至少部分由高成就学生向小班迁移造成。
 >
 > 2. **数据缺失的差异分布**：缺失数据在大班中比在小班中更常见，进一步破坏了随机化假设。
 >

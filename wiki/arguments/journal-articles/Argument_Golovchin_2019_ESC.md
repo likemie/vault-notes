@@ -25,7 +25,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Matching]]"
 related_persons:
   - "[[John Hattie]]"
@@ -87,7 +86,7 @@ updated: '2026-05-18'
 >
 > **文化批评**：McKnight & Whitburn (2020) 的七点批评：学习不总是可见/可量化；VL 带有政治包袱；引入"新管理全景监狱主义"；教育法西斯主义；理性"男性视角"破坏女性对教育的垄断（Golovchin, 2019, p.237-238）
 >
-> Golovchin 指出一个关键[[Observational and Correlational Research|观察]]：**批评者的论点迄今主要是理论性的、情绪化的，未尝试用数学方法检验 Hattie 模型的稳健性**（p.238）。这成为论文第三步的动机。
+> Golovchin 指出一个关键观察：**批评者的论点迄今主要是理论性的、情绪化的，未尝试用数学方法检验 Hattie 模型的稳健性**（p.238）。这成为论文第三步的动机。
 >
 > ### 第三步：变差系数原创分析
 >

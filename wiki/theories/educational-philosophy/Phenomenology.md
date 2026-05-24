@@ -18,8 +18,8 @@ related_concepts:
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Philosophical Analysis in Education]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -45,7 +45,7 @@ updated: '2026-05-18'
 ## 理论内部结构
 
 > [!abstract] 理论内部结构
-> - **生活世界（lifeworld）**：人并不是从中立位置[[Observational and Correlational Research|观察]]世界，而是已经处在日常生活世界之中。人容易把熟悉的世界当作唯一真实世界，现象学要求重新审视这种天然态度（Schaffar & Wolff, 2024, p.3）。
+> - **生活世界（lifeworld）**：人并不是从中立位置观察世界，而是已经处在日常生活世界之中。人容易把熟悉的世界当作唯一真实世界，现象学要求重新审视这种天然态度（Schaffar & Wolff, 2024, p.3）。
 >   > 例：学生对家附近海岸、社区或世界遗产[[Champ|场域]]的理解，先来自日常生活经验；[[Phenomenon-Based Learning|PhBL]] 要求他们把熟悉之物重新变得陌生，反思自己原先视为当然的理解（Schaffar & Wolff, 2024, pp.1, 11）。
 > - **意向性（intentionality）**：知觉、思考和判断总是关于某物或指向某物；意识不是无对象的内部活动（Schaffar & Wolff, 2024, p.3）。
 >   > 例：学生讨论"污染"时，他们不是处理一个抽象词，而是指向具体水域、空气、身体健康、政策责任和生活方式。

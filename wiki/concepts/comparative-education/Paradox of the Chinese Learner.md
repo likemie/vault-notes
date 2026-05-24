@@ -22,8 +22,7 @@ related_concepts:
   - "[[Learning Gap]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Biggs]]"
 related_facts:
@@ -53,7 +52,7 @@ updated: '2026-05-23'
 > [!note]
 > ### 提出背景
 
-该悖论由一群在香港工作的澳大利亚、英国和瑞典研究者推动形成。他们直接[[Observational and Correlational Research|观察]]到 [[Confucian Heritage Cultures|CHC]] 学习者和西方教师之间的碰撞，并将其系统化为一个学术研究议程（Li, 2012, pp.83-84）：
+该悖论由一群在香港工作的澳大利亚、英国和瑞典研究者推动形成。他们直接观察到 [[Confucian Heritage Cultures|CHC]] 学习者和西方教师之间的碰撞，并将其系统化为一个学术研究议程（Li, 2012, pp.83-84）：
 
 - **Watkins & Biggs (1996)**：合编《The [[Chinese Learner]]》，提出 [[Confucian Heritage Cultures|CHC]] 作为分析框架
 - **Watkins & Biggs (2001)**：出版续作《Teaching the Chinese Learner》，将研究扩展至教学层面
@@ -106,7 +105,7 @@ updated: '2026-05-23'
 
 ### Li 的系统性反驳
 
-Li（2012, pp.136-139）在自身研究的基础上，进一步指出了"死记硬背"批评的四重方法论谬误：行为主义谬误、基础阶段混淆、静态[[Observational and Correlational Research|观察]]谬误、即时理解谬误。完整拆解见 [[Chinese Learner#第三阶段：Li (2012) 的系统性反驳]]。
+Li（2012, pp.136-139）在自身研究的基础上，进一步指出了"死记硬背"批评的四重方法论谬误：行为主义谬误、基础阶段混淆、静态观察谬误、即时理解谬误。完整拆解见 [[Chinese Learner#第三阶段：Li (2012) 的系统性反驳]]。
 
 ---
 

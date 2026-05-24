@@ -16,7 +16,6 @@ related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods:
   - "[[Ganz-Methode]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Dell Delambre]]"
 related_facts: []
@@ -42,7 +41,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]
-> - Delambre 在 2013–2020 年里约热内卢多案例实践中逐步发展出该概念。在 Rocinha 贫民窟剧场、社区博物馆和[[Ecomuseology|生态博物馆]]（ecomuseums）等项目中，他[[Observational and Correlational Research|观察]]到社区居民通过讲述自身故事和保存集体记忆，在外部霸权叙事压力下维持了存在的意义连续性——这一观察构成了"生命力量"概念的经验基础（Delambre, 2022, p.107, 109–110）
+> - Delambre 在 2013–2020 年里约热内卢多案例实践中逐步发展出该概念。在 Rocinha 贫民窟剧场、社区博物馆和[[Ecomuseology|生态博物馆]]（ecomuseums）等项目中，他观察到社区居民通过讲述自身故事和保存集体记忆，在外部霸权叙事压力下维持了存在的意义连续性——这一观察构成了"生命力量"概念的经验基础（Delambre, 2022, p.107, 109–110）
 > - 2022 年随 [[Creative Tension of Sense]] 理论和 [[Ganz-Methode]] 的发表而首次系统阐述（Delambre, 2022）
 > - 在 WTS Coaching 项目的框架中，生命力量被进一步发展为"在每个人内在构建幸福价值"的基础——个体和集体选择工作和职业的最终依据应当是生命力量和内在的意义感，而非外部市场压力（Delambre, 2022, p.119–120）
 
@@ -66,7 +65,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - 概念的定义较为诗意化和哲学化（如"幸福建立在每个人内在的力量之中"），缺乏可操作化的测量或评估标准（编者[[Observational and Correlational Research|观察]]）
+> - 概念的定义较为诗意化和哲学化（如"幸福建立在每个人内在的力量之中"），缺乏可操作化的测量或评估标准（编者观察）
 > - 如何在局部社区中区分"真实的"生命力量与被外部力量或霸权认识论同化的表达，论文未提供明确标准（编者观察）
 
 ## 来源

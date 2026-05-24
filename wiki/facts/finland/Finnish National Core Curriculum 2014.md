@@ -23,8 +23,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Radical Constructivism]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[SveaSus Project]]"
@@ -50,7 +49,7 @@ updated: '2026-05-18'
 > [!abstract] 政策文本摘要
 > 课程并未取消传统学科结构。它仍按学校科目组织，同时把 [[Phenomenon-Based Learning|PhBL]] 增补并推荐为实现课程总体目标和价值的一种方式（Schaffar & Wolff, 2024, p.2）。
 >
-> 课程文本中，"phenomenon-based learning"这个英语术语在芬兰语原文中并不出现，在译本中也只出现少数几次；但"phenomenon/ilmiö"及相关组合词频繁出现，并与[[Observational and Correlational Research|观察]]、描述、理解、解释等动词搭配（Schaffar & Wolff, 2024, p.2）。
+> 课程文本中，"phenomenon-based learning"这个英语术语在芬兰语原文中并不出现，在译本中也只出现少数几次；但"phenomenon/ilmiö"及相关组合词频繁出现，并与观察、描述、理解、解释等动词搭配（Schaffar & Wolff, 2024, p.2）。
 >
 > 从文本结构看，2014 课程把 PhBL 放在"实现课程总体目标和价值"的方法集合中，而不是把它建成一个独立学科或替代全部学科的制度安排。课程仍依靠传统学校科目来组织知识，同时鼓励以日常、文化、历史、化学、世界观等不同类型的现象作为综合学习对象（Schaffar & Wolff, 2024, p.2）。
 >

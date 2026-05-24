@@ -37,7 +37,6 @@ related_theories:
 related_methods:
   - "[[Matching]]"
   - "[[Single-Case Design (SCD)]]"
-  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -128,7 +127,7 @@ Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘
 
 > [!info]
 > - **本体论与认识论立场**：治理术属于后结构主义认识论传统——拒绝权力/自由的二元对立，将治理视为一种"在自由中的治理"；拒绝将主体视为权力的被动承受者，而是关注权力如何积极地"生产"主体
-> - **常用分析方法**：话语分析、政策文本分析、非参与式[[Observational and Correlational Research|观察]]
+> - **常用分析方法**：话语分析、政策文本分析、非参与式观察
 
 ## 争议与批评
 

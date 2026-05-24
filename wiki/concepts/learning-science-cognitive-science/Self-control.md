@@ -14,8 +14,7 @@ related_concepts:
   - "[[School Norm Adaptation]]"
   - "[[Learning-Impeding Behavior]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -53,7 +52,7 @@ updated: '2026-05-18'
 ## 待补充研究
 
 
-- 后续可补充自控量表与课堂[[Observational and Correlational Research|观察]]一致性及干预迁移效应证据。
+- 后续可补充自控量表与课堂观察一致性及干预迁移效应证据。
 
 ## 来源
 

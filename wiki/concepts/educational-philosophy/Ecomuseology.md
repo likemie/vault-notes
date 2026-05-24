@@ -23,7 +23,6 @@ related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
   - "[[Ganz-Methode]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Dell Delambre]]"
 related_facts: []
@@ -82,7 +81,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - "地域作为博物馆"理念在操作层面面临边界问题：一个地域的范围如何确定？谁来定义哪些地域元素"属于"生态博物馆？地域内部不同群体对同一空间的历史叙事可能存在冲突（编者[[Observational and Correlational Research|观察]]）
+> - "地域作为博物馆"理念在操作层面面临边界问题：一个地域的范围如何确定？谁来定义哪些地域元素"属于"生态博物馆？地域内部不同群体对同一空间的历史叙事可能存在冲突（编者观察）
 > - 与 [[Social Museology]] 的边界模糊：在巴西实践中两者经常并存——这种交叉是实践智慧还是概念不清晰的症状，尚存讨论空间（编者观察）
 > - 生态博物馆的可持续性面临资金、技术和制度合法性等多重制约（编者观察）
 

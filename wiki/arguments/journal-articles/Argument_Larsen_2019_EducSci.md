@@ -21,7 +21,6 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Phenomenology]]"
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Matching]]"
 related_persons:
   - "[[Immanuel Kant]]"
@@ -45,7 +44,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Luhmann's Systems Theory]] — 盲点概念（blinder Fleck）和[[Structural Coupling|结构耦合]]概念作为核心批判工具。Luhmann 的论断"[[Observational and Correlational Research|观察]]者在观察时无法看见自身"和"个体不可能知道自己不知道什么"被应用于解构 VL 的认识论前提（Larsen, 2019, p.10）
+> - [[Luhmann's Systems Theory]] — 盲点概念（blinder Fleck）和[[Structural Coupling|结构耦合]]概念作为核心批判工具。Luhmann 的论断"观察者在观察时无法看见自身"和"个体不可能知道自己不知道什么"被应用于解构 VL 的认识论前提（Larsen, 2019, p.10）
 > - [[Bildung]] 传统 — 德国精神科学传统中的品格陶成概念作为替代框架，包括 Humboldt、Herder、[[Immanuel Kant|Kant]]、Hegel、Nietzsche 以及批判理论和概念史的传承（Larsen, 2019, p.9）
 > - Thomas Fuchs 的身体[[Phenomenology|现象学]] — 大脑作为"关系器官"和具身化-扩展辩证法（Larsen, 2019, p.9-10）
 > - [[Gert Biesta]] 的教育哲学 — [[Learnification]] 概念和对教育目的论的阐述（Larsen, 2019, p.2）
@@ -77,7 +76,7 @@ updated: '2026-05-18'
 > - 对教师/测试者可见的东西不等同于学生复杂学习过程的内容
 > - 三个"世界"不可调和：学生的一阶[[Phenomenology|现象学]]内在、教师的评估外在、科学透明的外在（Larsen, 2019, p.4）
 > - [[John Hattie|Hattie]] 尽管鼓励学校参与者多听彼此，却从不与他的研究"对象"——学习者——对话（Larsen, 2019, p.7）
-> - 学习测量体制被比作奥古斯丁以来"全视上帝"权威的世俗化版本：从宗教的全能凝视，到科学家的穿透性[[Observational and Correlational Research|观察]]，再到当代自动化算法和 [[PISA]] 分数（Larsen, 2019, p.7）
+> - 学习测量体制被比作奥古斯丁以来"全视上帝"权威的世俗化版本：从宗教的全能凝视，到科学家的穿透性观察，再到当代自动化算法和 [[PISA]] 分数（Larsen, 2019, p.7）
 >
 > **4. 学习不是价值中立的概念——[[Bildung]] 要求更多（Section 4）**
 > - 学习概念的历史语义学分析：在丹麦，1960-70 年代"læring"曾是批判性、解放性的术语；1990 年代后被资本主义逻辑吸收，成为不可逃避的状况和强制要求（Larsen, 2019, p.8-9）
@@ -89,7 +88,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > - **盲视不可逃避** — VL 的强大追随者"不能看见他们不能看见的东西——无论当他们看见他们认为自己看见的东西时，还是当他们没有看见他们不想看见的东西时"（Larsen, 2019, p.10）
 > - **可见性意识形态的风险** — 如果忘记 Luhmann 的盲点论断，VL 追随者"就是在支持制造一种无边界的超积极可见性意识形态，并堆积有限数据来为大范围的视觉中心模拟做出贡献"（Larsen, 2019, p.10）
-> - **[[John Hattie|Hattie]] 的自反身性局限** — Hattie 和 Zierer 承认"课堂上只有 20% 可[[Observational and Correlational Research|观察]]"（即使这个估计也被 Larsen 认为过高），但将这一自我批判的认识论提醒转而用作呼吁更多 VL 研究的理由——恰恰落入了 Luhmann 描述的盲点困境（Larsen, 2019, p.3）
+> - **[[John Hattie|Hattie]] 的自反身性局限** — Hattie 和 Zierer 承认"课堂上只有 20% 可观察"（即使这个估计也被 Larsen 认为过高），但将这一自我批判的认识论提醒转而用作呼吁更多 VL 研究的理由——恰恰落入了 Luhmann 描述的盲点困境（Larsen, 2019, p.3）
 > - **教育的目的是超越增强[[Visible Learning|可见学习]]过程和结果的** — 这远比 VL 所设想的更具挑战性和要求（Larsen, 2019, p.10）
 
 ## 关键引用

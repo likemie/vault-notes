@@ -17,8 +17,7 @@ related_concepts:
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Thomas Barr Greenfield]]"
   - "[[Pierre Bourdieu]]"
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 > 关键特征：
 > - 试图将教育行政研究**从实践者/研究者的无理论知识中分离**出来
 > - 但这并非通过嵌入（社会）理论本身，而是通过**一种理性的探究技术**来实现
-> - "科学"通过[[Observational and Correlational Research|观察]]者与研究对象的**中立性和表面距离**被构建（Eacott, 2015, p.316）
+> - "科学"通过观察者与研究对象的**中立性和表面距离**被构建（Eacott, 2015, p.316）
 >
 > **悖论**
 >

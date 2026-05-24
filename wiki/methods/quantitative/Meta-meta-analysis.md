@@ -31,7 +31,6 @@ related_theories:
   - "[[Goldman's Discrimination Theory of Knowledge]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Intervention Research]]"
 related_persons:
   - "[[John Hattie]]"
@@ -96,7 +95,7 @@ updated: '2026-05-21'
 >
 > #### 数学模型
 >
-> 当 Hattie 声明"应用了固定效应模型"（Hattie, 2009, p.12）时，他从方法论上承诺了一个特定的数学模型。核心假设：固定效应模型假设所有主要研究估计同一个恒定的"真实"效应量——[[Observational and Correlational Research|观察]]到的不同效应量仅由主要研究内的抽样误差造成（Hedges & Olkin, 1985, p.107; Borenstein et al., 2009, p.63）。主要研究按其精度加权——精度定义为效应量方差的倒数。
+> 当 Hattie 声明"应用了固定效应模型"（Hattie, 2009, p.12）时，他从方法论上承诺了一个特定的数学模型。核心假设：固定效应模型假设所有主要研究估计同一个恒定的"真实"效应量——观察到的不同效应量仅由主要研究内的抽样误差造成（Hedges & Olkin, 1985, p.107; Borenstein et al., 2009, p.63）。主要研究按其精度加权——精度定义为效应量方差的倒数。
 >
 > **第一级：元分析 j 内主要研究效应的汇总**
 >

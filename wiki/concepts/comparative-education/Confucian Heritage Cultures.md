@@ -19,8 +19,7 @@ related_concepts:
   - "[[Cultural Models]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Biggs]]"
   - "[[Confucius]]"
@@ -47,7 +46,7 @@ updated: '2026-05-23'
 > [!note]
 > ### 提出背景：[[Paradox of the Chinese Learner|中国学习者悖论]]的推动
 
-CHC 这一术语诞生于一群在香港工作的澳大利亚、英国和瑞典研究者对[[Chinese Learner|中国学习者]]现象的集体关注。他们直接[[Observational and Correlational Research|观察]]到 CHC 学习者和西方教师之间的文化碰撞——西方教师抱怨中国学生"死记硬背""被动服从"，但国际评估数据却反复显示这些学生的高成就（Li, 2012, pp.82-84）。
+CHC 这一术语诞生于一群在香港工作的澳大利亚、英国和瑞典研究者对[[Chinese Learner|中国学习者]]现象的集体关注。他们直接观察到 CHC 学习者和西方教师之间的文化碰撞——西方教师抱怨中国学生"死记硬背""被动服从"，但国际评估数据却反复显示这些学生的高成就（Li, 2012, pp.82-84）。
 
 Watkins 和 Biggs 有意使用 CHC 而非 "Chinese"，以避免将现象局限于中国大陆——该术语强调共享的**文化传统**（儒家学习信念与实践）而非民族或政治归属（Li, 2012, p.84）。2001 年，两人出版续作《Teaching the Chinese Learner》，将研究从学习层面扩展到教学层面。
 

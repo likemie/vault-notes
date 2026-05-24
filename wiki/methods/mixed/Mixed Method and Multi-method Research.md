@@ -60,7 +60,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性
 > - **非干预限制**：在 Brady et al. (2023) 的分类中，该类研究不操纵自变量，因此即使同时包含两类数据，也不自动产生因果识别能力（Brady et al., 2023, p.4）。
-> - **[[Recommendations for Practice|实践建议]]比例高**：2020 年混合方法/多方法文章中 60% 包含 RFP；作者将其与[[Observational and Correlational Research|观察]]/相关和[[Qualitative Research|质性研究]]一起归入[[Non-intervention Research|非干预研究]]中实践建议高发的趋势（Brady et al., 2023, pp.6-7）。
+> - **[[Recommendations for Practice|实践建议]]比例高**：2020 年混合方法/多方法文章中 60% 包含 RFP；作者将其与观察/相关和[[Qualitative Research|质性研究]]一起归入[[Non-intervention Research|非干预研究]]中实践建议高发的趋势（Brady et al., 2023, pp.6-7）。
 
 ## 相关理论
 

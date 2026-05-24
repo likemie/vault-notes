@@ -26,7 +26,6 @@ related_theories:
 related_methods:
   - "[[Functional Magnetic Resonance Imaging]]"
   - "[[Electroencephalography]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[Jean Piaget]]"
   - "[[John Hattie]]"
@@ -60,7 +59,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提／[[Observational and Correlational Research|观察]]** — [[Jean Piaget|皮亚杰]]和[[Neo-Piagetian Theories|新皮亚杰理论]]描述了认知发展的阶段性，但一直缺乏对阶段过渡机制的令人满意的解释（Bolton & [[John Hattie|Hattie]], 2017, p.3）
+> 1. **前提／观察** — [[Jean Piaget|皮亚杰]]和[[Neo-Piagetian Theories|新皮亚杰理论]]描述了认知发展的阶段性，但一直缺乏对阶段过渡机制的令人满意的解释（Bolton & [[John Hattie|Hattie]], 2017, p.3）
 > 2. **论证步骤** — 将四个皮亚杰阶段（0–2, 2–7, 7–11, 11–16 岁）按时间顺序与 [[Executive Function|EF]] 三个成分（抑制、转换、[[Updating and Monitoring|更新与监控]]）的发展轨迹以及 [[Prefrontal Cortex|PFC]] 的解剖生理变化（[[Synaptogenesis|突触发生]]、[[Synaptic Pruning|突触修剪]]、[[Myelination|髓鞘化]]）进行对齐（Bolton & Hattie, 2017, p.8–13）
 > 3. **结论** — 皮亚杰发展阶段与 PFC 成熟过程在时间上平行对应，认知发展的阶段过渡可能是执行功能随大脑发育而发展的函数（Bolton & Hattie, 2017, p.1, 13）
 

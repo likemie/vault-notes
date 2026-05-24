@@ -17,8 +17,7 @@ related_concepts:
   - "[[Humosity]]"
 related_theories:
   - "[[Autopoiesis]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Donna Haraway]]"
 related_facts: []
@@ -72,7 +71,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Amos [[Observational and Correlational Research|观察]]到 Haraway 和 Escobar 尽管在 sympoiesis/[[Autopoiesis|autopoiesis]] 的侧重上有分歧，但"两种立场共同之处多于分歧"。两者都是后增长、怀疑全球化、寻找资本主义替代模型、彻底去中心人类——尤其是"其最突出的现代代表：白人欧洲或西方男性"（Amos, 2022, pp.62–63）
+> - Amos 观察到 Haraway 和 Escobar 尽管在 sympoiesis/[[Autopoiesis|autopoiesis]] 的侧重上有分歧，但"两种立场共同之处多于分歧"。两者都是后增长、怀疑全球化、寻找资本主义替代模型、彻底去中心人类——尤其是"其最突出的现代代表：白人欧洲或西方男性"（Amos, 2022, pp.62–63）
 > - sympoiesis 作为教育原则的可行性：如果教育不再围绕个体学习成果（分数、学位、技能认证）组织，而是围绕集体性的"共同制造"过程组织，现行的评估、认证和排名系统将全部失效——Amos 自己没有提出替代方案，只是呼吁"一种新教育理论"（Amos, 2022, p.64）
 >
 

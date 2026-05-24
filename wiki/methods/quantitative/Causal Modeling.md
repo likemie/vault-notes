@@ -37,7 +37,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 因果建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, [[Matching|SEM]]），是随机实验之外最常用的因果推断替代方法。其目标是对[[Observational and Correlational Research|观察]]性研究施加一个关于"自然如何生成数据"的模型，然后从数据中估计自然使用的参数值。它于 1970 年代进入社会科学领域，承诺将实质性社会科学理论与统计学进行形式上的整合（Berk, 2011, p.196）。
+> 因果建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, [[Matching|SEM]]），是随机实验之外最常用的因果推断替代方法。其目标是对观察性研究施加一个关于"自然如何生成数据"的模型，然后从数据中估计自然使用的参数值。它于 1970 年代进入社会科学领域，承诺将实质性社会科学理论与统计学进行形式上的整合（Berk, 2011, p.196）。
 >
 > > "Its aim is to impose on an observational study a model of how nature generated the data and then from the data, to estimate the values of the parameters nature employed." (Berk, 2011, p.196)
 
@@ -78,7 +78,7 @@ updated: '2026-05-18'
 
 
 > [!warning] 点按软件使因果建模"看似容易"
-> Berk (2011, p.197) 提供了一个更具批判性的解释：广泛可用的点按式统计软件包使因果建模看似容易——"不需要深入理解"。他[[Observational and Correlational Research|观察]]到许多论文"所使用的统计建模程序被以软件包的名称来引用（如'进行了一项 LISREL 分析'）"——"稍微不那么虔诚的关切是引用所使用的软件，仿佛这就是全部需要知道的（如'使用 proc mixed 进行分析'）"。
+> Berk (2011, p.197) 提供了一个更具批判性的解释：广泛可用的点按式统计软件包使因果建模看似容易——"不需要深入理解"。他观察到许多论文"所使用的统计建模程序被以软件包的名称来引用（如'进行了一项 LISREL 分析'）"——"稍微不那么虔诚的关切是引用所使用的软件，仿佛这就是全部需要知道的（如'使用 proc mixed 进行分析'）"。
 
 
 > [!warning] 对批评的回应的修辞性
@@ -92,7 +92,7 @@ updated: '2026-05-18'
 
 
 > [!warning] 观察数据中的因果语言风险
-> Brady et al. (2023) 从教育心理学期刊实践层面补充了 Berk 的方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/相关研究更可能包含 RFP，可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。Brady et al. (2023) 原本计划继续编码"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（Brady et al., 2023, p.9）。
+> Brady et al. (2023) 从教育心理学期刊实践层面补充了 Berk 的方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的[[Observational and Correlational Research|观察/相关研究]]更可能包含 RFP，可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。Brady et al. (2023) 原本计划继续编码"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（Brady et al., 2023, p.9）。
 
 ## 适用场景
 

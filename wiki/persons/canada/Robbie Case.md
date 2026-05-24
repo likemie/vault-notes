@@ -13,8 +13,7 @@ related_concepts:
   - "[[Executive Function]]"
 related_theories:
   - "[[Neo-Piagetian Theories]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
   - "[[Jean Piaget]]"
@@ -45,7 +44,7 @@ updated: '2026-05-19'
 
 ## 测量方法
 
-Case (1985) 使用**平衡木测试（Balancing Beam Test）** [[Observational and Correlational Research|观察]]阶段内和阶段间的发展差异（Bolton & [[John Hattie|Hattie]], 2017, p.3）：
+Case (1985) 使用**平衡木测试（Balancing Beam Test）** 观察阶段内和阶段间的发展差异（Bolton & [[John Hattie|Hattie]], 2017, p.3）：
 
 - 0–4 个月：仅用眼睛和头部跟随移动的横梁
 - 18 个月：能与物体互动到足以区分推和拉的效果

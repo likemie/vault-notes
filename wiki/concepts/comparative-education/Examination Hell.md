@@ -16,8 +16,7 @@ related_concepts:
   - "[[Filial Piety]]"
   - "[[Self-Cultivation]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Confucius]]"
 related_facts:
@@ -91,7 +90,7 @@ updated: '2026-05-23'
 
 ### 超越功利的投入
 
-Li 以自己的教学[[Observational and Correlational Research|观察]]回应：她所在大学的华裔／东亚裔学生，无论来自富裕还是低收入家庭，都同样认真投入学习。富家子弟不需要通过学习谋生，但他们自愿承受刻苦学习的磨砺——或是觉得需要以投入学习来荣耀父母（Li, 2012, pp.77-78）。
+Li 以自己的教学观察回应：她所在大学的华裔／东亚裔学生，无论来自富裕还是低收入家庭，都同样认真投入学习。富家子弟不需要通过学习谋生，但他们自愿承受刻苦学习的磨砺——或是觉得需要以投入学习来荣耀父母（Li, 2012, pp.77-78）。
 
 ### 移民家庭的证据
 

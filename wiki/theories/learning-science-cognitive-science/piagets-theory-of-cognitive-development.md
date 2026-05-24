@@ -48,7 +48,7 @@ updated: '2026-05-18'
 > [!abstract] 理论内部结构
 > [[Jean Piaget|皮亚杰]]提出四个认知发展阶段（Bolton & [[John Hattie|Hattie]], 2017, p.2–3）：
 >
-> - **感觉运动阶段（Sensorimotor Stage, 0–2 岁）** — 儿童表现出完全自我中心的世界观，无法将思想与行动分离，无法识别物体视角随[[Observational and Correlational Research|观察]]者位置不同而变化。后期开始发展客体永久性（object permanence）（Bolton & Hattie, 2017, p.2）
+> - **感觉运动阶段（Sensorimotor Stage, 0–2 岁）** — 儿童表现出完全自我中心的世界观，无法将思想与行动分离，无法识别物体视角随观察者位置不同而变化。后期开始发展客体永久性（object permanence）（Bolton & Hattie, 2017, p.2）
 > - **前运算阶段（Pre-Operational Stage, 2–7 岁）** — 客体永久性牢固建立，符号思维发展。皮亚杰注意到 3–4 岁之前儿童无法通过液体守恒测试，但 5 岁时多数能完成（Bolton & Hattie, 2017, p.2–3, 10）
 > - **具体运算阶段（Concrete Operational Stage, 7–11 岁）** — 儿童能够执行皮亚杰所称的"运算"（Operations）——可用于操纵、转换并将物体恢复原状的内部化行动。理解守恒原则（物体数量不因容器形状或体积变化而改变）。开始对步骤和阶段应用逻辑，通过 A not B 任务评估（Bolton & Hattie, 2017, p.2–3）
 > - **形式运算阶段（Formal Operation Stage, 11–16 岁）** — 以抽象和假设性思维为特征（Bolton & Hattie, 2017, p.3）

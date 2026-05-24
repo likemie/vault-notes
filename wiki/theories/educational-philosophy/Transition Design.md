@@ -17,8 +17,7 @@ related_concepts:
 related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Autopoiesis]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Arturo Escobar]]"
 related_facts: []
@@ -37,7 +36,7 @@ updated: '2026-05-18'
 >
 > > "The literature on transitions makes it clear that transitions are not designed but emergent. They depend on a mix of interacting processes, both self-organizing and other-organized (by humans)."（Escobar, 2018, p.152，引自 Amos, 2022, p.61）
 >
-> 转型依赖大量地方行动的自组织与被组织交互——这些交互在很大程度上是非计划的——从中涌现出[[Observational and Correlational Research|观察]]者看来是一个"新的整合整体的结构"，但这一结构没有中央计划者或智能引导整个过程（Amos, 2022, p.61）。
+> 转型依赖大量地方行动的自组织与被组织交互——这些交互在很大程度上是非计划的——从中涌现出观察者看来是一个"新的整合整体的结构"，但这一结构没有中央计划者或智能引导整个过程（Amos, 2022, p.61）。
 >
 > > 例：一个城市面临交通拥堵和空气污染。传统的"计划"思维：建更多公路（吸引更多车辆，拥堵照旧）。转型设计思维：关注多样化的地方行动——社区自行车共享倡议、"步行校车"、本地商户错峰配送、居民"无车日"实验。这些行动互不隶属，但通过交互可能涌现出一种全新的城市出行模式。没有人设计了这个模式，它从多重地方实验的交互中涌现出来。
 >
