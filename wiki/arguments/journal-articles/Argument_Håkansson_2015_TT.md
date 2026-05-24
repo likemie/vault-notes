@@ -14,25 +14,13 @@ tags:
   - level/k12
   - subject/instruction-pedagogy
   - method/meta-synthesis
-related_concepts:
-  - "[[Structured Teaching]]"
-  - "[[Classroom Management]]"
-  - "[[Effective Teaching]]"
-  - "[[Direct Instruction]]"
-  - "[[Individualised Instruction]]"
-  - "[[Feedback]]"
+related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Comparative Meta-synthesis]]"
-related_persons:
-  - "[[John Hattie]]"
-related_facts:
-  - "[[PISA]]"
-related_arguments:
-  - "[[Argument_Håkansson_2015_Paideia]]"
-  - "[[Argument_Laursen_2015_Paideia]]"
-sources:
-  - "[[Håkansson_2015_TT]]"
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 part_of: ''
 status: draft
 created: 2026-05-22
@@ -157,4 +145,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Håkansson_2015_TT]]
+- Håkansson_2015_TT

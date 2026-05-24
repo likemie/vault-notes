@@ -11,19 +11,13 @@ tags:
 - region/global
 - subject/comparative-education
 - subject/comparative-political-economy
-related_concepts:
-- '[[Corporate Education]]'
-- '[[Corporate University]]'
-- '[[Further Education]]'
-related_theories:
-- '[[Institutional Isomorphism]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Hartmann_2022_CorporateEducation]]'
-sources:
-- '[[Ch11_Hartmann_2022]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-18'
@@ -50,7 +44,7 @@ updated: '2026-05-18'
 - **协调方式**：通过市场竞争和正式合约来协调企业活动
 - **典型国家**：美国、英国、澳大利亚等盎格鲁-撒克逊国家
 - **制度特征**：劳动力市场灵活、资本市场主导、政府干预较少、行业协会和工会力量相对较弱
-- **对企业教育的影响**：企业习惯于在竞争性市场中运作——培训被视为可通过市场购买的商品。这赋予 LME 企业在全球教育市场中的"先发优势"（Hartmann, 2022, pp.187–188, 193–194）
+- **对[[Corporate Education|企业教育]]的影响**：企业习惯于在竞争性市场中运作——培训被视为可通过市场购买的商品。这赋予 LME 企业在全球教育市场中的"先发优势"（Hartmann, 2022, pp.187–188, 193–194）
 
 ### 协调型市场经济体（CMEs）
 
@@ -74,7 +68,7 @@ IVET（如德国双元学徒制）高度依赖 CME 特有的制度互补性（in
 
 ### 为何美国 MNCs 在全球教育市场中占主导？
 
-多数企业教育提供商总部位于美国，全球前十高科技上市公司中八家位于美国。这不是偶然——LME 的制度环境使美国企业早已习惯在竞争性市场中运作，将培训视为可购买的服务而非制度嵌入的过程。当全球企业教育市场形成时，美国公司带着这种"市场经验"进入，获得了制度性的先发优势（Hartmann, 2022, pp.193–194）。
+多数[[Corporate Education|企业教育]]提供商总部位于美国，全球前十高科技上市公司中八家位于美国。这不是偶然——LME 的制度环境使美国企业早已习惯在竞争性市场中运作，将培训视为可购买的服务而非制度嵌入的过程。当全球企业教育市场形成时，美国公司带着这种"市场经验"进入，获得了制度性的先发优势（Hartmann, 2022, pp.193–194）。
 
 ### MNC 组织类型与 VoC 的映射
 
@@ -96,4 +90,4 @@ Hartmann 结合产业社会学对 MNC 组织类型的分类，揭示了 VoC 与 
 
 ## 来源
 
-- [[Ch11_Hartmann_2022]]
+- Ch11_Hartmann_2022

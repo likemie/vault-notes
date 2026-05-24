@@ -11,26 +11,17 @@ tags:
 - value-based-education
 - epistemology
 - ontology
-- Dewey
-- Latour
+- dewey
+- latour
 - paradigm/critical
 - region/global
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Value-Based Education]]'
-- '[[Complexity Reduction]]'
-related_theories:
-- '[[Transactional Epistemology]]'
-related_methods:
-- '[[Philosophical Analysis in Education]]'
-related_persons:
-- '[[Gert Biesta]]'
-- '[[John Dewey]]'
-- '[[Bruno Latour]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Biesta_2010_SPE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -175,4 +166,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Biesta_2010_SPE]]
+- Biesta_2010_SPE

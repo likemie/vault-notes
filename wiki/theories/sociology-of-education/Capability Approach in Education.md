@@ -15,17 +15,13 @@ tags:
 - higher-education
 - social-justice
 - philosophy
-related_concepts:
-- '[[Global Universities Rankings]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Pepka Boyadjieva]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Boyadjieva_2022_Springer]]'
-sources:
-- '[[Ch8_Boyadjieva_2022]]'
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -49,7 +45,7 @@ updated: '2026-05-18'
 > [!abstract]
 > Drèze & Sen（2002, pp.38–40）在讨论印度的发展与参与问题时，区分了教育对个人自由的五种价值类型（Boyadjieva, 2022, p.128）：
 
-- **内在重要性（intrinsic importance）**：受教育本身就是一种自由和能力的扩展——读书、思考、获得知识这件事本身就是有意义的，不需要"有什么用"来证明。例如，一个学生在修哲学通识课时发现，思考"什么是公正"本身就让他感到充实——这与能不能写在简历上无关。
+- **内在重要性（intrinsic importance）**：受教育本身就是一种自由和能力的扩展——读书、思考、获得知识这件事本身就是有意[[Rightness|义]]的，不需要"有什么用"来证明。例如，一个学生在修哲学通识课时发现，思考"什么是公正"本身就让他感到充实——这与能不能写在简历上无关。
 - **工具性个人角色（instrumental personal roles）**：教育帮助个人获得更好的就业机会和收入——这是最常被讨论的"用处"。例如，一个学生上大学是为了拿到计算机学位，毕业后进大厂拿高薪。
 - **工具性社会角色（instrumental social roles）**：教育提升个人有效参与公共事务的能力——能读懂政策文件、能在社区会议上表达自己的观点。例如，受过教育的公民更有能力参与社区治理和公共讨论。
 - **工具性过程角色（instrumental process roles）**：教育过程本身扩展了个人的社会网络和参与渠道——结识不同背景的人，进入各种社会网络，这些"人脉"本身就是一种资源。
@@ -63,12 +59,12 @@ updated: '2026-05-18'
 
 ### 理论起源与系统化
 
-- **1980–1990 年代**：Amartya Sen 在福利经济学领域发展可行能力路径，作为对功利主义和资源本位评价框架的替代。
+- **1980–1990 年代**：Amartya Sen 在福利经济学领域发展可行能力路径，作为对功利主[[Rightness|义]]和资源本位评价框架的替代。
 - **2002 年**：Drèze & Sen 在 *India: Development and Participation* 中将该框架应用于教育领域，系统区分了教育对个人自由的五种价值类型（Boyadjieva, 2022, p.128）。
 
 ### 在教育研究中的延伸应用
 
-- **2016 年**：[[Pepka Boyadjieva|Boyadjieva]] & Ilieva-Trichkova 将可行能力路径与新制度主义视角结合，发展了高等教育的多维使命模型——将五种教育价值重构为个体/社会两个层面与工具性/内在性/转化-赋权性三个维度的 2×3 矩阵（Boyadjieva, 2022, pp.128–130）。
+- **2016 年**：Boyadjieva & Ilieva-Trichkova 将可行能力路径与新制度主义视角结合，发展了高等教育的多维使命模型——将五种教育价值重构为个体/社会两个层面与工具性/内在性/转化-赋权性三个维度的 2×3 矩阵（Boyadjieva, 2022, pp.128–130）。
 - **2022 年**：Boyadjieva 将该模型应用于对 [[Global Universities Rankings|全球大学排名]] 的系统批判——论证排名仅覆盖了该矩阵中极小的一部分（个体-工具性和社会-工具性），系统性地忽略了高等教育的内在价值和转化/赋权价值（Boyadjieva, 2022, pp.132–136）。详见 [[Argument_Boyadjieva_2022_Springer]]。
 
 ---
@@ -90,4 +86,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch8_Boyadjieva_2022]]
+- Ch8_Boyadjieva_2022

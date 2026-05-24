@@ -1,6 +1,6 @@
 ---
 title: Argument_Cowen_2015_CHESS
-summary: "通过 22 位教师访谈和文献综述，揭示 EBP 从\"什么有效\"到\"在这里有效\"的知识鸿沟，提出\"流动性而非忠实执行\"的实施框架"
+summary: "通过 22 位教师访谈和文献综述，揭示 EBP 从“什么有效“到“在这里有效“的知识鸿沟，提出“流动性而非忠实执行“的实施框架"
 type: argument
 subtype: report
 publication_type: report
@@ -9,26 +9,19 @@ citation: 'Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). 
 tags:
 - evidence-based-education
 - policy-implementation
-- RCT
+- rct
 - local-knowledge
-- EEF
+- eef
 - fidelity
 - region/uk
 - level/k12
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Programme Fidelity vs Adaptation]]'
-- '[[Local Knowledge in Evidence-Based Policy]]'
-related_theories:
-- '[[Cartwright''s Three-Stage Knowledge Framework]]'
-- '[[Tullock''s Bureaucracy Theory]]'
-related_methods:
-- '[[Elite Interview Method]]'
+related_concepts: []
+related_theories: []
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Cowen_2015_CHESS]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -48,7 +41,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：[[Elite Interview Method]] — 精英访谈法，选择"因其身份或职位"能提供独特信息的受访者
+> - 方法：Elite Interview Method — 精英访谈法，选择"因其身份或职位"能提供独特信息的受访者
 > - 样本：22 位教师，来自 12 所英格兰学校，覆盖社区中小学、学院制学校和自由学校，含新教师、资深教师、中层管理、副校长、校长和校董
 > - 数据来源：半结构化访谈 + 文献综述（非系统性）+ 参加一次教师自发组织的非正式会议获取背景
 > - 抽样方式：滚雪球抽样 + 社交媒体（Twitter）招募
@@ -113,4 +106,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Cowen_2015_CHESS]]
+- Cowen_2015_CHESS

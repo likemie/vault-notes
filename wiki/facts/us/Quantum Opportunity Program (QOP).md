@@ -8,25 +8,19 @@ type: fact
 subtype: event
 region: us
 tags:
-- Quantum-Opportunity-Program
-- QOP
-- Eisenhower-QOP
+- quantum-opportunity-program
+- qop
+- eisenhower-qop
 - educational-program
 - clearinghouse-rating-case
 - region/us
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[What Works Clearinghouse (WWC)]]'
-- '[[Blueprints for Healthy Youth Development]]'
-- '[[National Dropout Prevention Center (NDPC)]]'
-- '[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -58,4 +52,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- Wadhwa_2024_RER

@@ -11,22 +11,13 @@ tags:
 - geopolitical-imaginary
 - knowledge-based-economy
 - region/global
-related_concepts:
-- '[[Knowledge-Based Economy]]'
-- '[[Knowledge-Based Economization]]'
-- '[[Hub and Flow Imaginaries]]'
-- '[[Spatial Sortings]]'
-- '[[Economic Patriotism]]'
-related_theories:
-- '[[Fixity-Motion Tension]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Michael Porter]]'
-- '[[Sami Moisio]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Ch2_Moisio_2022]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -76,8 +67,8 @@ updated: '2026-05-18'
 ## 实证表现
 
 
-- **国家冠军城市**：Crouch & Le Galès（2012）观察到国家将资源大规模集中于首都和城市基础设施，发展"国家冠军城市或区域"——这正是 Porter 逻辑的政策表现（Moisio, 2022, pp.28–29）
-- **经济爱国主义**：Porter 理论与国家竞争叙事的结合催生了 [[Economic Patriotism]]——爱国情感被绑定到特定领土部分的利益推进上（Moisio, 2022, pp.28–29）
+- **国家冠军城市**：Crouch & Le Galès（2012）[[Observational and Correlational Research|观察]]到国家将资源大规模集中于首都和城市基础设施，发展"国家冠军城市或区域"——这正是 Porter 逻辑的政策表现（Moisio, 2022, pp.28–29）
+- **经济爱国主[[Rightness|义]]**：Porter 理论与国家竞争叙事的结合催生了 [[Economic Patriotism]]——爱国情感被绑定到特定领土部分的利益推进上（Moisio, 2022, pp.28–29）
 - **城市竞争形态**：跨空间竞争"采取城市形式，特别围绕城市社会和物质基础设施的吸引力"（Moisio, 2022, p.28）
 
 ---
@@ -99,4 +90,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch2_Moisio_2022]]
+- Ch2_Moisio_2022

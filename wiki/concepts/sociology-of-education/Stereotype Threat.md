@@ -9,17 +9,13 @@ tags:
 - theme/cross-cultural
 - level/k12
 - level/higher-ed
-related_concepts:
-- '[[Chinese Learner]]'
-- '[[Meta-Cultural Sensitivity]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Ryan_2010_ChineseLearner]]'
-sources:
-- '[[Ch2_Ryan_2010]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-17'
@@ -92,4 +88,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch2_Ryan_2010]]
+- Ch2_Ryan_2010

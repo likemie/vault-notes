@@ -12,23 +12,13 @@ tags:
   - theme/socialization
   - region/east-asia
   - theory/confucianism
-related_concepts:
-  - "[[Socratic Tutoring Style]]"
-  - "[[Cognitive Source]]"
-  - "[[Learning Virtues]]"
-  - "[[Humility in Learning]]"
-  - "[[Chinese Learner]]"
-  - "[[Self-Cultivation]]"
-related_theories:
-  - "[[MCC Discourse Analysis Examples]]"
-  - "[[Confucian Learning Tradition]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
-sources:
-  - "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -52,10 +42,10 @@ updated: 2026-05-24
 
 ### 认知来源：学习美德（virtue source）
 
-台湾母亲在引导儿童思考学习时，持续调用"学习美德"作为**认知来源**（cognitive source）——从学习品德的角度概念化学习，以儒家文化共识（"人不应该懒惰""功夫不负有心人"）为合法性资源（Li, 2012）。关于"来源"概念的两层含义及其与心理框架、因果归因的区分，详见 [[Cognitive Source]]。
+台湾母亲在引导儿童思考学习时，持续调用"[[Learning Virtues|学习美德]]"作为**认知来源**（cognitive source）——从学习品德的角度概念化学习，以儒家文化共识（"人不应该懒惰""功夫不负有心人"）为合法性资源（Li, 2012）。关于"来源"概念的两层含[[Rightness|义]]及其与心理框架、因果归因的区分，详见 [[Cognitive Source]]。
 
 > [!example]
-> 一位母亲在与七岁儿子讨论他的良好课堂表现时，完全不触及智力或聪明的话题。相反，她追问"你为什么要认真（serious）上课？"、"你睡觉也可以啊——为什么要认真？"，最终引导儿子自己说出"因为我的考试成绩挺差的"——将"好学习"的讨论转化为对自身不足的认识（Li, 2012）。完整对话与 Li 的分析见 [[MCC Discourse Analysis Examples#示例 9：TW 母亲的认知来源 — 学习美德|MCC 示例 9–10]]。
+> 一位母亲在与七岁儿子讨论他的良好课堂表现时，完全不触及智力或聪明的话题。相反，她追问"你为什么要认真（serious）上课？"、"你睡觉也可以啊——为什么要认真？"，最终引导儿子自己说出"因为我的考试成绩挺差的"——将"好学习"的讨论转化为对自身不足的认识（Li, 2012）。完整对话与 Li 的分析见 MCC 示例 9–10。
 
 ### 因果归因：学习美德的效力（virtue potency）
 
@@ -82,7 +72,7 @@ updated: 2026-05-24
 > [!example]
 > 一位母亲告诉女儿"辛苦中有快乐啊！"（delight in hard work）——这是中文日常交流中的常用固定短语。另一位母亲引导儿子回忆跆拳道考级：从害怕到勇敢，关键在于母亲教他"应该感到什么"——"勇敢！"儿子回答，"展示我的力量！"（Li, 2012）。
 
-**成就情感——面向未来的毅力（perseverance for future achievement）**：台湾母亲很少像欧裔美国母亲那样引导儿童为自己的成就感到骄傲。相反，她们将每一个成就重新定位为**进一步自我改进的起点**。
+**成就情感——面向未来的毅力（perseverance for future achievement）**：台湾母亲很少像欧裔美国母亲那样引导儿童为自己的成就感到[[Pride in Learning|骄傲]]。相反，她们将每一个成就重新定位为**进一步自我改进的起点**。
 
 > [!example]
 > 一位母亲对在国际象棋比赛中反败为胜的儿子说："妈妈很欣慰……妈妈真的很希望你在未来的象棋比赛中用同样的平常心——但不愿放弃、不轻易接受失败、全力以赴——可以应用到做任何事情上"。成功没有被转化为骄傲，而被转化为一条普遍的生活原则。
@@ -127,4 +117,4 @@ updated: 2026-05-24
 ---
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

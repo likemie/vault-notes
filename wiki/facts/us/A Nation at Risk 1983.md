@@ -8,23 +8,17 @@ subtype: event
 region: us
 tags:
 - assessment
-- education reform
+- education-reform
 - region/us
 - level/k12
 - stance/critique
-related_concepts:
-- '[[International Indicators of Education Systems (INES)]]'
-- '[[Education at a Glance (EAG)]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[Coleman Report 1966]]'
-- '[[American Attraction to Japanese Education 1980s]]'
+related_facts: []
 related_arguments: []
-sources:
-- '[[Gorur_2014_Discourse]]'
-- '[[Downey_2016_SoE]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -77,5 +71,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Gorur_2014_Discourse]]
-- [[Downey_2016_SoE]]
+- Gorur_2014_Discourse
+- Downey_2016_SoE

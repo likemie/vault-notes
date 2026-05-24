@@ -6,28 +6,17 @@ aliases:
 summary: "德语教学理论传统，关注什么知识值得教、为什么教以及如何教，用于连接课程内容、教育目的和教学判断。"
 type: concept
 tags:
-- Didaktik
+- didaktik
 - subject/curriculum
 - subject/pedagogy
 - paradigm/critical
-related_concepts:
-- '[[Bildung]]'
-- '[[Epochal Key Problems]]'
-- '[[Phenomenon-Based Learning]]'
-- '[[Atomisation of Knowledge and Skills]]'
-- '[[Finnish National Core Curriculum 2014]]'
-related_theories:
-- '[[Critical Realism]]'
-- "[[Theory of Teaching (Gruschka)]]"
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Wolfgang Klafki]]'
+related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
-sources:
-- '[[Schaffar_2024_CogentEdu]]'
-- "[[Ch14_Jornitz_2022]]"
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-06'
@@ -77,5 +66,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Schaffar_2024_CogentEdu]]
-- [[Ch14_Jornitz_2022]]
+- Schaffar_2024_CogentEdu
+- Ch14_Jornitz_2022

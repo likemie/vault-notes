@@ -1,30 +1,23 @@
 ---
 title: Argument_Pampaka_2016_IJRME
-summary: "IJRME 特刊导言：诊断大规模有效干预缺失与\"萎靡感\"，识别 agency 分配为核心哲学分歧，主张从\"什么有效\"转向\"什么曾经有效，在哪里，如何，对谁"
+summary: "IJRME 特刊导言：诊断大规模有效干预缺失与“萎靡感“，识别 agency 分配为核心哲学分歧，主张从“什么有效“转向“什么曾经有效，在哪里，如何，对谁"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: International Journal of Research & Method in Education
 citation: Pampaka, M., Williams, J., & Homer, M. (2016). Is the educational 'what works' agenda working? Critical methodological developments. International Journal of Research & Method in Education, 39(3), 231-236.
 tags:
-- Evidence-Based Education
-- Randomised Controlled Trials
+- evidence-based-education
+- randomised-controlled-trials
 - level/k12
 - level/higher-ed
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Cluster Randomized Trials]]'
-- '[[Intent-to-Treat Analysis]]'
-- '[[Effect Size]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Randomised Controlled Trials]]'
-- '[[Meta-analysis]]'
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Pampaka_2016_IJRME]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -85,4 +78,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Pampaka_2016_IJRME]]
+- Pampaka_2016_IJRME

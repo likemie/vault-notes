@@ -15,20 +15,13 @@ tags:
   - level/higher-ed
   - theme/digitalization
   - theme/subjectification
-related_concepts:
-  - "[[Digital Self]]"
-  - "[[Online Self-Assessment]]"
-  - "[[Promising Student]]"
-  - "[[Learning Analytics]]"
-related_theories:
-  - "[[Societies of Control]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Thompson_2022_Promising_Student]]"
-sources:
-  - "[[Ch13_Thompson_2022]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-20
@@ -51,7 +44,7 @@ updated: 2026-05-20
 
 ### 算法理性的产物
 
-数字最优的核心特征在于它是由算法持续优化而产生的人工参照系——不是来自教育者对学生发展目标的专业判断，而是在数据收集、分类、建模和预测的自动循环中被反复"精炼"的统计构念（Thompson et al., 2022, p.226）。这一过程的关键后果是：理想学生形象越来越脱离具体教育情境和教师专业经验，而是被算法理性所定义。
+数字最优的核心特征在于它是由算法持续优化而产生的人工参照系——不是来自教育者对学生发展目标的[[Professional Judgment|专业判断]]，而是在数据收集、分类、建模和预测的自动循环中被反复"[[Jing (Refined Mastery)|精]]炼"的统计构念（Thompson et al., 2022, p.226）。这一过程的关键后果是：理想学生形象越来越脱离具体教育情境和教师专业经验，而是被算法理性所定[[Rightness|义]]。
 
 ### 作为参照标准的具体期望
 
@@ -61,7 +54,7 @@ updated: 2026-05-20
 
 数字最优的治理功能依赖于与 [[Digital Self|数字自我]] 之间的**差异**（differential）。这一差异是算法治理（algorithmic governance, Beer, 2016）的驱动力（Thompson et al., 2022, p.226）：
 
-- [[Digital Self|数字自我]] 通过 OSA 收集的个体数据被建构——"我的 OSA 结果是……"
+- [[Digital Self|数字自我]] 通过 [[Online Self-Assessment|OSA]] 收集的个体数据被建构——"我的 OSA 结果是……"
 - 数字最优呈现一个理想参照——"完美的起点是这样的……"
 - 两者之间的差距构成一种"数据的质询"（interpellation of data）：不直接命令，而是通过展示差距呼唤自我管理
 
@@ -82,4 +75,4 @@ updated: 2026-05-20
 
 ## 来源
 
-- [[Ch13_Thompson_2022]]
+- Ch13_Thompson_2022

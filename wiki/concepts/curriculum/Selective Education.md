@@ -10,20 +10,13 @@ tags:
 - secondary-education
 - region/uk
 - level/k12
-related_concepts:
-- '[[Grammar School]]'
-- '[[Moral Sidestep]]'
-- '[[Evidence-Based Education]]'
-- '[[Eleven-plus Exam]]'
-- '[[Ofsted]]'
-related_theories:
-- '[[Legitimation Theory Van Leeuwen]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Bainbridge_2022_ROE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -33,7 +26,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> Selective education（选择性教育）指在中等教育阶段依据学术能力考试（如英国 [[Eleven-plus Exam|11-plus]]）将学生分流至不同类型学校的制度安排，典型表现为[[Grammar School|文法学校]]（grammar school）与现代中学（secondary modern school）的双轨制。在英国语境中，该制度涉及约 163 所现存文法学校，新建文法学校自 2006 年起被[[Education and Inspections Act 2006|法律禁止]]（Bainbridge et al., 2022, p.3）。
+> Selective education（选择性教育）指在中等教育阶段依据学术能力考试（如英国 11-plus）将学生分流至不同类型学校的制度安排，典型表现为[[Grammar School|文法学校]]（grammar school）与现代中学（secondary modern school）的双轨制。在英国语境中，该制度涉及约 163 所现存文法学校，新建文法学校自 2006 年起被法律禁止（Bainbridge et al., 2022, p.3）。
 >
 
 ## 概念演变
@@ -41,7 +34,7 @@ updated: '2026-05-18'
 > [!note-] 概念演变
 > 英国选择性教育制度在 20 世纪中期达到顶峰，此后经历了大规模的综合学校改革，大部分地区取消了 11-plus 考试并转为综合中学体系。然而，英格兰仍有 163 所文法学校在地方层面保留选拔性招生（Bainbridge et al., 2022, p.3）。
 >
-> 2006 年《[[Education and Inspections Act 2006|教育与督导法]]》（Education and Inspections Act 2006）明确禁止新建文法学校，但允许现有文法学校继续运作。2018 年，保守党政府推出 [[Selective Schools Expansion Fund 2018|Selective Schools Expansion Fund（SSEF）]]，允许现有文法学校申请额外资金扩大招生规模，实质上在不修改法律的前提下绕过了新建禁令（Bainbridge et al., 2022, p.3）。
+> 2006 年《教育与督导法》（Education and Inspections Act 2006）明确禁止新建文法学校，但允许现有文法学校继续运作。2018 年，保守党政府推出 Selective Schools Expansion Fund（SSEF），允许现有文法学校申请额外资金扩大招生规模，实质上在不修改法律的前提下绕过了新建禁令（Bainbridge et al., 2022, p.3）。
 >
 > 尽管学术研究一致表明选择性教育的效果至多为零甚至有害（见"实证发现"章节），恢复更广泛的选择性教育仍是英国保守党右翼的持续性竞选诉求（Bainbridge et al., 2022, p.3）。
 >
@@ -56,7 +49,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> 研究证据中仅有极少数显示选择性教育有潜在益处：Coe et al.（2008）为 Sutton Trust 所做的报告指出，[[Eleven-plus Exam|11-plus]] 及格线边缘学生在 GCSE 中成绩略有提高，但该报告同时对所谓"文法学校效应"提出了质疑（Bainbridge et al., 2022, p.10）。
+> 研究证据中仅有极少数显示选择性教育有潜在益处：Coe et al.（2008）为 Sutton Trust 所做的报告指出，11-plus 及格线边缘学生在 GCSE 中成绩略有提高，但该报告同时对所谓"文法学校效应"提出了质疑（Bainbridge et al., 2022, p.10）。
 >
 > 绝大多数研究证据表明选择性教育的效果为中性或有害（Bainbridge et al., 2022, p.10–11）：
 >
@@ -88,4 +81,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Bainbridge_2022_ROE]]
+- Bainbridge_2022_ROE

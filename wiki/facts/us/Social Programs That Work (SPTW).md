@@ -8,23 +8,18 @@ type: fact
 subtype: event
 region: us
 tags:
-- SPTW
+- sptw
 - educational-evidence-clearinghouse
 - evidence-based-education
 - social-programs
 - region/us
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Evidence-Based Education]]'
-- '[[Randomised Controlled Trials]]'
-- '[[Intent-to-Treat Analysis]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -43,11 +38,11 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准编码中，SPTW 对 RCT 的描述程度为 3，对一般 QED 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它是要求 ITT 分析的三个清算中心之一，另外两个是 [[Blueprints for Healthy Youth Development|Blueprints]] 和 [[Promise Neighborhoods Research Consortium (PNRC)|PNRC]]（Wadhwa et al., 2024, p.9）。
+> 在设计标准编码中，SPTW 对 RCT 的描述程度为 3，对一般 QED 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它是要求 ITT 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Promise Neighborhoods Research Consortium (PNRC)|PNRC]]（Wadhwa et al., 2024, p.9）。
 >
 > SPTW 在 RCT 流失标准上接受总体流失低于 20%；在复制标准上，它强调多地点研究以及跨地点和文化情境复制的效果（Wadhwa et al., 2024, pp.9, 11）。
 >
-> SPTW 与 [[Blueprints for Healthy Youth Development|Blueprints]]、[[Promising Practices Network (PPN)|PPN]]、[[Best Evidence Encyclopedia (BEE)|BEE]] 和 [[Collaborative for Academic Social and Emotional Learning Guide (CASEL)|CASEL]] 一样，只报告具有正向效果的项目（Wadhwa et al., 2024, p.12）。
+> SPTW 与 Blueprints、[[Promising Practices Network (PPN)|PPN]]、[[Best Evidence Encyclopedia (BEE)|BEE]] 和 [[Collaborative for Academic Social and Emotional Learning Guide (CASEL)|CASEL]] 一样，只报告具有正向效果的项目（Wadhwa et al., 2024, p.12）。
 
 ## 与其他清算中心的差异
 
@@ -64,4 +59,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- Wadhwa_2024_RER

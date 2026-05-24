@@ -6,22 +6,17 @@ summary: "美国教育研究者，What Works 2.0 框架提出者，为教育研�
 type: person
 nationality: us
 tags:
-- Amelia-Peterson
+- amelia-peterson
 - evidence-based-education
 - improvement-science
 - mechanism-experiments
 - region/us
-related_concepts:
-- '[[Mechanism Experiments]]'
-- '[[Black Box RCTs]]'
-- '[[Improvement Science]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Peterson_2016_IJRME]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -67,4 +62,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[Peterson_2016_IJRME]]
+- Peterson_2016_IJRME

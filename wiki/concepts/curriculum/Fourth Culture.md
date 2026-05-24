@@ -8,20 +8,13 @@ type: concept
 tags:
 - region/hongkong
 - level/k12
-related_concepts:
-- '[[Chinese Learner]]'
-- '[[International Education]]'
-- '[[International Schools]]'
-- '[[International Baccalaureate (IB)]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[English Schools Foundation Hong Kong]]'
-related_arguments:
-- '[[Argument_Ryan_2010_HKUP]]'
-sources:
-- '[[Ryan(Ed.)_2010_HKUP]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-16'
@@ -67,4 +60,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ryan(Ed.)_2010_HKUP]]
+- Ryan(Ed.)_2010_HKUP

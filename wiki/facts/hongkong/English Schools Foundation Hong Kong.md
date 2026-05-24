@@ -11,21 +11,13 @@ region: hongkong
 tags:
 - region/hongkong
 - level/k12
-related_concepts:
-- '[[Chinese Learner]]'
-- '[[International Education]]'
-- '[[Fourth Culture]]'
-- '[[International Schools]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[Liberal Studies (Hong Kong)]]'
-- '[[Symposium on International Teaching 2007]]'
-related_arguments:
-- '[[Argument_Ryan_2010_HKUP]]'
-sources:
-- '[[Ryan(Ed.)_2010_HKUP]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-16'
@@ -58,7 +50,7 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success]
-> 这批华人学习者的涌入改变了 ESF 系统的文化，并问题化了"[[Chinese Learner|中国学习者]]"与"外籍人士"的二分法——这些学生既不是传统的"外籍侨生"也不是典型的"本地公立生"，而是处于 [[Fourth Culture|"第四文化"]]的灰色地带（Slethaug, 2010, p.4）。
+> 这批华人学习者的涌入改变了 ESF 系统的文化，并问题化了"[[Chinese Learner|中国学习者]]"与"外籍人士"的二分法——这些学生既不是传统的"外籍侨生"也不是典型的"本地公立生"，而是处于 "第四文化"的灰色地带（Slethaug, 2010, p.4）。
 
 ---
 
@@ -83,4 +75,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ryan(Ed.)_2010_HKUP]]
+- Ryan(Ed.)_2010_HKUP

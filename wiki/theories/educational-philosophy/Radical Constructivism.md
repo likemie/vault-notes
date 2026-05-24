@@ -5,24 +5,16 @@ aliases:
 summary: "把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握"
 type: theory
 tags:
-- 激进建构主义
+- radical-constructivism
 - paradigm/constructivist
 - learning-theory
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
-related_theories:
-- '[[Popper''s Three Worlds Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Ernst von Glasersfeld]]'
-- '[[John Hattie]]'
-- '[[John Biggs]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Romer_2018_EPT]]'
-- '[[Sarbiewska_2019_JSR]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -99,5 +91,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Romer_2018_EPT]]
-- [[Sarbiewska_2019_JSR]]
+- Romer_2018_EPT
+- Sarbiewska_2019_JSR

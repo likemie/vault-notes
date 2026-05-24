@@ -15,24 +15,13 @@ tags:
 - theory/confucianism
 - theory/neo-confucianism
 - school/cheng-zhu-school
-related_concepts:
-- "[[Self-Cultivation]]"
-- "[[Ren]]"
-- "[[Junzi]]"
-- "[[Sage]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- "[[Confucius]]"
-- "[[Mencius]]"
-- "[[Wang Yangming]]"
-- "[[Jin Li]]"
-related_facts:
-- "[[Civil Service Examination]]"
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -75,7 +64,7 @@ updated: 2026-05-22
 
 ### 1. 格物致知：认知世界的必要性
 
-程氏兄弟认为，孔子倡导的道代表了宇宙万事万物的天理（heavenly principle），包括人的道德本性。循道即达天理——但要循道，必须先探究天理及其具体表现（包括理解万物的物理特性）。这种探究精神是修身学习的必要步骤，是一个新观点——因为早期儒家并未详述个人对宇宙的探究（Li, 2012, p.43）。
+程氏兄弟认为，[[Confucius|孔子]]倡导的道代表了宇宙万事万物的天理（heavenly principle），包括人的道德本性。循道即达天理——但要循道，必须先探究天理及其具体表现（包括理解万物的物理特性）。这种探究[[Jing (Refined Mastery)|精]]神是[[Self-Cultivation|修身]]学习的必要步骤，是一个新观点——因为早期儒家并未详述个人对宇宙的探究（Li, 2012, p.43）。
 
 朱熹继承并深化了这一观点，将"格物"（investigating things）和"致知"（extending knowledge）确立为学习路径的起点（Li, 2012, pp.43-44）。
 
@@ -89,7 +78,7 @@ updated: 2026-05-22
 
 ### 3. 人人皆可为圣：圣人可及
 
-朱熹明确主张"所有人都应自己承担成为圣贤的责任"：
+朱熹明确主张"所有人都应自己承担成为[[Sage|圣贤]]的责任"：
 
 > [!quote]
 > "许多人觉得成为圣贤的目标太高远，认为自己不配。因此，他们不做任何努力向它前进……然而，天赋予所有人的禀赋是相同的……一个人怎能不自己承担成为圣贤的责任呢？"（Li, 2012, p.47 引朱熹）
@@ -120,4 +109,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

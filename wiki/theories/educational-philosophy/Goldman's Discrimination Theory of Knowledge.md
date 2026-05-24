@@ -6,23 +6,19 @@ aliases:
 summary: "知识的成立依赖区分真实状态与相关替代可能状态的能力，可用于说明教育判断为何往往具有局部性、情境性与暂定性"
 type: theory
 tags:
-- Goldman
+- goldman
 - discrimination-theory
 - epistemology
 - knowledge
 - justification
 - paradigm/analytic
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Validity as Inferences]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Dylan Wiliam]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wiliam_2019_ERE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -91,4 +87,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wiliam_2019_ERE]]
+- Wiliam_2019_ERE

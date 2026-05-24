@@ -14,23 +14,13 @@ tags:
 - theme/museology
 - theme/ecology
 - theme/community
-related_concepts:
-- '[[Social Museology]]'
-- '[[Life Power]]'
-- '[[Ganz-Methode]]'
-- '[[Geopolitics of Knowledge]]'
-related_theories:
-- '[[Creative Tension of Sense]]'
-- '[[Decolonial Geopolitics of Knowledge]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Dell Delambre]]'
-- '[[Walter Mignolo]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Delambre_2022_Springer]]'
-sources:
-- '[[Ch7_Delambre_2022]]'
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -97,4 +87,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch7_Delambre_2022]]
+- Ch7_Delambre_2022

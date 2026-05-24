@@ -10,19 +10,13 @@ tags:
 - knowledge-based-economization
 - silicon-valley-worldview
 - region/global
-related_concepts:
-- '[[Knowledge-Based Economization]]'
-- '[[Knowledge-Based Economy]]'
-- '[[Spatial Sortings]]'
-- '[[Hub and Flow Imaginaries]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Sami Moisio]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Ch2_Moisio_2022]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -85,4 +79,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch2_Moisio_2022]]
+- Ch2_Moisio_2022

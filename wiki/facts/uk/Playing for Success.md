@@ -7,23 +7,20 @@ type: fact
 subtype: event
 region: uk
 tags:
-- Playing-for-Success
+- playing-for-success
 - sports-participation
 - study-support
 - football-clubs
 - out-of-school-learning
 - region/uk
 - level/k12
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Effect Size]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wrigley_2019_ERE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -91,4 +88,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wrigley_2019_ERE]]
+- Wrigley_2019_ERE

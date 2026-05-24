@@ -15,40 +15,12 @@ tags:
 - evidence-based-education
 - statistical-synthesis
 - methodology
-related_concepts:
-- '[[Effect Size]]'
-- '[[Statistical Significance]]'
-- '[[Confidence Interval]]'
-- '[[Evidence-Based Education]]'
-- '[[Visible Learning]]'
-- '[[EEF Teaching and Learning Toolkit]]'
-- '[[Whole Language]]'
-- '[[Cargo Cult Science]]'
-related_theories:
-- '[[Critical Realism]]'
-related_methods:
-- '[[Meta-analysis]]'
-- '[[Covariate Adjustment]]'
-related_persons:
-- '[[John Hattie]]'
-- '[[Adrian Simpson]]'
-- '[[Dylan Wiliam]]'
-- '[[Terry Wrigley]]'
-- '[[Ewald Terhart]]'
-- '[[Lars Qvortrup]]'
-related_arguments:
-- '[[Argument_Hattie_2015_Paideia]]'
-sources:
-- '[[Snook_2009_NZJES]]'
-- '[[Terhart_2011_JCS]]'
-- '[[Qvortrup_2015_Paideia]]'
-- '[[Hattie_2015_Paideia]]'
-- '[[Allerup_2015_Paideia]]'
-- '[[Wecker_2016_ZfE]]'
-- '[[Simpson_2017_JEP]]'
-- '[[Simpson_2019_ERE]]'
-- '[[OConnor_2020_AJLL]]'
-- '[[Johnson_2023_CE]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -82,7 +54,7 @@ updated: '2026-05-21'
 >
 > 1. **确定影响因素分组**：将影响因素分为 6 组——学生、家庭、学校、教师、课程、教学方法（各组平均效应量分别为 0.40, 0.31, 0.23, 0.49, 0.45, 0.42，见表 1, p.428）
 > 2. **收集已发表的元分析**：在每组下收集所有可及的元分析
-> 3. **计算每个因素的"平均效应量"**：从每个元分析中提取或计算[[Effect Size|效应量 d]]，汇总为该因素的单一效应量
+> 3. **计算每个因素的"平均效应量"**：从每个元分析中提取或计算效应量 d，汇总为该因素的单一效应量
 > 4. **构建"影响气压计"（barometer of influence）**：将每个因素的效应量可视化呈现，分为四个区域——负面效应区（d < 0）、发展效应区（0.0–0.15）、教师效应区（0.15–0.40）、期望效应区（d > 0.40，即"铰链点"hinge point）
 > 5. **排名**：将所有 138 个因素按效应量从高到低排名
 
@@ -182,7 +154,7 @@ updated: '2026-05-21'
 >
 > 以这些排名驱动公共政策是"误导"：标准ised效应量是**研究工具**而非**政策工具**——"these meta-meta-analyses which order areas on the basis of effect size are thus poor selection mechanisms for driving educational policy and should not be used for directing large portions of a country's education budget"（Simpson, 2017, p.15）。详见 [[Effect Size#Simpson (2017) 的三大系统性偏差：原始论证]]、[[Argument_Simpson_2017_JEP]]。
 >
-> **Simpson（2019）——对一个已无效的指标进行更高级的统计操作。** Simpson（2019, pp.105–106）将 2017 年的论证推进为更一般的陈述：[[Effect Size|效应量]]不是教育有效性的测量而是试验清晰度的测量——将元分析再聚合成元-元分析，是对一个已经无效的指标进行更高级的统计操作。详见 [[Effect Size#Simpson (2019) 的思想实验：教一个匈牙利单词]]、[[Argument_Simpson_2019_ERE]]。
+> **Simpson（2019）——对一个已无效的指标进行更高级的统计操作。** Simpson（2019, pp.105–106）将 2017 年的论证推进为更一般的陈述：[[Effect Size|效应量]]不是教育有效性的测量而是试验清晰度的测量——将元分析再聚合成元-元分析，是对一个已经无效的指标进行更高级的统计操作。详见 [[Effect Size#Simpson (2019) 的思想实验：教一个匈牙利单词]]、Argument_Simpson_2019_ERE。
 
 
 > [!warning] 技术方法论缺陷
@@ -224,7 +196,7 @@ updated: '2026-05-21'
 > [!warning] 认识论困境与角色争议
 > **Terhart（2011）——稳定性与变异性的双重困境。** Terhart（2011, p.436）提出了元-元分析的根本困境：(1) **稳定性假说**——许多因素的结果已高度稳定，进一步研究只会渐近逼近已知结论，"继续这个过程到什么时候才有意义？"；(2) **变异性假说**——某些领域的发现已过时（如 Hattie 关于教师教育影响的元-元分析在 VL 出版时已被新的研究结果超越）。由于元-元分析同时支持两种假说，"很明显 Hattie 事实上没有找到圣杯"（Terhart, 2011, p.436）。
 >
-> **Wiliam（2019）——元-元分析在教育政策中绝对没有任何角色。** [[Dylan Wiliam|Wiliam]]（2019, p.11）做出了 EBE 批判文献中对元-元分析最彻底的否定：
+> **Wiliam（2019）——元-元分析在教育政策中绝对没有任何角色。** Wiliam（2019, p.11）做出了 EBE 批判文献中对元-元分析最彻底的否定：
 >
 > > "将多个元分析的结果通过效应量的某种加权合并——即所谓的元-元分析——在教育政策制定中绝对没有任何角色。"
 >
@@ -267,7 +239,7 @@ updated: '2026-05-21'
 >
 > **第三项元分析：Gee 的 +0.65——唯一被 Hattie 动手修改的。** Gee（1995）报告 d=+0.65。Hattie 以其中三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。但全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的专著——在有意义的语境中教技能恰恰是全语言的核心实践（O'Connor, 2020, p.148）。
 >
-> **关键的对比**：在 VL 的 800+ 元分析中，**仅此一项**——发现全语言有正面效果——被 Hattie 通过选择性删除研究修正了效应量。对报告极端负面效果的 Jeynes & Littell，他未做任何审查。这种不对称审查模式是 [[Cargo Cult Science| cargo cult science]] 在方法论层面的具体表现——只修正支持自己预设结论的证据，对支持相反结论的证据不加审视。
+> **关键的对比**：在 VL 的 800+ 元分析中，**仅此一项**——发现全语言有正面效果——被 Hattie 通过选择性删除研究修正了效应量。对报告极端负面效果的 Jeynes & Littell，他未做任何审查。这种不对称审查模式是  cargo cult science 在方法论层面的具体表现——只修正支持自己预设结论的证据，对支持相反结论的证据不加审视。
 >
 > **Hattie 自己的话**："当前对证据本位的痴迷往往忽视了研究者用来决定什么要纳入（作为证据）、什么要排除、以及如何整理证据来讲述他们的故事的镜头。故事才是被认为有说服力的贡献——是我在这个证据上的镜头。"（Hattie, 2009, p.237，引自 O'Connor, 2020, p.142）O'Connor 指出这与元分析创始人 Gene Glass（1976, p.3）的初衷——提供"对研究叙述性讨论的严谨替代方案"——直接矛盾。
 
@@ -284,25 +256,25 @@ updated: '2026-05-21'
 > - [[EEF Teaching and Learning Toolkit]] — 英国 EEF 以效应量排名 30+ 类教育干预的联盟表工具（Wrigley & McCusker, 2019）
 > - [[Argument_Wecker_2016_ZfE]] — 从固定效应模型数学基础对 Hattie VL 进行系统性的内部+外部方法论批判（Wecker et al., 2016）
 > - [[Argument_Simpson_2017_JEP]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名（Simpson, 2017）
-> - [[Argument_Simpson_2019_ERE]] — 以思想实验证明效应量是试验清晰度的测量，元-元分析是对无效指标的高级统计操作（Simpson, 2019）
+> - Argument_Simpson_2019_ERE — 以思想实验证明效应量是试验清晰度的测量，元-元分析是对无效指标的高级统计操作（Simpson, 2019）
 > - [[Argument_Wrigley_2019_ERE]] — 以 EEF Toolkit 体育参与案例追踪元-元分析的三级统计失真（Wrigley & McCusker, 2019）
 > - [[Argument_OConnor_2020_AJLL]] — 以 VL 全语言处理为案例的细读审查，揭示分类错误、不对称审查和选择性排除（O'Connor, 2020）
 
 ## 替代方案
 
 
-- **Terhart（2011）暗示的方向**：(1) 更严格的质量控制和纳入标准透明度；(2) 承认元-元分析结果的根本临时性；(3) 同时关注可以使研究证据过时的新的、不同的发现（变异性假说）（Terhart, 2011, p.436）
-- **Wecker et al.（2016, p.35）提出建立中央证据数据库**：以标准化格式收集实证研究的方法和结果（统一使用 Hedges' g），每个元分析发布完整的主要研究表——"通过提供标准化形式的'原始元分析数据'来促进像 Hattie 这样的项目"
-- **[[Ray Pawson|Pawson]]（2006）提出实在论综合（Realist Synthesis）**：基于因果理论（"为什么有效、对谁有效、在什么条件下有效"）而非纯技术标准选择源研究，以揭示效应变异性的分散图景而非单一平均值为输出（Wrigley & McCusker, 2019, pp.119, 123）
+- **Terhart（2011）暗示的方向**：(1) 更严格的质量控制和纳入标准透明度；(2) 承认元-[[Meta-analysis|元分析]]结果的根本临时性；(3) 同时关注可以使研究证据过时的新的、不同的发现（变异性假说）（Terhart, 2011, p.436）
+- **Wecker et al.（2016, p.35）提出建立中央证据数据库**：以标准化格式收集实证研究的方法和结果（统一使用 Hedges' g），每个元分析发布完整的主要研究表——"通过提供标准化形式的'原始元分析数据'来促进像 [[John Hattie|Hattie]] 这样的项目"
+- **Pawson（2006）提出实在论综合（Realist Synthesis）**：基于因果理论（"为什么有效、对谁有效、在什么条件下有效"）而非纯技术标准选择源研究，以揭示效应变异性的分散图景而非单一平均值为输出（Wrigley & McCusker, 2019, pp.119, 123）
 
 ## 来源
 
-- [[Snook_2009_NZJES]]
-- [[Terhart_2011_JCS]]
-- [[Hattie_2015_Paideia]]
-- [[Allerup_2015_Paideia]]
-- [[Wecker_2016_ZfE]]
-- [[Simpson_2017_JEP]]
-- [[Simpson_2019_ERE]]
-- [[OConnor_2020_AJLL]]
-- [[Johnson_2023_CE]]
+- Snook_2009_NZJES
+- Terhart_2011_JCS
+- Hattie_2015_Paideia
+- Allerup_2015_Paideia
+- Wecker_2016_ZfE
+- Simpson_2017_JEP
+- Simpson_2019_ERE
+- OConnor_2020_AJLL
+- Johnson_2023_CE

@@ -16,24 +16,13 @@ tags:
   - theme/digitalization
   - theme/governmentality
   - theme/subjectification
-related_concepts:
-  - "[[Online Self-Assessment]]"
-  - "[[Digital Self]]"
-  - "[[Digital Optimum]]"
-  - "[[Promising Student]]"
-  - "[[Learning Analytics]]"
-  - "[[Competitiveness in Higher Education]]"
-related_theories:
-  - "[[Governmentality]]"
-  - "[[Societies of Control]]"
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-  - "[[Christiane Thompson]]"
+related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Thompson_2022_Promising_Student]]"
-sources:
-  - "[[Ch13_Thompson_2022]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-20
@@ -60,9 +49,9 @@ updated: 2026-05-20
 
 - 传统的考试/评估：在学期末或学年末进行，属于**事后判断**
 - 反应性辅导：学生在学业中遇到困难后主动或被动求助，属于**事中响应**
-- OSA 等先发制人工具：在入学前就进行预判，属于**事前干预**
+- [[Online Self-Assessment|OSA]] 等先发制人工具：在入学前就进行预判，属于**事前干预**
 
-这一转变的根本意义在于：学生在被给予任何机会证明自己之前，就已经通过数据被归类和标记。
+这一转变的根本意[[Rightness|义]]在于：学生在被给予任何机会证明自己之前，就已经通过数据被归类和标记。
 
 ### 成功相关性的预测逻辑
 
@@ -70,7 +59,7 @@ updated: 2026-05-20
 
 ### 从排斥到自我选择
 
-先发制人治理的关键机制不是直接的筛选淘汰，而是自我选择（self-selection）。OSA 被明确宣称为"不是入学考试，不影响录取"——其治理效果恰恰依赖这种非强制性：学生在获得"有条件的匹配"或"不匹配"的反馈后，自行决定调整选择或弥补不足（Thompson et al., 2022, pp.222–223）。这正是 [[Governmentality|治理术]] 的典型运作——通过塑造自我理解来引导行为，而非通过强制禁止。
+先发制人治理的关键机制不是直接的筛选淘汰，而是自我选择（self-selection）。OSA 被明确宣称为"不是入学考试，不影响录取"——其治理效果恰恰依赖这种非强制性：学生在获得"有条件的[[Matching|匹配]]"或"不匹配"的[[Feedback|反馈]]后，自行决定调整选择或弥补不足（Thompson et al., 2022, pp.222–223）。这正是 [[Governmentality|治理术]] 的典型运作——通过塑造自我理解来引导行为，而非通过强制禁止。
 
 ### 数字差异驱动的优化
 
@@ -98,8 +87,8 @@ updated: 2026-05-20
 > [!warning]
 > - **预判性身份的伦理问题**：个体在被给予机会证明自己之前就被算法标记为"高风险"——"即将失败的学生"（soon-to-be-failing-student）标签构成了 Bächle（2016, p.188）所说的"先发制人的分类"（preemptive sorting），可能演变为自我实现的预言（Thompson et al., 2022, p.225）
 > - **结构性不平等的遮蔽**：先发制人治理将学业失败的风险归因于个体特征的缺失（"外语经历不足"、"数学基础薄弱"），而非教育资源分配的结构性不平等。入学前的"起点差异"在自我评估框架中被转化为"个人需要弥补的不足"（Thompson et al., 2022, p.227）
-> - **[[Bildung|教育开放性]]的丧失**：当治理逻辑预设"学生的未来可以被入场数据预测"，教育的根本开放性——成长、转变、不可预测的发展——被系统性地排除在治理视野之外（Thompson et al., 2022, p.227）
+> - **教育开放性的丧失**：当治理逻辑预设"学生的未来可以被入场数据预测"，教育的根本开放性——成长、转变、不可预测的发展——被系统性地排除在治理视野之外（Thompson et al., 2022, p.227）
 
 ## 来源
 
-- [[Ch13_Thompson_2022]]
+- Ch13_Thompson_2022

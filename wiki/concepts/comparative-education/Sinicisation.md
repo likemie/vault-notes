@@ -5,7 +5,7 @@ aliases:
   - 中国化
   - sinicisation
   - sinicization
-summary: "以汉文化传统为核心重新定义'中国性'的文化同化过程，通过语言替换、课程标准化和历史叙事重构将非汉群体纳入汉文化中心框架"
+summary: "以汉文化传统为核心重新定义’中国性’的文化同化过程，通过语言替换、课程标准化和历史叙事重构将非汉群体纳入汉文化中心框架"
 type: concept
 tags:
   - region/china
@@ -13,19 +13,13 @@ tags:
   - theme/ethnic-minorities
   - theme/national-identity
   - paradigm/critical
-related_concepts:
-  - "[[Official Knowledge]]"
-  - "[[Cultural Disembedding]]"
-related_theories:
-  - "[[Nation Building through Education]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Confucian Revival in China]]"
-related_arguments:
-  - "[[Argument_Yu_2024_CE]]"
-sources:
-  - "[[Yu_2024_CE]]"
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-21
@@ -77,4 +71,4 @@ updated: 2026-05-21
 
 ## 来源
 
-- [[Yu_2024_CE]]
+- Yu_2024_CE

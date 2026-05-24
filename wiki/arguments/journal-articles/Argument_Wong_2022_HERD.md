@@ -11,15 +11,13 @@ tags:
 - ideal-graduate
 - level/higher-ed
 - region/uk
-related_concepts:
-- '[[Graduate Attributes]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wong_2022_HERD]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-06'
@@ -83,4 +81,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wong_2022_HERD]]
+- Wong_2022_HERD

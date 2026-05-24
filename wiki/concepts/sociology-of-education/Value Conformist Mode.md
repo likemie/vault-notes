@@ -12,30 +12,13 @@ tags:
 - social-stratification
 - region/china
 - level/higher-ed
-related_concepts:
-- '[[Intuition-Dependent Mode]]'
-- '[[Self-Driven Mode]]'
-- '[[Opportunist Mode]]'
-- '[[Lost Mode]]'
-- '[[Graduation Pathway Typology (Zheng)]]'
-- '[[Work Meaning Schemas (Zheng)]]'
-- '[[Cultural Barrier in Higher Education]]'
-- '[[Dual Elite Career Paths]]'
-- '[[Liberal Studies (Hong Kong)]]'
-- '[[Symbolic Boundary]]'
-related_theories:
-- '[[Culture as Toolkit]]'
-- '[[Pierre Bourdieu]]'
-- '[[Dual Elite Career Paths]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Yajun Zheng]]'
-- '[[Clippings/Pierre Bourdieu]]'
-- '[[Paul Willis]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-09'
@@ -65,9 +48,9 @@ updated: '2026-05-18'
 
 ### 体制通道的存在
 
-即便市场机制已经在整个社会的经济运行中占主要份额，政府机关以及包含学术科研组织在内的事业单位仍是一条上升为社会精英的关键通道。在自上而下的渐进式改革中，国家主导和原有体制的路径依赖决定了主导再分配权力的政府体制并未被削弱，而与市场体制并立或融通（郑雅君，2023，引吕鹏和范晓光，2016; Walder, 1995; 刘欣，2021）。万闻华和方长春（2008）甚至认为，政治权力和市场共同作用于精英形成，政府体制其实一直居于主导地位，而市场从属于政府体制（郑雅君，2023）。
+即便市场机制已经在整个社会的经济运行中占主要份额，政府机关以及包含学术科研组织在内的事业单位仍是一条上升为社会[[Jing (Refined Mastery)|精]]英的关键通道。在自上而下的渐进式改革中，国家主导和原有体制的路径依赖决定了主导再分配权力的政府体制并未被削弱，而与市场体制并立或融通（[[Yajun Zheng|郑雅君]]，2023，引吕鹏和范晓光，2016; Walder, 1995; 刘欣，2021）。万闻华和方长春（2008）甚至认为，政治权力和市场共同作用于精英形成，政府体制其实一直居于主导地位，而市场从属于政府体制（郑雅君，2023）。
 
-中国精英大学稳定地制造出大量可供学生获取的体制内机会——选调生项目、推免直研、留校任教、向政府机关和事业单位的定向输送等——为价值归顺者提供了一条从学校到体制的"赞助性流动"通道（郑雅君，2023）。
+中国精英大学稳定地制造出大量可供学生获取的体制内机会——选调生项目、[[Recommendation-Based Graduate Admission System|推免]]直研、留校任教、向政府机关和事业单位的定向输送等——为价值归顺者提供了一条从学校到体制的"赞助性流动"通道（郑雅君，2023）。
 
 ### 学校意识形态的滋养
 
@@ -88,7 +71,7 @@ updated: '2026-05-18'
 ## 与迷失无从者的关键区别
 
 > [!example] 与迷失无从者的关键区别
-> | 维度 | 价值归顺者 | [[Lost Mode\|迷失无从者]] |
+> | 维度 | 价值归顺者 | 迷失无从者 |
 > |------|----------|------|
 > | **价值信念** | 内化了学校的主流理想信念 | 游离于各种价值之间 |
 > | **目标来源** | 来自大学正式教育 | 被动、偶然、权宜 |
@@ -107,4 +90,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

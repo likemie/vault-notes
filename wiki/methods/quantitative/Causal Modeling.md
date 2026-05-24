@@ -10,25 +10,15 @@ method_type: quantitative
 tags:
 - causal-modeling
 - structural-equation-modeling
-- SEM
+- sem
 - subject/research-methodology
 - paradigm/positivist
-related_concepts:
-- '[[Potential Outcomes Framework]]'
-- '[[Recommendations for Practice]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Matching]]'
-- '[[Covariate Adjustment]]'
-- '[[Randomised Controlled Trials]]'
-- '[[Non-intervention Research]]'
-- '[[Observational and Correlational Research]]'
+related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Berk_2011_ER]]'
-- '[[Allerup_2015_Paideia]]'
-- '[[Brady_2023_EPR]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -110,11 +100,11 @@ updated: '2026-05-18'
 
 - [[Observational and Correlational Research]] — 因果建模通常试图在未操纵自变量的观察/相关数据中估计因果路径，因此其推论风险与观察性研究的因果边界直接相关
 - [[Matching]] — Berk (2011) 推荐的替代策略，试图以协变量平衡降低观察性研究中的混杂风险
-- [[Covariate Adjustment]] — 因果建模常通过纳入协变量调整效应估计；控制变量选择会改变效应量和显著性判断
+- [[Covariate Adjustment]] — 因果建模常通过纳入协变量调整效应估计；控制变量选择会改变[[Effect Size|效应量]]和显著性判断
 - [[Recommendations for Practice]] — Brady et al. (2023) 关注因果建模语汇如何可能推动观察/相关研究越界提出实践建议
 
 ## 来源
 
-- [[Berk_2011_ER]]
-- [[Allerup_2015_Paideia]]
-- [[Brady_2023_EPR]]
+- Berk_2011_ER
+- Allerup_2015_Paideia
+- Brady_2023_EPR

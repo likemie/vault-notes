@@ -6,20 +6,17 @@ summary: "美国教育政策官员和研究管理者，IES 证据标准体系关
 type: person
 nationality: us
 tags:
-- Grover Whitehurst
+- grover-whitehurst
 - evidence-based-education
-- RCT
-- OERI
+- rct
+- oeri
 - region/us
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Evidence-Based Reform]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Slavin_2002_ER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -63,4 +60,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[Slavin_2002_ER]]
+- Slavin_2002_ER

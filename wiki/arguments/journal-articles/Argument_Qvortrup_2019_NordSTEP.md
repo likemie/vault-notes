@@ -1,6 +1,6 @@
 ---
 title: Argument_Qvortrup_2019_NordSTEP
-summary: "VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为\"缺失环节"
+summary: "VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为“缺失环节"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -12,26 +12,13 @@ tags:
 - professional-judgment
 - region/denmark
 - stance/support
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
-- '[[Professional Judgment]]'
-- '[[Interpretation Community]]'
-- '[[Structural Coupling]]'
-- '[[Meta-analysis]]'
-related_theories:
-- '[[Bounded Rationality]]'
-related_methods:
-- '[[Meta-analysis]]'
-related_persons:
-- '[[John Hattie]]'
-- '[[Donald A. Schön]]'
-- '[[Herbert A. Simon]]'
-- '[[Thomas Aastrup Rømer]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Qvortrup_2019_NordSTEP]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -96,4 +83,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Qvortrup_2019_NordSTEP]]
+- Qvortrup_2019_NordSTEP

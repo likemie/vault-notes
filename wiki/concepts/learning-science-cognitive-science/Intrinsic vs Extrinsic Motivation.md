@@ -11,19 +11,13 @@ tags:
   - theme/motivation
   - theme/affect
   - theme/self-determination
-related_concepts:
-  - "[[Flow]]"
-  - "[[Entity vs Incremental Intelligence]]"
-  - "[[Self-Efficacy]]"
-related_theories:
-  - "[[Attribution Theory]]"
-  - "[[Self-Worth Theory]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -54,7 +48,7 @@ updated: 2026-05-23
 人类天生有寻求机会发展能力、证明能力的内在倾向。即使是很小的孩子也会表现出对发展和展示能力机会的兴奋感。有能力和能力强的人不仅因为外部奖励而行动，能力本身即是目的（Li, 2012, p.58）。
 
 **3. 自主感（autonomy and self-determination）**
-人类有感到自主和自我决定的天生需求。当人们可以自己选择任务时，他们感到自己在掌控自己的活动，行动出于自己的意志，而非外部奖励或惩罚的回避。研究显示，西方学生能够自主选择学习任务时，他们会感到有动力、快乐、精力充沛和兴奋（Li, 2012, p.58）。
+人类有感到自主和自我决定的天生需求。当人们可以自己选择任务时，他们感到自己在掌控自己的活动，行动出于自己的意志，而非外部奖励或惩罚的回避。研究显示，西方学生能够自主选择学习任务时，他们会感到有动力、快乐、[[Jing (Refined Mastery)|精]]力充沛和兴奋（Li, 2012, p.58）。
 
 ---
 
@@ -64,10 +58,10 @@ updated: 2026-05-23
 > **兴趣 vs 好奇心**：兴趣与好奇心接近，但二者有区别。好奇心是更纯粹的内在动机形式；兴趣本身不一定完全是内在的，取决于其所服务的目的是什么。一个学生对黑洞的兴趣如果只在于理解黑洞本身，则是内在的；但如果兴趣服务于炫耀知识等外在目的，则可能是外在的（Li, 2012, p.57–58）。
 
 **东亚学习者的适用边界**：
-在 [[Confucian Heritage Cultures]] 中，内在与外在动机的二分可能并不那么鲜明。研究显示，东亚学习者的动机更多基于长期的人生目标（立志）和道德承诺，而非对特定学科的好奇或兴趣。传统的"内在 vs 外在"框架在解释东亚学习者动机时可能需要重新思考（Li, 2012, p.70–71）。
+在 [[Confucian Heritage Cultures]] 中，内在与外在动机的二分可能并不那么鲜明。研究显示，东亚学习者的动机更多基于长期的人生目标（[[Establishing One's Will (lizhi)|立志]]）和道德承诺，而非对特定学科的好奇或兴趣。传统的"内在 vs 外在"框架在解释东亚学习者动机时可能需要重新思考（Li, 2012, p.70–71）。
 
 ---
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

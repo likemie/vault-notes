@@ -14,19 +14,13 @@ tags:
 - region/uk
 - region/europe
 - level/k12
-related_concepts:
-- '[[Evidence-Based Reform]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Alan C. K. Cheung]]'
-- '[[Robert Slavin]]'
-- '[[Chen Xie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Cheung_2021_ROE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -102,4 +96,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Cheung_2021_ROE]]
+- Cheung_2021_ROE

@@ -12,16 +12,12 @@ tags:
 - assessment
 - quantitative-methods
 - international-assessment
-related_concepts:
-- '[[Confidence Interval]]'
-- '[[Effect Size]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Meta-analysis]]'
+related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Allerup_2015_Paideia]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -36,7 +32,7 @@ updated: '2026-05-18'
 ## 教育评估中的角色
 
 
-- Rasch Measurement 使不同题目、不同学生答题表现和不同测试版本能够被转换到共同尺度，成为跨国家或跨地区比较的基础。
+- Rasch Measurement 使不同题目、不[[Tongxue|同学]]生答题表现和不同测试版本能够被转换到共同尺度，成为跨国家或跨地区比较的基础。
 - 这类分数是统计转换后的尺度分数，不是原始答题数据的直接排列；因此国际评估排名需要同时呈现估计误差，避免相邻名次被过度解释（Allerup, 2015, pp.47–48）。
 
 ## 适用场景
@@ -48,9 +44,9 @@ updated: '2026-05-18'
 ## 相关概念
 
 
-- [[Confidence Interval]] — PISA 排名呈现误差区间，使读者能够判断数值相邻的国家是否真正不同（Allerup, 2015, pp.47–48）。
+- [[Confidence Interval]] — [[PISA]] 排名呈现误差区间，使读者能够判断数值相邻的国家是否真正不同（Allerup, 2015, pp.47–48）。
 - [[Effect Size]] — Rasch 分数排名和效应量排名都可能被用于排序；如果排序只呈现点估计而缺少估计误差，相邻值差异就难以解释（Allerup, 2015, pp.47–48）。
 
 ## 来源
 
-- [[Allerup_2015_Paideia]]
+- Allerup_2015_Paideia

@@ -10,18 +10,13 @@ tags:
 - higher-education
 - student-development
 - goal-orientation
-related_concepts:
-- '[[Goal-Controlled Mode]]'
-- '[[Intuition-Dependent Mode]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Yajun Zheng]]'
-- '[[Marcia Baxter Magolda]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-08'
@@ -58,4 +53,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

@@ -11,18 +11,13 @@ tags:
 - region/denmark
 - academic-publication
 - critique
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Interpretation Community]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Thomas Aastrup Rømer]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Qvortrup_2019_NordSTEP]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -72,4 +67,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Qvortrup_2019_NordSTEP]]
+- Qvortrup_2019_NordSTEP

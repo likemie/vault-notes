@@ -8,18 +8,13 @@ type: concept
 tags:
 - region/global
 - level/k12
-related_concepts:
-- '[[International Education]]'
-- '[[International Schools]]'
-- '[[Chinese Learner]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Slethaug_2010_InternationalEducation]]'
-sources:
-- '[[Ch1_Slethaug_2010]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-17'
@@ -38,7 +33,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> 与国际学校的详细对比，见 [[International Schools#概念辨析|国际学校 > 概念辨析]]。核心区别：
+> 与国际学校的详细对比，见 国际学校 > 概念辨析。核心区别：
 > - **位置**：寄宿学校主要位于学校母国（英、澳、加）；国际学校分布于世界各地
 > - **学生流向**：寄宿学校的学生从海外返回母国就读；国际学校的学生就地就读于海外
 > - **住宿**：寄宿学校提供食宿；国际学校通常不提供
@@ -86,4 +81,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch1_Slethaug_2010]]
+- Ch1_Slethaug_2010

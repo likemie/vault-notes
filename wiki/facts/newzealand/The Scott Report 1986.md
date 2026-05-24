@@ -2,7 +2,7 @@
 title: The Scott Report 1986
 aliases:
   - 斯科特报告
-summary: "新西兰议会教育与科学选择委员会发布的教学质量调查报告，主张迫切需要教师表现测量但承认过程将\"漫长而复杂\"，建议设立大学研究单位开发可靠工具——从未落实"
+summary: "新西兰议会教育与科学选择委员会发布的教学质量调查报告，主张迫切需要教师表现测量但承认过程将“漫长而复杂“，建议设立大学研究单位开发可靠工具——从未落实"
 type: fact
 subtype: policy
 region: newzealand
@@ -12,16 +12,13 @@ tags:
 - teacher-quality
 - region/new-zealand
 - level/k12
-related_concepts:
-- '[[Performance Pay]]'
-- '[[Professional Judgment]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Snook_2009_NZJES]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -70,4 +67,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Snook_2009_NZJES]]
+- Snook_2009_NZJES

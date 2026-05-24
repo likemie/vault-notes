@@ -10,20 +10,13 @@ tags:
 - executive-function
 - cognitive-science
 - learning-science
-related_concepts:
-- '[[executive-function]]'
-- '[[cognitive-inhibition]]'
-- '[[cognitive-shifting]]'
-- '[[updating-and-monitoring]]'
-- '[[working-memory]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Akira Miyake]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Bolton_2017_ArchPsych]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -33,7 +26,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> Miyake 的执行功能统一性与多样性框架（Unity and Diversity Framework of Executive Function）提出，执行功能（[[executive-function]]）由三个基本但相互关联的成分构成，三者共同形成我们所称的执行功能（Bolton & Hattie, 2017, p.4）。
+> Miyake 的执行功能统一性与多样性框架（Unity and Diversity Framework of Executive Function）提出，执行功能（executive-function）由三个基本但相互关联的成分构成，三者共同形成我们所称的执行功能（Bolton & Hattie, 2017, p.4）。
 >
 > > "Miyake et al. (2000) were among the first to develop a comprehensive multidimensional model of EF. In particular, they created a unity and diversity framework of EF where three fundamental but correlated components were identified."（Bolton & Hattie, 2017, p.4）
 >
@@ -45,9 +38,9 @@ updated: '2026-05-18'
 > [!abstract] 理论内部结构
 > 三个基本成分为（Bolton & Hattie, 2017, p.4）：
 >
-> - **[[cognitive-inhibition|抑制（Inhibition）]]** — 抑制主导性或优势反应。在必要时故意抑制自动化或常见反应的能力
-> - **[[updating-and-monitoring|更新与监控（Updating and Monitoring）]]** — 工作记忆表征的更新与监控。动态操纵工作记忆所保持内容的能力
-> - **[[cognitive-shifting|转换（Shifting）]]** — 任务或心理集之间的切换。在多个不同任务、操作或心理集之间来回切换的能力
+> - **抑制（Inhibition）** — 抑制主导性或优势反应。在必要时故意抑制自动化或常见反应的能力
+> - **更新与监控（Updating and Monitoring）** — 工作记忆表征的更新与监控。动态操纵工作记忆所保持内容的能力
+> - **转换（Shifting）** — 任务或心理集之间的切换。在多个不同任务、操作或心理集之间来回切换的能力
 
 ## 发展脉络
 
@@ -68,9 +61,9 @@ updated: '2026-05-18'
 ## 应用领域
 
 > [!success] 应用领域
-> - [[executive-function]] — 以 Miyake 三成分模型为 EF 的核心定义框架
-> - [[piagets-theory-of-cognitive-development]] — Bolton & Hattie (2017) 使用此框架将 EF 各成分的发展轨迹与皮亚杰阶段进行对齐
+> - executive-function — 以 Miyake 三成分模型为 EF 的核心定义框架
+> - piagets-theory-of-cognitive-development — Bolton & Hattie (2017) 使用此框架将 EF 各成分的发展轨迹与皮亚杰阶段进行对齐
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
+- Bolton_2017_ArchPsych

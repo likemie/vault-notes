@@ -16,20 +16,12 @@ tags:
   - method/quantitative
   - evidence-based-education
   - causal-inference
-related_concepts:
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Implementation Fidelity]]"
+related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Randomised Controlled Trials]]"
+related_methods: []
 related_persons: []
-related_arguments:
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
-sources:
-  - "[[Ross_Morrison_2021_ROE]]"
-  - "[[Wadhwa_2024_RER]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -53,12 +45,12 @@ updated: 2026-05-23
 
 ### 反事实条件的可行性
 
-反事实可行性（Counterfactual Viability）指比较组是否能为“如果没有采用该项目会发生什么”提供可信参照。QED 和 RCT 都依赖比较组来解释项目效果，但比较组本身也有强弱：一个项目若只和低质量、低强度或缺少研究支持的对照方案比较，更容易显示优势；若和已经有效、强度较高的方案比较，效果就更难显著（Ross & Morrison, 2021, p.112）。
+反事实可行性（Counterfactual Viability）指比较组是否能为“如果没有采用该项目会发生什么”提供可信参照。QED 和 [[Randomised Controlled Trials|RCT]] 都依赖比较组来解释项目效果，但比较组本身也有强弱：一个项目若只和低质量、低强度或缺少研究支持的对照方案比较，更容易显示优势；若和已经有效、强度较高的方案比较，效果就更难显著（Ross & Morrison, 2021, p.112）。
 
 > [!example]
 > 同一个数学软件，如果对照组只是普通练习册，可能显示较大优势；如果对照组是已有证据支持的高质量小组辅导，效应量可能明显变小。这个差异不一定说明软件本身变差，而是比较条件改变了。
 
-反事实可行性也说明，证据审查不能只看“研究设计是否严格”。还需要报告对照条件的逻辑模型、使用强度、证据支持程度和实施质量，否则实践者很难判断研究效果是否能迁移到本地学校（Ross & Morrison, 2021, p.112）。
+反事实可行性也说明，证据审查不能只看“研究设计是否严格”。还需要报告对照条件的[[Logic Model|逻辑模型]]、使用强度、证据支持程度和实施质量，否则实践者很难判断研究效果是否能迁移到本地学校（Ross & Morrison, 2021, p.112）。
 
 ## 适用场景
 
@@ -83,5 +75,5 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Ross_Morrison_2021_ROE]]
-- [[Wadhwa_2024_RER]]
+- Ross_Morrison_2021_ROE
+- Wadhwa_2024_RER

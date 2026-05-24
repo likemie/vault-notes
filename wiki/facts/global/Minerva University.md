@@ -13,23 +13,13 @@ tags:
 - privatization
 - region/global
 - level/higher-ed
-related_concepts:
-- '[[Geopolitics of Knowledge]]'
-- '[[Knowledge-Based Economization]]'
-- '[[Global Education Industry]]'
-- '[[International Education Hubs]]'
-- '[[Hub and Flow Imaginaries]]'
-related_theories:
-- '[[Critical Geopolitics]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Christiane Thompson]]'
-- '[[Marcelo Parreira do Amaral]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Parreira do Amaral(Ed.)_2022_Springer]]'
-- '[[Ch3_Parreira do Amaral_2022]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -113,11 +103,11 @@ Minerva 将其颠覆性模型建立在对传统高等教育四大问题的系统
 
 ## 知识地缘政治意义
 
-Minerva University 被 [[Christiane Thompson|Thompson]] 和 [[Marcelo Parreira do Amaral|Parreira do Amaral]]（2022）选为论述[[Geopolitics of Knowledge|知识地缘政治]]的开篇案例，因为它在多个层面上集中体现了当代高等教育的空间重构逻辑：
+Minerva University 被 Thompson 和 Parreira do Amaral（2022）选为论述[[Geopolitics of Knowledge|知识地缘政治]]的开篇案例，因为它在多个层面上集中体现了当代高等教育的空间重构逻辑：
 
 - **从民族国家框架中的"脱位"**：古典大学与民族国家及其文化科学发展紧密相连——德国的洪堡大学、法国的大学校、英国的牛津剑桥、美国的赠地大学，无不深嵌于特定的国家传统之中。Minerva 则"致力于超越民族国家及其他政治框架的边界"（Thompson & Parreira do Amaral, 2022, p.7），机构不再向任何一个国家教育体系负责，学生也无需锚定在任何一个学术社区
-- **在全球政治经济场域中的"再定位"**：脱位之后，Minerva 被重新嵌入由教育科技乌托邦主义、市场营销和风险资本构成的全球政治经济场域之中。它"既位于美国又服务于'世界'，从而呈现自身为场所无涉（placeless）的存在"（Parreira do Amaral, 2022, p.48），以全球市场而非国家政策为运营参照系
-- **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的"流动"极值**：Minerva 是 Hub and Flow 想象中"流动"维度的最极端案例——机构完全脱离领土和物理空间的锚定，仅通过数字平台将周期性出现在七个全球城市的学生串联在一起。与 [[International Education Hubs|IEHs]] 代表的国家锚定式"枢纽"策略（国家主动将自身建设为区域教育中心）形成鲜明对照，两者共同展示了知识地缘政治中从"领土固着"到"完全场所无涉"的完整光谱（Parreira do Amaral, 2022, pp.43–48）
+- **在全球政治经济[[Champ|场域]]中的"再定位"**：脱位之后，Minerva 被重新嵌入由教育科技乌托邦主[[Rightness|义]]、市场营销和风险资本构成的全球政治经济场域之中。它"既位于美国又服务于'世界'，从而呈现自身为场所无涉（placeless）的存在"（Parreira do Amaral, 2022, p.48），以全球市场而非国家政策为运营参照系
+- **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的"流动"极值**：Minerva 是 Hub and [[Flow]] 想象中"流动"维度的最极端案例——机构完全脱离领土和物理空间的锚定，仅通过数字平台将周期性出现在七个全球城市的学生串联在一起。与 IEHs 代表的国家锚定式"枢纽"策略（国家主动将自身建设为区域教育中心）形成鲜明对照，两者共同展示了知识地缘政治中从"领土固着"到"完全场所无涉"的完整光谱（Parreira do Amaral, 2022, pp.43–48）
 - **地缘政治逻辑的制度化**：Minerva 展示了宏观的地缘政治想象如何在单所机构的层面被物质化和制度化——从课程设计到教学法，从商业模式到全球扩张策略，从技术平台到学生生活安排，无一不贯穿着将高等教育从国家公共事业重构为全球私人服务的深层逻辑
 - **话语实践的履行性力量**：Minerva 对自身的叙述本身就构成一种地缘政治行动——它不只是在"描述"一所新大学，而是在"制造"一个关于高等教育未来的政治想象：在这个想象中，国家边界、学科边界和物理边界都不再构成限制，唯一有效的逻辑是市场逻辑和效率逻辑
 
@@ -126,14 +116,14 @@ Minerva University 被 [[Christiane Thompson|Thompson]] 和 [[Marcelo Parreira d
 ## 相关概念
 
 - [[Geopolitics of Knowledge]] — Minerva 是知识地缘政治在机构层面物质化的典型案例
-- [[Hub and Flow Imaginaries]] — Minerva 代表 Hub and Flow 光谱中"流动"维度的极值
+- [[Hub and Flow Imaginaries]] — Minerva 代表 Hub and [[Flow]] 光谱中"流动"维度的极值
 - [[Global Education Industry]] — Minerva 是 GEI 中营利性高等教育创业的典型代表
 - [[International Education Hubs]] — IEHs 代表的国家锚定式"枢纽"策略与 Minerva 的"场所无涉"策略形成对照
-- [[Knowledge-Based Economization]] — Minerva 从课程到商业模式的全部设计均体现了知识经济化的核心逻辑
+- [[Knowledge-Based Economization]] — Minerva 从课程到商业模式的全部设计均体现了[[Knowledge-Based Economy|知识经济]]化的核心逻辑
 
 ---
 
 ## 来源
 
-- [[Parreira do Amaral(Ed.)_2022_Springer]]
-- [[Ch3_Parreira do Amaral_2022]]
+- Parreira do Amaral(Ed.)_2022_Springer
+- Ch3_Parreira do Amaral_2022

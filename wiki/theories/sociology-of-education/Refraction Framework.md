@@ -12,14 +12,11 @@ tags:
 - paradigm/sociological
 related_concepts: []
 related_theories: []
-related_methods:
-- '[[Seasonal Comparison]]'
+related_methods: []
 related_persons: []
-related_facts:
-- '[[Coleman Report 1966]]'
+related_facts: []
 related_arguments: []
-sources:
-- '[[Downey_2016_SoE]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-04'
@@ -117,4 +114,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Downey_2016_SoE]]
+- Downey_2016_SoE

@@ -10,31 +10,13 @@ tags:
 - culture-as-toolkit
 - cultural-sociology
 - paradigm/interpretivist
-related_concepts:
-- '[[Goal-Controlled Mode]]'
-- '[[Intuition-Dependent Mode]]'
-- '[[Cultural Barrier in Higher Education]]'
-- '[[Habitus]]'
-- '[[Cultural Capital]]'
-- '[[Self-Driven Mode]]'
-- '[[Opportunist Mode]]'
-- '[[Lost Mode]]'
-- '[[Value Conformist Mode]]'
-- '[[Work Meaning Schemas (Zheng)]]'
-- '[[Graduation Pathway Typology (Zheng)]]'
-related_theories:
-- '[[Dual-Process Model of Culture in Action]]'
-- '[[Pierre Bourdieu]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Ann Swidler]]'
-- '[[Yajun Zheng]]'
-- '[[Max Weber]]'
-- '[[Stephen Vaisey]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -68,13 +50,13 @@ updated: '2026-05-18'
 
 ### 与价值观驱动范式的对比
 
-工具箱范式直接挑战了文化社会学中更古老的 Weber-Parsons **价值观驱动范式**（郑雅君，2023）：
+工具箱范式直接挑战了文化社会学中更古老的 Weber-Parsons **价值观驱动范式**（[[Yajun Zheng|郑雅君]]，2023）：
 
-| 维度 | 价值观驱动范式（[[Max Weber|Weber]]-Parsons） | 工具箱范式（[[Ann Swidler|Swidler]], 1986） |
+| 维度 | 价值观驱动范式（[[Max Weber|Weber]]-Parsons） | 工具箱范式（Swidler, 1986） |
 |------|----------------------------------------|-------------------------------------|
 | **核心主张** | 理想、信仰、价值观通过塑造动机（motivation）来驱动人类行为 | 文化是一些松散的技能、风格和习惯，如同"工具箱"供人理性地选取和利用 |
 | **文化与行动的关系** | 强耦合：价值观 → 动机 → 行动目的 | 弱耦合：文化提供正当性资源（justification），理性人选取工具实现**预定目的** |
-| **行动者形象** | 被价值观驱动的人 | 灵活熟练、审时度势的"文化运用者"（users of culture） |
+| **行动者形象** | 被价值观驱动的人 | 灵活[[Shu (Familiarization)|熟]]练、审时度势的"文化运用者"（users of culture） |
 | **关键弱点** | 难以解释价值观与行动脱钩的现象 | 回避了"预定目的是从何而来的"这一根本问题 |
 
 （郑雅君，2023，引 Swidler, 1986; Weber, 2006; Parsons, 1991）
@@ -84,9 +66,9 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note]
-> - **1986 范式挑战**：[[Ann Swidler|Swidler]] 在 *ASR* 发表"Culture in Action: Symbols and Strategies"，以文化工具箱范式挑战 Weber-Parsons 价值观驱动范式的垄断地位。核心观察：人们对事物抱有的观念在很多情况下难以连贯地解释他们的行动（郑雅君，2023，引 Swidler, 1986）
+> - **1986 范式挑战**：Swidler 在 *ASR* 发表"Culture in Action: Symbols and Strategies"，以文化工具箱范式挑战 Weber-Parsons 价值观驱动范式的垄断地位。核心观察：人们对事物抱有的观念在很多情况下难以连贯地解释他们的行动（郑雅君，2023，引 Swidler, 1986）
 > - **1992 补充论证**：Sewell 在 *AJS* 上进一步论证文化图式的可迁移性和可推广性，强化了工具箱范式的理论基础（郑雅君，2023，引 Sewell, 1992）
-> - **2009 Vaisey 调和**：[[Stephen Vaisey]] 在 *AJS* 发表"Motivation and Justification"，援引认知科学双过程理论论证两种范式在**不同意识层次**上互补运作——价值观驱动范式在深层无意识层面运作，工具箱范式在浅层有意识层面运作。详见 [[Dual-Process Model of Culture in Action]]（郑雅君，2023，引 Vaisey, 2009）
+> - **2009 Vaisey 调和**：Stephen Vaisey 在 *AJS* 发表"Motivation and Justification"，援引认知科学双过程理论论证两种范式在**不同意识层次**上互补运作——价值观驱动范式在深层无意识层面运作，工具箱范式在浅层有意识层面运作。详见 [[Dual-Process Model of Culture in Action]]（郑雅君，2023，引 Vaisey, 2009）
 > - **2023 教育研究应用**：[[Yajun Zheng|郑雅君]]在《金榜题名之后》中将该理论系统应用于中国精英大学学生出路分化分析，从 Swidler 的两种生活状态出发建构了 [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 的区分（郑雅君，2023）
 
 ---
@@ -129,4 +111,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

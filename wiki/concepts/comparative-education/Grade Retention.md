@@ -14,19 +14,13 @@ tags:
   - theme/evidence-based-education
   - level/k12
   - region/global
-related_concepts:
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Grade Retention in French-Speaking Belgium]]"
-  - "[[Pact for Educational Excellence]]"
-related_arguments:
-  - "[[Argument_Dachet_2021_ROE]]"
-sources:
-  - "[[Dachet_2021_ROE]]"
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -40,7 +34,7 @@ updated: 2026-05-24
 > [!info]
 > Grade retention 指让学生重复一个已经就读过的年级，通常被学校系统用来处理学习困难或学业未达标问题。Dachet 与 Baye 在讨论法语比利时教育改革时将其界定为“让学生重复一年”的实践，并把它作为证据本位教育在既有教育制度中难以落地的典型例子（Dachet & Baye, 2021, p.165）。
 
-在证据本位教育讨论中，留级的重要性不只在于它是一项学生分流或补救措施，更在于它展示了“研究证据”和“学校惯例”之间可能长期脱节：即使已有大量研究质疑其效果，某些教育系统仍会继续依赖它来处理学生差异和失败风险（Dachet & Baye, 2021, p.165）。
+在[[Evidence-Based Education|证据本位教育]]讨论中，留级的重要性不只在于它是一项学生分流或补救措施，更在于它展示了“研究证据”和“学校惯例”之间可能长期脱节：即使已有大量研究质疑其效果，某些教育系统仍会继续依赖它来处理学生差异和失败风险（Dachet & Baye, 2021, p.165）。
 
 ## 概念辨析
 
@@ -63,7 +57,7 @@ updated: 2026-05-24
 > Dachet 与 Baye 在综述法语比利时改革背景时指出，自 1970 年代以来已有大量证据反对留级有效性；多项穷尽性和批判性文献综述没有识别出留级的正向平均效果（Dachet & Baye, 2021, pp.165, 172, 174）。
 
 > [!info]- 核心数据
-> 在[[Grade Retention in French-Speaking Belgium|法语比利时案例]]中，PISA 2015 显示 1 至 10 年级 46% 学生受到留级影响；小学平均每年级留级率约 3%，中学平均每年级约 12%；小学结束约 22.7% 学生落后同龄人，中学结束约 60% 学生落后（Dachet & Baye, 2021, pp.165, 169）。
+> 在法语比利时案例中，PISA 2015 显示 1 至 10 年级 46% 学生受到留级影响；小学平均每年级留级率约 3%，中学平均每年级约 12%；小学结束约 22.7% 学生落后同龄人，中学结束约 60% 学生落后（Dachet & Baye, 2021, pp.165, 169）。
 
 ## 争议与批评
 
@@ -80,4 +74,4 @@ updated: 2026-05-24
 
 ## 来源
 
-- [[Dachet_2021_ROE]]
+- Dachet_2021_ROE

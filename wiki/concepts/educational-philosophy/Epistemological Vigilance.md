@@ -5,22 +5,17 @@ aliases:
 summary: "Bourdieu 的认识论概念，指研究者需持续对日常语言、前科学概念和研究习惯保持批判性警觉。"
 type: concept
 tags:
-- Epistemological Vigilance
+- epistemological-vigilance
 - epistemology
-- Bourdieu
+- bourdieu
 - paradigm/critical
-related_concepts:
-- '[[Epistemological Break]]'
-related_theories:
-- '[[Pierre Bourdieu]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Clippings/Pierre Bourdieu]]'
-- '[[Gaston Bachelard]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Eacott_2015_EPT]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -69,7 +64,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs [[Epistemological Break]] — 断裂是**初始的决裂**，警觉是**持续的维护**。断裂是"转身"的动作，警觉是"不往回走"的努力
-> - vs [[Reflexivity]]（反思性） — 两者高度相关但侧重不同：反思性更广泛地指研究者对自身社会位置的审视，认识论警觉特别聚焦于**日常语言和前科学概念**的渗透问题
+> - vs Reflexivity（反思性） — 两者高度相关但侧重不同：反思性更广泛地指研究者对自身社会位置的审视，认识论警觉特别聚焦于**日常语言和前科学概念**的渗透问题
 
 ## 理论基础
 
@@ -90,4 +85,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Eacott_2015_EPT]]
+- Eacott_2015_EPT

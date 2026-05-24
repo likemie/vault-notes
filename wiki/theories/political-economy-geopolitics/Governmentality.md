@@ -9,38 +9,20 @@ aliases:
 summary: "Foucault 提出的权力分析概念_ 一种通过塑造主体自我理解而非直接强制来引导行为（conduct of conduct）的治理理性，以自我技术为运作机制"
 type: theory
 tags:
-  - Foucault
+  - foucault
   - governmentality
   - conduct-of-conduct
   - technologies-of-the-self
   - theory/poststructuralism
   - theme/governmentality
   - theme/subjectification
-related_concepts:
-  - "[[Promising Student]]"
-  - "[[Online Self-Assessment]]"
-  - "[[Digital Self]]"
-  - "[[Competitiveness in Higher Education]]"
-  - "[[Bildung]]"
-  - '[[Preemptive Governance]]'
-  - '[[Digital Optimum]]'
-  - '[[21st Century Skills and Competencies Discourse]]'
-  - '[[Geopolitics of Knowledge]]'
-  - '[[Self-Entrepreneur]]'
-  - '[[School Effectiveness]]'
-related_theories:
-  - "[[Societies of Control]]"
-related_methods: ["[[Critical Companion]]"]
+related_concepts: []
+related_theories: []
+related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Thompson_2022_Promising_Student]]"
-  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
-  - "[[Argument_Ball_2008_SR]]"
-sources:
-  - "[[Ch13_Thompson_2022]]"
-  - "[[Ch15_Zelinka_2022]]"
-  - "[[Ball_2008_SR]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-20
@@ -81,7 +63,7 @@ updated: 2026-05-23
 
 ### 自由作为治理的工具
 
-治理术的一个重要洞见是"自由"并非治理的对立面，而是治理得以运作的条件：个体在"自由选择"中进行自我管理，而这种自由的运作恰好实现了治理目标。OSA 明确宣称"不是入学考试、不影响录取"——正是这种"非强制性"使治理效果更深入：学生在没有人强迫的情况下，自愿接受匹配逻辑、自行调整学习路径（Thompson et al., 2022, pp.222–223）。
+治理术的一个重要洞见是"自由"并非治理的对立面，而是治理得以运作的条件：个体在"自由选择"中进行自我管理，而这种自由的运作恰好实现了治理目标。OSA 明确宣称"不是入学考试、不影响录取"——正是这种"非强制性"使治理效果更深入：学生在没有人强迫的情况下，自愿接受[[Matching|匹配]]逻辑、自行调整学习路径（Thompson et al., 2022, pp.222–223）。
 
 ### 主体化模式（Mode of Subjectivation）
 
@@ -90,23 +72,23 @@ updated: 2026-05-23
 - **个体并非自动服从于话语**：个体不是话语的被动承受者，而是"面对持续的、塑造其行为和决策的尝试"（Zelinka, 2022, p.254）。治理总是需要持续的运作，而非一次性的"制造"
 - **主体性的不可聚类性**：个体可以同时服从于多种话语、由多种理性所滋养，因此"主体性无法被清晰地聚类和框定"，而应被理解为"不同来源的话语实践的、暂时的和偶然的变体或交叉"（Zelinka, 2022, p.254）
 
-这一概念为分析 SCD 等全球教育话语的主体性生产提供了操作框架：批判性分析的重点不在于"发现"固定的主体类型，而在于揭示特定形式的自我理解和自我行为是如何被话语建构和嵌入的（Zelinka, 2022, pp.253-254）。
+这一概念为分析 [[21st Century Skills and Competencies Discourse|SCD]] 等全球教育话语的主体性生产提供了操作框架：批判性分析的重点不在于"发现"固定的主体类型，而在于揭示特定形式的自我理解和自我行为是如何被话语建构和嵌入的（Zelinka, 2022, pp.253-254）。
 
 ### 远距治理（Governing at a Distance）
 
-远距治理是治理术运作的空间机制：权力并不直接作用于被治理者，而是通过重塑关系、想象和话语——在"远处"组织行为。Zelinka（2022, pp.251-252）援引 Bell 和 Green（2016, p.240）将新自由主义界定为一种**理性**（rationality），它"重新想象、解释和组装人与物之间的关系以实现远距治理"。Ball（2010, p.135）则以原文强调的方式指出，新自由主义治理术"在远处组织全球教育转型"（organises the global transformation of education *at a distance*）。
+远距治理是治理术运作的空间机制：权力并不直接作用于被治理者，而是通过重塑关系、想象和话语——在"远处"组织行为。Zelinka（2022, pp.251-252）援引 Bell 和 Green（2016, p.240）将新自由主[[Rightness|义]]界定为一种**理性**（rationality），它"重新想象、解释和组装人与物之间的关系以实现远距治理"。Ball（2010, p.135）则以原文强调的方式指出，新自由主义治理术"在远处组织全球教育转型"（organises the global transformation of education *at a distance*）。
 
-远距治理的关键不在于物理距离，而在于治理**不依赖直接命令**，而是通过创造可欲的自我引导形式来操控个体。在 [[21st Century Skills and Competencies Discourse|21 世纪 SCD]] 的案例中，远距治理体现为：不被任何单一机构或政府所控制的 SCD 框架，通过界定"未来所需的关键技能"来远距塑造全球教育政策和个体行为——各国政府和个体"自愿"采纳这些框架，因为不采纳意味着在全球竞争中落后（Zelinka, 2022, pp.259-260）。
+远距治理的关键不在于物理距离，而在于治理**不依赖直接命令**，而是通过创造可欲的自我引导形式来操控个体。在 21 世纪 [[Single-Case Design (SCD)|SCD]] 的案例中，远距治理体现为：不被任何单一机构或政府所控制的 SCD 框架，通过界定"未来所需的关键技能"来远距塑造全球教育政策和个体行为——各国政府和个体"自愿"采纳这些框架，因为不采纳意味着在全球竞争中落后（Zelinka, 2022, pp.259-260）。
 
 ### 全球治理技术（Global Governmental Technology）
 
 Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘政治]]概念化为一种全球治理技术，识别出三重运作机制：
 
-1. **问题化与个体化**（problematizing and individualizing）：教育挑战被表述为 [[Fourth Industrial Revolution|VUCA]]——波动性、不确定性、复杂性、模糊性。回应方式被锁定为"让个体装备必要技能"，结构性问题被转化为个体责任（Zelinka, 2022, p.264）。
+1. **问题化与个体化**（problematizing and individualizing）：教育挑战被表述为 [[VUCA]]——波动性、不确定性、复杂性、模糊性。回应方式被锁定为"让个体装备必要技能"，结构性问题被转化为个体责任（Zelinka, 2022, p.264）。
 
-2. **授权知识生产手段**（authorizing and validating the means of knowledge-production）：全球治理术成功想象出一个空间，其中特定人群可以决定什么算作"卓越"和"创新"，以及资源应分配至何处。这强化了那些被授权定义未来进步者的权力地位，同时排斥了无法承诺于此类知识生产的人（Zelinka, 2022, pp.264-265）。
+2. **授权[[Knowledge Production|知识生产]]手段**（authorizing and validating the means of knowledge-production）：全球治理术成功想象出一个空间，其中特定人群可以决定什么算作"卓越"和"创新"，以及资源应分配至何处。这强化了那些被授权定义未来进步者的权力地位，同时排斥了无法承诺于此类知识生产的人（Zelinka, 2022, pp.264-265）。
 
-3. **主体化、区分与创造自由**（subjectivation, differentiation, and creation of liberties）：一方面推崇[[Self-Entrepreneur|自我企业家精神]]和主动性；另一方面将排除者框定为"脆弱"或"需要帮助的"——不留出拒绝或抵抗的空间。这种双重操作使治理同时涵盖"愿意者"和"不愿者"，全覆盖地塑造全球教育秩序中的主体（Zelinka, 2022, p.265）。
+3. **主体化、区分与创造自由**（subjectivation, differentiation, and creation of liberties）：一方面推崇[[Self-Entrepreneur|自我企业家]][[Jing (Refined Mastery)|精]]神和主动性；另一方面将排除者框定为"脆弱"或"需要帮助的"——不留出拒绝或抵抗的空间。这种双重操作使治理同时涵盖"愿意者"和"不愿者"，全覆盖地塑造全球教育秩序中的主体（Zelinka, 2022, p.265）。
 
 对这套全球治理技术的抵抗，Zelinka 认为起点在于质疑其根本前提：即将主体定义为"知识承载者"（knowledge-bearers）（Zelinka, 2022, p.265）。
 
@@ -118,7 +100,7 @@ Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘
 > - **1990s–2000s**：治理术分析被广泛应用于教育研究，包括终身学习治理（Olssen, 2006）、高等教育新公共管理（Dean, 2010）、国际教育政策比较研究
 > - **2008**：教育社会学史本身也可被治理术化地理解：[[Political Arithmetic]]、[[New Sociology of Education]] 和 [[School Effectiveness]] 分别把家庭、学校知识和学校组织构造成可见、可描述、可干预的政策对象（Ball, 2008, pp.651, 654-665）
 > - **2022a**：Thompson 等人将治理术应用于数字教育治理分析，结合 [[Online Self-Assessment|OSA]] 和 [[Digital Self|数字自我]] 展示治理术在算法时代的运作形态（Thompson et al., 2022, pp.220–226）
-> - **2022b**：Zelinka 将治理术分析扩展至全球尺度的知识地缘政治，将（新）[[Geopolitics of Knowledge]] 概念化为全球治理技术，以 [[21st Century Skills and Competencies Discourse|21 世纪 SCD]] 为案例揭示远距治理的三重运作机制——问题化与个体化、授权知识生产手段、通过主体化和区分创造自由（Zelinka, 2022, pp.251-265）
+> - **2022b**：Zelinka 将治理术分析扩展至全球尺度的知识地缘政治，将（新）[[Geopolitics of Knowledge]] 概念化为全球治理技术，以 21 世纪 SCD 为案例揭示远距治理的三重运作机制——问题化与个体化、授权知识生产手段、通过主体化和区分创造自由（Zelinka, 2022, pp.251-265）
 
 ## 认识论立场
 
@@ -151,6 +133,6 @@ Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘
 
 ## 来源
 
-- [[Ch13_Thompson_2022]]
-- [[Ch15_Zelinka_2022]]
-- [[Ball_2008_SR]]
+- Ch13_Thompson_2022
+- Ch15_Zelinka_2022
+- Ball_2008_SR

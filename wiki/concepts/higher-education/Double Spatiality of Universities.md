@@ -8,17 +8,13 @@ tags:
 - theme/spatiality
 - level/higher-ed
 - region/global
-related_concepts:
-- '[[Space-Making in Higher Education]]'
-- '[[Geopolitics of Knowledge]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Doreen Massey]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Marginson_2025_ROE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-12'
@@ -80,4 +76,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Marginson_2025_ROE]]
+- Marginson_2025_ROE

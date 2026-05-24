@@ -9,15 +9,12 @@ tags:
 - carnivalesque-analysis
 - qualitative-research
 - paradigm/critical
-related_concepts:
-- '[[Moral Sidestep]]'
-related_theories:
-- '[[Legitimation Theory Van Leeuwen]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Bainbridge_2022_ROE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -48,7 +45,7 @@ updated: '2026-05-18'
 > 3. **并置不同来源的数据**——将访谈数据与其他来源和场地的数据进行比较
 > 4. **以玩味态度揭示荒谬**——将政策制定者的逻辑一致地外推至其荒谬结论，从而暴露其不正当性
 >
-> Bainbridge et al.（2022）的 [[Selective Schools Expansion Fund 2018|SSEF]] 分析为此提供了具体例证：将"好学校应获扩展资金"的逻辑一致地适用于所有 [[Ofsted]] 评级良好的学校（综合学校、小学、幼儿园），计算出所需预算将从 £50M 膨胀至 £84 亿，由此暴露政策论证的选择性和不正当性（Bainbridge et al., 2022, p.18）。
+> Bainbridge et al.（2022）的 SSEF 分析为此提供了具体例证：将"好学校应获扩展资金"的逻辑一致地适用于所有 [[Ofsted]] 评级良好的学校（综合学校、小学、幼儿园），计算出所需预算将从 £50M 膨胀至 £84 亿，由此暴露政策论证的选择性和不正当性（Bainbridge et al., 2022, p.18）。
 >
 
 ## 适用场景
@@ -84,4 +81,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Bainbridge_2022_ROE]]
+- Bainbridge_2022_ROE

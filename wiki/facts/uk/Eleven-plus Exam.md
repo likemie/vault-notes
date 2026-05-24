@@ -14,18 +14,13 @@ tags:
 - grammar-schools
 - examination
 - region/uk
-related_concepts:
-- '[[Selective Education]]'
-- '[[Grammar School]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[Education and Inspections Act 2006]]'
-- '[[Selective Schools Expansion Fund 2018]]'
+related_facts: []
 related_arguments: []
-sources:
-- '[[Bainbridge_2022_ROE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -36,7 +31,7 @@ updated: '2026-05-18'
 
 11-plus（11+）考试是英国中等教育选拔制度的核心机制——学生在 11 岁小学毕业时参加的学术能力测验，成绩决定其进入[[Grammar School|文法学校]]（grammar school）还是非选拔性综合学校（secondary modern / comprehensive school）。
 
-该考试是[[Selective Education|选择性教育]]制度的实际操作工具。尽管大多数英国地区已废除 11+ 并转为综合教育体系，英格兰仍有 163 所文法学校保留此考试作为入学选拔手段（Bainbridge et al., 2022, p.3）。
+该考试是选择性教育制度的实际操作工具。尽管大多数英国地区已废除 11+ 并转为综合教育体系，英格兰仍有 163 所文法学校保留此考试作为入学选拔手段（Bainbridge et al., 2022, p.3）。
 
 "Ending the eleven-plus exam" 是综合教育运动的核心诉求之一（Bainbridge et al., 2022, p.2）。
 
@@ -44,18 +39,18 @@ updated: '2026-05-18'
 
 ## 时间线
 
-- **1944** 年 Education Act（Butler Act）确立免费中等教育三轨制——文法学校、技术学校、现代中学——11+ 考试成为分配机制
+- **1944** 年 Education Act（Butler Act）确立免费中等教育三轨制——[[Grammar School|文法学校]]、技术学校、现代中学——11+ 考试成为分配机制
 - **1960s–1970s** 大规模综合教育改革（comprehensivisation），多数地方政府废除 11+ 和文法学校
 - **1998** 年 School Standards and Framework Act：禁止建立新的文法学校
 - **2006** 年 [[Education and Inspections Act 2006]]：重申禁止新建文法学校，但允许现有 163 所继续运作和扩张
-- **2015–2019** 保守党政府推动 [[Selective Schools Expansion Fund 2018|SSEF]]，允许现有文法学校申请 £50M 额外资金扩展招生——11+ 考试因此获得新政策动力（Bainbridge et al., 2022, p.3）
+- **2015–2019** 保守党政府推动 SSEF，允许现有文法学校申请 £50M 额外资金扩展招生——11+ 考试因此获得新政策动力（Bainbridge et al., 2022, p.3）
 - **2021** 年新任教育大臣 Nadhim Zahawi 再次表示支持选择性教育（Owen, 2021，引自 Bainbridge et al., 2022, p.29）
 
 ---
 
 ## 实施情况
 
-11+ 考试主要在英格兰部分地方当局（local authorities）保留，覆盖约 163 所文法学校。考试内容通常包括数学、英语、言语推理（verbal reasoning）和非言语推理（non-verbal reasoning）。
+11+ 考试主要在英格兰部分地方当局（local authorities）保留，覆盖约 163 所[[Grammar School|文法学校]]。考试内容通常包括数学、英语、言语推理（verbal reasoning）和非言语推理（non-verbal reasoning）。
 
 **与免费校餐（Free School Meals, FSM）的关系**（Bainbridge et al., 2022, p.25, Appendix 7）：FSM 儿童进入文法学校的比例极低（仅约 3%），且这一比例在研究期间（2015–2019）未发生可感知的变化。FSM 是英国衡量社会经济弱势的标准指标，这一数据被反复用于证明 11+ 考试在实践中有利于社会经济优势群体。
 
@@ -71,7 +66,7 @@ Bainbridge et al. 指出：议会辩论中"FSM 儿童在文法学校中的低比
 
 **选择性教育的研究证据共识**（Bainbridge et al., 2022, p.10–11，综述多来源）：
 - 11+ 选拔机制维持了现有不平等——学校不反映其本地社区构成（Phillippo, 2019）
-- 无论在相对还是绝对意义上，均未增加社会流动性（Buscha et al., 2021）
+- 无论在相对还是绝对意[[Rightness|义]]上，均未增加社会流动性（Buscha et al., 2021）
 - 加剧了长期弱势儿童的社会经济成就差距（Gorard et al., 2021）
 - 对大多数学生的学业成就几乎没有影响（Lu, 2020a, 2020b）
 - 选拔性学校获得了不成比例的高收入（Rowe & Perry, 2021）
@@ -88,7 +83,7 @@ Bainbridge et al. 指出：议会辩论中"FSM 儿童在文法学校中的低比
 
 ### "社会流动性"叙事的瓦解
 
-在 2016 年社会流动性委员会报告发布前，"文法学校促进社会流动"的论述有 53 次议会提及；报告发布后骤降至 13 次。但"好学校"这一更根本的话语（以 [[Ofsted]] 评级为操作工具的[[Moral Sidestep|道德侧步]]）未被同一证据动摇（Bainbridge et al., 2022, p.25）。
+在 2016 年社会流动性委员会报告发布前，"[[Grammar School|文法学校]]促进社会流动"的论述有 53 次议会提及；报告发布后骤降至 13 次。但"好学校"这一更根本的话语（以 [[Ofsted]] 评级为操作工具的道德侧步）未被同一证据动摇（Bainbridge et al., 2022, p.25）。
 
 ### 政策反弹的持续性
 
@@ -108,4 +103,4 @@ Bainbridge et al. 指出：议会辩论中"FSM 儿童在文法学校中的低比
 
 ## 来源
 
-- [[Bainbridge_2022_ROE]]
+- Bainbridge_2022_ROE

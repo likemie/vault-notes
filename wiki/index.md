@@ -75,7 +75,7 @@ Total entries: **714**
 - [[Policy Borrowing]] — 教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念
 - [[Policy Entrepreneur]] — 在教育系统内外通过网络、合作和机会识别推动政策变化的行动者，常兼具知识传播、议程设置和组织动员功能
 - [[Pride in Learning]] — 学习成就中一种积极但文化变异显著的自我意识情感，西方以骄傲为正面情感，东亚以骄傲为双价情感——兼具正面与负面含义，以谦逊为骄傲的对立面
-- [[Sinicisation]] — 以汉文化传统为核心重新定义'中国性'的文化同化过程，通过语言替换、课程标准化和历史叙事重构将非汉群体纳入汉文化中心框架
+- [[Sinicisation]] — 以汉文化传统为核心重新定义’中国性’的文化同化过程，通过语言替换、课程标准化和历史叙事重构将非汉群体纳入汉文化中心框架
 - [[Socratic Tutoring Style]] — 欧裔美国家庭中一种以心智能力与积极情感为中心的家长辅导方式，家长像苏格拉底一样引导儿童发现自身心智的伟大
 - [[Talent Assumption]] — 西方文化中深植的信念，认为智力成就主要来源于先天禀赋而非后天努力，是nerd同伴文化的重要文化根源之一
 - [[Tall Poppy Syndrome]] — Feather 提出的社会心理现象，指人们对高成就者失败的幸灾乐祸态度和对突出个体的系统性贬低倾向
@@ -194,7 +194,7 @@ Total entries: **714**
 - [[Language Experience Approach]] — 基于学生自身口语经验生成阅读与写作材料的早期读写教学法，强调从能想、能说到能写、能读的连续发展。
 - [[Neo-Taylorism in Educational Administration]] — Taylor 科学管理原理在教育行政领域的当代复兴，用于批评以唯一正确方法、效率最大化和标准化控制组织教学与管理的倾向。
 - [[Problem-Based Learning]] — 以复杂问题驱动学习过程的教学方法，强调学生围绕真实或拟真的问题开展探究、协作和知识应用。
-- [[Revoicing]] — O'Connor 与 Michaels (1993) 提出的课堂话语策略_教师充当 animator 重铸学生话语_以突出想法的作者权并提升认知层次
+- [[Revoicing]] — O’Connor 与 Michaels (1993) 提出的课堂话语策略_教师充当 animator 重铸学生话语_以突出想法的作者权并提升认知层次
 - [[School Leadership]] — 围绕学校方向设定、人员发展、组织改进和关系建设展开的教育领导实践，用于理解学校如何组织改进、建立信任并支持学习环境。
 - [[Structured Teaching]] — 瑞典课程改革语境中的教学组织概念，强调教师领导、清晰目标、课堂管理与学生逐步发展自主学习之间的平衡。
 - [[Student-Teacher Relationship]] — 学生对师生互动支持性、信任感和被理解程度的主观感知，用于描述课堂关系质量及其对学习参与的影响。
@@ -352,7 +352,7 @@ Total entries: **714**
 
 ### Curriculum
 
-- [[Cuban's Curriculum Change Theory]] — 课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因\"国家安全\"而权重重组
+- [[Cuban's Curriculum Change Theory]] — 课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因“国家安全“而权重重组
 
 ### Educational Philosophy
 
@@ -360,7 +360,7 @@ Total entries: **714**
 - [[Critical Realism]] — Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架
 - [[Goldman's Discrimination Theory of Knowledge]] — 知识的成立依赖区分真实状态与相关替代可能状态的能力，可用于说明教育判断为何往往具有局部性、情境性与暂定性
 - [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，Larsen (2019) 以盲点和结构耦合概念批判 VL
-- [[Phenomenology]] — 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的\"现象\"概念和教育意义
+- [[Phenomenology]] — 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的“现象“概念和教育意义
 - [[Popper's Three Worlds Theory]] — 将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承
 - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
 - [[Science and Technology Studies (STS)]] — 跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念
@@ -675,7 +675,7 @@ Total entries: **714**
 - [[Gita Steiner-Khamsi]] — 美国比较教育学者，政策借用与借出政治分析代表人物，为教育研究把注意力从政策内容转向能动者、利益与流通过程提供框架。
 - [[Grover Whitehurst]] — 美国教育政策官员和研究管理者，IES 证据标准体系关键设计者，为教育研究制度化 RCT 优先级和联邦证据治理提供案例。
 - [[Herbert A. Simon]] — 美国政治学家、经济学家和认知科学家，有限理性理论创立者，为教育研究理解专业判断、决策局限与复杂系统中的选择提供基础。
-- [[Jacob Cohen]] — 美国统计学家，Cohen's d 与效应量阈值框架提出者，为教育研究提供广泛使用但也常被误读的统计语言。
+- [[Jacob Cohen]] — 美国统计学家，Cohen’s d 与效应量阈值框架提出者，为教育研究提供广泛使用但也常被误读的统计语言。
 - [[John W. Meyer]] — 美国社会学家，世界社会理论创始人与组织行动者理论代表人物，为教育研究解释全球教育扩张、制度同形与大学全球角色提供框架。
 - [[Ken Goodman]] — 美国教育学者，全语言运动奠基人和 Reading_A Psycholinguistic Guessing Game 作者，为教育研究提供与技能本位识字观对立的重要传统。
 - [[Kurt Fischer]] — 美国发展心理学家和新皮亚杰理论家，技能理论提出者，为教育研究把发展水平理解为情境化与可变表现提供模型。
@@ -693,12 +693,12 @@ Total entries: **714**
 #### Policy
 
 - [[Australian Curriculum]] — 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
-- [[Gonski Reforms]] — 2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于\"不让任何学校更糟\"条款
+- [[Gonski Reforms]] — 2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于“不让任何学校更糟“条款
 - [[Independent Public Schools (IPS) Western Australia]] — WA 州最激进的学校自主权改革，575 所学校转为 IPS 地位
 - [[Karmel Report 1973]] — 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
 - [[Local Schools Local Decisions (NSW)]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
 - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
-- [[Victorian HITS and Literacy Toolkit 2017]] — 维州教育部发布 10 项 HITS 和 Literacy Toolkit，均以 Hattie 的 VL 为首要参考，O'Connor (2020) 质疑其证据基础
+- [[Victorian HITS and Literacy Toolkit 2017]] — 维州教育部发布 10 项 HITS 和 Literacy Toolkit，均以 Hattie 的 VL 为首要参考，O’Connor (2020) 质疑其证据基础
 
 ### Belgium
 
@@ -729,9 +729,9 @@ Total entries: **714**
 
 #### Policy
 
-- [[China Basic Education Curriculum Reform 2001]] — 教育部发布基础教育课程改革纲要（试行），从\"双基\"转向\"素质教育\"、从教师中心转向学生中心教学，在大城市和偏远地区均深入推进
+- [[China Basic Education Curriculum Reform 2001]] — 教育部发布基础教育课程改革纲要（试行），从“双基“转向“素质教育“、从教师中心转向学生中心教学，在大城市和偏远地区均深入推进
 - [[China College Graduate Employment Reform 1986-1997]] — 从统包统分到双向选择的高校毕业生就业市场化改革，1986 提出→1989 批准→1994 并轨试点→1997 全国实施
-- [[Recommendation-Based Graduate Admission System]] — 1980s 中期至今的推免研究生制度：以累积学分为依据免试直升，985 院校覆盖率可达 40%+，郑雅君 (2023) 分析其对不同阶层学生的隐性要求差异，改革派与保守派在\"借鉴日本教育\"上形成阶段性共识并推动大规模借用
+- [[Recommendation-Based Graduate Admission System]] — 1980s 中期至今的推免研究生制度：以累积学分为依据免试直升，985 院校覆盖率可达 40%+，郑雅君 (2023) 分析其对不同阶层学生的隐性要求差异，改革派与保守派在“借鉴日本教育“上形成阶段性共识并推动大规模借用
 - [[Three Excellences (San Hao Sheng)]] — 中国学校年度评选的模范学生荣誉，以品德、学业、艺术/体育三方面卓越表现为标准，通过师生提名投票产生，用于为全体学生树立学习榜样
 
 ### Denmark
@@ -757,7 +757,7 @@ Total entries: **714**
 - [[EU Evidence-Informed Education Policy Initiatives]] — 2006年以来欧盟通过评价文化、知识中介网络和Eurydice支持机制推动成员国在教育决策中使用证据，但主要以指导和协调为主而非强制统一政策。
 - [[EU Key Competences for Lifelong Learning 2018]] — 2018年欧盟理事会修订的终身学习关键能力框架，将能力定义为知识、技能和态度的动态组合，并提出八项关键能力及其评估挑战。
 - [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，YOUNG_ADULLLT 项目揭示其在欧盟各地差异化实施
-- [[Europe 2020 Strategy]] — EU 2010–2020 十年战略规划，以\"智能、可持续与包容性增长\"为框架，涵盖就业、研发、气候、教育、减贫五大领域
+- [[Europe 2020 Strategy]] — EU 2010–2020 十年战略规划，以“智能、可持续与包容性增长“为框架，涵盖就业、研发、气候、教育、减贫五大领域
 - [[Horizon 2020 SSH Integration]] — EU 2014–2020 年研究框架取消社会科学与人文学科独立资助渠道，作为横向议题嵌入所有优先领域
 - [[Horizon Europe Missions]] — EU 2021–2027 年研究与创新框架的核心机制，将研究整合为五大社会挑战的使命承诺
 - [[Innovation Union]] — EU 2010–2020 旗舰政策，旨在构建区域创新生态体系，以 EUROSTAT 区域创新记分牌为核心监测工具
@@ -796,22 +796,22 @@ Total entries: **714**
 
 #### Policy
 
-- [[Australia in the Asian Century White Paper 2012]] — 澳大利亚 Henry Report：将亚洲崛起定位为\"澳大利亚的机遇\"，推动 AISRF、ACSRF 等与亚洲的研究合作
+- [[Australia in the Asian Century White Paper 2012]] — 澳大利亚 Henry Report：将亚洲崛起定位为“澳大利亚的机遇“，推动 AISRF、ACSRF 等与亚洲的研究合作
 - [[Campbell Collaboration]] — 2000年成立的社会科学系统综述组织，2007年将国际总部迁至挪威，通过综述社会、经济和教育干预研究支持证据本位政策与实践。
-- [[GATS and Trade in Education Services]] — WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映\"新帝国主义
+- [[GATS and Trade in Education Services]] — WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映“新帝国主义
 - [[OECD Improving School Leadership Project 2006]] — OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
 - [[THE Impact Ranking 2019]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
-- [[UN Sustainable Development Goals 2015]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的\"新型第三使命
+- [[UN Sustainable Development Goals 2015]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的“新型第三使命
 
 ### Hongkong
 
 #### Event
 
 - [[2012 Moral and National Education Controversy]] — 2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点
-- [[2019 Hong Kong Protests and Education]] — 2019 年反修例运动被定性为\"国家安全危机\"后，中国官媒将 LS 构建为年轻人参与抗议的\"罪魁祸首\"，触发课程替代
+- [[2019 Hong Kong Protests and Education]] — 2019 年反修例运动被定性为“国家安全危机“后，中国官媒将 LS 构建为年轻人参与抗议的“罪魁祸首“，触发课程替代
 - [[English Schools Foundation Hong Kong]] — 香港最大英语学校体系，从英国国民学校（限 10% 本地华人）转型为 40%–50% 本地华人学生，改变了学生认同与语言课程
 - [[National Security Law Impact on Hong Kong Education]] — 香港国安法(2020) 颁布后为强制国民教育提供法律框架，关闭公民社会协商空间，实现从协商式到命令式教育决策的转变
-- [[Replacement of LS by CSD 2021]] — 通识教育科在官媒攻击和国安法颁布后被\"公民与社会发展科\"取代，课程核心转向爱国主义
+- [[Replacement of LS by CSD 2021]] — 通识教育科在官媒攻击和国安法颁布后被“公民与社会发展科“取代，课程核心转向爱国主义
 - [[Symposium on International Teaching 2007]] — 2007 年 3 月 21 日香港大学文学院主办的学术会议，促进中小学与大学教育者关于中国学习者的对话，直接催生了 Ryan & Slethaug (2010) 论文集
 
 #### Policy
@@ -838,7 +838,7 @@ Total entries: **714**
 #### Event
 
 - [[Cram Schools]] — 东亚社会广泛存在的校外付费学业补习机构，在台湾、日本、韩国、香港、中国、新加坡和越南普遍存在
-- [[Sino-American Trade War (2018)]] — 中美贸易与技术转移争端，Partaken (2022) 定位为 GPK\"最好且最当下的经验案例
+- [[Sino-American Trade War (2018)]] — 中美贸易与技术转移争端，Partaken (2022) 定位为 GPK“最好且最当下的经验案例
 - [[Transnationalism and America Project SYSU]] — 岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍
 
 #### Policy
@@ -859,17 +859,17 @@ Total entries: **714**
 - [[Manaiakalani Education Trust (NZ 2011)]] — 2011 年成立的 Tamaki 社区数字学习慈善信托，从 EHSAS/ICT 集群起步，获 NEXT Foundation 资助全国规模化推广 Outreach 项目
 - [[Partnership Schools Kura Hourua (NZ 2011)]] — 新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动
 - [[Teach First New Zealand Ako Mātātupu (TFNZ 2011)]] — 2011 年启动的高成就毕业生就业型初级教师教育慈善信托，7% 接受率，与 Teach for All 全球网络和奥克兰大学合作运营
-- [[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]] — 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O'Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
+- [[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]] — 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O’Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
 - [[Visible Learning Branding and Global Influences]] — Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议
 
 #### Policy
 
 - [[Contestable School Support Services (NZ 2011)]] — 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M
 - [[Foundation North Māori and Pasifika Education Initiative (MPEI 2009)]] — Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社区提案驱动和网络识别两阶段模式改善 Māori 和 Pasifika 学生教育成果
-- [[Learning for Life Report 1989]] — Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald Grace 提议的\"critic and conscience of society\"作为大学的定义特征，后被写入新西兰法律
+- [[Learning for Life Report 1989]] — Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald Grace 提议的“critic and conscience of society“作为大学的定义特征，后被写入新西兰法律
 - [[New Zealand National Standards (2009)]] — 国家党联合政府推行的国家教育标准政策，Hattie 参与技术顾问和部长顾问组，引发激烈争议
 - [[The New Zealand Curriculum]] — 2010 年实施的 NZ 国家课程，包含八项原则（高期望、学会学习、未来焦点），允许各校设计独特学习项目，ERO 定期评估
-- [[The Scott Report 1986]] — 新西兰议会教育与科学选择委员会发布的教学质量调查报告，主张迫切需要教师表现测量但承认过程将\"漫长而复杂\"，建议设立大学研究单位开发可靠工具——从未落实
+- [[The Scott Report 1986]] — 新西兰议会教育与科学选择委员会发布的教学质量调查报告，主张迫切需要教师表现测量但承认过程将“漫长而复杂“，建议设立大学研究单位开发可靠工具——从未落实
 - [[Tomorrow's Schools Reforms (NZ 1989)]] — 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
 
 ### Russia
@@ -930,7 +930,7 @@ Total entries: **714**
 #### Event
 
 - [[A Nation at Risk 1983]] — 美国国家教育卓越委员会发布的报告，引发全球教育质量恐慌，直接触发 OECD 教育指标体系（INES/EAG）的加速建立
-- [[American Attraction to Japanese Education 1980s]] — 1980 年代美国在危机叙事与国际比较推动下持续强化\"向日本学习\"参照网络，但受联邦—州—地方分权制约未形成全国统一制度移植
+- [[American Attraction to Japanese Education 1980s]] — 1980 年代美国在危机叙事与国际比较推动下持续强化“向日本学习“参照网络，但受联邦—州—地方分权制约未形成全国统一制度移植
 - [[Best Evidence Encyclopedia (BEE)]] — 教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目
 - [[Blueprints for Healthy Youth Development]] — 多领域非营利清算中心，最高评级强调高质量研究、独立复制和 12 个月持续效果
 - [[California Class Size Reduction 1996]] — 1996 年加州大规模推行的班额缩减政策，因教师与教室供给不足暴露出试点成功经验在全州扩张中的实施条件问题
@@ -952,7 +952,7 @@ Total entries: **714**
 - [[Promising Practices Network (PPN)]] — 面向儿童与家庭的多领域非营利清算中心，因 2020 年中停止运行未进入 Wadhwa et al. (2024) 最终一致性分析
 - [[Quantum Opportunity Program (QOP)]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP 与 Eisenhower QOP 两个项目版本
 - [[Social Programs That Work (SPTW)]] — 多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库
-- [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发美国科技信心危机，Amos (2022) 将其定位为教育与地缘政治关系的关键转折点：触发 OECD 对 STEM 教育的系统性关注，建立\"教育质量→科技能力→国家竞争力\"的政策逻辑链
+- [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发美国科技信心危机，Amos (2022) 将其定位为教育与地缘政治关系的关键转折点：触发 OECD 对 STEM 教育的系统性关注，建立“教育质量→科技能力→国家竞争力“的政策逻辑链
 - [[Success for All]] — Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断
 - [[Tennessee STAR Project 1985-1989]] — 1985 至 1989 年田纳西州实施的大型班额缩减随机试验，成为教育因果识别、班级规模政策和结果外推争论中的关键案例
 - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
@@ -963,7 +963,7 @@ Total entries: **714**
 #### Policy
 
 - [[Comprehensive School Reform (CSR) Program]] — 1998 年 Obey-Porter 立法首次将联邦教育拨款与有效性证据挂钩（USD 150M→USD 310M/年），但仅 20.8% 拨款流向强证据项目
-- [[No Child Left Behind Act 2001]] — Bush 政府 ESEA 重新授权，\"科学本位研究\"出现 110 次，将实验证据标准嵌入联邦教育项目核心，ESSA (2015) 的前身
+- [[No Child Left Behind Act 2001]] — Bush 政府 ESEA 重新授权，“科学本位研究“出现 110 次，将实验证据标准嵌入联邦教育项目核心，ESSA (2015) 的前身
 - [[Students and Teachers Accessing Tomorrow (STAT)]] — 2014-2019年巴尔的摩郡公立学校分阶段推进的全学区技术整合项目，用于展示复杂教育改革中证据生成与解释的困难。
 - [[WWC SCD Pilot Standards 2010]] — Kratochwill & Hitchcock 为 IES 开发的 WWC 单一个案设计审查试行标准，含 Review Guide 和 5-3-20 规则
 
@@ -1001,8 +1001,8 @@ Total entries: **714**
 
 #### Ryan(Ed.)_2010_HKUP
 
-- [[Argument_Ryan_2010_ChineseLearner]] — Ch2 文献批判综述：西方对中国学习者\"缺陷型\"与\"优势型\"双重刻板印象的诊断，二元对立表格的建构，\"儒家价值\"归因的非实证性，2001 年中国课程改革使刻板印象过时，元文化敏感度作为替代路径
-- [[Argument_Ryan_2010_HKUP]] — 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化\"中国学习者\"概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
+- [[Argument_Ryan_2010_ChineseLearner]] — Ch2 文献批判综述：西方对中国学习者“缺陷型“与“优势型“双重刻板印象的诊断，二元对立表格的建构，“儒家价值“归因的非实证性，2001 年中国课程改革使刻板印象过时，元文化敏感度作为替代路径
+- [[Argument_Ryan_2010_HKUP]] — 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化“中国学习者“概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
 - [[Argument_Slethaug_2010_InternationalEducation]] — Ch1 背景章节：国际学校 50→3,000+(1964–2005)的爆炸增长与去国家化转型，IB 全球扩散，中国学习者多元性，国际教育师资培训系统性缺失
 
 #### 郑_2023_上海三联书店
@@ -1037,7 +1037,7 @@ Total entries: **714**
 
 #### Discourse: Studies in the Cultural Politics of Education
 
-- [[Argument_Gorur_2014_Discourse]] — 以 STS 和测量社会学框架追溯 OECD 教育指标从\"几乎不可能\"到年度常规生产的历程，论证测量是制造世界而非描述世界的生产性行为，批判因此是道德事业
+- [[Argument_Gorur_2014_Discourse]] — 以 STS 和测量社会学框架追溯 OECD 教育指标从“几乎不可能“到年度常规生产的历程，论证测量是制造世界而非描述世界的生产性行为，批判因此是道德事业
 - [[Argument_McKnight_2020_Discourse]] — 从文化政治视角对 Visible Learning 提出七点系统批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设
 
 #### ECNU Review of Education
@@ -1072,23 +1072,23 @@ Total entries: **714**
 
 #### Educational Research
 
-- [[Argument_Nelson_2017_ER]] — EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定义、知识动员四策略框架和测量挑战三个维度，提出\"肥沃的土壤\"隐喻
+- [[Argument_Nelson_2017_ER]] — EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定义、知识动员四策略框架和测量挑战三个维度，提出“肥沃的土壤“隐喻
 
 #### Educational Research and Evaluation
 
 - [[Argument_Cowen_2019_ERE]] — 以 Tullock 官僚制理论解释 EBE 的持续影响力：RCT/系统综述作为对主权者透明的过滤机制，以牺牲一线关联性为代价
-- [[Argument_Simpson_2019]] — 以\"教一个匈牙利单词\"思想实验证明效应量是试验清晰度而非教育有效性的测量，系统论证 EBE 支持者的六种防御策略
-- [[Argument_Wiliam_2019]] — ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，论证教育知识局部且临时、EBE 永远不会成功、\"什么有效\"是错误问题，提出四个决策问题框架
-- [[Argument_Wrigley_2019_ERE]] — 以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导者对\"科学\"的诉诸依赖于过分简化的民间科学观，揭示元-元分析的三级统计失真
+- [[Argument_Simpson_2019]] — 以“教一个匈牙利单词“思想实验证明效应量是试验清晰度而非教育有效性的测量，系统论证 EBE 支持者的六种防御策略
+- [[Argument_Wiliam_2019]] — ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，论证教育知识局部且临时、EBE 永远不会成功、“什么有效“是错误问题，提出四个决策问题框架
+- [[Argument_Wrigley_2019_ERE]] — 以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导者对“科学“的诉诸依赖于过分简化的民间科学观，揭示元-元分析的三级统计失真
 
 #### Educational Researcher
 
-- [[Argument_Kraft_2023_ER]] — 回应 Simpson 对效应量基准的批评，以 3,426 个教育干预 RCT 效应量显示 36% 小于 0.05，主张\"教育干预经常失败\"才是解释政策相关性的核心基准
-- [[Argument_Slavin_2002_ER]] — EBE 支持者阵营的奠基性论述：以医学类比论证教育需采用证据本位政策，提出开发-评估-推广范式和\"基于研究 vs 经评估\"的关键区分
+- [[Argument_Kraft_2023_ER]] — 回应 Simpson 对效应量基准的批评，以 3,426 个教育干预 RCT 效应量显示 36% 小于 0.05，主张“教育干预经常失败“才是解释政策相关性的核心基准
+- [[Argument_Slavin_2002_ER]] — EBE 支持者阵营的奠基性论述：以医学类比论证教育需采用证据本位政策，提出开发-评估-推广范式和“基于研究 vs 经评估“的关键区分
 
 #### European Educational Research Journal
 
-- [[Argument_Møller_2017]] — 以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越\"什么有效\"议程，提议以变革型领导力和批判性教育政策为双重分析透镜
+- [[Argument_Møller_2017]] — 以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越“什么有效“议程，提议以变革型领导力和批判性教育政策为双重分析透镜
 
 #### Evaluation Review
 
@@ -1100,13 +1100,13 @@ Total entries: **714**
 
 #### International Journal of Leadership in Education
 
-- [[Argument_Eacott_2019_IJLE]] — 以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中\"平行独白\"现象，主张以论证与反驳为学术工作的生成逻辑
+- [[Argument_Eacott_2019_IJLE]] — 以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中“平行独白“现象，主张以论证与反驳为学术工作的生成逻辑
 - [[Argument_Keddie_2020_IJLE]] — 以 Dolan 悖论框架分析 42 位澳大利亚教育利益相关者访谈，识别市场驱动的学校自主权改革的四大社会正义悖论
 
 #### International Journal of Research & Method in Education
 
-- [[Argument_Pampaka_2016_IJRME]] — IJRME 特刊导言：诊断大规模有效干预缺失与\"萎靡感\"，识别 agency 分配为核心哲学分歧，主张从\"什么有效\"转向\"什么曾经有效，在哪里，如何，对谁
-- [[Argument_Peterson_2016_IJRME]] — 以文献综述和美英 What Works 倡议对话为基础，提出以机制实验和改进网络为双重支柱的\"什么有效 2.0\"整合框架
+- [[Argument_Pampaka_2016_IJRME]] — IJRME 特刊导言：诊断大规模有效干预缺失与“萎靡感“，识别 agency 分配为核心哲学分歧，主张从“什么有效“转向“什么曾经有效，在哪里，如何，对谁
+- [[Argument_Peterson_2016_IJRME]] — 以文献综述和美英 What Works 倡议对话为基础，提出以机制实验和改进网络为双重支柱的“什么有效 2.0“整合框架
 
 #### International Review of Theoretical Psychologies
 
@@ -1123,20 +1123,20 @@ Total entries: **714**
 
 #### Journal of Education & Social Policy
 
-- [[Argument_Blass_2020_JESP]] — 以五要素框架（方法论、情境、假设、领导力、时效性）评估 Hattie VL 在澳大利亚教育政策中的误用，揭示 VL 被用作\"不改变的好借口\"而抑制教学创新，记录 Hattie 后续工作中放弃排名转向学习模型
+- [[Argument_Blass_2020_JESP]] — 以五要素框架（方法论、情境、假设、领导力、时效性）评估 Hattie VL 在澳大利亚教育政策中的误用，揭示 VL 被用作“不改变的好借口“而抑制教学创新，记录 Hattie 后续工作中放弃排名转向学习模型
 
 #### Journal of Education Policy
 
-- [[Argument_Simpson_2017_JEP]] — 以农场肥料思想实验和真实研究案例，论证效应量三大系统性偏差（比较组、范围限制、测量设计）使元分析联盟表成为\"研究设计操纵开放程度的等级\"而非教育有效性排名
+- [[Argument_Simpson_2017_JEP]] — 以农场肥料思想实验和真实研究案例，论证效应量三大系统性偏差（比较组、范围限制、测量设计）使元分析联盟表成为“研究设计操纵开放程度的等级“而非教育有效性排名
 
 #### Journal of Educational Administration and History
 
-- [[Argument_Eacott_2011_JEAH]] — 以 Bourdieu 场域/习性/doxa 框架分析 NSW 校长培养，论证其将校长建构为\"国家改革的交付者\"，提出基于\"教育问题提出与争辩\"的替代性领导习性
+- [[Argument_Eacott_2011_JEAH]] — 以 Bourdieu 场域/习性/doxa 框架分析 NSW 校长培养，论证其将校长建构为“国家改革的交付者“，提出基于“教育问题提出与争辩“的替代性领导习性
 - [[Argument_Keddie_2020_JEAH]] — 基于 42 位澳大利亚教育利益相关者访谈，论证市场驱动的学校自主权改革对校长和弱势学校的系统性不公正影响
 
 #### Journal of Educational Change
 
-- [[Argument_Zhao_2017_JEC]] — 从医学引入副作用概念，以直接教学、东亚教育体系、NCLB 三个案例论证教育中\"什么有效可能同时有害\"，提出 6 项行动建议
+- [[Argument_Zhao_2017_JEC]] — 从医学引入副作用概念，以直接教学、东亚教育体系、NCLB 三个案例论证教育中“什么有效可能同时有害“，提出 6 项行动建议
 
 #### Journal of Research on Educational Effectiveness
 
@@ -1152,8 +1152,8 @@ Total entries: **714**
 
 #### New Zealand Journal of Educational Studies
 
-- [[Argument_Grace_2010_NZJES]] — 以\"Critic and Conscience of Society\"概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了\"学术领域批评者\"与\"社会批评者与良知\"两种角色，指出 VL 排除非学校因素与该角色根本矛盾
-- [[Argument_Hattie_2010_NZJES]] — Hattie 以第一人称反思教育学者作为\"社会批评者与良知\"的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与
+- [[Argument_Grace_2010_NZJES]] — 以“Critic and Conscience of Society“概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了“学术领域批评者“与“社会批评者与良知“两种角色，指出 VL 排除非学校因素与该角色根本矛盾
+- [[Argument_Hattie_2010_NZJES]] — Hattie 以第一人称反思教育学者作为“社会批评者与良知“的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与
 - [[Argument_ONeill_2012_NZJES]] — 以 NZ Treasury 2011 年简报为案例，运用 Kreeft 实质谬误框架分析教育政策论述中证据被误用的机制，提出研究者有责任警惕和挑战基于实质谬误的公共政策辩论
 - [[Argument_Snook_2009]] — VL 最早的系统性批判之一（2009）：从方法论缺陷、效应量任意性、社会背景排除、政策误用风险五维度审查 Hattie VL，引 Dewey 知识论为基线立场
 - [[Argument_Snook_2010_NZJES]] — 对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题
@@ -1161,7 +1161,7 @@ Total entries: **714**
 #### Nordic Journal of Studies in Educational Policy
 
 - [[Argument_Knudsen_2017_NordSTEP]] — Hanne Knudsen 对 John Hattie 的深度访谈，围绕 VL 的规模化翻译、可见性与学习概念、证据与理论关系、Hattie 的多重角色四主题展开
-- [[Argument_Qvortrup_2019_NordSTEP]] — VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为\"缺失环节
+- [[Argument_Qvortrup_2019_NordSTEP]] — VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为“缺失环节
 
 #### Nordic Psychology
 
@@ -1181,15 +1181,15 @@ Total entries: **714**
 
 #### Research in Comparative and International Education
 
-- [[Argument_Rappleye_2006_RCIE]] — 提出跨国吸引力情境概念地图，区分结构／人双层推力与阻力及四种吸引力\"火花\"，回应全球化对教育转移研究的新要求
+- [[Argument_Rappleye_2006_RCIE]] — 提出跨国吸引力情境概念地图，区分结构／人双层推力与阻力及四种吸引力“火花“，回应全球化对教育转移研究的新要求
 
 #### Review of Education
 
-- [[Argument_Bainbridge_2022_ROE]] — 以 SSEF 为案例研究 UK 议会如何系统性回避选择性教育研究证据，识别\"建构型道德侧步\"：Ofsted 评级被混同为研究证据并道德化为\"好学校\"话语
+- [[Argument_Bainbridge_2022_ROE]] — 以 SSEF 为案例研究 UK 议会如何系统性回避选择性教育研究证据，识别“建构型道德侧步“：Ofsted 评级被混同为研究证据并道德化为“好学校“话语
 
 #### Review of Educational Research
 
-- [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育证据清算中心的有效性标准与项目评级一致性，发现\"evidence-based\"在清算中心语境中构念效度有限
+- [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育证据清算中心的有效性标准与项目评级一致性，发现“evidence-based“在清算中心语境中构念效度有限
 
 #### Scholarship of Teaching and Learning in Psychology
 
@@ -1197,7 +1197,7 @@ Total entries: **714**
 
 #### School Leadership & Management
 
-- [[Argument_Eacott_2017_SLM]] — 以 Callahan 为历史框架，三步骤论证澳大利亚学校领导力已屈服于 Hattie 大师崇拜，定性 VL 为 Neo-Taylorism 并宣告其为\"澳大利亚学校领导力的悲剧
+- [[Argument_Eacott_2017_SLM]] — 以 Callahan 为历史框架，三步骤论证澳大利亚学校领导力已屈服于 Hattie 大师崇拜，定性 VL 为 Neo-Taylorism 并宣告其为“澳大利亚学校领导力的悲剧
 - [[Argument_Hattie_2017_SLM]] — Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援引 Popper 证伪主义和 Said 公共知识分子传统，逐条反驳 Eacott 三项主张
 
 #### Sociology of Education
@@ -1224,7 +1224,7 @@ Total entries: **714**
 
 #### Durham University
 
-- [[Argument_Cowen_2015_CHESS]] — 通过 22 位教师访谈和文献综述，揭示 EBP 从\"什么有效\"到\"在这里有效\"的知识鸿沟，提出\"流动性而非忠实执行\"的实施框架
+- [[Argument_Cowen_2015_CHESS]] — 通过 22 位教师访谈和文献综述，揭示 EBP 从“什么有效“到“在这里有效“的知识鸿沟，提出“流动性而非忠实执行“的实施框架
 
 #### Massey University
 

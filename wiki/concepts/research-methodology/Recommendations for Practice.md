@@ -9,21 +9,13 @@ tags:
 - research-methodology
 - evidence-based-education
 - causal-inference
-related_concepts:
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Intervention Research]]'
-- '[[Non-intervention Research]]'
-- '[[Observational and Correlational Research]]'
-- '[[Qualitative Research]]'
-- '[[Mixed Method and Multi-method Research]]'
-- '[[Randomised Controlled Trials]]'
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Brady_2023_EPR]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -93,4 +85,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Brady_2023_EPR]]
+- Brady_2023_EPR

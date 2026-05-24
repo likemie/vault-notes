@@ -10,25 +10,13 @@ tags:
 - curriculum
 - measurement
 - paradigm/critical
-related_concepts:
-- '[[Phenomenon-Based Learning]]'
-- '[[Bildung]]'
-- '[[Didaktik]]'
-- '[[Epochal Key Problems]]'
-- '[[Performativity of Measurement]]'
-- '[[Complexity Reduction]]'
-- '[[Performance Indicators]]'
-- '[[Finnish National Core Curriculum 2014]]'
-- '[[SveaSus Project]]'
-related_theories:
-- '[[Phenomenology]]'
-- '[[Critical Realism]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Schaffar_2024_CogentEdu]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -85,4 +73,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Schaffar_2024_CogentEdu]]
+- Schaffar_2024_CogentEdu

@@ -15,24 +15,13 @@ tags:
 - theory/confucianism
 - theory/neo-confucianism
 - school/yangming-school
-related_concepts:
-- "[[Self-Cultivation]]"
-- "[[Ren]]"
-- "[[Junzi]]"
-- "[[Sage]]"
-- "[[Learning Virtues]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- "[[Confucius]]"
-- "[[Mencius]]"
-- "[[Zhu Xi]]"
-- "[[Jin Li]]"
+related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -46,7 +35,7 @@ updated: 2026-05-22
 > [!info]
 > 王阳明（Wang Yangming, 1472–1529），明代思想家，心学代表人物。在对程朱理学主导地位提出挑战的同时，仍坚守儒家学习的根本目的——"学以修身"（Li, 2012, p.44）。
 
-其学说的独特之处在于：将学习的动力从外在的天理转向内在的良知，将修身的途径从学术积累转向实践中的知行合一，从而将原本高远的圣人目标向普通人——包括底层百姓——开放（Li, 2012, p.44）。
+其学说的独特之处在于：将学习的动力从外在的天理转向内在的良知，将[[Self-Cultivation|修身]]的途径从学术积累转向实践中的知行合一，从而将原本高远的[[Sage|圣人]]目标向普通人——包括底层百姓——开放（Li, 2012, p.44）。
 
 ---
 
@@ -75,11 +64,11 @@ updated: 2026-05-22
 
 ### 1. 致良知：从外在的天理到内在的良知
 
-程朱学派主张学习的驱动力在于探究天理（heavenly principle）——一种外在的、需要通过格物来把握的客观原则。王阳明则追溯到孟子的四端说，主张：
+程朱学派主张学习的驱动力在于探究天理（heavenly principle）——一种外在的、需要通过格物来把握的客观原则。王阳明则追溯到[[Mencius|孟子]]的四端说，主张：
 
 > 人的"与生俱来的良知"（innate conscience, 良知）——而非天理——才是真正的治理力量（Li, 2012, p.44）。
 
-因此，学习成圣（learning to become a sage）不是去"遵循"道德原则，而是去"扩展"每个人已经拥有的内在良知（致良知）。他强调人们需要"坚守自己的先天良知，不让负面的人生境遇污染这种与生俱来的道德知觉"（Li, 2012, p.44）。
+因此，学习成[[Sage|圣]]（learning to become a sage）不是去"遵循"道德原则，而是去"扩展"每个人已经拥有的内在良知（致良知）。他强调人们需要"坚守自己的先天良知，不让负面的人生境遇污染这种与生俱来的道德知觉"（Li, 2012, p.44）。
 
 ### 2. 知行合一：从学术积累到实践融合
 
@@ -101,11 +90,11 @@ updated: 2026-05-22
 |------|----------|--------|
 | 学习动力来源 | 天理（外在） | 良知（内在） |
 | 学习路径 | 格物致知 → 读书积累 | 致良知 → 知行合一 |
-| 圣人可达性 | 理论上人人可达，但实践上重学术积累 | 无社会约束和学术门槛，面向普通人 |
+| [[Sage|圣人]]可达性 | 理论上人人可达，但实践上重学术积累 | 无社会约束和学术门槛，面向普通人 |
 | 对实践的态度 | 读书为先 | 实践与认知同等重要 |
-| 源头追溯 | 程颢、程颐 | 孟子的四端说 |
+| 源头追溯 | 程颢、程颐 | [[Mencius|孟子]]的四端说 |
 
-尽管存在这些差异，王阳明及其追随者仍然共享孔子所奠定的根本目的：学以修身（Li, 2012, p.44）。
+尽管存在这些差异，王阳明及其追随者仍然共享[[Confucius|孔子]]所奠定的根本目的：学以[[Self-Cultivation|修身]]（Li, 2012, p.44）。
 
 ---
 
@@ -136,4 +125,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

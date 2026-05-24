@@ -5,24 +5,20 @@ aliases:
   - 话语重构
   - teacher revoicing
   - O'Connor and Michaels revoicing
-summary: "O'Connor 与 Michaels (1993) 提出的课堂话语策略_教师充当 animator 重铸学生话语_以突出想法的作者权并提升认知层次"
+summary: "O’Connor 与 Michaels (1993) 提出的课堂话语策略_教师充当 animator 重铸学生话语_以突出想法的作者权并提升认知层次"
 type: concept
 tags:
   - region/western
   - theme/speaking
   - theme/classroom-discourse
   - field/instruction-pedagogy
-related_concepts:
-  - "[[Western Learner]]"
-  - "[[Listening-Oriented Learning]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
-sources:
-  - "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -79,10 +75,10 @@ updated: 2026-05-24
 这种差异根植于东亚文化对"不把想法归因于个人"的偏好——东亚课堂的焦点是学习内容本身，而非任何学生个人的智力贡献。Li 指出，这种做法的潜在好处是"实际上消除了学生之间社会比较的不利影响"（Li, 2012, p.116）。
 
 > [!tip]
-> 详见 [[Argument_Li_2012_Cambridge|Li (2012) 全书论证]]第 8 章第四步关于两套课堂话语制度化的对比拆解。
+> 详见 Li (2012) 全书论证第 8 章第四步关于两套课堂话语制度化的对比拆解。
 
 ---
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

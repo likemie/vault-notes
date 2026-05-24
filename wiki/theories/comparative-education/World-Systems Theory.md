@@ -9,19 +9,13 @@ tags:
 - region/global
 - theme/geopolitics
 - theory/political-economy
-related_concepts:
-- '[[Geopolitics of Knowledge]]'
-- '[[Knowledge Capitalism]]'
-- '[[Methodological Globalism]]'
-- '[[Semi-Autonomy of Higher Education]]'
-related_theories:
-- '[[Hegemony]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Marginson_2025_ROE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-12'
@@ -73,7 +67,7 @@ updated: '2026-05-18'
 > - **过去三十年全球政治经济不支持该理论** — 边缘并未永久停滞于欠发达状态。零和剩余的假设是虚构的——许多国家在绝对和相对意义上同时进步。中国和新加坡的大学与科学已上升至世界领先地位，而 Wallerstein 在其系列论文中坚持将中国置于边缘或半边缘（Marginson, 2025, pp. 12–13）
 > - **忽视国家尺度的相对自主性** — 国家尺度与全球尺度互动但不完全由其决定（Marginson & Xu, 2023）。中国、韩国、印度、伊朗、巴西等国的科学产出增长与政治经济的相关性各不相同，说明高等教育和科学具有相对自主的演化能力（Marginson, 2025, p. 13）
 > - **无法容纳变革** — 该理论的刚性空间性无法解释非经济领域的自主演进。但其核心洞察——全球政治经济存在不平等的权力结构——不应被完全抛弃（Marginson, 2025, p. 13）
-> - **与 [[Multiplicity (Massey)|Massey 多重性]] 的对比** — Massey 认为"总是有松散的末端"，任何权力系统都不是永久固定的；Wallerstein 则认为中心-边缘结构在资本主义框架内不可改变。二者对空间开放性的预设根本不同（Marginson, 2025, pp. 6–7, 12–13）
+> - **与 Massey 多重性 的对比** — Massey 认为"总是有松散的末端"，任何权力系统都不是永久固定的；Wallerstein 则认为中心-边缘结构在资本主义框架内不可改变。二者对空间开放性的预设根本不同（Marginson, 2025, pp. 6–7, 12–13）
 
 ---
 
@@ -95,4 +89,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Marginson_2025_ROE]]
+- Marginson_2025_ROE

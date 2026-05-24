@@ -10,21 +10,13 @@ tags:
 - spatial-policy
 - urbanization
 - region/global
-related_concepts:
-- '[[Knowledge-Based Economization]]'
-- '[[National Competitive Advantage]]'
-- '[[Hub and Flow Imaginaries]]'
-- '[[Spatial Sortings]]'
-- '[[Geopolitics of Knowledge]]'
-related_theories:
-- '[[Fixity-Motion Tension]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Sami Moisio]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Ch2_Moisio_2022]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -63,7 +55,7 @@ updated: '2026-05-18'
 ## 实证表现
 
 
-- **战略性城市化**：Moisio（2022, p.30）论证"支持创业生态系统形成的政策实际上生产了民族国家的战略性城市化"——经济爱国主义是这一过程的核心驱动力
+- **战略性城市化**：Moisio（2022, p.30）论证"支持创业生态系统形成的政策实际上生产了民族国家的战略性城市化"——经济爱国主[[Rightness|义]]是这一过程的核心驱动力
 - **冠军城市现象**：各国竞相发展"国家冠军城市或区域"——如伦敦（金融科技）、硅谷（科技）、深圳（硬件创新）——将国家资源集中于少数枢纽
 - **城市规划的重构**：大型城市日益体现国家竞争力和吸引力，城市规划从社会服务导向转向全球竞争导向（Moisio, 2022, pp.28–29）
 
@@ -86,4 +78,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch2_Moisio_2022]]
+- Ch2_Moisio_2022

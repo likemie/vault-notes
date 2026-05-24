@@ -7,33 +7,18 @@ publication_type: journal-article
 journal: New Zealand Journal of Educational Studies
 citation: 'Snook, I., O''Neill, J., Clark, J., O''Neill, A. M., & Openshaw, R. (2009). Invisible Learnings? A Commentary on John Hattie''s book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement. New Zealand Journal of Educational Studies, 44(1), 93–106.'
 tags:
-- Visible Learning
+- visible-learning
 - effect-size
 - meta-analysis
 - stance/critique
 - region/new-zealand
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Effect Size]]'
-- '[[Class Size]]'
-- '[[Performance Pay]]'
-- '[[Whole Language]]'
-- '[[Publication Bias]]'
-- '[[Argument_Hattie_2010_NZJES]]'
-- '[[Argument_Snook_2010_NZJES]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Meta-analysis]]'
-- '[[Meta-meta-analysis]]'
-related_persons:
-- '[[John Hattie]]'
-related_facts:
-- '[[Tennessee STAR Project 1985-1989]]'
+related_methods: []
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[Snook_2009_NZJES]]'
-- '[[Hattie_2010_NZJES]]'
-- '[[Snook_2010_NZJES]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -74,8 +59,8 @@ updated: '2026-05-18'
 > - 纳入研究的质量未被评估：Hattie 承认"不是一本关于研究批评的书"，但当涉及 charter schools 和 learning styles 时又选择性排除低质量研究，存在不一致（p.95）
 > - 元分析中的偏差通常不受控制：设计不良研究的元分析必然导致不可靠结论（p.96–97）
 > - [[Publication Bias|发表偏差]]：支持有利结论的研究更可能被发表和纳入元分析（p.97）
-> - 变量界定困难：如[[Whole Language|全语言教学]]的不同分类导致同一批研究的元分析结论矛盾（p.97）
-> - 班级规模效应复杂：[[Tennessee STAR Project 1985-1989|STAR 研究]]（随机实验）发现效应量达 0.62–0.66（p.100–101）；Blatchford (2003) 伦敦研究发现 Reception 年有明显效果，尤其对低能力儿童（p.101）；Murnane & Levy (1996) 证明仅减班不加教学变革无效果，但班级缩减与教学变革结合产生巨大效果（p.101–102）
+> - 变量界定困难：如全语言教学的不同分类导致同一批研究的元分析结论矛盾（p.97）
+> - 班级规模效应复杂：STAR 研究（随机实验）发现效应量达 0.62–0.66（p.100–101）；Blatchford (2003) 伦敦研究发现 Reception 年有明显效果，尤其对低能力儿童（p.101）；Murnane & Levy (1996) 证明仅减班不加教学变革无效果，但班级缩减与教学变革结合产生巨大效果（p.101–102）
 > - 绩效工资与 Hattie 自身的教师文化论述矛盾：Hattie 强调"关爱、支持的教师休息室、容忍错误、互信、共享热情"，绩效工资制度恰恰摧毁这种氛围（p.103）
 
 ## 关键引用
@@ -97,5 +82,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Snook_2009_NZJES]]
-- [[Hattie_2010_NZJES]]
+- Snook_2009_NZJES
+- Hattie_2010_NZJES

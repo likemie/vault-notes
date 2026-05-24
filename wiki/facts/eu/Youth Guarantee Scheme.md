@@ -15,22 +15,13 @@ tags:
 - policy/education
 - level/k12
 - level/higher-ed
-related_concepts:
-- '[[Theories of Policy Change]]'
-- '[[Selectivity]]'
-- '[[Performance Indicators]]'
-- '[[Network Governance]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[Europe 2020 Strategy]]'
-- '[[EU Skills Agenda]]'
-- '[[Innovation Union]]'
-related_arguments:
-- '[[Argument_Rambla_2022_Springer]]'
-sources:
-- '[[Ch10_Rambla_2022]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -110,4 +101,4 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 
 ## 来源
 
-- [[Ch10_Rambla_2022]]
+- Ch10_Rambla_2022

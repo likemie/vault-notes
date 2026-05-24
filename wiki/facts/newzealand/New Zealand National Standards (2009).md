@@ -12,20 +12,13 @@ tags:
 - national-standards
 - region/new-zealand
 - level/k12
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Professional Judgment]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-related_facts:
-- '[[Tomorrow''s Schools Reforms (NZ 1989)]]'
-- '[[Visible Learning Branding and Global Influences]]'
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[Hattie_2010_NZJES]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-06'
@@ -90,4 +83,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Hattie_2010_NZJES]]
+- Hattie_2010_NZJES

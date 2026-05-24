@@ -7,23 +7,18 @@ type: fact
 subtype: event
 region: us
 tags:
-- Blueprints
+- blueprints
 - educational-evidence-clearinghouse
 - evidence-based-education
 - youth-development
 - region/us
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Evidence-Based Education]]'
-- '[[Randomised Controlled Trials]]'
-- '[[Intent-to-Treat Analysis]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -68,4 +63,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- Wadhwa_2024_RER

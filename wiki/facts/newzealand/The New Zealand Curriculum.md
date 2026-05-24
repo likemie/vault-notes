@@ -11,17 +11,14 @@ tags:
 - region/newzealand
 - level/k12
 - curriculum
-- Visible Learning
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
+- visible-learning
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Sarbiewska_2019_JSR]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -66,4 +63,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Sarbiewska_2019_JSR]]
+- Sarbiewska_2019_JSR

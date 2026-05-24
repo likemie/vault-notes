@@ -9,25 +9,18 @@ subtype: policy
 region: us
 issuing_organization: ''
 tags:
-- What-Works-Clearinghouse
+- what-works-clearinghouse
 - single-case-design
 - evidence-standards
 - research-methodology
 - region/us
-related_concepts:
-- '[[What Works Clearinghouse (WWC)]]'
-- '[[Single-Case Design (SCD)]]'
-- '[[5-3-20 Rule]]'
-- '[[Gating Procedure]]'
-- '[[Evidence-Based Education]]'
-related_theories:
-- '[[Campbellian Validity Framework]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Hitchcock_2015_JBE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -36,7 +29,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> [[What Works Clearinghouse (WWC)]] 最初的设计标准主要针对组间设计研究（RCT 和准实验）。随着[[Single-Case Design (SCD)|单一个案设计（SCD）]]在特殊教育、学校心理学等领域的广泛使用，需要一套专门的标准来评估 SCD 研究的内部效度和外部效度（Hitchcock et al., 2015, p.460）。
+> [[What Works Clearinghouse (WWC)]] 最初的设计标准主要针对组间设计研究（RCT 和准实验）。随着单一个案设计（SCD）在特殊教育、学校心理学等领域的广泛使用，需要一套专门的标准来评估 SCD 研究的内部效度和外部效度（Hitchcock et al., 2015, p.460）。
 >
 > SCD 已被认可为产生实证证据以指导治疗创新、采纳或改进的可行方法（Horner et al., 2005; Kratochwill & Levin, 2014），因此 WWC 需要建立相应的审查基础设施。
 
@@ -151,4 +144,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Hitchcock_2015_JBE]]
+- Hitchcock_2015_JBE

@@ -10,19 +10,15 @@ tags:
 - education-researcher
 - side-effects
 - evidence-based-education
-- PISA
+- pisa
 - region/us
 - region/china
-related_concepts:
-- '[[Side Effects in Education]]'
-- '[[Direct Instruction]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Zhao_2017_JEC]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -34,7 +30,7 @@ updated: '2026-05-19'
 
 - 全名：Yong Zhao（赵勇）
 - 职位：University of Kansas Foundation Distinguished Professor，School of Education
-- 研究领域：教育政策、比较教育、教育创新、教育中的副作用
+- 研究领域：教育政策、比较教育、教育创新、[[Side Effects in Education|教育中的副作用]]
 
 ## 主要贡献
 
@@ -52,4 +48,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[Zhao_2017_JEC]]
+- Zhao_2017_JEC

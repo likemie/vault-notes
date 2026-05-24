@@ -6,24 +6,19 @@ summary: "美国教育心理学家，证据本位教育改革奠基人和 Succes
 type: person
 nationality: us
 tags:
-- Robert Slavin
+- robert-slavin
 - evidence-based-education
 - evidence-based-reform
-- Success-for-All
-- ESSA
+- success-for-all
+- essa
 - educational-psychology
 - region/us
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Evidence-Based Reform]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Grover Whitehurst]]'
+related_persons: []
 related_arguments: []
-sources:
-- '[[Slavin_2002_ER]]'
-- '[[Slavin_2019_EP]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -72,15 +67,15 @@ updated: '2026-05-19'
 - Slavin, R. E. (2017). Evidence-based reform in education. *Journal of Education for Students Placed at Risk*, 22(3), 178–184.
 - Slavin, R. E. (2008). Evidence-based reform in education: Which evidence matters? *Educational Researcher*, 37(1), 47–50.
 - Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. *Educational Researcher*, 31(7), 15–21. (2002 AERA Dewitt Wallace-Reader's Digest Distinguished Lecture)
-- Slavin, R. E., & Madden, N. A. (2013). Success for All at 27: New developments in whole-school reform. *Journal of Education for Students Placed at Risk*, 18(3–4), 169–176.
+- Slavin, R. E., & Madden, N. A. (2013). [[Success for All]] at 27: New developments in whole-school reform. *Journal of Education for Students Placed at Risk*, 18(3–4), 169–176.
 
 ## 与批判性学者的对比
 
 
-| 维度 | Slavin (EBE 支持者) | Biesta (批评者) | Cowen (批评者) |
+| 维度 | Slavin ([[Evidence-Based Education|EBE]] 支持者) | Biesta (批评者) | Cowen (批评者) |
 |------|--------------------|----------------|---------------|
 | 研究证据的角色 | 应作为教育决策的核心标准 | 从属于教育目的的价值判断 | 在制度上被利用为官僚委托工具 |
-| RCT 的地位 | 黄金标准，应最大化使用 | 无法提供确定性，只是可能性记录 | 对主权者透明的过滤机制，以牺牲一线关联性为代价 |
+| [[Randomised Controlled Trials|RCT]] 的地位 | 黄金标准，应最大化使用 | 无法提供确定性，只是可能性记录 | 对主权者透明的过滤机制，以牺牲一线关联性为代价 |
 | 核心关切 | 教育研究成果如何转化为实践影响 | 教育的目的性（teleology）被效果话语遮蔽 | EBE 的制度功能（为谁服务） |
 | 改革方向 | 加速证据生产、审查和激励采纳 | 价值先于证据，恢复教育的目的讨论 | 切断 EBE 与行政问责的捆绑，拥抱方法多元论 |
 
@@ -96,5 +91,5 @@ Slavin 的立场代表 EBE 运动**最强版本**（evidence-based, not evidence
 
 ## 来源
 
-- [[Slavin_2002_ER]]
-- [[Slavin_2019_EP]]
+- Slavin_2002_ER
+- Slavin_2019_EP

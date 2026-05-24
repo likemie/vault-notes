@@ -1,33 +1,25 @@
 ---
 title: Argument_Gorur_2014_Discourse
-summary: "以 STS 和测量社会学框架追溯 OECD 教育指标从\"几乎不可能\"到年度常规生产的历程，论证测量是制造世界而非描述世界的生产性行为，批判因此是道德事业"
+summary: "以 STS 和测量社会学框架追溯 OECD 教育指标从“几乎不可能“到年度常规生产的历程，论证测量是制造世界而非描述世界的生产性行为，批判因此是道德事业"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: 'Discourse: Studies in the Cultural Politics of Education'
 citation: 'Gorur, R. (2014). Producing calculable worlds: education at a glance. *Discourse: Studies in the Cultural Politics of Education*, 36(4), 578–595. doi: 10.1080/01596306.2015.974942'
 tags:
-- OECD
-- education indicators
-- STS
-- sociology of measurement
+- oecd
+- education-indicators
+- sts
+- sociology-of-measurement
 - performativity
-- Comparative Education
-related_concepts:
-- '[[Education at a Glance (EAG)]]'
-- '[[International Indicators of Education Systems (INES)]]'
-- '[[Sociology of Measurement]]'
-- '[[Performance Indicators]]'
-- '[[Performativity of Measurement]]'
-related_theories:
-- '[[Science and Technology Studies (STS)]]'
+- comparative-education
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Norberto Bottani]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Gorur_2014_Discourse]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -104,4 +96,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Gorur_2014_Discourse]]
+- Gorur_2014_Discourse

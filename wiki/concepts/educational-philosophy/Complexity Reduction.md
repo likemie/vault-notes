@@ -11,18 +11,13 @@ tags:
 - education-politics
 - paradigm/critical
 - region/global
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Atomisation of Knowledge and Skills]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Gert Biesta]]'
-- '[[Bruno Latour]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Biesta_2010_SPE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -117,4 +112,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Biesta_2010_SPE]]
+- Biesta_2010_SPE

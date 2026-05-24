@@ -12,42 +12,13 @@ tags:
 - transhumanism
 - posthumanism
 - higher-ed
-related_concepts:
-- '[[Transitology]]'
-- '[[Transhumanism]]'
-- '[[New Public Management]]'
-- '[[Posthumanism]]'
-- '[[Sympoiesis]]'
-- '[[Educational Technology Industry]]'
-- '[[Membership-Creating Function of Education]]'
-- '[[Ubuntu]]'
-- '[[Buen Vivir]]'
-- '[[Response-ability]]'
-- '[[Vergegenkunft]]'
-- '[[Mondialisation]]'
-- '[[SF (Haraway)]]'
-- '[[Humosity]]'
-- '[[Learning Analytics]]'
-- '[[Regional University Alliances]]'
-- '[[Knowledge-Based Economy]]'
-- '[[Sputnik Shock 1957]]'
-related_theories:
-- '[[Autopoiesis]]'
-- '[[World Society Theory]]'
-- '[[Transition Design]]'
-- '[[Nation Building through Education]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Robert Cowen]]'
-- '[[Donna Haraway]]'
-- '[[Arturo Escobar]]'
-- '[[Francisco Varela]]'
-- '[[Humberto Maturana]]'
-- '[[Julian Huxley]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Ch4_Amos_2022]]'
+sources: []
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-08'
@@ -90,7 +61,7 @@ updated: '2026-05-18'
 >
 > > 例：假设你是 18 世纪末的普鲁士官员。你的领土上住着说不同方言、信不同宗教的人。你需要他们把自己首先看作"普鲁士人"，愿意缴税、参军。你怎么做？你建立公立学校，让所有孩子学同一套课程、同一段历史、同一种"我们是谁"的叙事。这就是 Ramirez & Boli 所说的"大众教育的政治建构"。
 >
-> 这个系统的核心机制是**[[Membership-Creating Function of Education | 创造成员身份]]**（membership-creating）：教育让你"成为"某个国家的公民。但 Amos 提醒我们注意这个机制的黑暗面——它是通过**划定边界**来运作的（Amos, 2022, p.55）。公立教育的"普遍性"（universality）只延伸到国界之内。
+> 这个系统的核心机制是** 创造成员身份**（membership-creating）：教育让你"成为"某个国家的公民。但 Amos 提醒我们注意这个机制的黑暗面——它是通过**划定边界**来运作的（Amos, 2022, p.55）。公立教育的"普遍性"（universality）只延伸到国界之内。
 >
 > > 例：今天欧洲关于难民儿童入学权的争论，就是这一历史逻辑的当代回响。如果你的父母没有合法居留身份，你是否"属于"这个国家的公立教育系统？这个问题之所以如此棘手，正是因为现代教育的 DNA 里就编码了"内外之分"。（Amos, 2022, p.55）
 >
@@ -289,4 +260,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch4_Amos_2022]]
+- Ch4_Amos_2022

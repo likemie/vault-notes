@@ -6,27 +6,17 @@ summary: "哥伦比亚裔美国人类学家和设计理论家，Designs for the 
 type: person
 nationality: colombia
 tags:
-- Arturo-Escobar
+- arturo-escobar
 - design
 - pluriverse
 - decolonial
 - transition-design
-related_concepts:
-- '[[Transition Design]]'
-- '[[Mondialisation]]'
-- '[[Posthumanism]]'
-- '[[Ubuntu]]'
-- '[[Buen Vivir]]'
-related_theories:
-- '[[Autopoiesis]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Francisco Varela]]'
-- '[[Humberto Maturana]]'
-- '[[Donna Haraway]]'
+related_persons: []
 related_arguments: []
-sources:
-- '[[Ch4_Amos_2022]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -49,7 +39,7 @@ Arturo Escobar，哥伦比亚裔美国人类学家和设计理论家，以 pluri
 
 **[[Transition Design]]（转型设计）**：Escobar 以"设计"作为应对 wicked problems 的核心工具，超越单一学科或行动领域的限制。转型不是被设计出来的，而是涌现的——依赖自组织与被组织过程的混合交互（Escobar, 2018, p.152；Amos, 2022, p.61）。
 
-Escobar 援引 Irwin (2015) 的转型设计十条原则：(1) 以生命系统理论理解和应对 wicked problems；(2) 设计同时保护与修复社会和自然生态系统的解决方案；(3) 以日常生活／生活方式为设计的最根本情境；(4) 倡导基于地方、全球联网的解决方案；(5) 为不同时间视域和多重尺度设计解决方案；(6) 将现有解决方案串联为更大转型愿景的步骤；(7) 放大涌现的草根解决方案；(8) 基于最大化最广泛需求的满足物；(9) 将设计师自身心态／姿态视为设计过程的核心构成；(10) 呼吁重新整合和重新情境化多样化跨学科知识（Irwin, 2015, p.3，引自 Escobar, 2018, p.158；Amos, 2022, pp.61–62）。
+Escobar 援引 Irwin (2015) 的转型设计十条原则：(1) 以生命[[Luhmann's Systems Theory|系统理论]]理解和应对 wicked problems；(2) 设计同时保护与修复社会和自然生态系统的解决方案；(3) 以日常生活／生活方式为设计的最根本情境；(4) 倡导基于地方、全球联网的解决方案；(5) 为不同时间视域和多重尺度设计解决方案；(6) 将现有解决方案串联为更大转型愿景的步骤；(7) 放大涌现的草根解决方案；(8) 基于最大化最广泛需求的满足物；(9) 将设计师自身心态／姿态视为设计过程的核心构成；(10) 呼吁重新整合和重新情境化多样化跨学科知识（Irwin, 2015, p.3，引自 Escobar, 2018, p.158；Amos, 2022, pp.61–62）。
 
 **自我的非固化**：Escobar 援引 Varela (1999) *Ethical Know-How* 中"自我的非固化"（non-solidity of the self）概念——自我／主体是无自我的或虚拟的自我，是分布式系统经由社会交互涌现的属性。接受自我的非固化产生一种根本的关爱心态（Amos, 2022, p.63）。
 
@@ -65,7 +55,7 @@ Escobar 援引 Irwin (2015) 的转型设计十条原则：(1) 以生命系统理
 
 ## 主要贡献
 
-- [[Autopoiesis]] — Escobar 将 Maturana 和 Varela 的自创生理论延伸到社会转型设计领域，以 autopoiesis 为转型设计提供理论基础（Amos, 2022, p.61）
+- [[Autopoiesis]] — Escobar 将 Maturana 和 Varela 的自创生理论延伸到社会[[Transition Design|转型设计]]领域，以 autopoiesis 为转型设计提供理论基础（Amos, 2022, p.61）
 
 ---
 
@@ -80,4 +70,4 @@ Escobar 援引 Irwin (2015) 的转型设计十条原则：(1) 以生命系统理
 
 ## 来源
 
-- [[Ch4_Amos_2022]]
+- Ch4_Amos_2022

@@ -15,19 +15,13 @@ tags:
 - learning-outcomes
 - region/global
 - level/higher-ed
-related_concepts:
-- '[[Global Universities Rankings]]'
-- '[[Performance Indicators]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Philip Altbach]]'
-related_facts:
-- '[[Academic Ranking of World Universities (ARWU)]]'
-related_arguments:
-- '[[Argument_Boyadjieva_2022_Springer]]'
-sources:
-- '[[Ch8_Boyadjieva_2022]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -80,4 +74,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch8_Boyadjieva_2022]]
+- Ch8_Boyadjieva_2022

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+                "file": "wiki/concepts/educational-philosophy/Examined Life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Li_2012_Cambridge"
+              "title": "Examined Life"
             }
           }
         ]
@@ -189,6 +189,18 @@
   },
   "active": "1ae9539e2ff14392",
   "lastOpenFiles": [
+    "wiki/concepts/educational-philosophy/Epistemological Break.md",
+    "wiki/concepts/educational-philosophy/Complexity Reduction.md",
+    "wiki/concepts/educational-philosophy/Cargo Cult Science.md",
+    "wiki/concepts/educational-philosophy/Buen Vivir.md",
+    "wiki/concepts/educational-philosophy/Blind Spot in Observation.md",
+    "wiki/concepts/educational-philosophy/Bildung.md",
+    "wiki/arguments/reports-policy-documents/Argument_Cowen_2015_CHESS.md",
+    "books/schema-monograph-pdf.md",
+    "books/schema-monograph-epub.md",
+    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+    "scripts/__pycache__/vault_lint.cpython-312.pyc",
+    "scripts/__pycache__",
     "scripts/vault_lint.py",
     "scripts/source_record.py",
     "information/CLAUDE.md",
@@ -197,7 +209,6 @@
     "books/Li_2012_Cambridge/Li_2012_Cambridge第一章.pdf",
     "books/Li_2012_Cambridge/Li_2012_Cambridge第四章.pdf",
     "books/Li_2012_Cambridge/Li_2012_Cambridge第六章.pdf",
-    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "wiki/persons/switzerland/Jean Piaget.md",
     "scripts/wiki_linker.py",
     "wiki/persons/switzerland/Norberto Bottani.md",
@@ -214,17 +225,6 @@
     "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "wiki/concepts/comparative-education/Grade Retention.md",
     "wiki/facts/belgium/Grade Retention in French-Speaking Belgium.md",
-    "wiki/facts/belgium/French-Speaking Belgium Education System.md",
-    "wiki/concepts/research-methodology/Inclusive Evidence Validation Typology.md",
-    "wiki/concepts/instruction-pedagogy/Devil's Advocate.md",
-    "wiki/concepts/communication-discourse/Grice's Conversational Maxims.md",
-    "wiki/concepts/comparative-education/Listening-Oriented Learning.md",
-    "wiki/concepts/instruction-pedagogy/Revoicing.md",
-    "books/Li_2012_Cambridge/chapters/ch08_The_Devils_Advocate_and_the_Reluctant_Speaker.txt",
-    "books/Li_2012_Cambridge/Argument_Li_2012_Cambridge.pdf",
-    "raw/Argument_Li_2012_Cambridge第八章.pdf",
-    "wiki/methods/qualitative/Mother-Child Conversation (MCC).md",
-    "wiki/concepts/comparative-education/Cognitive Source.md",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/iShot_2026-05-23_15.07.28.png",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",

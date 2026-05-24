@@ -10,20 +10,13 @@ tags:
   - theme/educational-inequality
   - region/uk
   - method/quantitative
-related_concepts:
-  - "[[New Sociology of Education]]"
-  - "[[School Effectiveness]]"
-  - "[[Horizontal Knowledge Structure]]"
-related_theories:
-  - "[[Governmentality]]"
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-  - "[[Stephen Ball]]"
+related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Ball_2008_SR]]"
-sources:
-  - "[[Ball_2008_SR]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -52,7 +45,7 @@ updated: 2026-05-23
 ## 治理含义
 
 > [!warning] 知识与人口管理
-> 政治算术与优生学共享“人口是国家问题”的前提，但二者治理方式不同。优生学倾向于直接作用于身体和生育实践；政治算术则通过教育制度、教师专业知识和福利干预来管理人口能力。因此，它既是反优生学的社会学传统，也是把家庭、阶级和教育机会转化为政策对象的 [[Governmentality|治理]] 知识技术（Ball, 2008, pp.654-655）。
+> 政治算术与优生学共享“人口是国家问题”的前提，但二者治理方式不同。优生学倾向于直接作用于身体和生育实践；政治算术则通过教育制度、教师专业知识和福利干预来管理人口能力。因此，它既是反优生学的社会学传统，也是把家庭、阶级和教育机会转化为政策对象的 治理 知识技术（Ball, 2008, pp.654-655）。
 
 ## 概念辨析
 
@@ -75,4 +68,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Ball_2008_SR]]
+- Ball_2008_SR

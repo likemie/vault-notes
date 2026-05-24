@@ -10,26 +10,13 @@ tags:
 - student-engagement
 - higher-education
 - level/higher-ed
-related_concepts:
-- '[[Academic Engagement]]'
-- '[[Student Engagement]]'
-- '[[Student Involvement]]'
-- '[[Academic and Social Integration]]'
-- '[[Goal-Controlled Mode]]'
-- '[[Intuition-Dependent Mode]]'
-- '[[Employability]]'
-- '[[Economy of Experience]]'
-- '[[Cultural Barrier in Higher Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[George Kuh]]'
-- '[[Vincent Tinto]]'
-- '[[Phillip Brown]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -43,12 +30,12 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 社会性投入（Social Engagement）是[[Student Engagement|学生投入理论]]的两大核心维度之一，指学生向大学中人际互动、课外活动、职业探索和社会融入等方面的教育性实践活动投入的时间和精力——包括加入学生组织与社团、参与实习和志愿服务、与教师和同伴建立关系等（郑雅君，2023）。在[[Yajun Zheng|郑雅君]]（2023）的"大学过程"分析框架中，社会性投入与[[Academic Engagement|学业投入]]并列构成"投入过程"的两大分析轴。
+> 社会性投入（Social Engagement）是学生投入理论的两大核心维度之一，指学生向大学中人际互动、课外活动、职业探索和社会融入等方面的教育性实践活动投入的时间和精力——包括加入学生组织与社团、参与实习和志愿服务、与教师和同伴建立关系等（郑雅君，2023）。在[[Yajun Zheng|郑雅君]]（2023）的"大学过程"分析框架中，社会性投入与[[Academic Engagement|学业投入]]并列构成"投入过程"的两大分析轴。
 
 > [!quote]
 > "学业投入（academic integration/engagement）与社会性投入（social integration/engagement）一般被认为是学生的投入中促进自身发展的两个最重要方面"（郑雅君，2023）
 
-社会性投入之所以重要，不仅因为它是融入大学社交环境的关键，更因为在知识经济时代，它已成为积累[[Employability|就业力]]和[[Economy of Experience|履历资本]]的核心途径——毕业证书只是敲门砖，社会性投入中锻造的软技能和职业网络才是区分求职者的关键（郑雅君，2023，引 Brown & Hesketh, 2003）。
+社会性投入之所以重要，不仅因为它是融入大学社交环境的关键，更因为在[[Knowledge-Based Economy|知识经济]]时代，它已成为积累[[Employability|就业力]]和[[Economy of Experience|履历资本]]的核心途径——毕业证书只是敲门砖，社会性投入中锻造的软技能和职业网络才是区分求职者的关键（郑雅君，2023，引 Brown & Hesketh, 2003）。
 
 ---
 
@@ -63,9 +50,9 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]
-> - **1993 社交融入**：[[Vincent Tinto|Tinto]] 在[[Academic and Social Integration|融入理论]]中提出社交融入（Social Integration），定义为学生发现大学社交环境与自身偏好相协调的程度（郑雅君，2023，引 Tinto, 1993）
-> - **1991 行为操作化**：[[George Kuh|Kuh]] 在[[Student Engagement]]中将其操作化为可观察的行为指标——课外活动、学生组织、实习、同伴交往等（郑雅君，2023，引 Kuh, 1991）
-> - **2003 就业力转向**：[[Phillip Brown|Brown]] & Hesketh 将社会性投入与[[Employability|就业力]]关联——在知识经济时代，社会性投入中锻造的软技能和职业网络成为区分求职者的关键（郑雅君，2023，引 Brown & Hesketh, 2003, 2004）
+> - **1993 社交融入**：Tinto 在融入理论中提出社交融入（Social Integration），定义为学生发现大学社交环境与自身偏好相协调的程度（郑雅君，2023，引 Tinto, 1993）
+> - **1991 行为操作化**：Kuh 在[[Student Engagement]]中将其操作化为可观察的行为指标——课外活动、学生组织、实习、同伴交往等（郑雅君，2023，引 Kuh, 1991）
+> - **2003 就业力转向**：Brown & Hesketh 将社会性投入与[[Employability|就业力]]关联——在知识经济时代，社会性投入中锻造的软技能和职业网络成为区分求职者的关键（郑雅君，2023，引 Brown & Hesketh, 2003, 2004）
 > - **2023 中国研究深化**：[[Yajun Zheng|郑雅君]]揭示社会性投入在两种[[Habitus|习性]]模式下的系统性差异——目标掌控者视其为职业锚定机制，直觉依赖者习惯性忽略——且社会性投入可能是触发模式转换的**初始杠杆**（郑雅君，2023）
 
 ---
@@ -123,4 +110,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

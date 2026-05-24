@@ -10,36 +10,13 @@ tags:
 - higher-education
 - region/china
 - level/higher-ed
-related_concepts:
-- '[[Goal-Controlled Mode]]'
-- '[[Cultural Barrier in Higher Education]]'
-- '[[Habitus]]'
-- '[[Cultural Capital]]'
-- '[[Champ]]'
-- '[[Academic and Social Integration]]'
-- '[[Student Engagement]]'
-- '[[Academic Engagement]]'
-- '[[Social Engagement]]'
-- '[[Lost Mode]]'
-- '[[Value Conformist Mode]]'
-- '[[Graduation Pathway Typology (Zheng)]]'
-- '[[Cultural Disembedding]]'
-- '[[Cultural Disorientation]]'
-- '[[The Shock of the Elite]]'
-- '[[Self-Authorship]]'
-related_theories:
-- '[[Pierre Bourdieu]]'
-- '[[Culture as Toolkit]]'
-- '[[Dual-Process Model of Culture in Action]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Yajun Zheng]]'
-- '[[Ann Swidler]]'
-- '[[Marcia Baxter Magolda]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -58,7 +35,7 @@ updated: '2026-05-18'
 > [!quote]
 > "直觉依赖模式下的大学生则从未见过迷宫的地图，对其中隐含的规则也不甚了了，更谈不上提前规划路线，因而更可能在里面绕弯子"（郑雅君，2023）
 
-该模式在低社会阶层家庭出身的大学生中更为普遍，是阶层[[Habitus|习性]]在高等教育场域中的另一种表达形式。
+该模式在低社会阶层家庭出身的大学生中更为普遍，是阶层[[Habitus|习性]]在高等教育[[Champ|场域]]中的另一种表达形式。
 
 ---
 
@@ -87,7 +64,7 @@ updated: '2026-05-18'
 > - **对场域规则缺乏认知**：对精英大学中不同毕业出路所需的条件、准备节奏和兑换机制缺乏了解，处于"去陌生化"尚未完成的状态。不少学生的毕业出路更恰当地说是"被选择"——在全无计划的情形下临时抓住一个恰好够得着的机会（郑雅君，2023）
 > - **被动性与无意识选择**：倾向于将"好学生"等同于"好成绩"，将大量时间投入课业学习，却忽视就业市场更看重的"软"实力积累（实习经历、人际网络、研究经验等）（郑雅君，2023）
 > - **阶层化习性的产物**：该模式反映弱势阶层家庭对高等教育系统的认知局限——父母缺乏大学经验，无法向子女传递隐性规则和文化技能。弱势阶层的父母放手是一种"无奈"而非"策略"，他们"没有能力和见识去参与"子女的重大教育决策（郑雅君，2023）
-> - **习性的场域错置**：弱势阶层学生进入精英大学后经历[[The Shock of the Elite|精英休克]]——原有[[Habitus]]无法驾驭新的精英场域，新场域所要求的习性和文化技能又不具备，陷入"一种不清楚自己是谁、将要成为谁的模糊的位置感"（郑雅君，2023，引 Reay, 2001）
+> - **习性的场域错置**：弱势阶层学生进入精英大学后经历精英休克——原有[[Habitus]]无法驾驭新的精英场域，新场域所要求的习性和文化技能又不具备，陷入"一种不清楚自己是谁、将要成为谁的模糊的位置感"（郑雅君，2023，引 Reay, 2001）
 
 ---
 
@@ -136,4 +113,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

@@ -6,17 +6,15 @@ summary: "德国教育学家，一般教育学代表人物和 Bildung/Erziehung 
 type: person
 nationality: germany
 tags:
-- Dietrich Benner
-- paradigm/Bildung
+- dietrich-benner
+- paradigm/bildung
 - region/germany
-related_concepts:
-- '[[Bildung]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Sarbiewska_2019_JSR]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -67,4 +65,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[Sarbiewska_2019_JSR]]
+- Sarbiewska_2019_JSR

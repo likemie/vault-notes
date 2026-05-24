@@ -10,22 +10,13 @@ tags:
 - theme/spatiality
 - level/higher-ed
 - region/global
-related_concepts:
-- '[[Methodological Nationalism]]'
-- '[[Methodological Globalism]]'
-- '[[Double Spatiality of Universities]]'
-- '[[Space-Making in Higher Education]]'
-- '[[Geopolitics of Knowledge]]'
-related_theories:
-- '[[World-Systems Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Doreen Massey]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Marginson_2025_ROE]]'
-sources:
-- '[[Marginson_2025_ROE]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -84,7 +75,7 @@ updated: '2026-05-18'
 > [!success]
 > - "国家科学 vs 全球科学"的对比直接验证了尺度的不可化约性：两种科学系统有完全不同的规范中心——前者以国家机构为中心，后者以期刊和引用网络为中心——但同一批科学家同时参与两者（Marginson, 2025, pp. 8–9）
 > - 2018–2024 年中美关系紧张期间，中美科学家联合发表数量依然巨大——科学家在全球尺度上的合作行为不完全随国家尺度上政治关系的波动而变化，验证了不同尺度的半自主运作（Marginson, 2025, p. 11）
-> - [[Internationalization of Higher Education#全球地缘政治的两阶段演变|四个国家的国家-全球协同模式]] 展示了尺度协同的多样性：美国靠人才虹吸、英国靠国际学费替代公共拨款、澳大利亚靠国际学生费用资助科研、中国靠国家投资——四种不同的国家-全球尺度连接机制（Marginson, 2025, pp. 17–20）
+> - 四个国家的国家-全球协同模式 展示了尺度协同的多样性：美国靠人才虹吸、英国靠国际学费替代公共拨款、澳大利亚靠国际学生费用资助科研、中国靠国家投资——四种不同的国家-全球尺度连接机制（Marginson, 2025, pp. 17–20）
 
 ---
 
@@ -98,4 +89,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Marginson_2025_ROE]]
+- Marginson_2025_ROE

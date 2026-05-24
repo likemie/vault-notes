@@ -16,26 +16,13 @@ tags:
 - theme/education-consulting
 - theme/organisational-history
 - source/book
-related_concepts:
-- '[[Educational Management Organisation (EMO)]]'
-- '[[Network Governance]]'
-- '[[Venture Philanthropy]]'
-- '[[Visible Learning]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-related_facts:
-- '[[Tomorrow''s Schools Reforms (NZ 1989)]]'
-- '[[Contestable School Support Services (NZ 2011)]]'
-- '[[Jerudong International School Establishment (Brunei 1997)]]'
-- '[[Visible Learning Branding and Global Influences]]'
-related_arguments:
-- '[[Argument_Bates_2017_CognitionEducationTrust]]'
-sources:
-- '[[Bates_2017_CognitionEducationTrust]]'
-- '[[ONeill_2016_Report]]'
-- '[[Johnson_2023_CE]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-23'
@@ -115,6 +102,6 @@ updated: '2026-05-23'
 
 ## 来源
 
-- [[Bates_2017_CognitionEducationTrust]]
-- [[ONeill_2016_Report]]
-- [[Johnson_2023_CE]]
+- Bates_2017_CognitionEducationTrust
+- ONeill_2016_Report
+- Johnson_2023_CE

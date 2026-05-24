@@ -11,20 +11,13 @@ tags:
 - level/adult
 - region/global
 - subject/comparative-education
-related_concepts:
-- '[[Corporate Education]]'
-- '[[Further Education]]'
-- '[[Global Education Industry]]'
-- '[[Varieties of Capitalism]]'
-related_theories:
-- '[[Institutional Isomorphism]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Hartmann_2022_CorporateEducation]]'
-sources:
-- '[[Ch11_Hartmann_2022]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-18'
@@ -53,7 +46,7 @@ updated: '2026-05-18'
 
 - **特征**：中央学习单元，课程高度标准化，标准化程度直接映射公司产品和服务的标准化程度
 - **规范扩散方式**：自上而下的强制型同构为主——总部制定统一流程，各地分支照章执行
-- **典型案例**：[[McDonald's Hamburger University]]（麦当劳汉堡大学）——全球每一家麦当劳的操作流程和培训内容完全一致
+- **典型案例**：McDonald's Hamburger University（麦当劳汉堡大学）——全球每一家麦当劳的操作流程和培训内容完全一致
 - **适用的 MNC 类型**：国际型 MNCs（高整合、低本地响应），总部多位于美国等自由市场经济体（LMEs），以高度标准化的"重磅炸弹"产品（如 blockbuster 药物）为特征（Hartmann, 2022, pp.187–188）
 
 ### 学院型（College）— 对应跨国型 MNCs
@@ -93,7 +86,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - Apple University — 高级研究院型典型案例，模仿常春藤，由前耶鲁院长领导，直接向 CEO 汇报（Hartmann, 2022, p.189）
-> - [[McDonald's Hamburger University]] — 学校型典型案例，高度标准化与全球合规（Hartmann, 2022, p.186）
+> - McDonald's Hamburger University — 学校型典型案例，高度标准化与全球合规（Hartmann, 2022, p.186）
 > - Mars Corporate University — 学院型典型案例，以对齐策略推进公司整体转型（Hartmann, 2022, p.186）
 > - Microsoft 认证体系 — 通过 IPR 排他性授权培训中心形成全球标准化网络，规范扩散近乎强制型同构。详见 [[Corporate Education]] 中的分析（Hartmann, 2022, pp.192–193）
 > - Mercer — 全球最大人力资源咨询公司之一，22,000+ 员工、140+ 国家，提供广泛 HRM 培训，代表外包策略中的咨询公司模式（Hartmann, 2022, p.191）
@@ -112,4 +105,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch11_Hartmann_2022]]
+- Ch11_Hartmann_2022

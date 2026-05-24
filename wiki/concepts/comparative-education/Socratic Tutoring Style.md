@@ -11,22 +11,13 @@ tags:
   - theme/parenting
   - theme/socialization
   - region/west
-related_concepts:
-  - "[[Confucian Tutoring Style]]"
-  - "[[Cognitive Source]]"
-  - "[[Learning Virtues]]"
-  - "[[Pride in Learning]]"
-  - "[[Western Learner]]"
-
-  - "[[MCC Discourse Analysis Examples]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
-sources:
-  - "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -50,10 +41,10 @@ updated: 2026-05-24
 
 ### 认知来源：心智（mental source）
 
-欧裔美国母亲在引导儿童思考学习时，持续调用"心智"作为**认知来源**（cognitive source）——从心智、智力、思维过程的角度概念化学习，以"聪明人怎么做""你的心智能做到什么"等文化共识为合法性资源（Li, 2012）。关于"来源"概念的两层含义及其与心理框架、因果归因的区分，详见 [[Cognitive Source]]。
+欧裔美国母亲在引导儿童思考学习时，持续调用"心智"作为**认知来源**（cognitive source）——从心智、智力、思维过程的角度概念化学习，以"聪明人怎么做""你的心智能做到什么"等文化共识为合法性资源（Li, 2012）。关于"来源"概念的两层含[[Rightness|义]]及其与心理框架、因果归因的区分，详见 [[Cognitive Source]]。
 
 > [!example]
-> 一位母亲对七岁儿子说："你知道这就是聪明人做的事——聪明的成年人也是这样"。另一位母亲引导女儿："当你做了研究，你就武装了所需的知识"。完整对话与 Li 的分析见 [[MCC Discourse Analysis Examples#示例 7：EA 母亲的认知来源 — 心智|MCC 示例 7–8]]。
+> 一位母亲对七岁儿子说："你知道这就是聪明人做的事——聪明的成年人也是这样"。另一位母亲引导女儿："当你做了研究，你就武装了所需的知识"。完整对话与 Li 的分析见 MCC 示例 7–8。
 
 ### 因果归因：心智的效力（mind potency）
 
@@ -76,7 +67,7 @@ updated: 2026-05-24
 
 **学习过程中的情感——兴趣与乐趣（interest and fun）**：母亲持续引导儿童将学习与享受联系起来。典型做法包括将抽象学习内容（如算术）转化为儿童感兴趣的情境（如青蛙故事），以及反复追问"你享受这个吗？""这样不是更有趣吗？"（Li, 2012）。
 
-**成就情感——骄傲（pride）**：母亲引导儿童为自己的成就感到骄傲。不仅母亲表达骄傲，还明确要求儿童"你也应该为自己感到骄傲"。
+**成就情感——[[Pride in Learning|骄傲]]（pride）**：母亲引导儿童为自己的成就感到骄傲。不仅母亲表达骄傲，还明确要求儿童"你也应该为自己感到骄傲"。
 
 ---
 ## 实证发现
@@ -109,4 +100,4 @@ updated: 2026-05-24
 ---
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

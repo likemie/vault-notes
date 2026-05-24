@@ -34,8 +34,8 @@ Total entries: **97**
 
 ### Ryan(Ed.)_2010_HKUP
 
-- [[Argument_Ryan_2010_ChineseLearner]] — Ch2 文献批判综述：西方对中国学习者\"缺陷型\"与\"优势型\"双重刻板印象的诊断，二元对立表格的建构，\"儒家价值\"归因的非实证性，2001 年中国课程改革使刻板印象过时，元文化敏感度作为替代路径
-- [[Argument_Ryan_2010_HKUP]] — 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化\"中国学习者\"概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
+- [[Argument_Ryan_2010_ChineseLearner]] — Ch2 文献批判综述：西方对中国学习者“缺陷型“与“优势型“双重刻板印象的诊断，二元对立表格的建构，“儒家价值“归因的非实证性，2001 年中国课程改革使刻板印象过时，元文化敏感度作为替代路径
+- [[Argument_Ryan_2010_HKUP]] — 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化“中国学习者“概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
 - [[Argument_Slethaug_2010_InternationalEducation]] — Ch1 背景章节：国际学校 50→3,000+(1964–2005)的爆炸增长与去国家化转型，IB 全球扩散，中国学习者多元性，国际教育师资培训系统性缺失
 
 ### 郑_2023_上海三联书店
@@ -70,7 +70,7 @@ Total entries: **97**
 
 ### Discourse: Studies in the Cultural Politics of Education
 
-- [[Argument_Gorur_2014_Discourse]] — 以 STS 和测量社会学框架追溯 OECD 教育指标从\"几乎不可能\"到年度常规生产的历程，论证测量是制造世界而非描述世界的生产性行为，批判因此是道德事业
+- [[Argument_Gorur_2014_Discourse]] — 以 STS 和测量社会学框架追溯 OECD 教育指标从“几乎不可能“到年度常规生产的历程，论证测量是制造世界而非描述世界的生产性行为，批判因此是道德事业
 - [[Argument_McKnight_2020_Discourse]] — 从文化政治视角对 Visible Learning 提出七点系统批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设
 
 ### ECNU Review of Education
@@ -105,23 +105,23 @@ Total entries: **97**
 
 ### Educational Research
 
-- [[Argument_Nelson_2017_ER]] — EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定义、知识动员四策略框架和测量挑战三个维度，提出\"肥沃的土壤\"隐喻
+- [[Argument_Nelson_2017_ER]] — EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定义、知识动员四策略框架和测量挑战三个维度，提出“肥沃的土壤“隐喻
 
 ### Educational Research and Evaluation
 
 - [[Argument_Cowen_2019_ERE]] — 以 Tullock 官僚制理论解释 EBE 的持续影响力：RCT/系统综述作为对主权者透明的过滤机制，以牺牲一线关联性为代价
-- [[Argument_Simpson_2019]] — 以\"教一个匈牙利单词\"思想实验证明效应量是试验清晰度而非教育有效性的测量，系统论证 EBE 支持者的六种防御策略
-- [[Argument_Wiliam_2019]] — ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，论证教育知识局部且临时、EBE 永远不会成功、\"什么有效\"是错误问题，提出四个决策问题框架
-- [[Argument_Wrigley_2019_ERE]] — 以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导者对\"科学\"的诉诸依赖于过分简化的民间科学观，揭示元-元分析的三级统计失真
+- [[Argument_Simpson_2019]] — 以“教一个匈牙利单词“思想实验证明效应量是试验清晰度而非教育有效性的测量，系统论证 EBE 支持者的六种防御策略
+- [[Argument_Wiliam_2019]] — ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，论证教育知识局部且临时、EBE 永远不会成功、“什么有效“是错误问题，提出四个决策问题框架
+- [[Argument_Wrigley_2019_ERE]] — 以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导者对“科学“的诉诸依赖于过分简化的民间科学观，揭示元-元分析的三级统计失真
 
 ### Educational Researcher
 
-- [[Argument_Kraft_2023_ER]] — 回应 Simpson 对效应量基准的批评，以 3,426 个教育干预 RCT 效应量显示 36% 小于 0.05，主张\"教育干预经常失败\"才是解释政策相关性的核心基准
-- [[Argument_Slavin_2002_ER]] — EBE 支持者阵营的奠基性论述：以医学类比论证教育需采用证据本位政策，提出开发-评估-推广范式和\"基于研究 vs 经评估\"的关键区分
+- [[Argument_Kraft_2023_ER]] — 回应 Simpson 对效应量基准的批评，以 3,426 个教育干预 RCT 效应量显示 36% 小于 0.05，主张“教育干预经常失败“才是解释政策相关性的核心基准
+- [[Argument_Slavin_2002_ER]] — EBE 支持者阵营的奠基性论述：以医学类比论证教育需采用证据本位政策，提出开发-评估-推广范式和“基于研究 vs 经评估“的关键区分
 
 ### European Educational Research Journal
 
-- [[Argument_Møller_2017]] — 以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越\"什么有效\"议程，提议以变革型领导力和批判性教育政策为双重分析透镜
+- [[Argument_Møller_2017]] — 以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越“什么有效“议程，提议以变革型领导力和批判性教育政策为双重分析透镜
 
 ### Evaluation Review
 
@@ -133,13 +133,13 @@ Total entries: **97**
 
 ### International Journal of Leadership in Education
 
-- [[Argument_Eacott_2019_IJLE]] — 以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中\"平行独白\"现象，主张以论证与反驳为学术工作的生成逻辑
+- [[Argument_Eacott_2019_IJLE]] — 以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中“平行独白“现象，主张以论证与反驳为学术工作的生成逻辑
 - [[Argument_Keddie_2020_IJLE]] — 以 Dolan 悖论框架分析 42 位澳大利亚教育利益相关者访谈，识别市场驱动的学校自主权改革的四大社会正义悖论
 
 ### International Journal of Research & Method in Education
 
-- [[Argument_Pampaka_2016_IJRME]] — IJRME 特刊导言：诊断大规模有效干预缺失与\"萎靡感\"，识别 agency 分配为核心哲学分歧，主张从\"什么有效\"转向\"什么曾经有效，在哪里，如何，对谁
-- [[Argument_Peterson_2016_IJRME]] — 以文献综述和美英 What Works 倡议对话为基础，提出以机制实验和改进网络为双重支柱的\"什么有效 2.0\"整合框架
+- [[Argument_Pampaka_2016_IJRME]] — IJRME 特刊导言：诊断大规模有效干预缺失与“萎靡感“，识别 agency 分配为核心哲学分歧，主张从“什么有效“转向“什么曾经有效，在哪里，如何，对谁
+- [[Argument_Peterson_2016_IJRME]] — 以文献综述和美英 What Works 倡议对话为基础，提出以机制实验和改进网络为双重支柱的“什么有效 2.0“整合框架
 
 ### International Review of Theoretical Psychologies
 
@@ -156,20 +156,20 @@ Total entries: **97**
 
 ### Journal of Education & Social Policy
 
-- [[Argument_Blass_2020_JESP]] — 以五要素框架（方法论、情境、假设、领导力、时效性）评估 Hattie VL 在澳大利亚教育政策中的误用，揭示 VL 被用作\"不改变的好借口\"而抑制教学创新，记录 Hattie 后续工作中放弃排名转向学习模型
+- [[Argument_Blass_2020_JESP]] — 以五要素框架（方法论、情境、假设、领导力、时效性）评估 Hattie VL 在澳大利亚教育政策中的误用，揭示 VL 被用作“不改变的好借口“而抑制教学创新，记录 Hattie 后续工作中放弃排名转向学习模型
 
 ### Journal of Education Policy
 
-- [[Argument_Simpson_2017_JEP]] — 以农场肥料思想实验和真实研究案例，论证效应量三大系统性偏差（比较组、范围限制、测量设计）使元分析联盟表成为\"研究设计操纵开放程度的等级\"而非教育有效性排名
+- [[Argument_Simpson_2017_JEP]] — 以农场肥料思想实验和真实研究案例，论证效应量三大系统性偏差（比较组、范围限制、测量设计）使元分析联盟表成为“研究设计操纵开放程度的等级“而非教育有效性排名
 
 ### Journal of Educational Administration and History
 
-- [[Argument_Eacott_2011_JEAH]] — 以 Bourdieu 场域/习性/doxa 框架分析 NSW 校长培养，论证其将校长建构为\"国家改革的交付者\"，提出基于\"教育问题提出与争辩\"的替代性领导习性
+- [[Argument_Eacott_2011_JEAH]] — 以 Bourdieu 场域/习性/doxa 框架分析 NSW 校长培养，论证其将校长建构为“国家改革的交付者“，提出基于“教育问题提出与争辩“的替代性领导习性
 - [[Argument_Keddie_2020_JEAH]] — 基于 42 位澳大利亚教育利益相关者访谈，论证市场驱动的学校自主权改革对校长和弱势学校的系统性不公正影响
 
 ### Journal of Educational Change
 
-- [[Argument_Zhao_2017_JEC]] — 从医学引入副作用概念，以直接教学、东亚教育体系、NCLB 三个案例论证教育中\"什么有效可能同时有害\"，提出 6 项行动建议
+- [[Argument_Zhao_2017_JEC]] — 从医学引入副作用概念，以直接教学、东亚教育体系、NCLB 三个案例论证教育中“什么有效可能同时有害“，提出 6 项行动建议
 
 ### Journal of Research on Educational Effectiveness
 
@@ -185,8 +185,8 @@ Total entries: **97**
 
 ### New Zealand Journal of Educational Studies
 
-- [[Argument_Grace_2010_NZJES]] — 以\"Critic and Conscience of Society\"概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了\"学术领域批评者\"与\"社会批评者与良知\"两种角色，指出 VL 排除非学校因素与该角色根本矛盾
-- [[Argument_Hattie_2010_NZJES]] — Hattie 以第一人称反思教育学者作为\"社会批评者与良知\"的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与
+- [[Argument_Grace_2010_NZJES]] — 以“Critic and Conscience of Society“概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了“学术领域批评者“与“社会批评者与良知“两种角色，指出 VL 排除非学校因素与该角色根本矛盾
+- [[Argument_Hattie_2010_NZJES]] — Hattie 以第一人称反思教育学者作为“社会批评者与良知“的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与
 - [[Argument_ONeill_2012_NZJES]] — 以 NZ Treasury 2011 年简报为案例，运用 Kreeft 实质谬误框架分析教育政策论述中证据被误用的机制，提出研究者有责任警惕和挑战基于实质谬误的公共政策辩论
 - [[Argument_Snook_2009]] — VL 最早的系统性批判之一（2009）：从方法论缺陷、效应量任意性、社会背景排除、政策误用风险五维度审查 Hattie VL，引 Dewey 知识论为基线立场
 - [[Argument_Snook_2010_NZJES]] — 对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题
@@ -194,7 +194,7 @@ Total entries: **97**
 ### Nordic Journal of Studies in Educational Policy
 
 - [[Argument_Knudsen_2017_NordSTEP]] — Hanne Knudsen 对 John Hattie 的深度访谈，围绕 VL 的规模化翻译、可见性与学习概念、证据与理论关系、Hattie 的多重角色四主题展开
-- [[Argument_Qvortrup_2019_NordSTEP]] — VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为\"缺失环节
+- [[Argument_Qvortrup_2019_NordSTEP]] — VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为“缺失环节
 
 ### Nordic Psychology
 
@@ -214,15 +214,15 @@ Total entries: **97**
 
 ### Research in Comparative and International Education
 
-- [[Argument_Rappleye_2006_RCIE]] — 提出跨国吸引力情境概念地图，区分结构／人双层推力与阻力及四种吸引力\"火花\"，回应全球化对教育转移研究的新要求
+- [[Argument_Rappleye_2006_RCIE]] — 提出跨国吸引力情境概念地图，区分结构／人双层推力与阻力及四种吸引力“火花“，回应全球化对教育转移研究的新要求
 
 ### Review of Education
 
-- [[Argument_Bainbridge_2022_ROE]] — 以 SSEF 为案例研究 UK 议会如何系统性回避选择性教育研究证据，识别\"建构型道德侧步\"：Ofsted 评级被混同为研究证据并道德化为\"好学校\"话语
+- [[Argument_Bainbridge_2022_ROE]] — 以 SSEF 为案例研究 UK 议会如何系统性回避选择性教育研究证据，识别“建构型道德侧步“：Ofsted 评级被混同为研究证据并道德化为“好学校“话语
 
 ### Review of Educational Research
 
-- [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育证据清算中心的有效性标准与项目评级一致性，发现\"evidence-based\"在清算中心语境中构念效度有限
+- [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育证据清算中心的有效性标准与项目评级一致性，发现“evidence-based“在清算中心语境中构念效度有限
 
 ### Scholarship of Teaching and Learning in Psychology
 
@@ -230,7 +230,7 @@ Total entries: **97**
 
 ### School Leadership & Management
 
-- [[Argument_Eacott_2017_SLM]] — 以 Callahan 为历史框架，三步骤论证澳大利亚学校领导力已屈服于 Hattie 大师崇拜，定性 VL 为 Neo-Taylorism 并宣告其为\"澳大利亚学校领导力的悲剧
+- [[Argument_Eacott_2017_SLM]] — 以 Callahan 为历史框架，三步骤论证澳大利亚学校领导力已屈服于 Hattie 大师崇拜，定性 VL 为 Neo-Taylorism 并宣告其为“澳大利亚学校领导力的悲剧
 - [[Argument_Hattie_2017_SLM]] — Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援引 Popper 证伪主义和 Said 公共知识分子传统，逐条反驳 Eacott 三项主张
 
 ### Sociology of Education
@@ -257,7 +257,7 @@ Total entries: **97**
 
 ### Durham University
 
-- [[Argument_Cowen_2015_CHESS]] — 通过 22 位教师访谈和文献综述，揭示 EBP 从\"什么有效\"到\"在这里有效\"的知识鸿沟，提出\"流动性而非忠实执行\"的实施框架
+- [[Argument_Cowen_2015_CHESS]] — 通过 22 位教师访谈和文献综述，揭示 EBP 从“什么有效“到“在这里有效“的知识鸿沟，提出“流动性而非忠实执行“的实施框架
 
 ### Massey University
 

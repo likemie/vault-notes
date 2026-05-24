@@ -13,24 +13,13 @@ tags:
 - evidence-based-education
 - program-evaluation
 - causal-inference
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Evidence-Informed Practice]]'
-- '[[Technology Infusion]]'
-- '[[Absorptive Capacity]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Formative Evaluation]]'
-- '[[Logic Model]]'
-- '[[Quasi-Experimental Designs]]'
+related_methods: []
 related_persons: []
-related_facts:
-- '[[Students and Teachers Accessing Tomorrow (STAT)]]'
-related_arguments:
-- '[[Argument_Ross_Morrison_2021_ROE]]'
-sources:
-- '[[Ross_Morrison_2021_ROE]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-23'
@@ -66,7 +55,7 @@ updated: '2026-05-23'
 
 ### 用户经验与成本
 
-实施忠实度还和实践者经验相关。一个项目即使在严格实验中提升成绩，也可能比照常教学更难使用、更不受教师和学生欢迎，或更昂贵。学校采购需要这些信息，而不仅是统计显著性和效应量（Ross & Morrison, 2021, pp.120-121）。
+实施忠实度还和实践者经验相关。一个项目即使在严格实验中提升成绩，也可能比照常教学更难使用、更不受教师和学生欢迎，或更昂贵。学校采购需要这些信息，而不仅是[[Statistical Significance|统计显著性]]和[[Effect Size|效应量]]（Ross & Morrison, 2021, pp.120-121）。
 
 ## 实证发现
 
@@ -89,4 +78,4 @@ updated: '2026-05-23'
 
 ## 来源
 
-- [[Ross_Morrison_2021_ROE]]
+- Ross_Morrison_2021_ROE

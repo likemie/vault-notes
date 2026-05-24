@@ -2,7 +2,7 @@
 title: Gonski Reforms
 aliases:
   - 冈斯基改革
-summary: "2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于\"不让任何学校更糟\"条款"
+summary: "2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于“不让任何学校更糟“条款"
 type: fact
 subtype: policy
 region: australia
@@ -12,17 +12,13 @@ tags:
 - region/australia
 - level/k12
 - equity
-related_concepts:
-- '[[School Autonomy]]'
-- '[[New Public Management]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Keddie_2020_IJLE]]'
-- '[[Sarbiewska_2019_JSR]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -85,5 +81,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Keddie_2020_IJLE]]
-- [[Sarbiewska_2019_JSR]]
+- Keddie_2020_IJLE
+- Sarbiewska_2019_JSR

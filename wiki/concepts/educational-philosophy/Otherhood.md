@@ -8,22 +8,13 @@ type: concept
 tags:
 - level/higher-ed
 - region/global
-related_concepts:
-- '[[Organizational Actorhood]]'
-- '[[Epistemic Governance]]'
-- '[[University Social Responsibility]]'
-related_theories:
-- '[[World Society Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[John W. Meyer]]'
-related_facts:
-- '[[UN Sustainable Development Goals 2015]]'
-- '[[THE Impact Ranking 2019]]'
-related_arguments:
-- '[[Argument_Zapp_2022_Springer]]'
-sources:
-- '[[Ch9_Zapp_2022]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -64,11 +55,11 @@ updated: '2026-05-18'
 ### 概念提出与理论发展
 
 - 2000 年 Meyer & Jepperson 在 *Sociological Theory* 发表 "The 'Actors' of Modern Society"，首次提出 otherhood 概念。其核心论证是：现代社会中的"能动者"（actors）本身就是一种文化建构——不是先有能动者再有行动，而是社会先将某些实体建构为"能动者"，这些实体再按照能动者的脚本行动。Otherhood 就是这种文化建构的核心机制：组织通过充当"他者"的代理人来证明和维持自己的能动者身份（Zapp, 2022, p.149）
-- 2019 年 Meyer 在 *Agents, Actors, Actorhood* 论文集中进一步反思理性化（rationalization）、能动者与 otherhood 的关系，完善了 otherhood 与世界社会理论的理论衔接——otherhood 不仅是组织的行为特征，更是世界社会在缺乏中央权威的情况下赖以运作的根本机制（Zapp, 2022, p.149）
+- 2019 年 Meyer 在 *Agents, Actors, Actorhood* 论文集中进一步反思理性化（rationalization）、能动者与 otherhood 的关系，完善了 otherhood 与[[World Society Theory|世界社会理论]]的理论衔接——otherhood 不仅是组织的行为特征，更是世界社会在缺乏中央权威的情况下赖以运作的根本机制（Zapp, 2022, p.149）
 
 ### 在高等教育与全球治理中的应用
 
-- 2020 年 Zapp 在 *Globalizations* 发表 "Constructing World Society"，将 otherhood 概念应用于分析国际组织如何通过全球报告为世界社会建构文化模型，发现国际组织的"他者代理"是其知识权威的来源（Zapp, 2022, p.149）
+- 2020 年 Zapp 在 *Globalizations* 发表 "Constructing World Society"，将 otherhood 概念应用于分析国际组织如何通过全球报告为世界社会建构[[Cultural Models|文化模型]]，发现国际组织的"他者代理"是其知识权威的来源（Zapp, 2022, p.149）
 - 2022 年 Zapp 在本文中将 otherhood 概念系统应用于大学，论证大学近乎理想型地代表了 otherhood 的全部三种形式——为其他行动者、非行动者实体和现代性原则行使代理权——并以此解释大学为何能在去中心化的全球治理中占据独特的"知识仲裁者"位置（Zapp, 2022, p.149）
 
 ---
@@ -96,7 +87,7 @@ updated: '2026-05-18'
 > - 在世界社会的去中心化和无定形配置中，大学和国际组织（IOs）找到了一个独特的位置（niche），因为它们提供并装备了客观知识的合法性与权威及其所填充的文化模型（Zapp, 2020b，引自 Zapp, 2022, p.149）
 > - Zapp (2017b) 发现公立大学是所有国际组织最频繁的研究合作者——平均 40,000 篇出版物由大学和 IO 研究者共同署名——这不仅是研究合作的数据，更是 otherhood 的量化证据：大学在替国际组织生产和认证知识（Zapp, 2022, p.151）
 > - Zapp (2020a) 对 1947–2019 年间 100+ 份 IO 全球报告的分析发现，从 1980 年代末起所有报告均开始引用科学资源，部分报告已类似于包含数千条学术参考文献的大规模文献综述——知识从大学流向全球治理，otherhood 是这条渠道的机制性名称（Zapp, 2022, p.151）
-> - 大学 otherhood 正在重新塑造全球治理的图景：大学不再只是知识生产者，而是全球治理中的积极行动者。[[Argument_Zapp_2022_Springer#第四步：SDGs 作为催化剂——四种嵌入机制|四种嵌入机制]]——研究对齐、教学对齐、内部政策对齐、网络对齐——都是 otherhood 的具体制度化表达（Zapp, 2022, pp.149–154）
+> - 大学 otherhood 正在重新塑造全球治理的图景：大学不再只是知识生产者，而是全球治理中的积极行动者。四种嵌入机制——研究对齐、教学对齐、内部政策对齐、网络对齐——都是 otherhood 的具体制度化表达（Zapp, 2022, pp.149–154）
 > - 许多大学协会不仅为其成员带来利益，也涉及显著的成本和承诺，这表明大学在推动可持续发展事业中存在超越自身利益考量的真正投入（Zapp, 2022, pp.153–154）
 
 > [!info]- 核心数据
@@ -114,4 +105,4 @@ updated: '2026-05-18'
 ---
 ## 来源
 
-- [[Ch9_Zapp_2022]]
+- Ch9_Zapp_2022

@@ -13,26 +13,13 @@ tags:
 - geopolitics
 - region/global
 - level/higher-ed
-related_concepts:
-- '[[Internationalization of Higher Education]]'
-- '[[Geopolitics of Knowledge]]'
-- '[[Knowledge-Based Economy]]'
-- '[[Knowledge Capitalism]]'
-- '[[Knowledge Transfer]]'
-- '[[Knowledge Production]]'
-- '[[Orientalism]]'
-related_theories:
-- '[[Critical Geopolitics]]'
-- '[[Network Society]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Fazal Rizvi]]'
-related_facts:
-- '[[Australia in the Asian Century White Paper 2012]]'
-related_arguments:
-- '[[Argument_Rizvi_2022_Springer]]'
-sources:
-- '[[Ch6_Rizvi_2022]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -95,4 +82,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch6_Rizvi_2022]]
+- Ch6_Rizvi_2022

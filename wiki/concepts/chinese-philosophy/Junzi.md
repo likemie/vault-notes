@@ -13,22 +13,13 @@ tags:
 - field/cultural-psychology
 - field/chinese-philosophy
 - theme/learning
-related_concepts:
-- "[[Ren]]"
-- "[[Self-Cultivation]]"
-- "[[Sage]]"
-- "[[Learning Virtues]]"
-- "[[Take the World Upon Oneself]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- "[[Confucius]]"
-- "[[Mencius]]"
+related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -91,4 +82,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

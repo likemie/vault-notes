@@ -6,30 +6,17 @@ aliases:
 summary: "将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承"
 type: theory
 tags:
-- Popper
+- popper
 - epistemology
 - realism
 - paradigm/critical
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Surface and Deep Learning]]'
-- '[[Dynamic Knowledge and Learning Model]]'
-related_theories:
-- '[[Radical Constructivism]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Karl Popper]]'
-- '[[Carl Bereiter]]'
-- '[[John Hattie]]'
-- '[[Lars Qvortrup]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Hattie_2017_SLM]]'
-sources:
-- '[[Hattie_2015_SOTLP]]'
-- '[[Qvortrup_2015_Paideia]]'
-- '[[Hattie_2017_SLM]]'
-- '[[Romer_2018_EPT]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -86,19 +73,19 @@ updated: '2026-05-18'
 ## 相关研究
 
 > [!example] 相关研究
-> - [[Argument_Rømer_2018_EPT]] — 论证 Hattie 对 Popper 三个世界理论的误读是 VL 理论基础的致命缺陷
+> - Argument_Rømer_2018_EPT — 论证 Hattie 对 Popper 三个世界理论的误读是 VL 理论基础的致命缺陷
 
 ## 应用领域
 
 > [!success] 应用领域
-> - [[Visible Learning]] — Hattie 以（被严重误读的）Popper 三个世界理论作为 VL 的认识论基础；在回应 Eacott 的 [[Argument_Hattie_2017_SLM|Cult of the Guru 批评]]时，Hattie（2017, p.428）再度援引 Popper 证伪主义，声称 VL 包含"大胆猜想"因此"容易被证伪"——Rømer（2018）和 Johnson & Janzen（2023）指出 Popper 的 fallibilism 旨在区分科学与伪科学，而非为未经证伪的猜想提供免于批评的盾牌
+> - [[Visible Learning]] — Hattie 以（被严重误读的）Popper 三个世界理论作为 VL 的认识论基础；在回应 Eacott 的 Cult of the Guru 批评时，Hattie（2017, p.428）再度援引 Popper 证伪主义，声称 VL 包含"大胆猜想"因此"容易被证伪"——Rømer（2018）和 Johnson & Janzen（2023）指出 Popper 的 fallibilism 旨在区分科学与伪科学，而非为未经证伪的猜想提供免于批评的盾牌
 > - [[Surface and Deep Learning]] — Hattie 将表层学习映射到 World 1、深层学习映射到 World 2、建构性理解映射到 World 3；Rømer (2018) 论证此映射严重误读了 Popper
 > - [[Dynamic Knowledge and Learning Model]] — Qvortrup (2015) 从 VL 内部指出 Popper/Bereiter、Bloom 和 SOLO 之间的知识层次对应不清，因而提出动态模型作为替代性概念化路径
 > - [[Radical Constructivism]] — 与 Popper 的科学实在论处于认识论的对立两极
 
 ## 来源
 
-- [[Hattie_2015_SOTLP]]
-- [[Qvortrup_2015_Paideia]]
-- [[Hattie_2017_SLM]]
-- [[Romer_2018_EPT]]
+- Hattie_2015_SOTLP
+- Qvortrup_2015_Paideia
+- Hattie_2017_SLM
+- Romer_2018_EPT

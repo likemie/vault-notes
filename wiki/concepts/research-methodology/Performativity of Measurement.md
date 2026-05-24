@@ -6,39 +6,19 @@ aliases:
 summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 tags:
-- Performativity of Measurement
+- performativity-of-measurement
 - performativity
 - measurement
-- STS
-- Educational Philosophy
+- sts
+- educational-philosophy
 - paradigm/constructivist
-related_concepts:
-- '[[Sociology of Measurement]]'
-- '[[Performance Indicators]]'
-- '[[Education at a Glance (EAG)]]'
-- '[[New Public Management]]'
-- '[[School Leadership]]'
-- '[[Visible Learning]]'
-- '[[Visible Learning Branding and Global Influences]]'
-- '[[Neo-Taylorism in Educational Administration]]'
-- '[[Evidence-Based Education]]'
-- '[[Atomisation of Knowledge and Skills]]'
-related_theories:
-- '[[Science and Technology Studies (STS)]]'
-- '[[Technical Rationality]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Jorunn Møller]]'
-- '[[Helen Gunter]]'
-- '[[John Hattie]]'
-- '[[Lucinda McKnight]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Gorur_2014_Discourse]]'
-- '[[Møller_2017_EERJ]]'
-- '[[McKnight_2020_Discourse]]'
-- '[[Johnson_2023_CE]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -195,7 +175,7 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Gorur_2014_Discourse]]
-- [[Møller_2017_EERJ]]
-- [[McKnight_2020_Discourse]]
-- [[Johnson_2023_CE]]
+- Gorur_2014_Discourse
+- Møller_2017_EERJ
+- McKnight_2020_Discourse
+- Johnson_2023_CE

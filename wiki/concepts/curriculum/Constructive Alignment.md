@@ -8,18 +8,13 @@ tags:
 - constructive-alignment
 - subject/curriculum
 - level/higher-ed
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Surface and Deep Learning]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Biggs]]'
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Hattie_2015_SOTLP]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-04'
@@ -67,4 +62,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Hattie_2015_SOTLP]]
+- Hattie_2015_SOTLP

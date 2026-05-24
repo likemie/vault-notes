@@ -5,43 +5,17 @@ aliases:
 summary: "以企业管理逻辑重塑公共部门的改革浪潮，强调绩效标准、产出控制、供给竞争和管理问责。"
 type: concept
 tags:
-- New Public Management
+- new-public-management
 - paradigm/neoliberal
 - region/global
 - level/higher-ed
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Performativity of Measurement]]'
-- '[[Competitiveness in Higher Education]]'
-- '[[School Leadership]]'
-- '[[Evidence-Based Education]]'
-- '[[Knowledge-Based Economy]]'
-- '[[Knowledge Capitalism]]'
-- '[[Internationalization of Higher Education]]'
-- '[[Endogenous and Exogenous Privatisation]]'
-related_theories:
-- '[[Transitology]]'
-- '[[Institutional Isomorphism]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Helen Gunter]]'
-- '[[Jorunn Møller]]'
-- '[[Fazal Rizvi]]'
-related_facts:
-- '[[Australia in the Asian Century White Paper 2012]]'
-related_arguments:
-- '[[Argument_Rizvi_2022_Springer]]'
-- '[[Argument_Hartmann_2022_CorporateEducation]]'
-- '[[Argument_Thompson_2022_Promising_Student]]'
-sources:
-- '[[Møller_2017_EERJ]]'
-- '[[Eacott_2011_JEAH]]'
-- '[[Keddie_2020_JEAH]]'
-- '[[Keddie_2020_IJLE]]'
-- '[[Ch4_Amos_2022]]'
-- '[[Ch6_Rizvi_2022]]'
-- '[[Ch11_Hartmann_2022]]'
-- '[[Ch13_Thompson_2022]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -62,7 +36,7 @@ updated: 2026-05-20
 > - vs 专业实践共同体话语：Møller 指出了一个悖论——OECD 同时推崇两个表面上矛盾的话语（Møller, 2017, p.377）：(1) 将学校从科层制转变为专业实践共同体的分布式领导建议（社区隐喻）；(2) NPM 的外部控制话语（市场隐喻）。两者并非互相替代，而是**并行运作**
 > - → [[Performativity of Measurement]] — NPM 是绩效文化的制度根源，绩效测量是 NPM 的技术手段
 > - → [[Evidence-Based Education]] — "什么有效"议程在 NPM 框架下获得额外的制度驱动力
-> - vs [[Endogenous and Exogenous Privatisation|内生私有化]] — NPM 是内生私有化的核心操作机制（将企业管理逻辑引入公共部门内部），但内生私有化的范畴更广（涵盖私营部门思维进入公共系统的所有方式）。详见 [[Endogenous and Exogenous Privatisation#与 NPM 的关系]]
+> - vs 内生私有化 — NPM 是内生私有化的核心操作机制（将企业管理逻辑引入公共部门内部），但内生私有化的范畴更广（涵盖私营部门思维进入公共系统的所有方式）。详见 [[Endogenous and Exogenous Privatisation#与 NPM 的关系]]
 >
 
 ## 概念演变
@@ -94,9 +68,9 @@ updated: 2026-05-20
 > 3. 公共资金削减迫使大学采纳企业化运营模式：NPM 的"理念、技术和实践从企业部门被广泛引入，以使公立高等教育机构更像企业运作"（Rizvi, 2022, pp.97–98）
 > 4. 企业化运营反过来使大学更依赖国际学生市场收入 → 加固了第 1 步
 >
-> 最终结果：[[Endogenous and Exogenous Privatisation|内生私有化]]成为大多数西方国家公立高等教育的"永久特征"（Ball, 2012, cited in Rizvi, 2022, p.97）。澳大利亚是最激进的案例——其高等教育机构在国际招生方面的成功使政府有底气推动其他市场导向政策，包括《[[Australia in the Asian Century White Paper 2012|亚洲世纪白皮书]]》和《国际教育国家战略 2025》（Rizvi, 2022, pp.97–100）。
+> 最终结果：内生私有化成为大多数西方国家公立高等教育的"永久特征"（Ball, 2012, cited in Rizvi, 2022, p.97）。澳大利亚是最激进的案例——其高等教育机构在国际招生方面的成功使政府有底气推动其他市场导向政策，包括《[[Australia in the Asian Century White Paper 2012|亚洲世纪白皮书]]》和《国际教育国家战略 2025》（Rizvi, 2022, pp.97–100）。
 >
-> 此外，国际学生市场催生了一个复杂的招生基础设施——本地代理网络遍布亚洲、大量跨国项目、特许经营安排、复杂的学分衔接和双联安排——彻底改造了全球高等教育的空间架构（Rizvi, 2022, p.97）。详见 [[Argument_Rizvi_2022_Springer#第四步|Rizvi 论证 > 第四步]]。
+> 此外，国际学生市场催生了一个复杂的招生基础设施——本地代理网络遍布亚洲、大量跨国项目、特许经营安排、复杂的学分衔接和双联安排——彻底改造了全球高等教育的空间架构（Rizvi, 2022, p.97）。详见 Rizvi 论证 > 第四步。
 >
 
 ## 核心要素
@@ -107,7 +81,7 @@ updated: 2026-05-20
 > - **供给竞争**：学校、大学之间为生源、资金和排名竞争——在高等教育中体现为对全额付费国际学生的争夺（Rizvi, 2022, pp.96–97）
 > - **管理问责**：管理者对"有效和高效运行"负责，专业自主被管理问责取代（Eacott, 2011, p.52; Møller, 2017, pp.381–382）
 > - **公私合作伙伴关系**：公共教育机构与企业部门的深度整合——在教育国际化中表现为教育出口产业话语的兴起（Amos, 2022, p.56; Rizvi, 2022, pp.96–97）
-- **作为竞争性治理的制度条件**：Thompson 等人（2022, pp.219–220）的分析表明，NPM 所推动的绩效测量和审计文化构成了 [[Competitiveness in Higher Education|高等教育竞争力]] 作为地缘政治装置运作的制度条件——[[Global Universities Rankings|排名]] 和指标化的"描述即规定"效应之所以有效，正是因为大学已被 NPM 重塑为关注绩效指标、接受产出控制、参与市场竞争的组织形态
+- **作为竞争性治理的制度条件**：Thompson 等人（2022, pp.219–220）的分析表明，NPM 所推动的绩效测量和审计文化构成了 [[Competitiveness in Higher Education|高等教育竞争力]] 作为地缘政治装置运作的制度条件——排名 和指标化的"描述即规定"效应之所以有效，正是因为大学已被 NPM 重塑为关注[[Performance Indicators|绩效指标]]、接受产出控制、参与市场竞争的组织形态
 >
 
 ## 理论基础
@@ -147,9 +121,9 @@ updated: 2026-05-20
 
 ## 来源
 
-- [[Møller_2017_EERJ]]
-- [[Eacott_2011_JEAH]]
-- [[Keddie_2020_JEAH]]
-- [[Keddie_2020_IJLE]]
-- [[Ch4_Amos_2022]]
-- [[Ch6_Rizvi_2022]]
+- Møller_2017_EERJ
+- Eacott_2011_JEAH
+- Keddie_2020_JEAH
+- Keddie_2020_IJLE
+- Ch4_Amos_2022
+- Ch6_Rizvi_2022

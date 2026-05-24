@@ -9,28 +9,22 @@ citation: 'Wrigley, T. (2018). The power of ''evidence'': Reliable science or a 
 tags:
 - evidence-based-education
 - evidence-based-teaching
-- RCT
+- rct
 - meta-analysis
 - meta-meta-analysis
-- Hattie
-- EEF-Toolkit
+- hattie
+- eef-toolkit
 - critical-realism
 - neoliberalism
 - paradigm/critical
 - region/uk
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Evidence-Based Reform]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Terry Wrigley]]'
-- '[[Gert Biesta]]'
-- '[[Robert Slavin]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wrigley_2018_BERJ]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -192,4 +186,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wrigley_2018_BERJ]]
+- Wrigley_2018_BERJ

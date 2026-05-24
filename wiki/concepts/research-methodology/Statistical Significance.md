@@ -10,31 +10,13 @@ tags:
 - hypothesis-testing
 - effect-size
 - research-methodology
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Evidence-Based Reform]]'
-- '[[Effect Size]]'
-- '[[Confidence Interval]]'
-- '[[Publication Bias]]'
-- '[[Educational Evidence Clearinghouses]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Meta-analysis]]'
-- '[[Meta-meta-analysis]]'
-- '[[Randomised Controlled Trials]]'
-- '[[Quasi-Experimental Designs]]'
-related_persons:
-- '[[Jacob Cohen]]'
-- '[[John Hattie]]'
-related_facts:
-- '[[ESSA 2015 Evidence Standards]]'
-related_arguments:
-- '[[Argument_Ross_Morrison_2021_ROE]]'
-sources:
-- '[[Allerup_2015_Paideia]]'
-- '[[Terhart_2011_JCS]]'
-- '[[Wadhwa_2024_RER]]'
-- '[[Ross_Morrison_2021_ROE]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -71,7 +53,7 @@ updated: '2026-05-23'
 ## 相关方法
 
 
-- [[Meta-analysis]] — 元分析若只合并点估计而忽略显著性检验和置信区间，容易把不同精度的研究结果放在同一层级比较。
+- [[Meta-analysis]] — 元分析若只合并点估计而忽略显著性检验和[[Confidence Interval|置信区间]]，容易把不同[[Jing (Refined Mastery)|精]]度的研究结果放在同一层级比较。
 - [[Meta-meta-analysis]] — 联合标准误、95% CI 和显著性检验是判断二级综合点估计是否稳定的必要信息（Wecker et al., 2016, p.30）。
 
 ## 实证发现
@@ -97,7 +79,7 @@ updated: '2026-05-23'
 
 ## 来源
 
-- [[Allerup_2015_Paideia]]
-- [[Terhart_2011_JCS]]
-- [[Wadhwa_2024_RER]]
-- [[Ross_Morrison_2021_ROE]]
+- Allerup_2015_Paideia
+- Terhart_2011_JCS
+- Wadhwa_2024_RER
+- Ross_Morrison_2021_ROE

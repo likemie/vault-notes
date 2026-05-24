@@ -13,16 +13,13 @@ tags:
 - mission
 - region/us
 - level/higher-ed
-related_concepts:
-- '[[Global Universities Rankings]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Boyadjieva_2022_Springer]]'
-sources:
-- '[[Ch8_Boyadjieva_2022]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -73,4 +70,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch8_Boyadjieva_2022]]
+- Ch8_Boyadjieva_2022

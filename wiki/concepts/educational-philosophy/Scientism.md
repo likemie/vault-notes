@@ -5,25 +5,17 @@ aliases:
 summary: "对科学方法和科学权威的过度美化，以及将其轻率扩展到原本不适用领域的思想倾向。"
 type: concept
 tags:
-- Scientism
+- scientism
 - scientific-method
 - paradigm/positivist
 - stance/critique
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
-- '[[Cargo Cult Science]]'
-- '[[Dynamic Knowledge and Learning Model]]'
-related_theories:
-- '[[Technical Rationality]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Gert Biesta]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Johnson_2023_CE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -90,4 +82,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Johnson_2023_CE]]
+- Johnson_2023_CE

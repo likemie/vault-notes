@@ -19,17 +19,13 @@ tags:
   - theme/private-tutoring
   - theme/shadow-education
   - theme/academic-pressure
-related_concepts:
-  - "[[Examination Hell]]"
-  - "[[Confucian Heritage Cultures]]"
-  - "[[Heart and Mind for Wanting to Learn]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -43,7 +39,7 @@ updated: 2026-05-23
 > [!info]
 > 补习班是东亚国家（台湾、日本、韩国、香港、中国、新加坡、越南）普遍存在的私营教育企业，为学龄儿童提供额外的学业和课外扩展项目，并收取费用。它们在美欧大城市中拥有大量亚裔人口的地区同样存在（Li, 2012, p.67–68）。
 
-在中文语境中，"補習班"（Buxiban）是一个较中性的术语，本意即"辅导/补充课程"。但英文"cram school"（填鸭学校）一词带有明显的贬义和嘲讽色彩，而这一译名已被广泛接受——甚至亚裔学者也开始不加引号地使用这一英文术语，显示出对此种贬低的接受（Li, 2012, p.68）。
+在中文语境中，"補習班"（Buxiban）是一个较中性的术语，本意即"辅导/补充课程"。但英文"cram school"（填鸭学校）一词带有明显的贬[[Rightness|义]]和嘲讽色彩，而这一译名已被广泛接受——甚至亚裔学者也开始不加引号地使用这一英文术语，显示出对此种贬低的接受（Li, 2012, p.68）。
 
 ---
 
@@ -63,7 +59,7 @@ updated: 2026-05-23
 
 **儿童自身的看法：**
 - 存在普遍的同伴压力，人人都在追求更好的学业成绩
-- 学业好的人更受同伴喜欢和接纳，不被贴上"书呆子"标签（与美国不同）
+- 学业好的人更受同伴喜欢和接纳，不被贴上"[[Nerd (School Peer Culture)|书呆子]]"标签（与美国不同）
 - 学业差反而可能导致同伴排斥
 - 因此，尽管不喜欢上更多课，他们视额外学习为重要和必要的，并愿意继续在补习班努力学习（Li, 2012, p.68–69）
 
@@ -86,4 +82,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

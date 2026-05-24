@@ -9,19 +9,13 @@ tags:
 - theme/spatiality
 - region/global
 - level/higher-ed
-related_concepts:
-- '[[Methodological Nationalism]]'
-- '[[Scale in Higher Education]]'
-- '[[Semi-Autonomy of Higher Education]]'
-related_theories:
-- '[[World-Systems Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Marginson_2025_ROE]]'
-sources:
-- '[[Marginson_2025_ROE]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -84,4 +78,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Marginson_2025_ROE]]
+- Marginson_2025_ROE

@@ -13,17 +13,13 @@ tags:
 - region/japan
 - education-reform
 - late-qing
-related_concepts:
-- '[[Cross-National Attraction]]'
-- '[[Policy Borrowing]]'
-- '[[Externalization (Schriewer)]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Rappleye_2006_RCIE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -86,4 +82,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Rappleye_2006_RCIE]]
+- Rappleye_2006_RCIE

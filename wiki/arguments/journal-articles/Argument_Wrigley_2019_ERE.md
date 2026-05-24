@@ -1,6 +1,6 @@
 ---
 title: Argument_Wrigley_2019_ERE
-summary: "以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导者对\"科学\"的诉诸依赖于过分简化的民间科学观，揭示元-元分析的三级统计失真"
+summary: "以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导者对“科学“的诉诸依赖于过分简化的民间科学观，揭示元-元分析的三级统计失真"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -10,30 +10,18 @@ tags:
 - evidence-based-teaching
 - science
 - critical-realism
-- RCT
+- rct
 - meta-analysis
 - effect-size
 - paradigm/constructivist
 - region/uk
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Effect Size]]'
-related_theories:
-- '[[Critical Realism]]'
-related_methods:
-- '[[Meta-analysis]]'
-- '[[Randomised Controlled Trials]]'
-related_persons:
-- '[[Terry Wrigley]]'
-- '[[Sean McCusker]]'
-- '[[Roy Bhaskar]]'
-- '[[Ray Pawson]]'
-- '[[Gary Thomas]]'
-- '[[Adrian Simpson]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wrigley_2019_ERE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -55,7 +43,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：[[哲学分析]]（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提假设
+> - 方法：哲学分析（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提假设
 > - 案例研究：以 EEF Toolkit 的"体育参与"（Sports Participation）条目为深度案例，追踪其从原始研究→元分析→元-元分析的三级证据聚合过程
 > - 文献批判性综述：综合 Bhaskar、Pawson、Thomas、Simpson、Biesta 等学者的批判资源
 
@@ -152,4 +140,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wrigley_2019_ERE]]
+- Wrigley_2019_ERE

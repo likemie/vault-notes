@@ -5,28 +5,19 @@ aliases:
 summary: "围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界"
 type: theory
 tags:
-- Campbellian-validity
+- campbellian-validity
 - internal-validity
 - external-validity
 - experimental-design
 - causal-inference
 - research-methodology
-related_concepts:
-- '[[Single-Case Design (SCD)]]'
-- '[[Gating Procedure]]'
-- '[[Evidence-Based Education]]'
-- '[[Educational Evidence Clearinghouses]]'
-- '[[5-3-20 Rule]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Single-Case Design (SCD)]]'
-- '[[Randomised Controlled Trials]]'
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Hitchcock_2015_JBE]]'
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-02'
@@ -139,5 +130,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Hitchcock_2015_JBE]]
-- [[Wadhwa_2024_RER]]
+- Hitchcock_2015_JBE
+- Wadhwa_2024_RER

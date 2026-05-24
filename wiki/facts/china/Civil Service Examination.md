@@ -15,21 +15,13 @@ tags:
 - field/comparative-education
 - theory/confucianism
 - theme/meritocracy
-related_concepts:
-- "[[Self-Cultivation]]"
-- "[[Confucian Learning Tradition]]"
-- "[[Chinese Learner]]"
-related_theories:
-- "[[Confucian Learning Tradition]]"
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- "[[Confucius]]"
-- "[[Zhu Xi]]"
+related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -43,7 +35,7 @@ updated: 2026-05-22
 > [!info]
 > 科举制度产生的背景根植于儒家学习传统的核心矛盾：如果学习的最高理想是成圣，那么如何确保那些高度修身、学识渊博的人能够进入政府、服务天下？
 
-在汉代（206 BCE–220 CE），这类人才通过地方推荐制度（meritorious service）选拔入朝。到 7 世纪，这一做法被精炼并最终制度化为科举考试制度（Li, 2012, pp.47-48）。
+在汉代（206 BCE–220 CE），这类人才通过地方推荐制度（meritorious service）选拔入朝。到 7 世纪，这一做法被[[Jing (Refined Mastery)|精]]炼并最终制度化为科举考试制度（Li, 2012, pp.47-48）。
 
 ---
 
@@ -68,9 +60,9 @@ updated: 2026-05-22
 
 具体而言：
 
-1. **学习的神圣化**：不论实际动机如何（物质回报或道德追求），愿意经受科举的严酷学习过程本身就证明了个人力量和承诺，"这就是值得尊重的理由"（Li, 2012, p.48）
+1. **学习的神[[Sage|圣]]化**：不论实际动机如何（物质回报或道德追求），愿意经受科举的严酷学习过程本身就证明了个人力量和承诺，"这就是值得尊重的理由"（Li, 2012, p.48）
 2. **分层激励**：达到圣人级别的伟人受敬畏，尽了最大努力但未走远的人也因其付出而受赞赏（Li, 2012, p.48）
-3. **学与禄统一**："修身学"与"获得人生中一切美好事物"合流为一，"通过历史代代相传，成为同一条路径"（Li, 2012, p.48）
+3. **学与禄统一**："[[Self-Cultivation|修身]]学"与"获得人生中一切美好事物"合流为一，"通过历史代代相传，成为同一条路径"（Li, 2012, p.48）
 4. **文化持久性**：Li 的实证研究表明，"尽管近几十年来经历了剧烈的政治、社会和经济变化，这种看待和投入学习的方式至今没有太大改变"（Li, 2012, p.48）
 
 ---
@@ -95,4 +87,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

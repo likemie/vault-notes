@@ -11,13 +11,10 @@ tags:
 - methodology
 related_concepts: []
 related_theories: []
-related_methods:
-- '[[In-depth Interview]]'
-- '[[Constructivist Grounded Theory]]'
+related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-08'
@@ -95,9 +92,9 @@ updated: '2026-05-18'
 ## 跟踪式个案研究的独特优势
 
 
-郑雅君（2023）的实践展示了跟踪式设计相对于一次性访谈的独特价值：
+[[Yajun Zheng|郑雅君]]（2023）的实践展示了跟踪式设计相对于一次性访谈的独特价值：
 - **捕捉时间性**：大学过程是一个历时性的变化过程（目标确立、投入方向的调整、价值信念的转变）——跟踪式设计可以捕捉这些时间上的变化，而非仅获得一个截面快照
-- **克服叙事偏差**：被访者在事后叙述自己的行动逻辑时可能进行合理化的"事后建构"——观察实际行动提供了交叉检验的可能性
+- **克服叙事偏差**：被访者在事后叙述自己的行动逻辑时可能进行合理化的"事后建构"——[[Observational and Correlational Research|观察]]实际行动提供了交叉检验的可能性
 - **建立信任**：长期保持联系有助于建立更深的研究关系，使被访者更愿意分享敏感经历和真实想法
 
 ---
@@ -110,4 +107,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

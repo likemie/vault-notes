@@ -6,20 +6,15 @@ summary: "加拿大神经心理学家和新皮亚杰理论家，M-power模型提
 type: person
 nationality: canada
 tags:
-- Pascual-Leone
+- pascual-leone
 - paradigm/constructivist
 - neo-piagetian
-related_concepts:
-- '[[working-memory]]'
-- '[[executive-function]]'
-related_theories:
-- '[[neo-piagetian-theories]]'
-- '[[piagets-theory-of-cognitive-development]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Bolton_2017_ArchPsych]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-04'
@@ -44,7 +39,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[neo-piagetian-theories]] — 首位新皮亚杰理论家，提出信息加工与皮亚杰理论的整合框架
+> - neo-piagetian-theories — 首位新皮亚杰理论家，提出信息加工与皮亚杰理论的整合框架
 > - 开发了测量儿童心智能力的方法：让儿童保持并重复一系列与相关刺激相链接的动作，以准确重复的序列数量衡量心智能力（Bolton & Hattie, 2017, p.3）
 
 ## 思想发展与影响
@@ -55,4 +50,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
+- Bolton_2017_ArchPsych

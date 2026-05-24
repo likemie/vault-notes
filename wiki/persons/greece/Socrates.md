@@ -12,21 +12,13 @@ tags:
 - field/educational-philosophy
 - theme/critical-thinking
 - theme/learning
-related_concepts:
-- "[[Examined Life]]"
-- "[[Mind and Its Wonders]]"
-- "[[Certainty of Knowledge]]"
-- "[[Western Learner]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- "[[Jin Li]]"
-- "[[Plato]]"
+related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -64,7 +56,7 @@ updated: 2026-05-22
 > [!tip]
 > 苏格拉底的追问方法有三个特征（Li, 2012, pp.31-32）：
 
-1. **从例子到定义的追问**：在[[Examined Life|优绪弗洛对话]]中，当优绪弗洛以"我正在起诉我父亲"作为"虔敬"的回答时，苏格拉底拒绝接受——"我不是让你告诉我一两个虔敬的行为，而是那个使所有虔敬行为成为虔敬的**形式本身**（form itself）"（Li, 2012, p.32）
+1. **从例子到定[[Rightness|义]]的追问**：在优绪弗洛对话中，当优绪弗洛以"我正在起诉我父亲"作为"虔敬"的回答时，苏格拉底拒绝接受——"我不是让你告诉我一两个虔敬的行为，而是那个使所有虔敬行为成为虔敬的**形式本身**（form itself）"（Li, 2012, p.32）
 
 2. **执着与无情**：苏格拉底频频提出尖锐问题——"不关心优绪弗洛被逼到墙角会有何感受"——"他一步一步地巧妙推进，不给优绪弗洛任何余地，只能同意他的观点"（Li, 2012, p.32）
 
@@ -80,8 +72,8 @@ updated: 2026-05-22
 ## 影响
 
 > [!success]
-> - 苏格拉底是 Li 识别的 [[Examined Life|西方学习传统第三主题]]的最完整人格化体现——他代表了质疑一切理所当然之事的智识态度（Li, 2012, pp.31-33）
-> - 他是 [[Mind and Its Wonders|西方先天论心智传统]]的起点——"知识即回忆"的论断开启了 2,500 年的先天论与经验论之争（Li, 2012, pp.27-29）
+> - 苏格拉底是 Li 识别的 西方学习传统第三主题的最完整人格化体现——他代表了质疑一切理所当然之事的智识态度（Li, 2012, pp.31-33）
+> - 他是 西方先天论心智传统的起点——"知识即回忆"的论断开启了 2,500 年的先天论与经验论之争（Li, 2012, pp.27-29）
 > - 现代学术自由被 Li 视为苏格拉底批判精神的制度化延续——教师和学生"自由探究、思考和挑战旧观念并表达新思想"（Li, 2012, pp.32-33）
 > - 苏格拉底与 [[Confucius|孔子]] 在 Li 的比较框架中形成对称：两人均不立文字、均由弟子记录思想，但一人向外追问真知，一人向内修养人格。Li 引 Hecht 将苏格拉底与耶稣并列为西方最具创新性的人物（Li, 2012, p.164 脚注 2）
 
@@ -97,4 +89,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

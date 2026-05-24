@@ -12,20 +12,13 @@ issuing_organization: ''
 tags:
 - region/global
 - level/higher-ed
-related_concepts:
-- '[[Global Universities Rankings]]'
-- '[[University Social Responsibility]]'
-- '[[Organizational Actorhood]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Ellen Hazelkorn]]'
-related_facts:
-- '[[UN Sustainable Development Goals 2015]]'
-related_arguments:
-- '[[Argument_Zapp_2022_Springer]]'
-sources:
-- '[[Ch9_Zapp_2022]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: high
 status: draft
 created: '2026-05-11'
@@ -105,4 +98,4 @@ updated: '2026-05-18'
 ---
 ## 来源
 
-- [[Ch9_Zapp_2022]]
+- Ch9_Zapp_2022

@@ -1,30 +1,23 @@
 ---
 title: Argument_Blass_2020_JESP
-summary: "以五要素框架（方法论、情境、假设、领导力、时效性）评估 Hattie VL 在澳大利亚教育政策中的误用，揭示 VL 被用作\"不改变的好借口\"而抑制教学创新，记录 Hattie 后续工作中放弃排名转向学习模型"
+summary: "以五要素框架（方法论、情境、假设、领导力、时效性）评估 Hattie VL 在澳大利亚教育政策中的误用，揭示 VL 被用作“不改变的好借口“而抑制教学创新，记录 Hattie 后续工作中放弃排名转向学习模型"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Journal of Education & Social Policy
 citation: 'Blass, E. (2020). Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia. Journal of Education & Social Policy, 7(4), 91–97.'
 tags:
-- Visible Learning
+- visible-learning
 - evidence-based-education
 - region/australia
 - stance/critique
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
-- '[[Problem-Based Learning]]'
-- '[[Surface and Deep Learning]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Meta-analysis]]'
-related_persons:
-- '[[John Hattie]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Blass_2020_JESP]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -113,4 +106,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Blass_2020_JESP]]
+- Blass_2020_JESP

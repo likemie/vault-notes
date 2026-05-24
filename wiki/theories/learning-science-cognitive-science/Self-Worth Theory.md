@@ -10,17 +10,13 @@ tags:
   - theme/motivation
   - theme/affect
   - theme/self-esteem
-related_concepts:
-  - "[[Intrinsic vs Extrinsic Motivation]]"
-  - "[[Entity vs Incremental Intelligence]]"
-related_theories:
-  - "[[Attribution Theory]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -61,4 +57,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

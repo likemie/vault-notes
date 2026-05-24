@@ -7,23 +7,17 @@ type: fact
 subtype: event
 region: russia
 tags:
-- Visible Learning
+- visible-learning
 - evidence-based-education
 - region/russia
 - level/k12
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
-- '[[Policy Borrowing]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-related_facts:
-- '[[Visible Learning Branding and Global Influences]]'
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[Golovchin_2019_ESC]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -76,4 +70,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Golovchin_2019_ESC]]
+- Golovchin_2019_ESC

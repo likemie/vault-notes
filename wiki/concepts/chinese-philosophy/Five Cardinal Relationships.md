@@ -13,20 +13,13 @@ tags:
 - field/cultural-psychology
 - field/chinese-philosophy
 - theme/ethics
-related_concepts:
-- "[[Self-Cultivation]]"
-- "[[Filial Piety]]"
-- "[[Li (Propriety)]]"
-- "[[Ren]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- "[[Confucius]]"
+related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -52,7 +45,7 @@ updated: 2026-05-22
 
 | 关系 | 英文 | 德目 | 英文 |
 |------|------|------|------|
-| 父子（父母-子女） | parent-child | 孝（子女对父母）／慈爱（父母对子女） | filial piety / unconditional love (ai/ciài, 愛/慈愛) |
+| 父子（父母-子女） | parent-child | [[Filial Piety|孝]]（子女对父母）／慈爱（父母对子女） | filial piety / unconditional love (ai/ciài, 愛/慈愛) |
 | 兄弟（兄弟姐妹） | sibling | 悌 | sibling love and responsibility (tì) |
 | 夫妇（夫-妻） | husband-wife | 敬 | respect (jìng) |
 | 君臣／雇佣（雇主-雇员） | ruler-subject / employer-employee | 忠 | utmost dedication / loyalty (zhōng) |
@@ -94,4 +87,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

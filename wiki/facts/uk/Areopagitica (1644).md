@@ -14,18 +14,13 @@ tags:
 - freedom-of-speech
 - knowledge-transfer
 - geopolitics-of-knowledge
-related_concepts:
-- '[[Knowledge Transfer]]'
-- '[[Geopolitics of Knowledge]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[Great Firewall of China]]'
-related_arguments:
-- '[[Argument_Partaken_2022_Springer]]'
-sources:
-- '[[Ch5_Partaken_2022]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -82,4 +77,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch5_Partaken_2022]]
+- Ch5_Partaken_2022

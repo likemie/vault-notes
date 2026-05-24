@@ -10,19 +10,13 @@ tags:
 - executive-function
 - learning-science
 - cognitive-science
-related_concepts:
-- '[[executive-function]]'
-- '[[cognitive-shifting]]'
-- '[[updating-and-monitoring]]'
-- '[[prefrontal-cortex]]'
-related_theories:
-- '[[miyake-unity-diversity-framework]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Bolton_2017_ArchPsych]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -32,9 +26,9 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 认知抑制（Cognitive Inhibition）是执行功能（[[executive-function]]）的核心成分之一，指在必要时故意抑制主导性、自动化或常见反应的能力（Bolton & Hattie, 2017, p.4）。
+> 认知抑制（Cognitive Inhibition）是执行功能（executive-function）的核心成分之一，指在必要时故意抑制主导性、自动化或常见反应的能力（Bolton & Hattie, 2017, p.4）。
 >
-> 在 Miyake 的[[miyake-unity-diversity-framework|EF 统一性与多样性框架]]中，抑制主导性或优势反应（inhibition of dominant or proponent responses）被列为 EF 的三个基本成分之一（Bolton & Hattie, 2017, p.4）。
+> 在 Miyake 的EF 统一性与多样性框架中，抑制主导性或优势反应（inhibition of dominant or proponent responses）被列为 EF 的三个基本成分之一（Bolton & Hattie, 2017, p.4）。
 
 ## 测量方式
 
@@ -53,8 +47,8 @@ updated: '2026-05-18'
 ## 与前额叶皮层的关系
 
 > [!info] 与前额叶皮层的关系
-> 抑制任务期间前额叶皮层（[[prefrontal-cortex]]）的腹外侧（vlPFC）和背外侧（dlPFC）区域均被激活（Bolton & Hattie, 2017, p.12）。眼眶 PFC 在细胞和神经元层面负责抑制大脑其他区域（Bolton & Hattie, 2017, p.8）。
+> 抑制任务期间前额叶皮层（prefrontal-cortex）的腹外侧（vlPFC）和背外侧（dlPFC）区域均被激活（Bolton & Hattie, 2017, p.12）。眼眶 PFC 在细胞和神经元层面负责抑制大脑其他区域（Bolton & Hattie, 2017, p.8）。
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
+- Bolton_2017_ArchPsych

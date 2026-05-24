@@ -6,21 +6,15 @@ summary: "德国教育学者和有效教学研究者，Unterrichtsqualität und 
 type: person
 nationality: germany
 tags:
-- Andreas-Helmke
+- andreas-helmke
 - effective-teaching
 - region/germany
-related_concepts:
-- '[[Effective Teaching]]'
-- '[[Feedback]]'
-- '[[Individualised Instruction]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Hilbert Meyer]]'
+related_persons: []
 related_arguments: []
-sources:
-- '[[Laursen_2015_Paideia]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -30,7 +24,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Andreas Helmke 是德语[[Effective Teaching|有效教学]]研究综合的重要作者，代表作 *Unterrichtsqualität und Lehrerprofessionalität* 系统讨论教学质量与教师专业性。他的研究综合常与 [[John Hattie|Hattie]]、[[Hilbert Meyer|Meyer]] 的工作并列讨论，并特别强调学生前提条件、巩固、动机和文化语境对教学效果解释的重要性（Laursen, 2015, pp.34–36）。
+> Andreas Helmke 是德语[[Effective Teaching|有效教学]]研究综合的重要作者，代表作 *Unterrichtsqualität und Lehrerprofessionalität* 系统讨论教学质量与教师专业性。他的研究综合常与 [[John Hattie|Hattie]]、Meyer 的工作并列讨论，并特别强调学生前提条件、巩固、动机和文化语境对教学效果解释的重要性（Laursen, 2015, pp.34–36）。
 
 ## 核心思想
 
@@ -59,4 +53,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[Laursen_2015_Paideia]]
+- Laursen_2015_Paideia

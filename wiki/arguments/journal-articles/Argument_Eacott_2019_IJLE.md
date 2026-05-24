@@ -1,6 +1,6 @@
 ---
 title: Argument_Eacott_2019_IJLE
-summary: "以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中\"平行独白\"现象，主张以论证与反驳为学术工作的生成逻辑"
+summary: "以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中“平行独白“现象，主张以论证与反驳为学术工作的生成逻辑"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -12,20 +12,13 @@ tags:
 - parallel-monologues
 - neo-taylorism
 - stance/critique
-related_concepts:
-- '[[Parallel Monologues]]'
-- '[[Visible Learning]]'
-- '[[Neo-Taylorism in Educational Administration]]'
-related_theories:
-- '[[Pierre Bourdieu]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Scott Eacott]]'
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Eacott_2019_IJLE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -89,4 +82,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Eacott_2019_IJLE]]
+- Eacott_2019_IJLE

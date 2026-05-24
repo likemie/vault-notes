@@ -13,18 +13,12 @@ tags:
 - region/us
 - level/k12
 related_concepts: []
-related_theories:
-- '[[Refraction Framework]]'
-related_methods:
-- '[[Seasonal Comparison]]'
-related_persons:
-- '[[James S. Coleman]]'
-related_facts:
-- '[[Moynihan Report 1965]]'
-- '[[A Nation at Risk 1983]]'
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[Downey_2016_SoE]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-04'
@@ -214,9 +208,9 @@ updated: '2026-05-18'
 > - [[Refraction Framework]] — Downey & Condron (2016) 在 Coleman Report 50 周年时提出，作为对该报告核心问题（"学校与不平等的关系是什么？"）的重新回答：学校沿不同维度以不同方式折射不平等
 > - [[Seasonal Comparison]] — 解决 Coleman Report 未能解决的方法论难题（分离学校与非学校效应）的新一代研究设计，其证据表明 Coleman 可能低估了学校的补偿性作用
 > - [[A Nation at Risk 1983]] — 标志着 Coleman 之后的第一次政治框定翻转：保守派从引用 Coleman（"家庭是问题"）转向"学校是问题"
-> - [[Moynihan Report 1965]] — 1965 年发布的联邦报告，因"责怪受害者"争议而间接压制了对 Coleman 所强调的家庭因素的学术关注
+> - Moynihan Report 1965 — 1965 年发布的联邦报告，因"责怪受害者"争议而间接压制了对 Coleman 所强调的家庭因素的学术关注
 > - [[No Child Left Behind Act 2001]] — 体现了 Coleman 所批评的"仅基于单一时间点考试成绩评估学校"的做法，其向增值评估的转变被 Downey & Condron 视为"情境方的一次值得关注的胜利"
 
 ## 来源
 
-- [[Downey_2016_SoE]]
+- Downey_2016_SoE

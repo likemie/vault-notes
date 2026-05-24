@@ -8,22 +8,13 @@ tags:
 - effective-teaching
 - subject/instruction
 - level/k12
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Feedback]]'
-- '[[Individualised Instruction]]'
-related_theories:
-- '[[Hofstede''s Cultural Dimensions]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Hilbert Meyer]]'
-- '[[Andreas Helmke]]'
-- '[[Jill Mehlbye]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Laursen_2015_Paideia]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -35,16 +26,16 @@ updated: '2026-05-18'
 > [!info] 定义
 > 有效教学（effective teaching / god undervisning）是一个综合性教学质量概念，用来概括教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习。Laursen (2015) 讨论的重点不是教学法排名，而是教学方法背后的质量条件：方法是否适合内容和目标，学生是否知道要学什么和下一步怎么做，课堂是否既安全又有学业要求（Laursen, 2015, pp.35–36）。
 >
-> 在 Laursen 的整理中，[[John Hattie|Hattie]]、[[Hilbert Meyer|Meyer]] 和 [[Andreas Helmke|Helmke]] 的研究综合虽然方法和表述不同，但都把有效教学的重心放在教师领导、清晰目标、适配学生前提、学习导向课堂气氛和学生主动参与上。丹麦证据则进一步显示，这些质量在丹麦总体上同样重要，尤其对社会背景较弱的学生更为关键（Laursen, 2015, pp.35–40）。
+> 在 Laursen 的整理中，[[John Hattie|Hattie]]、Meyer 和 Helmke 的研究综合虽然方法和表述不同，但都把有效教学的重心放在教师领导、清晰目标、适配学生前提、学习导向课堂气氛和学生主动参与上。丹麦证据则进一步显示，这些质量在丹麦总体上同样重要，尤其对社会背景较弱的学生更为关键（Laursen, 2015, pp.35–40）。
 
 ## 核心要素
 
 
 ### 课堂组织与教师领导
 
-- **明确领导**：Hattie 强调教师应主动掌控、领导并投入教学与学习；[[SFI Report 2013|SFI 报告]]中的对应发现是，清晰且一致的课堂管理与丹麦学生更好的学习结果相关（Laursen, 2015, pp.35, 37）。
+- **明确领导**：[[John Hattie|Hattie]] 强调教师应主动掌控、领导并投入教学与学习；SFI 报告中的对应发现是，清晰且一致的[[Classroom Management|课堂管理]]与丹麦学生更好的学习结果相关（Laursen, 2015, pp.35, 37）。
 - **清晰目标**：有效教学要求教师明确学习目标，并持续判断学生通向目标的下一步。SFI 报告同样发现，清晰学科目标和高要求与更好的考试成绩相关（Laursen, 2015, pp.35, 37）。
-- **高要求与表现取向**：丹麦研究和国际研究都显示，重视学业表现本身是高学业成就的重要因素。丹麦教师对学业表现的优先度不高，可能是丹麦学生在 PISA 等国际比较中表现居中的原因之一（Laursen, 2015, p.38）。
+- **高要求与表现取向**：丹麦研究和国际研究都显示，重视学业表现本身是高学业成就的重要因素。丹麦教师对学业表现的优先度不高，可能是丹麦学生在 [[PISA]] 等国际比较中表现居中的原因之一（Laursen, 2015, p.38）。
 
 ### 学生理解与反馈
 
@@ -54,7 +45,7 @@ updated: '2026-05-18'
 
 ### 课堂气氛与学生参与
 
-- **安全的学习环境**：教师与学校领导需要营造安全、学习导向的课堂气氛，使学生可以把错误视为学习机会。丹麦研究也显示，良好班级社会环境有助于学习（Laursen, 2015, pp.35, 37）。
+- **安全的学习环境**：教师与[[School Leadership|学校领导]]需要营造安全、学习导向的课堂气氛，使学生可以把错误视为学习机会。丹麦研究也显示，良好班级社会环境有助于学习（Laursen, 2015, pp.35, 37）。
 - **学生主动参与**：Hattie、Meyer 和 Helmke 都把学生主动参与视为有效教学的一部分；但"主动参与"不等于把学习责任完全交给学生，尤其不能忽视学生社会背景与前提条件的差异（Laursen, 2015, pp.35–38）。
 
 ## 与相关概念的区别
@@ -69,7 +60,7 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - [[Hofstede's Cultural Dimensions]] 为 Laursen 的跨文化问题提供了假设来源：如果丹麦文化高度个人主义、低权力距离、女性化且低不确定性规避，那么开放、对话、弱教师控制的教学似乎应更适合丹麦学生（Laursen, 2015, pp.36–37）。
-> - 丹麦证据部分否定了这一预期。[[SFI Report 2013|SFI 报告]]显示，开放、弱控制的教学主要有利于社会背景较强的学生；对社会背景较弱的学生来说，明确的教师领导和清晰目标更重要。Laursen 因此认为，Hofstede 所谓"丹麦国家文化"可能更接近受教育中产阶级文化，而不是所有丹麦学生共享的文化（Laursen, 2015, p.40）。
+> - 丹麦证据部分否定了这一预期。SFI 报告显示，开放、弱控制的教学主要有利于社会背景较强的学生；对社会背景较弱的学生来说，明确的教师领导和清晰目标更重要。Laursen 因此认为，Hofstede 所谓"丹麦国家文化"可能更接近受教育中产阶级文化，而不是所有丹麦学生共享的文化（Laursen, 2015, p.40）。
 
 ## 情境机制
 
@@ -93,19 +84,19 @@ updated: '2026-05-18'
 
 ### 国际研究综合
 
-[[John Hattie|Hattie]]、[[Hilbert Meyer|Meyer]] 和 [[Andreas Helmke|Helmke]] 的综合构成 Laursen 的国际参照。三者虽有细节差异，但都强调教师领导、适应个体学生、清晰目标和学习导向氛围。Helmke 额外强调巩固和动机，Hattie 在其他著作中也强调这些因素（Laursen, 2015, p.35）。
+[[John Hattie|Hattie]]、Meyer 和 Helmke 的综合构成 Laursen 的国际参照。三者虽有细节差异，但都强调教师领导、适应个体学生、清晰目标和学习导向氛围。Helmke 额外强调巩固和动机，Hattie 在其他著作中也强调这些因素（Laursen, 2015, p.35）。
 
 Laursen 将这些共同点概括为"经典基本质量"：促进学习的关键不在某种固定教学形式，而在目标、教师领导、课堂气氛、学生前提适配和学生主动参与等基础条件（Laursen, 2015, pp.35–36）。
 
 ### 丹麦 SFI 证据
 
-[[SFI Report 2013]] 是 Laursen 检验国际综合丹麦适用性的主要本土证据。报告显示，清晰一致的课堂管理、清晰目标、高要求、良好社会环境和班级教师团队合作均与丹麦学生更好结果相关（Laursen, 2015, p.37）。
+[[SFI Report 2013]] 是 Laursen 检验国际综合丹麦适用性的主要本土证据。报告显示，清晰一致的[[Classroom Management|课堂管理]]、清晰目标、高要求、良好社会环境和班级教师团队合作均与丹麦学生更好结果相关（Laursen, 2015, p.37）。
 
 SFI 报告同时给出两个限定：第一，学生社会背景显著影响开放教学、共同解题和个体解题的效果；第二，教学差异化没有显示显著学习效果，这与 Hattie 对[[Individualised Instruction|个别化教学]]效应较小的判断、Helmke 对教学差异化经验证据不足的判断相近（Laursen, 2015, p.38）。
 
 ### 丹麦高绩效学校证据
 
-[[Jill Mehlbye|Mehlbye]] 的 2004 年和 2010 年高绩效学校研究提供了学校层面的丹麦证据。高要求、高期待、学业表现取向和明确课堂管理在这些研究中重复出现，并与 SFI 报告形成相互印证（Laursen, 2015, pp.37–38）。
+Mehlbye 的 2004 年和 2010 年高绩效学校研究提供了学校层面的丹麦证据。高要求、高期待、学业表现取向和明确课堂管理在这些研究中重复出现，并与 SFI 报告形成相互印证（Laursen, 2015, pp.37–38）。
 
 Mehlbye 研究还显示，频繁测试在丹麦可能具有正向学习作用，且测试受到丹麦学生欢迎。这一点与 Hattie 关于频繁测试没有显著积极效果的结论不同，是丹麦证据中少数明显偏差之一（Laursen, 2015, pp.38–39）。
 
@@ -132,4 +123,4 @@ Laursen 的结论是，Hattie、Meyer 和 Helmke 关于有效教学的综合"总
 
 ## 来源
 
-- [[Laursen_2015_Paideia]]
+- Laursen_2015_Paideia

@@ -13,21 +13,13 @@ tags:
 - teacher-quality
 - region/us
 - level/k12
-related_concepts:
-- '[[Programme Fidelity vs Adaptation]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Nancy Cartwright]]'
-- '[[Nick Cowen]]'
-- '[[Dylan Wiliam]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Cowen_2015_CHESS]]'
-- '[[Wiliam_2019_ERE]]'
-- '[[Johnson_2023_CE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -98,5 +90,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Cowen_2015_CHESS]]
-- [[Wiliam_2019_ERE]]
+- Cowen_2015_CHESS
+- Wiliam_2019_ERE

@@ -8,17 +8,13 @@ tags:
 - evaluation
 - methodology
 - region/denmark
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Romer_2018_EPT]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -56,4 +52,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Romer_2018_EPT]]
+- Romer_2018_EPT

@@ -13,20 +13,13 @@ tags:
 - region/global
 - policy/innovation
 - policy/education
-related_concepts:
-- '[[Performance Indicators]]'
-- '[[Theories of Policy Change]]'
-- '[[Selectivity]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[Europe 2020 Strategy]]'
-- '[[EU Skills Agenda]]'
-related_arguments:
-- '[[Argument_Rambla_2022_Springer]]'
-sources:
-- '[[Ch10_Rambla_2022]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -61,7 +54,7 @@ updated: '2026-05-18'
 
 ### 核心政策工具：区域创新记分牌
 
-EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovation Union 的核心监测工具，根据各 NUTS2 区域的创新能力将其分为"创新领导者""强创新者""一般创新者""温和创新者"四个类别。指标涵盖研发支出、专利数量、科技人员数量等（Hollanders & Es-Sadki, 2017; Rambla, 2022, p.169）。该记分牌是 [[Performance Indicators]] 在欧盟治理中的典型案例——它同时运作于技术维度（提供可比较数据）和权力维度（塑造"什么是好创新"的定义并推动区域竞争）。
+EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovation Union 的核心监测工具，根据各 NUTS2 区域的创新能力将其分为"创新领导者""强创新者""一般创新者""温和创新者"四个类别。指标涵盖研发支出、专利数量、科技人员数量等（Hollanders & Es-Sadki, 2017; Rambla, 2022, p.169）。该记分牌是 [[Performance Indicators]] 在欧盟治理中的典型案例——它同时运作于技术维度（提供可比较数据）和权力维度（塑造"什么是好创新"的定[[Rightness|义]]并推动区域竞争）。
 
 ## 时间线
 
@@ -92,7 +85,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 ### 结构性局限
 
-- 绩效指标体系倾向于将创新窄化为研发投入和专利产出等可量化指标，忽视了社会创新、基层创新等更广泛的创新形式。详见 [[Selectivity]]（Rambla, 2022, p.174）
+- [[Performance Indicators|绩效指标]]体系倾向于将创新窄化为研发投入和专利产出等可量化指标，忽视了社会创新、基层创新等更广泛的创新形式。详见 [[Selectivity]]（Rambla, 2022, p.174）
 - 区域创新记分牌的分类（"创新领导者""一般创新者"）在年复一年的发布中从描述性标签演变为自我实现的预言——"创新领导者"更易吸引投资，"一般创新者"则陷入资源劣势的累积循环（p.174）
 
 > [!info]- 核心数据
@@ -117,4 +110,4 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 ## 来源
 
-- [[Ch10_Rambla_2022]]
+- Ch10_Rambla_2022

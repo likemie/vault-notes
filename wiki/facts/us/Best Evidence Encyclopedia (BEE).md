@@ -8,23 +8,18 @@ type: fact
 subtype: event
 region: us
 tags:
-- Best-Evidence-Encyclopedia
-- BEE
+- best-evidence-encyclopedia
+- bee
 - educational-evidence-clearinghouse
 - evidence-based-education
 - region/us
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Evidence-Based Education]]'
-- '[[Randomised Controlled Trials]]'
-- '[[Effect Size]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -45,7 +40,7 @@ updated: '2026-05-18'
 > [!abstract] 证据标准
 > 在研究设计标准表中，BEE 对 RCT 的描述程度为 1，对一般 QED 的描述程度为 1，对 RDD 和 ITS 均为 0。作者的编码含义是：1 表示该设计类型只被简要提及，未提供具体实施标准；0 表示标准未提及该设计类型（Wadhwa et al., 2024, pp.9–10, 29）。
 >
-> BEE 与 [[Blueprints for Healthy Youth Development|Blueprints]]、[[Promising Practices Network (PPN)|PPN]]、[[Collaborative for Academic Social and Emotional Learning Guide (CASEL)|CASEL]]、[[Social Programs That Work (SPTW)|SPTW]] 一样，只报告具有正向效果的项目；在最低效果阈值上，BEE 要求至少 0.20 SD 的影响（Wadhwa et al., 2024, p.12）。
+> BEE 与 Blueprints、[[Promising Practices Network (PPN)|PPN]]、[[Collaborative for Academic Social and Emotional Learning Guide (CASEL)|CASEL]]、[[Social Programs That Work (SPTW)|SPTW]] 一样，只报告具有正向效果的项目；在最低效果阈值上，BEE 要求至少 0.20 SD 的影响（Wadhwa et al., 2024, p.12）。
 
 ## 与其他清算中心的差异
 
@@ -62,4 +57,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- Wadhwa_2024_RER

@@ -8,23 +8,18 @@ type: fact
 subtype: event
 region: us
 tags:
-- CASEL
+- casel
 - educational-evidence-clearinghouse
 - evidence-based-education
 - social-emotional-learning
 - region/us
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Evidence-Based Education]]'
-- '[[Randomised Controlled Trials]]'
-- '[[What Works Clearinghouse (WWC)]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -45,7 +40,7 @@ updated: '2026-05-18'
 > [!abstract] 证据标准
 > 在设计标准编码中，CASEL 对 RCT 的描述程度为 1，对一般 QED 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它和 [[Home Visiting Evidence of Effectiveness (HomVEE)|HomVEE]] 一样在流失指南上遵循 [[What Works Clearinghouse (WWC)|WWC]] 指南；这意味着其流失判断与 WWC 的总体流失和差异流失组合规则有关（Wadhwa et al., 2024, p.9）。
 >
-> CASEL 与 [[Blueprints for Healthy Youth Development|Blueprints]]、[[Promising Practices Network (PPN)|PPN]]、[[Best Evidence Encyclopedia (BEE)|BEE]] 和 [[Social Programs That Work (SPTW)|SPTW]] 一样，只报告具有正向效果的项目；这使它不同于 [[What Works Clearinghouse (WWC)|WWC]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)|CMFR]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)|CEBC]] 等会区分无效与效果不确定项目的清算中心（Wadhwa et al., 2024, p.12）。
+> CASEL 与 Blueprints、[[Promising Practices Network (PPN)|PPN]]、[[Best Evidence Encyclopedia (BEE)|BEE]] 和 [[Social Programs That Work (SPTW)|SPTW]] 一样，只报告具有正向效果的项目；这使它不同于 [[What Works Clearinghouse (WWC)|WWC]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)|CMFR]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)|CEBC]] 等会区分无效与效果不确定项目的清算中心（Wadhwa et al., 2024, p.12）。
 
 ## 与其他清算中心的差异
 
@@ -62,4 +57,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- Wadhwa_2024_RER

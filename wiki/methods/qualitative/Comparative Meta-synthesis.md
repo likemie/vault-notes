@@ -12,14 +12,10 @@ tags:
   - subject/methodology
 related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
+related_methods: []
 related_persons: []
-related_arguments:
-  - "[[Argument_Håkansson_2015_TT]]"
-sources:
-  - "[[Håkansson_2015_TT]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -73,4 +69,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Håkansson_2015_TT]]
+- Håkansson_2015_TT

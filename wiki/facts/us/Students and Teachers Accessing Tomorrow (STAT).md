@@ -15,23 +15,13 @@ tags:
   - technology-integration
   - program-evaluation
   - evidence-based-education
-related_concepts:
-  - "[[Technology Infusion]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Professional Judgment]]"
-  - "[[Absorptive Capacity]]"
-  - "[[Implementation Fidelity]]"
+related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Quasi-Experimental Designs]]"
-  - "[[Formative Evaluation]]"
-  - "[[Logic Model]]"
+related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
-sources:
-  - "[[Ross_Morrison_2021_ROE]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -94,4 +84,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Ross_Morrison_2021_ROE]]
+- Ross_Morrison_2021_ROE

@@ -13,20 +13,12 @@ tags:
 - program-evaluation
 - implementation
 - evidence-informed-practice
-related_concepts:
-- '[[Evidence-Informed Practice]]'
-- '[[Professional Judgment]]'
-- '[[Absorptive Capacity]]'
-- '[[Implementation Fidelity]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Logic Model]]'
-- '[[Mixed Method and Multi-method Research]]'
+related_methods: []
 related_persons: []
-related_arguments:
-- '[[Argument_Ross_Morrison_2021_ROE]]'
-sources:
-- '[[Ross_Morrison_2021_ROE]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-23'
@@ -45,14 +37,14 @@ updated: '2026-05-23'
 > [!abstract]
 > 形成性评价把证据视为改进过程中的反馈，而不是一次性裁决。它默认教育项目会在真实组织中被不断解释、调整和再实施，因此评价者需要同时关注实施过程、短期输出、长期结果和利益相关者理解（Ross & Morrison, 2021, pp.121-124）。
 
-这使形成性评价特别接近[[Evidence-Informed Practice|证据知情实践]]：研究证据进入实践后，需要和地方目标、专业判断、实施条件及用户经验共同被解释。若评价只提供终点成绩结果，复杂改革中的中间变化很容易被遮蔽（Ross & Morrison, 2021, pp.121-123）。
+这使形成性评价特别接近[[Evidence-Informed Practice|证据知情实践]]：研究证据进入实践后，需要和地方目标、[[Professional Judgment|专业判断]]、实施条件及用户经验共同被解释。若评价只提供终点成绩结果，复杂改革中的中间变化很容易被遮蔽（Ross & Morrison, 2021, pp.121-123）。
 
 ## 研究程序
 
 > [!example]
 > 形成性评价通常先建立[[Logic Model|逻辑模型]]，再围绕输入、即时输出、短期结果和长期结果收集多源数据，并在项目推进过程中持续反馈给利益相关者（Ross & Morrison, 2021, pp.115, 123-124）。
 
-在 [[Students and Teachers Accessing Tomorrow (STAT)]] 中，形成性评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂教师焦点小组、课堂观察、行为数据，以及英语语言艺术和数学成就数据。评价目的不是把 STAT 还原为单一因果效应，而是追踪教师准备、设备进入课堂、数字资源使用、学生参与、教学方式变化和成就结果之间的阶段性关系（Ross & Morrison, 2021, pp.115-118, 121-124）。
+在 [[Students and Teachers Accessing Tomorrow (STAT)]] 中，形成性评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂教师焦点小组、课堂[[Observational and Correlational Research|观察]]、行为数据，以及英语语言艺术和数学成就数据。评价目的不是把 STAT 还原为单一因果效应，而是追踪教师准备、设备进入课堂、数字资源使用、学生参与、教学方式变化和成就结果之间的阶段性关系（Ross & Morrison, 2021, pp.115-118, 121-124）。
 
 > [!info]- 核心数据
 > - STAT 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应（Ross & Morrison, 2021, p.116）。
@@ -63,7 +55,7 @@ updated: '2026-05-23'
 > [!success]
 > 形成性评价适合用于多组件、长周期、跨学校或跨学区的改革项目，尤其是无法设置纯控制组、无法把项目影响与其他课程和组织变化完全分离的情境（Ross & Morrison, 2021, pp.113-115, 124）。
 
-适用场景包括技术融入、全校改进、课程与专业发展组合项目、跨部门合作项目等。此类改革往往需要先判断“项目是否按计划发生”，再判断“结果是否已经出现”；形成性评价可以帮助避免过早把项目成功只等同于标准化成就提升（Ross & Morrison, 2021, pp.115, 121-123）。
+适用场景包括[[Technology Infusion|技术融入]]、全校改进、课程与专业发展组合项目、跨部门合作项目等。此类改革往往需要先判断“项目是否按计划发生”，再判断“结果是否已经出现”；形成性评价可以帮助避免过早把项目成功只等同于标准化成就提升（Ross & Morrison, 2021, pp.115, 121-123）。
 
 ## 局限性
 
@@ -87,4 +79,4 @@ updated: '2026-05-23'
 
 ## 来源
 
-- [[Ross_Morrison_2021_ROE]]
+- Ross_Morrison_2021_ROE

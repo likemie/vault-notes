@@ -13,22 +13,13 @@ tags:
 - policy/lifelong-learning
 - policy/employment
 - research-project
-related_concepts:
-- '[[Network Governance]]'
-- '[[Theories of Policy Change]]'
-- '[[Selectivity]]'
-- '[[Performance Indicators]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[EU Skills Agenda]]'
-- '[[Youth Guarantee Scheme]]'
-- '[[Europe 2020 Strategy]]'
-related_arguments:
-- '[[Argument_Rambla_2022_Springer]]'
-sources:
-- '[[Ch10_Rambla_2022]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-14'
@@ -101,4 +92,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch10_Rambla_2022]]
+- Ch10_Rambla_2022

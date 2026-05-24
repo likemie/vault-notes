@@ -12,20 +12,13 @@ tags:
 - policy-entrepreneur
 - region/new-zealand
 - level/k12
-related_concepts:
-- '[[Educational Management Organisation (EMO)]]'
-- '[[Network Governance]]'
-- '[[Venture Philanthropy]]'
-- '[[Policy Entrepreneur]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[ONeill_2016_Report]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -90,4 +83,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[ONeill_2016_Report]]
+- ONeill_2016_Report

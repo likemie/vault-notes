@@ -8,21 +8,13 @@ tags:
 - region/global
 - theme/geopolitics
 - level/higher-ed
-related_concepts:
-- '[[Sovereign Internationalism]]'
-- '[[Radical Liberal Internationalism]]'
-- '[[Multiplicity (Massey)]]'
-- '[[Methodological Globalism]]'
-- '[[Scale in Higher Education]]'
-related_theories:
-- '[[World-Systems Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Doreen Massey]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Marginson_2025_ROE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-12'
@@ -54,7 +46,7 @@ updated: '2026-05-18'
 > [!abstract]
 > - **以国家为唯一分析单位** — 将高等教育理解为只能在各自国家范畴内被理解，跨境活动被视为边缘性的（Dale, 2005; Lo & Ng, 2013; Shahjahan & Kezar, 2013）。例如，主流比较教育研究长期以国家为比较单位，忽视跨国和全球层面的分析（Marginson, 2025, p. 8）
 > - **遮蔽全球现象** — 方法论民族主义透镜阻挡了对生态、科学（就其认识论自主性而言）等全球性现象的观察（Marginson, 2025, p. 8）
-> - **与规范性民族主义的共生** — 二者相互倚靠，[[Doreen Massey|Massey]]（2005）称之为"对连贯国族性的浪漫幻想"和净化国家空间的徒劳尝试（Marginson, 2025, p. 8）
+> - **与规范性民族主义的共生** — 二者相互倚靠，Massey（2005）称之为"对连贯国族性的浪漫幻想"和净化国家空间的徒劳尝试（Marginson, 2025, p. 8）
 > - **在高等教育中的具体表现** — 比较教育研究中以国家为唯一比较单位；大学排名将"国家表现"作为关键指标；政策研究将跨境流动视为国家政策的附属物（Marginson, 2025, pp. 8–9）
 
 ---
@@ -79,10 +71,10 @@ updated: '2026-05-18'
 > [!warning]
 > - **Massey（2005）的批判** — 方法论民族主义试图"驯服"空间的开放性和多重性，消解其恐怖与创造性的双重可能（Marginson, 2025, pp. 5–6）
 > - **全球尺度的不可化约性** — 不同尺度共存且不可相互化约，如国家科学的规范中心是国家，而全球科学没有规范中心，由期刊、文献计量、传播网络和合作关系构成。这意味着"国家+全球"的双层分析同样不足以捕捉高等教育空间的多重性（Marginson, 2025, pp. 8–9）
-> - **超越方法论民族主义不意味着否定国家** — Marginson 强调，批判方法论民族主义不等于认为国家不重要。大学"几乎不可能不是国家的"（[[Double Spatiality of Universities|双重空间性]]）。关键在于不将国家视为唯一分析框架（Marginson, 2025, p. 8）
+> - **超越方法论民族主义不意味着否定国家** — Marginson 强调，批判方法论民族主义不等于认为国家不重要。大学"几乎不可能不是国家的"（双重空间性）。关键在于不将国家视为唯一分析框架（Marginson, 2025, p. 8）
 
 ---
 
 ## 来源
 
-- [[Marginson_2025_ROE]]
+- Marginson_2025_ROE

@@ -7,30 +7,19 @@ publication_type: journal-article
 journal: Paideia
 citation: Allerup, P. (2015). Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser. Paideia, 9, 42-51.
 tags:
-- Visible-Learning
+- visible-learning
 - effect-size
 - meta-meta-analysis
 - methodology-critique
 - statistics
 - subject/research-methodology
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Effect Size]]'
-- '[[Statistical Significance]]'
-- '[[Confidence Interval]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Meta-meta-analysis]]'
-- '[[Meta-analysis]]'
-- '[[Covariate Adjustment]]'
-- '[[Rasch Measurement]]'
-related_persons:
-- '[[John Hattie]]'
-- '[[Jacob Cohen]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Allerup_2015_Paideia]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -59,7 +48,7 @@ updated: '2026-05-18'
 
 > [!example] 核心论证
 > 1. **效应量只是均值差的标准化表达。** Allerup 将 d 写作 `(µ1-µ2)/σ`，说明其直观含义是干预前后两个分布的均值差相当于多少个标准差（Allerup, 2015, pp.42–43）。这个表达需要前后分布足够相似，才能被解释为一个分布相对另一个分布的平移。
-> 2. **d 本身不是[[Statistical Significance|显著性]]统计量。** 若要进行常规显著性判断，需要把 d 乘以观测数平方根，形成 `t=d√n`，再按 t 分布判断；以 n=25 为例，t=2.060 对应 d≈0.412，因此 Hattie 的 0.40 阈值只是在特定样本量和检验设定下接近 p=0.05（Allerup, 2015, pp.45–46）。
+> 2. **d 本身不是显著性统计量。** 若要进行常规显著性判断，需要把 d 乘以观测数平方根，形成 `t=d√n`，再按 t 分布判断；以 n=25 为例，t=2.060 对应 d≈0.412，因此 Hattie 的 0.40 阈值只是在特定样本量和检验设定下接近 p=0.05（Allerup, 2015, pp.45–46）。
 > 3. **d 的解释依赖强分布前提。** 若分布偏态，均值不再位于"中间"；若干预前后标准差不同，均值差不再表示简单平移；若基础分布类似 Cauchy 分布，均值和方差都不稳定，d 的计算基础会变得脆弱（Allerup, 2015, pp.45–49）。
 > 4. **Hattie 的排名未报告置信区间或标准误。** PISA 排名会用区间显示均值估计的误差范围，Hattie 的效应量排名只给点估计，读者无法判断相邻干预的 d 值差异是否显著；例如 feedback d=0.71 与 teacher-student relationship d=0.72 的差别可能并不具有可解释意义（Allerup, 2015, pp.47–48）。这一点与 [[Meta-meta-analysis#6 项方法论要求]] 中"联合标准误和置信区间"的要求相互呼应。
 > 5. **边际效应量会被协变量改变。** 在 TIMSS 2011 丹麦四年级数学例子中，教师学科专业资格的未控制效应量约为 0.15；控制学生社会经济背景后，效应量降至 0.08 且不再显著（Allerup, 2015, pp.49–51）。因此，把单个 d 当作最终排序依据会遮蔽模型选择和第三变量影响；这也是 [[Visible Learning]] 排名表作为实践指南时的关键限制。
@@ -88,4 +77,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Allerup_2015_Paideia]]
+- Allerup_2015_Paideia

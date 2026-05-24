@@ -10,22 +10,13 @@ tags:
 - higher-education
 - region/global
 - level/higher-ed
-related_concepts:
-- '[[Geopolitics of Knowledge]]'
-- '[[Regulatory Regionalism]]'
-- '[[Global Education Industry]]'
-- '[[International Education Hubs]]'
-- '[[Regional University Alliances]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Susan Robertson]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Parreira do Amaral(Ed.)_2022_Springer]]'
-- '[[Ch3_Parreira do Amaral_2022]]'
-- '[[Ch4_Amos_2022]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -48,7 +39,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note-] 概念演变
-> [[Susan Robertson]] 及其合作者（Robertson et al., 2016）系统研究了高等教育如何被整合进全球区域主义项目、过程和政治。该领域的研究起源于：
+> Susan Robertson 及其合作者（Robertson et al., 2016）系统研究了高等教育如何被整合进全球区域主义项目、过程和政治。该领域的研究起源于：
 >
 > - 20 世纪末区域主义研究的兴起，以欧盟一体化为主要推动力
 > - 2000 年里斯本战略后，欧盟将教育和研究嵌入其作为"全球最具竞争力的知识经济体"的经济想象（Thompson & Parreira do Amaral, 2022, p.11）
@@ -82,8 +73,8 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> - 欧盟层面：过去 20 年间大多数与科学、教育和培训相关的政策在欧盟理事会确立"成为全球最具竞争力知识经济体"目标后制定；教育研究在 [[Horizon 2020 SSH Integration|Horizon 2020]] 框架中被整合为横向议题，直接为政策制定提供证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）
-> - [[Horizon Europe Missions|Horizon Europe]] (2021–) 进一步深化了这种"嵌入式"逻辑，SSH 研究被要求服务于"Europe's missions"（如抗击癌症、适应气候变化等），加剧了学科间的层级化分工（Thompson & Parreira do Amaral, 2022, pp.11–12）
+> - 欧盟层面：过去 20 年间大多数与科学、教育和培训相关的政策在欧盟理事会确立"成为全球最具竞争力知识经济体"目标后制定；教育研究在 Horizon 2020 框架中被整合为横向议题，直接为政策制定提供证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）
+> - Horizon Europe (2021–) 进一步深化了这种"嵌入式"逻辑，SSH 研究被要求服务于"Europe's missions"（如抗击癌症、适应气候变化等），加剧了学科间的层级化分工（Thompson & Parreira do Amaral, 2022, pp.11–12）
 >
 
 ## 争议与批评
@@ -95,5 +86,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Parreira do Amaral(Ed.)_2022_Springer]]
-- [[Ch3_Parreira do Amaral_2022]]
+- Parreira do Amaral(Ed.)_2022_Springer
+- Ch3_Parreira do Amaral_2022

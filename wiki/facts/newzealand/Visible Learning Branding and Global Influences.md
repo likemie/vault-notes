@@ -7,7 +7,7 @@ type: fact
 subtype: event
 region: newzealand
 tags:
-- Visible Learning
+- visible-learning
 - commercialization
 - branding
 - global-policy-adoption
@@ -17,51 +17,16 @@ tags:
 - region/sweden
 - region/russia
 - region/international
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Educational Management Organisation (EMO)]]'
-- '[[Tomorrow''s Schools Reforms (NZ 1989)]]'
-- '[[Cult of the Guru]]'
-- '[[Policy Entrepreneur]]'
-- '[[Performativity of Measurement]]'
-- '[[Neo-Taylorism in Educational Administration]]'
-- '[[Policy Borrowing]]'
-- '[[Global Education Reform Movement (GERM)]]'
-- '[[Evidence-Based Education]]'
-- '[[Effect Size]]'
-- '[[Performance Pay]]'
-- '[[Class Size]]'
-- '[[Material Fallacies]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Scott Eacott]]'
-- '[[Lars Qvortrup]]'
-related_facts:
-- '[[New Zealand National Standards (2009)]]'
-- '[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]'
-- '[[Cognition Education (NZ)]]'
-- '[[Danish Public School Reform 2014]]'
-- '[[Visible Learning in Sweden]]'
-- '[[Russian Translation of Visible Learning 2017]]'
-- '[[Victorian HITS and Literacy Toolkit 2017]]'
+related_persons: []
+related_facts: []
 related_arguments: []
 sources:
-- '[[ONeill_2016_Report]]'
-- '[[Terhart_2011_JCS]]'
-- '[[ONeill_2012_NZJES]]'
-- '[[Laursen_2015_Paideia]]'
-- '[[Håkansson_2015_Paideia]]'
-- '[[Hattie_2015_SOTLP]]'
-- '[[Eacott_2017_SLM]]'
-- '[[Eacott_2019_IJLE]]'
-- '[[Golovchin_2019_ESC]]'
-- '[[Qvortrup_2019_NordSTEP]]'
-- '[[Sarbiewska_2019_JSR]]'
-- '[[Blass_2020_JESP]]'
-- '[[McKnight_2020_Discourse]]'
-- '[[Johnson_2023_CE]]'
+  - "[[Rightness]]"
+  - "[[Effective Teaching]]"
+  - "[[Cult of the Guru]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -81,7 +46,7 @@ updated: '2026-05-18'
 >
 > #### asTTle / e-asTTle：数据与技术前身
 >
-> 1999/2000 年，Hattie 通过奥克兰大学全资公司 Auckland Uniservices Ltd 受新西兰教育部合同委托，领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的、教师管理型的国家课程测试系统，即 [[Visible Learning|VL]] 的数据与技术前身。2000 年代中期，教育部进一步合同开发升级版在线系统 e-asTTle（O'Neill et al., 2016, p.47）。
+> 1999/2000 年，Hattie 通过奥克兰大学全资公司 Auckland Uniservices Ltd 受新西兰教育部合同委托，领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的、教师管理型的国家课程测试系统，即 VL 的数据与技术前身。2000 年代中期，教育部进一步合同开发升级版在线系统 e-asTTle（O'Neill et al., 2016, p.47）。
 >
 > e-asTTle 的报告功能包括学校和学生表现的图形仪表盘展示——与后来 VL 2008 年著作中采用的展示方式"非常相似"（O'Neill et al., 2016, p.47）。
 >
@@ -150,7 +115,7 @@ updated: '2026-05-18'
 >
 > #### 品牌衍生
 >
-> "Visible Learning"已从书名扩展为品牌家族，多个衍生品牌以"Visible _____"格式进入市场（[[Scott Eacott|Eacott]], 2017, p.419）：
+> "Visible Learning"已从书名扩展为品牌家族，多个衍生品牌以"Visible _____"格式进入市场（Eacott, 2017, p.419）：
 >
 > | 衍生品牌 | 负责人 | 领域 |
 > |---------|--------|------|
@@ -233,13 +198,13 @@ updated: '2026-05-18'
 > - 维多利亚州 [[Victorian HITS and Literacy Toolkit 2017|HITS]]（10 项高影响力教学策略）源自 Hattie 和 Marzano 的研究，每项均以 VL 为首要参考文献
 > - researchED Australia（ACER, 2017）为从业者提供分享平台
 > - [[Australian Curriculum]]（2012）三维度（学习领域、通用能力、跨课程优先事项），ACARA 每年评估并报告
-> - [[Gonski Reforms|Gonski 2.0]]（2018）提出以个体进步而非年龄基准衡量成功学习
+> - Gonski 2.0（2018）提出以个体进步而非年龄基准衡量成功学习
 > - 2017 年 VL 获维多利亚州教育部官方背书（Department of Education and Training, 2017）
 > - 2017 年被澳大利亚广播公司（ABC）电视系列片 *Revolution School* 描绘为公共教育的拯救者
 >
 > **AITSL 制度嵌入**：Hattie 担任 AITSL 主席，其工作已深度嵌入：（1）澳大利亚教师和校长的国家专业标准；（2）年度绩效评估体系——要求员工通过数据展示其教学效果并识别改进领域；（3）持续认证体系——要求对照国家标准进行外部检查。
 >
-> **绩效薪酬的制度基础**：VL 的效应量评估体系为教师 [[Performance Pay|绩效薪酬]]（merit pay）提供了技术基础——Hattie 被指控提倡与 VL 评估体系挂钩的教师绩效薪酬元素，但这与 VL 自身强调的"安全、信任的学校文化"构成内在矛盾（Terhart, 2011, pp.434–435）。
+> **绩效薪酬的制度基础**：VL 的效应量评估体系为教师 绩效薪酬（merit pay）提供了技术基础——Hattie 被指控提倡与 VL 评估体系挂钩的教师绩效薪酬元素，但这与 VL 自身强调的"安全、信任的学校文化"构成内在矛盾（Terhart, 2011, pp.434–435）。
 >
 > **教师培训与注册体系中的创新抑制**：Blass（2020, p.91）指出澳大利亚教师培训体系"奖励 regulation 和 standardisation 而非创新"，教师注册委员会要求持续专业发展（CPD）时数而非创新发展时数。在这一制度文化中，VL 被用作证明直接教学模式的"好借口"，从而抑制了对 PBL 和探究式学习等替代教学法的探索。Blass 总结："澳大利亚已在教育中迷失了方向，而 Hattie 被用作证明这一立场的挡箭牌。但我怀疑这不是 Hattie 的本意"（Blass, 2020, p.97）。
 >
@@ -247,14 +212,14 @@ updated: '2026-05-18'
 >
 > #### 丹麦
 >
-> VL 在丹麦的传播经历了从政策采纳到激烈反弹的完整周期（[[Lars Qvortrup|Qvortrup]], 2019, p.3-5）：
+> VL 在丹麦的传播经历了从政策采纳到激烈反弹的完整周期（Qvortrup, 2019, p.3-5）：
 >
 > - **翻译引入**：Hattie *Visible Learning for Teachers* 由 Niels Egelund 和 Qvortrup 撰写导言的丹麦语译本出版，将 VL 定位为 [[Evidence-Based Education|证据本位教育]] 在丹麦的里程碑事件（Qvortrup, 2019, p.3）
-> - **2014 年政策采纳**：丹麦议会多数通过 [[Danish Public School Reform 2014|公立学校改革]]，将科目目标替换为学习目标，明确引用 Hattie 和 VL。改革的核心转向——教育的最终目标不应该是教师教什么而应该是学生学什么——直接呼应了 VL 的"可见的学习成果"理念（Qvortrup, 2019, p.5）
+> - **2014 年政策采纳**：丹麦议会多数通过 公立学校改革，将科目目标替换为学习目标，明确引用 Hattie 和 VL。改革的核心转向——教育的最终目标不应该是教师教什么而应该是学生学什么——直接呼应了 VL 的"可见的学习成果"理念（Qvortrup, 2019, p.5）
 > - **政策捆绑与阻力**：改革与对教师劳动协议的争议性立法干预高度绑定——改革在挑战传统教师角色的同时削减了教师的劳动权利（Qvortrup, 2019, p.5）
-> - **反弹与批评**：改革后在短期内形成了一个由研究者、政治家和工会代表组成的广泛 [[Interpretation Community|解释社群]]——将 Hattie 从"教育英雄"转变为"教育敌人"。批评文集 [[Hattie på dansk 2017]] 汇集了多篇强烈批评文章（Qvortrup, 2019, p.5）
+> - **反弹与批评**：改革后在短期内形成了一个由研究者、政治家和工会代表组成的广泛 解释社群——将 Hattie 从"教育英雄"转变为"教育敌人"。批评文集 [[Hattie på dansk 2017]] 汇集了多篇强烈批评文章（Qvortrup, 2019, p.5）
 > - **Qvortrup 的辩护**：2019 年 Qvortrup 在 NordSTEP 发表讨论论文，以三线论证为 VL 辩护——批评者形成了意识形态驱动的解释社群而非进行学术反驳、定量与定性方法是互补的观察透镜、VL 的目的是提供"智能问题解决的假设"而非"食谱"（详见 [[Argument_Qvortrup_2019_NordSTEP]]）
-> - **Laursen 的适用性检验**：Laursen (2015) 从较温和的经验比较角度追问 Hattie、Meyer 和 Helmke 的国际 [[Effective Teaching|有效教学]] 综合是否适用于丹麦。尽管这些综合主要基于英语国家研究，Laursen 比较 [[SFI Report 2013|SFI 报告]] 和 [[Jill Mehlbye|Mehlbye 高绩效学校研究]] 等丹麦证据后认为，教师领导、清晰目标、高要求、良好班级社会环境等核心质量在丹麦同样促进学生学习（Laursen, 2015, pp.34–40）
+> - **Laursen 的适用性检验**：Laursen (2015) 从较温和的经验比较角度追问 Hattie、Meyer 和 Helmke 的国际 [[Effective Teaching|有效教学]] 综合是否适用于丹麦。尽管这些综合主要基于英语国家研究，Laursen 比较 SFI 报告 和 Mehlbye 高绩效学校研究 等丹麦证据后认为，教师领导、清晰目标、高要求、良好班级社会环境等核心质量在丹麦同样促进学生学习（Laursen, 2015, pp.34–40）
 >
 > #### 瑞典
 >
@@ -277,7 +242,7 @@ updated: '2026-05-18'
 >
 > VL 品牌对学术批评表现出显著的免疫力。尽管存在 Higgins & Simpson (2011)、Snook et al. (2009, 2010)、Terhart (2011)、Bergeron & Rivard (2017) 等实质性方法论批评，Hattie 的工作仍"被政治家和协会引用时仿佛是不容置疑的事实"（Eacott, 2019, p.777）。
 >
-> **出版过程的双重标准**：Hattie（2017）对 [[Scott Eacott|Eacott]] 的回应被 *School Leadership & Management* 在**两天内接收和发表**——而 Eacott 的原论文经历了"数月和多轮评审"。Eacott 指出这一差异本身"将是证实我关于 [[Cult of the Guru|大师地位]] 被编辑合法化的主张的证据"（Eacott, 2019, p.777）。Eacott 随后被编辑拒绝发表对 Hattie 回应的再回应——编辑以"有大量新作者等待发表"为由拒绝，Eacott 认为这"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"（Eacott, 2019, p.778）。
+> **出版过程的双重标准**：Hattie（2017）对 Eacott 的回应被 *School Leadership & Management* 在**两天内接收和发表**——而 Eacott 的原论文经历了"数月和多轮评审"。Eacott 指出这一差异本身"将是证实我关于 大师地位 被编辑合法化的主张的证据"（Eacott, 2019, p.777）。Eacott 随后被编辑拒绝发表对 Hattie 回应的再回应——编辑以"有大量新作者等待发表"为由拒绝，Eacott 认为这"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"（Eacott, 2019, p.778）。
 >
 > **Hattie 本人的距离感**：Hattie 已在某种程度上与 VL 的被运用方式保持距离，表示如果重新来过会避免"结果的暴政"（tyranny of outcomes）（Hattie, in Knudsen, 2017，引自 McKnight & Whitburn, 2020, p.35）。然而，McKnight & Whitburn（2020, p.35）指出 VL"作为一种与更广泛社会和政治力量纠缠的现象"已不完全受 Hattie 个人控制。
 >
@@ -287,7 +252,7 @@ updated: '2026-05-18'
 >
 > #### O'Neill (2012) — 新西兰 Treasury 政策误用与术语口号化
 >
-> O'Neill (2012) 以新西兰 Treasury 2011 年简报为案例，揭示了 [[Visible Learning|VL]] 证据在真实政策过程中被误用的具体机制（详见 [[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]）：
+> O'Neill (2012) 以新西兰 Treasury 2011 年简报为案例，揭示了 VL 证据在真实政策过程中被误用的具体机制（详见 [[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]）：
 >
 > **（1）"教学质量"术语的定义断裂。** Hattie VL 中"教学质量"（quality of teaching，排名 56/138）的元分析证据全部来自大学生评教——按此定义对学校教育政策无任何可证明的相关性。Treasury 将此术语用作代理概念（proxy concept），包装教师绩效管理等更具争议的政策目的（ONeill, 2012, pp.154-155）。
 >
@@ -304,7 +269,7 @@ updated: '2026-05-18'
 > Terhart（2011, p.434-435）记录了 VL 在新西兰引发的争议，比后来 McKnight & Whitburn（2020）的澳大利亚语境更早：
 > - Hattie 是新西兰政府的重要顾问，但其对标准化学校改革策略的批评态度日益增强（p.426）
 > - 作为科学家和政治顾问，"他在新西兰相当有争议"（p.426）
-> - 被批评与新西兰政府的密切联系、在 asTTle 评估和培训项目中的经济利益、提倡 [[Performance Pay|绩效薪酬]]、忽视社会背景和不平等（p.434-435）
+> - 被批评与新西兰政府的密切联系、在 asTTle 评估和培训项目中的经济利益、提倡 绩效薪酬、忽视社会背景和不平等（p.434-435）
 > - Snook, Clark, Harker, O'Neill & O'Neill（2010）发表 *Invisible Learnings?* 评论，对新西兰教育政策中的 VL 提出系统批评（p.435）
 > - Smythe（2010）发表"Visible Shipwreck"批评（p.435）
 >
@@ -346,7 +311,7 @@ updated: '2026-05-18'
 ## 时间线
 
 > [!note]- 时间线
-> - **1999/2000** — Hattie 受教育部委托开发 asTTle（[[Visible Learning|VL]] 的数据与技术前身）
+> - **1999/2000** — Hattie 受教育部委托开发 asTTle（VL 的数据与技术前身）
 > - **2006** — Hattie 成为 Multi Serve Education Trust Board 董事；Auckland Uniservices Ltd 注册 Visible Learning 商标（2008 年"放弃"），同时创建 Visible Learning Labs
 > - **2007** — Multi Serve Education Trust 注册全资子机构 Multi Serve Limited
 > - **2008** — 集团更名为 Cognition Education；Hattie 成为 Cognition Education 董事
@@ -355,7 +320,7 @@ updated: '2026-05-18'
 > - **2011** — Cognition Education Trust 注册 Visible Learningplus 商标；Hattie 转至墨尔本大学
 > - **2012** — Hattie 离任 Cognition Education 董事，转任 Trust "学术事务顾问"
 > - **2013** — Access Innovation Media 在澳大利亚注册 Visible Classroom 商标
-> - **2014** — 丹麦议会通过 [[Danish Public School Reform 2014|公立学校改革]]，明确引用 VL
+> - **2014** — 丹麦议会通过 公立学校改革，明确引用 VL
 > - **2015** — e-asTTle RFP 商业化；ACEL–Corwin 合作伙伴关系宣布；ERO 报告有利引用 VL
 > - **2017** — VL 俄文版出版；获维多利亚州教育部官方背书；被 ABC *Revolution School* 描绘为公共教育拯救者
 > - **2018** — Corwin（SAGE 集团）收购 Visible Learningplus
@@ -380,22 +345,22 @@ updated: '2026-05-18'
 ## 来源
 
 品牌起源与商业化：
-- [[ONeill_2016_Report]] — VL 品牌化的最全面研究，覆盖商标、财务、治理和利益冲突
-- [[Johnson_2023_CE]] — 四角度批判，新自由主义商业化与利益冲突分析
+- ONeill_2016_Report — VL 品牌化的最全面研究，覆盖商标、财务、治理和利益冲突
+- Johnson_2023_CE — 四角度批判，新自由主[[Rightness|义]]商业化与利益冲突分析
 
 各国政策采纳：
-- [[Sarbiewska_2019_JSR]] — 新西兰和澳大利亚两国政策采纳比较
-- [[Laursen_2015_Paideia]] — VL 等国际有效教学综合在丹麦的适用性检验
-- [[Qvortrup_2019_NordSTEP]] — 为 VL 在丹麦的应用辩护，提出解释社群分析
-- [[Golovchin_2019_ESC]] — 建议俄罗斯教育政策不应采用 VL
+- Sarbiewska_2019_JSR — 新西兰和澳大利亚两国政策采纳比较
+- Laursen_2015_Paideia — VL 等国际[[Effective Teaching|有效教学]]综合在丹麦的适用性检验
+- Qvortrup_2019_NordSTEP — 为 VL 在丹麦的应用辩护，提出解释社群分析
+- Golovchin_2019_ESC — 建议俄罗斯教育政策不应采用 VL
 
 传播网络与品牌化：
-- [[Eacott_2017_SLM]] — VL 品牌衍生、ACEL 网络和大师崇拜批判
-- [[Eacott_2019_IJLE]] — 学术出版对批评的免疫，VL 的霸权性存在
-- [[Terhart_2011_JCS]] — 早期记录 VL 在新西兰的争议与政策语境
-- [[Hattie_2015_SOTLP]] — 将 VL 综合方法应用于高等教育，提出 DIE 模型和八项思维框架
-- [[McKnight_2020_Discourse]] — VL 作为话语现象的全球传播分析
+- Eacott_2017_SLM — VL 品牌衍生、ACEL 网络和[[Cult of the Guru|大师崇拜]]批判
+- Eacott_2019_IJLE — 学术出版对批评的免疫，VL 的霸权性存在
+- Terhart_2011_JCS — 早期记录 VL 在新西兰的争议与政策语境
+- Hattie_2015_SOTLP — 将 VL 综合方法应用于高等教育，提出 DIE 模型和八项思维框架
+- McKnight_2020_Discourse — VL 作为话语现象的全球传播分析
 
 政策误用与批评：
-- [[ONeill_2012_NZJES]] — 新西兰 Treasury 政策误用与术语口号化的经典案例
-- [[Blass_2020_JESP]] — 澳大利亚国家层面批评，VL 作为"不改变的好借口"
+- ONeill_2012_NZJES — 新西兰 Treasury 政策误用与术语口号化的经典案例
+- Blass_2020_JESP — 澳大利亚国家层面批评，VL 作为"不改变的好借口"

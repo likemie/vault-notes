@@ -11,20 +11,13 @@ tags:
 - knowledge-transfer
 - surveillance
 - epistemology
-related_concepts:
-- '[[Knowledge Transfer]]'
-- '[[Geopolitics of Knowledge]]'
-- '[[Knowledge Sabotage]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[Great Firewall of China]]'
-- '[[China Social Credit System]]'
-related_arguments:
-- '[[Argument_Partaken_2022_Springer]]'
-sources:
-- '[[Ch5_Partaken_2022]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -64,7 +57,7 @@ updated: '2026-05-18'
 > [!abstract]
 > Partaken 识别出隐藏-暴露框架在 GPK 中的三种运作模式（Partaken, 2022, p.80–83）：
 > - **监视（Surveillance）**：国家以隐藏-暴露的二元操控监控公民——公民的知识行为被系统性地暴露给国家，而国家的监控活动对公民隐藏。例如 [[China Social Credit System|中国社会信用体系]]通过大数据永久性评估公民行为，公民对自身评分算法的了解远不及国家对公民行为的了解（Partaken, 2022, p.81）
-> - **审查（Censorship）**：审查是系统性隐藏操作——使某些知识对特定人群不可获取。例如 [[Great Firewall of China|防火长城]]通过过滤和阻断使中国学者无法访问大量境外学术论文（Partaken, 2022, p.82）
+> - **审查（Censorship）**：审查是系统性隐藏操作——使某些知识对特定人群不可获取。例如 防火长城通过过滤和阻断使中国学者无法访问大量境外学术论文（Partaken, 2022, p.82）
 > - **破坏（Sabotage）**：破坏是将暴露武器化——在便利时刻披露特定信息以削弱对手，同时隐藏自身行动。Partaken 以网络攻击为当代破坏的主要形式（Partaken, 2022, p.83）
 
 ---
@@ -78,4 +71,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch5_Partaken_2022]]
+- Ch5_Partaken_2022

@@ -13,22 +13,13 @@ tags:
 - patriotism
 - region/china
 - level/k12
-related_concepts:
-- '[[Liberal Studies (Hong Kong)]]'
-- '[[Citizenship and Social Development (Hong Kong)]]'
-- '[[Membership-Creating Function of Education]]'
-related_theories:
-- '[[Nation Building through Education]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Tung Chee-hwa]]'
-- '[[Carrie Lam]]'
-- '[[Xi Jinping]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Yan_2025_JCS]]'
-- '[[Ch4_Amos_2022]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -107,10 +98,10 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[2012 MNE Controversy]] — 德育及国民教育科争议
+> - 2012 MNE Controversy — 德育及国民教育科争议
 > - [[Replacement of LS by CSD 2021]] — LS 被 CSD 取代
 > - [[National Security Law Impact on Hong Kong Education]] — 国安法的教育后果
 
 ## 来源
 
-- [[Yan_2025_JCS]]
+- Yan_2025_JCS

@@ -10,19 +10,13 @@ tags:
 - questionable-research-practices
 - meta-analysis
 - evidence-based-education
-related_concepts:
-- '[[Developer Effect]]'
-- '[[Publication Bias]]'
-- '[[Preregistration]]'
-- '[[Effect Size]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wolf_2020_JREE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -86,4 +80,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wolf_2020_JREE]]
+- Wolf_2020_JREE

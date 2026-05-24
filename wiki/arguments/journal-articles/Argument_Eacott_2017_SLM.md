@@ -1,6 +1,6 @@
 ---
 title: Argument_Eacott_2017_SLM
-summary: "以 Callahan 为历史框架，三步骤论证澳大利亚学校领导力已屈服于 Hattie 大师崇拜，定性 VL 为 Neo-Taylorism 并宣告其为\"澳大利亚学校领导力的悲剧"
+summary: "以 Callahan 为历史框架，三步骤论证澳大利亚学校领导力已屈服于 Hattie 大师崇拜，定性 VL 为 Neo-Taylorism 并宣告其为“澳大利亚学校领导力的悲剧"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -13,21 +13,13 @@ tags:
 - cult-of-the-guru
 - stance/critique
 - region/australia
-related_concepts:
-- '[[Cult of the Guru]]'
-- '[[Neo-Taylorism in Educational Administration]]'
-- '[[Visible Learning]]'
-- '[[School Leadership]]'
-related_theories:
-- '[[Pierre Bourdieu]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Scott Eacott]]'
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Eacott_2017_SLM]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -106,4 +98,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Eacott_2017_SLM]]
+- Eacott_2017_SLM

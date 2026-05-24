@@ -5,20 +5,15 @@ aliases:
 summary: "批判教育被学习结果和效果逻辑全面重写的概念，指出教师角色、课程内容和教育目的会被压缩为促进可测学习的手段"
 type: concept
 tags:
-- Learnification
+- learnification
 - stance/critique
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Bildung]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Gert Biesta]]'
-- '[[Steen Nepper Larsen]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Larsen_2019_EducSci]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -64,4 +59,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Larsen_2019_EducSci]]
+- Larsen_2019_EducSci

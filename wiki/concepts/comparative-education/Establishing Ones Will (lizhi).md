@@ -14,21 +14,13 @@ tags:
 - theme/cross-cultural-learning
 - theme/learning-motivation
 - theme/affect
-related_concepts:
-- '[[Heart and Mind for Wanting to Learn]]'
-- '[[Learning Virtues]]'
-- '[[Chinese Learner]]'
-- '[[Self-Cultivation]]'
-related_theories:
-- '[[Confucian Learning Tradition]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Jin Li]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Li_2012_Cambridge]]'
-sources:
-- '[[Li_2012_Cambridge]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-22'
@@ -58,11 +50,11 @@ updated: '2026-05-23'
 
 | 环节 | 对应美德/概念 | 功能 |
 |------|-------------|------|
-| 1. 诚意 | [[Learning Virtues#1. 诚心／认真|诚心（renzhen）]] | 前驱——对学习做出真诚承诺 |
+| 1. 诚意 | 诚心（renzhen） | 前驱——对学习做出真诚承诺 |
 | 2. 立志 | — | 枢纽——将诚意转化为具体方向和目标 |
 | 3. 公开承诺 | 见证人机制 | 社会锚定——将私人决心转化为社会契约 |
-| 4. 勤奋行动 | [[Learning Virtues#2. 勤奋／发奋|勤奋（qinfen）]] | 行为转化——大量时间投入，经历熟→练→精 |
-| 5. 持久坚持 | [[Learning Virtues#4. 恒心|恒心（hengxin）]] | 维持——从始至终不放弃 |
+| 4. 勤奋行动 | 勤奋（qinfen） | 行为转化——大量时间投入，经历[[Shu (Familiarization)|熟]]→练→[[Jing (Refined Mastery)|精]] |
+| 5. 持久坚持 | 恒心（hengxin） | 维持——从始至终不放弃 |
 
 ### 见证人机制
 
@@ -76,8 +68,8 @@ updated: '2026-05-23'
 ## 概念辨析
 
 > [!example]
-> - vs **[[Heart and Mind for Wanting to Learn\|好學心]]**：好學心是"想学"的欲望本身——更原初、更持久、更弥散；立志是好學心在一个特定人生阶段（青少年时期）的**具体化和定向化**——将弥散的"想学"转化为明确的"学什么、为什么学"
-> - vs **[[Learning Virtues\|勤奋]]**：立志是"决心"，勤奋是"决心之后的行为表现"。立志设定了方向和承诺，勤奋将承诺转化为大量时间投入和持续行动（Li, 2012, pp.91-92）
+> - vs **好學心**：好學心是"想学"的欲望本身——更原初、更持久、更弥散；立志是好學心在一个特定人生阶段（青少年时期）的**具体化和定向化**——将弥散的"想学"转化为明确的"学什么、为什么学"
+> - vs **勤奋**：立志是"决心"，勤奋是"决心之后的行为表现"。立志设定了方向和承诺，勤奋将承诺转化为大量时间投入和持续行动（Li, 2012, pp.91-92）
 > - vs **西方学习者的个人抱负（personal ambition）**：立志是文化命名的、社会协作的过程；西方个人抱负更倾向于个体自主选择，缺乏制度化的"见证人"角色
 
 ---
@@ -93,4 +85,4 @@ updated: '2026-05-23'
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

@@ -7,28 +7,18 @@ publication_type: journal-article
 journal: Paideia
 citation: Laursen, P. F. (2015). Er Hattie og co. gyldige i Danmark? Paideia, (9), 34–41.
 tags:
-- Visible Learning
+- visible-learning
 - effective-teaching
 - national-culture
 - region/denmark
 - level/k12
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Effective Teaching]]'
-- '[[Feedback]]'
-- '[[Individualised Instruction]]'
-related_theories:
-- '[[Hofstede''s Cultural Dimensions]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Hilbert Meyer]]'
-- '[[Andreas Helmke]]'
-- '[[Geert Hofstede]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Laursen_2015_Paideia]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -48,7 +38,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> Laursen 的论证分三步：先概括 Hattie、Meyer、Helmke 三个国际研究综合对有效教学的共同结论；再用 Hofstede 理论提出丹麦文化可能改变"什么有效"的预期；最后比较[[SFI Report 2013|丹麦 SFI 报告]]和[[Jill Mehlbye|Mehlbye 高绩效学校研究]]等本土证据，判断国际综合与丹麦证据是否一致（Laursen, 2015, pp.35–40）。
+> Laursen 的论证分三步：先概括 Hattie、Meyer、Helmke 三个国际研究综合对有效教学的共同结论；再用 Hofstede 理论提出丹麦文化可能改变"什么有效"的预期；最后比较丹麦 SFI 报告和Mehlbye 高绩效学校研究等本土证据，判断国际综合与丹麦证据是否一致（Laursen, 2015, pp.35–40）。
 >
 > ### 国际综合的共同结论
 >
@@ -64,15 +54,15 @@ updated: '2026-05-18'
 >
 > ### 丹麦本土证据链
 >
-> [[SFI Report 2013|SFI 报告]]提供了丹麦证据的主轴。它是丹麦关于"什么促进学生学习"的最大且方法上最先进的研究；报告以 Folkeskole 毕业考试成绩为主要学习指标，并在统计上控制学生社会背景。因此，它能够检验学业成绩意义上的[[Effective Teaching|有效教学]]，但不能穷尽教育的全部目的（Laursen, 2015, p.37）。
+> SFI 报告提供了丹麦证据的主轴。它是丹麦关于"什么促进学生学习"的最大且方法上最先进的研究；报告以 Folkeskole 毕业考试成绩为主要学习指标，并在统计上控制学生社会背景。因此，它能够检验学业成绩意义上的[[Effective Teaching|有效教学]]，但不能穷尽教育的全部目的（Laursen, 2015, p.37）。
 >
-> [[Jill Mehlbye|Mehlbye (2004, 2010) 的高绩效学校研究]]提供了学校层面的补充证据。高要求、学业表现取向和明确课堂管理不仅出现在 SFI 报告中，也出现在丹麦高绩效学校研究中，尤其与弱社会背景学生的成绩提升相关（Laursen, 2015, pp.37–38）。
+> Mehlbye (2004, 2010) 的高绩效学校研究提供了学校层面的补充证据。高要求、学业表现取向和明确课堂管理不仅出现在 SFI 报告中，也出现在丹麦高绩效学校研究中，尤其与弱社会背景学生的成绩提升相关（Laursen, 2015, pp.37–38）。
 >
 > ### 测试与反馈的测量边界
 >
 > 频繁测试是文章中最明显的异常发现。SFI 和 Mehlbye 均显示，频繁测试在丹麦与更好的学习结果相关；Mehlbye 还发现，测试受到丹麦学生欢迎。这与 Hattie 关于频繁测试没有显著积极效果的结论不同。Laursen 的解释是，测试可能存在一个适度区间：丹麦学校的测试使用可能低于这一水平，而美国等英语国家可能已经高于这一水平，所以"增加测试"在不同国家会产生不同的边际效果（Laursen, 2015, pp.38–39）。
 >
-> [[SFI Report 2013|SFI]] 中关于[[Feedback|反馈]]的零效应更可能来自测量口径，而不是对反馈本身的否定。SFI 问项询问教师是否常告诉学生其发展或表现如何；但在 Hattie 的意义上，反馈的关键是帮助学生知道下一步怎样改进。因此，SFI 的问项没有抓住反馈的核心机制，不能据此断言反馈在丹麦学校无效（Laursen, 2015, p.39）。
+> SFI 中关于[[Feedback|反馈]]的零效应更可能来自测量口径，而不是对反馈本身的否定。SFI 问项询问教师是否常告诉学生其发展或表现如何；但在 Hattie 的意义上，反馈的关键是帮助学生知道下一步怎样改进。因此，SFI 的问项没有抓住反馈的核心机制，不能据此断言反馈在丹麦学校无效（Laursen, 2015, p.39）。
 >
 > ### 国家文化与社会背景
 >
@@ -105,4 +95,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Laursen_2015_Paideia]]
+- Laursen_2015_Paideia

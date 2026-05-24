@@ -11,17 +11,13 @@ tags:
   - theme/speaking
   - theme/argumentation
   - field/instruction-pedagogy
-related_concepts:
-  - "[[Western Learner]]"
-  - "[[Chinese Learner]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
-sources:
-  - "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -66,15 +62,15 @@ updated: 2026-05-24
 > [!warning]
 > Devil's advocate 的实践在东亚文化中几乎没有对应的社会化实践。Li 论证，东亚文化——在儒家"行胜于言"、道家"知者不言"和佛教静思冥想传统的影响下——对口头辩论抱有根本性的不信任（Li, 2012, pp.96-97）。
 
-孔子特别警惕"巧言"（glib tongue），认为巧言令色的人——那些能用语言做出貌似有理的辩护但心与言分离的人——"鲜矣仁"。在这种文化逻辑中，为与自己立场不一致的观点辩护——即使是为了检验论证——可能被视为不真诚甚至是操纵性的（Li, 2012, pp.97-98）。
+[[Confucius|孔子]]特别警惕"巧言"（glib tongue），认为巧言令色的人——那些能用语言做出貌似有理的辩护但心与言分离的人——"鲜矣[[Ren|仁]]"。在这种文化逻辑中，为与自己立场不一致的观点辩护——即使是为了检验论证——可能被视为不真诚甚至是操纵性的（Li, 2012, pp.97-98）。
 
 两种文化在 devil's advocate 实践上的差异不是认知能力的差异，而是对说话在社会生活中角色的根本不同理解：西方将说话视为质疑和检验思想的工具，东亚将说话视为必须以行动背书的道德承诺。
 
 > [!tip]
-> 详见 [[Argument_Li_2012_Cambridge|Li (2012) 全书论证]]，特别是第 8 章第五步关于两类家庭社会化的对比拆解。
+> 详见 Li (2012) 全书论证，特别是第 8 章第五步关于两类家庭社会化的对比拆解。
 
 ---
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

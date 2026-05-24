@@ -12,17 +12,13 @@ tags:
 - region/australia
 - marketization
 - paradox
-related_concepts:
-- '[[School Autonomy]]'
-- '[[New Public Management]]'
-- '[[School Leadership]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Keddie_2020_IJLE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -97,4 +93,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Keddie_2020_IJLE]]
+- Keddie_2020_IJLE

@@ -2,25 +2,21 @@
 title: Jacob Cohen
 aliases:
 - 雅各布·科恩
-summary: "美国统计学家，Cohen's d 与效应量阈值框架提出者，为教育研究提供广泛使用但也常被误读的统计语言。"
+summary: "美国统计学家，Cohen’s d 与效应量阈值框架提出者，为教育研究提供广泛使用但也常被误读的统计语言。"
 type: person
 nationality: us
 tags:
-- Jacob-Cohen
+- jacob-cohen
 - effect-size
 - statistics
 - psychology
 - region/us
-related_concepts:
-- '[[Effect Size]]'
-- '[[Statistical Significance]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Allerup_2015_Paideia]]'
-- '[[Terhart_2011_JCS]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -67,5 +63,5 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[Allerup_2015_Paideia]]
-- [[Terhart_2011_JCS]]
+- Allerup_2015_Paideia
+- Terhart_2011_JCS

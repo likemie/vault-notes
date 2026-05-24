@@ -9,23 +9,19 @@ citation: 'Slavin, R. E. (2019). How Evidence-Based Reform Will Transform Resear
 tags:
 - evidence-based-education
 - evidence-based-reform
-- ESSA
-- RCT
-- RTI
+- essa
+- rct
+- rti
 - policy
 - paradigm/positivist
 - region/us
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Evidence-Based Reform]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Robert Slavin]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Slavin_2019_EP]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -179,4 +175,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Slavin_2019_EP]]
+- Slavin_2019_EP

@@ -11,16 +11,10 @@ tags:
 - paradigm/interpretivist
 related_concepts: []
 related_theories: []
-related_methods:
-- '[[Case Study]]'
-- '[[Constructivist Grounded Theory]]'
+related_methods: []
 related_persons: []
-related_arguments:
-  - "[[Argument_郑_2023_上海三联书店]]"
-  - "[[Argument_Yu_2024_CE]]"
-sources:
-  - "[[郑_2023_上海三联书店]]"
-  - "[[Yu_2024_CE]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -108,7 +102,7 @@ updated: '2026-05-21'
 > - **结构**：渐进式聚焦法——个人生活史 → 大学过程 → 毕业选择
 > - **转录**：累计超过 150 万字
 > - **辅助来源**：背景信息问卷、实地观察笔记、官方文件/典礼讲话、网络论坛讨论
-> - **效度保障**：人员校验法 + 三角互证法 + 与 [[Case Study|跟踪式个案研究]] 结合，观察实际行动以检视叙述可靠性
+> - **效度保障**：人员校验法 + 三角互证法 + 与 跟踪式个案研究 结合，观察实际行动以检视叙述可靠性
 >
 > 详见 [[Argument_郑_2023_上海三联书店]]。
 
@@ -125,5 +119,5 @@ updated: '2026-05-21'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
-- [[Yu_2024_CE]]
+- 郑_2023_上海三联书店
+- Yu_2024_CE

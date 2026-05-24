@@ -1,6 +1,6 @@
 ---
 title: Argument_Wiliam_2019
-summary: "ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，论证教育知识局部且临时、EBE 永远不会成功、\"什么有效\"是错误问题，提出四个决策问题框架"
+summary: "ERE 特刊闭幕反思：以 Goldman 区分理论综合各文论点，论证教育知识局部且临时、EBE 永远不会成功、“什么有效“是错误问题，提出四个决策问题框架"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -8,7 +8,7 @@ journal: Educational Research and Evaluation
 citation: Wiliam, D. (2019). Some reflections on the role of evidence in improving education. Educational Research and Evaluation, 25(7–8), 392–404. https://doi.org/10.1080/13803611.2019.1617993
 tags:
 - evidence-based-education
-- RCT
+- rct
 - meta-analysis
 - effect-size
 - validity
@@ -17,25 +17,13 @@ tags:
 - ability-grouping
 - feedback
 - region/global
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Effect Size]]'
-- '[[Programme Fidelity vs Adaptation]]'
-- '[[Local Knowledge in Evidence-Based Policy]]'
-- '[[Validity as Inferences]]'
-related_theories:
-- '[[Goldman''s Discrimination Theory of Knowledge]]'
-related_methods:
-- '[[Randomised Controlled Trials]]'
-- '[[Meta-analysis]]'
-related_persons:
-- '[[Dylan Wiliam]]'
-- '[[Adrian Simpson]]'
-- '[[John Hattie]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wiliam_2019_ERE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -106,4 +94,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wiliam_2019_ERE]]
+- Wiliam_2019_ERE

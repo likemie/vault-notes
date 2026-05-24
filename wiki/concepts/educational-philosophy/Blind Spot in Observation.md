@@ -5,20 +5,15 @@ aliases:
 summary: "Luhmann 的观察概念，指每次观察都建立在某个无法被观察者同时看见的盲点之上。"
 type: concept
 tags:
-- Blind Spot in Observation
+- blind-spot-in-observation
 - paradigm/systems-theory
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Structural Coupling]]'
-related_theories:
-- '[[Luhmann''s Systems Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Niklas Luhmann]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Larsen_2019_EducSci]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -61,4 +56,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Larsen_2019_EducSci]]
+- Larsen_2019_EducSci

@@ -2,24 +2,21 @@
 title: Cuban's Curriculum Change Theory
 aliases:
   - 库班课程变革理论
-summary: "课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因\"国家安全\"而权重重组"
+summary: "课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因“国家安全“而权重重组"
 type: theory
 tags:
-- Cuban
+- cuban
 - curriculum-change
 - political-analysis
 - paradigm/critical
 - region/us
-related_concepts:
-- '[[Liberal Studies (Hong Kong)]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Larry Cuban]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Yan_2025_JCS]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -70,9 +67,9 @@ updated: '2026-05-18'
 ## 在香港 LS 案例中的体现
 
 
-| Cuban 因素 | LS 诞生期 (2009) | LS 废除期 (2021) |
+| Cuban 因素 | [[Liberal Studies (Hong Kong)|LS]] 诞生期 (2009) | LS 废除期 (2021) |
 |-----------|-----------------|-----------------|
-| 进步教育运动 | 强 —— 建构主义、IBDP 参照、探究学习 | 弱 —— 被国家安全话语压制 |
+| 进步教育运动 | 强 —— 建构主[[Rightness|义]]、IBDP 参照、探究学习 | 弱 —— 被国家安全话语压制 |
 | 冷战/国防 | 不存在 | 强 —— "新冷战"、国安法、反修例被定性为国家安全危机 |
 | 立法/法律决定 | 存在但经长期协商和公众咨询 | 直接自上而下、无协商 |
 | 影响力团体 | 强 —— 教协、教师组织、媒体 | 弱/被关闭 —— 教协解散、批评媒体受压 |
@@ -84,7 +81,7 @@ Yan & Morris (2025) 的核心理论贡献在于指出：Cuban 框架中各因素
 
 > [!info] 研究范式
 > - **认识论立场**：批判理论 —— 课程不是中立的、以知识为基础的选择，而是权力关系的产物
-> - **常用方法**：[[Historical Document Analysis of Curriculum]]、[[Document Analysis]]
+> - **常用方法**：[[Historical Document Analysis of Curriculum]]、Document Analysis
 
 ## 争议与批评
 
@@ -123,4 +120,4 @@ Yan & Morris (2025) 的核心理论贡献在于指出：Cuban 框架中各因素
 
 ## 来源
 
-- [[Yan_2025_JCS]]
+- Yan_2025_JCS

@@ -11,21 +11,13 @@ tags:
 - constructivism
 - paradigm/constructivist
 - level/k12
-related_concepts:
-- '[[executive-function]]'
-- '[[prefrontal-cortex]]'
-related_theories:
-- '[[neo-piagetian-theories]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Jean Piaget]]'
-- '[[Juan Pascual-Leone]]'
-- '[[Robbie Case]]'
-- '[[Kurt Fischer]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Bolton_2017_ArchPsych]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -65,11 +57,11 @@ updated: '2026-05-18'
 > - **[儿童同时仅存在于一个阶段的假设]** — Case (1992) 和 Flavell (1982) 指出儿童可能同时处于多个阶段
 > - **[文化背景的影响被忽略]** — Dasen (1975)、Dasen & Heron (1981)、Mishra (1997) 和 Price-Williams 等（1969, 1981）的研究表明文化背景影响认知发展阶段的表现
 >
-> 新皮亚杰理论家（[[neo-piagetian-theories]]）设计了多种不同模型来回应这些弱点（Bolton & Hattie, 2017, p.3）。
+> 新皮亚杰理论家（neo-piagetian-theories）设计了多种不同模型来回应这些弱点（Bolton & Hattie, 2017, p.3）。
 
 ## 与脑发育的关联
 
-Bolton & Hattie (2017) 论证皮亚杰的四个阶段与前额叶皮层（[[prefrontal-cortex]]）的解剖生理发育轨迹在时间上对应（Bolton & Hattie, 2017, p.8–9）。[[executive-function|执行功能]]的年龄相关发展（抑制→转换→更新与监控）与 PFC 的逐步成熟平行，特别是在突触发生、突触修剪和髓鞘化过程方面（Bolton & Hattie, 2017, p.12–13）。
+Bolton & [[John Hattie|Hattie]] (2017) 论证[[Jean Piaget|皮亚杰]]的四个阶段与[[Prefrontal Cortex|前额叶皮层]]（prefrontal-cortex）的解剖生理发育轨迹在时间上对应（Bolton & Hattie, 2017, p.8–9）。[[Executive Function|执行功能]]的年龄相关发展（抑制→转换→[[Updating and Monitoring|更新与监控]]）与 PFC 的逐步成[[Shu (Familiarization)|熟]]平行，特别是在[[Synaptogenesis|突触发生]]、[[Synaptic Pruning|突触修剪]]和[[Myelination|髓鞘化]]过程方面（Bolton & Hattie, 2017, p.12–13）。
 
 ## 相关研究
 
@@ -78,4 +70,4 @@ Bolton & Hattie (2017) 论证皮亚杰的四个阶段与前额叶皮层（[[pref
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
+- Bolton_2017_ArchPsych

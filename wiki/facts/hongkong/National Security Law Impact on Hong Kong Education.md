@@ -14,19 +14,13 @@ tags:
 - national-education
 - region/china
 - level/k12
-related_concepts:
-- '[[National Education in Hong Kong]]'
-- '[[Liberal Studies (Hong Kong)]]'
-- '[[Citizenship and Social Development (Hong Kong)]]'
-related_theories:
-- '[[Cuban''s Curriculum Change Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Paul Morris]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Yan_2025_JCS]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -83,4 +77,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Yan_2025_JCS]]
+- Yan_2025_JCS

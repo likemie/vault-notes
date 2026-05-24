@@ -1,6 +1,6 @@
 ---
 title: Argument_Ryan_2010_HKUP
-summary: "论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化\"中国学习者\"概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）"
+summary: "论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化“中国学习者“概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）"
 type: argument
 subtype: edited-volume
 publication_type: book
@@ -16,24 +16,13 @@ tags:
 - region/hongkong
 - level/k12
 - level/higher-ed
-related_concepts:
-- '[[International Education]]'
-- '[[Chinese Learner]]'
-- '[[Fourth Culture]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Paul Morris]]'
-related_facts:
-- '[[Symposium on International Teaching 2007]]'
-- '[[English Schools Foundation Hong Kong]]'
-- '[[Transnationalism and America Project SYSU]]'
-- '[[Liberal Studies (Hong Kong)]]'
-related_arguments:
-- '[[Argument_Slethaug_2010_InternationalEducation]]'
-- '[[Argument_Ryan_2010_ChineseLearner]]'
-sources:
-- '[[Ryan(Ed.)_2010_HKUP]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-16'
@@ -57,7 +46,7 @@ updated: '2026-05-18'
 > - **[[Paul Morris]] 的教育四象限**（学术理性主义、社会经济效率、儿童中心、社会重建）— Schmidt（第 5 章）用于论证价值观为本课程的理论定位（Slethaug, 2010, pp.6–7）
 > - **Pierre Bourdieu 的认同与语言理论** — Miller（第 7 章）用于分析中国职前教师在澳大利亚的认同与语言问题（Slethaug, 2010, p.9）
 > - **后现代文化范式** — Wang（第 8 章）引用，认为文化与认同是流动的，一种文化声称优于另一种即为"帝国主义"（Slethaug, 2010, p.11）
-> - **Deveney 的 [[Fourth Culture|"第四文化"]]概念** — Jabal（第 4 章）用于分析在香港国际学校中就读的中国学习者的特殊文化空间（Slethaug, 2010, p.5）
+> - **Deveney 的 "第四文化"概念** — Jabal（第 4 章）用于分析在香港国际学校中就读的中国学习者的特殊文化空间（Slethaug, 2010, p.5）
 
 
 ## 研究方法
@@ -91,13 +80,13 @@ updated: '2026-05-18'
 > ### 各章概览
 > - [[Argument_Slethaug_2010_InternationalEducation]] — 考察全球化时代国际教育的增长、学生交流机会的扩张、国际学校和海外大学项目的兴起，以及中国学习者在其中的重要角色（第 1 章）
 > - [[Argument_Ryan_2010_ChineseLearner]] — 审视关于中国学习者的缺陷型和优势型刻板印象，主张通过全面考察学生文化背景、教育经历和教师文化预设来打破本质化认知（第 2 章）
-> - [[Argument_Forse_2010_ESF]] — 从结构层面分析 ESF 系统从英国国民学校向接纳 40%–50% 本地华人学生转型的过程及其对香港公校系统的冲击（第 3 章）
-> - [[Argument_Jabal_2010_InternationalSchooling]] — 以 1,270 份问卷调查和 34 人访谈为基础，考察香港华人学生在国际学校中的多元文化体验与"第四文化"调适复杂性（第 4 章）
-> - [[Argument_Schmidt_2010_SocialConscience]] — 论证价值观为本课程对培养中国学习者社会良知的价值，以香港国际学校为案例（第 5 章）
-> - [[Argument_Vinther_2010_DanishPerspective]] — 考察在丹麦独特民主教育文化中中国学习者的适应经验，发现其比欧洲学生适应更快（第 6 章）
-> - [[Argument_Miller_2010_PreServiceTeachers]] — 以 Bourdieu 理论为框架，通过两个案例研究分析在澳中国职前教师的语言、认同与教学实践（第 7 章）
-> - [[Argument_Wang_2010_CrossCulturalExchange]] — 从美方教师视角审视在中山大学的 ESL 跨文化教学实践（第 8 章）
-> - [[Argument_Zhu_2010_TeamTeaching]] — 从中方管理者视角分析中山大学"跨国主义与美国"项目的团队教学经验与三类障碍（第 9 章）
+> - Argument_Forse_2010_ESF — 从结构层面分析 ESF 系统从英国国民学校向接纳 40%–50% 本地华人学生转型的过程及其对香港公校系统的冲击（第 3 章）
+> - Argument_Jabal_2010_InternationalSchooling — 以 1,270 份问卷调查和 34 人访谈为基础，考察香港华人学生在国际学校中的多元文化体验与"第四文化"调适复杂性（第 4 章）
+> - Argument_Schmidt_2010_SocialConscience — 论证价值观为本课程对培养中国学习者社会良知的价值，以香港国际学校为案例（第 5 章）
+> - Argument_Vinther_2010_DanishPerspective — 考察在丹麦独特民主教育文化中中国学习者的适应经验，发现其比欧洲学生适应更快（第 6 章）
+> - Argument_Miller_2010_PreServiceTeachers — 以 Bourdieu 理论为框架，通过两个案例研究分析在澳中国职前教师的语言、认同与教学实践（第 7 章）
+> - Argument_Wang_2010_CrossCulturalExchange — 从美方教师视角审视在中山大学的 ESL 跨文化教学实践（第 8 章）
+> - Argument_Zhu_2010_TeamTeaching — 从中方管理者视角分析中山大学"跨国主义与美国"项目的团队教学经验与三类障碍（第 9 章）
 
 
 ## 关键引用
@@ -108,4 +97,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ryan(Ed.)_2010_HKUP]]
+- Ryan(Ed.)_2010_HKUP

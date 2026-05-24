@@ -7,21 +7,18 @@ type: fact
 subtype: event
 region: hongkong
 tags:
-- Moral-National-Education
-- Hong-Kong
+- moral-national-education
+- hong-kong
 - curriculum-controversy
 - national-identity
 - region/china
-related_concepts:
-- '[[Liberal Studies (Hong Kong)]]'
-- '[[National Education in Hong Kong]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Yan_2025_JCS]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -53,4 +50,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Yan_2025_JCS]]
+- Yan_2025_JCS

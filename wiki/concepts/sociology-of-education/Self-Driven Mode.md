@@ -12,24 +12,13 @@ tags:
 - career-development
 - region/china
 - level/higher-ed
-related_concepts:
-- '[[Goal-Controlled Mode]]'
-- '[[Opportunist Mode]]'
-- '[[Lost Mode]]'
-- '[[Value Conformist Mode]]'
-- '[[Graduation Pathway Typology (Zheng)]]'
-- '[[Work Meaning Schemas (Zheng)]]'
-- '[[Self-Authorship]]'
-related_theories:
-- '[[Culture as Toolkit]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Yajun Zheng]]'
-- '[[Marcia Baxter Magolda]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-09'
@@ -57,14 +46,14 @@ updated: '2026-05-18'
 ## 与机会主义者的对比
 
 
-| 维度 | 自主驱动者 | [[Opportunist Mode\|机会主义者]] |
+| 维度 | 自主驱动者 | [[Opportunist Mode|机会主义者]] |
 |------|----------|------|
 | **目标来源** | 基于深层内化的价值信念 | 基于外部市场信号和成功概率计算 |
 | **选择逻辑** | "我真正想做什么" | "做什么可以让我最成功" |
-| **对金钱的态度** | "差不多有个中层的收入就可以，但生活要有意义" | 越简单越好的直接物质追求 |
+| **对金钱的态度** | "差不多有个中层的收入就可以，但生活要有意[[Rightness|义]]" | 越简单越好的直接物质追求 |
 | **对意义的追问** | 不断追问、不能妥协 | "我现在暂时搁置吧" |
 
-（郑雅君，2023）
+（[[Yajun Zheng|郑雅君]]，2023）
 
 ---
 
@@ -88,4 +77,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

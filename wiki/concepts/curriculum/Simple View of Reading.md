@@ -10,16 +10,13 @@ tags:
 - phonics
 - subject/curriculum
 - level/k12
-related_concepts:
-- '[[Whole Language]]'
-- '[[Synthetic Phonics]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[OConnor_2020_AJLL]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -45,7 +42,7 @@ updated: '2026-05-18'
 ## 与全语言的对立
 
 
-简单阅读观从一开始就明确针对全语言理论（Whole Language）而提出。全语言坚持阅读即理解（reading is comprehension）（如 Cambourne, 1988），拒绝将解码与理解分离为独立过程（O'Connor, 2020, p.149）。
+简单阅读观从一开始就明确针对[[Whole Language|全语言]]理论（Whole Language）而提出。全语言坚持阅读即理解（reading is comprehension）（如 Cambourne, 1988），拒绝将解码与理解分离为独立过程（O'Connor, 2020, p.149）。
 
 这一对立成为所谓"阅读战争"（Reading Wars）的核心理论分歧。
 
@@ -67,8 +64,8 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／理论
 > - [[Whole Language]] — 简单阅读观主要针对的理论对手
-> - [[Synthetic Phonics]] — 与简单阅读观紧密关联的教学方法
+> - Synthetic Phonics — 与简单阅读观紧密关联的教学方法
 
 ## 来源
 
-- [[OConnor_2020_AJLL]]
+- OConnor_2020_AJLL

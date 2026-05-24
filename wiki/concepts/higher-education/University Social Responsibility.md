@@ -9,21 +9,13 @@ type: concept
 tags:
 - level/higher-ed
 - region/global
-related_concepts:
-- '[[Organizational Actorhood]]'
-- '[[Otherhood]]'
-- '[[Epistemic Governance]]'
-related_theories:
-- '[[World Society Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[UN Sustainable Development Goals 2015]]'
-- '[[THE Impact Ranking 2019]]'
-related_arguments:
-- '[[Argument_Zapp_2022_Springer]]'
-sources:
-- '[[Ch9_Zapp_2022]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -56,14 +48,14 @@ updated: '2026-05-18'
 
 ### 理论奠基：从社会嵌入性到责任大学
 
-- 2006 年 Ramirez 从世界社会理论视角提出大学的"社会嵌入性"（social embeddedness）概念——大学不仅是一个知识生产机构，更是嵌入社会关系网络的公民组织，对多元利益相关者负有责任。这一概念奠定了 USR 的理论根基（Zapp, 2022, p.148）
+- 2006 年 Ramirez 从[[World Society Theory|世界社会理论]]视角提出大学的"社会嵌入性"（social embeddedness）概念——大学不仅是一个[[Knowledge Production|知识生产]]机构，更是嵌入社会关系网络的公民组织，对多元利益相关者负有责任。这一概念奠定了 USR 的理论根基（Zapp, 2022, p.148）
 - 2015 年 Bromley & Meyer 在 *Hyper-Organization* 中将社会嵌入性/公民身份纳入 [[Organizational Actorhood]] 的四维度模型，使其成为现代"完全组织"的构成性特征——不是可选的"加分项"，而是现代社会对组织的基本期待（Zapp, 2022, p.148）
 - 2019 年 Sørensen et al. 编辑 *The Responsible University*，系统探讨北欧及其他语境下"负责任大学"的多维实践，标志着 USR 从一个附属概念发展为具有独立学术文献的研究领域（Zapp, 2022, p.148）
 
 ### 制度化加速：SDGs 与排名驱动的量化
 
-- 2019 年 THE 推出基于 SDGs 的首个全球大学影响力排名（[[THE Impact Ranking 2019]]），将 USR 的复杂多维实践转化为可比较的排名指标——性别平等、气候行动、可持续城市和社区等。这一事件标志着 USR 从组织的自愿承诺转向受排名驱动的制度化竞争（Zapp, 2022, p.147）
-- 近年来 CSR 报告在全球大学中呈指数增长：Corporate Register (2019) 和 GRI (2019) 数据库共收录全球 200+ 所大学的 CSR 报告，其中大多数在过去 5 年内首次发布（Fig. 9.1）。这种增长曲线与 SDGs 的通过（2015）和 THE 排名（2019）在时间上高度吻合，暗示全球议程和排名机制对 USR 制度化的催化作用（Zapp, 2022, pp.152–153）
+- 2019 年 THE 推出基于 [[UN Sustainable Development Goals 2015|SDGs]] 的首个全球大学影响力排名（[[THE Impact Ranking 2019]]），将 USR 的复杂多维实践转化为可比较的排名指标——性别平等、气候行动、可持续城市和社区等。这一事件标志着 USR 从组织的自愿承诺转向受排名驱动的制度化竞争（Zapp, 2022, p.147）
+- 近年来 [[Comprehensive School Reform (CSR) Program|CSR]] 报告在全球大学中呈指数增长：Corporate Register (2019) 和 GRI (2019) 数据库共收录全球 200+ 所大学的 CSR 报告，其中大多数在过去 5 年内首次发布（Fig. 9.1）。这种增长曲线与 SDGs 的通过（2015）和 THE 排名（2019）在时间上高度吻合，暗示全球议程和排名机制对 USR 制度化的催化作用（Zapp, 2022, pp.152–153）
 
 ---
 ## 核心要素
@@ -114,4 +106,4 @@ updated: '2026-05-18'
 ---
 ## 来源
 
-- [[Ch9_Zapp_2022]]
+- Ch9_Zapp_2022

@@ -8,23 +8,18 @@ type: fact
 subtype: event
 region: us
 tags:
-- PNRC
+- pnrc
 - educational-evidence-clearinghouse
 - evidence-based-education
 - promise-neighborhoods
 - region/us
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Evidence-Based Education]]'
-- '[[Randomised Controlled Trials]]'
-- '[[Intent-to-Treat Analysis]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -45,7 +40,7 @@ updated: '2026-05-18'
 > [!abstract] 证据标准
 > 在设计标准编码中，PNRC 对 RCT 的描述程度为 2，对一般 QED 为 1，对 RDD 为 1，对 ITS 为 1（Wadhwa et al., 2024, p.10）。
 >
-> PNRC 是要求 ITT 分析的三个清算中心之一，另外两个是 [[Blueprints for Healthy Youth Development|Blueprints]] 和 [[Social Programs That Work (SPTW)|SPTW]]。它在复制标准上强调多地点研究以及跨地点和文化情境复制的效果（Wadhwa et al., 2024, pp.9, 11）。
+> PNRC 是要求 ITT 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Social Programs That Work (SPTW)|SPTW]]。它在复制标准上强调多地点研究以及跨地点和文化情境复制的效果（Wadhwa et al., 2024, pp.9, 11）。
 >
 > 对于 ITS，PNRC 提供较一般性的指南，偏好长基线但不一定要求重叠基线，并偏好较大的效果；这与 [[What Works Clearinghouse (WWC)|WWC]] 对 ITS 更强调多个处理前时间段的基线等值形成对比（Wadhwa et al., 2024, p.11）。
 
@@ -64,4 +59,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- Wadhwa_2024_RER

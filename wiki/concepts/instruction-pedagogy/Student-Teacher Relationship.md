@@ -10,18 +10,13 @@ tags:
 - subject/instruction-pedagogy
 - level/k12
 - region/norway
-related_concepts:
-- '[[Feedback]]'
-- '[[Gender Differences in Academic Achievement]]'
-- '[[School Norm Adaptation]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Observational and Correlational Research]]'
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Lekhal_2015_Paideia]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -36,15 +31,15 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - 情感支持：学生是否感到被教师关注、尊重并在学习中被看见（[[Lekhal_2015_Paideia]]）。
-> - 学习支持：教师是否提供可执行的学业帮助与改进指引（[[Lekhal_2015_Paideia]]）。
-> - 互动稳定性：师生沟通是否持续、可预测且具有信任基础（[[Lekhal_2015_Paideia]]）。
+> - 情感支持：学生是否感到被教师关注、尊重并在学习中被看见（Lekhal_2015_Paideia）。
+> - 学习支持：教师是否提供可执行的学业帮助与改进指引（Lekhal_2015_Paideia）。
+> - 互动稳定性：师生沟通是否持续、可预测且具有信任基础（Lekhal_2015_Paideia）。
 
 ## 实证发现
 
 > [!success] 实证发现
 > - 在师生关系评分上，女生与男生差异不显著（d=-0.05, p=.166）。
-> - 在同一模型中，其解释力通常弱于规范适应与学习投入等教师评定行为变量（[[Lekhal_2015_Paideia]]）。
+> - 在同一模型中，其解释力通常弱于规范适应与学习投入等教师评定行为变量（Lekhal_2015_Paideia）。
 
 ## 待补充研究
 
@@ -58,4 +53,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Lekhal_2015_Paideia]]
+- Lekhal_2015_Paideia

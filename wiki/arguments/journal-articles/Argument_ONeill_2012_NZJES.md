@@ -7,29 +7,19 @@ publication_type: journal-article
 journal: New Zealand Journal of Educational Studies
 citation: O'Neill, J. (2012). Material fallacies of education research evidence and public policy advice. New Zealand Journal of Educational Studies, 47(1), 153-160.
 tags:
-- Visible Learning
+- visible-learning
 - class-size
-- Evidence-Based Education
+- evidence-based-education
 - policy-borrowing
 - region/new-zealand
 - stance/critique
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Class Size]]'
-- '[[Effect Size]]'
-- '[[Evidence-Based Education]]'
-- '[[Material Fallacies]]'
-- '[[Policy Entrepreneur]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Meta-analysis]]'
-related_persons:
-- '[[John Hattie]]'
-- '[[Stephen Ball]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[ONeill_2012_NZJES]]'
+sources: []
 part_of: ''
 status: published
 created: '2026-05-06'
@@ -96,4 +86,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[ONeill_2012_NZJES]]
+- ONeill_2012_NZJES

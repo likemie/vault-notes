@@ -10,20 +10,12 @@ tags:
 - field/theater
 - field/community-arts
 - theme/resistance
-related_concepts:
-- '[[Epistemology of Resistance]]'
-- '[[Ganz-Methode]]'
-- '[[Life Power]]'
-related_theories:
-- '[[Creative Tension of Sense]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Dell Delambre]]'
-- '[[Camilla de Hollanda Amado]]'
-related_arguments:
-- '[[Argument_Delambre_2022_Springer]]'
-sources:
-- '[[Ch7_Delambre_2022]]'
+related_persons: []
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -75,4 +67,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[Ch7_Delambre_2022]]
+- Ch7_Delambre_2022

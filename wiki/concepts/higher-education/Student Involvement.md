@@ -11,20 +11,13 @@ tags:
 - higher-education
 - student-development
 - level/higher-ed
-related_concepts:
-- '[[Student Engagement]]'
-- '[[Academic Engagement]]'
-- '[[Social Engagement]]'
-- '[[Academic and Social Integration]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Alexander Astin]]'
-- '[[George Kuh]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -38,7 +31,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 学生涉入（Student Involvement）是美国高等教育研究者[[Alexander Astin]]（1984）提出的学生发展理论，意指"学生在学习过程中所投入的生理和心理能量的数量和质量"。该理论是[[George Kuh|Kuh]]（1991）[[Student Engagement|学生投入理论]]的直接前身，两者核心假设一致：学校是对学生发挥关键影响力的环境，学生参与其中的程度越深，越可能获得正向影响（郑雅君，2023，引 Astin, 1984, 1993）。
+> 学生涉入（Student Involvement）是美国高等教育研究者Alexander Astin（1984）提出的学生发展理论，意指"学生在学习过程中所投入的生理和心理能量的数量和质量"。该理论是Kuh（1991）学生投入理论的直接前身，两者核心假设一致：学校是对学生发挥关键影响力的环境，学生参与其中的程度越深，越可能获得正向影响（郑雅君，2023，引 Astin, 1984, 1993）。
 
 > [!quote]
 > "学生在学习过程中所投入的生理和心理能量的数量和质量"（郑雅君，2023，引 Astin, 1984, 1993）
@@ -56,8 +49,8 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]
-> - **1984 提出**：[[Alexander Astin|Astin]] 在 *Journal of College Student Personnel* 发表"Student Involvement: A Developmental Theory for Higher Education"，系统提出学生涉入理论及五条公理（郑雅君，2023，引 Astin, 1984）
-> - **1991 Kuh 发展**：[[George Kuh|Kuh]] 在 Astin 基础上发展[[Student Engagement|学生投入理论]]，将涉入概念进一步操作化为可观察的行为指标，并强调学校的制度性支持角色（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
+> - **1984 提出**：Astin 在 *Journal of College Student Personnel* 发表"Student Involvement: A Developmental Theory for Higher Education"，系统提出学生涉入理论及五条公理（郑雅君，2023，引 Astin, 1984）
+> - **1991 Kuh 发展**：Kuh 在 Astin 基础上发展学生投入理论，将涉入概念进一步操作化为可观察的行为指标，并强调学校的制度性支持角色（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
 > - **2023 中国教育研究应用**：[[Yajun Zheng|郑雅君]]将 Astin 涉入理论作为"大学过程"三层嵌套框架中"投入过程"的理论基础之一，与 Kuh 的[[Student Engagement]]和 Tinto 的[[Academic and Social Integration]]并列使用（郑雅君，2023）
 
 ---
@@ -106,4 +99,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

@@ -8,25 +8,20 @@ type: fact
 subtype: policy
 region: hongkong
 tags:
-- Citizenship-and-Social-Development
-- CSD
-- Hong-Kong
+- citizenship-and-social-development
+- csd
+- hong-kong
 - subject/curriculum
 - national-identity
 - region/china
 - level/k12
-related_concepts:
-- '[[Liberal Studies (Hong Kong)]]'
-- '[[National Education in Hong Kong]]'
-related_theories:
-- '[[Cuban''s Curriculum Change Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Paul Morris]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Yan_2025_JCS]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -43,9 +38,9 @@ updated: '2026-05-18'
 ## 与 LS 的核心差异
 
 
-| 维度 | LS (2009–2021) | CSD (2021–) |
+| 维度 | [[Liberal Studies (Hong Kong)|LS]] (2009–2021) | CSD (2021–) |
 |------|---------------|------------|
-| **课程核心** | 批判性思维、多角度分析 | 爱国主义、国家认同、守法教育 |
+| **课程核心** | 批判性思维、多角度分析 | 爱国主[[Rightness|义]]、国家认同、守法教育 |
 | **教科书** | 豁免教育局评审，教师自主选材 | 教育局评审，政府控制内容 |
 | **独立探究** | IES（独立专题探究，学生自主选题和方法） | 内地考察团（取代 IES） |
 | **知识观** | 知识是情境化、跨学科、个人和社会建构的 | 知识以国家视角为预设框架 |
@@ -54,7 +49,7 @@ updated: '2026-05-18'
 ## 时间线
 
 
-- **2020 年 8 月** — 教育局完成 LS 教科书一次性专业咨询服务
+- **2020 年 8 月** — 教育局完成 [[Liberal Studies (Hong Kong)|LS]] 教科书一次性专业咨询服务
 - **2020 年 9 月** — 课程检讨报告建议保留 LS 为必修科（仅小幅调整）
 - **2020 年 11 月** — 港府突然宣布取消 LS，用新的"公民与社会发展科"取代
 - **2021 年 2 月** — 课程发展议会与考评局发布 CSD 课程及评估指引
@@ -63,7 +58,7 @@ updated: '2026-05-18'
 ## 理论分析
 
 
-Yan & Morris (2025) 运用 [[Cuban's Curriculum Change Theory]] 分析 LS 向 CSD 的转型。他们发现 Cuban 框架中各因素的权重发生了戏剧性变化：在 LS 废除/CSD 创立阶段，"国家安全"成为压倒性因素——"进步教育运动"完全消失，"协商与妥协"从创立阶段的核心特征变为完全不存在。CSD 的建立是自上而下、无协商的直接决定。（pp. 490–491）
+Yan & Morris (2025) 运用 [[Cuban's Curriculum Change Theory]] 分析 [[Liberal Studies (Hong Kong)|LS]] 向 CSD 的转型。他们发现 Cuban 框架中各因素的权重发生了戏剧性变化：在 LS 废除/CSD 创立阶段，"国家安全"成为压倒性因素——"进步教育运动"完全消失，"协商与妥协"从创立阶段的核心特征变为完全不存在。CSD 的建立是自上而下、无协商的直接决定。（pp. 490–491）
 
 > 例：Yan & Morris (2025, pp. 489–490) 记录的 CSD 建立过程是"无协商"的极端案例——与 LS 创立耗时 5 年（2004–2009，经历公众咨询、立法会讨论、多轮修订）形成鲜明对比：CSD 从宣布到实施仅 10 个月（2020 年 11 月宣布 → 2021 年 2 月发布课程指引 → 2021 年 9 月实施），期间无公众咨询。甚至 2020 年 9 月的教育局课程检讨报告（仍建议保留 LS）的结论也被直接绕过。Yan & Morris 将此视为 Cuban 框架中"协商与妥协"因素完全消失的证据——当"国家安全"成为压倒性逻辑时，其他因素（专业意见、利益相关者、公众声音）可被直接排除。
 
@@ -102,4 +97,4 @@ Yan & Morris (2025) 运用 [[Cuban's Curriculum Change Theory]] 分析 LS 向 CS
 
 ## 来源
 
-- [[Yan_2025_JCS]]
+- Yan_2025_JCS

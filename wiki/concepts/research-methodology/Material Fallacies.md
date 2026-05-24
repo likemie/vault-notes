@@ -5,22 +5,16 @@ aliases:
 summary: "逻辑学中因误解术语含义、适用范围或使用方式而产生的推理错误，用于分析政策和研究话语中的证据误用现象。"
 type: concept
 tags:
-- Material Fallacies
-- Evidence-Based Education
+- material-fallacies
+- evidence-based-education
 - research-methodology
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Visible Learning]]'
-- '[[Effect Size]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-related_facts:
-- '[[Visible Learning Branding and Global Influences]]'
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[ONeill_2012_NZJES]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-06'
@@ -70,4 +64,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[ONeill_2012_NZJES]]
+- ONeill_2012_NZJES

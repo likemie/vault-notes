@@ -6,21 +6,17 @@ aliases:
 summary: "跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念"
 type: theory
 tags:
-- STS
-- Science and Technology Studies
+- sts
+- science-and-technology-studies
 - paradigm/constructivist
-- Philosophy & Epistemology
-related_concepts:
-- '[[Sociology of Measurement]]'
-- '[[Performativity of Measurement]]'
-- '[[Performance Indicators]]'
+- philosophy-and-epistemology
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Gorur_2014_Discourse]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -98,4 +94,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Gorur_2014_Discourse]]
+- Gorur_2014_Discourse

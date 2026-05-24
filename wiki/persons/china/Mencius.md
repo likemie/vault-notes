@@ -14,23 +14,13 @@ tags:
 - field/education
 - theory/confucianism
 - school/confucianism
-related_concepts:
-- "[[Ren]]"
-- "[[Self-Cultivation]]"
-- "[[Junzi]]"
-- "[[Rightness]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- "[[Confucius]]"
-- "[[Zhu Xi]]"
-- "[[Wang Yangming]]"
-- "[[Jin Li]]"
+related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -71,7 +61,7 @@ updated: 2026-05-22
 
 ### 1. 性善论：人性论基础
 
-孟子主张，"孔子所倡导的，预设了人性是区别于禽兽的、唯一属于人的东西"。这种独特的人性，就是我们的道德感（moral sense）（Li, 2012, p.42）。
+孟子主张，"[[Confucius|孔子]]所倡导的，预设了人性是区别于禽兽的、唯一属于人的东西"。这种独特的人性，就是我们的道德感（moral sense）（Li, 2012, p.42）。
 
 ### 2. 四端说：道德发展的先天禀赋
 
@@ -81,7 +71,7 @@ updated: 2026-05-22
 |------|----------|
 | 恻隐之心（compassion for others' suffering） | → [[Ren]]（仁） |
 | 羞恶之心（ability to feel shame） | → [[Rightness]]（义） |
-| 辞让之心（courtesy and modesty） | → Propriety（礼） |
+| 辞让之心（courtesy and modesty） | → Propriety（[[Li (Propriety)|礼]]） |
 | 是非之心（distinguishing right from wrong） | → Wisdom（智） |
 
 > [!quote]
@@ -91,11 +81,11 @@ updated: 2026-05-22
 
 四端只是萌芽（mere germinations）——"单凭这些人类能力本身并不会导致伟大的道德成就"。每个人必须付出巨大努力来持续学习和自我完善，以实现自己的全部道德潜能（Li, 2012, p.43）。
 
-孟子建议学习者："君子深造之以道，欲其自得之也"——君子深研道，是因为他想在自己身上找到它（自得之）（Li, 2012, p.43）。
+孟子建议学习者："[[Junzi|君子]]深造之以道，欲其自得之也"——君子深研道，是因为他想在自己身上找到它（自得之）（Li, 2012, p.43）。
 
 ### 4. 以天下为己任
 
-孟子是第一个明确提出"以天下为己任"（taking on the weight of the world）的儒家思想家（Li, 2012, p.46）。
+孟子是第一个明确提出"[[Take the World Upon Oneself|以天下为己任]]"（taking on the weight of the world）的儒家思想家（Li, 2012, p.46）。
 
 > [!example] 孟子见梁惠王
 > 孟子去见梁惠王。王说："叟，不远千里而来，亦将有以利吾国乎？"
@@ -125,4 +115,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

@@ -16,21 +16,13 @@ tags:
 - school/liberalism
 - theme/knowledge
 - theme/learning
-related_concepts:
-- "[[Mind and Its Wonders]]"
-- "[[Certainty of Knowledge]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- "[[Jin Li]]"
-- "[[Socrates]]"
-- "[[Plato]]"
-- "[[George Berkeley]]"
+related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -78,7 +70,7 @@ updated: 2026-05-22
 > [!tip]
 > 洛克在《人类理解论》中论证：人心之初犹如一张"白纸"（white paper）或"空白的板"（tabula rasa）——不存在任何先天观念、先天原则或先天知识。所有观念要么来自**感官**（sensation），要么来自心智对自身运作的**反思**（reflection）。"所有先前被认为形而上的知识和世界概念都不是先天的，而是归因于我们使用的语言术语"（Li, 2012, pp.29-30）。
 
-洛克的论证策略是基于可观察性：如果先天观念存在，那么儿童和"白痴"也应该拥有它们——但事实并非如此。即使是普遍公认的同一律和非矛盾律，小小孩也并不显式地知晓（待核）。
+洛克的论证策略是基于可[[Observational and Correlational Research|观察]]性：如果先天观念存在，那么儿童和"白痴"也应该拥有它们——但事实并非如此。即使是普遍公认的同一律和非矛盾律，小小孩也并不显式地知晓（待核）。
 
 ### 第一性质与第二性质
 
@@ -105,7 +97,7 @@ updated: 2026-05-22
 ## 影响
 
 > [!success]
-> - **对经验论传统**：洛克是经验论的奠基人——他"开启了对心智本质和运作方式的替代性探究，要求分析我们的经验及其对心智和认知的影响"（Li, 2012, pp.29-30）。[[George Berkeley|贝克莱]]和 [[Hume]]紧随其后进一步论证心智的经验性和主观性（Li, 2012, p.30）
+> - **对经验论传统**：洛克是经验论的奠基人——他"开启了对心智本质和运作方式的替代性探究，要求分析我们的经验及其对心智和认知的影响"（Li, 2012, pp.29-30）。[[George Berkeley|贝克莱]]和 Hume紧随其后进一步论证心智的经验性和主观性（Li, 2012, p.30）
 > - **对西方学习传统**：Li 指出洛克"并未否弃心智本身，而是指出了我们心智运作的不同方式"——经验论同样是"心智的奇迹"的探索途径。在 [[Certainty of Knowledge]] 的演变中，洛克是培根之后以"更可行的方法"为求知道路注入活力的思想家（Li, 2012, pp.25-26）
 > - **对政治学**：洛克的自然权利论和社会契约论深刻塑造了现代宪政民主——美国《独立宣言》中"生命、自由和追求幸福"是对洛克"生命、自由和财产"的直接改写
 > - **对教育学**：《教育漫话》被 Li 与康德的教育论著并列引用（Li, 2012, p.35）。它的务实和渐进风格——通过经验、习惯和榜样而非权威来教育——至今仍是英美教育思想的基础性资源
@@ -124,4 +116,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

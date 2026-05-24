@@ -2,7 +2,7 @@
 title: Walter Mignolo
 aliases:
   - 沃尔特·米尼奥罗
-summary: 阿根廷裔文学与文化理论家，殖民性、边界思维与认识论不服从理论代表人物，为教育研究提供去殖民知识政治的核心概念。
+summary: "阿根廷裔文学与文化理论家，殖民性、边界思维与认识论不服从理论代表人物，为教育研究提供去殖民知识政治的核心概念。"
 type: person
 nationality: argentina
 tags:
@@ -12,25 +12,12 @@ tags:
   - field/epistemology
   - field/postcolonial-studies
   - field/literary-theory
-related_concepts:
-  - "[[Geopolitics of Knowledge]]"
-  - "[[Classical Geopolitics]]"
-  - "[[Ganz-Methode]]"
-  - "[[Life Power]]"
-  - "[[Tense Society]]"
-related_theories:
-  - "[[Decolonial Geopolitics of Knowledge]]"
-  - "[[Critical Geopolitics]]"
-  - "[[Creative Tension of Sense]]"
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-  - "[[Dell Delambre]]"
-related_arguments:
-  - "[[Argument_Parreira do Amaral_2022_Springer]]"
-  - "[[Argument_Delambre_2022_Springer]]"
-sources:
-  - "[[Ch3_Parreira do Amaral_2022]]"
-  - "[[Ch7_Delambre_2022]]"
+related_persons: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-07
@@ -70,19 +57,19 @@ updated: 2026-05-19
 ### 2000 — *Local Histories/Global Designs: Coloniality, Subaltern Knowledges, and Border Thinking*
 
 - APA：Mignolo, W. D. (2000). *Local histories/global designs: Coloniality, subaltern knowledges, and border thinking*. Princeton University Press.
-- 核心内容：系统阐述"殖民性"（coloniality）和"边界思维"（border thinking）概念——前者指殖民主义结束后持续运作的权力逻辑，后者指在被殖民者的认识论边界地带产生替代性知识的思维方式。论证"局部历史"（被殖民者的经验和知识）与"全球设计"（西方现代性的普世性宣称）之间的根本张力。
-- 思想位置：代表理论成熟阶段——Mignolo 最广为人知的代表作，奠定了去殖民选项的认识论基础。Delambre (2022) 引用此著作作为 GPK 讨论的核心参照（Delambre, 2022, p.105, 122）。
+- 核心内容：系统阐述"殖民性"（coloniality）和"边界思维"（border thinking）概念——前者指殖民主[[Rightness|义]]结束后持续运作的权力逻辑，后者指在被殖民者的认识论边界地带产生替代性知识的思维方式。论证"局部历史"（被殖民者的经验和知识）与"全球设计"（西方现代性的普世性宣称）之间的根本张力。
+- 思想位置：代表理论成[[Shu (Familiarization)|熟]]阶段——Mignolo 最广为人知的代表作，奠定了去殖民选项的认识论基础。Delambre (2022) 引用此著作作为 [[Geopolitics of Knowledge|GPK]] 讨论的核心参照（Delambre, 2022, p.105, 122）。
 
 ### 2002 — "The Geopolitics of Knowledge and the Colonial Difference"
 
 - APA：Mignolo, W. D. (2002). The geopolitics of knowledge and the colonial difference. *The South Atlantic Quarterly, 101*(1), 57–96.
 - 核心内容：首次以文章形式系统阐述知识地缘政治的理论立场。提出"知识地缘政治通过殖民差异和帝国差异在历史中展开"这一核心命题，并论证社会科学需要"去殖民化"（decolonization）而非仅仅"开放"（opening）——开放只是维持其全球学术事业的垄断地位。
-- 思想位置：代表理论立场的精炼和宣言性表达。被 Parreira do Amaral (2022, p.38) 作为新知识地缘政治两大分析支柱之一的核心引用。
+- 思想位置：代表理论立场的[[Jing (Refined Mastery)|精]]炼和宣言性表达。被 Parreira do Amaral (2022, p.38) 作为新知识地缘政治两大分析支柱之一的核心引用。
 
 ### 2003 — "Globalization and the Geopolitics of Knowledge"
 
 - APA：Mignolo, W. D. (2003). Globalization and the geopolitics of knowledge: The role of the humanities in the corporate university. *Nepantla: Views from South, 4*(1), 97–119.
-- 核心内容：在全球化和企业大学语境中阐述知识地缘政治的运作，论证人文学科在企业化大学中被边缘化的认识论后果，以及人文学科在去殖民知识生产中的独特角色。
+- 核心内容：在全球化和[[Corporate University|企业大学]]语境中阐述知识地缘政治的运作，论证人文学科在企业化大学中被边缘化的认识论后果，以及人文学科在去殖民[[Knowledge Production|知识生产]]中的独特角色。
 - 思想位置：代表将去殖民认识论应用于高等教育制度批判的实践转向。Delambre (2022, p.106) 引用此文作为重新思考知识的生产和传播方式的关键参照。
 
 ### 2011 — *The Darker Side of Western Modernity: Global Futures, Decolonial Options*
@@ -96,11 +83,11 @@ updated: 2026-05-19
 > [!tip]
 > Mignolo 的核心思想可概括为三个层层递进的概念：
 
-**1. 殖民性（Coloniality）区别于殖民主义（Colonialism）**
+**1. 殖民性（Coloniality）区别于殖民主[[Rightness|义]]（Colonialism）**
 
-殖民主义作为历史事件（政治军事占领）已经结束，但殖民性作为权力逻辑持续运作——它深嵌于知识生产、主体形塑、性别关系和自然观念中。现代性是殖民性的另一面：没有殖民扩张，就没有欧洲现代性（Parreira do Amaral, 2022, p.38）。
+殖民主义作为历史事件（政治军事占领）已经结束，但殖民性作为权力逻辑持续运作——它深嵌于[[Knowledge Production|知识生产]]、主体形塑、性别关系和自然观念中。现代性是殖民性的另一面：没有殖民扩张，就没有欧洲现代性（Parreira do Amaral, 2022, p.38）。
 
-**2. 知识地缘政治与殖民差异（Colonial Difference）**
+**2. [[Geopolitics of Knowledge|知识地缘政治]]与殖民差异（Colonial Difference）**
 
 西方认识论并非天然普遍，而是通过殖民扩张被强制普遍化的。知识地缘政治通过"殖民差异"——殖民者与被殖民者之间被建构的绝对等级差异——组织起来，系统性地将非西方知识贬低为"传统"、"民间"或"非科学"（Mignolo, 2002, p.59, cited in Parreira do Amaral, 2022, p.38）。
 
@@ -137,5 +124,5 @@ updated: 2026-05-19
 
 ## 来源
 
-- [[Ch3_Parreira do Amaral_2022]]
-- [[Ch7_Delambre_2022]]
+- Ch3_Parreira do Amaral_2022
+- Ch7_Delambre_2022

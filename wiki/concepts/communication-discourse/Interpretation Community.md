@@ -13,8 +13,7 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Qvortrup_2019_NordSTEP]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -53,4 +52,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Qvortrup_2019_NordSTEP]]
+- Qvortrup_2019_NordSTEP

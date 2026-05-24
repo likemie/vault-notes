@@ -11,16 +11,13 @@ tags:
 - school-autonomy
 - region/australia
 - level/k12
-related_concepts:
-- '[[School Autonomy]]'
-- '[[New Public Management]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Keddie_2020_IJLE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -69,4 +66,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Keddie_2020_IJLE]]
+- Keddie_2020_IJLE

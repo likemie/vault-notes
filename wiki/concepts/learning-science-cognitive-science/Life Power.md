@@ -9,20 +9,13 @@ type: concept
 tags:
 - region/brazil
 - region/global
-related_concepts:
-- '[[Ganz-Methode]]'
-- '[[Tense Society]]'
-- '[[Whole Sustainability]]'
-related_theories:
-- '[[Creative Tension of Sense]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Dell Delambre]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Delambre_2022_Springer]]'
-sources:
-- '[[Ch7_Delambre_2022]]'
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -72,4 +65,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch7_Delambre_2022]]
+- Ch7_Delambre_2022

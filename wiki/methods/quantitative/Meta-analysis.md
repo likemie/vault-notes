@@ -11,42 +11,12 @@ tags:
 - evidence-based-education
 - statistical-synthesis
 - methodology
-related_concepts:
-- '[[Effect Size]]'
-- '[[Statistical Significance]]'
-- '[[Confidence Interval]]'
-- '[[Evidence-Based Education]]'
-- '[[Visible Learning]]'
-- '[[Publication Bias]]'
-related_theories:
-- '[[Critical Realism]]'
-related_methods:
-- '[[Meta-meta-analysis]]'
-- '[[Covariate Adjustment]]'
-related_persons:
-- '[[Dylan Wiliam]]'
-- '[[John Hattie]]'
-- '[[Adrian Simpson]]'
-- '[[Ray Pawson]]'
-- '[[Lars Qvortrup]]'
-related_arguments:
-- '[[Argument_Hattie_2015_Paideia]]'
-sources:
-- '[[Snook_2009_NZJES]]'
-- '[[Snook_2010_NZJES]]'
-- '[[Terhart_2011_JCS]]'
-- '[[Berk_2011_ER]]'
-- '[[Hattie_2015_SOTLP]]'
-- '[[Hattie_2015_Paideia]]'
-- '[[Qvortrup_2015_Paideia]]'
-- '[[Allerup_2015_Paideia]]'
-- '[[Simpson_2017_JEP]]'
-- '[[Wecker_2016_ZfE]]'
-- '[[Qvortrup_2019_NordSTEP]]'
-- '[[Wiliam_2019_ERE]]'
-- '[[Wrigley_2019_ERE]]'
-- '[[OConnor_2020_AJLL]]'
-- '[[ONeill_2012_NZJES]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -58,7 +28,7 @@ updated: '2026-05-21'
 > [!info] 定义
 > 元分析（Meta-analysis）是一种统计方法，通过计算多项原始研究的平均[[Effect Size|效应量]]来综合研究证据。它由 Gene Glass 于 1976 年提出，最初旨在系统性地总结某一主题的研究发现。在[[Evidence-Based Education|证据本位教育]]中，元分析被用作综合 RCT 证据的核心工具，其结论（平均效应量）被视为"什么有效"的主要证据来源（Wrigley & McCusker, 2019, p. 118）。
 >
-> [[Dylan Wiliam|Wiliam]] (2019, p.11) 在定义上增加了关键的**层级区分**：元分析综合原始研究的效应量；而**[[Meta-meta-analysis|元-元分析]]**——即通过效应量的加权合并综合多个元分析的结果——是另一回事。Wiliam 断言后者"在教育政策制定中绝对没有任何角色"。
+> Wiliam (2019, p.11) 在定义上增加了关键的**层级区分**：元分析综合原始研究的效应量；而**[[Meta-meta-analysis|元-元分析]]**——即通过效应量的加权合并综合多个元分析的结果——是另一回事。Wiliam 断言后者"在教育政策制定中绝对没有任何角色"。
 
 ## 认识论立场
 
@@ -82,7 +52,7 @@ updated: '2026-05-21'
 > - 在医学领域（其起源领域），元分析在已有充分理论理解治疗机制的前提下可以补充回答"效果平均多大"
 > - 教育领域中使用元分析的倡导者认为它适合为实践者和政策制定者提供关于"什么有效"的总结性指导（Wrigley & McCusker, 2019, pp. 110–111）
 > - [[John Hattie|Hattie]]（2015）从支持者立场强调，元分析最有价值的用法不是把平均效应当成最后答案，而是迫使教育者追问调节变量和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果，平均值背后的变异说明了什么（Hattie, 2015, pp.10-11, 14-15）。
-> - [[Lars Qvortrup|Qvortrup]] (2015, pp.25–27) 从支持者立场认为，教育元分析不需要等待所有研究使用完全相同的学习结果定义才可比较；效应量提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。但这种比较的代价是学习结果变得抽象，研究者难以说明测量的是表层知识、深层理解、社会能力还是概念性学习（Qvortrup, 2015, p.27）。
+> - Qvortrup (2015, pp.25–27) 从支持者立场认为，教育元分析不需要等待所有研究使用完全相同的学习结果定义才可比较；效应量提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。但这种比较的代价是学习结果变得抽象，研究者难以说明测量的是表层知识、深层理解、社会能力还是概念性学习（Qvortrup, 2015, p.27）。
 > - Wiliam (2019, p.11) 的谨慎立场：如果（且仅当）满足 11 项条件，元分析"可能值得严肃对待"
 > - Qvortrup (2019, p.5) 从支持者立场提出"观察透镜"论证：元分析是系统观察的一种形式，所有观察都从特定位置和特定透镜进行（von Foerster, 1984），元分析透镜产生的图像与定性观察研究的图像不同但互补——前提是两者均遵循高效度标准
 
@@ -139,7 +109,7 @@ updated: '2026-05-21'
 > [!warning] 平均效应的误导性与因果信息的丧失
 > **Kluger & DeNisi (1996) — 反馈元分析：平均效应的误导性案例**
 >
-> [[Dylan Wiliam|Wiliam]]（2019, pp.10–11）以 Kluger & DeNisi（1996）的反馈元分析为例展示平均效应量的误导性：
+> Wiliam（2019, pp.10–11）以 Kluger & DeNisi（1996）的反馈元分析为例展示平均效应量的误导性：
 >
 > - 131 项研究、607 个效应量，平均效应量约 0.4 SD——这使 Hattie（1999）提出"改善教育的最简单处方必须是大量的反馈"
 > - 然而效应量的标准差约为 **1**（即效应量分布极为分散），约 **38% 的效应量为负**——在超过三分之一的案例中，给予反馈反而比不给予反馈更差
@@ -147,7 +117,7 @@ updated: '2026-05-21'
 >
 > > "In over one third of the cases they examined, it would have been better simply not to give the feedback." (Wiliam, 2019, p.10)
 >
-> **[[Ray Pawson|Pawson]] (2006) — 因果信息的系统性消除**
+> **Pawson (2006) — 因果信息的系统性消除**
 >
 > Pawson（2006, pp.42-43, 72）论证在元分析综述的每一阶段，解释干预如何起作用的关键特征被系统性地从考虑中消除：
 >
@@ -173,7 +143,7 @@ updated: '2026-05-21'
 >
 > > "In short, the importance of meta-analysis for estimating causal effects has been grossly overrated. A conventional literature review will often do better. At the very least, readers will not be swayed by statistical malpractice disguised as statistical razzle-dazzle." (Berk, 2011, p.199)
 >
-> **[[Adrian Simpson|Simpson]] (2017) — 元分析两项核心假设的系统性违背**
+> **Simpson (2017) — 元分析两项核心假设的系统性违背**
 >
 > Simpson（2017, pp.4–5）论证教育元分析依赖两项核心假设，两者均被系统性地违背：
 >
@@ -207,7 +177,7 @@ updated: '2026-05-21'
 
 
 > [!warning] 评估清单
-> **[[Dylan Wiliam|Wiliam]] (2019) — 11 点评估清单**
+> **Wiliam (2019) — 11 点评估清单**
 >
 > Wiliam（2019, p.11）提出以下检查清单用于评估元分析是否值得严肃对待：
 >
@@ -245,13 +215,13 @@ Pawson (2006) 提出**实在论综合（Realist Synthesis）**作为替代：研
 
 ## 来源
 
-- [[Simpson_2017_JEP]]
-- [[Terhart_2011_JCS]]
-- [[Berk_2011_ER]]
-- [[Hattie_2015_Paideia]]
-- [[Allerup_2015_Paideia]]
-- [[Wecker_2016_ZfE]]
-- [[Qvortrup_2019_NordSTEP]]
-- [[Wiliam_2019_ERE]]
-- [[Wrigley_2019_ERE]]
-- [[OConnor_2020_AJLL]]
+- Simpson_2017_JEP
+- Terhart_2011_JCS
+- Berk_2011_ER
+- Hattie_2015_Paideia
+- Allerup_2015_Paideia
+- Wecker_2016_ZfE
+- Qvortrup_2019_NordSTEP
+- Wiliam_2019_ERE
+- Wrigley_2019_ERE
+- OConnor_2020_AJLL

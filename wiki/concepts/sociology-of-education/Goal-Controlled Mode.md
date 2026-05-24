@@ -10,34 +10,13 @@ tags:
 - higher-education
 - region/china
 - level/higher-ed
-related_concepts:
-- '[[Intuition-Dependent Mode]]'
-- '[[Cultural Barrier in Higher Education]]'
-- '[[Habitus]]'
-- '[[Cultural Capital]]'
-- '[[Champ]]'
-- '[[Academic and Social Integration]]'
-- '[[Student Engagement]]'
-- '[[Academic Engagement]]'
-- '[[Social Engagement]]'
-- '[[Self-Driven Mode]]'
-- '[[Opportunist Mode]]'
-- '[[Graduation Pathway Typology (Zheng)]]'
-- '[[Work Meaning Schemas (Zheng)]]'
-- '[[Self-Authorship]]'
-related_theories:
-- '[[Pierre Bourdieu]]'
-- '[[Culture as Toolkit]]'
-- '[[Dual-Process Model of Culture in Action]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Yajun Zheng]]'
-- '[[Ann Swidler]]'
-- '[[Marcia Baxter Magolda]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -56,7 +35,7 @@ updated: '2026-05-18'
 > [!quote]
 > "运用'目标掌控模式'的大学生就好比是手持迷宫地图，事先已经做好路线规划的一类参赛者"（郑雅君，2023）
 
-该模式的掌握与运用根植于阶层[[Habitus|习性]]——优势家庭背景的学生更可能自幼习得这套文化技能并运用于大学场域。
+该模式的掌握与运用根植于阶层[[Habitus|习性]]——优势家庭背景的学生更可能自幼习得这套文化技能并运用于大学[[Champ|场域]]。
 
 ---
 
@@ -74,8 +53,8 @@ updated: '2026-05-18'
 > [!note]
 > - **1960s 原初洞察**：[[Pierre Bourdieu|Bourdieu]] & Passeron（1964）在 *Les Héritiers* 中区分了"考试能手"（除考试外忘掉一切）与"浅薄涉猎者"（与工作保持神秘化关系）两类学生，揭示了基于文化资本不平等的两种大学融入模式（郑雅君，2023）
 > - **2014–2017 田野发现**：郑雅君在两所顶尖大学的首轮 38 名访谈中发现，学生的毕业出路并非全是有意图的主动选择——部分学生的"选择"更多是对处境的本能反应。这一发现挑战了其初始假设，为双模式概念奠定了经验基础（郑雅君，2023）
-> - **2023 理论整合与命名**：郑雅君整合 [[Culture as Toolkit]]（Swidler, 1986）、[[Dual-Process Model of Culture in Action]]（Vaisey, 2009）和[[Self-Authorship|自我主导性]]理论（[[Marcia Baxter Magolda|Baxter Magolda]]），正式提出目标掌控模式／直觉依赖模式二分框架（郑雅君，2023）
-> - **第五章细化**：在双模式基础上引入价值信念驱动力维度，形成 [[Graduation Pathway Typology (Zheng)|2×2 四分类]]，将目标掌控模式进一步区分为[[Self-Driven Mode|自主驱动者]]和[[Opportunist Mode|机会主义者]]（郑雅君，2023）
+> - **2023 理论整合与命名**：郑雅君整合 [[Culture as Toolkit]]（Swidler, 1986）、[[Dual-Process Model of Culture in Action]]（Vaisey, 2009）和[[Self-Authorship|自我主导性]]理论（Baxter Magolda），正式提出目标掌控模式／直觉依赖模式二分框架（郑雅君，2023）
+> - **第五章细化**：在双模式基础上引入价值信念驱动力维度，形成 2×2 四分类，将目标掌控模式进一步区分为[[Self-Driven Mode|自主驱动者]]和[[Opportunist Mode|机会主义者]]（郑雅君，2023）
 
 ---
 
@@ -134,4 +113,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

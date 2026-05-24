@@ -10,31 +10,13 @@ tags:
 - geopolitics-of-knowledge
 - knowledge-economy
 - region/global
-related_concepts:
-- '[[Geopolitics of Knowledge]]'
-- '[[Knowledge Production]]'
-- '[[Forced Knowledge Transfer]]'
-- '[[Knowledge Sabotage]]'
-- '[[Economic and Industrial Espionage]]'
-- '[[Narrative Knowledge]]'
-related_theories:
-- '[[Decolonial Geopolitics of Knowledge]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Jean-François Lyotard]]'
-- '[[Frantz Fanon]]'
-- '[[Chen Kuan-Hsing]]'
-related_facts:
-- '[[Sino-American Trade War (2018)]]'
-- '[[Great Firewall of China]]'
-- '[[China Social Credit System]]'
-- '[[Kokutai no Hongi (1937)]]'
-- '[[Thousand Talents Program]]'
-- '[[US-China Economic and Security Review Commission (2000)]]'
-related_arguments:
-- '[[Argument_Partaken_2022_Springer]]'
-sources:
-- '[[Ch5_Partaken_2022]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -66,7 +48,7 @@ updated: '2026-05-18'
 > [!note]
 > "知识转移"作为地缘政治概念的分析重心转移，经历了从哲学命题到地缘教义再到 GPK 分析工具的演变：
 > - **希腊形而上学根基**：关于 agathos（善）的理论经新柏拉图主义（Pseudo-Dionysius）和新亚里士多德主义（Thomas Aquinas）发展为拉丁箴言"omne bonum diffusum sui est"（一切善倾向于自我扩散）——知识作为善，具有自我传播和扩散的天然倾向（Partaken, 2022, p.75; McClymond, 2010, p.92）
-> - **古典等级制的障碍**：然而恰恰因为知识是善，其转移从未畅通无阻——从 Plato 的"agathos kai sophos"（善且智）和 Confucius 的"[[君子 junzi]]"以来，知识始终与智识和社会等级制相联系（Partaken, 2022, p.75; Park, 2016）
+> - **古典等级制的障碍**：然而恰恰因为知识是善，其转移从未畅通无阻——从 Plato 的"agathos kai sophos"（善且智）和 Confucius 的"君子 junzi"以来，知识始终与智识和社会等级制相联系（Partaken, 2022, p.75; Park, 2016）
 > - **Bacon 到德国地缘教义**：Bacon "knowledge is power"（1597）在 17 世纪仍表达为神学中的神圣属性（potestas Dei）；到 19 世纪德国统一后，演变为地缘政治教义——"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）——服务于扩张主义和霸权政治（Partaken, 2022, p.67–68; Shimazu, 2015）
 > - **Katz 的权力独立冲突源**：Katz (1965) 论证权力不仅是获取经济优势或意识形态最大化的手段，"它本身就是冲突的独立来源"（p.374）——这一论断将知识转移从"工具"提升为 GPK 中独立的地缘政治冲突场域（Partaken, 2022, p.75）
 > - **Partaken 的范式转换**：2022 年 Partaken 明确提出 GPK 的分析重心应从知识生产（后殖民传统的焦点）转向知识转移——知识在运动中的挪用、传授、窃取、审查、监视和破坏的动态过程，才是解码当代新自由全球化中新殖民动力的关键（Partaken, 2022, pp.74–75, 84）
@@ -78,7 +60,7 @@ updated: '2026-05-18'
 > [!abstract]
 > Partaken 识别出知识转移在 GPK 中运作的六种模态（Partaken, 2022, p.75–84）：
 > - **[[Forced Knowledge Transfer]]**：通过规定、胁迫和暴力进行的自上而下知识灌输，以 Freire 的"银行概念"和日本帝国 [[Kokutai no Hongi (1937)]] 为典型案例
-> - **[[Economic and Industrial Espionage]]**：国家支持或非国家行为者通过非法手段获取有价值知识，以 [[Sino-American Trade War (2018)|中美技术紧张]] 为当代核心案例
+> - **[[Economic and Industrial Espionage]]**：国家支持或非国家行为者通过非法手段获取有价值知识，以 中美技术紧张 为当代核心案例
 > - **监视（Surveillance）**：通过大规模数据收集监控个体与群体的知识行为，以 Foucault 全景敞视主义为其运作逻辑，[[China Social Credit System]] 为当代典范
 > - **审查（Censorship）**：通过阻断知识获取和言论自由来干涉知识转移，以 [[Great Firewall of China]] 为制度典范
 > - **[[Knowledge Sabotage]]**：蓄意破坏敌对方的知识资产，以网络攻击为主要当代形式
@@ -126,4 +108,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch5_Partaken_2022]]
+- Ch5_Partaken_2022

@@ -7,26 +7,16 @@ publication_type: journal-article
 journal: Scholarship of Teaching and Learning in Psychology
 citation: Hattie, J. (2015). The applicability of Visible Learning to higher education. Scholarship of Teaching and Learning in Psychology, 1(1), 79–91.
 tags:
-- Visible Learning
+- visible-learning
 - higher-education
 - level/higher-ed
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Problem-Based Learning]]'
-- '[[Surface and Deep Learning]]'
-- '[[Constructive Alignment]]'
-- '[[Feedback]]'
-- '[[Class Size]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Meta-analysis]]'
-related_persons:
-- '[[John Hattie]]'
-- '[[John Biggs]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Hattie_2015_SOTLP]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -85,4 +75,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Hattie_2015_SOTLP]]
+- Hattie_2015_SOTLP

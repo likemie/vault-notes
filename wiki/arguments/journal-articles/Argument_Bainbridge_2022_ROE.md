@@ -1,6 +1,6 @@
 ---
 title: Argument_Bainbridge_2022_ROE
-summary: "以 SSEF 为案例研究 UK 议会如何系统性回避选择性教育研究证据，识别\"建构型道德侧步\"：Ofsted 评级被混同为研究证据并道德化为\"好学校\"话语"
+summary: "以 SSEF 为案例研究 UK 议会如何系统性回避选择性教育研究证据，识别“建构型道德侧步“：Ofsted 评级被混同为研究证据并道德化为“好学校“话语"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -12,30 +12,13 @@ tags:
 - moral-sidestep
 - grammar-schools
 - region/uk
-related_concepts:
-- '[[Moral Sidestep]]'
-- '[[Selective Education]]'
-- '[[Grammar School]]'
-- '[[Justified Warrants]]'
-- '[[Evidence-Based Education]]'
-- '[[EEF Teaching and Learning Toolkit]]'
-- '[[Visible Learning]]'
-related_theories:
-- '[[Legitimation Theory Van Leeuwen]]'
-related_methods:
-- '[[Carnivalesque Analysis]]'
-related_persons:
-- '[[John Hattie]]'
-- '[[Gert Biesta]]'
-- '[[Terry Wrigley]]'
-related_facts:
-- '[[Ofsted]]'
-- '[[Selective Schools Expansion Fund 2018]]'
-- '[[Eleven-plus Exam]]'
-- '[[Education and Inspections Act 2006]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[Bainbridge_2022_ROE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-07'
@@ -46,11 +29,11 @@ updated: '2026-05-18'
 
 英国议会议员在制定选择性教育政策（以 Selective Schools Expansion Fund 为案例）时如何接触和使用研究证据？为什么关于选择性教育的压倒性研究证据被反复忽视？（Bainbridge et al., 2022, p.2–3）
 
-研究的直接灵感来自 Stevens（2019）对毒品政策的研究——Stevens 观察到政治家使用道德关切来回避做出基于证据的政策决策，将其描述为"道德侧步"（moral sidestep）。Bainbridge et al. 追问：类似的对证据的回避是否也发生在关于文法学校和选择性教育的议会辩论中？（p.3）
+研究的直接灵感来自 Stevens（2019）对毒品政策的研究——Stevens [[Observational and Correlational Research|观察]]到政治家使用道德关切来回避做出基于证据的政策决策，将其描述为"道德侧步"（moral sidestep）。Bainbridge et al. 追问：类似的对证据的回避是否也发生在关于[[Grammar School|文法学校]]和选择性教育的议会辩论中？（p.3）
 
 ## 理论框架
 
-- [[Moral Sidestep]] — Stevens（2019）在毒品政策研究中识别的概念：政策制定者以道德关切回避实证证据。Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分——corporate agency 来自社会优势群体，由规范性价值和结构定义，主导政治景观；primary agency 则是利益分散的边缘群体。Stevens 发现，代表 dominant corporate agency 的决策者通过将毒品使用者"去人性化"来回避证据。Bainbridge et al. 将此框架引入教育政策分析，追问在选择性教育政策中是否也存在类似的去人性化——那些未通过 11-plus 考试的孩子、未被评级为"good"的学校是否被系统性地剥夺了能动性（p.3, 9–10）
+- [[Moral Sidestep]] — Stevens（2019）在毒品政策研究中识别的概念：政策制定者以道德关切回避实证证据。Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分——corporate agency 来自社会优势群体，由规范性价值和结构定[[Rightness|义]]，主导政治景观；primary agency 则是利益分散的边缘群体。Stevens 发现，代表 dominant corporate agency 的决策者通过将毒品使用者"去人性化"来回避证据。Bainbridge et al. 将此框架引入教育政策分析，追问在选择性教育政策中是否也存在类似的去人性化——那些未通过 11-plus 考试的孩子、未被评级为"good"的学校是否被系统性地剥夺了能动性（p.3, 9–10）
 - [[Justified Warrants]] — Malone & Hogan（2020）基于 Dewey 的概念：研究应提供的是"有正当理由的断言"（warranted assertions）而非确定性。Gorard（2002）同样挑战研究界提供从研究发现到结论再到现实世界应用的说服性逻辑链接。Bainbridge et al. 将这一标准应用于评估议会辩论——议员的政策主张是否提供了从证据到结论的合理逻辑推进？（p.6–7）
 - [[Legitimation Theory Van Leeuwen]] — Van Leeuwen（2007）四层次合法化框架：(1) 权威/传统——与过去或当前权威结构的链接；(2) 道德价值——与组织持有的道德价值对齐；(3) 理性/真理——与"真理"或理性论证的关系；(4) 奖励叙事——支持现有的奖励叙事。Bainbridge et al. 论证：证据更可能在接收方的结构、过程和道德假设内被"合法化"时才被接受（p.9）
 - **三种证据到政策模型**（p.7）：(1) **线性模型（Linear Model）**——证据与政策之间的直接连接；(2) **多流模型（Multiple Streams Model）**——政策决策受证据、经济因素和公众舆论共同影响；(3) **混战模型（Melee Model）**——科学、政治、经济和社会四类证据的流动交互导致政策决策。Bainbridge et al. 认为混战模型最接近教育情境，但教育的复杂性可能使任何模型都不充分
@@ -58,12 +41,12 @@ updated: '2026-05-18'
 
 ## 研究方法
 
-**总体设计**：混合方法，五阶段递进——描述统计 → 轶事分析 → 嘉年华式分析 → 单场辩论深度分析 → 论证分析（p.13）
+**总体设计**：[[Mixed Method and Multi-method Research|混合方法]]，五阶段递进——描述统计 → 轶事分析 → [[Carnivalesque Analysis|嘉年华式分析]] → 单场辩论深度分析 → 论证分析（p.13）
 
 **方法 1：描述统计**（p.13–14）
 - 数据来源：Hansard 议会辩论数据库
 - 时间范围：2015–2019（SSEF 于 2018 年 5 月宣布，首批资金 2019 年 1 月到位）
-- 样本：11 场聚焦文法学校的辩论全文 + 同期 995 次议会对 "grammar" 的提及（覆盖下议院、上议院和委员会辩论）
+- 样本：11 场聚焦[[Grammar School|文法学校]]的辩论全文 + 同期 995 次议会对 "grammar" 的提及（覆盖下议院、上议院和委员会辩论）
 - 分析工具：NVivo 软件进行主题编码，识别 25 个最高频主题
 - 分析党派分布：保守党 vs 工党在各主题上的频率差异
 
@@ -74,7 +57,7 @@ updated: '2026-05-18'
 
 **方法 3：嘉年华式分析（Carnivalesque Analysis）**（p.17–19）
 - 借鉴 Aydarova（2020）的 Bakhtin 式嘉年华方法：研究者作为"小丑"角色，破坏"官方真理"、挑战改革者为公众消费策划的叙事
-- 对描述统计数据进行"玩味"外推：如果将 SSEF 的资助逻辑（"好学校应扩张"）同等应用于所有 Ofsted 评级 good/outstanding 的学校，预算将达多少？
+- 对描述统计数据进行"玩味"外推：如果将 SSEF 的资助逻辑（"好学校应扩张"）同等应用于所有 [[Ofsted]] 评级 good/outstanding 的学校，预算将达多少？
 
 **方法 4：单场辩论深度分析**（p.19–25）
 - 选择 2016 年"教育与社会流动性"辩论（HoC, 2016）进行详细定性分析
@@ -91,8 +74,8 @@ updated: '2026-05-18'
 
 1. **文献综述三阶段**：审查政府与学术界对"证据"的不同理解 → 综述证据在政策制定中使用的文献 → 提供选择性教育研究证据与政党宣言概述（p.4–12）
 2. **描述统计分析**（Findings 1）：以 NVivo 编码议会辩论，识别主题频率和党派分布，发现"好学校"话语的主导地位——164 次提及，保守党 125 vs 工党 30（p.14–15）
-3. **轶事分析**（Findings 2）：识别议会辩论中轶事证据的使用模式——保守党使用文法学校轶事的频率是工党两倍以上（18 vs 8）；31/67 次轶事直接关涉文法学校（p.16–17）
-4. **嘉年华式分析**（Findings 3）：以玩味态度外推政策逻辑——若所有 Ofsted 评级 good/outstanding 学校均获同等扩展资金，总预算将超 £84 亿（p.17–19）
+3. **轶事分析**（Findings 2）：识别议会辩论中轶事证据的使用模式——保守党使用[[Grammar School|文法学校]]轶事的频率是工党两倍以上（18 vs 8）；31/67 次轶事直接关涉文法学校（p.16–17）
+4. **[[Carnivalesque Analysis|嘉年华式分析]]**（Findings 3）：以玩味态度外推政策逻辑——若所有 [[Ofsted]] 评级 good/outstanding 学校均获同等扩展资金，总预算将超 £84 亿（p.17–19）
 5. **单场辩论深度分析**（Findings 4）：对 2016 年"教育与社会流动性"辩论进行详细论证分析，追踪证据被接受、回避或道德侧步的具体机制（p.19–25）
 6. **讨论与结论**：识别出"建构型道德侧步"——Ofsted 评级被混同为研究证据，构造"文法学校 = 好学校 = 道德上善"的话语链；证据并非完全无效——当社会流动性委员会报告提供了强有力的"内部证据"后，"文法学校促进社会流动"的论述在后续辩论中显著减少（p.25–30）
 
@@ -111,7 +94,7 @@ updated: '2026-05-18'
 | Underfunded（资金不足） | 71 | — | 71 |
 
 - "好学校"是第二高频主题（164 次），保守党 125 次 vs 工党 30 次
-- 163 所文法学校获 992 次提及（vs 3,200 所综合学校的 109 次）
+- 163 所[[Grammar School|文法学校]]获 992 次提及（vs 3,200 所综合学校的 109 次）
 - 37% 文法学校提及伴随"good"（374 次）
 - 保守党多数主题：社会流动性、家长选择、资金不足；工党多数主题：教学、社会多样性、早期教育（p.15）
 
@@ -120,7 +103,7 @@ updated: '2026-05-18'
 - "Anecdote" 是第六高频主题（67 次），在工党（26）和保守党（28）之间分布均匀
 - 但保守党议员使用文法学校轶事的频率是工党的两倍以上（18 vs 8）
 - 31/67 次轶事直接关涉文法学校（vs 信仰学校 2、现代中学 3、综合学校 9）
-- 轶事被反复用于构建"好学校"话语的"合法性"，尽管轶事不符合政府自身对"证据"的定义（Coldwell et al., 2017）（p.16–17）
+- 轶事被反复用于构建"好学校"话语的"合法性"，尽管轶事不符合政府自身对"证据"的定[[Rightness|义]]（Coldwell et al., 2017）（p.16–17）
 
 关键引用示例——Gareth Johnson MP (2015, Conservative)：
 > "I want to establish a thread to run through the debate — that grammar schools are simply good schools and that we need good schools to flourish."（p.16）
@@ -131,7 +114,7 @@ updated: '2026-05-18'
 - 163 所文法学校：992 次提及
 - 3,200 所综合学校：109 次提及
 - 文法学校仅占所有中学的不到 5%，却被提及九倍于多数派学校
-- 159 所 Ofsted good/outstanding 文法学校伴随"good"提及 374 次——提及率 **235%**
+- 159 所 [[Ofsted]] good/outstanding 文法学校伴随"good"提及 374 次——提及率 **235%**
 - 2,850 所 Ofsted good/outstanding 综合学校伴随"good"提及 49 次——提及率 **1.7%**
 - 若综合学校按文法学校同等比例被提及，需要 6,698 次
 
@@ -207,7 +190,7 @@ updated: '2026-05-18'
 
 **研究范围极小**：聚焦于一项仅影响少数地方当局的短暂政策（SSEF）和一个国家（英国）的议会辩论，外部推广性有限。但作者论证小案例为分析更大现象提供了"肥沃土壤"（p.2–3）。
 
-**时间滞后**：数据来源于 2015–2019 年，论文发表时许多政治角色已变动。但作者指出该辩论处于"关键节点"——文法学校的社会流动性承诺正被鼓吹、辩论并最终被证伪的时刻（p.29）。
+**时间滞后**：数据来源于 2015–2019 年，论文发表时许多政治角色已变动。但作者指出该辩论处于"关键节点"——[[Grammar School|文法学校]]的社会流动性承诺正被鼓吹、辩论并最终被证伪的时刻（p.29）。
 
 **描述统计的局限**："未被说出的东西无法被计数"（p.14）。统计只能捕捉被言说的主题，无法捕捉被系统性沉默的内容。例如，未被评为"good"的学校（隐性"坏学校"）如何在此话语中被剥夺资源和能动性——这一点未被深入探讨（p.10）。
 
@@ -217,4 +200,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Bainbridge_2022_ROE]]
+- Bainbridge_2022_ROE

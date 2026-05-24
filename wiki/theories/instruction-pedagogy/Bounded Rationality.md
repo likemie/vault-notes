@@ -8,17 +8,13 @@ tags:
 - bounded-rationality
 - decision-making
 - organizational-theory
-related_concepts:
-- '[[Professional Judgment]]'
-- '[[Visible Learning]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Herbert A. Simon]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Qvortrup_2019_NordSTEP]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -68,4 +64,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Qvortrup_2019_NordSTEP]]
+- Qvortrup_2019_NordSTEP

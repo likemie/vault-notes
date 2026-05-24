@@ -10,17 +10,13 @@ tags:
 - neuroscience
 - synaptic-plasticity
 - learning-science
-related_concepts:
-- '[[synaptic-pruning]]'
-- '[[synaptogenesis]]'
-- '[[neuroplasticity]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Bolton_2017_ArchPsych]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -40,15 +36,15 @@ updated: '2026-05-18'
 > Bolton & Hattie (2017) 论文中描述了 Hebb 原则在脑发育中的具体运作（p.6）：
 >
 > - **强化机制** — 经常共同激活的神经元之间的突触连接被加强
-> - **消除机制** — 不持续需要的通路被移除，即[[synaptic-pruning|突触修剪]]的过程
+> - **消除机制** — 不持续需要的通路被移除，即突触修剪的过程
 > - **分子基础** — 这一过程被认为由谷氨酸受体介导的突触可塑性（长时程增强，Long Term Potentiation）所支撑（Bolton & Hattie, 2017, p.6，引用 Selemon, 2013）
 
 ## 应用领域
 
 > [!success] 应用领域
-> - [[synaptic-pruning]] — 突触修剪的直接理论基础，解释了哪些连接被保留、哪些被消除
-> - [[neuroplasticity]] — 经验依赖可塑性的核心机制，解释了学习如何在大脑中留下物理痕迹
+> - synaptic-pruning — 突触修剪的直接理论基础，解释了哪些连接被保留、哪些被消除
+> - neuroplasticity — 经验依赖可塑性的核心机制，解释了学习如何在大脑中留下物理痕迹
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
+- Bolton_2017_ArchPsych

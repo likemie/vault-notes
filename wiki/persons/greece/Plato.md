@@ -14,21 +14,13 @@ tags:
 - theme/knowledge
 - theme/learning
 - theme/metaphysics
-related_concepts:
-- "[[Certainty of Knowledge]]"
-- "[[Mind and Its Wonders]]"
-- "[[Examined Life]]"
-- "[[Western Learner]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- "[[Socrates]]"
-- "[[Jin Li]]"
+related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -63,7 +55,7 @@ updated: 2026-05-22
 > [!abstract]
 > 柏拉图约 36 篇对话录和书信传世，学界通常将其分为早、中、晚三期（此处仅列 Li 第 2 章引用的以及最具代表性的著作）：
 > - *Euthyphro*（《优绪弗洛》）— 早期对话，苏格拉底追问"什么是虔敬"的经典示范。Li 在第 2 章中重点拆解了苏格拉底与优绪弗洛的七轮对话过程（Li, 2012, pp.31-32）
-> - *Apology*（《申辩篇》）— 苏格拉底在雅典陪审团前的自我辩护词。"未经省察的生活不值得过"即出自此篇，被 Li 视为 [[Examined Life|西方学习传统第三主题]]的核心文本（Li, 2012, p.31）
+> - *Apology*（《申辩篇》）— 苏格拉底在雅典陪审团前的自我辩护词。"未经省察的生活不值得过"即出自此篇，被 Li 视为 西方学习传统第三主题的核心文本（Li, 2012, p.31）
 > - *Meno*（《美诺篇》）— 苏格拉底以一系列问题引导从未学过几何的奴隶男孩自己说出几何结论。Li 将此视为西方先天性心智理论的经典证明——"人类知识不是学来的，而是回忆出来的"（Li, 2012, pp.27-28）
 > - *Republic*（《理想国》）— 柏拉图最著名的著作，涉及理型论、洞穴喻、哲学家王、几何学知识观和教育选拔体系。Li 在 [[Certainty of Knowledge|知识的确定性]]、[[Mind and Its Wonders|心智及其奇迹]]和 [[Western Learner|西方学习者]]三个主题中引用了《理想国》（Li, 2012, pp.24-25, 27-28, 35）
 > - *Phaedo*（《斐多篇》）— 论述灵魂不朽与理型论，记载苏格拉底临终场景
@@ -79,7 +71,7 @@ updated: 2026-05-22
 > [!tip]
 > 理型论（Theory of Ideas / Forms）是柏拉图哲学的核心。他论证：人类感官经验到的具体事物是个别的、变化的、不可靠的；而每一类事物背后存在一个永恒的、不变的"理型"或"形式"（Form），它才是真实的存在和真知的对象。以"狗"为例——有个别的狗（"这只狗""那只狗"），但所有狗共享"狗"这个普遍范畴（universal dogginess）。Li 引述："不以心智追求真知的人，满足于只认识美的事物或善的事物；但智慧之人——哲学家——用心智去认识美本身或善本身"（Li, 2012, pp.27-28）。
 
-这一理论确立了西方哲学中"思维高于感官"的根本取向——Li 将这一立场追溯为 [[Certainty of Knowledge|知识的确定性]]传统和 [[Mind and Its Wonders|心智优越性]]的核心哲学源头。
+这一理论确立了西方哲学中"思维高于感官"的根本取向——Li 将这一立场追溯为 [[Certainty of Knowledge|知识的确定性]]传统和 心智优越性的核心哲学源头。
 
 ### 洞穴喻
 
@@ -126,4 +118,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

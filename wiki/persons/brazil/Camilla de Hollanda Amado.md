@@ -9,20 +9,12 @@ tags:
 - region/brazil
 - field/theater
 - field/community-arts
-related_concepts:
-- '[[Epistemology of Resistance]]'
-- '[[Ganz-Methode]]'
-- '[[Life Power]]'
-related_theories:
-- '[[Creative Tension of Sense]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Dell Delambre]]'
-- '[[Richard Castelo Branco]]'
-related_arguments:
-- '[[Argument_Delambre_2022_Springer]]'
-sources:
-- '[[Ch7_Delambre_2022]]'
+related_persons: []
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -56,7 +48,7 @@ updated: '2026-05-19'
 > [!tip]
 > Amado 的文化实践立场凝结于其核心梦想——"看到贫民窟知识被用于国家发展"：
 
-> 在巴西主流叙事中，贫民窟（favela）通常被建构为"问题"——需要被治理、被改善、被整合进正式城市体系的空间。Amado 颠倒了这一叙事：贫民窟不是问题，而是**知识资源**——贫民窟居民在极端条件下创造和传承的知识形式（口述传统、集体记忆、生存智慧、剧场表达）不仅具有内在文化价值，而且应当成为国家发展的知识基础。这一立场与 [[Walter Mignolo]] 的"边界思维"（[[Decolonial Geopolitics of Knowledge|去殖民认识论]]）一脉相承，但 Amado 的独特贡献在于提供了从批判到**实践**的路径——通过与体制内文化行动者的合作、文化项目的建立、社会可见度的争取来具体操作这一立场（Delambre, 2022, p.110）。
+> 在巴西主流叙事中，贫民窟（favela）通常被建构为"问题"——需要被治理、被改善、被整合进正式城市体系的空间。Amado 颠倒了这一叙事：贫民窟不是问题，而是**知识资源**——贫民窟居民在极端条件下创造和传承的知识形式（口述传统、集体记忆、生存智慧、剧场表达）不仅具有内在文化价值，而且应当成为国家发展的知识基础。这一立场与 [[Walter Mignolo]] 的"边界思维"（去殖民认识论）一脉相承，但 Amado 的独特贡献在于提供了从批判到**实践**的路径——通过与体制内文化行动者的合作、文化项目的建立、社会可见度的争取来具体操作这一立场（Delambre, 2022, p.110）。
 
 ## 影响
 
@@ -71,4 +63,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[Ch7_Delambre_2022]]
+- Ch7_Delambre_2022

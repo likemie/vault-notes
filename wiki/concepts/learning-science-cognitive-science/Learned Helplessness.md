@@ -10,18 +10,13 @@ tags:
   - theme/motivation
   - theme/affect
   - theme/self-belief
-related_concepts:
-  - "[[Entity vs Incremental Intelligence]]"
-  - "[[Intrinsic vs Extrinsic Motivation]]"
-related_theories:
-  - "[[Attribution Theory]]"
-  - "[[Self-Worth Theory]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -54,10 +49,10 @@ updated: 2026-05-23
 3. **轻易放弃**：面对困难任务时迅速停止努力
 4. **泛化效应**：在一次任务中的失败经验可能扩散到其他任务的自我评价中
 
-与之形成对照的是**韧性模式**（resilience pattern）：面对挫折时表现出坚持和韧性——正是对这两种模式的观察，推动了 Dweck 发展出 [[Entity vs Incremental Intelligence|实体论与增长论智力观]]（Li, 2012, p.59）。
+与之形成对照的是**韧性模式**（resilience pattern）：面对挫折时表现出坚持和韧性——正是对这两种模式的[[Observational and Correlational Research|观察]]，推动了 Dweck 发展出 [[Entity vs Incremental Intelligence|实体论与增长论智力观]]（Li, 2012, p.59）。
 
 ---
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

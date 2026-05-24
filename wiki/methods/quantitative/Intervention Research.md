@@ -10,20 +10,12 @@ tags:
 - educational-psychology
 - causal-inference
 - research-methodology
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Recommendations for Practice]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Randomised Controlled Trials]]'
-- '[[Non-intervention Research]]'
-- '[[Observational and Correlational Research]]'
-- '[[Qualitative Research]]'
-- '[[Mixed Method and Multi-method Research]]'
+related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Brady_2023_EPR]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -70,7 +62,7 @@ updated: '2026-05-18'
 ## 与相关方法的区别
 
 
-- vs [[Non-intervention Research]] — 干预研究操纵自变量，非干预研究不操纵自变量；Brady et al. (2023) 的核心批评正是教育心理学常把本应由干预研究检验的因果关系，提前写成非干预研究中的实践建议（Brady et al., 2023, pp.2-4）。
+- vs [[Non-intervention Research]] — 干预研究操纵自变量，非干预研究不操纵自变量；Brady et al. (2023) 的核心批评正是教育心理学常把本应由干预研究检验的因果关系，提前写成非干预研究中的[[Recommendations for Practice|实践建议]]（Brady et al., 2023, pp.2-4）。
 - vs [[Randomised Controlled Trials]] — RCT 是干预研究的更强版本：二者都操纵自变量，但 RCT 还要求随机分配；因此 Brady et al. (2023) 同时报告"干预研究"比例和"随机实验"比例（Brady et al., 2023, pp.4, 6-7）。
 - vs [[Observational and Correlational Research]] — 观察/相关研究可以识别可能的因果线索，但不操纵变量；干预研究则把这些线索转化为可检验的处理假设（Brady et al., 2023, p.2）。
 
@@ -81,4 +73,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Brady_2023_EPR]]
+- Brady_2023_EPR

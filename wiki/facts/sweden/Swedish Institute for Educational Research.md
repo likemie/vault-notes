@@ -14,19 +14,13 @@ tags:
   - theme/evidence-based-education
   - theme/systematic-review
   - policy/evidence-informed-policy
-related_concepts:
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Informed Practice]]"
-  - "[[Knowledge Mobilisation]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[EU Evidence-Informed Education Policy Initiatives]]"
-related_arguments:
-  - "[[Argument_Pellegrini_2021_ROE]]"
-sources:
-  - "[[Pellegrini_2021_ROE]]"
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -73,4 +67,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Pellegrini_2021_ROE]]
+- Pellegrini_2021_ROE

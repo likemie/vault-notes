@@ -13,20 +13,13 @@ tags:
 - geopolitics-of-knowledge
 - intellectual-property
 - trade
-related_concepts:
-- '[[Geopolitics of Knowledge]]'
-- '[[Economic and Industrial Espionage]]'
-- '[[Knowledge Transfer]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[Sino-American Trade War (2018)]]'
-- '[[Thousand Talents Program]]'
-related_arguments:
-- '[[Argument_Partaken_2022_Springer]]'
-sources:
-- '[[Ch5_Partaken_2022]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -50,7 +43,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - USCC 的持续报告和听证为美国对华技术遏制政策提供了制度化的情报与立法基础（Partaken, 2022, p.79）
-> - Partaken 将 USCC 定位为中美[[Geopolitics of Knowledge|GPK]]中美国方面的核心制度行动者——通过官方渠道系统性地监控和限制[[Knowledge Transfer|知识从美国向中国的流动]]（Partaken, 2022, p.78–79）
+> - Partaken 将 USCC 定位为中美[[Geopolitics of Knowledge|GPK]]中美国方面的核心制度行动者——通过官方渠道系统性地监控和限制知识从美国向中国的流动（Partaken, 2022, p.78–79）
 > - 其报告的议题范围预示并塑造了 2018 年中美贸易战的技术维度（Partaken, 2022, p.78–79）
 
 ## 相关概念／政策
@@ -62,4 +55,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch5_Partaken_2022]]
+- Ch5_Partaken_2022

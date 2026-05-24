@@ -9,25 +9,18 @@ subtype: event
 region: us
 tags:
 - class-size-reduction
-- RCT
+- rct
 - evidence-based-policy
-- Tennessee
+- tennessee
 - region/us
 - level/k12
-related_concepts:
-- '[[Programme Fidelity vs Adaptation]]'
-- '[[Evidence-Based Education]]'
-- '[[Class Size]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Dylan Wiliam]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wiliam_2019_ERE]]'
-- '[[Snook_2009_NZJES]]'
-- '[[Downey_2016_SoE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -98,5 +91,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wiliam_2019_ERE]]
-- [[Snook_2009_NZJES]]
+- Wiliam_2019_ERE
+- Snook_2009_NZJES

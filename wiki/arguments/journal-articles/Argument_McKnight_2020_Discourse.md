@@ -7,26 +7,19 @@ publication_type: journal-article
 journal: 'Discourse: Studies in the Cultural Politics of Education'
 citation: 'McKnight, L. & Whitburn, B. (2020). Seven reasons to question the hegemony of Visible Learning. Discourse: Studies in the Cultural Politics of Education, 41(1), 32–44.'
 tags:
-- Visible Learning
+- visible-learning
 - evidence-based-education
 - neoliberalism
 - ableism
 - sexism
 - stance/critique
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
-- '[[Performativity of Measurement]]'
-- '[[New Public Management]]'
-related_theories:
-- '[[New Public Management]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[McKnight_2020_Discourse]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -120,4 +113,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[McKnight_2020_Discourse]]
+- McKnight_2020_Discourse

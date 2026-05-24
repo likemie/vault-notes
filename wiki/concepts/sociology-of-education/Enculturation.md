@@ -10,21 +10,13 @@ tags:
 - theme/cultural-transmission
 - theme/child-development
 - discipline/anthropology
-related_concepts:
-- '[[Heart and Mind for Wanting to Learn]]'
-- '[[Chinese Learner]]'
-- '[[Tongxue]]'
-- '[[Nerd (School Peer Culture)]]'
-- '[[Intellectual-Social Divide]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Jin Li]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Li_2012_Cambridge]]'
-sources:
-- '[[Li_2012_Cambridge]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-21'
@@ -76,9 +68,9 @@ updated: '2026-05-24'
 
 [[Jin Li]]（2012, pp.12–14）在《Cultural Foundations of Learning》第 1 章中提供了濡化机制的三个层面案例：
 
-**家庭层面**。李的父母在文革期间通过一个简单的策略绕过了政治审查：引用孔子语录教育她时，以"古人说"替代"孔子曰"。李在童年完全不知道这些话的出处，却内化了其中的学习价值观——"学而时习之，不亦说乎？""三人行，必有我师焉"等（Li, 2012, pp.12–13）。文化内容被完整传递了，但文化标签被策略性隐藏了——这是濡化区别于灌输的关键特征。
+**家庭层面**。李的父母在文革期间通过一个简单的策略绕过了政治审查：引用[[Confucius|孔子]]语录教育她时，以"古人说"替代"孔子曰"。李在童年完全不知道这些话的出处，却内化了其中的学习价值观——"学而时习之，不亦说乎？""三人行，必有我师焉"等（Li, 2012, pp.12–13）。文化内容被完整传递了，但文化标签被策略性隐藏了——这是濡化区别于灌输的关键特征。
 
-**学校层面**。毛泽东的浩繁著作中，唯一被选中永久张贴在中国每间教室的标语是"好好学习，天天向上"——其字面含义恰好与儒家学习传统完全一致。标语"挂在黑板上方，永远去语境化"，学生和教师日常接收到的不是政治信息，而是一个传统文化价值的直白表达（Li, 2012, p.13, p.19 note 20）。
+**学校层面**。毛泽东的浩繁著作中，唯一被选中永久张贴在中国每间教室的标语是"好好学习，天天向上"——其字面含[[Rightness|义]]恰好与[[Confucian Learning Tradition|儒家学习传统]]完全一致。标语"挂在黑板上方，永远去语境化"，学生和教师日常接收到的不是政治信息，而是一个传统文化价值的直白表达（Li, 2012, p.13, p.19 note 20）。
 
 **代际对比**。李的母亲在 1930 年代入学时先拜孔子为师、先读《论语》——这是传统濡化。李在 1970 年代被告知孔子是"反革命"——这是政治灌输。但两代人在家庭中接收到的学习价值观基本相同。这表明濡化对学习信念的塑造力超过了同期的政治灌输（Li, 2012, pp.17–18）。
 
@@ -90,7 +82,7 @@ updated: '2026-05-24'
 
 **文化信念支撑**。这种行为背后是"近朱者赤，近墨者黑"的信念——年幼的儿童尤其容易受环境影响。家长和教育者因此积极鼓励孩子接近好学生，远离不良行为者。这种对同伴的选择性接近并非出于功利目的，而是建立在一个文化前提之上：好学习意味着好品德——因此与好学生交友是道德上的明智选择（Li, 2012, pp.109–110）。
 
-**西方对照**。相比之下，欧裔美国及其他族裔家长很少使用"邻居的好学生"作为调动子女学习动机的策略。这一差异并非偶然——在 [[Entity vs Incremental Intelligence|固定智力观]]和 [[Nerd (School Peer Culture)|nerd 同伴文化]]的背景下，[[Intellectual-Social Divide|知性-社交二分]]使"别人学习比你好"的暗示不仅无法激发努力，反而可能被解读为"你天生不如人"，加剧子女对自身能力的怀疑（Li, 2012, pp.108）。
+**西方对照**。相比之下，欧裔美国及其他族裔家长很少使用"邻居的好学生"作为调动子女学习动机的策略。这一差异并非偶然——在 固定智力观和 [[Nerd (School Peer Culture)|nerd]] 同伴文化的背景下，[[Intellectual-Social Divide|知性-社交二分]]使"别人学习比你好"的暗示不仅无法激发努力，反而可能被解读为"你天生不如人"，加剧子女对自身能力的怀疑（Li, 2012, pp.108）。
 
 ---
 
@@ -121,4 +113,4 @@ Harkness & Super（1992）进一步提出了"发展生态位"（developmental ni
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

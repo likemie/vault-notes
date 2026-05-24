@@ -6,25 +6,18 @@ aliases:
 summary: "RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用"
 type: theory
 tags:
-- RCT
+- rct
 - causal-inference
 - evidence-based-policy
 - external-validity
 - paradigm/scientific-realism
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Programme Fidelity vs Adaptation]]'
-- '[[Local Knowledge in Evidence-Based Policy]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[RCT in Education]]'
-related_persons:
-- '[[Nancy Cartwright]]'
-- '[[Nick Cowen]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Cowen_2015_CHESS]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -99,4 +92,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Cowen_2015_CHESS]]
+- Cowen_2015_CHESS

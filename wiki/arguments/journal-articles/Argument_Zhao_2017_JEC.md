@@ -1,6 +1,6 @@
 ---
 title: Argument_Zhao_2017_JEC
-summary: "从医学引入副作用概念，以直接教学、东亚教育体系、NCLB 三个案例论证教育中\"什么有效可能同时有害\"，提出 6 项行动建议"
+summary: "从医学引入副作用概念，以直接教学、东亚教育体系、NCLB 三个案例论证教育中“什么有效可能同时有害“，提出 6 项行动建议"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -10,24 +10,17 @@ tags:
 - side-effects
 - evidence-based-education
 - direct-instruction
-- PISA
-- NCLB
-- RCT
+- pisa
+- nclb
+- rct
 - level/k12
-related_concepts:
-- '[[Side Effects in Education]]'
-- '[[Direct Instruction]]'
-- '[[Evidence-Based Education]]'
-- '[[Randomised Controlled Trials]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Yong Zhao]]'
-related_facts:
-- '[[No Child Left Behind Act 2001]]'
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[Zhao_2017_JEC]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -86,4 +79,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Zhao_2017_JEC]]
+- Zhao_2017_JEC

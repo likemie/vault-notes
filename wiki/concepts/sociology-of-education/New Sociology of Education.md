@@ -10,22 +10,13 @@ tags:
   - theme/curriculum
   - theme/educational-inequality
   - region/uk
-related_concepts:
-  - "[[Political Arithmetic]]"
-  - "[[School Effectiveness]]"
-  - "[[Horizontal Knowledge Structure]]"
-related_theories:
-  - "[[Governmentality]]"
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-  - "[[Basil Bernstein]]"
-  - "[[Stephen Ball]]"
-related_facts:
-  - "[[Committee for the Accreditation of Teacher Education]]"
-related_arguments:
-  - "[[Argument_Ball_2008_SR]]"
-sources:
-  - "[[Ball_2008_SR]]"
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -55,7 +46,7 @@ updated: 2026-05-23
 ## 治理含义
 
 > [!warning] 学校成为新的可见对象
-> NSE 对学校知识和教师实践的批判，原本旨在揭示福利学校如何再生产不平等；但这种目光也无意中把学校和教师专业知识暴露给新的政策干预。换言之，NSE 将“病理”从家庭转移到学校和教师身上，使学校成为后来管理科学、领导话语和 [[Governmentality|治理技术]] 能够进入的对象（Ball, 2008, pp.657-658）。
+> NSE 对学校知识和教师实践的批判，原本旨在揭示福利学校如何再生产不平等；但这种目光也无意中把学校和教师专业知识暴露给新的政策干预。换言之，NSE 将“病理”从家庭转移到学校和教师身上，使学校成为后来管理科学、领导话语和 治理技术 能够进入的对象（Ball, 2008, pp.657-658）。
 
 ## 概念辨析
 
@@ -86,4 +77,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Ball_2008_SR]]
+- Ball_2008_SR

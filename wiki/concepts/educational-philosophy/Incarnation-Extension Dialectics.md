@@ -5,22 +5,16 @@ aliases:
 summary: "把学习理解为具身存在与向外延展之间双向运动的框架，强调身体、环境和世界关系在认知形成中的共同作用"
 type: concept
 tags:
-- Incarnation-Extension Dialectics
+- incarnation-extension-dialectics
 - paradigm/phenomenological
 - stance/critique
-related_concepts:
-- '[[Bildung]]'
-- '[[Visible Learning]]'
-- '[[Neuroplasticity]]'
-related_theories:
-- '[[Luhmann''s Systems Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Steen Nepper Larsen]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Larsen_2019_EducSci]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -58,4 +52,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Larsen_2019_EducSci]]
+- Larsen_2019_EducSci

@@ -11,19 +11,13 @@ tags:
   - theme/sociology-of-education
   - theme/knowledge-structure
   - theory/bernstein
-related_concepts:
-  - "[[New Sociology of Education]]"
-  - "[[Political Arithmetic]]"
-  - "[[School Effectiveness]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Basil Bernstein]]"
+related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Ball_2008_SR]]"
-sources:
-  - "[[Ball_2008_SR]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -64,4 +58,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Ball_2008_SR]]
+- Ball_2008_SR

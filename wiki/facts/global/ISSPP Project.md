@@ -10,17 +10,13 @@ tags:
 - school-leadership
 - region/global
 - level/k12
-related_concepts:
-- '[[School Leadership]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Christopher Day]]'
-- '[[Jorunn Møller]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Møller_2017_EERJ]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-02'
@@ -86,4 +82,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Møller_2017_EERJ]]
+- Møller_2017_EERJ

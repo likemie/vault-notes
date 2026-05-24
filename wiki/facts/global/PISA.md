@@ -11,23 +11,13 @@ tags:
   - region/global
   - level/k12
   - subject/assessment
-related_concepts:
-  - "[[International Education]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Structured Teaching]]"
+related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Rasch Measurement]]"
+related_methods: []
 related_persons: []
-related_facts:
-  - "[[Academic Ranking of World Universities (ARWU)]]"
-  - "[[Visible Learning in Sweden]]"
-related_arguments:
-  - "[[Argument_Slethaug_2010_InternationalEducation]]"
-  - "[[Argument_Håkansson_2015_TT]]"
-sources:
-  - "[[Ch1_Slethaug_2010]]"
-  - "[[Håkansson_2015_TT]]"
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: "2026-05-17"
@@ -85,5 +75,5 @@ updated: "2026-05-22"
 
 ## 来源
 
-- [[Ch1_Slethaug_2010]]
-- [[Håkansson_2015_TT]]
+- Ch1_Slethaug_2010
+- Håkansson_2015_TT

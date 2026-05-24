@@ -7,30 +7,18 @@ publication_type: journal-article
 journal: Język-Szkoła-Rodzina
 citation: Sarbiewska, A. (2019). Visible Learning and educational policies in New Zealand and Australia. Język-Szkoła-Rodzina, 16, 117–129.
 tags:
-- Visible Learning
-- Evidence-Based Education
+- visible-learning
+- evidence-based-education
 - region/newzealand
 - region/australia
 - level/k12
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
-- '[[Effect Size]]'
-- '[[The New Zealand Curriculum]]'
-- '[[Australian Curriculum]]'
-- '[[Victorian HITS and Literacy Toolkit 2017]]'
-- '[[Gonski Reforms]]'
-- '[[Tomorrow''s Schools Reforms (NZ 1989)]]'
-related_theories:
-- '[[Radical Constructivism]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Dietrich Benner]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Sarbiewska_2019_JSR]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -75,7 +63,7 @@ updated: '2026-05-18'
 > - 新西兰教育部报告确认：同一所学校内学生成绩差异巨大，因此个体学校和教师而非政府或系统对有效教育负有最大责任（p.124）
 > - 澳大利亚维多利亚州开发了 [[Victorian HITS and Literacy Toolkit 2017|HITS]]（10 项高影响力教学策略），源自 Hattie 和 Marzano 的研究（p.126）
 > - 新西兰 ERO（Education Review Office）帮助教师与家长和社区合作，澄清有效教师的特征：灵活回应学生、使用不同教学方法、借助其他成人和社区成员的专业知识（p.127）
-> - 澳大利亚 [[Gonski Reforms|Gonski 2.0]]（2018）提出以个体进步而非年龄基准衡量成功学习（p.127）
+> - 澳大利亚 Gonski 2.0（2018）提出以个体进步而非年龄基准衡量成功学习（p.127）
 > - [[Australian Curriculum]]（2012）包含三个维度：学习领域、通用能力和跨课程优先事项，各校有独特实施方式（p.128）
 > - [[The New Zealand Curriculum]]（2010）包含八项原则（高期望、学会学习、未来焦点等），ERO 定期评估实施情况（p.128）
 > - 两国学校实践课程连接（curriculum connection），被认为能有效促进师生协作（p.128–129）
@@ -102,4 +90,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Sarbiewska_2019_JSR]]
+- Sarbiewska_2019_JSR

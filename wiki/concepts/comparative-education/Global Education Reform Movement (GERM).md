@@ -1,29 +1,22 @@
 ---
 title: Global Education Reform Movement (GERM)
 aliases:
-  - 全球教育改革运动
+  - global-education-reform-movement
   - GERM
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 tags:
-- GERM
-- 全球教育改革运动
-- 新自由主义
+- germ
+- global-education-reform-movement
+- neoliberalism
 - region/global
-related_concepts:
-- '[[Visible Learning]]'
-- '[[New Public Management]]'
-- '[[Performativity of Measurement]]'
-- '[[Neo-Taylorism in Educational Administration]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-related_facts:
-- '[[Visible Learning Branding and Global Influences]]'
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[Johnson_2023_CE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -59,4 +52,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Johnson_2023_CE]]
+- Johnson_2023_CE

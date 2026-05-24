@@ -9,22 +9,18 @@ subtype: policy
 region: multi
 issuing_organization: ''
 tags:
-- Evidence-Based Reform
+- evidence-based-reform
 - region/global
 - region/china
 - region/us
 - region/uk
-related_concepts:
-- '[[Evidence-Based Reform]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Robert Slavin]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Slavin_2021_ROE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -75,8 +71,8 @@ updated: '2026-05-18'
 > [!example] 相关概念／政策
 > - [[Evidence-Based Reform]] — BEiB 是该改革运动的信息传播基础设施
 > - [[EEF Teaching and Learning Toolkit]] — 英国证据本位教育的信息传播旗舰产品，与 BEiB 功能互补
-> - [[What Works Clearinghouse]] — 美国证据信息传播的政府项目，与 BEiB 互补
+> - What Works Clearinghouse — 美国证据信息传播的政府项目，与 BEiB 互补
 
 ## 来源
 
-- [[Slavin_2021_ROE]]
+- Slavin_2021_ROE

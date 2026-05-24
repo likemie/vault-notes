@@ -12,21 +12,12 @@ tags:
 - causal-inference
 - statistical-modeling
 - quantitative-methods
-related_concepts:
-- '[[Effect Size]]'
-- '[[Statistical Significance]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Causal Modeling]]'
-- '[[Matching]]'
-- '[[Observational and Correlational Research]]'
-- '[[Meta-analysis]]'
-- '[[Meta-meta-analysis]]'
+related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Allerup_2015_Paideia]]'
-- '[[Berk_2011_ER]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -73,5 +64,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Allerup_2015_Paideia]]
-- [[Berk_2011_ER]]
+- Allerup_2015_Paideia
+- Berk_2011_ER

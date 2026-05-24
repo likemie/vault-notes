@@ -16,24 +16,13 @@ tags:
 - theory/confucianism
 - field/chinese-philosophy
 - theme/learning
-related_concepts:
-- "[[Junzi]]"
-- "[[Ren]]"
-- "[[Self-Cultivation]]"
-- "[[Take the World Upon Oneself]]"
-related_theories:
-- "[[Confucian Learning Tradition]]"
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- "[[Confucius]]"
-- "[[Mencius]]"
-- "[[Zhu Xi]]"
-- "[[Wang Yangming]]"
+related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -47,14 +36,14 @@ updated: 2026-05-22
 > [!info]
 > 圣人（sheng, 聖；后称圣贤 shengxian）是儒家学习传统中的最高理想人格，超越了[[Junzi|君子]]的层级。圣人是那些"爱、关心并将仁爱扩展到全人类"的人——"显然，这样的人已经将他们的人类情感和思想扩展到拥抱整个人类种族"（Li, 2012, p.42）。
 
-孔子本人并未宣称自己达到了圣人——他将圣人定位于连君子也需仰望的更高层次（Li, 2012, p.42）。
+[[Confucius|孔子]]本人并未宣称自己达到了圣人——他将圣人定位于连君子也需仰望的更高层次（Li, 2012, p.42）。
 
 ---
 
 ## 概念辨析
 
 > [!example]
-> **Sage vs Junzi**：见 [[Junzi#概念辨析|Junzi 的概念辨析]]。简言之：圣人 > 君子 > 士。即使君子也敬畏圣人，"成为圣人的目标对普通人来说遥不可及"（Li, 2012, p.42）。
+> **Sage vs Junzi**：见 Junzi 的概念辨析。简言之：圣人 > 君子 > 士。即使君子也敬畏圣人，"成为圣人的目标对普通人来说遥不可及"（Li, 2012, p.42）。
 
 ---
 
@@ -99,4 +88,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

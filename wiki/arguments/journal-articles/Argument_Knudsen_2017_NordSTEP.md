@@ -13,18 +13,13 @@ tags:
 - implementation
 - region/denmark
 - region/new-zealand
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
-- '[[Programme Fidelity vs Adaptation]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Knudsen_2017_NordSTEP]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-07'
@@ -154,4 +149,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Knudsen_2017_NordSTEP]]
+- Knudsen_2017_NordSTEP

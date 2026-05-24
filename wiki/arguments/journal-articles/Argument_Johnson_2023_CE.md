@@ -7,29 +7,18 @@ publication_type: journal-article
 journal: Critical Education
 citation: 'Johnson, G. R., & Janzen, M. D. (2023). Leading the blind: A critical look at Visible Learning. Critical Education, 14(4), 23–41.'
 tags:
-- Visible Learning
-- 新泰勒主义
-- 科学主义
-- 新自由主义
+- visible-learning
+- neo-taylorism
+- scientism
+- neoliberalism
 - stance/critique
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Neo-Taylorism in Educational Administration]]'
-- '[[Scientism]]'
-- '[[Cargo Cult Science]]'
-- '[[Performativity of Measurement]]'
-- '[[Global Education Reform Movement (GERM)]]'
-- '[[Class Size]]'
-related_theories:
-- '[[Technical Rationality]]'
-related_methods:
-- '[[Meta-meta-analysis]]'
-related_persons:
-- '[[John Hattie]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Johnson_2023_CE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -86,4 +75,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Johnson_2023_CE]]
+- Johnson_2023_CE

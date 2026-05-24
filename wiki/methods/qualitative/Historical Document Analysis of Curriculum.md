@@ -13,13 +13,11 @@ tags:
 - paradigm/critical
 - paradigm/interpretivist
 related_concepts: []
-related_theories:
-- '[[Cuban''s Curriculum Change Theory]]'
+related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Yan_2025_JCS]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -81,4 +79,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Yan_2025_JCS]]
+- Yan_2025_JCS

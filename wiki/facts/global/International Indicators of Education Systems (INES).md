@@ -8,22 +8,18 @@ type: fact
 subtype: event
 region: global
 tags:
-- INES
-- OECD
-- education indicators
-- Comparative Education
+- ines
+- oecd
+- education-indicators
+- comparative-education
 - region/global
-related_concepts:
-- '[[Education at a Glance (EAG)]]'
-- '[[Performance Indicators]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Norberto Bottani]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Gorur_2014_Discourse]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -74,7 +70,7 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - vs **[[Education at a Glance (EAG)]]** — INES 是开发指标的项目/组织，EAG 是 INES 的年度出版物/产品
 > - vs **[[PISA]]** — 两者同属 OECD 教育指标体系，但 PISA 是学生成绩测试项目，INES 更早且覆盖更全面的教育系统层面指标；PISA 继承了 INES 在心理测量学的关注（Gorur, 2014, p.5）
-> - vs **[[CERI]]** — CERI 是 OECD 教育研究与创新中心（1968 年创立），INES 从 CERI 中生长出来但具有独立的指标开发使命（Gorur, 2014, p.8）
+> - vs **CERI** — CERI 是 OECD 教育研究与创新中心（1968 年创立），INES 从 CERI 中生长出来但具有独立的指标开发使命（Gorur, 2014, p.8）
 
 ## 理论基础
 
@@ -97,4 +93,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Gorur_2014_Discourse]]
+- Gorur_2014_Discourse

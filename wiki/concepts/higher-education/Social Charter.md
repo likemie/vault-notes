@@ -13,17 +13,13 @@ tags:
 - institutional-theory
 - sociology-of-education
 - level/higher-ed
-related_concepts:
-- '[[Global Universities Rankings]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[University of Kentucky Top-20 Plan]]'
-related_arguments:
-- '[[Argument_Boyadjieva_2022_Springer]]'
-sources:
-- '[[Ch8_Boyadjieva_2022]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-12'
@@ -90,14 +86,14 @@ updated: '2026-05-18'
 > Boyadjieva（2022）将社会宪章置于对 [[Global Universities Rankings|全球大学排名]] 的系统批判中心。她的论证逻辑如下（pp.127–128, 132–136）：
 
 1. **排名只能测量"组织"维度的产出**：论文数、引用率、科研经费——这些都是大学作为"组织"的效率指标。
-2. **排名无法捕捉"制度"维度的社会宪章**：一所大学授予的文凭在社会分层中意味着什么——是通往精英阶层的门票还是服务本地的资质——没有任何排名指标可以测量。
+2. **排名无法捕捉"制度"维度的社会宪章**：一所大学授予的文凭在社会分层中意味着什么——是通往[[Jing (Refined Mastery)|精]]英阶层的门票还是服务本地的资质——没有任何排名指标可以测量。
 3. **排名因此推行了一种残缺的大学观**：它假设大学=生产毕业生和论文的工厂，忽略了大学作为社会地位分配者和文化规范塑造者的制度角色。
 
 > [!example]
-> [[University of Kentucky Top-20 Plan|肯塔基大学案例]] 是这一关系的最佳例证：该大学的赠地使命（社会宪章=为弱势群体增加教育机会）与 USNWR 排名指标（惩罚招收低收入学生）直接冲突——大学必须在"履行社会宪章"和"追求高排名"之间二选一（Boyadjieva, 2022, pp.125–126）。
+> 肯塔基大学案例 是这一关系的最佳例证：该大学的赠地使命（社会宪章=为弱势群体增加教育机会）与 USNWR 排名指标（惩罚招收低收入学生）直接冲突——大学必须在"履行社会宪章"和"追求高排名"之间二选一（Boyadjieva, 2022, pp.125–126）。
 
 ---
 
 ## 来源
 
-- [[Ch8_Boyadjieva_2022]]
+- Ch8_Boyadjieva_2022

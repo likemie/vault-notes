@@ -15,20 +15,13 @@ tags:
   - theme/equity
   - theme/tracking
   - level/k12
-related_concepts:
-  - "[[Grade Retention]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Pact for Educational Excellence]]"
-  - "[[Grade Retention in French-Speaking Belgium]]"
-related_arguments:
-  - "[[Argument_Dachet_2021_ROE]]"
-sources:
-  - "[[Dachet_2021_ROE]]"
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -47,10 +40,10 @@ updated: 2026-05-24
 > [!abstract]
 > 改革前的法语比利时教育系统具有能力本位课程、非义务学前教育、较早分流、频繁留级、课堂时间长且假期不均衡、教师初始培养较短等特征；这些特征共同构成[[Pact for Educational Excellence|教育卓越公约]]要处理的制度背景（Dachet & Baye, 2021, pp.169-170）。
 
-- 能力本位课程以 Socles de Compétences 为代表，该法律文件规定义务教育前 8 年结束时应掌握的核心能力，并要求教育项目以此为基础（Dachet & Baye, 2021, p.169）。
+- 能力本位课程以 Socles de Compétences 为代表，该法律文件规定[[Rightness|义]]务教育前 8 年结束时应掌握的核心能力，并要求教育项目以此为基础（Dachet & Baye, 2021, p.169）。
 - 学前教育改革前不是义务教育，但 3 至 5 岁儿童就读率达到 97%；问题在于缺少明确说明儿童应学习内容和应被认证能力的教育标准（Dachet & Baye, 2021, p.169）。
 - 五周期结构包含早期分流：12 岁左右在普通教育和差异化教育之间进行第一次方向选择，14 岁左右在普通轨和职业轨之间进行第二次方向选择；失败和学习困难经常推动学生进入被视为失败者去处的轨道（Dachet & Baye, 2021, p.169）。
-- [[Grade Retention|留级]]被频繁用于管理学习困难，详见[[Grade Retention in French-Speaking Belgium|法语比利时案例]]：小学平均每年级约 3%，中学平均每年级约 12%；到小学结束约 22.7% 学生落后同龄人，到中学结束约 60% 学生落后（Dachet & Baye, 2021, p.169）。
+- [[Grade Retention|留级]]被频繁用于管理学习困难，详见法语比利时案例：小学平均每年级约 3%，中学平均每年级约 12%；到小学结束约 22.7% 学生落后同龄人，到中学结束约 60% 学生落后（Dachet & Baye, 2021, p.169）。
 - 7 至 14 岁学生课堂时间接近 7,700 小时，高于 OECD 平均 6,732 小时；暑假长达两个月，假期分布不均衡（Dachet & Baye, 2021, pp.169-170）。
 - 小学和初中教师改革前接受 3 年非大学初始培养（Dachet & Baye, 2021, p.170）。
 
@@ -73,4 +66,4 @@ updated: 2026-05-24
 
 ## 来源
 
-- [[Dachet_2021_ROE]]
+- Dachet_2021_ROE

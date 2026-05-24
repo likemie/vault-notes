@@ -15,18 +15,12 @@ tags:
 - region/us
 - level/k12
 related_concepts: []
-related_theories:
-- '[[Refraction Framework]]'
-related_methods:
-- '[[Seasonal Comparison]]'
+related_theories: []
+related_methods: []
 related_persons: []
-related_facts:
-- '[[Coleman Report 1966]]'
-- '[[No Child Left Behind Act 2001]]'
-- '[[Tennessee STAR Project 1985-1989]]'
+related_facts: []
 related_arguments: []
-sources:
-- '[[Downey_2016_SoE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -111,4 +105,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Downey_2016_SoE]]
+- Downey_2016_SoE

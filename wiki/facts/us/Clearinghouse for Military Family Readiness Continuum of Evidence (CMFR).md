@@ -8,22 +8,18 @@ type: fact
 subtype: event
 region: us
 tags:
-- CMFR
+- cmfr
 - educational-evidence-clearinghouse
 - evidence-based-education
 - military-family
 - region/us
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Evidence-Based Education]]'
-- '[[Randomised Controlled Trials]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -54,7 +50,7 @@ updated: '2026-05-18'
 ## 与其他清算中心的差异
 
 > [!abstract] 与其他清算中心的差异
-> CMFR 的设计标准较细，尤其是在 RCT 和一般 QED 上均达到作者编码的最高描述程度；但它不把 RDD 和 ITS 作为单独设计标准列出。与 [[Blueprints for Healthy Youth Development|Blueprints]] 类似，它重视外部独立复制；与 [[What Works Clearinghouse (WWC)|WWC]] 不同，它在表 3 中没有 RDD 或 ITS 标准（Wadhwa et al., 2024, pp.10–12）。
+> CMFR 的设计标准较细，尤其是在 RCT 和一般 QED 上均达到作者编码的最高描述程度；但它不把 RDD 和 ITS 作为单独设计标准列出。与 Blueprints 类似，它重视外部独立复制；与 [[What Works Clearinghouse (WWC)|WWC]] 不同，它在表 3 中没有 RDD 或 ITS 标准（Wadhwa et al., 2024, pp.10–12）。
 
 ## 相关概念／政策
 
@@ -65,4 +61,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- Wadhwa_2024_RER

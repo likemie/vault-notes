@@ -6,25 +6,17 @@ aliases:
 summary: "参与公立学校教育政策制定、管理支持和服务交付的私营部门实体，兼具营利和非营利形式，用于描述教育治理中的外部组织化介入。"
 type: concept
 tags:
-- EMO
+- emo
 - subject/curriculum
 - region/new-zealand
 - region/global
-related_concepts:
-- '[[Network Governance]]'
-- '[[Privatisation of State Schooling]]'
-- '[[Venture Philanthropy]]'
-- '[[Endogenous and Exogenous Privatisation]]'
-- '[[Policy Entrepreneur]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-related_facts:
-- '[[Visible Learning Branding and Global Influences]]'
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[ONeill_2016_Report]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -106,4 +98,4 @@ Poirier（2013）指出，新西兰慈善法包容收费服务的非营利组织
 
 ## 来源
 
-- [[ONeill_2016_Report]]
+- ONeill_2016_Report

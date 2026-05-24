@@ -13,23 +13,13 @@ tags:
   - region/east-asia
   - region/west
   - method/discourse-analysis
-related_concepts:
-  - "[[Mother-Child Conversation (MCC)]]"
-  - "[[Socratic Tutoring Style]]"
-  - "[[Confucian Tutoring Style]]"
-  - "[[Learning Virtues]]"
-  - "[[Pride in Learning]]"
-  - "[[Humility in Learning]]"
-related_theories:
-  - "[[Appraisal Theory]]"
-related_methods:
-  - "[[Mother-Child Conversation (MCC)]]"
+related_concepts: []
+related_theories: []
+related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
-sources:
-  - "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -41,9 +31,9 @@ updated: 2026-05-24
 ## 概述
 
 > [!info]
-> 本条目记录 Li（2012）第 7 章中 [[Mother-Child Conversation (MCC)|母子对话（MCC）]] 研究的 22 段原始对话。Li 从 200 组对话中选取欧裔美国（EA）和台湾（TW）各 11 段进行话语分析。每段对话先呈现**逐句原文与中文翻译**，再展示 Li 的分析操作。
+> 本条目记录 Li（2012）第 7 章中 母子对话（MCC） 研究的 22 段原始对话。Li 从 200 组对话中选取欧裔美国（EA）和台湾（TW）各 11 段进行话语分析。每段对话先呈现**逐句原文与中文翻译**，再展示 Li 的分析操作。
 
-话语分析的理论锚点是 Vygotsky 学派的认知支架（cognitive scaffolding）概念，情感社会化的理论基础是 Frijda 的评估理论和 Gottman 的元情感哲学（Li, 2012）。
+话语分析的理论锚点是 Vygotsky 学派的认知支架（cognitive scaffolding）概念，情感社会化的理论基础是 Frijda 的[[Appraisal Theory|评估理论]]和 Gottman 的元情感哲学（Li, 2012）。
 
 ---
 
@@ -516,7 +506,7 @@ updated: 2026-05-24
 
 #### 示例 8：TW 母亲的认知来源 — 学习美德
 
-**对话 C：Ren 和"为什么你要认真上课？"**
+**对话 C：[[Ren]] 和"为什么你要认真上课？"**
 
 > [!example]- 原始对话
 > ```
@@ -932,7 +922,7 @@ updated: 2026-05-24
 
 ## 第二部分：情感社会化
 
-情感社会化的理论基础：情感反应需要先对事件进行**评估**（appraisal），判断正面还是负面。评估标准来自**文化定义的意义和重要性**。因此"怎么感受"在相当程度上是被文化社会化出来的（Li, 2012，引 Frijda 和 Gottman）。
+情感社会化的理论基础：情感反应需要先对事件进行**评估**（appraisal），判断正面还是负面。评估标准来自**文化定[[Rightness|义]]的意义和重要性**。因此"怎么感受"在相当程度上是被文化社会化出来的（Li, 2012，引 Frijda 和 Gottman）。
 
 ---
 
@@ -1279,4 +1269,4 @@ updated: 2026-05-24
 
 ## 来源
 
-- [[Li_2012_Cambridge]]（第 7 章）
+- Li_2012_Cambridge（第 7 章）

@@ -15,23 +15,13 @@ tags:
 - epistemic-governance
 - region/global
 - level/higher-ed
-related_concepts:
-- '[[Geopolitics of Knowledge]]'
-- '[[Knowledge-Based Economization]]'
-- '[[Global Regionalisms in Higher Education]]'
-- '[[Regulatory Regionalism]]'
-- '[[Horizon Europe Missions]]'
-related_theories:
-- '[[Decolonial Geopolitics of Knowledge]]'
-- '[[Critical Geopolitics]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Marcelo Parreira do Amaral]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Parreira do Amaral(Ed.)_2022_Springer]]'
-- '[[Ch3_Parreira do Amaral_2022]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -52,12 +42,12 @@ updated: '2026-05-18'
 > [!note]- 时间线
 > - 2014 年：Horizon 2020 正式启动，SSH 整合政策生效
 > - 2014–2020 年：SSH 作为横向议题被嵌入所有研究优先领域
-> - 2021 年：[[Horizon Europe Missions|Horizon Europe]] 取代 Horizon 2020，SSH 的嵌入式角色被"固化并放大"以服务于"Europe's missions"（Thompson & Parreira do Amaral, 2022, p.12）
+> - 2021 年：Horizon Europe 取代 Horizon 2020，SSH 的嵌入式角色被"固化并放大"以服务于"Europe's missions"（Thompson & Parreira do Amaral, 2022, p.12）
 
 ## 实施影响
 
 > [!success] 实施影响
-> [[Marcelo Parreira do Amaral|Parreira do Amaral]]（2019）论证该政策产生了多重影响（Thompson & Parreira do Amaral, 2022, p.12）：
+> Parreira do Amaral（2019）论证该政策产生了多重影响（Thompson & Parreira do Amaral, 2022, p.12）：
 >
 > - **资助结构的根本转变**：从以学科和主题为基础的研究资助结构，转向更聚焦于战略性干预和工具性解决方案的资源配置模式
 > - **学科层级的制度化**：SSH 与其他学科的等级关系从隐性的学术文化变为显性的制度安排——STEM 学科被定位为"核心"，SSH 被定位为"辅助"
@@ -95,5 +85,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Parreira do Amaral(Ed.)_2022_Springer]]
-- [[Ch3_Parreira do Amaral_2022]]
+- Parreira do Amaral(Ed.)_2022_Springer
+- Ch3_Parreira do Amaral_2022

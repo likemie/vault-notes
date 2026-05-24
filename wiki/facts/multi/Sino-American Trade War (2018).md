@@ -4,7 +4,7 @@ aliases:
 - 中美贸易战
 - 中美贸易摩擦
 - US-China Trade War
-summary: "中美贸易与技术转移争端，Partaken (2022) 定位为 GPK\"最好且最当下的经验案例"
+summary: "中美贸易与技术转移争端，Partaken (2022) 定位为 GPK“最好且最当下的经验案例"
 type: fact
 subtype: event
 region: multi
@@ -14,25 +14,13 @@ tags:
 - geopolitics-of-knowledge
 - trade
 - technology-transfer
-related_concepts:
-- '[[Geopolitics of Knowledge]]'
-- '[[Knowledge Transfer]]'
-- '[[Economic and Industrial Espionage]]'
-- '[[Internationalization of Higher Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Fazal Rizvi]]'
-related_facts:
-- '[[US-China Economic and Security Review Commission (2000)]]'
-- '[[Thousand Talents Program]]'
-- '[[Great Firewall of China]]'
-related_arguments:
-- '[[Argument_Partaken_2022_Springer]]'
-- '[[Argument_Rizvi_2022_Springer]]'
-sources:
-- '[[Ch5_Partaken_2022]]'
-- '[[Ch6_Rizvi_2022]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -71,9 +59,9 @@ updated: '2026-05-18'
 Rizvi (2022) 从中美地缘政治紧张的角度分析了贸易战对[[Internationalization of Higher Education|高等教育国际化]]的多重冲击：
 
 - **中国留学生处境恶化**："关于 Covid-19 起源、技术转让、人权和香港的争议"导致来自中国的国际学生感到越来越不受欢迎、越来越不安全（Rizvi, 2022, p.101）
-- **新自由主义全球化想象的动摇**：中美地缘政治紧张正在改变新自由主义全球化想象赖以建立和庆祝的基础——以竞争和市场为核心的国际化范式日益暴露其内在矛盾（Rizvi, 2022, pp.101–102）
+- **新自由主[[Rightness|义]]全球化想象的动摇**：中美地缘政治紧张正在改变新自由主义全球化想象赖以建立和庆祝的基础——以竞争和市场为核心的国际化范式日益暴露其内在矛盾（Rizvi, 2022, pp.101–102）
 - **权力不对称的重构**：新兴的地缘政治格局要求"互惠和互利"，英美国家"不再能不受挑战地定义经济、政治和文化交换的条款"（Rizvi, 2022, p.101）。但与此同时，**新的不对称正在出现**——中国将高等教育用作全球影响力的工具，在新的权力格局中制造了亚洲内部新的等级关系（Rizvi, 2022, pp.101–102）
-- **知识地缘政治的多极化**：虽然英语国家大学仍居主导地位，但"其他知识生产中心，特别是在亚洲，正在崛起"，许多系统"将其文化和认识论遗产视为同等至关重要，甚至更为优越"（Rizvi, 2022, p.102）。这一趋势要求超越商业化逻辑，重新想象跨国研究合作的可能性
+- **知识地缘政治的多极化**：虽然英语国家大学仍居主导地位，但"其他[[Knowledge Production|知识生产]]中心，特别是在亚洲，正在崛起"，许多系统"将其文化和认识论遗产视为同等至关重要，甚至更为优越"（Rizvi, 2022, p.102）。这一趋势要求超越商业化逻辑，重新想象[[Transnational Research Collaboration in Higher Education|跨国研究合作]]的可能性
 
 ## 争议与评论
 
@@ -91,4 +79,4 @@ Rizvi (2022) 从中美地缘政治紧张的角度分析了贸易战对[[Internat
 
 ## 来源
 
-- [[Ch5_Partaken_2022]]
+- Ch5_Partaken_2022

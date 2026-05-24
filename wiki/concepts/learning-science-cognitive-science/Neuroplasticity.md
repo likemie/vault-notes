@@ -5,28 +5,16 @@ aliases:
 summary: "神经系统在经验、练习和环境作用下持续改变连接、功能和组织方式的能力，用于说明学习、发展和适应具有动态生物基础。"
 type: concept
 tags:
-- Neuroplasticity
+- neuroplasticity
 - learning-science
 - paradigm/critical
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Neuro-myths]]'
-- '[[synaptogenesis]]'
-- '[[synaptic-pruning]]'
-- '[[myelination]]'
-- '[[prefrontal-cortex]]'
-related_theories:
-- '[[Luhmann''s Systems Theory]]'
-- '[[hebbian-principles]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Steen Nepper Larsen]]'
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Larsen_2019_EducSci]]'
-- '[[Bolton_2017_ArchPsych]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -53,9 +41,9 @@ updated: '2026-05-18'
 > [!abstract] 突触可塑性的细胞机制
 > 脑可塑性在细胞层面主要通过两个过程影响细胞间通信的效能（Bolton & Hattie, 2017, p.6）：
 >
-> - **[[synaptogenesis|突触发生（Synaptogenesis）]]** — 中枢神经系统中神经元之间新突触（连接）的创建。该过程涉及神经元和连接的过度生产，贯穿整个儿童期发育，在性成熟年龄左右开始减少（Bolton & Hattie, 2017, p.6）。出生至 2 岁期间大脑形成最大数量的新连接，7–12 个月发生剧烈突触发生，时间上与 EF 任务测量的转换和抑制的改善一致（Bolton & Hattie, 2017, p.9）
-> - **[[synaptic-pruning|突触修剪（Synaptic Pruning）]]** — 突触消除的过程，即神经元之间连接的程序性丧失。基于 [[hebbian-principles|Hebb 原则]]：经常使用的神经通路被加强，不常用的被移除（Bolton & Hattie, 2017, p.6）。儿童大脑中兴奋性突触数量是成人的 2–3 倍；在 PFC 中，突触连接密度从 2 岁时比成人高 55% 降至 7 岁时仅比成人高 10%（Bolton & Hattie, 2017, p.6, 12）
-> - **[[myelination|髓鞘化（Myelination）]]** — 在轴突周围积累髓鞘（白质）的过程，增加厚度并对神经细胞段进行电绝缘，使信号传输更快速（Bolton & Hattie, 2017, p.7）。髓鞘化在儿童早期开始，导致白质体积增加，dlPFC 的白质密度在 2–5 岁持续增加（Bolton & Hattie, 2017, p.12）
+> - **突触发生（Synaptogenesis）** — 中枢神经系统中神经元之间新突触（连接）的创建。该过程涉及神经元和连接的过度生产，贯穿整个儿童期发育，在性成熟年龄左右开始减少（Bolton & Hattie, 2017, p.6）。出生至 2 岁期间大脑形成最大数量的新连接，7–12 个月发生剧烈突触发生，时间上与 EF 任务测量的转换和抑制的改善一致（Bolton & Hattie, 2017, p.9）
+> - **突触修剪（Synaptic Pruning）** — 突触消除的过程，即神经元之间连接的程序性丧失。基于 Hebb 原则：经常使用的神经通路被加强，不常用的被移除（Bolton & Hattie, 2017, p.6）。儿童大脑中兴奋性突触数量是成人的 2–3 倍；在 PFC 中，突触连接密度从 2 岁时比成人高 55% 降至 7 岁时仅比成人高 10%（Bolton & Hattie, 2017, p.6, 12）
+> - **髓鞘化（Myelination）** — 在轴突周围积累髓鞘（白质）的过程，增加厚度并对神经细胞段进行电绝缘，使信号传输更快速（Bolton & Hattie, 2017, p.7）。髓鞘化在儿童早期开始，导致白质体积增加，dlPFC 的白质密度在 2–5 岁持续增加（Bolton & Hattie, 2017, p.12）
 
 
 > [!abstract] 可塑性的三种类型
@@ -67,7 +55,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 与前额叶皮层发育的关系
-> [[prefrontal-cortex|前额叶皮层（PFC）]]在儿童期到青春期再到成年期的大小、形状和功能变化，与突触可塑性和髓鞘化过程中的白质和灰质变化直接相关（Bolton & Hattie, 2017, p.8）。PFC 的突触连接密度随时间显著变化，且 PFC 的延迟发育（2 岁时树突连接仅达成人水平的一半）与认知发展的阶段性特征相吻合（Bolton & Hattie, 2017, p.9）。
+> 前额叶皮层（PFC）在儿童期到青春期再到成年期的大小、形状和功能变化，与突触可塑性和髓鞘化过程中的白质和灰质变化直接相关（Bolton & Hattie, 2017, p.8）。PFC 的突触连接密度随时间显著变化，且 PFC 的延迟发育（2 岁时树突连接仅达成人水平的一半）与认知发展的阶段性特征相吻合（Bolton & Hattie, 2017, p.9）。
 
 ## 与相关概念的区别
 
@@ -89,5 +77,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Larsen_2019_EducSci]]
-- [[Bolton_2017_ArchPsych]]
+- Larsen_2019_EducSci
+- Bolton_2017_ArchPsych

@@ -15,26 +15,13 @@ tags:
   - teacher-evaluation
   - region/australia
   - region/new-zealand
-related_concepts:
-  - "[[Visible Learning]]"
-  - "[[Effect Size]]"
-  - "[[Feedback]]"
-  - "[[Surface and Deep Learning]]"
-  - "[[Evidence-Based Education]]"
-related_theories:
-  - "[[Popper's Three Worlds Theory]]"
-related_methods:
-  - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
-related_persons:
-  - "[[John Hattie]]"
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Hansen_2015_Paideia]]"
-  - "[[Argument_Qvortrup_2015_Paideia]]"
-  - "[[Argument_Allerup_2015_Paideia]]"
-sources:
-  - "[[Hattie_2015_Paideia]]"
+related_arguments: []
+sources: []
 part_of: ""
 status: draft
 created: 2026-05-21
@@ -159,4 +146,4 @@ updated: 2026-05-21
 
 ## 来源
 
-- [[Hattie_2015_Paideia]]
+- Hattie_2015_Paideia

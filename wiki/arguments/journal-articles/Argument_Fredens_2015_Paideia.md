@@ -7,25 +7,18 @@ publication_type: journal-article
 journal: Paideia
 citation: Fredens, K. (2015). Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]. Paideia, (9), 70–75.
 tags:
-- Visible Learning
+- visible-learning
 - feedback
 - learning-science
 - region/denmark
 - level/k12
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Feedback]]'
-- '[[Direct Instruction]]'
-- '[[working-memory]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Cognitive Task Analysis]]'
-related_persons:
-- '[[John Hattie]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Fredens_2015_Paideia]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -85,7 +78,7 @@ updated: '2026-05-18'
 > ### Fredens 的补充性批评
 >
 > - **默认网络的功能**：Hattie & Yates 强调注意力中断的缺点，但 Fredens 补充指出好处——当大脑"走神"时，前额叶关闭并转入默认网络（社会脑），在恢复的同时产生联想和创意发展。这种注意力"缺失"在创造性过程中至关重要（Fredens, 2015, p.71–72）
-> - **认知负荷与不必要指导**：Fredens 引 Hattie & Yates 警告——没有必要的指导和教学时，学生"交换无知并同时用不必要的信息填满头脑"，称此为"非生产性心理努力"（uproduktiv mental anstrengelse），认知术语为"认知负荷"（cognitive load）——[[working-memory|工作记忆]]被不必要信息填满的状态（Fredens, 2015, p.73）
+> - **认知负荷与不必要指导**：Fredens 引 Hattie & Yates 警告——没有必要的指导和教学时，学生"交换无知并同时用不必要的信息填满头脑"，称此为"非生产性心理努力"（uproduktiv mental anstrengelse），认知术语为"认知负荷"（cognitive load）——工作记忆被不必要信息填满的状态（Fredens, 2015, p.73）
 
 ## 关键引用
 
@@ -107,4 +100,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Fredens_2015_Paideia]]
+- Fredens_2015_Paideia

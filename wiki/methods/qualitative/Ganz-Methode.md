@@ -12,24 +12,13 @@ tags:
 - region/brazil
 - region/global
 - level/higher-ed
-related_concepts:
-- '[[Life Power]]'
-- '[[Tense Society]]'
-- '[[Geopolitics of Knowledge]]'
-- '[[Social Museology]]'
-- '[[Epistemology of Resistance]]'
-- '[[Ecomuseology]]'
-- '[[Whole Sustainability]]'
-related_theories:
-- '[[Creative Tension of Sense]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Dell Delambre]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Delambre_2022_Springer]]'
-sources:
-- '[[Ch7_Delambre_2022]]'
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -89,7 +78,7 @@ updated: '2026-05-18'
 > [!example]
 > - **WTS Coaching** — Delambre 开发的教练项目，将 Ganz-Methode 操作化。在教练实践中，三重模型构成"整体商业"（whole business）：（1）个体和集体在局部社区中的生命力量商业（happiness businesses within whole sustainability）；（2）数字转型的技术资源；（3）在指数级张力和张力认识论的时代中，三者形成"智慧经济"（wisdom economy）——个体和组织利用局部知识和智慧开发创造性解决方案，为快乐、健康和幸福创造条件（Delambre, 2022, p.107, 117–120）
 > - **Rocinha 贫民窟剧场项目**（Bando Cultural Favelados da Rocinha）— 里约热内卢案例，导演 Richard Castelo Branco 以自创 EspectAtor 方法（一种 [[Epistemology of Resistance|抵抗认识论]]）指导戏剧创作，居民讲述自身暴力创伤故事。Delambre 与巴西女演员 Camilla de Hollanda Amado（1941–2021）共同创立"Bora Bora em Bando"项目为这一文化团体争取社会可见度（Delambre, 2022, p.109–110）
-> - **[[Social Museology|巴西社会博物馆学]]**（social museology）和生态博物馆学（ecomuseology）实践 — 以居民自身为主角，自己选择展品、讲述故事、保护记忆，抵抗霸权系统对地方历史的抹除。口述性（orality）被视为知识生产和智慧传播的核心方式，与非洲和拉丁美洲的伟大传统一脉相承（Delambre, 2022, p.110）
+> - **巴西社会博物馆学**（social museology）和生态博物馆学（ecomuseology）实践 — 以居民自身为主角，自己选择展品、讲述故事、保护记忆，抵抗霸权系统对地方历史的抹除。口述性（orality）被视为知识生产和智慧传播的核心方式，与非洲和拉丁美洲的伟大传统一脉相承（Delambre, 2022, p.110）
 
 ## 方法所回应的张力域
 
@@ -104,4 +93,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch7_Delambre_2022]]
+- Ch7_Delambre_2022

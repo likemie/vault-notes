@@ -11,21 +11,12 @@ tags:
 - postcolonial-studies
 - deimperialization
 - decolonization
-related_concepts:
-- '[[Geopolitics of Knowledge]]'
-- '[[Knowledge Transfer]]'
-- '[[Forced Knowledge Transfer]]'
-- '[[Narrative Knowledge]]'
-related_theories:
-- '[[Decolonial Geopolitics of Knowledge]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Frantz Fanon]]'
-- '[[Walter Mignolo]]'
-related_arguments:
-- '[[Argument_Partaken_2022_Springer]]'
-sources:
-- '[[Ch5_Partaken_2022]]'
+related_persons: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -75,4 +66,4 @@ Chen 在台湾大学取得学士学位，后赴美国爱荷华大学攻读传播
 
 ## 来源
 
-- [[Ch5_Partaken_2022]]
+- Ch5_Partaken_2022

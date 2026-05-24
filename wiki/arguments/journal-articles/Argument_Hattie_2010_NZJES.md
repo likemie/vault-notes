@@ -1,38 +1,23 @@
 ---
 title: Argument_Hattie_2010_NZJES
-summary: "Hattie 以第一人称反思教育学者作为\"社会批评者与良知\"的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与"
+summary: "Hattie 以第一人称反思教育学者作为“社会批评者与良知“的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与"
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: New Zealand Journal of Educational Studies
 citation: 'Hattie, J. (2010). On being a ''critic and conscience of society'': The role of the education academic in public debates. New Zealand Journal of Educational Studies, 45(1), 85–96.'
 tags:
-- Visible Learning
+- visible-learning
 - evidence-based-education
 - stance/support
 - region/new-zealand
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Effect Size]]'
-- '[[Class Size]]'
-- '[[Performance Pay]]'
-- '[[Critic and Conscience of Society]]'
-- '[[Argument_Snook_2009_NZJES]]'
-- '[[Argument_Snook_2010_NZJES]]'
-- '[[Argument_Grace_2010_NZJES]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Gerald Grace]]'
-related_facts:
-- '[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]'
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[Snook_2009_NZJES]]'
-- '[[Hattie_2010_NZJES]]'
-- '[[Grace_2010_NZJES]]'
-- '[[Snook_2010_NZJES]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-06'
@@ -69,7 +54,7 @@ updated: '2026-05-18'
 >
 > **关于研究质量**：Hattie 澄清 VL 前言中"不是一本关于研究批评的书"被误读为"忽视研究质量"。实际上，凡已知研究质量对特定主题有影响之处均已标注，对低质量元分析明确批评（如学习风格研究的"可怕状态"），且元分析方法本身的优势之一正是处理质量问题（p.88）。
 >
-> **关于偏差与可推广性**：[[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 声称元分析中偏差不受控制——Hattie 回应 Schulze (2004) 等文献表明控制偏差是元分析方法的核心关切。关于新西兰的特殊性，Hattie 反问：如果没有足够的新西兰本地研究来确定差异，"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）。
+> **关于偏差与可推广性**：Snook et al. (2009) 声称元分析中偏差不受控制——Hattie 回应 Schulze (2004) 等文献表明控制偏差是元分析方法的核心关切。关于新西兰的特殊性，Hattie 反问：如果没有足够的新西兰本地研究来确定差异，"翻译现有研究可能比根本不依赖任何研究更有价值"（p.89）。
 >
 > **关于 d=0.40 铰链点**：Hattie 承认该截断值"perhaps it was arbitrary, but it was certainly not capricious"——这是基于 800+ 元分析的经验平均值，用作理解"高于和低于此效应的共同特征"的叙事工具，而非不可逾越的绝对阈值。书中多处强调不应做非此即彼的截断结论（p.89）。
 >
@@ -110,4 +95,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Hattie_2010_NZJES]]
+- Hattie_2010_NZJES

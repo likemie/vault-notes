@@ -6,19 +6,15 @@ summary: "德国教育学者和 Didaktik 研究者，好教学十项标准提出
 type: person
 nationality: germany
 tags:
-- Hilbert-Meyer
+- hilbert-meyer
 - effective-teaching
 - region/germany
-related_concepts:
-- '[[Effective Teaching]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Andreas Helmke]]'
+related_persons: []
 related_arguments: []
-sources:
-- '[[Laursen_2015_Paideia]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -28,7 +24,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Hilbert Meyer 是德语[[Effective Teaching|有效教学]]研究综合的重要作者，代表作 *Hvad er god undervisning?* 提出了一套"好教学"的十项质量标准。他的研究综合常与 [[John Hattie|Hattie]]、[[Andreas Helmke|Helmke]] 的工作并列讨论，用来概括教师领导、照顾个别学生、清晰目标和学习导向课堂气氛等有效教学质量（Laursen, 2015, pp.34–35）。
+> Hilbert Meyer 是德语[[Effective Teaching|有效教学]]研究综合的重要作者，代表作 *Hvad er god undervisning?* 提出了一套"好教学"的十项质量标准。他的研究综合常与 [[John Hattie|Hattie]]、Helmke 的工作并列讨论，用来概括教师领导、照顾个别学生、清晰目标和学习导向课堂气氛等有效教学质量（Laursen, 2015, pp.34–35）。
 
 ## 核心思想
 
@@ -53,4 +49,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[Laursen_2015_Paideia]]
+- Laursen_2015_Paideia

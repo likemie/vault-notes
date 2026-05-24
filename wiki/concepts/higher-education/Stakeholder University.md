@@ -12,21 +12,13 @@ tags:
   - geopolitics
   - level/higher-ed
   - theme/neoliberalism
-related_concepts:
-  - "[[Competitiveness in Higher Education]]"
-  - "[[New Public Management]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[Global Universities Rankings]]"
-  - "[[Online Self-Assessment]]"
-related_theories:
-  - "[[Societies of Control]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Thompson_2022_Promising_Student]]"
-sources:
-  - "[[Ch13_Thompson_2022]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-20
@@ -56,21 +48,21 @@ updated: 2026-05-20
 利益相关者大学的核心特征是大学行动者网络的异质化（Thompson et al., 2022, pp.221–222）：
 
 - **学生**：同时是学习者、消费者、未来的校友捐赠者和排名指标的贡献者（满意度调查、毕业率数据）
-- **教师**：同时是研究者、知识生产者、第三方经费的争取者、教学服务的提供者
+- **教师**：同时是研究者、[[Knowledge Production|知识生产]]者、第三方经费的争取者、教学服务的提供者
 - **政府机构**：作为资助者、监管者和政策目标的设定者
 - **商业服务提供者**：包括 EdTech 公司、招生代理、排名机构、校园服务外包商
 - **自动化计算机代理**：[[Learning Analytics|学习分析]]系统、[[Online Self-Assessment|OSA]] 算法、数字学习平台——这些非人行动者日益参与大学的决策和治理
 
 ### 连接性作为核心资源
 
-在利益相关者大学中，连接性（connectivity）取代了传统的学术声望成为大学的核心资源。一所大学的价值不再仅由其学术产出定义，更由它在全球高等教育网络中的**连接位置**定义——它与哪些企业合作、吸引哪些国际学生群体、在排名体系中占据什么位置、其校友网络覆盖哪些全球枢纽城市（Thompson et al., 2022, pp.221–222）。
+在利益相关者大学中，连接性（connectivity）取代了传统的学术声望成为大学的核心资源。一所大学的价值不再仅由其学术产出定[[Rightness|义]]，更由它在全球高等教育网络中的**连接位置**定义——它与哪些企业合作、吸引哪些国际学生群体、在排名体系中占据什么位置、其校友网络覆盖哪些全球枢纽城市（Thompson et al., 2022, pp.221–222）。
 
 ## 在竞争性地缘政治中的位置
 
 > [!abstract]
 > Thompson 等人（2022, pp.221–222）将利益相关者大学定位为 [[Competitiveness in Higher Education|高等教育竞争力]] 作为地缘政治装置运作的组织条件。关键逻辑链条为：
 
-1. [[New Public Management|NPM]] 和审计文化将大学重塑为关注绩效的组织
+1. NPM 和审计文化将大学重塑为关注绩效的组织
 2. 大学为提升竞争力而主动扩展利益相关者网络——吸引国际学生、对接企业需求、优化排名指标
 3. 网络扩展进一步将大学从学术共同体转化为多利益相关者平台
 4. 作为平台，大学成为地缘政治的机会节点——各国通过大学网络投射软实力、吸引全球人才、推动经济战略
@@ -86,4 +78,4 @@ updated: 2026-05-20
 
 ## 来源
 
-- [[Ch13_Thompson_2022]]
+- Ch13_Thompson_2022

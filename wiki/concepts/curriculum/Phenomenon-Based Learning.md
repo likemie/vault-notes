@@ -11,24 +11,13 @@ tags:
 - subject/instruction
 - region/finland
 - level/k12
-related_concepts:
-- '[[Bildung]]'
-- '[[Didaktik]]'
-- '[[Epochal Key Problems]]'
-- '[[Problem-Based Learning]]'
-- '[[Atomisation of Knowledge and Skills]]'
-- '[[Finnish National Core Curriculum 2014]]'
-- '[[SveaSus Project]]'
-related_theories:
-- '[[Phenomenology]]'
-- '[[Radical Constructivism]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Wolfgang Klafki]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Schaffar_2024_CogentEdu]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -100,4 +89,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Schaffar_2024_CogentEdu]]
+- Schaffar_2024_CogentEdu

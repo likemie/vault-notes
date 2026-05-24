@@ -11,22 +11,13 @@ tags:
 - region/denmark
 - level/k12
 - research-report
-related_concepts:
-- '[[Effective Teaching]]'
-- '[[Visible Learning]]'
-- '[[Feedback]]'
-- '[[Individualised Instruction]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Hilbert Meyer]]'
-- '[[Andreas Helmke]]'
-- '[[Jill Mehlbye]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Laursen_2015_Paideia]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -52,7 +43,7 @@ updated: '2026-05-18'
 ## 评价
 
 > [!success] 评价
-> SFI Report 2013 是 Laursen 检验国际[[Effective Teaching|有效教学]]综合丹麦适用性的主要本土证据。它与 [[Jill Mehlbye|Mehlbye]] 的高绩效学校研究共同支持一个判断：Hattie、Meyer 和 Helmke 强调的教师领导、清晰目标、高要求和良好学习环境，在丹麦研究中总体得到支持（Laursen, 2015, pp.37–40）。
+> SFI Report 2013 是 Laursen 检验国际[[Effective Teaching|有效教学]]综合丹麦适用性的主要本土证据。它与 Mehlbye 的高绩效学校研究共同支持一个判断：Hattie、Meyer 和 Helmke 强调的教师领导、清晰目标、高要求和良好学习环境，在丹麦研究中总体得到支持（Laursen, 2015, pp.37–40）。
 >
 > 该报告也提示两个边界：第一，学生社会背景会显著改变开放教学、共同解题和个体解题的效果；第二，问卷项目如果没有抓住概念核心，可能导致[[Feedback|反馈]]等结果被误读（Laursen, 2015, pp.38–39）。
 
@@ -66,4 +57,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Laursen_2015_Paideia]]
+- Laursen_2015_Paideia

@@ -7,29 +7,18 @@ publication_type: journal-article
 journal: New Zealand Journal of Educational Studies
 citation: 'Snook, I., Clark, J., Harker, R., O''Neill, A. M., & O''Neill, J. (2010). Critic and conscience of society: A reply to John Hattie. New Zealand Journal of Educational Studies, 45(2), 93–98.'
 tags:
-- Visible Learning
+- visible-learning
 - effect-size
 - meta-analysis
 - stance/critique
 - region/new-zealand
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Effect Size]]'
-- '[[Meta-analysis]]'
-- '[[Class Size]]'
-- '[[Homework]]'
-- '[[Argument_Snook_2009_NZJES]]'
-- '[[Argument_Hattie_2010_NZJES]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Snook_2009_NZJES]]'
-- '[[Hattie_2010_NZJES]]'
-- '[[Snook_2010_NZJES]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-06'
@@ -38,7 +27,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> 对 [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 在 NZJES 发表的"On Being a 'Critic and Conscience of Society'"进行逐点再回应。核心问题：Hattie 对 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 批评的回应是否充分解决了实质性的方法论关切？
+> 对 Hattie (2010) 在 NZJES 发表的"On Being a 'Critic and Conscience of Society'"进行逐点再回应。核心问题：Hattie 对 Snook et al. (2009) 批评的回应是否充分解决了实质性的方法论关切？
 
 ## 理论框架
 
@@ -105,4 +94,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Snook_2010_NZJES]]
+- Snook_2010_NZJES

@@ -11,20 +11,13 @@ tags:
 - classroom-interaction
 - subject/psychology
 - level/k12
-related_concepts:
-- '[[Self-control]]'
-- '[[Student-Teacher Relationship]]'
-- '[[Classroom Learning Culture]]'
-- '[[School Norm Adaptation]]'
-- '[[Gender Differences in Academic Achievement]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Observational and Correlational Research]]'
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Lekhal_2015_Paideia]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -39,9 +32,9 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - 主动发起：主动开启学习相关互动或协作（[[Lekhal_2015_Paideia]]）。
-> - 参与表达：在课堂中提出观点、回应问题并参与讨论（[[Lekhal_2015_Paideia]]）。
-> - 社会可见性：在同伴群体中呈现稳定的互动存在感（[[Lekhal_2015_Paideia]]）。
+> - 主动发起：主动开启学习相关互动或协作（Lekhal_2015_Paideia）。
+> - 参与表达：在课堂中提出观点、回应问题并参与讨论（Lekhal_2015_Paideia）。
+> - 社会可见性：在同伴群体中呈现稳定的互动存在感（Lekhal_2015_Paideia）。
 
 ## 与相关概念的区别
 
@@ -52,7 +45,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - 在自我主张评分上，女生显著高于男生（d=-0.29, p=.000）。
-> - 自我主张与 [[Self-control]] 共同构成教师评定行为维度（[[Lekhal_2015_Paideia]]）。
+> - 自我主张与 [[Self-control]] 共同构成教师评定行为维度（Lekhal_2015_Paideia）。
 
 ## 待补充研究
 
@@ -61,4 +54,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Lekhal_2015_Paideia]]
+- Lekhal_2015_Paideia

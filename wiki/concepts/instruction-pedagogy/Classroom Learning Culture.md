@@ -11,19 +11,13 @@ tags:
 - subject/instruction-pedagogy
 - level/k12
 - region/norway
-related_concepts:
-- '[[Student-Teacher Relationship]]'
-- '[[Gender Differences in Academic Achievement]]'
-- '[[School Norm Adaptation]]'
-- '[[Motivation and Work Effort]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Observational and Correlational Research]]'
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Lekhal_2015_Paideia]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -38,9 +32,9 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - 同伴协作：学生之间是否容易形成有效学习合作（[[Lekhal_2015_Paideia]]）。
-> - 学习投入氛围：班级整体是否把学习任务视为共同目标（[[Lekhal_2015_Paideia]]）。
-> - 规范可见性：课堂规则是否被一致理解并在互动中稳定执行（[[Lekhal_2015_Paideia]]）。
+> - 同伴协作：学生之间是否容易形成有效学习合作（Lekhal_2015_Paideia）。
+> - 学习投入氛围：班级整体是否把学习任务视为共同目标（Lekhal_2015_Paideia）。
+> - 规范可见性：课堂规则是否被一致理解并在互动中稳定执行（Lekhal_2015_Paideia）。
 
 ## 实证发现
 
@@ -59,4 +53,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Lekhal_2015_Paideia]]
+- Lekhal_2015_Paideia

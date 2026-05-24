@@ -11,17 +11,13 @@ tags:
   - theme/curriculum
   - theme/ideology
   - paradigm/critical
-related_concepts:
-  - "[[Cultural Capital]]"
-  - "[[Hegemony]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Yu_2024_CE]]"
-sources:
-  - "[[Yu_2024_CE]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-21
@@ -60,4 +56,4 @@ updated: 2026-05-21
 
 ## 来源
 
-- [[Yu_2024_CE]]
+- Yu_2024_CE

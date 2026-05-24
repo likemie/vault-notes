@@ -11,20 +11,13 @@ tags:
 - region/global
 - theme/sustainability
 - theme/development
-related_concepts:
-- '[[Life Power]]'
-- '[[Ganz-Methode]]'
-- '[[Tense Society]]'
-related_theories:
-- '[[Creative Tension of Sense]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Dell Delambre]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Delambre_2022_Springer]]'
-sources:
-- '[[Ch7_Delambre_2022]]'
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -62,7 +55,7 @@ updated: '2026-05-18'
 > - **纳入内外部威胁**：同时识别和暴露威胁生命力量的内外部因素——内部（社区分化、记忆传承断裂），外部（经济开发压力、霸权认识论排斥）。这使可持续性分析超越"资源管理"而进入"权力和认识论"问题（Delambre, 2022, p.109 脚注, 115–118）
 > - **整体即运动中的张力连接**："整体"（Whole = Ganz）永远处于运动变化之中，要求持续在局部与全球、新旧范式之间来回审视，而非一次性达成"完整体"。详见 [[Ganz-Methode#概念辨析]]（Delambre, 2022, p.109 脚注, 112, 117）
 > - **质疑霸权发展模式的认识论**：常规可持续性默认当前发展轨道是给定的，仅需在其内部"绿化"。Whole Sustainability 的出发点是：不可持续性的根源在于认知世界的**方式**——Leff (2014) 论证环境危机本质上是"认知方式的危机"（Delambre, 2022, p.108–109, 109 脚注）
-> - **通过 Ganz-Methode 操作化**：通过 [[Ganz-Methode#核心要素|Ganz-Methode 两步法]] 实现——承载新旧发展模式之间的张力，在承载的张力中发现和保护生命力量（Delambre, 2022, p.109 脚注, 112–116）
+> - **通过 Ganz-Methode 操作化**：通过 Ganz-Methode 两步法 实现——承载新旧发展模式之间的张力，在承载的张力中发现和保护生命力量（Delambre, 2022, p.109 脚注, 112–116）
 
 ## 理论基础
 
@@ -84,4 +77,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch7_Delambre_2022]]
+- Ch7_Delambre_2022

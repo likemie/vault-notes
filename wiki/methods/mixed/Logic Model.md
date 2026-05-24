@@ -14,19 +14,12 @@ tags:
 - program-evaluation
 - implementation
 - theory-of-change
-related_concepts:
-- '[[Evidence-Informed Practice]]'
-- '[[Implementation Fidelity]]'
-- '[[Absorptive Capacity]]'
-- '[[Technology Infusion]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Formative Evaluation]]'
+related_methods: []
 related_persons: []
-related_arguments:
-- '[[Argument_Ross_Morrison_2021_ROE]]'
-sources:
-- '[[Ross_Morrison_2021_ROE]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-23'
@@ -52,7 +45,7 @@ updated: '2026-05-23'
 > [!example]
 > 建立逻辑模型时，评价者需要和关键利益相关者共同确定输入、即时输出、短期结果和长期结果，并说明每个阶段应在什么时间出现、用什么证据判断（Ross & Morrison, 2021, pp.123-124）。
 
-STAT 的逻辑模型以教师、管理者和技术教练的专业发展为主要输入；预期即时输出包括课堂环境改变、设备使用、数字内容进入教学和教学规划资源增加；随后希望促进学生参与和 21 世纪学习活动；最终目标是更高成就和更具全球竞争力的学生（Ross & Morrison, 2021, p.115）。
+[[Students and Teachers Accessing Tomorrow (STAT)|STAT]] 的逻辑模型以教师、管理者和技术教练的专业发展为主要输入；预期即时输出包括课堂环境改变、设备使用、数字内容进入教学和教学规划资源增加；随后希望促进学生参与和 21 世纪学习活动；最终目标是更高成就和更具全球竞争力的学生（Ross & Morrison, 2021, p.115）。
 
 ## 适用场景
 
@@ -81,4 +74,4 @@ STAT 的逻辑模型以教师、管理者和技术教练的专业发展为主要
 
 ## 来源
 
-- [[Ross_Morrison_2021_ROE]]
+- Ross_Morrison_2021_ROE

@@ -11,21 +11,13 @@ tags:
 - statistical-inference
 - effect-size
 - research-methodology
-related_concepts:
-- '[[Effect Size]]'
-- '[[Statistical Significance]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Meta-analysis]]'
-- '[[Meta-meta-analysis]]'
-- '[[Rasch Measurement]]'
-related_persons:
-- '[[John Hattie]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Allerup_2015_Paideia]]'
-- '[[Wecker_2016_ZfE]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -59,7 +51,7 @@ updated: '2026-05-18'
 ## 相关方法
 
 
-- [[Meta-analysis]] — 元分析中，平均效应量需要伴随标准误或置信区间，才能说明估计精度。
+- [[Meta-analysis]] — 元分析中，平均[[Effect Size|效应量]]需要伴随标准误或置信区间，才能说明估计[[Jing (Refined Mastery)|精]]度。
 - [[Meta-meta-analysis]] — 联合标准误和置信区间是二级元分析报告联合效应量时的必要信息（Wecker et al., 2016, p.30）。
 
 ## 实证发现
@@ -71,7 +63,7 @@ updated: '2026-05-18'
 ## 报告实践问题
 
 
-- 在面向实践者的证据工具中，置信区间常被省略以换取简洁排名；但这种简洁会把估计精度隐藏起来，使排名看起来比实际更确定（Allerup, 2015, pp.47–48）。
+- 在面向实践者的证据工具中，置信区间常被省略以换取简洁排名；但这种简洁会把估计[[Jing (Refined Mastery)|精]]度隐藏起来，使排名看起来比实际更确定（Allerup, 2015, pp.47–48）。
 - Wecker et al. 进一步指出，如果标准误本身计算错误或缺失，即使读者想自行判断相邻排名是否显著不同，也缺少必要信息（Wecker et al., 2016, p.30）。
 
 ## 相关案例／政策
@@ -82,5 +74,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Allerup_2015_Paideia]]
-- [[Wecker_2016_ZfE]]
+- Allerup_2015_Paideia
+- Wecker_2016_ZfE

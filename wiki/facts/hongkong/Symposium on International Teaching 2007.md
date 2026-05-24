@@ -10,18 +10,13 @@ tags:
 - region/hongkong
 - level/k12
 - level/higher-ed
-related_concepts:
-- '[[International Education]]'
-- '[[Chinese Learner]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[English Schools Foundation Hong Kong]]'
-related_arguments:
-- '[[Argument_Ryan_2010_HKUP]]'
-sources:
-- '[[Ryan(Ed.)_2010_HKUP]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-16'
@@ -49,10 +44,10 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success]
-> 该研讨会的价值以及就该主题进行持续对话的需求，直接催生了论文集《International Education and the Chinese Learner》（[[Argument_Ryan_2010_HKUP|Ryan & Slethaug, 2010]]）。该论文集汇集了中小学教师和大学教师撰写的九篇文章，从理论探讨和实践经验两个层面，考察了在国际情境中教授中国学习者的关切与可能性（Slethaug, 2010, p.2）。
+> 该研讨会的价值以及就该主题进行持续对话的需求，直接催生了论文集《International Education and the Chinese Learner》（Ryan & Slethaug, 2010）。该论文集汇集了中小学教师和大学教师撰写的九篇文章，从理论探讨和实践经验两个层面，考察了在国际情境中教授中国学习者的关切与可能性（Slethaug, 2010, p.2）。
 
 ---
 
 ## 来源
 
-- [[Ryan(Ed.)_2010_HKUP]]
+- Ryan(Ed.)_2010_HKUP

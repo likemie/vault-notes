@@ -12,16 +12,13 @@ tags:
   - theme/motivation
   - theme/affect
   - theme/intrinsic-motivation
-related_concepts:
-  - "[[Intrinsic vs Extrinsic Motivation]]"
+related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Experience Sampling Method]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -51,10 +48,10 @@ updated: 2026-05-23
 - **任务要求**（the task challenge）：正在处理的任务对技能的需求程度
 
 **情感输出：**
-- **无聊**（boredom）：当技能超过任务要求时产生。例如，熟练的小提琴家被要求演奏初学者曲目，会感到无聊（Li, 2012, p.59–60）
+- **无聊**（boredom）：当技能超过任务要求时产生。例如，[[Shu (Familiarization)|熟]]练的小提琴家被要求演奏初学者曲目，会感到无聊（Li, 2012, p.59–60）
 - **焦虑**（anxiety）：当任务要求超过当前技能时产生。例如，小提琴初学者被要求演奏复杂乐曲（Li, 2012, p.60）
 
-**最佳匹配：**
+**最佳[[Matching|匹配]]：**
 当技能与任务要求恰好匹配时，个体既不感到无聊也不感到焦虑，而是进入心流状态。此时体验到的是快乐、沉浸于任务中、享受过程、常常忘记时间流逝，并且不在意自己的表现如何（Li, 2012, p.60）。
 
 ---
@@ -77,4 +74,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

@@ -13,18 +13,13 @@ tags:
 - regionalization
 - region/global
 - level/higher-ed
-related_concepts:
-- '[[Global Regionalisms in Higher Education]]'
-- '[[International Education Hubs]]'
-- '[[Educational Technology Industry]]'
-related_theories:
-- '[[Transitology]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Ch4_Amos_2022]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -69,7 +64,7 @@ updated: '2026-05-18'
 >
 > - **市场驱动的表现**：联盟的运作逻辑——竞争排名、吸引国际学生、争夺研究资助——对应于 Cowen 晚期现代模型中的纵轴（market-driven → 内部效率与外部效能）和横轴（国际知识竞争）
 > - **标准化与自主性的张力**：Bologna Process 在欧洲高等教育区内的多样化实施证明——即便在区域一体化的标准化压力下，大学仍然有强大的制度惯性维持各自的运作方式
-> - **超越单一国家逻辑**：联盟的存在表明教育治理已经不再是国家单一主体的领域。超国家机构（EC）、跨国大学联盟、[[Educational Technology Industry | EdTech 平台]]和私人基金会在同一空间中运作，形成了新的"教育地缘政治"
+> - **超越单一国家逻辑**：联盟的存在表明教育治理已经不再是国家单一主体的领域。超国家机构（EC）、跨国大学联盟、 EdTech 平台和私人基金会在同一空间中运作，形成了新的"教育地缘政治"
 >
 
 ## 与数字化的关联
@@ -80,4 +75,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch4_Amos_2022]]
+- Ch4_Amos_2022

@@ -14,19 +14,13 @@ tags:
   - theme/evidence-based-education
   - theme/systematic-review
   - policy/evidence-informed-policy
-related_concepts:
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Informed Practice]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[EU Evidence-Informed Education Policy Initiatives]]"
-related_arguments:
-  - "[[Argument_Pellegrini_2021_ROE]]"
-sources:
-  - "[[Pellegrini_2021_ROE]]"
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -43,7 +37,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> 该中心通过教育研究系统综述，为在学校场景中工作的丹麦实践者提供研究证据。它体现了 [[Educational Evidence Clearinghouses|清算中心]] 的一种基础功能：把分散研究整理成实践者更容易使用的证据资源（Pellegrini & Vivanet, 2021, p.32）。
+> 该中心通过教育研究系统综述，为在学校场景中工作的丹麦实践者提供研究证据。它体现了 清算中心 的一种基础功能：把分散研究整理成实践者更容易使用的证据资源（Pellegrini & Vivanet, 2021, p.32）。
 
 ## 时间线
 
@@ -73,4 +67,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Pellegrini_2021_ROE]]
+- Pellegrini_2021_ROE

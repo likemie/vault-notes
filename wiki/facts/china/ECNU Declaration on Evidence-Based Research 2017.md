@@ -8,20 +8,16 @@ type: fact
 subtype: event
 region: china
 tags:
-- Evidence-Based Reform
+- evidence-based-reform
 - region/china
 - level/higher-ed
-related_concepts:
-- '[[Evidence-Based Reform]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Robert Slavin]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Slavin_2021_ROE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -85,4 +81,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Slavin_2021_ROE]]
+- Slavin_2021_ROE

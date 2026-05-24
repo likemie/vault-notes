@@ -10,18 +10,13 @@ tags:
 - neuroscience
 - learning-science
 - cognitive-science
-related_concepts:
-- '[[synaptogenesis]]'
-- '[[synaptic-pruning]]'
-- '[[neuroplasticity]]'
-- '[[prefrontal-cortex]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Bolton_2017_ArchPsych]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -44,14 +39,14 @@ updated: '2026-05-18'
 
 ## 发展时间线
 
-- 髓鞘化过程在儿童早期开始，导致白质体积增加（Bolton & Hattie, 2017, p.12，引用 Mrzljak et al., 1991）
+- 髓鞘化过程在儿童早期开始，导致白质体积增加（Bolton & [[John Hattie|Hattie]], 2017, p.12，引用 Mrzljak et al., 1991）
 - 在 dlPFC 中，白质密度在 2–5 岁期间持续增加，伴随第三层锥体细胞树突树的快速扩展（Bolton & Hattie, 2017, p.12，引用 Huttenlocher, 1979）
 
 ## 与认知发展的关系
 
 > [!info] 与认知发展的关系
-> 髓鞘化与[[synaptogenesis|突触发生]]和[[synaptic-pruning|突触修剪]]一起，是支持前额叶皮层（[[prefrontal-cortex]]）解剖和生理发育的关键过程。PFC 在儿童期到青春期再到成年期的大小、形状和功能变化，与这些过程中的白质和灰质变化相关（Bolton & Hattie, 2017, p.8）。
+> 髓鞘化与突触发生和突触修剪一起，是支持前额叶皮层（prefrontal-cortex）解剖和生理发育的关键过程。PFC 在儿童期到青春期再到成年期的大小、形状和功能变化，与这些过程中的白质和灰质变化相关（Bolton & Hattie, 2017, p.8）。
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
+- Bolton_2017_ArchPsych

@@ -14,23 +14,12 @@ tags:
 - causal-inference
 - research-methodology
 - paradigm/positivist
-related_concepts:
-- '[[Recommendations for Practice]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Non-intervention Research]]'
-- '[[Intervention Research]]'
-- '[[Randomised Controlled Trials]]'
-- '[[Qualitative Research]]'
-- '[[Mixed Method and Multi-method Research]]'
-- '[[Causal Modeling]]'
-- '[[Matching]]'
+related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Brady_2023_EPR]]'
-- '[[Lekhal_2015_Paideia]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -77,10 +66,10 @@ updated: '2026-05-18'
 ## 与相关方法的区别
 
 
-- vs [[Non-intervention Research]] — 观察/相关研究是非干预研究的量化子类；非干预研究还包括质性研究和混合方法/多方法研究（Brady et al., 2023, p.4）。
+- vs [[Non-intervention Research]] — 观察/相关研究是非干预研究的量化子类；非干预研究还包括质性研究和[[Mixed Method and Multi-method Research|混合方法/多方法研究]]（Brady et al., 2023, p.4）。
 - vs [[Intervention Research]] — 观察/相关研究不操纵变量，适合识别可能的因果关系；干预研究操纵变量，用来正式检验这些关系是否能改善学习（Brady et al., 2023, p.2）。
 - vs [[Qualitative Research]] — 观察/相关研究包含量化数据，质性研究包含访谈、观察等文本数据；二者在 Brady et al. (2023) 的分类中都属于非干预研究（Brady et al., 2023, p.4）。
-- vs [[Causal Modeling]] — 因果建模是在观察性数据中估计因果路径的一类分析策略；Brady et al. (2023) 指出，建模语言可能使观察/相关研究更容易"挤压"出因果术语和实践建议（Brady et al., 2023, p.9）。
+- vs [[Causal Modeling]] — 因果建模是在观察性数据中估计因果路径的一类分析策略；Brady et al. (2023) 指出，建模语言可能使观察/相关研究更容易"挤压"出因果术语和[[Recommendations for Practice|实践建议]]（Brady et al., 2023, p.9）。
 - vs [[Matching]] — 匹配同样处理观察性数据，但其目标是通过协变量平衡改善处理组与对照组可比性；观察/相关研究这一上位类别本身不保证这样的因果识别策略。
 
 ## 使用此方法的研究
@@ -94,5 +83,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Brady_2023_EPR]]
-- [[Lekhal_2015_Paideia]]
+- Brady_2023_EPR
+- Lekhal_2015_Paideia

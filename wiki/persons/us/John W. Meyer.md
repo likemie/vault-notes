@@ -9,18 +9,12 @@ tags:
 - region/us
 - discipline/sociology
 - school/world-society-theory
-related_concepts:
-- '[[Organizational Actorhood]]'
-- '[[Otherhood]]'
-- '[[Epistemic Governance]]'
-related_theories:
-- '[[World Society Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
-related_arguments:
-- '[[Argument_Zapp_2022_Springer]]'
-sources:
-- '[[Ch9_Zapp_2022]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -50,15 +44,15 @@ updated: '2026-05-19'
 ### 1977 — "Institutionalized Organizations: Formal Structure as Myth and Ceremony"（与 Brian Rowan 合著）
 
 - APA：Meyer, J. W., & Rowan, B. (1977). Institutionalized organizations: Formal structure as myth and ceremony. *American Journal of Sociology*, 83(2), 340–363.
-- 核心内容：提出新制度主义组织理论的核心命题——组织的正式结构往往反映制度环境中的"理性神话"而非技术效率需求。
+- 核心内容：提出新制度主[[Rightness|义]]组织理论的核心命题——组织的正式结构往往反映制度环境中的"理性神话"而非技术效率需求。
 - 思想位置：新制度主义组织社会学的奠基之作，为后续世界社会理论提供了微观-组织层面的理论基础（Zapp, 2022 未直接引用，但这是 Meyer 思想的根基）。
 - 相关概念／理论：[[World Society Theory]]、[[Organizational Actorhood]]
 
 ### 1997 — "World Society and the Nation-State"（与 Boli, Thomas & Ramirez 合著）
 
 - APA：Meyer, J. W., Boli, J., Thomas, G. M., & Ramirez, F. O. (1997). World society and the nation-state. *American Journal of Sociology*, 103(1), 144–181.
-- 核心内容：系统阐述世界社会理论——论证民族国家的制度形式在全球范围内趋同，这种趋同无法由国家利益或功能性需求解释，而是全球文化模型扩散的结果（Zapp, 2022, p.145）。
-- 思想位置：世界社会理论的系统阐述之作，标志着该理论的成熟（Zapp, 2022, p.145）。
+- 核心内容：系统阐述世界社会理论——论证民族国家的制度形式在全球范围内趋同，这种趋同无法由国家利益或功能性需求解释，而是全球[[Cultural Models|文化模型]]扩散的结果（Zapp, 2022, p.145）。
+- 思想位置：世界社会理论的系统阐述之作，标志着该理论的成[[Shu (Familiarization)|熟]]（Zapp, 2022, p.145）。
 - 相关概念／理论：[[World Society Theory]]、[[Otherhood]]
 
 ### 2000 — "The 'Actors' of Modern Society: The Cultural Construction of Social Agency"（与 Ronald L. Jepperson 合著）
@@ -71,7 +65,7 @@ updated: '2026-05-19'
 ### 2015 — *Hyper-Organization: Global Organizational Expansion*（与 Patricia Bromley 合著）
 
 - APA：Bromley, P., & Meyer, J. W. (2015). *Hyper-Organization: Global Organizational Expansion*. Oxford University Press.
-- 核心内容：发展组织能动者身份（organizational actorhood）的系统理论，提出四维度模型（自主性、目标导向、问责性、社会嵌入性），将世界社会理论延伸至全球组织扩张的分析（Zapp, 2022, p.148）。
+- 核心内容：发展组织能动者身份（organizational actorhood）的[[Luhmann's Systems Theory|系统理论]]，提出四维度模型（自主性、目标导向、问责性、社会嵌入性），将世界社会理论延伸至全球组织扩张的分析（Zapp, 2022, p.148）。
 - 思想位置：世界社会理论在组织研究领域的系统应用和扩展。
 - 相关概念／理论：[[Organizational Actorhood]]
 
@@ -105,7 +99,7 @@ updated: '2026-05-19'
 ## 影响
 
 > [!success]
-> - 在比较教育和高等教育研究领域：Meyer 的世界社会理论是 [[Argument_Zapp_2022_Springer|Zapp (2022)]] 分析大学在全球治理中角色的核心理论资源——Zapp 用 otherhood 解释大学为何在去中心化的全球治理中占据独特位置，用 actorhood 解释大学从"象牙塔"向"完全组织"的转型，用世界社会理论解释全球治理为何依赖大学的知识权威（Zapp, 2022, pp.145, 148–149）
+> - 在比较教育和高等教育研究领域：Meyer 的世界社会理论是 Zapp (2022) 分析大学在全球治理中角色的核心理论资源——Zapp 用 otherhood 解释大学为何在去中心化的全球治理中占据独特位置，用 actorhood 解释大学从"象牙塔"向"完全组织"的转型，用世界社会理论解释全球治理为何依赖大学的知识权威（Zapp, 2022, pp.145, 148–149）
 > - 在组织社会学领域：Bromley & Meyer (2015) 的 [[Organizational Actorhood]] 四维度模型已成为分析大学、国际组织、NGO 等非国家行动者组织变迁的标准化框架
 > - 在国际关系学领域：世界社会理论与建构主义 IR（Wendt, 1999; Barnett & Finnemore, 2004）形成对话和互补，共同推动了全球治理研究从"硬治理"向 [[Epistemic Governance|知识治理]] 的范式转移——观念、规范和文化模型而非军事和经济实力，成为分析全球化与全球治理的核心范畴（Zapp, 2022, p.145）
 > - 斯坦福学派的研究网络——包括 Francisco Ramirez、David P. Baker、Patricia Bromley、David John Frank 等——持续扩展和深化了世界社会理论在跨国比较研究中的应用，覆盖教育、组织、人权、环境等多个政策领域
@@ -120,4 +114,4 @@ updated: '2026-05-19'
 ---
 ## 来源
 
-- [[Ch9_Zapp_2022]]
+- Ch9_Zapp_2022

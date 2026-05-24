@@ -12,17 +12,13 @@ tags:
   - theme/speaking
   - theme/cross-cultural-communication
   - field/communication-discourse
-related_concepts:
-  - "[[Western Learner]]"
-  - "[[Chinese Learner]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
-sources:
-  - "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -59,7 +55,7 @@ updated: 2026-05-24
 
 ### 3. 关联准则（Maxim of Relevance）：说要点
 
-说话必须与当前话题相关。"to the point"或"make a point"的表达强调信息的精准和简洁。啰嗦、绕弯子或无法说到要点，被视为缺乏智慧——听众会失去兴趣和耐心。在工作会议中，"我们已经讨论过那个了，能继续吗？""你能澄清一下 X 的相关性吗？"不被视为对说话者的冒犯，而是一个信号：要么说到点子上，要么换话题（Li, 2012, p.90）。
+说话必须与当前话题相关。"to the point"或"make a point"的表达强调信息的[[Jing (Refined Mastery)|精]]准和简洁。啰嗦、绕弯子或无法说到要点，被视为缺乏智慧——听众会失去兴趣和耐心。在工作会议中，"我们已经讨论过那个了，能继续吗？""你能澄清一下 X 的相关性吗？"不被视为对说话者的冒犯，而是一个信号：要么说到点子上，要么换话题（Li, 2012, p.90）。
 
 > [!warning]
 > 这种"说要点"的说话方式在亚洲情境中"经常被视为冒犯——在家、在工作场所或在课堂上——有时甚至导致关系破裂"（Li, 2012, p.90）。
@@ -85,10 +81,10 @@ updated: 2026-05-24
 | Clarity: 直接说清楚 | Listenership: 先听后说 | 听者的工作比说者更重——需要揣摩言外之意 |
 
 > [!tip]
-> 详见 [[Argument_Li_2012_Cambridge|Li (2012) 全书论证]]第 8 章第三步：两套会话准则的系统对比——四条 Grice 准则与四条东亚替代准则逐条对照，每一条都根植于各自文化的世界观。
+> 详见 Li (2012) 全书论证第 8 章第三步：两套会话准则的系统对比——四条 Grice 准则与四条东亚替代准则逐条对照，每一条都根植于各自文化的世界观。
 
 ---
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

@@ -13,26 +13,13 @@ tags:
 - knowledge
 - region/denmark
 - stance/support
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Surface and Deep Learning]]'
-- '[[Dynamic Knowledge and Learning Model]]'
-- '[[Effect Size]]'
-related_theories:
-- '[[Popper''s Three Worlds Theory]]'
-related_methods:
-- '[[Meta-analysis]]'
-- '[[Meta-meta-analysis]]'
-related_persons:
-- '[[John Hattie]]'
-- '[[Lars Qvortrup]]'
-- '[[John Biggs]]'
-- '[[Carl Bereiter]]'
-- '[[Jean Piaget]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Qvortrup_2015_Paideia]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -101,4 +88,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Qvortrup_2015_Paideia]]
+- Qvortrup_2015_Paideia

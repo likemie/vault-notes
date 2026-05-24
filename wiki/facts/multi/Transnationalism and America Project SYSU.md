@@ -11,18 +11,13 @@ tags:
 - region/china
 - region/us
 - level/higher-ed
-related_concepts:
-- '[[International Education]]'
-- '[[Chinese Learner]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Paul Morris]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Ryan_2010_HKUP]]'
-sources:
-- '[[Ryan(Ed.)_2010_HKUP]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-16'
@@ -86,4 +81,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ryan(Ed.)_2010_HKUP]]
+- Ryan(Ed.)_2010_HKUP

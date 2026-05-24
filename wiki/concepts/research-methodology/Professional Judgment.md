@@ -8,25 +8,13 @@ tags:
 - professional-judgment
 - teacher-development
 - evidence-based-education
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
-- '[[Evidence-Informed Practice]]'
-- '[[Local Knowledge in Evidence-Based Policy]]'
-- '[[Statistical Significance]]'
-related_theories:
-- '[[Bounded Rationality]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Donald A. Schön]]'
-- '[[Herbert A. Simon]]'
-related_facts:
-- '[[Students and Teachers Accessing Tomorrow (STAT)]]'
-related_arguments:
-- '[[Argument_Ross_Morrison_2021_ROE]]'
-sources:
-- '[[Qvortrup_2019_NordSTEP]]'
-- '[[Ross_Morrison_2021_ROE]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -84,5 +72,5 @@ updated: '2026-05-23'
 
 ## 来源
 
-- [[Qvortrup_2019_NordSTEP]]
-- [[Ross_Morrison_2021_ROE]]
+- Qvortrup_2019_NordSTEP
+- Ross_Morrison_2021_ROE

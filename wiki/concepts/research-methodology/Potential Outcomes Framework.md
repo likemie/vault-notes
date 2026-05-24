@@ -9,19 +9,13 @@ tags:
 - causal-inference
 - subject/research-methodology
 - paradigm/positivist
-related_concepts:
-- '[[Stable Unit Treatment Value Assumption (SUTVA)]]'
-- '[[Causal Modeling]]'
-- '[[Randomised Controlled Trials]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Randomised Controlled Trials]]'
-- '[[Matching]]'
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Berk_2011_ER]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -86,4 +80,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Berk_2011_ER]]
+- Berk_2011_ER

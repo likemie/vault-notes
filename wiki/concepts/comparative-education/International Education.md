@@ -9,30 +9,13 @@ tags:
 - region/global
 - level/k12
 - level/higher-ed
-related_concepts:
-- '[[Chinese Learner]]'
-- '[[Fourth Culture]]'
-- '[[International Baccalaureate (IB)]]'
-- '[[International Schools]]'
-- '[[Boarding Schools]]'
-- '[[Global Universities Rankings]]'
-- '[[Internationalization of Higher Education]]'
-- '[[International Education Hubs]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[English Schools Foundation Hong Kong]]'
-- '[[PISA]]'
-- '[[Education City Doha]]'
-- '[[Transnationalism and America Project SYSU]]'
-- '[[Academic Ranking of World Universities (ARWU)]]'
-related_arguments:
-- '[[Argument_Ryan_2010_HKUP]]'
-- '[[Argument_Slethaug_2010_InternationalEducation]]'
-sources:
-- '[[Ryan(Ed.)_2010_HKUP]]'
-- '[[Ch1_Slethaug_2010]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-16'
@@ -86,7 +69,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - [[International Schools|国际学校]]从殖民前哨站演变为面向全球精英的市场化机构：1964 年约 50 所 → 1994 年约 1,000 所 → 2005 年约 3,000 所、约 200 万学生（Slethaug, 2010, pp.22–23）
-> - [[International Baccalaureate (IB)|IB 课程]]成为"去国家化"课程方案的代表：2009 年覆盖 135 国、2,609 校、709,000 学生（Slethaug, 2010, pp.27–28）
+> - IB 课程成为"去国家化"课程方案的代表：2009 年覆盖 135 国、2,609 校、709,000 学生（Slethaug, 2010, pp.27–28）
 > - 21 世纪以来，美、澳、英、加大学在海外建综合性分校，如卡塔尔的 [[Education City Doha|多哈教育城]]（Slethaug, 2010, pp.15–16）
 
 ---
@@ -127,5 +110,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ryan(Ed.)_2010_HKUP]]
-- [[Ch1_Slethaug_2010]]
+- Ryan(Ed.)_2010_HKUP
+- Ch1_Slethaug_2010

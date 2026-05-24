@@ -12,22 +12,13 @@ tags:
 - teacher-inquiry
 - implementation
 - paradigm/interpretivist
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Mechanism Experiments]]'
-- '[[Black Box RCTs]]'
-- '[[Spirals of Inquiry]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Randomised Controlled Trials]]'
-related_persons:
-- '[[Amelia Peterson]]'
-- '[[Anthony Bryk]]'
-- '[[Catherine Lewis]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Peterson_2016_IJRME]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -133,4 +124,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Peterson_2016_IJRME]]
+- Peterson_2016_IJRME

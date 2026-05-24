@@ -6,22 +6,15 @@ aliases:
 summary: "一种按原始随机分配而非实际接受情况来分析结果的 RCT 估计方法，用于评估干预可获得性对总体结果的影响。"
 type: concept
 tags:
-- Intent-to-Treat Analysis
+- intent-to-treat-analysis
 - subject/research-methodology
-related_concepts:
-- '[[Randomised Controlled Trials]]'
-- '[[Cluster Randomized Trials]]'
-- '[[Effect Size]]'
-- '[[Educational Evidence Clearinghouses]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Randomised Controlled Trials]]'
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Pampaka_2016_IJRME]]'
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-02'
@@ -62,5 +55,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Pampaka_2016_IJRME]]
-- [[Wadhwa_2024_RER]]
+- Pampaka_2016_IJRME
+- Wadhwa_2024_RER

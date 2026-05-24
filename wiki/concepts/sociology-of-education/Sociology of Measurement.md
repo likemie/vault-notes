@@ -5,22 +5,18 @@ aliases:
 summary: "将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。"
 type: concept
 tags:
-- Sociology of Measurement
+- sociology-of-measurement
 - measurement
-- STS
+- sts
 - performativity
-- Educational Sociology
-related_concepts:
-- '[[Performativity of Measurement]]'
-- '[[Performance Indicators]]'
-related_theories:
-- '[[Science and Technology Studies (STS)]]'
+- educational-sociology
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Gorur_2014_Discourse]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -86,4 +82,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Gorur_2014_Discourse]]
+- Gorur_2014_Discourse

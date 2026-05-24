@@ -9,22 +9,13 @@ tags:
 - executive-function
 - learning-science
 - cognitive-science
-related_concepts:
-- '[[working-memory]]'
-- '[[cognitive-inhibition]]'
-- '[[cognitive-shifting]]'
-- '[[updating-and-monitoring]]'
-- '[[prefrontal-cortex]]'
-related_theories:
-- '[[miyake-unity-diversity-framework]]'
-- '[[piagets-theory-of-cognitive-development]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Akira Miyake]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Bolton_2017_ArchPsych]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -43,11 +34,11 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> EF 由三个基本但相互关联的成分构成（[[miyake-unity-diversity-framework]]）：
+> EF 由三个基本但相互关联的成分构成（miyake-unity-diversity-framework）：
 >
-> - **[[cognitive-inhibition|抑制（Inhibition）]]** — 在必要时故意抑制主导性、自动化或常见反应的能力（Bolton & Hattie, 2017, p.4）
-> - **[[cognitive-shifting|转换（Shifting）]]** — 亦称认知灵活性或任务切换，指在多个不同任务、操作或心理集之间来回切换的能力（Bolton & Hattie, 2017, p.5）
-> - **[[updating-and-monitoring|更新与监控（Updating and Monitoring）]]** — 动态操纵工作记忆所保持内容的能力（Bolton & Hattie, 2017, p.5）
+> - **抑制（Inhibition）** — 在必要时故意抑制主导性、自动化或常见反应的能力（Bolton & Hattie, 2017, p.4）
+> - **转换（Shifting）** — 亦称认知灵活性或任务切换，指在多个不同任务、操作或心理集之间来回切换的能力（Bolton & Hattie, 2017, p.5）
+> - **更新与监控（Updating and Monitoring）** — 动态操纵工作记忆所保持内容的能力（Bolton & Hattie, 2017, p.5）
 
 ## 发展轨迹
 
@@ -56,7 +47,7 @@ updated: '2026-05-18'
 >
 > - 抑制最早发展，略早于转换和更新（Bolton & Hattie, 2017, p.10）
 > - 三种成分均在 3–5 岁出现大幅年龄相关变化或"铰链点"（Bolton & Hattie, 2017, p.10）
-> - EF 的发展与前额叶皮层（[[prefrontal-cortex]]）的成熟密切相关（Bolton & Hattie, 2017, p.5）
+> - EF 的发展与前额叶皮层（prefrontal-cortex）的成熟密切相关（Bolton & Hattie, 2017, p.5）
 
 ## 与学业成就的关系
 
@@ -65,13 +56,13 @@ updated: '2026-05-18'
 
 ## 与情绪和社会发展的关联
 
-EF 还与儿童的情绪成长和发展相关，包括但不限于道德和沟通行为以及社会认知（Bolton & Hattie, 2017, p.4）。
+EF 还与儿童的情绪成长和发展相关，包括但不限于道德和沟通行为以及社会认知（Bolton & [[John Hattie|Hattie]], 2017, p.4）。
 
 ## 理论基础
 
 > [!info] 理论基础
-> - [[miyake-unity-diversity-framework]] — EF 的三成分统一性与多样性模型
+> - miyake-unity-diversity-framework — EF 的三成分统一性与多样性模型
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
+- Bolton_2017_ArchPsych

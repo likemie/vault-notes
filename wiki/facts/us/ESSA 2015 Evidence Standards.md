@@ -7,29 +7,19 @@ type: fact
 subtype: event
 region: us
 tags:
-- ESSA
+- essa
 - evidence-based-reform
 - evidence-standards
 - federal-policy
-- RCT
+- rct
 - region/us
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Evidence-Based Reform]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Randomised Controlled Trials]]'
-- '[[Quasi-Experimental Designs]]'
-related_persons:
-- '[[Robert Slavin]]'
-related_facts:
-- '[[No Child Left Behind Act 2001]]'
-related_arguments:
-- '[[Argument_Ross_Morrison_2021_ROE]]'
-sources:
-- '[[Slavin_2019_EP]]'
-- '[[Wolf_2020_JREE]]'
-- '[[Ross_Morrison_2021_ROE]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -38,7 +28,7 @@ updated: '2026-05-23'
 ## 概述
 
 > [!info] 概述
-> The **Every Student Succeeds Act (ESSA)** 于 2015 年 12 月由奥巴马总统签署成为法律，取代了 2001 年的 [[No Child Left Behind Act 2001|No Child Left Behind Act (NCLB)]]，作为美国联邦教育的主法。ESSA 在联邦法律中定义了教育项目的证据层级，并将部分联邦拨款与使用达到证据标准的项目绑定。
+> The **Every Student Succeeds Act (ESSA)** 于 2015 年 12 月由奥巴马总统签署成为法律，取代了 2001 年的 No Child Left Behind Act (NCLB)，作为美国联邦教育的主法。ESSA 在联邦法律中定义了教育项目的证据层级，并将部分联邦拨款与使用达到证据标准的项目绑定。
 >
 > > ESSA requires that low-achieving schools seeking school improvement grants adopt programs that meet one of the three definitions. (Slavin, 2019, p. 3)
 
@@ -55,7 +45,7 @@ updated: '2026-05-23'
 >
 > 所有层级均需至少一项严格研究证明**统计显著**的正向效果，且**无研究显示负面效果**（Wolf et al., 2020, p. 428）。
 
-ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Controlled Trials|RCT]]；中等证据对应 [[Quasi-Experimental Designs|QED]]；有希望证据对应带有选择偏差统计控制的相关研究；第四层是“展示理论依据”，即由研究支持且说明清楚的逻辑模型（Ross & Morrison, 2021, p.109）。
+ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Controlled Trials|RCT]]；中等证据对应 [[Quasi-Experimental Designs|QED]]；有希望证据对应带有选择偏差统计控制的[[Observational and Correlational Research|相关研究]]；第四层是“展示理论依据”，即由研究支持且说明清楚的[[Logic Model|逻辑模型]]（Ross & Morrison, 2021, p.109）。
 
 ## 技术要求细节
 
@@ -97,6 +87,6 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 
 ## 来源
 
-- [[Slavin_2019_EP]]
-- [[Wolf_2020_JREE]]
-- [[Ross_Morrison_2021_ROE]]
+- Slavin_2019_EP
+- Wolf_2020_JREE
+- Ross_Morrison_2021_ROE

@@ -13,21 +13,13 @@ tags:
 - internet-censorship
 - knowledge-transfer
 - geopolitics-of-knowledge
-related_concepts:
-- '[[Knowledge Transfer]]'
-- '[[Geopolitics of Knowledge]]'
-- '[[Forced Knowledge Transfer]]'
-- '[[Knowledge Sabotage]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[China Social Credit System]]'
-- '[[Sino-American Trade War (2018)]]'
-related_arguments:
-- '[[Argument_Partaken_2022_Springer]]'
-sources:
-- '[[Ch5_Partaken_2022]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -71,4 +63,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch5_Partaken_2022]]
+- Ch5_Partaken_2022

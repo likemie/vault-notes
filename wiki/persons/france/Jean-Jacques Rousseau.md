@@ -17,18 +17,13 @@ tags:
 - theme/learning
 - theme/natural-education
 - theme/child-development
-related_concepts:
-- "[[Examined Life]]"
-- "[[Western Learner]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- "[[Jin Li]]"
+related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -40,7 +35,7 @@ updated: 2026-05-22
 ## 简介
 
 > [!info]
-> 让-雅克·卢梭（1712–1778）是出生于日内瓦的法语哲学家、作家与作曲家，启蒙时代最具争议和影响力的思想家之一。当伏尔泰、[[John Locke|洛克]]等启蒙哲人在颂扬理性、进步与文明时，卢梭发出了激进的异见——他在《论科学与艺术》（1750）和《论人类不平等的起源》（1755）中论证：文明不是人类的解放者，而是腐蚀者。这一文明批判构成了他教育哲学（《爱弥儿》，1762）和政治哲学（《社会契约论》，1762）的总前提。在 Li 对西方学习传统的追溯中，卢梭占据了两个关键位置：其一，他继承了 [[Examined Life|苏格拉底—培根的批判精神]]，但以更激进的方式攻击当时的教育、政治和宗教体制（Li, 2012, pp.33-34）；其二，他对儿童天然倾向的强调，使他成为 [[Western Learner|西方学习者]]第二特征——"天然的好奇心、兴趣和内在享受"——的奠基性理论来源（Li, 2012, pp.35-36）。
+> 让-雅克·卢梭（1712–1778）是出生于日内瓦的法语哲学家、作家与作曲家，启蒙时代最具争议和影响力的思想家之一。当伏尔泰、[[John Locke|洛克]]等启蒙哲人在颂扬理性、进步与文明时，卢梭发出了激进的异见——他在《论科学与艺术》（1750）和《论人类不平等的起源》（1755）中论证：文明不是人类的解放者，而是腐蚀者。这一文明批判构成了他教育哲学（《爱弥儿》，1762）和政治哲学（《社会契约论》，1762）的总前提。在 Li 对西方学习传统的追溯中，卢梭占据了两个关键位置：其一，他继承了 苏格拉底—培根的批判精神，但以更激进的方式攻击当时的教育、政治和宗教体制（Li, 2012, pp.33-34）；其二，他对儿童天然倾向的强调，使他成为 [[Western Learner|西方学习者]]第二特征——"天然的好奇心、兴趣和内在享受"——的奠基性理论来源（Li, 2012, pp.35-36）。
 
 ---
 
@@ -121,4 +116,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

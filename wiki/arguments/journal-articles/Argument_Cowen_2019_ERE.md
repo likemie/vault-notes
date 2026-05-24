@@ -10,25 +10,19 @@ tags:
 - evidence-based-education
 - political-economy
 - public-choice
-- Tullock
+- tullock
 - bureaucracy
-- RCT
+- rct
 - paradigm/critical
 - region/uk
 - region/us
-related_concepts:
-- '[[Evidence-Based Education]]'
-related_theories:
-- '[[Tullock''s Bureaucracy Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Nick Cowen]]'
-- '[[Gordon Tullock]]'
-- '[[Gert Biesta]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Cowen_2019_ERE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -173,4 +167,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Cowen_2019_ERE]]
+- Cowen_2019_ERE

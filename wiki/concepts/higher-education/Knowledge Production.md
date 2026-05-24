@@ -10,23 +10,13 @@ tags:
 - knowledge-economy
 - postcolonial-studies
 - region/global
-related_concepts:
-- '[[Geopolitics of Knowledge]]'
-- '[[Knowledge Transfer]]'
-- '[[Narrative Knowledge]]'
-related_theories:
-- '[[Decolonial Geopolitics of Knowledge]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Jean-François Lyotard]]'
-- '[[Frantz Fanon]]'
-- '[[Chen Kuan-Hsing]]'
-- '[[Walter Mignolo]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Partaken_2022_Springer]]'
-sources:
-- '[[Ch5_Partaken_2022]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -67,8 +57,8 @@ updated: '2026-05-18'
 > [!abstract]
 > Partaken 对知识生产作为 GPK 分析维度进行了系统梳理（Partaken, 2022, p.70–75）：
 > - **所有权 ≠ 生产权**：欧洲学术专利的 60%–81% 为工业公司所有（视国家而定），而美国大学拥有 68.7%——"学术专利"这一标签不能揭示知识的实际所有权。知识由大学学者生产但由企业拥有，是 GPK 中的常态而非例外（Lissoni, 2012; 引自 Partaken, 2022, p.71）
-> - **知识类型的不对称**：[[Narrative Knowledge|Lyotard 的叙事知识 vs 科学知识区分]]在 GPK 中至关重要——硬科学"绝对主导"全球可专利知识的生产，软科学对专利数据的贡献"非常罕见"（Partaken, 2022, p.71）
-> - **认识论的政治性**：知识生产问题因而不仅是认识论的（什么是知识），更是政治经济的（何种知识被国家和市场认定为"有价值"的生产）。研究资助框架（如 [[Horizon 2020 SSH Integration|Horizon 2020]] 将 SSH 从独立渠道改为横向嵌入）通过制度设计将特定认识论范式固化为唯一合理的选择
+> - **知识类型的不对称**：Lyotard 的叙事知识 vs 科学知识区分在 GPK 中至关重要——硬科学"绝对主导"全球可专利知识的生产，软科学对专利数据的贡献"非常罕见"（Partaken, 2022, p.71）
+> - **认识论的政治性**：知识生产问题因而不仅是认识论的（什么是知识），更是政治经济的（何种知识被国家和市场认定为"有价值"的生产）。研究资助框架（如 Horizon 2020 将 SSH 从独立渠道改为横向嵌入）通过制度设计将特定认识论范式固化为唯一合理的选择
 
 ---
 
@@ -82,4 +72,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch5_Partaken_2022]]
+- Ch5_Partaken_2022

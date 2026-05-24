@@ -9,19 +9,13 @@ tags:
 - comparative-education
 - late-modernity
 - higher-ed
-related_concepts:
-- '[[Knowledge-Based Economy]]'
-- '[[New Public Management]]'
-- '[[Policy Borrowing]]'
-- '[[Regional University Alliances]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Robert Cowen]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Ch4_Amos_2022]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -71,4 +65,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch4_Amos_2022]]
+- Ch4_Amos_2022

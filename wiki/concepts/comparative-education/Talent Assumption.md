@@ -13,23 +13,13 @@ tags:
   - theme/intelligence
   - theme/ability-vs-effort
   - theme/cultural-psychology
-related_concepts:
-  - "[[Entity vs Incremental Intelligence]]"
-  - "[[Nerd (School Peer Culture)]]"
-  - "[[Tall Poppy Syndrome]]"
-  - "[[Learning Gap]]"
-  - "[[Doxa]]"
-  - "[[Intellectual-Social Divide]]"
-  - "[[Zero-Sum Competition (School)]]"
-related_theories:
-  - "[[Self-Worth Theory]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Li_2012_Cambridge]]"
-sources:
-  - "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -41,12 +31,12 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> 天赋假设（talent assumption）是 Li (2012) 在分析西方 [[Nerd (School Peer Culture)|nerd 同伴文化]]时识别的一种深层文化信念：**智力成就主要来源于先天禀赋（天赋、天才），而非后天努力。** 根据这一假设，一个人在学术领域的表现——尤其是卓越的表现——被认为反映了他天生被赋予的智力水平（Li, 2012, pp.96–98）。
+> 天赋假设（talent assumption）是 Li (2012) 在分析西方 nerd 同伴文化时识别的一种深层文化信念：**智力成就主要来源于先天禀赋（天赋、天才），而非后天努力。** 根据这一假设，一个人在学术领域的表现——尤其是卓越的表现——被认为反映了他天生被赋予的智力水平（Li, 2012, pp.96–98）。
 
-这一信念的历史根源可追溯至 Francis Galton 的《Hereditary Genius》（1869/2006 重印）——该书首次系统论证"天才是遗传的"——并延续至 Hernstein 和 Murray 的《The Bell Curve》（1994）等当代争论。Li 指出，这一假设之所以难以被彻底反驳，是因为日常生活中确实存在明显的天赋差异（莫扎特、毕加索、爱因斯坦），使得天赋假设具有直观的"常识"感召力（Li, 2012, pp.96–97）。
+这一信念的历史根源可追溯至 Francis Galton 的《Hereditary Genius》（1869/2006 重印）——该书首次系统论证"天才是遗传的"——并延续至 Hernstein 和 Murray 的《The Bell Curve》（1994）等当代争论。Li 指出，这一假设之所以难以被彻底反驳，是因为日常生活中确实存在明显的天赋差异（莫扎特、毕加索、爱因斯坦），使得天赋假设具有直观的"[[Doxa|常识]]"感召力（Li, 2012, pp.96–97）。
 
 > [!tip] 与 Entity vs Incremental Intelligence 的关系
-> 天赋假设是**文化层面的信念**，[[Entity vs Incremental Intelligence|实体智力观]]是这一文化信念在**个体心理层面**的操作化。Dweck 的实体论（entity theory）描述了"智力是固定的"这一**个人信念**如何影响学习行为；天赋假设则描述了"才能在出生时已定"这一**文化叙事**如何渗透学校制度、教师判断、同伴态度和家长社会化实践。两者同源但在不同分析层面运作。
+> 天赋假设是**文化层面的信念**，实体智力观是这一文化信念在**个体心理层面**的操作化。Dweck 的实体论（entity theory）描述了"智力是固定的"这一**个人信念**如何影响学习行为；天赋假设则描述了"才能在出生时已定"这一**文化叙事**如何渗透学校制度、教师判断、同伴态度和家长社会化实践。两者同源但在不同分析层面运作。
 
 ---
 
@@ -74,20 +64,20 @@ updated: 2026-05-24
 > [!quote] Oakes 和 Guiton 的结论（转引自 Li, 2012, pp.98–99）
 > "We found little evidence that educators at any of the schools thought that high schools courses could (or should even try to) increase students' intellectual capacities or raise their expectations."
 
-**"B 等写作者"自证预言**。Li 引述了一个美国高中生的自我实验（Li, 2012, pp.97–98）：该生发现无论他多么努力（完善大纲、草稿、按反馈修改）或多么不努力（迟交几小时→几天→几周），他的英语作文始终得 B。他得出结论：一旦教师在心里将学生标记为某个等级，**做多少好事都升不上去，做多少坏事也降不下来**。结果是他从此不再喜欢写作——尽管他本来写得不错。
+**"B 等写作者"自证预言**。Li 引述了一个美国高中生的自我实验（Li, 2012, pp.97–98）：该生发现无论他多么努力（完善大纲、草稿、按[[Feedback|反馈]]修改）或多么不努力（迟交几小时→几天→几周），他的英语作文始终得 B。他得出结论：一旦教师在心里将学生标记为某个等级，**做多少好事都升不上去，做多少坏事也降不下来**。结果是他从此不再喜欢写作——尽管他本来写得不错。
 
 ---
 
 ## 在同伴文化中的后果
 
 > [!warning]
-> 天赋假设是 [[Nerd (School Peer Culture)|nerd 同伴文化]]的关键发动机之一，与 [[Zero-Sum Competition (School)|零和竞争]]和 [[Intellectual-Social Divide|知性-社交二分]]共同构成 nerd 文化的因果网络（Li, 2012, pp.94–99）：
+> 天赋假设是 nerd 同伴文化的关键发动机之一，与 [[Zero-Sum Competition (School)|零和竞争]]和 [[Intellectual-Social Divide|知性-社交二分]]共同构成 nerd 文化的因果网络（Li, 2012, pp.94–99）：
 
 1. **低能力 + 努力 = 双重骚扰**：在 Bishop 研究中，那些被认为"能力低但仍然努力学习"的学生受到了最严重的同伴骚扰——因为他们被认为在"徒劳地改变不可改变的命运"
 2. **高能力 + 不努力 = 免于骚扰**：成绩来自高 IQ（被视为无意的、天生的）的学生很少受到制裁——"effortless perfection"（毫不费力的完美）在同伴中不被视为威胁
-3. **努力隐藏的普遍化**：中学生广泛使用各种策略隐藏努力，"不仅是为了躲避同伴骚扰，更是为了避免被教师视为低能力"（Li, 2012, p.97）
+3. **[[Codeswitcher (School)|努力隐藏]]的普遍化**：中学生广泛使用各种策略隐藏努力，"不仅是为了躲避同伴骚扰，更是为了避免被教师视为低能力"（Li, 2012, p.97）
 
-详细的论证链和跨文化对比见 [[Argument_Li_2012_Cambridge#第 3 步：拆解西方 nerd 文化的四重根源|Li (2012) 第 6 章第 3 步]]。
+详细的论证链和跨文化对比见 Li (2012) 第 6 章第 3 步。
 
 ---
 
@@ -102,4 +92,4 @@ updated: 2026-05-24
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

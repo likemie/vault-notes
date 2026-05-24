@@ -9,20 +9,13 @@ tags:
 - culture
 - national-culture
 - comparative-education
-related_concepts:
-- '[[Effective Teaching]]'
-- '[[Visible Learning]]'
-- '[[Chinese Learner]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Geert Hofstede]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Laursen_2015_Paideia]]'
-- '[[Argument_Ryan_2010_ChineseLearner]]'
-sources:
-- '[[Laursen_2015_Paideia]]'
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -76,4 +69,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Laursen_2015_Paideia]]
+- Laursen_2015_Paideia

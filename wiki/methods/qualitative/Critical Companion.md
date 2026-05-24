@@ -5,12 +5,12 @@ summary: "Zelinka (2022) 使用的质性话语分析方法_不提供传统系统
 type: method
 method_type: qualitative
 tags: ["method/discourse-analysis", "method/critical", "theme/discourse", "theme/global-governance"]
-related_concepts: ["[[21st Century Skills and Competencies Discourse]]", "[[Geopolitics of Knowledge]]"]
-related_theories: ["[[Governmentality]]"]
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
-related_arguments: ["[[Argument_Zelinka_2022_SCD_subjectivity]]"]
-sources: ["[[Ch15_Zelinka_2022]]"]
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-21
@@ -37,9 +37,9 @@ updated: 2026-05-21
 > Zelinka（2022, pp.254-260）对 SCD 的批判性伴随分析遵循以下步骤：
 
 1. **文本汇编**：收集并整理七个国际和国家层面的 21 世纪关键技能与素养框架（enGauge, P21, NRC, ATCS, WEF, OECD, EC），时间跨度超过 15 年（Zelinka, 2022, pp.255-257）
-2. **框架结构化**：按发布时间排列，将各框架的技能和素养定义按聚类和定义进行结构化呈现，识别跨框架的共同模式和术语差异（Zelinka, 2022, pp.254-258）
-3. **识别核心特征**：从汇编的框架中归纳出 SCD 的四个分析维度——共同技能聚类、结果导向、经济增长叙事和全球均质化倾向（Zelinka, 2022, pp.258-260）
-4. **精细化分析**（fine-grained analysis）：通过三组"张力对"（tension-pairs）细致揭示主体性的生产过程（Zelinka, 2022, pp.260-263）
+2. **框架结构化**：按发布时间排列，将各框架的技能和素养定[[Rightness|义]]按聚类和定义进行结构化呈现，识别跨框架的共同模式和术语差异（Zelinka, 2022, pp.254-258）
+3. **识别核心特征**：从汇编的框架中归纳出 [[21st Century Skills and Competencies Discourse|SCD]] 的四个分析维度——共同技能聚类、结果导向、经济增长叙事和全球均质化倾向（Zelinka, 2022, pp.258-260）
+4. **[[Jing (Refined Mastery)|精]]细化分析**（fine-grained analysis）：通过三组"张力对"（tension-pairs）细致揭示主体性的生产过程（Zelinka, 2022, pp.260-263）
 
 ## 适用场景
 
@@ -63,4 +63,4 @@ updated: 2026-05-21
 
 ## 来源
 
-- [[Ch15_Zelinka_2022]]
+- Ch15_Zelinka_2022

@@ -10,24 +10,13 @@ tags:
 - subject/psychology
 - level/k12
 - region/norway
-related_concepts:
-- '[[School Norm Adaptation]]'
-- '[[Motivation and Work Effort]]'
-- '[[Student-Teacher Relationship]]'
-- '[[Classroom Learning Culture]]'
-- '[[Learning-Impeding Behavior]]'
-- '[[Self-control]]'
-- '[[Assertiveness]]'
-- '[[Academic Well-being and Interest in Learning]]'
-related_theories:
-- '[[Transactional Epistemology]]'
-related_methods:
-- '[[Observational and Correlational Research]]'
+related_concepts: []
+related_theories: []
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Lekhal_2015_Paideia]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -78,7 +67,7 @@ updated: '2026-05-18'
 
 - 不同国家与学段的可比证据（尤其非北欧样本）。
 - 标准化测验与教师评分并置时的差异模式。
-- 课堂观察与纵向追踪对"间接作用路径"的验证结果。
+- 课堂[[Observational and Correlational Research|观察]]与纵向追踪对"间接作用路径"的验证结果。
 
 ## 争议与批评
 
@@ -93,4 +82,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Lekhal_2015_Paideia]]
+- Lekhal_2015_Paideia

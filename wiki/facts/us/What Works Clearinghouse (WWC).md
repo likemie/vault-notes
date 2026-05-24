@@ -8,30 +8,18 @@ type: fact
 subtype: event
 region: us
 tags:
-- What-Works-Clearinghouse
-- WWC
+- what-works-clearinghouse
+- wwc
 - educational-evidence-clearinghouse
 - evidence-based-education
 - region/us
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Evidence-Based Education]]'
-- '[[Randomised Controlled Trials]]'
-- '[[Effect Size]]'
-- '[[Single-Case Design (SCD)]]'
-- '[[5-3-20 Rule]]'
-- '[[Gating Procedure]]'
-related_theories:
-- '[[Campbellian Validity Framework]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wiliam_2019_ERE]]'
-- '[[Wolf_2020_JREE]]'
-- '[[Hitchcock_2015_JBE]]'
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -75,7 +63,7 @@ updated: '2026-05-18'
 >
 > ### WWC SCD 审查程序
 >
-> 除组间设计（RCT、准实验）外，WWC 也审查 [[Single-Case Design (SCD)]] 研究。SCD 被 WWC 认可为产生实证证据的可行实验方法（Hitchcock et al., 2015, p.460）。WWC 对 SCD 和组间设计均采用 [[Gating Procedure|门控程序]]：只有通过内部效度门槛的研究才进入后续推广性评估（Hitchcock et al., 2015, p.462）。
+> 除组间设计（RCT、准实验）外，WWC 也审查 [[Single-Case Design (SCD)]] 研究。SCD 被 WWC 认可为产生实证证据的可行实验方法（Hitchcock et al., 2015, p.460）。WWC 对 SCD 和组间设计均采用 门控程序：只有通过内部效度门槛的研究才进入后续推广性评估（Hitchcock et al., 2015, p.462）。
 >
 > [[WWC SCD Pilot Standards 2010]] 是 WWC 为 SCD 研究开发的专门技术标准：它服务于 WWC 的 SCD 研究审查，但不能等同于 [[Single-Case Design (SCD)]] 方法本身，也不能等同于 WWC 的完整审查程序。Hitchcock et al. 强调，SCD 设计标准必须与 WWC 审查协议和 SCD Review Guide 一起理解；审查协议规定研究问题、目标人群、结果领域和场所，Review Guide 则系统记录研究细节并支持推广性判断（Hitchcock et al., 2015, pp.459–461）。
 >
@@ -93,7 +81,7 @@ updated: '2026-05-18'
 ## 与其他清算中心的差异
 
 > [!abstract] 与其他清算中心的差异
-> WWC 不对一个干预跨所有结果聚合为单一项目评级，而是按结果域分别分析和报告教育干预结果。与 [[Blueprints for Healthy Youth Development|Blueprints]]、[[National Dropout Prevention Center (NDPC)|NDPC]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)|CEBC]] 不同，WWC 的评级结构更偏向 outcome-specific intervention appraisal（Wadhwa et al., 2024, pp.12–13）。
+> WWC 不对一个干预跨所有结果聚合为单一项目评级，而是按结果域分别分析和报告教育干预结果。与 Blueprints、[[National Dropout Prevention Center (NDPC)|NDPC]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)|CEBC]] 不同，WWC 的评级结构更偏向 outcome-specific intervention appraisal（Wadhwa et al., 2024, pp.12–13）。
 >
 > 在 Wadhwa et al. 的解释中，WWC 的标准不是唯一可行标准，也不是论文试图加冕的最佳标准；它只是教育领域最具支配性和可见度的清算中心之一。作者的比较目的正是显示不同清算中心所采用的证据标准和假设并不相同（Wadhwa et al., 2024, p.28）。
 
@@ -121,7 +109,7 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wiliam_2019_ERE]]
-- [[Wolf_2020_JREE]]
-- [[Hitchcock_2015_JBE]]
-- [[Wadhwa_2024_RER]]
+- Wiliam_2019_ERE
+- Wolf_2020_JREE
+- Hitchcock_2015_JBE
+- Wadhwa_2024_RER

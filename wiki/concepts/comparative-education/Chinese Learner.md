@@ -13,68 +13,13 @@ tags:
 - region/taiwan
 - level/k12
 - level/higher-ed
-related_concepts:
-- '[[International Education]]'
-- '[[Fourth Culture]]'
-- '[[International Schools]]'
-- '[[Stereotype Threat]]'
-- '[[Meta-Cultural Sensitivity]]'
-- '[[Orientalism]]'
-- '[[Self-Cultivation]]'
-- '[[Ren]]'
-- '[[Junzi]]'
-- '[[Learning Virtues]]'
-- '[[University Motto]]'
-- '[[Action Better Than Words]]'
-- '[[Take the World Upon Oneself]]'
-- '[[Heart and Mind for Wanting to Learn]]'
-- '[[Certainty of Knowledge]]'
-- '[[Mind and Its Wonders]]'
-- '[[Examined Life]]'
-- '[[Western Learner]]'
-- '[[Examination Hell]]'
-- '[[Paradox of the Chinese Learner]]'
-- '[[Learning Gap]]'
-- '[[Confucian Heritage Cultures]]'
-- '[[Establishing One''s Will (lizhi)]]'
-- '[[Shu (Familiarization)]]'
-- '[[Jing (Refined Mastery)]]'
-- '[[Cultural Models]]'
-- '[[Ideal Learner]]'
-- '[[Five Cardinal Relationships]]'
-- '[[Li (Propriety)]]'
-- '[[Rightness]]'
-- '[[Shame (Confucianism)]]'
-- '[[Sage]]'
-- '[[Surface and Deep Learning]]'
-- '[[Devil''s Advocate]]'
-- '[[Revoicing]]'
-- '[[Listening-Oriented Learning]]'
-- '[[Grice''s Conversational Maxims]]'
-related_theories:
-- '[[Hofstede''s Cultural Dimensions]]'
-- '[[Confucian Learning Tradition]]'
-related_methods:
-- '[[Prototype Methods]]'
-related_persons:
-- '[[Jin Li]]'
-- '[[Confucius]]'
-- '[[Socrates]]'
-related_facts:
-- '[[English Schools Foundation Hong Kong]]'
-- '[[Transnationalism and America Project SYSU]]'
-- '[[China Basic Education Curriculum Reform 2001]]'
-- '[[Civil Service Examination]]'
-related_arguments:
-- '[[Argument_Ryan_2010_HKUP]]'
-- '[[Argument_Slethaug_2010_InternationalEducation]]'
-- '[[Argument_Ryan_2010_ChineseLearner]]'
-- '[[Argument_Li_2012_Cambridge]]'
-sources:
-- '[[Ryan(Ed.)_2010_HKUP]]'
-- '[[Ch1_Slethaug_2010]]'
-- '[[Ch2_Ryan_2010]]'
-- '[[Li_2012_Cambridge]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-16'
@@ -88,9 +33,9 @@ updated: '2026-05-24'
 > [!info]
 > "中国学习者"（Chinese learner）在学术文献中有两个相互关联但不完全重叠的用法：
 >
-> **1. 文化学习模型（cultural learning model）**：[[Jin Li|Li (2012)]] 从儒家知识传统和实证研究中提炼出的系统性学习者画像——学习指向**向内完善自我**（而非向外探究世界），以[[Learning Virtues|七种学习美德]]为个人能动性，以[[Self-Cultivation|修身]]为终身项目，以[[Take the World Upon Oneself|以天下为己任]]为社会归属。这一用法描述的是**文化理想型**（ideal type），而非任何个体学习者的描述（Li, 2012, pp.57-58）。
+> **1. 文化学习模型（cultural learning model）**：Li (2012) 从儒家知识传统和实证研究中提炼出的系统性学习者画像——学习指向**向内完善自我**（而非向外探究世界），以七种学习美德为个人能动性，以[[Self-Cultivation|修身]]为终身项目，以[[Take the World Upon Oneself|以天下为己任]]为社会归属。这一用法描述的是**文化理想型**（ideal type），而非任何个体学习者的描述（Li, 2012, pp.57-58）。
 >
-> **2. 跨文化教育话语中的群体标签**：在 [[Ch2_Ryan_2010|Ryan (2010)]] 和 [[Ch1_Slethaug_2010|Slethaug (2010)]] 等国际教育文献中，"中国学习者"通常指来自中国大陆及儒家文化圈（[[Confucian Heritage Cultures|CHC]]——香港、台湾、新加坡）的学生群体。Slethaug 的核心论点是：**不存在单一类型的中国学习者**——中国大陆内部因地区、年龄、性别、经济和文化地位而极为多元，来自不同地区的学生不希望被假设有相同的认同和偏好（Slethaug, 2010, p.34）。
+> **2. 跨文化教育话语中的群体标签**：在 Ryan (2010) 和 Slethaug (2010) 等国际教育文献中，"中国学习者"通常指来自中国大陆及儒家文化圈（[[Confucian Heritage Cultures|CHC]]——香港、台湾、新加坡）的学生群体。Slethaug 的核心论点是：**不存在单一类型的中国学习者**——中国大陆内部因地区、年龄、性别、经济和文化地位而极为多元，来自不同地区的学生不希望被假设有相同的认同和偏好（Slethaug, 2010, p.34）。
 >
 > 这两个用法之间的关系，见 [[#概念演变|概念演变]]。
 
@@ -102,13 +47,13 @@ updated: '2026-05-24'
 ## 核心要素
 
 > [!abstract]
-> [[Jin Li|Li (2012)]] 在 [[Argument_Li_2012_Cambridge|Cultural Foundations of Learning]] 中追溯了儒家学习传统的知识根源，将其提炼为与 [[Western Learner|西方学习者模型]] 形成系统对比的完整画像。以下按**学习方向 → 学习路径 → 学习动力 → 学习表达**四个主题组织（Li, 2012, pp.46-58）。
+> Li (2012) 在 Cultural Foundations of Learning 中追溯了儒家学习传统的知识根源，将其提炼为与 西方学习者模型 形成系统对比的完整画像。以下按**学习方向 → 学习路径 → 学习动力 → 学习表达**四个主题组织（Li, 2012, pp.46-58）。
 
 ### 学习方向：向内完善自我
 
 中国学习者模型的根本特征：学习指向**自我**，而非外部世界。在儒家传统中，"自我是人要去**做**（work on）、去改善、去精炼、去完成的项目"（Li, 2012, p.47）。这与 [[Western Learner|西方学习者]] 的向外探究世界形成方向性对立。
 
-一个人的本质不是由生物学定义的，而是由其在[[Five Cardinal Relationships|五伦关系]]（父子、夫妻、兄弟、君臣、朋友）中的行事方式定义的——"这些关系及其社会和道德含义——而不是我们的生物学——定义了我们作为人的本质"（Li, 2012, pp.47-48）。
+一个人的本质不是由生物学定义的，而是由其在五伦关系（父子、夫妻、兄弟、君臣、朋友）中的行事方式定义的——"这些关系及其社会和道德含义——而不是我们的生物学——定义了我们作为人的本质"（Li, 2012, pp.47-48）。
 
 学习的终极目标不是掌握知识或获得成就，而是**[[Self-Cultivation|修身]]**——一个持续终身的人格完善过程。修身从[[Five Cardinal Relationships|五伦]]出发，经由[[Li (Propriety)|礼]]、[[Rightness|义]]、廉、[[Shame (Confucianism)|耻]]四道德原则的实践，最终通向[[Ren|仁]]的最高境界。人格进阶从士 → [[Junzi|君子]] → [[Sage|圣人]]，每个阶段代表更深层的自我转化（Li, 2012, pp.42-46）。完整的人格层级分析见 [[Junzi#人格进阶：士 → 君子 → 圣人]]。
 
@@ -128,7 +73,7 @@ updated: '2026-05-24'
 | 第 2 层 | 致知 | Extend knowledge | 认知准备 |
 | 第 3 层 | 诚意 | Be sincere | 认知准备 |
 | 第 4 层 | 正心 | Rectify heart/mind | 认知准备 |
-| **第 5 层** | **[[Self-Cultivation\|修身]]** | **Cultivate self** | **核心枢纽** |
+| **第 5 层** | **修身** | **Cultivate self** | **核心枢纽** |
 | 第 6 层 | 齐家 | Regulate family | 社会实践 |
 | 第 7 层 | 治国 | Order the state | 社会实践 |
 | 第 8 层 | 平天下 | Bring peace to the world | 社会实践 |
@@ -150,7 +95,7 @@ updated: '2026-05-24'
 | **恒心**（Perseverance） | 维持——从头到尾不放弃 | 全过程 |
 | **专心**（Concentration） | 聚焦——每个时刻的深度投入 | 每时每刻 |
 | **尊师**（Respect for Teachers） | 接纳——对教师引导保持开放 | 关系性 |
-| **谦虚**（Humility） | 自省——始终认为需要自我改进 | 终身 |
+| **[[Humility in Learning|谦虚]]**（Humility） | 自省——始终认为需要自我改进 | 终身 |
 
 五种行为美德（诚心、勤奋、刻苦、恒心、专心）在实证中出现了直接的行为描述对应；两种情感美德（尊师、谦虚）出现了情感描述对应（Li, 2012, pp.91-96）。每项美德的文本传统、实证发现和文化认知差异详见 [[Learning Virtues]]。
 
@@ -184,7 +129,7 @@ updated: '2026-05-24'
 - 91% 的东亚新移民加拿大大学生在课堂上感到羞怯（欧裔仅 51%），最常见原因是"害怕说错"（30% vs 5%）（Li, 2012, p.107）。
 - Heejung Kim 的实验：说话同时解决问题**降低**了东亚学生的表现并增加皮质醇水平，而**提高**了欧裔美国学生的表现并使他们更放松（Li, 2012, p.108）。
 
-在此基础上，Li 提出东亚说话的四个准则（Li, 2012, pp.108-115），与 [[Grice's Conversational Maxims|Grice 的西方会话准则]] 形成镜像对立：
+在此基础上，Li 提出东亚说话的四个准则（Li, 2012, pp.108-115），与 Grice 的西方会话准则 形成镜像对立：
 
 | 准则 | 内容 |
 |------|------|
@@ -197,17 +142,17 @@ updated: '2026-05-24'
 
 第 8 章进一步记录了东亚课堂中说话的角色（Li, 2012, pp.115-117）：
 
-- 东亚教师不像西方教师那样通过 [[Revoicing|revoicing]] 突出学生的"想法作者权"——教师收集学生回应但不指明谁说了什么。"在讨论故事回应时，教师收集了各种回答，但没有单独指出任何学生"（Li, 2012, p.115）。
+- 东亚教师不像西方教师那样通过 revoicing 突出学生的"想法作者权"——教师收集学生回应但不指明谁说了什么。"在讨论故事回应时，教师收集了各种回答，但没有单独指出任何学生"（Li, 2012, p.115）。
 - 这种注重学习内容而非个人归属的做法，"实际上消除了学生之间社会比较的不利影响"（Li, 2012, p.116）。
 - Inagaki、Hatano 和 Morita 将日本学生口头说话少但书面产出内容丰富的现象称为**"沉默参与"（silent participation）**（Li, 2012, p.117）。
 - Cortazzi 和 Jin 将其概括为 [[Listening-Oriented Learning|倾听导向学习]]——"我们脑子里是活跃的。我们一直在思考。我们的心跟着讲师，带着问题和挑战。我们只是不习惯说出来"（Li, 2012, p.117）。
 
 ### 家庭社会化：沉默的养成
 
-与西方父母在家中训练儿童说话的 elaborative style 和 [[Devil's Advocate|devil's advocate]] 实践不同，东亚父母通过示范和纠正来社会化学说话的方式（Li, 2012, pp.118-120）：
+与西方父母在家中训练儿童说话的 elaborative style 和 devil's advocate 实践不同，东亚父母通过示范和纠正来社会化学说话的方式（Li, 2012, pp.118-120）：
 
 - 日本母亲对婴儿说话更少，婴儿每轮话轮说出的语句明显更少（Li, 2012, p.118）。
-- Li 在中国农村观察到：母亲通过慢动作示范和轻轻的手势纠正教孩子削蔬菜——整个过程"几乎不说话"。孩子学会了，微笑，母亲发出一个声音示意可以出去玩了——"完全没有表扬"。但当男孩成功后大声炫耀"哎呀这太简单了！"时，母亲才开口纠正："你真了不起啊！你在学校也这样？"（Li, 2012, pp.118-120）。Li 指出：在这一整个教学片段中，唯一的言语是由纠正孩子自夸的需要所驱动的。
+- Li 在中国农村[[Observational and Correlational Research|观察]]到：母亲通过慢动作示范和轻轻的手势纠正教孩子削蔬菜——整个过程"几乎不说话"。孩子学会了，微笑，母亲发出一个声音示意可以出去玩了——"完全没有表扬"。但当男孩成功后大声炫耀"哎呀这太简单了！"时，母亲才开口纠正："你真了不起啊！你在学校也这样？"（Li, 2012, pp.118-120）。Li 指出：在这一整个教学片段中，唯一的言语是由纠正孩子自夸的需要所驱动的。
 
 ---
 
@@ -239,13 +184,13 @@ updated: '2026-05-24'
 
 ### 第三阶段：Li (2012) 的系统性反驳
 
-[[Jin Li|Li (2012)]] 在 [[Argument_Li_2012_Cambridge|第 4 章]] 中对"死记硬背"批评进行了四重方法论反驳（Li, 2012, pp.136-139）：
+Li (2012) 在 第 4 章 中对"死记硬背"批评进行了四重方法论反驳（Li, 2012, pp.136-139）：
 
 | 谬误 | 核心错误 | 详见 |
 |------|----------|------|
-| 行为主义谬误 | 将可观察行为（重复朗读）等同于内心过程（没有理解） | [[Argument_Li_2012_Cambridge#谬误 1：行为主义谬误]] |
+| 行为主[[Rightness|义]]谬误 | 将可[[Observational and Correlational Research|观察]]行为（重复朗读）等同于内心过程（没有理解） | [[Argument_Li_2012_Cambridge#谬误 1：行为主义谬误]] |
 | 基础阶段混淆 | 将学习基础阶段的共性（任何文化都需要反复练习）当作中国特有的缺陷 | [[Argument_Li_2012_Cambridge#谬误 2：基础阶段混淆]] |
-| 静态观察谬误 | 将一次观察到的"熟"阶段行为当作学习的全部 | [[Argument_Li_2012_Cambridge#谬误 3：静态观察谬误]] |
+| 静态观察谬误 | 将一次观察到的"[[Shu (Familiarization)|熟]]"阶段行为当作学习的全部 | [[Argument_Li_2012_Cambridge#谬误 3：静态观察谬误]] |
 | 即时理解谬误 | 假设理解必须即时口头展示——"五十分钟课堂内的理解是低级理解" | [[Argument_Li_2012_Cambridge#谬误 4：即时理解谬误]] |
 
 > [!success] 实证支持
@@ -255,7 +200,7 @@ updated: '2026-05-24'
 
 中国研究者持续发声纠正刻板印象——Shi（2006）发现上海中学生"与西方同龄人差异很小"；Hu、Chan & Rao、Jin & Cortazzi 等均致力于此。然而这些研究"并未根本撼动西方学界的既有成见"（Ryan, 2010, p.44）。
 
-中国 2001 年启动的[[China Basic Education Curriculum Reform 2001|基础教育课程改革]]——从"双基"到"素质教育"、从教师中心到学生中心——使静态刻板印象严重脱离现实。完整论证见 [[Argument_Ryan_2010_ChineseLearner#第 6 步：以中国教育改革证明刻板印象已经过时]]。
+中国 2001 年启动的基础教育课程改革——从"双基"到"素质教育"、从教师中心到学生中心——使静态刻板印象严重脱离现实。完整论证见 [[Argument_Ryan_2010_ChineseLearner#第 6 步：以中国教育改革证明刻板印象已经过时]]。
 
 ---
 
@@ -276,18 +221,18 @@ updated: '2026-05-24'
 > [!success]
 > Li（2012, Ch3）综述了数十年跨文化比较研究的系统性实证证据。以下按研究发现组织：
 
-**归因模式：努力 vs 能力**。[[Learning Gap|Stevenson 和 Stigler（1992）]]的十年跨国研究发现：美国儿童、家长和教师以**能力**解释学业成就，中国/东亚群体以**努力**解释。香港研究者进一步发现中国学生将努力视为跨时间、跨情境的稳定因素（Li, 2012, pp.78-80）。
+**归因模式：努力 vs 能力**。Stevenson 和 Stigler（1992）的十年跨国研究发现：美国儿童、家长和教师以**能力**解释学业成就，中国/东亚群体以**努力**解释。香港研究者进一步发现中国学生将努力视为跨时间、跨情境的稳定因素（Li, 2012, pp.78-80）。
 
 **记忆与理解的重新解释**。Marton、Dall'Alba 和 Tse（1996）发现中国学习者的记忆不是目的本身，而是达成深度理解的更大策略的**第一步**。Dahlin 和 Watkins（2000）：英国学生用重复来**检查**自己是否记住了，中国学生用重复来**创造深刻印象**以奠定理解基础；英国学生认为理解是突然顿悟，中国学生认为理解是长期智力努力的过程（Li, 2012, pp.86-87）。
 
-**自主选择的文化差异**。Iyengar 和 Lepper（1999）：欧裔美国儿童在个人选择时表现更好，亚裔美国儿童在重要他人（母亲、可信赖同伴）为他们选择时同样表现好——中国学习者对个人自主选择的需求可能不像对西方学习者那样关键（Li, 2012, pp.88-89）。
+**自主选择的文化差异**。Iyengar 和 Lepper（1999）：欧裔美国儿童在个人选择时表现更好，亚裔美国儿童在重要他人（母亲、可信赖同伴）为他们选择时同样表现好——中国学习者对个人自主选择的需求可能不像对[[Western Learner|西方学习者]]那样关键（Li, 2012, pp.88-89）。
 
-**理想学习者研究**。Li 的中美大学生比较研究（Li, 2012, pp.98-103）：欧裔美国模型的核心是"主动参与→思考→探究→沟通"的心智过程（96% 受访者提及）；中国模型的核心是[[Learning Virtues|五种学习美德]]（68% 受访者提及）。完整模型对比见 [[Argument_Li_2012_Cambridge#研究二：理想学习者形象]]。
+**[[Ideal Learner|理想学习者]]研究**。Li 的中美大学生比较研究（Li, 2012, pp.98-103）：欧裔美国模型的核心是"主动参与→思考→探究→沟通"的心智过程（96% 受访者提及）；中国模型的核心是五种[[Learning Virtues|学习美德]]（68% 受访者提及）。完整模型对比见 [[Argument_Li_2012_Cambridge#研究二：理想学习者形象]]。
 
 > [!info] 流动规模与分布
 > - 1978–2003 年，580,000 名中国学生赴美留学（Slethaug, 2010, p.17）
 > - 中国自身也成为留学目的地：2005 年外国大学生超过 140,000 名（Slethaug, 2010, p.18）
-> - [[English Schools Foundation Hong Kong|ESF 系统]]中本地华人学生占 40%–50%（Slethaug, 2010, p.4）
+> - ESF 系统中本地华人学生占 40%–50%（Slethaug, 2010, p.4）
 
 ---
 
@@ -318,7 +263,7 @@ updated: '2026-05-24'
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
-- [[Ryan(Ed.)_2010_HKUP]]
-- [[Ch1_Slethaug_2010]]
-- [[Ch2_Ryan_2010]]
+- Li_2012_Cambridge
+- Ryan(Ed.)_2010_HKUP
+- Ch1_Slethaug_2010
+- Ch2_Ryan_2010

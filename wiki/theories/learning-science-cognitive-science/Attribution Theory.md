@@ -10,17 +10,13 @@ tags:
   - theme/motivation
   - theme/affect
   - theme/achievement
-related_concepts:
-  - "[[Intrinsic vs Extrinsic Motivation]]"
-  - "[[Locus of Control]]"
-related_theories:
-  - "[[Self-Worth Theory]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -64,8 +60,8 @@ updated: 2026-05-23
 - **意外/惊讶**：当将成功或失败归因于运气时
 - **内疚**：当将失败归因于缺乏努力时
 - **感激**：因接受他人帮助而成功时
-- **骄傲**：当将成功归因于内部因素（能力或勤奋）时
-- **羞耻**：当将失败归因于内部因素（如缺乏努力）时
+- **[[Pride in Learning|骄傲]]**：当将成功归因于内部因素（能力或勤奋）时
+- **羞[[Shame (Confucianism)|耻]]**：当将失败归因于内部因素（如缺乏努力）时
 
 此外，将成功归因于自身能力或勤奋所体验到的骄傲，比归因于他人帮助时的骄傲更强（Li, 2012, p.61）。
 
@@ -73,4 +69,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

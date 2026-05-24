@@ -13,36 +13,13 @@ tags:
   - theme/educational-policy
   - theme/key-competences
   - method/document-analysis
-related_concepts:
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
-  - "[[Evidence-Informed Practice]]"
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Knowledge Mobilisation]]"
-  - "[[Technology Infusion]]"
-  - "[[Reusability Paradox]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Robert Slavin]]"
-related_facts:
-  - "[[EU Evidence-Informed Education Policy Initiatives]]"
-  - "[[ESSA 2015 Evidence Standards]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Campbell Collaboration]]"
-  - "[[Danish Clearinghouse for Educational Research]]"
-  - "[[EPPI-Centre]]"
-  - "[[Institute for Effective Education]]"
-  - "[[Swedish Institute for Educational Research]]"
-  - "[[Top Institute for Evidence-Based Education Research]]"
-  - "[[Centre for the Use of Research and Evidence in Education]]"
-  - "[[Evidence-Based Teachers Network]]"
-  - "[[Azione LIM 2008]]"
-  - "[[French Class Size Reduction 2017]]"
-  - "[[EU Key Competences for Lifelong Learning 2018]]"
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-  - "[[Pellegrini_2021_ROE]]"
+sources: []
 part_of: ''
 status: draft
 created: 2026-05-23
@@ -54,15 +31,15 @@ updated: 2026-05-23
 ## 研究问题
 
 > [!info] 研究问题
-> 欧洲教育政策中，证据使用已经被 [[EU Evidence-Informed Education Policy Initiatives|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 [[Educational Evidence Clearinghouses|证据中介组织]] 承担证据生产和传播功能？为什么在美国 [[ESSA 2015 Evidence Standards|ESSA 式证据标准]] 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform|证据本位改革]]？（Pellegrini & Vivanet, 2021, pp.25-28）
+> 欧洲教育政策中，证据使用已经被 [[EU Evidence-Informed Education Policy Initiatives|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 ESSA 式证据标准 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform|证据本位改革]]？（Pellegrini & Vivanet, 2021, pp.25-28）
 
-这篇文章要解释的核心张力是：[[EU Evidence-Informed Education Policy Initiatives|欧盟政策倡议]] 已经把证据知情政策和实践列为教育治理方向，但欧洲教育系统的多国、多语言、多课程结构，使“有证据的项目”很难直接变成可复制、可采购、可评估的欧洲共同方案（Pellegrini & Vivanet, 2021, pp.35-37）。
+这篇文章要解释的核心张力是：欧盟政策倡议 已经把证据知情政策和实践列为教育治理方向，但欧洲教育系统的多国、多语言、多课程结构，使“有证据的项目”很难直接变成可复制、可采购、可评估的欧洲共同方案（Pellegrini & Vivanet, 2021, pp.35-37）。
 
 ## 理论框架
 
 > [!abstract] 理论框架
 > - [[Evidence-Based Education]] — 教育项目和实践应更多依靠高质量研究证据，尤其是能够评价可复制项目效果的研究（Pellegrini & Vivanet, 2021, p.26）。
-> - [[Evidence-Informed Practice]] — 欧洲文件和倡议更常使用 evidence-informed education，因为证据来源不限于 [[Randomised Controlled Trials|实验研究]]，政策文件也多是指导而非强制规定（Pellegrini & Vivanet, 2021, p.26）。
+> - [[Evidence-Informed Practice]] — 欧洲文件和倡议更常使用 evidence-informed education，因为证据来源不限于 实验研究，政策文件也多是指导而非强制规定（Pellegrini & Vivanet, 2021, p.26）。
 > - [[Evidence-Based Reform]] — Slavin 的定义把重点放在政策如何支持或鼓励使用经严格研究证明有效的项目与实践，而不是传播一般性教学原则（Pellegrini & Vivanet, 2021, p.26）。
 
 ## 研究方法
@@ -80,25 +57,25 @@ updated: 2026-05-23
 ### 第一步：欧洲已经出现证据使用的政策信号
 
 1. 教育决策中使用证据的主张并不是新近出现的口号。Davies 和 Hargreaves 在 1990 年代末已经提出教育项目和实践应以证据为基础，此后真实教育情境中的高质量项目评价逐渐增加（Pellegrini & Vivanet, 2021, p.26）。
-2. 欧洲与美国的政策语言不同。[[ESSA 2015 Evidence Standards|ESSA]] 通过强、中、有希望等证据等级给学校采用有证据项目提供激励；欧洲更常说 evidence-informed education，意味着证据来源可以包括定性和混合方法，欧盟文件也主要提供指导而非强制要求（Pellegrini & Vivanet, 2021, pp.26-27）。
-3. [[EU Evidence-Informed Education Policy Initiatives|欧盟层面的政策进程]] 从 2006 年开始更清楚地成形。2006 年欧洲理事会结论强调评价文化，2007 年欧洲委员会工作文件提出证据本位政策与实践应成为教育和培训系统改革的驱动力（Pellegrini & Vivanet, 2021, pp.28-29）。
+2. 欧洲与美国的政策语言不同。ESSA 通过强、中、有希望等证据等级给学校采用有证据项目提供激励；欧洲更常说 evidence-informed education，意味着证据来源可以包括定性和[[Mixed Method and Multi-method Research|混合方法]]，欧盟文件也主要提供指导而非强制要求（Pellegrini & Vivanet, 2021, pp.26-27）。
+3. 欧盟层面的政策进程 从 2006 年开始更清楚地成形。2006 年欧洲理事会结论强调评价文化，2007 年欧洲委员会工作文件提出证据本位政策与实践应成为教育和培训系统改革的驱动力（Pellegrini & Vivanet, 2021, pp.28-29）。
 
-例子：[[Azione LIM 2008]] 大规模采购互动白板，投入 EUR 93,354,571，2016 年已有 42% 班级配备互动白板；但英国实验和系统综述显示其对成绩影响很小或不显著。这说明 [[Technology Infusion|技术导入政策]] 若只依据创新叙事而不看效果证据，可能投入巨大却难以改善学习（Pellegrini & Vivanet, 2021, p.27）。
+例子：[[Azione LIM 2008]] 大规模采购互动白板，投入 EUR 93,354,571，2016 年已有 42% 班级配备互动白板；但英国实验和系统综述显示其对成绩影响很小或不显著。这说明 技术导入政策 若只依据创新叙事而不看效果证据，可能投入巨大却难以改善学习（Pellegrini & Vivanet, 2021, p.27）。
 
 ### 第二步：欧洲建立了若干证据中介和研究网络
 
-4. 2009 年 ET 2020 将进展监测与证据本位政策制定联系起来；同年欧盟发起知识中介网络提案，2010-2013 年 EIPPEE 项目调查欧洲国家如何连接研究与政策（Pellegrini & Vivanet, 2021, p.30）。
+4. 2009 年 ET 2020 将进展监测与证据本位政策制定联系起来；同年欧盟发起知识中介网络提案，2010-2013 年 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 项目调查欧洲国家如何连接研究与政策（Pellegrini & Vivanet, 2021, p.30）。
 5. EIPPEE 发现欧洲活动很多、路径多样，但跨欧洲层面的合作和协调较少；它建议加强研究证据与政策之间的联系、提升研究质量和可用性、扩展系统综述、建设研究生产到使用系统中的能力，并增加政治和财政承诺（Pellegrini & Vivanet, 2021, p.30）。
-6. 2017 年 Eurydice 报告显示，多数国家已有官方安排和组织为政策制定提供证据，但安排差异很大，从法律规定到一般性咨询指南不等；英国在政策措施上走在前面，并通过 [[EPPI-Centre]]、[[EEF Teaching and Learning Toolkit|EEF]]、SSIF 和 TLIF 等机制推动证据使用（Pellegrini & Vivanet, 2021, p.31）。
+6. 2017 年 Eurydice 报告显示，多数国家已有官方安排和组织为政策制定提供证据，但安排差异很大，从法律规定到一般性咨询指南不等；英国在政策措施上走在前面，并通过 [[EPPI-Centre]]、EEF、SSIF 和 TLIF 等机制推动证据使用（Pellegrini & Vivanet, 2021, p.31）。
 
-例子：[[EEF Teaching and Learning Toolkit|EEF]] 既生成新证据，也通过 Teaching and Learning Toolkit 和 Research Schools Network 做 [[Knowledge Mobilisation|知识动员]]。这类组织不是单纯研究机构，而是在研究、学校和政策之间承担翻译功能（Pellegrini & Vivanet, 2021, pp.31-33）。
+例子：EEF 既生成新证据，也通过 Teaching and Learning Toolkit 和 Research Schools Network 做 [[Knowledge Mobilisation|知识动员]]。这类组织不是单纯研究机构，而是在研究、学校和政策之间承担翻译功能（Pellegrini & Vivanet, 2021, pp.31-33）。
 
 文章列举的欧洲证据基础设施可分为两组：证据生成与综述机构包括 [[Campbell Collaboration]]、[[Danish Clearinghouse for Educational Research]]、[[EPPI-Centre]]、[[Institute for Effective Education]]、[[Swedish Institute for Educational Research]] 和 [[Top Institute for Evidence-Based Education Research]]；证据传播和实践者网络包括 [[Centre for the Use of Research and Evidence in Education]] 与 [[Evidence-Based Teachers Network]]（Pellegrini & Vivanet, 2021, pp.32-34）。各机构细节写在对应条目中，这里只保留它们在论证链中的功能位置。
 
 ### 第三步：欧洲的主要瓶颈是可迁移性
 
-7. 证据不能像“菜谱”一样在任何情境中复制。一个项目在特定情境、对象和目标下由 RCT 证明有效，并不意味着它换到另一国、另一课程标准、另一学段时仍然有效（Pellegrini & Vivanet, 2021, p.35）。
-8. 文章用 Wiley 的 [[Reusability Paradox|可重用性悖论]] 解释这一点：项目越为特定情境精细设计，越难跨情境复用；项目越追求普遍可用，就越可能不能充分满足任何一个具体情境的需要（Pellegrini & Vivanet, 2021, p.36）。
+7. 证据不能像“菜谱”一样在任何情境中复制。一个项目在特定情境、对象和目标下由 [[Randomised Controlled Trials|RCT]] 证明有效，并不意味着它换到另一国、另一课程标准、另一学段时仍然有效（Pellegrini & Vivanet, 2021, p.35）。
+8. 文章用 Wiley 的 [[Reusability Paradox|可重用性悖论]] 解释这一点：项目越为特定情境[[Jing (Refined Mastery)|精]]细设计，越难跨情境复用；项目越追求普遍可用，就越可能不能充分满足任何一个具体情境的需要（Pellegrini & Vivanet, 2021, p.36）。
 9. 欧洲内部有 43 个教育系统，且组织模式、语言、课程和教学大纲不同；欧盟还有 24 种官方语言，因此英语项目和英国／美国证据数据库很难直接服务非英语国家（Pellegrini & Vivanet, 2021, p.36）。
 
 例子：一个英国阅读干预项目即使在英国小学中有效，进入意大利或芬兰学校时仍要重新面对课程目标、语言材料、教师培训和本地评价标准问题。文章的意思不是证据无用，而是证据要转化为本地设计的参照，而不能机械复制（Pellegrini & Vivanet, 2021, pp.35-36）。
@@ -110,8 +87,8 @@ updated: 2026-05-23
 
 ### 第五步：关键能力改革放大了证据本位政策的难度
 
-12. 欧洲课程从 2000 年代初逐步转向能力本位模式。[[EU Key Competences for Lifelong Learning 2018]] 把能力定义为知识、技能和态度的动态组合，并列出八项关键能力（Pellegrini & Vivanet, 2021, p.39）。
-13. 基础读写知识和技能已有较成熟的评估和项目证据，但“积极的读写态度”“批判性和建设性对话倾向”“语言的社会责任使用”等多维能力更难设计干预和评估效果（Pellegrini & Vivanet, 2021, pp.40-41）。
+12. 欧洲课程从 2000 年代初逐步转向能力本位模式。[[EU Key Competences for Lifelong Learning 2018]] 把能力定[[Rightness|义]]为知识、技能和态度的动态组合，并列出八项关键能力（Pellegrini & Vivanet, 2021, p.39）。
+13. 基础读写知识和技能已有较成[[Shu (Familiarization)|熟]]的评估和项目证据，但“积极的读写态度”“批判性和建设性对话倾向”“语言的社会责任使用”等多维能力更难设计干预和评估效果（Pellegrini & Vivanet, 2021, pp.40-41）。
 14. 因此，[[Evidence-Based Reform|证据本位改革]] 若要进入欧洲能力本位课程，就必须同时解决课程目标重写、目标指标化、有效评价工具、教师培训和多语言资源共享问题（Pellegrini & Vivanet, 2021, p.41）。
 
 ## 主要发现
@@ -148,4 +125,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Pellegrini_2021_ROE]]
+- Pellegrini_2021_ROE

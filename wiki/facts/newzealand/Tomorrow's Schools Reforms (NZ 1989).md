@@ -12,20 +12,13 @@ tags:
 - school-reform
 - region/new-zealand
 - level/k12
-related_concepts:
-- '[[Educational Management Organisation (EMO)]]'
-- '[[Network Governance]]'
-- '[[Privatisation of State Schooling]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[ONeill_2016_Report]]'
-- '[[Johnson_2023_CE]]'
-- '[[Sarbiewska_2019_JSR]]'
-- '[[Bates_2017_CognitionEducationTrust]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -88,7 +81,7 @@ updated: '2026-05-22'
 
 ## 来源
 
-- [[ONeill_2016_Report]]
-- [[Sarbiewska_2019_JSR]]
-- [[Johnson_2023_CE]]
-- [[Bates_2017_CognitionEducationTrust]]
+- ONeill_2016_Report
+- Sarbiewska_2019_JSR
+- Johnson_2023_CE
+- Bates_2017_CognitionEducationTrust

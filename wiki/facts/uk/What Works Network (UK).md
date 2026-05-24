@@ -9,21 +9,16 @@ region: uk
 issuing_organization: ''
 tags:
 - evidence-based-policy
-- UK
+- uk
 - evidence-clearing-house
 - region/uk
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Evidence-Based Reform]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Nick Cowen]]'
-- '[[Nancy Cartwright]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Cowen_2015_CHESS]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -98,4 +93,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Cowen_2015_CHESS]]
+- Cowen_2015_CHESS

@@ -16,22 +16,13 @@ tags:
   - method/textbook-analysis
   - method/interview
   - paradigm/critical
-related_concepts:
-  - "[[Official Knowledge]]"
-  - "[[Sinicisation]]"
-  - "[[Cultural Disembedding]]"
-  - "[[Symbolic Boundary]]"
-related_theories:
-  - "[[Nation Building through Education]]"
-  - "[[Hegemony]]"
-related_methods:
-  - "[[In-depth Interview]]"
+related_concepts: []
+related_theories: []
+related_methods: []
 related_persons: []
-related_facts:
-  - "[[Confucian Revival in China]]"
+related_facts: []
 related_arguments: []
-sources:
-  - "[[Yu_2024_CE]]"
+sources: []
 part_of: ''
 status: draft
 created: 2026-05-21
@@ -162,7 +153,7 @@ updated: 2026-05-21
 > | 儒家的适用范围 | 普遍适用、应当尊崇 | 有其局限、不能包揽一切 |
 > | "中国性"的定义 | 等同汉-儒家传统 | 多元、开放、包容差异 |
 >
-> 19. 此断裂揭示了**单一文化教育在多元社会中的结构性矛盾**：国家民族主义不仅对外抵抗西方，也对内压制多样性。官方儒家叙事——将其塑造为所有"较低等民族"应当尊崇的对象——倾向于加剧文化[[Cultural Disembedding|脱嵌]]和疏离，而非促进包容（Yu & Zhao, 2024, p.71–72）。
+> 19. 此断裂揭示了**单一文化教育在多元社会中的结构性矛盾**：国家民族主义不仅对外抵抗西方，也对内压制多样性。官方儒家叙事——将其塑造为所有"较低等民族"应当尊崇的对象——倾向于加剧文化脱嵌和疏离，而非促进包容（Yu & Zhao, 2024, p.71–72）。
 >
 > 20. 论文引出规范性主张：中国教育需要的范式转变朝向更多元包容——包括儒学教学容纳更世界主义的解读（X. Chen 2020; Ivanhoe 2014，引自 Yu & Zhao, 2024, p.71–72）。但作者坦承，2017 年以来政治与教育发展指向了相反方向：更民族主义、更同化主义、更汉人中心。
 
@@ -225,4 +216,4 @@ updated: 2026-05-21
 
 ## 来源
 
-- [[Yu_2024_CE]]
+- Yu_2024_CE

@@ -14,19 +14,13 @@ tags:
 - field/logic
 - school/analytic-philosophy
 - theme/knowledge
-related_concepts:
-- "[[Certainty of Knowledge]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- "[[Jin Li]]"
-- "[[Plato]]"
-- "[[Jean-Jacques Rousseau]]"
+related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -38,7 +32,7 @@ updated: 2026-05-22
 ## 简介
 
 > [!info]
-> 伯特兰·罗素（1872–1970）是英国哲学家、逻辑学家、数学家和公共知识分子，分析哲学的奠基人之一。他与怀特海（Alfred North Whitehead）合著的《数学原理》（*Principia Mathematica*，1910–1913）试图将全部数学还原为逻辑，是 20 世纪哲学最具雄心的智识工程之一。他写作面向大众的《哲学问题》（1912）和《西方哲学史》（1945）使哲学走出学院高墙，后者为他赢得了 1950 年诺贝尔文学奖。他终其一生是一位积极的社会活动家——反战、反核、批评宗教和威权。在 Li 第 2 章中，罗素扮演双重角色：他的 *A History of Western Philosophy* 是 Li 梳理西方智识传统的主要参考（Li, 2012, p.57 脚注 3）；他对数学知识特征的描述——"确定、精确、仅通过思维即可获得"——被 Li 直接引用来阐明西方以数学为模型的 [[Certainty of Knowledge|知识确定性理想]]（Li, 2012, p.24）。
+> 伯特兰·罗素（1872–1970）是英国哲学家、逻辑学家、数学家和公共知识分子，分析哲学的奠基人之一。他与怀特海（Alfred North Whitehead）合著的《数学原理》（*Principia Mathematica*，1910–1913）试图将全部数学还原为逻辑，是 20 世纪哲学最具雄心的智识工程之一。他写作面向大众的《哲学问题》（1912）和《西方哲学史》（1945）使哲学走出学院高墙，后者为他赢得了 1950 年诺贝尔文学奖。他终其一生是一位积极的社会活动家——反战、反核、批评宗教和威权。在 Li 第 2 章中，罗素扮演双重角色：他的 *A History of Western Philosophy* 是 Li 梳理西方智识传统的主要参考（Li, 2012, p.57 脚注 3）；他对数学知识特征的描述——"确定、精确、仅通过思维即可获得"——被 Li 直接引用来阐明西方以数学为模型的 知识确定性理想（Li, 2012, p.24）。
 
 > [!warning]
 > 第 2 章对罗素本人的思想未做分析——他主要作为来源和引用对象出现。本条目目前以 Li 的引用为基础，罗素在逻辑哲学、语言哲学、认识论等领域的完整贡献需从其他来源补充。
@@ -94,7 +88,7 @@ updated: 2026-05-22
 
 > [!success]
 > - **对分析哲学**：罗素与弗雷格、维特根斯坦（罗素的学生）和摩尔共同开创了 20 世纪最具影响力的哲学传统——分析哲学。他的摹状词理论（theory of descriptions）被公认为分析哲学的典范（待核）
-> - **对 Li 的文化分析框架**：Russell 对数学知识特征的描述被 Li 用于阐明 [[Certainty of Knowledge|西方知识确定性的理想模型]]的核心特征——确定性、精确性、通过纯粹思维获得、优越于感官（Li, 2012, p.24）
+> - **对 Li 的文化分析框架**：Russell 对数学知识特征的描述被 Li 用于阐明 西方知识确定性的理想模型的核心特征——确定性、精确性、通过纯粹思维获得、优越于感官（Li, 2012, p.24）
 > - **对中外比较文化研究的架构**：Li 在第 2 章中"对西方智识传统的讨论，主要依赖 Russell 的 *A History of Western Philosophy*"——这一声明出现在脚注中，表明 Russell 的哲学史叙事构成了 Li 描述"什么在西方传统中区别于儒家传统"的基线框架（Li, 2012, p.57 脚注 3）
 > - **对公共文化与教育**：Russell 以清晰、机智、犀利的文风证明哲学可以面对普通公众——"哲学不应仅仅是学者的行话，而应是我们理解世界和我们在其中位置的努力"——他是 20 世纪"公共哲学家"的典范
 > - 据 Russell，Plutarch 的 *Life of Lycurgus* 影响了 [[Jean-Jacques Rousseau]]、Thomas Arnold 和英国公学传统（Li, 2012, p.59 脚注 36）
@@ -111,4 +105,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

@@ -7,26 +7,18 @@ summary: "一种不解释干预如何、为何以及在何种条件下有效的 
 type: concept
 tags:
 - black-box-rcts
-- RCT
+- rct
 - experimental-design
 - evidence-based-education
 - methodology
 - paradigm/positivist
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Mechanism Experiments]]'
-- '[[Randomised Controlled Trials]]'
-- '[[Improvement Science]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Randomised Controlled Trials]]'
-related_persons:
-- '[[Amelia Peterson]]'
-- '[[Dylan Wiliam]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Peterson_2016_IJRME]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -116,4 +108,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Peterson_2016_IJRME]]
+- Peterson_2016_IJRME

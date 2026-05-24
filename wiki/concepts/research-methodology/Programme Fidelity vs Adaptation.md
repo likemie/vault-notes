@@ -11,25 +11,13 @@ tags:
 - programme-fidelity
 - adaptation
 - level/k12
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Local Knowledge in Evidence-Based Policy]]'
-- '[[Visible Learning]]'
-related_theories:
-- '[[Cartwright''s Three-Stage Knowledge Framework]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Nancy Cartwright]]'
-- '[[Nick Cowen]]'
-- '[[Dylan Wiliam]]'
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Knudsen_2017_NordSTEP]]'
-sources:
-- '[[Cowen_2015_CHESS]]'
-- '[[Knudsen_2017_NordSTEP]]'
-- '[[Wiliam_2019_ERE]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -133,5 +121,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Cowen_2015_CHESS]]
-- [[Wiliam_2019_ERE]]
+- Cowen_2015_CHESS
+- Wiliam_2019_ERE

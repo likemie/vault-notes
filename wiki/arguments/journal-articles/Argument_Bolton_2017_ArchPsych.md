@@ -13,30 +13,13 @@ tags:
 - prefrontal-cortex
 - neuroscience
 - learning-science
-related_concepts:
-- '[[executive-function]]'
-- '[[prefrontal-cortex]]'
-- '[[synaptogenesis]]'
-- '[[synaptic-pruning]]'
-- '[[myelination]]'
-related_theories:
-- '[[piagets-theory-of-cognitive-development]]'
-- '[[neo-piagetian-theories]]'
-- '[[miyake-unity-diversity-framework]]'
-- '[[hebbian-principles]]'
-related_methods:
-- '[[functional-magnetic-resonance-imaging]]'
-- '[[electroencephalography]]'
-related_persons:
-- '[[Jean Piaget]]'
-- '[[Juan Pascual-Leone]]'
-- '[[Robbie Case]]'
-- '[[Kurt Fischer]]'
-- '[[Akira Miyake]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Bolton_2017_ArchPsych]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -50,9 +33,9 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[piagets-theory-of-cognitive-development]] — 皮亚杰四阶段论作为认知发展的基线框架（Bolton & Hattie, 2017, p.2–3）
-> - [[neo-piagetian-theories]] — Pascual-Leone (1970)、Case (1985, 1992)、Fischer (1980) 等新皮亚杰理论作为修正框架（Bolton & Hattie, 2017, p.3）
-> - [[miyake-unity-diversity-framework]] — Miyake et al. (2000) 的 EF 统一性与多样性框架用于定义和分解 EF 成分（Bolton & Hattie, 2017, p.4）
+> - piagets-theory-of-cognitive-development — 皮亚杰四阶段论作为认知发展的基线框架（Bolton & Hattie, 2017, p.2–3）
+> - neo-piagetian-theories — Pascual-Leone (1970)、Case (1985, 1992)、Fischer (1980) 等新皮亚杰理论作为修正框架（Bolton & Hattie, 2017, p.3）
+> - miyake-unity-diversity-framework — Miyake et al. (2000) 的 EF 统一性与多样性框架用于定义和分解 EF 成分（Bolton & Hattie, 2017, p.4）
 
 ## 研究方法
 
@@ -93,4 +76,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
+- Bolton_2017_ArchPsych

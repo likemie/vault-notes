@@ -9,42 +9,13 @@ tags:
   - reinforcement
   - subject/instruction
   - level/k12
-related_concepts:
-  - "[[Visible Learning]]"
-  - "[[Effective Teaching]]"
-  - "[[Structured Teaching]]"
-  - "[[Effect Size]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Surface and Deep Learning]]"
-  - "[[working-memory]]"
-  - "[[Student-Teacher Relationship]]"
-  - "[[Gender Differences in Academic Achievement]]"
-  - "[[Learning Analytics]]"
-  - "[[Gamification]]"
-  - "[[Data Behaviorism]]"
-related_theories:
-  - "[[Technical Rationality]]"
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Hattie]]"
-  - "[[Hilbert Meyer]]"
-  - "[[Andreas Helmke]]"
-  - "[[Klaus Nielsen]]"
+related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Hattie_2015_Paideia]]"
-  - "[[Argument_Fredens_2015_Paideia]]"
-  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
-  - "[[Argument_Håkansson_2015_TT]]"
-sources:
-  - "[[Hattie_2015_Paideia]]"
-  - "[[Hattie_2015_SOTLP]]"
-  - "[[Fredens_2015_Paideia]]"
-  - "[[Nielsen_2021_NordPsych]]"
-  - "[[Laursen_2015_Paideia]]"
-  - "[[Lekhal_2015_Paideia]]"
-  - "[[Ch14_Jornitz_2022]]"
-  - "[[Håkansson_2015_TT]]"
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: 2026-05-04
@@ -91,7 +62,7 @@ updated: 2026-05-22
 > [!note] 反馈文化与学生视角
 > Fredens（2015）把反馈再往前推进了一步，不只把它当作教学技术，而是把它理解成一种学校文化。核心问题不是老师“有没有给反馈”，而是学校是否形成了一种持续追问 `"Where to next?"` 的工作方式，也就是不断帮助学生看清下一步该往哪里走（Fredens, 2015, pp.73-74）。
 >
-> 这条线索的意义在于，它把反馈和 [[working-memory]]、元认知以及学生主动回应内容的能力连在一起。学生若只是重复老师想听的话，反馈就会退化成控制；只有当学生真的处理、调整和回应内容时，反馈才会成为学习机制（Fredens, 2015, pp.71, 73-74）。
+> 这条线索的意义在于，它把反馈和 working-memory、元认知以及学生主动回应内容的能力连在一起。学生若只是重复老师想听的话，反馈就会退化成控制；只有当学生真的处理、调整和回应内容时，反馈才会成为学习机制（Fredens, 2015, pp.71, 73-74）。
 
 ## 实证发现
 
@@ -145,11 +116,11 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Hattie_2015_Paideia]]
-- [[Hattie_2015_SOTLP]]
-- [[Fredens_2015_Paideia]]
-- [[Nielsen_2021_NordPsych]]
-- [[Laursen_2015_Paideia]]
-- [[Lekhal_2015_Paideia]]
-- [[Ch14_Jornitz_2022]]
-- [[Håkansson_2015_TT]]
+- Hattie_2015_Paideia
+- Hattie_2015_SOTLP
+- Fredens_2015_Paideia
+- Nielsen_2021_NordPsych
+- Laursen_2015_Paideia
+- Lekhal_2015_Paideia
+- Ch14_Jornitz_2022
+- Håkansson_2015_TT

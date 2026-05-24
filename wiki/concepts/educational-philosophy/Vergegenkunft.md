@@ -9,16 +9,13 @@ tags:
 - temporality
 - past-present-future
 - literature
-related_concepts:
-- '[[Transitology]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Robert Cowen]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Ch4_Amos_2022]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-08'
@@ -50,4 +47,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch4_Amos_2022]]
+- Ch4_Amos_2022

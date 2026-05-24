@@ -8,25 +8,19 @@ type: fact
 subtype: event
 region: us
 tags:
-- HomVEE
+- homvee
 - educational-evidence-clearinghouse
 - evidence-based-education
 - home-visiting
 - early-childhood
 - region/us
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Evidence-Based Education]]'
-- '[[Randomised Controlled Trials]]'
-- '[[Single-Case Design (SCD)]]'
-- '[[What Works Clearinghouse (WWC)]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -72,4 +66,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- Wadhwa_2024_RER

@@ -15,18 +15,12 @@ tags:
 - multi-method
 - educational-psychology
 - research-methodology
-related_concepts:
-- '[[Recommendations for Practice]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Non-intervention Research]]'
-- '[[Qualitative Research]]'
-- '[[Observational and Correlational Research]]'
-- '[[Intervention Research]]'
+related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Brady_2023_EPR]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -71,7 +65,7 @@ updated: '2026-05-18'
 
 - vs [[Observational and Correlational Research]] — 两者都不操纵自变量；观察/相关研究只要求量化数据，混合方法/多方法研究同时包含量化和质性数据（Brady et al., 2023, p.4）。
 - vs [[Qualitative Research]] — 质性研究只使用访谈、观察等文本数据；混合方法/多方法研究将质性资料与量化资料合并使用（Brady et al., 2023, p.4）。
-- vs [[Intervention Research]] — 混合方法/多方法研究在该文编码中仍属非干预研究；即使数据来源更多元，只要没有自变量操纵，就不能自动支撑强因果实践建议（Brady et al., 2023, pp.4, 9）。
+- vs [[Intervention Research]] — 混合方法/多方法研究在该文编码中仍属[[Non-intervention Research|非干预研究]]；即使数据来源更多元，只要没有自变量操纵，就不能自动支撑强因果[[Recommendations for Practice|实践建议]]（Brady et al., 2023, pp.4, 9）。
 
 ## 使用此方法的研究
 
@@ -80,4 +74,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Brady_2023_EPR]]
+- Brady_2023_EPR

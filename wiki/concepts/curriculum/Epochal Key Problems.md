@@ -6,25 +6,17 @@ summary: "Klafki 提出的课程组织概念，以环境危机、社会不平等
 type: concept
 tags:
 - epochal-key-problems
-- Didaktik
+- didaktik
 - subject/curriculum
 - sustainability
 - paradigm/critical
-related_concepts:
-- '[[Didaktik]]'
-- '[[Bildung]]'
-- '[[Phenomenon-Based Learning]]'
-- '[[Finnish National Core Curriculum 2014]]'
-- '[[SveaSus Project]]'
-- '[[Atomisation of Knowledge and Skills]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Wolfgang Klafki]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Schaffar_2024_CogentEdu]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -77,4 +69,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Schaffar_2024_CogentEdu]]
+- Schaffar_2024_CogentEdu

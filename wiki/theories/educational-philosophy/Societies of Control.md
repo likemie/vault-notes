@@ -3,33 +3,22 @@ title: Societies of Control
 aliases:
   - 控制社会
   - société de contrôle
-summary: Deleuze (1992) 提出的社会理论_ 后规训时代的权力形态以持续调制取代封闭式规训，教育机构被纳入企业网络逻辑，调制永不终止
+summary: "Deleuze (1992) 提出的社会理论_ 后规训时代的权力形态以持续调制取代封闭式规训，教育机构被纳入企业网络逻辑，调制永不终止"
 type: theory
 tags:
-  - Deleuze
+  - deleuze
   - societies-of-control
   - modulation
   - governmentality
   - theory/poststructuralism
   - level/higher-ed
-related_concepts:
-  - "[[Promising Student]]"
-  - "[[Online Self-Assessment]]"
-  - "[[Competitiveness in Higher Education]]"
-  - "[[Learning Analytics]]"
-  - "[[Digital Self]]"
-  - '[[Digital Optimum]]'
-  - '[[Preemptive Governance]]'
-  - '[[Stakeholder University]]'
-related_theories:
-  - "[[Governmentality]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Thompson_2022_Promising_Student]]"
-sources:
-  - "[[Ch13_Thompson_2022]]"
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: 2026-05-19
@@ -79,7 +68,7 @@ Thompson 等人（2022, p.222）引入 Bächle（2016, p.164）的解读，将 D
 > Thompson 等人（2022, pp.221–226）将控制社会理论应用于分析当代高等教育的三项治理转变：
 
 - [[Online Self-Assessment|OSA]] 作为调制工具：OSA 在入学之前就对潜在学生进行预判——这是一种先发制人的调制，将学生的入学前特征转化为可比较和可优化的数据点（pp.222–224）
-- [[Promising Student|"有前景的学生"]] 作为调制产物：[[Digital Self|数字自我]]（digital self）与数字最优（digital optimum）之间的持续差异驱动着永不终止的自我优化——这正是控制社会"没有解雇"逻辑的主体化表现（pp.224–226）
+- "[[Promising Student|有前景的学生]]" 作为调制产物：[[Digital Self|数字自我]]（digital self）与[[Digital Optimum|数字最优]]（digital optimum）之间的持续差异驱动着永不终止的自我优化——这正是控制社会"没有解雇"逻辑的主体化表现（pp.224–226）
 - [[Competitiveness in Higher Education|高等教育竞争力]] 作为网络逻辑：大学被转化为地缘政治的机会节点——连接学生、教师、政府机构、商业服务提供者和自动化代理的网络枢纽（pp.219–222）
 
 ## 争议与批评
@@ -96,4 +85,4 @@ Thompson 等人（2022, p.222）引入 Bächle（2016, p.164）的解读，将 D
 
 ## 来源
 
-- [[Ch13_Thompson_2022]]
+- Ch13_Thompson_2022

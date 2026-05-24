@@ -9,24 +9,13 @@ tags:
 - positivism
 - means-ends-thinking
 - paradigm/positivist
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
-- '[[Neo-Taylorism in Educational Administration]]'
-- '[[Scientism]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Donald Schön]]'
-- '[[John Hattie]]'
-- '[[Jürgen Habermas]]'
-- '[[Klaus Nielsen]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Nielsen_2021_IRTP]]'
-- '[[Nielsen_2021_NordPsych]]'
-- '[[Johnson_2023_CE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -106,4 +95,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Nielsen_2021_IRTP]]
+- Nielsen_2021_IRTP

@@ -12,21 +12,12 @@ tags:
 - theory/cultural-psychology
 - region/cross-cultural
 - theme/cultural-model
-related_concepts:
-- '[[Prototype Methods]]'
-- '[[Ideal Learner]]'
-- '[[Chinese Learner]]'
-- '[[Western Learner]]'
-- '[[Enculturation]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Prototype Methods]]'
-related_persons:
-- '[[Jin Li]]'
-related_arguments:
-- '[[Argument_Li_2012_Cambridge]]'
-sources:
-- '[[Li_2012_Cambridge]]'
+related_methods: []
+related_persons: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -81,7 +72,7 @@ updated: 2026-05-23
 
 Li 的两项实证研究产出的是**文化层面的**学习模型，而非个体模型。她给出两个理由（Li, 2012, pp.104-105）：
 - 模型来源于学习相关**词汇**——词汇属于文化（语言），不属于特定个人
-- 模型来源于**理想学习者形象**——这些是概括化的理想图像，而非具体的真人
+- 模型来源于**[[Ideal Learner|理想学习者形象]]**——这些是概括化的理想图像，而非具体的真人
 
 ### 2. 影响但不决定
 
@@ -109,4 +100,4 @@ Li 的研究设计体现了一种"文化模型 → 实证验证 → 文化模型
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

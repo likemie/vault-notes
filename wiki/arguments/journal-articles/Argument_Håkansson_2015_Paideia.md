@@ -12,23 +12,13 @@ tags:
 - region/sweden
 - level/k12
 - subject/instruction-pedagogy
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Effective Teaching]]'
-- '[[Feedback]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Meta-analysis]]'
-related_persons:
-- '[[John Hattie]]'
-related_facts:
-- '[[Visible Learning in Sweden]]'
-related_arguments:
-- '[[Argument_Hansen_2015_Paideia]]'
-- '[[Argument_Laursen_2015_Paideia]]'
-- '[[Argument_Allerup_2015_Paideia]]'
-sources:
-- '[[Håkansson_2015_Paideia]]'
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-20'
@@ -106,4 +96,4 @@ updated: '2026-05-20'
 
 ## 来源
 
-- [[Håkansson_2015_Paideia]]
+- Håkansson_2015_Paideia

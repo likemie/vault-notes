@@ -5,31 +5,18 @@ aliases:
 summary: "Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。"
 type: concept
 tags:
-- Cult of the Guru
+- cult-of-the-guru
 - school-leadership
 - educational-administration
 - paradigm/critical
 - region/australia
-related_concepts:
-- '[[Neo-Taylorism in Educational Administration]]'
-- '[[Visible Learning]]'
-- '[[School Leadership]]'
-related_theories:
-- '[[Pierre Bourdieu]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Scott Eacott]]'
-- '[[John Hattie]]'
-related_facts:
-- '[[Visible Learning Branding and Global Influences]]'
-related_arguments:
-- '[[Argument_Eacott_2017_SLM]]'
-- '[[Argument_Hattie_2017_SLM]]'
-sources:
-- '[[Eacott_2017_SLM]]'
-- '[[Hattie_2017_SLM]]'
-- '[[Eacott_2019_IJLE]]'
-- '[[Johnson_2023_CE]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -141,7 +128,7 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Eacott_2017_SLM]]
-- [[Hattie_2017_SLM]]
-- [[Eacott_2019_IJLE]]
-- [[Johnson_2023_CE]]
+- Eacott_2017_SLM
+- Hattie_2017_SLM
+- Eacott_2019_IJLE
+- Johnson_2023_CE

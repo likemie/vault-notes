@@ -7,22 +7,18 @@ type: fact
 subtype: event
 region: us
 tags:
-- Theory Movement
+- theory-movement
 - educational-administration
 - region/us
 - level/higher-ed
 - paradigm/positivist
-related_concepts:
-- '[[Epistemological Break]]'
-- '[[Epistemological Vigilance]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Thomas Barr Greenfield]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Eacott_2015_EPT]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -101,4 +97,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Eacott_2015_EPT]]
+- Eacott_2015_EPT

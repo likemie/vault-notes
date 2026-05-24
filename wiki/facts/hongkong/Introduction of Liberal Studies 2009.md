@@ -8,25 +8,18 @@ subtype: policy
 region: hongkong
 issuing_organization: ''
 tags:
-- Liberal Studies (Hong Kong)
+- liberal-studies-hong-kong
 - region/china
 - level/k12
 - curriculum-reform
 - 3-3-4-reform
-related_concepts:
-- '[[Liberal Studies (Hong Kong)]]'
-- '[[Policy Borrowing]]'
-- '[[National Education in Hong Kong]]'
-related_theories:
-- '[[Policy Borrowing]]'
-- '[[World Society Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Tung Chee-hwa]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Yan_2025_JCS]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -108,4 +101,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Yan_2025_JCS]]
+- Yan_2025_JCS

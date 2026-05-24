@@ -7,26 +7,19 @@ publication_type: journal-article
 journal: School Leadership & Management
 citation: Hattie, J. (2017). Educators are not uncritical believers of a cult figure. School Leadership & Management, 37(4), 427–430.
 tags:
-- Visible Learning
-- Cult of the Guru
-- Neo-Taylorism
+- visible-learning
+- cult-of-the-guru
+- neo-taylorism
 - school-leadership
 - paradigm/positivist
 - region/australia
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Cult of the Guru]]'
-- '[[Neo-Taylorism in Educational Administration]]'
-- '[[Critic and Conscience of Society]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Scott Eacott]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Hattie_2017_SLM]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-07'
@@ -40,7 +33,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Popper's Three Worlds Theory|Popper（1959）]] — 证伪主义（falsifiability）：做出大胆猜想并接受证伪是学术进步的本质。Hattie 声称 VL 包含许多"大胆猜想"，因此"容易被证伪"（p.428）
+> - Popper（1959） — 证伪主义（falsifiability）：做出大胆猜想并接受证伪是学术进步的本质。Hattie 声称 VL 包含许多"大胆猜想"，因此"容易被证伪"（p.428）
 > - Alexander（2010）的四种腐蚀性话语（dichotomy, derision, myth, meaninglessness）——加上 Eacott（2017）新增的 cult 话语，Hattie 以此框架分析批评模式（p.427）
 > - Said（1993）的公共知识分子概念——学者需站在社会与制度之外积极扰动现状，同时面向尽可能广泛的公众（p.427）
 
@@ -66,7 +59,7 @@ updated: '2026-05-18'
 
 > [!success] 主要发现
 > - Hattie 声称 Popper 的证伪主义是其方法论的核心哲学基础（p.428）
-> - 将 [[Argument_Snook_2009_NZJES|Snook et al.（2009）]]的批评用作自身课程的教学文本，以此论证自己欢迎批评（p.428）
+> - 将 Snook et al.（2009）的批评用作自身课程的教学文本，以此论证自己欢迎批评（p.428）
 > - 声称 VL 的核心猜想——通过学生眼睛看学习、学生成为自身教师、成功标准、Know thy impact、信任关系、反馈、学习策略、邀请性学校——"so far no critique (that I know about)" 证伪了这些猜想（p.428）
 > - 指出 Hattie, Masters & Birch（2016）已共同撰写了关于 VL 实施效果的案例书（p.427–428）
 > - 将 Eacott 的批评定性为忽视了 VL 的核心教育思想，仅关注管理主义、研究方法和"不加批判接受的指令"（p.428）
@@ -80,11 +73,11 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - [[Argument_Eacott_2019_IJLE|Eacott（2019）]]指出 Hattie 的回应在两天内被接受发表，而 Eacott 原论文经历了"数月和多轮评审"（Eacott, 2019, p.777）
+> - Eacott（2019）指出 Hattie 的回应在两天内被接受发表，而 Eacott 原论文经历了"数月和多轮评审"（Eacott, 2019, p.777）
 > - Hattie 以"ACEL 网站列出了许多其他讲者"为由否认大师崇拜的存在——Eacott 指出这回避了核心问题："尽管存在对 Hattie 方法的实质性批评，其工作仍被政治家和协会引用时仿佛是不容置疑的事实"（Eacott, 2019, p.777）
 > - Eacott 被 *School Leadership & Management* 编辑拒绝发表对 Hattie 回应的再回应——Eacott 认为这一决策"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"（Eacott, 2019, p.778）
-> - Hattie 声称 VL 的核心猜想"未被批评"——然而 [[Argument_Snook_2009_NZJES|Snook et al.（2009）]]、[[Argument_Rømer_2018_EPT|Rømer（2018）]]和多位批评者已深入质疑其认识论前提
+> - Hattie 声称 VL 的核心猜想"未被批评"——然而 Snook et al.（2009）、Rømer（2018）和多位批评者已深入质疑其认识论前提
 
 ## 来源
 
-- [[Hattie_2017_SLM]]
+- Hattie_2017_SLM

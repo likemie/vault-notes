@@ -7,26 +7,19 @@ publication_type: journal-article
 journal: ECNU Review of Education
 citation: Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24.
 tags:
-- Evidence-Based Reform
-- Evidence-Based Education
+- evidence-based-reform
+- evidence-based-education
 - region/china
 - region/us
 - region/uk
 - level/k12
-related_concepts:
-- '[[Evidence-Based Reform]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Randomised Controlled Trials]]'
-related_persons:
-- '[[Robert Slavin]]'
-- '[[Alan C. K. Cheung]]'
-- '[[Tengteng Zhuang]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Slavin_2021_ROE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -90,4 +83,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Slavin_2021_ROE]]
+- Slavin_2021_ROE

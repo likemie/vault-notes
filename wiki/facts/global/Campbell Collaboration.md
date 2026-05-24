@@ -14,19 +14,13 @@ tags:
   - theme/evidence-based-education
   - theme/systematic-review
   - policy/evidence-informed-policy
-related_concepts:
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[EU Evidence-Informed Education Policy Initiatives]]"
-related_arguments:
-  - "[[Argument_Pellegrini_2021_ROE]]"
-sources:
-  - "[[Pellegrini_2021_ROE]]"
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -65,7 +59,7 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning]
-> 该组织的系统综述能提供跨研究证据，但进入欧洲教育政策时仍面对 [[Argument_Pellegrini_2021_ROE|可迁移性问题]]：同一干预在不同教育系统、课程、语言和地方条件中未必产生相同效果（Pellegrini & Vivanet, 2021, pp.35-36）。
+> 该组织的系统综述能提供跨研究证据，但进入欧洲教育政策时仍面对 可迁移性问题：同一干预在不同教育系统、课程、语言和地方条件中未必产生相同效果（Pellegrini & Vivanet, 2021, pp.35-36）。
 
 ## 相关概念／理论
 
@@ -75,4 +69,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Pellegrini_2021_ROE]]
+- Pellegrini_2021_ROE

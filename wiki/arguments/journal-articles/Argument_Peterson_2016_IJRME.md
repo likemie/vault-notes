@@ -1,6 +1,6 @@
 ---
 title: Argument_Peterson_2016_IJRME
-summary: "以文献综述和美英 What Works 倡议对话为基础，提出以机制实验和改进网络为双重支柱的\"什么有效 2.0\"整合框架"
+summary: "以文献综述和美英 What Works 倡议对话为基础，提出以机制实验和改进网络为双重支柱的“什么有效 2.0“整合框架"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -10,24 +10,16 @@ tags:
 - evidence-based-education
 - mechanism-experiments
 - improvement-science
-- black-box-RCTs
+- black-box-rcts
 - what-works
 - research-methodology
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Mechanism Experiments]]'
-- '[[Improvement Science]]'
-- '[[Black Box RCTs]]'
-- '[[Spirals of Inquiry]]'
-related_theories:
-- '[[Cartwright''s Three-Stage Knowledge Framework]]'
-related_methods:
-- '[[Randomised Controlled Trials]]'
+related_concepts: []
+related_theories: []
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Peterson_2016_IJRME]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -108,4 +100,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Peterson_2016_IJRME]]
+- Peterson_2016_IJRME

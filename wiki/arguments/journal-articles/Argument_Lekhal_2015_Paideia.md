@@ -13,25 +13,13 @@ tags:
 - level/k12
 - subject/research-methodology
 - subject/psychology
-related_concepts:
-- '[[Gender Differences in Academic Achievement]]'
-- '[[School Norm Adaptation]]'
-- '[[Motivation and Work Effort]]'
-- '[[Student-Teacher Relationship]]'
-- '[[Classroom Learning Culture]]'
-- '[[Learning-Impeding Behavior]]'
-- '[[Self-control]]'
-- '[[Assertiveness]]'
-- '[[Feedback]]'
-related_theories:
-- '[[Transactional Epistemology]]'
-related_methods:
-- '[[Observational and Correlational Research]]'
+related_concepts: []
+related_theories: []
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Lekhal_2015_Paideia]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-06'
@@ -155,4 +143,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Lekhal_2015_Paideia]]
+- Lekhal_2015_Paideia

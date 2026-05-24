@@ -8,21 +8,19 @@ type: fact
 subtype: event
 region: us
 tags:
-- Daubert
+- daubert
 - junk-science
 - region/us
 - legal
 - evidence-standards
 - subject/research-methodology
-related_concepts:
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Berk_2011_ER]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -66,4 +64,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Berk_2011_ER]]
+- Berk_2011_ER

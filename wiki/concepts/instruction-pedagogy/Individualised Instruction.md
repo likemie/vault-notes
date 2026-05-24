@@ -10,23 +10,13 @@ tags:
   - differentiated-instruction
   - subject/instruction
   - level/k12
-related_concepts:
-  - "[[Structured Teaching]]"
-  - "[[Effective Teaching]]"
-  - "[[Visible Learning]]"
-  - "[[Feedback]]"
-  - "[[Direct Instruction]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Hattie]]"
-  - "[[Andreas Helmke]]"
+related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Håkansson_2015_TT]]"
-sources:
-  - "[[Laursen_2015_Paideia]]"
-  - "[[Håkansson_2015_TT]]"
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: "2026-05-05"
@@ -85,5 +75,5 @@ updated: "2026-05-22"
 
 ## 来源
 
-- [[Laursen_2015_Paideia]]
-- [[Håkansson_2015_TT]]
+- Laursen_2015_Paideia
+- Håkansson_2015_TT

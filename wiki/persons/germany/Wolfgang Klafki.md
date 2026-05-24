@@ -6,24 +6,17 @@ summary: "德国教育学家和 Didaktik 代表人物，范畴教育学与关键
 type: person
 nationality: germany
 tags:
-- Wolfgang-Klafki
-- Didaktik
-- Bildung
+- wolfgang-klafki
+- didaktik
+- bildung
 - curriculum
 - region/germany
-related_concepts:
-- '[[Didaktik]]'
-- '[[Bildung]]'
-- '[[Epochal Key Problems]]'
-- '[[Phenomenon-Based Learning]]'
-- '[[Finnish National Core Curriculum 2014]]'
-- '[[Atomisation of Knowledge and Skills]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Schaffar_2024_CogentEdu]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -72,4 +65,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[Schaffar_2024_CogentEdu]]
+- Schaffar_2024_CogentEdu

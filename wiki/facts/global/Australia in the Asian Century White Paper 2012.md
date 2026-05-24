@@ -5,7 +5,7 @@ aliases:
 - Asian Century White Paper
 - Henry Report 2012
 - 亚洲世纪白皮书
-summary: "澳大利亚 Henry Report：将亚洲崛起定位为\"澳大利亚的机遇\"，推动 AISRF、ACSRF 等与亚洲的研究合作"
+summary: "澳大利亚 Henry Report：将亚洲崛起定位为“澳大利亚的机遇“，推动 AISRF、ACSRF 等与亚洲的研究合作"
 type: fact
 subtype: policy
 region: global
@@ -17,19 +17,13 @@ tags:
 - research-policy
 - region/asia
 - region/australia
-related_concepts:
-- '[[Internationalization of Higher Education]]'
-- '[[Transnational Research Collaboration in Higher Education]]'
-- '[[Geopolitics of Knowledge]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Fazal Rizvi]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Rizvi_2022_Springer]]'
-sources:
-- '[[Ch6_Rizvi_2022]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -84,4 +78,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch6_Rizvi_2022]]
+- Ch6_Rizvi_2022

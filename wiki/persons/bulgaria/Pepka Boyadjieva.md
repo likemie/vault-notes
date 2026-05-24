@@ -11,17 +11,12 @@ tags:
 - rankings
 - region/bulgaria
 - capability-approach
-related_concepts:
-- '[[Global Universities Rankings]]'
-related_theories:
-- '[[Capability Approach in Education]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Ellen Hazelkorn]]'
-related_arguments:
-- '[[Argument_Boyadjieva_2022_Springer]]'
-sources:
-- '[[Ch8_Boyadjieva_2022]]'
+related_persons: []
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -61,7 +56,7 @@ updated: '2026-05-19'
 
 - APA：Boyadjieva, P., & Ilieva-Trichkova, P. (2020). Inclusion and fairness in access to higher education: Theoretical distinctions, measurement and patterns of interactions. In L. Weimer & T. Nokkala (Eds.), *Universities as political institutions* (pp. 237–261). Brill.
 - 核心内容：区分高等教育的包容性（inclusion）与公平性（fairness），并分析二者的测量和互动模式（Boyadjieva, 2022, p.141）。
-- 思想位置：将多维使命模型中的社会正义维度进一步操作化。
+- 思想位置：将多维使命模型中的社会正[[Rightness|义]]维度进一步操作化。
 - 相关概念／理论：[[Capability Approach in Education]]
 
 ### 2022 — *(Un)avoidable Clash: Higher Education at the Altar of Its Missions and Rankings*
@@ -78,10 +73,10 @@ updated: '2026-05-19'
 > [!tip]
 > Boyadjieva 的核心理论贡献是与 Ilieva-Trichkova 共同发展的高等教育多维使命模型。该模型沿两条轴线组织：（1）影响层面——个体 vs 社会；（2）影响性质——工具性（instrumental）、内在性（intrinsic）和转化/赋权性（transformative/empowering）。由此形成 2×3 的矩阵框架，系统展现高等教育作为制度的复杂多元使命（Boyadjieva, 2022, pp.128–130）。
 
-该模型揭示：全球排名仅捕获了高等教育使命矩阵中极小的一部分——主要是个体层面的工具性价值（就业力）和社会层面的工具性价值（经济增长、创新）——而系统性地忽略了高等教育的内在价值（知识本身、理性、宽容等社会价值的合法化）和转化/赋权价值（人格发展、批判性思维、社会群体流动和参与）（Boyadjieva, 2022, pp.132–136）。
+该模型揭示：全球排名仅捕获了高等教育使命矩阵中极小的一部分——主要是个体层面的工具性价值（[[Employability|就业力]]）和社会层面的工具性价值（经济增长、创新）——而系统性地忽略了高等教育的内在价值（知识本身、理性、宽容等社会价值的合法化）和转化/赋权价值（人格发展、批判性思维、社会群体流动和参与）（Boyadjieva, 2022, pp.132–136）。
 
 ---
 
 ## 来源
 
-- [[Ch8_Boyadjieva_2022]]
+- Ch8_Boyadjieva_2022

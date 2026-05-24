@@ -11,22 +11,13 @@ tags:
 - governance
 - policy-instruments
 - region/global
-related_concepts:
-- '[[Performance Indicators]]'
-- '[[Theories of Policy Change]]'
-- '[[Neocorporatism]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[Innovation Union]]'
-- '[[EU Skills Agenda]]'
-- '[[Europe 2020 Strategy]]'
-- '[[Youth Guarantee Scheme]]'
-related_arguments:
-- '[[Argument_Rambla_2022_Springer]]'
-sources:
-- '[[Ch10_Rambla_2022]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -66,7 +57,7 @@ updated: '2026-05-18'
 
 ### 筛选议题优先次序
 
-政策工具通过建构"衡量什么、如何衡量"的标准，来决定什么算作"问题"、什么算作"成功"。在欧盟，EUROSTAT 的指标体系将创新操作化为研发支出、专利数量和科技人员数量，将教育操作化为各年龄段的在学状态——这些操作化定义本身已排除了其他创新类型（如社会创新、文化创新）和教育维度（如非正式学习、公民教育）（Rambla, 2022, p.174–175）。
+政策工具通过建构"衡量什么、如何衡量"的标准，来决定什么算作"问题"、什么算作"成功"。在欧盟，EUROSTAT 的指标体系将创新操作化为研发支出、专利数量和科技人员数量，将教育操作化为各年龄段的在学状态——这些操作化定[[Rightness|义]]本身已排除了其他创新类型（如社会创新、文化创新）和教育维度（如非正式学习、公民教育）（Rambla, 2022, p.174–175）。
 
 > 例：社区组织发起的互助创新网络或传统手工艺的文化创新，即使对当地社区有显著价值，也无法在区域创新记分牌上被展示为"创新生态体系"的组成部分——因为它们不在研发支出和专利指标的捕捉范围内。
 
@@ -97,7 +88,7 @@ updated: '2026-05-18'
 
 ### 制度薄弱环境中选择性的放大效应
 
-在南欧和东欧，政策网络较弱，选择性效应更为显著。由于缺乏系统的变革理论支持，地方专业人员更容易被就业优先的绩效指标逻辑所牵引——"帮助青年尽快找到任何工作"成为压倒性的实践取向（Rambla, 2022, p.173–174）。
+在南欧和东欧，政策网络较弱，选择性效应更为显著。由于缺乏系统的变革理论支持，地方专业人员更容易被就业优先的[[Performance Indicators|绩效指标]]逻辑所牵引——"帮助青年尽快找到任何工作"成为压倒性的实践取向（Rambla, 2022, p.173–174）。
 
 ### 自下而上的选择性突破
 
@@ -123,4 +114,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch10_Rambla_2022]]
+- Ch10_Rambla_2022

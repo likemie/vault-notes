@@ -11,27 +11,13 @@ tags:
 - implementation
 - professional-judgement
 - level/k12
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Evidence-Informed Practice]]'
-- '[[Professional Judgment]]'
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Programme Fidelity vs Adaptation]]'
-related_theories:
-- '[[Cartwright''s Three-Stage Knowledge Framework]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Nancy Cartwright]]'
-- '[[Nick Cowen]]'
-- '[[Dylan Wiliam]]'
-related_facts:
-- '[[Students and Teachers Accessing Tomorrow (STAT)]]'
-related_arguments:
-- '[[Argument_Ross_Morrison_2021_ROE]]'
-sources:
-- '[[Cowen_2015_CHESS]]'
-- '[[Wiliam_2019_ERE]]'
-- '[[Ross_Morrison_2021_ROE]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -65,7 +51,7 @@ updated: '2026-05-23'
 
 ### 证据翻译知识
 
-本地知识的第二个功能是给研究证据“赋义”：抽象研究发现只有经过从业者解释，才会变成可执行的行动方案（Cowen et al., 2015, p.14）。例如，一个项目的平均[[Effect Size|效应量]]较高，并不自动说明它适合本校；学校还要判断研究学校、教师能力、学生构成、课程节奏和资源条件是否与本地足够接近（Wiliam, 2019, pp.12-13）。
+本地知识的第二个功能是给研究证据“赋[[Rightness|义]]”：抽象研究发现只有经过从业者解释，才会变成可执行的行动方案（Cowen et al., 2015, p.14）。例如，一个项目的平均[[Effect Size|效应量]]较高，并不自动说明它适合本校；学校还要判断研究学校、教师能力、学生构成、课程节奏和资源条件是否与本地足够接近（Wiliam, 2019, pp.12-13）。
 
 ### 采购与实施知识
 
@@ -129,10 +115,10 @@ updated: '2026-05-23'
 
 ### 复杂改革的地方解释
 
-- [[Students and Teachers Accessing Tomorrow (STAT)]] — 技术整合改革中，形成性数据、成就结果和地方价值目标共同影响证据解释；具体评价结果和争议集中写在 STAT 条目中（Ross & Morrison, 2021, pp.122-123）。
+- [[Students and Teachers Accessing Tomorrow (STAT)]] — [[Technology Infusion|技术整合]]改革中，形成性数据、成就结果和地方价值目标共同影响证据解释；具体评价结果和争议集中写在 STAT 条目中（Ross & Morrison, 2021, pp.122-123）。
 
 ## 来源
 
-- [[Cowen_2015_CHESS]]
-- [[Wiliam_2019_ERE]]
-- [[Ross_Morrison_2021_ROE]]
+- Cowen_2015_CHESS
+- Wiliam_2019_ERE
+- Ross_Morrison_2021_ROE

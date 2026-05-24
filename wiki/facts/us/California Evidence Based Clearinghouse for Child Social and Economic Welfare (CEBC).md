@@ -8,22 +8,18 @@ type: fact
 subtype: event
 region: us
 tags:
-- CEBC
+- cebc
 - educational-evidence-clearinghouse
 - evidence-based-education
 - child-welfare
 - region/us
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Evidence-Based Education]]'
-- '[[Randomised Controlled Trials]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -56,7 +52,7 @@ updated: '2026-05-18'
 ## 与其他清算中心的差异
 
 > [!abstract] 与其他清算中心的差异
-> CEBC 和 [[Blueprints for Healthy Youth Development|Blueprints]] 被作者归为标准较高的清算中心，主要因为它们要求长期效果；CEBC 的最高等级尤其依赖两项高质量 RCT 与至少 12 个月持续效果。与 [[What Works Clearinghouse (WWC)|WWC]] 不同，CEBC 不单独评级每项研究；与 [[National Dropout Prevention Center (NDPC)|NDPC]] 不同，它明确要求两项高质量 RCT（Wadhwa et al., 2024, pp.13–15）。
+> CEBC 和 Blueprints 被作者归为标准较高的清算中心，主要因为它们要求长期效果；CEBC 的最高等级尤其依赖两项高质量 RCT 与至少 12 个月持续效果。与 [[What Works Clearinghouse (WWC)|WWC]] 不同，CEBC 不单独评级每项研究；与 [[National Dropout Prevention Center (NDPC)|NDPC]] 不同，它明确要求两项高质量 RCT（Wadhwa et al., 2024, pp.13–15）。
 
 ## 相关概念／政策
 
@@ -67,4 +63,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- Wadhwa_2024_RER

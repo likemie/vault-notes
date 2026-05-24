@@ -12,33 +12,14 @@ tags:
 - governance
 - measurement
 - region/global
-- Comparative Education
-related_concepts:
-- '[[Theories of Policy Change]]'
-- '[[Selectivity]]'
-- '[[Regulatory Regionalism]]'
-- '[[Education at a Glance (EAG)]]'
-- '[[International Indicators of Education Systems (INES)]]'
-- '[[Sociology of Measurement]]'
-- '[[Performativity of Measurement]]'
-- '[[Network Governance]]'
-related_theories:
-- '[[Science and Technology Studies (STS)]]'
+- comparative-education
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Norberto Bottani]]'
-related_facts:
-- '[[Innovation Union]]'
-- '[[EU Skills Agenda]]'
-- '[[Europe 2020 Strategy]]'
-- '[[Youth Guarantee Scheme]]'
-- '[[INES Lugano General Assembly 1991]]'
-related_arguments:
-- '[[Argument_Rambla_2022_Springer]]'
-- '[[Argument_Gorur_2014_Discourse]]'
-sources:
-- '[[Gorur_2014_Discourse]]'
-- '[[Ch10_Rambla_2022]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -93,11 +74,11 @@ updated: '2026-05-18'
 - **分析性**：指标包含分析和解读，统计数据是原始数字
 - **派生性**：指标常合并多个数据源和多个统计量，采用数学模型刻画假设的关系
 - **跨国统一性**：指标在各国统一开发、定期重复
-- **情境依赖性**：指标的意义与其构建情境相连（Jaeger, 1978），不自我解释
+- **情境依赖性**：指标的意[[Rightness|义]]与其构建情境相连（Jaeger, 1978），不自我解释
 
 ### 技术特征：指标的功能
 
-Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策者注意潜在问题，但不替代诊断。好指标的标准：围绕最重要的政策现象；简洁精确描述；提供概览；提供比较点和趋势分析；报告多样性或差距（Gorur, 2014, p.7–8）。
+Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策者注意潜在问题，但不替代诊断。好指标的标准：围绕最重要的政策现象；简洁[[Jing (Refined Mastery)|精]]确描述；提供概览；提供比较点和趋势分析；报告多样性或差距（Gorur, 2014, p.7–8）。
 
 ### 政策工具维度：四维运作机制
 
@@ -129,7 +110,7 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 
 ### OECD 层面的指标运作
 
-- **指标影响行为**：EAG 指标被用于薪资谈判、选举策略制定；荷兰教师利用 1996 年薪资比较指标成功争取加薪（Smith & Baker, 2001, p.142; Gorur, 2014, p.3–4）
+- **指标影响行为**：[[Education at a Glance (EAG)|EAG]] 指标被用于薪资谈判、选举策略制定；荷兰教师利用 1996 年薪资比较指标成功争取加薪（Smith & Baker, 2001, p.142; Gorur, 2014, p.3–4）
 - **数据滥用的制度化**：1996 年 EAG 中，同样的 IEA 阅读素养调查数据被用于计算三种不同指标——对相同数据进行多种推论、使用并非为此目的设计的数据（Bottani, 1996, pp.283–284; Gorur, 2014, p.13）
 - **指标删除的阻力**：一旦指标被发布，即使 OECD 团队想删除，用户（政策制定者）会产生依赖并抵制。"即使我们从印刷版删除一个表格，它仍保留在网络版"（OECD 官员访谈; Gorur, 2014, p.17）
 
@@ -154,11 +135,11 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 
 ### 科学纯度 vs 政策可用性
 
-INES 从一开始就明确区分"科学研究"事业和"实用"政策事业。Bottani 主张不要对指标施加"过于严格的效度检验"，因为指标并非主要为科学研究设计——这一立场使科学家在不坚持精确性和方法论纯度的同时推进了项目。"不完美的数据总比没有数据好"的论证贯穿 INES 历史，使得一些在科学界无法接受的做法——如将不兼容的数据强行纳入统一框架——得到认可（Gorur, 2014, p.11, 13）。
+[[International Indicators of Education Systems (INES)|INES]] 从一开始就明确区分"科学研究"事业和"实用"政策事业。Bottani 主张不要对指标施加"过于严格的效度检验"，因为指标并非主要为科学研究设计——这一立场使科学家在不坚持[[Jing (Refined Mastery)|精]]确性和方法论纯度的同时推进了项目。"不完美的数据总比没有数据好"的论证贯穿 INES 历史，使得一些在科学界无法接受的做法——如将不兼容的数据强行纳入统一框架——得到认可（Gorur, 2014, p.11, 13）。
 
 ### 线性简化与窄化效应
 
-绩效指标倾向于将复杂的政策现实简化为若干可量化指标（如研发支出、专利数量）。这种简化不仅忽视区域在创新类型和制度背景上的差异，还通过"定义什么算作创新"来排斥无法被量化的创新形式。在终身学习领域，指标系统性地优先就业匹配指标，边缘化个人发展和公民参与维度（Rambla, 2022, p.174）。
+绩效指标倾向于将复杂的政策现实简化为若干可量化指标（如研发支出、专利数量）。这种简化不仅忽视区域在创新类型和制度背景上的差异，还通过"定[[Rightness|义]]什么算作创新"来排斥无法被量化的创新形式。在终身学习领域，指标系统性地优先就业[[Matching|匹配]]指标，边缘化个人发展和公民参与维度（Rambla, 2022, p.174）。
 
 ### 同质化效应与区域不平等的固化
 
@@ -180,5 +161,5 @@ INES 从一开始就明确区分"科学研究"事业和"实用"政策事业。Bo
 
 ## 来源
 
-- [[Gorur_2014_Discourse]]
-- [[Ch10_Rambla_2022]]
+- Gorur_2014_Discourse
+- Ch10_Rambla_2022

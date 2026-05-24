@@ -9,18 +9,12 @@ tags:
 - systems-theory
 - teaching-learning
 related_concepts: []
-related_theories:
-- '[[Bounded Rationality]]'
-- '[[Luhmann''s Systems Theory]]'
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Niklas Luhmann]]'
-- '[[Steen Nepper Larsen]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Larsen_2019_EducSci]]'
-- '[[Qvortrup_2019_NordSTEP]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -73,5 +67,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Qvortrup_2019_NordSTEP]]
-- [[Larsen_2019_EducSci]]
+- Qvortrup_2019_NordSTEP
+- Larsen_2019_EducSci

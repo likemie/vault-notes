@@ -15,21 +15,13 @@ tags:
 - world-culture-theory
 - region/china
 - level/k12
-related_concepts:
-- '[[Liberal Studies (Hong Kong)]]'
-- '[[Citizenship and Social Development (Hong Kong)]]'
-- '[[Policy Borrowing]]'
-related_theories:
-- '[[Cuban''s Curriculum Change Theory]]'
-- '[[World Society Theory]]'
-- '[[Policy Borrowing]]'
-related_methods:
-- '[[Historical Document Analysis of Curriculum]]'
+related_concepts: []
+related_theories: []
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Yan_2025_JCS]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -169,4 +161,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Yan_2025_JCS]]
+- Yan_2025_JCS

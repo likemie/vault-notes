@@ -12,18 +12,12 @@ tags:
 - postmodernism
 - philosophy
 - knowledge
-related_concepts:
-- '[[Narrative Knowledge]]'
-- '[[Geopolitics of Knowledge]]'
-- '[[Knowledge Transfer]]'
-- '[[Forced Knowledge Transfer]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_arguments:
-- '[[Argument_Partaken_2022_Springer]]'
-sources:
-- '[[Ch5_Partaken_2022]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -37,7 +31,7 @@ updated: '2026-05-19'
 > [!info]
 > Jean-François Lyotard（1924–1998），法国后结构主义哲学家，以其对后现代状况的分析而闻名。他的学术生涯跨越现象学、马克思主义、精神分析、语言哲学和美学等多个领域，但其最具影响力的贡献是 1979 年出版的《后现代状况：关于知识的报告》（*La condition postmoderne: rapport sur le savoir*），该书将"后现代"从建筑和艺术批评术语提升为哲学和社会理论的核心概念。
 
-Lyotard 出生于凡尔赛，早年在索邦大学学习哲学，后加入社会主义或野蛮（Socialisme ou Barbarie）团体从事激进政治活动。1954 年取得国家博士学位，先后在索邦大学、南泰尔大学、巴黎第八大学任教。1970 年代末转向后现代理论，在魁北克政府委托下撰写了《后现代状况》。晚年任教于美国多所大学，1998 年因白血病在巴黎去世。
+Lyotard 出生于凡尔赛，早年在索邦大学学习哲学，后加入社会主[[Rightness|义]]或野蛮（Socialisme ou Barbarie）团体从事激进政治活动。1954 年取得国家博士学位，先后在索邦大学、南泰尔大学、巴黎第八大学任教。1970 年代末转向后现代理论，在魁北克政府委托下撰写了《后现代状况》。晚年任教于美国多所大学，1998 年因白血病在巴黎去世。
 
 ---
 
@@ -45,7 +39,7 @@ Lyotard 出生于凡尔赛，早年在索邦大学学习哲学，后加入社会
 
 > [!abstract]
 > - Lyotard, J.-F. (1971). *Discours, figure*. Klincksieck. — 早期代表作，在结构主义主导的时代为感性经验（figure）辩护，批评语言符号对视觉和身体经验的压制
-> - Lyotard, J.-F. (1979/1984). *The Postmodern Condition: A Report on Knowledge*. University of Minnesota Press. — 最具影响力的作品。提出"对元叙事的怀疑"作为后现代状况的定义，区分[[Narrative Knowledge|叙事知识与科学知识]]，并引入"表演性"（performativity）概念分析知识在后工业社会中的合法化逻辑
+> - Lyotard, J.-F. (1979/1984). *The Postmodern Condition: A Report on Knowledge*. University of Minnesota Press. — 最具影响力的作品。提出"对元叙事的怀疑"作为后现代状况的定义，区分叙事知识与科学知识，并引入"表演性"（performativity）概念分析知识在后工业社会中的合法化逻辑
 > - Lyotard, J.-F. (1983). *Le Différend*. Éditions de Minuit. — 晚期哲学代表作，探讨不同话语类型（genres of discourse）之间的不可通约性，论证不存在可以公允裁决所有冲突的元语言
 > - Lyotard, J.-F. (1988/1991). *The Inhuman: Reflections on Time*. Stanford University Press. — 批评"发展"话语已成为无需终极目的的准形而上学，技术系统以其自主逻辑驱逐人文时间
 
@@ -69,7 +63,7 @@ Lyotard 出生于凡尔赛，早年在索邦大学学习哲学，后加入社会
 ## 影响
 
 > [!success]
-> - Lyotard 的[[Narrative Knowledge|叙事知识／科学知识区分]]成为[[Geopolitics of Knowledge|知识地缘政治]]（GPK）研究的关键分析工具。Partaken (2022) 运用此区分论证叙事知识在全球 GPK 中处于急剧衰退——不是因为后现代对元叙事的怀疑，而是因为具有商业价值的科学知识得到了国家和产业的有力赞助和推动
+> - Lyotard 的叙事知识／科学知识区分成为[[Geopolitics of Knowledge|知识地缘政治]]（GPK）研究的关键分析工具。Partaken (2022) 运用此区分论证叙事知识在全球 GPK 中处于急剧衰退——不是因为后现代对元叙事的怀疑，而是因为具有商业价值的科学知识得到了国家和产业的有力赞助和推动
 > - 其表演性概念深刻影响了教育社会学和高等教育研究，被广泛用于分析大学排名、研究评估、学术资本主义等现象
 > - 晚年"发展作为非人的准形而上学"的批判为当代技术哲学和批判数据研究提供了理论资源
 
@@ -77,4 +71,4 @@ Lyotard 出生于凡尔赛，早年在索邦大学学习哲学，后加入社会
 
 ## 来源
 
-- [[Ch5_Partaken_2022]]
+- Ch5_Partaken_2022

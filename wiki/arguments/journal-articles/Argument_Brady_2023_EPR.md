@@ -12,23 +12,13 @@ tags:
 - causal-inference
 - recommendations-for-practice
 - evidence-based-education
-related_concepts:
-- '[[Recommendations for Practice]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Intervention Research]]'
-- '[[Non-intervention Research]]'
-- '[[Observational and Correlational Research]]'
-- '[[Qualitative Research]]'
-- '[[Mixed Method and Multi-method Research]]'
-- '[[Causal Modeling]]'
-- '[[Randomised Controlled Trials]]'
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Brady_2023_EPR]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -57,7 +47,7 @@ updated: '2026-05-18'
 
 > [!example] 核心论证
 > 1. **教育心理学研究序列正在停在相关阶段**：如果目标是指导实践，描述性和相关研究应通向干预假设检验；但过去 30 年经验教育心理学期刊中干预研究下降、观察/相关研究上升，显示研究序列常在非干预阶段结束（Brady et al., 2023, pp.2-3）。
-> 2. **非干预研究的实践建议构成因果推论风险**：作者以一项[[Causal Modeling|结构方程模型]]研究为例说明，研究没有变量操纵，却在实践意义部分建议操纵某变量以改善另一变量；这体现了用观察数据推断因果关系并给出基于假定因果性的 RFP（Brady et al., 2023, p.3）。
+> 2. **非干预研究的实践建议构成因果推论风险**：作者以一项结构方程模型研究为例说明，研究没有变量操纵，却在实践意义部分建议操纵某变量以改善另一变量；这体现了用观察数据推断因果关系并给出基于假定因果性的 RFP（Brady et al., 2023, p.3）。
 > 3. **2020 年趋势延续并复杂化**：干预研究比例自 2010 年后稳定在 25%，随机实验继续降至 20%；观察/相关研究比例从 2010 年的 66% 降至 2020 年的 46%，但这主要伴随质性研究上升至 22%，非干预研究总体仍约占四分之三（Brady et al., 2023, pp.6-7）。
 > 4. **RFP 在非干预研究中继续增长**：观察/相关文章含 RFP 的比例从 2000 年 41%、2010 年 46% 上升至 2020 年 66%；质性研究和混合方法/多方法研究中也分别有 65% 与 60% 包含 RFP，说明 2020 年约三分之二的非干预文章提出实践建议（Brady et al., 2023, pp.6-7）。
 > 5. **出版制度可能强化这种错配**：作者观察到一些论文在讨论部分给出清晰 RFP，却在局限性部分承认不能得出因果结论、仍需实验研究；期刊、审稿人或出版方对实践意义的期待可能形成反馈循环，使作者把 RFP 视为规范写作的一部分（Brady et al., 2023, p.9）。
@@ -89,4 +79,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Brady_2023_EPR]]
+- Brady_2023_EPR

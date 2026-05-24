@@ -10,23 +10,13 @@ tags:
 - student-engagement
 - higher-education
 - level/higher-ed
-related_concepts:
-- '[[Academic and Social Integration]]'
-- '[[Student Involvement]]'
-- '[[Academic Engagement]]'
-- '[[Social Engagement]]'
-- '[[Goal-Controlled Mode]]'
-- '[[Intuition-Dependent Mode]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[George Kuh]]'
-- '[[Alexander Astin]]'
-- '[[Vincent Tinto]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -40,7 +30,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 学生投入（Student Engagement）是美国高等教育研究者[[George Kuh]]（1991）在 *Involving Colleges* 等著作中系统提出的概念，指学生向学校中"教育性实践活动"（educationally purposeful activities）投入的时间和精力。投入越多，越可能产出积极的教育结果。
+> 学生投入（Student Engagement）是美国高等教育研究者George Kuh（1991）在 *Involving Colleges* 等著作中系统提出的概念，指学生向学校中"教育性实践活动"（educationally purposeful activities）投入的时间和精力。投入越多，越可能产出积极的教育结果。
 
 > [!quote]
 > 学生的专注或投入（engagement）——往学校里的"教育性实践"活动中投入的时间和精力——越多，越可能产出积极的教育结果（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
@@ -62,8 +52,8 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]
-> - **1984 前身**：[[Alexander Astin|Astin]] 提出[[Student Involvement|学生涉入理论]]，奠定"投入-成果"关联的基础假设（郑雅君，2023，引 Astin, 1984）
-> - **1991 系统化**：[[George Kuh|Kuh]] 在 Astin 和 [[Vincent Tinto|Tinto]] 基础上，于 *Involving Colleges* 中系统提出学生投入理论，将投入操作化为可观察的行为指标，并首次强调学校的制度性支持角色（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
+> - **1984 前身**：Astin 提出学生涉入理论，奠定"投入-成果"关联的基础假设（郑雅君，2023，引 Astin, 1984）
+> - **1991 系统化**：Kuh 在 Astin 和 Tinto 基础上，于 *Involving Colleges* 中系统提出学生投入理论，将投入操作化为可观察的行为指标，并首次强调学校的制度性支持角色（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
 > - **2000s 实证积累**：Pascarella & Terenzini（2005）综合大量实证研究，确认投入-成果的正向关联（郑雅君，2023）
 > - **2023 中国教育研究深化**：[[Yajun Zheng|郑雅君]]在 Kuh 基础上引入**方向性**维度——投入不仅有多寡之分（量），更有策略性方向的区别（质）。这一发现超越了"投入越多越好"的线性假设（郑雅君，2023）
 
@@ -128,4 +118,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

@@ -7,20 +7,16 @@ summary: "功能性磁共振成像（fMRI）：通过测量脑区血液成分记
 type: method
 method_type: quantitative
 tags:
-- fMRI
+- fmri
 - neuroimaging
 - neuroscience
 - paradigm/positivist
-related_concepts:
-- '[[prefrontal-cortex]]'
-- '[[executive-function]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[electroencephalography]]'
+related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[Bolton_2017_ArchPsych]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -34,7 +30,7 @@ updated: '2026-05-18'
 
 ## 操作原理
 
-fMRI 测量特定脑区血液成分的存在，基于以下原理：活跃的脑区需要更多血流以供应氧气和葡萄糖。因此血液成分的变化可作为神经活动的间接指标（Bolton & Hattie, 2017, p.2）。
+fMRI 测量特定脑区血液成分的存在，基于以下原理：活跃的脑区需要更多血流以供应氧气和葡萄糖。因此血液成分的变化可作为神经活动的间接指标（Bolton & [[John Hattie|Hattie]], 2017, p.2）。
 
 ## 适用场景
 
@@ -51,13 +47,13 @@ fMRI 测量特定脑区血液成分的存在，基于以下原理：活跃的脑
 
 ## 与其他技术的比较
 
-- **vs [[electroencephalography|EEG]]** — fMRI 空间分辨率优于时间分辨率；EEG 可测量毫秒级脑活动增量，时间分辨率更佳（Bolton & Hattie, 2017, p.2）
+- **vs [[Electroencephalography|EEG]]** — fMRI 空间分辨率优于时间分辨率；EEG 可测量毫秒级脑活动增量，时间分辨率更佳（Bolton & [[John Hattie|Hattie]], 2017, p.2）
 - fMRI 和 PET 均可单独使用或与 EEG 结合使用，以关联认知功能任务表现与特定脑区（Bolton & Hattie, 2017, p.2）
 
 ## 相关研究
 
-- [[Argument_Bolton_2017_ArchPsych]] — 综述中引用的多项研究使用 fMRI 检验 PFC 在 EF 任务中的激活模式
+- [[Argument_Bolton_2017_ArchPsych]] — 综述中引用的多项研究使用 fMRI 检验 [[Prefrontal Cortex|PFC]] 在 [[Executive Function|EF]] 任务中的激活模式
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
+- Bolton_2017_ArchPsych

@@ -10,23 +10,13 @@ tags:
 - educational-transfer
 - comparative-education
 - region/global
-related_concepts:
-- '[[Policy Borrowing]]'
-- '[[Externalization (Schriewer)]]'
-- '[[Argument_Rappleye_2006_RCIE]]'
-- '[[American Attraction to Japanese Education 1980s]]'
-- '[[Late Qing Borrowing of Japanese Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[David Phillips]]'
-- '[[Kimberly Ochs]]'
-- '[[Gita Steiner-Khamsi]]'
-- '[[Jurgen Schriewer]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Rappleye_2006_RCIE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -144,4 +134,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Rappleye_2006_RCIE]]
+- Rappleye_2006_RCIE

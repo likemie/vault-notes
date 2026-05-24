@@ -2,7 +2,7 @@
 title: Phenomenology
 aliases:
   - 现象学
-summary: "以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的\"现象\"概念和教育意义"
+summary: "以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的“现象“概念和教育意义"
 type: theory
 tags:
 - phenomenology
@@ -10,18 +10,13 @@ tags:
 - ontology
 - epistemology
 - paradigm/interpretivist
-related_concepts:
-- '[[Phenomenon-Based Learning]]'
-- '[[Bildung]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Philosophical Analysis in Education]]'
-related_persons:
-- '[[Gert Biesta]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Schaffar_2024_CogentEdu]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -83,4 +78,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Schaffar_2024_CogentEdu]]
+- Schaffar_2024_CogentEdu

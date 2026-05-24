@@ -8,23 +8,19 @@ type: fact
 subtype: event
 region: uk
 tags:
-- ResearchED
+- researched
 - evidence-based-education
 - teacher-movement
-- RCT
+- rct
 - synthetic-phonics
 - region/uk
-related_concepts:
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Terry Wrigley]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wrigley_2018_BERJ]]'
-- '[[Wrigley_2019_ERE]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -103,5 +99,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wrigley_2018_BERJ]]
-- [[Wrigley_2019_ERE]]
+- Wrigley_2018_BERJ
+- Wrigley_2019_ERE

@@ -9,27 +9,13 @@ tags:
   - explicit-instruction
   - subject/instruction
   - level/k12
-related_concepts:
-  - "[[Structured Teaching]]"
-  - "[[Effective Teaching]]"
-  - "[[Visible Learning]]"
-  - "[[Feedback]]"
-  - "[[Individualised Instruction]]"
-  - "[[Problem-Based Learning]]"
-  - "[[Side Effects in Education]]"
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[John Hattie]]"
-  - "[[Yong Zhao]]"
+related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Håkansson_2015_TT]]"
-sources:
-  - "[[Zhao_2017_JEC]]"
-  - "[[Hattie_2015_SOTLP]]"
-  - "[[Fredens_2015_Paideia]]"
-  - "[[Håkansson_2015_TT]]"
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: "2026-05-04"
@@ -96,7 +82,7 @@ updated: "2026-05-22"
 
 ## 来源
 
-- [[Zhao_2017_JEC]]
-- [[Hattie_2015_SOTLP]]
-- [[Fredens_2015_Paideia]]
-- [[Håkansson_2015_TT]]
+- Zhao_2017_JEC
+- Hattie_2015_SOTLP
+- Fredens_2015_Paideia
+- Håkansson_2015_TT

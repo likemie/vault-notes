@@ -1,6 +1,6 @@
 ---
 title: Argument_Wadhwa_2024_RER
-summary: "比较 12 个教育证据清算中心的有效性标准与项目评级一致性，发现\"evidence-based\"在清算中心语境中构念效度有限"
+summary: "比较 12 个教育证据清算中心的有效性标准与项目评级一致性，发现“evidence-based“在清算中心语境中构念效度有限"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -11,21 +11,15 @@ tags:
 - evidence-based-education
 - clearinghouse
 - what-works
-- RER
+- rer
 - methodology
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Evidence-Based Education]]'
-- '[[Evidence-Based Reform]]'
-related_theories:
-- '[[Campbellian Validity Framework]]'
-related_methods:
-- '[[Randomised Controlled Trials]]'
+related_concepts: []
+related_theories: []
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wadhwa_2024_RER]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -50,7 +44,7 @@ updated: '2026-05-18'
 > - 方法：比较综述与描述性分析。作者识别美国和英国 43 个清算中心，按是否发布自身有效性评级、是否可在线访问、是否聚焦 pre-K 至大学教育干预与教育结果筛选出 12 个教育清算中心（Wadhwa et al., 2024, p.5）。
 > - 数据来源：2019 年 6 月至 2020 年 8 月，作者收集并编码 12 个清算中心网站资料，包括目标人群、政策焦点、资金来源、被评价干预类型、研究评级过程、单项研究与整体项目效果标准、项目纳入标准等（Wadhwa et al., 2024, p.5）。
 > - 样本：评级一致性分析最终包括 10 个清算中心的 1,359 个教育项目；两个清算中心被排除在量化一致性分析之外，原因是其项目评级方式或项目命名/状态不适合纳入同一比较框架（Wadhwa et al., 2024, pp.16–17）。
-> - 案例分析：作者进一步细读 [[Open Court Reading]]、[[Success for All]]、[[Peer-Assisted Learning Strategies (PALS)|Peer-Assisted Learning Strategies]]、[[Quantum Opportunity Program (QOP)|Quantum Opportunity Program]]、[[Communities in Schools (CIS)|Communities in Schools]] 五个被多个清算中心评价的项目，以解释评级差异的具体来源（Wadhwa et al., 2024, pp.22–25）。
+> - 案例分析：作者进一步细读 [[Open Court Reading]]、[[Success for All]]、Peer-Assisted Learning Strategies、Quantum Opportunity Program、Communities in Schools 五个被多个清算中心评价的项目，以解释评级差异的具体来源（Wadhwa et al., 2024, pp.22–25）。
 
 ## 表格提要
 
@@ -231,4 +225,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- Wadhwa_2024_RER

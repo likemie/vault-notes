@@ -11,23 +11,13 @@ tags:
 - subject/curriculum
 - level/k12
 - paradigm/constructivist
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Simple View of Reading]]'
-- '[[Language Experience Approach]]'
-- '[[Synthetic Phonics]]'
-- '[[Meta-analysis]]'
-- '[[Direct Instruction]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Ken Goodman]]'
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[OConnor_2020_AJLL]]'
-- '[[Snook_2009_NZJES]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -113,5 +103,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[OConnor_2020_AJLL]]
-- [[Snook_2009_NZJES]]
+- OConnor_2020_AJLL
+- Snook_2009_NZJES

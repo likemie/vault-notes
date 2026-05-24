@@ -6,33 +6,18 @@ aliases:
 summary: "通过知识生产把东方建构为被观看、被解释和被支配对象的批判概念，用于揭示文化优越感和殖民想象的再生产"
 type: concept
 tags:
-- Orientalism
+- orientalism
 - postcolonial-theory
 - knowledge-production
 - region/global
 - level/higher-ed
-related_concepts:
-- '[[Geopolitics of Knowledge]]'
-- '[[Internationalization of Higher Education]]'
-- '[[Knowledge Capitalism]]'
-- '[[Colonial Modernity]]'
-- '[[Stereotype Threat]]'
-related_theories:
-- '[[Postcolonial Theory]]'
-- '[[Decolonial Geopolitics of Knowledge]]'
-- '[[Critical Geopolitics]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Edward Said]]'
-- '[[Frantz Fanon]]'
-- '[[Arturo Escobar]]'
-- '[[Fazal Rizvi]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Rizvi_2022_Springer]]'
-- '[[Argument_Ryan_2010_ChineseLearner]]'
-sources:
-- '[[Ch6_Rizvi_2022]]'
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -54,7 +39,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]：东方主义关注殖民者如何通过知识生产**建构**被殖民者的形象（表征的政治），去殖民知识地缘政治则关注这一建构的**认识论后果**——哪些认知方式被系统性地压制和排除，以及如何通过"认识论不服从"来动摇这一结构。两者发源于不同学术传统但高度互补。详见 [[Geopolitics of Knowledge#两条理论脉络|知识地缘政治 > 两条理论脉络]]
+> - vs [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]：东方主义关注殖民者如何通过知识生产**建构**被殖民者的形象（表征的政治），去殖民知识地缘政治则关注这一建构的**认识论后果**——哪些认知方式被系统性地压制和排除，以及如何通过"认识论不服从"来动摇这一结构。两者发源于不同学术传统但高度互补。详见 知识地缘政治 > 两条理论脉络
 > - vs 发展主义批判（Escobar, 1995）：东方主义分析殖民时期的直接知识-权力关系；发展主义批判则将这一分析延伸至后殖民时代——"发展"话语如何成为发达国家在形式上平等的国际秩序中延续影响力的意识形态工具
 >
 
@@ -96,9 +81,9 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Rizvi (2022) 的分析暗示了一个尚未被充分探讨的张力：当亚洲经济崛起、亚洲国家成为国际教育的主动塑造者（如建立[[International Education Hubs|IEHs]]）时，东方主义的文化等级结构是否会松动？还是会以新的形式——例如亚洲国家之间的新等级——被再生产？Rizvi 在该章中对亚洲内部权力不对称（特别是中国的主导地位）的讨论不充分，留下了这一问题的开放性（Rizvi, 2022, pp.101–102）
+> - Rizvi (2022) 的分析暗示了一个尚未被充分探讨的张力：当亚洲经济崛起、亚洲国家成为国际教育的主动塑造者（如建立IEHs）时，东方主义的文化等级结构是否会松动？还是会以新的形式——例如亚洲国家之间的新等级——被再生产？Rizvi 在该章中对亚洲内部权力不对称（特别是中国的主导地位）的讨论不充分，留下了这一问题的开放性（Rizvi, 2022, pp.101–102）
 >
 
 ## 来源
 
-- [[Ch6_Rizvi_2022]]
+- Ch6_Rizvi_2022

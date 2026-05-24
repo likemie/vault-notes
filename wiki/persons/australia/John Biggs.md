@@ -6,28 +6,15 @@ summary: "澳大利亚教育心理学家，建构性对齐和SOLO分类法提出
 type: person
 nationality: australia
 tags:
-- Biggs
+- biggs
 - paradigm/constructivist
 - region/australia
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Constructive Alignment]]'
-- '[[Surface and Deep Learning]]'
-- '[[Dynamic Knowledge and Learning Model]]'
-- '[[Paradox of the Chinese Learner]]'
-- '[[Confucian Heritage Cultures]]'
-- '[[Chinese Learner]]'
-related_theories:
-- '[[Radical Constructivism]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
-related_arguments:
-- '[[Argument_Li_2012_Cambridge]]'
-sources:
-- '[[Hattie_2015_SOTLP]]'
-- '[[Qvortrup_2015_Paideia]]'
-- '[[Romer_2018_EPT]]'
-- '[[Li_2012_Cambridge]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -65,7 +52,7 @@ updated: '2026-05-23'
 > [!success] 主要贡献
 > - SOLO 分类法（Structure of Observed Learning Outcomes）：区分学习质量的五个层次
 > - [[Constructive Alignment|建构性对齐]]：广泛影响大学课程设计的核心原则，被 Hattie 的 VL 框架采纳为关键实施要素
-> - **中国学习者悖论研究**：与 David Watkins 合编《The Chinese Learner》（1996）和《Teaching the Chinese Learner》（2001），提出 [[Confucian Heritage Cultures|儒家文化圈（CHC）]] 分类框架，将 [[Paradox of the Chinese Learner|中国学习者悖论]] 系统化为国际研究议程。Li（2012, pp.82-89）将这两部著作定位为该领域的奠基性文本，并综述了其后十余年的研究进展
+> - **中国学习者悖论研究**：与 David Watkins 合编《The Chinese Learner》（1996）和《Teaching the Chinese Learner》（2001），提出 儒家文化圈（CHC） 分类框架，将 [[Paradox of the Chinese Learner|中国学习者悖论]] 系统化为国际研究议程。Li（2012, pp.82-89）将这两部著作定位为该领域的奠基性文本，并综述了其后十余年的研究进展
 
 ## 思想发展与影响
 
@@ -76,6 +63,6 @@ updated: '2026-05-23'
 
 ## 来源
 
-- [[Hattie_2015_SOTLP]]
-- [[Qvortrup_2015_Paideia]]
-- [[Romer_2018_EPT]]
+- Hattie_2015_SOTLP
+- Qvortrup_2015_Paideia
+- Romer_2018_EPT

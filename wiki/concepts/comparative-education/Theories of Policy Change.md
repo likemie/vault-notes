@@ -11,21 +11,13 @@ tags:
 - policy-instruments
 - governance
 - region/global
-related_concepts:
-- '[[Performance Indicators]]'
-- '[[Selectivity]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[Innovation Union]]'
-- '[[EU Skills Agenda]]'
-- '[[Europe 2020 Strategy]]'
-- '[[Youth Guarantee Scheme]]'
-related_arguments:
-- '[[Argument_Rambla_2022_Springer]]'
-sources:
-- '[[Ch10_Rambla_2022]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -68,7 +60,7 @@ updated: '2026-05-18'
 
 - 1980 年代世界银行：基于各级教育投资回报率数据，要求负债国家将教育支出集中于初等教育
 - OECD：传播"投资研发→培养创造力→高比例青年完成高等教育→经济增长"的良性循环叙事
-- 《全球教育报告》：提出可持续发展目标之间相互关联的假设，强调教育、创新、减贫、健康等目标间的互利关系
+- 《全球教育报告》：提出[[UN Sustainable Development Goals 2015|可持续发展目标]]之间相互关联的假设，强调教育、创新、减贫、健康等目标间的互利关系
 
 > 例：欧盟的 Education and Training 2020 战略假定降低早期辍学率与促进创新将产生强大的增效作用（synergies），推动智能、可持续与包容性增长。这一因果叙事不经独立实证检验，而是作为政策工具的内在成分被嵌入指标体系（Rambla, 2022, p.166）。
 
@@ -128,4 +120,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch10_Rambla_2022]]
+- Ch10_Rambla_2022

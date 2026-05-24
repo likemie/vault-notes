@@ -12,25 +12,13 @@ tags:
   - research-methodology
   - validation
   - region/belgium
-related_concepts:
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Informed Practice]]"
-  - "[[Programme Fidelity vs Adaptation]]"
+related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Case Study]]"
-  - "[[Randomised Controlled Trials]]"
-  - "[[Quasi-Experimental Designs]]"
-related_persons:
-  - "[[Robert Slavin]]"
-related_facts:
-  - "[[Pact for Educational Excellence]]"
-related_arguments:
-  - "[[Argument_Dachet_2021_ROE]]"
-sources:
-  - "[[Dachet_2021_ROE]]"
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -42,7 +30,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> 包容性证据验证类型学是 Dachet 与 Baye 在[[Pact for Educational Excellence|法语比利时教育卓越公约]]工作中建立的研究设计分类框架。它用于整理教学工具/项目的证据基础，把专家验证、案例研究、横断研究、相关或纵向研究、实验和准实验研究放在同一连续框架内，同时为每类方法设置最低质量标准（Dachet & Baye, 2021, pp.175-178）。
+> 包容性证据验证类型学是 Dachet 与 Baye 在法语比利时教育卓越公约工作中建立的研究设计分类框架。它用于整理教学工具/项目的证据基础，把专家验证、案例研究、横断研究、相关或纵向研究、实验和准实验研究放在同一连续框架内，同时为每类方法设置最低质量标准（Dachet & Baye, 2021, pp.175-178）。
 
 这个类型学的出发点不是降低证据要求，而是在本地实验研究极少的情况下避免把几乎所有候选工具排除出改革过程。2017 年工作组列出 425 个教学工具/项目，只有 61 个曾被教育研究者测试，只有 13 个即约 3% 采用实验设计；若直接采用等级式或金字塔式证据标准，约 97% 的工具/项目都会被排除（Dachet & Baye, 2021, p.175）。
 
@@ -58,9 +46,9 @@ updated: 2026-05-24
 > 该类型学包含四类验证路径，每一类对应不同证据强度和不同研究问题。
 
 - 专家与佐证验证：由实践者、研究者、设计者等专家分析工具原则与相关性，最好用实证研究、心理教育学或学科教学原则进行佐证；这种验证不等于课堂效果证据，但可说明工具与当前知识状态相容（Dachet & Baye, 2021, p.176）。
-- 案例研究或横断研究验证：案例研究可用观察、半结构访谈和内容分析理解工具特征、使用和影响；横断研究可一次性描述某变量在群体中的频率及其相关特征（Dachet & Baye, 2021, pp.176-177）。
+- 案例研究或横断研究验证：案例研究可用[[Observational and Correlational Research|观察]]、半结构访谈和内容分析理解工具特征、使用和影响；横断研究可一次性描述某变量在群体中的频率及其相关特征（Dachet & Baye, 2021, pp.176-177）。
 - 相关或纵向研究验证：相关研究适合建模自然环境中变量之间的关系；纵向研究通过重复测量观察变化，但不一定使用控制组，前测/后测无控制组研究也被放入此类（Dachet & Baye, 2021, p.177）。
-- 实验与准实验研究验证：实验和准实验设计通过实验处理与控制处理之间的比较来评估工具/项目效果；RCT 依赖随机分配避免选择偏差，匹配准实验则要求控制组在尽可能多的维度上与实验组可比（Dachet & Baye, 2021, pp.177-178）。
+- 实验与准实验研究验证：实验和[[Quasi-Experimental Designs|准实验设计]]通过实验处理与控制处理之间的比较来评估工具/项目效果；[[Randomised Controlled Trials|RCT]] 依赖随机分配避免选择偏差，[[Matching|匹配]]准实验则要求控制组在尽可能多的维度上与实验组可比（Dachet & Baye, 2021, pp.177-178）。
 
 ## 实证发现
 
@@ -83,4 +71,4 @@ updated: 2026-05-24
 
 ## 来源
 
-- [[Dachet_2021_ROE]]
+- Dachet_2021_ROE

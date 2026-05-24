@@ -11,22 +11,13 @@ tags:
 - region/eu
 - policy/lifelong-learning
 - policy/employment
-related_concepts:
-- '[[Network Governance]]'
-- '[[Selectivity]]'
-- '[[Theories of Policy Change]]'
-- '[[Performance Indicators]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[EU Skills Agenda]]'
-- '[[Youth Guarantee Scheme]]'
-- '[[YOUNG_ADULLLT]]'
-related_arguments:
-- '[[Argument_Rambla_2022_Springer]]'
-sources:
-- '[[Ch10_Rambla_2022]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-14'
@@ -55,7 +46,7 @@ updated: '2026-05-18'
 
 ### 缓冲 [[Selectivity]] 效应
 
-在德国及新社团主义传统较强的邻国，多元行动者（政府、雇主、工会）的共同参与使更多维度的政策考量得以进入议程。相比于南欧和东欧的制度薄弱环境——其中就业优先的绩效指标逻辑几乎不受挑战地主导了实践——新社团主义国家的政策讨论中，培训质量、工作条件和长期职业发展等议题获得了一定的表达空间。多元制度主体的存在形成了一种"制度性刹车"，减缓了绩效指标单一逻辑对政策实践的全面捕获（Rambla, 2022, p.173–174）。
+在德国及新社团主[[Rightness|义]]传统较强的邻国，多元行动者（政府、雇主、工会）的共同参与使更多维度的政策考量得以进入议程。相比于南欧和东欧的制度薄弱环境——其中就业优先的[[Performance Indicators|绩效指标]]逻辑几乎不受挑战地主导了实践——新社团主义国家的政策讨论中，培训质量、工作条件和长期职业发展等议题获得了一定的表达空间。多元制度主体的存在形成了一种"制度性刹车"，减缓了绩效指标单一逻辑对政策实践的全面捕获（Rambla, 2022, p.173–174）。
 
 ### 提供系统性的变革理论
 
@@ -70,7 +61,7 @@ updated: '2026-05-18'
 > [!success]
 > 以下发现全部来自 Rambla（2022）基于 [[YOUNG_ADULLLT]] 项目的分析：
 
-- 在德国及新社团主义传统较强的邻国，终身学习政策网络包含政府、雇主协会和工会等传统三方伙伴。相较于南欧和东欧的政策网络，这些国家的治理安排表现出更高的制度多元性（Rambla, 2022, p.172–173）
+- 在德国及新社团主[[Rightness|义]]传统较强的邻国，终身学习政策网络包含政府、雇主协会和工会等传统三方伙伴。相较于南欧和东欧的政策网络，这些国家的治理安排表现出更高的制度多元性（Rambla, 2022, p.172–173）
 - 新社团主义国家的专业人员系统性地发展了本地变革理论（如"学徒制系统"），为终身学习服务提供了连贯的行动逻辑；相比之下，制度薄弱国家的专业人员更倾向于将政策简化为"帮助青年尽快找到任何工作"（p.173）
 - [[Selectivity]] 效应在新社团主义国家中受到制度多元性的缓冲——多元行动者的参与使得就业优先的逻辑无法完全主导政策实践（p.173–174）
 
@@ -89,4 +80,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch10_Rambla_2022]]
+- Ch10_Rambla_2022

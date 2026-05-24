@@ -11,20 +11,13 @@ tags:
 - level/adult
 - region/global
 - subject/comparative-education
-related_concepts:
-- '[[Corporate Education]]'
-- '[[Corporate University]]'
-- '[[Knowledge-Based Economy]]'
-- '[[Global Education Industry]]'
-related_theories:
-- '[[Institutional Isomorphism]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Hartmann_2022_CorporateEducation]]'
-sources:
-- '[[Ch11_Hartmann_2022]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-18'
@@ -105,4 +98,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch11_Hartmann_2022]]
+- Ch11_Hartmann_2022

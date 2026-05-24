@@ -8,25 +8,19 @@ type: fact
 subtype: event
 region: global
 tags:
-- Education at a Glance
-- EAG
-- OECD indicators
-- Comparative Education
+- education-at-a-glance
+- eag
+- oecd-indicators
+- comparative-education
 - region/global
 - level/k12
-related_concepts:
-- '[[International Indicators of Education Systems (INES)]]'
-- '[[Performance Indicators]]'
-- '[[Performativity of Measurement]]'
-related_theories:
-- '[[Science and Technology Studies (STS)]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Norberto Bottani]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Gorur_2014_Discourse]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -100,4 +94,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Gorur_2014_Discourse]]
+- Gorur_2014_Discourse

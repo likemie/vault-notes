@@ -13,27 +13,13 @@ tags:
   - theme/equity
   - method/narrative-case-study
   - policy/compulsory-education
-related_concepts:
-  - "[[Grade Retention]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Informed Practice]]"
-  - "[[Inclusive Evidence Validation Typology]]"
+related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Case Study]]"
-  - "[[Randomised Controlled Trials]]"
-  - "[[Quasi-Experimental Designs]]"
-related_persons:
-  - "[[Robert Slavin]]"
-related_facts:
-  - "[[Pact for Educational Excellence]]"
-  - "[[French-Speaking Belgium Education System]]"
-  - "[[Grade Retention in French-Speaking Belgium]]"
+related_methods: []
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-  - "[[Dachet_2021_ROE]]"
+sources: []
 part_of: ""
 status: draft
 created: 2026-05-23
@@ -68,39 +54,39 @@ updated: 2026-05-24
 
 ### 第一步：系统问题制造了改革窗口
 
-[[French-Speaking Belgium Education System|法语比利时教育系统]]在 PISA 2015/2018 中表现并不理想，科学和阅读低于 OECD 平均，数学接近平均；更严重的是，社会出身对成绩的影响强且似乎加剧（Dachet & Baye, 2021, p.170）。系统结构中还存在早期分流、[[Grade Retention|留级]]频繁、学前教育非义务化和教师初始培养较短等问题；其中[[Grade Retention in French-Speaking Belgium|法语比利时留级案例]]是证据与惯例脱节最清楚的例子（Dachet & Baye, 2021, pp.165, 169-170）。
+[[French-Speaking Belgium Education System|法语比利时教育系统]]在 [[PISA]] 2015/2018 中表现并不理想，科学和阅读低于 OECD 平均，数学接近平均；更严重的是，社会出身对成绩的影响强且似乎加剧（Dachet & Baye, 2021, p.170）。系统结构中还存在早期分流、[[Grade Retention|留级]]频繁、学前教育非[[Rightness|义]]务化和教师初始培养较短等问题；其中[[Grade Retention in French-Speaking Belgium|法语比利时留级]]案例是证据与惯例脱节最清楚的例子（Dachet & Baye, 2021, pp.165, 169-170）。
 
 这一步的逻辑是：如果系统同时存在低绩效和强不公平，改革就不能只靠个别学校或教师自发改进，而需要结构层面的政策行动。
 
 ### 第二步：教育卓越公约把证据本位教育带入官方改革语言
 
-2015 年改革启动后，教育利益相关者被组织进专题工作组，Groupe central 汇总系统诊断并形成改革方向；大学代表和作者所在研究中心推动在改革中引入严格研究证据（Dachet & Baye, 2021, pp.170-171）。Baye 与 Bluge 2016 年报告向改革核心单位介绍 EBE，并处理对过度标准化、结果窄化和认识论贫乏的担忧（Dachet & Baye, 2021, p.171）。
+2015 年改革启动后，教育利益相关者被组织进专题工作组，Groupe central 汇总系统诊断并形成改革方向；大学代表和作者所在研究中心推动在改革中引入严格研究证据（Dachet & Baye, 2021, pp.170-171）。Baye 与 Bluge 2016 年报告向改革核心单位介绍 [[Evidence-Based Education|EBE]]，并处理对过度标准化、结果窄化和认识论贫乏的担忧（Dachet & Baye, 2021, p.171）。
 
 关键转折在于，2017 年第三号建议明确承认 EBE 在本系统中几乎不存在，同时提出更多使用研究结果、试点国外经验证项目、收集本地有效性证据后再扩大，并为采用项目的学校提供激励（Dachet & Baye, 2021, p.171）。
 
 ### 第三步：结构性改革并不都同样受证据支持
 
-共同核心课程延伸到 3 至 15 岁，与延迟分流有助于教育公平的国际相关研究相一致；教师培养延长则可由教师技能与学生表现相关的研究间接支持（Dachet & Baye, 2021, pp.171-173）。但能力本位取向、定向取向模式和学校日历改革缺少严格研究支持；它们可能有理论理由或社会接受度，却不能被直接称为已经有强有效性证据（Dachet & Baye, 2021, pp.173-174）。
+共同核心课程延伸到 3 至 15 岁，与延迟分流有助于教育公平的国际[[Observational and Correlational Research|相关研究]]相一致；教师培养延长则可由教师技能与学生表现相关的研究间接支持（Dachet & Baye, 2021, pp.171-173）。但能力本位取向、定向取向模式和学校日历改革缺少严格研究支持；它们可能有理论理由或社会接受度，却不能被直接称为已经有强有效性证据（Dachet & Baye, 2021, pp.173-174）。
 
 留级是相反案例：证据相对充分地显示缺少正向平均效应，但改革仍只提出到 2030 年降低 50%，未在共同核心阶段完全禁止（Dachet & Baye, 2021, p.174）。这说明“有证据”并不自动转化为强政策，政治可行性和公众接受仍会调节改革力度。
 
 ### 第四步：本地项目证据太少，无法直接复制英美证据层级
 
-八个工作组列出的 425 个工具/项目中，只有 61 个曾被教育研究者测试，只有 13 个约 3% 采用实验设计（Dachet & Baye, 2021, p.175）。如果直接套用 EEF、WWC 或 BEE 那类较强的证据层级，几乎 97% 的本地候选工具会被排除，这在科学上可辩护，却在政治和专业协作上难以实施（Dachet & Baye, 2021, pp.175-176）。
+八个工作组列出的 425 个工具/项目中，只有 61 个曾被教育研究者测试，只有 13 个约 3% 采用实验设计（Dachet & Baye, 2021, p.175）。如果直接套用 EEF、[[What Works Clearinghouse (WWC)|WWC]] 或 [[Best Evidence Encyclopedia (BEE)|BEE]] 那类较强的证据层级，几乎 97% 的本地候选工具会被排除，这在科学上可辩护，却在政治和专业协作上难以实施（Dachet & Baye, 2021, pp.175-176）。
 
-这一步是全文最重要的现实约束：证据本位改革不是在真空中选择“最佳证据”，而是在既有专业传统、可用项目库、语言资源和政治接受度中寻找可推进路径。
+这一步是全文最重要的现实约束：[[Evidence-Based Reform|证据本位改革]]不是在真空中选择“最佳证据”，而是在既有专业传统、可用项目库、语言资源和政治接受度中寻找可推进路径。
 
 ### 第五步：包容性验证类型学成为过渡机制
 
 作者团队建立了[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、案例研究、横断研究、相关或纵向研究、实验和准实验研究纳入同一框架，同时为每类方法设置最低质量标准（Dachet & Baye, 2021, pp.175-178）。它的目的不是把弱证据伪装成强证据，而是在承认方法多样性的同时推动学科教学专家看到实验研究的附加价值（Dachet & Baye, 2021, pp.175-176）。
 
-这种设计把 EBE 从“只承认 RCT”的冲突姿态，改造成一条可协商的能力建设路径：先承认现有工具清单和专家工作有价值，再逐步要求更系统的实施研究、准实验评价和本地有效性验证。
+这种设计把 EBE 从“只承认 [[Randomised Controlled Trials|RCT]]”的冲突姿态，改造成一条可协商的能力建设路径：先承认现有工具清单和专家工作有价值，再逐步要求更系统的实施研究、准实验评价和本地有效性验证。
 
 ### 论证合龙：法语比利时案例是证据本位改革的边界测试
 
 按照 Slavin 三项杠杆，法语比利时只是在第一项“广泛经验证项目”上刚起步，因为本地实验研究极少；第二项“教师友好综述”也受限于缺少本地实验和英语文献使用障碍；第三项“实施资源”进展较明确，因为官方建议提出为学校实验和严格评价设置约 200 万欧元预算（Dachet & Baye, 2021, pp.179-181）。
 
-因此，教育卓越公约不是一个已经成熟的证据本位改革，而是一个妥协性制度化过程：它把证据语言写进官方文本，建立项目验证的最低标准，推动研究者与实践者合作，并开始为实验评价提供法律和财政基础（Dachet & Baye, 2021, pp.181-182）。
+因此，[[Pact for Educational Excellence|教育卓越公约]]不是一个已经成[[Shu (Familiarization)|熟]]的证据本位改革，而是一个妥协性制度化过程：它把证据语言写进官方文本，建立项目验证的最低标准，推动研究者与实践者合作，并开始为实验评价提供法律和财政基础（Dachet & Baye, 2021, pp.181-182）。
 
 ## 主要发现
 
@@ -143,4 +129,4 @@ updated: 2026-05-24
 
 ## 来源
 
-- [[Dachet_2021_ROE]]
+- Dachet_2021_ROE

@@ -12,24 +12,13 @@ tags:
 - region/finland
 - level/k12
 - phenomenon-based-learning
-related_concepts:
-- '[[Phenomenon-Based Learning]]'
-- '[[Bildung]]'
-- '[[Didaktik]]'
-- '[[Epochal Key Problems]]'
-- '[[Atomisation of Knowledge and Skills]]'
-- '[[SveaSus Project]]'
-- '[[Problem-Based Learning]]'
-- '[[Performance Indicators]]'
-related_theories:
-- '[[Phenomenology]]'
-- '[[Radical Constructivism]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Schaffar_2024_CogentEdu]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -102,4 +91,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Schaffar_2024_CogentEdu]]
+- Schaffar_2024_CogentEdu

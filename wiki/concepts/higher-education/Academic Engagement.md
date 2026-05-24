@@ -10,23 +10,13 @@ tags:
 - student-engagement
 - higher-education
 - level/higher-ed
-related_concepts:
-- '[[Social Engagement]]'
-- '[[Student Engagement]]'
-- '[[Student Involvement]]'
-- '[[Academic and Social Integration]]'
-- '[[Goal-Controlled Mode]]'
-- '[[Intuition-Dependent Mode]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[George Kuh]]'
-- '[[Vincent Tinto]]'
-- '[[Alexander Astin]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -40,7 +30,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 学业投入（Academic Engagement）是[[Student Engagement|学生投入理论]]的两大核心维度之一，指学生向大学中与学术相关的教育性实践活动投入的时间和精力——包括上课、完成作业、与教师讨论学术问题、遵守学术规范要求等（郑雅君，2023）。在[[Yajun Zheng|郑雅君]]（2023）的"大学过程"分析框架中，学业投入与[[Social Engagement|社会性投入]]并列构成"投入过程"的两大分析轴。
+> 学业投入（Academic Engagement）是学生投入理论的两大核心维度之一，指学生向大学中与学术相关的教育性实践活动投入的时间和精力——包括上课、完成作业、与教师讨论学术问题、遵守学术规范要求等（郑雅君，2023）。在[[Yajun Zheng|郑雅君]]（2023）的"大学过程"分析框架中，学业投入与[[Social Engagement|社会性投入]]并列构成"投入过程"的两大分析轴。
 
 > [!quote]
 > "学业投入（academic integration/engagement）与社会性投入（social integration/engagement）一般被认为是学生的投入中促进自身发展的两个最重要方面"（郑雅君，2023）
@@ -60,8 +50,8 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]
-> - **1993 学业融入**：[[Vincent Tinto|Tinto]] 在[[Academic and Social Integration|融入理论]]中提出学业融入（Academic Integration），定义为学生顺利与学校学术规范达成一致的程度（郑雅君，2023，引 Tinto, 1993）
-> - **1991 行为操作化**：[[George Kuh|Kuh]] 在[[Student Engagement]]中将其操作化为可观察的行为指标——课程学习、作业完成、师生学术互动等（郑雅君，2023，引 Kuh, 1991）
+> - **1993 学业融入**：Tinto 在融入理论中提出学业融入（Academic Integration），定义为学生顺利与学校学术规范达成一致的程度（郑雅君，2023，引 Tinto, 1993）
+> - **1991 行为操作化**：Kuh 在[[Student Engagement]]中将其操作化为可观察的行为指标——课程学习、作业完成、师生学术互动等（郑雅君，2023，引 Kuh, 1991）
 > - **2023 中国研究深化**：[[Yajun Zheng|郑雅君]]将学业投入置于阶层分析框架中，揭示其在不同[[Habitus|习性]]模式下的系统性差异——目标掌控者功能化看待学业投入，直觉依赖者则陷入"绩点无用论"与"优等生惯性"的矛盾（郑雅君，2023）
 
 ---
@@ -114,4 +104,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

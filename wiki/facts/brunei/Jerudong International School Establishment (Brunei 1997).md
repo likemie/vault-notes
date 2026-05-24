@@ -14,7 +14,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: ["[[Argument_Bates_2017_CognitionEducationTrust]]"]
+related_arguments: []
 sources: []
 confidence: medium
 status: draft
@@ -65,4 +65,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Bates_2017_CognitionEducationTrust]]
+- Bates_2017_CognitionEducationTrust

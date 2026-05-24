@@ -8,20 +8,13 @@ tags:
 - justified-warrants
 - evidence-based-policy
 - research-methodology
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Moral Sidestep]]'
-related_theories:
-- '[[Legitimation Theory Van Leeuwen]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Gert Biesta]]'
-related_facts:
-- '[[Ofsted]]'
-- '[[Selective Schools Expansion Fund 2018]]'
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[Bainbridge_2022_ROE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -62,13 +55,13 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> Bainbridge et al.（2022）以 justified warrants 为评估框架分析英国议会辩论，发现政策制定者未能为其决策提供正当化担保：在 [[Selective Schools Expansion Fund 2018|SSEF]] 政策制定过程中，政府以 [[Ofsted]] 评级替代同行评议研究证据，将[[Grammar School|文法学校]]等同于"好学校"，既未提供从证据到政策的逻辑推进，也未附有任何保留条件。作者通过[[Carnivalesque Analysis|嘉年华式分析]]展示：若将"好学校应获扩展资金"的逻辑一致适用于所有 Ofsted 评级良好的学校（包括综合学校、小学和幼儿园），所需预算将从 £50M 膨胀至约 £84 亿，由此暴露政策论证缺乏正当化担保（Bainbridge et al., 2022, p.18）。
+> Bainbridge et al.（2022）以 justified warrants 为评估框架分析英国议会辩论，发现政策制定者未能为其决策提供正当化担保：在 SSEF 政策制定过程中，政府以 [[Ofsted]] 评级替代同行评议研究证据，将[[Grammar School|文法学校]]等同于"好学校"，既未提供从证据到政策的逻辑推进，也未附有任何保留条件。作者通过[[Carnivalesque Analysis|嘉年华式分析]]展示：若将"好学校应获扩展资金"的逻辑一致适用于所有 Ofsted 评级良好的学校（包括综合学校、小学和幼儿园），所需预算将从 £50M 膨胀至约 £84 亿，由此暴露政策论证缺乏正当化担保（Bainbridge et al., 2022, p.18）。
 >
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> Bainbridge et al.（2022）认为 justified warrants 与 Van Leeuwen（2007）的 [[Legitimation Theory Van Leeuwen|legitimation 理论]] 相互支撑：证据若要在政策制定中被接受，需要在接收群体的结构、过程和道德假设中获得合法化（legitimation）。但这同时也意味着，即使一项研究提供了良好的正当化担保，如果其结论与既有权力结构的价值假设不一致，仍可能被排斥（Bainbridge et al., 2022, p.9）。
+> Bainbridge et al.（2022）认为 justified warrants 与 Van Leeuwen（2007）的 legitimation 理论 相互支撑：证据若要在政策制定中被接受，需要在接收群体的结构、过程和道德假设中获得合法化（legitimation）。但这同时也意味着，即使一项研究提供了良好的正当化担保，如果其结论与既有权力结构的价值假设不一致，仍可能被排斥（Bainbridge et al., 2022, p.9）。
 >
 
 ## 相关案例／政策
@@ -79,4 +72,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Bainbridge_2022_ROE]]
+- Bainbridge_2022_ROE

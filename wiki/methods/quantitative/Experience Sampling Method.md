@@ -12,15 +12,12 @@ tags:
   - method/experience-sampling
   - method/self-report
   - method/ecological-momentary-assessment
-related_concepts:
-  - "[[Flow]]"
-  - "[[Intrinsic vs Extrinsic Motivation]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -75,10 +72,10 @@ Csikszentmihalyi 的团队正是通过该方法从大量青少年日常体验数
 ## 使用此方法的研究
 
 > [!example]
-> - [[Li_2012_Cambridge]] — Li 提及该方法作为 Csikszentmihalyi 发现心流的方法基础，并指出后续研究也使用该方法收集了跨文化的真实情感体验数据（Li, 2012, p.77–78）
+> - Li_2012_Cambridge — Li 提及该方法作为 Csikszentmihalyi 发现心流的方法基础，并指出后续研究也使用该方法收集了跨文化的真实情感体验数据（Li, 2012, p.77–78）
 
 ---
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

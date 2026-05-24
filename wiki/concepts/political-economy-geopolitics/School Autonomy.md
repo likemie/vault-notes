@@ -5,24 +5,18 @@ aliases:
 summary: "教育决策权从中央官僚机构向个别学校下放的制度安排，用于组织学校层面的资源配置、课程决策和管理责任。"
 type: concept
 tags:
-- School Autonomy
+- school-autonomy
 - school-autonomy
 - region/australia
 - level/k12
 - paradigm/neoliberal
-related_concepts:
-- '[[School Leadership]]'
-- '[[New Public Management]]'
-- '[[My School Website]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Jill Blackmore]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Keddie_2020_JEAH]]'
-- '[[Keddie_2020_IJLE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -147,5 +141,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Keddie_2020_JEAH]]
-- [[Keddie_2020_IJLE]]
+- Keddie_2020_JEAH
+- Keddie_2020_IJLE

@@ -11,17 +11,13 @@ tags:
 - improvement-science
 - professional-development
 - evidence-informed-practice
-related_concepts:
-- '[[Improvement Science]]'
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Amelia Peterson]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Peterson_2016_IJRME]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -64,4 +60,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Peterson_2016_IJRME]]
+- Peterson_2016_IJRME

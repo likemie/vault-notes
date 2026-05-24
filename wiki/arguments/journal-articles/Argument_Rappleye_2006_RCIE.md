@@ -1,6 +1,6 @@
 ---
 title: Argument_Rappleye_2006_RCIE
-summary: "提出跨国吸引力情境概念地图，区分结构／人双层推力与阻力及四种吸引力\"火花\"，回应全球化对教育转移研究的新要求"
+summary: "提出跨国吸引力情境概念地图，区分结构／人双层推力与阻力及四种吸引力“火花“，回应全球化对教育转移研究的新要求"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -12,25 +12,13 @@ tags:
 - cross-national-attraction
 - comparative-education
 - region/global
-related_concepts:
-- '[[Cross-National Attraction]]'
-- '[[Policy Borrowing]]'
-- '[[Externalization (Schriewer)]]'
-- '[[American Attraction to Japanese Education 1980s]]'
-- '[[Late Qing Borrowing of Japanese Education]]'
-- '[[A Nation at Risk 1983]]'
-related_theories:
-- '[[Policy Borrowing]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[David Phillips]]'
-- '[[Gita Steiner-Khamsi]]'
-- '[[Kimberly Ochs]]'
-- '[[Jurgen Schriewer]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Rappleye_2006_RCIE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-06'
@@ -139,4 +127,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Rappleye_2006_RCIE]]
+- Rappleye_2006_RCIE

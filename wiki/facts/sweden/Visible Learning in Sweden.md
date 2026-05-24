@@ -8,26 +8,17 @@ subtype: event
 region: sweden
 issuing_organization: ''
 tags:
-- Visible Learning
+- visible-learning
 - region/sweden
 - school-improvement
 - level/k12
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Effective Teaching]]'
-- '[[Evidence-Based Education]]'
-- '[[Policy Borrowing]]'
-- '[[Feedback]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-related_facts:
-- '[[Visible Learning Branding and Global Influences]]'
-related_arguments:
-- '[[Argument_Håkansson_2015_Paideia]]'
-sources:
-- '[[Håkansson_2015_Paideia]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-20'
@@ -78,4 +69,4 @@ updated: '2026-05-20'
 
 ## 来源
 
-- [[Håkansson_2015_Paideia]]
+- Håkansson_2015_Paideia

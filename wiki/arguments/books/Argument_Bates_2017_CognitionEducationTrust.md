@@ -13,9 +13,9 @@ related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: ["[[Tomorrow's Schools Reforms (NZ 1989)]]", "[[Jerudong International School Establishment (Brunei 1997)]]", "[[Cognition Education (NZ)]]", "[[Visible Learning Branding and Global Influences]]"]
+related_facts: []
 related_arguments: []
-sources: ["[[Bates_2017_CognitionEducationTrust]]"]
+sources: []
 part_of:
 status: draft
 created: 2026-05-22
@@ -60,7 +60,7 @@ updated: 2026-05-23
 
 ### 第1章 奠基（Foundations）
 
-第一章不是单纯交代公司起源，而是在为整本书建立解释前提。作者借 [[Tomorrow's Schools Reforms (NZ 1989)]] 说明，[[Cognition Education (NZ)]] 从一开始就处在国家制造的准市场中，所以其脆弱性、收缩与多元化冲动，都应理解为制度环境的产物，而不是管理者单纯决策的结果。（Bates, 2017, p.11-18）具体组织史细节可直接看 [[Cognition Education (NZ)]]. 本章真正重要的是它把“适应”定义为在有限政策空间里的被迫试错。（Bates, 2017, p.16-17）
+第一章不是单纯交代公司起源，而是在为整本书建立解释前提。作者借 [[Tomorrow's Schools Reforms (NZ 1989)]] 说明，[[Cognition Education (NZ)]] 从一开始就处在国家制造的准市场中，所以其脆弱性、收缩与多元化冲动，都应理解为制度环境的产物，而不是管理者单纯决策的结果。（Bates, 2017, p.11-18）具体组织史细节可直接看 [[Cognition Education (NZ)]]. 本章真正重要的是它把“适应”定[[Rightness|义]]为在有限政策空间里的被迫试错。（Bates, 2017, p.16-17）
 
 ### 第2章 更广阔的视野（Broader Horizons）
 
@@ -112,4 +112,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Bates_2017_CognitionEducationTrust]]
+- Bates_2017_CognitionEducationTrust

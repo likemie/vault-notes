@@ -9,21 +9,18 @@ subtype: event
 region: us
 tags:
 - i3
-- Investing-in-Innovation
+- investing-in-innovation
 - evidence-based-reform
 - federal-funding
-- RCT
+- rct
 - region/us
-related_concepts:
-- '[[Evidence-Based Reform]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Robert Slavin]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Slavin_2019_EP]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -66,4 +63,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Slavin_2019_EP]]
+- Slavin_2019_EP

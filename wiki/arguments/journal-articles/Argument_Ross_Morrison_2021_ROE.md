@@ -13,33 +13,13 @@ tags:
   - theme/program-evaluation
   - policy/essa
   - method/formative-evaluation
-related_concepts:
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
-  - "[[Evidence-Informed Practice]]"
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[Professional Judgment]]"
-  - "[[Effect Size]]"
-  - "[[Statistical Significance]]"
-  - "[[Technology Infusion]]"
-  - "[[Absorptive Capacity]]"
-  - "[[Implementation Fidelity]]"
+related_concepts: []
 related_theories: []
-related_methods:
-  - "[[Randomised Controlled Trials]]"
-  - "[[Quasi-Experimental Designs]]"
-  - "[[Formative Evaluation]]"
-  - "[[Logic Model]]"
+related_methods: []
 related_persons: []
-related_facts:
-  - "[[No Child Left Behind Act 2001]]"
-  - "[[ESSA 2015 Evidence Standards]]"
-  - "[[What Works Clearinghouse (WWC)]]"
-  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
+related_facts: []
 related_arguments: []
-sources:
-  - "[[Ross_Morrison_2021_ROE]]"
+sources: []
 part_of: ''
 status: draft
 created: 2026-05-23
@@ -74,7 +54,7 @@ updated: 2026-05-23
 
 ### 第一层：证据运动把“有效项目”变成政策要求
 
-1. 美国政策从 NCLB 到 [[What Works Clearinghouse (WWC)]]，再到 [[ESSA 2015 Evidence Standards]]，逐步把严格研究证据放到教育项目选择的中心位置。NCLB 偏好随机实验，WWC 用 RCT 和 QED 审查研究质量，ESSA 又把强、中、有希望和理论依据四个证据层级用于项目审核（Ross & Morrison, 2021, p.109）。
+1. 美国政策从 [[No Child Left Behind Act 2001|NCLB]] 到 [[What Works Clearinghouse (WWC)]]，再到 [[ESSA 2015 Evidence Standards]]，逐步把严格研究证据放到教育项目选择的中心位置。NCLB 偏好随机实验，WWC 用 [[Randomised Controlled Trials|RCT]] 和 [[Quasi-Experimental Designs|QED]] 审查研究质量，ESSA 又把强、中、有希望和理论依据四个证据层级用于项目审核（Ross & Morrison, 2021, p.109）。
 
 2. 这一步的推理很直接：如果学校要花公共资金购买项目，就不能只听销售宣传，而应尽量选择有研究支持的项目。这也是 [[Evidence-Based Education]] 和 [[Evidence-Based Reform]] 的基本承诺（Ross & Morrison, 2021, pp.109-110）。
 
@@ -85,7 +65,7 @@ updated: 2026-05-23
 
 ### 第二层：严格证据会把“有效性”压缩得过窄
 
-4. 但正式证据标准通常把“有效”理解为：在严格控制的实验研究中，对学生成就产生[[Statistical Significance|统计显著]]的正向效果。这使很多地方上有价值的结果被排除在证据视野之外（Ross & Morrison, 2021, pp.110-112）。
+4. 但正式证据标准通常把“有效”理解为：在严格控制的实验研究中，对学生成就产生统计显著的正向效果。这使很多地方上有价值的结果被排除在证据视野之外（Ross & Morrison, 2021, pp.110-112）。
 
 5. [[Technology Infusion|技术融入]]和其他补充性项目尤其容易遇到这个问题。它们每周使用时间可能很有限，很难在短期内让标准化测验成绩显著上升；但它们可能改善学生动机、释放教师个别辅导时间、增加个性化学习活动，或提升技术接入公平（Ross & Morrison, 2021, pp.110-111）。
 
@@ -116,9 +96,9 @@ updated: 2026-05-23
 
 ### 第五层：STAT 案例展示“多目标改革”如何制造证据分歧
 
-12. BCPS 的 STAT 项目不是单一软件，而是全学区 [[Technology Infusion|技术融入]]改革。它包括教师专业发展、技术教练、设备配置、数字内容、课堂实践改变和长期学生表现目标（Ross & Morrison, 2021, pp.114-116）。
+12. BCPS 的 [[Students and Teachers Accessing Tomorrow (STAT)|STAT]] 项目不是单一软件，而是全学区 [[Technology Infusion|技术融入]]改革。它包括教师专业发展、技术教练、设备配置、数字内容、课堂实践改变和长期学生表现目标（Ross & Morrison, 2021, pp.114-116）。
 
-13. 评价设计也不是单一测验，而是多源形成性评价：教师问卷、学生焦点小组、校长和教师访谈、课堂观察、行为数据以及 ELA 和数学成就数据。这样的设计更适合跟踪“改革是否正在发生”，而不是直接证明某个单一组件的因果效应（Ross & Morrison, 2021, pp.115-118）。
+13. 评价设计也不是单一测验，而是多源[[Formative Evaluation|形成性评价]]：教师问卷、学生焦点小组、校长和教师访谈、课堂[[Observational and Correlational Research|观察]]、行为数据以及 ELA 和数学成就数据。这样的设计更适合跟踪“改革是否正在发生”，而不是直接证明某个单一组件的因果效应（Ross & Morrison, 2021, pp.115-118）。
 
 14. 形成性评价显示了多个中间成果：教师准备、设备进入课堂、数字资源使用、学生参与和学生中心教学都有进展；课堂中更明显的变化是从教师主导转向学生中心，并伴随数字工具使用增加（Ross & Morrison, 2021, pp.118-119, 122）。
 
@@ -131,13 +111,13 @@ updated: 2026-05-23
 
 16. 支持者更看重数字公民、教学多样化、课堂参与和技术接入公平，因此把 STAT 的形成性证据看作项目正在产生价值；他们把成就结果不明显理解为复杂改革早期可以预期的情况（Ross & Morrison, 2021, pp.122-123）。
 
-17. 反对者更看重学生成就，尤其是一部分较高收入白人家长和若干白人学校董事会成员。由于测试成绩没有明显上升，他们把项目判断为失败，并偏好把资金用于缩小班额或修缮校舍（Ross & Morrison, 2021, p.123）。
+17. 反对者更看重学生成就，尤其是一部分较高收入白人家长和若干白人学校董事会成员。由于测试成绩没有明显上升，他们把项目判断为失败，并偏好把资金用于缩小[[Class Size|班额]]或修缮校舍（Ross & Morrison, 2021, p.123）。
 
 18. 这里的中间推论是：证据解释依赖“什么结果最重要”。如果成功标准不同，那么即使数据完全相同，结论也会不同。这也是 [[Evidence-Informed Practice]] 比强版本 EBE 更现实的地方：证据必须进入价值判断、地方知识和专业判断的组合中（Ross & Morrison, 2021, pp.121-123）。
 
 ### 论证合龙：证据要被使用，就必须更贴近地方决策
 
-19. 文章最后的结论是双重的。第一，研究证据仍然重要，尤其能帮助复杂改革保持实施质量和可持续性；STAT 的形成性评价、逻辑模型和阶段性反馈帮助利益相关者理解项目进展（Ross & Morrison, 2021, pp.121-124）。
+19. 文章最后的结论是双重的。第一，研究证据仍然重要，尤其能帮助复杂改革保持实施质量和可持续性；STAT 的形成性评价、[[Logic Model|逻辑模型]]和阶段性[[Feedback|反馈]]帮助利益相关者理解项目进展（Ross & Morrison, 2021, pp.121-124）。
 
 20. 第二，证据若要真正进入教育实践，就不能只停留在“严格研究是否显著有效”。更有用的证据需要同时说明研究新旧程度、严谨性、对照条件、实施质量、测量指标、成本、用户经验、地方情境和项目目标；否则，证据审查会与学校真实决策保持距离（Ross & Morrison, 2021, pp.121, 124）。
 
@@ -182,4 +162,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Ross_Morrison_2021_ROE]]
+- Ross_Morrison_2021_ROE

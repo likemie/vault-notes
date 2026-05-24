@@ -16,18 +16,13 @@ tags:
 - theme/learning
 - theory/confucianism
 - theory/taoism
-related_concepts:
-- "[[Learning Virtues]]"
-- "[[Shu (Familiarization)]]"
-- "[[Self-Cultivation]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -50,9 +45,9 @@ updated: 2026-05-23
 > [!abstract]
 > Li 从中文学习词汇研究中收集到以下描述精的不同维度的表达（Li, 2012, pp.133-134）：
 
-| 表达 | 含义 | 维度 |
+| 表达 | 含[[Rightness|义]] | 维度 |
 |------|------|------|
-| 熟能生巧 → 巧能生精 | 熟悉通向技巧，技巧通向精炼 | 递进关系 |
+| [[Shu (Familiarization)|熟]]能生巧 → 巧能生精 | 熟悉通向技巧，技巧通向精炼 | 递进关系 |
 | 融会贯通 | 透彻理解、将各部分融合为整体 | 理解的深度 |
 | 精辟 | 精炼的理解 | 精确性 |
 | 了如指掌 | 知道某事物如同知道自己手指一样清楚 | 全面掌握 |
@@ -89,7 +84,7 @@ updated: 2026-05-23
 > [!note]
 > Wong（2004）提供了对中国学习方法论的进一步说明，Li 将其纳入精的分析框架（Li, 2012, pp.131-132）：
 
-| 阶段 | 名称 | 含义 |
+| 阶段 | 名称 | 含[[Rightness|义]] |
 |------|------|------|
 | 第 1 阶段 | 入道 | 模仿大师的风格和技巧，直到能产生与大师相似的作品。类似于西方高尔夫学习者试图模仿大师的动作 |
 | 第 2 阶段 | 出道 | 保留但超越模仿的成就——发展出个人的风格。不是抛弃传统，而是在深厚的基础上创新 |
@@ -105,7 +100,7 @@ updated: 2026-05-23
 > **精 vs 掌握（mastery）**：西方教育心理学中的 mastery 倾向于指对特定知识或技能的充分掌握——可以用考试分数或行为标准来衡量。精则不同——它不可量化，不是"及格线"意义上的掌握，而是一种**存在状态**——技能或知识已经内化为人的一部分，以至于运用时无需思考（Li, 2012, p.134）。
 
 > [!example]
-> **精 vs [[Shu (Familiarization)\|熟]]**：精是勤奋三阶段的终点，熟是起点。Li 从中文词汇中引用的一个关键表达揭示了这种递进："熟能生巧，巧能生精"——这暗示了一个三级结构：熟 → 巧 → 精。只达到巧（skillfulness）而不进入精（refined mastery），在中国学习传统中被认为是不完整的学习（Li, 2012, p.133）。
+> **精 vs 熟**：精是勤奋三阶段的终点，熟是起点。Li 从中文词汇中引用的一个关键表达揭示了这种递进："熟能生巧，巧能生精"——这暗示了一个三级结构：熟 → 巧 → 精。只达到巧（skillfulness）而不进入精（refined mastery），在中国学习传统中被认为是不完整的学习（Li, 2012, p.133）。
 
 > [!example]
 > **精 vs 创造力（creativity）**：乍看之下，以模仿大师为起点的学习路径似乎排斥创造力。但出道（第二阶段）恰恰是创造力的体现——只是这种创造力**根植于传统**而非与传统断裂。Li 的分析暗示了中国学习传统中"创新"的独特含义：不是从零开始，而是在精通传统之后的超越（Li, 2012, pp.131-132）。
@@ -132,4 +127,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

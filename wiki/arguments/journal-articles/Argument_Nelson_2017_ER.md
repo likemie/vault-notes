@@ -1,6 +1,6 @@
 ---
 title: Argument_Nelson_2017_ER
-summary: "EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定义、知识动员四策略框架和测量挑战三个维度，提出\"肥沃的土壤\"隐喻"
+summary: "EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定义、知识动员四策略框架和测量挑战三个维度，提出“肥沃的土壤“隐喻"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -15,20 +15,13 @@ tags:
 - region/uk
 - region/canada
 - region/global
-related_concepts:
-- '[[Evidence-Informed Practice]]'
-- '[[Evidence-Based Education]]'
-- '[[Knowledge Mobilisation]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Research Practice Partnerships (RPPs)]]'
-related_persons:
-- '[[Julie Nelson]]'
-- '[[Carol Campbell]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Nelson_2017_ER]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -123,4 +116,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Nelson_2017_ER]]
+- Nelson_2017_ER

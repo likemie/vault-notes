@@ -10,20 +10,13 @@ tags:
 - psychometrics
 - research-methodology
 - evidence-based-education
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Effect Size]]'
-related_theories:
-- '[[Goldman''s Discrimination Theory of Knowledge]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Dylan Wiliam]]'
-- '[[Lee Cronbach]]'
-- '[[Samuel Messick]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wiliam_2019_ERE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -88,4 +81,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wiliam_2019_ERE]]
+- Wiliam_2019_ERE

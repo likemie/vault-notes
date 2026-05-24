@@ -13,26 +13,13 @@ tags:
 - identity
 - region/china
 - level/higher-ed
-related_concepts:
-- '[[Cultural Barrier in Higher Education]]'
-- '[[Cultural Disembedding]]'
-- '[[The Shock of the Elite]]'
-- '[[Intuition-Dependent Mode]]'
-- '[[Lost Mode]]'
-- '[[Value Conformist Mode]]'
-- '[[Habitus]]'
-- '[[Cultural Capital]]'
-- '[[Champ]]'
-related_theories:
-- '[[Pierre Bourdieu]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Yajun Zheng]]'
-- '[[Clippings/Pierre Bourdieu]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-09'
@@ -65,10 +52,10 @@ updated: '2026-05-18'
 ## 克服路径
 
 
-要走出"文化迷失"的状态，归根到底需要重建内在自我，在新的场域找到定义自身价值与人生目标的新方式。相对而言，[[Value Conformist Mode|价值归顺者]]在大学里比较完整地经历了文化工具箱的重塑，更新了看待工作意义和自我价值的眼光，也走上了一条方向明确、前景宽阔的生涯道路，故而更容易跨越这一阶段（郑雅君，2023）。
+要走出"文化[[Lost Mode|迷失]]"的状态，归根到底需要重建内在自我，在新的[[Champ|场域]]找到定[[Rightness|义]]自身价值与人生目标的新方式。相对而言，[[Value Conformist Mode|价值归顺者]]在大学里比较完整地经历了[[Culture as Toolkit|文化工具箱]]的重塑，更新了看待工作意义和自我价值的眼光，也走上了一条方向明确、前景宽阔的生涯道路，故而更容易跨越这一阶段（[[Yajun Zheng|郑雅君]]，2023）。
 
 郑雅君（2023）进一步提出三项具体建议：
-- **转变认知**：意识到自身困境并非能力或性格缺陷引起，而是有规律可循的社会事实，不必感到羞耻和自责
+- **转变认知**：意识到自身困境并非能力或性格缺陷引起，而是有规律可循的社会事实，不必感到羞[[Shame (Confucianism)|耻]]和自责
 - **突破舒适区**：愿意挑战习以为常的观念和生活方式，接受（至少是有反思性地拒绝）那些总是不假思索就拒绝的观念和事物
 - **广泛学习场域规则**：积极创造多元化的社交机会，广泛接触新观念和新做法，尤其要增进与师长的非正式交往
 
@@ -92,4 +79,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

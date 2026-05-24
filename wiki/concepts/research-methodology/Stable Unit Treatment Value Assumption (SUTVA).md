@@ -6,22 +6,17 @@ aliases:
 summary: "潜在结果框架中的关键假定，指每个主体的潜在结果只取决于自身接受的处理而不受他人处理影响。"
 type: concept
 tags:
-- SUTVA
+- sutva
 - stable-unit-treatment-value-assumption
 - causal-inference
 - subject/research-methodology
-related_concepts:
-- '[[Potential Outcomes Framework]]'
-- '[[Cluster Randomized Trials]]'
-- '[[Randomised Controlled Trials]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Randomised Controlled Trials]]'
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Berk_2011_ER]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-03'
@@ -74,4 +69,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Berk_2011_ER]]
+- Berk_2011_ER

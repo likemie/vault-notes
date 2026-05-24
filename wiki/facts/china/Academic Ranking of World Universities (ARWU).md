@@ -16,22 +16,13 @@ tags:
 - region/china
 - region/global
 - level/higher-ed
-related_concepts:
-- '[[Global Universities Rankings]]'
-- '[[Geopolitics of Knowledge]]'
-- '[[International Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[OECD AHELO Project]]'
-- '[[PISA]]'
-related_arguments:
-- '[[Argument_Boyadjieva_2022_Springer]]'
-- '[[Argument_Slethaug_2010_InternationalEducation]]'
-sources:
-- '[[Ch8_Boyadjieva_2022]]'
-- '[[Ch1_Slethaug_2010]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -60,7 +51,7 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success]
-> ARWU 的发布引发了全球高等教育领域的排名竞赛（rankings race）。它标志着高等教育评估从国家层面向全球层面的历史性转变——高校不仅与国内同行比较，更被置于全球竞争场域中定位（Boyadjieva, 2022, p.131）。其以研究产出为核心的指标体系深刻影响了后续全球排名的设计取向，也奠定了 [[Global Universities Rankings|全球排名系统性偏见]] 的基本模式：研究密集型、自然科学强势、英语发表为主、历史悠久的老牌院校持续占据顶端。详见 [[Global Universities Rankings#核心特征与系统性偏见]]（Boyadjieva, 2022, pp.131–132）。
+> ARWU 的发布引发了全球高等教育领域的排名竞赛（rankings race）。它标志着高等教育评估从国家层面向全球层面的历史性转变——高校不仅与国内同行比较，更被置于全球竞争场域中定位（Boyadjieva, 2022, p.131）。其以研究产出为核心的指标体系深刻影响了后续全球排名的设计取向，也奠定了 全球排名系统性偏见 的基本模式：研究密集型、自然科学强势、英语发表为主、历史悠久的老牌院校持续占据顶端。详见 [[Global Universities Rankings#核心特征与系统性偏见]]（Boyadjieva, 2022, pp.131–132）。
 
 ---
 
@@ -83,4 +74,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch8_Boyadjieva_2022]]
+- Ch8_Boyadjieva_2022

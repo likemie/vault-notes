@@ -10,20 +10,13 @@ tags:
 - pluriverse
 - wicked-problems
 - social-change
-related_concepts:
-- '[[Posthumanism]]'
-- '[[Mondialisation]]'
-related_theories:
-- '[[Autopoiesis]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Arturo Escobar]]'
-- '[[Francisco Varela]]'
-- '[[Humberto Maturana]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Ch4_Amos_2022]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -92,4 +85,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch4_Amos_2022]]
+- Ch4_Amos_2022

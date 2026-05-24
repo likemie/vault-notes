@@ -12,22 +12,13 @@ tags:
 - higher-education
 - social-stratification
 - level/higher-ed
-related_concepts:
-- '[[Economy of Experience]]'
-- '[[Employability]]'
-- '[[Champ]]'
-- '[[Recommendation-Based Graduate Admission System]]'
-related_theories:
-- '[[Dual Elite Career Paths]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Randall Collins]]'
-- '[[Phillip Brown]]'
-related_facts:
-- '[[China College Graduate Employment Reform 1986-1997]]'
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[郑_2023_上海三联书店]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -41,12 +32,12 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 文凭通货膨胀（Credential Inflation）是美国社会学家[[Randall Collins]]在《文凭社会》（*The Credential Society*, 1979）一书中提出的概念，描述当越来越多人持有大学文凭时，市场对教育水平的要求水涨船高，大学文凭作为一种交换职业地位的通货，其交换价值在市场上发生萎缩的现象。
+> 文凭通货膨胀（Credential Inflation）是美国社会学家Randall Collins在《文凭社会》（*The Credential Society*, 1979）一书中提出的概念，描述当越来越多人持有大学文凭时，市场对教育水平的要求水涨船高，大学文凭作为一种交换职业地位的通货，其交换价值在市场上发生萎缩的现象。
 
 > [!quote]
 > "全球各个国家的经验都证明：当越来越多人持有大学文凭时，市场对教育水平的要求随即水涨船高，大学文凭作为一种用来交换职业地位的通货，其交换价值在市场上发生了萎缩"（郑雅君，2023，引 Collins, 1979）
 
-[[Yajun Zheng|郑雅君]]（2023）在对中国高等教育扩招背景下大学生就业竞争的分析中援引了这一概念，将其定位为理解中国精英大学毕业生竞争环境的结构性前提之一。
+[[Yajun Zheng|郑雅君]]（2023）在对中国高等教育扩招背景下大学生就业竞争的分析中援引了这一概念，将其定位为理解中国[[Jing (Refined Mastery)|精]]英大学毕业生竞争环境的结构性前提之一。
 
 ---
 
@@ -62,8 +53,8 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]
-> - **1979 提出**：[[Randall Collins|Collins]] 在 *The Credential Society* 中提出文凭通胀概念，论证教育扩张并不一定促进社会流动，反而可能导致文凭的交换价值缩水（郑雅君，2023，引 Collins, 1979）
-> - **2003–2004 就业力转向**：[[Phillip Brown|Brown]] & Hesketh 将文凭通胀的逻辑延伸至就业力分析——当硬通货缩水，软实力成为新的竞争维度，"就业力的个人化"由此兴起（郑雅君，2023，引 Brown & Hesketh, 2003, 2004）
+> - **1979 提出**：Collins 在 *The Credential Society* 中提出文凭通胀概念，论证教育扩张并不一定促进社会流动，反而可能导致文凭的交换价值缩水（郑雅君，2023，引 Collins, 1979）
+> - **2003–2004 就业力转向**：Brown & Hesketh 将文凭通胀的逻辑延伸至就业力分析——当硬通货缩水，软实力成为新的竞争维度，"就业力的个人化"由此兴起（郑雅君，2023，引 Brown & Hesketh, 2003, 2004）
 > - **2023 中国经验数据**：[[Yajun Zheng|郑雅君]]以中国 1999 年扩招以来的数据验证文凭通胀的逻辑——2011–2020 年间中国高等教育毕业生累计约一亿人，普通高校毕业生约 7000 万人（郑雅君，2023）
 
 ---
@@ -121,4 +112,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

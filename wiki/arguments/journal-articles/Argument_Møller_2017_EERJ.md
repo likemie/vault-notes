@@ -1,6 +1,6 @@
 ---
 title: Argument_Møller_2017
-summary: "以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越\"什么有效\"议程，提议以变革型领导力和批判性教育政策为双重分析透镜"
+summary: "以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越“什么有效“议程，提议以变革型领导力和批判性教育政策为双重分析透镜"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -12,24 +12,13 @@ tags:
 - performativity
 - stance/critique
 - region/global
-related_concepts:
-- '[[School Leadership]]'
-- '[[Transformative Leadership]]'
-- '[[New Public Management]]'
-- '[[Evidence-Based Education]]'
-- '[[Performativity of Measurement]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Randomised Controlled Trials]]'
-related_persons:
-- '[[Jorunn Møller]]'
-- '[[Christopher Day]]'
-- '[[Carolyn Shields]]'
-- '[[Helen Gunter]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Møller_2017_EERJ]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -126,4 +115,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Møller_2017_EERJ]]
+- Møller_2017_EERJ

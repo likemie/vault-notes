@@ -12,21 +12,13 @@ tags:
 - world-heritage
 - region/finland
 - level/higher-ed
-related_concepts:
-- '[[Phenomenon-Based Learning]]'
-- '[[Finnish National Core Curriculum 2014]]'
-- '[[Epochal Key Problems]]'
-- '[[Atomisation of Knowledge and Skills]]'
-- '[[Bildung]]'
-- '[[Didaktik]]'
-related_theories:
-- '[[Phenomenology]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Schaffar_2024_CogentEdu]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -74,4 +66,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Schaffar_2024_CogentEdu]]
+- Schaffar_2024_CogentEdu

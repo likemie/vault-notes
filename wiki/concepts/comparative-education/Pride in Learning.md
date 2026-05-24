@@ -15,21 +15,13 @@ tags:
   - theme/achievement
   - region/east-asia
   - region/west
-related_concepts:
-  - "[[Humility in Learning]]"
-  - "[[Intrinsic vs Extrinsic Motivation]]"
-  - "[[Socratic Tutoring Style]]"
-  - "[[Confucian Tutoring Style]]"
-related_theories:
-  - "[[MCC Discourse Analysis Examples]]"
-  - "[[Attribution Theory]]"
-  - "[[Self-Worth Theory]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -52,7 +44,7 @@ updated: 2026-05-23
 > [!example]
 > **骄傲 vs [[Humility in Learning|谦逊]]**：在西方心理学中，骄傲的反面通常是羞耻（shame）、尴尬或低自尊。但在儒家学习传统中，骄傲的对立面是谦逊——而非羞耻。谦逊不是低微的自我评价，而是一种内在力量（Li, 2012, p.79）。
 
-**东亚骄傲的双价性**：英语 pride 和中文"骄傲"（jiāo ào, 驕傲）之间不存在完全对等的翻译。Li 的翻译程序发现，93% 的双语者将 pride 译为"骄傲"，但其中 31% 指出"骄傲"同时有"傲慢、自负"的负面含义；45% 的全体受试者确认"骄傲"具有负面意味。这导致东亚学习者的骄傲是一种"悖论式情感"（paradoxical emotion）——既正面又负面（Li, 2012, p.77）。
+**东亚骄傲的双价性**：英语 pride 和中文"骄傲"（jiāo ào, 驕傲）之间不存在完全对等的翻译。Li 的翻译程序发现，93% 的双语者将 pride 译为"骄傲"，但其中 31% 指出"骄傲"同时有"傲慢、自负"的负面含[[Rightness|义]]；45% 的全体受试者确认"骄傲"具有负面意味。这导致东亚学习者的骄傲是一种"悖论式情感"（paradoxical emotion）——既正面又负面（Li, 2012, p.77）。
 
 ---
 
@@ -65,7 +57,7 @@ updated: 2026-05-23
 
 - 骄傲被视为高度正面的情感，尤其当成功归因于内部因素（能力或努力）时（Li, 2012, p.61）
 - Li 的模范学习者研究中，53% 的欧裔美国受访者提到骄傲，而中国受访者仅 22%（Li, 2012, p.75）
-- 西方学习者倾向于因自己的成就感到骄傲，并以骄傲激励后续学习（Li, 2012, p.63）
+- [[Western Learner|西方学习者]]倾向于因自己的成就感到骄傲，并以骄傲激励后续学习（Li, 2012, p.63）
 
 ### 东亚语境中的骄傲
 
@@ -107,4 +99,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

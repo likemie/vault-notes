@@ -8,26 +8,17 @@ type: fact
 subtype: policy
 region: hongkong
 tags:
-- Liberal Studies (Hong Kong)
+- liberal-studies-hong-kong
 - subject/curriculum
 - region/china
 - level/k12
-related_concepts:
-- '[[Policy Borrowing]]'
-related_theories:
-- '[[Cuban''s Curriculum Change Theory]]'
-- '[[World Society Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Paul Morris]]'
-- '[[Carrie Lam]]'
-- '[[Tung Chee-hwa]]'
-related_facts:
-- '[[English Schools Foundation Hong Kong]]'
-related_arguments:
-- '[[Argument_Ryan_2010_HKUP]]'
-sources:
-- '[[Yan_2025_JCS]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -135,9 +126,9 @@ updated: '2026-05-18'
 > [!example] 相关案例／政策
 > - [[Introduction of Liberal Studies 2009]] — LS 创立政策
 > - [[Replacement of LS by CSD 2021]] — LS 废除与 CSD 引入
-> - [[2012 MNE Controversy]] — 德育及国民教育科争议
+> - 2012 MNE Controversy — 德育及国民教育科争议
 > - [[2019 Hong Kong Protests and Education]] — 反修例运动与教育
 
 ## 来源
 
-- [[Yan_2025_JCS]]
+- Yan_2025_JCS

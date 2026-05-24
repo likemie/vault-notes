@@ -1,6 +1,6 @@
 ---
 title: Argument_Simpson_2017_JEP
-summary: "以农场肥料思想实验和真实研究案例，论证效应量三大系统性偏差（比较组、范围限制、测量设计）使元分析联盟表成为\"研究设计操纵开放程度的等级\"而非教育有效性排名"
+summary: "以农场肥料思想实验和真实研究案例，论证效应量三大系统性偏差（比较组、范围限制、测量设计）使元分析联盟表成为“研究设计操纵开放程度的等级“而非教育有效性排名"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -12,22 +12,13 @@ tags:
 - evidence-based-education
 - methodology
 - region/uk
-related_concepts:
-- '[[Effect Size]]'
-- '[[Evidence-Based Education]]'
-- '[[EEF Teaching and Learning Toolkit]]'
-- '[[Visible Learning]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Meta-analysis]]'
-- '[[Meta-meta-analysis]]'
-related_persons:
-- '[[Adrian Simpson]]'
-- '[[John Hattie]]'
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Simpson_2017_JEP]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -165,4 +156,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Simpson_2017_JEP]]
+- Simpson_2017_JEP

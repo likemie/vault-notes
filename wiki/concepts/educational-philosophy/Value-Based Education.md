@@ -11,19 +11,13 @@ tags:
 - normativity
 - paradigm/critical
 - region/global
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Complexity Reduction]]'
-related_theories:
-- '[[Transactional Epistemology]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Gert Biesta]]'
-- '[[John Dewey]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Biesta_2010_SPE]]'
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -120,4 +114,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Biesta_2010_SPE]]
+- Biesta_2010_SPE

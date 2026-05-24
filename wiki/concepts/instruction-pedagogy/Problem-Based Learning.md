@@ -9,23 +9,13 @@ tags:
 - problem-based-learning
 - subject/instruction
 - level/higher-ed
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Surface and Deep Learning]]'
-- '[[Direct Instruction]]'
-- '[[Meta-analysis]]'
-- '[[Effect Size]]'
-- '[[Phenomenon-Based Learning]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Hattie_2015_SOTLP]]'
-- '[[Blass_2020_JESP]]'
-- '[[Schaffar_2024_CogentEdu]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-04'
@@ -134,6 +124,6 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Hattie_2015_SOTLP]]
-- [[Blass_2020_JESP]]
-- [[Schaffar_2024_CogentEdu]]
+- Hattie_2015_SOTLP
+- Blass_2020_JESP
+- Schaffar_2024_CogentEdu

@@ -11,19 +11,13 @@ tags:
   - quantification
   - theme/digitalization
   - paradigm/critical
-related_concepts:
-  - "[[Bildung]]"
-  - "[[Learning Analytics]]"
-  - "[[Gamification]]"
-  - "[[Feedback]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
-sources:
-  - "[[Ch14_Jornitz_2022]]"
+related_arguments: []
+sources: []
 confidence: low
 status: draft
 created: 2026-05-20
@@ -40,7 +34,7 @@ updated: 2026-05-20
 > [!quote]
 > "The 'real time operationality' of devices functioning on such algorithmic logic saves human actors the burden and responsibility to transcribe, interpret and evaluate the events of the world. It saves them the meaning-making processes of transcription or representation, institutionalization, convention and symbolization."（Rouvroy, 2013, p.143, cited in Jornitz & Klinge, 2022, p.234）
 
-数据行为主义中的"行为主义"并非偶然——与 Skinner 的操作条件反射一样，它关注的是可观察的**行为模式**而非内在的**理解过程**。区别在于，Skinner 的行为主义通过实验室中的强化安排来塑造行为；数据行为主义则通过大规模数字痕迹的算法挖掘来从已有行为中"发现"模式，并将这些模式视为无需理解即可使用的"知识"。
+数据行为主[[Rightness|义]]中的"行为主义"并非偶然——与 Skinner 的操作条件反射一样，它关注的是可[[Observational and Correlational Research|观察]]的**行为模式**而非内在的**理解过程**。区别在于，Skinner 的行为主义通过实验室中的强化安排来塑造行为；数据行为主义则通过大规模数字痕迹的算法挖掘来从已有行为中"发现"模式，并将这些模式视为无需理解即可使用的"知识"。
 
 ## 核心要素
 
@@ -68,4 +62,4 @@ updated: 2026-05-20
 
 ## 来源
 
-- [[Ch14_Jornitz_2022]]
+- Ch14_Jornitz_2022

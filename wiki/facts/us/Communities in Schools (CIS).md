@@ -8,26 +8,19 @@ type: fact
 subtype: event
 region: us
 tags:
-- Communities-in-Schools
-- CIS
+- communities-in-schools
+- cis
 - dropout-prevention
 - educational-program
 - clearinghouse-rating-case
 - region/us
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Promising Practices Network (PPN)]]'
-- '[[Blueprints for Healthy Youth Development]]'
-- '[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]'
-- '[[National Dropout Prevention Center (NDPC)]]'
-- '[[CNCS Evidence Exchange (EE)]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -59,4 +52,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- Wadhwa_2024_RER

@@ -8,22 +8,13 @@ tags:
 - working-memory
 - learning-science
 - cognitive-science
-related_concepts:
-- '[[executive-function]]'
-- '[[updating-and-monitoring]]'
-- '[[prefrontal-cortex]]'
-- '[[Cognitive Task Analysis]]'
-- '[[Visible Learning]]'
-- '[[Feedback]]'
-related_theories:
-- '[[miyake-unity-diversity-framework]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Bolton_2017_ArchPsych]]'
-- '[[Fredens_2015_Paideia]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -33,9 +24,9 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 工作记忆（Working Memory）是执行功能（[[executive-function]]）中更新与监控成分的核心内容，指个体动态操纵和保持信息的能力（Bolton & Hattie, 2017, p.5）。
+> 工作记忆（Working Memory）是执行功能（executive-function）中更新与监控成分的核心内容，指个体动态操纵和保持信息的能力（Bolton & Hattie, 2017, p.5）。
 >
-> 在 Miyake 的[[miyake-unity-diversity-framework|EF 统一性与多样性框架]]中，工作记忆表征的更新与监控（updating and monitoring of working memory representations）被列为 EF 的三个基本成分之一（Bolton & Hattie, 2017, p.4）。
+> 在 Miyake 的EF 统一性与多样性框架中，工作记忆表征的更新与监控（updating and monitoring of working memory representations）被列为 EF 的三个基本成分之一（Bolton & Hattie, 2017, p.4）。
 
 ## 核心特征
 
@@ -61,7 +52,7 @@ updated: '2026-05-18'
 
 ## 注意力的作用
 
-幼儿期注意力表现结果的差异与工作记忆广度的差异有关。早期童年的注意力差异可预测后期童年抑制反应的能力（Bolton & Hattie, 2017, p.10）。
+幼儿期注意力表现结果的差异与工作记忆广度的差异有关。早期童年的注意力差异可预测后期童年抑制反应的能力（Bolton & [[John Hattie|Hattie]], 2017, p.10）。
 
 ## 与学习的关系
 
@@ -72,5 +63,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
-- [[Fredens_2015_Paideia]]
+- Bolton_2017_ArchPsych
+- Fredens_2015_Paideia

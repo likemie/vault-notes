@@ -12,22 +12,13 @@ tags:
 - implementation
 - program-evaluation
 - organizational-learning
-related_concepts:
-- '[[Evidence-Informed Practice]]'
-- '[[Local Knowledge in Evidence-Based Policy]]'
-- '[[Professional Judgment]]'
-- '[[Implementation Fidelity]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Formative Evaluation]]'
-- '[[Logic Model]]'
+related_methods: []
 related_persons: []
-related_facts:
-- '[[Students and Teachers Accessing Tomorrow (STAT)]]'
-related_arguments:
-- '[[Argument_Ross_Morrison_2021_ROE]]'
-sources:
-- '[[Ross_Morrison_2021_ROE]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-23'
@@ -39,7 +30,7 @@ updated: '2026-05-23'
 > [!info]
 > 吸收能力（Absorptive Capacity）指组织理解、吸收并使用外部知识或评价证据的能力。在学区改革中，它表现为关键伙伴是否理解项目，伙伴之间沟通是否开放，领导是否支持，以及评价反馈能否进入后续改进实践（Ross & Morrison, 2021, pp.122-124）。
 
-在复杂教育改革中，证据能否被使用，不只取决于研究设计是否严格。即使评价证据无法证明项目的单独因果效果，只要学区具备较高吸收能力，形成性反馈仍可能帮助项目改进实施质量、增强可持续性，并支持利益相关者理解项目进展（Ross & Morrison, 2021, pp.121-124）。
+在复杂教育改革中，证据能否被使用，不只取决于研究设计是否严格。即使评价证据无法证明项目的单独因果效果，只要学区具备较高吸收能力，形成性[[Feedback|反馈]]仍可能帮助项目改进实施质量、增强可持续性，并支持利益相关者理解项目进展（Ross & Morrison, 2021, pp.121-124）。
 
 ## 概念辨析
 
@@ -59,7 +50,7 @@ updated: '2026-05-23'
 
 ### 开放沟通
 
-形成性评价反馈需要通过简短报告、会议和持续沟通进入项目实践。若沟通不开放，证据可能停留在评价报告中，而不能转化为实施调整（Ross & Morrison, 2021, pp.123-124）。
+[[Formative Evaluation|形成性评价]][[Feedback|反馈]]需要通过简短报告、会议和持续沟通进入项目实践。若沟通不开放，证据可能停留在评价报告中，而不能转化为实施调整（Ross & Morrison, 2021, pp.123-124）。
 
 ### 支持性领导
 
@@ -86,4 +77,4 @@ updated: '2026-05-23'
 
 ## 来源
 
-- [[Ross_Morrison_2021_ROE]]
+- Ross_Morrison_2021_ROE

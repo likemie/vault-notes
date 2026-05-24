@@ -10,30 +10,13 @@ tags:
 - subject/curriculum
 - region/new-zealand
 - region/eu
-related_concepts:
-- '[[Educational Management Organisation (EMO)]]'
-- '[[Policy Entrepreneur]]'
-- '[[Privatisation of State Schooling]]'
-- '[[Endogenous and Exogenous Privatisation]]'
-- '[[Venture Philanthropy]]'
-- '[[Performance Indicators]]'
-- '[[Theories of Policy Change]]'
-- '[[Selectivity]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Stephen Ball]]'
-related_facts:
-- '[[EU Skills Agenda]]'
-- '[[Innovation Union]]'
-- '[[Europe 2020 Strategy]]'
-- '[[Youth Guarantee Scheme]]'
-related_arguments:
-- '[[Argument_Rambla_2022_Springer]]'
-sources:
-- '[[ONeill_2016_Report]]'
-- '[[Ch10_Rambla_2022]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -89,11 +72,11 @@ O'Neill et al.（2016, pp.8–12）列出近十余年新西兰同时体现私营
 
 **iii. Manaiakalani Education Trust（2011）**：源自 EHSAS 技术增强型扫盲计划，Manaiakalani Education Trust 以四名教育者/非教育者受托人混合结构成立，获 ASB Community Trust（后 Foundation North）和 Spark Foundation 创始赞助（2012）。至 2015 年获 NEXT Foundation 资助通过 Manaiakalani Outreach 将技术增强学习模式在全国规模化，另获 Samsung Electronics 资助。家庭和学校承担参与 Outreach 方案的运营成本（O'Neill et al., 2016, p.9）。详见 [[Manaiakalani Education Trust (NZ 2011)]]
 
-**iv. Te Toi Tupu Leading Learning Network（2009–2010）**：回应政府将原先整笔资助的大学附属学校支持服务变为竞争性合同的决策，由 Cognition Education、CORE Education、NZCER、怀卡托大学和 Waikato-Tainui College for Research and Development 组成联合体。2015 年 11 月，Cognition、CORE、奥克兰大学、坎特伯雷大学、奥塔哥大学、怀卡托大学和 Te Tapuae o Rehua 联合注册了 Professional Learning Association New Zealand 法人社团以制定咨询和专业发展促进者的伦理质量标准（O'Neill et al., 2016, pp.9–10）
+**iv. Te Toi Tupu Leading Learning Network（2009–2010）**：回应政府将原先整笔资助的大学附属学校支持服务变为竞争性合同的决策，由 [[Cognition Education (NZ)|Cognition Education]]、CORE Education、NZCER、怀卡托大学和 Waikato-Tainui College for Research and Development 组成联合体。2015 年 11 月，Cognition、CORE、奥克兰大学、坎特伯雷大学、奥塔哥大学、怀卡托大学和 Te Tapuae o Rehua 联合注册了 Professional Learning Association New Zealand 法人社团以制定咨询和专业发展促进者的伦理质量标准（O'Neill et al., 2016, pp.9–10）
 
-**v. Teach First New Zealand Ako Mātātupu (TFNZ)**：自 2011 年运营，为高成就毕业生在低 decile 学校提供基于就业的两年领导力发展/初级教师教育。由 Aotearoa Foundation（纽约）和 Tindall Foundation（奥克兰）2010 年配对资助可行性研究。作为奥克兰大学、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）三方合作运营。创始伙伴包括 Aotearoa Foundation、ASB Bank、Chapman Tripp、Deloitte、Harry Singer Foundation、Hutton Wilson Nominees (NEXT Foundation) 和 Woolf Fisher Trust。Aotearoa Foundation 涉及"美国对冲基金亿万富翁" Julian Robertson（2009 年首位荣誉新西兰骑士），其 Robertson Foundation 2014 年报总净资产 USD 575M，当年教育相关多年资助总额 USD 107.8M，大量与特许学校运动有关（O'Neill et al., 2016, pp.10–11）。详见 [[Teach First New Zealand (TFNZ 2011)]]
+**v. Teach First New Zealand Ako Mātātupu ([[Teach First New Zealand Ako Mātātupu (TFNZ 2011)|TFNZ]])**：自 2011 年运营，为高成就毕业生在低 decile 学校提供基于就业的两年领导力发展/初级教师教育。由 Aotearoa Foundation（纽约）和 Tindall Foundation（奥克兰）2010 年配对资助可行性研究。作为奥克兰大学、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）三方合作运营。创始伙伴包括 Aotearoa Foundation、ASB Bank、Chapman Tripp、Deloitte、Harry Singer Foundation、Hutton Wilson Nominees (NEXT Foundation) 和 Woolf Fisher Trust。Aotearoa Foundation 涉及"美国对冲基金亿万富翁" Julian Robertson（2009 年首位荣誉新西兰骑士），其 Robertson Foundation 2014 年报总净资产 USD 575M，当年教育相关多年资助总额 USD 107.8M，大量与[[Partnership Schools Kura Hourua (NZ 2011)|特许学校]]运动有关（O'Neill et al., 2016, pp.10–11）。详见 Teach First New Zealand (TFNZ 2011)
 
-**vi. [[Partnership Schools Kura Hourua (NZ 2011)|Partnership Schools Kura Hourua (PSKH)]]**：为兑现 2011 年 12 月国家党与 ACT 党供需信任协议，成立 PSKH 授权委员会，就私营实体（营利或非营利）运营公费私立学校提出建议。目前有 9 所运营，1 所合同终止。2016 年 5 月宣布设立 E Tipu E Rea 支持实体（2015 年 12 月注册为慈善机构）以支持新旧及未来赞助者，获政府有条件资助 USD 500,000，旨在通过慈善资助维持——E Tipu E Rea 是唯一受邀提交提案的机构（O'Neill et al., 2016, pp.11–12）
+**vi. Partnership Schools Kura Hourua (PSKH)**：为兑现 2011 年 12 月国家党与 ACT 党供需信任协议，成立 PSKH 授权委员会，就私营实体（营利或非营利）运营公费私立学校提出建议。目前有 9 所运营，1 所合同终止。2016 年 5 月宣布设立 E Tipu E Rea 支持实体（2015 年 12 月注册为慈善机构）以支持新旧及未来赞助者，获政府有条件资助 USD 500,000，旨在通过慈善资助维持——E Tipu E Rea 是唯一受邀提交提案的机构（O'Neill et al., 2016, pp.11–12）
 
 **vii. PPP 学校合同**：2012 年 4 月新西兰首个 PPP 公立学校合同授予 Learning Infrastructure Partners（LIP，财团包括 Hawkins Group, ASC Architects, PIP Fund 等）；2015 年 2 月第二份 PPP 合同授予 Future School Partners（FSP）建设和维护四所学校；2015 年 12 月宣布征集意向建设另外六所 PPP 学校（O'Neill et al., 2016, pp.12–13）
 
@@ -103,7 +86,7 @@ O'Neill et al.（2016, pp.8–12）列出近十余年新西兰同时体现私营
 
 在新西兰语境中，"部族"（clan）关系体现在 Māori iwi、rūnanga 当局、UMAs 以及 Pasifika 宗教和社区领袖在教育中扮演的角色（O'Neill et al., 2016, p.8）。
 
-报告指出关键张力：传统上，系统层面的学校政策干预依赖科层制、官僚式的区域关系（如 SEMO）或全国性（如 Ka Hikitea、Pasifika Education Plan）来解决教育成就的不平等。因此，对于在公立学校系统中相对未有良好成果的群体、社区和家庭来说，更具企业家精神、网络和部族的关系可能具有更大吸引力——特别是当群体看到更大的、更直接的治理和管理其自身教育事务的前景时（O'Neill et al., 2016, pp.13–14）。
+报告指出关键张力：传统上，系统层面的学校政策干预依赖科层制、官僚式的区域关系（如 SEMO）或全国性（如 Ka Hikitea、Pasifika Education Plan）来解决教育成就的不平等。因此，对于在公立学校系统中相对未有良好成果的群体、社区和家庭来说，更具企业家[[Jing (Refined Mastery)|精]]神、网络和部族的关系可能具有更大吸引力——特别是当群体看到更大的、更直接的治理和管理其自身教育事务的前景时（O'Neill et al., 2016, pp.13–14）。
 
 ---
 
@@ -114,11 +97,11 @@ O'Neill et al.（2016, pp.8–12）列出近十余年新西兰同时体现私营
 
 ### 官僚制与网络治理的混合模式
 
-YOUNG_ADULLLT 的研究发现，在欧盟各地，终身学习政策主要通过官僚治理和网络治理的混合模式实施——但市场治理（如美国私人培训提供商普遍活跃的模式）在欧盟并不显著（Rambla, 2022, p.172）。
+[[YOUNG_ADULLLT]] 的研究发现，在欧盟各地，终身学习政策主要通过官僚治理和网络治理的混合模式实施——但市场治理（如美国私人培训提供商普遍活跃的模式）在欧盟并不显著（Rambla, 2022, p.172）。
 
 ### 新社团主义网络（制度传统较强的国家）
 
-在德国及拥有新社团主义（neocorporatism）传统的邻国，政策网络包含传统伙伴——政府、雇主协会和工会的三方合作。在这些国家，系统的 [[Theories of Policy Change]]（如"学徒制系统"）为地方专业人员提供了连贯的行动框架，多元行动者的参与使 [[Selectivity]] 效应在一定程度上被制度多元性所缓冲（Rambla, 2022, p.172–173）。
+在德国及拥有[[Neocorporatism|新社团主义]]（neocorporatism）传统的邻国，政策网络包含传统伙伴——政府、雇主协会和工会的三方合作。在这些国家，系统的 [[Theories of Policy Change]]（如"学徒制系统"）为地方专业人员提供了连贯的行动框架，多元行动者的参与使 [[Selectivity]] 效应在一定程度上被制度多元性所缓冲（Rambla, 2022, p.172–173）。
 
 ### 公私民合作与就业管道
 
@@ -135,7 +118,7 @@ YOUNG_ADULLLT 的研究发现，在欧盟各地，终身学习政策主要通过
 
 ### 绩效指标对网络治理的塑造
 
-欧盟通过 EUROSTAT 的区域 [[Performance Indicators]] 间接塑造了网络治理的运作方式：指标不仅衡量成果，也定义了"良好治理"的标准，鼓励各级政府和非政府行动者围绕共同的基准展开竞争与合作。这种"通过指标的治理"（governance by indicators）是网络治理在超国家层面的一种特殊表现形态（Rambla, 2022, p.174–175）。
+欧盟通过 EUROSTAT 的区域 [[Performance Indicators]] 间接塑造了网络治理的运作方式：指标不仅衡量成果，也定[[Rightness|义]]了"良好治理"的标准，鼓励各级政府和非政府行动者围绕共同的基准展开竞争与合作。这种"通过指标的治理"（governance by indicators）是网络治理在超国家层面的一种特殊表现形态（Rambla, 2022, p.174–175）。
 
 ---
 
@@ -148,5 +131,5 @@ YOUNG_ADULLLT 的研究发现，在欧盟各地，终身学习政策主要通过
 
 ## 来源
 
-- [[ONeill_2016_Report]]
-- [[Ch10_Rambla_2022]]
+- ONeill_2016_Report
+- Ch10_Rambla_2022

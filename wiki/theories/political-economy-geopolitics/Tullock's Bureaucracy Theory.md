@@ -6,25 +6,21 @@ aliases:
 summary: "官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性"
 type: theory
 tags:
-- Tullock
+- tullock
 - bureaucracy
 - public-choice
 - knowledge-problem
 - information-asymmetry
-- EBE
+- ebe
 - paradigm/rational-choice
 - region/global
-related_concepts:
-- '[[Evidence-Based Education]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Gordon Tullock]]'
-- '[[Nick Cowen]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Cowen_2019_ERE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -75,9 +71,9 @@ updated: '2026-05-18'
 ## Cowen 的扩展：EBE 作为主权委托机制
 
 
-Cowen (2019) 将 Tullock 模型应用于证据本位教育（EBE），论证 EBE 的吸引力不在于认识论优越性，而在于**官僚便利性**（bureaucratic convenience）：
+Cowen (2019) 将 Tullock 模型应用于[[Evidence-Based Education|证据本位教育]]（EBE），论证 EBE 的吸引力不在于认识论优越性，而在于**官僚便利性**（bureaucratic convenience）：
 
-- RCT 和系统综述要求事先确定标准（假设、结果指标、检索协议），对主权者**透明**
+- [[Randomised Controlled Trials|RCT]] 和系统综述要求事先确定标准（假设、结果指标、检索协议），对主权者**透明**
 - 主权者无需评估专家资质、理解研究细节或判断特定干预 —— 只需要求"什么有效"（what works）
 - EBE 同时应对了两个主权急需：(a) 指导一线专业人员；(b) 评估学术研究者的证据
 
@@ -99,7 +95,7 @@ Cowen (2019) 将 Tullock 模型应用于证据本位教育（EBE），论证 EBE
 
 - **vs Niskanen 预算最大化** — Tullock 关注的不是自利/寻租，而是**纯粹认知挑战**：即使所有官僚真诚追求共同善，知识问题依然存在
 - **vs 委托代理理论（Principal-Agent Theory）** — 重叠但有区别：Tullock 更强调信息处理的认知局限（bounded rationality），而非激励冲突
-- **vs Biesta 的 EBE 批判** — 互补：Biesta 从认识论/存在论识别 EBE 的缺陷；Cowen 从**制度逻辑**解释 EBE 为何在缺陷已知的情况下仍被选择
+- **vs Biesta 的 [[Evidence-Based Education|EBE]] 批判** — 互补：Biesta 从认识论/存在论识别 EBE 的缺陷；Cowen 从**制度逻辑**解释 EBE 为何在缺陷已知的情况下仍被选择
 
 ## 研究范式
 
@@ -147,4 +143,4 @@ Cowen (2019) 将 Tullock 模型应用于证据本位教育（EBE），论证 EBE
 
 ## 来源
 
-- [[Cowen_2019_ERE]]
+- Cowen_2019_ERE

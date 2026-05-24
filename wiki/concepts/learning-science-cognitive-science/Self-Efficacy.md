@@ -11,18 +11,13 @@ tags:
   - theme/motivation
   - theme/self-belief
   - theme/achievement
-related_concepts:
-  - "[[Intrinsic vs Extrinsic Motivation]]"
-  - "[[Entity vs Incremental Intelligence]]"
-related_theories:
-  - "[[Attribution Theory]]"
-  - "[[Self-Worth Theory]]"
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Li_2012_Cambridge]]"
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -44,7 +39,7 @@ updated: 2026-05-23
 ## 概念辨析
 
 > [!example]
-> **自我效能 vs 一般能力感**：自我效能是任务特定的（task-specific）——一个人可能在数学上自我效能高，在写作上自我效能低——而非对自身智力的整体判断。这与 [[Entity vs Incremental Intelligence|Dweck 的智力观]] 不同：智力观回答的是"智力能不能变"，自我效能回答的是"这个具体任务我做不做得到"（Li, 2012, p.58–59）。
+> **自我效能 vs 一般能力感**：自我效能是任务特定的（task-specific）——一个人可能在数学上自我效能高，在写作上自我效能低——而非对自身智力的整体判断。这与 Dweck 的智力观 不同：智力观回答的是"智力能不能变"，自我效能回答的是"这个具体任务我做不做得到"（Li, 2012, p.58–59）。
 
 **自我效能 vs 实际能力**：自我效能感与实际能力水平并不等同。Bandura 的核心论点是：自我效能感调节的是动机和行动——一个人可能实际能力很高但自我效能感低（导致逃避挑战），反之亦然（Li, 2012, p.58）。
 
@@ -64,4 +59,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

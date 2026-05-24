@@ -12,25 +12,13 @@ tags:
 - region/denmark
 - stance/support
 - subject/instruction-pedagogy
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Dynamic Knowledge and Learning Model]]'
-- '[[Effect Size]]'
-- '[[Feedback]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Meta-analysis]]'
-- '[[Meta-meta-analysis]]'
-related_persons:
-- '[[John Hattie]]'
-- '[[Lars Qvortrup]]'
+related_methods: []
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Qvortrup_2015_Paideia]]'
-- '[[Argument_Laursen_2015_Paideia]]'
-- '[[Argument_Allerup_2015_Paideia]]'
-sources:
-- '[[Hansen_2015_Paideia]]'
+related_arguments: []
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-20'
@@ -90,4 +78,4 @@ updated: '2026-05-20'
 
 ## 来源
 
-- [[Hansen_2015_Paideia]]
+- Hansen_2015_Paideia

@@ -9,27 +9,13 @@ tags:
 - knowledge
 - visible-learning
 - subject/instruction
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Surface and Deep Learning]]'
-- '[[Effect Size]]'
-- '[[Evidence-Based Education]]'
-- '[[Scientism]]'
-related_theories:
-- '[[Popper''s Three Worlds Theory]]'
-related_methods:
-- '[[Meta-analysis]]'
-- '[[Meta-meta-analysis]]'
-related_persons:
-- '[[Lars Qvortrup]]'
-- '[[John Hattie]]'
-- '[[Carl Bereiter]]'
-- '[[John Biggs]]'
-- '[[Jean Piaget]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Qvortrup_2015_Paideia]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -47,7 +33,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - 1960s Gregory Bateson 已提出学习与沟通可区分为第一、第二、第三、第四阶学习，低阶到高阶学习的过渡通过自我反思发生（Qvortrup, 2015, p.31）。
-> - 2009 [[John Hattie]] 在 *Visible Learning* 中借 [[Popper's Three Worlds Theory|Popper 三个世界]]、[[Carl Bereiter|Bereiter]]、SOLO 模型和 Bloom 修订版来说明表层、深层和概念性学习，但不同框架之间的对应关系并不清楚（Qvortrup, 2015, pp.28–30）。
+> - 2009 [[John Hattie]] 在 *Visible Learning* 中借 Popper 三个世界、Bereiter、SOLO 模型和 Bloom 修订版来说明表层、深层和概念性学习，但不同框架之间的对应关系并不清楚（Qvortrup, 2015, pp.28–30）。
 > - 2015 Qvortrup 提出 Dynamic Knowledge and Learning Model，试图以 Bateson 的学习阶次替代单纯分类模型或哲学式三世界模型，并用于改进未来关于教育干预和学习结果的元分析（Qvortrup, 2015, pp.29–33）。
 
 ## 核心要素
@@ -81,7 +67,7 @@ updated: '2026-05-18'
 ## 研究用途（可操作化方向）
 
 
-- **作为"学习结果编码框架"**：在综述或元分析中，可先把 outcome 指标按一阶至四阶知识进行编码，再比较不同干预主要作用于哪一阶知识。
+- **作为"学习结果编码框架"**：在综述或[[Meta-analysis|元分析]]中，可先把 outcome 指标按一阶至四阶知识进行编码，再比较不同干预主要作用于哪一阶知识。
 - **作为"课程与评价对齐工具"**：若课程目标强调三阶/四阶知识（如创新、批判反思），测量工具就不能仅依赖事实回忆型测验。
 - **作为"教学设计诊断镜头"**：同一课堂活动可能同时触发多阶知识生成，避免将教学策略与单一学习层次机械绑定。
 
@@ -114,4 +100,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Qvortrup_2015_Paideia]]
+- Qvortrup_2015_Paideia

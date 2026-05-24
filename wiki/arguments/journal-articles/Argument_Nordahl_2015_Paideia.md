@@ -12,27 +12,13 @@ tags:
 - school-improvement
 - region/scandinavia
 - subject/instruction-pedagogy
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
-- '[[Professional Judgment]]'
-- '[[Knowledge Mobilisation]]'
-- '[[New Public Management]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[John Hattie]]'
-- '[[Gert Biesta]]'
-- '[[Thomas Nordahl]]'
-related_facts:
-- '[[No Child Left Behind Act 2001]]'
-related_arguments:
-- '[[Argument_Hansen_2015_Paideia]]'
-- '[[Argument_Håkansson_2015_Paideia]]'
-- '[[Argument_Allerup_2015_Paideia]]'
-- '[[Argument_Qvortrup_2015_Paideia]]'
-sources:
-- '[[Nordahl_2015_Paideia]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-21'
@@ -174,4 +160,4 @@ updated: '2026-05-21'
 
 ## 来源
 
-- [[Nordahl_2015_Paideia]]
+- Nordahl_2015_Paideia

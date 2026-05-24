@@ -11,16 +11,13 @@ tags:
 - school-reform
 - region/new-zealand
 - level/k12
-related_concepts:
-- '[[Educational Management Organisation (EMO)]]'
-- '[[Network Governance]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[ONeill_2016_Report]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -63,4 +60,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[ONeill_2016_Report]]
+- ONeill_2016_Report

@@ -12,21 +12,13 @@ tags:
 - subject/instruction-pedagogy
 - level/k12
 - region/norway
-related_concepts:
-- '[[School Norm Adaptation]]'
-- '[[Gender Differences in Academic Achievement]]'
-- '[[Learning-Impeding Behavior]]'
-- '[[Student-Teacher Relationship]]'
-- '[[Classroom Learning Culture]]'
-- '[[Academic Well-being and Interest in Learning]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Observational and Correlational Research]]'
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Lekhal_2015_Paideia]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -46,9 +38,9 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - 成功动机：学生追求学业达成与进步的目标取向（[[Lekhal_2015_Paideia]]）。
-> - 课堂投入：课堂任务中的注意力、参与度与坚持度（[[Lekhal_2015_Paideia]]）。
-> - 作业努力：课后学习中的持续性投入与任务完成质量（[[Lekhal_2015_Paideia]]）。
+> - 成功动机：学生追求学业达成与进步的目标取向（Lekhal_2015_Paideia）。
+> - 课堂投入：课堂任务中的注意力、参与度与坚持度（Lekhal_2015_Paideia）。
+> - 作业努力：课后学习中的持续性投入与任务完成质量（Lekhal_2015_Paideia）。
 
 ## 与相关概念的区别
 
@@ -58,13 +50,13 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - 在社会认知框架下，学习动机与努力投入由个体预期与课堂环境共同塑造（[[Lekhal_2015_Paideia]]）。
+> - 在社会认知框架下，学习动机与努力投入由个体预期与课堂环境共同塑造（Lekhal_2015_Paideia）。
 
 ## 实证发现
 
 > [!success] 实证发现
 > - 在学习动机与努力投入评分上，女生显著高于男生（d=-0.61, p=.000）。
-> - 学习动机与努力投入在男女模型中均为高权重预测项（[[Lekhal_2015_Paideia]]）。
+> - 学习动机与努力投入在男女模型中均为高权重预测项（Lekhal_2015_Paideia）。
 
 ## 待补充研究
 
@@ -74,7 +66,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 若仅依赖教师评定，学习动机与努力投入评分可能混合真实投入差异与评价者印象偏差（[[Lekhal_2015_Paideia]]）。
+> - 若仅依赖教师评定，学习动机与努力投入评分可能混合真实投入差异与评价者印象偏差（Lekhal_2015_Paideia）。
 
 ## 相关案例／政策
 
@@ -83,4 +75,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Lekhal_2015_Paideia]]
+- Lekhal_2015_Paideia

@@ -9,23 +9,15 @@ citation: Eacott, S. (2015). Problematising the intellectual gaze of the educati
 tags:
 - educational-administration
 - epistemology
-- Bourdieu
+- bourdieu
 - paradigm/critical
-related_concepts:
-- '[[Epistemological Break]]'
-- '[[Epistemological Vigilance]]'
-- '[[School Leadership]]'
-related_theories:
-- '[[Pierre Bourdieu]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Clippings/Pierre Bourdieu]]'
-- '[[Thomas Barr Greenfield]]'
-- '[[Helen Gunter]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Eacott_2015_EPT]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -101,4 +93,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Eacott_2015_EPT]]
+- Eacott_2015_EPT

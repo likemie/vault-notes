@@ -5,23 +5,17 @@ aliases:
 summary: "Bourdieu 的认识论概念，指科学研究必须与前科学世界的日常语言和自发理解进行断裂。"
 type: concept
 tags:
-- Epistemological Break
+- epistemological-break
 - epistemology
-- Bourdieu
+- bourdieu
 - paradigm/critical
-related_concepts:
-- '[[Epistemological Vigilance]]'
-related_theories:
-- '[[Pierre Bourdieu]]'
-- '[[Critical Realism]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Clippings/Pierre Bourdieu]]'
-- '[[Gaston Bachelard]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Eacott_2015_EPT]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -96,4 +90,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Eacott_2015_EPT]]
+- Eacott_2015_EPT

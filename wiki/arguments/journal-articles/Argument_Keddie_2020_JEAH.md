@@ -13,20 +13,13 @@ tags:
 - principals
 - region/australia
 - level/k12
-related_concepts:
-- '[[School Autonomy]]'
-- '[[School Leadership]]'
-- '[[New Public Management]]'
-- '[[My School Website]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Jill Blackmore]]'
-- '[[Helen Gunter]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Keddie_2020_JEAH]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -107,4 +100,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Keddie_2020_JEAH]]
+- Keddie_2020_JEAH

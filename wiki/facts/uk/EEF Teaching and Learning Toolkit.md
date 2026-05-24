@@ -8,43 +8,19 @@ subtype: policy
 region: uk
 issuing_organization: ''
 tags:
-- EEF
-- Teaching-and-Learning-Toolkit
+- eef
+- teaching-and-learning-toolkit
 - evidence-based-education
 - meta-analysis
 - effect-size
 - region/uk
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Evidence-Based Reform]]'
-- '[[Local Knowledge in Evidence-Based Policy]]'
-- '[[Effect Size]]'
-- '[[Moral Sidestep]]'
-- '[[Selective Education]]'
-- '[[Educational Evidence Clearinghouses]]'
-- '[[Knowledge Mobilisation]]'
-related_theories:
-- '[[Legitimation Theory Van Leeuwen]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Robert Slavin]]'
-- '[[Terry Wrigley]]'
-- '[[Nick Cowen]]'
-- '[[Nancy Cartwright]]'
-- '[[Adrian Simpson]]'
-related_facts:
-- '[[Ofsted]]'
-related_arguments:
-- '[[Argument_Pellegrini_2021_ROE]]'
-sources:
-- '[[Cowen_2015_CHESS]]'
-- '[[Cowen_2019_ERE]]'
-- '[[Slavin_2019_EP]]'
-- '[[Wrigley_2018_BERJ]]'
-- '[[Wrigley_2019_ERE]]'
-- '[[Simpson_2017_JEP]]'
-- '[[Bainbridge_2022_ROE]]'
-- '[[Pellegrini_2021_ROE]]'
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -215,10 +191,10 @@ Pellegrini & Vivanet 将 EEF 放入欧洲证据基础设施中理解：EEF 不�
 
 ## 来源
 
-- [[Cowen_2015_CHESS]]
-- [[Cowen_2019_ERE]]
-- [[Slavin_2019_EP]]
-- [[Wrigley_2018_BERJ]]
-- [[Wrigley_2019_ERE]]
-- [[Bainbridge_2022_ROE]]
-- [[Pellegrini_2021_ROE]]
+- Cowen_2015_CHESS
+- Cowen_2019_ERE
+- Slavin_2019_EP
+- Wrigley_2018_BERJ
+- Wrigley_2019_ERE
+- Bainbridge_2022_ROE
+- Pellegrini_2021_ROE

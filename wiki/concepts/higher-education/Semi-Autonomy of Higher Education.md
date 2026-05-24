@@ -12,20 +12,13 @@ tags:
 - theme/geopolitics
 - level/higher-ed
 - region/global
-related_concepts:
-- '[[Geopolitics of Knowledge]]'
-- '[[Double Spatiality of Universities]]'
-- '[[Methodological Globalism]]'
-- '[[Knowledge Capitalism]]'
-related_theories:
-- '[[World-Systems Theory]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Marginson_2025_ROE]]'
-sources:
-- '[[Marginson_2025_ROE]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -47,7 +40,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs 完全自主（full autonomy） — 完全自主意味着大学和科学不受外部力量约束。半自主性承认大学"几乎不可能不是国家的"（[[Double Spatiality of Universities|双重空间性]]），但同时指出全球尺度使大学"得以成为不为国家所完全定义的存在"（Marginson, 2025, p. 8）
+> - vs 完全自主（full autonomy） — 完全自主意味着大学和科学不受外部力量约束。半自主性承认大学"几乎不可能不是国家的"（双重空间性），但同时指出全球尺度使大学"得以成为不为国家所完全定义的存在"（Marginson, 2025, p. 8）
 > - vs 完全被决定（full determination） — [[World-Systems Theory|世界体系理论]]和[[Methodological Globalism|方法论全球主义]]持有此立场：高等教育和科学只是政治经济的上层建筑。半自主性论证的关键证据是：中国、韩国、印度、伊朗、巴西等国的科学产出增长模式各不相同，与政治经济的相关性各异——"如果科学产出完全由政治经济决定，那么这些国家的增长曲线应该是相似的"（Marginson, 2025, p. 13）
 > - vs 新自由主义"学术自由"话语 — 新自由主义框架下的"学术自由"通常指向个体的研究和教学自由，半自主性则是一个**制度层面**的概念，指高等教育部门作为一个整体相对于国家和经济系统的关系
 
@@ -59,7 +52,7 @@ updated: '2026-05-18'
 > - **认识论自主性** — 科学领域有自己独立的规范和评估标准（同行评议、引用影响、可重复性），不完全随政治风向变化。2018–2024 年中美政治紧张期间，中美科学家联合发表依然巨大——科学合作的惯性来自认识论层面的自主逻辑（Marginson, 2025, p. 11）
 > - **制度自主性** — 大学有自己的治理结构、学术传统和组织身份。这些制度特征不会因拨款政策的短期变化而立即改变。例如，一所大学的学术文化可能需要数十年才能形成或改变，远长于政治或经济周期（Marginson, 2025, pp. 8, 13–14）
 > - **知识分子的双重角色** — Gramsci 指出，文化部门的知识分子既可以服务于霸权（有机知识分子，organic intellectuals），也可以生产反霸权思想。同一位科学家可能上午为政府的国防项目提供咨询，下午在学术期刊上批评政府的科技政策——这种双重能力正是半自主性的具体体现（Marginson, 2025, pp. 13–14）
-> - **半自主性的历史基础** — [[Double Spatiality of Universities|大学的双重空间性]]——同时扎根在地和国家又跨越边界——是半自主性在制度层面的历史基础。从北印度佛教寺院到中世纪伊斯兰宗教学校到欧洲大学，高等教育机构从未完全从属于单一政治权威（Marginson, 2025, p. 8）
+> - **半自主性的历史基础** — 大学的双重空间性——同时扎根在地和国家又跨越边界——是半自主性在制度层面的历史基础。从北印度佛教寺院到中世纪伊斯兰宗教学校到欧洲大学，高等教育机构从未完全从属于单一政治权威（Marginson, 2025, p. 8）
 
 ---
 
@@ -73,7 +66,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Hegemony|霸权理论（Gramsci）]] — 半自主性是 Gramsci 文化霸权理论的核心推论，详见 [[Hegemony#核心命题]]
+> - 霸权理论（Gramsci） — 半自主性是 Gramsci 文化霸权理论的核心推论，详见 [[Hegemony#核心命题]]
 > - [[Double Spatiality of Universities]] — 大学双重空间性为半自主性提供了空间本体论基础：大学扎根于国家又超越国家
 > - [[Scale in Higher Education]] — 尺度不可化约性论证了为什么国家尺度的分析不能替代其他尺度的分析
 > - [[Multiplicity (Massey)]] — "总是有松散的末端"从本体论上排除了完全决定论的可能
@@ -99,4 +92,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Marginson_2025_ROE]]
+- Marginson_2025_ROE

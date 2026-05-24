@@ -10,21 +10,13 @@ tags:
 - evidence-based-education
 - educational-policy
 - methodology
-related_concepts:
-- '[[Evidence-Based Education]]'
-- '[[Direct Instruction]]'
-- '[[Randomised Controlled Trials]]'
-- '[[Visible Learning]]'
-- '[[Effect Size]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Yong Zhao]]'
-related_facts:
-- '[[No Child Left Behind Act 2001]]'
+related_persons: []
+related_facts: []
 related_arguments: []
-sources:
-- '[[Zhao_2017_JEC]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-04'
@@ -34,7 +26,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 教育中"副作用"（side effects）的概念由 [[Yong Zhao|Zhao]] (2017) 从医学引入教育研究。剑桥英语词典将副作用定义为："伴随某事物期望效果而来的非期望或意外的结果或状况"（Zhao, 2017, p.2）。在教育语境中，副作用指教育干预在产生预期效果的同时，可能对学生的其他能力、态度或发展维度造成的负面损害。
+> 教育中"副作用"（side effects）的概念由 Zhao (2017) 从医学引入教育研究。剑桥英语词典将副作用定义为："伴随某事物期望效果而来的非期望或意外的结果或状况"（Zhao, 2017, p.2）。在教育语境中，副作用指教育干预在产生预期效果的同时，可能对学生的其他能力、态度或发展维度造成的负面损害。
 >
 > > "Side effect is defined... as 'an unwanted or unexpected result or condition that comes along with the desired effects of something.'" (Zhao, 2017, p.2)
 >
@@ -93,4 +85,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Zhao_2017_JEC]]
+- Zhao_2017_JEC

@@ -12,22 +12,13 @@ tags:
   - theme/accountability
   - region/uk
   - method/quantitative
-related_concepts:
-  - "[[Political Arithmetic]]"
-  - "[[New Sociology of Education]]"
-  - "[[Sociology of Measurement]]"
-  - "[[Horizontal Knowledge Structure]]"
-related_theories:
-  - "[[Governmentality]]"
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-  - "[[Stephen Ball]]"
-related_facts:
-  - "[[Committee for the Accreditation of Teacher Education]]"
-related_arguments:
-  - "[[Argument_Ball_2008_SR]]"
-sources:
-  - "[[Ball_2008_SR]]"
+related_persons: []
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -85,4 +76,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- [[Ball_2008_SR]]
+- Ball_2008_SR

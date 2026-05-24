@@ -13,22 +13,13 @@ tags:
 - theory/confucianism
 - field/chinese-philosophy
 - theme/ethics
-related_concepts:
-- "[[Li (Propriety)]]"
-- "[[Rightness]]"
-- "[[Self-Cultivation]]"
-- "[[Learning Virtues]]"
-related_theories:
-- "[[Confucian Learning Tradition]]"
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- "[[Confucius]]"
-- "[[Mencius]]"
+related_persons: []
 related_facts: []
-related_arguments:
-- "[[Argument_Li_2012_Cambridge]]"
-sources:
-- "[[Li_2012_Cambridge]]"
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -81,7 +72,7 @@ updated: 2026-05-22
 > [!tip]
 > - 与[[Mencius|孟子]]四端说的关联：羞恶之心 → [[Rightness|义]]（Li, 2012, pp.42-43）——耻感是义的先天萌芽
 > - [[Self-Cultivation]] — 耻是修身中自我纠正的内在机制
-> - [[Learning Virtues]] — 耻与[[Learning Virtues#1. 诚心（Sincerity, chéngxīn）|诚心]]（真诚面对自己）和[[Learning Virtues#7. 谦虚（Humility, qiānxū）|谦虚]]（承认不足）直接关联
+> - [[Learning Virtues]] — 耻与诚心（真诚面对自己）和谦虚（承认不足）直接关联
 
 ---
 
@@ -95,4 +86,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- Li_2012_Cambridge

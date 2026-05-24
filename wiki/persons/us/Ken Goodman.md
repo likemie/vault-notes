@@ -6,19 +6,17 @@ summary: "美国教育学者，全语言运动奠基人和 Reading_A Psycholingu
 type: person
 nationality: us
 tags:
-- Ken-Goodman
+- ken-goodman
 - whole-language
 - literacy
 - paradigm/constructivist
 - region/us
-related_concepts:
-- '[[Whole Language]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources:
-- '[[OConnor_2020_AJLL]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -82,4 +80,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[OConnor_2020_AJLL]]
+- OConnor_2020_AJLL

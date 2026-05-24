@@ -6,22 +6,15 @@ aliases:
 summary: "社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，Larsen (2019) 以盲点和结构耦合概念批判 VL"
 type: theory
 tags:
-- Luhmann
+- luhmann
 - paradigm/systems-theory
-related_concepts:
-- '[[Blind Spot in Observation]]'
-- '[[Structural Coupling]]'
-- '[[Visible Learning]]'
-- '[[Knowledge-Based Economization]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Niklas Luhmann]]'
-- '[[Steen Nepper Larsen]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Larsen_2019_EducSci]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -80,4 +73,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Larsen_2019_EducSci]]
+- Larsen_2019_EducSci

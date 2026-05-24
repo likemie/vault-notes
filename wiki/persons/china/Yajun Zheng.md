@@ -6,43 +6,16 @@ summary: "中国高等教育研究者，双模式框架提出者和 金榜题名
 type: person
 nationality: china
 tags:
-- Yajun-Zheng
+- yajun-zheng
 - higher-education
 - cultural-sociology
 - region/china
-related_concepts:
-- '[[Goal-Controlled Mode]]'
-- '[[Intuition-Dependent Mode]]'
-- '[[Cultural Barrier in Higher Education]]'
-- '[[Habitus]]'
-- '[[Cultural Capital]]'
-- '[[Champ]]'
-- '[[Academic and Social Integration]]'
-- '[[Student Engagement]]'
-- '[[The Shock of the Elite]]'
-- '[[Self-Authorship]]'
-- '[[Self-Driven Mode]]'
-- '[[Opportunist Mode]]'
-- '[[Lost Mode]]'
-- '[[Value Conformist Mode]]'
-- '[[Graduation Pathway Typology (Zheng)]]'
-- '[[Work Meaning Schemas (Zheng)]]'
-- '[[Cultural Disembedding]]'
-- '[[Cultural Disorientation]]'
-related_theories:
-- '[[Pierre Bourdieu]]'
-- '[[Culture as Toolkit]]'
-- '[[Rational Action Theory in Education]]'
-- '[[Dual-Process Model of Culture in Action]]'
-related_methods:
-- '[[Constructivist Grounded Theory]]'
-related_persons:
-- '[[Marcia Baxter Magolda]]'
-- '[[Didier Eribon]]'
-related_arguments:
-- '[[Argument_郑_2023_上海三联书店]]'
-sources:
-- '[[郑_2023_上海三联书店]]'
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -82,28 +55,28 @@ updated: '2026-05-19'
 ## 核心思想
 
 > [!tip]
-> 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（Tinto [[Academic and Social Integration|融入理论]]、Kuh [[Student Engagement|投入理论]]）、教育社会学（[[Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、Vaisey [[Dual-Process Model of Culture in Action|双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"分析框架（郑雅君，2023）。
+> 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（Tinto 融入理论、Kuh 投入理论）、教育社会学（[[Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、Vaisey 双过程模型）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"分析框架（郑雅君，2023）。
 
 > [!quote]
 > "如果说整本书有什么是我最迫切想和读者分享的，那就是当我将自己浸没在被访者的声音中，我的发现恰恰挑战了自己先前想当然的前提假设——学生的毕业去向都是他们有意图地主动选择的结果"（郑雅君，2023）
 
 ### 理论框架：三层嵌套的"大学过程"模型
 
-- **资本化过程**（最外层结构性约束）：家庭赋予的经济、文化和社会资源如何在大学场域中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑（郑雅君，2023）
+- **资本化过程**（最外层结构性约束）：家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑（郑雅君，2023）
 - **投入过程**（中层行动策略）：学生在学业投入（[[Academic Engagement]]）和社会性投入（[[Social Engagement]]）两个维度上如何组织大学生活，分别对应两种模式的不同策略取向
-- **价值选择过程**（最内层意义建构）：学生在 [[Work Meaning Schemas (Zheng)|三种工作意义图式]]（地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达）之间的选择与整合，决定其毕业出路的最终方向（郑雅君，2023）
+- **价值选择过程**（最内层意[[Rightness|义]]建构）：学生在 三种工作意义图式（地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达）之间的选择与整合，决定其毕业出路的最终方向（郑雅君，2023）
 
 ### 核心发现
 
 **双模式类型学**：大学生在组织大学生活的方式上存在系统性的阶层差异——优势家庭学生更常采用[[Goal-Controlled Mode|目标掌控模式]]（有策略地规划大学生活以实现职业目标），而弱势家庭学生更常采用[[Intuition-Dependent Mode|直觉依赖模式]]（凭直觉应对大学选择，缺乏对场域规则的了解）。在 Vaisey 双过程框架下，这两种模式分别对应着在深层价值观驱动和浅层工具箱能力两个维度上的系统性阶层差异（郑雅君，2023）。
 
-**四分类模型**：在双模式基础上纳入价值信念驱动力维度，形成 [[Graduation Pathway Typology (Zheng)|2×2 四分类]]：[[Self-Driven Mode|自主驱动者]]（目标掌控+强价值信念）、[[Opportunist Mode|机会主义者]]（目标掌控+弱价值信念）、[[Lost Mode|迷失无从者]]（直觉依赖+弱价值信念）、[[Value Conformist Mode|价值归顺者]]（直觉依赖+强价值信念）（郑雅君，2023）。
+**四分类模型**：在双模式基础上纳入价值信念驱动力维度，形成 2×2 四分类：[[Self-Driven Mode|自主驱动者]]（目标掌控+强价值信念）、[[Opportunist Mode|机会主义者]]（目标掌控+弱价值信念）、[[Lost Mode|迷失无从者]]（直觉依赖+弱价值信念）、[[Value Conformist Mode|价值归顺者]]（直觉依赖+强价值信念）（郑雅君，2023）。
 
 **文化障碍的二重性**：郑雅君进一步将[[Cultural Barrier in Higher Education|文化障碍]]厘清为两重维度——[[Cultural Disembedding|文化脱嵌]]（对物理环境和社会文化环境的全面疏离感）和[[Cultural Disorientation|文化迷失]]（场域转换造成的内在自我冲突和目标策略迷失）（郑雅君，2023）。
 
 ### 方法论立场
 
-郑雅君遵循韦伯诠释社会学传统，以[[Constructivist Grounded Theory|建构主义扎根理论]]（Charmaz, 2006）方法处理 62 名跟踪式深度访谈数据（累计 150+ 万字），在理论演绎与现象归纳的循环迭代中最终产出了类型学发现。其研究设计以**跟踪式个案**为分析单位，通过目的抽样与理论抽样选取典型案例，结合类别系列分解策略优化可外推性（郑雅君，2023）。
+郑雅君遵循韦伯诠释社会学传统，以[[Constructivist Grounded Theory|建构主义扎根理论]]（Charmaz, 2006）方法处理 62 名跟踪式[[In-depth Interview|深度访谈]]数据（累计 150+ 万字），在理论演绎与现象归纳的循环迭代中最终产出了类型学发现。其研究设计以**跟踪式个案**为分析单位，通过目的抽样与理论抽样选取典型案例，结合类别系列分解策略优化可外推性（郑雅君，2023）。
 
 ---
 
@@ -115,12 +88,12 @@ updated: '2026-05-19'
 ### 2014–2017 研究起点与首轮田野
 
 - **核心问题**：中国一流大学中，社会出身如何影响学生的毕业出路？
-- **思想发展**：2014 年夏以 Bourdieu 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始假设——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础（郑雅君，2023）。
+- **思想发展**：2014 年夏以 [[Pierre Bourdieu|Bourdieu]] 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始假设——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础（郑雅君，2023）。
 
 ### 2017–2018 补充田野与理论深化
 
 - **核心调整**：补充低阶层样本，深化理论对话
-- **思想发展**：受牛新春老师之邀，在"南方大学"补充访谈 24 名主要来自较低阶层背景的学生，使总样本达 62 人。此阶段的理论对话扩展至 Swidler 文化工具箱和 Vaisey 双过程模型——Bourdieu 的再生产理论解释了结构性约束，Swidler 和 Vaisey 则帮助理解了行动者在约束中的策略和意义建构差异（郑雅君，2023）。
+- **思想发展**：受牛新春老师之邀，在"南方大学"补充访谈 24 名主要来自较低阶层背景的学生，使总样本达 62 人。此阶段的理论对话扩展至 Swidler [[Culture as Toolkit|文化工具箱]]和 [[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]——Bourdieu 的再生产理论解释了结构性约束，Swidler 和 Vaisey 则帮助理解了行动者在约束中的策略和意[[Rightness|义]]建构差异（郑雅君，2023）。
 - **相关概念**：[[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]]、[[Cultural Barrier in Higher Education]]
 
 ### 2023 出版与传播
@@ -149,4 +122,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- 郑_2023_上海三联书店

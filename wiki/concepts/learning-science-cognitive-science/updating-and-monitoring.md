@@ -10,20 +10,13 @@ tags:
 - executive-function
 - learning-science
 - cognitive-science
-related_concepts:
-- '[[executive-function]]'
-- '[[working-memory]]'
-- '[[cognitive-inhibition]]'
-- '[[cognitive-shifting]]'
-- '[[prefrontal-cortex]]'
-related_theories:
-- '[[miyake-unity-diversity-framework]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Bolton_2017_ArchPsych]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -33,9 +26,9 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 更新与监控（Updating and Monitoring）是执行功能（[[executive-function]]）的核心成分之一，指个体动态操纵[[working-memory|工作记忆]]所保持内容的能力（Bolton & Hattie, 2017, p.5）。
+> 更新与监控（Updating and Monitoring）是执行功能（executive-function）的核心成分之一，指个体动态操纵工作记忆所保持内容的能力（Bolton & Hattie, 2017, p.5）。
 >
-> 在 Miyake 的[[miyake-unity-diversity-framework|EF 统一性与多样性框架]]中，工作记忆表征的更新与监控（updating and monitoring of working memory representations）被列为 EF 的三个基本成分之一（Bolton & Hattie, 2017, p.4）。
+> 在 Miyake 的EF 统一性与多样性框架中，工作记忆表征的更新与监控（updating and monitoring of working memory representations）被列为 EF 的三个基本成分之一（Bolton & Hattie, 2017, p.4）。
 
 ## 核心特征
 
@@ -61,4 +54,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
+- Bolton_2017_ArchPsych

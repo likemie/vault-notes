@@ -14,22 +14,13 @@ tags:
 - evidence-based-education
 - research-use
 - school-improvement
-related_concepts:
-- '[[Evidence-Informed Practice]]'
-- '[[Evidence-Based Education]]'
-- '[[Professional Judgment]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Carol Campbell]]'
-- '[[Julie Nelson]]'
-- '[[Thomas Nordahl]]'
+related_persons: []
 related_facts: []
-related_arguments:
-- '[[Argument_Nordahl_2015_Paideia]]'
-sources:
-- '[[Nelson_2017_ER]]'
-- '[[Nordahl_2015_Paideia]]'
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-21'
@@ -57,7 +48,7 @@ updated: '2026-05-21'
 > 当前 vault 中可确认的知识动员演变线索，主要集中在教育研究利用与安大略学校改进语境中：
 >
 > - **2010s** — 在证据知情实践讨论中，KMb 被用来解释“研究-实践鸿沟”不只是供给或需求问题，而是中介、传播和组织条件问题（Nelson & Campbell, 2017, pp.127, 130–131）。
-> - **2015** — [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 将 KMb 放进北欧 [[Visible Learning]] 支持路径中，用来说明学校改进的难点不在“有没有研究”，而在“研究怎样进入课堂并变成教师行动”（Nordahl, 2015, pp.66–67）。
+> - **2015** — Nordahl (2015) 将 KMb 放进北欧 [[Visible Learning]] 支持路径中，用来说明学校改进的难点不在“有没有研究”，而在“研究怎样进入课堂并变成教师行动”（Nordahl, 2015, pp.66–67）。
 
 ## 核心要素
 
@@ -79,7 +70,7 @@ updated: '2026-05-21'
 
 > [!success]
 > - Nelson & Campbell (2017, pp.130–131) 归纳出 KMb 的四类核心策略：沟通与传播、能力建设、伙伴关系与网络、系统化方法。
-> - 在 [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 的学校改进论述里，KMb 被明确放进“研究如何进入课堂”的核心位置，说明教师知识不是简单接收就能应用，而需要在协作、反思和实践中被重新组织（Nordahl, 2015, pp.66–67）。
+> - 在 Nordahl (2015) 的学校改进论述里，KMb 被明确放进“研究如何进入课堂”的核心位置，说明教师知识不是简单接收就能应用，而需要在协作、反思和实践中被重新组织（Nordahl, 2015, pp.66–67）。
 
 > [!info]- 核心数据
 > - Nelson & Campbell (2017, pp.130–131) 将 KMb 策略归纳为 4 类。
@@ -87,7 +78,7 @@ updated: '2026-05-21'
 ## 争议与批评
 
 > [!warning]
-> - 知识动员容易被浪漫化成“只要研究被传播出去就会发生改进”，但 [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 恰恰提醒，真正困难的是知识被翻译、被吸收和被组织支持，而不是单纯“看见研究”。
+> - 知识动员容易被浪漫化成“只要研究被传播出去就会发生改进”，但 Nordahl (2015) 恰恰提醒，真正困难的是知识被翻译、被吸收和被组织支持，而不是单纯“看见研究”。
 > - 在证据本位教育争论中，支持强版本 EBE 的立场可能认为 KMb 过于强调本地转译和专业判断，从而削弱了对标准化项目或高等级证据的依赖；而 EIP 取向则恰恰把这种转译视为不可省略的条件。
 
 ## 相关案例／政策
@@ -98,5 +89,5 @@ updated: '2026-05-21'
 
 ## 来源
 
-- [[Nelson_2017_ER]]
-- [[Nordahl_2015_Paideia]]
+- Nelson_2017_ER
+- Nordahl_2015_Paideia

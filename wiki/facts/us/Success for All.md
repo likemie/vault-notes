@@ -7,26 +7,19 @@ type: fact
 subtype: event
 region: us
 tags:
-- Success-for-All
+- success-for-all
 - educational-program
 - literacy
 - comprehensive-school-reform
 - clearinghouse-rating-case
 - region/us
-related_concepts:
-- '[[Educational Evidence Clearinghouses]]'
-- '[[What Works Clearinghouse (WWC)]]'
-- '[[Best Evidence Encyclopedia (BEE)]]'
-- '[[Blueprints for Healthy Youth Development]]'
-- '[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]'
-- '[[Social Programs That Work (SPTW)]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Wadhwa_2024_RER]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-05'
@@ -58,4 +51,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- Wadhwa_2024_RER

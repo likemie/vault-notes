@@ -5,22 +5,16 @@ aliases:
 summary: "Eacott 提出的概念，描述教育行政研究中学者各自在子领域内发表和引用但很少实质性交锋的结构性现象，用于批评缺乏论证与反驳的学术交流模式。"
 type: concept
 tags:
-- Parallel Monologues
+- parallel-monologues
 - educational-administration
 - research-methodology
-related_concepts:
-- '[[Visible Learning]]'
-- '[[Evidence-Based Education]]'
-related_theories:
-- '[[Pierre Bourdieu]]'
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-- '[[Scott Eacott]]'
-- '[[John Hattie]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Eacott_2019_IJLE]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -79,4 +73,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Eacott_2019_IJLE]]
+- Eacott_2019_IJLE

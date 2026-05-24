@@ -7,23 +7,16 @@ aliases:
 summary: "一种以学校、班级或其他群体而非个体作为随机化单位的 RCT 设计变体，常用于教育研究中处理集体干预和现场实施条件。"
 type: concept
 tags:
-- Cluster Randomized Trials
+- cluster-randomized-trials
 - subject/research-methodology
 - level/k12
-related_concepts:
-- '[[Randomised Controlled Trials]]'
-- '[[Intent-to-Treat Analysis]]'
-- '[[Effect Size]]'
-- '[[Stable Unit Treatment Value Assumption (SUTVA)]]'
+related_concepts: []
 related_theories: []
-related_methods:
-- '[[Randomised Controlled Trials]]'
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Pampaka_2016_IJRME]]'
-- '[[Berk_2011_ER]]'
+sources: []
 confidence: low
 status: draft
 created: '2026-05-02'
@@ -71,5 +64,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Pampaka_2016_IJRME]]
-- [[Berk_2011_ER]]
+- Pampaka_2016_IJRME
+- Berk_2011_ER

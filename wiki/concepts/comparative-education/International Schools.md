@@ -8,22 +8,13 @@ type: concept
 tags:
 - region/global
 - level/k12
-related_concepts:
-- '[[International Education]]'
-- '[[International Baccalaureate (IB)]]'
-- '[[Chinese Learner]]'
-- '[[Fourth Culture]]'
-- '[[Boarding Schools]]'
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-- '[[English Schools Foundation Hong Kong]]'
-- '[[Education City Doha]]'
-related_arguments:
-- '[[Argument_Slethaug_2010_InternationalEducation]]'
-sources:
-- '[[Ch1_Slethaug_2010]]'
+related_facts: []
+related_arguments: []
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-17'
@@ -42,7 +33,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[Boarding Schools|寄宿学校]] — 寄宿学校位于学校母国境内、学生从海外返回就读；国际学校分布于世界各地、学生就地就读于海外。详见 [[Boarding Schools#与国际学校的区别|寄宿学校对比表]]
+> - vs [[Boarding Schools|寄宿学校]] — 寄宿学校位于学校母国境内、学生从海外返回就读；国际学校分布于世界各地、学生就地就读于海外。详见 寄宿学校对比表
 > - vs 本地公立学校 — 国际学校以英语为主要教学语言、收取全额学费、采用国际课程（如 IB）；本地公立学校使用母语教学、政府资助、遵循国家课程
 > - vs 海外分校 — 海外分校是大学层面的机构（如 [[Education City Doha|多哈教育城]]），国际学校是 K-12 层面的机构
 
@@ -88,7 +79,7 @@ updated: '2026-05-18'
 > [!abstract]
 > ### 课程国际化
 > 学生构成的多元化迫使国际学校重新思考课程和教学假设（Slethaug, 2010, pp.26–28）：
-> - 越来越多学校转向 [[International Baccalaureate (IB)|IB 课程]]，因其国家标识较少
+> - 越来越多学校转向 IB 课程，因其国家标识较少
 > - 语言课程从单一母语转向双语/三语——如香港国际学校引入普通话
 > - 加拿大国际学校（香港）取消了安大略省公民课，因对不再在加拿大生活的学生缺乏相关性
 > - 澳大利亚、新西兰和英国的教师也感受到从本地关切转向更国际化内容的压力
@@ -99,7 +90,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > ### 本地学生的身份张力
-> 大量本地学生"在家门口"就读国际学校，以避免在海外过度西化。但这制造了身份张力（Slethaug, 2010, pp.24–25）：学生在学校情境中的价值观和期望，与家庭和本地社区存在显著差异——这正是 Deveney（2005）所称的 [[Fourth Culture|"第四文化"]]现象。
+> 大量本地学生"在家门口"就读国际学校，以避免在海外过度西化。但这制造了身份张力（Slethaug, 2010, pp.24–25）：学生在学校情境中的价值观和期望，与家庭和本地社区存在显著差异——这正是 Deveney（2005）所称的 "第四文化"现象。
 
 > [!quote]
 > "广泛的 social、经济和技术变革已显著影响教育政策与实践。全球化……也导致了传统价值的贬值。在世界许多地区，全球化推动的文化与传统文​​化之间存在着张力。"（Rao, Ng, & Pearson, 2009, p.257，转引自 Slethaug, 2010, p.25）
@@ -133,4 +124,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Ch1_Slethaug_2010]]
+- Ch1_Slethaug_2010

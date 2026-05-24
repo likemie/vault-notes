@@ -1,6 +1,6 @@
 ---
 title: Argument_Simpson_2019
-summary: "以\"教一个匈牙利单词\"思想实验证明效应量是试验清晰度而非教育有效性的测量，系统论证 EBE 支持者的六种防御策略"
+summary: "以“教一个匈牙利单词“思想实验证明效应量是试验清晰度而非教育有效性的测量，系统论证 EBE 支持者的六种防御策略"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -13,20 +13,13 @@ tags:
 - methodology
 - statistics
 - stance/critique
-related_concepts:
-- '[[Effect Size]]'
-- '[[Evidence-Based Education]]'
-- '[[Visible Learning]]'
+related_concepts: []
 related_theories: []
 related_methods: []
-related_persons:
-- '[[Adrian Simpson]]'
-- '[[John Hattie]]'
-- '[[Gene Glass]]'
+related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Simpson_2019_ERE]]'
+sources: []
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -132,4 +125,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- [[Simpson_2019_ERE]]
+- Simpson_2019_ERE

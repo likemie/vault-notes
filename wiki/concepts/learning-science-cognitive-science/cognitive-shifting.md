@@ -12,19 +12,13 @@ tags:
 - executive-function
 - learning-science
 - cognitive-science
-related_concepts:
-- '[[executive-function]]'
-- '[[cognitive-inhibition]]'
-- '[[updating-and-monitoring]]'
-- '[[prefrontal-cortex]]'
-related_theories:
-- '[[miyake-unity-diversity-framework]]'
+related_concepts: []
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-- '[[Bolton_2017_ArchPsych]]'
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -34,9 +28,9 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 认知转换（Cognitive Shifting），亦称认知灵活性（Cognitive Flexibility）或任务切换（Task Switching），是执行功能（[[executive-function]]）的核心成分之一，指在多个不同任务、操作或心理集之间来回切换的能力（Bolton & Hattie, 2017, p.5）。
+> 认知转换（Cognitive Shifting），亦称认知灵活性（Cognitive Flexibility）或任务切换（Task Switching），是执行功能（executive-function）的核心成分之一，指在多个不同任务、操作或心理集之间来回切换的能力（Bolton & Hattie, 2017, p.5）。
 >
-> 在 Miyake 的[[miyake-unity-diversity-framework|EF 统一性与多样性框架]]中，任务或心理集之间的转换（shifting between tasks or mental sets）被列为 EF 的三个基本成分之一（Bolton & Hattie, 2017, p.4）。
+> 在 Miyake 的EF 统一性与多样性框架中，任务或心理集之间的转换（shifting between tasks or mental sets）被列为 EF 的三个基本成分之一（Bolton & Hattie, 2017, p.4）。
 
 ## 核心特征
 
@@ -66,8 +60,8 @@ updated: '2026-05-18'
 ## 与前额叶皮层的关系
 
 > [!info] 与前额叶皮层的关系
-> 转换任务期间前额叶皮层（[[prefrontal-cortex]]）的 vlPFC 和 dlPFC 区域被激活，与个体重新聚焦注意力或切换任务的情况一致（Bolton & Hattie, 2017, p.12）。背外侧 PFC（dlPFC）在任务需要新颖性或任务间切换时发挥作用（Bolton & Hattie, 2017, p.8）。
+> 转换任务期间前额叶皮层（prefrontal-cortex）的 vlPFC 和 dlPFC 区域被激活，与个体重新聚焦注意力或切换任务的情况一致（Bolton & Hattie, 2017, p.12）。背外侧 PFC（dlPFC）在任务需要新颖性或任务间切换时发挥作用（Bolton & Hattie, 2017, p.8）。
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
+- Bolton_2017_ArchPsych
