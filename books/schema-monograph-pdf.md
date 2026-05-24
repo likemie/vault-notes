@@ -1,124 +1,218 @@
 # Schema：专著（Monograph）— PDF
 
-**触发标识：** 用户标注「专著」
+触发标识：用户标注「专著」或说明材料来自专著 PDF。
+
+---
+
+## 核心原则
+
+- 用户按章节向 AI 提供文本。
+- AI 每次只处理用户当前发送的一章。
+- 不自动拆分 PDF。
+- 不读取整本 PDF。
+- 在整本书处理完成前，不创建整本书 source 记录，不创建阅读页面。
+- 章节处理结果累积到全书 Argument 的「各章概览」。
+- 用户提供整本 PDF 后，再建立书籍 source 记录和阅读页面。
+- `related_*` 与 `sources` 不要求 AI 手动维护，由脚本根据正文 wikilink 与 `## 来源` 自动同步。
 
 ---
 
 ## 文件夹结构
 
-```
-books/
-  作者姓_年份_出版社/
-    BookName.pdf             ← 原书 PDF
-    chapters/                ← 章节拆分文本（处理完成后可删除）
-      ch01_章节名.txt
-      ch02_章节名.txt
-```
-
-整合完成后建立书籍 sources 记录：
-```
+```text
 books/
   作者姓_年份_出版社/
     BookName.pdf
-    作者姓_年份_出版社.md      ← sources 记录（永久保留，放在书籍文件夹内）
+    作者姓_年份_出版社.md
 
-wiki/arguments/books/
-  Argument_作者姓_年份_出版社.md  ← 全书论证框架
+wiki/arguments/books/<book-folder>/
+  Argument_作者姓_年份_出版社.md
+```
+
+说明：
+
+- `BookName.pdf` 在整本书处理完成后再放入。
+- `作者姓_年份_出版社.md` 是整本书 source 记录，用户提供完整 PDF 后再创建。
+- 全书 Argument 在逐章处理过程中逐步建立和更新。
+
+---
+
+## 单章处理流程
+
+当用户发送某一章文本时：
+
+1. 读取 `vault-schema.md`。
+2. 读取 `books/schema-monograph-pdf.md`。
+3. 只处理用户当前发送的章节文本。
+4. 基于当前章节扫描可提取条目：
+   - Concept
+   - Theory
+   - Method
+   - Person
+   - Fact
+   - Argument
+5. 读取 `wiki/index.json` 判断候选条目是否已存在。
+6. 将候选分为：
+   - 待更新条目
+   - 待新建条目
+7. 更新已有条目：
+   - 读取目标文件。
+   - 判断插入位置。
+   - 使用 `str_replace` 精确整合。
+8. 新建条目：
+   - 只读取对应模板。
+   - 写入对应正式文件夹。
+9. 更新或新建全书 Argument：
+
+```text
+wiki/arguments/books/<book-folder>/Argument_作者姓_年份_出版社.md
+```
+
+若 Argument 不存在，读取：
+
+```text
+wiki/templates/template-argument-monograph.md
+```
+
+新建时至少填写：
+
+```yaml
+subtype: monograph
+publication_type: book
+book_title: ""
+authors: []
+publisher: ""
+citation: ""
+```
+
+10. 将当前章节内容整合进「各章概览」。
+11. 维护正文 wikilink 和 `## 来源`；不手动维护 `related_*`。
+12. 运行：
+
+```bash
+python3 scripts/wiki_index.py
+python3 scripts/wiki_linker.py sync
+python3 scripts/wiki_relations.py sync
+python3 scripts/wiki_index.py
+```
+
+13. 当前章节处理完成后停止。
+
+---
+
+## 章节文本分批
+
+如果用户发送的一章过长，可按小节分批处理：
+
+- 每批仍视为同一章的一部分。
+- 不要为同一章重复新建 Argument。
+- 后续批次应整合到同一章的「各章概览」条目下。
+- 同章重复发送时，应判断是补充、修订还是替换。
+
+---
+
+## 整合 Argument
+
+当用户要求整合全书 Argument 时：
+
+1. 读取全书 Argument 中的「各章概览」。
+2. 读取 `wiki/templates/template-argument-monograph.md`。
+3. 提炼：
+   - 全书研究问题
+   - 理论框架
+   - 核心概念
+   - 论证结构
+   - 章节推进关系
+   - 主要结论
+   - 关键证据
+   - 局限与批评
+4. 用 `str_replace` 在「各章概览」之前写入正式论证结构。
+5. 保留「各章概览」作为原始章节记录。
+6. 运行：
+
+```bash
+python3 scripts/wiki_index.py
+python3 scripts/wiki_linker.py sync
+python3 scripts/wiki_relations.py sync
+python3 scripts/wiki_index.py
 ```
 
 ---
 
-## 进度追踪
+## 全书完成后的 source 记录与阅读页面
 
-不追踪章节处理进度，按需处理：
-- 用户指定哪章就处理哪章，已处理的章节也可重新处理
-- 已处理章节内容累积在 Argument 的「各章概览」里，可作参考
+当用户提供整本 PDF 并要求建立 source 记录或阅读页面时：
+
+1. 将 PDF 放入：
+
+```text
+books/作者姓_年份_出版社/BookName.pdf
+```
+
+2. 新建：
+
+```text
+books/作者姓_年份_出版社/作者姓_年份_出版社.md
+```
+
+3. source 记录格式：
+
+```markdown
+---
+title: 作者姓_年份_出版社
+summary: ""
+type: source
+subtype: monograph-pdf
+citation: "作者姓, 名字缩写. (年份). 书名. 出版社."
+book_title: ""
+authors: []
+publisher: ""
+book_file: "books/作者姓_年份_出版社/BookName.pdf"
+extracted_to: ["[[Argument_作者姓_年份_出版社]]"]
+processed_date: YYYY-MM-DD
+status: processed
+---
+
+# 作者姓_年份_出版社
+
+## Citation
+
+作者姓, 名字缩写. (年份). *书名*. 出版社.
 
 ---
 
-## 工作流
+## Extracted to
 
-### 第一次处理新书
+- [[Argument_作者姓_年份_出版社]]
 
-```
-1. 读取 vault-schema.md
-2. 在 books/ 下新建文件夹：作者姓_年份_出版社/
-3. 用 Python 拆分章节：
-   python3 << 'PYEOF'
-   import fitz, os
-   doc = fitz.open('books/BOOKFOLDER/BookName.pdf')
-   toc = doc.get_toc()
-   chapters = []
-   for i, (level, title, page) in enumerate(toc):
-       if level == 1:
-           end = toc[i+1][2] if i+1 < len(toc) else len(doc)
-           chapters.append((title, page-1, end-1))
-   os.makedirs('books/BOOKFOLDER/chapters', exist_ok=True)
-   for i, (title, start, end) in enumerate(chapters):
-       text = ''
-       for p in range(start, end):
-           text += doc[p].get_text()
-       fname = f'books/BOOKFOLDER/chapters/ch{i+1:02d}_{title[:30]}.txt'
-       with open(fname, 'w') as f:
-           f.write(text)
-       print(f'saved: {fname}')
-   PYEOF
-4. 将章节列表展示给用户，停下等待用户指定章节：
-   「以上是全书章节列表（共 X 章），请告知需要处理哪一章？」
-5. 不处理正文内容，停下等待用户指定章节；首次真正写入 Argument 或条目后，再运行 `python3 scripts/update_wiki_index.py`
+---
+
+## PDF Reader
+
+![[BookName.pdf]]
 ```
 
-**注意：拆分完成后原始 PDF 不再读取，后续每次只读对应的 chXX.txt 文件。**
+4. 根据已经建立或更新的条目补全 `extracted_to`。
+5. 运行：
 
-### 单章处理流程
-
-```
-1. 读取 vault-schema.md
-2. 读取用户指定的 chapters/chXX_章节名.txt
-3. 基于 vault-schema.md 提取规范扫描章节内容，列出可提取条目
-4. 读取 `wiki/index.json`，将条目分为待更新和待新建两组，标注类型与目标二级文件夹
-5. 按 vault-schema.md 的更新／新建条目规则 执行：
-   - 步骤 8：逐条读取已有条目，检查格式与重构需求，整合新内容
-   - 步骤 9：按类型逐条读取模板新建条目，写入 wiki/类型/ 正式文件夹
-6. 将本章内容追加到 Argument 的「各章概览」：
-   - 若 Argument 尚不存在 → 读取 `wiki/templates/template-argument-monograph.md`，在 `wiki/arguments/books/` 新建文件，至少填写 `summary`、`book_title`、`authors`、`publisher`、`citation`，正文可先只填「各章概览」章节
-   - 若 Argument 已存在 → 用 str_replace 追加本章内容到「各章概览」末尾
-   - 格式自由，忠实记录该章论点、论据、关键引用，不套模板
-7. 按 vault-schema.md 维护必要的 frontmatter related_*、sources 与正文 wikilink
-8. 停下，告知用户：「第 XX 章《章节名》处理完成。」
-```
-
-### 重新开始（session 重开后）
-
-```
-1. 读取 vault-schema.md
-2. 列出 chapters/ 下所有章节，停下等待用户指定：
-   「请告知需要处理哪一章？」
-3. 用户指定后，执行单章处理流程
-```
-
-### 整合 Argument（用户发出整合指令后）
-
-```
-1. 读取 Argument 文件中已累积的「各章概览」内容
-2. 读取 wiki/templates/template-argument-monograph.md
-3. 按模板结构整合：
-   - 从各章概览中提炼全书研究问题、理论框架、论证结构、主要发现、关键引用、局限性
-   - 用 str_replace 在「各章概览」之前写入正式章节
-   - 「各章概览」保留在最后，作为原始章节记录
-4. 新建书籍 sources 记录（`books/作者姓_年份_出版社/作者姓_年份_出版社.md`）：
-   - citation（APA）
-   - extracted_to（所有提取条目的完整列表 + Argument 链接）
-   - processed_date
-   - `![[BookName.pdf]]` 嵌入 PDF
-5. 运行 `python3 scripts/update_wiki_index.py` 更新 `wiki/index.json` 与 `wiki/index.md`，将 📖 改为 ✅
+```bash
+python3 scripts/wiki_index.py
+python3 scripts/wiki_linker.py sync
+python3 scripts/wiki_relations.py sync
+python3 scripts/wiki_index.py
 ```
 
 ---
 
 ## 注意事项
 
-- 每次只处理一章，处理完必须停下等待用户指令
-- 章节文本过长时，按小节拆分处理
-- frontmatter `extracted_to` 必须用 `["[[条目名]]", "[[条目名]]"]` 格式
-- Argument 整合须等用户发出指令才执行
+- 每次只处理用户当前提供的章节文本。
+- 不自动拆分 PDF。
+- 不要求 AI 读取整本 PDF。
+- 不要求 Python 读取整本 PDF。
+- 所有来源性陈述必须标注页码。
+- 如果用户提供的章节文本没有页码，只能记录无页码信息，不得编造页码。
+- source 记录和阅读页面只在用户提供整本 PDF 后建立。
+- `related_*` 由 `wiki_relations.py` 自动维护，AI 不手动填写。
+- `sources` 由 `## 来源` 章节同步，AI 只需维护正文来源列表。
+- `extracted_to` 必须使用数组格式，元素为带引号的 wikilink。
