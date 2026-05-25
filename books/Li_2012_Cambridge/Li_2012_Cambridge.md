@@ -89,6 +89,7 @@ extracted_to:
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
   - "[[Cultural Models]]"
+  - "[[Cultural Defense Strategies]]"
 processed_date: 2026-05-24
 ---
 

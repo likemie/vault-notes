@@ -275,6 +275,17 @@
     ]
   },
   {
+    "title": "Xiaokang",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Xiaokang.md",
+    "aliases": [
+      "小康社会",
+      "小康之家",
+      "xiaokang society",
+      "peaceful and prosperous society"
+    ]
+  },
+  {
     "title": "Cognitive Source",
     "type": "concept",
     "path": "wiki/concepts/communication-discourse/Cognitive Source.md",
@@ -2500,6 +2511,15 @@
     "path": "wiki/concepts/sociology-of-education/Cultural Capital.md",
     "aliases": [
       "文化资本"
+    ]
+  },
+  {
+    "title": "Cultural Defense Strategies",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Cultural Defense Strategies.md",
+    "aliases": [
+      "文化防御策略",
+      "cultural defensive strategies"
     ]
   },
   {
