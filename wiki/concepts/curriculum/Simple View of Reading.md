@@ -1,15 +1,15 @@
 ---
 title: Simple View of Reading
 aliases:
-  - 阅读简单观
-summary: "Gough 与 Tunmer 提出的阅读理论模型，认为阅读由解码和理解共同构成，常用于支持系统识字教学和阅读困难分析。"
+  - 简单阅读观
+summary: Gough 与 Tunmer 提出的阅读理论模型，认为阅读由解码和理解共同构成，常用于支持系统识字教学和阅读困难分析。
 type: concept
 tags:
-- simple-view-of-reading
-- literacy
-- phonics
-- subject/curriculum
-- level/k12
+  - simple-view-of-reading
+  - literacy
+  - phonics
+  - subject/curriculum
+  - level/k12
 related_concepts:
   - "[[Whole Language]]"
   - "[[Visible Learning]]"
@@ -24,8 +24,8 @@ sources:
   - "[[OConnor_2020_AJLL]]"
 confidence: medium
 status: draft
-created: '2026-05-03'
-updated: '2026-05-18'
+created: 2026-05-03
+updated: 2026-05-18
 ---
 
 ## 定义

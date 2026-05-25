@@ -2,13 +2,12 @@
 title: Narrative Knowledge
 aliases:
   - 叙事知识
-  - scientific knowledge vs narrative knowledge
-summary: "Lyotard 区分于科学知识的知识类型，强调通过故事、传统和文化实践传递意义与合法性。"
+summary: Lyotard 区分于科学知识的知识类型，强调通过故事、传统和文化实践传递意义与合法性。
 type: concept
 tags:
-- geopolitics-of-knowledge
-- knowledge-production
-- postmodernism
+  - geopolitics-of-knowledge
+  - knowledge-production
+  - postmodernism
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
@@ -24,8 +23,8 @@ sources:
   - "[[Ch5_Partaken_2022]]"
 confidence: medium
 status: draft
-created: '2026-05-10'
-updated: '2026-05-18'
+created: 2026-05-10
+updated: 2026-05-18
 ---
 
 # Narrative Knowledge

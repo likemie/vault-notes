@@ -2,15 +2,14 @@
 title: Absorptive Capacity
 aliases:
   - 吸收能力
-  - district absorptive capacity
-summary: "组织理解、吸收并使用外部评价证据的能力，在学区改革中取决于项目理解、开放沟通和支持性领导。"
+summary: 组织理解、吸收并使用外部评价证据的能力，在学区改革中取决于项目理解、开放沟通和支持性领导。
 type: concept
 tags:
-- absorptive-capacity
-- evidence-use
-- implementation
-- program-evaluation
-- organizational-learning
+  - absorptive-capacity
+  - evidence-use
+  - implementation
+  - program-evaluation
+  - organizational-learning
 related_concepts:
   - "[[Feedback]]"
   - "[[Implementation Fidelity]]"
@@ -29,8 +28,8 @@ sources:
   - "[[Ross_Morrison_2021_ROE]]"
 confidence: medium
 status: draft
-created: '2026-05-23'
-updated: '2026-05-23'
+created: 2026-05-23
+updated: 2026-05-23
 ---
 
 ## 定义

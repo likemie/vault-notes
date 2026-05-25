@@ -1,18 +1,18 @@
 ---
 title: Mind and Its Wonders
 aliases:
-  - 心智及其奇迹
+  - 心智及其惊奇
   - human intellect
   - human mind
   - western mind
-summary: "西方学习传统第二主题，围绕人类心智的认知能力进行持续2500年的哲学追问与科学探索，从苏格拉底回忆说到现代神经科学"
+summary: 西方学习传统第二主题，围绕人类心智的认知能力进行持续2500年的哲学追问与科学探索，从苏格拉底回忆说到现代神经科学
 type: concept
 tags:
-- region/western
-- field/educational-philosophy
-- field/cognitive-science
-- theme/knowledge
-- theme/learning
+  - region/western
+  - field/educational-philosophy
+  - field/cognitive-science
+  - theme/knowledge
+  - theme/learning
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Certainty of Knowledge]]"
@@ -41,7 +41,7 @@ updated: 2026-05-22
 ## 定义
 
 > [!info]
-> 心智及其奇迹（Mind and Its Wonders）是 Li 识别的西方学习传统第二主题——回答了"**什么在我们内部进行认知？**"（What in us does the knowing?）这一问题。西方传统将对知识的讨论聚焦于人类的认知能力本身——"人类的智识，心智，被理解为一种人类官能（faculty），后来在心理学中被称为能力（capacity），最近在神经科学中被称为大脑回路（brain circuitry）"（Li, 2012, pp.26-27）。
+> 心智及其惊奇（Mind and Its Wonders）是 Li 识别的西方学习传统第二主题——回答了"**什么在我们内部进行认知？**"（What in us does the knowing?）这一问题。西方传统将对知识的讨论聚焦于人类的认知能力本身——"人类的智识，心智，被理解为一种人类官能（faculty），后来在心理学中被称为能力（capacity），最近在神经科学中被称为大脑回路（brain circuitry）"（Li, 2012, pp.26-27）。
 
 Li 的核心判断是：无论西方思想家在心智的具体性质上有多大的分歧（先天 vs 经验、理性 vs 主观），他们对心智**作为一个话题所获得的关注之巨和所揭示的功能之多**，本身就是西方学习传统的独特标志（Li, 2012, p.30）。
 
