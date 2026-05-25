@@ -12,6 +12,17 @@
     ]
   },
   {
+    "title": "Affect-Respect and Ought-Respect",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Affect-Respect and Ought-Respect.md",
+    "aliases": [
+      "情感性尊重与义务性尊重",
+      "affect-respect",
+      "ought-respect",
+      "两种尊重"
+    ]
+  },
+  {
     "title": "Benevolence",
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Benevolence.md",
@@ -21,6 +32,29 @@
       "benevolence",
       "humanheartedness",
       "authoritative conduct"
+    ]
+  },
+  {
+    "title": "Chinese Learner",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Chinese Learner.md",
+    "aliases": [
+      "中国学习者",
+      "Chinese learners",
+      "Chinese student"
+    ]
+  },
+  {
+    "title": "Establishing One's Will",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Establishing One's Will.md",
+    "aliases": [
+      "立志",
+      "立志向学",
+      "lizhi",
+      "establish one's will",
+      "建立志向",
+      "determination in learning"
     ]
   },
   {
@@ -57,6 +91,29 @@
     ]
   },
   {
+    "title": "Heart and Mind for Wanting to Learn",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Heart and Mind for Wanting to Learn.md",
+    "aliases": [
+      "好學心",
+      "hao-xue-xin",
+      "好学心",
+      "心向学"
+    ]
+  },
+  {
+    "title": "Humility in Learning",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Humility in Learning.md",
+    "aliases": [
+      "学习中的谦逊",
+      "谦虚",
+      "谦逊",
+      "qian xun",
+      "humility"
+    ]
+  },
+  {
     "title": "Junzi",
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Junzi.md",
@@ -75,6 +132,19 @@
       "学习美德",
       "Confucian learning virtues",
       "seven learning virtues"
+    ]
+  },
+  {
+    "title": "Pride in Learning",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Pride in Learning.md",
+    "aliases": [
+      "学习骄傲",
+      "骄傲",
+      "jiao-ao",
+      "驕傲",
+      "pride",
+      "自豪"
     ]
   },
   {
@@ -172,6 +242,27 @@
     ]
   },
   {
+    "title": "University Motto",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/University Motto.md",
+    "aliases": [
+      "校训",
+      "university mottos",
+      "大学校训"
+    ]
+  },
+  {
+    "title": "Cognitive Source",
+    "type": "concept",
+    "path": "wiki/concepts/communication-discourse/Cognitive Source.md",
+    "aliases": [
+      "认知来源",
+      "cognitive source",
+      "cognitive source in learning socialization",
+      "maternal cognitive source"
+    ]
+  },
+  {
     "title": "Grice's Conversational Maxims",
     "type": "concept",
     "path": "wiki/concepts/communication-discourse/Grice's Conversational Maxims.md",
@@ -188,6 +279,16 @@
     "path": "wiki/concepts/communication-discourse/Interpretation Community.md",
     "aliases": [
       "解释共同体"
+    ]
+  },
+  {
+    "title": "MCC Discourse Analysis Examples",
+    "type": "concept",
+    "path": "wiki/concepts/communication-discourse/MCC Discourse Analysis Examples.md",
+    "aliases": [
+      "MCC 话语分析示例",
+      "Li MCC discourse analysis",
+      "Ch7 discourse examples"
     ]
   },
   {
@@ -220,61 +321,6 @@
     ]
   },
   {
-    "title": "Affect-Respect and Ought-Respect",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Affect-Respect and Ought-Respect.md",
-    "aliases": [
-      "情感性尊重与义务性尊重",
-      "affect-respect",
-      "ought-respect",
-      "两种尊重"
-    ]
-  },
-  {
-    "title": "Boarding Schools",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Boarding Schools.md",
-    "aliases": [
-      "寄宿学校",
-      "boarding school"
-    ]
-  },
-  {
-    "title": "Chinese Learner",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Chinese Learner.md",
-    "aliases": [
-      "中国学习者",
-      "Chinese learners",
-      "Chinese student"
-    ]
-  },
-  {
-    "title": "Codeswitcher",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Codeswitcher.md",
-    "aliases": [
-      "代码切换者",
-      "code switcher",
-      "codeswitcher",
-      "codeswitching in school",
-      "effort hiding",
-      "努力隐藏",
-      "Codeswitcher (School)"
-    ]
-  },
-  {
-    "title": "Cognitive Source",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Cognitive Source.md",
-    "aliases": [
-      "认知来源",
-      "cognitive source",
-      "cognitive source in learning socialization",
-      "maternal cognitive source"
-    ]
-  },
-  {
     "title": "Confucian Heritage Cultures",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Confucian Heritage Cultures.md",
@@ -284,39 +330,6 @@
       "CHC",
       "Confucian-heritage cultures",
       "CHC learner"
-    ]
-  },
-  {
-    "title": "Confucian Tutoring Style",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Confucian Tutoring Style.md",
-    "aliases": [
-      "儒家式辅导",
-      "Confucian tutoring",
-      "Confucian parenting style"
-    ]
-  },
-  {
-    "title": "Corporate Education",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Corporate Education.md",
-    "aliases": [
-      "企业教育",
-      "公司教育",
-      "company-based education",
-      "firm-based training",
-      "corporate training"
-    ]
-  },
-  {
-    "title": "Corporate University",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Corporate University.md",
-    "aliases": [
-      "企业大学",
-      "公司大学",
-      "CU",
-      "corporate training academy"
     ]
   },
   {
@@ -336,21 +349,6 @@
       "话语性机会结构",
       "话语机会结构",
       "discursive and institutional opportunity structures"
-    ]
-  },
-  {
-    "title": "Establishing One's Will",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Establishing One's Will.md",
-    "aliases": [
-      "Establishing One's Will (lizhi)",
-      "Establishing Ones Will (lizhi)",
-      "立志",
-      "立志向学",
-      "lizhi",
-      "establish one's will",
-      "建立志向",
-      "determination in learning"
     ]
   },
   {
@@ -375,112 +373,6 @@
     ]
   },
   {
-    "title": "Further Education",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Further Education.md",
-    "aliases": [
-      "继续教育",
-      "further education and training",
-      "非正规成人教育",
-      "终身学习培训"
-    ]
-  },
-  {
-    "title": "Global Education Industry",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Global Education Industry.md",
-    "aliases": [
-      "全球教育产业",
-      "GEI",
-      "global education industry"
-    ]
-  },
-  {
-    "title": "Global Education Reform Movement",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Global Education Reform Movement.md",
-    "aliases": [
-      "GERM",
-      "全球教育改革运动"
-    ]
-  },
-  {
-    "title": "Grade Retention",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Grade Retention.md",
-    "aliases": [
-      "留级",
-      "grade repetition",
-      "repeating a year",
-      "nonpromotion",
-      "redoublement"
-    ]
-  },
-  {
-    "title": "Heart and Mind for Wanting to Learn",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Heart and Mind for Wanting to Learn.md",
-    "aliases": [
-      "好學心",
-      "hao-xue-xin",
-      "好学心",
-      "心向学"
-    ]
-  },
-  {
-    "title": "Humility in Learning",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Humility in Learning.md",
-    "aliases": [
-      "学习中的谦逊",
-      "谦虚",
-      "谦逊",
-      "qian xun",
-      "humility"
-    ]
-  },
-  {
-    "title": "Ideal Learner",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Ideal Learner.md",
-    "aliases": [
-      "理想学习者",
-      "ideal learner",
-      "ideal learner image",
-      "ideal-learner image",
-      "理想学习者形象"
-    ]
-  },
-  {
-    "title": "Intellectual-Social Divide",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Intellectual-Social Divide.md",
-    "aliases": [
-      "知性-社交二分",
-      "智识-社交分离",
-      "intellectual-social divide",
-      "知性与社交的对立"
-    ]
-  },
-  {
-    "title": "International Education",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/International Education.md",
-    "aliases": [
-      "国际教育",
-      "international education"
-    ]
-  },
-  {
-    "title": "International Schools",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/International Schools.md",
-    "aliases": [
-      "国际学校",
-      "international school"
-    ]
-  },
-  {
     "title": "Learning Gap",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Learning Gap.md",
@@ -488,35 +380,6 @@
       "学习差距",
       "ability vs effort",
       "能力归因与努力归因"
-    ]
-  },
-  {
-    "title": "Listening-Oriented Learning",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Listening-Oriented Learning.md",
-    "aliases": [
-      "倾听导向学习",
-      "listening-centred learning",
-      "silent participation",
-      "沉默参与"
-    ]
-  },
-  {
-    "title": "MCC Discourse Analysis Examples",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/MCC Discourse Analysis Examples.md",
-    "aliases": [
-      "MCC 话语分析示例",
-      "Li MCC discourse analysis",
-      "Ch7 discourse examples"
-    ]
-  },
-  {
-    "title": "Membership-Creating Function of Education",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Membership-Creating Function of Education.md",
-    "aliases": [
-      "教育的成员资格创造功能"
     ]
   },
   {
@@ -529,44 +392,6 @@
     ]
   },
   {
-    "title": "Methodological Globalism",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Methodological Globalism.md",
-    "aliases": [
-      "方法论全球主义"
-    ]
-  },
-  {
-    "title": "Methodological Nationalism",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Methodological Nationalism.md",
-    "aliases": [
-      "方法论民族主义"
-    ]
-  },
-  {
-    "title": "Mondialisation",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Mondialisation.md",
-    "aliases": [
-      "世界化",
-      "mondialisation"
-    ]
-  },
-  {
-    "title": "Nerd",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Nerd.md",
-    "aliases": [
-      "书呆子",
-      "nerd",
-      "geek",
-      "nerd harassment",
-      "anti-intellectual peer culture",
-      "Nerd (School Peer Culture)"
-    ]
-  },
-  {
     "title": "Organizational Actorhood",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Organizational Actorhood.md",
@@ -574,15 +399,6 @@
       "组织能动者身份",
       "组织行动者身份",
       "organizational actor"
-    ]
-  },
-  {
-    "title": "Orientalism",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Orientalism.md",
-    "aliases": [
-      "东方主义",
-      "orientalism"
     ]
   },
   {
@@ -601,71 +417,6 @@
     "path": "wiki/concepts/comparative-education/Policy Borrowing.md",
     "aliases": [
       "政策借用"
-    ]
-  },
-  {
-    "title": "Policy Entrepreneur",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Policy Entrepreneur.md",
-    "aliases": [
-      "政策企业家"
-    ]
-  },
-  {
-    "title": "Pride in Learning",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Pride in Learning.md",
-    "aliases": [
-      "学习骄傲",
-      "骄傲",
-      "jiao-ao",
-      "驕傲",
-      "pride",
-      "自豪"
-    ]
-  },
-  {
-    "title": "Sinicisation",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Sinicisation.md",
-    "aliases": [
-      "汉化",
-      "中国化",
-      "sinicisation",
-      "sinicization"
-    ]
-  },
-  {
-    "title": "Socratic Tutoring Style",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Socratic Tutoring Style.md",
-    "aliases": [
-      "苏格拉底式辅导",
-      "Socratic tutoring",
-      "Socratic parenting style"
-    ]
-  },
-  {
-    "title": "Talent Assumption",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Talent Assumption.md",
-    "aliases": [
-      "天赋假设",
-      "talent assumption",
-      "innate ability assumption",
-      "fixed ability belief",
-      "天赋信念"
-    ]
-  },
-  {
-    "title": "Tall Poppy Syndrome",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Tall Poppy Syndrome.md",
-    "aliases": [
-      "高罂粟综合征",
-      "tall poppy",
-      "fall of the tall poppy",
-      "高罂粟"
     ]
   },
   {
@@ -688,45 +439,20 @@
     ]
   },
   {
-    "title": "University Motto",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/University Motto.md",
-    "aliases": [
-      "校训",
-      "university mottos",
-      "大学校训"
-    ]
-  },
-  {
-    "title": "Varieties of Capitalism",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Varieties of Capitalism.md",
-    "aliases": [
-      "资本主义多样性",
-      "VoC",
-      "varieties of capitalism",
-      "生产体制"
-    ]
-  },
-  {
-    "title": "Zero-Sum Competition",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Zero-Sum Competition.md",
-    "aliases": [
-      "零和竞争",
-      "zero-sum competition",
-      "零和博弈式竞争",
-      "mutually exclusive competition",
-      "排他性竞争",
-      "Zero-Sum Competition (School)"
-    ]
-  },
-  {
     "title": "Atomisation of Knowledge and Skills",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Atomisation of Knowledge and Skills.md",
     "aliases": [
       "知识与技能原子化"
+    ]
+  },
+  {
+    "title": "Boarding Schools",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Boarding Schools.md",
+    "aliases": [
+      "寄宿学校",
+      "boarding school"
     ]
   },
   {
@@ -780,6 +506,27 @@
     "aliases": [
       "第四文化",
       "fourth culture"
+    ]
+  },
+  {
+    "title": "Grade Retention",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Grade Retention.md",
+    "aliases": [
+      "留级",
+      "grade repetition",
+      "repeating a year",
+      "nonpromotion",
+      "redoublement"
+    ]
+  },
+  {
+    "title": "International Schools",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/International Schools.md",
+    "aliases": [
+      "国际学校",
+      "international school"
     ]
   },
   {
@@ -1209,6 +956,29 @@
     ]
   },
   {
+    "title": "Corporate Education",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Corporate Education.md",
+    "aliases": [
+      "企业教育",
+      "公司教育",
+      "company-based education",
+      "firm-based training",
+      "corporate training"
+    ]
+  },
+  {
+    "title": "Corporate University",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Corporate University.md",
+    "aliases": [
+      "企业大学",
+      "公司大学",
+      "CU",
+      "corporate training academy"
+    ]
+  },
+  {
     "title": "Critic and Conscience of Society",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Critic and Conscience of Society.md",
@@ -1266,6 +1036,17 @@
     ]
   },
   {
+    "title": "Further Education",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Further Education.md",
+    "aliases": [
+      "继续教育",
+      "further education and training",
+      "非正规成人教育",
+      "终身学习培训"
+    ]
+  },
+  {
     "title": "Global Regionalisms in Higher Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Global Regionalisms in Higher Education.md",
@@ -1298,6 +1079,15 @@
       "graduate outcomes",
       "graduate skills",
       "graduate qualities"
+    ]
+  },
+  {
+    "title": "International Education",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/International Education.md",
+    "aliases": [
+      "国际教育",
+      "international education"
     ]
   },
   {
@@ -1516,6 +1306,16 @@
     ]
   },
   {
+    "title": "Confucian Tutoring Style",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Confucian Tutoring Style.md",
+    "aliases": [
+      "儒家式辅导",
+      "Confucian tutoring",
+      "Confucian parenting style"
+    ]
+  },
+  {
     "title": "Critiques of Visible Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
@@ -1593,6 +1393,17 @@
     ]
   },
   {
+    "title": "Listening-Oriented Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Listening-Oriented Learning.md",
+    "aliases": [
+      "倾听导向学习",
+      "listening-centred learning",
+      "silent participation",
+      "沉默参与"
+    ]
+  },
+  {
     "title": "Neo-Taylorism in Educational Administration",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Neo-Taylorism in Educational Administration.md",
@@ -1628,6 +1439,16 @@
     "aliases": [
       "学校领导力",
       "学校领导"
+    ]
+  },
+  {
+    "title": "Socratic Tutoring Style",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Socratic Tutoring Style.md",
+    "aliases": [
+      "苏格拉底式辅导",
+      "Socratic tutoring",
+      "Socratic parenting style"
     ]
   },
   {
@@ -1741,6 +1562,18 @@
       "optimal experience",
       "flow state",
       "flow theory"
+    ]
+  },
+  {
+    "title": "Ideal Learner",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Ideal Learner.md",
+    "aliases": [
+      "理想学习者",
+      "ideal learner",
+      "ideal learner image",
+      "ideal-learner image",
+      "理想学习者形象"
     ]
   },
   {
@@ -1986,6 +1819,25 @@
     ]
   },
   {
+    "title": "Global Education Industry",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Global Education Industry.md",
+    "aliases": [
+      "全球教育产业",
+      "GEI",
+      "global education industry"
+    ]
+  },
+  {
+    "title": "Global Education Reform Movement",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Global Education Reform Movement.md",
+    "aliases": [
+      "GERM",
+      "全球教育改革运动"
+    ]
+  },
+  {
     "title": "Hub and Flow Imaginaries",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Hub and Flow Imaginaries.md",
@@ -2023,6 +1875,31 @@
       "知识型经济",
       "knowledge-based economy",
       "KBE"
+    ]
+  },
+  {
+    "title": "Methodological Globalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Methodological Globalism.md",
+    "aliases": [
+      "方法论全球主义"
+    ]
+  },
+  {
+    "title": "Methodological Nationalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Methodological Nationalism.md",
+    "aliases": [
+      "方法论民族主义"
+    ]
+  },
+  {
+    "title": "Mondialisation",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Mondialisation.md",
+    "aliases": [
+      "世界化",
+      "mondialisation"
     ]
   },
   {
@@ -2071,12 +1948,29 @@
     ]
   },
   {
+    "title": "Orientalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Orientalism.md",
+    "aliases": [
+      "东方主义",
+      "orientalism"
+    ]
+  },
+  {
     "title": "Performance Pay",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Performance Pay.md",
     "aliases": [
       "绩效工资",
       "merit pay"
+    ]
+  },
+  {
+    "title": "Policy Entrepreneur",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Policy Entrepreneur.md",
+    "aliases": [
+      "政策企业家"
     ]
   },
   {
@@ -2137,6 +2031,17 @@
     ]
   },
   {
+    "title": "Sinicisation",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Sinicisation.md",
+    "aliases": [
+      "汉化",
+      "中国化",
+      "sinicisation",
+      "sinicization"
+    ]
+  },
+  {
     "title": "Sovereign Internationalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Sovereign Internationalism.md",
@@ -2152,6 +2057,17 @@
       "空间分选",
       "spatial sortings",
       "空间分化"
+    ]
+  },
+  {
+    "title": "Varieties of Capitalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Varieties of Capitalism.md",
+    "aliases": [
+      "资本主义多样性",
+      "VoC",
+      "varieties of capitalism",
+      "生产体制"
     ]
   },
   {
@@ -2500,6 +2416,20 @@
     ]
   },
   {
+    "title": "Codeswitcher",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Codeswitcher.md",
+    "aliases": [
+      "代码切换者",
+      "code switcher",
+      "codeswitcher",
+      "codeswitching in school",
+      "effort hiding",
+      "努力隐藏",
+      "Codeswitcher (School)"
+    ]
+  },
+  {
     "title": "Credential Inflation",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Credential Inflation.md",
@@ -2615,6 +2545,17 @@
     ]
   },
   {
+    "title": "Intellectual-Social Divide",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Intellectual-Social Divide.md",
+    "aliases": [
+      "知性-社交二分",
+      "智识-社交分离",
+      "intellectual-social divide",
+      "知性与社交的对立"
+    ]
+  },
+  {
     "title": "Intuition-Dependent Mode",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
@@ -2631,6 +2572,27 @@
       "迷失无从者",
       "lost actor",
       "迷失"
+    ]
+  },
+  {
+    "title": "Membership-Creating Function of Education",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Membership-Creating Function of Education.md",
+    "aliases": [
+      "教育的成员资格创造功能"
+    ]
+  },
+  {
+    "title": "Nerd",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Nerd.md",
+    "aliases": [
+      "书呆子",
+      "nerd",
+      "geek",
+      "nerd harassment",
+      "anti-intellectual peer culture",
+      "Nerd (School Peer Culture)"
     ]
   },
   {
@@ -2718,6 +2680,29 @@
     ]
   },
   {
+    "title": "Talent Assumption",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Talent Assumption.md",
+    "aliases": [
+      "天赋假设",
+      "talent assumption",
+      "innate ability assumption",
+      "fixed ability belief",
+      "天赋信念"
+    ]
+  },
+  {
+    "title": "Tall Poppy Syndrome",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Tall Poppy Syndrome.md",
+    "aliases": [
+      "高罂粟综合征",
+      "tall poppy",
+      "fall of the tall poppy",
+      "高罂粟"
+    ]
+  },
+  {
     "title": "Tense Society",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Tense Society.md",
@@ -2753,6 +2738,19 @@
       "工作意义三角图式",
       "三角图式结构",
       "work meaning schemas"
+    ]
+  },
+  {
+    "title": "Zero-Sum Competition",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Zero-Sum Competition.md",
+    "aliases": [
+      "零和竞争",
+      "zero-sum competition",
+      "零和博弈式竞争",
+      "mutually exclusive competition",
+      "排他性竞争",
+      "Zero-Sum Competition (School)"
     ]
   },
   {

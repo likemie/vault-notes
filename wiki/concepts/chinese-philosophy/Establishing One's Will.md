@@ -1,8 +1,6 @@
 ---
 title: Establishing One's Will
 aliases:
-  - "Establishing One's Will (lizhi)"
-  - "Establishing Ones Will (lizhi)"
   - 立志
   - 立志向学
   - lizhi
@@ -12,10 +10,10 @@ aliases:
 summary: "中国学习模型中的核心情感维度，指学习者在青少年阶段思索人生目的并做出明确个人志向承诺的心理过程"
 type: concept
 tags:
-- region/china
-- theme/cross-cultural-learning
-- theme/learning-motivation
-- theme/affect
+  - region/china
+  - theme/cross-cultural-learning
+  - theme/learning-motivation
+  - theme/affect
 related_concepts:
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Learning Virtues]]"
@@ -31,8 +29,8 @@ related_arguments: []
 sources: []
 confidence: medium
 status: draft
-created: '2026-05-22'
-updated: '2026-05-23'
+created: 2026-05-22
+updated: 2026-05-23
 ---
 
 # Establishing One's Will
