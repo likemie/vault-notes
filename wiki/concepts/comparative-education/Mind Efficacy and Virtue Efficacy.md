@@ -1,12 +1,11 @@
 ---
 title: Mind Efficacy and Virtue Efficacy
 aliases:
-  - 心智效力与美德效力
   - 心智归因
   - 美德归因
   - mind efficacy
   - virtue efficacy
-summary: "Li (2012) 识别的两种文化特有的学习因果归因模式，西方父母将学习成果归因于心智能力，东亚父母归因于学习美德与努力，反映两种文化对学习本质的根本不同理解"
+summary: Li (2012) 识别的两种文化特有的学习因果归因模式，西方父母将学习成果归因于心智能力，东亚父母归因于学习美德与努力，反映两种文化对学习本质的根本不同理解
 type: concept
 tags:
   - theme/attribution

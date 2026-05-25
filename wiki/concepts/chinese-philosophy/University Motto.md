@@ -55,7 +55,7 @@ updated: 2026-05-22
 | Harvard | *Veritas* | Truth | 真理 |
 | Yale | *Lux et veritas* | Light and truth | 光明与真理 |
 | Columbia | *In lumine Tuo videbimus lumen* | In Thy light shall we see light | 在你的光中我们必得见光 |
-| UC [[George Berkeley|Berkeley]] | *Fiat lux* | Let there be light | 要有光 |
+| UC [[George Berkeley\|Berkeley]] | *Fiat lux* | Let there be light | 要有光 |
 | Oxford | *Dominus illuminatio mea* | The Lord is my light | 主是我的光 |
 | Cambridge | *Hinc lucem et pocula sacra* | From here [we receive] light and sacred draughts | 此地乃启蒙之所与智慧之源 |
 | MIT | *Mens et manus* | Mind and hand | 心与手 |
@@ -77,7 +77,7 @@ updated: 2026-05-22
 | 厦门大学 | 自强不息，止于至善 | 《周易》+《大学》 | Strengthen self ceaselessly and strive for the highest good |
 | 台湾大学 | 敦品、励学、爱国、爱人 | — | Cultivate virtue, advance intellect; love one's country, love one's people |
 | 香港大学 | 明德格物 (*Sapietia et virtus*) | 《大学》 | Cultivate virtue and investigate things |
-| 香港中文大学 | 博文约礼 | 《论语》 | Learn broadly of culture and discipline learning with [[Ritual Propriety|propriety]] |
+| 香港中文大学 | 博文约礼 | 《论语》 | Learn broadly of culture and discipline learning with [[Ritual Propriety\|propriety]] |
 | 新加坡国立大学 | *Per ardua ad alta* | 拉丁语 | Through hard work, great things are achieved |
 
 ---

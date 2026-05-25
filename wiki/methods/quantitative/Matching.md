@@ -2,16 +2,15 @@
 title: Matching
 aliases:
   - 匹配
-  - SEM
-summary: "观察性研究中的因果推断方法，通过匹配协变量分布提高处理组与对照组可比性，以减少选择偏差对效果估计的干扰"
+summary: 观察性研究中的因果推断方法，通过匹配协变量分布提高处理组与对照组可比性，以减少选择偏差对效果估计的干扰
 type: method
 method_type: quantitative
 tags:
-- matching
-- observational-studies
-- causal-inference
-- subject/research-methodology
-- paradigm/positivist
+  - matching
+  - observational-studies
+  - causal-inference
+  - subject/research-methodology
+  - paradigm/positivist
 related_concepts:
   - "[[Stable Unit Treatment Value Assumption]]"
 related_theories:
@@ -27,8 +26,8 @@ sources:
   - "[[Berk_2011_ER]]"
 confidence: low
 status: draft
-created: '2026-05-03'
-updated: '2026-05-18'
+created: 2026-05-03
+updated: 2026-05-18
 ---
 
 ## 定义

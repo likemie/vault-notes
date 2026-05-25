@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - 新西兰在 Charities Aid Foundation 2015 年世界捐赠指数中排名第三；2014 年总捐赠估计 USD 2.8B（占 GDP 1.17%），其中个人捐赠 55%、信托和基金会 42%、企业 3%（O'Neill et al., 2016, pp.vii–viii）
-> - Teach First New Zealand 的资金支持来自本地和离岸风险慈善团体、企业、慈善信托和教育部门 NGO 的多样化组合（O'Neill et al., 2016, p.ix）。详见 Teach First New Zealand ([[Teach First New Zealand|TFNZ]] 2011)
+> - [[Teach First New Zealand]] 的资金支持来自本地和离岸风险慈善团体、企业、慈善信托和教育部门 NGO 的多样化组合（O'Neill et al., 2016, p.ix）。详见 Teach First New Zealand ([[Teach First New Zealand|TFNZ]] 2011)
 > - [[Manaiakalani Education Trust]] 获 Foundation North、Spark Foundation 和 NEXT Foundation 的多年风险慈善资助，实现从地方试点到全国规模的扩展（O'Neill et al., 2016, p.9）。详见 [[Manaiakalani Education Trust]]
 > - E Tipu E Rea（PSKH 支持实体）意图通过慈善资助维持，体现了风险慈善逻辑在[[Partnership Schools Kura Hourua|特许学校]]政策基础设施中的应用（O'Neill et al., 2016, p.12）。详见 [[Partnership Schools Kura Hourua]]
 

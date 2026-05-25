@@ -4,13 +4,12 @@ aliases:
   - 好學心
   - hao-xue-xin
   - 好学心
-  - 心向学
-summary: "中国本土学习概念，指一个人内在的求知欲望与向学之心，Jin Li 将其置于中国学习传统六主题框架中作为核心动力机制"
+summary: 中国本土学习概念，指一个人内在的求知欲望与向学之心，Jin Li 将其置于中国学习传统六主题框架中作为核心动力机制
 type: concept
 tags:
-- region/china
-- theme/cross-cultural-learning
-- theme/learning-motivation
+  - region/china
+  - theme/cross-cultural-learning
+  - theme/learning-motivation
 related_concepts:
   - "[[Faust]]"
   - "[[Enculturation]]"
@@ -29,8 +28,8 @@ sources:
   - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
-created: '2026-05-21'
-updated: '2026-05-22'
+created: 2026-05-21
+updated: 2026-05-22
 ---
 
 # Heart and Mind for Wanting to Learn

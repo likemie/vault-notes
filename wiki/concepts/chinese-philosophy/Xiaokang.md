@@ -5,7 +5,7 @@ aliases:
   - 小康之家
   - xiaokang society
   - peaceful and prosperous society
-summary: "儒家政治社会思想中千年之久的理想社会形态_每个家庭有充足食物与安稳生活_1982年被中国政府设为经济社会发展目标并实现"
+summary: "儒家政治社会思想中千年之久的理想社会形态，强调每个家庭有充足食物与安稳生活，1982年被中国政府设为经济社会发展目标并实现"
 type: concept
 tags:
   - theme/confucian-political-thought

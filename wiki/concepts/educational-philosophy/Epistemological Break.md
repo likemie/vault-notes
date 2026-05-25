@@ -35,7 +35,7 @@ updated: 2026-05-18
 ## 定义
 
 > [!info] 定义
-> 认识论断裂（Epistemological Break）源自 [[Pierre Bourdieu|Bourdieu]], Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*，指科学研究必须与**前科学世界**（pre-scientific world）的日常语言和自发理解进行决裂的关键操作。Bourdieu 认为，"问题的选择、概念的阐释和分析范畴如果不经过科学建构这一关键操作来与社会世界既有的样子决裂，就只是对 [[Doxa|doxa]] 的认可"（Bourdieu & Wacquant, 1992/1992, p.248，引自 Eacott, 2015, p.320）。
+> 认识论断裂（Epistemological Break）源自 [[Pierre Bourdieu|Bourdieu]], Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*，指科学研究必须与**前科学世界**（pre-scientific world）的日常语言和自发理解进行决裂的关键操作。Bourdieu 认为，"问题的选择、概念的阐释和分析范畴如果不经过科学建构这一关键操作来与社会世界既有的样子决裂，就只是对 [[Doxa]] 的认可"（Bourdieu & Wacquant, 1992/1992, p.248，引自 Eacott, 2015, p.320）。
 >
 > > "the choice of problem, the elaboration of concepts and analytical categories function as a ratification of the doxa unless the crucial operation of scientific construction breaks with the social world as it is"（Bourdieu & Wacquant, 1992/1992, p.248）
 

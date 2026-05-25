@@ -2,13 +2,13 @@
 title: 21st Century Skills and Competencies Discourse
 aliases:
   - 21世纪技能与素养话语
-  - 21st century skills discourse
+  - 21st century skills
   - SCD
-  - 21世纪关键能力框架
-  - key competencies discourse
+  - 核心素养
+  - key competencies
   - 21世纪技能
   - 关键能力
-summary: 由全球教育治理中的多边组织、国家政府和私营伙伴共同推动的技能话语，通过界定未来劳动力市场所需的关键能力来塑造教育政策与个体主体性，其核心特征包括四 C 技能的主导地位和对非认知能力的边缘化。
+summary: 由全球教育治理中的多边组织、国家政府和私营伙伴共同推动的技能话语，通过界定未来劳动力市场所需的关键能力来塑造教育政策与个体主体性，其核心特征包括4C技能的主导地位和对非认知能力的边缘化。
 type: concept
 tags:
   - theme/global-education-governance
@@ -61,7 +61,7 @@ Zelinka（2022, pp.255-257）汇编了七个具有代表性的国际和国家框
 | 框架（发布年） | 发布主体 | 核心集群 |
 |---|---|---|
 | enGauge (2003) | 美国 North Central Regional Educational Laboratory | 数字时代素养、创造性思维、有效沟通、高生产力 |
-| P21 (2009) | 美国 Partnership for 21st Century Skills | 核[[Neo-Confucianism|心学]]科与21世纪主题、学习与创新技能、信息媒体技术技能、生活与职业技能 |
+| P21 (2009) | 美国 Partnership for 21st Century Skills | 核[[Neo-Confucianism\|心学]]科与21世纪主题、学习与创新技能、信息媒体技术技能、生活与职业技能 |
 | National Research Council (2012) | 美国国家研究委员会 | 认知能力、内省能力、人际能力 |
 | ATCS (2012) | 跨国评估与教学项目组 | 思维方式、工作工具、工作方式、生活方式 |
 | World Economic Forum (2016) | 世界经济论坛 | 基础素养、能力、性格品质 |

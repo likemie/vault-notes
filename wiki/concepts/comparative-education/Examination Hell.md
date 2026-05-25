@@ -2,16 +2,15 @@
 title: Examination Hell
 aliases:
   - 考试地狱
-  - 考试地域
   - exam hell
   - examination-driven system
-summary: "描述东亚应试教育体系的术语，指高风险考试压力、升学竞争和儒家道德义务交织形成的教育困境"
+summary: 描述东亚应试教育体系的术语，指高风险考试压力、升学竞争和儒家道德义务交织形成的教育困境
 type: concept
 tags:
-- region/china
-- region/east-asia
-- theme/cross-cultural-learning
-- theme/examination
+  - region/china
+  - region/east-asia
+  - theme/cross-cultural-learning
+  - theme/examination
 related_concepts:
   - "[[Rote Learning]]"
   - "[[Filial Piety]]"
@@ -27,8 +26,8 @@ sources:
   - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
-created: '2026-05-22'
-updated: '2026-05-23'
+created: 2026-05-22
+updated: 2026-05-23
 ---
 
 # Examination Hell
