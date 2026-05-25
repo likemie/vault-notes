@@ -68,7 +68,7 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Bottani, N. (1994). The OECD [[International Education|international education]] indicators. *Assessment in Education: Principles, Policy and Practice*, 1, 333–350. — 早期综述（Gorur, 2014, p.19）
+> - Bottani, N. (1994). The OECD [[International Education]] indicators. *Assessment in Education: Principles, Policy and Practice*, 1, 333–350. — 早期综述（Gorur, 2014, p.19）
 > - Bottani, N. (1996). OECD [[Internationalization of Higher Education|international education]] indicators. *International Journal of Educational Research*, 25, 279–288. — 详述指标的技术框架和挑战（Gorur, 2014, p.19）
 > - Bottani, N. (1998). The OECD educational indicators: Purposes, limits and production processes. *Prospects*, 28(1), 61–75. — 阐述指标的协作风格和俱乐部效应（Gorur, 2014, p.19）
 > - Bottani, N. (2008). The oil level, the engine and the car: The stakes involved in assessing the quality of education on the basis of indicators. *Éducation et Société*, 18(2), 11–23. — 幻灭之作，系统批判[[Performance Indicators|绩效指标]]霸权和对指标的误用（Gorur, 2014, p.19）

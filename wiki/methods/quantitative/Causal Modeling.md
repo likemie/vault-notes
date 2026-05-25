@@ -37,7 +37,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 因果建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, [[Matching|SEM]]），是随机实验之外最常用的因果推断替代方法。其目标是对观察性研究施加一个关于"自然如何生成数据"的模型，然后从数据中估计自然使用的参数值。它于 1970 年代进入社会科学领域，承诺将实质性社会科学理论与统计学进行形式上的整合（Berk, 2011, p.196）。
+> 因果建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, SEM），是随机实验之外最常用的因果推断替代方法。其目标是对观察性研究施加一个关于"自然如何生成数据"的模型，然后从数据中估计自然使用的参数值。它于 1970 年代进入社会科学领域，承诺将实质性社会科学理论与统计学进行形式上的整合（Berk, 2011, p.196）。
 >
 > > "Its aim is to impose on an observational study a model of how nature generated the data and then from the data, to estimate the values of the parameters nature employed." (Berk, 2011, p.196)
 

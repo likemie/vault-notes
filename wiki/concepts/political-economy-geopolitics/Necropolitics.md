@@ -12,7 +12,7 @@ tags:
   - theme/biopolitics
 related_concepts:
   - "[[Boarding Schools]]"
-  - "[[Zhonghua Minzu (Chinese Nation)]]"
+  - "[[Zhonghua Minzu]]"
   - "[[Settler Colonialism]]"
 related_theories: []
 related_methods: []
@@ -48,14 +48,14 @@ updated: 2026-05-25
 >
 > - **语言死亡政治**：Gerald Roche（2022）区分了两种与语言消亡相关的死亡：政权对某些语言使用者的杀害，以及语言使用者因抗议语言压迫而自杀。Roche 将语言死亡政治描述为现代政体的特征，无论殖民政权还是民族主义政权，它们都假定或优先追求统一性和可读性（Bulag, 2024, p.98）。
 > - **西藏[[Boarding Schools|寄宿学校]]教育**：Leibold 和 Dorjee（2023）记录了西藏儿童在内地接受"成为中国人"的教育过程中文化与身份认同的侵蚀（Bulag, 2024, p.98）。
-> - **历史教科书分析**：Yan 和 Vickers（2023）追踪了中国历史教科书从关注文化多样性转向更为单一和同质化的[[Zhonghua Minzu (Chinese Nation)|中华民族]]愿景的转变（Bulag, 2024, p.98）。
+> - **历史教科书分析**：Yan 和 Vickers（2023）追踪了中国历史教科书从关注文化多样性转向更为单一和同质化的[[Zhonghua Minzu|中华民族]]愿景的转变（Bulag, 2024, p.98）。
 
 ## 争议与批评
 
 > [!warning]
 > - Bulag（2024）虽然对死亡政治范式表示广泛同情，但认为它存在一个悖论性的政治后果：这种范式虽然有力地批判了中国的主权政治，却"奇怪地"去政治化了中国少数民族，因为它实际上并不呼吁反殖民的自决（Bulag, 2024, p.98）。
 > - 将中国少数民族重新定义为"土著人民"（indigenous peoples）的[[Settler Colonialism|定居殖民主义]]框架，实际上与国家内部的自治权框架相适应，而非要求独立自决（Alberts, 2015, pp.96–97，引自 Bulag, 2024, p.100）。
-> - Bulag（2024）认为，中国死亡政治的独特之处在于，它不仅包括对少数民族文化和身份的清除，还要求少数民族"自愿"为[[Zhonghua Minzu (Chinese Nation)|中华民族]]做出自我牺牲，即内在化了对自身文化消亡的接受（Bulag, 2024, p.98）。
+> - Bulag（2024）认为，中国死亡政治的独特之处在于，它不仅包括对少数民族文化和身份的清除，还要求少数民族"自愿"为[[Zhonghua Minzu|中华民族]]做出自我牺牲，即内在化了对自身文化消亡的接受（Bulag, 2024, p.98）。
 
 ## 相关案例
 

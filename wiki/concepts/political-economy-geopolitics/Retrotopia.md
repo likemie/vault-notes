@@ -8,13 +8,16 @@ tags:
   - theory/social-theory
   - theme/nationalism
   - theme/utopia
-related_concepts: []
+related_concepts:
+  - "[[Zhonghua Minzu]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Fei Xiaotong]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Bulag_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -48,7 +51,7 @@ updated: 2026-05-25
 ## 应用于中国语境
 
 > [!abstract]
-> Bulag（2024）将怀旧乌托邦用于分析中国的"[[Zhonghua Minzu (Chinese Nation)|中华民族]]伟大复兴"话语。习近平的中国梦所设想的复兴的中华民族，具备怀旧乌托邦的特征：它指向一个前现代的、大一统的中国文明的辉煌过去，试图通过跨历史的叙事重建这一失落的家园（Bulag, 2024, p.104–105）。
+> Bulag（2024）将怀旧乌托邦用于分析中国的"[[Zhonghua Minzu|中华民族]]伟大复兴"话语。习近平的中国梦所设想的复兴的中华民族，具备怀旧乌托邦的特征：它指向一个前现代的、大一统的中国文明的辉煌过去，试图通过跨历史的叙事重建这一失落的家园（Bulag, 2024, p.104–105）。
 >
 > 这一怀旧乌托邦的关键要素包括：
 > - 文明辉煌的想象：将古代中国想象为具有非凡道德吸引力的文明中心，周边蛮族因仰慕汉文化而自愿融入（Bulag, 2024, p.106–107）。
@@ -58,7 +61,7 @@ updated: 2026-05-25
 ## 争议与批评
 
 > [!warning]
-> - 中共试图复兴的"中华文明"本身是一个彻底的现代概念。[[Zhonghua Minzu (Chinese Nation)|中华民族]]（Zhonghua minzu）由梁启超于 1902 年引入，而英文"Chinese nation"早于"中华民族"，但仅指汉人（Bulag, 2024, p.104）。
+> - 中共试图复兴的"中华文明"本身是一个彻底的现代概念。[[Zhonghua Minzu|中华民族]]（Zhonghua minzu）由梁启超于 1902 年引入，而英文"Chinese nation"早于"中华民族"，但仅指汉人（Bulag, 2024, p.104）。
 > - 在多数 20 世纪初（汉人）中国民族主义者眼中，中国的"恢复"取决于驱逐被视为外来入侵者的满族统治者（Bulag, 2024, p.104）。
 > - 这种怀旧乌托邦具有根本性的排斥性：它不承认少数民族文化有其内在价值，只有在融入中华民族后才获得意义（Bulag, 2024, p.112）。
 

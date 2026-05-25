@@ -64,7 +64,7 @@ updated: 2026-05-19
 > - [[Parallel Monologues]] — 提出并命名了教育行政研究领域缺乏真正学术对话的结构性现象
 > - [[Neo-Taylorism in Educational Administration]] — 将 Taylor 科学管理原理重新应用于分析当代教育领导力的知识政治
 > - [[Cult of the Guru]] — 以 Callahan (1962) 为框架分析教育领导力领域对单一权威人物的不加批判的接受
-> - 以 [[Pierre Bourdieu|Bourdieu]] 的[[Champ|场域]]/[[Habitus|习性]]/[[Doxa|doxa]] 框架分析 NSW 校长培养项目，论证其将校长建构为"国家改革的交付者"并提出替代性领导习性（Eacott, 2011）
+> - 以 [[Pierre Bourdieu|Bourdieu]] 的[[Champ|场域]]/[[Habitus|习性]]/[[Doxa]] 框架分析 NSW 校长培养项目，论证其将校长建构为"国家改革的交付者"并提出替代性领导习性（Eacott, 2011）
 > - 在 *Beyond Leadership*（2018）中提出教育组织理论的关系取向，试图超越传统的领导力研究范式
 
 ## 主要著作

@@ -11,12 +11,12 @@ extracted_to:
   - "[[Horizon Europe Missions]]"
   - "[[Minerva University]]"
   - "[[Walter Mignolo]]"
-  - "[[Marcelo Parreira do Amaral]]"
   - "[[Jane Knight]]"
-  - "[[Christiane Thompson]]"
   - "[[Critical Geopolitics]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Marcelo Parreira do Amaral]]"
+  - "[[Christiane Thompson]]"
 processed_date: 2026-05-07
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 ---

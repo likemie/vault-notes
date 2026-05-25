@@ -60,7 +60,7 @@ Sami Moisio，芬兰政治地理学者，赫尔辛基大学地球科学与地理
 
 > [!abstract]
 
-- Moisio, S. (2018). *Geopolitics of the [[Knowledge-Based Economy|knowledge-based economy]]*. Routledge. — 系统提出[[Knowledge-Based Economization|知识经济化]]的地缘政治分析框架，论证知识密集型资本主义是一种历史偶然的地缘政治星座
+- Moisio, S. (2018). *Geopolitics of the [[Knowledge-Based Economy]]*. Routledge. — 系统提出[[Knowledge-Based Economization|知识经济化]]的地缘政治分析框架，论证知识密集型资本主义是一种历史偶然的地缘政治星座
 - Moisio, S., & Rossi, U. (2020). The start-up state: Governing urbanised capitalism. *Environment and Planning A: Economy and Space, 52*(3), 532–552. — 分析创业型国家和城市化资本主义的治理逻辑
 - Moisio, S. (2019). Re-thinking geoeconomics: Towards a political geography of economic geographies. *Geography Compass, 13*(10), e12466. — 重新理论化地缘经济学与政治地理学的关系
 - Moisio, S. (2018). Urbanizing the nation-state: Notes on the geopolitical growth of cities and city-regions. *Urban Geography, 39*(9), 1421–1425. — 分析民族国家的城市化过程作为知识经济化的地缘政治维度

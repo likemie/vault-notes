@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Official Knowledge]]"
   - "[[Hegemony]]"
+  - "[[Zhonghua Minzu]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Symbolic Boundary]]"
   - "[[Self-Cultivation]]"
@@ -108,7 +109,7 @@ updated: 2026-05-21
 >
 > **线索 A：将儒家塑造为中国文化的象征——建立"文化等式"**
 >
-> 10. 历史与社会教科书将孔子和儒家学派称为"[[Zhonghua Minzu (Chinese Nation)|中华民族]]传统文化"的"源头"（PEP 2015b, p.17，引自 Yu & Zhao, 2024, p.67）。
+> 10. 历史与社会教科书将孔子和儒家学派称为"[[Zhonghua Minzu|中华民族]]传统文化"的"源头"（PEP 2015b, p.17，引自 Yu & Zhao, 2024, p.67）。
 > 11. 历史教科书将东亚文化圈直接命名为"[[Confucian Heritage Cultures|儒家文化圈]]"（Rujia wenhuaquan）（East China Normal University Press 2015, p.63，引自 Yu & Zhao, 2024, p.67）。
 > 12. 语文教科书将《论语》列为对中华文化形成最具影响力的文本（PEP 2016a, pp.83–87，引自 Yu & Zhao, 2024, p.67）。
 > 13. 英语教科书将孔子列入"英雄画廊"——与林肯、爱因斯坦和钱学森并列（PEP 2016b, p.69，引自 Yu & Zhao, 2024, p.67）。

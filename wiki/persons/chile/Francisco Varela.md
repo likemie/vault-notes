@@ -32,7 +32,7 @@ updated: '2026-05-19'
 
 > [!info]
 
-Francisco Varela（1946–2001），智利生物学家和神经科学家，与 [[Humberto Maturana]] 共同创立 [[Autopoiesis|autopoiesis]]（自创生）理论，彻底改变了关于生命作为宏大系统的思考方式，其影响延伸至社会领域（Amos, 2022, p.61）。
+Francisco Varela（1946–2001），智利生物学家和神经科学家，与 [[Humberto Maturana]] 共同创立 [[Autopoiesis]]（自创生）理论，彻底改变了关于生命作为宏大系统的思考方式，其影响延伸至社会领域（Amos, 2022, p.61）。
 
 ---
 

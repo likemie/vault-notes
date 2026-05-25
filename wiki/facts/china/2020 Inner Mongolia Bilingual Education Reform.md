@@ -15,13 +15,15 @@ tags:
   - policy/language-policy
   - policy/bilingual-education
   - theme/ethnic-minorities
-related_concepts: []
+related_concepts:
+  - "[[Zhonghua Minzu]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Bulag_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -75,7 +77,7 @@ updated: 2026-05-25
 
 > [!abstract]
 > Bulag（2024）认为，内蒙古双语教育改革事件在以下方面具有深远意义（Bulag, 2024, p.109–111）：
-> - [[Zhonghua Minzu (Chinese Nation)|中华民族]]建构的逻辑：蒙古族精英庆祝其"自我牺牲"或被表彰为"北疆楷模"，而其他蒙古族抗议者则以自杀表达抗议——这表明中华民族建构不仅要求制度的强制，还要求少数民族内在化自我牺牲的逻辑。
+> - [[Zhonghua Minzu|中华民族]]建构的逻辑：蒙古族精英庆祝其"自我牺牲"或被表彰为"北疆楷模"，而其他蒙古族抗议者则以自杀表达抗议——这表明中华民族建构不仅要求制度的强制，还要求少数民族内在化自我牺牲的逻辑。
 > - "模范自治区"的意涵转变：内蒙古长期以来被树立为"模范自治区"（mofan zizhi qu），但其模范性不在于自治权的行使，而在于"民族团结"（minzu tuanjie）的示范——这一概念看似倡导各族友谊，但偏向国家统一，始终要求模范自治区放弃一切族群特殊性（Bulag, 2024, p.110）。
 > - 双重压力：Surnaa 的遗书揭示了基层少数民族干部面临的独特困境——上级党领导要求支持限制民族语言的政策，而本民族群众则谴责他们过于愚蠢或懦弱而不敢反对这一政策（Bulag, 2024, p.111）。
 

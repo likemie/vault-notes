@@ -8,9 +8,9 @@ extracted_to:
   - "[[Horizon 2020 SSH Integration]]"
   - "[[Horizon Europe Missions]]"
   - "[[Minerva University]]"
+  - "[[Geopolitics of Knowledge]]"
   - "[[Marcelo Parreira do Amaral]]"
   - "[[Christiane Thompson]]"
-  - "[[Geopolitics of Knowledge]]"
 processed_date: 2026-05-07
 ---
 

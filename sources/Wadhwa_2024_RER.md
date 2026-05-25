@@ -26,8 +26,8 @@ extracted_to:
   - "[[Intent-to-Treat Analysis]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Single-Case Design]]"
   - "[[Campbellian Validity Framework]]"
+  - "[[Single-Case Design]]"
 processed_date: 2026-05-05
 ---
 

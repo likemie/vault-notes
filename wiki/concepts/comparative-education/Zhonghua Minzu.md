@@ -1,5 +1,5 @@
 ---
-title: Zhonghua Minzu (Chinese Nation)
+title: Zhonghua Minzu
 aliases:
   - 中华民族
   - Chinese nation
@@ -13,20 +13,25 @@ tags:
   - theme/ethnic-minorities
   - theme/nation-building
   - paradigm/critical
-related_concepts: []
+related_concepts:
+  - "[[Retrotopia]]"
+  - "[[Sinicisation]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Fei Xiaotong]]"
+  - "[[Zhao Tingyang]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Bulag_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-25
 updated: 2026-05-25
 ---
 
-# Zhonghua Minzu (Chinese Nation)
+# Zhonghua Minzu
 
 
 ## 定义

@@ -6,7 +6,6 @@ extracted_to:
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
-  - "[[Causal Modeling]]"
   - "[[Covariate Adjustment]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
@@ -14,6 +13,7 @@ extracted_to:
   - "[[John Hattie]]"
   - "[[Jacob Cohen]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[Causal Modeling]]"
 processed_date: 2026-05-05
 ---
 

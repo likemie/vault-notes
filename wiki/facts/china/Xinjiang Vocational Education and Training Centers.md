@@ -17,7 +17,7 @@ tags:
   - policy/language-policy
   - theme/ethnic-minorities
 related_concepts:
-  - "[[Zhonghua Minzu (Chinese Nation)]]"
+  - "[[Zhonghua Minzu]]"
   - "[[Settler Colonialism]]"
   - "[[Sinicisation]]"
 related_theories: []
@@ -39,7 +39,7 @@ updated: 2026-05-26
 ## 背景
 
 > [!info]
-> 2012 年习近平上台后提出"[[Zhonghua Minzu (Chinese Nation)|中华民族]]伟大复兴的中国梦"，中共对少数民族实施了一系列强制性的国族建构政策。2014 年第二次新疆工作论坛上，习近平提出"铸牢中华民族共同体意识"，要求各民族像石榴籽一样紧紧抱在一起（Bulag, 2024, p.97）。此后，新疆成为中共民族政策最集中的实施地。职业技能教育培训中心（官方名称）在这一背景下于 2014 年后大规模建立（Bulag, 2024, p.97）。
+> 2012 年习近平上台后提出"[[Zhonghua Minzu|中华民族]]伟大复兴的中国梦"，中共对少数民族实施了一系列强制性的国族建构政策。2014 年第二次新疆工作论坛上，习近平提出"铸牢中华民族共同体意识"，要求各民族像石榴籽一样紧紧抱在一起（Bulag, 2024, p.97）。此后，新疆成为中共民族政策最集中的实施地。职业技能教育培训中心（官方名称）在这一背景下于 2014 年后大规模建立（Bulag, 2024, p.97）。
 
 
 ## 政策概况

@@ -6,9 +6,9 @@ extracted_to:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[WWC SCD Pilot Standards]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Single-Case Design]]"
   - "[[Campbellian Validity Framework]]"
   - "[[Gating Procedure]]"
+  - "[[Single-Case Design]]"
 processed_date: 2026-05-02
 ---
 

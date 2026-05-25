@@ -21,14 +21,14 @@ extracted_to:
   - "[[Membership-Creating Function of Education]]"
   - "[[Regional University Alliances]]"
   - "[[Sputnik Shock 1957]]"
-  - "[[Francisco Varela]]"
-  - "[[Humberto Maturana]]"
   - "[[Arturo Escobar]]"
   - "[[Julian Huxley]]"
   - "[[Robert Cowen]]"
   - "[[Donna Haraway]]"
   - "[[Autopoiesis]]"
   - "[[Transition Design]]"
+  - "[[Francisco Varela]]"
+  - "[[Humberto Maturana]]"
 processed_date: 2026-05-08
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

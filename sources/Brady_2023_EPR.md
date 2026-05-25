@@ -6,11 +6,11 @@ extracted_to:
   - "[[Recommendations for Practice]]"
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Qualitative Research]]"
-  - "[[Causal Modeling]]"
   - "[[Intervention Research]]"
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Causal Modeling]]"
 processed_date: 2026-05-05
 ---
 

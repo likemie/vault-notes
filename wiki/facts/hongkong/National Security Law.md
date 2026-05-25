@@ -16,16 +16,20 @@ tags:
 - national-education
 - region/china
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[One Country, Two Systems]]"
+  - "[[Zhonghua Minzu]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[National Education]]"
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
 related_arguments: []
 sources:
   - "[[Yan_2025_JCS]]"
+  - "[[Vickers_2024_CE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -55,7 +59,7 @@ updated: '2026-05-25'
 > 5. **"[[One Country, Two Systems|一国两制]]"的教育内涵转变**：从"高度自治"下的多元课程体系，转向"一国是前提"下的统一爱国教育框架。（p. 489）
 >
 > 6. **教科书内容的系统改造**：Vickers（2024, pp.148–153）通过对 2022 年 CSD 教科书与 2020 年 LS 教科书的对比，揭示了《国安法》后教科书在四个维度上的系统性转变（参见 [[Citizenship and Social Development]] 教科书内容分析）：
->    - **历史框架**：从承认香港为"移民社会"、呈现多元且演变的历史意识，转变为以 22 页篇幅从"不平等条约"开始论证香港"自古以来就是中国领土"，并要求学生培养"对我国和[[Zhonghua Minzu (Chinese Nation)|中华民族]]的认同感和归属感"（Vickers, 2024, p.149）。
+>    - **历史框架**：从承认香港为"移民社会"、呈现多元且演变的历史意识，转变为以 22 页篇幅从"不平等条约"开始论证香港"自古以来就是中国领土"，并要求学生培养"对我国和[[Zhonghua Minzu|中华民族]]的认同感和归属感"（Vickers, 2024, p.149）。
 >    - **"一国两制"解释**：从 LS 教科书极少直接使用该术语、强调《基本法》作为法治基础，转变为 CSD 教科书以整章标题明确"中国对香港拥有不可争议的主权和管辖权"，强调"一国是前提和基础，两制从属并派生于一国"（Vickers, 2024, pp.149–150）。
 >    - **文化角色**：从 LS 教科书强调"多重身份"和反对"用主流文化统一或同化其他文化"，转变为 CSD 教科书将文化定位为不可流动的本质——"中华文化为主体"，文化多元性仅具有服务经济发展的工具性价值，同时被框定为国家的"软实力"（Vickers, 2024, pp.150–152）。
 >    - **权利与自由**：从 LS 教科书将"占中"作为合法讨论议题、列出"七一游行"和"六四烛光晚会"为"集体行动"的形式，转变为 CSD 教科书中几乎所有抗议权利的讨论被删除——关于表达自由的讨论仅剩半页，并以粗体强调"这些权利不是绝对的"（Vickers, 2024, pp.152–153）。
