@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Goal-Controlled Mode]]"
-  - "[[The Great Learning]]"
   - "[[Self-Driven Mode]]"
 related_theories:
   - "[[Culture as Toolkit]]"

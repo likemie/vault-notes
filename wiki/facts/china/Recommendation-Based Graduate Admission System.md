@@ -16,7 +16,6 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Academic Engagement]]"
   - "[[Credential Inflation]]"
   - "[[Intuition-Dependent Mode]]"

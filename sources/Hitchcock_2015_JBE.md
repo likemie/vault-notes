@@ -1,13 +1,13 @@
 ---
 citation: "Hitchcock, J. H., Kratochwill, T. R., & Chezan, L. C. (2015). What Works Clearinghouse standards and generalization of single-case design evidence. Journal of Behavioral Education, 24(4), 459–469."
 extracted_to:
-  - "[[5-3-20 Rule]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
-  - "[[What Works Clearinghouse]]"
-  - "[[Evidence-Based Education]]"
+  - "[[5-3-20 Rule]]"
+  - "[[Educational Evidence Clearinghouses]]"
   - "[[Gating Procedure]]"
-  - "[[Single-Case Design]]"
   - "[[WWC SCD Pilot Standards]]"
+  - "[[What Works Clearinghouse]]"
+  - "[[Single-Case Design]]"
   - "[[Campbellian Validity Framework]]"
 processed_date: 2026-05-02
 ---

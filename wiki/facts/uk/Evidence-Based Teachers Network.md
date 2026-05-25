@@ -15,7 +15,6 @@ tags:
   - theme/evidence-informed-practice
   - theme/teacher-professional-learning
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"

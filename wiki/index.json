@@ -29,7 +29,6 @@
     "aliases": [
       "仁",
       "human goodness",
-      "benevolence",
       "humanheartedness",
       "authoritative conduct"
     ]
@@ -174,7 +173,6 @@
     "aliases": [
       "精",
       "精通",
-      "refined mastery",
       "perfected mastery",
       "thorough understanding"
     ]
@@ -197,8 +195,7 @@
     "aliases": [
       "禮",
       "礼",
-      "propriety",
-      "ritual propriety"
+      "propriety"
     ]
   },
   {
@@ -235,7 +232,6 @@
       "耻",
       "恥",
       "chi",
-      "sense of shame",
       "羞耻感"
     ]
   },
@@ -264,7 +260,6 @@
     "path": "wiki/concepts/chinese-philosophy/Tongxue.md",
     "aliases": [
       "同學",
-      "tongxue",
       "learning peer",
       "learning friend"
     ]
@@ -285,7 +280,6 @@
     "path": "wiki/concepts/communication-discourse/Cognitive Source.md",
     "aliases": [
       "认知来源",
-      "cognitive source",
       "cognitive source in learning socialization",
       "maternal cognitive source"
     ]
@@ -378,8 +372,7 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Externalization.md",
     "aliases": [
-      "外化",
-      "externalization"
+      "外化"
     ]
   },
   {
@@ -397,8 +390,7 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Meta-Cultural Sensitivity.md",
     "aliases": [
-      "元文化敏感度",
-      "meta-cultural sensitivity"
+      "元文化敏感度"
     ]
   },
   {
@@ -569,8 +561,7 @@
     "type": "concept",
     "path": "wiki/concepts/curriculum/Fourth Culture.md",
     "aliases": [
-      "第四文化",
-      "fourth culture"
+      "第四文化"
     ]
   },
   {
@@ -632,8 +623,7 @@
     "type": "concept",
     "path": "wiki/concepts/curriculum/Whole Language.md",
     "aliases": [
-      "全语言",
-      "whole language"
+      "全语言"
     ]
   },
   {
@@ -737,7 +727,6 @@
     "path": "wiki/concepts/educational-philosophy/Ecomuseology.md",
     "aliases": [
       "生态博物馆学",
-      "ecomuseology",
       "生态博物馆",
       "ecomuseum",
       "ecomuseums"
@@ -765,8 +754,7 @@
     "path": "wiki/concepts/educational-philosophy/Epistemology of Resistance.md",
     "aliases": [
       "抵抗认识论",
-      "resistive epistemology",
-      "epistemology of resistance"
+      "resistive epistemology"
     ]
   },
   {
@@ -797,8 +785,7 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Humosity.md",
     "aliases": [
-      "腐殖性",
-      "humosity"
+      "腐殖性"
     ]
   },
   {
@@ -823,7 +810,6 @@
     "path": "wiki/concepts/educational-philosophy/Mind and Its Wonders.md",
     "aliases": [
       "心智及其奇迹",
-      "mind and its wonders",
       "human intellect",
       "human mind",
       "western mind"
@@ -842,8 +828,7 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Multiplicity.md",
     "aliases": [
-      "多重性",
-      "multiplicity"
+      "多重性"
     ]
   },
   {
@@ -945,8 +930,7 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Ubuntu.md",
     "aliases": [
-      "乌班图",
-      "ubuntu"
+      "乌班图"
     ]
   },
   {
@@ -980,9 +964,7 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Whole Sustainability.md",
     "aliases": [
-      "整体可持续性",
-      "whole sustainability",
-      "Whole Sustainability"
+      "整体可持续性"
     ]
   },
   {
@@ -1054,8 +1036,7 @@
     "aliases": [
       "技术融入",
       "技术整合",
-      "technology integration",
-      "technology infusion"
+      "technology integration"
     ]
   },
   {
@@ -1065,8 +1046,7 @@
     "aliases": [
       "学习社交融入理论",
       "学业融入与社交融入",
-      "Tinto 融入理论",
-      "academic and social integration"
+      "Tinto 融入理论"
     ]
   },
   {
@@ -1074,8 +1054,7 @@
     "type": "concept",
     "path": "wiki/concepts/higher-education/Academic Engagement.md",
     "aliases": [
-      "学业投入",
-      "academic engagement"
+      "学业投入"
     ]
   },
   {
@@ -1133,7 +1112,6 @@
     "path": "wiki/concepts/higher-education/Economy of Experience.md",
     "aliases": [
       "履历经济学",
-      "economy of experience",
       "履历资本"
     ]
   },
@@ -1143,7 +1121,6 @@
     "path": "wiki/concepts/higher-education/Employability.md",
     "aliases": [
       "就业力",
-      "employability",
       "就业能力"
     ]
   },
@@ -1153,8 +1130,7 @@
     "path": "wiki/concepts/higher-education/Epistemic Drift.md",
     "aliases": [
       "认识漂移",
-      "知识漂移",
-      "epistemic drift"
+      "知识漂移"
     ]
   },
   {
@@ -1206,7 +1182,6 @@
     "path": "wiki/concepts/higher-education/Graduate Attributes.md",
     "aliases": [
       "毕业生特质",
-      "graduate attributes",
       "毕业生素养",
       "graduate outcomes",
       "graduate skills",
@@ -1218,8 +1193,7 @@
     "type": "concept",
     "path": "wiki/concepts/higher-education/International Education.md",
     "aliases": [
-      "国际教育",
-      "international education"
+      "国际教育"
     ]
   },
   {
@@ -1247,8 +1221,7 @@
     "type": "concept",
     "path": "wiki/concepts/higher-education/Knowledge Capitalism.md",
     "aliases": [
-      "知识资本主义",
-      "knowledge capitalism"
+      "知识资本主义"
     ]
   },
   {
@@ -1298,8 +1271,7 @@
     "path": "wiki/concepts/higher-education/Promising Student.md",
     "aliases": [
       "有前景的学生",
-      "有前途的学生",
-      "promising student"
+      "有前途的学生"
     ]
   },
   {
@@ -1326,8 +1298,7 @@
     "type": "concept",
     "path": "wiki/concepts/higher-education/Self-Authorship.md",
     "aliases": [
-      "自我主导性",
-      "self-authorship"
+      "自我主导性"
     ]
   },
   {
@@ -1347,7 +1318,6 @@
     "path": "wiki/concepts/higher-education/Social Charter.md",
     "aliases": [
       "社会宪章",
-      "social charter",
       "Meyer social charter",
       "高等教育社会宪章"
     ]
@@ -1357,8 +1327,7 @@
     "type": "concept",
     "path": "wiki/concepts/higher-education/Social Engagement.md",
     "aliases": [
-      "社会性投入",
-      "social engagement"
+      "社会性投入"
     ]
   },
   {
@@ -1385,7 +1354,6 @@
     "path": "wiki/concepts/higher-education/Student Engagement.md",
     "aliases": [
       "学生投入",
-      "student engagement",
       "Kuh 学生投入理论"
     ]
   },
@@ -1395,7 +1363,6 @@
     "path": "wiki/concepts/higher-education/Student Involvement.md",
     "aliases": [
       "学生涉入",
-      "student involvement",
       "Astin 涉入理论"
     ]
   },
@@ -1432,8 +1399,7 @@
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Classroom Management.md",
     "aliases": [
-      "课堂管理",
-      "classroom management"
+      "课堂管理"
     ]
   },
   {
@@ -1496,8 +1462,6 @@
     "path": "wiki/concepts/instruction-pedagogy/Formative Assessment.md",
     "aliases": [
       "Formative Evaluation",
-      "formative evaluation",
-      "formative assessment",
       "形成性评价",
       "形成性评估"
     ]
@@ -1565,8 +1529,7 @@
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Structured Teaching.md",
     "aliases": [
-      "结构化教学",
-      "structured teaching"
+      "结构化教学"
     ]
   },
   {
@@ -1671,7 +1634,6 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Ideal Learner.md",
     "aliases": [
       "理想学习者",
-      "ideal learner",
       "ideal learner image",
       "ideal-learner image",
       "理想学习者形象"
@@ -1694,7 +1656,6 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Learned Helplessness.md",
     "aliases": [
       "习得性无助",
-      "learned helplessness",
       "习得无助"
     ]
   },
@@ -1712,8 +1673,7 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Life Power.md",
     "aliases": [
       "Lebenskraft",
-      "生命力量",
-      "life power"
+      "生命力量"
     ]
   },
   {
@@ -1723,7 +1683,6 @@
     "aliases": [
       "控制点",
       "控制源",
-      "locus of control",
       "内外控",
       "internal vs external control"
     ]
@@ -1783,7 +1742,6 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Self-Efficacy.md",
     "aliases": [
       "自我效能感",
-      "self-efficacy",
       "perceived self-efficacy",
       "自我效能"
     ]
@@ -1835,8 +1793,7 @@
     "aliases": [
       "文化外交",
       "高等教育中的文化外交",
-      "高教文化外交",
-      "cultural diplomacy"
+      "高教文化外交"
     ]
   },
   {
@@ -1904,7 +1861,6 @@
     "path": "wiki/concepts/political-economy-geopolitics/Geopolitical Subject.md",
     "aliases": [
       "地缘政治主体",
-      "geopolitical subject",
       "geopolitical subjects"
     ]
   },
@@ -1914,7 +1870,6 @@
     "path": "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md",
     "aliases": [
       "知识地缘政治",
-      "geopolitics of knowledge",
       "GPK"
     ]
   },
@@ -1924,8 +1879,7 @@
     "path": "wiki/concepts/political-economy-geopolitics/Global Education Industry.md",
     "aliases": [
       "全球教育产业",
-      "GEI",
-      "global education industry"
+      "GEI"
     ]
   },
   {
@@ -1968,8 +1922,7 @@
     "aliases": [
       "枢纽与流动想象",
       "枢纽想象",
-      "流动想象",
-      "hub and flow imaginaries"
+      "流动想象"
     ]
   },
   {
@@ -1997,7 +1950,6 @@
     "aliases": [
       "知识经济",
       "知识型经济",
-      "knowledge-based economy",
       "KBE"
     ]
   },
@@ -2022,8 +1974,7 @@
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Mondialisation.md",
     "aliases": [
-      "世界化",
-      "mondialisation"
+      "世界化"
     ]
   },
   {
@@ -2066,8 +2017,7 @@
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Orientalism.md",
     "aliases": [
-      "东方主义",
-      "orientalism"
+      "东方主义"
     ]
   },
   {
@@ -2093,7 +2043,6 @@
     "path": "wiki/concepts/political-economy-geopolitics/Power-Geometries.md",
     "aliases": [
       "权力几何学",
-      "power-geometries",
       "power geometry"
     ]
   },
@@ -2129,7 +2078,6 @@
     "aliases": [
       "政策的科学化",
       "政治的科学化",
-      "scientization of politics",
       "scientisation of politics"
     ]
   },
@@ -2151,7 +2099,6 @@
     "aliases": [
       "汉化",
       "中国化",
-      "sinicisation",
       "sinicization"
     ]
   },
@@ -2169,7 +2116,6 @@
     "path": "wiki/concepts/political-economy-geopolitics/Spatial Sortings.md",
     "aliases": [
       "空间分选",
-      "spatial sortings",
       "空间分化"
     ]
   },
@@ -2180,7 +2126,6 @@
     "aliases": [
       "资本主义多样性",
       "VoC",
-      "varieties of capitalism",
       "生产体制"
     ]
   },
@@ -2216,7 +2161,6 @@
     "path": "wiki/concepts/research-methodology/Absorptive Capacity.md",
     "aliases": [
       "吸收能力",
-      "absorptive capacity",
       "district absorptive capacity"
     ]
   },
@@ -2282,7 +2226,6 @@
     "aliases": [
       "证据本位教育",
       "循证教育",
-      "evidence-based education",
       "EBE",
       "evidence-based policy in education",
       "证据为本教育"
@@ -2350,7 +2293,6 @@
       "知识动员",
       "知识转译",
       "KMb",
-      "knowledge mobilisation",
       "knowledge mobilization"
     ]
   },
@@ -2462,8 +2404,7 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Reusability Paradox.md",
     "aliases": [
-      "可重用性悖论",
-      "reusability paradox"
+      "可重用性悖论"
     ]
   },
   {
@@ -2505,8 +2446,7 @@
     "path": "wiki/concepts/sociology-of-education/Champ.md",
     "aliases": [
       "场域",
-      "field",
-      "champ"
+      "field"
     ]
   },
   {
@@ -2516,7 +2456,6 @@
     "aliases": [
       "代码切换者",
       "code switcher",
-      "codeswitcher",
       "codeswitching in school",
       "effort hiding",
       "努力隐藏"
@@ -2528,7 +2467,6 @@
     "path": "wiki/concepts/sociology-of-education/Credential Inflation.md",
     "aliases": [
       "文凭通货膨胀",
-      "credential inflation",
       "文凭通胀",
       "学历贬值"
     ]
@@ -2547,8 +2485,7 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cultural Capital.md",
     "aliases": [
-      "文化资本",
-      "cultural capital"
+      "文化资本"
     ]
   },
   {
@@ -2556,8 +2493,7 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
     "aliases": [
-      "文化脱嵌",
-      "cultural disembedding"
+      "文化脱嵌"
     ]
   },
   {
@@ -2565,8 +2501,7 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cultural Disorientation.md",
     "aliases": [
-      "文化迷失",
-      "cultural disorientation"
+      "文化迷失"
     ]
   },
   {
@@ -2575,7 +2510,6 @@
     "path": "wiki/concepts/sociology-of-education/Doxa.md",
     "aliases": [
       "自明真理",
-      "doxa",
       "不言自明"
     ]
   },
@@ -2585,8 +2519,7 @@
     "path": "wiki/concepts/sociology-of-education/Enculturation.md",
     "aliases": [
       "文化濡化",
-      "濡化",
-      "enculturation"
+      "濡化"
     ]
   },
   {
@@ -2602,8 +2535,7 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md",
     "aliases": [
-      "目标掌控模式",
-      "goal-controlled mode"
+      "目标掌控模式"
     ]
   },
   {
@@ -2621,8 +2553,7 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Habitus.md",
     "aliases": [
-      "习性",
-      "habitus"
+      "习性"
     ]
   },
   {
@@ -2643,7 +2574,6 @@
     "aliases": [
       "知性-社交二分",
       "智识-社交分离",
-      "intellectual-social divide",
       "知性与社交的对立"
     ]
   },
@@ -2652,8 +2582,7 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
     "aliases": [
-      "直觉依赖模式",
-      "intuition-dependent mode"
+      "直觉依赖模式"
     ]
   },
   {
@@ -2680,7 +2609,6 @@
     "path": "wiki/concepts/sociology-of-education/Nerd.md",
     "aliases": [
       "书呆子",
-      "nerd",
       "geek",
       "nerd harassment",
       "anti-intellectual peer culture"
@@ -2759,8 +2687,7 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Stereotype Threat.md",
     "aliases": [
-      "刻板印象威胁",
-      "stereotype threat"
+      "刻板印象威胁"
     ]
   },
   {
@@ -2777,7 +2704,6 @@
     "path": "wiki/concepts/sociology-of-education/Talent Assumption.md",
     "aliases": [
       "天赋假设",
-      "talent assumption",
       "innate ability assumption",
       "fixed ability belief",
       "天赋信念"
@@ -2839,8 +2765,7 @@
     "path": "wiki/concepts/sociology-of-education/Work Meaning Schemas.md",
     "aliases": [
       "工作意义三角图式",
-      "三角图式结构",
-      "work meaning schemas"
+      "三角图式结构"
     ]
   },
   {
@@ -2849,7 +2774,6 @@
     "path": "wiki/concepts/sociology-of-education/Zero-Sum Competition.md",
     "aliases": [
       "零和竞争",
-      "zero-sum competition",
       "零和博弈式竞争",
       "mutually exclusive competition",
       "排他性竞争"
@@ -2926,8 +2850,7 @@
       "世界政体理论",
       "Stanford school",
       "World Culture Theory",
-      "世界文化理论",
-      "world culture theory"
+      "世界文化理论"
     ]
   },
   {
@@ -2952,8 +2875,7 @@
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Autopoiesis.md",
     "aliases": [
-      "自创生",
-      "autopoiesis"
+      "自创生"
     ]
   },
   {
@@ -3048,8 +2970,7 @@
     "type": "theory",
     "path": "wiki/theories/higher-education/Network Society.md",
     "aliases": [
-      "网络社会",
-      "network society"
+      "网络社会"
     ]
   },
   {
@@ -3105,8 +3026,7 @@
     "path": "wiki/theories/learning-science-cognitive-science/Hebbian Principles.md",
     "aliases": [
       "hebbian-principles",
-      "赫布原则",
-      "Hebbian principles"
+      "赫布原则"
     ]
   },
   {
@@ -3164,8 +3084,7 @@
     "path": "wiki/theories/political-economy-geopolitics/Critical Geopolitics.md",
     "aliases": [
       "批判地缘政治学",
-      "批判地缘政治",
-      "critical geopolitics"
+      "批判地缘政治"
     ]
   },
   {
@@ -3174,8 +3093,7 @@
     "path": "wiki/theories/political-economy-geopolitics/Cultural Political Economy.md",
     "aliases": [
       "文化政治经济学",
-      "CPE",
-      "cultural political economy"
+      "CPE"
     ]
   },
   {
@@ -3183,8 +3101,7 @@
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md",
     "aliases": [
-      "去殖民知识地缘政治",
-      "decolonial geopolitics of knowledge"
+      "去殖民知识地缘政治"
     ]
   },
   {
@@ -3268,7 +3185,6 @@
     "path": "wiki/theories/sociology-of-education/Culture as Toolkit.md",
     "aliases": [
       "文化工具箱",
-      "culture as toolkit",
       "Swidler 工具箱理论"
     ]
   },
@@ -3311,8 +3227,7 @@
     "type": "method",
     "path": "wiki/methods/mixed/Formative Program Evaluation.md",
     "aliases": [
-      "形成性项目评价",
-      "formative program evaluation"
+      "形成性项目评价"
     ]
   },
   {
@@ -3353,7 +3268,6 @@
     "path": "wiki/methods/mixed/Prototype Methods.md",
     "aliases": [
       "原型方法",
-      "prototype methods",
       "prototype methodology",
       "cultural prototype methods"
     ]
@@ -3406,8 +3320,7 @@
     "type": "method",
     "path": "wiki/methods/qualitative/Comparative Meta-synthesis.md",
     "aliases": [
-      "比较性元综合",
-      "comparative meta-synthesis"
+      "比较性元综合"
     ]
   },
   {
@@ -3473,7 +3386,6 @@
     "aliases": [
       "母子对话法",
       "MCC",
-      "mother-child conversation",
       "simulated mother-child conversation"
     ]
   },
@@ -3623,7 +3535,6 @@
     "aliases": [
       "准实验设计",
       "quasi-experimental design",
-      "quasi-experimental designs",
       "QED",
       "counterfactual viability",
       "counterfactual strength",
@@ -4733,8 +4644,7 @@
       "世界大学学术排名",
       "ARWU",
       "上海排名",
-      "Shanghai Ranking",
-      "Academic Ranking of World Universities"
+      "Shanghai Ranking"
     ]
   },
   {
@@ -4953,8 +4863,7 @@
     "type": "fact",
     "path": "wiki/facts/eu/Horizon Europe Missions.md",
     "aliases": [
-      "地平线欧洲使命",
-      "Horizon Europe Missions"
+      "地平线欧洲使命"
     ]
   },
   {
@@ -4998,8 +4907,7 @@
     "path": "wiki/facts/france/French Class Size Reduction.md",
     "aliases": [
       "French Class Size Reduction 2017",
-      "法国2017年班额缩减政策",
-      "French class size reduction"
+      "法国2017年班额缩减政策"
     ]
   },
   {
@@ -5037,8 +4945,7 @@
       "国际文凭",
       "IB",
       "IB Diploma",
-      "IB Diploma Program",
-      "International Baccalaureate"
+      "IB Diploma Program"
     ]
   },
   {
@@ -5253,8 +5160,7 @@
     "aliases": [
       "Azione LIM 2008",
       "Interactive Whiteboard Action",
-      "意大利互动白板行动",
-      "Azione LIM"
+      "意大利互动白板行动"
     ]
   },
   {
@@ -5324,7 +5230,6 @@
     "type": "fact",
     "path": "wiki/facts/newzealand/Cognition Education.md",
     "aliases": [
-      "Cognition Education",
       "Cognition Education Group",
       "Cognition Education Trust",
       "Multi Serve",
@@ -5487,7 +5392,6 @@
     "path": "wiki/facts/uk/Areopagitica.md",
     "aliases": [
       "论出版自由",
-      "Areopagitica",
       "Milton's Areopagitica"
     ]
   },
@@ -5511,10 +5415,7 @@
   {
     "title": "ResearchED",
     "type": "fact",
-    "path": "wiki/facts/uk/ResearchED.md",
-    "aliases": [
-      "ResearchED"
-    ]
+    "path": "wiki/facts/uk/ResearchED.md"
   },
   {
     "title": "Centre for the Use of Research and Evidence in Education",
@@ -5600,8 +5501,7 @@
     "type": "fact",
     "path": "wiki/facts/uk/Ofsted.md",
     "aliases": [
-      "英国教育标准办公室",
-      "OFSTED"
+      "英国教育标准办公室"
     ]
   },
   {
@@ -5922,8 +5822,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Students and Teachers Accessing Tomorrow.md",
     "aliases": [
-      "STAT",
-      "Students and Teachers Accessing Tomorrow"
+      "STAT"
     ]
   },
   {

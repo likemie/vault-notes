@@ -2,7 +2,6 @@
 title: Geopolitics of Knowledge
 aliases:
   - 知识地缘政治
-  - geopolitics of knowledge
   - GPK
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
@@ -17,7 +16,6 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Classical Geopolitics]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Tongxue]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Spatial Sortings]]"
   - "[[Knowledge-Based Economy]]"
@@ -25,7 +23,6 @@ related_concepts:
   - "[[Flow]]"
   - "[[Champ]]"
   - "[[Geopolitical Subject]]"
-  - "[[The Great Learning]]"
   - "[[Governmentality]]"
   - "[[International Education Hubs]]"
   - "[[Narrative Knowledge]]"
@@ -48,8 +45,8 @@ related_concepts:
   - "[[Hegemony]]"
 related_theories:
   - "[[Critical Geopolitics]]"
-  - "[[Fixity-Motion Tension]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Fixity-Motion Tension]]"
 related_methods:
   - "[[Matching]]"
   - "[[Single-Case Design]]"

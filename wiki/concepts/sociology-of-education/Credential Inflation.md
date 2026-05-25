@@ -2,7 +2,6 @@
 title: Credential Inflation
 aliases:
   - 文凭通货膨胀
-  - credential inflation
   - 文凭通胀
   - 学历贬值
 summary: "Randall Collins 提出的概念，指学历数量扩张导致文凭在劳动力市场中的区分效力下降，用于分析教育扩张、职业筛选和地位竞争。"
@@ -13,7 +12,6 @@ tags:
 - social-stratification
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Economy of Experience]]"
   - "[[Employability]]"
   - "[[Champ]]"

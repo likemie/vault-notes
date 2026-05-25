@@ -16,7 +16,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Class Size]]"
   - "[[Material Fallacies]]"
-  - "[[The Great Learning]]"
   - "[[Effect Size]]"
   - "[[Cult of the Guru]]"
 related_theories: []

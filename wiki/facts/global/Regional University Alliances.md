@@ -14,7 +14,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Transitology]]"
 related_theories: []

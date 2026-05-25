@@ -2,7 +2,6 @@
 title: Social Charter
 aliases:
   - 社会宪章
-  - social charter
   - Meyer social charter
   - 高等教育社会宪章
 summary: "Meyer 提出的概念，指大学与社会之间关于毕业生地位、资格和社会认可的不成文约定。"

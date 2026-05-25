@@ -10,7 +10,6 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons:

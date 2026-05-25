@@ -1,19 +1,20 @@
 ---
 citation: "Johnson, G. R., & Janzen, M. D. (2023). Leading the blind: A critical look at Visible Learning. Critical Education, 14(4), 23–41."
 extracted_to:
-  - "[[Visible Learning]]"
+  - "[[Argument_Johnson_2023_CE]]"
   - "[[Class Size]]"
+  - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism in Educational Administration]]"
-  - "[[Scientism]]"
   - "[[Cargo Cult Science]]"
+  - "[[Scientism]]"
+  - "[[Critiques of Visible Learning]]"
+  - "[[Visible Learning]]"
   - "[[Global Education Reform Movement]]"
   - "[[Performativity of Measurement]]"
-  - "[[Cult of the Guru]]"
-  - "[[Argument_Johnson_2023_CE]]"
-  - "[[Visible Learning Branding and Global Influences]]"
-  - "[[Tomorrow's Schools Reforms]]"
-  - "[[California Class Size Reduction 1996]]"
   - "[[Cognition Education]]"
+  - "[[Tomorrow's Schools Reforms]]"
+  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-04
 ---

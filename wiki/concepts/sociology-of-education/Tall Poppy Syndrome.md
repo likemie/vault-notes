@@ -17,8 +17,7 @@ related_concepts:
   - "[[Zero-Sum Competition]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Self-Cultivation]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

@@ -2,7 +2,6 @@
 title: Power-Geometries
 aliases:
   - 权力几何学
-  - power-geometries
   - power geometry
 summary: "Massey 的空间理论概念，指空间中的开放、封闭和互联总是通过不平等的社会关系被建构和分配。"
 type: concept
@@ -14,7 +13,6 @@ tags:
 related_concepts:
   - "[[Multiplicity]]"
   - "[[Classical Geopolitics]]"
-  - "[[The Great Learning]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
 related_theories:

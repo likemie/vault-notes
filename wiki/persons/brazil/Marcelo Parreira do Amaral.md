@@ -13,7 +13,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Global Education Industry]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"

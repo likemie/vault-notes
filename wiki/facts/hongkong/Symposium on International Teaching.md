@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
-  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

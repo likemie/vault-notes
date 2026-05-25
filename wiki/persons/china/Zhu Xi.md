@@ -15,7 +15,6 @@ tags:
 - theory/neo-confucianism
 - school/cheng-zhu-school
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Self-Cultivation]]"
   - "[[Sage]]"
   - "[[Take the World Upon Oneself]]"

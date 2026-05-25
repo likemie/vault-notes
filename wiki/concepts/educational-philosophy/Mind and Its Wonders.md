@@ -2,7 +2,6 @@
 title: Mind and Its Wonders
 aliases:
   - 心智及其奇迹
-  - mind and its wonders
   - human intellect
   - human mind
   - western mind

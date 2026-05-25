@@ -2,7 +2,6 @@
 title: Academic Engagement
 aliases:
   - 学业投入
-  - academic engagement
 summary: "学生向学术性教育活动投入的时间、精力和注意力，用于描述其在课程学习、课堂参与和学术任务中的投入程度。"
 type: concept
 tags:

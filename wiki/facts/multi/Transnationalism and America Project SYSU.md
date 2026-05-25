@@ -12,7 +12,6 @@ tags:
 - region/us
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Chinese Learner]]"
   - "[[International Education]]"
   - "[[International Schools]]"

@@ -9,7 +9,6 @@ tags:
 - tengteng-zhuang
 - region/china
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []

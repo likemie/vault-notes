@@ -2,7 +2,7 @@
 title: Parallel Monologues
 aliases:
   - 平行独白
-summary: Eacott 提出的概念，描述教育行政研究中学者各自在子领域内发表和引用但很少实质性交锋的结构性现象，用于批评缺乏论证与反驳的学术交流模式。
+summary: "Eacott 提出的概念，描述教育行政研究中学者各自在子领域内发表和引用但很少实质性交锋的结构性现象，用于批评缺乏论证与反驳的学术交流模式。"
 type: concept
 tags:
   - parallel-monologues

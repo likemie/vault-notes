@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[The Great Learning]]"
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Champ]]"
   - "[[Self-Efficacy]]"

@@ -4,7 +4,6 @@ aliases:
   - 枢纽与流动想象
   - 枢纽想象
   - 流动想象
-  - hub and flow imaginaries
 summary: "把世界想象为由枢纽中心和边缘区域构成流动结构的空间想象，用于解释知识经济中的集中、连接和不平等。"
 type: concept
 tags:
@@ -17,7 +16,6 @@ related_concepts:
   - "[[Flow]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[The Great Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[National Competitive Advantage]]"
   - "[[Hegemony]]"
@@ -28,7 +26,6 @@ related_concepts:
   - "[[Geopolitical Subject]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
-  - "[[Neo-Confucianism]]"
   - "[[Cultural Political Economy]]"
   - "[[Critical Geopolitics]]"
 related_methods: []

@@ -15,7 +15,6 @@ tags:
   - theme/evidence-informed-practice
   - theme/educational-intervention
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"

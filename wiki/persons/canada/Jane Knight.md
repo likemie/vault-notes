@@ -10,7 +10,6 @@ tags:
 - level/higher-ed
 - discipline/international-education
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[International Education]]"
   - "[[International Education Hubs]]"
   - "[[Internationalization of Higher Education]]"

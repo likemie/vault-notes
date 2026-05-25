@@ -10,7 +10,6 @@ tags:
 - paradigm/critical
 - region/denmark
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Learnification]]"

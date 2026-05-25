@@ -2,7 +2,6 @@
 title: Knowledge Capitalism
 aliases:
   - 知识资本主义
-  - knowledge capitalism
 summary: "把知识生产、流通和应用置于资本积累核心位置的全球经济秩序概念，用于解释大学、创新体系和地缘竞争的深度重组"
 type: concept
 tags:

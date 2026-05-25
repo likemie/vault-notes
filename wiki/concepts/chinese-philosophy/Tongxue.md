@@ -2,10 +2,9 @@
 title: Tongxue
 aliases:
   - 同學
-  - tongxue
   - learning peer
   - learning friend
-summary: 中文对学校同伴的称谓，字面意为一起学习的人，与西方强调平等地位的peer概念形成对比，反映东亚文化中同伴作为学习朋友的功能定位
+summary: "中文对学校同伴的称谓，字面意为一起学习的人，与西方强调平等地位的peer概念形成对比，反映东亚文化中同伴作为学习朋友的功能定位"
 type: concept
 tags:
   - region/east-asia

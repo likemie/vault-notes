@@ -10,7 +10,6 @@ tags:
 - moral-judgment
 - paradigm/interpretivist
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Habitus]]"

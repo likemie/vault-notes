@@ -12,13 +12,11 @@ tags:
   - level/k12
 related_concepts:
   - "[[Structured Teaching]]"
-  - "[[Tongxue]]"
   - "[[Direct Instruction]]"
   - "[[Feedback]]"
   - "[[Effective Teaching]]"
   - "[[Visible Learning]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

@@ -1,7 +1,6 @@
 ---
 title: Cognition Education
 aliases:
-  - Cognition Education
   - Cognition Education Group
   - Cognition Education Trust
   - Multi Serve
@@ -19,7 +18,6 @@ tags:
 related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[International Education]]"
-  - "[[The Great Learning]]"
   - "[[School Leadership]]"
 related_theories: []
 related_methods: []

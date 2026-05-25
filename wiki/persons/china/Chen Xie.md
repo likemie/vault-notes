@@ -12,7 +12,6 @@ tags:
 - evidence-based-reform
 - educational-technology
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []

@@ -20,7 +20,6 @@ related_concepts:
   - "[[Epistemology of Resistance]]"
   - "[[Social Museology]]"
   - "[[Knowledge Production]]"
-  - "[[The Great Learning]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods: []

@@ -19,7 +19,6 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Feedback]]"
   - "[[Statistical Significance]]"
-  - "[[The Great Learning]]"
   - "[[Class Size]]"
 related_theories:
   - "[[Critical Realism]]"

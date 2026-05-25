@@ -1,14 +1,14 @@
 ---
 citation: "Ball, S. J. (2008). Some sociologies of education: A history of problems and places, and segments and gazes. The Sociological Review, 56(4), 650-669."
 extracted_to:
-  - "[[Political Arithmetic]]"
-  - "[[New Sociology of Education]]"
-  - "[[School Effectiveness]]"
-  - "[[Horizontal Knowledge Structure]]"
-  - "[[Governmentality]]"
-  - "[[Basil Bernstein]]"
-  - "[[Committee for the Accreditation of Teacher Education]]"
   - "[[Argument_Ball_2008_SR]]"
+  - "[[Governmentality]]"
+  - "[[Horizontal Knowledge Structure]]"
+  - "[[New Sociology of Education]]"
+  - "[[Political Arithmetic]]"
+  - "[[School Effectiveness]]"
+  - "[[Committee for the Accreditation of Teacher Education]]"
+  - "[[Basil Bernstein]]"
   - "[[Stephen Ball]]"
 processed_date: 2026-05-23
 ---

@@ -15,7 +15,6 @@ tags:
   - theme/systematic-review
   - policy/evidence-informed-policy
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []

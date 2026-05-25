@@ -20,7 +20,6 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[Spatial Sortings]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons:

@@ -20,7 +20,6 @@ related_concepts:
   - "[[Benevolence]]"
   - "[[Junzi]]"
   - "[[Action Better Than Words]]"
-  - "[[The Great Learning]]"
   - "[[University Motto]]"
 related_theories: []
 related_methods: []

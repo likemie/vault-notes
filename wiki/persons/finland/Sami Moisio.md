@@ -10,7 +10,6 @@ tags:
 - level/higher-ed
 - discipline/political-geography
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
@@ -26,7 +25,6 @@ related_concepts:
   - "[[Progressive Neoliberalism]]"
   - "[[Global Education Industry]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
   - "[[Cultural Political Economy]]"

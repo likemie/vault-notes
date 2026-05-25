@@ -1,6 +1,15 @@
 ---
 citation: "O'Neill, J. (2012). Material fallacies of education research evidence and public policy advice. New Zealand Journal of Educational Studies, 47(1), 153-160."
-extracted_to: ["[[Visible Learning]]", "[[Class Size]]", "[[Effect Size]]", "[[Evidence-Based Education]]", "[[Material Fallacies]]", "[[Meta-analysis]]", "[[Argument_ONeill_2012_NZJES]]", "[[Treasury Briefing on Student-Teacher Ratios]]", "[[John Hattie]]"]
+extracted_to:
+  - "[[Argument_ONeill_2012_NZJES]]"
+  - "[[Class Size]]"
+  - "[[Critiques of Visible Learning]]"
+  - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[Material Fallacies]]"
+  - "[[Treasury Briefing on Student-Teacher Ratios]]"
+  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-06
 ---
 

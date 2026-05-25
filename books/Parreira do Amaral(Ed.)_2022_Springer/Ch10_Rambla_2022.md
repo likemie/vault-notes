@@ -1,6 +1,18 @@
 ---
 citation: "Rambla, X. (2022). Imaginaries of Education and Innovation in the European Union. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 163–178). Springer."
-extracted_to: ["[[Performance Indicators]]", "[[Theories of Policy Change]]", "[[Selectivity]]", "[[Network Governance]]", "[[Regulatory Regionalism]]", "[[Neocorporatism]]", "[[Innovation Union]]", "[[Europe 2020 Strategy]]", "[[EU Skills Agenda]]", "[[Youth Guarantee Scheme]]", "[[YOUNG_ADULLLT]]", "[[Argument_Rambla_2022_Springer]]"]
+extracted_to:
+  - "[[Argument_Rambla_2022_Springer]]"
+  - "[[Theories of Policy Change]]"
+  - "[[Regulatory Regionalism]]"
+  - "[[Neocorporatism]]"
+  - "[[Network Governance]]"
+  - "[[Selectivity]]"
+  - "[[Performance Indicators]]"
+  - "[[EU Skills Agenda]]"
+  - "[[Europe 2020 Strategy]]"
+  - "[[Innovation Union]]"
+  - "[[YOUNG_ADULLLT]]"
+  - "[[Youth Guarantee Scheme]]"
 processed_date: 2026-05-13
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 ---

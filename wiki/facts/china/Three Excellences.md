@@ -15,7 +15,6 @@ tags:
   - theme/achievement
   - level/k-12
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Pride in Learning]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"

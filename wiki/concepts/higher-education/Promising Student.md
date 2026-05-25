@@ -3,7 +3,6 @@ title: Promising Student
 aliases:
   - 有前景的学生
   - 有前途的学生
-  - promising student
 summary: "在竞争性大学治理中被数字化工具和制度期待建构出来的理想学生主体形态，强调自我评估、持续优化和风险管理。"
 type: concept
 tags:

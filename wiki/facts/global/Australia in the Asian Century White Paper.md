@@ -20,7 +20,6 @@ tags:
 - region/australia
 related_concepts:
   - "[[International Education]]"
-  - "[[The Great Learning]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Internationalization of Higher Education]]"
 related_theories: []

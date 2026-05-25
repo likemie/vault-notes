@@ -2,11 +2,10 @@
 title: Talent Assumption
 aliases:
   - 天赋假设
-  - talent assumption
   - innate ability assumption
   - fixed ability belief
   - 天赋信念
-summary: 西方文化中深植的信念，认为智力成就主要来源于先天禀赋而非后天努力，是nerd同伴文化的重要文化根源之一
+summary: "西方文化中深植的信念，认为智力成就主要来源于先天禀赋而非后天努力，是nerd同伴文化的重要文化根源之一"
 type: concept
 tags:
   - region/western
@@ -16,6 +15,7 @@ tags:
 related_concepts:
   - "[[Nerd]]"
   - "[[Entity vs Incremental Intelligence]]"
+  - "[[Tracking]]"
   - "[[Feedback]]"
   - "[[Zero-Sum Competition]]"
   - "[[Intellectual-Social Divide]]"

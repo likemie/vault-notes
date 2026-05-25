@@ -15,7 +15,6 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Individualised Instruction]]"
   - "[[Problem-Based Learning]]"
-  - "[[Tongxue]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Side Effects in Education]]"

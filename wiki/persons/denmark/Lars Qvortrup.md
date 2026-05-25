@@ -12,7 +12,6 @@ tags:
 - region/denmark
 - stance/support
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Visible Learning]]"
   - "[[Structural Coupling]]"
   - "[[Didaktik]]"

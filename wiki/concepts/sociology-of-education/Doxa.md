@@ -2,9 +2,8 @@
 title: Doxa
 aliases:
   - 自明真理
-  - doxa
   - 不言自明
-summary: Bourdieu 场域理论概念，指场域中被自然化为理所当然的正统信念，通过结构安排而非显性强制维持其合法性
+summary: "Bourdieu 场域理论概念，指场域中被自然化为理所当然的正统信念，通过结构安排而非显性强制维持其合法性"
 type: concept
 tags:
   - doxa
@@ -14,6 +13,7 @@ tags:
   - region/france
 related_concepts:
   - "[[Champ]]"
+  - "[[Tracking]]"
   - "[[Habitus]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Nerd]]"

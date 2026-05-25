@@ -3,9 +3,8 @@ citation: "Wrigley, T. (2018). The power of 'evidence': Reliable science or a se
 extracted_to:
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
-  - "[[ResearchED]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[ResearchED]]"
   - "[[Terry Wrigley]]"
 processed_date: 2026-05-01
 ---

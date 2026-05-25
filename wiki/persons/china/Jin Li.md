@@ -12,7 +12,6 @@ tags:
 - field/cultural-psychology
 - field/learning-science
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Didaktik]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Nerd]]"
@@ -34,7 +33,6 @@ related_concepts:
   - "[[Ideal Learner]]"
   - "[[Faust]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
 related_methods:

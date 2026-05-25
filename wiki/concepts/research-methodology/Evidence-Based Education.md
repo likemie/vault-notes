@@ -3,7 +3,6 @@ title: Evidence-Based Education
 aliases:
   - 证据本位教育
   - 循证教育
-  - evidence-based education
   - EBE
   - evidence-based policy in education
   - 证据为本教育
@@ -19,11 +18,11 @@ tags:
 - region/global
 related_concepts:
   - "[[Evidence-Based Reform]]"
-  - "[[The Great Learning]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Mechanism Experiments]]"
   - "[[Champ]]"
+  - "[[Tracking]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
@@ -50,7 +49,6 @@ related_theories:
   - "[[Critical Realism]]"
   - "[[Goldman's Discrimination Theory of Knowledge]]"
   - "[[Campbellian Validity Framework]]"
-  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Matching]]"

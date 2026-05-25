@@ -19,8 +19,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Classroom Learning Culture]]"
   - "[[Learning-Impeding Behavior]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"

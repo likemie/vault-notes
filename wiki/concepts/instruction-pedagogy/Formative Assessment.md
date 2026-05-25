@@ -2,8 +2,6 @@
 title: Formative Assessment
 aliases:
   - Formative Evaluation
-  - formative evaluation
-  - formative assessment
   - 形成性评价
   - 形成性评估
 summary: "教学过程中用于诊断学生理解、调整教学和提供反馈的课堂评价取向，重点在于促进学习而非项目实施评价。"

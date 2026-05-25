@@ -3,7 +3,6 @@ title: Work Meaning Schemas
 aliases:
   - 工作意义三角图式
   - 三角图式结构
-  - work meaning schemas
 summary: "大学生理解工作意义的三角图式结构，由地位保障与家庭责任、家国理想与社会价值、个体趣味与自我表达三种文化逻辑构成。"
 type: concept
 tags:
@@ -13,7 +12,6 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Multiplicity]]"
 related_theories:
   - "[[Culture as Toolkit]]"

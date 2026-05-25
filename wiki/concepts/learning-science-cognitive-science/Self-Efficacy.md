@@ -2,7 +2,6 @@
 title: Self-Efficacy
 aliases:
   - 自我效能感
-  - self-efficacy
   - perceived self-efficacy
   - 自我效能
 summary: "Bandura 提出的动机概念，指个体对自身在特定任务上表现能力的自我评价，不同于一般能力感或实际能力水平"

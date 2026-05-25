@@ -13,7 +13,6 @@ tags:
 - technical-rationality
 - region/denmark
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
   - "[[Feedback]]"
@@ -21,7 +20,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Radical Constructivism]]"
 related_methods:
   - "[[Qualitative Research]]"

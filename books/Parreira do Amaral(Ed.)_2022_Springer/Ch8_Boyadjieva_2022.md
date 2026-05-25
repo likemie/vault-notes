@@ -1,12 +1,13 @@
 ---
 citation: "Boyadjieva, P. (2022). (Un)avoidable clash: Higher education at the altar of its missions and rankings. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 125–142). Springer."
 extracted_to:
+  - "[[Argument_Boyadjieva_2022_Springer]]"
   - "[[Global Universities Rankings]]"
-  - "[[Pepka Boyadjieva]]"
+  - "[[Social Charter]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[OECD AHELO Project]]"
-  - "[[Social Charter]]"
-  - "[[Argument_Boyadjieva_2022_Springer]]"
+  - "[[University of Kentucky Top-20 Plan]]"
+  - "[[Pepka Boyadjieva]]"
   - "[[Ellen Hazelkorn]]"
   - "[[Capability Approach in Education]]"
 processed_date: 2026-05-11

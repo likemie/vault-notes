@@ -3,7 +3,7 @@ title: Cultural Barrier in Higher Education
 aliases:
   - 高等教育中的文化障碍
   - 文化障碍
-summary: 弱势背景学生因缺乏精英大学默认要求的文化知识与文化技能而遭遇的无形障碍，会同时限制向上流动机会与主观自我认同
+summary: "弱势背景学生因缺乏精英大学默认要求的文化知识与文化技能而遭遇的无形障碍，会同时限制向上流动机会与主观自我认同"
 type: concept
 tags:
   - cultural-barrier
@@ -14,7 +14,6 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Champ]]"
-  - "[[The Great Learning]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Bildung]]"
@@ -27,7 +26,6 @@ related_concepts:
   - "[[Refined Mastery]]"
 related_theories:
   - "[[Culture as Toolkit]]"
-  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"

@@ -3,7 +3,6 @@ title: Scientization of Politics
 aliases:
   - 政策的科学化
   - 政治的科学化
-  - scientization of politics
   - scientisation of politics
 summary: "指科学证据被政策制定者吸纳为决策合法性基础的过程，使科学知识从信息来源转变为治理权威的一部分。"
 type: concept
@@ -11,7 +10,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Epistemic Governance]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Production]]"

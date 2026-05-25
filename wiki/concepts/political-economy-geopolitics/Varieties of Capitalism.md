@@ -3,7 +3,6 @@ title: Varieties of Capitalism
 aliases:
   - 资本主义多样性
   - VoC
-  - varieties of capitalism
   - 生产体制
 summary: "区分不同资本主义制度协调方式的比较政治经济框架，常用来解释教育培训体系、企业行为和技能形成路径的跨国差异"
 type: concept

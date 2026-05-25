@@ -2,8 +2,7 @@
 title: Intuition-Dependent Mode
 aliases:
   - 直觉依赖模式
-  - intuition-dependent mode
-summary: 大学生活组织实践的一种模式，表现为缺乏清晰规划、更多依赖直觉和情境反应来应对学习与发展选择。
+summary: "大学生活组织实践的一种模式，表现为缺乏清晰规划、更多依赖直觉和情境反应来应对学习与发展选择。"
 type: concept
 tags:
   - intuition-dependent-mode
@@ -11,7 +10,6 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Champ]]"
   - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"

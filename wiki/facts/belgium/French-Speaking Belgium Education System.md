@@ -17,10 +17,8 @@ tags:
   - level/k12
 related_concepts:
   - "[[Grade Retention]]"
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Reform]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

@@ -2,7 +2,6 @@
 title: Ubuntu
 aliases:
   - 乌班图
-  - ubuntu
 summary: "强调个体在关系中成其为人的非洲关系性伦理哲学，用于理解共同体、互依性和相互责任。"
 type: concept
 tags:

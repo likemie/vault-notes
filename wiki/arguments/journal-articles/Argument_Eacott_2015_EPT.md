@@ -1,6 +1,6 @@
 ---
 title: Argument_Eacott_2015_EPT
-summary: 以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论证教育行政学者的嵌入具身性塑造其智识凝视，呼吁重新审视知识生产条件
+summary: "以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论证教育行政学者的嵌入具身性塑造其智识凝视，呼吁重新审视知识生产条件"
 type: argument
 subtype: journal-article
 publication_type: journal-article

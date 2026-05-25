@@ -3,7 +3,6 @@ title: Epistemology of Resistance
 aliases:
   - 抵抗认识论
   - resistive epistemology
-  - epistemology of resistance
 summary: "从被排斥群体的具体经验出发构建替代性知识形式的认识论取向，用于反抗支配性知识秩序。"
 type: concept
 tags:

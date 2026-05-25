@@ -14,7 +14,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Champ]]"
   - "[[Hub and Flow Imaginaries]]"

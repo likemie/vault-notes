@@ -4,7 +4,6 @@ aliases:
   - 技术融入
   - 技术整合
   - technology integration
-  - technology infusion
 summary: "将数字设备和资源常规嵌入课堂教学的系统性改革，评价难点在于技术不是单一干预而会与课程、教师发展和组织条件交互"
 type: concept
 tags:

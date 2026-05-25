@@ -18,7 +18,6 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[The Great Learning]]"
   - "[[Knowledge Production]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
 related_theories: []

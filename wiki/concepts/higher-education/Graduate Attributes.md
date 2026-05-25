@@ -2,7 +2,6 @@
 title: Graduate Attributes
 aliases:
   - 毕业生特质
-  - graduate attributes
   - 毕业生素养
   - graduate outcomes
   - graduate skills

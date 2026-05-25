@@ -13,7 +13,6 @@ tags:
 - theme/power
 - region/global
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Champ]]"
   - "[[Official Knowledge]]"
   - "[[Sinicisation]]"

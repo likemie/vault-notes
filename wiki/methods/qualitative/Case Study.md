@@ -9,8 +9,7 @@ tags:
 - case-study
 - qualitative-research
 - methodology
-related_concepts:
-  - "[[The Great Learning]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"

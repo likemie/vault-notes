@@ -12,7 +12,6 @@ tags:
 related_concepts:
   - "[[Sovereign Internationalism]]"
   - "[[Classical Geopolitics]]"
-  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

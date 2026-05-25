@@ -13,8 +13,7 @@ tags:
 - causal-inference
 - paradigm/positivist
 related_concepts: []
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []

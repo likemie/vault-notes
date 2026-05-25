@@ -17,7 +17,6 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
   - "[[Knowledge Capitalism]]"
-  - "[[The Great Learning]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economization]]"

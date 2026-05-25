@@ -19,7 +19,6 @@ tags:
 - region/international
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[The Great Learning]]"
   - "[[Educational Management Organisation]]"
   - "[[School Leadership]]"
   - "[[Class Size]]"

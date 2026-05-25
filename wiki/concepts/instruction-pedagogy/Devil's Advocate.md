@@ -12,7 +12,6 @@ tags:
   - theme/argumentation
   - field/instruction-pedagogy
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Action Better Than Words]]"
 related_theories: []
 related_methods: []

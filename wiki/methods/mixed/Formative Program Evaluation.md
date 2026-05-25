@@ -2,7 +2,6 @@
 title: Formative Program Evaluation
 aliases:
   - 形成性项目评价
-  - formative program evaluation
 summary: "在项目实施过程中持续收集多源证据并反馈给利益相关者的项目评价方法，适合支持复杂教育改革的实施调整和持续改进。"
 type: method
 method_type: mixed

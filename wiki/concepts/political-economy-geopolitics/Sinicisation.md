@@ -3,7 +3,6 @@ title: Sinicisation
 aliases:
   - 汉化
   - 中国化
-  - sinicisation
   - sinicization
 summary: "以汉文化传统为核心重新定义’中国性’的文化同化过程，通过语言替换、课程标准化和历史叙事重构将非汉群体纳入汉文化中心框架"
 type: concept

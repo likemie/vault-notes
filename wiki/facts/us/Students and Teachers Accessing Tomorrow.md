@@ -2,7 +2,6 @@
 title: Students and Teachers Accessing Tomorrow
 aliases:
   - STAT
-  - Students and Teachers Accessing Tomorrow
 summary: "2014-2019年巴尔的摩郡公立学校分阶段推进的全学区技术整合项目，用于展示复杂教育改革中证据生成与解释的困难。"
 type: fact
 subtype: policy

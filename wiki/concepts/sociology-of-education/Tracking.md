@@ -13,6 +13,7 @@ tags:
   - theme/inequality
   - theme/stratification
 related_concepts:
+  - "[[Policy Borrowing]]"
   - "[[Talent Assumption]]"
   - "[[Entity vs Incremental Intelligence]]"
   - "[[Intellectual-Social Divide]]"

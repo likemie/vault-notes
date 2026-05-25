@@ -2,7 +2,6 @@
 title: Ecomuseology
 aliases:
   - 生态博物馆学
-  - ecomuseology
   - 生态博物馆
   - ecomuseum
   - ecomuseums

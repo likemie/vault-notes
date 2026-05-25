@@ -13,7 +13,6 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[International Education]]"
   - "[[Evidence-Based Reform]]"

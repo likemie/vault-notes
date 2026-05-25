@@ -16,8 +16,7 @@ tags:
 related_concepts:
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

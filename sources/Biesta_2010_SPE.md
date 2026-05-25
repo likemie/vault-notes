@@ -3,11 +3,11 @@ citation: "Biesta, G. J. J. (2010). Why 'What Works' Still Won't Work: From Evid
 extracted_to:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Complexity Reduction]]"
+  - "[[Value-Based Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Philosophical Analysis in Education]]"
-  - "[[Transactional Epistemology]]"
-  - "[[Value-Based Education]]"
   - "[[Gert Biesta]]"
+  - "[[Transactional Epistemology]]"
 processed_date: 2026-05-01
 ---
 

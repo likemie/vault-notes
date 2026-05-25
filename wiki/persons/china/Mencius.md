@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Sage]]"
   - "[[Self-Cultivation]]"
-  - "[[The Great Learning]]"
   - "[[Four Sprouts]]"
   - "[[Benevolence]]"
   - "[[Rightness]]"

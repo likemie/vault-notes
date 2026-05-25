@@ -15,7 +15,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[University Social Responsibility]]"
   - "[[Otherhood]]"
   - "[[Epistemic Governance]]"

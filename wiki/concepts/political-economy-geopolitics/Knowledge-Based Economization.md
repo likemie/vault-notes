@@ -13,7 +13,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
-  - "[[The Great Learning]]"
   - "[[Geopolitical Subject]]"
   - "[[Economic Patriotism]]"
   - "[[Doxa]]"

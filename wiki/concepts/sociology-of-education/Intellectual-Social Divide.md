@@ -3,7 +3,6 @@ title: Intellectual-Social Divide
 aliases:
   - 知性-社交二分
   - 智识-社交分离
-  - intellectual-social divide
   - 知性与社交的对立
 summary: "西方学校文化中的深层假设，认为理智追求与社交能力相互排斥，是 nerd 同伴文化的重要文化根源之一"
 type: concept
@@ -17,6 +16,7 @@ related_concepts:
   - "[[Nerd]]"
   - "[[Academic Engagement]]"
   - "[[Zero-Sum Competition]]"
+  - "[[Tracking]]"
   - "[[Talent Assumption]]"
   - "[[Doxa]]"
 related_theories: []

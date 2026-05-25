@@ -3,7 +3,6 @@ title: Mother-Child Conversation
 aliases:
   - 母子对话法
   - MCC
-  - mother-child conversation
   - simulated mother-child conversation
 summary: "一种通过采集模拟母子对话样本来研究文化学习信念社会化过程的质性研究方法，结合结构分析、序列分析与话语分析三种分析层级，适合比较不同文化中家长如何通过日常对话传递学习信念"
 type: method

@@ -3,7 +3,6 @@ title: Knowledge-Based Economy
 aliases:
   - 知识经济
   - 知识型经济
-  - knowledge-based economy
   - KBE
 summary: "以知识、创新、高等教育和研发作为价值创造与全球竞争核心要素的经济形态。"
 type: concept
@@ -19,7 +18,6 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Corporate Education]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[The Great Learning]]"
   - "[[International Education]]"
   - "[[International Education Hubs]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -30,7 +28,6 @@ related_concepts:
   - "[[Progressive Neoliberalism]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Cultural Political Economy]]"
   - "[[Fixity-Motion Tension]]"
 related_methods:

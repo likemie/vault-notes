@@ -23,7 +23,6 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Inclusive Evidence Validation Typology]]"
-  - "[[The Great Learning]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Gating Procedure]]"
   - "[[5-3-20 Rule]]"

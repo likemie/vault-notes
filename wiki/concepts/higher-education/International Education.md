@@ -2,7 +2,6 @@
 title: International Education
 aliases:
   - 国际教育
-  - international education
 summary: "跨越单一国家边界组织、流动或想象的教育形式，涵盖国际学校、跨国高教、留学流动与跨文化学习安排"
 type: concept
 tags:

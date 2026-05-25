@@ -2,7 +2,6 @@
 title: Zero-Sum Competition
 aliases:
   - 零和竞争
-  - zero-sum competition
   - 零和博弈式竞争
   - mutually exclusive competition
   - 排他性竞争
@@ -21,7 +20,6 @@ related_concepts:
   - "[[Talent Assumption]]"
   - "[[Intellectual-Social Divide]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons: []

@@ -13,7 +13,6 @@ tags:
 - ontario
 - region/canada
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Professional Judgment]]"

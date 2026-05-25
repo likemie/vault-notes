@@ -2,7 +2,6 @@
 title: Classroom Management
 aliases:
   - 课堂管理
-  - classroom management
 summary: "Håkansson 综合教学研究后使用的宽课堂组织概念，涵盖时间使用、目标清晰、活动组织、反馈、可见领导与支持性关系。"
 type: concept
 tags:

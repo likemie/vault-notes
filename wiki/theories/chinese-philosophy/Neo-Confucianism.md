@@ -5,7 +5,7 @@ aliases:
   - 宋明理学
   - Neo-Confucian
   - 心学
-summary: 宋明时期儒学复兴运动_以程朱理学与陆王心学为代表_将天理与修身关联_重建儒家学习传统的理论根基
+summary: "宋明时期儒学复兴运动_以程朱理学与陆王心学为代表_将天理与修身关联_重建儒家学习传统的理论根基"
 type: theory
 tags:
   - region/china

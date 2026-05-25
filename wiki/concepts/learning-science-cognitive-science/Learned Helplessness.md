@@ -2,7 +2,6 @@
 title: Learned Helplessness
 aliases:
   - 习得性无助
-  - learned helplessness
   - 习得无助
 summary: "Dweck 早期研究发现的现象，指学习者因相信自己缺乏能力而放弃努力的行为模式，是 Entity vs Incremental Intelligence 理论的经验前身"
 type: concept

@@ -1,19 +1,23 @@
 ---
 citation: "Bainbridge, A., Troppe, T., & Bartley, J. (2022). Responding to research evidence in Parliament: A case study on selective education policy. Review of Education, 10, e3335."
 extracted_to:
-  - "[[Moral Sidestep]]"
-  - "[[Selective Education]]"
-  - "[[Justified Warrants]]"
-  - "[[Grammar School]]"
-  - "[[Selective Schools Expansion Fund]]"
-  - "[[Education and Inspections Act 2006]]"
-  - "[[Carnivalesque Analysis]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
+  - "[[Selective Education]]"
+  - "[[Moral Sidestep]]"
+  - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
+  - "[[Justified Warrants]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Education and Inspections Act 2006]]"
+  - "[[Eleven-plus Exam]]"
+  - "[[Grammar School]]"
+  - "[[Ofsted]]"
+  - "[[Selective Schools Expansion Fund]]"
+  - "[[Carnivalesque Analysis]]"
   - "[[Gert Biesta]]"
   - "[[John Hattie]]"
   - "[[Terry Wrigley]]"
+  - "[[Van Leeuwen's Legitimation Theory]]"
 processed_date: 2026-05-07
 ---
 

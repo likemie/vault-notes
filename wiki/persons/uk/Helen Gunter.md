@@ -2,7 +2,7 @@
 title: Helen Gunter
 aliases:
   - 海伦·冈特
-summary: 英国教育学者，教育领导力知识政治与政策批判研究者，为教育研究把领导力议题重新放回权力与公共争论之中。
+summary: "英国教育学者，教育领导力知识政治与政策批判研究者，为教育研究把领导力议题重新放回权力与公共争论之中。"
 type: person
 nationality: uk
 tags:

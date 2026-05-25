@@ -13,12 +13,10 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[Feedback]]"
   - "[[Surface and Deep Learning]]"
-  - "[[The Great Learning]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Radical Constructivism]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods: []

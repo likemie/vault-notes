@@ -16,13 +16,11 @@ tags:
   - policy/compulsory-education
 related_concepts:
   - "[[Grade Retention]]"
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Matching]]"
 related_persons: []

@@ -13,8 +13,7 @@ tags:
 related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Evidence-Based Education]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"
   - "[[Non-intervention Research]]"

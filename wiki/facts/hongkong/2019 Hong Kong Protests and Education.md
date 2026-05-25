@@ -16,7 +16,6 @@ tags:
 - region/china
 related_concepts:
   - "[[Champ]]"
-  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

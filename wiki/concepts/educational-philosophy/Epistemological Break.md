@@ -2,7 +2,7 @@
 title: Epistemological Break
 aliases:
   - 认识论断裂
-summary: Bourdieu 的认识论概念，指科学研究必须与前科学世界的日常语言和自发理解进行断裂。
+summary: "Bourdieu 的认识论概念，指科学研究必须与前科学世界的日常语言和自发理解进行断裂。"
 type: concept
 tags:
   - epistemological-break

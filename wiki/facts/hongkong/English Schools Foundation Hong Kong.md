@@ -15,7 +15,6 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
-  - "[[The Great Learning]]"
   - "[[International Education]]"
 related_theories: []
 related_methods: []

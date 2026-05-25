@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[The Great Learning]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunist Mode]]"
   - "[[Cultural Barrier in Higher Education]]"

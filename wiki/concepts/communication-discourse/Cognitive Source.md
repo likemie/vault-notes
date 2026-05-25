@@ -2,7 +2,6 @@
 title: Cognitive Source
 aliases:
   - 认知来源
-  - cognitive source
   - cognitive source in learning socialization
   - maternal cognitive source
 summary: "母亲引导儿童思考学习时所依赖的认知框架与合法性资源，通常表现为心智来源或学习美德来源等不同文化取向"

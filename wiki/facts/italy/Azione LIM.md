@@ -4,7 +4,6 @@ aliases:
   - Azione LIM 2008
   - Interactive Whiteboard Action
   - 意大利互动白板行动
-  - Azione LIM
 summary: "2008年意大利教育部推动的互动白板采购与教师培训政策，向学校提供35114块互动白板但被用作证据不足的教育技术投入案例。"
 type: fact
 subtype: policy

@@ -1,7 +1,6 @@
 ---
 title: ResearchED
-aliases:
-  - ResearchED
+aliases: []
 summary: "英国教师主导的教育研究传播网络，推动课堂实践与研究证据之间的公共讨论"
 type: fact
 subtype: event
@@ -13,8 +12,7 @@ tags:
   - rct
   - synthetic-phonics
   - region/uk
-related_concepts:
-  - "[[The Great Learning]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"

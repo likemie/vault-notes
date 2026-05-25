@@ -3,7 +3,6 @@ title: Refined Mastery
 aliases:
   - 精
   - 精通
-  - refined mastery
   - perfected mastery
   - thorough understanding
 summary: "中国学习过程的终极目标，指从熟悉到练习再到精炼完美的掌握，表现为透彻理解与运用自如"

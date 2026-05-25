@@ -4,7 +4,7 @@ aliases:
   - 文化行动双过程模型
   - dual-process model
   - Vaisey 双过程模型
-summary: 解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存
+summary: "解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存"
 type: theory
 tags:
   - dual-process-model

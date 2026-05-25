@@ -2,7 +2,6 @@
 title: Ideal Learner
 aliases:
   - 理想学习者
-  - ideal learner
   - ideal learner image
   - ideal-learner image
   - 理想学习者形象
@@ -15,11 +14,9 @@ tags:
 - method/narrative
 related_concepts:
   - "[[Enculturation]]"
-  - "[[The Great Learning]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Cultural Models]]"
 related_methods:
   - "[[Prototype Methods]]"

@@ -2,7 +2,6 @@
 title: Nerd
 aliases:
   - 书呆子
-  - nerd
   - geek
   - nerd harassment
   - anti-intellectual peer culture
@@ -16,8 +15,8 @@ tags:
 related_concepts:
   - "[[Academic Engagement]]"
   - "[[Tall Poppy Syndrome]]"
-  - "[[The Great Learning]]"
   - "[[Zero-Sum Competition]]"
+  - "[[Tracking]]"
   - "[[Tongxue]]"
 related_theories: []
 related_methods: []

@@ -13,7 +13,6 @@ tags:
   - field/postcolonial-studies
   - field/literary-theory
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"

@@ -3,7 +3,6 @@ title: Life Power
 aliases:
   - Lebenskraft
   - 生命力量
-  - life power
 summary: "Dell Delambre 提出的概念，指个体在新旧张力中为自身存在重新赋予意义的实践性再定位能力，用于理解行动可能性和生命力重组。"
 type: concept
 tags:

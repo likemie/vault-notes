@@ -9,8 +9,7 @@ tags:
 - in-depth-interview
 - qualitative-research
 - paradigm/interpretivist
-related_concepts:
-  - "[[The Great Learning]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"

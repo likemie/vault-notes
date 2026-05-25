@@ -3,7 +3,6 @@ title: Quasi-Experimental Designs
 aliases:
   - 准实验设计
   - quasi-experimental design
-  - quasi-experimental designs
   - QED
   - counterfactual viability
   - counterfactual strength

@@ -16,7 +16,6 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods: []

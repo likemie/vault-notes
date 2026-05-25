@@ -18,7 +18,6 @@ related_concepts:
   - "[[5-3-20 Rule]]"
   - "[[Gating Procedure]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"

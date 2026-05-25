@@ -2,7 +2,6 @@
 title: Absorptive Capacity
 aliases:
   - 吸收能力
-  - absorptive capacity
   - district absorptive capacity
 summary: "组织理解、吸收并使用外部评价证据的能力，在学区改革中取决于项目理解、开放沟通和支持性领导。"
 type: concept

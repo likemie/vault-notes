@@ -11,7 +11,6 @@ tags:
 - methodology
 - paradigm/constructivist
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
 related_theories: []

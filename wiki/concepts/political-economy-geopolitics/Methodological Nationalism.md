@@ -9,7 +9,6 @@ tags:
 - theme/geopolitics
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Classical Geopolitics]]"
   - "[[Multiplicity]]"
 related_theories: []

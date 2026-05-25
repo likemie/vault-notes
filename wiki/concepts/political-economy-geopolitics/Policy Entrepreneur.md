@@ -11,7 +11,6 @@ tags:
 - region/global
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons:

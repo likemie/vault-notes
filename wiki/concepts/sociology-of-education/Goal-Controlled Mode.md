@@ -2,8 +2,7 @@
 title: Goal-Controlled Mode
 aliases:
   - 目标掌控模式
-  - goal-controlled mode
-summary: 大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连
+summary: "大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连"
 type: concept
 tags:
   - goal-controlled-mode
@@ -11,7 +10,6 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Academic Engagement]]"
   - "[[Habitus]]"
   - "[[Champ]]"

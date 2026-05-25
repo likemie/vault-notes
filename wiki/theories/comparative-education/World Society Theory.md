@@ -7,7 +7,6 @@ aliases:
   - Stanford school
   - World Culture Theory
   - 世界文化理论
-  - world culture theory
 summary: "把全球制度扩散理解为世界文化模型广泛传播与模仿结果的社会学理论，用于解释学校制度和大学组织为何在跨国范围内趋同"
 type: theory
 tags:

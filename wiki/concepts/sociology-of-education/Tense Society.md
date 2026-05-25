@@ -8,7 +8,6 @@ type: concept
 tags:
 - region/global
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Creative Tension of Sense]]"

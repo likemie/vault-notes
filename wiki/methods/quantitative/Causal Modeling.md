@@ -18,7 +18,6 @@ related_concepts:
   - "[[Recommendations for Practice]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
-  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Matching]]"
   - "[[Observational and Correlational Research]]"

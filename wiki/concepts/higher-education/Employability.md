@@ -2,7 +2,6 @@
 title: Employability
 aliases:
   - 就业力
-  - employability
   - 就业能力
 summary: "知识经济时代围绕毕业生可雇用性形成的比较排序逻辑，文凭只是入场门槛，个体还需通过经历管理和能力展示争取竞争优势"
 type: concept

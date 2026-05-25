@@ -4,7 +4,6 @@ aliases:
   - 文化外交
   - 高等教育中的文化外交
   - 高教文化外交
-  - cultural diplomacy
 summary: "通过教育、文化机构和精英培育来提升国家软实力、国际形象和跨国影响力的战略。"
 type: concept
 tags:
@@ -16,12 +15,10 @@ tags:
 - level/higher-ed
 - theme/geopolitics
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[International Education Hubs]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

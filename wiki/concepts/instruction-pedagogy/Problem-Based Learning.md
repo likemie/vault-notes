@@ -17,7 +17,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Effective Teaching]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Tongxue]]"
   - "[[Direct Instruction]]"
 related_theories:
   - "[[Phenomenology]]"

@@ -3,7 +3,6 @@ title: Global Education Industry
 aliases:
   - 全球教育产业
   - GEI
-  - global education industry
 summary: "教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域"
 type: concept
 tags:
@@ -20,7 +19,6 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
-  - "[[The Great Learning]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Learning Analytics]]"
   - "[[Bildung]]"

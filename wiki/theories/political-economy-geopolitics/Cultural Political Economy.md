@@ -3,7 +3,6 @@ title: Cultural Political Economy
 aliases:
   - 文化政治经济学
   - CPE
-  - cultural political economy
 summary: "把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造"
 type: theory
 tags:

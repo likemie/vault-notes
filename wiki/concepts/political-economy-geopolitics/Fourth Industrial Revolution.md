@@ -16,8 +16,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[VUCA]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Single-Case Design]]"
 related_persons: []

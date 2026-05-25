@@ -10,7 +10,6 @@ tags:
 - region/china
 - region/hongkong
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
 related_theories: []

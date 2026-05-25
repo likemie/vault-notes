@@ -4,7 +4,7 @@ aliases:
   - 价值归顺者
   - value conformist
   - 价值归顺
-summary: 毕业出路分化中的一种类型，以直觉依赖和强价值信念结合为特征，通过内化学校理想与主流规范获得体制赞助性流动
+summary: "毕业出路分化中的一种类型，以直觉依赖和强价值信念结合为特征，通过内化学校理想与主流规范获得体制赞助性流动"
 type: concept
 tags:
   - value-conformist-mode
@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[The Great Learning]]"
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Pride in Learning]]"
   - "[[Habitus]]"

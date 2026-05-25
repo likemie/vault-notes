@@ -14,7 +14,6 @@ tags:
 - region/new-zealand
 - level/k12
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Performance Pay]]"
   - "[[Professional Judgment]]"
 related_theories: []

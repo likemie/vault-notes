@@ -17,8 +17,7 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Recommendations for Practice]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Non-intervention Research]]"

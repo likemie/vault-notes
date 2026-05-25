@@ -2,7 +2,6 @@
 title: Comparative Meta-synthesis
 aliases:
   - 比较性元综合
-  - comparative meta-synthesis
 summary: "质性研究综合方法，将多项研究综述作为案例进行翻译、比较和推论链重建，适合整理复杂研究领域的共识与分歧。"
 type: method
 method_type: qualitative

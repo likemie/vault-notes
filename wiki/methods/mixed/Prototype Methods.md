@@ -2,7 +2,6 @@
 title: Prototype Methods
 aliases:
   - 原型方法
-  - prototype methods
   - prototype methodology
   - cultural prototype methods
 summary: "基于认知心理学原型理论、通过语言词汇的自由联想与聚类分析来建构文化模型的混合研究方法，适合研究特定文化中成员共享的概念结构"
@@ -16,10 +15,8 @@ tags:
 related_concepts:
   - "[[Emic and Etic]]"
   - "[[Heart and Mind for Wanting to Learn]]"
-  - "[[The Great Learning]]"
   - "[[Ideal Learner]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
 related_methods: []

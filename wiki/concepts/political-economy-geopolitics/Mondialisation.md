@@ -2,7 +2,6 @@
 title: Mondialisation
 aliases:
   - 世界化
-  - mondialisation
 summary: "强调星球共同体、生命多样性和世界普遍责任的替代全球化概念，用以对抗市场驱动的单一路径全球化"
 type: concept
 tags:
@@ -12,7 +11,6 @@ tags:
 - world-making
 - alternative-globalization
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Posthumanism]]"
 related_theories: []
 related_methods: []

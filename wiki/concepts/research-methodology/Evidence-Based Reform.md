@@ -18,7 +18,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[The Great Learning]]"
   - "[[International Education]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Professional Judgment]]"

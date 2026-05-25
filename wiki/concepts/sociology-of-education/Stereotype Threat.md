@@ -2,7 +2,6 @@
 title: Stereotype Threat
 aliases:
   - 刻板印象威胁
-  - stereotype threat
 summary: "社会心理学概念，指个体意识到针对自身群体的负面刻板印象时产生的额外情感与认知负担，进而影响表现、参与和认同。"
 type: concept
 tags:
@@ -13,8 +12,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Orientalism]]"
   - "[[Meta-Cultural Sensitivity]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

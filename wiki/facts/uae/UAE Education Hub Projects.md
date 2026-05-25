@@ -19,14 +19,12 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[The Great Learning]]"
   - "[[Cultural Diplomacy]]"
   - "[[Knowledge Production]]"
   - "[[International Education Hubs]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

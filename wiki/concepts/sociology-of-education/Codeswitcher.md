@@ -3,7 +3,6 @@ title: Codeswitcher
 aliases:
   - 代码切换者
   - code switcher
-  - codeswitcher
   - codeswitching in school
   - effort hiding
   - 努力隐藏

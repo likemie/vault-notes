@@ -3,7 +3,7 @@ title: The Great Learning
 aliases:
   - Daxue
   - 八条目
-summary: 儒家四书之一_提出格物致知诚意正心修身齐家治国平天下的八条目_为东亚学习传统提供系统性框架
+summary: "儒家四书之一_提出格物致知诚意正心修身齐家治国平天下的八条目_为东亚学习传统提供系统性框架"
 type: concept
 tags:
   - region/china

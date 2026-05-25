@@ -10,7 +10,6 @@ tags:
 - educational-philosophy
 - region/denmark
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Visible Learning]]"
   - "[[Pure Evaluation]]"
   - "[[Feedback]]"

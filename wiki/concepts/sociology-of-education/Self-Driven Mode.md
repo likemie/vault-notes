@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Goal-Controlled Mode]]"
-  - "[[The Great Learning]]"
   - "[[Social Engagement]]"
   - "[[Opportunist Mode]]"
   - "[[Self-Authorship]]"
