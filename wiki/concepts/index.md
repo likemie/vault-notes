@@ -179,7 +179,7 @@ Total entries: **309**
 - [[Further Education]] — 位于义务教育和高等教育之外的中学后继续教育形式，常与成人学习、职业培训、非学位证书和终身学习体系相连
 - [[Global Regionalisms in Higher Education]] — 指高等教育被整合进跨国区域政治经济项目并成为区域合作、竞争和身份建构关键支柱的现象。
 - [[Global Universities Rankings]] — 对高等教育机构进行比较性评估和排序的工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。
-- [[Graduate Attributes]] — 大学认定学生在学习过程中应发展出的品质、技能和理解，用于组织课程、评价培养目标和回应外部问责。
+- [[Graduate Attributes]] — 大学认定学生在学期间应发展出的品质、技能和理解，涵盖本科与博士两个层次，用于组织课程、评价培养目标和回应外部问责。
 - [[International Education]] — 跨越单一国家边界组织、流动或想象的教育形式，涵盖国际学校、跨国高教、留学流动与跨文化学习安排
 - [[International Education Hubs]] — Knight 提出的概念，指国家战略性地把自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目。
 - [[Internationalization of Higher Education]] — 高等教育跨越国家边界组织流动、合作和制度安排的过程，涵盖学生流动、跨境合作、国际课程和全球战略布局。
