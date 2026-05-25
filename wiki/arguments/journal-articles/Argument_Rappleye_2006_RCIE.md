@@ -78,7 +78,7 @@ updated: '2026-05-18'
 >
 > - **步骤三：提出情境概念地图。** 地图包含以下组成部分（p. 228–234）：
 >
-> ![[Rappleye_2006_Fig3_Conceptual_Map.png]]
+> ![[sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig3_Conceptual_Map.png]]
 >
 >   - **结构维度 — 改革推力（Impulses）：** 系统性崩溃、内部不满、负面外部评估、经济变化／竞争、新型态、知识／技能创新、政治变化等，按可感知度排序
 >   - **人的维度 — 改革行动者（Reform Actors）：** 民选官员、政党、官僚／公务员、压力集团、政策企业家与专家、跨国企业、智库、超国家政府／非政府机构、顾问、排行榜制作者、媒体、资助来源等，按影响力和修辞风格排布
@@ -88,8 +88,8 @@ updated: '2026-05-18'
 >
 > - **步骤四：以美国 1980 年代对日本教育的吸引力为例验证。** 展示了地图如何将结构性推力（技能创新、政治变化、负面外部评估、新型态）与改革行动者（里根白宫、美国教育部、学者、智库、资助来源）之间的互动可视化，并揭示改革方引用的日本范例远多于抵制方的显著失衡（p. 234–235）。参见 [[American Attraction to Japanese Education 1980s]]，以及其危机话语节点 [[A Nation at Risk 1983]]。
 >
-> ![[Rappleye_2006_Fig4_Map_in_Practice_USA_Japan.png]]
-> ![[Rappleye_2006_Fig5_Nature_of_Attraction.png]]
+> ![[sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig4_Map_in_Practice_USA_Japan.png]]
+> ![[sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig5_Nature_of_Attraction.png]]
 >
 > **3. 结论：** 概念地图提供了一个系统性地梳理和追踪情境复杂性的具体工具。它可用于：(a) 在[[Policy Borrowing|政策借用]]周期的每一阶段绘制情境快照以追踪情境演变；(b) 跨历史时期比较吸引力和转移的动态变化；(c) 帮助比较教育学者在政策辩论中更有意识地定位自身研究。（p. 236–238）
 
@@ -104,8 +104,8 @@ updated: '2026-05-18'
 >
 > 地图还可用于追踪情境在[[Policy Borrowing|政策借用]]周期中的演变（Fig.6）和比较转移动态的历史变化（Fig.7）：
 >
-> ![[Rappleye_2006_Fig6_Shifts_Through_Cycle.png]]
-> ![[Rappleye_2006_Fig7_Historical_Shifts.png]]
+> ![[sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig6_Shifts_Through_Cycle.png]]
+> ![[sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig7_Historical_Shifts.png]]
 
 ## 关键引用
 

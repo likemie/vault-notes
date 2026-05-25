@@ -22,7 +22,7 @@
 
 ```text
 raw/                         待处理原始文献，不编辑
-sources/                     已处理论文／报告 source 记录与 PDF
+sources/                     已处理论文／报告 source 记录、PDF 与配套图片
 books/                       书籍工作区与书籍 schema
   schema-edited-volume.md
   schema-monograph-pdf.md
@@ -196,6 +196,50 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 | 论文集／编著整体 overview | `edited-volume-overview` | `books/<book-folder>/` |
 | 论文集章节 source | `book-chapter` | `books/<book-folder>/` |
 
+### Figures and Attachments
+
+Figure 指从文献中截取、导出或重画的图表图片，包括 `.png`、`.jpg`、`.jpeg`、`.webp`、`.svg`。
+
+- 有配套 figure 的普通论文／报告 source 必须使用独立文件夹：
+
+```text
+sources/<source-id>/
+  <source-id>.md
+  <source-id>.pdf
+  figures/
+    <source-id>_Fig1_Descriptive_Name.png
+```
+
+- 没有配套 figure 的普通论文／报告可以继续使用扁平结构：
+
+```text
+sources/<source-id>.md
+sources/<source-id>.pdf
+```
+
+- 书籍 source 的 figure 统一放在书籍工作区内：
+
+```text
+books/<book-folder>/
+  <book-folder>.md
+  BookName.pdf 或 BookName.epub
+  figures/
+    Figure_2-1_Descriptive_Name.png
+```
+
+- 不把 figure 散放在 `sources/` 或 `books/<book-folder>/` 根层；根层只放 source 记录、PDF / EPUB、章节文本等主要文件。
+- wiki 正文中嵌入 figure 时，使用从 vault root 开始的完整路径，避免移动条目后断链：
+
+```markdown
+![[sources/<source-id>/figures/<figure-file>.png]]
+![[books/<book-folder>/figures/<figure-file>.png]]
+```
+
+- source 记录嵌入同文件夹 PDF / EPUB 时，可以使用本地文件名，如 `![[<source-id>.pdf]]`。
+- 移动 source 记录、PDF 或 figure 后，必须更新所有 `![[...]]` 嵌入路径，并用 `rg` 确认没有旧路径残留。
+- 删除 figure 前必须先用 `rg` 全库确认没有引用；只删除确认未引用的多余图片。
+- 移动 source 记录后，运行定向 `wiki_relations.py sync <wiki-argument-path>` 或必要时 `--full`，确保新位置的 source record `extracted_to` 仍同步。
+
 ---
 
 ## 5. Source Files and Workflow
@@ -203,7 +247,7 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 ### Source Files
 
 - `raw/` 只放原始 PDF，不加 frontmatter，不编辑。
-- 普通论文或报告处理完成后，优先使用 `source_record.py article` 或 `source_record.py report` 创建 source 记录。
+- 普通论文或报告处理完成后，优先使用 `source_record.py article` 或 `source_record.py report` 创建 source 记录；若该 source 有配套 figure，创建后按 Figures and Attachments 规则整理到 `sources/<source-id>/`。
 - 书籍来源记录按对应 book schema 执行。
 - `sources/` 与 `books/` 下的 source record 不进入 `related_*` 自动维护逻辑，但 `extracted_to` 由 `wiki_relations.py` 反向同步。
 

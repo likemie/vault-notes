@@ -50,7 +50,7 @@ updated: 2026-05-18
 > - **Phillips (1989, 1992)** — 早期对跨国吸引力的概念化探索
 > - **Ochs & Phillips (2002)** — 提出"跨国吸引力的结构性类型学"（Structural Typology of Cross-National Attraction），列出六类政策焦点（指导哲学、目标／抱负、策略、赋能结构、过程、技术）和 13 种情境因素
 >
-> ![[Rappleye_2006_Fig2_Structural_Typology.png]]
+> ![[sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig2_Structural_Typology.png]]
 > - **Phillips & Ochs (2003, 2004a)** — 将跨国吸引力纳入[[Policy Borrowing|政策借用]]四阶段循环模型，定位为第一阶段
 > - **Rappleye (2006)** — 提出跨国吸引力情境概念地图（Conceptual Map of the Context of Cross-National Attraction），系统区分结构推力／人的推力、结构阻力／抵制行动者、以及四种吸引力"火花"
 
@@ -59,7 +59,7 @@ updated: 2026-05-18
 > [!abstract] 核心要素
 > Rappleye (2006) 的概念地图将跨国吸引力的情境分解为以下构成要素（p. 228–234）：
 >
-> ![[Rappleye_2006_Fig3_Conceptual_Map.png]]
+> ![[sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig3_Conceptual_Map.png]]
 
 
 > [!abstract] 结构推力（Structural Impulses）
