@@ -73,7 +73,7 @@ updated: 2026-05-25
 ## 概念辨析
 
 > [!example]
-> - vs [[Pride in Learning|学习骄傲]] — Mind Efficacy 与[[Western Learner|西方学习者]]因展示高能力而感到骄傲的文化一致；Virtue Efficacy 则使东亚学习者更强调[[Humility in Learning|谦逊]]而非骄傲
+> - vs 学习[[Pride in Learning|骄傲]] — Mind Efficacy 与[[Western Learner|西方学习者]]因展示高能力而感到骄傲的文化一致；Virtue Efficacy 则使东亚学习者更强调[[Humility in Learning|谦逊]]而非骄傲
 > - vs [[Establishing One's Will|立志]] — Mind Efficacy 将学习动力归于情境性兴趣和好奇心；Virtue Efficacy 将学习动力归于长期志向和承诺
 > - vs Weiner [[Attribution Theory|归因理论]] — 西方归因理论将"能力"和"努力"作为两个平行的内部归因维度；Virtue Efficacy 则将努力视为道德修养的核心，能力是努力的结果而非独立维度
 
