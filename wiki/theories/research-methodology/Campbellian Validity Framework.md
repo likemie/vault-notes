@@ -63,7 +63,7 @@ updated: '2026-05-18'
 >
 > **内部效度的常见威胁**（Shadish et al., 2002; Hitchcock et al., 2015, p.462）：
 >
-> | 威胁 | 含义 | [[21st Century Skills and Competencies Discourse|SCD]] 中的控制方式 |
+> | 威胁 | 含义 | [[21st Century Skills and Competencies Discourse\|SCD]] 中的控制方式 |
 > |------|------|-----------------|
 > | 成熟（Maturation） | 被试随时间自然发展或变化 | 通过 ABAB 设计中的撤除和再引入阶段，若行为随干预的有无系统性变化则排除成熟效应 |
 > | 历史（History） | 实验期间发生的外部事件 | 多基线设计在不同时间点引入干预，若每个基线在干预引入时才变化则排除历史效应 |

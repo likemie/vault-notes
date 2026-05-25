@@ -118,6 +118,11 @@ def escape_table_wikilink_pipes(line: str) -> str:
     return WIKILINK_RE.sub(repl, line)
 
 
+def escape_table_wikilink_pipes_in_text(text: str) -> str:
+    """Normalize wikilink alias separators in all Markdown table rows."""
+    return "".join(escape_table_wikilink_pipes(line) for line in text.splitlines(keepends=True))
+
+
 @dataclass(frozen=True)
 class Entry:
     title: str
@@ -739,13 +744,22 @@ def sync_file(
     entries_by_title: dict[str, Entry],
     path_to_title: dict[str, str],
     dry_run: bool,
+    tables_only: bool = False,
 ) -> tuple[bool, int, int]:
     original = path.read_text(encoding="utf-8", errors="ignore")
     fm, body = split_frontmatter(original)
     current_title = current_file_title(path, path_to_title)
 
-    cleaned_body, removed = clean_invalid_links(body, entries_by_title)
-    linked_body, added = link_body(cleaned_body, terms, source_pattern, current_title)
+    if tables_only:
+        linked_body = escape_table_wikilink_pipes_in_text(body)
+        added = 0
+        removed = 0
+    else:
+        cleaned_body, removed = clean_invalid_links(body, entries_by_title)
+        linked_body, added = link_body(cleaned_body, terms, source_pattern, current_title)
+        # Final guard: regardless of which chunks were protected or linked,
+        # never write table rows with raw wikilink alias pipes.
+        linked_body = escape_table_wikilink_pipes_in_text(linked_body)
     updated = fm + linked_body
 
     changed = updated != original
@@ -754,7 +768,7 @@ def sync_file(
     return changed, added, removed
 
 
-def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool) -> None:
+def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables_only: bool) -> None:
     if git_only and paths:
         raise SystemExit("`sync --git` does not accept explicit paths; use either --git or paths.")
     if full and paths:
@@ -776,7 +790,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool) -> Non
 
     stats = LinkStats()
     for path in files:
-        changed, added, removed = sync_file(path, terms, source_pattern, entries_by_title, path_to_title, dry_run)
+        changed, added, removed = sync_file(path, terms, source_pattern, entries_by_title, path_to_title, dry_run, tables_only=tables_only)
         if changed:
             stats.files_changed += 1
             stats.links_added += added
@@ -802,6 +816,7 @@ def build_parser() -> argparse.ArgumentParser:
     sync.add_argument("--dry-run", action="store_true", help="Show changes without writing files.")
     sync.add_argument("--git", action="store_true", help="Only process files affected by git changes. This is also the default when no path is supplied.")
     sync.add_argument("--full", action="store_true", help="Process the whole wiki. Use after bulk alias/title/path changes or before major releases.")
+    sync.add_argument("--tables-only", action="store_true", help="Only normalize wikilink alias pipes inside Markdown tables; do not add or remove links.")
 
     return parser
 
@@ -812,7 +827,13 @@ def main() -> None:
     parser = build_parser()
     args = parser.parse_args()
     if args.command in {None, "sync"}:
-        run_sync(getattr(args, "paths", []), getattr(args, "dry_run", False), getattr(args, "git", False), getattr(args, "full", False))
+        run_sync(
+            getattr(args, "paths", []),
+            getattr(args, "dry_run", False),
+            getattr(args, "git", False),
+            getattr(args, "full", False),
+            getattr(args, "tables_only", False),
+        )
     else:
         parser.error(f"unknown command: {args.command}")
 
