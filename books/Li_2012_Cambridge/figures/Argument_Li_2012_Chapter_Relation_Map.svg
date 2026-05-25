@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1400" viewBox="0 0 2400 1400">
+  <defs>
+    <style>
+      .title { font: 700 76px "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; fill: #243238; }
+      .subtitle { font: 400 38px "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; fill: #5d686d; }
+      .chapter { font: 700 44px "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; fill: #ffffff; }
+      .head { font: 700 52px "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; fill: #243238; }
+      .body { font: 400 40px "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; fill: #435055; }
+      .small { font: 400 34px "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; fill: #435055; }
+      .band { font: 700 52px "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; fill: #243238; }
+      .arrow { stroke: #6f7d80; stroke-width: 8; fill: none; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrowhead); }
+      .line { stroke: #6f7d80; stroke-width: 8; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+      .card { stroke-width: 5; rx: 30; }
+      .pill { rx: 22; }
+    </style>
+    <marker id="arrowhead" markerWidth="18" markerHeight="14" refX="16" refY="7" orient="auto">
+      <path d="M0,0 L18,7 L0,14 Z" fill="#6f7d80"/>
+    </marker>
+  </defs>
+
+  <rect width="2400" height="1400" fill="#fbfaf7"/>
+
+  <text x="1200" y="105" text-anchor="middle" class="title">Li (2012) 全书论证结构</text>
+  <text x="1200" y="165" text-anchor="middle" class="subtitle">问题生成 → 理论根源 → 经验验证 → 多领域展开 → 全球化回应</text>
+
+  <g transform="translate(90 260)">
+    <rect class="card" width="470" height="250" fill="#e8f1f5" stroke="#6f9dad"/>
+    <rect class="pill" x="32" y="30" width="112" height="58" fill="#3f879b"/>
+    <text x="88" y="73" text-anchor="middle" class="chapter">Ch1</text>
+    <text x="170" y="76" class="head">问题生成</text>
+    <text x="44" y="145" class="body">跨文化困惑</text>
+    <text x="44" y="198" class="body">好學心</text>
+  </g>
+
+  <g transform="translate(670 260)">
+    <rect class="card" width="470" height="250" fill="#edf4e8" stroke="#82a66f"/>
+    <rect class="pill" x="32" y="30" width="112" height="58" fill="#6f965c"/>
+    <text x="88" y="73" text-anchor="middle" class="chapter">Ch2</text>
+    <text x="170" y="76" class="head">理论根源</text>
+    <text x="44" y="145" class="body">西方：心智</text>
+    <text x="44" y="198" class="body">儒家：美德</text>
+  </g>
+
+  <g transform="translate(1250 260)">
+    <rect class="card" width="470" height="250" fill="#f7efd9" stroke="#bd9d4c"/>
+    <rect class="pill" x="32" y="30" width="112" height="58" fill="#b58d33"/>
+    <text x="88" y="73" text-anchor="middle" class="chapter">Ch3</text>
+    <text x="170" y="76" class="head">经验验证</text>
+    <text x="44" y="145" class="body">排除替代解释</text>
+    <text x="44" y="198" class="body">概念地图 / 理想学习者</text>
+  </g>
+
+  <g transform="translate(1830 260)">
+    <rect class="card" width="470" height="250" fill="#eeeaf4" stroke="#9384aa"/>
+    <rect class="pill" x="32" y="30" width="112" height="58" fill="#8170a0"/>
+    <text x="88" y="73" text-anchor="middle" class="chapter">Ch9</text>
+    <text x="170" y="76" class="head">全球回应</text>
+    <text x="44" y="145" class="body">濡化</text>
+    <text x="44" y="198" class="body">身份嵌入 / 选择性互学</text>
+  </g>
+
+  <path class="arrow" d="M560 385 H655"/>
+  <path class="arrow" d="M1140 385 H1235"/>
+  <path class="arrow" d="M1720 385 H1815"/>
+
+  <path class="arrow" d="M1485 510 V620"/>
+  <rect x="120" y="620" width="2160" height="540" rx="36" fill="#f6f6f2" stroke="#c7c2b6" stroke-width="4"/>
+  <text x="200" y="705" class="band">Ch4-8：同一差异在五个领域中展开</text>
+
+  <g transform="translate(190 790)">
+    <rect class="card" width="360" height="250" fill="#e8f1f5" stroke="#6f9dad"/>
+    <text x="40" y="76" class="head">Ch4 过程</text>
+    <text x="40" y="145" class="small">心智循环</text>
+    <text x="40" y="195" class="small">vs 美德系统</text>
+  </g>
+
+  <g transform="translate(610 790)">
+    <rect class="card" width="360" height="250" fill="#f5e9e7" stroke="#b98278"/>
+    <text x="40" y="76" class="head">Ch5 情感</text>
+    <text x="40" y="145" class="small">好奇 / 骄傲</text>
+    <text x="40" y="195" class="small">vs 诚心 / 谦逊</text>
+  </g>
+
+  <g transform="translate(1030 790)">
+    <rect class="card" width="360" height="250" fill="#edf4e8" stroke="#82a66f"/>
+    <text x="40" y="76" class="head">Ch6 同伴</text>
+    <text x="40" y="145" class="small">nerd 污名</text>
+    <text x="40" y="195" class="small">vs tongxue 共同体</text>
+  </g>
+
+  <g transform="translate(1450 790)">
+    <rect class="card" width="360" height="250" fill="#f7efd9" stroke="#bd9d4c"/>
+    <text x="40" y="76" class="head">Ch7 家庭</text>
+    <text x="40" y="145" class="small">苏格拉底式</text>
+    <text x="40" y="195" class="small">vs 儒家式辅导</text>
+  </g>
+
+  <g transform="translate(1870 790)">
+    <rect class="card" width="360" height="250" fill="#eeeaf4" stroke="#9384aa"/>
+    <text x="40" y="76" class="head">Ch8 言说</text>
+    <text x="40" y="145" class="small">说话</text>
+    <text x="40" y="195" class="small">vs 沉默</text>
+  </g>
+
+  <path class="arrow" d="M2065 620 V525"/>
+
+  <rect x="310" y="1240" width="1780" height="95" rx="28" fill="#ffffff" stroke="#b8b6ac" stroke-width="4"/>
+  <text x="1200" y="1305" text-anchor="middle" class="body">核心：两种文化不是“谁更会学习”，而是以不同方式组织学习的意义、动力和社会关系。</text>
+</svg>

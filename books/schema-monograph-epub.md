@@ -68,6 +68,24 @@ for i, item in enumerate(book.get_items_of_type(ebooklib.ITEM_DOCUMENT)):
 
 ---
 
+## 单章 Argument 记录要求
+
+`template-argument-monograph.md` 中，「各章概览」用于保留每章在全书论证中的位置，不需要写成完整小型笔记。每章追加时只记录两个核心内容：
+
+```markdown
+### 第X章 章节标题
+
+#### 本章问题
+本章试图回答的问题，或它在全书论证中的位置。
+
+#### 论证链条
+按前提、证据、中间推论、结论拆解本章论证，不直接跳到结论。
+```
+
+关键引用不放入「各章概览」里堆积，而是从第一章开始持续补充到全书 Argument 的「关键引用」章节。每条引用必须标注章节与页码；如果用户提供的文本没有页码，只能记录章节信息，不得编造页码。
+
+---
+
 ## 单章处理流程
 
 1. 读取 `vault-schema.md`。
@@ -92,6 +110,8 @@ for item in book.get_items_of_type(ebooklib.ITEM_DOCUMENT):
 6. 将本章内容追加到 Argument 的「各章概览」：
    - 若 Argument 尚不存在 → 读取 `wiki/templates/template-argument-monograph.md`，在 `wiki/arguments/books/<book-folder>/` 新建。
    - 若 Argument 已存在 → 用 `str_replace` 追加本章内容到「各章概览」末尾或更新对应章节。
+   - 「各章概览」只记录本章问题和论证链条。
+   - 关键引用在单章处理时直接追加到全书 Argument 的「关键引用」章节，并标注章节与页码。
 7. 在正文中自然使用 wikilink，在 `## 来源` 章节列出来源。
 8. 不手动维护 YAML `related_*` 和 `sources`。
 9. 执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
@@ -140,12 +160,14 @@ books/作者姓_年份_出版社/作者姓_年份_出版社.md
 3. 按模板结构整合：
    - 全书研究问题
    - 理论框架
+   - 研究方法
    - 论证结构
    - 主要发现
    - 关键引用
    - 局限性
-4. 用 `str_replace` 在「各章概览」之前写入正式章节。
-5. 「各章概览」保留在最后，作为原始章节记录。
+4. 从各章概览中综合提炼「研究问题」「理论框架」「研究方法」「论证结构」「主要发现」；「关键引用」章节使用单章处理时已累积的引用，并在整合时去重、排序、保留最有代表性的材料。
+5. 用 `str_replace` 在「各章概览」之前写入或更新正式章节。
+6. 「各章概览」保留在最后，作为原始章节记录。
 6. 执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
