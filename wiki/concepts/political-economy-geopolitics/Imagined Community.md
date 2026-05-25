@@ -4,7 +4,7 @@ aliases:
   - 想象的共同体
   - 想象的政治共同体
   - imagined political community
-summary: "Anderson 提出的民族理论核心概念 民族是被想象的有边界和主权的政治共同体 成员虽互不相识却共享同属一个共同体的心理图像"
+summary: "Anderson 提出的民族理论核心概念，民族是被想象的有边界和主权的政治共同体，成员虽互不相识却共享同属一个共同体的心理图像"
 type: concept
 tags:
   - theme/national-identity

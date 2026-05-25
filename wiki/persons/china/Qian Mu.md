@@ -2,7 +2,7 @@
 title: Qian Mu
 aliases:
   - 钱穆
-summary: "中国历史学家 1940年代末移居香港 其文化保守主义深刻塑造了香港中国历史教育的汉人中心叙事传统"
+summary: "中国历史学家，1940年代末移居香港，其文化保守主义深刻塑造了香港中国历史教育的汉人中心叙事传统"
 type: person
 nationality: china
 tags:
