@@ -427,6 +427,16 @@
     ]
   },
   {
+    "title": "One Country, Two Systems",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/One Country, Two Systems.md",
+    "aliases": [
+      "一国两制",
+      "OCTS",
+      "one country two systems"
+    ]
+  },
+  {
     "title": "Organizational Actorhood",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Organizational Actorhood.md",
@@ -5994,6 +6004,11 @@
     "title": "Argument_Schaffar_2024_CogentEdu",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Cogent Education/Argument_Schaffar_2024_CogentEdu.md"
+  },
+  {
+    "title": "Argument_Vickers_2024_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Vickers_2024_CE.md"
   },
   {
     "title": "Argument_Yu_2024_CE",

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "08d6cdc4f515b99a",
+        "id": "5aa5f75d3b1b2e21",
         "type": "tabs",
         "children": [
           {
-            "id": "9d3a520b41479d6f",
+            "id": "4bdde0d95a4f2aa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Allerup_2015_Paideia.md",
+                "file": "sources/10.1080_03050068.2023.2212351.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Allerup_2015_Paideia"
+              "title": "10.1080_03050068.2023.2212351"
             }
           }
         ]
@@ -187,8 +187,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9d3a520b41479d6f",
+  "active": "4bdde0d95a4f2aa9",
   "lastOpenFiles": [
+    "wiki/concepts/comparative-education/One Country, Two Systems.md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Vickers_2024_CE.md",
+    "sources/10.1080_03050068.2023.2212351.pdf",
+    "sources/10.1080_03050068.2023.2212351.md",
+    "sources/Allerup_2015_Paideia.md",
     "raw/10.1080_03050068.2023.2212351.pdf",
     "index.md",
     "CLAUDE.md",
@@ -212,9 +217,7 @@
     "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Terhart_2011_JCS.md",
     "wiki/arguments/journal-articles/Journal of Curriculum Studies",
     "wiki/arguments/journal-articles/Educational Psychologist/Argument_Slavin_2019_EP.md",
-    "wiki/arguments/journal-articles/Educational Psychologist",
     "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Simpson_2017_JEP.md",
-    "wiki/arguments/journal-articles/Journal of Education Policy",
     "wiki/arguments/journal-articles/Cogent Education/Argument_Schaffar_2024_CogentEdu.md",
     "wiki/arguments/journal-articles/Język-Szkoła-Rodzina/Argument_Sarbiewska_2019_JSR.md",
     "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md",
@@ -222,9 +225,6 @@
     "wiki/arguments/journal-articles/International Journal of Research & Method in Education/Argument_Pampaka_2016_IJRME.md",
     "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md",
     "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
-    "wiki/arguments/journal-articles/International Review of Theoretical Psychologies/Argument_Nielsen_2021_IRTP.md",
-    "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md",
-    "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Møller_2017_EERJ.md",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig7_Historical_Shifts.png",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig6_Shifts_Through_Cycle.png",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig5_Nature_of_Attraction.png",
