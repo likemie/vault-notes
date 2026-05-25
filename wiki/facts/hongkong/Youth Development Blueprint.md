@@ -54,7 +54,7 @@ updated: 2026-05-25
 
 ## 效果与评价
 
-> [!warning] 心理化治理的载体
+> [!warning] [[Psychologisation|心理化]]治理的载体
 > Vickers（2024, pp.153–154）将《青年发展蓝图》定位为港府对青年不满进行[[Psychologisation|心理化]]治理的关键政策工具。蓝图将青年问题框架化为"培养积极思维"而非回应政治参与诉求——这与课程中的去政治化（[[Citizenship and Social Development|CSD]] 教科书）和课外感恩教育（[[My Pledge to Act]]）共同构成了一套将政治问题翻译为心理问题的协同机制。
 >
 > 蓝图的核心信息是：生活更好的道路不在于改革社会的行动，而在于改变自我的决心。制度批评被排除在"可思考"的范围之外。
@@ -64,7 +64,7 @@ updated: 2026-05-25
 ## 相关概念／理论
 
 > [!tip]
-> - Psychologisation — 青年不满的心理化治理
+> - [[Psychologisation]] — 青年不满的心理化治理
 
 ---
 

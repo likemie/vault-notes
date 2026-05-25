@@ -38,7 +38,7 @@ updated: '2026-05-18'
 > [!abstract] 政策文本摘要
 > 2010 年前后，新西兰学校被要求实施 The New Zealand Curriculum。该课程包含八项原则，例如：高期望（High expectations）、学会学习（Learning to learn）、未来焦点（Future focus）等（Sarbiewska, 2019, p.128）。
 >
-> 课程允许所有学校"设计自己的学习项目以满足社区和学生的需求。每所学校的课程应该是独特的、回应性的蓝图，反映学校和社区认为对学生学习重要和可取的内容。课程的愿景、价值观、原则和关键能力为利益相关者提供了一个框架，以讨论他们希望学生成为什么样的人，以及支持学生发展潜力的最佳方式"（NZ Ministry of Education, cited in Sarbiewska, 2019, p.128）。
+> 课程允许所有学校"设计自己的学习项目以满足社区和学生的需求。每所学校的课程应该是独特的、回应性的蓝图，反映学校和社区认为对学生学习重要和可取的内容。课程的愿景、价值观、原则和[[21st Century Skills and Competencies Discourse|关键能力]]为利益相关者提供了一个框架，以讨论他们希望学生成为什么样的人，以及支持学生发展潜力的最佳方式"（NZ Ministry of Education, cited in Sarbiewska, 2019, p.128）。
 
 ## 时间线
 
@@ -51,7 +51,7 @@ updated: '2026-05-18'
 
 > [!example] 实施情况
 > - 新西兰教育部指派 Education Review Office（ERO）定期评估课程原则在各校的实施程度（Sarbiewska, 2019, p.128）
-> - 课程提供愿景、价值观、原则和关键能力框架，但允许各校根据本地需求设计独特的学习项目
+> - 课程提供愿景、价值观、原则和[[21st Century Skills and Competencies Discourse|关键能力]]框架，但允许各校根据本地需求设计独特的学习项目
 > - 新西兰学校实践"课程连接"（curriculum connection），被认为能有效促进师生之间多层次的协作，区别于主题式教学，有意识地维持各学习领域的严谨性（Sarbiewska, 2019, p.128–129）
 
 ## 效果与评价

@@ -51,7 +51,7 @@ updated: 2026-05-25
 
 ## 效果与评价
 
-> [!warning] 心理化治理的课外工具
+> [!warning] [[Psychologisation|心理化]]治理的课外工具
 > Vickers（2024, pp.153–154）将该计划与中共在内地的"感恩教育"（gratitude education）并置分析，认为两者共享同一治理逻辑：将制度批评转化为个体感恩或积极思维的缺失，从而绕过对政治结构和权力安排的问责。
 >
 > 在[[Psychologisation|心理化]]治理的整体架构中，"我的行动承诺"与课堂内的 [[Citizenship and Social Development|CSD]] 课程和课堂外的《[[Youth Development Blueprint|青年发展蓝图]]》构成三层协同机制：课堂消除政治讨论空间、校园活动重新框定不满为心理问题、政策文件将青年去政治化。该计划是中间层——通过校园日常仪式将对现状的感恩内化为学生的道德义务。

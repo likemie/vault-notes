@@ -53,7 +53,7 @@ updated: 2026-05-23
 > [!info] 背景
 > 欧盟层面的证据知情教育政策倡议不是一项单一法案，而是一组自 2006 年以来逐步形成的政策信号、工作文件、知识中介项目和支持机制。其共同方向是鼓励成员国在教育政策和实践决策中使用研究证据，但由于教育主要由各国负责，欧盟文件通常提供指导而非强制要求；完整论证见 [[Argument_Pellegrini_2021_ROE]]（Pellegrini & Vivanet, 2021, pp.26, 28）。
 
-欧洲更常使用 evidence-informed education 而不是 [[Evidence-Based Education|evidence-based education]]。这一用语差异很重要：在研究层面，它允许定性研究和[[Mixed Method and Multi-method Research|混合方法]]进入证据来源；在政策层面，它意味着欧盟文件更倾向建议成员国使用证据，而不是规定统一的证据标准或行动线（Pellegrini & Vivanet, 2021, p.26）。
+欧洲更常使用 evidence-informed education 而不是 [[Evidence-Based Education]]。这一用语差异很重要：在研究层面，它允许定性研究和[[Mixed Method and Multi-method Research|混合方法]]进入证据来源；在政策层面，它意味着欧盟文件更倾向建议成员国使用证据，而不是规定统一的证据标准或行动线（Pellegrini & Vivanet, 2021, p.26）。
 
 ## 政策文本摘要
 

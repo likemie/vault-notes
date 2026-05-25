@@ -39,19 +39,19 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> 欧洲学校系统自 2000 年代初逐步转向能力本位模式。2006 年欧盟已发布终身学习关键能力建议，2018 年 5 月 22 日通过修订版 “Council Recommendation on Key Competences for Lifelong Learning”，为政策制定者和学校专业人员提供能力本位教学模式的共同框架（Pellegrini & Vivanet, 2021, p.39）。
+> 欧洲学校系统自 2000 年代初逐步转向能力本位模式。2006 年欧盟已发布终身学习[[21st Century Skills and Competencies Discourse|关键能力]]建议，2018 年 5 月 22 日通过修订版 “Council Recommendation on Key Competences for Lifelong Learning”，为政策制定者和学校专业人员提供能力本位教学模式的共同框架（Pellegrini & Vivanet, 2021, p.39）。
 
 ## 政策文本摘要
 
 > [!abstract]
 > 2018 年框架把能力定义为学习者为个人实现与发展、[[Employability|就业能力]]、社会包容、可持续生活方式、和平社会中的成功生活、健康生活管理和积极公民身份所需的知识、技能和态度的动态组合（Pellegrini & Vivanet, 2021, p.39）。
 
-框架列出八项关键能力：读写能力，多语言能力，数学能力以及科学、技术和工程能力，数字能力，个人、社会和学会学习能力，公民能力，创业能力，文化意识与表达能力（Pellegrini & Vivanet, 2021, p.39）。
+框架列出八项[[21st Century Skills and Competencies Discourse|关键能力]]：读写能力，多语言能力，数学能力以及科学、技术和工程能力，数字能力，个人、社会和学会学习能力，公民能力，创业能力，文化意识与表达能力（Pellegrini & Vivanet, 2021, p.39）。
 
 ## 时间线
 
 > [!note]
-> - 2006 — 欧盟发布关于终身学习关键能力的初始建议（Pellegrini & Vivanet, 2021, p.39）。
+> - 2006 — 欧盟发布关于终身学习[[21st Century Skills and Competencies Discourse|关键能力]]的初始建议（Pellegrini & Vivanet, 2021, p.39）。
 > - 2018 — 欧盟理事会通过修订版终身学习关键能力建议（Pellegrini & Vivanet, 2021, p.39）。
 
 ## 实施情况
@@ -65,7 +65,7 @@ updated: 2026-05-23
 > Pellegrini & Vivanet 将该框架放入 [[Evidence-Based Reform|证据本位改革]] 的欧洲挑战中：基础读写知识和技能已有较成熟的评估与项目证据，但多维能力更难设计有效干预和评价工具。能力评估必须满足公平、可靠、有效、以学习者为中心等原则（Pellegrini & Vivanet, 2021, pp.40-41）。
 
 > [!info]- 核心数据
-> - 八项关键能力（Pellegrini & Vivanet, 2021, p.39）
+> - 八项[[21st Century Skills and Competencies Discourse|关键能力]]（Pellegrini & Vivanet, 2021, p.39）
 > - 能力由知识、技能和态度组成（Pellegrini & Vivanet, 2021, p.39）
 > - 评估原则包括公平、可靠、有效、学习者中心（Pellegrini & Vivanet, 2021, p.41）
 

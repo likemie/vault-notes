@@ -40,7 +40,7 @@ updated: '2026-05-18'
 > [!abstract] 政策文本摘要
 > Rose Report 的正式标题为 *Independent Review of the Teaching of Early Reading*（早期阅读教学独立审查），于 2006 年由英国 Department for Education and Skills 发布。
 >
-> 该报告的关键特征是推广了 Gough & Tunmer（1986）的**简单阅读观**（[[Simple View of Reading]]）——主张"学会解码等于学会阅读"（O'Connor, 2020, p.149）。
+> 该报告的关键特征是推广了 Gough & Tunmer（1986）的**[[Simple View of Reading|简单阅读观]]**（[[Simple View of Reading]]）——主张"学会解码等于学会阅读"（O'Connor, 2020, p.149）。
 >
 > > Harrison（2010, p.207）指出简单阅读观已"与'先、快且唯一'（first, fast and only）的语音模型以及技术主义的阅读教学观联系在一起"（引自 O'Connor, 2020, p.149）
 
@@ -48,7 +48,7 @@ updated: '2026-05-18'
 
 > [!note]- 时间线
 > - **2005** — 英国政府委托 Jim Rose 领导早期阅读教学独立审查
-> - **2006** — Rose Report 正式发布，推广简单阅读观
+> - **2006** — Rose Report 正式发布，推广[[Simple View of Reading|简单阅读观]]
 > - **2006 年后** — 报告直接导致英国实施**强制合成语音教学**政策（O'Connor, 2020, p.149）
 > - **2010** — Harrison 发表对 Rose Report 及简单阅读观的道德批评（Harrison, 2010）
 
@@ -66,7 +66,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - O'Connor（2020, p.149）将 Rose Report 置于更广泛的"阅读战争"政治背景中：简单阅读观"从一开始就明确针对[[Whole Language|全语言]]理论"
+> - O'Connor（2020, p.149）将 Rose Report 置于更广泛的"阅读战争"政治背景中：[[Simple View of Reading|简单阅读观]]"从一开始就明确针对[[Whole Language|全语言]]理论"
 > - 该报告被认为代表了英国教育政策从教师专业自主权向中央规定的教学方法模式的转变
 > - Soler（2016, p.431，引自 O'Connor, 2020, p.150）将合成语音的政策推动置于新自由主义和新保守主义的交叉点
 

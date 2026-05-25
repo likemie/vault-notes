@@ -39,7 +39,7 @@ updated: '2026-05-18'
 > 澳大利亚课程（Australian Curriculum）于 2012 年由澳大利亚课程评估与报告局（ACARA）董事会批准。课程包含三个维度（Sarbiewska, 2019, p.128）：
 >
 > - **学习领域**（learning areas）— 传统学科内容
-> - **通用能力**（general capabilities）— 跨学科的关键能力
+> - **通用能力**（general capabilities）— 跨学科的[[21st Century Skills and Competencies Discourse|关键能力]]
 > - **跨课程优先事项**（cross-curriculum priorities）— 需要跨学科处理的重大议题
 >
 > 每所学校有权以独特方式运用这三个维度来实施澳大利亚课程。

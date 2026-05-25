@@ -39,7 +39,7 @@ updated: '2026-05-18'
 ## 经过
 
 > [!note]-
-> 2007 年 3 月 21 日，香港大学文学院（Faculty of Arts, University of Hong Kong）资助举办了题为"国际教学研讨会：中国学生"（Symposium on International Teaching: the [[Chinese Learner|Chinese student]]）的学术会议（Slethaug, 2010, p.2）。
+> 2007 年 3 月 21 日，香港大学文学院（Faculty of Arts, University of Hong Kong）资助举办了题为"国际教学研讨会：中国学生"（Symposium on International Teaching: the Chinese student）的学术会议（Slethaug, 2010, p.2）。
 
 > 研讨会旨在促进来自香港及海外的中小学与大学教育者之间，就[[International Education|国际教育]]的增长和 [[Chinese Learner|中国学习者]]相关议题展开讨论（Slethaug, 2010, p.2）。
 

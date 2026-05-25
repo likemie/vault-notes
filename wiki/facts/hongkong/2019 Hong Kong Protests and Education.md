@@ -55,7 +55,7 @@ updated: '2026-05-18'
 > 1. **"[[Liberal Studies|LS]] 导致缺乏国民教育"** — 《人民日报》(2019) 声称 2012 年 MNE 被撤回后，LS 变成了"一条腿走路"——教批判性思维但不教"中国坐标"
 > 2. **"LS 教科书是颠覆手册"** — 《北京日报》(2019) 和《中国青年报》(2019) 将 LS"教科书"称为"教唆书"和"香港问题的病根"
 > 3. **"西方势力通过教育渗透"** — 《中国日报》(2019) 指控 Benny Tai（作为 LS"今日香港"单元教科书顾问）引入"公民抗命"和"非制度化社会政治参与"概念，为非法抗议提供理论依据
-> 4. **"国家安全危机"框架** — 中国官媒将抗议定性为挑战"一国两制"原则的"颠覆行为"，需要中央的直接干预
+> 4. **"国家安全危机"框架** — 中国官媒将抗议定性为挑战"[[One Country, Two Systems|一国两制]]"原则的"颠覆行为"，需要中央的直接干预
 >
 > ### "新冷战"话语的引入
 >
@@ -72,10 +72,10 @@ updated: '2026-05-18'
 > | 2019.07-09 | 官媒集中攻击 LS |
 > | 2019.12 | LS"教科书"专业咨询服务 |
 > | 2020.05 | 林郑月娥称教育不能再是"不设防的鸡笼" |
-> | 2020.06 | 《香港国安法》颁布 |
+> | 2020.06 | 《[[National Security Law\|香港国安法]]》颁布 |
 > | 2020.06 | 董建华称 LS 是"失败" |
 > | 2020.11 | LS 被废除 |
-> | 2021.02 | [[Citizenship and Social Development|CSD]] 取代 LS |
+> | 2021.02 | [[Citizenship and Social Development\|CSD]] 取代 LS |
 > | 2021-2022 | 教协解散，批评媒体进一步受压 |
 
 ## 关键文件／声明
@@ -102,9 +102,9 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／政策
 > - [[Liberal Studies]]
-> - [[Replacement of LS by CSD]]
-> - [[National Education in Hong Kong]]
-> - [[National Security Law Impact on Hong Kong Education]]
+> - Replacement of LS by [[Citizenship and Social Development|CSD]]
+> - [[National Education|National Education in Hong Kong]]
+> - [[National Security Law|National Security Law Impact on Hong Kong Education]]
 
 ## 来源
 
