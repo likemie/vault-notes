@@ -14,7 +14,6 @@ tags:
 - methodology
 - region/uk
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Sage]]"
@@ -36,7 +35,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Ray Pawson 是英国利兹[[The Great Learning|大学]]（University of Leeds）社会研究方法论教授，**实在论评估（Realist Evaluation）**和**实在论综合（Realist Synthesis）**的主要提出者之一。他的工作聚焦于将[[Critical Realism|批判实在论]]哲学转化为适用于社会政策和项目评估的具体方法论。
+> Ray Pawson 是英国利兹大学（University of Leeds）社会研究方法论教授，**实在论评估（Realist Evaluation）**和**实在论综合（Realist Synthesis）**的主要提出者之一。他的工作聚焦于将[[Critical Realism|批判实在论]]哲学转化为适用于社会政策和项目评估的具体方法论。
 
 ## 核心思想
 

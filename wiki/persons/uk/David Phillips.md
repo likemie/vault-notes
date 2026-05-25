@@ -11,7 +11,6 @@ tags:
 - policy-borrowing
 - region/uk
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
 related_theories:
@@ -31,12 +30,12 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> David Phillips 是牛津[[The Great Learning|大学]]比较教育学教授，教育政策转移（educational policy transfer）研究领域的核心人物。他与 [[Kimberly Ochs]] 合作开发的[[Policy Borrowing|政策借用]]四阶段模型（Four Stages of Policy Borrowing）和[[Cross-National Attraction|跨国吸引]]力结构性类型学（Structural Typology of Cross-National Attraction）是该领域最具影响力的分析框架之一。
+> David Phillips 是牛津大学比较教育学教授，教育政策转移（educational policy transfer）研究领域的核心人物。他与 [[Kimberly Ochs]] 合作开发的[[Policy Borrowing|政策借用]]四阶段模型（Four Stages of Policy Borrowing）和[[Cross-National Attraction|跨国吸引]]力结构性类型学（Structural Typology of Cross-National Attraction）是该领域最具影响力的分析框架之一。
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - 任职于牛津[[The Great Learning|大学]]教育研究系（Department of Educational Studies, University of Oxford）
+> - 任职于牛津大学教育研究系（Department of Educational Studies, University of Oxford）
 > - 专注于比较教育学、教育政策转移、德国教育研究
 
 ## 主要著作

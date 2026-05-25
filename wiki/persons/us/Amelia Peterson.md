@@ -12,7 +12,6 @@ tags:
 - mechanism-experiments
 - region/us
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Mechanism Experiments]]"
   - "[[Feedback]]"
 related_theories: []
@@ -32,7 +31,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Amelia Peterson，哈佛[[The Great Learning|大学]]教育研究生院（Harvard Graduate School of Education）研究者。以提出"什么有效 2.0"（What Works 2.0）整合框架著称——将实验科学的[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]]的网络化方法结合，旨在避免教育研究中的"范式战争"，加速关于系统性教育研究基础设施和资金的国际讨论（Peterson, 2016）。
+> Amelia Peterson，哈佛大学教育研究生院（Harvard Graduate School of Education）研究者。以提出"什么有效 2.0"（What Works 2.0）整合框架著称——将实验科学的[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]]的网络化方法结合，旨在避免教育研究中的"范式战争"，加速关于系统性教育研究基础设施和资金的国际讨论（Peterson, 2016）。
 
 ## 核心思想
 

@@ -13,7 +13,6 @@ tags:
 - neoliberalism
 - region/uk
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Visible Learning]]"
@@ -47,12 +46,12 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Terry Wrigley 是英国诺桑比亚[[The Great Learning|大学]]（Northumbria University）健康、社区与教育研究学院（School of Health, Community and Education Studies）教育研究者，曾任教于利兹大学和爱丁堡大学。他是**证据本位教学最系统的方法论批判者之一**，以运用[[Critical Realism|批判实在论]]（critical realism）分析 [[Evidence-Based Education|EBE]] 三层方法论缺陷（[[Randomised Controlled Trials|RCT]] → [[Meta-analysis|元分析]] → [[Meta-meta-analysis|元-元分析]]）著称。
+> Terry Wrigley 是英国诺桑比亚大学（Northumbria University）健康、社区与教育研究学院（School of Health, Community and Education Studies）教育研究者，曾任教于利兹大学和爱丁堡大学。他是**证据本位教学最系统的方法论批判者之一**，以运用[[Critical Realism|批判实在论]]（critical realism）分析 [[Evidence-Based Education|EBE]] 三层方法论缺陷（[[Randomised Controlled Trials|RCT]] → [[Meta-analysis|元分析]] → [[Meta-meta-analysis|元-元分析]]）著称。
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - 曾任教于利兹[[The Great Learning|大学]]（University of Leeds）和爱丁堡大学（University of Edinburgh）
+> - 曾任教于利兹大学（University of Leeds）和爱丁堡大学（University of Edinburgh）
 > - 后任职于诺桑比亚大学（Northumbria University）健康、社区与教育研究学院
 > - 学术活跃期覆盖 2003–2019 年，研究重心从学校改进（*Schools of Hope*, 2003）逐步转向 [[Evidence-Based Education|EBE]] 方法论批判（2018, 2019）
 > - 与 [[Sean McCusker]] 合作进行 EEF Toolkit 的深度案例追踪研究（2019）

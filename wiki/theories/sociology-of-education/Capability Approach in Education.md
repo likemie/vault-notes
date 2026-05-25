@@ -16,7 +16,6 @@ tags:
 - social-justice
 - philosophy
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Global Universities Rankings]]"
 related_theories: []
 related_methods: []
@@ -51,7 +50,7 @@ updated: '2026-05-18'
 > Drèze & Sen（2002, pp.38–40）在讨论印度的发展与参与问题时，区分了教育对个人自由的五种价值类型（Boyadjieva, 2022, p.128）：
 
 - **内在重要性（intrinsic importance）**：受教育本身就是一种自由和能力的扩展——读书、思考、获得知识这件事本身就是有意义的，不需要"有什么用"来证明。例如，一个学生在修哲学通识课时发现，思考"什么是公正"本身就让他感到充实——这与能不能写在简历上无关。
-- **工具性个人角色（instrumental personal roles）**：教育帮助个人获得更好的就业机会和收入——这是最常被讨论的"用处"。例如，一个学生上[[The Great Learning|大学]]是为了拿到计算机学位，毕业后进大厂拿高薪。
+- **工具性个人角色（instrumental personal roles）**：教育帮助个人获得更好的就业机会和收入——这是最常被讨论的"用处"。例如，一个学生上大学是为了拿到计算机学位，毕业后进大厂拿高薪。
 - **工具性社会角色（instrumental social roles）**：教育提升个人有效参与公共事务的能力——能读懂政策文件、能在社区会议上表达自己的观点。例如，受过教育的公民更有能力参与社区治理和公共讨论。
 - **工具性过程角色（instrumental process roles）**：教育过程本身扩展了个人的社会网络和参与渠道——结识不同背景的人，进入各种社会网络，这些"人脉"本身就是一种资源。
 - **赋权与分配角色（empowerment and distributive roles）**：教育使个人有能力为自己争取权益、在资源分配中获得更公平的对待。例如，大学扩招使原本上不了大学的农村孩子获得了进入城市中产阶层的通道——这改变了社会流动的模式，而不仅仅是增加了个人的收入。

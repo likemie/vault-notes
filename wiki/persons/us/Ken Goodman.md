@@ -15,8 +15,7 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:
@@ -58,7 +57,7 @@ updated: '2026-05-19'
 > > "全语言学习围绕完整的学习者在完整的情境中学习完整的语言而构建；全语言学习假设对语言、学习者和教师的尊重；重点在意义而非语言本身，集中于真实的言语和读写事件；学习者被鼓励冒险并被邀请以其所有变体为自身目的使用语言；在全语言课堂中，口头和书面语言的所有多样功能都是适当的并被鼓励。"（引自 O'Connor, 2020, p.143）
 
 
-> [!info] 对行为主义心[[Neo-Confucianism|理学]]研究方法的警告
+> [!info] 对行为主义心理学研究方法的警告
 > Goodman（1989）警告不要仅依赖行为主义心理学基础的读写研究方法——那些仅考察后测技能增长的方法。他主张研究必须考察学习者在真实读写情境中如何发展和使用策略（O'Connor, 2020, p.146）。
 
 ## 主要贡献

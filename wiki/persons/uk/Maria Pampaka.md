@@ -8,8 +8,7 @@ nationality: uk
 tags:
 - maria-pampaka
 - region/uk
-related_concepts:
-  - "[[The Great Learning]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -27,7 +26,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 曼彻斯特[[The Great Learning|大学]]（University of Manchester）教育研究者，研究方向为教育研究方法论、学习结果测量（包括态度、倾向和抱负等非成就性指标）、"什么有效"议程的批判性评估。
+> 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究方法论、学习结果测量（包括态度、倾向和抱负等非成就性指标）、"什么有效"议程的批判性评估。
 
 ## 核心思想
 

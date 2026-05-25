@@ -11,7 +11,6 @@ tags:
 - paradigm/systems-theory
 - region/germany
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[School Leadership]]"
   - "[[Blind Spot in Observation]]"
   - "[[Structural Coupling]]"
@@ -40,7 +39,7 @@ updated: '2026-05-19'
 
 > [!note-] 生平与职涯
 > - 1927 年出生于德国吕讷堡
-> - 1960–1961 年在哈佛[[The Great Learning|大学]]师从 Talcott Parsons 学习社会学
+> - 1960–1961 年在哈佛大学师从 Talcott Parsons 学习社会学
 > - 1968–1993 年任比勒费尔德大学（Universität Bielefeld）社会学教授
 > - 1998 年逝世
 

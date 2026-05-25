@@ -1,6 +1,7 @@
 ---
-title: Rote Learning vs Understanding
+title: Rote Learning
 aliases:
+  - 死记硬背
   - 死记硬背与理解
   - memorization and understanding
   - Chinese learner paradox memory
@@ -32,7 +33,7 @@ created: 2026-05-25
 updated: 2026-05-25
 ---
 
-# Rote Learning vs Understanding
+# Rote Learning
 
 ## 定义
 

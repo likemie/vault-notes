@@ -8,8 +8,7 @@ tags: ["region/us", "field/comparative-education", "field/developmental-psycholo
 related_concepts:
   - "[[Learning Gap]]"
   - "[[Chinese Learner]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
@@ -27,7 +26,7 @@ updated: 2026-05-25
 ## 简介
 
 > [!info]
-> Harold Stevenson 和 James Stigler 是美国比较教育心[[Neo-Confucianism|理学]]家和发展心理学家。他们在 1980 至 1990 年代开展了跨国比较研究，系统比较了美国、日本、台湾和中国大陆小学生的学习成就及其背后的文化因素，是西方学界最早实证验证东亚学生学习优势的研究者之一（Li, 2012, p.69-70）。
+> Harold Stevenson 和 James Stigler 是美国比较教育心理学家和发展心理学家。他们在 1980 至 1990 年代开展了跨国比较研究，系统比较了美国、日本、台湾和中国大陆小学生的学习成就及其背后的文化因素，是西方学界最早实证验证东亚学生学习优势的研究者之一（Li, 2012, p.69-70）。
 
 ## 主要著作
 

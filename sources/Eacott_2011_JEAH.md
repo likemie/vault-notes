@@ -7,6 +7,7 @@ extracted_to:
   - "[[wiki-Pierre Bourdieu]]"
   - "[[School Leadership]]"
   - "[[Scott Eacott]]"
+  - "[[Pierre Bourdieu]]"
 processed_date: 2026-05-01
 ---
 

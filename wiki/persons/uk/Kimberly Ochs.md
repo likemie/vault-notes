@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
-  - "[[The Great Learning]]"
   - "[[Global Universities Rankings]]"
 related_theories: []
 related_methods: []
@@ -31,12 +30,12 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Kimberly Ochs 是比较教育学者，与 [[David Phillips]] 合作开发了[[Policy Borrowing|政策借用]]四阶段模型和[[Cross-National Attraction|跨国吸引]]力结构性类型学——教育政策转移研究领域的基础性分析框架。她的博士论文（牛津[[The Great Learning|大学]]，2005）进一步深化了对政策借用与教育改革和创新之间关系的理论化。
+> Kimberly Ochs 是比较教育学者，与 [[David Phillips]] 合作开发了[[Policy Borrowing|政策借用]]四阶段模型和[[Cross-National Attraction|跨国吸引]]力结构性类型学——教育政策转移研究领域的基础性分析框架。她的博士论文（牛津大学，2005）进一步深化了对政策借用与教育改革和创新之间关系的理论化。
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - 牛津[[The Great Learning|大学]]教育研究系博士（2005），导师 [[David Phillips]]
+> - 牛津大学教育研究系博士（2005），导师 [[David Phillips]]
 > - 博士论文题目：*Educational [[Policy Borrowing]] and its Implications for Reform and Innovation: a study with specific reference to the London Borough of Barking and Dagenham*
 
 ## 主要著作

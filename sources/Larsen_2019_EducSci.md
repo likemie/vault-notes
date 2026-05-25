@@ -1,6 +1,19 @@
 ---
 citation: "Larsen, S. N. (2019). Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education. Education Sciences, 9(1), 47."
-extracted_to: ["[[Bildung]]", "[[Learnification]]", "[[Neuroplasticity]]", "[[Incarnation-Extension Dialectics]]", "[[Blind Spot in Observation]]", "[[Visible Learning]]", "[[Structural Coupling]]", "[[John Hattie]]", "[[Gert Biesta]]", "[[Steen Nepper Larsen]]", "[[Niklas Luhmann]]", "[[Luhmann's Systems Theory]]", "[[Argument_Larsen_2019_EducSci]]", "[[Danish Public School Reform]]"]
+extracted_to:
+  - "[[Bildung]]"
+  - "[[Learnification]]"
+  - "[[Neuroplasticity]]"
+  - "[[Incarnation-Extension Dialectics]]"
+  - "[[Blind Spot in Observation]]"
+  - "[[Visible Learning]]"
+  - "[[Structural Coupling]]"
+  - "[[Steen Nepper Larsen]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Danish Public School Reform]]"
+  - "[[Niklas Luhmann]]"
+  - "[[John Hattie]]"
+  - "[[Luhmann's Systems Theory]]"
 processed_date: 2026-05-04
 ---
 

@@ -11,7 +11,6 @@ tags:
   - cultural-sociology
   - paradigm/interpretivist
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
@@ -54,7 +53,7 @@ updated: 2026-05-18
 > [!quote]
 > "文化对行动的影响不仅是通过定义价值观去定义行动目的，也是通过提供建构行动策略所需要的文化工具（比如规范、价值、故事、象征边界、分类体系等）"（郑雅君，2023，引 Swidler, 1986）
 
-[[Yajun Zheng|郑雅君]]（2023）以该理论作为其"[[The Great Learning|大学]]过程"分析框架的核心理论基础之一，用于解释大学生在组织大学生活时的策略性差异。
+[[Yajun Zheng|郑雅君]]（2023）以该理论作为其"大学过程"分析框架的核心理论基础之一，用于解释大学生在组织大学生活时的策略性差异。
 
 ---
 
@@ -88,7 +87,7 @@ updated: 2026-05-18
 > - **1986 范式挑战**：Swidler 在 *ASR* 发表"Culture in Action: Symbols and Strategies"，以文化工具箱范式挑战 [[Max Weber|Weber]]-Parsons 价值观驱动范式的垄断地位。核心观察：人们对事物抱有的观念在很多情况下难以连贯地解释他们的行动（[[Yajun Zheng|郑雅君]]，2023，引 Swidler, 1986）
 > - **1992 补充论证**：Sewell 在 *AJS* 上进一步论证文化图式的可迁移性和可推广性，强化了工具箱范式的理论基础（郑雅君，2023，引 Sewell, 1992）
 > - **2009 Vaisey 调和**：Stephen Vaisey 在 *AJS* 发表"Motivation and Justification"，援引认知科学双过程理论论证两种范式在**不同意识层次**上互补运作——价值观驱动范式在深层无意识层面运作，工具箱范式在浅层有意识层面运作。详见 [[Dual-Process Model of Culture in Action]]（郑雅君，2023，引 Vaisey, 2009）
-> - **2023 教育研究应用**：[[Yajun Zheng|郑雅君]]在《金榜题名之后》中将该理论系统应用于中国精英[[The Great Learning|大学]]学生出路分化分析，从 Swidler 的两种生活状态出发建构了 [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 的区分（郑雅君，2023）
+> - **2023 教育研究应用**：[[Yajun Zheng|郑雅君]]在《金榜题名之后》中将该理论系统应用于中国精英大学学生出路分化分析，从 Swidler 的两种生活状态出发建构了 [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 的区分（郑雅君，2023）
 
 ---
 
@@ -120,7 +119,7 @@ updated: 2026-05-18
 ## 应用领域
 
 > [!success]
-> - [[Goal-Controlled Mode]] — 该概念以工具箱理论为核心分析框架：目标掌控模式被理解为一组由优势家庭提供的文化工具，使学生能够在[[The Great Learning|大学]][[Champ|场域]]中策略性地组织行动路线。其亚类型[[Self-Driven Mode|自主驱动者]]和[[Opportunist Mode|机会主义者]]的区分，进一步体现了工具箱范式中"价值目的"和"策略手段"两个维度的独立运作（[[Yajun Zheng|郑雅君]]，2023）
+> - [[Goal-Controlled Mode]] — 该概念以工具箱理论为核心分析框架：目标掌控模式被理解为一组由优势家庭提供的文化工具，使学生能够在大学[[Champ|场域]]中策略性地组织行动路线。其亚类型[[Self-Driven Mode|自主驱动者]]和[[Opportunist Mode|机会主义者]]的区分，进一步体现了工具箱范式中"价值目的"和"策略手段"两个维度的独立运作（[[Yajun Zheng|郑雅君]]，2023）
 > - [[Intuition-Dependent Mode]] — 直觉依赖模式说明低阶层学生可及的文化工具集中缺少对精英大学场域具有高度适用性的"工具"。其亚类型[[Lost Mode|迷失无从者]]和[[Value Conformist Mode|价值归顺者]]的区分，体现了"工具匮乏"与"价值馈赠"可能同时发生的复杂关系（郑雅君，2023）
 > - **两种生活状态与两种模式**：郑雅君（2023）直接借用了 Swidler 对稳定/不稳定生活状态的区分——优势阶层学生入学前已处于"稳定生活状态"（文化工具箱已配备），弱势阶层学生则从应试场域进入大学后处于"不稳定生活状态"（文化目标被抛弃，需学习新方式）。直觉依赖者缺乏策略性，不是因为**没有**文化工具箱，而是因为其工具箱中缺少对**精英大学这一特定场域**具有高度适用性的工具（如[[Recommendation-Based Graduate Admission System|推免]]规则、实习重要性、教授期望等）。这些"暗藏阶级壁垒的文化性知识"在优势阶层的工具箱中随手可及（郑雅君，2023）
 > - **文化工具箱的动态重组**：郑雅君（2023）第4章通过转变者案例展示了工具箱在大学经历中的充实过程——文化移入（接触新价值图式）和行动策略充实化（习得具体操作技能）是两条核心路径。高等教育不仅生产文凭，更是一个文化再社会化的过程（郑雅君，2023）

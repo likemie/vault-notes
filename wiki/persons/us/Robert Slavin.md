@@ -14,12 +14,10 @@ tags:
 - educational-psychology
 - region/us
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Matching]]"
@@ -42,7 +40,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Robert E. Slavin 是美国约翰霍普金斯[[The Great Learning|大学]]（Johns Hopkins University）教育研究与改革中心（Center for Research and Reform in Education）主任，教育心[[Neo-Confucianism|理学]]家，**[[Evidence-Based Education|证据本位教育]]改革运动最核心的倡导者和奠基人之一**。他是 2018 年美国心理学会（APA）第 15 分会（Division 15, Educational Psychology）**E. L. Thorndike 终身成就奖**获得者。
+> Robert E. Slavin 是美国约翰霍普金斯大学（Johns Hopkins University）教育研究与改革中心（Center for Research and Reform in Education）主任，教育心理学家，**[[Evidence-Based Education|证据本位教育]]改革运动最核心的倡导者和奠基人之一**。他是 2018 年美国心理学会（APA）第 15 分会（Division 15, Educational Psychology）**E. L. Thorndike 终身成就奖**获得者。
 
 ## 核心思想
 

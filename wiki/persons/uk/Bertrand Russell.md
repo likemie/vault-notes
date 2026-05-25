@@ -14,8 +14,7 @@ tags:
 - field/logic
 - school/analytic-philosophy
 - theme/knowledge
-related_concepts:
-  - "[[The Great Learning]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons:
@@ -46,7 +45,7 @@ updated: 2026-05-22
 
 > [!note]
 > - **1872** — 出生于威尔士特雷勒克（Trellech）的贵族家庭。祖父约翰·罗素勋爵曾两度担任英国首相。三岁时父母相继去世，由祖母抚养
-> - **1890–1894** — 就读于剑桥[[The Great Learning|大学]]三一学院，学习数学和哲学，深受麦塔格（McTaggart）和怀特海影响
+> - **1890–1894** — 就读于剑桥大学三一学院，学习数学和哲学，深受麦塔格（McTaggart）和怀特海影响
 > - **1903** — 出版《数学的原理》（*The Principles of Mathematics*）
 > - **1910–1913** — 与怀特海合著三卷本《数学原理》（*Principia Mathematica*），试图从逻辑公理推导出全部数学
 > - **1912** — 出版《哲学问题》（*The Problems of Philosophy*），面向普通读者的哲学导论

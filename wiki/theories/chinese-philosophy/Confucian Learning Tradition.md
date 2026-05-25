@@ -25,8 +25,7 @@ related_concepts:
   - "[[Four Sprouts]]"
   - "[[The Great Learning]]"
   - "[[Chinese Learner]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Confucius]]"
@@ -123,7 +122,7 @@ updated: 2026-05-24
 > - **[[Confucius|孔子]]（551–479 BCE）**：奠定学习传统的核心——[[Self-Cultivation|修身]]成仁；编订六经、创办私学、倡导"有教无类"（Li, 2012, pp.36-37）
 > - **[[Mencius|孟子]]（ca. 372–289 BCE）**：以[[Four Sprouts|四端]]说为修身提供人性论基础；主张"人人皆可为尧舜"；提出"[[Take the World Upon Oneself|以天下为己任]]"（Li, 2012, pp.42-43, 45-46）
 > - **近千年式微期**：儒学传统在汉以后经历了长期的边缘化（Li, 2012, p.43）
-> - **宋代[[Neo-Confucianism|理学]]（960–1279）**：[[Cheng Brothers|程颢]]、程颐兄弟重新开启儒家学习传统。将天理与修身关联，首次引入"格物致知"的认知环节（Li, 2012, pp.43-44）
+> - **宋代理学（960–1279）**：[[Cheng Brothers|程颢]]、程颐兄弟重新开启儒家学习传统。将天理与修身关联，首次引入"格物致知"的认知环节（Li, 2012, pp.43-44）
 > - **[[Zhu Xi|朱熹]]（1130–1200）**：整合程氏兄弟思想，编纂四书，系统化学习路径为[[The Great Learning|八条目]]（格物→致知→诚意→正心→[[Self-Cultivation|修身]]→齐家→治国→平天下）。四书成为 1949 年前中国教育的核心经典（Li, 2012, pp.44, 46-47）
 > - **[[Wang Yangming|王阳明]]（1472–1529）**：以良知说和知行合一对程朱学派做出修正，将成圣目标向普通人——不受社会约束或学术门槛限制——开放（Li, 2012, p.44）
 > - **[[Civil Service Examination|科举制度]]（7 世纪–1905）**：将道德成就、学术学习、政治权力、社会地位和经济收益前所未有地融为一体，"导致了学习在中国文化中的至高无上地位"（Li, 2012, pp.47-48）

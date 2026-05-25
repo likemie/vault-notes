@@ -13,10 +13,8 @@ tags:
 - philosophy-of-science
 - region/uk
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Education]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
@@ -32,7 +30,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Gary Thomas 是英国伯明翰[[The Great Learning|大学]]（University of Birmingham）教育与社会包容教授，以其对实验方法和 [[Randomised Controlled Trials|RCT]] 在教育研究中的"黄金标准"地位的批判而知名。
+> Gary Thomas 是英国伯明翰大学（University of Birmingham）教育与社会包容教授，以其对实验方法和 [[Randomised Controlled Trials|RCT]] 在教育研究中的"黄金标准"地位的批判而知名。
 
 ## 核心思想
 
@@ -71,7 +69,7 @@ updated: '2026-05-19'
 
 > [!success] 主要贡献
 > - [[Evidence-Based Education]] — 从科学史和科学哲学角度为 EBE 批判提供"民间科学观"和"最佳解释推理"等关键分析概念
-> - **Scriven 因果推断框架的引入** — 引用 Scriven (2008) 论证存在"超越合理怀疑建立因果性的多种方式"，包括天体物[[Neo-Confucianism|理学]]、气象学、流行病学、尸检、地质学和工程故障分析等领域使用的推断程序
+> - **Scriven 因果推断框架的引入** — 引用 Scriven (2008) 论证存在"超越合理怀疑建立因果性的多种方式"，包括天体物理学、气象学、流行病学、尸检、地质学和工程故障分析等领域使用的推断程序
 
 ## 主要著作
 

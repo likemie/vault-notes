@@ -11,7 +11,6 @@ tags:
 - educational-research-methodology
 - region/uk
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -31,7 +30,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Sean McCusker 任职于英国诺桑比亚[[The Great Learning|大学]]（Northumbria University）社会科学系（Department of Social Sciences）。他与 [[Terry Wrigley]] 合作发表了关于证据本位教学科学观的批判性研究。
+> Sean McCusker 任职于英国诺桑比亚大学（Northumbria University）社会科学系（Department of Social Sciences）。他与 [[Terry Wrigley]] 合作发表了关于证据本位教学科学观的批判性研究。
 
 ## 核心思想
 

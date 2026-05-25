@@ -12,11 +12,9 @@ tags:
 - organizational-theory
 - region/us
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Feedback]]"
   - "[[Professional Judgment]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Bounded Rationality]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
@@ -33,13 +31,13 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Herbert A. Simon（1916–2001）是美国政治科学家、经济学家和认知心[[Neo-Confucianism|理学]]家，卡内基梅隆[[The Great Learning|大学]]教授，1978 年诺贝尔经济学奖获得者。他以[[Bounded Rationality|有限理性]]（Bounded Rationality）理论和《人工科学》（*The Sciences of the Artificial*）著称。
+> Herbert A. Simon（1916–2001）是美国政治科学家、经济学家和认知心理学家，卡内基梅隆大学教授，1978 年诺贝尔经济学奖获得者。他以[[Bounded Rationality|有限理性]]（Bounded Rationality）理论和《人工科学》（*The Sciences of the Artificial*）著称。
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
 > - 1916 出生于美国威斯康星州密尔沃基
-> - 长期任职于卡内基梅隆[[The Great Learning|大学]]，横跨政治科学、经济学、心[[Neo-Confucianism|理学]]和计算机科学
+> - 长期任职于卡内基梅隆大学，横跨政治科学、经济学、心理学和计算机科学
 > - 1969 出版 *The Sciences of the Artificial*（1996 年第三版），系统阐述[[Bounded Rationality|有限理性]]理论和人工科学哲学
 > - 1978 获诺贝尔经济学奖——"因其在经济组织内决策过程的开创性研究"
 > - 2001 逝世
@@ -66,7 +64,7 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - [[Bounded Rationality|有限理性]]理论深刻影响了经济学（行为经济学）、管[[Neo-Confucianism|理学]]（组织决策理论）、心理学（认知心理学）和计算机科学（人工智能）
+> - [[Bounded Rationality|有限理性]]理论深刻影响了经济学（行为经济学）、管理学（组织决策理论）、心理学（认知心理学）和计算机科学（人工智能）
 > - Qvortrup（2019）将有限理性引入教育研究，作为理解教学实践的认识论基础——与 Luhmann 的[[Luhmann's Systems Theory|系统理论]]并置
 
 ## 来源

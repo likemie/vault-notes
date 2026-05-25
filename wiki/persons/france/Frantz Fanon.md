@@ -14,13 +14,11 @@ tags:
 - postcolonial-studies
 - psychiatry
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Forced Knowledge Transfer]]"
 related_theories:
   - "[[Phenomenology]]"
-  - "[[Neo-Confucianism]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
 related_persons:
@@ -42,7 +40,7 @@ updated: '2026-05-19'
 > [!info]
 > Frantz Fanon（1925–1961），出生于法属马提尼克（Martinique）的精神病学家、哲学家和革命理论家，去殖民化运动的核心思想人物。他在短暂的一生中完成了从殖民地知识分子到阿尔及利亚革命者的转变，其著作深刻影响了全球去殖民化运动、后殖民研究和批判种族理论。
 
-Fanon 在法国里昂[[The Great Learning|大学]]学习精神病学，期间受到 Négritude 运动（Aimé Césaire、Léopold Senghor）和存在主义[[Phenomenology|现象学]]（Merleau-Ponty、Sartre）的双重影响。1953 年出任阿尔及利亚 Blida-Joinville 精神病院院长，在临床实践中亲眼见证了殖民暴力对阿尔及利亚人心理的系统性摧毁。1956 年辞去公职加入阿尔及利亚民族解放阵线（FLN），成为革命政府的外交发言人，直至 1961 年因白血病在美国去世，年仅 36 岁。
+Fanon 在法国里昂大学学习精神病学，期间受到 Négritude 运动（Aimé Césaire、Léopold Senghor）和存在主义[[Phenomenology|现象学]]（Merleau-Ponty、Sartre）的双重影响。1953 年出任阿尔及利亚 Blida-Joinville 精神病院院长，在临床实践中亲眼见证了殖民暴力对阿尔及利亚人心理的系统性摧毁。1956 年辞去公职加入阿尔及利亚民族解放阵线（FLN），成为革命政府的外交发言人，直至 1961 年因白血病在美国去世，年仅 36 岁。
 
 ---
 
@@ -51,7 +49,7 @@ Fanon 在法国里昂[[The Great Learning|大学]]学习精神病学，期间受
 > [!abstract]
 > - Fanon, F. (1952/1986). *Black Skin, White Masks*（《黑皮肤，白面具》）. Grove Press. — 以[[Phenomenology|现象学]]方法分析殖民地主体的心理经验，核心论点是：殖民主义不仅通过经济和政治统治运作，更通过制造被殖民者的自我异化来运作——黑人被强制认同于白人的语言和文化标准，"黑人不是一个人，而是一个黑人"。提出"真正的去异化"（authentic disalienation）概念
 > - Fanon, F. (1959/1965). *A Dying Colonialism*（《垂死的殖民主义》）. Monthly Review Press. — 以阿尔及利亚革命为案例，分析殖民社会在革命过程中的社会和文化转变
-> - Fanon, F. (1963). *The Wretched of the Earth*（《全世界受苦的人》）. Grove Press. — 以"论暴力"（On Violence）开篇，论证暴力在殖民地中是"社会、文化和政治货币"——殖民者的暴力不会被和平恳求终止，被殖民者的反暴力是"净化性的"（cathartic），去殖民化"不仅是暴力和革命的，更是对被殖民者的疗愈过程"。该书最后一章分析了殖民主义导致的精神病[[Neo-Confucianism|理学]]案例，将政治解放与心理解放统合在一起
+> - Fanon, F. (1963). *The Wretched of the Earth*（《全世界受苦的人》）. Grove Press. — 以"论暴力"（On Violence）开篇，论证暴力在殖民地中是"社会、文化和政治货币"——殖民者的暴力不会被和平恳求终止，被殖民者的反暴力是"净化性的"（cathartic），去殖民化"不仅是暴力和革命的，更是对被殖民者的疗愈过程"。该书最后一章分析了殖民主义导致的精神病理学案例，将政治解放与心理解放统合在一起
 
 ---
 

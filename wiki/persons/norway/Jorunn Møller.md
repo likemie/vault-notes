@@ -9,7 +9,6 @@ tags:
 - jorunn-mller
 - region/norway
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[School Leadership]]"
   - "[[Knowledge Production]]"
   - "[[New Public Management]]"
@@ -32,7 +31,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Jorunn Møller，挪威奥斯陆[[The Great Learning|大学]]（University of Oslo）教师教育与学校研究系教授。研究兴趣涵盖教育领导力与治理、改革政策和学校问责制（Møller, 2017, p.385）。
+> Jorunn Møller，挪威奥斯陆大学（University of Oslo）教师教育与学校研究系教授。研究兴趣涵盖教育领导力与治理、改革政策和学校问责制（Møller, 2017, p.385）。
 
 ## 核心思想
 
@@ -67,7 +66,7 @@ updated: '2026-05-19'
 
 > [!note-] 思想发展与影响
 > - 与 [[Helen Gunter]] 的研究网络 LE@DS（Leading Democratic Schools）有合作关系
-> - 研究定位于 CURRICULUM STUDIES, EDUCATIONAL LEADERSHIP AND GOVERNANCE (CLEG) 研究群组（奥斯陆[[The Great Learning|大学]]）
+> - 研究定位于 CURRICULUM STUDIES, EDUCATIONAL LEADERSHIP AND GOVERNANCE (CLEG) 研究群组（奥斯陆大学）
 > - 受 [[Carolyn Shields]] 的[[Transformative Leadership|变革型领导力]]框架和 Helen Gunter 的批判性教育政策视角影响
 
 ## 来源

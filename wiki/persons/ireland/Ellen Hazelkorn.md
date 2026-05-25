@@ -13,7 +13,6 @@ tags:
 - region/global
 related_concepts:
   - "[[Global Universities Rankings]]"
-  - "[[The Great Learning]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
@@ -57,7 +56,7 @@ updated: '2026-05-19'
 ### 2018 — *Reshaping the World Order of Higher Education*
 
 - APA：Hazelkorn, E. (2018). Reshaping the world order of higher education: The role and impact of rankings on national and global systems. *Policy Reviews in Higher Education*, 2(1), 4–31.
-- 核心内容：将排名置于地缘政治分析框架中——论证排名"主要测量基础研究和传播——在有限的领域、以传统的方式——为精英[[The Great Learning|大学]]和国家提供竞争优势"。高等教育已被"从以地方或次国家范围的、以社会为主的机构转变为经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16, cited in Boyadjieva, 2022, p.138）。
+- 核心内容：将排名置于地缘政治分析框架中——论证排名"主要测量基础研究和传播——在有限的领域、以传统的方式——为精英大学和国家提供竞争优势"。高等教育已被"从以地方或次国家范围的、以社会为主的机构转变为经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16, cited in Boyadjieva, 2022, p.138）。
 - 思想位置：理论深化——将排名分析从制度层面提升至全球地缘政治层面。
 - 相关概念：[[Geopolitics of Knowledge]]、[[Global Universities Rankings]]
 
@@ -66,7 +65,7 @@ updated: '2026-05-19'
 ## 核心思想
 
 > [!tip]
-> Hazelkorn 的核心理论贡献包括：（1）排名是"高等教育地缘政治的隐喻"——它们通过测量有限领域的基础研究，为"受益于数十年甚至数世纪积累的财富和投资"的精英[[The Great Learning|大学]]和国家提供系统性竞争优势（Hazelkorn, 2018, p.10）；（2）"排名已成为必然"——尽管持续受到批评，排名的出现是高等教育大众化、市场化和全球化的结构性后果；（3）排名的驱动力取决于指标选择——"排名无疑驱动行为……但驱动力向何方取决于指标的选择"（Hazelkorn, 2019, p.9）（Boyadjieva, 2022, pp.126, 130, 132）。
+> Hazelkorn 的核心理论贡献包括：（1）排名是"高等教育地缘政治的隐喻"——它们通过测量有限领域的基础研究，为"受益于数十年甚至数世纪积累的财富和投资"的精英大学和国家提供系统性竞争优势（Hazelkorn, 2018, p.10）；（2）"排名已成为必然"——尽管持续受到批评，排名的出现是高等教育大众化、市场化和全球化的结构性后果；（3）排名的驱动力取决于指标选择——"排名无疑驱动行为……但驱动力向何方取决于指标的选择"（Hazelkorn, 2019, p.9）（Boyadjieva, 2022, pp.126, 130, 132）。
 
 > [!quote]
 > "rankings are here to stay" 和 "nowhere to hide"（Hazelkorn, 2014, p.23, cited in Boyadjieva, 2022, p.130）

@@ -11,7 +11,6 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Structural Coupling]]"
-  - "[[The Great Learning]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[Knowledge-Based Economization]]"
@@ -52,7 +51,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - 1960–1961 Luhmann 在哈佛[[The Great Learning|大学]]师从 Talcott Parsons，后发展出与 Parsons 结构功能主义截然不同的系统理论
+> - 1960–1961 Luhmann 在哈佛大学师从 Talcott Parsons，后发展出与 Parsons 结构功能主义截然不同的系统理论
 > - 1984 *Soziale Systeme*（社会系统）出版，标志其理论成熟
 > - 1997 *Die Gesellschaft der Gesellschaft* 出版，为晚期系统理论的综合巨著
 > - 2002 遗作 *Das Erziehungssystem der Gesellschaft*（社会的教育系统）出版，将系统理论应用于教育分析

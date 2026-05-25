@@ -13,7 +13,6 @@ tags:
 - region/uk
 - region/china
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Policy Borrowing]]"
   - "[[Knowledge-Based Economy]]"
   - "[[International Schools]]"
@@ -38,7 +37,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Paul Morris 是伦敦[[The Great Learning|大学]]学院（UCL）教育与社会学院（Institute of Education, Department of Education, Practice and Society）的教授。他长期从事比较教育和课程研究，特别专注于香港教育政策、课程变革和公民教育的政治分析。他是以批判视角分析香港后殖民教育政治的最多产学者之一。
+> Paul Morris 是伦敦大学学院（UCL）教育与社会学院（Institute of Education, Department of Education, Practice and Society）的教授。他长期从事比较教育和课程研究，特别专注于香港教育政策、课程变革和公民教育的政治分析。他是以批判视角分析香港后殖民教育政治的最多产学者之一。
 
 ## 核心思想
 

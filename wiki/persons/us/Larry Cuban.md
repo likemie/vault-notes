@@ -11,8 +11,7 @@ tags:
 - curriculum-theory
 - education-history
 - region/us
-related_concepts:
-  - "[[The Great Learning]]"
+related_concepts: []
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
 related_methods: []
@@ -31,7 +30,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Larry Cuban 是美国教育史学家和课程理论家，斯坦福[[The Great Learning|大学]]教育学院荣休教授。他的研究专注于美国教育改革的**历史分析**，特别是学校变革的持久与失败原因。他最著名的理论贡献是识别了课程变革中的三类外部驱动力，以及他对教育技术变革的批判。
+> Larry Cuban 是美国教育史学家和课程理论家，斯坦福大学教育学院荣休教授。他的研究专注于美国教育改革的**历史分析**，特别是学校变革的持久与失败原因。他最著名的理论贡献是识别了课程变革中的三类外部驱动力，以及他对教育技术变革的批判。
 
 ## 核心思想
 

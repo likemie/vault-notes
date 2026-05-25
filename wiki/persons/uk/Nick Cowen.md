@@ -14,7 +14,6 @@ tags:
 - bureaucracy
 - region/uk
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Programme Fidelity vs Adaptation]]"
@@ -41,7 +40,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Nick Cowen 是英国政治科学家，任职于林肯[[The Great Learning|大学]]（University of Lincoln）社会与政治科学学院，亦为纽约大学法学院古典自由主义研究所（Classical Liberal Institute, NYU School of Law）研究员。他将公共选择理论（特别是 Tullock 的官僚制模型）应用于教育政策分析，为[[Evidence-Based Education|证据本位教育]]（EBE）的批判提供了**制度逻辑**层面的解释。此外，Cowen 与科学哲学家 [[Nancy Cartwright]] 合作，从政策实施角度研究了 EBE 证据在课堂层面应用的实践挑战。
+> Nick Cowen 是英国政治科学家，任职于林肯大学（University of Lincoln）社会与政治科学学院，亦为纽约大学法学院古典自由主义研究所（Classical Liberal Institute, NYU School of Law）研究员。他将公共选择理论（特别是 Tullock 的官僚制模型）应用于教育政策分析，为[[Evidence-Based Education|证据本位教育]]（EBE）的批判提供了**制度逻辑**层面的解释。此外，Cowen 与科学哲学家 [[Nancy Cartwright]] 合作，从政策实施角度研究了 EBE 证据在课堂层面应用的实践挑战。
 
 ## 核心思想
 
