@@ -1,0 +1,134 @@
+---
+title: Tracking
+aliases:
+  - 分轨制
+  - 能力分组
+  - ability grouping
+  - streaming
+  - setting
+summary: "一种将学生按学业能力分配到不同课程轨道或班级的组织方式，其运作基础是能力固定信念，并通过自我实现的预言再生产教育不平等"
+type: concept
+tags:
+  - region/western
+  - theme/inequality
+  - theme/stratification
+related_concepts: []
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
+related_arguments: []
+sources:
+  - "[[Li_2012_Cambridge]]"
+confidence: medium
+status: draft
+created: 2026-05-25
+updated: 2026-05-25
+---
+
+# Tracking
+
+
+
+>
+> [!info]- 自动维护字段（对齐脚本）
+> - `related_*` 与 YAML `sources` 由 `scripts/wiki_relations.py` 自动维护，AI 不手动填写。
+> - 正文中的 wikilink 会同步到对应 `related_*`。
+> - `## 来源` 章节中的 source wikilink 会同步到 YAML `sources`。
+> - 正文自动补链由 `scripts/wiki_linker.py sync` 完成；`aliases` 是自动补链白名单。
+> - Source 记录与 PDF / EPUB 阅读页面优先由 `scripts/source_record.py` 创建。
+> - 处理完成后运行：
+>   ```bash
+>   python3 scripts/wiki_index.py
+>   python3 scripts/wiki_linker.py sync
+>   python3 scripts/wiki_relations.py sync
+>   python3 scripts/wiki_index.py
+>   python3 scripts/vault_lint.py
+>   ```
+
+> [!info]- Summary 规则（索引用，不是摘要）
+> `summary` 只用于索引说明，让读者一眼看出这个概念是什么、来自谁、解决什么问题或有什么关键机制。
+> 好例子：`Phillips & Ochs 政策借用四阶段模型的第一阶段，Rappleye (2006) 将其解释为结构／人的双层推力与阻力。`
+> 如果无法概括，留空：`summary: ""`。
+
+> [!warning]- Summary YAML 安全规则
+> `summary` 外层必须使用双引号包裹：`summary: "一句话索引说明"`。
+> `summary` 内容内部禁止出现英文冒号 `:`、双引号 `"`、单引号 `'`。
+> 如果英文标题原本有冒号，用下划线 `_` 替代。
+
+
+
+> [!info]- Frontmatter 格式规范
+> - `tags` — 用方括号列表，内容 tag 建议使用英文小写连字符。
+> - 推荐 tag 前缀：`level/`、`region/`、`method/`、`theory/`、`policy/`、`subject/`、`theme/`、`source/`。
+> - `related_*`、`sources`、`part_of` — 若引用条目，必须写成带引号的 wikilink。
+> - `related_*` 与 YAML `sources` 由脚本自动同步，AI 通常不手动填写。
+
+> [!info]- Aliases 规则（用于 Automatic Linker 自动补链）
+> - `aliases` 用于中英文术语映射，建议包含中文译名、英文原名、常见缩写和常见变体。
+> - 不要加入过于宽泛的普通词。
+> - 推荐写完整术语。
+
+> [!warning]- 写入规则（每次写入前必须执行）
+> 1. 确定新内容属于哪个 `##` 章节。
+> 2. 分点 ≥ 8 条 → 按主题建 `###` 子主题，组内按时间排列。
+> 3. 分点 < 8 条 → 直接按时间顺序插入正确位置，禁止追加末尾。
+> 4. 写入前声明：「归属章节 > 子主题 > 插入位置」，再用 str_replace 写入。
+
+
+---
+
+## 定义
+
+> [!info]
+> Tracking（分轨制）是将学生按学业能力或学业表现分配到不同课程轨道（tracks）、班级或教学组别的学校组织方式。不同轨道提供不同难度和内容的课程，导向不同的毕业资格和升学路径。
+
+跟踪可以发生在学校之间（如德国的三轨制中等教育）或学校内部（如美国高中将学生分为学术轨、普通轨和职业轨）。Li（2012）关注的焦点是学校内部的分轨——特别是在美国高中情境下，分轨制度如何与能力固定信念相互强化（Li, 2012, pp.98–99）。
+
+---
+
+## 核心要素
+
+> [!abstract]
+> 分轨制的核心运作机制（Oakes & Guiton，转引自 Li, 2012, pp.98–99）：
+
+**分轨的前提：能力固定的假设**。教育者普遍相信"学生的智力前景在进入高中时实际上已经确定"。一位校长说"他在幼儿园结束时就能判断哪些孩子能在高中成功"；一位辅导员报告说高中教师普遍认为"学生要么有内在动机，要么没有，这无法改变"。
+
+**分轨的目的从"改变学生"转向"适应学生"**。课程和教学的设计不是为了提高学生的智识能力，而是为了**适应**学生已经被判断出的特征。这构成 tracking 的逻辑基础——轨道不是发展的起点，而是终点的预先分配。
+
+**自我实现的预言**。被标记为低轨的学生吸收了"能力固定"的信念——"既然我在低轨，说明我不够聪明，努力也没用"——放弃了努力，最终达到了与教师预期一致的"低成就"。教师的信念因此被"验证"了，但他们没有意识到这正是他们自己促成的。
+
+---
+
+## 理论基础
+
+> [!tip]
+> - [[Talent Assumption]] — 分轨制的运作基础是"才能是天生的"的假设，即学业前景是固定而非可发展的
+> - [[Entity vs Incremental Intelligence]] — Dweck 的实体论智力观为分轨提供了认知基础：如果智力是固定的，那么分轨只是"如实分类"
+> - [[Intellectual-Social Divide]] — 分轨制制度化地再生产了知性-社交二分：学术轨学生被默认为不善社交，普通轨学生被默认为不学术
+
+---
+
+## 文化根源
+
+> [!info]
+> Li 将分轨制置于西方更深层的文化框架中理解（Li, 2012, pp.98–99）：
+
+分轨制的逻辑建基于西方文化的固定自我观——自我天生拥有一套独特的、固定的特征（气质、能力、智力），不与他人共享。在这一文化框架中，学校评估引发社会比较，迫使大多数儿童经历个人降级（personal downgrading）。分轨将这种降级制度化——不仅是一种信念，而且成为了一个不可逆的行政过程。
+
+参见 [[Nerd]] 了解分轨制如何与同伴文化中的"try but not too hard"规范相互强化。
+
+---
+
+## 跨文化对比
+
+> [!example]
+> Li 指出，在东亚学校中，正式的分轨制度并不突出——这与东亚文化的可变自我观和环境影响力信念一致。如果自我是可变的、能力是通过努力发展的，那么早期将学生锁定在不同轨道中就失去了逻辑基础（Li, 2012, pp.109–110）。
+
+但这不意味着东亚教育系统没有分层——中学入学考试本身就是一种选拔机制。区别在于：选拔之后，学校内部更强调所有学生共享同一高标准的课程（而非永久性地分成高轨和低轨），且强调努力——而非天赋——是学业成就的主要途径。
+
+---
+
+## 来源
+
+- [[Li_2012_Cambridge]]

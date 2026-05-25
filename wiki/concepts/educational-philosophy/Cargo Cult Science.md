@@ -33,7 +33,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> Cargo cult science（货物崇拜科学）是物[[Neo-Confucianism|理学]]家 Richard Feynman（1974）提出的概念，指那些看起来和感觉起来像科学、但缺乏真正科学的认识论诚信（epistemic conscientiousness）的实践（Moberger, 2020）。
+> Cargo cult science（货物崇拜科学）是物理学家 Richard Feynman（1974）提出的概念，指那些看起来和感觉起来像科学、但缺乏真正科学的认识论诚信（epistemic conscientiousness）的实践（Moberger, 2020）。
 >
 > > "I'm talking about a specific, extra type of integrity that is not lying, but bending over backwards to show how you're maybe wrong, that you ought to do when acting as a scientist"（Feynman, 1974, p.12, cited in Johnson & Janzen, 2023, p.34）
 

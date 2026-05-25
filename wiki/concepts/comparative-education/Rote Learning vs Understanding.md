@@ -121,7 +121,7 @@ Marton 的团队使用[[Phenomenology|现象学]]方法（phenomenological metho
 ## 概念辨析
 
 > [!example]
-> - vs [[Surface and Deep Learning]] — 表层学习与深层学习的二元对立起源于西方教育心[[Neo-Confucianism|理学]]，隐含假设是对立关系。[[Chinese Learner|中国学习者]]的案例挑战了这种对立假设，表明记忆和深层学习可以构成一个递进的过程
+> - vs [[Surface and Deep Learning]] — 表层学习与深层学习的二元对立起源于西方教育心理学，隐含假设是对立关系。[[Chinese Learner|中国学习者]]的案例挑战了这种对立假设，表明记忆和深层学习可以构成一个递进的过程
 > - vs [[Paradox of the Chinese Learner]] — 中国学习者悖论是对这一争议的整体命名：即"被动、死记硬背"的学习方式如何产出卓越学术成就的矛盾。本条目的焦点是其中一个特定维度——记忆与理解之间的关系
 > - vs [[Familiarization]] — 熟悉化是中国学习者在[[Virtue-Oriented Learning Process|美德导向学习过程]]中的第一步，目的正是建立初始记忆。熟悉化本身不追求也不期待深度理解，而是在后续练习和温故知新中再发展理解
 > - vs [[Refined Mastery]] — 精深掌握是整个记忆-练习-理解过程的终点。如果熟悉化和练习属于"入道"，精深就是"出道"——在扎实基础上超越模仿达到自觉风格

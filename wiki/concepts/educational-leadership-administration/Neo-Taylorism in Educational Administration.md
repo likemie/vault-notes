@@ -104,7 +104,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 
 - Eacott（2017, p.418-419）论证 [[John Hattie|Hattie]] 的工作之所以能在澳大利亚达到"前所未有的规模和范围"的霸权地位，是因为三个历史条件的交汇：(1) Robinson 等人 2008 年的[[Meta-analysis|元分析]]打破了[[Transformative Leadership|变革型领导力]]的主导地位并引入了[[Effect Size|效应量]]语言；(2) 此前的大规模教学改革（QSRLS、New Basics、Quality Teaching）未能"用行政语言说话"，留下了操作指南的空白；(3) 在 NAPLAN/[[PISA]]/TIMSS 评估数据引发对成绩下降的持续担忧时，管理修辞围绕理性/控制逻辑凝聚
 - Hattie 的工作已被正式制度嵌入：他担任 AITSL 主席，其研究已被纳入澳大利亚教师和校长的国家专业标准、年度绩效评估和持续认证体系（Eacott, 2017, p.421）
-- 墨尔本[[The Great Learning|大学]]开发了 TeacherSelector 工具，以科学方法评估潜在教师教育申请人——Eacott 将此视为"教学的科学"延伸至教师选拔的例证（Eacott, 2017, p.420-421）
+- 墨尔本大学开发了 TeacherSelector 工具，以科学方法评估潜在教师教育申请人——Eacott 将此视为"教学的科学"延伸至教师选拔的例证（Eacott, 2017, p.420-421）
 - Hattie 的 [[Visible Learning]] 品牌已扩展至多领域（Making Literacy Visible、Visible Wellbeing），"证明 Hattie 品牌正在利用机会最大化优势"（Eacott, 2017, p.419）。详见 [[Visible Learning Branding and Global Influences]]
 - Eacott（2017） 发表后下载量超过 1000 次，持续收到一线教育者邮件分享"[[Cult of the Guru|大师崇拜]]对其工作的影响"故事（Eacott, 2019, p.776）
 
@@ -119,7 +119,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 - **AITSL** — Hattie 担任澳大利亚教学与[[School Leadership|学校领导力]]研究院主席，其工作已嵌入国家专业标准和年度绩效评估体系（Eacott, 2017, p.421）
 - **asTTle / e-asTTle** — Hattie 1999/2000 年受教育部委托开发的评估工具，"允许管理者监控全校六个科目"（Hattie et al., 2003, p.775），VL 气压计图形直接进口自此工具（Johnson & Janzen, 2023, p.28）
 - [[Victorian HITS and Literacy Toolkit]] — 维州教育部 10 项 HITS 以 VL 为首要参考，教师被要求执行 simplistic performative technical actions（如课前将课题写在白板上）（Johnson & Janzen, 2023, p.29-30）
-- **Visible Classroom App** — Hattie 与 Ai-Media 合作开发，教师自我录制音频由[[The Great Learning|大学]]"专家"基于 VL 量规[[Feedback|反馈]]，按服务收费（O'Neill et al., 2016, p.49-50）
+- **Visible Classroom App** — Hattie 与 Ai-Media 合作开发，教师自我录制音频由大学"专家"基于 VL 量规[[Feedback|反馈]]，按服务收费（O'Neill et al., 2016, p.49-50）
 
 ## 来源
 

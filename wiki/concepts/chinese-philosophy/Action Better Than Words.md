@@ -45,7 +45,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> 行勝於言（Action Better Than Words / Facta non Verba）是[[Confucian Learning Tradition|儒家学习传统]]的[[Fourth Culture|第四文化]]主题，也是清华[[The Great Learning|大学]]刻在主楼前广场上的[[University Motto|校训]]。它表达了一个系统的文化立场：一个人的道德成就以行动——而非言语——为标准来评判。说话是一种严肃的道德行为，因为它将说话人承诺于他人期待中的相应行动（Li, 2012, pp.52-54）。
+> 行勝於言（Action Better Than Words / Facta non Verba）是[[Confucian Learning Tradition|儒家学习传统]]的[[Fourth Culture|第四文化]]主题，也是清华大学刻在主楼前广场上的[[University Motto|校训]]。它表达了一个系统的文化立场：一个人的道德成就以行动——而非言语——为标准来评判。说话是一种严肃的道德行为，因为它将说话人承诺于他人期待中的相应行动（Li, 2012, pp.52-54）。
 
 [[Confucius|孔子]]对巧言令色抱有根本性的不信任——"他甚至没有写下任何关于自己教学的文字"。他说："古者言之不出，耻躬之不逮也"（古人不轻易说话，因为他们以自己做不到所说的话为耻），以及"[[Junzi|君子]]欲讷于言而敏于行"（Li, 2012, pp.52-53）。
 
@@ -106,7 +106,7 @@ updated: 2026-05-24
 > [!example]
 > **行勝於言 vs "沉默=被动"的西方误读**：见 [[Chinese Learner]] 的相关分析。Li 明确指出，将东亚学习者的沉默标签为"不投入、不愿参与或干脆从课堂退缩"是"严重错误"（grossly mistaken）。沉默不是缺席，而可能是一种对言语的严肃道德态度（Li, 2012, pp.52-53）。
 >
-> 清华[[The Great Learning|大学]]的[[University Motto|校训]]——"行勝於言"——刻在主楼前，是"他们大学引以为豪的精神"（Li, 2012, p.52）。
+> 清华大学的[[University Motto|校训]]——"行勝於言"——刻在主楼前，是"他们大学引以为豪的精神"（Li, 2012, p.52）。
 
 ---
 

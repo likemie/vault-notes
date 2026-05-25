@@ -71,7 +71,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：比较综述与描述性分析。作者识别美国和英国 43 个清算中心，按是否发布自身有效性评级、是否可在线访问、是否聚焦 pre-K 至[[The Great Learning|大学]]教育干预与教育结果筛选出 12 个教育清算中心（Wadhwa et al., 2024, p.5）。
+> - 方法：比较综述与描述性分析。作者识别美国和英国 43 个清算中心，按是否发布自身有效性评级、是否可在线访问、是否聚焦 pre-K 至大学教育干预与教育结果筛选出 12 个教育清算中心（Wadhwa et al., 2024, p.5）。
 > - 数据来源：2019 年 6 月至 2020 年 8 月，作者收集并编码 12 个清算中心网站资料，包括目标人群、政策焦点、资金来源、被评价干预类型、研究评级过程、单项研究与整体项目效果标准、项目纳入标准等（Wadhwa et al., 2024, p.5）。
 > - 样本：评级一致性分析最终包括 10 个清算中心的 1,359 个教育项目；两个清算中心被排除在量化一致性分析之外，原因是其项目评级方式或项目命名/状态不适合纳入同一比较框架（Wadhwa et al., 2024, pp.16–17）。
 > - 案例分析：作者进一步细读 [[Open Court Reading]]、[[Success for All]]、[[Peer-Assisted Learning Strategies]]、[[Quantum Opportunity Program]]、[[Communities in Schools]] 五个被多个清算中心评价的项目，以解释评级差异的具体来源（Wadhwa et al., 2024, pp.22–25）。
@@ -112,7 +112,7 @@ updated: '2026-05-18'
 >
 > 编码含义：0 = 标准不提该设计；1 = 只简要提及、无实施标准；2 = 描述设计但无设计专属实施标准；3 = 提供设计专属因果推断与实施质量标准（Wadhwa et al., 2024, pp.9–10, 29）。
 >
-> | 清算中心 | RCT | 一般 QED | RDD | ITS |
+> | 清算中心 | [[Randomised Controlled Trials|RCT]] | 一般 [[Quasi-Experimental Designs|QED]] | RDD | ITS |
 > |---|---:|---:|---:|---:|
 > | [[What Works Clearinghouse]] | 3 | 2 | 3 | 2 |
 > | [[Blueprints for Healthy Youth Development]] | 2 | 1 | 0 | 0 |
@@ -138,10 +138,10 @@ updated: '2026-05-18'
 > | 评级对象            | 单项研究；按结果域评价教育干预                                                         | 单项研究；具名项目 | 项目，不单独评级研究                                                     | 项目，不单独评级研究                                                                               |
 > | 项目/干预总体评级       | Positive; potentially positive; mixed; potentially negative; negative; no discernible effects；证据量标注为 medium to large 或 small | Model plus; model; promising; non-certified（证据不足/不确定、无效或有害）    | Strong、moderate、limited、insufficient evidence of effectiveness | Well-supported; supported; promising; evidence fails to demonstrate effect; NR           |
 > | 单项研究评级          | Meets standards without reservations; meets standards with reservations; does not meet standards                             | Certified 或 not certified                                      | 未说明                                                            | 提供研究摘要，但不为单项研究评级                                                                         |
-> | 最高研究质量/纳入规则     | 个体 RCT 低流失、cluster RCT 无偏倚风险、满足条件的 RDD；第二层级包括高流失 RCT 和满足基线等值等条件的 QED                                                         | 依据分配程序、流失、基线等值、统计方法、ITT、结果性质、样本量、测量信效度评估                       | 未说明                                                            | 工作人员使用研究设计、控制/比较组性质、至少一个结果测量的信效度、所有干预组件是否一起分析等标准                                         |
+> | 最高研究质量/纳入规则     | 个体 RCT 低流失、cluster RCT 无偏倚风险、满足条件的 RDD；第二层级包括高流失 RCT 和满足基线等值等条件的 QED                                                         | 依据分配程序、流失、基线等值、统计方法、[[Intent-to-Treat Analysis|ITT]]、结果性质、样本量、测量信效度评估                       | 未说明                                                            | 工作人员使用研究设计、控制/比较组性质、至少一个结果测量的信效度、所有干预组件是否一起分析等标准                                         |
 > | 最高项目评级所需研究数量与类型 | 至少两项研究，且至少一项为 "Meets WWC Evidence Standards Without Reservations"                                                            | 至少两项高质量 RCT，或一项高质量 RCT 加一项高质量 QED                              | 一项 RCT 或高质量 QED                                                | 至少两项非重叠样本的高质量 RCT                                                                        |
 > | 效果展示            | 指定结果上有正向效果                                                                                                                   | 指定结果上有正向效果                                                     | 指定结果上有正向效果                                                     | 指定结果上有正向效果                                                                               |
-> | 统计显著性           | 要求统计显著                                                                                                                       | 要求统计显著                                                         | 未说明                                                            | 未说明                                                                                      |
+> | [[Statistical Significance|统计显著性]]           | 要求统计显著                                                                                                                       | 要求统计显著                                                         | 未说明                                                            | 未说明                                                                                      |
 > | 医源性/有害效果        | 不能有统计显著负效应或实质重要负效应                                                                                                           | 在 Blueprints 核心使命领域内，认证研究不能发现医源性效果                             | 不报告                                                            | 不允许医源性或法律上有问题的效果                                                                         |
 > | 评估者独立性          | 未说明                                                                                                                          | 至少一项研究由独立于开发者和其他研究者的研究者完成                                      | 研究须由独立于开发者的评估者完成                                               | 未说明                                                                                      |
 > | 随访期             | 未说明                                                                                                                          | 至少一次显示干预后 12 个月持续效果                                            | 未说明                                                            | 一项 RCT 须显示至少 12 个月持续效果                                                                   |
@@ -223,7 +223,7 @@ updated: '2026-05-18'
 
 > [!success] 主要发现
 > - 12 个教育清算中心中，4 个只关注教育，8 个覆盖教育及其他社会政策领域；[[What Works Clearinghouse|WWC]] 和 [[Best Evidence Encyclopedia|BEE]] 覆盖更广泛的教育结果与干预，而 [[National Dropout Prevention Center|NDPC]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] 等机构聚焦更窄主题（Wadhwa et al., 2024, p.6）。
-> - 7 个清算中心由美国政府部门、研究机构或政府-[[The Great Learning|大学]]伙伴关系资助；WWC 已获得美国教育部超过 1 亿美元支持，远高于多数其他清算中心（Wadhwa et al., 2024, p.8）。
+> - 7 个清算中心由美国政府部门、研究机构或政府-大学伙伴关系资助；WWC 已获得美国教育部超过 1 亿美元支持，远高于多数其他清算中心（Wadhwa et al., 2024, p.8）。
 > - 所有清算中心都偏好 [[Randomised Controlled Trials|RCT]]，但对 RCT 执行质量的判定不同：只有 WWC 对集群层级随机分配提供深入说明，[[Social Programs That Work|SPTW]]、[[Promise Neighborhoods Research Consortium|PNRC]] 和 Blueprints 要求[[Intent-to-Treat Analysis|意向治疗分析]]，WWC 在特定条件下允许 CACE（Wadhwa et al., 2024, p.9）。
 > - 对 [[Quasi-Experimental Designs|QED]] 的处理比 RCT 更分散：所有清算中心承认一般 QED，但 RDD 与 ITS 仅被部分机构认真纳入；WWC 是将 RDD 和其他 QED 作为重要因果推断工具并制定标准的主要例外（Wadhwa et al., 2024, pp.9–11）。
 > - 1,359 个项目中 1,131 个（83.2%）只被一个清算中心评级，164 个（12.1%）被两个评级，45 个（3.3%）被三个评级，15 个（1.1%）被四个评级，4 个（0.3%）被五个评级（Wadhwa et al., 2024, p.18）。

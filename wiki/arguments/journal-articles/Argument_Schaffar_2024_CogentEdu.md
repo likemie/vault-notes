@@ -47,13 +47,13 @@ updated: '2026-05-18'
 > - [[Phenomenology]] — 用于解释"phenomenon"概念、生活世界、具身经验、主体间性，以及学习作为人与世界之间的存在性对话（Schaffar & Wolff, 2024, pp.2-3）。
 > - [[Bildung]] — 用于说明芬兰教育中开放未来、自我形成、共同体建设和教育内在目的的传统（Schaffar & Wolff, 2024, pp.5-7, 11）。
 > - [[Didaktik]] — 特别借 [[Wolfgang Klafki]] 的 [[Epochal Key Problems]] 说明课程如何围绕复杂社会问题组织学科深度与跨学科广度（Schaffar & Wolff, 2024, pp.6-7）。
-> - 建构主义 / [[Problem-Based Learning|PBL]] / IBL — 用于说明芬兰 [[Phenomenon-Based Learning|PhBL]] 在教育心[[Neo-Confucianism|理学]]中的近代发展，尤其是 Rauste-von Wright 的实用主义建构主义（Schaffar & Wolff, 2024, pp.7-8）。
+> - 建构主义 / [[Problem-Based Learning|PBL]] / IBL — 用于说明芬兰 [[Phenomenon-Based Learning|PhBL]] 在教育心理学中的近代发展，尤其是 Rauste-von Wright 的实用主义建构主义（Schaffar & Wolff, 2024, pp.7-8）。
 
 ## 研究方法
 
 > [!info] 研究方法
 > - 方法：历史与哲学综述。
-> - 数据/材料：芬兰课程文本、教育思想史、哲学文献、教育心[[Neo-Confucianism|理学]]文献，以及 [[SveaSus Project]] 背景说明。
+> - 数据/材料：芬兰课程文本、教育思想史、哲学文献、教育心理学文献，以及 [[SveaSus Project]] 背景说明。
 > - 论证方式：概念史梳理 + 理论传统比较 + 对当代政策话语的规范性批判。
 
 ## 核心论证
@@ -61,7 +61,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > 1. **[[Phenomenon-Based Learning|PhBL]] 的"现象"概念需要哲学澄清**：[[Phenomenology|现象学]]传统说明，现象不是一个中立对象，而是人与生活世界、身体、情绪和他人关系中的意义生成对象（Schaffar & Wolff, 2024, pp.2-3）。
 > 2. **PhBL 不是反学科，而是重新理解学科与现象的关系**：学科本身也是人类为了理解世界现象而逐渐形成的知识排序方式；因此 PhBL 不应抹平学科差异，而应让学生在学科传统和自身问题之间重新组织理解（Schaffar & Wolff, 2024, pp.4-5）。
-> 3. **芬兰 PhBL 同时继承大陆教育哲学和教育心[[Neo-Confucianism|理学]]**：它既有 [[Bildung]] 与 [[Didaktik]] 的开放未来和[[Epochal Key Problems|时代关键问题]]传统，也有 Rauste-von Wright、Dewey、Mead、[[Problem-Based Learning|PBL]] 和 IBL 的建构主义学习资源（Schaffar & Wolff, 2024, pp.5-8）。
+> 3. **芬兰 PhBL 同时继承大陆教育哲学和教育心理学**：它既有 [[Bildung]] 与 [[Didaktik]] 的开放未来和[[Epochal Key Problems|时代关键问题]]传统，也有 Rauste-von Wright、Dewey、Mead、[[Problem-Based Learning|PBL]] 和 IBL 的建构主义学习资源（Schaffar & Wolff, 2024, pp.5-8）。
 > 4. **当代政策语境制造悖论**：PhBL 被纳入芬兰课程时，也处在 OECD、EU、21 世纪技能、横向能力和经济竞争话语中；这些话语强调测量、问责和能力拆分，可能造成 [[Atomisation of Knowledge and Skills]]，破坏 PhBL 的整体教育意义（Schaffar & Wolff, 2024, pp.8-10）。
 > 5. **PhBL 的价值在于反思教育意义，而非提供快速方案**：PhBL 不是救世方案或 quick-fix-method，而是一种有潜力的教学工具，能帮助教育重新面对复杂挑战和教育自身目的（Schaffar & Wolff, 2024, p.11）。
 

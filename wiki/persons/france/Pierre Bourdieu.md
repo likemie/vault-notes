@@ -67,7 +67,7 @@ Bourdieu 的社会学围绕一个核心关切展开：**社会等级秩序的再
 > [!note]- 1930–1954 早年与求学
 > - 1930 年 8 月 1 日出生于法国 Pyrénées-Atlantiques 省 Denguin 小镇，Béarn 地区。父亲出身小农家庭，初为农业短工，后成为邮递员、邮政所所长；母亲的出身略高，来自 Lasseube 的业主家庭。
 > - 在 Pau 的 Lycée Louis-Barthou 寄宿就读，阅读和橄榄球成为其庇护所。因成绩优异受校长 Bernard Lamicq（少数 Béarn 籍巴黎高师校友之一）鼓励，1948 年进入巴黎 Lycée Louis-le-Grand 预科班。
-> - 1951 年被巴黎高等师范学院（ENS）录取。在萨特式存在主义和马克思主义主导法国哲学界的年代，Bourdieu 与同代许多高师学生一样转向当时哲学[[Champ|场域]]的"被支配一极"——以 Martial Guéroult 和 Jules Vuillemin 为代表的哲学史，以及 Gaston Bachelard 和 Georges Canguilhem 的认识论传统。在高师期间与 Jacques Derrida、Lucien Bianco、Louis Marin 为[[Tongxue|同学]]。
+> - 1951 年被巴黎高等师范学院（ENS）录取。在萨特式存在主义和马克思主义主导法国哲学界的年代，Bourdieu 与同代许多高师学生一样转向当时哲学[[Champ|场域]]的"被支配一极"——以 Martial Guéroult 和 Jules Vuillemin 为代表的哲学史，以及 Gaston Bachelard 和 Georges Canguilhem 的认识论传统。在高师期间与 Jacques Derrida、Lucien Bianco、Louis Marin 为同学。
 > - 1953 年在 Henri Gouhier 指导下完成关于莱布尼茨 *Animadversiones* 的硕士论文。同时旁听 Éric Weil 在 EPHE 的黑格尔法哲学研讨课。
 > - 1954 年以第七名通过哲学教师资格考试（agrégation de philosophie），在 Georges Canguilhem 指导下注册哲学博士论文（关于情感生活的时序结构），1957 年放弃。
 

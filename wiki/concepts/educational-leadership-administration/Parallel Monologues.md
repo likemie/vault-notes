@@ -68,7 +68,7 @@ updated: 2026-05-18
 > [!success] 实证发现
 > - Eacott 以其 2017 年关于"[[John Hattie|Hattie]] [[Cult of the Guru|大师崇拜]]"的论文为案例（n=1），描述了论文收到的反应模式：正面回应远多于负面，但 Eacott 承认"困扰我的始终是后者"（Eacott, 2019, p.775-776）
 > - 一位早期博士候选人通过个人博客和 LinkedIn 攻击该论文为"纯粹意见文章"和"虚构而非研究"，但从未直接告知 Eacott——"愿意攻击某人的研究但不告知对方"（Eacott, 2019, p.776）
-> - 另一人向 Eacott 所在[[The Great Learning|大学]]的科研副校长投诉，认为该论文是对 Hattie 和证据本位策略的"攻击"（Eacott, 2019, p.776）
+> - 另一人向 Eacott 所在大学的科研副校长投诉，认为该论文是对 Hattie 和证据本位策略的"攻击"（Eacott, 2019, p.776）
 > - Hattie 的回应（2017）被 Eacott 认为未能实质性参与其核心论证：Hattie 仅需"以 Ryle 的术语来说，这是'眨眼'的重演——关注几个词而不把握其底层生成意义"（Eacott, 2019, p.779）
 > - *[[School Leadership]] & Management* 编辑拒绝了 Eacott 对 Hattie 回应的再回应，理由是期刊有大量新作者等待发表——Eacott 认为这体现了该领域学术工作的逻辑中对对话和辩论的低优先级（Eacott, 2019, p.778）
 

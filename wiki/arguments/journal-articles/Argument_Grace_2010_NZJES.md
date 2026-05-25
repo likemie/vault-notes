@@ -37,7 +37,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> 以 Grace 本人 1988 年提出、后被纳入新西兰法律的"[[Critic and Conscience of Society]]"概念为规范性框架——[[The Great Learning|大学]]在民主社会中有独立的权力制衡角色，须"向权力说真话"，且这种真话必须基于系统性的公正分析、学术与实证研究（p.89）。
+> 以 Grace 本人 1988 年提出、后被纳入新西兰法律的"[[Critic and Conscience of Society]]"概念为规范性框架——大学在民主社会中有独立的权力制衡角色，须"向权力说真话"，且这种真话必须基于系统性的公正分析、学术与实证研究（p.89）。
 >
 > 以 Bernstein（1970）的经典论文 *Education Cannot Compensate for Society* 和 Roy Nash（2003）的 *Social Class and Education in New Zealand* 为"critic and conscience of society"的典范案例（p.91）。
 
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> 1. 新西兰将"[[Critic and Conscience of Society]]"写入[[The Great Learning|大学]]立法，在新自由主义的 1980 年代具有先见性（pp.89–90）
+> 1. 新西兰将"[[Critic and Conscience of Society]]"写入大学立法，在新自由主义的 1980 年代具有先见性（pp.89–90）
 > 2. [[John Hattie|Hattie]] 对 VL 争论的参与属于正常学术批评范畴，但未达到该角色的规范性要求（p.90）
 > 3. 将非学校因素排除在教育成就差异分析之外，虽然声称仅是方法论的"范围选择"，但产生了有利于维持现状的政治后果（p.91）
 
@@ -92,7 +92,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > - 作为个人述评而非系统研究，论证限于概念区分层面
 > - 未深入讨论 [[John Hattie|Hattie]] 排除非学校因素的方法论理由——即研究范围限定在"教育者能控制的因素"
-> - Grace 本人是该概念的原创者和新西兰[[The Great Learning|大学]]立法的推动者，其立场具有特定的制度和规范承诺
+> - Grace 本人是该概念的原创者和新西兰大学立法的推动者，其立场具有特定的制度和规范承诺
 
 ## 来源
 

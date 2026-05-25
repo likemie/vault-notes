@@ -50,7 +50,7 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **1990 年代末**：芬兰显性意义上的 PhBL 开始形成。Maijaliisa Rauste-von Wright 在赫尔辛基[[The Great Learning|大学]]教师教育中发展这一取向，将 Dewey 和 George Herbert Mead 的思想整合为实用主义建构主义，主张从课程预设的教学转向从学生自身世界观出发的学习（Schaffar & Wolff, 2024, pp.7-8）。
+> - **1990 年代末**：芬兰显性意义上的 PhBL 开始形成。Maijaliisa Rauste-von Wright 在赫尔辛基大学教师教育中发展这一取向，将 Dewey 和 George Herbert Mead 的思想整合为实用主义建构主义，主张从课程预设的教学转向从学生自身世界观出发的学习（Schaffar & Wolff, 2024, pp.7-8）。
 > - **2001**：Rauste-von Wright 将现象本位取向称为"课程的自我修正模型"，试图弥合理论与实践之间的传统裂缝；她强调学习总是情境化的、处境性的互动过程（Schaffar & Wolff, 2024, p.8）。
 > - **2014**：[[Finnish National Core Curriculum]] 纳入跨学科和现象本位学习取向，目标之一是让学习主题连接学生周边环境和经验，从而释放学生能动性（Schaffar & Wolff, 2024, p.2）。
 > - **2016**：课程英文版出版后，PhBL 在国际社交媒体和教育改革讨论中获得广泛关注，但也产生误解：许多讨论声称芬兰已取消传统学科，实际课程仍以传统学科为结构，只是把 PhBL 增补为实现课程总体目标和价值的一种方式（Schaffar & Wolff, 2024, p.2）。
@@ -68,7 +68,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Problem-Based Learning]] — PBL 和 inquiry-based learning 都是 PhBL 在芬兰常被援引的心[[Neo-Confucianism|理学]]/建构主义来源；但芬兰 PhBL 还扎根于 [[Phenomenology]]、existentialism、[[Bildung]] 和 [[Didaktik]]，因此不能仅还原为 PBL 或 IBL 的本土版本（Schaffar & Wolff, 2024, pp.2, 8）。
+> - vs [[Problem-Based Learning]] — PBL 和 inquiry-based learning 都是 PhBL 在芬兰常被援引的心理学/建构主义来源；但芬兰 PhBL 还扎根于 [[Phenomenology]]、existentialism、[[Bildung]] 和 [[Didaktik]]，因此不能仅还原为 PBL 或 IBL 的本土版本（Schaffar & Wolff, 2024, pp.2, 8）。
 > - vs 学科本位课程 — PhBL 不是取消学科，而是让学生在处理复杂现象时同时进入学科内部逻辑和跨学科问题空间（Schaffar & Wolff, 2024, pp.4, 11）。
 > - vs 能力本位课程 — PhBL 可被政策话语吸收到 21 世纪技能和横向能力框架中；若只服务于可测量能力和经济竞争，它会滑向 [[Atomisation of Knowledge and Skills]]，并丧失现象学与 Bildung 传统中的开放性和教育内在目的（Schaffar & Wolff, 2024, pp.9-11）。
 

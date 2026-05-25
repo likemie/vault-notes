@@ -40,14 +40,14 @@ updated: 2026-05-22
 ## 定义
 
 > [!info]
-> [[The Great Learning|大学]]校训是镌刻在西方大学徽章或中国大学主楼上的简约格言，浓缩了一所大学的核心教育使命。Li（2012）将校训视为一种文化分析的透镜——校训不仅是历史的残余，更是被每一代师生和管理者"重新审视、重新唤起"的活的文化表达（Li, 2012, pp.33-34, 54-55）。通过比较中西大学校训，Li 得以在最小空间内展示两种学习传统在最根本层次上的差异。
+> 大学校训是镌刻在西方大学徽章或中国大学主楼上的简约格言，浓缩了一所大学的核心教育使命。Li（2012）将校训视为一种文化分析的透镜——校训不仅是历史的残余，更是被每一代师生和管理者"重新审视、重新唤起"的活的文化表达（Li, 2012, pp.33-34, 54-55）。通过比较中西大学校训，Li 得以在最小空间内展示两种学习传统在最根本层次上的差异。
 
 ---
 
 ## Li (2012) 的中西校训对比
 
 > [!abstract]
-> 以下数据来自 Li 对中西顶尖[[The Great Learning|大学]]校训的 Google 搜索（Li, 2012, pp.33-34, 53-55）。
+> 以下数据来自 Li 对中西顶尖大学校训的 Google 搜索（Li, 2012, pp.33-34, 53-55）。
 
 ### 西方大学校训
 
@@ -56,7 +56,7 @@ updated: 2026-05-22
 | Harvard | *Veritas* | Truth | 真理 |
 | Yale | *Lux et veritas* | Light and truth | 光明与真理 |
 | Columbia | *In lumine Tuo videbimus lumen* | In Thy light shall we see light | 在你的光中我们必得见光 |
-| UC Berkeley | *Fiat lux* | Let there be light | 要有光 |
+| UC [[George Berkeley|Berkeley]] | *Fiat lux* | Let there be light | 要有光 |
 | Oxford | *Dominus illuminatio mea* | The Lord is my light | 主是我的光 |
 | Cambridge | *Hinc lucem et pocula sacra* | From here [we receive] light and sacred draughts | 此地乃启蒙之所与智慧之源 |
 | MIT | *Mens et manus* | Mind and hand | 心与手 |
@@ -78,7 +78,7 @@ updated: 2026-05-22
 | 厦门大学 | 自强不息，止于至善 | 《周易》+《大学》 | Strengthen self ceaselessly and strive for the highest good |
 | 台湾大学 | 敦品、励学、爱国、爱人 | — | Cultivate virtue, advance intellect; love one's country, love one's people |
 | 香港大学 | 明德格物 (*Sapietia et virtus*) | 《大学》 | Cultivate virtue and investigate things |
-| 香港中文大学 | 博文约礼 | 《论语》 | Learn broadly of culture and discipline learning with propriety |
+| 香港中文大学 | 博文约礼 | 《论语》 | Learn broadly of culture and discipline learning with [[Ritual Propriety|propriety]] |
 | 新加坡国立大学 | *Per ardua ad alta* | 拉丁语 | Through hard work, great things are achieved |
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-05-22
 西方校训的核心语义集中在：
 - **真理和光**（Veritas, Lux, Light）：以视觉隐喻指向对终极知识的追求——"真理和光传达了终极知识的相似含义"（Li, 2012, p.34）
 - **心智与自由探究**：MIT 的"心与手"、斯坦福的"自由之风吹拂"、芝加哥的"让知识不断增长"——强调心智能力、开放精神和批判性探究的自由
-- **知识的增长**：芝加哥[[The Great Learning|大学]]的校训以知识本身的扩张为终极关怀——知识增长本身就是目的，也是人类生活丰富的途径
+- **知识的增长**：芝加哥大学的校训以知识本身的扩张为终极关怀——知识增长本身就是目的，也是人类生活丰富的途径
 
 ### 2. 中国：修身、德行、勤奋
 
@@ -114,7 +114,7 @@ updated: 2026-05-22
 > [!success]
 > Li 在两处强调了一个相同的关键发现（Li, 2012, pp.34, 55）：
 
-对于西方[[The Great Learning|大学]]："有人可能认为这些是古老传统的遗迹。然而，对于找到的每一条校训，我都看到了多条与之相连的当代讨论。学生、教师、行政人员和校友都在积极参与对这些结晶化表达的解释和再解释……每一次新一代学生、教师和职员进入大学，其校训的含义都会被重新审视，其精神会被重新唤起。"（Li, 2012, p.34）
+对于西方大学："有人可能认为这些是古老传统的遗迹。然而，对于找到的每一条校训，我都看到了多条与之相连的当代讨论。学生、教师、行政人员和校友都在积极参与对这些结晶化表达的解释和再解释……每一次新一代学生、教师和职员进入大学，其校训的含义都会被重新审视，其精神会被重新唤起。"（Li, 2012, p.34）
 
 对于中国大学："这些校训同样享有与西方大学校训相似的持久影响。它们同样向学生、教师、行政人员和职员传达了各自大学的核心教育使命。它们的当代相关性同样可以通过 Google 搜索中每个大学社群对它们的热烈讨论来证明。"（Li, 2012, p.55）
 

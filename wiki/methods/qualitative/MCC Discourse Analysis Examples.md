@@ -527,7 +527,7 @@ updated: 2026-05-24
 >
 > 3. M: Is your good concentration the concentration to talk to your peer at
 >       the next desk?
->    母：你的专心是跟旁边[[Tongxue|同学]]说话的专心吗？
+>    母：你的专心是跟旁边同学说话的专心吗？
 >
 > 4. C: I listen to teachers.
 >    子：我听老师的。
