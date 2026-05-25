@@ -18,6 +18,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Global Citizenship]]"
   - "[[School Autonomy]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -109,7 +110,7 @@ updated: '2026-05-18'
 
 ### 借用行为的特征
 
-7. **选择性借用**：不照搬整个体系，而是选取适合国内议程的特定元素。正如 Forestier et al. (2016) 对 [[Liberal Studies|LS]] 与 IBDP 的比较所揭示的——LS 参照了 IBDP 的"跨学科整合"和"独立探究"（IES 对应 Extended Essay），但选择性地排除了 IBDP 的国际化知识观、全球多元文化开放态度和批判性哲学内核。LS 中的"跨学科"被改造为服务于香港本地政策议程（培养"通才"以适应与内地经济整合），而非 IBDP 原意中的全球公民培养。（Yan & Morris, 2025, p. 487）
+7. **选择性借用**：不照搬整个体系，而是选取适合国内议程的特定元素。正如 Forestier et al. (2016) 对 [[Liberal Studies|LS]] 与 IBDP 的比较所揭示的——LS 参照了 IBDP 的"跨学科整合"和"独立探究"（IES 对应 Extended Essay），但选择性地排除了 IBDP 的国际化知识观、全球多元文化开放态度和批判性哲学内核。LS 中的"跨学科"被改造为服务于香港本地政策议程（培养"通才"以适应与内地经济整合），而非 IBDP 原意中的[[Global Citizenship|全球公民]]培养。（Yan & Morris, 2025, p. 487）
 
 8. **翻译与变异**：Cowen (2009) 论证"改革在转移中变形"（reforms morph as they move）——借用的政策元素在进入本地语境时发生实质性形态转化。前述 LS 对 IBDP"跨学科"的改造即为典型案例：同一标签下承载了完全不同的教育目的和政治意图。
 

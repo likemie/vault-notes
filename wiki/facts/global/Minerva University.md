@@ -14,6 +14,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Global Citizenship]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Champ]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -82,7 +83,7 @@ Minerva 自主研发了云端教学平台"积极学习论坛"（Active Learning 
 
 ### 全球沉浸：七城市的去地方化
 
-学生四年本科期间在七个全球城市轮流居住和学习：旧金山 → 布宜诺斯艾利斯 → 柏林 → 伦敦 → 海得拉巴 → 首尔 → 台北（Minerva, 2020b, cited in Parreira do Amaral, 2022, p.48）。居住空间为共享式公寓而非传统宿舍——机构本身不拥有任何校园、教学楼或图书馆，完全脱离特定物理地点。这种"全球沉浸"以培养全球公民和领导力为公开目标，但其深层逻辑是去地方化：学生不属于任何一个城市或学术社区，他们只是依次经过各个全球枢纽（Thompson & Parreira do Amaral, 2022, p.3）。
+学生四年本科期间在七个全球城市轮流居住和学习：旧金山 → 布宜诺斯艾利斯 → 柏林 → 伦敦 → 海得拉巴 → 首尔 → 台北（Minerva, 2020b, cited in Parreira do Amaral, 2022, p.48）。居住空间为共享式公寓而非传统宿舍——机构本身不拥有任何校园、教学楼或图书馆，完全脱离特定物理地点。这种"全球沉浸"以培养[[Global Citizenship|全球公民]]和领导力为公开目标，但其深层逻辑是去地方化：学生不属于任何一个城市或学术社区，他们只是依次经过各个全球枢纽（Thompson & Parreira do Amaral, 2022, p.3）。
 
 ### 成本结构
 

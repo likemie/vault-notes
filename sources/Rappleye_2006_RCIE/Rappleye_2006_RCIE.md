@@ -3,7 +3,6 @@ citation: "Rappleye, J. (2006). Theorizing educational transfer: Toward a concep
 extracted_to:
   - "[[Cross-National Attraction]]"
   - "[[Externalization]]"
-  - "[[Policy Borrowing]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[David Phillips]]"
@@ -11,6 +10,7 @@ extracted_to:
   - "[[Gita Steiner-Khamsi]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Jurgen Schriewer]]"
+  - "[[Policy Borrowing]]"
 processed_date: 2026-05-06
 ---
 

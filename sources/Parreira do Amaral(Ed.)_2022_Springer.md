@@ -7,10 +7,10 @@ extracted_to:
   - "[[Knowledge-Based Economization]]"
   - "[[Horizon 2020 SSH Integration]]"
   - "[[Horizon Europe Missions]]"
-  - "[[Minerva University]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Marcelo Parreira do Amaral]]"
   - "[[Christiane Thompson]]"
+  - "[[Minerva University]]"
 processed_date: 2026-05-07
 ---
 

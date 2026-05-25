@@ -13,6 +13,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Graduate Attributes]]"
   - "[[Geopolitics of Knowledge]]"
@@ -94,7 +95,7 @@ Moisio 刻意使用 **human figures**（人形）而非 people（人）、indivi
 > - 将**枢纽城市**（如伦敦、旧金山、上海、新加坡）想象为"属于你的"空间——你是全球枢纽的潜在居民，即使你从未在那里生活过
 > - 能够同时运作**两条空间逻辑**：在全球人才市场上自由流动（流动逻辑），同时在进入一个枢纽后积极贡献于该枢纽的"创新生态系统"建设（固着逻辑）
 >
-> 这种空间心态不是天生的，而是被生产出来的——这正是高等教育介入的关键点。交换项目、海外实习、全球校友网络、英语授课的学位项目、"全球公民"的大学使命陈述——这些都不是中性的教育选择，而是塑造特定空间主体性的制度实践。
+> 这种空间心态不是天生的，而是被生产出来的——这正是高等教育介入的关键点。交换项目、海外实习、全球校友网络、英语授课的学位项目、"[[Global Citizenship|全球公民]]"的大学使命陈述——这些都不是中性的教育选择，而是塑造特定空间主体性的制度实践。
 >
 
 ## 大学作为地缘政治主体的生产场所
@@ -130,7 +131,7 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 - **创意创业者作为理想类型**：在[[Knowledge-Based Economization|知识经济化]]过程中，"创意创业者"（creative entrepreneur）被建构为理想的经济主体——"这一形象可以采取多种形式"——出现在集群、创意城市、创业城市、智慧城市、学习区域、创新中心等空间话语中（Moisio, 2022, p.27）
 - **大学的空间改造**：图书馆从智识闲暇的场所（Muße）转变为 makerspace 和创新创业中心，是大学作为地缘政治主体生产场所的物质证据（Thompson & Parreira do Amaral, 2022, pp.4–6）
 - **[[Spatial Sortings|空间分选]]的主体维度**：[[Spatial Sortings]] 不仅分选地点，也分选人群——能够被塑造为地缘政治主体的个体（"跨国认知精英"）成为赢家，无法或不愿接受这种塑造的人成为输家。Davidson & Rees-Mogg（1999）关于信息时代赢家与输家分化的预测，正是对地缘政治主体生产的不均衡后果的预见（Moisio, 2022, pp.31–32）
-- **[[Corporate Education|企业教育]]作为主体生产的新场所**：Hartmann (2022) 将 Moisio 的地缘政治主体概念延伸至[[Corporate Education|企业教育]]领域。借鉴 James Scott（1998）"Seeing Like a State"的分析逻辑，Hartmann 提出企业教育的深层功能是让员工学会**"像公司一样看世界"（seeing like a company）**——这是一种特定的空间心态：员工将全球市场视为理所当然的行动空间，将 MNC 的利益内化为自身的认知框架（Hartmann, 2022, p.180）。与大学通过交换项目、全球校友网络和"全球公民"话语塑造地缘政治主体类似（Moisio, 2022, pp.29–30），MNCs 通过统一的管理培训、全球高潜力人才项目和标准化操作流程，也在制造适应全球[[Knowledge-Based Economy|知识经济]]竞争的主体类型。详见 [[Argument_Hartmann_2022_CorporateEducation]] 第一步
+- **[[Corporate Education|企业教育]]作为主体生产的新场所**：Hartmann (2022) 将 Moisio 的地缘政治主体概念延伸至[[Corporate Education|企业教育]]领域。借鉴 James Scott（1998）"Seeing Like a State"的分析逻辑，Hartmann 提出企业教育的深层功能是让员工学会**"像公司一样看世界"（seeing like a company）**——这是一种特定的空间心态：员工将全球市场视为理所当然的行动空间，将 MNC 的利益内化为自身的认知框架（Hartmann, 2022, p.180）。与大学通过交换项目、全球校友网络和"[[Global Citizenship|全球公民]]"话语塑造地缘政治主体类似（Moisio, 2022, pp.29–30），MNCs 通过统一的管理培训、全球高潜力人才项目和标准化操作流程，也在制造适应全球[[Knowledge-Based Economy|知识经济]]竞争的主体类型。详见 [[Argument_Hartmann_2022_CorporateEducation]] 第一步
 - **"[[Promising Student|有前景的学生]]"作为教学领域的地缘政治主体变体**：Thompson 等人（2022, pp.221–226）分析的 [[Promising Student|有前景的学生]] 可被视为地缘政治主体在教学领域的具体变体。不同于 Moisio 关注的创意创业者和企业管理者，有前景的学生是在入学前就被 [[Online Self-Assessment|OSA]] 等数字化治理技术"装备"的主体形态——被装备的不是编程或跨文化沟通技能，而是一种特定的主体姿态：主动[[Matching|匹配]]意愿、持续自我优化、将学业成功视为个人风险管理。这一变体的特殊之处在于时间维度——主体形塑从入学前便开始运作，"[[Digital Optimum|完美起点]]"的理想形象在学生还未经受任何大学教育之前就被确立为参照标准（Thompson et al., 2022, pp.224–226）。
 
 ---

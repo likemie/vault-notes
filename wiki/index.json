@@ -1394,6 +1394,17 @@
     ]
   },
   {
+    "title": "Global Citizenship",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Global Citizenship.md",
+    "aliases": [
+      "全球公民",
+      "global citizenship attributes",
+      "global citizenship education",
+      "global citizen"
+    ]
+  },
+  {
     "title": "Global Regionalisms in Higher Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Global Regionalisms in Higher Education.md",

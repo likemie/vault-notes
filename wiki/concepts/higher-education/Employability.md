@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Graduate Attributes]]"
+  - "[[Global Citizenship]]"
   - "[[Economy of Experience]]"
   - "[[Credential Inflation]]"
   - "[[Social Engagement]]"
@@ -54,7 +55,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[Graduate Attributes]] — 毕业生特质涵盖更广泛的人文素养（全球公民、终身学习、学术素养等），就业能力是其中一个维度。毕业生特质从**大学机构视角**定义毕业生应具备的品质，就业力从**劳动力市场视角**定义求职者的竞争力（Wong et al., 2022, p.1341）
+> - vs [[Graduate Attributes]] — 毕业生特质涵盖更广泛的人文素养（[[Global Citizenship|全球公民]]、终身学习、学术素养等），就业能力是其中一个维度。毕业生特质从**大学机构视角**定义毕业生应具备的品质，就业力从**劳动力市场视角**定义求职者的竞争力（Wong et al., 2022, p.1341）
 > - vs [[Economy of Experience]] — 就业力是**目标概念**（求职者需要具备就业力），履历经济学是**过程机制**（大学生如何通过管理课余生活来积累就业力）（[[Yajun Zheng|郑雅君]]，2023）
 > - vs [[Credential Inflation]] — 文凭通胀是就业力从绝对概念转向相对概念的结构性前提：当大学文凭的交换价值缩水，就业力的比较性竞争加剧，"软"实力成为新战场（郑雅君，2023）
 

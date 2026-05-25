@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Organizational Actorhood]]"
   - "[[Knowledge Production]]"
+  - "[[Global Citizenship]]"
   - "[[Otherhood]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs 企业社会责任（[[Comprehensive School Reform Program|CSR]]） — CSR 长期仅在营利部门讨论，关注企业对股东、员工、社区和环境的责任；USR 将这一概念延伸至高等教育机构，但大学的"社会责任"有本质区别：企业的首要责任是对股东的经济回报，而大学作为公共知识机构，其社会责任内嵌于其核心使命——[[Knowledge Production|知识生产]]、人才培养和社会批判——之中，不是附加的"慈善"活动（Zapp, 2022, pp.152–153）
-> - vs 第三使命（third mission） — "第三使命"通常指大学在教学和研究之外的产业联系、技术转移和经济贡献；USR 涵盖更广的非经济维度——就业公平、校园可持续性、全球公民意识、对社会不平等的研究和倡导——是 [[Organizational Actorhood]] 中社会嵌入性维度的制度化表达（Zapp, 2022, pp.148–149, 152）
+> - vs 第三使命（third mission） — "第三使命"通常指大学在教学和研究之外的产业联系、技术转移和经济贡献；USR 涵盖更广的非经济维度——就业公平、校园可持续性、[[Global Citizenship|全球公民]]意识、对社会不平等的研究和倡导——是 [[Organizational Actorhood]] 中社会嵌入性维度的制度化表达（Zapp, 2022, pp.148–149, 152）
 > - vs [[Otherhood]] — otherhood 是解释"为什么"大学会承担 USR 的理论机制（大学作为"他者代理"的社会过程）；USR 是 otherhood 在大学组织层面的制度化表现（发布 CSR 报告、设立可持续发展办公室、加入 SDG 排名）。两者的关系犹如"动机"与"行为"（Zapp, 2022, pp.149, 152–153）
 
 ---
