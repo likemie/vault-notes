@@ -1202,6 +1202,16 @@
     ]
   },
   {
+    "title": "Scientific Attitude",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Scientific Attitude.md",
+    "aliases": [
+      "科学态度",
+      "kexue taidu",
+      "scientific spirit in education"
+    ]
+  },
+  {
     "title": "Side Effects in Education",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Side Effects in Education.md",
@@ -3948,6 +3958,15 @@
     ]
   },
   {
+    "title": "Jiang Menglin",
+    "type": "person",
+    "path": "wiki/persons/china/Jiang Menglin.md",
+    "aliases": [
+      "蒋梦麟",
+      "Jiang Menglin"
+    ]
+  },
+  {
     "title": "Jin Li",
     "type": "person",
     "path": "wiki/persons/china/Jin Li.md",
@@ -4910,6 +4929,25 @@
     ]
   },
   {
+    "title": "May Fourth Movement",
+    "type": "fact",
+    "path": "wiki/facts/china/May Fourth Movement.md",
+    "aliases": [
+      "五四运动",
+      "wusi yundong",
+      "May Fourth Incident"
+    ]
+  },
+  {
+    "title": "New Culture Movement",
+    "type": "fact",
+    "path": "wiki/facts/china/New Culture Movement.md",
+    "aliases": [
+      "新文化运动",
+      "xinwenhua yundong"
+    ]
+  },
+  {
     "title": "New Education Movement",
     "type": "fact",
     "path": "wiki/facts/china/New Education Movement.md",
@@ -4926,6 +4964,17 @@
     "aliases": [
       "千人计划",
       "Thousand Talents Plan"
+    ]
+  },
+  {
+    "title": "1904 Educational System",
+    "type": "fact",
+    "path": "wiki/facts/china/1904 Educational System.md",
+    "aliases": [
+      "癸卯学制",
+      "1904年学制",
+      "1904 school system",
+      "1904 education system"
     ]
   },
   {

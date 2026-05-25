@@ -12,13 +12,19 @@ tags:
   - theme/knowledge-transfer
   - theme/comparative-education
   - theory/transfer-frameworks
-related_concepts: []
+related_concepts:
+  - "[[Policy Borrowing]]"
+  - "[[Cross-National Attraction]]"
+  - "[[Scientific Attitude]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Robert Cowen]]"
+  - "[[John Dewey]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Zhou_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -60,8 +66,8 @@ updated: 2026-05-26
 > Zhou & Westberg (2024) 以 3T 框架分析[[John Dewey|杜威]]思想在民国中国的旅程（Zhou & Westberg, 2024, pp.611, 617–619）：
 >
 > - **Transfer（1919 年前后）**：杜威访华，伴随《新教育》杂志的传播，其民主教育思想和渐进实验方法被引入中国。
-> - **Translation（1922–1923）**：中国教育改革者将杜威思想转译为[[1922 Educational System Reform|1922 年学制]]的七项标准和 1923 年学分制课程，但在此过程中淡化了民主的政治内涵（以模糊的"平民"代替），并与杜威的渐进方法产生偏离。
-> - **Transformation（1923 年后）**：政治动荡和军阀割据使得激进改革难以为继，"科学态度"取代"民主"成为新教育标签，杜威被重新塑造为"科学态度"和渐进改良的支持者——一个可以服务于"国情优先"路线的杜威。
+> - **Translation（1922–1923）**：中国教育改革者将杜威思想转译为1922 年学制的七项标准和 1923 年学分制课程，但在此过程中淡化了民主的政治内涵（以模糊的"平民"代替），并与杜威的渐进方法产生偏离。
+> - **Transformation（1923 年后）**：政治动荡和军阀割据使得激进改革难以为继，"[[Scientific Attitude|科学态度]]"取代"民主"成为新教育标签，杜威被重新塑造为"科学态度"和渐进改良的支持者——一个可以服务于"国情优先"路线的杜威。
 
 ## 来源
 
