@@ -45,7 +45,7 @@ Total entries: **759**
 
 ### Comparative Education
 
-- [[21st Century Skills and Competencies Discourse]] — 由全球教育治理中的多边组织、国家政府和私营伙伴共同推动的技能话语，通过界定未来劳动力市场所需的关键能力来塑造教育政策与个体主体性，其核心特征包括4C技能的主导地位和对非认知能力的边缘化。
+- [[21st Century Skills and Competencies Discourse]] — 由全球教育治理中的多边组织、国家政府和私营伙伴共同推动的技能话语，通过界定未来劳动力市场所需的关键能力来塑造教育政策与个体主体性，其核心特征包括4C技能的主导地位和对非认知能力的边缘化
 - [[Confucian Heritage Cultures]] — 受儒家学习传统影响的文化区域分类，涵盖中国、香港、台湾、新加坡、日本、韩国、越南等国家和地区
 - [[Cooperative Competition]] — Fülöp 提出的竞争概念，在日本，匈牙利，美国比较研究中发现，东亚学生将竞争视为自我提升过程，而非零和对抗，挑战了西方竞争与合作二元对立的假设
 - [[Cross-National Attraction]] — 政策借用过程中外部教育经验之所以显得有吸引力的阶段性机制，涉及结构条件、行动者动机以及不同类型的借用火花
