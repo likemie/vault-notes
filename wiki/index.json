@@ -2157,6 +2157,16 @@
     ]
   },
   {
+    "title": "Imagined Community",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Imagined Community.md",
+    "aliases": [
+      "想象的共同体",
+      "想象的政治共同体",
+      "imagined political community"
+    ]
+  },
+  {
     "title": "Knowledge Sabotage",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Knowledge Sabotage.md",
@@ -3913,6 +3923,14 @@
       "Mengzi",
       "Meng Ke",
       "孟轲"
+    ]
+  },
+  {
+    "title": "Qian Mu",
+    "type": "person",
+    "path": "wiki/persons/china/Qian Mu.md",
+    "aliases": [
+      "钱穆"
     ]
   },
   {
@@ -6117,6 +6135,11 @@
     "title": "Argument_Vickers_2024_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Vickers_2024_CE.md"
+  },
+  {
+    "title": "Argument_Xu_2024_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md"
   },
   {
     "title": "Argument_Yu_2024_CE",
