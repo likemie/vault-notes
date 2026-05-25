@@ -40,7 +40,7 @@ updated: '2026-05-18'
 > [!note-] 概念演变
 > 英国选择性教育制度在 20 世纪中期达到顶峰，此后经历了大规模的综合学校改革，大部分地区取消了 11-plus 考试并转为综合中学体系。然而，英格兰仍有 163 所[[Grammar School|文法学校]]在地方层面保留选拔性招生（Bainbridge et al., 2022, p.3）。
 >
-> 2006 年《教育与督导法》（[[Education and Inspections Act 2006]]）明确禁止新建文法学校，但允许现有文法学校继续运作。2018 年，保守党政府推出 Selective Schools Expansion Fund（SSEF），允许现有文法学校申请额外资金扩大招生规模，实质上在不修改法律的前提下绕过了新建禁令（Bainbridge et al., 2022, p.3）。
+> 2006 年《教育与督导法》（[[Education and Inspections Act 2006]]）明确禁止新建文法学校，但允许现有文法学校继续运作。2018 年，保守党政府推出 [[Selective Schools Expansion Fund]]（SSEF），允许现有文法学校申请额外资金扩大招生规模，实质上在不修改法律的前提下绕过了新建禁令（Bainbridge et al., 2022, p.3）。
 >
 > 尽管学术研究一致表明选择性教育的效果至多为零甚至有害（见"实证发现"章节），恢复更广泛的选择性教育仍是英国保守党右翼的持续性竞选诉求（Bainbridge et al., 2022, p.3）。
 >

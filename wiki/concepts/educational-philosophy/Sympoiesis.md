@@ -50,7 +50,7 @@ updated: '2026-05-18'
 
 > [!abstract] 核心要素
 > - **"与-制造"而非"自-制造"**：制造（poiesis）的前缀从 auto-（自我）变为 sym-（共同），标志着本体论立场的根本转换——从独立存在到相互依存（Amos, 2022, p.62）
-> - **response-ability（回应-能力）**：sympoiesis 的伦理维度。不仅是"责任"（responsibility），更是"回应的能力"（ability to respond）——对他者需求保持敏感并以行动回应。这一概念延伸至跨物种的伦理关系（Amos, 2022, p.62）
+> - **[[Response-ability]]（回应-能力）**：sympoiesis 的伦理维度。不仅是"责任"（responsibility），更是"回应的能力"（ability to respond）——对他者需求保持敏感并以行动回应。这一概念延伸至跨物种的伦理关系（Amos, 2022, p.62）
 > - **跨物种联结**：sympoiesis 不限于人类之间。"critters"（Haraway 对一切生物的称呼）——细菌、蜜蜂、算法、人类——都在 sympoietic 过程中参与世界的制造（Amos, 2022, p.62）
 > - **"在稠密的当下好好生、好好死"**（live and die well together in a thick present）：sympoiesis 的伦理姿态是彻底关注当下的、非乌托邦的——不确定有没有未来，但确定有一个丰富的此时此地需要共同照料（Amos, 2022, p.62）
 >

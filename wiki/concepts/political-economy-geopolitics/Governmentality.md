@@ -57,7 +57,7 @@ updated: 2026-05-23
 ## 核心主张
 
 > [!tip]
-> 治理术（governmentality / gouvernementalité）是 Foucault 在其后期讲座中提出的权力分析概念，指一种以人口为对象、以政治经济学为知识形式、以安全配置（apparatus of security）为核心技术的治理理性。Thompson 等人（2022, p.226）在分析竞争性大学中的主体化时，将其核心界定为"行为的引导"（conduct of conduct）——权力不是通过强制和禁止直接作用于主体，而是通过塑造主体的自我理解和自我实践，使个体"自由地"做出符合治理目标的选择。
+> 治理术（governmentality / gouvernementalité）是 Foucault 在其后期讲座中提出的权力分析概念，指一种以人口为对象、以政治经济学为知识形式、以安全配置（apparatus of security）为核心技术的治理理性。Thompson 等人（2022, p.226）在分析竞争性[[The Great Learning|大学]]中的主体化时，将其核心界定为"行为的引导"（conduct of conduct）——权力不是通过强制和禁止直接作用于主体，而是通过塑造主体的自我理解和自我实践，使个体"自由地"做出符合治理目标的选择。
 
 > [!quote]
 > "治理术关涉的是'行为的引导'（conduct of conduct）——不是通过强制，而是通过塑造主体的自我理解来引导行为。"（Thompson et al., 2022, p.226）
@@ -68,7 +68,7 @@ updated: 2026-05-23
 
 ### 行为的引导（Conduct of Conduct）
 
-治理术的核心运作机制是"行为的引导"：权力不是压制或禁止，而是通过提供自我理解的框架——分类、评估标准、理想形象——使个体自行调整行为方向。Thompson 等人（2022, pp.220–221）指出，在竞争性大学中，治理术体现为让学生将自身理解为"学术企业家"——对自己的学业成功承担全部责任，自行管理风险、优化"学习组合"。
+治理术的核心运作机制是"行为的引导"：权力不是压制或禁止，而是通过提供自我理解的框架——分类、评估标准、理想形象——使个体自行调整行为方向。Thompson 等人（2022, pp.220–221）指出，在竞争性[[The Great Learning|大学]]中，治理术体现为让学生将自身理解为"学术企业家"——对自己的学业成功承担全部责任，自行管理风险、优化"学习组合"。
 
 ### 自我技术（Technologies of the Self）
 
@@ -149,7 +149,7 @@ Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘
 > [!success]
 > - [[Online Self-Assessment]] — 作为治理术工具（technology of governmentality），通过自我选择机制引导潜在学生
 > - [[Promising Student]] — 治理术视角下的主体形态分析：如何通过自我技术被"呼唤"出来
-> - [[Competitiveness in Higher Education]] — 竞争力作为地缘政治装置，通过[[Performance Indicators|绩效指标]]和排名塑造大学的治理术自我理解
+> - [[Competitiveness in Higher Education]] — 竞争力作为地缘政治装置，通过[[Performance Indicators|绩效指标]]和排名塑造[[The Great Learning|大学]]的治理术自我理解
 > - [[Geopolitics of Knowledge]] — Zelinka（2022）将其概念化为全球治理技术，通过远距治理的三重机制运作（问题化与个体化、授权[[Knowledge Production|知识生产]]、主体化与区分）
 > - [[21st Century Skills and Competencies Discourse]] — [[Single-Case Design|SCD]] 框架是远距治理的典型案例：通过界定"未来所需技能"远距引导各国教育政策和个体的自我塑造（Zelinka, 2022, pp.258-260）
 > - [[School Effectiveness]] — 学校效能研究在英国政策中的转译可被理解为一种把学校构造成可检查、可比较、可改进对象的治理技术；它通过测量、检查、排行榜和失败学校命名等机制，把学校与教师重新纳入政策管理（Ball, 2008, pp.663-665）

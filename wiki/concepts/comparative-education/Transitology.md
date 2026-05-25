@@ -52,7 +52,7 @@ updated: '2026-05-18'
 > - **同时性崩溃与重构**：国家机器、社会分层体系与政治愿景三重转型同时发生（Amos, 2022, p.53）
 > - **教育的象征性角色**：教育不仅是转型的受影响者，更是"摧毁过去、重新定义未来"的核心机制（Cowen, 2000, p.338）
 > - **国家中心到市场中心的转向**：从 polis-driven 到 market-driven，是现代教育到晚期现代教育的结构性转变标志（Amos, 2022, p.55）
-> - **过去-现在-未来的交织**：Cowen 观察到过去、现在和未来比严格线性更为交织。Amos 以 Günther Grass 的文学原则 VerGegenKunft（Vergangenheit/Gegenwart/Zukunft 的合成词）来说明这种纠缠（Amos, 2022, p.56）
+> - **过去-现在-未来的交织**：Cowen 观察到过去、现在和未来比严格线性更为交织。Amos 以 Günther Grass 的文学原则 [[Vergegenkunft]]（Vergangenheit/Gegenwart/Zukunft 的合成词）来说明这种纠缠（Amos, 2022, p.56）
 >
 
 ## 理论基础
@@ -65,7 +65,7 @@ updated: '2026-05-18'
 
 > [!example] 相关案例／政策
 > - 晚期现代教育中从国家中心向市场中心的转向——以[[New Public Management|新公共管理]]话语和实践在教育中的深度嵌入为典型表现（Amos, 2022, p.56）
-> - [[Regional University Alliances]] — 区域大学联盟（LERU、The GUILD、European University Alliances）是 transitology 所描述的市场中心转向在高等教育制度层面的具体表现：大学跨越国界组建战略联盟，在科研合作和人才竞争中运作，构成多层级地缘政治教育空间（Amos, 2022, pp.57–58）
+> - [[Regional University Alliances]] — 区域[[The Great Learning|大学]]联盟（LERU、The GUILD、European University Alliances）是 transitology 所描述的市场中心转向在高等教育制度层面的具体表现：大学跨越国界组建战略联盟，在科研合作和人才竞争中运作，构成多层级地缘政治教育空间（Amos, 2022, pp.57–58）
 > - [[Policy Borrowing]] — 政策借用是 transitology 所描述的结构条件下发生的具体政治行为：当 Cowen 双轴模型的纵轴从 polis-driven 翻转为 market-driven，国际参照和话语借用成为晚期现代性中教育政策制定的结构性特征——不是因为"最佳实践"更多了，而是因为合法化需求更依赖全球论述（Amos, 2022, pp.53–56）
 >
 

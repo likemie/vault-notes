@@ -32,7 +32,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> "Critic and Conscience of Society"（社会的批评者与良知）是新西兰高等教育立法中定义大学本质特征的一个概念。该短语由 [[Gerald Grace]] 于 1988 年提出，后被纳入 Gary Hawke 的《Learning for Life》报告（1989 年 2 月），并最终写入新西兰法律，成为大学的法定特征之一（Grace, 2010, p.89–90）。
+> "Critic and Conscience of Society"（社会的批评者与良知）是新西兰高等教育立法中定义[[The Great Learning|大学]]本质特征的一个概念。该短语由 [[Gerald Grace]] 于 1988 年提出，后被纳入 Gary Hawke 的《Learning for Life》报告（1989 年 2 月），并最终写入新西兰法律，成为大学的法定特征之一（Grace, 2010, p.89–90）。
 >
 > Grace 提出这一概念的核心意图是强调：在自由民主社会中，大学承担着对执政政治党派和意识形态的"权力制衡角色"（balance of power role），有责任"向权力说真话"（speak truth to power），而这种"真话"必须建立在系统性和公正的分析、学术与实证研究之上（Grace, 2010, p.89）。Grace 的关切在于当时已有证据表明（尤其 1980 年代的英国）大学正因越来越依赖政府资金和研究经费而面临丧失这一角色的危险——换句话说，大学正在被强大的政治和意识形态利益所"殖民"（Grace, 2010, p.90）。
 

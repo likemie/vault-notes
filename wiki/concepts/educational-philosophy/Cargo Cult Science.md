@@ -31,7 +31,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> Cargo cult science（货物崇拜科学）是物理学家 Richard Feynman（1974）提出的概念，指那些看起来和感觉起来像科学、但缺乏真正科学的认识论诚信（epistemic conscientiousness）的实践（Moberger, 2020）。
+> Cargo cult science（货物崇拜科学）是物[[Neo-Confucianism|理学]]家 Richard Feynman（1974）提出的概念，指那些看起来和感觉起来像科学、但缺乏真正科学的认识论诚信（epistemic conscientiousness）的实践（Moberger, 2020）。
 >
 > > "I'm talking about a specific, extra type of integrity that is not lying, but bending over backwards to show how you're maybe wrong, that you ought to do when acting as a scientist"（Feynman, 1974, p.12, cited in Johnson & Janzen, 2023, p.34）
 
@@ -53,7 +53,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - Johnson & Janzen (2023) 论证 [[John Hattie|Hattie]] 的 [[Visible Learning]] 是教育领域 cargo cult science 的典型案例：
->   - VL 使用专有的、未经同行评议的方法论（meta-meta-analysis），直接商业出版而非学术发表（p.35）
+>   - VL 使用专有的、未经同行评议的方法论（[[Meta-meta-analysis]]），直接商业出版而非学术发表（p.35）
 >   - 方法论解释极其简略——仅一段话说明了 homework 效应的计算方式，未提供计算公式（p.25-26）
 >   - Hattie 声称其理论无人反驳，但 VL 实际上并未提出可被实验证伪的理论（p.35）
 >   - VL 的 Metax 数据库呈现为典型科学数据集，但未阐明其数字的来源、包含的偏差和被掩盖的细微差别（p.35-36）

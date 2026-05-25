@@ -38,7 +38,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 神经可塑性（Neuroplasticity）指人类大脑在生命全过程中不断重新连接突触的能力——大脑不是一个固定的器官，而是一个始终处于"成为"过程中的动态系统。Larsen (2019) 将其视为学习的前提条件，但同时论证：正是神经可塑性的极度复杂性使得任何试图将学习简化为可见、可测量现象的尝试在科学上都不成立。
 >
-> > "The plasticity of the human brain is a precondition for learning, but it is always already embedded in delicate corporeal and sociological patterns. What goes on in the brain can never be directly depicted in the visible learning paradigm."（Larsen, 2019, p.6）
+> > "The plasticity of the human brain is a precondition for learning, but it is always already embedded in delicate corporeal and sociological patterns. What goes on in the brain can never be directly depicted in the [[Visible Learning]] paradigm."（Larsen, 2019, p.6）
 
 ## 核心要素
 

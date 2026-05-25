@@ -37,7 +37,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info]
-> "儒家文化圈"（Confucian Heritage Cultures, CHC）是 David Watkins 和 [[John Biggs]] 在其 1996 年合编的《The [[Chinese Learner]]》中提出的分类术语，涵盖受[[Confucian Learning Tradition|儒家学习传统]]影响的国家和地区：中国、香港、台湾、新加坡、日本、韩国和越南（Li, 2012, p.84）。该术语的提出服务于 [[Paradox of the Chinese Learner|中国学习者悖论]] 研究——为解释这些地区学习者看似低效的学习方式与持续高成就之间的张力，需要一个跨越单一国家边界、以共享文化传统为纽带的概念框架。
+> "儒家文化圈"（Confucian Heritage Cultures, CHC）是 [[David Watkins]] 和 [[John Biggs]] 在其 1996 年合编的《The [[Chinese Learner]]》中提出的分类术语，涵盖受[[Confucian Learning Tradition|儒家学习传统]]影响的国家和地区：中国、香港、台湾、新加坡、日本、韩国和越南（Li, 2012, p.84）。该术语的提出服务于 [[Paradox of the Chinese Learner|中国学习者悖论]] 研究——为解释这些地区学习者看似低效的学习方式与持续高成就之间的张力，需要一个跨越单一国家边界、以共享文化传统为纽带的概念框架。
 
 ---
 
@@ -66,7 +66,7 @@ Li（2012, pp.84-89）将 CHC 框架下的研究归纳为两条互补路径：
 
 > [!example]
 > ### CHC vs "Chinese"
-> CHC 以文化传统而非国族归属为划分依据。"Chinese learner" 可能被误解为仅指中国大陆学生，而 CHC 明确涵盖了虽非华人占多数但深受儒家文化影响的日本、韩国、越南（Li, 2012, p.84）。
+> CHC 以文化传统而非国族归属为划分依据。"[[Chinese Learner]]" 可能被误解为仅指中国大陆学生，而 CHC 明确涵盖了虽非华人占多数但深受儒家文化影响的日本、韩国、越南（Li, 2012, p.84）。
 
 ### CHC vs "East Asian"
 > "East Asian" 是地理标签，包含很多不受儒家传统影响的文化（如马来西亚、印度尼西亚）。CHC 以文化传统为纽带——因此越南（地理上属东南亚）被纳入，而马来西亚未被纳入。
@@ -88,4 +88,4 @@ Li（2012, pp.84-89）将 CHC 框架下的研究归纳为两条互补路径：
 
 ## 来源
 
-- Li_2012_Cambridge
+- [[Li_2012_Cambridge]]

@@ -29,7 +29,7 @@ updated: 2026-05-18
 ## 定义
 
 > [!info] 定义
-> 认识论警觉（Epistemological Vigilance）是 [[wiki-Pierre Bourdieu|Bourdieu]], Chamboredon & Passeron（1968/1991）在 *The Craft of Sociology* 中提出的概念，指社会科学家在研究中**持续保持对日常语言、自发理解和前科学概念的批判性警觉**。Eacott（2015）将其引入教育行政研究，论证由于教育行政学者与研究对象之间存在深层的嵌入关系，认识论警觉不是一次性的操作，而是终身的智识项目。
+> 认识论警觉（Epistemological Vigilance）是 [[Pierre Bourdieu|Bourdieu]], Chamboredon & Passeron（1968/1991）在 *The Craft of Sociology* 中提出的概念，指社会科学家在研究中**持续保持对日常语言、自发理解和前科学概念的批判性警觉**。Eacott（2015）将其引入教育行政研究，论证由于教育行政学者与研究对象之间存在深层的嵌入关系，认识论警觉不是一次性的操作，而是终身的智识项目。
 >
 > > "Epistemological vigilance is particularly necessary in the social sciences, where the separation between the everyday language and opinion of the spontaneous sociologist and the scientific discourse of the researcher is more blurred than elsewhere"（Bourdieu et al., 1968/1991，引自 Eacott, 2015, p.322）
 
@@ -56,9 +56,9 @@ updated: 2026-05-18
 >
 > **常识的持续回潮**
 >
-> "社会的常识或理所当然会持续再现（如果它曾经消失的话），因此学术中需要不断的警觉"（Eacott, 2015, p.322）。这使得认识论警觉是一个"永无止境"的任务——与物理学家的实验室与日常生活的分离相比，社会科学家更不可能实现彻底的分离，"部分因为学科的智识资源——在此例中为教育行政——很少提供有意义的工具来突破日常语言"（Eacott, 2015, p.322-323）。
+> "社会的常识或理所当然会持续再现（如果它曾经消失的话），因此学术中需要不断的警觉"（Eacott, 2015, p.322）。这使得认识论警觉是一个"永无止境"的任务——与物[[Neo-Confucianism|理学]]家的实验室与日常生活的分离相比，社会科学家更不可能实现彻底的分离，"部分因为学科的智识资源——在此例中为教育行政——很少提供有意义的工具来突破日常语言"（Eacott, 2015, p.322-323）。
 >
-> **[[wiki-Pierre Bourdieu|Bourdieu]] 的批判：实证主义的无辜幻想**
+> **[[Pierre Bourdieu|Bourdieu]] 的批判：实证主义的无辜幻想**
 >
 > > "The positivists dream of an epistemological state of perfect innocence papers over the fact that the crucial difference is not between a science that effects construction and one that does not, but between a science that does this without knowing it and one that, being aware of the work of construction, strives to discover and master as completely as possible the nature of its inevitable acts of construction and the equally inevitable effects those acts produce."（Bourdieu et al., 1993/1999, p.608，引自 Eacott, 2015, p.323）
 >
@@ -73,7 +73,7 @@ updated: 2026-05-18
 ## 理论基础
 
 > [!info] 理论基础
-> - [[wiki-Pierre Bourdieu]] — 认识论警觉是 Bourdieu 反思社会学的核心实践原则，与"参与性对象化"（participant objectivation）密切相关
+> - wiki-[[Pierre Bourdieu]] — 认识论警觉是 Bourdieu 反思社会学的核心实践原则，与"参与性对象化"（participant objectivation）密切相关
 
 ## 实证发现
 
@@ -84,8 +84,8 @@ updated: 2026-05-18
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **操作化困难**：如何在 6000 字期刊论文或 20 分钟会议报告中展示认识论警觉？Eacott（2015, p.322）承认这种警觉"在 6000 字期刊论文或 20 分钟会议报告中尤其困难，更不用说大学和学术排名系统中'时钟'时间（出版输出）的特权化"
-> - **与知识普及的张力**：持续的警觉导致文本复杂、难以进入公共话语。[[wiki-Pierre Bourdieu|Bourdieu]] 后期转向公共知识分子写作（如 *On Television*、*Acts of Resistance*）体现了这一张力——警觉的要求与"被听到"之间存在实际矛盾（Eacott, 2015, p.320, note 8）
+> - **操作化困难**：如何在 6000 字期刊论文或 20 分钟会议报告中展示认识论警觉？Eacott（2015, p.322）承认这种警觉"在 6000 字期刊论文或 20 分钟会议报告中尤其困难，更不用说[[The Great Learning|大学]]和学术排名系统中'时钟'时间（出版输出）的特权化"
+> - **与知识普及的张力**：持续的警觉导致文本复杂、难以进入公共话语。[[Pierre Bourdieu|Bourdieu]] 后期转向公共知识分子写作（如 *On Television*、*Acts of Resistance*）体现了这一张力——警觉的要求与"被听到"之间存在实际矛盾（Eacott, 2015, p.320, note 8）
 
 ## 来源
 

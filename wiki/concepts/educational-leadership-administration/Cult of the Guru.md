@@ -94,7 +94,7 @@ updated: 2026-05-18
 ## 理论基础
 
 > [!info] 理论基础
-> - [[wiki-Pierre Bourdieu]] — 本体论共谋（ontological complicity）：学者对周围世界的嵌入具身性关系使其难以与现状决裂，"研究潮流而非追逐潮流"（Eacott, 2017, p.414, citing Birkinshaw et al., 2014; Bourdieu & Wacquant, 1992）
+> - wiki-[[Pierre Bourdieu]] — 本体论共谋（ontological complicity）：学者对周围世界的嵌入具身性关系使其难以与现状决裂，"研究潮流而非追逐潮流"（Eacott, 2017, p.414, citing Birkinshaw et al., 2014; Bourdieu & Wacquant, 1992）
 > - Callahan（1962）*Education and the Cult of Efficiency* — 历史框架：20 世纪美国教育被效率崇拜渗透的分析框架，Eacott 将其类比应用于当代澳大利亚的"[[John Hattie|Hattie]] 崇拜"
 
 ## 实证发现
@@ -102,14 +102,14 @@ updated: 2026-05-18
 > [!success] 实证发现
 > - Eacott 在硕士课程中连续多届遇到自称为"[[John Hattie|Hattie]] 学校"教师的学生——表明 Hattie 的工作在论文发表前已在澳大利亚学校系统中成为霸权性存在（Eacott, 2019, p.777）
 > - Eacott 2017 年论文发表后下载超过 1000 次，持续收到来自学校一线教育者的邮件分享"大师崇拜对其工作的影响"故事（Eacott, 2019, p.776）
-> - 论文引发的争议本身成为大师崇拜现象的经验证据——包括向大学科研副校长的正式投诉（Eacott, 2019, p.776）
+> - 论文引发的争议本身成为大师崇拜现象的经验证据——包括向[[The Great Learning|大学]]科研副校长的正式投诉（Eacott, 2019, p.776）
 
 ## 争议与批评
 
 > [!warning] [[John Hattie|Hattie]]（2017）的直接回应
 > Hattie（2017）在同一期刊发表题为"Educators are not uncritical believers of a cult figure"的回应，从四个层面为自身辩护：
 >
-> **（1）援引学术批评传统。** Hattie 以 Said（1993）的公共知识分子角色和新西兰《教育法》的"critic and conscience of society"条款为学术批评的伦理基础，主张"每个范式或猜想都应被测试至毁灭，其作者、追随者和使用者应当面对公共问责"（Hattie, 2017, p.427-428）。Hattie 声称他将 Snook et al.（2009）——"最好的批评之一"——用作自身课程的教学文本，以此论证自己欢迎批评（p.428）。
+> **（1）援引学术批评传统。** Hattie 以 Said（1993）的公共知识分子角色和新西兰《教育法》的"[[Critic and Conscience of Society]]"条款为学术批评的伦理基础，主张"每个范式或猜想都应被测试至毁灭，其作者、追随者和使用者应当面对公共问责"（Hattie, 2017, p.427-428）。Hattie 声称他将 Snook et al.（2009）——"最好的批评之一"——用作自身课程的教学文本，以此论证自己欢迎批评（p.428）。
 >
 > **（2）以 Popper 证伪主义定位 VL。** Hattie 声称 Popper（1959）的证伪主义是其方法论的核心哲学基础——VL 包含许多"大胆猜想"，因此"容易被证伪"。他列举了一系列声称"尚未被任何批评者证伪"的核心猜想：通过学生眼睛看学习、学生成为自身教师、成功标准的价值、"Know thy impact"的前提、关系与信任的角色、给予与接收[[Feedback|反馈]]的力量、学科语境下学习策略的焦点、使学校成为邀请性场所、关注学生学习生活（Hattie, 2017, p.428）。
 >

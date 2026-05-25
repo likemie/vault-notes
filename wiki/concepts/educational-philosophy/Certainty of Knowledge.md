@@ -95,4 +95,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- Li_2012_Cambridge
+- [[Li_2012_Cambridge]]

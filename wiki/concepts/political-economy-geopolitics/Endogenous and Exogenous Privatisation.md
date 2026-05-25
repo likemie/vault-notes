@@ -77,7 +77,7 @@ O'Neill 等（2016, pp.8–12）记录的九项新西兰近十余年的现代化
 **外生私有化**的例证：
 - asTTle/e-asTTle 向私营投资伙伴部分出售商业化权利
 - PPP 学校合同（Learning Infrastructure Partners / Future Schools Partners）
-- Partnership Schools Kura Hourua（[[Partnership Schools Kura Hourua|特许学校]]）— 详见 [[Partnership Schools Kura Hourua]]
+- [[Partnership Schools Kura Hourua]]（[[Partnership Schools Kura Hourua|特许学校]]）— 详见 [[Partnership Schools Kura Hourua]]
 - Teach First New Zealand — 私营慈善信托提供就业型教师教育 — 详见 Teach First New Zealand ([[Teach First New Zealand Ako Mātātupu|TFNZ]] 2011)
 - 学校支持服务竞争性外包（Te Toi Tupu 联合体）
 - KickStart Breakfast 政府与企业共同出资
@@ -92,7 +92,7 @@ Rizvi (2022) 将这一概念框架应用于[[Internationalization of Higher Educ
 
 Rizvi 描绘了一个自我强化的因果链条：
 
-1. **国际学生市场收入**：西方大学（特别是澳大利亚和英国）成功招收大量全额付费国际学生，特别是来自日益增长的亚洲中产阶级（Rizvi, 2022, pp.95–97）
+1. **国际学生市场收入**：西方[[The Great Learning|大学]]（特别是澳大利亚和英国）成功招收大量全额付费国际学生，特别是来自日益增长的亚洲中产阶级（Rizvi, 2022, pp.95–97）
 2. **政府公共拨款削减**："随着国际学生学费成为主要收入来源，政府不再感到有必要为高等教育机构提供所需的公共资金"（Sandel, 2012, cited in Rizvi, 2022, p.97）
 3. **大学被迫企业化**：公共资金的减少迫使大学采用企业化运营模式——包括 NPM 的管理技术、市场导向的战略规划、以及对国际排名和品牌建设的投入（Rizvi, 2022, pp.97–98）。NPM 的具体运作详见 NPM > 在高等教育国际化中的运作
 4. **企业化加深市场依赖**：企业化运营反过来使大学更依赖国际学生市场收入来维持运作 → 加固了第 1 步

@@ -57,8 +57,8 @@ updated: '2026-05-18'
 > [!note-] 概念演变
 > Amos 追溯了两条后人类主义的当代思想脉络（Amos, 2022, pp.60–63）：
 >
-> - **Haraway 脉络（2016）**：以 *Staying with the Trouble* 为代表，核心概念为 sympoiesis（共同制造）、response-ability（[[Response-ability|回应能力]]）、SF（线绳图案／[[SF (Haraway)|推测性编造]]／科幻／迄今）。立场是"后救赎、后乐观"——彻底关注当下，"可能没有未来，但一定有一个丰富的此时此地"
-> - **Escobar 脉络（2018）**：以 *Designs for the Pluriverse* 为代表，核心概念为 pluriverse（多元世界）和 transition design（[[Transition Design|转型设计]]）。语气比 Haraway 更充满希望——相信通过结社和连接，地方方案可以在更大尺度上起作用
+> - **Haraway 脉络（2016）**：以 *Staying with the Trouble* 为代表，核心概念为 [[Sympoiesis]]（共同制造）、[[Response-ability]]（[[Response-ability|回应能力]]）、SF（线绳图案／[[SF (Haraway)|推测性编造]]／科幻／迄今）。立场是"后救赎、后乐观"——彻底关注当下，"可能没有未来，但一定有一个丰富的此时此地"
+> - **Escobar 脉络（2018）**：以 *Designs for the Pluriverse* 为代表，核心概念为 pluriverse（多元世界）和 [[Transition Design]]（[[Transition Design|转型设计]]）。语气比 Haraway 更充满希望——相信通过结社和连接，地方方案可以在更大尺度上起作用
 > - **Weil/Supiot 脉络（2019）**：Simone Weil 的 [[Mondialisation|mondialisation]]（世界化），恢复"全球化"一词在 Decroly (1929) 那里的原初含义——作为一种把握整体现实的认知功能，而非市场、劳动力灵活化和文化同质化的同义词
 >
 > Amos 指出这三条脉络共享对全球化的怀疑、对后增长的追求、以及对人类中心主义的根本批判。它们与非洲 [[Ubuntu]]（"我存在，因为我们存在"）和拉丁美洲 [[Buen Vivir]]（与自然和共同体和谐共处的"好好生活"）具有"家族相似性"（Amos, 2022, p.64）。
@@ -69,7 +69,7 @@ updated: '2026-05-18'
 > [!abstract] 核心要素
 > - **去人类中心**：彻底拒绝"人是万物的尺度"。在 Haraway 的世界里，人类只是巨大循环过程中的一个物种（Amos, 2022, p.62）
 > - **关系性本体论**：存在不是个体的属性，而是在与他者的关系中构成。"与他人一起、[[Humility in Learning|谦逊]]地、有[[Response-ability|回应能力]]地存在"是后人类主义的基本伦理姿态（Amos, 2022, p.62）
-> - **sympoiesis > [[Autopoiesis|autopoiesis]]**：Haraway 以"共同制造"取代 Maturana & Varela 的"自我制造"，认为后者过度强调自我指涉性而忽视相互依存（Amos, 2022, pp.62–63）
+> - **[[Sympoiesis]] > [[Autopoiesis|autopoiesis]]**：Haraway 以"共同制造"取代 Maturana & Varela 的"自我制造"，认为后者过度强调自我指涉性而忽视相互依存（Amos, 2022, pp.62–63）
 > - **世界制造（world making）**：世界不是给定的，而是通过叙事、设计和实践被持续制造——Haraway 通过 [[SF (Haraway)]]（讲故事），Escobar 通过设计
 > - **自我的非固化（non-solidity of the self）**：Escobar 援引 Varela (1999) 的伦理诀窍——自我不是固定的实体，而是分布式系统通过社会交互涌现的"虚拟自我"。接受这一点，产生一种根本性的关爱心态（Amos, 2022, p.63）
 >
@@ -77,7 +77,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Autopoiesis]] — Maturana & Varela 的自创生理论被 Escobar 引入社会转型分析，但 Haraway 以 sympoiesis 对其提出批评
+> - [[Autopoiesis]] — Maturana & Varela 的自创生理论被 Escobar 引入社会转型分析，但 Haraway 以 [[Sympoiesis]] 对其提出批评
 > - [[Sympoiesis]] — Haraway 的替代概念，是后人类主义伦理的核心理论表达
 >
 
