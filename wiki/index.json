@@ -5164,20 +5164,13 @@
     ]
   },
   {
-    "title": "National Security Law Impact on Hong Kong Education",
+    "title": "National Security Law",
     "type": "fact",
-    "path": "wiki/facts/hongkong/National Security Law Impact on Hong Kong Education.md",
+    "path": "wiki/facts/hongkong/National Security Law.md",
     "aliases": [
-      "国安法对香港教育的影响"
-    ]
-  },
-  {
-    "title": "Replacement of LS by CSD",
-    "type": "fact",
-    "path": "wiki/facts/hongkong/Replacement of LS by CSD.md",
-    "aliases": [
-      "Replacement of LS by CSD 2021",
-      "2021通识改公民与社会发展"
+      "香港国安法",
+      "国安法对香港教育的影响",
+      "National Security Law Impact on Hong Kong Education"
     ]
   },
   {
@@ -5199,15 +5192,6 @@
     ]
   },
   {
-    "title": "Introduction of Liberal Studies",
-    "type": "fact",
-    "path": "wiki/facts/hongkong/Introduction of Liberal Studies.md",
-    "aliases": [
-      "Introduction of Liberal Studies 2009",
-      "2009通识教育科引入"
-    ]
-  },
-  {
     "title": "Liberal Studies",
     "type": "fact",
     "path": "wiki/facts/hongkong/Liberal Studies.md",
@@ -5225,11 +5209,12 @@
     ]
   },
   {
-    "title": "National Education in Hong Kong",
+    "title": "National Education",
     "type": "fact",
-    "path": "wiki/facts/hongkong/National Education in Hong Kong.md",
+    "path": "wiki/facts/hongkong/National Education.md",
     "aliases": [
-      "香港国民教育"
+      "香港国民教育",
+      "National Education in Hong Kong"
     ]
   },
   {
