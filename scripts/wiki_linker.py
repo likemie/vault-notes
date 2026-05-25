@@ -394,6 +394,8 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
     for line in text.splitlines(keepends=True):
         start, end = pos, pos + len(line)
         stripped = line.lstrip()
+        if is_markdown_table_line(line) and TABLE_UNSAFE_CELL_RE.search(line):
+            add(start, end)
         if re.match(r"^#{1,6}\s", stripped):
             add(start, end)
         if re.match(r"^>\s*\[!quote\]", stripped, re.IGNORECASE):

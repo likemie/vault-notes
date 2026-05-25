@@ -17,53 +17,48 @@ tags:
   - theme/cultural-psychology
 related_concepts:
   - "[[Faust]]"
-  - "[[Certainty of Knowledge]]"
-  - "[[Mind and Its Wonders]]"
-  - "[[Examined Life]]"
-  - "[[Western Learner]]"
-  - "[[Take the World Upon Oneself]]"
   - "[[Learning Virtues]]"
-  - "[[Action Better Than Words]]"
-  - "[[Chinese Learner]]"
-  - "[[Examination Hell]]"
-  - "[[Ideal Learner]]"
-  - "[[Heart and Mind for Wanting to Learn]]"
-  - "[[Rote Learning]]"
   - "[[Familiarization]]"
   - "[[Refined Mastery]]"
-  - "[[Pride in Learning]]"
-  - "[[Humility in Learning]]"
   - "[[Nerd]]"
-  - "[[Talent Assumption]]"
-  - "[[Intellectual-Social Divide]]"
-  - "[[Zero-Sum Competition]]"
-  - "[[Codeswitcher]]"
   - "[[Tongxue]]"
-  - "[[Parental Cognitive and Affective Socialization]]"
-  - "[[Devil's Advocate]]"
-  - "[[Sense of Shame]]"
+  - "[[Socratic Tutoring Style]]"
+  - "[[Confucian Tutoring Style]]"
   - "[[Enculturation]]"
-  - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
+  - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Humility in Learning]]"
+  - "[[Western Learner]]"
+  - "[[Chinese Learner]]"
+  - "[[Examined Life]]"
   - "[[Feedback]]"
   - "[[University Motto]]"
   - "[[Externalization]]"
   - "[[Self-Efficacy]]"
+  - "[[Certainty of Knowledge]]"
+  - "[[Mind and Its Wonders]]"
+  - "[[Action Better Than Words]]"
   - "[[Five Cardinal Relationships]]"
   - "[[Filial Piety]]"
   - "[[Affect-Respect and Ought-Respect]]"
   - "[[Ritual Propriety]]"
+  - "[[Sense of Shame]]"
   - "[[Benevolence]]"
   - "[[Junzi]]"
   - "[[Sage]]"
   - "[[Self-Cultivation]]"
+  - "[[Take the World Upon Oneself]]"
+  - "[[Pride in Learning]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Establishing One's Will]]"
+  - "[[Examination Hell]]"
+  - "[[Rote Learning]]"
   - "[[Learning Gap]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Effective Teaching]]"
   - "[[Surface and Deep Learning]]"
   - "[[Intrinsic vs Extrinsic Motivation]]"
+  - "[[Ideal Learner]]"
   - "[[Emic and Etic]]"
   - "[[Mind-Oriented Learning Process]]"
   - "[[Virtue-Oriented Learning Process]]"
@@ -74,15 +69,20 @@ related_concepts:
   - "[[International Education]]"
   - "[[Academic Engagement]]"
   - "[[Tall Poppy Syndrome]]"
+  - "[[Codeswitcher]]"
+  - "[[Zero-Sum Competition]]"
+  - "[[Talent Assumption]]"
+  - "[[Intellectual-Social Divide]]"
   - "[[Tracking]]"
   - "[[Doxa]]"
-  - "[[Socratic Tutoring Style]]"
-  - "[[Confucian Tutoring Style]]"
+  - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Cognitive Source]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"
   - "[[Listening-Oriented Learning]]"
+  - "[[Devil's Advocate]]"
   - "[[Xiaokang]]"
+  - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
@@ -98,19 +98,19 @@ related_methods:
   - "[[Mother-Child Conversation]]"
   - "[[MCC Discourse Analysis Examples]]"
 related_facts:
-  - "[[PISA]]"
   - "[[Civil Service Examination]]"
+  - "[[PISA]]"
   - "[[Cram Schools]]"
   - "[[Three Excellences]]"
 related_persons:
-  - "[[Confucius]]"
   - "[[Mencius]]"
-  - "[[Socrates]]"
+  - "[[Confucius]]"
   - "[[Xunzi]]"
   - "[[Bertrand Russell]]"
   - "[[Plato]]"
   - "[[John Locke]]"
   - "[[Immanuel Kant]]"
+  - "[[Socrates]]"
   - "[[René Descartes]]"
   - "[[George Berkeley]]"
   - "[[Jean-Jacques Rousseau]]"
@@ -161,14 +161,14 @@ updated: 2026-05-24
 | 阶段 | 章节 | 核心问题 | 关键产出 |
 |------|------|---------|---------|
 | 建立问题 | Ch1 [[Faust]] | 差异有多大？ | 从跨文化冲击发现两种学习模型 |
-| | Ch2 两种知识传统 | 差异从哪来？ | 心智导向（西方）vs 美德导向（儒家）的根源 |
-| | Ch3 传统还在吗？ | 仍在影响今天吗？ | 排除替代解释 + 实证验证：传统仍在运作 |
-| 展开分析 | Ch4 学习过程 | 怎么学？ | 心智活动 vs [[Learning Virtues\|学习美德]]（熟→练→精） |
-| | Ch5 学习情感 | 感受什么？ | 好奇→探究→骄傲 vs 诚心→投入→谦逊 |
-| | Ch6 同伴文化 | 同伴怎么看？ | [[Nerd\|nerd 地狱]] vs [[Tongxue\|tongxue 天堂]] |
-| | Ch7 家庭社会化 | 信念从哪来？ | [[Socratic Tutoring Style\|苏格拉底式]] vs [[Confucian Tutoring Style\|儒家式]]辅导 |
-| | Ch8 说话与沉默 | 为什么沉默？ | 两套"说话-沉默"体系，沉默 ≠ 缺陷 |
-| 收束意义 | Ch9 全球化 | 差异会消失吗？ | [[Enculturation\|濡化]] + 身份嵌入 → 文化持久性 |
+| 建立问题 | Ch2 两种知识传统 | 差异从哪来？ | 心智导向（西方）vs 美德导向（儒家）的根源 |
+| 建立问题 | Ch3 传统还在吗？ | 仍在影响今天吗？ | 排除替代解释 + 实证验证：传统仍在运作 |
+| 展开分析 | Ch4 学习过程 | 怎么学？ | 心智活动 vs [[Learning Virtues]]（[[Familiarization]]（熟）→练→[[Refined Mastery]]（精）） |
+| 展开分析 | Ch5 学习情感 | 感受什么？ | 好奇→探究→骄傲 vs 诚心→投入→谦逊 |
+| 展开分析 | Ch6 同伴文化 | 同伴怎么看？ | [[Nerd]] 地狱 vs [[Tongxue]] 天堂 |
+| 展开分析 | Ch7 家庭社会化 | 信念从哪来？ | [[Socratic Tutoring Style]] vs [[Confucian Tutoring Style]] 辅导 |
+| 展开分析 | Ch8 说话与沉默 | 为什么沉默？ | 两套"说话-沉默"体系，沉默 ≠ 缺陷 |
+| 收束意义 | Ch9 全球化 | 差异会消失吗？ | [[Enculturation]] + 身份嵌入 → 文化持久性 |
 
 > [!tip]
 > ### 论证链
