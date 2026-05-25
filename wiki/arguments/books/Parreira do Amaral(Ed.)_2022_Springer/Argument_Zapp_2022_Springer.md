@@ -137,7 +137,7 @@ Zapp 特别指出一个有趣的细节：THE 影响力排名允许大学自选 1
 
 Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——追问这种亲密关系的代价（pp.154–157）：
 
-**风险一：科学的政治化（politicization of science）**。知识的政治化是"知识的科学化"（[[Scientization of Politics|scientization of politics]]）的反面。当政策制定者越来越依赖科学证据时，他们也开始学会了操纵证据。Zapp 识别了三级恶化（p.155）：
+**风险一：科学的政治化（politicization of science）**。知识的政治化是"知识的科学化"（[[Scientization of Politics]]）的反面。当政策制定者越来越依赖科学证据时，他们也开始学会了操纵证据。Zapp 识别了三级恶化（p.155）：
 
 1. **[[Epistemic Drift|认识漂移]]（epistemic drift, Elzinga, 1997）**：研究者逐渐把自己的研究兴趣对齐资助方的偏好，放弃了自己的学术议程——这是 [[Epistemic Governance|知识治理]]的内在风险之一。"反正申请 SDG 相关的经费容易中，我就做 SDG 相关的研究吧。"
 2. **证据的选择性使用和制造**：政策制定者只引用支持自己立场的科学证据（Steiner-Khamsi et al., 2020）；有政治倾向的研究者可能预设结论地"制造"证据（Zapp, 2020a）。——"我知道[[Endogenous and Exogenous Privatisation|教育私有化]]好，我就做一项研究来'证明'它好。"

@@ -5,7 +5,6 @@ extracted_to:
   - "[[Policy Borrowing]]"
   - "[[2012 Moral and National Education Controversy]]"
   - "[[2019 Hong Kong Protests and Education]]"
-  - "[[Citizenship and Social Development]]"
   - "[[Introduction of Liberal Studies]]"
   - "[[National Security Law Impact on Hong Kong Education]]"
   - "[[Replacement of LS by CSD]]"
@@ -16,6 +15,7 @@ extracted_to:
   - "[[Cuban's Curriculum Change Theory]]"
   - "[[National Education in Hong Kong]]"
   - "[[Liberal Studies]]"
+  - "[[Citizenship and Social Development]]"
 processed_date: 2026-05-01
 ---
 
