@@ -1,7 +1,7 @@
 ---
 title: Xunzi
 aliases: ["荀子", "荀况", "Hsün Tzu"]
-summary: "战国儒家思想家_主张性恶论_强调礼义教化与后天学习对改造人性的关键作用_为学习必要性提供了不同于孟子的儒家论证"
+summary: "战国儒家思想家，主张性恶论，强调礼义教化与后天学习对改造人性的关键作用，为学习必要性提供了不同于孟子的儒家论证"
 type: person
 nationality: china
 tags: ["region/china", "theory/confucianism", "field/chinese-philosophy"]

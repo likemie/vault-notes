@@ -4,7 +4,7 @@ aliases:
   - 美德导向学习过程
   - virtue-oriented process
   - East Asian learning process
-summary: "Li (2012) 识别的东亚文化学习过程模型_以美德培养为焦点_包含诚心_勤奋_刻苦_恒心_专心_尊师_谦虚七个学习美德"
+summary: "Li (2012) 识别的东亚文化学习过程模型，以美德培养为焦点，包含诚心，勤奋，刻苦，恒心，专心，尊师，谦虚七个学习美德"
 type: concept
 tags:
   - region/east-asia

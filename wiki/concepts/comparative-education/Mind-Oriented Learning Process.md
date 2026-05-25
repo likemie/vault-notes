@@ -4,7 +4,7 @@ aliases:
   - 心智导向学习过程
   - mind-oriented process
   - Western learning process
-summary: "Li (2012) 识别的西方文化学习过程模型_以心智发展为焦点_包含主动参与_探索与探究_思考与批判性思维_自我表达与沟通四个支柱"
+summary: "Li (2012) 识别的西方文化学习过程模型，以心智发展为焦点，包含主动参与，探索与探究，思考与批判性思维，自我表达与沟通四个支柱"
 type: concept
 tags:
   - region/western

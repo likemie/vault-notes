@@ -1,7 +1,7 @@
 ---
 title: Stevenson and Stigler
 aliases: ["史蒂文森和斯蒂格勒", "Harold Stevenson", "James Stigler", "The Learning Gap", "学习鸿沟"]
-summary: "美国比较教育心理学家_通过 The Learning Gap 等跨国比较研究_实证验证了东亚学生在数学成就上持续超越美国学生的现象及其文化根源"
+summary: "美国比较教育心理学家，通过 The Learning Gap 等跨国比较研究，实证验证了东亚学生在数学成就上持续超越美国学生的现象及其文化根源"
 type: person
 nationality: us
 tags: ["region/us", "field/comparative-education", "field/developmental-psychology"]

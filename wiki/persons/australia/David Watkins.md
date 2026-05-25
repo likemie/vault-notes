@@ -1,7 +1,7 @@
 ---
 title: David Watkins
 aliases: ["戴维·沃特金斯", "沃特金斯"]
-summary: "澳大利亚教育心理学家_中国学习者悖论的核心研究者_通过实证研究揭示东亚学习者表面看似被动实则深度投入的学习模式"
+summary: "澳大利亚教育心理学家，中国学习者悖论的核心研究者，通过实证研究揭示东亚学习者表面看似被动实则深度投入的学习模式"
 type: person
 nationality: australia
 tags: ["region/australia", "field/comparative-education", "field/educational-psychology"]

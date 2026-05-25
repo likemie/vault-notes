@@ -1,7 +1,7 @@
 ---
 title: Cheng Brothers
 aliases: ["程颢", "程颐", "二程", "Cheng Hao", "Cheng Yi"]
-summary: "北宋理学家_程颢与程颐兄弟_程朱理学奠基人_重新开启儒家学习传统_将天理概念系统引入修身与学习理论"
+summary: "北宋理学家，程颢与程颐兄弟，程朱理学奠基人，重新开启儒家学习传统，将天理概念系统引入修身与学习理论"
 type: person
 nationality: china
 tags: ["region/china", "theory/confucianism", "field/chinese-philosophy"]

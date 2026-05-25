@@ -10,6 +10,7 @@ tags:
 - theme/child-development
 - discipline/anthropology
 related_concepts:
+  - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
   - "[[Nerd]]"
   - "[[Intellectual-Social Divide]]"
 related_theories:

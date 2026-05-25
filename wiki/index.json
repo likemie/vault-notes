@@ -627,6 +627,15 @@
     ]
   },
   {
+    "title": "Absorptive Capacity",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
+    "aliases": [
+      "吸收能力",
+      "district absorptive capacity"
+    ]
+  },
+  {
     "title": "Cult of the Guru",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
@@ -965,6 +974,53 @@
     "path": "wiki/concepts/educational-philosophy/Whole Sustainability.md",
     "aliases": [
       "整体可持续性"
+    ]
+  },
+  {
+    "title": "Educational Evidence Clearinghouses",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
+    "aliases": [
+      "教育证据清算中心",
+      "教育证据清算机构"
+    ]
+  },
+  {
+    "title": "Evidence-Based Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
+    "aliases": [
+      "证据本位教育",
+      "循证教育",
+      "EBE",
+      "evidence-based policy in education",
+      "证据为本教育"
+    ]
+  },
+  {
+    "title": "Evidence-Based Reform",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evidence-Based Reform.md",
+    "aliases": [
+      "证据本位改革"
+    ]
+  },
+  {
+    "title": "Evidence-Informed Practice",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evidence-Informed Practice.md",
+    "aliases": [
+      "证据知情实践",
+      "EIP"
+    ]
+  },
+  {
+    "title": "Local Knowledge in Evidence-Based Policy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Local Knowledge in Evidence-Based Policy.md",
+    "aliases": [
+      "证据本位政策中的地方知识",
+      "地方知识"
     ]
   },
   {
@@ -1729,6 +1785,20 @@
     ]
   },
   {
+    "title": "Self-Continuity, Self-Distinctness, and Self-Agency",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Self-Continuity, Self-Distinctness, and Self-Agency.md",
+    "aliases": [
+      "自我连续性与自我独特性与自我能动性",
+      "自我连续性",
+      "自我独特性",
+      "自我能动性",
+      "self-continuity",
+      "self-distinctness",
+      "self-agency"
+    ]
+  },
+  {
     "title": "Self-control",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Self-control.md",
@@ -2156,15 +2226,6 @@
     ]
   },
   {
-    "title": "Absorptive Capacity",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Absorptive Capacity.md",
-    "aliases": [
-      "吸收能力",
-      "district absorptive capacity"
-    ]
-  },
-  {
     "title": "Black Box RCTs",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Black Box RCTs.md",
@@ -2191,15 +2252,6 @@
     ]
   },
   {
-    "title": "Educational Evidence Clearinghouses",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Educational Evidence Clearinghouses.md",
-    "aliases": [
-      "教育证据清算中心",
-      "教育证据清算机构"
-    ]
-  },
-  {
     "title": "Effect Size",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Effect Size.md",
@@ -2217,35 +2269,6 @@
       "etic perspective",
       "emic approach",
       "etic approach"
-    ]
-  },
-  {
-    "title": "Evidence-Based Education",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Evidence-Based Education.md",
-    "aliases": [
-      "证据本位教育",
-      "循证教育",
-      "EBE",
-      "evidence-based policy in education",
-      "证据为本教育"
-    ]
-  },
-  {
-    "title": "Evidence-Based Reform",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Evidence-Based Reform.md",
-    "aliases": [
-      "证据本位改革"
-    ]
-  },
-  {
-    "title": "Evidence-Informed Practice",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Evidence-Informed Practice.md",
-    "aliases": [
-      "证据知情实践",
-      "EIP"
     ]
   },
   {
@@ -2294,15 +2317,6 @@
       "知识转译",
       "KMb",
       "knowledge mobilization"
-    ]
-  },
-  {
-    "title": "Local Knowledge in Evidence-Based Policy",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Local Knowledge in Evidence-Based Policy.md",
-    "aliases": [
-      "证据本位政策中的地方知识",
-      "地方知识"
     ]
   },
   {

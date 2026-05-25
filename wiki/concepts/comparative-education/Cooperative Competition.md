@@ -4,7 +4,7 @@ aliases:
   - 合作式竞争
   - cooperative-competitive
   - Fülöp competition
-summary: "Fülöp 提出的竞争概念_在日本_匈牙利_美国比较研究中发现_东亚学生将竞争视为自我提升过程_而非零和对抗_挑战了西方竞争与合作二元对立的假设"
+summary: "Fülöp 提出的竞争概念，在日本，匈牙利，美国比较研究中发现，东亚学生将竞争视为自我提升过程，而非零和对抗，挑战了西方竞争与合作二元对立的假设"
 type: concept
 tags:
   - theme/competition

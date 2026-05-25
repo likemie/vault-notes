@@ -3,11 +3,11 @@ citation: "Pellegrini, M., & Vivanet, G. (2021). Evidence-based policies in educ
 extracted_to:
   - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Class Size]]"
-  - "[[Technology Infusion]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Technology Infusion]]"
   - "[[Reusability Paradox]]"
   - "[[Danish Clearinghouse for Educational Research]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"

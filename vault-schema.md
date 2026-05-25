@@ -14,7 +14,7 @@
 - 不使用来源以外的知识；不确定时宁可不写。
 - AI 不手动维护生成字段：`related_*`、YAML `sources`、source record 的 `extracted_to`。
 - Source 记录与阅读页面优先由 `scripts/source_record.py` 生成，不手写固定结构。
-- 新建、移动、删除、重命名条目后，运行标准同步与检查流程。
+- 新建、移动、删除、重命名条目后，自动运行 `python3 scripts/wiki_index.py` 重建索引；是否继续运行补链、关系同步与 lint，由用户确认。
 
 ---
 
@@ -104,13 +104,23 @@ wiki/
 
 脚本用于维护索引、补链、关系字段和 source 记录。`wiki_linker.py sync`、`wiki_relations.py sync` 与 `vault_lint.py` 默认使用 git 增量模式，只处理当前变动文件；日常不需要显式添加 `--git`。
 
-### Standard Sync and Lint
+### Automatic Step
 
-每次处理完条目、书籍章节、source 记录、模板或 schema 后，运行：
+每次处理完条目、书籍章节、source 记录、模板或 schema 后，AI 只自动运行索引重建：
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
 python3 scripts/wiki_index.py
+```
+
+不要自动运行 `wiki_linker.py`、`wiki_relations.py` 或 `vault_lint.py`。完成索引重建后，询问用户是否运行标准脚本流程。
+
+### Standard Script Flow
+
+用户确认后，再运行：
+
+```bash
+cd /Users/shaoyangwu/Documents/MyNotes
 python3 scripts/wiki_linker.py sync
 python3 scripts/wiki_relations.py sync
 python3 scripts/wiki_index.py
@@ -209,7 +219,7 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 8. 新建条目：只读取对应模板 → 按模板写入对应二级文件夹。
 9. 在正文中自然使用 wikilink，在 `## 来源` 章节列出 source wikilink。
 10. 使用 `source_record.py article` 或 `source_record.py report` 创建 source 记录。
-11. 运行标准同步与检查流程。
+11. 自动运行 `python3 scripts/wiki_index.py` 重建索引，然后询问用户是否继续运行标准脚本流程。
 
 ### 书籍任务
 

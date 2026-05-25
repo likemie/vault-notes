@@ -1,7 +1,7 @@
 ---
 title: Emic and Etic
 aliases: ["主位与客位", "emic perspective", "etic perspective", "emic approach", "etic approach"]
-summary: "跨文化研究方法论的核心区分_emic 从文化内部理解意义与结构_etic 从文化外部进行比较分析_Li 将其作为理解东西方学习差异的方法论基础"
+summary: "跨文化研究方法论的核心区分，emic 从文化内部理解意义与结构，etic 从文化外部进行比较分析，Li 将其作为理解东西方学习差异的方法论基础"
 type: concept
 tags: ["theme/cross-cultural-research", "field/research-methodology", "theme/cultural-psychology"]
 related_concepts: []

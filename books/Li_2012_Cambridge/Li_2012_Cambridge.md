@@ -50,6 +50,7 @@ extracted_to:
   - "[[Intrinsic vs Extrinsic Motivation]]"
   - "[[Learned Helplessness]]"
   - "[[Locus of Control]]"
+  - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
   - "[[Self-Efficacy]]"
   - "[[Emic and Etic]]"
   - "[[Codeswitcher]]"

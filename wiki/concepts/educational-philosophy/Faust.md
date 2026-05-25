@@ -1,7 +1,7 @@
 ---
 title: Faust
 aliases: ["浮士德", "浮士德式交易", "Faustian bargain", "Faustian spirit"]
-summary: "西方学习传统的核心文化隐喻_以不惜代价追求知识与掌控为特征_与东亚修身传统形成根本对比"
+summary: "西方学习传统的核心文化隐喻，以不惜代价追求知识与掌控为特征，与东亚修身传统形成根本对比"
 type: concept
 tags: ["region/western", "theme/learning", "theme/cultural-metaphor"]
 related_concepts:

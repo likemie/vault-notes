@@ -3,8 +3,8 @@ citation: "Wadhwa, M., Zheng, J., & Cook, T. D. (2024). How consistent are meani
 extracted_to:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Effect Size]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[Blueprints for Healthy Youth Development]]"

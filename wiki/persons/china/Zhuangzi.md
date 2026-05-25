@@ -1,7 +1,7 @@
 ---
 title: Zhuangzi
 aliases: ["庄子", "庄周", "Chuang Tzu"]
-summary: "战国道家思想家_以庖丁解牛等寓言阐发通过专注实践达到精通的理念_其思想为东亚学习传统中熟能生巧提供了哲学基础"
+summary: "战国道家思想家，以庖丁解牛等寓言阐发通过专注实践达到精通的理念，其思想为东亚学习传统中熟能生巧提供了哲学基础"
 type: person
 nationality: china
 tags: ["region/china", "theory/taoism", "field/chinese-philosophy"]

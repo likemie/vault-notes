@@ -7,7 +7,7 @@ Total entries: **48**
 ## Chinese Philosophy
 
 - [[Confucian Learning Tradition]] — 东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题
-- [[Neo-Confucianism]] — 宋明时期儒学复兴运动_以程朱理学与陆王心学为代表_将天理与修身关联_重建儒家学习传统的理论根基
+- [[Neo-Confucianism]] — 宋明时期儒学复兴运动，以程朱理学与陆王心学为代表，将天理与修身关联，重建儒家学习传统的理论根基
 
 ## Communication Discourse
 

@@ -14,13 +14,16 @@ tags:
   - theme/identity
   - theme/cultural-transmission
   - theme/self-development
-related_concepts: []
+related_concepts:
+  - "[[Cultural Capital]]"
+  - "[[Problem-Based Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-25
@@ -68,7 +71,7 @@ updated: 2026-05-25
 > - 推荐 tag 前缀：`level/`、`region/`、`method/`、`theory/`、`policy/`、`subject/`、`theme/`、`source/`。
 > - `related_*`、`sources`、`part_of` — 若引用条目，必须写成带引号的 wikilink，如 `"[[Cultural Capital]]"`。
 > - 不要在这些字段中写普通文本；不确定是否已有条目时先留空。
-> - 单个值也需要引号和方括号：`related_concepts: ["[[Project-Based Learning]]"]`
+> - 单个值也需要引号和方括号：`related_concepts: ["[[Problem-Based Learning]]"]`
 > - `related_*` 与 YAML `sources` 由脚本自动同步，AI 通常不手动填写；需要建立关系时在正文使用 wikilink，需要记录来源时在 `## 来源` 列出 source wikilink。
 
 > [!info]- Aliases 规则（用于 Automatic Linker 自动补链）

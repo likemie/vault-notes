@@ -5,7 +5,7 @@ aliases:
   - 兵教兵
   - peer tutoring Chinese
   - 互帮互学
-summary: "东亚学校文化中以同伴互助为核心的学习方式_包括小组学习_课代表制度_优生帮后进生_将帮助同伴视为学习美德而非竞争威胁"
+summary: "东亚学校文化中以同伴互助为核心的学习方式，包括小组学习，课代表制度，优生帮后进生，将帮助同伴视为学习美德而非竞争威胁"
 type: concept
 tags:
   - region/east-asia

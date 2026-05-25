@@ -4,7 +4,7 @@ aliases:
   - 家庭社会关系模型
   - 类亲属关系
   - family-based social relations
-summary: "儒家将家庭等级关系扩展到社会关系中的文化模式_在学校中表现为学兄学姐学弟学妹等称谓_将同学关系建构为类亲属关系"
+summary: "儒家将家庭等级关系扩展到社会关系中的文化模式，在学校中表现为学兄学姐学弟学妹等称谓，将同学关系建构为类亲属关系"
 type: concept
 tags:
   - region/china

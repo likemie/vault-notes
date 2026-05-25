@@ -1,7 +1,7 @@
 ---
 title: Four Sprouts
 aliases: ["四端", "siduan", "four beginnings"]
-summary: "孟子提出的性善论基础_四种先天的道德萌芽_恻隐之心_羞恶之心_辞让之心_是非之心_为修身提供人性论依据"
+summary: "孟子提出的性善论基础，四种先天的道德萌芽，恻隐之心，羞恶之心，辞让之心，是非之心，为修身提供人性论依据"
 type: concept
 tags: ["region/china", "theory/confucianism", "field/chinese-philosophy", "theme/moral-psychology"]
 related_concepts:

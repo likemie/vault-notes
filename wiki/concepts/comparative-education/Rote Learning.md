@@ -5,7 +5,7 @@ aliases:
   - 死记硬背与理解
   - memorization and understanding
   - Chinese learner paradox memory
-summary: "跨文化学习研究中的核心争议_中国学习者将记忆作为通往深度理解的路径_而非机械重复_挑战了西方死记硬背与理解对立的前提假设"
+summary: "跨文化学习研究中的核心争议，中国学习者将记忆作为通往深度理解的路径，而非机械重复，挑战了西方死记硬背与理解对立的前提假设"
 type: concept
 tags:
   - theme/memorization

@@ -3,9 +3,9 @@ citation: "Wiliam, D. (2019). Some reflections on the role of evidence in improv
 extracted_to:
   - "[[Argument_Wiliam_2019]]"
   - "[[Class Size]]"
-  - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Effect Size]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Validity as Inferences]]"
   - "[[Hargreaves 1996 TTA Lecture]]"
