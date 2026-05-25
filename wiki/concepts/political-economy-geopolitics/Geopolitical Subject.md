@@ -22,9 +22,9 @@ related_concepts:
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
   - "[[Digital Optimum]]"
+  - "[[Governmentality]]"
   - "[[Hub and Flow Imaginaries]]"
 related_theories:
-  - "[[Governmentality]]"
   - "[[Fixity-Motion Tension]]"
 related_methods:
   - "[[Matching]]"

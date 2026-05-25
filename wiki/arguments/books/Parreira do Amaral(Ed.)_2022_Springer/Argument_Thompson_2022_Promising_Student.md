@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
+  - "[[Governmentality]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performativity of Measurement]]"
   - "[[Learning Analytics]]"
@@ -24,7 +25,6 @@ related_concepts:
   - "[[Digital Optimum]]"
   - "[[Bildung]]"
 related_theories:
-  - "[[Governmentality]]"
   - "[[Societies of Control]]"
 related_methods:
   - "[[Matching]]"

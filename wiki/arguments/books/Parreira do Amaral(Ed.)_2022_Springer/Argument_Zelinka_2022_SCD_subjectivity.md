@@ -7,13 +7,13 @@ tags: ["theme/geopolitics-of-knowledge", "theme/subjectivity", "theme/21st-centu
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Governmentality]]"
   - "[[Discursive Opportunity Structures]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
-related_theories:
-  - "[[Governmentality]]"
+related_theories: []
 related_methods:
   - "[[Single-Case Design]]"
   - "[[Critical Companion]]"

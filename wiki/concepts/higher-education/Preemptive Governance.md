@@ -22,11 +22,11 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[Feedback]]"
+  - "[[Governmentality]]"
   - "[[Competitiveness in Higher Education]]"
   - "[[Stakeholder University]]"
   - "[[Promising Student]]"
 related_theories:
-  - "[[Governmentality]]"
   - "[[Societies of Control]]"
 related_methods:
   - "[[Matching]]"

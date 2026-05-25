@@ -25,6 +25,7 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Feedback]]"
   - "[[Effect Size]]"
+  - "[[Technical Rationality]]"
   - "[[Further Education]]"
   - "[[Direct Instruction]]"
   - "[[Problem-Based Learning]]"
@@ -38,8 +39,7 @@ related_concepts:
   - "[[Performativity of Measurement]]"
   - "[[Policy Entrepreneur]]"
   - "[[Neo-Taylorism in Educational Administration]]"
-related_theories:
-  - "[[Technical Rationality]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:

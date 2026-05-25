@@ -13,13 +13,13 @@ tags:
 - technical-rationality
 - region/denmark
 related_concepts:
+  - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
   - "[[Feedback]]"
   - "[[Didaktik]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
 related_theories:
-  - "[[Technical Rationality]]"
   - "[[Radical Constructivism]]"
 related_methods:
   - "[[Qualitative Research]]"

@@ -17,9 +17,9 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
-  - "[[Feedback]]"
-related_theories:
   - "[[Technical Rationality]]"
+  - "[[Feedback]]"
+related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"

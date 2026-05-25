@@ -24,6 +24,7 @@ related_concepts:
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Evidence-Based Reform]]"
   - "[[Scientism]]"
+  - "[[Technical Rationality]]"
   - "[[New Public Management]]"
   - "[[Class Size]]"
   - "[[Educational Management Organisation]]"
@@ -38,7 +39,6 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Learnification]]"
 related_theories:
-  - "[[Technical Rationality]]"
   - "[[Radical Constructivism]]"
   - "[[Popper's Three Worlds Theory]]"
   - "[[Appraisal Theory]]"

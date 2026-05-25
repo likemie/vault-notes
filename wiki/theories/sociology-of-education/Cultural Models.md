@@ -6,7 +6,7 @@ aliases:
   - culture-level models
   - culture-level model
 summary: "由文化历史过程形成的共享概念框架，塑造成员对思想、情感和行为的解释、预测与理解"
-type: concept
+type: theory
 tags:
 - theory/anthropology
 - theory/cultural-psychology

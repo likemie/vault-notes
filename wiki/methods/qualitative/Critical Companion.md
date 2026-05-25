@@ -8,9 +8,9 @@ tags: ["method/discourse-analysis", "method/critical", "theme/discourse", "theme
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Discursive Opportunity Structures]]"
-  - "[[Self-Entrepreneur]]"
-related_theories:
   - "[[Governmentality]]"
+  - "[[Self-Entrepreneur]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:

@@ -8,8 +8,8 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Self-Entrepreneur]]"
-related_theories:
   - "[[Governmentality]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

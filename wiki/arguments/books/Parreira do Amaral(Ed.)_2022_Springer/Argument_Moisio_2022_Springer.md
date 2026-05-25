@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Hegemony]]"
   - "[[National Competitive Advantage]]"
   - "[[Tongxue]]"
   - "[[Knowledge Production]]"
@@ -29,7 +30,6 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Cultural Political Economy]]"
-  - "[[Hegemony]]"
   - "[[Fixity-Motion Tension]]"
 related_methods: []
 related_persons: []

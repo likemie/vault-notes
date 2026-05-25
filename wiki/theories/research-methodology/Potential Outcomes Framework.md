@@ -3,7 +3,7 @@ title: Potential Outcomes Framework
 aliases:
   - 潜在结果框架
 summary: "因果推断的核心框架，通过比较同一主体在不同处理条件下的潜在结果来定义因果效应，并区分因果效应的定义与估计。"
-type: concept
+type: theory
 tags:
 - potential-outcomes-framework
 - causal-inference

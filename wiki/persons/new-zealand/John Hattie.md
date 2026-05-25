@@ -39,6 +39,7 @@ related_concepts:
   - "[[Cargo Cult Science]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Technical Rationality]]"
   - "[[Problem-Based Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Structural Coupling]]"
@@ -47,7 +48,6 @@ related_theories:
   - "[[Appraisal Theory]]"
   - "[[Radical Constructivism]]"
   - "[[Phenomenology]]"
-  - "[[Technical Rationality]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"

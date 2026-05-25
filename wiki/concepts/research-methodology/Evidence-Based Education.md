@@ -40,6 +40,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Material Fallacies]]"
   - "[[Visible Learning]]"
+  - "[[Technical Rationality]]"
   - "[[Moral Sidestep]]"
   - "[[Technology Infusion]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -49,7 +50,6 @@ related_theories:
   - "[[Critical Realism]]"
   - "[[Goldman's Discrimination Theory of Knowledge]]"
   - "[[Campbellian Validity Framework]]"
-  - "[[Technical Rationality]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Matching]]"

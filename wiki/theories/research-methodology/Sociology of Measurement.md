@@ -3,7 +3,7 @@ title: Sociology of Measurement
 aliases:
   - 测量社会学
 summary: "将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。"
-type: concept
+type: theory
 tags:
 - sociology-of-measurement
 - measurement
@@ -13,8 +13,8 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Performativity of Measurement]]"
-related_theories:
   - "[[Science and Technology Studies]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

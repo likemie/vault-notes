@@ -15,12 +15,12 @@ tags:
 - methodology-critique
 - level/k12
 related_concepts:
+  - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
   - "[[Feedback]]"
   - "[[Class Size]]"
   - "[[Effect Size]]"
 related_theories:
-  - "[[Technical Rationality]]"
   - "[[Radical Constructivism]]"
 related_methods:
   - "[[Meta-analysis]]"

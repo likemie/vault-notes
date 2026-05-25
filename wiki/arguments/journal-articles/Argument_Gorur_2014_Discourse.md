@@ -15,10 +15,10 @@ tags:
 - comparative-education
 related_concepts:
   - "[[International Education]]"
+  - "[[Science and Technology Studies]]"
   - "[[Sociology of Measurement]]"
   - "[[Performance Indicators]]"
 related_theories:
-  - "[[Science and Technology Studies]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons:

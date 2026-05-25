@@ -18,9 +18,9 @@ related_concepts:
   - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[New Public Management]]"
-  - "[[Knowledge Production]]"
-related_theories:
   - "[[Science and Technology Studies]]"
+  - "[[Knowledge Production]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Norberto Bottani]]"

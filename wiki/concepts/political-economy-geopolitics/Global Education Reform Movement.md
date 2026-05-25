@@ -12,9 +12,9 @@ tags:
   - region/global
 related_concepts:
   - "[[New Public Management]]"
-  - "[[Visible Learning]]"
-related_theories:
   - "[[Technical Rationality]]"
+  - "[[Visible Learning]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

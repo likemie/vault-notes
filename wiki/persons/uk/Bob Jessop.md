@@ -18,9 +18,9 @@ related_concepts:
   - "[[Cultural Diplomacy]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
+  - "[[Hegemony]]"
 related_theories:
   - "[[Cultural Political Economy]]"
-  - "[[Hegemony]]"
 related_methods: []
 related_persons: []
 related_arguments: []

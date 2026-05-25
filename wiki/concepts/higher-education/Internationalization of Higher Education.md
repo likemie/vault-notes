@@ -16,10 +16,10 @@ related_concepts:
   - "[[International Education Hubs]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
   - "[[International Education]]"
+  - "[[Hegemony]]"
   - "[[Multiplicity]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
-  - "[[Hegemony]]"
   - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons: []

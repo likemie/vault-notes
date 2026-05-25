@@ -18,12 +18,12 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Official Knowledge]]"
+  - "[[Hegemony]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Symbolic Boundary]]"
   - "[[Self-Cultivation]]"
   - "[[Cultural Disembedding]]"
-related_theories:
-  - "[[Hegemony]]"
+related_theories: []
 related_methods:
   - "[[In-depth Interview]]"
 related_persons:

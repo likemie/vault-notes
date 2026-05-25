@@ -15,6 +15,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Power-Geometries]]"
   - "[[Methodological Globalism]]"
+  - "[[Hegemony]]"
   - "[[Semi-Autonomy of Higher Education]]"
   - "[[Sovereign Internationalism]]"
   - "[[Radical Liberal Internationalism]]"
@@ -27,7 +28,6 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
 related_theories:
   - "[[World-Systems Theory]]"
-  - "[[Hegemony]]"
 related_methods: []
 related_persons:
   - "[[Doreen Massey]]"

@@ -817,6 +817,14 @@
     ]
   },
   {
+    "title": "Technical Rationality",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Technical Rationality.md",
+    "aliases": [
+      "技术理性"
+    ]
+  },
+  {
     "title": "Transhumanism",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Transhumanism.md",
@@ -1831,6 +1839,30 @@
     ]
   },
   {
+    "title": "Governmentality",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Governmentality.md",
+    "aliases": [
+      "治理术",
+      "治理性",
+      "gouvernementalité",
+      "conduct of conduct",
+      "行为的引导"
+    ]
+  },
+  {
+    "title": "Hegemony",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Hegemony.md",
+    "aliases": [
+      "霸权理论",
+      "葛兰西霸权理论",
+      "Gramsci hegemony",
+      "文化霸权",
+      "cultural hegemony"
+    ]
+  },
+  {
     "title": "Hub and Flow Imaginaries",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Hub and Flow Imaginaries.md",
@@ -2359,6 +2391,16 @@
     "aliases": [
       "可重用性悖论",
       "reusability paradox"
+    ]
+  },
+  {
+    "title": "Science and Technology Studies",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Science and Technology Studies.md",
+    "aliases": [
+      "科学技术研究",
+      "STS",
+      "Science and Technology Studies (STS)"
     ]
   },
   {
@@ -2895,30 +2937,12 @@
     ]
   },
   {
-    "title": "Science and Technology Studies",
-    "type": "theory",
-    "path": "wiki/theories/educational-philosophy/Science and Technology Studies.md",
-    "aliases": [
-      "科学技术研究",
-      "STS",
-      "Science and Technology Studies (STS)"
-    ]
-  },
-  {
     "title": "Societies of Control",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Societies of Control.md",
     "aliases": [
       "控制社会",
       "société de contrôle"
-    ]
-  },
-  {
-    "title": "Technical Rationality",
-    "type": "theory",
-    "path": "wiki/theories/educational-philosophy/Technical Rationality.md",
-    "aliases": [
-      "技术理性"
     ]
   },
   {
@@ -3082,30 +3106,6 @@
     "path": "wiki/theories/political-economy-geopolitics/Fixity-Motion Tension.md",
     "aliases": [
       "固着-流动张力"
-    ]
-  },
-  {
-    "title": "Governmentality",
-    "type": "theory",
-    "path": "wiki/theories/political-economy-geopolitics/Governmentality.md",
-    "aliases": [
-      "治理术",
-      "治理性",
-      "gouvernementalité",
-      "conduct of conduct",
-      "行为的引导"
-    ]
-  },
-  {
-    "title": "Hegemony",
-    "type": "theory",
-    "path": "wiki/theories/political-economy-geopolitics/Hegemony.md",
-    "aliases": [
-      "霸权理论",
-      "葛兰西霸权理论",
-      "Gramsci hegemony",
-      "文化霸权",
-      "cultural hegemony"
     ]
   },
   {

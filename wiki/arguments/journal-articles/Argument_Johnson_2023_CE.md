@@ -14,13 +14,13 @@ tags:
 - stance/critique
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Technical Rationality]]"
   - "[[Scientism]]"
   - "[[Cargo Cult Science]]"
   - "[[Neo-Taylorism in Educational Administration]]"
   - "[[Class Size]]"
   - "[[Bildung]]"
-related_theories:
-  - "[[Technical Rationality]]"
+related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"

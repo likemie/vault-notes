@@ -108,6 +108,7 @@ Total entries: **714**
 - [[Social Museology]] — 将博物馆定位为社区发展、记忆保存和公共参与工具的博物馆学取向。
 - [[Structural Coupling]] — 系统理论中的概念，指两个自我指涉系统在保持各自封闭性的同时通过稳定接口相互关联而非直接因果控制
 - [[Sympoiesis]] — 强调存在总是在与他者共同制造中生成的后人类主义概念，突出跨物种相互依存、协作生成和伦理回应关系
+- [[Technical Rationality]] — 把专业实践理解为以手段目的计算解决问题的实证主义模型，强调技术控制、价值中立和标准化决策，是批判教育技术化的重要参照
 - [[Transhumanism]] — 以技术手段超越人类生物局限并追求持续优化和增强的思想取向，常用于讨论教育中的能力提升、技术改造和高度现代性的进步想象。
 - [[Ubuntu]] — 强调个体在关系中成其为人的非洲关系性伦理哲学，用于理解共同体、互依性和相互责任。
 - [[Value-Based Education]] — 把教育目的与价值判断置于证据选择之前的教育取向，强调先回答想培养什么样的人与社会，再讨论什么做法有效
@@ -228,6 +229,8 @@ Total entries: **714**
 - [[Geopolitics of Knowledge]] — 围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。
 - [[Global Education Industry]] — 教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域
 - [[Global Education Reform Movement]] — 描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度
+- [[Governmentality]] — Foucault 的权力分析概念，指通过塑造主体自我理解而非直接强制来引导行为的治理理性，以自我技术为重要运作机制
+- [[Hegemony]] — Antonio Gramsci (1971) 的权力理论：区分强制与霸权（通过法律、教育、媒体、科学、大学等文化制度赢得被统治者积极同意），文化部门的半自主性和知识分子的双重角色是高等教育地缘政治分析的核心工具
 - [[Hub and Flow Imaginaries]] — 把世界想象为由枢纽中心和边缘区域构成流动结构的空间想象，用于解释知识经济中的集中、连接和不平等。
 - [[Knowledge Sabotage]] — 通过破坏、削弱或扰乱敌对方知识资产和知识基础设施来削减其能力的知识转移形态。
 - [[Knowledge-Based Economization]] — 指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。
@@ -289,6 +292,7 @@ Total entries: **714**
 - [[Recommendations for Practice]] — 研究论文中把研究发现转化为采用、调整或避免某种实践的行动建议，用于连接研究结论与政策或教学实践
 - [[Researcher Degrees of Freedom]] — 研究者在样本选择、变量处理、模型设定和案例排除等分析决策上的自由度累积效应，用于解释结果偏差和可重复性问题。
 - [[Reusability Paradox]] — Wiley提出的学习对象可重用性悖论，被Pellegrini与Vivanet用于说明教育项目越贴合特定情境就越难跨情境复用，越通用则越可能难以满足具体教育需求。
+- [[Science and Technology Studies]] — 跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念
 - [[Side Effects in Education]] — 指教育干预在产生预期效果的同时也可能带来伴随性损害或代价的概念，用于反思只关注什么有效而忽视何种代价的评估逻辑。
 - [[Stable Unit Treatment Value Assumption]] — 潜在结果框架中的关键假定，指每个主体的潜在结果只取决于自身接受的处理而不受他人处理影响。
 - [[Statistical Significance]] — 用于判断观察到的差异是否足以拒绝零假设的统计判断标准，其解释需要结合样本量、效应大小和研究设计。
@@ -366,9 +370,7 @@ Total entries: **714**
 - [[Phenomenology]] — 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的“现象“概念和教育意义
 - [[Popper's Three Worlds Theory]] — 将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承
 - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
-- [[Science and Technology Studies]] — 跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念
 - [[Societies of Control]] — Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑
-- [[Technical Rationality]] — 把专业实践理解为以手段目的计算解决问题的实证主义模型，强调技术控制、价值中立和标准化决策，是批判教育技术化的重要参照
 - [[Transactional Epistemology]] — Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
 - [[Transition Design]] — 把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大
 
@@ -398,8 +400,6 @@ Total entries: **714**
 - [[Cultural Political Economy]] — 把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造
 - [[Decolonial Geopolitics of Knowledge]] — 从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化
 - [[Fixity-Motion Tension]] — 解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论
-- [[Governmentality]] — Foucault 的权力分析概念，指通过塑造主体自我理解而非直接强制来引导行为的治理理性，以自我技术为重要运作机制
-- [[Hegemony]] — Antonio Gramsci (1971) 的权力理论：区分强制与霸权（通过法律、教育、媒体、科学、大学等文化制度赢得被统治者积极同意），文化部门的半自主性和知识分子的双重角色是高等教育地缘政治分析的核心工具
 - [[Tullock's Bureaucracy Theory]] — 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
 
 ### Research Methodology

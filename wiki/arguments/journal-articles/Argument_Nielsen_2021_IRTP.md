@@ -15,11 +15,11 @@ tags:
 - stance/critique
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Technical Rationality]]"
   - "[[Effect Size]]"
   - "[[Didaktik]]"
   - "[[Feedback]]"
-related_theories:
-  - "[[Technical Rationality]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

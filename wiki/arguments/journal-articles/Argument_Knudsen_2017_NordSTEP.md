@@ -15,11 +15,11 @@ tags:
 - region/new-zealand
 related_concepts:
   - "[[Champ]]"
+  - "[[Science and Technology Studies]]"
   - "[[Problem-Based Learning]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
-related_theories:
-  - "[[Science and Technology Studies]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:

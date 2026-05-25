@@ -12,9 +12,9 @@ tags:
 - paradigm/pragmatist
 - region/us
 related_concepts:
+  - "[[Technical Rationality]]"
   - "[[Professional Judgment]]"
 related_theories:
-  - "[[Technical Rationality]]"
   - "[[Bounded Rationality]]"
 related_methods: []
 related_persons: []

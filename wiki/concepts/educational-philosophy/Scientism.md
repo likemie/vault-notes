@@ -14,11 +14,11 @@ related_concepts:
   - "[[Cargo Cult Science]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
+  - "[[Technical Rationality]]"
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Visible Learning]]"
   - "[[Knowledge Production]]"
-related_theories:
-  - "[[Technical Rationality]]"
+related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"

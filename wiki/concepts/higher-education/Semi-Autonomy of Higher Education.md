@@ -13,12 +13,12 @@ tags:
 - level/higher-ed
 - region/global
 related_concepts:
+  - "[[Hegemony]]"
   - "[[Methodological Globalism]]"
   - "[[Double Spatiality of Universities]]"
   - "[[Scale in Higher Education]]"
   - "[[Multiplicity]]"
 related_theories:
-  - "[[Hegemony]]"
   - "[[World-Systems Theory]]"
 related_methods: []
 related_persons: []

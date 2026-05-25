@@ -18,9 +18,9 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Performance Indicators]]"
-  - "[[Performativity of Measurement]]"
-related_theories:
   - "[[Science and Technology Studies]]"
+  - "[[Performativity of Measurement]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

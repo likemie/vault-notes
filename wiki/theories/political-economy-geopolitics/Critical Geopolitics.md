@@ -25,12 +25,12 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Further Education]]"
   - "[[Corporate Education]]"
+  - "[[Hegemony]]"
   - "[[National Competitive Advantage]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Cultural Political Economy]]"
-  - "[[Hegemony]]"
 related_methods: []
 related_persons: []
 related_facts: []

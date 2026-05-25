@@ -29,6 +29,7 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Publication Bias]]"
   - "[[Language Experience Approach]]"
+  - "[[Technical Rationality]]"
   - "[[Bildung]]"
   - "[[Learnification]]"
   - "[[Pure Evaluation]]"
@@ -46,7 +47,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Structural Coupling]]"
 related_theories:
-  - "[[Technical Rationality]]"
   - "[[Appraisal Theory]]"
   - "[[Radical Constructivism]]"
   - "[[Phenomenology]]"

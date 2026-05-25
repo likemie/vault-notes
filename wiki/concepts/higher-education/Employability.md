@@ -20,10 +20,10 @@ related_concepts:
   - "[[Social Engagement]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Self-Entrepreneur]]"
+  - "[[Governmentality]]"
   - "[[Academic Engagement]]"
   - "[[Goal-Controlled Mode]]"
-related_theories:
-  - "[[Governmentality]]"
+related_theories: []
 related_methods:
   - "[[Single-Case Design]]"
 related_persons:

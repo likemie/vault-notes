@@ -21,9 +21,9 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
+  - "[[Governmentality]]"
   - "[[Stakeholder University]]"
 related_theories:
-  - "[[Governmentality]]"
   - "[[Societies of Control]]"
 related_methods: []
 related_persons: []

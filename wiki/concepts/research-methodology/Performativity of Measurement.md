@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Sociology of Measurement]]"
   - "[[Knowledge Production]]"
+  - "[[Science and Technology Studies]]"
   - "[[International Education]]"
   - "[[Atomisation of Knowledge and Skills]]"
   - "[[School Leadership]]"
@@ -22,8 +23,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Neo-Taylorism in Educational Administration]]"
-related_theories:
-  - "[[Science and Technology Studies]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

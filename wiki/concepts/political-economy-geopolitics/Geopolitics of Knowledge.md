@@ -25,6 +25,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[Champ]]"
   - "[[Geopolitical Subject]]"
+  - "[[Governmentality]]"
   - "[[International Education Hubs]]"
   - "[[Narrative Knowledge]]"
   - "[[Global Regionalisms in Higher Education]]"
@@ -43,12 +44,11 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
   - "[[Global Universities Rankings]]"
+  - "[[Hegemony]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Fixity-Motion Tension]]"
-  - "[[Governmentality]]"
-  - "[[Hegemony]]"
 related_methods:
   - "[[Matching]]"
   - "[[Single-Case Design]]"

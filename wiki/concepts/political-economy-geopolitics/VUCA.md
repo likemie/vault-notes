@@ -6,10 +6,10 @@ type: concept
 tags: ["theme/global-governance", "theme/21st-century-skills", "theme/risk", "theme/uncertainty"]
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Governmentality]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Fourth Industrial Revolution]]"
-related_theories:
-  - "[[Governmentality]]"
+related_theories: []
 related_methods:
   - "[[Single-Case Design]]"
 related_persons: []

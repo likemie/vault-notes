@@ -20,10 +20,10 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[International Schools]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[Hegemony]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Critical Geopolitics]]"
-  - "[[Hegemony]]"
 related_methods: []
 related_persons:
   - "[[Frantz Fanon]]"

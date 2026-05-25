@@ -15,9 +15,9 @@ tags:
 related_concepts:
   - "[[Tongxue]]"
   - "[[Professional Judgment]]"
-  - "[[School Leadership]]"
-related_theories:
   - "[[Governmentality]]"
+  - "[[School Leadership]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

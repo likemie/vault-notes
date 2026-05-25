@@ -13,12 +13,12 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Horizontal Knowledge Structure]]"
+  - "[[Governmentality]]"
   - "[[Knowledge Production]]"
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
-related_theories:
-  - "[[Governmentality]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"

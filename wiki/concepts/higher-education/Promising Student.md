@@ -20,9 +20,9 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
+  - "[[Governmentality]]"
   - "[[Bildung]]"
 related_theories:
-  - "[[Governmentality]]"
   - "[[Societies of Control]]"
 related_methods:
   - "[[Matching]]"

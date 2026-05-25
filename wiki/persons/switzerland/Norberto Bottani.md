@@ -16,8 +16,8 @@ related_concepts:
   - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[Internationalization of Higher Education]]"
-related_theories:
   - "[[Science and Technology Studies]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
