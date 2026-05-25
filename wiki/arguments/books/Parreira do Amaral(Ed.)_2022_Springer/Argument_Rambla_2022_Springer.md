@@ -20,7 +20,6 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Regulatory Regionalism]]"
-  - "[[The Great Learning]]"
   - "[[Doxa]]"
   - "[[Network Governance]]"
   - "[[Neocorporatism]]"
@@ -28,7 +27,6 @@ related_concepts:
   - "[[Scientization of Politics]]"
 related_theories:
   - "[[Appraisal Theory]]"
-  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Matching]]"
   - "[[Comparative Case Study]]"

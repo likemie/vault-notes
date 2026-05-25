@@ -17,7 +17,6 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Feedback]]"
   - "[[Effect Size]]"
-  - "[[Tongxue]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"

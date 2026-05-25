@@ -36,6 +36,67 @@ HTML_TAG_RE = re.compile(r"<[^>]+>")
 SOURCE_SECTION_NAMES = {"来源", "sources", "source"}
 
 
+TABLE_SEPARATOR_RE = re.compile(r"^\s*\|?\s*:?-{3,}:?\s*(?:\|\s*:?-{3,}:?\s*)+\|?\s*$")
+TABLE_UNSAFE_CELL_RE = re.compile(
+    r"`|\$|\[\[|\]\]|!?\[[^\]]*\]\([^)]*\)|https?://|doi:\s*\S+|10\.\d{4,9}/\S+|<[^>]+>",
+    re.IGNORECASE,
+)
+
+
+def count_unescaped_pipes(line: str) -> int:
+    count = 0
+    escaped = False
+    for ch in line.rstrip("\n"):
+        if escaped:
+            escaped = False
+            continue
+        if ch == "\\":
+            escaped = True
+            continue
+        if ch == "|":
+            count += 1
+    return count
+
+
+def unescaped_pipe_positions(line: str) -> list[int]:
+    positions: list[int] = []
+    escaped = False
+    core = line.rstrip("\n")
+    for i, ch in enumerate(core):
+        if escaped:
+            escaped = False
+            continue
+        if ch == "\\":
+            escaped = True
+            continue
+        if ch == "|":
+            positions.append(i)
+    return positions
+
+
+def is_markdown_table_separator_line(line: str) -> bool:
+    return bool(TABLE_SEPARATOR_RE.match(line.rstrip("\n")))
+
+
+def is_markdown_table_line(line: str) -> bool:
+    stripped = line.strip()
+    if not stripped or stripped.startswith("```"):
+        return False
+    if is_markdown_table_separator_line(line):
+        return True
+    # Require at least two unescaped pipes. This intentionally handles normal
+    # pipe-bounded Markdown tables and avoids treating ordinary prose with one
+    # pipe as a table.
+    return count_unescaped_pipes(line) >= 2
+
+
+def is_safe_table_cell(cell: str) -> bool:
+    stripped = cell.strip()
+    if not stripped:
+        return False
+    return TABLE_UNSAFE_CELL_RE.search(cell) is None
+
+
 @dataclass(frozen=True)
 class Entry:
     title: str
@@ -376,31 +437,44 @@ def current_file_title(path: Path, path_to_title: dict[str, str]) -> str:
 
 
 def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -> tuple[str, int]:
+    """Clean invalid wikilinks, but leave Markdown table rows untouched.
+
+    Table rows are structurally fragile: removing a display text that contains a
+    pipe, URL, HTML, or other Markdown can alter the rendered column layout. Table
+    linking is handled separately at cell level by link_table_row().
+    """
     removed = 0
 
-    def repl(m: re.Match[str]) -> str:
+    def clean_line(line: str) -> str:
         nonlocal removed
-        target = m.group(1).strip()
-        display = m.group(2)
-        if target not in entries_by_title:
-            removed += 1
-            return display if display is not None else target
+        if is_markdown_table_line(line):
+            return line
 
-        if display is not None and is_standalone_cjk_alias(display, entries_by_title[target]):
-            if not valid_boundary(text, m.start(), m.end(), display):
+        def repl(m: re.Match[str]) -> str:
+            nonlocal removed
+            target = m.group(1).strip()
+            display = m.group(2)
+            if target not in entries_by_title:
                 removed += 1
-                return display
+                return display if display is not None else target
 
-        if display is not None:
-            display_clean = display.strip()
-            entry = entries_by_title[target]
-            valid_displays = {entry.title, *entry.aliases}
-            if display_clean not in valid_displays:
-                removed += 1
-                return display
-        return m.group(0)
+            if display is not None and is_standalone_cjk_alias(display, entries_by_title[target]):
+                if not valid_boundary(line, m.start(), m.end(), display):
+                    removed += 1
+                    return display
 
-    return WIKILINK_RE.sub(repl, text), removed
+            if display is not None:
+                display_clean = display.strip()
+                entry = entries_by_title[target]
+                valid_displays = {entry.title, *entry.aliases}
+                if display_clean not in valid_displays:
+                    removed += 1
+                    return display
+            return m.group(0)
+
+        return WIKILINK_RE.sub(repl, line)
+
+    return "".join(clean_line(line) for line in text.splitlines(keepends=True)), removed
 
 
 def clean_invalid_links(body: str, entries_by_title: dict[str, Entry]) -> tuple[str, int]:
@@ -477,6 +551,90 @@ def link_text(display: str, target: str) -> str:
     return f"[[{target}|{display}]]"
 
 
+def link_plain_text(chunk: str, terms: list[Term], current_title: str, already_linked: set[str]) -> tuple[str, int]:
+    additions = 0
+    i = 0
+    new_chunk: list[str] = []
+    while i < len(chunk):
+        matched: Term | None = None
+        for term in terms:
+            if term.target == current_title or term.target in already_linked:
+                continue
+            if not match_term_at(chunk, i, term.text):
+                continue
+            if not valid_boundary(chunk, i, i + len(term.text), term.text):
+                continue
+            matched = term
+            break
+
+        if matched is None:
+            new_chunk.append(chunk[i])
+            i += 1
+            continue
+
+        new_chunk.append(link_text(matched.text, matched.target))
+        already_linked.add(matched.target)
+        additions += 1
+        i += len(matched.text)
+
+    return "".join(new_chunk), additions
+
+
+def link_table_row(line: str, terms: list[Term], current_title: str, already_linked: set[str]) -> tuple[str, int]:
+    if is_markdown_table_separator_line(line):
+        return line, 0
+
+    original_pipe_count = count_unescaped_pipes(line)
+    positions = unescaped_pipe_positions(line)
+    if len(positions) < 2:
+        return line, 0
+
+    newline = "\n" if line.endswith("\n") else ""
+    core = line[:-1] if newline else line
+    out: list[str] = []
+    additions = 0
+    cursor = 0
+
+    for idx, pipe_pos in enumerate(positions):
+        # Copy the text before the first pipe and every pipe itself exactly.
+        if idx == 0:
+            out.append(core[cursor : pipe_pos + 1])
+        else:
+            cell = core[cursor:pipe_pos]
+            if is_safe_table_cell(cell):
+                linked_cell, added = link_plain_text(cell, terms, current_title, already_linked)
+                out.append(linked_cell)
+                additions += added
+            else:
+                out.append(cell)
+            out.append("|")
+        cursor = pipe_pos + 1
+
+    # Preserve trailing text after the final pipe exactly. In normal pipe-bounded
+    # tables this is usually empty or whitespace.
+    out.append(core[cursor:])
+    new_line = "".join(out) + newline
+
+    # Last-resort structural guard: if the table pipe count changed, discard the
+    # edited line instead of risking a broken table.
+    if count_unescaped_pipes(new_line) != original_pipe_count:
+        return line, 0
+    return new_line, additions
+
+
+def link_unprotected_chunk(chunk: str, terms: list[Term], current_title: str, already_linked: set[str]) -> tuple[str, int]:
+    out: list[str] = []
+    additions = 0
+    for line in chunk.splitlines(keepends=True):
+        if is_markdown_table_line(line):
+            linked_line, added = link_table_row(line, terms, current_title, already_linked)
+        else:
+            linked_line, added = link_plain_text(line, terms, current_title, already_linked)
+        out.append(linked_line)
+        additions += added
+    return "".join(out), additions
+
+
 def link_section(section: str, terms: list[Term], current_title: str, already_linked: set[str]) -> tuple[str, int]:
     additions = 0
     chunks = split_protected_spans(section)
@@ -490,32 +648,9 @@ def link_section(section: str, terms: list[Term], current_title: str, already_li
             continue
         if not chunk:
             continue
-
-        i = 0
-        new_chunk: list[str] = []
-        while i < len(chunk):
-            matched: Term | None = None
-            for term in terms:
-                if term.target == current_title or term.target in already_linked:
-                    continue
-                if not match_term_at(chunk, i, term.text):
-                    continue
-                if not valid_boundary(chunk, i, i + len(term.text), term.text):
-                    continue
-                matched = term
-                break
-
-            if matched is None:
-                new_chunk.append(chunk[i])
-                i += 1
-                continue
-
-            new_chunk.append(link_text(matched.text, matched.target))
-            already_linked.add(matched.target)
-            additions += 1
-            i += len(matched.text)
-
-        out.append("".join(new_chunk))
+        linked_chunk, added = link_unprotected_chunk(chunk, terms, current_title, already_linked)
+        out.append(linked_chunk)
+        additions += added
 
     return "".join(out), additions
 
@@ -587,9 +722,17 @@ def sync_file(
     return changed, added, removed
 
 
-def run_sync(paths: list[str], dry_run: bool, git_only: bool) -> None:
+def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool) -> None:
     if git_only and paths:
         raise SystemExit("`sync --git` does not accept explicit paths; use either --git or paths.")
+    if full and paths:
+        raise SystemExit("`sync --full` does not accept explicit paths; use either --full or paths.")
+    if git_only and full:
+        raise SystemExit("Use only one of --git or --full.")
+
+    # Default to incremental git-aware sync when no explicit path is supplied.
+    # Use --full for a whole-vault relink. Explicit paths remain path-scoped.
+    effective_git_only = git_only or (not full and not paths)
 
     entries = load_entries()
     source_entries = load_source_entries()
@@ -597,7 +740,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool) -> None:
     for source in source_entries:
         entries_by_title.setdefault(source.title, source)
     source_pattern = make_source_pattern({source.title for source in source_entries})
-    files = iter_git_target_files() if git_only else iter_target_files(paths)
+    files = iter_git_target_files() if effective_git_only else iter_target_files(paths)
 
     stats = LinkStats()
     for path in files:
@@ -625,7 +768,8 @@ def build_parser() -> argparse.ArgumentParser:
     sync = sub.add_parser("sync", help="Clean invalid links and add missing wikilinks.")
     sync.add_argument("paths", nargs="*", help="Optional file or directory paths relative to vault root.")
     sync.add_argument("--dry-run", action="store_true", help="Show changes without writing files.")
-    sync.add_argument("--git", action="store_true", help="Only process files affected by git changes.")
+    sync.add_argument("--git", action="store_true", help="Only process files affected by git changes. This is also the default when no path is supplied.")
+    sync.add_argument("--full", action="store_true", help="Process the whole wiki. Use after bulk alias/title/path changes or before major releases.")
 
     return parser
 
@@ -636,7 +780,7 @@ def main() -> None:
     parser = build_parser()
     args = parser.parse_args()
     if args.command in {None, "sync"}:
-        run_sync(getattr(args, "paths", []), getattr(args, "dry_run", False), getattr(args, "git", False))
+        run_sync(getattr(args, "paths", []), getattr(args, "dry_run", False), getattr(args, "git", False), getattr(args, "full", False))
     else:
         parser.error(f"unknown command: {args.command}")
 

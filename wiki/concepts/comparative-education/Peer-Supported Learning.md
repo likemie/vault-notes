@@ -13,11 +13,9 @@ tags:
   - theme/learning
   - field/comparative-education
 related_concepts:
-  - "[[Tongxue]]"
   - "[[Humility in Learning]]"
   - "[[Learning Virtues]]"
   - "[[Class Size]]"
-  - "[[The Great Learning]]"
   - "[[Ideal Learner]]"
   - "[[Nerd]]"
   - "[[Zero-Sum Competition]]"

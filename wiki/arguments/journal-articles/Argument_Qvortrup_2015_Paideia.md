@@ -18,7 +18,6 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Effect Size]]"
-  - "[[Tongxue]]"
   - "[[Problem-Based Learning]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"

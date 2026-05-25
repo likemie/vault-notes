@@ -14,8 +14,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Sage]]"
   - "[[University Motto]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Zhu Xi]]"

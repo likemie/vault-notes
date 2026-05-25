@@ -25,6 +25,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[PISA]]"
 related_arguments:

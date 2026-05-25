@@ -13,7 +13,6 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons:

@@ -13,8 +13,7 @@ tags:
 - federal-study
 - region/us
 - level/k12
-related_concepts:
-  - "[[Tongxue]]"
+related_concepts: []
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:

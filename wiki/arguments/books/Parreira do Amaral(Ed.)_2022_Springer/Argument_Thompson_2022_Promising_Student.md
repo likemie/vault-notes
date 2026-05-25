@@ -15,7 +15,6 @@ tags:
 - theme/competitiveness
 - theory/governmentality
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
   - "[[Governmentality]]"

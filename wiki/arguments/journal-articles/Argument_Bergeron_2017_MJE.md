@@ -18,7 +18,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
-  - "[[The Great Learning]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"

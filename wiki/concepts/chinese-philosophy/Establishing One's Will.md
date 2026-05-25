@@ -20,7 +20,6 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Familiarization]]"
   - "[[Western Learner]]"
-  - "[[The Great Learning]]"
   - "[[Ideal Learner]]"
 related_theories: []
 related_methods: []

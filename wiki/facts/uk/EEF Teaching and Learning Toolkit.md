@@ -21,7 +21,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Feedback]]"
   - "[[Professional Judgment]]"
-  - "[[Tongxue]]"
   - "[[Statistical Significance]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"

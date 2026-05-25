@@ -12,7 +12,6 @@ tags:
   - theme/social-relations
   - field/comparative-education
 related_concepts:
-  - "[[Tongxue]]"
   - "[[Five Cardinal Relationships]]"
   - "[[Ritual Propriety]]"
   - "[[Self-Cultivation]]"

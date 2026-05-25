@@ -12,7 +12,6 @@ tags:
 - paradigm/critical
 related_concepts:
   - "[[Didaktik]]"
-  - "[[Tongxue]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
   - "[[Atomisation of Knowledge and Skills]]"

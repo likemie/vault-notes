@@ -13,7 +13,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Scientism]]"
-  - "[[Tongxue]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Cargo Cult Science]]"
@@ -77,7 +76,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> 该模型本身不是实证研究发现，而是 Qvortrup 对未来[[Meta-analysis|元分析]]和教育[[Intervention Research|干预研究]]提出的概念要求：如果研究者要更精确地说明不同教学影响对不[[Tongxue|同学]]习结果的效果，就必须把学习结果区分为不同知识形式，并理解这些形式之间的动态关系（Qvortrup, 2015, pp.29, 32–33）。
+> 该模型本身不是实证研究发现，而是 Qvortrup 对未来[[Meta-analysis|元分析]]和教育[[Intervention Research|干预研究]]提出的概念要求：如果研究者要更精确地说明不同教学影响对不同学习结果的效果，就必须把学习结果区分为不同知识形式，并理解这些形式之间的动态关系（Qvortrup, 2015, pp.29, 32–33）。
 
 ## 研究用途（可操作化方向）
 

@@ -18,7 +18,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
-  - "[[Tongxue]]"
   - "[[Feedback]]"
   - "[[Learning Gap]]"
 related_theories: []

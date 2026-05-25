@@ -8,6 +8,8 @@ Lint an Obsidian / Quartz academic wiki vault.
 Default behavior:
 - Read-only checks.
 - Does not modify files.
+- By default, lint only Markdown files changed in git status, including untracked files.
+- Use --full for a full-vault lint.
 - Exits with non-zero status when errors are found.
 - Warnings do not fail unless --strict is used.
 
@@ -16,10 +18,11 @@ Expected location:
 
 Usage:
   cd /Users/shaoyangwu/Documents/MyNotes
-  python3 scripts/vault_lint.py
+  python3 scripts/vault_lint.py                 # default incremental git lint
   python3 scripts/vault_lint.py --strict
   python3 scripts/vault_lint.py --json
   python3 scripts/vault_lint.py --path wiki/concepts
+  python3 scripts/vault_lint.py --full          # full-vault lint
 """
 
 from __future__ import annotations
@@ -28,6 +31,7 @@ import argparse
 import json
 import re
 import sys
+import subprocess
 import unicodedata
 from dataclasses import dataclass, asdict
 from pathlib import Path
@@ -136,6 +140,8 @@ MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 URL_RE = re.compile(r"https?://[^\s)>\]]+")
 DOI_RE = re.compile(r"\b10\.\d{4,9}/[-._;()/:A-Z0-9]+\b", re.IGNORECASE)
 
+EMBED_FILE_EXISTS_CACHE: Dict[str, bool] = {}
+
 
 # -----------------------------
 # Data model
@@ -183,6 +189,57 @@ def iter_md_files(base: Path) -> Iterable[Path]:
 
 def read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8")
+
+
+def run_git(args: List[str]) -> str:
+    try:
+        result = subprocess.run(
+            ["git", *args],
+            cwd=ROOT,
+            check=True,
+            text=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+        )
+        return result.stdout
+    except Exception:
+        return ""
+
+
+def git_changed_md_files() -> List[Path]:
+    """Return changed Markdown files according to git status, including untracked files."""
+    out = run_git(["status", "--porcelain", "--untracked-files=all"])
+    files: List[Path] = []
+    for line in out.splitlines():
+        if not line:
+            continue
+        # Porcelain v1 uses two status columns followed by path.
+        raw = line[3:] if len(line) > 3 else ""
+        if " -> " in raw:
+            raw = raw.split(" -> ", 1)[1]
+        raw = raw.strip().strip('"')
+        if not raw or not raw.endswith(".md"):
+            continue
+        p = ROOT / raw
+        if p.exists() and p.suffix.lower() == ".md":
+            files.append(p)
+    return files
+
+
+def embedded_file_exists_by_name(target_name: str) -> bool:
+    """Cache expensive vault-wide filename lookups used for embedded PDFs/images."""
+    key = unicodedata.normalize("NFC", target_name)
+    if key in EMBED_FILE_EXISTS_CACHE:
+        return EMBED_FILE_EXISTS_CACHE[key]
+    found = False
+    for c in ROOT.rglob("*"):
+        if any(part in SKIP_DIR_NAMES for part in c.parts):
+            continue
+        if unicodedata.normalize("NFC", c.name) == key:
+            found = True
+            break
+    EMBED_FILE_EXISTS_CACHE[key] = found
+    return found
 
 
 def split_frontmatter(text: str) -> Tuple[Optional[str], str, int]:
@@ -635,11 +692,9 @@ def check_wikilinks(path: Path, text: str, by_title: Dict[str, Dict[str, Any]], 
             continue
         suffix = Path(target).suffix.lower()
         if suffix in {".pdf", ".epub", ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}:
-            # Search common locations by filename.
-            target_name = unicodedata.normalize("NFC", Path(target).name)
-            candidates = [c for c in ROOT.rglob("*") if unicodedata.normalize("NFC", c.name) == target_name]
-            candidates = [c for c in candidates if not any(part in SKIP_DIR_NAMES for part in c.parts)]
-            if not candidates:
+            # Search common locations by filename. This can be expensive, so cache by filename.
+            target_name = Path(target).name
+            if not embedded_file_exists_by_name(target_name):
                 issues.append(Issue("WARN", rel(path), f"embedded file not found in vault: ![[{target}]]", line=line_of_pos(body, m.start(), body_start_line), code="MISSING_EMBED_FILE"))
 
     # Raw markdown links to local absolute path.
@@ -788,7 +843,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_path_and_index_consistency(path, data, path_to_title, issues)
 
 
-def lint_vault(paths: List[Path], strict: bool = False) -> List[Issue]:
+def lint_vault(paths: List[Path], strict: bool = False, full: bool = False) -> List[Issue]:
     issues: List[Issue] = []
     check_required_files(issues)
     by_title, path_to_title = load_index(issues)
@@ -800,11 +855,14 @@ def lint_vault(paths: List[Path], strict: bool = False) -> List[Issue]:
                 issues.append(Issue("ERROR", rel(p), "path does not exist", code="PATH_MISSING"))
                 continue
             md_files.extend(iter_md_files(p))
-    else:
+    elif full:
         # Main vault markdown files.
         for base in [WIKI_DIR, ROOT / "books", ROOT / "sources", ROOT / "vault-schema.md", ROOT / "CLAUDE.md"]:
             if base.exists():
                 md_files.extend(iter_md_files(base))
+    else:
+        # Default incremental mode: only files changed in git status.
+        md_files.extend(git_changed_md_files())
 
     # Deduplicate preserving order.
     seen = set()
@@ -829,13 +887,14 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Lint Obsidian / Quartz academic wiki vault.")
     parser.add_argument("--strict", action="store_true", help="treat warnings as failures")
     parser.add_argument("--json", action="store_true", help="output JSON")
-    parser.add_argument("--path", action="append", default=[], help="limit lint to path. Can be repeated.")
+    parser.add_argument("--path", action="append", default=[], help="limit lint to path. Can be repeated. Overrides default git-incremental mode.")
+    parser.add_argument("--full", action="store_true", help="lint the full vault instead of only git-changed Markdown files")
     parser.add_argument("--quiet", action="store_true", help="only print errors and summary")
     parser.add_argument("--show-info", action="store_true", help="include INFO items in text output")
     args = parser.parse_args()
 
     paths = [Path(p) for p in args.path]
-    issues = lint_vault(paths, strict=args.strict)
+    issues = lint_vault(paths, strict=args.strict, full=args.full)
 
     errors = [i for i in issues if i.severity == "ERROR"]
     warns = [i for i in issues if i.severity == "WARN"]

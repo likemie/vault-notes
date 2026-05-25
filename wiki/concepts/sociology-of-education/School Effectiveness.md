@@ -13,7 +13,6 @@ tags:
   - region/uk
   - method/quantitative
 related_concepts:
-  - "[[Tongxue]]"
   - "[[Professional Judgment]]"
   - "[[Governmentality]]"
   - "[[School Leadership]]"

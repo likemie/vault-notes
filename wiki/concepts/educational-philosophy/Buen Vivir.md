@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Ubuntu]]"
   - "[[Posthumanism]]"
-  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

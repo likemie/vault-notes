@@ -24,7 +24,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Feedback]]"
-  - "[[The Great Learning]]"
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Critical Realism]]"

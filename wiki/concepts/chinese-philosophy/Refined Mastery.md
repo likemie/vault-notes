@@ -19,8 +19,7 @@ related_concepts:
   - "[[Familiarization]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Zhuangzi]]"

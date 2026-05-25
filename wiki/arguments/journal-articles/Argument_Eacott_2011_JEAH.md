@@ -18,10 +18,10 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Doxa]]"
-  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources:

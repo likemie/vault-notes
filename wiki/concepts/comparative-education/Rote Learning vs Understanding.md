@@ -21,7 +21,6 @@ related_concepts:
   - "[[Refined Mastery]]"
 related_theories:
   - "[[Phenomenology]]"
-  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons: []
 related_facts: []

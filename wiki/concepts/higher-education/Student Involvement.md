@@ -13,9 +13,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Student Engagement]]"
-  - "[[The Great Learning]]"
   - "[[Academic and Social Integration]]"
-  - "[[Tongxue]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Cultural Capital]]"
@@ -63,7 +61,7 @@ updated: '2026-05-18'
 > [!note]
 > - **1984 提出**：Astin 在 *Journal of College Student Personnel* 发表"Student Involvement: A Developmental Theory for Higher Education"，系统提出学生涉入理论及五条公理（[[Yajun Zheng|郑雅君]]，2023，引 Astin, 1984）
 > - **1991 Kuh 发展**：Kuh 在 Astin 基础上发展[[Student Engagement|学生投入]]理论，将涉入概念进一步操作化为可观察的行为指标，并强调学校的制度性支持角色（郑雅君，2023，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
-> - **2023 中国教育研究应用**：[[Yajun Zheng|郑雅君]]将 Astin 涉入理论作为"[[The Great Learning|大学]]过程"三层嵌套框架中"投入过程"的理论基础之一，与 Kuh 的[[Student Engagement]]和 Tinto 的[[Academic and Social Integration]]并列使用（郑雅君，2023）
+> - **2023 中国教育研究应用**：[[Yajun Zheng|郑雅君]]将 Astin 涉入理论作为"大学过程"三层嵌套框架中"投入过程"的理论基础之一，与 Kuh 的[[Student Engagement]]和 Tinto 的[[Academic and Social Integration]]并列使用（郑雅君，2023）
 
 ---
 
@@ -82,7 +80,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - 学生发展理论（Student Development Theory）— Astin 的涉入理论属于"[[The Great Learning|大学]]冲击"（college impact）研究范式，关注大学环境如何通过学生的主动参与来影响其发展结果
+> - 学生发展理论（Student Development Theory）— Astin 的涉入理论属于"大学冲击"（college impact）研究范式，关注大学环境如何通过学生的主动参与来影响其发展结果
 > - 该理论为后续 [[Student Engagement]]（Kuh, 1991）和 [[Academic and Social Integration]]（Tinto, 1993）的实证操作化提供了"能量"维度的理论基础（[[Yajun Zheng|郑雅君]]，2023）
 
 ---
@@ -105,7 +103,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example]
-> - [[Yajun Zheng|郑雅君]]（2023）将 Astin 涉入理论纳入"[[The Great Learning|大学]]过程"分析框架的"投入过程"层，用于分析 [[Goal-Controlled Mode|目标掌控模式]] 和 [[Intuition-Dependent Mode|直觉依赖模式]] 在学业和社会性两个维度上的投入差异。详见 [[Academic Engagement]]、[[Social Engagement]] 和 [[Argument_郑_2023_上海三联书店]]
+> - [[Yajun Zheng|郑雅君]]（2023）将 Astin 涉入理论纳入"大学过程"分析框架的"投入过程"层，用于分析 [[Goal-Controlled Mode|目标掌控模式]] 和 [[Intuition-Dependent Mode|直觉依赖模式]] 在学业和社会性两个维度上的投入差异。详见 [[Academic Engagement]]、[[Social Engagement]] 和 [[Argument_郑_2023_上海三联书店]]
 
 ---
 

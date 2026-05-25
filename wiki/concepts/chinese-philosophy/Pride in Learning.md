@@ -18,9 +18,7 @@ tags:
 related_concepts:
   - "[[Humility in Learning]]"
   - "[[Western Learner]]"
-  - "[[Tongxue]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[MCC Discourse Analysis Examples]]"

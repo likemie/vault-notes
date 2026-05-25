@@ -23,10 +23,8 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Gamification]]"
   - "[[Knowledge Production]]"
-  - "[[Tongxue]]"
   - "[[Geopolitics of Knowledge]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Matching]]"
 related_persons: []

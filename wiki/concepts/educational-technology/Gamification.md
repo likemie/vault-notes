@@ -19,8 +19,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Bildung]]"
   - "[[Data Behaviorism]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
@@ -55,7 +54,7 @@ updated: 2026-05-20
 ## 理论基础
 
 > [!tip]
-> Gamification 的设计逻辑根植于行为主义心[[Neo-Confucianism|理学]]，特别是 Skinner 的操作条件反射（operant conditioning）。Schüll（2014, pp.147–154）在其对拉斯维加斯老虎机的研究中指出，硅谷的产品开发者明确引用了操作条件反射理论来建构其产品的[[Feedback|反馈]]和奖励机制（Jornitz & Klinge, 2022, pp.236–237）。在这一逻辑下，学习被理解为通过正反馈（积分、星星、徽章）来调节和强化特定行为——而非通过理解和反思。
+> Gamification 的设计逻辑根植于行为主义心理学，特别是 Skinner 的操作条件反射（operant conditioning）。Schüll（2014, pp.147–154）在其对拉斯维加斯老虎机的研究中指出，硅谷的产品开发者明确引用了操作条件反射理论来建构其产品的[[Feedback|反馈]]和奖励机制（Jornitz & Klinge, 2022, pp.236–237）。在这一逻辑下，学习被理解为通过正反馈（积分、星星、徽章）来调节和强化特定行为——而非通过理解和反思。
 
 ## 在教育中的张力
 

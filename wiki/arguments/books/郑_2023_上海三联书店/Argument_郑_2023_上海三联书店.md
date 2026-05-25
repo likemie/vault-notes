@@ -16,8 +16,6 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
-  - "[[Tongxue]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Champ]]"
@@ -54,7 +52,6 @@ related_theories:
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Culture as Toolkit]]"
   - "[[Dual Elite Career Paths]]"
-  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Constructivist Grounded Theory]]"
   - "[[In-depth Interview]]"
@@ -64,6 +61,7 @@ related_methods:
   - "[[Matching]]"
 related_persons:
   - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Max Weber]]"
   - "[[Ann Swidler]]"
   - "[[Marcia Baxter Magolda]]"

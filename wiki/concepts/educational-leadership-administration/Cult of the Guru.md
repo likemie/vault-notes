@@ -16,7 +16,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Transformative Leadership]]"
   - "[[Neo-Taylorism in Educational Administration]]"
-  - "[[The Great Learning]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Feedback]]"
 related_theories: []

@@ -14,7 +14,6 @@ tags:
 - theme/critical-thinking
 - theme/learning
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Sage]]"
   - "[[Faust]]"
   - "[[Ideal Learner]]"

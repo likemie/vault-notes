@@ -16,7 +16,6 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Ecomuseology]]"
   - "[[Epistemology of Resistance]]"
-  - "[[The Great Learning]]"
   - "[[Tense Society]]"
   - "[[Official Knowledge]]"
   - "[[Life Power]]"

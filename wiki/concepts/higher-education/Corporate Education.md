@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Further Education]]"
   - "[[Corporate University]]"
-  - "[[The Great Learning]]"
   - "[[Varieties of Capitalism]]"
 related_theories:
   - "[[Cultural Political Economy]]"
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - **vs [[Further Education]]**：企业教育是继续教育的子集——专指由企业为其雇员提供或资助的教育培训。继续教育还包括非企业主体（专业协会、营利性提供商、咨询公司等）提供的培训（Hartmann, 2022, pp.180, 190）
-> - **vs [[Corporate University]]**：企业教育是公司所有教育培训活动的总称，涵盖从一线工人培训到高管培养的整个光谱；企业[[The Great Learning|大学]]（CU）是企业教育中集中化、制度化程度最高的组织形式，是 MNCs 为提升培训声誉而创造的品牌化框架（Hartmann, 2022, pp.185–186）
+> - **vs [[Corporate University]]**：企业教育是公司所有教育培训活动的总称，涵盖从一线工人培训到高管培养的整个光谱；企业大学（CU）是企业教育中集中化、制度化程度最高的组织形式，是 MNCs 为提升培训声誉而创造的品牌化框架（Hartmann, 2022, pp.185–186）
 
 ---
 

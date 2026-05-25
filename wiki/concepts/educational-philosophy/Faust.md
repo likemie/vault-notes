@@ -6,8 +6,6 @@ type: concept
 tags: ["region/western", "theme/learning", "theme/cultural-metaphor"]
 related_concepts:
   - "[[Self-Cultivation]]"
-  - "[[The Great Learning]]"
-  - "[[Tongxue]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []

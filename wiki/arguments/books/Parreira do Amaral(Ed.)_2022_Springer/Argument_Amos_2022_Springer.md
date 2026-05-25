@@ -19,7 +19,6 @@ related_concepts:
   - "[[Transitology]]"
   - "[[Sympoiesis]]"
   - "[[International Education]]"
-  - "[[The Great Learning]]"
   - "[[School Autonomy]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Vergegenkunft]]"
@@ -45,6 +44,7 @@ related_persons:
   - "[[Arturo Escobar]]"
   - "[[Humberto Maturana]]"
   - "[[Francisco Varela]]"
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[Grammar School]]"
   - "[[Sputnik Shock 1957]]"

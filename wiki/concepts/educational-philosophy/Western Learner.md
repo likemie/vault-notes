@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Mind-Oriented Learning Process]]"
   - "[[Refined Mastery]]"
-  - "[[The Great Learning]]"
   - "[[Revoicing]]"
   - "[[Devil's Advocate]]"
   - "[[Ideal Learner]]"
@@ -25,8 +24,7 @@ related_concepts:
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Examined Life]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Jean-Jacques Rousseau]]"
@@ -120,7 +118,7 @@ updated: 2026-05-24
 
 当西方学习者面对不熟悉的事物、好奇心被触发时——"在这样的时候，大多数人会提出疑问"（Li, 2012, p.113）。Li 引用了多位诺贝尔奖得主的自传来展示探究精神的早期发展：
 
-> [!example] Roy J. Glauber（2005 年诺贝尔物[[Neo-Confucianism|理学]]奖）
+> [!example] Roy J. Glauber（2005 年诺贝尔物理学奖）
 > Glauber 在自传中描述了他如何"在 11 岁时开始问关于天空的问题"。一个晴朗的九月早晨，他早早醒来，"决心要看到它（太阳）"。他把祖父的望远镜从窗户伸出去，用透镜片将太阳光聚焦到一张纸上。"我一直观察到纸终于——我还以为它不会——烧了起来。"（Li, 2012, pp.115-116）
 
 > [!info] 探究的制度化
@@ -166,7 +164,7 @@ updated: 2026-05-24
 
 **说话作为领导力特质**（pp.81-83）。从古希腊十大阿提卡演说家、Demosthenes、Cicero，到近代的丘吉尔、罗斯福、肯尼迪、马丁·路德·金和奥巴马——"西方拥有一长串以雄辩著称的政治领袖名单"。在民主制度中，口头辩论是立法审议的首要手段——"没有言辞程序和实践，西方风格民主如何进行是根本不可想象的"（Li, 2012, p.82）。宗教领袖同样依赖于讲道——"对许多人来说，是否继续参加某个教堂的决定取决于他是否喜欢讲道的质量"（Li, 2012, p.82）。
 
-**说话作为艺术**（pp.83-86）。从古希腊的智者们（sophists）将修辞发展为收费职业开始，到亚里士多德提出说服三要素——**ethos**（道德品格/信誉）、**pathos**（情感诉求）、**logos**（逻辑推理），再到 Cicero 的演说五步骤（inventio 构思 → dispositio 结构 → elocutio 风格 → memoria 记忆 → actio 呈现），以及 Quintilian 设计的从出生到老年的完整"完美演说家"教育方案。Cicero 提出的"理想演说家"需要[[Refined Mastery|精通]]法律、政治、历史、文学、伦理、战争、医学和数学——这一理念本质上是**西方博雅教育（liberal arts education）的核心**（Li, 2012, pp.85-86）。至今，美国[[The Great Learning|大学]]校园中公共演讲课长盛不衰——学生"经常需要排长队等候才能选上这门课"（Li, 2012, p.86）。
+**说话作为艺术**（pp.83-86）。从古希腊的智者们（sophists）将修辞发展为收费职业开始，到亚里士多德提出说服三要素——**ethos**（道德品格/信誉）、**pathos**（情感诉求）、**logos**（逻辑推理），再到 Cicero 的演说五步骤（inventio 构思 → dispositio 结构 → elocutio 风格 → memoria 记忆 → actio 呈现），以及 Quintilian 设计的从出生到老年的完整"完美演说家"教育方案。Cicero 提出的"理想演说家"需要[[Refined Mastery|精通]]法律、政治、历史、文学、伦理、战争、医学和数学——这一理念本质上是**西方博雅教育（liberal arts education）的核心**（Li, 2012, pp.85-86）。至今，美国大学校园中公共演讲课长盛不衰——学生"经常需要排长队等候才能选上这门课"（Li, 2012, p.86）。
 
 ### 6. 西方说话风格：Grice 会话准则
 
@@ -197,10 +195,10 @@ O'Connor 和 Michaels（1993）的研究揭示了西方课堂如何通过 [[Revo
 | 维度 | 西方学习者 | 中国学习者 |
 |------|-----------|-------------------------------|
 | 学习方向 | 向外——探究外部世界 | 向内——完善自我 |
-| 核心能力 | 心智（推理、智力） | 学习美德（诚心、勤奋、刻苦……） |
+| 核心能力 | 心智（推理、智力） | [[Learning Virtues|学习美德]]（诚心、勤奋、刻苦……） |
 | 学习过程 | 自我表达 + 挑战权威 | 八个同心圆（格物→……→平天下） |
-| 终极目标 | 掌握世界、个人创造力 | 成圣、以天下为己任 |
-| 情感驱动 | 好奇心、兴趣、内在动机 | 诚心、谦虚、尊师 |
+| 终极目标 | 掌握世界、个人创造力 | 成圣、[[Take the World Upon Oneself|以天下为己任]] |
+| 情感驱动 | 好奇心、兴趣、内在动机 | 诚心、[[Humility in Learning|谦虚]]、尊师 |
 | 成就标准 | 个人才华与创造性洞察 | 道德品质与行动一致性 |
 | 图示形态 | 学习者→探究→外部世界（线性的） | 同心圆—向上（向外扩展且开放的） |
 

@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Knowledge Capitalism]]"
   - "[[Classical Geopolitics]]"
-  - "[[The Great Learning]]"
   - "[[Orientalism]]"
   - "[[Knowledge Production]]"
   - "[[International Education]]"

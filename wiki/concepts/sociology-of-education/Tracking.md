@@ -12,7 +12,11 @@ tags:
   - region/western
   - theme/inequality
   - theme/stratification
-related_concepts: []
+related_concepts:
+  - "[[Talent Assumption]]"
+  - "[[Entity vs Incremental Intelligence]]"
+  - "[[Intellectual-Social Divide]]"
+  - "[[Nerd]]"
 related_theories: []
 related_methods: []
 related_persons: []

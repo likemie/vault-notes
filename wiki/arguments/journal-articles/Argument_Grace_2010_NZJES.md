@@ -13,7 +13,6 @@ tags:
 - region/new-zealand
 related_concepts:
   - "[[Critic and Conscience of Society]]"
-  - "[[The Great Learning]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods: []

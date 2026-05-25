@@ -15,7 +15,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"
-  - "[[The Great Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Feedback]]"
   - "[[Didaktik]]"

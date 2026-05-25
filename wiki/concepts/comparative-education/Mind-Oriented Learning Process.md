@@ -13,13 +13,11 @@ tags:
   - field/cultural-psychology
 related_concepts:
   - "[[Western Learner]]"
-  - "[[The Great Learning]]"
   - "[[Ideal Learner]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Examined Life]]"
   - "[[Mind and Its Wonders]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Socrates]]"

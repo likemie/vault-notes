@@ -12,7 +12,6 @@ tags:
 - level/higher-ed
 - region/global
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Multiplicity]]"
   - "[[Power-Geometries]]"
   - "[[Methodological Globalism]]"
@@ -29,7 +28,6 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
 related_theories:
   - "[[World-Systems Theory]]"
-  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Doreen Massey]]"

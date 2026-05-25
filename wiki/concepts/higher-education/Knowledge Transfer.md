@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
-  - "[[The Great Learning]]"
   - "[[Junzi]]"
   - "[[Champ]]"
   - "[[Forced Knowledge Transfer]]"
@@ -58,7 +57,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Geopolitics of Knowledge]] — 知识地缘政治是整体概念范畴，知识转移是 Partaken 主张的 GPK 核心分析维度（另一维度是[[Knowledge Production|知识生产]]）；Partaken 批评后殖民研究过度关注知识生产的"静态"特征，忽视知识在转移过程中的动态地缘政治
-> - vs 知识交换（Knowledge Exchange） — 知识交换暗示双方在对等基础上进行物物交换，政治敏感性较低（[[The Great Learning|大学]]几乎总是在使命声明中偏好"知识交换"而非"知识转移"）；知识转移则涵盖从上至下的各种不对等流动模态（Partaken, 2022, p.76）
+> - vs 知识交换（Knowledge Exchange） — 知识交换暗示双方在对等基础上进行物物交换，政治敏感性较低（大学几乎总是在使命声明中偏好"知识交换"而非"知识转移"）；知识转移则涵盖从上至下的各种不对等流动模态（Partaken, 2022, p.76）
 
 ---
 
@@ -100,7 +99,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success]
-> - 欧洲学术专利中 60%–81% 为工业公司所有（视国家而定），而美国[[The Great Learning|大学]]拥有 68.7% 的学术专利——说明知识在学术生产后即发生所有权转移，模式因国家制度环境而异（Partaken, 2022, p.71; Lissoni, 2012）
+> - 欧洲学术专利中 60%–81% 为工业公司所有（视国家而定），而美国大学拥有 68.7% 的学术专利——说明知识在学术生产后即发生所有权转移，模式因国家制度环境而异（Partaken, 2022, p.71; Lissoni, 2012）
 > - Glitz & Meyersson (2020) 对东德国家支持的经济间谍的大规模研究证明，间谍活动有效缩小了东德与西德之间的工业技术差距（Partaken, 2022, p.77）
 > - 中国已成为最大的网络攻击来源国：约 27% 的网络攻击直接来自中国，计入重定向攻击可达 41%（Baig, 2017; 引自 Partaken, 2022, p.83）
 

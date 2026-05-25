@@ -15,8 +15,7 @@ tags:
 related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Feedback]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"

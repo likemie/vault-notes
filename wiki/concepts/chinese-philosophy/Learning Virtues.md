@@ -14,7 +14,6 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Self-Cultivation]]"
-  - "[[The Great Learning]]"
   - "[[Ideal Learner]]"
   - "[[Refined Mastery]]"
   - "[[Take the World Upon Oneself]]"

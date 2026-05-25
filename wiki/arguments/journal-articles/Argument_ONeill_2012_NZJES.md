@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Material Fallacies]]"
   - "[[Policy Entrepreneur]]"
-  - "[[The Great Learning]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
 related_theories: []

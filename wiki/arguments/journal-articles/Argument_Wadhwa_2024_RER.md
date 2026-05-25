@@ -15,7 +15,6 @@ tags:
 - methodology
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[The Great Learning]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Statistical Significance]]"
   - "[[School Leadership]]"

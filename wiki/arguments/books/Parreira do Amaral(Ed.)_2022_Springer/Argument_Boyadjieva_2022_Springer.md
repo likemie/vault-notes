@@ -16,7 +16,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Global Universities Rankings]]"
-  - "[[The Great Learning]]"
   - "[[Social Charter]]"
   - "[[Champ]]"
   - "[[Employability]]"

@@ -20,8 +20,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Confucius]]"

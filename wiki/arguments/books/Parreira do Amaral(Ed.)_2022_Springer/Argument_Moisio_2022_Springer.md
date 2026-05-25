@@ -18,8 +18,6 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
   - "[[Hegemony]]"
   - "[[National Competitive Advantage]]"
-  - "[[Tongxue]]"
-  - "[[The Great Learning]]"
   - "[[Knowledge Production]]"
   - "[[Classical Geopolitics]]"
   - "[[Flow]]"
@@ -32,7 +30,6 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Cultural Political Economy]]"
-  - "[[Neo-Confucianism]]"
   - "[[Fixity-Motion Tension]]"
 related_methods: []
 related_persons: []

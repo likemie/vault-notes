@@ -14,7 +14,6 @@ tags:
 - clearinghouse-rating-case
 - region/us
 related_concepts:
-  - "[[Tongxue]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:

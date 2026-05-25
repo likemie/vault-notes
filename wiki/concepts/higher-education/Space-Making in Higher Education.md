@@ -10,12 +10,10 @@ tags:
 - level/higher-ed
 - region/global
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Global Universities Rankings]]"
   - "[[Internationalization of Higher Education]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Doreen Massey]]"
@@ -47,7 +45,7 @@ updated: '2026-05-18'
 
 > [!note]
 > 空间制造框架有三个直接理论来源（Marginson, 2025, pp. 3–4）：
-> - **Lefebvre（1991）** — *The Production of Space* 提出空间是社会产物，将空间分析从物理地[[Neo-Confucianism|理学]]中解放出来
+> - **Lefebvre（1991）** — *The Production of Space* 提出空间是社会产物，将空间分析从物理地理学中解放出来
 > - **[[Doreen Massey]]（2005）** — *For Space* 提供了关系性空间和开放本体论的核心概念，是 Marginson 框架最主要的理论基础
 > - **Marginson（2022d）** — 在 *Global Public Good in Higher Education* 论文中首次提出三维空间制造框架，本文（2025）进一步完善并应用于地缘政治分析
 >
@@ -59,7 +57,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 > - **（a）物质元素（结构）** — 包括经济资源、机构和机构系统、传播网络、法律、法规、政策和使用语言等预先给定的结构（Marginson, 2025, p. 4）
-- **（b）想象与解释** — 个体、群体和组织行动者对空间的构想和诠释。Marginson 指出，想象力与社会经验相互塑造，如 Archer（1995, 2003）所理论化的社会自我与内在自我的反思性对话。例如，2002/2003 年中国[[The Great Learning|大学]]规划者和伦敦杂志同时"想象"出一个可通过校准排名来排序的全球大学世界——两种来自不同地点的想象最终共同塑造了全球排名体系（Marginson, 2025, p. 4）
+- **（b）想象与解释** — 个体、群体和组织行动者对空间的构想和诠释。Marginson 指出，想象力与社会经验相互塑造，如 Archer（1995, 2003）所理论化的社会自我与内在自我的反思性对话。例如，2002/2003 年中国大学规划者和伦敦杂志同时"想象"出一个可通过校准排名来排序的全球大学世界——两种来自不同地点的想象最终共同塑造了全球排名体系（Marginson, 2025, p. 4）
 - **（c）社会实践** — 行动者运用领域（b）中的想法和解释，重新加工领域（a）中的物质元素，构建新的活动、项目和组织。这些嵌入性的物质实践随后成为领域（a）中持续运作的结构，形成循环——例如，新加坡邀请外国大学设立分校的实践改变了该国的物质性教育结构，又进一步塑造了后续的政策想象（Marginson, 2025, p. 4）
 - **空间制造案例** — 大学签署协议、建立联盟、创建跨境联合学位；新加坡将自身定位为"[[Singapore Education Hub Policy|全球校园]]"并邀请外国大学设立分校；中国大学规划者和伦敦杂志在 2002/2003 年设想以校准排名来排序的大学世界；各国政府建设"世界一流大学"层级；欧盟和东盟建立区域认证协议；西方大学在东亚和东南亚设立分校；MOOC 的创建；研究者的跨国合作；数百万学生的跨境流动——所有这些都在制造高等教育的社会空间（Marginson, 2025, pp. 4–5）
 >

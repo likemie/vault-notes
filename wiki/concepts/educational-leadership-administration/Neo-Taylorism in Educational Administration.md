@@ -18,7 +18,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
   - "[[Technical Rationality]]"
-  - "[[The Great Learning]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods:

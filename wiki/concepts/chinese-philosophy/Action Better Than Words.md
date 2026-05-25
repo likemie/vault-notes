@@ -16,7 +16,6 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Fourth Culture]]"
-  - "[[The Great Learning]]"
   - "[[University Motto]]"
   - "[[Junzi]]"
   - "[[Humility in Learning]]"

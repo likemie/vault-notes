@@ -17,7 +17,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Publication Bias]]"
   - "[[Whole Language]]"
-  - "[[Tongxue]]"
   - "[[Feedback]]"
   - "[[Statistical Significance]]"
   - "[[The Great Learning]]"

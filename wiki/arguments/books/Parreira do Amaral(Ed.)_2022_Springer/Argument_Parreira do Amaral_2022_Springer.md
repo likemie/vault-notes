@@ -20,7 +20,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Production]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[The Great Learning]]"
   - "[[Champ]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Global Universities Rankings]]"

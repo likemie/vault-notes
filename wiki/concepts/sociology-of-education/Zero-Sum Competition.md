@@ -16,7 +16,6 @@ tags:
   - theme/cultural-psychology
 related_concepts:
   - "[[Nerd]]"
-  - "[[Tongxue]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Self-Cultivation]]"
   - "[[Talent Assumption]]"

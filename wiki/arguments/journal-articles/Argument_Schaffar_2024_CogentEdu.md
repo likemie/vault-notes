@@ -19,10 +19,8 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Epochal Key Problems]]"
   - "[[Atomisation of Knowledge and Skills]]"
-  - "[[Tongxue]]"
 related_theories:
   - "[[Phenomenology]]"
-  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Wolfgang Klafki]]"

@@ -12,10 +12,8 @@ tags:
 - level/higher-ed
 - region/uk
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Graduate Attributes]]"
   - "[[Employability]]"
-  - "[[Tongxue]]"
 related_theories: []
 related_methods: []
 related_persons: []

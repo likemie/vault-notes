@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
-  - "[[The Great Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[International Schools]]"
   - "[[Global Universities Rankings]]"

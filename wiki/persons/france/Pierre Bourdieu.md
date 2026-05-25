@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Habitus]]"
   - "[[Champ]]"
-  - "[[Tongxue]]"
   - "[[The Great Learning]]"
   - "[[Cultural Capital]]"
   - "[[Doxa]]"

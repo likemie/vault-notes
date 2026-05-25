@@ -18,7 +18,6 @@ related_concepts:
   - "[[Forced Knowledge Transfer]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Fourth Industrial Revolution]]"
-  - "[[The Great Learning]]"
   - "[[Junzi]]"
   - "[[Economic and Industrial Espionage]]"
   - "[[Sage]]"
@@ -26,7 +25,6 @@ related_concepts:
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Network Society]]"
-  - "[[Neo-Confucianism]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
 related_methods: []
 related_persons:

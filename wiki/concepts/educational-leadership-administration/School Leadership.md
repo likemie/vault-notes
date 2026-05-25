@@ -46,7 +46,7 @@ updated: 2026-05-18
 > [!abstract] 核心要素
 > ISSPP 跨国研究识别出一组跨情境的基本领导实践（Møller, 2017, p.380）：
 >
-> - **设定方向**（setting direction）
+> - **设定方向**（[[Tracking|setting]] direction）
 > - **发展人员**（developing people）
 > - **改进组织**（improving organization）
 > - **建立信任**（developing trust）

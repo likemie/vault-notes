@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Benevolence]]"
-  - "[[Tongxue]]"
   - "[[Pride in Learning]]"
 related_theories:
   - "[[Appraisal Theory]]"

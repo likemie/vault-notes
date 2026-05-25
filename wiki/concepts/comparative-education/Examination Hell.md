@@ -14,7 +14,6 @@ tags:
 - theme/examination
 related_concepts:
   - "[[Filial Piety]]"
-  - "[[The Great Learning]]"
   - "[[Self-Cultivation]]"
 related_theories: []
 related_methods: []

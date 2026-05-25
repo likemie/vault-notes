@@ -15,10 +15,8 @@ related_concepts:
   - "[[Faust]]"
   - "[[Enculturation]]"
   - "[[Learning Virtues]]"
-  - "[[The Great Learning]]"
   - "[[Humility in Learning]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[Prototype Methods]]"

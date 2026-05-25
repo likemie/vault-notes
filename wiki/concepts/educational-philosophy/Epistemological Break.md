@@ -11,7 +11,6 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Doxa]]"
-  - "[[The Great Learning]]"
   - "[[Knowledge Production]]"
   - "[[Epistemological Vigilance]]"
   - "[[Complexity Reduction]]"

@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
-  - "[[The Great Learning]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
   - "[[Champ]]"
@@ -27,6 +26,7 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Paul Morris]]"
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments:

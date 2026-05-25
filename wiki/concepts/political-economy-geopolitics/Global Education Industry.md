@@ -68,7 +68,7 @@ updated: '2026-05-18'
 > GEI 的形成与后福特经济转型、[[New Public Management|新公共管理]]改革和教育技术发展深度交织。Hartmann (2022) 从[[Corporate Education|企业教育]]市场的视角提供了 GEI 扩张的一个具体时间线：
 
 - **1990s**：第一所[[Corporate University|企业大学]]由美国通用汽车（GM）创建，Motorola、Apple、Deloitte、IBM、GE 等美国公司迅速跟进——企业培训从内部职能部门升级为品牌化教育项目，成为 GEI 中增长最快的板块之一（Hartmann, 2022, p.189）
-- **1990s–2000s**：欧洲 MNCs 相继建立企业[[The Great Learning|大学]]（德国 Lufthansa、VW、Siemens；法国 AXA、Alcatel-Lucent；西班牙 Santander、Telefónica 等），但欧洲对企业大学概念比美国更存争议——部分学者质疑其仅为营销包装（Hartmann, 2022, pp.185, 189）
+- **1990s–2000s**：欧洲 MNCs 相继建立企业大学（德国 Lufthansa、VW、Siemens；法国 AXA、Alcatel-Lucent；西班牙 Santander、Telefónica 等），但欧洲对企业大学概念比美国更存争议——部分学者质疑其仅为营销包装（Hartmann, 2022, pp.185, 189）
 - **2000s–**：企业教育市场集中化加速——少数 IT 巨头（Microsoft、LinkedIn Learning）和大型 e-learning 提供商（Skillsoft 覆盖 160 国）通过规模效应、IPR 排他性和跨业务协同效应形成寡头市场，规范扩散力量近乎强制型同构（Hartmann, 2022, pp.191–193）。详见 [[Argument_Hartmann_2022_CorporateEducation]] 第五步
 
 ---
@@ -108,7 +108,7 @@ updated: '2026-05-18'
 
 Amos (2022, pp.56–57) 详细分析了数字化——GEI 中最具变革性的技术维度——被推动的三重动机，只有理解这三者的同时运作才能理解 GEI 的"不可逆性"：
 
-**(1) 利润（Profit）**：EdTech 是股票市场增长最快的板块之一——Google、Apple、Microsoft 均设有大型教育部门，K-12 领域有 Sylvan Learning Systems 等提供商，高等教育领域有 Udacity、Coursera 等虚拟[[The Great Learning|大学]]。Google 的 Jaime Casap 被称为"教育布道者"（education evangelist），在全球平台上推广教育工具。当 Google Classroom 被免费提供给学校时，获取的不是直接收入，而是下一代用户的习惯和数据（Amos, 2022, p.57）
+**(1) 利润（Profit）**：EdTech 是股票市场增长最快的板块之一——Google、Apple、Microsoft 均设有大型教育部门，K-12 领域有 Sylvan Learning Systems 等提供商，高等教育领域有 Udacity、Coursera 等虚拟大学。Google 的 Jaime Casap 被称为"教育布道者"（education evangelist），在全球平台上推广教育工具。当 Google Classroom 被免费提供给学校时，获取的不是直接收入，而是下一代用户的习惯和数据（Amos, 2022, p.57）
 
 **(2) 正义与平等（Justice and Equality）**：UNESCO 推动数字化以促进包容——数字教材和格式一旦开发完成可被几乎无限复制和适配（anytime, anywhere）。对于缺乏实体校舍或合格教师的地区（如撒哈拉以南非洲的偏远村庄），数字技术是唯一可行的教育供给。但 Amos 指出，没有稳定电力和网络，"anytime, anywhere"就是空话（Amos, 2022, p.57）
 

@@ -12,7 +12,6 @@ tags:
 - level/k12
 - paradigm/constructivist
 related_concepts:
-  - "[[Tongxue]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Language Experience Approach]]"

@@ -24,11 +24,9 @@ related_concepts:
   - "[[Global Regionalisms in Higher Education]]"
   - "[[Global Education Industry]]"
   - "[[International Education Hubs]]"
-  - "[[The Great Learning]]"
   - "[[Epistemic Governance]]"
   - "[[Champ]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Critical Geopolitics]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []

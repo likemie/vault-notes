@@ -9,7 +9,6 @@ type: concept
 tags:
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Otherhood]]"
   - "[[New Public Management]]"
   - "[[Global Universities Rankings]]"

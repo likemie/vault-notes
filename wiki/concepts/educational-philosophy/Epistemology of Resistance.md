@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Official Knowledge]]"
-  - "[[The Great Learning]]"
   - "[[Life Power]]"
   - "[[Social Museology]]"
   - "[[Champ]]"

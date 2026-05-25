@@ -15,7 +15,6 @@ tags:
 - theme/digitalization
 - theme/subjectification
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Online Self-Assessment]]"
   - "[[Performativity of Measurement]]"
   - "[[Learning Analytics]]"
@@ -24,7 +23,6 @@ related_concepts:
   - "[[Governmentality]]"
   - "[[Bildung]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Societies of Control]]"
 related_methods:
   - "[[Matching]]"
@@ -44,7 +42,7 @@ updated: 2026-05-20
 ## 定义
 
 > [!info]
-> "有前景的学生"（promising student）是 Thompson、Schröder 和 Wrana（2022）在分析竞争性[[The Great Learning|大学]]治理时提出的概念，指在高等教育的竞争性地缘政治框架中被期望和建构的一种理想学生主体形态。'Promising' 有双重含义：既指"有前景的"（形容词），也暗示一种"承诺"（名词）——学生被赋予"将来会成功"的承诺，同时也被要求以当下的自我管理来兑现（Thompson et al., 2022, p.221）。
+> "有前景的学生"（promising student）是 Thompson、Schröder 和 Wrana（2022）在分析竞争性大学治理时提出的概念，指在高等教育的竞争性地缘政治框架中被期望和建构的一种理想学生主体形态。'Promising' 有双重含义：既指"有前景的"（形容词），也暗示一种"承诺"（名词）——学生被赋予"将来会成功"的承诺，同时也被要求以当下的自我管理来兑现（Thompson et al., 2022, p.221）。
 
 这一概念的核心洞见是：有前景的学生不是因天赋而被"发现"的，而是通过自我评估和自我优化的治理技术——尤其是[[Online Self-Assessment|在线自评工具]]——被"呼唤"（addressed）出来的（Thompson et al., 2022, p.221）。
 
@@ -57,13 +55,13 @@ updated: 2026-05-20
 
 ### 竞争性大学的地缘政治框架
 
-高等教育中的竞争力构成了一种地缘政治装置（geopolitical apparatus），通过 排名、指标化和比较实践重新组织[[The Great Learning|大学]]行为。与此相关，[[Performativity of Measurement|测量的生产性]]意味着排名和指标不只是描述现实，更是重塑优先事项和行为（Thompson et al., 2022, pp.219–220）。
+高等教育中的竞争力构成了一种地缘政治装置（geopolitical apparatus），通过 排名、指标化和比较实践重新组织大学行为。与此相关，[[Performativity of Measurement|测量的生产性]]意味着排名和指标不只是描述现实，更是重塑优先事项和行为（Thompson et al., 2022, pp.219–220）。
 
 在这一框架中，学生——包括学生满意度、学业成就和对项目的遵从——成为大学竞争的关键资源和媒介（Thompson et al., 2022, p.220）。大学的竞争优势取决于其提供成功学习过程的能力，但这里存在一个悖论：大学竞争的是学生**潜在的未来努力**（potential future effort）——在入学前尚未展现、但被期望在学习过程中发挥的表现（Thompson et al., 2022, p.220）。
 
 ### 数据化与主体化技术
 
-[[Learning Analytics|学习分析]]和数据化（datafication）让大学获得了管[[Neo-Confucianism|理学]]生成功不确定性的新能力：通过分析"成功相关性"（correlations of success），找出最可能导致学业成功的学生特征（Thompson et al., 2022, p.220）。这使大学能够在入学前就识别和干预"问题学生"，从而消除偶然性（Thompson et al., 2022, p.224）。
+[[Learning Analytics|学习分析]]和数据化（datafication）让大学获得了管理学生成功不确定性的新能力：通过分析"成功相关性"（correlations of success），找出最可能导致学业成功的学生特征（Thompson et al., 2022, p.220）。这使大学能够在入学前就识别和干预"问题学生"，从而消除偶然性（Thompson et al., 2022, p.224）。
 
 [[Online Self-Assessment]] 是这一治理逻辑的核心工具。潜在学生通过完成 OSA，被引导将自身与"完美[[Matching|匹配]]"的理想学生形象对齐。[[Digital Self|数字自我]]（digital self，数据构建的学生画像）与[[Digital Optimum|数字最优]]（digital optimum，算法优化的理想参照）之间的差距，驱动着持续的自我优化行为（Thompson et al., 2022, pp.224–226）。详见 [[Online Self-Assessment#数据化与主体化效应]]。
 

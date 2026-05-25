@@ -23,8 +23,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Effect Size]]"
   - "[[Classroom Management]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Comparative Meta-synthesis]]"
 related_persons: []

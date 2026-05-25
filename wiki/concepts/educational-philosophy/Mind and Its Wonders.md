@@ -18,8 +18,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Certainty of Knowledge]]"
   - "[[Western Learner]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Socrates]]"

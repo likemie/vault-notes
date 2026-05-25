@@ -10,7 +10,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Epistemic Governance]]"
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
@@ -26,7 +25,6 @@ related_concepts:
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
-  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons: []
 related_facts:

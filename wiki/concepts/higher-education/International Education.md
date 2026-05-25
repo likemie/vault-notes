@@ -12,7 +12,6 @@ tags:
 related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Global Universities Rankings]]"
-  - "[[The Great Learning]]"
   - "[[International Schools]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Chinese Learner]]"
@@ -67,7 +66,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - 1978–2003 年，580,000 名中国本科和研究生赴美留学（Slethaug, 2010, p.17）
-> - 截至 2006 年，全球超过 270 万[[The Great Learning|大学]]生出国留学，且持续增长（Slethaug, 2010, p.1）
+> - 截至 2006 年，全球超过 270 万大学生出国留学，且持续增长（Slethaug, 2010, p.1）
 > - 2008 年，南亚和东亚（含中国）及印度次大陆学生占美国新入学国际学生的 61%（Slethaug, 2010, p.2）
 > - 加上短期交流、海外实习和教师交换，参与国际教育的人数总计超过 600 万（Slethaug, 2010, p.1）
 > - 中国自身也成为留学目的地：外国学生从 61,869（2001）增至 140,000+（2005）（Slethaug, 2010, p.18）
@@ -104,7 +103,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - **"国际教育"可能是"西化"的别名**：Slethaug 本人指出，[[International Baccalaureate|IB]] 课程声称意识形态中立，但其"多角度思考"和"开放心态"实际上预设了西方的教学方法（Drake, 2004，转引自 Slethaug, 2010, pp.28–29）。同样，[[Chinese Learner|中国学习者]]在教学中的道德发展维度——在中国课堂中教"做人"和教"知识"本为一体——在西方框架中常被完全忽略（Li, 2009，转引自 Slethaug, 2010, pp.25–26）
-> - **师资培训完全跟不上规模**：全球仅极少数[[The Great Learning|大学]]设有国际教育专业项目，远不足以服务 200 万+ 学生、3,000+ 所学校的产业规模——大多数[[International Schools|国际学校]]教师未受过专门国际教育训练，旧的刻板印象因而得以延续（Slethaug, 2010, pp.32–33）
+> - **师资培训完全跟不上规模**：全球仅极少数大学设有国际教育专业项目，远不足以服务 200 万+ 学生、3,000+ 所学校的产业规模——大多数[[International Schools|国际学校]]教师未受过专门国际教育训练，旧的刻板印象因而得以延续（Slethaug, 2010, pp.32–33）
 > - **本地公立系统可能受损**：[[English Schools Foundation Hong Kong|ESF]] 等国际学校扩张吸纳本地优秀学生，掏空本已因出生率下降而面临压力的公立学校系统（Slethaug, 2010, p.5）
 > - **数据可靠性存疑**：不同来源对同一现象的统计差异巨大——例如中国出国留学生人数在《中国日报》（200,000）和 IIE（349,506）之间相差近一倍（Slethaug, 2010, pp.17–18）
 
@@ -114,7 +113,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - [[English Schools Foundation Hong Kong]] — 香港最大英语学校体系，学生构成从全英侨转向 40%–50% 本地华人
-> - [[Education City Doha]] — 多所美国[[The Great Learning|大学]]在卡塔尔集中设立分校的案例
+> - [[Education City Doha]] — 多所美国大学在卡塔尔集中设立分校的案例
 > - [[Transnationalism and America Project SYSU]] — 中山大学的跨文化团队教学项目
 > - [[PISA]] — OECD 的国际学生评估，教育全球化的关键测量工具
 > - [[International Schools]] — 国际教育在 K-12 层面的核心载体

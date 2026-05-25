@@ -12,12 +12,10 @@ tags:
 - subject/comparative-education
 related_concepts:
   - "[[Corporate Education]]"
-  - "[[The Great Learning]]"
   - "[[Corporate University]]"
   - "[[Further Education]]"
   - "[[Varieties of Capitalism]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Max Weber]]"

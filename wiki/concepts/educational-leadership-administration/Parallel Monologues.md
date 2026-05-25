@@ -10,7 +10,6 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Cult of the Guru]]"
-  - "[[The Great Learning]]"
   - "[[School Leadership]]"
 related_theories: []
 related_methods: []

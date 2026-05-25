@@ -18,8 +18,6 @@ related_concepts:
   - "[[Stereotype Threat]]"
   - "[[Meta-Cultural Sensitivity]]"
   - "[[Confucian Heritage Cultures]]"
-  - "[[The Great Learning]]"
-  - "[[Tongxue]]"
   - "[[International Education]]"
   - "[[Refined Mastery]]"
   - "[[Feedback]]"

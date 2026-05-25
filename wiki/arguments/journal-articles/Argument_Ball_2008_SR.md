@@ -20,7 +20,8 @@ related_concepts:
   - "[[School Effectiveness]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[Committee for the Accreditation of Teacher Education]]"
 related_arguments: []

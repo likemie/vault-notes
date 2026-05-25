@@ -10,7 +10,6 @@ tags:
 - level/k12
 related_concepts:
   - "[[International Schools]]"
-  - "[[The Great Learning]]"
   - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []

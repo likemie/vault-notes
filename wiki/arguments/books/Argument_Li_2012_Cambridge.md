@@ -16,8 +16,6 @@ tags:
   - theme/learning-model
   - theme/cultural-psychology
 related_concepts:
-  - "[[Tongxue]]"
-  - "[[The Great Learning]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Faust]]"
   - "[[Humility in Learning]]"
@@ -71,7 +69,9 @@ related_concepts:
   - "[[Zero-Sum Competition]]"
   - "[[Talent Assumption]]"
   - "[[Intellectual-Social Divide]]"
+  - "[[Tracking]]"
   - "[[Doxa]]"
+  - "[[Tongxue]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Confucian Tutoring Style]]"
   - "[[Parental Cognitive and Affective Socialization]]"
@@ -81,8 +81,8 @@ related_concepts:
   - "[[Listening-Oriented Learning]]"
   - "[[Devil's Advocate]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Confucian Learning Tradition]]"
+  - "[[Neo-Confucianism]]"
   - "[[Cultural Models]]"
   - "[[Phenomenology]]"
   - "[[Appraisal Theory]]"

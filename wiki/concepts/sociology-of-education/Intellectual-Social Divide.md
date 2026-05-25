@@ -19,7 +19,6 @@ related_concepts:
   - "[[Zero-Sum Competition]]"
   - "[[Talent Assumption]]"
   - "[[Doxa]]"
-  - "[[Tongxue]]"
 related_theories: []
 related_methods: []
 related_persons: []

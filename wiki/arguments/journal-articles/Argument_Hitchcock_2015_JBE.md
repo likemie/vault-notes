@@ -18,7 +18,6 @@ related_concepts:
   - "[[5-3-20 Rule]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
-  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Single-Case Design]]"
   - "[[Observational and Correlational Research]]"

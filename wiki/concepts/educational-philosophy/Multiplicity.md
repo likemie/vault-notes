@@ -10,7 +10,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[International Education]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Space-Making in Higher Education]]"

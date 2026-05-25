@@ -17,10 +17,10 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
-  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Pierre Bourdieu]]"
   - "[[John Hattie]]"
 related_facts: []
 related_arguments: []

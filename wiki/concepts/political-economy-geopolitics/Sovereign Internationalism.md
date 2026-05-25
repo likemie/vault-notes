@@ -66,7 +66,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - [[Geopolitics of Knowledge]] — 主权国际主义与[[Radical Liberal Internationalism|激进自由国际主义]]的张力是理解当代高等教育地缘政治的重要背景：前者倾向于知识合作，后者倾向于知识竞争
-> - [[Internationalization of Higher Education]] — 1990–2015 年间的美国主导国际化兼具主权国际主义的形式（多边组织、合作话语）和激进自由国际主义的实质（英语[[The Great Learning|大学]]全球扩张、西方化）
+> - [[Internationalization of Higher Education]] — 1990–2015 年间的美国主导国际化兼具主权国际主义的形式（多边组织、合作话语）和激进自由国际主义的实质（英语大学全球扩张、西方化）
 
 ---
 

@@ -21,7 +21,6 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
-  - "[[The Great Learning]]"
   - "[[Feedback]]"
   - "[[Governmentality]]"
   - "[[Competitiveness in Higher Education]]"
@@ -29,7 +28,6 @@ related_concepts:
   - "[[Promising Student]]"
 related_theories:
   - "[[Societies of Control]]"
-  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Matching]]"
 related_persons: []
@@ -48,7 +46,7 @@ updated: 2026-05-20
 ## 定义
 
 > [!info]
-> 先发制人治理（preemptive governance）指高等教育中一种在问题实际发生之前就通过数据分析和预测算法对潜在学生进行预判、标记和干预的治理逻辑。与传统的反应性治理——学生在学业中遇到困难→辅导员介入——不同，先发制人治理将治理窗口**提前至入学之前**：[[Online Self-Assessment|OSA]] 和 [[Learning Analytics|学习分析]] 系统通过构建 [[Digital Self|数字自我]] 和 [[Digital Optimum|数字最优]]，在学生还未经受任何[[The Great Learning|大学]]教育时就识别"高风险"个体并引导其进行自我优化（Thompson et al., 2022, pp.224–226）。
+> 先发制人治理（preemptive governance）指高等教育中一种在问题实际发生之前就通过数据分析和预测算法对潜在学生进行预判、标记和干预的治理逻辑。与传统的反应性治理——学生在学业中遇到困难→辅导员介入——不同，先发制人治理将治理窗口**提前至入学之前**：[[Online Self-Assessment|OSA]] 和 [[Learning Analytics|学习分析]] 系统通过构建 [[Digital Self|数字自我]] 和 [[Digital Optimum|数字最优]]，在学生还未经受任何大学教育时就识别"高风险"个体并引导其进行自我优化（Thompson et al., 2022, pp.224–226）。
 
 > [!quote]
 > "The problematic student is identified before they even become a student in the full sense of the word. In this respect, the OSA is a powerful tool of preemption."（Thompson et al., 2022, p.224，编者释义）
@@ -69,7 +67,7 @@ updated: 2026-05-20
 
 ### 成功相关性的预测逻辑
 
-先发制人治理的技术基础是"成功相关性"（correlations of success）分析——[[Learning Analytics|学习分析]]和教育数据挖掘技术使[[The Great Learning|大学]]能够识别最可能导致学业成功或失败的学生特征（Thompson et al., 2022, p.220）。Antunes（2010）的 ASAP 分类器（ASAP classifiers）是典型案例——能够自动预测学生成功或失败概率的算法，以便在"最早阶段"实施对策（Thompson et al., 2022, p.224）。
+先发制人治理的技术基础是"成功相关性"（correlations of success）分析——[[Learning Analytics|学习分析]]和教育数据挖掘技术使大学能够识别最可能导致学业成功或失败的学生特征（Thompson et al., 2022, p.220）。Antunes（2010）的 ASAP 分类器（ASAP classifiers）是典型案例——能够自动预测学生成功或失败概率的算法，以便在"最早阶段"实施对策（Thompson et al., 2022, p.224）。
 
 ### 从排斥到自我选择
 
@@ -89,10 +87,10 @@ updated: 2026-05-20
 ## 在整个治理体系中的位置
 
 > [!success]
-> 先发制人治理并非孤立的治理技术，而是嵌入竞争性[[The Great Learning|大学]]更广泛的地缘政治治理架构之中：
+> 先发制人治理并非孤立的治理技术，而是嵌入竞争性大学更广泛的地缘政治治理架构之中：
 
 1. **宏观层**：[[Competitiveness in Higher Education|高等教育竞争力]] 作为地缘政治装置——通过排名和指标化将大学重塑为竞争者（Thompson et al., 2022, pp.219–220）
-2. **中观层**：大学作为 [[Stakeholder University|利益相关者大学]] 转型为多行动者连接平台——需要管[[Neo-Confucianism|理学]]生成功的可预测性以维持排名和声誉（Thompson et al., 2022, pp.221–222）
+2. **中观层**：大学作为 [[Stakeholder University|利益相关者大学]] 转型为多行动者连接平台——需要管理学生成功的可预测性以维持排名和声誉（Thompson et al., 2022, pp.221–222）
 3. **微观层**：先发制人治理通过 [[Online Self-Assessment|OSA]] 和 [[Learning Analytics]] 在个体层面运作——构建 [[Digital Self|数字自我]]、生成 [[Digital Optimum|数字最优]]、通过差异驱动自我优化（Thompson et al., 2022, pp.224–226）
 4. **主体层**：治理产出 [[Promising Student|有前景的学生]]——主动自我评估、持续自我优化、将学业成功视为个人风险管理（Thompson et al., 2022, pp.221, 226）
 

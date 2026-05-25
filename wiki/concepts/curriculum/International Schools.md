@@ -10,7 +10,6 @@ tags:
 - level/k12
 related_concepts:
   - "[[Boarding Schools]]"
-  - "[[The Great Learning]]"
   - "[[Fourth Culture]]"
   - "[[International Education]]"
 related_theories: []

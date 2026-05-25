@@ -15,7 +15,6 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
-  - "[[The Great Learning]]"
   - "[[Effective Teaching]]"
   - "[[Surface and Deep Learning]]"
   - "[[Tongxue]]"
@@ -126,7 +125,7 @@ updated: '2026-05-18'
 > - 8 项研究中仅 1 项（Haas, 2005）在学校情境中直接比较了教学方法，且该研究的正面效应量最大（Blass, 2020, p.92）
 > - 3 项在医学教育领域（大学课程而非中小学），1 项是探索性研究而非元分析，1 项是文献综述（Blass, 2020, p.92）
 > - 两项元分析关注评估对 PBL 的影响（而非 PBL 本身与替代教学法的比较）（Blass, 2020, p.92）
-> - Blass 指出医学 PBL 研究实际上展示了更窄的知识覆盖范围但更大的学习深度——如果目标是深度学习则 PBL 合适，目标是广泛[[Surface and Deep Learning|表层学习]]则不合适。但 VL 的单一效应量排名不允许考虑不[[Tongxue|同学]]习目标（Blass, 2020, p.93）
+> - Blass 指出医学 PBL 研究实际上展示了更窄的知识覆盖范围但更大的学习深度——如果目标是深度学习则 PBL 合适，目标是广泛[[Surface and Deep Learning|表层学习]]则不合适。但 VL 的单一效应量排名不允许考虑不同学习目标（Blass, 2020, p.93）
 >
 > **PBL 成功依赖教师技能的实证证据**：Blass（2020, p.95）报告在 Inventorium（一个在线 PBL/探究式学习的替代性高中）的测试中发现：当团队培训和管理教师时有 100% 学生保留率，当交给未经专门培训的课堂教师时几乎 100% 不参与——"教师是学习中最重要的因素，无论使用什么教学法"。
 

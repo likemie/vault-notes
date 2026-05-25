@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Performance Indicators]]"
   - "[[Phenomenon-Based Learning]]"
-  - "[[Tongxue]]"
   - "[[Performativity of Measurement]]"
   - "[[Complexity Reduction]]"
   - "[[Epochal Key Problems]]"

@@ -9,7 +9,6 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Governmentality]]"
   - "[[Discursive Opportunity Structures]]"
-  - "[[The Great Learning]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
   - "[[VUCA]]"

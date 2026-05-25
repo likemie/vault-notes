@@ -20,7 +20,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Language Experience Approach]]"
   - "[[Direct Instruction]]"
-  - "[[The Great Learning]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"

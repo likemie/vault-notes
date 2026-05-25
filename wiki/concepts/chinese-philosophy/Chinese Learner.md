@@ -26,7 +26,6 @@ related_concepts:
   - "[[Humility in Learning]]"
   - "[[Action Better Than Words]]"
   - "[[University Motto]]"
-  - "[[The Great Learning]]"
   - "[[Revoicing]]"
   - "[[Listening-Oriented Learning]]"
   - "[[Devil's Advocate]]"

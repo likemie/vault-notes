@@ -15,7 +15,6 @@ related_concepts:
   - "[[The Great Learning]]"
   - "[[Champ]]"
   - "[[Habitus]]"
-  - "[[Tongxue]]"
   - "[[Sense of Shame]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Goal-Controlled Mode]]"

@@ -13,7 +13,6 @@ tags:
 - quantitative-methods
 - international-assessment
 related_concepts:
-  - "[[Tongxue]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
 related_theories: []

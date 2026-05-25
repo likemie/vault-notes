@@ -12,13 +12,11 @@ tags:
   - theme/internationalization
   - source/edited-volume
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Cultural Diplomacy]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
 related_theories:
   - "[[Cultural Political Economy]]"
-  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Case Study]]"

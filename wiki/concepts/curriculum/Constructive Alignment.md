@@ -10,7 +10,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Surface and Deep Learning]]"
-  - "[[The Great Learning]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods: []

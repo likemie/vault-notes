@@ -17,7 +17,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Grade Retention]]"
-  - "[[The Great Learning]]"
   - "[[Inclusive Evidence Validation Typology]]"
 related_theories: []
 related_methods:

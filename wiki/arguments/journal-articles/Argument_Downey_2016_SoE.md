@@ -17,11 +17,13 @@ tags:
 related_concepts:
   - "[[Cultural Capital]]"
   - "[[Class Size]]"
+  - "[[Tracking]]"
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:
   - "[[Seasonal Comparison]]"
-related_persons: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[PISA]]"
 related_arguments: []
