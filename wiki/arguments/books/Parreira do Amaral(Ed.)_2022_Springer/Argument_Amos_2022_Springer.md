@@ -50,7 +50,8 @@ related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[Regional University Alliances]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch4_Amos_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-08'

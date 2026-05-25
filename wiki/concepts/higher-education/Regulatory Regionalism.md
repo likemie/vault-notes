@@ -28,7 +28,9 @@ related_facts:
   - "[[YOUNG_ADULLLT]]"
   - "[[Horizon 2020 SSH Integration]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Parreira do Amaral(Ed]]"
+  - "[[Ch10_Rambla_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

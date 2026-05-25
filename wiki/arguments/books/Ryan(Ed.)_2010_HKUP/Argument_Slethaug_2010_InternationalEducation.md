@@ -26,7 +26,8 @@ related_facts:
   - "[[International Baccalaureate (IB)]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch1_Slethaug_2010]]"
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'

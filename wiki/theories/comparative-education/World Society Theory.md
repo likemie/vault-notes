@@ -39,7 +39,8 @@ related_arguments:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
   - "[[Argument_Parreira do Amaral_2022_Springer]]"
   - "[[Argument_Amos_2022_Springer]]"
-sources: []
+sources:
+  - "[[Ch9_Zapp_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -169,4 +170,4 @@ Yan & Morris (2025) 提出了一个方法论批评：如果研究者仅在 LS �
 ---
 ## 来源
 
-- Ch9_Zapp_2022
+- [[Ch9_Zapp_2022]]

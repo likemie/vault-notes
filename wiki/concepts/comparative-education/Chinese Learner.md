@@ -30,7 +30,7 @@ related_concepts:
   - "[[Paradox of the Chinese Learner]]"
   - "[[Cultural Models]]"
   - "[[Stereotype Threat]]"
-  - "[[Shu (Familiarization)]]"
+  - "[[Familiarization]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Ideal Learner]]"
   - "[[Examination Hell]]"
@@ -52,7 +52,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Ryan_2010_ChineseLearner]]"
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
+  - "[[Ryan(Ed]]"
+  - "[[Ch1_Slethaug_2010]]"
+  - "[[Ch2_Ryan_2010]]"
 confidence: medium
 status: draft
 created: '2026-05-16'
@@ -223,7 +227,7 @@ Li (2012) 在 第 4 章 中对"死记硬背"批评进行了四重方法论反驳
 |------|----------|------|
 | 行为主义谬误 | 将可观察行为（重复朗读）等同于内心过程（没有理解） | [[Argument_Li_2012_Cambridge#谬误 1：行为主义谬误]] |
 | 基础阶段混淆 | 将学习基础阶段的共性（任何文化都需要反复练习）当作中国特有的缺陷 | [[Argument_Li_2012_Cambridge#谬误 2：基础阶段混淆]] |
-| 静态观察谬误 | 将一次观察到的"[[Shu (Familiarization)|熟]]"阶段行为当作学习的全部 | [[Argument_Li_2012_Cambridge#谬误 3：静态观察谬误]] |
+| 静态观察谬误 | 将一次观察到的"[[Familiarization|熟]]"阶段行为当作学习的全部 | [[Argument_Li_2012_Cambridge#谬误 3：静态观察谬误]] |
 | 即时理解谬误 | 假设理解必须即时口头展示——"五十分钟课堂内的理解是低级理解" | [[Argument_Li_2012_Cambridge#谬误 4：即时理解谬误]] |
 
 > [!success] 实证支持

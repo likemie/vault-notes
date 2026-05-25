@@ -22,7 +22,8 @@ related_persons:
   - "[[Donna Haraway]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

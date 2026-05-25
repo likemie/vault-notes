@@ -33,7 +33,8 @@ related_persons:
   - "[[Walter Mignolo]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch3_Parreira do Amaral_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'

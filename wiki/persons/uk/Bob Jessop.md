@@ -24,7 +24,9 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch2_Moisio_2022]]"
+  - "[[Ch12_Erfurth_2022]]"
 related_facts:
   - "[[Singapore Education Hub Policy]]"
 confidence: medium
@@ -117,5 +119,5 @@ Sum & Jessop（2013, p.284）提供了 Moisio 所采纳的 KBE 经典定义：
 
 ## 来源
 
-- Ch2_Moisio_2022
-- Ch12_Erfurth_2022
+- [[Ch2_Moisio_2022]]
+- [[Ch12_Erfurth_2022]]

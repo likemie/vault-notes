@@ -31,7 +31,9 @@ related_persons:
   - "[[Arturo Escobar]]"
   - "[[Chen Kuan-Hsing]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch3_Parreira do Amaral_2022]]"
+  - "[[Ch7_Delambre_2022]]"
 confidence: medium
 status: draft
 created: 2026-05-07
@@ -138,5 +140,5 @@ updated: 2026-05-19
 
 ## 来源
 
-- Ch3_Parreira do Amaral_2022
-- Ch7_Delambre_2022
+- [[Ch3_Parreira do Amaral_2022]]
+- [[Ch7_Delambre_2022]]

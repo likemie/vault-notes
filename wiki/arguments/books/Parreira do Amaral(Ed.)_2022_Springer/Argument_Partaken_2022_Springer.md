@@ -40,7 +40,8 @@ related_facts:
   - "[[China Social Credit System]]"
   - "[[Areopagitica (1644)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch5_Partaken_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'

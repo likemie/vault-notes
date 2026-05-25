@@ -19,7 +19,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -82,4 +83,4 @@ Amos 特别指出 Huxley 身份的一个内在矛盾：他同时是科学人文�
 
 ## 来源
 
-- Ch4_Amos_2022
+- [[Ch4_Amos_2022]]

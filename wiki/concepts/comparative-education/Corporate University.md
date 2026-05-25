@@ -22,7 +22,8 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
-sources: []
+sources:
+  - "[[Ch11_Hartmann_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-18'

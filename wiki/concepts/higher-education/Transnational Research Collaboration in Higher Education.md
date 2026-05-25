@@ -28,7 +28,8 @@ related_facts:
   - "[[Australia in the Asian Century White Paper 2012]]"
   - "[[GATS and Trade in Education Services]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch6_Rizvi_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

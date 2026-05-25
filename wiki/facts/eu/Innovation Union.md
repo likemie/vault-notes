@@ -24,7 +24,8 @@ related_facts:
   - "[[Europe 2020 Strategy]]"
   - "[[EU Skills Agenda]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch10_Rambla_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -115,4 +116,4 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 ## 来源
 
-- Ch10_Rambla_2022
+- [[Ch10_Rambla_2022]]

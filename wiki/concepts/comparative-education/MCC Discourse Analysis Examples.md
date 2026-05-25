@@ -14,7 +14,7 @@ tags:
   - region/west
   - method/discourse-analysis
 related_concepts:
-  - "[[Ren]]"
+  - "[[Benevolence]]"
   - "[[Tongxue]]"
   - "[[Pride in Learning]]"
 related_theories:
@@ -511,7 +511,7 @@ updated: 2026-05-24
 
 #### 示例 8：TW 母亲的认知来源 — 学习美德
 
-**对话 C：[[Ren]] 和"为什么你要认真上课？"**
+**对话 C：[[Benevolence]] 和"为什么你要认真上课？"**
 
 > [!example]- 原始对话
 > ```

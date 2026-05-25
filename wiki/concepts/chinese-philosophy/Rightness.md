@@ -13,7 +13,7 @@ tags:
   - field/chinese-philosophy
   - theme/ethics
 related_concepts:
-  - "[[Li (Propriety)]]"
+  - "[[Ritual Propriety]]"
   - "[[Shame (Confucianism)]]"
   - "[[Self-Cultivation]]"
 related_theories: []
@@ -35,7 +35,7 @@ updated: 2026-05-22
 ## 定义
 
 > [!info]
-> 义（Rightness, righteousness, uprightness）是[[Confucius|孔子]]所列四项超越特定关系的通用道德原则之一，其余三项为礼（[[Li (Propriety)|propriety]]）、廉（integrity）和耻（[[Shame (Confucianism)|sense of shame]]）。义的本义是"在特定情境中某一行为的适宜性"，但经延伸和生活传统的积淀，该词表意"坚守正确之事和人类社群中的正义感，尤其在个人面对私利诱惑时"（Li, 2012, p.39-40）。
+> 义（Rightness, righteousness, uprightness）是[[Confucius|孔子]]所列四项超越特定关系的通用道德原则之一，其余三项为礼（[[Ritual Propriety|propriety]]）、廉（integrity）和耻（[[Shame (Confucianism)|sense of shame]]）。义的本义是"在特定情境中某一行为的适宜性"，但经延伸和生活传统的积淀，该词表意"坚守正确之事和人类社群中的正义感，尤其在个人面对私利诱惑时"（Li, 2012, p.39-40）。
 
 ---
 
@@ -55,7 +55,7 @@ updated: 2026-05-22
 ## 概念辨析
 
 > [!example]
-> **义 vs [[Li (Propriety)|礼]]**：礼是社会语法——在关系中提供位置、地位和行为规范；义是道德判断——在具体情境中判断什么是对的、什么是不该做的。礼回答"如何做"，义回答"为什么要这样做以及不应做什么"。
+> **义 vs [[Ritual Propriety|礼]]**：礼是社会语法——在关系中提供位置、地位和行为规范；义是道德判断——在具体情境中判断什么是对的、什么是不该做的。礼回答"如何做"，义回答"为什么要这样做以及不应做什么"。
 >
 > **义 vs 西方的 justice**：义更关注个人的内在道德判断和操守（"富贵不能淫"），而非制度层面的正义分配。但两者在"公平对待他人"的意义上有交集。
 
@@ -65,7 +65,7 @@ updated: 2026-05-22
 
 > [!tip]
 > - 与[[Mencius|孟子]]四端说的关联：羞恶之心 → 义（Li, 2012, pp.42-43）
-> - [[Li (Propriety)]] — 四项超越德目中的另一项，常与义并提
+> - [[Ritual Propriety]] — 四项超越德目中的另一项，常与义并提
 > - [[Shame (Confucianism)]] — 羞耻感是触发义的内在机制
 > - [[Self-Cultivation]] — 义是修身所必须发展的道德品质
 

@@ -27,7 +27,8 @@ related_facts:
   - "[[US-China Economic and Security Review Commission (2000)]]"
   - "[[Thousand Talents Program]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch5_Partaken_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -86,4 +87,4 @@ Rizvi (2022) 从中美地缘政治紧张的角度分析了贸易战对[[Internat
 
 ## 来源
 
-- Ch5_Partaken_2022
+- [[Ch5_Partaken_2022]]

@@ -20,7 +20,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch1_Slethaug_2010]]"
 confidence: medium
 status: draft
 created: '2026-05-17'
@@ -70,4 +71,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch1_Slethaug_2010
+- [[Ch1_Slethaug_2010]]

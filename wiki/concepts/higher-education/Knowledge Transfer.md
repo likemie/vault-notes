@@ -33,7 +33,8 @@ related_facts:
   - "[[Sino-American Trade War (2018)]]"
   - "[[Thousand Talents Program]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch5_Partaken_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

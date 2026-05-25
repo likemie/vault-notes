@@ -20,7 +20,8 @@ related_methods: []
 related_persons:
   - "[[Humberto Maturana]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -62,4 +63,4 @@ Francisco Varela（1946–2001），智利生物学家和神经科学家，与 [
 
 ## 来源
 
-- Ch4_Amos_2022
+- [[Ch4_Amos_2022]]

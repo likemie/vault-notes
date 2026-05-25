@@ -25,7 +25,8 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
-sources: []
+sources:
+  - "[[Ch13_Thompson_2022]]"
 confidence: low
 status: draft
 created: 2026-05-19
@@ -92,4 +93,4 @@ Thompson 等人（2022, p.222）引入 Bächle（2016, p.164）的解读，将 D
 
 ## 来源
 
-- Ch13_Thompson_2022
+- [[Ch13_Thompson_2022]]

@@ -15,7 +15,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch15_Zelinka_2022]]"
 confidence: medium
 status: draft
 created: 2026-05-21
@@ -64,4 +65,4 @@ VUCA 将全球教育转型所面临的挑战表述为一组看似中立的客观
 
 ## 来源
 
-- Ch15_Zelinka_2022
+- [[Ch15_Zelinka_2022]]

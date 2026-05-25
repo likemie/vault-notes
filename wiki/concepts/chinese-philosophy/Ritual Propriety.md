@@ -1,5 +1,5 @@
 ---
-title: Li (Propriety)
+title: Ritual Propriety
 aliases:
 - 禮
 - 礼
@@ -17,7 +17,7 @@ related_concepts:
   - "[[Rightness]]"
   - "[[Shame (Confucianism)]]"
   - "[[Five Cardinal Relationships]]"
-  - "[[Ren]]"
+  - "[[Benevolence]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -74,7 +74,7 @@ updated: 2026-05-22
 
 > [!tip]
 > - [[Five Cardinal Relationships]] — 礼为五伦关系提供互动规范
-> - [[Ren]] — 礼是通往仁的日常实践路径之一
+> - [[Benevolence]] — 礼是通往仁的日常实践路径之一
 > - [[Confucius]] — 孔子阐述礼作为四通用道德原则之首
 
 ---

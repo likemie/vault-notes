@@ -29,7 +29,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch12_Erfurth_2022]]"
 confidence: medium
 status: draft
 created: 2026-05-19
@@ -131,4 +132,4 @@ updated: 2026-05-19
 
 ## 来源
 
-- Ch12_Erfurth_2022
+- [[Ch12_Erfurth_2022]]

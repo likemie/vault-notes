@@ -71,6 +71,7 @@ sources:
   - "[[Wolf_2020_JREE]]"
   - "[[Kraft_2023_ER]]"
   - "[[Wadhwa_2024_RER]]"
+  - "[[Ross_Morrison_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -554,4 +555,4 @@ Simpson（2018, 2019）论证将效应量视为干预有效性的测量是一个
 - [[Wolf_2020_JREE]]
 - [[Kraft_2023_ER]]
 - [[Wadhwa_2024_RER]]
-- Ross_Morrison_2021_ROE
+- [[Ross_Morrison_2021_ROE]]

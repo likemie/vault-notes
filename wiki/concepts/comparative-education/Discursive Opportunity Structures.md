@@ -14,7 +14,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch15_Zelinka_2022]]"
 confidence: medium
 status: draft
 created: 2026-05-21

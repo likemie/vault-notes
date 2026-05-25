@@ -33,7 +33,8 @@ related_persons:
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch13_Thompson_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-19'

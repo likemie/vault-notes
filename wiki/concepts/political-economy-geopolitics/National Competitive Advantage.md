@@ -26,7 +26,8 @@ related_persons:
   - "[[Michael Porter]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch2_Moisio_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

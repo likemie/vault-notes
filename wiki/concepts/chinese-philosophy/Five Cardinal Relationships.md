@@ -18,8 +18,8 @@ related_concepts:
   - "[[Champ]]"
   - "[[Filial Piety]]"
   - "[[Affect-Respect and Ought-Respect]]"
-  - "[[Ren]]"
-  - "[[Li (Propriety)]]"
+  - "[[Benevolence]]"
+  - "[[Ritual Propriety]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -80,8 +80,8 @@ updated: 2026-05-22
 
 > [!tip]
 > - [[Self-Cultivation]] — 五伦提供了修身的主要实践[[Champ|场域]]
-> - [[Ren]] — 在五伦中的完善实践导向仁
-> - [[Li (Propriety)]] — 礼是调节五伦关系的社会语法
+> - [[Benevolence]] — 在五伦中的完善实践导向仁
+> - [[Ritual Propriety]] — 礼是调节五伦关系的社会语法
 
 ---
 

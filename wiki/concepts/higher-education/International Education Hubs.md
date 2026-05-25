@@ -35,7 +35,10 @@ related_facts:
   - "[[Minerva University]]"
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
-sources: []
+sources:
+  - "[[Ch3_Parreira do Amaral_2022]]"
+  - "[[Ch6_Rizvi_2022]]"
+  - "[[Ch12_Erfurth_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'

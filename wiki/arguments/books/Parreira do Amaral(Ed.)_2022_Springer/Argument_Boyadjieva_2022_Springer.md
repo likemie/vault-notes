@@ -33,7 +33,8 @@ related_facts:
   - "[[Academic Ranking of World Universities (ARWU)]]"
   - "[[UN Sustainable Development Goals 2015]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch8_Boyadjieva_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'

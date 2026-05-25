@@ -40,7 +40,8 @@ related_facts:
   - "[[Youth Guarantee Scheme]]"
 related_arguments:
   - "[[Argument_Parreira do Amaral_2022_Springer]]"
-sources: []
+sources:
+  - "[[Ch10_Rambla_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-13'

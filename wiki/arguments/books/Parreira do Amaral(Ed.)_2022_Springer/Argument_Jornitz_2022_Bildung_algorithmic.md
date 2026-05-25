@@ -32,7 +32,8 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch14_Jornitz_2022]]"
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-20

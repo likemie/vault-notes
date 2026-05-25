@@ -12,6 +12,29 @@
     ]
   },
   {
+    "title": "Benevolence",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Benevolence.md",
+    "aliases": [
+      "仁",
+      "human goodness",
+      "benevolence",
+      "humanheartedness",
+      "authoritative conduct"
+    ]
+  },
+  {
+    "title": "Familiarization",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Familiarization.md",
+    "aliases": [
+      "熟",
+      "熟悉化",
+      "familiarizing oneself",
+      "familiarity"
+    ]
+  },
+  {
     "title": "Filial Piety",
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Filial Piety.md",
@@ -68,29 +91,6 @@
     ]
   },
   {
-    "title": "Li (Propriety)",
-    "type": "concept",
-    "path": "wiki/concepts/chinese-philosophy/Li (Propriety).md",
-    "aliases": [
-      "禮",
-      "礼",
-      "propriety",
-      "ritual propriety"
-    ]
-  },
-  {
-    "title": "Ren",
-    "type": "concept",
-    "path": "wiki/concepts/chinese-philosophy/Ren.md",
-    "aliases": [
-      "仁",
-      "human goodness",
-      "benevolence",
-      "humanheartedness",
-      "authoritative conduct"
-    ]
-  },
-  {
     "title": "Rightness",
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Rightness.md",
@@ -99,6 +99,17 @@
       "righteousness",
       "uprightness",
       "sense of justice"
+    ]
+  },
+  {
+    "title": "Ritual Propriety",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Ritual Propriety.md",
+    "aliases": [
+      "禮",
+      "礼",
+      "propriety",
+      "ritual propriety"
     ]
   },
   {
@@ -111,7 +122,6 @@
       "圣人",
       "聖人",
       "圣贤",
-      "sheng",
       "shengxian",
       "sagehood"
     ]
@@ -138,17 +148,6 @@
       "chi",
       "sense of shame",
       "羞耻感"
-    ]
-  },
-  {
-    "title": "Shu (Familiarization)",
-    "type": "concept",
-    "path": "wiki/concepts/chinese-philosophy/Shu (Familiarization).md",
-    "aliases": [
-      "熟",
-      "熟悉化",
-      "familiarizing oneself",
-      "familiarity"
     ]
   },
   {

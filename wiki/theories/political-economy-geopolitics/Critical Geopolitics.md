@@ -36,7 +36,10 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
-sources: []
+sources:
+  - "[[Ch2_Moisio_2022]]"
+  - "[[Ch3_Parreira do Amaral_2022]]"
+  - "[[Ch6_Rizvi_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -137,6 +140,6 @@ Hartmann (2022) 将批判地缘政治学延伸至[[Further Education|继续教�
 
 ## 来源
 
-- Ch2_Moisio_2022
-- Ch3_Parreira do Amaral_2022
-- Ch6_Rizvi_2022
+- [[Ch2_Moisio_2022]]
+- [[Ch3_Parreira do Amaral_2022]]
+- [[Ch6_Rizvi_2022]]

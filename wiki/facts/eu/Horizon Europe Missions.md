@@ -25,7 +25,9 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Parreira do Amaral(Ed]]"
+  - "[[Ch3_Parreira do Amaral_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -68,5 +70,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Parreira do Amaral(Ed.)_2022_Springer
-- Ch3_Parreira do Amaral_2022
+- [[Parreira do Amaral(Ed.)_2022_Springer]]
+- [[Ch3_Parreira do Amaral_2022]]

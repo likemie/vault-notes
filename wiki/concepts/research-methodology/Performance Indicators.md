@@ -35,6 +35,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"
+  - "[[Ch10_Rambla_2022]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -177,4 +178,4 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 ## 来源
 
 - [[Gorur_2014_Discourse]]
-- Ch10_Rambla_2022
+- [[Ch10_Rambla_2022]]

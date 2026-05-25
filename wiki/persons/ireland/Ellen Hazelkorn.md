@@ -18,7 +18,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch8_Boyadjieva_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -82,4 +83,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Ch8_Boyadjieva_2022
+- [[Ch8_Boyadjieva_2022]]

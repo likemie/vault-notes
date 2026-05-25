@@ -17,9 +17,9 @@ tags:
 related_concepts:
   - "[[Sage]]"
   - "[[Self-Cultivation]]"
-  - "[[Ren]]"
+  - "[[Benevolence]]"
   - "[[Rightness]]"
-  - "[[Li (Propriety)]]"
+  - "[[Ritual Propriety]]"
   - "[[Junzi]]"
   - "[[Take the World Upon Oneself]]"
 related_theories:
@@ -80,9 +80,9 @@ updated: 2026-05-22
 
 | 能力 | 导出德目 |
 |------|----------|
-| 恻隐之心（compassion for others' suffering） | → [[Ren]]（仁） |
+| 恻隐之心（compassion for others' suffering） | → [[Benevolence]]（仁） |
 | 羞恶之心（ability to feel shame） | → [[Rightness]]（义） |
-| 辞让之心（courtesy and modesty） | → Propriety（[[Li (Propriety)|礼]]） |
+| 辞让之心（courtesy and modesty） | → Propriety（[[Ritual Propriety|礼]]） |
 | 是非之心（distinguishing right from wrong） | → Wisdom（智） |
 
 > [!quote]

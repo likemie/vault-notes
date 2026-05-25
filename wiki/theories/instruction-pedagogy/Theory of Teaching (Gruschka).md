@@ -24,7 +24,8 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
-sources: []
+sources:
+  - "[[Ch14_Jornitz_2022]]"
 confidence: low
 status: draft
 created: 2026-05-20
@@ -90,4 +91,4 @@ Gruschka 借用 Adorno（1997）的"星座"（constellation）概念来强调三
 
 ## 来源
 
-- Ch14_Jornitz_2022
+- [[Ch14_Jornitz_2022]]

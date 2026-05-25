@@ -28,7 +28,9 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
-sources: []
+sources:
+  - "[[Ch2_Moisio_2022]]"
+  - "[[Ch12_Erfurth_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -109,5 +111,5 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]"有能力将某�
 
 ## 来源
 
-- Ch2_Moisio_2022
-- Ch12_Erfurth_2022
+- [[Ch2_Moisio_2022]]
+- [[Ch12_Erfurth_2022]]

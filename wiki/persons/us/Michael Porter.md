@@ -21,7 +21,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch2_Moisio_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-07'
@@ -89,4 +90,4 @@ Moisio（2022, pp.26–27）从[[Critical Geopolitics|批判地缘政治学]]视
 
 ## 来源
 
-- Ch2_Moisio_2022
+- [[Ch2_Moisio_2022]]

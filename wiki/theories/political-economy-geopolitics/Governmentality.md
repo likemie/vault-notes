@@ -43,6 +43,8 @@ related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Ball_2008_SR]]"
 sources:
+  - "[[Ch13_Thompson_2022]]"
+  - "[[Ch15_Zelinka_2022]]"
   - "[[Ball_2008_SR]]"
 confidence: medium
 status: draft
@@ -154,6 +156,6 @@ Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘
 
 ## 来源
 
-- Ch13_Thompson_2022
-- Ch15_Zelinka_2022
+- [[Ch13_Thompson_2022]]
+- [[Ch15_Zelinka_2022]]
 - [[Ball_2008_SR]]

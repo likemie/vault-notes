@@ -23,7 +23,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch9_Zapp_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-12'
@@ -95,4 +96,4 @@ Weingart (1999) 对科学与政治之间关系的分析为理解政策的科学�
 ---
 ## 来源
 
-- Ch9_Zapp_2022
+- [[Ch9_Zapp_2022]]

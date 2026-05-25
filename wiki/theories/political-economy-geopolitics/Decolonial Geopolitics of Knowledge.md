@@ -31,7 +31,8 @@ related_persons:
 related_facts:
   - "[[Horizon 2020 SSH Integration]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch3_Parreira do Amaral_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -133,4 +134,4 @@ Partaken (2022) 在此脉络中回溯了从 [[Frantz Fanon|Fanon]] 到 [[Chen Ku
 
 ## 来源
 
-- Ch3_Parreira do Amaral_2022
+- [[Ch3_Parreira do Amaral_2022]]

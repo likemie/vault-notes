@@ -20,7 +20,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch5_Partaken_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -74,4 +75,4 @@ Lyotard 出生于凡尔赛，早年在索邦大学学习哲学，后加入社会
 
 ## 来源
 
-- Ch5_Partaken_2022
+- [[Ch5_Partaken_2022]]

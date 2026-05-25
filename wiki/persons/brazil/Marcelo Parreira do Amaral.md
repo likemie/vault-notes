@@ -26,7 +26,9 @@ related_persons:
   - "[[Christiane Thompson]]"
   - "[[Gita Steiner-Khamsi]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Parreira do Amaral(Ed]]"
+  - "[[Ch3_Parreira do Amaral_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -71,5 +73,5 @@ Marcelo Parreira do Amaral 是德国明斯特大学（University of Münster）�
 
 ## 来源
 
-- Parreira do Amaral(Ed.)_2022_Springer
-- Ch3_Parreira do Amaral_2022
+- [[Parreira do Amaral(Ed.)_2022_Springer]]
+- [[Ch3_Parreira do Amaral_2022]]

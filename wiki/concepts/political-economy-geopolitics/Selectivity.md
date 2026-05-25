@@ -26,7 +26,8 @@ related_facts:
   - "[[Europe 2020 Strategy]]"
 related_arguments:
   - "[[Argument_Rambla_2022_Springer]]"
-sources: []
+sources:
+  - "[[Ch10_Rambla_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -123,4 +124,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch10_Rambla_2022
+- [[Ch10_Rambla_2022]]

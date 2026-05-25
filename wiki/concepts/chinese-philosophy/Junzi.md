@@ -16,7 +16,7 @@ tags:
 related_concepts:
   - "[[Sage]]"
   - "[[Self-Cultivation]]"
-  - "[[Ren]]"
+  - "[[Benevolence]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -72,7 +72,7 @@ updated: 2026-05-22
 ## 理论基础
 
 > [!tip]
-> - [[Ren]] — junzi 是追求仁并已取得显著进展的人
+> - [[Benevolence]] — junzi 是追求仁并已取得显著进展的人
 > - [[Self-Cultivation]] — junzi 是通过终身修身达成的理想人格
 > - [[Confucius]] — 孔子是 junzi 概念的主要阐述者和典范
 

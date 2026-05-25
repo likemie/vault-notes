@@ -28,7 +28,9 @@ related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_arguments: []
 related_facts: []
-sources: []
+sources:
+  - "[[Parreira do Amaral(Ed]]"
+  - "[[Ch3_Parreira do Amaral_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'
@@ -71,5 +73,5 @@ Thompson 的研究关注高等教育治理技术如何通过数字化和数据�
 
 ## 来源
 
-- Parreira do Amaral(Ed.)_2022_Springer
-- Ch3_Parreira do Amaral_2022
+- [[Parreira do Amaral(Ed.)_2022_Springer]]
+- [[Ch3_Parreira do Amaral_2022]]

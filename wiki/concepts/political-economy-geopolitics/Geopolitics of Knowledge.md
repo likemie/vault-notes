@@ -69,7 +69,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
-sources: []
+sources:
+  - "[[Parreira do Amaral(Ed]]"
+  - "[[Ch2_Moisio_2022]]"
+  - "[[Ch3_Parreira do Amaral_2022]]"
+  - "[[Ch5_Partaken_2022]]"
+  - "[[Ch6_Rizvi_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

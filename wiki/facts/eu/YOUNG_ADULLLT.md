@@ -27,7 +27,8 @@ related_facts:
   - "[[EU Skills Agenda]]"
   - "[[Youth Guarantee Scheme]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch10_Rambla_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-14'
@@ -100,4 +101,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch10_Rambla_2022
+- [[Ch10_Rambla_2022]]

@@ -20,7 +20,10 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch3_Parreira do Amaral_2022]]"
+  - "[[Ch9_Zapp_2022]]"
+  - "[[Ch12_Erfurth_2022]]"
 related_facts:
   - "[[GATS and Trade in Education Services]]"
 confidence: medium
@@ -97,6 +100,6 @@ Zapp (2022) 在分析大学的地缘政治再领土化时援引 Knight (2018) �
 ---
 ## 来源
 
-- Ch3_Parreira do Amaral_2022
-- Ch9_Zapp_2022
-- Ch12_Erfurth_2022
+- [[Ch3_Parreira do Amaral_2022]]
+- [[Ch9_Zapp_2022]]
+- [[Ch12_Erfurth_2022]]

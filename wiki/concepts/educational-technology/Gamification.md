@@ -24,7 +24,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch14_Jornitz_2022]]"
 confidence: low
 status: draft
 created: 2026-05-20

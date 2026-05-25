@@ -28,6 +28,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[ONeill_2016_Report]]"
+  - "[[Ch10_Rambla_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -143,4 +144,4 @@ O'Neill et al.（2016, pp.8–12）列出近十余年新西兰同时体现私营
 ## 来源
 
 - [[ONeill_2016_Report]]
-- Ch10_Rambla_2022
+- [[Ch10_Rambla_2022]]

@@ -30,7 +30,8 @@ related_persons:
 related_facts:
   - "[[China Basic Education Curriculum Reform 2001]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch2_Ryan_2010]]"
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'

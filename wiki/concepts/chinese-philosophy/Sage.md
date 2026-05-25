@@ -1,26 +1,25 @@
 ---
 title: Sage
 aliases:
-- 圣
-- 聖
-- 圣人
-- 聖人
-- 圣贤
-- sheng
-- shengxian
-- sagehood
-summary: "儒学学习传统的最高理想人格，超越君子、以仁爱关怀全人类者；孔子指出此目标遥不可及，但宋明理学将其向所有人开放"
+  - 圣
+  - 聖
+  - 圣人
+  - 聖人
+  - 圣贤
+  - shengxian
+  - sagehood
+summary: 儒学学习传统的最高理想人格，超越君子、以仁爱关怀全人类者；孔子指出此目标遥不可及，但宋明理学将其向所有人开放
 type: concept
 tags:
-- region/china
-- theory/confucianism
-- field/chinese-philosophy
-- theme/learning
+  - region/china
+  - theory/confucianism
+  - field/chinese-philosophy
+  - theme/learning
 related_concepts:
   - "[[Junzi]]"
   - "[[Humility in Learning]]"
   - "[[Self-Cultivation]]"
-  - "[[Ren]]"
+  - "[[Benevolence]]"
   - "[[Take the World Upon Oneself]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
@@ -81,7 +80,7 @@ updated: 2026-05-22
 ## 理论基础
 
 > [!tip]
-> - [[Ren]] — 圣人是仁的最完整实现者（Li, 2012, p.42）
+> - [[Benevolence]] — 圣人是仁的最完整实现者（Li, 2012, p.42）
 > - [[Junzi]] — 圣人位于君子之上的层级
 > - [[Take the World Upon Oneself]] — 圣人以天下为己任的终极形态
 > - [[Self-Cultivation]] — 圣人是从修身出发的最高成就

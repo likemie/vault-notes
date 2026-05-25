@@ -31,7 +31,8 @@ related_facts:
   - "[[English Schools Foundation Hong Kong]]"
   - "[[YOUNG_ADULLLT]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch10_Rambla_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -125,4 +126,4 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 
 ## 来源
 
-- Ch10_Rambla_2022
+- [[Ch10_Rambla_2022]]

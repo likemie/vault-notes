@@ -23,7 +23,8 @@ related_persons: []
 related_facts:
   - "[[Visible Learning in Sweden]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch1_Slethaug_2010]]"
 confidence: medium
 status: draft
 created: "2026-05-17"
@@ -81,5 +82,5 @@ updated: "2026-05-22"
 
 ## 来源
 
-- Ch1_Slethaug_2010
+- [[Ch1_Slethaug_2010]]
 - Håkansson_2015_TT

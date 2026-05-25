@@ -22,7 +22,11 @@ related_persons: []
 related_facts:
   - "[[Sino-American Trade War (2018)]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch2_Moisio_2022]]"
+  - "[[Ch3_Parreira do Amaral_2022]]"
+  - "[[Ch5_Partaken_2022]]"
+  - "[[Ch6_Rizvi_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

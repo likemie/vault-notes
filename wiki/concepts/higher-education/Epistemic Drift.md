@@ -18,7 +18,8 @@ related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals 2015]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch9_Zapp_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-12'

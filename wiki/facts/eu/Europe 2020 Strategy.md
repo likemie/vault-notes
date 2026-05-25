@@ -32,7 +32,8 @@ related_facts:
   - "[[Youth Guarantee Scheme]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch10_Rambla_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -124,4 +125,4 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 
 ## 来源
 
-- Ch10_Rambla_2022
+- [[Ch10_Rambla_2022]]

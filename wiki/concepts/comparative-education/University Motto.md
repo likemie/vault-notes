@@ -14,7 +14,7 @@ tags:
 - theme/cross-cultural-learning
 - source/li-2012-cambridge
 related_concepts:
-  - "[[Li (Propriety)]]"
+  - "[[Ritual Propriety]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Champ]]"
@@ -76,7 +76,7 @@ updated: 2026-05-22
 | 厦门大学 | 自强不息，止于至善 | 《周易》+《大学》 | Strengthen self ceaselessly and strive for the highest good |
 | 台湾大学 | 敦品、励学、爱国、爱人 | — | Cultivate virtue, advance intellect; love one's country, love one's people |
 | 香港大学 | 明德格物 (*Sapietia et virtus*) | 《大学》 | Cultivate virtue and investigate things |
-| 香港中文大学 | 博文约礼 | 《论语》 | Learn broadly of culture and discipline learning with [[Li (Propriety)|propriety]] |
+| 香港中文大学 | 博文约礼 | 《论语》 | Learn broadly of culture and discipline learning with [[Ritual Propriety|propriety]] |
 | 新加坡国立大学 | *Per ardua ad alta* | 拉丁语 | Through hard work, great things are achieved |
 
 ---

@@ -25,7 +25,8 @@ related_facts:
   - "[[Singapore Education Hub Policy]]"
   - "[[UAE Education Hub Projects]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch12_Erfurth_2022]]"
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-19

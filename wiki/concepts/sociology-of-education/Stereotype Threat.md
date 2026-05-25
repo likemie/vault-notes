@@ -19,7 +19,8 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Ryan_2010_ChineseLearner]]"
-sources: []
+sources:
+  - "[[Ch2_Ryan_2010]]"
 confidence: medium
 status: draft
 created: '2026-05-17'
@@ -92,4 +93,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch2_Ryan_2010
+- [[Ch2_Ryan_2010]]

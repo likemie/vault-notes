@@ -30,7 +30,8 @@ related_facts:
   - "[[Innovation Union]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch10_Rambla_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-13'
@@ -110,4 +111,4 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 
 ## 来源
 
-- Ch10_Rambla_2022
+- [[Ch10_Rambla_2022]]

@@ -23,7 +23,8 @@ related_persons: []
 related_facts:
   - "[[Great Firewall of China]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch5_Partaken_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -65,4 +66,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch5_Partaken_2022
+- [[Ch5_Partaken_2022]]

@@ -21,7 +21,8 @@ related_persons:
   - "[[Richard Castelo Branco]]"
   - "[[Walter Mignolo]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -70,4 +71,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Ch7_Delambre_2022
+- [[Ch7_Delambre_2022]]

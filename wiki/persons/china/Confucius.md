@@ -15,9 +15,9 @@ tags:
 - theory/confucianism
 - school/confucianism
 related_concepts:
-  - "[[Li (Propriety)]]"
+  - "[[Ritual Propriety]]"
   - "[[Self-Cultivation]]"
-  - "[[Ren]]"
+  - "[[Benevolence]]"
   - "[[Junzi]]"
   - "[[Action Better Than Words]]"
   - "[[University Motto]]"
@@ -60,7 +60,7 @@ updated: 2026-05-22
 
 > [!abstract]
 > - 《论语》（Analects）— 由学生记录孔子的言教与行迹，非孔子本人所写。Li 指出孔子故意不写书——"他的一生，由他的学生记录，就是一本打开的书，蕴藏着无穷的启发，供后世阅读、理解和效仿"（Li, 2012, pp.54-55）
-> - 编订六经（诗、书、[[Li (Propriety)|礼]]、乐、易、春秋）（Li, 2012, p.36）
+> - 编订六经（诗、书、[[Ritual Propriety|礼]]、乐、易、春秋）（Li, 2012, p.36）
 
 ---
 
@@ -75,7 +75,7 @@ updated: 2026-05-22
 
 2. **学习的目的是[[Self-Cultivation|修身]]**：修身（[[Self-Cultivation]]，自我完善）——"一个人的自我，而非外部世界，是其智识关注、沉思、实践和生活的对象"（Li, 2012, p.37）
 
-3. **修身的最高目标是仁**：[[Ren]]（仁）在《论语》中出现 105 次，代表一个人通过终身修养达到的最真诚、最完整、最富人性的道德境界（Li, 2012, p.41）
+3. **修身的最高目标是仁**：[[Benevolence]]（仁）在《论语》中出现 105 次，代表一个人通过终身修养达到的最真诚、最完整、最富人性的道德境界（Li, 2012, p.41）
 
 4. **[[Junzi|君子]]理想**：[[Junzi]]（君子）在《论语》中出现 91 次，是孔子讨论和品味最多的概念——一个通过终身学习与修身达到仁的人（Li, 2012, p.41）
 

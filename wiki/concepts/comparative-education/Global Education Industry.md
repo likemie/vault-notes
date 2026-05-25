@@ -34,7 +34,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
-sources: []
+sources:
+  - "[[Ch3_Parreira do Amaral_2022]]"
+  - "[[Ch4_Amos_2022]]"
+  - "[[Ch11_Hartmann_2022]]"
+  - "[[Ch14_Jornitz_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'

@@ -30,7 +30,8 @@ related_persons:
   - "[[Richard Castelo Branco]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch7_Delambre_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'

@@ -22,7 +22,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -78,4 +79,4 @@ Donna Haraway，美国女性主义科学与技术研究学者，以 [[Posthumani
 
 ## 来源
 
-- Ch4_Amos_2022
+- [[Ch4_Amos_2022]]

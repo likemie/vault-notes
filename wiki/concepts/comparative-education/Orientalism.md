@@ -30,7 +30,8 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Ryan_2010_ChineseLearner]]"
-sources: []
+sources:
+  - "[[Ch6_Rizvi_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'

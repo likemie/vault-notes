@@ -27,7 +27,8 @@ related_persons:
   - "[[Dell Delambre]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch7_Delambre_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'

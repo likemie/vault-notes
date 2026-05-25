@@ -24,7 +24,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch2_Moisio_2022]]"
 confidence: low
 status: draft
 created: '2026-05-07'

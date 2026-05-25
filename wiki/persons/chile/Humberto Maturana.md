@@ -19,7 +19,8 @@ related_methods: []
 related_persons:
   - "[[Francisco Varela]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -60,4 +61,4 @@ Humberto Maturana（1928–2021），智利生物学家和哲学家，与 [[Fran
 
 ## 来源
 
-- Ch4_Amos_2022
+- [[Ch4_Amos_2022]]

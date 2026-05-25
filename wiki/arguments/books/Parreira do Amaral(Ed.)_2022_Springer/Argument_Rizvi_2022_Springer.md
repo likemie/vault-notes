@@ -35,7 +35,8 @@ related_facts:
   - "[[GATS and Trade in Education Services]]"
   - "[[Australia in the Asian Century White Paper 2012]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch6_Rizvi_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'

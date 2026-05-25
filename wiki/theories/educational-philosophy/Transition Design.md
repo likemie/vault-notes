@@ -22,7 +22,8 @@ related_persons:
   - "[[Arturo Escobar]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -91,4 +92,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch4_Amos_2022
+- [[Ch4_Amos_2022]]

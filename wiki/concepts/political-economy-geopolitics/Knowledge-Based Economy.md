@@ -42,7 +42,11 @@ related_facts:
   - "[[Singapore Education Hub Policy]]"
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
-sources: []
+sources:
+  - "[[Ch2_Moisio_2022]]"
+  - "[[Ch4_Amos_2022]]"
+  - "[[Ch6_Rizvi_2022]]"
+  - "[[Ch12_Erfurth_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

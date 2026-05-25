@@ -24,7 +24,8 @@ related_facts:
   - "[[Academic Ranking of World Universities (ARWU)]]"
   - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch8_Boyadjieva_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -77,4 +78,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch8_Boyadjieva_2022
+- [[Ch8_Boyadjieva_2022]]

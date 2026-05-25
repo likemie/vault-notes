@@ -25,7 +25,8 @@ related_persons:
   - "[[Chen Kuan-Hsing]]"
   - "[[Walter Mignolo]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch5_Partaken_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -75,4 +76,4 @@ Fanon 在法国里昂大学学习精神病学，期间受到 Négritude 运动�
 
 ## 来源
 
-- Ch5_Partaken_2022
+- [[Ch5_Partaken_2022]]

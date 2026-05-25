@@ -23,7 +23,8 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
-sources: []
+sources:
+  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -68,4 +69,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch4_Amos_2022
+- [[Ch4_Amos_2022]]

@@ -20,7 +20,8 @@ related_facts:
   - "[[Education City Doha]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch1_Slethaug_2010]]"
 confidence: medium
 status: draft
 created: '2026-05-17'

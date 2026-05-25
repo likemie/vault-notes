@@ -26,7 +26,8 @@ related_facts:
   - "[[Singapore Education Hub Policy]]"
   - "[[UAE Education Hub Projects]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch12_Erfurth_2022]]"
 confidence: medium
 status: draft
 created: 2026-05-19

@@ -23,7 +23,8 @@ related_methods: []
 related_persons:
   - "[[Donna Haraway]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch4_Amos_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -77,4 +78,4 @@ Escobar 援引 Irwin (2015) 的转型设计十条原则：(1) 以生命[[Luhmann
 
 ## 来源
 
-- Ch4_Amos_2022
+- [[Ch4_Amos_2022]]

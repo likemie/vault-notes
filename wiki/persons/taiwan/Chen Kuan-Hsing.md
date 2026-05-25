@@ -20,7 +20,8 @@ related_methods: []
 related_persons:
   - "[[Frantz Fanon]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch5_Partaken_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -70,4 +71,4 @@ Chen 在台湾大学取得学士学位，后赴美国爱荷华大学攻读传播
 
 ## 来源
 
-- Ch5_Partaken_2022
+- [[Ch5_Partaken_2022]]

@@ -24,7 +24,8 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Boyadjieva_2022_Springer]]"
-sources: []
+sources:
+  - "[[Ch8_Boyadjieva_2022]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -89,4 +90,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch8_Boyadjieva_2022
+- [[Ch8_Boyadjieva_2022]]

@@ -15,7 +15,8 @@ related_methods: []
 related_persons: []
 related_arguments:
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
-sources: []
+sources:
+  - "[[Ch15_Zelinka_2022]]"
 confidence: medium
 status: draft
 created: 2026-05-21
@@ -68,4 +69,4 @@ updated: 2026-05-21
 
 ## 来源
 
-- Ch15_Zelinka_2022
+- [[Ch15_Zelinka_2022]]
