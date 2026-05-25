@@ -19,7 +19,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Karmel Report 1973]]"
+  - "[[Karmel Report]]"
 related_arguments: []
 sources:
   - "[[Keddie_2020_IJLE]]"
@@ -44,7 +44,7 @@ updated: '2026-05-18'
 > - **Gonski et al. (2011)**：*Review of Funding for Schooling: Final Report* — 首次系统审查澳大利亚学校教育拨款
 > - **Gonski et al. (2018)**：*Through Growth to Achievement: Report of the Review to Achieve Educational Excellence in Australian Schools* — 第二轮审查（即"Gonski 2.0"），于 2018 年 4 月 30 日发布
 >
-> 改革旨在返回 [[Karmel Report 1973]] 年启动的需求本位拨款模型，基于学生需求指标（原住民身份、地理位置、学校规模、SES、残疾）分配额外资源（Keddie et al., 2020, IJLE, p.11）。
+> 改革旨在返回 [[Karmel Report]] 年启动的需求本位拨款模型，基于学生需求指标（原住民身份、地理位置、学校规模、SES、残疾）分配额外资源（Keddie et al., 2020, IJLE, p.11）。
 >
 > Gonski 2.0 的核心创新在于重新定义"成功学习"：**不是以年龄基准（age-based expectations）衡量，而是以个体取得的进步（progress individuals make）衡量，无论起点如何**。David Gonski 本人认识到"当人们被教授他们已经知道的内容或缺乏成功所需的先前知识或技能时，学习不太可能发生"（Masters, cited in Sarbiewska, 2019, p.127）。这一视角将教育公平的关注点从"投入平等"转向"成长平等"。
 
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／理论
 > - [[School Autonomy]] — Gonski 改革在权力下放和学校自主权的背景下运作
-> - [[Karmel Report 1973]] — Gonski 改革试图回归 Karmel 的需求本位拨款原则
+> - [[Karmel Report]] — Gonski 改革试图回归 Karmel 的需求本位拨款原则
 > - [[New Public Management]] — NPM 的市场逻辑与新自由主义拨款模式的关系
 
 ## 来源

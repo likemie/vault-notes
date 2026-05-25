@@ -1,6 +1,7 @@
 ---
 title: Coleman Report 1966
 aliases:
+  - Coleman Report
   - 科尔曼报告
 summary: "美国教育部委托的里程碑式教育机会平等研究（650,000+ 学生、4,000 所学校），结论为家庭背景而非学校特征是学业差距的主要驱动力，50 年后 Downey & Condron 重新评估认为 Coleman 低估了学校的补偿性作用"
 type: fact

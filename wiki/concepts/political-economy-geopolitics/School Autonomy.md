@@ -19,7 +19,7 @@ related_persons:
   - "[[Bertrand Russell]]"
 related_facts:
   - "[[My School Website]]"
-  - "[[Karmel Report 1973]]"
+  - "[[Karmel Report]]"
   - "[[Local Schools Local Decisions]]"
   - "[[Independent Public Schools Western Australia]]"
   - "[[Gonski Reforms]]"
@@ -80,7 +80,7 @@ updated: '2026-05-18'
 > [!note-] 历史沿革
 > 澳大利亚各州的学校自主权改革形式各异，分水岭是 1973 年的 Karmel Report（Keddie et al., 2020, p.432-433）：
 >
-> - **Karmel Report (1973)**：澳大利亚学校委员会临时报告（[[Karmel Report 1973]]），将学校自主权定位为"草根、自下而上的改革，借鉴参与式民主概念"（Keddie et al., 2020, IJLE, p.2）。这一民主起源与今天的新自由主义版本形成尖锐对比
+> - **Karmel Report (1973)**：澳大利亚学校委员会临时报告（[[Karmel Report]]），将学校自主权定位为"草根、自下而上的改革，借鉴参与式民主概念"（Keddie et al., 2020, IJLE, p.2）。这一民主起源与今天的新自由主义版本形成尖锐对比
 > - **Victoria**：1990s 的"自我管理学校"（Self-Managing Schools），Kennett 保守党政府时期引入"按学生人数拨款"模式
 > - **New South Wales**：2011–2018 年推行的"[[Local Schools Local Decisions|地方学校地方决策]]"（[[Local Schools Local Decisions]]），被批评为实质是成本效率工具——"与家长选择或解放学校毫无关系……是他们在几乎所有学校运作领域削减成本的工具"（Edward, union, NSW，引自 Keddie et al., 2020, IJLE, p.6-7）
 > - **Western Australia**：2010 年起引入"独立公立学校"（[[Independent Public Schools Western Australia]]），是"该州公立教育系统近期最激进的改组——将 575 所学校转为 IPS 地位"（Department of Education, 2019，引自 Keddie et al., 2020, IJLE, p.2）
@@ -143,7 +143,7 @@ updated: '2026-05-18'
 
 > [!example] 相关案例／政策
 > - [[My School Website]] — 澳大利亚学校透明度和比较工具，市场问责的核心机制
-> - [[Karmel Report 1973]] — 1973年学校自主权的民主起源
+> - [[Karmel Report]] — 1973年学校自主权的民主起源
 > - [[Gonski Reforms]] — 需求本位拨款改革
 > - [[Independent Public Schools Western Australia]] — WA州IPS政策
 > - [[Local Schools Local Decisions]] — NSW州权力下放政策

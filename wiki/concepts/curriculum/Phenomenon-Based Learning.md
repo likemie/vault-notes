@@ -27,7 +27,7 @@ related_methods:
 related_persons:
   - "[[Wolfgang Klafki]]"
 related_facts:
-  - "[[Finnish National Core Curriculum 2014]]"
+  - "[[Finnish National Core Curriculum]]"
   - "[[SveaSus Project]]"
 related_arguments: []
 sources:
@@ -50,7 +50,7 @@ updated: '2026-05-18'
 > [!note-] 历史沿革
 > - **1990 年代末**：芬兰显性意义上的 PhBL 开始形成。Maijaliisa Rauste-von Wright 在赫尔辛基大学教师教育中发展这一取向，将 Dewey 和 George Herbert Mead 的思想整合为实用主义建构主义，主张从课程预设的教学转向从学生自身世界观出发的学习（Schaffar & Wolff, 2024, pp.7-8）。
 > - **2001**：Rauste-von Wright 将现象本位取向称为"课程的自我修正模型"，试图弥合理论与实践之间的传统裂缝；她强调学习总是情境化的、处境性的互动过程（Schaffar & Wolff, 2024, p.8）。
-> - **2014**：[[Finnish National Core Curriculum 2014]] 纳入跨学科和现象本位学习取向，目标之一是让学习主题连接学生周边环境和经验，从而释放学生能动性（Schaffar & Wolff, 2024, p.2）。
+> - **2014**：[[Finnish National Core Curriculum]] 纳入跨学科和现象本位学习取向，目标之一是让学习主题连接学生周边环境和经验，从而释放学生能动性（Schaffar & Wolff, 2024, p.2）。
 > - **2016**：课程英文版出版后，PhBL 在国际社交媒体和教育改革讨论中获得广泛关注，但也产生误解：许多讨论声称芬兰已取消传统学科，实际课程仍以传统学科为结构，只是把 PhBL 增补为实现课程总体目标和价值的一种方式（Schaffar & Wolff, 2024, p.2）。
 
 ## 核心要素
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> 关于 PhBL 的既有讨论中，历史和[[Philosophical Analysis in Education|哲学分析]]多于干预效果评估。[[Finnish National Core Curriculum 2014]] 中的相关概念并未形成清晰、单一的操作定义，芬兰学校和教师对 PhBL 的理解与实施方式也不一致（Schaffar & Wolff, 2024, p.2）。
+> 关于 PhBL 的既有讨论中，历史和[[Philosophical Analysis in Education|哲学分析]]多于干预效果评估。[[Finnish National Core Curriculum]] 中的相关概念并未形成清晰、单一的操作定义，芬兰学校和教师对 PhBL 的理解与实施方式也不一致（Schaffar & Wolff, 2024, p.2）。
 
 ## 争议与批评
 
@@ -98,7 +98,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Finnish National Core Curriculum 2014]] — 将跨学科与现象本位学习纳入芬兰基础教育课程框架。
+> - [[Finnish National Core Curriculum]] — 将跨学科与现象本位学习纳入芬兰基础教育课程框架。
 > - [[SveaSus Project]] — 以 Suomenlinna 世界遗产地为学习环境，围绕可持续性开展 PhBL 的高等教育/教师教育实践。
 
 ## 来源

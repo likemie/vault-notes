@@ -1,6 +1,7 @@
 ---
-title: THE Impact Ranking 2019
+title: THE Impact Ranking
 aliases:
+  - THE Impact Ranking 2019
   - THE世界大学影响力排名
   - Times Higher Education Impact Ranking
   - THE SDG ranking
@@ -19,7 +20,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[UN Sustainable Development Goals 2015]]"
+  - "[[UN Sustainable Development Goals]]"
 related_arguments: []
 sources:
   - "[[Ch9_Zapp_2022]]"
@@ -29,20 +30,20 @@ created: '2026-05-11'
 updated: '2026-05-18'
 ---
 
-# THE Impact Ranking 2019
+# THE Impact Ranking
 
 ---
 ## 背景
 
 > [!info]
-> 在以往国际大学排名主要基于研究产出、声誉和教学指标的背景下，2019 年 Times Higher Education（THE）推出了世界上首个以[[UN Sustainable Development Goals 2015|联合国可持续发展目标]]（SDGs）为基础的全球大学影响力排名（THE Impact Ranking）。这一排名的推出标志着大学评价逻辑的一个显著转向——从仅衡量学术卓越转向衡量大学对解决紧迫社会问题的贡献（Watermeyer, 2019，引自 Zapp, 2022, p.143）。此举与各国研究评估体系中对"社会影响"日益增长的重视趋势相呼应（Zapp, 2022, pp.146–147）。
+> 在以往国际大学排名主要基于研究产出、声誉和教学指标的背景下，2019 年 Times Higher Education（THE）推出了世界上首个以[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDGs）为基础的全球大学影响力排名（THE Impact Ranking）。这一排名的推出标志着大学评价逻辑的一个显著转向——从仅衡量学术卓越转向衡量大学对解决紧迫社会问题的贡献（Watermeyer, 2019，引自 Zapp, 2022, p.143）。此举与各国研究评估体系中对"社会影响"日益增长的重视趋势相呼应（Zapp, 2022, pp.146–147）。
 
 ---
 ## 政策文本摘要
 
 > [!abstract]
 > THE Impact Ranking 的核心特征（Zapp, 2022, p.147）：
-> - 衡量大学对 17 项 [[UN Sustainable Development Goals 2015|SDGs]] 的贡献，涵盖性别平等、气候行动、可持续城市和社区等领域
+> - 衡量大学对 17 项 [[UN Sustainable Development Goals|SDGs]] 的贡献，涵盖性别平等、气候行动、可持续城市和社区等领域
 > - 指标包括：大学的学术自由政策、安全雇佣合同的使用、高级女性学术人员的比例等
 > - 2020 年排名覆盖 85 个国家近 800 所大学（THE, 2020）
 > - 大学可自选 10 项 SDGs 进行报告，但 SDG 17（"促进目标实现的伙伴关系"）为强制报告指标
@@ -66,7 +67,7 @@ updated: '2026-05-18'
 
 > [!example]
 > THE Impact Ranking 的方法论特征（Zapp, 2022, pp.147, 154）：
-> - 基于 11 项 [[UN Sustainable Development Goals 2015|SDGs]]（大学自选其中 10 项，SDG 17 为强制）
+> - 基于 11 项 [[UN Sustainable Development Goals|SDGs]]（大学自选其中 10 项，SDG 17 为强制）
 > - 指标涵盖大学在学术自由、雇佣政策、性别平等、气候行动和可持续城市等方面的政策和实践
 > - 强调大学作为"他者"的社会嵌入性——不仅评估大学自身的运营，也评估其对更广泛社会的影响
 > - SDG 17（促进目标实现的伙伴关系）为强制报告指标，反映了大学通过元组织和跨部门联盟联合应对全球问题的趋势
@@ -81,7 +82,7 @@ updated: '2026-05-18'
 > [!info]- 核心数据
 > - 首次发布于 **2019 年**（Zapp, 2022, p.147）
 > - 2020 年覆盖 **85 个国家**近 **800 所**大学（THE, 2020，引自 Zapp, 2022, p.147）
-> - 大学可自选 **10 项** [[UN Sustainable Development Goals 2015|SDGs]] 报告，**SDG 17**（伙伴关系）为强制指标（Zapp, 2022, p.154）
+> - 大学可自选 **10 项** [[UN Sustainable Development Goals|SDGs]] 报告，**SDG 17**（伙伴关系）为强制指标（Zapp, 2022, p.154）
 
 ---
 ## 争议与评论
@@ -95,9 +96,9 @@ updated: '2026-05-18'
 ## 相关概念／理论
 
 > [!tip]
-> - [[Global Universities Rankings]] — THE Impact Ranking 是全球大学排名体系的最新变体，将 [[UN Sustainable Development Goals 2015|SDGs]] 纳入排名逻辑
+> - [[Global Universities Rankings]] — THE Impact Ranking 是全球大学排名体系的最新变体，将 [[UN Sustainable Development Goals|SDGs]] 纳入排名逻辑
 > - [[University Social Responsibility]] — THE Impact Ranking 将 USR 实践量化为排名指标
-> - [[UN Sustainable Development Goals 2015]] — SDGs 是 THE Impact Ranking 的内容框架
+> - [[UN Sustainable Development Goals]] — SDGs 是 THE Impact Ranking 的内容框架
 
 ---
 ## 来源

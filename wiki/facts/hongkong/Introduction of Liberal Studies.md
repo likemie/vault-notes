@@ -1,6 +1,7 @@
 ---
-title: Introduction of Liberal Studies 2009
+title: Introduction of Liberal Studies
 aliases:
+  - Introduction of Liberal Studies 2009
   - 2009通识教育科引入
 summary: "通识教育科作为新高中核心必修科的创立，以全球化论述和 IBDP 参照包装国内政策需求"
 type: fact

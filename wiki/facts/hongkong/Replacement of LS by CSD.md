@@ -1,6 +1,7 @@
 ---
-title: Replacement of LS by CSD 2021
+title: Replacement of LS by CSD
 aliases:
+  - Replacement of LS by CSD 2021
   - 2021通识改公民与社会发展
 summary: "通识教育科在官媒攻击和国安法颁布后被“公民与社会发展科“取代，课程核心转向爱国主义"
 type: fact

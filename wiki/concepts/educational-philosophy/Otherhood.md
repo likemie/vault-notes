@@ -19,8 +19,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Comprehensive School Reform Program]]"
-  - "[[UN Sustainable Development Goals 2015]]"
-  - "[[THE Impact Ranking 2019]]"
+  - "[[UN Sustainable Development Goals]]"
+  - "[[THE Impact Ranking]]"
 related_arguments: []
 sources:
   - "[[Ch9_Zapp_2022]]"
@@ -101,15 +101,15 @@ updated: '2026-05-18'
 
 > [!info]- 核心数据
 > - 大学与所有 IOs 平均合作产出 **40,000 篇**共同署名出版物（Zapp, 2017b，引自 Zapp, 2022, p.151）
-> - Bologna 大学报告 **1,174 个**与 [[UN Sustainable Development Goals 2015|SDGs]] 相关的课程单元（Zapp, 2022, p.152）
+> - Bologna 大学报告 **1,174 个**与 [[UN Sustainable Development Goals|SDGs]] 相关的课程单元（Zapp, 2022, p.152）
 > - 全球 **200+ 所**大学发布 [[Comprehensive School Reform Program|CSR]]/可持续发展报告（Corporate Register, 2019，引自 Zapp, 2022, p.153）
 
 ---
 ## 相关案例／政策
 
 > [!example]
-> - [[UN Sustainable Development Goals 2015]] — SDGs 为大学的 otherhood 提供了全球性议程，大学通过研究、教学、内部政策和网络四个渠道对齐 SDGs
-> - [[THE Impact Ranking 2019]] — THE SDG 影响力排名将大学的 otherhood 活动（如性别平等、气候行动、可持续城市）量化为排名指标
+> - [[UN Sustainable Development Goals]] — SDGs 为大学的 otherhood 提供了全球性议程，大学通过研究、教学、内部政策和网络四个渠道对齐 SDGs
+> - [[THE Impact Ranking]] — THE SDG 影响力排名将大学的 otherhood 活动（如性别平等、气候行动、可持续城市）量化为排名指标
 
 ---
 ## 来源

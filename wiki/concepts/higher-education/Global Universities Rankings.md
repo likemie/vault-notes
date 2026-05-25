@@ -30,7 +30,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Academic Ranking of World Universities]]"
-  - "[[UN Sustainable Development Goals 2015]]"
+  - "[[UN Sustainable Development Goals]]"
   - "[[OECD AHELO Project]]"
   - "[[University of Kentucky Top-20 Plan]]"
 related_arguments: []
@@ -73,7 +73,7 @@ updated: 2026-05-20
 
 > 2014 年一项国际调查显示：84% 的受调查高校已建立内部机制审视自身排名，"绝大多数"用排名指导战略决策、设定目标和塑造优先事项（Hazelkorn, 2015, pp.xix–xv, cited in Boyadjieva, 2022, p.125）。Philip Altbach（2011, p.2）指出："如果排名不存在，有人会发明它们"（Boyadjieva, 2022, p.130）。
 
-> **2019 年**，THE 推出了首个基于联合国 [[UN Sustainable Development Goals 2015|SDGs]] 的全球大学影响力排名，标志着排名逻辑的一个显著转向：从仅衡量研究卓越和声誉，扩展到衡量大学对解决紧迫社会问题（性别平等、气候行动、可持续城市等）的贡献。该排名 2020 年覆盖 85 个国家近 800 所大学，其中 SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标（Zapp, 2022, p.147）。O'Malley & Mitchell（2019）将其描述为"世界上首次全球性尝试，记录高等教育影响力的证据，提供一种定义卓越的新方式，并认可大学为社会福祉所做的出色工作"（Zapp, 2022, p.147）。
+> **2019 年**，THE 推出了首个基于联合国 [[UN Sustainable Development Goals|SDGs]] 的全球大学影响力排名，标志着排名逻辑的一个显著转向：从仅衡量研究卓越和声誉，扩展到衡量大学对解决紧迫社会问题（性别平等、气候行动、可持续城市等）的贡献。该排名 2020 年覆盖 85 个国家近 800 所大学，其中 SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标（Zapp, 2022, p.147）。O'Malley & Mitchell（2019）将其描述为"世界上首次全球性尝试，记录高等教育影响力的证据，提供一种定义卓越的新方式，并认可大学为社会福祉所做的出色工作"（Zapp, 2022, p.147）。
 
 ---
 

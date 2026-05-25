@@ -1,6 +1,7 @@
 ---
 title: California Class Size Reduction 1996
 aliases:
+  - California Class Size Reduction
   - 加州缩小班额政策
 summary: "1996 年加州大规模推行的班额缩减政策，因教师与教室供给不足暴露出试点成功经验在全州扩张中的实施条件问题"
 type: fact

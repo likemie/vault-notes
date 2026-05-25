@@ -1,6 +1,7 @@
 ---
-title: China Basic Education Curriculum Reform 2001
+title: China Basic Education Curriculum Reform
 aliases:
+  - China Basic Education Curriculum Reform 2001
   - 中国基础教育课程改革2001
   - 基础教育课程改革纲要
   - Zhongguo Jichu Jiaoyu Kecheng Gaige Gangyao
@@ -32,7 +33,7 @@ created: '2026-05-17'
 updated: '2026-05-18'
 ---
 
-# China Basic Education Curriculum Reform 2001
+# China Basic Education Curriculum Reform
 
 ## 背景
 

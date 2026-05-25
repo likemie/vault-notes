@@ -30,7 +30,7 @@ related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[PISA]]"
-  - "[[UN Sustainable Development Goals 2015]]"
+  - "[[UN Sustainable Development Goals]]"
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
 related_arguments:
@@ -105,7 +105,7 @@ Auld & Morris (2016) 指出，[[PISA]] 等国际比较测试作为"最佳实践"
 
 - 2015 年 Bromley & Meyer 在 *Hyper-Organization* 中发展 [[Organizational Actorhood]] 理论，提出四维度模型（自主性、目标导向、问责性、社会嵌入性），将世界社会理论延伸至全球组织扩张的分析（Zapp, 2022, p.148）
 - 2020 年 Frank & Meyer 在 *The University and the Global Knowledge Society* 将世界社会理论系统应用于大学分析，论证大学——尤其是现代"超级研究型大学"——是全球知识社会的核心制度（Zapp, 2022, p.143）
-- Zapp (2020a, 2020b, 2022) 将世界社会理论中的 otherhood 概念应用于分析国际组织和大学在全球治理中的知识行动者角色，以 [[UN Sustainable Development Goals 2015|SDGs]] 为案例展示了大学通过四种机制嵌入全球治理，详见 [[Argument_Zapp_2022_Springer]]（Zapp, 2022, pp.148–154）
+- Zapp (2020a, 2020b, 2022) 将世界社会理论中的 otherhood 概念应用于分析国际组织和大学在全球治理中的知识行动者角色，以 [[UN Sustainable Development Goals|SDGs]] 为案例展示了大学通过四种机制嵌入全球治理，详见 [[Argument_Zapp_2022_Springer]]（Zapp, 2022, pp.148–154）
 
 ### 批评与经验检验
 

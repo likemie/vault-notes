@@ -15,7 +15,7 @@ related_persons: []
 related_facts:
   - "[[Ofsted]]"
   - "[[Grammar School]]"
-  - "[[Selective Schools Expansion Fund 2018]]"
+  - "[[Selective Schools Expansion Fund]]"
 related_arguments: []
 sources:
   - "[[Bainbridge_2022_ROE]]"
@@ -109,7 +109,7 @@ Bainbridge et al.（2022）对 2015–2019 年英国议会 11 场关于[[Grammar
 
 ## 相关案例／政策
 
-- [[Selective Schools Expansion Fund 2018]] — 道德侧步在该政策制定过程中集中体现
+- [[Selective Schools Expansion Fund]] — 道德侧步在该政策制定过程中集中体现
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Education and Inspections Act 2006
 aliases:
+  - Education and Inspections Act
   - 2006教育与督察法案
 summary: "英国法律禁止新建文法学校，但允许现有 163 所文法学校继续运作"
 type: fact
@@ -20,7 +21,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Grammar School]]"
-  - "[[Selective Schools Expansion Fund 2018]]"
+  - "[[Selective Schools Expansion Fund]]"
 related_arguments: []
 sources:
   - "[[Bainbridge_2022_ROE]]"
@@ -66,7 +67,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／政策
 > - [[Selective Education]]
 > - [[Grammar School]]
-> - [[Selective Schools Expansion Fund 2018]]
+> - [[Selective Schools Expansion Fund]]
 
 ## 来源
 

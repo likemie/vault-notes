@@ -1,6 +1,7 @@
 ---
 title: ESSA 2015 Evidence Standards
 aliases:
+  - ESSA Evidence Standards
   - ESSA证据标准
 summary: "美国联邦教育主法定义强/中/有希望与理论依据证据层级，将联邦拨款与使用达到证据标准的项目绑定"
 type: fact

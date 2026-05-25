@@ -1,6 +1,7 @@
 ---
 title: 2019 Hong Kong Protests and Education
 aliases:
+  - Hong Kong Protests and Education
   - 2019香港抗议与教育
 summary: "2019 年反修例运动被定性为“国家安全危机“后，中国官媒将 LS 构建为年轻人参与抗议的“罪魁祸首“，触发课程替代"
 type: fact
@@ -21,7 +22,7 @@ related_persons: []
 related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
-  - "[[Replacement of LS by CSD 2021]]"
+  - "[[Replacement of LS by CSD]]"
   - "[[National Education in Hong Kong]]"
   - "[[National Security Law Impact on Hong Kong Education]]"
 related_arguments: []
@@ -101,7 +102,7 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／政策
 > - [[Liberal Studies]]
-> - [[Replacement of LS by CSD 2021]]
+> - [[Replacement of LS by CSD]]
 > - [[National Education in Hong Kong]]
 > - [[National Security Law Impact on Hong Kong Education]]
 

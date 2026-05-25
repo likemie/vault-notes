@@ -21,7 +21,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
-  - "[[Creation of REES 2018]]"
+  - "[[Creation of REES]]"
 related_arguments: []
 sources:
   - "[[Wolf_2020_JREE]]"
@@ -83,7 +83,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Creation of REES 2018]] — REES 的[[Preregistration|预注册]]制度直接针对约束研究者自由度
+> - [[Creation of REES]] — REES 的[[Preregistration|预注册]]制度直接针对约束研究者自由度
 > - [[Developer Effect]] — 研究者自由度是开发者效应的可能解释机制之一
 
 ## 来源

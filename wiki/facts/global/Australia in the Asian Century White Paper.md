@@ -1,6 +1,7 @@
 ---
-title: Australia in the Asian Century White Paper 2012
+title: Australia in the Asian Century White Paper
 aliases:
+  - Australia in the Asian Century White Paper 2012
   - Australia in the Asian Century
   - Asian Century White Paper
   - Henry Report 2012
@@ -34,7 +35,7 @@ created: '2026-05-10'
 updated: '2026-05-18'
 ---
 
-# Australia in the Asian Century White Paper 2012
+# Australia in the Asian Century White Paper
 
 ## 背景
 

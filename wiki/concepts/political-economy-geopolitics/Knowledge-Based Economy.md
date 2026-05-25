@@ -37,7 +37,7 @@ related_methods:
 related_persons:
   - "[[Bob Jessop]]"
 related_facts:
-  - "[[Australia in the Asian Century White Paper 2012]]"
+  - "[[Australia in the Asian Century White Paper]]"
   - "[[UAE Education Hub Projects]]"
   - "[[Singapore Education Hub Policy]]"
 related_arguments:
@@ -118,7 +118,7 @@ Rizvi (2022) 的分析揭示了 KBE 话语在重塑[[Internationalization of Hig
 
 **2. 为国际化理性的市场转向提供意识形态基础**：KBE 话语的核心逻辑——知识是经济增长和竞争力的关键驱动力——被无缝地移植到高等教育国际化的话语中。国际化不再被理解为发展援助和文化交流（发展主义理性），而是被重新定义为提升国家在全球知识经济中竞争力的战略工具（市场理性）。高等教育被视为"出口产业"，成功以招收全额付费国际学生的**数量**来衡量——"这正是全球排名系统测量的、政府庆祝的指标"（Rizvi, 2022, pp.96–97）。详见 高等教育国际化 > 概念演变。
 
-**3. 为国家教育出口战略提供政策框架**：澳大利亚提供了最清晰的案例。2012 年《[[Australia in the Asian Century White Paper 2012|亚洲世纪白皮书]]》（Henry Report）将亚洲崛起定位为"澳大利亚的机遇"，其背后的核心假设完全是 KBE 式的：全球知识经济的重心正在向亚洲转移，澳大利亚必须通过教育出口、研究合作和人才流动来"嵌入"这一新兴的知识经济网络。"随着全球重心向我们的区域转移，距离的暴政正在被邻近的前景所取代"（Henry, 2012, p.1, cited in Rizvi, 2022, pp.99–100）。《[[International Education|国际教育]]国家战略 2025》进一步将教育出口系统性地整合进国家经济战略（Rizvi, 2022, pp.99–100）。
+**3. 为国家教育出口战略提供政策框架**：澳大利亚提供了最清晰的案例。2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》（Henry Report）将亚洲崛起定位为"澳大利亚的机遇"，其背后的核心假设完全是 KBE 式的：全球知识经济的重心正在向亚洲转移，澳大利亚必须通过教育出口、研究合作和人才流动来"嵌入"这一新兴的知识经济网络。"随着全球重心向我们的区域转移，距离的暴政正在被邻近的前景所取代"（Henry, 2012, p.1, cited in Rizvi, 2022, pp.99–100）。《[[International Education|国际教育]]国家战略 2025》进一步将教育出口系统性地整合进国家经济战略（Rizvi, 2022, pp.99–100）。
 
 ### KBE 在教育枢纽中的运作化
 
@@ -162,7 +162,7 @@ Erfurth (2022) 通过对新加坡和[[UAE Education Hub Projects|阿联酋教育
 - **亚洲政府的高等教育大规模投资**：Rizvi (2022) 记录了亚洲各国政府如何以 KBE 话语为框架大规模投资高等教育、允许私人投资、鼓励公众将高等教育视为人力资本投资。亚洲高等教育系统积极改革课程以对接全球劳动力市场的变化需求，同时追求对西方顶尖大学的"追赶"（Rizvi, 2022, p.95）
 - **KBE 话语作为亚洲中产阶级教育消费的文化推力**：Rizvi (2022) 指出，KBE 话语不仅自上而下地塑造政府政策，也自下而上地渗透进亚洲中产阶级的教育消费决策。海外教育被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in Rizvi, 2022, p.96）——这与 KBE 将教育框定为"人力资本投资"的话语高度一致。亚洲各地精英[[International Schools|国际学校]]的快速增长和留学中介产业的庞大化，可视作 KBE 话语在消费文化层面的物质化（Rizvi, 2022, pp.95–97）
 - **[[Further Education|继续教育]]的持续扩张**：2016 年欧盟 25–64 岁人口中超过 40% 在过去一年参与过教育培训，且此后在所有高收入国家持续增长。KBE 逻辑下知识生命周期的缩短是这一趋势的根本驱动力。企业培训支出遵循"滴漏策略"（trickle-down strategy）：员工原有正式资格越高、职位越高，获得培训的可能性越大（Hartmann, 2022, pp.179, 185）
-- **澳大利亚：KBE 驱动的教育出口战略**：澳大利亚 2012 年《[[Australia in the Asian Century White Paper 2012|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》展示了 KBE 话语如何被系统性地转化为国家教育出口政策。研究基金（AISRF、ACSRF）将[[Transnational Research Collaboration in Higher Education|跨国研究合作]]与贸易和外交目标深度绑定——高等教育政策在此过程中转变为**经济政策、外交政策和安全政策**的综合体（Rizvi, 2022, pp.99–100）
+- **澳大利亚：KBE 驱动的教育出口战略**：澳大利亚 2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》展示了 KBE 话语如何被系统性地转化为国家教育出口政策。研究基金（AISRF、ACSRF）将[[Transnational Research Collaboration in Higher Education|跨国研究合作]]与贸易和外交目标深度绑定——高等教育政策在此过程中转变为**经济政策、外交政策和安全政策**的综合体（Rizvi, 2022, pp.99–100）
 - **教育枢纽作为 KBE 的极端运作形式**：新加坡的"[[Singapore Education Hub Policy|全球校园]]"项目和阿联酋迪拜的国际分校产业集群代表了 KBE 逻辑的极致运作——高等教育被完全商品化为出口产业，大学和师生主要被视为经济生产要素（Erfurth, 2022, pp.209–211）。详见 [[International Education Hubs#Erfurth 的双重运作维度]]
 
 ---

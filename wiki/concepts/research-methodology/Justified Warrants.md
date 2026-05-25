@@ -18,7 +18,7 @@ related_persons: []
 related_facts:
   - "[[Ofsted]]"
   - "[[Grammar School]]"
-  - "[[Selective Schools Expansion Fund 2018]]"
+  - "[[Selective Schools Expansion Fund]]"
 related_arguments: []
 sources:
   - "[[Bainbridge_2022_ROE]]"
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Selective Schools Expansion Fund 2018]] — 该政策被 Bainbridge et al.（2022）用作缺乏 justified warrants 的典型案例
+> - [[Selective Schools Expansion Fund]] — 该政策被 Bainbridge et al.（2022）用作缺乏 justified warrants 的典型案例
 >
 
 ## 来源

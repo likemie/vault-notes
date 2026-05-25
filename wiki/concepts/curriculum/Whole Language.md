@@ -26,7 +26,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
-  - "[[Rose Report 2006]]"
+  - "[[Rose Report]]"
 related_arguments: []
 sources:
   - "[[OConnor_2020_AJLL]]"
@@ -111,7 +111,7 @@ updated: '2026-05-18'
 
 > [!example] 相关案例／政策
 > - [[No Child Left Behind Act 2001]] — 禁止联邦资助不支持合成语音项目的学区
-> - [[Rose Report 2006]] — 英国政府报告，推广"简单阅读观"并促成强制合成语音教学
+> - [[Rose Report]] — 英国政府报告，推广"简单阅读观"并促成强制合成语音教学
 > - [[Visible Learning]] — [[John Hattie|Hattie]] 对全语言的争议性评估
 
 ## 来源

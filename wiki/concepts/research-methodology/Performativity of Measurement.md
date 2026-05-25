@@ -30,7 +30,7 @@ related_persons:
   - "[[John Locke]]"
 related_facts:
   - "[[Education at a Glance]]"
-  - "[[Victorian HITS and Literacy Toolkit 2017]]"
+  - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[PISA]]"
 related_arguments: []
@@ -153,14 +153,14 @@ updated: '2026-05-18'
 > > 例：维多利亚州教育部要求职前教师进入教室后立即走向白板张贴学习意图（learning intentions），学校管理层禁止以任何其他方式开始上课（McKnight, 2016，引自 McKnight & Whitburn, 2020, p.39）。这不是因为研究表明这一做法最有效，而是因为"可见性"的施行逻辑要求学习必须是可展示的——测量的存在（学习意图的可见证据）改变了教学行为本身。（编者类比）
 
 
-> [!success] 澳大利亚 [[Victorian HITS and Literacy Toolkit 2017|HITS]] 中的施行性（Johnson & Janzen, 2023）
+> [!success] 澳大利亚 [[Victorian HITS and Literacy Toolkit|HITS]] 中的施行性（Johnson & Janzen, 2023）
 > Johnson & Janzen（2023）记录了 Ball（2003）的 performativity 概念在澳大利亚基于 VL 的 HITS（High Impact Teaching Strategies）实施中的具体表现：
 >
 > - 在实施 HITS 的澳大利亚学区，教师被强迫执行"simplistic performative technical actions"——如在课前将课题写在白板上（Johnson & Janzen, 2023, p.29-30）
 > - 结果：教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022），"evidence based best practices"取代了曾存在于专业决策中的信任（Johnson & Janzen, 2023, p.30）
 > - Johnson & Janzen 将此定性为 VL 如何将教学从"an ethical, relational profession"重塑为"tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies"（Johnson & Janzen, 2023, p.29）
 >
-> 参见 [[Victorian HITS and Literacy Toolkit 2017]]、[[Visible Learning Branding and Global Influences]]。
+> 参见 [[Victorian HITS and Literacy Toolkit]]、[[Visible Learning Branding and Global Influences]]。
 
 ## 争议与批评
 
@@ -187,7 +187,7 @@ updated: '2026-05-18'
 > [!example] 相关案例／政策
 > - [[Visible Learning]] — McKnight & Whitburn (2020) 论证 VL 是"新管理全景监狱主义"的完美工具，其隐喻本身就是施行性装置
 > - [[Visible Learning Branding and Global Influences]] — VL 商业产品（workshops、认证、Visible Classroom App）是 performativity 在商业层面的制度化体现
-> - [[Victorian HITS and Literacy Toolkit 2017]] — Johnson & Janzen (2023) 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
+> - [[Victorian HITS and Literacy Toolkit]] — Johnson & Janzen (2023) 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
 > - [[Education at a Glance]] — Gorur (2014) 的核心案例，OECD 指标的 performativity 如何在政策层面制造世界
 > - [[Neo-Taylorism in Educational Administration]] — 测量施行性与新泰勒主义共享全景监狱逻辑
 > - [[New Public Management]] — NPM 的绩效问责制是 performativity 在公共部门扩散的制度载体

@@ -12,8 +12,6 @@
 - `wiki/index.md` 是 Quartz 4 / Obsidian / GitHub 可读索引页面，可作为 `wiki/` 首页。
 - 新建、移动、删除、重命名条目后，运行标准同步与检查流程。
 - 修改已有条目必须使用 `str_replace`，只替换需要修改的段落，不重写整个文件。
-- 写入前必须声明插入位置：
-  > 本条内容属于 `## 章节名 > ### 子主题名`，插入位置在……之后／之前，理由是……
 - 所有来源性陈述都必须标注页码：`（Author, year, p.X）`。
 - 不使用来源以外的知识；不确定时宁可不写。
 - AI 不手动维护 `related_*` 和 YAML `sources`；这些字段由 `scripts/wiki_relations.py` 根据正文 wikilink 与 `## 来源` 章节自动同步。
@@ -85,13 +83,15 @@ wiki/
 - 不用括号给标题补充来源、人名、年份、地区或缩写，除非该括号本身是概念固定名称的一部分。
   - 避免：`Theory of Teaching (Gruschka)`、`Codeswitcher (School)`、`Single-Case Design (SCD)`
   - 改为：`Teaching Theory of Gruschka`、`Codeswitcher`、`Single-Case Design`
-  - 旧标题可放入 `aliases`，用于兼容检索和旧链接。
+  - 缩写、中文译名、常见变体放入 `aliases`。
 - 明确需要保留括号的例外可以保留，例如 `SF (Haraway)`。
 - 缩写优先放入 `aliases`，不要为了缩写改变标题。
 
 ---
 
 ## 3. Script Rules
+
+脚本用于维护索引、补链、关系字段和 source 记录。schema 只规定使用边界，脚本实现细节以 `scripts/` 为准。
 
 ### Standard Sync and Lint
 
@@ -106,95 +106,36 @@ python3 scripts/wiki_index.py
 python3 scripts/vault_lint.py
 ```
 
-若只想检查某一目录：
+常用检查：
 
 ```bash
 python3 scripts/vault_lint.py --path wiki/concepts
-```
-
-更严格检查：
-
-```bash
 python3 scripts/vault_lint.py --strict
 ```
 
-### Index
+### Generated Fields
 
-`scripts/wiki_index.py` 输出：
+不要手动编辑或维护以下生成内容：
 
-- `wiki/index.json`：AI / Claude Code 使用的极简索引，用于判断条目是否存在。
-- `wiki/index.md`：Quartz 4 / GitHub / Obsidian 可读静态索引，也可作为 `wiki/` 首页。
+- `wiki/index.json`
+- `wiki/index.md`
+- 各类型索引页，如 `wiki/concepts/index.md`
+- frontmatter 中的 `related_*`
+- frontmatter 中的 YAML `sources`
 
-不要手动编辑 `wiki/index.json` 或 `wiki/index.md`。
+建立关系的方法是在正文中自然使用 wikilink；建立来源的方法是在 `## 来源` 或 `## Sources` 章节列出 source wikilink。
 
-`wiki/index.json` 不承担展示功能，不需要包含 tags、status、sources、related_*、journal、book_title 等信息。若脚本保留 aliases，则仅用于判断已有条目和自动补链。
-
-`summary` 只用于生成 `wiki/index.md` 的一行说明；修改 summary 后必须重新运行脚本。
-
-### Automatic Wikilink
-
-`scripts/wiki_linker.py` 根据 `wiki/index.json` 自动同步正文 wikilink。
-
-运行：
-
-```bash
-python3 scripts/wiki_linker.py sync
-```
-
-规则：
+### Wikilink Rules
 
 - `title` 和 `aliases` 是自动补链依据。
-- 如果某个 alias 太宽泛，直接从条目 frontmatter 的 `aliases` 中删除，再重新运行同步流程。
-- 以每个 `##` 二级标题为一个 section。
-- 每个 section 内，同一 target 只链接第一次出现。
-- `###` 和更低层级不重新计算。
-- 删除条目或删除 alias 后，脚本应把失效自动链接还原为纯文本。
-- 不链接当前文件自身。
-- 跳过 YAML frontmatter、标题行、代码块、已有 Markdown 链接、URL、DOI、HTML、PDF / EPUB 嵌入、blockquote、`[!quote]` callout。
-- `## 来源` / `## Sources` 章节只补 source 记录链接，不按普通 wiki 条目补概念链接。
-- source 记录可来自 `sources/` 与 `books/`；章节 source 如 `Ch4_Amos_2022` 也应可被补链。
+- `wiki_linker.py` 以每个 `##` 二级标题为作用域，每个 section 内同一 target 只链接第一次出现。
+- `## 来源` / `## Sources` 章节只补 source 记录链接。
+- 删除过宽或错误的 alias 后，重新运行标准同步流程。
 - 单个汉字 alias 只允许在独立出现时补链，不能嵌入词中补链。
 
-### Frontmatter Relations
+### Source Records
 
-`scripts/wiki_relations.py` 根据正文 wikilink 自动同步 YAML 中的关系字段。
-
-自动维护：
-
-```yaml
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
-sources: []
-```
-
-规则：
-
-- `related_*` 根据正文中出现的 wikilink 自动生成，并根据被链接条目的 `type` 分类。
-- `## 来源` 或 `## Sources` 章节中的 wikilink 不写入 `related_*`，只写入 YAML `sources`。
-- `![[...]]` 嵌入链接不计入关系。
-- `## 来源` 中不在 `wiki/index.json` 的 source target 应按原 target 保留，不要用 `Path.stem` 误截断带点号或括号的 source ID。
-- AI 不手动填写 `related_*` 和 YAML `sources`；如需建立关系，应在正文中自然使用 wikilink，并在 `## 来源` 章节列出来源。
-
-### Source Record Creation
-
-`scripts/source_record.py` 用于创建 source 记录与 PDF / EPUB 阅读页面。AI 先根据用户指令和 schema 判断来源类型，再调用对应子命令；脚本不负责自动猜类型。
-
-可用子命令：
-
-```bash
-python3 scripts/source_record.py article
-python3 scripts/source_record.py report
-python3 scripts/source_record.py monograph-pdf
-python3 scripts/source_record.py monograph-epub
-python3 scripts/source_record.py edited-volume-overview
-python3 scripts/source_record.py book-chapter
-```
-
-分类规则：
+Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先判断来源类型，再调用对应子命令；脚本不负责自动猜类型。
 
 | 来源类型 | 子命令 | 输出位置 |
 |---|---|---|
@@ -205,106 +146,7 @@ python3 scripts/source_record.py book-chapter
 | 论文集／编著整体 overview | `edited-volume-overview` | `books/<book-folder>/` |
 | 论文集章节 source | `book-chapter` | `books/<book-folder>/` |
 
-普通论文示例：
-
-```bash
-python3 scripts/source_record.py article \
-  --file raw/Thomas_2000_RER.pdf \
-  --citation "Thomas, J. W. (2000). ..." \
-  --journal "Review of Educational Research" \
-  --extracted-to "[[Project-Based Learning]],[[Argument_Thomas_2000_RER]]"
-```
-
-专著 PDF 示例：
-
-```bash
-python3 scripts/source_record.py monograph-pdf \
-  --book-folder Bourdieu_1984_HUP \
-  --file books/Bourdieu_1984_HUP/Distinction.pdf \
-  --citation "Bourdieu, P. (1984). Distinction. Harvard University Press." \
-  --book-title "Distinction" \
-  --authors "Pierre Bourdieu" \
-  --publisher "Harvard University Press" \
-  --argument "[[Argument_Bourdieu_1984_HUP]]"
-```
-
-EPUB 示例：
-
-```bash
-python3 scripts/source_record.py monograph-epub \
-  --book-folder Vygotsky_1978_HUP \
-  --file books/Vygotsky_1978_HUP/MindInSociety.epub \
-  --citation "Vygotsky, L. S. (1978). Mind in society. Harvard University Press." \
-  --book-title "Mind in Society" \
-  --authors "Lev Vygotsky" \
-  --publisher "Harvard University Press" \
-  --argument "[[Argument_Vygotsky_1978_HUP]]"
-```
-
-论文集章节示例：
-
-```bash
-python3 scripts/source_record.py book-chapter \
-  --book-folder AppleEd_2019_Routledge \
-  --file books/AppleEd_2019_Routledge/Ch03_Biesta_2019.pdf \
-  --citation "Biesta, G. (2019). Chapter title. In M. Apple (Ed.), Book title (pp. xx-xx). Routledge." \
-  --book-title "Book Title" \
-  --chapter-title "Chapter Title" \
-  --authors "Gert Biesta" \
-  --editors "Michael W. Apple" \
-  --publisher "Routledge" \
-  --extracted-to "[[Argument_Biesta_2019_purpose]]" \
-  --part-of "[[AppleEd_2019_Routledge]]"
-```
-
-Source 记录统一 frontmatter：
-
-```yaml
-title: ""
-type: source
-subtype: ""
-publication_type: ""
-citation: ""
-source_file: ""
-book_file: ""
-extracted_to: []
-processed_date: YYYY-MM-DD
-status: processed
-```
-
-可选字段：
-
-```yaml
-journal: ""
-issuing_organization: ""
-book_title: ""
-chapter_title: ""
-authors: []
-editors: []
-publisher: ""
-part_of: ""
-```
-
-### Vault Lint
-
-`scripts/vault_lint.py` 是只读检查脚本，默认不修改文件。
-
-检查内容包括：
-
-- summary YAML 安全规则
-- frontmatter YAML 是否可解析
-- Argument 是否误用 aliases
-- tags 格式
-- related_* / sources / part_of 格式
-- 模板字段一致性
-- 坏 wikilink
-- 嵌入文件是否存在
-- `## 来源` 是否存在
-- source record 格式
-- Quartz 风险
-- 旧命令 `scripts/update_wiki_index.py` 残留
-- 旧路径 `wiki/wiki-index.md` 残留
-- `wiki/index.json` 与实际条目一致性
+`sources/` 下的 source 记录不是普通 wiki 条目，不进入 `related_*` 自动维护逻辑。
 
 ---
 
@@ -316,18 +158,7 @@ part_of: ""
 
 ### sources/
 
-普通论文或报告处理完成后，优先使用 `source_record.py article` 或 `source_record.py report` 创建 source 记录。不要手写固定结构，除非脚本无法满足特殊情况。
-
-```bash
-python3 scripts/source_record.py article --file raw/FILENAME.pdf --citation "..." --extracted-to "[[...]]"
-```
-
-规则：
-
-- `article` / `report` 默认将 `raw/*.pdf` 移入 `sources/`。
-- `--copy` 表示复制而不是移动。
-- `--no-move` 表示文件保留原位，但仍生成 source 记录。
-- `extracted_to` 中每个 wikilink 必须加双引号，脚本会自动生成合法 YAML 数组。
+- 普通论文或报告处理完成后，优先使用 `source_record.py article` 或 `source_record.py report` 创建 source 记录。
 - 书籍来源记录按对应 book schema 执行。
 - `sources/` 下的 source 记录不是普通 wiki 条目，不进入 `related_*` 自动维护逻辑。
 

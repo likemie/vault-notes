@@ -22,7 +22,7 @@ related_methods: []
 related_persons:
   - "[[Wolfgang Klafki]]"
 related_facts:
-  - "[[Finnish National Core Curriculum 2014]]"
+  - "[[Finnish National Core Curriculum]]"
   - "[[SveaSus Project]]"
 related_arguments: []
 sources:
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Finnish National Core Curriculum 2014]] — 将 [[Phenomenon-Based Learning|PhBL]] 纳入课程框架，可被理解为用复杂现象回应时代关键问题的一种制度化尝试。
+> - [[Finnish National Core Curriculum]] — 将 [[Phenomenon-Based Learning|PhBL]] 纳入课程框架，可被理解为用复杂现象回应时代关键问题的一种制度化尝试。
 > - [[SveaSus Project]] — 以可持续性和世界遗产地为学习[[Champ|场域]]，展示时代关键问题如何进入具体学习环境。
 
 ## 来源

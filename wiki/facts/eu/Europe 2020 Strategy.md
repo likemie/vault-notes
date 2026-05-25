@@ -1,6 +1,7 @@
 ---
 title: Europe 2020 Strategy
 aliases:
+  - Europe Strategy
   - 欧洲2020战略
   - EU 2020 Strategy
   - Europe 2020

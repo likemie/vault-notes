@@ -1,6 +1,7 @@
 ---
-title: SFI Report 2013
+title: SFI Report
 aliases:
+  - SFI Report 2013
   - SFI报告2013
 summary: "Winther & Nielsen 编辑的丹麦 SFI 报告，是检验 Hattie/Meyer/Helmke 有效教学综合丹麦适用性的主要本土证据"
 type: fact

@@ -26,8 +26,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Australia in the Asian Century White Paper 2012]]"
-  - "[[OECD Improving School Leadership Project 2006]]"
+  - "[[Australia in the Asian Century White Paper]]"
+  - "[[OECD Improving School Leadership Project]]"
   - "[[My School Website]]"
 related_arguments: []
 sources:
@@ -89,7 +89,7 @@ updated: 2026-05-20
 > 3. 公共资金削减迫使大学采纳企业化运营模式：NPM 的"理念、技术和实践从企业部门被广泛引入，以使公立高等教育机构更像企业运作"（Rizvi, 2022, pp.97–98）
 > 4. 企业化运营反过来使大学更依赖国际学生市场收入 → 加固了第 1 步
 >
-> 最终结果：内生私有化成为大多数西方国家公立高等教育的"永久特征"（Ball, 2012, cited in Rizvi, 2022, p.97）。澳大利亚是最激进的案例——其高等教育机构在国际招生方面的成功使政府有底气推动其他市场导向政策，包括《[[Australia in the Asian Century White Paper 2012|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》（Rizvi, 2022, pp.97–100）。
+> 最终结果：内生私有化成为大多数西方国家公立高等教育的"永久特征"（Ball, 2012, cited in Rizvi, 2022, p.97）。澳大利亚是最激进的案例——其高等教育机构在国际招生方面的成功使政府有底气推动其他市场导向政策，包括《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》（Rizvi, 2022, pp.97–100）。
 >
 > 此外，国际学生市场催生了一个复杂的招生基础设施——本地代理网络遍布亚洲、大量跨国项目、特许经营安排、复杂的学分衔接和双联安排——彻底改造了全球高等教育的空间架构（Rizvi, 2022, p.97）。详见 Rizvi 论证 > 第四步。
 >
@@ -134,10 +134,10 @@ updated: 2026-05-20
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[OECD Improving School Leadership Project 2006]] — OECD 同时推动 NPM 问责话语和分布式领导话语，体现矛盾的并行运作
+> - [[OECD Improving School Leadership Project]] — OECD 同时推动 NPM 问责话语和分布式领导话语，体现矛盾的并行运作
 > - [[My School Website]] — NPM 产出控制和公共问责的典型工具，以市场逻辑驱动学校间竞争
 > - [[School Autonomy]] — 澳大利亚学校自主权改革集中体现 NPM 的市场逻辑。Keddie et al. (2020) 记录其导致的竞争性残余化、家长筹资不平等和人员配置分层
-> - 《[[Australia in the Asian Century White Paper 2012]]》和《[[International Education|国际教育]]国家战略 2025》——高等教育领域 NPM 逻辑的国家政策表达：将大学国际化定位为出口产业战略（Rizvi, 2022, pp.99–100）
+> - 《[[Australia in the Asian Century White Paper]]》和《[[International Education|国际教育]]国家战略 2025》——高等教育领域 NPM 逻辑的国家政策表达：将大学国际化定位为出口产业战略（Rizvi, 2022, pp.99–100）
 >
 
 ## 来源

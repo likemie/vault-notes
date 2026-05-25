@@ -25,7 +25,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Grammar School]]"
-  - "[[Selective Schools Expansion Fund 2018]]"
+  - "[[Selective Schools Expansion Fund]]"
 related_arguments: []
 sources:
   - "[[Bainbridge_2022_ROE]]"
@@ -110,7 +110,7 @@ updated: '2026-05-18'
 > - [[Moral Sidestep]] — Ofsted 的"good"评级是 Bainbridge et al. 识别的"建构型道德侧步"的核心操作工具
 > - [[Grammar School]] — 159/163 文法学校评级 good/outstanding，"good"成为辩护选择性教育的伪证据
 > - [[Evidence-Based Education]] — Ofsted 评级被混同为"证据"，但不符合政府自身对证据的定义
-> - [[Selective Schools Expansion Fund 2018]] — 资金仅流向 Ofsted good/outstanding 文法学校
+> - [[Selective Schools Expansion Fund]] — 资金仅流向 Ofsted good/outstanding 文法学校
 > - [[Justified Warrants]] — Ofsted 评级不符合学术界的正当理由标准
 >
 

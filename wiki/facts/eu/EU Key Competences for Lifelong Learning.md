@@ -1,6 +1,7 @@
 ---
-title: EU Key Competences for Lifelong Learning 2018
+title: EU Key Competences for Lifelong Learning
 aliases:
+  - EU Key Competences for Lifelong Learning 2018
   - Council Recommendation of 22 May 2018 on Key Competences for Lifelong Learning
   - 欧盟终身学习关键能力建议2018
   - EU key competences
@@ -33,7 +34,7 @@ created: 2026-05-23
 updated: 2026-05-23
 ---
 
-# EU Key Competences for Lifelong Learning 2018
+# EU Key Competences for Lifelong Learning
 
 ## 背景
 

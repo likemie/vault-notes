@@ -1,6 +1,7 @@
 ---
 title: No Child Left Behind Act 2001
 aliases:
+  - No Child Left Behind Act
   - 不让一个孩子掉队法案
   - NCLB
 summary: "Bush 政府 ESEA 重新授权，“科学本位研究“出现 110 次，将实验证据标准嵌入联邦教育项目核心，ESSA (2015) 的前身"

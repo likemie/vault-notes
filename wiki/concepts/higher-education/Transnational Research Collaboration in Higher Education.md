@@ -25,7 +25,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Australia in the Asian Century White Paper 2012]]"
+  - "[[Australia in the Asian Century White Paper]]"
   - "[[GATS and Trade in Education Services]]"
 related_arguments: []
 sources:
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success]
-> - 澳大利亚政府基于《[[Australia in the Asian Century White Paper 2012|亚洲世纪白皮书]]》大量投资于 Australia-India Strategic Research Fund (AISRF) 和 Australia China Science and Research Fund (ACSRF)，旨在与"高绩效国家"维持和加强研究关系（Barlow, 2014, p.13, cited in Rizvi, 2022, pp.99–100）
+> - 澳大利亚政府基于《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》大量投资于 Australia-India Strategic Research Fund (AISRF) 和 Australia China Science and Research Fund (ACSRF)，旨在与"高绩效国家"维持和加强研究关系（Barlow, 2014, p.13, cited in Rizvi, 2022, pp.99–100）
 > - 澳大利亚《[[International Education|国际教育]]国家战略 2025》以"加强国内外伙伴关系、提升学生和教师流动性、通过促进卓越和拥抱国际教育扩展机遇来使澳大利亚教育机构参与全球竞争"为目标（Rizvi, 2022, pp.99–100）
 > - COVID-19 和中美地缘政治紧张改变了跨国研究合作的条件——知识流动的自由受到新的政治限制（Rizvi, 2022, pp.100–101）
 
@@ -87,7 +87,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example]
-> - [[Australia in the Asian Century White Paper 2012]] — 推动 AISRF、ACSRF 等与亚洲的研究合作基金
+> - [[Australia in the Asian Century White Paper]] — 推动 AISRF、ACSRF 等与亚洲的研究合作基金
 > - 澳大利亚《[[International Education|国际教育]]国家战略 2025》— 将研究合作纳入国家竞争力和产业创新战略
 
 ## 来源

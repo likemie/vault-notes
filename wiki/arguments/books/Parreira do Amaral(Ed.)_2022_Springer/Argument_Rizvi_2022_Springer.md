@@ -33,7 +33,7 @@ related_persons:
   - "[[Frantz Fanon]]"
 related_facts:
   - "[[GATS and Trade in Education Services]]"
-  - "[[Australia in the Asian Century White Paper 2012]]"
+  - "[[Australia in the Asian Century White Paper]]"
 related_arguments: []
 sources:
   - "[[Ch6_Rizvi_2022]]"
@@ -99,7 +99,7 @@ Rizvi 还调动了三个补充性的理论资源来丰富他的分析：
 ## 研究方法
 
 > [!info]
-> 概念讨论章节，无特定实证方法。Rizvi 的方法是：以[[Critical Geopolitics|批判地缘政治学]]为分析透镜，综合历史叙述（殖民地缘政治→冷战发展主义→新自由主义全球化）、政策分析（[[GATS and Trade in Education Services|GATS]]、澳大利亚[[Australia in the Asian Century White Paper 2012|亚洲世纪白皮书]]、国家[[International Education|国际教育]]战略）和当代案例（COVID-19 对国际教育的影响、中美地缘政治紧张）来构建论证。论证的逻辑是**演绎式**的：先建立概念框架（§6.2），再呈现经验基础（§6.3），然后展开两个核心分析维度（§6.4 国际化市场、§6.5 竞争与合作），最后以当代危机作为论证的检验和延伸（§6.6）。
+> 概念讨论章节，无特定实证方法。Rizvi 的方法是：以[[Critical Geopolitics|批判地缘政治学]]为分析透镜，综合历史叙述（殖民地缘政治→冷战发展主义→新自由主义全球化）、政策分析（[[GATS and Trade in Education Services|GATS]]、澳大利亚[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]、国家[[International Education|国际教育]]战略）和当代案例（COVID-19 对国际教育的影响、中美地缘政治紧张）来构建论证。论证的逻辑是**演绎式**的：先建立概念框架（§6.2），再呈现经验基础（§6.3），然后展开两个核心分析维度（§6.4 国际化市场、§6.5 竞争与合作），最后以当代危机作为论证的检验和延伸（§6.6）。
 
 ## 论证结构
 
@@ -296,7 +296,7 @@ Rizvi 将这四重理性逐一拆解：
 
 Rizvi 用澳大利亚作为具体案例来展示这些抽象分析如何落地：
 
-- **政策框架**：2012 年《[[Australia in the Asian Century White Paper 2012|亚洲世纪白皮书]]》（Henry Report）——"亚洲世纪是澳大利亚的机遇。随着全球重心向我们的区域转移，距离的暴政正在被邻近的前景所取代"（Henry, 2012, p.1）
+- **政策框架**：2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》（Henry Report）——"亚洲世纪是澳大利亚的机遇。随着全球重心向我们的区域转移，距离的暴政正在被邻近的前景所取代"（Henry, 2012, p.1）
 - **制度安排**：AISRF（澳印战略研究基金）、ACSRF（澳中科学与研究基金）——旨在与"高绩效国家"维持和加强"提升我们表现"的研究关系
 - **更广泛的战略**：《国际教育国家战略 2025》——"加强国内外伙伴关系、提升学生和教师流动性、通过促进卓越和拥抱国际教育扩展机遇来使澳大利亚教育机构参与全球竞争"
 - **产业连接**：国家创新与科学议程——将研究合作整合进产业创新战略

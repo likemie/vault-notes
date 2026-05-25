@@ -19,7 +19,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Victorian HITS and Literacy Toolkit 2017]]"
+  - "[[Victorian HITS and Literacy Toolkit]]"
 related_arguments: []
 sources:
   - "[[Sarbiewska_2019_JSR]]"
@@ -69,7 +69,7 @@ updated: '2026-05-18'
 ## 相关概念／理论
 
 > [!example] 相关概念／理论
-> - [[Visible Learning]] — VL 为澳大利亚教学策略（如 [[Victorian HITS and Literacy Toolkit 2017|HITS]]）提供研究基础
+> - [[Visible Learning]] — VL 为澳大利亚教学策略（如 [[Victorian HITS and Literacy Toolkit|HITS]]）提供研究基础
 > - [[Evidence-Based Education]] — 澳大利亚教师被提供数据收集和管理的专业指南
 
 ## 来源

@@ -26,7 +26,7 @@ related_persons:
 related_facts:
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Teach First New Zealand Ako Mātātupu]]"
-  - "[[Australia in the Asian Century White Paper 2012]]"
+  - "[[Australia in the Asian Century White Paper]]"
 related_arguments: []
 sources:
   - "[[ONeill_2016_Report]]"
@@ -101,7 +101,7 @@ Rizvi 描绘了一个自我强化的因果链条：
 
 ### 澳大利亚作为典型案例
 
-Rizvi 以澳大利亚为最激进的案例。其高等教育机构在国际招生方面的成功使政府有底气推动一系列市场导向政策：《[[Australia in the Asian Century White Paper 2012|亚洲世纪白皮书]]》（将亚洲崛起定位为"澳大利亚的机遇"）、《[[International Education|国际教育]]国家战略 2025》（系统性地将教育出口整合进国家经济战略）。高等教育和研究政策在此过程中不再是单纯的教育政策——它们变成了**经济政策、外交政策和安全政策**的综合体（Rizvi, 2022, pp.99–100）。
+Rizvi 以澳大利亚为最激进的案例。其高等教育机构在国际招生方面的成功使政府有底气推动一系列市场导向政策：《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》（将亚洲崛起定位为"澳大利亚的机遇"）、《[[International Education|国际教育]]国家战略 2025》（系统性地将教育出口整合进国家经济战略）。高等教育和研究政策在此过程中不再是单纯的教育政策——它们变成了**经济政策、外交政策和安全政策**的综合体（Rizvi, 2022, pp.99–100）。
 
 ### 空间架构的重塑
 

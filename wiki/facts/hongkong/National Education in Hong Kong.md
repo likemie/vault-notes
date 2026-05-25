@@ -24,7 +24,7 @@ related_persons: []
 related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
-  - "[[Replacement of LS by CSD 2021]]"
+  - "[[Replacement of LS by CSD]]"
   - "[[National Security Law Impact on Hong Kong Education]]"
 related_arguments: []
 sources:
@@ -108,7 +108,7 @@ updated: '2026-05-18'
 
 > [!example] 相关案例／政策
 > - 2012 MNE Controversy — 德育及国民教育科争议
-> - [[Replacement of LS by CSD 2021]] — [[Liberal Studies|LS]] 被 [[Citizenship and Social Development|CSD]] 取代
+> - [[Replacement of LS by CSD]] — [[Liberal Studies|LS]] 被 [[Citizenship and Social Development|CSD]] 取代
 > - [[National Security Law Impact on Hong Kong Education]] — 国安法的教育后果
 
 ## 来源

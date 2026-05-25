@@ -1,6 +1,7 @@
 ---
 title: Daubert v Merrell Dow Pharmaceuticals 1993
 aliases:
+  - Daubert v Merrell Dow Pharmaceuticals
   - 道伯特诉默雷尔道制药案
   - Daubert案
   - "Daubert v. Merrell Dow Pharmaceuticals (1993)"

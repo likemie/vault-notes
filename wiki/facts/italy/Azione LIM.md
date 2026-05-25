@@ -1,6 +1,7 @@
 ---
-title: Azione LIM 2008
+title: Azione LIM
 aliases:
+  - Azione LIM 2008
   - Interactive Whiteboard Action
   - 意大利互动白板行动
   - Azione LIM
@@ -33,7 +34,7 @@ created: 2026-05-23
 updated: 2026-05-23
 ---
 
-# Azione LIM 2008
+# Azione LIM
 
 ## 背景
 

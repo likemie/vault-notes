@@ -4460,10 +4460,11 @@
     ]
   },
   {
-    "title": "Karmel Report 1973",
+    "title": "Karmel Report",
     "type": "fact",
-    "path": "wiki/facts/australia/Karmel Report 1973.md",
+    "path": "wiki/facts/australia/Karmel Report.md",
     "aliases": [
+      "Karmel Report 1973",
       "卡梅尔报告"
     ]
   },
@@ -4487,10 +4488,11 @@
     ]
   },
   {
-    "title": "Victorian HITS and Literacy Toolkit 2017",
+    "title": "Victorian HITS and Literacy Toolkit",
     "type": "fact",
-    "path": "wiki/facts/australia/Victorian HITS and Literacy Toolkit 2017.md",
+    "path": "wiki/facts/australia/Victorian HITS and Literacy Toolkit.md",
     "aliases": [
+      "Victorian HITS and Literacy Toolkit 2017",
       "维州HITS与读写工具包",
       "HITS"
     ]
@@ -4580,10 +4582,11 @@
     ]
   },
   {
-    "title": "ECNU Declaration on Evidence-Based Research 2017",
+    "title": "ECNU Declaration on Evidence-Based Research",
     "type": "fact",
-    "path": "wiki/facts/china/ECNU Declaration on Evidence-Based Research 2017.md",
+    "path": "wiki/facts/china/ECNU Declaration on Evidence-Based Research.md",
     "aliases": [
+      "ECNU Declaration on Evidence-Based Research 2017",
       "华东师大循证研究宣言",
       "华东师范大学循证研究宣言"
     ]
@@ -4616,20 +4619,22 @@
     ]
   },
   {
-    "title": "China Basic Education Curriculum Reform 2001",
+    "title": "China Basic Education Curriculum Reform",
     "type": "fact",
-    "path": "wiki/facts/china/China Basic Education Curriculum Reform 2001.md",
+    "path": "wiki/facts/china/China Basic Education Curriculum Reform.md",
     "aliases": [
+      "China Basic Education Curriculum Reform 2001",
       "中国基础教育课程改革2001",
       "基础教育课程改革纲要",
       "Zhongguo Jichu Jiaoyu Kecheng Gaige Gangyao"
     ]
   },
   {
-    "title": "China College Graduate Employment Reform 1986-1997",
+    "title": "China College Graduate Employment Reform",
     "type": "fact",
-    "path": "wiki/facts/china/China College Graduate Employment Reform 1986-1997.md",
+    "path": "wiki/facts/china/China College Graduate Employment Reform.md",
     "aliases": [
+      "China College Graduate Employment Reform 1986-1997",
       "中国高校毕业生就业制度改革 1986-1997",
       "双向选择制度",
       "并轨招生"
@@ -4659,18 +4664,21 @@
     ]
   },
   {
-    "title": "Hattie på dansk 2017",
+    "title": "Hattie på dansk",
     "type": "fact",
-    "path": "wiki/facts/denmark/Hattie på dansk 2017.md",
+    "path": "wiki/facts/denmark/Hattie på dansk.md",
     "aliases": [
+      "Hattie på dansk 2017",
+      "Hattie på dansk 2017",
       "丹麦版可见学习"
     ]
   },
   {
-    "title": "SFI Report 2013",
+    "title": "SFI Report",
     "type": "fact",
-    "path": "wiki/facts/denmark/SFI Report 2013.md",
+    "path": "wiki/facts/denmark/SFI Report.md",
     "aliases": [
+      "SFI Report 2013",
       "SFI报告2013"
     ]
   },
@@ -4684,10 +4692,11 @@
     ]
   },
   {
-    "title": "Danish Public School Reform 2014",
+    "title": "Danish Public School Reform",
     "type": "fact",
-    "path": "wiki/facts/denmark/Danish Public School Reform 2014.md",
+    "path": "wiki/facts/denmark/Danish Public School Reform.md",
     "aliases": [
+      "Danish Public School Reform 2014",
       "丹麦公立学校改革2014"
     ]
   },
@@ -4712,10 +4721,11 @@
     ]
   },
   {
-    "title": "EU Key Competences for Lifelong Learning 2018",
+    "title": "EU Key Competences for Lifelong Learning",
     "type": "fact",
-    "path": "wiki/facts/eu/EU Key Competences for Lifelong Learning 2018.md",
+    "path": "wiki/facts/eu/EU Key Competences for Lifelong Learning.md",
     "aliases": [
+      "EU Key Competences for Lifelong Learning 2018",
       "Council Recommendation of 22 May 2018 on Key Competences for Lifelong Learning",
       "欧盟终身学习关键能力建议2018",
       "EU key competences"
@@ -4736,6 +4746,7 @@
     "type": "fact",
     "path": "wiki/facts/eu/Europe 2020 Strategy.md",
     "aliases": [
+      "Europe Strategy",
       "欧洲2020战略",
       "EU 2020 Strategy",
       "Europe 2020"
@@ -4746,6 +4757,7 @@
     "type": "fact",
     "path": "wiki/facts/eu/Horizon 2020 SSH Integration.md",
     "aliases": [
+      "Horizon SSH Integration",
       "地平线2020 SSH整合",
       "Horizon 2020 SSH"
     ]
@@ -4786,18 +4798,20 @@
     ]
   },
   {
-    "title": "Finnish National Core Curriculum 2014",
+    "title": "Finnish National Core Curriculum",
     "type": "fact",
-    "path": "wiki/facts/finland/Finnish National Core Curriculum 2014.md",
+    "path": "wiki/facts/finland/Finnish National Core Curriculum.md",
     "aliases": [
+      "Finnish National Core Curriculum 2014",
       "芬兰国家核心课程2014"
     ]
   },
   {
-    "title": "French Class Size Reduction 2017",
+    "title": "French Class Size Reduction",
     "type": "fact",
-    "path": "wiki/facts/france/French Class Size Reduction 2017.md",
+    "path": "wiki/facts/france/French Class Size Reduction.md",
     "aliases": [
+      "French Class Size Reduction 2017",
       "法国2017年班额缩减政策",
       "French class size reduction"
     ]
@@ -4826,6 +4840,7 @@
     "type": "fact",
     "path": "wiki/facts/global/INES Lugano General Assembly 1991.md",
     "aliases": [
+      "INES Lugano General Assembly",
       "INES卢加诺大会1991"
     ]
   },
@@ -4896,10 +4911,11 @@
     ]
   },
   {
-    "title": "Australia in the Asian Century White Paper 2012",
+    "title": "Australia in the Asian Century White Paper",
     "type": "fact",
-    "path": "wiki/facts/global/Australia in the Asian Century White Paper 2012.md",
+    "path": "wiki/facts/global/Australia in the Asian Century White Paper.md",
     "aliases": [
+      "Australia in the Asian Century White Paper 2012",
       "Australia in the Asian Century",
       "Asian Century White Paper",
       "Henry Report 2012",
@@ -4927,28 +4943,31 @@
     ]
   },
   {
-    "title": "OECD Improving School Leadership Project 2006",
+    "title": "OECD Improving School Leadership Project",
     "type": "fact",
-    "path": "wiki/facts/global/OECD Improving School Leadership Project 2006.md",
+    "path": "wiki/facts/global/OECD Improving School Leadership Project.md",
     "aliases": [
+      "OECD Improving School Leadership Project 2006",
       "OECD改进学校领导力项目"
     ]
   },
   {
-    "title": "THE Impact Ranking 2019",
+    "title": "THE Impact Ranking",
     "type": "fact",
-    "path": "wiki/facts/global/THE Impact Ranking 2019.md",
+    "path": "wiki/facts/global/THE Impact Ranking.md",
     "aliases": [
+      "THE Impact Ranking 2019",
       "THE世界大学影响力排名",
       "Times Higher Education Impact Ranking",
       "THE SDG ranking"
     ]
   },
   {
-    "title": "UN Sustainable Development Goals 2015",
+    "title": "UN Sustainable Development Goals",
     "type": "fact",
-    "path": "wiki/facts/global/UN Sustainable Development Goals 2015.md",
+    "path": "wiki/facts/global/UN Sustainable Development Goals.md",
     "aliases": [
+      "UN Sustainable Development Goals 2015",
       "联合国可持续发展目标",
       "SDGs",
       "2030 Agenda",
@@ -4960,6 +4979,7 @@
     "type": "fact",
     "path": "wiki/facts/hongkong/2012 Moral and National Education Controversy.md",
     "aliases": [
+      "Moral and National Education Controversy",
       "2012国民教育争议"
     ]
   },
@@ -4968,6 +4988,7 @@
     "type": "fact",
     "path": "wiki/facts/hongkong/2019 Hong Kong Protests and Education.md",
     "aliases": [
+      "Hong Kong Protests and Education",
       "2019香港抗议与教育"
     ]
   },
@@ -4990,18 +5011,20 @@
     ]
   },
   {
-    "title": "Replacement of LS by CSD 2021",
+    "title": "Replacement of LS by CSD",
     "type": "fact",
-    "path": "wiki/facts/hongkong/Replacement of LS by CSD 2021.md",
+    "path": "wiki/facts/hongkong/Replacement of LS by CSD.md",
     "aliases": [
+      "Replacement of LS by CSD 2021",
       "2021通识改公民与社会发展"
     ]
   },
   {
-    "title": "Symposium on International Teaching 2007",
+    "title": "Symposium on International Teaching",
     "type": "fact",
-    "path": "wiki/facts/hongkong/Symposium on International Teaching 2007.md",
+    "path": "wiki/facts/hongkong/Symposium on International Teaching.md",
     "aliases": [
+      "Symposium on International Teaching 2007",
       "国际教学研讨会2007"
     ]
   },
@@ -5016,10 +5039,11 @@
     ]
   },
   {
-    "title": "Introduction of Liberal Studies 2009",
+    "title": "Introduction of Liberal Studies",
     "type": "fact",
-    "path": "wiki/facts/hongkong/Introduction of Liberal Studies 2009.md",
+    "path": "wiki/facts/hongkong/Introduction of Liberal Studies.md",
     "aliases": [
+      "Introduction of Liberal Studies 2009",
       "2009通识教育科引入"
     ]
   },
@@ -5042,10 +5066,11 @@
     ]
   },
   {
-    "title": "Azione LIM 2008",
+    "title": "Azione LIM",
     "type": "fact",
-    "path": "wiki/facts/italy/Azione LIM 2008.md",
+    "path": "wiki/facts/italy/Azione LIM.md",
     "aliases": [
+      "Azione LIM 2008",
       "Interactive Whiteboard Action",
       "意大利互动白板行动",
       "Azione LIM"
@@ -5197,10 +5222,11 @@
     ]
   },
   {
-    "title": "Learning for Life Report 1989",
+    "title": "Learning for Life Report",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Learning for Life Report 1989.md",
+    "path": "wiki/facts/newzealand/Learning for Life Report.md",
     "aliases": [
+      "Learning for Life Report 1989",
       "为生活而学习报告"
     ]
   },
@@ -5222,10 +5248,11 @@
     ]
   },
   {
-    "title": "The Scott Report 1986",
+    "title": "The Scott Report",
     "type": "fact",
-    "path": "wiki/facts/newzealand/The Scott Report 1986.md",
+    "path": "wiki/facts/newzealand/The Scott Report.md",
     "aliases": [
+      "The Scott Report 1986",
       "斯科特报告"
     ]
   },
@@ -5240,10 +5267,11 @@
     ]
   },
   {
-    "title": "Russian Translation of Visible Learning 2017",
+    "title": "Russian Translation of Visible Learning",
     "type": "fact",
-    "path": "wiki/facts/russia/Russian Translation of Visible Learning 2017.md",
+    "path": "wiki/facts/russia/Russian Translation of Visible Learning.md",
     "aliases": [
+      "Russian Translation of Visible Learning 2017",
       "俄文版可见学习"
     ]
   },
@@ -5302,6 +5330,7 @@
     "type": "fact",
     "path": "wiki/facts/uk/Hargreaves 1996 TTA Lecture.md",
     "aliases": [
+      "Hargreaves TTA Lecture",
       "哈格里夫斯1996年TTA演讲"
     ]
   },
@@ -5345,6 +5374,7 @@
     "type": "fact",
     "path": "wiki/facts/uk/Education and Inspections Act 2006.md",
     "aliases": [
+      "Education and Inspections Act",
       "2006教育与督察法案"
     ]
   },
@@ -5410,18 +5440,20 @@
     ]
   },
   {
-    "title": "Rose Report 2006",
+    "title": "Rose Report",
     "type": "fact",
-    "path": "wiki/facts/uk/Rose Report 2006.md",
+    "path": "wiki/facts/uk/Rose Report.md",
     "aliases": [
+      "Rose Report 2006",
       "罗斯报告"
     ]
   },
   {
-    "title": "Selective Schools Expansion Fund 2018",
+    "title": "Selective Schools Expansion Fund",
     "type": "fact",
-    "path": "wiki/facts/uk/Selective Schools Expansion Fund 2018.md",
+    "path": "wiki/facts/uk/Selective Schools Expansion Fund.md",
     "aliases": [
+      "Selective Schools Expansion Fund 2018",
       "选择性学校扩张基金"
     ]
   },
@@ -5439,6 +5471,7 @@
     "type": "fact",
     "path": "wiki/facts/us/A Nation at Risk 1983.md",
     "aliases": [
+      "A Nation at Risk",
       "国家处于危险中"
     ]
   },
@@ -5447,6 +5480,7 @@
     "type": "fact",
     "path": "wiki/facts/us/American Attraction to Japanese Education 1980s.md",
     "aliases": [
+      "American Attraction to Japanese Education",
       "1980年代美国对日本教育的兴趣"
     ]
   },
@@ -5473,6 +5507,7 @@
     "type": "fact",
     "path": "wiki/facts/us/California Class Size Reduction 1996.md",
     "aliases": [
+      "California Class Size Reduction",
       "加州缩小班额政策"
     ]
   },
@@ -5511,6 +5546,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Coleman Report 1966.md",
     "aliases": [
+      "Coleman Report",
       "科尔曼报告"
     ]
   },
@@ -5535,10 +5571,11 @@
     ]
   },
   {
-    "title": "Creation of REES 2018",
+    "title": "Creation of REES",
     "type": "fact",
-    "path": "wiki/facts/us/Creation of REES 2018.md",
+    "path": "wiki/facts/us/Creation of REES.md",
     "aliases": [
+      "Creation of REES 2018",
       "REES设立"
     ]
   },
@@ -5547,6 +5584,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Daubert v Merrell Dow Pharmaceuticals 1993.md",
     "aliases": [
+      "Daubert v Merrell Dow Pharmaceuticals",
       "道伯特诉默雷尔道制药案",
       "Daubert案",
       "Daubert v. Merrell Dow Pharmaceuticals (1993)"
@@ -5557,6 +5595,7 @@
     "type": "fact",
     "path": "wiki/facts/us/ESSA 2015 Evidence Standards.md",
     "aliases": [
+      "ESSA Evidence Standards",
       "ESSA证据标准"
     ]
   },
@@ -5653,6 +5692,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Sputnik Shock 1957.md",
     "aliases": [
+      "Sputnik Shock",
       "斯普特尼克冲击"
     ]
   },
@@ -5669,6 +5709,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Tennessee STAR Project 1985-1989.md",
     "aliases": [
+      "Tennessee STAR Project",
       "田纳西STAR项目",
       "STAR"
     ]
@@ -5725,6 +5766,7 @@
     "type": "fact",
     "path": "wiki/facts/us/No Child Left Behind Act 2001.md",
     "aliases": [
+      "No Child Left Behind Act",
       "不让一个孩子掉队法案",
       "NCLB"
     ]
@@ -5740,10 +5782,11 @@
     ]
   },
   {
-    "title": "WWC SCD Pilot Standards 2010",
+    "title": "WWC SCD Pilot Standards",
     "type": "fact",
-    "path": "wiki/facts/us/WWC SCD Pilot Standards 2010.md",
+    "path": "wiki/facts/us/WWC SCD Pilot Standards.md",
     "aliases": [
+      "WWC SCD Pilot Standards 2010",
       "WWC单一个案设计试行标准",
       "WWC SCD标准"
     ]

@@ -26,7 +26,7 @@ related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts:
-  - "[[China College Graduate Employment Reform 1986-1997]]"
+  - "[[China College Graduate Employment Reform]]"
 related_arguments: []
 sources: []
 confidence: medium
@@ -100,7 +100,7 @@ updated: '2026-05-18'
 > - [[Goal-Controlled Mode]] — 推免制度天然有利于从大一起就有策略性学业规划的目标掌控者（[[Yajun Zheng|郑雅君]]，2023）
 > - [[Intuition-Dependent Mode]] — 直觉依赖者可能因入学初期低估绩点重要性而错失推免资格（郑雅君，2023）
 > - [[Credential Inflation]] — 文凭通胀是推免竞争日趋激烈的结构性背景：本科学位交换价值缩水 → 研究生成为求职主力军 → 推免竞争白热化（郑雅君，2023）
-> - [[China College Graduate Employment Reform 1986-1997]] — 就业市场化改革与推免制度共同构成中国大学生毕业出路的制度性框架（郑雅君，2023）
+> - [[China College Graduate Employment Reform]] — 就业市场化改革与推免制度共同构成中国大学生毕业出路的制度性框架（郑雅君，2023）
 
 ---
 

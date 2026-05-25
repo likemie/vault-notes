@@ -27,7 +27,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
-  - "[[Azione LIM 2008]]"
+  - "[[Azione LIM]]"
   - "[[EPPI-Centre]]"
   - "[[Campbell Collaboration]]"
   - "[[Danish Clearinghouse for Educational Research]]"
@@ -36,7 +36,7 @@ related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
   - "[[Evidence-Based Teachers Network]]"
-  - "[[EU Key Competences for Lifelong Learning 2018]]"
+  - "[[EU Key Competences for Lifelong Learning]]"
 related_arguments: []
 sources:
   - "[[Pellegrini_2021_ROE]]"
@@ -80,7 +80,7 @@ updated: 2026-05-23
 2. 欧洲与美国的政策语言不同。ESSA 通过强、中、有希望等证据等级给学校采用有证据项目提供激励；欧洲更常说 evidence-informed education，意味着证据来源可以包括定性和[[Mixed Method and Multi-method Research|混合方法]]，欧盟文件也主要提供指导而非强制要求（Pellegrini & Vivanet, 2021, pp.26-27）。
 3. 欧盟层面的政策进程 从 2006 年开始更清楚地成形。2006 年欧洲理事会结论强调评价文化，2007 年欧洲委员会工作文件提出证据本位政策与实践应成为教育和培训系统改革的驱动力（Pellegrini & Vivanet, 2021, pp.28-29）。
 
-例子：[[Azione LIM 2008]] 大规模采购互动白板，投入 EUR 93,354,571，2016 年已有 42% 班级配备互动白板；但英国实验和系统综述显示其对成绩影响很小或不显著。这说明 技术导入政策 若只依据创新叙事而不看效果证据，可能投入巨大却难以改善学习（Pellegrini & Vivanet, 2021, p.27）。
+例子：[[Azione LIM]] 大规模采购互动白板，投入 EUR 93,354,571，2016 年已有 42% 班级配备互动白板；但英国实验和系统综述显示其对成绩影响很小或不显著。这说明 技术导入政策 若只依据创新叙事而不看效果证据，可能投入巨大却难以改善学习（Pellegrini & Vivanet, 2021, p.27）。
 
 ### 第二步：欧洲建立了若干证据中介和研究网络
 
@@ -107,7 +107,7 @@ updated: 2026-05-23
 
 ### 第五步：关键能力改革放大了证据本位政策的难度
 
-12. 欧洲课程从 2000 年代初逐步转向能力本位模式。[[EU Key Competences for Lifelong Learning 2018]] 把能力定义为知识、技能和态度的动态组合，并列出八项关键能力（Pellegrini & Vivanet, 2021, p.39）。
+12. 欧洲课程从 2000 年代初逐步转向能力本位模式。[[EU Key Competences for Lifelong Learning]] 把能力定义为知识、技能和态度的动态组合，并列出八项关键能力（Pellegrini & Vivanet, 2021, p.39）。
 13. 基础读写知识和技能已有较成熟的评估和项目证据，但“积极的读写态度”“批判性和建设性对话倾向”“语言的社会责任使用”等多维能力更难设计干预和评估效果（Pellegrini & Vivanet, 2021, pp.40-41）。
 14. 因此，[[Evidence-Based Reform|证据本位改革]] 若要进入欧洲能力本位课程，就必须同时解决课程目标重写、目标指标化、有效评价工具、教师培训和多语言资源共享问题（Pellegrini & Vivanet, 2021, p.41）。
 
@@ -122,7 +122,7 @@ updated: 2026-05-23
 > 6. 关键能力课程改革使证据本位政策更复杂，因为多维能力的干预设计和效果评估比基础知识技能更难实现（Pellegrini & Vivanet, 2021, pp.39-41）。
 
 > [!info]- 核心数据
-> - 意大利 2008 年 “[[Azione LIM 2008|Azione LIM]]” 提供 35,114 块互动白板，总成本 EUR 93,354,571；2016 年互动白板覆盖 42% 班级（Pellegrini & Vivanet, 2021, p.27）。
+> - 意大利 2008 年 “[[Azione LIM|Azione LIM]]” 提供 35,114 块互动白板，总成本 EUR 93,354,571；2016 年互动白板覆盖 42% 班级（Pellegrini & Vivanet, 2021, p.27）。
 > - 法国 2017 年将 disadvantaged areas 一、二年级[[Class Size|班额]]从 24 人降至 12 人，但相关证据显示班额缩小的阅读效应较小，数学效应可为负且不显著（Pellegrini & Vivanet, 2021, pp.27-28）。
 > - EU-22 从小学到高等教育平均每生年支出 USD 10,555；成员国范围从希腊 USD 5,470 到卢森堡 USD 22,430（Pellegrini & Vivanet, 2021, p.37）。
 > - 欧盟成员国教育支出平均约占 GDP 5.0%，瑞典 7.1%、芬兰 6.8%；占公共支出 10.6%（Pellegrini & Vivanet, 2021, p.37）。

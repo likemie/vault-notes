@@ -18,7 +18,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Ofsted]]"
-  - "[[Selective Schools Expansion Fund 2018]]"
+  - "[[Selective Schools Expansion Fund]]"
   - "[[Education and Inspections Act 2006]]"
 related_arguments: []
 sources:
@@ -75,7 +75,7 @@ Bainbridge et al.（2022）的核心发现之一是：政策制定者将 [[Ofste
 
 ## 相关案例／政策
 
-- [[Selective Schools Expansion Fund 2018]] — 文法学校专项扩展基金
+- [[Selective Schools Expansion Fund]] — 文法学校专项扩展基金
 - [[Education and Inspections Act 2006]] — 禁止新建文法学校的法律
 
 ---

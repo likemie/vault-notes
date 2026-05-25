@@ -20,7 +20,7 @@ related_arguments: []
 sources:
   - "[[Laursen_2015_Paideia]]"
 related_facts:
-  - "[[SFI Report 2013]]"
+  - "[[SFI Report]]"
 confidence: low
 status: draft
 created: '2026-05-05'
@@ -43,7 +43,7 @@ updated: '2026-05-19'
 
 > [!success] 主要贡献
 > - [[Effective Teaching]] — 为丹麦有效教学研究提供高绩效学校证据，尤其凸显高要求、学业表现文化、明确[[Classroom Management|课堂管理]]和测试实践的重要性（Laursen, 2015, pp.37–39）。
-> - [[SFI Report 2013]] — Mehlbye 研究与 SFI 报告一起构成丹麦本土证据：二者都支持高要求、明确课堂管理等质量的重要性（Laursen, 2015, pp.37–38）。
+> - [[SFI Report]] — Mehlbye 研究与 SFI 报告一起构成丹麦本土证据：二者都支持高要求、明确课堂管理等质量的重要性（Laursen, 2015, pp.37–38）。
 
 ## 主要著作
 

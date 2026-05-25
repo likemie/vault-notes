@@ -23,8 +23,8 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[UN Sustainable Development Goals 2015]]"
-  - "[[THE Impact Ranking 2019]]"
+  - "[[UN Sustainable Development Goals]]"
+  - "[[THE Impact Ranking]]"
   - "[[Comprehensive School Reform Program]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
@@ -67,7 +67,7 @@ updated: 2026-05-20
 ### 在教育治理中的应用
 
 - 2016 年 Normand 在 *The Changing Epistemic Governance of European Education* 中系统阐述了欧洲教育的知识治理转型，将 epistemic governance 概念引入教育政策分析（Zapp, 2022, p.145）
-- Zapp（2022）将分析焦点转向大学，论证大学通过四种机制——研究对齐、教学对齐、内部政策对齐和网络对齐——嵌入全球知识治理，以 2015 年 [[UN Sustainable Development Goals 2015|SDGs]] 为关键催化剂。详见 [[Argument_Zapp_2022_Springer#第四步：SDGs 作为催化剂——四种嵌入机制]]（pp.150–154）
+- Zapp（2022）将分析焦点转向大学，论证大学通过四种机制——研究对齐、教学对齐、内部政策对齐和网络对齐——嵌入全球知识治理，以 2015 年 [[UN Sustainable Development Goals|SDGs]] 为关键催化剂。详见 [[Argument_Zapp_2022_Springer#第四步：SDGs 作为催化剂——四种嵌入机制]]（pp.150–154）
 
 ---
 ## 核心要素
@@ -93,7 +93,7 @@ updated: 2026-05-20
 > - 全球[[Knowledge-Based Economy|知识经济]]（global knowledge economy）的诊断为知识治理的兴起提供了宏观叙事背景：高度受教育劳动力的规模化扩张正在将社会转型为"学校化社会"（schooled society），其影响远超直接的经济收益（Baker, 2014，引自 Zapp, 2022, p.146）。参见 [[Knowledge-Based Economy]]
 > - Zapp (2020a) 对 1947–2019 年间 100+ 份国际组织全球报告的分析发现，从 1980 年代末起所有报告均开始引用科学资源，部分报告已类似于包含数千条学术参考文献的大规模文献综述——知识从大学流向 IO，IO 再用这些知识塑造全球政策议程，构成知识治理的物质循环（Zapp, 2022, p.151）
 > - Zapp (2017b) 发现 1325+ 个国际组织与大学之间存在广泛的研究合作关系，公立大学是所有国际组织最频繁的研究合作者——平均 40,000 篇共同署名出版物。这种合作是双向的：大学知识渗透进 IO 的运作，同时 IO（如 OECD）也塑造了大学的研究议程（Zapp, 2022, p.151）
-> - 在全球治理实践中，知识权威的崛起体现在多个层面：研究评估体系（如英国 REF）中"影响"权重的持续增加（从 2009 年讨论到 REF 2014 成为第二重要评分项）；[[THE Impact Ranking 2019]] 将大学的社会贡献转化为排名指标；以及全球 200+ 所大学在过去 5 年内首次发布 [[Comprehensive School Reform Program|CSR]]/可持续发展报告（Zapp, 2022, pp.146–147, 152–153）
+> - 在全球治理实践中，知识权威的崛起体现在多个层面：研究评估体系（如英国 REF）中"影响"权重的持续增加（从 2009 年讨论到 REF 2014 成为第二重要评分项）；[[THE Impact Ranking]] 将大学的社会贡献转化为排名指标；以及全球 200+ 所大学在过去 5 年内首次发布 [[Comprehensive School Reform Program|CSR]]/可持续发展报告（Zapp, 2022, pp.146–147, 152–153）
 
 > [!info]- 核心数据
 > - 公立大学与所有 IOs 平均合作产出 **40,000 篇**共同署名出版物（Zapp, 2017b，引自 Zapp, 2022, p.151）
@@ -114,8 +114,8 @@ updated: 2026-05-20
 ## 相关案例／政策
 
 > [!example]
-> - [[UN Sustainable Development Goals 2015]] — SDGs 是知识治理的典型案例：大学知识的普世性和应用性满足了全球治理对科学证据日益增长的需求
-> - [[THE Impact Ranking 2019]] — THE 影响力排名体现了知识治理中"测量"的角色：将大学对全球治理目标的贡献量化为排名指标
+> - [[UN Sustainable Development Goals]] — SDGs 是知识治理的典型案例：大学知识的普世性和应用性满足了全球治理对科学证据日益增长的需求
+> - [[THE Impact Ranking]] — THE 影响力排名体现了知识治理中"测量"的角色：将大学对全球治理目标的贡献量化为排名指标
 
 ---
 ## 来源

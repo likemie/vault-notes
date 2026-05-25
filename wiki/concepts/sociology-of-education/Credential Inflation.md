@@ -21,7 +21,7 @@ related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts:
-  - "[[China College Graduate Employment Reform 1986-1997]]"
+  - "[[China College Graduate Employment Reform]]"
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources: []
@@ -95,7 +95,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - 文凭通胀在中国的经验表现与 Lucas 的 EMI 假设一致——越精英化的教育[[Champ|场域]]里不平等越加剧（郑雅君，2023）
-> - 就业制度市场化改革（见 [[China College Graduate Employment Reform 1986-1997]]）叠加高校扩招，使中国大学生的就业竞争强度急剧上升（郑雅君，2023）
+> - 就业制度市场化改革（见 [[China College Graduate Employment Reform]]）叠加高校扩招，使中国大学生的就业竞争强度急剧上升（郑雅君，2023）
 
 ---
 
@@ -110,7 +110,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example]
-> - [[China College Graduate Employment Reform 1986-1997]] — 就业市场化改革叠加高校扩招，加速了中国文凭通胀的进程。改革使毕业生获得了就业选择自由，但也将其推向市场化的竞争环境（[[Yajun Zheng|郑雅君]]，2023）
+> - [[China College Graduate Employment Reform]] — 就业市场化改革叠加高校扩招，加速了中国文凭通胀的进程。改革使毕业生获得了就业选择自由，但也将其推向市场化的竞争环境（[[Yajun Zheng|郑雅君]]，2023）
 > - [[Recommendation-Based Graduate Admission System]] — 推免制度的激烈竞争正是文凭通胀在升学领域的具体表现：当本科学位交换价值下降，学生被迫追逐研究生学位，而推免作为最优升学路径的竞争随之白热化（郑雅君，2023）
 > - [[Economy of Experience|履历经济学]] — 文凭通胀的直接行为后果：当硬通货缩水，大学生被迫将课余生活工具化为履历资本
 

@@ -1,6 +1,7 @@
 ---
 title: 2012 Moral and National Education Controversy
 aliases:
+  - Moral and National Education Controversy
   - 2012国民教育争议
 summary: "2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点"
 type: fact

@@ -60,10 +60,10 @@ related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Contestable School Support Services]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Danish Public School Reform 2014]]"
-  - "[[Hattie på dansk 2017]]"
-  - "[[SFI Report 2013]]"
-  - "[[Victorian HITS and Literacy Toolkit 2017]]"
+  - "[[Danish Public School Reform]]"
+  - "[[Hattie på dansk]]"
+  - "[[SFI Report]]"
+  - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[The New Zealand Curriculum]]"
   - "[[Australian Curriculum]]"
   - "[[Gonski Reforms]]"
@@ -426,11 +426,11 @@ VL 品牌对学术批评表现出显著的免疫力——Hattie（2017）对 Eac
 > - [[Tomorrow's Schools Reforms]] — 创造了私营 [[Educational Management Organisation|EMO]] 进入新西兰公立教育服务市场的条件，[[Cognition Education|Cognition Education]] 直接起源于此改革
 > - [[Contestable School Support Services]] — 教育部将学校支持服务转为竞争性招标，Cognition Education 和 CORE Education 均为竞标者
 > - [[EEF Teaching and Learning Toolkit]] — 英国 EEF 的类似[[Meta-meta-analysis|元-元分析]]工具，面临类似的方法论批评
-> - [[Danish Public School Reform 2014]] — 丹麦议会改革明确引用 VL，将 [[John Hattie|Hattie]] 从"教育英雄"转变为"教育敌人"
-> - [[Hattie på dansk 2017]] — 丹麦语批评文集，汇集多篇对 VL 的强烈批评
-> - [[SFI Report 2013]] — 检验 VL 及相关[[Effective Teaching|有效教学]]综合丹麦适用性的主要本土证据
+> - [[Danish Public School Reform]] — 丹麦议会改革明确引用 VL，将 [[John Hattie|Hattie]] 从"教育英雄"转变为"教育敌人"
+> - [[Hattie på dansk]] — 丹麦语批评文集，汇集多篇对 VL 的强烈批评
+> - [[SFI Report]] — 检验 VL 及相关[[Effective Teaching|有效教学]]综合丹麦适用性的主要本土证据
 > - [[Jill Mehlbye]] — 丹麦高绩效学校研究中关于高要求、学业表现取向和[[Classroom Management|课堂管理]]的补充证据
-> - [[Victorian HITS and Literacy Toolkit 2017]] — VL 为维多利亚州 10 项 HITS 策略的首要参考
+> - [[Victorian HITS and Literacy Toolkit]] — VL 为维多利亚州 10 项 HITS 策略的首要参考
 > - [[The New Zealand Curriculum]] — 2010 年实施，ERO 定期评估 VL 相关原则的落实情况
 > - [[Australian Curriculum]] — 2012 年 ACARA 批准，三维度课程框架，以 VL 为首要研究参考
 > - [[Gonski Reforms]] — Gonski 2.0（2018）以个体进步衡量成功学习，呼应 VL 的可见学习成果理念

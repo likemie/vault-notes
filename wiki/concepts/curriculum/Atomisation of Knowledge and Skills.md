@@ -25,7 +25,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Finnish National Core Curriculum 2014]]"
+  - "[[Finnish National Core Curriculum]]"
   - "[[SveaSus Project]]"
 related_arguments: []
 sources:
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - **1990 年代以后**：芬兰教育政策受到 OECD、EU 和全球教育治理话语影响，课程改革越来越强调横向能力、21 世纪技能、可测量结果和经济竞争；这一变化与 [[Performance Indicators]] 所塑造的国际比较环境相连（Schaffar & Wolff, 2024, pp.8-9）。
-> - **2010 年代**：[[Phenomenon-Based Learning]] 被纳入 [[Finnish National Core Curriculum 2014]] 时，一方面承载整体学习和复杂问题取向，另一方面也被放入横向能力和可测量政策话语中，形成内在张力（Schaffar & Wolff, 2024, pp.9-10）。
+> - **2010 年代**：[[Phenomenon-Based Learning]] 被纳入 [[Finnish National Core Curriculum]] 时，一方面承载整体学习和复杂问题取向，另一方面也被放入横向能力和可测量政策话语中，形成内在张力（Schaffar & Wolff, 2024, pp.9-10）。
 
 ## 核心要素
 
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Finnish National Core Curriculum 2014]] — 同时承载整体 [[Phenomenon-Based Learning|PhBL]] 理想与横向能力/问责政策话语，体现知识原子化与整体教育之间的张力。
+> - [[Finnish National Core Curriculum]] — 同时承载整体 [[Phenomenon-Based Learning|PhBL]] 理想与横向能力/问责政策话语，体现知识原子化与整体教育之间的张力。
 > - [[SveaSus Project]] — 以真实[[Champ|场域]]、身体经验、艺术和多语方法抵抗单纯技能化的学习理解。
 
 ## 来源

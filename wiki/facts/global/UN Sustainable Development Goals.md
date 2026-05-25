@@ -1,6 +1,7 @@
 ---
-title: UN Sustainable Development Goals 2015
+title: UN Sustainable Development Goals
 aliases:
+  - UN Sustainable Development Goals 2015
   - 联合国可持续发展目标
   - SDGs
   - 2030 Agenda
@@ -31,7 +32,7 @@ created: '2026-05-11'
 updated: '2026-05-18'
 ---
 
-# UN Sustainable Development Goals 2015
+# UN Sustainable Development Goals
 
 ---
 ## 背景

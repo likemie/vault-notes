@@ -50,7 +50,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Best Evidence in Brief]]"
   - "[[Pact for Educational Excellence]]"
-  - "[[ECNU Declaration on Evidence-Based Research 2017]]"
+  - "[[ECNU Declaration on Evidence-Based Research]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
 related_arguments: []
 sources:
@@ -213,7 +213,7 @@ Slavin et al. (2021) 首次从中美英国际比较视角系统记录了[[Eviden
 
 华东师范大学（ECNU）自 2015 年起连续五年举办全国教育实证研究论坛。第五届（2019）扩展至 16 所大学联合组织 16 场平行会议，涵盖视频逻辑分析、[[Qualitative Research|质性研究]]反思、实证调查、[[Mixed Method and Multi-method Research|混合方法]]、社会网络分析、实验研究、行动研究、民族志、大数据分析、文本分析等主题（Slavin et al., 2021, p.12）。
 
-2017 年 1 月，14 所大学和 32 家 CSSCI 期刊联合发布"华东师范大学宣言"（ECNU Declaration），提出 10 条推进措施：加强课程建设与青年教师培训、提高实证研究产出、组织全国论坛、编辑出版国际高质量出版物、提高评估标准、增加实证项目比例、设立杰出成果奖、发布年度进展报告、向公众开放教育数据等（Slavin et al., 2021, p.14-15）。详见 [[ECNU Declaration on Evidence-Based Research 2017]]。
+2017 年 1 月，14 所大学和 32 家 CSSCI 期刊联合发布"华东师范大学宣言"（ECNU Declaration），提出 10 条推进措施：加强课程建设与青年教师培训、提高实证研究产出、组织全国论坛、编辑出版国际高质量出版物、提高评估标准、增加实证项目比例、设立杰出成果奖、发布年度进展报告、向公众开放教育数据等（Slavin et al., 2021, p.14-15）。详见 [[ECNU Declaration on Evidence-Based Research]]。
 
 ### BEiB 中文网络与三方合作
 

@@ -52,12 +52,12 @@ related_facts:
   - "[[The New Zealand Curriculum]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
   - "[[New Zealand National Standards]]"
-  - "[[Victorian HITS and Literacy Toolkit 2017]]"
+  - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Australian Curriculum]]"
-  - "[[Hattie på dansk 2017]]"
+  - "[[Hattie på dansk]]"
   - "[[Visible Learning in Sweden]]"
-  - "[[Russian Translation of Visible Learning 2017]]"
-  - "[[Danish Public School Reform 2014]]"
+  - "[[Russian Translation of Visible Learning]]"
+  - "[[Danish Public School Reform]]"
 related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
 sources:
@@ -245,7 +245,7 @@ updated: '2026-05-18'
 > PISA 2001 同样揭示澳大利亚成绩差异主要在校内，政策重点从外部因素转向师生互动质量（Sarbiewska, 2019, p.123–125）。
 >
 > **政策采纳路径**（Sarbiewska, 2019, p.126–128）：
-> - 维多利亚州 [[Victorian HITS and Literacy Toolkit 2017|HITS]]（10 项高影响力教学策略）源自 Hattie 和 Marzano 的研究，每项均以 VL 为首要参考文献
+> - 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略）源自 Hattie 和 Marzano 的研究，每项均以 VL 为首要参考文献
 > - researchED Australia（ACER, 2017）为从业者提供分享平台
 > - [[Australian Curriculum]]（2012）三维度（学习领域、通用能力、跨课程优先事项），ACARA 每年评估并报告
 > - Gonski 2.0（2018）提出以个体进步而非年龄基准衡量成功学习
@@ -267,7 +267,7 @@ updated: '2026-05-18'
 > - **翻译引入**：Hattie *Visible Learning for Teachers* 由 Niels Egelund 和 Qvortrup 撰写导言的丹麦语译本出版，将 VL 定位为 [[Evidence-Based Education|证据本位教育]] 在丹麦的里程碑事件（Qvortrup, 2019, p.3）
 > - **2014 年政策采纳**：丹麦议会多数通过 公立学校改革，将科目目标替换为学习目标，明确引用 Hattie 和 VL。改革的核心转向——教育的最终目标不应该是教师教什么而应该是学生学什么——直接呼应了 VL 的"可见的学习成果"理念（Qvortrup, 2019, p.5）
 > - **政策捆绑与阻力**：改革与对教师劳动协议的争议性立法干预高度绑定——改革在挑战传统教师角色的同时削减了教师的劳动权利（Qvortrup, 2019, p.5）
-> - **反弹与批评**：改革后在短期内形成了一个由研究者、政治家和工会代表组成的广泛 解释社群——将 Hattie 从"教育英雄"转变为"教育敌人"。批评文集 [[Hattie på dansk 2017]] 汇集了多篇强烈批评文章（Qvortrup, 2019, p.5）
+> - **反弹与批评**：改革后在短期内形成了一个由研究者、政治家和工会代表组成的广泛 解释社群——将 Hattie 从"教育英雄"转变为"教育敌人"。批评文集 [[Hattie på dansk]] 汇集了多篇强烈批评文章（Qvortrup, 2019, p.5）
 > - **Qvortrup 的辩护**：2019 年 Qvortrup 在 NordSTEP 发表讨论论文，以三线论证为 VL 辩护——批评者形成了意识形态驱动的解释社群而非进行学术反驳、定量与定性方法是互补的观察透镜、VL 的目的是提供"智能问题解决的假设"而非"食谱"（详见 [[Argument_Qvortrup_2019_NordSTEP]]）
 > - **Laursen 的适用性检验**：Laursen (2015) 从较温和的经验比较角度追问 Hattie、Meyer 和 Helmke 的国际 [[Effective Teaching|有效教学]] 综合是否适用于丹麦。尽管这些综合主要基于英语国家研究，Laursen 比较 SFI 报告 和 Mehlbye 高绩效学校研究 等丹麦证据后认为，教师领导、清晰目标、高要求、良好班级社会环境等核心质量在丹麦同样促进学生学习（Laursen, 2015, pp.34–40）
 >
@@ -279,7 +279,7 @@ updated: '2026-05-18'
 >
 > #### 俄罗斯
 >
-> 2017 年 VL 俄文版由"Natsional'noe obrazovanie"出版社（隶属于 Prosveshchenie 集团）翻译出版，在俄罗斯学界获得热烈反响。Borisenko（2018）称其为"翻译教育文献出版领域的主要事件"；Vachkov & Vachkova（2018）呼吁使用[[Meta-analysis|元分析]]"检验教学创新的生产力"；Sokolova（2017）将 VL 与俄罗斯 FSES 标准联系起来。然而 Golovchin（2019）基于方法论和文化分析建议俄罗斯教育政策不应采用 VL（Golovchin, 2019, p.237）。详见 [[Russian Translation of Visible Learning 2017]]。
+> 2017 年 VL 俄文版由"Natsional'noe obrazovanie"出版社（隶属于 Prosveshchenie 集团）翻译出版，在俄罗斯学界获得热烈反响。Borisenko（2018）称其为"翻译教育文献出版领域的主要事件"；Vachkov & Vachkova（2018）呼吁使用[[Meta-analysis|元分析]]"检验教学创新的生产力"；Sokolova（2017）将 VL 与俄罗斯 FSES 标准联系起来。然而 Golovchin（2019）基于方法论和文化分析建议俄罗斯教育政策不应采用 VL（Golovchin, 2019, p.237）。详见 [[Russian Translation of Visible Learning]]。
 >
 > #### 多国扩散
 >
@@ -325,7 +325,7 @@ updated: '2026-05-18'
 >
 > #### O'Connor (2020) — 维多利亚州政策影响
 >
-> O'Connor 指出 VL 已在澳大利亚维多利亚州公立教育系统中成为官方推荐实践：10 项 [[Victorian HITS and Literacy Toolkit 2017|HITS]] 均以 VL 为首要参考，Literacy Toolkit 显著引用 Hattie 的研究（O'Connor, 2020, p.141）。O'Connor 的结论是："试图通过 [[Visible Learning]] 报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的"（O'Connor, 2020, p.149）。
+> O'Connor 指出 VL 已在澳大利亚维多利亚州公立教育系统中成为官方推荐实践：10 项 [[Victorian HITS and Literacy Toolkit|HITS]] 均以 VL 为首要参考，Literacy Toolkit 显著引用 Hattie 的研究（O'Connor, 2020, p.141）。O'Connor 的结论是："试图通过 [[Visible Learning]] 报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的"（O'Connor, 2020, p.149）。
 >
 > #### Blass (2020) — 澳大利亚国家层面政策批评：VL 作为"不改变的好借口"
 >
@@ -388,9 +388,9 @@ updated: '2026-05-18'
 > - [[Neo-Taylorism in Educational Administration]] — VL 作为"新时代的泰勒主义"
 > - [[New Zealand National Standards]] — Hattie 参与技术顾问的新西兰国家教育标准
 > - [[Treasury Briefing on Student-Teacher Ratios]] — NZ Treasury 援引 VL 证据建议增加生师比
-> - [[Danish Public School Reform 2014]] — 丹麦改革明确引用 VL
-> - [[Russian Translation of Visible Learning 2017]] — VL 俄文版及其在俄学界的反响
-> - [[Victorian HITS and Literacy Toolkit 2017]] — VL 在维州官方的制度化
+> - [[Danish Public School Reform]] — 丹麦改革明确引用 VL
+> - [[Russian Translation of Visible Learning]] — VL 俄文版及其在俄学界的反响
+> - [[Victorian HITS and Literacy Toolkit]] — VL 在维州官方的制度化
 
 ## 来源
 

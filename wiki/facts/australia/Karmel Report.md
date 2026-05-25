@@ -1,6 +1,7 @@
 ---
-title: Karmel Report 1973
+title: Karmel Report
 aliases:
+  - Karmel Report 1973
   - 卡梅尔报告
 summary: "澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型"
 type: fact

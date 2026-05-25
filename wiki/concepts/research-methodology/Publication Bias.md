@@ -25,7 +25,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
-  - "[[Creation of REES 2018]]"
+  - "[[Creation of REES]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
 sources:
@@ -113,7 +113,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Creation of REES 2018]] — [[Preregistration|预注册]]制度被设计用于减少发表偏倚和选择性报告
+> - [[Creation of REES]] — [[Preregistration|预注册]]制度被设计用于减少发表偏倚和选择性报告
 > - [[ESSA 2015 Evidence Standards]] — ESSA 要求采用有证据支持的项目，间接增加了开发者的发表偏倚激励
 
 ## 来源

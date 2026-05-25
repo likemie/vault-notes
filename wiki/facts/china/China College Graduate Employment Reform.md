@@ -1,6 +1,7 @@
 ---
-title: China College Graduate Employment Reform 1986-1997
+title: China College Graduate Employment Reform
 aliases:
+  - China College Graduate Employment Reform 1986-1997
   - 中国高校毕业生就业制度改革 1986-1997
   - 双向选择制度
   - 并轨招生
@@ -32,7 +33,7 @@ created: '2026-05-08'
 updated: '2026-05-18'
 ---
 
-# China College Graduate Employment Reform 1986-1997
+# China College Graduate Employment Reform
 
 ---
 

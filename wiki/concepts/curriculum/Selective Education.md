@@ -19,7 +19,7 @@ related_facts:
   - "[[Grammar School]]"
   - "[[Education and Inspections Act 2006]]"
   - "[[Ofsted]]"
-  - "[[Selective Schools Expansion Fund 2018]]"
+  - "[[Selective Schools Expansion Fund]]"
 related_arguments: []
 sources:
   - "[[Bainbridge_2022_ROE]]"
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Selective Schools Expansion Fund 2018]] — 保守党政府允许现有[[Grammar School|文法学校]]扩展的 £50M 基金
+> - [[Selective Schools Expansion Fund]] — 保守党政府允许现有[[Grammar School|文法学校]]扩展的 £50M 基金
 > - [[Education and Inspections Act 2006]] — 禁止新建文法学校的立法
 >
 

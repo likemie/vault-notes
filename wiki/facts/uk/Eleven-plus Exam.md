@@ -24,7 +24,7 @@ related_facts:
   - "[[Grammar School]]"
   - "[[Education and Inspections Act 2006]]"
   - "[[Ofsted]]"
-  - "[[Selective Schools Expansion Fund 2018]]"
+  - "[[Selective Schools Expansion Fund]]"
 related_arguments: []
 sources:
   - "[[Bainbridge_2022_ROE]]"
@@ -103,7 +103,7 @@ Bainbridge et al. 指出：议会辩论中"FSM 儿童在文法学校中的低比
 - [[Selective Education]] — 11+ 是选择性教育制度的核心操作机制
 - [[Grammar School]] — 11+ 成绩决定学生是否进入文法学校
 - [[Education and Inspections Act 2006]] — 禁止新建文法学校的法律框架
-- [[Selective Schools Expansion Fund 2018]] — 允许现有文法学校扩张的政策，间接扩展了 11+ 的覆盖范围
+- [[Selective Schools Expansion Fund]] — 允许现有文法学校扩张的政策，间接扩展了 11+ 的覆盖范围
 - [[Moral Sidestep]] — Bainbridge et al. 发现"文法学校好"的道德话语被用于回避关于 11+ 选拔负面影响的证据
 
 ---

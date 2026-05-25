@@ -23,7 +23,7 @@ related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Tennessee STAR Project 1985-1989]]"
-  - "[[Creation of REES 2018]]"
+  - "[[Creation of REES]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
 sources:
@@ -98,7 +98,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Creation of REES 2018]] — IES 于 2018 年创建的教育项目评估预注册平台
+> - [[Creation of REES]] — IES 于 2018 年创建的教育项目评估预注册平台
 > - [[ESSA 2015 Evidence Standards]] — ESSA 证据标准可能在未来要求预注册作为达标条件
 
 ## 来源

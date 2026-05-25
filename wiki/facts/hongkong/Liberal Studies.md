@@ -22,8 +22,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Citizenship and Social Development]]"
-  - "[[Introduction of Liberal Studies 2009]]"
-  - "[[Replacement of LS by CSD 2021]]"
+  - "[[Introduction of Liberal Studies]]"
+  - "[[Replacement of LS by CSD]]"
   - "[[2019 Hong Kong Protests and Education]]"
 related_arguments: []
 sources:
@@ -133,8 +133,8 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Introduction of Liberal Studies 2009]] — LS 创立政策
-> - [[Replacement of LS by CSD 2021]] — LS 废除与 [[Citizenship and Social Development|CSD]] 引入
+> - [[Introduction of Liberal Studies]] — LS 创立政策
+> - [[Replacement of LS by CSD]] — LS 废除与 [[Citizenship and Social Development|CSD]] 引入
 > - 2012 MNE Controversy — 德育及国民教育科争议
 > - [[2019 Hong Kong Protests and Education]] — 反修例运动与教育
 

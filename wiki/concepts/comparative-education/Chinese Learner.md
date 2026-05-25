@@ -48,7 +48,7 @@ related_facts:
   - "[[English Schools Foundation Hong Kong]]"
   - "[[Civil Service Examination]]"
   - "[[Transnationalism and America Project SYSU]]"
-  - "[[China Basic Education Curriculum Reform 2001]]"
+  - "[[China Basic Education Curriculum Reform]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Ryan_2010_ChineseLearner]]"
@@ -292,7 +292,7 @@ Li (2012) 在 第 4 章 中对"死记硬背"批评进行了四重方法论反驳
 > - [[Transnationalism and America Project SYSU]] — 中国本土大学生接受美式团队教学
 > - [[Fourth Culture]] — 本地中国学生在母国就读[[International Schools|国际学校]]的特殊文化空间
 > - [[International Schools]] — 中国学习者日益成为国际学校的主要生源
-> - [[China Basic Education Curriculum Reform 2001]] — 2001 年课程改革使对中国学习者的静态刻板印象日益过时
+> - [[China Basic Education Curriculum Reform]] — 2001 年课程改革使对中国学习者的静态刻板印象日益过时
 > - [[Stereotype Threat]] — 中国学习者在刻板印象下的自我内化和去认同化机制
 > - [[Meta-Cultural Sensitivity]] — Louie (2005) 提出的跨文化教学元能力
 

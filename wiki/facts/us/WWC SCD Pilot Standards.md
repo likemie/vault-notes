@@ -1,6 +1,7 @@
 ---
-title: WWC SCD Pilot Standards 2010
+title: WWC SCD Pilot Standards
 aliases:
+  - WWC SCD Pilot Standards 2010
   - WWC单一个案设计试行标准
   - WWC SCD标准
 summary: "Kratochwill & Hitchcock 为 IES 开发的 WWC 单一个案设计审查试行标准，含 Review Guide 和 5-3-20 规则"

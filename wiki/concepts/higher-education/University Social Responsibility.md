@@ -19,8 +19,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Comprehensive School Reform Program]]"
-  - "[[UN Sustainable Development Goals 2015]]"
-  - "[[THE Impact Ranking 2019]]"
+  - "[[UN Sustainable Development Goals]]"
+  - "[[THE Impact Ranking]]"
 related_arguments: []
 sources:
   - "[[Ch9_Zapp_2022]]"
@@ -62,7 +62,7 @@ updated: '2026-05-18'
 
 ### 制度化加速：SDGs 与排名驱动的量化
 
-- 2019 年 THE 推出基于 [[UN Sustainable Development Goals 2015|SDGs]] 的首个全球大学影响力排名（[[THE Impact Ranking 2019]]），将 USR 的复杂多维实践转化为可比较的排名指标——性别平等、气候行动、可持续城市和社区等。这一事件标志着 USR 从组织的自愿承诺转向受排名驱动的制度化竞争（Zapp, 2022, p.147）
+- 2019 年 THE 推出基于 [[UN Sustainable Development Goals|SDGs]] 的首个全球大学影响力排名（[[THE Impact Ranking]]），将 USR 的复杂多维实践转化为可比较的排名指标——性别平等、气候行动、可持续城市和社区等。这一事件标志着 USR 从组织的自愿承诺转向受排名驱动的制度化竞争（Zapp, 2022, p.147）
 - 近年来 [[Comprehensive School Reform Program|CSR]] 报告在全球大学中呈指数增长：Corporate Register (2019) 和 GRI (2019) 数据库共收录全球 200+ 所大学的 CSR 报告，其中大多数在过去 5 年内首次发布（Fig. 9.1）。这种增长曲线与 SDGs 的通过（2015）和 THE 排名（2019）在时间上高度吻合，暗示全球议程和排名机制对 USR 制度化的催化作用（Zapp, 2022, pp.152–153）
 
 ---
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 > - **校园建设与运营**：能源、水、交通、废物和食品的全校园可持续使用，将校园转变为"活实验室"（living laboratories）和"可持续发展试验台"（testbeds for sustainability）。例：ETH Zurich 推行"2000 Watt Society"项目，将全校能源效率目标与教学研究结合；Oberlin College 推行"Oberlin Project"旨在创建美国首批气候积极城市之一（Zapp, 2022, pp.150–151）
 > - **可持续发展管理**：通过专门的办公室和组织单元将 USR 管理化和正式化——这是持久制度化的重要指标（USRN, 2019）。Zapp 强调，仅发布一份 [[Comprehensive School Reform Program|CSR]] 报告不等于制度化；真正的制度化需要专门的组织结构、预算和人员配置（Zapp, 2022, p.153）
 > - **全球意识与学生参与**：促进全球意识、全球学生参与和员工能力建设——如 Manchester 大学提供关于发展中国家水供应与卫生政策的 MOOCs 和 Global Health and Humanitarianism 课程（Zapp, 2022, pp.151–152）
-> - **全球议题研究**：以全球问题为导向的研究，直接服务于 [[UN Sustainable Development Goals 2015|SDGs]] 等全球议程。例：Manchester 开发碳足迹工具追踪全球"碳热点"，UBC 开发保护生物多样性的传感器和软件，Auckland 与航运业合作追踪鲸鱼迁徙路线（Zapp, 2022, pp.150–151）
+> - **全球议题研究**：以全球问题为导向的研究，直接服务于 [[UN Sustainable Development Goals|SDGs]] 等全球议程。例：Manchester 开发碳足迹工具追踪全球"碳热点"，UBC 开发保护生物多样性的传感器和软件，Auckland 与航运业合作追踪鲸鱼迁徙路线（Zapp, 2022, pp.150–151）
 
 ---
 ## 理论基础
@@ -88,7 +88,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - Corporate Register (2019) 和 Global Reporting Initiative (2019) 的可持续发展披露数据库共列出全球 200+ 所大学的 [[Comprehensive School Reform Program|CSR]] 报告，涵盖公立和私立、知名和不知名大学，表明 USR 已成为跨越机构类型和声望等级的全球性趋势——不是少数精英大学的特权实践（Zapp, 2022, pp.152–153）
-> - 大多数大学的 CSR 报告在过去 5 年内首次发布（Fig. 9.1），其增长曲线呈指数形态，暗示我们正处于 USR 制度化的"起飞期"——这一加速与 [[UN Sustainable Development Goals 2015|SDGs]]（2015）和 THE Impact Ranking（2019）的时间节点高度吻合（Zapp, 2022, p.153）
+> - 大多数大学的 CSR 报告在过去 5 年内首次发布（Fig. 9.1），其增长曲线呈指数形态，暗示我们正处于 USR 制度化的"起飞期"——这一加速与 [[UN Sustainable Development Goals|SDGs]]（2015）和 THE Impact Ranking（2019）的时间节点高度吻合（Zapp, 2022, p.153）
 > - 可持续发展已被部分学者视为大学的一种新型"第三使命"（third mission）甚至"宏大挑战"（grand challenge），超越了传统的教学-研究-产业联系三使命框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013，引自 Zapp, 2022, p.150）
 > - THE 影响力排名中 SDG 17（"促进目标实现的伙伴关系"）是唯一强制报告指标——这暗示即使在竞争驱动的排名逻辑中，"联合行动"也被视为大学不可推卸的责任（Zapp, 2022, p.154）
 
@@ -108,8 +108,8 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example]
-> - [[UN Sustainable Development Goals 2015]] — SDGs 为 USR 提供了全球性的内容框架和目标体系
-> - [[THE Impact Ranking 2019]] — THE 影响力排名是 USR 被量化和排名化的标志性事件
+> - [[UN Sustainable Development Goals]] — SDGs 为 USR 提供了全球性的内容框架和目标体系
+> - [[THE Impact Ranking]] — THE 影响力排名是 USR 被量化和排名化的标志性事件
 
 ---
 ## 来源

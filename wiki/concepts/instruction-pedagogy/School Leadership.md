@@ -21,7 +21,7 @@ related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
-  - "[[OECD Improving School Leadership Project 2006]]"
+  - "[[OECD Improving School Leadership Project]]"
   - "[[ISSPP Project]]"
 related_arguments: []
 sources:
@@ -187,7 +187,7 @@ Smyth（2011）提出的三个政治激进主义命题被 Keddie et al.（2020, 
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[OECD Improving School Leadership Project 2006]] — OECD 的 ISL 项目将学校领导力确立为政策优先议程
+> - [[OECD Improving School Leadership Project]] — OECD 的 ISL 项目将学校领导力确立为政策优先议程
 > - [[ISSPP Project]] — 迄今为止最全面的跨国学校领导力研究
 > - [[School Autonomy]] — 市场驱动的学校自主权改革对校长工作条件和工作性质产生深远影响
 

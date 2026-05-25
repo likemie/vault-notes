@@ -1,6 +1,7 @@
 ---
-title: French Class Size Reduction 2017
+title: French Class Size Reduction
 aliases:
+  - French Class Size Reduction 2017
   - 法国2017年班额缩减政策
   - French class size reduction
 summary: "2017年法国教育部在弱势地区将一二年级班额从24人降至12人以缩小成就差距，因效果证据较弱而成为证据知情政策的争议案例。"
@@ -32,7 +33,7 @@ created: 2026-05-23
 updated: 2026-05-23
 ---
 
-# French Class Size Reduction 2017
+# French Class Size Reduction
 
 ## 背景
 

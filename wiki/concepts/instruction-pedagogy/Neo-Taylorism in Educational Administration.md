@@ -30,7 +30,7 @@ related_facts:
   - "[[Cognition Education]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[PISA]]"
-  - "[[Victorian HITS and Literacy Toolkit 2017]]"
+  - "[[Victorian HITS and Literacy Toolkit]]"
 related_arguments: []
 sources:
   - "[[Eacott_2017_SLM]]"
@@ -117,7 +117,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 - **ACEL-Corwin 合作（2015）** — 澳大利亚最大校长专业协会与 [[John Hattie|Hattie]] 出版商正式合作推广 VL 工作坊，形成自我强化的推广循环（Eacott, 2017, p.419; Eacott, 2019, p.780）
 - **AITSL** — Hattie 担任澳大利亚教学与[[School Leadership|学校领导力]]研究院主席，其工作已嵌入国家专业标准和年度绩效评估体系（Eacott, 2017, p.421）
 - **asTTle / e-asTTle** — Hattie 1999/2000 年受教育部委托开发的评估工具，"允许管理者监控全校六个科目"（Hattie et al., 2003, p.775），VL 气压计图形直接进口自此工具（Johnson & Janzen, 2023, p.28）
-- [[Victorian HITS and Literacy Toolkit 2017]] — 维州教育部 10 项 HITS 以 VL 为首要参考，教师被要求执行 simplistic performative technical actions（如课前将课题写在白板上）（Johnson & Janzen, 2023, p.29-30）
+- [[Victorian HITS and Literacy Toolkit]] — 维州教育部 10 项 HITS 以 VL 为首要参考，教师被要求执行 simplistic performative technical actions（如课前将课题写在白板上）（Johnson & Janzen, 2023, p.29-30）
 - **Visible Classroom App** — Hattie 与 Ai-Media 合作开发，教师自我录制音频由大学"专家"基于 VL 量规[[Feedback|反馈]]，按服务收费（O'Neill et al., 2016, p.49-50）
 
 ## 来源

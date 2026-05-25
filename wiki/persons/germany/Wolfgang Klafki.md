@@ -24,7 +24,7 @@ related_arguments: []
 sources:
   - "[[Schaffar_2024_CogentEdu]]"
 related_facts:
-  - "[[Finnish National Core Curriculum 2014]]"
+  - "[[Finnish National Core Curriculum]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -64,7 +64,7 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> Klafki 的思想为理解芬兰 [[Phenomenon-Based Learning]] 和 [[Finnish National Core Curriculum 2014]] 提供了重要桥梁。PhBL 若被理解为围绕复杂现象组织学习，它就不仅是项目活动或横向技能训练，而是与 [[Didaktik]] 中"什么知识值得教、为什么教"这一问题相连；这一理解也可抵抗把复杂问题拆成技能项目的 [[Atomisation of Knowledge and Skills]]（Schaffar & Wolff, 2024, pp.6-7, 10-11）。
+> Klafki 的思想为理解芬兰 [[Phenomenon-Based Learning]] 和 [[Finnish National Core Curriculum]] 提供了重要桥梁。PhBL 若被理解为围绕复杂现象组织学习，它就不仅是项目活动或横向技能训练，而是与 [[Didaktik]] 中"什么知识值得教、为什么教"这一问题相连；这一理解也可抵抗把复杂问题拆成技能项目的 [[Atomisation of Knowledge and Skills]]（Schaffar & Wolff, 2024, pp.6-7, 10-11）。
 
 ## 争议与批评
 

@@ -24,7 +24,7 @@ related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[ESSA 2015 Evidence Standards]]"
-  - "[[Creation of REES 2018]]"
+  - "[[Creation of REES]]"
 related_arguments: []
 sources:
   - "[[Wolf_2020_JREE]]"
@@ -106,7 +106,7 @@ updated: '2026-05-18'
 > [!example] 相关案例／政策
 > - [[ESSA 2015 Evidence Standards]] — ESSA 的通过使开发者有更大的经济激励去证明其产品的有效性，可能加剧开发者效应
 > - [[What Works Clearinghouse]] — WWC 数据库是 Wolf et al. 研究的数据源
-> - [[Creation of REES 2018]] — [[Preregistration|预注册]]制度被提出作为缓解开发者效应的关键机制
+> - [[Creation of REES]] — [[Preregistration|预注册]]制度被提出作为缓解开发者效应的关键机制
 
 ## 来源
 

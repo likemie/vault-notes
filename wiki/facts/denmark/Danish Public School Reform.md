@@ -1,6 +1,7 @@
 ---
-title: Danish Public School Reform 2014
+title: Danish Public School Reform
 aliases:
+  - Danish Public School Reform 2014
   - 丹麦公立学校改革2014
 summary: "丹麦议会多数通过公立学校改革，以学习目标替代科目目标，明确引用 Hattie VL，引发教师和研究者的强烈反对"
 type: fact
@@ -26,8 +27,8 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Jill Mehlbye]]"
 related_facts:
-  - "[[Hattie på dansk 2017]]"
-  - "[[SFI Report 2013]]"
+  - "[[Hattie på dansk]]"
+  - "[[SFI Report]]"
 related_arguments: []
 sources:
   - "[[Qvortrup_2019_NordSTEP]]"
@@ -77,7 +78,7 @@ updated: '2026-05-18'
 > [!warning] 争议与评论
 > - **Qvortrup（支持方）**：批评者的反应不是基于对 [[John Hattie|Hattie]] 作品的准确理解，而是基于意识形态驱动的解释社群——将"[[Visible Learning|可见学习]]"扭曲为"反理论"的实证主义（Qvortrup, 2019, p.4-5）
 > - **教师与工会（批评方）**：改革与削减教师权利的立法同时推进，挑战了传统的教师角色；研究者的批评被用作反对改革政治议程的学术合法性来源（Qvortrup, 2019, p.5）
-> - 批评著作 *Hattie på dansk*（[[Hattie på dansk 2017]]）在此争议背景下出版，汇集多篇强烈批评文章（Qvortrup, 2019, p.4）
+> - 批评著作 *Hattie på dansk*（[[Hattie på dansk]]）在此争议背景下出版，汇集多篇强烈批评文章（Qvortrup, 2019, p.4）
 
 ## 相关概念／理论
 
@@ -85,7 +86,7 @@ updated: '2026-05-18'
 > - [[Visible Learning]] — 改革的理论参照
 > - [[Evidence-Based Education]] — 改革体现的证据本位教育取向
 > - [[Effective Teaching]] — 丹麦研究对 [[John Hattie|Hattie]] 等国际有效教学综合适用性的检验
-> - [[SFI Report 2013]] — 丹麦本土证据基准
+> - [[SFI Report]] — 丹麦本土证据基准
 > - [[Jill Mehlbye]] — 丹麦高绩效学校研究中关于高要求、学业表现取向和[[Classroom Management|课堂管理]]的补充证据
 > - [[Interpretation Community]] — 解释改革引发争议的社会机制
 > - [[Professional Judgment]] — Qvortrup 论证改革应依赖的专业能力

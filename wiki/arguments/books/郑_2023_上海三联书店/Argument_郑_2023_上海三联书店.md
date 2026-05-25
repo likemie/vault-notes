@@ -72,7 +72,7 @@ related_facts:
   - "[[Civil Service Examination]]"
   - "[[Coleman Report 1966]]"
   - "[[Recommendation-Based Graduate Admission System]]"
-  - "[[China College Graduate Employment Reform 1986-1997]]"
+  - "[[China College Graduate Employment Reform]]"
 related_arguments: []
 sources: []
 part_of: ''
@@ -215,7 +215,7 @@ updated: '2026-05-18'
 - 1986 年：原国家教委提出"双向选择"制度框架
 - 1989 年 3 月：国务院批准，全国逐步实施
 - 1994 年：建立入学收费制度，变"两包"为"两自"
-- 1997 年：全国[[China College Graduate Employment Reform 1986-1997|并轨招生]]，统一收费
+- 1997 年：全国[[China College Graduate Employment Reform|并轨招生]]，统一收费
 - 1999 年：第三次全国教育工作会议启动大扩招，此后十年年均递增 40 万人
 
 数据后果（引自教育部统计及国家统计局）：

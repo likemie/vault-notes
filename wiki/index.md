@@ -695,10 +695,10 @@ Total entries: **714**
 - [[Australian Curriculum]] — 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
 - [[Gonski Reforms]] — 2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于“不让任何学校更糟“条款
 - [[Independent Public Schools Western Australia]] — WA 州最激进的学校自主权改革，575 所学校转为 IPS 地位
-- [[Karmel Report 1973]] — 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
+- [[Karmel Report]] — 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
 - [[Local Schools Local Decisions]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
 - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
-- [[Victorian HITS and Literacy Toolkit 2017]] — 维州教育部发布 10 项 HITS 和 Literacy Toolkit，均以 Hattie 的 VL 为首要参考，O’Connor (2020) 质疑其证据基础
+- [[Victorian HITS and Literacy Toolkit]] — 维州教育部发布 10 项 HITS 和 Literacy Toolkit，均以 Hattie 的 VL 为首要参考，O’Connor (2020) 质疑其证据基础
 
 ### Belgium
 
@@ -722,15 +722,15 @@ Total entries: **714**
 - [[China Social Credit System]] — 中国利用大数据对公民行为进行永久性评估的治理系统，Partaken (2022) 定位为 GPK 监视模态的当代典范
 - [[Civil Service Examination]] — 中国自 7 世纪至 1905 年延续超过 1300 年的官员选拔制度，将道德成就、学术学习、政治权力和社会地位前所未有地融为一体
 - [[Confucian Revival in China]] — 1980 年代末至今中共主导的儒家传统复兴运动，经历民间自发到国家收编的转变，服务于意识形态合法化和国族建构
-- [[ECNU Declaration on Evidence-Based Research 2017]] — 华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣言，提出 10 条措施推进中国教育实证研究，标志中国证据本位改革的制度化里程碑（Slavin et al., 2021）
+- [[ECNU Declaration on Evidence-Based Research]] — 华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣言，提出 10 条措施推进中国教育实证研究，标志中国证据本位改革的制度化里程碑（Slavin et al., 2021）
 - [[Great Firewall of China]] — 中国国家互联网审查系统，Partaken (2022) 定位为 GPK 审查模态的核心制度工具
 - [[Late Qing Borrowing of Japanese Education]] — 甲午战败后清末以日本为主要参照推进新式教育体系建设
 - [[Thousand Talents Program]] — 中国海外高层次人才引进计划，被美方视为制度化知识盗窃机制，中美技术紧张焦点
 
 #### Policy
 
-- [[China Basic Education Curriculum Reform 2001]] — 教育部发布基础教育课程改革纲要（试行），从“双基“转向“素质教育“、从教师中心转向学生中心教学，在大城市和偏远地区均深入推进
-- [[China College Graduate Employment Reform 1986-1997]] — 从统包统分到双向选择的高校毕业生就业市场化改革，1986 提出→1989 批准→1994 并轨试点→1997 全国实施
+- [[China Basic Education Curriculum Reform]] — 教育部发布基础教育课程改革纲要（试行），从“双基“转向“素质教育“、从教师中心转向学生中心教学，在大城市和偏远地区均深入推进
+- [[China College Graduate Employment Reform]] — 从统包统分到双向选择的高校毕业生就业市场化改革，1986 提出→1989 批准→1994 并轨试点→1997 全国实施
 - [[Recommendation-Based Graduate Admission System]] — 1980s 中期至今的推免研究生制度：以累积学分为依据免试直升，985 院校覆盖率可达 40%+，郑雅君 (2023) 分析其对不同阶层学生的隐性要求差异，改革派与保守派在“借鉴日本教育“上形成阶段性共识并推动大规模借用
 - [[Three Excellences]] — 中国学校年度评选的模范学生荣誉，以品德、学业、艺术/体育三方面卓越表现为标准，通过师生提名投票产生，用于为全体学生树立学习榜样
 
@@ -738,13 +738,13 @@ Total entries: **714**
 
 #### Event
 
-- [[Hattie på dansk 2017]] — 2017 年丹麦出版的 Visible Learning 批评文集，汇集多篇强烈反对 Hattie 的文章，成为丹麦 VL 争议制度化扩散的重要节点
-- [[SFI Report 2013]] — Winther & Nielsen 编辑的丹麦 SFI 报告，是检验 Hattie/Meyer/Helmke 有效教学综合丹麦适用性的主要本土证据
+- [[Hattie på dansk]] — 2017 年丹麦出版的 Visible Learning 批评文集，汇集多篇强烈反对 Hattie 的文章，成为丹麦 VL 争议制度化扩散的重要节点
+- [[SFI Report]] — Winther & Nielsen 编辑的丹麦 SFI 报告，是检验 Hattie/Meyer/Helmke 有效教学综合丹麦适用性的主要本土证据
 
 #### Policy
 
 - [[Danish Clearinghouse for Educational Research]] — 2006年奥胡斯大学建立的欧洲大陆早期证据本位教育中心，通过系统综述为丹麦学校实践者提供研究证据。
-- [[Danish Public School Reform 2014]] — 丹麦议会多数通过公立学校改革，以学习目标替代科目目标，明确引用 Hattie VL，引发教师和研究者的强烈反对
+- [[Danish Public School Reform]] — 丹麦议会多数通过公立学校改革，以学习目标替代科目目标，明确引用 Hattie VL，引发教师和研究者的强烈反对
 
 ### Eu
 
@@ -755,7 +755,7 @@ Total entries: **714**
 #### Policy
 
 - [[EU Evidence-Informed Education Policy Initiatives]] — 2006年以来欧盟通过评价文化、知识中介网络和Eurydice支持机制推动成员国在教育决策中使用证据，但主要以指导和协调为主而非强制统一政策。
-- [[EU Key Competences for Lifelong Learning 2018]] — 2018年欧盟理事会修订的终身学习关键能力框架，将能力定义为知识、技能和态度的动态组合，并提出八项关键能力及其评估挑战。
+- [[EU Key Competences for Lifelong Learning]] — 2018年欧盟理事会修订的终身学习关键能力框架，将能力定义为知识、技能和态度的动态组合，并提出八项关键能力及其评估挑战。
 - [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，YOUNG_ADULLLT 项目揭示其在欧盟各地差异化实施
 - [[Europe 2020 Strategy]] — EU 2010–2020 十年战略规划，以“智能、可持续与包容性增长“为框架，涵盖就业、研发、气候、教育、减贫五大领域
 - [[Horizon 2020 SSH Integration]] — EU 2014–2020 年研究框架取消社会科学与人文学科独立资助渠道，作为横向议题嵌入所有优先领域
@@ -771,13 +771,13 @@ Total entries: **714**
 
 #### Policy
 
-- [[Finnish National Core Curriculum 2014]] — 芬兰基础教育国家核心课程，将跨学科与现象本位学习纳入课程框架，但仍保留传统学科结构
+- [[Finnish National Core Curriculum]] — 芬兰基础教育国家核心课程，将跨学科与现象本位学习纳入课程框架，但仍保留传统学科结构
 
 ### France
 
 #### Policy
 
-- [[French Class Size Reduction 2017]] — 2017年法国教育部在弱势地区将一二年级班额从24人降至12人以缩小成就差距，因效果证据较弱而成为证据知情政策的争议案例。
+- [[French Class Size Reduction]] — 2017年法国教育部在弱势地区将一二年级班额从24人降至12人以缩小成就差距，因效果证据较弱而成为证据知情政策的争议案例。
 
 ### Global
 
@@ -796,12 +796,12 @@ Total entries: **714**
 
 #### Policy
 
-- [[Australia in the Asian Century White Paper 2012]] — 澳大利亚 Henry Report：将亚洲崛起定位为“澳大利亚的机遇“，推动 AISRF、ACSRF 等与亚洲的研究合作
+- [[Australia in the Asian Century White Paper]] — 澳大利亚 Henry Report：将亚洲崛起定位为“澳大利亚的机遇“，推动 AISRF、ACSRF 等与亚洲的研究合作
 - [[Campbell Collaboration]] — 2000年成立的社会科学系统综述组织，2007年将国际总部迁至挪威，通过综述社会、经济和教育干预研究支持证据本位政策与实践。
 - [[GATS and Trade in Education Services]] — WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映“新帝国主义
-- [[OECD Improving School Leadership Project 2006]] — OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
-- [[THE Impact Ranking 2019]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
-- [[UN Sustainable Development Goals 2015]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的“新型第三使命
+- [[OECD Improving School Leadership Project]] — OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
+- [[THE Impact Ranking]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
+- [[UN Sustainable Development Goals]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的“新型第三使命
 
 ### Hongkong
 
@@ -811,13 +811,13 @@ Total entries: **714**
 - [[2019 Hong Kong Protests and Education]] — 2019 年反修例运动被定性为“国家安全危机“后，中国官媒将 LS 构建为年轻人参与抗议的“罪魁祸首“，触发课程替代
 - [[English Schools Foundation Hong Kong]] — 香港最大英语学校体系，从英国国民学校（限 10% 本地华人）转型为 40%–50% 本地华人学生，改变了学生认同与语言课程
 - [[National Security Law Impact on Hong Kong Education]] — 香港国安法(2020) 颁布后为强制国民教育提供法律框架，关闭公民社会协商空间，实现从协商式到命令式教育决策的转变
-- [[Replacement of LS by CSD 2021]] — 通识教育科在官媒攻击和国安法颁布后被“公民与社会发展科“取代，课程核心转向爱国主义
-- [[Symposium on International Teaching 2007]] — 2007 年 3 月 21 日香港大学文学院主办的学术会议，促进中小学与大学教育者关于中国学习者的对话，直接催生了 Ryan & Slethaug (2010) 论文集
+- [[Replacement of LS by CSD]] — 通识教育科在官媒攻击和国安法颁布后被“公民与社会发展科“取代，课程核心转向爱国主义
+- [[Symposium on International Teaching]] — 2007 年 3 月 21 日香港大学文学院主办的学术会议，促进中小学与大学教育者关于中国学习者的对话，直接催生了 Ryan & Slethaug (2010) 论文集
 
 #### Policy
 
 - [[Citizenship and Social Development]] — 2021 年取代通识教育科的香港高中必修科，课程核心从批判性思维转向爱国主义与国家安全
-- [[Introduction of Liberal Studies 2009]] — 通识教育科作为新高中核心必修科的创立，以全球化论述和 IBDP 参照包装国内政策需求
+- [[Introduction of Liberal Studies]] — 通识教育科作为新高中核心必修科的创立，以全球化论述和 IBDP 参照包装国内政策需求
 - [[Liberal Studies]] — 2009–2021 年香港高中必修的通识教育科，跨学科议题为本探究，2021 年被公民科取代
 - [[National Education in Hong Kong]] — 培养香港青少年对中华人民共和国的国家认同与爱国情感的教育实践，在国安法后成为课程核心
 
@@ -825,7 +825,7 @@ Total entries: **714**
 
 #### Policy
 
-- [[Azione LIM 2008]] — 2008年意大利教育部推动的互动白板采购与教师培训政策，向学校提供35114块互动白板但被用作证据不足的教育技术投入案例。
+- [[Azione LIM]] — 2008年意大利教育部推动的互动白板采购与教师培训政策，向学校提供35114块互动白板但被用作证据不足的教育技术投入案例。
 
 ### Japan
 
@@ -866,17 +866,17 @@ Total entries: **714**
 
 - [[Contestable School Support Services]] — 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M
 - [[Foundation North Māori and Pasifika Education Initiative]] — Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社区提案驱动和网络识别两阶段模式改善 Māori 和 Pasifika 学生教育成果
-- [[Learning for Life Report 1989]] — Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald Grace 提议的“critic and conscience of society“作为大学的定义特征，后被写入新西兰法律
+- [[Learning for Life Report]] — Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald Grace 提议的“critic and conscience of society“作为大学的定义特征，后被写入新西兰法律
 - [[New Zealand National Standards]] — 国家党联合政府推行的国家教育标准政策，Hattie 参与技术顾问和部长顾问组，引发激烈争议
 - [[The New Zealand Curriculum]] — 2010 年实施的 NZ 国家课程，包含八项原则（高期望、学会学习、未来焦点），允许各校设计独特学习项目，ERO 定期评估
-- [[The Scott Report 1986]] — 新西兰议会教育与科学选择委员会发布的教学质量调查报告，主张迫切需要教师表现测量但承认过程将“漫长而复杂“，建议设立大学研究单位开发可靠工具——从未落实
+- [[The Scott Report]] — 新西兰议会教育与科学选择委员会发布的教学质量调查报告，主张迫切需要教师表现测量但承认过程将“漫长而复杂“，建议设立大学研究单位开发可靠工具——从未落实
 - [[Tomorrow's Schools Reforms]] — 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
 
 ### Russia
 
 #### Event
 
-- [[Russian Translation of Visible Learning 2017]] — Hattie Visible Learning 俄文版由 Prosveshchenie 集团于 2017 年出版，引发俄学界热烈讨论；Golovchin (2019) 基于方法论和文化分析建议俄教育政策不予采用
+- [[Russian Translation of Visible Learning]] — Hattie Visible Learning 俄文版由 Prosveshchenie 集团于 2017 年出版，引发俄学界热烈讨论；Golovchin (2019) 基于方法论和文化分析建议俄教育政策不予采用
 
 ### Singapore
 
@@ -921,8 +921,8 @@ Total entries: **714**
 - [[Grammar School]] — 英格兰以 11-plus 考试选拔学生的公立学术中学，现有 163 所，159 所获 Ofsted 良好/优秀评级
 - [[Institute for Effective Education]] — 英国约克大学相关独立慈善机构，通过学校支持、严格评价、Evidence in Brief和Evidence 4 Impact推动教育政策与实践中的证据使用。
 - [[Ofsted]] — 英国教育标准办公室，负责英格兰学校检查与评级，其评级在教育政策辩论中常被当作研究证据使用并带有强烈道德判断色彩
-- [[Rose Report 2006]] — Jim Rose 领导的英国早期阅读教学独立审查，推广简单阅读观，直接导致全英强制合成语音教学
-- [[Selective Schools Expansion Fund 2018]] — 保守党政府 £50M 基金允许现有文法学校扩展招生，在新建禁令未修改的情况下以替代路径扩大选择性教育
+- [[Rose Report]] — Jim Rose 领导的英国早期阅读教学独立审查，推广简单阅读观，直接导致全英强制合成语音教学
+- [[Selective Schools Expansion Fund]] — 保守党政府 £50M 基金允许现有文法学校扩展招生，在新建禁令未修改的情况下以替代路径扩大选择性教育
 - [[What Works Network]] — 英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴
 
 ### US
@@ -940,7 +940,7 @@ Total entries: **714**
 - [[Coleman Report 1966]] — 美国教育部委托的里程碑式教育机会平等研究（650,000+ 学生、4,000 所学校），结论为家庭背景而非学校特征是学业差距的主要驱动力，50 年后 Downey & Condron 重新评估认为 Coleman 低估了学校的补偿性作用
 - [[Collaborative for Academic Social and Emotional Learning Guide]] — 聚焦社会情感学习项目的非营利教育清算中心，Wadhwa et al. (2024) 样本中贡献 25 个项目
 - [[Communities in Schools]] — Wadhwa et al. (2024) 的清算中心评级分歧案例：NDPC 推荐，PPN/CNCS 认为 promising 或中等支持，Blueprints/CMFR 不背书
-- [[Creation of REES 2018]] — IES 于 2018 年启动的教育项目评估预注册平台（Registry of Efficacy and Effectiveness Studies），旨在缓解可疑研究实践并增加对知识库的信心
+- [[Creation of REES]] — IES 于 2018 年启动的教育项目评估预注册平台（Registry of Efficacy and Effectiveness Studies），旨在缓解可疑研究实践并增加对知识库的信心
 - [[Daubert v Merrell Dow Pharmaceuticals 1993]] — 美国联邦最高法院里程碑裁决，确立科学证据可采性标准，Berk (2011) 引入评估研究方法论讨论以框架化证据与垃圾科学的区分
 - [[ESSA 2015 Evidence Standards]] — 美国联邦教育主法定义强/中/有希望与理论依据证据层级，将联邦拨款与使用达到证据标准的项目绑定
 - [[Home Visiting Evidence of Effectiveness]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、QED、RDD 均有详细标准
@@ -965,7 +965,7 @@ Total entries: **714**
 - [[Comprehensive School Reform Program]] — 1998 年 Obey-Porter 立法首次将联邦教育拨款与有效性证据挂钩（USD 150M→USD 310M/年），但仅 20.8% 拨款流向强证据项目
 - [[No Child Left Behind Act 2001]] — Bush 政府 ESEA 重新授权，“科学本位研究“出现 110 次，将实验证据标准嵌入联邦教育项目核心，ESSA (2015) 的前身
 - [[Students and Teachers Accessing Tomorrow]] — 2014-2019年巴尔的摩郡公立学校分阶段推进的全学区技术整合项目，用于展示复杂教育改革中证据生成与解释的困难。
-- [[WWC SCD Pilot Standards 2010]] — Kratochwill & Hitchcock 为 IES 开发的 WWC 单一个案设计审查试行标准，含 Review Guide 和 5-3-20 规则
+- [[WWC SCD Pilot Standards]] — Kratochwill & Hitchcock 为 IES 开发的 WWC 单一个案设计审查试行标准，含 Review Guide 和 5-3-20 规则
 
 ---
 

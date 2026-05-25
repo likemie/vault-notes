@@ -111,7 +111,7 @@ sources:
 related_facts:
   - "[[Cognition Education]]"
   - "[[PISA]]"
-  - "[[Victorian HITS and Literacy Toolkit 2017]]"
+  - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
 confidence: medium
@@ -202,7 +202,7 @@ updated: '2026-05-21'
 > [!note-] 全球传播与各国反响
 > 对全球"[[Evidence-Based Education|证据本位教育]]"运动（参见 [[Evidence-Based Education]]、[[Evidence-Based Reform]]）产生深远影响，同时也成为该运动文化政治批评和方法论批评的焦点。
 >
-> **新西兰与澳大利亚**：Sarbiewska (2019) 从波兰教育者视角系统记录了 VL 在 NZ 和 AU 的政策采纳轨迹——2003 年 NZ 教育部长 Trevor Mallard 将优质教学作为优先议程；[[PISA]] 2001 数据揭示校内差异是主要问题后，政策焦点从外部因素转向师生互动；澳大利亚维多利亚州 [[Victorian HITS and Literacy Toolkit 2017|HITS]] 和 NZ ERO 将 VL 原则制度化（详见 [[Argument_Sarbiewska_2019_JSR]]）。
+> **新西兰与澳大利亚**：Sarbiewska (2019) 从波兰教育者视角系统记录了 VL 在 NZ 和 AU 的政策采纳轨迹——2003 年 NZ 教育部长 Trevor Mallard 将优质教学作为优先议程；[[PISA]] 2001 数据揭示校内差异是主要问题后，政策焦点从外部因素转向师生互动；澳大利亚维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 和 NZ ERO 将 VL 原则制度化（详见 [[Argument_Sarbiewska_2019_JSR]]）。
 >
 > **斯堪的纳维亚的学校改进转译**：Nordahl (2015) 提供了一条与商业化品牌扩张不同的接受路径。这里的 Hattie 既不是单纯的[[Effect Size|效应量]]排行榜作者，也不是外部问责工具的代名词，而是被转译为“学校为何必须围绕学习结果重组改进工作”的论据来源。其关键影响不在推广某个单一方法，而在推动学校把 [[Professional Judgment]]、教师协作、[[Knowledge Mobilisation|知识动员]]与学习结果评估重新绑在一起（Nordahl, 2015, pp.61–69）。
 >
