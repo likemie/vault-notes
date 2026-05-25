@@ -112,8 +112,10 @@ Only after the user provides the complete PDF and asks for source / reading-page
 `summary` is an index line, not an abstract.
 
 - Always wrap `summary` in double quotes.
-- The content inside `summary` must not contain English colon `:`, double quote `"`, or single quote `'`.
-- If an English title has a colon, rewrite the summary with natural wording or Chinese punctuation; do not replace punctuation with `_`.
+- Summaries may use normal Chinese punctuation, including Chinese commas, enumeration commas, periods, semicolons, and parentheses.
+- Use Chinese commas in summaries when a sentence needs a natural pause; do not omit punctuation to avoid characters.
+- The content inside `summary` must avoid only English colon `:`, double quote `"`, and single quote `'`; do not replace normal punctuation with substitute characters.
+- If an English title has a colon, rewrite the summary with natural wording or Chinese punctuation.
 - Do not make summaries revolve around the paper, chapter, study, or author.
 - If no reliable summary can be written, leave `summary: ""`.
 
