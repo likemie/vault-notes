@@ -1,17 +1,17 @@
 ---
 title: Argument_Amos_2022_Springer
-summary: "Ch4 S. Karin Amos，以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论"
+summary: Ch4 S. Karin Amos，以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
 type: argument
 subtype: book-chapter
 publication_type: book
-book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
-citation: 'Amos, S. K. (2022). Which Vision of Education for Late Modernity? In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 53–65). Springer.'
+book_title: "Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation"
+citation: "Amos, S. K. (2022). Which Vision of Education for Late Modernity? In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 53–65). Springer."
 tags:
-- late-modernity
-- transitology
-- transhumanism
-- posthumanism
-- higher-ed
+  - late-modernity
+  - transitology
+  - transhumanism
+  - posthumanism
+  - higher-ed
 related_concepts:
   - "[[Transhumanism]]"
   - "[[Posthumanism]]"
@@ -45,7 +45,7 @@ related_persons:
   - "[[Arturo Escobar]]"
   - "[[Humberto Maturana]]"
   - "[[Francisco Varela]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_facts:
   - "[[Grammar School]]"
   - "[[Sputnik Shock 1957]]"
@@ -53,10 +53,10 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Ch4_Amos_2022]]"
-part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
+part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
-created: '2026-05-08'
-updated: '2026-05-18'
+created: 2026-05-08
+updated: 2026-05-18
 ---
 ## 研究问题
 
@@ -236,7 +236,7 @@ updated: '2026-05-18'
 >
 > ### 最终立场：保留大众教育的问责性，但重建其组织原则
 >
-> Amos 并没有简单地否定大众教育。她明确指出：**大众教育是现代性的重大成就之一**——它创造了一个公共领域，在其中教什么、怎么教是可以被观察、批评和修订的。从 Illich (1971)、Bowles & Gintis (1976) 到 [[Pierre Bourdieu|Bourdieu]] & Passeron (1977)——每一次对大众教育的激烈批评，本身也证明了它的力量：它仍然是**可问责的**（accountable），不能一走了之（Amos, 2022, p.64）。
+> Amos 并没有简单地否定大众教育。她明确指出：**大众教育是现代性的重大成就之一**——它创造了一个公共领域，在其中教什么、怎么教是可以被观察、批评和修订的。从 Illich (1971)、Bowles & Gintis (1976) 到 [[wiki-Pierre Bourdieu|Bourdieu]] & Passeron (1977)——每一次对大众教育的激烈批评，本身也证明了它的力量：它仍然是**可问责的**（accountable），不能一走了之（Amos, 2022, p.64）。
 >
 > > 例：想象两种替代方案：方案 A——所有教育变成私人事务，家庭各自购买教育服务，"教育公平"的讨论也随之消失，因为你不再有"公共教育"这个对象可以问责。方案 B——保留公共教育的问责性，但用后人类主义的组织原则重建它：不按学科切割知识、以 connectivity 和 response-ability 取代竞争作为组织逻辑、鼓励协作和非二元思维、关注物质和非物质的多元纠缠。Amos 呼吁的是方案 B——一条更难走，但更负责任的路。
 >

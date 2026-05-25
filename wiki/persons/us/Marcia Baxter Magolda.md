@@ -2,14 +2,14 @@
 title: Marcia Baxter Magolda
 aliases:
   - 马西娅·巴克斯特·马戈尔达
-summary: "美国教育心理学家，自我主导性理论提出者，为教育研究理解大学生认知、身份与意义建构发展提供重要框架。"
+summary: 美国教育心理学家，自我主导性理论提出者，为教育研究理解大学生认知、身份与意义建构发展提供重要框架。
 type: person
 nationality: us
 tags:
-- marcia-baxter-magolda
-- psychology
-- higher-education
-- region/us
+  - marcia-baxter-magolda
+  - psychology
+  - higher-education
+  - region/us
 related_concepts:
   - "[[Self-Authorship]]"
   - "[[Goal-Controlled Mode]]"
@@ -21,13 +21,13 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_arguments: []
 sources: []
 confidence: low
 status: draft
-created: '2026-05-08'
-updated: '2026-05-19'
+created: 2026-05-08
+updated: 2026-05-19
 ---
 
 ## 简介
@@ -59,14 +59,14 @@ updated: '2026-05-19'
 
 > [!note-] 思想发展与影响
 > - 在大学生发展理论领域具有广泛影响，[[Self-Authorship|自我主导性]]被视作高等教育的重要发展目标之一（[[Yajun Zheng|郑雅君]]，2023）
-> - 郑雅君（2023）将 Baxter Magolda 的自我主导理论列为建构[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]双模式框架的三个理论灵感来源之一，另外两个为[[Pierre Bourdieu|布迪厄]]的《继承人》和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论
+> - 郑雅君（2023）将 Baxter Magolda 的自我主导理论列为建构[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]双模式框架的三个理论灵感来源之一，另外两个为[[wiki-Pierre Bourdieu|布迪厄]]的《继承人》和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论
 > - 在四分类模型中，[[Self-Driven Mode|自主驱动者]]是目标掌控模式与强价值信念的结合——这类学生不仅在认知上达到了 Baxter Magolda 所定义的自我主导性（基于内在信念体系做出判断、形成整合的自我认同、维持真实的人际关系），而且在行动上能有效运用文化工具箱中的策略资源，将自我主导性转化为清晰的生涯目标与行动路线。郑雅君（2023）第五章的案例（经纬、彦超、思同、钦凯、宇森、友斌）展示了自主驱动者如何在择业中实现"方向导引"——其内化的价值图式如灯塔般驱动和指引出路选择
 >
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - [[Yajun Zheng|郑雅君]]（2023）指出[[Self-Authorship|自我主导性]]理论的一个结构性局限：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。郑雅君将自我主导性（作为个体能力）与 [[Pierre Bourdieu|Bourdieu]] 的[[Habitus|习性]]理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场
+> - [[Yajun Zheng|郑雅君]]（2023）指出[[Self-Authorship|自我主导性]]理论的一个结构性局限：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。郑雅君将自我主导性（作为个体能力）与 [[wiki-Pierre Bourdieu|Bourdieu]] 的[[Habitus|习性]]理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场
 >
 
 ## 来源

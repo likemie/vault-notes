@@ -3,13 +3,13 @@ title: Goal-Controlled Mode
 aliases:
   - 目标掌控模式
   - goal-controlled mode
-summary: "大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连"
+summary: 大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连
 type: concept
 tags:
-- goal-controlled-mode
-- higher-education
-- region/china
-- level/higher-ed
+  - goal-controlled-mode
+  - higher-education
+  - region/china
+  - level/higher-ed
 related_concepts:
   - "[[Academic Engagement]]"
   - "[[Habitus]]"
@@ -32,7 +32,7 @@ related_methods:
   - "[[Matching]]"
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
   - "[[Marcia Baxter Magolda]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
@@ -40,8 +40,8 @@ related_arguments: []
 sources: []
 confidence: medium
 status: draft
-created: '2026-05-08'
-updated: '2026-05-18'
+created: 2026-05-08
+updated: 2026-05-18
 ---
 
 # Goal-Controlled Mode
@@ -72,7 +72,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]
-> - **1960s 原初洞察**：[[Pierre Bourdieu|Bourdieu]] & Passeron（1964）在 *Les Héritiers* 中区分了"考试能手"（除考试外忘掉一切）与"浅薄涉猎者"（与工作保持神秘化关系）两类学生，揭示了基于[[Cultural Capital|文化资本]]不平等的两种大学融入模式（[[Yajun Zheng|郑雅君]]，2023）
+> - **1960s 原初洞察**：[[wiki-Pierre Bourdieu|Bourdieu]] & Passeron（1964）在 *Les Héritiers* 中区分了"考试能手"（除考试外忘掉一切）与"浅薄涉猎者"（与工作保持神秘化关系）两类学生，揭示了基于[[Cultural Capital|文化资本]]不平等的两种大学融入模式（[[Yajun Zheng|郑雅君]]，2023）
 > - **2014–2017 田野发现**：郑雅君在两所顶尖大学的首轮 38 名访谈中发现，学生的毕业出路并非全是有意图的主动选择——部分学生的"选择"更多是对处境的本能反应。这一发现挑战了其初始假设，为双模式概念奠定了经验基础（郑雅君，2023）
 > - **2023 理论整合与命名**：郑雅君整合 [[Culture as Toolkit]]（Swidler, 1986）、[[Dual-Process Model of Culture in Action]]（Vaisey, 2009）和[[Self-Authorship|自我主导性]]理论（Baxter Magolda），正式提出目标掌控模式／[[Intuition-Dependent Mode|直觉依赖模式]]二分框架（郑雅君，2023）
 > - **第五章细化**：在双模式基础上引入价值信念驱动力维度，形成 2×2 四分类，将目标掌控模式进一步区分为[[Self-Driven Mode|自主驱动者]]和[[Opportunist Mode|机会主义者]]（郑雅君，2023）
@@ -94,7 +94,7 @@ updated: '2026-05-18'
 
 > [!tip]
 > 目标掌控模式根植于[[Yajun Zheng|郑雅君]]（2023）"大学过程"三层嵌套框架：
-> - [[Pierre Bourdieu]] — 对应**资本化过程**：目标掌控模式是优势阶层[[Habitus]]的具身化表达。郑雅君以布迪厄的游戏比喻阐明其在[[Champ|场域]]中的位置——"手持迷宫地形图入场，洞察游戏规则，直奔关底对决"（郑雅君，2023）
+> - [[wiki-Pierre Bourdieu]] — 对应**资本化过程**：目标掌控模式是优势阶层[[Habitus]]的具身化表达。郑雅君以布迪厄的游戏比喻阐明其在[[Champ|场域]]中的位置——"手持迷宫地形图入场，洞察游戏规则，直奔关底对决"（郑雅君，2023）
 > - [[Culture as Toolkit]] — 对应**价值选择过程**的工具维度：目标掌控模式被理解为一组由优势家庭提供的文化工具（规划意识、策略思维、信息搜集能力），使学生能策略性地组织行动路线（郑雅君，2023）
 > - [[Dual-Process Model of Culture in Action]] — 提供整合框架：该模式既包含**深层内化**的价值观驱动（优势阶层家庭教育中内化的"成功叙事"和生涯目标意识），也包含**浅层内化**的工具箱能力（灵活使用信息、人脉和制度知识为特定出路做准备）（郑雅君，2023）
 > - [[Academic and Social Integration]] + [[Student Engagement]] — 对应**投入过程**：目标掌控模式下的投入是**策略性而非弥散性**的——学生并非不投入，而是有方向地选择与目标出路[[Matching|匹配]]的教育性实践活动。[[Academic Engagement|学业投入]]的详细讨论见 [[Academic Engagement]]，[[Social Engagement|社会性投入]]的详细讨论见 [[Social Engagement]]（郑雅君，2023）

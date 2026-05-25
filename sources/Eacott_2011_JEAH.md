@@ -4,7 +4,7 @@ extracted_to:
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Bourdieu's Social Theory]]"
   - "[[New Public Management in Education]]"
-  - "[[Clippings/Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
   - "[[School Leadership]]"
   - "[[Scott Eacott]]"
 processed_date: 2026-05-01

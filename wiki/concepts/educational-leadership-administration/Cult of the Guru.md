@@ -2,14 +2,14 @@
 title: Cult of the Guru
 aliases:
   - 大师崇拜
-summary: "Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。"
+summary: Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。
 type: concept
 tags:
-- cult-of-the-guru
-- school-leadership
-- educational-administration
-- paradigm/critical
-- region/australia
+  - cult-of-the-guru
+  - school-leadership
+  - educational-administration
+  - paradigm/critical
+  - region/australia
 related_concepts:
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
@@ -24,7 +24,7 @@ related_methods:
 related_persons:
   - "[[Scott Eacott]]"
   - "[[John Hattie]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_facts:
   - "[[PISA]]"
 related_arguments: []
@@ -35,8 +35,8 @@ sources:
   - "[[Johnson_2023_CE]]"
 confidence: medium
 status: draft
-created: '2026-05-03'
-updated: '2026-05-18'
+created: 2026-05-03
+updated: 2026-05-18
 ---
 
 ## 定义
@@ -94,7 +94,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Pierre Bourdieu]] — 本体论共谋（ontological complicity）：学者对周围世界的嵌入具身性关系使其难以与现状决裂，"研究潮流而非追逐潮流"（Eacott, 2017, p.414, citing Birkinshaw et al., 2014; Bourdieu & Wacquant, 1992）
+> - [[wiki-Pierre Bourdieu]] — 本体论共谋（ontological complicity）：学者对周围世界的嵌入具身性关系使其难以与现状决裂，"研究潮流而非追逐潮流"（Eacott, 2017, p.414, citing Birkinshaw et al., 2014; Bourdieu & Wacquant, 1992）
 > - Callahan（1962）*Education and the Cult of Efficiency* — 历史框架：20 世纪美国教育被效率崇拜渗透的分析框架，Eacott 将其类比应用于当代澳大利亚的"[[John Hattie|Hattie]] 崇拜"
 
 ## 实证发现

@@ -1,17 +1,17 @@
 ---
 title: Argument_Eacott_2019_IJLE
-summary: "以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中“平行独白“现象，主张以论证与反驳为学术工作的生成逻辑"
+summary: 以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中“平行独白“现象，主张以论证与反驳为学术工作的生成逻辑
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: International Journal of Leadership in Education
-citation: 'Eacott, S. (2019). Ranting, raving and complaining: reflections on working against orthodoxy. International Journal of Leadership in Education, 22(6), 774–782.'
+citation: "Eacott, S. (2019). Ranting, raving and complaining: reflections on working against orthodoxy. International Journal of Leadership in Education, 22(6), 774–782."
 tags:
-- educational-administration
-- school-leadership
-- parallel-monologues
-- neo-taylorism
-- stance/critique
+  - educational-administration
+  - school-leadership
+  - parallel-monologues
+  - neo-taylorism
+  - stance/critique
 related_concepts:
   - "[[Parallel Monologues]]"
   - "[[Knowledge Production]]"
@@ -21,16 +21,16 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
   - "[[John Hattie]]"
 related_facts: []
 related_arguments: []
 sources:
   - "[[Eacott_2019_IJLE]]"
-part_of: ''
+part_of: ""
 status: draft
-created: '2026-05-03'
-updated: '2026-05-18'
+created: 2026-05-03
+updated: 2026-05-18
 ---
 ## 研究问题
 
@@ -40,7 +40,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Pierre Bourdieu]] — Eacott 遵循 Bourdieu 的学术逻辑立场：学术工作的逻辑应是论证与反驳（argument and refutation），而非 thesis-antithesis-synthesis（Eacott, 2019, p.774）
+> - [[wiki-Pierre Bourdieu]] — Eacott 遵循 Bourdieu 的学术逻辑立场：学术工作的逻辑应是论证与反驳（argument and refutation），而非 thesis-antithesis-synthesis（Eacott, 2019, p.774）
 > - 社会认识论（social epistemology）— Eacott 将其先前关于教育行政与领导力社会认识论的工作（Eacott, 2017b）引入本文，关注该领域[[Knowledge Production|知识生产]]的社会条件和逻辑（Eacott, 2019, p.774）
 
 ## 研究方法

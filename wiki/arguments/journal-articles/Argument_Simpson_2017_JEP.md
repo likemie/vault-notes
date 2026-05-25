@@ -62,7 +62,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > ### 1. [[Effect Size|效应量]]的原始目的与当前使用的断裂
 >
-> Cohen (1962) 引入标准化均值差（Cohen's d）是为了帮助心理学研究者评估研究的统计功效——是否有足够大的机会拒绝（错误的）零假设。效应量被设计为研究设计工具，而非教育政策的决策工具。Meta-analysts 和 meta-meta-analysts 将 d 重新解释为教育有效性的测量，这一跳跃缺乏论证基础（Simpson, 2017, pp.3–4）。
+> Cohen (1962) 引入标准化均值差（Cohen's d）是为了帮助心[[Neo-Confucianism|理学]]研究者评估研究的统计功效——是否有足够大的机会拒绝（错误的）零假设。效应量被设计为研究设计工具，而非教育政策的决策工具。Meta-analysts 和 meta-meta-analysts 将 d 重新解释为教育有效性的测量，这一跳跃缺乏论证基础（Simpson, 2017, pp.3–4）。
 >
 > ### 2. [[Meta-analysis|元分析]]的两项核心假设
 >

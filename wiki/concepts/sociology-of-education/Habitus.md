@@ -3,15 +3,15 @@ title: Habitus
 aliases:
   - 习性
   - habitus
-summary: "Pierre Bourdieu 的核心概念，指个体在长期社会经验中形成并具身化的稳定行为倾向系统，用于解释实践选择、判断方式和阶层再生产。"
+summary: Pierre Bourdieu 的核心概念，指个体在长期社会经验中形成并具身化的稳定行为倾向系统，用于解释实践选择、判断方式和阶层再生产。
 type: concept
 tags:
-- habitus
-- bourdieu
-- social-theory
-- cultural-sociology
-- paradigm/critical
-- region/france
+  - habitus
+  - bourdieu
+  - social-theory
+  - cultural-sociology
+  - paradigm/critical
+  - region/france
 related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Champ]]"
@@ -26,7 +26,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Constructivist Grounded Theory]]"
 related_persons:
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
   - "[[Marcia Baxter Magolda]]"
 related_facts: []
@@ -34,8 +34,8 @@ related_arguments: []
 sources: []
 confidence: medium
 status: draft
-created: '2026-05-08'
-updated: '2026-05-18'
+created: 2026-05-08
+updated: 2026-05-18
 ---
 
 # Habitus
@@ -45,7 +45,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 习性（habitus）是 [[Pierre Bourdieu]] 实践理论的核心概念，指行动者通过长期暴露于特定社会经验而具身化（embodied）的一套行为倾向系统——一种既是"被结构的结构"（structured structure）又是"能结构的结构"（structuring structure）的实践图式。习性不是有意识的理性计算，也不是对外部规则的机械服从，而是在既往经验塑造的倾向范围内，使行动者能够创造性地生成"合乎规则"且"客观上可调节"的实践活动（[[Yajun Zheng|郑雅君]]，2023，引 Bourdieu, 1990, p.53）。
+> 习性（habitus）是 [[wiki-Pierre Bourdieu]] 实践理论的核心概念，指行动者通过长期暴露于特定社会经验而具身化（embodied）的一套行为倾向系统——一种既是"被结构的结构"（structured structure）又是"能结构的结构"（structuring structure）的实践图式。习性不是有意识的理性计算，也不是对外部规则的机械服从，而是在既往经验塑造的倾向范围内，使行动者能够创造性地生成"合乎规则"且"客观上可调节"的实践活动（[[Yajun Zheng|郑雅君]]，2023，引 Bourdieu, 1990, p.53）。
 
 > [!quote]
 > "实践者的行动受到既往经验塑造的行动图式系统——习性（habitus）的限制，在其所能调适的范围内享有各种思想、感知和行动的自由"（郑雅君，2023，引 Bourdieu, 1990）
@@ -57,7 +57,7 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 ## 概念辨析
 
 > [!example]
-> - vs **理性选择** — 习性产生的实践"能够客观地'得到调节'并'合乎规则'，而并非有意识地目的性活动"（[[Yajun Zheng|郑雅君]]，2023，引 [[Pierre Bourdieu|Bourdieu]], 1990）。它不是成本收益计算的结果
+> - vs **理性选择** — 习性产生的实践"能够客观地'得到调节'并'合乎规则'，而并非有意识地目的性活动"（[[Yajun Zheng|郑雅君]]，2023，引 [[wiki-Pierre Bourdieu|Bourdieu]], 1990）。它不是成本收益计算的结果
 > - vs **结构决定** — 习性在既定倾向范围内保留了行动者的创造性和能动性空间，而非机械地决定行动。文化图式"可迁移和可推广"，行动者对文化的运用是创造性的（郑雅君，2023，引 Sewell, 1992）
 > - vs **习惯（habit）** — 习惯是机械重复的固定模式；习性是具有生成能力的倾向系统，可以在不同情境中产生不同的适应性实践
 
@@ -66,11 +66,11 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 ## 概念演变
 
 > [!note]
-> 习性概念的谱系可追溯至经院哲学，经民族志田野的中介，最终发展为 [[Pierre Bourdieu|Bourdieu]] 实践理论的核心操作概念：
+> 习性概念的谱系可追溯至经院哲学，经民族志田野的中介，最终发展为 [[wiki-Pierre Bourdieu|Bourdieu]] 实践理论的核心操作概念：
 
 - **亚里士多德 *hexis*** — 经 Thomas Aquinas 翻译为拉丁语 *habitus*，指一种稳定的品质或状态，使行动者倾向于以特定方式行动
 - **Marcel Mauss（1934）** — 在"身体技术"（techniques du corps）概念中使用了 habitus 一词，指不同社会中人们使用身体方式的习得性差异
-- **[[Pierre Bourdieu|Bourdieu]] 在 Béarn 的早期使用** — 最早出现于 Bourdieu 对 Béarn 农民社会单身现象的考察，用于解释婚姻策略的持久模式（*Le Bal des célibataires* 的前期研究）
+- **[[wiki-Pierre Bourdieu|Bourdieu]] 在 Béarn 的早期使用** — 最早出现于 Bourdieu 对 Béarn 农民社会单身现象的考察，用于解释婚姻策略的持久模式（*Le Bal des célibataires* 的前期研究）
 - ***Esquisse d'une théorie de la pratique*（1972）** — 在 Kabylie 民族志基础上首次系统阐述习性概念，旨在超越主观主义与客观主义的二元对立
 - ***Le Sens pratique*（1980）** — 进一步发展习性的"生成性"面向，引入"实践感"（sens pratique）以批判理性选择理论
 
@@ -90,7 +90,7 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 ## 理论基础
 
 > [!tip]
-> - [[Pierre Bourdieu]] — 习性是布迪厄实践理论的枢纽概念，连接[[Champ|场域]]（外部结构）和资本（争夺对象），使宏观社会结构与微观个体行动之间的双向转化成为可能
+> - [[wiki-Pierre Bourdieu]] — 习性是布迪厄实践理论的枢纽概念，连接[[Champ|场域]]（外部结构）和资本（争夺对象），使宏观社会结构与微观个体行动之间的双向转化成为可能
 
 ---
 
@@ -100,7 +100,7 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 
 ### 习性错配：三种理论形态
 
-当习性进入一个与自身不[[Matching|匹配]]的[[Champ|场域]]时，[[Pierre Bourdieu|Bourdieu]] 区分了三种不同程度的错配状态：
+当习性进入一个与自身不[[Matching|匹配]]的[[Champ|场域]]时，[[wiki-Pierre Bourdieu|Bourdieu]] 区分了三种不同程度的错配状态：
 
 **习性滞后（Habitus Hysteresis）**
 
@@ -147,7 +147,7 @@ Eacott（2011）发现，当教师升任校长时，其习性"被分裂为对抗
 ## 争议与批评
 
 > [!warning]
-> - **决定论指控**：批评者认为习性概念过于强调社会再生产，低估了行动者的能动性和变革可能性。Eacott（2011）的论文可以被视为对这一批评的回应——他运用 [[Pierre Bourdieu|Bourdieu]] 框架恰恰是为了论证"替代性领导习性"的可能性
+> - **决定论指控**：批评者认为习性概念过于强调社会再生产，低估了行动者的能动性和变革可能性。Eacott（2011）的论文可以被视为对这一批评的回应——他运用 [[wiki-Pierre Bourdieu|Bourdieu]] 框架恰恰是为了论证"替代性领导习性"的可能性
 > - **经验操作化困难**：如何在具体研究中实证地捕捉"习性"？[[Yajun Zheng|郑雅君]]（2023）以[[In-depth Interview|深度访谈]]和[[Constructivist Grounded Theory|建构主义扎根理论]]的方法操作化习性概念，提供了可参照的范例，但大量定量研究仍难以直接测量习性本身
 > - **概念弹性过大**：习性几乎可以解释任何行为——优势阶层学生的成功归因于习性，其失败也可归因于习性滞后。批评者认为这种"解释一切"的弹性反而削弱了概念的分析力
 

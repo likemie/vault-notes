@@ -1,20 +1,20 @@
 ---
 title: Argument_郑_2023_上海三联书店
-summary: "以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化。"
+summary: 以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化。
 type: argument
 subtype: monograph
 publication_type: book
 book_title: 金榜题名之后：大学生出路分化之谜
 authors:
-- 郑雅君
+  - 郑雅君
 publisher: 上海三联书店
 citation: 郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海三联书店.
 tags:
-- higher-education
-- social-stratification
-- cultural-capital
-- region/china
-- level/higher-ed
+  - higher-education
+  - social-stratification
+  - cultural-capital
+  - region/china
+  - level/higher-ed
 related_concepts:
   - "[[The Great Learning]]"
   - "[[Tongxue]]"
@@ -64,7 +64,7 @@ related_methods:
   - "[[Matching]]"
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
   - "[[Max Weber]]"
   - "[[Ann Swidler]]"
   - "[[Marcia Baxter Magolda]]"
@@ -77,10 +77,10 @@ related_facts:
 related_arguments: []
 sources:
   - "[[郑_2023_上海三联书店]]"
-part_of: ''
+part_of: ""
 status: draft
-created: '2026-05-08'
-updated: '2026-05-18'
+created: 2026-05-08
+updated: 2026-05-18
 ---
 
 ## 研究问题
@@ -100,7 +100,7 @@ updated: '2026-05-18'
 > [!abstract]
 > 全书整合三条理论脉络，建构"资本化过程—投入过程—价值选择过程"三层嵌套分析框架：
 
-- **[[Pierre Bourdieu]]**（[[Habitus|习性]]／[[Champ|场域]]／[[Cultural Capital|文化资本]]）— 解释家庭背景如何通过中学教育经历和父母决策角色，被"资本化"为学生进入[[The Great Learning|大学]]时的习性差异与初始竞争优势／劣势。场域概念贯穿全书，将精英大学类比为有着复杂游戏规则的"迷宫"。
+- **[[wiki-Pierre Bourdieu]]**（[[Habitus|习性]]／[[Champ|场域]]／[[Cultural Capital|文化资本]]）— 解释家庭背景如何通过中学教育经历和父母决策角色，被"资本化"为学生进入[[The Great Learning|大学]]时的习性差异与初始竞争优势／劣势。场域概念贯穿全书，将精英大学类比为有着复杂游戏规则的"迷宫"。
 
 - **高等教育过程理论**（[[Academic and Social Integration|Tinto 融入理论]] + Kuh 投入理论）— 框定学生在校期间的能动性空间，以"[[Academic Engagement|学业投入]]"和"[[Social Engagement|社会性投入]]"为双轴分析两种模式的行为差异。
 
@@ -125,7 +125,7 @@ updated: '2026-05-18'
 > [!example]
 > 全书以"家境的影响 → 在校的投入 → 方向的选择"为论证主线，六章逐层展开：
 
-1. **第一章 迷宫**：描绘精英[[The Great Learning|大学]]作为一个[[Pierre Bourdieu|布迪厄]]式"游戏场"的基本布局——三条出口（出国、读研、就业）的筹码体系、二元劳动力市场、以及游戏规则对弱势者的先在不平等
+1. **第一章 迷宫**：描绘精英[[The Great Learning|大学]]作为一个[[wiki-Pierre Bourdieu|布迪厄]]式"游戏场"的基本布局——三条出口（出国、读研、就业）的筹码体系、二元劳动力市场、以及游戏规则对弱势者的先在不平等
 2. **第二章 视角**：建立三层嵌套分析框架并交代研究设计——三条理论脉络分别对应资本化、投入、价值选择三个过程
 3. **第三章 家境**：呈现资本化过程的经验机制——揭示 [[Goal-Controlled Mode|目标掌控模式]] 与 [[Intuition-Dependent Mode|直觉依赖模式]] 如何在中学教育和家庭决策中被系统性地阶层化塑造
 4. **第四章 努力**：追踪投入过程——对比两类模式在[[Academic Engagement|学业投入]]和[[Social Engagement|社会性投入]]上的系统差异，以及约半数直觉依赖者向目标掌控模式转变的路径
@@ -169,7 +169,7 @@ updated: '2026-05-18'
 **第四步：建构理论框架**
 
 核心理论资源：
-- [[Pierre Bourdieu]] — 实践者的行动受[[Habitus]]限制，在既定倾向范围内享有思想、感知和行动的自由。习性产生的实践"能够客观地'得到调节'并'合乎规则'，而并非有意识地目的性活动"（郑雅君，2023，引 Bourdieu, 1990, p.53）
+- [[wiki-Pierre Bourdieu]] — 实践者的行动受[[Habitus]]限制，在既定倾向范围内享有思想、感知和行动的自由。习性产生的实践"能够客观地'得到调节'并'合乎规则'，而并非有意识地目的性活动"（郑雅君，2023，引 Bourdieu, 1990, p.53）
 - [[Culture as Toolkit]]（Swidler, 1986）— 文化不仅定义价值观（"想要什么"），还提供建构行动策略所需的"工具"（"如何去做"）。特定文化工具的可及性和熟练程度依习性结构的不同而有系统性差异（郑雅君，2023）
 
 由此推导出核心分析框架：

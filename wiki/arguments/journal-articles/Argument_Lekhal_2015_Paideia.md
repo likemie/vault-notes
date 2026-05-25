@@ -72,11 +72,11 @@ updated: '2026-05-18'
 > | 数学成绩      | Mathematics                                   | 教师评定 | 因变量子项      | 单项（总分子项）           | [[Gender Differences in Academic Achievement]]   |
 > | 英语成绩      | English                                       | 教师评定 | 因变量子项      | 单项（总分子项）           | [[Gender Differences in Academic Achievement]]   |
 > | 学校规范适应    | Adaptation to school norms                    | 教师评定 | 自变量（行为/态度） | 9 项 / 1-4 / .95    | [[School Norm Adaptation]]                       |
-> | 动机与努力投入   | Motivation and work effort                    | 教师评定 | 自变量（行为/态度） | 3 项 / 1-5 / .95    | [[Motivation and Work Effort]]                   |
+> | 动机与努力投入   | [[Motivation and Work Effort]]                    | 教师评定 | 自变量（行为/态度） | 3 项 / 1-5 / .95    | [[Motivation and Work Effort]]                   |
 > | 自控        | [[Self-control]]                                  | 教师评定 | 自变量（行为）    | 9 项 / 1-4 / .95    | [[Self-control]]                                 |
 > | 自我主张      | [[Assertiveness]]                                 | 教师评定 | 自变量（行为）    | 8 项 / 1-4 / .91    | [[Assertiveness]]                                |
 > | 师生关系      | Relation to teacher                           | 学生自评 | 自变量（关系）    | 8 项 / 1-4 / .86    | [[Student-Teacher Relationship]]                 |
-> | 班级学习文化    | Classroom learning culture                    | 学生自评 | 自变量（环境）    | 4 项 / 1-4 / .72    | [[Classroom Learning Culture]]                   |
+> | 班级学习文化    | [[Classroom Learning Culture]]                    | 学生自评 | 自变量（环境）    | 4 项 / 1-4 / .72    | [[Classroom Learning Culture]]                   |
 > | 课堂反馈      | Feedback in teaching                          | 学生自评 | 自变量（教学过程）  | 5 项 / 1-5 / .84    | [[Feedback]]                                     |
 > | 学习阻碍行为    | Learning-impeding behavior                    | 学生自评 | 自变量（行为）    | 10 项 / 1-5 / .85   | [[Learning-Impeding Behavior]]                   |
 > | 学习兴趣与学业愉悦 | Academic well-being/interest                  | 学生自评 | 自变量（态度）    | 4 项 / 1-4 / .68    | [[Academic Well-being and Interest in Learning]] |
@@ -95,7 +95,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> - 女生在教师评定的核心学科成绩上整体高于男生，挪威语差距最大，其次英语，数学最小（Lekhal et al., 2015, p.82）。
+> - 女生在教师评定的核[[Neo-Confucianism|心学]]科成绩上整体高于男生，挪威语差距最大，其次英语，数学最小（Lekhal et al., 2015, p.82）。
 > - 对成绩解释力最高的变量是"适应学校规范"与"动机和劳动投入"；这两项对男女生都显著（Lekhal et al., 2015, pp.83-84）。
 > - 关系性变量（如学生自评[[Student-Teacher Relationship|师生关系]]）在本研究中的解释力较弱，作者认为这可能与"关系变量来自学生自评、成绩来自教师评定"的信息源差异有关（Lekhal et al., 2015, p.85）。
 > - 研究支持"性别差异主要通过校内行为与评价机制间接生成"的解释路径（Lekhal et al., 2015, pp.83-86）。

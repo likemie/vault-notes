@@ -2,13 +2,13 @@
 title: Epistemological Break
 aliases:
   - 认识论断裂
-summary: "Bourdieu 的认识论概念，指科学研究必须与前科学世界的日常语言和自发理解进行断裂。"
+summary: Bourdieu 的认识论概念，指科学研究必须与前科学世界的日常语言和自发理解进行断裂。
 type: concept
 tags:
-- epistemological-break
-- epistemology
-- bourdieu
-- paradigm/critical
+  - epistemological-break
+  - epistemology
+  - bourdieu
+  - paradigm/critical
 related_concepts:
   - "[[Doxa]]"
   - "[[Knowledge Production]]"
@@ -20,28 +20,28 @@ related_theories:
   - "[[Critical Realism]]"
 related_methods: []
 related_persons:
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources:
   - "[[Eacott_2015_EPT]]"
 confidence: medium
 status: draft
-created: '2026-05-02'
-updated: '2026-05-18'
+created: 2026-05-02
+updated: 2026-05-18
 ---
 
 ## 定义
 
 > [!info] 定义
-> 认识论断裂（Epistemological Break）源自 [[Pierre Bourdieu|Bourdieu]], Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*，指科学研究必须与**前科学世界**（pre-scientific world）的日常语言和自发理解进行决裂的关键操作。Bourdieu 认为，"问题的选择、概念的阐释和分析范畴如果不经过科学建构这一关键操作来与社会世界既有的样子决裂，就只是对 [[Doxa|doxa]] 的认可"（Bourdieu & Wacquant, 1992/1992, p.248，引自 Eacott, 2015, p.320）。
+> 认识论断裂（Epistemological Break）源自 [[wiki-Pierre Bourdieu|Bourdieu]], Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*，指科学研究必须与**前科学世界**（pre-scientific world）的日常语言和自发理解进行决裂的关键操作。Bourdieu 认为，"问题的选择、概念的阐释和分析范畴如果不经过科学建构这一关键操作来与社会世界既有的样子决裂，就只是对 [[Doxa|doxa]] 的认可"（Bourdieu & Wacquant, 1992/1992, p.248，引自 Eacott, 2015, p.320）。
 >
 > > "the choice of problem, the elaboration of concepts and analytical categories function as a ratification of the doxa unless the crucial operation of scientific construction breaks with the social world as it is"（Bourdieu & Wacquant, 1992/1992, p.248）
 
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - 1968 年 [[Pierre Bourdieu|Bourdieu]], Chamboredon & Passeron 在 *Le métier de sociologue* 中系统阐述认识论断裂的方法论地位（Eacott, 2015, p.313）
+> - 1968 年 [[wiki-Pierre Bourdieu|Bourdieu]], Chamboredon & Passeron 在 *Le métier de sociologue* 中系统阐述认识论断裂的方法论地位（Eacott, 2015, p.313）
 > - Bachelard（1934/1984）更早提出"简单从来不过是简化之物"（the simple is never anything more than the simplified），否定科学拥有确定遗产的确定性，坚持"科学只能通过不断质疑自身构造的原理来进步"（Eacott, 2015, p.323）
 > - Eacott（2015）将认识论断裂概念引入教育行政研究，论证教育行政学者作为"嵌入且具身的行动者"尤其需要这一操作
 
@@ -66,7 +66,7 @@ updated: '2026-05-18'
 >
 > **断裂的具体操作**
 >
-> Eacott 引 [[Pierre Bourdieu|Bourdieu]] 的主张：断裂要求"将使得对世界的 doxic 体验成为可能的一切事物提交给科学审查——不仅包括社会的前科学表征，还包括构成这些意象的认知图式"（Eacott, 2015, p.320）。
+> Eacott 引 [[wiki-Pierre Bourdieu|Bourdieu]] 的主张：断裂要求"将使得对世界的 doxic 体验成为可能的一切事物提交给科学审查——不仅包括社会的前科学表征，还包括构成这些意象的认知图式"（Eacott, 2015, p.320）。
 >
 > 具体而言：
 > - **拒绝先验定义**："流行的做法，尤其在研究生中，对对象进行操作化定义是不合适的"（Eacott, 2015, p.321）
@@ -87,13 +87,13 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Pierre Bourdieu]] — 认识论断裂是 Bourdieu 反思社会学的方法论核心，与其[[Champ|场域]]-[[Habitus|习性]]-资本理论框架互为前提
+> - [[wiki-Pierre Bourdieu]] — 认识论断裂是 Bourdieu 反思社会学的方法论核心，与其[[Champ|场域]]-[[Habitus|习性]]-资本理论框架互为前提
 > - [[Critical Realism]] — 与 Bhaskar 的批判实在论共享对实证主义科学观的批判，但 Bourdieu 的断裂更强调研究者自身的认识论条件而非本体论分层
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **是否可能完全断裂**：[[Pierre Bourdieu|Bourdieu]] 自己也承认研究者永远无法完全逃脱社会世界——"the inexhaustible intellectual project of getting beyond the everyday is never finally won"（Eacott, 2015, p.322）。批评者质疑这是否意味着"断裂"是一个永远达不到的理想状态。
+> - **是否可能完全断裂**：[[wiki-Pierre Bourdieu|Bourdieu]] 自己也承认研究者永远无法完全逃脱社会世界——"the inexhaustible intellectual project of getting beyond the everyday is never finally won"（Eacott, 2015, p.322）。批评者质疑这是否意味着"断裂"是一个永远达不到的理想状态。
 > - **与"实践相关性"的张力**：教育行政作为"应用领域"，其体制合法性部分来自与实践的紧密关联。彻底的断裂是否会使研究对实践者不可理解或无关？（Eacott, 2015, p.319-320，讨论 Bachelard 和 Bourdieu 拒绝简化复杂内容）
 > - **Evers & Lakomski 立场**：Evers & Lakomski（1991, 1996, 2000, 2012）认为问题不在科学，而在科学的模型——逻辑经验主义的狭隘操作化。若采用更丰富的科学模型（如自然主义的科学观），是否需要"断裂"本身也有待商榷（Eacott, 2015, p.316）。
 

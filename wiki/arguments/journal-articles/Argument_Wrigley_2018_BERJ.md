@@ -50,7 +50,7 @@ updated: '2026-05-18'
 > [!info] 研究问题
 > 本文追问当"证据"被简化为 [[Randomised Controlled Trials|RCT]] 和统计平均时，在**三个方法论层级**分别产生了哪些技术缺陷、哲学困境和意识形态后果？每一级聚合如何进一步放大前一级的失真？
 >
-> > "When 'evidence' is reduced to a mean effect size, the individual person or event is shut out, complexity is lost and values are erased." (p. 2)
+> > "When 'evidence' is reduced to a mean [[Effect Size]], the individual person or event is shut out, complexity is lost and values are erased." (p. 2)
 
 ## 理论框架
 
@@ -119,7 +119,7 @@ updated: '2026-05-18'
 > Wrigley 将 [[Evidence-Based Education|EBE]] 方法论精简定位于**新自由主义政策框架**：
 > - EBE 是"审计文化"（Power, 1997）的延伸——从评估问责到"政策作为数字"（Ozga & Lingard, 2007）再到现在"证据本位教学"
 > - "什么有效"的口号将教育价值问题转化为技术效率问题，与 Biesta 的"teleological 特征"互补
-> - 教师的去专业化：声称赋予教师"声音"的 [[ResearchED]] 实际上将教师引向单一的 RCT 方法论——学术大学研究的替代者是符合政府偏好的"草根运动"
+> - 教师的去专业化：声称赋予教师"声音"的 [[ResearchED]] 实际上将教师引向单一的 RCT 方法论——学术[[The Great Learning|大学]]研究的替代者是符合政府偏好的"草根运动"
 > - 自然化的统计范畴（如"white British"、"FSMever"、"expected progress"）通过重复使用变成自明实体，抹除个体传记和文化资产
 >
 > > "The sloganistic 'what works' reflects a neoliberal demand to extract maximum efficiency from education, while marginalising the qualitative and political dimensions of human formation." (p. 13)
@@ -190,7 +190,7 @@ updated: '2026-05-18'
 >
 > ### [[ResearchED]] 的复杂定位：草根运动还是政府工具？
 >
-> **批评内容**：Wrigley 将 ResearchED（Tom Bennett 2013 年创立的教师草根运动，以 RCT 为黄金标准）定位于服务于政府议程——前教育部长 Nick Gibb 对其背书，其 RCT 偏好恰好与政府问责需求对齐。但此分析未充分讨论 ResearchED 内部教师的真实自主性——许多参与 ResearchED 的教师并非"被政府捕获的草根"，而是主动选择了他们认为比大学教育学院更"实用"的证据来源。
+> **批评内容**：Wrigley 将 ResearchED（Tom Bennett 2013 年创立的教师草根运动，以 RCT 为黄金标准）定位于服务于政府议程——前教育部长 Nick Gibb 对其背书，其 RCT 偏好恰好与政府问责需求对齐。但此分析未充分讨论 ResearchED 内部教师的真实自主性——许多参与 ResearchED 的教师并非"被政府捕获的草根"，而是主动选择了他们认为比[[The Great Learning|大学]]教育学院更"实用"的证据来源。
 >
 > **复杂性**：
 > - ResearchED 确实获得了政府部长的背书（Nick Gibb 在多届会议上发言），其 RCT 偏好与 EBE 政策议程高度一致

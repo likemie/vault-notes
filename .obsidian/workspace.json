@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/research-methodology/Professional Judgment.md",
+                "file": "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Professional Judgment"
+              "title": "Argument_郑_2023_上海三联书店"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wiki-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,6 +190,14 @@
   },
   "active": "1ae9539e2ff14392",
   "lastOpenFiles": [
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
+    "Clippings/wiki-Pierre Bourdieu.md",
+    "Clippings/Hattie-Studie.md",
+    "wiki/theories/educational-philosophy/Phenomenology.md",
+    "wiki/concepts/educational-philosophy/Examined Life.md",
+    "wiki/concepts/educational-philosophy/Faust.md",
+    "wiki/concepts/chinese-philosophy/Tongxue.md",
+    "wiki/concepts/research-methodology/Professional Judgment.md",
     "wiki/concepts/comparative-education/Parental Cognitive and Affective Socialization.md",
     "wiki/concepts/comparative-education/Mind Efficacy and Virtue Efficacy.md",
     "wiki/concepts/chinese-philosophy/Family Social Model.md",
@@ -206,15 +215,7 @@
     "wiki/concepts/chinese-philosophy/The Great Learning.md",
     "wiki/concepts/chinese-philosophy/Four Sprouts.md",
     "wiki/theories/chinese-philosophy/Neo-Confucianism.md",
-    "wiki/concepts/educational-philosophy/Faust.md",
     "wiki/concepts/research-methodology/Performativity of Measurement.md",
-    "wiki/concepts/research-methodology/Material Fallacies.md",
-    "wiki/concepts/research-methodology/Absorptive Capacity.md",
-    "wiki/concepts/research-methodology/Performance Indicators.md",
-    "wiki/concepts/research-methodology/5-3-20 Rule.md",
-    "wiki/concepts/research-methodology/Confidence Interval.md",
-    "wiki/concepts/research-methodology/Black Box RCTs.md",
-    "wiki/concepts/research-methodology/Effect Size.md",
     "wiki/concepts/educational-leadership-administration",
     "scripts/__pycache__/vault_lint.cpython-312.pyc",
     "scripts/__pycache__/wiki_index.cpython-312.pyc",

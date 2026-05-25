@@ -64,7 +64,7 @@ updated: 2026-05-22
 ## 理论基础
 
 > [!tip]
-> - 与[[Mencius|孟子]]四端说的关联：羞恶之心 → 义（Li, 2012, pp.42-43）
+> - 与[[Mencius|孟子]][[Four Sprouts|四端]]说的关联：羞恶之心 → 义（Li, 2012, pp.42-43）
 > - [[Ritual Propriety]] — 四项超越德目中的另一项，常与义并提
 > - [[Sense of Shame]] — 羞耻感是触发义的内在机制
 > - [[Self-Cultivation]] — 义是修身所必须发展的道德品质
@@ -73,4 +73,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- Li_2012_Cambridge
+- [[Li_2012_Cambridge]]

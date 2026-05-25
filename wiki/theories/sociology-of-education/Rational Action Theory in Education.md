@@ -2,14 +2,14 @@
 title: Rational Action Theory in Education
 aliases:
   - 教育中的理性行动理论
-summary: "以相对风险规避解释不同阶层教育选择差异的教育分层理论，强调家庭背景如何通过成本、收益和风险判断影响升学决策"
+summary: 以相对风险规避解释不同阶层教育选择差异的教育分层理论，强调家庭背景如何通过成本、收益和风险判断影响升学决策
 type: theory
 tags:
-- rational-action-theory
-- social-stratification
-- educational-inequality
-- region/uk
-- level/higher-ed
+  - rational-action-theory
+  - social-stratification
+  - educational-inequality
+  - region/uk
+  - level/higher-ed
 related_concepts:
   - "[[Habitus]]"
   - "[[Champ]]"
@@ -19,14 +19,14 @@ related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Max Weber]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []
 confidence: low
 status: draft
-created: '2026-05-08'
-updated: '2026-05-18'
+created: 2026-05-08
+updated: 2026-05-18
 ---
 
 ## 核心主张
@@ -73,7 +73,7 @@ updated: '2026-05-18'
 
 > [!example] 相关理论
 > - [[Culture as Toolkit]] — Swidler（1986）的工具箱理论提供了与 RAT 对话的文化社会学替代范式：文化作为工具被使用以达到预定目的，但"预定目的是从何而来的"这一问题则指向价值观驱动的文化范式（[[Yajun Zheng|郑雅君]]，2023）
-> - [[Pierre Bourdieu]] — Hodkinson & Sparkes（1997）以布迪厄的[[Habitus|习性]]与[[Champ|场域]]理论修正 RAT，承认理性选择的实用主义性质同时揭示其受结构性条件制约
+> - [[wiki-Pierre Bourdieu]] — Hodkinson & Sparkes（1997）以布迪厄的[[Habitus|习性]]与[[Champ|场域]]理论修正 RAT，承认理性选择的实用主义性质同时揭示其受结构性条件制约
 >
 
 ## 来源

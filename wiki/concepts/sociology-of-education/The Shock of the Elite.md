@@ -2,15 +2,15 @@
 title: The Shock of the Elite
 aliases:
   - 精英冲击
-summary: "弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，常表现为习性失配、归属感受损和行动方向不稳"
+summary: 弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，常表现为习性失配、归属感受损和行动方向不稳
 type: concept
 tags:
-- elite-shock
-- higher-education
-- working-class
-- habitus
-- social-mobility
-- level/higher-ed
+  - elite-shock
+  - higher-education
+  - working-class
+  - habitus
+  - social-mobility
+  - level/higher-ed
 related_concepts:
   - "[[Champ]]"
   - "[[Habitus]]"
@@ -26,14 +26,14 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []
 confidence: low
 status: draft
-created: '2026-05-08'
-updated: '2026-05-18'
+created: 2026-05-08
+updated: 2026-05-18
 ---
 
 ## 定义
@@ -51,7 +51,7 @@ updated: '2026-05-18'
 
 1. **物质与文化冲击**：弱势学生从前现代的物质环境骤然进入国际化大都市的精英校园。昌盛（甘肃偏僻农村→南方大学）："相当于我从中国大西北最偏的一个小山村来到中国最繁华的国际化的大都市里面……很多时候感觉自己非常的土。我身边的[[Tongxue|同学]]都出过国对吧，那我在高考前我连省都没有出过"（郑雅君，2023）
 
-2. **自我认同危机**：冲击从物质层面渗透到自我认知，表现为[[Sense of Shame|羞耻感]]、自卑和对社交的恐惧。昌盛在大二"陷入了一种非常低迷的状态，可以说稍微有点抑郁。每次出门我都会有一种恐惧，就是害怕与其他人交流，更不愿意跟其他人谈起我自己"。[[Pierre Bourdieu|布迪厄]]将这种体验称为**[[Habitus|习性]]分裂**（a habitus divided against itself）——个体在旧习性与新[[Champ|场域]]之间持续撕裂（郑雅君，2023，引 Bourdieu, 1999, p.511）
+2. **自我认同危机**：冲击从物质层面渗透到自我认知，表现为[[Sense of Shame|羞耻感]]、自卑和对社交的恐惧。昌盛在大二"陷入了一种非常低迷的状态，可以说稍微有点抑郁。每次出门我都会有一种恐惧，就是害怕与其他人交流，更不愿意跟其他人谈起我自己"。[[wiki-Pierre Bourdieu|布迪厄]]将这种体验称为**[[Habitus|习性]]分裂**（a habitus divided against itself）——个体在旧习性与新[[Champ|场域]]之间持续撕裂（郑雅君，2023，引 Bourdieu, 1999, p.511）
 
 3. **信息与操作能力缺失**：对大学制度规则的缺乏了解导致决策失误——鹏程不知从哪听说保研名额只有 10% 就放弃了保研；余涛受到"60 分万岁"的误导而错失保研机会；益民"从上海站那边一下来我就觉得有点不对劲了……学校很大，熟悉环境就大概花了半年时间"（郑雅君，2023）
 
@@ -59,7 +59,7 @@ updated: '2026-05-18'
 
 ## 与布迪厄概念的关系
 
-> [!info] 与[[Pierre Bourdieu|布迪厄]]概念的关系
+> [!info] 与[[wiki-Pierre Bourdieu|布迪厄]]概念的关系
 > 精英休克是布迪厄[[Habitus|习性]]理论在经验层面的具体化（[[Yajun Zheng|郑雅君]]，2023）：
 >
 > - **习性滞后（Habitus Hysteresis）**：布迪厄用以解释"机遇被错过"的概念——"习性滞后恐怕是机遇和在抓住机遇所需的倾向之间存在差距的根据之一"（Bourdieu, 1990，引自郑雅君，2023）。精英休克就是习性滞后在主观体验层面的表征

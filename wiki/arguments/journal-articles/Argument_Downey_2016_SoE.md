@@ -1,19 +1,19 @@
 ---
 title: Argument_Downey_2016_SoE
-summary: "在 Coleman Report 50 周年重新审视学校与不平等的关系，提出折射框架调和批判视角与季节性比较证据，论证学校对 SES 认知差距是补偿性的"
+summary: 在 Coleman Report 50 周年重新审视学校与不平等的关系，提出折射框架调和批判视角与季节性比较证据，论证学校对 SES 认知差距是补偿性的
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Sociology of Education
-citation: 'Downey, D. B., & Condron, D. J. (2016). Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality. Sociology of Education, 89(3), 207–220.'
+citation: "Downey, D. B., & Condron, D. J. (2016). Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality. Sociology of Education, 89(3), 207–220."
 tags:
-- refraction-framework
-- seasonal-comparison
-- coleman-report
-- inequality
-- stratification
-- region/us
-- level/k12
+  - refraction-framework
+  - seasonal-comparison
+  - coleman-report
+  - inequality
+  - stratification
+  - region/us
+  - level/k12
 related_concepts:
   - "[[Cultural Capital]]"
   - "[[Class Size]]"
@@ -22,16 +22,16 @@ related_theories:
 related_methods:
   - "[[Seasonal Comparison]]"
 related_persons:
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_facts:
   - "[[PISA]]"
 related_arguments: []
 sources:
   - "[[Downey_2016_SoE]]"
-part_of: ''
+part_of: ""
 status: draft
-created: '2026-05-04'
-updated: '2026-05-18'
+created: 2026-05-04
+updated: 2026-05-18
 ---
 ## 研究问题
 
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 > [!abstract] 理论框架
 > 论文以对教育社会学的**批判视角**（critical perspective on schools）的系统回顾为起点，识别了两条主要理论路线（Downey & Condron, 2016, pp.1–2）：
 >
-> - **再生产理论（Reproduction）**：Bowles & Gintis (1976) 的对应理论——学校为资本主义经济提供知道自身位置并准备扮演各自角色的工人；[[Pierre Bourdieu|Bourdieu]] (1977) 的[[Cultural Capital|文化资本]]理论——学校偏爱中产阶级和精英学生的文化资本
+> - **再生产理论（Reproduction）**：Bowles & Gintis (1976) 的对应理论——学校为资本主义经济提供知道自身位置并准备扮演各自角色的工人；[[wiki-Pierre Bourdieu|Bourdieu]] (1977) 的[[Cultural Capital|文化资本]]理论——学校偏爱中产阶级和精英学生的文化资本
 > - **加剧理论（Exacerbation）**：学校不仅再生产而且放大不平等的机制，包括"野蛮的不平等"（Kozol, 1992）——资金差距导致弱势学校的设施、教科书和[[Class Size|班级规模]]更差；教师质量的不平等分配；居住隔离导致弱势儿童集中在同一学校；校内的能力分组和分轨实践
 >
 > 最终提出 [[Refraction Framework]] 作为整合框架——将学校概念化为不平等的折射器，可沿不同维度以不同方式（中性、加剧性或补偿性）塑造不平等（Downey & Condron, 2016, pp.5–7）。

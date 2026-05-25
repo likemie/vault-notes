@@ -4,14 +4,14 @@ aliases:
   - 马克斯·韦伯
   - 韦伯
   - Weber
-summary: "德国社会学家，理解社会学奠基人与新教伦理与资本主义精神作者，为教育研究分析理性化、价值冲突与社会行动提供经典框架。"
+summary: 德国社会学家，理解社会学奠基人与新教伦理与资本主义精神作者，为教育研究分析理性化、价值冲突与社会行动提供经典框架。
 type: person
 nationality: germany
 tags:
-- max-weber
-- classical-sociology
-- interpretivism
-- region/germany
+  - max-weber
+  - classical-sociology
+  - interpretivism
+  - region/germany
 related_concepts:
   - "[[Corporate Education]]"
   - "[[Habitus]]"
@@ -21,15 +21,15 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
   - "[[Ann Swidler]]"
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources: []
 confidence: medium
 status: draft
-created: '2026-05-08'
-updated: '2026-05-19'
+created: 2026-05-08
+updated: 2026-05-19
 ---
 
 # Max Weber
@@ -182,7 +182,7 @@ updated: '2026-05-19'
 
 ### 学者传承
 
-- **影响了 [[Pierre Bourdieu]]** 的实践理论——Bourdieu 在建构[[Habitus|习性]]概念时承袭并超越了韦伯对行动意义的关注
+- **影响了 [[wiki-Pierre Bourdieu]]** 的实践理论——Bourdieu 在建构[[Habitus|习性]]概念时承袭并超越了韦伯对行动意义的关注
 - **影响了 [[Ann Swidler]]** 的 [[Culture as Toolkit|文化工具箱]] 理论——Swidler 与 Weber-Parsons 传统构成文化社会学的两大对立范式
 - **影响了 [[Yajun Zheng|郑雅君]]（2023）**：以韦伯诠释社会学作为全书认识论锚点，以工具/价值理性区分作为文化社会学讨论的起点；在分析大学生择业中的工作意义图式时援引韦伯的"扳道工"（switchman）假说——"直接支配人的行为的，不是理念，而是物质的和精神的兴趣。可是，由'理念'所创造出来的'世界形象'，往往像铁路上的扳道夫一样，决定了行动的轨道被兴趣推动的动力循着什么方向在行动"（郑雅君，2023，引 Weber, 2006）；在毕业出路产生机制的四分类模型中，以韦伯的价值理性概念作为横轴的理论基础
 - **影响了 Hartmann (2022) 的[[Corporate Education|企业教育]]分析**：Hartmann 以韦伯的权力-权威区分为起点，结合 DiMaggio & Powell 的[[Institutional Isomorphism|制度同构]]理论，分析[[Corporate Education|企业教育]]如何在强制型、模仿型和规范型同构三种机制中获取合法性（Hartmann, 2022, pp.182–184）

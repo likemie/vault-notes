@@ -2,16 +2,16 @@
 title: Theory Movement in Educational Administration
 aliases:
   - 教育行政理论运动
-summary: "1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战"
+summary: 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
 type: fact
 subtype: event
 region: us
 tags:
-- theory-movement
-- educational-administration
-- region/us
-- level/higher-ed
-- paradigm/positivist
+  - theory-movement
+  - educational-administration
+  - region/us
+  - level/higher-ed
+  - paradigm/positivist
 related_concepts:
   - "[[Didaktik]]"
   - "[[Epistemological Break]]"
@@ -20,15 +20,15 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Thomas Barr Greenfield]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources:
   - "[[Eacott_2015_EPT]]"
 confidence: medium
 status: draft
-created: '2026-05-02'
-updated: '2026-05-18'
+created: 2026-05-02
+updated: 2026-05-18
 ---
 ## 背景
 
@@ -98,7 +98,7 @@ updated: '2026-05-18'
 ## 相关概念／理论
 
 > [!example] 相关概念／理论
-> - [[Epistemological Break]] — Eacott 以此 [[Pierre Bourdieu|Bourdieu]] 概念论证教育行政需重新进行认识论断裂
+> - [[Epistemological Break]] — Eacott 以此 [[wiki-Pierre Bourdieu|Bourdieu]] 概念论证教育行政需重新进行认识论断裂
 > - [[Epistemological Vigilance]] — Bourdieu 的警觉概念在理论运动及其挑战之后的当代意义
 
 ## 来源

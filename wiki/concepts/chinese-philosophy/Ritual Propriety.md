@@ -53,7 +53,7 @@ updated: 2026-05-22
 
 > [!example]
 > **礼在儒家道德体系中的位置**：礼是[[Confucius|孔子]]所列四项超越德目之一，其余三项为：
-> - [[Rightness|义]]（yi, 義）— 做正确的事，正义感
+> - 义（yi, [[Rightness|義]]）— 做正确的事，正义感
 > - 廉（lian, 廉）— 个人操守，诚实管理
 > - [[Sense of Shame|耻]]（chi, 恥）— 羞耻感，作为自我纠正的动力（Li, 2012, pp.39-40）
 
@@ -88,4 +88,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- Li_2012_Cambridge
+- [[Li_2012_Cambridge]]

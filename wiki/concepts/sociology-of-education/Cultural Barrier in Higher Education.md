@@ -3,15 +3,15 @@ title: Cultural Barrier in Higher Education
 aliases:
   - 高等教育中的文化障碍
   - 文化障碍
-summary: "弱势背景学生因缺乏精英大学默认要求的文化知识与文化技能而遭遇的无形障碍，会同时限制向上流动机会与主观自我认同"
+summary: 弱势背景学生因缺乏精英大学默认要求的文化知识与文化技能而遭遇的无形障碍，会同时限制向上流动机会与主观自我认同
 type: concept
 tags:
-- cultural-barrier
-- higher-education
-- inequality
-- cultural-capital
-- region/china
-- level/higher-ed
+  - cultural-barrier
+  - higher-education
+  - inequality
+  - cultural-capital
+  - region/china
+  - level/higher-ed
 related_concepts:
   - "[[Champ]]"
   - "[[Cultural Capital]]"
@@ -30,15 +30,15 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
   - "[[Didier Eribon]]"
 related_facts: []
 related_arguments: []
 sources: []
 confidence: low
 status: draft
-created: '2026-05-08'
-updated: '2026-05-18'
+created: 2026-05-08
+updated: 2026-05-18
 ---
 
 ## 定义
@@ -55,13 +55,13 @@ updated: '2026-05-18'
 > - **隐性文化知识的缺失**：精英大学中的"游戏规则"——如何选择毕业出路、如何准备申请材料、如何建立与教授的关系网络等——通常不被明文教授。优势家庭的学生通过家庭教育代际传递获得这些知识，而弱势家庭学生则往往对此一无所知（[[Yajun Zheng|郑雅君]]，2023）
 > - **文化技能的鸿沟**：组织大学生活所需的策略性技能——如长线规划、资源识别与利用、自我营销——本身是一组由阶层背景赋予的文化技能。不具备这些技能的学生，即使拥有同等的智力和勤奋，也难以将名校文凭全额兑现为职业地位（郑雅君，2023）
 > - **对主观体验的侵蚀**：文化障碍不仅影响客观出路，还影响学生的主观感受。低阶层学生更可能经历强烈的落差感、自我怀疑和对自身前景的不安全感（郑雅君，2023）
-> - **精英大学的放大效应**：文化障碍在选拔性越强的教育[[Champ|场域]]中越突出。[[Pierre Bourdieu|布迪厄]]在《区隔》中指出，当对严格可评测的能力要求越少、对文化熟习的要求越多，这种差别就越明显（郑雅君，2023，引 Bourdieu, 1984, p.63）
+> - **精英大学的放大效应**：文化障碍在选拔性越强的教育[[Champ|场域]]中越突出。[[wiki-Pierre Bourdieu|布迪厄]]在《区隔》中指出，当对严格可评测的能力要求越少、对文化熟习的要求越多，这种差别就越明显（郑雅君，2023，引 Bourdieu, 1984, p.63）
 >
 
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Pierre Bourdieu]] — 文化障碍概念直接源于布迪厄对[[Cultural Capital|文化资本]]、[[Habitus|习性]]和[[Champ|场域]]的分析。布迪厄和帕斯隆指出："各种教育……暗含地以一整套有[[Bildung|教养]]阶级传递的知识、本领、表达模式为前提。……它导致了这种特权者游戏面前根本性的不平等"（[[Yajun Zheng|郑雅君]]，2023，引 Bourdieu & Passeron, 1979, pp.21-22）
+> - [[wiki-Pierre Bourdieu]] — 文化障碍概念直接源于布迪厄对[[Cultural Capital|文化资本]]、[[Habitus|习性]]和[[Champ|场域]]的分析。布迪厄和帕斯隆指出："各种教育……暗含地以一整套有[[Bildung|教养]]阶级传递的知识、本领、表达模式为前提。……它导致了这种特权者游戏面前根本性的不平等"（[[Yajun Zheng|郑雅君]]，2023，引 Bourdieu & Passeron, 1979, pp.21-22）
 >
 
 ## 实证发现
@@ -107,7 +107,7 @@ updated: '2026-05-18'
 
 [[Cultural Disorientation|文化迷失]]是第二重文化障碍，典型特征是[[Champ|场域]]的剧烈转换造成了内在自我的冲突，继而引发了行动目标和策略的[[Lost Mode|迷失]]（郑雅君，2023）：
 
-- **[[Habitus|习性]]裂化**：寒门学子既脱离原来生长的环境，接触了许多新鲜观念和事物；又在名校新获得的身份和自我认知不断被原先的自我和社会关系所干扰，自我认同时刻处于不稳定或撕裂状态——"产生一种习性分裂的体验"（郑雅君，2023，引 [[Pierre Bourdieu|Bourdieu]], 1999, p.511）
+- **[[Habitus|习性]]裂化**：寒门学子既脱离原来生长的环境，接触了许多新鲜观念和事物；又在名校新获得的身份和自我认知不断被原先的自我和社会关系所干扰，自我认同时刻处于不稳定或撕裂状态——"产生一种习性分裂的体验"（郑雅君，2023，引 [[wiki-Pierre Bourdieu|Bourdieu]], 1999, p.511）
 - **文化知识的缺失**：不了解精英大学和劳动力市场中的"游戏规则"，不清楚如何为自身发展赢得优势，也不倾向于对外寻求帮助（郑雅君，2023，引 Lareau, 2015; Calarco, 2011）
 - **价值感混乱与投入无方向**：价值感的混乱和无规划的投入容易导致直觉依赖者在毕业前夕迷失无从，陷入无准备状态。寒门学子应对的策略常常是固守自己熟悉的学业成功，而放弃所不熟悉的课外社会性活动，容易在未经仔细省察真正志趣前就匆忙踏上直升研究生或博士的道路（郑雅君，2023）
 

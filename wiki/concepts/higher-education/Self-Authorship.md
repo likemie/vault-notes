@@ -3,13 +3,13 @@ title: Self-Authorship
 aliases:
   - 自我主导性
   - self-authorship
-summary: "个体依据内在声音和核心价值观主导认知、自我认同与人际关系发展的概念，强调从外部依赖走向内部定向"
+summary: 个体依据内在声音和核心价值观主导认知、自我认同与人际关系发展的概念，强调从外部依赖走向内部定向
 type: concept
 tags:
-- self-authorship
-- higher-education
-- student-development
-- goal-orientation
+  - self-authorship
+  - higher-education
+  - student-development
+  - goal-orientation
 related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
@@ -22,14 +22,14 @@ related_methods: []
 related_persons:
   - "[[Marcia Baxter Magolda]]"
   - "[[Yajun Zheng]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []
 confidence: low
 status: draft
-created: '2026-05-08'
-updated: '2026-05-18'
+created: 2026-05-08
+updated: 2026-05-18
 ---
 
 ## 定义
@@ -43,7 +43,7 @@ updated: '2026-05-18'
 ## 在郑雅君（2023）中的应用
 
 > [!success] 在[[Yajun Zheng|郑雅君]]（2023）中的应用
-> 郑雅君在建构 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 的区分时，将 Baxter Magolda 的自我主导理论列为三个理论灵感来源之一（另两个为[[Pierre Bourdieu|布迪厄]]的《继承人》和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论）（郑雅君，2023）。
+> 郑雅君在建构 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 的区分时，将 Baxter Magolda 的自我主导理论列为三个理论灵感来源之一（另两个为[[wiki-Pierre Bourdieu|布迪厄]]的《继承人》和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论）（郑雅君，2023）。
 >
 > 二者的对应关系：
 >
@@ -57,7 +57,7 @@ updated: '2026-05-18'
 ## 与阶层的关系
 
 > [!info] 与阶层的关系
-> [[Yajun Zheng|郑雅君]]（2023）对 Baxter Magolda 理论的借助同时也包含了对其理论局限的反思：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。郑雅君将自我主导性（作为个体能力）与 [[Pierre Bourdieu|Bourdieu]] 的[[Habitus|习性]]理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场。
+> [[Yajun Zheng|郑雅君]]（2023）对 Baxter Magolda 理论的借助同时也包含了对其理论局限的反思：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。郑雅君将自我主导性（作为个体能力）与 [[wiki-Pierre Bourdieu|Bourdieu]] 的[[Habitus|习性]]理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场。
 >
 
 ## 来源

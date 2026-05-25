@@ -79,4 +79,4 @@ Hsueh 等人对中美中小学生尊重教师原因的研究发现：
 
 ## 来源
 
-- Li_2012_Cambridge
+- [[Li_2012_Cambridge]]

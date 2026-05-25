@@ -4,14 +4,14 @@ aliases:
   - 价值归顺者
   - value conformist
   - 价值归顺
-summary: "毕业出路分化中的一种类型，以直觉依赖和强价值信念结合为特征，通过内化学校理想与主流规范获得体制赞助性流动"
+summary: 毕业出路分化中的一种类型，以直觉依赖和强价值信念结合为特征，通过内化学校理想与主流规范获得体制赞助性流动
 type: concept
 tags:
-- value-conformist-mode
-- higher-education
-- social-stratification
-- region/china
-- level/higher-ed
+  - value-conformist-mode
+  - higher-education
+  - social-stratification
+  - region/china
+  - level/higher-ed
 related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Intuition-Dependent Mode]]"
@@ -25,15 +25,15 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources: []
 confidence: medium
 status: draft
-created: '2026-05-09'
-updated: '2026-05-18'
+created: 2026-05-09
+updated: 2026-05-18
 ---
 
 ## 定义
@@ -48,7 +48,7 @@ updated: '2026-05-18'
 
 > [!abstract] 核心特征
 > - **对教育系统的高度认同**：所有被访者都对"教育可以改变命运"坚信不疑，并且对自己能有机会在大学学习充满感激和[[Pride in Learning|自豪]]之情。这区别于 Paul Willis 笔下那些过早背叛学校的底层青少年（[[Yajun Zheng|郑雅君]]，2023，引 Willis, 1977）
-> - **"学校化的[[Habitus|习性]]"**：[[Pierre Bourdieu|布迪厄]]也认为学校教育对国民的感知、思想和行为模式的形成影响深远——有相似教育背景的人们更容易共享某些特定的常识和观念，他称为"学校化的习性"（a cultured habitus）（郑雅君，2023，引 Bourdieu, 1967）
+> - **"学校化的[[Habitus|习性]]"**：[[wiki-Pierre Bourdieu|布迪厄]]也认为学校教育对国民的感知、思想和行为模式的形成影响深远——有相似教育背景的人们更容易共享某些特定的常识和观念，他称为"学校化的习性"（a cultured habitus）（郑雅君，2023，引 Bourdieu, 1967）
 > - **稳定居住于校园的效应**：因为入学之后普遍抽离出家庭、稳定地居住在大学校园里，弱势学生更有机会去内化校园里盛行的观念图式，其中最鲜明者是学校和老师在正式教育中提供的"家国理想-社会价值"图式（郑雅君，2023）
 > - **体制赞助的获得**：大学本身作为一种政府管理下的事业单位，与体制资源有诸多衔接之处，为一种从学校到工作岗位的"赞助性流动"创造可能性——校内行政岗位、直研深造、留校任教、选调生输送等（郑雅君，2023）
 > - **薪酬不顶尖但声望理想**：价值归顺者的出路从薪酬上可能不及[[Self-Driven Mode|自主驱动者]]和[[Opportunist Mode|机会主义者]]，但从声望、地位和权力来说同样相当理想（郑雅君，2023）

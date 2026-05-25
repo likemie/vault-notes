@@ -39,7 +39,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> [[John Hattie|Hattie]] 的 *[[Visible Learning]]* 是否提供了对[[Whole Language|全语言]]（whole language）教学效果的科学上可辩护的评估？更广泛地说，基于聚合[[Meta-analysis|元分析]]（meta-meta-analysis）的[[Effect Size|效应量]]来制定教学实践或公共政策是否合法？（O'Connor, 2020, p.142）
+> [[John Hattie|Hattie]] 的 *[[Visible Learning]]* 是否提供了对[[Whole Language|全语言]]（whole language）教学效果的科学上可辩护的评估？更广泛地说，基于聚合[[Meta-analysis|元分析]]（[[Meta-meta-analysis]]）的[[Effect Size|效应量]]来制定教学实践或公共政策是否合法？（O'Connor, 2020, p.142）
 
 ## 理论框架
 
@@ -101,7 +101,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - 论文仅审查了 VL 中[[Whole Language|全语言]]这一方面（4 项[[Meta-analysis|元分析]]，64 项研究），未对 VL 其他领域进行系统审查
-> - 论文作者是小学教师和全语言实践者，可能被视为具有自身立场偏向——但作者明确公开了自身立场（曾在 RMIT 大学学习，导师包括全语言倡导者）
+> - 论文作者是小学教师和全语言实践者，可能被视为具有自身立场偏向——但作者明确公开了自身立场（曾在 RMIT [[The Great Learning|大学]]学习，导师包括全语言倡导者）
 > - 论文未进行独立的重新元分析——它依赖对 [[John Hattie|Hattie]] 方法的批判性审查和既有的次级文献
 
 ## 来源

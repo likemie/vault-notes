@@ -3,15 +3,15 @@ title: Cultural Disembedding
 aliases:
   - 文化脱嵌
   - cultural disembedding
-summary: "弱势背景学生进入精英大学后对物理环境与社会文化环境产生的全面疏离感，用于描述高等教育文化障碍的环境脱嵌维度。"
+summary: 弱势背景学生进入精英大学后对物理环境与社会文化环境产生的全面疏离感，用于描述高等教育文化障碍的环境脱嵌维度。
 type: concept
 tags:
-- cultural-disembedding
-- higher-education
-- inequality
-- cultural-barrier
-- region/china
-- level/higher-ed
+  - cultural-disembedding
+  - higher-education
+  - inequality
+  - cultural-barrier
+  - region/china
+  - level/higher-ed
 related_concepts:
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Habitus]]"
@@ -26,7 +26,7 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
@@ -34,8 +34,8 @@ sources:
   - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft
-created: '2026-05-09'
-updated: '2026-05-21'
+created: 2026-05-09
+updated: 2026-05-21
 ---
 
 ## 定义
@@ -43,7 +43,7 @@ updated: '2026-05-21'
 > [!info] 定义
 > 文化脱嵌（Cultural Disembedding）是[[Yajun Zheng|郑雅君]]（2023）在第六章提出的概念，指寒门学子进入精英大学后体会到的对周遭物理环境和社会文化环境的全面疏离感，是高等教育[[Cultural Barrier in Higher Education|文化障碍]]的第一重维度。其典型特征是学生感到自身的外貌、穿着、口音、姿态、生活习惯等原本习以为常的方面，与精英大学里"正确的"或"默认的"做法迥然不同。
 >
-> > 如[[Pierre Bourdieu|布迪厄]]所言，[[Habitus|习性]]如果突兀地进入一个与自身不配合的[[Champ|场域]]，会产生一种如同鱼离了水的感觉（郑雅君，2023，引 Bourdieu & Wacquant, 1992）
+> > 如[[wiki-Pierre Bourdieu|布迪厄]]所言，[[Habitus|习性]]如果突兀地进入一个与自身不配合的[[Champ|场域]]，会产生一种如同鱼离了水的感觉（郑雅君，2023，引 Bourdieu & Wacquant, 1992）
 >
 
 ## 核心要素

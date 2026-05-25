@@ -44,7 +44,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> 教育研究为什么多年来极少影响教育实践？过去 15 年推动[[Evidence-Based Reform|证据本位改革]]的三项进展是什么？一个以已验证项目系统填充学校三层教学（Tier 1/2/3）的未来将如何改变教育？
+> 教育研究为什么多年来极少影响教育实践？过去 15 年推动[[Evidence-Based Reform|证据本位改革]]的三项进展是什么？一个以已验证项目系统填充学校三层教学（[[Top Institute for Evidence-Based Education Research|TIER]] 1/2/3）的未来将如何改变教育？
 >
 > > "Why is it that educational research so rarely has an impact on the practice of education?" (p. 2)
 
@@ -90,7 +90,7 @@ updated: '2026-05-18'
 >
 > 以已验证项目填充 RTI 三层的系统性方案。Slavin 论证这是 EBR 目前最有证据支撑的应用领域——阅读和数学的个别辅导已积累大量强证据，系统整合后可以几乎确保高危学生成功。
 >
-> 关键数据：Tier 2 辅导[[Effect Size|效应量]]普遍 +0.20 ~ +0.34；Tier 3 一对一辅导效应量可达 +0.30 ~ +0.86。
+> 关键数据：[[Top Institute for Evidence-Based Education Research|TIER]] 2 辅导[[Effect Size|效应量]]普遍 +0.20 ~ +0.34；Tier 3 一对一辅导效应量可达 +0.30 ~ +0.86。
 >
 > ### 4. 良性循环的愿景
 >

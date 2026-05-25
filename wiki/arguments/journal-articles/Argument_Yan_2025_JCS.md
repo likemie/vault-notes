@@ -1,20 +1,20 @@
 ---
 title: Argument_Yan_2025_JCS
-summary: "以 Cuban 课程变革三因素为框架，对比分析香港通识教育科的创立（2009）与废除（2021），揭示全球化论述的工具性使用与国家安全的突变性介入"
+summary: 以 Cuban 课程变革三因素为框架，对比分析香港通识教育科的创立（2009）与废除（2021），揭示全球化论述的工具性使用与国家安全的突变性介入
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Journal of Curriculum Studies
-citation: 'Yan, K. C. A., & Morris, P. (2025). The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong. Journal of Curriculum Studies, 57(4), 480–494.'
+citation: "Yan, K. C. A., & Morris, P. (2025). The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong. Journal of Curriculum Studies, 57(4), 480–494."
 tags:
-- curriculum-change
-- hong-kong
-- liberal-studies
-- national-education
-- policy-borrowing
-- world-culture-theory
-- region/china
-- level/k12
+  - curriculum-change
+  - hong-kong
+  - liberal-studies
+  - national-education
+  - policy-borrowing
+  - world-culture-theory
+  - region/china
+  - level/k12
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"
@@ -26,17 +26,17 @@ related_theories:
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
 related_persons:
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_facts:
   - "[[Citizenship and Social Development]]"
   - "[[Liberal Studies]]"
 related_arguments: []
 sources:
   - "[[Yan_2025_JCS]]"
-part_of: ''
+part_of: ""
 status: draft
-created: '2026-05-01'
-updated: '2026-05-18'
+created: 2026-05-01
+updated: 2026-05-18
 ---
 ## 研究问题
 
@@ -57,7 +57,7 @@ updated: '2026-05-18'
 > - **Tröhler (2023) 国家利益驱动课程变革** — 废除阶段的核心解释框架
 > - **Vickers & Morris (2022) 威权国家主义与教育** — 解释中共如何通过教育确保边疆忠诚
 >
-> 论文的方法论立场：来自 Apple、[[Pierre Bourdieu|Bourdieu]]、Kliebard 的批判视角——将学校科目视为"最典型的社会与政治建构"（Goodson & Marsh, 1996, p. 1）。
+> 论文的方法论立场：来自 Apple、[[wiki-Pierre Bourdieu|Bourdieu]]、Kliebard 的批判视角——将学校科目视为"最典型的社会与政治建构"（Goodson & Marsh, 1996, p. 1）。
 
 ## 研究方法
 

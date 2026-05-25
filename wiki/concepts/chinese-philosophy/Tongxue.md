@@ -1,12 +1,11 @@
 ---
 title: Tongxue
 aliases:
-  - 同学
   - 同學
   - tongxue
   - learning peer
   - learning friend
-summary: "中文对学校同伴的称谓，字面意为一起学习的人，与西方强调平等地位的peer概念形成对比，反映东亚文化中同伴作为学习朋友的功能定位"
+summary: 中文对学校同伴的称谓，字面意为一起学习的人，与西方强调平等地位的peer概念形成对比，反映东亚文化中同伴作为学习朋友的功能定位
 type: concept
 tags:
   - region/east-asia
@@ -73,7 +72,7 @@ updated: 2026-05-23
 
 同学不仅是碰巧在同一时间、同一教师下学习的人，而是志同道合的朋友——追求相同人生目标的人。他们是彼此的**支持者**。《论语》开篇第二句即是："有朋自远方来，不亦乐乎？"——[[Confucius|孔子]]将远道而来的同道中人一同学习视为快乐（Li, 2012, pp.100–101）。
 
-### 3. 切磋琢磨（qiecuo zhuomo）
+### 3. 切磋琢磨
 
 > [!quote]
 > "如切如磋，如琢如磨"（Like bone carved and polished, Like jade cut and ground）

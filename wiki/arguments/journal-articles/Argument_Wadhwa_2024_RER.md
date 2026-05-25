@@ -70,10 +70,10 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：比较综述与描述性分析。作者识别美国和英国 43 个清算中心，按是否发布自身有效性评级、是否可在线访问、是否聚焦 pre-K 至大学教育干预与教育结果筛选出 12 个教育清算中心（Wadhwa et al., 2024, p.5）。
+> - 方法：比较综述与描述性分析。作者识别美国和英国 43 个清算中心，按是否发布自身有效性评级、是否可在线访问、是否聚焦 pre-K 至[[The Great Learning|大学]]教育干预与教育结果筛选出 12 个教育清算中心（Wadhwa et al., 2024, p.5）。
 > - 数据来源：2019 年 6 月至 2020 年 8 月，作者收集并编码 12 个清算中心网站资料，包括目标人群、政策焦点、资金来源、被评价干预类型、研究评级过程、单项研究与整体项目效果标准、项目纳入标准等（Wadhwa et al., 2024, p.5）。
 > - 样本：评级一致性分析最终包括 10 个清算中心的 1,359 个教育项目；两个清算中心被排除在量化一致性分析之外，原因是其项目评级方式或项目命名/状态不适合纳入同一比较框架（Wadhwa et al., 2024, pp.16–17）。
-> - 案例分析：作者进一步细读 [[Open Court Reading]]、[[Success for All]]、Peer-Assisted Learning Strategies、Quantum Opportunity Program、Communities in Schools 五个被多个清算中心评价的项目，以解释评级差异的具体来源（Wadhwa et al., 2024, pp.22–25）。
+> - 案例分析：作者进一步细读 [[Open Court Reading]]、[[Success for All]]、[[Peer-Assisted Learning Strategies]]、[[Quantum Opportunity Program]]、[[Communities in Schools]] 五个被多个清算中心评价的项目，以解释评级差异的具体来源（Wadhwa et al., 2024, pp.22–25）。
 
 ## 表格提要
 
@@ -222,7 +222,7 @@ updated: '2026-05-18'
 
 > [!success] 主要发现
 > - 12 个教育清算中心中，4 个只关注教育，8 个覆盖教育及其他社会政策领域；[[What Works Clearinghouse|WWC]] 和 [[Best Evidence Encyclopedia|BEE]] 覆盖更广泛的教育结果与干预，而 [[National Dropout Prevention Center|NDPC]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] 等机构聚焦更窄主题（Wadhwa et al., 2024, p.6）。
-> - 7 个清算中心由美国政府部门、研究机构或政府-大学伙伴关系资助；WWC 已获得美国教育部超过 1 亿美元支持，远高于多数其他清算中心（Wadhwa et al., 2024, p.8）。
+> - 7 个清算中心由美国政府部门、研究机构或政府-[[The Great Learning|大学]]伙伴关系资助；WWC 已获得美国教育部超过 1 亿美元支持，远高于多数其他清算中心（Wadhwa et al., 2024, p.8）。
 > - 所有清算中心都偏好 [[Randomised Controlled Trials|RCT]]，但对 RCT 执行质量的判定不同：只有 WWC 对集群层级随机分配提供深入说明，[[Social Programs That Work|SPTW]]、[[Promise Neighborhoods Research Consortium|PNRC]] 和 Blueprints 要求[[Intent-to-Treat Analysis|意向治疗分析]]，WWC 在特定条件下允许 CACE（Wadhwa et al., 2024, p.9）。
 > - 对 [[Quasi-Experimental Designs|QED]] 的处理比 RCT 更分散：所有清算中心承认一般 QED，但 RDD 与 ITS 仅被部分机构认真纳入；WWC 是将 RDD 和其他 QED 作为重要因果推断工具并制定标准的主要例外（Wadhwa et al., 2024, pp.9–11）。
 > - 1,359 个项目中 1,131 个（83.2%）只被一个清算中心评级，164 个（12.1%）被两个评级，45 个（3.3%）被三个评级，15 个（1.1%）被四个评级，4 个（0.3%）被五个评级（Wadhwa et al., 2024, p.18）。
@@ -235,7 +235,7 @@ updated: '2026-05-18'
 > - [[Success for All]] — 五个清算中心评价该全校改革/读写项目，均未给出负面结论，但 WWC 按结果域给出从 recommended 到 mixed 的不同判断，BEE 按不同项目变体给出强/中等证据，其他机构使用的研究数量也高度不同；该案例显示结果域和项目变体会影响评级解释（Wadhwa et al., 2024, p.23）。
 > - [[Peer-Assisted Learning Strategies]] — 五个清算中心对 PALS 的整体项目、阅读版本、数学版本和不同结果域给出分散判断；[[National Dropout Prevention Center|NDPC]] 推荐，Blueprints 认为 promising，WWC 随结果域变化，BEE 推荐 PALS Math，[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 不推荐任何版本；该案例突出"研究纳入集合不同"和"项目组件拆分不同"的影响（Wadhwa et al., 2024, pp.23–24）。
 > - [[Quantum Opportunity Program]] — QOP 和 Eisenhower QOP 在多个清算中心中出现中度分歧：NDPC 认为 QOP promising，Blueprints 和 WWC 不认为其达到 promising；Eisenhower QOP 被 Blueprints 评为 promising，但 CMFR 不能给出 promising 评级；该案例显示项目更新版本和研究可获得性会改变评级（Wadhwa et al., 2024, pp.24–25）。
-> - [[Communities in Schools]] — 五个清算中心对 CIS 出现清晰分歧：NDPC 推荐，[[Promising Practices Network|PPN]] 和 CNCS Evidence Exchange 认为 promising/中等支持，Blueprints 与 CMFR 不背书；作者用该案例说明，利益相关者查询同一项目时可能遇到由标准、纳入研究和更新时间共同造成的相互冲突结论（Wadhwa et al., 2024, p.25）。
+> - [[Communities in Schools]] — 五个清算中心对 CIS 出现清晰分歧：NDPC 推荐，[[Promising Practices Network|PPN]] 和 [[CNCS Evidence Exchange]] 认为 promising/中等支持，Blueprints 与 CMFR 不背书；作者用该案例说明，利益相关者查询同一项目时可能遇到由标准、纳入研究和更新时间共同造成的相互冲突结论（Wadhwa et al., 2024, p.25）。
 
 ## 关键引用
 

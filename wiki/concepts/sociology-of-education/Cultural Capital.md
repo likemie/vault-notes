@@ -3,15 +3,15 @@ title: Cultural Capital
 aliases:
   - 文化资本
   - cultural capital
-summary: "Pierre Bourdieu 的核心概念，指个体通过社会化获得并在特定场域中具有交换价值的文化资源，通常包括具身化、客体化和制度化三种形态。"
+summary: Pierre Bourdieu 的核心概念，指个体通过社会化获得并在特定场域中具有交换价值的文化资源，通常包括具身化、客体化和制度化三种形态。
 type: concept
 tags:
-- cultural-capital
-- bourdieu
-- social-stratification
-- paradigm/critical
-- region/france
-- level/higher-ed
+  - cultural-capital
+  - bourdieu
+  - social-stratification
+  - paradigm/critical
+  - region/france
+  - level/higher-ed
 related_concepts:
   - "[[Champ]]"
   - "[[Habitus]]"
@@ -27,7 +27,7 @@ related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons:
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
@@ -35,8 +35,8 @@ related_arguments: []
 sources: []
 confidence: medium
 status: draft
-created: '2026-05-08'
-updated: '2026-05-18'
+created: 2026-05-08
+updated: 2026-05-18
 ---
 
 # Cultural Capital
@@ -46,7 +46,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 文化资本（Cultural Capital）是 [[Pierre Bourdieu]] 提出的核心概念，指个体通过家庭社会化和教育过程获得的、在特定社会[[Champ|场域]]中具有交换价值的文化资源——包括知识、技能、品味、语言习惯和文凭等。Bourdieu 认为，学校教育不是中立的精英选拔机制，而是以优势阶层家庭传递的文化资本为前提，从而将社会出身的不平等转化为学业成就的不平等。[[Yajun Zheng|郑雅君]]（2023）将文化资本（特别是其具身化形态）作为分析中国精英大学生出路分化的关键变量。
+> 文化资本（Cultural Capital）是 [[wiki-Pierre Bourdieu]] 提出的核心概念，指个体通过家庭社会化和教育过程获得的、在特定社会[[Champ|场域]]中具有交换价值的文化资源——包括知识、技能、品味、语言习惯和文凭等。Bourdieu 认为，学校教育不是中立的精英选拔机制，而是以优势阶层家庭传递的文化资本为前提，从而将社会出身的不平等转化为学业成就的不平等。[[Yajun Zheng|郑雅君]]（2023）将文化资本（特别是其具身化形态）作为分析中国精英大学生出路分化的关键变量。
 
 > [!quote]
 > "布迪厄在《区隔》一书中指出，即使在学历相同的情况下，社会出身的差别仍然体现为文化能力的差别……当人们对一种严格的、可严格评测的能力要求越少，而对一种文化的熟习要求越多，这种差别就越明显"（郑雅君，2023，引 Bourdieu, 1984, p.63）
@@ -77,7 +77,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 
-[[Pierre Bourdieu|Bourdieu]] 区分文化资本的三种存在形态：
+[[wiki-Pierre Bourdieu|Bourdieu]] 区分文化资本的三种存在形态：
 
 - **具身化文化资本（Embodied Cultural Capital）**：内化于个体身体和心智中的持久倾向——如语言能力、审美品味、行为举止、思考方式。它需要时间投入来累积，且无法像金钱那样即时传递。[[Yajun Zheng|郑雅君]]（2023）第三章的核心关注正是家庭背景如何转化为这种"具身化的文化资本"——它表现为学生在大学中对[[Champ|场域]]规则的直觉性理解或不理解
 - **客体化文化资本（Objectified Cultural Capital）**：以物质对象形式存在的文化产品——如书籍、艺术品、工具等。拥有这些物品需要经济资本，但真正"占有"其文化意义则需要具身化文化资本
@@ -88,7 +88,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Pierre Bourdieu]] — 文化资本是 Bourdieu 实践理论的核心操作概念之一。在[([[Habitus|习性]])(资本)] + [[Champ|场域]] = 实践的关系式中，文化资本是行动者在场域中争夺的核心赌注，习性决定了文化资本被如何获取、积累和使用
+> - [[wiki-Pierre Bourdieu]] — 文化资本是 Bourdieu 实践理论的核心操作概念之一。在[([[Habitus|习性]])(资本)] + [[Champ|场域]] = 实践的关系式中，文化资本是行动者在场域中争夺的核心赌注，习性决定了文化资本被如何获取、积累和使用
 > - [[Culture as Toolkit]] — Swidler (1986) 的文化工具箱理论提供了与 Bourdieu 互补的视角：文化资本不仅定义"什么是有价值的"，更为行动者提供了在特定场域中策略性行动的"工具"
 
 ---
@@ -99,7 +99,7 @@ updated: '2026-05-18'
 
 ### 学业成就的隐性前提
 
-[[Pierre Bourdieu|布迪厄]]和帕斯隆（1979）指出，"各种教育……暗含地以一整套有[[Bildung|教养]]阶级传递的知识、本领、表达模式为前提"，导致"特权者游戏面前根本性的不平等"（[[Yajun Zheng|郑雅君]]，2023，引 Bourdieu & Passeron, 1979, pp.21-22）。精英大学的教学语言、学术规范、课堂讨论风格和师生互动模式本身预设了学生已具备特定类型的文化资本。
+[[wiki-Pierre Bourdieu|布迪厄]]和帕斯隆（1979）指出，"各种教育……暗含地以一整套有[[Bildung|教养]]阶级传递的知识、本领、表达模式为前提"，导致"特权者游戏面前根本性的不平等"（[[Yajun Zheng|郑雅君]]，2023，引 Bourdieu & Passeron, 1979, pp.21-22）。精英大学的教学语言、学术规范、课堂讨论风格和师生互动模式本身预设了学生已具备特定类型的文化资本。
 
 ### 资本化过程：家庭资源 → 大学场域中的文化资本
 

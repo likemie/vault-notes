@@ -6,7 +6,7 @@ aliases:
   - innate ability assumption
   - fixed ability belief
   - 天赋信念
-summary: "西方文化中深植的信念，认为智力成就主要来源于先天禀赋而非后天努力，是nerd同伴文化的重要文化根源之一"
+summary: 西方文化中深植的信念，认为智力成就主要来源于先天禀赋而非后天努力，是nerd同伴文化的重要文化根源之一
 type: concept
 tags:
   - region/western
@@ -24,7 +24,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []
@@ -92,7 +92,7 @@ updated: 2026-05-24
 ## 与文化的关系
 
 > [!note]
-> 天赋假设作为一种 [[Doxa]]（[[Pierre Bourdieu|Bourdieu]] 的"自明真理"）在西方文化中运作——它被如此广泛地视为"常识"，以至于人们不再意识到它是一个**文化建构的假设**，而非客观事实。
+> 天赋假设作为一种 [[Doxa]]（[[wiki-Pierre Bourdieu|Bourdieu]] 的"自明真理"）在西方文化中运作——它被如此广泛地视为"常识"，以至于人们不再意识到它是一个**文化建构的假设**，而非客观事实。
 
 与东亚文化形成鲜明对比：东亚的可变自我观认为，能力可以通过努力和社会影响来改变。"聪明"在东亚学习传统中不是出生时就分配好的固定属性——它是学习的**结果**而非前提（Li, 2012, pp.109–110）。在这一信念体系中，"努力学习却被认为低能力"的逻辑完全无法成立。
 

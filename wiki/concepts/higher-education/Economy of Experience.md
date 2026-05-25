@@ -4,14 +4,14 @@ aliases:
   - 履历经济学
   - economy of experience
   - 履历资本
-summary: "大学生将课余经历、活动和自我展示精细投资管理以积累履历资本的竞争逻辑，是高等教育就业竞争向生活全域扩展的表现"
+summary: 大学生将课余经历、活动和自我展示精细投资管理以积累履历资本的竞争逻辑，是高等教育就业竞争向生活全域扩展的表现
 type: concept
 tags:
-- economy-of-experience
-- employability
-- higher-education
-- cultural-capital
-- level/higher-ed
+  - economy-of-experience
+  - employability
+  - higher-education
+  - cultural-capital
+  - level/higher-ed
 related_concepts:
   - "[[Credential Inflation]]"
   - "[[Social Engagement]]"
@@ -23,14 +23,14 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Pierre Bourdieu]]"
+  - "[[wiki-Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources: []
 confidence: medium
 status: draft
-created: '2026-05-08'
-updated: '2026-05-18'
+created: 2026-05-08
+updated: 2026-05-18
 ---
 
 # Economy of Experience
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 > [!tip]
 > - [[Employability]]（Brown, 2003）— 就业力的相对化是履历经济学的概念前提
 > - [[Credential Inflation]]（Collins, 1979）— 文凭通胀提供了履历经济学兴起的结构性条件
-> - [[Cultural Capital]]（[[Pierre Bourdieu|Bourdieu]]）— 履历资本的积累能力本身是阶层化的，优势阶层拥有更多可用于投资课余经历的文化和经济资本（[[Yajun Zheng|郑雅君]]，2023）
+> - [[Cultural Capital]]（[[wiki-Pierre Bourdieu|Bourdieu]]）— 履历资本的积累能力本身是阶层化的，优势阶层拥有更多可用于投资课余经历的文化和经济资本（[[Yajun Zheng|郑雅君]]，2023）
 
 ---
 
