@@ -37,7 +37,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> OECD 的[[International Education|国际教育]]指标如何在几十年间从"几乎不可能"的项目转变为常规化、年度性的出版物 *Education at a Glance*（[[Education at a Glance|EAG]]），其过程中涉及怎样的实践、妥协和权力转移？（Gorur, 2014, p.4）
+> OECD 的[[International Education|国际教育]]指标如何在几十年间从"几乎不可能"的项目转变为常规化、年度性的出版物 *[[Education at a Glance]]*（[[Education at a Glance|EAG]]），其过程中涉及怎样的实践、妥协和权力转移？（Gorur, 2014, p.4）
 
 ## 理论框架
 

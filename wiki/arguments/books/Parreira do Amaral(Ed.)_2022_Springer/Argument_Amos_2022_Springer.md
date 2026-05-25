@@ -17,14 +17,15 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Response-ability]]"
   - "[[Transitology]]"
+  - "[[Sympoiesis]]"
   - "[[International Education]]"
+  - "[[The Great Learning]]"
   - "[[School Autonomy]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Vergegenkunft]]"
   - "[[Educational Technology Industry]]"
   - "[[Learning Analytics]]"
   - "[[SF (Haraway)]]"
-  - "[[Sympoiesis]]"
   - "[[Humosity]]"
   - "[[Mondialisation]]"
   - "[[Ubuntu]]"
@@ -74,7 +75,7 @@ updated: '2026-05-18'
 > [!abstract] 理论框架
 > - [[Transitology]] — Cowen (1996, 2000) 的转型学概念是整章的分析骨架：教育在宏观社会转型中扮演"摧毁过去、重新定义未来"的象征性和重构性角色。Amos 以此判断：从国家中心到市场中心的教育关系转变，就是当下的 transitology（Amos, 2022, pp.53–54）
 > - [[World Society Theory]] — 援引 Ramirez & Boli (1987) 对大众教育政治建构的历史分析：18 世纪欧洲民族国家如何通过教育创造 membership（成员身份）——建立忠诚与归属的纽带，同时划定"谁属于我们、谁是外人"的边界（Amos, 2022, pp.54–55）。这一分析为理解"国家中心教育"提供了历史基线
-> - [[Autopoiesis]] — Maturana & Varela 的自创生[[Luhmann's Systems Theory|系统理论]]被 Escobar 引入社会转型分析。Amos 将 autopoiesis（自我制造）与 Haraway 的 sympoiesis（共同制造）并置对比，作为两种世界观在理论层面的映射（Amos, 2022, pp.61–63）
+> - [[Autopoiesis]] — Maturana & Varela 的自创生[[Luhmann's Systems Theory|系统理论]]被 Escobar 引入社会转型分析。Amos 将 autopoiesis（自我制造）与 Haraway 的 [[Sympoiesis]]（共同制造）并置对比，作为两种世界观在理论层面的映射（Amos, 2022, pp.61–63）
 >
 
 ## 研究方法
@@ -116,7 +117,7 @@ updated: '2026-05-18'
 > - 横轴左端：国际经济
 > - 横轴右端：国际知识竞争
 >
-> > 例：想象今天一所英国大学——纵轴上端不再是"如何让更多人上大学"，而是"我们的排名多少、毕业生就业率多高、每个学生的培养成本多少"。纵轴下端"劳动力分化"意味着教育不再追求统一的公民身份，而是根据市场需求将学生分流到不同层级和类型的岗位。[[School Autonomy|学校自主权]]改革（学校为自己的"竞争力"负责）和跨国排名系统正是这个新模型的操作工具。（Cowen, 1996, pp.160–162；Amos, 2022, p.55）
+> > 例：想象今天一所英国[[The Great Learning|大学]]——纵轴上端不再是"如何让更多人上大学"，而是"我们的排名多少、毕业生就业率多高、每个学生的培养成本多少"。纵轴下端"劳动力分化"意味着教育不再追求统一的公民身份，而是根据市场需求将学生分流到不同层级和类型的岗位。[[School Autonomy|学校自主权]]改革（学校为自己的"竞争力"负责）和跨国排名系统正是这个新模型的操作工具。（Cowen, 1996, pp.160–162；Amos, 2022, p.55）
 >
 > Amos 特别强调一个容易忽略的时间节点：**知识的市场化并非近期现象**。早在 1950 年代末，经济学理论已开始将"知识"作为生产要素讨论；[[Sputnik Shock 1957]]（1957 年苏联发射人造卫星）之后，OECD 立即将注意力转向 STEM 教育——这时距"[[Knowledge-Based Economy]]"成为流行话语还有几十年（Amos, 2022, p.56）。
 >
@@ -207,7 +208,7 @@ updated: '2026-05-18'
 >
 > > 例：传统的环保教育可能讲的是"人类必须保护自然"——一个典型的以人类为中心的故事。Haraway 式的叙事则可能从一只蜜蜂的角度开始：蜜蜂如何感知花的颜色（蜜蜂能看到紫外线）、蜜蜂的采蜜行为如何塑造了花和农作物的进化、蜜蜂种群的崩溃如何牵连到你的早餐咖啡和苹果派。在这个故事里，没有人是"主角"，人和蜜蜂是共同演化、互相塑造的。
 >
-> Haraway 将她的核心概念命名为 **sympoiesis**（共同制造）——与 [[Humberto Maturana]] 和 [[Francisco Varela]] 的 **[[Autopoiesis]]**（自我制造）形成对照。Autopoiesis 强调生命系统是自我指涉、自我生产的；Sympoiesis 强调生命只能通过"与他人一起"来生产——"回应彼此的需求"，也就是 **response-ability**（既是"responsibility"责任，也是"ability to respond"回应的能力）（Amos, 2022, p.62）。
+> Haraway 将她的核心概念命名为 **sympoiesis**（共同制造）——与 [[Humberto Maturana]] 和 [[Francisco Varela]] 的 **[[Autopoiesis]]**（自我制造）形成对照。Autopoiesis 强调生命系统是自我指涉、自我生产的；Sympoiesis 强调生命只能通过"与他人一起"来生产——"回应彼此的需求"，也就是 **[[Response-ability]]**（既是"responsibility"责任，也是"ability to respond"回应的能力）（Amos, 2022, p.62）。
 >
 > > 例：把 autopoiesis 和 sympoiesis 的差异映射到教育上。Autopoiesis 式的课堂：每个学生独立完成自己的学习任务，目标是自我完善和自我提升——"我学会了什么"。Sympoiesis 式的课堂：学习发生在学生之间、学生与教师之间、学生与周围环境之间的持续互动中——"我们一起学到了什么，我们如何回应彼此的需求"。前者是超人类主义愿景的逻辑延伸，后者是后人类主义替代方案的缩影。
 >
@@ -251,7 +252,7 @@ updated: '2026-05-18'
 >
 > ### 知识市场化的时间深度
 >
-> 知识被建构为生产要素并非 1990s"[[Knowledge-Based Economy|知识经济]]"话语的产物。1950s 末经济理论已将知识作为 productive factor 讨论；Sputnik Shock（1957）后 OECD 对 STEM 教育的关注标志着"经济-知识"关联的制度化起点——远早于[[New Public Management|新公共管理]]成为主流话语（Amos, 2022, p.56）。
+> 知识被建构为生产要素并非 1990s"[[Knowledge-Based Economy|知识经济]]"话语的产物。1950s 末经济理论已将知识作为 productive factor 讨论；[[Sputnik Shock 1957|Sputnik Shock]]（1957）后 OECD 对 STEM 教育的关注标志着"经济-知识"关联的制度化起点——远早于[[New Public Management|新公共管理]]成为主流话语（Amos, 2022, p.56）。
 >
 > ### 数字化的三重不可逆驱动力
 >
@@ -265,13 +266,13 @@ updated: '2026-05-18'
 >
 > Escobar (2018) 的核心主张是本体论层面的：转型不是被设计的，而是涌现的。具体手段是 Irwin (2015) 的十条转型设计原则——以日常生活为设计的最根本情境、基于地方的全球化联网、放大草根方案、最大化最广泛需求的满足（Amos, 2022, pp.61–62）。
 >
-> ### sympoiesis vs [[Autopoiesis|autopoiesis]] 的世界观分歧
+> ### [[Sympoiesis]] vs [[Autopoiesis|autopoiesis]] 的世界观分歧
 >
 > Haraway 的 sympoiesis（共同制造）以"回应彼此需求"的伦理替代 autopoiesis 的"自我指涉"逻辑。[[Humosity]] 概念将人类彻底去中心化——不是"保护自然"的环保主义，而是承认人类只是物质循环的一个环节（Amos, 2022, p.62）。
 >
 > ### 大众教育与[[Posthumanism|后人类主义]]难以调和
 >
-> Escobar 和 Haraway 没有将教育作为论述重点，因为在他们看来，大众教育的 DNA（竞争、增长、rugged individualism、西方理性作为唯一有效知识）本身就是问题的一部分。Amos 的诊断是：需要保留大众教育的公共问责性，但用 connectivity 和 response-ability 作为组织原则重建其理论基础（Amos, 2022, pp.63–64）。
+> Escobar 和 Haraway 没有将教育作为论述重点，因为在他们看来，大众教育的 DNA（竞争、增长、rugged individualism、西方理性作为唯一有效知识）本身就是问题的一部分。Amos 的诊断是：需要保留大众教育的公共问责性，但用 connectivity 和 [[Response-ability]] 作为组织原则重建其理论基础（Amos, 2022, pp.63–64）。
 >
 
 ## 关键引用

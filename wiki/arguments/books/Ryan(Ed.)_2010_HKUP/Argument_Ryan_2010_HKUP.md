@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
+  - "[[The Great Learning]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
   - "[[Champ]]"
@@ -32,7 +33,8 @@ related_facts:
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Ryan_2010_ChineseLearner]]"
-sources: []
+sources:
+  - "[[Ryan(Ed.)_2010_HKUP]]"
 part_of: ''
 status: draft
 created: '2026-05-16'
@@ -46,7 +48,7 @@ updated: '2026-05-18'
 > [!question]
 > 本书编者 Ryan 与 Slethaug 试图回答两个相互关联的问题：第一，[[International Education|国际教育]]在近年来如何以及为何爆炸式增长，[[Chinese Learner|中国学习者]]在这一过程中扮演了什么角色？第二，"中国学习者"这一概念本身如何被西方学界刻板化，这些刻板印象如何影响教学实践，以及如何打破它们？（Slethaug, 2010, pp.2–3）
 
-> 编者指出，大学研究者与中小学教师之间长期缺乏对这一现象的跨学段对话，导致各自的认识局限于特定专业圈层内——这本书正是为了弥合这一鸿沟（Slethaug, 2010, p.2）。
+> 编者指出，[[The Great Learning|大学]]研究者与中小学教师之间长期缺乏对这一现象的跨学段对话，导致各自的认识局限于特定专业圈层内——这本书正是为了弥合这一鸿沟（Slethaug, 2010, p.2）。
 
 
 ## 理论框架
@@ -62,7 +64,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info]
-> 本书为编辑论文集（edited volume），各章研究设计各不相同。整体采用论文集的组织方式：将九篇文章按"奠定基础 → 聚焦香港[[International Schools|国际学校]] → 考察跨国高等教育"的逻辑分为三部分，以实现编者所期望的"中小学与大学教育者之间的跨学段对话"（Slethaug, 2010, p.2）。
+> 本书为编辑论文集（edited volume），各章研究设计各不相同。整体采用论文集的组织方式：将九篇文章按"奠定基础 → 聚焦香港[[International Schools|国际学校]] → 考察跨国高等教育"的逻辑分为三部分，以实现编者所期望的"中小学与[[The Great Learning|大学]]教育者之间的跨学段对话"（Slethaug, 2010, p.2）。
 
 
 ## 论证结构
@@ -88,7 +90,7 @@ updated: '2026-05-18'
 
 > [!success]
 > ### 各章概览
-> - [[Argument_Slethaug_2010_InternationalEducation]] — 考察全球化时代国际教育的增长、学生交流机会的扩张、[[International Schools|国际学校]]和海外大学项目的兴起，以及中国学习者在其中的重要角色（第 1 章）
+> - [[Argument_Slethaug_2010_InternationalEducation]] — 考察全球化时代国际教育的增长、学生交流机会的扩张、[[International Schools|国际学校]]和海外[[The Great Learning|大学]]项目的兴起，以及中国学习者在其中的重要角色（第 1 章）
 > - [[Argument_Ryan_2010_ChineseLearner]] — 审视关于中国学习者的缺陷型和优势型刻板印象，主张通过全面考察学生文化背景、教育经历和教师文化预设来打破本质化认知（第 2 章）
 > - Argument_Forse_2010_ESF — 从结构层面分析 [[English Schools Foundation Hong Kong|ESF]] 系统从英国国民学校向接纳 40%–50% 本地华人学生转型的过程及其对香港公校系统的冲击（第 3 章）
 > - Argument_Jabal_2010_InternationalSchooling — 以 1,270 份问卷调查和 34 人访谈为基础，考察香港华人学生在国际学校中的多元文化体验与"[[Fourth Culture|第四文化]]"调适复杂性（第 4 章）
@@ -107,4 +109,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ryan(Ed.)_2010_HKUP
+- [[Ryan(Ed.)_2010_HKUP]]

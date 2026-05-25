@@ -24,6 +24,7 @@ related_methods:
   - "[[Qualitative Research]]"
 related_persons: []
 related_facts:
+  - "[[What Works Clearinghouse]]"
   - "[[Success for All]]"
 related_arguments: []
 sources:
@@ -78,7 +79,7 @@ updated: '2026-05-18'
 >
 > **传播知晓维度：**
 > - Slavin et al. (2020) 介绍了 Johns Hopkins University 教育改革研究中心通过网站、通讯和博客传播研究证据的努力
-> - What Works Clearinghouse 作为 IES 旗舰项目，审查多领域的实践方案研究
+> - [[What Works Clearinghouse]] 作为 IES 旗舰项目，审查多领域的实践方案研究
 >
 > **实施激励维度：**
 > - Ross & Morrison (2020) 以美国大型多元化学区的复杂改革案例，说明政策与证据期望如何被多重议程和利益相关者个人需求过滤

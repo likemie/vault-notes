@@ -25,7 +25,8 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Tongxue]]"
   - "[[Geopolitics of Knowledge]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Matching]]"
 related_persons: []
@@ -102,7 +103,7 @@ updated: 2026-05-20
 
 GUI 是算法系统"捕获"用户的界面。为了维持用户交互（从而持续获取数据），GUI 大量使用 [[Gamification]] 原则——积分、徽章、等级、排行榜、即时[[Feedback|反馈]]循环。Zichermann & Cunningham（2011, pp.ix–x）在其 Gamification 设计手册中明确表述了目标："只有通过 Gamification 的力量，我们才能使那种体验可预测、可重复且具有经济回报。"
 
-Gamification 的设计逻辑根植于行为主义心理学——特别是 Skinner 的操作条件反射（operant conditioning）。Schüll（2014, pp.147–154）在拉斯维加斯老虎机研究中发现，硅谷开发者明确引用操作条件反射理论来建构产品。这不是巧合——在行为主义框架中，学习本身就是通过正反馈来调节和强化特定行为，**不需要理解**（Jornitz & Klinge, 2022, pp.236–237）。
+Gamification 的设计逻辑根植于行为主义心[[Neo-Confucianism|理学]]——特别是 Skinner 的操作条件反射（operant conditioning）。Schüll（2014, pp.147–154）在拉斯维加斯老虎机研究中发现，硅谷开发者明确引用操作条件反射理论来建构产品。这不是巧合——在行为主义框架中，学习本身就是通过正反馈来调节和强化特定行为，**不需要理解**（Jornitz & Klinge, 2022, pp.236–237）。
 
 > 例：Duolingo 使用连续打卡天数、宝石奖励、排行榜和晋级联赛来维持用户的学习行为。从 Gamification 的角度看，这很成功——用户每天打开 App。但一个用户可能连续打卡 100 天、获得大量宝石、升至钻石联赛，却仍然无法用所学语言进行基本的对话。她学到的是"如何在这个系统中获得奖励"，而不是"如何用这门语言与人交流"。这就是 Schrape（2014, p.43）所说的：如果只有行为被追踪和调节，"洞察就不再相关，理性的时代最终走向终结"。
 

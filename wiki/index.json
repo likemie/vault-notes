@@ -69,6 +69,16 @@
     ]
   },
   {
+    "title": "Family Social Model",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Family Social Model.md",
+    "aliases": [
+      "家庭社会关系模型",
+      "类亲属关系",
+      "family-based social relations"
+    ]
+  },
+  {
     "title": "Filial Piety",
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Filial Piety.md",
@@ -88,6 +98,16 @@
       "wǔ lún",
       "five cardinal human relationships",
       "five Confucian relationships"
+    ]
+  },
+  {
+    "title": "Four Sprouts",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Four Sprouts.md",
+    "aliases": [
+      "四端",
+      "siduan",
+      "four beginnings"
     ]
   },
   {
@@ -230,6 +250,16 @@
     ]
   },
   {
+    "title": "The Great Learning",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/The Great Learning.md",
+    "aliases": [
+      "大学",
+      "Daxue",
+      "八条目"
+    ]
+  },
+  {
     "title": "Tongxue",
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Tongxue.md",
@@ -306,6 +336,16 @@
     ]
   },
   {
+    "title": "Cooperative Competition",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Cooperative Competition.md",
+    "aliases": [
+      "合作式竞争",
+      "cooperative-competitive",
+      "Fülöp competition"
+    ]
+  },
+  {
     "title": "Cross-National Attraction",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Cross-National Attraction.md",
@@ -364,6 +404,28 @@
     ]
   },
   {
+    "title": "Mind Efficacy and Virtue Efficacy",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Mind Efficacy and Virtue Efficacy.md",
+    "aliases": [
+      "心智效力与美德效力",
+      "心智归因",
+      "美德归因",
+      "mind efficacy",
+      "virtue efficacy"
+    ]
+  },
+  {
+    "title": "Mind-Oriented Learning Process",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Mind-Oriented Learning Process.md",
+    "aliases": [
+      "心智导向学习过程",
+      "mind-oriented process",
+      "Western learning process"
+    ]
+  },
+  {
     "title": "Organizational Actorhood",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Organizational Actorhood.md",
@@ -384,11 +446,43 @@
     ]
   },
   {
+    "title": "Parental Cognitive and Affective Socialization",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Parental Cognitive and Affective Socialization.md",
+    "aliases": [
+      "父母认知与情感社会化",
+      "认知社会化",
+      "情感社会化",
+      "parental socialization"
+    ]
+  },
+  {
+    "title": "Peer-Supported Learning",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Peer-Supported Learning.md",
+    "aliases": [
+      "同伴互助学习",
+      "兵教兵",
+      "peer tutoring Chinese",
+      "互帮互学"
+    ]
+  },
+  {
     "title": "Policy Borrowing",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Policy Borrowing.md",
     "aliases": [
       "政策借用"
+    ]
+  },
+  {
+    "title": "Rote Learning vs Understanding",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Rote Learning vs Understanding.md",
+    "aliases": [
+      "死记硬背与理解",
+      "memorization and understanding",
+      "Chinese learner paradox memory"
     ]
   },
   {
@@ -408,6 +502,16 @@
     "path": "wiki/concepts/comparative-education/Transitology.md",
     "aliases": [
       "转型学"
+    ]
+  },
+  {
+    "title": "Virtue-Oriented Learning Process",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Virtue-Oriented Learning Process.md",
+    "aliases": [
+      "美德导向学习过程",
+      "virtue-oriented process",
+      "East Asian learning process"
     ]
   },
   {
@@ -676,6 +780,17 @@
       "the examined life",
       "Socratic examination",
       "未经省察的生活不值得过"
+    ]
+  },
+  {
+    "title": "Faust",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Faust.md",
+    "aliases": [
+      "浮士德",
+      "浮士德式交易",
+      "Faustian bargain",
+      "Faustian spirit"
     ]
   },
   {
@@ -2150,6 +2265,18 @@
     ]
   },
   {
+    "title": "Emic and Etic",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Emic and Etic.md",
+    "aliases": [
+      "主位与客位",
+      "emic perspective",
+      "etic perspective",
+      "emic approach",
+      "etic approach"
+    ]
+  },
+  {
     "title": "Evidence-Based Education",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Evidence-Based Education.md",
@@ -2725,6 +2852,18 @@
       "儒家学习传统",
       "Confucian learning model",
       "East Asian learning tradition"
+    ]
+  },
+  {
+    "title": "Neo-Confucianism",
+    "type": "theory",
+    "path": "wiki/theories/chinese-philosophy/Neo-Confucianism.md",
+    "aliases": [
+      "新儒家",
+      "宋明理学",
+      "Neo-Confucian",
+      "理学",
+      "心学"
     ]
   },
   {
@@ -3527,6 +3666,15 @@
     ]
   },
   {
+    "title": "David Watkins",
+    "type": "person",
+    "path": "wiki/persons/australia/David Watkins.md",
+    "aliases": [
+      "戴维·沃特金斯",
+      "沃特金斯"
+    ]
+  },
+  {
     "title": "Fazal Rizvi",
     "type": "person",
     "path": "wiki/persons/australia/Fazal Rizvi.md",
@@ -3689,6 +3837,18 @@
     ]
   },
   {
+    "title": "Cheng Brothers",
+    "type": "person",
+    "path": "wiki/persons/china/Cheng Brothers.md",
+    "aliases": [
+      "程颢",
+      "程颐",
+      "二程",
+      "Cheng Hao",
+      "Cheng Yi"
+    ]
+  },
+  {
     "title": "Confucius",
     "type": "person",
     "path": "wiki/persons/china/Confucius.md",
@@ -3738,6 +3898,16 @@
     ]
   },
   {
+    "title": "Xunzi",
+    "type": "person",
+    "path": "wiki/persons/china/Xunzi.md",
+    "aliases": [
+      "荀子",
+      "荀况",
+      "Hsün Tzu"
+    ]
+  },
+  {
     "title": "Yajun Zheng",
     "type": "person",
     "path": "wiki/persons/china/Yajun Zheng.md",
@@ -3761,6 +3931,16 @@
       "朱熹",
       "朱子",
       "Zhuzi"
+    ]
+  },
+  {
+    "title": "Zhuangzi",
+    "type": "person",
+    "path": "wiki/persons/china/Zhuangzi.md",
+    "aliases": [
+      "庄子",
+      "庄周",
+      "Chuang Tzu"
     ]
   },
   {
@@ -4420,6 +4600,18 @@
     "path": "wiki/persons/us/Robert Slavin.md",
     "aliases": [
       "罗伯特·斯莱文"
+    ]
+  },
+  {
+    "title": "Stevenson and Stigler",
+    "type": "person",
+    "path": "wiki/persons/us/Stevenson and Stigler.md",
+    "aliases": [
+      "史蒂文森和斯蒂格勒",
+      "Harold Stevenson",
+      "James Stigler",
+      "The Learning Gap",
+      "学习鸿沟"
     ]
   },
   {

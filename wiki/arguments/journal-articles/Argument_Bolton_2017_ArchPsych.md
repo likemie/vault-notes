@@ -23,6 +23,7 @@ related_concepts:
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
   - "[[Neo-Piagetian Theories]]"
+  - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
 related_methods:
   - "[[Functional Magnetic Resonance Imaging]]"
   - "[[Electroencephalography]]"
@@ -46,9 +47,9 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - piagets-theory-of-cognitive-development — [[Jean Piaget|皮亚杰]]四阶段论作为认知发展的基线框架（Bolton & [[John Hattie|Hattie]], 2017, p.2–3）
-> - neo-piagetian-theories — Pascual-Leone (1970)、Case (1985, 1992)、Fischer (1980) 等[[Neo-Piagetian Theories|新皮亚杰理论]]作为修正框架（Bolton & Hattie, 2017, p.3）
-> - miyake-unity-diversity-framework — Miyake et al. (2000) 的 [[Executive Function|EF]] 统一性与多样性框架用于定义和分解 EF 成分（Bolton & Hattie, 2017, p.4）
+> - [[Piaget's Theory of Cognitive Development|piagets-theory-of-cognitive-development]] — [[Jean Piaget|皮亚杰]]四阶段论作为认知发展的基线框架（Bolton & [[John Hattie|Hattie]], 2017, p.2–3）
+> - [[Neo-Piagetian Theories|neo-piagetian-theories]] — Pascual-Leone (1970)、Case (1985, 1992)、Fischer (1980) 等[[Neo-Piagetian Theories|新皮亚杰理论]]作为修正框架（Bolton & Hattie, 2017, p.3）
+> - [[Miyake's Unity and Diversity Framework of Executive Function|miyake-unity-diversity-framework]] — Miyake et al. (2000) 的 [[Executive Function|EF]] 统一性与多样性框架用于定义和分解 EF 成分（Bolton & Hattie, 2017, p.4）
 
 ## 研究方法
 

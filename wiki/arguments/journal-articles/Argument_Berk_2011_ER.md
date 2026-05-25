@@ -26,6 +26,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Campbell Collaboration]]"
+  - "[[Daubert v Merrell Dow Pharmaceuticals 1993]]"
 related_arguments: []
 sources:
   - "[[Berk_2011_ER]]"
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 > Berk 不依赖单一理论框架，而是基于评估研究方法论的演进历史进行反思性分析。他的论证锚定在：
 > - **[[Potential Outcomes Framework|潜在结果框架]]**（Neyman-Rubin-Holland-Pearl）作为因果效应定义的概念基础
 > - **[[Campbell Collaboration|Campbell]] & Stanley (1963)** 的四种效度框架作为实验设计评估的参照
-> - Daubert 标准的"垃圾科学"概念作为区分证据与垃圾的司法类比（Daubert v Merrell Dow Pharmaceuticals 1993）
+> - Daubert 标准的"垃圾科学"概念作为区分证据与垃圾的司法类比（[[Daubert v Merrell Dow Pharmaceuticals 1993]]）
 
 ## 研究方法
 

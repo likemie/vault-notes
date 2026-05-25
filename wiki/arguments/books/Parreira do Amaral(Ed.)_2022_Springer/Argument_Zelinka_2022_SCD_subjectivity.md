@@ -9,6 +9,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Governmentality]]"
   - "[[Discursive Opportunity Structures]]"
+  - "[[The Great Learning]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
   - "[[VUCA]]"
@@ -64,7 +65,7 @@ book_title: "Geopolitical Transformations in Higher Education_ Imagining, Fabric
 
 ### 第一层：高等教育的新自由主义转型与（新）知识地缘政治的浮现
 
-论证起点是一个已被广泛认可的经验观察：高等教育已经持续经历了新自由主义化和产业化，大学之间相互竞争（Hazelkorn, 2017）、发展新型商业模式（Kehm & Lanzendorf, 2005）、不断追求卓越和全球领导地位（Altbach & Salmi, 2011）。教育被转型为以经济增长和提高生产力为主要目标（Spring, 2015）。
+论证起点是一个已被广泛认可的经验观察：高等教育已经持续经历了新自由主义化和产业化，[[The Great Learning|大学]]之间相互竞争（Hazelkorn, 2017）、发展新型商业模式（Kehm & Lanzendorf, 2005）、不断追求卓越和全球领导地位（Altbach & Salmi, 2011）。教育被转型为以经济增长和提高生产力为主要目标（Spring, 2015）。
 
 这一全球转型同时被理解为知识论转变和地缘政治博弈，由此催生了"（新）[[Geopolitics of Knowledge|知识地缘政治]]"（(new) [[Geopolitics of Knowledge]]）概念（Mignolo, 2002）。关键的特征是它嵌入新自由主义之中——新自由主义作为一种**理性**（rationality），重新想象、解释和组装人与物之间的关系以实现**远距治理**（governing at a distance, Ward & England, 2007; Bell & Green, 2016, p.240）。新自由主义[[Governmentality|治理术]]**远距组织**全球教育转型（Ball, 2010, p.135），试图通过创造可欲的自我引导形式来操控个体。
 

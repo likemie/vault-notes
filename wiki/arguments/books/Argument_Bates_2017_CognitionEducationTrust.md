@@ -19,7 +19,8 @@ related_facts:
   - "[[Jerudong International School Establishment]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Bates_2017_CognitionEducationTrust]]"
 part_of:
 status: draft
 created: 2026-05-22
@@ -116,4 +117,4 @@ updated: 2026-05-23
 
 ## 来源
 
-- Bates_2017_CognitionEducationTrust
+- [[Bates_2017_CognitionEducationTrust]]

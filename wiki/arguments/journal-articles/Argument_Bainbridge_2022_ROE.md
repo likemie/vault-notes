@@ -22,6 +22,7 @@ related_methods:
   - "[[Carnivalesque Analysis]]"
 related_persons: []
 related_facts:
+  - "[[Selective Schools Expansion Fund]]"
   - "[[Grammar School]]"
   - "[[Ofsted]]"
 related_arguments: []
@@ -35,9 +36,9 @@ updated: '2026-05-18'
 
 ## 研究问题
 
-英国议会议员在制定选择性教育政策（以 Selective Schools Expansion Fund 为案例）时如何接触和使用研究证据？为什么关于选择性教育的压倒性研究证据被反复忽视？（Bainbridge et al., 2022, p.2–3）
+英国议会议员在制定选择性教育政策（以 [[Selective Schools Expansion Fund]] 为案例）时如何接触和使用研究证据？为什么关于选择性教育的压倒性研究证据被反复忽视？（Bainbridge et al., 2022, p.2–3）
 
-研究的直接灵感来自 Stevens（2019）对毒品政策的研究——Stevens 观察到政治家使用道德关切来回避做出基于证据的政策决策，将其描述为"道德侧步"（moral sidestep）。Bainbridge et al. 追问：类似的对证据的回避是否也发生在关于[[Grammar School|文法学校]]和选择性教育的议会辩论中？（p.3）
+研究的直接灵感来自 Stevens（2019）对毒品政策的研究——Stevens 观察到政治家使用道德关切来回避做出基于证据的政策决策，将其描述为"道德侧步"（[[Moral Sidestep]]）。Bainbridge et al. 追问：类似的对证据的回避是否也发生在关于[[Grammar School|文法学校]]和选择性教育的议会辩论中？（p.3）
 
 ## 理论框架
 
@@ -180,7 +181,7 @@ updated: '2026-05-18'
 
 > "What has emerged...is a discourse that is constructive as it actively and persistently distorts the meaning of 'good'—it is a sidestep into a world of fantasised goodness, while also away from an often-unspoken world of 'badness'"（p.19）
 
-> "The 'good schools' discourse is an [[Ofsted]]-derived evidenced position, which makes it all the more deceptive; it is a moral sidestep cloaked in the language of evidence."（p.28）
+> "The 'good schools' discourse is an [[Ofsted]]-derived evidenced position, which makes it all the more deceptive; it is a [[Moral Sidestep]] cloaked in the language of evidence."（p.28）
 
 > "It would appear that it is less easy to refute or sidestep certain evidence when it emerges from within Parliament."（p.28）
 

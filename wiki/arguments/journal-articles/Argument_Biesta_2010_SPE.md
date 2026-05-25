@@ -72,7 +72,7 @@ updated: '2026-05-18'
 > - 出路是转向 **Dewey 的交易认识论**：实验产生的知识是**关于过去行动与后果关系的知识**——它只能告诉我们"什么曾经有效"（what has worked），而非"什么将会有效"（what will work）
 > - 因此存在结构性的知识缺口：研究证据只能提供**可能性**，无法提供**确定性**
 >
-> > "A transactional epistemology allows us to make warranted assertions about what has worked in the past but not about what will work in the future." (p. 495)
+> > "A [[Transactional Epistemology]] allows us to make warranted assertions about what has worked in the past but not about what will work in the future." (p. 495)
 >
 > **第二重：效力缺陷（Efficacy Deficit）——存在论维度**
 >

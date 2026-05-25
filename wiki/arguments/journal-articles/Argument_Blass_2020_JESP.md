@@ -15,6 +15,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"
+  - "[[The Great Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Feedback]]"
   - "[[Didaktik]]"
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 >
 > - **不加权平均问题**：Arnold (2011, p.219) 指出 [[John Hattie|Hattie]] 使用不加权平均值汇总 800 项[[Meta-analysis|元分析]]的[[Effect Size|效应量]]——小型和大型元分析权重相等。Arnold 抽查 Kuncel et al. (2005) 一项研究发现该论文实际是关于"事后自我报告成绩的效度"而非 Hattie 声称的"学生对自己学习表现的期望和预测力"——该论文本不应被纳入分析（Blass, 2020, p.92）
 > - **Blass 本人的附录抽查**：在探究式教学中，4 项贡献研究中有 3 项仅适用于科学、1 项关于批判性思维技能。深入看：一项关于教师教育（Sweitzer & Anderson, 1983）、一项关于评估方法对结果的影响（Shymansky, Hedges & Woodworth, 1990）、一项是未发表论文（Smith, 1996）、一项关于方法的"新颖性"（Bangert-Drowns, 1992）——没有一项直接比较探究式教学与其他教学方法（Blass, 2020, p.92）
-> - **[[Problem-Based Learning|PBL]] 元分析的情境错配**：8 项研究中 3 项在医学领域（大学课程而非学校）、1 项是探索性研究而非元分析（Newman, 2004）、1 项是文献综述（Albanese & Mitchell, 1993）。仅 1 项在学校比较了教学方法且效应量最大（37%, Haas, 2005），2 项关注评估对 PBL 本身的影响（Blass, 2020, p.92）
+> - **[[Problem-Based Learning|PBL]] 元分析的情境错配**：8 项研究中 3 项在医学领域（[[The Great Learning|大学]]课程而非学校）、1 项是探索性研究而非元分析（Newman, 2004）、1 项是文献综述（Albanese & Mitchell, 1993）。仅 1 项在学校比较了教学方法且效应量最大（37%, Haas, 2005），2 项关注评估对 PBL 本身的影响（Blass, 2020, p.92）
 >
 > ### 2. 情境
 >
