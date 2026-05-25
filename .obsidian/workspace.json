@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
+                "file": "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Li_2012_Cambridge"
+              "title": "Li_2012_Cambridge"
             }
           }
         ]
@@ -189,7 +189,19 @@
   },
   "active": "1ae9539e2ff14392",
   "lastOpenFiles": [
+    "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
+    "books/Bates_2017_CognitionEducationTrust/Bates_2017_CognitionEducationTrust.md",
     "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+    "scripts/__pycache__/source_record.cpython-312.pyc",
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
+    "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md",
+    "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022.pdf",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.md",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022.pdf",
+    "books/Parreira do Amaral(Ed.)_2022_Springer/Ch1_Thompson_Parreira do Amaral_2022.pdf",
+    "raw/Cultural Foundations of Learning.pdf",
     "books/Li_2012_Cambridge/Li_2012_Cambridge第一章.pdf",
     "books/Li_2012_Cambridge/Li_2012_Cultural_Foundations_of_Learning.pdf",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.png",
@@ -198,7 +210,6 @@
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
-    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "wiki/facts/newzealand/Partnership Schools Kura Hourua.md",
     "wiki/facts/newzealand/New Zealand National Standards.md",
     "wiki/facts/newzealand/Teach First New Zealand.md",
@@ -217,19 +228,8 @@
     "wiki/facts/newzealand/Cognition Education.md",
     "wiki/facts/global/OECD AHELO Project.md",
     "wiki/facts/global/Minerva University.md",
-    "wiki/facts/global/ISSPP Project.md",
-    "wiki/facts/global/International Indicators of Education Systems.md",
-    "wiki/facts/global/International Baccalaureate.md",
-    "wiki/facts/global/INES Lugano General Assembly 1991.md",
-    "wiki/facts/global/GATS and Trade in Education Services.md",
     "books/Li_2012_Cambridge/Li_2012_Cambridge第九章.pdf",
     "wiki/concepts/educational-policy-reform",
-    "books/Li_2012_Cambridge/Argument_Li_2012_Cambridge.pdf",
-    "books/Li_2012_Cambridge/chapters/ch09.txt",
-    "books/Li_2012_Cambridge/Argument_Li_2012_Cambridge第八章.pdf",
-    "raw/Argument_Li_2012_Cambridge第九章.pdf",
-    "raw/Cultural Foundations of Learning _ East and West -- Jin Li -- 1, 2012 -- Cambridge University Press_ 32 Avenue of the Americas, New -- isbn13 9780521160629 -- 2a9b817dfa3a402b88c6e2903e4a7c8c -- Anna’s Archive (1).pdf",
-    "books/Li_2012_Cambridge/Cultural Foundations of Learning _ East and West 引言.pdf",
     "books/Li_2012_Cambridge/figures/iShot_2026-05-23_15.07.28.png",
     "books/Li_2012_Cambridge/figures/fig2-1_western_learner.png",
     "books/Li_2012_Cambridge/figures/fig2-2_chinese_learner.png",

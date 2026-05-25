@@ -80,6 +80,12 @@ def yaml_list(items: List[str]) -> str:
     return "[" + ", ".join(yaml_string(i) for i in items) + "]"
 
 
+def yaml_block_list(items: List[str]) -> str:
+    if not items:
+        return "[]"
+    return "\n" + "\n".join(f"  - {yaml_string(i)}" for i in items)
+
+
 def parse_wikilink_list(value: str | None) -> List[str]:
     if not value:
         return []
@@ -183,6 +189,25 @@ def safe_write(path: Path, content: str, *, overwrite: bool, dry_run: bool) -> N
 
 def extracted_section(items: List[str]) -> str:
     return "\n".join(f"- {item}" for item in items) if items else "- "
+
+
+def book_source_frontmatter(
+    *,
+    citation: str,
+    extracted_to: List[str],
+    processed_date: str,
+    part_of: Optional[str] = None,
+) -> str:
+    lines = [
+        "---",
+        f"citation: {yaml_string(citation)}",
+        f"extracted_to:{yaml_block_list(extracted_to)}",
+        f"processed_date: {processed_date}",
+    ]
+    if part_of:
+        lines.append(f"part_of: {yaml_string(part_of)}")
+    lines.append("---")
+    return "\n".join(lines)
 
 
 def source_frontmatter(
@@ -360,15 +385,8 @@ def create_monograph_pdf(
 
     md_path = book_dir / f"{book_folder}.md"
 
-    fm = source_frontmatter(
-        title=book_folder,
-        subtype="monograph-pdf",
-        publication_type="book",
-        book_title=book_title,
-        authors=authors,
-        publisher=publisher,
+    fm = book_source_frontmatter(
         citation=citation,
-        book_file=rel(source_file),
         extracted_to=all_extracted,
         processed_date=processed_date,
     )
@@ -377,28 +395,7 @@ def create_monograph_pdf(
 
 # {book_folder}
 
-## Citation
-
-{citation}
-
----
-
-## Extracted to
-
-{extracted_section(all_extracted)}
-
----
-
-## PDF Reader
-
 ![[{source_file.name}]]
-
----
-
-## Notes
-
-- 本记录用于整本专著 PDF 的 source 与阅读页面。
-- 章节内容应累积在对应 Argument 的「各章概览」中。
 """
 
     safe_write(md_path, content, overwrite=overwrite, dry_run=dry_run)
@@ -427,15 +424,8 @@ def create_monograph_epub(
     md_path = book_dir / f"{book_folder}.md"
     data_epub = "/" + rel(source_file)
 
-    fm = source_frontmatter(
-        title=book_folder,
-        subtype="monograph-epub",
-        publication_type="book",
-        book_title=book_title,
-        authors=authors,
-        publisher=publisher,
+    fm = book_source_frontmatter(
         citation=citation,
-        book_file=rel(source_file),
         extracted_to=all_extracted,
         processed_date=processed_date,
     )
@@ -444,29 +434,7 @@ def create_monograph_epub(
 
 # {book_folder}
 
-## Citation
-
-{citation}
-
----
-
-## Extracted to
-
-{extracted_section(all_extracted)}
-
----
-
-## EPUB Reader
-
 <div id="epub-viewer" style="width:100%;height:560px;border:1px solid rgb(204,204,204);" data-epub="{data_epub}"></div>
-
----
-
-## Notes
-
-- Obsidian 本地不渲染此 HTML，本地阅读用 Epub Reader 插件直接打开 epub。
-- Quartz 网页端通过 `/static/` 中已配置的脚本渲染。
-- 不要在本文件中重复写入 `epub-loader.js` 或 `epub-init.js` 源码。
 """
 
     safe_write(md_path, content, overwrite=overwrite, dry_run=dry_run)
@@ -494,15 +462,8 @@ def create_edited_volume_overview(
     all_extracted = [arg] + [x for x in extracted_to if x != arg]
     md_path = book_dir / f"{book_folder}_overview.md"
 
-    fm = source_frontmatter(
-        title=book_folder,
-        subtype="edited-volume-overview",
-        publication_type="book",
-        book_title=book_title,
-        editors=editors,
-        publisher=publisher,
+    fm = book_source_frontmatter(
         citation=citation,
-        book_file=rel(source_file) if source_file else None,
         extracted_to=all_extracted,
         processed_date=processed_date,
     )
@@ -518,18 +479,6 @@ def create_edited_volume_overview(
 
 # {book_folder}
 {embed}
-## Citation
-
-{citation}
-
----
-
-## Extracted to
-
-{extracted_section(all_extracted)}
-
----
-
 ## 已处理章节
 
 """
@@ -560,20 +509,11 @@ def create_book_chapter(
     title = source_file.stem
     md_path = book_dir / f"{title}.md"
 
-    fm = source_frontmatter(
-        title=title,
-        subtype="book-chapter",
-        publication_type="book",
-        book_title=book_title,
-        chapter_title=chapter_title,
-        authors=authors,
-        editors=editors,
-        publisher=publisher,
+    fm = book_source_frontmatter(
         citation=citation,
-        source_file=rel(source_file),
-        part_of=po,
         extracted_to=extracted_to,
         processed_date=processed_date,
+        part_of=po,
     )
 
     content = f"""{fm}
@@ -581,16 +521,6 @@ def create_book_chapter(
 # {title}
 
 ![[{source_file.name}]]
-
-## Citation
-
-{citation}
-
----
-
-## Extracted to
-
-{extracted_section(extracted_to)}
 """
 
     safe_write(md_path, content, overwrite=overwrite, dry_run=dry_run)
