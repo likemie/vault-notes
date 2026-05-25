@@ -2047,6 +2047,14 @@
     ]
   },
   {
+    "title": "Culturalisation of Politics",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Culturalisation of Politics.md",
+    "aliases": [
+      "政治的文化化"
+    ]
+  },
+  {
     "title": "Economic and Industrial Espionage",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Economic and Industrial Espionage.md",
@@ -2251,12 +2259,31 @@
     ]
   },
   {
+    "title": "Psychologisation",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Psychologisation.md",
+    "aliases": [
+      "心理化",
+      "青年问题的心理化"
+    ]
+  },
+  {
     "title": "Radical Liberal Internationalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Radical Liberal Internationalism.md",
     "aliases": [
       "激进自由国际主义",
       "rules-based order"
+    ]
+  },
+  {
+    "title": "Schmittian Sovereignty",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Schmittian Sovereignty.md",
+    "aliases": [
+      "施密特式主权",
+      "例外状态",
+      "state of exception"
     ]
   },
   {
@@ -5190,11 +5217,28 @@
     ]
   },
   {
+    "title": "My Pledge to Act",
+    "type": "fact",
+    "path": "wiki/facts/hongkong/My Pledge to Act.md",
+    "aliases": [
+      "我的行动承诺"
+    ]
+  },
+  {
     "title": "National Education in Hong Kong",
     "type": "fact",
     "path": "wiki/facts/hongkong/National Education in Hong Kong.md",
     "aliases": [
       "香港国民教育"
+    ]
+  },
+  {
+    "title": "Youth Development Blueprint",
+    "type": "fact",
+    "path": "wiki/facts/hongkong/Youth Development Blueprint.md",
+    "aliases": [
+      "青年发展蓝图",
+      "香港青年发展蓝图"
     ]
   },
   {

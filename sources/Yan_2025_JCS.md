@@ -7,8 +7,6 @@ extracted_to:
   - "[[2019 Hong Kong Protests and Education]]"
   - "[[Citizenship and Social Development]]"
   - "[[Introduction of Liberal Studies]]"
-  - "[[Liberal Studies]]"
-  - "[[National Education in Hong Kong]]"
   - "[[National Security Law Impact on Hong Kong Education]]"
   - "[[Replacement of LS by CSD]]"
   - "[[Historical Document Analysis of Curriculum]]"
@@ -16,6 +14,8 @@ extracted_to:
   - "[[Larry Cuban]]"
   - "[[Nation Building through Education]]"
   - "[[Cuban's Curriculum Change Theory]]"
+  - "[[Liberal Studies]]"
+  - "[[National Education in Hong Kong]]"
 processed_date: 2026-05-01
 ---
 

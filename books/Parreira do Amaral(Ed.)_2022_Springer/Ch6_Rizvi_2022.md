@@ -11,12 +11,12 @@ extracted_to:
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Orientalism]]"
   - "[[Australia in the Asian Century White Paper]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[Fazal Rizvi]]"
   - "[[Network Society]]"
   - "[[Critical Geopolitics]]"
+  - "[[Orientalism]]"
 processed_date: 2026-05-10
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---
