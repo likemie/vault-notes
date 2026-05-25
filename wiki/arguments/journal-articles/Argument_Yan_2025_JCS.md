@@ -56,7 +56,7 @@ updated: 2026-05-18
 > - **Tröhler (2023) 国家利益驱动课程变革** — 废除阶段的核心解释框架
 > - **Vickers & Morris (2022) 威权国家主义与教育** — 解释中共如何通过教育确保边疆忠诚
 >
-> 论文的方法论立场：来自 Apple、[[wiki-Pierre Bourdieu|Bourdieu]]、Kliebard 的批判视角——将学校科目视为"最典型的社会与政治建构"（Goodson & Marsh, 1996, p. 1）。
+> 论文的方法论立场：来自 Apple、[[Pierre Bourdieu|Bourdieu]]、Kliebard 的批判视角——将学校科目视为"最典型的社会与政治建构"（Goodson & Marsh, 1996, p. 1）。
 
 ## 研究方法
 

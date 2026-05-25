@@ -30,7 +30,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Eacott_2011_JEAH]]"
   - "[[Eacott_2015_EPT]]"
   - "[[Li_2012_Cambridge]]"
@@ -150,7 +150,7 @@ NPM 渗透教育场域的过程可被理解为 doxa 置换：经济-政治场域
 
 ## 来源
 
-- [[wiki-Pierre Bourdieu]] — Wikipédia
+- [[Pierre Bourdieu]] — Wikipédia
 - [[Eacott_2011_JEAH]]
 - [[Eacott_2015_EPT]]
 - [[Li_2012_Cambridge]]

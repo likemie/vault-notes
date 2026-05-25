@@ -46,7 +46,7 @@ updated: 2026-05-18
 > [!abstract] 理论框架
 > 论文以对教育社会学的**批判视角**（critical perspective on schools）的系统回顾为起点，识别了两条主要理论路线（Downey & Condron, 2016, pp.1–2）：
 >
-> - **再生产理论（Reproduction）**：Bowles & Gintis (1976) 的对应理论——学校为资本主义经济提供知道自身位置并准备扮演各自角色的工人；[[wiki-Pierre Bourdieu|Bourdieu]] (1977) 的[[Cultural Capital|文化资本]]理论——学校偏爱中产阶级和精英学生的文化资本
+> - **再生产理论（Reproduction）**：Bowles & Gintis (1976) 的对应理论——学校为资本主义经济提供知道自身位置并准备扮演各自角色的工人；[[Pierre Bourdieu|Bourdieu]] (1977) 的[[Cultural Capital|文化资本]]理论——学校偏爱中产阶级和精英学生的文化资本
 > - **加剧理论（Exacerbation）**：学校不仅再生产而且放大不平等的机制，包括"野蛮的不平等"（Kozol, 1992）——资金差距导致弱势学校的设施、教科书和[[Class Size|班级规模]]更差；教师质量的不平等分配；居住隔离导致弱势儿童集中在同一学校；校内的能力分组和分轨实践
 >
 > 最终提出 [[Refraction Framework]] 作为整合框架——将学校概念化为不平等的折射器，可沿不同维度以不同方式（中性、加剧性或补偿性）塑造不平等（Downey & Condron, 2016, pp.5–7）。

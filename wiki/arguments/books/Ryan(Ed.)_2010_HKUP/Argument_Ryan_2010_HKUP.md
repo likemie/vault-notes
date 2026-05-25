@@ -55,7 +55,7 @@ updated: 2026-05-18
 > [!abstract]
 > 全书未采用单一理论框架，但以下理论资源在各章中不同程度地被调用：
 > - **[[Paul Morris]] 的教育四象限**（学术理性主义、社会经济效率、儿童中心、社会重建）— Schmidt（第 5 章）用于论证价值观为本课程的理论定位（Slethaug, 2010, pp.6–7）
-> - **[[wiki-Pierre Bourdieu]] 的认同与语言理论** — Miller（第 7 章）用于分析中国职前教师在澳大利亚的认同与语言问题（Slethaug, 2010, p.9）
+> - **[[Pierre Bourdieu]] 的认同与语言理论** — Miller（第 7 章）用于分析中国职前教师在澳大利亚的认同与语言问题（Slethaug, 2010, p.9）
 > - **后现代文化范式** — Wang（第 8 章）引用，认为文化与认同是流动的，一种文化声称优于另一种即为"帝国主义"（Slethaug, 2010, p.11）
 > - **Deveney 的 "[[Fourth Culture|第四文化]]"概念** — Jabal（第 4 章）用于分析在香港[[International Schools|国际学校]]中就读的[[Chinese Learner|中国学习者]]的特殊文化空间（Slethaug, 2010, p.5）
 
@@ -95,7 +95,7 @@ updated: 2026-05-18
 > - Argument_Jabal_2010_InternationalSchooling — 以 1,270 份问卷调查和 34 人访谈为基础，考察香港华人学生在国际学校中的多元文化体验与"[[Fourth Culture|第四文化]]"调适复杂性（第 4 章）
 > - Argument_Schmidt_2010_SocialConscience — 论证价值观为本课程对培养中国学习者社会良知的价值，以香港国际学校为案例（第 5 章）
 > - Argument_Vinther_2010_DanishPerspective — 考察在丹麦独特民主教育文化中中国学习者的适应经验，发现其比欧洲学生适应更快（第 6 章）
-> - Argument_Miller_2010_PreServiceTeachers — 以 [[wiki-Pierre Bourdieu|Bourdieu]] 理论为框架，通过两个案例研究分析在澳中国职前教师的语言、认同与教学实践（第 7 章）
+> - Argument_Miller_2010_PreServiceTeachers — 以 [[Pierre Bourdieu|Bourdieu]] 理论为框架，通过两个案例研究分析在澳中国职前教师的语言、认同与教学实践（第 7 章）
 > - Argument_Wang_2010_CrossCulturalExchange — 从美方教师视角审视在中山大学的 ESL 跨文化教学实践（第 8 章）
 > - Argument_Zhu_2010_TeamTeaching — 从中方管理者视角分析中山大学"跨国主义与美国"项目的团队教学经验与三类障碍（第 9 章）
 
