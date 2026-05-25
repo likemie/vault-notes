@@ -3,16 +3,28 @@
 """
 source_record.py
 
-Create source records and reading pages for an Obsidian / Quartz academic vault.
+Create and finalize minimal source records for an Obsidian / Quartz academic vault.
 
-Design:
-- AI / user classifies source type first.
-- This script does NOT infer source type from PDF content.
-- This script validates parameters and creates standardized source Markdown records.
+Design aligned with vault-schema.md:
+- AI / user classifies source type first; this script does not infer source type.
+- For article / report sources, creation is intentionally early and minimal.
+- Citation is normally finalized later from the corresponding Argument page.
+- source record `extracted_to` is treated as generated data and should be synced by
+  wiki_relations.py, not maintained by this script.
+
+Typical article workflow:
+  1) Create a minimal source record and move/copy the PDF:
+     python3 scripts/source_record.py article --file raw/paper.pdf --record-name temp_name
+
+  2) After the Argument page is written, finalize citation and optionally rename:
+     python3 scripts/source_record.py finalize \
+       --argument "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Simpson_2019_ERE.md" \
+       --rename
 
 Supported subcommands:
   article
   report
+  finalize
   monograph-pdf
   monograph-epub
   edited-volume-overview
@@ -30,20 +42,24 @@ import re
 import shutil
 import sys
 from pathlib import Path
-from typing import List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
+try:
+    import yaml  # type: ignore
+except Exception:  # pragma: no cover
+    yaml = None
 
 ROOT = Path.cwd()
 RAW_DIR = ROOT / "raw"
 SOURCES_DIR = ROOT / "sources"
 BOOKS_DIR = ROOT / "books"
 
-WIKILINK_RE = re.compile(r"^\[\[[^\]\n]+\]\]$")
+WIKILINK_RE = re.compile(r"^\[\[([^\]|#\n]+)(?:[#|][^\]\n]*)?\]\]$")
+FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n?", re.DOTALL)
+SOURCE_SECTION_RE = re.compile(r"(^##\s+(?:来源|Sources)\s*$)(.*?)(?=^##\s+|\Z)", re.DOTALL | re.MULTILINE)
 
+FORBIDDEN_FILENAME_CHARS = r'<>:"/\\|?*'
 
-# -----------------------------
-# Basic helpers
-# -----------------------------
 
 def rel(path: Path) -> str:
     try:
@@ -70,54 +86,6 @@ def ensure_parent(path: Path, dry_run: bool = False) -> None:
         path.parent.mkdir(parents=True, exist_ok=True)
 
 
-def yaml_string(value: str) -> str:
-    return '"' + value.replace("\\", "\\\\").replace('"', '\\"') + '"'
-
-
-def yaml_list(items: List[str]) -> str:
-    if not items:
-        return "[]"
-    return "[" + ", ".join(yaml_string(i) for i in items) + "]"
-
-
-def yaml_block_list(items: List[str]) -> str:
-    if not items:
-        return "[]"
-    return "\n" + "\n".join(f"  - {yaml_string(i)}" for i in items)
-
-
-def parse_wikilink_list(value: str | None) -> List[str]:
-    if not value:
-        return []
-    out: List[str] = []
-    seen = set()
-    for part in value.split(","):
-        s = part.strip()
-        if not s:
-            continue
-        if not WIKILINK_RE.match(s):
-            die(f"Invalid wikilink item: {s!r}. Use [[Entry Name]].")
-        if s not in seen:
-            seen.add(s)
-            out.append(s)
-    return out
-
-
-def ensure_wikilink(value: str, name: str) -> str:
-    s = value.strip()
-    if not WIKILINK_RE.match(s):
-        die(f"{name} must be a wikilink like [[Entry_Name]], got: {value!r}")
-    return s
-
-
-def is_under(path: Path, parent: Path) -> bool:
-    try:
-        path.resolve().relative_to(parent.resolve())
-        return True
-    except Exception:
-        return False
-
-
 def validate_file(path: Path, suffixes: set[str]) -> None:
     if not path.exists():
         die(f"File does not exist: {rel(path)}")
@@ -127,54 +95,42 @@ def validate_file(path: Path, suffixes: set[str]) -> None:
         die(f"Expected suffix {sorted(suffixes)}, got {path.suffix}: {rel(path)}")
 
 
-def validate_book_file(path: Path, book_dir: Path, suffixes: set[str]) -> None:
-    validate_file(path, suffixes)
-    if not is_under(path, book_dir):
-        die(f"Book file must be under {rel(book_dir)}, got: {rel(path)}")
+def validate_record_name(name: str) -> str:
+    s = name.strip()
+    if not s:
+        die("Record name cannot be empty")
+    s = Path(s).stem if s.endswith(".md") else s
+    if any(ch in s for ch in FORBIDDEN_FILENAME_CHARS):
+        die(f"Record name contains path-unsafe characters: {name!r}")
+    if s in {".", ".."}:
+        die(f"Invalid record name: {name!r}")
+    return s
 
 
-def book_folder_path(book_folder: str) -> Path:
-    if "/" in book_folder or "\\" in book_folder:
-        die("--book-folder must be a folder name, not a path")
-    return BOOKS_DIR / book_folder
+def safe_stem_from_file(path: Path) -> str:
+    stem = path.stem.strip()
+    stem = re.sub(rf"[{re.escape(FORBIDDEN_FILENAME_CHARS)}]", " ", stem)
+    stem = re.sub(r"\s+", " ", stem).strip()
+    stem = stem.replace(" ", "_")
+    return validate_record_name(stem or "source")
 
 
-def move_or_copy_file(
-    src: Path,
-    dest: Path,
-    *,
-    copy: bool,
-    no_move: bool,
-    overwrite: bool,
-    dry_run: bool,
-) -> Path:
-    if no_move:
-        info(f"Leaving file in place: {rel(src)}")
-        return src
-
-    if dest.exists() and dest.resolve() != src.resolve() and not overwrite:
-        die(f"Destination file already exists: {rel(dest)}. Use --overwrite.")
-
-    if dry_run:
-        action = "copy" if copy else "move"
-        info(f"DRY RUN: would {action} {rel(src)} -> {rel(dest)}")
-        return dest
-
-    ensure_parent(dest)
-    if src.resolve() == dest.resolve():
-        info(f"File already in place: {rel(dest)}")
-        return dest
-
-    if copy:
-        shutil.copy2(src, dest)
-        info(f"Copied {rel(src)} -> {rel(dest)}")
-    else:
-        shutil.move(str(src), str(dest))
-        info(f"Moved {rel(src)} -> {rel(dest)}")
-    return dest
+def yaml_scalar(value: str) -> str:
+    # Always write YAML scalars in double quotes for predictable frontmatter.
+    return '"' + value.replace("\\", "\\\\").replace('"', '\\"') + '"'
 
 
-def safe_write(path: Path, content: str, *, overwrite: bool, dry_run: bool) -> None:
+def yaml_block_list(items: List[str]) -> str:
+    if not items:
+        return " []"
+    return "\n" + "\n".join(f"  - {yaml_scalar(item)}" for item in items)
+
+
+def read_text(path: Path) -> str:
+    return path.read_text(encoding="utf-8")
+
+
+def write_text(path: Path, content: str, *, overwrite: bool = True, dry_run: bool = False) -> None:
     if path.exists() and not overwrite:
         die(f"Output file already exists: {rel(path)}. Use --overwrite.")
     if dry_run:
@@ -187,525 +143,447 @@ def safe_write(path: Path, content: str, *, overwrite: bool, dry_run: bool) -> N
     info(f"Wrote {rel(path)}")
 
 
-def extracted_section(items: List[str]) -> str:
-    return "\n".join(f"- {item}" for item in items) if items else "- "
+def move_or_copy(src: Path, dest: Path, *, copy: bool, overwrite: bool, dry_run: bool = False) -> Path:
+    if dest.exists() and src.resolve() != dest.resolve() and not overwrite:
+        die(f"Destination file already exists: {rel(dest)}. Use --overwrite.")
+    if dry_run:
+        action = "copy" if copy else "move"
+        info(f"DRY RUN: would {action} {rel(src)} -> {rel(dest)}")
+        return dest
+    ensure_parent(dest)
+    if src.resolve() == dest.resolve():
+        info(f"File already in place: {rel(dest)}")
+        return dest
+    if copy:
+        shutil.copy2(src, dest)
+        info(f"Copied {rel(src)} -> {rel(dest)}")
+    else:
+        shutil.move(str(src), str(dest))
+        info(f"Moved {rel(src)} -> {rel(dest)}")
+    return dest
 
 
-def book_source_frontmatter(
-    *,
-    citation: str,
-    extracted_to: List[str],
-    processed_date: str,
-    part_of: Optional[str] = None,
-) -> str:
+def parse_frontmatter(text: str) -> Tuple[Dict[str, Any], str, str]:
+    m = FRONTMATTER_RE.match(text)
+    if not m:
+        return {}, "", text
+    raw = m.group(1)
+    body = text[m.end():]
+    if yaml is None:
+        die("PyYAML is required to parse frontmatter")
+    try:
+        data = yaml.safe_load(raw) or {}
+    except Exception as exc:
+        die(f"Cannot parse YAML frontmatter: {exc}")
+    if not isinstance(data, dict):
+        die("Frontmatter must be a YAML mapping")
+    return data, raw, body
+
+
+def dump_minimal_source_frontmatter(citation: str, processed_date: str) -> str:
+    # Keep extracted_to as an empty generated field placeholder for compatibility.
+    return "\n".join([
+        "---",
+        f"citation: {yaml_scalar(citation)}",
+        "extracted_to: []",
+        f"processed_date: {processed_date}",
+        "---",
+    ])
+
+
+def source_record_content(record_name: str, pdf_filename: str, *, citation: str = "", processed_date: Optional[str] = None) -> str:
+    fm = dump_minimal_source_frontmatter(citation, processed_date or today())
+    return f"{fm}\n\n# {record_name}\n\n![[{pdf_filename}]]\n"
+
+
+def create_article_or_report(args: argparse.Namespace, kind: str) -> None:
+    src = Path(args.file)
+    validate_file(src, {".pdf"})
+
+    record_name = validate_record_name(args.record_name) if args.record_name else safe_stem_from_file(src)
+    md_path = SOURCES_DIR / f"{record_name}.md"
+    pdf_path = SOURCES_DIR / f"{record_name}.pdf"
+
+    move_or_copy(src, pdf_path, copy=args.copy, overwrite=args.overwrite, dry_run=args.dry_run)
+    content = source_record_content(
+        record_name,
+        pdf_path.name,
+        citation=args.citation or "",
+        processed_date=args.processed_date or today(),
+    )
+    write_text(md_path, content, overwrite=args.overwrite, dry_run=args.dry_run)
+    info(f"Created minimal {kind} source record: {rel(md_path)}")
+    info("Next: write the Argument page, then run `source_record.py finalize --argument ... --rename` if needed.")
+
+
+def wikilink_target(value: str) -> Optional[str]:
+    m = WIKILINK_RE.match(value.strip())
+    if not m:
+        return None
+    return m.group(1).strip()
+
+
+def first_source_from_argument(fm: Dict[str, Any], body: str) -> Optional[str]:
+    sources = fm.get("sources")
+    if isinstance(sources, list):
+        for item in sources:
+            if isinstance(item, str) and wikilink_target(item):
+                return wikilink_target(item)
+
+    m = SOURCE_SECTION_RE.search(body)
+    if m:
+        for link in re.findall(r"\[\[[^\]\n]+\]\]", m.group(2)):
+            target = wikilink_target(link)
+            if target:
+                return target
+    return None
+
+
+def argument_default_record_name(argument_path: Path) -> str:
+    stem = argument_path.stem
+    if stem.startswith("Argument_"):
+        stem = stem[len("Argument_"):]
+    return validate_record_name(stem)
+
+
+def update_source_record_text(old_text: str, *, new_name: str, citation: str, pdf_filename: str, processed_date: Optional[str]) -> str:
+    fm, raw_fm, body = parse_frontmatter(old_text)
+    if processed_date is None:
+        processed_date = str(fm.get("processed_date") or today())
+
+    # Do not preserve or rewrite extracted_to values here. It is generated by wiki_relations.py.
+    new_fm = dump_minimal_source_frontmatter(citation, processed_date)
+
+    # Keep the source record body intentionally minimal. This also removes older complex sections.
+    return f"{new_fm}\n\n# {new_name}\n\n![[{pdf_filename}]]\n"
+
+
+def replace_source_link_in_argument(text: str, old_name: str, new_name: str) -> str:
+    if old_name == new_name:
+        return text
+
+    # Update only exact source wikilinks. This changes both frontmatter sources and ## 来源 body if present.
+    # That is intentional after a source record rename; relation fields can be resynced afterwards.
+    patterns = [
+        (f"[[{old_name}]]", f"[[{new_name}]]"),
+        (f"[[{old_name}|", f"[[{new_name}|"),
+        (f"[[{old_name}#", f"[[{new_name}#"),
+    ]
+    out = text
+    for old, new in patterns:
+        out = out.replace(old, new)
+    return out
+
+
+def maybe_rename_file(old_path: Path, new_path: Path, *, overwrite: bool, dry_run: bool) -> Path:
+    if old_path.resolve() == new_path.resolve():
+        return old_path
+    if new_path.exists() and not overwrite:
+        die(f"Rename target already exists: {rel(new_path)}. Use --overwrite.")
+    if dry_run:
+        info(f"DRY RUN: would rename {rel(old_path)} -> {rel(new_path)}")
+        return new_path
+    ensure_parent(new_path)
+    if new_path.exists() and overwrite:
+        new_path.unlink()
+    old_path.rename(new_path)
+    info(f"Renamed {rel(old_path)} -> {rel(new_path)}")
+    return new_path
+
+
+def finalize_source(args: argparse.Namespace) -> None:
+    argument_path = Path(args.argument)
+    validate_file(argument_path, {".md"})
+    arg_text = read_text(argument_path)
+    arg_fm, _raw_arg_fm, arg_body = parse_frontmatter(arg_text)
+
+    citation = str(arg_fm.get("citation") or "").strip()
+    if not citation:
+        die("Argument frontmatter has no `citation`; finalize cannot infer citation from PDF metadata.")
+
+    old_source_name: Optional[str] = None
+    if args.source:
+        source_path = Path(args.source)
+        if source_path.suffix != ".md":
+            source_path = source_path.with_suffix(".md")
+        old_source_name = source_path.stem
+    else:
+        old_source_name = first_source_from_argument(arg_fm, arg_body)
+        if not old_source_name:
+            die("Cannot find source wikilink from Argument frontmatter `sources` or `## 来源`. Pass --source.")
+        source_path = SOURCES_DIR / f"{old_source_name}.md"
+
+    validate_file(source_path, {".md"})
+
+    if args.new_name:
+        new_name = validate_record_name(args.new_name)
+    elif args.rename:
+        new_name = argument_default_record_name(argument_path)
+    else:
+        new_name = source_path.stem
+
+    new_md_path = source_path.with_name(f"{new_name}.md")
+
+    old_pdf_path = source_path.with_suffix(".pdf")
+    new_pdf_path = new_md_path.with_suffix(".pdf")
+    pdf_filename = new_pdf_path.name if (args.rename or args.new_name) else old_pdf_path.name
+
+    old_source_text = read_text(source_path)
+    new_source_text = update_source_record_text(
+        old_source_text,
+        new_name=new_name,
+        citation=citation,
+        pdf_filename=pdf_filename,
+        processed_date=args.processed_date,
+    )
+
+    # Write source content before rename if same file; otherwise write after deciding path.
+    if new_md_path.resolve() == source_path.resolve():
+        write_text(source_path, new_source_text, overwrite=True, dry_run=args.dry_run)
+    else:
+        if new_md_path.exists() and not args.overwrite:
+            die(f"Finalize target already exists: {rel(new_md_path)}. Use --overwrite.")
+        if args.dry_run:
+            info(f"DRY RUN: would write finalized source to {rel(new_md_path)}")
+            print("\n--- finalized source preview ---\n")
+            print(new_source_text)
+            info(f"DRY RUN: would remove old source record {rel(source_path)}")
+        else:
+            ensure_parent(new_md_path)
+            new_md_path.write_text(new_source_text, encoding="utf-8")
+            source_path.unlink()
+            info(f"Finalized and renamed source record {rel(source_path)} -> {rel(new_md_path)}")
+
+    if old_pdf_path.exists():
+        maybe_rename_file(old_pdf_path, new_pdf_path, overwrite=args.overwrite, dry_run=args.dry_run)
+    else:
+        info(f"WARNING: expected PDF not found next to source record: {rel(old_pdf_path)}")
+
+    if old_source_name and old_source_name != new_name:
+        updated_arg_text = replace_source_link_in_argument(arg_text, old_source_name, new_name)
+        if updated_arg_text != arg_text:
+            write_text(argument_path, updated_arg_text, overwrite=True, dry_run=args.dry_run)
+            info(f"Updated source wikilink in Argument page: [[{old_source_name}]] -> [[{new_name}]]")
+
+    info("Finalize complete. Run `python3 scripts/wiki_index.py`; run relations/lint only after user confirmation per vault-schema.")
+
+
+# -----------------------------
+# Book-source helpers
+# -----------------------------
+
+
+def book_folder_path(book_folder: str) -> Path:
+    if "/" in book_folder or "\\" in book_folder:
+        die("--book-folder must be a folder name, not a path")
+    return BOOKS_DIR / book_folder
+
+
+def ensure_wikilink(value: str, name: str) -> str:
+    s = value.strip()
+    if not WIKILINK_RE.match(s):
+        die(f"{name} must be a wikilink like [[Entry Name]], got: {value!r}")
+    return s
+
+
+def parse_wikilink_list(value: Optional[str]) -> List[str]:
+    if not value:
+        return []
+    out: List[str] = []
+    seen = set()
+    for part in value.split(","):
+        s = part.strip()
+        if not s:
+            continue
+        ensure_wikilink(s, "wikilink list item")
+        if s not in seen:
+            seen.add(s)
+            out.append(s)
+    return out
+
+
+def book_source_frontmatter(citation: str, processed_date: str, part_of: Optional[str] = None) -> str:
     lines = [
         "---",
-        f"citation: {yaml_string(citation)}",
-        f"extracted_to:{yaml_block_list(extracted_to)}",
+        f"citation: {yaml_scalar(citation)}",
+        "extracted_to: []",
         f"processed_date: {processed_date}",
     ]
     if part_of:
-        lines.append(f"part_of: {yaml_string(part_of)}")
+        lines.append(f"part_of: {yaml_scalar(part_of)}")
     lines.append("---")
     return "\n".join(lines)
 
 
-def source_frontmatter(
+def create_book_source_record(
     *,
-    title: str,
-    subtype: str,
+    md_path: Path,
+    record_title: str,
     citation: str,
-    extracted_to: List[str],
-    processed_date: str,
-    status: str = "processed",
-    source_file: Optional[str] = None,
-    book_file: Optional[str] = None,
-    part_of: Optional[str] = None,
-    publication_type: Optional[str] = None,
-    book_title: Optional[str] = None,
-    chapter_title: Optional[str] = None,
-    journal: Optional[str] = None,
-    issuing_organization: Optional[str] = None,
-    authors: Optional[List[str]] = None,
-    editors: Optional[List[str]] = None,
-    publisher: Optional[str] = None,
-) -> str:
-    """
-    Unified source-record YAML header.
-
-    Core fields:
-      title
-      type: source
-      subtype
-      citation
-      source_file or book_file
-      extracted_to
-      processed_date
-      status
-
-    Optional bibliographic fields are included only when provided.
-    """
-    lines = [
-        "---",
-        f"title: {yaml_string(title)}",
-        "type: source",
-        f"subtype: {subtype}",
-    ]
-
-    if publication_type:
-        lines.append(f"publication_type: {publication_type}")
-    if book_title:
-        lines.append(f"book_title: {yaml_string(book_title)}")
-    if chapter_title:
-        lines.append(f"chapter_title: {yaml_string(chapter_title)}")
-    if journal:
-        lines.append(f"journal: {yaml_string(journal)}")
-    if issuing_organization:
-        lines.append(f"issuing_organization: {yaml_string(issuing_organization)}")
-    if authors:
-        lines.append(f"authors: {yaml_list(authors)}")
-    if editors:
-        lines.append(f"editors: {yaml_list(editors)}")
-    if publisher:
-        lines.append(f"publisher: {yaml_string(publisher)}")
-
-    lines.append(f"citation: {yaml_string(citation)}")
-
-    if source_file:
-        lines.append(f"source_file: {yaml_string(source_file)}")
-    if book_file:
-        lines.append(f"book_file: {yaml_string(book_file)}")
-    if part_of:
-        lines.append(f"part_of: {yaml_string(part_of)}")
-
-    lines.extend([
-        f"extracted_to: {yaml_list(extracted_to)}",
-        f"processed_date: {processed_date}",
-        f"status: {status}",
-        "---",
-    ])
-    return "\n".join(lines)
-
-
-# -----------------------------
-# Record builders
-# -----------------------------
-
-def create_article_or_report(
-    *,
-    subtype: str,
-    publication_type: str,
-    source_file: Path,
-    citation: str,
-    extracted_to: List[str],
-    processed_date: str,
-    overwrite: bool,
-    copy: bool,
-    no_move: bool,
-    dry_run: bool,
-    journal: Optional[str] = None,
-    issuing_organization: Optional[str] = None,
-) -> None:
-    validate_file(source_file, {".pdf"})
-
-    if no_move:
-        final_pdf = source_file
-    else:
-        final_pdf = SOURCES_DIR / source_file.name
-        if not is_under(source_file, RAW_DIR) and not is_under(source_file, SOURCES_DIR):
-            die(f"{subtype} source PDF should come from raw/ or sources/, got: {rel(source_file)}. Use --no-move if intentional.")
-
-    final_pdf = move_or_copy_file(
-        source_file,
-        final_pdf,
-        copy=copy,
-        no_move=no_move,
-        overwrite=overwrite,
-        dry_run=dry_run,
-    )
-
-    title = final_pdf.stem
-    md_path = SOURCES_DIR / f"{title}.md"
-
-    fm = source_frontmatter(
-        title=title,
-        subtype=subtype,
-        publication_type=publication_type,
-        citation=citation,
-        source_file=rel(final_pdf),
-        extracted_to=extracted_to,
-        processed_date=processed_date,
-        journal=journal,
-        issuing_organization=issuing_organization,
-    )
-
-    content = f"""{fm}
-
-# {title}
-
-## Citation
-
-{citation}
-
----
-
-## Extracted to
-
-{extracted_section(extracted_to)}
-
----
-
-## PDF Reader
-
-![[{final_pdf.name}]]
-"""
-
-    safe_write(md_path, content, overwrite=overwrite, dry_run=dry_run)
-
-
-def create_monograph_pdf(
-    *,
-    book_folder: str,
-    source_file: Path,
-    citation: str,
-    argument: str,
-    extracted_to: List[str],
+    embedded_file: Optional[str],
+    part_of: Optional[str],
     processed_date: str,
     overwrite: bool,
     dry_run: bool,
-    book_title: Optional[str] = None,
-    authors: Optional[List[str]] = None,
-    publisher: Optional[str] = None,
 ) -> None:
-    book_dir = book_folder_path(book_folder)
-    validate_book_file(source_file, book_dir, {".pdf"})
+    fm = book_source_frontmatter(citation, processed_date, part_of)
+    body = f"# {record_title}\n"
+    if embedded_file:
+        body += f"\n![[{embedded_file}]]\n"
+    content = f"{fm}\n\n{body}"
+    write_text(md_path, content, overwrite=overwrite, dry_run=dry_run)
 
-    arg = ensure_wikilink(argument, "--argument")
-    all_extracted = [arg] + [x for x in extracted_to if x != arg]
 
-    md_path = book_dir / f"{book_folder}.md"
-
-    fm = book_source_frontmatter(
-        citation=citation,
-        extracted_to=all_extracted,
-        processed_date=processed_date,
+def monograph_pdf(args: argparse.Namespace) -> None:
+    book_dir = book_folder_path(args.book_folder)
+    src = Path(args.file)
+    validate_file(src, {".pdf"})
+    record_name = validate_record_name(args.record_name or book_dir.name)
+    pdf_path = book_dir / f"{record_name}.pdf"
+    md_path = book_dir / f"{record_name}.md"
+    move_or_copy(src, pdf_path, copy=args.copy, overwrite=args.overwrite, dry_run=args.dry_run)
+    create_book_source_record(
+        md_path=md_path,
+        record_title=record_name,
+        citation=args.citation or "",
+        embedded_file=pdf_path.name,
+        part_of=None,
+        processed_date=args.processed_date or today(),
+        overwrite=args.overwrite,
+        dry_run=args.dry_run,
     )
 
-    content = f"""{fm}
 
-# {book_folder}
-
-![[{source_file.name}]]
-"""
-
-    safe_write(md_path, content, overwrite=overwrite, dry_run=dry_run)
-
-
-def create_monograph_epub(
-    *,
-    book_folder: str,
-    source_file: Path,
-    citation: str,
-    argument: str,
-    extracted_to: List[str],
-    processed_date: str,
-    overwrite: bool,
-    dry_run: bool,
-    book_title: Optional[str] = None,
-    authors: Optional[List[str]] = None,
-    publisher: Optional[str] = None,
-) -> None:
-    book_dir = book_folder_path(book_folder)
-    validate_book_file(source_file, book_dir, {".epub"})
-
-    arg = ensure_wikilink(argument, "--argument")
-    all_extracted = [arg] + [x for x in extracted_to if x != arg]
-
-    md_path = book_dir / f"{book_folder}.md"
-    data_epub = "/" + rel(source_file)
-
-    fm = book_source_frontmatter(
-        citation=citation,
-        extracted_to=all_extracted,
-        processed_date=processed_date,
+def monograph_epub(args: argparse.Namespace) -> None:
+    book_dir = book_folder_path(args.book_folder)
+    src = Path(args.file)
+    validate_file(src, {".epub"})
+    record_name = validate_record_name(args.record_name or book_dir.name)
+    epub_path = book_dir / f"{record_name}.epub"
+    md_path = book_dir / f"{record_name}.md"
+    move_or_copy(src, epub_path, copy=args.copy, overwrite=args.overwrite, dry_run=args.dry_run)
+    create_book_source_record(
+        md_path=md_path,
+        record_title=record_name,
+        citation=args.citation or "",
+        embedded_file=epub_path.name,
+        part_of=None,
+        processed_date=args.processed_date or today(),
+        overwrite=args.overwrite,
+        dry_run=args.dry_run,
     )
 
-    content = f"""{fm}
 
-# {book_folder}
-
-<div id="epub-viewer" style="width:100%;height:560px;border:1px solid rgb(204,204,204);" data-epub="{data_epub}"></div>
-"""
-
-    safe_write(md_path, content, overwrite=overwrite, dry_run=dry_run)
-
-
-def create_edited_volume_overview(
-    *,
-    book_folder: str,
-    source_file: Optional[Path],
-    citation: str,
-    argument: str,
-    extracted_to: List[str],
-    processed_date: str,
-    overwrite: bool,
-    dry_run: bool,
-    book_title: Optional[str] = None,
-    editors: Optional[List[str]] = None,
-    publisher: Optional[str] = None,
-) -> None:
-    book_dir = book_folder_path(book_folder)
-    if source_file is not None:
-        validate_book_file(source_file, book_dir, {".pdf", ".epub"})
-
-    arg = ensure_wikilink(argument, "--argument")
-    all_extracted = [arg] + [x for x in extracted_to if x != arg]
-    md_path = book_dir / f"{book_folder}_overview.md"
-
-    fm = book_source_frontmatter(
-        citation=citation,
-        extracted_to=all_extracted,
-        processed_date=processed_date,
+def edited_volume_overview(args: argparse.Namespace) -> None:
+    book_dir = book_folder_path(args.book_folder)
+    record_name = validate_record_name(args.record_name or book_dir.name)
+    md_path = book_dir / f"{record_name}.md"
+    create_book_source_record(
+        md_path=md_path,
+        record_title=record_name,
+        citation=args.citation or "",
+        embedded_file=None,
+        part_of=None,
+        processed_date=args.processed_date or today(),
+        overwrite=args.overwrite,
+        dry_run=args.dry_run,
     )
 
-    embed = ""
-    if source_file:
-        if source_file.suffix.lower() == ".pdf":
-            embed = f"\n![[{source_file.name}]]\n"
-        elif source_file.suffix.lower() == ".epub":
-            embed = f'\n<div id="epub-viewer" style="width:100%;height:560px;border:1px solid rgb(204,204,204);" data-epub="/{rel(source_file)}"></div>\n'
 
-    content = f"""{fm}
-
-# {book_folder}
-{embed}
-## 已处理章节
-
-"""
-
-    safe_write(md_path, content, overwrite=overwrite, dry_run=dry_run)
-
-
-def create_book_chapter(
-    *,
-    book_folder: str,
-    source_file: Path,
-    citation: str,
-    extracted_to: List[str],
-    part_of: str,
-    processed_date: str,
-    overwrite: bool,
-    dry_run: bool,
-    book_title: Optional[str] = None,
-    chapter_title: Optional[str] = None,
-    authors: Optional[List[str]] = None,
-    editors: Optional[List[str]] = None,
-    publisher: Optional[str] = None,
-) -> None:
-    book_dir = book_folder_path(book_folder)
-    validate_book_file(source_file, book_dir, {".pdf"})
-
-    po = ensure_wikilink(part_of, "--part-of")
-    title = source_file.stem
-    md_path = book_dir / f"{title}.md"
-
-    fm = book_source_frontmatter(
-        citation=citation,
-        extracted_to=extracted_to,
-        processed_date=processed_date,
-        part_of=po,
+def book_chapter(args: argparse.Namespace) -> None:
+    book_dir = book_folder_path(args.book_folder)
+    record_name = validate_record_name(args.record_name)
+    md_path = book_dir / f"{record_name}.md"
+    part_of = ensure_wikilink(args.part_of, "--part-of") if args.part_of else None
+    create_book_source_record(
+        md_path=md_path,
+        record_title=record_name,
+        citation=args.citation or "",
+        embedded_file=None,
+        part_of=part_of,
+        processed_date=args.processed_date or today(),
+        overwrite=args.overwrite,
+        dry_run=args.dry_run,
     )
-
-    content = f"""{fm}
-
-# {title}
-
-![[{source_file.name}]]
-"""
-
-    safe_write(md_path, content, overwrite=overwrite, dry_run=dry_run)
 
 
 # -----------------------------
 # CLI
 # -----------------------------
 
-def parse_people(value: Optional[str]) -> Optional[List[str]]:
-    if not value:
-        return None
-    return [x.strip() for x in value.split(",") if x.strip()]
+
+def add_common_create_flags(p: argparse.ArgumentParser) -> None:
+    p.add_argument("--record-name", help="Source record/PDF basename without extension. Optional early; can be finalized later.")
+    p.add_argument("--citation", default="", help="Optional early citation. Prefer leaving empty and using finalize from Argument page.")
+    p.add_argument("--processed-date", help="ISO date. Defaults to today.")
+    p.add_argument("--copy", action="store_true", help="Copy file instead of moving it.")
+    p.add_argument("--overwrite", action="store_true", help="Overwrite existing destination files.")
+    p.add_argument("--dry-run", action="store_true", help="Preview actions without writing files.")
 
 
-def add_common_args(p: argparse.ArgumentParser) -> None:
-    p.add_argument("--citation", required=True, help="APA or other citation string.")
-    p.add_argument("--extracted-to", default="", help='Comma-separated wikilinks, e.g. "[[A]],[[B]]".')
-    p.add_argument("--date", default=today(), help="processed_date, default today.")
-    p.add_argument("--overwrite", action="store_true", help="overwrite existing output files.")
-    p.add_argument("--dry-run", action="store_true", help="preview without writing files.")
-
-
-def add_biblio_args(p: argparse.ArgumentParser, *, book: bool = False, chapter: bool = False, periodical: bool = False) -> None:
-    if book:
-        p.add_argument("--book-title", default=None)
-        p.add_argument("--publisher", default=None)
-        p.add_argument("--authors", default=None, help="Comma-separated author names.")
-        p.add_argument("--editors", default=None, help="Comma-separated editor names.")
-    if chapter:
-        p.add_argument("--chapter-title", default=None)
-    if periodical:
-        p.add_argument("--journal", default=None)
-        p.add_argument("--issuing-organization", default=None)
-
-
-def main() -> int:
-    parser = argparse.ArgumentParser(description="Create source records for the academic wiki vault.")
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(description="Create/finalize minimal source records for MyNotes vault.")
     sub = parser.add_subparsers(dest="cmd", required=True)
 
-    p = sub.add_parser("article", help="Create ordinary journal article source record under sources/.")
-    p.add_argument("--file", required=True, type=Path)
-    add_common_args(p)
-    add_biblio_args(p, periodical=True)
-    p.add_argument("--copy", action="store_true")
-    p.add_argument("--no-move", action="store_true")
+    p_article = sub.add_parser("article", help="Create an early minimal journal-article source record in sources/.")
+    p_article.add_argument("--file", required=True, help="PDF file, usually under raw/.")
+    add_common_create_flags(p_article)
+    p_article.set_defaults(func=lambda args: create_article_or_report(args, "article"))
 
-    p = sub.add_parser("report", help="Create report / policy document source record under sources/.")
-    p.add_argument("--file", required=True, type=Path)
-    add_common_args(p)
-    add_biblio_args(p, periodical=True)
-    p.add_argument("--copy", action="store_true")
-    p.add_argument("--no-move", action="store_true")
+    p_report = sub.add_parser("report", help="Create an early minimal report/policy-document source record in sources/.")
+    p_report.add_argument("--file", required=True, help="PDF file, usually under raw/.")
+    add_common_create_flags(p_report)
+    p_report.set_defaults(func=lambda args: create_article_or_report(args, "report"))
 
-    p = sub.add_parser("monograph-pdf", help="Create monograph PDF source record under books/<book-folder>/.")
-    p.add_argument("--book-folder", required=True)
-    p.add_argument("--file", required=True, type=Path)
-    p.add_argument("--argument", required=True)
-    add_common_args(p)
-    add_biblio_args(p, book=True)
+    p_fin = sub.add_parser("finalize", help="Finalize citation from an Argument page and optionally rename source record/PDF.")
+    p_fin.add_argument("--argument", required=True, help="Path to the completed Argument page.")
+    p_fin.add_argument("--source", help="Path to source record md. If omitted, inferred from Argument `sources` or `## 来源`.")
+    p_fin.add_argument("--rename", action="store_true", help="Rename source record/PDF to Argument filename without `Argument_` prefix.")
+    p_fin.add_argument("--new-name", help="Explicit final source record/PDF basename. Implies rename target name.")
+    p_fin.add_argument("--processed-date", help="Override processed_date; default preserves existing value or uses today.")
+    p_fin.add_argument("--overwrite", action="store_true", help="Overwrite rename targets if they already exist.")
+    p_fin.add_argument("--dry-run", action="store_true", help="Preview actions without writing files.")
+    p_fin.set_defaults(func=finalize_source)
 
-    p = sub.add_parser("monograph-epub", help="Create monograph EPUB source record under books/<book-folder>/.")
-    p.add_argument("--book-folder", required=True)
-    p.add_argument("--file", required=True, type=Path)
-    p.add_argument("--argument", required=True)
-    add_common_args(p)
-    add_biblio_args(p, book=True)
+    p_mpdf = sub.add_parser("monograph-pdf", help="Create a minimal monograph PDF source record under books/<book-folder>/.")
+    p_mpdf.add_argument("--book-folder", required=True)
+    p_mpdf.add_argument("--file", required=True)
+    add_common_create_flags(p_mpdf)
+    p_mpdf.set_defaults(func=monograph_pdf)
 
-    p = sub.add_parser("edited-volume-overview", help="Create edited volume overview source record under books/<book-folder>/.")
-    p.add_argument("--book-folder", required=True)
-    p.add_argument("--file", required=False, type=Path)
-    p.add_argument("--argument", required=True)
-    add_common_args(p)
-    add_biblio_args(p, book=True)
+    p_mepub = sub.add_parser("monograph-epub", help="Create a minimal monograph EPUB source record under books/<book-folder>/.")
+    p_mepub.add_argument("--book-folder", required=True)
+    p_mepub.add_argument("--file", required=True)
+    add_common_create_flags(p_mepub)
+    p_mepub.set_defaults(func=monograph_epub)
 
-    p = sub.add_parser("book-chapter", help="Create edited volume chapter source record under books/<book-folder>/.")
-    p.add_argument("--book-folder", required=True)
-    p.add_argument("--file", required=True, type=Path)
-    p.add_argument("--part-of", required=True)
-    add_common_args(p)
-    add_biblio_args(p, book=True, chapter=True)
+    p_ev = sub.add_parser("edited-volume-overview", help="Create a minimal edited-volume overview source record.")
+    p_ev.add_argument("--book-folder", required=True)
+    p_ev.add_argument("--record-name", required=True)
+    p_ev.add_argument("--citation", default="")
+    p_ev.add_argument("--processed-date")
+    p_ev.add_argument("--overwrite", action="store_true")
+    p_ev.add_argument("--dry-run", action="store_true")
+    p_ev.set_defaults(func=edited_volume_overview)
 
-    args = parser.parse_args()
-    extracted_to = parse_wikilink_list(getattr(args, "extracted_to", ""))
-    processed_date = args.date
+    p_ch = sub.add_parser("book-chapter", help="Create a minimal book-chapter source record.")
+    p_ch.add_argument("--book-folder", required=True)
+    p_ch.add_argument("--record-name", required=True)
+    p_ch.add_argument("--part-of", help="Parent source wikilink, e.g. [[Book_Source_Record]].")
+    p_ch.add_argument("--citation", default="")
+    p_ch.add_argument("--processed-date")
+    p_ch.add_argument("--overwrite", action="store_true")
+    p_ch.add_argument("--dry-run", action="store_true")
+    p_ch.set_defaults(func=book_chapter)
 
-    if args.cmd == "article":
-        create_article_or_report(
-            subtype="journal-article",
-            publication_type="journal-article",
-            source_file=args.file,
-            citation=args.citation,
-            extracted_to=extracted_to,
-            processed_date=processed_date,
-            overwrite=args.overwrite,
-            copy=args.copy,
-            no_move=args.no_move,
-            dry_run=args.dry_run,
-            journal=args.journal,
-            issuing_organization=args.issuing_organization,
-        )
+    return parser
 
-    elif args.cmd == "report":
-        create_article_or_report(
-            subtype="report-policy-document",
-            publication_type="report",
-            source_file=args.file,
-            citation=args.citation,
-            extracted_to=extracted_to,
-            processed_date=processed_date,
-            overwrite=args.overwrite,
-            copy=args.copy,
-            no_move=args.no_move,
-            dry_run=args.dry_run,
-            journal=args.journal,
-            issuing_organization=args.issuing_organization,
-        )
 
-    elif args.cmd == "monograph-pdf":
-        create_monograph_pdf(
-            book_folder=args.book_folder,
-            source_file=args.file,
-            citation=args.citation,
-            argument=args.argument,
-            extracted_to=extracted_to,
-            processed_date=processed_date,
-            overwrite=args.overwrite,
-            dry_run=args.dry_run,
-            book_title=args.book_title,
-            authors=parse_people(args.authors),
-            publisher=args.publisher,
-        )
-
-    elif args.cmd == "monograph-epub":
-        create_monograph_epub(
-            book_folder=args.book_folder,
-            source_file=args.file,
-            citation=args.citation,
-            argument=args.argument,
-            extracted_to=extracted_to,
-            processed_date=processed_date,
-            overwrite=args.overwrite,
-            dry_run=args.dry_run,
-            book_title=args.book_title,
-            authors=parse_people(args.authors),
-            publisher=args.publisher,
-        )
-
-    elif args.cmd == "edited-volume-overview":
-        create_edited_volume_overview(
-            book_folder=args.book_folder,
-            source_file=args.file,
-            citation=args.citation,
-            argument=args.argument,
-            extracted_to=extracted_to,
-            processed_date=processed_date,
-            overwrite=args.overwrite,
-            dry_run=args.dry_run,
-            book_title=args.book_title,
-            editors=parse_people(args.editors),
-            publisher=args.publisher,
-        )
-
-    elif args.cmd == "book-chapter":
-        create_book_chapter(
-            book_folder=args.book_folder,
-            source_file=args.file,
-            citation=args.citation,
-            extracted_to=extracted_to,
-            part_of=args.part_of,
-            processed_date=processed_date,
-            overwrite=args.overwrite,
-            dry_run=args.dry_run,
-            book_title=args.book_title,
-            chapter_title=args.chapter_title,
-            authors=parse_people(args.authors),
-            editors=parse_people(args.editors),
-            publisher=args.publisher,
-        )
-
-    else:
-        die(f"Unknown command: {args.cmd}")
-
-    return 0
+def main(argv: Optional[List[str]] = None) -> None:
+    parser = build_parser()
+    args = parser.parse_args(argv)
+    args.func(args)
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    main()
