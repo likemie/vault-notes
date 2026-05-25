@@ -14,8 +14,8 @@ extracted_to:
   - "[[Larry Cuban]]"
   - "[[Nation Building through Education]]"
   - "[[Cuban's Curriculum Change Theory]]"
-  - "[[Liberal Studies]]"
   - "[[National Education in Hong Kong]]"
+  - "[[Liberal Studies]]"
 processed_date: 2026-05-01
 ---
 

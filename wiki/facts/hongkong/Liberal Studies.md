@@ -13,6 +13,8 @@ tags:
 - region/china
 - level/k12
 related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Externalization]]"
   - "[[Multiplicity]]"
   - "[[One Country, Two Systems]]"
   - "[[Policy Borrowing]]"
@@ -23,8 +25,6 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Citizenship and Social Development]]"
-  - "[[Introduction of Liberal Studies]]"
-  - "[[Replacement of LS by CSD]]"
   - "[[2019 Hong Kong Protests and Education]]"
 related_arguments: []
 sources:
@@ -33,7 +33,7 @@ sources:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: '2026-05-25'
 ---
 
 ## 定义
@@ -120,13 +120,16 @@ updated: '2026-05-18'
 > - **2007** — 课程发展议会与香港考试及评核局联合发布《通识教育科课程及评估指引》
 > - **2009 年 9 月** — LS 正式成为新高中必修科
 > - **2012** — 德育及国民教育科争议爆发，LS 被质疑为国民教育缺乏创造条件
-> - **2014** — 雨伞运动，LS 被亲中政治力量质疑为年轻人参与社运的原因
+> - **2014** — 雨伞运动，LS 首次被亲中政治力量建构为年轻人参与社运的原因
 > - **2016** — 旺角骚乱，LS 继续被批评
-> - **2019 年 7-9 月** — 中国内地官媒集中攻击 LS（反修例运动背景下）
+> - **2019 年 7-9 月** — 中国官媒（《人民日报》、新华社、CCTV）集中攻击 LS，将科目描绘为年轻人参与抗议的"罪魁祸首"，触发从"小幅调整"到"彻底废除"的政策逆转（Yan & Morris, 2025, pp. 488–489）
 > - **2019 年 12 月** — 教育局宣布对 LS"教科书"进行一次性的专业咨询服务
 > - **2020 年 8 月** — 教科书审查完成
 > - **2020 年 9 月** — 课程检讨报告建议保留 LS 为必修科（仅小幅调整）
 > - **2020 年 11 月** — 港府突然宣布取消 LS
+>
+> > 这一政治化进程的关键转折在 2019 年：此前尽管有持续批评，2020 年课程检讨仍建议保留 LS 为必修科（仅小幅调整）。但在官媒集中攻击数月后，港府于 2020 年 11 月突然宣布全面废除——Yan & Morris (2025) 将此定性为"国家安全"压倒所有其他课程考量（p. 491）。
+>
 > - **2021 年 2 月** — LS 正式被 [[Citizenship and Social Development]] 取代
 
 ## 争议与批评
@@ -151,23 +154,11 @@ updated: '2026-05-18'
 >
 > **目前状态**：2020 年教育局进行了 LS "教科书"的一次性专业咨询服务（实质评审），标志着 LS 教材从专业自主转向政府控制的转变。
 
-
-> [!warning] 政治化：从"教育改革"到"国家安全威胁"
-> LS 的 12 年生命（2009–2021）中累计遭受了来自亲中政治力量的持续攻击，每一次香港重大社会运动都被归因于 LS "毒害青年思想"：
-> - 2012 年德育及国民教育科争议 → LS 被质疑为国民教育缺乏"创造条件"
-> - 2014 年雨伞运动 → LS 首次被建构为年轻人参与社运的原因
-> - 2016 年旺角骚乱 → LS 继续被批评
-> - 2019 年反修例运动 → 中国官媒（《人民日报》、新华社、CCTV）集中攻击 LS，将科目描绘为年轻人参与抗议的"罪魁祸首"，触发从"小幅调整"到"彻底废除"的政策逆转（Yan & Morris, 2025, pp. 488–489）
->
-> > 这一政治化进程的关键转折在 2019 年：此前尽管有持续批评，2020 年课程检讨仍建议保留 LS 为必修科（仅小幅调整）。但在官媒集中攻击数月后，港府于 2020 年 11 月突然宣布全面废除——Yan & Morris (2025) 将此定性为"国家安全"压倒所有其他课程考量（p. 491）。
->
-> **目前状态**：LS 已被 CSD 取代，争议焦点已从"LS 是否应该继续"转为"取代 LS 是否意味着批判性思维培养在香港课程中的终结"。
-
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Introduction of Liberal Studies]] — LS 创立政策
-> - [[Replacement of LS by CSD]] — LS 废除与 [[Citizenship and Social Development|CSD]] 引入
+> - Introduction of Liberal Studies — LS 创立政策
+> - Replacement of LS by [[Citizenship and Social Development|CSD]] — LS 废除与 [[Citizenship and Social Development|CSD]] 引入
 > - 2012 MNE Controversy — 德育及国民教育科争议
 > - [[2019 Hong Kong Protests and Education]] — 反修例运动与教育
 
