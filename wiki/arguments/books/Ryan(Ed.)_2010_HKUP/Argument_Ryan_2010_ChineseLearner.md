@@ -14,6 +14,7 @@ tags:
 - theme/cross-cultural
 related_concepts:
   - "[[Chinese Learner]]"
+  - "[[Rote Learning]]"
   - "[[Orientalism]]"
   - "[[Stereotype Threat]]"
   - "[[Meta-Cultural Sensitivity]]"
@@ -43,7 +44,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!question]
-> 西方教育界对[[Chinese Learner|中国学习者]]持有的刻板印象——既包括"缺陷型"（被动、死记硬背、缺乏批判思维）也包括"优势型"（勤奋、数学好、合作性强）——是否准确、有效？这些本质化的归类对身处跨文化教育环境中的学生和教师造成了什么影响？如何超越"大文化"解释框架，建立基于相互尊重和当代现实理解的跨文化教育对话？
+> 西方教育界对[[Chinese Learner|中国学习者]]持有的刻板印象——既包括"缺陷型"（被动、[[Rote Learning|死记硬背]]、缺乏批判思维）也包括"优势型"（勤奋、数学好、合作性强）——是否准确、有效？这些本质化的归类对身处跨文化教育环境中的学生和教师造成了什么影响？如何超越"大文化"解释框架，建立基于相互尊重和当代现实理解的跨文化教育对话？
 
 ## 理论框架
 
@@ -97,7 +98,7 @@ updated: '2026-05-18'
 #### 2a. 缺陷型刻板印象（Deficit Stereotypes）
 
 > [!warning]
-> 西方文献长期将中国/CHC 学习者描述为：死记硬背（rote）、被动、缺乏批判性思维、依赖教师、容易抄袭（Kirkpatrick, 2004; Kumaravadivelu, 2003; Ninnes, Aitchison, & Kalos, 1999; Ryan, 2010, p.40）。这些描述的共同逻辑是：**将西方学术规范设为标准，中国学习者因偏离这一标准而被视为"有缺陷"**。
+> 西方文献长期将中国/CHC 学习者描述为：[[Rote Learning|死记硬背]]（rote）、被动、缺乏批判性思维、依赖教师、容易抄袭（Kirkpatrick, 2004; Kumaravadivelu, 2003; Ninnes, Aitchison, & Kalos, 1999; Ryan, 2010, p.40）。这些描述的共同逻辑是：**将西方学术规范设为标准，中国学习者因偏离这一标准而被视为"有缺陷"**。
 
 **例（Ballard & Clanchy 案例——刻板印象如何"被选择性吸收"）：**
 

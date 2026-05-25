@@ -3,13 +3,13 @@ citation: "Hattie, J. (2015). The applicability of Visible Learning to higher ed
 extracted_to:
   - "[[Visible Learning]]"
   - "[[Problem-Based Learning]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Constructive Alignment]]"
   - "[[Feedback]]"
   - "[[Class Size]]"
   - "[[John Biggs]]"
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[John Hattie]]"
+  - "[[Surface and Deep Learning]]"
 processed_date: 2026-05-04
 ---
 

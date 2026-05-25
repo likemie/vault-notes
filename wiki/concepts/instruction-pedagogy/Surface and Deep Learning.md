@@ -13,12 +13,12 @@ tags:
 - level/higher-ed
 - region/china
 related_concepts:
-  - "[[The Great Learning]]"
   - "[[Problem-Based Learning]]"
   - "[[Western Learner]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Chinese Learner]]"
+  - "[[Rote Learning]]"
   - "[[Visible Learning]]"
   - "[[Constructive Alignment]]"
 related_theories:
@@ -101,7 +101,7 @@ updated: '2026-05-23'
 ### Marton 等（1996）：记忆作为深度策略
 
 > [!success]
-> Ference Marton、Gloria Dall'Alba 和 Lai Kun Tse 直接针对中国学习者最被诟病的"死记硬背"（rote learning）进行了研究。结果发现：中国学习者的背诵**不是目的本身**（not an end in itself），而是作为达成深层理解的更大策略的**第一步**（Li, 2012, pp.80-81）。
+> Ference Marton、Gloria Dall'Alba 和 Lai Kun Tse 直接针对中国学习者最被诟病的"[[Rote Learning|死记硬背]]"（rote learning）进行了研究。结果发现：中国学习者的背诵**不是目的本身**（not an end in itself），而是作为达成深层理解的更大策略的**第一步**（Li, 2012, pp.80-81）。
 
 这一发现挑战了表层/深层二分法的一个隐含假设：记忆 = 表层，理解 = 深层，两者是互斥的。在[[Chinese Learner|中国学习者]]的实践中，记忆和理解不是对立的——记忆是**通往理解的路径**。
 

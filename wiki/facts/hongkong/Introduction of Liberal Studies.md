@@ -18,8 +18,8 @@ related_concepts:
   - "[[Flow]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Externalization]]"
-  - "[[The Great Learning]]"
   - "[[Class Size]]"
+  - "[[Rote Learning]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -98,7 +98,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **支持立场**：[[Liberal Studies|LS]] 被视为香港教育"从死记硬背到批判思考"的转折点。Mary James (2017) 评价其"拓宽了所有学生的知识基础，增强了社会、国家和全球意识"
+> - **支持立场**：[[Liberal Studies|LS]] 被视为香港教育"从[[Rote Learning|死记硬背]]到批判思考"的转折点。Mary James (2017) 评价其"拓宽了所有学生的知识基础，增强了社会、国家和全球意识"
 > - **批评立场**：亲中政治力量从一开始就质疑 LS 为"没有学科根基的实验"，认为其缺乏对中国历史与共产党的系统性正面介绍（Yan & Morris, 2025, p. 488）
 > - **[[Policy Borrowing|政策借用]]解读**：Forestier et al. (2016) 和 Yan & Morris (2025) 指出 LS 的全球参照是**选择性的工具使用**——借用 IBDP 的形式但不借用其国际主义价值观，反而同时嵌入"现代中国"单元来推动国民教育
 

@@ -13,6 +13,7 @@ tags:
 - theme/cross-cultural-learning
 - theme/examination
 related_concepts:
+  - "[[Rote Learning]]"
   - "[[Filial Piety]]"
   - "[[Self-Cultivation]]"
 related_theories: []
@@ -35,7 +36,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info]
-> "考试地狱"（examination hell）是 Ishisada（1974）创造的术语，用于描述东亚教育体系——特别是中国——以考试为唯一驱动的教育模式。该体系长期以来被批评为：教师中心、威权主义、鼓励死记硬背、培养外在动机、扼杀创造力（Li, 2012, p.75）。
+> "考试地狱"（examination hell）是 Ishisada（1974）创造的术语，用于描述东亚教育体系——特别是中国——以考试为唯一驱动的教育模式。该体系长期以来被批评为：教师中心、威权主义、鼓励[[Rote Learning|死记硬背]]、培养外在动机、扼杀创造力（Li, 2012, p.75）。
 
 > [!quote]
 > "东亚教育体系是考试驱动的，这对世人来说已不是秘密。任何不承认这一被谴责面向的关于中国和亚洲学习的讨论，都必然面临怀疑。"（Li, 2012, p.75）

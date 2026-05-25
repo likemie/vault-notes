@@ -7,7 +7,6 @@ extracted_to:
   - "[[Dylan Wiliam]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
-  - "[[Goldman's Discrimination Theory of Knowledge]]"
   - "[[Hargreaves 1996 TTA Lecture]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Meta-analysis]]"
@@ -16,6 +15,7 @@ extracted_to:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Validity as Inferences]]"
   - "[[Adrian Simpson]]"
+  - "[[Goldman's Discrimination Theory of Knowledge]]"
 processed_date: 2026-05-01
 ---
 

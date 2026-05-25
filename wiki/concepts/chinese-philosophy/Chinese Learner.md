@@ -30,6 +30,7 @@ related_concepts:
   - "[[Listening-Oriented Learning]]"
   - "[[Devil's Advocate]]"
   - "[[Paradox of the Chinese Learner]]"
+  - "[[Rote Learning]]"
   - "[[Stereotype Threat]]"
   - "[[Familiarization]]"
   - "[[Heart and Mind for Wanting to Learn]]"
@@ -201,7 +202,7 @@ updated: '2026-05-24'
 > - vs **[[Western Learner]]** — 中国学习者向内完善自我，西方学习者向外探究世界。方向性差异衍生出全部次级差异：品德 vs 心智、尊师 vs 挑战权威、[[Action Better Than Words|行胜于言]] vs 自我表达、终身[[Self-Cultivation|修身]] vs 项目式探究。系统对比见 [[Western Learner#概念辨析]]
 > - vs **"亚洲学习者"（Asian learner）** — 中国学习者更具体地指向中国及[[Confucian Heritage Cultures|儒家文化圈]]；"亚洲"掩盖了 CHC 与南亚、东南亚非儒家文化圈之间的根本差异（Ryan, 2010, p.39）
 > - vs **"国际学生"（international student）** — 按签证/流动状态的制度标签 vs 按文化背景的学术概念
-> - vs **[[Paradox of the Chinese Learner]]** — 后者特指"中国学习者被认为是被动死记硬背的，但学业成就却很高"这一矛盾现象
+> - vs **[[Paradox of the Chinese Learner]]** — 后者特指"中国学习者被认为是被动[[Rote Learning|死记硬背]]的，但学业成就却很高"这一矛盾现象
 
 ---
 
@@ -212,7 +213,7 @@ updated: '2026-05-24'
 
 ### 第一阶段：缺陷型刻板印象（Deficit Stereotypes）
 
-西方长期持有的负面认知：认为中国学习者死记硬背、被动、缺乏想象力、等级观念强。这一模式隐含地将西方教育理念（批判思维、独立、创造性）设为规范，中国学习者因偏离此规范而被视为"有缺陷"（Slethaug, 2010, p.2）。
+西方长期持有的负面认知：认为中国学习者[[Rote Learning|死记硬背]]、被动、缺乏想象力、等级观念强。这一模式隐含地将西方教育理念（批判思维、独立、创造性）设为规范，中国学习者因偏离此规范而被视为"有缺陷"（Slethaug, 2010, p.2）。
 
 > [!note] 刻板印象的再生产机制
 > Ryan（2010, pp.41–42）以 Ballard & Clanchy（1991, 1997）在澳大利亚的影响为典型案例：其著作在图书馆中被严重标注，但被高亮的段落恰恰是描述 [[Confucian Heritage Cultures|CHC]] 学习者"缺陷"的部分，而作者明确警告刻板印象危险的段落却几乎未被标注。完整四步拆解见 [[Argument_Ryan_2010_ChineseLearner#2a. 缺陷型刻板印象（Deficit Stereotypes）]]。心理机制——刻板印象如何通过威胁感知成为自我实现的预言——见 [[Stereotype Threat]]。

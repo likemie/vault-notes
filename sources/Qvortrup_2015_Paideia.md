@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Visible Learning]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
@@ -14,6 +13,7 @@ extracted_to:
   - "[[John Biggs]]"
   - "[[John Hattie]]"
   - "[[Jean Piaget]]"
+  - "[[Surface and Deep Learning]]"
 processed_date: 2026-05-05
 ---
 

@@ -7,7 +7,6 @@ extracted_to:
   - "[[Citizenship and Social Development]]"
   - "[[Cuban's Curriculum Change Theory]]"
   - "[[Historical Document Analysis of Curriculum]]"
-  - "[[Introduction of Liberal Studies]]"
   - "[[Liberal Studies]]"
   - "[[Nation Building through Education]]"
   - "[[National Education in Hong Kong]]"
@@ -18,6 +17,7 @@ extracted_to:
   - "[[World Culture Theory]]"
   - "[[Paul Morris]]"
   - "[[Larry Cuban]]"
+  - "[[Introduction of Liberal Studies]]"
 processed_date: 2026-05-01
 ---
 

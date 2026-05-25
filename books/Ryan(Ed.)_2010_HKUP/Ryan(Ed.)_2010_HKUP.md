@@ -1,6 +1,15 @@
 ---
 citation: "Ryan, J. & Slethaug, G. (Eds.). (2010). International Education and the Chinese Learner. Hong Kong University Press."
-extracted_to: ["[[Argument_Ryan_2010_HKUP]]", "[[International Education]]", "[[Chinese Learner]]", "[[Fourth Culture]]", "[[Symposium on International Teaching]]", "[[English Schools Foundation Hong Kong]]", "[[Transnationalism and America Project SYSU]]", "[[Argument_Slethaug_2010_InternationalEducation]]", "[[Argument_Ryan_2010_ChineseLearner]]", "[[Stereotype Threat]]", "[[Meta-Cultural Sensitivity]]", "[[China Basic Education Curriculum Reform]]"]
+extracted_to:
+  - "[[Argument_Ryan_2010_HKUP]]"
+  - "[[International Education]]"
+  - "[[Fourth Culture]]"
+  - "[[Symposium on International Teaching]]"
+  - "[[English Schools Foundation Hong Kong]]"
+  - "[[Transnationalism and America Project SYSU]]"
+  - "[[Stereotype Threat]]"
+  - "[[Meta-Cultural Sensitivity]]"
+  - "[[Chinese Learner]]"
 processed_date: 2026-05-17
 ---
 

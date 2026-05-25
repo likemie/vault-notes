@@ -16,9 +16,9 @@ tags:
 - policy/curriculum-reform
 related_concepts:
   - "[[Student-Teacher Relationship]]"
-  - "[[The Great Learning]]"
   - "[[Feedback]]"
   - "[[Chinese Learner]]"
+  - "[[Rote Learning]]"
   - "[[Stereotype Threat]]"
 related_theories: []
 related_methods: []
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 ## 效果与评价
 
 > [!success]
-> - Ryan（2010, p.55）论证，这一改革如此深刻，使得西方对[[Chinese Learner|中国学习者]]"被动、死记硬背"的刻板印象日益脱离现实
+> - Ryan（2010, p.55）论证，这一改革如此深刻，使得西方对[[Chinese Learner|中国学习者]]"被动、[[Rote Learning|死记硬背]]"的刻板印象日益脱离现实
 > - 中国教育界内部对"如何整合中西学习与学术理念"存在激烈的辩论，尤其是交际语言教学领域；既有提倡从《论语》中汲取智慧推动"中国复兴"的声音（Yip Kwok-wah, 2006），也有主张"残酷地攻击和否定儒学的糟粕"的立场（Yip, 2006, p.xv, 转引自 Ryan, 2010, p.56）
 
 ## 争议与评论
