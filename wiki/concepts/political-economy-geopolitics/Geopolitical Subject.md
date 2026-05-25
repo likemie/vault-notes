@@ -140,13 +140,13 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 > [!info] 理论基础
 > - [[Knowledge-Based Economization]] — 为地缘政治主体概念提供了总体分析框架：经济化过程不仅涉及市场逻辑的扩展，还涉及"将人们——包括经济和政治行动者——的行为带入某种将保持积累体制运转的配置"（Harvey, 1978, p.121, cited in Moisio, 2022, p.29）
 > - Hardt & Negri（2000）的 Empire 理论 — 提供对知识密集型资本主义所需劳动类型的分析（交际性、合作性、情感性劳动），解释了为什么地缘政治主体不能仅被还原为技能
-> - Foucault 的[[Governmentality|治理术]]（governmentality）传统 — 隐性地支撑了对主体如何在制度性实践中被形塑的分析；Moisio 的主体"装备"概念与 Foucault 的"主体化"（subjectivation）过程虽未直接引用但存在分析上的亲和性（编者类比）
+> - Foucault 的[[Governmentality|治理术]]（governmentality）传统 — 隐性地支撑了对主体如何在制度性实践中被形塑的分析；Moisio 的主体"装备"概念与 Foucault 的"主体化"（subjectivation）过程虽未直接引用但存在分析上的亲和性
 >
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 该概念目前仅在 Moisio（2022）章节中提出，其经验适用性和操作化路径尚待后续研究验证（编者类比）
+> - 该概念目前仅在 Moisio（2022）章节中提出，其经验适用性和操作化路径尚待后续研究验证
 > - 高等教育空间中对地缘政治主体的具体形塑过程究竟是*如何运作的*——"how this crafting of political subjectivity actually re-works the capacities and orientations of these new geopolitical subjects"——仍然是研究不足的领域（Moisio, 2022, p.29）
 > - 该概念的分析存在不对称性：国家如何"装备"主体被描述得很强，但主体是否以及如何*抵抗*这种装备、如何在被塑造的过程中发展出非预期的主体性，讨论尚不充分
 >

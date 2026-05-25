@@ -37,7 +37,7 @@ updated: '2026-05-25'
 > [!info] 定义
 > 2020 年 6 月 30 日，《中华人民共和国香港特别行政区维护国家安全法》（简称《香港国安法》）颁布实施。该法虽然以"国家安全"为核心，但其对香港教育体系的影响是深远且多维的：它为强制推行国民教育提供了法律框架，授权政府以"国家安全"为理由直接干预课程内容、教学材料和学校管理，从根本上改变了香港教育的政治和法律环境。
 >
-> > "The introduction of the National Security Law in 2020 provided the legal framework for compulsory national education." (编者概括，基于 Yan & Morris, 2025, pp. 490–491)
+> > "The introduction of the National Security Law in 2020 provided the legal framework for compulsory national education." (基于 Yan & Morris, 2025, pp. 490–491)
 
 ---
 

@@ -62,7 +62,7 @@ updated: '2026-05-18'
 >
 > > "Closed system explanations are rarely adequate in the natural world, and certainly not in social situations. Multiple forces are at work which may contradict as well as reinforce each other, and it is rare that a single causal factor or force may explain much of what occurs." (Wrigley & McCusker, 2019, p. 113)
 >
-> > 例：教师试图复制一项成功的阅读理解干预。在一个课堂中它有效（因果力被触发），在另一个课堂中无效（因果力被阻断——可能是由于学生先前知识不足、[[Classroom Management|课堂管理]]问题或学校文化不支持独立阅读）。仅知道平均效应量无法帮助教师判断她的课堂属于哪种情况（编者类比）。
+> > 例：教师试图复制一项成功的阅读理解干预。在一个课堂中它有效（因果力被触发），在另一个课堂中无效（因果力被阻断——可能是由于学生先前知识不足、[[Classroom Management|课堂管理]]问题或学校文化不支持独立阅读）。仅知道平均效应量无法帮助教师判断她的课堂属于哪种情况。
 
 
 > [!abstract] 社会结构的涌现性（Bhaskar, 1979）
@@ -93,9 +93,9 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **方法论操作性不足**：批判实在论提供了丰富的哲学框架，但将其转化为具体研究实践操作的指导相对薄弱。Wrigley 推崇的"实在论综合"（Pawson, 2006）比"计算平均[[Effect Size|效应量]]"复杂得多，尚未被证明可简化为一线教师可用的工具（编者类比）。
+> - **方法论操作性不足**：批判实在论提供了丰富的哲学框架，但将其转化为具体研究实践操作的指导相对薄弱。Wrigley 推崇的"实在论综合"（Pawson, 2006）比"计算平均[[Effect Size|效应量]]"复杂得多，尚未被证明可简化为一线教师可用的工具。
 > - **与实证研究的张力**：批判实在论对"经验层面"规则的怀疑可能被误解为对量化方法的全面拒绝——尽管 Bhaskar 和 Wrigley 均明确否认这一点。
-> - **在 [[Evidence-Based Education|EBE]] 辩论中的接受度**：批判实在论为 EBE 的方法论批判提供了最系统的哲学基础，但其在政策制定者和 EBE 倡导者中的影响力有限——部分原因是其术语体系（"深层实在"、"涌现"、"实际化"）对非哲学背景的读者构成理解障碍（编者类比）。
+> - **在 [[Evidence-Based Education|EBE]] 辩论中的接受度**：批判实在论为 EBE 的方法论批判提供了最系统的哲学基础，但其在政策制定者和 EBE 倡导者中的影响力有限——部分原因是其术语体系（"深层实在"、"涌现"、"实际化"）对非哲学背景的读者构成理解障碍。
 
 ## 相关研究
 

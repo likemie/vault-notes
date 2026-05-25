@@ -736,7 +736,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 - 这一转变的关键特征是**价值中立的工具理性**取代了传统共识理性——"This kind of rationality is characterized by being instrumental and value neutral"（p. 85）
 - 现代国家机构通过**咨询专家**（而非公民积极参与）并应用技术科学逻辑来解决复杂的经济、政治和文化问题——"modern state institutions seek to solve the complex economic, political, and cultural problems of society by consulting experts (not through citizens' active participation) and applying technical scientific logic"（Habermas, 1976, p. 34, cited in Nielsen & Klitmøller, 2021, p. 85）
 
-> 例：丹麦在 [[PISA]] 冲击后的教育政策转变——前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"，从以儿童为中心的教育学转向以可测量的学习成果为中心的技术管理模式（Nielsen & Klitmøller, 2021, p. 82）。（编者类比）
+> 例：丹麦在 [[PISA]] 冲击后的教育政策转变——前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"，从以儿童为中心的教育学转向以可测量的学习成果为中心的技术管理模式（Nielsen & Klitmøller, 2021, p. 82）。
 
 **第三步：合法化危机的结构性矛盾**
 
@@ -790,7 +790,7 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 
 在 Hattie 的作品中，不存在将学生或教师理解为"寻求意义的"（meaning-seeking）或"解释性的"（interpretive）存在的概念。虽然学生必须是"活跃的"，但他们不被理解为具有意向性的行动者——他们只机械地对反馈做出反应。Hattie 用[[Self-Efficacy|自我效能]]、自我设障、自我动机、自我目标、自我依赖等概念**替代**了学生对其学校体验的诠释——"served Hattie's ambition of supporting the students in becoming their own teachers"（p. 88），而非真正理解教学情境对学生的意义。
 
-> 例：Hattie 谈论"反馈"的强大效应（d=0.73，排名前十）——但反馈之所以有效的前提是学生**在意**他们收到的反馈。如果一个学生对"为什么要学这个"有根本怀疑，仅仅增加反馈的频率和精确性不会解决动机问题。技术理性框架无法提出"这个反馈对学生意味着什么？"的问题——因为这种问题不在手段-目的范畴之内。（编者类比）
+> 例：Hattie 谈论"反馈"的强大效应（d=0.73，排名前十）——但反馈之所以有效的前提是学生**在意**他们收到的反馈。如果一个学生对"为什么要学这个"有根本怀疑，仅仅增加反馈的频率和精确性不会解决动机问题。技术理性框架无法提出"这个反馈对学生意味着什么？"的问题——因为这种问题不在手段-目的范畴之内。
 
 **第二重：学习目标被神圣化——封闭系统的创造**
 
