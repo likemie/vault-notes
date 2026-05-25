@@ -20,6 +20,7 @@ tags:
   - theme/shadow-education
   - theme/academic-pressure
 related_concepts:
+  - "[[Nerd]]"
   - "[[Examination Hell]]"
 related_theories: []
 related_methods: []

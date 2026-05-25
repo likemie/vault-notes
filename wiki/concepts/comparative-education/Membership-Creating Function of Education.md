@@ -16,7 +16,9 @@ related_theories:
   - "[[World Society Theory]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Liberal Studies]]"
+  - "[[Citizenship and Social Development]]"
 related_arguments: []
 sources:
   - "[[Ch4_Amos_2022]]"

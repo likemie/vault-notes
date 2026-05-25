@@ -12,6 +12,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Multiplicity]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
@@ -20,7 +21,8 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Doreen Massey]]"
-related_facts: []
+related_facts:
+  - "[[Academic Ranking of World Universities]]"
 related_arguments: []
 sources:
   - "[[Marginson_2025_ROE]]"

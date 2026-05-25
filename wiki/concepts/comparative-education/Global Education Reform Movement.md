@@ -1,16 +1,15 @@
 ---
 title: Global Education Reform Movement
 aliases:
-  - global-education-reform-movement
   - GERM
-  - "Global Education Reform Movement (GERM)"
+  - 全球教育改革运动
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 tags:
-- germ
-- global-education-reform-movement
-- neoliberalism
-- region/global
+  - germ
+  - global-education-reform-movement
+  - neoliberalism
+  - region/global
 related_concepts:
   - "[[New Public Management]]"
   - "[[Visible Learning]]"
@@ -25,8 +24,8 @@ sources:
   - "[[Johnson_2023_CE]]"
 confidence: medium
 status: draft
-created: '2026-05-04'
-updated: '2026-05-18'
+created: 2026-05-04
+updated: 2026-05-18
 ---
 
 ## 定义

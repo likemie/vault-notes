@@ -12,7 +12,8 @@ tags:
 - qualitative
 - paradigm/critical
 - paradigm/interpretivist
-related_concepts: []
+related_concepts:
+  - "[[Externalization]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
 related_methods:
@@ -22,7 +23,9 @@ related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
 sources:
   - "[[Yan_2025_JCS]]"
-related_facts: []
+related_facts:
+  - "[[Liberal Studies]]"
+  - "[[Citizenship and Social Development]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

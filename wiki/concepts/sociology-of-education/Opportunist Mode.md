@@ -13,6 +13,7 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[Graduation Pathway Typology]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Self-Driven Mode]]"
 related_theories:

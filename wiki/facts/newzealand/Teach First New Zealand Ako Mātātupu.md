@@ -21,6 +21,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Grammar School]]"
+  - "[[Partnership Schools Kura Hourua]]"
+  - "[[Cognition Education]]"
 related_arguments: []
 sources:
   - "[[ONeill_2016_Report]]"

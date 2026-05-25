@@ -32,7 +32,8 @@ related_concepts:
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Fixity-Motion Tension]]"
-related_methods: []
+related_methods:
+  - "[[Single-Case Design]]"
 related_persons:
   - "[[Bob Jessop]]"
 related_facts:

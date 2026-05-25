@@ -14,6 +14,9 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Cognition Education]]"
+  - "[[Tomorrow's Schools Reforms]]"
+  - "[[Jerudong International School Establishment]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments: []
 sources: []

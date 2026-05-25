@@ -13,12 +13,14 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Multiplicity]]"
   - "[[Champ]]"
 related_theories:
   - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Sino-American Trade War]]"
 related_arguments: []
 sources:
   - "[[Ch2_Moisio_2022]]"

@@ -1,6 +1,7 @@
 ---
-title: Legitimation Theory Van Leeuwen
+title: Van Leeuwen's Legitimation Theory
 aliases:
+  - Legitimation Theory Van Leeuwen
   - 范李文的合法化理论
   - 合法化理论
 summary: "分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场"

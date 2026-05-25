@@ -13,7 +13,8 @@ tags:
 - cultural-sociology
 - region/china
 - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Multiplicity]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []

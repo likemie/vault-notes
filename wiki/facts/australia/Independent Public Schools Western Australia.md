@@ -23,6 +23,7 @@ related_persons:
   - "[[Bertrand Russell]]"
 related_facts:
   - "[[Karmel Report 1973]]"
+  - "[[Local Schools Local Decisions]]"
 related_arguments: []
 sources:
   - "[[Keddie_2020_IJLE]]"

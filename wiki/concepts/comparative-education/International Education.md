@@ -21,6 +21,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[PISA]]"
+  - "[[Academic Ranking of World Universities]]"
+  - "[[International Baccalaureate]]"
   - "[[Education City Doha]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[Transnationalism and America Project SYSU]]"

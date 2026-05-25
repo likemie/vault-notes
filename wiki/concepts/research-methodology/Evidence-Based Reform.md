@@ -42,10 +42,16 @@ related_persons:
   - "[[Robert Slavin]]"
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[Comprehensive School Reform Program]]"
   - "[[Success for All]]"
+  - "[[Investing in Innovation Program]]"
+  - "[[What Works Clearinghouse]]"
+  - "[[Best Evidence Encyclopedia]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Best Evidence in Brief]]"
   - "[[Pact for Educational Excellence]]"
   - "[[ECNU Declaration on Evidence-Based Research 2017]]"
+  - "[[Students and Teachers Accessing Tomorrow]]"
 related_arguments: []
 sources:
   - "[[Slavin_2002_ER]]"

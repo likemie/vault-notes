@@ -11,6 +11,7 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[Graduation Pathway Typology]]"
   - "[[Value Conformist Mode]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunist Mode]]"

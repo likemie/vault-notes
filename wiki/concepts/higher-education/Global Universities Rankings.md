@@ -29,6 +29,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Academic Ranking of World Universities]]"
   - "[[UN Sustainable Development Goals 2015]]"
   - "[[OECD AHELO Project]]"
   - "[[University of Kentucky Top-20 Plan]]"

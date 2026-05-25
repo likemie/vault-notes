@@ -16,7 +16,8 @@ related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Liberal Studies]]"
 related_arguments: []
 sources:
   - "[[Yan_2025_JCS]]"

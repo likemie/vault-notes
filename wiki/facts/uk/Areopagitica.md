@@ -32,7 +32,7 @@ created: '2026-05-10'
 updated: '2026-05-18'
 ---
 
-# Areopagitica (1644)
+# Areopagitica
 
 ## 背景
 

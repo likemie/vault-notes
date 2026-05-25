@@ -19,11 +19,13 @@ related_concepts:
   - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[Performativity of Measurement]]"
-related_theories: []
+related_theories:
+  - "[[Science and Technology Studies]]"
 related_methods: []
 related_persons: []
 related_facts:
   - "[[PISA]]"
+  - "[[International Indicators of Education Systems]]"
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"

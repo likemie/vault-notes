@@ -21,6 +21,10 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[YOUNG_ADULLLT]]"
+  - "[[Manaiakalani Education Trust]]"
+  - "[[Cognition Education]]"
+  - "[[Teach First New Zealand Ako Mātātupu]]"
+  - "[[Partnership Schools Kura Hourua]]"
 related_arguments: []
 sources:
   - "[[ONeill_2016_Report]]"

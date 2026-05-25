@@ -13,6 +13,7 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[Graduation Pathway Typology]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Champ]]"

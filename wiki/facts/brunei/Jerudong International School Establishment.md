@@ -16,7 +16,9 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Cognition Education]]"
+  - "[[Tomorrow's Schools Reforms]]"
 related_arguments: []
 sources: []
 confidence: medium
@@ -25,7 +27,7 @@ created: 2026-05-22
 updated: 2026-05-22
 ---
 
-# Jerudong International School Establishment (Brunei 1997)
+# Jerudong International School Establishment
 
 ## 背景
 

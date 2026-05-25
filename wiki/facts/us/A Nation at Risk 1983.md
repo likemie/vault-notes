@@ -21,8 +21,10 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[International Indicators of Education Systems]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Coleman Report 1966]]"
+  - "[[Education at a Glance]]"
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"

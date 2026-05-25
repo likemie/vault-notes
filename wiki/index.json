@@ -399,9 +399,8 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Global Education Reform Movement.md",
     "aliases": [
-      "global-education-reform-movement",
       "GERM",
-      "Global Education Reform Movement (GERM)"
+      "全球教育改革运动"
     ]
   },
   {
@@ -1693,7 +1692,7 @@
   {
     "title": "Cognitive Inhibition",
     "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/cognitive-inhibition.md",
+    "path": "wiki/concepts/learning-science-cognitive-science/Cognitive Inhibition.md",
     "aliases": [
       "认知抑制",
       "inhibition"
@@ -1702,7 +1701,7 @@
   {
     "title": "Cognitive Shifting",
     "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/cognitive-shifting.md",
+    "path": "wiki/concepts/learning-science-cognitive-science/Cognitive Shifting.md",
     "aliases": [
       "认知转换",
       "认知灵活性",
@@ -1725,7 +1724,7 @@
   {
     "title": "Executive Function",
     "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/executive-function.md",
+    "path": "wiki/concepts/learning-science-cognitive-science/Executive Function.md",
     "aliases": [
       "执行功能",
       "EF"
@@ -1821,7 +1820,7 @@
   {
     "title": "Prefrontal Cortex",
     "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/prefrontal-cortex.md",
+    "path": "wiki/concepts/learning-science-cognitive-science/Prefrontal Cortex.md",
     "aliases": [
       "前额叶皮层",
       "PFC"
@@ -1857,7 +1856,7 @@
   {
     "title": "Synaptic Pruning",
     "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/synaptic-pruning.md",
+    "path": "wiki/concepts/learning-science-cognitive-science/Synaptic Pruning.md",
     "aliases": [
       "突触修剪"
     ]
@@ -1873,7 +1872,7 @@
   {
     "title": "Updating and Monitoring",
     "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/updating-and-monitoring.md",
+    "path": "wiki/concepts/learning-science-cognitive-science/Updating and Monitoring.md",
     "aliases": [
       "更新与监控"
     ]
@@ -1881,7 +1880,7 @@
   {
     "title": "Working Memory",
     "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/working-memory.md",
+    "path": "wiki/concepts/learning-science-cognitive-science/Working Memory.md",
     "aliases": [
       "工作记忆"
     ]
@@ -2766,10 +2765,11 @@
     ]
   },
   {
-    "title": "Legitimation Theory Van Leeuwen",
+    "title": "Van Leeuwen's Legitimation Theory",
     "type": "theory",
-    "path": "wiki/theories/communication-discourse/Legitimation Theory Van Leeuwen.md",
+    "path": "wiki/theories/communication-discourse/Van Leeuwen's Legitimation Theory.md",
     "aliases": [
+      "Legitimation Theory Van Leeuwen",
       "范李文的合法化理论",
       "合法化理论"
     ]
@@ -3002,8 +3002,9 @@
   {
     "title": "Hebbian Principles",
     "type": "theory",
-    "path": "wiki/theories/learning-science-cognitive-science/hebbian-principles.md",
+    "path": "wiki/theories/learning-science-cognitive-science/Hebbian Principles.md",
     "aliases": [
+      "hebbian-principles",
       "赫布原则",
       "Hebbian principles"
     ]
@@ -3011,8 +3012,9 @@
   {
     "title": "Miyake's Unity and Diversity Framework of Executive Function",
     "type": "theory",
-    "path": "wiki/theories/learning-science-cognitive-science/miyake-unity-diversity-framework.md",
+    "path": "wiki/theories/learning-science-cognitive-science/Miyake's Unity and Diversity Framework of Executive Function.md",
     "aliases": [
+      "miyake-unity-diversity-framework",
       "宫崎统一-多样性框架",
       "执行功能统一-多样性框架"
     ]
@@ -3020,16 +3022,18 @@
   {
     "title": "Neo-Piagetian Theories",
     "type": "theory",
-    "path": "wiki/theories/learning-science-cognitive-science/neo-piagetian-theories.md",
+    "path": "wiki/theories/learning-science-cognitive-science/Neo-Piagetian Theories.md",
     "aliases": [
+      "neo-piagetian-theories",
       "新皮亚杰理论"
     ]
   },
   {
     "title": "Piaget's Theory of Cognitive Development",
     "type": "theory",
-    "path": "wiki/theories/learning-science-cognitive-science/piagets-theory-of-cognitive-development.md",
+    "path": "wiki/theories/learning-science-cognitive-science/Piaget's Theory of Cognitive Development.md",
     "aliases": [
+      "piagets-theory-of-cognitive-development",
       "皮亚杰认知发展理论",
       "认知发展阶段理论"
     ]
@@ -3412,8 +3416,9 @@
   {
     "title": "Functional Magnetic Resonance Imaging",
     "type": "method",
-    "path": "wiki/methods/quantitative/functional-magnetic-resonance-imaging.md",
+    "path": "wiki/methods/quantitative/Functional Magnetic Resonance Imaging.md",
     "aliases": [
+      "functional-magnetic-resonance-imaging",
       "功能性磁共振成像",
       "fMRI"
     ]

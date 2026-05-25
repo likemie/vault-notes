@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Academic Engagement]]"
   - "[[Tall Poppy Syndrome]]"
+  - "[[Zero-Sum Competition]]"
   - "[[Tongxue]]"
 related_theories: []
 related_methods: []
@@ -30,7 +31,7 @@ created: 2026-05-23
 updated: 2026-05-23
 ---
 
-# Nerd (School Peer Culture)
+# Nerd
 
 ## 定义
 

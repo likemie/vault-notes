@@ -19,7 +19,9 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[US-China Economic and Security Review Commission]]"
+  - "[[Sino-American Trade War]]"
 related_arguments: []
 sources:
   - "[[Ch5_Partaken_2022]]"

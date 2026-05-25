@@ -17,7 +17,8 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[VUCA]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Single-Case Design]]"
 related_persons: []
 related_facts: []
 related_arguments: []

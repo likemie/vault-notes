@@ -19,7 +19,8 @@ related_persons: []
 related_arguments: []
 sources:
   - "[[Yan_2025_JCS]]"
-related_facts: []
+related_facts:
+  - "[[Liberal Studies]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

@@ -9,7 +9,8 @@ tags:
 - causal-inference
 - subject/research-methodology
 - paradigm/positivist
-related_concepts: []
+related_concepts:
+  - "[[Stable Unit Treatment Value Assumption]]"
 related_theories: []
 related_methods:
   - "[[Causal Modeling]]"

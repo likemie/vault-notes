@@ -21,6 +21,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[International Indicators of Education Systems]]"
+  - "[[Education at a Glance]]"
   - "[[PISA]]"
 related_arguments: []
 sources:

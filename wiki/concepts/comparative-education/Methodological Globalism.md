@@ -13,6 +13,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Scale in Higher Education]]"
   - "[[Semi-Autonomy of Higher Education]]"
+  - "[[Multiplicity]]"
 related_theories:
   - "[[World-Systems Theory]]"
 related_methods: []

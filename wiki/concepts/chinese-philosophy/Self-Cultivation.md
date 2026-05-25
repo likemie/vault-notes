@@ -22,6 +22,7 @@ related_concepts:
   - "[[Ideal Learner]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
+  - "[[Establishing One's Will]]"
   - "[[Benevolence]]"
   - "[[Five Cardinal Relationships]]"
   - "[[Heart and Mind for Wanting to Learn]]"

@@ -16,12 +16,14 @@ related_concepts:
   - "[[Methodological Globalism]]"
   - "[[Double Spatiality of Universities]]"
   - "[[Scale in Higher Education]]"
+  - "[[Multiplicity]]"
 related_theories:
   - "[[Hegemony]]"
   - "[[World-Systems Theory]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Sino-American Trade War]]"
 related_arguments: []
 sources:
   - "[[Marginson_2025_ROE]]"

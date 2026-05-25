@@ -10,7 +10,8 @@ related_concepts:
   - "[[Fourth Industrial Revolution]]"
 related_theories:
   - "[[Governmentality]]"
-related_methods: []
+related_methods:
+  - "[[Single-Case Design]]"
 related_persons: []
 related_facts: []
 related_arguments: []

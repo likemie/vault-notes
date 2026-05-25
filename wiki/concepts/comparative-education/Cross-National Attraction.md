@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Externalization]]"
 related_theories: []
 related_methods: []
 related_persons: []

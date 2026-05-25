@@ -22,6 +22,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[PISA]]"
+  - "[[Education at a Glance]]"
 related_arguments: []
 sources: []
 part_of: ''

@@ -18,6 +18,7 @@ tags:
 - theme/organisational-history
 - source/book
 related_concepts:
+  - "[[Educational Management Organisation]]"
   - "[[International Education]]"
   - "[[School Leadership]]"
 related_theories: []
@@ -25,6 +26,8 @@ related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_facts:
+  - "[[Tomorrow's Schools Reforms]]"
+  - "[[Jerudong International School Establishment]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments: []
 sources:
@@ -36,7 +39,7 @@ created: '2026-05-23'
 updated: '2026-05-23'
 ---
 
-# Cognition Education (NZ)
+# Cognition Education
 
 ## 背景
 

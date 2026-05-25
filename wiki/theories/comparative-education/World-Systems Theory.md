@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Methodological Globalism]]"
   - "[[Methodological Nationalism]]"
+  - "[[Multiplicity]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []

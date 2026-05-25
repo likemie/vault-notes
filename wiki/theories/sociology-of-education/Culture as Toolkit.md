@@ -20,6 +20,8 @@ related_concepts:
   - "[[Opportunist Mode]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
+  - "[[Work Meaning Schemas]]"
+  - "[[Graduation Pathway Typology]]"
 related_theories:
   - "[[Dual-Process Model of Culture in Action]]"
 related_methods: []

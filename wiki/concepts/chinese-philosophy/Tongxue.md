@@ -16,6 +16,7 @@ tags:
   - theme/learning-model
 related_concepts:
   - "[[Class Size]]"
+  - "[[Zero-Sum Competition]]"
 related_theories: []
 related_methods: []
 related_persons:

@@ -18,6 +18,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Citizenship and Social Development]]"
+  - "[[Liberal Studies]]"
   - "[[National Education in Hong Kong]]"
   - "[[2019 Hong Kong Protests and Education]]"
 related_arguments: []

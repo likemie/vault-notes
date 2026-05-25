@@ -25,6 +25,7 @@ sources:
   - "[[Yan_2025_JCS]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Liberal Studies]]"
   - "[[Transnationalism and America Project SYSU]]"
 confidence: high
 status: draft

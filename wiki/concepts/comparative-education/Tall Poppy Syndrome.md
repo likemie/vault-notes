@@ -13,6 +13,8 @@ tags:
   - theme/achievement
   - theme/social-comparison
 related_concepts:
+  - "[[Nerd]]"
+  - "[[Zero-Sum Competition]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Self-Cultivation]]"
 related_theories: []

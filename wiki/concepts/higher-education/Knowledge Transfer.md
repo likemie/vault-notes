@@ -27,8 +27,10 @@ related_persons:
   - "[[Frantz Fanon]]"
   - "[[Chen Kuan-Hsing]]"
 related_facts:
+  - "[[Kokutai no Hongi]]"
   - "[[China Social Credit System]]"
   - "[[Great Firewall of China]]"
+  - "[[Sino-American Trade War]]"
   - "[[Thousand Talents Program]]"
 related_arguments: []
 sources:

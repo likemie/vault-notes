@@ -18,6 +18,7 @@ related_concepts:
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
+  - "[[Graduation Pathway Typology]]"
   - "[[Tongxue]]"
   - "[[Academic and Social Integration]]"
   - "[[Student Engagement]]"

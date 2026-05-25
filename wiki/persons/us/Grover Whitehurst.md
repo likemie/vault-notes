@@ -22,7 +22,8 @@ related_persons: []
 related_arguments: []
 sources:
   - "[[Slavin_2002_ER]]"
-related_facts: []
+related_facts:
+  - "[[What Works Clearinghouse]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

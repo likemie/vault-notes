@@ -16,7 +16,9 @@ related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Observational and Correlational Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Liberal Studies]]"
+  - "[[Citizenship and Social Development]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
 sources:

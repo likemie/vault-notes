@@ -19,8 +19,10 @@ related_theories:
 related_methods:
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Single-Case Design]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[What Works Clearinghouse]]"
 related_arguments: []
 sources:
   - "[[Hitchcock_2015_JBE]]"

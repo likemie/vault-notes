@@ -19,6 +19,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Liberal Studies]]"
+  - "[[Citizenship and Social Development]]"
   - "[[Replacement of LS by CSD 2021]]"
   - "[[National Education in Hong Kong]]"
   - "[[National Security Law Impact on Hong Kong Education]]"

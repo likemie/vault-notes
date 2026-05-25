@@ -40,7 +40,7 @@ created: 2026-05-24
 updated: 2026-05-24
 ---
 
-# Mother-Child Conversation (MCC)
+# Mother-Child Conversation
 
 ## 定义
 

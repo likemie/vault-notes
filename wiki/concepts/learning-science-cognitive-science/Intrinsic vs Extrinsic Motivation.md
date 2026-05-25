@@ -13,6 +13,7 @@ tags:
   - theme/self-determination
 related_concepts:
   - "[[Confucian Heritage Cultures]]"
+  - "[[Establishing One's Will]]"
 related_theories: []
 related_methods: []
 related_persons: []

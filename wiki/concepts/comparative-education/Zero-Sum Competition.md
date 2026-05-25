@@ -16,6 +16,7 @@ tags:
   - theme/competition
   - theme/cultural-psychology
 related_concepts:
+  - "[[Nerd]]"
   - "[[Tongxue]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Self-Cultivation]]"
@@ -34,7 +35,7 @@ created: 2026-05-24
 updated: 2026-05-24
 ---
 
-# Zero-Sum Competition (School)
+# Zero-Sum Competition
 
 ---
 

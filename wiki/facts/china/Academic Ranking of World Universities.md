@@ -35,7 +35,7 @@ created: '2026-05-11'
 updated: '2026-05-18'
 ---
 
-# Academic Ranking of World Universities (ARWU)
+# Academic Ranking of World Universities
 
 ## 背景
 

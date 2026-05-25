@@ -18,6 +18,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Independent Public Schools Western Australia]]"
   - "[[Gonski Reforms]]"
 related_arguments: []
 sources:

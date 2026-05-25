@@ -13,10 +13,13 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Performativity of Measurement]]"
-related_theories: []
+related_theories:
+  - "[[Science and Technology Studies]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[International Indicators of Education Systems]]"
+  - "[[Education at a Glance]]"
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"

@@ -20,7 +20,9 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[Tomorrow's Schools Reforms]]"
+  - "[[Treasury Briefing on Student-Teacher Ratios]]"
 related_arguments:
   - "[[Argument_ONeill_2012_NZJES]]"
 sources:

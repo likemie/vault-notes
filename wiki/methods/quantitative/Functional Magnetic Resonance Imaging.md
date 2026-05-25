@@ -1,6 +1,7 @@
 ---
 title: Functional Magnetic Resonance Imaging
 aliases:
+  - functional-magnetic-resonance-imaging
   - 功能性磁共振成像
   - fMRI
 summary: "功能性磁共振成像（fMRI）：通过测量脑区血液成分记录脑活动，空间分辨率优于时间分辨率，大多数研究集中于 7 岁以上儿童"

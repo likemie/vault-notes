@@ -19,6 +19,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[US-China Economic and Security Review Commission]]"
+  - "[[Sino-American Trade War]]"
   - "[[Thousand Talents Program]]"
 related_arguments: []
 sources:

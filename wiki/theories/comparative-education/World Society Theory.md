@@ -31,6 +31,8 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[UN Sustainable Development Goals 2015]]"
+  - "[[Liberal Studies]]"
+  - "[[Citizenship and Social Development]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Yan_2025_JCS]]"

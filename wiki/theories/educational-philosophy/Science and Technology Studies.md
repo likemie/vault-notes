@@ -19,7 +19,9 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[International Indicators of Education Systems]]"
+  - "[[Education at a Glance]]"
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"

@@ -29,6 +29,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Partnership Schools Kura Hourua]]"
   - "[[Minerva University]]"
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"

@@ -27,6 +27,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
+  - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[California Class Size Reduction 1996]]"
 related_arguments: []

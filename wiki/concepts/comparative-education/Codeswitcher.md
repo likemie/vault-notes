@@ -16,7 +16,9 @@ tags:
   - theme/achievement
   - theme/self-presentation
 related_concepts:
+  - "[[Nerd]]"
   - "[[Intellectual-Social Divide]]"
+  - "[[Zero-Sum Competition]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -29,7 +31,7 @@ created: 2026-05-23
 updated: 2026-05-24
 ---
 
-# Codeswitcher (School)
+# Codeswitcher
 
 ## 定义
 

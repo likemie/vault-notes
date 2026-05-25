@@ -12,7 +12,10 @@ related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Teach First New Zealand Ako Mātātupu]]"
+  - "[[Manaiakalani Education Trust]]"
+  - "[[Partnership Schools Kura Hourua]]"
 related_arguments: []
 sources:
   - "[[ONeill_2016_Report]]"

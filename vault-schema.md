@@ -67,6 +67,28 @@ wiki/
 
 文件名、文件夹名、`title`、`tags` 使用英文；正文使用简体中文。
 
+### File Names and Titles
+
+`wiki/` 条目的文件名应尽量与 frontmatter `title` 一致，使用可读英文标题，不使用全小写 slug 作为条目文件名。
+
+- 正确：`Piaget's Theory of Cognitive Development.md`
+- 避免：`piagets-theory-of-cognitive-development.md`
+
+命名规则：
+
+- `title` 是知识对象的正式名称；文件名通常等于 `title`。
+- `tags` 使用英文小写连字符；文件名和 `title` 不使用 tag 风格的 slug。
+- 标题中需要表达归属关系时，优先使用自然英文结构：
+  - `Van Leeuwen's Legitimation Theory`
+  - `Teaching Theory of Gruschka`
+  - `Piaget's Theory of Cognitive Development`
+- 不用括号给标题补充来源、人名、年份、地区或缩写，除非该括号本身是概念固定名称的一部分。
+  - 避免：`Theory of Teaching (Gruschka)`、`Codeswitcher (School)`、`Single-Case Design (SCD)`
+  - 改为：`Teaching Theory of Gruschka`、`Codeswitcher`、`Single-Case Design`
+  - 旧标题可放入 `aliases`，用于兼容检索和旧链接。
+- 明确需要保留括号的例外可以保留，例如 `SF (Haraway)`。
+- 缩写优先放入 `aliases`，不要为了缩写改变标题。
+
 ---
 
 ## 3. Script Rules
@@ -129,6 +151,9 @@ python3 scripts/wiki_linker.py sync
 - 删除条目或删除 alias 后，脚本应把失效自动链接还原为纯文本。
 - 不链接当前文件自身。
 - 跳过 YAML frontmatter、标题行、代码块、已有 Markdown 链接、URL、DOI、HTML、PDF / EPUB 嵌入、blockquote、`[!quote]` callout。
+- `## 来源` / `## Sources` 章节只补 source 记录链接，不按普通 wiki 条目补概念链接。
+- source 记录可来自 `sources/` 与 `books/`；章节 source 如 `Ch4_Amos_2022` 也应可被补链。
+- 单个汉字 alias 只允许在独立出现时补链，不能嵌入词中补链。
 
 ### Frontmatter Relations
 
@@ -151,6 +176,7 @@ sources: []
 - `related_*` 根据正文中出现的 wikilink 自动生成，并根据被链接条目的 `type` 分类。
 - `## 来源` 或 `## Sources` 章节中的 wikilink 不写入 `related_*`，只写入 YAML `sources`。
 - `![[...]]` 嵌入链接不计入关系。
+- `## 来源` 中不在 `wiki/index.json` 的 source target 应按原 target 保留，不要用 `Path.stem` 误截断带点号或括号的 source ID。
 - AI 不手动填写 `related_*` 和 YAML `sources`；如需建立关系，应在正文中自然使用 wikilink，并在 `## 来源` 章节列出来源。
 
 ### Source Record Creation
@@ -494,6 +520,8 @@ Argument 必须详细拆解论证链：
 - Concept / Theory / Method / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
 - Person 的 `aliases` 主要写中文全称；只有非常著名或中文文献中常用简称的人物才写简称，如 `杜威`、`皮亚杰`、`布迪厄`、`阿普尔`、`哈蒂`。
 - 不要写过短或过宽泛的 aliases，如“资本”“文化”“教育”“政策”“课程”“能力”“国家”“公平”。
+- 不要轻易写单个汉字 alias；只有该字作为独立术语有强识别度时才保留，例如特定儒学概念。单字 alias 过宽时应删除，避免正文词语内部误链接。
+- 全小写连字符 alias 只在确有检索价值时保留；不要把 tag 风格 slug 当作默认 alias。
 
 ### tags
 

@@ -20,7 +20,8 @@ related_concepts:
   - "[[Socratic Tutoring Style]]"
   - "[[Confucian Tutoring Style]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Mother-Child Conversation]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []

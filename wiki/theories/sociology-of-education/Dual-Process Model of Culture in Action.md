@@ -16,6 +16,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Champ]]"
+  - "[[Graduation Pathway Typology]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods:

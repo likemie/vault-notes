@@ -30,6 +30,7 @@ related_concepts:
   - "[[Global Regionalisms in Higher Education]]"
   - "[[Global Education Industry]]"
   - "[[Space-Making in Higher Education]]"
+  - "[[Multiplicity]]"
   - "[[Online Self-Assessment]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
@@ -50,6 +51,7 @@ related_theories:
   - "[[Hegemony]]"
 related_methods:
   - "[[Matching]]"
+  - "[[Single-Case Design]]"
 related_persons:
   - "[[Sami Moisio]]"
   - "[[Jean-François Lyotard]]"
@@ -57,6 +59,9 @@ related_persons:
 related_facts:
   - "[[Minerva University]]"
   - "[[Australia in the Asian Century White Paper 2012]]"
+  - "[[Academic Ranking of World Universities]]"
+  - "[[Sino-American Trade War]]"
+  - "[[US-China Economic and Security Review Commission]]"
   - "[[Thousand Talents Program]]"
   - "[[China Social Credit System]]"
   - "[[Horizon 2020 SSH Integration]]"

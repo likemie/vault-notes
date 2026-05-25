@@ -25,6 +25,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[US-China Economic and Security Review Commission]]"
   - "[[Thousand Talents Program]]"
 related_arguments: []
 sources:
@@ -35,7 +36,7 @@ created: '2026-05-10'
 updated: '2026-05-18'
 ---
 
-# Sino-American Trade War (2018)
+# Sino-American Trade War
 
 ## 背景
 

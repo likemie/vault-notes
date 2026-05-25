@@ -30,6 +30,7 @@ related_persons:
   - "[[Max Weber]]"
   - "[[Ellen Hazelkorn]]"
 related_facts:
+  - "[[Academic Ranking of World Universities]]"
   - "[[UN Sustainable Development Goals 2015]]"
 related_arguments: []
 sources:

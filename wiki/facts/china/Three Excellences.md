@@ -30,7 +30,7 @@ created: 2026-05-23
 updated: 2026-05-23
 ---
 
-# Three Excellences (San Hao Sheng)
+# Three Excellences
 
 ## 背景
 

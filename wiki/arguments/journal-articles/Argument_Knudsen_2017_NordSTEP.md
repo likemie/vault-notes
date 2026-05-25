@@ -18,12 +18,14 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
-related_theories: []
+related_theories:
+  - "[[Science and Technology Studies]]"
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[Cognition Education]]"
 related_arguments: []
 sources:
   - "[[Knudsen_2017_NordSTEP]]"

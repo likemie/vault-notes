@@ -18,11 +18,14 @@ related_concepts:
   - "[[Sociology of Measurement]]"
   - "[[Performance Indicators]]"
 related_theories:
+  - "[[Science and Technology Studies]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons:
   - "[[Norberto Bottani]]"
-related_facts: []
+related_facts:
+  - "[[Education at a Glance]]"
+  - "[[International Indicators of Education Systems]]"
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"

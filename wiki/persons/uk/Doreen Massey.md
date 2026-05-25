@@ -10,6 +10,7 @@ tags:
 - field/human-geography
 - field/higher-education
 related_concepts:
+  - "[[Multiplicity]]"
   - "[[Space-Making in Higher Education]]"
   - "[[Methodological Nationalism]]"
   - "[[Power-Geometries]]"

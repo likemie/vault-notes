@@ -13,6 +13,7 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[Graduation Pathway Typology]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Social Engagement]]"
   - "[[Opportunist Mode]]"

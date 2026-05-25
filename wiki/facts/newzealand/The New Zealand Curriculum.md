@@ -18,7 +18,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Tomorrow's Schools Reforms]]"
 related_arguments: []
 sources:
   - "[[Sarbiewska_2019_JSR]]"

@@ -22,12 +22,14 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Neo-Taylorism in Educational Administration]]"
-related_theories: []
+related_theories:
+  - "[[Science and Technology Studies]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
   - "[[John Locke]]"
 related_facts:
+  - "[[Education at a Glance]]"
   - "[[Victorian HITS and Literacy Toolkit 2017]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[PISA]]"

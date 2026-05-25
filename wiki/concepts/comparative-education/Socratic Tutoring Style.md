@@ -18,7 +18,8 @@ related_concepts:
   - "[[Confucian Tutoring Style]]"
   - "[[Learning Virtues]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Mother-Child Conversation]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []

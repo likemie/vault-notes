@@ -15,7 +15,9 @@ tags:
   - theme/intelligence
 related_concepts:
   - "[[Learned Helplessness]]"
+  - "[[Nerd]]"
   - "[[Talent Assumption]]"
+  - "[[Zero-Sum Competition]]"
   - "[[Intellectual-Social Divide]]"
 related_theories: []
 related_methods: []

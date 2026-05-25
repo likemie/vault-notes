@@ -11,6 +11,7 @@ tags:
 - biology
 - social-theory
 related_concepts:
+  - "[[Multiplicity]]"
   - "[[Humility in Learning]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"

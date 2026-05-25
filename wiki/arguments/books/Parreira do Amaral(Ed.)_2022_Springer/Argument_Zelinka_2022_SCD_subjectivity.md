@@ -15,6 +15,7 @@ related_concepts:
 related_theories:
   - "[[Governmentality]]"
 related_methods:
+  - "[[Single-Case Design]]"
   - "[[Critical Companion]]"
 related_persons: []
 related_facts: []

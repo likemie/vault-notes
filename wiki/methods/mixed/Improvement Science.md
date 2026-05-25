@@ -24,7 +24,9 @@ related_methods:
   - "[[Spirals of Inquiry]]"
 related_persons: []
 related_facts:
+  - "[[What Works Clearinghouse]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[What Works Network]]"
 related_arguments: []
 sources:
   - "[[Peterson_2016_IJRME]]"

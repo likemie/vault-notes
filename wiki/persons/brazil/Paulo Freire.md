@@ -26,7 +26,8 @@ related_persons:
 related_arguments: []
 sources:
   - "[[Ch5_Partaken_2022]]"
-related_facts: []
+related_facts:
+  - "[[Kokutai no Hongi]]"
 confidence: medium
 status: draft
 created: '2026-05-10'

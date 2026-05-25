@@ -28,7 +28,7 @@ created: '2026-05-12'
 updated: '2026-05-18'
 ---
 
-# Multiplicity (Massey)
+# Multiplicity
 
 ## 定义
 

@@ -21,6 +21,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[China Social Credit System]]"
+  - "[[Sino-American Trade War]]"
 related_arguments: []
 sources:
   - "[[Ch5_Partaken_2022]]"

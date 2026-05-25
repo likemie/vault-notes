@@ -25,6 +25,8 @@ related_methods:
   - "[[Matching]]"
 related_persons: []
 related_facts:
+  - "[[Education at a Glance]]"
+  - "[[International Indicators of Education Systems]]"
   - "[[Europe 2020 Strategy]]"
   - "[[YOUNG_ADULLLT]]"
   - "[[Innovation Union]]"

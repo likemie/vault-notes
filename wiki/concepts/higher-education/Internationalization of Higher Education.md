@@ -16,6 +16,7 @@ related_concepts:
   - "[[International Education Hubs]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
   - "[[International Education]]"
+  - "[[Multiplicity]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Hegemony]]"

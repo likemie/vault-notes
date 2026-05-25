@@ -16,13 +16,16 @@ related_concepts:
   - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[Internationalization of Higher Education]]"
-related_theories: []
+related_theories:
+  - "[[Science and Technology Studies]]"
 related_methods: []
 related_persons: []
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"
 related_facts:
+  - "[[Education at a Glance]]"
+  - "[[International Indicators of Education Systems]]"
   - "[[PISA]]"
 confidence: high
 status: draft

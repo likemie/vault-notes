@@ -19,7 +19,8 @@ related_concepts:
   - "[[Pride in Learning]]"
   - "[[MCC Discourse Analysis Examples]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Mother-Child Conversation]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []

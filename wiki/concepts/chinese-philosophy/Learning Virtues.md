@@ -31,6 +31,7 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Prototype Methods]]"
+  - "[[Mother-Child Conversation]]"
 related_persons:
   - "[[Confucius]]"
 related_facts: []

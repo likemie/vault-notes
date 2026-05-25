@@ -25,6 +25,7 @@ related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals 2015]]"
   - "[[THE Impact Ranking 2019]]"
+  - "[[Comprehensive School Reform Program]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
 sources:

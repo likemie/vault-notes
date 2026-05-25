@@ -44,7 +44,11 @@ related_persons:
   - "[[Jacob Cohen]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Promising Practices Network]]"
+  - "[[Best Evidence Encyclopedia]]"
+  - "[[What Works Clearinghouse]]"
   - "[[Playing for Success]]"
+  - "[[Treasury Briefing on Student-Teacher Ratios]]"
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
 sources:

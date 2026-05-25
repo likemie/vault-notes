@@ -19,7 +19,8 @@ related_concepts:
   - "[[Pride in Learning]]"
 related_theories:
   - "[[Appraisal Theory]]"
-related_methods: []
+related_methods:
+  - "[[Mother-Child Conversation]]"
 related_persons: []
 related_facts: []
 related_arguments: []

@@ -19,11 +19,13 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[New Public Management]]"
   - "[[Knowledge Production]]"
-related_theories: []
+related_theories:
+  - "[[Science and Technology Studies]]"
 related_methods: []
 related_persons:
   - "[[Norberto Bottani]]"
 related_facts:
+  - "[[Education at a Glance]]"
   - "[[PISA]]"
 related_arguments: []
 sources:

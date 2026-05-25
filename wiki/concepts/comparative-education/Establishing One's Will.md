@@ -35,7 +35,7 @@ created: '2026-05-22'
 updated: '2026-05-23'
 ---
 
-# Establishing One's Will (lizhi)
+# Establishing One's Will
 
 ## 定义
 

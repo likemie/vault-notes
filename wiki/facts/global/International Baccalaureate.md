@@ -31,7 +31,7 @@ created: '2026-05-17'
 updated: '2026-05-18'
 ---
 
-# International Baccalaureate (IB)
+# International Baccalaureate
 
 ## 定义
 

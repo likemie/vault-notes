@@ -24,7 +24,8 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
 related_theories:
   - "[[Governmentality]]"
-related_methods: []
+related_methods:
+  - "[[Single-Case Design]]"
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []

@@ -22,6 +22,7 @@ related_persons: []
 related_facts:
   - "[[A Nation at Risk 1983]]"
   - "[[PISA]]"
+  - "[[Partnership Schools Kura Hourua]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments: []
 sources:

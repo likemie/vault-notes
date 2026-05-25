@@ -14,14 +14,17 @@ tags:
   - theme/social-competence
   - theme/cultural-psychology
 related_concepts:
+  - "[[Nerd]]"
   - "[[Academic Engagement]]"
+  - "[[Zero-Sum Competition]]"
   - "[[Talent Assumption]]"
   - "[[Doxa]]"
   - "[[Tongxue]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Three Excellences]]"
 related_arguments: []
 sources: []
 confidence: medium

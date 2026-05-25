@@ -28,6 +28,7 @@ related_facts:
   - "[[French Class Size Reduction 2017]]"
   - "[[Campbell Collaboration]]"
   - "[[California Class Size Reduction 1996]]"
+  - "[[Treasury Briefing on Student-Teacher Ratios]]"
 related_arguments: []
 sources:
   - "[[Snook_2009_NZJES]]"

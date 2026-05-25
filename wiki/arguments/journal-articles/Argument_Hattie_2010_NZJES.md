@@ -23,7 +23,8 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Gerald Grace]]"
-related_facts: []
+related_facts:
+  - "[[New Zealand National Standards]]"
 related_arguments:
   - "[[Argument_Snook_2010_NZJES]]"
   - "[[Argument_Grace_2010_NZJES]]"

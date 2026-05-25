@@ -11,6 +11,7 @@ tags:
 - theme/child-development
 - discipline/anthropology
 related_concepts:
+  - "[[Nerd]]"
   - "[[Intellectual-Social Divide]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"

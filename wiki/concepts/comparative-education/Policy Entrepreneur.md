@@ -16,7 +16,9 @@ related_methods: []
 related_persons:
   - "[[Stephen Ball]]"
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[Cognition Education]]"
+  - "[[Teach First New Zealand Ako Mātātupu]]"
 related_arguments: []
 sources:
   - "[[ONeill_2016_Report]]"

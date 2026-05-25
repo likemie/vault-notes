@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Pride in Learning]]"
   - "[[Tongxue]]"
+  - "[[Nerd]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Ideal Learner]]"
 related_theories: []

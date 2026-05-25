@@ -21,9 +21,11 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Single-Case Design]]"
   - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
+  - "[[What Works Clearinghouse]]"
   - "[[Campbell Collaboration]]"
 related_arguments:
   - "[[Argument_Hitchcock_2015_JBE]]"

@@ -15,6 +15,7 @@ tags:
 - subject/research-methodology
 related_concepts:
   - "[[Potential Outcomes Framework]]"
+  - "[[Stable Unit Treatment Value Assumption]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"

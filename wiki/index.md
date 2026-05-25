@@ -340,7 +340,7 @@ Total entries: **714**
 
 ### Communication Discourse
 
-- [[Legitimation Theory Van Leeuwen]] — 分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场
+- [[Van Leeuwen's Legitimation Theory]] — 分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场
 
 ### Comparative Education
 

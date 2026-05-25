@@ -109,9 +109,11 @@ sources:
   - "[[Bainbridge_2022_ROE]]"
   - "[[Johnson_2023_CE]]"
 related_facts:
+  - "[[Cognition Education]]"
   - "[[PISA]]"
   - "[[Victorian HITS and Literacy Toolkit 2017]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Treasury Briefing on Student-Teacher Ratios]]"
 confidence: medium
 status: draft
 created: '2026-05-02'

@@ -18,7 +18,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Best Evidence in Brief]]"
 related_arguments: []
 sources:
   - "[[Slavin_2021_ROE]]"

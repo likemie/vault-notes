@@ -26,7 +26,8 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[Cognition Education]]"
 related_arguments: []
 sources:
   - "[[Johnson_2023_CE]]"

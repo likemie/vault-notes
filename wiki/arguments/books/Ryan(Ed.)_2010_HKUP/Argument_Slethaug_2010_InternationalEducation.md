@@ -22,6 +22,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[PISA]]"
+  - "[[Academic Ranking of World Universities]]"
+  - "[[International Baccalaureate]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
 sources:

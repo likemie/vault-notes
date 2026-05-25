@@ -12,6 +12,7 @@ tags:
 - level/higher-ed
 - region/global
 related_concepts:
+  - "[[Multiplicity]]"
   - "[[Power-Geometries]]"
   - "[[Methodological Globalism]]"
   - "[[Semi-Autonomy of Higher Education]]"
@@ -22,6 +23,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Double Spatiality of Universities]]"
   - "[[International Education]]"
+  - "[[Zero-Sum Competition]]"
   - "[[Internationalization of Higher Education]]"
 related_theories:
   - "[[World-Systems Theory]]"
@@ -31,6 +33,7 @@ related_persons:
   - "[[Doreen Massey]]"
 related_facts:
   - "[[Singapore Education Hub Policy]]"
+  - "[[Academic Ranking of World Universities]]"
 related_arguments: []
 sources:
   - "[[Marginson_2025_ROE]]"

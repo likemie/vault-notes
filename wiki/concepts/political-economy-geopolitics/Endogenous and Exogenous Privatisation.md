@@ -24,6 +24,8 @@ related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_facts:
+  - "[[Partnership Schools Kura Hourua]]"
+  - "[[Teach First New Zealand Ako Mātātupu]]"
   - "[[Australia in the Asian Century White Paper 2012]]"
 related_arguments: []
 sources:

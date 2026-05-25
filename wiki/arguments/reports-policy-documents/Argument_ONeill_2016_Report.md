@@ -17,7 +17,8 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[Cognition Education]]"
 related_arguments: []
 sources:
   - "[[ONeill_2016_Report]]"

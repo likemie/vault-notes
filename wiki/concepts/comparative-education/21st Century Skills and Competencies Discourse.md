@@ -8,7 +8,8 @@ related_concepts:
   - "[[Employability]]"
   - "[[Self-Entrepreneur]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Single-Case Design]]"
 related_persons: []
 related_facts: []
 related_arguments: []

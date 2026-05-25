@@ -12,6 +12,7 @@ tags:
 - externalization
 - region/germany
 related_concepts:
+  - "[[Externalization]]"
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
 related_theories:

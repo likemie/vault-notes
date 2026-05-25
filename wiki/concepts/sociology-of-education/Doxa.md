@@ -16,6 +16,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Habitus]]"
   - "[[Intellectual-Social Divide]]"
+  - "[[Nerd]]"
   - "[[Tongxue]]"
   - "[[Talent Assumption]]"
   - "[[Epistemological Break]]"

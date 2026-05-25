@@ -43,6 +43,8 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Self-Authorship]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Work Meaning Schemas]]"
+  - "[[Graduation Pathway Typology]]"
   - "[[Sense of Shame]]"
   - "[[Refined Mastery]]"
   - "[[Effect Size]]"

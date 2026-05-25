@@ -25,7 +25,9 @@ related_methods:
   - "[[Matching]]"
   - "[[Spirals of Inquiry]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Investing in Innovation Program]]"
+  - "[[What Works Clearinghouse]]"
 related_arguments: []
 sources:
   - "[[Peterson_2016_IJRME]]"

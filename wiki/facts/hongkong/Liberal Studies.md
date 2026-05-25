@@ -21,6 +21,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Citizenship and Social Development]]"
   - "[[Introduction of Liberal Studies 2009]]"
   - "[[Replacement of LS by CSD 2021]]"
   - "[[2019 Hong Kong Protests and Education]]"

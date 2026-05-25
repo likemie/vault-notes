@@ -26,6 +26,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[New Public Management]]"
   - "[[Class Size]]"
+  - "[[Educational Management Organisation]]"
   - "[[School Leadership]]"
   - "[[Effective Teaching]]"
   - "[[Classroom Management]]"
@@ -54,7 +55,10 @@ related_persons:
 related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Tennessee STAR Project 1985-1989]]"
+  - "[[Cognition Education]]"
   - "[[Visible Learning in Sweden]]"
+  - "[[Tomorrow's Schools Reforms]]"
+  - "[[Contestable School Support Services]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Danish Public School Reform 2014]]"
   - "[[Hattie på dansk 2017]]"

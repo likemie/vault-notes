@@ -20,6 +20,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Liberal Studies]]"
   - "[[Symposium on International Teaching 2007]]"
 related_arguments: []
 sources: []

@@ -22,7 +22,8 @@ related_arguments: []
 sources:
   - "[[Slavin_2021_ROE]]"
   - "[[Cheung_2021_ROE]]"
-related_facts: []
+related_facts:
+  - "[[Best Evidence in Brief]]"
 confidence: low
 status: draft
 created: '2026-05-02'

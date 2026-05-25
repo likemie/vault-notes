@@ -28,6 +28,9 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_facts:
+  - "[[Investing in Innovation Program]]"
+  - "[[What Works Clearinghouse]]"
+  - "[[Best Evidence Encyclopedia]]"
   - "[[Success for All]]"
   - "[[Campbell Collaboration]]"
 related_arguments: []

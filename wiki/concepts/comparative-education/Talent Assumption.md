@@ -14,9 +14,12 @@ tags:
   - theme/ability-vs-effort
   - theme/cultural-psychology
 related_concepts:
+  - "[[Nerd]]"
   - "[[Entity vs Incremental Intelligence]]"
   - "[[Feedback]]"
+  - "[[Zero-Sum Competition]]"
   - "[[Intellectual-Social Divide]]"
+  - "[[Codeswitcher]]"
   - "[[Doxa]]"
 related_theories: []
 related_methods: []

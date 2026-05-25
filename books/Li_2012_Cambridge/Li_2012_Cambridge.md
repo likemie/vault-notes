@@ -41,7 +41,7 @@ extracted_to:
 - "[[Chinese Learner]]"
 - "[[Confucian Heritage Cultures]]"
 - "[[Cultural Models]]"
-- "[[Establishing One's Will (lizhi)]]"
+- "[[Establishing One's Will]]"
 - "[[Examination Hell]]"
 - "[[Ideal Learner]]"
 - "[[Learning Gap]]"
@@ -63,14 +63,14 @@ extracted_to:
 - "[[Learned Helplessness]]"
 - "[[Appraisal Theory]]"
 - "[[Pride in Learning]]"
-- "[[Nerd (School Peer Culture)]]"
+- "[[Nerd]]"
 - "[[Tongxue]]"
-- "[[Three Excellences (San Hao Sheng)]]"
+- "[[Three Excellences]]"
 - "[[Tall Poppy Syndrome]]"
-- "[[Codeswitcher (School)]]"
+- "[[Codeswitcher]]"
 - "[[Talent Assumption]]"
 - "[[Intellectual-Social Divide]]"
-- "[[Zero-Sum Competition (School)]]"
+- "[[Zero-Sum Competition]]"
 processed_date: 2026-05-24
 ---
 

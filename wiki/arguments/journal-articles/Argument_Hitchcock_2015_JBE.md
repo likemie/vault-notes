@@ -19,10 +19,12 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Single-Case Design]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
+  - "[[What Works Clearinghouse]]"
   - "[[Campbell Collaboration]]"
 related_arguments: []
 sources:

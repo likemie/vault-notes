@@ -21,6 +21,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Sino-American Trade War]]"
   - "[[Thousand Talents Program]]"
 related_arguments: []
 sources:
@@ -31,7 +32,7 @@ created: '2026-05-10'
 updated: '2026-05-18'
 ---
 
-# US-China Economic and Security Review Commission (2000)
+# US-China Economic and Security Review Commission
 
 ## 背景
 

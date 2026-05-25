@@ -36,6 +36,7 @@ related_theories:
   - "[[Societies of Control]]"
 related_methods:
   - "[[Matching]]"
+  - "[[Single-Case Design]]"
 related_persons: []
 related_facts: []
 related_arguments:

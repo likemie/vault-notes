@@ -33,7 +33,7 @@ created: 2026-05-20
 updated: 2026-05-20
 ---
 
-# Theory of Teaching (Gruschka)
+# Teaching Theory of Gruschka
 
 ## 核心主张
 

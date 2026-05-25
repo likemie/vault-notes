@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Didaktik]]"
   - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Nerd]]"
   - "[[Cultural Models]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
@@ -29,6 +30,7 @@ related_concepts:
   - "[[Sage]]"
   - "[[Pride in Learning]]"
   - "[[Refined Mastery]]"
+  - "[[Establishing One's Will]]"
   - "[[Ideal Learner]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"

@@ -20,7 +20,8 @@ related_methods:
   - "[[Formative Evaluation]]"
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[Students and Teachers Accessing Tomorrow]]"
 related_arguments: []
 sources:
   - "[[Qvortrup_2019_NordSTEP]]"

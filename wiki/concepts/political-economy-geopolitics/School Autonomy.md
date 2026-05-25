@@ -20,6 +20,8 @@ related_persons:
 related_facts:
   - "[[My School Website]]"
   - "[[Karmel Report 1973]]"
+  - "[[Local Schools Local Decisions]]"
+  - "[[Independent Public Schools Western Australia]]"
   - "[[Gonski Reforms]]"
 related_arguments: []
 sources:

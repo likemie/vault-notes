@@ -20,6 +20,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[My School Website]]"
+  - "[[Independent Public Schools Western Australia]]"
 related_arguments: []
 sources:
   - "[[Keddie_2020_JEAH]]"

@@ -27,6 +27,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Theory Movement in Educational Administration]]"
+  - "[[Cognition Education]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[PISA]]"
   - "[[Victorian HITS and Literacy Toolkit 2017]]"

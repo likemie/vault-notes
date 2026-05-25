@@ -22,9 +22,11 @@ related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Single-Case Design]]"
   - "[[Intervention Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[What Works Clearinghouse]]"
 related_arguments: []
 sources:
   - "[[Hitchcock_2015_JBE]]"

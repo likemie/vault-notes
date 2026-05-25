@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Transitology]]"
   - "[[Cross-National Attraction]]"
+  - "[[Externalization]]"
   - "[[International Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Policy Entrepreneur]]"
@@ -30,7 +31,10 @@ related_persons:
 related_facts:
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
+  - "[[Liberal Studies]]"
+  - "[[International Baccalaureate]]"
   - "[[PISA]]"
+  - "[[Citizenship and Social Development]]"
 related_arguments:
   - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Argument_Yan_2025_JCS]]"

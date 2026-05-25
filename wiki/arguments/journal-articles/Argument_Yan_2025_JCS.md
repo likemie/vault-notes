@@ -17,6 +17,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Externalization]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Sinicisation]]"
 related_theories:
@@ -26,7 +27,9 @@ related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
-related_facts: []
+related_facts:
+  - "[[Citizenship and Social Development]]"
+  - "[[Liberal Studies]]"
 related_arguments: []
 sources:
   - "[[Yan_2025_JCS]]"

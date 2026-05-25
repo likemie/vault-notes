@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Policy Borrowing]]"
+  - "[[Externalization]]"
 related_theories: []
 related_methods: []
 related_persons: []

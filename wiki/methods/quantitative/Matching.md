@@ -13,6 +13,7 @@ tags:
 - subject/research-methodology
 - paradigm/positivist
 related_concepts:
+  - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Potential Outcomes Framework]]"
 related_theories: []
 related_methods:

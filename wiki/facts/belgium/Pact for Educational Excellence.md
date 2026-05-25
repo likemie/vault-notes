@@ -27,6 +27,8 @@ related_persons: []
 related_facts:
   - "[[French-Speaking Belgium Education System]]"
   - "[[PISA]]"
+  - "[[What Works Clearinghouse]]"
+  - "[[Best Evidence Encyclopedia]]"
 related_arguments: []
 sources:
   - "[[Dachet_2021_ROE]]"

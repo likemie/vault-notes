@@ -23,6 +23,8 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[National Education in Hong Kong]]"
+  - "[[Liberal Studies]]"
+  - "[[Citizenship and Social Development]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Yu_2024_CE]]"

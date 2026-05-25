@@ -10,6 +10,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Classical Geopolitics]]"
+  - "[[Multiplicity]]"
 related_theories: []
 related_methods: []
 related_persons:
