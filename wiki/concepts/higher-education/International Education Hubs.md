@@ -180,6 +180,6 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 
 ## 来源
 
-- Ch3_Parreira do Amaral_2022
-- Ch6_Rizvi_2022
-- Ch12_Erfurth_2022
+- [[Ch3_Parreira do Amaral_2022]]
+- [[Ch6_Rizvi_2022]]
+- [[Ch12_Erfurth_2022]]

@@ -14,6 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "wiki"
 INDEX_JSON = WIKI_DIR / "index.json"
 SOURCES_DIR = ROOT / "sources"
+BOOKS_DIR = ROOT / "books"
 
 EXCLUDE_DIR_PARTS = {"templates", "indexes", ".obsidian"}
 EXCLUDE_FILENAMES = {
@@ -33,7 +34,6 @@ MD_LINK_RE = re.compile(r"!?\[[^\]]*\]\([^)]*\)")
 URL_RE = re.compile(r"https?://\S+|doi:\s*\S+|10\.\d{4,9}/\S+", re.IGNORECASE)
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 SOURCE_SECTION_NAMES = {"来源", "sources", "source"}
-SOURCE_ID_RE = re.compile(r"(?<![\w/])([A-Za-z][A-Za-z0-9]+_[0-9]{4}_[A-Za-z0-9_-]+)(?![\w/])")
 
 
 @dataclass(frozen=True)
@@ -72,14 +72,26 @@ def load_entries() -> list[Entry]:
 
 
 def load_source_entries() -> list[Entry]:
-    if not SOURCES_DIR.exists():
-        return []
     entries: list[Entry] = []
-    for path in sorted(SOURCES_DIR.rglob("*.md")):
-        title = path.stem.strip()
-        if title:
-            entries.append(Entry(title=title, path=rel_to_root(path), aliases=()))
+    for root in (SOURCES_DIR, BOOKS_DIR):
+        if not root.exists():
+            continue
+        for path in sorted(root.rglob("*.md")):
+            if path.name.startswith("schema-") or path.name.startswith("vault-schema-"):
+                continue
+            title = path.stem.strip()
+            if title:
+                entries.append(Entry(title=title, path=rel_to_root(path), aliases=()))
     return entries
+
+
+def make_source_pattern(source_titles: set[str]) -> re.Pattern[str] | None:
+    if not source_titles:
+        return None
+    alternatives = sorted((re.escape(t) for t in source_titles if t), key=len, reverse=True)
+    if not alternatives:
+        return None
+    return re.compile(r"(?<![\w/])(" + "|".join(alternatives) + r")(?![\w/])")
 
 
 def rel_to_root(path: Path) -> str:
@@ -491,8 +503,10 @@ def link_section(section: str, terms: list[Term], current_title: str, already_li
     return "".join(out), additions
 
 
-def link_source_section(section: str, source_titles: set[str]) -> tuple[str, int]:
+def link_source_section(section: str, source_pattern: re.Pattern[str] | None) -> tuple[str, int]:
     # Source sections are bibliography-like lists: only canonical source IDs are linked here.
+    if source_pattern is None:
+        return section, 0
     additions = 0
     chunks = split_protected_spans(section)
     out: list[str] = []
@@ -500,8 +514,6 @@ def link_source_section(section: str, source_titles: set[str]) -> tuple[str, int
     def repl(m: re.Match[str]) -> str:
         nonlocal additions
         source_id = m.group(1)
-        if source_id not in source_titles:
-            return source_id
         additions += 1
         return f"[[{source_id}]]"
 
@@ -509,19 +521,19 @@ def link_source_section(section: str, source_titles: set[str]) -> tuple[str, int
         if protected:
             out.append(chunk)
         else:
-            out.append(SOURCE_ID_RE.sub(repl, chunk))
+            out.append(source_pattern.sub(repl, chunk))
 
     return "".join(out), additions
 
 
-def link_body(body: str, terms: list[Term], source_titles: set[str], current_title: str) -> tuple[str, int]:
+def link_body(body: str, terms: list[Term], source_pattern: re.Pattern[str] | None, current_title: str) -> tuple[str, int]:
     sections = split_h2_sections(body)
     linked_sections: list[str] = []
     additions = 0
 
     for heading, section in sections:
         if is_source_section_heading(heading):
-            linked, added = link_source_section(section, source_titles)
+            linked, added = link_source_section(section, source_pattern)
             linked_sections.append(linked)
             additions += added
             continue
@@ -539,7 +551,7 @@ def link_body(body: str, terms: list[Term], source_titles: set[str], current_tit
 def sync_file(
     path: Path,
     terms: list[Term],
-    source_titles: set[str],
+    source_pattern: re.Pattern[str] | None,
     entries_by_title: dict[str, Entry],
     path_to_title: dict[str, str],
     dry_run: bool,
@@ -549,7 +561,7 @@ def sync_file(
     current_title = current_file_title(path, path_to_title)
 
     cleaned_body, removed = clean_invalid_links(body, entries_by_title)
-    linked_body, added = link_body(cleaned_body, terms, source_titles, current_title)
+    linked_body, added = link_body(cleaned_body, terms, source_pattern, current_title)
     updated = fm + linked_body
 
     changed = updated != original
@@ -567,12 +579,12 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool) -> None:
     terms, entries_by_title, path_to_title = make_terms(entries)
     for source in source_entries:
         entries_by_title.setdefault(source.title, source)
-    source_titles = {source.title for source in source_entries}
+    source_pattern = make_source_pattern({source.title for source in source_entries})
     files = iter_git_target_files() if git_only else iter_target_files(paths)
 
     stats = LinkStats()
     for path in files:
-        changed, added, removed = sync_file(path, terms, source_titles, entries_by_title, path_to_title, dry_run)
+        changed, added, removed = sync_file(path, terms, source_pattern, entries_by_title, path_to_title, dry_run)
         if changed:
             stats.files_changed += 1
             stats.links_added += added

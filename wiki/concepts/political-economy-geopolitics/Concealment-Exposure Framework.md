@@ -75,4 +75,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch5_Partaken_2022
+- [[Ch5_Partaken_2022]]

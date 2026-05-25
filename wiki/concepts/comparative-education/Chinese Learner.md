@@ -296,7 +296,7 @@ Li (2012) 在 第 4 章 中对"死记硬背"批评进行了四重方法论反驳
 
 ## 来源
 
-- Li_2012_Cambridge
-- Ryan(Ed.)_2010_HKUP
-- Ch1_Slethaug_2010
-- Ch2_Ryan_2010
+- [[Li_2012_Cambridge]]
+- [[Ryan(Ed.)_2010_HKUP]]
+- [[Ch1_Slethaug_2010]]
+- [[Ch2_Ryan_2010]]

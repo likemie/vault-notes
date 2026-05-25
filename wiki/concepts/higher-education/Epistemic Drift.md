@@ -79,4 +79,4 @@ Zapp 将认识漂移与 [[Epistemic Governance|知识治理]] 的内在风险直
 ---
 ## 来源
 
-- Ch9_Zapp_2022
+- [[Ch9_Zapp_2022]]

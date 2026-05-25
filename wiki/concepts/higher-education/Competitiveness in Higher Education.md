@@ -92,4 +92,4 @@ Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地
 
 ## 来源
 
-- Ch13_Thompson_2022
+- [[Ch13_Thompson_2022]]

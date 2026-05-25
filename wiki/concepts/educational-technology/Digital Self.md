@@ -103,4 +103,4 @@ Bächle（2016, p.188）用身份证（identity document）的类比来说明数
 
 ## 来源
 
-- Ch13_Thompson_2022
+- [[Ch13_Thompson_2022]]

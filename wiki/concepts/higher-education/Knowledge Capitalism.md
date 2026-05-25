@@ -86,5 +86,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch6_Rizvi_2022
-- Ch2_Moisio_2022
+- [[Ch6_Rizvi_2022]]
+- [[Ch2_Moisio_2022]]

@@ -184,4 +184,4 @@ Amsler & Bolsmann（2012, p.286）将排名定义为"一个强大的象征性和
 
 ## 来源
 
-- Ch8_Boyadjieva_2022
+- [[Ch8_Boyadjieva_2022]]

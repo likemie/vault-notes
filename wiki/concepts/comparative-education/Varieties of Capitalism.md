@@ -93,4 +93,4 @@ Hartmann 结合产业社会学对 MNC 组织类型的分类，揭示了 VoC 与 
 
 ## 来源
 
-- Ch11_Hartmann_2022
+- [[Ch11_Hartmann_2022]]

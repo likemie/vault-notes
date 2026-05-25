@@ -130,4 +130,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch1_Slethaug_2010
+- [[Ch1_Slethaug_2010]]

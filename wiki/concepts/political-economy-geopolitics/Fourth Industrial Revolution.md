@@ -79,4 +79,4 @@ Partaken (2022) 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语�
 
 ## 来源
 
-- Ch5_Partaken_2022
+- [[Ch5_Partaken_2022]]

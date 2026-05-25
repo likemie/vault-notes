@@ -128,7 +128,7 @@ Jornitz & Klinge（2022, pp.231–232）从 [[Bildung]] 的角度指出，GEI �
 
 ## 来源
 
-- Ch3_Parreira do Amaral_2022
-- Ch4_Amos_2022
-- Ch11_Hartmann_2022
-- Ch14_Jornitz_2022
+- [[Ch3_Parreira do Amaral_2022]]
+- [[Ch4_Amos_2022]]
+- [[Ch11_Hartmann_2022]]
+- [[Ch14_Jornitz_2022]]

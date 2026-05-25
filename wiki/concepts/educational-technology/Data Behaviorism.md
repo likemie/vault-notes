@@ -66,4 +66,4 @@ updated: 2026-05-20
 
 ## 来源
 
-- Ch14_Jornitz_2022
+- [[Ch14_Jornitz_2022]]

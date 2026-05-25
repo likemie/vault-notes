@@ -81,4 +81,4 @@ updated: 2026-05-20
 
 ## 来源
 
-- Ch13_Thompson_2022
+- [[Ch13_Thompson_2022]]

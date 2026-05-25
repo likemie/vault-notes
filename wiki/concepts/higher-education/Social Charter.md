@@ -97,4 +97,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Ch8_Boyadjieva_2022
+- [[Ch8_Boyadjieva_2022]]

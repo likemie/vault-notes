@@ -91,5 +91,5 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Parreira do Amaral(Ed.)_2022_Springer
-- Ch3_Parreira do Amaral_2022
+- [[Parreira do Amaral(Ed.)_2022_Springer]]
+- [[Ch3_Parreira do Amaral_2022]]

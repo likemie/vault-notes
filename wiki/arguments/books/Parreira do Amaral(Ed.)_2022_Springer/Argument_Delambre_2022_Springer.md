@@ -170,4 +170,4 @@ Delambre 的最终结论是一个概念重构：在 [[Tense Society|张力社会
 
 ## 来源
 
-- Ch7_Delambre_2022
+- [[Ch7_Delambre_2022]]
