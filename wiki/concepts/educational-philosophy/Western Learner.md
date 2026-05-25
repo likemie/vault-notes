@@ -14,13 +14,12 @@ tags:
 related_concepts:
   - "[[Mind-Oriented Learning Process]]"
   - "[[Refined Mastery]]"
+  - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"
   - "[[Devil's Advocate]]"
   - "[[Ideal Learner]]"
+  - "[[Virtue-Oriented Learning Process]]"
   - "[[Chinese Learner]]"
-  - "[[Learning Virtues]]"
-  - "[[Take the World Upon Oneself]]"
-  - "[[Humility in Learning]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Examined Life]]"
@@ -168,7 +167,7 @@ updated: 2026-05-24
 
 ### 6. 西方说话风格：Grice 会话准则
 
-Li 借用 Grice 的四条会话准则 来描述西方典型说话风格（Li, 2012, pp.87-91）：
+Li 借用 Grice 的四条[[Grice's Conversational Maxims|会话准则]] 来描述西方典型说话风格（Li, 2012, pp.87-91）：
 - **量的准则**："不多不少"——计算会话所需的适当信息量，体现效率关切
 - **质的准则**："说真话"——对真相的极端重视，即使真话可能伤人。西方说话者通常以"这只是我的看法……""据我回忆……"等预置来规避信息质量问题
 - **关联准则**："说要点"——强调精准和简洁。啰嗦和绕弯子被视为缺乏智慧
@@ -183,7 +182,7 @@ O'Connor 和 Michaels（1993）的研究揭示了西方课堂如何通过 [[Revo
 西方家庭高度配合学校的说话训练（Li, 2012, pp.94-96）。Heath（1983）发现欧裔美国中产阶级父母采用**elaborative style**（阐述式风格）——反复追问儿童"发生了什么、怎么发生的、为什么这样发生"。此外，许多受过良好教育的西方父母向儿童示范 [[Devil's Advocate]] 实践——为不必然赞同的立场辩护以检验论证漏洞。"公平地说，我能理解……""站在对方立场，我虽不同意但能体谅……"是常见话语框架（Li, 2012, pp.95-96）。
 
 > [!abstract] 四个过程的实证权重
-> 在 Li 的[[Ideal Learner|理想学习者]]研究中，96% 的欧裔美国受访者提到了一个或多个心智导向学习过程，而仅有 38% 的中国同龄人提到美德导向过程（Li, 2012, p.146）。这强烈支持了两种学习过程在不同文化中的不同认知显著性。
+> 在 Li 的[[Ideal Learner|理想学习者]]研究中，96% 的欧裔美国受访者提到了一个或多个心智导向学习过程，而仅有 38% 的中国同龄人提到[[Virtue-Oriented Learning Process|美德导向]]过程（Li, 2012, p.146）。这强烈支持了两种学习过程在不同文化中的不同认知显著性。
 
 ---
 

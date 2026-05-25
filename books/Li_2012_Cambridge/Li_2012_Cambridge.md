@@ -38,7 +38,6 @@ extracted_to:
   - "[[Certainty of Knowledge]]"
   - "[[Examined Life]]"
   - "[[Mind and Its Wonders]]"
-  - "[[Western Learner]]"
   - "[[Confucian Tutoring Style]]"
   - "[[Devil's Advocate]]"
   - "[[Listening-Oriented Learning]]"
@@ -91,6 +90,7 @@ extracted_to:
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
   - "[[Cultural Defense Strategies]]"
   - "[[Tracking]]"
+  - "[[Western Learner]]"
 processed_date: 2026-05-25
 ---
 
