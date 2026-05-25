@@ -6,11 +6,11 @@ extracted_to:
   - "[[Necropolitics]]"
   - "[[Retrotopia]]"
   - "[[Sacrifice Theory]]"
-  - "[[Sinicisation]]"
   - "[[2020 Inner Mongolia Bilingual Education Reform]]"
   - "[[Xinjiang Vocational Education and Training Centers]]"
   - "[[Fei Xiaotong]]"
   - "[[Zhao Tingyang]]"
+  - "[[Sinicisation]]"
 processed_date: 2026-05-25
 ---
 

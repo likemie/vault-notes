@@ -28,7 +28,8 @@ related_concepts:
   - "[[Benevolence]]"
   - "[[Orientalism]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Comparative Textbook Analysis]]"
 related_persons: []
 related_facts:
   - "[[National Security Law]]"
@@ -75,7 +76,7 @@ updated: 2026-05-25
 ## 研究方法
 
 > [!info] 研究方法
-> - **教科书比较分析**：比较 2020 年版 New Horizon 通识教育科 教科书（已通过教育局 2019 年底引入的"自愿"审查）与 2022 年版 New Horizon [[Citizenship and Social Development|公民与社会发展科]] 教科书（经教育局正式评审），聚焦《香港今日》/《"[[One Country, Two Systems|一国两制]]"下的香港》分册和《现代中国》/《改革开放以来的国家》分册。2022 年秋季写作时，第三个主题"互联相依的当代世界"的教科书尚未出版（pp.147–148）。
+> - **[[Comparative Textbook Analysis|教科书比较分析]]**：比较 2020 年版 New Horizon 通识教育科 教科书（已通过教育局 2019 年底引入的"自愿"审查）与 2022 年版 New Horizon [[Citizenship and Social Development|公民与社会发展科]] 教科书（经教育局正式评审），聚焦《香港今日》/《"[[One Country, Two Systems|一国两制]]"下的香港》分册和《现代中国》/《改革开放以来的国家》分册。2022 年秋季写作时，第三个主题"互联相依的当代世界"的教科书尚未出版（pp.147–148）。
 > - **课程文件分析**：比较 [[Liberal Studies|LS]] 与 CSD 的官方课程框架（CDC & HKEAA 2014 vs EDB 2021e），特别关注课程框架从"关键探究问题"到"学习重点"的转变（pp.144–147）。
 > - **公共历史与博物馆分析**：分析香港历史博物馆常设展翻新计划（2020 年底闭馆）、西九龙文化区的 M+ 博物馆与故宫博物院香港分馆的角色分工，前者展示"微妙和复杂"，后者承担更直白的宣传功能（pp.142–143）。
 > - **政策文件分析**：分析教育局的"国民教育一站式门户"、《[[Youth Development Blueprint|青年发展蓝图]]》（2022 年 12 月）和"[[My Pledge to Act|我的行动承诺]]（My Pledge to Act）"项目（2019–2022）等官方文件（pp.141, 153）。

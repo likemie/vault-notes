@@ -3,10 +3,10 @@ citation: "Vickers, E. (2024). The motherland's suffocating embrace: schooling a
 extracted_to:
   - "[[Orientalism]]"
   - "[[Psychologisation]]"
-  - "[[Argument_Vickers_2024_CE]]"
   - "[[Citizenship and Social Development]]"
   - "[[National Education]]"
   - "[[National Security Law]]"
+  - "[[Argument_Vickers_2024_CE]]"
 processed_date: 2026-05-25
 ---
 
