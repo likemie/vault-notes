@@ -1,7 +1,6 @@
 ---
 title: Graduation Pathway Typology
 aliases:
-  - "Graduation Pathway Typology (Zheng)"
   - 毕业出路产生机制四分类
   - 2×2四分类模型
   - 出路分化四类型

@@ -20,8 +20,8 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Problem-Based Learning]]"
+  - "[[Formative Assessment]]"
   - "[[Tongxue]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Evidence-Based Reform]]"
   - "[[Scientism]]"
   - "[[Technical Rationality]]"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Learnification]]"
 related_theories:
+  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Radical Constructivism]]"
   - "[[Popper's Three Worlds Theory]]"
   - "[[Appraisal Theory]]"
@@ -47,7 +48,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Observational and Correlational Research]]"
   - "[[Matching]]"
-  - "[[Formative Evaluation]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Dietrich Benner]]"
@@ -312,7 +312,7 @@ Golovchin（2019), p.232-234）详细描述了 [[John Hattie|Hattie]] 元-元分
    - 负面效应区（d<0）：如暑假、看电视（d=-0.18）、转学（d=-0.34）
    - 发展效应区（d=0-0.15）：如教师学科知识（d=0.09）、教师教育（d=0.11）
    - 低中效应区（d=0.15-0.4）：如班级规模（d=0.21）、家庭结构（d=0.17）
-   - 期望效应区（d>0.4）：如微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship|师生关系]]（d=0.72）、[[Formative Evaluation|形成性评价]]（d=0.90）
+   - 期望效应区（d>0.4）：如微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship|师生关系]]（d=0.72）、[[Formative Assessment|形成性评价]]（d=0.90）
 
 **数据来源限制**：元分析基于 1980s-2000s 三个英语国家（美国、澳大利亚、新西兰）的研究（Golovchin, 2019, p.232）。
 

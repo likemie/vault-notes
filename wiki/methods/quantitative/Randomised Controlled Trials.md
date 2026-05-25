@@ -18,8 +18,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Side Effects in Education]]"
-  - "[[Cluster Randomized Trials]]"
-  - "[[Intent-to-Treat Analysis]]"
   - "[[Mechanism Experiments]]"
   - "[[Black Box RCTs]]"
   - "[[Feedback]]"
@@ -31,6 +29,8 @@ related_theories:
 related_methods:
   - "[[Matching]]"
   - "[[Intervention Research]]"
+  - "[[Cluster Randomized Trials]]"
+  - "[[Intent-to-Treat Analysis]]"
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Meta-analysis]]"

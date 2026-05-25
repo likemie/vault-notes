@@ -13,11 +13,11 @@ tags:
 - stance/support
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Structural Coupling]]"
   - "[[Effect Size]]"
   - "[[Professional Judgment]]"
 related_theories:
+  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Bounded Rationality]]"
 related_methods: []
 related_persons:

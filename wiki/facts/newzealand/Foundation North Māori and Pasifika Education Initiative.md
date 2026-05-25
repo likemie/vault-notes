@@ -3,8 +3,6 @@ title: Foundation North Māori and Pasifika Education Initiative
 aliases:
   - 北方基金会毛利与太平洋岛民教育计划
   - MPEI
-  - "Foundation North Māori and Pasifika Education Initiative (MPEI 2009)"
-  - "Foundation North Māori and Pasifika Education Initiative (MPEI 2009)"
 summary: "Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社区提案驱动和网络识别两阶段模式改善 Māori 和 Pasifika 学生教育成果"
 type: fact
 subtype: policy

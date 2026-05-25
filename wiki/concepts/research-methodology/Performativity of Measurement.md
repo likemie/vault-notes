@@ -13,7 +13,6 @@ tags:
 - educational-philosophy
 - paradigm/constructivist
 related_concepts:
-  - "[[Sociology of Measurement]]"
   - "[[Knowledge Production]]"
   - "[[Science and Technology Studies]]"
   - "[[International Education]]"
@@ -23,7 +22,8 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Neo-Taylorism in Educational Administration]]"
-related_theories: []
+related_theories:
+  - "[[Sociology of Measurement]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

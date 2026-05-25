@@ -2,7 +2,6 @@
 title: What Works Network
 aliases:
   - 英国What Works网络
-  - "What Works Network (UK)"
 summary: "英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴"
 type: fact
 subtype: policy

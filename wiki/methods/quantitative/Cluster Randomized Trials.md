@@ -14,10 +14,10 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Stable Unit Treatment Value Assumption]]"
-  - "[[Intent-to-Treat Analysis]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Intent-to-Treat Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []

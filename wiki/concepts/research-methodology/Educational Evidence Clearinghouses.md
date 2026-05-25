@@ -18,7 +18,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
-  - "[[Intent-to-Treat Analysis]]"
   - "[[School Leadership]]"
   - "[[Statistical Significance]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -32,6 +31,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Intent-to-Treat Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Single-Case Design]]"
 related_persons: []

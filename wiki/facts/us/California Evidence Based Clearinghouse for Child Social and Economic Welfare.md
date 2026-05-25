@@ -3,7 +3,6 @@ title: California Evidence Based Clearinghouse for Child Social and Economic Wel
 aliases:
   - 加州儿童社会与经济福祉循证清算中心
   - CEBC
-  - "California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)"
 summary: "面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果"
 type: fact
 subtype: event

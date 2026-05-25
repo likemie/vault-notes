@@ -14,9 +14,9 @@ tags:
 - methodology-critique
 - subject/research-methodology
 related_concepts:
-  - "[[Potential Outcomes Framework]]"
   - "[[Stable Unit Treatment Value Assumption]]"
-related_theories: []
+related_theories:
+  - "[[Potential Outcomes Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Causal Modeling]]"

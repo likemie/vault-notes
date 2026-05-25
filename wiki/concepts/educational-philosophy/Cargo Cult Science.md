@@ -12,9 +12,9 @@ tags:
 related_concepts:
   - "[[Scientism]]"
   - "[[Evidence-Based Education]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Visible Learning]]"
-related_theories: []
+related_theories:
+  - "[[Dynamic Knowledge and Learning Model]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

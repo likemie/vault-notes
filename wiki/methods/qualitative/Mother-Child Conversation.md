@@ -5,7 +5,6 @@ aliases:
   - MCC
   - mother-child conversation
   - simulated mother-child conversation
-  - "Mother-Child Conversation (MCC)"
 summary: "一种通过采集模拟母子对话样本来研究文化学习信念社会化过程的质性研究方法，结合结构分析、序列分析与话语分析三种分析层级，适合比较不同文化中家长如何通过日常对话传递学习信念"
 type: method
 method_type: qualitative
@@ -21,7 +20,6 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
   - "[[Heart and Mind for Wanting to Learn]]"
-  - "[[MCC Discourse Analysis Examples]]"
   - "[[Cognitive Source]]"
   - "[[Benevolence]]"
   - "[[Confucian Tutoring Style]]"
@@ -29,6 +27,7 @@ related_theories:
   - "[[Appraisal Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[MCC Discourse Analysis Examples]]"
 related_persons:
   - "[[Socrates]]"
 related_arguments:

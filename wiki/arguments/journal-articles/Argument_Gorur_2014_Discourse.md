@@ -16,9 +16,9 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Science and Technology Studies]]"
-  - "[[Sociology of Measurement]]"
   - "[[Performance Indicators]]"
 related_theories:
+  - "[[Sociology of Measurement]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons:

@@ -26,12 +26,12 @@ related_concepts:
   - "[[Humility in Learning]]"
   - "[[Pride in Learning]]"
   - "[[Cognitive Source]]"
-  - "[[MCC Discourse Analysis Examples]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Prototype Methods]]"
   - "[[Mother-Child Conversation]]"
+  - "[[MCC Discourse Analysis Examples]]"
 related_persons:
   - "[[Confucius]]"
 related_facts: []

@@ -14,12 +14,12 @@ tags:
 related_concepts:
   - "[[Cognitive Source]]"
   - "[[Pride in Learning]]"
-  - "[[MCC Discourse Analysis Examples]]"
   - "[[Confucian Tutoring Style]]"
   - "[[Learning Virtues]]"
 related_theories: []
 related_methods:
   - "[[Mother-Child Conversation]]"
+  - "[[MCC Discourse Analysis Examples]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []

@@ -18,9 +18,9 @@ related_concepts:
   - "[[International Education]]"
   - "[[Selectivity]]"
   - "[[Theories of Policy Change]]"
-  - "[[Sociology of Measurement]]"
   - "[[Performativity of Measurement]]"
-related_theories: []
+related_theories:
+  - "[[Sociology of Measurement]]"
 related_methods:
   - "[[Matching]]"
 related_persons: []

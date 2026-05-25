@@ -10,7 +10,6 @@ tags:
 - discipline/sociology
 - school/world-society-theory
 related_concepts:
-  - "[[Cultural Models]]"
   - "[[Organizational Actorhood]]"
   - "[[Otherhood]]"
   - "[[Knowledge-Based Economy]]"
@@ -18,6 +17,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[Cultural Models]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons: []

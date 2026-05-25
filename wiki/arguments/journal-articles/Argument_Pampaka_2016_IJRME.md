@@ -12,13 +12,13 @@ tags:
 - level/k12
 - level/higher-ed
 related_concepts:
-  - "[[Cluster Randomized Trials]]"
-  - "[[Intent-to-Treat Analysis]]"
   - "[[Knowledge Transfer]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Cluster Randomized Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Intent-to-Treat Analysis]]"
   - "[[Improvement Science]]"
 related_persons: []
 related_facts: []

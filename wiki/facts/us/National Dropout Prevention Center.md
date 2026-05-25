@@ -3,7 +3,6 @@ title: National Dropout Prevention Center
 aliases:
   - 全国防辍学中心
   - NDPC
-  - "National Dropout Prevention Center (NDPC)"
 summary: "聚焦辍学预防项目的非营利教育清算中心，提供项目筛选、证据评级和实践资源"
 type: fact
 subtype: event

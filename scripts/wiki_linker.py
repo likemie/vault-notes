@@ -454,6 +454,23 @@ def valid_boundary(text: str, start: int, end: int, term: str) -> bool:
     return True
 
 
+def match_term_at(text: str, start: int, term: str) -> bool:
+    candidate = text[start : start + len(term)]
+    if len(candidate) != len(term):
+        return False
+    if candidate == term:
+        return True
+
+    # Long Latin terms should not need duplicate aliases only for casing.
+    # Keep short all-caps acronyms exact, so aliases like US do not match "us".
+    if any(ch.isascii() and ch.isalpha() for ch in term):
+        if len(term) <= 3 and term.isupper():
+            return False
+        return candidate.casefold() == term.casefold()
+
+    return False
+
+
 def link_text(display: str, target: str) -> str:
     if display == target:
         return f"[[{target}]]"
@@ -481,7 +498,7 @@ def link_section(section: str, terms: list[Term], current_title: str, already_li
             for term in terms:
                 if term.target == current_title or term.target in already_linked:
                     continue
-                if not chunk.startswith(term.text, i):
+                if not match_term_at(chunk, i, term.text):
                     continue
                 if not valid_boundary(chunk, i, i + len(term.text), term.text):
                     continue

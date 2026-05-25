@@ -4,7 +4,6 @@ aliases:
   - 朱熹
   - 朱子
   - Zhuzi
-  - Zhu Xi (Neo-Confucianism)
 summary: "南宋理学家，可能是孔子孟子之后最著名的儒家思想家，编纂四书并将其确立为1949年前中国学生的必读经典"
 type: person
 nationality: china

@@ -12,6 +12,7 @@ tags:
 - formative-assessment
 - region/uk
 related_concepts:
+  - "[[Formative Assessment]]"
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
@@ -19,7 +20,6 @@ related_concepts:
   - "[[Feedback]]"
 related_theories: []
 related_methods:
-  - "[[Formative Evaluation]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
 related_persons:
@@ -36,7 +36,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Dylan Wiliam，英国教育评估和[[Formative Evaluation|形成性评价]]领域的重要研究者，UCL 教育研究院（Institute of Education, University College London）教授。其研究涵盖课堂评估、教师质量和[[Evidence-Based Education|证据本位教育]]的方法论批判。
+> Dylan Wiliam，英国教育评估和[[Formative Assessment|形成性评价]]领域的重要研究者，UCL 教育研究院（Institute of Education, University College London）教授。其研究涵盖课堂评估、教师质量和[[Evidence-Based Education|证据本位教育]]的方法论批判。
 
 ## 核心思想
 
@@ -58,12 +58,12 @@ updated: '2026-05-19'
 > [!success] 主要贡献
 > - [[Evidence-Based Education]] — 以 Goldman 区分理论和四个决策问题框架提供对 EBE 的系统反思，论证 EBE 整个项目"永远不会成功"
 > - [[Validity as Inferences]] — 继承并推广效度作为推论属性（而非测试属性）的教育研究方法论立场
-> - [[Formative Evaluation|形成性评价]]（formative assessment）研究 — 在课堂评估和[[Feedback|反馈]]领域的广泛贡献（本文仅简要涉及）
+> - [[Formative Assessment|形成性评价]]（formative assessment）研究 — 在课堂评估和[[Feedback|反馈]]领域的广泛贡献（本文仅简要涉及）
 
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Wiliam, D. (2016). *Leadership for teacher learning: Creating a culture where all teachers improve so that all learners succeed*. Learning Sciences International. — 聚焦教师专业发展和[[Formative Evaluation|形成性评价]]的实践应用
+> - Wiliam, D. (2016). *Leadership for teacher learning: Creating a culture where all teachers improve so that all learners succeed*. Learning Sciences International. — 聚焦教师专业发展和[[Formative Assessment|形成性评价]]的实践应用
 > - Wiliam, D. (2019). Some reflections on the role of evidence in improving education. *Educational Research and Evaluation*, 25(7–8), 392–404. — 对 [[Evidence-Based Education|EBE]] 的方法论反思：教育知识局部且临时，"什么有效"是错误问题
 > - Boaler, J., Wiliam, D., & Brown, M. L. (2000). Students' experiences of ability grouping. *British Educational Research Journal*, 26(5), 631–648. — 发现能力分组降低学生成就，但后来因教师质量新证据而结论不再明确
 > - Wiliam, D., & Bartholomew, H. (2004). It's not which school but which set you're in that matters. *British Educational Research Journal*, 30(2), 279–293. — 关于能力分组安排对学生进步影响的差异中差研究

@@ -14,10 +14,10 @@ tags:
 - method/free-association
 - method/cultural-model
 related_concepts:
-  - "[[Cultural Models]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Ideal Learner]]"
 related_theories:
+  - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons: []

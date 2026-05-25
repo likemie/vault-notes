@@ -57,8 +57,8 @@ wiki/
 | 条目类型 | 路径 | 归类规则 |
 |---|---|---|
 | Concept | `wiki/concepts/<field>/` | 按领域，如 `comparative-education`、`curriculum`、`educational-philosophy`、`educational-leadership-administration` |
-| Theory | `wiki/theories/<field>/` | 按领域 |
-| Method | `wiki/methods/qualitative/`、`quantitative/`、`mixed/` | 按方法类型 |
+| Theory | `wiki/theories/<field>/` | 只放可作为论文理论框架、解释机制或分析视角的理论／框架／模型 |
+| Method | `wiki/methods/qualitative/`、`quantitative/`、`mixed/` | 只放研究方法、研究设计、资料收集／分析方法、项目评价方法；课堂教学法放 Concept |
 | Person | `wiki/persons/<nationality-or-region>/` | 按国籍／地区；不明或跨国身份放 `global` |
 | Fact | `wiki/facts/<region>/` | 按地区；全球性放 `global`；多国比较放 `multi` |
 | Argument | `wiki/arguments/journal-articles/`、`wiki/arguments/books/<book-folder>/`、`wiki/arguments/reports-policy-documents/` | 按文献类型；书籍 Argument 再按具体书籍文件夹分组 |
@@ -347,6 +347,8 @@ Argument 必须详细拆解论证链：
 
 - Argument 不使用 `aliases`。
 - Concept / Theory / Method / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
+- 英文 alias 默认不区分大小写；不要同时写只差大小写的重复 alias。
+- 若 title 与缩写已经分别覆盖，不再写 `Full Name (ABBR)` 形式的 alias。
 - Person 的 `aliases` 主要写中文全称；只有非常著名或中文文献中常用简称的人物才写简称，如 `杜威`、`皮亚杰`、`布迪厄`、`阿普尔`、`哈蒂`。
 - 不要写过短或过宽泛的 aliases，如“资本”“文化”“教育”“政策”“课程”“能力”“国家”“公平”。
 - 不要轻易写单个汉字 alias；只有该字作为独立术语有强识别度时才保留，例如特定儒学概念。单字 alias 过宽时应删除，避免正文词语内部误链接。

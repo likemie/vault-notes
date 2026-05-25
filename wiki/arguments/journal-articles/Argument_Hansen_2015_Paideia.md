@@ -14,12 +14,12 @@ tags:
 - subject/instruction-pedagogy
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Surface and Deep Learning]]"
   - "[[Effect Size]]"
   - "[[Feedback]]"
   - "[[New Public Management]]"
-related_theories: []
+related_theories:
+  - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons:

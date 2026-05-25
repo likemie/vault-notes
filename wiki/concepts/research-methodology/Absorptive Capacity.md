@@ -20,7 +20,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Logic Model]]"
-  - "[[Formative Evaluation]]"
+  - "[[Formative Program Evaluation]]"
 related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
@@ -57,7 +57,7 @@ updated: '2026-05-23'
 
 ### 开放沟通
 
-[[Formative Evaluation|形成性评价]][[Feedback|反馈]]需要通过简短报告、会议和持续沟通进入项目实践。若沟通不开放，证据可能停留在评价报告中，而不能转化为实施调整（Ross & Morrison, 2021, pp.123-124）。
+[[Formative Program Evaluation|形成性项目评价]][[Feedback|反馈]]需要通过简短报告、会议和持续沟通进入项目实践。若沟通不开放，证据可能停留在评价报告中，而不能转化为实施调整（Ross & Morrison, 2021, pp.123-124）。
 
 ### 支持性领导
 
@@ -79,8 +79,8 @@ updated: '2026-05-23'
 ## 相关案例／政策
 
 > [!example]
-> - [[Students and Teachers Accessing Tomorrow]] — STAT 的[[Formative Evaluation|形成性评价]][[Feedback|反馈]]被多方利益相关者用于理解项目进展和支持项目延续，体现较高学区吸收能力（Ross & Morrison, 2021, pp.121-124）。
-> - [[Formative Evaluation]] — 形成性评价只有被组织吸收，才会从报告转化为实施改进。
+> - [[Students and Teachers Accessing Tomorrow]] — STAT 的[[Formative Program Evaluation|形成性项目评价]][[Feedback|反馈]]被多方利益相关者用于理解项目进展和支持项目延续，体现较高学区吸收能力（Ross & Morrison, 2021, pp.121-124）。
+> - [[Formative Program Evaluation]] — 形成性评价只有被组织吸收，才会从报告转化为实施改进。
 
 ## 来源
 

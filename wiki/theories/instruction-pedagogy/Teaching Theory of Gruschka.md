@@ -1,10 +1,8 @@
 ---
 title: Teaching Theory of Gruschka
 aliases:
-  - 教学理论 (Gruschka)
   - Gruschka's teaching theory
   - Gruschka教学理论
-  - "Theory of Teaching (Gruschka)"
 summary: "Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung 和 Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础"
 type: theory
 tags:

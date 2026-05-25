@@ -18,11 +18,11 @@ tags:
 related_concepts:
   - "[[Humility in Learning]]"
   - "[[Western Learner]]"
-  - "[[MCC Discourse Analysis Examples]]"
   - "[[Tongxue]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
-related_methods: []
+related_methods:
+  - "[[MCC Discourse Analysis Examples]]"
 related_persons: []
 related_facts: []
 related_arguments: []

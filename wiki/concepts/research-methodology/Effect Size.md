@@ -13,11 +13,9 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
   - "[[School Effectiveness]]"
-  - "[[Intent-to-Treat Analysis]]"
   - "[[Whole Language]]"
   - "[[Professional Judgment]]"
   - "[[Surface and Deep Learning]]"
@@ -29,9 +27,11 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Material Fallacies]]"
   - "[[School Leadership]]"
-related_theories: []
+related_theories:
+  - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Intent-to-Treat Analysis]]"
   - "[[Covariate Adjustment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"

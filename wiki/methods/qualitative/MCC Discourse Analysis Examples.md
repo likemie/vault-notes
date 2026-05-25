@@ -5,7 +5,8 @@ aliases:
   - Li MCC discourse analysis
   - Ch7 discourse examples
 summary: "母子对话研究中的话语分析材料集，按认知社会化与情感社会化组织原始对话、翻译和分析操作示例"
-type: concept
+type: method
+method_type: qualitative
 tags:
   - theme/socialization
   - theme/learning
@@ -13,6 +14,7 @@ tags:
   - region/east-asia
   - region/west
   - method/discourse-analysis
+  - method/qualitative
 related_concepts:
   - "[[Benevolence]]"
   - "[[Tongxue]]"

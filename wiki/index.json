@@ -282,16 +282,6 @@
     ]
   },
   {
-    "title": "MCC Discourse Analysis Examples",
-    "type": "concept",
-    "path": "wiki/concepts/communication-discourse/MCC Discourse Analysis Examples.md",
-    "aliases": [
-      "MCC 话语分析示例",
-      "Li MCC discourse analysis",
-      "Ch7 discourse examples"
-    ]
-  },
-  {
     "title": "21st Century Skills and Competencies Discourse",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/21st Century Skills and Competencies Discourse.md",
@@ -351,8 +341,7 @@
     "path": "wiki/concepts/comparative-education/Externalization.md",
     "aliases": [
       "外化",
-      "externalization",
-      "Externalization (Schriewer)"
+      "externalization"
     ]
   },
   {
@@ -507,9 +496,7 @@
     "type": "concept",
     "path": "wiki/concepts/curriculum/Official Knowledge.md",
     "aliases": [
-      "官方知识",
-      "官方知识 (Apple)",
-      "official knowledge (Apple)"
+      "官方知识"
     ]
   },
   {
@@ -741,7 +728,6 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Multiplicity.md",
     "aliases": [
-      "Multiplicity (Massey)",
       "多重性",
       "multiplicity"
     ]
@@ -752,7 +738,6 @@
     "path": "wiki/concepts/educational-philosophy/Narrative Knowledge.md",
     "aliases": [
       "叙事知识",
-      "narrative knowledge (Lyotard)",
       "scientific knowledge vs narrative knowledge"
     ]
   },
@@ -770,6 +755,15 @@
     "path": "wiki/concepts/educational-philosophy/Response-ability.md",
     "aliases": [
       "回应能力"
+    ]
+  },
+  {
+    "title": "Science and Technology Studies",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Science and Technology Studies.md",
+    "aliases": [
+      "科学技术研究",
+      "STS"
     ]
   },
   {
@@ -1089,8 +1083,7 @@
       "university rankings",
       "global rankings",
       "league tables",
-      "global university rankings",
-      "University Rankings (Global)"
+      "global university rankings"
     ]
   },
   {
@@ -1149,8 +1142,7 @@
     "type": "concept",
     "path": "wiki/concepts/higher-education/Knowledge Production.md",
     "aliases": [
-      "知识生产",
-      "knowledge production (GPK)"
+      "知识生产"
     ]
   },
   {
@@ -1369,14 +1361,6 @@
     ]
   },
   {
-    "title": "Dynamic Knowledge and Learning Model",
-    "type": "concept",
-    "path": "wiki/concepts/instruction-pedagogy/Dynamic Knowledge and Learning Model.md",
-    "aliases": [
-      "动态知识与学习模型"
-    ]
-  },
-  {
     "title": "Effective Teaching",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
@@ -1390,6 +1374,18 @@
     "path": "wiki/concepts/instruction-pedagogy/Feedback.md",
     "aliases": [
       "反馈"
+    ]
+  },
+  {
+    "title": "Formative Assessment",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Formative Assessment.md",
+    "aliases": [
+      "Formative Evaluation",
+      "formative evaluation",
+      "formative assessment",
+      "形成性评价",
+      "形成性评估"
     ]
   },
   {
@@ -1719,16 +1715,6 @@
     ]
   },
   {
-    "title": "Concealment-Exposure Framework",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Concealment-Exposure Framework.md",
-    "aliases": [
-      "隐藏-暴露框架",
-      "concealment and exposure",
-      "Nagel concealment-exposure"
-    ]
-  },
-  {
     "title": "Cultural Diplomacy",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Cultural Diplomacy.md",
@@ -1764,8 +1750,7 @@
     "path": "wiki/concepts/political-economy-geopolitics/Educational Management Organisation.md",
     "aliases": [
       "教育管理组织",
-      "EMO",
-      "Educational Management Organisation (EMO)"
+      "EMO"
     ]
   },
   {
@@ -2131,33 +2116,12 @@
     ]
   },
   {
-    "title": "Cluster Randomized Trials",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Cluster Randomized Trials.md",
-    "aliases": [
-      "集群随机试验",
-      "集群随机对照试验",
-      "CRT"
-    ]
-  },
-  {
     "title": "Confidence Interval",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Confidence Interval.md",
     "aliases": [
       "置信区间",
       "CI"
-    ]
-  },
-  {
-    "title": "Cultural Models",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Cultural Models.md",
-    "aliases": [
-      "文化模型",
-      "cultural model",
-      "culture-level models",
-      "culture-level model"
     ]
   },
   {
@@ -2245,15 +2209,6 @@
     ]
   },
   {
-    "title": "Intent-to-Treat Analysis",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Intent-to-Treat Analysis.md",
-    "aliases": [
-      "意向治疗分析",
-      "ITT"
-    ]
-  },
-  {
     "title": "Justified Warrants",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Justified Warrants.md",
@@ -2316,14 +2271,6 @@
     "aliases": [
       "测量的生产性",
       "测量的施行性"
-    ]
-  },
-  {
-    "title": "Potential Outcomes Framework",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Potential Outcomes Framework.md",
-    "aliases": [
-      "潜在结果框架"
     ]
   },
   {
@@ -2394,16 +2341,6 @@
     ]
   },
   {
-    "title": "Science and Technology Studies",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Science and Technology Studies.md",
-    "aliases": [
-      "科学技术研究",
-      "STS",
-      "Science and Technology Studies (STS)"
-    ]
-  },
-  {
     "title": "Side Effects in Education",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Side Effects in Education.md",
@@ -2417,8 +2354,7 @@
     "path": "wiki/concepts/research-methodology/Stable Unit Treatment Value Assumption.md",
     "aliases": [
       "稳定单元处理值假定",
-      "SUTVA",
-      "Stable Unit Treatment Value Assumption (SUTVA)"
+      "SUTVA"
     ]
   },
   {
@@ -2443,7 +2379,6 @@
     "path": "wiki/concepts/sociology-of-education/Champ.md",
     "aliases": [
       "场域",
-      "Field (Bourdieu)",
       "field",
       "champ"
     ]
@@ -2458,8 +2393,7 @@
       "codeswitcher",
       "codeswitching in school",
       "effort hiding",
-      "努力隐藏",
-      "Codeswitcher (School)"
+      "努力隐藏"
     ]
   },
   {
@@ -2551,7 +2485,6 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Graduation Pathway Typology.md",
     "aliases": [
-      "Graduation Pathway Typology (Zheng)",
       "毕业出路产生机制四分类",
       "2×2四分类模型",
       "出路分化四类型"
@@ -2624,8 +2557,7 @@
       "nerd",
       "geek",
       "nerd harassment",
-      "anti-intellectual peer culture",
-      "Nerd (School Peer Culture)"
+      "anti-intellectual peer culture"
     ]
   },
   {
@@ -2694,14 +2626,6 @@
       "企业型自我",
       "entrepreneurial self",
       "自我创业者"
-    ]
-  },
-  {
-    "title": "Sociology of Measurement",
-    "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/Sociology of Measurement.md",
-    "aliases": [
-      "测量社会学"
     ]
   },
   {
@@ -2776,7 +2700,6 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Work Meaning Schemas.md",
     "aliases": [
-      "Work Meaning Schemas (Zheng)",
       "工作意义三角图式",
       "三角图式结构",
       "work meaning schemas"
@@ -2791,8 +2714,7 @@
       "zero-sum competition",
       "零和博弈式竞争",
       "mutually exclusive competition",
-      "排他性竞争",
-      "Zero-Sum Competition (School)"
+      "排他性竞争"
     ]
   },
   {
@@ -2990,14 +2912,20 @@
     ]
   },
   {
+    "title": "Dynamic Knowledge and Learning Model",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/Dynamic Knowledge and Learning Model.md",
+    "aliases": [
+      "动态知识与学习模型"
+    ]
+  },
+  {
     "title": "Teaching Theory of Gruschka",
     "type": "theory",
     "path": "wiki/theories/instruction-pedagogy/Teaching Theory of Gruschka.md",
     "aliases": [
-      "教学理论 (Gruschka)",
       "Gruschka's teaching theory",
-      "Gruschka教学理论",
-      "Theory of Teaching (Gruschka)"
+      "Gruschka教学理论"
     ]
   },
   {
@@ -3072,6 +3000,16 @@
     ]
   },
   {
+    "title": "Concealment-Exposure Framework",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Concealment-Exposure Framework.md",
+    "aliases": [
+      "隐藏-暴露框架",
+      "concealment and exposure",
+      "Nagel concealment-exposure"
+    ]
+  },
+  {
     "title": "Critical Geopolitics",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Critical Geopolitics.md",
@@ -3135,6 +3073,22 @@
     ]
   },
   {
+    "title": "Potential Outcomes Framework",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Potential Outcomes Framework.md",
+    "aliases": [
+      "潜在结果框架"
+    ]
+  },
+  {
+    "title": "Sociology of Measurement",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Sociology of Measurement.md",
+    "aliases": [
+      "测量社会学"
+    ]
+  },
+  {
     "title": "Capability Approach in Education",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Capability Approach in Education.md",
@@ -3146,6 +3100,17 @@
       "能力路径",
       "capability theory",
       "capabilities approach"
+    ]
+  },
+  {
+    "title": "Cultural Models",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Cultural Models.md",
+    "aliases": [
+      "文化模型",
+      "cultural model",
+      "culture-level models",
+      "culture-level model"
     ]
   },
   {
@@ -3193,12 +3158,11 @@
     ]
   },
   {
-    "title": "Formative Evaluation",
+    "title": "Formative Program Evaluation",
     "type": "method",
-    "path": "wiki/methods/mixed/Formative Evaluation.md",
+    "path": "wiki/methods/mixed/Formative Program Evaluation.md",
     "aliases": [
-      "形成性评价",
-      "formative evaluation",
+      "形成性项目评价",
       "formative program evaluation"
     ]
   },
@@ -3344,6 +3308,16 @@
     ]
   },
   {
+    "title": "MCC Discourse Analysis Examples",
+    "type": "method",
+    "path": "wiki/methods/qualitative/MCC Discourse Analysis Examples.md",
+    "aliases": [
+      "MCC 话语分析示例",
+      "Li MCC discourse analysis",
+      "Ch7 discourse examples"
+    ]
+  },
+  {
     "title": "Mother-Child Conversation",
     "type": "method",
     "path": "wiki/methods/qualitative/Mother-Child Conversation.md",
@@ -3351,8 +3325,7 @@
       "母子对话法",
       "MCC",
       "mother-child conversation",
-      "simulated mother-child conversation",
-      "Mother-Child Conversation (MCC)"
+      "simulated mother-child conversation"
     ]
   },
   {
@@ -3380,6 +3353,16 @@
       "因果建模",
       "结构方程建模",
       "SEM"
+    ]
+  },
+  {
+    "title": "Cluster Randomized Trials",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Cluster Randomized Trials.md",
+    "aliases": [
+      "集群随机试验",
+      "集群随机对照试验",
+      "CRT"
     ]
   },
   {
@@ -3420,6 +3403,15 @@
       "functional-magnetic-resonance-imaging",
       "功能性磁共振成像",
       "fMRI"
+    ]
+  },
+  {
+    "title": "Intent-to-Treat Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Intent-to-Treat Analysis.md",
+    "aliases": [
+      "意向治疗分析",
+      "ITT"
     ]
   },
   {
@@ -3521,7 +3513,6 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Single-Case Design.md",
     "aliases": [
-      "Single-Case Design (SCD)",
       "单一个案设计",
       "SCD",
       "单一被试设计"
@@ -3769,8 +3760,7 @@
     "aliases": [
       "朱熹",
       "朱子",
-      "Zhuzi",
-      "Zhu Xi (Neo-Confucianism)"
+      "Zhuzi"
     ]
   },
   {
@@ -4454,8 +4444,7 @@
     "path": "wiki/facts/australia/Independent Public Schools Western Australia.md",
     "aliases": [
       "西澳独立公立学校",
-      "IPS",
-      "Independent Public Schools (IPS) Western Australia"
+      "IPS"
     ]
   },
   {
@@ -4473,8 +4462,7 @@
     "path": "wiki/facts/australia/Local Schools Local Decisions.md",
     "aliases": [
       "地方学校地方决策",
-      "LSLD",
-      "Local Schools Local Decisions (NSW)"
+      "LSLD"
     ]
   },
   {
@@ -4532,8 +4520,7 @@
     "aliases": [
       "Jerudong International School",
       "JIS",
-      "文莱 Jerudong International School 建校项目",
-      "Jerudong International School Establishment (Brunei 1997)"
+      "文莱 Jerudong International School 建校项目"
     ]
   },
   {
@@ -4541,7 +4528,6 @@
     "type": "fact",
     "path": "wiki/facts/china/Academic Ranking of World Universities.md",
     "aliases": [
-      "Academic Ranking of World Universities (ARWU)",
       "世界大学学术排名",
       "ARWU",
       "上海排名",
@@ -4658,8 +4644,7 @@
       "三好生",
       "三好学生",
       "Students with Three Excellences",
-      "san hao sheng",
-      "Three Excellences (San Hao Sheng)"
+      "san hao sheng"
     ]
   },
   {
@@ -4821,8 +4806,7 @@
     "path": "wiki/facts/global/Education at a Glance.md",
     "aliases": [
       "教育概览",
-      "EAG",
-      "Education at a Glance (EAG)"
+      "EAG"
     ]
   },
   {
@@ -4848,7 +4832,6 @@
     "type": "fact",
     "path": "wiki/facts/global/International Baccalaureate.md",
     "aliases": [
-      "International Baccalaureate (IB)",
       "国际文凭",
       "IB",
       "IB Diploma",
@@ -4862,8 +4845,7 @@
     "path": "wiki/facts/global/International Indicators of Education Systems.md",
     "aliases": [
       "国际教育系统指标",
-      "INES",
-      "International Indicators of Education Systems (INES)"
+      "INES"
     ]
   },
   {
@@ -5033,8 +5015,7 @@
     "path": "wiki/facts/hongkong/Citizenship and Social Development.md",
     "aliases": [
       "公民与社会发展科",
-      "CSD",
-      "Citizenship and Social Development (Hong Kong)"
+      "CSD"
     ]
   },
   {
@@ -5052,8 +5033,7 @@
     "path": "wiki/facts/hongkong/Liberal Studies.md",
     "aliases": [
       "香港通识教育科",
-      "LS",
-      "Liberal Studies (Hong Kong)"
+      "LS"
     ]
   },
   {
@@ -5080,7 +5060,6 @@
     "type": "fact",
     "path": "wiki/facts/japan/Kokutai no Hongi.md",
     "aliases": [
-      "Kokutai no Hongi (1937)",
       "国体之本义",
       "Cardinal Principles of the National Entity of Japan"
     ]
@@ -5106,7 +5085,6 @@
     "type": "fact",
     "path": "wiki/facts/multi/Sino-American Trade War.md",
     "aliases": [
-      "Sino-American Trade War (2018)",
       "中美贸易战",
       "中美贸易摩擦",
       "US-China Trade War"
@@ -5127,8 +5105,7 @@
     "path": "wiki/facts/multi/Best Evidence in Brief.md",
     "aliases": [
       "最佳证据简报",
-      "BEiB",
-      "Best Evidence in Brief (BEiB)"
+      "BEiB"
     ]
   },
   {
@@ -5149,8 +5126,7 @@
       "Cognition Education Group",
       "Cognition Education Trust",
       "Multi Serve",
-      "Multi Serve Education Trust",
-      "Cognition Education (NZ)"
+      "Multi Serve Education Trust"
     ]
   },
   {
@@ -5158,8 +5134,7 @@
     "type": "fact",
     "path": "wiki/facts/newzealand/Manaiakalani Education Trust.md",
     "aliases": [
-      "Manaiakalani教育信托",
-      "Manaiakalani Education Trust (NZ 2011)"
+      "Manaiakalani教育信托"
     ]
   },
   {
@@ -5168,8 +5143,7 @@
     "path": "wiki/facts/newzealand/Partnership Schools Kura Hourua.md",
     "aliases": [
       "伙伴学校Kura Hourua",
-      "特许学校",
-      "Partnership Schools Kura Hourua (NZ 2011)"
+      "特许学校"
     ]
   },
   {
@@ -5178,9 +5152,7 @@
     "path": "wiki/facts/newzealand/Teach First New Zealand Ako Mātātupu.md",
     "aliases": [
       "Teach First新西兰",
-      "TFNZ",
-      "Teach First New Zealand Ako Mātātupu (TFNZ 2011)",
-      "Teach First New Zealand (TFNZ 2011)"
+      "TFNZ"
     ]
   },
   {
@@ -5188,8 +5160,7 @@
     "type": "fact",
     "path": "wiki/facts/newzealand/Treasury Briefing on Student-Teacher Ratios.md",
     "aliases": [
-      "财政部师生比简报",
-      "Treasury Briefing on Student-Teacher Ratios (NZ 2011)"
+      "财政部师生比简报"
     ]
   },
   {
@@ -5205,8 +5176,7 @@
     "type": "fact",
     "path": "wiki/facts/newzealand/Contestable School Support Services.md",
     "aliases": [
-      "可竞争学校支持服务",
-      "Contestable School Support Services (NZ 2011)"
+      "可竞争学校支持服务"
     ]
   },
   {
@@ -5215,9 +5185,7 @@
     "path": "wiki/facts/newzealand/Foundation North Māori and Pasifika Education Initiative.md",
     "aliases": [
       "北方基金会毛利与太平洋岛民教育计划",
-      "MPEI",
-      "Foundation North Māori and Pasifika Education Initiative (MPEI 2009)",
-      "Foundation North Māori and Pasifika Education Initiative (MPEI 2009)"
+      "MPEI"
     ]
   },
   {
@@ -5234,8 +5202,7 @@
     "type": "fact",
     "path": "wiki/facts/newzealand/New Zealand National Standards.md",
     "aliases": [
-      "新西兰国家标准",
-      "New Zealand National Standards (2009)"
+      "新西兰国家标准"
     ]
   },
   {
@@ -5261,8 +5228,7 @@
     "path": "wiki/facts/newzealand/Tomorrow's Schools Reforms.md",
     "aliases": [
       "明日学校改革",
-      "Tomorrow's Schools",
-      "Tomorrow's Schools Reforms (NZ 1989)"
+      "Tomorrow's Schools"
     ]
   },
   {
@@ -5318,7 +5284,6 @@
     "type": "fact",
     "path": "wiki/facts/uk/Areopagitica.md",
     "aliases": [
-      "Areopagitica (1644)",
       "论出版自由",
       "Areopagitica",
       "Milton's Areopagitica"
@@ -5460,8 +5425,7 @@
     "type": "fact",
     "path": "wiki/facts/uk/What Works Network.md",
     "aliases": [
-      "英国What Works网络",
-      "What Works Network (UK)"
+      "英国What Works网络"
     ]
   },
   {
@@ -5488,8 +5452,7 @@
     "path": "wiki/facts/us/Best Evidence Encyclopedia.md",
     "aliases": [
       "最佳证据百科",
-      "BEE",
-      "Best Evidence Encyclopedia (BEE)"
+      "BEE"
     ]
   },
   {
@@ -5515,8 +5478,7 @@
     "path": "wiki/facts/us/California Evidence Based Clearinghouse for Child Social and Economic Welfare.md",
     "aliases": [
       "加州儿童社会与经济福祉循证清算中心",
-      "CEBC",
-      "California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)"
+      "CEBC"
     ]
   },
   {
@@ -5525,8 +5487,7 @@
     "path": "wiki/facts/us/Clearinghouse for Military Family Readiness Continuum of Evidence.md",
     "aliases": [
       "军人家庭准备证据清算中心",
-      "CMFR",
-      "Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)"
+      "CMFR"
     ]
   },
   {
@@ -5535,8 +5496,7 @@
     "path": "wiki/facts/us/CNCS Evidence Exchange.md",
     "aliases": [
       "CNCS证据交流平台",
-      "EE",
-      "CNCS Evidence Exchange (EE)"
+      "EE"
     ]
   },
   {
@@ -5554,8 +5514,7 @@
     "path": "wiki/facts/us/Collaborative for Academic Social and Emotional Learning Guide.md",
     "aliases": [
       "学术社会与情感学习协作组织指南",
-      "CASEL",
-      "Collaborative for Academic Social and Emotional Learning Guide (CASEL)"
+      "CASEL"
     ]
   },
   {
@@ -5564,8 +5523,7 @@
     "path": "wiki/facts/us/Communities in Schools.md",
     "aliases": [
       "学校中的社区",
-      "CIS",
-      "Communities in Schools (CIS)"
+      "CIS"
     ]
   },
   {
@@ -5584,8 +5542,7 @@
     "aliases": [
       "Daubert v Merrell Dow Pharmaceuticals",
       "道伯特诉默雷尔道制药案",
-      "Daubert案",
-      "Daubert v. Merrell Dow Pharmaceuticals (1993)"
+      "Daubert案"
     ]
   },
   {
@@ -5603,8 +5560,7 @@
     "path": "wiki/facts/us/Home Visiting Evidence of Effectiveness.md",
     "aliases": [
       "家访效果证据",
-      "HomVEE",
-      "Home Visiting Evidence of Effectiveness (HomVEE)"
+      "HomVEE"
     ]
   },
   {
@@ -5613,8 +5569,7 @@
     "path": "wiki/facts/us/Investing in Innovation Program.md",
     "aliases": [
       "创新投资项目",
-      "i3",
-      "Investing in Innovation (i3) Program"
+      "i3"
     ]
   },
   {
@@ -5623,8 +5578,7 @@
     "path": "wiki/facts/us/National Dropout Prevention Center.md",
     "aliases": [
       "全国防辍学中心",
-      "NDPC",
-      "National Dropout Prevention Center (NDPC)"
+      "NDPC"
     ]
   },
   {
@@ -5641,8 +5595,7 @@
     "path": "wiki/facts/us/Peer-Assisted Learning Strategies.md",
     "aliases": [
       "同伴辅助学习策略",
-      "PALS",
-      "Peer-Assisted Learning Strategies (PALS)"
+      "PALS"
     ]
   },
   {
@@ -5651,8 +5604,7 @@
     "path": "wiki/facts/us/Promise Neighborhoods Research Consortium.md",
     "aliases": [
       "希望社区研究联盟",
-      "PNRC",
-      "Promise Neighborhoods Research Consortium (PNRC)"
+      "PNRC"
     ]
   },
   {
@@ -5661,8 +5613,7 @@
     "path": "wiki/facts/us/Promising Practices Network.md",
     "aliases": [
       "经验做法网络",
-      "PPN",
-      "Promising Practices Network (PPN)"
+      "PPN"
     ]
   },
   {
@@ -5671,8 +5622,7 @@
     "path": "wiki/facts/us/Quantum Opportunity Program.md",
     "aliases": [
       "量子机会计划",
-      "QOP",
-      "Quantum Opportunity Program (QOP)"
+      "QOP"
     ]
   },
   {
@@ -5681,8 +5631,7 @@
     "path": "wiki/facts/us/Social Programs That Work.md",
     "aliases": [
       "有效社会项目",
-      "SPTW",
-      "Social Programs That Work (SPTW)"
+      "SPTW"
     ]
   },
   {
@@ -5734,7 +5683,6 @@
     "type": "fact",
     "path": "wiki/facts/us/US-China Economic and Security Review Commission.md",
     "aliases": [
-      "US-China Economic and Security Review Commission (2000)",
       "USCC",
       "美中经济与安全审查委员会"
     ]
@@ -5745,8 +5693,7 @@
     "path": "wiki/facts/us/What Works Clearinghouse.md",
     "aliases": [
       "何者有效清算中心",
-      "WWC",
-      "What Works Clearinghouse (WWC)"
+      "WWC"
     ]
   },
   {
@@ -5755,8 +5702,7 @@
     "path": "wiki/facts/us/Comprehensive School Reform Program.md",
     "aliases": [
       "综合学校改革项目",
-      "CSR",
-      "Comprehensive School Reform (CSR) Program"
+      "CSR"
     ]
   },
   {
@@ -5775,8 +5721,7 @@
     "path": "wiki/facts/us/Students and Teachers Accessing Tomorrow.md",
     "aliases": [
       "STAT",
-      "Students and Teachers Accessing Tomorrow",
-      "Students and Teachers Accessing Tomorrow (STAT)"
+      "Students and Teachers Accessing Tomorrow"
     ]
   },
   {

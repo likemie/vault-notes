@@ -3,7 +3,6 @@ title: Social Programs That Work
 aliases:
   - 有效社会项目
   - SPTW
-  - "Social Programs That Work (SPTW)"
 summary: "多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库"
 type: fact
 subtype: event
@@ -16,12 +15,12 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Intent-to-Treat Analysis]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Intent-to-Treat Analysis]]"
 related_persons: []
 related_facts:
   - "[[Promise Neighborhoods Research Consortium]]"

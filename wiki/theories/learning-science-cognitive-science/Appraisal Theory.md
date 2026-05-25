@@ -14,9 +14,9 @@ tags:
   - theme/cognition
   - theory/appraisal
 related_concepts:
-  - "[[Cultural Models]]"
   - "[[Pride in Learning]]"
-related_theories: []
+related_theories:
+  - "[[Cultural Models]]"
 related_methods: []
 related_persons: []
 related_facts: []

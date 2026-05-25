@@ -18,11 +18,11 @@ related_concepts:
   - "[[Paradox of the Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Chinese Learner]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Visible Learning]]"
   - "[[Constructive Alignment]]"
 related_theories:
   - "[[Popper's Three Worlds Theory]]"
+  - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Causal Modeling]]"

@@ -3,7 +3,6 @@ title: Stable Unit Treatment Value Assumption
 aliases:
   - 稳定单元处理值假定
   - SUTVA
-  - "Stable Unit Treatment Value Assumption (SUTVA)"
 summary: "潜在结果框架中的关键假定，指每个主体的潜在结果只取决于自身接受的处理而不受他人处理影响。"
 type: concept
 tags:
@@ -12,11 +11,11 @@ tags:
 - causal-inference
 - subject/research-methodology
 related_concepts:
-  - "[[Potential Outcomes Framework]]"
-  - "[[Cluster Randomized Trials]]"
   - "[[Confidence Interval]]"
-related_theories: []
+related_theories:
+  - "[[Potential Outcomes Framework]]"
 related_methods:
+  - "[[Cluster Randomized Trials]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []

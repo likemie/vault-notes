@@ -7,7 +7,6 @@ aliases:
   - codeswitching in school
   - effort hiding
   - 努力隐藏
-  - "Codeswitcher (School)"
 summary: "Bishop兄弟描述的美国学校中在同伴面前遵守try but not too hard规范、私下努力学习的双重行为策略"
 type: concept
 tags:

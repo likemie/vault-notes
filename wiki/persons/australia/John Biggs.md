@@ -16,9 +16,9 @@ related_concepts:
   - "[[Paradox of the Chinese Learner]]"
   - "[[Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
 related_theories:
   - "[[Radical Constructivism]]"
+  - "[[Dynamic Knowledge and Learning Model]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

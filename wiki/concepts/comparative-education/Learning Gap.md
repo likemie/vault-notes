@@ -19,9 +19,9 @@ related_concepts:
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"
   - "[[Learning Virtues]]"
-  - "[[Cultural Models]]"
   - "[[Entity vs Incremental Intelligence]]"
 related_theories:
+  - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons: []

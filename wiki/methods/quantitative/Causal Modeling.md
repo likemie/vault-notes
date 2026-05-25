@@ -14,10 +14,10 @@ tags:
 - subject/research-methodology
 - paradigm/positivist
 related_concepts:
-  - "[[Potential Outcomes Framework]]"
   - "[[Effect Size]]"
   - "[[Recommendations for Practice]]"
-related_theories: []
+related_theories:
+  - "[[Potential Outcomes Framework]]"
 related_methods:
   - "[[Matching]]"
   - "[[Observational and Correlational Research]]"

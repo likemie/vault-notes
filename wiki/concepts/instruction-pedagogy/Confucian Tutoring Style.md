@@ -17,10 +17,10 @@ related_concepts:
   - "[[Socratic Tutoring Style]]"
   - "[[Cognitive Source]]"
   - "[[Pride in Learning]]"
-  - "[[MCC Discourse Analysis Examples]]"
 related_theories: []
 related_methods:
   - "[[Mother-Child Conversation]]"
+  - "[[MCC Discourse Analysis Examples]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []

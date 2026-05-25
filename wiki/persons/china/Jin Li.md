@@ -15,7 +15,6 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Nerd]]"
-  - "[[Cultural Models]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Examined Life]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Establishing One's Will]]"
   - "[[Ideal Learner]]"
 related_theories:
+  - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[Prototype Methods]]"

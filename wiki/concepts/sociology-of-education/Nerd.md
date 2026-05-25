@@ -6,7 +6,6 @@ aliases:
   - geek
   - nerd harassment
   - anti-intellectual peer culture
-  - "Nerd (School Peer Culture)"
 summary: "西方学校中一种将高学业成就与同伴接纳对立起来的同伴文化，理智好奇、努力学习的学生被冠以nerd等贬称并遭受同伴骚扰"
 type: concept
 tags:

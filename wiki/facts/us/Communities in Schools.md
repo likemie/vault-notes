@@ -3,7 +3,6 @@ title: Communities in Schools
 aliases:
   - 学校中的社区
   - CIS
-  - "Communities in Schools (CIS)"
 summary: "美国综合学生支持项目，在多个证据清算中心中获得不一致评级，是教育干预证据分歧的典型案例"
 type: fact
 subtype: event

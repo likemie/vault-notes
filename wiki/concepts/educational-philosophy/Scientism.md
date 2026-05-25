@@ -15,10 +15,10 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Technical Rationality]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Visible Learning]]"
   - "[[Knowledge Production]]"
-related_theories: []
+related_theories:
+  - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"

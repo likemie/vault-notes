@@ -3,7 +3,6 @@ title: What Works Clearinghouse
 aliases:
   - 何者有效清算中心
   - WWC
-  - "What Works Clearinghouse (WWC)"
 summary: "美国教育部 2002 年建立的教育证据清算中心，用于评估项目、实践和研究质量，已成为证据本位教育基础设施中的核心节点"
 type: fact
 subtype: event

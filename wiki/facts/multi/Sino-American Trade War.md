@@ -1,7 +1,6 @@
 ---
 title: Sino-American Trade War
 aliases:
-  - "Sino-American Trade War (2018)"
   - 中美贸易战
   - 中美贸易摩擦
   - US-China Trade War

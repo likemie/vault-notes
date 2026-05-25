@@ -2,7 +2,6 @@
 title: Narrative Knowledge
 aliases:
   - 叙事知识
-  - narrative knowledge (Lyotard)
   - scientific knowledge vs narrative knowledge
 summary: "Lyotard 区分于科学知识的知识类型，强调通过故事、传统和文化实践传递意义与合法性。"
 type: concept

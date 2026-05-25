@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Intent-to-Treat Analysis]]"
   - "[[Statistical Significance]]"
   - "[[School Leadership]]"
   - "[[Effect Size]]"
@@ -26,6 +25,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Case Design]]"
+  - "[[Intent-to-Treat Analysis]]"
 related_persons: []
 related_facts:
   - "[[Campbell Collaboration]]"

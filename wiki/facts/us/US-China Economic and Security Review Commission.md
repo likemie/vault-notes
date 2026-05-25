@@ -1,7 +1,6 @@
 ---
 title: US-China Economic and Security Review Commission
 aliases:
-  - "US-China Economic and Security Review Commission (2000)"
   - USCC
   - 美中经济与安全审查委员会
 summary: "美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者"

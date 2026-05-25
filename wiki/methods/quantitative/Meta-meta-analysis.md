@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[School Effectiveness]]"
   - "[[Confidence Interval]]"
   - "[[Feedback]]"
@@ -27,6 +26,7 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Language Experience Approach]]"
 related_theories:
+  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Critical Realism]]"
   - "[[Goldman's Discrimination Theory of Knowledge]]"
 related_methods:

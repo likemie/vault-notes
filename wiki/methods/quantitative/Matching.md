@@ -14,8 +14,8 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Stable Unit Treatment Value Assumption]]"
+related_theories:
   - "[[Potential Outcomes Framework]]"
-related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
   - "[[Observational and Correlational Research]]"

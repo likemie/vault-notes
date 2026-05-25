@@ -3,7 +3,6 @@ title: CNCS Evidence Exchange
 aliases:
   - CNCS证据交流平台
   - EE
-  - "CNCS Evidence Exchange (EE)"
 summary: "只审查 CNCS 自身资助项目和干预的公共清算中心，提供项目证据评级与资助决策支持"
 type: fact
 subtype: event

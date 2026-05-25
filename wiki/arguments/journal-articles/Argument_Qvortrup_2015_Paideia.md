@@ -16,12 +16,12 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Effect Size]]"
   - "[[Tongxue]]"
   - "[[Problem-Based Learning]]"
-related_theories: []
+related_theories:
+  - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:

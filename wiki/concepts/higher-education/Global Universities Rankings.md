@@ -6,7 +6,6 @@ aliases:
   - global rankings
   - league tables
   - global university rankings
-  - University Rankings (Global)
 summary: "对高等教育机构进行比较性评估和排序的工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 tags:

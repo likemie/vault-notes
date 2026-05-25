@@ -3,7 +3,6 @@ title: Educational Management Organisation
 aliases:
   - 教育管理组织
   - EMO
-  - "Educational Management Organisation (EMO)"
 summary: "参与公立学校教育政策制定、管理支持和服务交付的私营部门实体，兼具营利和非营利形式，用于描述教育治理中的外部组织化介入。"
 type: concept
 tags:

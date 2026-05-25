@@ -15,11 +15,11 @@ related_concepts:
   - "[[Champ]]"
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
-  - "[[Cultural Models]]"
   - "[[Tongxue]]"
   - "[[New Public Management]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[Cultural Models]]"
 related_methods: []
 related_persons:
   - "[[Max Weber]]"

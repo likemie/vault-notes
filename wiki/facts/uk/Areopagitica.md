@@ -1,7 +1,6 @@
 ---
 title: Areopagitica
 aliases:
-  - "Areopagitica (1644)"
   - 论出版自由
   - Areopagitica
   - Milton's Areopagitica

@@ -3,7 +3,6 @@ title: Students and Teachers Accessing Tomorrow
 aliases:
   - STAT
   - Students and Teachers Accessing Tomorrow
-  - "Students and Teachers Accessing Tomorrow (STAT)"
 summary: "2014-2019年巴尔的摩郡公立学校分阶段推进的全学区技术整合项目，用于展示复杂教育改革中证据生成与解释的困难。"
 type: fact
 subtype: policy
@@ -24,7 +23,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Logic Model]]"
-  - "[[Formative Evaluation]]"
+  - "[[Formative Program Evaluation]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -87,7 +86,7 @@ updated: 2026-05-23
 
 > [!tip]
 > - [[Technology Infusion]] — STAT 是全学区技术融入的案例，说明技术改革很难被当作单一、边界清晰的干预来评价（Ross & Morrison, 2021, pp.113-115）。
-> - [[Evidence-Based Education]] — STAT 展示了严格证据进入地方实践后，会受到项目目标、[[Formative Evaluation|形成性评价]]和利益相关者价值判断的共同塑造（Ross & Morrison, 2021, pp.121-124）。
+> - [[Evidence-Based Education]] — STAT 展示了严格证据进入地方实践后，会受到项目目标、[[Formative Program Evaluation|形成性项目评价]]和利益相关者价值判断的共同塑造（Ross & Morrison, 2021, pp.121-124）。
 
 ## 来源
 

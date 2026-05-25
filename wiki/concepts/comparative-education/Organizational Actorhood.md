@@ -13,9 +13,9 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Global Universities Rankings]]"
   - "[[University Social Responsibility]]"
-  - "[[Cultural Models]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[Cultural Models]]"
 related_methods: []
 related_persons: []
 related_facts:

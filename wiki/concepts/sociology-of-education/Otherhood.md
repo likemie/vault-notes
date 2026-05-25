@@ -11,10 +11,10 @@ tags:
 related_concepts:
   - "[[Organizational Actorhood]]"
   - "[[University Social Responsibility]]"
-  - "[[Cultural Models]]"
   - "[[Knowledge Production]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[Cultural Models]]"
 related_methods: []
 related_persons: []
 related_facts:

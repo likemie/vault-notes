@@ -28,7 +28,6 @@ related_concepts:
   - "[[University Motto]]"
   - "[[Listening-Oriented Learning]]"
   - "[[Paradox of the Chinese Learner]]"
-  - "[[Cultural Models]]"
   - "[[Stereotype Threat]]"
   - "[[Familiarization]]"
   - "[[Heart and Mind for Wanting to Learn]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Meta-Cultural Sensitivity]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Cultural Models]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Meta-analysis]]"

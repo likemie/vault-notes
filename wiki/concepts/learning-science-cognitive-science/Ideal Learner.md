@@ -15,10 +15,10 @@ tags:
 - method/narrative
 related_concepts:
   - "[[Enculturation]]"
-  - "[[Cultural Models]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
-related_theories: []
+related_theories:
+  - "[[Cultural Models]]"
 related_methods:
   - "[[Prototype Methods]]"
 related_persons: []

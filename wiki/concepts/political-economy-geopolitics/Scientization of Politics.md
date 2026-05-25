@@ -15,10 +15,10 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Production]]"
   - "[[Otherhood]]"
-  - "[[Cultural Models]]"
   - "[[Epistemic Drift]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[Cultural Models]]"
 related_methods: []
 related_persons: []
 related_facts: []

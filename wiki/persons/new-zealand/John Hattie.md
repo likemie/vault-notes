@@ -29,7 +29,6 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
-  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
@@ -44,6 +43,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Structural Coupling]]"
 related_theories:
+  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Societies of Control]]"
   - "[[Appraisal Theory]]"
   - "[[Radical Constructivism]]"

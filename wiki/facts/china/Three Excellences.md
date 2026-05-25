@@ -5,7 +5,6 @@ aliases:
   - 三好学生
   - Students with Three Excellences
   - san hao sheng
-  - "Three Excellences (San Hao Sheng)"
 summary: "中国学校年度评选的模范学生荣誉，以品德、学业、艺术/体育三方面卓越表现为标准，通过师生提名投票产生，用于为全体学生树立学习榜样"
 type: fact
 subtype: policy

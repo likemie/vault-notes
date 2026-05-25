@@ -4,7 +4,6 @@ aliases:
   - Jerudong International School
   - JIS
   - 文莱 Jerudong International School 建校项目
-  - "Jerudong International School Establishment (Brunei 1997)"
 summary: "1997年文莱在 Prince Jefri 支持下委托 Multi Serve 建立 Jerudong International School，该项目成为 Cognition 前身国际化扩张的重要起点"
 type: fact
 subtype: event

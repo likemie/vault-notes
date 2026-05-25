@@ -15,7 +15,6 @@ tags:
 - paradigm/globalization
 - subject/comparative-education
 related_concepts:
-  - "[[Cultural Models]]"
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
   - "[[Knowledge-Based Economy]]"
@@ -23,6 +22,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Epistemic Governance]]"
 related_theories:
+  - "[[Cultural Models]]"
   - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons:

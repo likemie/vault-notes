@@ -3,7 +3,6 @@ title: Promising Practices Network
 aliases:
   - 经验做法网络
   - PPN
-  - "Promising Practices Network (PPN)"
 summary: "面向儿童与家庭政策的多领域非营利清算中心，曾提供项目证据摘要和实践案例库"
 type: fact
 subtype: event

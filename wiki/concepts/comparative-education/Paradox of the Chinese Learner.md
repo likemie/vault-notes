@@ -18,10 +18,10 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
-  - "[[Cultural Models]]"
   - "[[Learning Gap]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Cultural Models]]"
 related_methods: []
 related_persons:
   - "[[John Biggs]]"

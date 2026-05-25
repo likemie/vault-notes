@@ -3,7 +3,6 @@ title: Independent Public Schools Western Australia
 aliases:
   - 西澳独立公立学校
   - IPS
-  - "Independent Public Schools (IPS) Western Australia"
 summary: "WA 州最激进的学校自主权改革，575 所学校转为 IPS 地位"
 type: fact
 subtype: policy

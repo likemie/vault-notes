@@ -3,20 +3,19 @@ title: Science and Technology Studies
 aliases:
   - 科学技术研究
   - STS
-  - "Science and Technology Studies (STS)"
-summary: "跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念"
+summary: "跨学科研究领域，主张科学是一种社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产、转译和施行性为关键概念。"
 type: concept
 tags:
-- sts
-- science-and-technology-studies
-- paradigm/constructivist
-- philosophy-and-epistemology
+  - sts
+  - science-and-technology-studies
+  - paradigm/constructivist
+  - philosophy-and-epistemology
 related_concepts:
   - "[[Performance Indicators]]"
   - "[[International Education]]"
-  - "[[Sociology of Measurement]]"
   - "[[Evidence-Based Education]]"
-related_theories: []
+related_theories:
+  - "[[Sociology of Measurement]]"
 related_methods: []
 related_persons: []
 related_facts:
@@ -27,8 +26,8 @@ sources:
   - "[[Gorur_2014_Discourse]]"
 confidence: high
 status: draft
-created: '2026-05-01'
-updated: '2026-05-18'
+created: 2026-05-01
+updated: 2026-05-18
 ---
 
 ## 核心主张

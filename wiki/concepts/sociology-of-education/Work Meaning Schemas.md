@@ -1,7 +1,6 @@
 ---
 title: Work Meaning Schemas
 aliases:
-  - "Work Meaning Schemas (Zheng)"
   - 工作意义三角图式
   - 三角图式结构
   - work meaning schemas

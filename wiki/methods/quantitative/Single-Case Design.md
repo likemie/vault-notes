@@ -1,7 +1,6 @@
 ---
 title: Single-Case Design
 aliases:
-  - "Single-Case Design (SCD)"
   - 单一个案设计
   - SCD
   - 单一被试设计

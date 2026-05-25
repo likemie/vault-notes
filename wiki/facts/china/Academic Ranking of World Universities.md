@@ -1,7 +1,6 @@
 ---
 title: Academic Ranking of World Universities
 aliases:
-  - "Academic Ranking of World Universities (ARWU)"
   - 世界大学学术排名
   - ARWU
   - 上海排名

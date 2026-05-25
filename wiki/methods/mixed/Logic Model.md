@@ -21,7 +21,7 @@ related_concepts:
   - "[[Absorptive Capacity]]"
 related_theories: []
 related_methods:
-  - "[[Formative Evaluation]]"
+  - "[[Formative Program Evaluation]]"
 related_persons: []
 related_arguments: []
 sources: []
@@ -36,7 +36,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info]
-> 逻辑模型（Logic Model）是把项目投入、实施活动、即时输出、短期结果和长期结果连接起来的评价工具。它帮助参与者明确项目“先发生什么、再产生什么、最终希望达到什么”，并为[[Formative Evaluation|形成性评价]]提供数据组织框架（Ross & Morrison, 2021, p.115）。
+> 逻辑模型（Logic Model）是把项目投入、实施活动、即时输出、短期结果和长期结果连接起来的评价工具。它帮助参与者明确项目“先发生什么、再产生什么、最终希望达到什么”，并为[[Formative Program Evaluation|形成性项目评价]]提供数据组织框架（Ross & Morrison, 2021, p.115）。
 
 在复杂教育改革中，逻辑模型的价值不只是画流程图，而是建立共享预期。若利益相关者一开始就从项目投入跳到学生成就增益，很多中间过程会被忽略；逻辑模型可以说明教师专业发展、课堂环境变化、数字资源使用、学生参与和长期成就之间需要经历哪些阶段（Ross & Morrison, 2021, pp.115, 121-124）。
 
@@ -45,7 +45,7 @@ updated: '2026-05-23'
 > [!abstract]
 > 逻辑模型把项目效果理解为一条需要被检验的变化链，而不是单一输入到单一结果的直接因果箭头。它允许评价者同时关注实施过程和结果变化，并把形成性[[Feedback|反馈]]重新带回项目投入和实施调整（Ross & Morrison, 2021, p.115）。
 
-在 [[Students and Teachers Accessing Tomorrow]] 的评价模型中，信息既从过程流向结果，也从[[Formative Evaluation|形成性评价]]数据回流到投入和实施过程。这种双向结构使逻辑模型成为[[Formative Evaluation|形成性评价]]和持续改进之间的桥梁（Ross & Morrison, 2021, p.115）。
+在 [[Students and Teachers Accessing Tomorrow]] 的评价模型中，信息既从过程流向结果，也从[[Formative Program Evaluation|形成性项目评价]]数据回流到投入和实施过程。这种双向结构使逻辑模型成为[[Formative Program Evaluation|形成性项目评价]]和持续改进之间的桥梁（Ross & Morrison, 2021, p.115）。
 
 ## 研究程序
 
@@ -77,7 +77,7 @@ updated: '2026-05-23'
 
 > [!example]
 > - [[Students and Teachers Accessing Tomorrow]] — 评价模型把专业发展、课堂变化、数字内容使用、学生参与、21 世纪学习活动和学生成就连接起来（Ross & Morrison, 2021, p.115）。
-> - [[Formative Evaluation]] — 逻辑模型为形成性评价提供阶段性[[Feedback|反馈]]框架，帮助区分输入、输出、短期结果和长期结果。
+> - [[Formative Program Evaluation]] — 逻辑模型为形成性评价提供阶段性[[Feedback|反馈]]框架，帮助区分输入、输出、短期结果和长期结果。
 
 ## 来源
 

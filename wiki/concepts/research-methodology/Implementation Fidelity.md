@@ -21,7 +21,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Quasi-Experimental Designs]]"
-  - "[[Formative Evaluation]]"
+  - "[[Formative Program Evaluation]]"
   - "[[Logic Model]]"
 related_persons: []
 related_facts:
@@ -46,7 +46,7 @@ updated: '2026-05-23'
 > [!example]
 > - vs [[Effect Size]] — 效应量显示研究中观察到的差异大小；实施忠实度解释这个差异是在什么实施条件下产生的。
 > - vs [[Quasi-Experimental Designs]] — QED 关注比较组是否能提供可信反事实；实施忠实度关注干预组是否真正接受了足够质量和强度的项目。
-> - vs [[Formative Evaluation]] — 形成性评价可以用来监测和[[Feedback|反馈]]实施忠实度，但两者不是同一概念。
+> - vs [[Formative Program Evaluation]] — 形成性评价可以用来监测和[[Feedback|反馈]]实施忠实度，但两者不是同一概念。
 
 ## 核心要素
 
@@ -82,7 +82,7 @@ updated: '2026-05-23'
 
 > [!example]
 > - [[Educational Evidence Clearinghouses]] — 清算中心若缺少实施要求、使用强度、成本和用户经验信息，项目评级对学校采购的帮助会受限（Ross & Morrison, 2021, pp.120-121）。
-> - [[Students and Teachers Accessing Tomorrow]] — STAT 的[[Formative Evaluation|形成性评价]]把实施进展作为理解项目效果的重要证据，而不是只看最终成就结果（Ross & Morrison, 2021, pp.118-123）。
+> - [[Students and Teachers Accessing Tomorrow]] — STAT 的[[Formative Program Evaluation|形成性项目评价]]把实施进展作为理解项目效果的重要证据，而不是只看最终成就结果（Ross & Morrison, 2021, pp.118-123）。
 
 ## 来源
 

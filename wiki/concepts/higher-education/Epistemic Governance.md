@@ -11,7 +11,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Cultural Models]]"
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
   - "[[Otherhood]]"
@@ -20,6 +19,7 @@ related_concepts:
   - "[[Epistemic Drift]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[Cultural Models]]"
 related_methods: []
 related_persons: []
 related_facts:

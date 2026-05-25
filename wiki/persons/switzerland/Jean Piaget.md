@@ -11,10 +11,10 @@ tags:
 - paradigm/constructivist
 - region/switzerland
 related_concepts:
-  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
 related_theories:
+  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Neo-Piagetian Theories]]"
 related_methods: []
 related_persons:

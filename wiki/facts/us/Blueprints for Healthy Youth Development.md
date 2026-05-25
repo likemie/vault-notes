@@ -14,12 +14,12 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Intent-to-Treat Analysis]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Intent-to-Treat Analysis]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"

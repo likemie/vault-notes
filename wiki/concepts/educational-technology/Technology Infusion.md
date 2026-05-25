@@ -17,7 +17,7 @@ related_concepts:
   - "[[Effect Size]]"
 related_theories: []
 related_methods:
-  - "[[Formative Evaluation]]"
+  - "[[Formative Program Evaluation]]"
 related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
@@ -50,7 +50,7 @@ updated: 2026-05-23
 > [!abstract]
 > 1. 设备和数字资源进入课堂，使教师能规划教学活动、学生能参与数字化学习任务（Ross & Morrison, 2021, pp.115, 122）。
 > 2. 教师、管理者和技术教练需要专业发展，以支持学生中心学习、高阶学习和课堂技术使用（Ross & Morrison, 2021, p.115）。
-> 3. [[Formative Evaluation|形成性评价]]需要把输入、即时输出、短期结果和长期结果区分开来，避免过早把项目成功只等同于学生成就提升（Ross & Morrison, 2021, pp.115, 121-123）。
+> 3. [[Formative Program Evaluation|形成性项目评价]]需要把输入、即时输出、短期结果和长期结果区分开来，避免过早把项目成功只等同于学生成就提升（Ross & Morrison, 2021, pp.115, 121-123）。
 > 4. 项目效果会经过课程、问责政策、组织基础设施、领导和社区压力等多重过滤，因此不同利益相关者可能对“有效”作不同判断（Ross & Morrison, 2021, p.113）。
 
 ## 实证发现

@@ -1,7 +1,6 @@
 ---
 title: International Baccalaureate
 aliases:
-  - "International Baccalaureate (IB)"
   - 国际文凭
   - IB
   - IB Diploma

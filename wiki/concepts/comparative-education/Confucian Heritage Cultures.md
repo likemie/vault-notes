@@ -16,9 +16,9 @@ tags:
 related_concepts:
   - "[[Chinese Learner]]"
   - "[[Paradox of the Chinese Learner]]"
-  - "[[Cultural Models]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Cultural Models]]"
 related_methods: []
 related_persons:
   - "[[John Biggs]]"

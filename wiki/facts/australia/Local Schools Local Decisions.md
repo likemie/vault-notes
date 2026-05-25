@@ -3,7 +3,6 @@ title: Local Schools Local Decisions
 aliases:
   - 地方学校地方决策
   - LSLD
-  - "Local Schools Local Decisions (NSW)"
 summary: "2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理"
 type: fact
 subtype: policy

@@ -3,7 +3,6 @@ title: Promise Neighborhoods Research Consortium
 aliases:
   - 希望社区研究联盟
   - PNRC
-  - "Promise Neighborhoods Research Consortium (PNRC)"
 summary: "评价项目、政策和实践的公共清算中心，不进行项目效果分层评级，更强调社区项目证据整理与资源汇集"
 type: fact
 subtype: event
@@ -16,12 +15,12 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Intent-to-Treat Analysis]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Intent-to-Treat Analysis]]"
 related_persons: []
 related_facts:
   - "[[Social Programs That Work]]"

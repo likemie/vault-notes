@@ -1,7 +1,6 @@
 ---
 title: Multiplicity
 aliases:
-  - "Multiplicity (Massey)"
   - 多重性
   - multiplicity
 summary: "Massey 的空间理论概念，指空间中差异、关系和多重轨迹的共存，由此带来开放性和不可预测性。"

@@ -14,7 +14,6 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Cultural Models]]"
   - "[[Performance Indicators]]"
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
@@ -25,6 +24,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[Cultural Models]]"
 related_methods: []
 related_persons: []
 related_facts:

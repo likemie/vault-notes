@@ -3,7 +3,6 @@ title: Collaborative for Academic Social and Emotional Learning Guide
 aliases:
   - 学术社会与情感学习协作组织指南
   - CASEL
-  - "Collaborative for Academic Social and Emotional Learning Guide (CASEL)"
 summary: "聚焦社会情感学习项目的非营利教育清算中心，Wadhwa et al. (2024) 样本中贡献 25 个项目"
 type: fact
 subtype: event
