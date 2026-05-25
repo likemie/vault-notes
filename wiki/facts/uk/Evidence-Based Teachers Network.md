@@ -38,7 +38,7 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> Evidence-Based Teachers Network（EBTN）是英国面向教师、大学研究者和其他教育利益相关者的证据分享网络（Pellegrini & Vivanet, 2021, p.34）。
+> Evidence-Based Teachers Network（EBTN）是英国面向教师、[[The Great Learning|大学]]研究者和其他教育利益相关者的证据分享网络（Pellegrini & Vivanet, 2021, p.34）。
 
 ## 政策文本摘要
 
@@ -53,7 +53,7 @@ updated: 2026-05-23
 ## 实施情况
 
 > [!example]
-> EBTN 的运作重点是横向交流：教师、大学研究者和其他教育相关者通过网络分享证据、想法和实践培训，而不是由单一清算中[[Heart and Mind for Wanting to Learn|心向学]]校单向发布评级（Pellegrini & Vivanet, 2021, p.34）。
+> EBTN 的运作重点是横向交流：教师、[[The Great Learning|大学]]研究者和其他教育相关者通过网络分享证据、想法和实践培训，而不是由单一清算中[[Heart and Mind for Wanting to Learn|心向学]]校单向发布评级（Pellegrini & Vivanet, 2021, p.34）。
 
 ## 效果与评价
 

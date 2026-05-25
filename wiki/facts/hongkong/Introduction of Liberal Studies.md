@@ -50,7 +50,7 @@ updated: '2026-05-18'
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> 通识教育科（Liberal Studies, [[Liberal Studies|LS]]）作为新高中（NSS）课程的四门核心必修科之一（另三门为中国语文、英国语文、数学），于 2009 年 9 月正式实施。
+> 通识教育科（[[Liberal Studies]], [[Liberal Studies|LS]]）作为新高中（NSS）课程的四门核心必修科之一（另三门为中国语文、英国语文、数学），于 2009 年 9 月正式实施。
 >
 > **核心设计元素：**
 > - 六个跨学科单元：个人成长与人际关系、今日香港、现代中国、全球化、公共卫生、能源科技与环境
@@ -61,7 +61,7 @@ updated: '2026-05-18'
 >
 > **全球参照：**
 > - LS 的结构参照了 IBDP 的三个核心要素：知识理论（→ 批判思维训练）、延伸论文（→ IES）、创造行动服务（→ 其他学习经历）
-> - 剑桥大学的 Mary James 教授被邀请于 2007-2009 年担任课程发展议会海外委员，为 LS 提供背书
+> - 剑桥[[The Great Learning|大学]]的 Mary James 教授被邀请于 2007-2009 年担任课程发展议会海外委员，为 LS 提供背书
 >
 > > "Its emergence was linked to the post-handover restructuring of the education system, the quest for educational reform and facilitated by a process of referencing global trends and overseas models." (Yan & Morris, 2025, p. 480)
 

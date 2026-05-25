@@ -60,7 +60,7 @@ updated: '2026-05-18'
 ## 实施情况
 
 > [!example]
-> Rizvi (2022) 定位 GATS 在[[Internationalization of Higher Education|高等教育国际化]]的市场理性转向中的关键角色：GATS 的框架将教育从公共产品重新定义为可交易服务，为西方大学将国际学生视为收入来源提供了制度合法性和话语框架。尽管 GATS 在合规层面执行力有限，但其话语效应深远——它使教育的商品化成为"[[Doxa|不言自明]]的前提"（Rizvi, 2022, pp.97–98）。
+> Rizvi (2022) 定位 GATS 在[[Internationalization of Higher Education|高等教育国际化]]的市场理性转向中的关键角色：GATS 的框架将教育从公共产品重新定义为可交易服务，为西方[[The Great Learning|大学]]将国际学生视为收入来源提供了制度合法性和话语框架。尽管 GATS 在合规层面执行力有限，但其话语效应深远——它使教育的商品化成为"[[Doxa|不言自明]]的前提"（Rizvi, 2022, pp.97–98）。
 
 ## 效果与评价
 

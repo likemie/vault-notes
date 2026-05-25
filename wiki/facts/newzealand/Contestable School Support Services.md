@@ -30,12 +30,12 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 自 1989 年 [[Tomorrow's Schools Reforms|Tomorrow's Schools]] 改革后，新西兰的学校支持服务（如课程专业发展、评估支持、教学咨询等）主要由大学教育学院通过教育部合同提供。2011 年，教育部将这一体系转为竞争性招标（contestable），允许私营和非营利组织竞标此前由大学垄断的服务合同（O'Neill et al., 2016, p.xii）。
+> 自 1989 年 [[Tomorrow's Schools Reforms|Tomorrow's Schools]] 改革后，新西兰的学校支持服务（如课程专业发展、评估支持、教学咨询等）主要由[[The Great Learning|大学]]教育学院通过教育部合同提供。2011 年，教育部将这一体系转为竞争性招标（contestable），允许私营和非营利组织竞标此前由大学垄断的服务合同（O'Neill et al., 2016, p.xii）。
 
 ## 政策内容
 
 > [!info] 政策内容
-> - 将原先由大学教育学院提供的学校支持服务合同开放竞争
+> - 将原先由[[The Great Learning|大学]]教育学院提供的学校支持服务合同开放竞争
 > - 私营EMOs、慈善信托和其他组织可与大学平等竞标
 
 ## 时间线

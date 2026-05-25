@@ -77,8 +77,8 @@ updated: '2026-05-23'
 
 > [!example]
 > - [[Students and Teachers Accessing Tomorrow]] — 评价模型把专业发展、课堂变化、数字内容使用、学生参与、21 世纪学习活动和学生成就连接起来（Ross & Morrison, 2021, p.115）。
-> - [[Formative Program Evaluation]] — 逻辑模型为形成性评价提供阶段性[[Feedback|反馈]]框架，帮助区分输入、输出、短期结果和长期结果。
+> - [[Formative Program Evaluation]] — 逻辑模型为[[Formative Assessment|形成性评价]]提供阶段性[[Feedback|反馈]]框架，帮助区分输入、输出、短期结果和长期结果。
 
 ## 来源
 
-- Ross_Morrison_2021_ROE
+- [[Ross_Morrison_2021_ROE]]

@@ -77,7 +77,7 @@ updated: '2026-05-18'
 >
 > Bainbridge et al. 的核心发现之一：Ofsted 评级形成了一种"**Ofsted 证据化的立场**"（Ofsted-derived evidenced position），使其"愈加具有欺骗性——它是一种披着证据语言的道德侧步"（p.28）。
 >
-> > "The 'good schools' discourse is an Ofsted-derived evidenced position, which makes it all the more deceptive; it is a moral sidestep cloaked in the language of evidence."（Bainbridge et al., 2022, p.28）
+> > "The 'good schools' discourse is an Ofsted-derived evidenced position, which makes it all the more deceptive; it is a [[Moral Sidestep]] cloaked in the language of evidence."（Bainbridge et al., 2022, p.28）
 >
 > 这一混同运作于一个封闭循环中：Ofsted 测量学校表现（其测量的客观性本就可争议——如 off-rolling 发生时）→ 分配一个模糊含混的道德资格标签"good" → 议员使用"good"的道德内涵回避学术研究证据 → 学术界的证据被排除在政策制定之外（Bainbridge et al., 2022, p.27）。
 >
@@ -87,7 +87,7 @@ updated: '2026-05-18'
 > [!warning] 争议与评论
 > ### 评级不符合政府对"证据"的定义
 >
-> Ofsted 的过程和结果"既不符合政府自己为政策制定制定的证据定义（DfE, 2017），也不符合学术界对正当理由（justified warrants）的理解"（Bainbridge et al., 2022, p.27）。当一个政府机构成为"good 的来源及其理由"，便形成了一种政策制定者在证据来源上的"non serviam"（拒绝服从）循环（p.27）。
+> Ofsted 的过程和结果"既不符合政府自己为政策制定制定的证据定义（DfE, 2017），也不符合学术界对正当理由（[[Justified Warrants]]）的理解"（Bainbridge et al., 2022, p.27）。当一个政府机构成为"good 的来源及其理由"，便形成了一种政策制定者在证据来源上的"non serviam"（拒绝服从）循环（p.27）。
 >
 > ### "Good" 的道德化与技术评级的剥离
 >

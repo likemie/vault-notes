@@ -39,14 +39,14 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info]
-> 20 世纪末至 21 世纪初，[[Global Universities Rankings|全球大学排名]] 首先在各国国内出现，但跨国比较的需求日益迫切——高等教育的大众化、国际学生流动的激增、学术劳动力市场的全球化，共同催生了对"跨国可比较信息"的巨大需求。中国在这一时期积极推进"世界一流大学"建设，上海交通大学高等教育研究所于 **2003 年**发布了全球首个多国综合性大学排名——世界大学学术排名（ARWU），开创了跨国大学排名系统的新纪元（Boyadjieva, 2022, pp.130–131）。
+> 20 世纪末至 21 世纪初，[[Global Universities Rankings|全球大学排名]] 首先在各国国内出现，但跨国比较的需求日益迫切——高等教育的大众化、国际学生流动的激增、学术劳动力市场的全球化，共同催生了对"跨国可比较信息"的巨大需求。中国在这一时期积极推进"世界一流[[The Great Learning|大学]]"建设，上海交通大学高等教育研究所于 **2003 年**发布了全球首个多国综合性大学排名——世界大学学术排名（ARWU），开创了跨国大学排名系统的新纪元（Boyadjieva, 2022, pp.130–131）。
 
 ---
 
 ## 经过
 
 > [!note]-
-> - **2003 年**：上海交通大学高等教育研究所发布首个[[Global Universities Rankings|全球大学排名]]（ARWU），开创了跨国大学排名系统的新纪元（Boyadjieva, 2022, p.131）
+> - **2003 年**：上海交通[[The Great Learning|大学]]高等教育研究所发布首个[[Global Universities Rankings|全球大学排名]]（ARWU），开创了跨国大学排名系统的新纪元（Boyadjieva, 2022, p.131）
 > - 此后，Times Higher Education（2004）、Leiden University、Scimago、QS World University Rankings 和 European U-Multirank 等多个全球排名系统相继建立
 > - ARWU 的指标体系侧重研究产出，包括校友和教师获得诺贝尔奖和菲尔兹奖的数量、高被引学者数、在 *Nature* 和 *Science* 上发表论文数、被 SCIE 和 SSCI 收录的论文数等
 > - ARWU 官方声明其"考虑每一所拥有诺贝尔奖得主、菲尔兹奖得主和高被引研究人员的大学，以及在 *Nature* 或 *Science* 上发表过论文的大学。此外，拥有大量被 SCIE 和 SSCI 收录论文的大学也被纳入"（"Academic Ranking", 2008，转引自 Slethaug, 2010, p.11）

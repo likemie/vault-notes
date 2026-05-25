@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 术语的跨语境误用
-> 当研究术语的原始定义与其政策使用之间存在断裂时，即构成实质谬误。Hattie VL 中"教学质量"的[[Meta-analysis|元分析]]证据全部来自大学生评教，但被 Treasury 直接应用于论证增加中小学[[Class Size|班级规模]]的政策合理性（ONeill, 2012, pp.154-155）
+> 当研究术语的原始定义与其政策使用之间存在断裂时，即构成实质谬误。Hattie VL 中"教学质量"的[[Meta-analysis|元分析]]证据全部来自[[The Great Learning|大学]]生评教，但被 Treasury 直接应用于论证增加中小学[[Class Size|班级规模]]的政策合理性（ONeill, 2012, pp.154-155）
 
 ## 与相关概念的区别
 

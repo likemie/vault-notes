@@ -72,7 +72,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与评论
 > - **Qvortrup（批评立场）**：部分作者以"情绪化的"和"高度修辞性的"话语替代了严肃的学术反驳，将对 [[John Hattie|Hattie]] 的批评转化为了文化战争（Qvortrup, 2019, p.4-5）
-> - **隐含争议**：Qvortrup 本人是丹麦 Hattie 引介者之一（与 Niels Egelund 共同撰写 VL 丹麦语译本导言），因此他对 *Hattie på dansk* 的批评来自 VL 辩护者而非中立[[Observational and Correlational Research|观察]]者的立场
+> - **隐含争议**：Qvortrup 本人是丹麦 Hattie 引介者之一（与 Niels Egelund 共同撰写 VL 丹麦语译本导言），因此他对 *Hattie på dansk* 的批评来自 VL 辩护者而非中立观察者的立场
 
 ## 来源
 

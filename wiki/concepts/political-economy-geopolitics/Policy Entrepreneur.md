@@ -47,7 +47,7 @@ updated: '2026-05-18'
 >
 > - **公共部门**：受教育部合同开发 asTTle 国家课程测试系统（1999/2000），担任 AITSL 董事会主席（2014）（O'Neill et al., 2016, pp.47–50）
 > - **非营利**：任 [[Cognition Education|Multi Serve Education Trust]] / Cognition Education Trust 董事和学术顾问（O'Neill et al., 2016, p.48）
-> - **营利**：通过 Cognition Education 将 [[Visible Learning]] 品牌商业化——16 个工作坊系列、学校认证、全球交付伙伴网络（Osiris UK, Corwin Australia/North America, Bazalt Netherlands, JN Partnership Scandinavia）；Visible Classroom App 通过墨尔本大学与 Ai-Media 合作实现商业化和全球推广（O'Neill et al., 2016, pp.48–51）
+> - **营利**：通过 Cognition Education 将 [[Visible Learning]] 品牌商业化——16 个工作坊系列、学校认证、全球交付伙伴网络（Osiris UK, Corwin Australia/North America, Bazalt Netherlands, JN Partnership Scandinavia）；Visible Classroom App 通过墨尔本[[The Great Learning|大学]]与 Ai-Media 合作实现商业化和全球推广（O'Neill et al., 2016, pp.48–51）
 >
 > > 例：Hattie 的原始学术工作（大学环境中的研究）被包装成 Visible Learning 书系 → 教师工作坊与学校认证（Cognition Education 授权给全球商业伙伴）→ Visible Classroom App（墨尔本大学与 Ai-Media 五年全球协议），每一步都产生新的收入流。
 

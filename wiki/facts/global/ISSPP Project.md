@@ -64,7 +64,7 @@ updated: '2026-05-18'
 > - 约 2002 — ISSPP 项目启动
 > - 2007 — Day & Leithwood 编辑出版 *Successful Principal Leadership in Times of Change*（Springer）
 > - 2011 — Moos, Johansson & Day 编辑出版 *How School Principals Sustain Success over Time*（Springer）；Ylimaki & Jacobson 编辑出版 *US and Cross National Policies, Practices, and Preparation*（Springer）
-> - 2014 — Day & Gurr 编辑出版 *Leading Schools Successfully: Stories from the Field*（Routledge）
+> - 2014 — Day & Gurr 编辑出版 *Leading Schools Successfully: Stories from the [[Champ|field]]*（Routledge）
 > - 2017 — Møller 发表 EERJ 论文时项目仍在持续扩展
 
 ## 争议与评论
@@ -86,4 +86,4 @@ updated: '2026-05-18'
 
 ## 来源
 
-- Møller_2017_EERJ
+- [[Møller_2017_EERJ]]

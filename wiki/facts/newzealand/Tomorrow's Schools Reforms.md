@@ -95,4 +95,4 @@ updated: '2026-05-22'
 - [[ONeill_2016_Report]]
 - [[Sarbiewska_2019_JSR]]
 - [[Johnson_2023_CE]]
-- Bates_2017_CognitionEducationTrust
+- [[Bates_2017_CognitionEducationTrust]]

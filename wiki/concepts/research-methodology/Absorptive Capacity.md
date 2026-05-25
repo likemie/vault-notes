@@ -80,8 +80,8 @@ updated: '2026-05-23'
 
 > [!example]
 > - [[Students and Teachers Accessing Tomorrow]] — STAT 的[[Formative Program Evaluation|形成性项目评价]][[Feedback|反馈]]被多方利益相关者用于理解项目进展和支持项目延续，体现较高学区吸收能力（Ross & Morrison, 2021, pp.121-124）。
-> - [[Formative Program Evaluation]] — 形成性评价只有被组织吸收，才会从报告转化为实施改进。
+> - [[Formative Program Evaluation]] — [[Formative Assessment|形成性评价]]只有被组织吸收，才会从报告转化为实施改进。
 
 ## 来源
 
-- Ross_Morrison_2021_ROE
+- [[Ross_Morrison_2021_ROE]]

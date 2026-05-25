@@ -69,4 +69,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- Bates_2017_CognitionEducationTrust
+- [[Bates_2017_CognitionEducationTrust]]

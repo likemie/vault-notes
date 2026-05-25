@@ -96,7 +96,7 @@ updated: '2026-05-18'
 >
 > #### asTTle / e-asTTle：数据与技术前身
 >
-> 1999/2000 年，[[John Hattie|Hattie]] 通过奥克兰大学全资公司 Auckland Uniservices Ltd 受新西兰教育部合同委托，领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的、教师管理型的国家课程测试系统，即 VL 的数据与技术前身。2000 年代中期，教育部进一步合同开发升级版在线系统 e-asTTle（O'Neill et al., 2016, p.47）。
+> 1999/2000 年，[[John Hattie|Hattie]] 通过奥克兰[[The Great Learning|大学]]全资公司 Auckland Uniservices Ltd 受新西兰教育部合同委托，领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的、教师管理型的国家课程测试系统，即 VL 的数据与技术前身。2000 年代中期，教育部进一步合同开发升级版在线系统 e-asTTle（O'Neill et al., 2016, p.47）。
 >
 > e-asTTle 的报告功能包括学校和学生表现的图形仪表盘展示——与后来 VL 2008 年著作中采用的展示方式"非常相似"（O'Neill et al., 2016, p.47）。
 >
@@ -112,7 +112,7 @@ updated: '2026-05-18'
 >
 > Cognition Education 前 CEO Terry Bates 描述了 VL 商业化的启动：
 >
-> > "John Hattie, then an academic at the University of Auckland and also a member of the Cognition board, had approached the company looking for a new home for the nascent commercial platform that had been developed out of his landmark meta-analysis of impactful teacher practice, Visible Learning (VL), published two years earlier"（Bates, 2017, p.59, cited in Johnson & Janzen, 2023, p.30）
+> > "John Hattie, then an academic at the University of Auckland and also a member of the Cognition board, had approached the company looking for a new home for the nascent commercial platform that had been developed out of his landmark [[Meta-analysis]] of impactful teacher practice, Visible Learning (VL), published two years earlier"（Bates, 2017, p.59, cited in Johnson & Janzen, 2023, p.30）
 >
 > > "The key focus was converting the critical principles of the VL research to a graduated professional learning curriculum (targeted at teachers and school leaders) that could be modularised and sold as such. In return Hattie received a royalty on all VL-related income"（Bates, 2017, p.59, cited in Johnson & Janzen, 2023, p.30）
 >
@@ -126,7 +126,7 @@ updated: '2026-05-18'
 >
 > #### 2009 年媒体风暴与公众反应
 >
-> 2009 年 1 月 *Sunday Star Times* 头版报道 VL 后引发激烈反应。Hattie (2010, pp.86–87) 自述"很明显许多评论者并未读过这本书（有人甚至对此表示赞许"）——[[Class Size|班级规模]]必须缩减、[[Performance Pay|绩效工资]]是邪恶的、能力分班更容易等抗议声不断。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架（二分法、嘲弄、神话、意义虚无）分析批评模式。
+> 2009 年 1 月 *Sunday [[Tennessee STAR Project 1985-1989|STAR]] Times* 头版报道 VL 后引发激烈反应。Hattie (2010, pp.86–87) 自述"很明显许多评论者并未读过这本书（有人甚至对此表示赞许"）——[[Class Size|班级规模]]必须缩减、[[Performance Pay|绩效工资]]是邪恶的、能力分班更容易等抗议声不断。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架（二分法、嘲弄、神话、意义虚无）分析批评模式。
 >
 > Hattie 强调他在此前 15 年已通过研讨会和工作坊传播 VL 核心理念（[[Feedback|反馈]]的力量、挑战、对学生的可见影响等），Clarke, Timperley & Hattie (2003) 的教师工作手册已包含学习意图、成功标准、反馈和及时评估等关键概念，"因此当《星期日星报》报道时，对新西兰教育界许多人来说不应是新闻"（Hattie, 2010, p.87）。这一媒体风暴标志着 VL 从学术出版向公众议题的转折，也奠定了其后续品牌化传播的争议基调。
 >
@@ -145,7 +145,7 @@ updated: '2026-05-18'
 >
 > #### 产品体系（Corwin 收购后，2018–）
 >
-> 2018 年，Corwin（SAGE 集团旗下）收购 Visible Learningplus。Corwin 年收入约 USD 50M（Johnson & Janzen, 2023, p.24）。
+> 2018 年，Corwin（[[Sage]] 集团旗下）收购 Visible Learningplus。Corwin 年收入约 USD 50M（Johnson & Janzen, 2023, p.24）。
 >
 > 截至 Johnson & Janzen（2023）论文写作时，Corwin 网店搜索 "Visible Learning" 返回大量书籍、指南和套装（USD 9.95 至 USD 285 美元）。产品线包括（Johnson & Janzen, 2023, pp.24–25）：
 >
@@ -246,7 +246,7 @@ updated: '2026-05-18'
 >
 > **政策采纳路径**（Sarbiewska, 2019, p.126–128）：
 > - 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略）源自 Hattie 和 Marzano 的研究，每项均以 VL 为首要参考文献
-> - researchED Australia（ACER, 2017）为从业者提供分享平台
+> - [[ResearchED]] Australia（ACER, 2017）为从业者提供分享平台
 > - [[Australian Curriculum]]（2012）三维度（学习领域、通用能力、跨课程优先事项），ACARA 每年评估并报告
 > - Gonski 2.0（2018）提出以个体进步而非年龄基准衡量成功学习
 > - 2017 年 VL 获维多利亚州教育部官方背书（Department of Education and Training, 2017）
@@ -304,7 +304,7 @@ updated: '2026-05-18'
 >
 > O'Neill (2012) 以新西兰 Treasury 2011 年简报为案例，揭示了 VL 证据在真实政策过程中被误用的具体机制（详见 [[Treasury Briefing on Student-Teacher Ratios]]）：
 >
-> **（1）"教学质量"术语的定义断裂。** Hattie VL 中"教学质量"（quality of teaching，排名 56/138）的[[Meta-analysis|元分析]]证据全部来自大学生评教——按此定义对学校教育政策无任何可证明的相关性。Treasury 将此术语用作代理概念（proxy concept），包装教师绩效管理等更具争议的政策目的（ONeill, 2012, pp.154-155）。
+> **（1）"教学质量"术语的定义断裂。** Hattie VL 中"教学质量"（quality of teaching，排名 56/138）的[[Meta-analysis|元分析]]证据全部来自[[The Great Learning|大学]]生评教——按此定义对学校教育政策无任何可证明的相关性。Treasury 将此术语用作代理概念（proxy concept），包装教师绩效管理等更具争议的政策目的（ONeill, 2012, pp.154-155）。
 >
 > **（2）术语口号化。** "优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, Hattie, 2009a）在新西兰学术和政策话语中日益被当作口号使用——引发"基于词汇熟悉度而非理性的膝跳反射式赞同或反对"（Kreeft, 2010, p.78）（ONeill, 2012, pp.154-155）。
 >
@@ -367,13 +367,13 @@ updated: '2026-05-18'
 > - **2008** — 集团更名为 Cognition Education；Hattie 成为 Cognition Education 董事
 > - **2009** — Cognition Education 重组为 Trust + Limited 双层结构；Hattie 出版 *Visible Learning*；开始成为 ACEL 年会主题演讲常客
 > - **2010** — VLplus 品牌推出；Cognition Education Group 收入达 USD 69M 高点
-> - **2011** — Cognition Education Trust 注册 Visible Learningplus 商标；Hattie 转至墨尔本大学
+> - **2011** — Cognition Education Trust 注册 Visible Learningplus 商标；Hattie 转至墨尔本[[The Great Learning|大学]]
 > - **2012** — Hattie 离任 Cognition Education 董事，转任 Trust "学术事务顾问"
 > - **2013** — Access Innovation Media 在澳大利亚注册 Visible Classroom 商标
 > - **2014** — 丹麦议会通过 公立学校改革，明确引用 VL
 > - **2015** — e-asTTle RFP 商业化；ACEL–Corwin 合作伙伴关系宣布；ERO 报告有利引用 VL
 > - **2017** — VL 俄文版出版；获维多利亚州教育部官方背书；被 ABC *Revolution School* 描绘为公共教育拯救者
-> - **2018** — Corwin（SAGE 集团）收购 Visible Learningplus
+> - **2018** — Corwin（[[Sage]] 集团）收购 Visible Learningplus
 > - **2023** — VL 原书续作出版
 
 ## 相关概念／政策

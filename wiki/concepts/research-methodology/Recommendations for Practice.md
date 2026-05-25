@@ -41,7 +41,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - **1994** — 既有趋势研究显示，约 30% 的相关性文章包含实践建议，说明[[Non-intervention Research|非干预研究]]中的 RFP 并非新现象，而是长期存在的出版实践（Brady et al., 2023, p.3）。
-> - **2010** — 相关性文章包含实践建议的比例上升至 46%，与教育心理学期刊中[[Intervention Research|干预研究]]下降、[[Observational and Correlational Research|相关研究]]上升的趋势同步出现（Brady et al., 2023, p.3）。
+> - **2010** — 相关性文章包含实践建议的比例上升至 46%，与教育心[[Neo-Confucianism|理学]]期刊中[[Intervention Research|干预研究]]下降、[[Observational and Correlational Research|相关研究]]上升的趋势同步出现（Brady et al., 2023, p.3）。
 > - **2020** — Brady et al. (2023) 发现，观察/相关研究中 66% 包含 RFP；[[Qualitative Research|质性研究]]中 65%、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]中 60% 包含 RFP。综合来看，2020 年约三分之二的[[Non-intervention Research|非干预研究]]文章包含 RFP（Brady et al., 2023, pp.6-7）。
 
 ## 核心要素
@@ -74,14 +74,14 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> - Brady et al. (2023) 审查 2020 年五本教育心理学经验期刊中的 255 篇经验文章，发现[[Non-intervention Research|非干预研究]]仍约占全部研究的四分之三，且其中约三分之二包含 RFP（Brady et al., 2023, pp.4, 7）。
+> - Brady et al. (2023) 审查 2020 年五本教育心[[Neo-Confucianism|理学]]经验期刊中的 255 篇经验文章，发现[[Non-intervention Research|非干预研究]]仍约占全部研究的四分之三，且其中约三分之二包含 RFP（Brady et al., 2023, pp.4, 7）。
 > - 在[[Observational and Correlational Research|观察/相关研究]]中，包含 RFP 的比例从 2000 年的 41%、2010 年的 46% 上升到 2020 年的 66%，显示非[[Intervention Research|干预研究]]中实践建议的增长趋势仍在继续（Brady et al., 2023, pp.6-7）。
 > - 作者在限制性讨论中指出，有些论文在讨论部分给出明确 RFP，却在局限性部分承认方法不能支持因果结论、未来需要实验研究；这种错配显示出版过程可能鼓励作者在证据边界之外提供实践建议（Brady et al., 2023, p.9）。
 
 ## 争议与批评
 
 > [!warning] [[Non-intervention Research|非干预研究]]能否提出实践建议
-> 争议核心在于：教育心理学研究既有改善实践的公共使命，又必须避免把非因果证据包装成因果行动建议。
+> 争议核心在于：教育心[[Neo-Confucianism|理学]]研究既有改善实践的公共使命，又必须避免把非因果证据包装成因果行动建议。
 > - **谨慎或限制立场**：Robinson et al. (2013) 曾主张，即使是经验研究，单项研究也不应轻易给出 RFP；系统综述和多项实验的累积证据更适合支撑实践建议（Brady et al., 2023, p.4）。
 > - **保留但要求扎根立场**：Alexander (2013) 与 Harris (2013) 等回应认为，完全排除 RFP 会违背教育心理学改善学习的目标，但 RFP 应当有适当证据基础，并可作为未来研究方向（Brady et al., 2023, p.4）。
 > 目前较强共识是：RFP 若包含因果行动建议，应与研究方法能支持的推论边界一致；非[[Intervention Research|干预研究]]中的强因果建议尤其需要谨慎（Brady et al., 2023, pp.4, 9）。

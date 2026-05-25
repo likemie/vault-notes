@@ -139,7 +139,7 @@ updated: '2026-05-24'
 
 > [!success] 实证发现
 > - 尽管 [[What Works Clearinghouse|WWC]] 和 Evidence for ESSA 扩展了研究证据的可及性，教育产品消费者仍常偏好同伴推荐和本地试点，因为这些渠道更能同时提供产品特征、实施要求、使用满意度、成本和潜在结果等地方决策信息（Ross & Morrison, 2021, pp.110, 120-121）。
-> - 以 2019 年 5 月为筛选节点，美国和英国可识别出 43 个清算中心；排除不发布效果评级、无法访问或只转载其他机构评级的站点后，聚焦 pre-K 至大学教育干预且关注学业成就、入学准备、毕业和学校社会问题预防等结果的教育清算中心为 12 个（Wadhwa et al., 2024, p.5）。
+> - 以 2019 年 5 月为筛选节点，美国和英国可识别出 43 个清算中心；排除不发布效果评级、无法访问或只转载其他机构评级的站点后，聚焦 pre-K 至[[The Great Learning|大学]]教育干预且关注学业成就、入学准备、毕业和学校社会问题预防等结果的教育清算中心为 12 个（Wadhwa et al., 2024, p.5）。
 > - 在 1,359 个教育项目中，1,131 个项目（83.2%）只被一个清算中心评级，164 个（12.1%）被两个评级，45 个（3.3%）被三个评级，15 个（1.1%）被四个评级，4 个（0.3%）被五个评级；没有项目被超过五个清算中心评级（Wadhwa et al., 2024, p.18）。
 > - 只有 17% 的项目拥有多重清算中心评级可供消费者比较；这些多重评级项目通常是教育研究与政策界更知名的项目，但即使在这些项目上，评级分歧仍很常见（Wadhwa et al., 2024, pp.18, 27）。
 > - 对被多个清算中心评级的项目，类似评级只出现在约 30% 的情形；主要原因在于清算中心对高项目评级是否需要复制、独立复制和治疗后持续效果没有共识（Wadhwa et al., 2024, pp.3, 26-27）。
@@ -177,7 +177,7 @@ updated: '2026-05-24'
 - [[EPPI-Centre]] — 英国系统综述和研究使用指导中心。
 - [[Institute for Effective Education]] — 英国连接学校支持、严格评价、Evidence in Brief 和 Evidence 4 Impact 的证据机构。
 - [[Swedish Institute for Educational Research]] — 瑞典系统综述、传播和研究资助机构。
-- [[Top Institute for Evidence-Based Education Research]] — 荷兰跨大学[[Evidence-Based Education|证据本位教育]]研究所。
+- [[Top Institute for Evidence-Based Education Research]] — 荷兰跨[[The Great Learning|大学]][[Evidence-Based Education|证据本位教育]]研究所。
 - [[Centre for the Use of Research and Evidence in Education]] — 英国研究转译和实践材料开发机构。
 - [[Evidence-Based Teachers Network]] — 英国教师、研究者和教育利益相关者证据分享网络。
 - [[Collaborative for Academic Social and Emotional Learning Guide]] — 聚焦社会情感学习项目的非营利教育清算中心，在比较样本中贡献 25 个项目（Wadhwa et al., 2024, pp.7, 16）。
@@ -204,6 +204,6 @@ updated: '2026-05-24'
 ## 来源
 
 - [[Hitchcock_2015_JBE]]
-- Ross_Morrison_2021_ROE
+- [[Ross_Morrison_2021_ROE]]
 - [[Wadhwa_2024_RER]]
 - [[Pellegrini_2021_ROE]]

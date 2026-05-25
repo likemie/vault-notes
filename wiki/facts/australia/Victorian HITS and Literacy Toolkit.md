@@ -48,7 +48,7 @@ updated: '2026-05-18'
 >
 > *High Impact Teaching Strategies: Excellence in Teaching and Learning*（高影响力教学策略：卓越教与学）列出了 10 项教学策略，**每项均以 [[John Hattie|Hattie]] 的 Visible Learning 为首要参考文献**（Department of Education and Training Victoria, 2017a，引自 O'Connor, 2020, p.141）。这 10 项教学实践源自 John Hattie 和 Robert Marzano 等国际研究者的发现，旨在让"教师和[[School Leadership|学校领导]]者有机会嵌入和分享成功教学实践的使用"（DET Victoria, cited in Sarbiewska, 2019, p.126）。
 >
-> 澳大利亚 researchED（Australian College of Educators, 2017）在 ACER 卓越专业实践会议上启动，为从业者提供平台发布发现、分享思维方式，帮助"好的实践成为普遍实践"（Deeble & Vaughan, 2018, cited in Sarbiewska, 2019, p.126）。
+> 澳大利亚 [[ResearchED]]（Australian College of Educators, 2017）在 ACER 卓越专业实践会议上启动，为从业者提供平台发布发现、分享思维方式，帮助"好的实践成为普遍实践"（Deeble & Vaughan, 2018, cited in Sarbiewska, 2019, p.126）。
 >
 > ### 2. Literacy Teaching Toolkit
 >

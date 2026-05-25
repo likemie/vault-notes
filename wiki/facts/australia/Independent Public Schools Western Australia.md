@@ -36,7 +36,7 @@ updated: '2026-05-18'
 > [!info] 背景
 > 独立公立学校（Independent Public Schools, IPS）是西澳大利亚州（WA）的[[School Autonomy|学校自主权]]改革政策，被 Keddie et al.（2020, IJLE, p.2）描述为"近期该州公立教育系统最激进的改组"。
 >
-> IPS 于 2010 年起在 WA 引入，是澳大利亚学校自主权改革从 1973 年 Karmel Report 的参与式民主理念向新自由主义效率与问责理念历史性转变的典型案例（Keddie et al., 2020, IJLE, p.2）。
+> IPS 于 2010 年起在 WA 引入，是澳大利亚学校自主权改革从 1973 年 [[Karmel Report]] 的参与式民主理念向新自由主义效率与问责理念历史性转变的典型案例（Keddie et al., 2020, IJLE, p.2）。
 
 ## 政策文本摘要
 

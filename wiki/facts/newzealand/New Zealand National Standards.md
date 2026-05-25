@@ -43,15 +43,15 @@ updated: '2026-05-18'
 > [!abstract] 政策文本摘要
 > [[John Hattie|Hattie]] (2010, pp.92–93) 列举了国家标准旨在解决的七项新西兰教育问题：
 >
-> > "National Standards can provide useful evidence and can influence issues such as: ensuring there is greater emphasis in schools (and in reports to parents) on progress in, as well as levels of, achievement; ensuring that teachers have a common conception of progress...; enhancing the already developing consistency of interpretation of levels within the New Zealand curriculum; demonstrating that all students are making appropriate progress...; sharing evidence-based practices within and across schools; enhancing student assessment capabilities about their levels of performance and progress; and identifying schools where students may not be attaining satisfactory progress and intervening more quickly than we do now." (Hattie, 2010, pp.92–93)
+> > "National Standards can provide useful evidence and can influence issues such as: ensuring there is greater emphasis in schools (and in reports to parents) on progress in, as well as levels of, achievement; ensuring that teachers have a common conception of progress...; enhancing the already developing consistency of interpretation of levels within [[The New Zealand Curriculum]]; demonstrating that all students are making appropriate progress...; sharing evidence-based practices within and across schools; enhancing student assessment capabilities about their levels of performance and progress; and identifying schools where students may not be attaining satisfactory progress and intervening more quickly than we do now." (Hattie, 2010, pp.92–93)
 >
-> Hattie 强调最具关键意义的一点是："these factors can lead to more effective teaching of all students, as the only way the policy is going to be effective is if the teaching is more appropriate, rigorous and shown to be effective" (p.93)。
+> Hattie 强调最具关键意义的一点是："these factors can lead to more [[Effective Teaching]] of all students, as the only way the policy is going to be effective is if the teaching is more appropriate, rigorous and shown to be effective" (p.93)。
 
 ## 时间线
 
 > [!note]- 时间线
 > - **2008 年末**：国家党领导的联合政府当选，将国家标准纳入政策议程
-> - **2009 年初**：[[John Hattie|Hattie]] 的 *[[Visible Learning]]* 登上 *Sunday Star Times* 头版（2009 年 1 月），随后他对国家标准的评论引发广泛媒体关注（p.86）
+> - **2009 年初**：[[John Hattie|Hattie]] 的 *[[Visible Learning]]* 登上 *Sunday [[Tennessee STAR Project 1985-1989|STAR]] Times* 头版（2009 年 1 月），随后他对国家标准的评论引发广泛媒体关注（p.86）
 > - **2009 年**：Hattie 被邀加入技术顾问组（共召开两次会议，Hattie 因出国六个月均未出席）（p.92）
 > - **2009 年**：新西兰评估学会（NZ Assessment Academy，由五位测量领域专家组成）受教育部邀请对标准的技术层面提供评论——部分但非全部建议被采纳（p.92）
 > - **2010 年**：总理 John Key 在发布国家标准时公开感谢 Hattie 对标准和评估理念的推动——"This seemed to many people to indicate that my hands were 'on the tiller'"（Hattie, 2010, p.92）

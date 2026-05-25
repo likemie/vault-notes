@@ -55,7 +55,7 @@ updated: '2026-05-18'
 > [!note]- 创建背景与经过
 > 从 1960 年代起，美国政治家和政策制定者对教育研究的"复杂性"日益不满。参议员 Robert F. Kennedy 在 1966 年质问教育专员 Harold "Doc" Howe 的名言捕捉了这一情绪："你是说你花了十亿美元却不知道他们是否会读写？"（Wickline, 1971, p. 7; 引自 Wiliam, 2019, p.3）。政策制定者要求的是一个简单的焦点："什么有效"（what works）——这一压力最终导致 WWC 的创建（Wiliam, 2019, p.3）。
 >
-> - **2001** — No Child Left Behind Act 通过，全文提及"科学本位研究"110 次，将实验证据标准嵌入联邦教育项目核心。
+> - **2001** — [[No Child Left Behind Act 2001|No Child Left Behind Act]] 通过，全文提及"科学本位研究"110 次，将实验证据标准嵌入联邦教育项目核心。
 > - **2002** — 美国教育部创建 WWC，旨在成为"关于教育中什么有效的科学证据的中央可信来源"（What Works Clearinghouse, 2017a, p.1; 引自 Wolf et al., 2020, p.429）。
 > - WWC 由 IES 签约的专家个人和组织负责识别、审查和评级教育项目的研究（Wolf et al., 2020, p.429）。
 

@@ -60,7 +60,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - *Areopagitica* 成为西方自由主义言论自由传统的奠基性文本，其"三重权利"框架持续影响后世关于审查制度的讨论
-> - Partaken (2022) 将 *Areopagitica* 的三重权利标准直接置于[[Great Firewall of China|中国防火长城]]的对立面——后者系统性地阻断中国大学学者获取大量社科人文学术论文，"信息和知识多样性的减少最终将削弱人们在全球舞台上创新和竞争的能力"（Partaken, 2022, p.82）
+> - Partaken (2022) 将 *Areopagitica* 的三重权利标准直接置于[[Great Firewall of China|中国防火长城]]的对立面——后者系统性地阻断中国[[The Great Learning|大学]]学者获取大量社科人文学术论文，"信息和知识多样性的减少最终将削弱人们在全球舞台上创新和竞争的能力"（Partaken, 2022, p.82）
 
 ---
 

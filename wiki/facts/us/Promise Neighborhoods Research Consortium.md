@@ -42,7 +42,7 @@ updated: '2026-05-18'
 ## 评级对象与范围
 
 > [!abstract] 评级对象与范围
-> PNRC 被纳入 12 个清算中心的标准比较，但没有进入最终项目评级一致性分析，因为它不对项目效果进行分层评级（tier-wise ratings of programs for effectiveness）（Wadhwa et al., 2024, p.15）。
+> PNRC 被纳入 12 个清算中心的标准比较，但没有进入最终项目评级一致性分析，因为它不对项目效果进行分层评级（[[Top Institute for Evidence-Based Education Research|TIER]]-wise ratings of programs for effectiveness）（Wadhwa et al., 2024, p.15）。
 
 ## 证据标准
 

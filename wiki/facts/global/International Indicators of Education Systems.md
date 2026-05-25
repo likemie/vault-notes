@@ -46,7 +46,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - **1970s**：OECD 首次尝试开发[[Performance Indicators|教育指标]]，1973 年发布 *A System of Education Indicators to Guide Public Policy Decisions*，但因概念难题（内部因素与外部因素无法分解）而失败，专家工作组放弃了理论模型，转向以可用性为导向的经验方法，但指标从未被实际计算（Gorur, 2014, p.10）
-> - **1983**：*A Nation at Risk* 引发教育质量恐慌，重新点燃对国际指标的兴趣（Gorur, 2014, p.8, 10）
+> - **1983**：*[[A Nation at Risk 1983|A Nation at Risk]]* 引发教育质量恐慌，重新点燃对国际指标的兴趣（Gorur, 2014, p.8, 10）
 > - **1987**：华盛顿会议（22 成员国 + 专家），明确国际基准比较已成为"提升教育质量的组成部分"（Bottani & Walberg, 1992, p.7; Gorur, 2014, p.8）
 > - **1988**：INES 正式启动（Gorur, 2014, p.8）
 > - **1989**：第一届 INES 全体大会（奥地利 Semmering），列出约 160 项初始指标，未讨论即被认为不可管理（Gorur, 2014, p.11）

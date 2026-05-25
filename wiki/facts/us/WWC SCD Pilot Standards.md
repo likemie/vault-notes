@@ -39,7 +39,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> [[What Works Clearinghouse]] 最初的设计标准主要针对组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）。随着[[Single-Case Design|单一个案设计]]（[[21st Century Skills and Competencies Discourse|SCD]]）在特殊教育、学校心理学等领域的广泛使用，需要一套专门的标准来评估 SCD 研究的内部效度和外部效度（Hitchcock et al., 2015, p.460）。
+> [[What Works Clearinghouse]] 最初的设计标准主要针对组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）。随着[[Single-Case Design|单一个案设计]]（[[21st Century Skills and Competencies Discourse|SCD]]）在特殊教育、学校心[[Neo-Confucianism|理学]]等领域的广泛使用，需要一套专门的标准来评估 SCD 研究的内部效度和外部效度（Hitchcock et al., 2015, p.460）。
 >
 > SCD 已被认可为产生实证证据以指导治疗创新、采纳或改进的可行方法（Horner et al., 2005; Kratochwill & Levin, 2014），因此 WWC 需要建立相应的审查基础设施。
 
@@ -55,7 +55,7 @@ updated: '2026-05-18'
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> [[What Works Clearinghouse|WWC]] [[21st Century Skills and Competencies Discourse|SCD]] Pilot Standards（全称：Single-Case Design Technical Documentation Version 1.0 (Pilot)）由 Kratochwill 和 Hitchcock 以及专家组为 Institute of Education Sciences (IES) 在合同 ED-07-CO-0062 下与 Mathematica Policy Research, Inc. 合作开发（Hitchcock et al., 2015, p.459）。
+> [[What Works Clearinghouse|WWC]] [[21st Century Skills and Competencies Discourse|SCD]] Pilot Standards（全称：[[Single-Case Design]] Technical Documentation Version 1.0 (Pilot)）由 Kratochwill 和 Hitchcock 以及专家组为 Institute of Education Sciences (IES) 在合同 ED-07-CO-0062 下与 Mathematica Policy Research, Inc. 合作开发（Hitchcock et al., 2015, p.459）。
 >
 > > "The Standards that are described in the technical documentation were developed by a Panel of authors for the Institute of Education Sciences (IES) under Contract ED-07-CO-0062 with Mathematica Policy Research, Inc. to operate the What Works Clearinghouse (WWC)." (Hitchcock et al., 2015, p.459)
 >

@@ -37,7 +37,7 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> Danish Clearinghouse for Educational Research 是奥胡斯大学下设的教育研究清算中心，2006 年建立。Pellegrini & Vivanet 将其列为欧洲大陆较早的[[Evidence-Based Education|证据本位教育]]中心之一（Pellegrini & Vivanet, 2021, p.32）。
+> Danish Clearinghouse for Educational Research 是奥胡斯[[The Great Learning|大学]]下设的教育研究清算中心，2006 年建立。Pellegrini & Vivanet 将其列为欧洲大陆较早的[[Evidence-Based Education|证据本位教育]]中心之一（Pellegrini & Vivanet, 2021, p.32）。
 
 ## 政策文本摘要
 
@@ -47,7 +47,7 @@ updated: 2026-05-23
 ## 时间线
 
 > [!note]
-> - 2006 — Danish Clearinghouse for Educational Research 在奥胡斯大学建立（Pellegrini & Vivanet, 2021, p.32）。
+> - 2006 — Danish Clearinghouse for Educational Research 在奥胡斯[[The Great Learning|大学]]建立（Pellegrini & Vivanet, 2021, p.32）。
 
 ## 实施情况
 

@@ -48,7 +48,7 @@ updated: '2026-05-18'
 > [!abstract] 治理与伙伴关系
 > TFNZ 作为三方合作运营（O'Neill et al., 2016, pp.10, 53）：
 >
-> - **项目伙伴**：奥克兰大学、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）
+> - **项目伙伴**：奥克兰[[The Great Learning|大学]]、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）
 > - **赞助人**（Patrons）：Sir John Graham（Auckland [[Grammar School]] 前校长、奥克兰大学前校长、Woolf Fisher Trust 受托人）和 Dame Lesley Max（Great Potentials Foundation 联合创始人）
 
 ## 资金来源与创始伙伴
