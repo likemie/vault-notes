@@ -292,23 +292,6 @@
     ]
   },
   {
-    "title": "Parallel Monologues",
-    "type": "concept",
-    "path": "wiki/concepts/communication-discourse/Parallel Monologues.md",
-    "aliases": [
-      "平行独白"
-    ]
-  },
-  {
-    "title": "SF (Haraway)",
-    "type": "concept",
-    "path": "wiki/concepts/communication-discourse/SF (Haraway).md",
-    "aliases": [
-      "哈拉维的SF",
-      "推测性编造"
-    ]
-  },
-  {
     "title": "21st Century Skills and Competencies Discourse",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/21st Century Skills and Competencies Discourse.md",
@@ -482,16 +465,6 @@
     ]
   },
   {
-    "title": "Educational Management Organisation",
-    "type": "concept",
-    "path": "wiki/concepts/curriculum/Educational Management Organisation.md",
-    "aliases": [
-      "教育管理组织",
-      "EMO",
-      "Educational Management Organisation (EMO)"
-    ]
-  },
-  {
     "title": "Epochal Key Problems",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Epochal Key Problems.md",
@@ -530,6 +503,16 @@
     ]
   },
   {
+    "title": "Official Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Official Knowledge.md",
+    "aliases": [
+      "官方知识",
+      "官方知识 (Apple)",
+      "official knowledge (Apple)"
+    ]
+  },
+  {
     "title": "Phenomenon-Based Learning",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Phenomenon-Based Learning.md",
@@ -555,20 +538,54 @@
     ]
   },
   {
-    "title": "Venture Philanthropy",
-    "type": "concept",
-    "path": "wiki/concepts/curriculum/Venture Philanthropy.md",
-    "aliases": [
-      "风险慈善"
-    ]
-  },
-  {
     "title": "Whole Language",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Whole Language.md",
     "aliases": [
       "全语言",
       "whole language"
+    ]
+  },
+  {
+    "title": "Cult of the Guru",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
+    "aliases": [
+      "大师崇拜"
+    ]
+  },
+  {
+    "title": "Neo-Taylorism in Educational Administration",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Neo-Taylorism in Educational Administration.md",
+    "aliases": [
+      "教育行政中的新泰勒主义",
+      "新泰勒主义"
+    ]
+  },
+  {
+    "title": "Parallel Monologues",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Parallel Monologues.md",
+    "aliases": [
+      "平行独白"
+    ]
+  },
+  {
+    "title": "School Leadership",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/School Leadership.md",
+    "aliases": [
+      "学校领导力",
+      "学校领导"
+    ]
+  },
+  {
+    "title": "Transformative Leadership",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Transformative Leadership.md",
+    "aliases": [
+      "变革型领导力"
     ]
   },
   {
@@ -740,15 +757,6 @@
     ]
   },
   {
-    "title": "Otherhood",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Otherhood.md",
-    "aliases": [
-      "为他者行动",
-      "他者代理"
-    ]
-  },
-  {
     "title": "Posthumanism",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Posthumanism.md",
@@ -770,6 +778,15 @@
     "path": "wiki/concepts/educational-philosophy/Scientism.md",
     "aliases": [
       "科学主义"
+    ]
+  },
+  {
+    "title": "SF (Haraway)",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/SF (Haraway).md",
+    "aliases": [
+      "哈拉维的SF",
+      "推测性编造"
     ]
   },
   {
@@ -797,6 +814,14 @@
     "path": "wiki/concepts/educational-philosophy/Sympoiesis.md",
     "aliases": [
       "共生成"
+    ]
+  },
+  {
+    "title": "Transhumanism",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Transhumanism.md",
+    "aliases": [
+      "超人类主义"
     ]
   },
   {
@@ -915,14 +940,6 @@
       "技术整合",
       "technology integration",
       "technology infusion"
-    ]
-  },
-  {
-    "title": "Transhumanism",
-    "type": "concept",
-    "path": "wiki/concepts/educational-technology/Transhumanism.md",
-    "aliases": [
-      "超人类主义"
     ]
   },
   {
@@ -1326,14 +1343,6 @@
     ]
   },
   {
-    "title": "Cult of the Guru",
-    "type": "concept",
-    "path": "wiki/concepts/instruction-pedagogy/Cult of the Guru.md",
-    "aliases": [
-      "大师崇拜"
-    ]
-  },
-  {
     "title": "Devil's Advocate",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Devil's Advocate.md",
@@ -1404,15 +1413,6 @@
     ]
   },
   {
-    "title": "Neo-Taylorism in Educational Administration",
-    "type": "concept",
-    "path": "wiki/concepts/instruction-pedagogy/Neo-Taylorism in Educational Administration.md",
-    "aliases": [
-      "教育行政中的新泰勒主义",
-      "新泰勒主义"
-    ]
-  },
-  {
     "title": "Problem-Based Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
@@ -1430,15 +1430,6 @@
       "话语重构",
       "teacher revoicing",
       "O'Connor and Michaels revoicing"
-    ]
-  },
-  {
-    "title": "School Leadership",
-    "type": "concept",
-    "path": "wiki/concepts/instruction-pedagogy/School Leadership.md",
-    "aliases": [
-      "学校领导力",
-      "学校领导"
     ]
   },
   {
@@ -1476,14 +1467,6 @@
       "表层学习与深层学习",
       "表层学习",
       "深层学习"
-    ]
-  },
-  {
-    "title": "Transformative Leadership",
-    "type": "concept",
-    "path": "wiki/concepts/instruction-pedagogy/Transformative Leadership.md",
-    "aliases": [
-      "变革型领导力"
     ]
   },
   {
@@ -1768,6 +1751,16 @@
     ]
   },
   {
+    "title": "Educational Management Organisation",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Educational Management Organisation.md",
+    "aliases": [
+      "教育管理组织",
+      "EMO",
+      "Educational Management Organisation (EMO)"
+    ]
+  },
+  {
     "title": "Endogenous and Exogenous Privatisation",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Endogenous and Exogenous Privatisation.md",
@@ -1938,16 +1931,6 @@
     ]
   },
   {
-    "title": "Official Knowledge",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Official Knowledge.md",
-    "aliases": [
-      "官方知识",
-      "官方知识 (Apple)",
-      "official knowledge (Apple)"
-    ]
-  },
-  {
     "title": "Orientalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Orientalism.md",
@@ -2068,6 +2051,14 @@
       "VoC",
       "varieties of capitalism",
       "生产体制"
+    ]
+  },
+  {
+    "title": "Venture Philanthropy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Venture Philanthropy.md",
+    "aliases": [
+      "风险慈善"
     ]
   },
   {
@@ -2612,6 +2603,15 @@
       "机会主义者",
       "opportunist actor",
       "机会主义"
+    ]
+  },
+  {
+    "title": "Otherhood",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Otherhood.md",
+    "aliases": [
+      "为他者行动",
+      "他者代理"
     ]
   },
   {

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/political-economy-geopolitics/VUCA.md",
+                "file": "wiki/methods/mixed/Formative Evaluation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VUCA"
+              "title": "Formative Evaluation"
             }
           }
         ]
@@ -189,6 +189,19 @@
   },
   "active": "1ae9539e2ff14392",
   "lastOpenFiles": [
+    "wiki/concepts/political-economy-geopolitics/VUCA.md",
+    "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
+    "wiki/concepts/educational-leadership-administration/Parallel Monologues.md",
+    "wiki/concepts/educational-leadership-administration/Neo-Taylorism in Educational Administration.md",
+    "wiki/concepts/educational-leadership-administration/Transformative Leadership.md",
+    "wiki/concepts/educational-leadership-administration/School Leadership.md",
+    "wiki/concepts/educational-leadership-administration",
+    "wiki/concepts/sociology-of-education/Otherhood.md",
+    "wiki/concepts/curriculum/Official Knowledge.md",
+    "wiki/concepts/political-economy-geopolitics/Venture Philanthropy.md",
+    "wiki/concepts/political-economy-geopolitics/Educational Management Organisation.md",
+    "wiki/concepts/educational-philosophy/Transhumanism.md",
+    "wiki/concepts/educational-philosophy/SF (Haraway).md",
     "wiki/concepts/political-economy-geopolitics/Varieties of Capitalism.md",
     "wiki/concepts/political-economy-geopolitics/Sinicisation.md",
     "wiki/concepts/political-economy-geopolitics/Policy Entrepreneur.md",
@@ -203,18 +216,6 @@
     "wiki/concepts/higher-education/International Education.md",
     "wiki/concepts/higher-education/Corporate University.md",
     "wiki/concepts/higher-education/Corporate Education.md",
-    "wiki/concepts/higher-education/Further Education.md",
-    "wiki/concepts/curriculum/Grade Retention.md",
-    "wiki/concepts/sociology-of-education/Membership-Creating Function of Education.md",
-    "wiki/concepts/sociology-of-education/Zero-Sum Competition.md",
-    "wiki/concepts/sociology-of-education/Tall Poppy Syndrome.md",
-    "wiki/concepts/sociology-of-education/Talent Assumption.md",
-    "wiki/concepts/sociology-of-education/Intellectual-Social Divide.md",
-    "wiki/concepts/sociology-of-education/Nerd.md",
-    "wiki/concepts/sociology-of-education/Codeswitcher.md",
-    "wiki/concepts/learning-science-cognitive-science/Ideal Learner.md",
-    "wiki/concepts/communication-discourse/MCC Discourse Analysis Examples.md",
-    "wiki/concepts/communication-discourse/Cognitive Source.md",
     "scripts/__pycache__/vault_lint.cpython-312.pyc",
     "scripts/__pycache__/wiki_index.cpython-312.pyc",
     "scripts/__pycache__/wiki_linker.cpython-312.pyc",
@@ -224,7 +225,6 @@
     "scripts/source_record.py",
     "scripts/wiki_relations.py",
     "books/Li_2012_Cambridge/Li_2012_Cultural_Foundations_of_Learning.pdf",
-    "books/Li_2012_Cambridge/Li_2012_Cambridge第一章.pdf",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/iShot_2026-05-23_15.07.28.png",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",

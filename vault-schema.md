@@ -56,7 +56,7 @@ wiki/
 
 | 条目类型 | 路径 | 归类规则 |
 |---|---|---|
-| Concept | `wiki/concepts/<field>/` | 按领域，如 `comparative-education`、`curriculum`、`educational-philosophy` |
+| Concept | `wiki/concepts/<field>/` | 按领域，如 `comparative-education`、`curriculum`、`educational-philosophy`、`educational-leadership-administration` |
 | Theory | `wiki/theories/<field>/` | 按领域 |
 | Method | `wiki/methods/qualitative/`、`quantitative/`、`mixed/` | 按方法类型 |
 | Person | `wiki/persons/<nationality-or-region>/` | 按国籍／地区；不明或跨国身份放 `global` |
