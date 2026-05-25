@@ -77,11 +77,11 @@ for i, item in enumerate(book.get_items_of_type(ebooklib.ITEM_DOCUMENT)):
 ```markdown
 ### 第X章 章节标题
 
-#### 本章问题
-本章试图回答的问题，或它在全书论证中的位置。
+#### 章节问题
+说明该章要回答的问题，或它在全书论证中的位置。
 
 #### 论证链条
-按前提、证据、中间推论、结论拆解本章论证，不直接跳到结论。
+按前提、证据、中间推论、结论拆解章节论证，不直接跳到结论。
 ```
 
 关键引用不放入「各章概览」里堆积，而是从第一章开始持续补充到全书 Argument 的「关键引用」章节。每条引用必须标注章节与页码；如果用户提供的文本没有页码，只能记录章节信息，不得编造页码。
@@ -109,10 +109,10 @@ for item in book.get_items_of_type(ebooklib.ITEM_DOCUMENT):
 3. 基于章节内容扫描可提取条目。
 4. 读取 `wiki/index.json`，将条目分为待更新和待新建两组。
 5. 按 `vault-schema.md` 的更新／新建条目规则执行。
-6. 将本章内容追加到 Argument 的「各章概览」：
+6. 将章节内容追加到 Argument 的「各章概览」：
    - 若 Argument 尚不存在 → 读取 `wiki/templates/template-argument-monograph.md`，在 `wiki/arguments/books/<book-folder>/` 新建。
-   - 若 Argument 已存在 → 用 `str_replace` 追加本章内容到「各章概览」末尾或更新对应章节。
-   - 「各章概览」只记录本章问题和论证链条。
+   - 若 Argument 已存在 → 用 `str_replace` 追加章节内容到「各章概览」末尾或更新对应章节。
+   - 「各章概览」只记录章节问题和论证链条。
    - 关键引用在单章处理时直接追加到全书 Argument 的「关键引用」章节，并标注章节与页码。
 7. 在正文中自然使用 wikilink，在 `## 来源` 章节列出来源。
 8. 不手动维护 YAML `related_*` 和 `sources`。

@@ -32,7 +32,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 前言中编者提出的核心问题或立场，附原文引用。
 
 > [!quote]
-> "原文引用"（Editor, year, p.X）
+> "原文引用"（p.X）
 
 ---
 

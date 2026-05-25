@@ -520,6 +520,17 @@
     ]
   },
   {
+    "title": "Zhonghua Minzu (Chinese Nation)",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Zhonghua Minzu (Chinese Nation).md",
+    "aliases": [
+      "中华民族",
+      "Chinese nation",
+      "Zhonghua minzu",
+      "中华民族多元一体"
+    ]
+  },
+  {
     "title": "Atomisation of Knowledge and Skills",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Atomisation of Knowledge and Skills.md",
@@ -629,7 +640,7 @@
     "type": "concept",
     "path": "wiki/concepts/curriculum/Simple View of Reading.md",
     "aliases": [
-      "阅读简单观"
+      "简单阅读观"
     ]
   },
   {
@@ -645,8 +656,7 @@
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
     "aliases": [
-      "吸收能力",
-      "district absorptive capacity"
+      "吸收能力"
     ]
   },
   {
@@ -832,7 +842,7 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Mind and Its Wonders.md",
     "aliases": [
-      "心智及其奇迹",
+      "心智及其惊奇",
       "human intellect",
       "human mind",
       "western mind"
@@ -859,8 +869,7 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Narrative Knowledge.md",
     "aliases": [
-      "叙事知识",
-      "scientific knowledge vs narrative knowledge"
+      "叙事知识"
     ]
   },
   {
@@ -2208,6 +2217,15 @@
     ]
   },
   {
+    "title": "Necropolitics",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Necropolitics.md",
+    "aliases": [
+      "死亡政治",
+      "死亡政治学"
+    ]
+  },
+  {
     "title": "Neocorporatism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Neocorporatism.md",
@@ -2270,6 +2288,14 @@
     ]
   },
   {
+    "title": "Retrotopia",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Retrotopia.md",
+    "aliases": [
+      "怀旧乌托邦"
+    ]
+  },
+  {
     "title": "Schmittian Sovereignty",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Schmittian Sovereignty.md",
@@ -2298,6 +2324,16 @@
       "政策选择性",
       "policy selectivity",
       "strategic selectivity"
+    ]
+  },
+  {
+    "title": "Settler Colonialism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Settler Colonialism.md",
+    "aliases": [
+      "定居殖民主义",
+      "settler colonialism",
+      "定居者殖民主义"
     ]
   },
   {
@@ -3844,6 +3880,14 @@
     ]
   },
   {
+    "title": "Fei Xiaotong",
+    "type": "person",
+    "path": "wiki/persons/china/Fei Xiaotong.md",
+    "aliases": [
+      "费孝通"
+    ]
+  },
+  {
     "title": "Jin Li",
     "type": "person",
     "path": "wiki/persons/china/Jin Li.md",
@@ -3905,6 +3949,14 @@
     "path": "wiki/persons/china/Yong Zhao.md",
     "aliases": [
       "赵勇"
+    ]
+  },
+  {
+    "title": "Zhao Tingyang",
+    "type": "person",
+    "path": "wiki/persons/china/Zhao Tingyang.md",
+    "aliases": [
+      "赵汀阳"
     ]
   },
   {
@@ -4776,6 +4828,16 @@
     "aliases": [
       "千人计划",
       "Thousand Talents Plan"
+    ]
+  },
+  {
+    "title": "2020 Inner Mongolia Bilingual Education Reform",
+    "type": "fact",
+    "path": "wiki/facts/china/2020 Inner Mongolia Bilingual Education Reform.md",
+    "aliases": [
+      "2020 年内蒙古双语教育改革",
+      "Inner Mongolia bilingual education policy 2020",
+      "内蒙古双语教育改革"
     ]
   },
   {
@@ -6025,6 +6087,11 @@
     "title": "Argument_Schaffar_2024_CogentEdu",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Cogent Education/Argument_Schaffar_2024_CogentEdu.md"
+  },
+  {
+    "title": "Argument_Bulag_2024_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md"
   },
   {
     "title": "Argument_Vickers_2024_CE",

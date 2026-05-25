@@ -651,7 +651,7 @@ def check_summary(path: Path, fm: str, summary: Any, issues: List[Issue]) -> Non
             label = {"\"": "double quote", "'": "single quote", ":": "English colon", "_": "underscore"}[ch]
             issues.append(Issue("ERROR", rel(path), f"summary contains forbidden {label}: {summary!r}", line=line, code="SUMMARY_FORBIDDEN_CHAR"))
 
-    banned_phrases = ["本文研究", "作者认为", "本研究发现", "本论文", "本章认为", "本文认为"]
+    banned_phrases = ["本文研究", "作者认为", "本研究发现", "本论文", "本章认为", "本文认为", "本文旨在", "本章旨在", "本研究旨在"]
     for phrase in banned_phrases:
         if phrase in summary:
             issues.append(Issue("WARN", rel(path), f"summary should not use phrase {phrase!r}", line=line, code="SUMMARY_STYLE"))

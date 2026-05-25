@@ -95,11 +95,11 @@ Only after the user provides the complete PDF and asks for source / reading-page
 
 - Entry titles, filenames, folder names, and tags: English only.
 - Entry body text: Simplified Chinese, written naturally.
-- Never use knowledge outside the source; every source-based claim needs `(Author, year, p.X)`.
+- Never use knowledge outside the source; every source-based claim needs a page reference. In Argument entries, cite the represented work with page numbers only, such as（pp.147–148）.
 - Use `str_replace`; do not rewrite entire files.
 - Before writing into an existing entry, state the target section, subsection, insertion location, and reason.
 - Except for Argument entries, write from the knowledge-base perspective: the paper is evidence, not the subject.
-- Argument entries should directly reconstruct the argument logic, not repeatedly say “this paper / this chapter / the author argues.”
+- Argument entries should directly reconstruct the argument logic without making the work or author the routine sentence subject.
 - Use wikilinks to reduce duplication across entries.
 - AI should not manually fill `related_*` or YAML `sources`; scripts maintain them.
 - Put source wikilinks in the `## 来源` section.
@@ -114,8 +114,16 @@ Only after the user provides the complete PDF and asks for source / reading-page
 - Always wrap `summary` in double quotes.
 - The content inside `summary` must not contain English colon `:`, double quote `"`, or single quote `'`.
 - If an English title has a colon, rewrite the summary with natural wording or Chinese punctuation; do not replace punctuation with `_`.
-- Do not write “本文研究……”, “作者认为……”, or “本研究发现……” in summaries.
+- Do not make summaries revolve around the paper, chapter, study, or author.
 - If no reliable summary can be written, leave `summary: ""`.
+
+## Argument Writing Rules
+
+- In Argument pages, directly state the reasoning; do not routinely use “论文 / 本文 / 本章 / 本研究 / 作者” as sentence subjects.
+- Use natural Chinese. Avoid mixed Chinese-English phrasing; introduce terms as “中文（English）”, then prefer Chinese.
+- Avoid excessive dashes and formulaic two-part correction sentences unless correcting a real misconception.
+- When citing the work represented by the Argument page, use page numbers only, such as（pp.147–148）.
+- When that work cites other references, record the citation directly without adding a secondary-citation label.
 
 ## Aliases and Automatic Linking
 
