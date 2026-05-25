@@ -16,6 +16,8 @@ tags:
   - theme/learning-model
   - theme/cultural-psychology
 related_concepts:
+  - "[[Ideal Learner]]"
+  - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Faust]]"
   - "[[Learning Virtues]]"
   - "[[Familiarization]]"
@@ -58,7 +60,6 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Surface and Deep Learning]]"
   - "[[Intrinsic vs Extrinsic Motivation]]"
-  - "[[Ideal Learner]]"
   - "[[Emic and Etic]]"
   - "[[Mind-Oriented Learning Process]]"
   - "[[Virtue-Oriented Learning Process]]"
@@ -75,7 +76,6 @@ related_concepts:
   - "[[Intellectual-Social Divide]]"
   - "[[Tracking]]"
   - "[[Doxa]]"
-  - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Cognitive Source]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"
@@ -84,27 +84,27 @@ related_concepts:
   - "[[Xiaokang]]"
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
 related_theories:
+  - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
-  - "[[Cultural Models]]"
   - "[[Phenomenology]]"
   - "[[Appraisal Theory]]"
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
 related_methods:
   - "[[Prototype Methods]]"
+  - "[[Mother-Child Conversation]]"
   - "[[Experience Sampling Method]]"
   - "[[Matching]]"
-  - "[[Mother-Child Conversation]]"
   - "[[MCC Discourse Analysis Examples]]"
 related_facts:
-  - "[[Civil Service Examination]]"
   - "[[PISA]]"
+  - "[[Civil Service Examination]]"
   - "[[Cram Schools]]"
   - "[[Three Excellences]]"
 related_persons:
-  - "[[Mencius]]"
   - "[[Confucius]]"
+  - "[[Mencius]]"
   - "[[Xunzi]]"
   - "[[Bertrand Russell]]"
   - "[[Plato]]"
@@ -150,9 +150,19 @@ updated: 2026-05-24
 ## 研究方法
 
 > [!info]
-> - 方法：跨文化比较研究，综合运用访谈、叙事分析、儿童信念发展追踪等多种方法
-> - 样本：中国及欧裔美国精英大学生、中国移民家庭儿童与青少年、学龄前儿童等
-> - 数据来源：多项目、多年度的实证研究积累；多项基金资助项目的数据（Li, 2012, p.xii）
+> 全书以跨文化比较为总体框架，各章按研究问题选择不同方法，从宏观历史分析到微观对话逐层推进。
+
+- **历史-文本分析**（Ch2）：追溯西方（古希腊 → 启蒙 → 现代心理学）与儒家（[[Confucius|孔子]] → 理学 → 当代民间）两种知识传统的经典文本，以《论语》《[[Mencius|孟子]]》等一手文献为主
+- **[[Prototype Methods|原型方法]]**（Ch3）：自由联想提取"学习"相关词汇 → 聚类分析生成概念地图（研究一）；书面叙事收集[[Ideal Learner|理想学习者形象]] → 内容分析提取人格结构（研究二）。两条证据线独立后汇聚（convergence）验证[[Cultural Models|文化模型]]
+- **跨文化调查研究**（Ch3, Ch5, Ch6）：归因问卷、课堂观察、家庭社会化调查、同伴态度测量、学习情感自述——多方法三角验证同一结论
+- **跨国评测数据**（Ch3）：TIMSS 与 [[PISA]] 排名作为东亚学习成就的宏观佐证
+- **[[Mother-Child Conversation|MCC]] 方法**（Ch7）：母亲-儿童对话的三层分析——结构分析（排除"量"的差异）→ 序列分析（胜算比追踪话题流向）→ 话语分析（Vygotsky 认知支架 + Frijda/Gottman [[Parental Cognitive and Affective Socialization|情感社会化]]框架）。200 组对话，欧裔美国 vs 台湾
+- **语用学比较**（Ch8）：Grice 四准则与四条东亚替代准则逐条对照；Kim 生理实验（说话时的问题解决表现与皮质醇变化）
+- **移民儿童学校适应比较**（Ch9）：Li et al.（2010）中国移民学前儿童 vs 欧裔美国同龄人的成就比较；Yamamoto & Li（2012）两种学校情境（亚裔为主 vs 欧裔为主）中安静的不同命运
+- **个人经验作为分析工具**（Ch1, Ch9）：Li 的德国学习经历、中国教师工作坊——不作为权威证据，而作为生成分析性洞察的起点
+
+> [!note]
+> 核心方法论立场：emic（主位/局内人视角）优先——让每种文化成员用自己的语言定义"学习"，而非以西方心理学框架去"测量"其他文化（Li, 2012, pp.87-88）。
 
 ---
 
