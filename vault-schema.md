@@ -338,15 +338,16 @@ python3 scripts/source_record.py finalize \
 3. 判断来源类型：期刊论文用 `article`，报告／政策文件／白皮书用 `report`。
 4. 使用 `source_record.py article` 或 `source_record.py report` 创建初始 source record，并将 PDF 固定到 `sources/`。
 5. 提取 `sources/<record-name>.pdf` 文本。
-6. 扫描文献，列出可提取条目：Concept / Theory / Fact / Person / Method / Argument。
+6. 扫描文献，列出可提取条目：Concept / Theory / Fact / Person / Method / Argument；同时判断文献是否属于实证研究。若属于实证研究，必须识别至少一种核心研究方法，并准备写入对应 Method 条目的 `## 使用此方法的研究`。
 7. 读取 `wiki/index.json` 判断候选条目是否已存在；必要时搜索对应二级文件夹确认。
 8. 将候选分为待更新条目与待新建条目，并标注类型与目标二级文件夹。
 9. 更新已有条目：读取文件 → 判断插入位置 → 用 `str_replace` 精确整合。
 10. 新建条目：只读取对应模板 → 按模板写入对应二级文件夹。
-11. 创建或更新 Argument 页。Argument 页必须在 frontmatter 写入 `citation`，并在 `## 来源` 章节列出 source wikilink。
-12. 运行 `source_record.py finalize --argument <Argument路径> --rename`，根据 Argument 页回填 source record 的 citation，并在需要时重命名 source record 与 PDF。
-13. 自动运行 `python3 scripts/wiki_index.py` 重建索引。
-14. 询问用户是否继续运行标准脚本流程。
+11. 对实证研究，更新或新建至少一个 Method 条目，在 `## 使用此方法的研究` 中加入一条方法案例，并链接到当前 Argument 页。
+12. 创建或更新 Argument 页。Argument 页必须在 frontmatter 写入 `citation`，并在 `## 来源` 章节列出 source wikilink。
+13. 运行 `source_record.py finalize --argument <Argument路径> --rename`，根据 Argument 页回填 source record 的 citation，并在需要时重命名 source record 与 PDF。
+14. 自动运行 `python3 scripts/wiki_index.py` 重建索引。
+15. 询问用户是否继续运行标准脚本流程。
 
 ### Argument 页与 Source Record 的分工
 
@@ -468,7 +469,13 @@ Argument 引用规则：
 
 ### Method
 
-论文提供以下任一信息时，可建 Method 条目：研究设计、数据收集或分析方式、方法选择的理由、认识论立场、操作步骤、适用场景或局限。方法只被命名但无介绍时，只记录在 Argument 的研究方法中，不单独建条目。
+论文提供以下任一信息时，可建 Method 条目：研究设计、数据收集或分析方式、方法选择的理由、认识论立场、操作步骤、适用场景或局限。方法只被命名但无介绍时，不因其定义新建或扩写 Method 条目，但实证研究仍需按下面规则记录方法案例。
+
+除思辨类、评论类、理论建构类和概念辨析类文献外，所有实证研究都必须至少记录一条方法案例。量化、质性和混合方法研究都适用。
+
+处理实证研究时，AI 必须识别至少一种核心研究方法，并更新对应 Method 条目的 `## 使用此方法的研究` 章节。若对应 Method 条目不存在，则新建 Method 条目。方法案例只写一句话，并链接到当前 Argument 页。
+
+方法案例只说明该研究如何使用方法，不展开文献摘要。若文献只命名方法但没有提供方法论说明，仍可作为案例记录；但不据此扩展方法定义、研究程序或局限性。
 
 ### Person
 

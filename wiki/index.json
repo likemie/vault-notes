@@ -501,6 +501,17 @@
     ]
   },
   {
+    "title": "Transfer Translation Transformation",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Transfer Translation Transformation.md",
+    "aliases": [
+      "转移转译转化",
+      "3T 框架",
+      "3T framework",
+      "Cowen 3T"
+    ]
+  },
+  {
     "title": "Transitology",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Transitology.md",
@@ -3628,7 +3639,7 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Matching.md",
     "aliases": [
-      "匹配"
+      "匹配法"
     ]
   },
   {
@@ -3960,6 +3971,16 @@
     "path": "wiki/persons/china/Qian Mu.md",
     "aliases": [
       "钱穆"
+    ]
+  },
+  {
+    "title": "Tao Xingzhi",
+    "type": "person",
+    "path": "wiki/persons/china/Tao Xingzhi.md",
+    "aliases": [
+      "陶行知",
+      "Tao Zhixing",
+      "陶知行"
     ]
   },
   {
@@ -4559,6 +4580,16 @@
     ]
   },
   {
+    "title": "John Dewey",
+    "type": "person",
+    "path": "wiki/persons/us/John Dewey.md",
+    "aliases": [
+      "约翰·杜威",
+      "杜威",
+      "Dewey"
+    ]
+  },
+  {
     "title": "Amelia Peterson",
     "type": "person",
     "path": "wiki/persons/us/Amelia Peterson.md",
@@ -4878,12 +4909,33 @@
     ]
   },
   {
+    "title": "New Education Movement",
+    "type": "fact",
+    "path": "wiki/facts/china/New Education Movement.md",
+    "aliases": [
+      "新教育运动",
+      "xinjiaoyu yundong",
+      "The New Education"
+    ]
+  },
+  {
     "title": "Thousand Talents Program",
     "type": "fact",
     "path": "wiki/facts/china/Thousand Talents Program.md",
     "aliases": [
       "千人计划",
       "Thousand Talents Plan"
+    ]
+  },
+  {
+    "title": "1922 Educational System Reform",
+    "type": "fact",
+    "path": "wiki/facts/china/1922 Educational System Reform.md",
+    "aliases": [
+      "1922年学制改革",
+      "壬戌学制",
+      "1922 educational system",
+      "1922 school system reform"
     ]
   },
   {
@@ -6181,6 +6233,11 @@
     "title": "Argument_Yu_2024_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Yu_2024_CE.md"
+  },
+  {
+    "title": "Argument_Zhou_2024_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Zhou_2024_CE.md"
   },
   {
     "title": "Argument_Johnson_2023_CE",
