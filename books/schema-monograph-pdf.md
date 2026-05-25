@@ -24,6 +24,8 @@ books/
   作者姓_年份_出版社/
     BookName.pdf
     作者姓_年份_出版社.md
+    figures/
+      argument-structure.svg
 
 wiki/arguments/books/<book-folder>/
   Argument_作者姓_年份_出版社.md
