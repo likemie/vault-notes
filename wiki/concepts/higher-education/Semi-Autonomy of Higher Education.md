@@ -14,6 +14,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Hegemony]]"
+  - "[[The Great Learning]]"
   - "[[Methodological Globalism]]"
   - "[[Double Spatiality of Universities]]"
   - "[[Scale in Higher Education]]"

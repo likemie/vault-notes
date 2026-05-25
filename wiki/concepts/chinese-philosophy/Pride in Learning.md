@@ -20,13 +20,15 @@ related_concepts:
   - "[[Western Learner]]"
   - "[[Tongxue]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[MCC Discourse Analysis Examples]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23

@@ -22,6 +22,7 @@ related_concepts:
   - "[[Tongxue]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Wolfgang Klafki]]"

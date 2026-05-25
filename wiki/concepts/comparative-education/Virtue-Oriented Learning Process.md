@@ -17,15 +17,27 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Familiarization]]"
   - "[[Refined Mastery]]"
+  - "[[Chinese Learner]]"
+  - "[[Western Learner]]"
   - "[[Ideal Learner]]"
+  - "[[The Great Learning]]"
+  - "[[Pride in Learning]]"
+  - "[[Sage]]"
+  - "[[Tongxue]]"
   - "[[Mind-Oriented Learning Process]]"
   - "[[Rote Learning vs Understanding]]"
   - "[[Junzi]]"
   - "[[Heart and Mind for Wanting to Learn]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Confucian Learning Tradition]]"
+  - "[[Cultural Models]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Xunzi]]"
+  - "[[Confucius]]"
+  - "[[Zhuangzi]]"
+  - "[[Mencius]]"
 related_facts: []
 related_arguments: []
 sources: []

@@ -12,6 +12,7 @@ tags:
 - region/new-zealand
 - level/k12
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Educational Management Organisation]]"
 related_theories: []
 related_methods: []

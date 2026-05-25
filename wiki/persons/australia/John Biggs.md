@@ -13,15 +13,18 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[Feedback]]"
   - "[[Surface and Deep Learning]]"
+  - "[[The Great Learning]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Radical Constructivism]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
+  - "[[David Watkins]]"
 related_arguments: []
 sources:
   - "[[Hattie_2015_SOTLP]]"
@@ -36,7 +39,7 @@ updated: '2026-05-23'
 ## 简介
 
 > [!info] 简介
-> John Biggs，澳大利亚教育心理学家，以"[[Constructive Alignment|建构性对齐]]"（Constructive Alignment）和 SOLO 分类法（Structure of Observed Learning Outcomes）闻名。Rømer (2018) 将其定位为 1990 年代[[Radical Constructivism|激进建构主义]]运动的一部分。
+> John Biggs，澳大利亚教育心[[Neo-Confucianism|理学]]家，以"[[Constructive Alignment|建构性对齐]]"（Constructive Alignment）和 SOLO 分类法（Structure of Observed Learning Outcomes）闻名。Rømer (2018) 将其定位为 1990 年代[[Radical Constructivism|激进建构主义]]运动的一部分。
 
 ## 生平与职涯
 
@@ -63,8 +66,8 @@ updated: '2026-05-23'
 
 > [!success] 主要贡献
 > - SOLO 分类法（Structure of Observed Learning Outcomes）：区分学习质量的五个层次
-> - [[Constructive Alignment|建构性对齐]]：广泛影响大学课程设计的核心原则，被 [[John Hattie|Hattie]] 的 VL 框架采纳为关键实施要素
-> - **[[Paradox of the Chinese Learner|中国学习者悖论]]研究**：与 David Watkins 合编《The [[Chinese Learner]]》（1996）和《Teaching the Chinese Learner》（2001），提出 [[Confucian Heritage Cultures|儒家文化圈]]（CHC） 分类框架，将 [[Paradox of the Chinese Learner|中国学习者悖论]] 系统化为国际研究议程。Li（2012, pp.82-89）将这两部著作定位为该领域的奠基性文本，并综述了其后十余年的研究进展
+> - [[Constructive Alignment|建构性对齐]]：广泛影响[[The Great Learning|大学]]课程设计的核心原则，被 [[John Hattie|Hattie]] 的 VL 框架采纳为关键实施要素
+> - **[[Paradox of the Chinese Learner|中国学习者悖论]]研究**：与 [[David Watkins]] 合编《The [[Chinese Learner]]》（1996）和《Teaching the Chinese Learner》（2001），提出 [[Confucian Heritage Cultures|儒家文化圈]]（CHC） 分类框架，将 [[Paradox of the Chinese Learner|中国学习者悖论]] 系统化为国际研究议程。Li（2012, pp.82-89）将这两部著作定位为该领域的奠基性文本，并综述了其后十余年的研究进展
 
 ## 思想发展与影响
 

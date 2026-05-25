@@ -13,8 +13,10 @@ tags:
   - paradigm/critical
   - region/france
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Champ]]"
+  - "[[The Shock of the Elite]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Self-Authorship]]"
   - "[[Cultural Barrier in Higher Education]]"
@@ -26,12 +28,13 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Constructivist Grounded Theory]]"
 related_persons:
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
   - "[[Marcia Baxter Magolda]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-08

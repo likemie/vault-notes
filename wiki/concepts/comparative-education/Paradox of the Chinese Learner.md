@@ -24,6 +24,7 @@ related_theories:
   - "[[Cultural Models]]"
 related_methods: []
 related_persons:
+  - "[[David Watkins]]"
   - "[[John Biggs]]"
 related_facts:
   - "[[PISA]]"

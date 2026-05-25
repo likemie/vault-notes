@@ -13,6 +13,7 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Habitus]]"
   - "[[Champ]]"
@@ -26,11 +27,12 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources:
+  - "[[郑_2023_上海三联书店]]"
   - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft

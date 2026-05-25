@@ -9,6 +9,7 @@ tags:
 - level/higher-ed
 - region/global
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Methodological Nationalism]]"
   - "[[Space-Making in Higher Education]]"
   - "[[Geopolitics of Knowledge]]"

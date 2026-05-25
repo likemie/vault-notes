@@ -16,6 +16,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[The Great Learning]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods: []
@@ -23,6 +24,7 @@ related_persons:
   - "[[Robert Slavin]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[What Works Clearinghouse]]"
 related_arguments: []
 sources:
   - "[[Slavin_2021_ROE]]"

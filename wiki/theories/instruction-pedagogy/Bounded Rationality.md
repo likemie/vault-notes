@@ -14,6 +14,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons:
@@ -56,7 +57,7 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究范式
-> - 认识论立场：认知心理学与组织理论交叉——拒绝完全理性假设，但保留理性作为分析框架
+> - 认识论立场：认知心[[Neo-Confucianism|理学]]与组织理论交叉——拒绝完全理性假设，但保留理性作为分析框架
 > - 与教育学的关系：Qvortrup (2019) 将有限的理性与 Luhmann & Schorr 的"技术赤字"概念并置，共同构成[[Professional Judgment|专业判断]]的理论基础
 
 ## 争议与批评

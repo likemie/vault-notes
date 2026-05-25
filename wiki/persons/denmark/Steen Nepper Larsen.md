@@ -10,8 +10,10 @@ tags:
 - paradigm/critical
 - region/denmark
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
+  - "[[Learnification]]"
   - "[[Neuroplasticity]]"
   - "[[Bildung]]"
   - "[[Effect Size]]"
@@ -39,13 +41,13 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Steen Nepper Larsen 是丹麦奥胡斯大学（Aarhus University）丹麦教育学院（Danish School of Education）的教育哲学学者，以对 [[John Hattie]] 的 [[Visible Learning]] 范式的哲学批判著称。其研究横跨哲学、社会学、教育学、概念史和神经科学批判，代表当代欧洲教育哲学中对[[Evidence-Based Education|证据本位教育]]运动的批判性声音（Larsen, 2019）。
+> Steen Nepper Larsen 是丹麦奥胡斯[[The Great Learning|大学]]（Aarhus University）丹麦教育学院（Danish School of Education）的教育哲学学者，以对 [[John Hattie]] 的 [[Visible Learning]] 范式的哲学批判著称。其研究横跨哲学、社会学、教育学、概念史和神经科学批判，代表当代欧洲教育哲学中对[[Evidence-Based Education|证据本位教育]]运动的批判性声音（Larsen, 2019）。
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - 任职于奥胡斯大学丹麦教育学院（Danish School of Education, Aarhus University），位于哥本哈根
-> - 1965 年开始上学，亲身经历了丹麦教育从"indlæring"（注入式学习）话语到"læring"（学习）话语、再到当代 learnification 的历史变迁（Larsen, 2019, p.8）
+> - 任职于奥胡斯[[The Great Learning|大学]]丹麦教育学院（Danish School of Education, Aarhus University），位于哥本哈根
+> - 1965 年开始上学，亲身经历了丹麦教育从"indlæring"（注入式学习）话语到"læring"（学习）话语、再到当代 [[Learnification]] 的历史变迁（Larsen, 2019, p.8）
 > - 2018 年 10 月在哥本哈根与 [[John Hattie]] 进行公开对话，主题为"教育的目的"（The Purpose of Education）（Larsen, 2019, Ref.10）
 > - 2013 年在惠灵顿维多利亚大学发表关于[[Neuroplasticity|神经可塑性]]当代趣味与局限的分析（Larsen, 2019, Ref.24）
 > - 2015 年发表对 Hattie 证据信条的盲点分析（Larsen, 2019, Ref.3）
@@ -65,7 +67,7 @@ updated: '2026-05-19'
 > [!info] 核心思想
 > Larsen 的核心哲学立场是将教育定位于存在性现象而非可测量产品：
 >
-> > "The purpose of education is much more demanding and challenging than enhancing visible learning processes and results."（Larsen, 2019, p.10）
+> > "The purpose of education is much more demanding and challenging than enhancing [[Visible Learning]] processes and results."（Larsen, 2019, p.10）
 >
 > 其哲学批判围绕以下主线展开：
 >
@@ -88,7 +90,7 @@ updated: '2026-05-19'
 > - 深受 [[Niklas Luhmann]] 社会[[Luhmann's Systems Theory|系统理论]]影响，尤其是盲点、[[Structural Coupling|结构耦合]]和社会系统/心理系统区分等概念
 > - 借鉴 Thomas Fuchs 的身体[[Phenomenology|现象学]]和大脑生态学视角
 > - 继承德国 [[Bildung]] 传统（Humboldt, Herder, [[Immanuel Kant|Kant]], Hegel, Nietzsche 至批判理论和概念史）
-> - 与 [[Gert Biesta]] 共享对 learnification 的批判立场，但 Larsen 更侧重将 Bildung 作为建构性替代方案和具身化维度
+> - 与 [[Gert Biesta]] 共享对 [[Learnification]] 的批判立场，但 Larsen 更侧重将 Bildung 作为建构性替代方案和具身化维度
 
 ## 争议与批评
 

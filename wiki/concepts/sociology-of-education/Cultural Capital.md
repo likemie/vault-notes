@@ -14,6 +14,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Champ]]"
+  - "[[The Great Learning]]"
   - "[[Habitus]]"
   - "[[Bildung]]"
   - "[[Goal-Controlled Mode]]"
@@ -27,12 +28,13 @@ related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons:
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-08

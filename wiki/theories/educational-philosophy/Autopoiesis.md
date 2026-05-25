@@ -12,6 +12,7 @@ tags:
 - social-theory
 related_concepts:
   - "[[Multiplicity]]"
+  - "[[Sympoiesis]]"
   - "[[Humility in Learning]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
@@ -52,13 +53,13 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **sympoiesis 批评**：[[Donna Haraway]] 提出 sympoiesis（共同制造）作为替代概念，批评 autopoiesis 过度强调自我指涉性而忽视"与他人一起、[[Humility in Learning|谦逊]]地、response-able 地回应彼此需求"的维度。Haraway 强调 sympoiesis 与 autopoiesis 之间的差异并否定后者的自我指涉中心性，但 Amos 认为两种立场共同之处多于分歧（Amos, 2022, pp.62–63）
+> - **[[Sympoiesis]] 批评**：[[Donna Haraway]] 提出 sympoiesis（共同制造）作为替代概念，批评 autopoiesis 过度强调自我指涉性而忽视"与他人一起、[[Humility in Learning|谦逊]]地、response-able 地回应彼此需求"的维度。Haraway 强调 sympoiesis 与 autopoiesis 之间的差异并否定后者的自我指涉中心性，但 Amos 认为两种立场共同之处多于分歧（Amos, 2022, pp.62–63）
 >
 
 ## 相关研究
 
 > [!example] [[Observational and Correlational Research|相关研究]]
-> - [[Argument_Amos_2022_Springer]] — Amos 以 autopoiesis/sympoiesis 的对照作为晚期现代性教育愿景的分析资源
+> - [[Argument_Amos_2022_Springer]] — Amos 以 autopoiesis/[[Sympoiesis]] 的对照作为晚期现代性教育愿景的分析资源
 >
 
 ## 应用领域

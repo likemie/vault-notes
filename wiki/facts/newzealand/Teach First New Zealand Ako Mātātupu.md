@@ -13,7 +13,8 @@ tags:
 - subject/curriculum
 - region/new-zealand
 - education-policy
-related_concepts: []
+related_concepts:
+  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

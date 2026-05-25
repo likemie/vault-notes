@@ -20,8 +20,7 @@ related_concepts:
   - "[[Knowledge Production]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[wiki-Pierre Bourdieu]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:

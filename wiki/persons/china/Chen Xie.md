@@ -12,6 +12,7 @@ tags:
 - evidence-based-reform
 - educational-technology
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
@@ -30,7 +31,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 谢晨（Chen Xie），华东师范大学国际与比较教育研究所（Institute of International and Comparative Education, East China Normal University）研究员。研究方向为[[Evidence-Based Education|证据本位教育]]改革、教育技术与数学学业成就的比较研究（Cheung & Xie, 2021, p.1）。
+> 谢晨（Chen Xie），华东师范[[The Great Learning|大学]]国际与比较教育研究所（Institute of International and Comparative Education, East China Normal University）研究员。研究方向为[[Evidence-Based Education|证据本位教育]]改革、教育技术与数学学业成就的比较研究（Cheung & Xie, 2021, p.1）。
 
 ## 核心思想
 
@@ -46,7 +47,7 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Cheung, A. C. K., & Xie, C. (2021). Evidence-based reform in education: Global perspectives [Editorial]. *ECNU Review of Education, 4*(1), 3–6. — 特刊导言，以 Slavin et al. (2020) 四项核心活动框架组织八篇文章
+> - Cheung, A. C. K., & Xie, C. (2021). [[Evidence-Based Reform]] in education: Global perspectives [Editorial]. *ECNU Review of Education, 4*(1), 3–6. — 特刊导言，以 Slavin et al. (2020) 四项核心活动框架组织八篇文章
 > - Xie, C. (2020). What can China learn from evidence-based educational reform? A comparative review of educational technology programs' effects on mathematics achievement. *ECNU Review of Education, 4*(1), 65–83. — 中美教育技术实验研究的系统比较
 
 ## 思想发展与影响

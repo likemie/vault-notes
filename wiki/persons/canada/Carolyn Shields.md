@@ -17,7 +17,8 @@ related_methods: []
 related_persons:
   - "[[Helen Gunter]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Møller_2017_EERJ]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -48,7 +49,7 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Shields, C. M. (2010). Transformative leadership: Working for equity in diverse contexts. *Educational Administration Quarterly*, *46*(4), 558–589. — 系统阐述[[Transformative Leadership|变革型领导力]]框架的核心论文
+> - Shields, C. M. (2010). [[Transformative Leadership]]: Working for equity in diverse contexts. *Educational Administration Quarterly*, *46*(4), 558–589. — 系统阐述[[Transformative Leadership|变革型领导力]]框架的核心论文
 > - Shields, C. M. (ed.) (2011). *Transformative Leadership: A Reader*. New York: Peter Lang. — 变革型领导力论文合集
 > - Shields, C. M. (2015, September). *A critical examination of some tensions in educational leadership: Can a rigorous [[Champ|field]] of study address issues of social justice?* Paper presented at ECER, Budapest. — 对教育领导力领域中社会正义与学术严谨性之间张力的批判性审视
 
@@ -61,4 +62,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- Møller_2017_EERJ
+- [[Møller_2017_EERJ]]

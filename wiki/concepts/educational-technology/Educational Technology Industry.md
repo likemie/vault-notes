@@ -13,11 +13,13 @@ tags:
 - higher-ed
 - region/global
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Learning Analytics]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Sputnik Shock 1957]]"
   - "[[Regional University Alliances]]"
 related_arguments: []
 sources:

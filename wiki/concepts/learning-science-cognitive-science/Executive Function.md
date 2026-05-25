@@ -13,9 +13,11 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Cognitive Shifting]]"
   - "[[Feedback]]"
+  - "[[Cognitive Inhibition]]"
   - "[[Updating and Monitoring]]"
   - "[[Prefrontal Cortex]]"
-related_theories: []
+related_theories:
+  - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

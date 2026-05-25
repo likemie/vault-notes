@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Further Education]]"
   - "[[Corporate University]]"
+  - "[[The Great Learning]]"
   - "[[Varieties of Capitalism]]"
 related_theories:
   - "[[Cultural Political Economy]]"

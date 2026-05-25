@@ -19,7 +19,8 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Classroom Learning Culture]]"
   - "[[Learning-Impeding Behavior]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"
@@ -43,7 +44,7 @@ updated: 2026-05-18
 ## 定义
 
 > [!info] 定义
-> 观察/相关研究（Observational/Correlational Research）是不操纵自变量、以量化数据分析变量关系的[[Non-intervention Research|非干预研究]]设计。Brady et al. (2023) 在编码 2020 年教育心理学期刊文章时，将"未操纵自变量且包含量化数据"的研究归入此类；他们把"没有操纵自变量"视为 ex post facto 观察/相关设计的标志（Brady et al., 2023, pp.3-4）。
+> 观察/相关研究（Observational/Correlational Research）是不操纵自变量、以量化数据分析变量关系的[[Non-intervention Research|非干预研究]]设计。Brady et al. (2023) 在编码 2020 年教育心[[Neo-Confucianism|理学]]期刊文章时，将"未操纵自变量且包含量化数据"的研究归入此类；他们把"没有操纵自变量"视为 ex post facto 观察/相关设计的标志（Brady et al., 2023, pp.3-4）。
 
 ## 认识论立场
 
@@ -63,14 +64,14 @@ updated: 2026-05-18
 > [!success] 适用场景
 > - 用于研究早期阶段，帮助理解研究情境、识别重要变量和可能的因果关系（Brady et al., 2023, p.2）。
 > - 当研究者关注大规模既有数据、无法或尚未操纵变量时，观察/相关研究可以提供描述性和探索性证据（Brady et al., 2023, pp.3, 8）。
-> - 当目标是生成干预假设而非直接宣称干预有效时，该方法与教育心理学"从探索到干预"的研究序列相容（Brady et al., 2023, p.2）。
+> - 当目标是生成干预假设而非直接宣称干预有效时，该方法与教育心[[Neo-Confucianism|理学]]"从探索到干预"的研究序列相容（Brady et al., 2023, p.2）。
 
 ## 局限性
 
 > [!warning] 局限性
 > - **不能单独支持强因果建议**：没有变量操纵意味着研究无法证明改变一个变量会导致另一个变量改善；因此基于观察/相关结果提出明确[[Recommendations for Practice|实践建议]]会超出证据边界（Brady et al., 2023, p.3）。
 > - **容易被统计建模语言"挤压"出因果性**：Brady et al. (2023) 指出，相关研究中建模方法的广泛使用可能使论文更常使用带有因果暗示的术语，并进而给出 RFP（Brady et al., 2023, p.9）。
-> - **实践建议增长**：2020 年五本教育心理学经验期刊中，66% 的观察/相关文章包含 RFP，高于 2000 年的 41% 和 2010 年的 46%；这说明方法限制与实践建议之间的张力正在扩大（Brady et al., 2023, pp.6-7）。
+> - **实践建议增长**：2020 年五本教育心[[Neo-Confucianism|理学]]经验期刊中，66% 的观察/相关文章包含 RFP，高于 2000 年的 41% 和 2010 年的 46%；这说明方法限制与实践建议之间的张力正在扩大（Brady et al., 2023, pp.6-7）。
 
 ## 相关理论
 
@@ -89,7 +90,7 @@ updated: 2026-05-18
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Brady_2023_EPR]] — 将观察/相关研究作为五类方法之一进行期刊趋势编码，发现其在 2020 年仍占五本教育心理学经验期刊文章的 46%，且其中 66% 包含[[Recommendations for Practice|实践建议]]（Brady et al., 2023, pp.6-7）。
+> - [[Argument_Brady_2023_EPR]] — 将观察/相关研究作为五类方法之一进行期刊趋势编码，发现其在 2020 年仍占五本教育心[[Neo-Confucianism|理学]]经验期刊文章的 46%，且其中 66% 包含[[Recommendations for Practice|实践建议]]（Brady et al., 2023, pp.6-7）。
 > - [[Argument_Lekhal_2015_Paideia]] — 挪威 48 校 4128 名学生双信息源数据研究，结合方差分析与分性别分层多元回归，检验在校态度、行为与关系变量对学业性别差异的解释路径（Lekhal et al., 2015, pp.79-83）。
 > - [[Student-Teacher Relationship]] — 作为学生自评关系变量进入性别差异模型，展示"测量来源差异"对关系变量解释力的影响（Lekhal et al., 2015, pp.82, 85）。
 > - [[Classroom Learning Culture]] — 作为学生自评班级环境变量进入模型，显示在该样本中性别差异不显著（Lekhal et al., 2015, p.82）。

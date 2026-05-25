@@ -4,8 +4,12 @@ aliases: ["浮士德", "浮士德式交易", "Faustian bargain", "Faustian spiri
 summary: "西方学习传统的核心文化隐喻_以不惜代价追求知识与掌控为特征_与东亚修身传统形成根本对比"
 type: concept
 tags: ["region/western", "theme/learning", "theme/cultural-metaphor"]
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[The Great Learning]]"
+  - "[[Tongxue]]"
+related_theories:
+  - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons: []
 related_facts: []

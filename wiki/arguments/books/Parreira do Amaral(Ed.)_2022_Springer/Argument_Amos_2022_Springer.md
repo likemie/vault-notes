@@ -45,7 +45,6 @@ related_persons:
   - "[[Arturo Escobar]]"
   - "[[Humberto Maturana]]"
   - "[[Francisco Varela]]"
-  - "[[wiki-Pierre Bourdieu]]"
 related_facts:
   - "[[Grammar School]]"
   - "[[Sputnik Shock 1957]]"

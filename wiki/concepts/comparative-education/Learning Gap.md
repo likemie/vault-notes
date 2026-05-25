@@ -24,10 +24,12 @@ related_theories:
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Stevenson and Stigler]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: '2026-05-22'

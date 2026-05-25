@@ -19,10 +19,11 @@ related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Max Weber]]"
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: low
 status: draft
 created: 2026-05-08
@@ -73,9 +74,9 @@ updated: 2026-05-18
 
 > [!example] 相关理论
 > - [[Culture as Toolkit]] — Swidler（1986）的工具箱理论提供了与 RAT 对话的文化社会学替代范式：文化作为工具被使用以达到预定目的，但"预定目的是从何而来的"这一问题则指向价值观驱动的文化范式（[[Yajun Zheng|郑雅君]]，2023）
-> - [[wiki-Pierre Bourdieu]] — Hodkinson & Sparkes（1997）以布迪厄的[[Habitus|习性]]与[[Champ|场域]]理论修正 RAT，承认理性选择的实用主义性质同时揭示其受结构性条件制约
+> - wiki-[[Pierre Bourdieu]] — Hodkinson & Sparkes（1997）以布迪厄的[[Habitus|习性]]与[[Champ|场域]]理论修正 RAT，承认理性选择的实用主义性质同时揭示其受结构性条件制约
 >
 
 ## 来源
 
-- 郑_2023_上海三联书店
+- [[郑_2023_上海三联书店]]

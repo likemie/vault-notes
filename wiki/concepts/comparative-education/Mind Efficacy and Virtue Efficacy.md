@@ -14,17 +14,20 @@ tags:
   - field/comparative-education
   - field/cultural-psychology
 related_concepts:
-  - "[[Cognitive Source]]"
   - "[[Learning Virtues]]"
+  - "[[Humility in Learning]]"
+  - "[[Cognitive Source]]"
   - "[[Chinese Learner]]"
   - "[[Western Learner]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Pride in Learning]]"
-  - "[[Humility in Learning]]"
   - "[[Establishing One's Will]]"
-related_theories: []
-related_methods: []
-related_persons: []
+related_theories:
+  - "[[Attribution Theory]]"
+related_methods:
+  - "[[Mother-Child Conversation]]"
+related_persons:
+  - "[[Socrates]]"
 related_facts: []
 related_arguments: []
 sources:

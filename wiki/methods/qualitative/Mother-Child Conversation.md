@@ -20,6 +20,7 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
   - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Cognitive Source]]"
   - "[[Benevolence]]"
   - "[[Confucian Tutoring Style]]"
@@ -32,7 +33,8 @@ related_persons:
   - "[[Socrates]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-24
@@ -212,7 +214,7 @@ Li 使用**胜算比**（odds ratio）计算某一组更可能遵循某条对话
 
 ### 理论基础
 
-**认知社会化的理论锚点**：Vygotsky 学派的**认知支架**（cognitive scaffolding）——儿童不是在真空中自主获得技能的，而是通过来自社交世界的持续引导。家庭中的照料者是儿童学习文化性认知技能的首要引导者（Li, 2012）。
+**[[Parental Cognitive and Affective Socialization|认知社会化]]的理论锚点**：Vygotsky 学派的**认知支架**（cognitive scaffolding）——儿童不是在真空中自主获得技能的，而是通过来自社交世界的持续引导。家庭中的照料者是儿童学习文化性认知技能的首要引导者（Li, 2012）。
 
 **情感社会化的理论锚点**（Li, 2012）：
 - Frijda 的 [[Appraisal Theory|评估理论]]（appraisal theory）：情感反应依赖于对事件的认知评估，而评估标准来自文化定义的意义和重要性。同一件事，在一个文化中被评估为"侮辱"，在另一个文化中可能被评估为"友好的表示"。
@@ -308,7 +310,7 @@ Li 的话语分析还识别出第二种认知差异：**母亲如何向儿童解
 ## 相关理论
 
 > [!tip]
-> - [[Appraisal Theory]] — 话语分析中情感社会化的理论基础：情感反应依赖于对事件的认知评估，而评估标准来自文化定义的意义和重要性
+> - [[Appraisal Theory]] — 话语分析中[[Parental Cognitive and Affective Socialization|情感社会化]]的理论基础：情感反应依赖于对事件的认知评估，而评估标准来自文化定义的意义和重要性
 > - Vygotsky 认知支架理论 — 话语分析中认知社会化的理论基础：儿童通过社交世界的持续引导获得文化性认知技能
 
 ---
@@ -322,4 +324,4 @@ Li 的话语分析还识别出第二种认知差异：**母亲如何向儿童解
 
 ## 来源
 
-- Li_2012_Cambridge
+- [[Li_2012_Cambridge]]

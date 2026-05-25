@@ -17,6 +17,8 @@ tags:
 related_concepts:
   - "[[Sage]]"
   - "[[Self-Cultivation]]"
+  - "[[The Great Learning]]"
+  - "[[Four Sprouts]]"
   - "[[Benevolence]]"
   - "[[Rightness]]"
   - "[[Ritual Propriety]]"
@@ -24,14 +26,17 @@ related_concepts:
   - "[[Take the World Upon Oneself]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Confucius]]"
   - "[[Socrates]]"
   - "[[Zhu Xi]]"
+  - "[[Xunzi]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -61,7 +66,7 @@ updated: 2026-05-22
 ## 主要著作
 
 > [!abstract]
-> - 《孟子》（Mencius）— 被[[Zhu Xi|朱熹]]编入四书（与《大学》、《中庸》、《论语》并列），成为 1949 年以前每个中国学生和学者的必读书（Li, 2012, pp.43-44）
+> - 《孟子》（Mencius）— 被[[Zhu Xi|朱熹]]编入四书（与《[[The Great Learning|大学]]》、《中庸》、《论语》并列），成为 1949 年以前每个中国学生和学者的必读书（Li, 2012, pp.43-44）
 
 ---
 
@@ -76,13 +81,13 @@ updated: 2026-05-22
 
 ### 2. 四端说：道德发展的先天禀赋
 
-孟子识别出四种与生俱来的人类道德能力——"四端"（four germinations）（Li, 2012, pp.42-43）：
+孟子识别出四种与生俱来的人类道德能力——"[[Four Sprouts|四端]]"（four germinations）（Li, 2012, pp.42-43）：
 
 | 能力 | 导出德目 |
 |------|----------|
 | 恻隐之心（compassion for others' suffering） | → [[Benevolence]]（仁） |
 | 羞恶之心（ability to feel shame） | → [[Rightness]]（义） |
-| 辞让之心（courtesy and modesty） | → Propriety（[[Ritual Propriety|礼]]） |
+| 辞让之心（courtesy and modesty） | → [[Ritual Propriety|propriety]]（[[Ritual Propriety|礼]]） |
 | 是非之心（distinguishing right from wrong） | → Wisdom（智） |
 
 > [!quote]
@@ -111,7 +116,7 @@ updated: 2026-05-22
 > [!success]
 > - 孟子对性善论的论证，为儒家[[Self-Cultivation|修身]]传统提供了从[[Confucius|孔子]]那里缺失的哲学基础（Li, 2012, pp.42-43）
 > - "人人皆可为尧舜"的立场，使儒家道德理想从精英走向大众（Li, 2012, p.43）
-> - "自得之"（finding it in oneself）成为宋明理学家重新发现[[Confucian Learning Tradition|儒家学习传统]]的关键概念（Li, 2012, p.43）
+> - "自得之"（finding it in oneself）成为[[Neo-Confucianism|宋明理学]]家重新发现[[Confucian Learning Tradition|儒家学习传统]]的关键概念（Li, 2012, p.43）
 > - 作为独立思想者和批判声音的典范——"[[Take the World Upon Oneself|以天下为己任]]"——影响了后世无数中国知识分子（Li, 2012, pp.45-46）
 > - 与孔子一同被后世中国人尊为[[Sage|圣人]]（Li, 2012, p.42）
 
@@ -120,10 +125,10 @@ updated: 2026-05-22
 ## 争议与批评
 
 > [!warning]
-> - 孟子的"性善论"在后世儒学中引发持续争论——荀子（约 313-238 BCE）即持"性恶论"立场，认为道德需要通过外部教化而非内在发展来实现。这一辩论（性善 vs 性恶）构成中国哲学史上的核心分歧之一
+> - 孟子的"性善论"在后世儒学中引发持续争论——[[Xunzi|荀子]]（约 313-238 BCE）即持"性恶论"立场，认为道德需要通过外部教化而非内在发展来实现。这一辩论（性善 vs 性恶）构成中国哲学史上的核心分歧之一
 
 ---
 
 ## 来源
 
-- Li_2012_Cambridge
+- [[Li_2012_Cambridge]]

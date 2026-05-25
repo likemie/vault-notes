@@ -15,7 +15,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
 related_arguments: []
 sources:
   - "[[Ball_2008_SR]]"
@@ -48,7 +48,7 @@ updated: 2026-05-23
 > [!success] 影响
 > - Bernstein 为分析教育社会学的片段化、范式争论和理论语言竞争提供了概念工具（Ball, 2008, p.651）。
 > - Bernstein 的工作在国内外特定教育研究群体中持续产生影响；自 1980 年代初以后，其教育研究围绕若干地点和关键学者继续发展（Ball, 2008, p.661）。
-> - Bernstein 曾与 [[wiki-Pierre Bourdieu]] 进行富有成果的思想交流；二者都受到 Durkheim 传统影响，Bourdieu 对英国教育社会学的影响则更普遍但较为间接（Ball, 2008, p.661）。
+> - Bernstein 曾与 wiki-[[Pierre Bourdieu]] 进行富有成果的思想交流；二者都受到 Durkheim 传统影响，Bourdieu 对英国教育社会学的影响则更普遍但较为间接（Ball, 2008, p.661）。
 
 ## 争议与批评
 

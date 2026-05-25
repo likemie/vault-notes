@@ -21,6 +21,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
+  - "[[The Great Learning]]"
   - "[[Feedback]]"
   - "[[Governmentality]]"
   - "[[Competitiveness in Higher Education]]"
@@ -28,6 +29,7 @@ related_concepts:
   - "[[Promising Student]]"
 related_theories:
   - "[[Societies of Control]]"
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Matching]]"
 related_persons: []

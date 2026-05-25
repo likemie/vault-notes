@@ -16,6 +16,7 @@ tags:
 - subject/curriculum
 related_concepts:
   - "[[International Schools]]"
+  - "[[The Great Learning]]"
   - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []

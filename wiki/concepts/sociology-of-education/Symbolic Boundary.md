@@ -10,6 +10,7 @@ tags:
 - moral-judgment
 - paradigm/interpretivist
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Habitus]]"
@@ -23,6 +24,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
+  - "[[郑_2023_上海三联书店]]"
   - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft

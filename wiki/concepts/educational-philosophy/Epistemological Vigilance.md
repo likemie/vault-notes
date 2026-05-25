@@ -12,10 +12,12 @@ tags:
 related_concepts:
   - "[[Effective Teaching]]"
   - "[[Epistemological Break]]"
-related_theories: []
+  - "[[The Great Learning]]"
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources:

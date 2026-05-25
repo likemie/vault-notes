@@ -11,7 +11,8 @@ tags:
 - causal-inference
 related_concepts:
   - "[[Evidence-Based Education]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"

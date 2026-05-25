@@ -11,9 +11,11 @@ tags:
 - policy-borrowing
 - region/uk
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Kimberly Ochs]]"
@@ -29,19 +31,19 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> David Phillips 是牛津大学比较教育学教授，教育政策转移（educational policy transfer）研究领域的核心人物。他与 [[Kimberly Ochs]] 合作开发的[[Policy Borrowing|政策借用]]四阶段模型（Four Stages of Policy Borrowing）和[[Cross-National Attraction|跨国吸引]]力结构性类型学（Structural Typology of Cross-National Attraction）是该领域最具影响力的分析框架之一。
+> David Phillips 是牛津[[The Great Learning|大学]]比较教育学教授，教育政策转移（educational policy transfer）研究领域的核心人物。他与 [[Kimberly Ochs]] 合作开发的[[Policy Borrowing|政策借用]]四阶段模型（Four Stages of Policy Borrowing）和[[Cross-National Attraction|跨国吸引]]力结构性类型学（Structural Typology of Cross-National Attraction）是该领域最具影响力的分析框架之一。
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - 任职于牛津大学教育研究系（Department of Educational Studies, University of Oxford）
+> - 任职于牛津[[The Great Learning|大学]]教育研究系（Department of Educational Studies, University of Oxford）
 > - 专注于比较教育学、教育政策转移、德国教育研究
 
 ## 主要著作
 
 > [!abstract] 主要著作
 > - Phillips, D. (1987). Lessons from Germany? The case of German secondary schools. *British Journal of Educational Studies*, XXXV(3), 211–232. — 用德国中学体系的案例警示英国不要轻易借鉴
-> - Phillips, D. (1989). Neither a borrower nor a lender be? The problems of cross-national attraction in education. *Comparative Education*, 25(3), 267–274. — 早期对[[Cross-National Attraction|跨国吸引]]力概念的探索
+> - Phillips, D. (1989). Neither a borrower nor a lender be? The problems of [[Cross-National Attraction]] in education. *Comparative Education*, 25(3), 267–274. — 早期对[[Cross-National Attraction|跨国吸引]]力概念的探索
 > - Phillips, D. (1992). Borrowing educational policy. In D. Finegold, L. McFarland & W. Richardson (Eds.), *Something Borrowed, Something Learned?* — 对[[Policy Borrowing|政策借用]]现象的早期分析
 > - Phillips, D. (Ed.) (1995). *Education in Germany: tradition and reform in historical context*. London: Routledge. — 系统分析德国教育传统与改革
 > - Ochs, K. & Phillips, D. (2002). *Toward a Structural Typology of Cross-National Attraction in Education*. Lisbon: Educa. — 提出跨国吸引力的结构性类型学
@@ -53,9 +55,9 @@ updated: '2026-05-19'
 ## 核心思想
 
 > [!info] 核心思想
-> Phillips 的核心学术贡献在于将教育政策转移从松散的叙述性描述推进到系统性的理论分析。他承认情境在转移研究中至关重要，但同时认识到情境分析的高度复杂性。
+> Phillips 的核[[Neo-Confucianism|心学]]术贡献在于将教育政策转移从松散的叙述性描述推进到系统性的理论分析。他承认情境在转移研究中至关重要，但同时认识到情境分析的高度复杂性。
 >
-> > 关于情境的困难，Phillips & Ochs 写道："the complex matter of assessing the extent to which a policy observed elsewhere has been deliberately (purposefully) adopted and adapted to fit the home circumstances ... creates for us the task of disentangling the multifarious contextual elements that will impact on the 'borrowed' policy. This is the most difficult task which researchers interested in policy borrowing face." (Phillips & Ochs, 2004a, p. 782，引自 Rappleye, 2006, p. 226)
+> > 关于情境的困难，Phillips & Ochs 写道："the complex matter of assessing the extent to which a policy observed elsewhere has been deliberately (purposefully) adopted and adapted to fit the home circumstances ... creates for us the task of disentangling the multifarious contextual elements that will impact on the 'borrowed' policy. This is the most difficult task which researchers interested in [[Policy Borrowing]] face." (Phillips & Ochs, 2004a, p. 782，引自 Rappleye, 2006, p. 226)
 >
 > Phillips 对方法论模型持审慎态度，承认其局限：
 >

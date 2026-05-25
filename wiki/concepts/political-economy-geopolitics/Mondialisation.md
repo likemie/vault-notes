@@ -12,6 +12,7 @@ tags:
 - world-making
 - alternative-globalization
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Posthumanism]]"
 related_theories: []
 related_methods: []

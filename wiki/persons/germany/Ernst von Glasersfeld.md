@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Radical Constructivism]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
@@ -33,21 +34,21 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心理学家，[[Radical Constructivism|激进建构主义]]（Radical Constructivism）创始人。他将建构主义认识论从 Piaget 的认知发展理论推向哲学极端，以唯我论（solipsism）为出发点，主张所有知识都是个体主观建构。
+> Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心[[Neo-Confucianism|理学]]家，[[Radical Constructivism|激进建构主义]]（Radical Constructivism）创始人。他将建构主义认识论从 Piaget 的认知发展理论推向哲学极端，以唯我论（solipsism）为出发点，主张所有知识都是个体主观建构。
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
 > - 1917 出生于德国（具体地点待补充）
 > - 战后移居美国
-> - 长期从事认知心理学和语言学研究
+> - 长期从事认知心[[Neo-Confucianism|理学]]和语言学研究
 > - 1995 出版代表作 *[[Radical Constructivism]]: A Way of Knowing and Learning*
 > - 2010 逝世
 
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Glasersfeld, E. von (1995). *Radical constructivism: A way of knowing and learning*. New York, NY: The Falmer Press. — [[Radical Constructivism|激进建构主义]]的系统哲学陈述
+> - Glasersfeld, E. von (1995). *[[Radical Constructivism]]: A way of knowing and learning*. New York, NY: The Falmer Press. — [[Radical Constructivism|激进建构主义]]的系统哲学陈述
 
 ## 核心思想
 

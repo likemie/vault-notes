@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
+  - "[[The Great Learning]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
@@ -37,7 +38,7 @@ updated: '2026-05-19'
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - 任职于 Teachers College, Columbia University（哥伦比亚大学教师学院）
+> - 任职于 Teachers College, Columbia University（哥伦比亚[[The Great Learning|大学]]教师学院）
 > - 曾在德国教育研究协会发表社会网络分析与创新扩散研究（2004）
 > - 主编 *World Yearbook of Education 2012*
 

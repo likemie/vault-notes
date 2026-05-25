@@ -10,10 +10,12 @@ tags:
 - level/higher-ed
 - region/global
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Global Universities Rankings]]"
   - "[[Internationalization of Higher Education]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Doreen Massey]]"

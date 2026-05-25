@@ -17,7 +17,8 @@ related_persons: []
 related_facts:
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ryan(Ed.)_2010_HKUP]]"
 confidence: medium
 status: draft
 created: '2026-05-16'

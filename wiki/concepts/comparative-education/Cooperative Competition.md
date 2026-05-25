@@ -13,11 +13,13 @@ tags:
   - region/east-asia
 related_concepts:
   - "[[Zero-Sum Competition]]"
+  - "[[Tongxue]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Learning Virtues]]"
-  - "[[Tongxue]]"
+  - "[[Humility in Learning]]"
   - "[[Peer-Supported Learning]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons: []
 related_facts: []

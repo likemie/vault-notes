@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[The Great Learning]]"
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Pride in Learning]]"
   - "[[Habitus]]"
@@ -25,11 +26,12 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-09

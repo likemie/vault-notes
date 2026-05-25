@@ -19,11 +19,12 @@ tags:
 - paradigm/critical
 - region/uk
 related_concepts:
+  - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
-  - "[[Effect Size]]"
   - "[[School Leadership]]"
   - "[[Feedback]]"
+  - "[[The Great Learning]]"
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Critical Realism]]"

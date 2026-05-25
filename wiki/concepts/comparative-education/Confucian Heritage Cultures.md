@@ -21,11 +21,13 @@ related_theories:
   - "[[Cultural Models]]"
 related_methods: []
 related_persons:
+  - "[[David Watkins]]"
   - "[[John Biggs]]"
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: '2026-05-22'

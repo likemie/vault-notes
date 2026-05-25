@@ -51,7 +51,7 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Zhao, Y. (2017). What works may hurt: Side effects in education. *Journal of Educational Change*. — 提出教育副作用框架，以[[Direct Instruction|直接教学]]、东亚教育体系、[[No Child Left Behind Act 2001|NCLB]] 三个案例论证效果与副作用的不可分离性
+> - Zhao, Y. (2017). What works may hurt: [[Side Effects in Education]]. *Journal of Educational Change*. — 提出教育副作用框架，以[[Direct Instruction|直接教学]]、东亚教育体系、[[No Child Left Behind Act 2001|NCLB]] 三个案例论证效果与副作用的不可分离性
 
 ## 来源
 

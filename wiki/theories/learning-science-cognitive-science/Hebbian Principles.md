@@ -48,7 +48,7 @@ updated: '2026-05-18'
 
 > [!success] 应用领域
 > - synaptic-pruning — [[Synaptic Pruning|突触修剪]]的直接理论基础，解释了哪些连接被保留、哪些被消除
-> - neuroplasticity — 经验依赖可塑性的核心机制，解释了学习如何在大脑中留下物理痕迹
+> - [[Neuroplasticity]] — 经验依赖可塑性的核心机制，解释了学习如何在大脑中留下物理痕迹
 
 ## 来源
 

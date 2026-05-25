@@ -13,7 +13,9 @@ related_concepts:
   - "[[Executive Function]]"
   - "[[Working Memory]]"
   - "[[Updating and Monitoring]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
+  - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
@@ -30,7 +32,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 认知心理学家，[[Executive Function|执行功能]]（EF）统一性与多样性框架（Unity and Diversity Framework）的提出者。是最早开发出综合性执行功能多维模型的研究者之一（Bolton & [[John Hattie|Hattie]], 2017, p.4）。
+> 认知心[[Neo-Confucianism|理学]]家，[[Executive Function|执行功能]]（EF）统一性与多样性框架（Unity and Diversity Framework）的提出者。是最早开发出综合性执行功能多维模型的研究者之一（Bolton & [[John Hattie|Hattie]], 2017, p.4）。
 
 ## 核心思想
 
@@ -46,7 +48,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - miyake-unity-diversity-framework — [[Executive Function|EF]] 的三成分统一性与多样性模型，成为执行功能研究的基础框架
+> - [[Miyake's Unity and Diversity Framework of Executive Function|miyake-unity-diversity-framework]] — [[Executive Function|EF]] 的三成分统一性与多样性模型，成为执行功能研究的基础框架
 > - 该框架被 Bolton & [[John Hattie|Hattie]] (2017) 用作将 EF 发展轨迹与[[Jean Piaget|皮亚杰]]阶段对齐的核心理论工具（Bolton & Hattie, 2017, p.4, 8–9）
 
 ## 思想发展与影响

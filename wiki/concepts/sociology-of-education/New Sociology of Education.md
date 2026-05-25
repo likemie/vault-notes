@@ -14,6 +14,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Political Arithmetic]]"
   - "[[School Effectiveness]]"
+  - "[[The Great Learning]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods: []

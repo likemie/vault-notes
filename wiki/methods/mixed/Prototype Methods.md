@@ -14,16 +14,20 @@ tags:
 - method/free-association
 - method/cultural-model
 related_concepts:
+  - "[[Emic and Etic]]"
   - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[The Great Learning]]"
   - "[[Ideal Learner]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22

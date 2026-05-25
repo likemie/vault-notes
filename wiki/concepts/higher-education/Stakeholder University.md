@@ -13,6 +13,7 @@ tags:
   - level/higher-ed
   - theme/neoliberalism
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Knowledge Production]]"
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"

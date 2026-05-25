@@ -10,12 +10,13 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Cult of the Guru]]"
+  - "[[The Great Learning]]"
   - "[[School Leadership]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Scott Eacott]]"
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
   - "[[John Hattie]]"
 related_facts: []
 related_arguments: []

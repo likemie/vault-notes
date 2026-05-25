@@ -25,6 +25,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[Champ]]"
   - "[[Geopolitical Subject]]"
+  - "[[The Great Learning]]"
   - "[[Governmentality]]"
   - "[[International Education Hubs]]"
   - "[[Narrative Knowledge]]"
@@ -48,6 +49,7 @@ related_concepts:
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Neo-Confucianism]]"
   - "[[Fixity-Motion Tension]]"
 related_methods:
   - "[[Matching]]"

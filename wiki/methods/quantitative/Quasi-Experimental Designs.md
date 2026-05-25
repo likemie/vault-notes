@@ -29,6 +29,7 @@ related_persons: []
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
 sources:
+  - "[[Ross_Morrison_2021_ROE]]"
   - "[[Wadhwa_2024_RER]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
@@ -86,5 +87,5 @@ updated: 2026-05-23
 
 ## 来源
 
-- Ross_Morrison_2021_ROE
+- [[Ross_Morrison_2021_ROE]]
 - [[Wadhwa_2024_RER]]

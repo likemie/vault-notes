@@ -14,6 +14,7 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[International Education]]"
+  - "[[The Great Learning]]"
   - "[[Performance Indicators]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Science and Technology Studies]]"
@@ -36,7 +37,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Norberto Bottani 是[[International Education|国际教育]]指标开发史上的关键人物。拥有瑞士弗里堡大学（University of Fribourg）哲学系教育硕士学位，自 1976 年起在 OECD 以多种职务任职（Gorur, 2014, p.5）。
+> Norberto Bottani 是[[International Education|国际教育]]指标开发史上的关键人物。拥有瑞士弗里堡[[The Great Learning|大学]]（University of Fribourg）哲学系教育硕士学位，自 1976 年起在 OECD 以多种职务任职（Gorur, 2014, p.5）。
 
 ## 核心思想
 

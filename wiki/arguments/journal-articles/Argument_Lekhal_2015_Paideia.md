@@ -25,7 +25,8 @@ related_concepts:
   - "[[Classroom Learning Culture]]"
   - "[[Academic Well-being and Interest in Learning]]"
   - "[[Effect Size]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons: []

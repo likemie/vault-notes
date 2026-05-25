@@ -7,7 +7,8 @@ tags: ["theme/global-education-governance", "theme/skills", "theme/employability
 related_concepts:
   - "[[Employability]]"
   - "[[Self-Entrepreneur]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Single-Case Design]]"
 related_persons: []

@@ -13,6 +13,7 @@ tags:
 - region/finland
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Champ]]"
   - "[[Epochal Key Problems]]"

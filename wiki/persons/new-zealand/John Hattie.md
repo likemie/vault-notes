@@ -14,11 +14,13 @@ tags:
 - region/new-zealand
 - region/australia
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[School Leadership]]"
   - "[[Feedback]]"
   - "[[Further Education]]"
+  - "[[Formative Assessment]]"
   - "[[Professional Judgment]]"
   - "[[Direct Instruction]]"
   - "[[Whole Language]]"
@@ -43,6 +45,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Structural Coupling]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Societies of Control]]"
   - "[[Appraisal Theory]]"
@@ -112,6 +115,8 @@ related_facts:
   - "[[Cognition Education]]"
   - "[[PISA]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
+  - "[[Hattie på dansk]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
 confidence: medium
@@ -123,7 +128,7 @@ updated: '2026-05-21'
 ## 简介
 
 > [!info] 简介
-> John Hattie 是新西兰教育统计学家，现任墨尔本大学教育研究所（Melbourne Graduate School of Education）教授。他以 2009 年出版的 *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement* 闻名全球，该书将 800 余项[[Meta-analysis|元分析]]综合为一份教学干预[[Effect Size|效应量]]排名，成为全球教育畅销书。Hattie 自我定位为"我是测量人员，我是统计学家，我不是理论家"（Knudsen, 2017, p.254, 259）。英国教育部在 Coldwell et al.（2017）报告中将 Hattie 的 Visible Learning 列为官方认可的"approved"证据来源之一（与 EEF 和 Sutton Trust 并列）（Bainbridge et al., 2022, p.4）。
+> John Hattie 是新西兰教育统计学家，现任墨尔本[[The Great Learning|大学]]教育研究所（Melbourne Graduate School of Education）教授。他以 2009 年出版的 *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement* 闻名全球，该书将 800 余项[[Meta-analysis|元分析]]综合为一份教学干预[[Effect Size|效应量]]排名，成为全球教育畅销书。Hattie 自我定位为"我是测量人员，我是统计学家，我不是理论家"（Knudsen, 2017, p.254, 259）。英国教育部在 Coldwell et al.（2017）报告中将 Hattie 的 Visible Learning 列为官方认可的"approved"证据来源之一（与 EEF 和 Sutton Trust 并列）（Bainbridge et al., 2022, p.4）。
 >
 > Visible Learning 已在至少 23 个国家被采用（Knudsen, 2017），Hattie 本人也因此成为教育界的国际名人，被澳大利亚广播公司电视系列片 *Revolution School*（2017）描绘为公共教育的拯救者（McKnight & Whitburn, 2020, p.32）。Hattie 同时担任澳大利亚教学与[[School Leadership|学校领导力]]研究院（AITSL）主席，其工作已深度嵌入澳大利亚教师和校长的国家专业标准、年度绩效评估和持续认证体系（Eacott, 2017, p.421）。
 >
@@ -133,8 +138,8 @@ updated: '2026-05-21'
 ## 生平与职涯
 
 > [!note-] 新西兰时期 (1998–2010)
-> - **1998** 年从美国返回新西兰，任奥克兰大学教育学教授兼教育学院院长（O'Neill et al., 2016, p.47）
-> - **1999/2000** 年通过 Auckland Uniservices Ltd 受教育部合同领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的教师管理型国家课程测试系统，用于形成性评估，任项目主任（O'Neill et al., 2016, p.47）
+> - **1998** 年从美国返回新西兰，任奥克兰[[The Great Learning|大学]]教育学教授兼教育学院院长（O'Neill et al., 2016, p.47）
+> - **1999/2000** 年通过 Auckland Uniservices Ltd 受教育部合同领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的教师管理型国家课程测试系统，用于[[Formative Assessment|形成性评估]]，任项目主任（O'Neill et al., 2016, p.47）
 > - **2000 年代中期** 教育部合同开发升级版在线系统 e-asTTle（O'Neill et al., 2016, p.47）
 > - **2006 年 4 月** Auckland Uniservices Ltd 在新西兰注册 [[Visible Learning]] 商标（后于 2008 年"放弃"），并创建 Visible Learning Labs，Hattie 任主任，为 e-asTTle 使用提供支持和专业发展（O'Neill et al., 2016, p.47）
 > - **2006 年** 成为 [[Cognition Education|Multi Serve Education Trust]] Board 董事（O'Neill et al., 2016, p.48）
@@ -162,8 +167,8 @@ updated: '2026-05-21'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Hattie, J. (2009). *Visible learning: A synthesis of over 800 meta-analyses relating to achievement*. Routledge. — 奠基性著作，以[[Effect Size|效应量]]排名 150+ 教学干预
-> - Hattie, J., & Yates, G. (2014). *Visible learning and the science of how we learn*. Routledge. [丹麦语译本：*Synlig læring og læringens anatomi*, Dafolo, 2014.] — 与认知科学家 Yates 合作，从脑科学和认知心理学角度阐述九条学习原则
+> - Hattie, J. (2009). *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement*. Routledge. — 奠基性著作，以[[Effect Size|效应量]]排名 150+ 教学干预
+> - Hattie, J., & Yates, G. (2014). *Visible learning and the science of how we learn*. Routledge. [丹麦语译本：*Synlig læring og læringens anatomi*, Dafolo, 2014.] — 与认知科学家 Yates 合作，从脑科学和认知心[[Neo-Confucianism|理学]]角度阐述九条学习原则
 > - Hattie, J. (2015). Synlig læring i dag. *Paideia, 9*, 9-21. — 回顾 [[Visible Learning]] 的形成过程并回应效应量、研究质量和学习概念等批评，强调“Know thy impact”不是教学法清单而是评价性[[Professional Judgment|专业判断]]
 > - Hattie, J. (2015). The applicability of Visible Learning to higher education. *Scholarship of Teaching and Learning in Psychology, 1*(1), 79–91. — 将 VL 框架应用于高等教育，提出六项关键发现、DIE 模型和八项教师思维框架
 > - Fisher, D., Frey, N., & Hattie, J. (2016). *Visible learning for literacy: Implementing the practices that work best to accelerate student learning*. Corwin Press. — 将 VL 框架扩展至读写教学
@@ -206,15 +211,15 @@ updated: '2026-05-21'
 >
 > **斯堪的纳维亚的学校改进转译**：Nordahl (2015) 提供了一条与商业化品牌扩张不同的接受路径。这里的 Hattie 既不是单纯的[[Effect Size|效应量]]排行榜作者，也不是外部问责工具的代名词，而是被转译为“学校为何必须围绕学习结果重组改进工作”的论据来源。其关键影响不在推广某个单一方法，而在推动学校把 [[Professional Judgment]]、教师协作、[[Knowledge Mobilisation|知识动员]]与学习结果评估重新绑在一起（Nordahl, 2015, pp.61–69）。
 >
-> **2009 年新西兰媒体风暴**：Hattie (2010, pp.86–87) 自述 2009 年 1 月 *Sunday Star Times* 头版报道 VL 后引发的激烈反应——"很明显许多评论者并未读过这本书（有人甚至对此表示赞许）"。[[Class Size|班级规模]]必须缩减（尽管 Hattie 从未声称减班不提高成绩）、[[Performance Pay|绩效工资]]是邪恶的、按能力分班对教师更容易等抗议声不断——"轶事和战争故事比比皆是，仿佛每一项都是反事实"。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。
+> **2009 年新西兰媒体风暴**：Hattie (2010, pp.86–87) 自述 2009 年 1 月 *Sunday [[Tennessee STAR Project 1985-1989|STAR]] Times* 头版报道 VL 后引发的激烈反应——"很明显许多评论者并未读过这本书（有人甚至对此表示赞许）"。[[Class Size|班级规模]]必须缩减（尽管 Hattie 从未声称减班不提高成绩）、[[Performance Pay|绩效工资]]是邪恶的、按能力分班对教师更容易等抗议声不断——"轶事和战争故事比比皆是，仿佛每一项都是反事实"。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。
 >
-> **丹麦**：2014 年学校改革明确引用 VL 后，Hattie 被丹麦批评者从"教育英雄"转变为"教育敌人"。Fredens (2015) 书评以正面立场评述 Hattie & Yates (2014) 丹麦语译本（详见 [[Argument_Fredens_2015_Paideia]]）；Qvortrup (2015) 以支持者立场回应批评，同时承认学习结果概念需通过 [[Dynamic Knowledge and Learning Model]] 加以重建（详见 [[Argument_Qvortrup_2015_Paideia]]）；Laursen (2015) 认为 VL 核心综合在丹麦"总体上"适用（详见 [[Argument_Laursen_2015_Paideia]]）；随后丹麦语批评文集 *Hattie på dansk* (2017) 汇集多篇批评；Qvortrup (2019) 进一步辩护，将批评定性为意识形态驱动的解释社群现象（详见 [[Argument_Qvortrup_2019_NordSTEP]]）。丹麦争议的详细分析参见 [[Visible Learning#丹麦争议（2014–2019）]]。
+> **丹麦**：2014 年学校改革明确引用 VL 后，Hattie 被丹麦批评者从"教育英雄"转变为"教育敌人"。Fredens (2015) 书评以正面立场评述 Hattie & Yates (2014) 丹麦语译本（详见 [[Argument_Fredens_2015_Paideia]]）；Qvortrup (2015) 以支持者立场回应批评，同时承认学习结果概念需通过 [[Dynamic Knowledge and Learning Model]] 加以重建（详见 [[Argument_Qvortrup_2015_Paideia]]）；Laursen (2015) 认为 VL 核心综合在丹麦"总体上"适用（详见 [[Argument_Laursen_2015_Paideia]]）；随后丹麦语批评文集 *[[Hattie på dansk]]* (2017) 汇集多篇批评；Qvortrup (2019) 进一步辩护，将批评定性为意识形态驱动的解释社群现象（详见 [[Argument_Qvortrup_2019_NordSTEP]]）。丹麦争议的详细分析参见 [[Visible Learning#丹麦争议（2014–2019）]]。
 >
 > **俄罗斯**：2017 年 VL 俄文版出版后在俄罗斯学界获得热烈反响：Borisenko（2018）称其为"翻译教育文献出版领域的主要事件"；Vachkov & Vachkova（2018）呼吁使用[[Meta-analysis|元分析]]"检验教学创新的生产力"；Sokolova（2017）将 VL 与俄罗斯 FSES 标准联系起来（Golovchin, 2019, p.237）。然而 Golovchin（2019）基于方法论和文化分析建议俄罗斯教育政策不应采用 VL（详见 [[Argument_Golovchin_2019_ESC]]）。
 
 
 > [!note-] VL 品牌扩张与商业化
-> 从新西兰奥克兰大学起步，之后转到墨尔本大学，Visible Learning 从一本学术著作演变为覆盖出版、教师培训、学校认证、政策标准制定和衍生品牌的全球性商业—政策复合体（详见 [[Visible Learning Branding and Global Influences]]）。
+> 从新西兰奥克兰[[The Great Learning|大学]]起步，之后转到墨尔本大学，Visible Learning 从一本学术著作演变为覆盖出版、教师培训、学校认证、政策标准制定和衍生品牌的全球性商业—政策复合体（详见 [[Visible Learning Branding and Global Influences]]）。
 >
 > Hattie 本人已在某种程度上与其研究的某些运用方式保持距离，表示如果重新来过会避免"结果的暴政"（Hattie, in Knudsen, 2017，引自 McKnight & Whitburn, 2020, p.35），但 VL 作为一种与更广泛社会和政治力量纠缠的现象已不完全受其控制。
 >
@@ -263,7 +268,7 @@ updated: '2026-05-21'
 
 
 > [!warning] Grace 的介入 (2010)
-> 在 Hattie (2010) 和 Snook et al. (2010) 的论战之后，[[Gerald Grace]]——"[[Critic and Conscience of Society]]"概念的原作者和新西兰大学立法中该条款的推动者——在同一卷 NZJES（Vol. 45, No. 2）发表评论，质疑 Hattie 是否真正理解了该概念的含义（Grace, 2010, p.90）。
+> 在 Hattie (2010) 和 Snook et al. (2010) 的论战之后，[[Gerald Grace]]——"[[Critic and Conscience of Society]]"概念的原作者和新西兰[[The Great Learning|大学]]立法中该条款的推动者——在同一卷 NZJES（Vol. 45, No. 2）发表评论，质疑 Hattie 是否真正理解了该概念的含义（Grace, 2010, p.90）。
 >
 > Grace 的核心论点是：Hattie 混淆了两种不同的学术角色（Grace, 2010, p.90）：
 > - **学术领域的批评者**：在学科内部对研究质量和方法进行技术性批判——这属于正常学术工作范畴。Hattie 在 *Visible Learning* 中批评评估、教学和学习领域的现有研究质量，正属于这一角色

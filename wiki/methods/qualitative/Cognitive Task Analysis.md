@@ -11,6 +11,7 @@ tags:
 - paradigm/cognitivist
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []

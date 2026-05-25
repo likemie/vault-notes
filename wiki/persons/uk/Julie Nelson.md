@@ -61,7 +61,7 @@ updated: '2026-05-21'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Nelson, J., & [[Campbell Collaboration|Campbell]], C. (2017). *Evidence-informed practice in education_ meanings and applications*. Educational Research, 59(2), 127–135. — 系统整理 [[Evidence-Informed Practice|EIP]] 的含义与应用。
+> - Nelson, J., & [[Campbell Collaboration|Campbell]], C. (2017). *[[Evidence-Informed Practice]] in education_ meanings and applications*. Educational Research, 59(2), 127–135. — 系统整理 [[Evidence-Informed Practice|EIP]] 的含义与应用。
 > - Nelson, J., & O'Beirne, C. (2014). *Using evidence in the classroom_ What works and why?* NFER. — 把课堂中的证据使用问题推向更具体的实践层面。
 > - Nelson, J., Mehta, P., Sharples, J., & Davey, C. (2017). *Measuring teachers' research engagement_ Findings from a pilot study*. Education Endowment Foundation. — 将教师研究参与度转化为可测量议题。
 

@@ -24,7 +24,8 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[ResearchED]]"
 related_arguments: []
 sources:
   - "[[OConnor_2020_AJLL]]"

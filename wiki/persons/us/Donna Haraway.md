@@ -58,13 +58,13 @@ Donna Haraway，美国女性主义科学与技术研究学者，以 [[Posthumani
 
 > [!abstract]
 
-- Haraway, D. (2016). *Staying with the trouble: Making kin in the Chthulucene*. Duke University Press. — 提出 sympoiesis、response-ability 和 SF 叙事，开辟[[Posthumanism|后人类主义]]的关系性伦理方向
+- Haraway, D. (2016). *Staying with the trouble: Making kin in the Chthulucene*. Duke University Press. — 提出 [[Sympoiesis]]、[[Response-ability]] 和 SF 叙事，开辟[[Posthumanism|后人类主义]]的关系性伦理方向
 
 ---
 
 ## 主要贡献
 
-- sympoiesis 概念 — 作为 [[Autopoiesis|autopoiesis]] 的替代，以"共同制造"取代"自我制造"，强调跨物种的相互依存和伦理回应（Amos, 2022, p.62）
+- [[Sympoiesis]] 概念 — 作为 [[Autopoiesis|autopoiesis]] 的替代，以"共同制造"取代"自我制造"，强调跨物种的相互依存和伦理回应（Amos, 2022, p.62）
 
 ---
 

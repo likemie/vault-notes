@@ -21,7 +21,6 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[wiki-Pierre Bourdieu]]"
   - "[[John Hattie]]"
 related_facts: []
 related_arguments: []

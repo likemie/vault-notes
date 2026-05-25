@@ -19,7 +19,8 @@ related_concepts:
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Western Learner]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Socrates]]"
@@ -28,7 +29,8 @@ related_persons:
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -106,7 +108,7 @@ updated: 2026-05-22
 ## 影响
 
 > [!success]
-> - **对西方哲学**：Whitehead 曾有著名论断——"对欧洲哲学传统最稳妥的概括是：它由一系列对柏拉图的脚注构成"（待核原文出处）。柏拉图奠定了西方形而上学、知识论、伦理学和政治哲学的基本问题框架
+> - **对西方哲学**：Whitehead 曾有著名论断——"对欧洲哲学传统最稳妥的概括是：它由一系列对柏拉图的脚注构成"（待核原文出处）。柏拉图奠定了西方形而上学、知识论、伦[[Neo-Confucianism|理学]]和政治哲学的基本问题框架
 > - **对西方学习传统**：Li 的系统追溯显示，柏拉图的理型论、几何学知识观、省察生活和教育选拔理念全面渗透了全部四个西方学习传统主题：[[Certainty of Knowledge]]、[[Mind and Its Wonders]]、[[Examined Life]] 和 [[Western Learner]]（Li, 2012, pp.24-36）
 > - **对先天论脉络**：从[[Socrates|苏格拉底]]—柏拉图的知识即回忆说，经[[René Descartes|笛卡尔]]的 cogito、[[Immanuel Kant|康德]]的心智范畴、乔姆斯基的先天语言能力，直至现代婴儿认知科学，柏拉图开启的先天论传统持续了 2,500 年（Li, 2012, pp.27-29）
 > - **对教育学**：洞穴喻中的"灵魂转向"（periagoge）成为西方教育思想中"教育即解放"隐喻的源头；哲学家王的教育选拔影响了此后所有关于"谁能接受最高教育"的讨论
@@ -126,4 +128,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- Li_2012_Cambridge
+- [[Li_2012_Cambridge]]

@@ -12,14 +12,17 @@ tags:
   - field/comparative-education
   - field/cultural-psychology
 related_concepts:
+  - "[[Western Learner]]"
+  - "[[The Great Learning]]"
   - "[[Ideal Learner]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Examined Life]]"
   - "[[Mind and Its Wonders]]"
-  - "[[Western Learner]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Socrates]]"
 related_facts: []
 related_arguments: []
 sources: []

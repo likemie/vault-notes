@@ -15,6 +15,7 @@ tags:
 - theme/digitalization
 - theme/subjectification
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Online Self-Assessment]]"
   - "[[Performativity of Measurement]]"
   - "[[Learning Analytics]]"
@@ -23,6 +24,7 @@ related_concepts:
   - "[[Governmentality]]"
   - "[[Bildung]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Societies of Control]]"
 related_methods:
   - "[[Matching]]"

@@ -4,11 +4,19 @@ aliases: ["四端", "siduan", "four beginnings"]
 summary: "孟子提出的性善论基础_四种先天的道德萌芽_恻隐之心_羞恶之心_辞让之心_是非之心_为修身提供人性论依据"
 type: concept
 tags: ["region/china", "theory/confucianism", "field/chinese-philosophy", "theme/moral-psychology"]
-related_concepts: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[Benevolence]]"
+  - "[[Ritual Propriety]]"
+  - "[[Sage]]"
 related_theories:
+  - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Mencius]]"
+  - "[[Confucius]]"
+  - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
 sources:

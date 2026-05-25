@@ -23,6 +23,7 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Inclusive Evidence Validation Typology]]"
+  - "[[The Great Learning]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Gating Procedure]]"
   - "[[5-3-20 Rule]]"
@@ -66,6 +67,7 @@ related_arguments:
   - "[[Argument_Pellegrini_2021_ROE]]"
 sources:
   - "[[Hitchcock_2015_JBE]]"
+  - "[[Ross_Morrison_2021_ROE]]"
   - "[[Wadhwa_2024_RER]]"
   - "[[Pellegrini_2021_ROE]]"
 confidence: medium

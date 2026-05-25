@@ -14,6 +14,7 @@ tags:
   - theme/peer-culture
   - theme/learning-model
 related_concepts:
+  - "[[Peer-Supported Learning]]"
   - "[[Class Size]]"
   - "[[Zero-Sum Competition]]"
 related_theories: []
@@ -22,7 +23,8 @@ related_persons:
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23

@@ -16,7 +16,8 @@ tags:
   - region/global
 related_concepts:
   - "[[Evidence-Based Education]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons: []
 related_facts:

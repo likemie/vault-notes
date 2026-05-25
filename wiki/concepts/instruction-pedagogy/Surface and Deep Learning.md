@@ -13,6 +13,7 @@ tags:
 - level/higher-ed
 - region/china
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Problem-Based Learning]]"
   - "[[Western Learner]]"
   - "[[Paradox of the Chinese Learner]]"
@@ -29,6 +30,7 @@ related_methods:
   - "[[Cognitive Task Analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[David Watkins]]"
 related_facts: []
 related_arguments: []
 sources:

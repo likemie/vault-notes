@@ -9,12 +9,12 @@ tags:
 - learning-science
 - paradigm/critical
 related_concepts:
+  - "[[Visible Learning]]"
   - "[[Synaptogenesis]]"
   - "[[Executive Function]]"
   - "[[Synaptic Pruning]]"
   - "[[Prefrontal Cortex]]"
   - "[[Myelination]]"
-  - "[[Visible Learning]]"
   - "[[Effect Size]]"
 related_theories:
   - "[[Phenomenology]]"

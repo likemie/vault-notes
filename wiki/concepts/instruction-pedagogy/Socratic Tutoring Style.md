@@ -13,6 +13,7 @@ tags:
   - region/west
 related_concepts:
   - "[[Cognitive Source]]"
+  - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
   - "[[Confucian Tutoring Style]]"
   - "[[Learning Virtues]]"
@@ -24,7 +25,8 @@ related_persons:
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-24

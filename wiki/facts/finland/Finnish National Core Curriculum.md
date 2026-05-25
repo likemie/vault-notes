@@ -19,6 +19,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Performance Indicators]]"
   - "[[Epochal Key Problems]]"
+  - "[[The Great Learning]]"
   - "[[Champ]]"
   - "[[Atomisation of Knowledge and Skills]]"
 related_theories:

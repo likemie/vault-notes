@@ -11,7 +11,9 @@ tags:
 - higher-ed
 related_concepts:
   - "[[International Education]]"
+  - "[[Vergegenkunft]]"
   - "[[New Public Management]]"
+  - "[[The Great Learning]]"
   - "[[Policy Borrowing]]"
 related_theories: []
 related_methods: []

@@ -15,6 +15,7 @@ tags:
 - theme/neoliberalism
 - theme/governmentality
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Performativity of Measurement]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Global Universities Rankings]]"
@@ -24,6 +25,7 @@ related_concepts:
   - "[[Governmentality]]"
   - "[[Stakeholder University]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Societies of Control]]"
 related_methods: []
 related_persons: []

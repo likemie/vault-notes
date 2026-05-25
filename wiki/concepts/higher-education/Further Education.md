@@ -12,6 +12,7 @@ tags:
 - region/global
 - subject/comparative-education
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Corporate Education]]"
   - "[[Externalization]]"
 related_theories: []

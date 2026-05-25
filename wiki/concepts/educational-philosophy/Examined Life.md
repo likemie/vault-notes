@@ -14,7 +14,9 @@ tags:
 - theme/critical-thinking
 - theme/learning
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Sage]]"
+  - "[[Faust]]"
   - "[[Ideal Learner]]"
   - "[[University Motto]]"
   - "[[Self-Cultivation]]"
@@ -30,7 +32,8 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22

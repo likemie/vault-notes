@@ -13,7 +13,8 @@ tags:
   - rct
   - synthetic-phonics
   - region/uk
-related_concepts: []
+related_concepts:
+  - "[[The Great Learning]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"

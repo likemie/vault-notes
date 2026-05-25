@@ -13,7 +13,8 @@ tags:
 related_concepts:
   - "[[New Public Management]]"
   - "[[School Leadership]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Bertrand Russell]]"

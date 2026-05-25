@@ -17,6 +17,7 @@ tags:
 - theme/knowledge
 - theme/learning
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Certainty of Knowledge]]"
   - "[[Humility in Learning]]"
   - "[[Mind and Its Wonders]]"
@@ -31,7 +32,8 @@ related_persons:
   - "[[Jean-Jacques Rousseau]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -51,7 +53,7 @@ updated: 2026-05-22
 
 > [!note]
 > - **1632** — 出生于英格兰萨默塞特郡灵顿（Wrington），父亲为清教徒律师
-> - **1652–1667** — 就读于牛津大学基督堂学院，先后获学士和硕士学位，后留校任教。学习期间对经院哲学不满，转向[[René Descartes|笛卡尔]]哲学和实验科学
+> - **1652–1667** — 就读于牛津[[The Great Learning|大学]]基督堂学院，先后获学士和硕士学位，后留校任教。学习期间对经院哲学不满，转向[[René Descartes|笛卡尔]]哲学和实验科学
 > - **1667** — 成为沙夫茨伯里伯爵（Lord Shaftesbury，后成为辉格党创始人）的家庭医生、秘书和政治顾问。这一关系深刻影响了洛克的政治思想
 > - **1675–1679** — 因政治局势紧张，旅居法国，深入接触笛卡尔哲学和欧洲思想界
 > - **1683–1688** — 因涉嫌参与辉格党反对查理二世的密谋，流亡荷兰。在荷兰期间完成《人类理解论》和《政府论》的主要草稿（待核）
@@ -125,4 +127,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- Li_2012_Cambridge
+- [[Li_2012_Cambridge]]

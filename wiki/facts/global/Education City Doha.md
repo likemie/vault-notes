@@ -12,6 +12,7 @@ tags:
 - region/qatar
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[International Education]]"
   - "[[Internationalization of Higher Education]]"
   - "[[International Schools]]"

@@ -15,6 +15,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[The Great Learning]]"
   - "[[Effective Teaching]]"
   - "[[Surface and Deep Learning]]"
   - "[[Tongxue]]"

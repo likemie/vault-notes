@@ -17,6 +17,7 @@ tags:
   - theme/governmentality
   - theme/subjectification
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
   - "[[Geopolitics of Knowledge]]"

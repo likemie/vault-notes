@@ -33,7 +33,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Jacob Cohen 是美国统计学家，是 effect size（[[Effect Size|效应量]]）和 Cohen's d 解释框架的关键人物。在 [[Effect Size]] 的教育研究传播史中，Cohen 的贡献主要体现在两个方面：提供标准化均值差的计算语言，并提出 small/medium/large 的经验性解释框架（Allerup, 2015, p.43）。
+> Jacob Cohen 是美国统计学家，是 [[Effect Size]]（[[Effect Size|效应量]]）和 Cohen's d 解释框架的关键人物。在 [[Effect Size]] 的教育研究传播史中，Cohen 的贡献主要体现在两个方面：提供标准化均值差的计算语言，并提出 small/medium/large 的经验性解释框架（Allerup, 2015, p.43）。
 
 ## 生平与职涯
 

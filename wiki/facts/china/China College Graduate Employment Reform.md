@@ -16,6 +16,7 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Credential Inflation]]"
   - "[[Cultural Capital]]"
   - "[[Economy of Experience]]"
@@ -26,7 +27,8 @@ related_persons:
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

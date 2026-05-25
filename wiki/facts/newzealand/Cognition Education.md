@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[International Education]]"
+  - "[[The Great Learning]]"
   - "[[School Leadership]]"
 related_theories: []
 related_methods: []
@@ -30,6 +31,7 @@ related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments: []
 sources:
+  - "[[Bates_2017_CognitionEducationTrust]]"
   - "[[ONeill_2016_Report]]"
   - "[[Johnson_2023_CE]]"
 confidence: medium

@@ -13,6 +13,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
   - "[[Narrative Knowledge]]"
+  - "[[The Great Learning]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []

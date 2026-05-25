@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Global Universities Rankings]]"
+  - "[[The Great Learning]]"
   - "[[International Schools]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Chinese Learner]]"

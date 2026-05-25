@@ -18,6 +18,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
@@ -113,7 +114,7 @@ updated: '2026-05-18'
 > [!note-] 发展脉络
 > 该框架的演进可追溯至 [[Campbell Collaboration|Campbell]] 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook 和 Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、内部效度、构念效度、外部效度）。
 >
-> Hitchcock et al. (2015) 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心理学循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的实践，作者确认"Campbellian 效度框架适用于能够产生因果证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[21st Century Skills and Competencies Discourse|SCD]] 量规在内部效度判断上产生了合理一致的结果。
+> Hitchcock et al. (2015) 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心[[Neo-Confucianism|理学]]循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的实践，作者确认"Campbellian 效度框架适用于能够产生因果证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[21st Century Skills and Competencies Discourse|SCD]] 量规在内部效度判断上产生了合理一致的结果。
 
 ## 研究范式
 
@@ -138,7 +139,7 @@ updated: '2026-05-18'
 ## 应用领域
 
 > [!success] 应用领域
-> - [[Single-Case Design]] — Campbellian 框架为 [[21st Century Skills and Competencies Discourse|SCD]] 研究提供统一的效度评估语言，[[What Works Clearinghouse|WWC]] 和学校心理学循证干预工作组均依赖此框架
+> - [[Single-Case Design]] — Campbellian 框架为 [[21st Century Skills and Competencies Discourse|SCD]] 研究提供统一的效度评估语言，[[What Works Clearinghouse|WWC]] 和学校心[[Neo-Confucianism|理学]]循证干预工作组均依赖此框架
 > - [[Gating Procedure]] — 门控程序的操作逻辑直接来源于 Campbellian 框架的"内部效度优先"原则
 > - [[Evidence-Based Education]] — Campbellian 框架是 WWC 评估教育研究证据的方法论基础
 > - [[Educational Evidence Clearinghouses]] — Wadhwa et al. (2024) 用构念效度问题重新审视清算中心对"evidence-based"项目的认证实践，显示跨机构评级收敛不足会削弱该术语的实践效度（Wadhwa et al., 2024, p.26）

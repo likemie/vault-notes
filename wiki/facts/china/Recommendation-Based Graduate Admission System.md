@@ -16,6 +16,7 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Academic Engagement]]"
   - "[[Credential Inflation]]"
   - "[[Intuition-Dependent Mode]]"
@@ -28,7 +29,8 @@ related_persons:
 related_facts:
   - "[[China College Graduate Employment Reform]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

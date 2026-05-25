@@ -13,6 +13,7 @@ tags:
 - technical-rationality
 - region/denmark
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
   - "[[Feedback]]"
@@ -20,6 +21,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Radical Constructivism]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -43,14 +45,14 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Klaus Nielsen 是丹麦奥胡斯大学（Aarhus University）心理学系教授，研究兴趣为社会实践中学习、理论心理学和质性方法（Nielsen & Klitmøller, 2021, p. 92）。他以运用 Habermas 的合法化危机理论（Legitimation Crisis）和 Schön 的[[Technical Rationality|技术理性]]（Technical Rationality）概念，从**理论功能**（而非方法论）角度解释 [[John Hattie]] 的 [[Visible Learning]] 为何在全球流行的批判性分析而知名。
+> Klaus Nielsen 是丹麦奥胡斯[[The Great Learning|大学]]（Aarhus University）心[[Neo-Confucianism|理学]]系教授，研究兴趣为社会实践中学习、理论心理学和质性方法（Nielsen & Klitmøller, 2021, p. 92）。他以运用 Habermas 的合法化危机理论（Legitimation Crisis）和 Schön 的[[Technical Rationality|技术理性]]（Technical Rationality）概念，从**理论功能**（而非方法论）角度解释 [[John Hattie]] 的 [[Visible Learning]] 为何在全球流行的批判性分析而知名。
 >
 > Nielsen 与长期合作者 Jacob Klitmøller 自 2017 年起发表了一系列丹麦语和英语论文，系统性地从理论内核、方法论质量和合法化功能三个维度批判 Hattie 的 VL 项目。
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - 任职于奥胡斯大学（Aarhus University）心理学系（Nielsen & Klitmøller, 2021, p. 92）
+> - 任职于奥胡斯[[The Great Learning|大学]]（Aarhus University）心[[Neo-Confucianism|理学]]系（Nielsen & Klitmøller, 2021, p. 92）
 > - 研究领域：社会实践中的学习理论、理论心理学、[[Qualitative Research|质性研究]]方法
 > - 与 Jacob Klitmøller 建立长期合作，自 2017 年起共同发表多篇 VL 批判性论文
 

@@ -19,7 +19,8 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Bildung]]"
   - "[[Data Behaviorism]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons: []
 related_facts: []

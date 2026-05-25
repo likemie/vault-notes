@@ -9,7 +9,8 @@ tags:
 - case-study
 - qualitative-research
 - methodology
-related_concepts: []
+related_concepts:
+  - "[[The Great Learning]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -17,7 +18,8 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_arguments:
   - "[[Argument_郑_2023_上海三联书店]]"
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: low
 status: draft
 created: '2026-05-08'

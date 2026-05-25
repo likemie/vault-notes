@@ -15,6 +15,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"

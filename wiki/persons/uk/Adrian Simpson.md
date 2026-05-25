@@ -14,6 +14,7 @@ tags:
 - statistics
 - region/uk
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
@@ -45,14 +46,14 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Adrian Simpson 是英国杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长。他的研究兴趣横跨数学教育（推理与证明、中学到大学的过渡）和教育研究方法论（人们如何使用证据），但以对[[Effect Size|效应量]]概念在[[Evidence-Based Education|证据本位教育]]中应用的**系统技术批判**而获得最广泛的学术影响（Simpson, 2017, p.15; Simpson, 2019, p.109）。
+> Adrian Simpson 是英国杜伦[[The Great Learning|大学]]（Durham University）数学教育教授、Josephine Butler College 院长。他的研究兴趣横跨数学教育（推理与证明、中学到大学的过渡）和教育研究方法论（人们如何使用证据），但以对[[Effect Size|效应量]]概念在[[Evidence-Based Education|证据本位教育]]中应用的**系统技术批判**而获得最广泛的学术影响（Simpson, 2017, p.15; Simpson, 2019, p.109）。
 >
 > > "Adrian Simpson is Professor of Mathematics Education and the Principal of Josephine Butler College, one of the constituent colleges of Durham University. His research interests include reasoning and proof, the transition from school to university and how people make use of evidence." (Simpson, 2017, p.15)
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - **现任** — 杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长（Principal）（Simpson, 2017, p.15）
+> - **现任** — 杜伦[[The Great Learning|大学]]（Durham University）数学教育教授、Josephine Butler College 院长（Principal）（Simpson, 2017, p.15）
 > - **2017** — 在 *Journal of Education Policy* 发表"The misdirection of public policy"，通过农场肥料思想实验和真实教育研究案例系统论证[[Effect Size|效应量]]的三大系统性偏差，奠定其效应量技术批判的方法论基础（Simpson, 2017）
 > - **2018** — 在 *British Educational Research Journal* 发表"Princesses are bigger than elephants"，将效应量误用定性为**类别错误（category error）**（Simpson, 2018; 引自 Wrigley & McCusker, 2019, p.126）
 > - **2019** — 在 *Educational Research and Evaluation* 特刊发表"Separating arguments from conclusions"，以"教一个匈牙利单词"思想实验和 [[Evidence-Based Education|EBE]] 支持者防御策略分析，将效应量批判推进为完整的认识论论证（Simpson, 2019）

@@ -17,6 +17,7 @@ related_concepts:
   - "[[Lost Mode]]"
   - "[[Champ]]"
   - "[[Cultural Barrier in Higher Education]]"
+  - "[[The Great Learning]]"
   - "[[Habitus]]"
   - "[[Sense of Shame]]"
   - "[[Cultural Disembedding]]"
@@ -27,10 +28,11 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: low
 status: draft
 created: 2026-05-09

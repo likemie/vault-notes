@@ -11,6 +11,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Scientization of Politics]]"
+  - "[[The Great Learning]]"
   - "[[Epistemic Governance]]"
 related_theories: []
 related_methods: []

@@ -11,6 +11,7 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Doxa]]"
+  - "[[The Great Learning]]"
   - "[[Knowledge Production]]"
   - "[[Epistemological Vigilance]]"
   - "[[Complexity Reduction]]"
@@ -20,8 +21,9 @@ related_theories:
   - "[[Critical Realism]]"
 related_methods: []
 related_persons:
-  - "[[wiki-Pierre Bourdieu]]"
-related_facts: []
+  - "[[Pierre Bourdieu]]"
+related_facts:
+  - "[[Top Institute for Evidence-Based Education Research]]"
 related_arguments: []
 sources:
   - "[[Eacott_2015_EPT]]"

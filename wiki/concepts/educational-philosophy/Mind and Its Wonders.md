@@ -18,7 +18,8 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Certainty of Knowledge]]"
   - "[[Western Learner]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Socrates]]"
@@ -29,7 +30,8 @@ related_persons:
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22

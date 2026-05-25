@@ -57,7 +57,7 @@ Escobar 援引 Irwin (2015) 的转型设计十条原则：(1) 以生命[[Luhmann
 
 > [!abstract]
 
-- Escobar, A. (2018). *Designs for the pluriverse: Radical interdependence, autonomy, and the making of worlds*. Duke University Press. — 提出 pluriverse 和 transition design 的核心概念
+- Escobar, A. (2018). *Designs for the pluriverse: Radical interdependence, autonomy, and the making of worlds*. Duke University Press. — 提出 pluriverse 和 [[Transition Design]] 的核心概念
 
 ---
 

@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
+  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

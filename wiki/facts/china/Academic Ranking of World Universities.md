@@ -18,6 +18,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Global Universities Rankings]]"
+  - "[[The Great Learning]]"
   - "[[Champ]]"
 related_theories: []
 related_methods: []

@@ -20,14 +20,16 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Classroom Management]]"
   - "[[Evidence-Based Education]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Logic Model]]"
   - "[[Formative Program Evaluation]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ross_Morrison_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23

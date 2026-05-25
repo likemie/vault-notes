@@ -15,6 +15,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []

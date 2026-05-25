@@ -24,7 +24,8 @@ related_facts:
   - "[[PISA]]"
   - "[[Education at a Glance]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Møller_2017_EERJ]]"
 part_of: ''
 status: draft
 created: '2026-05-02'

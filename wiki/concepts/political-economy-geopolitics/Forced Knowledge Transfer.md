@@ -16,6 +16,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Junzi]]"
+  - "[[The Great Learning]]"
 related_theories:
   - "[[Van Leeuwen's Legitimation Theory]]"
 related_methods: []

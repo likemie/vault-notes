@@ -12,6 +12,7 @@ tags:
 - optimization
 related_concepts:
   - "[[Posthumanism]]"
+  - "[[Response-ability]]"
   - "[[Humosity]]"
 related_theories: []
 related_methods: []

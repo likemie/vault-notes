@@ -25,7 +25,7 @@ related_theories:
 related_methods:
   - "[[Matching]]"
 related_persons:
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Plato]]"
 related_facts: []
 related_arguments: []
@@ -33,6 +33,7 @@ sources:
   - "[[wiki-Pierre Bourdieu]]"
   - "[[Eacott_2011_JEAH]]"
   - "[[Eacott_2015_EPT]]"
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-09

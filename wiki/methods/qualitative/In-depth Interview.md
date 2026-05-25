@@ -9,7 +9,8 @@ tags:
 - in-depth-interview
 - qualitative-research
 - paradigm/interpretivist
-related_concepts: []
+related_concepts:
+  - "[[The Great Learning]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -21,6 +22,7 @@ related_arguments:
   - "[[Argument_郑_2023_上海三联书店]]"
   - "[[Argument_Yu_2024_CE]]"
 sources:
+  - "[[郑_2023_上海三联书店]]"
   - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft

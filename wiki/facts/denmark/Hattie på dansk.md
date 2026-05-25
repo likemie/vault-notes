@@ -17,8 +17,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Feedback]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
   - "[[Steen Nepper Larsen]]"

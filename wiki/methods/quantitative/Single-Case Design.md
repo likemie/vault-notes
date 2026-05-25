@@ -18,6 +18,7 @@ related_concepts:
   - "[[5-3-20 Rule]]"
   - "[[Gating Procedure]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 >
 > > "SCDs are experimental methods consisting of various designs involving repeated measures of a specific behavior or skill under different conditions to evaluate the effectiveness of a treatment for an individual or a small group of individuals that serve as their own control." (Hitchcock et al., 2015, p.460, citing Kazdin, 2011)
 >
-> SCD 起源于心理学领域，已被广泛应用于教育、医学、言语和语言治疗等多个学科（Hitchcock et al., 2015, p.460）。
+> SCD 起源于心[[Neo-Confucianism|理学]]领域，已被广泛应用于教育、医学、言语和语言治疗等多个学科（Hitchcock et al., 2015, p.460）。
 
 ## 认识论立场
 
@@ -120,7 +121,7 @@ Hitchcock et al. (2015, p.466) 列举了 [[What Works Clearinghouse|WWC]] 审查
 ## 内部效度与外部效度的关系
 
 
-Hitchcock et al. (2015, p.462) 援引 Shadish et al. (2002) 的论证：内部效度是实验设计的"必要条件"（sin qua non）——如果无法证明干预与结果之间存在因果关系，就没有多大必要仔细考虑外部效度（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 [[21st Century Skills and Competencies Discourse|SCD]] 审查中采用**门控程序（gating procedure）**：只有通过内部效度门槛的研究才进入后续的推广性评估（详见 [[Gating Procedure]]）。
+Hitchcock et al. (2015, p.462) 援引 Shadish et al. (2002) 的论证：内部效度是实验设计的"必要条件"（sin qua non）——如果无法证明干预与结果之间存在因果关系，就没有多大必要仔细考虑外部效度（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 [[21st Century Skills and Competencies Discourse|SCD]] 审查中采用**门控程序（[[Gating Procedure]]）**：只有通过内部效度门槛的研究才进入后续的推广性评估（详见 [[Gating Procedure]]）。
 
 > 例：如果一项 ABAB 设计的基线阶段数据点不足或测量信度存疑，则该研究将被判定为未达到设计标准，不会进入推广性描述阶段。
 

@@ -11,6 +11,7 @@ tags:
 - higher-education
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Student Involvement]]"
   - "[[Academic and Social Integration]]"
   - "[[Tongxue]]"
@@ -27,7 +28,8 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_郑_2023_上海三联书店]]"
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

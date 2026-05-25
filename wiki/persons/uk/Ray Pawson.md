@@ -14,8 +14,10 @@ tags:
 - methodology
 - region/uk
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
+  - "[[Sage]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -34,7 +36,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Ray Pawson 是英国利兹大学（University of Leeds）社会研究方法论教授，**实在论评估（Realist Evaluation）**和**实在论综合（Realist Synthesis）**的主要提出者之一。他的工作聚焦于将[[Critical Realism|批判实在论]]哲学转化为适用于社会政策和项目评估的具体方法论。
+> Ray Pawson 是英国利兹[[The Great Learning|大学]]（University of Leeds）社会研究方法论教授，**实在论评估（Realist Evaluation）**和**实在论综合（Realist Synthesis）**的主要提出者之一。他的工作聚焦于将[[Critical Realism|批判实在论]]哲学转化为适用于社会政策和项目评估的具体方法论。
 
 ## 核心思想
 
@@ -75,7 +77,7 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Pawson, R. (2006). *Evidence-based policy: A realist perspective*. London: SAGE. — 核心批判文本，系统论述 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]在社会政策领域的不适用性（Wrigley & McCusker, 2019, p. 125）
+> - Pawson, R. (2006). *Evidence-based policy: A realist perspective*. London: [[Sage]]. — 核心批判文本，系统论述 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]在社会政策领域的不适用性（Wrigley & McCusker, 2019, p. 125）
 > - Pawson, R., & Tilley, N. (1997). *Realistic evaluation*. London: SAGE. — 实在论评估方法论的奠基文本
 
 ## 来源

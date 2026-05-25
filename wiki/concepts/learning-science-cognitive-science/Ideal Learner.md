@@ -15,15 +15,18 @@ tags:
 - method/narrative
 related_concepts:
   - "[[Enculturation]]"
+  - "[[The Great Learning]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Cultural Models]]"
 related_methods:
   - "[[Prototype Methods]]"
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22

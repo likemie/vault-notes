@@ -18,6 +18,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Externalization]]"
+  - "[[The Great Learning]]"
   - "[[Class Size]]"
   - "[[Policy Borrowing]]"
 related_theories:

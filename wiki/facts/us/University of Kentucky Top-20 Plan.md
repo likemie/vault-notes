@@ -14,6 +14,7 @@ tags:
 - region/us
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Global Universities Rankings]]"
 related_theories: []
 related_methods: []

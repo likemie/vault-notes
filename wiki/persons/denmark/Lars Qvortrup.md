@@ -12,8 +12,10 @@ tags:
 - region/denmark
 - stance/support
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Visible Learning]]"
   - "[[Structural Coupling]]"
+  - "[[Didaktik]]"
   - "[[Effect Size]]"
   - "[[Professional Judgment]]"
 related_theories:
@@ -39,12 +41,12 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Lars Qvortrup，丹麦奥胡斯大学（Aarhus University）丹麦教育学院（Danish School of Education）国家学校研究中心（National Centre for School Research）教授。他是 [[John Hattie]] 的 [[Visible Learning]] 在丹麦的主要引介者之一——与 Niels Egelund 共同撰写 VL 丹麦语译本导言。
+> Lars Qvortrup，丹麦奥胡斯[[The Great Learning|大学]]（Aarhus University）丹麦教育学院（Danish School of Education）国家学校研究中心（National Centre for School Research）教授。他是 [[John Hattie]] 的 [[Visible Learning]] 在丹麦的主要引介者之一——与 Niels Egelund 共同撰写 VL 丹麦语译本导言。
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - 任职于奥胡斯大学丹麦教育学院，国家学校研究中心教授
+> - 任职于奥胡斯[[The Great Learning|大学]]丹麦教育学院，国家学校研究中心教授
 > - 2015 年在 *Paideia* 发表讨论论文，回应 [[Visible Learning]] 的方法论争议，并提出以 Bateson 为基础的[[Dynamic Knowledge and Learning Model|动态知识与学习模型]]（Qvortrup, 2015, pp.22–33）
 > - 与 Niels Egelund 共同撰写 [[John Hattie|Hattie]] *Visible Learning for Teachers* 丹麦语译本导言
 > - 2019 年在 NordSTEP 发表讨论论文，回应丹麦 Hattie 争议并构建 VL 的理论辩护
@@ -54,7 +56,7 @@ updated: '2026-05-19'
 > [!abstract] 主要著作
 > - Qvortrup, L. (2015). Baggrund for og diskussioner af [[Visible Learning]] med særligt henblik på lærings- og vidensbegrebet. *Paideia*, 9, 22–33. — VL 支持者立场讨论论文：回应意识形态、方法论和情境三类批评，并指出 [[John Hattie|Hattie]] 的"学习结果"概念需要更动态的知识模型
 > - Qvortrup, L. (2019). Visible learning and its enemies – the missing link. *Nordic Journal of Studies in Educational Policy*, 5(1), 3–7. — VL 支持者立场讨论论文：以解释社群、观察透镜认识论和[[Structural Coupling|结构耦合]]三线论证为 Hattie 辩护
-> - Qvortrup, A. (2013). Behavioristiske læringsteorier. In A. Qvortrup & M. Wiberg (Eds.), *Læringsteori & didaktik* (pp. 72–94). Copenhagen: Hans Reitzels Forlag. — 现代行为主义学习理论的系统阐述
+> - Qvortrup, A. (2013). Behavioristiske læringsteorier. In A. Qvortrup & M. Wiberg (Eds.), *Læringsteori & [[Didaktik]]* (pp. 72–94). Copenhagen: Hans Reitzels Forlag. — 现代行为主义学习理论的系统阐述
 
 ## 核心思想
 

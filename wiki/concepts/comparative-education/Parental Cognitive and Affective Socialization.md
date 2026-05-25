@@ -14,16 +14,18 @@ tags:
   - field/comparative-education
   - field/cultural-psychology
 related_concepts:
+  - "[[Learning Virtues]]"
+  - "[[Pride in Learning]]"
   - "[[Cognitive Source]]"
   - "[[Mind Efficacy and Virtue Efficacy]]"
-  - "[[Learning Virtues]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Chinese Learner]]"
   - "[[Western Learner]]"
 related_theories: []
 related_methods:
   - "[[Mother-Child Conversation]]"
-related_persons: []
+related_persons:
+  - "[[Socrates]]"
 related_facts: []
 related_arguments: []
 sources:

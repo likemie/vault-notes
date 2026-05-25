@@ -17,6 +17,7 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
+  - "[[Formative Assessment]]"
 related_theories: []
 related_methods:
   - "[[Logic Model]]"
@@ -25,7 +26,8 @@ related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ross_Morrison_2021_ROE]]"
 confidence: medium
 status: draft
 created: '2026-05-23'

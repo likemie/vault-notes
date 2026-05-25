@@ -8,7 +8,8 @@ nationality: uk
 tags:
 - julian-williams
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -24,7 +25,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究中的"第三空间"（third spaces）、研究-政策-实践的混合活动设计、替代性学习结果测量。
+> 曼彻斯特[[The Great Learning|大学]]（University of Manchester）教育研究者，研究方向为教育研究中的"第三空间"（third spaces）、研究-政策-实践的混合活动设计、替代性学习结果测量。
 
 ## 核心思想
 

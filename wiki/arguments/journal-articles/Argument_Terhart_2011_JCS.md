@@ -20,7 +20,8 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Bildung]]"
   - "[[Effective Teaching]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"

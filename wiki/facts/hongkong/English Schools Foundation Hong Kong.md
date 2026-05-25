@@ -15,6 +15,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
+  - "[[The Great Learning]]"
   - "[[International Education]]"
 related_theories: []
 related_methods: []
@@ -23,7 +24,8 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[Symposium on International Teaching]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ryan(Ed.)_2010_HKUP]]"
 confidence: medium
 status: draft
 created: '2026-05-16'

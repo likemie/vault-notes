@@ -13,9 +13,11 @@ tags:
 - learning-science
 related_concepts:
   - "[[Executive Function]]"
+  - "[[Cognitive Inhibition]]"
   - "[[Updating and Monitoring]]"
   - "[[Working Memory]]"
-related_theories: []
+related_theories:
+  - "[[Piaget's Theory of Cognitive Development]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
@@ -45,7 +47,7 @@ updated: '2026-05-18'
 > [!abstract] 理论内部结构
 > 三个基本成分为（Bolton & [[John Hattie|Hattie]], 2017, p.4）：
 >
-> - **抑制（Inhibition）** — 抑制主导性或优势反应。在必要时故意抑制自动化或常见反应的能力
+> - **抑制（[[Cognitive Inhibition|inhibition]]）** — 抑制主导性或优势反应。在必要时故意抑制自动化或常见反应的能力
 > - **[[Updating and Monitoring|更新与监控]]（Updating and Monitoring）** — [[Working Memory|工作记忆]]表征的更新与监控。动态操纵工作记忆所保持内容的能力
 > - **转换（Shifting）** — 任务或心理集之间的切换。在多个不同任务、操作或心理集之间来回切换的能力
 
@@ -69,7 +71,7 @@ updated: '2026-05-18'
 
 > [!success] 应用领域
 > - executive-function — 以 Miyake 三成分模型为 [[Executive Function|EF]] 的核心定义框架
-> - piagets-theory-of-cognitive-development — Bolton & [[John Hattie|Hattie]] (2017) 使用此框架将 EF 各成分的发展轨迹与[[Jean Piaget|皮亚杰]]阶段进行对齐
+> - [[Piaget's Theory of Cognitive Development|piagets-theory-of-cognitive-development]] — Bolton & [[John Hattie|Hattie]] (2017) 使用此框架将 EF 各成分的发展轨迹与[[Jean Piaget|皮亚杰]]阶段进行对齐
 
 ## 来源
 

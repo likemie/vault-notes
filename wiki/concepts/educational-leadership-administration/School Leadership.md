@@ -19,12 +19,13 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[OECD Improving School Leadership Project]]"
   - "[[ISSPP Project]]"
 related_arguments: []
 sources:
+  - "[[Møller_2017_EERJ]]"
   - "[[Keddie_2020_JEAH]]"
   - "[[Keddie_2020_IJLE]]"
 confidence: medium

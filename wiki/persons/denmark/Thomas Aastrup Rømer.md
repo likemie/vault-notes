@@ -10,6 +10,7 @@ tags:
 - educational-philosophy
 - region/denmark
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Visible Learning]]"
   - "[[Pure Evaluation]]"
   - "[[Feedback]]"
@@ -40,7 +41,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Thomas Aastrup Rømer，丹麦奥胡斯大学（Aarhus University）教育哲学副教授、博士，研究方向为教育理论。他以对 [[John Hattie]] 的 [[Visible Learning]] 的系统性哲学批判著称，提出了五线批评框架（Rømer, 2018）。
+> Thomas Aastrup Rømer，丹麦奥胡斯[[The Great Learning|大学]]（Aarhus University）教育哲学副教授、博士，研究方向为教育理论。他以对 [[John Hattie]] 的 [[Visible Learning]] 的系统性哲学批判著称，提出了五线批评框架（Rømer, 2018）。
 
 ## 生平与职涯
 
@@ -51,7 +52,7 @@ updated: '2026-05-19'
 > - 2015 年：出版 *Pædagogikkens to verdener*，探讨教育学的哲学连接
 > - 2017 年：在丹麦批评文集 *[[John Hattie|Hattie]] på dansk*（[[Hattie på dansk]]）中撰文批评 VL 的[[Feedback|反馈]]概念
 > - 2018 年：在 *Educational Philosophy and Theory* 发表对 Hattie VL 的五线哲学批判（Argument_Rømer_2018_EPT）
-> - 现任奥胡斯大学（Department of Education, University of Aarhus）教育哲学副教授，研究兴趣为广义的教育理论
+> - 现任奥胡斯[[The Great Learning|大学]]（Department of Education, University of Aarhus）教育哲学副教授，研究兴趣为广义的教育理论
 
 ## 主要著作
 

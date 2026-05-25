@@ -38,6 +38,7 @@ related_concepts:
   - "[[Tongxue]]"
   - "[[School Leadership]]"
   - "[[Self-Efficacy]]"
+  - "[[The Great Learning]]"
   - "[[Neo-Taylorism in Educational Administration]]"
   - "[[Cult of the Guru]]"
   - "[[Scientism]]"
@@ -47,6 +48,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Structural Coupling]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Appraisal Theory]]"
   - "[[Radical Constructivism]]"
   - "[[Phenomenology]]"

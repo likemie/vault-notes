@@ -15,13 +15,16 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[University Social Responsibility]]"
+  - "[[Otherhood]]"
   - "[[Epistemic Governance]]"
   - "[[Organizational Actorhood]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[THE Impact Ranking]]"
   - "[[Comprehensive School Reform Program]]"
 related_arguments: []
 sources:

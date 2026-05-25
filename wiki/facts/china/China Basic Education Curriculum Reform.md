@@ -16,6 +16,7 @@ tags:
 - policy/curriculum-reform
 related_concepts:
   - "[[Student-Teacher Relationship]]"
+  - "[[The Great Learning]]"
   - "[[Feedback]]"
   - "[[Chinese Learner]]"
   - "[[Stereotype Threat]]"

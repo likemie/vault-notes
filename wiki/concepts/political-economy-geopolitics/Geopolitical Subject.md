@@ -14,6 +14,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[The Great Learning]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Graduate Attributes]]"
   - "[[Geopolitics of Knowledge]]"

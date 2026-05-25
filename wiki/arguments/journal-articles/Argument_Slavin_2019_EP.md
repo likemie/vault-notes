@@ -28,6 +28,7 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_facts:
+  - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Investing in Innovation Program]]"
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Encyclopedia]]"

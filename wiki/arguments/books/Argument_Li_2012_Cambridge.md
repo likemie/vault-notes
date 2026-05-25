@@ -74,6 +74,7 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Confucian Tutoring Style]]"
+  - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Cognitive Source]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"
@@ -115,7 +116,7 @@ related_persons:
   - "[[Wang Yangming]]"
   - "[[Catherine Lewis]]"
   - "[[Zhuangzi]]"
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
 related_arguments: []
 sources:
   - "[[Li_2012_Cambridge]]"

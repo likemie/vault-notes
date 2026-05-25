@@ -13,14 +13,19 @@ tags:
   - theme/learning
   - field/comparative-education
 related_concepts:
-  - "[[Learning Virtues]]"
   - "[[Tongxue]]"
+  - "[[Humility in Learning]]"
+  - "[[Learning Virtues]]"
+  - "[[Class Size]]"
+  - "[[The Great Learning]]"
+  - "[[Ideal Learner]]"
   - "[[Nerd]]"
   - "[[Zero-Sum Competition]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Three Excellences]]"
 related_arguments: []
 sources:
   - "[[Li_2012_Cambridge]]"

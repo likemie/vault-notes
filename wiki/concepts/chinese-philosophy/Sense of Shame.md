@@ -15,17 +15,21 @@ tags:
 - theme/ethics
 related_concepts:
   - "[[Ritual Propriety]]"
+  - "[[Rightness]]"
+  - "[[Four Sprouts]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Confucius]]"
   - "[[Mencius]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22

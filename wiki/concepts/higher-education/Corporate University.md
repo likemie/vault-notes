@@ -12,10 +12,12 @@ tags:
 - region/global
 - subject/comparative-education
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Knowledge Production]]"
   - "[[Champ]]"
   - "[[Corporate Education]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Institutional Isomorphism]]"
 related_methods: []
 related_persons: []

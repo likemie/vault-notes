@@ -13,6 +13,7 @@ tags:
 - region/germany
 related_concepts:
   - "[[Externalization]]"
+  - "[[The Great Learning]]"
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
 related_theories:
@@ -37,7 +38,7 @@ updated: '2026-05-19'
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - 德国教育学者，任职于柏林洪堡大学（Humboldt University of Berlin）比较教育中心
+> - 德国教育学者，任职于柏林洪堡[[The Great Learning|大学]]（Humboldt University of Berlin）比较教育中心
 > - 将 Luhmann [[Luhmann's Systems Theory|系统理论]]应用于比较教育方法论
 
 ## 主要著作

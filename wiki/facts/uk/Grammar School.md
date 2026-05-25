@@ -17,8 +17,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Ofsted]]"
   - "[[Selective Schools Expansion Fund]]"
+  - "[[Ofsted]]"
   - "[[Education and Inspections Act 2006]]"
 related_arguments: []
 sources:

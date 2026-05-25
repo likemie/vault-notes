@@ -18,7 +18,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23
@@ -79,4 +80,4 @@ Csikszentmihalyi 的团队正是通过该方法从大量青少年日常体验数
 
 ## 来源
 
-- Li_2012_Cambridge
+- [[Li_2012_Cambridge]]

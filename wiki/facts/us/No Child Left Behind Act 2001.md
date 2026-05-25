@@ -35,6 +35,7 @@ sources:
   - "[[Slavin_2002_ER]]"
   - "[[OConnor_2020_AJLL]]"
   - "[[Zhao_2017_JEC]]"
+  - "[[Ross_Morrison_2021_ROE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

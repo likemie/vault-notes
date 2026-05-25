@@ -64,7 +64,6 @@ related_methods:
   - "[[Matching]]"
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[wiki-Pierre Bourdieu]]"
   - "[[Max Weber]]"
   - "[[Ann Swidler]]"
   - "[[Marcia Baxter Magolda]]"

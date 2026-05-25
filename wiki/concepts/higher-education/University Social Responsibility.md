@@ -10,6 +10,7 @@ tags:
 - level/higher-ed
 - region/global
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Organizational Actorhood]]"
   - "[[Knowledge Production]]"
   - "[[Otherhood]]"

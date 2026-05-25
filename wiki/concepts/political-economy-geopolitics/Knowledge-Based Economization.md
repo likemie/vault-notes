@@ -13,6 +13,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[The Great Learning]]"
   - "[[Geopolitical Subject]]"
   - "[[Economic Patriotism]]"
   - "[[Doxa]]"
@@ -33,7 +34,8 @@ related_facts:
   - "[[Innovation Union]]"
   - "[[Minerva University]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-07'

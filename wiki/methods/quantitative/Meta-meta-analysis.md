@@ -25,6 +25,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Whole Language]]"
   - "[[Language Experience Approach]]"
+  - "[[Cargo Cult Science]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Critical Realism]]"
@@ -270,7 +271,7 @@ updated: '2026-05-21'
 >
 > **第三项元分析：Gee 的 +0.65——唯一被 Hattie 动手修改的。** Gee（1995）报告 d=+0.65。Hattie 以其中三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。但全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的专著——在有意义的语境中教技能恰恰是全语言的核心实践（O'Connor, 2020, p.148）。
 >
-> **关键的对比**：在 VL 的 800+ 元分析中，**仅此一项**——发现全语言有正面效果——被 Hattie 通过选择性删除研究修正了效应量。对报告极端负面效果的 Jeynes & Littell，他未做任何审查。这种不对称审查模式是  cargo cult science 在方法论层面的具体表现——只修正支持自己预设结论的证据，对支持相反结论的证据不加审视。
+> **关键的对比**：在 VL 的 800+ 元分析中，**仅此一项**——发现全语言有正面效果——被 Hattie 通过选择性删除研究修正了效应量。对报告极端负面效果的 Jeynes & Littell，他未做任何审查。这种不对称审查模式是  [[Cargo Cult Science]] 在方法论层面的具体表现——只修正支持自己预设结论的证据，对支持相反结论的证据不加审视。
 >
 > **Hattie 自己的话**："当前对证据本位的痴迷往往忽视了研究者用来决定什么要纳入（作为证据）、什么要排除、以及如何整理证据来讲述他们的故事的镜头。故事才是被认为有说服力的贡献——是我在这个证据上的镜头。"（Hattie, 2009, p.237，引自 O'Connor, 2020, p.142）O'Connor 指出这与元分析创始人 Gene Glass（1976, p.3）的初衷——提供"对研究叙述性讨论的严谨替代方案"——直接矛盾。
 

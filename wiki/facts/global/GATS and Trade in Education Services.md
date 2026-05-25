@@ -20,6 +20,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Internationalization of Higher Education]]"
+  - "[[The Great Learning]]"
   - "[[Doxa]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []

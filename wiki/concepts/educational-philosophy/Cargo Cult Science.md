@@ -14,8 +14,10 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Dynamic Knowledge and Learning Model]]"
-related_methods: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts: []

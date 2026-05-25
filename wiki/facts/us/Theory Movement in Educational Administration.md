@@ -13,6 +13,7 @@ tags:
   - level/higher-ed
   - paradigm/positivist
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Didaktik]]"
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
@@ -20,7 +21,7 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Thomas Barr Greenfield]]"
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
 sources:

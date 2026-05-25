@@ -10,6 +10,7 @@ tags:
 - region/china
 - region/hongkong
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -33,7 +34,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 香港中文大学（The Chinese University of Hong Kong）教育研究者，Johns Hopkins University [[Evidence-Based Reform|证据本位改革]]中心长期合作者，与 [[Robert Slavin]] 合作发表多项关于教育 [[Randomised Controlled Trials|RCT]] 和证据本位改革的国际比较研究。
+> 香港中文[[The Great Learning|大学]]（The Chinese University of Hong Kong）教育研究者，Johns Hopkins University [[Evidence-Based Reform|证据本位改革]]中心长期合作者，与 [[Robert Slavin]] 合作发表多项关于教育 [[Randomised Controlled Trials|RCT]] 和证据本位改革的国际比较研究。
 
 ## 核心思想
 
@@ -51,7 +52,7 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could evidence-based reform advance education? *ECNU Review of Education*, 4(1), 7–24. — 负责中国学者质疑立场文献的系统梳理与分析
+> - Slavin, R. E., Cheung, A. C. K., & Zhuang, T. (2021). How could [[Evidence-Based Reform]] advance education? *ECNU Review of Education*, 4(1), 7–24. — 负责中国学者质疑立场文献的系统梳理与分析
 > - Cheung, A. C. K., & Xie, C. (2021). Evidence-based reform in education: Global perspectives [Editorial]. *ECNU Review of Education*, 4(1), 3–6. — 特刊导言，以 COVID-19 疫苗试验类比教育 [[Randomised Controlled Trials|RCT]]，按四项核心活动框架组织全刊
 > - Slavin, R., & Cheung, A. C. K. (2017). Lessons learned from large-scale randomized experiments. *Journal of Education for Students Placed at Risk*, 22(4), 253–259.
 

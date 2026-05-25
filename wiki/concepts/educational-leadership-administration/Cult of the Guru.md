@@ -16,6 +16,8 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Transformative Leadership]]"
   - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[The Great Learning]]"
+  - "[[Critic and Conscience of Society]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods:
@@ -24,7 +26,7 @@ related_methods:
 related_persons:
   - "[[Scott Eacott]]"
   - "[[John Hattie]]"
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[PISA]]"
 related_arguments: []

@@ -20,6 +20,7 @@ related_concepts:
   - "[[Corporate Education]]"
   - "[[Tongxue]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[The Great Learning]]"
   - "[[International Education]]"
   - "[[International Education Hubs]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Progressive Neoliberalism]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Cultural Political Economy]]"
   - "[[Fixity-Motion Tension]]"
 related_methods:
@@ -37,6 +39,7 @@ related_methods:
 related_persons:
   - "[[Bob Jessop]]"
 related_facts:
+  - "[[Sputnik Shock 1957]]"
   - "[[Australia in the Asian Century White Paper]]"
   - "[[UAE Education Hub Projects]]"
   - "[[Singapore Education Hub Policy]]"

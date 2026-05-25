@@ -14,10 +14,12 @@ tags:
 - educational-psychology
 - region/us
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Matching]]"
@@ -40,7 +42,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Robert E. Slavin 是美国约翰霍普金斯大学（Johns Hopkins University）教育研究与改革中心（Center for Research and Reform in Education）主任，教育心理学家，**[[Evidence-Based Education|证据本位教育]]改革运动最核心的倡导者和奠基人之一**。他是 2018 年美国心理学会（APA）第 15 分会（Division 15, Educational Psychology）**E. L. Thorndike 终身成就奖**获得者。
+> Robert E. Slavin 是美国约翰霍普金斯[[The Great Learning|大学]]（Johns Hopkins University）教育研究与改革中心（Center for Research and Reform in Education）主任，教育心[[Neo-Confucianism|理学]]家，**[[Evidence-Based Education|证据本位教育]]改革运动最核心的倡导者和奠基人之一**。他是 2018 年美国心理学会（APA）第 15 分会（Division 15, Educational Psychology）**E. L. Thorndike 终身成就奖**获得者。
 
 ## 核心思想
 
@@ -75,10 +77,10 @@ updated: '2026-05-19'
 ## 核心出版物
 
 
-- Slavin, R. E. (2019). How evidence-based reform will transform research and practice in education. *Educational Psychologist*, 55(1), 1–13. (Thorndike Award address)
+- Slavin, R. E. (2019). How [[Evidence-Based Reform]] will transform research and practice in education. *Educational Psychologist*, 55(1), 1–13. (Thorndike Award address)
 - Slavin, R. E. (2017). Evidence-based reform in education. *Journal of Education for Students Placed at Risk*, 22(3), 178–184.
 - Slavin, R. E. (2008). Evidence-based reform in education: Which evidence matters? *Educational Researcher*, 37(1), 47–50.
-- Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. *Educational Researcher*, 31(7), 15–21. (2002 AERA Dewitt Wallace-Reader's Digest Distinguished Lecture)
+- Slavin, R. E. (2002). [[Evidence-Based Education]] policies: Transforming educational practice and research. *Educational Researcher*, 31(7), 15–21. (2002 AERA Dewitt Wallace-Reader's Digest Distinguished Lecture)
 - Slavin, R. E., & Madden, N. A. (2013). [[Success for All]] at 27: New developments in whole-school reform. *Journal of Education for Students Placed at Risk*, 18(3–4), 169–176.
 
 ## 与批判性学者的对比

@@ -17,7 +17,8 @@ tags:
 - theme/learning
 - theme/metaphysics
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Socrates]]"
@@ -27,7 +28,8 @@ related_persons:
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -47,7 +49,7 @@ updated: 2026-05-22
 
 > [!note]
 > - **1596** — 出生于法国图赖讷地区拉艾（La Haye en Touraine，今以"笛卡尔"命名），幼年体弱，就读于拉弗莱什耶稣会学院（Collège Henri-IV de La Flèche）
-> - **1618** — 加入荷兰拿骚的莫里斯亲王的军队，任军官。同年结识荷兰科学家 Isaac Beeckman，激发其数学和物理学兴趣
+> - **1618** — 加入荷兰拿骚的莫里斯亲王的军队，任军官。同年结识荷兰科学家 Isaac Beeckman，激发其数学和物[[Neo-Confucianism|理学]]兴趣
 > - **1619** — 在多瑙河畔乌尔姆的暖房中做了三个梦，据笛卡尔自述，梦使他确信应以数学方法统一全部科学，标志其哲学计划的诞生
 > - **1628** — 移居荷兰，在宗教和政治相对自由的荷兰度过此后大部分生涯
 > - **1637** — 匿名出版《谈谈方法》（*Discourse on Method*），附有《屈光学》《气象学》《几何学》三篇论文，后者创立了解析几何
@@ -62,7 +64,7 @@ updated: 2026-05-22
 > [!abstract]
 > - Descartes, R. (1637/2008). *Discourse on Method*. BN Publishing. — 以法语写作，提出笛卡尔的方法论四规则和"我思故我在"。Li 引此论述笛卡尔怀疑（Li, 2012, p.28 脚注 20）
 > - Descartes, R. (1641/2008). *Meditations on First Philosophy*. BN Publishing. — 以拉丁语写作，六个沉思系统论证从彻底怀疑到心物二元论的完整哲学体系。Li 引此论述"他无法通过任何其他手段确认自己的存在，除了'我思'"（Li, 2012, pp.28, 脚注 20）
-> - Descartes, R. (1644). *Principles of Philosophy*. — 以教科书形式系统阐述其物理学和形而上学（待核）
+> - Descartes, R. (1644). *Principles of Philosophy*. — 以教科书形式系统阐述其物[[Neo-Confucianism|理学]]和形而上学（待核）
 > - Descartes, R. (1649). *The Passions of the Soul*. — 最后一部著作，讨论情感的身心关系，提出松果体为身心交互点的理论（待核）
 
 ---
@@ -91,7 +93,7 @@ updated: 2026-05-22
 > [!success]
 > - **对近代哲学**：笛卡尔被视为"近代哲学之父"——他将认识论（我们如何知道？）确立为哲学的首要问题，取代了经院哲学的本体论优先。此后的斯宾诺莎、莱布尼茨、[[John Locke|洛克]]、[[George Berkeley|贝克莱]]、休谟、[[Immanuel Kant|康德]]全都在回应他设定或遗留的问题（待核）
 > - **对西方学习传统**：在 Li 的追溯中，笛卡尔的 cogito 是先天论传统从古希腊到现代认知科学之间的关键桥梁——"[[Socrates|苏格拉底]]和[[Plato|柏拉图]]关于人类心智的思想……在西方智识史上一再复苏，在笛卡尔的 cogito 中达到顶峰"（Li, 2012, p.28）
-> - **对科学与数学**：笛卡尔坐标系（解析几何）统一了代数和几何，为牛顿和莱布尼茨的微积分奠定了基础。笛卡尔的机械自然观（物质世界即广延 + 运动）构成了牛顿物理学的哲学前提（待核）
+> - **对科学与数学**：笛卡尔坐标系（解析几何）统一了代数和几何，为牛顿和莱布尼茨的微积分奠定了基础。笛卡尔的机械自然观（物质世界即广延 + 运动）构成了牛顿物[[Neo-Confucianism|理学]]的哲学前提（待核）
 > - **对教育学**：笛卡尔怀疑的方法——将一切既有信念置于审判之下，只接受清晰且明确（clear and distinct）的真理——深刻影响了现代教育中的批判性思维训练
 
 ---
@@ -107,4 +109,4 @@ updated: 2026-05-22
 
 ## 来源
 
-- Li_2012_Cambridge
+- [[Li_2012_Cambridge]]

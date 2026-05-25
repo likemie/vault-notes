@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Goal-Controlled Mode]]"
+  - "[[The Great Learning]]"
   - "[[Social Engagement]]"
   - "[[Opportunist Mode]]"
   - "[[Self-Authorship]]"
@@ -27,7 +28,8 @@ related_persons:
   - "[[Marcia Baxter Magolda]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: '2026-05-09'

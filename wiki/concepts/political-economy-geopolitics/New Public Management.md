@@ -17,6 +17,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[School Leadership]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[The Great Learning]]"
   - "[[International Education]]"
   - "[[Competitiveness in Higher Education]]"
   - "[[Performance Indicators]]"

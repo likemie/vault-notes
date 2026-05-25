@@ -13,6 +13,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Student Engagement]]"
+  - "[[The Great Learning]]"
   - "[[Academic and Social Integration]]"
   - "[[Tongxue]]"
   - "[[Academic Engagement]]"
@@ -27,7 +28,8 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_郑_2023_上海三联书店]]"
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

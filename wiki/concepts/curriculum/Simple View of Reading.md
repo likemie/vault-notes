@@ -17,7 +17,8 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[Rose Report]]"
 related_arguments: []
 sources:
   - "[[OConnor_2020_AJLL]]"

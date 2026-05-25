@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Graduate Attributes]]"
+  - "[[The Great Learning]]"
   - "[[Economy of Experience]]"
   - "[[Credential Inflation]]"
   - "[[Social Engagement]]"
@@ -30,7 +31,8 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

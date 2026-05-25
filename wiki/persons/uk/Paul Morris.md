@@ -13,10 +13,12 @@ tags:
 - region/uk
 - region/china
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Policy Borrowing]]"
   - "[[Knowledge-Based Economy]]"
   - "[[International Schools]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons: []
 related_arguments:
@@ -36,12 +38,12 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Paul Morris 是伦敦大学学院（UCL）教育与社会学院（Institute of Education, Department of Education, Practice and Society）的教授。他长期从事比较教育和课程研究，特别专注于香港教育政策、课程变革和公民教育的政治分析。他是以批判视角分析香港后殖民教育政治的最多产学者之一。
+> Paul Morris 是伦敦[[The Great Learning|大学]]学院（UCL）教育与社会学院（Institute of Education, Department of Education, Practice and Society）的教授。他长期从事比较教育和课程研究，特别专注于香港教育政策、课程变革和公民教育的政治分析。他是以批判视角分析香港后殖民教育政治的最多产学者之一。
 
 ## 核心思想
 
 > [!info] 核心思想
-> Morris 的核心学术关切是**全球化论述如何在教育政策中被工具化**，以及**国家权力如何通过课程变革施加控制**。他的研究贯穿两个相互关联的主题：
+> Morris 的核[[Neo-Confucianism|心学]]术关切是**全球化论述如何在教育政策中被工具化**，以及**国家权力如何通过课程变革施加控制**。他的研究贯穿两个相互关联的主题：
 >
 > 1. **[[Policy Borrowing|政策借用]]中的修辞性参照**：国家引用全球教育趋势（如 [[PISA]]、终身学习、[[Knowledge-Based Economy|知识经济]]）通常是为了合法化国内议程，而非真正追求国际最佳实践。这与 Steiner-Khamsi 的政策借用框架一脉相承。（You & Morris, 2016; Auld & Morris, 2016）
 >

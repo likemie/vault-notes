@@ -20,6 +20,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
+  - "[[The Great Learning]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Learning Analytics]]"
   - "[[Bildung]]"

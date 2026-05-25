@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Multiplicity]]"
   - "[[Classical Geopolitics]]"
+  - "[[The Great Learning]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
 related_theories:

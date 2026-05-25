@@ -19,12 +19,14 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Implementation Fidelity]]"
   - "[[Absorptive Capacity]]"
+  - "[[Formative Assessment]]"
 related_theories: []
 related_methods:
   - "[[Formative Program Evaluation]]"
 related_persons: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ross_Morrison_2021_ROE]]"
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
 confidence: medium

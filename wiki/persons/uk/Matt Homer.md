@@ -8,7 +8,8 @@ nationality: uk
 tags:
 - matt-homer
 - region/uk
-related_concepts: []
+related_concepts:
+  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -24,7 +25,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 利兹大学（University of Leeds）教育研究者，研究方向为教育研究方法论、定量研究方法、"什么有效"议程的批判性评估。
+> 利兹[[The Great Learning|大学]]（University of Leeds）教育研究者，研究方向为教育研究方法论、定量研究方法、"什么有效"议程的批判性评估。
 
 ## 核心思想
 

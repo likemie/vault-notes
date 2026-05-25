@@ -45,7 +45,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - neo-piagetian-theories — 首位[[Neo-Piagetian Theories|新皮亚杰理论]]家，提出信息加工与[[Jean Piaget|皮亚杰]]理论的整合框架
+> - [[Neo-Piagetian Theories|neo-piagetian-theories]] — 首位[[Neo-Piagetian Theories|新皮亚杰理论]]家，提出信息加工与[[Jean Piaget|皮亚杰]]理论的整合框架
 > - 开发了测量儿童心智能力的方法：让儿童保持并重复一系列与相关刺激相链接的动作，以准确重复的序列数量衡量心智能力（Bolton & [[John Hattie|Hattie]], 2017, p.3）
 
 ## 思想发展与影响

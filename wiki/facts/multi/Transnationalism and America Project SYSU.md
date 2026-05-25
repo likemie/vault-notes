@@ -12,16 +12,19 @@ tags:
 - region/us
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Chinese Learner]]"
   - "[[International Education]]"
   - "[[International Schools]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Paul Morris]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ryan(Ed.)_2010_HKUP]]"
 confidence: medium
 status: draft
 created: '2026-05-16'

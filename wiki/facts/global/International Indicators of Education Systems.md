@@ -24,6 +24,7 @@ related_methods: []
 related_persons:
   - "[[Norberto Bottani]]"
 related_facts:
+  - "[[A Nation at Risk 1983]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
 related_arguments: []

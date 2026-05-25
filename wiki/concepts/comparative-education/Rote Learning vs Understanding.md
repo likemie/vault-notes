@@ -12,12 +12,16 @@ tags:
   - field/comparative-education
   - region/east-asia
 related_concepts:
+  - "[[Chinese Learner]]"
   - "[[Paradox of the Chinese Learner]]"
-  - "[[Surface and Deep Learning]]"
+  - "[[Western Learner]]"
   - "[[Familiarization]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Refined Mastery]]"
-related_theories: []
+related_theories:
+  - "[[Phenomenology]]"
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons: []
 related_facts: []

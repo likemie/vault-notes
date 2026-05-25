@@ -13,6 +13,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Tongxue]]"
+  - "[[The Great Learning]]"
   - "[[Champ]]"
   - "[[Problem-Based Learning]]"
   - "[[Bildung]]"
@@ -21,6 +22,7 @@ related_concepts:
   - "[[Epochal Key Problems]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Neo-Confucianism]]"
   - "[[Radical Constructivism]]"
 related_methods:
   - "[[Philosophical Analysis in Education]]"

@@ -16,6 +16,7 @@ tags:
 - geopolitics-of-knowledge
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[The Great Learning]]"
   - "[[Knowledge Transfer]]"
 related_theories: []
 related_methods: []

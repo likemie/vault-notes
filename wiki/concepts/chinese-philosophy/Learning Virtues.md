@@ -14,6 +14,7 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Self-Cultivation]]"
+  - "[[The Great Learning]]"
   - "[[Ideal Learner]]"
   - "[[Refined Mastery]]"
   - "[[Take the World Upon Oneself]]"
@@ -27,16 +28,19 @@ related_concepts:
   - "[[Pride in Learning]]"
   - "[[Cognitive Source]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Prototype Methods]]"
   - "[[Mother-Child Conversation]]"
   - "[[MCC Discourse Analysis Examples]]"
 related_persons:
+  - "[[Cheng Brothers]]"
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22

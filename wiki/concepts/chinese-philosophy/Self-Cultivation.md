@@ -15,9 +15,11 @@ tags:
   - field/chinese-philosophy
   - theme/learning
 related_concepts:
+  - "[[Four Sprouts]]"
   - "[[Chinese Learner]]"
   - "[[Champ]]"
   - "[[Action Better Than Words]]"
+  - "[[The Great Learning]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Ideal Learner]]"
   - "[[Learning Virtues]]"
@@ -29,6 +31,7 @@ related_concepts:
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Prototype Methods]]"
 related_persons:
@@ -38,7 +41,8 @@ related_persons:
   - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22

@@ -11,6 +11,7 @@ tags:
 - privatisation
 - region/uk
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Network Governance]]"
@@ -33,7 +34,7 @@ updated: '2026-05-23'
 ## 简介
 
 > [!info] 简介
-> Stephen Ball 是英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）教授，以研究教育政策社会学、私有化和政策网络著称。
+> Stephen Ball 是英国教育社会学家，伦敦[[The Great Learning|大学]]学院教育学院（UCL Institute of Education）教授，以研究教育政策社会学、私有化和政策网络著称。
 
 ## 核心贡献
 

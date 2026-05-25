@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
+  - "[[Critic and Conscience of Society]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods:

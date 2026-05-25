@@ -20,6 +20,7 @@ related_concepts:
   - "[[Tongxue]]"
   - "[[Feedback]]"
   - "[[Statistical Significance]]"
+  - "[[The Great Learning]]"
   - "[[Class Size]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -203,7 +204,7 @@ updated: '2026-05-21'
 >
 > **O'Neill (2012) — 跨教育阶段混合综合与排名扭曲**
 >
-> O'Neill（2012, pp.155-156）识别了 VL 元-元分析的一个具体方法论问题：Hattie 的综合涵盖早教、学校教育和高等教育所有阶段，非学校阶段的研究对学校教育政策无已证明的相关性，但其纳入扭曲了特定主题的平均效应量和排名位置。典型例证是 VL 中"教学质量"（quality of teaching）的元分析证据全部来自大学生评教研究，却被用于论证增加中小学[[Class Size|班级规模]]的政策合理性——暴露了跨阶段混合综合在政策应用中可能产生的具体误导。
+> O'Neill（2012, pp.155-156）识别了 VL 元-元分析的一个具体方法论问题：Hattie 的综合涵盖早教、学校教育和高等教育所有阶段，非学校阶段的研究对学校教育政策无已证明的相关性，但其纳入扭曲了特定主题的平均效应量和排名位置。典型例证是 VL 中"教学质量"（quality of teaching）的元分析证据全部来自[[The Great Learning|大学]]生评教研究，却被用于论证增加中小学[[Class Size|班级规模]]的政策合理性——暴露了跨阶段混合综合在政策应用中可能产生的具体误导。
 
 
 > [!warning] 评估清单

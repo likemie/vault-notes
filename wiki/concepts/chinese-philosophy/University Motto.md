@@ -14,6 +14,7 @@ tags:
 - theme/cross-cultural-learning
 - source/li-2012-cambridge
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Ritual Propriety]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
@@ -26,7 +27,8 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22

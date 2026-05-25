@@ -13,6 +13,7 @@ tags:
 - region/new-zealand
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Critic and Conscience of Society]]"
 related_theories: []
 related_methods: []

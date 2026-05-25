@@ -25,8 +25,7 @@ related_theories:
   - "[[World Society Theory]]"
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
-related_persons:
-  - "[[wiki-Pierre Bourdieu]]"
+related_persons: []
 related_facts:
   - "[[Citizenship and Social Development]]"
   - "[[Liberal Studies]]"

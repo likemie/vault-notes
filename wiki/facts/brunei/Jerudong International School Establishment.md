@@ -19,7 +19,8 @@ related_facts:
   - "[[Cognition Education]]"
   - "[[Tomorrow's Schools Reforms]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Bates_2017_CognitionEducationTrust]]"
 confidence: medium
 status: draft
 created: 2026-05-22

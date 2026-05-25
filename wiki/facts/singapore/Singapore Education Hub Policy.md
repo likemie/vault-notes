@@ -20,11 +20,13 @@ tags:
 - theme/development
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[The Great Learning]]"
   - "[[Cultural Diplomacy]]"
   - "[[International Education Hubs]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons: []
 related_facts: []

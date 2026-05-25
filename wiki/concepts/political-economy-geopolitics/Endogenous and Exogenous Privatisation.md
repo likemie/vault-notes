@@ -18,6 +18,7 @@ related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Policy Entrepreneur]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[The Great Learning]]"
   - "[[International Education]]"
 related_theories: []
 related_methods: []

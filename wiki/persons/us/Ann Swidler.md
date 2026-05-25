@@ -10,6 +10,7 @@ tags:
 - cultural-sociology
 - region/us
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Symbolic Boundary]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
@@ -21,7 +22,8 @@ related_persons:
   - "[[Max Weber]]"
   - "[[Yajun Zheng]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: low
 status: draft
 created: '2026-05-08'
@@ -31,7 +33,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Ann Swidler（安·斯威德勒），美国文化社会学家，以 1986 年在《美国社会学评论》（*American Sociological Review*）上发表的论文 *Culture in Action: Symbols and Strategies* 提出[[Culture as Toolkit|文化工具箱]]理论（Culture as Toolkit）而著称。该理论成为文化社会学领域与 [[Max Weber|Weber]]-Parsons 价值观驱动范式并立的经典范式。[[Yajun Zheng|郑雅君]]（2023）以该理论作为"大学过程"分析框架的核心理论支柱之一。
+> Ann Swidler（安·斯威德勒），美国文化社会学家，以 1986 年在《美国社会学评论》（*American Sociological Review*）上发表的论文 *Culture in Action: Symbols and Strategies* 提出[[Culture as Toolkit|文化工具箱]]理论（Culture as Toolkit）而著称。该理论成为文化社会学领域与 [[Max Weber|Weber]]-Parsons 价值观驱动范式并立的经典范式。[[Yajun Zheng|郑雅君]]（2023）以该理论作为"[[The Great Learning|大学]]过程"分析框架的核心理论支柱之一。
 >
 
 ## 生平与职涯
@@ -79,10 +81,10 @@ updated: '2026-05-19'
 > - 与 [[Max Weber|Weber]]-Parsons 价值观驱动范式构成当代文化社会学的核心争论
 > - Vaisey（2009）在 Swidler 的基础上提出 [[Dual-Process Model of Culture in Action]]，论证工具箱范式与价值观驱动范式在不同意识层次上并存——属于对 Swidler 的修正而非推翻（[[Yajun Zheng|郑雅君]]，2023）
 > - 郑雅君（2023）以该理论为"价值选择过程"的核心理论资源，并以 Vaisey 模型整合两种范式
-> - 郑雅君（2023）第五章将工具箱理论延伸至择业决策领域，发现大学生[[Culture as Toolkit|文化工具箱]]中三种可供调用的工作意义图式——地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达——及其在不同阶层学生中的分布差异
+> - 郑雅君（2023）第五章将工具箱理论延伸至择业决策领域，发现[[The Great Learning|大学]]生[[Culture as Toolkit|文化工具箱]]中三种可供调用的工作意义图式——地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达——及其在不同阶层学生中的分布差异
 > - 在择业中，工具箱图式的运用分为"方向导引"（direction guidance，图式内化为行动目的）和"结果合理化"（outcome rationalization，事后调用图式解释客观结果）两种情形——这一区分直接对应 Swidler 对稳定与不稳定生活状态的理论，构成四分类模型的分析节点
 >
 
 ## 来源
 
-- 郑_2023_上海三联书店
+- [[郑_2023_上海三联书店]]

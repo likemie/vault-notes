@@ -17,7 +17,8 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Effective Teaching]]"
   - "[[Visible Learning]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

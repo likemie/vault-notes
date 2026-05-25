@@ -11,6 +11,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Epistemic Governance]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Production]]"

@@ -9,6 +9,7 @@ tags:
 - region/new-zealand
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Champ]]"
   - "[[Visible Learning]]"
   - "[[Cult of the Guru]]"

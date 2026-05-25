@@ -18,6 +18,7 @@ tags:
 - theme/subjectification
 - theme/competitiveness
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Digital Self]]"
   - "[[Learning Analytics]]"
   - "[[Digital Optimum]]"

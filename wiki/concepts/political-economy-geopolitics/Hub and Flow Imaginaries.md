@@ -17,6 +17,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[The Great Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[National Competitive Advantage]]"
   - "[[Hegemony]]"
@@ -27,6 +28,7 @@ related_concepts:
   - "[[Geopolitical Subject]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
+  - "[[Neo-Confucianism]]"
   - "[[Cultural Political Economy]]"
   - "[[Critical Geopolitics]]"
 related_methods: []

@@ -11,6 +11,7 @@ tags:
 - subject/curriculum
 - level/k12
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Effective Teaching]]"
 related_theories: []
 related_methods: []

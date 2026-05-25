@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
+  - "[[The Great Learning]]"
   - "[[Junzi]]"
   - "[[Champ]]"
   - "[[Forced Knowledge Transfer]]"

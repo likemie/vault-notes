@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[The Great Learning]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunist Mode]]"
   - "[[Cultural Barrier in Higher Education]]"
@@ -28,7 +29,8 @@ related_persons:
   - "[[Max Weber]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: '2026-05-09'

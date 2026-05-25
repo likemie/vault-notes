@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
+  - "[[The Great Learning]]"
   - "[[Corporate University]]"
   - "[[Knowledge Transfer]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -22,6 +23,7 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
 related_theories:
   - "[[Critical Geopolitics]]"
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Arturo Escobar]]"
@@ -42,7 +44,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!tip]
-> 去殖民[[Geopolitics of Knowledge|知识地缘政治]]是 Parreira do Amaral（2022）"新[[Geopolitics of Knowledge|知识地缘政治]]"分析框架的**两大理论支柱之一**（另一支柱为[[Critical Geopolitics|批判地缘政治学]]）。它发源于拉丁美洲去殖民思想传统，将注意力引向认识论本身的政治性，与发源于英语世界人文地理学的另一脉络并列互补。详见 知识地缘政治 > 概念演变。
+> 去殖民[[Geopolitics of Knowledge|知识地缘政治]]是 Parreira do Amaral（2022）"新[[Geopolitics of Knowledge|知识地缘政治]]"分析框架的**两大理论支柱之一**（另一支柱为[[Critical Geopolitics|批判地缘政治学]]）。它发源于拉丁美洲去殖民思想传统，将注意力引向认识论本身的政治性，与发源于英语世界人文地[[Neo-Confucianism|理学]]的另一脉络并列互补。详见 知识地缘政治 > 概念演变。
 >
 > 去殖民知识地缘政治（Decolonial Geopolitics of Knowledge）是 1990 年代至 2000 年代初在拉丁美洲去殖民思想传统中发展起来的批判理论，核心主张是：西方资本主义的全球扩张不仅意味着经济关系和政治控制的扩张，更密切地、互补地与一种特定的西方认识论（Western epistemology）及认知和存在方式相连——这种认识论通过殖民差异（colonial difference）维持并稳定了全球权力的空间表达（即殖民性, coloniality），同时系统地压制和消声了替代性的认识论、认知方式和存在方式（Parreira do Amaral, 2022, p.38）。
 >
@@ -55,7 +57,7 @@ updated: '2026-05-18'
 ## 核心命题
 
 > [!abstract]
-> - **殖民性不同于殖民主义**：殖民主义（colonialism）是历史上的政治军事统治形式，殖民性（coloniality）则是持续运作的权力逻辑——即使殖民行政体系已结束，殖民性通过[[Knowledge Production|知识生产]]、分类系统和制度安排继续塑造全球不平等秩序。例：今天的高等教育排名系统以英美研究型大学为基准模板，即使前殖民地国家已独立，其大学仍被按照西方标准评价和排序，这正是殖民性的持续运作（编者类比）
+> - **殖民性不同于殖民主义**：殖民主义（colonialism）是历史上的政治军事统治形式，殖民性（coloniality）则是持续运作的权力逻辑——即使殖民行政体系已结束，殖民性通过[[Knowledge Production|知识生产]]、分类系统和制度安排继续塑造全球不平等秩序。例：今天的高等教育排名系统以英美研究型[[The Great Learning|大学]]为基准模板，即使前殖民地国家已独立，其大学仍被按照西方标准评价和排序，这正是殖民性的持续运作（编者类比）
 > - **殖民差异（Colonial Difference）**：殖民者与被殖民者之间的绝对差异——不仅是政治经济的，更是认识论的。殖民差异将非欧洲的知识体系标注为"传统的""本土的""非科学的"，从而将其排除在全球知识生产的合法范畴之外（Mignolo, 2002, p.59, cited in Parreira do Amaral, 2022, p.38）。例：中医学在西方医学教育体系中长期不被承认为"科学知识"，尽管其具有数千年的临床实践传统——这是殖民差异在知识分类中的表现（编者类比）
 > - **认识论不服从（Epistemic Disobedience）**：Mignolo 提出的去殖民实践策略——主动"去链接"（delink）西方认识论框架，拒绝在其话语体系内部寻求承认和合法性，转而从被边缘化的知识传统中建构替代性认知方式（Mignolo, 2009, cited in Parreira do Amaral, 2022, pp.39–40）
 > - **对"开放社会科学"的批判**：Gulbenkian Commission (1996) 倡导将社会科学向世界"开放"，吸纳更多非西方声音和议题；Mignolo 等去殖民学者批评这一方案不足以动摇西方认识论的霸权地位——因为它只是在现有框架内增加多样性，而非挑战框架本身的认识论前提。"开放"的做法只会将社会科学维持为一项全球学术事业（planetary academic enterprise），而不改变其知识生产的深层逻辑（Mignolo, 2002, p.64, cited in Parreira do Amaral, 2022, p.38）

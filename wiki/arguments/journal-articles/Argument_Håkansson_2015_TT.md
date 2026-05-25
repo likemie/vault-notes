@@ -23,10 +23,10 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Effect Size]]"
   - "[[Classroom Management]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Comparative Meta-synthesis]]"
-  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[PISA]]"

@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Official Knowledge]]"
   - "[[Hegemony]]"
+  - "[[The Great Learning]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Symbolic Boundary]]"
   - "[[Self-Cultivation]]"

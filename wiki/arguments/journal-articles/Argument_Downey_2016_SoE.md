@@ -21,8 +21,7 @@ related_theories:
   - "[[Refraction Framework]]"
 related_methods:
   - "[[Seasonal Comparison]]"
-related_persons:
-  - "[[wiki-Pierre Bourdieu]]"
+related_persons: []
 related_facts:
   - "[[PISA]]"
 related_arguments: []

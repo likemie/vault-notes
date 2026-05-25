@@ -25,6 +25,7 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
+  - "[[The Great Learning]]"
   - "[[Preemptive Governance]]"
   - "[[Promising Student]]"
   - "[[Professional Judgment]]"
@@ -32,7 +33,8 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Gamification]]"
   - "[[Data Behaviorism]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons: []
 related_facts: []

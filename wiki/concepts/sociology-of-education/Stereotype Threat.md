@@ -13,7 +13,8 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Orientalism]]"
   - "[[Meta-Cultural Sensitivity]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons: []
 related_facts: []

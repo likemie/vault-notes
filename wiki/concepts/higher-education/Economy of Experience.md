@@ -14,6 +14,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Credential Inflation]]"
+  - "[[The Great Learning]]"
   - "[[Social Engagement]]"
   - "[[Employability]]"
   - "[[Cultural Capital]]"
@@ -23,10 +24,11 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-08

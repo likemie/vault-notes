@@ -13,6 +13,7 @@ tags:
 - social-stratification
 - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Economy of Experience]]"
   - "[[Employability]]"
   - "[[Champ]]"
@@ -24,7 +25,8 @@ related_facts:
   - "[[China College Graduate Employment Reform]]"
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: '2026-05-08'

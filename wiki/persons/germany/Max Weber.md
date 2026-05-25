@@ -13,19 +13,22 @@ tags:
   - interpretivism
   - region/germany
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Corporate Education]]"
   - "[[Habitus]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
+  - "[[Neo-Confucianism]]"
   - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Ann Swidler]]"
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -50,7 +53,7 @@ updated: 2026-05-19
 
 > [!note]- 早年与教育（1864–1886）
 > - **1864** 出生于德国 Erfurt，为家中长子，共八个子女中六个活到成年
-> - **1882–1886** 先后在海德堡、斯特拉斯堡、哥廷根和柏林大学学习法学、国民经济学、哲学、神学和历史，主修方向为罗马法（Kaesler, 2014, p.198）
+> - **1882–1886** 先后在海德堡、斯特拉斯堡、哥廷根和柏林[[The Great Learning|大学]]学习法学、国民经济学、哲学、神学和历史，主修方向为罗马法（Kaesler, 2014, p.198）
 > - **1883–1884** 在斯特拉斯堡服兵役（一年志愿兵），最终成为预备役军官
 
 > [!note]- 学术起步与婚姻（1889–1897）
@@ -147,7 +150,7 @@ updated: 2026-05-19
 
 ### 1904–1910 — 方法论突破与宗教社会学开端
 
-- **核心内容**：1904 年发表方法论纲领《社会科学和社会政策知识的"客观性"》和《新教伦理与资本主义精神》（第一部分）。赴美旅行极大拓展了比较视野。1908/09 年进行工业劳动心理物理学实验研究。
+- **核心内容**：1904 年发表方法论纲领《社会科学和社会政策知识的"客观性"》和《新教伦理与资本主义精神》（第一部分）。赴美旅行极大拓展了比较视野。1908/09 年进行工业劳动心理物[[Neo-Confucianism|理学]]实验研究。
 - **思想发展**：确立价值判断自由（Werturteilsfreiheit）的方法论原则、理想类型的认识工具、以及文化科学的历史个体取向。新教伦理研究将宗教观念引入对资本主义起源的解释——不是对唯物史观的替代，而是补充。此期从社会政策研究转向普遍历史比较的宗教社会学。
 - **相关概念／理论**：价值判断自由、理想类型、入世禁欲、新教伦理与资本主义精神
 
@@ -182,9 +185,9 @@ updated: 2026-05-19
 
 ### 学者传承
 
-- **影响了 [[wiki-Pierre Bourdieu]]** 的实践理论——Bourdieu 在建构[[Habitus|习性]]概念时承袭并超越了韦伯对行动意义的关注
+- **影响了 wiki-[[Pierre Bourdieu]]** 的实践理论——Bourdieu 在建构[[Habitus|习性]]概念时承袭并超越了韦伯对行动意义的关注
 - **影响了 [[Ann Swidler]]** 的 [[Culture as Toolkit|文化工具箱]] 理论——Swidler 与 Weber-Parsons 传统构成文化社会学的两大对立范式
-- **影响了 [[Yajun Zheng|郑雅君]]（2023）**：以韦伯诠释社会学作为全书认识论锚点，以工具/价值理性区分作为文化社会学讨论的起点；在分析大学生择业中的工作意义图式时援引韦伯的"扳道工"（switchman）假说——"直接支配人的行为的，不是理念，而是物质的和精神的兴趣。可是，由'理念'所创造出来的'世界形象'，往往像铁路上的扳道夫一样，决定了行动的轨道被兴趣推动的动力循着什么方向在行动"（郑雅君，2023，引 Weber, 2006）；在毕业出路产生机制的四分类模型中，以韦伯的价值理性概念作为横轴的理论基础
+- **影响了 [[Yajun Zheng|郑雅君]]（2023）**：以韦伯诠释社会学作为全书认识论锚点，以工具/价值理性区分作为文化社会学讨论的起点；在分析[[The Great Learning|大学]]生择业中的工作意义图式时援引韦伯的"扳道工"（switchman）假说——"直接支配人的行为的，不是理念，而是物质的和精神的兴趣。可是，由'理念'所创造出来的'世界形象'，往往像铁路上的扳道夫一样，决定了行动的轨道被兴趣推动的动力循着什么方向在行动"（郑雅君，2023，引 Weber, 2006）；在毕业出路产生机制的四分类模型中，以韦伯的价值理性概念作为横轴的理论基础
 - **影响了 Hartmann (2022) 的[[Corporate Education|企业教育]]分析**：Hartmann 以韦伯的权力-权威区分为起点，结合 DiMaggio & Powell 的[[Institutional Isomorphism|制度同构]]理论，分析[[Corporate Education|企业教育]]如何在强制型、模仿型和规范型同构三种机制中获取合法性（Hartmann, 2022, pp.182–184）
 
 ---
@@ -224,7 +227,7 @@ updated: 2026-05-19
 
 ## 来源
 
-- 郑_2023_上海三联书店
+- [[郑_2023_上海三联书店]]
 
 **生平主要依据：**
 - Kaesler, D. (2014). *Max Weber. Preuße, Denker, Muttersohn*. Beck.

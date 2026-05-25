@@ -18,7 +18,8 @@ related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: low
 status: draft
 created: '2026-05-09'
@@ -60,4 +61,4 @@ updated: '2026-05-19'
 
 ## 来源
 
-- 郑_2023_上海三联书店
+- [[郑_2023_上海三联书店]]

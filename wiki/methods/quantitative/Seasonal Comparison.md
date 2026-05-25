@@ -13,7 +13,8 @@ tags:
 - causal-inference
 - paradigm/positivist
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons: []
 related_arguments: []
@@ -89,7 +90,7 @@ updated: '2026-05-18'
 
 
 > [!warning] 对种族模式的解释困难
-> 种族认知技能差距的季节性模式在不同研究中不一致：Heyns (1978) 在亚特兰大发现学校对种族差距是补偿性的，但 ECLS-K 全国数据暗示学校可能是加剧性的。种族差距在幼儿园入学前已很大，这使得整理学校和非学校因素变得复杂（Downey & Condron, 2016, p.5）。
+> 种族认知技能差距的季节性模式在不同研究中不一致：Heyns (1978) 在亚特兰大发现学校对种族差距是补偿性的，但 ECLS-K 全国数据暗示学校可能是加剧性的。种族差距在幼儿园入学前已很大，这使得整[[Neo-Confucianism|理学]]校和非学校因素变得复杂（Downey & Condron, 2016, p.5）。
 
 ## 使用此方法的研究
 

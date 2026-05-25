@@ -16,6 +16,7 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Cognitive Source]]"
+  - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
 related_theories: []
 related_methods:
@@ -25,7 +26,8 @@ related_persons:
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-24

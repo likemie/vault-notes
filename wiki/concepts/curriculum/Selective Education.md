@@ -18,8 +18,8 @@ related_persons: []
 related_facts:
   - "[[Grammar School]]"
   - "[[Education and Inspections Act 2006]]"
-  - "[[Ofsted]]"
   - "[[Selective Schools Expansion Fund]]"
+  - "[[Ofsted]]"
 related_arguments: []
 sources:
   - "[[Bainbridge_2022_ROE]]"

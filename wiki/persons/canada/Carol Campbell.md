@@ -13,6 +13,7 @@ tags:
 - ontario
 - region/canada
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Professional Judgment]]"
@@ -34,7 +35,7 @@ updated: '2026-05-21'
 ## 简介
 
 > [!info] 简介
-> Carol [[Campbell Collaboration|Campbell]] 是加拿大教育领导力学者，多伦多大学安大略教育研究院教授。当前 vault 中最重要的不是她的完整传记，而是她在 [[Evidence-Informed Practice]]、[[Knowledge Mobilisation]] 与安大略系统改革之间所起的桥接作用（Nelson & Campbell, 2017, pp.130–132）。
+> Carol [[Campbell Collaboration|Campbell]] 是加拿大教育领导力学者，多伦多[[The Great Learning|大学]]安大略教育研究院教授。当前 vault 中最重要的不是她的完整传记，而是她在 [[Evidence-Informed Practice]]、[[Knowledge Mobilisation]] 与安大略系统改革之间所起的桥接作用（Nelson & Campbell, 2017, pp.130–132）。
 
 ## 核心思想
 
@@ -63,14 +64,14 @@ updated: '2026-05-21'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Nelson, J., & [[Campbell Collaboration|Campbell]], C. (2017). *Evidence-informed practice in education_ meanings and applications*. Educational Research, 59(2), 127–135. — 系统整合 [[Evidence-Informed Practice|EIP]] 的定义、应用和测量问题。
+> - Nelson, J., & [[Campbell Collaboration|Campbell]], C. (2017). *[[Evidence-Informed Practice]] in education_ meanings and applications*. Educational Research, 59(2), 127–135. — 系统整合 [[Evidence-Informed Practice|EIP]] 的定义、应用和测量问题。
 > - Campbell, C. (2016). *Supporting teachers as a profession of knowledge developers and mobilisers*. Education Today, 66(2), 5–20. — 强调教师专业不只是使用知识，也要发展与动员知识。
 > - Campbell, C. (2014). *Q&A with Carol Campbell*. Lead the Change, Series 41. AERA Educational Change SIG. — 展示安大略系统改革中的研究与评估战略。
 
 ## 生平与职涯
 
 > [!note]
-> - 任多伦多大学安大略教育研究院教授，研究集中于教育领导力、系统改革和研究使用。
+> - 任多伦多[[The Great Learning|大学]]安大略教育研究院教授，研究集中于教育领导力、系统改革和研究使用。
 > - 参与并推动安大略省 KNAER 等系统层面的研究-实践合作项目（Nelson & [[Campbell Collaboration|Campbell]], 2017, pp.130–131）。
 > - **2017** 年与 [[Julie Nelson]] 共同编辑 [[Evidence-Informed Practice|EIP]] 特刊，将证据知情实践讨论系统化。
 

@@ -14,6 +14,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Champ]]"
+  - "[[The Great Learning]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Bildung]]"
@@ -27,14 +28,16 @@ related_concepts:
   - "[[Refined Mastery]]"
 related_theories:
   - "[[Culture as Toolkit]]"
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Didier Eribon]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: low
 status: draft
 created: 2026-05-08

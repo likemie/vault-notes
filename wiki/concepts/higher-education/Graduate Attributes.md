@@ -15,6 +15,7 @@ tags:
 - level/higher-ed
 - region/uk
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Employability]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Feedback]]"

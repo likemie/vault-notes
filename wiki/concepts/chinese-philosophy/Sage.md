@@ -18,20 +18,24 @@ tags:
 related_concepts:
   - "[[Junzi]]"
   - "[[Humility in Learning]]"
+  - "[[The Great Learning]]"
   - "[[Self-Cultivation]]"
   - "[[Benevolence]]"
   - "[[Take the World Upon Oneself]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Confucius]]"
   - "[[Mencius]]"
+  - "[[Cheng Brothers]]"
   - "[[Zhu Xi]]"
   - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22

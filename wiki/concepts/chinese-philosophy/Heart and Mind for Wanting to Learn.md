@@ -12,10 +12,13 @@ tags:
 - theme/cross-cultural-learning
 - theme/learning-motivation
 related_concepts:
+  - "[[Faust]]"
   - "[[Enculturation]]"
   - "[[Learning Virtues]]"
+  - "[[The Great Learning]]"
   - "[[Humility in Learning]]"
 related_theories:
+  - "[[Neo-Confucianism]]"
   - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[Prototype Methods]]"
@@ -24,7 +27,8 @@ related_persons:
   - "[[Confucius]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: '2026-05-21'

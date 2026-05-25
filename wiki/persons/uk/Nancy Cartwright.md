@@ -11,6 +11,7 @@ tags:
 - region/uk
 - region/us
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Programme Fidelity vs Adaptation]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -23,6 +24,8 @@ related_persons:
 related_arguments: []
 sources:
   - "[[Cowen_2015_CHESS]]"
+related_facts:
+  - "[[What Works Network]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -32,7 +35,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Nancy Cartwright，科学哲学家，杜伦大学哲学系教授（Durham University）和加州大学圣地亚哥分校（UC San Diego）荣休教授。她是 CHESS（Centre for Humanities Engaging Science and Society）的核心成员，专注于因果推断、证据本位政策和科学哲学的实践应用。Cartwright 将科学哲学的分析工具应用于证据本位政策领域，特别是教育和社会政策，与 [[Nick Cowen]] 等人合作发表了一系列工作论文和专著。
+> Nancy Cartwright，科学哲学家，杜伦[[The Great Learning|大学]]哲学系教授（Durham University）和加州大学圣地亚哥分校（UC San Diego）荣休教授。她是 CHESS（Centre for Humanities Engaging Science and Society）的核心成员，专注于因果推断、证据本位政策和科学哲学的实践应用。Cartwright 将科学哲学的分析工具应用于证据本位政策领域，特别是教育和社会政策，与 [[Nick Cowen]] 等人合作发表了一系列工作论文和专著。
 >
 > > 例：Cartwright 的分析不是抽象的哲学讨论，而是直接针对 [[Randomised Controlled Trials|RCT]] 证据如何从研究情境推论到特定学校课堂这一实践问题（Cowen et al., 2015）
 
@@ -49,7 +52,7 @@ updated: '2026-05-19'
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 提出 [[Randomised Controlled Trials|RCT]] 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，强调因果机制理解在每一阶段过渡中的关键作用
 > - Evidence-Based Policy - A Practical Guide — 与 Jeremy Hardie 合著（OUP, 2012），系统阐述了证据本位政策在实际应用中的挑战和策略
 > - [[Programme Fidelity vs Adaptation]] 辩论 — 以加州班级缩减政策（1996）为例，论证"忠实执行"并非总是最优策略：成功的实施可能需要改变原始方案以适应本地条件（Cowen et al., 2015, p.17-18）
-> - 参与英国 What Works Network 的早期政策分析，为教育领域证据实施提供哲学框架
+> - 参与英国 [[What Works Network]] 的早期政策分析，为教育领域证据实施提供哲学框架
 
 ## 主要著作
 
@@ -63,7 +66,7 @@ updated: '2026-05-19'
 > [!note-] 思想发展与影响
 > - 受 Dewey 实用主义认识论影响，强调知识是"关于过去行动与后果关系的记录，提供可能性而非确定性"
 > - 与 [[Nick Cowen]] 合作，将科学[[Philosophical Analysis in Education|哲学分析]]应用于教育政策的政治经济学分析
-> - 影响了英国 What Works Network 的证据呈现和实施指导方向
+> - 影响了英国 [[What Works Network]] 的证据呈现和实施指导方向
 > - 在教育领域，她的工作为批判纯 [[Randomised Controlled Trials|RCT]] 中心的证据观提供了哲学基础，补充了 [[Gert Biesta]] 从教育哲学角度的批判
 
 ## 争议与批评

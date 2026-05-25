@@ -16,19 +16,23 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Ritual Propriety]]"
+  - "[[Four Sprouts]]"
   - "[[Self-Cultivation]]"
   - "[[Junzi]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Confucius]]"
   - "[[Mencius]]"
+  - "[[Cheng Brothers]]"
   - "[[Zhu Xi]]"
   - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22

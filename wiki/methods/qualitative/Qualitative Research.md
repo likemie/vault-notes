@@ -12,7 +12,8 @@ tags:
 - paradigm/interpretivist
 related_concepts:
   - "[[Recommendations for Practice]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
@@ -37,7 +38,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> Brady et al. (2023) 将质性研究的增加解释为教育心理学方法世界观变化的可能信号：心理学历史上偏向后实证主义视角，而质性与[[Mixed Method and Multi-method Research|混合方法研究]]的增长可能表示后现代、相对主义等其他世界观在教育心理学中获得更多空间，或至少显示研究者所采用的世界观更加多样（Brady et al., 2023, p.7）。
+> Brady et al. (2023) 将质性研究的增加解释为教育心[[Neo-Confucianism|理学]]方法世界观变化的可能信号：心理学历史上偏向后实证主义视角，而质性与[[Mixed Method and Multi-method Research|混合方法研究]]的增长可能表示后现代、相对主义等其他世界观在教育心理学中获得更多空间，或至少显示研究者所采用的世界观更加多样（Brady et al., 2023, p.7）。
 
 ## 操作步骤
 
@@ -50,7 +51,7 @@ updated: '2026-05-18'
 
 > [!success] 适用场景
 > - 适合在研究早期理解教育情境、观察参与和推理等复杂现象；2020 年 *Journal of Educational Psychology* 曾出版 "Qualitative Studies of Reasoning and Participation" 专刊（Brady et al., 2023, p.5）。
-> - 适合补充以实验和量化关联为主的教育心理学传统，使高影响期刊能纳入更广泛的方法视角（Brady et al., 2023, pp.7-8）。
+> - 适合补充以实验和量化关联为主的教育心[[Neo-Confucianism|理学]]传统，使高影响期刊能纳入更广泛的方法视角（Brady et al., 2023, pp.7-8）。
 
 ## 局限性
 

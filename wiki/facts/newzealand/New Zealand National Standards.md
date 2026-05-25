@@ -13,6 +13,7 @@ tags:
 - region/new-zealand
 - level/k12
 related_concepts:
+  - "[[Effective Teaching]]"
   - "[[Visible Learning]]"
   - "[[Professional Judgment]]"
 related_theories: []
@@ -21,6 +22,8 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
+  - "[[The New Zealand Curriculum]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
 related_arguments:
   - "[[Argument_ONeill_2012_NZJES]]"

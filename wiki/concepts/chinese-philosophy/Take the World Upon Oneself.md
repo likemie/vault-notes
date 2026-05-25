@@ -15,9 +15,11 @@ tags:
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Junzi]]"
+  - "[[The Great Learning]]"
   - "[[Sage]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons:
   - "[[Mencius]]"
@@ -26,7 +28,8 @@ related_persons:
 related_facts:
   - "[[Civil Service Examination]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22

@@ -25,6 +25,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Qvortrup_2019_NordSTEP]]"
+  - "[[Ross_Morrison_2021_ROE]]"
 confidence: low
 status: draft
 created: '2026-05-03'

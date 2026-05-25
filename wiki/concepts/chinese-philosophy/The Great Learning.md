@@ -4,10 +4,18 @@ aliases: ["大学", "Daxue", "八条目"]
 summary: "儒家四书之一_提出格物致知诚意正心修身齐家治国平天下的八条目_为东亚学习传统提供系统性框架"
 type: concept
 tags: ["region/china", "theory/confucianism", "field/chinese-philosophy", "theme/learning"]
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Self-Cultivation]]"
+  - "[[Sage]]"
+  - "[[University Motto]]"
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Zhu Xi]]"
+  - "[[Cheng Brothers]]"
+  - "[[Confucius]]"
+  - "[[Wang Yangming]]"
 related_facts: []
 related_arguments: []
 sources:

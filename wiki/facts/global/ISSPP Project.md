@@ -12,6 +12,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Champ]]"
   - "[[Transformative Leadership]]"
 related_theories: []
 related_methods: []
@@ -20,7 +21,8 @@ related_persons:
 related_facts:
   - "[[PISA]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Møller_2017_EERJ]]"
 confidence: high
 status: draft
 created: '2026-05-02'

@@ -16,10 +16,12 @@ tags:
 - level/higher-ed
 - theme/geopolitics
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[International Education Hubs]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
-related_theories: []
+related_theories:
+  - "[[Neo-Confucianism]]"
 related_methods: []
 related_persons: []
 related_facts:

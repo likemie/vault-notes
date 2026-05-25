@@ -9,11 +9,13 @@ tags:
 - temporality
 - past-present-future
 - literature
-related_concepts: []
+related_concepts:
+  - "[[Transitology]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Sputnik Shock 1957]]"
 related_arguments: []
 sources:
   - "[[Ch4_Amos_2022]]"

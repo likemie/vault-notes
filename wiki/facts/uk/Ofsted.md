@@ -16,8 +16,8 @@ tags:
 - region/uk
 related_concepts:
   - "[[Moral Sidestep]]"
-  - "[[Evidence-Based Education]]"
   - "[[Justified Warrants]]"
+  - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
   - "[[Carnivalesque Analysis]]"

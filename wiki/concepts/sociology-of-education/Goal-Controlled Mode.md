@@ -11,6 +11,7 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
+  - "[[The Great Learning]]"
   - "[[Academic Engagement]]"
   - "[[Habitus]]"
   - "[[Champ]]"
@@ -32,12 +33,13 @@ related_methods:
   - "[[Matching]]"
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[wiki-Pierre Bourdieu]]"
+  - "[[Pierre Bourdieu]]"
   - "[[Marcia Baxter Magolda]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-08

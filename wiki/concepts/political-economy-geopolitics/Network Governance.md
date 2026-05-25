@@ -12,6 +12,7 @@ tags:
 - region/eu
 related_concepts:
   - "[[Performance Indicators]]"
+  - "[[The Great Learning]]"
   - "[[Neocorporatism]]"
   - "[[Theories of Policy Change]]"
   - "[[Selectivity]]"

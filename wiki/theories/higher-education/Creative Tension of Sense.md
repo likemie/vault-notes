@@ -20,6 +20,7 @@ related_concepts:
   - "[[Life Power]]"
   - "[[Champ]]"
   - "[[Social Museology]]"
+  - "[[The Great Learning]]"
   - "[[Whole Sustainability]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
@@ -96,7 +97,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - [[Ganz-Methode]] — 张力理论的实践方法论，将"承载张力"操作化为两步程序
-> - 高等教育 — 作者主张大学可运用张力认识论来面对新旧知识范式交替的挑战。具体包括：水平化制度关系（horizontalize its relations）、发展"情感倾听和张力中的倾听"（affective listening and listening in tension）、将大学作为社会"[[Life Power|生命力量]]"的场所（locus of life power）。作者提出"整体教育"（Ganz Education）概念——在张力中学会承载张力和发现每个人的生命力量——作为高等教育改革的方向（Delambre, 2022, p.119–121）
+> - 高等教育 — 作者主张[[The Great Learning|大学]]可运用张力认识论来面对新旧知识范式交替的挑战。具体包括：水平化制度关系（horizontalize its relations）、发展"情感倾听和张力中的倾听"（affective listening and listening in tension）、将大学作为社会"[[Life Power|生命力量]]"的场所（locus of life power）。作者提出"整体教育"（Ganz Education）概念——在张力中学会承载张力和发现每个人的生命力量——作为高等教育改革的方向（Delambre, 2022, p.119–121）
 > - 可持续发展 — 通过"[[Whole Sustainability|整体可持续性]]"（Whole Sustainability）概念应用于可持续发展实践。Whole Sustainability 将张力理论应用于可持续性科学和实践，质疑从属于霸权发展模式认识论的可持续性概念。其"整体性"在于纳入局部社区的一切生命力量要素及内外部威胁（Delambre, 2022, p.109 脚注）
 > - 个体与组织发展 — WTS Coaching 项目将张力理论应用于个体 coaching、商业发展和制度变革（Delambre, 2022, p.107）
 

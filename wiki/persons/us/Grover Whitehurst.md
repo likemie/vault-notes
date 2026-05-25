@@ -52,7 +52,7 @@ updated: '2026-05-19'
 
 > [!success] 主要贡献
 > - **教育科学研究所（IES）的建立**：Whitehurst 领导了将 OERI 重组为 IES 的过程，后者以医学 NIH 为模型建立了更严格的资助和研究标准
-> - **What Works Clearinghouse（[[What Works Clearinghouse|WWC]]）**：在其领导下启动，成为美国教育项目有效性审查的核心机构
+> - **[[What Works Clearinghouse]]（[[What Works Clearinghouse|WWC]]）**：在其领导下启动，成为美国教育项目有效性审查的核心机构
 > - **学前课程评估研究拨款项目**：首个大规模要求随机化评估的联邦教育研究拨款
 
 ## 主要著作

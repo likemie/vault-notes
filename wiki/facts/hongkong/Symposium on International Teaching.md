@@ -14,12 +14,14 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
+  - "[[The Great Learning]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ryan(Ed.)_2010_HKUP]]"
 confidence: medium
 status: draft
 created: '2026-05-16'
