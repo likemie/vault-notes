@@ -21,6 +21,7 @@ related_persons: []
 related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"
@@ -60,7 +61,7 @@ updated: 2026-05-18
 >
 > > 例：EAG 指标的年度常规化生产——相同的统计公式、相同的分类框架、相同的协商程序——使得指标获得了一种程序产生的可信度，即使底层数据充满妥协（编者类比）
 >
-> **排序（Ordering）**（Law, 1994; Berg & Timmermans, 2000; Bowker & Star, 2000）
+> **排序（Ordering）**（Law, 1994; Berg & Timmermans, 2000; Bowker & [[Tennessee STAR Project 1985-1989|STAR]], 2000）
 > 使多样化世界变得可管理和可比较需要各种"排序"操作——分类、标准化、选择、删除——来统一不同的实体（Gorur, 2014, p.9–10）。
 >
 > > 例：ISCED（[[International Education|国际教育]]标准分类）是这种排序操作的典型案例：各国的教育体系必须被翻译为统一的分类框架才能进行比较——这意味着每个国家的独特性必须被压缩到可比较的类别中（Gorur, 2014, p.5, 16）
