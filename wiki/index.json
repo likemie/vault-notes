@@ -977,12 +977,40 @@
     ]
   },
   {
+    "title": "5-3-20 Rule",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/5-3-20 Rule.md",
+    "aliases": [
+      "5-3-20规则"
+    ]
+  },
+  {
     "title": "Educational Evidence Clearinghouses",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
     "aliases": [
       "教育证据清算中心",
       "教育证据清算机构"
+    ]
+  },
+  {
+    "title": "Educational Management Organisation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Educational Management Organisation.md",
+    "aliases": [
+      "教育管理组织",
+      "EMO"
+    ]
+  },
+  {
+    "title": "Endogenous and Exogenous Privatisation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Endogenous and Exogenous Privatisation.md",
+    "aliases": [
+      "内生与外生私有化",
+      "教育私有化",
+      "endogenous privatization",
+      "exogenous privatization"
     ]
   },
   {
@@ -1015,12 +1043,143 @@
     ]
   },
   {
+    "title": "Global Education Reform Movement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md",
+    "aliases": [
+      "GERM",
+      "全球教育改革运动"
+    ]
+  },
+  {
+    "title": "Implementation Fidelity",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Implementation Fidelity.md",
+    "aliases": [
+      "实施忠实度",
+      "实施保真度",
+      "fidelity of implementation",
+      "implementation quality"
+    ]
+  },
+  {
+    "title": "Inclusive Evidence Validation Typology",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Inclusive Evidence Validation Typology.md",
+    "aliases": [
+      "包容性证据验证类型学",
+      "inclusive typology of research designs",
+      "inclusive validation typology"
+    ]
+  },
+  {
+    "title": "Knowledge Mobilisation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Knowledge Mobilisation.md",
+    "aliases": [
+      "知识动员",
+      "知识转译",
+      "KMb",
+      "knowledge mobilization"
+    ]
+  },
+  {
     "title": "Local Knowledge in Evidence-Based Policy",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Local Knowledge in Evidence-Based Policy.md",
     "aliases": [
       "证据本位政策中的地方知识",
       "地方知识"
+    ]
+  },
+  {
+    "title": "New Public Management",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/New Public Management.md",
+    "aliases": [
+      "新公共管理"
+    ]
+  },
+  {
+    "title": "Performance Pay",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Performance Pay.md",
+    "aliases": [
+      "绩效工资",
+      "merit pay"
+    ]
+  },
+  {
+    "title": "Policy Entrepreneur",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Policy Entrepreneur.md",
+    "aliases": [
+      "政策企业家"
+    ]
+  },
+  {
+    "title": "Professional Judgment",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md",
+    "aliases": [
+      "专业判断"
+    ]
+  },
+  {
+    "title": "Programme Fidelity vs Adaptation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Programme Fidelity vs Adaptation.md",
+    "aliases": [
+      "项目忠实性与适应",
+      "方案忠实性与适应"
+    ]
+  },
+  {
+    "title": "Pure Evaluation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Pure Evaluation.md",
+    "aliases": [
+      "纯粹评价"
+    ]
+  },
+  {
+    "title": "Recommendations for Practice",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Recommendations for Practice.md",
+    "aliases": [
+      "实践建议"
+    ]
+  },
+  {
+    "title": "Reusability Paradox",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Reusability Paradox.md",
+    "aliases": [
+      "可重用性悖论"
+    ]
+  },
+  {
+    "title": "School Autonomy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/School Autonomy.md",
+    "aliases": [
+      "学校自主权"
+    ]
+  },
+  {
+    "title": "Side Effects in Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Side Effects in Education.md",
+    "aliases": [
+      "教育中的副作用"
+    ]
+  },
+  {
+    "title": "Venture Philanthropy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Venture Philanthropy.md",
+    "aliases": [
+      "风险慈善"
     ]
   },
   {
@@ -1886,26 +2045,6 @@
     ]
   },
   {
-    "title": "Educational Management Organisation",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Educational Management Organisation.md",
-    "aliases": [
-      "教育管理组织",
-      "EMO"
-    ]
-  },
-  {
-    "title": "Endogenous and Exogenous Privatisation",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Endogenous and Exogenous Privatisation.md",
-    "aliases": [
-      "内生与外生私有化",
-      "教育私有化",
-      "endogenous privatization",
-      "exogenous privatization"
-    ]
-  },
-  {
     "title": "Forced Knowledge Transfer",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Forced Knowledge Transfer.md",
@@ -1950,15 +2089,6 @@
     "aliases": [
       "全球教育产业",
       "GEI"
-    ]
-  },
-  {
-    "title": "Global Education Reform Movement",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Global Education Reform Movement.md",
-    "aliases": [
-      "GERM",
-      "全球教育改革运动"
     ]
   },
   {
@@ -2075,36 +2205,11 @@
     ]
   },
   {
-    "title": "New Public Management",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/New Public Management.md",
-    "aliases": [
-      "新公共管理"
-    ]
-  },
-  {
     "title": "Orientalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Orientalism.md",
     "aliases": [
       "东方主义"
-    ]
-  },
-  {
-    "title": "Performance Pay",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Performance Pay.md",
-    "aliases": [
-      "绩效工资",
-      "merit pay"
-    ]
-  },
-  {
-    "title": "Policy Entrepreneur",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Policy Entrepreneur.md",
-    "aliases": [
-      "政策企业家"
     ]
   },
   {
@@ -2131,14 +2236,6 @@
     "aliases": [
       "激进自由国际主义",
       "rules-based order"
-    ]
-  },
-  {
-    "title": "School Autonomy",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/School Autonomy.md",
-    "aliases": [
-      "学校自主权"
     ]
   },
   {
@@ -2200,14 +2297,6 @@
     ]
   },
   {
-    "title": "Venture Philanthropy",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Venture Philanthropy.md",
-    "aliases": [
-      "风险慈善"
-    ]
-  },
-  {
     "title": "VUCA",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/VUCA.md",
@@ -2215,14 +2304,6 @@
       "波动性-不确定性-复杂性-模糊性",
       "VUCA 框架",
       "VUCA环境"
-    ]
-  },
-  {
-    "title": "5-3-20 Rule",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/5-3-20 Rule.md",
-    "aliases": [
-      "5-3-20规则"
     ]
   },
   {
@@ -2280,43 +2361,11 @@
     ]
   },
   {
-    "title": "Implementation Fidelity",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Implementation Fidelity.md",
-    "aliases": [
-      "实施忠实度",
-      "实施保真度",
-      "fidelity of implementation",
-      "implementation quality"
-    ]
-  },
-  {
-    "title": "Inclusive Evidence Validation Typology",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Inclusive Evidence Validation Typology.md",
-    "aliases": [
-      "包容性证据验证类型学",
-      "inclusive typology of research designs",
-      "inclusive validation typology"
-    ]
-  },
-  {
     "title": "Justified Warrants",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Justified Warrants.md",
     "aliases": [
       "有根据的担保断言"
-    ]
-  },
-  {
-    "title": "Knowledge Mobilisation",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Knowledge Mobilisation.md",
-    "aliases": [
-      "知识动员",
-      "知识转译",
-      "KMb",
-      "knowledge mobilization"
     ]
   },
   {
@@ -2364,23 +2413,6 @@
     ]
   },
   {
-    "title": "Professional Judgment",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Professional Judgment.md",
-    "aliases": [
-      "专业判断"
-    ]
-  },
-  {
-    "title": "Programme Fidelity vs Adaptation",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Programme Fidelity vs Adaptation.md",
-    "aliases": [
-      "项目忠实性与适应",
-      "方案忠实性与适应"
-    ]
-  },
-  {
     "title": "Publication Bias",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Publication Bias.md",
@@ -2390,43 +2422,11 @@
     ]
   },
   {
-    "title": "Pure Evaluation",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Pure Evaluation.md",
-    "aliases": [
-      "纯粹评价"
-    ]
-  },
-  {
-    "title": "Recommendations for Practice",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Recommendations for Practice.md",
-    "aliases": [
-      "实践建议"
-    ]
-  },
-  {
     "title": "Researcher Degrees of Freedom",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Researcher Degrees of Freedom.md",
     "aliases": [
       "研究者自由度"
-    ]
-  },
-  {
-    "title": "Reusability Paradox",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Reusability Paradox.md",
-    "aliases": [
-      "可重用性悖论"
-    ]
-  },
-  {
-    "title": "Side Effects in Education",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Side Effects in Education.md",
-    "aliases": [
-      "教育中的副作用"
     ]
   },
   {

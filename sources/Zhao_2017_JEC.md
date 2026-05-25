@@ -3,9 +3,9 @@ citation: "Zhao, Y. (2017). What works may hurt: Side effects in education. Jour
 extracted_to:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Evidence-Based Education]]"
+  - "[[Side Effects in Education]]"
   - "[[Direct Instruction]]"
   - "[[Visible Learning]]"
-  - "[[Side Effects in Education]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Yong Zhao]]"
