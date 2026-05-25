@@ -4,7 +4,7 @@ aliases:
   - 学校中的社区
   - CIS
   - "Communities in Schools (CIS)"
-summary: "Wadhwa et al. (2024) 的清算中心评级分歧案例：NDPC 推荐，PPN/CNCS 认为 promising 或中等支持，Blueprints/CMFR 不背书"
+summary: "美国综合学生支持项目，在多个证据清算中心中获得不一致评级，是教育干预证据分歧的典型案例"
 type: fact
 subtype: event
 region: us

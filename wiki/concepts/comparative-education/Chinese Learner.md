@@ -4,7 +4,7 @@ aliases:
   - 中国学习者
   - Chinese learners
   - Chinese student
-summary: "Li_2012 从儒家传统与实证研究提炼的学习者模型_向内完善自我_八层同心圆路径_七种学习美德为能动性_与西方学习者形成方向性对比_兼含 Ryan_Slethaug 等对西方刻板印象话语的批判"
+summary: "以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象"
 type: concept
 tags:
 - region/china

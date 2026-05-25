@@ -6,7 +6,7 @@ Total entries: **46**
 
 ## Chinese Philosophy
 
-- [[Confucian Learning Tradition]] — Li (2012) 识别的东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德、行勝於言四个文化主题
+- [[Confucian Learning Tradition]] — 东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题
 
 ## Communication Discourse
 
@@ -14,7 +14,7 @@ Total entries: **46**
 
 ## Comparative Education
 
-- [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，Laursen (2015) 用其检验以英语国家研究为主的有效教学综合是否适用于丹麦
+- [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，用权力距离、个人主义、不确定性规避等维度比较国家文化差异及其组织和教育影响
 - [[Institutional Isomorphism]] — 解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论
 - [[Nation Building through Education]] — 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析
 - [[World Society Theory]] — 把全球制度扩散理解为世界文化模型广泛传播与模仿结果的社会学理论，用于解释学校制度和大学组织为何在跨国范围内趋同
@@ -29,12 +29,12 @@ Total entries: **46**
 - [[Autopoiesis]] — 把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织
 - [[Critical Realism]] — Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架
 - [[Goldman's Discrimination Theory of Knowledge]] — 知识的成立依赖区分真实状态与相关替代可能状态的能力，可用于说明教育判断为何往往具有局部性、情境性与暂定性
-- [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，Larsen (2019) 以盲点和结构耦合概念批判 VL
+- [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，并以盲点和结构耦合解释系统观察与互动
 - [[Phenomenology]] — 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的“现象“概念和教育意义
 - [[Popper's Three Worlds Theory]] — 将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承
 - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
 - [[Science and Technology Studies]] — 跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念
-- [[Societies of Control]] — Deleuze (1992) 提出的社会理论_ 后规训时代的权力形态以持续调制取代封闭式规训，教育机构被纳入企业网络逻辑，调制永不终止
+- [[Societies of Control]] — Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑
 - [[Technical Rationality]] — 把专业实践理解为以手段目的计算解决问题的实证主义模型，强调技术控制、价值中立和标准化决策，是批判教育技术化的重要参照
 - [[Transactional Epistemology]] — Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
 - [[Transition Design]] — 把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大
@@ -56,7 +56,7 @@ Total entries: **46**
 - [[Hebbian Principles]] — Hebb 突触可塑性原则：经常使用的神经通路被加强，不常用的被移除，是突触修剪的理论基础
 - [[Miyake's Unity and Diversity Framework of Executive Function]] — Miyake (2000) 的 EF 统一性与多样性框架：抑制、转换、更新与监控三成分既相关又各具独特功能和发展轨迹
 - [[Neo-Piagetian Theories]] — 修正皮亚杰模型的新皮亚杰理论群：Pascual-Leone 的双层/M-power 模型、Case 的四子域模型、Fischer 的技能理论
-- [[Piaget's Theory of Cognitive Development]] — 皮亚杰的认知发展四阶段建构主义理论：感觉运动→前运算→具体运算→形式运算，Bolton & Hattie (2017) 论证其与 PFC 发育在时间上平行对应
+- [[Piaget's Theory of Cognitive Development]] — 皮亚杰的认知发展四阶段建构主义理论，区分感觉运动、前运算、具体运算和形式运算等发展阶段
 - [[Self-Worth Theory]] — Covington (1976) 提出的成就动机理论，认为人类将能力感知为自我价值，会采取各种策略保护自我价值免受失败威胁
 
 ## Political Economy Geopolitics
@@ -65,7 +65,7 @@ Total entries: **46**
 - [[Cultural Political Economy]] — 把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造
 - [[Decolonial Geopolitics of Knowledge]] — 从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化
 - [[Fixity-Motion Tension]] — 解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论
-- [[Governmentality]] — Foucault 提出的权力分析概念_ 一种通过塑造主体自我理解而非直接强制来引导行为（conduct of conduct）的治理理性，以自我技术为运作机制
+- [[Governmentality]] — Foucault 的权力分析概念，指通过塑造主体自我理解而非直接强制来引导行为的治理理性，以自我技术为重要运作机制
 - [[Hegemony]] — Antonio Gramsci (1971) 的权力理论：区分强制与霸权（通过法律、教育、媒体、科学、大学等文化制度赢得被统治者积极同意），文化部门的半自主性和知识分子的双重角色是高等教育地缘政治分析的核心工具
 - [[Tullock's Bureaucracy Theory]] — 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
 

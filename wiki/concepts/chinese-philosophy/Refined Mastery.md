@@ -6,7 +6,7 @@ aliases:
   - refined mastery
   - perfected mastery
   - thorough understanding
-summary: "中国学习过程的终极目标_勤奋三阶段的最后一步_从熟悉到练习到精炼完美的掌握_表现为透彻理解与运用自如_以庖丁解牛为典范"
+summary: "中国学习过程的终极目标，指从熟悉到练习再到精炼完美的掌握，表现为透彻理解与运用自如"
 type: concept
 tags:
   - region/china

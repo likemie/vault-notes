@@ -5,7 +5,7 @@ aliases:
   - 中美贸易战
   - 中美贸易摩擦
   - US-China Trade War
-summary: "中美贸易与技术转移争端，Partaken (2022) 定位为 GPK“最好且最当下的经验案例"
+summary: "中美围绕贸易、技术转移、产业政策和国家安全展开的持续性经济与地缘政治争端"
 type: fact
 subtype: event
 region: multi

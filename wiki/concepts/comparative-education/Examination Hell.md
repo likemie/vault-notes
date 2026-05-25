@@ -5,7 +5,7 @@ aliases:
   - 考试地域
   - exam hell
   - examination-driven system
-summary: "Ishisada (1974) 用以描述东亚应试教育体系的术语。Li (2012) 呈现了 Peng (1998) 从儒家道德困境角度对该体系难以被替代的解释，并援引心理健康数据反驳了考试压力损害论。"
+summary: "描述东亚应试教育体系的术语，指高风险考试压力、升学竞争和儒家道德义务交织形成的教育困境"
 type: concept
 tags:
 - region/china

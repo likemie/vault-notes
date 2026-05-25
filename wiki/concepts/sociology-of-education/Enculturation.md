@@ -4,7 +4,7 @@ aliases:
   - 文化濡化
   - 濡化
   - enculturation
-summary: "人类学概念，指个体在成长过程中通过日常互动无意识地吸收本文化的价值观、行为模式与信念体系的过程"
+summary: "个体在成长过程中通过日常互动吸收本文化价值观、行为模式与信念体系的社会化过程"
 type: concept
 tags:
 - theme/cultural-transmission

@@ -1,7 +1,7 @@
 ---
 title: Critical Companion
 aliases: ["批判性伴随", "critical companion approach", "批判性伴随方法"]
-summary: "Zelinka (2022) 使用的质性话语分析方法_不提供传统系统性文献综述_而是对政策话语框架进行批判性检视_识别核心特征、共同模式和盲点"
+summary: "一种质性话语分析方法，通过批判性陪伴而非传统系统综述检视政策话语框架，识别其核心特征、共同模式和盲点"
 type: method
 method_type: qualitative
 tags: ["method/discourse-analysis", "method/critical", "theme/discourse", "theme/global-governance"]

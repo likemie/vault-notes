@@ -4,7 +4,7 @@ aliases:
   - 希望社区研究联盟
   - PNRC
   - "Promise Neighborhoods Research Consortium (PNRC)"
-summary: "评价项目、政策和实践的 public 清算中心，不进行项目效果分层评级，未进入 Wadhwa et al. (2024) 最终一致性分析"
+summary: "评价项目、政策和实践的公共清算中心，不进行项目效果分层评级，更强调社区项目证据整理与资源汇集"
 type: fact
 subtype: event
 region: us

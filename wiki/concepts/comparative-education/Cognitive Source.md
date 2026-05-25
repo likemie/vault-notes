@@ -5,7 +5,7 @@ aliases:
   - cognitive source
   - cognitive source in learning socialization
   - maternal cognitive source
-summary: "Li (2012) 在母子对话话语分析中识别的分析概念，指母亲引导儿童思考学习时所依赖的认知框架与合法性资源，EA 母亲调用心智来源、TW 母亲调用学习美德来源"
+summary: "母亲引导儿童思考学习时所依赖的认知框架与合法性资源，通常表现为心智来源或学习美德来源等不同文化取向"
 type: concept
 tags:
   - theme/socialization

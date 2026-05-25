@@ -4,7 +4,7 @@ aliases:
   - 儒家式辅导
   - Confucian tutoring
   - Confucian parenting style
-summary: "台湾_儒家文化家庭中一种以学习美德为中心的家长辅导方式，家长引导儿童认识到学习的关键在于品德而非天赋，自我改进永无止境"
+summary: "儒家文化家庭中以学习美德为中心的家长辅导方式，强调学习关键在于品德、自我改进和持续努力而非天赋"
 type: concept
 tags:
   - theme/learning

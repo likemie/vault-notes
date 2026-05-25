@@ -9,7 +9,7 @@ aliases:
   - establish one's will
   - 建立志向
   - determination in learning
-summary: "Li (2012) 在中国学习模型中识别的核心情感维度，指学习者在青少年阶段思索人生目的并做出明确个人志向承诺的心理过程，通过见证人机制将私人决心转化为社会契约"
+summary: "中国学习模型中的核心情感维度，指学习者在青少年阶段思索人生目的并做出明确个人志向承诺的心理过程"
 type: concept
 tags:
 - region/china

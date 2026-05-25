@@ -3,7 +3,7 @@ title: Societies of Control
 aliases:
   - 控制社会
   - société de contrôle
-summary: "Deleuze (1992) 提出的社会理论_ 后规训时代的权力形态以持续调制取代封闭式规训，教育机构被纳入企业网络逻辑，调制永不终止"
+summary: "Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑"
 type: theory
 tags:
   - deleuze

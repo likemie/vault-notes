@@ -4,7 +4,7 @@ aliases:
   - 魔鬼代言人
   - devil's advocate practice
   - devil's advocate speaking
-summary: "源于罗马天主教封圣程序的说话实践_为检验论证而为不赞同的立场辩护_在西方家庭学习社会化中被用作训练儿童论证能力的方式"
+summary: "一种为检验论证而替不赞同立场辩护的说话实践，在西方家庭学习社会化中可用于训练儿童论证能力"
 type: concept
 tags:
   - region/western

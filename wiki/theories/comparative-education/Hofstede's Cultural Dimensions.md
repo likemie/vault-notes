@@ -3,7 +3,7 @@ title: Hofstede's Cultural Dimensions
 aliases:
   - 霍夫斯泰德文化维度理论
   - 文化维度理论
-summary: "国家文化维度理论，Laursen (2015) 用其检验以英语国家研究为主的有效教学综合是否适用于丹麦"
+summary: "国家文化维度理论，用权力距离、个人主义、不确定性规避等维度比较国家文化差异及其组织和教育影响"
 type: theory
 tags:
 - culture

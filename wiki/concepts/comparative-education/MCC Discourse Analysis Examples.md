@@ -4,7 +4,7 @@ aliases:
   - MCC 话语分析示例
   - Li MCC discourse analysis
   - Ch7 discourse examples
-summary: "Li 2012 第7章母子对话研究中话语分析的22段原始对话记录与中文翻译_按认知社会化与情感社会化两大主题组织_先呈现逐句对话再展示Li的分析操作"
+summary: "母子对话研究中的话语分析材料集，按认知社会化与情感社会化组织原始对话、翻译和分析操作示例"
 type: concept
 tags:
   - theme/socialization

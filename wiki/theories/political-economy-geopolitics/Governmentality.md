@@ -6,7 +6,7 @@ aliases:
   - gouvernementalité
   - conduct of conduct
   - 行为的引导
-summary: "Foucault 提出的权力分析概念_ 一种通过塑造主体自我理解而非直接强制来引导行为（conduct of conduct）的治理理性，以自我技术为运作机制"
+summary: "Foucault 的权力分析概念，指通过塑造主体自我理解而非直接强制来引导行为的治理理性，以自我技术为重要运作机制"
 type: theory
 tags:
   - foucault

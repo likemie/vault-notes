@@ -5,7 +5,7 @@ aliases:
   - affect-respect
   - ought-respect
   - 两种尊重
-summary: "Li (2012) 提出的尊重双类型理论_义务性尊重基于权利原则，情感性尊重基于对他人品质的认可与仰慕"
+summary: "尊重的双类型理论，区分基于权利原则的义务性尊重与基于他人品质认可和仰慕的情感性尊重"
 type: concept
 tags:
   - region/east-asia

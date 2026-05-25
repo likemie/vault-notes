@@ -1,6 +1,6 @@
 ---
 title: Argument_Delambre_2022_Springer
-summary: "Ch7 Dell Delambre_ 提出 Creative Tension of Sense 认识论和 Ganz-Methode，主张承载新旧之间的意义张力，以巴西里约热内卢基层实践为案例"
+summary: "Ch7 Dell Delambre，提出 Creative Tension of Sense 认识论和 Ganz-Methode，主张承载新旧之间的意义张力，以巴西里约热内卢基层实践为案例"
 type: argument
 subtype: book-chapter
 publication_type: book

@@ -5,7 +5,7 @@ aliases:
   - cultural model
   - culture-level models
   - culture-level model
-summary: "人类学概念_由文化历史过程建立的共享概念框架_塑造成员对思想、情感和行为的解释、预测和理解。Li 在跨文化学习研究中将其作为核心框架_并严格区分文化层面模型与个体层面模型。"
+summary: "由文化历史过程形成的共享概念框架，塑造成员对思想、情感和行为的解释、预测与理解"
 type: concept
 tags:
 - theory/anthropology

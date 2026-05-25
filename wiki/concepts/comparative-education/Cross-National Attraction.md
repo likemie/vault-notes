@@ -2,14 +2,15 @@
 title: Cross-National Attraction
 aliases:
   - 跨国吸引
+  - 跨国吸引力
 summary: "政策借用过程中外部教育经验之所以显得有吸引力的阶段性机制，涉及结构条件、行动者动机以及不同类型的借用火花"
 type: concept
 tags:
-- cross-national-attraction
-- policy-borrowing
-- educational-transfer
-- comparative-education
-- region/global
+  - cross-national-attraction
+  - policy-borrowing
+  - educational-transfer
+  - comparative-education
+  - region/global
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Policy Entrepreneur]]"
@@ -27,8 +28,8 @@ sources:
   - "[[Rappleye_2006_RCIE]]"
 confidence: medium
 status: draft
-created: '2026-05-06'
-updated: '2026-05-18'
+created: 2026-05-06
+updated: 2026-05-18
 ---
 
 ## 定义

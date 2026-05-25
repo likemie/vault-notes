@@ -4,7 +4,7 @@ aliases:
   - 中国防火长城
   - 中国国家防火墙
   - GFW
-summary: "中国国家互联网审查系统，Partaken (2022) 定位为 GPK 审查模态的核心制度工具"
+summary: "中国国家互联网审查系统，通过技术过滤、平台治理和制度监管控制跨境信息流动"
 type: fact
 subtype: event
 region: china

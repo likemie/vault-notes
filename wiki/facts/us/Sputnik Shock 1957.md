@@ -3,7 +3,7 @@ title: Sputnik Shock 1957
 aliases:
   - Sputnik Shock
   - 斯普特尼克冲击
-summary: "1957 年苏联发射人类首颗人造卫星触发美国科技信心危机，Amos (2022) 将其定位为教育与地缘政治关系的关键转折点：触发 OECD 对 STEM 教育的系统性关注，建立“教育质量→科技能力→国家竞争力“的政策逻辑链"
+summary: "1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接"
 type: fact
 subtype: event
 region: us

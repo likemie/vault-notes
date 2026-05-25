@@ -5,7 +5,7 @@ aliases:
   - 话语重构
   - teacher revoicing
   - O'Connor and Michaels revoicing
-summary: "O’Connor 与 Michaels (1993) 提出的课堂话语策略_教师充当 animator 重铸学生话语_以突出想法的作者权并提升认知层次"
+summary: "课堂话语策略，指教师重铸学生话语以澄清观点、突出想法作者权并提升讨论的认知层次"
 type: concept
 tags:
   - region/western

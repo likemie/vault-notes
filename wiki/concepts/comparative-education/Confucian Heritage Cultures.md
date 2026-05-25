@@ -6,7 +6,7 @@ aliases:
   - CHC
   - Confucian-heritage cultures
   - CHC learner
-summary: "Watkins 与 Biggs (1996) 为研究中国学习者悖论而提出的分类概念，涵盖中国、香港、台湾、新加坡、日本、韩国、越南等受儒家学习传统影响的国家和地区。Li (2012) 进一步将 CHC 学习特征追溯至儒家修身传统与实证研究。"
+summary: "受儒家学习传统影响的文化区域分类，涵盖中国、香港、台湾、新加坡、日本、韩国、越南等国家和地区"
 type: concept
 tags:
 - region/china

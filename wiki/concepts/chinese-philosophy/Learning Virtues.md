@@ -4,7 +4,7 @@ aliases:
   - 学习美德
   - Confucian learning virtues
   - seven learning virtues
-summary: "Li 从儒家文本与实证研究中识别出的核心学习品质_七种美德构成学习者的个人能动性_其中五种为行为美德（认真、勤奋、刻苦、恒心、专心）_两种为情感美德（尊师、谦虚）。概念地图中四美德构成好学心的子集群。"
+summary: "儒家学习传统中的核心学习品质，由认真、勤奋、刻苦、恒心、专心、尊师和谦虚等美德构成学习者的个人能动性"
 type: concept
 tags:
 - region/china

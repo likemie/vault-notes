@@ -7,7 +7,7 @@ aliases:
   - entity theory of intelligence
   - incremental theory of intelligence
   - 智力实体观与增长观
-summary: "Dweck 提出的两种智力信念_实体观视智力为固定不变，增长观视智力可通过学习提升"
+summary: "两种智力信念的区分，实体观视智力为固定不变，增长观视智力可通过学习、努力和策略持续提升"
 type: concept
 tags:
   - theme/motivation

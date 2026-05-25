@@ -14,7 +14,7 @@ Total entries: **141**
 - [[Karmel Report]] — 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
 - [[Local Schools Local Decisions]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
 - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
-- [[Victorian HITS and Literacy Toolkit]] — 维州教育部发布 10 项 HITS 和 Literacy Toolkit，均以 Hattie 的 VL 为首要参考，O’Connor (2020) 质疑其证据基础
+- [[Victorian HITS and Literacy Toolkit]] — 维州教育部发布的高影响教学策略和识字工具包，以 Visible Learning 等证据综合为重要参考并引发证据基础争议
 
 ## Belgium
 
@@ -35,11 +35,11 @@ Total entries: **141**
 ### Event
 
 - [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
-- [[China Social Credit System]] — 中国利用大数据对公民行为进行永久性评估的治理系统，Partaken (2022) 定位为 GPK 监视模态的当代典范
+- [[China Social Credit System]] — 中国利用大数据和行政记录对公民、组织与市场主体行为进行评估和治理的制度体系
 - [[Civil Service Examination]] — 中国自 7 世纪至 1905 年延续超过 1300 年的官员选拔制度，将道德成就、学术学习、政治权力和社会地位前所未有地融为一体
 - [[Confucian Revival in China]] — 1980 年代末至今中共主导的儒家传统复兴运动，经历民间自发到国家收编的转变，服务于意识形态合法化和国族建构
 - [[ECNU Declaration on Evidence-Based Research]] — 华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣言，提出 10 条措施推进中国教育实证研究，标志中国证据本位改革的制度化里程碑（Slavin et al., 2021）
-- [[Great Firewall of China]] — 中国国家互联网审查系统，Partaken (2022) 定位为 GPK 审查模态的核心制度工具
+- [[Great Firewall of China]] — 中国国家互联网审查系统，通过技术过滤、平台治理和制度监管控制跨境信息流动
 - [[Late Qing Borrowing of Japanese Education]] — 甲午战败后清末以日本为主要参照推进新式教育体系建设
 - [[Thousand Talents Program]] — 中国海外高层次人才引进计划，被美方视为制度化知识盗窃机制，中美技术紧张焦点
 
@@ -47,7 +47,7 @@ Total entries: **141**
 
 - [[China Basic Education Curriculum Reform]] — 教育部发布基础教育课程改革纲要（试行），从“双基“转向“素质教育“、从教师中心转向学生中心教学，在大城市和偏远地区均深入推进
 - [[China College Graduate Employment Reform]] — 从统包统分到双向选择的高校毕业生就业市场化改革，1986 提出→1989 批准→1994 并轨试点→1997 全国实施
-- [[Recommendation-Based Graduate Admission System]] — 1980s 中期至今的推免研究生制度：以累积学分为依据免试直升，985 院校覆盖率可达 40%+，郑雅君 (2023) 分析其对不同阶层学生的隐性要求差异，改革派与保守派在“借鉴日本教育“上形成阶段性共识并推动大规模借用
+- [[Recommendation-Based Graduate Admission System]] — 1980s 中期至今的推免研究生制度，以累积学分和综合表现为依据免试直升，并对不同阶层学生提出不同隐性要求
 - [[Three Excellences]] — 中国学校年度评选的模范学生荣誉，以品德、学业、艺术/体育三方面卓越表现为标准，通过师生提名投票产生，用于为全体学生树立学习榜样
 
 ## Denmark
@@ -72,7 +72,7 @@ Total entries: **141**
 
 - [[EU Evidence-Informed Education Policy Initiatives]] — 2006年以来欧盟通过评价文化、知识中介网络和Eurydice支持机制推动成员国在教育决策中使用证据，但主要以指导和协调为主而非强制统一政策。
 - [[EU Key Competences for Lifelong Learning]] — 2018年欧盟理事会修订的终身学习关键能力框架，将能力定义为知识、技能和态度的动态组合，并提出八项关键能力及其评估挑战。
-- [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，YOUNG_ADULLLT 项目揭示其在欧盟各地差异化实施
+- [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，并在欧盟各地呈现差异化实施路径
 - [[Europe 2020 Strategy]] — EU 2010–2020 十年战略规划，以“智能、可持续与包容性增长“为框架，涵盖就业、研发、气候、教育、减贫五大领域
 - [[Horizon 2020 SSH Integration]] — EU 2014–2020 年研究框架取消社会科学与人文学科独立资助渠道，作为横向议题嵌入所有优先领域
 - [[Horizon Europe Missions]] — EU 2021–2027 年研究与创新框架的核心机制，将研究整合为五大社会挑战的使命承诺
@@ -108,13 +108,13 @@ Total entries: **141**
 - [[Minerva University]] — 2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标
 - [[OECD AHELO Project]] — OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败
 - [[PISA]] — OECD 2000 年启动的跨国学生评估项目，通过比较 15 岁学生阅读、数学与科学素养，持续塑造各国对成绩危机、改革压力与政策优先事项的理解。
-- [[Regional University Alliances]] — Amos (2022) 在晚期现代教育转型语境中关注的三类欧洲大学联盟（LERU、The GUILD、European University Alliances），在科研合作、师生流动和联合学位中运作，构成多层级地缘政治教育空间中的制度行动者
+- [[Regional University Alliances]] — 跨国或区域性大学联盟，通过科研合作、师生流动和联合学位等机制构成多层级高等教育空间中的制度行动者
 
 ### Policy
 
 - [[Australia in the Asian Century White Paper]] — 澳大利亚 Henry Report：将亚洲崛起定位为“澳大利亚的机遇“，推动 AISRF、ACSRF 等与亚洲的研究合作
 - [[Campbell Collaboration]] — 2000年成立的社会科学系统综述组织，2007年将国际总部迁至挪威，通过综述社会、经济和教育干预研究支持证据本位政策与实践。
-- [[GATS and Trade in Education Services]] — WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映“新帝国主义
+- [[GATS and Trade in Education Services]] — WTO 服务贸易总协定框架下将高等教育纳入服务贸易的制度安排，推动教育服务商品化和跨境市场开放
 - [[OECD Improving School Leadership Project]] — OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
 - [[THE Impact Ranking]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
 - [[UN Sustainable Development Goals]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的“新型第三使命
@@ -147,14 +147,14 @@ Total entries: **141**
 
 ### Event
 
-- [[Kokutai no Hongi]] — 日本文部省思想局编写的皇国思想教育文本，在殖民地强制教学，Partaken 定位为 GPK 强制知识转移的历史典范
+- [[Kokutai no Hongi]] — 日本文部省思想局编写的皇国思想教育文本，曾在殖民地强制教学，是国家主导知识转移的历史案例
 
 ## Multi-country
 
 ### Event
 
 - [[Cram Schools]] — 东亚社会广泛存在的校外付费学业补习机构，在台湾、日本、韩国、香港、中国、新加坡和越南普遍存在
-- [[Sino-American Trade War]] — 中美贸易与技术转移争端，Partaken (2022) 定位为 GPK“最好且最当下的经验案例
+- [[Sino-American Trade War]] — 中美围绕贸易、技术转移、产业政策和国家安全展开的持续性经济与地缘政治争端
 - [[Transnationalism and America Project SYSU]] — 岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍
 
 ### Policy
@@ -192,7 +192,7 @@ Total entries: **141**
 
 ### Event
 
-- [[Russian Translation of Visible Learning]] — Hattie Visible Learning 俄文版由 Prosveshchenie 集团于 2017 年出版，引发俄学界热烈讨论；Golovchin (2019) 基于方法论和文化分析建议俄教育政策不予采用
+- [[Russian Translation of Visible Learning]] — Hattie Visible Learning 的俄文译本出版事件，引发俄语教育学界围绕可见学习方法论和本土适用性的讨论
 
 ## Singapore
 
@@ -223,7 +223,7 @@ Total entries: **141**
 - [[Areopagitica]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
 - [[Hargreaves 1996 TTA Lecture]] — David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
 - [[Playing for Success]] — 英国依托足球俱乐部场地设立的学习支持中心项目，结合体育吸引力与课外辅导实践，后续成为教育证据聚合争议中的重要案例
-- [[ResearchED]] — 2013 年英国兴起的教师草根运动，主张以研究证据尤其随机试验支持课堂实践，推动证据本位教学的公共传播与制度争论
+- [[ResearchED]] — 英国教师主导的教育研究传播网络，推动课堂实践与研究证据之间的公共讨论
 
 ### Policy
 
@@ -252,23 +252,23 @@ Total entries: **141**
 - [[California Class Size Reduction 1996]] — 1996 年加州大规模推行的班额缩减政策，因教师与教室供给不足暴露出试点成功经验在全州扩张中的实施条件问题
 - [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] — 面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果
 - [[Clearinghouse for Military Family Readiness Continuum of Evidence]] — 面向军人家庭的 public 清算中心，对 RCT 与一般 QED 均有详细证据标准
-- [[CNCS Evidence Exchange]] — 只审查 CNCS 自身资助项目和干预的 public 清算中心，在 Wadhwa et al. (2024) 样本中贡献 52 个项目
+- [[CNCS Evidence Exchange]] — 只审查 CNCS 自身资助项目和干预的公共清算中心，提供项目证据评级与资助决策支持
 - [[Coleman Report 1966]] — 美国教育部委托的里程碑式教育机会平等研究（650,000+ 学生、4,000 所学校），结论为家庭背景而非学校特征是学业差距的主要驱动力，50 年后 Downey & Condron 重新评估认为 Coleman 低估了学校的补偿性作用
 - [[Collaborative for Academic Social and Emotional Learning Guide]] — 聚焦社会情感学习项目的非营利教育清算中心，Wadhwa et al. (2024) 样本中贡献 25 个项目
-- [[Communities in Schools]] — Wadhwa et al. (2024) 的清算中心评级分歧案例：NDPC 推荐，PPN/CNCS 认为 promising 或中等支持，Blueprints/CMFR 不背书
+- [[Communities in Schools]] — 美国综合学生支持项目，在多个证据清算中心中获得不一致评级，是教育干预证据分歧的典型案例
 - [[Creation of REES]] — IES 于 2018 年启动的教育项目评估预注册平台（Registry of Efficacy and Effectiveness Studies），旨在缓解可疑研究实践并增加对知识库的信心
-- [[Daubert v Merrell Dow Pharmaceuticals 1993]] — 美国联邦最高法院里程碑裁决，确立科学证据可采性标准，Berk (2011) 引入评估研究方法论讨论以框架化证据与垃圾科学的区分
+- [[Daubert v Merrell Dow Pharmaceuticals 1993]] — 美国联邦最高法院关于科学证据可采性的里程碑裁决，确立了区分可靠专家证据与垃圾科学的司法标准
 - [[ESSA 2015 Evidence Standards]] — 美国联邦教育主法定义强/中/有希望与理论依据证据层级，将联邦拨款与使用达到证据标准的项目绑定
 - [[Home Visiting Evidence of Effectiveness]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、QED、RDD 均有详细标准
 - [[Investing in Innovation Program]] — 2009–2016 年美国教育部 USD 1.4B 分层拨款项目，以开发→验证→规模化结构推动教育 RCT 证据生产
-- [[National Dropout Prevention Center]] — 聚焦辍学预防项目的非营利教育清算中心，在 Wadhwa et al. (2024) 四个详细比较对象中最高评级门槛最低
+- [[National Dropout Prevention Center]] — 聚焦辍学预防项目的非营利教育清算中心，提供项目筛选、证据评级和实践资源
 - [[Open Court Reading]] — Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、BEE 均评为 promising，但研究解释标准不同
 - [[Peer-Assisted Learning Strategies]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断
-- [[Promise Neighborhoods Research Consortium]] — 评价项目、政策和实践的 public 清算中心，不进行项目效果分层评级，未进入 Wadhwa et al. (2024) 最终一致性分析
-- [[Promising Practices Network]] — 面向儿童与家庭的多领域非营利清算中心，因 2020 年中停止运行未进入 Wadhwa et al. (2024) 最终一致性分析
+- [[Promise Neighborhoods Research Consortium]] — 评价项目、政策和实践的公共清算中心，不进行项目效果分层评级，更强调社区项目证据整理与资源汇集
+- [[Promising Practices Network]] — 面向儿童与家庭政策的多领域非营利清算中心，曾提供项目证据摘要和实践案例库
 - [[Quantum Opportunity Program]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP 与 Eisenhower QOP 两个项目版本
 - [[Social Programs That Work]] — 多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库
-- [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发美国科技信心危机，Amos (2022) 将其定位为教育与地缘政治关系的关键转折点：触发 OECD 对 STEM 教育的系统性关注，建立“教育质量→科技能力→国家竞争力“的政策逻辑链
+- [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接
 - [[Success for All]] — Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断
 - [[Tennessee STAR Project 1985-1989]] — 1985 至 1989 年田纳西州实施的大型班额缩减随机试验，成为教育因果识别、班级规模政策和结果外推争论中的关键案例
 - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战

@@ -7,7 +7,7 @@ aliases:
   - mutually exclusive competition
   - 排他性竞争
   - "Zero-Sum Competition (School)"
-summary: "美国学生将学业竞争视为零和博弈的文化信念，是Li (2012)识别的nerd同伴文化四重文化根源之一，由Fülöp的三文化比较研究系统揭示"
+summary: "美国学生将学业竞争视为零和博弈的文化信念，是 nerd 同伴文化的重要文化根源之一"
 type: concept
 tags:
   - region/western

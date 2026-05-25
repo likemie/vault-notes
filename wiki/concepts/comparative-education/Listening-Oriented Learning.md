@@ -5,7 +5,7 @@ aliases:
   - listening-centred learning
   - silent participation
   - 沉默参与
-summary: "Cortazzi 与 Jin 提出的概念_描述东亚课堂中以倾听为核心而非以口头表达为中心的学习方式_沉默不等于被动"
+summary: "东亚课堂中以倾听为核心的学习方式，强调通过专注倾听、内化和反思参与学习，沉默不等于被动"
 type: concept
 tags:
   - region/east-asia

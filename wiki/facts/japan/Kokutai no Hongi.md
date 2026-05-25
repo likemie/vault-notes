@@ -4,7 +4,7 @@ aliases:
   - "Kokutai no Hongi (1937)"
   - 国体之本义
   - Cardinal Principles of the National Entity of Japan
-summary: "日本文部省思想局编写的皇国思想教育文本，在殖民地强制教学，Partaken 定位为 GPK 强制知识转移的历史典范"
+summary: "日本文部省思想局编写的皇国思想教育文本，曾在殖民地强制教学，是国家主导知识转移的历史案例"
 type: fact
 subtype: event
 region: japan

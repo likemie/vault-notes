@@ -6,7 +6,7 @@ aliases:
   - ideal learner image
   - ideal-learner image
   - 理想学习者形象
-summary: "Li 跨文化学习研究的核心概念与方法工具_以文化偏好的最优发展终点为理论依据_通过四个维度的书面描述来提取文化层面的理想学习者形象_与原型方法的词汇研究形成证据三角验证。"
+summary: "跨文化学习研究中的分析概念，指特定文化偏好的最优发展终点，可通过学习目的、过程、品格和情感维度加以描述"
 type: concept
 tags:
 - region/cross-cultural

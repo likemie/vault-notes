@@ -123,15 +123,12 @@ python3 scripts/vault_lint.py --strict
 - frontmatter 中的 `related_*`
 - frontmatter 中的 YAML `sources`
 
-建立关系的方法是在正文中自然使用 wikilink；建立来源的方法是在 `## 来源` 或 `## Sources` 章节列出 source wikilink。
-
 ### Wikilink Rules
 
-- `title` 和 `aliases` 是自动补链依据。
-- `wiki_linker.py` 以每个 `##` 二级标题为作用域，每个 section 内同一 target 只链接第一次出现。
-- `## 来源` / `## Sources` 章节只补 source 记录链接。
-- 删除过宽或错误的 alias 后，重新运行标准同步流程。
-- 单个汉字 alias 只允许在独立出现时补链，不能嵌入词中补链。
+- wikilink 由 `wiki_linker.py` 自动维护，依据是 `title` 和 `aliases`。
+- `## 来源` / `## Sources` 章节只放 source wikilink。
+- alias 必须精确；过宽或错误的 alias 直接删除后重新同步。
+- 单个汉字 alias 只在必要时保留。
 
 ### Source Records
 
@@ -293,7 +290,8 @@ Argument 必须详细拆解论证链：
 - `summary` 只用于索引说明，不是摘要。
 - `summary` 外层必须使用双引号包裹。
 - `summary` 内容内部禁止出现英文冒号 `:`、双引号 `"`、单引号 `'`。
-- 如果英文标题原本有冒号，用下划线 `_` 替代。
+- `summary` 必须围绕条目本身写，不围绕某篇论文或章节写；不要用 `_` 代替标点。
+- 如果正式英文标题含冒号，frontmatter `title` 可保留原题名；仅在文件名需要规避 `:` 时改用空格或短横，不用 `_`。
 - 重要定义、关键数据、关键引用、争议、例子等，按模板使用 callout。
 - 常用 callout：
   - `[!info]`：定义、背景、方法说明
@@ -370,16 +368,15 @@ Argument 必须详细拆解论证链：
 
 ---
 
-## 11. Wikilink and Duplication Rules
+## 11. Link and Duplication Rules
 
-核心原则：用 wikilink 减少重复。
+核心原则：用链接减少重复，具体补链交给脚本。
 
 - 详细内容只写在最相关的主条目中。
-- 其他条目只写一句关系说明 + wikilink。
-- 正文中第一次出现已有条目名称时加 wikilink；实际补链由 `wiki_linker.py` 以 `##` section 为作用域执行。
-- 泛指某类事物时不链接；如自动链接不合适，删除对应 alias 后重新同步。
-- 条目尚未建立时先写纯文字，建立后再补链接。
-- AI 不手动维护 frontmatter `related_*`；正文链接是关系来源。
+- 其他条目只写一句关系说明。
+- 泛指某类事物时不需要强行链接。
+- 条目尚未建立时先写纯文字。
+- AI 不手动维护 frontmatter `related_*`；关系由正文链接同步生成。
 
 ---
 

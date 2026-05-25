@@ -12,23 +12,23 @@ Total entries: **714**
 
 - [[Action Better Than Words]] — 儒学学习传统第四主题，以行动而非言语为修身标准；孔子不信任巧言令色，君子讷于言而敏于行，沉默不等于被动
 - [[Benevolence]] — 儒学核心概念，指通过终身修养达到的最高道德境界，超越具体德目（如孝、礼），代表最真诚、最完整的人性实现。
-- [[Familiarization]] — 中国学习过程中勤奋美德的第一阶段_通过反复接触使学习者对材料的所有表层细节达到识别和流畅_被视为通往精通的必要第一步
+- [[Familiarization]] — 中国学习过程中勤奋美德的第一阶段，通过反复接触使学习者对材料表层细节达到识别和流畅，是通往精通的必要第一步
 - [[Filial Piety]] — 儒学的起始道德，指子女对父母的真诚敬爱和道德义务，被认为是人类一切道德的起点（百善孝为先）。
 - [[Five Cardinal Relationships]] — 儒家定义的五种基本人际关系（父子、兄弟、夫妇、君臣/雇佣、朋友）及其对应德目（孝、悌、敬、忠、信），为修身提供社会场域和道德框架。
 - [[Junzi]] — 儒学中仅次于圣人的理想人格，通过终身学习与修身达到仁，能以优雅、尊严和美履行角色，同时帮助他人达成道德卓越。
-- [[Learning Virtues]] — Li 从儒家文本与实证研究中识别出的核心学习品质_七种美德构成学习者的个人能动性_其中五种为行为美德（认真、勤奋、刻苦、恒心、专心）_两种为情感美德（尊师、谦虚）。概念地图中四美德构成好学心的子集群。
-- [[Refined Mastery]] — 中国学习过程的终极目标_勤奋三阶段的最后一步_从熟悉到练习到精炼完美的掌握_表现为透彻理解与运用自如_以庖丁解牛为典范
+- [[Learning Virtues]] — 儒家学习传统中的核心学习品质，由认真、勤奋、刻苦、恒心、专心、尊师和谦虚等美德构成学习者的个人能动性
+- [[Refined Mastery]] — 中国学习过程的终极目标，指从熟悉到练习再到精炼完美的掌握，表现为透彻理解与运用自如
 - [[Rightness]] — 儒学四超越德目之一，指在具体情境中做正确之事并坚守正义；孟子谓富贵不能淫、贫贱不能移、威武不能屈即为义
 - [[Ritual Propriety]] — 儒学四超越德目之一，是一种社会语法，涵盖从最高祭祀仪式到日常人际互动的全套规范，使人们能够彼此承认、连接、尊重和关怀。
 - [[Sage]] — 儒学学习传统的最高理想人格，超越君子、以仁爱关怀全人类者；孔子指出此目标遥不可及，但宋明理学将其向所有人开放
-- [[Self-Cultivation]] — 儒家学习传统的核心目标_以自我而非外部世界为认知和实践对象的终身工程。Li 的实证研究表明修身至今仍是中国学习者认同的首要学习目的_贡献社会是其现代表现形态_学习美德是其能动性机制。
+- [[Self-Cultivation]] — 儒家学习传统的核心目标，指以自我而非外部世界为认知和实践对象的终身工程，并通过学习美德形成持续能动性
 - [[Sense of Shame]] — 儒学四超越德目之一，与西方的纯负面羞耻不同，儒家视耻为自我纠正的积极内在动力——知耻使人内省、认错、改过、继续修身
 - [[Take the World Upon Oneself]] — 儒学学习传统第二主题，从修身出发承担社会与天下责任的道德使命，孟子首倡、朱熹系统化、近现代演化为救國救民
 - [[Tongxue]] — 中文对学校同伴的称谓，字面意为一起学习的人，与西方强调平等地位的peer概念形成对比，反映东亚文化中同伴作为学习朋友的功能定位
 
 ### Communication Discourse
 
-- [[Grice's Conversational Maxims]] — Grice (1975) 提出的四条会话合作原则_量、质、关联、清晰_Li (2012) 用以对比西方与东亚的说话风格差异
+- [[Grice's Conversational Maxims]] — Grice 提出的四条会话合作原则，包括量、质、关联和清晰，可用于比较不同文化中的说话风格与互动期待
 - [[Interpretation Community]] — 某种解释在特定社群中获得动量并从观点演变为广泛接受事实的机制，用于说明争议如何被共同语言、立场和制度位置稳定下来。
 - [[Parallel Monologues]] — Eacott 提出的概念，描述教育行政研究中学者各自在子领域内发表和引用但很少实质性交锋的结构性现象，用于批评缺乏论证与反驳的学术交流模式。
 - [[SF (Haraway)]] — Haraway 的核心概念缩写，同时代表 string figures、speculative fabulation、science fiction 和 so far，用于通过讲故事、连结关系与共同想象来实践后人类主义的世界制造。
@@ -36,19 +36,19 @@ Total entries: **714**
 ### Comparative Education
 
 - [[21st Century Skills and Competencies Discourse]] — 由全球教育治理中的多边组织、国家政府和私营伙伴共同推动的技能话语，通过界定未来劳动力市场所需的关键能力来塑造教育政策与个体主体性，其核心特征包括四 C 技能的主导地位和对非认知能力的边缘化。
-- [[Affect-Respect and Ought-Respect]] — Li (2012) 提出的尊重双类型理论_义务性尊重基于权利原则，情感性尊重基于对他人品质的认可与仰慕
+- [[Affect-Respect and Ought-Respect]] — 尊重的双类型理论，区分基于权利原则的义务性尊重与基于他人品质认可和仰慕的情感性尊重
 - [[Boarding Schools]] — 以学生在校住宿为组织特征的学校形式，兼具学业、生活管理与社会化功能，在国际教育与精英培养中占据重要位置
-- [[Chinese Learner]] — Li_2012 从儒家传统与实证研究提炼的学习者模型_向内完善自我_八层同心圆路径_七种学习美德为能动性_与西方学习者形成方向性对比_兼含 Ryan_Slethaug 等对西方刻板印象话语的批判
+- [[Chinese Learner]] — 以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象
 - [[Codeswitcher]] — Bishop兄弟描述的美国学校中在同伴面前遵守try but not too hard规范、私下努力学习的双重行为策略
-- [[Cognitive Source]] — Li (2012) 在母子对话话语分析中识别的分析概念，指母亲引导儿童思考学习时所依赖的认知框架与合法性资源，EA 母亲调用心智来源、TW 母亲调用学习美德来源
-- [[Confucian Heritage Cultures]] — Watkins 与 Biggs (1996) 为研究中国学习者悖论而提出的分类概念，涵盖中国、香港、台湾、新加坡、日本、韩国、越南等受儒家学习传统影响的国家和地区。Li (2012) 进一步将 CHC 学习特征追溯至儒家修身传统与实证研究。
-- [[Confucian Tutoring Style]] — 台湾_儒家文化家庭中一种以学习美德为中心的家长辅导方式，家长引导儿童认识到学习的关键在于品德而非天赋，自我改进永无止境
+- [[Cognitive Source]] — 母亲引导儿童思考学习时所依赖的认知框架与合法性资源，通常表现为心智来源或学习美德来源等不同文化取向
+- [[Confucian Heritage Cultures]] — 受儒家学习传统影响的文化区域分类，涵盖中国、香港、台湾、新加坡、日本、韩国、越南等国家和地区
+- [[Confucian Tutoring Style]] — 儒家文化家庭中以学习美德为中心的家长辅导方式，强调学习关键在于品德、自我改进和持续努力而非天赋
 - [[Corporate Education]] — 企业为雇员组织和提供的教育培训形式，范围涵盖初始职业教育到高层管理培养，并常与企业文化塑造和战略协调相连
 - [[Corporate University]] — 企业集中组织教育培训、知识管理和领导力发展的制度形式，常用于把员工学习、组织战略和内部认证体系整合起来
 - [[Cross-National Attraction]] — 政策借用过程中外部教育经验之所以显得有吸引力的阶段性机制，涉及结构条件、行动者动机以及不同类型的借用火花
 - [[Discursive Opportunity Structures]] — Parreira do Amaral & Dale (2015) 提出的教育治理分析概念，区分制度性机会结构和话语性机会结构——后者指话语框定思维与行动可能性的方式，调节全球高等教育中服务、职位和实践的可及性
-- [[Establishing One's Will]] — Li (2012) 在中国学习模型中识别的核心情感维度，指学习者在青少年阶段思索人生目的并做出明确个人志向承诺的心理过程，通过见证人机制将私人决心转化为社会契约
-- [[Examination Hell]] — Ishisada (1974) 用以描述东亚应试教育体系的术语。Li (2012) 呈现了 Peng (1998) 从儒家道德困境角度对该体系难以被替代的解释，并援引心理健康数据反驳了考试压力损害论。
+- [[Establishing One's Will]] — 中国学习模型中的核心情感维度，指学习者在青少年阶段思索人生目的并做出明确个人志向承诺的心理过程
+- [[Examination Hell]] — 描述东亚应试教育体系的术语，指高风险考试压力、升学竞争和儒家道德义务交织形成的教育困境
 - [[Externalization]] — 教育系统把内部问题投射到外部参照框架中加以理解和正当化的过程，是比较教育中解释政策参照与国际借鉴的重要概念
 - [[Further Education]] — 位于义务教育和高等教育之外的中学后继续教育形式，常与成人学习、职业培训、非学位证书和终身学习体系相连
 - [[Global Education Industry]] — 教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域
@@ -56,13 +56,13 @@ Total entries: **714**
 - [[Grade Retention]] — 让学生重复同一年级以处理学习困难的教育制度实践，证据本位教育中常被用来说明研究证据与既有学校惯例之间的张力。
 - [[Heart and Mind for Wanting to Learn]] — 中国本土学习概念，指一个人内在的求知欲望与向学之心，Jin Li 将其置于中国学习传统六主题框架中作为核心动力机制
 - [[Humility in Learning]] — 东亚学习传统中的核心美德，以谦逊为内在力量抵御自满，保持持续自省与学习动力
-- [[Ideal Learner]] — Li 跨文化学习研究的核心概念与方法工具_以文化偏好的最优发展终点为理论依据_通过四个维度的书面描述来提取文化层面的理想学习者形象_与原型方法的词汇研究形成证据三角验证。
-- [[Intellectual-Social Divide]] — 西方学校文化中的深层假设，认为理智追求与社交能力相互排斥，是Li (2012)识别的nerd同伴文化四重文化根源之一
+- [[Ideal Learner]] — 跨文化学习研究中的分析概念，指特定文化偏好的最优发展终点，可通过学习目的、过程、品格和情感维度加以描述
+- [[Intellectual-Social Divide]] — 西方学校文化中的深层假设，认为理智追求与社交能力相互排斥，是 nerd 同伴文化的重要文化根源之一
 - [[International Education]] — 跨越单一国家边界组织、流动或想象的教育形式，涵盖国际学校、跨国高教、留学流动与跨文化学习安排
 - [[International Schools]] — 面向跨国流动家庭、本地精英或国际课程需求而设立的学校类型，兼具国际化、市场化和精英教育特征
-- [[Learning Gap]] — Stevenson 与 Stigler (1992) 通过跨国比较研究提出的概念，指美国学生以能力解释学业成就而东亚学生以努力解释成就的系统性文化差异。Li (2012) 将其作为中国学习者文化模型的重要实证基础之一。
-- [[Listening-Oriented Learning]] — Cortazzi 与 Jin 提出的概念_描述东亚课堂中以倾听为核心而非以口头表达为中心的学习方式_沉默不等于被动
-- [[MCC Discourse Analysis Examples]] — Li 2012 第7章母子对话研究中话语分析的22段原始对话记录与中文翻译_按认知社会化与情感社会化两大主题组织_先呈现逐句对话再展示Li的分析操作
+- [[Learning Gap]] — 跨国学习比较中的概念，指美国学生倾向以能力解释成就而东亚学生倾向以努力解释成就的系统性文化差异
+- [[Listening-Oriented Learning]] — 东亚课堂中以倾听为核心的学习方式，强调通过专注倾听、内化和反思参与学习，沉默不等于被动
+- [[MCC Discourse Analysis Examples]] — 母子对话研究中的话语分析材料集，按认知社会化与情感社会化组织原始对话、翻译和分析操作示例
 - [[Membership-Creating Function of Education]] — 现代教育通过培养忠诚、归属和共同体边界来创造成员身份的基础功能，同时界定谁属于我们以及谁被排除在外
 - [[Meta-Cultural Sensitivity]] — 一种跨文化教学元能力，强调后退一步把他者文化和自身文化都作为系统来理解，避免本质化赞美或简单否定
 - [[Methodological Globalism]] — 把全球尺度视为完全决定国家尺度的方法论立场，常作为方法论民族主义的镜像，并倾向弱化地方和制度的相对自主性
@@ -71,7 +71,7 @@ Total entries: **714**
 - [[Nerd]] — 西方学校中一种将高学业成就与同伴接纳对立起来的同伴文化，理智好奇、努力学习的学生被冠以nerd等贬称并遭受同伴骚扰
 - [[Organizational Actorhood]] — 组织把自主性、目标导向、问责性和社会嵌入性纳入核心身份并作为行动者被广泛承认的制度过程
 - [[Orientalism]] — 通过知识生产把东方建构为被观看、被解释和被支配对象的批判概念，用于揭示文化优越感和殖民想象的再生产
-- [[Paradox of the Chinese Learner]] — Watkins 与 Biggs (1996) 提出的概念，描述中国／儒家文化圈学习者看似低效的学习方式与持续高水平成就之间的矛盾。Li (2012) 系统综述了研究界从学习信念和学习过程两个层面对悖论的回应。
+- [[Paradox of the Chinese Learner]] — 中国／儒家文化圈学习者看似依赖低效学习方式却持续取得高水平成就之间的矛盾
 - [[Policy Borrowing]] — 教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念
 - [[Policy Entrepreneur]] — 在教育系统内外通过网络、合作和机会识别推动政策变化的行动者，常兼具知识传播、议程设置和组织动员功能
 - [[Pride in Learning]] — 学习成就中一种积极但文化变异显著的自我意识情感，西方以骄傲为正面情感，东亚以骄傲为双价情感——兼具正面与负面含义，以谦逊为骄傲的对立面
@@ -81,9 +81,9 @@ Total entries: **714**
 - [[Tall Poppy Syndrome]] — Feather 提出的社会心理现象，指人们对高成就者失败的幸灾乐祸态度和对突出个体的系统性贬低倾向
 - [[Theories of Policy Change]] — 把政策理解为承载特定因果机制叙事的分析概念，用于追问政策为何在不同情境中产生不同变化路径
 - [[Transitology]] — 描述国家机器、社会分层和政治愿景在转型时期同时崩解与重建的比较教育概念，强调教育在制度重组中的象征与重构作用
-- [[University Motto]] — Li (2012) 通过对比中西顶尖大学校训发现，西方校训围绕真理、知识与自由，中国校训源自儒家经典、围绕修身与德行，折射两种学习传统的核心差异
+- [[University Motto]] — 大学用以表达教育理想和制度身份的凝缩文本，可折射不同文化传统对真理、知识、自由、修身与德行的理解
 - [[Varieties of Capitalism]] — 区分不同资本主义制度协调方式的比较政治经济框架，常用来解释教育培训体系、企业行为和技能形成路径的跨国差异
-- [[Zero-Sum Competition]] — 美国学生将学业竞争视为零和博弈的文化信念，是Li (2012)识别的nerd同伴文化四重文化根源之一，由Fülöp的三文化比较研究系统揭示
+- [[Zero-Sum Competition]] — 美国学生将学业竞争视为零和博弈的文化信念，是 nerd 同伴文化的重要文化根源之一
 
 ### Curriculum
 
@@ -130,7 +130,7 @@ Total entries: **714**
 - [[Ubuntu]] — 强调个体在关系中成其为人的非洲关系性伦理哲学，用于理解共同体、互依性和相互责任。
 - [[Value-Based Education]] — 把教育目的与价值判断置于证据选择之前的教育取向，强调先回答想培养什么样的人与社会，再讨论什么做法有效
 - [[Vergegenkunft]] — 把过去、现在和未来压缩进同一时间结构的文学概念，用来表达历史经验与未来想象在当下不断纠缠的非线性时间感
-- [[Western Learner]] — Li (2012) 识别的西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比
+- [[Western Learner]] — 西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比
 - [[Whole Sustainability]] — 把可持续性理解为纳入局部社区生命力量、关系网络和内外部威胁的整体性概念。
 
 ### Educational Technology
@@ -185,7 +185,7 @@ Total entries: **714**
 - [[Classroom Management]] — Håkansson 综合教学研究后使用的宽课堂组织概念，涵盖时间使用、目标清晰、活动组织、反馈、可见领导与支持性关系。
 - [[Critiques of Visible Learning]] — 围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。
 - [[Cult of the Guru]] — Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。
-- [[Devil's Advocate]] — 源于罗马天主教封圣程序的说话实践_为检验论证而为不赞同的立场辩护_在西方家庭学习社会化中被用作训练儿童论证能力的方式
+- [[Devil's Advocate]] — 一种为检验论证而替不赞同立场辩护的说话实践，在西方家庭学习社会化中可用于训练儿童论证能力
 - [[Direct Instruction]] — 以教师清晰示范、分步讲解、理解检查和练习巩固为核心的教学取向，常被用作讨论结构化教学和基础知识教学的参照。
 - [[Dynamic Knowledge and Learning Model]] — 用于澄清学习结果概念的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累。
 - [[Effective Teaching]] — 综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习。
@@ -194,11 +194,11 @@ Total entries: **714**
 - [[Language Experience Approach]] — 基于学生自身口语经验生成阅读与写作材料的早期读写教学法，强调从能想、能说到能写、能读的连续发展。
 - [[Neo-Taylorism in Educational Administration]] — Taylor 科学管理原理在教育行政领域的当代复兴，用于批评以唯一正确方法、效率最大化和标准化控制组织教学与管理的倾向。
 - [[Problem-Based Learning]] — 以复杂问题驱动学习过程的教学方法，强调学生围绕真实或拟真的问题开展探究、协作和知识应用。
-- [[Revoicing]] — O’Connor 与 Michaels (1993) 提出的课堂话语策略_教师充当 animator 重铸学生话语_以突出想法的作者权并提升认知层次
+- [[Revoicing]] — 课堂话语策略，指教师重铸学生话语以澄清观点、突出想法作者权并提升讨论的认知层次
 - [[School Leadership]] — 围绕学校方向设定、人员发展、组织改进和关系建设展开的教育领导实践，用于理解学校如何组织改进、建立信任并支持学习环境。
 - [[Structured Teaching]] — 瑞典课程改革语境中的教学组织概念，强调教师领导、清晰目标、课堂管理与学生逐步发展自主学习之间的平衡。
 - [[Student-Teacher Relationship]] — 学生对师生互动支持性、信任感和被理解程度的主观感知，用于描述课堂关系质量及其对学习参与的影响。
-- [[Surface and Deep Learning]] — 区分以记忆事实和任务完成为主的表层学习与以理解关系、意义和结构为主的深层学习。CHC 研究对该二分法提出了跨文化挑战_中国学习者的记忆并非表层学习的终点_而是通向深层理解的第一步。
+- [[Surface and Deep Learning]] — 区分以记忆事实和任务完成为主的表层学习与以理解关系、意义和结构为主的深层学习，同时提示记忆在不同文化中可能服务于深层理解
 - [[Transformative Leadership]] — Shields 提出的教育领导力框架，以权力、正义和社会转化为分析起点，用于超越仅关注什么有效的工具主义领导观。
 - [[Visible Learning]] — John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。
 
@@ -208,7 +208,7 @@ Total entries: **714**
 - [[Assertiveness]] — 学生在课堂互动中主动表达、提出观点和参与交流的倾向，用于描述学习参与中的主动性和表达能力。
 - [[Cognitive Inhibition]] — 执行功能的核心成分，指在必要时故意抑制主导性或自动化反应的能力，用于支持自我控制、选择性注意和目标导向行为。
 - [[Cognitive Shifting]] — 亦称认知灵活性或任务切换，指在多个任务、操作规则或心理集合之间切换的能力，是执行功能的核心成分之一。
-- [[Entity vs Incremental Intelligence]] — Dweck 提出的两种智力信念_实体观视智力为固定不变，增长观视智力可通过学习提升
+- [[Entity vs Incremental Intelligence]] — 两种智力信念的区分，实体观视智力为固定不变，增长观视智力可通过学习、努力和策略持续提升
 - [[Executive Function]] — 执行功能是一组用于目标导向控制的高阶认知过程，通常包括抑制、转换、更新与监控，用于调节思维和行为以完成任务。
 - [[Flow]] — Csikszentmihalyi 提出的最佳体验概念，指技能与挑战匹配时个体完全投入任务、忘记时间和自我的心理状态
 - [[Intrinsic vs Extrinsic Motivation]] — Deci 与 Ryan 等人发展的动机类型区分，内在动机以活动本身为目的，外在动机以活动为手段
@@ -258,7 +258,7 @@ Total entries: **714**
 - [[Selectivity]] — 治理中的结构性偏向机制，使某些政策选项、行动者和利益更容易获得支持，而其他替代方案被系统性边缘化
 - [[Sovereign Internationalism]] — Sakwa 提出的概念，指以主权平等、不干涉和制度多样性为基础的国际秩序理解。
 - [[Spatial Sortings]] — 知识密集型资本主义通过投资、治理和空间规划持续把地点与人口划分为赢家和输家的过程，是空间不平等生产的重要机制
-- [[VUCA]] — Hughes (2018) 用于框定 21 世纪教育面临挑战的四维分析概念，分别指波动性、不确定性、复杂性和模糊性，在知识地缘政治中充当将结构性问题个体化的治理话语工具。
+- [[VUCA]] — 描述 21 世纪组织与社会环境的四维概念，分别指波动性、不确定性、复杂性和模糊性，也可作为将结构性问题个体化的治理话语工具
 
 ### Research Methodology
 
@@ -267,7 +267,7 @@ Total entries: **714**
 - [[Black Box RCTs]] — 一种不解释干预如何、为何以及在何种条件下有效的 RCT 设计取向，常被用于批评只报告平均效果而忽视机制、情境和专业判断的实验研究。
 - [[Cluster Randomized Trials]] — 一种以学校、班级或其他群体而非个体作为随机化单位的 RCT 设计变体，常用于教育研究中处理集体干预和现场实施条件。
 - [[Confidence Interval]] — 围绕点估计给出的可能取值范围，用于表示估计不确定性并帮助判断不同结果之间差异的稳定程度。
-- [[Cultural Models]] — 人类学概念_由文化历史过程建立的共享概念框架_塑造成员对思想、情感和行为的解释、预测和理解。Li 在跨文化学习研究中将其作为核心框架_并严格区分文化层面模型与个体层面模型。
+- [[Cultural Models]] — 由文化历史过程形成的共享概念框架，塑造成员对思想、情感和行为的解释、预测与理解
 - [[Developer Effect]] — 指项目开发者委托、参与或实施的评估往往得到系统性高于独立第三方的效果估计，用于分析利益关系如何影响教育证据。
 - [[Educational Evidence Clearinghouses]] — 证据本位教育中的制度化中介机构，通过设定证据标准、审查项目研究和发布效果评级，把研究证据转化为学校和政策可使用的项目信息。
 - [[Effect Size]] — 比较不同干预或变量影响强度的标准化统计指标，被广泛用于元分析与证据排序，但其解释边界、聚合方式和政策用途长期存在争议
@@ -291,7 +291,7 @@ Total entries: **714**
 - [[Programme Fidelity vs Adaptation]] — 证据本位方案实施中的核心张力，指忠实复制原始方案与根据本地条件进行调整之间的平衡问题。
 - [[Publication Bias]] — 正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，用于解释证据库为何可能高估干预效果。
 - [[Pure Evaluation]] — 用于描述被宣称可在自调节系统中独立于具体时空运作的评价实践的概念，常用于批评抽离情境的普遍化评估逻辑。
-- [[Recommendations for Practice]] — 研究论文中把研究发现转化为采用或避免某种实践的行动建议，用于连接研究结论与政策或教学实践。
+- [[Recommendations for Practice]] — 研究论文中把研究发现转化为采用、调整或避免某种实践的行动建议，用于连接研究结论与政策或教学实践
 - [[Researcher Degrees of Freedom]] — 研究者在样本选择、变量处理、模型设定和案例排除等分析决策上的自由度累积效应，用于解释结果偏差和可重复性问题。
 - [[Reusability Paradox]] — Wiley提出的学习对象可重用性悖论，被Pellegrini与Vivanet用于说明教育项目越贴合特定情境就越难跨情境复用，越通用则越可能难以满足具体教育需求。
 - [[Side Effects in Education]] — 指教育干预在产生预期效果的同时也可能带来伴随性损害或代价的概念，用于反思只关注什么有效而忽视何种代价的评估逻辑。
@@ -308,7 +308,7 @@ Total entries: **714**
 - [[Cultural Disembedding]] — 弱势背景学生进入精英大学后对物理环境与社会文化环境产生的全面疏离感，用于描述高等教育文化障碍的环境脱嵌维度。
 - [[Cultural Disorientation]] — 弱势背景学生在场域转换过程中出现的自我冲突、目标迷失和行动失向，用于描述高等教育文化障碍的定向失调维度。
 - [[Doxa]] — Bourdieu 场域理论概念，指场域中被自然化为理所当然的正统信念，通过结构安排而非显性强制维持其合法性
-- [[Enculturation]] — 人类学概念，指个体在成长过程中通过日常互动无意识地吸收本文化的价值观、行为模式与信念体系的过程
+- [[Enculturation]] — 个体在成长过程中通过日常互动吸收本文化价值观、行为模式与信念体系的社会化过程
 - [[Gender Differences in Academic Achievement]] — 学生学业表现中的性别差异现象，常用于分析学校规范适应、学习动机、行为评价和制度期待如何共同影响成绩分化。
 - [[Goal-Controlled Mode]] — 大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连
 - [[Graduation Pathway Typology]] — 解释大学生毕业出路分化的 2×2 四分类模型，以目的手段行动力和价值信念驱动力为两轴，划分自主驱动者、机会主义者、迷失无从者和价值归顺者
@@ -336,7 +336,7 @@ Total entries: **714**
 
 ### Chinese Philosophy
 
-- [[Confucian Learning Tradition]] — Li (2012) 识别的东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德、行勝於言四个文化主题
+- [[Confucian Learning Tradition]] — 东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题
 
 ### Communication Discourse
 
@@ -344,7 +344,7 @@ Total entries: **714**
 
 ### Comparative Education
 
-- [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，Laursen (2015) 用其检验以英语国家研究为主的有效教学综合是否适用于丹麦
+- [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，用权力距离、个人主义、不确定性规避等维度比较国家文化差异及其组织和教育影响
 - [[Institutional Isomorphism]] — 解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论
 - [[Nation Building through Education]] — 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析
 - [[World Society Theory]] — 把全球制度扩散理解为世界文化模型广泛传播与模仿结果的社会学理论，用于解释学校制度和大学组织为何在跨国范围内趋同
@@ -359,12 +359,12 @@ Total entries: **714**
 - [[Autopoiesis]] — 把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织
 - [[Critical Realism]] — Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架
 - [[Goldman's Discrimination Theory of Knowledge]] — 知识的成立依赖区分真实状态与相关替代可能状态的能力，可用于说明教育判断为何往往具有局部性、情境性与暂定性
-- [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，Larsen (2019) 以盲点和结构耦合概念批判 VL
+- [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，并以盲点和结构耦合解释系统观察与互动
 - [[Phenomenology]] — 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的“现象“概念和教育意义
 - [[Popper's Three Worlds Theory]] — 将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承
 - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
 - [[Science and Technology Studies]] — 跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念
-- [[Societies of Control]] — Deleuze (1992) 提出的社会理论_ 后规训时代的权力形态以持续调制取代封闭式规训，教育机构被纳入企业网络逻辑，调制永不终止
+- [[Societies of Control]] — Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑
 - [[Technical Rationality]] — 把专业实践理解为以手段目的计算解决问题的实证主义模型，强调技术控制、价值中立和标准化决策，是批判教育技术化的重要参照
 - [[Transactional Epistemology]] — Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
 - [[Transition Design]] — 把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大
@@ -386,7 +386,7 @@ Total entries: **714**
 - [[Hebbian Principles]] — Hebb 突触可塑性原则：经常使用的神经通路被加强，不常用的被移除，是突触修剪的理论基础
 - [[Miyake's Unity and Diversity Framework of Executive Function]] — Miyake (2000) 的 EF 统一性与多样性框架：抑制、转换、更新与监控三成分既相关又各具独特功能和发展轨迹
 - [[Neo-Piagetian Theories]] — 修正皮亚杰模型的新皮亚杰理论群：Pascual-Leone 的双层/M-power 模型、Case 的四子域模型、Fischer 的技能理论
-- [[Piaget's Theory of Cognitive Development]] — 皮亚杰的认知发展四阶段建构主义理论：感觉运动→前运算→具体运算→形式运算，Bolton & Hattie (2017) 论证其与 PFC 发育在时间上平行对应
+- [[Piaget's Theory of Cognitive Development]] — 皮亚杰的认知发展四阶段建构主义理论，区分感觉运动、前运算、具体运算和形式运算等发展阶段
 - [[Self-Worth Theory]] — Covington (1976) 提出的成就动机理论，认为人类将能力感知为自我价值，会采取各种策略保护自我价值免受失败威胁
 
 ### Political Economy Geopolitics
@@ -395,7 +395,7 @@ Total entries: **714**
 - [[Cultural Political Economy]] — 把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造
 - [[Decolonial Geopolitics of Knowledge]] — 从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化
 - [[Fixity-Motion Tension]] — 解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论
-- [[Governmentality]] — Foucault 提出的权力分析概念_ 一种通过塑造主体自我理解而非直接强制来引导行为（conduct of conduct）的治理理性，以自我技术为运作机制
+- [[Governmentality]] — Foucault 的权力分析概念，指通过塑造主体自我理解而非直接强制来引导行为的治理理性，以自我技术为重要运作机制
 - [[Hegemony]] — Antonio Gramsci (1971) 的权力理论：区分强制与霸权（通过法律、教育、媒体、科学、大学等文化制度赢得被统治者积极同意），文化部门的半自主性和知识分子的双重角色是高等教育地缘政治分析的核心工具
 - [[Tullock's Bureaucracy Theory]] — 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
 
@@ -434,7 +434,7 @@ Total entries: **714**
 - [[Comparative Case Study]] — Bartlett 与 Vavrus 提出的比较案例研究方法，通过水平、垂直和横贯三个轴同时对案例进行跨地点、跨尺度和历时比较，适合分析复杂连接的教育政策与治理现象
 - [[Comparative Meta-synthesis]] — 质性研究综合方法，将多项研究综述作为案例进行翻译、比较和推论链重建，适合整理复杂研究领域的共识与分歧。
 - [[Constructivist Grounded Theory]] — 扎根理论的建构主义变体，强调概念与意义由研究者和被研究者在互动中共同生成，适合分析行动者如何赋予经验以解释框架
-- [[Critical Companion]] — Zelinka (2022) 使用的质性话语分析方法_不提供传统系统性文献综述_而是对政策话语框架进行批判性检视_识别核心特征、共同模式和盲点
+- [[Critical Companion]] — 一种质性话语分析方法，通过批判性陪伴而非传统系统综述检视政策话语框架，识别其核心特征、共同模式和盲点
 - [[Ganz-Methode]] — 通过整体进路承载而非消解意义张力的实践方法论，适合在复杂社会情境中识别行动可能性和生命力重组过程
 - [[Historical Document Analysis of Curriculum]] — 通过系统分析课程文件、政府政策、媒体报道和学术文献重建科目演变历程，识别课程变革的政治动力
 - [[In-depth Interview]] — 通过持续追问、渐进聚焦和生活史叙述深入理解行动者经验与意义建构的质性资料收集方法，适合解释复杂选择和主观处境
@@ -677,7 +677,7 @@ Total entries: **714**
 - [[Herbert A. Simon]] — 美国政治学家、经济学家和认知科学家，有限理性理论创立者，为教育研究理解专业判断、决策局限与复杂系统中的选择提供基础。
 - [[Jacob Cohen]] — 美国统计学家，Cohen’s d 与效应量阈值框架提出者，为教育研究提供广泛使用但也常被误读的统计语言。
 - [[John W. Meyer]] — 美国社会学家，世界社会理论创始人与组织行动者理论代表人物，为教育研究解释全球教育扩张、制度同形与大学全球角色提供框架。
-- [[Ken Goodman]] — 美国教育学者，全语言运动奠基人和 Reading_A Psycholinguistic Guessing Game 作者，为教育研究提供与技能本位识字观对立的重要传统。
+- [[Ken Goodman]] — 美国教育学者和全语言运动奠基人，提出阅读作为心理语言猜测游戏的观点，为识字教育提供与技能本位观对立的重要传统
 - [[Kurt Fischer]] — 美国发展心理学家和新皮亚杰理论家，技能理论提出者，为教育研究把发展水平理解为情境化与可变表现提供模型。
 - [[Larry Cuban]] — 美国教育史学家和课程理论家，学校改革史与技术乌托邦批判代表人物，为教育研究理解改革循环、课堂稳定性与政策落差提供历史视角。
 - [[Marcia Baxter Magolda]] — 美国教育心理学家，自我主导性理论提出者，为教育研究理解大学生认知、身份与意义建构发展提供重要框架。
@@ -698,7 +698,7 @@ Total entries: **714**
 - [[Karmel Report]] — 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
 - [[Local Schools Local Decisions]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
 - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
-- [[Victorian HITS and Literacy Toolkit]] — 维州教育部发布 10 项 HITS 和 Literacy Toolkit，均以 Hattie 的 VL 为首要参考，O’Connor (2020) 质疑其证据基础
+- [[Victorian HITS and Literacy Toolkit]] — 维州教育部发布的高影响教学策略和识字工具包，以 Visible Learning 等证据综合为重要参考并引发证据基础争议
 
 ### Belgium
 
@@ -719,11 +719,11 @@ Total entries: **714**
 #### Event
 
 - [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
-- [[China Social Credit System]] — 中国利用大数据对公民行为进行永久性评估的治理系统，Partaken (2022) 定位为 GPK 监视模态的当代典范
+- [[China Social Credit System]] — 中国利用大数据和行政记录对公民、组织与市场主体行为进行评估和治理的制度体系
 - [[Civil Service Examination]] — 中国自 7 世纪至 1905 年延续超过 1300 年的官员选拔制度，将道德成就、学术学习、政治权力和社会地位前所未有地融为一体
 - [[Confucian Revival in China]] — 1980 年代末至今中共主导的儒家传统复兴运动，经历民间自发到国家收编的转变，服务于意识形态合法化和国族建构
 - [[ECNU Declaration on Evidence-Based Research]] — 华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣言，提出 10 条措施推进中国教育实证研究，标志中国证据本位改革的制度化里程碑（Slavin et al., 2021）
-- [[Great Firewall of China]] — 中国国家互联网审查系统，Partaken (2022) 定位为 GPK 审查模态的核心制度工具
+- [[Great Firewall of China]] — 中国国家互联网审查系统，通过技术过滤、平台治理和制度监管控制跨境信息流动
 - [[Late Qing Borrowing of Japanese Education]] — 甲午战败后清末以日本为主要参照推进新式教育体系建设
 - [[Thousand Talents Program]] — 中国海外高层次人才引进计划，被美方视为制度化知识盗窃机制，中美技术紧张焦点
 
@@ -731,7 +731,7 @@ Total entries: **714**
 
 - [[China Basic Education Curriculum Reform]] — 教育部发布基础教育课程改革纲要（试行），从“双基“转向“素质教育“、从教师中心转向学生中心教学，在大城市和偏远地区均深入推进
 - [[China College Graduate Employment Reform]] — 从统包统分到双向选择的高校毕业生就业市场化改革，1986 提出→1989 批准→1994 并轨试点→1997 全国实施
-- [[Recommendation-Based Graduate Admission System]] — 1980s 中期至今的推免研究生制度：以累积学分为依据免试直升，985 院校覆盖率可达 40%+，郑雅君 (2023) 分析其对不同阶层学生的隐性要求差异，改革派与保守派在“借鉴日本教育“上形成阶段性共识并推动大规模借用
+- [[Recommendation-Based Graduate Admission System]] — 1980s 中期至今的推免研究生制度，以累积学分和综合表现为依据免试直升，并对不同阶层学生提出不同隐性要求
 - [[Three Excellences]] — 中国学校年度评选的模范学生荣誉，以品德、学业、艺术/体育三方面卓越表现为标准，通过师生提名投票产生，用于为全体学生树立学习榜样
 
 ### Denmark
@@ -756,7 +756,7 @@ Total entries: **714**
 
 - [[EU Evidence-Informed Education Policy Initiatives]] — 2006年以来欧盟通过评价文化、知识中介网络和Eurydice支持机制推动成员国在教育决策中使用证据，但主要以指导和协调为主而非强制统一政策。
 - [[EU Key Competences for Lifelong Learning]] — 2018年欧盟理事会修订的终身学习关键能力框架，将能力定义为知识、技能和态度的动态组合，并提出八项关键能力及其评估挑战。
-- [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，YOUNG_ADULLLT 项目揭示其在欧盟各地差异化实施
+- [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，并在欧盟各地呈现差异化实施路径
 - [[Europe 2020 Strategy]] — EU 2010–2020 十年战略规划，以“智能、可持续与包容性增长“为框架，涵盖就业、研发、气候、教育、减贫五大领域
 - [[Horizon 2020 SSH Integration]] — EU 2014–2020 年研究框架取消社会科学与人文学科独立资助渠道，作为横向议题嵌入所有优先领域
 - [[Horizon Europe Missions]] — EU 2021–2027 年研究与创新框架的核心机制，将研究整合为五大社会挑战的使命承诺
@@ -792,13 +792,13 @@ Total entries: **714**
 - [[Minerva University]] — 2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标
 - [[OECD AHELO Project]] — OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败
 - [[PISA]] — OECD 2000 年启动的跨国学生评估项目，通过比较 15 岁学生阅读、数学与科学素养，持续塑造各国对成绩危机、改革压力与政策优先事项的理解。
-- [[Regional University Alliances]] — Amos (2022) 在晚期现代教育转型语境中关注的三类欧洲大学联盟（LERU、The GUILD、European University Alliances），在科研合作、师生流动和联合学位中运作，构成多层级地缘政治教育空间中的制度行动者
+- [[Regional University Alliances]] — 跨国或区域性大学联盟，通过科研合作、师生流动和联合学位等机制构成多层级高等教育空间中的制度行动者
 
 #### Policy
 
 - [[Australia in the Asian Century White Paper]] — 澳大利亚 Henry Report：将亚洲崛起定位为“澳大利亚的机遇“，推动 AISRF、ACSRF 等与亚洲的研究合作
 - [[Campbell Collaboration]] — 2000年成立的社会科学系统综述组织，2007年将国际总部迁至挪威，通过综述社会、经济和教育干预研究支持证据本位政策与实践。
-- [[GATS and Trade in Education Services]] — WTO 服务贸易总协定将高等教育视为可交易商品，Collins (2007) 批判其反映“新帝国主义
+- [[GATS and Trade in Education Services]] — WTO 服务贸易总协定框架下将高等教育纳入服务贸易的制度安排，推动教育服务商品化和跨境市场开放
 - [[OECD Improving School Leadership Project]] — OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
 - [[THE Impact Ranking]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
 - [[UN Sustainable Development Goals]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的“新型第三使命
@@ -831,14 +831,14 @@ Total entries: **714**
 
 #### Event
 
-- [[Kokutai no Hongi]] — 日本文部省思想局编写的皇国思想教育文本，在殖民地强制教学，Partaken 定位为 GPK 强制知识转移的历史典范
+- [[Kokutai no Hongi]] — 日本文部省思想局编写的皇国思想教育文本，曾在殖民地强制教学，是国家主导知识转移的历史案例
 
 ### Multi-country
 
 #### Event
 
 - [[Cram Schools]] — 东亚社会广泛存在的校外付费学业补习机构，在台湾、日本、韩国、香港、中国、新加坡和越南普遍存在
-- [[Sino-American Trade War]] — 中美贸易与技术转移争端，Partaken (2022) 定位为 GPK“最好且最当下的经验案例
+- [[Sino-American Trade War]] — 中美围绕贸易、技术转移、产业政策和国家安全展开的持续性经济与地缘政治争端
 - [[Transnationalism and America Project SYSU]] — 岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍
 
 #### Policy
@@ -876,7 +876,7 @@ Total entries: **714**
 
 #### Event
 
-- [[Russian Translation of Visible Learning]] — Hattie Visible Learning 俄文版由 Prosveshchenie 集团于 2017 年出版，引发俄学界热烈讨论；Golovchin (2019) 基于方法论和文化分析建议俄教育政策不予采用
+- [[Russian Translation of Visible Learning]] — Hattie Visible Learning 的俄文译本出版事件，引发俄语教育学界围绕可见学习方法论和本土适用性的讨论
 
 ### Singapore
 
@@ -907,7 +907,7 @@ Total entries: **714**
 - [[Areopagitica]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
 - [[Hargreaves 1996 TTA Lecture]] — David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
 - [[Playing for Success]] — 英国依托足球俱乐部场地设立的学习支持中心项目，结合体育吸引力与课外辅导实践，后续成为教育证据聚合争议中的重要案例
-- [[ResearchED]] — 2013 年英国兴起的教师草根运动，主张以研究证据尤其随机试验支持课堂实践，推动证据本位教学的公共传播与制度争论
+- [[ResearchED]] — 英国教师主导的教育研究传播网络，推动课堂实践与研究证据之间的公共讨论
 
 #### Policy
 
@@ -936,23 +936,23 @@ Total entries: **714**
 - [[California Class Size Reduction 1996]] — 1996 年加州大规模推行的班额缩减政策，因教师与教室供给不足暴露出试点成功经验在全州扩张中的实施条件问题
 - [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] — 面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果
 - [[Clearinghouse for Military Family Readiness Continuum of Evidence]] — 面向军人家庭的 public 清算中心，对 RCT 与一般 QED 均有详细证据标准
-- [[CNCS Evidence Exchange]] — 只审查 CNCS 自身资助项目和干预的 public 清算中心，在 Wadhwa et al. (2024) 样本中贡献 52 个项目
+- [[CNCS Evidence Exchange]] — 只审查 CNCS 自身资助项目和干预的公共清算中心，提供项目证据评级与资助决策支持
 - [[Coleman Report 1966]] — 美国教育部委托的里程碑式教育机会平等研究（650,000+ 学生、4,000 所学校），结论为家庭背景而非学校特征是学业差距的主要驱动力，50 年后 Downey & Condron 重新评估认为 Coleman 低估了学校的补偿性作用
 - [[Collaborative for Academic Social and Emotional Learning Guide]] — 聚焦社会情感学习项目的非营利教育清算中心，Wadhwa et al. (2024) 样本中贡献 25 个项目
-- [[Communities in Schools]] — Wadhwa et al. (2024) 的清算中心评级分歧案例：NDPC 推荐，PPN/CNCS 认为 promising 或中等支持，Blueprints/CMFR 不背书
+- [[Communities in Schools]] — 美国综合学生支持项目，在多个证据清算中心中获得不一致评级，是教育干预证据分歧的典型案例
 - [[Creation of REES]] — IES 于 2018 年启动的教育项目评估预注册平台（Registry of Efficacy and Effectiveness Studies），旨在缓解可疑研究实践并增加对知识库的信心
-- [[Daubert v Merrell Dow Pharmaceuticals 1993]] — 美国联邦最高法院里程碑裁决，确立科学证据可采性标准，Berk (2011) 引入评估研究方法论讨论以框架化证据与垃圾科学的区分
+- [[Daubert v Merrell Dow Pharmaceuticals 1993]] — 美国联邦最高法院关于科学证据可采性的里程碑裁决，确立了区分可靠专家证据与垃圾科学的司法标准
 - [[ESSA 2015 Evidence Standards]] — 美国联邦教育主法定义强/中/有希望与理论依据证据层级，将联邦拨款与使用达到证据标准的项目绑定
 - [[Home Visiting Evidence of Effectiveness]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、QED、RDD 均有详细标准
 - [[Investing in Innovation Program]] — 2009–2016 年美国教育部 USD 1.4B 分层拨款项目，以开发→验证→规模化结构推动教育 RCT 证据生产
-- [[National Dropout Prevention Center]] — 聚焦辍学预防项目的非营利教育清算中心，在 Wadhwa et al. (2024) 四个详细比较对象中最高评级门槛最低
+- [[National Dropout Prevention Center]] — 聚焦辍学预防项目的非营利教育清算中心，提供项目筛选、证据评级和实践资源
 - [[Open Court Reading]] — Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、BEE 均评为 promising，但研究解释标准不同
 - [[Peer-Assisted Learning Strategies]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断
-- [[Promise Neighborhoods Research Consortium]] — 评价项目、政策和实践的 public 清算中心，不进行项目效果分层评级，未进入 Wadhwa et al. (2024) 最终一致性分析
-- [[Promising Practices Network]] — 面向儿童与家庭的多领域非营利清算中心，因 2020 年中停止运行未进入 Wadhwa et al. (2024) 最终一致性分析
+- [[Promise Neighborhoods Research Consortium]] — 评价项目、政策和实践的公共清算中心，不进行项目效果分层评级，更强调社区项目证据整理与资源汇集
+- [[Promising Practices Network]] — 面向儿童与家庭政策的多领域非营利清算中心，曾提供项目证据摘要和实践案例库
 - [[Quantum Opportunity Program]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP 与 Eisenhower QOP 两个项目版本
 - [[Social Programs That Work]] — 多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库
-- [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发美国科技信心危机，Amos (2022) 将其定位为教育与地缘政治关系的关键转折点：触发 OECD 对 STEM 教育的系统性关注，建立“教育质量→科技能力→国家竞争力“的政策逻辑链
+- [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接
 - [[Success for All]] — Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断
 - [[Tennessee STAR Project 1985-1989]] — 1985 至 1989 年田纳西州实施的大型班额缩减随机试验，成为教育因果识别、班级规模政策和结果外推争论中的关键案例
 - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
@@ -983,20 +983,20 @@ Total entries: **714**
 
 #### Parreira do Amaral(Ed.)_2022_Springer
 
-- [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos_ 以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
-- [[Argument_Boyadjieva_2022_Springer]] — Ch8 Pepka Boyadjieva_ 以可行能力路径和制度理论构建 HE 多维使命模型（2×3 矩阵），批判全球排名推行一刀切大学模型、忽视使命多样性
-- [[Argument_Delambre_2022_Springer]] — Ch7 Dell Delambre_ 提出 Creative Tension of Sense 认识论和 Ganz-Methode，主张承载新旧之间的意义张力，以巴西里约热内卢基层实践为案例
+- [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos，以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
+- [[Argument_Boyadjieva_2022_Springer]] — Ch8 Pepka Boyadjieva，以可行能力路径和制度理论构建 HE 多维使命模型（2×3 矩阵），批判全球排名推行一刀切大学模型、忽视使命多样性
+- [[Argument_Delambre_2022_Springer]] — Ch7 Dell Delambre，提出 Creative Tension of Sense 认识论和 Ganz-Methode，主张承载新旧之间的意义张力，以巴西里约热内卢基层实践为案例
 - [[Argument_Erfurth_2022_education-hubs]] — 以文化政治经济学和比较案例研究为框架，从文化外交与政治经济两个维度比较新加坡与阿联酋的教育枢纽项目，揭示该路径绕开制度建设、依赖市场自由化与基础设施扩张却获国际发展界认可的悖论
-- [[Argument_Hartmann_2022_CorporateEducation]] — Ch11 Eva Hartmann_ 以制度同构理论和 MNC 组织类型学为框架，分析企业教育的国际化及其地缘政治与地缘经济维度，识别四种权威来源策略，论证营利性教育提供商的市场集中化趋势
+- [[Argument_Hartmann_2022_CorporateEducation]] — Ch11 Eva Hartmann，以制度同构理论和 MNC 组织类型学为框架，分析企业教育的国际化及其地缘政治与地缘经济维度，识别四种权威来源策略，论证营利性教育提供商的市场集中化趋势
 - [[Argument_Jornitz_2022_Bildung_algorithmic]] — 以 Bildung 概念和 Gruschka 教学理论为框架，分析学习软件的即时反馈、奖励系统和表现仪表盘三大机制如何系统性地排除教育中的意义建构与人格陶成，将算法技术的全球传播解读为数字知识地缘政治
-- [[Argument_Moisio_2022_Springer]] — Ch2 Sami Moisio_ 论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架
-- [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral_ 整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
+- [[Argument_Moisio_2022_Springer]] — Ch2 Sami Moisio，论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架
+- [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral，整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
 - [[Argument_Parreira do Amaral_2022_Springer]] — 论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制度与互动→主体形塑）逐层展开
-- [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken_ 区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性
-- [[Argument_Rambla_2022_Springer]] — Ch10 Xavier Rambla_ 以 Le Galès 政策工具框架分析欧盟创新与教育培训政策如何通过绩效指标构建区域性的教育与创新想象，揭示其选择性优先技术研发和就业导向而边缘化区域异质性与人文赋权
-- [[Argument_Rizvi_2022_Springer]] — Ch6 Fazal Rizvi_ 以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构
-- [[Argument_Thompson_2022_Promising_Student]] — Ch13 Thompson, Schröder & Wrana_ 以 Foucault 治理术和 Deleuze 控制社会为理论框架，分析在线自评工具如何作为主体化工具在竞争性地缘政治框架中建构有前景的学生，揭示数字化治理如何将入学前选择重构为自我评估和自我优化的持续性调制过程
-- [[Argument_Zapp_2022_Springer]] — Ch9 Mike Zapp_ 以世界社会理论和组织能动者身份为框架，分析大学通过研究、教学、内部政策和网络四种机制嵌入全球治理，以 SDGs 为案例，警示科学的政治化和大学的地缘政治再领土化风险
+- [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken，区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性
+- [[Argument_Rambla_2022_Springer]] — Ch10 Xavier Rambla，以 Le Galès 政策工具框架分析欧盟创新与教育培训政策如何通过绩效指标构建区域性的教育与创新想象，揭示其选择性优先技术研发和就业导向而边缘化区域异质性与人文赋权
+- [[Argument_Rizvi_2022_Springer]] — Ch6 Fazal Rizvi，以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构
+- [[Argument_Thompson_2022_Promising_Student]] — Ch13 Thompson, Schröder & Wrana，以 Foucault 治理术和 Deleuze 控制社会为理论框架，分析在线自评工具如何作为主体化工具在竞争性地缘政治框架中建构有前景的学生，揭示数字化治理如何将入学前选择重构为自我评估和自我优化的持续性调制过程
+- [[Argument_Zapp_2022_Springer]] — Ch9 Mike Zapp，以世界社会理论和组织能动者身份为框架，分析大学通过研究、教学、内部政策和网络四种机制嵌入全球治理，以 SDGs 为案例，警示科学的政治化和大学的地缘政治再领土化风险
 - [[Argument_Zelinka_2022_SCD_subjectivity]] — 以 Foucault 治理术和话语分析为框架，审查 21 世纪技能与素养话语的七个国际框架，揭示其如何通过三组张力生产以自我企业家为核心的新主体性，并将新知识地缘政治概念化为一种全球治理技术。
 
 #### Ryan(Ed.)_2010_HKUP

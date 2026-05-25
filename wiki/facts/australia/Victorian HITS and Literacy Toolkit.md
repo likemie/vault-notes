@@ -4,7 +4,7 @@ aliases:
   - Victorian HITS and Literacy Toolkit 2017
   - 维州HITS与读写工具包
   - HITS
-summary: "维州教育部发布 10 项 HITS 和 Literacy Toolkit，均以 Hattie 的 VL 为首要参考，O’Connor (2020) 质疑其证据基础"
+summary: "维州教育部发布的高影响教学策略和识字工具包，以 Visible Learning 等证据综合为重要参考并引发证据基础争议"
 type: fact
 subtype: policy
 region: australia
