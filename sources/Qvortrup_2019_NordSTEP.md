@@ -6,7 +6,6 @@ extracted_to:
   - "[[Structural Coupling]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
   - "[[Danish Public School Reform]]"
   - "[[Hattie på dansk]]"
@@ -18,6 +17,7 @@ extracted_to:
   - "[[Donald A. Schön]]"
   - "[[Herbert A. Simon]]"
   - "[[Bounded Rationality]]"
+  - "[[Critiques of Visible Learning]]"
 processed_date: 2026-05-03
 ---
 

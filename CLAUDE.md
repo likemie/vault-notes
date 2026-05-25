@@ -113,7 +113,7 @@ Only after the user provides the complete PDF and asks for source / reading-page
 
 - Always wrap `summary` in double quotes.
 - The content inside `summary` must not contain English colon `:`, double quote `"`, or single quote `'`.
-- If an English title has a colon, replace the colon with `_`.
+- If an English title has a colon, rewrite the summary with natural wording or Chinese punctuation; do not replace punctuation with `_`.
 - Do not write “本文研究……”, “作者认为……”, or “本研究发现……” in summaries.
 - If no reliable summary can be written, leave `summary: ""`.
 

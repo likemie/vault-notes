@@ -13,7 +13,6 @@ tags:
   - theme/inequality
   - theme/stratification
 related_concepts:
-  - "[[Policy Borrowing]]"
   - "[[Talent Assumption]]"
   - "[[Entity vs Incremental Intelligence]]"
   - "[[Intellectual-Social Divide]]"
@@ -32,54 +31,6 @@ updated: 2026-05-25
 ---
 
 # Tracking
-
-
-
->
-> [!info]- 自动维护字段（对齐脚本）
-> - `related_*` 与 YAML `sources` 由 `scripts/wiki_relations.py` 自动维护，AI 不手动填写。
-> - 正文中的 wikilink 会同步到对应 `related_*`。
-> - `## 来源` 章节中的 source wikilink 会同步到 YAML `sources`。
-> - 正文自动补链由 `scripts/wiki_linker.py sync` 完成；`aliases` 是自动补链白名单。
-> - Source 记录与 PDF / EPUB 阅读页面优先由 `scripts/source_record.py` 创建。
-> - 处理完成后运行：
->   ```bash
->   python3 scripts/wiki_index.py
->   python3 scripts/wiki_linker.py sync
->   python3 scripts/wiki_relations.py sync
->   python3 scripts/wiki_index.py
->   python3 scripts/vault_lint.py
->   ```
-
-> [!info]- Summary 规则（索引用，不是摘要）
-> `summary` 只用于索引说明，让读者一眼看出这个概念是什么、来自谁、解决什么问题或有什么关键机制。
-> 好例子：`Phillips & Ochs [[Policy Borrowing|政策借用]]四阶段模型的第一阶段，Rappleye (2006) 将其解释为结构／人的双层推力与阻力。`
-> 如果无法概括，留空：`summary: ""`。
-
-> [!warning]- Summary YAML 安全规则
-> `summary` 外层必须使用双引号包裹：`summary: "一句话索引说明"`。
-> `summary` 内容内部禁止出现英文冒号 `:`、双引号 `"`、单引号 `'`。
-> 如果英文标题原本有冒号，用下划线 `_` 替代。
-
-
-
-> [!info]- Frontmatter 格式规范
-> - `tags` — 用方括号列表，内容 tag 建议使用英文小写连字符。
-> - 推荐 tag 前缀：`level/`、`region/`、`method/`、`theory/`、`policy/`、`subject/`、`theme/`、`source/`。
-> - `related_*`、`sources`、`part_of` — 若引用条目，必须写成带引号的 wikilink。
-> - `related_*` 与 YAML `sources` 由脚本自动同步，AI 通常不手动填写。
-
-> [!info]- Aliases 规则（用于 Automatic Linker 自动补链）
-> - `aliases` 用于中英文术语映射，建议包含中文译名、英文原名、常见缩写和常见变体。
-> - 不要加入过于宽泛的普通词。
-> - 推荐写完整术语。
-
-> [!warning]- 写入规则（每次写入前必须执行）
-> 1. 确定新内容属于哪个 `##` 章节。
-> 2. 分点 ≥ 8 条 → 按主题建 `###` 子主题，组内按时间排列。
-> 3. 分点 < 8 条 → 直接按时间顺序插入正确位置，禁止追加末尾。
-> 4. 写入前声明：「归属章节 > 子主题 > 插入位置」，再用 str_replace 写入。
-
 
 ---
 

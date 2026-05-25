@@ -17,8 +17,10 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[National Education in Hong Kong]]"
+  - "[[National Education]]"
   - "[[Citizenship and Social Development]]"
+  - "[[My Pledge to Act]]"
+  - "[[Youth Development Blueprint]]"
 related_arguments: []
 sources:
   - "[[Vickers_2024_CE]]"
@@ -43,11 +45,11 @@ updated: 2026-05-25
 ## 核心要素
 
 > [!abstract] 三条运作路径
-> Vickers（2024, pp.153–154）在[[National Education in Hong Kong|香港国民教育]]的分析中识别了心理化运作的三条平行路径：
+> Vickers（2024, pp.153–154）在[[National Education|香港国民教育]]的分析中识别了心理化运作的三条平行路径：
 >
 > **路径一：课程中消除政治讨论** — [[Citizenship and Social Development|CSD]] 教科书将所有政治争议议题删除，取而代之的是对宪法、政治和法律事务的教导式阐述。讨论空间被"国家安全"理由所封闭（p.153）。
 >
-> **路径二：课外将不满重新框定为心理问题** — "我的行动承诺（My Pledge to Act）"项目（2019–2022）要求学生"快乐（be happy）"和"感恩我们所拥有的（be grateful for what we have）"。《青年发展蓝图》（2022）的四大主题（探索、希望、赋能、贡献）完全回避了青年的政治参与和能动性诉求（p.153）。
+> **路径二：课外将不满重新框定为心理问题** — "[[My Pledge to Act|我的行动承诺]]（My Pledge to Act）"项目（2019–2022）要求学生"快乐（be happy）"和"感恩我们所拥有的（be grateful for what we have）"。《[[Youth Development Blueprint|青年发展蓝图]]》（2022）的四大主题（探索、希望、赋能、贡献）完全回避了青年的政治参与和能动性诉求（p.153）。
 >
 > **路径三：个体化归因取代结构性分析** — 官方叙事的核心信息是：生活更好的道路不在于改革社会的行动，而在于改变自我的决心。制度批评被排除在"可思考"的范围之外（pp.153–154）。
 
@@ -74,8 +76,8 @@ updated: 2026-05-25
 ## 相关案例／政策
 
 > [!example]
-> - Youth Development Blueprint — 2022 年港府《青年发展蓝图》
-> - My Pledge to Act — 教育局"我的行动承诺"项目（2019–2022）
+> - [[Youth Development Blueprint]] — 2022 年港府《青年发展蓝图》
+> - [[My Pledge to Act]] — 教育局"我的行动承诺"项目（2019–2022）
 
 ---
 

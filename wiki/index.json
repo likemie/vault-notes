@@ -16,10 +16,10 @@
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Affect-Respect and Ought-Respect.md",
     "aliases": [
-      "情感性尊重与义务性尊重",
+      "情感性尊重",
       "affect-respect",
       "ought-respect",
-      "两种尊重"
+      "义务性尊重"
     ]
   },
   {
@@ -39,8 +39,7 @@
     "path": "wiki/concepts/chinese-philosophy/Chinese Learner.md",
     "aliases": [
       "中国学习者",
-      "Chinese learners",
-      "Chinese student"
+      "Chinese learners"
     ]
   },
   {
@@ -116,8 +115,7 @@
     "aliases": [
       "好學心",
       "hao-xue-xin",
-      "好学心",
-      "心向学"
+      "好学心"
     ]
   },
   {
@@ -125,7 +123,6 @@
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Humility in Learning.md",
     "aliases": [
-      "学习中的谦逊",
       "谦虚",
       "谦逊",
       "qian xun",
@@ -158,7 +155,6 @@
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Pride in Learning.md",
     "aliases": [
-      "学习骄傲",
       "骄傲",
       "jiao-ao",
       "驕傲",
@@ -302,7 +298,7 @@
       "格莱斯会话准则",
       "Gricean maxims",
       "cooperative principles",
-      "合作原则"
+      "会话准则"
     ]
   },
   {
@@ -319,10 +315,12 @@
     "path": "wiki/concepts/comparative-education/21st Century Skills and Competencies Discourse.md",
     "aliases": [
       "21世纪技能与素养话语",
-      "21st century skills discourse",
+      "21st century skills",
       "SCD",
-      "21世纪关键能力框架",
-      "key competencies discourse"
+      "核心素养",
+      "key competencies",
+      "21世纪技能",
+      "关键能力"
     ]
   },
   {
@@ -372,7 +370,6 @@
     "path": "wiki/concepts/comparative-education/Examination Hell.md",
     "aliases": [
       "考试地狱",
-      "考试地域",
       "exam hell",
       "examination-driven system"
     ]
@@ -408,7 +405,6 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Mind Efficacy and Virtue Efficacy.md",
     "aliases": [
-      "心智效力与美德效力",
       "心智归因",
       "美德归因",
       "mind efficacy",
@@ -422,7 +418,8 @@
     "aliases": [
       "心智导向学习过程",
       "mind-oriented process",
-      "Western learning process"
+      "Western learning process",
+      "心智导向"
     ]
   },
   {
@@ -473,8 +470,9 @@
     "aliases": [
       "同伴互助学习",
       "兵教兵",
-      "peer tutoring Chinese",
-      "互帮互学"
+      "peer tutoring",
+      "互帮互学",
+      "同伴互助"
     ]
   },
   {
@@ -490,10 +488,7 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Rote Learning.md",
     "aliases": [
-      "死记硬背",
-      "死记硬背与理解",
-      "memorization and understanding",
-      "Chinese learner paradox memory"
+      "死记硬背"
     ]
   },
   {
@@ -502,9 +497,7 @@
     "path": "wiki/concepts/comparative-education/Theories of Policy Change.md",
     "aliases": [
       "政策变革理论",
-      "theories of change",
-      "theory of change",
-      "变革理论（政策）"
+      "政策变革"
     ]
   },
   {
@@ -522,7 +515,8 @@
     "aliases": [
       "美德导向学习过程",
       "virtue-oriented process",
-      "East Asian learning process"
+      "East Asian learning process",
+      "美德导向"
     ]
   },
   {
@@ -3558,8 +3552,7 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Matching.md",
     "aliases": [
-      "匹配",
-      "SEM"
+      "匹配"
     ]
   },
   {

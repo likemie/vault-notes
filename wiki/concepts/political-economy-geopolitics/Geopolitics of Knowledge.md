@@ -45,8 +45,8 @@ related_concepts:
   - "[[Hegemony]]"
 related_theories:
   - "[[Critical Geopolitics]]"
-  - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Fixity-Motion Tension]]"
+  - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
   - "[[Matching]]"
   - "[[Single-Case Design]]"
@@ -114,7 +114,7 @@ Partaken (2022) 通过 Google Books Ngram Viewer 词频分析追踪了"geopoliti
 
 知识地缘政治的理论发展沿两条独立的学术脉络展开，二者发源于不同学科传统、追问不同问题、使用不同分析工具：
 
-| | 批判地缘政治学 | [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]] |
+| | 批判地缘政治学 | [[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]] |
 |---|---|---|
 | **发源地** | 英语世界人文地理学 / 政治地理学 | 拉丁美洲去殖民思想传统 |
 | **核心问题** | 谁在想像和建构世界空间？通过什么机制？ | 谁的知识被认定为知识？什么认识论被排除？ |

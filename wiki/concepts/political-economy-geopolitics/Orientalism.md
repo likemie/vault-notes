@@ -27,7 +27,7 @@ related_methods: []
 related_persons:
   - "[[Frantz Fanon]]"
 related_facts:
-  - "[[National Education in Hong Kong]]"
+  - "[[National Education]]"
 related_arguments:
   - "[[Argument_Ryan_2010_ChineseLearner]]"
 sources:
@@ -100,7 +100,7 @@ updated: '2026-05-18'
 >
 > ### 作为政治工具的"东方主义"指控
 >
-> Vickers（2024, pp.154–155）在[[National Education in Hong Kong|香港国民教育]]研究中揭示了一个值得关注的当代现象：在以"反西方霸权"和"去殖民"为主流话语的盎格鲁学术圈中，"东方主义"这一概念被策略性地挪用来压制对中国文化-政治工程的批判。
+> Vickers（2024, pp.154–155）在[[National Education|香港国民教育]]研究中揭示了一个值得关注的当代现象：在以"反西方霸权"和"去殖民"为主流话语的盎格鲁学术圈中，"东方主义"这一概念被策略性地挪用来压制对中国文化-政治工程的批判。
 >
 > **指控的逻辑**：对中国在香港、台湾或西藏推行[[Sinicisation|中国化]]政策的批判，被回译为"东方主义"或"恐华"（Sinophobia）——即批评者不过是在重复西方殖民者"想象东方"的旧习。如 Carrico（2018）所观察的，将香港、台湾或西藏的反中情绪一概归因于"西方影响"的叙事，实际上制造了一个新的"想象东方"：这个想象中的东方没有内部冲突、没有真实的政见分歧，只有来自外部的阴谋（Vickers, 2024, p.155）。
 >

@@ -25,8 +25,6 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Confidence Interval]]"
   - "[[School Effectiveness]]"
-  - "[[Direct Instruction]]"
-  - "[[Statistical Significance]]"
   - "[[Publication Bias]]"
   - "[[Language Experience Approach]]"
   - "[[Technical Rationality]]"
@@ -53,8 +51,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
-  - "[[Intervention Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons:
   - "[[John Hattie]]"
@@ -446,8 +442,8 @@ Wecker 等人识别了一个常常被忽略的深层问题：Hattie 的排名暗
 | 因素类型 | 例 | 比较基线 | 排名的含义 |
 |---------|---|---------|----------|
 | 制度框架条件 | 学校规模 | 无统一对照组——跨研究，不同规模学校的比较基线各异 | 不是教师可选择或改变的 |
-| 个人特征 | 自我概念 | [[Observational and Correlational Research|相关研究]]为主，不是[[Intervention Research|干预研究]] | 不是"干预"而是"关联"——因果方向可能反向 |
-| 综合教学项目 | "[[Direct Instruction|直接教学]]" | 与"传统"课程比较——有共同参考点 | 排名有意义——是在可比较基线下的项目比较 |
+| 个人特征 | 自我概念 | [[Observational and Correlational Research\|相关研究]]为主，不是[[Intervention Research\|干预研究]] | 不是"干预"而是"关联"——因果方向可能反向 |
+| 综合教学项目 | "[[Direct Instruction\|直接教学]]" | 与"传统"课程比较——有共同参考点 | 排名有意义——是在可比较基线下的项目比较 |
 | 设计参数变体 | 集中 vs. 分散练习 | 同一干预的两种变体比较 | 不是"选择集中练习还是直接教学"的问题——是完全不同的决策类型 |
 
 > "哈蒂的排名有点像德甲联赛，拜仁慕尼黑和汉堡 SV 在好日子和坏日子里都有一席之地。值得怀疑的是，教师是否必须在直接'教学'和分布式实践领域的计划之间做出明智的决定，而不是两者的最佳组合。"（Wecker et al., 2016, p.34）
@@ -516,7 +512,7 @@ Golovchin（2019）以变差系数（coefficient of variation, Vσ）对 Hattie 
 |---------|---------|-----------|
 | 数据质量 | 元分析包含设计差、计划差的研究（"垃圾进垃圾出"）；基础数据已过时（1980s-1990s） | Lupton, Myburgh, Terhart |
 | 统计方法 | 效应量平均化不当；异构研究"苹果与橘子"比较；d=0.40 阈值任意；低于 0.40 的效应量不应忽略 | Brown, Kamenetz, Snook et al., Jones, Slavin |
-| 证据排除 | 定性研究被系统忽略；校外因素（贫困、种族、不平等）未被考虑；因果关系被[[Statistical Significance|统计显著性]]替代 | Terhart, Snook et al. |
+| 证据排除 | 定性研究被系统忽略；校外因素（贫困、种族、不平等）未被考虑；因果关系被[[Statistical Significance\|统计显著性]]替代 | Terhart, Snook et al. |
 | 推广局限 | 结论来自英语国家不可全球推广；效应量不适用于普通教师在普通课堂 | Snook et al. |
 | 效度缺失 | 未评估基础研究的效度；未提供质量标准信息；无预测功能 | Snook et al., Terhart |
 | 文化政治 | VL 与新自由主义、性别歧视、能力主义议程结盟（详见文化政治批评） | McKnight & Whitburn |
@@ -702,7 +698,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 | 问题 | 描述 | 例 |
 |------|------|----|
-| 复杂性还原 | 聚焦单一因果因素对应单一效应 | 作业、[[Class Size|班级规模]]、反馈 |
+| 复杂性还原 | 聚焦单一因果因素对应单一效应 | 作业、[[Class Size\|班级规模]]、反馈 |
 | 消除调节因素 | 忽略如学生 SES 等重要调节变量 | 学生 SES 是学习的重要调节因素 |
 | 去情境化标准 | d=0.40 截断点武断设定 | 低剂量阿司匹林预防心脏病 |
 | 任意划分 | 效应量的划分隐藏重要区分 | 作业的多种形式被聚合 |

@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Simple View of Reading]]"
   - "[[Whole Language]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Language Experience Approach]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
@@ -15,6 +14,7 @@ extracted_to:
   - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
   - "[[Ken Goodman]]"
+  - "[[Critiques of Visible Learning]]"
 processed_date: 2026-05-03
 ---
 

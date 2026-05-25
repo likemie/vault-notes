@@ -6,7 +6,6 @@ extracted_to:
   - "[[Classical Geopolitics]]"
   - "[[Economic Patriotism]]"
   - "[[Geopolitical Subject]]"
-  - "[[Geopolitics of Knowledge]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Knowledge-Based Economy]]"
   - "[[National Competitive Advantage]]"
@@ -17,6 +16,7 @@ extracted_to:
   - "[[Michael Porter]]"
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
+  - "[[Geopolitics of Knowledge]]"
 processed_date: 2026-05-07
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 ---

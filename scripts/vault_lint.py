@@ -129,7 +129,7 @@ TYPE_TO_RELATED_FIELD = {
     "argument": "related_arguments",
 }
 
-FORBIDDEN_SUMMARY_CHARS = [":", '"', "'"]
+FORBIDDEN_SUMMARY_CHARS = [":", '"', "'", "_"]
 
 TAG_RE = re.compile(r"^[a-z0-9]+(?:[-/][a-z0-9]+)*$")
 
@@ -648,7 +648,7 @@ def check_summary(path: Path, fm: str, summary: Any, issues: List[Issue]) -> Non
 
     for ch in FORBIDDEN_SUMMARY_CHARS:
         if ch in summary:
-            label = {"\"": "double quote", "'": "single quote", ":": "English colon"}[ch]
+            label = {"\"": "double quote", "'": "single quote", ":": "English colon", "_": "underscore"}[ch]
             issues.append(Issue("ERROR", rel(path), f"summary contains forbidden {label}: {summary!r}", line=line, code="SUMMARY_FORBIDDEN_CHAR"))
 
     banned_phrases = ["本文研究", "作者认为", "本研究发现", "本论文", "本章认为", "本文认为"]
