@@ -49,7 +49,7 @@ Zelinka（2022, pp.255-257）汇编了七个具有代表性的国际和国家框
 | 框架（发布年） | 发布主体 | 核心集群 |
 |---|---|---|
 | enGauge (2003) | 美国 North Central Regional Educational Laboratory | 数字时代素养、创造性思维、有效沟通、高生产力 |
-| P21 (2009) | 美国 Partnership for 21st Century Skills | 核[[Neo-Confucianism|心学]]科与21世纪主题、学习与创新技能、信息媒体技术技能、生活与职业技能 |
+| P21 (2009) | 美国 Partnership for 21st Century Skills | 核心学科与21世纪主题、学习与创新技能、信息媒体技术技能、生活与职业技能 |
 | National Research Council (2012) | 美国国家研究委员会 | 认知能力、内省能力、人际能力 |
 | ATCS (2012) | 跨国评估与教学项目组 | 思维方式、工作工具、工作方式、生活方式 |
 | World Economic Forum (2016) | 世界经济论坛 | 基础素养、能力、性格品质 |

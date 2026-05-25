@@ -100,7 +100,7 @@ updated: '2026-05-19'
 > |------|---------|---------|
 > | Biesta (2010) | 哲学前提（认识论/存在论/实践论） | Dewey 实用主义、Latour 科学社会学 |
 > | Cowen (2019) | 制度逻辑（官僚委托需求） | Tullock 公共选择理论 |
-> | **Wrigley** (2018) | **方法技术（[[Randomised Controlled Trials|RCT]]→[[Meta-analysis|元分析]]→[[Meta-meta-analysis|元元分析]]的三级失真）** | **[[Critical Realism|批判实在论]]（Bhaskar/Sayer/Pawson）** |
+> | **Wrigley** (2018) | **方法技术（RCT→元分析→元元分析的三级失真）** | **批判实在论（Bhaskar/Sayer/Pawson）** |
 > | **Wrigley & McCusker** (2019) | **科学哲学 + 方法技术（简单科学观 + 案例追踪）** | **批判实在论 + EEF Toolkit 深度案例追踪** |
 >
 > 三人从不同角度围攻 EBE：Biesta 说它**在哲学上是错的**，Cowen 说它**在制度上被选择并非因为对**，Wrigley (2018) 说它**在方法论上逐级失真**，Wrigley & McCusker (2019) 补充说它**对科学本身的理解就是片面的**。

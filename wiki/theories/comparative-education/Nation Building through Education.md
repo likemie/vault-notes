@@ -74,7 +74,7 @@ updated: '2026-05-21'
 > | **西藏** | 强制性国民教育消除地方语言和文化认同 | Leibold & Dorjee (2024) |
 > | **新疆** | "普通话化"教育政策压制维吾尔语言教育 | Tobin (2024) |
 > | **内蒙古** | "中华民族"叙事替代蒙古族历史叙事 | Bulag (2024) |
-> | **香港** | 以 [[Liberal Studies|LS]]→[[Citizenship and Social Development|CSD]] 替代实现从温和"中国背景"到强制爱国教育的转变 | Yan & Morris (2025); Vickers & Morris (2022) |
+> | **香港** | 以 LS→CSD 替代实现从温和"中国背景"到强制爱国教育的转变 | Yan & Morris (2025); Vickers & Morris (2022) |
 >
 > > Yan & Morris (2025, p. 490) 指出香港案例的区别性特征："香港的'华化'（[[Sinicisation|sinicisation]]）被更谨慎地执行，先以 LS 的温和'中国背景'为入口，后以 CSD 的强制爱国教育收尾。"
 

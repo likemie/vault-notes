@@ -254,7 +254,6 @@
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/The Great Learning.md",
     "aliases": [
-      "大学",
       "Daxue",
       "八条目"
     ]
@@ -2861,7 +2860,6 @@
       "新儒家",
       "宋明理学",
       "Neo-Confucian",
-      "理学",
       "心学"
     ]
   },
@@ -6323,7 +6321,7 @@
   {
     "title": "Argument_Håkansson_2015_Paideia",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/Argument_Håkansson_2015_Paideia.md"
+    "path": "wiki/arguments/journal-articles/Argument_Håkansson_2015_Paideia.md"
   },
   {
     "title": "Argument_Laursen_2015_Paideia",

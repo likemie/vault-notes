@@ -53,7 +53,7 @@ updated: 2026-05-22
 
 | 关系 | 英文 | 德目 | 英文 |
 |------|------|------|------|
-| 父子（父母-子女） | parent-child | [[Filial Piety|孝]]（子女对父母）／慈爱（父母对子女） | filial piety / unconditional love (ai/ciài, 愛/慈愛) |
+| 父子（父母-子女） | parent-child | 孝（子女对父母）／慈爱（父母对子女） | filial piety / unconditional love (ai/ciài, 愛/慈愛) |
 | 兄弟（兄弟姐妹） | sibling | 悌 | sibling love and responsibility (tì) |
 | 夫妇（夫-妻） | husband-wife | 敬 | respect (jìng) |
 | 君臣／雇佣（雇主-雇员） | ruler-subject / employer-employee | 忠 | utmost dedication / loyalty (zhōng) |
