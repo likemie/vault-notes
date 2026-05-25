@@ -300,7 +300,7 @@ def is_schema_or_workflow_doc(path: Path) -> bool:
     r = rel(path)
     return (
         r in {"vault-schema.md", "CLAUDE.md"}
-        or r.startswith("books/schema-")
+        or r.startswith("schema/schema-")
         or path.name == "vault-schema-manifest-patch.md"
     )
 
@@ -751,7 +751,7 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
 
 
 def check_source_record(path: Path, text: str, issues: List[Issue]) -> None:
-    if not is_source_record_path(path) and not ("/books/" in rel(path) and path.name != "schema-monograph-pdf.md"):
+    if not is_source_record_path(path) and not ("/books/" in rel(path)):
         return
     fm, body, _ = split_frontmatter(text)
     if fm is None:

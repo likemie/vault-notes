@@ -67,11 +67,12 @@ After source record creation, run the standard sync and lint command.
 
 If the task involves a book, read only the matching schema named in `vault-schema.md`:
 
-- Edited volume / `(Ed.)` / 编著 / 论文集 → `books/schema-edited-volume.md`
-- Monograph PDF / 「专著」 with PDF or chapter text → `books/schema-monograph-pdf.md`
-- EPUB file → `books/schema-monograph-epub.md`
+- Edited volume / `(Ed.)` / 编著 / 论文集 → `schema/schema-edited-volume.md`
+- Monograph PDF / 「专著」 with PDF or chapter text → `schema/schema-monograph-pdf.md`
+- EPUB file → `schema/schema-monograph-epub.md`
+- Figure / 图片 / 图表 extraction or cleanup → `schema/schema-figures.md`
 
-Do not read unrelated book schemas.
+Do not read unrelated schemas.
 
 For books, process only the current chapter or user-specified chapter content, then stop.
 
@@ -79,7 +80,7 @@ For books, process only the current chapter or user-specified chapter content, t
 
 For monograph PDF tasks, do not automatically split the PDF and do not read the entire PDF. The user provides chapter text manually. Process only the chapter text currently provided.
 
-Only after the user provides the complete PDF and asks for source / reading-page creation should you call `source_record.py monograph-pdf` according to `books/schema-monograph-pdf.md`.
+Only after the user provides the complete PDF and asks for source / reading-page creation should you call `source_record.py monograph-pdf` according to `schema/schema-monograph-pdf.md`.
 
 ## Token-Saving Rules
 
@@ -87,7 +88,7 @@ Only after the user provides the complete PDF and asks for source / reading-page
 - Do not scan unrelated folders.
 - Do not read all templates at once; read only the needed template.
 - Use `wiki/index.json` first; search folders only when the index is missing, stale, or ambiguous.
-- Do not read unrelated book schemas.
+- Do not read unrelated schemas.
 - `wiki/index.json` and `wiki/index.md` are generated files. Do not manually maintain them.
 
 ## Hard Rules

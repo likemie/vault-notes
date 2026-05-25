@@ -22,9 +22,11 @@
 
 ```text
 raw/                         待处理原始文献，不编辑
-sources/                     已处理论文／报告 source 记录、PDF 与配套图片
-books/                       书籍工作区与书籍 schema
+sources/                     已处理论文／报告 source 记录、PDF 与可选配套文件夹
+books/                       书籍工作区
+schema/                      专项工作流 schema，按任务触发读取
   schema-edited-volume.md
+  schema-figures.md
   schema-monograph-pdf.md
   schema-monograph-epub.md
 templater/                   Obsidian Templater 插件模板，不供 AI 工作流读取
@@ -45,7 +47,7 @@ wiki/
   methods/mixed/
   persons/<nationality-or-region>/
   facts/<region>/
-  arguments/journal-articles/
+  arguments/journal-articles/<journal-name>/
   arguments/books/<book-folder>/
   arguments/reports-policy-documents/
 ```
@@ -57,9 +59,15 @@ wiki/
 | Method | `wiki/methods/qualitative/`、`quantitative/`、`mixed/` | 只放研究方法、研究设计、资料收集／分析方法、项目评价方法；课堂教学法放 Concept |
 | Person | `wiki/persons/<nationality-or-region>/` | 按国籍／地区；不明或跨国身份放 `global` |
 | Fact | `wiki/facts/<region>/` | 按地区；全球性放 `global`；多国比较放 `multi` |
-| Argument | `wiki/arguments/journal-articles/`、`wiki/arguments/books/<book-folder>/`、`wiki/arguments/reports-policy-documents/` | 按文献类型；书籍 Argument 再按具体书籍文件夹分组 |
+| Argument | `wiki/arguments/journal-articles/<journal-name>/`、`wiki/arguments/books/<book-folder>/`、`wiki/arguments/reports-policy-documents/` | 按文献类型；期刊论文 Argument 按 `journal` 字段对应的期刊名称分组；书籍 Argument 再按具体书籍文件夹分组 |
 
 文件名、文件夹名、`title`、`tags` 使用英文；正文使用简体中文。
+
+期刊论文 Argument 的二级归档规则：
+
+- 目标路径为 `wiki/arguments/journal-articles/<journal-name>/Argument_<Author>_<Year>_<JournalAbbrev>.md`。
+- `<journal-name>` 使用条目 frontmatter 的 `journal` 全称；若期刊名称含 `/` 或 `:` 等不适合作为路径的字符，用空格替换并压缩连续空格。
+- 文件名保留现有 `Argument_<Author>_<Year>_<JournalAbbrev>.md` 格式，不因移动到期刊目录而改名。
 
 ---
 
@@ -164,6 +172,12 @@ python3 scripts/vault_lint.py --full
 python3 scripts/vault_lint.py --full --strict
 ```
 
+移动 wiki 条目时：
+
+- 只移动文件本身，不手动编辑 `wiki/index.json`、`wiki/index.md`、各类型索引页或 generated fields。
+- 批量移动 journal article Argument 时，按 `journal` 字段创建或复用 `wiki/arguments/journal-articles/<journal-name>/`，移动后立即运行 `python3 scripts/wiki_index.py`。
+- 若移动涉及正文中的 vault-root 图片路径、source record 的反向关系，或移动后索引 / 链接检查异常，再运行 `wiki_linker.py sync --full`、`wiki_relations.py sync --full` 与 `vault_lint.py --full`。
+
 ### Generated Fields
 
 不要手动编辑或维护：
@@ -196,49 +210,16 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 | 论文集／编著整体 overview | `edited-volume-overview` | `books/<book-folder>/` |
 | 论文集章节 source | `book-chapter` | `books/<book-folder>/` |
 
-### Figures and Attachments
+### Specialized Schemas
 
-Figure 指从文献中截取、导出或重画的图表图片，包括 `.png`、`.jpg`、`.jpeg`、`.webp`、`.svg`。
+专项 schema 只在触发对应任务时读取；不要为普通条目更新读取无关 schema。
 
-- 有配套 figure 的普通论文／报告 source 必须使用独立文件夹：
-
-```text
-sources/<source-id>/
-  <source-id>.md
-  <source-id>.pdf
-  figures/
-    <source-id>_Fig1_Descriptive_Name.png
-```
-
-- 没有配套 figure 的普通论文／报告可以继续使用扁平结构：
-
-```text
-sources/<source-id>.md
-sources/<source-id>.pdf
-```
-
-- 书籍 source 的 figure 统一放在书籍工作区内：
-
-```text
-books/<book-folder>/
-  <book-folder>.md
-  BookName.pdf 或 BookName.epub
-  figures/
-    Figure_2-1_Descriptive_Name.png
-```
-
-- 不把 figure 散放在 `sources/` 或 `books/<book-folder>/` 根层；根层只放 source 记录、PDF / EPUB、章节文本等主要文件。
-- wiki 正文中嵌入 figure 时，使用从 vault root 开始的完整路径，避免移动条目后断链：
-
-```markdown
-![[sources/<source-id>/figures/<figure-file>.png]]
-![[books/<book-folder>/figures/<figure-file>.png]]
-```
-
-- source 记录嵌入同文件夹 PDF / EPUB 时，可以使用本地文件名，如 `![[<source-id>.pdf]]`。
-- 移动 source 记录、PDF 或 figure 后，必须更新所有 `![[...]]` 嵌入路径，并用 `rg` 确认没有旧路径残留。
-- 删除 figure 前必须先用 `rg` 全库确认没有引用；只删除确认未引用的多余图片。
-- 移动 source 记录后，运行定向 `wiki_relations.py sync <wiki-argument-path>` 或必要时 `--full`，确保新位置的 source record `extracted_to` 仍同步。
+| 触发条件 | 读取文件 |
+|---|---|
+| `(Ed.)` / 编著 / 论文集 | `schema/schema-edited-volume.md` |
+| 专著 PDF / 用户标注「专著」 | `schema/schema-monograph-pdf.md` |
+| `.epub` | `schema/schema-monograph-epub.md` |
+| 提取、整理、移动、删除、重画或引用文献 figure / 图片 / 图表 | `schema/schema-figures.md` |
 
 ---
 
@@ -247,8 +228,8 @@ books/<book-folder>/
 ### Source Files
 
 - `raw/` 只放原始 PDF，不加 frontmatter，不编辑。
-- 普通论文或报告处理完成后，优先使用 `source_record.py article` 或 `source_record.py report` 创建 source 记录；若该 source 有配套 figure，创建后按 Figures and Attachments 规则整理到 `sources/<source-id>/`。
-- 书籍来源记录按对应 book schema 执行。
+- 普通论文或报告处理完成后，优先使用 `source_record.py article` 或 `source_record.py report` 创建 source 记录；若该 source 有配套 figure，按 `schema/schema-figures.md` 整理。
+- 书籍来源记录按对应专项 schema 执行。
 - `sources/` 与 `books/` 下的 source record 不进入 `related_*` 自动维护逻辑，但 `extracted_to` 由 `wiki_relations.py` 反向同步。
 
 ### 普通论文／报告
@@ -267,15 +248,17 @@ books/<book-folder>/
 
 ### 书籍任务
 
-只读取匹配的一种 schema：
+只读取匹配的一种专项 schema：
 
 | 触发条件 | 读取文件 |
 |---|---|
-| `(Ed.)` / 编著 / 论文集 | `books/schema-edited-volume.md` |
-| 专著 PDF / 用户标注「专著」 | `books/schema-monograph-pdf.md` |
-| `.epub` | `books/schema-monograph-epub.md` |
+| `(Ed.)` / 编著 / 论文集 | `schema/schema-edited-volume.md` |
+| 专著 PDF / 用户标注「专著」 | `schema/schema-monograph-pdf.md` |
+| `.epub` | `schema/schema-monograph-epub.md` |
 
 书籍任务每次只处理一章或用户当前指定的章节内容。处理完当前章节后停止。
+
+若书籍任务同时涉及 figure / 图片 / 图表，再额外读取 `schema/schema-figures.md`。
 
 ---
 
