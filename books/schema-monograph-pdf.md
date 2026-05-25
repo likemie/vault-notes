@@ -13,7 +13,7 @@
 - 在整本书处理完成前，不创建 source 记录，不创建阅读页面。
 - 章节处理结果累积到全书 Argument 的「各章概览」。
 - 用户提供整本 PDF 并要求建立 source 记录后，使用 `scripts/source_record.py monograph-pdf` 建立书籍 source 记录和阅读页面。
-- 每次章节处理完成后运行标准同步与检查流程。
+- 每次章节处理完成后执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
 
@@ -61,15 +61,7 @@ wiki/arguments/books/<book-folder>/
    - 若已存在，将当前章节内容整合进「各章概览」。
 9. 在正文中自然使用 wikilink，在 `## 来源` 章节列出来源。
 10. 不手动维护 YAML `related_*` 和 `sources`。
-11. 运行：
-
-```bash
-python3 scripts/wiki_index.py
-python3 scripts/wiki_linker.py sync
-python3 scripts/wiki_relations.py sync
-python3 scripts/wiki_index.py
-python3 scripts/vault_lint.py
-```
+11. 执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 12. 当前章节处理完成后停止。
 
@@ -105,7 +97,7 @@ python3 scripts/source_record.py monograph-pdf \
 books/作者姓_年份_出版社/作者姓_年份_出版社.md
 ```
 
-4. 运行标准同步与检查流程。
+4. 执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
 
@@ -126,9 +118,38 @@ books/作者姓_年份_出版社/作者姓_年份_出版社.md
    - 局限与批评
 4. 用 `str_replace` 在「各章概览」之前写入正式论证结构。
 5. 保留「各章概览」作为原始章节记录。
-6. 运行标准同步与检查流程。
+6. 执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
+
+## 脚本运行规则
+
+处理完成后，AI 只自动运行索引脚本：
+
+```bash
+cd /Users/shaoyangwu/Documents/MyNotes
+python3 scripts/wiki_index.py
+```
+
+随后询问用户是否运行标准脚本流程。只有用户确认后，才运行：
+
+```bash
+cd /Users/shaoyangwu/Documents/MyNotes
+python3 scripts/wiki_linker.py sync
+python3 scripts/wiki_relations.py sync
+python3 scripts/wiki_index.py
+python3 scripts/vault_lint.py
+```
+
+必要时全量运行：
+
+```bash
+python3 scripts/wiki_linker.py sync --full
+python3 scripts/wiki_relations.py sync --full
+python3 scripts/vault_lint.py --full
+```
+
+`wiki_relations.py` 负责同步 wiki 条目的 `related_*` 与 YAML `sources`，并根据 wiki 条目的 `## 来源` 反向维护 source record 的 `extracted_to`。`sources/` 和 `books/` 下的 source record 不参与 `related_*` 自动维护。
 
 ## 注意事项
 
@@ -136,4 +157,4 @@ books/作者姓_年份_出版社/作者姓_年份_出版社.md
 - 章节文本过长时，可按小节分批处理，但仍视为同一章。
 - 所有来源性陈述必须标注页码。
 - 如果用户提供的章节文本没有页码，只能记录无页码信息；不得编造页码。
-- source 记录和阅读页面只在用户提供整本 PDF 后建立。
+- source 记录和阅读页面只在用户提供整本 PDF 后建立；后续 `extracted_to` 由 `wiki_relations.py` 反向同步。

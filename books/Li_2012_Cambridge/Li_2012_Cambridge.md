@@ -25,6 +25,7 @@ extracted_to:
   - "[[Take the World Upon Oneself]]"
   - "[[Tongxue]]"
   - "[[University Motto]]"
+  - "[[Xiaokang]]"
   - "[[Cognitive Source]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Confucian Heritage Cultures]]"
@@ -54,6 +55,7 @@ extracted_to:
   - "[[Self-Efficacy]]"
   - "[[Emic and Etic]]"
   - "[[Codeswitcher]]"
+  - "[[Cultural Defense Strategies]]"
   - "[[Doxa]]"
   - "[[Enculturation]]"
   - "[[Intellectual-Social Divide]]"
@@ -89,7 +91,6 @@ extracted_to:
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
   - "[[Cultural Models]]"
-  - "[[Cultural Defense Strategies]]"
 processed_date: 2026-05-24
 ---
 

@@ -25,7 +25,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Partnership Schools Kura Hourua]]"
-  - "[[Teach First New Zealand Ako Mātātupu]]"
+  - "[[Teach First New Zealand]]"
   - "[[Australia in the Asian Century White Paper]]"
 related_arguments: []
 sources:
@@ -78,7 +78,7 @@ O'Neill 等（2016, pp.8–12）记录的九项新西兰近十余年的现代化
 - asTTle/e-asTTle 向私营投资伙伴部分出售商业化权利
 - PPP 学校合同（Learning Infrastructure Partners / Future Schools Partners）
 - [[Partnership Schools Kura Hourua]]（[[Partnership Schools Kura Hourua|特许学校]]）— 详见 [[Partnership Schools Kura Hourua]]
-- Teach First New Zealand — 私营慈善信托提供就业型教师教育 — 详见 Teach First New Zealand ([[Teach First New Zealand Ako Mātātupu|TFNZ]] 2011)
+- Teach First New Zealand — 私营慈善信托提供就业型教师教育 — 详见 Teach First New Zealand ([[Teach First New Zealand|TFNZ]] 2011)
 - 学校支持服务竞争性外包（Te Toi Tupu 联合体）
 - KickStart Breakfast 政府与企业共同出资
 

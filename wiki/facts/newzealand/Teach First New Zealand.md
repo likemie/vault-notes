@@ -1,18 +1,19 @@
 ---
-title: Teach First New Zealand Ako Mātātupu
+title: Teach First New Zealand
 aliases:
-  - Teach First新西兰
   - TFNZ
+  - Ako Mātātupu
+  - Teach First New Zealand Ako Mātātupu
 summary: "2011 年启动的高成就毕业生就业型初级教师教育慈善信托，7% 接受率，与 Teach for All 全球网络和奥克兰大学合作运营"
 type: fact
 subtype: event
 region: newzealand
 tags:
-- teach-first
-- teacher-training
-- subject/curriculum
-- region/new-zealand
-- education-policy
+  - teach-first
+  - teacher-training
+  - subject/curriculum
+  - region/new-zealand
+  - education-policy
 related_concepts: []
 related_theories: []
 related_methods: []
@@ -26,13 +27,13 @@ sources:
   - "[[ONeill_2016_Report]]"
 confidence: medium
 status: draft
-created: '2026-05-04'
-updated: '2026-05-18'
+created: 2026-05-04
+updated: 2026-05-18
 ---
 ## 概述
 
 > [!info] 概述
-> Teach First New Zealand Ako Mātātupu (TFNZ) 是新西兰注册慈善信托，自 2011 年起为高成就毕业生在低 decile 学校提供为期两年的基于就业的领导力发展和初级教师教育项目。TFNZ 定位为"针对顶尖毕业生和职业转变专业人员的领导力发展项目"（O'Neill et al., 2016, p.53）。
+> Teach First New Zealand（Ako Mātātupu，TFNZ）是新西兰注册慈善信托，自 2011 年起为高成就毕业生在低 decile 学校提供为期两年的基于就业的领导力发展和初级教师教育项目。TFNZ 定位为"针对顶尖毕业生和职业转变专业人员的领导力发展项目"（O'Neill et al., 2016, p.53）。
 
 ## 项目特征
 

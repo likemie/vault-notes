@@ -57,7 +57,7 @@ python3 scripts/source_record.py edited-volume-overview \
 
 7. 在正文中自然使用 wikilink，在 `## 来源` 章节列出来源。
 8. 不手动维护 YAML `related_*` 和 `sources`。
-9. 运行标准同步与检查流程。
+9. 执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
 
@@ -97,15 +97,44 @@ python3 scripts/source_record.py book-chapter \
 9. 用 `str_replace` 更新 overview 的「已处理章节」列表，加入该章 Argument 链接。
 10. 在正文中自然使用 wikilink，在 `## 来源` 章节列出 source wikilink。
 11. 不手动维护 YAML `related_*` 和 `sources`。
-12. 运行标准同步与检查流程。
+12. 执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
+
+## 脚本运行规则
+
+处理完成后，AI 只自动运行索引脚本：
+
+```bash
+cd /Users/shaoyangwu/Documents/MyNotes
+python3 scripts/wiki_index.py
+```
+
+随后询问用户是否运行标准脚本流程。只有用户确认后，才运行：
+
+```bash
+cd /Users/shaoyangwu/Documents/MyNotes
+python3 scripts/wiki_linker.py sync
+python3 scripts/wiki_relations.py sync
+python3 scripts/wiki_index.py
+python3 scripts/vault_lint.py
+```
+
+必要时全量运行：
+
+```bash
+python3 scripts/wiki_linker.py sync --full
+python3 scripts/wiki_relations.py sync --full
+python3 scripts/vault_lint.py --full
+```
+
+`wiki_relations.py` 负责同步 wiki 条目的 `related_*` 与 YAML `sources`，并根据 wiki 条目的 `## 来源` 反向维护 source record 的 `extracted_to`。`sources/` 和 `books/` 下的 source record 不参与 `related_*` 自动维护。
 
 ## 注意事项
 
 - 不追踪未处理章节，按需处理即可。
 - 每章 source 记录放在 `books/Editor_Year_Publisher/`，不放 `sources/`。
 - 论文集章节 Argument 放在 `wiki/arguments/books/<book-folder>/`。
-- `source_record.py` 负责 source 记录 frontmatter、PDF 嵌入和 `extracted_to` 格式。
-- `wiki_relations.py` 负责同步 `related_*` 与 YAML `sources`。
+- `source_record.py` 负责一次性生成 source 记录 frontmatter、PDF 嵌入和 `extracted_to` 初始格式。
+- `wiki_relations.py` 负责同步 wiki 条目的 `related_*` 与 YAML `sources`，并反向维护 source record 的 `extracted_to`。
 - `vault_lint.py` 用于检查生成结果。

@@ -13,7 +13,7 @@ extracted_to:
   - "[[Foundation North Māori and Pasifika Education Initiative]]"
   - "[[Manaiakalani Education Trust]]"
   - "[[Partnership Schools Kura Hourua]]"
-  - "[[Teach First New Zealand Ako Mātātupu]]"
+  - "[[Teach First New Zealand]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"

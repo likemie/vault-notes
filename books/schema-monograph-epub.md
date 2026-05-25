@@ -94,7 +94,7 @@ for item in book.get_items_of_type(ebooklib.ITEM_DOCUMENT):
    - 若 Argument 已存在 → 用 `str_replace` 追加本章内容到「各章概览」末尾或更新对应章节。
 7. 在正文中自然使用 wikilink，在 `## 来源` 章节列出来源。
 8. 不手动维护 YAML `related_*` 和 `sources`。
-9. 运行标准同步与检查流程。
+9. 执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 10. 停下，告知用户当前章节处理完成。
 
 ---
@@ -127,7 +127,7 @@ books/作者姓_年份_出版社/作者姓_年份_出版社.md
 <div id="epub-viewer" style="width:100%;height:560px;border:1px solid rgb(204,204,204);" data-epub="/books/作者姓_年份_出版社/BookName.epub"></div>
 ```
 
-完成后运行标准同步与检查流程。
+完成后执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
 
@@ -146,9 +146,38 @@ books/作者姓_年份_出版社/作者姓_年份_出版社.md
    - 局限性
 4. 用 `str_replace` 在「各章概览」之前写入正式章节。
 5. 「各章概览」保留在最后，作为原始章节记录。
-6. 运行标准同步与检查流程。
+6. 执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
+
+## 脚本运行规则
+
+处理完成后，AI 只自动运行索引脚本：
+
+```bash
+cd /Users/shaoyangwu/Documents/MyNotes
+python3 scripts/wiki_index.py
+```
+
+随后询问用户是否运行标准脚本流程。只有用户确认后，才运行：
+
+```bash
+cd /Users/shaoyangwu/Documents/MyNotes
+python3 scripts/wiki_linker.py sync
+python3 scripts/wiki_relations.py sync
+python3 scripts/wiki_index.py
+python3 scripts/vault_lint.py
+```
+
+必要时全量运行：
+
+```bash
+python3 scripts/wiki_linker.py sync --full
+python3 scripts/wiki_relations.py sync --full
+python3 scripts/vault_lint.py --full
+```
+
+`wiki_relations.py` 负责同步 wiki 条目的 `related_*` 与 YAML `sources`，并根据 wiki 条目的 `## 来源` 反向维护 source record 的 `extracted_to`。`sources/` 和 `books/` 下的 source record 不参与 `related_*` 自动维护。
 
 ## 注意事项
 
@@ -156,4 +185,4 @@ books/作者姓_年份_出版社/作者姓_年份_出版社.md
 - 必须等用户明确指定章节后，才读取该章正文。
 - 每次只处理一章。
 - 章节文本过长时，按小节拆分处理。
-- source 记录由 `source_record.py monograph-epub` 生成。
+- source 记录由 `source_record.py monograph-epub` 生成；后续 `extracted_to` 由 `wiki_relations.py` 反向同步。
