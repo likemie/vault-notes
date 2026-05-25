@@ -126,7 +126,7 @@ Total entries: **143**
 ### Event
 
 - [[2012 Moral and National Education Controversy]] — 2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点
-- [[2019 Hong Kong Protests]] — 2019 年因逃犯条例修订草案引发的大规模抗议 被定性为国家安全危机后触发中国历史课程改革加速和通识教育科废除 重塑了香港教育的治理模式
+- [[2019 Hong Kong Protests]] — 2019 年因逃犯条例修订草案引发的大规模抗议，被定性为国家安全危机后触发中国历史课程改革加速和通识教育科废除，重塑了香港教育的治理模式
 - [[English Schools Foundation Hong Kong]] — 香港最大英语学校体系，从英国国民学校（限 10% 本地华人）转型为 40%–50% 本地华人学生，改变了学生认同与语言课程
 - [[National Security Law]] — 2020 年颁布的香港国安法，为强制国民教育提供法律框架，关闭公民社会协商空间，实现教育决策从协商式到命令式的转变
 - [[Symposium on International Teaching]] — 2007 年 3 月 21 日香港大学文学院主办的学术会议，促进中小学与大学教育者关于中国学习者的对话，直接催生了 Ryan & Slethaug (2010) 论文集
