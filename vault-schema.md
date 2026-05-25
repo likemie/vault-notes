@@ -95,7 +95,26 @@ wiki/
 
 ### Standard Sync and Lint
 
-每次处理完条目、书籍章节、source 记录、模板或 schema 后，运行：
+每次处理完条目、书籍章节、source 记录、模板或 schema 后，默认运行增量同步，只处理 git 识别到的新增、修改、删除、重命名文件，以及受新增或删除 wiki 术语影响的必要文件：
+
+```bash
+cd /Users/shaoyangwu/Documents/MyNotes
+python3 scripts/wiki_index.py
+python3 scripts/wiki_linker.py sync --git
+python3 scripts/wiki_relations.py sync --git
+python3 scripts/wiki_index.py
+python3 scripts/vault_lint.py
+```
+
+只有在以下情况才运行全量同步：
+
+- 批量修改 `title` 或 `aliases`。
+- 批量移动、删除或重命名 wiki 条目。
+- 怀疑正文 wikilink、`related_*` 或 YAML `sources` 已经不同步。
+- 发布、备份或重要提交前需要彻底检查。
+- 增量同步结果明显异常。
+
+全量同步命令：
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
@@ -103,7 +122,15 @@ python3 scripts/wiki_index.py
 python3 scripts/wiki_linker.py sync
 python3 scripts/wiki_relations.py sync
 python3 scripts/wiki_index.py
-python3 scripts/vault_lint.py
+python3 scripts/vault_lint.py --strict
+```
+
+如果只需要处理某个文件或文件夹，可以指定路径，避免扫描整个 vault：
+
+```bash
+python3 scripts/wiki_linker.py sync "wiki/concepts/comparative-education"
+python3 scripts/wiki_relations.py sync "wiki/concepts/comparative-education"
+python3 scripts/vault_lint.py --path "wiki/concepts/comparative-education"
 ```
 
 常用检查：
