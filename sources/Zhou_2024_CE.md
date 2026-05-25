@@ -10,6 +10,7 @@ extracted_to:
   - "[[New Education Movement]]"
   - "[[Jiang Menglin]]"
   - "[[Tao Xingzhi]]"
+  - "[[Robert Cowen]]"
 processed_date: 2026-05-26
 ---
 
