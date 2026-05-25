@@ -46,7 +46,7 @@ updated: '2026-05-18'
 >
 > > "SCDs are experimental methods consisting of various designs involving repeated measures of a specific behavior or skill under different conditions to evaluate the effectiveness of a treatment for an individual or a small group of individuals that serve as their own control." (Hitchcock et al., 2015, p.460, citing Kazdin, 2011)
 >
-> SCD 起源于心[[Neo-Confucianism|理学]]领域，已被广泛应用于教育、医学、言语和语言治疗等多个学科（Hitchcock et al., 2015, p.460）。
+> SCD 起源于心理学领域，已被广泛应用于教育、医学、言语和语言治疗等多个学科（Hitchcock et al., 2015, p.460）。
 
 ## 认识论立场
 

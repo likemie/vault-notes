@@ -55,14 +55,14 @@ updated: 2026-05-19
 ## 简介
 
 > [!info]
-> 郑雅君，中国高等教育研究者，研究方向为高等教育社会学、教育公平与[[The Great Learning|大学]]生发展。毕业于复旦大学高等教育研究所，师从熊庆年教授。其主要学术贡献在于对中国精英大学中大学生毕业出路分化的阶层机制进行了系统的[[Qualitative Research|质性研究]]，原创性地提出了"[[Goal-Controlled Mode|目标掌控模式]]"与"[[Intuition-Dependent Mode|直觉依赖模式]]"两种大学生活组织图式的类型学框架（郑雅君，2023）。
+> 郑雅君，中国高等教育研究者，研究方向为高等教育社会学、教育公平与大学生发展。毕业于复旦大学高等教育研究所，师从熊庆年教授。其主要学术贡献在于对中国精英大学中大学生毕业出路分化的阶层机制进行了系统的[[Qualitative Research|质性研究]]，原创性地提出了"[[Goal-Controlled Mode|目标掌控模式]]"与"[[Intuition-Dependent Mode|直觉依赖模式]]"两种大学生活组织图式的类型学框架（郑雅君，2023）。
 
 ---
 
 ## 生平与职涯
 
 > [!note]
-> - 就读于复旦[[The Great Learning|大学]]高等教育研究所，师从熊庆年教授（郑雅君，2023）
+> - 就读于复旦大学高等教育研究所，师从熊庆年教授（郑雅君，2023）
 > - 2014 年夏开始其对中国一流大学学生毕业出路分化问题的研究旅程（郑雅君，2023）
 > - 2015 秋至 2017 年初，在中国两所著名研究型大学（化名"北方大学"和"南方大学"）完成首轮 38 名毕业班学生的[[In-depth Interview|深度访谈]]（郑雅君，2023）
 > - 2017 年暑假和 2018 年暑假，受复旦高等教育研究所牛新春老师之邀，在"南方大学"补充访谈了 24 名主要来自较低阶层背景的毕业班本科生（郑雅君，2023）
@@ -74,14 +74,14 @@ updated: 2026-05-19
 ## 主要著作
 
 > [!abstract]
-> - 郑雅君（2023），《金榜题名之后：[[The Great Learning|大学]]生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 [[Pierre Bourdieu|Bourdieu]] 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier in Higher Education|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
+> - 郑雅君（2023），《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 [[Pierre Bourdieu|Bourdieu]] 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier in Higher Education|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
 
 ---
 
 ## 核心思想
 
 > [!tip]
-> 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、[[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"[[The Great Learning|大学]]过程"分析框架（郑雅君，2023）。
+> 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、[[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"分析框架（郑雅君，2023）。
 
 > [!quote]
 > "如果说整本书有什么是我最迫切想和读者分享的，那就是当我将自己浸没在被访者的声音中，我的发现恰恰挑战了自己先前想当然的前提假设——学生的毕业去向都是他们有意图地主动选择的结果"（郑雅君，2023）
@@ -113,7 +113,7 @@ updated: 2026-05-19
 
 ### 2014–2017 研究起点与首轮田野
 
-- **核心问题**：中国一流[[The Great Learning|大学]]中，社会出身如何影响学生的毕业出路？
+- **核心问题**：中国一流大学中，社会出身如何影响学生的毕业出路？
 - **思想发展**：2014 年夏以 [[Pierre Bourdieu|Bourdieu]] 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始假设——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础（郑雅君，2023）。
 
 ### 2017–2018 补充田野与理论深化
@@ -132,7 +132,7 @@ updated: 2026-05-19
 ## 影响
 
 > [!success]
-> - 在中国高等教育公平研究中，双模式类型学为分析[[The Great Learning|大学]]生活经验的阶层差异提供了可操作的概念工具
+> - 在中国高等教育公平研究中，双模式类型学为分析大学生活经验的阶层差异提供了可操作的概念工具
 > - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释精英大学中[[Cultural Capital|文化资本]]如何通过日常实践转化为出路分化
 > - [[Cultural Barrier in Higher Education]] 概念将 [[Pierre Bourdieu|Bourdieu]] 的文化再生产理论从宏观制度层面延伸到微观的日常生活经验层面，丰富了对教育公平机制的理解
 > - 以[[Constructivist Grounded Theory]]在大规模访谈数据中的系统应用，为高等教育[[Qualitative Research|质性研究]]提供了方法论参照

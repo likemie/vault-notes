@@ -41,12 +41,12 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Steen Nepper Larsen 是丹麦奥胡斯[[The Great Learning|大学]]（Aarhus University）丹麦教育学院（Danish School of Education）的教育哲学学者，以对 [[John Hattie]] 的 [[Visible Learning]] 范式的哲学批判著称。其研究横跨哲学、社会学、教育学、概念史和神经科学批判，代表当代欧洲教育哲学中对[[Evidence-Based Education|证据本位教育]]运动的批判性声音（Larsen, 2019）。
+> Steen Nepper Larsen 是丹麦奥胡斯大学（Aarhus University）丹麦教育学院（Danish School of Education）的教育哲学学者，以对 [[John Hattie]] 的 [[Visible Learning]] 范式的哲学批判著称。其研究横跨哲学、社会学、教育学、概念史和神经科学批判，代表当代欧洲教育哲学中对[[Evidence-Based Education|证据本位教育]]运动的批判性声音（Larsen, 2019）。
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - 任职于奥胡斯[[The Great Learning|大学]]丹麦教育学院（Danish School of Education, Aarhus University），位于哥本哈根
+> - 任职于奥胡斯大学丹麦教育学院（Danish School of Education, Aarhus University），位于哥本哈根
 > - 1965 年开始上学，亲身经历了丹麦教育从"indlæring"（注入式学习）话语到"læring"（学习）话语、再到当代 [[Learnification]] 的历史变迁（Larsen, 2019, p.8）
 > - 2018 年 10 月在哥本哈根与 [[John Hattie]] 进行公开对话，主题为"教育的目的"（The Purpose of Education）（Larsen, 2019, Ref.10）
 > - 2013 年在惠灵顿维多利亚大学发表关于[[Neuroplasticity|神经可塑性]]当代趣味与局限的分析（Larsen, 2019, Ref.24）

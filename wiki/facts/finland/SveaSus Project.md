@@ -37,14 +37,14 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> SveaSus（Sustainable World Heritage Learning through a Phenomenon-based Approach）是赫尔辛基[[The Great Learning|大学]]教育科学学院 2018-2023 年间运行的研究与教学发展项目。项目以可持续性为核心主题，以 [[Phenomenon-Based Learning]] 为教学取向，以世界遗产地作为学习环境，探索如何通过真实[[Champ|场域]]组织跨学科、具身、艺术本位和多语学习（Schaffar & Wolff, 2024, p.1）。
+> SveaSus（Sustainable World Heritage Learning through a Phenomenon-based Approach）是赫尔辛基大学教育科学学院 2018-2023 年间运行的研究与教学发展项目。项目以可持续性为核心主题，以 [[Phenomenon-Based Learning]] 为教学取向，以世界遗产地作为学习环境，探索如何通过真实[[Champ|场域]]组织跨学科、具身、艺术本位和多语学习（Schaffar & Wolff, 2024, p.1）。
 >
 > 在知识谱系上，SveaSus 可被看作 [[Finnish National Core Curriculum]] 所推动的 PhBL 取向在高等教育和教师教育中的延展：它把 [[Epochal Key Problems]] 中的可持续性问题放入具体地点、身体经验、艺术方法和多语资源之中，而不是把可持续性简化为抽象技能清单。
 
 ## 经过
 
 > [!note]- 经过
-> - **2018**：SveaSus 项目在赫尔辛基[[The Great Learning|大学]]教育科学学院启动，面向该学院学生开设课程，并组织教师、研究者和艺术家共同参与研究与发展（Schaffar & Wolff, 2024, p.1）。
+> - **2018**：SveaSus 项目在赫尔辛基大学教育科学学院启动，面向该学院学生开设课程，并组织教师、研究者和艺术家共同参与研究与发展（Schaffar & Wolff, 2024, p.1）。
 > - **2018-2023**：项目主要以 Helsinki 附近岛屿上的 Suomenlinna 世界遗产地为学习环境，围绕地点、时间和可持续性展开学习与教育发展（Schaffar & Wolff, 2024, p.1）。
 > - **2023**：项目运行期结束；参与者包括教师、研究者、艺术家和学生，Schaffar 与 Wolff 也参与了该项目（Schaffar & Wolff, 2024, p.1）。
 

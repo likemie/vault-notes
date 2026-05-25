@@ -62,7 +62,7 @@ updated: '2026-05-18'
 >
 > **全球参照：**
 > - LS 的结构参照了 IBDP 的三个核心要素：知识理论（→ 批判思维训练）、延伸论文（→ IES）、创造行动服务（→ 其他学习经历）
-> - 剑桥[[The Great Learning|大学]]的 Mary James 教授被邀请于 2007-2009 年担任课程发展议会海外委员，为 LS 提供背书
+> - 剑桥大学的 Mary James 教授被邀请于 2007-2009 年担任课程发展议会海外委员，为 LS 提供背书
 >
 > > "Its emergence was linked to the post-handover restructuring of the education system, the quest for educational reform and facilitated by a process of referencing global trends and overseas models." (Yan & Morris, 2025, p. 480)
 

@@ -31,7 +31,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 谢晨（Chen Xie），华东师范[[The Great Learning|大学]]国际与比较教育研究所（Institute of International and Comparative Education, East China Normal University）研究员。研究方向为[[Evidence-Based Education|证据本位教育]]改革、教育技术与数学学业成就的比较研究（Cheung & Xie, 2021, p.1）。
+> 谢晨（Chen Xie），华东师范大学国际与比较教育研究所（Institute of International and Comparative Education, East China Normal University）研究员。研究方向为[[Evidence-Based Education|证据本位教育]]改革、教育技术与数学学业成就的比较研究（Cheung & Xie, 2021, p.1）。
 
 ## 核心思想
 

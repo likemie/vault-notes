@@ -40,7 +40,7 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> Top Institute for [[Evidence-Based Education]] Research（TIER）于 2008 年在荷兰建立，是一个跨[[The Great Learning|大学]]研究机构，合作方包括 Maastricht University、University of Amsterdam 和 University of Groningen（Pellegrini & Vivanet, 2021, p.34）。
+> Top Institute for [[Evidence-Based Education]] Research（TIER）于 2008 年在荷兰建立，是一个跨大学研究机构，合作方包括 Maastricht University、University of Amsterdam 和 University of Groningen（Pellegrini & Vivanet, 2021, p.34）。
 
 ## 政策文本摘要
 
@@ -50,7 +50,7 @@ updated: 2026-05-23
 ## 时间线
 
 > [!note]
-> - 2008 — TIER 作为荷兰跨[[The Great Learning|大学]]研究所建立（Pellegrini & Vivanet, 2021, p.34）。
+> - 2008 — TIER 作为荷兰跨大学研究所建立（Pellegrini & Vivanet, 2021, p.34）。
 
 ## 实施情况
 
@@ -65,7 +65,7 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning]
-> TIER 的跨[[The Great Learning|大学]]结构能增强研究能力，但欧洲整体的项目复用仍受教育系统差异、语言和课程标准影响。详见 [[Argument_Pellegrini_2021_ROE]] 对欧洲可迁移性挑战的论证（Pellegrini & Vivanet, 2021, pp.35-36）。
+> TIER 的跨大学结构能增强研究能力，但欧洲整体的项目复用仍受教育系统差异、语言和课程标准影响。详见 [[Argument_Pellegrini_2021_ROE]] 对欧洲可迁移性挑战的论证（Pellegrini & Vivanet, 2021, pp.35-36）。
 
 ## 相关概念／理论
 

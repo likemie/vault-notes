@@ -34,7 +34,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 香港中文[[The Great Learning|大学]]（The Chinese University of Hong Kong）教育研究者，Johns Hopkins University [[Evidence-Based Reform|证据本位改革]]中心长期合作者，与 [[Robert Slavin]] 合作发表多项关于教育 [[Randomised Controlled Trials|RCT]] 和证据本位改革的国际比较研究。
+> 香港中文大学（The Chinese University of Hong Kong）教育研究者，Johns Hopkins University [[Evidence-Based Reform|证据本位改革]]中心长期合作者，与 [[Robert Slavin]] 合作发表多项关于教育 [[Randomised Controlled Trials|RCT]] 和证据本位改革的国际比较研究。
 
 ## 核心思想
 

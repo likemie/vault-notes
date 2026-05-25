@@ -46,7 +46,7 @@ updated: 2026-05-19
 ## 简介
 
 > [!info]
-> Walter D. Mignolo（1941–）是阿根廷裔美国符号学家、文学理论家和去殖民思想家，杜克[[The Great Learning|大学]]（Duke University）文学与文化研究教授，拉丁美洲现代性/殖民性研究项目（M/C Project）的核心成员。他是去殖民理论（decolonial theory）的奠基性人物，从 1990 年代起系统发展了"[[Geopolitics of Knowledge|知识地缘政治]]"（geopolitics of knowledge）概念的批判性分支，提出"殖民差异"（colonial difference）、"殖民性"（coloniality）、"边界思维"（border thinking）和"认识论不服从"（epistemic disobedience）等核心概念（Parreira do Amaral, 2022, p.38, 50）。
+> Walter D. Mignolo（1941–）是阿根廷裔美国符号学家、文学理论家和去殖民思想家，杜克大学（Duke University）文学与文化研究教授，拉丁美洲现代性/殖民性研究项目（M/C Project）的核心成员。他是去殖民理论（decolonial theory）的奠基性人物，从 1990 年代起系统发展了"[[Geopolitics of Knowledge|知识地缘政治]]"（geopolitics of knowledge）概念的批判性分支，提出"殖民差异"（colonial difference）、"殖民性"（coloniality）、"边界思维"（border thinking）和"认识论不服从"（epistemic disobedience）等核心概念（Parreira do Amaral, 2022, p.38, 50）。
 
 > Mignolo 的核心论证是：西方现代性与其"黑暗面"——殖民性——是同一历史进程的构成性两面。西方认识论通过殖民扩张获得了虚假的普遍性，系统性地压抑和否定了非西方世界的替代性知识传统和存在方式。因此，去殖民不仅是政治经济任务，更是认识论任务——需要在[[Knowledge Production|知识生产]]层面"去链接"（delink）西方认识论框架（Mignolo, 2002, cited in Parreira do Amaral, 2022, p.38）。
 
@@ -56,7 +56,7 @@ updated: 2026-05-19
 
 > [!note]
 > - 1941 年出生于阿根廷
-> - 获阿根廷科尔多瓦国立[[The Great Learning|大学]]哲学学士学位，后赴法国巴黎高等研究实践学院（École des Hautes Études）学习符号学，师从 Roland Barthes
+> - 获阿根廷科尔多瓦国立大学哲学学士学位，后赴法国巴黎高等研究实践学院（École des Hautes Études）学习符号学，师从 Roland Barthes
 > - 长期任职于杜克大学，为 William H. Wannamaker 文学与文化研究教授，曾任杜克大学拉丁美洲与加勒比研究中心主任（Parreira do Amaral, 2022, p.50）
 > - 与 Enrique Dussel、Aníbal Quijano、Boaventura de Sousa Santos 等学者共同构成拉丁美洲去殖民思想网络，参与现代性/殖民性（M/C）研究项目
 > - 2011 年出版 *The Darker Side of Western Modernity*，系统阐述其"去殖民选项"（decolonial option）纲领
@@ -86,7 +86,7 @@ updated: 2026-05-19
 ### 2003 — "Globalization and the Geopolitics of Knowledge"
 
 - APA：Mignolo, W. D. (2003). Globalization and the geopolitics of knowledge: The role of the humanities in the [[Corporate University]]. *Nepantla: Views from South, 4*(1), 97–119.
-- 核心内容：在全球化和[[Corporate University|企业大学]]语境中阐述知识地缘政治的运作，论证人文学科在企业化[[The Great Learning|大学]]中被边缘化的认识论后果，以及人文学科在去殖民[[Knowledge Production|知识生产]]中的独特角色。
+- 核心内容：在全球化和[[Corporate University|企业大学]]语境中阐述知识地缘政治的运作，论证人文学科在企业化大学中被边缘化的认识论后果，以及人文学科在去殖民[[Knowledge Production|知识生产]]中的独特角色。
 - 思想位置：代表将去殖民认识论应用于高等教育制度批判的实践转向。Delambre (2022, p.106) 引用此文作为重新思考知识的生产和传播方式的关键参照。
 
 ### 2011 — *The Darker Side of Western Modernity: Global Futures, Decolonial Options*
@@ -135,7 +135,7 @@ updated: 2026-05-19
 ## 争议与批评
 
 > [!warning]
-> - Mignolo 的"去链接"（delink）主张面临一个实践难题：完全脱离西方认识论框架后，替代性知识如何在全球化制度（如[[The Great Learning|大学]]、学术出版、国际政策）中获得认可和流通？Delambre (2022) 的工作可视为对这一困境的回应，但其 [[Ganz-Methode]] 的有效性同样缺乏独立验证（编者观察）
+> - Mignolo 的"去链接"（delink）主张面临一个实践难题：完全脱离西方认识论框架后，替代性知识如何在全球化制度（如大学、学术出版、国际政策）中获得认可和流通？Delambre (2022) 的工作可视为对这一困境的回应，但其 [[Ganz-Methode]] 的有效性同样缺乏独立验证（编者观察）
 > - 有批评者认为 Mignolo 的论证有时以西方认识论为唯一靶子，对非西方社会内部的认识论霸权和知识排斥（如性别、种姓、阶级）关注不足（编者观察）
 > - 其"边界思维"概念的操作性有限——如何在学术写作和教学中具体实践"在边界地带思考"，缺乏明确的方法论指引（编者观察）
 

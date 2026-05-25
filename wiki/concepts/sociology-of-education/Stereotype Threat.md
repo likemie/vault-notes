@@ -33,7 +33,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> Aronson (2002) 提出的社会心[[Neo-Confucianism|理学]]概念：当个体意识到关于自身群体的负面刻板印象存在时，会产生额外的情感与认知负担（extra emotional or cognitive burden），进而导致"去认同化"（disidentification）——即对该领域失去兴趣、动机和投入——最终刻板印象成为"自我实现的预言"（self-fulfilling prophesy），证实了原本错误的预期（Ryan, 2010, p.44）。
+> Aronson (2002) 提出的社会心理学概念：当个体意识到关于自身群体的负面刻板印象存在时，会产生额外的情感与认知负担（extra emotional or cognitive burden），进而导致"去认同化"（disidentification）——即对该领域失去兴趣、动机和投入——最终刻板印象成为"自我实现的预言"（self-fulfilling prophesy），证实了原本错误的预期（Ryan, 2010, p.44）。
 
 > [!quote]
 > 当刻板印象被激活时，"an extra emotional or cognitive burden and 'disidentification' — a lack of interest, motivation, and engagement"随之产生，"the stereotype then becomes a 'self-fulfilling prophesy'"（Aronson, 2002, 转引自 Ryan, 2010, p.44）
@@ -67,7 +67,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - 植根于社会心[[Neo-Confucianism|理学]]的刻板印象研究传统（Aronson, 2002）
+> - 植根于社会心理学的刻板印象研究传统（Aronson, 2002）
 > - 在跨文化教育语境中与 [[Orientalism]]（Said, 1978）形成理论衔接：正是西方学术界将[[Chinese Learner|中国学习者]]定义为"以偏离西方规范来定义"（Watkins & Biggs, 2001, p.4），才为刻板印象威胁提供了话语激活条件。详见 [[Chinese Learner#定义]]
 > - 与 [[Meta-Cultural Sensitivity]] 形成理论互补：刻板印象威胁描述了**问题机制**（刻板印象如何伤害学生），元文化敏感度提供了**解决方案**（教师如何超越刻板印象）
 
@@ -83,7 +83,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - 该概念最初在社会心[[Neo-Confucianism|理学]]实验室环境中发展，其在**跨文化教育**领域的适用性尚未经过独立的实证检验——Ryan 的论述是理论应用而非实验验证
+> - 该概念最初在社会心理学实验室环境中发展，其在**跨文化教育**领域的适用性尚未经过独立的实证检验——Ryan 的论述是理论应用而非实验验证
 > - 在内化/去认同化的链条中，哪些环节是刻板印象威胁特有的、哪些与其他因素（如语言障碍、社会孤立）重叠，尚未被清晰区分
 
 ## 相关案例／政策

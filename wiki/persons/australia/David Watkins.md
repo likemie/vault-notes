@@ -30,7 +30,7 @@ updated: 2026-05-25
 ## 简介
 
 > [!info]
-> David Watkins 是澳大利亚教育心[[Neo-Confucianism|理学]]家，长期在香港从事跨文化学习研究。他是[[Paradox of the Chinese Learner]]这一核心问题的提出者和主要研究者之一，与 [[John Biggs]] 合作整合了关于中国／东亚学习者的实证研究，是跨文化教育心理学领域的重要人物（Li, 2012, p.73-74）。
+> David Watkins 是澳大利亚教育心理学家，长期在香港从事跨文化学习研究。他是[[Paradox of the Chinese Learner]]这一核心问题的提出者和主要研究者之一，与 [[John Biggs]] 合作整合了关于中国／东亚学习者的实证研究，是跨文化教育心理学领域的重要人物（Li, 2012, p.73-74）。
 
 ## 主要著作
 

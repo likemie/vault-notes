@@ -52,7 +52,7 @@ updated: 2026-05-25
 
 > [!info]- Summary 规则（索引用，不是摘要）
 > `summary` 只用于索引说明，让读者一眼看出这个概念是什么、来自谁、解决什么问题或有什么关键机制。
-> 好例子：`Phillips & Ochs 政策借用四阶段模型的第一阶段，Rappleye (2006) 将其解释为结构／人的双层推力与阻力。`
+> 好例子：`Phillips & Ochs [[Policy Borrowing|政策借用]]四阶段模型的第一阶段，Rappleye (2006) 将其解释为结构／人的双层推力与阻力。`
 > 如果无法概括，留空：`summary: ""`。
 
 > [!warning]- Summary YAML 安全规则

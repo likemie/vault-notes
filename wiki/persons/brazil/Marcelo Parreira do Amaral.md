@@ -41,13 +41,13 @@ updated: '2026-05-19'
 
 > [!info]
 
-Marcelo Parreira do Amaral 是德国明斯特[[The Great Learning|大学]]（University of Münster）教育学院教授，比较教育与高等教育研究者。他的研究聚焦于[[Global Education Industry|全球教育产业]]（GEI）、[[Geopolitics of Knowledge|知识地缘政治]]以及教育研究在欧洲经济想象中的嵌入方式。
+Marcelo Parreira do Amaral 是德国明斯特大学（University of Münster）教育学院教授，比较教育与高等教育研究者。他的研究聚焦于[[Global Education Industry|全球教育产业]]（GEI）、[[Geopolitics of Knowledge|知识地缘政治]]以及教育研究在欧洲经济想象中的嵌入方式。
 
 ## 生平与职涯
 
 > [!note]
 
-- 任职于明斯特[[The Great Learning|大学]]教育学院（Institute of Education, University of Münster, Germany）（Thompson & Parreira do Amaral, 2022, p.1）
+- 任职于明斯特大学教育学院（Institute of Education, University of Münster, Germany）（Thompson & Parreira do Amaral, 2022, p.1）
 - 2019 年与 [[Christiane Thompson]] 和 [[Gita Steiner-Khamsi]] 共同编辑 *Researching the [[Global Education Industry]] — Commodification, the Market and Business Involvement*（Palgrave Macmillan）（Thompson & Parreira do Amaral, 2022, p.17）
 - 与 [[Christiane Thompson]] 共同主编 *Geopolitical Transformations in Higher Education* (2022, Springer)，并合写导言与结论章
 

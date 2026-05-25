@@ -91,7 +91,7 @@ updated: '2026-05-23'
 ## Visible Learning 的商业化角色
 
 > [!success]
-> 2010 年末，[[John Hattie|Hattie]] 在奥克兰[[The Great Learning|大学]]不再继续支持 VL 商业平台后，把这项工作带到 Cognition。双方将 VL 转写成面向教师和[[School Leadership|学校领导]]的模块化专业学习课程（professional learning curriculum），并约定 Hattie 取得所有 VL 相关收入的版税。（Bates, 2017, p.59；Johnson & Janzen, 2023, p.30）
+> 2010 年末，[[John Hattie|Hattie]] 在奥克兰大学不再继续支持 VL 商业平台后，把这项工作带到 Cognition。双方将 VL 转写成面向教师和[[School Leadership|学校领导]]的模块化专业学习课程（professional learning curriculum），并约定 Hattie 取得所有 VL 相关收入的版税。（Bates, 2017, p.59；Johnson & Janzen, 2023, p.30）
 >
 > 这一新事业部门（division）在 2011 年第一年收入已接近 200 万，次年接近 270 万，且利润率高于公司此前长期依赖的工资业务（payroll），因此很快被视为可以替代旧收入锚点的高利润知识产品。（Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30）
 >

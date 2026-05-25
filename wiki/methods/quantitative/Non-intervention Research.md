@@ -59,7 +59,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性
 > - **因果推论边界**：非[[Intervention Research|干预研究]]没有自变量操纵，因此通常不足以证明改变某实践会导致某结果改善（Brady et al., 2023, pp.3-4）。
-> - **[[Recommendations for Practice|实践建议]]高发**：2020 年五本教育心[[Neo-Confucianism|理学]]经验期刊中，约三分之二非干预文章包含 [[Recommendations for Practice|实践建议]]，其中[[Observational and Correlational Research|观察/相关研究]]为 66%、[[Qualitative Research|质性研究]]为 65%、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]为 60%（Brady et al., 2023, pp.6-7）。
+> - **[[Recommendations for Practice|实践建议]]高发**：2020 年五本教育心理学经验期刊中，约三分之二非干预文章包含 [[Recommendations for Practice|实践建议]]，其中[[Observational and Correlational Research|观察/相关研究]]为 66%、[[Qualitative Research|质性研究]]为 65%、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]为 60%（Brady et al., 2023, pp.6-7）。
 > - **讨论与局限部分可能自相矛盾**：Brady et al. (2023) 观察到，一些论文在讨论部分给出清晰 RFP，却在局限性部分承认方法无法支持因果结论，显示出版规范可能鼓励越界建议（Brady et al., 2023, p.9）。
 
 ## 相关理论
@@ -79,7 +79,7 @@ updated: '2026-05-18'
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Brady_2023_EPR]] — 将非[[Intervention Research|干预研究]]作为论文标题和核心分析对象，发现其在 2020 年仍约占经验教育心[[Neo-Confucianism|理学]]研究的四分之三（Brady et al., 2023, pp.1, 7）。
+> - [[Argument_Brady_2023_EPR]] — 将非[[Intervention Research|干预研究]]作为论文标题和核心分析对象，发现其在 2020 年仍约占经验教育心理学研究的四分之三（Brady et al., 2023, pp.1, 7）。
 
 ## 来源
 

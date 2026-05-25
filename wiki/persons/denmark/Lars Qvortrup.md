@@ -41,12 +41,12 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Lars Qvortrup，丹麦奥胡斯[[The Great Learning|大学]]（Aarhus University）丹麦教育学院（Danish School of Education）国家学校研究中心（National Centre for School Research）教授。他是 [[John Hattie]] 的 [[Visible Learning]] 在丹麦的主要引介者之一——与 Niels Egelund 共同撰写 VL 丹麦语译本导言。
+> Lars Qvortrup，丹麦奥胡斯大学（Aarhus University）丹麦教育学院（Danish School of Education）国家学校研究中心（National Centre for School Research）教授。他是 [[John Hattie]] 的 [[Visible Learning]] 在丹麦的主要引介者之一——与 Niels Egelund 共同撰写 VL 丹麦语译本导言。
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - 任职于奥胡斯[[The Great Learning|大学]]丹麦教育学院，国家学校研究中心教授
+> - 任职于奥胡斯大学丹麦教育学院，国家学校研究中心教授
 > - 2015 年在 *Paideia* 发表讨论论文，回应 [[Visible Learning]] 的方法论争议，并提出以 Bateson 为基础的[[Dynamic Knowledge and Learning Model|动态知识与学习模型]]（Qvortrup, 2015, pp.22–33）
 > - 与 Niels Egelund 共同撰写 [[John Hattie|Hattie]] *Visible Learning for Teachers* 丹麦语译本导言
 > - 2019 年在 NordSTEP 发表讨论论文，回应丹麦 Hattie 争议并构建 VL 的理论辩护

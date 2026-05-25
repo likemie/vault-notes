@@ -74,7 +74,7 @@ updated: '2026-05-18'
 > [!warning] 争议与评论
 > - **表面话语与实际功能的分离**：LSLD 的名称暗示赋权和解放，但利益相关者一致认为其实质功能是成本削减
 > - **招聘困难**：即使在提供"每年 25 万澳元"激励的 NSW 部分地区，"没有人会接受……这是一种悲惨的存在。你将是一个孤独的人，在很长一段时间里"（Norman, bureaucrat, NSW, p.9-10）
-> - **比较视角**：NSW 的 LSLD 与 WA 的 [[Independent Public Schools Western Australia|IPS]]、Victoria 的自我管[[Neo-Confucianism|理学]]校共同构成澳大利亚各州不同版本的[[School Autonomy|学校自主权]]改革光谱——NSW 因历史上集中化程度高，其权力下放的影响尤为显著
+> - **比较视角**：NSW 的 LSLD 与 WA 的 [[Independent Public Schools Western Australia|IPS]]、Victoria 的自我管理学校共同构成澳大利亚各州不同版本的[[School Autonomy|学校自主权]]改革光谱——NSW 因历史上集中化程度高，其权力下放的影响尤为显著
 
 ## 相关概念／理论
 

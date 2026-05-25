@@ -27,7 +27,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 庄腾腾，北京师范[[The Great Learning|大学]]（Beijing Normal University）教育研究者，研究方向为中国教育实证研究的文献计量分析和制度化发展。
+> 庄腾腾，北京师范大学（Beijing Normal University）教育研究者，研究方向为中国教育实证研究的文献计量分析和制度化发展。
 
 ## 核心思想
 

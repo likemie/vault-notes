@@ -35,7 +35,7 @@ updated: '2026-05-21'
 ## 简介
 
 > [!info] 简介
-> Carol [[Campbell Collaboration|Campbell]] 是加拿大教育领导力学者，多伦多[[The Great Learning|大学]]安大略教育研究院教授。当前 vault 中最重要的不是她的完整传记，而是她在 [[Evidence-Informed Practice]]、[[Knowledge Mobilisation]] 与安大略系统改革之间所起的桥接作用（Nelson & Campbell, 2017, pp.130–132）。
+> Carol [[Campbell Collaboration|Campbell]] 是加拿大教育领导力学者，多伦多大学安大略教育研究院教授。当前 vault 中最重要的不是她的完整传记，而是她在 [[Evidence-Informed Practice]]、[[Knowledge Mobilisation]] 与安大略系统改革之间所起的桥接作用（Nelson & Campbell, 2017, pp.130–132）。
 
 ## 核心思想
 
@@ -71,7 +71,7 @@ updated: '2026-05-21'
 ## 生平与职涯
 
 > [!note]
-> - 任多伦多[[The Great Learning|大学]]安大略教育研究院教授，研究集中于教育领导力、系统改革和研究使用。
+> - 任多伦多大学安大略教育研究院教授，研究集中于教育领导力、系统改革和研究使用。
 > - 参与并推动安大略省 KNAER 等系统层面的研究-实践合作项目（Nelson & [[Campbell Collaboration|Campbell]], 2017, pp.130–131）。
 > - **2017** 年与 [[Julie Nelson]] 共同编辑 [[Evidence-Informed Practice|EIP]] 特刊，将证据知情实践讨论系统化。
 

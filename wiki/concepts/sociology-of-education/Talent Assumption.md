@@ -68,7 +68,7 @@ updated: 2026-05-24
 >
 > 这个逆转证明了"努力=低能力"的联想是**被特定的文化环境教出来的**，不是生物性命的。
 
-**制度层面的运作：分轨制（tracking）**。Oakes 和 Guiton 对美国高中分轨制的研究发现：教育者普遍相信"学生的智力前景在进入高中时实际上已经确定"。一位校长甚至说"他在幼儿园结束时就能判断哪些孩子能在高中成功"。课程和教学的目的因此从"提高学生能力"变成了"适应学生已有的特征"（Li, 2012, pp.98–99）。
+**制度层面的运作：[[Tracking|分轨制]]（tracking）**。Oakes 和 Guiton 对美国高中分轨制的研究发现：教育者普遍相信"学生的智力前景在进入高中时实际上已经确定"。一位校长甚至说"他在幼儿园结束时就能判断哪些孩子能在高中成功"。课程和教学的目的因此从"提高学生能力"变成了"适应学生已有的特征"（Li, 2012, pp.98–99）。
 
 > [!quote] Oakes 和 Guiton 的结论（转引自 Li, 2012, pp.98–99）
 > "We found little evidence that educators at any of the schools thought that high schools courses could (or should even try to) increase students' intellectual capacities or raise their expectations."

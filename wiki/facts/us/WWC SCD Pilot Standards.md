@@ -40,7 +40,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> [[What Works Clearinghouse]] 最初的设计标准主要针对组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）。随着[[Single-Case Design|单一个案设计]]（[[21st Century Skills and Competencies Discourse|SCD]]）在特殊教育、学校心[[Neo-Confucianism|理学]]等领域的广泛使用，需要一套专门的标准来评估 SCD 研究的内部效度和外部效度（Hitchcock et al., 2015, p.460）。
+> [[What Works Clearinghouse]] 最初的设计标准主要针对组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）。随着[[Single-Case Design|单一个案设计]]（[[21st Century Skills and Competencies Discourse|SCD]]）在特殊教育、学校心理学等领域的广泛使用，需要一套专门的标准来评估 SCD 研究的内部效度和外部效度（Hitchcock et al., 2015, p.460）。
 >
 > SCD 已被认可为产生实证证据以指导治疗创新、采纳或改进的可行方法（Horner et al., 2005; Kratochwill & Levin, 2014），因此 WWC 需要建立相应的审查基础设施。
 

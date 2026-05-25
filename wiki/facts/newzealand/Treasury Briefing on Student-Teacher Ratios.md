@@ -64,7 +64,7 @@ updated: '2026-05-18'
 > [!warning] O'Neill 的三重批评
 > O'Neill (2012) 从三个维度论证 Treasury 建议存在[[Material Fallacies|实质谬误]]：
 >
-> - **术语模糊且使用不一致**：[[John Hattie|Hattie]] VL 中"教学质量"（quality of teaching）的[[Meta-analysis|元分析]]证据全部来自[[The Great Learning|大学]]生评教，按此定义对学校教育政策无任何可证明的相关性；"优质教学"和"教学质量"在新西兰学术和政策话语中日益被当作口号使用
+> - **术语模糊且使用不一致**：[[John Hattie|Hattie]] VL 中"教学质量"（quality of teaching）的[[Meta-analysis|元分析]]证据全部来自大学生评教，按此定义对学校教育政策无任何可证明的相关性；"优质教学"和"教学质量"在新西兰学术和政策话语中日益被当作口号使用
 > - **研究证据局限性被忽视**：Hattie 的综合涵盖所有教育阶段（早教至高等教育），非学校阶段研究被纳入扭曲了[[Effect Size|效应量]]和排名；Hattie 本人明确警示相关不等于因果、成功效应多来自创新而非日常课堂、该书"不涉及课堂生活"
 > - **政策结论无效**：Treasury 建议增加生师比直接与 Hattie 本人结论矛盾；OECD 数据（2011）显示新西兰中小学生师比已高于 OECD 均值，不存在进一步增加的证据基础
 

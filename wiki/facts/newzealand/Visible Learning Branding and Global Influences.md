@@ -100,7 +100,7 @@ updated: '2026-05-18'
 >
 > #### asTTle / e-asTTle：数据与技术前身
 >
-> 1999/2000 年，[[John Hattie|Hattie]] 通过奥克兰[[The Great Learning|大学]]全资公司 Auckland Uniservices Ltd 受新西兰教育部合同委托，领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的、教师管理型的国家课程测试系统，即 VL 的数据与技术前身。2000 年代中期，教育部进一步合同开发升级版在线系统 e-asTTle（O'Neill et al., 2016, p.47）。
+> 1999/2000 年，[[John Hattie|Hattie]] 通过奥克兰大学全资公司 Auckland Uniservices Ltd 受新西兰教育部合同委托，领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的、教师管理型的国家课程测试系统，即 VL 的数据与技术前身。2000 年代中期，教育部进一步合同开发升级版在线系统 e-asTTle（O'Neill et al., 2016, p.47）。
 >
 > e-asTTle 的报告功能包括学校和学生表现的图形仪表盘展示——与后来 VL 2008 年著作中采用的展示方式"非常相似"（O'Neill et al., 2016, p.47）。
 >
@@ -308,7 +308,7 @@ updated: '2026-05-18'
 >
 > O'Neill (2012) 以新西兰 Treasury 2011 年简报为案例，揭示了 VL 证据在真实政策过程中被误用的具体机制（详见 [[Treasury Briefing on Student-Teacher Ratios]]）：
 >
-> **（1）"教学质量"术语的定义断裂。** Hattie VL 中"教学质量"（quality of teaching，排名 56/138）的[[Meta-analysis|元分析]]证据全部来自[[The Great Learning|大学]]生评教——按此定义对学校教育政策无任何可证明的相关性。Treasury 将此术语用作代理概念（proxy concept），包装教师绩效管理等更具争议的政策目的（ONeill, 2012, pp.154-155）。
+> **（1）"教学质量"术语的定义断裂。** Hattie VL 中"教学质量"（quality of teaching，排名 56/138）的[[Meta-analysis|元分析]]证据全部来自大学生评教——按此定义对学校教育政策无任何可证明的相关性。Treasury 将此术语用作代理概念（proxy concept），包装教师绩效管理等更具争议的政策目的（ONeill, 2012, pp.154-155）。
 >
 > **（2）术语口号化。** "优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, Hattie, 2009a）在新西兰学术和政策话语中日益被当作口号使用——引发"基于词汇熟悉度而非理性的膝跳反射式赞同或反对"（Kreeft, 2010, p.78）（ONeill, 2012, pp.154-155）。
 >
@@ -371,7 +371,7 @@ updated: '2026-05-18'
 > - **2008** — 集团更名为 Cognition Education；Hattie 成为 Cognition Education 董事
 > - **2009** — Cognition Education 重组为 Trust + Limited 双层结构；Hattie 出版 *Visible Learning*；开始成为 ACEL 年会主题演讲常客
 > - **2010** — VLplus 品牌推出；Cognition Education Group 收入达 USD 69M 高点
-> - **2011** — Cognition Education Trust 注册 Visible Learningplus 商标；Hattie 转至墨尔本[[The Great Learning|大学]]
+> - **2011** — Cognition Education Trust 注册 Visible Learningplus 商标；Hattie 转至墨尔本大学
 > - **2012** — Hattie 离任 Cognition Education 董事，转任 Trust "学术事务顾问"
 > - **2013** — Access Innovation Media 在澳大利亚注册 Visible Classroom 商标
 > - **2014** — 丹麦议会通过 公立学校改革，明确引用 VL
