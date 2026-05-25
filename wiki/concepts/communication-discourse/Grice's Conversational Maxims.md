@@ -4,8 +4,8 @@ aliases:
   - 格莱斯会话准则
   - Gricean maxims
   - cooperative principles
-  - 合作原则
-summary: "Grice 提出的四条会话合作原则，包括量、质、关联和清晰，可用于比较不同文化中的说话风格与互动期待"
+  - 会话准则
+summary: Grice 提出的四条会话合作原则，包括量、质、关联和清晰，可用于比较不同文化中的说话风格与互动期待
 type: concept
 tags:
   - region/western

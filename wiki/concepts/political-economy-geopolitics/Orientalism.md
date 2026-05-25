@@ -32,7 +32,7 @@ related_arguments:
   - "[[Argument_Ryan_2010_ChineseLearner]]"
 sources:
   - "[[Ch6_Rizvi_2022]]"
-  - "[[10.1080_03050068.2023.2212351]]"
+  - "[[Vickers_2024_CE]]"
 confidence: low
 status: draft
 created: '2026-05-11'
@@ -112,4 +112,4 @@ updated: '2026-05-18'
 ## 来源
 
 - [[Ch6_Rizvi_2022]]
-- [[10.1080_03050068.2023.2212351]]
+- [[Vickers_2024_CE]]

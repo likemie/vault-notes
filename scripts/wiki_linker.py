@@ -28,7 +28,7 @@ EXCLUDE_FILENAMES = {
 # not a semantic stopword list. The actual link whitelist is wiki/index.json.
 SOURCE_DIRS = {"sources", "raw", "books", "scripts"}
 
-WIKILINK_RE = re.compile(r"(?<!!)\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]")
+WIKILINK_RE = re.compile(r"(?<!!)\[\[([^\]|#]+?)(?:#[^\]|]+)?(?:(?:\\\||\|)([^\]]+))?\]\]")
 EMBED_RE = re.compile(r"!\[\[[^\]]+\]\]")
 MD_LINK_RE = re.compile(r"!?\[[^\]]*\]\([^)]*\)")
 URL_RE = re.compile(r"https?://\S+|doi:\s*\S+|10\.\d{4,9}/\S+", re.IGNORECASE)
@@ -74,20 +74,26 @@ def unescaped_pipe_positions(line: str) -> list[int]:
     return positions
 
 
+def markdown_table_content(line: str) -> str:
+    stripped = line.strip()
+    while stripped.startswith(">"):
+        stripped = stripped[1:].lstrip()
+    return stripped
+
+
 def is_markdown_table_separator_line(line: str) -> bool:
-    return bool(TABLE_SEPARATOR_RE.match(line.rstrip("\n")))
+    return bool(TABLE_SEPARATOR_RE.match(markdown_table_content(line)))
 
 
 def is_markdown_table_line(line: str) -> bool:
-    stripped = line.strip()
+    stripped = markdown_table_content(line)
     if not stripped or stripped.startswith("```"):
         return False
     if is_markdown_table_separator_line(line):
         return True
-    # Require at least two unescaped pipes. This intentionally handles normal
-    # pipe-bounded Markdown tables and avoids treating ordinary prose with one
-    # pipe as a table.
-    return count_unescaped_pipes(line) >= 2
+    # Require pipe-bounded Markdown tables. This avoids treating prose with two
+    # alias wikilinks as a table just because wikilink aliases also contain pipes.
+    return stripped.startswith("|") and count_unescaped_pipes(stripped) >= 2
 
 
 def is_safe_table_cell(cell: str) -> bool:
@@ -95,6 +101,21 @@ def is_safe_table_cell(cell: str) -> bool:
     if not stripped:
         return False
     return TABLE_UNSAFE_CELL_RE.search(cell) is None
+
+
+def escape_table_wikilink_pipes(line: str) -> str:
+    """Escape wikilink alias separators inside Markdown table rows."""
+    if not is_markdown_table_line(line):
+        return line
+
+    def repl(m: re.Match[str]) -> str:
+        target = m.group(1)
+        display = m.group(2)
+        if display is None:
+            return m.group(0)
+        return f"[[{target}\\|{display}]]"
+
+    return WIKILINK_RE.sub(repl, line)
 
 
 @dataclass(frozen=True)
@@ -450,7 +471,7 @@ def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -
     def clean_line(line: str) -> str:
         nonlocal removed
         if is_markdown_table_line(line):
-            return line
+            return escape_table_wikilink_pipes(line)
 
         def repl(m: re.Match[str]) -> str:
             nonlocal removed
@@ -547,13 +568,21 @@ def match_term_at(text: str, start: int, term: str) -> bool:
     return False
 
 
-def link_text(display: str, target: str) -> str:
+def link_text(display: str, target: str, table_safe: bool = False) -> str:
     if display == target:
         return f"[[{target}]]"
+    if table_safe:
+        return f"[[{target}\\|{display}]]"
     return f"[[{target}|{display}]]"
 
 
-def link_plain_text(chunk: str, terms: list[Term], current_title: str, already_linked: set[str]) -> tuple[str, int]:
+def link_plain_text(
+    chunk: str,
+    terms: list[Term],
+    current_title: str,
+    already_linked: set[str],
+    table_safe: bool = False,
+) -> tuple[str, int]:
     additions = 0
     i = 0
     new_chunk: list[str] = []
@@ -574,7 +603,7 @@ def link_plain_text(chunk: str, terms: list[Term], current_title: str, already_l
             i += 1
             continue
 
-        new_chunk.append(link_text(matched.text, matched.target))
+        new_chunk.append(link_text(matched.text, matched.target, table_safe=table_safe))
         already_linked.add(matched.target)
         additions += 1
         i += len(matched.text)
@@ -586,6 +615,7 @@ def link_table_row(line: str, terms: list[Term], current_title: str, already_lin
     if is_markdown_table_separator_line(line):
         return line, 0
 
+    line = escape_table_wikilink_pipes(line)
     original_pipe_count = count_unescaped_pipes(line)
     positions = unescaped_pipe_positions(line)
     if len(positions) < 2:
@@ -604,7 +634,7 @@ def link_table_row(line: str, terms: list[Term], current_title: str, already_lin
         else:
             cell = core[cursor:pipe_pos]
             if is_safe_table_cell(cell):
-                linked_cell, added = link_plain_text(cell, terms, current_title, already_linked)
+                linked_cell, added = link_plain_text(cell, terms, current_title, already_linked, table_safe=True)
                 out.append(linked_cell)
                 additions += added
             else:

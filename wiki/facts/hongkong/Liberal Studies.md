@@ -29,7 +29,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Yan_2025_JCS]]"
-  - "[[10.1080_03050068.2023.2212351]]"
+  - "[[Vickers_2024_CE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -165,4 +165,4 @@ updated: '2026-05-25'
 ## 来源
 
 - [[Yan_2025_JCS]]
-- [[10.1080_03050068.2023.2212351]]
+- [[Vickers_2024_CE]]

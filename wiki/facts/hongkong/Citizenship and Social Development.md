@@ -31,7 +31,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Yan_2025_JCS]]"
-  - "[[10.1080_03050068.2023.2212351]]"
+  - "[[Vickers_2024_CE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -50,7 +50,7 @@ updated: '2026-05-25'
 ## 与 LS 的核心差异
 
 
-| 维度 | [[Liberal Studies|LS]] (2009–2021) | CSD (2021–) |
+| 维度 | LS (2009–2021) | CSD (2021–) |
 |------|---------------|------------|
 | **课程核心** | 批判性思维、多角度分析 | 爱国主义、国家认同、守法教育 |
 | **教科书** | 豁免教育局评审，教师自主选材 | 教育局评审，政府控制内容 |
@@ -164,4 +164,4 @@ Yan & Morris (2025) 运用 [[Cuban's Curriculum Change Theory]] 分析 [[Liberal
 ## 来源
 
 - [[Yan_2025_JCS]]
-- [[10.1080_03050068.2023.2212351]]
+- [[Vickers_2024_CE]]

@@ -72,7 +72,7 @@ updated: '2026-05-18'
 
 > [!info]
 > 属于理论讨论与概念分析文章。方法包括：
-> - 方法：Google Books Ngram Viewer 词频分析，追踪"geopolitics""[[Geopolitics of Knowledge|geopolitics of knowledge]]"等术语的历史使用频率
+> - 方法：Google Books Ngram Viewer 词频分析，追踪"geopolitics""[[Geopolitics of Knowledge]]"等术语的历史使用频率
 > - 数据来源：后殖民研究文献、美国国会报告（[[US-China Economic and Security Review Commission|USCC]]）、FBI 调查数据、专利统计、网络攻击统计数据
 > - 分析逻辑：概念区分（[[Knowledge Production|知识生产]] vs [[Knowledge Transfer|知识转移]]）+ 类型学建构（六种知识转移模态）+ 案例说明（中美紧张关系）
 
@@ -90,7 +90,7 @@ updated: '2026-05-18'
 
 > 这一步建立了分析的历史纵轴：同一句"知识即权力"，在 Bacon 笔下是上帝全知的神学属性，到 19 世纪德国地理学家手中则成为帝国扩张的行动纲领——说明知识与权力的关系本身就是历史地变迁的，概念被不同时代的力量重新定义和征用。
 
-**观察 3**：从词频数据看，"[[Geopolitics of Knowledge|geopolitics of knowledge]]"话语在 1990 年代出现，2000 年代和 2010 年代迅速强化。2010 年后，"知识"已超过能源、石油、资本主义等传统议题，成为"geopolitics of *"后面最常见的名词——意味着当代地缘政治中最密集的书写和辩论已从自然资源争夺转向了知识争夺（p.68）。
+**观察 3**：从词频数据看，"[[Geopolitics of Knowledge]]"话语在 1990 年代出现，2000 年代和 2010 年代迅速强化。2010 年后，"知识"已超过能源、石油、资本主义等传统议题，成为"geopolitics of *"后面最常见的名词——意味着当代地缘政治中最密集的书写和辩论已从自然资源争夺转向了知识争夺（p.68）。
 
 **提出核心问题**：后殖民研究通常将 GPK 的问题域界定为"[[Knowledge Production|知识生产]]"（knowledge production）——谁生产知识、以什么视角、为谁的利益。但这一视角是否抓住了 GPK 的全部？Partaken 提出反向假设：GPK 的真正核心（epicenter）从殖民时代至今一直是[[Knowledge Transfer|知识转移]]（knowledge transfer）而非知识生产（p.68–69）。
 

@@ -31,7 +31,7 @@ related_facts:
   - "[[Liberal Studies]]"
 related_arguments: []
 sources:
-  - "[[10.1080_03050068.2023.2212351]]"
+  - "[[Vickers_2024_CE]]"
 part_of: ''
 status: draft
 created: 2026-05-25
@@ -271,4 +271,4 @@ updated: 2026-05-25
 
 ## 来源
 
-- [[10.1080_03050068.2023.2212351]]
+- [[Vickers_2024_CE]]

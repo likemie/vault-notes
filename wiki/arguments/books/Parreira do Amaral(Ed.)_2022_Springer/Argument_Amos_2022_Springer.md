@@ -265,7 +265,7 @@ updated: 2026-05-18
 >
 > Escobar (2018) 的核心主张是本体论层面的：转型不是被设计的，而是涌现的。具体手段是 Irwin (2015) 的十条转型设计原则——以日常生活为设计的最根本情境、基于地方的全球化联网、放大草根方案、最大化最广泛需求的满足（Amos, 2022, pp.61–62）。
 >
-> ### [[Sympoiesis]] vs [[Autopoiesis|autopoiesis]] 的世界观分歧
+> ### [[Sympoiesis]] vs [[Autopoiesis]] 的世界观分歧
 >
 > Haraway 的 sympoiesis（共同制造）以"回应彼此需求"的伦理替代 autopoiesis 的"自我指涉"逻辑。[[Humosity]] 概念将人类彻底去中心化——不是"保护自然"的环保主义，而是承认人类只是物质循环的一个环节（Amos, 2022, p.62）。
 >
