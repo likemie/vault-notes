@@ -15,7 +15,7 @@ tags:
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Ideal Learner]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Refined Mastery]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Familiarization]]"
   - "[[Western Learner]]"
@@ -71,7 +71,7 @@ updated: 2026-05-23
 ### 2. 勤奋／发奋（Diligence / Self-Exertion — qínfèn / fāfèn）
 
 > [!info] 文本传统
-> 在做出真诚承诺之后，将承诺转化为持续的学习行动。勤奋要求学习者"在学习上花费大量时间"，这被认为能"增加熟悉度，从而开启[[Jing (Refined Mastery)|精通]]的机会"（Li, 2012, pp.49-50）。
+> 在做出真诚承诺之后，将承诺转化为持续的学习行动。勤奋要求学习者"在学习上花费大量时间"，这被认为能"增加熟悉度，从而开启[[Refined Mastery|精通]]的机会"（Li, 2012, pp.49-50）。
 
 > [!success] 实证发现
 > 在实证研究中，勤奋（qinfen）指做出明确决心之后的**频繁学习行为**——因此意味着大量时间投入。一个独特的实证细节：学习者常在做出决心后与家人、密友或教师**分享学习目标**，这些"见证人"（witnesses）负责监督决心与后续行动的一致性（Li, 2012, pp.91-92）。这显示了勤奋不仅是个体内在品质，还是**社会嵌入的行为**——与 [[Take the World Upon Oneself|以天下为己任]] 中"学习者的社会角色"一脉相承。

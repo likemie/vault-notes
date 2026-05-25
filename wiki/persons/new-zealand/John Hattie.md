@@ -23,7 +23,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Whole Language]]"
   - "[[Evidence-Based Education]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Refined Mastery]]"
   - "[[Self-Efficacy]]"
   - "[[Evidence-Based Reform]]"
   - "[[Knowledge Mobilisation]]"
@@ -194,7 +194,7 @@ updated: '2026-05-21'
 > - [[Visible Learning]] — 2009 年提出、基于 800+ [[Meta-analysis|元分析]]的教学干预[[Effect Size|效应量]]综合排名，后有系列扩展（*Visible Learning for Literacy*, *Visible Learning into Action* 等）
 > - 将效应量方法推广为教师和学校层面的操作性工具，推动了全球"什么有效"运动的课堂落地
 > - [[Meta-analysis]] — 将[[Meta-meta-analysis|元-元分析]]（meta-meta-analysis）技术大规模应用于教育研究证据综合
-> - **专家教师（Expert Teacher）的 16 项原型属性**：Hattie 识别了区分专家教师与经验教师和新手教师的关键特征（Sarbiewska, 2019, p.126）：专家教师对其工作采取问题解决立场（problem-solving stance）；[[Jing (Refined Mastery)|精通]]创造最优课堂学习氛围；对课堂情境有多维度复杂感知；更善于监控学生问题和评估其理解与进步水平；提供更相关、有用的[[Feedback|反馈]]；对学生有高度尊重；对教学充满热情；让学生参与学习并帮助发展其自我调节、学习技能、[[Self-Efficacy|自我效能]]和自尊（Hattie, 2003, cited in Sarbiewska, 2019, p.126）
+> - **专家教师（Expert Teacher）的 16 项原型属性**：Hattie 识别了区分专家教师与经验教师和新手教师的关键特征（Sarbiewska, 2019, p.126）：专家教师对其工作采取问题解决立场（problem-solving stance）；[[Refined Mastery|精通]]创造最优课堂学习氛围；对课堂情境有多维度复杂感知；更善于监控学生问题和评估其理解与进步水平；提供更相关、有用的[[Feedback|反馈]]；对学生有高度尊重；对教学充满热情；让学生参与学习并帮助发展其自我调节、学习技能、[[Self-Efficacy|自我效能]]和自尊（Hattie, 2003, cited in Sarbiewska, 2019, p.126）
 >
 
 ## 思想发展与影响

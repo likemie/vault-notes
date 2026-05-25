@@ -20,7 +20,7 @@ related_concepts:
   - "[[Confucian Heritage Cultures]]"
   - "[[Tongxue]]"
   - "[[International Education]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Refined Mastery]]"
   - "[[Feedback]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
@@ -136,7 +136,7 @@ Ryan（2010, p.41）指出，此后的许多学者和教育开发者（education
 #### 2b. 优势型刻板印象（Surplus Stereotypes）
 
 > [!success]
-> 较晚近的一批研究试图纠正缺陷型偏见，转而强调中国学习者的正面特征：合作性强、勤奋、数学好、高度重视教育（Lee, 1996, p.25; Watkins & Biggs, 2001）。这被称为"优势型"或"文化[[Jing (Refined Mastery)|精通]]"理论（Ryan & Louie, 2005; Ninnes, Aitchison, & Kalos, 1999）。
+> 较晚近的一批研究试图纠正缺陷型偏见，转而强调中国学习者的正面特征：合作性强、勤奋、数学好、高度重视教育（Lee, 1996, p.25; Watkins & Biggs, 2001）。这被称为"优势型"或"文化[[Refined Mastery|精通]]"理论（Ryan & Louie, 2005; Ninnes, Aitchison, & Kalos, 1999）。
 
 **例（"模范少数族裔"的起源）：** Murphy（2005）追溯发现，这种"中国人勤奋上进"的正面形象，实际上可以追溯到美国内战后移民时期对华裔的"模范少数族裔"（model minority）建构（Ryan, 2010, p.45）。当时这个标签的政治功能是：用"看，这个少数族裔多努力多成功"来含蓄地贬低其他少数族裔。今天在教育领域，它同样给不符合"勤奋"模板的中国学生造成压力——一个对教育没有"高度重视"的中国学生，不仅要面对学业困难，还要面对"你不像中国人"的隐性指责。
 

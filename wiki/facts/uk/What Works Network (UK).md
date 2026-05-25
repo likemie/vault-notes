@@ -2,16 +2,16 @@
 title: What Works Network (UK)
 aliases:
   - 英国What Works网络
-summary: "英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴"
+summary: 英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴
 type: fact
 subtype: policy
 region: uk
-issuing_organization: ''
+issuing_organization: ""
 tags:
-- evidence-based-policy
-- uk
-- evidence-clearing-house
-- region/uk
+  - evidence-based-policy
+  - uk
+  - evidence-clearing-house
+  - region/uk
 related_concepts:
   - "[[Effect Size]]"
   - "[[Feedback]]"
@@ -30,8 +30,8 @@ sources:
   - "[[Cowen_2015_CHESS]]"
 confidence: high
 status: draft
-created: '2026-05-01'
-updated: '2026-05-18'
+created: 2026-05-01
+updated: 2026-05-18
 ---
 ## 背景
 

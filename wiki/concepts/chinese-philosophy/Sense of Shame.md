@@ -1,5 +1,5 @@
 ---
-title: Shame (Confucianism)
+title: Sense of Shame
 aliases:
 - 耻
 - 恥

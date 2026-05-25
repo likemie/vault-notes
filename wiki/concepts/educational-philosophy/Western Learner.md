@@ -12,7 +12,7 @@ tags:
 - field/comparative-education
 - theme/learning
 related_concepts:
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Refined Mastery]]"
   - "[[Revoicing]]"
   - "[[Ideal Learner]]"
   - "[[Chinese Learner]]"
@@ -161,7 +161,7 @@ updated: 2026-05-24
 
 **说话作为领导力特质**（pp.81-83）。从古希腊十大阿提卡演说家、Demosthenes、Cicero，到近代的丘吉尔、罗斯福、肯尼迪、马丁·路德·金和奥巴马——"西方拥有一长串以雄辩著称的政治领袖名单"。在民主制度中，口头辩论是立法审议的首要手段——"没有言辞程序和实践，西方风格民主如何进行是根本不可想象的"（Li, 2012, p.82）。宗教领袖同样依赖于讲道——"对许多人来说，是否继续参加某个教堂的决定取决于他是否喜欢讲道的质量"（Li, 2012, p.82）。
 
-**说话作为艺术**（pp.83-86）。从古希腊的智者们（sophists）将修辞发展为收费职业开始，到亚里士多德提出说服三要素——**ethos**（道德品格/信誉）、**pathos**（情感诉求）、**logos**（逻辑推理），再到 Cicero 的演说五步骤（inventio 构思 → dispositio 结构 → elocutio 风格 → memoria 记忆 → actio 呈现），以及 Quintilian 设计的从出生到老年的完整"完美演说家"教育方案。Cicero 提出的"理想演说家"需要[[Jing (Refined Mastery)|精通]]法律、政治、历史、文学、伦理、战争、医学和数学——这一理念本质上是**西方博雅教育（liberal arts education）的核心**（Li, 2012, pp.85-86）。至今，美国大学校园中公共演讲课长盛不衰——学生"经常需要排长队等候才能选上这门课"（Li, 2012, p.86）。
+**说话作为艺术**（pp.83-86）。从古希腊的智者们（sophists）将修辞发展为收费职业开始，到亚里士多德提出说服三要素——**ethos**（道德品格/信誉）、**pathos**（情感诉求）、**logos**（逻辑推理），再到 Cicero 的演说五步骤（inventio 构思 → dispositio 结构 → elocutio 风格 → memoria 记忆 → actio 呈现），以及 Quintilian 设计的从出生到老年的完整"完美演说家"教育方案。Cicero 提出的"理想演说家"需要[[Refined Mastery|精通]]法律、政治、历史、文学、伦理、战争、医学和数学——这一理念本质上是**西方博雅教育（liberal arts education）的核心**（Li, 2012, pp.85-86）。至今，美国大学校园中公共演讲课长盛不衰——学生"经常需要排长队等候才能选上这门课"（Li, 2012, p.86）。
 
 ### 6. 西方说话风格：Grice 会话准则
 

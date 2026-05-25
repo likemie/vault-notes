@@ -57,19 +57,6 @@
     ]
   },
   {
-    "title": "Jing (Refined Mastery)",
-    "type": "concept",
-    "path": "wiki/concepts/chinese-philosophy/Jing (Refined Mastery).md",
-    "aliases": [
-      "精",
-      "精通",
-      "jing",
-      "refined mastery",
-      "perfected mastery",
-      "thorough understanding"
-    ]
-  },
-  {
     "title": "Junzi",
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Junzi.md",
@@ -88,6 +75,18 @@
       "学习美德",
       "Confucian learning virtues",
       "seven learning virtues"
+    ]
+  },
+  {
+    "title": "Refined Mastery",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Refined Mastery.md",
+    "aliases": [
+      "精",
+      "精通",
+      "refined mastery",
+      "perfected mastery",
+      "thorough understanding"
     ]
   },
   {
@@ -139,9 +138,9 @@
     ]
   },
   {
-    "title": "Shame (Confucianism)",
+    "title": "Sense of Shame",
     "type": "concept",
-    "path": "wiki/concepts/chinese-philosophy/Shame (Confucianism).md",
+    "path": "wiki/concepts/chinese-philosophy/Sense of Shame.md",
     "aliases": [
       "耻",
       "恥",
@@ -157,8 +156,7 @@
     "aliases": [
       "以天下为己任",
       "taking on the weight of the world",
-      "taking the world upon oneself",
-      "天下为己任"
+      "taking the world upon oneself"
     ]
   },
   {

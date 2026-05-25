@@ -1,21 +1,20 @@
 ---
-title: Jing (Refined Mastery)
+title: Refined Mastery
 aliases:
-- 精
-- 精通
-- jing
-- refined mastery
-- perfected mastery
-- thorough understanding
-summary: "中国学习过程的终极目标_勤奋三阶段的最后一步_从熟悉到练习到精炼完美的掌握_表现为透彻理解与运用自如_以庖丁解牛为典范"
+  - 精
+  - 精通
+  - refined mastery
+  - perfected mastery
+  - thorough understanding
+summary: 中国学习过程的终极目标_勤奋三阶段的最后一步_从熟悉到练习到精炼完美的掌握_表现为透彻理解与运用自如_以庖丁解牛为典范
 type: concept
 tags:
-- region/china
-- field/chinese-philosophy
-- field/cultural-psychology
-- theme/learning
-- theory/confucianism
-- theory/taoism
+  - region/china
+  - field/chinese-philosophy
+  - field/cultural-psychology
+  - theme/learning
+  - theory/confucianism
+  - theory/taoism
 related_concepts:
   - "[[Familiarization]]"
   - "[[Learning Virtues]]"

@@ -29,7 +29,7 @@ related_concepts:
   - "[[Junzi]]"
   - "[[Sage]]"
   - "[[Pride in Learning]]"
-  - "[[Jing (Refined Mastery)]]"
+  - "[[Refined Mastery]]"
   - "[[Establishing One's Will (lizhi)]]"
   - "[[Ideal Learner]]"
 related_theories:
@@ -133,7 +133,7 @@ Li 在第 3 章通过"[[Prototype Methods|原型方法]]"（prototype methods）
 **中国学习模型**（Li, 2012, pp.103-113）：
 - 学习目的：道德／社会自我完善、获取知识／技能、贡献社会
 - 能动过程即五种学习美德：诚意／认真（renzhen）、勤奋／发奋（qinfen）、刻苦（keku）、恒心（hengxin）、专心（zhuanxin）
-- 成就类型：广度与深度／[[Jing (Refined Mastery)|精通]]知识、知识运用、知识与道德品质的统一
+- 成就类型：广度与深度／[[Refined Mastery|精通]]知识、知识运用、知识与道德品质的统一
 - 正面情感：[[Establishing One's Will (lizhi)|立志]]、热爱／激情／渴求、尊重／接纳、对成就的谦虚
 - 负面情感：缺乏渴望、傲慢、对学业不佳的羞耻／内疚
 

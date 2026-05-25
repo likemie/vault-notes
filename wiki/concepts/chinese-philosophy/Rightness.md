@@ -14,7 +14,7 @@ tags:
   - theme/ethics
 related_concepts:
   - "[[Ritual Propriety]]"
-  - "[[Shame (Confucianism)]]"
+  - "[[Sense of Shame]]"
   - "[[Self-Cultivation]]"
 related_theories: []
 related_methods: []
@@ -35,7 +35,7 @@ updated: 2026-05-22
 ## 定义
 
 > [!info]
-> 义（Rightness, righteousness, uprightness）是[[Confucius|孔子]]所列四项超越特定关系的通用道德原则之一，其余三项为礼（[[Ritual Propriety|propriety]]）、廉（integrity）和耻（[[Shame (Confucianism)|sense of shame]]）。义的本义是"在特定情境中某一行为的适宜性"，但经延伸和生活传统的积淀，该词表意"坚守正确之事和人类社群中的正义感，尤其在个人面对私利诱惑时"（Li, 2012, p.39-40）。
+> 义（Rightness, righteousness, uprightness）是[[Confucius|孔子]]所列四项超越特定关系的通用道德原则之一，其余三项为礼（[[Ritual Propriety|propriety]]）、廉（integrity）和耻（[[Sense of Shame|sense of shame]]）。义的本义是"在特定情境中某一行为的适宜性"，但经延伸和生活传统的积淀，该词表意"坚守正确之事和人类社群中的正义感，尤其在个人面对私利诱惑时"（Li, 2012, p.39-40）。
 
 ---
 
@@ -66,7 +66,7 @@ updated: 2026-05-22
 > [!tip]
 > - 与[[Mencius|孟子]]四端说的关联：羞恶之心 → 义（Li, 2012, pp.42-43）
 > - [[Ritual Propriety]] — 四项超越德目中的另一项，常与义并提
-> - [[Shame (Confucianism)]] — 羞耻感是触发义的内在机制
+> - [[Sense of Shame]] — 羞耻感是触发义的内在机制
 > - [[Self-Cultivation]] — 义是修身所必须发展的道德品质
 
 ---

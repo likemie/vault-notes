@@ -15,7 +15,7 @@ tags:
 - theme/ethics
 related_concepts:
   - "[[Rightness]]"
-  - "[[Shame (Confucianism)]]"
+  - "[[Sense of Shame]]"
   - "[[Five Cardinal Relationships]]"
   - "[[Benevolence]]"
 related_theories: []
@@ -55,7 +55,7 @@ updated: 2026-05-22
 > **礼在儒家道德体系中的位置**：礼是[[Confucius|孔子]]所列四项超越德目之一，其余三项为：
 > - [[Rightness|义]]（yi, 義）— 做正确的事，正义感
 > - 廉（lian, 廉）— 个人操守，诚实管理
-> - [[Shame (Confucianism)|耻]]（chi, 恥）— 羞耻感，作为自我纠正的动力（Li, 2012, pp.39-40）
+> - [[Sense of Shame|耻]]（chi, 恥）— 羞耻感，作为自我纠正的动力（Li, 2012, pp.39-40）
 
 ---
 
