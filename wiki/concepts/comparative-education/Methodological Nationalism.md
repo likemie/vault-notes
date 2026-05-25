@@ -1,7 +1,7 @@
 ---
 title: Methodological Nationalism
 aliases:
-- 方法论民族主义
+  - 方法论民族主义
 summary: "把民族国家视为现代社会自然单位的方法论立场，容易遮蔽全球联系、跨尺度过程和空间关系的复杂性"
 type: concept
 tags:
@@ -10,7 +10,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Classical Geopolitics]]"
-  - "[[Multiplicity (Massey)]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -65,7 +64,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Multiplicity (Massey)]] — Massey 的多重性概念直接挑战方法论民族主义对空间封闭和单一性的假设：如果空间本质上是多重的，那么以单一国家为单位就是分析上的简化
+> - [[Multiplicity]] — Massey 的多重性概念直接挑战方法论民族主义对空间封闭和单一性的假设：如果空间本质上是多重的，那么以单一国家为单位就是分析上的简化
 > - [[Doreen Massey]] — Massey 反复论证全球空间不是预先给定的、"在外面的"，而是被建构的、具体的、生活化的，这意味着不能先验地以国家边界划定分析范围
 
 ---
@@ -73,7 +72,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - **Massey（2005）的批判** — 方法论民族主义试图"驯服"空间的开放性和[[Multiplicity (Massey)|多重性]]，消解其恐怖与创造性的双重可能（Marginson, 2025, pp. 5–6）
+> - **Massey（2005）的批判** — 方法论民族主义试图"驯服"空间的开放性和[[Multiplicity|多重性]]，消解其恐怖与创造性的双重可能（Marginson, 2025, pp. 5–6）
 > - **全球尺度的不可化约性** — 不同尺度共存且不可相互化约，如国家科学的规范中心是国家，而全球科学没有规范中心，由期刊、文献计量、传播网络和合作关系构成。这意味着"国家+全球"的双层分析同样不足以捕捉高等教育空间的多重性（Marginson, 2025, pp. 8–9）
 > - **超越方法论民族主义不意味着否定国家** — Marginson 强调，批判方法论民族主义不等于认为国家不重要。大学"几乎不可能不是国家的"（双重空间性）。关键在于不将国家视为唯一分析框架（Marginson, 2025, p. 8）
 

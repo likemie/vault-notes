@@ -1,8 +1,8 @@
 ---
 title: Jean-Jacques Rousseau
 aliases:
-- 卢梭
-- Rousseau
+  - 卢梭
+  - Rousseau
 summary: "法国启蒙思想家与教育哲学家，以《爱弥儿》《社会契约论》深刻影响现代教育学和民主政治思想，主张自然教育、儿童本位与文明批判"
 type: person
 nationality: france

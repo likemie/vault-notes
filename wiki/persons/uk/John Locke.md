@@ -1,8 +1,8 @@
 ---
 title: John Locke
 aliases:
-- 洛克
-- Locke
+  - 洛克
+  - Locke
 summary: "英国哲学家与医生，经验论奠基人与自由主义政治哲学之父，以白板说挑战先天论，以自然权利论奠定现代民主宪政的思想基础"
 type: person
 nationality: uk

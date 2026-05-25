@@ -23,8 +23,6 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_facts:
-  - "[[What Works Clearinghouse (WWC)]]"
-  - "[[Comprehensive School Reform (CSR) Program]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
 sources:
@@ -48,7 +46,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - **1994** — Scriven 提出"黑箱 [[Randomised Controlled Trials|RCT]]"的概念，区分评估（evaluation）和解释（explanation）
-> - **医学起源**："什么有效"策略源自医学领域（Haynes et al., 2012; C4E, 2003），随机实验在医学中的特定功能是**测试和认证特定药物或（字面意义上的）治疗**为有效或无效。[[What Works Clearinghouse (WWC)|WWC]] 和 EEF Toolkit 明确采用了相同的认证取向——假设教育变革的模式是"经过验证的教育方法可以像产品一样被选择并提供给学生"（Peterson, 2016, p. 301）
+> - **医学起源**："什么有效"策略源自医学领域（Haynes et al., 2012; C4E, 2003），随机实验在医学中的特定功能是**测试和认证特定药物或（字面意义上的）治疗**为有效或无效。[[What Works Clearinghouse|WWC]] 和 EEF Toolkit 明确采用了相同的认证取向——假设教育变革的模式是"经过验证的教育方法可以像产品一样被选择并提供给学生"（Peterson, 2016, p. 301）
 > - **Cook (2002)** 的分析：考虑到 RCT 在教育中的可行性限制，Cook 建议聚焦于"治疗更短、需要很少或不需要教师培训……且学生是分配单位而非整个班级或学校"的干预——实际上将 RCT 限制于可直接交付给学生的商品化干预
 > - **2016** — Peterson 正式提出[[Mechanism Experiments|机制实验]]作为黑箱 RCT 的替代，主张"什么有效 2.0"
 
@@ -101,7 +99,7 @@ updated: '2026-05-18'
 > [!success] 实证发现
 > - 美国教育有效性试验超 90% 未显示影响（C4E, 2013）（Peterson, 2016, pp. 301–302）
 > - EEF 有效性试验中仅一项显示明确效应（Peterson, 2016, p. 301）
-> - 仅约 20.8% 的美国 [[Comprehensive School Reform (CSR) Program|CSR]] 拨款流向强证据项目（Slavin, 2002, p. 15）
+> - 仅约 20.8% 的美国 [[Comprehensive School Reform Program|CSR]] 拨款流向强证据项目（Slavin, 2002, p. 15）
 
 ## 争议与批评
 
@@ -114,7 +112,7 @@ updated: '2026-05-18'
 
 > [!example] 相关案例／政策
 > - [[EEF Teaching and Learning Toolkit]] — EEF 的试验资助和 Toolkit 聚合主要采用黑箱取向
-> - [[What Works Clearinghouse (WWC)]] — WWC 的认证模式直接复制了医学药物认证的黑箱逻辑（Peterson, 2016, pp. 300–301）
+> - [[What Works Clearinghouse]] — WWC 的认证模式直接复制了医学药物认证的黑箱逻辑（Peterson, 2016, pp. 300–301）
 
 ## 来源
 

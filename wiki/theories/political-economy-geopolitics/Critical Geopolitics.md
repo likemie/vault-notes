@@ -1,9 +1,9 @@
 ---
 title: Critical Geopolitics
 aliases:
-- 批判地缘政治学
-- 批判地缘政治
-- critical geopolitics
+  - 批判地缘政治学
+  - 批判地缘政治
+  - critical geopolitics
 summary: "把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实"
 type: theory
 tags:

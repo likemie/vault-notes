@@ -1,7 +1,7 @@
 ---
 title: Richard Castelo Branco
 aliases:
-- 理查德·卡斯特洛·布兰科
+  - 理查德·卡斯特洛·布兰科
 summary: "巴西剧场导演和文化实践者，EspectAtor 方法开发者，为教育研究理解贫民窟剧场、参与式表演与抵抗性学习提供案例。"
 type: person
 nationality: brazil

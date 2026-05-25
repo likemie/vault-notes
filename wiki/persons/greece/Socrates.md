@@ -1,7 +1,7 @@
 ---
 title: Socrates
 aliases:
-- 苏格拉底
+  - 苏格拉底
 summary: "古希腊哲学家，西方批判性思维的化身，以苏格拉底式追问法和未经省察的生活不值得过著称，未留下任何著作但通过柏拉图对话录影响西方教育传统"
 type: person
 nationality: greece

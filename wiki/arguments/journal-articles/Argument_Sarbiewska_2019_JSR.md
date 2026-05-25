@@ -25,7 +25,6 @@ related_persons:
   - "[[Dietrich Benner]]"
 related_facts:
   - "[[PISA]]"
-  - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
   - "[[Victorian HITS and Literacy Toolkit 2017]]"
   - "[[Australian Curriculum]]"
   - "[[The New Zealand Curriculum]]"
@@ -62,7 +61,7 @@ updated: '2026-05-18'
 > 1. **前提／观察**：新西兰和澳大利亚自 1980 年代起停止忽视研究数据，开始将教育政策建立在教育研究结果之上
 > 2. **论证步骤**：
 >    - 传统教育模型将"教学"等同于"学习"，课程是教师向学生传递的交换对象，评估仅用于分级
->    - 传统模型的弱点（[[Tomorrow's Schools Reforms (NZ 1989)]]：87% 校长认为资金不足、工作量增加、校际竞争加剧、教育质量不平等）催生了对证据本位方法的追求
+>    - 传统模型的弱点（[[Tomorrow's Schools Reforms]]：87% 校长认为资金不足、工作量增加、校际竞争加剧、教育质量不平等）催生了对证据本位方法的追求
 >    - VL 提供了量化框架（[[Effect Size|效应量]]四级划分），使教学干预的效果"可见"
 >    - 修正版教学三角重新定位了教师和学生的角色：教学和学习是两种独立活动，在课程目标的交汇处产生真正的教育
 >    - 政策重点从外部因素（家庭背景、校舍、技术）转向师生互动的质量
@@ -99,7 +98,7 @@ updated: '2026-05-18'
 > - 论文为文献综述而非实证研究，未提供原始数据
 > - 作者承认 VL 面临方法论和理论批评，但仍以支持性立场论述其政策价值
 > - 作者为波兰教育者，以波兰教育改革为隐含参照框架，可能存在选择偏倚
-> - 对新西兰和澳大利亚政策失败的讨论较为简略（仅提及 [[Tomorrow's Schools Reforms (NZ 1989)|Tomorrow's Schools]] 的负面[[Feedback|反馈]]）
+> - 对新西兰和澳大利亚政策失败的讨论较为简略（仅提及 [[Tomorrow's Schools Reforms|Tomorrow's Schools]] 的负面[[Feedback|反馈]]）
 
 ## 来源
 

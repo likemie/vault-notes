@@ -25,9 +25,7 @@ related_methods:
   - "[[Matching]]"
   - "[[Spirals of Inquiry]]"
 related_persons: []
-related_facts:
-  - "[[Investing in Innovation (i3) Program]]"
-  - "[[What Works Clearinghouse (WWC)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Peterson_2016_IJRME]]"
@@ -53,7 +51,7 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - 方法：文献综述（literature review），辅以与美英"什么有效"倡议的管理者、评估者和使用者的对话
 > - 范围：证据创造、证据本位实践和教育研究伙伴关系的文献
-> - 对话对象：主要参与美国 [[Investing in Innovation (i3) Program|i3]] 拨款和英国 EEF 的相关人员
+> - 对话对象：主要参与美国 [[Investing in Innovation Program|i3]] 拨款和英国 EEF 的相关人员
 
 ## 核心论证
 
@@ -107,7 +105,7 @@ updated: '2026-05-18'
 > - **定义机制的根本困难**：Peterson 承认机制的统一定义在教育和社会科学中"未解决"（p. 303），只在反事实教育研究范式内提供了可操作定义
 > - **缺乏教育领域的实证检验**：论文是概念性和方法论证性的——[[Mechanism Experiments|机制实验]]在教育中的大规模应用效果尚未被测试
 > - **经费限制**：从发展经济学和公共健康借鉴的方法可能需要教育领域无法承担的研究经费水平（p. 307）
-> - **依赖 What Works 制度基础设施的改革意愿**：提案的有效性取决于 EEF、IES、[[What Works Clearinghouse (WWC)|WWC]] 等机构是否愿意从根本上重新定位自身角色——从认证项目到编目机制（pp. 307–308）
+> - **依赖 What Works 制度基础设施的改革意愿**：提案的有效性取决于 EEF、IES、[[What Works Clearinghouse|WWC]] 等机构是否愿意从根本上重新定位自身角色——从认证项目到编目机制（pp. 307–308）
 
 ## 来源
 

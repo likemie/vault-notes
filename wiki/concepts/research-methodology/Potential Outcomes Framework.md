@@ -9,8 +9,7 @@ tags:
 - causal-inference
 - subject/research-methodology
 - paradigm/positivist
-related_concepts:
-  - "[[Stable Unit Treatment Value Assumption (SUTVA)]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
@@ -65,8 +64,8 @@ updated: '2026-05-18'
 > 每种定义识别了一组特定的研究对象，对其需要平均因果效应（Berk, 2011, p.194; Imbens, 2004, pp.6–7）。如果这些区分被忽视，"可信的证据不太可能产生"（Berk, 2011, p.194）。
 
 
-> [!abstract] 稳定单位处理价值假设（[[Stable Unit Treatment Value Assumption (SUTVA)|SUTVA]]）
-> 潜在结果框架的一个关键假定是稳定单位处理价值假设（SUTVA），其违反——即主体间干扰（subject interference）——会导致因果效应不再被唯一地定义（详见 [[Stable Unit Treatment Value Assumption (SUTVA)]]）。
+> [!abstract] 稳定单位处理价值假设（[[Stable Unit Treatment Value Assumption|SUTVA]]）
+> 潜在结果框架的一个关键假定是稳定单位处理价值假设（SUTVA），其违反——即主体间干扰（subject interference）——会导致因果效应不再被唯一地定义（详见 [[Stable Unit Treatment Value Assumption]]）。
 
 
 > [!abstract] 在评估研究中的传播

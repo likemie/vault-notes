@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Policy Borrowing]]"
-  - "[[Externalization (Schriewer)]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -82,7 +81,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／政策
 > - [[Cross-National Attraction]] — 跨国参照在国内政治条件下转化为制度借用。  
 > - [[Policy Borrowing]] — 吸引阶段进入实质借用阶段的典型历史事件。  
-> - [[Externalization (Schriewer)]] — 同一日本经验被不同阵营赋予不同的改革正当性。
+> - [[Externalization]] — 同一日本经验被不同阵营赋予不同的改革正当性。
 
 ## 来源
 

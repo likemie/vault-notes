@@ -23,7 +23,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
-  - "[[Comprehensive School Reform (CSR) Program]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Success for All]]"
 related_arguments: []
@@ -53,7 +52,7 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - **方法**：政策分析与方法论论证（非实证研究）
 > - **发表于**：2002 年 AERA 年会 Dewitt Wallace-Reader's Digest 杰出讲座
-> - **证据基础**：引用美国联邦教育政策文件（[[Comprehensive School Reform (CSR) Program|CSR]] 拨款数据、[[No Child Left Behind Act 2001|NCLB]] 法案文本、OERI 战略计划）、方法论文献、Slavin 本人及同事的研究实践案例（[[Success for All]] 随机化评估经验）
+> - **证据基础**：引用美国联邦教育政策文件（[[Comprehensive School Reform Program|CSR]] 拨款数据、[[No Child Left Behind Act 2001|NCLB]] 法案文本、OERI 战略计划）、方法论文献、Slavin 本人及同事的研究实践案例（[[Success for All]] 随机化评估经验）
 
 ## 核心论证
 
@@ -79,7 +78,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> - 截至 2002 年，[[Comprehensive School Reform (CSR) Program|CSR]] 拨款中仅 20.8% 流向具有"强证据"的项目，63.2% 流向混合/无研究的项目或自创模型。(p. 15)
+> - 截至 2002 年，[[Comprehensive School Reform Program|CSR]] 拨款中仅 20.8% 流向具有"强证据"的项目，63.2% 流向混合/无研究的项目或自创模型。(p. 15)
 > - OERI 战略计划（2002–2007）设定了到 2004 年 75% 的因果研究使用随机分配的目标，而当时该比例可能低于 5%。(p. 15)
 > - 随机化实验在大多数政策相关的项目评估领域是可能的，需要充足的资源和政策制定者的合作。(pp. 17–18)
 > - 延迟处理对照组设计（delayed treatment control group）是一种在实践中更易招募学校的随机化替代方案：将学校随机分配到立即实施组和一年后实施组。(p. 18)
@@ -100,7 +99,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > 论文自身未系统讨论局限性，但可从文本识别以下问题：
 >
-> - **政策乐观主义**：Slavin 承认"这些政策发展尚未产生我预期的革命"——[[Comprehensive School Reform (CSR) Program|CSR]] 资金大多流向了未经证实的项目，[[No Child Left Behind Act 2001|NCLB]] 等新倡议"太新以至于尚未对实践或资助产生影响"。全文建立在"可能"和"潜力"之上。
+> - **政策乐观主义**：Slavin 承认"这些政策发展尚未产生我预期的革命"——[[Comprehensive School Reform Program|CSR]] 资金大多流向了未经证实的项目，[[No Child Left Behind Act 2001|NCLB]] 等新倡议"太新以至于尚未对实践或资助产生影响"。全文建立在"可能"和"潜力"之上。
 > - **方法论的中庸立场**：Slavin 同时主张"尽可能使用随机化"和"[[Matching|匹配]]实验也有价值"，这一双轨立场在修辞上灵活但可能导致政策上的模糊性——何时匹配实验"足够好"缺乏明确标准。
 > - **渐进改进假设**：Slavin 认为不需要"突破"（breakthroughs），渐进式改进就足够——这一假设未经验证，且回避了教育效果普遍较小且难以持续积累的实证问题。
 > - **对民主维度的忽视**：论文完全从技术效率角度论证证据本位政策，未讨论谁决定"什么值得研究"以及证据如何与民主教育决策互动——这一问题后来被 Biesta (2007, 2010) 系统展开。

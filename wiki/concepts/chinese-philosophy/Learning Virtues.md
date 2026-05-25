@@ -1,9 +1,9 @@
 ---
 title: Learning Virtues
 aliases:
-- 学习美德
-- Confucian learning virtues
-- seven learning virtues
+  - 学习美德
+  - Confucian learning virtues
+  - seven learning virtues
 summary: "Li 从儒家文本与实证研究中识别出的核心学习品质_七种美德构成学习者的个人能动性_其中五种为行为美德（认真、勤奋、刻苦、恒心、专心）_两种为情感美德（尊师、谦虚）。概念地图中四美德构成好学心的子集群。"
 type: concept
 tags:
@@ -31,7 +31,6 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Prototype Methods]]"
-  - "[[Mother-Child Conversation (MCC)]]"
 related_persons:
   - "[[Confucius]]"
 related_facts: []
@@ -171,7 +170,7 @@ updated: 2026-05-23
 ### 家庭社会化：儒家式辅导中的美德传递
 
 > [!success]
-> Li 与 Heidi Fung 的母子对话研究（第 7 章）直接观察到了学习美德如何通过日常的母子对话（[[Mother-Child Conversation (MCC)|MCC]]）从一代传递到下一代（Li, 2012）。
+> Li 与 Heidi Fung 的母子对话研究（第 7 章）直接观察到了学习美德如何通过日常的母子对话（[[Mother-Child Conversation|MCC]]）从一代传递到下一代（Li, 2012）。
 
 **序列分析证据**：在对 !CD 组台湾母子对话的序列分析中，学习美德（mV / cV）是台湾母子对话的**引力中心**——无论对话以什么话题开头（心智活动、积极情感或消极情感），台湾母子都会在第二轮或第三轮**转回学习美德**（Li, 2012）。具体而言：
 

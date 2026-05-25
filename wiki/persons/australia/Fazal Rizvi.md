@@ -1,7 +1,7 @@
 ---
 title: Fazal Rizvi
 aliases:
-- 法扎尔·里兹维
+  - 法扎尔·里兹维
 summary: "澳大利亚高等教育与全球化研究学者，国际化与地缘政治批判分析代表人物，为教育研究理解亚洲崛起与全球高教重组提供框架。"
 type: person
 nationality: australia

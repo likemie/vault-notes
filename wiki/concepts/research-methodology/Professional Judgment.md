@@ -20,8 +20,7 @@ related_methods:
   - "[[Formative Evaluation]]"
 related_persons:
   - "[[John Hattie]]"
-related_facts:
-  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Qvortrup_2019_NordSTEP]]"
@@ -57,7 +56,7 @@ updated: '2026-05-23'
 > > 例：教师面对课堂中一个学生不理解某个概念时，需要综合：关于"什么最可能有效"的研究知识、该学生的具体情况、课堂的整体节奏，以及对自身教学的即时评估——这不是简单地"应用"一个研究发现的干预，而是一个在有限信息下做出的综合判断（编者类比）。
 
 > [!abstract] 证据解释中的专业判断
-> [[Students and Teachers Accessing Tomorrow (STAT)]] 案例说明，专业判断也发生在“证据已经产生之后”。STAT 的[[Formative Evaluation|形成性评价]]显示教师准备、数字资源使用、学生参与和学生中心教学有积极进展，但学生成就结果并不明确；是否继续支持该项目，取决于决策者如何权衡数字公民、技术公平、学生参与、教师实践改变和标准化成绩（Ross & Morrison, 2021, pp.121-123）。
+> [[Students and Teachers Accessing Tomorrow]] 案例说明，专业判断也发生在“证据已经产生之后”。STAT 的[[Formative Evaluation|形成性评价]]显示教师准备、数字资源使用、学生参与和学生中心教学有积极进展，但学生成就结果并不明确；是否继续支持该项目，取决于决策者如何权衡数字公民、技术公平、学生参与、教师实践改变和标准化成绩（Ross & Morrison, 2021, pp.121-123）。
 >
 > 例：同一份评价报告中，学校董事会成员可能更看重投入产出和成绩变化，校长可能更看重教师教学方式和学生技术接入的改善。两者不是在读不同证据，而是在用不同教育目标解释同一组证据（Ross & Morrison, 2021, pp.122-123）。
 

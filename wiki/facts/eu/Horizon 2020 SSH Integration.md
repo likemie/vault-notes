@@ -31,7 +31,7 @@ related_facts:
   - "[[Horizon Europe Missions]]"
 related_arguments: []
 sources:
-  - "[[Parreira do Amaral(Ed]]"
+  - "[[Parreira do Amaral(Ed.)_2022_Springer]]"
   - "[[Ch3_Parreira do Amaral_2022]]"
 confidence: low
 status: draft

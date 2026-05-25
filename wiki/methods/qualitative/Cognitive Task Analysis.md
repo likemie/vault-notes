@@ -1,8 +1,8 @@
 ---
 title: Cognitive Task Analysis
 aliases:
-- 认知任务分析
-- CTA
+  - 认知任务分析
+  - CTA
 summary: "针对复杂学习情境的研究与教学方法，分析专家认知过程和知识结构，强调教师激活而非促进"
 type: method
 method_type: qualitative

@@ -1,9 +1,9 @@
 ---
 title: International Education Hubs
 aliases:
-- 国际教育枢纽
-- IEH
-- International Education Hub
+  - 国际教育枢纽
+  - IEH
+  - International Education Hub
 summary: "Knight 提出的概念，指国家战略性地把自身定位为教育、培训、知识生产和创新活动中心的地缘政治项目。"
 type: concept
 tags:

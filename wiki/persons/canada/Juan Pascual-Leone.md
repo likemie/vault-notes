@@ -1,7 +1,7 @@
 ---
 title: Juan Pascual-Leone
 aliases:
-- 胡安·帕斯夸尔-莱昂内
+  - 胡安·帕斯夸尔-莱昂内
 summary: "加拿大神经心理学家和新皮亚杰理论家，M-power模型提出者，为教育研究连接认知发展阶段与信息加工能力提供桥梁。"
 type: person
 nationality: canada

@@ -1,7 +1,7 @@
 ---
 title: Sami Moisio
 aliases:
-- 萨米·莫伊西奥
+  - 萨米·莫伊西奥
 summary: "芬兰政治地理学者，知识经济化与知识经济地缘政治概念提出者，为教育研究分析高教、城市与国家竞争的空间政治提供框架。"
 type: person
 nationality: finland

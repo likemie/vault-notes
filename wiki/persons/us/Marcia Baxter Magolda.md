@@ -1,7 +1,7 @@
 ---
 title: Marcia Baxter Magolda
 aliases:
-- 马西娅·巴克斯特·马戈尔达
+  - 马西娅·巴克斯特·马戈尔达
 summary: "美国教育心理学家，自我主导性理论提出者，为教育研究理解大学生认知、身份与意义建构发展提供重要框架。"
 type: person
 nationality: us

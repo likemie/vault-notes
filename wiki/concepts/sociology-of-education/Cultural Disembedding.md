@@ -1,8 +1,8 @@
 ---
 title: Cultural Disembedding
 aliases:
-- 文化脱嵌
-- cultural disembedding
+  - 文化脱嵌
+  - cultural disembedding
 summary: "弱势背景学生进入精英大学后对物理环境与社会文化环境产生的全面疏离感，用于描述高等教育文化障碍的环境脱嵌维度。"
 type: concept
 tags:

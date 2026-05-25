@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
-  - "[[Externalization (Schriewer)]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -79,7 +78,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／政策
 > - [[Cross-National Attraction]] — 跨国参照在美国国内改革辩论中被持续放大。  
 > - [[Policy Borrowing]] — 参照升温并未自动转化为全国性制度借用。  
-> - [[Externalization (Schriewer)]] — 外部比较被用于重组国内改革正当性。  
+> - [[Externalization]] — 外部比较被用于重组国内改革正当性。  
 > - [[A Nation at Risk 1983]] — 1980 年代危机叙事的关键政策节点。
 
 ## 来源

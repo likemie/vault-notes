@@ -1,8 +1,8 @@
 ---
 title: Goal-Controlled Mode
 aliases:
-- 目标掌控模式
-- goal-controlled mode
+  - 目标掌控模式
+  - goal-controlled mode
 summary: "大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连"
 type: concept
 tags:
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Academic and Social Integration]]"
   - "[[Student Engagement]]"
   - "[[Social Engagement]]"
-  - "[[Graduation Pathway Typology (Zheng)]]"
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
@@ -128,7 +127,7 @@ updated: '2026-05-18'
 > - **经纬**（南方大学数学系，上海人，父母企业中层）：选数学因获知"以后想做什么东西都可以转"。紧盯投行交易员目标，毕业手握多家投行 offer，最终选择全球顶尖投行交易员职位。典型体现了"工作服务于终极目标"的目标掌控思维（[[Yajun Zheng|郑雅君]]，2023）
 > - **泽斌**（南方大学光电工程，东部城市，父母企业中层）：专业被调剂，通过名企实习找到商业营销方向。大四放弃保研，拿到知名游戏公司市场营销岗位。核心理念——"我一直坚信就是所有东西都是'我想'最重要"（郑雅君，2023）
 > - [[Recommendation-Based Graduate Admission System]] — 推免制度以累积学分绩点为核心选拔依据，天然有利于从大一起就有策略性学业规划的目标掌控者（郑雅君，2023）
-> - 亚类型分化：[[Self-Driven Mode|自主驱动者]]（策略性行动能力 + 深层内化价值信念）与[[Opportunist Mode|机会主义者]]（策略性行动能力但缺乏自洽价值信念），详见 [[Graduation Pathway Typology (Zheng)]]（郑雅君，2023）
+> - 亚类型分化：[[Self-Driven Mode|自主驱动者]]（策略性行动能力 + 深层内化价值信念）与[[Opportunist Mode|机会主义者]]（策略性行动能力但缺乏自洽价值信念），详见 [[Graduation Pathway Typology]]（郑雅君，2023）
 
 ---
 

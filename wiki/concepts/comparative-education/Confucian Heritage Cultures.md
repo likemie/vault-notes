@@ -1,11 +1,11 @@
 ---
 title: Confucian Heritage Cultures
 aliases:
-- 儒家文化圈
-- 儒家遗产文化
-- CHC
-- Confucian-heritage cultures
-- CHC learner
+  - 儒家文化圈
+  - 儒家遗产文化
+  - CHC
+  - Confucian-heritage cultures
+  - CHC learner
 summary: "Watkins 与 Biggs (1996) 为研究中国学习者悖论而提出的分类概念，涵盖中国、香港、台湾、新加坡、日本、韩国、越南等受儒家学习传统影响的国家和地区。Li (2012) 进一步将 CHC 学习特征追溯至儒家修身传统与实证研究。"
 type: concept
 tags:

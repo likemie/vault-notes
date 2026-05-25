@@ -14,12 +14,9 @@ tags:
   - theme/ability-vs-effort
   - theme/cultural-psychology
 related_concepts:
-  - "[[Nerd (School Peer Culture)]]"
   - "[[Entity vs Incremental Intelligence]]"
   - "[[Feedback]]"
-  - "[[Zero-Sum Competition (School)]]"
   - "[[Intellectual-Social Divide]]"
-  - "[[Codeswitcher (School)]]"
   - "[[Doxa]]"
 related_theories: []
 related_methods: []
@@ -39,7 +36,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> 天赋假设（talent assumption）是 Li (2012) 在分析西方 [[Nerd (School Peer Culture)|nerd]] 同伴文化时识别的一种深层文化信念：**智力成就主要来源于先天禀赋（天赋、天才），而非后天努力。** 根据这一假设，一个人在学术领域的表现——尤其是卓越的表现——被认为反映了他天生被赋予的智力水平（Li, 2012, pp.96–98）。
+> 天赋假设（talent assumption）是 Li (2012) 在分析西方 [[Nerd|nerd]] 同伴文化时识别的一种深层文化信念：**智力成就主要来源于先天禀赋（天赋、天才），而非后天努力。** 根据这一假设，一个人在学术领域的表现——尤其是卓越的表现——被认为反映了他天生被赋予的智力水平（Li, 2012, pp.96–98）。
 
 这一信念的历史根源可追溯至 Francis Galton 的《Hereditary Genius》（1869/2006 重印）——该书首次系统论证"天才是遗传的"——并延续至 Hernstein 和 Murray 的《The Bell Curve》（1994）等当代争论。Li 指出，这一假设之所以难以被彻底反驳，是因为日常生活中确实存在明显的天赋差异（莫扎特、毕加索、爱因斯坦），使得天赋假设具有直观的"常识"感召力（Li, 2012, pp.96–97）。
 
@@ -79,11 +76,11 @@ updated: 2026-05-24
 ## 在同伴文化中的后果
 
 > [!warning]
-> 天赋假设是 [[Nerd (School Peer Culture)|nerd]] 同伴文化的关键发动机之一，与 [[Zero-Sum Competition (School)|零和竞争]]和 [[Intellectual-Social Divide|知性-社交二分]]共同构成 nerd 文化的因果网络（Li, 2012, pp.94–99）：
+> 天赋假设是 [[Nerd|nerd]] 同伴文化的关键发动机之一，与 [[Zero-Sum Competition|零和竞争]]和 [[Intellectual-Social Divide|知性-社交二分]]共同构成 nerd 文化的因果网络（Li, 2012, pp.94–99）：
 
 1. **低能力 + 努力 = 双重骚扰**：在 Bishop 研究中，那些被认为"能力低但仍然努力学习"的学生受到了最严重的同伴骚扰——因为他们被认为在"徒劳地改变不可改变的命运"
 2. **高能力 + 不努力 = 免于骚扰**：成绩来自高 IQ（被视为无意的、天生的）的学生很少受到制裁——"effortless perfection"（毫不费力的完美）在同伴中不被视为威胁
-3. **[[Codeswitcher (School)|努力隐藏]]的普遍化**：中学生广泛使用各种策略隐藏努力，"不仅是为了躲避同伴骚扰，更是为了避免被教师视为低能力"（Li, 2012, p.97）
+3. **[[Codeswitcher|努力隐藏]]的普遍化**：中学生广泛使用各种策略隐藏努力，"不仅是为了躲避同伴骚扰，更是为了避免被教师视为低能力"（Li, 2012, p.97）
 
 详细的论证链和跨文化对比见 Li (2012) 第 6 章第 3 步。
 

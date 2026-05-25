@@ -1,8 +1,8 @@
 ---
 title: Thousand Talents Program
 aliases:
-- 千人计划
-- Thousand Talents Plan
+  - 千人计划
+  - Thousand Talents Plan
 summary: "中国海外高层次人才引进计划，被美方视为制度化知识盗窃机制，中美技术紧张焦点"
 type: fact
 subtype: event
@@ -19,9 +19,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[US-China Economic and Security Review Commission (2000)]]"
-  - "[[Sino-American Trade War (2018)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Ch5_Partaken_2022]]"
@@ -53,13 +51,13 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning]
-> - Partaken 主要引述美方立场（[[US-China Economic and Security Review Commission (2000)|USCC]]、FBI），对中方关于千人计划的官方表述（作为正常的国际人才流动机制）未给予对等呈现
+> - Partaken 主要引述美方立场（[[US-China Economic and Security Review Commission|USCC]]、FBI），对中方关于千人计划的官方表述（作为正常的国际人才流动机制）未给予对等呈现
 > - 该章将[[Knowledge Transfer|知识转移]]中的地缘政治冲突归因于三种不可互相化约的冲突源：权力（中共与国家科技领导小组）、资源（"Made in China 2025"战略）和意识形态（"中国梦"）（Partaken, 2022, p.79）
 
 ## 相关概念／政策
 
 > [!example]
-> - [[Sino-American Trade War (2018)]] — 千人计划是中美技术转移争端的关键议题之一
+> - [[Sino-American Trade War]] — 千人计划是中美技术转移争端的关键议题之一
 > - [[Economic and Industrial Espionage]] — 千人计划在 [[Geopolitics of Knowledge|GPK]] 分析框架中被定位为跨越合法与非法边界的知识获取机制
 
 ## 来源

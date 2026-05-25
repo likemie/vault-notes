@@ -1,7 +1,7 @@
 ---
 title: Gita Steiner-Khamsi
 aliases:
-- 吉塔·施泰纳-卡姆西
+  - 吉塔·施泰纳-卡姆西
 summary: "美国比较教育学者，政策借用与借出政治分析代表人物，为教育研究把注意力从政策内容转向能动者、利益与流通过程提供框架。"
 type: person
 nationality: us
@@ -21,8 +21,7 @@ related_persons: []
 related_arguments: []
 sources:
   - "[[Rappleye_2006_RCIE]]"
-related_facts:
-  - "[[Liberal Studies (Hong Kong)]]"
+related_facts: []
 confidence: medium
 status: draft
 created: '2026-05-06'
@@ -86,7 +85,7 @@ updated: '2026-05-19'
 > [!note-] 思想发展与影响
 > - Steiner-Khamsi 的研究深刻影响了比较教育的"[[Policy Borrowing|政策借用]]"转向，将分析焦点从"转移了什么"转向"谁在转移、为何转移"
 > - 她的框架被 Rappleye (2006) 用作概念地图中"前转移能动性"和"改革行动者"部分的理论基础
-> - 影响了 Yan & Morris (2025) 对[[Liberal Studies (Hong Kong)|香港通识教育科]]创立与废除阶段的政策借用分析
+> - 影响了 Yan & Morris (2025) 对[[Liberal Studies|香港通识教育科]]创立与废除阶段的政策借用分析
 
 ## 来源
 

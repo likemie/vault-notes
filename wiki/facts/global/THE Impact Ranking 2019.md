@@ -1,9 +1,9 @@
 ---
 title: THE Impact Ranking 2019
 aliases:
-- THE世界大学影响力排名
-- Times Higher Education Impact Ranking
-- THE SDG ranking
+  - THE世界大学影响力排名
+  - Times Higher Education Impact Ranking
+  - THE SDG ranking
 summary: "2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标"
 type: fact
 subtype: policy

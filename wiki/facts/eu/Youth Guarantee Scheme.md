@@ -1,8 +1,8 @@
 ---
 title: Youth Guarantee Scheme
 aliases:
-- 青年保障计划（欧盟）
-- EU Youth Guarantee
+  - 青年保障计划（欧盟）
+  - EU Youth Guarantee
 summary: "EU 2013 年理事会建议书，确保青年在离校或失业后 4 个月内获得就业、教育、培训或学徒机会"
 type: fact
 subtype: policy

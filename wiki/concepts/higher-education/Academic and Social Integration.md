@@ -1,10 +1,10 @@
 ---
 title: Academic and Social Integration
 aliases:
-- 学习社交融入理论
-- 学业融入与社交融入
-- Tinto 融入理论
-- academic and social integration
+  - 学习社交融入理论
+  - 学业融入与社交融入
+  - Tinto 融入理论
+  - academic and social integration
 summary: "解释大学生如何通过学术融入与社交融入逐步稳定留在高等教育体系中的学生发展概念，强调归属感与参与质量的重要性"
 type: concept
 tags:

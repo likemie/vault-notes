@@ -1,9 +1,9 @@
 ---
 title: China College Graduate Employment Reform 1986-1997
 aliases:
-- 中国高校毕业生就业制度改革 1986-1997
-- 双向选择制度
-- 并轨招生
+  - 中国高校毕业生就业制度改革 1986-1997
+  - 双向选择制度
+  - 并轨招生
 summary: "从统包统分到双向选择的高校毕业生就业市场化改革，1986 提出→1989 批准→1994 并轨试点→1997 全国实施"
 type: fact
 subtype: policy

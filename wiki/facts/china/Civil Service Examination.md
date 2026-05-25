@@ -1,10 +1,10 @@
 ---
 title: Civil Service Examination
 aliases:
-- 科举
-- 科举制度
-- imperial examination
-- keju
+  - 科举
+  - 科举制度
+  - imperial examination
+  - keju
 summary: "中国自 7 世纪至 1905 年延续超过 1300 年的官员选拔制度，将道德成就、学术学习、政治权力和社会地位前所未有地融为一体"
 type: fact
 subtype: event

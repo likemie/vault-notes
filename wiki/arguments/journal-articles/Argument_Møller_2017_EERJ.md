@@ -22,7 +22,6 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[PISA]]"
-  - "[[Education at a Glance (EAG)]]"
 related_arguments: []
 sources: []
 part_of: ''
@@ -117,7 +116,7 @@ updated: '2026-05-18'
 > - 对 ISSPP 方法论的批判虽然有力，但未提出具体的替代性研究设计方案
 > - "[[Transformative Leadership|变革型领导力]]"框架本身的操作化仍不清晰
 > - 论文定位为 Keynote 演讲性质，论证的展开深度有限（全文约 10 页）
-> - 论证依赖于对 OECD 报告的选择性阅读——OECD 在 [[Education at a Glance (EAG)|EAG]] 中也提到了历史和文化差异的适应性需求
+> - 论证依赖于对 OECD 报告的选择性阅读——OECD 在 [[Education at a Glance|EAG]] 中也提到了历史和文化差异的适应性需求
 
 ## 来源
 

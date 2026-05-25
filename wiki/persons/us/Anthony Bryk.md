@@ -1,7 +1,7 @@
 ---
 title: Anthony Bryk
 aliases:
-- 安东尼·布赖克
+  - 安东尼·布赖克
 summary: "美国教育研究者和组织改进学者，改进科学与网络化改进共同体代表人物，推动以持续系统改进回应教育问题。"
 type: person
 nationality: us

@@ -1,7 +1,7 @@
 ---
 title: Sean McCusker
 aliases:
-- 肖恩·麦卡斯克
+  - 肖恩·麦卡斯克
 summary: "英国社会科学研究者，证据本位教学科学观批判合作者，为教育研究反思方法崇拜与简化科学形象提供补充论证。"
 type: person
 nationality: uk

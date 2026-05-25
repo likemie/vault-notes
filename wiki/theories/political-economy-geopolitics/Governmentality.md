@@ -36,7 +36,6 @@ related_theories:
   - "[[Societies of Control]]"
 related_methods:
   - "[[Matching]]"
-  - "[[Single-Case Design (SCD)]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -101,7 +100,7 @@ updated: 2026-05-23
 
 远距治理是治理术运作的空间机制：权力并不直接作用于被治理者，而是通过重塑关系、想象和话语——在"远处"组织行为。Zelinka（2022, pp.251-252）援引 Bell 和 Green（2016, p.240）将新自由主义界定为一种**理性**（rationality），它"重新想象、解释和组装人与物之间的关系以实现远距治理"。Ball（2010, p.135）则以原文强调的方式指出，新自由主义治理术"在远处组织全球教育转型"（organises the global transformation of education *at a distance*）。
 
-远距治理的关键不在于物理距离，而在于治理**不依赖直接命令**，而是通过创造可欲的自我引导形式来操控个体。在 21 世纪 [[Single-Case Design (SCD)|SCD]] 的案例中，远距治理体现为：不被任何单一机构或政府所控制的 SCD 框架，通过界定"未来所需的关键技能"来远距塑造全球教育政策和个体行为——各国政府和个体"自愿"采纳这些框架，因为不采纳意味着在全球竞争中落后（Zelinka, 2022, pp.259-260）。
+远距治理的关键不在于物理距离，而在于治理**不依赖直接命令**，而是通过创造可欲的自我引导形式来操控个体。在 21 世纪 [[Single-Case Design|SCD]] 的案例中，远距治理体现为：不被任何单一机构或政府所控制的 SCD 框架，通过界定"未来所需的关键技能"来远距塑造全球教育政策和个体行为——各国政府和个体"自愿"采纳这些框架，因为不采纳意味着在全球竞争中落后（Zelinka, 2022, pp.259-260）。
 
 ### 全球治理技术（Global Governmental Technology）
 
@@ -151,7 +150,7 @@ Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘
 > - [[Promising Student]] — 治理术视角下的主体形态分析：如何通过自我技术被"呼唤"出来
 > - [[Competitiveness in Higher Education]] — 竞争力作为地缘政治装置，通过[[Performance Indicators|绩效指标]]和排名塑造大学的治理术自我理解
 > - [[Geopolitics of Knowledge]] — Zelinka（2022）将其概念化为全球治理技术，通过远距治理的三重机制运作（问题化与个体化、授权[[Knowledge Production|知识生产]]、主体化与区分）
-> - [[21st Century Skills and Competencies Discourse]] — [[Single-Case Design (SCD)|SCD]] 框架是远距治理的典型案例：通过界定"未来所需技能"远距引导各国教育政策和个体的自我塑造（Zelinka, 2022, pp.258-260）
+> - [[21st Century Skills and Competencies Discourse]] — [[Single-Case Design|SCD]] 框架是远距治理的典型案例：通过界定"未来所需技能"远距引导各国教育政策和个体的自我塑造（Zelinka, 2022, pp.258-260）
 > - [[School Effectiveness]] — 学校效能研究在英国政策中的转译可被理解为一种把学校构造成可检查、可比较、可改进对象的治理技术；它通过测量、检查、排行榜和失败学校命名等机制，把学校与教师重新纳入政策管理（Ball, 2008, pp.663-665）
 
 ## 来源

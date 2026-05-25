@@ -1,9 +1,9 @@
 ---
 title: Whole Sustainability
 aliases:
-- 整体可持续性
-- whole sustainability
-- Whole Sustainability
+  - 整体可持续性
+  - whole sustainability
+  - Whole Sustainability
 summary: "把可持续性理解为纳入局部社区生命力量、关系网络和内外部威胁的整体性概念。"
 type: concept
 tags:

@@ -19,12 +19,10 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Single-Case Design (SCD)]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
-  - "[[What Works Clearinghouse (WWC)]]"
   - "[[Campbell Collaboration]]"
 related_arguments: []
 sources:
@@ -37,7 +35,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> 针对 Maggin et al. (2013) 的结论——[[What Works Clearinghouse (WWC)|WWC]] 审查程序未捕获 [[21st Century Skills and Competencies Discourse|SCD]] 研究推广性所需的细节——本文试图澄清：WWC 的 [[Single-Case Design (SCD)|SCD]] 审查程序（设计标准 + 审查协议 + SCD Review Guide）确实系统地捕获了推广性信息，此外还应用了一个新颖的证据充分性阈值（5-3-20 规则）（Hitchcock et al., 2015, pp.460–461）。
+> 针对 Maggin et al. (2013) 的结论——[[What Works Clearinghouse|WWC]] 审查程序未捕获 [[21st Century Skills and Competencies Discourse|SCD]] 研究推广性所需的细节——本文试图澄清：WWC 的 [[Single-Case Design|SCD]] 审查程序（设计标准 + 审查协议 + SCD Review Guide）确实系统地捕获了推广性信息，此外还应用了一个新颖的证据充分性阈值（5-3-20 规则）（Hitchcock et al., 2015, pp.460–461）。
 >
 > 论文的核心问题可以分解为两个层面：
 > 1. WWC 审查程序如何捕获推广性标准（回应 Maggin et al. 的批评）
@@ -58,17 +56,17 @@ updated: '2026-05-18'
 
 > [!info] 研究方法
 > - **方法**：评论（Commentary）——对 Maggin et al. (2013) 的回应性评论
-> - **论证方式**：基于作者作为 [[What Works Clearinghouse (WWC)|WWC]] [[21st Century Skills and Competencies Discourse|SCD]] 标准共同开发者（Kratochwill 和 Hitchcock 是标准技术文档的作者）和专家组成员的第一手知识，对审查程序进行解释性澄清
-> - **数据来源**：WWC [[Single-Case Design (SCD)|SCD]] Pilot Standards 技术文档（Kratochwill et al., 2010）、SCD Review Guide（公开可获取）、WWC Repeated Reading 干预报告（2014）
+> - **论证方式**：基于作者作为 [[What Works Clearinghouse|WWC]] [[21st Century Skills and Competencies Discourse|SCD]] 标准共同开发者（Kratochwill 和 Hitchcock 是标准技术文档的作者）和专家组成员的第一手知识，对审查程序进行解释性澄清
+> - **数据来源**：WWC [[Single-Case Design|SCD]] Pilot Standards 技术文档（Kratochwill et al., 2010）、SCD Review Guide（公开可获取）、WWC Repeated Reading 干预报告（2014）
 
 ## 核心论证
 
 > [!example] 核心论证
 > ### 1. 误解的来源
 >
-> Maggin et al. (2013) 得出"[[What Works Clearinghouse (WWC)|WWC]] 标准未捕获推广性细节"的结论是"合理的——如果仅考虑 WWC 的 [[21st Century Skills and Competencies Discourse|SCD]] 设计标准"（Hitchcock et al., 2015, p.460）。但审查程序不能仅从设计标准本身理解：
+> Maggin et al. (2013) 得出"[[What Works Clearinghouse|WWC]] 标准未捕获推广性细节"的结论是"合理的——如果仅考虑 WWC 的 [[21st Century Skills and Competencies Discourse|SCD]] 设计标准"（Hitchcock et al., 2015, p.460）。但审查程序不能仅从设计标准本身理解：
 >
-> - **设计标准**只是三个组件之一——审查还必须考虑**审查协议**（指定研究问题、目标人群、结果领域、场所）和 **[[Single-Case Design (SCD)|SCD]] Review Guide**（一个系统化数据库，记录所有[[Observational and Correlational Research|相关研究]]细节后再做评估）（p.461）
+> - **设计标准**只是三个组件之一——审查还必须考虑**审查协议**（指定研究问题、目标人群、结果领域、场所）和 **[[Single-Case Design|SCD]] Review Guide**（一个系统化数据库，记录所有[[Observational and Correlational Research|相关研究]]细节后再做评估）（p.461）
 > - 由于截至 2015 年 WWC 发布的 SCD 报告"极少"，公开可见的标准应用信息有限，"也许导致一些人假设标准未处理这一重要问题"（p.461）
 >
 > ### 2. 推广性细节确实被捕获
@@ -100,16 +98,16 @@ updated: '2026-05-18'
 >
 > 2. **外部效度判断更复杂且有内在原因**：评估外部效度比内部效度更复杂，部分原因是"许多因素或实验特征可能代表推广能力的威胁，有些因素容易识别，有些则不是"（p.462）；另一原因是审查者不知道消费者希望推广到何处（p.463）
 >
-> 3. **[[21st Century Skills and Competencies Discourse|SCD]] 的外部效度面临额外的普遍偏见**：存在一种普遍（但错误）的信念认为 [[Single-Case Design (SCD)|SCD]] 证据不能推广，尽管事实上可以（Barlow et al., 2009），这使得 SCD 的外部效度评估比 [[Randomised Controlled Trials|RCT]] 更困难（p.467）
+> 3. **[[21st Century Skills and Competencies Discourse|SCD]] 的外部效度面临额外的普遍偏见**：存在一种普遍（但错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广，尽管事实上可以（Barlow et al., 2009），这使得 SCD 的外部效度评估比 [[Randomised Controlled Trials|RCT]] 更困难（p.467）
 >
-> 4. **[[What Works Clearinghouse (WWC)|WWC]] 的 Repeated Reading 报告（2014）提供了具体例证**：附录 E 中包含一项通过标准的 SCD 研究及其推广性信息，展示了审查程序的实际运作（p.466）
+> 4. **[[What Works Clearinghouse|WWC]] 的 Repeated Reading 报告（2014）提供了具体例证**：附录 E 中包含一项通过标准的 SCD 研究及其推广性信息，展示了审查程序的实际运作（p.466）
 
 ## 可继续提取的信息
 
 > [!note-] 可继续提取的信息
-> - **[[21st Century Skills and Competencies Discourse|SCD]] 的基础定义与适用范围**：论文明确将 [[Single-Case Design (SCD)|SCD]] 定义为一类通过在不同条件下重复测量特定行为或技能、以个体或小群体作为自身控制来评估干预效果的实验方法，并说明它起源于心理学，已用于教育、医学、言语和语言治疗等领域（Hitchcock et al., 2015, p.460）。
+> - **[[21st Century Skills and Competencies Discourse|SCD]] 的基础定义与适用范围**：论文明确将 [[Single-Case Design|SCD]] 定义为一类通过在不同条件下重复测量特定行为或技能、以个体或小群体作为自身控制来评估干预效果的实验方法，并说明它起源于心理学，已用于教育、医学、言语和语言治疗等领域（Hitchcock et al., 2015, p.460）。
 > - **单项 SCD 与政策证据之间的距离**：作者指出，一项 SCD 研究即便可能改变局部实践，也通常不足以支持政策变革；更强证据需要汇集不同研究团队、不同参与者和不同场所中的多项 SCD 研究（Hitchcock et al., 2015, p.460）。
-> - **推广性判断的具体信息项**：[[What Works Clearinghouse (WWC)|WWC]] SCD Review Guide 记录基线描述、因变量操作性定义、自变量/干预描述、参与者描述和场所描述；这些信息不是被评分，而是提供给读者判断研究发现是否适用于自己的情境（Hitchcock et al., 2015, pp.464–466）。
+> - **推广性判断的具体信息项**：[[What Works Clearinghouse|WWC]] SCD Review Guide 记录基线描述、因变量操作性定义、自变量/干预描述、参与者描述和场所描述；这些信息不是被评分，而是提供给读者判断研究发现是否适用于自己的情境（Hitchcock et al., 2015, pp.464–466）。
 > - **外部效度的结构性难题**：作者强调，审查者往往不知道消费者希望把证据推广到哪一个具体"点"；这解释了为什么 WWC 选择描述推广性信息，而不是给每个推广性维度设置统一阈值（Hitchcock et al., 2015, pp.462–463, 466）。
 > - **SCD 证据的社会认识论问题**：论文指出，存在一种普遍但错误的信念，认为 SCD 证据不能推广；作者认为 SCD 信息如何支持原始研究场所以外的情境判断仍需进一步澄清（Hitchcock et al., 2015, p.467）。
 
@@ -131,13 +129,13 @@ updated: '2026-05-18'
 >
 > 1. **5-3-20 规则的任意性**：规则"在某种程度上是任意的"（p.466），类似于 p < .05 的惯例也是任意的（Cohen, 1994）
 > 2. **阈值可能过于严格或过于宽松**：可能"功能性压制"信息，也可能被证明"过于宽松"（p.467）
-> 3. **推广性评分的缺位**：[[What Works Clearinghouse (WWC)|WWC]] 不设推广性标准的具体阈值（如"场所描述是否足够好"），而是留给消费者判断——这在某些情况下可能不够（p.467）
+> 3. **推广性评分的缺位**：[[What Works Clearinghouse|WWC]] 不设推广性标准的具体阈值（如"场所描述是否足够好"），而是留给消费者判断——这在某些情况下可能不够（p.467）
 > 4. **需要更多实践检验**：作者承认"在澄清 [[21st Century Skills and Competencies Discourse|SCD]] 信息如何能为原研究场所以外的情境提供信息方面，还有很多工作要做"（p.467）
 >
 > ### 外部批评视角
 >
 > 1. **回应性质的局限**：作为对 Maggin et al. (2013) 的评论，论证的焦点是防御性澄清而非批判性检验——论文未深入讨论 WWC 审查程序的潜在问题
-> 2. **第一人称视角的利益冲突**：作者是 WWC [[Single-Case Design (SCD)|SCD]] 标准的共同开发者，可能倾向于为其辩护而非独立评估
+> 2. **第一人称视角的利益冲突**：作者是 WWC [[Single-Case Design|SCD]] 标准的共同开发者，可能倾向于为其辩护而非独立评估
 > 3. **推广性评估的结构性空白**：即使审查程序捕获了推广性信息，将判断责任推给消费者的做法可能不公平——许多从业者和政策制定者缺乏评估推广性的方法论训练
 
 ## 来源

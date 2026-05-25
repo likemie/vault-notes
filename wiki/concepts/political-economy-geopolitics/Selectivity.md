@@ -1,10 +1,10 @@
 ---
 title: Selectivity
 aliases:
-- 选择性（治理）
-- 政策选择性
-- policy selectivity
-- strategic selectivity
+  - 选择性（治理）
+  - 政策选择性
+  - policy selectivity
+  - strategic selectivity
 summary: "治理中的结构性偏向机制，使某些政策选项、行动者和利益更容易获得支持，而其他替代方案被系统性边缘化"
 type: concept
 tags:

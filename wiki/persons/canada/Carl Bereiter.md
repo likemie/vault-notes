@@ -1,7 +1,7 @@
 ---
 title: Carl Bereiter
 aliases:
-- 卡尔·贝赖特
+  - 卡尔·贝赖特
 summary: "加拿大教育理论家，知识建构理论代表人物，为教育研究理解学习共同体、知识创造与认知发展提供关键框架。"
 type: person
 nationality: canada

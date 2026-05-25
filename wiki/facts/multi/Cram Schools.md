@@ -20,7 +20,6 @@ tags:
   - theme/shadow-education
   - theme/academic-pressure
 related_concepts:
-  - "[[Nerd (School Peer Culture)]]"
   - "[[Examination Hell]]"
 related_theories: []
 related_methods: []
@@ -61,7 +60,7 @@ updated: 2026-05-23
 
 **儿童自身的看法：**
 - 存在普遍的同伴压力，人人都在追求更好的学业成绩
-- 学业好的人更受同伴喜欢和接纳，不被贴上"[[Nerd (School Peer Culture)|书呆子]]"标签（与美国不同）
+- 学业好的人更受同伴喜欢和接纳，不被贴上"[[Nerd|书呆子]]"标签（与美国不同）
 - 学业差反而可能导致同伴排斥
 - 因此，尽管不喜欢上更多课，他们视额外学习为重要和必要的，并愿意继续在补习班努力学习（Li, 2012, p.68–69）
 

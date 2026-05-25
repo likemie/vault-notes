@@ -1,9 +1,9 @@
 ---
 title: Student Involvement
 aliases:
-- 学生涉入
-- student involvement
-- Astin 涉入理论
+  - 学生涉入
+  - student involvement
+  - Astin 涉入理论
 summary: "Astin 提出的概念，指学生投入到学习和校园生活中的生理与心理能量的数量和质量。"
 type: concept
 tags:

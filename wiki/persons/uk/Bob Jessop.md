@@ -1,7 +1,7 @@
 ---
 title: Bob Jessop
 aliases:
-- 鲍勃·杰索普
+  - 鲍勃·杰索普
 summary: "英国社会学家和政治经济学家，文化政治经济学代表人物，为教育研究分析知识经济想象、国家战略与高教治理提供工具。"
 type: person
 nationality: uk

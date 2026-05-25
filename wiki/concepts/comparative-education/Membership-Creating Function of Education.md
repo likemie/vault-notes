@@ -16,9 +16,7 @@ related_theories:
   - "[[World Society Theory]]"
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Liberal Studies (Hong Kong)]]"
-  - "[[Citizenship and Social Development (Hong Kong)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Ch4_Amos_2022]]"
@@ -42,7 +40,7 @@ updated: '2026-05-18'
 
 > [!example] 概念辨析
 > - vs [[Nation Building through Education]] — 国族建构理论关注的是国家如何在**边疆地区**和**多元族群**中推行统一身份认同；membership-creating 是更基础性的机制——它解释的是为什么**所有**现代国家都建立了大众教育系统，不仅是边疆。前者是政策策略，后者是社会功能
-> - vs Citizenship Education — 公民教育是课程层面的实践（教什么内容）；membership-creating 是制度层面的功能（教育系统本身在做什么）。公民教育可以更改为不同的内容（如香港从 [[Liberal Studies (Hong Kong)|LS]] 到 [[Citizenship and Social Development (Hong Kong)|CSD]]），但 membership-creating 功能本身——通过教育划定"谁属于我们"——是结构性的
+> - vs Citizenship Education — 公民教育是课程层面的实践（教什么内容）；membership-creating 是制度层面的功能（教育系统本身在做什么）。公民教育可以更改为不同的内容（如香港从 [[Liberal Studies|LS]] 到 [[Citizenship and Social Development|CSD]]），但 membership-creating 功能本身——通过教育划定"谁属于我们"——是结构性的
 >
 
 ## 核心要素

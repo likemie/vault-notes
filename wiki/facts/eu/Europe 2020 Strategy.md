@@ -1,9 +1,9 @@
 ---
 title: Europe 2020 Strategy
 aliases:
-- 欧洲2020战略
-- EU 2020 Strategy
-- Europe 2020
+  - 欧洲2020战略
+  - EU 2020 Strategy
+  - Europe 2020
 summary: "EU 2010–2020 十年战略规划，以“智能、可持续与包容性增长“为框架，涵盖就业、研发、气候、教育、减贫五大领域"
 type: fact
 subtype: policy

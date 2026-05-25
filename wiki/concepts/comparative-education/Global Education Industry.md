@@ -1,9 +1,9 @@
 ---
 title: Global Education Industry
 aliases:
-- 全球教育产业
-- GEI
-- global education industry
+  - 全球教育产业
+  - GEI
+  - global education industry
 summary: "教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域"
 type: concept
 tags:
@@ -29,7 +29,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Partnership Schools Kura Hourua (NZ 2011)]]"
   - "[[Minerva University]]"
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
@@ -92,7 +91,7 @@ updated: '2026-05-18'
 
 ## 实证发现
 
-- 研究揭示了 GEI 过程的复杂性和不同表现形式——从传统的公私合作伙伴关系（如[[Partnership Schools Kura Hourua (NZ 2011)|特许学校]]）到新型的教育科技初创公司和全球高等教育平台（Verger et al., 2016, cited in Parreira do Amaral, 2022, p.43）
+- 研究揭示了 GEI 过程的复杂性和不同表现形式——从传统的公私合作伙伴关系（如[[Partnership Schools Kura Hourua|特许学校]]）到新型的教育科技初创公司和全球高等教育平台（Verger et al., 2016, cited in Parreira do Amaral, 2022, p.43）
 - 研究关注了 GEI 中行动者的运作理性、行动逻辑和运作模式，使评估来自这些平台、联盟和连接的日益增长的影响成为可能（Parreira do Amaral & Thompson, 2019, cited in Parreira do Amaral, 2022, p.43）
 - [[Minerva University]] 是 GEI 中一个旨在"颠覆"现有高等教育模式的最新实例，结合了风险资本、教育技术和全球定位（Parreira do Amaral, 2022, pp.45–48）
 - [[Corporate Education|企业教育]]市场的集中化趋势：全球最大 e-learning 提供商 Skillsoft 覆盖 160 国、29 种语言、500,000+ 课程，2017 年月访问量 1.3 亿+；Wilson Learning Worldwide 覆盖 50+ 国、30 种语言。IT 巨头（Microsoft、LinkedIn Learning）通过 IPR 排他性和平台网络效应获得了近乎强制型的市场地位——如 Microsoft 通过 Windows 操作系统的垄断地位，使其认证培训成为事实上的行业标准，抵制几乎不可能（Hartmann, 2022, pp.190, 192–193）

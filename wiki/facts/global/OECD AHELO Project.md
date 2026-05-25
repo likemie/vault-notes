@@ -1,9 +1,9 @@
 ---
 title: OECD AHELO Project
 aliases:
-- AHELO
-- 高等教育学习成果评估
-- Assessment of Higher Education Learning Outcomes
+  - AHELO
+  - 高等教育学习成果评估
+  - Assessment of Higher Education Learning Outcomes
 summary: "OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败"
 type: fact
 subtype: event
@@ -21,7 +21,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Academic Ranking of World Universities (ARWU)]]"
   - "[[PISA]]"
 related_arguments: []
 sources:
@@ -37,7 +36,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info]
-> [[Global Universities Rankings|全球大学排名]]几乎全部以研究产出指标为核心，没有任何全球排名使用直接反映教育结果质量的指标（唯一的例外是 [[Academic Ranking of World Universities (ARWU)|ARWU]] 中以诺贝尔奖和菲尔兹奖校友数量作为指标）。为弥补这一空白，经济合作与发展组织（OECD）启动了"高等教育学习成果评估"（AHELO）项目，试图建立类似 [[PISA]]（国际学生评估项目）的高等教育阶段学习成果统一测量工具（Boyadjieva, 2022, pp.135–136）。
+> [[Global Universities Rankings|全球大学排名]]几乎全部以研究产出指标为核心，没有任何全球排名使用直接反映教育结果质量的指标（唯一的例外是 [[Academic Ranking of World Universities|ARWU]] 中以诺贝尔奖和菲尔兹奖校友数量作为指标）。为弥补这一空白，经济合作与发展组织（OECD）启动了"高等教育学习成果评估"（AHELO）项目，试图建立类似 [[PISA]]（国际学生评估项目）的高等教育阶段学习成果统一测量工具（Boyadjieva, 2022, pp.135–136）。
 
 ---
 
@@ -72,7 +71,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - [[Global Universities Rankings]] — AHELO 试图填补排名系统对教学质量测量的空白
-> - [[Academic Ranking of World Universities (ARWU)]] — ARWU 是唯一以校友获奖间接反映教育结果的全球排名
+> - [[Academic Ranking of World Universities]] — ARWU 是唯一以校友获奖间接反映教育结果的全球排名
 
 ---
 

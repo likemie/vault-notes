@@ -1,8 +1,8 @@
 ---
 title: Immanuel Kant
 aliases:
-- 康德
-- Kant
+  - 康德
+  - Kant
 summary: "德国哲学家，启蒙运动与德国古典哲学的核心人物，以三大批判重塑认识论、伦理学与美学，其心智范畴论调和了先天论与经验论的千年之争"
 type: person
 nationality: germany

@@ -1,8 +1,8 @@
 ---
 title: René Descartes
 aliases:
-- 笛卡尔
-- Descartes
+  - 笛卡尔
+  - Descartes
 summary: "法国哲学家、数学家与科学家，近代哲学之父，以我思故我在和心物二元论奠定现代认识论基础，将苏格拉底—柏拉图先天论推向新的高峰"
 type: person
 nationality: france

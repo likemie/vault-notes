@@ -1,9 +1,9 @@
 ---
 title: UAE Education Hub Projects
 aliases:
-- 阿联酋教育枢纽项目
-- 阿联酋教育枢纽
-- UAE Education Hub
+  - 阿联酋教育枢纽项目
+  - 阿联酋教育枢纽
+  - UAE Education Hub
 summary: "阿联酋 2004 年以来以经济多元化和全球融合为驱动的国家教育枢纽项目，阿布扎比侧重文化外交、迪拜侧重政治经济，呈现联邦内空间分工的独特模式"
 type: fact
 subtype: policy

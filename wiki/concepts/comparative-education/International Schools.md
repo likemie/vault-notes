@@ -1,8 +1,8 @@
 ---
 title: International Schools
 aliases:
-- 国际学校
-- international school
+  - 国际学校
+  - international school
 summary: "面向跨国流动家庭、本地精英或国际课程需求而设立的学校类型，兼具国际化、市场化和精英教育特征"
 type: concept
 tags:
@@ -16,7 +16,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[International Baccalaureate (IB)]]"
   - "[[Education City Doha]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
@@ -41,7 +40,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Boarding Schools|寄宿学校]] — 寄宿学校位于学校母国境内、学生从海外返回就读；国际学校分布于世界各地、学生就地就读于海外。详见 寄宿学校对比表
-> - vs 本地公立学校 — 国际学校以英语为主要教学语言、收取全额学费、采用国际课程（如 [[International Baccalaureate (IB)|IB]]）；本地公立学校使用母语教学、政府资助、遵循国家课程
+> - vs 本地公立学校 — 国际学校以英语为主要教学语言、收取全额学费、采用国际课程（如 [[International Baccalaureate|IB]]）；本地公立学校使用母语教学、政府资助、遵循国家课程
 > - vs 海外分校 — 海外分校是大学层面的机构（如 [[Education City Doha|多哈教育城]]），国际学校是 K-12 层面的机构
 
 ---
@@ -86,7 +85,7 @@ updated: '2026-05-18'
 > [!abstract]
 > ### 课程国际化
 > 学生构成的多元化迫使国际学校重新思考课程和教学假设（Slethaug, 2010, pp.26–28）：
-> - 越来越多学校转向 [[International Baccalaureate (IB)|IB]] 课程，因其国家标识较少
+> - 越来越多学校转向 [[International Baccalaureate|IB]] 课程，因其国家标识较少
 > - 语言课程从单一母语转向双语/三语——如香港国际学校引入普通话
 > - 加拿大国际学校（香港）取消了安大略省公民课，因对不再在加拿大生活的学生缺乏相关性
 > - 澳大利亚、新西兰和英国的教师也感受到从本地关切转向更国际化内容的压力
@@ -125,7 +124,7 @@ updated: '2026-05-18'
 > [!example]
 > - [[English Schools Foundation Hong Kong]] — 香港最大英语学校体系，学生构成从全英侨转向 40%–50% 本地华人
 > - [[Fourth Culture]] — 本地学生在母国就读国际学校所处的特殊文化空间
-> - [[International Baccalaureate (IB)]] — 国际学校最广泛采用的"去国家化"课程方案
+> - [[International Baccalaureate]] — 国际学校最广泛采用的"去国家化"课程方案
 
 ---
 

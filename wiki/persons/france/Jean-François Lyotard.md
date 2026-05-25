@@ -1,9 +1,9 @@
 ---
 title: Jean-François Lyotard
 aliases:
-- 让-弗朗索瓦·利奥塔
-- 利奥塔
-- Lyotard
+  - 让-弗朗索瓦·利奥塔
+  - 利奥塔
+  - Lyotard
 summary: "法国后结构主义哲学家，后现代状况作者与知识合法化理论代表人物，为教育研究反思知识、权威与绩效逻辑提供框架。"
 type: person
 nationality: france

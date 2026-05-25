@@ -1,9 +1,9 @@
 ---
 title: Western Learner
 aliases:
-- 西方学习者
-- Western learner model
-- Western learning model
+  - 西方学习者
+  - Western learner model
+  - Western learning model
 summary: "Li (2012) 识别的西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比"
 type: concept
 tags:

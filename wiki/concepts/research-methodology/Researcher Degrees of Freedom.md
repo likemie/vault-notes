@@ -20,7 +20,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[What Works Clearinghouse (WWC)]]"
   - "[[Creation of REES 2018]]"
 related_arguments: []
 sources:
@@ -60,7 +59,7 @@ updated: '2026-05-18'
 > [!abstract] 在[[Developer Effect|开发者效应]]中的角色
 > Wolf et al. (2020, pp. 442–443) 讨论了研究者自由度作为开发者效应的可能解释，但指出两个不确定性：
 > - 不清楚开发者是否比独立研究者更滥用自由度——独立研究者同样面临发表压力
-> - [[What Works Clearinghouse (WWC)|WWC]] 标准和程序手册（Version 4.0）已经约束了部分自由度（如要求报告特定数据元素和允许的分析方法），但仍有"充裕的空间"（ample room）进行分析选择
+> - [[What Works Clearinghouse|WWC]] 标准和程序手册（Version 4.0）已经约束了部分自由度（如要求报告特定数据元素和允许的分析方法），但仍有"充裕的空间"（ample room）进行分析选择
 
 ## 与相关概念的区别
 

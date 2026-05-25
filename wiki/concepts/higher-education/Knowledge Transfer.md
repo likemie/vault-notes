@@ -1,9 +1,9 @@
 ---
 title: Knowledge Transfer
 aliases:
-- 知识转移
-- geopolitics of knowledge transfer
-- knowledge in motion
+  - 知识转移
+  - geopolitics of knowledge transfer
+  - knowledge in motion
 summary: "指知识在生产之后进入传授、挪用、流通、审查、窃取或破坏等动态过程的概念，用于分析知识如何在权力关系中移动。"
 type: concept
 tags:
@@ -27,10 +27,8 @@ related_persons:
   - "[[Frantz Fanon]]"
   - "[[Chen Kuan-Hsing]]"
 related_facts:
-  - "[[Kokutai no Hongi (1937)]]"
   - "[[China Social Credit System]]"
   - "[[Great Firewall of China]]"
-  - "[[Sino-American Trade War (2018)]]"
   - "[[Thousand Talents Program]]"
 related_arguments: []
 sources:
@@ -77,7 +75,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 > Partaken 识别出知识转移在 [[Geopolitics of Knowledge|GPK]] 中运作的六种模态（Partaken, 2022, p.75–84）：
-> - **[[Forced Knowledge Transfer]]**：通过规定、胁迫和暴力进行的自上而下知识灌输，以 [[Paulo Freire|Freire]] 的"银行概念"和日本帝国 [[Kokutai no Hongi (1937)]] 为典型案例
+> - **[[Forced Knowledge Transfer]]**：通过规定、胁迫和暴力进行的自上而下知识灌输，以 [[Paulo Freire|Freire]] 的"银行概念"和日本帝国 [[Kokutai no Hongi]] 为典型案例
 > - **[[Economic and Industrial Espionage]]**：国家支持或非国家行为者通过非法手段获取有价值知识，以 中美技术紧张 为当代核心案例
 > - **监视（Surveillance）**：通过大规模数据收集监控个体与群体的知识行为，以 Foucault 全景敞视主义为其运作逻辑，[[China Social Credit System]] 为当代典范
 > - **审查（Censorship）**：通过阻断知识获取和言论自由来干涉知识转移，以 [[Great Firewall of China]] 为制度典范
@@ -108,8 +106,8 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example]
-> - [[Sino-American Trade War (2018)]] — 中美知识转移紧张关系的贸易与安全维度
-> - [[Kokutai no Hongi (1937)]] — [[Forced Knowledge Transfer|强制知识转移]]的殖民历史案例
+> - [[Sino-American Trade War]] — 中美知识转移紧张关系的贸易与安全维度
+> - [[Kokutai no Hongi]] — [[Forced Knowledge Transfer|强制知识转移]]的殖民历史案例
 > - [[Great Firewall of China]] — 审查模态的核心制度工具
 > - [[Thousand Talents Program]] — 跨越合法与非法边界的知识转移机制
 

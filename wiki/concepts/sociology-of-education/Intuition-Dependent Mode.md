@@ -1,8 +1,8 @@
 ---
 title: Intuition-Dependent Mode
 aliases:
-- 直觉依赖模式
-- intuition-dependent mode
+  - 直觉依赖模式
+  - intuition-dependent mode
 summary: "大学生活组织实践的一种模式，表现为缺乏清晰规划、更多依赖直觉和情境反应来应对学习与发展选择。"
 type: concept
 tags:
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
-  - "[[Graduation Pathway Typology (Zheng)]]"
   - "[[Tongxue]]"
   - "[[Academic and Social Integration]]"
   - "[[Student Engagement]]"
@@ -75,7 +74,7 @@ updated: '2026-05-18'
 > - **1960s 原初洞察**：[[Pierre Bourdieu|Bourdieu]] & Passeron（1964）在 *Les Héritiers* 中描述的"考试能手"——"除考试外忘掉了一切"——已暗含直觉依赖模式的原型：将好学生等同于好成绩，缺乏对大学[[Champ|场域]]隐性规则的理解（[[Yajun Zheng|郑雅君]]，2023）
 > - **2014–2017 田野反转**：郑雅君在两所顶尖大学的首轮 38 名访谈中，发现部分学生的毕业出路更恰当地说是"被选择"——在全无计划的情形下临时抓住一个恰好够得着的机会。这一发现挑战了"学生毕业去向都是有意主动选择"的想当然假设，为双模式概念的提出奠定了基础（郑雅君，2023）
 > - **2023 理论整合**：与 [[Goal-Controlled Mode]] 同步提出，二者共同构成郑雅君（2023）"大学过程"分析框架的核心类型学维度
-> - **第五章细化**：在双模式基础上引入价值信念驱动力维度，将直觉依赖模式进一步区分为[[Lost Mode|迷失无从者]]和[[Value Conformist Mode|价值归顺者]]，详见 [[Graduation Pathway Typology (Zheng)]]（郑雅君，2023）
+> - **第五章细化**：在双模式基础上引入价值信念驱动力维度，将直觉依赖模式进一步区分为[[Lost Mode|迷失无从者]]和[[Value Conformist Mode|价值归顺者]]，详见 [[Graduation Pathway Typology]]（郑雅君，2023）
 
 ---
 
@@ -129,7 +128,7 @@ updated: '2026-05-18'
 > - **冰倩**（南方大学社科，湖南农村，第一代大学生）：轻信"大学好自由，喜欢的东西就努力追寻"，大一抱着"拿个 60 分就可以了"的心态，到大三才意识到绩点的重要性。无实习、未做求职准备、考研落榜，最终延毕。反复说自己"好傻"——"要是当时有谁跟我说说绩点决定很多东西，我估计就不会抱着那么随便的态度去学习了"（郑雅君，2023）
 > - **昌盛**（南方大学社科，甘肃偏僻农村，贫困专项计划）：上大学后发现"现实已经远远地偏离了我的预期"，大二陷入轻度抑郁——"每次出门我都会有一种恐惧，就是害怕与其他人交流"（郑雅君，2023）
 > - [[Recommendation-Based Graduate Admission System]] — 推免制度以大一至大三的累积学分绩点为选拔依据。直觉依赖者可能在入学初期未认识到学业成绩与推免资格的关联，等大二、大三意识到时为时已晚，错失最优升学路径（郑雅君，2023）
-> - 亚类型分化：[[Lost Mode|迷失无从者]]（缺乏策略性工具 + 无自洽价值信念）与[[Value Conformist Mode|价值归顺者]]（策略不足 + 内化家国理想图式），详见 [[Graduation Pathway Typology (Zheng)]]（郑雅君，2023）
+> - 亚类型分化：[[Lost Mode|迷失无从者]]（缺乏策略性工具 + 无自洽价值信念）与[[Value Conformist Mode|价值归顺者]]（策略不足 + 内化家国理想图式），详见 [[Graduation Pathway Typology]]（郑雅君，2023）
 
 ---
 

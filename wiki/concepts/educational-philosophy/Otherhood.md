@@ -1,8 +1,8 @@
 ---
 title: Otherhood
 aliases:
-- 为他者行动
-- 他者代理
+  - 为他者行动
+  - 他者代理
 summary: "组织为其他行动者、非行动者实体或抽象原则行使代理权的社会过程，用于解释现代机构如何代表更广泛价值与权威行动"
 type: concept
 tags:
@@ -18,7 +18,6 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Comprehensive School Reform (CSR) Program]]"
   - "[[UN Sustainable Development Goals 2015]]"
   - "[[THE Impact Ranking 2019]]"
 related_arguments: []
@@ -46,7 +45,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Organizational Actorhood]] — actorhood 描述组织作为自主行动者的一般特征（自主性、目标导向、问责性、社会嵌入性）；otherhood 是 actorhood 在社会嵌入性维度上的激进延伸。关键区别：actorhood 回答"组织如何成为一个能动者"，otherhood 回答"组织为谁行动"。一个大学可以具有很强的 actorhood（战略清晰、问责到位），但其研究可能主要服务于自身排名提升——这不构成 otherhood。Otherhood 要求组织的行动以他者利益为指向（Zapp, 2022, pp.148–149）
-> - vs 企业社会责任（[[Comprehensive School Reform (CSR) Program|CSR]]） — CSR 主要指企业对其利益相关者承担的经济、法律、伦理和慈善责任，本质上仍以企业自身的合法性为核心；otherhood 是一个更根本的社会学概念，不限于企业部门，涵盖所有类型组织为"他者"行使代理权的过程。二者的重叠在于：大学的 [[University Social Responsibility]] 实践可以被视为 otherhood 的制度化表达（Zapp, 2022, pp.152–153）
+> - vs 企业社会责任（[[Comprehensive School Reform Program|CSR]]） — CSR 主要指企业对其利益相关者承担的经济、法律、伦理和慈善责任，本质上仍以企业自身的合法性为核心；otherhood 是一个更根本的社会学概念，不限于企业部门，涵盖所有类型组织为"他者"行使代理权的过程。二者的重叠在于：大学的 [[University Social Responsibility]] 实践可以被视为 otherhood 的制度化表达（Zapp, 2022, pp.152–153）
 > - vs 慈善／利他主义 — 慈善和利他主义主要描述个体的道德行为；otherhood 是[[World Society Theory|世界社会理论]]中解释**组织层面**社会运作的机制性概念——它不依赖组织成员的道德品质，而是现代组织身份建构中的结构性特征（Zapp, 2022, p.149）
 
 ---
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Organizational Actorhood]] — actorhood 描述组织作为自主行动者的一般特征（自主性、目标导向、问责性、社会嵌入性）；otherhood 是 actorhood 中社会嵌入性维度的激进表达，强调组织的行动不以自我利益为中心，而以他者利益为中心（Zapp, 2022, p.149）
-> - vs 企业社会责任（[[Comprehensive School Reform (CSR) Program|CSR]]） — CSR 主要指企业对其利益相关者承担的经济、法律、伦理和慈善责任；otherhood 是一个更根本的社会学概念，不限于企业部门，涵盖所有类型组织为"他者"行使代理权的过程（Zapp, 2022, pp.152–153）
+> - vs 企业社会责任（[[Comprehensive School Reform Program|CSR]]） — CSR 主要指企业对其利益相关者承担的经济、法律、伦理和慈善责任；otherhood 是一个更根本的社会学概念，不限于企业部门，涵盖所有类型组织为"他者"行使代理权的过程（Zapp, 2022, pp.152–153）
 
 ---
 ## 概念演变
@@ -102,7 +101,7 @@ updated: '2026-05-18'
 > [!info]- 核心数据
 > - 大学与所有 IOs 平均合作产出 **40,000 篇**共同署名出版物（Zapp, 2017b，引自 Zapp, 2022, p.151）
 > - Bologna 大学报告 **1,174 个**与 [[UN Sustainable Development Goals 2015|SDGs]] 相关的课程单元（Zapp, 2022, p.152）
-> - 全球 **200+ 所**大学发布 [[Comprehensive School Reform (CSR) Program|CSR]]/可持续发展报告（Corporate Register, 2019，引自 Zapp, 2022, p.153）
+> - 全球 **200+ 所**大学发布 [[Comprehensive School Reform Program|CSR]]/可持续发展报告（Corporate Register, 2019，引自 Zapp, 2022, p.153）
 
 ---
 ## 相关案例／政策

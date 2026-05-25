@@ -1,9 +1,9 @@
 ---
 title: Epistemic Drift
 aliases:
-- 认识漂移
-- 知识漂移
-- epistemic drift
+  - 认识漂移
+  - 知识漂移
+  - epistemic drift
 summary: "指研究者和学术机构将研究议程系统性对齐外部资助方、政策方或市场偏好的漂移现象，用于分析科学自主性的弱化。"
 type: concept
 tags:

@@ -1,9 +1,9 @@
 ---
 title: Economy of Experience
 aliases:
-- 履历经济学
-- economy of experience
-- 履历资本
+  - 履历经济学
+  - economy of experience
+  - 履历资本
 summary: "大学生将课余经历、活动和自我展示精细投资管理以积累履历资本的竞争逻辑，是高等教育就业竞争向生活全域扩展的表现"
 type: concept
 tags:

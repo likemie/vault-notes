@@ -1,13 +1,13 @@
 ---
 title: Capability Approach in Education
 aliases:
-- 可行能力路径
-- capability approach
-- Sen's capability approach
-- 可行能力理论
-- 能力路径
-- capability theory
-- capabilities approach
+  - 可行能力路径
+  - capability approach
+  - Sen's capability approach
+  - 可行能力理论
+  - 能力路径
+  - capability theory
+  - capabilities approach
 summary: "Drèze & Sen (2002) 的可行能力路径在教育中的应用：区分教育对个人自由的五种价值（内在重要性、工具性个人/社会/过程角色、赋权与分配），Boyadjieva (2022) 以此为基础构建高等教育多维使命模型"
 type: theory
 tags:

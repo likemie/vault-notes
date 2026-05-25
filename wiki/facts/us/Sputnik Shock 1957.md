@@ -21,8 +21,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[International Indicators of Education Systems (INES)]]"
-  - "[[Education at a Glance (EAG)]]"
   - "[[PISA]]"
 related_arguments: []
 sources:
@@ -49,7 +47,7 @@ updated: '2026-05-18'
 >
 > - **1958 年美国《国防教育法》（National Defense Education Act）**：联邦政府大规模拨款支持科学、数学和外语教育——首次将教育直接与国家安全挂钩
 > - **科学和数学课程改革**：以"新数学"（New Math）和 PSSC 物理课程为代表的课程现代化运动，强调学科结构和探究方法，而非记忆和计算
-> - **OECD 的制度转向**：Sputnik Shock 后 OECD 开始系统性地将教育纳入其经济分析框架——从最初关注 STEM 学科，到后来发展为 [[International Indicators of Education Systems (INES)]] 项目和 [[Education at a Glance (EAG)]] 指标体系。Amos 强调："早在福利国家即将大规模扩张的战后年代，经济与知识的关联就已经被锻造"（Amos, 2022, p.56）
+> - **OECD 的制度转向**：Sputnik Shock 后 OECD 开始系统性地将教育纳入其经济分析框架——从最初关注 STEM 学科，到后来发展为 [[International Indicators of Education Systems]] 项目和 [[Education at a Glance]] 指标体系。Amos 强调："早在福利国家即将大规模扩张的战后年代，经济与知识的关联就已经被锻造"（Amos, 2022, p.56）
 > - **知识=国家竞争力的逻辑链**：Sputnik Shock 建立了"教育质量→科技能力→国家竞争力"的政策逻辑，这一逻辑后来被 OECD 的国际比较评估（[[PISA]] 等）制度化
 >
 > > 例：今天的 PISA 排名引发各国"教育危机"的讨论（"我们的学生数学排名又掉了！"），其逻辑原型就是 Sputnik Shock——"他们的教育系统比我们的好，所以他们在竞争中领先"。Sputnik Shock 是这种"教育地缘政治焦虑"的原始模板。

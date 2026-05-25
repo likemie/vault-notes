@@ -13,13 +13,10 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Performativity of Measurement]]"
-related_theories:
-  - "[[Science and Technology Studies (STS)]]"
+related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[International Indicators of Education Systems (INES)]]"
-  - "[[Education at a Glance (EAG)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"
@@ -47,25 +44,25 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] Instrumentalism（工具主义）
-> 关注测量实践中如何解决实际问题——约束如何被处理、利益如何被翻译、分类如何被定义、框架如何被协商、方法如何被建立、协议如何被制定。Gorur 以 [[International Indicators of Education Systems (INES)|INES]] 为案例展示了：面对技术不可行性，科学家放弃理论模型，采用以可用性为导向的经验方法（Gorur, 2014, p.8–12）。
+> 关注测量实践中如何解决实际问题——约束如何被处理、利益如何被翻译、分类如何被定义、框架如何被协商、方法如何被建立、协议如何被制定。Gorur 以 [[International Indicators of Education Systems|INES]] 为案例展示了：面对技术不可行性，科学家放弃理论模型，采用以可用性为导向的经验方法（Gorur, 2014, p.8–12）。
 
 
 > [!abstract] Performativity（施行性 / 生产性）
 > 测量一旦开始，就作用于世界，改变优先事项、影响行为、政策和实践。这是"世界制造"过程（Knorr Cetina, 1999; Law, 2009a; Pickering, 1995; Gorur, 2014, p.7, 17–18）。
 >
-> > 例：[[Education at a Glance (EAG)|EAG]] 指标存在本身就产生了政治压力——教师和学校可能试图影响数据以利于自身，或影响指标的选择（Oakes, 1986; Gorur, 2014, p.18）（Gorur, 2014, p.18）
+> > 例：[[Education at a Glance|EAG]] 指标存在本身就产生了政治压力——教师和学校可能试图影响数据以利于自身，或影响指标的选择（Oakes, 1986; Gorur, 2014, p.18）（Gorur, 2014, p.18）
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
 > - vs **[[Performativity of Measurement]]** — Sociology of Measurement 是包含 instrumentalism 和 performativity 两个维度的整体框架；Performativity 是其第二个维度
-> - vs **[[Science and Technology Studies (STS)]]** — STS 是更广泛的跨学科领域，Sociology of Measurement 是其一个特定分支
+> - vs **[[Science and Technology Studies]]** — STS 是更广泛的跨学科领域，Sociology of Measurement 是其一个特定分支
 > - vs **Statistics / Statistical Analysis** — 传统统计学关注准确性和代表性，测量社会学关注的则是测量实践如何同时是知识实践和治理实践
 
 ## 理论基础
 
 > [!info] 理论基础
-> - **[[Science and Technology Studies (STS)]]** — 共享 STS 的核心关注：知识如何被生产、动员、验证和挑战；拒绝自然/科学、社会/文化的二分（Gorur, 2014, p.6）
+> - **[[Science and Technology Studies]]** — 共享 STS 的核心关注：知识如何被生产、动员、验证和挑战；拒绝自然/科学、社会/文化的二分（Gorur, 2014, p.6）
 > - **Latour 的"科学在行动"** — 关注科学实践本身，而非科学的成品（Latour, 1987, 1999; Gorur, 2014, p.6）
 > - **Jasanoff 的共同生产（co-production）** — 科学与国家相互构成（Jasanoff, 2004; Gorur, 2014, p.6）
 
@@ -73,7 +70,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > Gorur 以 OECD 指标开发为案例展示测量社会学的应用：
-> - [[International Indicators of Education Systems (INES)|INES]] 项目通过一系列"排序"操作（Berg & Timmermans, 2000; Bowker & Star, 2000; Law, 1994）将多样化世界标准化（Gorur, 2014, p.9–10）
+> - [[International Indicators of Education Systems|INES]] 项目通过一系列"排序"操作（Berg & Timmermans, 2000; Bowker & Star, 2000; Law, 1994）将多样化世界标准化（Gorur, 2014, p.9–10）
 > - "共识"可视为一种"转译"（Callon, 1986; Latour, 1999），它消除或最小化阻碍（Gorur, 2014, p.17）
 > - 方法论的程序化产生了一种"机械客观性"（Porter, 1995），为政策制定者所珍视（Gorur, 2014, p.17）
 

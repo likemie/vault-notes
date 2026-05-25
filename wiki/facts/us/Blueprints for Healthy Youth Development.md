@@ -21,12 +21,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
-related_facts:
-  - "[[What Works Clearinghouse (WWC)]]"
-  - "[[Home Visiting Evidence of Effectiveness (HomVEE)]]"
-  - "[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]"
-  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)]]"
-  - "[[National Dropout Prevention Center (NDPC)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Wadhwa_2024_RER]]"
@@ -48,7 +43,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准编码中，Blueprints 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 为 0。也就是说，它描述了 RCT，但没有提供与 [[What Works Clearinghouse (WWC)|WWC]]、[[Home Visiting Evidence of Effectiveness (HomVEE)|HomVEE]] 或 [[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)|CMFR]] 同等细化的设计专属实施标准；它只简要提及一般 QED，未提及 RDD 与 ITS（Wadhwa et al., 2024, p.10）。
+> 在设计标准编码中，Blueprints 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 为 0。也就是说，它描述了 RCT，但没有提供与 [[What Works Clearinghouse|WWC]]、[[Home Visiting Evidence of Effectiveness|HomVEE]] 或 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 同等细化的设计专属实施标准；它只简要提及一般 QED，未提及 RDD 与 ITS（Wadhwa et al., 2024, p.10）。
 >
 > Blueprints 明确给单项研究设定"certified / not certified"判断，只有达到方法质量标准的研究才能进入项目评级。其研究质量评估要素包括处理分配程序、流失水平、基线等值程度、统计方法适当性、是否为 [[Intent-to-Treat Analysis|ITT]] 估计、结果性质、样本量、测量工具信度与效度等（Wadhwa et al., 2024, pp.13, 15）。
 
@@ -62,12 +57,12 @@ updated: '2026-05-18'
 ## 与其他清算中心的差异
 
 > [!abstract] 与其他清算中心的差异
-> 作者认为 Blueprints 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)|CEBC]] 属于标准最高的清算中心，主要原因是它们要求长期效果；Blueprints 还额外要求独立复制。相比之下，[[National Dropout Prevention Center (NDPC)|NDPC]] 的最高等级只需一项正向研究，且不要求 [[Randomised Controlled Trials|RCT]]、持续效果或独立复制（Wadhwa et al., 2024, p.15）。
+> 作者认为 Blueprints 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 属于标准最高的清算中心，主要原因是它们要求长期效果；Blueprints 还额外要求独立复制。相比之下，[[National Dropout Prevention Center|NDPC]] 的最高等级只需一项正向研究，且不要求 [[Randomised Controlled Trials|RCT]]、持续效果或独立复制（Wadhwa et al., 2024, p.15）。
 
 ## 相关概念／政策
 
 > [!example] 相关概念／政策
-> - [[Educational Evidence Clearinghouses]] — Blueprints 是 12 个被比较的清算中心之一，并在四个详细比较对象（[[What Works Clearinghouse (WWC)|WWC]]、Blueprints、[[National Dropout Prevention Center (NDPC)|NDPC]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)|CEBC]]）中代表高门槛评级模式（Wadhwa et al., 2024, pp.13–15）。
+> - [[Educational Evidence Clearinghouses]] — Blueprints 是 12 个被比较的清算中心之一，并在四个详细比较对象（[[What Works Clearinghouse|WWC]]、Blueprints、[[National Dropout Prevention Center|NDPC]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]]）中代表高门槛评级模式（Wadhwa et al., 2024, pp.13–15）。
 > - [[Evidence-Based Education]] — Blueprints 展示了 EBE 中"项目是否有证据"如何被复制、独立性和持续效果要求塑形（Wadhwa et al., 2024, pp.14–15）。
 > - [[Randomised Controlled Trials]] — Blueprints 的最高等级要求两项高质量 RCT，或一项高质量 RCT 加一项高质量 [[Quasi-Experimental Designs|QED]]（Wadhwa et al., 2024, p.13）。
 > - [[Intent-to-Treat Analysis]] — Blueprints 是明确要求 ITT 分析的三个清算中心之一（Wadhwa et al., 2024, p.9）。

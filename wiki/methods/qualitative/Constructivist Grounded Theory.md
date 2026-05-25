@@ -1,7 +1,7 @@
 ---
 title: Constructivist Grounded Theory
 aliases:
-- 建构主义扎根理论
+  - 建构主义扎根理论
 summary: "扎根理论的建构主义变体，强调概念与意义由研究者和被研究者在互动中共同生成，适合分析行动者如何赋予经验以解释框架"
 type: method
 method_type: qualitative

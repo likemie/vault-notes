@@ -31,7 +31,6 @@ related_arguments:
 sources:
   - "[[Wadhwa_2024_RER]]"
 related_facts:
-  - "[[What Works Clearinghouse (WWC)]]"
   - "[[ESSA 2015 Evidence Standards]]"
 confidence: medium
 status: draft
@@ -42,7 +41,7 @@ updated: 2026-05-23
 ## 定义
 
 > [!info]
-> 准实验设计（Quasi-Experimental Designs, QED）是在教育项目证据标准中被视为严格研究的一类量化设计。在 [[What Works Clearinghouse (WWC)]] 中，QED 是达到“有保留”证据标准的研究路径之一；在 [[ESSA 2015 Evidence Standards]] 中，QED 对应“中等证据”（Ross & Morrison, 2021, p.109）。
+> 准实验设计（Quasi-Experimental Designs, QED）是在教育项目证据标准中被视为严格研究的一类量化设计。在 [[What Works Clearinghouse]] 中，QED 是达到“有保留”证据标准的研究路径之一；在 [[ESSA 2015 Evidence Standards]] 中，QED 对应“中等证据”（Ross & Morrison, 2021, p.109）。
 
 ## 认识论立场
 

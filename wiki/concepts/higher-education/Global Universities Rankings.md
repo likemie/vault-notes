@@ -1,12 +1,12 @@
 ---
 title: Global Universities Rankings
 aliases:
-- 全球大学排名
-- university rankings
-- global rankings
-- league tables
-- global university rankings
-- University Rankings (Global)
+  - 全球大学排名
+  - university rankings
+  - global rankings
+  - league tables
+  - global university rankings
+  - University Rankings (Global)
 summary: "对高等教育机构进行比较性评估和排序的工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 tags:
@@ -29,7 +29,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Academic Ranking of World Universities (ARWU)]]"
   - "[[UN Sustainable Development Goals 2015]]"
   - "[[OECD AHELO Project]]"
   - "[[University of Kentucky Top-20 Plan]]"
@@ -67,7 +66,7 @@ updated: 2026-05-20
 > [!note]
 > 大学排名首先在国家层面出现。最早的大学排名之一为 **1983 年**《美国新闻与世界报道》（US News & World Report）发布的美国大学排名；加拿大《麦克林》（Maclean's）杂志的公立大学排名也已运行约十五年；欧盟委员会自 **2003 年**起发布涵盖约二十二所欧洲大学的排名（Slethaug, 2010, pp.5–6）。这些早期排名反映了人们对本国教育体系相对重要性的日益关注。
 
-> **2003 年**上海交通大学高等教育研究所发布了首个全球大学排名（[[Academic Ranking of World Universities (ARWU)|ARWU]]），次年 Times Higher Education（THE）推出其排名。此后，Leiden、Scimago、QS World University Rankings 和 European U-Multirank 等多个全球排名系统相继建立（Boyadjieva, 2022, p.131）。
+> **2003 年**上海交通大学高等教育研究所发布了首个全球大学排名（[[Academic Ranking of World Universities|ARWU]]），次年 Times Higher Education（THE）推出其排名。此后，Leiden、Scimago、QS World University Rankings 和 European U-Multirank 等多个全球排名系统相继建立（Boyadjieva, 2022, p.131）。
 
 > 不同排名机构的结果差异极大。以香港大学（HKU）为例，2007 年：ARWU 未将其列入前 300 名（2006 年排第 263，2008 年排 201–300 之间）；Webometrics 排第 156；THES-QS 排第 24；基于"网络流行度"的排名将其列为第 8——所有结果在同一年内得出，取决于评估机构和标准的不同（Slethaug, 2010, pp.10–11）。这种巨大差异表明，排名远非客观中立的测量，而是高度依赖于指标选择和价值判断的社会建构。
 
@@ -128,7 +127,7 @@ Thompson 等人（2022, pp.219–220）从 [[Competitiveness in Higher Education
 
 ### 排名作为空间制造
 
-Marginson（2025）将全球大学排名的创建定位为[[Space-Making in Higher Education|高等教育空间制造]]的典型案例。2002/2003 年，一位中国大学规划者和一家伦敦杂志构想了一个以校准绩效排名来排序的大学世界——[[Academic Ranking of World Universities (ARWU)|ARWU]] 由此诞生。这一构想结合了：（a）物质元素（既有研究产出数据、大学声誉层级）；（b）空间想象（一个可比较、可竞争的全球大学市场）；（c）社会实践（数据收集、指标加权和年度排名发布），将一种特定版本的"世界一流大学"想象固化为全球制度现实（Marginson, 2025, pp. 4–5）。
+Marginson（2025）将全球大学排名的创建定位为[[Space-Making in Higher Education|高等教育空间制造]]的典型案例。2002/2003 年，一位中国大学规划者和一家伦敦杂志构想了一个以校准绩效排名来排序的大学世界——[[Academic Ranking of World Universities|ARWU]] 由此诞生。这一构想结合了：（a）物质元素（既有研究产出数据、大学声誉层级）；（b）空间想象（一个可比较、可竞争的全球大学市场）；（c）社会实践（数据收集、指标加权和年度排名发布），将一种特定版本的"世界一流大学"想象固化为全球制度现实（Marginson, 2025, pp. 4–5）。
 
 ### 排名与国际教育的循环效应
 
@@ -177,7 +176,7 @@ Amsler & Bolsmann（2012, p.286）将排名定义为"一个强大的象征性和
 ## 相关案例／政策
 
 > [!example]
-> - [[Academic Ranking of World Universities (ARWU)]] — 2003 年首个全球大学排名
+> - [[Academic Ranking of World Universities]] — 2003 年首个全球大学排名
 > - [[OECD AHELO Project]] — OECD 试图建立全球 HE 学习成果统一测量的失败尝试
 > - [[University of Kentucky Top-20 Plan]] — 排名驱动型大学战略转型的美国案例
 

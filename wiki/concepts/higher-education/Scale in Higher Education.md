@@ -1,9 +1,9 @@
 ---
 title: Scale in Higher Education
 aliases:
-- 高等教育尺度
-- scale analysis in higher education
-- 尺度分析
+  - 高等教育尺度
+  - scale analysis in higher education
+  - 尺度分析
 summary: "用于分析高等教育活动如何在全球、区域、国家、地方和个体等不同尺度上同时展开并相互作用的关系性概念。"
 type: concept
 tags:

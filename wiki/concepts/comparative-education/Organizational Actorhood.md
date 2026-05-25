@@ -1,9 +1,9 @@
 ---
 title: Organizational Actorhood
 aliases:
-- 组织能动者身份
-- 组织行动者身份
-- organizational actor
+  - 组织能动者身份
+  - 组织行动者身份
+  - organizational actor
 summary: "组织把自主性、目标导向、问责性和社会嵌入性纳入核心身份并作为行动者被广泛承认的制度过程"
 type: concept
 tags:
@@ -21,8 +21,6 @@ related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals 2015]]"
   - "[[THE Impact Ranking 2019]]"
-  - "[[Academic Ranking of World Universities (ARWU)]]"
-  - "[[Comprehensive School Reform (CSR) Program]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
 sources:
@@ -78,7 +76,7 @@ updated: '2026-05-18'
 > 根据 Bromley & Meyer (2015)，组织能动者身份包含四个核心维度（Zapp, 2022, p.148）：
 > - **自主性（autonomy）**：大学拥有独立的决策权，能够定义自身目标和战略方向。传统欧洲大学是政府行政系统的延伸——预算由教育部拨付、人事由政府任命、课程由国家规定。现代大学则像独立法人：自行设定战略规划、自主筹集经费、独立做出学术和人事决策。例：一所现代大学的校长可以制定"五年进入 THE 排名前 100"的战略目标，而不是等待教育部的年度指令（Zapp, 2022, p.148）
 > - **目标导向（goal-orientation）**：大学主动设定和追求可测量的目标，而非被动响应外部指令。这不同于传统的学术好奇驱动——大学管理者思考的是"我们的研究影响力指标如何提升""我们的国际化程度是否达标"，而不是"教授们对什么感兴趣"。例：越来越多大学将研究议题有意识地与 [[UN Sustainable Development Goals 2015|SDGs]] 对齐，这不是因为某个教授的好奇心，而是大学的组织性战略决策（Zapp, 2022, pp.150–151）
-> - **问责性（accountability）**：大学对其行为和绩效承担责任，接受外部评估和排名。这体现在研究评估体系（如英国 REF 中的"影响"权重持续增加）、[[Global Universities Rankings|全球大学排名]]（[[THE Impact Ranking 2019]]、[[Academic Ranking of World Universities (ARWU)|ARWU]]、THE-WUR）、以及大学 [[Comprehensive School Reform (CSR) Program|CSR]] 报告的发布（Zapp, 2022, pp.146–147, 152–153）
+> - **问责性（accountability）**：大学对其行为和绩效承担责任，接受外部评估和排名。这体现在研究评估体系（如英国 REF 中的"影响"权重持续增加）、[[Global Universities Rankings|全球大学排名]]（[[THE Impact Ranking 2019]]、[[Academic Ranking of World Universities|ARWU]]、THE-WUR）、以及大学 [[Comprehensive School Reform Program|CSR]] 报告的发布（Zapp, 2022, pp.146–147, 152–153）
 > - **社会嵌入性（social embeddedness / citizenship）**：大学对多元利益相关者和社会议题保持开放，将社会参与纳入组织身份。在大学语境中集中表现为 [[University Social Responsibility]]——涵盖就业政策（雇员权利、多样性、工作生活平衡）、校园建设（能源、水、交通、废物的可持续管理）、以及将校园改造为"活实验室"（living laboratory）和"可持续发展试验台"（Zapp, 2022, pp.149, 152–153）
 
 > [!example]
@@ -104,7 +102,7 @@ updated: '2026-05-18'
 > - Zapp & Lerch (2020) 分析全球近 465,000 个学位项目，识别出 22,451 个具有明确国际取向——全球治理、国际发展、比较法、跨文化教育等。这不仅是教学内容的更新，更是大学将自身重新定位为全球治理行动者的结构性证据（Zapp, 2022, p.152）
 
 > [!info]- 核心数据
-> - 全球 **200+ 所**大学发布 [[Comprehensive School Reform (CSR) Program|CSR]]/可持续发展报告，大多数在过去 **5 年内**首次发布（Corporate Register, 2019，引自 Zapp, 2022, pp.152–153）
+> - 全球 **200+ 所**大学发布 [[Comprehensive School Reform Program|CSR]]/可持续发展报告，大多数在过去 **5 年内**首次发布（Corporate Register, 2019，引自 Zapp, 2022, pp.152–153）
 > - 全球 **465,000 个**学位项目中 **22,451 个**具有国际取向（Zapp & Lerch, 2020，引自 Zapp, 2022, p.152）
 > - **185 个**大学协会/元组织，大多数在过去 **二十年**成立（Brankovic, 2018，引自 Zapp, 2022, p.153）
 

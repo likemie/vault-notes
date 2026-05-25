@@ -1,11 +1,11 @@
 ---
 title: Singapore Education Hub Policy
 aliases:
-- 新加坡教育枢纽政策
-- 全球校园
-- Global Schoolhouse
-- 东方波士顿
-- Boston of the East
+  - 新加坡教育枢纽政策
+  - 全球校园
+  - Global Schoolhouse
+  - 东方波士顿
+  - Boston of the East
 summary: "新加坡 1990 年代至 2010 年代以国家主导的高等教育扩张为核心的地缘政治项目，涵盖东方波士顿战略与全球校园项目，以市场失败后转向监管为转折"
 type: fact
 subtype: policy

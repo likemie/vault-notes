@@ -1,11 +1,11 @@
 ---
 title: Institutional Isomorphism
 aliases:
-- 制度同构
-- 制度同形
-- 制度性同构
-- institutional isomorphism theory
-- DiMaggio and Powell isomorphism
+  - 制度同构
+  - 制度同形
+  - 制度性同构
+  - institutional isomorphism theory
+  - DiMaggio and Powell isomorphism
 summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论"
 type: theory
 tags:

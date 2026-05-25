@@ -1,8 +1,8 @@
 ---
 title: University of Kentucky Top-20 Plan
 aliases:
-- 肯塔基大学Top-20计划
-- Kentucky Top-20 Plan
+  - 肯塔基大学Top-20计划
+  - Kentucky Top-20 Plan
 summary: "肯塔基州立法机构指令赠地大学达到 Top-20 排名的战略计划，因 USNWR 评分惩罚招收弱势群体学生而失败，成为排名与使命冲突的经典案例"
 type: fact
 subtype: event

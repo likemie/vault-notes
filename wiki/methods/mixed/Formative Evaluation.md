@@ -26,8 +26,7 @@ related_persons: []
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
 sources: []
-related_facts:
-  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
+related_facts: []
 confidence: medium
 status: draft
 created: '2026-05-23'
@@ -53,7 +52,7 @@ updated: '2026-05-23'
 > [!example]
 > 形成性评价通常先建立[[Logic Model|逻辑模型]]，再围绕输入、即时输出、短期结果和长期结果收集多源数据，并在项目推进过程中持续[[Feedback|反馈]]给利益相关者（Ross & Morrison, 2021, pp.115, 123-124）。
 
-在 [[Students and Teachers Accessing Tomorrow (STAT)]] 中，形成性评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂教师焦点小组、课堂观察、行为数据，以及英语语言艺术和数学成就数据。评价目的不是把 STAT 还原为单一因果效应，而是追踪教师准备、设备进入课堂、数字资源使用、学生参与、教学方式变化和成就结果之间的阶段性关系（Ross & Morrison, 2021, pp.115-118, 121-124）。
+在 [[Students and Teachers Accessing Tomorrow]] 中，形成性评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂教师焦点小组、课堂观察、行为数据，以及英语语言艺术和数学成就数据。评价目的不是把 STAT 还原为单一因果效应，而是追踪教师准备、设备进入课堂、数字资源使用、学生参与、教学方式变化和成就结果之间的阶段性关系（Ross & Morrison, 2021, pp.115-118, 121-124）。
 
 > [!info]- 核心数据
 > - STAT 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应（Ross & Morrison, 2021, p.116）。
@@ -69,7 +68,7 @@ updated: '2026-05-23'
 ## 局限性
 
 > [!warning]
-> 形成性评价不等同于因果证明。[[Students and Teachers Accessing Tomorrow (STAT)|STAT]] 的多源形成性评价能显示项目实施进展、利益相关者反应和若干中间结果，但由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，无法证明 STAT 的单独因果效果（Ross & Morrison, 2021, p.124）。
+> 形成性评价不等同于因果证明。[[Students and Teachers Accessing Tomorrow|STAT]] 的多源形成性评价能显示项目实施进展、利益相关者反应和若干中间结果，但由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，无法证明 STAT 的单独因果效果（Ross & Morrison, 2021, p.124）。
 
 > [!warning]
 > 形成性评价证据仍会被不同利益相关者按价值排序解释。STAT 中，同一组实施进展和混合成就结果可以被支持者解释为数字公民、教学多样化和技术公平的进展，也可以被反对者解释为没有提高成绩的失败项目（Ross & Morrison, 2021, pp.122-123）。
@@ -83,7 +82,7 @@ updated: '2026-05-23'
 ## 使用此方法的研究
 
 > [!example]
-> - [[Students and Teachers Accessing Tomorrow (STAT)]] — 使用多源形成性评价追踪[[Technology Infusion|技术整合]]改革的实施、课堂变化、学生参与和成就结果（Ross & Morrison, 2021, pp.115-118, 121-124）。
+> - [[Students and Teachers Accessing Tomorrow]] — 使用多源形成性评价追踪[[Technology Infusion|技术整合]]改革的实施、课堂变化、学生参与和成就结果（Ross & Morrison, 2021, pp.115-118, 121-124）。
 > - [[Argument_Ross_Morrison_2021_ROE]] — 以 STAT 为例说明形成性评价如何帮助复杂改革提高实施质量和可持续性，同时也显示证据解释会受利益相关者价值排序影响。
 
 ## 来源

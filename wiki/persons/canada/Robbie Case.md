@@ -1,7 +1,7 @@
 ---
 title: Robbie Case
 aliases:
-- 罗比·凯斯
+  - 罗比·凯斯
 summary: "加拿大发展心理学家和新皮亚杰理论家，四子域发展模型提出者，为教育研究细化认知发展阶段与学习差异提供模型。"
 type: person
 nationality: canada

@@ -1,9 +1,9 @@
 ---
 title: Self-Driven Mode
 aliases:
-- 自主驱动者
-- self-driven actor
-- 自主驱动
+  - 自主驱动者
+  - self-driven actor
+  - 自主驱动
 summary: "毕业出路分化中的一种类型，以目标掌控和强价值信念结合为特征，既能策略性行动又有稳定意义感支撑，倾向主动设定长期发展目标"
 type: concept
 tags:
@@ -13,7 +13,6 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[Graduation Pathway Typology (Zheng)]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Social Engagement]]"
   - "[[Opportunist Mode]]"
@@ -37,7 +36,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 自主驱动者（Self-Driven Mode）是[[Yajun Zheng|郑雅君]]（2023）[[Graduation Pathway Typology (Zheng)|毕业出路产生机制四分类]]模型中的一种类型，指使用[[Goal-Controlled Mode|目标掌控模式]]同时深层内化了自洽的价值信念的大学生。他们来自优势家庭背景，深谙大学与劳动力市场的游戏规则，善于围绕生涯目标组织学业与[[Social Engagement|社会性投入]]；更重要的是，他们有一个自主树立的、有强烈意义感支撑的生涯理想——这是其与[[Opportunist Mode|机会主义者]]的关键区别（郑雅君，2023）。
+> 自主驱动者（Self-Driven Mode）是[[Yajun Zheng|郑雅君]]（2023）[[Graduation Pathway Typology|毕业出路产生机制四分类]]模型中的一种类型，指使用[[Goal-Controlled Mode|目标掌控模式]]同时深层内化了自洽的价值信念的大学生。他们来自优势家庭背景，深谙大学与劳动力市场的游戏规则，善于围绕生涯目标组织学业与[[Social Engagement|社会性投入]]；更重要的是，他们有一个自主树立的、有强烈意义感支撑的生涯理想——这是其与[[Opportunist Mode|机会主义者]]的关键区别（郑雅君，2023）。
 >
 > > "自主驱动者"有一个自主树立的有意义感的生涯理想，虽然他们也很擅长使用策略去做好生涯准备，但他们的选择偏好却不像"机会主义者"那样容易预见，而是取决于他们的意义感设定（郑雅君，2023）
 >

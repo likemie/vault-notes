@@ -1,7 +1,7 @@
 ---
 title: Catherine Lewis
 aliases:
-- 凯瑟琳·刘易斯
+  - 凯瑟琳·刘易斯
 summary: "美国教育研究者，改进科学教育化引介者，为教育研究把持续改进、情境变异与实践迭代纳入研究设计提供说明。"
 type: person
 nationality: us

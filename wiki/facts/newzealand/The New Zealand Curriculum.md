@@ -18,8 +18,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Sarbiewska_2019_JSR]]"
@@ -31,7 +30,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 新西兰在 1989–1999 年经历了以行政管理改革为主的 [[Tomorrow's Schools Reforms (NZ 1989)|Tomorrow's Schools]] 改革后，发现结构性变革不足以解决教育质量问题。改革评估显示 87% 校长认为政府资金不足、工作量增加、校际竞争加剧、教育质量不平等（Sarbiewska, 2019, p.120）。这为推动以教与学关系为核心的课程改革提供了动力。
+> 新西兰在 1989–1999 年经历了以行政管理改革为主的 [[Tomorrow's Schools Reforms|Tomorrow's Schools]] 改革后，发现结构性变革不足以解决教育质量问题。改革评估显示 87% 校长认为政府资金不足、工作量增加、校际竞争加剧、教育质量不平等（Sarbiewska, 2019, p.120）。这为推动以教与学关系为核心的课程改革提供了动力。
 
 ## 政策文本摘要
 

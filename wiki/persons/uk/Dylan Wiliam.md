@@ -1,7 +1,7 @@
 ---
 title: Dylan Wiliam
 aliases:
-- 迪伦·威廉
+  - 迪伦·威廉
 summary: "英国教育评估学者，形成性评价研究代表人物和教育知识局部性论者，为教育研究把评价、教师判断与方法论谦抑重新连起来。"
 type: person
 nationality: uk

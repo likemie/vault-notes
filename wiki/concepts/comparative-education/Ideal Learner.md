@@ -1,11 +1,11 @@
 ---
 title: Ideal Learner
 aliases:
-- 理想学习者
-- ideal learner
-- ideal learner image
-- ideal-learner image
-- 理想学习者形象
+  - 理想学习者
+  - ideal learner
+  - ideal learner image
+  - ideal-learner image
+  - 理想学习者形象
 summary: "Li 跨文化学习研究的核心概念与方法工具_以文化偏好的最优发展终点为理论依据_通过四个维度的书面描述来提取文化层面的理想学习者形象_与原型方法的词汇研究形成证据三角验证。"
 type: concept
 tags:

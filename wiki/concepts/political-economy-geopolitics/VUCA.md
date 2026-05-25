@@ -10,8 +10,7 @@ related_concepts:
   - "[[Fourth Industrial Revolution]]"
 related_theories:
   - "[[Governmentality]]"
-related_methods:
-  - "[[Single-Case Design (SCD)]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -53,7 +52,7 @@ VUCA 将全球教育转型所面临的挑战表述为一组看似中立的客观
 
 > [!example]
 > - vs **[[Fourth Industrial Revolution]]** — 4IR 为 VUCA 提供了技术变革叙事：自动化和数据交换的加速构成了 VUCA 条件的具体物质基础。4IR 话语将 VUCA 框定为客观环境，[[21st Century Skills and Competencies Discourse|SCD]] 则以技能获取作为唯一回应（Zelinka, 2022, pp.254, 264）
-> - vs **[[21st Century Skills and Competencies Discourse]]** — [[Single-Case Design (SCD)|SCD]] 是 VUCA 的"解决方案"话语：VUCA 将教育挑战个体化，SCD 提供个体需获取的技能清单。二者构成[[Governmentality|治理术]]的问题-解答对，详见 [[Governmentality#全球治理技术]]
+> - vs **[[21st Century Skills and Competencies Discourse]]** — [[Single-Case Design|SCD]] 是 VUCA 的"解决方案"话语：VUCA 将教育挑战个体化，SCD 提供个体需获取的技能清单。二者构成[[Governmentality|治理术]]的问题-解答对，详见 [[Governmentality#全球治理技术]]
 > - vs **[[Geopolitics of Knowledge]]** — VUCA 在新 GoK 中充当治理技术的第一环节：通过话语框定将全球教育转型中复杂的结构性问题压缩为个体技能差距问题
 
 ## 争议与批评

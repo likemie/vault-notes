@@ -36,8 +36,6 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
-  - "[[What Works Clearinghouse (WWC)]]"
-  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
 sources: []
@@ -57,25 +55,25 @@ updated: 2026-05-23
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Evidence-Based Education]] — 作为政策背景，尤其是 [[No Child Left Behind Act 2001|NCLB]]、[[What Works Clearinghouse (WWC)|WWC]] 与 ESSA 所推动的证据问责运动。该框架把教育项目是否有严格研究支持变成学校采购和项目批准的重要依据（Ross & Morrison, 2021, pp.109-110）。
+> - [[Evidence-Based Education]] — 作为政策背景，尤其是 [[No Child Left Behind Act 2001|NCLB]]、[[What Works Clearinghouse|WWC]] 与 ESSA 所推动的证据问责运动。该框架把教育项目是否有严格研究支持变成学校采购和项目批准的重要依据（Ross & Morrison, 2021, pp.109-110）。
 > - 复杂教育系统 — 学校系统由管理者、教师、学生、家长等多类行动者共同构成，互动具有非线性，因此同一项目在不同语境中可能产生不同结果，也会被不同利益相关者作不同解释（Ross & Morrison, 2021, p.111）。
 > - [[Absorptive Capacity|吸收能力]] — 学区能否从外部评价中学习，取决于关键伙伴是否理解项目、沟通是否开放、领导是否支持；吸收能力越高，评价证据越可能进入改进过程（Ross & Morrison, 2021, p.122）。
 
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：文献综述加案例说明。前半部分梳理教育证据使用中的标准、限制和消费者偏好；后半部分用巴尔的摩郡公立学校 [[Students and Teachers Accessing Tomorrow (STAT)|STAT]] [[Technology Infusion|技术整合]]项目展示复杂系统中证据如何被生成、解释和争议化（Ross & Morrison, 2021, pp.109-110, 113-115）。
+> - 方法：文献综述加案例说明。前半部分梳理教育证据使用中的标准、限制和消费者偏好；后半部分用巴尔的摩郡公立学校 [[Students and Teachers Accessing Tomorrow|STAT]] [[Technology Infusion|技术整合]]项目展示复杂系统中证据如何被生成、解释和争议化（Ross & Morrison, 2021, pp.109-110, 113-115）。
 > - 案例资料：STAT 评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂观察、学校行为数据和英语语言艺术与数学成就数据；项目在 2014-2015 至 2018-2019 年分批扩展到全学区（Ross & Morrison, 2021, pp.115-118）。
 > - 研究定位：不是为了证明 STAT 的单一因果效应，而是展示综合性改革中[[Formative Evaluation|形成性评价]]、[[Logic Model|逻辑模型]]和多方解释如何共同影响项目持续性（Ross & Morrison, 2021, pp.121-124）。
 
 ## 论证结构
 
 > [!example] 论证结构
-> 这篇文章的论证不是简单说“严格证据没用”，而是把问题拆成两段：第一段说明正式证据为什么必要但不够用；第二段用 [[Students and Teachers Accessing Tomorrow (STAT)|STAT]] 案例说明，同一组证据进入复杂学区后会被不同人解释成不同结论。
+> 这篇文章的论证不是简单说“严格证据没用”，而是把问题拆成两段：第一段说明正式证据为什么必要但不够用；第二段用 [[Students and Teachers Accessing Tomorrow|STAT]] 案例说明，同一组证据进入复杂学区后会被不同人解释成不同结论。
 
 ### 第一层：证据运动把“有效项目”变成政策要求
 
-1. 美国政策从 [[No Child Left Behind Act 2001|NCLB]] 到 [[What Works Clearinghouse (WWC)]]，再到 [[ESSA 2015 Evidence Standards]]，逐步把严格研究证据放到教育项目选择的中心位置。NCLB 偏好随机实验，WWC 用 [[Randomised Controlled Trials|RCT]] 和 [[Quasi-Experimental Designs|QED]] 审查研究质量，ESSA 又把强、中、有希望和理论依据四个证据层级用于项目审核（Ross & Morrison, 2021, p.109）。
+1. 美国政策从 [[No Child Left Behind Act 2001|NCLB]] 到 [[What Works Clearinghouse]]，再到 [[ESSA 2015 Evidence Standards]]，逐步把严格研究证据放到教育项目选择的中心位置。NCLB 偏好随机实验，WWC 用 [[Randomised Controlled Trials|RCT]] 和 [[Quasi-Experimental Designs|QED]] 审查研究质量，ESSA 又把强、中、有希望和理论依据四个证据层级用于项目审核（Ross & Morrison, 2021, p.109）。
 
 2. 这一步的推理很直接：如果学校要花公共资金购买项目，就不能只听销售宣传，而应尽量选择有研究支持的项目。这也是 [[Evidence-Based Education]] 和 [[Evidence-Based Reform]] 的基本承诺（Ross & Morrison, 2021, pp.109-110）。
 
@@ -117,7 +115,7 @@ updated: 2026-05-23
 
 ### 第五层：STAT 案例展示“多目标改革”如何制造证据分歧
 
-12. BCPS 的 [[Students and Teachers Accessing Tomorrow (STAT)|STAT]] 项目不是单一软件，而是全学区 [[Technology Infusion|技术融入]]改革。它包括教师专业发展、技术教练、设备配置、数字内容、课堂实践改变和长期学生表现目标（Ross & Morrison, 2021, pp.114-116）。
+12. BCPS 的 [[Students and Teachers Accessing Tomorrow|STAT]] 项目不是单一软件，而是全学区 [[Technology Infusion|技术融入]]改革。它包括教师专业发展、技术教练、设备配置、数字内容、课堂实践改变和长期学生表现目标（Ross & Morrison, 2021, pp.114-116）。
 
 13. 评价设计也不是单一测验，而是多源[[Formative Evaluation|形成性评价]]：教师问卷、学生焦点小组、校长和教师访谈、课堂观察、行为数据以及 ELA 和数学成就数据。这样的设计更适合跟踪“改革是否正在发生”，而不是直接证明某个单一组件的因果效应（Ross & Morrison, 2021, pp.115-118）。
 
@@ -152,7 +150,7 @@ updated: 2026-05-23
 > 1. 实践者虽然被鼓励使用严格证据，但在产品选择上常更偏好同伴推荐和本地试点，因为这些来源更能回答地方实施、使用体验、成本和适配问题（Ross & Morrison, 2021, pp.120-121）。
 > 2. 证据审查若只报告[[Statistical Significance|统计显著性]]和[[Effect Size|效应量]]，容易遗漏成本、实施要求、用户满意度、情境特征和研究局限等实践者实际需要的信息（Ross & Morrison, 2021, p.121）。
 >
-> ### 关于 [[Students and Teachers Accessing Tomorrow (STAT)|STAT]] 案例
+> ### 关于 [[Students and Teachers Accessing Tomorrow|STAT]] 案例
 > 3. STAT 的多源[[Formative Evaluation|形成性评价]]被多方利益相关者视为有助于提升实施质量和项目可持续性，尤其通过[[Logic Model|逻辑模型]]让不同阶段的投入、输出和结果更容易被理解（Ross & Morrison, 2021, pp.121-122）。
 > 4. STAT 在教师准备、设备配置、数字资源使用、学生参与和由教师中心转向学生中心教学方面取得较一致的积极进展，但学生成就证据是混合的，无法证明明显提升（Ross & Morrison, 2021, pp.118-119, 122-123）。
 >
@@ -176,7 +174,7 @@ updated: 2026-05-23
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> 该文的案例说明依赖作者自身作为外部评价者的经验，因此对 [[Students and Teachers Accessing Tomorrow (STAT)|STAT]] 的解释带有评价参与者视角；文章也明确承认，由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，不能证明 STAT 的因果效果（Ross & Morrison, 2021, p.124）。
+> 该文的案例说明依赖作者自身作为外部评价者的经验，因此对 [[Students and Teachers Accessing Tomorrow|STAT]] 的解释带有评价参与者视角；文章也明确承认，由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，不能证明 STAT 的因果效果（Ross & Morrison, 2021, p.124）。
 
 > [!warning] 局限性与批评
 > 文章对“[[Absorptive Capacity|吸收能力]]”和利益相关者解释的讨论具有启发性，但没有把这些因素操作化为可比较指标。因此，它更适合作为复杂改革评价的解释性案例，而不是可直接推广的证据使用模型（Ross & Morrison, 2021, pp.122-124）。

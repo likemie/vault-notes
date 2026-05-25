@@ -1,9 +1,9 @@
 ---
 title: Paradox of the Chinese Learner
 aliases:
-- 中国学习者悖论
-- Chinese learner paradox
-- CHC learner paradox
+  - 中国学习者悖论
+  - Chinese learner paradox
+  - CHC learner paradox
 summary: "Watkins 与 Biggs (1996) 提出的概念，描述中国／儒家文化圈学习者看似低效的学习方式与持续高水平成就之间的矛盾。Li (2012) 系统综述了研究界从学习信念和学习过程两个层面对悖论的回应。"
 type: concept
 tags:

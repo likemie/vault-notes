@@ -1,12 +1,12 @@
 ---
 title: Graduate Attributes
 aliases:
-- 毕业生特质
-- graduate attributes
-- 毕业生素养
-- graduate outcomes
-- graduate skills
-- graduate qualities
+  - 毕业生特质
+  - graduate attributes
+  - 毕业生素养
+  - graduate outcomes
+  - graduate skills
+  - graduate qualities
 summary: "大学认定学生在学习过程中应发展出的品质、技能和理解，用于组织课程、评价培养目标和回应外部问责。"
 type: concept
 tags:

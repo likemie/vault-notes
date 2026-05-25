@@ -1,10 +1,10 @@
 ---
 title: UN Sustainable Development Goals 2015
 aliases:
-- 联合国可持续发展目标
-- SDGs
-- 2030 Agenda
-- 可持续发展目标
+  - 联合国可持续发展目标
+  - SDGs
+  - 2030 Agenda
+  - 可持续发展目标
 summary: "2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的“新型第三使命"
 type: fact
 subtype: policy
@@ -20,8 +20,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Comprehensive School Reform (CSR) Program]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Ch9_Zapp_2022]]"
@@ -83,7 +82,7 @@ updated: '2026-05-18'
 > - **17 项 SDGs**，**193 个**成员国通过（2015）（Zapp, 2022, p.150）
 > - Bologna 大学报告 **1,174 个**与 SDGs 相关的课程单元（Zapp, 2022, p.152）
 > - 全球 **22,451 个**学位项目具有国际取向（Zapp & Lerch, 2020，引自 Zapp, 2022, p.152）
-> - 全球 **200+ 所**大学已发布 [[Comprehensive School Reform (CSR) Program|CSR]]/可持续发展报告（Corporate Register, 2019，引自 Zapp, 2022, p.153）
+> - 全球 **200+ 所**大学已发布 [[Comprehensive School Reform Program|CSR]]/可持续发展报告（Corporate Register, 2019，引自 Zapp, 2022, p.153）
 
 ---
 ## 争议与评论

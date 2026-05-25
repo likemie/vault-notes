@@ -1,9 +1,9 @@
 ---
 title: Transnational Research Collaboration in Higher Education
 aliases:
-- 跨国研究合作
-- transnational research collaboration
-- international research collaboration
+  - 跨国研究合作
+  - transnational research collaboration
+  - international research collaboration
 summary: "高等教育中的跨国研究合作形式，涉及学者、机构和国家在知识生产、声誉竞争与政策目标上的多重联结。"
 type: concept
 tags:

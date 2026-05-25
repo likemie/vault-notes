@@ -1,8 +1,8 @@
 ---
 title: Habitus
 aliases:
-- 习性
-- habitus
+  - 习性
+  - habitus
 summary: "Pierre Bourdieu 的核心概念，指个体在长期社会经验中形成并具身化的稳定行为倾向系统，用于解释实践选择、判断方式和阶层再生产。"
 type: concept
 tags:

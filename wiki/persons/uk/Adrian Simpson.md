@@ -1,7 +1,7 @@
 ---
 title: Adrian Simpson
 aliases:
-- 阿德里安·辛普森
+  - 阿德里安·辛普森
 summary: "英国数学教育学者和方法论批评者，效应量误用问题的重要批评者，为教育研究反思统计指标的解释边界提供精密论证。"
 type: person
 nationality: uk

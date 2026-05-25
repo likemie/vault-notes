@@ -18,8 +18,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Best Evidence in Brief (BEiB)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Slavin_2021_ROE]]"
@@ -59,7 +58,7 @@ updated: '2026-05-18'
 
 > [!success] 影响与后果
 > - ECNU 论坛从单一会议扩展为 2019 年 16 所大学联合的全国性网络（Slavin et al., 2021, p.12）
-> - NNU 加入全球 [[Best Evidence in Brief (BEiB)|BEiB]] 网络，创建中文版证据简报定期向中国大陆一线教育者推送（p.11-12）
+> - NNU 加入全球 [[Best Evidence in Brief|BEiB]] 网络，创建中文版证据简报定期向中国大陆一线教育者推送（p.11-12）
 > - NNU 举办 2019 年[[International Education|国际教育]]卓越理念与行动会议，"证据本位"为核心关键词（p.12-13）
 > - 但中国学者内部仍存在持续的质疑和辩论（见下文"争议与评论"）（p.15-17）
 
@@ -76,7 +75,7 @@ updated: '2026-05-18'
 >
 > **数据收集困境**：杨振东等 (2019) 列举了高质量数据获取受限、纵向数据收集成本、程序与标准不清、研究者培训不足等具体困难（p.16）
 >
-> **目前状态**：宣言推动了中国证据本位研究的制度化发展（论坛网络、[[Best Evidence in Brief (BEiB)|BEiB]] 中文版、三方合作），但"定义之争"和"统计主义"等根本性争论仍在持续，显示方法论共识尚未达成
+> **目前状态**：宣言推动了中国证据本位研究的制度化发展（论坛网络、[[Best Evidence in Brief|BEiB]] 中文版、三方合作），但"定义之争"和"统计主义"等根本性争论仍在持续，显示方法论共识尚未达成
 
 ## 相关概念／政策
 

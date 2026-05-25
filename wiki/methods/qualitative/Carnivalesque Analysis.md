@@ -1,7 +1,7 @@
 ---
 title: Carnivalesque Analysis
 aliases:
-- 嘉年华式分析
+  - 嘉年华式分析
 summary: "通过反讽、错位和颠倒主导叙事来追踪矛盾与隐藏权力关系的质性分析方法，适合拆解官方话语的自明性"
 type: method
 method_type: qualitative

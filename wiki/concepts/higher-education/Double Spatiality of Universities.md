@@ -1,7 +1,7 @@
 ---
 title: Double Spatiality of Universities
 aliases:
-- 大学双重空间性
+  - 大学双重空间性
 summary: "大学同时扎根于具体城市与国家，又通过学术流动、网络和知识视野跨越边界的双重空间特征。"
 type: concept
 tags:

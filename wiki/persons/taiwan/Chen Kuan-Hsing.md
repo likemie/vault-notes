@@ -1,7 +1,7 @@
 ---
 title: Chen Kuan-Hsing
 aliases:
-- 陈光兴
+  - 陈光兴
 summary: "中国台湾文化研究学者，Asia as Method作者与去帝国化倡议者，为教育研究反思知识生产的亚洲视角和后殖民方法提供资源。"
 type: person
 nationality: taiwan

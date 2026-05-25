@@ -1,7 +1,7 @@
 ---
 title: Grover Whitehurst
 aliases:
-- 格罗弗·怀特赫斯特
+  - 格罗弗·怀特赫斯特
 summary: "美国教育政策官员和研究管理者，IES 证据标准体系关键设计者，为教育研究制度化 RCT 优先级和联邦证据治理提供案例。"
 type: person
 nationality: us
@@ -22,8 +22,7 @@ related_persons: []
 related_arguments: []
 sources:
   - "[[Slavin_2002_ER]]"
-related_facts:
-  - "[[What Works Clearinghouse (WWC)]]"
+related_facts: []
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -52,7 +51,7 @@ updated: '2026-05-19'
 
 > [!success] 主要贡献
 > - **教育科学研究所（IES）的建立**：Whitehurst 领导了将 OERI 重组为 IES 的过程，后者以医学 NIH 为模型建立了更严格的资助和研究标准
-> - **What Works Clearinghouse（[[What Works Clearinghouse (WWC)|WWC]]）**：在其领导下启动，成为美国教育项目有效性审查的核心机构
+> - **What Works Clearinghouse（[[What Works Clearinghouse|WWC]]）**：在其领导下启动，成为美国教育项目有效性审查的核心机构
 > - **学前课程评估研究拨款项目**：首个大规模要求随机化评估的联邦教育研究拨款
 
 ## 主要著作

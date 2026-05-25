@@ -17,9 +17,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[International Indicators of Education Systems (INES)]]"
-  - "[[Education at a Glance (EAG)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"
@@ -31,14 +29,14 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> [[International Indicators of Education Systems (INES)|INES]] 第一届全体大会（1989 年，奥地利 Semmering）列出了约 160 项初始指标，但因数量不可管理而未正式讨论。项目需要在第二届大会上产生一套可操作的指标体系（Gorur, 2014, p.11–12）。
+> [[International Indicators of Education Systems|INES]] 第一届全体大会（1989 年，奥地利 Semmering）列出了约 160 项初始指标，但因数量不可管理而未正式讨论。项目需要在第二届大会上产生一套可操作的指标体系（Gorur, 2014, p.11–12）。
 
 ## 经过
 
 > [!note]- 经过
 > - **时间**：1991 年
 > - **地点**：瑞士 Lugano（卢加诺）
-> - **性质**：[[International Indicators of Education Systems (INES)|INES]] 第二届全体大会，被 Bottani 称为"国际指标的创造者与决策者之间的国际会议"（Bottani, 2008, p.16; Gorur, 2014, p.12）
+> - **性质**：[[International Indicators of Education Systems|INES]] 第二届全体大会，被 Bottani 称为"国际指标的创造者与决策者之间的国际会议"（Bottani, 2008, p.16; Gorur, 2014, p.12）
 > - **参与者**：OECD 成员国代表、INES 网络科学家（统计学家、教育专家、社会科学专家）、政策制定者
 > - **议程**：讨论和审查 INES 开发的指标原型
 >
@@ -62,7 +60,7 @@ updated: '2026-05-18'
 > - 控制权从统计学家和社会科学专家转移到政府官员手中，心理测量学家成为官员的盟友
 > - 此后，科学家被迫纳入一些"在科学上不可接受"的数据和指标
 >
-> ### [[Education at a Glance (EAG)|EAG]] 的诞生
+> ### [[Education at a Glance|EAG]] 的诞生
 > 会议决定将修订后的报告作为首版 EAG（1992）出版（Gorur, 2014, p.12）
 >
 > ### 后续：全体大会的衰落
@@ -88,8 +86,8 @@ updated: '2026-05-18'
 ## 相关概念／政策
 
 > [!example] 相关概念／政策
-> - [[International Indicators of Education Systems (INES)]]
-> - [[Education at a Glance (EAG)]]
+> - [[International Indicators of Education Systems]]
+> - [[Education at a Glance]]
 > - [[Performance Indicators]]
 > - [[Performativity of Measurement]]
 

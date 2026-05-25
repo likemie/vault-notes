@@ -1,7 +1,7 @@
 ---
 title: Jurgen Schriewer
 aliases:
-- 于尔根·施里韦尔
+  - 于尔根·施里韦尔
 summary: "德国比较教育学者，系统理论与外化概念引入者，为教育研究分析政策借用与跨国参照提供方法论资源。"
 type: person
 nationality: germany
@@ -12,7 +12,6 @@ tags:
 - externalization
 - region/germany
 related_concepts:
-  - "[[Externalization (Schriewer)]]"
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
 related_theories:
@@ -32,7 +31,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Jurgen Schriewer 是德国比较教育学者和[[Luhmann's Systems Theory|系统理论]]家，以将 [[Niklas Luhmann]] 的社会系统理论引入比较教育研究而著称。他提出的"[[Externalization (Schriewer)|外化]]"（externalization）概念已成为比较教育和政策转移研究的核心分析工具。
+> Jurgen Schriewer 是德国比较教育学者和[[Luhmann's Systems Theory|系统理论]]家，以将 [[Niklas Luhmann]] 的社会系统理论引入比较教育研究而著称。他提出的"[[Externalization|外化]]"（externalization）概念已成为比较教育和政策转移研究的核心分析工具。
 
 ## 生平与职涯
 
@@ -43,13 +42,13 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Schriewer, J. (1990). The method of comparison and the need for [[Externalization (Schriewer)|externalization]]: methodological criteria and sociological concepts. In J. Schriewer (Ed.) in cooperation with B. Holmes, *Theories and Methods in Comparative Education*, pp. 25–83. Frankfurt: Peter Lang. — 首次系统提出外化概念，将其定位为比较方法的认识论工具
+> - Schriewer, J. (1990). The method of comparison and the need for [[Externalization|externalization]]: methodological criteria and sociological concepts. In J. Schriewer (Ed.) in cooperation with B. Holmes, *Theories and Methods in Comparative Education*, pp. 25–83. Frankfurt: Peter Lang. — 首次系统提出外化概念，将其定位为比较方法的认识论工具
 > - Schriewer, J. (Ed.) (2003). *Discourse Formation in Comparative Education*. Berlin: Peter Lang. — 将外化纳入更广泛的话语形成理论框架
 > - Schriewer, J. & Martinez, C. (2004). Constructions of internationality in education. In G. Steiner-Khamsi (Ed.), *Lessons from Elsewhere: the politics of educational borrowing and lending*. New York: Teachers College Press. — 区分"进化过程"和"语义建构"，完善外化理论
 
 ## 核心思想
 
-> [!info] [[Externalization (Schriewer)|外化]]（Externalization）
+> [!info] [[Externalization|外化]]（Externalization）
 > 外化是 Schriewer 最具影响力的概念贡献。核心洞见是：教育系统不是直接对环境变化做出反应，而是通过"外化"——将内部问题构型投射到国际参照系中——来建构其改革（或抵制）的论证。
 >
 > > "Externalizations 'filter' the reception and description of an international environment according to the changing problem configurations and reflection situations internal to a given system." (Schriewer & Martinez, 2004, p. 32，引自 Rappleye, 2006, p. 230)
@@ -72,14 +71,14 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **[[Externalization (Schriewer)|外化]]概念** — 比较教育和政策转移研究的核心分析工具
+> - **[[Externalization|外化]]概念** — 比较教育和政策转移研究的核心分析工具
 > - **话语形成理论** — 将比较教育纳入更广泛的社会[[Luhmann's Systems Theory|系统理论]]框架
 > - **进化过程／语义建构的区分** — 为分析教育政策转移中的"情境"问题提供了方法论基础
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - Schriewer 的[[Externalization (Schriewer)|外化]]概念被 Steiner-Khamsi 的[[Policy Borrowing|政策借用]]框架采纳为核心机制
+> - Schriewer 的[[Externalization|外化]]概念被 Steiner-Khamsi 的[[Policy Borrowing|政策借用]]框架采纳为核心机制
 > - 被 Rappleye (2006) 整合入[[Cross-National Attraction|跨国吸引]]力情境概念地图，作为连接结构推力和人的行动者的关键话语机制
 > - 影响了比较教育中"情境敏感性"研究的方法论发展
 

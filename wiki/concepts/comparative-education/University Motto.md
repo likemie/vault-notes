@@ -1,9 +1,9 @@
 ---
 title: University Motto
 aliases:
-- 校训
-- university mottos
-- 大学校训
+  - 校训
+  - university mottos
+  - 大学校训
 summary: "Li (2012) 通过对比中西顶尖大学校训发现，西方校训围绕真理、知识与自由，中国校训源自儒家经典、围绕修身与德行，折射两种学习传统的核心差异"
 type: concept
 tags:

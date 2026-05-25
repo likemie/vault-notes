@@ -29,8 +29,6 @@ related_facts:
   - "[[French-Speaking Belgium Education System]]"
   - "[[PISA]]"
   - "[[Grade Retention in French-Speaking Belgium]]"
-  - "[[What Works Clearinghouse (WWC)]]"
-  - "[[Best Evidence Encyclopedia (BEE)]]"
 related_arguments: []
 sources:
   - "[[Dachet_2021_ROE]]"
@@ -86,7 +84,7 @@ updated: 2026-05-24
 
 ### 第四步：本地项目证据太少，无法直接复制英美证据层级
 
-八个工作组列出的 425 个工具/项目中，只有 61 个曾被教育研究者测试，只有 13 个约 3% 采用实验设计（Dachet & Baye, 2021, p.175）。如果直接套用 EEF、[[What Works Clearinghouse (WWC)|WWC]] 或 [[Best Evidence Encyclopedia (BEE)|BEE]] 那类较强的证据层级，几乎 97% 的本地候选工具会被排除，这在科学上可辩护，却在政治和专业协作上难以实施（Dachet & Baye, 2021, pp.175-176）。
+八个工作组列出的 425 个工具/项目中，只有 61 个曾被教育研究者测试，只有 13 个约 3% 采用实验设计（Dachet & Baye, 2021, p.175）。如果直接套用 EEF、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 那类较强的证据层级，几乎 97% 的本地候选工具会被排除，这在科学上可辩护，却在政治和专业协作上难以实施（Dachet & Baye, 2021, pp.175-176）。
 
 这一步是全文最重要的现实约束：[[Evidence-Based Reform|证据本位改革]]不是在真空中选择“最佳证据”，而是在既有专业传统、可用项目库、语言资源和政治接受度中寻找可推进路径。
 

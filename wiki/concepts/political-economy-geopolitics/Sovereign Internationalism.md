@@ -1,7 +1,7 @@
 ---
 title: Sovereign Internationalism
 aliases:
-- 主权国际主义
+  - 主权国际主义
 summary: "Sakwa 提出的概念，指以主权平等、不干涉和制度多样性为基础的国际秩序理解。"
 type: concept
 tags:

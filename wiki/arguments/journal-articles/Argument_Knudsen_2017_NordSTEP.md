@@ -18,14 +18,12 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
-related_theories:
-  - "[[Science and Technology Studies (STS)]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
-related_facts:
-  - "[[Cognition Education (NZ)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Knudsen_2017_NordSTEP]]"
@@ -48,7 +46,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> Knudsen 的访谈立场受 [[Science and Technology Studies (STS)|STS]]（Science and Technology Studies）影响，关注教育项目的翻译过程和 performative effects（Knudsen, 2017, p.253）。她引述 Staunæs (2018) 和 Lingard (2018) 作为类似取向的研究。
+> Knudsen 的访谈立场受 [[Science and Technology Studies|STS]]（Science and Technology Studies）影响，关注教育项目的翻译过程和 performative effects（Knudsen, 2017, p.253）。她引述 Staunæs (2018) 和 Lingard (2018) 作为类似取向的研究。
 >
 
 ## 研究方法
@@ -64,7 +62,7 @@ updated: '2026-05-18'
 ## 论证结构
 
 > [!example] 论证结构
-> 论文以引言-访谈-参考文献的结构呈现。引言部分（Knudsen, 2017, p.253–254）阐述了四个研究问题的背景：丹麦 VL 实施现状、现有批评文献（Snook et al., 2009; Simpson, 2017; Biesta, 2010）、以及 Knudsen 自己的 [[Science and Technology Studies (STS)|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
+> 论文以引言-访谈-参考文献的结构呈现。引言部分（Knudsen, 2017, p.253–254）阐述了四个研究问题的背景：丹麦 VL 实施现状、现有批评文献（Snook et al., 2009; Simpson, 2017; Biesta, 2010）、以及 Knudsen 自己的 [[Science and Technology Studies|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
 >
 
 ## 主要发现
@@ -74,7 +72,7 @@ updated: '2026-05-18'
 >
 > - [[John Hattie|Hattie]] 自称"我是测量人员，我是统计学家"，VL 的工作最初是"业余爱好"（Knudsen, 2017, p.254）
 > - 教育领域缺乏规模化文献——Hattie 只能找到 5 篇关于规模化成功的文章；也缺乏实施模型（Knudsen, 2017, p.254）
-> - 通过 [[Cognition Education (NZ)|Cognition Education]] 的授权经营（licensing）模式运作：Hattie 从咖啡连锁店的商业模式中获取灵感，核心关注质量控制和法律合同（p.254）
+> - 通过 [[Cognition Education|Cognition Education]] 的授权经营（licensing）模式运作：Hattie 从咖啡连锁店的商业模式中获取灵感，核心关注质量控制和法律合同（p.254）
 > - VL 工作坊是脚本化的（"scripted. To the word"），禁止教师分享自己的故事和课堂经验（p.254）
 > - 认证通过率仅五分之一，因为"几乎每个教师都想讲自己的故事、轶事和课堂"（p.254）
 >
@@ -152,7 +150,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > - 作为访谈而非研究论文，内容反映 [[John Hattie|Hattie]] 的自我陈述和立场辩护，需与其他来源交叉验证
 > - Knudsen 承认访谈"可能有些天真"——因为"没有人能单独控制教育思想和项目的接收和翻译"（p.253）
-> - Knudsen 未能如愿在奥克兰 [[Cognition Education (NZ)|Cognition Education]] 办公室观察丹麦数据处理过程——这一请求被拒绝（p.254）
+> - Knudsen 未能如愿在奥克兰 [[Cognition Education|Cognition Education]] 办公室观察丹麦数据处理过程——这一请求被拒绝（p.254）
 > - 访谈通过 Skype 进行而非面对面，转录经编辑和缩写
 >
 

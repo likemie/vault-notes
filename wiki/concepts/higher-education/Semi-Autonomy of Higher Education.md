@@ -1,10 +1,10 @@
 ---
 title: Semi-Autonomy of Higher Education
 aliases:
-- 高等教育半自主性
-- semi-autonomy
-- relative autonomy of higher education
-- 高等教育相对自主性
+  - 高等教育半自主性
+  - semi-autonomy
+  - relative autonomy of higher education
+  - 高等教育相对自主性
 summary: "指高等教育相对于国家和经济既受塑造又保有部分独立运作逻辑的状态，用于分析大学制度的相对自主性。"
 type: concept
 tags:
@@ -16,14 +16,12 @@ related_concepts:
   - "[[Methodological Globalism]]"
   - "[[Double Spatiality of Universities]]"
   - "[[Scale in Higher Education]]"
-  - "[[Multiplicity (Massey)]]"
 related_theories:
   - "[[Hegemony]]"
   - "[[World-Systems Theory]]"
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Sino-American Trade War (2018)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Marginson_2025_ROE]]"
@@ -77,7 +75,7 @@ updated: '2026-05-18'
 > - [[Hegemony|霸权理论]]（Gramsci） — 半自主性是 Gramsci 文化霸权理论的核心推论，详见 [[Hegemony#核心命题]]
 > - [[Double Spatiality of Universities]] — 大学双重空间性为半自主性提供了空间本体论基础：大学扎根于国家又超越国家
 > - [[Scale in Higher Education]] — 尺度不可化约性论证了为什么国家尺度的分析不能替代其他尺度的分析
-> - [[Multiplicity (Massey)]] — "总是有松散的末端"从本体论上排除了完全决定论的可能
+> - [[Multiplicity]] — "总是有松散的末端"从本体论上排除了完全决定论的可能
 
 ---
 
@@ -93,7 +91,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - 半自主性的边界是模糊的——"半"到什么程度？在什么条件下半自主性会被压缩？例如，在冷战的特定时期（麦卡锡主义）或[[Sino-American Trade War (2018)|中美贸易战]]的特定领域（芯片技术、AI），科学的半自主性明显受到严重侵蚀（Marginson, 2025, p. 14）
+> - 半自主性的边界是模糊的——"半"到什么程度？在什么条件下半自主性会被压缩？例如，在冷战的特定时期（麦卡锡主义）或[[Sino-American Trade War|中美贸易战]]的特定领域（芯片技术、AI），科学的半自主性明显受到严重侵蚀（Marginson, 2025, p. 14）
 > - 半自主性可能被滥用为"学术自由"的修辞掩护——大学在声称半自主的同时可能深度参与服务于国家利益的地缘政治竞争（如国防研究），这使"半自主"本身成为需要经验检验而非理论预设的问题（Marginson, 2025, pp. 13–14）
 
 ---

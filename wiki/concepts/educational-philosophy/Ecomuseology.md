@@ -1,11 +1,11 @@
 ---
 title: Ecomuseology
 aliases:
-- 生态博物馆学
-- ecomuseology
-- 生态博物馆
-- ecomuseum
-- ecomuseums
+  - 生态博物馆学
+  - ecomuseology
+  - 生态博物馆
+  - ecomuseum
+  - ecomuseums
 summary: "将整个地域视为博物馆并由社区主导保护和阐释自然与文化遗产的博物馆学取向。"
 type: concept
 tags:

@@ -1,8 +1,8 @@
 ---
 title: Innovation Union
 aliases:
-- 创新联盟（欧盟）
-- EU Innovation Union
+  - 创新联盟（欧盟）
+  - EU Innovation Union
 summary: "EU 2010–2020 旗舰政策，旨在构建区域创新生态体系，以 EUROSTAT 区域创新记分牌为核心监测工具"
 type: fact
 subtype: policy

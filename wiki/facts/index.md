@@ -10,9 +10,9 @@ Total entries: **141**
 
 - [[Australian Curriculum]] — 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
 - [[Gonski Reforms]] — 2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于“不让任何学校更糟“条款
-- [[Independent Public Schools (IPS) Western Australia]] — WA 州最激进的学校自主权改革，575 所学校转为 IPS 地位
+- [[Independent Public Schools Western Australia]] — WA 州最激进的学校自主权改革，575 所学校转为 IPS 地位
 - [[Karmel Report 1973]] — 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
-- [[Local Schools Local Decisions (NSW)]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
+- [[Local Schools Local Decisions]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
 - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
 - [[Victorian HITS and Literacy Toolkit 2017]] — 维州教育部发布 10 项 HITS 和 Literacy Toolkit，均以 Hattie 的 VL 为首要参考，O’Connor (2020) 质疑其证据基础
 
@@ -28,13 +28,13 @@ Total entries: **141**
 
 ### Event
 
-- [[Jerudong International School Establishment (Brunei 1997)]] — 1997年文莱在 Prince Jefri 支持下委托 Multi Serve 建立 Jerudong International School，该项目成为 Cognition 前身国际化扩张的重要起点
+- [[Jerudong International School Establishment]] — 1997年文莱在 Prince Jefri 支持下委托 Multi Serve 建立 Jerudong International School，该项目成为 Cognition 前身国际化扩张的重要起点
 
 ## China
 
 ### Event
 
-- [[Academic Ranking of World Universities (ARWU)]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
+- [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
 - [[China Social Credit System]] — 中国利用大数据对公民行为进行永久性评估的治理系统，Partaken (2022) 定位为 GPK 监视模态的当代典范
 - [[Civil Service Examination]] — 中国自 7 世纪至 1905 年延续超过 1300 年的官员选拔制度，将道德成就、学术学习、政治权力和社会地位前所未有地融为一体
 - [[Confucian Revival in China]] — 1980 年代末至今中共主导的儒家传统复兴运动，经历民间自发到国家收编的转变，服务于意识形态合法化和国族建构
@@ -48,7 +48,7 @@ Total entries: **141**
 - [[China Basic Education Curriculum Reform 2001]] — 教育部发布基础教育课程改革纲要（试行），从“双基“转向“素质教育“、从教师中心转向学生中心教学，在大城市和偏远地区均深入推进
 - [[China College Graduate Employment Reform 1986-1997]] — 从统包统分到双向选择的高校毕业生就业市场化改革，1986 提出→1989 批准→1994 并轨试点→1997 全国实施
 - [[Recommendation-Based Graduate Admission System]] — 1980s 中期至今的推免研究生制度：以累积学分为依据免试直升，985 院校覆盖率可达 40%+，郑雅君 (2023) 分析其对不同阶层学生的隐性要求差异，改革派与保守派在“借鉴日本教育“上形成阶段性共识并推动大规模借用
-- [[Three Excellences (San Hao Sheng)]] — 中国学校年度评选的模范学生荣誉，以品德、学业、艺术/体育三方面卓越表现为标准，通过师生提名投票产生，用于为全体学生树立学习榜样
+- [[Three Excellences]] — 中国学校年度评选的模范学生荣誉，以品德、学业、艺术/体育三方面卓越表现为标准，通过师生提名投票产生，用于为全体学生树立学习榜样
 
 ## Denmark
 
@@ -99,11 +99,11 @@ Total entries: **141**
 
 ### Event
 
-- [[Education at a Glance (EAG)]] — OECD 年度旗舰出版物，以 30 项国际教育指标描述各国教育系统，涵盖产出、投入、参与、环境四大维度
+- [[Education at a Glance]] — OECD 年度旗舰出版物，以 30 项国际教育指标描述各国教育系统，涵盖产出、投入、参与、环境四大维度
 - [[Education City Doha]] — 卡塔尔首都多哈的多大学海外分校集中园区：康奈尔医学院、乔治城、卡内基梅隆等，标志大学全球化的新阶段
 - [[INES Lugano General Assembly 1991]] — INES 第二届全体大会，科学家-政策制定者权力关系的分水岭：政策制定者强行将学生成绩数据纳入 EAG
-- [[International Baccalaureate (IB)]] — 覆盖 3–19 岁的国际课程体系（PYP/MYP/DP），709K 学生 2,609 学校 135 国(2009)；六学科组+TOK+EE+CAS；主张意识形态中立但被质疑西方根源
-- [[International Indicators of Education Systems (INES)]] — 1988 年 OECD 启动的国际教育指标开发项目，EAG 的前身和生产者
+- [[International Baccalaureate]] — 覆盖 3–19 岁的国际课程体系（PYP/MYP/DP），709K 学生 2,609 学校 135 国(2009)；六学科组+TOK+EE+CAS；主张意识形态中立但被质疑西方根源
+- [[International Indicators of Education Systems]] — 1988 年 OECD 启动的国际教育指标开发项目，EAG 的前身和生产者
 - [[ISSPP Project]] — Christopher Day 领导、自 2002 年起 20+ 国参与的国际成功学校校长项目，最全面的跨国学校领导力案例研究，Møller 以亲历者立场提出方法论反思
 - [[Minerva University]] — 2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标
 - [[OECD AHELO Project]] — OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败
@@ -132,9 +132,9 @@ Total entries: **141**
 
 ### Policy
 
-- [[Citizenship and Social Development (Hong Kong)]] — 2021 年取代通识教育科的香港高中必修科，课程核心从批判性思维转向爱国主义与国家安全
+- [[Citizenship and Social Development]] — 2021 年取代通识教育科的香港高中必修科，课程核心从批判性思维转向爱国主义与国家安全
 - [[Introduction of Liberal Studies 2009]] — 通识教育科作为新高中核心必修科的创立，以全球化论述和 IBDP 参照包装国内政策需求
-- [[Liberal Studies (Hong Kong)]] — 2009–2021 年香港高中必修的通识教育科，跨学科议题为本探究，2021 年被公民科取代
+- [[Liberal Studies]] — 2009–2021 年香港高中必修的通识教育科，跨学科议题为本探究，2021 年被公民科取代
 - [[National Education in Hong Kong]] — 培养香港青少年对中华人民共和国的国家认同与爱国情感的教育实践，在国安法后成为课程核心
 
 ## Italy
@@ -147,19 +147,19 @@ Total entries: **141**
 
 ### Event
 
-- [[Kokutai no Hongi (1937)]] — 日本文部省思想局编写的皇国思想教育文本，在殖民地强制教学，Partaken 定位为 GPK 强制知识转移的历史典范
+- [[Kokutai no Hongi]] — 日本文部省思想局编写的皇国思想教育文本，在殖民地强制教学，Partaken 定位为 GPK 强制知识转移的历史典范
 
 ## Multi-country
 
 ### Event
 
 - [[Cram Schools]] — 东亚社会广泛存在的校外付费学业补习机构，在台湾、日本、韩国、香港、中国、新加坡和越南普遍存在
-- [[Sino-American Trade War (2018)]] — 中美贸易与技术转移争端，Partaken (2022) 定位为 GPK“最好且最当下的经验案例
+- [[Sino-American Trade War]] — 中美贸易与技术转移争端，Partaken (2022) 定位为 GPK“最好且最当下的经验案例
 - [[Transnationalism and America Project SYSU]] — 岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍
 
 ### Policy
 
-- [[Best Evidence in Brief (BEiB)]] — Johns Hopkins University 与约克大学创建的全球证据传播网络（每两周简报），扩展至 NNU 中国大陆中文版和 CUHK 海外华人版（Slavin et al., 2021）
+- [[Best Evidence in Brief]] — Johns Hopkins University 与约克大学创建的全球证据传播网络（每两周简报），扩展至 NNU 中国大陆中文版和 CUHK 海外华人版（Slavin et al., 2021）
 
 ## Netherlands
 
@@ -171,22 +171,22 @@ Total entries: **141**
 
 ### Event
 
-- [[Cognition Education (NZ)]] — 1989 年新西兰学校改革催生的教育服务组织 从 Multi Serve 转型为 Cognition Education 通过国际咨询与 Visible Learningplus 扩张 并长期处于慈善使命与营利结构张力之中
-- [[Manaiakalani Education Trust (NZ 2011)]] — 2011 年成立的 Tamaki 社区数字学习慈善信托，从 EHSAS/ICT 集群起步，获 NEXT Foundation 资助全国规模化推广 Outreach 项目
-- [[Partnership Schools Kura Hourua (NZ 2011)]] — 新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动
-- [[Teach First New Zealand Ako Mātātupu (TFNZ 2011)]] — 2011 年启动的高成就毕业生就业型初级教师教育慈善信托，7% 接受率，与 Teach for All 全球网络和奥克兰大学合作运营
-- [[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]] — 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O’Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
+- [[Cognition Education]] — 1989 年新西兰学校改革催生的教育服务组织 从 Multi Serve 转型为 Cognition Education 通过国际咨询与 Visible Learningplus 扩张 并长期处于慈善使命与营利结构张力之中
+- [[Manaiakalani Education Trust]] — 2011 年成立的 Tamaki 社区数字学习慈善信托，从 EHSAS/ICT 集群起步，获 NEXT Foundation 资助全国规模化推广 Outreach 项目
+- [[Partnership Schools Kura Hourua]] — 新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动
+- [[Teach First New Zealand Ako Mātātupu]] — 2011 年启动的高成就毕业生就业型初级教师教育慈善信托，7% 接受率，与 Teach for All 全球网络和奥克兰大学合作运营
+- [[Treasury Briefing on Student-Teacher Ratios]] — 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O’Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
 - [[Visible Learning Branding and Global Influences]] — Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议
 
 ### Policy
 
-- [[Contestable School Support Services (NZ 2011)]] — 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M
-- [[Foundation North Māori and Pasifika Education Initiative (MPEI 2009)]] — Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社区提案驱动和网络识别两阶段模式改善 Māori 和 Pasifika 学生教育成果
+- [[Contestable School Support Services]] — 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M
+- [[Foundation North Māori and Pasifika Education Initiative]] — Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社区提案驱动和网络识别两阶段模式改善 Māori 和 Pasifika 学生教育成果
 - [[Learning for Life Report 1989]] — Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald Grace 提议的“critic and conscience of society“作为大学的定义特征，后被写入新西兰法律
-- [[New Zealand National Standards (2009)]] — 国家党联合政府推行的国家教育标准政策，Hattie 参与技术顾问和部长顾问组，引发激烈争议
+- [[New Zealand National Standards]] — 国家党联合政府推行的国家教育标准政策，Hattie 参与技术顾问和部长顾问组，引发激烈争议
 - [[The New Zealand Curriculum]] — 2010 年实施的 NZ 国家课程，包含八项原则（高期望、学会学习、未来焦点），允许各校设计独特学习项目，ERO 定期评估
 - [[The Scott Report 1986]] — 新西兰议会教育与科学选择委员会发布的教学质量调查报告，主张迫切需要教师表现测量但承认过程将“漫长而复杂“，建议设立大学研究单位开发可靠工具——从未落实
-- [[Tomorrow's Schools Reforms (NZ 1989)]] — 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
+- [[Tomorrow's Schools Reforms]] — 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
 
 ## Russia
 
@@ -220,7 +220,7 @@ Total entries: **141**
 
 ### Event
 
-- [[Areopagitica (1644)]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
+- [[Areopagitica]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
 - [[Hargreaves 1996 TTA Lecture]] — David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
 - [[Playing for Success]] — 英国依托足球俱乐部场地设立的学习支持中心项目，结合体育吸引力与课外辅导实践，后续成为教育证据聚合争议中的重要案例
 - [[ResearchED]] — 2013 年英国兴起的教师草根运动，主张以研究证据尤其随机试验支持课堂实践，推动证据本位教学的公共传播与制度争论
@@ -239,7 +239,7 @@ Total entries: **141**
 - [[Ofsted]] — 英国教育标准办公室，负责英格兰学校检查与评级，其评级在教育政策辩论中常被当作研究证据使用并带有强烈道德判断色彩
 - [[Rose Report 2006]] — Jim Rose 领导的英国早期阅读教学独立审查，推广简单阅读观，直接导致全英强制合成语音教学
 - [[Selective Schools Expansion Fund 2018]] — 保守党政府 £50M 基金允许现有文法学校扩展招生，在新建禁令未修改的情况下以替代路径扩大选择性教育
-- [[What Works Network (UK)]] — 英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴
+- [[What Works Network]] — 英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴
 
 ## US
 
@@ -247,38 +247,38 @@ Total entries: **141**
 
 - [[A Nation at Risk 1983]] — 美国国家教育卓越委员会发布的报告，引发全球教育质量恐慌，直接触发 OECD 教育指标体系（INES/EAG）的加速建立
 - [[American Attraction to Japanese Education 1980s]] — 1980 年代美国在危机叙事与国际比较推动下持续强化“向日本学习“参照网络，但受联邦—州—地方分权制约未形成全国统一制度移植
-- [[Best Evidence Encyclopedia (BEE)]] — 教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目
+- [[Best Evidence Encyclopedia]] — 教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目
 - [[Blueprints for Healthy Youth Development]] — 多领域非营利清算中心，最高评级强调高质量研究、独立复制和 12 个月持续效果
 - [[California Class Size Reduction 1996]] — 1996 年加州大规模推行的班额缩减政策，因教师与教室供给不足暴露出试点成功经验在全州扩张中的实施条件问题
-- [[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)]] — 面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果
-- [[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]] — 面向军人家庭的 public 清算中心，对 RCT 与一般 QED 均有详细证据标准
-- [[CNCS Evidence Exchange (EE)]] — 只审查 CNCS 自身资助项目和干预的 public 清算中心，在 Wadhwa et al. (2024) 样本中贡献 52 个项目
+- [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] — 面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果
+- [[Clearinghouse for Military Family Readiness Continuum of Evidence]] — 面向军人家庭的 public 清算中心，对 RCT 与一般 QED 均有详细证据标准
+- [[CNCS Evidence Exchange]] — 只审查 CNCS 自身资助项目和干预的 public 清算中心，在 Wadhwa et al. (2024) 样本中贡献 52 个项目
 - [[Coleman Report 1966]] — 美国教育部委托的里程碑式教育机会平等研究（650,000+ 学生、4,000 所学校），结论为家庭背景而非学校特征是学业差距的主要驱动力，50 年后 Downey & Condron 重新评估认为 Coleman 低估了学校的补偿性作用
-- [[Collaborative for Academic Social and Emotional Learning Guide (CASEL)]] — 聚焦社会情感学习项目的非营利教育清算中心，Wadhwa et al. (2024) 样本中贡献 25 个项目
-- [[Communities in Schools (CIS)]] — Wadhwa et al. (2024) 的清算中心评级分歧案例：NDPC 推荐，PPN/CNCS 认为 promising 或中等支持，Blueprints/CMFR 不背书
+- [[Collaborative for Academic Social and Emotional Learning Guide]] — 聚焦社会情感学习项目的非营利教育清算中心，Wadhwa et al. (2024) 样本中贡献 25 个项目
+- [[Communities in Schools]] — Wadhwa et al. (2024) 的清算中心评级分歧案例：NDPC 推荐，PPN/CNCS 认为 promising 或中等支持，Blueprints/CMFR 不背书
 - [[Creation of REES 2018]] — IES 于 2018 年启动的教育项目评估预注册平台（Registry of Efficacy and Effectiveness Studies），旨在缓解可疑研究实践并增加对知识库的信心
-- [[Daubert v. Merrell Dow Pharmaceuticals (1993)]] — 美国联邦最高法院里程碑裁决，确立科学证据可采性标准，Berk (2011) 引入评估研究方法论讨论以框架化证据与垃圾科学的区分
+- [[Daubert v Merrell Dow Pharmaceuticals 1993]] — 美国联邦最高法院里程碑裁决，确立科学证据可采性标准，Berk (2011) 引入评估研究方法论讨论以框架化证据与垃圾科学的区分
 - [[ESSA 2015 Evidence Standards]] — 美国联邦教育主法定义强/中/有希望与理论依据证据层级，将联邦拨款与使用达到证据标准的项目绑定
-- [[Home Visiting Evidence of Effectiveness (HomVEE)]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、QED、RDD 均有详细标准
-- [[Investing in Innovation (i3) Program]] — 2009–2016 年美国教育部 USD 1.4B 分层拨款项目，以开发→验证→规模化结构推动教育 RCT 证据生产
-- [[National Dropout Prevention Center (NDPC)]] — 聚焦辍学预防项目的非营利教育清算中心，在 Wadhwa et al. (2024) 四个详细比较对象中最高评级门槛最低
+- [[Home Visiting Evidence of Effectiveness]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、QED、RDD 均有详细标准
+- [[Investing in Innovation Program]] — 2009–2016 年美国教育部 USD 1.4B 分层拨款项目，以开发→验证→规模化结构推动教育 RCT 证据生产
+- [[National Dropout Prevention Center]] — 聚焦辍学预防项目的非营利教育清算中心，在 Wadhwa et al. (2024) 四个详细比较对象中最高评级门槛最低
 - [[Open Court Reading]] — Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、BEE 均评为 promising，但研究解释标准不同
-- [[Peer-Assisted Learning Strategies (PALS)]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断
-- [[Promise Neighborhoods Research Consortium (PNRC)]] — 评价项目、政策和实践的 public 清算中心，不进行项目效果分层评级，未进入 Wadhwa et al. (2024) 最终一致性分析
-- [[Promising Practices Network (PPN)]] — 面向儿童与家庭的多领域非营利清算中心，因 2020 年中停止运行未进入 Wadhwa et al. (2024) 最终一致性分析
-- [[Quantum Opportunity Program (QOP)]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP 与 Eisenhower QOP 两个项目版本
-- [[Social Programs That Work (SPTW)]] — 多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库
+- [[Peer-Assisted Learning Strategies]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断
+- [[Promise Neighborhoods Research Consortium]] — 评价项目、政策和实践的 public 清算中心，不进行项目效果分层评级，未进入 Wadhwa et al. (2024) 最终一致性分析
+- [[Promising Practices Network]] — 面向儿童与家庭的多领域非营利清算中心，因 2020 年中停止运行未进入 Wadhwa et al. (2024) 最终一致性分析
+- [[Quantum Opportunity Program]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP 与 Eisenhower QOP 两个项目版本
+- [[Social Programs That Work]] — 多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库
 - [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发美国科技信心危机，Amos (2022) 将其定位为教育与地缘政治关系的关键转折点：触发 OECD 对 STEM 教育的系统性关注，建立“教育质量→科技能力→国家竞争力“的政策逻辑链
 - [[Success for All]] — Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断
 - [[Tennessee STAR Project 1985-1989]] — 1985 至 1989 年田纳西州实施的大型班额缩减随机试验，成为教育因果识别、班级规模政策和结果外推争论中的关键案例
 - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
 - [[University of Kentucky Top-20 Plan]] — 肯塔基州立法机构指令赠地大学达到 Top-20 排名的战略计划，因 USNWR 评分惩罚招收弱势群体学生而失败，成为排名与使命冲突的经典案例
-- [[US-China Economic and Security Review Commission (2000)]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
-- [[What Works Clearinghouse (WWC)]] — 美国教育部 2002 年建立的教育证据清算中心，用于评估项目、实践和研究质量，已成为证据本位教育基础设施中的核心节点
+- [[US-China Economic and Security Review Commission]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
+- [[What Works Clearinghouse]] — 美国教育部 2002 年建立的教育证据清算中心，用于评估项目、实践和研究质量，已成为证据本位教育基础设施中的核心节点
 
 ### Policy
 
-- [[Comprehensive School Reform (CSR) Program]] — 1998 年 Obey-Porter 立法首次将联邦教育拨款与有效性证据挂钩（USD 150M→USD 310M/年），但仅 20.8% 拨款流向强证据项目
+- [[Comprehensive School Reform Program]] — 1998 年 Obey-Porter 立法首次将联邦教育拨款与有效性证据挂钩（USD 150M→USD 310M/年），但仅 20.8% 拨款流向强证据项目
 - [[No Child Left Behind Act 2001]] — Bush 政府 ESEA 重新授权，“科学本位研究“出现 110 次，将实验证据标准嵌入联邦教育项目核心，ESSA (2015) 的前身
-- [[Students and Teachers Accessing Tomorrow (STAT)]] — 2014-2019年巴尔的摩郡公立学校分阶段推进的全学区技术整合项目，用于展示复杂教育改革中证据生成与解释的困难。
+- [[Students and Teachers Accessing Tomorrow]] — 2014-2019年巴尔的摩郡公立学校分阶段推进的全学区技术整合项目，用于展示复杂教育改革中证据生成与解释的困难。
 - [[WWC SCD Pilot Standards 2010]] — Kratochwill & Hitchcock 为 IES 开发的 WWC 单一个案设计审查试行标准，含 Review Guide 和 5-3-20 规则

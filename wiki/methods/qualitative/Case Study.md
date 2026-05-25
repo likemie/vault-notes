@@ -1,7 +1,7 @@
 ---
 title: Case Study
 aliases:
-- 个案研究
+  - 个案研究
 summary: "以单个或少数个案为分析单位深入追踪过程、情境和机制的研究设计，适合解释复杂现象如何在具体场域中展开"
 type: method
 method_type: qualitative

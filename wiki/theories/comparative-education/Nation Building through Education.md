@@ -23,8 +23,6 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[National Education in Hong Kong]]"
-  - "[[Liberal Studies (Hong Kong)]]"
-  - "[[Citizenship and Social Development (Hong Kong)]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Yu_2024_CE]]"
@@ -74,7 +72,7 @@ updated: '2026-05-21'
 > | **西藏** | 强制性国民教育消除地方语言和文化认同 | Leibold & Dorjee (2024) |
 > | **新疆** | "普通话化"教育政策压制维吾尔语言教育 | Tobin (2024) |
 > | **内蒙古** | "中华民族"叙事替代蒙古族历史叙事 | Bulag (2024) |
-> | **香港** | 以 [[Liberal Studies (Hong Kong)|LS]]→[[Citizenship and Social Development (Hong Kong)|CSD]] 替代实现从温和"中国背景"到强制爱国教育的转变 | Yan & Morris (2025); Vickers & Morris (2022) |
+> | **香港** | 以 [[Liberal Studies|LS]]→[[Citizenship and Social Development|CSD]] 替代实现从温和"中国背景"到强制爱国教育的转变 | Yan & Morris (2025); Vickers & Morris (2022) |
 >
 > > Yan & Morris (2025, p. 490) 指出香港案例的区别性特征："香港的'华化'（[[Sinicisation|sinicisation]]）被更谨慎地执行，先以 LS 的温和'中国背景'为入口，后以 CSD 的强制爱国教育收尾。"
 
@@ -107,7 +105,7 @@ updated: '2026-05-21'
 
 
 > [!warning] 香港的特殊性：一国两制下的"谨慎"同化
-> **争议背景**：Yan & Morris (2025, p. 490) 指出香港的国族建构策略比新疆和西藏"更谨慎"——先以 [[Liberal Studies (Hong Kong)|LS]] 的温和"中国背景"为入口（2009），后以 [[Citizenship and Social Development (Hong Kong)|CSD]] 的强制爱国教育收尾（2021）。这一区别提出了分析性问题：为什么对香港采取不同的节奏和策略？
+> **争议背景**：Yan & Morris (2025, p. 490) 指出香港的国族建构策略比新疆和西藏"更谨慎"——先以 [[Liberal Studies|LS]] 的温和"中国背景"为入口（2009），后以 [[Citizenship and Social Development|CSD]] 的强制爱国教育收尾（2021）。这一区别提出了分析性问题：为什么对香港采取不同的节奏和策略？
 >
 > **可能原因**：
 > - "一国两制"的国际承诺限制了对香港的直接文化同化——需要维持"自治"外观
@@ -119,7 +117,7 @@ updated: '2026-05-21'
 ## 相关研究
 
 > [!example] [[Observational and Correlational Research|相关研究]]
-> - [[Argument_Yan_2025_JCS]] — 将香港 [[Liberal Studies (Hong Kong)|LS]]→[[Citizenship and Social Development (Hong Kong)|CSD]] 案例纳入边疆国族建构框架
+> - [[Argument_Yan_2025_JCS]] — 将香港 [[Liberal Studies|LS]]→[[Citizenship and Social Development|CSD]] 案例纳入边疆国族建构框架
 > - Vickers & Morris (2022) — 国安法与香港教育的"大陆化"
 > - Leibold & Dorjee (2024) — 西藏
 > - Tobin (2024) — 新疆

@@ -1,8 +1,8 @@
 ---
 title: Regulatory Regionalism
 aliases:
-- 监管型区域主义
-- 监管区域主义
+  - 监管型区域主义
+  - 监管区域主义
 summary: "指超国家组织通过指标、排名和协调机制对区域内高等教育进行间接治理的区域监管形式。"
 type: concept
 tags:
@@ -29,7 +29,7 @@ related_facts:
   - "[[Horizon 2020 SSH Integration]]"
 related_arguments: []
 sources:
-  - "[[Parreira do Amaral(Ed]]"
+  - "[[Parreira do Amaral(Ed.)_2022_Springer]]"
   - "[[Ch10_Rambla_2022]]"
 confidence: medium
 status: draft

@@ -1,11 +1,11 @@
 ---
 title: Benevolence
 aliases:
-- 仁
-- human goodness
-- benevolence
-- humanheartedness
-- authoritative conduct
+  - 仁
+  - human goodness
+  - benevolence
+  - humanheartedness
+  - authoritative conduct
 summary: "儒学核心概念，指通过终身修养达到的最高道德境界，超越具体德目（如孝、礼），代表最真诚、最完整的人性实现。"
 type: concept
 tags:

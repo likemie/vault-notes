@@ -15,7 +15,6 @@ tags:
 - subject/research-methodology
 related_concepts:
   - "[[Potential Outcomes Framework]]"
-  - "[[Stable Unit Treatment Value Assumption (SUTVA)]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -65,7 +64,7 @@ updated: '2026-05-18'
 > ### 2. 随机实验的优势与局限
 >
 > 随机实验的内部效度优势被认可（[[Campbell Collaboration|Campbell]], 1969; Campbell & Stanley, 1963），但广泛使用导致两个不良后果：
-> - **集群随机化问题**：随机化单位（教室）与政策兴趣单位（学生）不一致，导致样本量不足、[[Stable Unit Treatment Value Assumption (SUTVA)|SUTVA]] 违反——"单一的因果效应不再存在"（Berk, 2011, p.195）
+> - **集群随机化问题**：随机化单位（教室）与政策兴趣单位（学生）不一致，导致样本量不足、[[Stable Unit Treatment Value Assumption|SUTVA]] 违反——"单一的因果效应不再存在"（Berk, 2011, p.195）
 > - **非随机研究被断然否定**："这是一个严重错误"，因为内部效度只是多种效度之一——没有外部效度，[[Randomised Controlled Trials|RCT]] 结果对政策毫无用处（Berk, 2011, p.195）
 >
 > Berk 的平衡立场：RCT 的最强理由并非其方法论优越性，而是"比其它设计更能防止研究者犯严重的统计错误"（Berk, 2011, p.196）——同时承认设计不如 RCT 但具有更好外部效度的观察性研究"有时可以提供有启发性的结果"（Berk, 2011, p.195）。
@@ -122,7 +121,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - 作为编辑反思而非系统综述，论文的方法论批评虽然有 35 年编辑经验支撑，但属于个人观察而非实证研究
-> - Berk 对 [[Randomised Controlled Trials|RCT]] 的辩护（"防止统计错误"）与批判（"集群随机化中的 [[Stable Unit Treatment Value Assumption (SUTVA)|SUTVA]] 违反"）之间存在张力——他的"铜标准"（bronze standard, Berk 2005）比喻试图调和二者，但在本文中未充分展开
+> - Berk 对 [[Randomised Controlled Trials|RCT]] 的辩护（"防止统计错误"）与批判（"集群随机化中的 [[Stable Unit Treatment Value Assumption|SUTVA]] 违反"）之间存在张力——他的"铜标准"（bronze standard, Berk 2005）比喻试图调和二者，但在本文中未充分展开
 > - 提出的对策（中立专家审查、团队评估）偏重精英专家模式，未回应 Cowen (2019) 后来提出的官僚知识问题和制度激励问题
 > - 论文发表于 2011 年，此后因果推断方法（如双重差分、合成控制、断点回归设计）在经济学中的发展可能已部分回应了 Berk 对[[Causal Modeling|因果建模]]的批评
 

@@ -1,7 +1,7 @@
 ---
 title: Ken Goodman
 aliases:
-- 肯·古德曼
+  - 肯·古德曼
 summary: "美国教育学者，全语言运动奠基人和 Reading_A Psycholinguistic Guessing Game 作者，为教育研究提供与技能本位识字观对立的重要传统。"
 type: person
 nationality: us

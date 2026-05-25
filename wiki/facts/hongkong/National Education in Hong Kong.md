@@ -22,8 +22,6 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Liberal Studies (Hong Kong)]]"
-  - "[[Citizenship and Social Development (Hong Kong)]]"
   - "[[Replacement of LS by CSD 2021]]"
   - "[[National Security Law Impact on Hong Kong Education]]"
 related_arguments: []
@@ -46,11 +44,11 @@ updated: '2026-05-18'
 > - **1997 年前** — 殖民地时期，教育体系刻意淡化中国国家认同，避免与中国建立文化政治纽带
 > - **1997 年回归** — 江泽民在特区成立庆典上强调"血浓于水"的亲情叙事，将回归描绘为"回归祖国怀抱"
 > - **1998-2000** — 首任特首董建华的《施政报告》逐步提出国民教育方向，但以"终身学习"和"[[Knowledge-Based Economy|知识经济]]"等中性话语包装
-> - **2009** — [[Liberal Studies (Hong Kong)|LS]] 成为必修科，"现代中国"单元纳入课程，但内容不强调对中共的忠诚（反映了本地课程设计者对公民社会反弹的预判）
+> - **2009** — [[Liberal Studies|LS]] 成为必修科，"现代中国"单元纳入课程，但内容不强调对中共的忠诚（反映了本地课程设计者对公民社会反弹的预判）
 > - **2012** — 港府试图将"德育及国民教育科"（MNE）设为必修，引发大规模学生抗议，最终撤回并改为选修。这是国民教育议程的首次重大挫折
 > - **2019 反修例运动后** — 中国官媒指摘 LS"缺乏中国坐标"，将年轻人参与抗议归咎于国民教育的缺位
 > - **2020 年 6 月** — 《香港国安法》颁布，为强制推行国民教育提供了法律框架
-> - **2021 年 2 月** — [[Citizenship and Social Development (Hong Kong)|CSD]] 取代 LS，国民教育正式成为高中课程的必修核心组成部分
+> - **2021 年 2 月** — [[Citizenship and Social Development|CSD]] 取代 LS，国民教育正式成为高中课程的必修核心组成部分
 
 ## 核心要素
 
@@ -59,14 +57,14 @@ updated: '2026-05-18'
 > 2. **中共忠诚** — 将中共定位为"中华民族唯一合法代表"（Vickers & Morris, 2022, p. 47）
 > 3. **守法教育** — 法治被重新表述为对《国安法》和中央权威的服从
 > 4. **历史叙事统一** — 以中共批准的单一历史叙事取代多元视角
-> 5. **内地体验** — 通过强制性内地考察团（取代 [[Liberal Studies (Hong Kong)|LS]] 的 IES）让学生"亲身体验祖国发展"
+> 5. **内地体验** — 通过强制性内地考察团（取代 [[Liberal Studies|LS]] 的 IES）让学生"亲身体验祖国发展"
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
 > - **vs 公民教育（Citizenship Education）** — 公民教育可以包含权利意识、民主参与；而国民教育在香港语境中侧重义务、忠诚和服从。Law (2013) 曾指出中共试图在保存党性教条和适应全球化之间取得平衡，但近年来的文献（Vickers & Morris, 2022）认为天平已完全倾向前者。
-> - **vs 爱国主义教育（Patriotic Education）** — 国民教育是实施爱国主义教育的制度手段。[[Citizenship and Social Development (Hong Kong)|CSD]] 是爱国主义的课程载体。
-> - **vs [[Liberal Studies (Hong Kong)]]** — LS 包含对现代中国的知识学习但明确不强调忠诚培养；国民教育以忠诚和认同为核心目标。
+> - **vs 爱国主义教育（Patriotic Education）** — 国民教育是实施爱国主义教育的制度手段。[[Citizenship and Social Development|CSD]] 是爱国主义的课程载体。
+> - **vs [[Liberal Studies]]** — LS 包含对现代中国的知识学习但明确不强调忠诚培养；国民教育以忠诚和认同为核心目标。
 
 ## 理论基础
 
@@ -83,7 +81,7 @@ updated: '2026-05-18'
 > - **支持国民教育的立场**：基于中共的官方叙事——香港回归不只是主权转移，更是"人心回归"，需要通过国民教育完成去殖民化和重新[[Sinicisation|中国化]]。（Yan & Morris, 2025, p. 489）
 > - **反对立场**：国民教育在实施中实际上是以中国国家认同取代香港地方认同，这不是"回归祖国怀抱"的温情叙事，而是系统性地消除殖民地时期形成的独特身份。
 >
-> **目前状态**：《国安法》(2020) 和 [[Citizenship and Social Development (Hong Kong)|CSD]] (2021) 已将国民教育从争议性政策转变为法律要求，公民社会抵抗空间已大幅收窄。
+> **目前状态**：《国安法》(2020) 和 [[Citizenship and Social Development|CSD]] (2021) 已将国民教育从争议性政策转变为法律要求，公民社会抵抗空间已大幅收窄。
 
 
 > [!warning] 与边疆民族建构策略的平行性
@@ -91,7 +89,7 @@ updated: '2026-05-18'
 > - Leibold & Dorjee (2024) 在西藏记录了强制性国民教育如何消除地方语言和文化认同
 > - Tobin (2024) 在新疆记录了"普通话化"的教育政策
 > - Bulag (2024) 在内蒙古记录了"中华民族"叙事如何替代蒙古族历史叙事
-> - Yan & Morris (2025, p. 490) 将香港纳入同一框架，论证这是中共在边疆地区推行"中华民族"统一认同的连贯策略——区别在于香港的'华化'（sinicisation）被更谨慎地执行，先以 [[Liberal Studies (Hong Kong)|LS]] 的温和"中国背景"为入口，后以 CSD 的强制爱国教育收尾。
+> - Yan & Morris (2025, p. 490) 将香港纳入同一框架，论证这是中共在边疆地区推行"中华民族"统一认同的连贯策略——区别在于香港的'华化'（sinicisation）被更谨慎地执行，先以 [[Liberal Studies|LS]] 的温和"中国背景"为入口，后以 CSD 的强制爱国教育收尾。
 >
 > **目前状态**：国际学术界日益将此视为跨国比较的研究对象，但在中国大陆内部这一比较被视为政治敏感。
 
@@ -108,7 +106,7 @@ updated: '2026-05-18'
 
 > [!example] 相关案例／政策
 > - 2012 MNE Controversy — 德育及国民教育科争议
-> - [[Replacement of LS by CSD 2021]] — [[Liberal Studies (Hong Kong)|LS]] 被 [[Citizenship and Social Development (Hong Kong)|CSD]] 取代
+> - [[Replacement of LS by CSD 2021]] — [[Liberal Studies|LS]] 被 [[Citizenship and Social Development|CSD]] 取代
 > - [[National Security Law Impact on Hong Kong Education]] — 国安法的教育后果
 
 ## 来源

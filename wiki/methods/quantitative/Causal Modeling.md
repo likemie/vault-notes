@@ -1,9 +1,9 @@
 ---
 title: Causal Modeling
 aliases:
-- 因果建模
-- 结构方程建模
-- SEM
+  - 因果建模
+  - 结构方程建模
+  - SEM
 summary: "通过结构方程等统计模型表示变量之间因果路径并同时估计多重关系的量化方法，常用于检验理论结构与中介机制"
 type: method
 method_type: quantitative

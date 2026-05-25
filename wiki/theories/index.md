@@ -33,7 +33,7 @@ Total entries: **46**
 - [[Phenomenology]] — 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的“现象“概念和教育意义
 - [[Popper's Three Worlds Theory]] — 将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承
 - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
-- [[Science and Technology Studies (STS)]] — 跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念
+- [[Science and Technology Studies]] — 跨学科领域：科学是社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产（co-production）和 performativity 为关键概念
 - [[Societies of Control]] — Deleuze (1992) 提出的社会理论_ 后规训时代的权力形态以持续调制取代封闭式规训，教育机构被纳入企业网络逻辑，调制永不终止
 - [[Technical Rationality]] — 把专业实践理解为以手段目的计算解决问题的实证主义模型，强调技术控制、价值中立和标准化决策，是批判教育技术化的重要参照
 - [[Transactional Epistemology]] — Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
@@ -47,7 +47,7 @@ Total entries: **46**
 ## Instruction Pedagogy
 
 - [[Bounded Rationality]] — 解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理
-- [[Theory of Teaching (Gruschka)]] — Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung 和 Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础
+- [[Teaching Theory of Gruschka]] — Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung 和 Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础
 
 ## Learning Science Cognitive Science
 

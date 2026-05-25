@@ -24,9 +24,7 @@ related_methods:
   - "[[Spirals of Inquiry]]"
 related_persons: []
 related_facts:
-  - "[[What Works Clearinghouse (WWC)]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[What Works Network (UK)]]"
 related_arguments: []
 sources:
   - "[[Peterson_2016_IJRME]]"
@@ -125,13 +123,13 @@ updated: '2026-05-18'
 
 
 > [!warning] 与"什么有效"范式的范式战争
-> Peterson (2016, p. 301) 将此文定位为"避免另一场范式战争"的努力，而非倒向任一范式。但整合方案是否在政治上可行——在一方主导的制度基础设施（EEF、IES、[[What Works Clearinghouse (WWC)|WWC]]）中为改进科学争取空间——仍待观察。
+> Peterson (2016, p. 301) 将此文定位为"避免另一场范式战争"的努力，而非倒向任一范式。但整合方案是否在政治上可行——在一方主导的制度基础设施（EEF、IES、[[What Works Clearinghouse|WWC]]）中为改进科学争取空间——仍待观察。
 
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
 > - [[EEF Teaching and Learning Toolkit]] — Peterson 建议 Toolkit 的未来迭代从排名项目转向编目机制（"活性成分"）
-> - [[What Works Network (UK)]] — 建议 What Works 中心承担跨领域学习召集人和网络协调人的新角色
+> - [[What Works Network]] — 建议 What Works 中心承担跨领域学习召集人和网络协调人的新角色
 
 ## 来源
 

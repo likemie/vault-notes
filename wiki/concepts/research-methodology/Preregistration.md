@@ -21,7 +21,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
-  - "[[What Works Clearinghouse (WWC)]]"
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Creation of REES 2018]]"
   - "[[ESSA 2015 Evidence Standards]]"
@@ -39,7 +38,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 预注册（Preregistration）指在研究开始前公开登记研究设计、结果测量和分析计划的做法。在教育项目评估中，预注册被视为缓解选择性报告、[[Publication Bias|发表偏倚]]和[[Researcher Degrees of Freedom|研究者自由度]]等"可疑研究实践"（questionable research practices）的关键机制。
 >
-> > "A potential solution to mitigate any bias resulting from selective reporting of the best outcomes, publication bias, and researcher degrees of freedom would be to require program evaluations (including specific outcome measures and analyses) to be preregistered in order for them to be included in the [[What Works Clearinghouse (WWC)|WWC]] or other program review facilities." (Wolf et al., 2020, p. 443)
+> > "A potential solution to mitigate any bias resulting from selective reporting of the best outcomes, publication bias, and researcher degrees of freedom would be to require program evaluations (including specific outcome measures and analyses) to be preregistered in order for them to be included in the [[What Works Clearinghouse|WWC]] or other program review facilities." (Wolf et al., 2020, p. 443)
 
 ## 核心要素
 
@@ -51,7 +50,7 @@ updated: '2026-05-18'
 > 4. **反事实条件描述**：控制组的具体情况
 > 5. **[[Implementation Fidelity|实施忠实度]]测量计划**：如何测量和报告干预实施质量
 >
-> > 例：一个阅读干预的 [[Randomised Controlled Trials|RCT]] 在 REES 预注册时，需提前声明将以 [[Tennessee STAR Project 1985-1989|STAR]] 阅读评估为主要结果、以州标准化测试为次要结果、以 HLM 为分析方法——如果最终报告增加了未预注册的结果测量或改变了分析方法，[[What Works Clearinghouse (WWC)|WWC]] 可将这些偏离预注册的内容标记为不符合审查要求。
+> > 例：一个阅读干预的 [[Randomised Controlled Trials|RCT]] 在 REES 预注册时，需提前声明将以 [[Tennessee STAR Project 1985-1989|STAR]] 阅读评估为主要结果、以州标准化测试为次要结果、以 HLM 为分析方法——如果最终报告增加了未预注册的结果测量或改变了分析方法，[[What Works Clearinghouse|WWC]] 可将这些偏离预注册的内容标记为不符合审查要求。
 
 
 > [!abstract] 预注册的边界
@@ -75,7 +74,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - **2018** — IES 启动 Registry of Efficacy and Effectiveness Studies (REES)，由 Anderson, Spybrook & Maynard (2019) 在 *Educational Researcher* 上描述（Wolf et al., 2020, p. 444）
-> - **2020** — Wolf et al. 在[[Developer Effect|开发者效应]]的讨论中提出将预注册作为 [[What Works Clearinghouse (WWC)|WWC]] 和其他项目审查机构的准入条件
+> - **2020** — Wolf et al. 在[[Developer Effect|开发者效应]]的讨论中提出将预注册作为 [[What Works Clearinghouse|WWC]] 和其他项目审查机构的准入条件
 
 ## 与相关概念的区别
 

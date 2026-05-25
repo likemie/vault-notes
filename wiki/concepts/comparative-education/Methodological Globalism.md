@@ -1,7 +1,7 @@
 ---
 title: Methodological Globalism
 aliases:
-- 方法论全球主义
+  - 方法论全球主义
 summary: "把全球尺度视为完全决定国家尺度的方法论立场，常作为方法论民族主义的镜像，并倾向弱化地方和制度的相对自主性"
 type: concept
 tags:
@@ -13,7 +13,6 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Scale in Higher Education]]"
   - "[[Semi-Autonomy of Higher Education]]"
-  - "[[Multiplicity (Massey)]]"
 related_theories:
   - "[[World-Systems Theory]]"
 related_methods: []
@@ -70,7 +69,7 @@ updated: '2026-05-18'
 > [!tip]
 > - [[Scale in Higher Education]] — 尺度不可化约理论提供了最直接的反驳工具：不同尺度有不同的运作逻辑，全球尺度不能代替国家尺度
 > - [[Semi-Autonomy of Higher Education]] — 高等教育和科学的半自主性概念为理解国家尺度的相对独立性提供了理论依据
-> - [[Multiplicity (Massey)]] — Massey 的多重性概念从本体论层面排除了单一尺度决定论的可能：如果空间总是多重的，那么任何单一尺度都不可能完全决定其他尺度
+> - [[Multiplicity]] — Massey 的多重性概念从本体论层面排除了单一尺度决定论的可能：如果空间总是多重的，那么任何单一尺度都不可能完全决定其他尺度
 
 ---
 

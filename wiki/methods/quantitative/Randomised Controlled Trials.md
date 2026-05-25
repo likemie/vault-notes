@@ -1,8 +1,8 @@
 ---
 title: Randomised Controlled Trials
 aliases:
-- 随机对照试验
-- RCT
+  - 随机对照试验
+  - RCT
 summary: "从药物试验借鉴至教育领域的实验设计方法，面临双盲不可能、控制组模糊、封闭系统幻觉等结构性缺陷"
 type: method
 method_type: quantitative
@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
-  - "[[Stable Unit Treatment Value Assumption (SUTVA)]]"
   - "[[Side Effects in Education]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Intent-to-Treat Analysis]]"
@@ -50,7 +49,6 @@ sources:
   - "[[Brady_2023_EPR]]"
   - "[[Wadhwa_2024_RER]]"
 related_facts:
-  - "[[What Works Clearinghouse (WWC)]]"
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 confidence: medium
@@ -139,7 +137,7 @@ updated: '2026-05-18'
 >
 > #### Ginsburg & Smith (2016) 的 12 项威胁
 >
-> 在分析 27 项被 [[What Works Clearinghouse (WWC)]] 高评分的数学课程 RCT 后，Ginsburg & Smith (2016, p. ii) 识别了包括以下在内的 12 种威胁：
+> 在分析 27 项被 [[What Works Clearinghouse]] 高评分的数学课程 RCT 后，Ginsburg & Smith (2016, p. ii) 识别了包括以下在内的 12 种威胁：
 >
 > - 作者与课程开发者有关联
 > - 课程干预实施不充分（尤其是在实施第一年）
@@ -190,9 +188,9 @@ updated: '2026-05-18'
 >
 > Berk (2011) 基于 35 年担任 *Evaluation Review* 创始编辑的经验，从集群随机化、外部效度和实用主义三个维度对 RCT 作为"黄金标准"的地位提出批评：
 >
-> **集群随机化与 [[Stable Unit Treatment Value Assumption (SUTVA)|SUTVA]] 违反**
+> **集群随机化与 [[Stable Unit Treatment Value Assumption|SUTVA]] 违反**
 >
-> Berk (2011, pp.194–195) 识别了教育 RCT 中最常见但"太少被认识到"的严重问题：当随机化单位为教室而政策兴趣单位为个体学生时，学生之间的互动导致"主体间干扰"——[[Stable Unit Treatment Value Assumption (SUTVA)|SUTVA]] 的违反。"因为任何一个学生的结果取决于他/她与之互动的学生，而这又取决于哪些学生被分配到哪些干预，因果效应不仅由干预定义，而且由哪些学生恰好被分配到哪里定义"（Berk, 2011, p.195）。每个可能的随机分配实现都产生不同的因果效应，"单一的因果效应不再存在"。截至 Berk 写作时，"对主体间干扰没有有效的统计补救方法"（Berk, 2011, p.195）。此外，随机化的单位数量"往往太少，无法有意义地确保所有混杂因素的平衡"（Berk, 2011, p.194）。
+> Berk (2011, pp.194–195) 识别了教育 RCT 中最常见但"太少被认识到"的严重问题：当随机化单位为教室而政策兴趣单位为个体学生时，学生之间的互动导致"主体间干扰"——[[Stable Unit Treatment Value Assumption|SUTVA]] 的违反。"因为任何一个学生的结果取决于他/她与之互动的学生，而这又取决于哪些学生被分配到哪些干预，因果效应不仅由干预定义，而且由哪些学生恰好被分配到哪里定义"（Berk, 2011, p.195）。每个可能的随机分配实现都产生不同的因果效应，"单一的因果效应不再存在"。截至 Berk 写作时，"对主体间干扰没有有效的统计补救方法"（Berk, 2011, p.195）。此外，随机化的单位数量"往往太少，无法有意义地确保所有混杂因素的平衡"（Berk, 2011, p.194）。
 >
 > **外部效度与机制理解的优先性**
 >

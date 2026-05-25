@@ -1,10 +1,10 @@
 ---
 title: Further Education
 aliases:
-- 继续教育
-- further education and training
-- 非正规成人教育
-- 终身学习培训
+  - 继续教育
+  - further education and training
+  - 非正规成人教育
+  - 终身学习培训
 summary: "位于义务教育和高等教育之外的中学后继续教育形式，常与成人学习、职业培训、非学位证书和终身学习体系相连"
 type: concept
 tags:
@@ -13,7 +13,6 @@ tags:
 - subject/comparative-education
 related_concepts:
   - "[[Corporate Education]]"
-  - "[[Externalization (Schriewer)]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -94,7 +93,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example]
-> - 欧盟继续职业教育培训调查（CVTS）——系统收集成员国企业培训的提供者类型、参与率和[[Externalization (Schriewer)|外化]]程度数据（Hartmann, 2022, p.180）
+> - 欧盟继续职业教育培训调查（CVTS）——系统收集成员国企业培训的提供者类型、参与率和[[Externalization|外化]]程度数据（Hartmann, 2022, p.180）
 > - 德国双元学徒制——初始职业教育（IVET）的典型案例，高度依赖国家层面的非市场制度安排，德国 MNCs 在海外分支复制时遇到系统性困难。详见 [[Corporate Education]]（Hartmann, 2022, pp.184–185）
 
 ---

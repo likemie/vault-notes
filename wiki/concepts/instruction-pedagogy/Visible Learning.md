@@ -26,7 +26,6 @@ related_concepts:
   - "[[Scientism]]"
   - "[[New Public Management]]"
   - "[[Class Size]]"
-  - "[[Educational Management Organisation (EMO)]]"
   - "[[School Leadership]]"
   - "[[Effective Teaching]]"
   - "[[Classroom Management]]"
@@ -55,10 +54,7 @@ related_persons:
 related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Tennessee STAR Project 1985-1989]]"
-  - "[[Cognition Education (NZ)]]"
   - "[[Visible Learning in Sweden]]"
-  - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
-  - "[[Contestable School Support Services (NZ 2011)]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Danish Public School Reform 2014]]"
   - "[[Hattie på dansk 2017]]"
@@ -368,7 +364,7 @@ VL 的技术前身 asTTle/e-asTTle（1999/2000 年 [[John Hattie|Hattie]] 受教
 
 ### 商业化与品牌扩张
 
-2009 年 Hattie 出版 VL 后，真正把它转成可销售产品的并不是大学，而是 [[Cognition Education (NZ)]]。这家起源于新西兰学校支持服务准市场的[[Educational Management Organisation (EMO)|教育管理组织]]在 2010 年末接手 VL 的商业平台，把研究原则重写成面向教师和[[School Leadership|学校领导]]的模块化 professional learning curriculum；Hattie 取得 VL 相关收入版税，而新 division 在 2011 年第一年收入已接近 2M，次年接近 2.7M，利润率高于公司原先长期依赖的 payroll 业务（Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30）。
+2009 年 Hattie 出版 VL 后，真正把它转成可销售产品的并不是大学，而是 [[Cognition Education]]。这家起源于新西兰学校支持服务准市场的[[Educational Management Organisation|教育管理组织]]在 2010 年末接手 VL 的商业平台，把研究原则重写成面向教师和[[School Leadership|学校领导]]的模块化 professional learning curriculum；Hattie 取得 VL 相关收入版税，而新 division 在 2011 年第一年收入已接近 2M，次年接近 2.7M，利润率高于公司原先长期依赖的 payroll 业务（Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30）。
 
 Cognition 随后没有在各国自建重型组织，而是通过 Macmillan、James Nottingham Associates、Osiris 和 Corwin 等伙伴做区域授权，使 VL 从书籍迅速变成工作坊、认证和学校改进方案的跨国品牌。2018 年 Corwin（SAGE 集团）收购 VLplus，说明这套模式最后完成了从教育研究到全球专业发展产品的转手。完整商业化轨迹、商标时间线、产品体系、Hattie 第三方付款和 Cognition 财务数据，详见 [[Visible Learning Branding and Global Influences]]。
 
@@ -417,14 +413,14 @@ VL 品牌对学术批评表现出显著的免疫力——Hattie（2017）对 Eac
 > 快速阅读路径：
 > - 统计与[[Effect Size|效应量]]问题：[[Effect Size]]、[[Meta-analysis]]、[[Meta-meta-analysis]]
 > - 可见性与[[Appraisal Theory|评价理论]]问题：[[Pure Evaluation]]、[[Performativity of Measurement]]、[[Blind Spot in Observation]]
-> - 政策与商业化问题：[[Visible Learning Branding and Global Influences]]、[[Policy Entrepreneur]]、[[Educational Management Organisation (EMO)]]
+> - 政策与商业化问题：[[Visible Learning Branding and Global Influences]]、[[Policy Entrepreneur]]、[[Educational Management Organisation]]
 > - 教育哲学与 [[Bildung]] 批评：[[Bildung]]、[[Learnification]]、[[Technical Rationality]]
 
 ## 相关研究与案例
 
 > [!example] [[Observational and Correlational Research|相关研究]]与案例
-> - [[Tomorrow's Schools Reforms (NZ 1989)]] — 创造了私营 [[Educational Management Organisation (EMO)|EMO]] 进入新西兰公立教育服务市场的条件，[[Cognition Education (NZ)|Cognition Education]] 直接起源于此改革
-> - [[Contestable School Support Services (NZ 2011)]] — 教育部将学校支持服务转为竞争性招标，Cognition Education 和 CORE Education 均为竞标者
+> - [[Tomorrow's Schools Reforms]] — 创造了私营 [[Educational Management Organisation|EMO]] 进入新西兰公立教育服务市场的条件，[[Cognition Education|Cognition Education]] 直接起源于此改革
+> - [[Contestable School Support Services]] — 教育部将学校支持服务转为竞争性招标，Cognition Education 和 CORE Education 均为竞标者
 > - [[EEF Teaching and Learning Toolkit]] — 英国 EEF 的类似[[Meta-meta-analysis|元-元分析]]工具，面临类似的方法论批评
 > - [[Danish Public School Reform 2014]] — 丹麦议会改革明确引用 VL，将 [[John Hattie|Hattie]] 从"教育英雄"转变为"教育敌人"
 > - [[Hattie på dansk 2017]] — 丹麦语批评文集，汇集多篇对 VL 的强烈批评

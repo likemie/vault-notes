@@ -1,9 +1,9 @@
 ---
 title: Forced Knowledge Transfer
 aliases:
-- 强制知识转移
-- forced transfer of knowledge
-- top-down knowledge transfer
+  - 强制知识转移
+  - forced transfer of knowledge
+  - top-down knowledge transfer
 summary: "通过规定、胁迫或暴力把知识自上而下强加给他者的知识转移形态，用于分析支配性教育和意识形态灌输。"
 type: concept
 tags:
@@ -27,7 +27,6 @@ related_persons:
   - "[[Chen Kuan-Hsing]]"
   - "[[Jean-François Lyotard]]"
 related_facts:
-  - "[[Kokutai no Hongi (1937)]]"
   - "[[Great Firewall of China]]"
   - "[[China Social Credit System]]"
 related_arguments: []
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 > Partaken 通过三个案例说明强制[[Knowledge Transfer|知识转移]]的运作（Partaken, 2022, p.75–76）：
 > - **[[Paulo Freire|Freire]] 的被压迫者教育学模型**：在"银行概念"（banking concept）中，"知识是那些自认为有知识的人赠予那些被认为一无所知的人的礼物"（Freire, 1972, p.17）；教授与被教授者之间的权力梯度决定了知识流动的方向——从压迫者的客观性向下流向被压迫者的主体性（Partaken, 2022, p.75–76）
 > - **Herbart 的五段教学法**：准备—呈现—联想—概括—应用，可以被识别为强制知识转移的一种形式化步骤（Partaken, 2022, p.76）
-> - **《[[Kokutai no Hongi (1937)|国体之本义]]》**：日本文部省思想局直接监督编写，将昭和天皇神化，大规模印刷并在日本帝国亚洲殖民地强制阅读——"[[Knowledge Production|知识生产]]和通过教学的再生产是殖民化的工具"（Partaken, 2022, p.76）
+> - **《[[Kokutai no Hongi|国体之本义]]》**：日本文部省思想局直接监督编写，将昭和天皇神化，大规模印刷并在日本帝国亚洲殖民地强制阅读——"[[Knowledge Production|知识生产]]和通过教学的再生产是殖民化的工具"（Partaken, 2022, p.76）
 
 ## 概念辨析
 
@@ -94,7 +93,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example]
-> - [[Kokutai no Hongi (1937)]] — 强制[[Knowledge Transfer|知识转移]]的殖民历史典范
+> - [[Kokutai no Hongi]] — 强制[[Knowledge Transfer|知识转移]]的殖民历史典范
 > - [[Great Firewall of China]] — 审查作为强制知识控制的当代形式
 > - [[China Social Credit System]] — 监视作为强制知识控制的当代形式
 

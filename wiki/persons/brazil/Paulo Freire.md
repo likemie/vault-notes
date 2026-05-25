@@ -1,9 +1,9 @@
 ---
 title: Paulo Freire
 aliases:
-- 保罗·弗莱雷
-- 弗莱雷
-- Freire
+  - 保罗·弗莱雷
+  - 弗莱雷
+  - Freire
 summary: "巴西教育家，批判教育学奠基人和 被压迫者教育学 作者，为教育研究连接对话、解放与权力批判提供经典语言。"
 type: person
 nationality: brazil
@@ -26,8 +26,7 @@ related_persons:
 related_arguments: []
 sources:
   - "[[Ch5_Partaken_2022]]"
-related_facts:
-  - "[[Kokutai no Hongi (1937)]]"
+related_facts: []
 confidence: medium
 status: draft
 created: '2026-05-10'
@@ -70,7 +69,7 @@ updated: '2026-05-19'
 ## 影响
 
 > [!success]
-> - Partaken (2022) 将 Freire 的银行概念应用于[[Forced Knowledge Transfer|强制知识转移]]分析，论证 Herbart 五段教学法和日本《[[Kokutai no Hongi (1937)|国体之本义]]》殖民教育均可被识别为银行概念的制度化形式——[[Knowledge Production|知识生产]]和通过教学的再生产是殖民化的工具（Partaken, 2022, p.76）
+> - Partaken (2022) 将 Freire 的银行概念应用于[[Forced Knowledge Transfer|强制知识转移]]分析，论证 Herbart 五段教学法和日本《[[Kokutai no Hongi|国体之本义]]》殖民教育均可被识别为银行概念的制度化形式——[[Knowledge Production|知识生产]]和通过教学的再生产是殖民化的工具（Partaken, 2022, p.76）
 > - Freire 的被压迫者教育学与 [[Frantz Fanon|Fanon]] 的殖民地主体理论共享对"知识如何制造主体"的关注——两者都来自殖民和被压迫经验，共同构成[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]传统的理论资源
 
 ---

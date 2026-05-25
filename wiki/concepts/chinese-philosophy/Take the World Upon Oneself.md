@@ -4,7 +4,7 @@ aliases:
   - 以天下为己任
   - taking on the weight of the world
   - taking the world upon oneself
-summary: 儒学学习传统第二主题，从修身出发承担社会与天下责任的道德使命，孟子首倡、朱熹系统化、近现代演化为救國救民
+summary: "儒学学习传统第二主题，从修身出发承担社会与天下责任的道德使命，孟子首倡、朱熹系统化、近现代演化为救國救民"
 type: concept
 tags:
   - region/china

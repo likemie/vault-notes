@@ -43,8 +43,6 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Self-Authorship]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Work Meaning Schemas (Zheng)]]"
-  - "[[Graduation Pathway Typology (Zheng)]]"
   - "[[Sense of Shame]]"
   - "[[Refined Mastery]]"
   - "[[Effect Size]]"
@@ -876,7 +874,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 
 **本章论证结构：**
 
-**（a）意义感的来源——[[Work Meaning Schemas (Zheng)|工作意义三角图式]]结构（[[Work Meaning Schemas (Zheng)]]）**
+**（a）意义感的来源——[[Work Meaning Schemas|工作意义三角图式]]结构（[[Work Meaning Schemas]]）**
 
 ![[books/郑_2023_上海三联书店/第五章 名校大学生工作意义来源的三角图式结构.jpeg]]
 
@@ -923,7 +921,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 
 内陆地区、农民/劳工家庭、体制内就业者多集中在"地位保障-家国理想"主轴；沿海地区、富有/中产家庭、体制外就业者多分布在"家国理想-个体趣味"主轴。这表明不同家境和地区的大学生所面对的意义感纠结点存在系统性的分化——优势群体的矛盾不再是"家庭责任与社会责任"之间，而是"自我趣味与社会角色"之间（郑雅君，2023）。
 
-**（c）优势的分化——毕业出路产生机制的四分类模型（[[Graduation Pathway Typology (Zheng)]]）**
+**（c）优势的分化——毕业出路产生机制的四分类模型（[[Graduation Pathway Typology]]）**
 
 在前文"目标掌控模式"与"直觉依赖模式"二分类的基础上，纳入价值信念驱动力维度，郑雅君得出一个 2×2 四分类模型（郑雅君，2023）：
 

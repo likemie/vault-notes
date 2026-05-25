@@ -1,11 +1,11 @@
 ---
 title: Sense of Shame
 aliases:
-- 耻
-- 恥
-- chi
-- sense of shame
-- 羞耻感
+  - 耻
+  - 恥
+  - chi
+  - sense of shame
+  - 羞耻感
 summary: "儒学四超越德目之一，与西方的纯负面羞耻不同，儒家视耻为自我纠正的积极内在动力——知耻使人内省、认错、改过、继续修身"
 type: concept
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Jin Li
 aliases:
-- 李瑾
+  - 李瑾
 summary: "华人教育研究者，布朗大学教授，以中西文化学习模型比较研究著称，提出好學心等中国本土学习概念"
 type: person
 nationality: china
@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Didaktik]]"
   - "[[Heart and Mind for Wanting to Learn]]"
-  - "[[Nerd (School Peer Culture)]]"
   - "[[Cultural Models]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
@@ -30,7 +29,6 @@ related_concepts:
   - "[[Sage]]"
   - "[[Pride in Learning]]"
   - "[[Refined Mastery]]"
-  - "[[Establishing One's Will (lizhi)]]"
   - "[[Ideal Learner]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
@@ -74,7 +72,7 @@ updated: '2026-05-23'
 > - 1990 年代末完成博士论文，以[[Heart and Mind for Wanting to Learn|好學心]]为核心研究概念（Li, 2012, p.ix）
 > - 现任布朗大学教授（Li, 2012, 封面）
 > - 研究先后获 William T. Grant Foundation、Foundation for Child Development (FCD)、Chiang-ching Kuo Foundation、Spencer Foundation 资助（Li, 2012, p.xii）
-- Li 的儿子在美国公立初中就读期间经历了典型的 [[Nerd (School Peer Culture)|nerd]] 骚扰：因为性格有些内向、运动能力低于平均水平，但擅长并热爱数学、成绩优秀，他的姓名上了学校的荣誉榜并张贴于走廊。同伴每天对他进行言语嘲笑和社交排斥——一个大男孩曾试图将他扔进垃圾桶。Li 和家人收集了他受到的约十二种侮辱性称呼。这种骚扰严重到使她的儿子一度拒绝上学，要求要么在家教育、要么转学。Li 和丈夫向校长和辅导员提议开展"尊重你的同伴"项目，但校方以"孩子就是这样——这是人性"为由拒绝了。最终他们别无选择，将儿子转入一所私立学校——在那里，"孩子突然就不再'是这样'了"，知性与社交终于整合在了一起（Li, 2012, pp.92–94）。
+- Li 的儿子在美国公立初中就读期间经历了典型的 [[Nerd|nerd]] 骚扰：因为性格有些内向、运动能力低于平均水平，但擅长并热爱数学、成绩优秀，他的姓名上了学校的荣誉榜并张贴于走廊。同伴每天对他进行言语嘲笑和社交排斥——一个大男孩曾试图将他扔进垃圾桶。Li 和家人收集了他受到的约十二种侮辱性称呼。这种骚扰严重到使她的儿子一度拒绝上学，要求要么在家教育、要么转学。Li 和丈夫向校长和辅导员提议开展"尊重你的同伴"项目，但校方以"孩子就是这样——这是人性"为由拒绝了。最终他们别无选择，将儿子转入一所私立学校——在那里，"孩子突然就不再'是这样'了"，知性与社交终于整合在了一起（Li, 2012, pp.92–94）。
 - 这段经历成为 Li 研究nerd 同伴文化的直接动力之一，也促使她在第 6 章中论证 nerd 骚扰并非"人性使然"，而是特定文化假设的产物（Li, 2012, pp.93–94）
 
 ---
@@ -134,7 +132,7 @@ Li 在第 3 章通过"[[Prototype Methods|原型方法]]"（prototype methods）
 - 学习目的：道德／社会自我完善、获取知识／技能、贡献社会
 - 能动过程即五种学习美德：诚意／认真（renzhen）、勤奋／发奋（qinfen）、刻苦（keku）、恒心（hengxin）、专心（zhuanxin）
 - 成就类型：广度与深度／[[Refined Mastery|精通]]知识、知识运用、知识与道德品质的统一
-- 正面情感：[[Establishing One's Will (lizhi)|立志]]、热爱／激情／渴求、尊重／接纳、对成就的谦虚
+- 正面情感：[[Establishing One's Will|立志]]、热爱／激情／渴求、尊重／接纳、对成就的谦虚
 - 负面情感：缺乏渴望、傲慢、对学业不佳的羞耻／内疚
 
 Li 强调这些是**文化层面**的模型（culture-level models），而非个体模型。文化模型通过共享的语言和[[Ideal Learner|理想学习者形象]]来影响——但不决定——成员的学习思维和行动。个体信念会因性别、社会经济地位、居住地区、政治环境、年龄和角色等因素而偏离文化模型（Li, 2012, pp.114-115）。

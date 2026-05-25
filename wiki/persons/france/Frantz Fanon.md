@@ -1,9 +1,9 @@
 ---
 title: Frantz Fanon
 aliases:
-- 弗朗兹·法农
-- 法农
-- Fanon
+  - 弗朗兹·法农
+  - 法农
+  - Fanon
 summary: "马提尼克裔法国精神病学家和去殖民思想家，黑皮肤，白面具作者，为教育研究分析殖民主体性、种族化经验与知识解放提供基础。"
 type: person
 nationality: france

@@ -1,11 +1,11 @@
 ---
 title: Examined Life
 aliases:
-- 省察的生活
-- unexamined life
-- the examined life
-- Socratic examination
-- 未经省察的生活不值得过
+  - 省察的生活
+  - unexamined life
+  - the examined life
+  - Socratic examination
+  - 未经省察的生活不值得过
 summary: "西方学习传统第三主题，苏格拉底的名言代表质疑一切理所当然之事的智识态度，是批判性思维的西方文化根源"
 type: concept
 tags:

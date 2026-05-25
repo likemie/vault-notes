@@ -1,7 +1,7 @@
 ---
 title: Norberto Bottani
 aliases:
-- 诺伯托·博塔尼
+  - 诺伯托·博塔尼
 summary: "瑞士教育政策研究者和OECD指标专家，INES项目创始人，为教育研究反思教育指标、比较数据与治理工具化提供内部批判视角。"
 type: person
 nationality: switzerland
@@ -16,16 +16,13 @@ related_concepts:
   - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[Internationalization of Higher Education]]"
-related_theories:
-  - "[[Science and Technology Studies (STS)]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"
 related_facts:
-  - "[[Education at a Glance (EAG)]]"
-  - "[[International Indicators of Education Systems (INES)]]"
   - "[[PISA]]"
 confidence: high
 status: draft
@@ -56,13 +53,13 @@ updated: '2026-05-19'
 > 后期核心论点（Gorur, 2014, p.14, 18）：
 > - **指标与评估的混淆**：OECD 从提供"提醒"性指标滑向呈现"评估"性结论，将变化中的系统、教育供给、个体成绩和系统效率混合在单一框架中
 > - **不存在中立认知**："没有认知方法能使其观察、测量、分析、比较、解码的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"（Bottani, 2008, p.22; Gorur, 2014, p.18）
-> - **民主缺失**：2002 年 [[Education at a Glance (EAG)|EAG]] 概念框架的重组"在没有任何真正民主辩论的情况下"完成（Bottani, 2008, p.18; Gorur, 2014, p.14）
+> - **民主缺失**：2002 年 [[Education at a Glance|EAG]] 概念框架的重组"在没有任何真正民主辩论的情况下"完成（Bottani, 2008, p.18; Gorur, 2014, p.14）
 
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **[[International Indicators of Education Systems (INES)]]** — 自 1988 年创立至 1997 年担任 INES 项目负责人近十年，从项目几乎不可能的阶段带领至首版 [[Education at a Glance (EAG)|EAG]] 出版（Gorur, 2014, p.5, 8）
-> - **[[Education at a Glance (EAG)]]** — INES 的最终产品，成为 OECD 旗舰出版物
+> - **[[International Indicators of Education Systems]]** — 自 1988 年创立至 1997 年担任 INES 项目负责人近十年，从项目几乎不可能的阶段带领至首版 [[Education at a Glance|EAG]] 出版（Gorur, 2014, p.5, 8）
+> - **[[Education at a Glance]]** — INES 的最终产品，成为 OECD 旗舰出版物
 > - **[[Performance Indicators]]** — 在指标方法论层面，Bottani 的实践和理论反思深刻影响了[[International Education|国际教育]]指标的认识论讨论
 
 ## 主要著作
@@ -79,7 +76,7 @@ updated: '2026-05-19'
 > - **1976–1983**：OECD 早期工作，专注早期儿童教育
 > - **1983–1987**：领导 OECD 的教育、文化与语言多元主义项目（Education, Cultural and Linguistic Pluralism）
 > - **1984–1987**（原文为 1994–1987，疑似笔误）：担任 OECD 教育统计与指标处处长
-> - **1988–1997**：担任 [[International Indicators of Education Systems (INES)|INES]] 项目负责人，这是[[International Education|国际教育]]指标体系的关键塑造时期
+> - **1988–1997**：担任 [[International Indicators of Education Systems|INES]] 项目负责人，这是[[International Education|国际教育]]指标体系的关键塑造时期
 > - 约在 [[PISA]] 概念化和开发的时期离任
 
 
@@ -89,7 +86,7 @@ updated: '2026-05-19'
 ## 争议与批评
 
 > [!warning] Bottani 自身立场的矛盾
-> Gorur 的论文暗示了 Bottani 立场中的一个张力：他既是 [[International Indicators of Education Systems (INES)|INES]] 指标的缔造者和早期倡导者，又是后期最尖锐的批评者。这种转变本身就体现了 [[Science and Technology Studies (STS)|STS]] 的核心发现——科学事实在制造过程中需要许多妥协，而这些妥协在成品中会被系统性地擦除（Derksen, 2000; Gorur, 2014, p.5–6）。
+> Gorur 的论文暗示了 Bottani 立场中的一个张力：他既是 [[International Indicators of Education Systems|INES]] 指标的缔造者和早期倡导者，又是后期最尖锐的批评者。这种转变本身就体现了 [[Science and Technology Studies|STS]] 的核心发现——科学事实在制造过程中需要许多妥协，而这些妥协在成品中会被系统性地擦除（Derksen, 2000; Gorur, 2014, p.5–6）。
 
 
 > [!warning] 科学家的道德责任

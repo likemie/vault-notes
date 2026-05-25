@@ -1,9 +1,9 @@
 ---
 title: Great Firewall of China
 aliases:
-- 中国防火长城
-- 中国国家防火墙
-- GFW
+  - 中国防火长城
+  - 中国国家防火墙
+  - GFW
 summary: "中国国家互联网审查系统，Partaken (2022) 定位为 GPK 审查模态的核心制度工具"
 type: fact
 subtype: event
@@ -21,7 +21,6 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[China Social Credit System]]"
-  - "[[Sino-American Trade War (2018)]]"
 related_arguments: []
 sources:
   - "[[Ch5_Partaken_2022]]"
@@ -64,7 +63,7 @@ updated: '2026-05-18'
 > [!example]
 > - [[China Social Credit System]] — 与 Great Firewall 配套运行的大数据行为评估系统
 > - [[Knowledge Transfer]] — Great Firewall 是 [[Geopolitics of Knowledge|GPK]] 审查模态的核心制度工具
-> - [[Sino-American Trade War (2018)]] — 中美知识转移紧张关系的贸易维度
+> - [[Sino-American Trade War]] — 中美知识转移紧张关系的贸易维度
 
 ## 来源
 

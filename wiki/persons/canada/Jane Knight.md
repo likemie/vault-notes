@@ -1,7 +1,7 @@
 ---
 title: Jane Knight
 aliases:
-- 简·奈特
+  - 简·奈特
 summary: "加拿大高等教育学者，国际教育枢纽与跨境高教研究代表人物，为教育研究分析大学国际化模式、跨境流动与政策扩散提供框架。"
 type: person
 nationality: canada

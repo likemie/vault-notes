@@ -1,12 +1,12 @@
 ---
 title: Mixed Method and Multi-method Research
 aliases:
-- 混合方法/多方法研究
-- 混合方法
-- 多方法研究
-- 混合方法研究
-- Mixed Method Research
-- Multi-method Research
+  - 混合方法/多方法研究
+  - 混合方法
+  - 多方法研究
+  - 混合方法研究
+  - Mixed Method Research
+  - Multi-method Research
 summary: "结合量化与质性资料或并用多种研究技术的研究方法，适合同时处理结果分布、行动过程和情境解释"
 type: method
 method_type: mixed

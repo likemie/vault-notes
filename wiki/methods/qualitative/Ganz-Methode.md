@@ -1,10 +1,10 @@
 ---
 title: Ganz-Methode
 aliases:
-- Whole Approach
-- 整体方法
-- 整体进路
-- Ganz Method
+  - Whole Approach
+  - 整体方法
+  - 整体进路
+  - Ganz Method
 summary: "通过整体进路承载而非消解意义张力的实践方法论，适合在复杂社会情境中识别行动可能性和生命力重组过程"
 type: method
 method_type: qualitative

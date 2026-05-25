@@ -1,7 +1,7 @@
 ---
 title: Donna Haraway
 aliases:
-- 唐娜·哈拉维
+  - 唐娜·哈拉维
 summary: "美国女性主义科技研究学者，赛博格、sympoiesis 与 SF 叙事方法代表人物，为后人类主义和关系伦理提供关键思想资源。"
 type: person
 nationality: us

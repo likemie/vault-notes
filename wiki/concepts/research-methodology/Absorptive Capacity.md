@@ -22,8 +22,7 @@ related_methods:
   - "[[Logic Model]]"
   - "[[Formative Evaluation]]"
 related_persons: []
-related_facts:
-  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
+related_facts: []
 related_arguments: []
 sources: []
 confidence: medium
@@ -66,12 +65,12 @@ updated: '2026-05-23'
 ## 实证发现
 
 > [!success]
-> 在 [[Students and Teachers Accessing Tomorrow (STAT)]] 中，虽然评价证据无法证明项目的单独因果效果，但多方利益相关者确认外部评价对项目改进和可持续性具有重要作用。项目在发起它的 superintendent 因丑闻辞职后仍持续推进，说明形成性[[Feedback|反馈]]和地方组织条件共同支持了改革延续（Ross & Morrison, 2021, pp.119, 121-124）。
+> 在 [[Students and Teachers Accessing Tomorrow]] 中，虽然评价证据无法证明项目的单独因果效果，但多方利益相关者确认外部评价对项目改进和可持续性具有重要作用。项目在发起它的 superintendent 因丑闻辞职后仍持续推进，说明形成性[[Feedback|反馈]]和地方组织条件共同支持了改革延续（Ross & Morrison, 2021, pp.119, 121-124）。
 
 ## 争议与批评
 
 > [!warning]
-> 吸收能力不能保证证据被客观使用。[[Students and Teachers Accessing Tomorrow (STAT)|STAT]] 中，一些利益相关者最终仍回到原有政治议程、核心信念和对成就结果的偏好来解释复杂证据；这说明组织学习条件可以提高证据使用机会，但不能消除价值冲突（Ross & Morrison, 2021, pp.122-123）。
+> 吸收能力不能保证证据被客观使用。[[Students and Teachers Accessing Tomorrow|STAT]] 中，一些利益相关者最终仍回到原有政治议程、核心信念和对成就结果的偏好来解释复杂证据；这说明组织学习条件可以提高证据使用机会，但不能消除价值冲突（Ross & Morrison, 2021, pp.122-123）。
 
 > [!warning]
 > 吸收能力在这组材料中主要作为解释性概念出现，没有被操作化为可比较指标。因此，它适合解释为什么某些学区能从评价证据中学习，但还不能单独作为可测量的评价结果（Ross & Morrison, 2021, pp.122-124）。
@@ -79,7 +78,7 @@ updated: '2026-05-23'
 ## 相关案例／政策
 
 > [!example]
-> - [[Students and Teachers Accessing Tomorrow (STAT)]] — STAT 的[[Formative Evaluation|形成性评价]][[Feedback|反馈]]被多方利益相关者用于理解项目进展和支持项目延续，体现较高学区吸收能力（Ross & Morrison, 2021, pp.121-124）。
+> - [[Students and Teachers Accessing Tomorrow]] — STAT 的[[Formative Evaluation|形成性评价]][[Feedback|反馈]]被多方利益相关者用于理解项目进展和支持项目延续，体现较高学区吸收能力（Ross & Morrison, 2021, pp.121-124）。
 > - [[Formative Evaluation]] — 形成性评价只有被组织吸收，才会从报告转化为实施改进。
 
 ## 来源

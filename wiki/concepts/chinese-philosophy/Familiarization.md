@@ -14,7 +14,6 @@ tags:
   - theme/learning
   - theory/confucianism
 related_concepts:
-  - "[[Sage]]"
   - "[[Learning Virtues]]"
   - "[[Refined Mastery]]"
   - "[[Chinese Learner]]"

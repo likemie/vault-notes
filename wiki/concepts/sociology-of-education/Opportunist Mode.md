@@ -1,9 +1,9 @@
 ---
 title: Opportunist Mode
 aliases:
-- 机会主义者
-- opportunist actor
-- 机会主义
+  - 机会主义者
+  - opportunist actor
+  - 机会主义
 summary: "毕业出路分化中的一种类型，以目标掌控和弱价值信念结合为特征，擅长策略性配置资源但缺乏深层价值认同，偏向工具性收益最大化"
 type: concept
 tags:
@@ -13,7 +13,6 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[Graduation Pathway Typology (Zheng)]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Self-Driven Mode]]"
 related_theories:
@@ -33,7 +32,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 机会主义者（Opportunist Mode）是[[Yajun Zheng|郑雅君]]（2023）[[Graduation Pathway Typology (Zheng)|毕业出路产生机制四分类]]模型中的一种类型，指使用[[Goal-Controlled Mode|目标掌控模式]]但未深入内化逻辑自洽的价值信念的大学生。他们来自优势家庭背景，深谙大学与劳动力市场的游戏规则，善于使用策略获得世俗意义上的成功；但因为尚未深刻地内化一种成熟的价值信念，其生涯目标常常是短期的、工具性的，而非植根于所认同的人生价值和意义感之上。这是其与[[Self-Driven Mode|自主驱动者]]最大的不同之处（郑雅君，2023）。
+> 机会主义者（Opportunist Mode）是[[Yajun Zheng|郑雅君]]（2023）[[Graduation Pathway Typology|毕业出路产生机制四分类]]模型中的一种类型，指使用[[Goal-Controlled Mode|目标掌控模式]]但未深入内化逻辑自洽的价值信念的大学生。他们来自优势家庭背景，深谙大学与劳动力市场的游戏规则，善于使用策略获得世俗意义上的成功；但因为尚未深刻地内化一种成熟的价值信念，其生涯目标常常是短期的、工具性的，而非植根于所认同的人生价值和意义感之上。这是其与[[Self-Driven Mode|自主驱动者]]最大的不同之处（郑雅君，2023）。
 >
 > > "机会主义者"虽然也有很强的目标意识，却没有深入地内化一个逻辑自洽的价值图式，其目标很大程度上是工具性的，而非指向一个对行动者有意义的理想信念（郑雅君，2023）
 >

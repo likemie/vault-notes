@@ -1,9 +1,9 @@
 ---
 title: Student Engagement
 aliases:
-- 学生投入
-- student engagement
-- Kuh 学生投入理论
+  - 学生投入
+  - student engagement
+  - Kuh 学生投入理论
 summary: "学生在教育性活动中投入时间、精力和参与质量的概念，常用于解释高等教育中的学习结果、归属感和持续就读差异"
 type: concept
 tags:

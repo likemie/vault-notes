@@ -1,7 +1,7 @@
 ---
 title: Akira Miyake
 aliases:
-- 阿基拉·三宅
+  - 阿基拉·三宅
 summary: "日裔认知心理学家，执行功能统一性与多样性框架提出者，为教育研究测量学习中的执行功能与认知控制提供基础模型。"
 type: person
 nationality: japan

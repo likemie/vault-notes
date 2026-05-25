@@ -20,7 +20,6 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[My School Website]]"
-  - "[[Independent Public Schools (IPS) Western Australia]]"
 related_arguments: []
 sources:
   - "[[Keddie_2020_JEAH]]"
@@ -98,7 +97,7 @@ updated: '2026-05-18'
 > 论文自身承认的局限：
 > - 样本不能代表所有观点（在澳大利亚四个不同州的复杂政策历史中这是不可能的）
 > - 呈现的观点是部分的——将在项目第二年通过后续案例研究进一步探索
-> - Qld 数据未包含在本次分析中（因为该州的 [[Independent Public Schools (IPS) Western Australia|IPS]] 计划在评估后被暂停）
+> - Qld 数据未包含在本次分析中（因为该州的 [[Independent Public Schools Western Australia|IPS]] 计划在评估后被暂停）
 > - 42 位受访者的便利抽样不能声称具有统计代表性
 > - 焦点集中在"公平和分配正义"（Fraser 框架中的经济维度），对承认和代表权维度的分析较少
 

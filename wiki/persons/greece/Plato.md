@@ -1,7 +1,7 @@
 ---
 title: Plato
 aliases:
-- 柏拉图
+  - 柏拉图
 summary: "古希腊哲学家，苏格拉底的学生、亚里士多德的老师，西方哲学奠基人之一，以理型论、洞穴喻、哲学家王等概念深刻塑造了西方形而上学、知识论与教育思想"
 type: person
 nationality: greece

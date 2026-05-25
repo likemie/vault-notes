@@ -1,7 +1,7 @@
 ---
 title: In-depth Interview
 aliases:
-- 深度访谈
+  - 深度访谈
 summary: "通过持续追问、渐进聚焦和生活史叙述深入理解行动者经验与意义建构的质性资料收集方法，适合解释复杂选择和主观处境"
 type: method
 method_type: qualitative

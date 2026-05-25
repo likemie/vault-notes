@@ -24,8 +24,7 @@ related_methods:
   - "[[Formative Evaluation]]"
   - "[[Logic Model]]"
 related_persons: []
-related_facts:
-  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
+related_facts: []
 related_arguments: []
 sources: []
 confidence: medium
@@ -68,7 +67,7 @@ updated: '2026-05-23'
 ## 实证发现
 
 > [!success]
-> [[Students and Teachers Accessing Tomorrow (STAT)]] 的评价显示，教师准备、设备进入课堂、数字资源使用、学生参与和学生中心教学方面有较一致的实施进展；这些实施证据被许多利益相关者视为项目质量和可持续性的积极信号，即使学生成就结果并不明确（Ross & Morrison, 2021, pp.118-123）。
+> [[Students and Teachers Accessing Tomorrow]] 的评价显示，教师准备、设备进入课堂、数字资源使用、学生参与和学生中心教学方面有较一致的实施进展；这些实施证据被许多利益相关者视为项目质量和可持续性的积极信号，即使学生成就结果并不明确（Ross & Morrison, 2021, pp.118-123）。
 
 ## 争议与批评
 
@@ -82,7 +81,7 @@ updated: '2026-05-23'
 
 > [!example]
 > - [[Educational Evidence Clearinghouses]] — 清算中心若缺少实施要求、使用强度、成本和用户经验信息，项目评级对学校采购的帮助会受限（Ross & Morrison, 2021, pp.120-121）。
-> - [[Students and Teachers Accessing Tomorrow (STAT)]] — STAT 的[[Formative Evaluation|形成性评价]]把实施进展作为理解项目效果的重要证据，而不是只看最终成就结果（Ross & Morrison, 2021, pp.118-123）。
+> - [[Students and Teachers Accessing Tomorrow]] — STAT 的[[Formative Evaluation|形成性评价]]把实施进展作为理解项目效果的重要证据，而不是只看最终成就结果（Ross & Morrison, 2021, pp.118-123）。
 
 ## 来源
 

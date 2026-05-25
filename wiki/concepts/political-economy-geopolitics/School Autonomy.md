@@ -20,8 +20,6 @@ related_persons:
 related_facts:
   - "[[My School Website]]"
   - "[[Karmel Report 1973]]"
-  - "[[Local Schools Local Decisions (NSW)]]"
-  - "[[Independent Public Schools (IPS) Western Australia]]"
   - "[[Gonski Reforms]]"
 related_arguments: []
 sources:
@@ -82,8 +80,8 @@ updated: '2026-05-18'
 >
 > - **Karmel Report (1973)**：澳大利亚学校委员会临时报告（[[Karmel Report 1973]]），将学校自主权定位为"草根、自下而上的改革，借鉴参与式民主概念"（Keddie et al., 2020, IJLE, p.2）。这一民主起源与今天的新自由主义版本形成尖锐对比
 > - **Victoria**：1990s 的"自我管理学校"（Self-Managing Schools），Kennett 保守党政府时期引入"按学生人数拨款"模式
-> - **New South Wales**：2011–2018 年推行的"[[Local Schools Local Decisions (NSW)|地方学校地方决策]]"（[[Local Schools Local Decisions (NSW)]]），被批评为实质是成本效率工具——"与家长选择或解放学校毫无关系……是他们在几乎所有学校运作领域削减成本的工具"（Edward, union, NSW，引自 Keddie et al., 2020, IJLE, p.6-7）
-> - **Western Australia**：2010 年起引入"独立公立学校"（[[Independent Public Schools (IPS) Western Australia]]），是"该州公立教育系统近期最激进的改组——将 575 所学校转为 IPS 地位"（Department of Education, 2019，引自 Keddie et al., 2020, IJLE, p.2）
+> - **New South Wales**：2011–2018 年推行的"[[Local Schools Local Decisions|地方学校地方决策]]"（[[Local Schools Local Decisions]]），被批评为实质是成本效率工具——"与家长选择或解放学校毫无关系……是他们在几乎所有学校运作领域削减成本的工具"（Edward, union, NSW，引自 Keddie et al., 2020, IJLE, p.6-7）
+> - **Western Australia**：2010 年起引入"独立公立学校"（[[Independent Public Schools Western Australia]]），是"该州公立教育系统近期最激进的改组——将 575 所学校转为 IPS 地位"（Department of Education, 2019，引自 Keddie et al., 2020, IJLE, p.2）
 > - **Queensland**：2013 年起引入 IPS
 > - **联邦层面**：2015 年保守派联邦政府承诺 7000 万澳元"帮助学校变得更加自主和独立"（Australian Government, 2016，引自 Keddie et al., 2020, IJLE, p.2）
 
@@ -145,8 +143,8 @@ updated: '2026-05-18'
 > - [[My School Website]] — 澳大利亚学校透明度和比较工具，市场问责的核心机制
 > - [[Karmel Report 1973]] — 1973年学校自主权的民主起源
 > - [[Gonski Reforms]] — 需求本位拨款改革
-> - [[Independent Public Schools (IPS) Western Australia]] — WA州IPS政策
-> - [[Local Schools Local Decisions (NSW)]] — NSW州权力下放政策
+> - [[Independent Public Schools Western Australia]] — WA州IPS政策
+> - [[Local Schools Local Decisions]] — NSW州权力下放政策
 > - [[School Leadership]] — 学校领导力是自主权效果的最重要中介
 
 ## 来源

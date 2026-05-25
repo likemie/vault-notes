@@ -1,9 +1,9 @@
 ---
 title: Power-Geometries
 aliases:
-- 权力几何学
-- power-geometries
-- power geometry
+  - 权力几何学
+  - power-geometries
+  - power geometry
 summary: "Massey 的空间理论概念，指空间中的开放、封闭和互联总是通过不平等的社会关系被建构和分配。"
 type: concept
 tags:
@@ -12,7 +12,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Multiplicity (Massey)]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
@@ -21,8 +20,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Doreen Massey]]"
-related_facts:
-  - "[[Academic Ranking of World Universities (ARWU)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Marginson_2025_ROE]]"
@@ -47,7 +45,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[Multiplicity (Massey)|多重性]] — 多重性强��空间中差异的共存和不可预测性，权力几何学则聚焦于这种差异共存中的不对称权力关系：多重性描述空间"是什么"，权力几何学追问空间"为谁而开放、对谁而封闭"
+> - vs [[Multiplicity|多重性]] — 多重性强��空间中差异的共存和不可预测性，权力几何学则聚焦于这种差异共存中的不对称权力关系：多重性描述空间"是什么"，权力几何学追问空间"为谁而开放、对谁而封闭"
 > - vs [[Classical Geopolitics|古典地缘政治]] — 古典地缘政治关注领土和军事硬实力，权力几何学关注的是关系性空间中的流动控制权——谁能够自由移动、谁被固定在地方、谁的叙事定义了"中心"和"边缘"
 > - vs 依赖性（dependency） — 依赖性（如依附理论）假定中心对边缘的单向剥削关系，权力几何学则容纳更复杂的不对称——例如，澳大利亚既是英语中心体系中的受益者（靠英语优势和签证政策吸引亚洲学生），又是英美中心体系中的半边缘者（在全球排名话语中没有定义权）
 
@@ -73,7 +71,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Doreen Massey]] — 权力几何学是 Massey 空间理论的核心概念，建立在其开放本体论和[[Multiplicity (Massey)|多重性]]概念之上。详见 [[Doreen Massey#权力几何学]]
+> - [[Doreen Massey]] — 权力几何学是 Massey 空间理论的核心概念，建立在其开放本体论和[[Multiplicity|多重性]]概念之上。详见 [[Doreen Massey#权力几何学]]
 > - [[Geopolitics of Knowledge]] — 知识地缘政治中的权力关系分析直接使用权力几何学作为分析工具，揭示[[Knowledge Production|知识生产]]和流动中的不对称控制
 
 ---
@@ -82,7 +80,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - 在高等教育中，英美顶尖大学是"新自由主义资本主义全球"被生产出来的地点——它们同时受益于全球人才和资金流入，并通过排名、出版和学位标准定义全球学术规范（Marginson, 2025, p. 12）
-> - 排名体系中的出发位置严重不对等：以 [[Academic Ranking of World Universities (ARWU)|ARWU]] 为例，其指标（Nature/Science 发表、诺奖/菲尔兹奖获得者）先天偏向历史悠久、英语为母语、研究密集型的老牌大学，"后来者、新兴大学和国家难以打入"（Marginson, 2014, p. 46）（Marginson, 2025, pp. 4–5）
+> - 排名体系中的出发位置严重不对等：以 [[Academic Ranking of World Universities|ARWU]] 为例，其指标（Nature/Science 发表、诺奖/菲尔兹奖获得者）先天偏向历史悠久、英语为母语、研究密集型的老牌大学，"后来者、新兴大学和国家难以打入"（Marginson, 2014, p. 46）（Marginson, 2025, pp. 4–5）
 > - 澳大利亚的案例展示了权力几何学的复杂性：人口仅 2500 万的澳大利亚以国际学生费用资助了约四分之一的大学科研，7 所大学进入 ARWU 前 100。它既是全球不平等中的受益者（从亚洲学生流动中获利），又受到英美中心定义"卓越"标准的约束（Marginson, 2025, p. 19）
 
 ---

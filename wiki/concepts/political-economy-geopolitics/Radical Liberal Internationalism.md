@@ -1,8 +1,8 @@
 ---
 title: Radical Liberal Internationalism
 aliases:
-- 激进自由国际主义
-- rules-based order
+  - 激进自由国际主义
+  - rules-based order
 summary: "Sakwa 提出的概念，指以自由主义普遍主义和反多元立场为基础、支持干预主义和政权更迭的国际主义取向。"
 type: concept
 tags:

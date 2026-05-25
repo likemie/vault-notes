@@ -1,9 +1,9 @@
 ---
 title: Neocorporatism
 aliases:
-- 新社团主义
-- neocorporatist governance
-- 社团主义治理
+  - 新社团主义
+  - neocorporatist governance
+  - 社团主义治理
 summary: "政府、雇主和工会三方之间制度化合作与协商的治理模式，用于协调政策、利益分配和社会调节。"
 type: concept
 tags:

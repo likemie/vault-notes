@@ -18,14 +18,11 @@ related_concepts:
   - "[[Sociology of Measurement]]"
   - "[[Performance Indicators]]"
 related_theories:
-  - "[[Science and Technology Studies (STS)]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons:
   - "[[Norberto Bottani]]"
-related_facts:
-  - "[[Education at a Glance (EAG)]]"
-  - "[[International Indicators of Education Systems (INES)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"
@@ -37,12 +34,12 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> OECD 的[[International Education|国际教育]]指标如何在几十年间从"几乎不可能"的项目转变为常规化、年度性的出版物 *Education at a Glance*（[[Education at a Glance (EAG)|EAG]]），其过程中涉及怎样的实践、妥协和权力转移？（Gorur, 2014, p.4）
+> OECD 的[[International Education|国际教育]]指标如何在几十年间从"几乎不可能"的项目转变为常规化、年度性的出版物 *Education at a Glance*（[[Education at a Glance|EAG]]），其过程中涉及怎样的实践、妥协和权力转移？（Gorur, 2014, p.4）
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **[[Science and Technology Studies (STS)]]** — 以 Latour 的"科学在行动"为方法论指南，将指标开发视为"正在制造中的科学"（Gorur, 2014, p.6）
+> - **[[Science and Technology Studies]]** — 以 Latour 的"科学在行动"为方法论指南，将指标开发视为"正在制造中的科学"（Gorur, 2014, p.6）
 > - **[[Sociology of Measurement]]**（Woolgar） — 分析测量的工具主义（instrumentalism：事物如何在实用意义上被"弄到运作"）和施行性（performativity：测量如何制造世界）（Gorur, 2014, p.6–7）
 > - **共同生产（Co-production）**（Jasanoff, 2004） — 科学与治理相互构成的分析框架（Gorur, 2014, p.6）
 
@@ -55,11 +52,11 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提/观察**：OECD 的[[International Education|国际教育]]指标（[[Education at a Glance (EAG)|EAG]]）已成为全球教育治理中极具影响力的工具，但其早期被认为几乎不可行——缺乏数据、缺乏可比性、缺乏概念共识（Gorur, 2014, p.4, 8）
+> 1. **前提/观察**：OECD 的[[International Education|国际教育]]指标（[[Education at a Glance|EAG]]）已成为全球教育治理中极具影响力的工具，但其早期被认为几乎不可行——缺乏数据、缺乏可比性、缺乏概念共识（Gorur, 2014, p.4, 8）
 >
 > 2. **论证步骤**：
 >
->    **(a) 科学的妥协**：[[International Indicators of Education Systems (INES)|INES]] 从一开始就放弃了科学研究的标准方法——放弃寻找普遍教育[[Luhmann's Systems Theory|系统理论]]模型，转而采用以可用性为导向的经验方法（Gorur, 2014, p.10）。"不完美的数据总比没有数据好"成为核心论证逻辑。坚持统计纯度被视为阻碍（Gorur, 2014, p.11）
+>    **(a) 科学的妥协**：[[International Indicators of Education Systems|INES]] 从一开始就放弃了科学研究的标准方法——放弃寻找普遍教育[[Luhmann's Systems Theory|系统理论]]模型，转而采用以可用性为导向的经验方法（Gorur, 2014, p.10）。"不完美的数据总比没有数据好"成为核心论证逻辑。坚持统计纯度被视为阻碍（Gorur, 2014, p.11）
 >
 >    **(b) 权力的转移**：Lugano 1991 是分水岭时刻——政策制定者强行将学生成绩数据纳入 EAG，科学家失去对指标生产端的控制权。控制权从统计学家和社会科学专家转移到政府官员手中，心理测量学家成为官员的盟友（Gorur, 2014, p.12–13）
 >
@@ -72,8 +69,8 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> - [[International Indicators of Education Systems (INES)|INES]] 采用"灵活的组织框架"，以概念和实用为基础并纳入政策关切（Bottani, 1994, p.335; Gorur, 2014, p.12）
-> - [[Education at a Glance (EAG)|EAG]] 从 1992 年的 150 页增长至约 550 页（Gorur, 2014, p.14）
+> - [[International Indicators of Education Systems|INES]] 采用"灵活的组织框架"，以概念和实用为基础并纳入政策关切（Bottani, 1994, p.335; Gorur, 2014, p.12）
+> - [[Education at a Glance|EAG]] 从 1992 年的 150 页增长至约 550 页（Gorur, 2014, p.14）
 > - [[Performance Indicators|绩效指标]]从 EAG 最后一节（1990s）移至第一节（2002–），反映了关注焦点的根本转变（Gorur, 2014, p.13–14）
 > - INES 网络运作如"俱乐部"——有效但可能产生封闭性决策（Bottani, 1998, p.73; Gorur, 2014, p.16）
 > - 指标一旦制度化就极难删除——即使 OECD 团队想删除，用户抵制（"有人称它为圣经"）（OECD 官员访谈; Gorur, 2014, p.17）

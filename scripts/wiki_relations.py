@@ -267,7 +267,12 @@ def infer_sources(source_section: str, index: dict[str, Entry]) -> list[str]:
     for target in extract_targets(source_section):
         entry = index.get(target) or index.get(Path(target).stem)
         # If it is in the index, normalize to title. If not, preserve target.
-        title = entry.title if entry else Path(target).stem
+        if entry:
+            title = entry.title
+        elif target.endswith(".md") or "/" in target:
+            title = Path(target).stem
+        else:
+            title = target
         link = f"[[{title}]]"
         if link not in seen:
             sources.append(link)

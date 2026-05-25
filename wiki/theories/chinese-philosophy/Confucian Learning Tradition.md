@@ -1,9 +1,9 @@
 ---
 title: Confucian Learning Tradition
 aliases:
-- 儒家学习传统
-- Confucian learning model
-- East Asian learning tradition
+  - 儒家学习传统
+  - Confucian learning model
+  - East Asian learning tradition
 summary: "Li (2012) 识别的东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德、行勝於言四个文化主题"
 type: theory
 tags:

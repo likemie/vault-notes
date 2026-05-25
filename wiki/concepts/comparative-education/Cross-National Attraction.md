@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Policy Entrepreneur]]"
-  - "[[Externalization (Schriewer)]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -115,13 +114,13 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - **vs [[Policy Borrowing]]** — 跨国吸引力是政策借用的前置阶段（第一阶段），聚焦"为什么某国教育引起关注"和"谁在如何使用外国范例"；政策借用则涵盖从吸引到实施的全过程
-> - **vs [[Externalization (Schriewer)]]** — 外化是跨国吸引力中改革／抵制行动者使用的核心话语机制：行动者通过将国内问题（或解决方案）投射到国际参照系中来包装其改革（或抵制）主张
+> - **vs [[Externalization]]** — 外化是跨国吸引力中改革／抵制行动者使用的核心话语机制：行动者通过将国内问题（或解决方案）投射到国际参照系中来包装其改革（或抵制）主张
 
 ## 理论基础
 
 > [!info] 理论基础
 > - [[Policy Borrowing]] — 跨国吸引力是该理论框架的第一阶段
-> - [[Externalization (Schriewer)]] — 外化是连接结构推力和改革行动者的话语机制
+> - [[Externalization]] — 外化是连接结构推力和改革行动者的话语机制
 
 ## 实证发现
 

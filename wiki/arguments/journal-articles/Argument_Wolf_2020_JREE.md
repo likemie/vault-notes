@@ -25,8 +25,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
-related_facts:
-  - "[[What Works Clearinghouse (WWC)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Wolf_2020_JREE]]"
@@ -49,7 +48,7 @@ updated: '2026-05-18'
 
 > [!info] 研究方法
 > - **方法**：[[Meta-analysis]]（多元元回归，multivariate meta-regression），使用 robust variance estimation (RVE) 处理[[Effect Size|效应量]]依赖性，small-sample correction (Tipton, 2015) 防止 I 类错误膨胀
-> - **样本**：[[What Works Clearinghouse (WWC)|WWC]] 数据库中 K-12 数学和阅读/读写领域的 755 个效应量，来自 169 项研究（均达到 WWC 标准）（Wolf et al., 2020, p. 433）
+> - **样本**：[[What Works Clearinghouse|WWC]] 数据库中 K-12 数学和阅读/读写领域的 755 个效应量，来自 169 项研究（均达到 WWC 标准）（Wolf et al., 2020, p. 433）
 > - **数据来源**：What Works Clearinghouse (WWC) 数据库（2018 年 1 月提取），辅以对原始研究的个别审查以填充缺失数据、作者邮件询问资金来源（Wolf et al., 2020, pp. 433–434）
 > - **关键编码**：每个研究编码为开发者委托（作者为开发者雇员 或 开发者资助）vs. 独立研究；结果测量编码为研究者/开发者自编 vs. 独立测量（Wolf et al., 2020, pp. 434–435）
 > - **[[Publication Bias|发表偏倚]]检验**：Vevea & Hedges (1995) 权重函数模型（Wolf et al., 2020, p. 438）
@@ -60,7 +59,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > 1. **前提/观察**：ESSA 2015 将联邦拨款与项目有效性证据绑定，开发者面临前所未有的经济激励去证明其产品有效（Wolf et al., 2020, p. 428）
 > 2. **假设**：开发者可能通过研究设计特征（更小样本、自编测量）、文件抽屉效应、[[Researcher Degrees of Freedom|研究者自由度]]三重机制抬高[[Effect Size|效应量]]（Wolf et al., 2020, p. 429）
-> 3. **方法步骤**：使用 [[What Works Clearinghouse (WWC)|WWC]] 全数据库，先估计零模型，再加入开发者和协变量的元回归模型，最后限制在同时有开发者和独立研究的干预子样本并加入干预固定效应——逐步排除替代解释（Wolf et al., 2020, pp. 437–438）
+> 3. **方法步骤**：使用 [[What Works Clearinghouse|WWC]] 全数据库，先估计零模型，再加入开发者和协变量的元回归模型，最后限制在同时有开发者和独立研究的干预子样本并加入干预固定效应——逐步排除替代解释（Wolf et al., 2020, pp. 437–438）
 > 4. **结论**：在控制可观测研究设计特征和项目特征后，[[Developer Effect|开发者效应]]仍然存在（全样本差异 0.141 SD，同一干预差异 0.130 SD），[[Publication Bias|发表偏倚]]估计可解释约 66%，但剩余部分不能由现有数据明确解释（Wolf et al., 2020, pp. 441–443）
 
 ## 主要发现
@@ -86,7 +85,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - **因果不确定性**：研究本质是描述性而非因果性——可以量化[[Developer Effect|开发者效应]]的存在和大小，但不能确定其来源（Wolf et al., 2020, p. 442）
-> - **[[Implementation Fidelity|实施忠实度]]数据缺失**：[[What Works Clearinghouse (WWC)|WWC]] 数据中无实施忠实度信息，无法检验开发者是否通过更高实施质量达成更大[[Effect Size|效应量]]（Wolf et al., 2020, p. 443）
+> - **[[Implementation Fidelity|实施忠实度]]数据缺失**：[[What Works Clearinghouse|WWC]] 数据中无实施忠实度信息，无法检验开发者是否通过更高实施质量达成更大[[Effect Size|效应量]]（Wolf et al., 2020, p. 443）
 > - **控制组细节有限**：WWC 仅提供控制组的简要描述，控制组之间的微妙差异可能未充分捕捉（Wolf et al., 2020, p. 443）
 > - **Vevea-Hedges 校正局限**：使用研究级平均效应量，且对开发者研究的校正差异不显著（Wolf et al., 2020, p. 442）
 > - **[[Publication Bias|发表偏倚]]的双向性**：独立研究的校正效应量反而高于原始值（+0.200 vs. +0.177, p<.05），说明发表偏倚的校正方向不一定总是向下（Wolf et al., 2020, p. 442）

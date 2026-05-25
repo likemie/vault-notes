@@ -30,7 +30,6 @@ related_persons:
   - "[[Max Weber]]"
   - "[[Ellen Hazelkorn]]"
 related_facts:
-  - "[[Academic Ranking of World Universities (ARWU)]]"
   - "[[UN Sustainable Development Goals 2015]]"
 related_arguments: []
 sources:
@@ -63,7 +62,7 @@ updated: '2026-05-18'
 
 > [!info]
 > - **方法类型**：规范性概念分析 + 批判性政策评论。研究先构建一个理论模型（多维使命模型），再以该模型为"检验标准"去审查 全球排名系统，识别后者在哪些维度上系统地偏离了高等教育的完整使命。
-> - **资料来源**：排名系统文件（[[Academic Ranking of World Universities (ARWU)|ARWU]]、THE、QS 等的指标和方法说明）、排名实证研究文献（Hazelkorn 2015/2018 的国际调查数据；Marginson 2009/2014 的排名批判分析；Altbach 2011 的评论等）、制度理论和新制度主义文献（Meyer 1970/1977、Scott & Davis 2016、Ramirez 2013）、美国肯塔基大学排名驱动转型的案例分析（DeYoung & Baas, 2012）。
+> - **资料来源**：排名系统文件（[[Academic Ranking of World Universities|ARWU]]、THE、QS 等的指标和方法说明）、排名实证研究文献（Hazelkorn 2015/2018 的国际调查数据；Marginson 2009/2014 的排名批判分析；Altbach 2011 的评论等）、制度理论和新制度主义文献（Meyer 1970/1977、Scott & Davis 2016、Ramirez 2013）、美国肯塔基大学排名驱动转型的案例分析（DeYoung & Baas, 2012）。
 
 
 ## 论证结构
@@ -163,7 +162,7 @@ Boyadjieva 梳理了催生排名的八股社会趋势，这些趋势互相关联
 **3.2 排名简史**
 
 - 最早的排名出现在各国国内（评估本国大学）
-- **2003 年**：上海交通大学发布 首个全球排名 [[Academic Ranking of World Universities (ARWU)|ARWU]]
+- **2003 年**：上海交通大学发布 首个全球排名 [[Academic Ranking of World Universities|ARWU]]
 - **2004 年**：Times Higher Education（THE）跟进
 - 此后 Leiden、Scimago、QS、U-Multirank 等相继出现（Boyadjieva, 2022, p.131）
 

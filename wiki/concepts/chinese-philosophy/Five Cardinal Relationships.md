@@ -1,10 +1,10 @@
 ---
 title: Five Cardinal Relationships
 aliases:
-- 五伦
-- wǔ lún
-- five cardinal human relationships
-- five Confucian relationships
+  - 五伦
+  - wǔ lún
+  - five cardinal human relationships
+  - five Confucian relationships
 summary: "儒家定义的五种基本人际关系（父子、兄弟、夫妇、君臣/雇佣、朋友）及其对应德目（孝、悌、敬、忠、信），为修身提供社会场域和道德框架。"
 type: concept
 tags:

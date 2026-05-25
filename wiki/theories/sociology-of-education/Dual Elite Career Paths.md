@@ -11,7 +11,6 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[Graduation Pathway Typology (Zheng)]]"
   - "[[Value Conformist Mode]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunist Mode]]"
@@ -59,7 +58,7 @@ updated: '2026-05-18'
 ## 二元路径与毕业出路产生机制
 
 
-[[Yajun Zheng|郑雅君]]（2023）第五章将二元精英路径理论纳入其[[Graduation Pathway Typology (Zheng)|毕业出路产生机制四分类]]模型（[[Graduation Pathway Typology (Zheng)]]）的分析，提出：
+[[Yajun Zheng|郑雅君]]（2023）第五章将二元精英路径理论纳入其[[Graduation Pathway Typology|毕业出路产生机制四分类]]模型（[[Graduation Pathway Typology]]）的分析，提出：
 
 - **体制通道的持续开放**：在自上而下的渐进式改革中，国家主导和原有体制的路径依赖决定了政府体制并未被削弱，而与市场体制并立或融通。大学本身作为一种政府管理下的事业单位，与体制资源有诸多衔接之处——选调生项目、[[Recommendation-Based Graduate Admission System|推免]]直研、留校任教、向政府机关和事业单位的定向输送等——为弱势背景学生中的[[Value Conformist Mode|价值归顺者]]提供了一条从学校到体制的"赞助性流动"通道（郑雅君，2023，引吕鹏和范晓光，2016; Walder, 1995; 刘欣，2021）
 - **市场与体制在话语层面的分化**：两校的就业取向差异——北方大学毕业生以公有制经济部门为主而南方大学以非公有制经济部门为主——反映了两条路径在精英大学层面的制度化分化。北方大学"绝不会在官方场合宣传"60 万年薪的外企，而倡导"入主流上大舞台"，但南方大学"自由而无用"文化则对体制和市场均持一定的批判距离（郑雅君，2023）
@@ -71,7 +70,7 @@ updated: '2026-05-18'
 
 
 - [[Credential Inflation]] — 文凭通胀可能加剧精英路径的竞争密度，但不会消除二元路径本身的结构分立（[[Yajun Zheng|郑雅君]]，2023）
-- [[Graduation Pathway Typology (Zheng)]] — 四分类模型中横纵两轴（价值信念驱动力×目的-手段行动力）交叉呈现出学生在二元路径中的四种不同取向（郑雅君，2023）
+- [[Graduation Pathway Typology]] — 四分类模型中横纵两轴（价值信念驱动力×目的-手段行动力）交叉呈现出学生在二元路径中的四种不同取向（郑雅君，2023）
 
 ---
 

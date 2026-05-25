@@ -1,9 +1,9 @@
 ---
 title: Chinese Learner
 aliases:
-- 中国学习者
-- Chinese learners
-- Chinese student
+  - 中国学习者
+  - Chinese learners
+  - Chinese student
 summary: "Li_2012 从儒家传统与实证研究提炼的学习者模型_向内完善自我_八层同心圆路径_七种学习美德为能动性_与西方学习者形成方向性对比_兼含 Ryan_Slethaug 等对西方刻板印象话语的批判"
 type: concept
 tags:
@@ -54,7 +54,7 @@ related_arguments:
   - "[[Argument_Ryan_2010_ChineseLearner]]"
 sources:
   - "[[Li_2012_Cambridge]]"
-  - "[[Ryan(Ed]]"
+  - "[[Ryan(Ed.)_2010_HKUP]]"
   - "[[Ch1_Slethaug_2010]]"
   - "[[Ch2_Ryan_2010]]"
 confidence: medium

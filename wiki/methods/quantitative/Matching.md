@@ -1,8 +1,8 @@
 ---
 title: Matching
 aliases:
-- 匹配
-- SEM
+  - 匹配
+  - SEM
 summary: "观察性研究中的因果推断方法，通过匹配协变量分布提高处理组与对照组可比性，以减少选择偏差对效果估计的干扰"
 type: method
 method_type: quantitative
@@ -13,7 +13,6 @@ tags:
 - subject/research-methodology
 - paradigm/positivist
 related_concepts:
-  - "[[Stable Unit Treatment Value Assumption (SUTVA)]]"
   - "[[Potential Outcomes Framework]]"
 related_theories: []
 related_methods:
@@ -74,7 +73,7 @@ updated: '2026-05-18'
 
 
 > [!warning] 需要满足与随机实验相同的假设
-> 匹配不能豁免随机实验所需的关键假设。例如，"同样必须满足无干扰（no interference）的要求"——即 [[Stable Unit Treatment Value Assumption (SUTVA)|SUTVA]] 假设（Berk, 2011, p.199）。
+> 匹配不能豁免随机实验所需的关键假设。例如，"同样必须满足无干扰（no interference）的要求"——即 [[Stable Unit Treatment Value Assumption|SUTVA]] 假设（Berk, 2011, p.199）。
 
 
 > [!warning] 协变量交互效应

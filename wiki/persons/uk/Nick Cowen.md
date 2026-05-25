@@ -1,7 +1,7 @@
 ---
 title: Nick Cowen
 aliases:
-- 尼克·考恩
+  - 尼克·考恩
 summary: "英国政治科学家，公共选择理论取向的教育政策分析者，为教育研究从制度激励与官僚政治层面解释证据本位改革提供视角。"
 type: person
 nationality: uk

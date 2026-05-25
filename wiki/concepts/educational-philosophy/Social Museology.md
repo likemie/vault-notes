@@ -1,10 +1,10 @@
 ---
 title: Social Museology
 aliases:
-- 社会博物馆学
-- sociomuseology
-- sociomuseologia
-- new museology
+  - 社会博物馆学
+  - sociomuseology
+  - sociomuseologia
+  - new museology
 summary: "将博物馆定位为社区发展、记忆保存和公共参与工具的博物馆学取向。"
 type: concept
 tags:

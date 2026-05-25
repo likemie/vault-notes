@@ -1,8 +1,8 @@
 ---
 title: Space-Making in Higher Education
 aliases:
-- 高等教育空间制造
-- space-making
+  - 高等教育空间制造
+  - space-making
 summary: "用于分析高等教育社会空间如何由物质结构、空间想象和社会实践共同制造的框架。"
 type: concept
 tags:
@@ -19,7 +19,6 @@ related_persons:
   - "[[Doreen Massey]]"
 related_facts:
   - "[[Singapore Education Hub Policy]]"
-  - "[[Academic Ranking of World Universities (ARWU)]]"
 related_arguments: []
 sources:
   - "[[Marginson_2025_ROE]]"
@@ -61,7 +60,7 @@ updated: '2026-05-18'
 - **（c）社会实践** — 行动者运用领域（b）中的想法和解释，重新加工领域（a）中的物质元素，构建新的活动、项目和组织。这些嵌入性的物质实践随后成为领域（a）中持续运作的结构，形成循环——例如，新加坡邀请外国大学设立分校的实践改变了该国的物质性教育结构，又进一步塑造了后续的政策想象（Marginson, 2025, p. 4）
 - **空间制造案例** — 大学签署协议、建立联盟、创建跨境联合学位；新加坡将自身定位为"[[Singapore Education Hub Policy|全球校园]]"并邀请外国大学设立分校；中国大学规划者和伦敦杂志在 2002/2003 年设想以校准排名来排序的大学世界；各国政府建设"世界一流大学"层级；欧盟和东盟建立区域认证协议；西方大学在东亚和东南亚设立分校；MOOC 的创建；研究者的跨国合作；数百万学生的跨境流动——所有这些都在制造高等教育的社会空间（Marginson, 2025, pp. 4–5）
 >
-> > **例：排名作为空间制造** — 2003 年 [[Academic Ranking of World Universities (ARWU)|ARWU]] 的创建是空间制造三维度同时运作的典型案例：（a）既有结构：美国大学的压倒性优势、英语作为全球科学语言、文献计量数据库的既有偏斜；（b）想象：一个可排名、可比较的大学世界被"想象"出来；（c）实践：上海交通大学研究人员设计具体排名方法、收集数据、发布结果——这一实践随后重塑了全球大学的想象和行为（Marginson, 2025, pp. 4–5）。
+> > **例：排名作为空间制造** — 2003 年 [[Academic Ranking of World Universities|ARWU]] 的创建是空间制造三维度同时运作的典型案例：（a）既有结构：美国大学的压倒性优势、英语作为全球科学语言、文献计量数据库的既有偏斜；（b）想象：一个可排名、可比较的大学世界被"想象"出来；（c）实践：上海交通大学研究人员设计具体排名方法、收集数据、发布结果——这一实践随后重塑了全球大学的想象和行为（Marginson, 2025, pp. 4–5）。
 
 ---
 

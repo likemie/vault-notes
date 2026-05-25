@@ -1,9 +1,9 @@
 ---
 title: Enculturation
 aliases:
-- 文化濡化
-- 濡化
-- enculturation
+  - 文化濡化
+  - 濡化
+  - enculturation
 summary: "人类学概念，指个体在成长过程中通过日常互动无意识地吸收本文化的价值观、行为模式与信念体系的过程"
 type: concept
 tags:
@@ -11,7 +11,6 @@ tags:
 - theme/child-development
 - discipline/anthropology
 related_concepts:
-  - "[[Nerd (School Peer Culture)]]"
   - "[[Intellectual-Social Divide]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
@@ -87,7 +86,7 @@ updated: '2026-05-24'
 
 **文化信念支撑**。这种行为背后是"近朱者赤，近墨者黑"的信念——年幼的儿童尤其容易受环境影响。家长和教育者因此积极鼓励孩子接近好学生，远离不良行为者。这种对同伴的选择性接近并非出于功利目的，而是建立在一个文化前提之上：好学习意味着好品德——因此与好学生交友是道德上的明智选择（Li, 2012, pp.109–110）。
 
-**西方对照**。相比之下，欧裔美国及其他族裔家长很少使用"邻居的好学生"作为调动子女学习动机的策略。这一差异并非偶然——在 固定智力观和 [[Nerd (School Peer Culture)|nerd]] 同伴文化的背景下，[[Intellectual-Social Divide|知性-社交二分]]使"别人学习比你好"的暗示不仅无法激发努力，反而可能被解读为"你天生不如人"，加剧子女对自身能力的怀疑（Li, 2012, pp.108）。
+**西方对照**。相比之下，欧裔美国及其他族裔家长很少使用"邻居的好学生"作为调动子女学习动机的策略。这一差异并非偶然——在 固定智力观和 [[Nerd|nerd]] 同伴文化的背景下，[[Intellectual-Social Divide|知性-社交二分]]使"别人学习比你好"的暗示不仅无法激发努力，反而可能被解读为"你天生不如人"，加剧子女对自身能力的怀疑（Li, 2012, pp.108）。
 
 ---
 

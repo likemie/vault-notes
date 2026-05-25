@@ -23,7 +23,6 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[What Works Network (UK)]]"
 related_arguments: []
 sources:
   - "[[Peterson_2016_IJRME]]"
@@ -125,7 +124,7 @@ updated: '2026-05-18'
 
 > [!example] 相关案例／政策
 > - [[EEF Teaching and Learning Toolkit]] — Peterson 建议 EEF 角色从聚合项目效果转向编目"活性成分"机制
-> - [[What Works Network (UK)]] — 建议汇集跨中心经费建立机制识别专家小组
+> - [[What Works Network]] — 建议汇集跨中心经费建立机制识别专家小组
 
 ## 来源
 

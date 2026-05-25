@@ -1,9 +1,9 @@
 ---
 title: Lost Mode
 aliases:
-- 迷失无从者
-- lost actor
-- 迷失
+  - 迷失无从者
+  - lost actor
+  - 迷失
 summary: "毕业出路分化中的一种类型，以直觉依赖和弱价值信念结合为特征，缺乏稳定目标与行动方向，常被动接受权宜性选择"
 type: concept
 tags:
@@ -13,7 +13,6 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[Graduation Pathway Typology (Zheng)]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Champ]]"
@@ -37,7 +36,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 迷失无从者（Lost Mode）是[[Yajun Zheng|郑雅君]]（2023）[[Graduation Pathway Typology (Zheng)|毕业出路产生机制四分类]]模型中的一种类型，指使用[[Intuition-Dependent Mode|直觉依赖模式]]且未形成内在自洽的价值观念系统的大学生。他们出身于工农家庭、中西部地区，多为第一代大学生，既没有内在一致的价值目标，所拥有且能熟练使用的策略工具更是少而又少。在毕业出路的获得上，他们处于最不利地位（郑雅君，2023）。
+> 迷失无从者（Lost Mode）是[[Yajun Zheng|郑雅君]]（2023）[[Graduation Pathway Typology|毕业出路产生机制四分类]]模型中的一种类型，指使用[[Intuition-Dependent Mode|直觉依赖模式]]且未形成内在自洽的价值观念系统的大学生。他们出身于工农家庭、中西部地区，多为第一代大学生，既没有内在一致的价值目标，所拥有且能熟练使用的策略工具更是少而又少。在毕业出路的获得上，他们处于最不利地位（郑雅君，2023）。
 >
 > > "迷失无从者"因为游离于各种价值取向之间而往往对未来的发展方向举棋不定，最终陷入被动局面。在毕业出路的获得上，"迷失无从者"处于最不利地位（郑雅君，2023）
 >

@@ -21,10 +21,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[International Indicators of Education Systems (INES)]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Coleman Report 1966]]"
-  - "[[Education at a Glance (EAG)]]"
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"
@@ -50,7 +48,7 @@ updated: '2026-05-18'
 
 > [!success] 影响与后果
 > ### 推动[[International Education|国际教育]]指标开发
-> - 报告的发布"生成了对教育系统质量的恐慌"，使 [[International Indicators of Education Systems (INES)|INES]] 项目被视为"紧迫"（Gorur, 2014, p.8, 10）
+> - 报告的发布"生成了对教育系统质量的恐慌"，使 [[International Indicators of Education Systems|INES]] 项目被视为"紧迫"（Gorur, 2014, p.8, 10）
 > - 1987 年，美国教育部与 OECD 秘书处在华盛顿特区联合组织会议，22 个成员国代表参加。会议达成两点共识（Bottani & Walberg, 1992, p.7; Gorur, 2014, p.8）：
 >   1. 国际基准和比较已成为"提升教育质量的组成部分"
 >   2. 广泛认识到学校教育需要改进，数据是实现这一目标所必需的
@@ -74,8 +72,8 @@ updated: '2026-05-18'
 ## 相关概念／政策
 
 > [!example] 相关概念／政策
-> - [[International Indicators of Education Systems (INES)]] — 因为 A Nation at Risk 触发的危机感而加速推进
-> - [[Education at a Glance (EAG)]] — 华盛顿和 Poitiers 会议的最终产物
+> - [[International Indicators of Education Systems]] — 因为 A Nation at Risk 触发的危机感而加速推进
+> - [[Education at a Glance]] — 华盛顿和 Poitiers 会议的最终产物
 > - [[Evidence-Based Education]] — 共同的"数据驱动教育改进"逻辑
 > - [[American Attraction to Japanese Education 1980s]] — 危机叙事如何与日本参照共同推动改革动员
 

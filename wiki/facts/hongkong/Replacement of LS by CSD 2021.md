@@ -18,8 +18,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Citizenship and Social Development (Hong Kong)]]"
-  - "[[Liberal Studies (Hong Kong)]]"
   - "[[National Education in Hong Kong]]"
   - "[[2019 Hong Kong Protests and Education]]"
 related_arguments: []
@@ -33,10 +31,10 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 2020-2021 年通识教育科被"[[Citizenship and Social Development (Hong Kong)|公民与社会发展科]]"（CSD）取代，发生在香港政治生态根本性改变的背景下：
+> 2020-2021 年通识教育科被"[[Citizenship and Social Development|公民与社会发展科]]"（CSD）取代，发生在香港政治生态根本性改变的背景下：
 > - 2019 年反修例运动被中共定性为"颜色革命"和国家安全威胁
 > - 2020 年 6 月《香港国安法》颁布
-> - 中国官媒自 2019 年夏天起持续攻击 [[Liberal Studies (Hong Kong)|LS]]
+> - 中国官媒自 2019 年夏天起持续攻击 [[Liberal Studies|LS]]
 > - 香港教协于 2021 年解散，批评媒体空间大幅收窄
 > - 公民社会的协商能力被系统性削弱
 >
@@ -47,7 +45,7 @@ updated: '2026-05-18'
 > [!note]- 经过
 > ### 第一阶段：官媒攻击（2019 年 7-9 月）
 >
-> 中国内地官方媒体在 2019 年夏天集中火力攻击 [[Liberal Studies (Hong Kong)|LS]]，构建"LS 是香港年轻人参与暴力抗议的根本原因"的叙事：
+> 中国内地官方媒体在 2019 年夏天集中火力攻击 [[Liberal Studies|LS]]，构建"LS 是香港年轻人参与暴力抗议的根本原因"的叙事：
 >
 > | 媒体 | 日期 | 核心指控 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ updated: '2026-05-18'
 >
 > > "Despite the final report of the school curriculum review recommending that LS remains as a compulsory subject with minor changes to the curriculum content, the HKSAR Government announced abruptly in late 2020 that LS would be abolished." (Yan & Morris, 2025, p. 484)
 >
-> ### 第四阶段：[[Citizenship and Social Development (Hong Kong)|CSD]] 的诞生（2021.02）
+> ### 第四阶段：[[Citizenship and Social Development|CSD]] 的诞生（2021.02）
 >
 > - **2021 年 2 月**：教育局确认 LS 被 CSD 取代
 > - 教育局以"优化"（optimalisation）而非"废除"为修辞策略回应质疑
@@ -81,7 +79,7 @@ updated: '2026-05-18'
 
 ## 关键变化：LS → CSD
 
-> [!note]- 关键变化：[[Liberal Studies (Hong Kong)|LS]] → [[Citizenship and Social Development (Hong Kong)|CSD]]
+> [!note]- 关键变化：[[Liberal Studies|LS]] → [[Citizenship and Social Development|CSD]]
 > | 维度 | LS (2009-2021) | CSD (2021-) |
 > |------|---------------|-------------|
 > | 课程结构 | 六个跨学科单元 | 三个主题：一国两制下的香港、改革开放以来的国家、互联相依的当代世界 |
@@ -94,23 +92,23 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success] 影响与后果
-> 1. **国民教育正式嵌入核心课程**：港府自 1997 年以来一直未能实现的国民教育必修化目标，通过 [[Citizenship and Social Development (Hong Kong)|CSD]] 得以实现
+> 1. **国民教育正式嵌入核心课程**：港府自 1997 年以来一直未能实现的国民教育必修化目标，通过 [[Citizenship and Social Development|CSD]] 得以实现
 > 2. **课程政治逻辑的根本转变**：协商与公众咨询被直接的国家干预取代——Yan & Morris (2025) 认为这标志着香港教育从"半自治"转向"中央集权控制"
-> 3. **教师专业化倒退**：[[Liberal Studies (Hong Kong)|LS]] 教师原有的教学自主权和课程解释空间被大幅压缩
+> 3. **教师专业化倒退**：[[Liberal Studies|LS]] 教师原有的教学自主权和课程解释空间被大幅压缩
 > 4. **边疆政策的平行延伸**：CSD 的引入与中共在内蒙古、新疆、西藏的教育政策共享"中华民族统一认同"的核心逻辑
 
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **官方立场**（EDB, 2021b）：这是"优化"，不是"扼杀"[[Liberal Studies (Hong Kong)|LS]]。[[Citizenship and Social Development (Hong Kong)|CSD]] 保留了核心必修地位，是让科目"重回正轨"
+> - **官方立场**（EDB, 2021b）：这是"优化"，不是"扼杀"[[Liberal Studies|LS]]。[[Citizenship and Social Development|CSD]] 保留了核心必修地位，是让科目"重回正轨"
 > - **学术界批评**（Vickers & Morris, 2022; Vickers, 2024）：这是中共借助《国安法》加速香港教育"大陆化"和"国安化"的关键一步
 > - **国际关切的退场**：LS 创立时大量引入国际参照和海外背书；废除时全球教育界几乎没有发出有效反对声音——这本身反映了香港政治空间的收缩
 
 ## 相关概念／政策
 
 > [!example] 相关概念／政策
-> - [[Liberal Studies (Hong Kong)]]
-> - [[Citizenship and Social Development (Hong Kong)]]
+> - [[Liberal Studies]]
+> - [[Citizenship and Social Development]]
 > - [[National Education in Hong Kong]]
 > - [[2019 Hong Kong Protests and Education]]
 

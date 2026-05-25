@@ -21,7 +21,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[What Works Clearinghouse (WWC)]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
 sources:
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 > Wolf et al. (2020, pp. 443–444) 提出 REES 可用于以下用途：
 >
 > - 评估者[[Preregistration|预注册]]研究设计、结果测量和分析计划
-> - [[What Works Clearinghouse (WWC)|WWC]] 或其他审查机构**仅接受**预先指定的结果测量和分析——如果预注册中承诺的测量或分析未出现在最终报告中且无有效理由，该研究可被标记为"不符合预注册要求"
+> - [[What Works Clearinghouse|WWC]] 或其他审查机构**仅接受**预先指定的结果测量和分析——如果预注册中承诺的测量或分析未出现在最终报告中且无有效理由，该研究可被标记为"不符合预注册要求"
 > - 评估者可进行额外分析或使用额外测量（如为理论贡献）但这些结果**不合格**用于 WWC 或其他审查
 
 ## 影响与后果

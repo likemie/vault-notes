@@ -1,11 +1,11 @@
 ---
 title: Corporate Education
 aliases:
-- 企业教育
-- 公司教育
-- company-based education
-- firm-based training
-- corporate training
+  - 企业教育
+  - 公司教育
+  - company-based education
+  - firm-based training
+  - corporate training
 summary: "企业为雇员组织和提供的教育培训形式，范围涵盖初始职业教育到高层管理培养，并常与企业文化塑造和战略协调相连"
 type: concept
 tags:

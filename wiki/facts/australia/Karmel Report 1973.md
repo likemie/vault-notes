@@ -18,7 +18,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Independent Public Schools (IPS) Western Australia]]"
   - "[[Gonski Reforms]]"
 related_arguments: []
 sources:
@@ -54,13 +53,13 @@ updated: '2026-05-18'
 ## 效果与评价
 
 > [!success] 效果与评价
-> Keddie et al.（2020, IJLE, p.2）指出，[[School Autonomy|学校自主权]]改革的意图和指导方针已从 Karmel Report 的参与式民主起源**根本转变**为今天的新自由主义版本——如"独立公立学校"（[[Independent Public Schools (IPS) Western Australia|IPS]]），借鉴的是效率与问责的新自由主义概念而非民主参与。这一转变体现了学校自主权概念在澳大利亚政策史中的"市场化转向"。
+> Keddie et al.（2020, IJLE, p.2）指出，[[School Autonomy|学校自主权]]改革的意图和指导方针已从 Karmel Report 的参与式民主起源**根本转变**为今天的新自由主义版本——如"独立公立学校"（[[Independent Public Schools Western Australia|IPS]]），借鉴的是效率与问责的新自由主义概念而非民主参与。这一转变体现了学校自主权概念在澳大利亚政策史中的"市场化转向"。
 
 ## 争议与评论
 
 > [!warning] 争议与评论
 > - **Gonski 改革被认为是回归 Karmel 原则的尝试**：2011/2018 年 Gonski 改革旨在返回 Karmel 报告 1973 年启动的需求本位拨款模型（Keddie et al., 2020, IJLE, p.11）
-> - **对比当下的新自由主义版本**：Keddie et al. 将 Karmel 的民主起源与当代 [[Independent Public Schools (IPS) Western Australia|IPS]] 政策的新自由主义逻辑进行对比，凸显政策意图的历史漂移（Keddie et al., 2020, IJLE, p.2）
+> - **对比当下的新自由主义版本**：Keddie et al. 将 Karmel 的民主起源与当代 [[Independent Public Schools Western Australia|IPS]] 政策的新自由主义逻辑进行对比，凸显政策意图的历史漂移（Keddie et al., 2020, IJLE, p.2）
 
 ## 相关概念／理论
 

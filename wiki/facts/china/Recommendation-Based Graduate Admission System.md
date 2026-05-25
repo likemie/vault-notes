@@ -1,10 +1,10 @@
 ---
 title: Recommendation-Based Graduate Admission System
 aliases:
-- 推荐免试研究生制度
-- 推免制度
-- 推免
-- recommendation-based admission
+  - 推荐免试研究生制度
+  - 推免制度
+  - 推免
+  - recommendation-based admission
 summary: "1980s 中期至今的推免研究生制度：以累积学分为依据免试直升，985 院校覆盖率可达 40%+，郑雅君 (2023) 分析其对不同阶层学生的隐性要求差异，改革派与保守派在“借鉴日本教育“上形成阶段性共识并推动大规模借用"
 type: fact
 subtype: policy

@@ -1,8 +1,8 @@
 ---
 title: Boarding Schools
 aliases:
-- 寄宿学校
-- boarding school
+  - 寄宿学校
+  - boarding school
 summary: "以学生在校住宿为组织特征的学校形式，兼具学业、生活管理与社会化功能，在国际教育与精英培养中占据重要位置"
 type: concept
 tags:

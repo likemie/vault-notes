@@ -1,8 +1,8 @@
 ---
 title: Network Governance
 aliases:
-- 网络治理
-- network governance in education
+  - 网络治理
+  - network governance in education
 summary: "以多主体网络协作、关系协调和分布式控制替代单一科层或市场机制的治理方式。"
 type: concept
 tags:
@@ -21,10 +21,6 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[YOUNG_ADULLLT]]"
-  - "[[Manaiakalani Education Trust (NZ 2011)]]"
-  - "[[Cognition Education (NZ)]]"
-  - "[[Teach First New Zealand Ako Mātātupu (TFNZ 2011)]]"
-  - "[[Partnership Schools Kura Hourua (NZ 2011)]]"
 related_arguments: []
 sources:
   - "[[ONeill_2016_Report]]"
@@ -82,11 +78,11 @@ O'Neill et al.（2016, pp.8–12）列出近十余年新西兰同时体现私营
 
 **ii. asTTle / e-asTTle 商业化**：2000 年代初由奥克兰大学开发、教育部公费资助。目前 e-asTTle 专业发展支持已合同外包给私营公司 Evaluation Associates Ltd。2015 年底教育部通过 GETS 发布 RFP 寻找投资伙伴出资 USD 4–8M"现代化"e-asTTle——教育部永留新西兰学校使用权，投资伙伴有权向学校收费并开发国际版本在海外销售（O'Neill et al., 2016, pp.8–9）
 
-**iii. Manaiakalani Education Trust（2011）**：源自 EHSAS 技术增强型扫盲计划，Manaiakalani Education Trust 以四名教育者/非教育者受托人混合结构成立，获 ASB Community Trust（后 Foundation North）和 Spark Foundation 创始赞助（2012）。至 2015 年获 NEXT Foundation 资助通过 Manaiakalani Outreach 将技术增强学习模式在全国规模化，另获 Samsung Electronics 资助。家庭和学校承担参与 Outreach 方案的运营成本（O'Neill et al., 2016, p.9）。详见 [[Manaiakalani Education Trust (NZ 2011)]]
+**iii. Manaiakalani Education Trust（2011）**：源自 EHSAS 技术增强型扫盲计划，Manaiakalani Education Trust 以四名教育者/非教育者受托人混合结构成立，获 ASB Community Trust（后 Foundation North）和 Spark Foundation 创始赞助（2012）。至 2015 年获 NEXT Foundation 资助通过 Manaiakalani Outreach 将技术增强学习模式在全国规模化，另获 Samsung Electronics 资助。家庭和学校承担参与 Outreach 方案的运营成本（O'Neill et al., 2016, p.9）。详见 [[Manaiakalani Education Trust]]
 
-**iv. Te Toi Tupu Leading Learning Network（2009–2010）**：回应政府将原先整笔资助的大学附属学校支持服务变为竞争性合同的决策，由 [[Cognition Education (NZ)|Cognition Education]]、CORE Education、NZCER、怀卡托大学和 Waikato-Tainui College for Research and Development 组成联合体。2015 年 11 月，Cognition、CORE、奥克兰大学、坎特伯雷大学、奥塔哥大学、怀卡托大学和 Te Tapuae o Rehua 联合注册了 Professional Learning Association New Zealand 法人社团以制定咨询和专业发展促进者的伦理质量标准（O'Neill et al., 2016, pp.9–10）
+**iv. Te Toi Tupu Leading Learning Network（2009–2010）**：回应政府将原先整笔资助的大学附属学校支持服务变为竞争性合同的决策，由 [[Cognition Education|Cognition Education]]、CORE Education、NZCER、怀卡托大学和 Waikato-Tainui College for Research and Development 组成联合体。2015 年 11 月，Cognition、CORE、奥克兰大学、坎特伯雷大学、奥塔哥大学、怀卡托大学和 Te Tapuae o Rehua 联合注册了 Professional Learning Association New Zealand 法人社团以制定咨询和专业发展促进者的伦理质量标准（O'Neill et al., 2016, pp.9–10）
 
-**v. Teach First New Zealand Ako Mātātupu ([[Teach First New Zealand Ako Mātātupu (TFNZ 2011)|TFNZ]])**：自 2011 年运营，为高成就毕业生在低 decile 学校提供基于就业的两年领导力发展/初级教师教育。由 Aotearoa Foundation（纽约）和 Tindall Foundation（奥克兰）2010 年配对资助可行性研究。作为奥克兰大学、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）三方合作运营。创始伙伴包括 Aotearoa Foundation、ASB Bank、Chapman Tripp、Deloitte、Harry Singer Foundation、Hutton Wilson Nominees (NEXT Foundation) 和 Woolf Fisher Trust。Aotearoa Foundation 涉及"美国对冲基金亿万富翁" Julian Robertson（2009 年首位荣誉新西兰骑士），其 Robertson Foundation 2014 年报总净资产 USD 575M，当年教育相关多年资助总额 USD 107.8M，大量与[[Partnership Schools Kura Hourua (NZ 2011)|特许学校]]运动有关（O'Neill et al., 2016, pp.10–11）。详见 Teach First New Zealand (TFNZ 2011)
+**v. Teach First New Zealand Ako Mātātupu ([[Teach First New Zealand Ako Mātātupu|TFNZ]])**：自 2011 年运营，为高成就毕业生在低 decile 学校提供基于就业的两年领导力发展/初级教师教育。由 Aotearoa Foundation（纽约）和 Tindall Foundation（奥克兰）2010 年配对资助可行性研究。作为奥克兰大学、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）三方合作运营。创始伙伴包括 Aotearoa Foundation、ASB Bank、Chapman Tripp、Deloitte、Harry Singer Foundation、Hutton Wilson Nominees (NEXT Foundation) 和 Woolf Fisher Trust。Aotearoa Foundation 涉及"美国对冲基金亿万富翁" Julian Robertson（2009 年首位荣誉新西兰骑士），其 Robertson Foundation 2014 年报总净资产 USD 575M，当年教育相关多年资助总额 USD 107.8M，大量与[[Partnership Schools Kura Hourua|特许学校]]运动有关（O'Neill et al., 2016, pp.10–11）。详见 Teach First New Zealand (TFNZ 2011)
 
 **vi. Partnership Schools Kura Hourua (PSKH)**：为兑现 2011 年 12 月国家党与 ACT 党供需信任协议，成立 PSKH 授权委员会，就私营实体（营利或非营利）运营公费私立学校提出建议。目前有 9 所运营，1 所合同终止。2016 年 5 月宣布设立 E Tipu E Rea 支持实体（2015 年 12 月注册为慈善机构）以支持新旧及未来赞助者，获政府有条件资助 USD 500,000，旨在通过慈善资助维持——E Tipu E Rea 是唯一受邀提交提案的机构（O'Neill et al., 2016, pp.11–12）
 

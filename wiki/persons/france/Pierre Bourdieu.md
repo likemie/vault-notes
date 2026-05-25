@@ -1,9 +1,9 @@
 ---
 title: Pierre Bourdieu
 aliases:
-- 皮埃尔·布迪厄
-- 布迪厄
-- Bourdieu
+  - 皮埃尔·布迪厄
+  - 布迪厄
+  - Bourdieu
 summary: "法国社会学家，场域-习性-资本理论创立者与区分作者，为教育研究分析再生产、不平等与学校权力提供核心语言。"
 type: person
 nationality: france

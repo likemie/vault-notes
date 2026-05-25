@@ -1,9 +1,9 @@
 ---
 title: Learning Gap
 aliases:
-- 学习差距
-- ability vs effort
-- 能力归因与努力归因
+  - 学习差距
+  - ability vs effort
+  - 能力归因与努力归因
 summary: "Stevenson 与 Stigler (1992) 通过跨国比较研究提出的概念，指美国学生以能力解释学业成就而东亚学生以努力解释成就的系统性文化差异。Li (2012) 将其作为中国学习者文化模型的重要实证基础之一。"
 type: concept
 tags:

@@ -11,7 +11,6 @@ tags:
 - biology
 - social-theory
 related_concepts:
-  - "[[Multiplicity (Massey)]]"
   - "[[Humility in Learning]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
@@ -38,7 +37,7 @@ updated: '2026-05-18'
 >
 > Amos 援引 Escobar 的解读："自创生"指自我指涉性和自我生产，不仅适用于生物系统，也可延伸至社会领域——社会变革在多重地方行动的交互中涌现，无需中央计划或智能引导（Escobar, 2018, p.152，引自 Amos, 2022, p.61）。
 >
-> > "Emergence, […] takes place on the basis of a [[Multiplicity (Massey)|multiplicity]] of local actions that, through their (largely unplanned) interaction, give rise to what appears to an observer to be a new structure of integrated whole […] without the need for any central planning or intelligence guiding the process."（Escobar, 2018, p.152）
+> > "Emergence, […] takes place on the basis of a [[Multiplicity|multiplicity]] of local actions that, through their (largely unplanned) interaction, give rise to what appears to an observer to be a new structure of integrated whole […] without the need for any central planning or intelligence guiding the process."（Escobar, 2018, p.152）
 >
 
 ## 核心命题

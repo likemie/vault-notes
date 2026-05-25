@@ -1,8 +1,8 @@
 ---
 title: Thomas Nordahl
 aliases:
-- 托马斯·诺达尔
-- 诺达尔
+  - 托马斯·诺达尔
+  - 诺达尔
 summary: "挪威教育学者与学校改进论者，Visible Learning 北欧支持路径代表人物，围绕学习结果、专业判断与能力建设重组学校改进论述。"
 type: person
 nationality: norway

@@ -16,15 +16,13 @@ tags:
 related_concepts:
   - "[[Flow]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Externalization (Schriewer)]]"
   - "[[Class Size]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[World Society Theory]]"
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Liberal Studies (Hong Kong)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Yan_2025_JCS]]"
@@ -42,14 +40,14 @@ updated: '2026-05-18'
 > - **长期教育弊端**：过度应试、教师主导的灌输式教学、过度依赖教科书——这些问题在数十年的官方报告中被反复指出
 > - **全球化焦虑**：[[Knowledge-Based Economy|知识经济]]兴起，政府认为教育体系需要"根本变革"以保持竞争力
 >
-> 政府通过**外部化**（[[Externalization (Schriewer)|externalization]]）策略，将国内问题表述为回应全球趋势的必要改革：
+> 政府通过**外部化**（[[Externalization|externalization]]）策略，将国内问题表述为回应全球趋势的必要改革：
 >
 > > "The education system of old can no longer meet the challenges of the new age. Embracing the knowledge-based new economy requires a large pool of talent equipped with the right skills and creativity." (Tung, 2000, p. 23，引自 Yan & Morris, 2025, p. 487)
 
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> 通识教育科（Liberal Studies, [[Liberal Studies (Hong Kong)|LS]]）作为新高中（NSS）课程的四门核心必修科之一（另三门为中国语文、英国语文、数学），于 2009 年 9 月正式实施。
+> 通识教育科（Liberal Studies, [[Liberal Studies|LS]]）作为新高中（NSS）课程的四门核心必修科之一（另三门为中国语文、英国语文、数学），于 2009 年 9 月正式实施。
 >
 > **核心设计元素：**
 > - 六个跨学科单元：个人成长与人际关系、今日香港、现代中国、全球化、公共卫生、能源科技与环境
@@ -72,7 +70,7 @@ updated: '2026-05-18'
 > - **2005** — 教统局发布《新学制行动计划》，确立 3+3+4 学制
 > - **2007** — 课程发展议会与考评局联合发布《通识教育科课程及评估指引》
 > - **2007-2009** — Mary James 担任课程发展议会海外委员
-> - **2009 年 7 月** — 立法会教育事务委员会召开特别会议，审议 [[Liberal Studies (Hong Kong)|LS]] 引入的相关议题（[[Class Size|班额]]、课程深度、评估公平性）
+> - **2009 年 7 月** — 立法会教育事务委员会召开特别会议，审议 [[Liberal Studies|LS]] 引入的相关议题（[[Class Size|班额]]、课程深度、评估公平性）
 > - **2009 年 9 月** — LS 正式成为高中必修科
 
 ## 实施情况
@@ -80,7 +78,7 @@ updated: '2026-05-18'
 > [!example] 实施情况
 > - **学段**：中四至中六（相当于内地高一至高三）
 > - **课时**：约占总课时的 10%
-> - **教师来源**：主要来自人文学科（经济及公共事务、政府与公共行政、社会教育、综合人文、科学与科技）——这些学科在 NSS 课程中被取消，其教师通过教授 [[Liberal Studies (Hong Kong)|LS]] 保留了职位
+> - **教师来源**：主要来自人文学科（经济及公共事务、政府与公共行政、社会教育、综合人文、科学与科技）——这些学科在 NSS 课程中被取消，其教师通过教授 [[Liberal Studies|LS]] 保留了职位
 > - **考试**：纳入香港中学文凭考试（HKDSE）的必修考核
 > - **"教科书"**：本地出版商可编制教材，但豁免于教育局教科书评审制度
 >
@@ -91,19 +89,19 @@ updated: '2026-05-18'
 > [!success] 效果与评价
 > - **教学范式转变**：引入了探究式、建构主义教学模式，挑战了香港长期以来的应试文化（Fung & Yip, 2010）
 > - **教师压力**：非学科专家教学引发了对教学质量的担忧，教师需在短时间内适应全新的教学方式（Yan, 2021）
-> - **政治化效应**：[[Liberal Studies (Hong Kong)|LS]] 的议题为本教学和批判性思维培养，在教育界获得肯定，但也使其成为政治争议的焦点
+> - **政治化效应**：[[Liberal Studies|LS]] 的议题为本教学和批判性思维培养，在教育界获得肯定，但也使其成为政治争议的焦点
 
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **支持立场**：[[Liberal Studies (Hong Kong)|LS]] 被视为香港教育"从死记硬背到批判思考"的转折点。Mary James (2017) 评价其"拓宽了所有学生的知识基础，增强了社会、国家和全球意识"
+> - **支持立场**：[[Liberal Studies|LS]] 被视为香港教育"从死记硬背到批判思考"的转折点。Mary James (2017) 评价其"拓宽了所有学生的知识基础，增强了社会、国家和全球意识"
 > - **批评立场**：亲中政治力量从一开始就质疑 LS 为"没有学科根基的实验"，认为其缺乏对中国历史与共产党的系统性正面介绍（Yan & Morris, 2025, p. 488）
 > - **[[Policy Borrowing|政策借用]]解读**：Forestier et al. (2016) 和 Yan & Morris (2025) 指出 LS 的全球参照是**选择性的工具使用**——借用 IBDP 的形式但不借用其国际主义价值观，反而同时嵌入"现代中国"单元来推动国民教育
 
 ## 相关概念／理论
 
 > [!example] 相关概念／理论
-> - [[Liberal Studies (Hong Kong)]]
+> - [[Liberal Studies]]
 > - [[Policy Borrowing]]
 > - [[World Society Theory]]
 

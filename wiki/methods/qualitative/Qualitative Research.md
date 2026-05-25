@@ -1,7 +1,7 @@
 ---
 title: Qualitative Research
 aliases:
-- 质性研究
+  - 质性研究
 summary: "通过访谈、观察和文本材料理解行动者经验、意义建构与实践情境的研究方法，适合解释教育过程中的复杂关系"
 type: method
 method_type: qualitative

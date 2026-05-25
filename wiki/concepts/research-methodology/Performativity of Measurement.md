@@ -1,8 +1,8 @@
 ---
 title: Performativity of Measurement
 aliases:
-- 测量的生产性
-- 测量的施行性
+  - 测量的生产性
+  - 测量的施行性
 summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 tags:
@@ -22,14 +22,12 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Neo-Taylorism in Educational Administration]]"
-related_theories:
-  - "[[Science and Technology Studies (STS)]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
   - "[[John Locke]]"
 related_facts:
-  - "[[Education at a Glance (EAG)]]"
   - "[[Victorian HITS and Literacy Toolkit 2017]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[PISA]]"
@@ -58,7 +56,7 @@ updated: '2026-05-18'
 > - Pickering (1995) 使用"performativity"概念描述社会技术实践的世界制造特征（Gorur, 2014, p.7）
 > - Knorr Cetina (1999) 提出[[Knowledge Production|知识生产]]的"生产性"（productive）特征（Gorur, 2014, p.7）
 > - Mitchell (2002) 提出"赋予可计算性的特征"（investing a character of calculability）本身改变世界（Gorur, 2014, p.17）
-> - Law (2009a) 进一步将 performativity 发展为 [[Science and Technology Studies (STS)|STS]] 的核心分析概念（Gorur, 2014, p.7）
+> - Law (2009a) 进一步将 performativity 发展为 [[Science and Technology Studies|STS]] 的核心分析概念（Gorur, 2014, p.7）
 > - Gorur (2014) 将 performativity 概念系统应用于 OECD [[International Education|国际教育]]指标分析（Gorur, 2014）
 
 ## 核心要素
@@ -70,7 +68,7 @@ updated: '2026-05-18'
 > - 政府的政策趋同很大程度上归功于这些比较表格和图表（Gorur, 2014, p.16）
 > - 被排除在计算之外的领域会失去在公众和决策者心目中的重要性（Gorur, 2014, p.16）
 >
-> > 例：[[Education at a Glance (EAG)|EAG]] 指标的存在本身就产生政治压力——教师和学校可能试图影响数据以利于自己，或影响指标的选择，特别是当他们通常无法控制许多可能被归咎于自己的因素时（Oakes, 1986; Gorur, 2014, p.18）
+> > 例：[[Education at a Glance|EAG]] 指标的存在本身就产生政治压力——教师和学校可能试图影响数据以利于自己，或影响指标的选择，特别是当他们通常无法控制许多可能被归咎于自己的因素时（Oakes, 1986; Gorur, 2014, p.18）
 >
 > **层面二：赋予"可计算性特征"本身改变世界**
 > - 使世界变得可计算需要首先标准化多样化世界——使用分类机制、数学公式、选择和删除——在此过程中世界已被改变（Scott, 1998; Gorur, 2014, p.15–16）
@@ -93,7 +91,7 @@ updated: '2026-05-18'
 > [!info] 理论基础
 > - **Latour 的"科学在行动"** — 关注科学实践如何制造事实，而非科学作为成品（Gorur, 2014, p.6）
 > - **Scott 的"国家的视角"** — 排序和测量使治理成为可能，而排序和测量的行为本身改变世界（Scott, 1998; Gorur, 2014, p.6）
-> - **[[Science and Technology Studies (STS)]]** — Jasanoff 的共同生产（co-production）理论：科学与国家相互构成，知识"结晶"为组织、物质、具身的存在状态（Jasanoff, 2004, p.3; Gorur, 2014, p.6）
+> - **[[Science and Technology Studies]]** — Jasanoff 的共同生产（co-production）理论：科学与国家相互构成，知识"结晶"为组织、物质、具身的存在状态（Jasanoff, 2004, p.3; Gorur, 2014, p.6）
 > - **Bottani 的认识论** — "没有认知方法能使其观察、测量、分析、比较、解码的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"（Bottani, 2008, p.22; Gorur, 2014, p.18）
 
 ## 实证发现
@@ -103,7 +101,7 @@ updated: '2026-05-18'
 > - 指标成为政策制定者、媒体、公众理解教育的默认框架
 > - 各国基于比较排名调整政策，即使排名基于充满妥协的数据
 > - 指标删除遭遇强烈抵制（"它就像圣经"——OECD 官员访谈，Gorur, 2014, p.17）
-> - [[Education at a Glance (EAG)|EAG]] 团队承认对媒体说的话必须简化到不再准确的程度，因为复杂真相无法被理解（OECD 官员访谈，Gorur, 2014, p.15）
+> - [[Education at a Glance|EAG]] 团队承认对媒体说的话必须简化到不再准确的程度，因为复杂真相无法被理解（OECD 官员访谈，Gorur, 2014, p.15）
 
 
 > [!success] 绩效问责制在[[School Leadership|学校领导力]]中的施行效应（Møller, 2017）
@@ -188,7 +186,7 @@ updated: '2026-05-18'
 > - [[Visible Learning]] — McKnight & Whitburn (2020) 论证 VL 是"新管理全景监狱主义"的完美工具，其隐喻本身就是施行性装置
 > - [[Visible Learning Branding and Global Influences]] — VL 商业产品（workshops、认证、Visible Classroom App）是 performativity 在商业层面的制度化体现
 > - [[Victorian HITS and Literacy Toolkit 2017]] — Johnson & Janzen (2023) 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
-> - [[Education at a Glance (EAG)]] — Gorur (2014) 的核心案例，OECD 指标的 performativity 如何在政策层面制造世界
+> - [[Education at a Glance]] — Gorur (2014) 的核心案例，OECD 指标的 performativity 如何在政策层面制造世界
 > - [[Neo-Taylorism in Educational Administration]] — 测量施行性与新泰勒主义共享全景监狱逻辑
 > - [[New Public Management]] — NPM 的绩效问责制是 performativity 在公共部门扩散的制度载体
 

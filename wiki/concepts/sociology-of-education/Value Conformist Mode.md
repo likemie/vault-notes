@@ -1,9 +1,9 @@
 ---
 title: Value Conformist Mode
 aliases:
-- 价值归顺者
-- value conformist
-- 价值归顺
+  - 价值归顺者
+  - value conformist
+  - 价值归顺
 summary: "毕业出路分化中的一种类型，以直觉依赖和强价值信念结合为特征，通过内化学校理想与主流规范获得体制赞助性流动"
 type: concept
 tags:
@@ -13,7 +13,6 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[Graduation Pathway Typology (Zheng)]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Pride in Learning]]"
@@ -39,7 +38,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 价值归顺者（Value Conformist Mode）是[[Yajun Zheng|郑雅君]]（2023）[[Graduation Pathway Typology (Zheng)|毕业出路产生机制四分类]]模型中的一种类型，指使用[[Intuition-Dependent Mode|直觉依赖模式]]但内化了大学所提供的"家国理想-社会价值"图式的大学生。他们出身于弱势家庭背景，面临目标失焦和策略不足的[[Cultural Barrier in Higher Education|文化障碍]]；但因为相对比较顺服学校提供的正式教育，在校园环境的熏陶中内化了学校所传输的理想信念，并且出于该理想选择了相应的出路——通常是进入体制系统（公务员、国企、学术机构）（郑雅君，2023）。
+> 价值归顺者（Value Conformist Mode）是[[Yajun Zheng|郑雅君]]（2023）[[Graduation Pathway Typology|毕业出路产生机制四分类]]模型中的一种类型，指使用[[Intuition-Dependent Mode|直觉依赖模式]]但内化了大学所提供的"家国理想-社会价值"图式的大学生。他们出身于弱势家庭背景，面临目标失焦和策略不足的[[Cultural Barrier in Higher Education|文化障碍]]；但因为相对比较顺服学校提供的正式教育，在校园环境的熏陶中内化了学校所传输的理想信念，并且出于该理想选择了相应的出路——通常是进入体制系统（公务员、国企、学术机构）（郑雅君，2023）。
 >
 > > "价值归顺者"虽然也缺乏目标意识，却相对比较顺服学校提供的正式教育，因而在校园环境的熏陶中内化了学校所传输的理想信念……并且出于该理想选择了相应的出路（郑雅君，2023）
 >

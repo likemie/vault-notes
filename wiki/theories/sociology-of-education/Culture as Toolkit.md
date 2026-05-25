@@ -1,9 +1,9 @@
 ---
 title: Culture as Toolkit
 aliases:
-- 文化工具箱
-- culture as toolkit
-- Swidler 工具箱理论
+  - 文化工具箱
+  - culture as toolkit
+  - Swidler 工具箱理论
 summary: "把文化理解为提供行动策略、习惯和可调用资源工具箱的文化社会学理论，强调人们并非只按抽象价值观行动"
 type: theory
 tags:
@@ -20,8 +20,6 @@ related_concepts:
   - "[[Opportunist Mode]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
-  - "[[Work Meaning Schemas (Zheng)]]"
-  - "[[Graduation Pathway Typology (Zheng)]]"
 related_theories:
   - "[[Dual-Process Model of Culture in Action]]"
 related_methods: []
@@ -122,7 +120,7 @@ updated: '2026-05-18'
 > - [[Intuition-Dependent Mode]] — 直觉依赖模式说明低阶层学生可及的文化工具集中缺少对精英大学场域具有高度适用性的"工具"。其亚类型[[Lost Mode|迷失无从者]]和[[Value Conformist Mode|价值归顺者]]的区分，体现了"工具匮乏"与"价值馈赠"可能同时发生的复杂关系（郑雅君，2023）
 > - **两种生活状态与两种模式**：郑雅君（2023）直接借用了 Swidler 对稳定/不稳定生活状态的区分——优势阶层学生入学前已处于"稳定生活状态"（文化工具箱已配备），弱势阶层学生则从应试场域进入大学后处于"不稳定生活状态"（文化目标被抛弃，需学习新方式）。直觉依赖者缺乏策略性，不是因为**没有**文化工具箱，而是因为其工具箱中缺少对**精英大学这一特定场域**具有高度适用性的工具（如[[Recommendation-Based Graduate Admission System|推免]]规则、实习重要性、教授期望等）。这些"暗藏阶级壁垒的文化性知识"在优势阶层的工具箱中随手可及（郑雅君，2023）
 > - **文化工具箱的动态重组**：郑雅君（2023）第4章通过转变者案例展示了工具箱在大学经历中的充实过程——文化移入（接触新价值图式）和行动策略充实化（习得具体操作技能）是两条核心路径。高等教育不仅生产文凭，更是一个文化再社会化的过程（郑雅君，2023）
-> - **择业中的图式运用**：郑雅君（2023）第5章区分了图式运用的两种情形——"方向导引"（图式驱动决策方向）和"结果合理化"（事后调用图式为既定结果提供正当性），并发现三种图式的内化程度存在阶层分化和代内分化。学生在生涯选择上享有多大程度的自由，取决于价值观驱动维度（目的生成）和工具箱维度（策略能力）的双重作用。详见 [[Work Meaning Schemas (Zheng)]] 和 [[Graduation Pathway Typology (Zheng)]]（郑雅君，2023）
+> - **择业中的图式运用**：郑雅君（2023）第5章区分了图式运用的两种情形——"方向导引"（图式驱动决策方向）和"结果合理化"（事后调用图式为既定结果提供正当性），并发现三种图式的内化程度存在阶层分化和代内分化。学生在生涯选择上享有多大程度的自由，取决于价值观驱动维度（目的生成）和工具箱维度（策略能力）的双重作用。详见 [[Work Meaning Schemas]] 和 [[Graduation Pathway Typology]]（郑雅君，2023）
 
 ---
 

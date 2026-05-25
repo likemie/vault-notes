@@ -1,9 +1,9 @@
 ---
 title: Knowledge Sabotage
 aliases:
-- 知识破坏
-- sabotage of knowledge
-- undermining knowledge
+  - 知识破坏
+  - sabotage of knowledge
+  - undermining knowledge
 summary: "通过破坏、削弱或扰乱敌对方知识资产和知识基础设施来削减其能力的知识转移形态。"
 type: concept
 tags:

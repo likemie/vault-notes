@@ -1,10 +1,10 @@
 ---
 title: Epistemic Governance
 aliases:
-- 知识治理
-- 认知治理
-- global epistemic governance
-- 知识本位治理
+  - 知识治理
+  - 认知治理
+  - global epistemic governance
+  - 知识本位治理
 summary: "以规范、认知和知识为基础的治理机制，用于说明高等教育机构如何通过知识权威、专家培养和价值框架参与全球治理。"
 type: concept
 tags:
@@ -25,7 +25,6 @@ related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals 2015]]"
   - "[[THE Impact Ranking 2019]]"
-  - "[[Comprehensive School Reform (CSR) Program]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
 sources:
@@ -93,7 +92,7 @@ updated: 2026-05-20
 > - 全球[[Knowledge-Based Economy|知识经济]]（global knowledge economy）的诊断为知识治理的兴起提供了宏观叙事背景：高度受教育劳动力的规模化扩张正在将社会转型为"学校化社会"（schooled society），其影响远超直接的经济收益（Baker, 2014，引自 Zapp, 2022, p.146）。参见 [[Knowledge-Based Economy]]
 > - Zapp (2020a) 对 1947–2019 年间 100+ 份国际组织全球报告的分析发现，从 1980 年代末起所有报告均开始引用科学资源，部分报告已类似于包含数千条学术参考文献的大规模文献综述——知识从大学流向 IO，IO 再用这些知识塑造全球政策议程，构成知识治理的物质循环（Zapp, 2022, p.151）
 > - Zapp (2017b) 发现 1325+ 个国际组织与大学之间存在广泛的研究合作关系，公立大学是所有国际组织最频繁的研究合作者——平均 40,000 篇共同署名出版物。这种合作是双向的：大学知识渗透进 IO 的运作，同时 IO（如 OECD）也塑造了大学的研究议程（Zapp, 2022, p.151）
-> - 在全球治理实践中，知识权威的崛起体现在多个层面：研究评估体系（如英国 REF）中"影响"权重的持续增加（从 2009 年讨论到 REF 2014 成为第二重要评分项）；[[THE Impact Ranking 2019]] 将大学的社会贡献转化为排名指标；以及全球 200+ 所大学在过去 5 年内首次发布 [[Comprehensive School Reform (CSR) Program|CSR]]/可持续发展报告（Zapp, 2022, pp.146–147, 152–153）
+> - 在全球治理实践中，知识权威的崛起体现在多个层面：研究评估体系（如英国 REF）中"影响"权重的持续增加（从 2009 年讨论到 REF 2014 成为第二重要评分项）；[[THE Impact Ranking 2019]] 将大学的社会贡献转化为排名指标；以及全球 200+ 所大学在过去 5 年内首次发布 [[Comprehensive School Reform Program|CSR]]/可持续发展报告（Zapp, 2022, pp.146–147, 152–153）
 
 > [!info]- 核心数据
 > - 公立大学与所有 IOs 平均合作产出 **40,000 篇**共同署名出版物（Zapp, 2017b，引自 Zapp, 2022, p.151）

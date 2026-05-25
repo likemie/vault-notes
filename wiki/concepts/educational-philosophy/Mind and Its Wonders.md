@@ -1,11 +1,11 @@
 ---
 title: Mind and Its Wonders
 aliases:
-- 心智及其奇迹
-- mind and its wonders
-- human intellect
-- human mind
-- western mind
+  - 心智及其奇迹
+  - mind and its wonders
+  - human intellect
+  - human mind
+  - western mind
 summary: "西方学习传统第二主题，围绕人类心智的认知能力进行持续2500年的哲学追问与科学探索，从苏格拉底回忆说到现代神经科学"
 type: concept
 tags:

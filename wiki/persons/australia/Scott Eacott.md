@@ -1,7 +1,7 @@
 ---
 title: Scott Eacott
 aliases:
-- 斯科特·伊科特
+  - 斯科特·伊科特
 summary: "澳大利亚教育行政学者，关系取向组织理论与领导力知识批判代表人物，为教育研究反思教育领导力领域的话语、方法与权威结构提供工具。"
 type: person
 nationality: australia

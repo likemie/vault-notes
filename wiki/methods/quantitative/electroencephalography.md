@@ -1,9 +1,9 @@
 ---
 title: Electroencephalography
 aliases:
-- 脑电图
-- 脑电描记术
-- EEG
+  - 脑电图
+  - 脑电描记术
+  - EEG
 summary: "脑电图（EEG）：通过测量相邻神经元群落激活记录脑活动，可测毫秒级增量，时间分辨率优于空间分辨率，便携式 EEG 扩大了对年幼儿童的研究可能"
 type: method
 method_type: quantitative

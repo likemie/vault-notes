@@ -1,7 +1,7 @@
 ---
 title: Andreas Helmke
 aliases:
-- 安德烈亚斯·赫尔姆克
+  - 安德烈亚斯·赫尔姆克
 summary: "德国教育学者和有效教学研究者，Unterrichtsqualität und Lehrerprofessionalität 作者，为课堂质量与教师专业性研究提供德语传统框架。"
 type: person
 nationality: germany

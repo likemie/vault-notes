@@ -250,16 +250,17 @@
     ]
   },
   {
-    "title": "Codeswitcher (School)",
+    "title": "Codeswitcher",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Codeswitcher (School).md",
+    "path": "wiki/concepts/comparative-education/Codeswitcher.md",
     "aliases": [
       "代码切换者",
       "code switcher",
       "codeswitcher",
       "codeswitching in school",
       "effort hiding",
-      "努力隐藏"
+      "努力隐藏",
+      "Codeswitcher (School)"
     ]
   },
   {
@@ -337,10 +338,12 @@
     ]
   },
   {
-    "title": "Establishing One's Will (lizhi)",
+    "title": "Establishing One's Will",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Establishing Ones Will (lizhi).md",
+    "path": "wiki/concepts/comparative-education/Establishing One's Will.md",
     "aliases": [
+      "Establishing One's Will (lizhi)",
+      "Establishing Ones Will (lizhi)",
       "立志",
       "立志向学",
       "lizhi",
@@ -361,12 +364,13 @@
     ]
   },
   {
-    "title": "Externalization (Schriewer)",
+    "title": "Externalization",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Externalization (Schriewer).md",
+    "path": "wiki/concepts/comparative-education/Externalization.md",
     "aliases": [
       "外化",
-      "externalization"
+      "externalization",
+      "Externalization (Schriewer)"
     ]
   },
   {
@@ -391,12 +395,13 @@
     ]
   },
   {
-    "title": "Global Education Reform Movement (GERM)",
+    "title": "Global Education Reform Movement",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Global Education Reform Movement (GERM).md",
+    "path": "wiki/concepts/comparative-education/Global Education Reform Movement.md",
     "aliases": [
       "global-education-reform-movement",
-      "GERM"
+      "GERM",
+      "Global Education Reform Movement (GERM)"
     ]
   },
   {
@@ -549,15 +554,16 @@
     ]
   },
   {
-    "title": "Nerd (School Peer Culture)",
+    "title": "Nerd",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Nerd (School Peer Culture).md",
+    "path": "wiki/concepts/comparative-education/Nerd.md",
     "aliases": [
       "书呆子",
       "nerd",
       "geek",
       "nerd harassment",
-      "anti-intellectual peer culture"
+      "anti-intellectual peer culture",
+      "Nerd (School Peer Culture)"
     ]
   },
   {
@@ -703,15 +709,16 @@
     ]
   },
   {
-    "title": "Zero-Sum Competition (School)",
+    "title": "Zero-Sum Competition",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Zero-Sum Competition (School).md",
+    "path": "wiki/concepts/comparative-education/Zero-Sum Competition.md",
     "aliases": [
       "零和竞争",
       "zero-sum competition",
       "零和博弈式竞争",
       "mutually exclusive competition",
-      "排他性竞争"
+      "排他性竞争",
+      "Zero-Sum Competition (School)"
     ]
   },
   {
@@ -749,12 +756,13 @@
     ]
   },
   {
-    "title": "Educational Management Organisation (EMO)",
+    "title": "Educational Management Organisation",
     "type": "concept",
-    "path": "wiki/concepts/curriculum/Educational Management Organisation (EMO).md",
+    "path": "wiki/concepts/curriculum/Educational Management Organisation.md",
     "aliases": [
       "教育管理组织",
-      "EMO"
+      "EMO",
+      "Educational Management Organisation (EMO)"
     ]
   },
   {
@@ -965,10 +973,11 @@
     ]
   },
   {
-    "title": "Multiplicity (Massey)",
+    "title": "Multiplicity",
     "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Multiplicity (Massey).md",
+    "path": "wiki/concepts/educational-philosophy/Multiplicity.md",
     "aliases": [
+      "Multiplicity (Massey)",
       "多重性",
       "multiplicity"
     ]
@@ -2454,12 +2463,13 @@
     ]
   },
   {
-    "title": "Stable Unit Treatment Value Assumption (SUTVA)",
+    "title": "Stable Unit Treatment Value Assumption",
     "type": "concept",
-    "path": "wiki/concepts/research-methodology/Stable Unit Treatment Value Assumption (SUTVA).md",
+    "path": "wiki/concepts/research-methodology/Stable Unit Treatment Value Assumption.md",
     "aliases": [
       "稳定单元处理值假定",
-      "SUTVA"
+      "SUTVA",
+      "Stable Unit Treatment Value Assumption (SUTVA)"
     ]
   },
   {
@@ -2574,10 +2584,11 @@
     ]
   },
   {
-    "title": "Graduation Pathway Typology (Zheng)",
+    "title": "Graduation Pathway Typology",
     "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/Graduation Pathway Typology (Zheng).md",
+    "path": "wiki/concepts/sociology-of-education/Graduation Pathway Typology.md",
     "aliases": [
+      "Graduation Pathway Typology (Zheng)",
       "毕业出路产生机制四分类",
       "2×2四分类模型",
       "出路分化四类型"
@@ -2734,10 +2745,11 @@
     ]
   },
   {
-    "title": "Work Meaning Schemas (Zheng)",
+    "title": "Work Meaning Schemas",
     "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/Work Meaning Schemas (Zheng).md",
+    "path": "wiki/concepts/sociology-of-education/Work Meaning Schemas.md",
     "aliases": [
+      "Work Meaning Schemas (Zheng)",
       "工作意义三角图式",
       "三角图式结构",
       "work meaning schemas"
@@ -2884,12 +2896,13 @@
     ]
   },
   {
-    "title": "Science and Technology Studies (STS)",
+    "title": "Science and Technology Studies",
     "type": "theory",
-    "path": "wiki/theories/educational-philosophy/Science and Technology Studies (STS).md",
+    "path": "wiki/theories/educational-philosophy/Science and Technology Studies.md",
     "aliases": [
       "科学技术研究",
-      "STS"
+      "STS",
+      "Science and Technology Studies (STS)"
     ]
   },
   {
@@ -2954,13 +2967,14 @@
     ]
   },
   {
-    "title": "Theory of Teaching (Gruschka)",
+    "title": "Teaching Theory of Gruschka",
     "type": "theory",
-    "path": "wiki/theories/instruction-pedagogy/Theory of Teaching (Gruschka).md",
+    "path": "wiki/theories/instruction-pedagogy/Teaching Theory of Gruschka.md",
     "aliases": [
       "教学理论 (Gruschka)",
       "Gruschka's teaching theory",
-      "Gruschka教学理论"
+      "Gruschka教学理论",
+      "Theory of Teaching (Gruschka)"
     ]
   },
   {
@@ -3327,14 +3341,15 @@
     ]
   },
   {
-    "title": "Mother-Child Conversation (MCC)",
+    "title": "Mother-Child Conversation",
     "type": "method",
-    "path": "wiki/methods/qualitative/Mother-Child Conversation (MCC).md",
+    "path": "wiki/methods/qualitative/Mother-Child Conversation.md",
     "aliases": [
       "母子对话法",
       "MCC",
       "mother-child conversation",
-      "simulated mother-child conversation"
+      "simulated mother-child conversation",
+      "Mother-Child Conversation (MCC)"
     ]
   },
   {
@@ -3498,10 +3513,11 @@
     ]
   },
   {
-    "title": "Single-Case Design (SCD)",
+    "title": "Single-Case Design",
     "type": "method",
-    "path": "wiki/methods/quantitative/Single-Case Design (SCD).md",
+    "path": "wiki/methods/quantitative/Single-Case Design.md",
     "aliases": [
+      "Single-Case Design (SCD)",
       "单一个案设计",
       "SCD",
       "单一被试设计"
@@ -4429,12 +4445,13 @@
     ]
   },
   {
-    "title": "Independent Public Schools (IPS) Western Australia",
+    "title": "Independent Public Schools Western Australia",
     "type": "fact",
-    "path": "wiki/facts/australia/Independent Public Schools (IPS) Western Australia.md",
+    "path": "wiki/facts/australia/Independent Public Schools Western Australia.md",
     "aliases": [
       "西澳独立公立学校",
-      "IPS"
+      "IPS",
+      "Independent Public Schools (IPS) Western Australia"
     ]
   },
   {
@@ -4446,12 +4463,13 @@
     ]
   },
   {
-    "title": "Local Schools Local Decisions (NSW)",
+    "title": "Local Schools Local Decisions",
     "type": "fact",
-    "path": "wiki/facts/australia/Local Schools Local Decisions (NSW).md",
+    "path": "wiki/facts/australia/Local Schools Local Decisions.md",
     "aliases": [
       "地方学校地方决策",
-      "LSLD"
+      "LSLD",
+      "Local Schools Local Decisions (NSW)"
     ]
   },
   {
@@ -4502,20 +4520,22 @@
     ]
   },
   {
-    "title": "Jerudong International School Establishment (Brunei 1997)",
+    "title": "Jerudong International School Establishment",
     "type": "fact",
-    "path": "wiki/facts/brunei/Jerudong International School Establishment (Brunei 1997).md",
+    "path": "wiki/facts/brunei/Jerudong International School Establishment.md",
     "aliases": [
       "Jerudong International School",
       "JIS",
-      "文莱 Jerudong International School 建校项目"
+      "文莱 Jerudong International School 建校项目",
+      "Jerudong International School Establishment (Brunei 1997)"
     ]
   },
   {
-    "title": "Academic Ranking of World Universities (ARWU)",
+    "title": "Academic Ranking of World Universities",
     "type": "fact",
-    "path": "wiki/facts/china/Academic Ranking of World Universities (ARWU).md",
+    "path": "wiki/facts/china/Academic Ranking of World Universities.md",
     "aliases": [
+      "Academic Ranking of World Universities (ARWU)",
       "世界大学学术排名",
       "ARWU",
       "上海排名",
@@ -4622,14 +4642,15 @@
     ]
   },
   {
-    "title": "Three Excellences (San Hao Sheng)",
+    "title": "Three Excellences",
     "type": "fact",
-    "path": "wiki/facts/china/Three Excellences (San Hao Sheng).md",
+    "path": "wiki/facts/china/Three Excellences.md",
     "aliases": [
       "三好生",
       "三好学生",
       "Students with Three Excellences",
-      "san hao sheng"
+      "san hao sheng",
+      "Three Excellences (San Hao Sheng)"
     ]
   },
   {
@@ -4777,12 +4798,13 @@
     ]
   },
   {
-    "title": "Education at a Glance (EAG)",
+    "title": "Education at a Glance",
     "type": "fact",
-    "path": "wiki/facts/global/Education at a Glance (EAG).md",
+    "path": "wiki/facts/global/Education at a Glance.md",
     "aliases": [
       "教育概览",
-      "EAG"
+      "EAG",
+      "Education at a Glance (EAG)"
     ]
   },
   {
@@ -4803,10 +4825,11 @@
     ]
   },
   {
-    "title": "International Baccalaureate (IB)",
+    "title": "International Baccalaureate",
     "type": "fact",
-    "path": "wiki/facts/global/International Baccalaureate (IB).md",
+    "path": "wiki/facts/global/International Baccalaureate.md",
     "aliases": [
+      "International Baccalaureate (IB)",
       "国际文凭",
       "IB",
       "IB Diploma",
@@ -4815,12 +4838,13 @@
     ]
   },
   {
-    "title": "International Indicators of Education Systems (INES)",
+    "title": "International Indicators of Education Systems",
     "type": "fact",
-    "path": "wiki/facts/global/International Indicators of Education Systems (INES).md",
+    "path": "wiki/facts/global/International Indicators of Education Systems.md",
     "aliases": [
       "国际教育系统指标",
-      "INES"
+      "INES",
+      "International Indicators of Education Systems (INES)"
     ]
   },
   {
@@ -4977,12 +5001,13 @@
     ]
   },
   {
-    "title": "Citizenship and Social Development (Hong Kong)",
+    "title": "Citizenship and Social Development",
     "type": "fact",
-    "path": "wiki/facts/hongkong/Citizenship and Social Development (Hong Kong).md",
+    "path": "wiki/facts/hongkong/Citizenship and Social Development.md",
     "aliases": [
       "公民与社会发展科",
-      "CSD"
+      "CSD",
+      "Citizenship and Social Development (Hong Kong)"
     ]
   },
   {
@@ -4994,12 +5019,13 @@
     ]
   },
   {
-    "title": "Liberal Studies (Hong Kong)",
+    "title": "Liberal Studies",
     "type": "fact",
-    "path": "wiki/facts/hongkong/Liberal Studies (Hong Kong).md",
+    "path": "wiki/facts/hongkong/Liberal Studies.md",
     "aliases": [
       "香港通识教育科",
-      "LS"
+      "LS",
+      "Liberal Studies (Hong Kong)"
     ]
   },
   {
@@ -5021,10 +5047,11 @@
     ]
   },
   {
-    "title": "Kokutai no Hongi (1937)",
+    "title": "Kokutai no Hongi",
     "type": "fact",
-    "path": "wiki/facts/japan/Kokutai no Hongi (1937).md",
+    "path": "wiki/facts/japan/Kokutai no Hongi.md",
     "aliases": [
+      "Kokutai no Hongi (1937)",
       "国体之本义",
       "Cardinal Principles of the National Entity of Japan"
     ]
@@ -5046,10 +5073,11 @@
     ]
   },
   {
-    "title": "Sino-American Trade War (2018)",
+    "title": "Sino-American Trade War",
     "type": "fact",
-    "path": "wiki/facts/multi/Sino-American Trade War (2018).md",
+    "path": "wiki/facts/multi/Sino-American Trade War.md",
     "aliases": [
+      "Sino-American Trade War (2018)",
       "中美贸易战",
       "中美贸易摩擦",
       "US-China Trade War"
@@ -5065,12 +5093,13 @@
     ]
   },
   {
-    "title": "Best Evidence in Brief (BEiB)",
+    "title": "Best Evidence in Brief",
     "type": "fact",
-    "path": "wiki/facts/multi/Best Evidence in Brief (BEiB).md",
+    "path": "wiki/facts/multi/Best Evidence in Brief.md",
     "aliases": [
       "最佳证据简报",
-      "BEiB"
+      "BEiB",
+      "Best Evidence in Brief (BEiB)"
     ]
   },
   {
@@ -5083,49 +5112,55 @@
     ]
   },
   {
-    "title": "Cognition Education (NZ)",
+    "title": "Cognition Education",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Cognition Education (NZ).md",
+    "path": "wiki/facts/newzealand/Cognition Education.md",
     "aliases": [
       "Cognition Education",
       "Cognition Education Group",
       "Cognition Education Trust",
       "Multi Serve",
-      "Multi Serve Education Trust"
+      "Multi Serve Education Trust",
+      "Cognition Education (NZ)"
     ]
   },
   {
-    "title": "Manaiakalani Education Trust (NZ 2011)",
+    "title": "Manaiakalani Education Trust",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Manaiakalani Education Trust (NZ 2011).md",
+    "path": "wiki/facts/newzealand/Manaiakalani Education Trust.md",
     "aliases": [
-      "Manaiakalani教育信托"
+      "Manaiakalani教育信托",
+      "Manaiakalani Education Trust (NZ 2011)"
     ]
   },
   {
-    "title": "Partnership Schools Kura Hourua (NZ 2011)",
+    "title": "Partnership Schools Kura Hourua",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Partnership Schools Kura Hourua (NZ 2011).md",
+    "path": "wiki/facts/newzealand/Partnership Schools Kura Hourua.md",
     "aliases": [
       "伙伴学校Kura Hourua",
-      "特许学校"
+      "特许学校",
+      "Partnership Schools Kura Hourua (NZ 2011)"
     ]
   },
   {
-    "title": "Teach First New Zealand Ako Mātātupu (TFNZ 2011)",
+    "title": "Teach First New Zealand Ako Mātātupu",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Teach First New Zealand (TFNZ 2011).md",
+    "path": "wiki/facts/newzealand/Teach First New Zealand Ako Mātātupu.md",
     "aliases": [
       "Teach First新西兰",
-      "TFNZ"
+      "TFNZ",
+      "Teach First New Zealand Ako Mātātupu (TFNZ 2011)",
+      "Teach First New Zealand (TFNZ 2011)"
     ]
   },
   {
-    "title": "Treasury Briefing on Student-Teacher Ratios (NZ 2011)",
+    "title": "Treasury Briefing on Student-Teacher Ratios",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Treasury Briefing on Student-Teacher Ratios (NZ 2011).md",
+    "path": "wiki/facts/newzealand/Treasury Briefing on Student-Teacher Ratios.md",
     "aliases": [
-      "财政部师生比简报"
+      "财政部师生比简报",
+      "Treasury Briefing on Student-Teacher Ratios (NZ 2011)"
     ]
   },
   {
@@ -5137,20 +5172,23 @@
     ]
   },
   {
-    "title": "Contestable School Support Services (NZ 2011)",
+    "title": "Contestable School Support Services",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Contestable School Support Services (NZ 2011).md",
+    "path": "wiki/facts/newzealand/Contestable School Support Services.md",
     "aliases": [
-      "可竞争学校支持服务"
+      "可竞争学校支持服务",
+      "Contestable School Support Services (NZ 2011)"
     ]
   },
   {
-    "title": "Foundation North Māori and Pasifika Education Initiative (MPEI 2009)",
+    "title": "Foundation North Māori and Pasifika Education Initiative",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Foundation North Māori and Pasifika Education Initiative (MPEI 2009).md",
+    "path": "wiki/facts/newzealand/Foundation North Māori and Pasifika Education Initiative.md",
     "aliases": [
       "北方基金会毛利与太平洋岛民教育计划",
-      "MPEI"
+      "MPEI",
+      "Foundation North Māori and Pasifika Education Initiative (MPEI 2009)",
+      "Foundation North Māori and Pasifika Education Initiative (MPEI 2009)"
     ]
   },
   {
@@ -5162,11 +5200,12 @@
     ]
   },
   {
-    "title": "New Zealand National Standards (2009)",
+    "title": "New Zealand National Standards",
     "type": "fact",
-    "path": "wiki/facts/newzealand/New Zealand National Standards (2009).md",
+    "path": "wiki/facts/newzealand/New Zealand National Standards.md",
     "aliases": [
-      "新西兰国家标准"
+      "新西兰国家标准",
+      "New Zealand National Standards (2009)"
     ]
   },
   {
@@ -5186,12 +5225,13 @@
     ]
   },
   {
-    "title": "Tomorrow's Schools Reforms (NZ 1989)",
+    "title": "Tomorrow's Schools Reforms",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Tomorrow's Schools Reforms (NZ 1989).md",
+    "path": "wiki/facts/newzealand/Tomorrow's Schools Reforms.md",
     "aliases": [
       "明日学校改革",
-      "Tomorrow's Schools"
+      "Tomorrow's Schools",
+      "Tomorrow's Schools Reforms (NZ 1989)"
     ]
   },
   {
@@ -5242,10 +5282,11 @@
     ]
   },
   {
-    "title": "Areopagitica (1644)",
+    "title": "Areopagitica",
     "type": "fact",
-    "path": "wiki/facts/uk/Areopagitica (1644).md",
+    "path": "wiki/facts/uk/Areopagitica.md",
     "aliases": [
+      "Areopagitica (1644)",
       "论出版自由",
       "Areopagitica",
       "Milton's Areopagitica"
@@ -5380,11 +5421,12 @@
     ]
   },
   {
-    "title": "What Works Network (UK)",
+    "title": "What Works Network",
     "type": "fact",
-    "path": "wiki/facts/uk/What Works Network (UK).md",
+    "path": "wiki/facts/uk/What Works Network.md",
     "aliases": [
-      "英国What Works网络"
+      "英国What Works网络",
+      "What Works Network (UK)"
     ]
   },
   {
@@ -5404,12 +5446,13 @@
     ]
   },
   {
-    "title": "Best Evidence Encyclopedia (BEE)",
+    "title": "Best Evidence Encyclopedia",
     "type": "fact",
-    "path": "wiki/facts/us/Best Evidence Encyclopedia (BEE).md",
+    "path": "wiki/facts/us/Best Evidence Encyclopedia.md",
     "aliases": [
       "最佳证据百科",
-      "BEE"
+      "BEE",
+      "Best Evidence Encyclopedia (BEE)"
     ]
   },
   {
@@ -5429,30 +5472,33 @@
     ]
   },
   {
-    "title": "California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)",
+    "title": "California Evidence Based Clearinghouse for Child Social and Economic Welfare",
     "type": "fact",
-    "path": "wiki/facts/us/California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC).md",
+    "path": "wiki/facts/us/California Evidence Based Clearinghouse for Child Social and Economic Welfare.md",
     "aliases": [
       "加州儿童社会与经济福祉循证清算中心",
-      "CEBC"
+      "CEBC",
+      "California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)"
     ]
   },
   {
-    "title": "Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)",
+    "title": "Clearinghouse for Military Family Readiness Continuum of Evidence",
     "type": "fact",
-    "path": "wiki/facts/us/Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR).md",
+    "path": "wiki/facts/us/Clearinghouse for Military Family Readiness Continuum of Evidence.md",
     "aliases": [
       "军人家庭准备证据清算中心",
-      "CMFR"
+      "CMFR",
+      "Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)"
     ]
   },
   {
-    "title": "CNCS Evidence Exchange (EE)",
+    "title": "CNCS Evidence Exchange",
     "type": "fact",
-    "path": "wiki/facts/us/CNCS Evidence Exchange (EE).md",
+    "path": "wiki/facts/us/CNCS Evidence Exchange.md",
     "aliases": [
       "CNCS证据交流平台",
-      "EE"
+      "EE",
+      "CNCS Evidence Exchange (EE)"
     ]
   },
   {
@@ -5464,21 +5510,23 @@
     ]
   },
   {
-    "title": "Collaborative for Academic Social and Emotional Learning Guide (CASEL)",
+    "title": "Collaborative for Academic Social and Emotional Learning Guide",
     "type": "fact",
-    "path": "wiki/facts/us/Collaborative for Academic Social and Emotional Learning Guide (CASEL).md",
+    "path": "wiki/facts/us/Collaborative for Academic Social and Emotional Learning Guide.md",
     "aliases": [
       "学术社会与情感学习协作组织指南",
-      "CASEL"
+      "CASEL",
+      "Collaborative for Academic Social and Emotional Learning Guide (CASEL)"
     ]
   },
   {
-    "title": "Communities in Schools (CIS)",
+    "title": "Communities in Schools",
     "type": "fact",
-    "path": "wiki/facts/us/Communities in Schools (CIS).md",
+    "path": "wiki/facts/us/Communities in Schools.md",
     "aliases": [
       "学校中的社区",
-      "CIS"
+      "CIS",
+      "Communities in Schools (CIS)"
     ]
   },
   {
@@ -5490,12 +5538,13 @@
     ]
   },
   {
-    "title": "Daubert v. Merrell Dow Pharmaceuticals (1993)",
+    "title": "Daubert v Merrell Dow Pharmaceuticals 1993",
     "type": "fact",
     "path": "wiki/facts/us/Daubert v Merrell Dow Pharmaceuticals 1993.md",
     "aliases": [
       "道伯特诉默雷尔道制药案",
-      "Daubert案"
+      "Daubert案",
+      "Daubert v. Merrell Dow Pharmaceuticals (1993)"
     ]
   },
   {
@@ -5507,30 +5556,33 @@
     ]
   },
   {
-    "title": "Home Visiting Evidence of Effectiveness (HomVEE)",
+    "title": "Home Visiting Evidence of Effectiveness",
     "type": "fact",
-    "path": "wiki/facts/us/Home Visiting Evidence of Effectiveness (HomVEE).md",
+    "path": "wiki/facts/us/Home Visiting Evidence of Effectiveness.md",
     "aliases": [
       "家访效果证据",
-      "HomVEE"
+      "HomVEE",
+      "Home Visiting Evidence of Effectiveness (HomVEE)"
     ]
   },
   {
-    "title": "Investing in Innovation (i3) Program",
+    "title": "Investing in Innovation Program",
     "type": "fact",
-    "path": "wiki/facts/us/Investing in Innovation (i3) Program.md",
+    "path": "wiki/facts/us/Investing in Innovation Program.md",
     "aliases": [
       "创新投资项目",
-      "i3"
+      "i3",
+      "Investing in Innovation (i3) Program"
     ]
   },
   {
-    "title": "National Dropout Prevention Center (NDPC)",
+    "title": "National Dropout Prevention Center",
     "type": "fact",
-    "path": "wiki/facts/us/National Dropout Prevention Center (NDPC).md",
+    "path": "wiki/facts/us/National Dropout Prevention Center.md",
     "aliases": [
       "全国防辍学中心",
-      "NDPC"
+      "NDPC",
+      "National Dropout Prevention Center (NDPC)"
     ]
   },
   {
@@ -5542,48 +5594,53 @@
     ]
   },
   {
-    "title": "Peer-Assisted Learning Strategies (PALS)",
+    "title": "Peer-Assisted Learning Strategies",
     "type": "fact",
-    "path": "wiki/facts/us/Peer-Assisted Learning Strategies (PALS).md",
+    "path": "wiki/facts/us/Peer-Assisted Learning Strategies.md",
     "aliases": [
       "同伴辅助学习策略",
-      "PALS"
+      "PALS",
+      "Peer-Assisted Learning Strategies (PALS)"
     ]
   },
   {
-    "title": "Promise Neighborhoods Research Consortium (PNRC)",
+    "title": "Promise Neighborhoods Research Consortium",
     "type": "fact",
-    "path": "wiki/facts/us/Promise Neighborhoods Research Consortium (PNRC).md",
+    "path": "wiki/facts/us/Promise Neighborhoods Research Consortium.md",
     "aliases": [
       "希望社区研究联盟",
-      "PNRC"
+      "PNRC",
+      "Promise Neighborhoods Research Consortium (PNRC)"
     ]
   },
   {
-    "title": "Promising Practices Network (PPN)",
+    "title": "Promising Practices Network",
     "type": "fact",
-    "path": "wiki/facts/us/Promising Practices Network (PPN).md",
+    "path": "wiki/facts/us/Promising Practices Network.md",
     "aliases": [
       "经验做法网络",
-      "PPN"
+      "PPN",
+      "Promising Practices Network (PPN)"
     ]
   },
   {
-    "title": "Quantum Opportunity Program (QOP)",
+    "title": "Quantum Opportunity Program",
     "type": "fact",
-    "path": "wiki/facts/us/Quantum Opportunity Program (QOP).md",
+    "path": "wiki/facts/us/Quantum Opportunity Program.md",
     "aliases": [
       "量子机会计划",
-      "QOP"
+      "QOP",
+      "Quantum Opportunity Program (QOP)"
     ]
   },
   {
-    "title": "Social Programs That Work (SPTW)",
+    "title": "Social Programs That Work",
     "type": "fact",
-    "path": "wiki/facts/us/Social Programs That Work (SPTW).md",
+    "path": "wiki/facts/us/Social Programs That Work.md",
     "aliases": [
       "有效社会项目",
-      "SPTW"
+      "SPTW",
+      "Social Programs That Work (SPTW)"
     ]
   },
   {
@@ -5629,30 +5686,33 @@
     ]
   },
   {
-    "title": "US-China Economic and Security Review Commission (2000)",
+    "title": "US-China Economic and Security Review Commission",
     "type": "fact",
-    "path": "wiki/facts/us/US-China Economic and Security Review Commission (2000).md",
+    "path": "wiki/facts/us/US-China Economic and Security Review Commission.md",
     "aliases": [
+      "US-China Economic and Security Review Commission (2000)",
       "USCC",
       "美中经济与安全审查委员会"
     ]
   },
   {
-    "title": "What Works Clearinghouse (WWC)",
+    "title": "What Works Clearinghouse",
     "type": "fact",
-    "path": "wiki/facts/us/What Works Clearinghouse (WWC).md",
+    "path": "wiki/facts/us/What Works Clearinghouse.md",
     "aliases": [
       "何者有效清算中心",
-      "WWC"
+      "WWC",
+      "What Works Clearinghouse (WWC)"
     ]
   },
   {
-    "title": "Comprehensive School Reform (CSR) Program",
+    "title": "Comprehensive School Reform Program",
     "type": "fact",
-    "path": "wiki/facts/us/Comprehensive School Reform (CSR) Program.md",
+    "path": "wiki/facts/us/Comprehensive School Reform Program.md",
     "aliases": [
       "综合学校改革项目",
-      "CSR"
+      "CSR",
+      "Comprehensive School Reform (CSR) Program"
     ]
   },
   {
@@ -5665,12 +5725,13 @@
     ]
   },
   {
-    "title": "Students and Teachers Accessing Tomorrow (STAT)",
+    "title": "Students and Teachers Accessing Tomorrow",
     "type": "fact",
-    "path": "wiki/facts/us/Students and Teachers Accessing Tomorrow (STAT).md",
+    "path": "wiki/facts/us/Students and Teachers Accessing Tomorrow.md",
     "aliases": [
       "STAT",
-      "Students and Teachers Accessing Tomorrow"
+      "Students and Teachers Accessing Tomorrow",
+      "Students and Teachers Accessing Tomorrow (STAT)"
     ]
   },
   {

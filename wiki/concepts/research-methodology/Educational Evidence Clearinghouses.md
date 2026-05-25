@@ -33,15 +33,9 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"
-  - "[[Single-Case Design (SCD)]]"
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
-  - "[[What Works Clearinghouse (WWC)]]"
-  - "[[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)]]"
-  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)]]"
-  - "[[Home Visiting Evidence of Effectiveness (HomVEE)]]"
-  - "[[Best Evidence Encyclopedia (BEE)]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Campbell Collaboration]]"
   - "[[Danish Clearinghouse for Educational Research]]"
@@ -51,17 +45,9 @@ related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
   - "[[Evidence-Based Teachers Network]]"
-  - "[[Collaborative for Academic Social and Emotional Learning Guide (CASEL)]]"
-  - "[[National Dropout Prevention Center (NDPC)]]"
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Open Court Reading]]"
   - "[[Success for All]]"
-  - "[[Peer-Assisted Learning Strategies (PALS)]]"
-  - "[[Quantum Opportunity Program (QOP)]]"
-  - "[[Communities in Schools (CIS)]]"
-  - "[[Social Programs That Work (SPTW)]]"
-  - "[[Promise Neighborhoods Research Consortium (PNRC)]]"
-  - "[[Promising Practices Network (PPN)]]"
 related_arguments:
   - "[[Argument_Pellegrini_2021_ROE]]"
 sources:
@@ -89,7 +75,7 @@ updated: '2026-05-24'
 > 教育证据清算中心的演变，是[[Evidence-Based Reform|证据本位改革]]基础设施逐步成形的过程：联邦政策提出证据要求，清算中心把研究证据转化为可检索的项目评级，学校和学区再把这些评级纳入采购与改进决策。
 
 - **2001** — [[No Child Left Behind Act 2001|NCLB]] 将“科学本位研究”嵌入美国联邦教育政策，推动学校改进、阅读项目和联邦拨款与实证研究标准连接起来（Ross & Morrison, 2021, p.109）。
-- **2002** — [[What Works Clearinghouse (WWC)]] 由美国教育部创建，用于识别和审查符合严格标准的教育研究；在 WWC 体系中，达到“无保留”或“有保留”标准通常需要 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]] 证据（Ross & Morrison, 2021, p.109）。
+- **2002** — [[What Works Clearinghouse]] 由美国教育部创建，用于识别和审查符合严格标准的教育研究；在 WWC 体系中，达到“无保留”或“有保留”标准通常需要 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]] 证据（Ross & Morrison, 2021, p.109）。
 - **2015** — ESSA 将证据分为强、中、有希望和基于原理四级，使清算中心的评级语言更直接进入学校改进拨款和项目选择（Ross & Morrison, 2021, p.109）。
 - **2015 之后** — Evidence for ESSA 等面向实践者的平台出现，并与 WWC 一起扩展学校和学区获取项目证据的渠道；这种变化提高了正式证据的可及性，但没有自动解决实践者对成本、实施和本地适配信息的需求（Ross & Morrison, 2021, pp.110, 120-121）。
 - **2020s** — 美国和英国的教育清算中心形成多机构生态，不同机构在研究设计、复制要求、[[Effect Size|效应量]]阈值、持续效果和评级单位上采用不同标准；这使“evidence-based”在实践中的含义变得不稳定（Wadhwa et al., 2024, pp.3-5, 26-30）。
@@ -101,11 +87,11 @@ updated: '2026-05-24'
 
 ### 证据标准制定
 
-清算中心首先决定“什么样的研究能算证据”。在 12 个教育清算中心的比较中，全部把 [[Randomised Controlled Trials|RCT]] 放在首选研究设计位置，但对随机化层级、流失、基线等值、分析层级和 [[Intent-to-Treat Analysis|ITT]] 的要求不同（Wadhwa et al., 2024, p.9）。对 [[Quasi-Experimental Designs|QED]] 的处理更不一致：所有机构都承认一般 QED 类型，但对回归断点设计和中断时间序列的重视程度不同，[[What Works Clearinghouse (WWC)|WWC]] 是少数为这些设计制定较详细标准的机构（Wadhwa et al., 2024, pp.9-11）。
+清算中心首先决定“什么样的研究能算证据”。在 12 个教育清算中心的比较中，全部把 [[Randomised Controlled Trials|RCT]] 放在首选研究设计位置，但对随机化层级、流失、基线等值、分析层级和 [[Intent-to-Treat Analysis|ITT]] 的要求不同（Wadhwa et al., 2024, p.9）。对 [[Quasi-Experimental Designs|QED]] 的处理更不一致：所有机构都承认一般 QED 类型，但对回归断点设计和中断时间序列的重视程度不同，[[What Works Clearinghouse|WWC]] 是少数为这些设计制定较详细标准的机构（Wadhwa et al., 2024, pp.9-11）。
 
 ### 项目与研究纳入
 
-清算中心不是把所有教育研究都放进同一个库，而是按自身任务筛选对象。标准可能涉及研究设计、出版日期、地理场景、样本量、结果测量、目标人群、语言和是否同行评审；例如 [[Clearinghouse for Military Family Readiness Continuum of Evidence (CMFR)|CMFR]] 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare (CEBC)|CEBC]] 只纳入同行评审研究，[[Home Visiting Evidence of Effectiveness (HomVEE)|HomVEE]] 搜索 1989 年以后的研究，WWC 的截止点通常为综述开始前 20 年（Wadhwa et al., 2024, pp.8-9）。
+清算中心不是把所有教育研究都放进同一个库，而是按自身任务筛选对象。标准可能涉及研究设计、出版日期、地理场景、样本量、结果测量、目标人群、语言和是否同行评审；例如 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 只纳入同行评审研究，[[Home Visiting Evidence of Effectiveness|HomVEE]] 搜索 1989 年以后的研究，WWC 的截止点通常为综述开始前 20 年（Wadhwa et al., 2024, pp.8-9）。
 
 ### 评级单位与结果域
 
@@ -128,7 +114,7 @@ updated: '2026-05-24'
 > - vs [[Evidence-Based Education]] — EBE 是教育实践和政策应依赖研究证据的理念；教育证据清算中心是把这一理念制度化为项目评级、证据标准和传播机制的基础设施（Wadhwa et al., 2024, p.4）。
 > - vs [[Evidence-Based Reform]] — EBR 强调用有效性证据选择项目和产品；清算中心提供 EBR 所需的"可信证据审查"环节，但不同清算中心对同一项目是否"有证据"常常并不一致（Wadhwa et al., 2024, pp.16-17）。
 > - vs 系统综述/[[Meta-analysis|元分析]] — 系统综述和元分析是研究综合方法；清算中心则是制度化中介机构，会同时制定纳入标准、研究质量标准、效果评级规则和面向公众的传播格式（Wadhwa et al., 2024, pp.4–5）。
-> - vs [[Inclusive Evidence Validation Typology]] — 清算中心通常面向外部用户发布项目评级；包容性证据验证类型学则是在本地实验研究和项目证据稀少时，为改革内部候选工具设置最低验证标准，避免直接复制 EEF、[[What Works Clearinghouse (WWC)|WWC]] 或 [[Best Evidence Encyclopedia (BEE)|BEE]] 标准导致绝大多数本地工具被排除（Dachet & Baye, 2021, pp.175-176）。
+> - vs [[Inclusive Evidence Validation Typology]] — 清算中心通常面向外部用户发布项目评级；包容性证据验证类型学则是在本地实验研究和项目证据稀少时，为改革内部候选工具设置最低验证标准，避免直接复制 EEF、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 标准导致绝大多数本地工具被排除（Dachet & Baye, 2021, pp.175-176）。
 
 ## 理论基础
 
@@ -138,7 +124,7 @@ updated: '2026-05-24'
 ## 实证发现
 
 > [!success] 实证发现
-> - 尽管 [[What Works Clearinghouse (WWC)|WWC]] 和 Evidence for ESSA 扩展了研究证据的可及性，教育产品消费者仍常偏好同伴推荐和本地试点，因为这些渠道更能同时提供产品特征、实施要求、使用满意度、成本和潜在结果等地方决策信息（Ross & Morrison, 2021, pp.110, 120-121）。
+> - 尽管 [[What Works Clearinghouse|WWC]] 和 Evidence for ESSA 扩展了研究证据的可及性，教育产品消费者仍常偏好同伴推荐和本地试点，因为这些渠道更能同时提供产品特征、实施要求、使用满意度、成本和潜在结果等地方决策信息（Ross & Morrison, 2021, pp.110, 120-121）。
 > - 以 2019 年 5 月为筛选节点，美国和英国可识别出 43 个清算中心；排除不发布效果评级、无法访问或只转载其他机构评级的站点后，聚焦 pre-K 至大学教育干预且关注学业成就、入学准备、毕业和学校社会问题预防等结果的教育清算中心为 12 个（Wadhwa et al., 2024, p.5）。
 > - 在 1,359 个教育项目中，1,131 个项目（83.2%）只被一个清算中心评级，164 个（12.1%）被两个评级，45 个（3.3%）被三个评级，15 个（1.1%）被四个评级，4 个（0.3%）被五个评级；没有项目被超过五个清算中心评级（Wadhwa et al., 2024, p.18）。
 > - 只有 17% 的项目拥有多重清算中心评级可供消费者比较；这些多重评级项目通常是教育研究与政策界更知名的项目，但即使在这些项目上，评级分歧仍很常见（Wadhwa et al., 2024, pp.18, 27）。
@@ -169,8 +155,8 @@ updated: '2026-05-24'
 
 ### 清算中心机构
 
-- [[What Works Clearinghouse (WWC)]] — 教育领域 public 清算中心，评价项目、政策、实践和研究；在 1,359 个项目样本中贡献 537 个项目，且在教育生态中具有特殊可见度（Wadhwa et al., 2024, pp.7, 16, 28）。
-- [[Best Evidence Encyclopedia (BEE)]] — 教育领域清算中心，目标人群为学生，评级对象为项目，在比较样本中贡献 124 个教育项目（Wadhwa et al., 2024, pp.7, 16）。
+- [[What Works Clearinghouse]] — 教育领域 public 清算中心，评价项目、政策、实践和研究；在 1,359 个项目样本中贡献 537 个项目，且在教育生态中具有特殊可见度（Wadhwa et al., 2024, pp.7, 16, 28）。
+- [[Best Evidence Encyclopedia]] — 教育领域清算中心，目标人群为学生，评级对象为项目，在比较样本中贡献 124 个教育项目（Wadhwa et al., 2024, pp.7, 16）。
 - [[EEF Teaching and Learning Toolkit]] — 英国 EEF 维护的证据资源；欧洲语境中的完整机构功能写在 EEF 条目和 [[Argument_Pellegrini_2021_ROE]]。
 - [[Campbell Collaboration]] — 系统综述型证据组织，2007 年将国际总部迁至挪威。
 - [[Danish Clearinghouse for Educational Research]] — 丹麦国家语境中的系统综述型教育证据中心。
@@ -180,25 +166,25 @@ updated: '2026-05-24'
 - [[Top Institute for Evidence-Based Education Research]] — 荷兰跨大学[[Evidence-Based Education|证据本位教育]]研究所。
 - [[Centre for the Use of Research and Evidence in Education]] — 英国研究转译和实践材料开发机构。
 - [[Evidence-Based Teachers Network]] — 英国教师、研究者和教育利益相关者证据分享网络。
-- [[Collaborative for Academic Social and Emotional Learning Guide (CASEL)]] — 聚焦社会情感学习项目的非营利教育清算中心，在比较样本中贡献 25 个项目（Wadhwa et al., 2024, pp.7, 16）。
-- [[National Dropout Prevention Center (NDPC)]] — 聚焦辍学预防项目的非营利教育清算中心；在四个详细比较对象中，其最高评级门槛最低（Wadhwa et al., 2024, pp.7, 15-16）。
+- [[Collaborative for Academic Social and Emotional Learning Guide]] — 聚焦社会情感学习项目的非营利教育清算中心，在比较样本中贡献 25 个项目（Wadhwa et al., 2024, pp.7, 16）。
+- [[National Dropout Prevention Center]] — 聚焦辍学预防项目的非营利教育清算中心；在四个详细比较对象中，其最高评级门槛最低（Wadhwa et al., 2024, pp.7, 15-16）。
 - [[Blueprints for Healthy Youth Development]] — 多领域、非营利清算中心，目标人群为 youth；最高评级要求高质量研究、独立复制和 12 个月持续效果（Wadhwa et al., 2024, pp.7, 14-15）。
-- [[Home Visiting Evidence of Effectiveness (HomVEE)]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 [[Randomised Controlled Trials|RCT]]、[[Quasi-Experimental Designs|QED]]、RDD 均有详细标准（Wadhwa et al., 2024, pp.7, 10, 16）。
+- [[Home Visiting Evidence of Effectiveness]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 [[Randomised Controlled Trials|RCT]]、[[Quasi-Experimental Designs|QED]]、RDD 均有详细标准（Wadhwa et al., 2024, pp.7, 10, 16）。
 
 ### 项目评级分歧
 
 - [[Open Court Reading]] — 三个清算中心均评为 promising，但对研究设计分类、效应大小和研究限制的解释不同（Wadhwa et al., 2024, pp.22-23）。
 - [[Success for All]] — 五个清算中心均未给负面评价，但按结果域、项目变体和纳入研究数量产生不同强度的证据判断（Wadhwa et al., 2024, p.23）。
-- [[Peer-Assisted Learning Strategies (PALS)]] — 五个清算中心对整体项目、阅读版本、数学版本和结果域给出中度分歧评级（Wadhwa et al., 2024, pp.23-24）。
-- [[Quantum Opportunity Program (QOP)]] — QOP 与 Eisenhower QOP 展示了项目变体、研究可获得性和质量标准如何改变评级（Wadhwa et al., 2024, pp.24-25）。
-- [[Communities in Schools (CIS)]] — 五个清算中心给出 recommended、promising/中等支持和不背书三类冲突结论，是评级分歧最清晰的案例（Wadhwa et al., 2024, p.25）。
+- [[Peer-Assisted Learning Strategies]] — 五个清算中心对整体项目、阅读版本、数学版本和结果域给出中度分歧评级（Wadhwa et al., 2024, pp.23-24）。
+- [[Quantum Opportunity Program]] — QOP 与 Eisenhower QOP 展示了项目变体、研究可获得性和质量标准如何改变评级（Wadhwa et al., 2024, pp.24-25）。
+- [[Communities in Schools]] — 五个清算中心给出 recommended、promising/中等支持和不背书三类冲突结论，是评级分歧最清晰的案例（Wadhwa et al., 2024, p.25）。
 
 ### 方法与标准
 
 - [[Randomised Controlled Trials]] — 12 个清算中心全部将 RCT 作为首选设计，但对随机化层级、流失、基线等值和分析要求不同（Wadhwa et al., 2024, pp.9-10）。
-- [[Intent-to-Treat Analysis]] — Blueprints、[[Social Programs That Work (SPTW)|SPTW]] 和 [[Promise Neighborhoods Research Consortium (PNRC)|PNRC]] 明确要求 ITT 分析；WWC 在特定条件下允许 CACE（Wadhwa et al., 2024, p.9）。
-- [[Effect Size]] — [[Promising Practices Network (PPN)|PPN]] 最高评级要求至少 0.25 SD，BEE 要求至少 0.20 SD，显示清算中心会把效应量阈值写入证据标准（Wadhwa et al., 2024, p.12）。
-- [[Single-Case Design (SCD)]] — WWC 的综述协议将 [[21st Century Skills and Competencies Discourse|SCD]] 列为可纳入设计之一，HomVEE 也为 single case designs 设置单独标准（Wadhwa et al., 2024, pp.8-11）。
+- [[Intent-to-Treat Analysis]] — Blueprints、[[Social Programs That Work|SPTW]] 和 [[Promise Neighborhoods Research Consortium|PNRC]] 明确要求 ITT 分析；WWC 在特定条件下允许 CACE（Wadhwa et al., 2024, p.9）。
+- [[Effect Size]] — [[Promising Practices Network|PPN]] 最高评级要求至少 0.25 SD，BEE 要求至少 0.20 SD，显示清算中心会把效应量阈值写入证据标准（Wadhwa et al., 2024, p.12）。
+- [[Single-Case Design]] — WWC 的综述协议将 [[21st Century Skills and Competencies Discourse|SCD]] 列为可纳入设计之一，HomVEE 也为 single case designs 设置单独标准（Wadhwa et al., 2024, pp.8-11）。
 - [[Gating Procedure]] 和 [[5-3-20 Rule]] — WWC 的 SCD 和组间设计审查以内部效度门控为基础，SCD 证据综合还使用 5-3-20 阈值（Hitchcock et al., 2015, pp.462, 466）。
 
 ## 来源

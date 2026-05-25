@@ -1,8 +1,8 @@
 ---
 title: Social Engagement
 aliases:
-- 社会性投入
-- social engagement
+  - 社会性投入
+  - social engagement
 summary: "学生向人际互动、课外活动、组织参与和职业探索投入时间精力的社会性投入维度。"
 type: concept
 tags:

@@ -20,7 +20,6 @@ related_methods:
   - "[[Formative Evaluation]]"
 related_persons: []
 related_facts:
-  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
   - "[[Azione LIM 2008]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
@@ -58,7 +57,7 @@ updated: 2026-05-23
 > [!success]
 > - Maine 的一对一笔记本项目在长期评价中显示多方面影响，包括若干学科成就提升、写作技能改善，以及信息定位和评价能力提升（Ross & Morrison, 2021, p.114）。
 > - North Carolina Mooresville 学区的一对一笔记本项目与教学实践变化、社区互联网可及性提高、学生用电脑完成家庭作业增加相关；短期成就没有提高，但中期数学成绩提高 .13 SD（Ross & Morrison, 2021, p.114）。
-> - BCPS 的 [[Students and Teachers Accessing Tomorrow (STAT)|STAT]] 案例显示，技术融入在教师准备、设备进入课堂、数字资源使用、学生参与和学生中心教学方面有较一致积极进展，但英语语言艺术和数学成就证据并不明确（Ross & Morrison, 2021, pp.118-123）。
+> - BCPS 的 [[Students and Teachers Accessing Tomorrow|STAT]] 案例显示，技术融入在教师准备、设备进入课堂、数字资源使用、学生参与和学生中心教学方面有较一致积极进展，但英语语言艺术和数学成就证据并不明确（Ross & Morrison, 2021, pp.118-123）。
 
 ## 争议与批评
 
@@ -75,7 +74,7 @@ updated: 2026-05-23
 
 ### 复杂改革案例
 
-- [[Students and Teachers Accessing Tomorrow (STAT)]] — Baltimore County Public Schools 的全学区技术整合项目；其分阶段推进和评价结果集中写在 STAT 条目中（Ross & Morrison, 2021, pp.114-116）。
+- [[Students and Teachers Accessing Tomorrow]] — Baltimore County Public Schools 的全学区技术整合项目；其分阶段推进和评价结果集中写在 STAT 条目中（Ross & Morrison, 2021, pp.114-116）。
 - [[Azione LIM 2008]] — 意大利互动白板行动，显示大规模设备投入若缺少有效性证据和教学整合设计，可能成为高成本低效果的技术政策案例（Pellegrini & Vivanet, 2021, p.27）。
 
 ### 证据政策环境

@@ -1,8 +1,8 @@
 ---
 title: Niklas Luhmann
 aliases:
-- 尼克拉斯·卢曼
-- 卢曼
+  - 尼克拉斯·卢曼
+  - 卢曼
 summary: "德国社会学家，社会系统理论创始人与教育系统分析者，为教育研究处理观察、复杂性与制度再生产提供强力工具。"
 type: person
 nationality: germany

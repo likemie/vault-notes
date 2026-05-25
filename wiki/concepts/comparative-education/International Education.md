@@ -1,8 +1,8 @@
 ---
 title: International Education
 aliases:
-- 国际教育
-- international education
+  - 国际教育
+  - international education
 summary: "跨越单一国家边界组织、流动或想象的教育形式，涵盖国际学校、跨国高教、留学流动与跨文化学习安排"
 type: concept
 tags:
@@ -21,14 +21,12 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[PISA]]"
-  - "[[Academic Ranking of World Universities (ARWU)]]"
-  - "[[International Baccalaureate (IB)]]"
   - "[[Education City Doha]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[Transnationalism and America Project SYSU]]"
 related_arguments: []
 sources:
-  - "[[Ryan(Ed]]"
+  - "[[Ryan(Ed.)_2010_HKUP]]"
   - "[[Ch1_Slethaug_2010]]"
 confidence: medium
 status: draft
@@ -76,14 +74,14 @@ updated: '2026-05-18'
 > [!note]
 > - 教育传统上绑定于地方和国家——中小学由地方税收资助、课程反映本地选民的价值观（Slethaug, 2010, pp.3–5）
 > - 2000 年 OECD 启动 [[PISA]]，标志着各国不再生活在教育"茧"中——数十万 15 岁学生接受相同评估，结果跨国可比较（Slethaug, 2010, pp.6–8）
-> - 2003 年上海交通大学发布 [[Academic Ranking of World Universities (ARWU)|ARWU]]，大学排名从国家层面向全球层面跨越；此后 Times Higher Education（2004）、QS 等多个排名系统相继建立（Slethaug, 2010, pp.10–11）
+> - 2003 年上海交通大学发布 [[Academic Ranking of World Universities|ARWU]]，大学排名从国家层面向全球层面跨越；此后 Times Higher Education（2004）、QS 等多个排名系统相继建立（Slethaug, 2010, pp.10–11）
 > - 详见 [[Global Universities Rankings]]
 
 ### 机构扩张：国际学校与海外分校
 
 > [!note]
 > - [[International Schools|国际学校]]从殖民前哨站演变为面向全球精英的市场化机构：1964 年约 50 所 → 1994 年约 1,000 所 → 2005 年约 3,000 所、约 200 万学生（Slethaug, 2010, pp.22–23）
-> - [[International Baccalaureate (IB)|IB]] 课程成为"去国家化"课程方案的代表：2009 年覆盖 135 国、2,609 校、709,000 学生（Slethaug, 2010, pp.27–28）
+> - [[International Baccalaureate|IB]] 课程成为"去国家化"课程方案的代表：2009 年覆盖 135 国、2,609 校、709,000 学生（Slethaug, 2010, pp.27–28）
 > - 21 世纪以来，美、澳、英、加大学在海外建综合性分校，如卡塔尔的 [[Education City Doha|多哈教育城]]（Slethaug, 2010, pp.15–16）
 
 ---
@@ -102,7 +100,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - **"国际教育"可能是"西化"的别名**：Slethaug 本人指出，[[International Baccalaureate (IB)|IB]] 课程声称意识形态中立，但其"多角度思考"和"开放心态"实际上预设了西方的教学方法（Drake, 2004，转引自 Slethaug, 2010, pp.28–29）。同样，[[Chinese Learner|中国学习者]]在教学中的道德发展维度——在中国课堂中教"做人"和教"知识"本为一体——在西方框架中常被完全忽略（Li, 2009，转引自 Slethaug, 2010, pp.25–26）
+> - **"国际教育"可能是"西化"的别名**：Slethaug 本人指出，[[International Baccalaureate|IB]] 课程声称意识形态中立，但其"多角度思考"和"开放心态"实际上预设了西方的教学方法（Drake, 2004，转引自 Slethaug, 2010, pp.28–29）。同样，[[Chinese Learner|中国学习者]]在教学中的道德发展维度——在中国课堂中教"做人"和教"知识"本为一体——在西方框架中常被完全忽略（Li, 2009，转引自 Slethaug, 2010, pp.25–26）
 > - **师资培训完全跟不上规模**：全球仅极少数大学设有国际教育专业项目，远不足以服务 200 万+ 学生、3,000+ 所学校的产业规模——大多数[[International Schools|国际学校]]教师未受过专门国际教育训练，旧的刻板印象因而得以延续（Slethaug, 2010, pp.32–33）
 > - **本地公立系统可能受损**：[[English Schools Foundation Hong Kong|ESF]] 等国际学校扩张吸纳本地优秀学生，掏空本已因出生率下降而面临压力的公立学校系统（Slethaug, 2010, p.5）
 > - **数据可靠性存疑**：不同来源对同一现象的统计差异巨大——例如中国出国留学生人数在《中国日报》（200,000）和 IIE（349,506）之间相差近一倍（Slethaug, 2010, pp.17–18）
@@ -117,7 +115,7 @@ updated: '2026-05-18'
 > - [[Transnationalism and America Project SYSU]] — 中山大学的跨文化团队教学项目
 > - [[PISA]] — OECD 的国际学生评估，教育全球化的关键测量工具
 > - [[International Schools]] — 国际教育在 K-12 层面的核心载体
-> - [[International Baccalaureate (IB)]] — 去国家化的国际课程方案
+> - [[International Baccalaureate]] — 去国家化的国际课程方案
 > - [[International Education Hubs]] — 国家将自身定位为国际教育活动中心的地缘政治概念
 
 ---

@@ -1,8 +1,8 @@
 ---
 title: Fourth Culture
 aliases:
-- 第四文化
-- fourth culture
+  - 第四文化
+  - fourth culture
 summary: "Deveney 提出的概念，指位于学生母国境内但并不代表其本土文化与信仰的国际学校环境，用于分析本地学生在国际学校中的文化调适复杂性。"
 type: concept
 tags:

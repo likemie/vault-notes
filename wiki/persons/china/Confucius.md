@@ -1,10 +1,10 @@
 ---
 title: Confucius
 aliases:
-- 孔子
-- Kongzi
-- Kong Qiu
-- 孔丘
+  - 孔子
+  - Kongzi
+  - Kong Qiu
+  - 孔丘
 summary: "中国春秋时期思想家、教育家，儒学创始人，以修身成仁为核心教学理念，编六经、教三千弟子，被尊为万世师表"
 type: person
 nationality: china

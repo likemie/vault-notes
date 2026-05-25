@@ -19,7 +19,6 @@ tags:
 - region/international
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Educational Management Organisation (EMO)]]"
   - "[[School Leadership]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
@@ -34,7 +33,6 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Material Fallacies]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Global Education Reform Movement (GERM)]]"
   - "[[Performativity of Measurement]]"
   - "[[Policy Entrepreneur]]"
   - "[[Neo-Taylorism in Educational Administration]]"
@@ -46,12 +44,8 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Bertrand Russell]]"
 related_facts:
-  - "[[Tomorrow's Schools Reforms (NZ 1989)]]"
-  - "[[Cognition Education (NZ)]]"
   - "[[PISA]]"
   - "[[The New Zealand Curriculum]]"
-  - "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"
-  - "[[New Zealand National Standards (2009)]]"
   - "[[Victorian HITS and Literacy Toolkit 2017]]"
   - "[[Australian Curriculum]]"
   - "[[Hattie på dansk 2017]]"
@@ -85,7 +79,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 2009 年 [[John Hattie]] 出版 *[[Visible Learning]]* 后，VL 迅速成为全球教育畅销书。在新西兰 1989 年 [[Tomorrow's Schools Reforms (NZ 1989)|Tomorrow's Schools]] 改革创造的私有化教育环境中，VL 的商业化具备了制度条件——[[Cognition Education (NZ)|Cognition Education]] 的前身 Multi Serve Education Trust 正是 1989 年改革初期成立的、为学校提供行政服务的实体（O'Neill et al., 2016, pp.66–69; Johnson & Janzen, 2023, p.30）。
+> 2009 年 [[John Hattie]] 出版 *[[Visible Learning]]* 后，VL 迅速成为全球教育畅销书。在新西兰 1989 年 [[Tomorrow's Schools Reforms|Tomorrow's Schools]] 改革创造的私有化教育环境中，VL 的商业化具备了制度条件——[[Cognition Education|Cognition Education]] 的前身 Multi Serve Education Trust 正是 1989 年改革初期成立的、为学校提供行政服务的实体（O'Neill et al., 2016, pp.66–69; Johnson & Janzen, 2023, p.30）。
 >
 > Hattie 自 2006 年起担任 Multi Serve Education Trust Board 董事，2008 年成为更名为 Cognition Education 后的董事，至 2012 年离任；其后继续担任 Cognition Education Trust "学术事务顾问"（O'Neill et al., 2016, pp.48, 69）。
 
@@ -105,7 +99,7 @@ updated: '2026-05-18'
 > #### 商标注册
 >
 > - **2006 年 4 月**：Auckland Uniservices Ltd 在新西兰注册 [[Visible Learning]] 商标（后于 2008 年"放弃"），同时创建 Visible Learning Labs，Hattie 任主任（O'Neill et al., 2016, p.47）
-> - **2011–2012 年**：[[Cognition Education (NZ)|Cognition Education Trust]] 在新西兰及国际上注册 Visible Learningplus 商标，标志描述为"VISIBLE LEARNING PLUS 字样，PLUS 以粗体上标形式出现，上方为风格化的人眼描绘"（O'Neill et al., 2016, p.48）
+> - **2011–2012 年**：[[Cognition Education|Cognition Education Trust]] 在新西兰及国际上注册 Visible Learningplus 商标，标志描述为"VISIBLE LEARNING PLUS 字样，PLUS 以粗体上标形式出现，上方为风格化的人眼描绘"（O'Neill et al., 2016, p.48）
 > - **2013 年**：Access Innovation Media Pty Ltd 在澳大利亚注册 Visible Classroom 商标，2014 年国际注册（O'Neill et al., 2016, p.49）
 >
 > #### Bates 证词：商业化的启动
@@ -118,7 +112,7 @@ updated: '2026-05-18'
 >
 > #### Cognition Education 作为商业化载体
 >
-> VL 的商业化并不是由出版社直接接手，而是由 [[Cognition Education (NZ)]] 这个起源于 [[Tomorrow's Schools Reforms (NZ 1989)]] 的[[Educational Management Organisation (EMO)|教育管理组织]]接住。Johnson & Janzen 把这一步放回新西兰教育市场化历史中理解：原 Auckland 学校董事会的交通与工资部门先被改制为 Multi Serve，后更名为 Cognition Education，并在营利公司加慈善信托的双层结构下经营教育服务与知识产品。（Johnson & Janzen, 2023, p.30；Bates, 2017, p.11-12, p.69）
+> VL 的商业化并不是由出版社直接接手，而是由 [[Cognition Education]] 这个起源于 [[Tomorrow's Schools Reforms]] 的[[Educational Management Organisation|教育管理组织]]接住。Johnson & Janzen 把这一步放回新西兰教育市场化历史中理解：原 Auckland 学校董事会的交通与工资部门先被改制为 Multi Serve，后更名为 Cognition Education，并在营利公司加慈善信托的双层结构下经营教育服务与知识产品。（Johnson & Janzen, 2023, p.30；Bates, 2017, p.11-12, p.69）
 >
 > 这使 VL 一开始就不是单纯的学术传播，而是被嵌入一个已经成熟的教育服务平台。2010 年末奥克兰大学教育学院决定不再继续支持该商业平台后，Cognition 与 Hattie 很快达成合作，把 VL 原理转写成面向教师和[[School Leadership|学校领导]]的模块化 professional learning curriculum。按 Bates 的回顾，Hattie 取得所有 VL 相关收入的版税，而新 division 自 2011 年初启动后增长极快，第一年收入已接近 2M，次年接近 2.7M，且利润率高于此前长期支撑公司的 payroll 业务。（Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30）
 >
@@ -238,7 +232,7 @@ updated: '2026-05-18'
 > - **2015 年 12 月**：ERO 国家报告 *Raising Student Achievement through Targeted Actions* 有利引用了这两篇文章（O'Neill et al., 2016, p.51）
 > - Cognition Education 的 VLplus 工作坊和学校认证在新西兰本土市场持续运营，与教育部合同形成协同（O'Neill et al., 2016, pp.67–68）
 >
-> 另见 [[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]——NZ Treasury 援引 VL 证据建议增加生师比的典型案例；[[New Zealand National Standards (2009)]]——Hattie 参与技术顾问的国家教育标准政策。
+> 另见 [[Treasury Briefing on Student-Teacher Ratios]]——NZ Treasury 援引 VL 证据建议增加生师比的典型案例；[[New Zealand National Standards]]——Hattie 参与技术顾问的国家教育标准政策。
 >
 > #### 澳大利亚
 >
@@ -302,7 +296,7 @@ updated: '2026-05-18'
 >
 > #### O'Neill (2012) — 新西兰 Treasury 政策误用与术语口号化
 >
-> O'Neill (2012) 以新西兰 Treasury 2011 年简报为案例，揭示了 VL 证据在真实政策过程中被误用的具体机制（详见 [[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]）：
+> O'Neill (2012) 以新西兰 Treasury 2011 年简报为案例，揭示了 VL 证据在真实政策过程中被误用的具体机制（详见 [[Treasury Briefing on Student-Teacher Ratios]]）：
 >
 > **（1）"教学质量"术语的定义断裂。** Hattie VL 中"教学质量"（quality of teaching，排名 56/138）的[[Meta-analysis|元分析]]证据全部来自大学生评教——按此定义对学校教育政策无任何可证明的相关性。Treasury 将此术语用作代理概念（proxy concept），包装教师绩效管理等更具争议的政策目的（ONeill, 2012, pp.154-155）。
 >
@@ -344,7 +338,7 @@ updated: '2026-05-18'
 > Johnson & Janzen（2023）在四角度系统批判中专门追踪了 VL 的新自由主义商业化维度：
 >
 > - **利益冲突判断**：Hattie 同时在 Cognition Trust 董事会任职并从 VL 商业化中获取版税——"If not a conflict of interest, the optics are at best ambiguous"（Johnson & Janzen, 2023, p.31）
-> - **班级规模作为新自由主义工具**：论证 Hattie 对 [[Class Size|班级规模]] 的处理（"does not matter"）直接服务于 [[Global Education Reform Movement (GERM)|GERM]] 的紧缩议程——词频分析显示"class size"在 VL 中出现 95 次（vs 排名第一的"self-reported grades"仅 6 次），在至少 16 个章节中被反复讨论（Johnson & Janzen, 2023, p.31-32）
+> - **班级规模作为新自由主义工具**：论证 Hattie 对 [[Class Size|班级规模]] 的处理（"does not matter"）直接服务于 [[Global Education Reform Movement|GERM]] 的紧缩议程——词频分析显示"class size"在 VL 中出现 95 次（vs 排名第一的"self-reported grades"仅 6 次），在至少 16 个章节中被反复讨论（Johnson & Janzen, 2023, p.31-32）
 > - **"饥饿-危机-私有化"循环**：Johnson & Janzen 将此置于 GERM 的更宏观框架中——削减公共系统资金->系统失效->归咎低效->施加问责与进一步削减->制造混乱->以"拯救危机"为名推动私有化（Klees, 2020; Parker, 2017; Tuck, 2017）（Johnson & Janzen, 2023, p.31）
 > - **整体定性**：VL 是"a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review"（Johnson & Janzen, 2023, p.35）。VL 是"a dubious mishmash of research of unknown quality, statistical juggling, and the author's self-assured opinion"（Johnson & Janzen, 2023, p.30）
 
@@ -354,7 +348,7 @@ updated: '2026-05-18'
 > - Johnson & Janzen（2023）质疑全球有多少公共资金被转移到 VL 产品中，但认为"简单、廉价、课堂级别的修复方案"正是其商业模式的核心吸引力（pp.31, 36）
 > - 品牌对学术批评的免疫力——[[John Hattie|Hattie]] 的回应被期刊两天内接收发表，批评者原论文经历数月多轮评审（Eacott, 2019, p.777）
 > - Eacott 被编辑拒绝发表对 Hattie 回应的再回应，揭示了学术出版中对话和辩论的低优先级（Eacott, 2019, p.778）
-> - [[Cognition Education (NZ)|Cognition Education Trust]] 的慈善捐赠仅占集团总收入的 0.9%（2015 年），引发对其慈善信托地位的质疑（O'Neill et al., 2016, pp.71–73）
+> - [[Cognition Education|Cognition Education Trust]] 的慈善捐赠仅占集团总收入的 0.9%（2015 年），引发对其慈善信托地位的质疑（O'Neill et al., 2016, pp.71–73）
 > - 一线教育者通过私人邮件而非公开辩论表达对 VL 霸权的不满（Eacott, 2019, p.776）
 > - Hattie 本人已在某种程度上与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（McKnight & Whitburn, 2020, p.35）
 
@@ -362,7 +356,7 @@ updated: '2026-05-18'
 
 > [!note]- 时间线
 > - **1999/2000** — [[John Hattie|Hattie]] 受教育部委托开发 asTTle（VL 的数据与技术前身）
-> - **2006** — Hattie 成为 [[Cognition Education (NZ)|Multi Serve Education Trust]] Board 董事；Auckland Uniservices Ltd 注册 [[Visible Learning]] 商标（2008 年"放弃"），同时创建 Visible Learning Labs
+> - **2006** — Hattie 成为 [[Cognition Education|Multi Serve Education Trust]] Board 董事；Auckland Uniservices Ltd 注册 [[Visible Learning]] 商标（2008 年"放弃"），同时创建 Visible Learning Labs
 > - **2007** — Multi Serve Education Trust 注册全资子机构 Multi Serve Limited
 > - **2008** — 集团更名为 Cognition Education；Hattie 成为 Cognition Education 董事
 > - **2009** — Cognition Education 重组为 Trust + Limited 双层结构；Hattie 出版 *Visible Learning*；开始成为 ACEL 年会主题演讲常客
@@ -380,14 +374,14 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／政策
 > - [[Visible Learning]] — VL 的概念分析与学术批评
-> - [[Tomorrow's Schools Reforms (NZ 1989)]] — 商业化的制度条件
-> - [[Educational Management Organisation (EMO)]] — [[Cognition Education (NZ)|Cognition Education]] 作为 EMO 的角色
+> - [[Tomorrow's Schools Reforms]] — 商业化的制度条件
+> - [[Educational Management Organisation]] — [[Cognition Education|Cognition Education]] 作为 EMO 的角色
 > - [[Performativity of Measurement]] — VL 商业产品中的测量施行性
 > - [[Cult of the Guru]] — 大师地位对商业品牌的加持
 > - [[Policy Entrepreneur]] — [[John Hattie|Hattie]] 作为政策创业者的角色
 > - [[Neo-Taylorism in Educational Administration]] — VL 作为"新时代的泰勒主义"
-> - [[New Zealand National Standards (2009)]] — Hattie 参与技术顾问的新西兰国家教育标准
-> - [[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]] — NZ Treasury 援引 VL 证据建议增加生师比
+> - [[New Zealand National Standards]] — Hattie 参与技术顾问的新西兰国家教育标准
+> - [[Treasury Briefing on Student-Teacher Ratios]] — NZ Treasury 援引 VL 证据建议增加生师比
 > - [[Danish Public School Reform 2014]] — 丹麦改革明确引用 VL
 > - [[Russian Translation of Visible Learning 2017]] — VL 俄文版及其在俄学界的反响
 > - [[Victorian HITS and Literacy Toolkit 2017]] — VL 在维州官方的制度化

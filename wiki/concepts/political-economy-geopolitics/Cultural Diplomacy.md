@@ -1,10 +1,10 @@
 ---
 title: Cultural Diplomacy
 aliases:
-- 文化外交
-- 高等教育中的文化外交
-- 高教文化外交
-- cultural diplomacy
+  - 文化外交
+  - 高等教育中的文化外交
+  - 高教文化外交
+  - cultural diplomacy
 summary: "通过教育、文化机构和精英培育来提升国家软实力、国际形象和跨国影响力的战略。"
 type: concept
 tags:

@@ -1,9 +1,9 @@
 ---
 title: Meta-meta-analysis
 aliases:
-- 元-元分析
-- 元元分析
-- mega-analysis
+  - 元-元分析
+  - 元元分析
+  - mega-analysis
 summary: "在更高层次汇总多个已发表元分析结果的统计综合方法，用于处理大型证据库、比较不同综合结论并评估聚合稳定性"
 type: method
 method_type: quantitative

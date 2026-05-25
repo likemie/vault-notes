@@ -1,9 +1,9 @@
 ---
 title: John Hattie
 aliases:
-- 约翰·哈蒂
-- 哈蒂
-- Hattie
+  - 约翰·哈蒂
+  - 哈蒂
+  - Hattie
 summary: "新西兰教育统计学家，Visible Learning作者与元分析综合代表人物，为教育研究和政策实践提供高影响力但极具争议的证据排序框架。"
 type: person
 nationality: new-zealand
@@ -109,11 +109,9 @@ sources:
   - "[[Bainbridge_2022_ROE]]"
   - "[[Johnson_2023_CE]]"
 related_facts:
-  - "[[Cognition Education (NZ)]]"
   - "[[PISA]]"
   - "[[Victorian HITS and Literacy Toolkit 2017]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
@@ -137,7 +135,7 @@ updated: '2026-05-21'
 > - **1999/2000** 年通过 Auckland Uniservices Ltd 受教育部合同领导开发 asTTle（Assessment Tool for Teaching and Learning）——基于 CD-ROM 的教师管理型国家课程测试系统，用于形成性评估，任项目主任（O'Neill et al., 2016, p.47）
 > - **2000 年代中期** 教育部合同开发升级版在线系统 e-asTTle（O'Neill et al., 2016, p.47）
 > - **2006 年 4 月** Auckland Uniservices Ltd 在新西兰注册 [[Visible Learning]] 商标（后于 2008 年"放弃"），并创建 Visible Learning Labs，Hattie 任主任，为 e-asTTle 使用提供支持和专业发展（O'Neill et al., 2016, p.47）
-> - **2006 年** 成为 [[Cognition Education (NZ)|Multi Serve Education Trust]] Board 董事（O'Neill et al., 2016, p.48）
+> - **2006 年** 成为 [[Cognition Education|Multi Serve Education Trust]] Board 董事（O'Neill et al., 2016, p.48）
 > - **2008 年** 成为重组后的 Cognition Education 董事（O'Neill et al., 2016, p.48）
 > - **2009 年** Cognition Education 开始在澳大利亚提供 Visible Learningplus 专业发展工作坊（O'Neill et al., 2016, p.48）
 > - **2009–2010** 新西兰国家党联合政府推行 国家标准（National Standards）政策。Hattie 被邀加入技术顾问组（两次会议均因出国未出席），其领导的 NZ Assessment Academy 受教育部邀请对标准的技术层面提供评论（部分但非全部建议被采纳）。总理 John Key 在标准发布时公开感谢 Hattie 的推动——媒体因此将 Hattie 描绘为标准政策的核心推手（Hattie, 2010, pp.91–92）。Hattie 随后加入部长顾问组，独立于教育部直接向部长提供关于标准的技术和教育层面建议（Hattie, 2010, p.93）
@@ -283,8 +281,8 @@ updated: '2026-05-21'
 
 
 > [!warning] 文化与政治批评
-> - **O'Neill (2012)** — 以 NZ Treasury 2011 年简报为案例，揭示了 Hattie 的 VL 证据在政策论述中被脱离语境援引的具体机制。Treasury 援引"教学质量"证据论证可增加生师比，但 Hattie 本人明确反对、且该证据全部来自大学生评教研究对学校教育无相关性（详见 [[Argument_ONeill_2012_NZJES]]、[[Treasury Briefing on Student-Teacher Ratios (NZ 2011)]]）
-> - **O'Neill et al. (2016)** — 以"政策创业"框架系统追踪 Hattie 从 asTTle 到 Visible Classroom 的商业化轨迹，记录 2010–2014 年从 [[Cognition Education (NZ)|Cognition Education]] 获得第三方付款（USD 10K → USD 223K），定性为公共福利、非营利和营利创业的"无缝融合"（详见 [[Argument_ONeill_2016_Report]]、[[Visible Learning Branding and Global Influences]]）
+> - **O'Neill (2012)** — 以 NZ Treasury 2011 年简报为案例，揭示了 Hattie 的 VL 证据在政策论述中被脱离语境援引的具体机制。Treasury 援引"教学质量"证据论证可增加生师比，但 Hattie 本人明确反对、且该证据全部来自大学生评教研究对学校教育无相关性（详见 [[Argument_ONeill_2012_NZJES]]、[[Treasury Briefing on Student-Teacher Ratios]]）
+> - **O'Neill et al. (2016)** — 以"政策创业"框架系统追踪 Hattie 从 asTTle 到 Visible Classroom 的商业化轨迹，记录 2010–2014 年从 [[Cognition Education|Cognition Education]] 获得第三方付款（USD 10K → USD 223K），定性为公共福利、非营利和营利创业的"无缝融合"（详见 [[Argument_ONeill_2016_Report]]、[[Visible Learning Branding and Global Influences]]）
 > - **Eacott (2017)** — 以 Callahan (1962) 为历史框架论证澳大利亚[[School Leadership|学校领导力]]已屈服于"Hattie [[Cult of the Guru|大师崇拜]]"，定性 VL 为 Neo-Taylorism：将教学拆解为最小可测量单元，"与 100 多年前 Taylor 的工作相差不远"（详见 [[Argument_Eacott_2017_SLM]]、[[Visible Learning#大师崇拜]]）
 > - **Eacott (2019)** — 以自身经历记录 Hattie 回应过程中的学术对话质量问题：Hattie 回应两天内被接收 vs 原论文"数月和多轮评审"；Eacott 被拒绝发表再回应（详见 [[Argument_Eacott_2019_IJLE]]、[[Visible Learning#Eacott (2019)]])
 > - **McKnight & Whitburn (2020)** — 从女性主义、后结构主义和能力批判视角提出七点文化政治批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设（详见 [[Argument_McKnight_2020_Discourse]]、[[Visible Learning#文化政治七点批评]]）

@@ -1,7 +1,7 @@
 ---
 title: Kimberly Ochs
 aliases:
-- 金伯莉·奥克斯
+  - 金伯莉·奥克斯
 summary: "英国比较教育学者，政策借用与跨国吸引类型学共同提出者，为教育研究分析改革为何被引入与如何被转译提供模型。"
 type: person
 nationality: uk

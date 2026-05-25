@@ -26,8 +26,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
-related_facts:
-  - "[[Cognition Education (NZ)]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Johnson_2023_CE]]"
@@ -58,7 +57,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > 1. **方法论不透明**：VL 的[[Meta-meta-analysis|元-元分析]]方法论仅以一段话解释（以 homework 为例），未提供公式、未说明纳入标准、未澄清加权方式；方法论以 obscurity 为特征而非科学透明（p.25-27）
 > 2. **[[Neo-Taylorism in Educational Administration|新泰勒主义]]立场**：[[John Hattie|Hattie]] 将教师定位为需要监控和管理的"不成熟职业"从业者，asTTle 工具的 panoptic 潜力揭示了其 Taylor 式科学管理愿景（p.28-30）
-> 3. **新自由主义商业化**：Hattie 通过 [[Cognition Education (NZ)|Cognition Education]] 将 VL 商业化获取版税，其"[[Class Size|班级规模]]不重要"的论述为新自由主义紧缩政策提供了实证借口（p.30-33）
+> 3. **新自由主义商业化**：Hattie 通过 [[Cognition Education|Cognition Education]] 将 VL 商业化获取版税，其"[[Class Size|班级规模]]不重要"的论述为新自由主义紧缩政策提供了实证借口（p.30-33）
 > 4. **[[Cargo Cult Science]]**：VL 呈现为科学但缺乏科学的认识论诚信——方法论不透明、不可验证、未经同行评议直接商业出版，符合 Feynman (1974) 的 cargo cult science 定义（p.34-36）
 
 ## 主要发现

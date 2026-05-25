@@ -27,7 +27,6 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
-  - "[[Students and Teachers Accessing Tomorrow (STAT)]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[California Class Size Reduction 1996]]"
 related_arguments: []
@@ -106,7 +105,7 @@ updated: '2026-05-23'
 > - Honig & Coburn (2007) 对 50+ 项研究的综述发现：学区中央办公室管理者严重依赖从业者知识和本地知识（Cowen et al., 2015, p.14）
 > - 教师访谈中几乎所有受访者都强调了本地情境因素（Cowen et al., 2015, p.27-28）
 > - Tennessee [[Tennessee STAR Project 1985-1989|STAR]] 案例：参与学校系统性不同于全州平均——规模更大、非裔学生比例高出 40%（Hanushek, 1999）——忽视这一本地特征导致加州对"STAR 成功可复制"的错误假设（Wiliam, 2019, p.6）
-> - [[Students and Teachers Accessing Tomorrow (STAT)]] 案例显示，同一组[[Formative Evaluation|形成性评价]]证据会因为利益相关者重视的目标不同而被解释为“进展明显”或“成就无效”；这说明本地知识也包含对地方价值排序的理解（Ross & Morrison, 2021, pp.122-123）。
+> - [[Students and Teachers Accessing Tomorrow]] 案例显示，同一组[[Formative Evaluation|形成性评价]]证据会因为利益相关者重视的目标不同而被解释为“进展明显”或“成就无效”；这说明本地知识也包含对地方价值排序的理解（Ross & Morrison, 2021, pp.122-123）。
 
 ## 争议与批评
 
@@ -131,7 +130,7 @@ updated: '2026-05-23'
 
 ### 复杂改革的地方解释
 
-- [[Students and Teachers Accessing Tomorrow (STAT)]] — [[Technology Infusion|技术整合]]改革中，形成性数据、成就结果和地方价值目标共同影响证据解释；具体评价结果和争议集中写在 STAT 条目中（Ross & Morrison, 2021, pp.122-123）。
+- [[Students and Teachers Accessing Tomorrow]] — [[Technology Infusion|技术整合]]改革中，形成性数据、成就结果和地方价值目标共同影响证据解释；具体评价结果和争议集中写在 STAT 条目中（Ross & Morrison, 2021, pp.122-123）。
 
 ## 来源
 
