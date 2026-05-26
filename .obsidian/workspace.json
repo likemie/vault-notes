@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
+                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Hall(Ed.)_2025_Springer"
+              "title": "Argument_Ulrichsen_2025_UIR_Evolution"
             }
           }
         ]
@@ -190,7 +190,19 @@
   "active": "d095fc36407c70a5",
   "lastOpenFiles": [
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
+    "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
+    "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
+    "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
+    "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
+    "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
+    "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
+    "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
+    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+    "books/Hall_Boccanfuso_2025_Springer/figures/Types of university contributions to the innovation endeavor.jpg",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
+    "wiki/concepts/higher-education/Innovation Models Evolution.md",
+    "wiki/concepts/higher-education/Innovation Policy Paradigms.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025.pdf",
     "books/Ryan(Ed.)_2010_HKUP/Ch2_Ryan_2010.md",
@@ -200,18 +212,14 @@
     "books/Hall_Boccanfuso_2025_Springer/Hall_Boccanfuso_2025_Springer_overview.md",
     "wiki/concepts/higher-education/Technology Transfer.md",
     "wiki/concepts/higher-education/University-Industry Collaboration.md",
-    "books/Hall_Boccanfuso_2025_Springer/figures/Types of university contributions to the innovation endeavor.jpg",
     "books/Hall_Boccanfuso_2025_Springer/figures/Types of university contributions to the innovation endeavor.",
     "books/Hall_Boccanfuso_2025_Springer/figures/20e4136a5f43b74f5983ff0dab178e29f484d12914be4f4529a385ed2bd6c653.jpg",
     "books/Hall_Boccanfuso_2025_Springer/figures/sukebei_magnet_links_28links_2026-05-26.txt",
     "raw/Argument_Hall(Ed.)_2025_Springer_ch3.pdf",
     "raw/978-3-031-94913-5_3.pdf",
     "wiki/facts/us/Science, The Endless Frontier 1945.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
     "wiki/concepts/higher-education/Corporate R&D Labs.md",
     "wiki/facts/us/University Industry Demonstration Partnership.md",
-    "wiki/concepts/higher-education/Innovation Policy Paradigms.md",
-    "wiki/concepts/higher-education/Innovation Models Evolution.md",
     "books/Bates_2017_CognitionEducationTrust/Bates_2017_CognitionEducationTrust.md",
     "wiki/concepts/higher-education/Transformative Change.md",
     "wiki/concepts/higher-education/Knowledge Exchange.md",
@@ -221,19 +229,10 @@
     "wiki/concepts/comparative-education/Transfer Translation Transformation.md",
     "wiki/theories/higher-education/Triple Helix.md",
     "wiki/theories/higher-education/Systems of Innovation.md",
-    "wiki/concepts/higher-education/Innovation Ecosystem.md",
-    "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economization.md",
     "raw/Argument_Hall(Ed.)_2025_Springer_ch2.pdf",
     "raw/978-3-031-94913-5_2.pdf",
     "books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025.md.tmp.30437.442160e02d9b",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png",
-    "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png.jpg",
-    "sources/Rappleye_2006_RCIE/Rappleye_2006_RCIE.pdf",
-    "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
-    "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
-    "books/Hall_Boccanfuso_2025_Springer/figures/ui_engagement_loop_zh.svg",
-    "books/Hall_Boccanfuso_2025_Springer/figures/university_industry_rewards_zh_clean.svg",
-    "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
-    "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png"
+    "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png.jpg"
   ]
 }
