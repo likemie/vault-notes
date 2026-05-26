@@ -21,6 +21,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
+<!-- 正文先按事件逻辑组织主题；背景、经过、影响、争议分开写，经过章节内部按时间排列。用 callout 改善阅读层次。 -->
+
 ---
 
 ## 背景
@@ -71,5 +73,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 ## 来源
+
+<!-- 只列 source wikilink；按来源年份从早到晚排序，同一年按作者或机构字母顺序。 -->
 
 - [[OECD_2012_Report]]

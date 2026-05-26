@@ -22,6 +22,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
+<!-- 正文先按政策逻辑组织主题；背景、文本、实施、效果、争议分开写，时间线内部按时间排列。用 callout 改善阅读层次。 -->
+
 ---
 
 ## 背景
@@ -88,5 +90,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 ## 来源
+
+<!-- 只列 source wikilink；按来源年份从早到晚排序，同一年按作者或机构字母顺序。 -->
 
 - [[Finnish_curriculum_2016_Report]]

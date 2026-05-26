@@ -31,7 +31,7 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: 2026-05-26
 ---
 
 ## 定义
@@ -78,6 +78,7 @@ updated: '2026-05-18'
 
 > [!example] 使用此方法的研究
 > - [[Argument_Brady_2023_EPR]] — 新增混合方法/多方法编码类别，发现 2020 年五刊中该类研究占 6%，其中 60% 包含[[Recommendations for Practice|实践建议]]（Brady et al., 2023, p.6）。
+> - [[Argument_Teng_2025_CE]] — 以问卷（n=814）和深度访谈（n=128）相结合，先通过统计检验与 Logistic 回归识别陪读的社会分层梯度，再通过访谈资料解释分层的社会机制（Teng & Wang, 2025, pp.305–310）。
 
 ## 来源
 

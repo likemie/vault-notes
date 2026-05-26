@@ -19,7 +19,16 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
+<!-- 正文先按人物思想主题组织，再在生平、著作与思想发展章节内按时间排列。用 callout 区分简介、核心思想、影响、引用和争议。 -->
+
+---
+
 ## 简介
+
+> [!info]
+> 人物的身份、领域、核心贡献与影响，附来源。
+
+---
 
 ## 生平与职涯
 
@@ -47,13 +56,17 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 核心思想
 
+> [!abstract]
+> 主要思想或理论贡献，按主题分组，附来源。
+
 > "原文引用"（Author, year, p.X）
 
 ---
 
 ## 影响
 
-- 
+> [!success]
+> - 影响描述，附来源。（Author, year, p.X）
 
 ---
 
@@ -61,16 +74,20 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 <!-- 可选：只有能确认出处时填写；没有可靠出处可删除本节。 -->
 
+> [!quote]
 > "引用内容"（Author, year, p.X）
 
 ---
 
 ## 争议与批评
 
-- 
+> [!warning]
+> - 争议或批评描述，附来源和立场。（Author, year, p.X）
 
 ---
 
 ## 来源
 
-- 
+<!-- 只列 source wikilink；按来源年份从早到晚排序，同一年按作者或机构字母顺序。 -->
+
+- [[Author_Year_Source]]

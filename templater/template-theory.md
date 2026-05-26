@@ -19,6 +19,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
+<!-- 正文先按理论逻辑组织主题，再在主题内按时间、发展阶段或论证顺序排列；用 callout 区分核心主张、命题、立场、争议和应用。 -->
+
 ---
 
 ## 核心主张
@@ -81,5 +83,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 ## 来源
+
+<!-- 只列 source wikilink；按来源年份从早到晚排序，同一年按作者或机构字母顺序。 -->
 
 - [[Vygotsky_1978_HUP]]

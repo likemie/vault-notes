@@ -19,6 +19,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
+<!-- 正文先按模板主题组织，再在主题内按时间、发展阶段或论证顺序排列；用 callout 区分定义、证据、例子、争议和引用。 -->
+
 ---
 
 ## 定义
@@ -89,5 +91,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 ## 来源
+
+<!-- 只列 source wikilink；按来源年份从早到晚排序，同一年按作者或机构字母顺序。 -->
 
 - [[Thomas_2000_RER]]

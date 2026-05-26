@@ -24,6 +24,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
+<!-- 正文按论证逻辑组织，不按原文顺序堆材料；每个论证步骤独立成段并用分割线隔开。用 callout 区分问题、框架、方法、发现、引用和局限。 -->
+
 ---
 
 ## 研究问题
@@ -108,5 +110,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 ## 来源
+
+<!-- 只列 source wikilink；按来源年份从早到晚排序，同一年按作者或机构字母顺序。 -->
 
 - [[Thomas_2000_RER]]

@@ -1255,6 +1255,17 @@
     ]
   },
   {
+    "title": "School Choice",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/School Choice.md",
+    "aliases": [
+      "择校",
+      "学校选择",
+      "parental school choice",
+      "school choice policy"
+    ]
+  },
+  {
     "title": "Scientific Attitude",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Scientific Attitude.md",
@@ -2869,6 +2880,16 @@
     "aliases": [
       "为他者行动",
       "他者代理"
+    ]
+  },
+  {
+    "title": "Peidu",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Peidu.md",
+    "aliases": [
+      "陪读",
+      "accompanying study",
+      "peidu migration"
     ]
   },
   {
@@ -6445,6 +6466,11 @@
     "title": "Argument_Bulag_2024_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md"
+  },
+  {
+    "title": "Argument_Teng_2025_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Teng_2025_CE.md"
   },
   {
     "title": "Argument_Vickers_2024_CE",
