@@ -64,7 +64,7 @@ updated: '2026-05-18'
 
 ### 共同的变革理论
 
-Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theories of Policy Change]]）：创新生态体系与教育培训体系协同演化 → 产生互利增效 → 实现智能、可持续与包容性增长。这一因果叙事未经独立实证检验，而是作为 [[Performance Indicators]] 的内在成分被嵌入政策工具中（Rambla, 2022, p.166, 170–171）。
+Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theories of Policy Change]]）：[[Innovation Ecosystem|创新生态]]体系与教育培训体系协同演化 → 产生互利增效 → 实现智能、可持续与包容性增长。这一因果叙事未经独立实证检验，而是作为 [[Performance Indicators]] 的内在成分被嵌入政策工具中（Rambla, 2022, p.166, 170–171）。
 
 ## 时间线
 
@@ -99,7 +99,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 ## 效果与评价
 
 > [!success]
-> - Skills Agenda 成功将"教育培训体系"建构为欧盟政策话语中的核心概念，使其与"创新生态体系"并列成为 [[Europe 2020 Strategy]] 的两大支柱（Rambla, 2022, p.170–171）
+> - Skills Agenda 成功将"教育培训体系"建构为欧盟政策话语中的核心概念，使其与"[[Innovation Ecosystem|创新生态]]体系"并列成为 [[Europe 2020 Strategy]] 的两大支柱（Rambla, 2022, p.170–171）
 > - 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员将欧盟的官方变革理论内化并翻译为本地可操作的版本，表明欧盟的政策话语确实在地方层面产生了认知影响（p.172–173）
 
 > [!info]- 核心数据

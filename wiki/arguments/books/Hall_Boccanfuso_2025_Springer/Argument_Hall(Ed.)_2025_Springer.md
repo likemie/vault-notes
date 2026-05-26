@@ -45,7 +45,7 @@ updated: 2026-05-26
 
 ### 目标对齐的逻辑
 
-大学和企业的关系之所以可能，是因为它们在目标上有交集——但交集不完全。大学的核心使命——研究、教学、公共服务——分别对应产学合作的三重回报；但要实现这些使命，大学还需要财务资源（financial resources）和正向声誉（positive reputation）。企业同样追求财务回报和声誉，但比例和优先级不同（pp.5–7）。
+大学和企业的关系之所以可能，是因为它们在目标上有交集——但交集不完全。大学的核心使命——研究、教学、公共服务——分别对应[[University-Industry Collaboration|产学合作]]的三重回报；但要实现这些使命，大学还需要财务资源（financial resources）和正向声誉（positive reputation）。企业同样追求财务回报和声誉，但比例和优先级不同（pp.5–7）。
 
 > [!abstract]
 > **对齐（alignment）的三个层次**：
@@ -66,7 +66,7 @@ updated: 2026-05-26
 |------|------|------|
 | 时间尺度 | 百年以上历史 | 主导企业多在近五十年内成立 |
 | 治理模式 | 共享治理（shared governance），非营利 | 以营利为目的，上市公司或风投持有 |
-| 核心价值 | 学术自由（academic freedom），组织"具有渗透性" | 知识产权控制，限制信息与人员流动 |
+| 核心价值 | [[Academic Freedom\|学术自由]]（academic freedom），组织"具有渗透性" | 知识产权控制，限制信息与人员流动 |
 | 成果输出 | 公开发表、开放分享 | 商业机密、专利保护 |
 | 目标优先级 | 声誉 > 收入 | 利润 > 声誉 |
 
@@ -79,9 +79,9 @@ updated: 2026-05-26
 
 面对这些结构性张力，全书从两个层面给出了回应：
 
-1. **历史层面**：美国大学体系的独特性——Morrill Act（1862）赠地大学的实践教育传统、Smith Lever Act（1914）的农业推广服务、学术自由与客观性的制度价值——为产学合作创造了世界范围内少有的有利条件。Hollingsworth 和 Hollingsworth（2011, p.27）指出"持续高水平的激进创新需要组织形式的多样性、组织结构的异质性和思想的多样性"，这些正是美国体系的特征（pp.11–12）。
+1. **历史层面**：美国大学体系的独特性——[[Morrill Land-Grant Act of 1862|Morrill Act]]（1862）赠地大学的实践教育传统、[[Smith Lever Act of 1914|Smith Lever Act]]（1914）的农业推广服务、学术自由与客观性的制度价值——为产学合作创造了世界范围内少有的有利条件。Hollingsworth 和 Hollingsworth（2011, p.27）指出"持续高水平的激进创新需要组织形式的多样性、组织结构的异质性和思想的多样性"，这些正是美国体系的特征（pp.11–12）。
 
-2. **制度层面**：UIDP（University Industry Demonstration Partnership）的案例表明，解决产学合作障碍需要超越"一刀切"合同模板的社区化方法——创造一个促进多边理解、改善沟通和支持人际连接的论坛。从 2004 年白皮书到 2015 年独立为非营利组织，UIDP 的 Contract Accords、Partnership Continuum 和 Collaboration Metrics 等项目代表了从合同细节到战略联盟的系统性解决方案（pp.16–20）。
+2. **制度层面**：[[University Industry Demonstration Partnership|UIDP]]（University Industry Demonstration Partnership）的案例表明，解决产学合作障碍需要超越"一刀切"合同模板的社区化方法——创造一个促进多边理解、改善沟通和支持人际连接的论坛。从 2004 年白皮书到 2015 年独立为非营利组织，UIDP 的 Contract Accords、Partnership Continuum 和 Collaboration Metrics 等项目代表了从合同细节到战略联盟的系统性解决方案（pp.16–20）。
 
 ---
 
@@ -90,7 +90,7 @@ updated: 2026-05-26
 > [!abstract]
 > 全书分为三层——基础（Foundations）、路径（Avenues）和机制（Mechanics）——对应从"为什么做"到"在哪些领域做"再到"怎么做"的逻辑递进。共 17 章。
 
-- **基础（Chaps. 1–5）**：产学合作的演化历史、组织模型、动机与成功指标，以及国际比较。以普林斯顿大学和 IBM 为具体案例，展示不同类型组织的产学合作策略
+- **基础（Chaps. 1–5）**：[[University-Industry Collaboration|产学合作]]的演化历史、组织模型、动机与成功指标，以及国际比较。以普林斯顿大学和 IBM 为具体案例，展示不同类型组织的产学合作策略
 - **路径（Chaps. 6–13）**：战略联盟与联合体、创新中心与经济发展、创业、高管教育、学术医疗系统与临床试验，以及如何在企业和大学内部争取对产学合作的支持
 - **机制（Chaps. 14–17）**：伦理与法律框架、知识产权管理、研究数据管理，以及国际合作关系——即实现产学合作所需的具体操作步骤
 
@@ -103,16 +103,16 @@ updated: 2026-05-26
 > [!tip]
 > 全书共用的理论视角。
 
-- [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）的大学-产业-政府三重螺旋模型，三者在以知识为基础的经济发展中形成相互支撑的反馈循环（p.13）
+- [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）的大学-产业-政府三重螺旋模型，三者在以知识为基础的经济发展中形成相互支撑的[[Feedback|反馈]]循环（p.13）
 - [[Innovation Ecosystem]] — 建立在 Schumpeter（1942）创新理论和 Ridley（2020）论述的基础上，理解大学如何作为区域经济的"锚点"、创意与人员如何通过流动驱动创新（pp.12–13）
-- [[Multi-University]] — Clark Kerr（2001）对美国现代大学的描述：广泛触及社区与社会，服务多重使命，这一定位解释了为什么产学合作必然是多维度的（p.5）
+- [[Multi-University]] — Clark Kerr（2001）对美国现代大学的描述：广泛触及社区与社会，服务多重使命，这一定位解释了为什么[[University-Industry Collaboration|产学合作]]必然是多维度的（p.5）
 
 ---
 
 ## 各章概览
 
 > [!example]
-> - [[Argument_Boccanfuso_Hall_2025_Alignment]]（第一章 Alignment, Engagement, and Public Benefits）— 以 2024 年诺贝尔奖为引，提出全书核心框架：产学合作的三重回报（研究与学术、教育与学习、公共效益）；系统分析大学与企业目标对齐的逻辑——双方在人才发展、经济增长和知识产权上高度对齐，在盈利与学术声誉上分歧显著；诊断治理模式、学术自由与知识产权控制、合同谈判复杂度及大学-企业竞争四重挑战；追溯美国产学合作的历史制度遗产（Morrill Act 1862、Smith Lever Act 1914、Bayh-Dole Act 1980）；在既有文献中定位创新生态系统、技术转移和产学参与的研究脉络；详述 UIDP 从 2004 年白皮书到 2015 年独立的制度化历程及其 Contract Accords 和 Partnership Continuum 等核心产出。以"基础-路径-机制"三层框架预告全书 17 章的组织逻辑。
+> - [[Argument_Boccanfuso_Hall_2025_Alignment]]（第一章 Alignment, Engagement, and Public Benefits）— 以 2024 年诺贝尔奖为引，提出全书核心框架：[[University-Industry Collaboration|产学合作]]的三重回报（研究与学术、教育与学习、公共效益）；系统分析大学与企业目标对齐的逻辑——双方在人才发展、经济增长和知识产权上高度对齐，在盈利与学术声誉上分歧显著；诊断治理模式、[[Academic Freedom|学术自由]]与知识产权控制、合同谈判复杂度及大学-企业竞争四重挑战；追溯美国产学合作的历史制度遗产（[[Morrill Land-Grant Act of 1862|Morrill Act]] 1862、[[Smith Lever Act of 1914|Smith Lever Act]] 1914、[[Bayh-Dole Act of 1980|Bayh-Dole Act]] 1980）；在既有文献中定位[[Innovation Ecosystem|创新生态系统]]、[[Technology Transfer|技术转移]]和产学参与的研究脉络；详述 [[University Industry Demonstration Partnership|UIDP]] 从 2004 年白皮书到 2015 年独立的制度化历程及其 Contract Accords 和 Partnership Continuum 等核心产出。以"基础-路径-机制"三层框架预告全书 17 章的组织逻辑。
 
 ---
 

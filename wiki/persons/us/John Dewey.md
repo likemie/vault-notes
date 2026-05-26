@@ -90,7 +90,7 @@ updated: 2026-05-26
 - **1919–1921** — 与 Alice Chipman Dewey 访华讲学，在[[Hu Shi|胡适]]、[[Jiang Menglin|蒋梦麟]]、[[Tao Xingzhi|陶行知]]等学生和教育改革者的中介下，实用主义与实验主义进入中国教育改革话语（Schulte, 2009, p.73；Zhou & Westberg, 2024, pp.614–617）。
 - **1924–1934** — 先后访问土耳其、墨西哥、苏联和南部非洲，体现其教育思想的跨国传播与本土再解释。
 - **1928** — 7–8 月率美国教育者代表团访问苏联，会见 [[Stanislav Shatskii]]、[[Anatoly Lunacharsky]]、Nadezhda Krupskaya 等苏联教育者。访问由[[American Society for Cultural Relations with Russia|美国对俄文化关系协会]]组织，Dewey 本人任该协会副主席。此行受到美国国务院的系统监控和反共舆论的指责。Dewey 回国后在 *The New Republic* 发表系列文章，后结集为 *Impressions of the Revolutionary World*（Ryabyy, 2024, pp.102–109）。
-- **1930s–1940s** — 参与美国公民自由联盟、New School、学术自由、妇女权利、工人教育等公共事务；1937 年主持 Dewey Commission 调查莫斯科审判中针对 Leon Trotsky 的指控。
+- **1930s–1940s** — 参与美国公民自由联盟、New School、[[Academic Freedom|学术自由]]、妇女权利、工人教育等公共事务；1937 年主持 Dewey Commission 调查莫斯科审判中针对 Leon Trotsky 的指控。
 - **1952** — 逝世于纽约。
 
 ---

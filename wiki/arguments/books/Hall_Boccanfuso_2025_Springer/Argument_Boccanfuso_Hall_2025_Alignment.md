@@ -28,9 +28,9 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 研究问题
 
 > [!question]
-> 大学和企业是两种治理模式、文化传统和核心目标截然不同的组织，它们之间的合作如何可能？为什么有些产学合作取得了突破性成果，而大量合作谈判却无果而终？要回答这些问题，需要一个系统框架来理解产学合作（University-Industry Collaboration）的运作逻辑：合作的回报是什么、双方目标在何处对齐又在何处分歧、结构性的挑战从何而来，以及什么样的机制能够帮助双方克服障碍。
+> 大学和企业是两种治理模式、文化传统和核心目标截然不同的组织，它们之间的合作如何可能？为什么有些[[University-Industry Collaboration|产学合作]]取得了突破性成果，而大量合作谈判却无果而终？要回答这些问题，需要一个系统框架来理解产学合作（University-Industry Collaboration）的运作逻辑：合作的回报是什么、双方目标在何处对齐又在何处分歧、结构性的挑战从何而来，以及什么样的机制能够帮助双方克服障碍。
 
-这一章并非实证研究，而是全书的导论章——既提出了贯穿全书的核心概念框架，也通过历史追溯、文献综述和 UIDP 案例为后续各章提供背景基础。
+这一章并非实证研究，而是全书的导论章——既提出了贯穿全书的核心概念框架，也通过历史追溯、文献综述和 [[University Industry Demonstration Partnership|UIDP]] 案例为后续各章提供背景基础。
 
 ---
 
@@ -38,8 +38,8 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!abstract]
 - [[University-Industry Collaboration]] — 核心概念，定义为"有目的的、对齐的参与"（purposeful and aligned engagement），涵盖研究与学术、教育与学习、公共效益三大维度
-- Triple Helix（三重螺旋）— Etzkowitz 和 Leydesdorff（1995）提出，将大学-产业-政府之间的反馈循环理解为相互支撑的关系结构，在创新生态系统的历史脉络中被引用（p.13）
-- Multi-university（多元大学）— Clark Kerr（2001）对美国现代综合性大学的描述：广泛而扩张，以文化、教育、发现、创新乃至医疗保健等多元方式触及社区和社会（p.5）
+- [[Triple Helix]]（三重螺旋）— Etzkowitz 和 Leydesdorff（1995）提出，将大学-产业-政府之间的反馈循环理解为相互支撑的关系结构，在[[Innovation Ecosystem|创新生态系统]]的历史脉络中被引用（p.13）
+- [[Multi-University]]（多元大学）— Clark Kerr（2001）对美国现代综合性大学的描述：广泛而扩张，以文化、教育、发现、创新乃至医疗保健等多元方式触及社区和社会（p.5）
 
 ---
 
@@ -47,7 +47,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!info]
 - 类型：导论性书籍章节，兼有文献综述、历史分析和框架建构
-- 方法：基于既有文献和从业经验（Boccanfuso 为 UIDP 主席兼 CEO，Hall 为 USC 前科研副校长），构建产学合作的分析框架
+- 方法：基于既有文献和从业经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO，Hall 为 USC 前科研副校长），构建[[University-Industry Collaboration|产学合作]]的分析框架
 - 未报告独立的实证数据；四个合作案例（IBM-Stanford、Boeing-Sheffield、HM-Medtronic、Mars-UC Davis）作为说明性证据引用
 
 ---
@@ -55,7 +55,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 论证结构
 
 > [!example]
-> 论证链可以分为三个层次：首先是**概念框架的建立**——定义产学合作的三重回报和目标对齐机制；然后是**挑战的诊断**——从治理差异、学术自由、合同谈判到大学-企业竞争的系统性分析；最后是**解决路径的展示**——通过历史追溯、文献定位和 UIDP 案例说明如何搭建合作的制度桥梁。
+> 论证链可以分为三个层次：首先是**概念框架的建立**——定义[[University-Industry Collaboration|产学合作]]的三重回报和目标对齐机制；然后是**挑战的诊断**——从治理差异、[[Academic Freedom|学术自由]]、合同谈判到大学-企业竞争的系统性分析；最后是**解决路径的展示**——通过历史追溯、文献定位和 [[University Industry Demonstration Partnership|UIDP]] 案例说明如何搭建合作的制度桥梁。
 
 ### 第一层：何为产学合作——三重回报与目标对齐
 
@@ -80,14 +80,14 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 **步骤 3：三重回报的展开**
 
 - **研究与学术**：合作催生知识创造，为科学发现提供情境化，创造数据分析工具，在真实环境中开展试验。例如，2024 年诺贝尔奖得主开发的工具使大学中的科学发现成为可能（pp.4–5）。
-- **教育与学习**：行业通过课堂讲座、项目、合作教育和实习丰富学位项目。产学合作在工程硕士等专业学位以及面向在职人士的继续教育和高管教育中尤为紧密（p.5）。
+- **教育与学习**：行业通过课堂讲座、项目、合作教育和实习丰富学位项目。产学合作在工程硕士等专业学位以及面向在职人士的[[Further Education|继续教育]]和高管教育中尤为紧密（p.5）。
 - **公共效益**：产学合作通过大学发明衍生的初创企业、技术商业化和校友贡献促进经济增长。同时带来医疗技术、减排、生产力提升和解决"重大挑战"（grand challenges，如气候变化和延长寿命）的进步（p.5）。
 
 ---
 
 **步骤 4：目标对齐——大学和企业要的东西相似，但比例不同**
 
-大学的上述三重使命——Clark Kerr 称之为 Multi-university（多元大学）的核心——要成功运转，还需要两样东西：财务资源（financial resources）和正向声誉（positive reputation）。企业同样关心财务和声誉，但取向不同（pp.5–7）。
+大学的上述三重使命——Clark Kerr 称之为 [[Multi-University]]（多元大学）的核心——要成功运转，还需要两样东西：财务资源（financial resources）和正向声誉（positive reputation）。企业同样关心财务和声誉，但取向不同（pp.5–7）。
 
 > [!info]- 核心数据
 > 在美国，企业通常只支持不到 6% 的大学研究总支出。即便是产业资助最大的大学（UT M.D. Anderson、Duke、UPenn、MIT，均超过每年 1.5 亿美元），也只占到其研究总支出的 20%（NSF, 2023）。联邦政府才是大学研究的最大资助方，占比远超过一半（p.5）。
@@ -176,15 +176,15 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 美国大学体系为何特别有利于产学合作？几个关键节点（pp.11–12）：
 
-- **1862 年 Morrill Act（赠地法案）**：将高等教育从精英的"精修学校"扩展为面向更多人的实践教育，专业教育成为明确目标，工程技术类大学得以建立。公共高等教育由各州主导、联邦支持的结构由此确立。
-- **1914 年 Smith Lever Act**：在赠地大学建立农业推广服务（extension services），直接支持美国农业产业，建立起了连接研究与实际应用的制度桥梁。
+- **1862 年 [[Morrill Land-Grant Act of 1862|Morrill Act]]（赠地法案）**：将高等教育从精英的"精修学校"扩展为面向更多人的实践教育，专业教育成为明确目标，工程技术类大学得以建立。公共高等教育由各州主导、联邦支持的结构由此确立。
+- **1914 年 [[Smith Lever Act of 1914|Smith Lever Act]]**：在赠地大学建立农业推广服务（extension services），直接支持美国农业产业，建立起了连接研究与实际应用的制度桥梁。
 - **1920 年前**：美国大学的核心特征——博士教育（受德国大学启发）、专业学位项目、产学互动以及作为制度价值的学术自由与客观性——已基本确立。
 
 与欧洲国家不同，美国从未采用国立大学体系，公共大学由各州负责，独立私立大学同时繁荣发展。Hollingsworth 和 Hollingsworth（2011, p.27）指出："现代社会中持续高水平的激进创新需要组织形式的多样性、组织结构的异质性和思想的多样性"——这些正是美国体系的特征（p.12）。
 
 ---
 
-**步骤 11：创新生态系统——大学作为"锚点"**
+**步骤 11：[[Innovation Ecosystem|创新生态系统]]——大学作为"锚点"**
 
 创新生态系统是"通过相互互动进行创新的人和组织的网络"。它可以基于地点（如硅谷和旧金山湾区），也可以是全球性的（如围绕 AlphaFold 的研究方法网络）。其核心原则来自 Schumpeter（1942）的创新理论和 Ridley（2020）的论述——创新发生在自由思考、实验和推测的环境中，需要允许外来者和挑战者获得立足点（pp.12–13）。
 
@@ -199,13 +199,13 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 **步骤 12：二战后政府投资的催化作用**
 
-曼哈顿计划（由 UC Berkeley 教授 J. Robert Oppenheimer 领导）和 MIT 辐射实验室的雷达技术研究是二战后政府研发投资的直接先例。Vannevar Bush 的报告 Science, The Endless Frontier（1945）强调了对基础开放式研究的战略投资的重要性。其后果包括：国家科学基金会（NSF）的创建，以及国防部对大学基础研究项目的支持。这三种力量——政府资助、大学研究和企业创新——构成了 Triple Helix 的反馈循环（p.13）。
+曼哈顿计划（由 UC Berkeley 教授 J. Robert Oppenheimer 领导）和 MIT 辐射实验室的雷达技术研究是二战后政府研发投资的直接先例。Vannevar Bush 的报告 Science, The Endless Frontier（1945）强调了对基础开放式研究的战略投资的重要性。其后果包括：国家科学基金会（NSF）的创建，以及国防部对大学基础研究项目的支持。这三种力量——政府资助、大学研究和企业创新——构成了 [[Triple Helix]] 的反馈循环（p.13）。
 
 ---
 
-**步骤 13：技术转移的制度安排**
+**步骤 13：[[Technology Transfer|技术转移]]的制度安排**
 
-技术转移是产学合作的另一关键维度。Bayh-Dole Act（1980）——在美国政府资助下于大学产生的知识产权归大学所有——为技术转移奠定了法律基础。这产生了一个重要的制度结构：企业的合同与拨款办公室协商赞助研究所产生的知识产权权利，技术转移办公室（Technology Transfer Office）协商知识产权许可。两者通常隶属于大学的科研副校长（p.14）。
+[[Technology Transfer|技术转移]]是产学合作的另一关键维度。[[Bayh-Dole Act of 1980|Bayh-Dole Act]]（1980）——在美国政府资助下于大学产生的知识产权归大学所有——为技术转移奠定了法律基础。这产生了一个重要的制度结构：企业的合同与拨款办公室协商赞助研究所产生的知识产权权利，技术转移办公室（Technology Transfer Office）协商知识产权许可。两者通常隶属于大学的科研副校长（p.14）。
 
 一个尖锐的挑战是：商业化应该走初创企业路线（发明人可能成为创始人）还是成熟企业路线（发明人无所有权股份）？大多数初创企业会失败，但大学可能希望支持教师的创业精神；成熟企业可以持续投资技术开发，但可能不给予发明人同样的激励和经济回报（p.14）。
 
@@ -244,13 +244,13 @@ UIDP 的项目过程也值得注意：采用"Heilmeier Catechism"格式的项目
 
 > [!success]
 - 当代最前沿的科技创新——以 2024 年诺贝尔奖为代表——越来越多地发生在大学与产业的"界面"上，纯学术或纯企业环境难以单独产生同等影响力的突破（pp.3–4）
-- 产学合作的核心不是建立关系（relationships），而是建立有目的的、对齐的"参与"（engagement），通常以正式协议为框架（p.4）
+- [[University-Industry Collaboration|产学合作]]的核心不是建立关系（relationships），而是建立有目的的、对齐的"参与"（engagement），通常以正式协议为框架（p.4）
 - 产学合作的回报可分为三大维度：研究与学术、教育与学习、公共效益，分别对应现代大学的多重使命（pp.4–5）
 - 大学和企业的目标既有交集也有分歧：交集在人才发展、经济增长和知识产权上；分歧在盈利能力与学术声誉上。大学的财务模式表明产业资助仅占大学研究支出的极小部分（<6%）（pp.5–7）
-- 产学合作面临的根本性挑战源于大学和企业在治理模式、时间尺度和核心价值上的结构性差异；学术自由导致的"渗透性"与企业知识产权控制之间的张力是最深层的摩擦源（pp.8–9）
-- 美国大学体系的独特性——赠地法案、州主导的公共教育、自由与客观性的制度价值——为产学合作创造了独特的历史条件（pp.11–12）
-- 创新生态系统依赖大学作为"锚点"，但同时也需要多层次的院校体系和创意与人员的自由流动（pp.12–13）
-- UIDP 的成功表明：解决产学合作障碍需要超越合同模板的社区化方法——创造多边理解、改善沟通、支持人际连接（pp.16–20）
+- 产学合作面临的根本性挑战源于大学和企业在治理模式、时间尺度和核心价值上的结构性差异；[[Academic Freedom|学术自由]]导致的"渗透性"与企业知识产权控制之间的张力是最深层的摩擦源（pp.8–9）
+- 美国大学体系的独特性——[[Morrill Land-Grant Act of 1862|赠地法案]]、州主导的公共教育、自由与客观性的制度价值——为产学合作创造了独特的历史条件（pp.11–12）
+- [[Innovation Ecosystem|创新生态系统]]依赖大学作为"锚点"，但同时也需要多层次的院校体系和创意与人员的自由流动（pp.12–13）
+- [[University Industry Demonstration Partnership|UIDP]] 的成功表明：解决产学合作障碍需要超越合同模板的社区化方法——创造多边理解、改善沟通、支持人际连接（pp.16–20）
 
 ---
 
@@ -275,7 +275,7 @@ UIDP 的项目过程也值得注意：采用"Heilmeier Catechism"格式的项目
 > [!warning]
 - 这一章的功能是提供全书的导论框架而非完整的文献综述；更全面的研究综述在第二章中呈现（p.11）
 - 四个合作案例（IBM-Stanford、Boeing-Sheffield、HM-Medtronic、Mars-UC Davis）是说明性的而非系统性的案例研究——它们展示了合作的可能性，但未提供失败案例的同等详细分析
-- 分析主要基于美国大学和企业体系的经验；虽然 UIDP 的国际扩展被提及，但对非美国背景下的产学合作挑战和机制着墨有限（p.19）
+- 分析主要基于美国大学和企业体系的经验；虽然 [[University Industry Demonstration Partnership|UIDP]] 的国际扩展被提及，但对非美国背景下的[[University-Industry Collaboration|产学合作]]挑战和机制着墨有限（p.19）
 
 ---
 

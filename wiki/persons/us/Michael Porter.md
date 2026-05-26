@@ -84,7 +84,7 @@ Moisio（2022, pp.26–27）从[[Critical Geopolitics|批判地缘政治学]]视
 
 - 1990 年代经济地理学（Storper & Harrison, 1991; Scott, 1991）将 Porter 的空间逻辑发展为子国家区域竞争力分析
 - Moisio（2022）将 Porter 理论从管理学和经济学话语中重新定位为地缘政治想象的分析对象
-- 在[[Knowledge-Based Economization|知识经济化]]的城市政策中，Porter 的逻辑体现为各国竞相打造"国家冠军城市"和"创新生态系统"
+- 在[[Knowledge-Based Economization|知识经济化]]的城市政策中，Porter 的逻辑体现为各国竞相打造"国家冠军城市"和"[[Innovation Ecosystem|创新生态系统]]"
 
 ---
 

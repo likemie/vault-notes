@@ -36,7 +36,7 @@ updated: 2026-05-26
 ## 定义
 
 > [!info]
-> 技术[[Transfer Translation Transformation|转移]]（Technology Transfer）指将大学研究产生的知识产权（Intellectual Property, IP）——包括发明、软件、数据和其他创造性成果——转化为商业应用的过程。技术转移是[[University-Industry Collaboration|产学合作]]的核心维度之一：它既可以是产学合作的起点（发明已经构思完成，寻找商业化伙伴），也可以是产学合作的产出（产业赞助研究产生了新的知识产权）（p.14）。
+> 技术转移（Technology Transfer）指将大学研究产生的知识产权（Intellectual Property, IP）——包括发明、软件、数据和其他创造性成果——转化为商业应用的过程。技术转移是[[University-Industry Collaboration|产学合作]]的核心维度之一：它既可以是产学合作的起点（发明已经构思完成，寻找商业化伙伴），也可以是产学合作的产出（产业赞助研究产生了新的知识产权）（p.14）。
 
 ---
 
@@ -45,7 +45,7 @@ updated: 2026-05-26
 ### Bayh-Dole Act（1980）
 
 > [!abstract]
-[[Bayh-Dole Act of 1980|Bayh-Dole Act]] 是美国技术[[Transfer Translation Transformation|转移]]制度的基石。其核心条款是：由联邦政府资助在大学产生的知识产权归**大学**所有，但须满足三个条件：（1）向政府回授权利；（2）大学履行知识产权管理义务；（3）大学与发明人分享知识产权收入（p.14）。
+[[Bayh-Dole Act of 1980|Bayh-Dole Act]] 是美国技术转移制度的基石。其核心条款是：由联邦政府资助在大学产生的知识产权归**大学**所有，但须满足三个条件：（1）向政府回授权利；（2）大学履行知识产权管理义务；（3）大学与发明人分享知识产权收入（p.14）。
 
 这一法案对大学知识产权政策产生了以下影响：
 - 美国大学的知识产权政策必须符合联邦要求
@@ -70,7 +70,7 @@ updated: 2026-05-26
 ## 核心挑战
 
 > [!warning]
-商业化路径的选择是技术[[Transfer Translation Transformation|转移]]中的核心张力——走初创企业（startup）路线还是成熟企业（established corporation）路线？
+商业化路径的选择是技术转移中的核心张力——走初创企业（startup）路线还是成熟企业（established corporation）路线？
 
 - **初创企业路线**：发明人可能成为创始人，获得所有权激励；大学可能希望支持教师的创业精神，或通过初创企业推动区域经济发展
 - **成熟企业路线**：企业可以投资进一步的技术开发，商业化成功概率可能更高；但发明人可能无所有权股份，激励较弱
@@ -84,7 +84,7 @@ updated: 2026-05-26
 ## 相关文献
 
 > [!note]
-多部著作系统探讨了技术[[Transfer Translation Transformation|转移]]的制度和实践问题（p.14）：
+多部著作系统探讨了技术转移的制度和实践问题（p.14）：
 - Allen 与 O'Shea（2014）Building Technology Transfer Within Research Universities — 从创业视角探讨大学内部的技术转移机制建设
 - Cunningham et al.（2020）Building Effective Technology Transfer Offices — 以商业模式框架分析技术转移办公室的运作
 - Hockaday（2020）University Technology Transfer, What it is and How to Do It — 面向实践者的操作指南

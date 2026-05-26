@@ -79,7 +79,7 @@ updated: '2026-05-18'
 ## 相关概念／政策
 
 > [!example]
-> - [[Chinese Learner]] — 项目面向的核[[Neo-Confucianism|心学]]生群体
+> - [[Chinese Learner]] — 项目面向的核心学生群体
 > - [[International Education]] — 项目所处的国际教育大背景
 > - [[Paul Morris]] — 其教育四象限框架被 Schmidt（2010）用于论证香港[[International Schools|国际学校]]价值观为本课程的理论定位
 

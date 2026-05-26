@@ -42,7 +42,7 @@ updated: '2026-05-18'
 > [!abstract] 政策文本摘要
 > My School 网站提供所有澳大利亚学校的**人口统计信息**，特别侧重于**基于 NAPLAN 标准化考试成绩比较学校**（Keddie et al., 2020, p.434）。
 >
-> > 网站的一个关键理由是为家长提供关于学校质量的透明度，以支持其为子女做出知情的学校选择（Keddie et al., 2020, p.434, citing Doolan & Blackmore, 2018; Lingard, Sellar, & Savage, 2014）。
+> > 网站的一个关键理由是为家长提供关于学校质量的透明度，以支持其为子女做出知情的[[School Choice|学校选择]]（Keddie et al., 2020, p.434, citing Doolan & Blackmore, 2018; Lingard, Sellar, & Savage, 2014）。
 >
 > 该比较功能已被修改：从允许与"**邻近学校**"比较，改为将个别学校与"**澳大利亚全国数据**"进行比较（Keddie et al., 2020, p.434）。
 

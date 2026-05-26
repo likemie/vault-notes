@@ -55,7 +55,7 @@ updated: '2026-05-19'
 ## 核心思想
 
 > [!info] 核心思想
-> Phillips 的核[[Neo-Confucianism|心学]]术贡献在于将教育政策[[Transfer Translation Transformation|转移]]从松散的叙述性描述推进到系统性的理论分析。他承认情境在转移研究中至关重要，但同时认识到情境分析的高度复杂性。
+> Phillips 的核心学术贡献在于将教育政策[[Transfer Translation Transformation|转移]]从松散的叙述性描述推进到系统性的理论分析。他承认情境在转移研究中至关重要，但同时认识到情境分析的高度复杂性。
 >
 > > 关于情境的困难，Phillips & Ochs 写道："the complex matter of assessing the extent to which a policy observed elsewhere has been deliberately (purposefully) adopted and adapted to fit the home circumstances ... creates for us the task of disentangling the multifarious contextual elements that will impact on the 'borrowed' policy. This is the most difficult task which researchers interested in [[Policy Borrowing]] face." (Phillips & Ochs, 2004a, p. 782，引自 Rappleye, 2006, p. 226)
 >

@@ -77,7 +77,7 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 ### 政府投资的催化作用
 
 > [!note]
-硅谷在二战后不仅由斯坦福大学催生，也来自周边企业和政府投资。O'Mara（2019）的 The Code 记录了这一点："成功归功于一个充满活力和多样性的数千人群体，而不仅仅是那些主要参与者"（p.13）。曼哈顿计划（由 UC [[George Berkeley|Berkeley]] 的 Oppenheimer 领导）和 MIT 辐射实验室的雷达研究为战后研发投资奠定了基础。Vannevar Bush 的 Science, The Endless Frontier（1945）强调基础开放式研究的战略重要性，催生了 NSF 和国防部对大学基础研究的支持（p.13）。
+硅谷在二战后不仅由斯坦福大学催生，也来自周边企业和政府投资。O'Mara（2019）的 The Code 记录了这一点："成功归功于一个充满活力和多样性的数千人群体，而不仅仅是那些主要参与者"（p.13）。曼哈顿计划（由 UC Berkeley 的 Oppenheimer 领导）和 MIT 辐射实验室的雷达研究为战后研发投资奠定了基础。Vannevar Bush 的 Science, The Endless Frontier（1945）强调基础开放式研究的战略重要性，催生了 NSF 和国防部对大学基础研究的支持（p.13）。
 
 ---
 
@@ -93,7 +93,7 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 ## 相关案例
 
 > [!example]
-- **硅谷**：由斯坦福大学、周边企业（如 Hewlett Packard、Google、Apple）和政府投资共同构成的基于地点的创新生态系统。其多层次高等教育体系包括 UC [[George Berkeley|Berkeley]]、UC San Francisco、San Jose State 等多所院校（pp.12–13）
+- **硅谷**：由斯坦福大学、周边企业（如 Hewlett Packard、Google、Apple）和政府投资共同构成的基于地点的创新生态系统。其多层次高等教育体系包括 UC Berkeley、UC San Francisco、San Jose State 等多所院校（pp.12–13）
 - **波士顿**：由 MIT 和哈佛大学锚定，以 Route 128 走廊为地理轴线的创新生态系统。Fischman et al.（2014）记录了 MIT 如何通过鼓励教师和学生创业来催化区域创新（pp.12–13）
 - **后 2008 年的政策转向**：自大衰退以来，美国州和地方政府越来越多地将大学视为经济发展的催化剂。APLU 设立了 Innovation and Economic Prosperity Program，为在区域经济参与方面取得成功的大学提供认证（p.13）
 - 其他试图模仿硅谷模式的地区和城市（未具体命名），通过推动[[University-Industry Collaboration|产学合作]]来建立各自的创新经济（p.13）
