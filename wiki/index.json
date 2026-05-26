@@ -1435,6 +1435,19 @@
     ]
   },
   {
+    "title": "Corporate R&D Labs",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Corporate R&D Labs.md",
+    "aliases": [
+      "企业中央研发实验室",
+      "企业中央实验室",
+      "企业研发实验室",
+      "corporate central R&D labs",
+      "corporate research labs",
+      "中央研发实验室"
+    ]
+  },
+  {
     "title": "Corporate University",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Corporate University.md",
@@ -1562,6 +1575,31 @@
       "创新生态系统",
       "创新生态",
       "innovation ecosystems"
+    ]
+  },
+  {
+    "title": "Innovation Models Evolution",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Innovation Models Evolution.md",
+    "aliases": [
+      "创新模型演变",
+      "五代创新模型",
+      "innovation models",
+      "five generations of innovation models",
+      "创新过程模型"
+    ]
+  },
+  {
+    "title": "Innovation Policy Paradigms",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Innovation Policy Paradigms.md",
+    "aliases": [
+      "创新政策范式",
+      "创新政策三范式",
+      "科学促增长范式",
+      "innovation policy paradigms",
+      "three frames for innovation policy",
+      "STI policy paradigms"
     ]
   },
   {
@@ -1785,6 +1823,19 @@
       "third mission",
       "third stream",
       "大学第三职能"
+    ]
+  },
+  {
+    "title": "Transformative Change",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Transformative Change.md",
+    "aliases": [
+      "变革转型",
+      "变革转型创新政策",
+      "变革转型范式",
+      "转型性变革",
+      "transformative innovation policy",
+      "transformative change paradigm"
     ]
   },
   {
