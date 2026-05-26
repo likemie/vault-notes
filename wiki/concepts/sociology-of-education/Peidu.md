@@ -15,12 +15,15 @@ tags:
 related_concepts:
   - "[[School Choice]]"
   - "[[Cultural Capital]]"
+  - "[[Class Size]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Rural School Consolidation]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Teng_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -28,63 +31,6 @@ updated: 2026-05-26
 ---
 
 # Peidu
-
-
-
->
-> [!info]- 自动维护字段（对齐脚本）
-> - `related_*` 与 YAML `sources` 由 `scripts/wiki_relations.py` 自动维护，AI 不手动填写。
-> - 正文中的 wikilink 会同步到对应 `related_*`。
-> - `## 来源` 章节中的 source wikilink 会同步到 YAML `sources`。
-> - 正文自动补链由 `scripts/wiki_linker.py sync` 完成；`aliases` 是自动补链白名单。
-> - Source 记录与 PDF / EPUB 阅读页面优先由 `scripts/source_record.py` 创建。
-> - 处理完成后运行：
->   ```bash
->   python3 scripts/wiki_index.py
->   python3 scripts/wiki_linker.py sync
->   python3 scripts/wiki_relations.py sync
->   python3 scripts/wiki_index.py
->   python3 scripts/vault_lint.py
->   ```
-
-> [!info]- Summary 规则（索引用，不是摘要）
-> `summary` 只用于 `wiki/index.json` 与 `wiki/index.md` 的一行索引说明，让读者一眼看出这个概念是什么、来自谁、解决什么问题或有什么关键机制。
-> 写法：`概念来源/提出者 + 核心含义/机制 + 主要应用语境`。
-> 好例子：`Phillips & Ochs 政策借用四阶段模型的第一阶段，Rappleye (2006) 将其解释为结构／人的双层推力与阻力。`
-> 不要写成论文摘要，不让摘要围绕论文、研究或作者展开。如果无法概括，留空：`summary: ""`。
-
-> [!warning]- Summary YAML 安全规则
-> `summary` 外层必须使用双引号包裹：`summary: "一句话索引说明"`。
-> `summary` 可以正常使用中文逗号、顿号、句号、分号、括号等中文标点；内容内部只需避开英文冒号 `:`、双引号 `"`、单引号 `'`，不要用其他字符代替原本应有的标点。
-> 需要断句时优先使用中文逗号，不要为了规避字符而省略标点。
-> 如果英文标题原本有冒号，用自然中文改写，或使用中文标点。
-> 如果内容需要引用英文著作名，不要用中文书名号、不要用 Markdown 斜体、不要加引号，直接写标题文本。
-
-
-
-> [!info]- Frontmatter 格式规范
-> - `tags` — 用方括号列表，内容 tag 建议使用英文小写连字符。
-> - 推荐 tag 前缀：`level/`、`region/`、`method/`、`theory/`、`policy/`、`subject/`、`theme/`、`source/`。
-> - `related_*`、`sources`、`part_of` — 若引用条目，必须写成带引号的 wikilink，如 `"[[Cultural Capital]]"`。
-> - 不要在这些字段中写普通文本；不确定是否已有条目时先留空。
-> - 单个值也需要引号和方括号：`related_concepts: ["[[Project-Based Learning]]"]`
-> - `related_*` 与 YAML `sources` 由脚本自动同步，AI 通常不手动填写；需要建立关系时在正文使用 wikilink，需要记录来源时在 `## 来源` 列出 source wikilink。
-
-> [!info]- Aliases 规则（用于 Automatic Linker 自动补链）
-> - `aliases` 用于中英文术语映射，建议包含中文译名、英文原名、常见缩写和常见变体。
-> - 文件名／标题可以保持英文；中文正文常用术语应写入 `aliases`，例如 `文化资本` → `Cultural Capital`。
-> - 不要加入过于宽泛的普通词，如"资本""文化""政策""课程""能力""国家""公平"。
-> - 推荐写完整术语：`文化资本`、`教育分层`、`批判话语分析`、`global competence`、`critical discourse analysis`。
-> - 缩写可以写入 aliases，例如 `CDA`、`PISA`、`OECD`，但避免单个字母或过短词。
-
-> [!warning]- 写入规则（每次写入前必须执行）
-> 1. 确定新内容属于哪个 `##` 章节。
-> 2. 分点 ≥ 8 条 → 按主题建 `###` 子主题，组内按时间排列。
-> 3. 分点 < 8 条 → 直接按时间顺序插入正确位置，禁止追加末尾。
-> 4. 写入前声明：「归属章节 > 子主题 > 插入位置」，再用 str_replace 写入。
-
-
----
 
 ## 定义
 
@@ -105,7 +51,7 @@ updated: 2026-05-26
 
 ## 产生机制
 
-陪读的大规模出现是农村学校撤并（推）与县城学校扩张（拉）共同作用的结果（Teng & Wang, 2025, pp.303–304）。
+陪读的大规模出现是[[Rural School Consolidation|农村学校撤并]]（推）与县城学校扩张（拉）共同作用的结果（Teng & Wang, 2025, pp.303–304）。
 
 ### 推力：农村学校撤并
 
@@ -113,7 +59,7 @@ updated: 2026-05-26
 
 ### 拉力：县城学校扩张与城镇化战略
 
-地方政府通过在县城新建学校和扩容现有学校来吸引农村学生。在 G 县，2016 年和 2021 年分别新建了专门面向农村学生的公立学校，不限户口、不收择校费（Teng & Wang, 2025, p.306）。地方政府将教育集中作为实现城镇化目标的手段——一个孩子在县城上学，至少会带动一名成人、甚至整个家庭迁入城镇。
+地方政府通过在县城新建学校和扩容现有学校来吸引农村学生。在 G 县，2016 年和 2021 年分别新建了专门面向农村学生的公立学校，不限户口、不收[[School Choice|择校]]费（Teng & Wang, 2025, p.306）。地方政府将教育集中作为实现城镇化目标的手段——一个孩子在县城上学，至少会带动一名成人、甚至整个家庭迁入城镇。
 
 > [!quote]
 > "To develop Dapu, you should bring all rural children into the county capital"（Zhang 2019, p.71，引自 Teng & Wang, 2025, p.304）
@@ -150,7 +96,7 @@ updated: 2026-05-26
 
 - **经费锐减**：学校拨款按学生数核定，生源流失直接导致经费下降，设备损坏无力维修（p.311）。
 - **教师流失**：县城学校扩张需要大量教师，从乡镇和农村学校抽调年轻、有能力的教师，留下年纪较大的教师（p.312）。
-- **教学环境恶化**：留在农村学校的学生多为学术表现和行为较弱的群体；班级规模过小（如仅 5 名学生）使小组讨论等教学活动无法组织，教师教学热情受挫（p.312）。
+- **教学环境恶化**：留在农村学校的学生多为学术表现和行为较弱的群体；[[Class Size|班级规模]]过小（如仅 5 名学生）使小组讨论等教学活动无法组织，教师教学热情受挫（p.312）。
 - **信任瓦解与加速外流**：教学质量下降进一步降低了农村家长对农村学校的信任，促使更多家庭离开，增加了农村学校被关闭的风险（p.312）。
 
 > [!quote]
@@ -160,4 +106,4 @@ updated: 2026-05-26
 
 ## 来源
 
-- [[temp_2024_Compare]]
+- [[Teng_2025_CE]]

@@ -13,15 +13,15 @@ tags:
   - theme/educational-inequality
   - policy/neoliberalism
 related_concepts:
-  - "[[Cultural Capital]]"
   - "[[Peidu]]"
+  - "[[Cultural Capital]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Pierre Bourdieu]]"
+related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Teng_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -29,63 +29,6 @@ updated: 2026-05-26
 ---
 
 # School Choice
-
-
-
->
-> [!info]- 自动维护字段（对齐脚本）
-> - `related_*` 与 YAML `sources` 由 `scripts/wiki_relations.py` 自动维护，AI 不手动填写。
-> - 正文中的 wikilink 会同步到对应 `related_*`。
-> - `## 来源` 章节中的 source wikilink 会同步到 YAML `sources`。
-> - 正文自动补链由 `scripts/wiki_linker.py sync` 完成；`aliases` 是自动补链白名单。
-> - Source 记录与 PDF / EPUB 阅读页面优先由 `scripts/source_record.py` 创建。
-> - 处理完成后运行：
->   ```bash
->   python3 scripts/wiki_index.py
->   python3 scripts/wiki_linker.py sync
->   python3 scripts/wiki_relations.py sync
->   python3 scripts/wiki_index.py
->   python3 scripts/vault_lint.py
->   ```
-
-> [!info]- Summary 规则（索引用，不是摘要）
-> `summary` 只用于 `wiki/index.json` 与 `wiki/index.md` 的一行索引说明，让读者一眼看出这个概念是什么、来自谁、解决什么问题或有什么关键机制。
-> 写法：`概念来源/提出者 + 核心含义/机制 + 主要应用语境`。
-> 好例子：`Phillips & Ochs 政策借用四阶段模型的第一阶段，Rappleye (2006) 将其解释为结构／人的双层推力与阻力。`
-> 不要写成论文摘要，不让摘要围绕论文、研究或作者展开。如果无法概括，留空：`summary: ""`。
-
-> [!warning]- Summary YAML 安全规则
-> `summary` 外层必须使用双引号包裹：`summary: "一句话索引说明"`。
-> `summary` 可以正常使用中文逗号、顿号、句号、分号、括号等中文标点；内容内部只需避开英文冒号 `:`、双引号 `"`、单引号 `'`，不要用其他字符代替原本应有的标点。
-> 需要断句时优先使用中文逗号，不要为了规避字符而省略标点。
-> 如果英文标题原本有冒号，用自然中文改写，或使用中文标点。
-> 如果内容需要引用英文著作名，不要用中文书名号、不要用 Markdown 斜体、不要加引号，直接写标题文本。
-
-
-
-> [!info]- Frontmatter 格式规范
-> - `tags` — 用方括号列表，内容 tag 建议使用英文小写连字符。
-> - 推荐 tag 前缀：`level/`、`region/`、`method/`、`theory/`、`policy/`、`subject/`、`theme/`、`source/`。
-> - `related_*`、`sources`、`part_of` — 若引用条目，必须写成带引号的 wikilink，如 `"[[Cultural Capital]]"`。
-> - 不要在这些字段中写普通文本；不确定是否已有条目时先留空。
-> - 单个值也需要引号和方括号：`related_concepts: ["[[Project-Based Learning]]"]`
-> - `related_*` 与 YAML `sources` 由脚本自动同步，AI 通常不手动填写；需要建立关系时在正文使用 wikilink，需要记录来源时在 `## 来源` 列出 source wikilink。
-
-> [!info]- Aliases 规则（用于 Automatic Linker 自动补链）
-> - `aliases` 用于中英文术语映射，建议包含中文译名、英文原名、常见缩写和常见变体。
-> - 文件名／标题可以保持英文；中文正文常用术语应写入 `aliases`，例如 `文化资本` → `Cultural Capital`。
-> - 不要加入过于宽泛的普通词，如"资本""文化""政策""课程""能力""国家""公平"。
-> - 推荐写完整术语：`文化资本`、`教育分层`、`批判话语分析`、`global competence`、`critical discourse analysis`。
-> - 缩写可以写入 aliases，例如 `CDA`、`PISA`、`OECD`，但避免单个字母或过短词。
-
-> [!warning]- 写入规则（每次写入前必须执行）
-> 1. 确定新内容属于哪个 `##` 章节。
-> 2. 分点 ≥ 8 条 → 按主题建 `###` 子主题，组内按时间排列。
-> 3. 分点 < 8 条 → 直接按时间顺序插入正确位置，禁止追加末尾。
-> 4. 写入前声明：「归属章节 > 子主题 > 插入位置」，再用 str_replace 写入。
-
-
----
 
 ## 定义
 
@@ -125,10 +68,10 @@ updated: 2026-05-26
 > [!note]
 > 择校在不同政策情境中有两种截然不同的驱动模式：
 
-| 维度 | 市场化择校（国际主流） | 城镇化择校（中国农村[[Peidu|陪读]]） |
+| 维度 | 市场化择校（国际主流） | 城镇化择校（中国农村[[Peidu\|陪读]]） |
 |------|----------------------|----------------------------------|
-| 驱动机制 | 新自由主义改革、教育市场化 | 地方政府城镇化战略、农村学校撤并 |
-| 核心政策工具 | 特许学校、教育券、开放入学 | 关闭农村学校、新建县城学校、放松户口限制 |
+| 驱动机制 | 新自由主义改革、教育市场化 | 地方政府城镇化战略、[[Rural School Consolidation\|农村学校撤并]] |
+| 核心政策工具 | [[Partnership Schools Kura Hourua\|特许学校]]、教育券、开放入学 | 关闭农村学校、新建县城学校、放松户口限制 |
 | 政策宣称目标 | 通过竞争提高质量、减少不平等 | 通过城镇化缩小城乡教育差距 |
 | 实际分层效果 | 富裕家庭流入优质学校，贫困家庭集中于薄弱学校 | 农村中上层迁入县城，最弱势家庭留在农村 |
 
@@ -145,4 +88,4 @@ updated: 2026-05-26
 
 ## 来源
 
-- [[temp_2024_Compare]]
+- [[Teng_2025_CE]]

@@ -1130,6 +1130,18 @@
     ]
   },
   {
+    "title": "Hukou System",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Hukou System.md",
+    "aliases": [
+      "户口制度",
+      "户籍制度",
+      "hukou",
+      "household registration system",
+      "hukou reform"
+    ]
+  },
+  {
     "title": "Implementation Fidelity",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Implementation Fidelity.md",
@@ -5167,6 +5179,17 @@
     ]
   },
   {
+    "title": "2014 Hukou Reform",
+    "type": "fact",
+    "path": "wiki/facts/china/2014 Hukou Reform.md",
+    "aliases": [
+      "2014年户口改革",
+      "2014户籍制度改革",
+      "关于进一步推进户籍制度改革的意见",
+      "2014 household registration reform"
+    ]
+  },
+  {
     "title": "2020 Inner Mongolia Bilingual Education Reform",
     "type": "fact",
     "path": "wiki/facts/china/2020 Inner Mongolia Bilingual Education Reform.md",
@@ -5207,6 +5230,17 @@
       "推免制度",
       "推免",
       "recommendation-based admission"
+    ]
+  },
+  {
+    "title": "Rural School Consolidation",
+    "type": "fact",
+    "path": "wiki/facts/china/Rural School Consolidation.md",
+    "aliases": [
+      "农村学校撤并",
+      "农村学校布局调整",
+      "rural school closure",
+      "school merger in rural China"
     ]
   },
   {
