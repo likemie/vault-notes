@@ -914,6 +914,17 @@
     ]
   },
   {
+    "title": "Progressive Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Progressive Education.md",
+    "aliases": [
+      "进步主义教育",
+      "progressive educational reform",
+      "进步教育",
+      "progressive education movement"
+    ]
+  },
+  {
     "title": "Response-ability",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Response-ability.md",
@@ -5538,6 +5549,16 @@
     "aliases": [
       "国体之本义",
       "Cardinal Principles of the National Entity of Japan"
+    ]
+  },
+  {
+    "title": "American Society for Cultural Relations with Russia",
+    "type": "fact",
+    "path": "wiki/facts/multi/American Society for Cultural Relations with Russia.md",
+    "aliases": [
+      "美国对俄文化关系协会",
+      "ASCRR",
+      "美苏文化交流协会"
     ]
   },
   {
