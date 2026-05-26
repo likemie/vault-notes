@@ -13,6 +13,7 @@ extracted_to:
   - "[[Confucius]]"
   - "[[Hu Shi]]"
   - "[[Jiang Menglin]]"
+  - "[[John Dewey]]"
 processed_date: 2026-05-26
 ---
 
