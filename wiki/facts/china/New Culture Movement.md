@@ -16,7 +16,8 @@ tags:
 related_concepts: []
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Hu Shi]]"
 related_facts:
   - "[[May Fourth Movement]]"
   - "[[New Education Movement]]"
@@ -43,7 +44,7 @@ updated: 2026-05-26
 ## 经过
 
 > [!note]
-> - **1910 年代中后期** — 新文化运动兴起，高举"民主"（democracy）和"科学"（science）两面旗帜，以陈独秀（1879–1942）和胡适（1891–1962）为代表的知识分子攻击支撑传统文化和道德的儒家思想（Ma, Tang, and Jiang 2015, pp.286–300，引自 Zhou & Westberg, 2024, p.614）。
+> - **1910 年代中后期** — 新文化运动兴起，高举"民主"（democracy）和"科学"（science）两面旗帜，以陈独秀（1879–1942）和[[Hu Shi|胡适]]（1891–1962）为代表的知识分子攻击支撑传统文化和道德的儒家思想（Ma, Tang, and Jiang 2015, pp.286–300，引自 Zhou & Westberg, 2024, p.614）。
 > - **运动范围** — 新文化运动推动了政治、经济、教育等广泛领域的改革，不限于文化思想层面（Zhou & Westberg, 2024, p.614）。
 > - **1919** — 经[[May Fourth Movement|五四运动]]，新文化运动获得了"政治维度"。此后中国知识界转向以政治革命而非文化手段来实现国家重建（Zhang & Sheese 2017, p.400，引自 Zhou & Westberg, 2024, p.614）。
 

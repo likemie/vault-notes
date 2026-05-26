@@ -3958,6 +3958,15 @@
     ]
   },
   {
+    "title": "Hu Shi",
+    "type": "person",
+    "path": "wiki/persons/china/Hu Shi.md",
+    "aliases": [
+      "胡适",
+      "Hu Shih"
+    ]
+  },
+  {
     "title": "Jiang Menglin",
     "type": "person",
     "path": "wiki/persons/china/Jiang Menglin.md",
@@ -6398,6 +6407,11 @@
     "title": "Argument_Slavin_2002_ER",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Researcher/Argument_Slavin_2002_ER.md"
+  },
+  {
+    "title": "Argument_Schulte_2009_EncuentrosEducacion",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Encuentros sobre Educación/Argument_Schulte_2009_EncuentrosEducacion.md"
   },
   {
     "title": "Argument_Møller_2017",

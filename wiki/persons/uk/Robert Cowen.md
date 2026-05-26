@@ -2,7 +2,7 @@
 title: Robert Cowen
 aliases:
   - 罗伯特·考恩
-summary: "英国比较教育学者，以 transitology、现代／晚期现代教育双轴比较模型和 3T 框架（Transfer, Translation, Transformation）三个核心概念框架分析教育与社会转型及跨国知识流动"
+summary: 英国比较教育学者，以 transitology、现代／晚期现代教育双轴比较模型和 3T 框架（Transfer, Translation, Transformation）三个核心概念框架分析教育与社会转型及跨国知识流动
 type: person
 nationality: uk
 tags:

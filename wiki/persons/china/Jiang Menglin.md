@@ -3,7 +3,7 @@ title: Jiang Menglin
 aliases:
   - 蒋梦麟
   - Jiang Menglin
-summary: "民国教育家，哥伦比亚大学师范学院毕业，《新教育》主编，新教育运动激进派代表人物，主张以教育彻底改造社会并创造新国家"
+summary: 民国教育家，哥伦比亚大学师范学院毕业，《新教育》主编，新教育运动激进派代表人物，主张以教育彻底改造社会并创造新国家
 type: person
 nationality: china
 tags:

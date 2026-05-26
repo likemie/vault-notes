@@ -1,11 +1,11 @@
 ---
 title: Argument_Zhou_2024_CE
-summary: "以 Cowen 3T 框架分析杜威思想在民国中国的转移过程，揭示民主教育理想与渐进改革路径在缺乏民主的社会中无法兼存，杜威由此被碎片化为可支持激进与温和两种对立立场的知识资源"
+summary: 以 Cowen 3T 框架分析杜威思想在民国中国的转移过程，揭示民主教育理想与渐进改革路径在缺乏民主的社会中无法兼存，杜威由此被碎片化为可支持激进与温和两种对立立场的知识资源
 type: argument
 subtype: journal-article
 publication_type: journal-article
 journal: Comparative Education
-citation: 'Zhou, Y. & Westberg, J. (2024). A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s. Comparative Education, 60(4), 609-625.'
+citation: "Zhou, Y. & Westberg, J. (2024). A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s. Comparative Education, 60(4), 609-625."
 tags:
   - region/china
   - theme/knowledge-transfer
@@ -27,13 +27,14 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Jiang Menglin]]"
   - "[[Tao Xingzhi]]"
+  - "[[Hu Shi]]"
 related_facts:
   - "[[New Education Movement]]"
   - "[[New Culture Movement]]"
 related_arguments: []
 sources:
   - "[[Zhou_2024_CE]]"
-part_of: ''
+part_of: ""
 status: draft
 created: 2026-05-26
 updated: 2026-05-26
@@ -61,7 +62,7 @@ updated: 2026-05-26
 
 > [!abstract] 理论框架
 > - **[[Transfer Translation Transformation|3T 框架]]**（Cowen 2009）：3T 被用作**结构性分析工具**而非装饰性引用——三个分析阶段直接对应 3T 的三个概念。Transfer 关注[[John Dewey|杜威]]讲演如何跨越太平洋、被何种渠道引入中国；Translation 关注中国改革者如何用自己的制度语言（七项标准、学分制课程）重新编码杜威；Transformation 关注翻译产物在中国政治语境中如何再次变形——这次变形并非回到杜威原意，而是彻底进入了一条新轨道（p.611）。
-> - **[[John Dewey|杜威]]的两个分析维度**：杜威的思想被拆解为一个"目标-方法"对——民主教育（目标）和渐进实验主义（方法）。整篇论证围绕这对关系在接受语境中的命运展开：什么时候它们是统一的、什么时候开始分离、最终变成了什么（pp.610–611）。
+> - **杜威的两个分析维度**：杜威的思想被拆解为一个"目标-方法"对——民主教育（目标）和渐进实验主义（方法）。整篇论证围绕这对关系在接受语境中的命运展开：什么时候它们是统一的、什么时候开始分离、最终变成了什么（pp.610–611）。
 > - **接受语境分析**（contextual reception analysis）：隐性调用了比较教育中的接受研究传统（Schriewer 2012; Mayer 2019），强调"精确的转移过程和具体语境"——不是看杜威"是否被正确理解"，而是看特定社会政治条件如何从杜威思想中筛选出它能用的部分（p.611）。
 
 ---
@@ -135,7 +136,7 @@ updated: 2026-05-26
 
 5. "新教育"一词在 1915 年前只是泛指西方和日本的教育思想。但 1915 年后——与[[New Culture Movement|新文化运动]]的"民主"和"科学"口号同步——它明确转向了儿童中心教学法和民主教育（p.614）。
 
-6. 1919 年 2 月是转折点。两个事件同期发生：[[Jiang Menglin|蒋梦麟]]主编的《新教育》杂志创刊，[[John Dewey|杜威]]抵达日本。哥伦比亚大学师范学院毕业的中国学生——包括蒋梦麟、[[Tao Xingzhi|陶行知]]、胡适等人——随即邀请杜威访华（p.614）。
+6. 1919 年 2 月是转折点。两个事件同期发生：[[Jiang Menglin|蒋梦麟]]主编的《新教育》杂志创刊，杜威抵达日本。哥伦比亚大学师范学院毕业的中国学生——包括蒋梦麟、[[Tao Xingzhi|陶行知]]、[[Hu Shi|胡适]]等人——随即邀请杜威访华（p.614）。
 
 7. 《新教育》杂志定位新教育为"养成健全人格、创造进步社会"的根本手段。社论将 1919 年视为新纪元元年——新教育被赋予了"使民主光辉照耀东亚、永远照耀世界"的使命（"Purpose" 1919, p.1）。
 

@@ -4,7 +4,7 @@ aliases:
   - 新教育运动
   - xinjiaoyu yundong
   - The New Education
-summary: "1915–1925 年间中国以儿童中心教学法和民主教育为核心的教育改革运动，以《新教育》杂志为阵地，在杜威访华期间达到鼎盛，后随1923年后的科学态度转向而衰落"
+summary: 1915–1925 年间中国以儿童中心教学法和民主教育为核心的教育改革运动，以《新教育》杂志为阵地，在杜威访华期间达到鼎盛，后随1923年后的科学态度转向而衰落
 type: fact
 subtype: event
 region: china
