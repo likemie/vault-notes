@@ -11,17 +11,21 @@ type: fact
 subtype: event
 region: "US"
 tags:
-  - "region/US"
+  - "region/us"
   - "level/higher-education"
   - "policy/land-grant"
   - "theme/higher-education-history"
-related_concepts: []
+related_concepts:
+  - "[[Academic Freedom]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Smith Lever Act of 1914]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch1_Boccanfuso_Hall_2025]]"
+  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -51,10 +55,11 @@ Morrill Act 带来了三个关键转变（p.11）：
 2. **专业教育成为明确目标**：催生了重视工程和农业的大学，支持美国新兴工业
 3. **联邦-州结构的确立**：确立了公共高等教育由各州主导、联邦支持的制度结构，这是美国不同于欧洲国立大学体系的关键特征
 
-此后约五十年，**Smith Lever Act of 1914**（Smith Lever 法案）进一步在赠地大学建立了农业推广服务（agricultural extension services），以联邦资金直接支持美国农业产业——通过连接研究与实际应用来开发和改良作物。"推广服务延续至今"（p.11）。
+此后约五十年，**[[Smith Lever Act of 1914]]**（Smith Lever 法案）进一步在赠地大学建立了农业推广服务（agricultural extension services），以联邦资金直接支持美国农业产业——通过连接研究与实际应用来开发和改良作物。"推广服务延续至今"（p.11）。
 
-Boccanfuso 和 Hall（2025）认为，Morrill Act 建立的模式"为大学如何与产业互动提供了框架，直到今天"（p.11）。1920 年前，美国大学的核心特征——博士教育（受德国大学启发）、专业学位项目、产学互动以及学术自由与客观性的制度价值——已基本确立。这一独特的制度遗产被多位学者（Bok, 2013; Cole, 2009; Rhodes, 2001; Kerr, 2001）视为美国过去一个世纪经济进步的重要原因（p.12）。
+Boccanfuso 和 Hall（2025）认为，Morrill Act 建立的模式"为大学如何与产业互动提供了框架，直到今天"（p.11）。1920 年前，美国大学的核心特征——博士教育（受德国大学启发）、专业学位项目、产学互动以及[[Academic Freedom|学术自由]]与客观性的制度价值——已基本确立。这一独特的制度遗产被多位学者（Bok, 2013; Cole, 2009; Rhodes, 2001; Kerr, 2001）视为美国过去一个世纪经济进步的重要原因（p.12）。
 
 ## 来源
 
+- [[Ch1_Boccanfuso_Hall_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

@@ -10,17 +10,21 @@ type: fact
 subtype: event
 region: "US"
 tags:
-  - "region/US"
+  - "region/us"
   - "level/higher-education"
   - "policy/technology-transfer"
   - "theme/university-industry-collaboration"
-related_concepts: []
+related_concepts:
+  - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch1_Boccanfuso_Hall_2025]]"
+  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -51,14 +55,15 @@ Bayh-Dole Act（正式名称为 Patent and Trademark Law Amendments Act）于 19
 ## 对产学合作的影响
 
 > [!abstract]
-Bayh-Dole Act 为产学合作中的知识产权管理创造了制度基础。在产学合作的实践中（p.14）：
+Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识产权管理创造了制度基础。在产学合作的实践中（p.14）：
 
 1. 企业与大学的合同与拨款办公室协商赞助研究所产生的知识产权权利
-2. 企业与大学的技术转移办公室（Technology Transfer Office）协商知识产权许可
+2. 企业与大学的[[Technology Transfer|技术转移]]办公室（Technology Transfer Office）协商知识产权许可
 3. 这两个办公室通常都隶属于大学的科研副校长（Vice President of Research），有时合并到企业参与办公室（Office of Corporate Engagement）
 
 该法案引发的一个持续挑战是商业化路径的选择：初创企业（发明人可能成为创始人）还是成熟企业（发明人无所有权股份）？大学可能希望支持教师的创业精神或通过初创企业推动经济发展，但"大多数初创企业会失败，成熟企业可以投资进一步的技术开发，且初创企业可能产生无法解决的利益冲突"。此外，根据赞助研究协议，大学可能已有义务给予现有企业知识产权的优先权（p.14）。
 
 ## 来源
 
+- [[Ch1_Boccanfuso_Hall_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

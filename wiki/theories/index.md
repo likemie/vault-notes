@@ -43,7 +43,7 @@ Total entries: **50**
 
 - [[Creative Tension of Sense]] — Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话
 - [[Network Society]] — 把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织
-- [[Triple Helix]] — Etzkowitz 与 Leydesdorff（1995）提出的大学-产业-政府关系模型，将三者的反馈循环描述为知识经济发展中相互支撑的三重螺旋结构
+- [[Triple Helix]] — Etzkowitz 与 Leydesdorff（1995）提出的大学-产业-政府关系模型，认为在以知识为基础的经济发展中，三个制度领域日益相互交织，形成动态的创新系统
 
 ## Instruction Pedagogy
 
