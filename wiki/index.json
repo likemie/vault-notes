@@ -1405,6 +1405,15 @@
     ]
   },
   {
+    "title": "Academic Freedom",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Academic Freedom.md",
+    "aliases": [
+      "学术自由",
+      "academic freedom in universities"
+    ]
+  },
+  {
     "title": "Competitiveness in Higher Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Competitiveness in Higher Education.md",
@@ -1608,6 +1617,16 @@
       "知识转移",
       "geopolitics of knowledge transfer",
       "knowledge in motion"
+    ]
+  },
+  {
+    "title": "Multi-University",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Multi-University.md",
+    "aliases": [
+      "多元大学",
+      "multiversity",
+      "多科性大学"
     ]
   },
   {
@@ -6127,6 +6146,17 @@
     ]
   },
   {
+    "title": "Bayh-Dole Act of 1980",
+    "type": "fact",
+    "path": "wiki/facts/us/Bayh-Dole Act of 1980.md",
+    "aliases": [
+      "Bayh-Dole Act",
+      "拜杜法案",
+      "Bayh-Dole",
+      "Patent and Trademark Law Amendments Act"
+    ]
+  },
+  {
     "title": "Best Evidence Encyclopedia",
     "type": "fact",
     "path": "wiki/facts/us/Best Evidence Encyclopedia.md",
@@ -6253,6 +6283,18 @@
     ]
   },
   {
+    "title": "Morrill Land-Grant Act of 1862",
+    "type": "fact",
+    "path": "wiki/facts/us/Morrill Land-Grant Act of 1862.md",
+    "aliases": [
+      "Morrill Act",
+      "赠地法案",
+      "莫里尔法案",
+      "Land-Grant Act",
+      "Morrill Land-Grant College Act"
+    ]
+  },
+  {
     "title": "National Dropout Prevention Center",
     "type": "fact",
     "path": "wiki/facts/us/National Dropout Prevention Center.md",
@@ -6303,6 +6345,16 @@
     "aliases": [
       "量子机会计划",
       "QOP"
+    ]
+  },
+  {
+    "title": "Smith Lever Act of 1914",
+    "type": "fact",
+    "path": "wiki/facts/us/Smith Lever Act of 1914.md",
+    "aliases": [
+      "Smith Lever Act",
+      "史密斯-利弗法案",
+      "Smith-Lever Act"
     ]
   },
   {
@@ -6432,6 +6484,11 @@
     "title": "Argument_Li_2012_Cambridge",
     "type": "argument",
     "path": "wiki/arguments/books/Argument_Li_2012_Cambridge.md"
+  },
+  {
+    "title": "Argument_Boccanfuso_Hall_2025_Alignment",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md"
   },
   {
     "title": "Argument_Hall(Ed.)_2025_Springer",
