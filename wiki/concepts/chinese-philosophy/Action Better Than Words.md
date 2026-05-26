@@ -44,7 +44,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> 行勝於言（Action Better Than Words / Facta non Verba）是[[Confucian Learning Tradition|儒家学习传统]]的[[Fourth Culture|第四文化]]主题，也是清华大学刻在主楼前广场上的[[University Motto|校训]]。它表达了一个系统的文化立场：一个人的道德成就以行动——而非言语——为标准来评判。说话是一种严肃的道德行为，因为它将说话人承诺于他人期待中的相应行动（Li, 2012, pp.52-54）。
+> 行勝於言（Action Better Than Words / Facta non Verba）是[[Confucian Learning Tradition|儒家学习传统]]的第四个文化主题，也是清华大学刻在主楼前广场上的[[University Motto|校训]]。它表达了一个系统的文化立场：一个人的道德成就以行动——而非言语——为标准来评判。说话是一种严肃的道德行为，因为它将说话人承诺于他人期待中的相应行动（Li, 2012, pp.52-54）。
 
 [[Confucius|孔子]]对巧言令色抱有根本性的不信任——"他甚至没有写下任何关于自己教学的文字"。他说："古者言之不出，耻躬之不逮也"（古人不轻易说话，因为他们以自己做不到所说的话为耻），以及"[[Junzi|君子]]欲讷于言而敏于行"（Li, 2012, pp.52-53）。
 
