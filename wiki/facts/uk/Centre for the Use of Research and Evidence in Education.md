@@ -36,7 +36,7 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> Centre for the Use of Research and Evidence in Education（CUREE）是英国面向研究使用和证据传播的机构。它的核心目标是把研究报告和出版物转化为教师与政策制定者容易理解的语言，以及可以在真实学校情境中使用的材料（Pellegrini & Vivanet, 2021, p.34）。
+> Centre for the Use of Research and Evidence in Education（CUREE）是英国面向研究使用和证据传播的机构。它的核心目标是把研究报告和出版物[[Transfer Translation Transformation|转化]]为教师与政策制定者容易理解的语言，以及可以在真实学校情境中使用的材料（Pellegrini & Vivanet, 2021, p.34）。
 
 ## 政策文本摘要
 
@@ -67,7 +67,7 @@ updated: 2026-05-23
 
 > [!tip]
 > - [[Evidence-Informed Practice]] — CUREE 支持教师和政策制定者把研究作为决策资源。
-> - [[Knowledge Mobilisation]] — CUREE 的核心功能是把研究转化为可理解、可使用的材料。
+> - [[Knowledge Mobilisation]] — CUREE 的核心功能是把研究[[Transfer Translation Transformation|转化]]为可理解、可使用的材料。
 
 ## 来源
 

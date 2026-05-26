@@ -62,7 +62,7 @@ updated: '2026-05-19'
 
 > [!success]
 > - 通过"Bora Bora em Bando"项目，Amado 为 Rocinha 贫民窟剧场团体和 [[Richard Castelo Branco]] 的[[Epistemology of Resistance|抵抗认识论]]实践争取了原本不会拥有的社会可见度和文化体制关注（Delambre, 2022, p.110）
-> - 她的去世被 Delambre 记录为巴西社区文化运动的重大损失——"她于 2021 年 6 月 6 日去世，享年 82 岁"这一信息被单独、郑重地在论文中提及。Delambre 与她的合作经历——将她"看到贫民窟知识被用于国家发展"的梦想转化为具体文化项目的过程——构成了 [[Ganz-Methode]] 实证基础的重要组成部分（Delambre, 2022, p.110）
+> - 她的去世被 Delambre 记录为巴西社区文化运动的重大损失——"她于 2021 年 6 月 6 日去世，享年 82 岁"这一信息被单独、郑重地在论文中提及。Delambre 与她的合作经历——将她"看到贫民窟知识被用于国家发展"的梦想[[Transfer Translation Transformation|转化]]为具体文化项目的过程——构成了 [[Ganz-Methode]] 实证基础的重要组成部分（Delambre, 2022, p.110）
 
 ## 格言／关键表述
 

@@ -47,7 +47,7 @@ updated: '2026-05-18'
 >
 > ### 跨阵营共识与政策推进
 >
-> 在一个双方几乎无法在任何其他议题上达成共识的时刻——改革派要西化、保守派要守旧——**日本教育成为唯一他们都能同意的模型**。这一动态实现了吸引力向大规模借用的转化：
+> 在一个双方几乎无法在任何其他议题上达成共识的时刻——改革派要西化、保守派要守旧——**日本教育成为唯一他们都能同意的模型**。这一动态实现了吸引力向大规模借用的[[Transfer Translation Transformation|转化]]：
 >
 > > "At a time when the two sides could not agree on much else, they did agree that Japanese education was a good model for China and 'borrowed' on a massive scale." (Rappleye, 2006, p. 234)
 >
@@ -75,12 +75,12 @@ updated: '2026-05-18'
 > Rappleye（2006）将晚清对日借用解释为"跨阵营共识驱动"的案例。其关键观点是：  
 > 1. 改革派与保守派虽然政治立场对立，但都能从"日本经验"中提取对自身有利的论证。  
 > 2. 正是这种"对同一外国范例的不同解释"，使日本教育成为双方都可接受的折中参照。  
-> 3. 在此条件下，[[Cross-National Attraction|跨国吸引]]力更容易转化为大规模制度借用，即其所说的"borrowed on a massive scale"（Rappleye, 2006, pp. 233–234）。
+> 3. 在此条件下，[[Cross-National Attraction|跨国吸引]]力更容易[[Transfer Translation Transformation|转化]]为大规模制度借用，即其所说的"borrowed on a massive scale"（Rappleye, 2006, pp. 233–234）。
 
 ## 相关概念／政策
 
 > [!example] 相关概念／政策
-> - [[Cross-National Attraction]] — 跨国参照在国内政治条件下转化为制度借用。  
+> - [[Cross-National Attraction]] — 跨国参照在国内政治条件下[[Transfer Translation Transformation|转化]]为制度借用。  
 > - [[Policy Borrowing]] — 吸引阶段进入实质借用阶段的典型历史事件。  
 > - [[Externalization]] — 同一日本经验被不同阵营赋予不同的改革正当性。
 

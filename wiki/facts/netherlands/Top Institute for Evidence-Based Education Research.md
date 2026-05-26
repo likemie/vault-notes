@@ -54,7 +54,7 @@ updated: 2026-05-23
 ## 实施情况
 
 > [!example]
-> TIER 有四个行动领域：开发教育干预并用实验研究评价；研究教育的社会情境以连接教育和劳动力市场；通过[[Meta-analysis|元分析]]和知识传播连接学术界与政策世界；创建 Teacher Academy，把研究证据转移到学校（Pellegrini & Vivanet, 2021, p.34）。
+> TIER 有四个行动领域：开发教育干预并用实验研究评价；研究教育的社会情境以连接教育和劳动力市场；通过[[Meta-analysis|元分析]]和知识传播连接学术界与政策世界；创建 Teacher Academy，把研究证据[[Transfer Translation Transformation|转移]]到学校（Pellegrini & Vivanet, 2021, p.34）。
 
 ## 效果与评价
 

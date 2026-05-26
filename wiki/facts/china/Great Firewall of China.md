@@ -64,7 +64,7 @@ updated: '2026-05-18'
 > [!example]
 > - [[China Social Credit System]] — 与 Great Firewall 配套运行的大数据行为评估系统
 > - [[Knowledge Transfer]] — Great Firewall 是 [[Geopolitics of Knowledge|GPK]] 审查模态的核心制度工具
-> - [[Sino-American Trade War]] — 中美知识转移紧张关系的贸易维度
+> - [[Sino-American Trade War]] — 中美知识[[Transfer Translation Transformation|转移]]紧张关系的贸易维度
 
 ## 来源
 

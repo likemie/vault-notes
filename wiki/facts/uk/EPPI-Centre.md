@@ -59,7 +59,7 @@ updated: 2026-05-23
 ## 效果与评价
 
 > [!success]
-> 在欧洲证据政策生态中，EPPI-Centre 是英国较早制度化的证据基础设施。Pellegrini & Vivanet 将其与 [[What Works Clearinghouse]] 并列为知识中介机构例子，用来说明研究证据需要被转译成可获得、可使用的信息（Pellegrini & Vivanet, 2021, pp.29, 33）。
+> 在欧洲证据政策生态中，EPPI-Centre 是英国较早制度化的证据基础设施。Pellegrini & Vivanet 将其与 [[What Works Clearinghouse]] 并列为知识中介机构例子，用来说明研究证据需要被[[Transfer Translation Transformation|转译]]成可获得、可使用的信息（Pellegrini & Vivanet, 2021, pp.29, 33）。
 
 ## 争议与评论
 

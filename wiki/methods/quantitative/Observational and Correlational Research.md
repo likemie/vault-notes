@@ -75,7 +75,7 @@ updated: 2026-05-18
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Evidence-Based Education]] — 观察/相关研究可为证据链的早期阶段提供变量关系线索，但在 EBE 语境中，其结果常被要求转化为[[Recommendations for Practice|实践建议]]，因而产生因果推论边界问题。
+> - [[Evidence-Based Education]] — 观察/相关研究可为证据链的早期阶段提供变量关系线索，但在 EBE 语境中，其结果常被要求[[Transfer Translation Transformation|转化]]为[[Recommendations for Practice|实践建议]]，因而产生因果推论边界问题。
 
 ## 与相关方法的区别
 

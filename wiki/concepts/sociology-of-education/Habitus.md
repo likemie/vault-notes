@@ -91,7 +91,7 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 ## 理论基础
 
 > [!tip]
-> - wiki-[[Pierre Bourdieu]] — 习性是布迪厄实践理论的枢纽概念，连接[[Champ|场域]]（外部结构）和资本（争夺对象），使宏观社会结构与微观个体行动之间的双向转化成为可能
+> - wiki-[[Pierre Bourdieu]] — 习性是布迪厄实践理论的枢纽概念，连接[[Champ|场域]]（外部结构）和资本（争夺对象），使宏观社会结构与微观个体行动之间的双向[[Transfer Translation Transformation|转化]]成为可能
 
 ---
 
@@ -101,7 +101,7 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 
 ### 习性错配：三种理论形态
 
-当习性进入一个与自身不[[Matching|匹配]]的[[Champ|场域]]时，[[Pierre Bourdieu|Bourdieu]] 区分了三种不同程度的错配状态：
+当习性进入一个与自身不匹配的[[Champ|场域]]时，[[Pierre Bourdieu|Bourdieu]] 区分了三种不同程度的错配状态：
 
 **习性滞后（Habitus Hysteresis）**
 

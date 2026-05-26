@@ -80,7 +80,7 @@ Rizvi (2022) 从中美地缘政治紧张的角度分析了贸易战对[[Internat
 ## 相关概念／政策
 
 > [!example]
-> - [[Knowledge Transfer]] — 中美贸易战是知识转移作为 [[Geopolitics of Knowledge|GPK]] 核心的经验案例
+> - [[Knowledge Transfer]] — 中美贸易战是知识[[Transfer Translation Transformation|转移]]作为 [[Geopolitics of Knowledge|GPK]] 核心的经验案例
 > - [[US-China Economic and Security Review Commission]] — 贸易战的制度前史
 > - [[Thousand Talents Program]] — 中美知识转移争端的焦点议题之一
 > - [[Internationalization of Higher Education]] — Rizvi (2022) 分析中美地缘政治紧张对中国留学生处境和 HE 国际化范式的冲击

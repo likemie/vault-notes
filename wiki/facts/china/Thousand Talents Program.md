@@ -59,7 +59,7 @@ updated: '2026-05-18'
 ## 相关概念／政策
 
 > [!example]
-> - [[Sino-American Trade War]] — 千人计划是中美技术转移争端的关键议题之一
+> - [[Sino-American Trade War]] — 千人计划是中美技术[[Transfer Translation Transformation|转移]]争端的关键议题之一
 > - [[Economic and Industrial Espionage]] — 千人计划在 [[Geopolitics of Knowledge|GPK]] 分析框架中被定位为跨越合法与非法边界的知识获取机制
 
 ## 来源

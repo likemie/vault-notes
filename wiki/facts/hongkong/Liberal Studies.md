@@ -46,7 +46,7 @@ updated: '2026-05-25'
 ## 背景
 
 > [!info] 背景
-> 2000 年代初，香港特区政府面临多重压力：殖民地遗留的 3+2+2+3 英式学制与内地不一致、1998 年亚洲金融风暴后经济受创、长期存在的应试教育和灌输式教学弊端、以及[[Knowledge-Based Economy|知识经济]]兴起对教育体系提出的变革要求。政府通过外部化策略，将国内问题表述为回应全球趋势的必要改革（Yan & Morris, 2025, p. 487）。
+> 2000 年代初，香港特区政府面临多重压力：殖民地遗留的 3+2+2+3 英式学制与内地不一致、1998 年亚洲金融风暴后经济受创、长期存在的[[Examination-Oriented Education|应试教育]]和灌输式教学弊端、以及[[Knowledge-Based Economy|知识经济]]兴起对教育体系提出的变革要求。政府通过外部化策略，将国内问题表述为回应全球趋势的必要改革（Yan & Morris, 2025, p. 487）。
 
 ---
 
@@ -107,7 +107,7 @@ updated: '2026-05-25'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Policy Borrowing]] — LS 的设计参照了 IBDP 的三个要素（知识理论、延伸论文、创造行动服务），以此将自己定位为全球进步教育的体现
+> - [[Policy Borrowing]] — LS 的设计参照了 IBDP 的三个要素（知识理论、延伸论文、创造行动服务），以此将自己定位为全球[[Progressive Education|进步教育]]的体现
 > - [[Cuban's Curriculum Change Theory]] — LS 的创立和废除均受政治因素驱动，但体现在 Cuban 框架的不同维度
 > - [[World Society Theory]] — LS 的全球参照表面上支撑了该理论的趋同假设
 
@@ -160,7 +160,7 @@ updated: '2026-05-25'
 > - Introduction of Liberal Studies — LS 创立政策
 > - Replacement of LS by [[Citizenship and Social Development|CSD]] — LS 废除与 [[Citizenship and Social Development|CSD]] 引入
 > - 2012 MNE Controversy — 德育及国民教育科争议
-> - [[2019 Hong Kong Protests and Education]] — 反修例运动与教育
+> - [[2019 Hong Kong Protests|2019 Hong Kong Protests and Education]] — 反修例运动与教育
 
 ## 来源
 

@@ -46,7 +46,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> Doxa 是 wiki-[[Pierre Bourdieu]] 社会理论的核心概念，指[[Champ|场域]]中被行动者视为**理所当然、不言自明**的正统信念或"常识"。当行动者对世界的感知与世界的客观结构完美[[Matching|匹配]]时，社会秩序的任意性被**自然化**为"事情本身就是如此"——doxa 由此产生并维持（Bourdieu，引自 Wikipedia）。
+> Doxa 是 wiki-[[Pierre Bourdieu]] 社会理论的核心概念，指[[Champ|场域]]中被行动者视为**理所当然、不言自明**的正统信念或"常识"。当行动者对世界的感知与世界的客观结构完美匹配时，社会秩序的任意性被**自然化**为"事情本身就是如此"——doxa 由此产生并维持（Bourdieu，引自 Wikipedia）。
 
 > [!quote]
 > "某些知识和资本被特权化，提供了 Bourdieu 称之为 doxa 的常识或正统"（Blackmore, 2010, p.102，引自 Eacott, 2011, p.50）
@@ -133,7 +133,7 @@ NPM 渗透教育场域的过程可被理解为 doxa 置换：经济-政治场域
 
 **Husserl [[Phenomenology|现象学]]**。doxa 在 Husserl 处被重新激活，指生活世界中的原初信念（Ur-doxa）——先于一切理论判断的对世界存在的根本信念。Husserl 的关注点不在社会支配，而在意识如何构成世界经验的前提。
 
-**Bourdieu 的转化（1970s–1980s）**。Bourdieu 将 doxa 从认识论范畴转化为**社会分析**的操作概念：doxa 不再是普遍的认知状态，而是特定 [[Champ|场域]] 中历史建构的、被自然化了的共识。这一转化的关键是：doxa 从"个体怎么认知世界"的问题变成了"社会结构如何使某些信念变得不可质疑"的问题。Bourdieu 进一步区分 doxa（不被言说的共识）、orthodoxy（被明确捍卫的正统）与 heterodoxy（被容忍的异见），形成[[#概念辨析|场域话语斗争的光谱]]。
+**Bourdieu 的[[Transfer Translation Transformation|转化]]（1970s–1980s）**。Bourdieu 将 doxa 从认识论范畴转化为**社会分析**的操作概念：doxa 不再是普遍的认知状态，而是特定 [[Champ|场域]] 中历史建构的、被自然化了的共识。这一转化的关键是：doxa 从"个体怎么认知世界"的问题变成了"社会结构如何使某些信念变得不可质疑"的问题。Bourdieu 进一步区分 doxa（不被言说的共识）、orthodoxy（被明确捍卫的正统）与 heterodoxy（被容忍的异见），形成[[#概念辨析|场域话语斗争的光谱]]。
 
 ---
 

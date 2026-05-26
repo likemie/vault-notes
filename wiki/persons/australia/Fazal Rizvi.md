@@ -52,7 +52,7 @@ updated: '2026-05-19'
 
 > [!note-] 2022 — "Rise of Asia, Geopolitical Shifts and Higher Education"
 > - APA：Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 89–103). Springer.
-> - 核心内容：论证过去三十年间高等教育深刻转型的既有解释（[[Knowledge Capitalism|知识资本主义]]、工作性质转变、全球化、技术创新）普遍遗漏了一个关键因素——亚洲的崛起及其引发的地缘政治转移。亚洲崛起不仅通过国际化政策影响了高等教育系统的构成方式，更通过知识的生产、传播和利用方式深刻改变了全球高等教育的格局（Rizvi, 2022, pp.89–90）。
+> - 核心内容：论证过去三十年间高等教育深刻转型的既有解释（[[Knowledge Capitalism|知识资本主义]]、工作性质转变、全球化、技术创新）普遍遗漏了一个关键因素——亚洲的崛起及其引发的地缘政治[[Transfer Translation Transformation|转移]]。亚洲崛起不仅通过国际化政策影响了高等教育系统的构成方式，更通过知识的生产、传播和利用方式深刻改变了全球高等教育的格局（Rizvi, 2022, pp.89–90）。
 > - 思想位置：代表 Rizvi 将[[Critical Geopolitics|批判地缘政治学]]系统性地应用于[[Internationalization of Higher Education|高等教育国际化]]分析的成熟阶段。
 > - 相关概念／理论：[[Critical Geopolitics]]、[[Internationalization of Higher Education]]、[[Transnational Research Collaboration in Higher Education]]
 >

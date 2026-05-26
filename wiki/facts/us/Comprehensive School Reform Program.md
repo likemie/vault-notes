@@ -88,7 +88,7 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／理论
 > - [[Evidence-Based Reform]] — CSR 是该政策框架的早期试运行
-> - [[Evidence-Based Education]] — CSR 是将 EBE 理念转化为法律机制的首个案例
+> - [[Evidence-Based Education]] — CSR 是将 EBE 理念[[Transfer Translation Transformation|转化]]为法律机制的首个案例
 
 ## 来源
 
