@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Knowledge Production]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"

@@ -12,13 +12,20 @@ tags:
   - theme/examination
   - theme/educational-policy
   - region/global
-related_concepts: []
+related_concepts:
+  - "[[Performance Indicators]]"
+  - "[[Learner-Centred Education]]"
+  - "[[Examination-Oriented Education]]"
+  - "[[Quality Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
-sources: []
+related_facts:
+  - "[[Civil Service Examination]]"
+related_arguments:
+  - "[[Argument_Wang_2025_CE]]"
+sources:
+  - "[[Wang_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26

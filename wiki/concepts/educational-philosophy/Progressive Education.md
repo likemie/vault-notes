@@ -12,13 +12,18 @@ tags:
   - field/progressive-education
   - theme/educational-reform
   - paradigm/pragmatism
-related_concepts: []
+related_concepts:
+  - "[[Student-Teacher Relationship]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[John Dewey]]"
+  - "[[Stanislav Shatskii]]"
+related_facts:
+  - "[[John Dewey's 1928 Visit to the Soviet Union]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ryabyy_2024_Maneto]]"
 confidence: low
 status: draft
 created: 2026-05-26

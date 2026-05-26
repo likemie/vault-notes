@@ -7,6 +7,7 @@ tags: ["theme/neoliberalism", "theme/subjectivity", "theme/employability"]
 related_concepts:
   - "[[Governmentality]]"
   - "[[Employability]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []

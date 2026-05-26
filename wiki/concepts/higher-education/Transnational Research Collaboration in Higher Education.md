@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Transfer]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Champ]]"

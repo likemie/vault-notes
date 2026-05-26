@@ -16,6 +16,7 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Cognitive Source]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
 related_theories: []

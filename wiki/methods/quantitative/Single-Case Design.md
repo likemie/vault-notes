@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[5-3-20 Rule]]"
   - "[[Gating Procedure]]"
   - "[[Theories of Policy Change]]"

@@ -17,6 +17,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hegemony]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[National Competitive Advantage]]"
   - "[[Knowledge Production]]"
   - "[[Classical Geopolitics]]"

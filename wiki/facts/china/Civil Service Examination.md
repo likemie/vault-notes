@@ -27,6 +27,7 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Li_2012_Cambridge]]"
+  - "[[Wang_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-22

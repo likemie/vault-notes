@@ -18,6 +18,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Doxa]]"
   - "[[Feedback]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Didaktik]]"
   - "[[Recommendations for Practice]]"
   - "[[Whole Language]]"
@@ -54,6 +55,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[John Dewey]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[John Locke]]"
   - "[[Gerald Grace]]"

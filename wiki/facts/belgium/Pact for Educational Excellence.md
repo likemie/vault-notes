@@ -21,8 +21,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[French-Speaking Belgium Education System]]"

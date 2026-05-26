@@ -16,7 +16,6 @@ related_concepts:
   - "[[Intrinsic vs Extrinsic Motivation]]"
 related_theories: []
 related_methods:
-  - "[[Matching]]"
   - "[[Experience Sampling Method]]"
 related_persons: []
 related_facts: []

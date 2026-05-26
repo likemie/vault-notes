@@ -19,13 +19,13 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Theories of Policy Change]]"
   - "[[Network Governance]]"
   - "[[Doxa]]"
   - "[[Selectivity]]"
 related_theories: []
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Innovation Union]]"

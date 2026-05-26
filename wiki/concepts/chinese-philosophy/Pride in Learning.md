@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Humility in Learning]]"
   - "[[Western Learner]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:

@@ -13,6 +13,8 @@ tags:
   - interpretivism
   - region/germany
 related_concepts:
+  - "[[Champ]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Corporate Education]]"
   - "[[Habitus]]"
 related_theories:
@@ -27,6 +29,7 @@ related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources:
   - "[[Ch11_Hartmann_2022]]"
+  - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
@@ -138,14 +141,14 @@ updated: 2026-05-26
 
 - **APA**：Weber, M. (1915–1920). *Die Wirtschaftsethik der Weltreligionen* [essays]. *Archiv für Sozialwissenschaft und Sozialpolitik*.
 - **核心内容**：通过儒教与道教、印度教与佛教、古代犹太教等比较研究，考察不同宗教伦理如何塑造经济行动、救赎路径和生活方式。
-- **思想位置**：这一组研究把《新教伦理》放进世界宗教比较框架中。印度、中国、以色列和前亚细亚成为检验西方理性主义路径独特性的比较场域（Michaels, 2001; Kippenberg & Riesebrodt, 2001）。
+- **思想位置**：这一组研究把《新教伦理》放进世界宗教比较框架中。印度、中国、以色列和前亚细亚成为检验西方理性主义路径独特性的比较[[Champ|场域]]（Michaels, 2001; Kippenberg & Riesebrodt, 2001）。
 - **相关概念／理论**：世界宗教经济伦理、生活方式、西方理性主义、世界形象。
 
 ### 1917/1919 — *Wissenschaft als Beruf*
 
 - **APA**：Weber, M. (1919). *Wissenschaft als Beruf*. Duncker & Humblot.（演讲发表于 1917 年）
 - **核心内容**：论述科学作为现代独立价值领域的意义，以及学术职业所要求的专业化、内在召唤、清醒和制度承受能力。
-- **思想位置**：这篇演讲把“世界的祛魅”转化为学术生活的伦理问题：科学不能替行动者决定终极价值，只能要求研究者在方法和责任上保持清明。
+- **思想位置**：这篇演讲把“世界的祛魅”[[Transfer Translation Transformation|转化]]为学术生活的伦理问题：科学不能替行动者决定终极价值，只能要求研究者在方法和责任上保持清明。
 - **相关概念／理论**：价值领域、祛魅、专业化、学术作为职业。
 
 ### 1919 — *Politik als Beruf*
@@ -235,7 +238,7 @@ updated: 2026-05-26
 
 ### 受其影响的学者与理论运用
 
-- **[[Pierre Bourdieu]]** 在实践理论中承袭并改造了 Weber 对行动意义、支配与合法性的关注；[[Habitus|习性]]概念一方面延续了对行动者意义世界的重视，另一方面把这种意义世界重新放回场域、资本和身体化历史中理解。
+- **[[Pierre Bourdieu]]** 在实践理论中承袭并改造了 Weber 对行动意义、支配与合法性的关注；[[Habitus|习性]]概念一方面延续了对行动者意义世界的重视，另一方面把这种意义世界重新放回[[Champ|场域]]、资本和身体化历史中理解。
 - **[[Ann Swidler]]** 的 [[Culture as Toolkit|文化工具箱]] 理论以 Weber-Parsons 的价值观驱动传统为对照，强调文化不只是定义行动目的的价值系统，也是一组可被行动者调用的符号、故事、仪式和策略工具。
 - **[[Yajun Zheng|郑雅君]]（2023）** 以韦伯诠释社会学作为全书认识论锚点，以工具/价值理性区分作为文化社会学讨论的起点；在分析大学生择业中的工作意义图式时援引韦伯的"扳道工"（switchman）假说——"直接支配人的行为的，不是理念，而是物质的和精神的兴趣。可是，由'理念'所创造出来的'世界形象'，往往像铁路上的扳道夫一样，决定了行动的轨道被兴趣推动的动力循着什么方向在行动"（郑雅君，2023，引 Weber, 2006）；在毕业出路产生机制的四分类模型中，以韦伯的价值理性概念作为横轴的理论基础。
 - **Hartmann (2022)** 以韦伯的权力-权威区分为起点，结合 DiMaggio & Powell 的[[Institutional Isomorphism|制度同构]]理论，分析[[Corporate Education|企业教育]]如何在强制型、模仿型和规范型同构三种机制中获取合法性（Hartmann, 2022, pp.182–184）。

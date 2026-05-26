@@ -20,7 +20,6 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Matching]]"
 related_persons: []
 related_facts:
   - "[[Promising Practices Network]]"

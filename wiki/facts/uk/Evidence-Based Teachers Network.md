@@ -15,8 +15,8 @@ tags:
   - theme/evidence-informed-practice
   - theme/teacher-professional-learning
 related_concepts:
-  - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Mobilisation]]"
 related_theories: []
 related_methods: []

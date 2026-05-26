@@ -16,12 +16,14 @@ tags:
   - region/china
   - level/k12
 related_concepts:
+  - "[[Progressive Education]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"
   - "[[Knowledge-Based Economy]]"
   - "[[One Country, Two Systems]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sinicisation]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
   - "[[World Society Theory]]"

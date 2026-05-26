@@ -29,6 +29,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[John Dewey]]"
   - "[[Immanuel Kant]]"
   - "[[Socrates]]"
 related_facts: []

@@ -15,6 +15,7 @@ related_concepts:
   - "[[Enculturation]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:

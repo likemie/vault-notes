@@ -26,8 +26,7 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_persons:
   - "[[Sami Moisio]]"
 related_facts: []

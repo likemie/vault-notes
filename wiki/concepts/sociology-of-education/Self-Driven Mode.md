@@ -20,8 +20,7 @@ related_concepts:
   - "[[Self-Authorship]]"
 related_theories:
   - "[[Culture as Toolkit]]"
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Marcia Baxter Magolda]]"

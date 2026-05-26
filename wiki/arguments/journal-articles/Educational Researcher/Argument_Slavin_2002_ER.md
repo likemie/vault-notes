@@ -19,7 +19,6 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods:
-  - "[[Matching]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:

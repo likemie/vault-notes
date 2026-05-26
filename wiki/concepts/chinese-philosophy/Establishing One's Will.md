@@ -16,9 +16,10 @@ tags:
   - theme/affect
 related_concepts:
   - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Learning Virtues]]"
-  - "[[Refined Mastery]]"
   - "[[Familiarization]]"
+  - "[[Refined Mastery]]"
   - "[[Western Learner]]"
   - "[[Ideal Learner]]"
 related_theories: []

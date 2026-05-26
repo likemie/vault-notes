@@ -13,6 +13,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Pragmatism in China]]"
   - "[[Quality Education]]"
+  - "[[Learner-Centred Education]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -25,6 +26,7 @@ related_arguments:
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
 sources:
   - "[[Schulte_2009_EncuentrosEducacion]]"
+  - "[[Wang_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26

@@ -10,6 +10,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Champ]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Visible Learning]]"
   - "[[Cult of the Guru]]"
 related_theories: []

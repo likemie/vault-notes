@@ -12,6 +12,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge-Based Economization]]"
   - "[[National Competitive Advantage]]"
   - "[[Spatial Sortings]]"

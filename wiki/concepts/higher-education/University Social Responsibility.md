@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Organizational Actorhood]]"
   - "[[Knowledge Production]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Global Citizenship]]"
   - "[[Otherhood]]"
 related_theories:

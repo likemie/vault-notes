@@ -20,7 +20,7 @@ related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Ann Swidler]]"
-  - "[[Max Weber1]]"
+  - "[[Max Weber]]"
 related_facts: []
 related_arguments: []
 sources:

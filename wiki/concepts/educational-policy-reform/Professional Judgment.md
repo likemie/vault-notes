@@ -12,6 +12,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Programme Fidelity vs Adaptation]]"
 related_theories:

@@ -18,6 +18,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Hegemony]]"
   - "[[Multiplicity]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Critical Geopolitics]]"

@@ -10,15 +10,19 @@ tags:
 - political-analysis
 - paradigm/critical
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Progressive Education]]"
 related_theories: []
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Observational and Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[John Dewey]]"
 related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
+  - "[[2019 Hong Kong Protests]]"
+  - "[[National Security Law]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
 sources:
@@ -42,7 +46,7 @@ updated: '2026-05-18'
 > Cuban (1992) 以美国为参照，识别了课程变革的三类主要外部来源：
 
 
-> [!abstract] 1. 进步教育运动
+> [!abstract] 1. [[Progressive Education|进步教育]]运动
 > 以学生参与和建构主义学习观为核心的进步教育运动在全球传播，被广泛推广为各国课程改革的核心方向。在 [[Liberal Studies|LS]] 案例中，这是创立阶段的主要论述资源。
 >
 > > 例：Yan & Morris (2025, pp. 486–487) 记录了 LS 创立阶段教育文件中对"以学生为中心"、"跨学科探究"、"批判性思维"、"独立专题探究（IES）"的反复强调——这些措辞直接源自进步教育运动的全球话语，并通过 IBDP 的课程框架（Extended Essay、Theory of Knowledge）获得具体形式。然而，当 LS 在 2021 年被 [[Citizenship and Social Development|CSD]] 取代时，这些进步教育话语被"爱国守法"、"国家认同"等国家安全话语完全覆盖——说明进步教育运动作为课程变革驱动力在高压政治语境下的脆弱性。
@@ -51,7 +55,7 @@ updated: '2026-05-18'
 > [!abstract] 2. 冷战与国防
 > 以国家安全和意识形态竞争为动力的课程变革。在 Cuban 写作时（1992），冷战已接近尾声。但在 LS 案例中，这一因素以"新冷战"（Brands & Gaddis, 2021）的形式重现——中美紧张关系被中共表述为西方发起的"新冷战"，为教育领域的国家安全化提供了外部框架。
 >
-> > 例：Yan & Morris (2025, pp. 490–491) 详细记录了"国家安全"如何从 LS 创立阶段的完全不存在，突变为 LS 废除阶段的压倒性因素。2019 年反修例运动后，中国官媒（如《人民日报》）将 LS 定性为年轻人参与抗议的"罪魁祸首"，将课程改革直接链接到"国家安全危机"。2020 年《香港国安法》的颁布为这一叙事提供了法律框架——至此，"国防/国家安全"不再仅仅是 Cuban 框架中的一个"因素"，而是成为决定所有其他因素是否被允许存在的元规则。
+> > 例：Yan & Morris (2025, pp. 490–491) 详细记录了"国家安全"如何从 LS 创立阶段的完全不存在，突变为 LS 废除阶段的压倒性因素。2019 年[[2019 Hong Kong Protests|反修例运动]]后，中国官媒（如《人民日报》）将 LS 定性为年轻人参与抗议的"罪魁祸首"，将课程改革直接链接到"国家安全危机"。2020 年《[[National Security Law|香港国安法]]》的颁布为这一叙事提供了法律框架——至此，"国防/国家安全"不再仅仅是 Cuban 框架中的一个"因素"，而是成为决定所有其他因素是否被允许存在的元规则。
 
 
 > [!abstract] 3. 立法与法律决定
@@ -61,7 +65,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 额外因素：影响力团体与关键个人
-> Cuban 还识别了出版商、慈善家等影响力团体（如 John Dewey、Edward L. Thorndike、Ralph W. Tyler）在课程变革中的作用。但在 LS 案例中，**非政治行动者的影响力**在创立期有限、在废除期完全不存在。
+> Cuban 还识别了出版商、慈善家等影响力团体（如 [[John Dewey]]、Edward L. Thorndike、Ralph W. Tyler）在课程变革中的作用。但在 LS 案例中，**非政治行动者的影响力**在创立期有限、在废除期完全不存在。
 
 ## 发展脉络
 
@@ -75,7 +79,7 @@ updated: '2026-05-18'
 
 | Cuban 因素 | [[Liberal Studies\|LS]] 诞生期 (2009) | LS 废除期 (2021) |
 |-----------|-----------------|-----------------|
-| 进步教育运动 | 强 —— 建构主义、IBDP 参照、探究学习 | 弱 —— 被国家安全话语压制 |
+| [[Progressive Education\|进步教育]]运动 | 强 —— 建构主义、IBDP 参照、探究学习 | 弱 —— 被国家安全话语压制 |
 | 冷战/国防 | 不存在 | 强 —— "新冷战"、国安法、反修例被定性为国家安全危机 |
 | 立法/法律决定 | 存在但经长期协商和公众咨询 | 直接自上而下、无协商 |
 | 影响力团体 | 强 —— 教协、教师组织、媒体 | 弱/被关闭 —— 教协解散、批评媒体受压 |
@@ -92,7 +96,7 @@ Yan & Morris (2025) 的核心理论贡献在于指出：Cuban 框架中各因素
 ## 争议与批评
 
 > [!warning] 美国中心主义：分权化框架适用于中央集权体系？
-> **争议背景**：Cuban (1992) 的框架建立在对美国分权化教育体系的历史分析上——其核心假设是课程变革由多个独立力量（进步教育运动、立法、利益团体）在分散权力结构中的博弈驱动。这一假设在中央集权体系中可能不成立。
+> **争议背景**：Cuban (1992) 的框架建立在对美国分权化教育体系的历史分析上——其核心假设是课程变革由多个独立力量（[[Progressive Education|进步教育]]运动、立法、利益团体）在分散权力结构中的博弈驱动。这一假设在中央集权体系中可能不成立。
 >
 > **各方立场**：
 > - **批评立场**：在高度中央集权的教育体系中（如中国香港的后 2019 语境），政府可以直接通过法律和行政命令推行课程变革，而无需与独立利益团体协商。Cuban 框架中的"多力量博弈"前提在这些体系中可能完全不存在。

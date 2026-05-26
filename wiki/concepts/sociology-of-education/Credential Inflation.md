@@ -15,6 +15,7 @@ related_concepts:
   - "[[Economy of Experience]]"
   - "[[Employability]]"
   - "[[Champ]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons:

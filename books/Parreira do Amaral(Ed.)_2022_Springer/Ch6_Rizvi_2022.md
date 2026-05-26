@@ -9,14 +9,14 @@ extracted_to:
   - "[[Knowledge Capitalism]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
   - "[[Classical Geopolitics]]"
+  - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Orientalism]]"
   - "[[Australia in the Asian Century White Paper]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[Fazal Rizvi]]"
   - "[[Network Society]]"
   - "[[Critical Geopolitics]]"
-  - "[[Geopolitics of Knowledge]]"
-  - "[[Orientalism]]"
 processed_date: 2026-05-10
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

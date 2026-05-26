@@ -19,6 +19,8 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Reusability Paradox]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Class Size]]"
 related_theories: []
 related_methods:

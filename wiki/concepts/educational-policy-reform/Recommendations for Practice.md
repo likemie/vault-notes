@@ -10,6 +10,7 @@ tags:
 - evidence-based-education
 - causal-inference
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:

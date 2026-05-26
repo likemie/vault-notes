@@ -20,6 +20,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Production]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []

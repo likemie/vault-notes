@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Promising Student]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
@@ -59,7 +60,7 @@ Deleuze 用"模具"（mold）和"调制"（modulation）的隐喻来区分两种
 
 ### 机构向网络的转化
 
-Deleuze 论证规训社会中的封闭机构正在被转化为"持续的网络"（continuous networks）。他写道：
+Deleuze 论证规训社会中的封闭机构正在被[[Transfer Translation Transformation|转化]]为"持续的网络"（continuous networks）。他写道：
 
 > [!quote]
 > "The family, the school, the army, the factory are no longer the distinct analogical spaces that converge towards an owner — state or private power — but coded figures — deformable and transformable — of a single corporation that now has only stockholders."（Deleuze, 1992, p.6）
@@ -75,7 +76,7 @@ Thompson 等人（2022, p.222）引入 Bächle（2016, p.164）的解读，将 D
 > [!success]
 > Thompson 等人（2022, pp.221–226）将控制社会理论应用于分析当代高等教育的三项治理转变：
 
-- [[Online Self-Assessment|OSA]] 作为调制工具：OSA 在入学之前就对潜在学生进行预判——这是一种先发制人的调制，将学生的入学前特征转化为可比较和可优化的数据点（pp.222–224）
+- [[Online Self-Assessment|OSA]] 作为调制工具：OSA 在入学之前就对潜在学生进行预判——这是一种先发制人的调制，将学生的入学前特征[[Transfer Translation Transformation|转化]]为可比较和可优化的数据点（pp.222–224）
 - "[[Promising Student|有前景的学生]]" 作为调制产物：[[Digital Self|数字自我]]（digital self）与[[Digital Optimum|数字最优]]（digital optimum）之间的持续差异驱动着永不终止的自我优化——这正是控制社会"没有解雇"逻辑的主体化表现（pp.224–226）
 - [[Competitiveness in Higher Education|高等教育竞争力]] 作为网络逻辑：大学被转化为地缘政治的机会节点——连接学生、教师、政府机构、商业服务提供者和自动化代理的网络枢纽（pp.219–222）
 

@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Production]]"
   - "[[Junzi]]"
 related_theories:

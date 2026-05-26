@@ -11,6 +11,7 @@ tags:
   - region/uk
   - method/quantitative
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
 related_theories: []

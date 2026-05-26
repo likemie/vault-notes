@@ -20,8 +20,7 @@ related_concepts:
 related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Phenomenology]]"
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_persons:
   - "[[Immanuel Kant]]"
   - "[[Gert Biesta]]"

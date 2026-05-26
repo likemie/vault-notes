@@ -20,6 +20,7 @@ tags:
   - theme/subjectification
 related_concepts:
   - "[[Performativity of Measurement]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Feedback]]"
   - "[[Educational Technology Industry]]"
   - "[[Online Self-Assessment]]"

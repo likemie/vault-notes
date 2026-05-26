@@ -18,6 +18,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Bildung]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[Lost Mode]]"

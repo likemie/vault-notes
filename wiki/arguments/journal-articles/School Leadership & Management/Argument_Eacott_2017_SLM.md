@@ -18,6 +18,7 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Effect Size]]"
   - "[[School Effectiveness]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:

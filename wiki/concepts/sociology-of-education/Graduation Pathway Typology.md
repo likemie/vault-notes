@@ -25,7 +25,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Max Weber1]]"
+  - "[[Max Weber]]"
 related_facts: []
 related_arguments: []
 sources:

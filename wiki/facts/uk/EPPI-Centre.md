@@ -16,6 +16,7 @@ tags:
   - theme/knowledge-mobilisation
 related_concepts:
   - "[[Knowledge Mobilisation]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []

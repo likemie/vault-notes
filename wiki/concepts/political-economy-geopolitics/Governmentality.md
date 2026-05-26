@@ -17,6 +17,7 @@ tags:
   - theme/governmentality
   - theme/subjectification
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
   - "[[Geopolitics of Knowledge]]"
@@ -35,7 +36,6 @@ related_concepts:
 related_theories:
   - "[[Societies of Control]]"
 related_methods:
-  - "[[Matching]]"
   - "[[Single-Case Design]]"
 related_persons: []
 related_facts: []

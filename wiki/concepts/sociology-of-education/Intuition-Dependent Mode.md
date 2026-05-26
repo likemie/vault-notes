@@ -11,6 +11,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Champ]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Symbolic Boundary]]"
@@ -27,8 +28,7 @@ related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory in Education]]"
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"

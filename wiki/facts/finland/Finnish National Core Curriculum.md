@@ -19,6 +19,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Performance Indicators]]"
   - "[[Epochal Key Problems]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Champ]]"
   - "[[Atomisation of Knowledge and Skills]]"
 related_theories:

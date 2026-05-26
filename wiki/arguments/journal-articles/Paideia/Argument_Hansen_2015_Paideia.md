@@ -18,6 +18,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Feedback]]"
   - "[[New Public Management]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:

@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Visible Learning]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons:

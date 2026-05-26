@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Global Regionalisms in Higher Education]]"
   - "[[Regulatory Regionalism]]"

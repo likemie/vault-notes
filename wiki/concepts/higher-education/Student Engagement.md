@@ -15,6 +15,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Habitus]]"

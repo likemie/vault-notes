@@ -15,10 +15,16 @@ tags:
 related_concepts: []
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Qian Mu]]"
+related_facts:
+  - "[[Citizenship and Social Development]]"
+  - "[[National Security Law]]"
+  - "[[Liberal Studies]]"
+  - "[[2019 Hong Kong Protests]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Vickers_2024_CE]]"
 confidence: high
 status: draft
 created: 2026-05-25

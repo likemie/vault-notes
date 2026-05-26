@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge-Based Economization]]"
 related_theories: []
 related_methods: []

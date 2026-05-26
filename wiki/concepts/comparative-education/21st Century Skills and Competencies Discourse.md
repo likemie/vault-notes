@@ -18,6 +18,7 @@ tags:
   - level/k-12
 related_concepts:
   - "[[Graduate Attributes]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Employability]]"
   - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economy]]"

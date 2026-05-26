@@ -15,6 +15,7 @@ tags:
 - theme/neoliberalism
 - theme/governmentality
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Performativity of Measurement]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Global Universities Rankings]]"

@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Feedback]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons:

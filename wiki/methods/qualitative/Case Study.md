@@ -9,7 +9,9 @@ tags:
 - case-study
 - qualitative-research
 - methodology
-related_concepts: []
+related_concepts:
+  - "[[Learner-Centred Education]]"
+  - "[[Test-Based Accountability]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -17,6 +19,7 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_arguments:
   - "[[Argument_郑_2023_上海三联书店]]"
+  - "[[Argument_Wang_2025_CE]]"
 sources:
   - "[[郑_2023_上海三联书店]]"
 confidence: low

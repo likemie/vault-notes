@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Global Regionalisms in Higher Education]]"
   - "[[Regulatory Regionalism]]"
 related_theories:

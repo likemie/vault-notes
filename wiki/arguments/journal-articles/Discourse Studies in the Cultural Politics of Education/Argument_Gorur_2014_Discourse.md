@@ -15,6 +15,7 @@ tags:
 - comparative-education
 related_concepts:
   - "[[International Education]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Science and Technology Studies]]"
   - "[[Performance Indicators]]"
 related_theories:

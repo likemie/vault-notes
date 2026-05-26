@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Cultural Capital]]"
   - "[[Epistemology of Resistance]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods:

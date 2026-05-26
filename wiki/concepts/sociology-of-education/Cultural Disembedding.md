@@ -15,6 +15,7 @@ related_concepts:
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Habitus]]"
   - "[[Champ]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Sense of Shame]]"
   - "[[Cultural Disorientation]]"
   - "[[Lost Mode]]"

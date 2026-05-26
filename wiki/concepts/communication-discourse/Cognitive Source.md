@@ -16,6 +16,7 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Pride in Learning]]"
   - "[[Benevolence]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Confucian Tutoring Style]]"
 related_theories: []

@@ -21,6 +21,7 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Official Knowledge]]"
   - "[[Sinicisation]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[One Country, Two Systems]]"
 related_theories: []
 related_methods: []

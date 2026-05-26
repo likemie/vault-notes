@@ -15,12 +15,14 @@ tags:
   - psychologisation
   - region/hong-kong
   - region/china
-related_concepts: []
+related_concepts:
+  - "[[Psychologisation]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Citizenship and Social Development]]"
+  - "[[My Pledge to Act]]"
 related_arguments: []
 sources:
   - "[[Vickers_2024_CE]]"

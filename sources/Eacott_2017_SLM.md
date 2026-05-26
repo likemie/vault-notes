@@ -4,9 +4,9 @@ extracted_to:
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---

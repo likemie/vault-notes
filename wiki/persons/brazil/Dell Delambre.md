@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Social Museology]]"
   - "[[Ecomuseology]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Whole Sustainability]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Life Power]]"

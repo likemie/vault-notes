@@ -23,6 +23,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Evidence-Based Reform]]"
   - "[[Scientism]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Technical Rationality]]"
   - "[[New Public Management]]"
   - "[[Class Size]]"
@@ -47,7 +48,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Observational and Correlational Research]]"
-  - "[[Matching]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Dietrich Benner]]"

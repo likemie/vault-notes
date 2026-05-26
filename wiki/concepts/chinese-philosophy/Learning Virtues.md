@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Ideal Learner]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Refined Mastery]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Familiarization]]"

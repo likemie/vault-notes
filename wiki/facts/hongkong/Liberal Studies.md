@@ -13,11 +13,12 @@ tags:
 - region/china
 - level/k12
 related_concepts:
+  - "[[Examination-Oriented Education]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Externalization]]"
   - "[[Multiplicity]]"
   - "[[One Country, Two Systems]]"
   - "[[Policy Borrowing]]"
+  - "[[Progressive Education]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
   - "[[World Society Theory]]"
@@ -25,7 +26,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Citizenship and Social Development]]"
-  - "[[2019 Hong Kong Protests and Education]]"
+  - "[[2019 Hong Kong Protests]]"
 related_arguments: []
 sources:
   - "[[Yan_2025_JCS]]"

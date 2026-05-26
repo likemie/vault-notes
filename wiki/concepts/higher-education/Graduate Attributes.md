@@ -19,6 +19,7 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Revoicing]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Mixed Method and Multi-method Research]]"

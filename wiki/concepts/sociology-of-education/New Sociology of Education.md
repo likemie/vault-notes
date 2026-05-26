@@ -11,6 +11,7 @@ tags:
   - theme/educational-inequality
   - region/uk
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Champ]]"
   - "[[Political Arithmetic]]"
   - "[[School Effectiveness]]"

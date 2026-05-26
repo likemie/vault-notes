@@ -14,6 +14,7 @@ tags:
 - critical-discourse-analysis
 related_concepts:
   - "[[Justified Warrants]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
   - "[[Moral Sidestep]]"
 related_theories: []
@@ -21,6 +22,7 @@ related_methods:
   - "[[Carnivalesque Analysis]]"
   - "[[Observational and Correlational Research]]"
 related_persons:
+  - "[[John Dewey]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[Ofsted]]"
@@ -44,7 +46,7 @@ updated: '2026-05-18'
 >
 > 合法化不是一个纯粹的认识论过程（证据本身的质量决定接受度），而是一个社会-话语过程——证据需要在接收群体/组织的结构、过程和道德假设框架内被"合法化"才会产生影响。这意味着：同等质量的证据，与现有价值结构对齐的会被接受，不对齐的会被忽略或排斥。
 >
-> Bainbridge et al.（2022）将合法化理论与 Dewey 式的 正当理由（[[Justified Warrants]]） 概念结合，论证二者相互支持：正当理由提供了从证据到结论的逻辑标准，合法化理论解释了即使逻辑上合理的证据也会因价值不对齐而被拒绝的社会机制（p.9）。
+> Bainbridge et al.（2022）将合法化理论与 [[John Dewey|Dewey]] 式的 正当理由（[[Justified Warrants]]） 概念结合，论证二者相互支持：正当理由提供了从证据到结论的逻辑标准，合法化理论解释了即使逻辑上合理的证据也会因价值不对齐而被拒绝的社会机制（p.9）。
 >
 
 ## 核心命题：四个合法化层次
@@ -59,7 +61,7 @@ updated: '2026-05-18'
 >
 > **2. 道德价值合法化（Moral Value Legitimation）**
 > - 观点或行动与**组织或群体持有的道德价值**对齐时获得合法性
-> - 在教育政策中的表现：将 [[Ofsted]] 的技术评级"good"转化为道德判断——"[[Grammar School|文法学校]]是好的"
+> - 在教育政策中的表现：将 [[Ofsted]] 的技术评级"good"[[Transfer Translation Transformation|转化]]为道德判断——"[[Grammar School|文法学校]]是好的"
 > - 这是 Bainbridge et al. 识别的"建构型道德侧步"的核心机制——"good"（[[Ofsted]] 术语）被扭曲为道德上的"善"（Bainbridge et al., 2022, p.19, 27）
 >
 > **3. 理性合法化（Rational Legitimation）**
@@ -107,7 +109,7 @@ updated: '2026-05-18'
 ## 应用领域
 
 > [!success] 应用领域
-> - [[Grammar School]] — 文法学校的 [[Ofsted]] 评级通过权威合法化 + 道德价值合法化被转化为"好学校"话语
+> - [[Grammar School]] — 文法学校的 [[Ofsted]] 评级通过权威合法化 + 道德价值合法化被[[Transfer Translation Transformation|转化]]为"好学校"话语
 > - [[Moral Sidestep]] — 合法化理论解释了道德侧步为何有效：证据如果不能在接收方的价值框架内被合法化，会被道德话语替代
 > - [[Evidence-Based Education]] — 合法化理论对 EBE 的隐含前提（证据质量 → 政策影响力）提出挑战：合法化过程可能是证据到政策转化的关键中介变量
 >

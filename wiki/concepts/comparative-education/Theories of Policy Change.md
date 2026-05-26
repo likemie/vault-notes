@@ -11,11 +11,11 @@ tags:
   - region/global
 related_concepts:
   - "[[Performance Indicators]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Network Governance]]"
   - "[[Selectivity]]"
 related_theories: []
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals]]"

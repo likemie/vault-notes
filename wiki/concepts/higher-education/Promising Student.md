@@ -20,11 +20,11 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[Governmentality]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Societies of Control]]"
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []

@@ -14,6 +14,7 @@ tags:
 - geopolitics
 related_concepts:
   - "[[Knowledge Capitalism]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Classical Geopolitics]]"
   - "[[Orientalism]]"
   - "[[Knowledge Production]]"

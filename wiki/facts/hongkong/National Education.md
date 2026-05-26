@@ -19,6 +19,7 @@ related_concepts:
   - "[[Membership-Creating Function of Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[One Country, Two Systems]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Sinicisation]]"
   - "[[Psychologisation]]"
 related_theories:
@@ -28,6 +29,7 @@ related_persons: []
 related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
+  - "[[2019 Hong Kong Protests]]"
   - "[[National Security Law]]"
   - "[[Youth Development Blueprint]]"
   - "[[My Pledge to Act]]"

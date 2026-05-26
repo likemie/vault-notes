@@ -20,7 +20,6 @@ related_concepts:
   - "[[Working Memory]]"
 related_theories: []
 related_methods:
-  - "[[Matching]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"

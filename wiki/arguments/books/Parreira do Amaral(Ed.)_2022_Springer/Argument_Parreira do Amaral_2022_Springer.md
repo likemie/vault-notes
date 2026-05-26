@@ -35,6 +35,7 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Response-ability]]"
   - "[[Knowledge Transfer]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Critical Geopolitics]]"
 related_methods: []

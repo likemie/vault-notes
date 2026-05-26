@@ -21,6 +21,7 @@ related_concepts:
   - "[[Academic and Social Integration]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons:

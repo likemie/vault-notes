@@ -9,8 +9,8 @@ extracted_to:
   - "[[INES Lugano General Assembly 1991]]"
   - "[[International Indicators of Education Systems]]"
   - "[[A Nation at Risk 1983]]"
-  - "[[Sociology of Measurement]]"
   - "[[Norberto Bottani]]"
+  - "[[Sociology of Measurement]]"
 processed_date: 2026-05-01
 ---
 

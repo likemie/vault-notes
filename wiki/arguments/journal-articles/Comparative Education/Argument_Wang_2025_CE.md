@@ -15,13 +15,21 @@ tags:
   - theory/activity-theory
   - method/case-study
   - method/interview
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Test-Based Accountability]]"
+  - "[[Learner-Centred Education]]"
+  - "[[Recontextualization]]"
+related_theories:
+  - "[[Third Generation Activity Theory]]"
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Mixed Method and Multi-method Research]]"
+related_persons:
+  - "[[Yrjö Engeström]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Wang_2025_CE]]"
 part_of: ''
 status: draft
 created: 2026-05-26

@@ -15,6 +15,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Official Knowledge]]"
   - "[[Life Power]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods:

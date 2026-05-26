@@ -20,6 +20,7 @@ related_concepts:
   - "[[National Competitive Advantage]]"
   - "[[Hegemony]]"
   - "[[Economic Patriotism]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Spatial Sortings]]"
   - "[[International Education Hubs]]"
   - "[[Progressive Neoliberalism]]"

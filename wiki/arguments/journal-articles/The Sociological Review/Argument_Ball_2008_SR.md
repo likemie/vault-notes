@@ -18,6 +18,7 @@ related_concepts:
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons:

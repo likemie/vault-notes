@@ -19,7 +19,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Matching]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts: []

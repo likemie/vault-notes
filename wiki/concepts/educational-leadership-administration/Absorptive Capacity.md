@@ -14,6 +14,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Implementation Fidelity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Professional Judgment]]"
   - "[[Formative Assessment]]"
 related_theories: []

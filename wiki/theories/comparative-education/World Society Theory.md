@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Policy Borrowing]]"
   - "[[Geopolitics of Knowledge]]"
@@ -75,7 +76,7 @@ updated: '2026-05-18'
 
 - **全球扩散**：现代学校教育的基本形式（年龄分级、课程分类、标准化考试）在全球范围内趋同，动力是"更普遍的现代民族国家文化（西方）模型在全球的扩散"（Meyer et al., 1997，引自 Yan & Morris, 2025, p.482）
 - **西方模板**：扩散的方向是从西方（尤其是美国）向世界其他国家。Social Studies（Hamilton, 1973）和 Humanities（Stenhouse, 1968）——以"综合学科"替代"单一学科"的课程形式——最初在美英开发，随后扩散至全球（Yan & Morris, 2025, p.482）
-- **趋同机制**：通过工业化、城市化和国家建构的标准化过程实现，而非强迫性政策转移
+- **趋同机制**：通过工业化、城市化和国家建构的标准化过程实现，而非强迫性政策[[Transfer Translation Transformation|转移]]
 
 ### 大众教育的政治建构
 

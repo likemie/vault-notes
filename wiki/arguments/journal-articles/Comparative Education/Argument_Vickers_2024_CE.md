@@ -22,11 +22,13 @@ related_concepts:
   - "[[Culturalisation of Politics]]"
   - "[[Psychologisation]]"
   - "[[Zhonghua Minzu]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Multiplicity]]"
   - "[[Champ]]"
   - "[[Filial Piety]]"
   - "[[Benevolence]]"
   - "[[Orientalism]]"
+  - "[[Progressive Education]]"
 related_theories: []
 related_methods:
   - "[[Comparative Textbook Analysis]]"

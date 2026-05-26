@@ -13,6 +13,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Champ]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Habitus]]"
   - "[[Bildung]]"
   - "[[Goal-Controlled Mode]]"

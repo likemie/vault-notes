@@ -13,6 +13,7 @@ tags:
 - curriculum
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Feedback]]"
   - "[[Visible Learning]]"
 related_theories: []

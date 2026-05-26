@@ -10,6 +10,7 @@ tags:
 - moral-judgment
 - paradigm/interpretivist
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Habitus]]"

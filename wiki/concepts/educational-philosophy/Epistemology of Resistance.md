@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Official Knowledge]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Life Power]]"
   - "[[Social Museology]]"
   - "[[Champ]]"

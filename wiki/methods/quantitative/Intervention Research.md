@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Evidence-Based Education]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"

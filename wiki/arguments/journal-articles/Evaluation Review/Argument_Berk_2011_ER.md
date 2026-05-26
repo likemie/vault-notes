@@ -20,7 +20,6 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Causal Modeling]]"
-  - "[[Matching]]"
   - "[[Meta-analysis]]"
   - "[[Observational and Correlational Research]]"
 related_persons: []

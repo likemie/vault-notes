@@ -19,7 +19,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Max Weber1]]"
+  - "[[Max Weber]]"
   - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments: []
@@ -66,7 +66,7 @@ updated: 2026-05-18
 > [!warning] 局限与批评
 > [[Yajun Zheng|郑雅君]]（2023）在综述中指出了 RAT 的两重局限：
 >
-> 1. **文化社会学的批评**：工具理性之下的效用计算模式"远不能概括生涯选择的全部合理性"——思想、信念、情感、价值、信仰等内在化的人类思想生活，"和利益一样对于理解人类行动是不可或缺的"（郑雅君，2023，引 Boudon, 2001; [[Max Weber1|Weber]]）
+> 1. **文化社会学的批评**：工具理性之下的效用计算模式"远不能概括生涯选择的全部合理性"——思想、信念、情感、价值、信仰等内在化的人类思想生活，"和利益一样对于理解人类行动是不可或缺的"（郑雅君，2023，引 Boudon, 2001; [[Max Weber|Weber]]）
 >
 > 2. **Hodkinson & Sparkes（1997）的修正**：学生的决策基于他们自身已经了解的信息，而这些信息自然是有偏颇的——决策与家庭背景、文化背景和生活经历密不可分。理性选择是[[Pragmatism in China|实用主义]]式的个体选择，但深受[[Habitus|习性]]影响（郑雅君，2023，引 Hodkinson & Sparkes, 1997）
 >

@@ -9,7 +9,8 @@ tags:
   - theme/curriculum
   - theme/ideology
   - paradigm/critical
-related_concepts: []
+related_concepts:
+  - "[[Knowledge Production]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -17,6 +18,7 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Yu_2024_CE]]"
+  - "[[Xu_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-21

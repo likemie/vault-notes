@@ -13,6 +13,7 @@ tags:
 - capability-approach
 related_concepts:
   - "[[Global Universities Rankings]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Employability]]"
 related_theories:
   - "[[Capability Approach in Education]]"

@@ -22,6 +22,7 @@ related_concepts:
   - "[[Self-Entrepreneur]]"
   - "[[Governmentality]]"
   - "[[Academic Engagement]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Goal-Controlled Mode]]"
 related_theories: []
 related_methods:

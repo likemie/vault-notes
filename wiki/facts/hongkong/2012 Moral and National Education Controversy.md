@@ -18,7 +18,9 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[National Education]]"
   - "[[Liberal Studies]]"
+  - "[[2019 Hong Kong Protests]]"
 related_arguments: []
 sources:
   - "[[Yan_2025_JCS]]"

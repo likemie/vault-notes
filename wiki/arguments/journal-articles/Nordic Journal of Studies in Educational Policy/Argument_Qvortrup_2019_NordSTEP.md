@@ -18,6 +18,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Structural Coupling]]"
   - "[[Feedback]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Effect Size]]"
 related_theories:
   - "[[Bounded Rationality]]"

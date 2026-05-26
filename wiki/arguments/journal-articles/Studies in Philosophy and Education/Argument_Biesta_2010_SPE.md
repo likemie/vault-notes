@@ -24,7 +24,8 @@ related_theories:
 related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Randomised Controlled Trials]]"
-related_persons: []
+related_persons:
+  - "[[John Dewey]]"
 related_facts: []
 related_arguments: []
 sources:

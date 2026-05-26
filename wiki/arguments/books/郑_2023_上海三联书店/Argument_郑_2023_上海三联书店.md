@@ -62,7 +62,7 @@ related_methods:
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
-  - "[[Max Weber1]]"
+  - "[[Max Weber]]"
   - "[[Ann Swidler]]"
   - "[[Marcia Baxter Magolda]]"
   - "[[Didier Eribon]]"

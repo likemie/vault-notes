@@ -16,6 +16,7 @@ tags:
 - social-justice
 - philosophy
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Global Universities Rankings]]"
 related_theories: []
 related_methods: []
@@ -68,7 +69,7 @@ updated: '2026-05-18'
 
 ### 在教育研究中的延伸应用
 
-- **2016 年**：Boyadjieva & Ilieva-Trichkova 将可行能力路径与新制度主义视角结合，发展了高等教育的多维使命模型——将五种教育价值重构为个体/社会两个层面与工具性/内在性/转化-赋权性三个维度的 2×3 矩阵（Boyadjieva, 2022, pp.128–130）。
+- **2016 年**：Boyadjieva & Ilieva-Trichkova 将可行能力路径与新制度主义视角结合，发展了高等教育的多维使命模型——将五种教育价值重构为个体/社会两个层面与工具性/内在性/[[Transfer Translation Transformation|转化]]-赋权性三个维度的 2×3 矩阵（Boyadjieva, 2022, pp.128–130）。
 - **2022 年**：Boyadjieva 将该模型应用于对 [[Global Universities Rankings|全球大学排名]] 的系统批判——论证排名仅覆盖了该矩阵中极小的一部分（个体-工具性和社会-工具性），系统性地忽略了高等教育的内在价值和转化/赋权价值（Boyadjieva, 2022, pp.132–136）。详见 [[Argument_Boyadjieva_2022_Springer]]。
 
 ---
@@ -83,7 +84,7 @@ updated: '2026-05-18'
 ## 应用领域
 
 > [!success]
-> - [[Global Universities Rankings]] — 为批判排名仅覆盖工具性价值、忽视内在和转化/赋权价值提供理论框架
+> - [[Global Universities Rankings]] — 为批判排名仅覆盖工具性价值、忽视内在和[[Transfer Translation Transformation|转化]]/赋权价值提供理论框架
 > - [[Pepka Boyadjieva]] 的高等教育多维使命模型 — 以五种教育价值为基础，重构为个体/社会 × 工具/内在/转化-赋权的 2×3 矩阵
 
 ---

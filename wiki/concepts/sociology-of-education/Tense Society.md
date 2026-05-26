@@ -9,6 +9,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods:

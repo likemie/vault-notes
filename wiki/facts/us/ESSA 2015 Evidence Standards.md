@@ -19,10 +19,9 @@ related_concepts:
   - "[[Preregistration]]"
 related_theories: []
 related_methods:
-  - "[[Matching]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Observational and Correlational Research]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[Logic Model]]"
 related_persons: []
 related_facts:

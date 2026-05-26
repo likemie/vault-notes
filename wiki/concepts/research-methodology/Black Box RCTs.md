@@ -19,7 +19,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Matching]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:

@@ -18,7 +18,7 @@ related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[Social Charter]]"
   - "[[Champ]]"
-  - "[[Employability]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Corporate University]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
@@ -27,7 +27,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Pepka Boyadjieva]]"
-  - "[[Max Weber1]]"
+  - "[[Max Weber]]"
   - "[[Ellen Hazelkorn]]"
 related_facts:
   - "[[Academic Ranking of World Universities]]"

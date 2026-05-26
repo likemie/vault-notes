@@ -16,6 +16,7 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Gert Biesta]]"
+  - "[[John Dewey]]"
   - "[[Wolfgang Klafki]]"
   - "[[John Hattie]]"
 related_facts: []

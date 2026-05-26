@@ -13,6 +13,7 @@ tags:
 - curriculum
 - visible-learning
 related_concepts:
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
 related_theories: []

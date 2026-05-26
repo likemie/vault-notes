@@ -14,13 +14,19 @@ tags:
   - theme/educational-reform
   - theme/learner-centred
   - region/global
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Test-Based Accountability]]"
+  - "[[Policy Borrowing]]"
+  - "[[Quality Education]]"
+  - "[[Examination-Oriented Education]]"
+related_theories:
+  - "[[Third Generation Activity Theory]]"
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Wang_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26

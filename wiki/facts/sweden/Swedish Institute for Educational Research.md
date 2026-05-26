@@ -16,6 +16,7 @@ tags:
   - policy/evidence-informed-policy
 related_concepts:
   - "[[Evidence-Informed Practice]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Knowledge Mobilisation]]"
 related_theories: []

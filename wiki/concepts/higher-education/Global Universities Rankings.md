@@ -19,6 +19,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Production]]"
   - "[[Competitiveness in Higher Education]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
   - "[[Preemptive Governance]]"

@@ -14,15 +14,13 @@ tags:
 - theme/cross-cultural-learning
 - source/li-2012-cambridge
 related_concepts:
-  - "[[Ritual Propriety]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Champ]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []
-related_persons:
-  - "[[George Berkeley]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"

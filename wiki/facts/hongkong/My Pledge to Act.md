@@ -14,12 +14,16 @@ tags:
   - psychologisation
   - national-education
   - region/hong-kong
-related_concepts: []
+related_concepts:
+  - "[[Psychologisation]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[2019 Hong Kong Protests]]"
   - "[[Citizenship and Social Development]]"
+  - "[[Youth Development Blueprint]]"
 related_arguments: []
 sources:
   - "[[Vickers_2024_CE]]"

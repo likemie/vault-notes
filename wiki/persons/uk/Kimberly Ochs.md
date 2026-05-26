@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Global Universities Rankings]]"
 related_theories: []
 related_methods: []
@@ -30,7 +31,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Kimberly Ochs 是比较教育学者，与 [[David Phillips]] 合作开发了[[Policy Borrowing|政策借用]]四阶段模型和[[Cross-National Attraction|跨国吸引]]力结构性类型学——教育政策转移研究领域的基础性分析框架。她的博士论文（牛津大学，2005）进一步深化了对政策借用与教育改革和创新之间关系的理论化。
+> Kimberly Ochs 是比较教育学者，与 [[David Phillips]] 合作开发了[[Policy Borrowing|政策借用]]四阶段模型和[[Cross-National Attraction|跨国吸引]]力结构性类型学——教育政策[[Transfer Translation Transformation|转移]]研究领域的基础性分析框架。她的博士论文（牛津大学，2005）进一步深化了对政策借用与教育改革和创新之间关系的理论化。
 
 ## 生平与职涯
 
@@ -50,7 +51,7 @@ updated: '2026-05-19'
 ## 核心思想
 
 > [!info] 政策文本与政策话语的区分
-> Ochs 在 Ball (1994) 的基础上，对教育政策转移做出了重要区分（Rappleye, 2006, p. 233, 227）：
+> Ochs 在 Ball (1994) 的基础上，对教育政策[[Transfer Translation Transformation|转移]]做出了重要区分（Rappleye, 2006, p. 233, 227）：
 > - **政策文本（Policy Text）：** 可被转移的具体书面政策内容
 > - **政策话语（Policy Discourse）：** 关于教育的谈论、概念化和框架化方式——可以脱离伴随政策而独立转移
 >

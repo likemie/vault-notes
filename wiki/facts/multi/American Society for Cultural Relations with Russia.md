@@ -13,13 +13,18 @@ tags:
   - theme/us-soviet-relations
   - region/us
   - region/russia
-related_concepts: []
+related_concepts:
+  - "[[Cultural Diplomacy]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[John Dewey]]"
+  - "[[Anatoly Lunacharsky]]"
+related_facts:
+  - "[[John Dewey's 1928 Visit to the Soviet Union]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ryabyy_2024_Maneto]]"
 confidence: medium
 status: draft
 created: 2026-05-26

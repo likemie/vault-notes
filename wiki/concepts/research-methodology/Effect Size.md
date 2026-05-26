@@ -22,6 +22,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Publication Bias]]"
   - "[[Developer Effect]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Class Size]]"
   - "[[Global Universities Rankings]]"
   - "[[Feedback]]"

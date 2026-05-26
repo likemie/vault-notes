@@ -11,6 +11,7 @@ tags:
 - biology
 - neuroscience
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Posthumanism]]"
 related_theories:
   - "[[Autopoiesis]]"

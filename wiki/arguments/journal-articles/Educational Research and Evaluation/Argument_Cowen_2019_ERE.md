@@ -21,6 +21,7 @@ related_concepts:
   - "[[Opportunist Mode]]"
   - "[[Champ]]"
   - "[[Effect Size]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Feedback]]"
   - "[[Policy Borrowing]]"
 related_theories:
@@ -28,7 +29,6 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
-  - "[[Matching]]"
 related_persons: []
 related_facts:
   - "[[Grammar School]]"

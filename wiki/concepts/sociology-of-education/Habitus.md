@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Champ]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[The Shock of the Elite]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Self-Authorship]]"
@@ -22,7 +23,6 @@ related_concepts:
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods:
-  - "[[Matching]]"
   - "[[In-depth Interview]]"
   - "[[Constructivist Grounded Theory]]"
 related_persons:

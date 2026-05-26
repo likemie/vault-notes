@@ -12,7 +12,8 @@ tags:
   - theme/national-education
   - region/hong-kong
   - region/china
-related_concepts: []
+related_concepts:
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []

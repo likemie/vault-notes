@@ -12,6 +12,7 @@ tags:
   - theme/social-relations
   - field/comparative-education
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Five Cardinal Relationships]]"
   - "[[Ritual Propriety]]"
   - "[[Self-Cultivation]]"

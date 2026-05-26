@@ -6,10 +6,10 @@ extracted_to:
   - "[[Epistemological Vigilance]]"
   - "[[Doxa]]"
   - "[[Theory Movement in Educational Administration]]"
-  - "[[Thomas Barr Greenfield]]"
-  - "[[Helen Gunter]]"
   - "[[Scott Eacott]]"
+  - "[[Thomas Barr Greenfield]]"
   - "[[Pierre Bourdieu]]"
+  - "[[Helen Gunter]]"
 processed_date: 2026-05-02
 ---
 

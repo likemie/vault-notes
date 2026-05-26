@@ -14,11 +14,12 @@ related_concepts:
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
   - "[[Further Education]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Varieties of Capitalism]]"
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[Max Weber1]]"
+  - "[[Max Weber]]"
 related_facts: []
 related_arguments: []
 sources:

@@ -16,6 +16,7 @@ related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Self-Driven Mode]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []

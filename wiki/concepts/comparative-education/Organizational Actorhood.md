@@ -14,6 +14,7 @@ related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[University Social Responsibility]]"
   - "[[Global Citizenship]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"

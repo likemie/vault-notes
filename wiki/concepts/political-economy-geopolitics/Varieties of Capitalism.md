@@ -12,6 +12,7 @@ tags:
 - subject/comparative-political-economy
 related_concepts:
   - "[[Corporate Education]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Corporate University]]"
 related_theories: []
 related_methods: []

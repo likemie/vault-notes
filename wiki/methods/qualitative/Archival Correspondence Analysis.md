@@ -12,13 +12,17 @@ tags:
   - method/historical
   - method/document-analysis
   - paradigm/interpretivist
-related_concepts: []
+related_concepts:
+  - "[[International Education]]"
 related_theories: []
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
-related_persons: []
-related_arguments: []
-sources: []
+related_persons:
+  - "[[John Dewey]]"
+related_arguments:
+  - "[[Argument_Ryabyy_2024_Maneto]]"
+sources:
+  - "[[Ryabyy_2024_Maneto]]"
 confidence: medium
 status: draft
 created: 2026-05-26

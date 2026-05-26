@@ -15,6 +15,7 @@ tags:
 - late-qing
 related_concepts:
   - "[[Cross-National Attraction]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"
 related_theories: []

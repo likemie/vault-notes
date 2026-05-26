@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Evidence-Based Education]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Production]]"
   - "[[Otherhood]]"
   - "[[Epistemic Drift]]"

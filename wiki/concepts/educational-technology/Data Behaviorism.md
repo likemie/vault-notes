@@ -12,6 +12,7 @@ tags:
   - theme/digitalization
   - paradigm/critical
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Production]]"
   - "[[Learning Analytics]]"
   - "[[Bildung]]"

@@ -20,6 +20,7 @@ related_concepts:
   - "[[Moral Sidestep]]"
 related_theories:
   - "[[Critical Realism]]"
+  - "[[Third Generation Activity Theory]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -28,6 +29,7 @@ related_methods:
 related_persons:
   - "[[Sean McCusker]]"
   - "[[John Hattie]]"
+  - "[[Yrjö Engeström]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
 sources:
@@ -89,7 +91,7 @@ updated: '2026-05-19'
 > - [[Evidence-Based Reform]] — 直接针对 [[EEF Teaching and Learning Toolkit]] 和 [[John Hattie|Hattie]] [[Visible Learning]] 提供技术批评（Simpson [[Effect Size|效应量]]问题、Blatchford 教学助理被误用、体育参与案例等）
 > - [[Effect Size]] — 与 Simpson 的技术批判配合，通过 EEF Toolkit 体育参与案例展示效应量从原始研究到[[Meta-meta-analysis|元-元分析]]的三级聚合失真
 > - **Pawson 的实在论综合（Realist Synthesis）** — 推广 Pawson (2006) 的替代方案：研究综述应基于因果理论而非统计平均
-> - **文化-历史活动理论（CHAT）** — 将 Engeström 的活动理论与[[Critical Realism|批判实在论]]结合，为教育研究提供更丰富的本体论框架
+> - **文化-历史[[Third Generation Activity Theory|活动理论]]（CHAT）** — 将 [[Yrjö Engeström|Engeström]] 的活动理论与[[Critical Realism|批判实在论]]结合，为教育研究提供更丰富的本体论框架
 > - [[Moral Sidestep]] — 其对 EEF Toolkit 的方法论批判被 Bainbridge et al.（2022, p.3）引用，作为讨论英国议会选择性教育政策辩论中证据"被回避"问题的理论基础
 
 ## 思想发展与影响

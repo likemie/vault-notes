@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Theories of Policy Change]]"
   - "[[Performance Indicators]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Network Governance]]"
   - "[[Neocorporatism]]"
   - "[[Selectivity]]"

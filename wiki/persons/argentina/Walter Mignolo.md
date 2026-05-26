@@ -16,6 +16,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Corporate University]]"
   - "[[Life Power]]"
   - "[[Social Museology]]"

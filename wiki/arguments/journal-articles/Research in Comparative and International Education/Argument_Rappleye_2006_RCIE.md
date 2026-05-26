@@ -13,6 +13,7 @@ tags:
 - comparative-education
 - region/global
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Cross-National Attraction]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"

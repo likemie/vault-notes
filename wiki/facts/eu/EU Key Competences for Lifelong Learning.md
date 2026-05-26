@@ -17,6 +17,7 @@ tags:
   - theme/assessment
   - policy/lifelong-learning
 related_concepts:
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Employability]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []

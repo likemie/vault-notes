@@ -9,17 +9,21 @@ tags:
   - in-depth-interview
   - qualitative-research
   - paradigm/interpretivist
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Learner-Centred Education]]"
+  - "[[Test-Based Accountability]]"
+related_theories:
+  - "[[Third Generation Activity Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Case Study]]"
 related_persons:
-  - "[[Max Weber1]]"
+  - "[[Max Weber]]"
   - "[[Yajun Zheng]]"
 related_arguments:
   - "[[Argument_郑_2023_上海三联书店]]"
   - "[[Argument_Yu_2024_CE]]"
+  - "[[Argument_Wang_2025_CE]]"
 sources:
   - "[[郑_2023_上海三联书店]]"
   - "[[Yu_2024_CE]]"

@@ -18,7 +18,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Matching]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
 related_facts:

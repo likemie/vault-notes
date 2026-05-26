@@ -14,10 +14,12 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Transactional Epistemology]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Dewey]]"
 related_facts: []
 related_arguments: []
 sources:

@@ -13,6 +13,7 @@ tags:
 - region/us
 related_concepts:
   - "[[International Education]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
@@ -32,7 +33,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Gita Steiner-Khamsi 是比较教育和[[International Education|国际教育]]政策研究领域的领军学者，专注于教育政策转移（educational transfer）的政治维度。她对[[Policy Borrowing|政策借用]]（policy borrowing）和借出（lending）的[[Luhmann's Systems Theory|系统理论]]化，以及对全球化时代教育政策转移中新行动者和新动态的识别，深刻影响了该领域的研究议程。
+> Gita Steiner-Khamsi 是比较教育和[[International Education|国际教育]]政策研究领域的领军学者，专注于教育政策[[Transfer Translation Transformation|转移]]（educational transfer）的政治维度。她对[[Policy Borrowing|政策借用]]（policy borrowing）和借出（lending）的[[Luhmann's Systems Theory|系统理论]]化，以及对全球化时代教育政策转移中新行动者和新动态的识别，深刻影响了该领域的研究议程。
 
 ## 生平与职涯
 
@@ -44,15 +45,15 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Steiner-Khamsi, G. (2000). Transferring education, displacing reforms. In J. Schriewer (Ed.), *Discourse Formation in Comparative Education*. Frankfurt: Peter Lang. — 系统论述教育转移的政治维度，强调关注行动者和受益者
+> - Steiner-Khamsi, G. (2000). Transferring education, displacing reforms. In J. Schriewer (Ed.), *Discourse Formation in Comparative Education*. Frankfurt: Peter Lang. — 系统论述教育[[Transfer Translation Transformation|转移]]的政治维度，强调关注行动者和受益者
 > - Steiner-Khamsi, G. (Ed.) (2004a). *The Global Politics of Educational Borrowing and Lending*. New York: Teachers College Press. — [[Policy Borrowing|政策借用]]与借出的全球政治纲领性文集
-> - Steiner-Khamsi, G. (2004b). Social network analysis and diffusion of innovation revisited: The Maris O'Rourke Effect in [[International Education|international education]]. Conference paper, German Educational Research Association, Zürich. — 识别跨国教育政策中个体行动者的网络影响力
+> - Steiner-Khamsi, G. (2004b). Social network analysis and diffusion of innovation revisited: The Maris O'Rourke Effect in [[International Education]]. Conference paper, German Educational Research Association, Zürich. — 识别跨国教育政策中个体行动者的网络影响力
 > - Steiner-Khamsi, G. (2012). Understanding policy borrowing and lending. In G. Steiner-Khamsi & F. Waldow (Eds.), *World Yearbook of Education 2012: Policy Borrowing in Education*. — 系统化政策借用分析框架
 
 ## 核心思想
 
 > [!info] [[Policy Borrowing|政策借用]]的政治性
-> Steiner-Khamsi 的核心洞见是：教育政策借用本质上是一个政治过程，而非中立的"最佳实践"转移。她明确提出研究方向应从考察"借用了什么"转向考察"谁在借用、为何借用、借用的效果如何"。
+> Steiner-Khamsi 的核心洞见是：教育政策借用本质上是一个政治过程，而非中立的"最佳实践"[[Transfer Translation Transformation|转移]]。她明确提出研究方向应从考察"借用了什么"转向考察"谁在借用、为何借用、借用的效果如何"。
 >
 > > Steiner-Khamsi 论证："we must direct our attention to agencies resisting, inverting, or indigenizing educational imports" (2000, p. 158，引自 Rappleye, 2006, p. 227)
 >
@@ -79,12 +80,12 @@ updated: '2026-05-19'
 > [!success] 主要贡献
 > - **[[Policy Borrowing|政策借用]]与借出（Policy Borrowing）的分析框架** — 系统化该领域的概念工具和研究议程
 > - **"Maris O'Rourke 效应"** — 识别个体行动者在跨国教育政策扩散中的网络效应（Steiner-Khamsi, 2004b）
-> - **对全球化的批判性分析** — 揭示全球教育政策转移中的权力不对称和修辞策略
+> - **对全球化的批判性分析** — 揭示全球教育政策[[Transfer Translation Transformation|转移]]中的权力不对称和修辞策略
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - Steiner-Khamsi 的研究深刻影响了比较教育的"[[Policy Borrowing|政策借用]]"转向，将分析焦点从"转移了什么"转向"谁在转移、为何转移"
+> - Steiner-Khamsi 的研究深刻影响了比较教育的"[[Policy Borrowing|政策借用]]"转向，将分析焦点从"[[Transfer Translation Transformation|转移]]了什么"转向"谁在转移、为何转移"
 > - 她的框架被 Rappleye (2006) 用作概念地图中"前转移能动性"和"改革行动者"部分的理论基础
 > - 影响了 Yan & Morris (2025) 对[[Liberal Studies|香港通识教育科]]创立与废除阶段的政策借用分析
 

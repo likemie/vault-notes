@@ -28,6 +28,7 @@ related_methods: []
 related_persons:
   - "[[Jean-Jacques Rousseau]]"
   - "[[Plato]]"
+  - "[[John Dewey]]"
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []

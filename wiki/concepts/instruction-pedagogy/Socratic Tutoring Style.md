@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Cognitive Source]]"
   - "[[Parental Cognitive and Affective Socialization]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Pride in Learning]]"
   - "[[Confucian Tutoring Style]]"
   - "[[Learning Virtues]]"

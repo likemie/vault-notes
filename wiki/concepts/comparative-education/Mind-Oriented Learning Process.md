@@ -14,6 +14,7 @@ tags:
   - field/cultural-psychology
 related_concepts:
   - "[[Western Learner]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Ideal Learner]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Examined Life]]"
@@ -21,6 +22,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[John Dewey]]"
   - "[[Socrates]]"
 related_facts: []
 related_arguments: []

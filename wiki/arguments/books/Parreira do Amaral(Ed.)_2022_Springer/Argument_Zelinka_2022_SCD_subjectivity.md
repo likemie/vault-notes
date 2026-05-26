@@ -11,6 +11,7 @@ related_concepts:
   - "[[Discursive Opportunity Structures]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
 related_theories: []

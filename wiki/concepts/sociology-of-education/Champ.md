@@ -25,7 +25,7 @@ related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
-  - "[[Max Weber1]]"
+  - "[[Max Weber]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []

@@ -15,6 +15,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Effect Size]]"
   - "[[Transformative Leadership]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Neo-Taylorism in Educational Administration]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Feedback]]"

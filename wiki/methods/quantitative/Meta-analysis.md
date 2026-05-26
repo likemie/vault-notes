@@ -17,6 +17,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Publication Bias]]"
   - "[[Whole Language]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Feedback]]"
   - "[[Statistical Significance]]"
   - "[[Class Size]]"
@@ -26,7 +27,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Observational and Correlational Research]]"
-  - "[[Matching]]"
 related_persons:
   - "[[John Hattie]]"
 related_arguments:

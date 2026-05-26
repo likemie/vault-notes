@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Policy Borrowing]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Student-Teacher Relationship]]"
@@ -25,7 +26,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Matching]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts: []

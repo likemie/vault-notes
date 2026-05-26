@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Narrative Knowledge]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"

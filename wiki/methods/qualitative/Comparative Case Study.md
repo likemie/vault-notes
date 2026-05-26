@@ -14,18 +14,23 @@ tags:
 - policy-analysis
 - method/qualitative
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[International Education Hubs]]"
   - "[[Cultural Diplomacy]]"
   - "[[Scale in Higher Education]]"
+  - "[[Graduate Attributes]]"
 related_theories:
   - "[[Cultural Political Economy]]"
 related_methods:
   - "[[Case Study]]"
+  - "[[Mixed Method and Multi-method Research]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Argument_SpronkenSmith_2024_AEHE]]"
 sources:
   - "[[Ch12_Erfurth_2022]]"
+  - "[[SpronkenSmith_2024_AEHE]]"
 related_facts:
   - "[[GATS and Trade in Education Services]]"
 confidence: medium

@@ -20,7 +20,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
-  - "[[Matching]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"

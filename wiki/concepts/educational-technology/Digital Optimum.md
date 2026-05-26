@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Professional Judgment]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Digital Self]]"
   - "[[Feedback]]"
   - "[[Bildung]]"

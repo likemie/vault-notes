@@ -14,6 +14,7 @@ related_concepts:
   - "[[Nerd]]"
   - "[[Intellectual-Social Divide]]"
 related_theories:
+  - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons:

@@ -16,11 +16,19 @@ tags:
   - policy/national-security
   - theme/curriculum-reform
   - theme/history-education
-related_concepts: []
+related_concepts:
+  - "[[One Country, Two Systems]]"
+  - "[[Zhonghua Minzu]]"
+  - "[[Whole Language]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Qian Mu]]"
+related_facts:
+  - "[[Liberal Studies]]"
+  - "[[National Security Law]]"
+  - "[[Citizenship and Social Development]]"
+  - "[[2012 Moral and National Education Controversy]]"
 related_arguments: []
 sources:
   - "[[Xu_2024_CE]]"

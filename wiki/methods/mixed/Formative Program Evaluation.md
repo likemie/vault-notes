@@ -18,6 +18,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Technology Infusion]]"
   - "[[Absorptive Capacity]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Logic Model]]"

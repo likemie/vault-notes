@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[5-3-20 Rule]]"
+  - "[[Theories of Policy Change]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:

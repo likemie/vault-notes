@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Recontextualization]]"
   - "[[Scientific Attitude]]"
+  - "[[Progressive Education]]"
   - "[[Pragmatism in China]]"
 related_theories: []
 related_methods: []
@@ -75,7 +76,7 @@ updated: 2026-05-26
 
 **3. 追赶与超越发达国家的目标设定**
 
-蒋梦麟将新教育的最终目标设定为"赶上甚至超越发达国家"（Jiang Menglin 1915, p.5; 1919d, p.29，引自 Zhou & Westberg, 2024, p.615）。这一目标设定使他倾向于以国际潮流——尤其是美国进步教育——为参照系，而非以中国既有条件为出发点。
+蒋梦麟将新教育的最终目标设定为"赶上甚至超越发达国家"（Jiang Menglin 1915, p.5; 1919d, p.29，引自 Zhou & Westberg, 2024, p.615）。这一目标设定使他倾向于以国际潮流——尤其是美国[[Progressive Education|进步教育]]——为参照系，而非以中国既有条件为出发点。
 
 **4. 新旧之间"殆无余地"**
 

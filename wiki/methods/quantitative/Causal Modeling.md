@@ -19,8 +19,8 @@ related_concepts:
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
-  - "[[Matching]]"
   - "[[Observational and Correlational Research]]"
+  - "[[Matching]]"
   - "[[Covariate Adjustment]]"
 related_persons: []
 related_arguments: []

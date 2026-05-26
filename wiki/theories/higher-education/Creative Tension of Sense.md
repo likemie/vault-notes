@@ -17,6 +17,7 @@ related_concepts:
   - "[[Ecomuseology]]"
   - "[[Epistemology of Resistance]]"
   - "[[Official Knowledge]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Life Power]]"
   - "[[Champ]]"
   - "[[Social Museology]]"
@@ -77,7 +78,7 @@ updated: '2026-05-18'
 > - **认识论**：反对现代性的封闭理性和主客二分。主张认识论、存在论与诠释学三者不可分离——在张力认识论中，不存在现成的语言来捕捉[[Ganz-Methode|整体进路]]的全部，因此允许"神秘"、"惊喜"、"着迷"、"脆弱"和"不可控"的出现（Delambre, 2022, p.113）
 > - **方法论取向**：以 [[Ganz-Methode]]（整体方法）为实践维度，从具体情境中的意义张力出发，强调承载而非解决张力。该方法不是中立的分析工具，而是深度介入性的——要求参与者同时暴露"生命价值"与"死亡价值"（Delambre, 2022, p.112–113, 117–118）
 >
-> > 例：在里约热内卢 Rocinha 贫民窟的剧场项目中，导演 [[Richard Castelo Branco]] 以"[[Epistemology of Resistance|抵抗认识论]]"指导戏剧创作，讲述贫民窟居民的暴力创伤故事。这种知识不被城市[[Official Knowledge|官方知识]]中心所使用，也不被转化为国家的经济资本——但在 Ganz-Methode 框架下，这种张力正是需要被承载并从中发现[[Life Power|生命力量]]的核心[[Champ|场域]]（Delambre, 2022, p.109–110）
+> > 例：在里约热内卢 Rocinha 贫民窟的剧场项目中，导演 [[Richard Castelo Branco]] 以"[[Epistemology of Resistance|抵抗认识论]]"指导戏剧创作，讲述贫民窟居民的暴力创伤故事。这种知识不被城市[[Official Knowledge|官方知识]]中心所使用，也不被[[Transfer Translation Transformation|转化]]为国家的经济资本——但在 Ganz-Methode 框架下，这种张力正是需要被承载并从中发现[[Life Power|生命力量]]的核心[[Champ|场域]]（Delambre, 2022, p.109–110）
 
 ## 争议与批评
 

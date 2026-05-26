@@ -19,6 +19,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Whole Language]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []

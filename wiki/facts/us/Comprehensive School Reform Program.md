@@ -19,6 +19,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []

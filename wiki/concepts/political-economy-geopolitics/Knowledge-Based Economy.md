@@ -18,6 +18,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Corporate Education]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
   - "[[International Education Hubs]]"
   - "[[Hub and Flow Imaginaries]]"

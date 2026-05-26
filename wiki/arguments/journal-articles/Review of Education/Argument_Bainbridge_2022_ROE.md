@@ -20,7 +20,8 @@ related_theories:
 related_methods:
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Carnivalesque Analysis]]"
-related_persons: []
+related_persons:
+  - "[[John Dewey]]"
 related_facts:
   - "[[Selective Schools Expansion Fund]]"
   - "[[Grammar School]]"

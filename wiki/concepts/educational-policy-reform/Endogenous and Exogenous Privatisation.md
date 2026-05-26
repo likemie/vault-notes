@@ -14,6 +14,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[New Public Management]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Entrepreneur]]"

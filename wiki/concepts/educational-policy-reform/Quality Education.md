@@ -12,8 +12,10 @@ tags:
   - theme/educational-policy
   - period/contemporary-china
 related_concepts:
+  - "[[Examination-Oriented Education]]"
   - "[[Recontextualization]]"
   - "[[Rote Learning]]"
+  - "[[Progressive Education]]"
   - "[[Sinicisation]]"
 related_theories: []
 related_methods: []
@@ -23,6 +25,7 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Schulte_2009_EncuentrosEducacion]]"
+  - "[[Wang_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26

@@ -14,6 +14,7 @@ related_concepts:
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
   - "[[Otherhood]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Epistemic Drift]]"

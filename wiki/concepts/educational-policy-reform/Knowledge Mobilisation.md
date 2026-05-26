@@ -19,6 +19,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []

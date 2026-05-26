@@ -21,7 +21,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
-  - "[[Matching]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []

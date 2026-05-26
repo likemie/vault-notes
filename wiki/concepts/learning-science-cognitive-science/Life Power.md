@@ -11,6 +11,7 @@ tags:
 related_concepts:
   - "[[Ecomuseology]]"
   - "[[Whole Sustainability]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods:

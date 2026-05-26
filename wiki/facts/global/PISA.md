@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Structured Teaching]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Policy Borrowing]]"
   - "[[Evidence-Based Education]]"
 related_theories: []

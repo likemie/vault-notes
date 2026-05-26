@@ -15,6 +15,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
 related_theories: []
 related_methods: []

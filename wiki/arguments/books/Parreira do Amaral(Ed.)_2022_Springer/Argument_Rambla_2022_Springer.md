@@ -15,6 +15,7 @@ tags:
 - lifelong-learning
 related_concepts:
   - "[[Performance Indicators]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Theories of Policy Change]]"
   - "[[Selectivity]]"
   - "[[Geopolitics of Knowledge]]"
@@ -28,7 +29,6 @@ related_concepts:
 related_theories:
   - "[[Appraisal Theory]]"
 related_methods:
-  - "[[Matching]]"
   - "[[Comparative Case Study]]"
 related_persons: []
 related_facts:

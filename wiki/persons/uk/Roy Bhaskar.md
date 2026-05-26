@@ -14,6 +14,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods: []
@@ -79,7 +80,7 @@ updated: '2026-05-19'
 
 > [!warning] 争议与批评
 > - **术语的可及性**：Bhaskar 的写作以高度抽象和术语密集著称（"深层实在"、"涌现"、"实际化"），对非哲学背景的研究者和实践者构成严重的可及性障碍
-> - **方法论转化的困难**：[[Critical Realism|批判实在论]]提供了丰富的哲学框架，但从本体论原则到具体研究方法的转化路径一直存在争议——Pawson 的"实在论综合"是少数系统尝试之一
+> - **方法论[[Transfer Translation Transformation|转化]]的困难**：[[Critical Realism|批判实在论]]提供了丰富的哲学框架，但从本体论原则到具体研究方法的转化路径一直存在争议——Pawson 的"实在论综合"是少数系统尝试之一
 
 ## 来源
 

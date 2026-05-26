@@ -16,12 +16,12 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Corporate University]]"
   - "[[Varieties of Capitalism]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Institutional Isomorphism]]"
 related_methods: []
-related_persons:
-  - "[[Max Weber1]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"

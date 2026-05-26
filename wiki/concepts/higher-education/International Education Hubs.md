@@ -18,6 +18,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Cultural Diplomacy]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"

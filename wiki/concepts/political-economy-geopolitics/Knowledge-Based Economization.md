@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Geopolitical Subject]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Economic Patriotism]]"
   - "[[Doxa]]"
   - "[[Knowledge Production]]"

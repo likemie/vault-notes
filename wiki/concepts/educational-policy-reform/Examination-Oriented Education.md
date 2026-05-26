@@ -5,20 +5,29 @@ aliases:
   - exam-oriented education
   - examination-driven education
   - yingshi jiaoyu
-summary: "以标准化考试成绩为教育质量核心衡量指标的教学与评价体系，在中国可追溯至科举制度，由教师主导教学法、多层问责规则、家长支持和社会流动信念共同维持，You（2019）将其诊断为'在现实和实质中'的主导系统"
+summary: "以标准化考试成绩为教育质量核心衡量指标的教学与评价体系，在中国可追溯至科举制度，由教师主导教学法、多层问责规则、家长支持和社会流动信念共同维持，You（2019）将其诊断为在现实和实质中运作的主导系统"
 type: concept
 tags:
   - region/china
   - theme/examination
   - theme/educational-policy
   - theme/accountability
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Quality Education]]"
+  - "[[Learner-Centred Education]]"
+  - "[[Rote Learning]]"
+  - "[[Test-Based Accountability]]"
+related_theories:
+  - "[[Third Generation Activity Theory]]"
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
-sources: []
+related_facts:
+  - "[[Civil Service Examination]]"
+related_arguments:
+  - "[[Argument_Wang_2025_CE]]"
+sources:
+  - "[[Wang_2025_CE]]"
+  - "[[Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-26

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Governmentality]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Performativity of Measurement]]"
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
@@ -26,10 +27,9 @@ related_concepts:
   - "[[Bildung]]"
 related_theories:
   - "[[Societies of Control]]"
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_persons:
-  - "[[Max Weber1]]"
+  - "[[Max Weber]]"
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []

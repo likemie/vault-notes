@@ -11,7 +11,8 @@ tags:
 - curriculum-theory
 - education-history
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Progressive Education]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
 related_methods: []
@@ -42,7 +43,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Cuban's Curriculum Change Theory]] — 识别了课程变革的三类外部因素：进步教育运动、冷战/国防、立法法律决定，以及影响力团体和关键个人的作用
+> - [[Cuban's Curriculum Change Theory]] — 识别了课程变革的三类外部因素：[[Progressive Education|进步教育]]运动、冷战/国防、立法法律决定，以及影响力团体和关键个人的作用
 > - **教育改革的持久性分析** — 揭示了为何学校改革常常"失败"——不是因为变革没有发生，而是因为变革的持久性受限于体制惯性
 > - **教学法的技术变革批判** — 在"教师与机器"的研究中指出，技术变革很少真正改变课堂实践的核心模式
 
@@ -63,7 +64,7 @@ updated: '2026-05-19'
 ## 争议与批评
 
 > [!warning] 美国中心主义：分权化框架的语境局限
-> Cuban 的分析基于美国分权化的教育体系——其中多个独立力量（进步教育运动、立法、利益团体）在分散权力结构中博弈。Yan & Morris (2025, p. 481) 将 Cuban 框架应用于香港的中央集权体系，发现其解释力高度依赖政治语境的开放程度：在 [[Liberal Studies|LS]] 创立阶段（存在多方协商）框架仍有解释力，但在 LS 废除阶段（《国安法》框架下协商机制被关闭）框架部分因素完全失效。这被 Yan & Morris 视为框架适用性的"条件边界"而非框架本身的失败。
+> Cuban 的分析基于美国分权化的教育体系——其中多个独立力量（[[Progressive Education|进步教育]]运动、立法、利益团体）在分散权力结构中博弈。Yan & Morris (2025, p. 481) 将 Cuban 框架应用于香港的中央集权体系，发现其解释力高度依赖政治语境的开放程度：在 [[Liberal Studies|LS]] 创立阶段（存在多方协商）框架仍有解释力，但在 LS 废除阶段（《国安法》框架下协商机制被关闭）框架部分因素完全失效。这被 Yan & Morris 视为框架适用性的"条件边界"而非框架本身的失败。
 
 
 > [!warning] 因素静态性：权重动态变化问题

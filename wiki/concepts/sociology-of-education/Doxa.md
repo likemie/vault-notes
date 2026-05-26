@@ -19,10 +19,10 @@ related_concepts:
   - "[[Nerd]]"
   - "[[Talent Assumption]]"
   - "[[Epistemological Break]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Phenomenology]]"
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Plato]]"

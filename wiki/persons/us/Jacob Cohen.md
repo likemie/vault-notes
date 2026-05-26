@@ -13,6 +13,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Statistical Significance]]"
   - "[[Visible Learning]]"
 related_theories: []
@@ -48,7 +49,7 @@ updated: '2026-05-19'
 ## 核心思想
 
 > [!info] 核心思想
-> Cohen 的[[Effect Size|效应量]]框架把均值差转化为标准差单位，使不同量表下的差异可以被放在同一统计表达中比较。Cohen 在实践中使用 none/small/medium/large 的分类，常见阈值包括 0.2、0.5、0.8 等；但这些词相对于研究领域和具体方法而成立，不应被当作机械阈值（Allerup, 2015, pp.43–44）。
+> Cohen 的[[Effect Size|效应量]]框架把均值差[[Transfer Translation Transformation|转化]]为标准差单位，使不同量表下的差异可以被放在同一统计表达中比较。Cohen 在实践中使用 none/small/medium/large 的分类，常见阈值包括 0.2、0.5、0.8 等；但这些词相对于研究领域和具体方法而成立，不应被当作机械阈值（Allerup, 2015, pp.43–44）。
 >
 > Terhart 记录 Cohen 曾用身高差异解释 d=1.0 的直观含义：若两组平均身高分别约为 160cm 和 183cm，这种差异"肉眼可见"；这一例子说明 Cohen 的 d 本来是一种标准化差异语言，而不是教育改进价值的直接排序表（Terhart, 2011, p.427）。
 

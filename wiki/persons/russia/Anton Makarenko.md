@@ -17,14 +17,13 @@ tags:
   - theme/collective-education
   - theme/labor-education
 related_concepts:
+  - "[[International Education]]"
   - "[[Progressive Education]]"
-  - "[[Classroom Management]]"
-  - "[[Student-Teacher Relationship]]"
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[Stanislav Shatskii]]"
   - "[[John Dewey]]"
+  - "[[Stanislav Shatskii]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -125,9 +124,9 @@ updated: 2026-05-26
 
 > [!success]
 > - **苏联教育学传统**：马卡连柯被塑造成苏联教育学的重要奠基人物之一，尤其与集体主义教育、劳动教育和少年再教育相连（Filonov, 1994）。
-> - **国际教育思想史**：1988 年，UNESCO 相关材料将他与 [[John Dewey]]、Georg Kerschensteiner 和 Maria Montessori 并列为影响 20 世纪教育思想的重要人物之一（Korablova, 2000）。
+> - **[[International Education|国际教育]]思想史**：1988 年，UNESCO 相关材料将他与 [[John Dewey]]、Georg Kerschensteiner 和 Maria Montessori 并列为影响 20 世纪教育思想的重要人物之一（Korablova, 2000）。
 > - **矫正教育与社会教育**：英语世界对他的再讨论常发生在 correctional education、group work 和 youth work 语境中，重点不在苏联意识形态，而在"如何让处境不利青少年通过共同生活获得新的社会身份"（Holtz, 2002; Gehring et al., 2005; Halvorsen, 2014）。
-> - **苏俄进步教育谱系**：与 [[Stanislav Shatskii]] 并列时，马卡连柯显示了苏俄[[Progressive Education|进步教育]]的另一条路线：Shatskii 更靠近乡村学校实验和 Dewey 式经验教育，马卡连柯更靠近矫正教育、集体组织和劳动公社（Ryabyy, 2024, pp.103-104）。
+> - **苏俄[[Progressive Education|进步教育]]谱系**：与 [[Stanislav Shatskii]] 并列时，马卡连柯显示了苏俄[[Progressive Education|进步教育]]的另一条路线：Shatskii 更靠近乡村学校实验和 Dewey 式经验教育，马卡连柯更靠近矫正教育、集体组织和劳动公社（Ryabyy, 2024, pp.103-104）。
 
 ---
 

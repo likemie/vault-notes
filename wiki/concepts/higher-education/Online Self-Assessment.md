@@ -20,13 +20,13 @@ tags:
 related_concepts:
   - "[[Digital Self]]"
   - "[[Learning Analytics]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Digital Optimum]]"
   - "[[Governmentality]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Societies of Control]]"
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []

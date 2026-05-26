@@ -10,6 +10,7 @@ tags:
 - region/new-zealand
 - region/global
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods: []

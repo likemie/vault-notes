@@ -14,6 +14,7 @@ tags:
   - theme/evidence-informed-practice
   - theme/knowledge-mobilisation
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Effective Teaching]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Informed Practice]]"

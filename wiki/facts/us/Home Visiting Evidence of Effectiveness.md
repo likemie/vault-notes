@@ -21,7 +21,6 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Matching]]"
   - "[[Single-Case Design]]"
 related_persons: []
 related_facts:

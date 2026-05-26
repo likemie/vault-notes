@@ -14,6 +14,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Global Universities Rankings]]"
   - "[[University Social Responsibility]]"
 related_theories: []

@@ -20,6 +20,7 @@ related_concepts:
   - "[[One Country, Two Systems]]"
   - "[[Filial Piety]]"
   - "[[Benevolence]]"
+  - "[[Progressive Education]]"
   - "[[Student Engagement]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
@@ -27,6 +28,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Liberal Studies]]"
+  - "[[2019 Hong Kong Protests]]"
   - "[[National Security Law]]"
 related_arguments: []
 sources:

@@ -18,6 +18,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons:

@@ -12,6 +12,7 @@ tags:
 - education-policy
 - region/global
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Transitology]]"
   - "[[Cross-National Attraction]]"
   - "[[Externalization]]"
@@ -19,11 +20,11 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Policy Entrepreneur]]"
   - "[[Global Citizenship]]"
+  - "[[Learner-Centred Education]]"
   - "[[School Autonomy]]"
 related_theories:
   - "[[World Society Theory]]"
 related_methods:
-  - "[[Matching]]"
   - "[[Comparative Case Study]]"
   - "[[Historical Document Analysis of Curriculum]]"
   - "[[Observational and Correlational Research]]"
@@ -44,6 +45,7 @@ sources:
   - "[[Rappleye_2006_RCIE]]"
   - "[[Golovchin_2019_ESC]]"
   - "[[Yan_2025_JCS]]"
+  - "[[Wang_2025_CE]]"
 confidence: high
 status: draft
 created: '2026-05-01'

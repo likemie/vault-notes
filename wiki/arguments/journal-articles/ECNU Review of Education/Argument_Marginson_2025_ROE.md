@@ -32,7 +32,6 @@ related_methods: []
 related_persons:
   - "[[Doreen Massey]]"
 related_facts:
-  - "[[Singapore Education Hub Policy]]"
   - "[[Academic Ranking of World Universities]]"
 related_arguments: []
 sources:

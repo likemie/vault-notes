@@ -17,11 +17,11 @@ related_concepts:
   - "[[Corporate University]]"
   - "[[Knowledge Transfer]]"
   - "[[Hub and Flow Imaginaries]]"
-  - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
 related_theories:
   - "[[Critical Geopolitics]]"
-related_methods: []
+related_methods:
+  - "[[Archival Correspondence Analysis]]"
 related_persons:
   - "[[Arturo Escobar]]"
   - "[[Walter Mignolo]]"
@@ -92,7 +92,7 @@ Partaken (2022) 在此脉络中回溯了从 [[Frantz Fanon|Fanon]] 到 [[Chen Ku
 > [!info]
 > - **本体论**：实在不是单一的——存在多种同时有效的现实和存在方式（ontological pluralism）。欧洲现代性只是其中一种，不是普遍的基准
 > - **认识论**：所有知识都"位于"（situated）特定的地理-历史-政治位置中——不存在"无处所的"普遍知识。西方认识论将自身呈现为普遍有效，正是其霸权运作的核心机制——通过隐藏自身的位置性来主张普遍性
-> - **常用方法**：历史话语分析、殖民档案研究、反叙事（counter-narrative）建构、参与式行动研究
+> - **常用方法**：历史话语分析、殖民[[Archival Correspondence Analysis|档案研究]]、反叙事（counter-narrative）建构、参与式行动研究
 
 ---
 

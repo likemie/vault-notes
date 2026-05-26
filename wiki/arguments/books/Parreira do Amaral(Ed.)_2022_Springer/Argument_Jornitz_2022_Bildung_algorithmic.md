@@ -23,10 +23,10 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Gamification]]"
   - "[[Knowledge Production]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[PISA]]"

@@ -44,6 +44,7 @@ related_persons:
   - "[[Arturo Escobar]]"
   - "[[Humberto Maturana]]"
   - "[[Francisco Varela]]"
+  - "[[John Dewey]]"
   - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[Grammar School]]"

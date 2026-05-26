@@ -10,6 +10,7 @@ tags:
 - biology
 - social-theory
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Multiplicity]]"
   - "[[Sympoiesis]]"
   - "[[Humility in Learning]]"
@@ -34,11 +35,11 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> 自创生（Autopoiesis）是 Maturana 和 Varela 提出的生命[[Luhmann's Systems Theory|系统理论]]核心概念：生命系统是自我指涉、自我生产的——系统的每一组件参与其他组件的生产与转化，系统作为整体在空间中持续生成和维持自身。
+> 自创生（Autopoiesis）是 Maturana 和 Varela 提出的生命[[Luhmann's Systems Theory|系统理论]]核心概念：生命系统是自我指涉、自我生产的——系统的每一组件参与其他组件的生产与[[Transfer Translation Transformation|转化]]，系统作为整体在空间中持续生成和维持自身。
 >
 > Amos 援引 Escobar 的解读："自创生"指自我指涉性和自我生产，不仅适用于生物系统，也可延伸至社会领域——社会变革在多重地方行动的交互中涌现，无需中央计划或智能引导（Escobar, 2018, p.152，引自 Amos, 2022, p.61）。
 >
-> > "Emergence, […] takes place on the basis of a [[Multiplicity|multiplicity]] of local actions that, through their (largely unplanned) interaction, give rise to what appears to an observer to be a new structure of integrated whole […] without the need for any central planning or intelligence guiding the process."（Escobar, 2018, p.152）
+> > "Emergence, […] takes place on the basis of a [[Multiplicity]] of local actions that, through their (largely unplanned) interaction, give rise to what appears to an observer to be a new structure of integrated whole […] without the need for any central planning or intelligence guiding the process."（Escobar, 2018, p.152）
 >
 
 ## 核心命题

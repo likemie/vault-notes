@@ -15,7 +15,6 @@ tags:
 - field/comparative-education
 - theme/learning
 related_concepts:
-  - "[[Fourth Culture]]"
   - "[[University Motto]]"
   - "[[Junzi]]"
   - "[[Humility in Learning]]"

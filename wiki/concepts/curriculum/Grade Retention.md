@@ -16,6 +16,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []

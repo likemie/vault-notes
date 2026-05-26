@@ -15,6 +15,7 @@ tags:
 - education-reform
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Cross-National Attraction]]"
   - "[[Externalization]]"
 related_theories: []

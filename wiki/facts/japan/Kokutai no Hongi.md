@@ -17,6 +17,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Knowledge Transfer]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []

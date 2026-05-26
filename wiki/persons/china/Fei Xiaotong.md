@@ -15,11 +15,13 @@ related_concepts:
   - "[[Boarding Schools]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Hsu Cho-Yun]]"
 related_facts: []
 related_arguments: []
 sources:
   - "[[Bulag_2024_CE]]"
+  - "[[Xu_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-25

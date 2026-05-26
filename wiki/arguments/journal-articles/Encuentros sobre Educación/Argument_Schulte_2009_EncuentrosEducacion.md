@@ -18,6 +18,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Junzi]]"
   - "[[Pragmatism in China]]"
+  - "[[Progressive Education]]"
   - "[[Rote Learning]]"
   - "[[Sage]]"
   - "[[Scientism]]"

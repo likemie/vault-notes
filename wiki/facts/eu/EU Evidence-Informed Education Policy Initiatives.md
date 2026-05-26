@@ -17,6 +17,7 @@ tags:
   - theme/educational-policy
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Reusability Paradox]]"
   - "[[Evidence-Informed Practice]]"

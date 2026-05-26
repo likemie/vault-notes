@@ -20,7 +20,6 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Matching]]"
 related_persons: []
 related_facts: []
 related_arguments: []

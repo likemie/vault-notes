@@ -17,10 +17,10 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Pride in Learning]]"
   - "[[Cognitive Source]]"
-  - "[[Mind Efficacy and Virtue Efficacy]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Chinese Learner]]"
   - "[[Western Learner]]"
+  - "[[Mind Efficacy and Virtue Efficacy]]"
 related_theories: []
 related_methods:
   - "[[Mother-Child Conversation]]"

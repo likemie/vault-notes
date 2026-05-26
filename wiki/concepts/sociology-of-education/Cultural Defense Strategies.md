@@ -10,8 +10,10 @@ tags:
   - theme/cultural-persistence
   - theme/globalization
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Learning Virtues]]"
   - "[[Enculturation]]"
+  - "[[Virtue-Oriented Learning Process]]"
 related_theories:
   - "[[Cultural Models]]"
 related_methods: []

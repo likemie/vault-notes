@@ -20,7 +20,8 @@ related_concepts:
 related_theories:
   - "[[Autopoiesis]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Dewey]]"
 related_arguments: []
 sources:
   - "[[Ch4_Amos_2022]]"
@@ -64,7 +65,7 @@ Donna Haraway，美国女性主义科学与技术研究学者，以 [[Posthumani
 
 ## 主要贡献
 
-- [[Sympoiesis]] 概念 — 作为 [[Autopoiesis|autopoiesis]] 的替代，以"共同制造"取代"自我制造"，强调跨物种的相互依存和伦理回应（Amos, 2022, p.62）
+- [[Sympoiesis]] 概念 — 作为 [[Autopoiesis]] 的替代，以"共同制造"取代"自我制造"，强调跨物种的相互依存和伦理回应（Amos, 2022, p.62）
 
 ---
 
@@ -72,7 +73,7 @@ Donna Haraway，美国女性主义科学与技术研究学者，以 [[Posthumani
 
 > [!success]
 
-- Amos 认为与 Haraway 教育愿景最兼容的教育理论家是 John Dewey，而非 Wilhelm von Humboldt 或 Maria Montessori（Amos, 2022, p.63）
+- Amos 认为与 Haraway 教育愿景最兼容的教育理论家是 [[John Dewey]]，而非 Wilhelm von Humboldt 或 Maria Montessori（Amos, 2022, p.63）
 - Haraway 也是新唯物主义（new materialism）的代表人物，教育对她而言意味着物质性和身体性的连接（Amos, 2022, p.63）
 
 ---

@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Classical Geopolitics]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -48,7 +49,6 @@ related_theories:
   - "[[Fixity-Motion Tension]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods:
-  - "[[Matching]]"
   - "[[Single-Case Design]]"
 related_persons:
   - "[[Sami Moisio]]"

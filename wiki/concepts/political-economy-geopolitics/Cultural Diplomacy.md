@@ -24,9 +24,12 @@ related_persons: []
 related_facts:
   - "[[Singapore Education Hub Policy]]"
   - "[[UAE Education Hub Projects]]"
+  - "[[John Dewey's 1928 Visit to the Soviet Union]]"
+  - "[[American Society for Cultural Relations with Russia]]"
 related_arguments: []
 sources:
   - "[[Ch12_Erfurth_2022]]"
+  - "[[Ryabyy_2024_Maneto]]"
 confidence: medium
 status: draft
 created: 2026-05-19

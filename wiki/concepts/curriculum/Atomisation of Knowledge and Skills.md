@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Performance Indicators]]"
   - "[[Phenomenon-Based Learning]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Performativity of Measurement]]"
   - "[[Complexity Reduction]]"
   - "[[Epochal Key Problems]]"

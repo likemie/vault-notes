@@ -22,6 +22,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Transitology]]"
   - "[[Champ]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -14,7 +14,8 @@ related_theories:
   - "[[Transactional Epistemology]]"
 related_methods:
   - "[[Carnivalesque Analysis]]"
-related_persons: []
+related_persons:
+  - "[[John Dewey]]"
 related_facts:
   - "[[Ofsted]]"
   - "[[Grammar School]]"

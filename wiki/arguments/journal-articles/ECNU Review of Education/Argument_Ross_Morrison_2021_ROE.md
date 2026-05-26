@@ -14,6 +14,7 @@ tags:
   - policy/essa
   - method/formative-evaluation
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
   - "[[Absorptive Capacity]]"
   - "[[Technology Infusion]]"

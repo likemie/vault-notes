@@ -11,6 +11,7 @@ tags:
 - epistemology
 - paradigm/interpretivist
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Champ]]"
   - "[[Neuroplasticity]]"
@@ -38,7 +39,7 @@ updated: '2026-05-18'
 > [!info] 核心主张
 > 现象学（Phenomenology）把人的经验、生活世界和意识指向性放在认识论与本体论分析的中心。在 Husserl、Heidegger、Sartre 与 Merleau-Ponty 等传统中，现象不是独立于人类意识的"纯对象"；人总是在生活世界中、通过身体、情感和与他人的关系来经验世界并生成意义（Schaffar & Wolff, 2024, pp.2-3）。
 >
-> 在教育中，现象学把学习理解为人与世界之间的存在性意义生成，而不是可被量化或拆分为项目的产出。学习过程同时是认知的、感官的、响应性的、个人的和集体的，并可能引发个体与社会层面的转化（Schaffar & Wolff, 2024, p.3）。
+> 在教育中，现象学把学习理解为人与世界之间的存在性意义生成，而不是可被量化或拆分为项目的产出。学习过程同时是认知的、感官的、响应性的、个人的和集体的，并可能引发个体与社会层面的[[Transfer Translation Transformation|转化]]（Schaffar & Wolff, 2024, p.3）。
 >
 > > 例：在 [[Phenomenon-Based Learning]] 中，学生研究"气候变化"并不是把它拆成若干可测量技能，而是在地方环境、身体经验、情绪反应、科学知识和公共责任之间建立意义联系（Schaffar & Wolff, 2024, pp.1, 3）。
 

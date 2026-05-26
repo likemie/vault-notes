@@ -13,6 +13,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Externalization]]"
 related_theories: []

@@ -21,6 +21,7 @@ related_concepts:
   - "[[Cognitive Source]]"
   - "[[Benevolence]]"
   - "[[Pride in Learning]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Confucian Tutoring Style]]"
 related_theories:
   - "[[Appraisal Theory]]"

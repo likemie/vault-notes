@@ -13,6 +13,7 @@ tags:
 - education-indicators
 - region/global
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Performance Indicators]]"
   - "[[Performativity of Measurement]]"
 related_theories: []

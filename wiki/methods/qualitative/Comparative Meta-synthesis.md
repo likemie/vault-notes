@@ -11,6 +11,7 @@ tags:
   - subject/methodology
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Structured Teaching]]"
   - "[[Classroom Management]]"
 related_theories: []

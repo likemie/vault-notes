@@ -14,13 +14,11 @@ tags:
 - paradigm/interpretivist
 related_concepts:
   - "[[Feedback]]"
-  - "[[Effect Size]]"
   - "[[Mechanism Experiments]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods:
-  - "[[Randomised Controlled Trials]]"
   - "[[Spirals of Inquiry]]"
 related_persons: []
 related_facts:

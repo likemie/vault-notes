@@ -13,6 +13,7 @@ tags:
 - region/germany
 related_concepts:
   - "[[Externalization]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
 related_theories:
@@ -32,7 +33,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Jurgen Schriewer 是德国比较教育学者和[[Luhmann's Systems Theory|系统理论]]家，以将 [[Niklas Luhmann]] 的社会系统理论引入比较教育研究而著称。他提出的"[[Externalization|外化]]"（externalization）概念已成为比较教育和政策转移研究的核心分析工具。
+> Jurgen Schriewer 是德国比较教育学者和[[Luhmann's Systems Theory|系统理论]]家，以将 [[Niklas Luhmann]] 的社会系统理论引入比较教育研究而著称。他提出的"[[Externalization|外化]]"（externalization）概念已成为比较教育和政策[[Transfer Translation Transformation|转移]]研究的核心分析工具。
 
 ## 生平与职涯
 
@@ -61,7 +62,7 @@ updated: '2026-05-19'
 > 1. **"进化过程"（evolutionary process）：** "更广阔世界"的客观变化——完全独立于人的能动性
 > 2. **"语义建构"（semantic construction）：** 人类与结构领域的互动所产生的意义制造——这是外化发生的领域
 >
-> 这一区分对教育转移研究具有方法论意义：研究者必须区分"真实的世界变化"和行动者对变化的"修辞性框架"。
+> 这一区分对教育[[Transfer Translation Transformation|转移]]研究具有方法论意义：研究者必须区分"真实的世界变化"和行动者对变化的"修辞性框架"。
 
 
 > [!info] 双向外化
@@ -72,7 +73,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **[[Externalization|外化]]概念** — 比较教育和政策转移研究的核心分析工具
+> - **[[Externalization|外化]]概念** — 比较教育和政策[[Transfer Translation Transformation|转移]]研究的核心分析工具
 > - **话语形成理论** — 将比较教育纳入更广泛的社会[[Luhmann's Systems Theory|系统理论]]框架
 > - **进化过程／语义建构的区分** — 为分析教育政策转移中的"情境"问题提供了方法论基础
 

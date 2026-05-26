@@ -18,6 +18,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Champ]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Self-Driven Mode]]"
@@ -35,7 +36,7 @@ related_methods:
   - "[[Constructivist Grounded Theory]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
-  - "[[Max Weber1]]"
+  - "[[Max Weber]]"
   - "[[Ann Swidler]]"
   - "[[Didier Eribon]]"
 related_arguments: []
@@ -80,14 +81,14 @@ updated: 2026-05-19
 ## 核心思想
 
 > [!tip]
-> 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber1|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、[[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"分析框架（郑雅君，2023）。
+> 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、[[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"分析框架（郑雅君，2023）。
 
 > [!quote]
 > "如果说整本书有什么是我最迫切想和读者分享的，那就是当我将自己浸没在被访者的声音中，我的发现恰恰挑战了自己先前想当然的前提假设——学生的毕业去向都是他们有意图地主动选择的结果"（郑雅君，2023）
 
 ### 理论框架：三层嵌套的"大学过程"模型
 
-- **资本化过程**（最外层结构性约束）：家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑（郑雅君，2023）
+- **资本化过程**（最外层结构性约束）：家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被[[Transfer Translation Transformation|转化]]为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑（郑雅君，2023）
 - **投入过程**（中层行动策略）：学生在[[Academic Engagement|学业投入]]（[[Academic Engagement]]）和[[Social Engagement|社会性投入]]（[[Social Engagement]]）两个维度上如何组织大学生活，分别对应两种模式的不同策略取向
 - **价值选择过程**（最内层意义建构）：学生在 三种工作意义图式（地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达）之间的选择与整合，决定其毕业出路的最终方向（郑雅君，2023）
 
@@ -132,7 +133,7 @@ updated: 2026-05-19
 
 > [!success]
 > - 在中国高等教育公平研究中，双模式类型学为分析大学生活经验的阶层差异提供了可操作的概念工具
-> - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释精英大学中[[Cultural Capital|文化资本]]如何通过日常实践转化为出路分化
+> - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释精英大学中[[Cultural Capital|文化资本]]如何通过日常实践[[Transfer Translation Transformation|转化]]为出路分化
 > - [[Cultural Barrier in Higher Education]] 概念将 [[Pierre Bourdieu|Bourdieu]] 的文化再生产理论从宏观制度层面延伸到微观的日常生活经验层面，丰富了对教育公平机制的理解
 > - 以[[Constructivist Grounded Theory]]在大规模访谈数据中的系统应用，为高等教育[[Qualitative Research|质性研究]]提供了方法论参照
 

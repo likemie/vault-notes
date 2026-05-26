@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Ecomuseology]]"
   - "[[Knowledge Production]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Official Knowledge]]"
   - "[[Life Power]]"
   - "[[Epistemology of Resistance]]"

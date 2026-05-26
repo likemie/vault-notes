@@ -23,6 +23,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Direct Instruction]]"
   - "[[Whole Language]]"
+  - "[[Progressive Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Refined Mastery]]"
   - "[[Self-Efficacy]]"
@@ -183,7 +184,7 @@ updated: '2026-05-21'
 > - **可见的教与学**："当教师成为自身教学的学习者、学生成为自身教师时，对学生学习产生最大效应"（Hattie, 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）
 > - **[[Effect Size|效应量]]铰链点 d=0.40**：以 d=0.40 作为比较教育影响的经验参考点，而非脱离情境的硬性戒律；Hattie 后来强调低于 0.40 的效果仍需结合学段、结果类型和同类研究解释（Hattie, 2015, pp.11, 17）。详见 [[Effect Size#Hattie 的铰链点 d=0.40 与影响气压计（2009–2015）]]
 > - **"教师作为激活者 vs 促进者"的核心区分**：Hattie 基于其分析结果将教师角色分为两类——激活者（activator，d=0.60 平均）和促进者（facilitator，d=0.17 平均）（Hattie, 2009, p.243；Terhart, 2011, p.433, Table 3）。激活者策略包括交互教学（d=0.74）、[[Feedback|反馈]]（d=0.72）、元认知策略（d=0.67）、[[Direct Instruction|直接教学]]（d=0.59）、精熟学习（d=0.57）；促进者策略包括模拟与游戏（d=0.32）、探究式教学（d=0.31）、小班教学（d=0.21）、问题式学习（d=0.15）、[[Whole Language|全语言]]（d=0.06）。Hattie 由此得出结论："建构主义是一种知识形式，但不是一种教学形式"（Hattie, 2009, p.243，引自 Terhart, 2011, p.433）
-> - 主张学习必须是"被学习者分享、承诺和理解的"（Hattie, 2009, p.23），以进步教育哲学的语言包装实证主义议程（McKnight & Whitburn, 2020, p.34）
+> - 主张学习必须是"被学习者分享、承诺和理解的"（Hattie, 2009, p.23），以[[Progressive Education|进步教育]]哲学的语言包装实证主义议程（McKnight & Whitburn, 2020, p.34）
 > - **"Know thy impact"**：教师须以可见证据评估自身教学对学生成绩的影响——这成为 [[Visible Learning]] 的标志性口号（Hattie, Masters, & Birch, 2016, p.3）
 > - **评价者型教师**：Hattie (2015) 将“Know thy impact”解释为教师和学校的评价姿态：教师不是简单收集数据，而是解释证据、判断干预的价值和重要性，并与同事共同比较影响的大小、深度和覆盖范围（Hattie, 2015, pp.11-14）。这一点把他的思想从单纯的[[Effect Size|效应量]]排名推进到学校层面的 [[Professional Judgment]]，但具体统计争议仍应放在 [[Effect Size]] 和 [[Meta-meta-analysis]] 中处理。
 > - **学习结果的多重含义**：Qvortrup (2015) 指出 Hattie 同时使用 achievement、student achievement、learning、student learning、study outcome 和 school achievement 等词汇，且学习结果在 *Visible Learning* 中并非单一良定义概念；这不妨碍通过效应量比较相对效果，却意味着 VL 的总效应量很难说明测量的是表层知识、深层理解、社会能力还是概念性学习（Qvortrup, 2015, p.27）

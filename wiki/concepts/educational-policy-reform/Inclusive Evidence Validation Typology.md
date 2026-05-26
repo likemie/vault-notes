@@ -20,7 +20,6 @@ related_methods:
   - "[[Observational and Correlational Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Matching]]"
 related_persons: []
 related_facts:
   - "[[Pact for Educational Excellence]]"

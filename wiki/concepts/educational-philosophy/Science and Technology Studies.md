@@ -12,6 +12,7 @@ tags:
   - philosophy-and-epistemology
 related_concepts:
   - "[[Performance Indicators]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
   - "[[Evidence-Based Education]]"
 related_theories:

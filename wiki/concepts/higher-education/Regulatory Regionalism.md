@@ -13,6 +13,7 @@ tags:
 - governance
 related_concepts:
   - "[[Performance Indicators]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Global Regionalisms in Higher Education]]"
   - "[[Selectivity]]"
   - "[[Geopolitics of Knowledge]]"

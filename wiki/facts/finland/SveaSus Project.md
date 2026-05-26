@@ -18,6 +18,7 @@ related_concepts:
   - "[[Epochal Key Problems]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Atomisation of Knowledge and Skills]]"
 related_theories:
   - "[[Phenomenology]]"

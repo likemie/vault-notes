@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Champ]]"
-  - "[[Filial Piety]]"
   - "[[Affect-Respect and Ought-Respect]]"
   - "[[Benevolence]]"
   - "[[Ritual Propriety]]"
