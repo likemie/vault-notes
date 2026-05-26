@@ -15,7 +15,6 @@ extracted_to:
   - "[[New Public Management]]"
   - "[[Educational Technology Industry]]"
   - "[[Global Education Industry]]"
-  - "[[Knowledge-Based Economy]]"
   - "[[Mondialisation]]"
   - "[[Membership-Creating Function of Education]]"
   - "[[Regional University Alliances]]"
@@ -29,6 +28,7 @@ extracted_to:
   - "[[Autopoiesis]]"
   - "[[Transition Design]]"
   - "[[Learning Analytics]]"
+  - "[[Knowledge-Based Economy]]"
 processed_date: 2026-05-08
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

@@ -15,6 +15,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Triple Helix]]"
+  - "[[Systems of Innovation]]"
 related_methods: []
 related_persons: []
 related_facts:
@@ -23,6 +24,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
+  - "[[Ch2_Ulrichsen_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
@@ -87,6 +89,8 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 - [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）将大学-产业-政府之间的反馈循环描述为相互支撑的三重螺旋，是理解创新生态系统制度结构的核心理论（p.13）
 - Schumpeter（1942）的创新理论 — "创造性破坏"（creative destruction）是创新生态系统动态演化的理论基础（p.12）
 - Ridley（2020）How Innovation Works — 强调自由、实验和开放竞争对创新的决定性作用（p.12）
+- [[Systems of Innovation|创新系统理论]]（Lundvall et al., 2002）— 创新生态系统的近邻理论，将创新理解为多行动者在制度环境下的集体学习活动，两者共享多行动者网络的分析视角（Ulrichsen, 2025, pp.29–31）
+- 创新模型的演变 — 人们对"创新如何发生"的理解经历了从线性（技术推动→需求拉动）到耦合（Kline & Rosenberg, 1986）再到系统集成与网络化（1990s）的演进，最终在 1990 年代形成了[[Systems of Innovation|创新系统]]理论框架。这些模型在现实中并非替代关系而是共存关系（Caraça et al., 2009; Ulrichsen, 2025, pp.27–29）
 
 ---
 
@@ -103,4 +107,5 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 ## 来源
 
 - [[Ch1_Boccanfuso_Hall_2025]]
+- [[Ch2_Ulrichsen_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

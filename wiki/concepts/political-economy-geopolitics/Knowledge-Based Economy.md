@@ -18,8 +18,8 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Corporate Education]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[International Education Hubs]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Progressive Neoliberalism]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
+  - "[[Systems of Innovation]]"
   - "[[Cultural Political Economy]]"
   - "[[Fixity-Motion Tension]]"
 related_methods:
@@ -97,7 +98,7 @@ Sputnik Shock 是理解教育和地缘政治关系的经典案例：美国对苏
 1990 年代以来，KBE 特别与学习、创造力和创业等议题相关联。许多原本用于解释 KBE 出现的学术概念成为 OECD 世界政策制定者频繁使用的核心术语：
 
 - **世界银行（1991, pp.33–35）**：明确论断"无形投资于知识积累"——而非物理资本投资——是决定性的（Moisio, 2022, p.23）
-- **国家创新系统（National Systems of Innovation）**：Freeman（1995）将其追溯至 List，该概念成为 1990 年代 KBE 的学术象征（Moisio, 2022, p.22）
+- **国家[[Systems of Innovation|创新系统]]（National Systems of Innovation）**：Freeman（1995）将其追溯至 List，该概念成为 1990 年代 KBE 的学术象征（Moisio, 2022, p.22）
 - **[[Bob Jessop]]（2005）**：将 KBE 定位为"霸权的元治理对象"（hegemonic meta-object of governance）——作为对 Atlantic Fordism 资本积累体制危机的回应。KBE 作为成功的经济治理依赖于经济形式和额外经济形式（科学、教育、法律、社会制度、传统等）的共在（Moisio, 2022, p.23）
 
 ### KBE 对继续教育的驱动
@@ -118,11 +119,11 @@ Rizvi (2022) 的分析揭示了 KBE 话语在重塑[[Internationalization of Hig
 
 **2. 为国际化理性的市场转向提供意识形态基础**：KBE 话语的核心逻辑——知识是经济增长和竞争力的关键驱动力——被无缝地移植到高等教育国际化的话语中。国际化不再被理解为发展援助和文化交流（发展主义理性），而是被重新定义为提升国家在全球知识经济中竞争力的战略工具（市场理性）。高等教育被视为"出口产业"，成功以招收全额付费国际学生的**数量**来衡量——"这正是全球排名系统测量的、政府庆祝的指标"（Rizvi, 2022, pp.96–97）。详见 高等教育国际化 > 概念演变。
 
-**3. 为国家教育出口战略提供政策框架**：澳大利亚提供了最清晰的案例。2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》（Henry Report）将亚洲崛起定位为"澳大利亚的机遇"，其背后的核心假设完全是 KBE 式的：全球知识经济的重心正在向亚洲[[Transfer Translation Transformation|转移]]，澳大利亚必须通过教育出口、研究合作和人才流动来"嵌入"这一新兴的知识经济网络。"随着全球重心向我们的区域转移，距离的暴政正在被邻近的前景所取代"（Henry, 2012, p.1, cited in Rizvi, 2022, pp.99–100）。《[[International Education|国际教育]]国家战略 2025》进一步将教育出口系统性地整合进国家经济战略（Rizvi, 2022, pp.99–100）。
+**3. 为国家教育出口战略提供政策框架**：澳大利亚提供了最清晰的案例。2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》（Henry Report）将亚洲崛起定位为"澳大利亚的机遇"，其背后的核心假设完全是 KBE 式的：全球知识经济的重心正在向亚洲转移，澳大利亚必须通过教育出口、研究合作和人才流动来"嵌入"这一新兴的知识经济网络。"随着全球重心向我们的区域转移，距离的暴政正在被邻近的前景所取代"（Henry, 2012, p.1, cited in Rizvi, 2022, pp.99–100）。《[[International Education|国际教育]]国家战略 2025》进一步将教育出口系统性地整合进国家经济战略（Rizvi, 2022, pp.99–100）。
 
 ### KBE 在教育枢纽中的运作化
 
-Erfurth (2022) 通过对新加坡和[[UAE Education Hub Projects|阿联酋教育枢纽项目]]的比较研究，展示了 KBE 逻辑如何被具体地运作化为国家教育政策。其核心发现是：教育枢纽国家将 KBE 的基本假设——知识是经济增长的核心驱动力——转化为一种**绕开制度建设**的发展策略（Erfurth, 2022, pp.199–200, 211）：
+Erfurth (2022) 通过对新加坡和[[UAE Education Hub Projects|阿联酋教育枢纽项目]]的比较研究，展示了 KBE 逻辑如何被具体地运作化为国家教育政策。其核心发现是：教育枢纽国家将 KBE 的基本假设——知识是经济增长的核心驱动力——[[Transfer Translation Transformation|转化]]为一种**绕开制度建设**的发展策略（Erfurth, 2022, pp.199–200, 211）：
 
 - **新加坡**："[[Singapore Education Hub Policy|东方波士顿]]"战略的核心逻辑是复刻波士顿作为 KBE 枢纽的空间经济效应——通过高等教育、研究和商业的聚集来推动经济增长。大学教师和学生被视为"知识工作者"和"重要的经济因素"，因其支付税收、租金和进行一般性消费活动（p.209）。这体现了 KBE 逻辑从"教育作为公共产品"到"教育作为经济生产要素"的完整转化
 - **阿联酋**：经济多元化战略同样以 KBE 为框架——减少对石油收入的依赖，转向"基于知识的竞争形式"（pp.206, 211）。迪拜专门设立高等教育经济区以产业化的方式吸引国际分校，将高等教育视为可直接盈利的出口产业

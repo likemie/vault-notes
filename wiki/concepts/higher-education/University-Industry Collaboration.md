@@ -18,10 +18,14 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Innovation Ecosystem]]"
   - "[[Academic Freedom]]"
+  - "[[Third Mission (Universities)]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Further Education]]"
   - "[[Multi-University]]"
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Triple Helix]]"
+  - "[[Systems of Innovation]]"
 related_methods: []
 related_persons: []
 related_facts:
@@ -29,10 +33,12 @@ related_facts:
   - "[[Smith Lever Act of 1914]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[University Industry Demonstration Partnership]]"
   - "[[University, Inc. (Washburn, 2005)]]"
 related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
+  - "[[Ch2_Ulrichsen_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
@@ -82,6 +88,9 @@ updated: 2026-05-26
 > - 1920 年前后，美国大学的核心特征——博士教育、专业学位项目、产学互动、[[Academic Freedom|学术自由]]与客观性——已基本确立（pp.11–12）
 > - 二战后，Vannevar Bush 的报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调了基础研究和开放式研究在美国的战略重要性，催生了国家科学基金会（NSF）和国防部对大学基础研究的支持（p.13）
 > - 近几十年来，"界面"上的创新速度加快，产生了大量的回报（p.4）
+- 1980 年代后，在冷战结束、企业中央研发实验室衰落和全球竞争加剧的背景下，大学经历了从与产业"脱钩"到重新"嵌入"[[Systems of Innovation|创新系统]]的转变。美国 1980 年 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 给予大学对联邦资助研究成果的知识产权所有权；英国 1983 年取消 British Technology Group 对大学 IP 的垄断、1993 年发布 *Realising Our Potential* 白皮书；中国 1993 年通过《科学技术进步法》建立了相当于 Bayh-Dole 的制度框架（Ulrichsen, 2025, pp.38–41）
+- 2000 年代后，大学日益深入地嵌入创新系统，"寻求积极促进互动和溢出效应以连接研究与应用和商业化，承担起催化和推动经济和社会发展的角色"（Youtie & Shapira, 2008, p.1189，引自 Ulrichsen, 2025, p.42）。这催生了正式的制度化的[[Third Mission (Universities)|大学第三使命]]（Ulrichsen, 2025, pp.41–44）
+- 同期，产学互动的规模大幅增长：美国大学来自产业的研发资金从 1990 年的 22 亿美元增至 2022 年的 57 亿美元（按 2022 年不变价）；英国大学[[Knowledge Transfer|知识转移]]活动收入从 2004 年的 43 亿美元增至 2022 年的 87 亿美元（Ulrichsen, 2025, p.44）
 
 ## 核心要素
 
@@ -93,6 +102,42 @@ updated: 2026-05-26
 - **正式协议**：当涉及资金支付时，关系通过赞助研究、技术许可、服务或咨询等协议来界定。需要协商的关键事项包括：发表审查权、知识产权归属与保护、学生权益保护、交付物与时间表、直接与间接成本核算、多公司联合体中的权利保护、利益冲突披露、数据使用与所有权、是否以捐赠替代合同等（pp.9–10）
 
 ---
+
+## 互动路径与机制
+
+> [!abstract]
+> 已有研究识别出产学互动的多种路径，远超技术许可和衍生企业（Bonaccorsi & Piccaluga, 1994; Cohen et al., 2002; D'Este & Patel, 2007; Hughes & Kitson, 2012; Perkmann & Walsh, 2007; [[University Industry Demonstration Partnership|UIDP]], 2012）（Ulrichsen, 2025, p.44）：
+
+- **合同研究**（contract research）：企业委托大学开展特定研究项目
+- **研究伙伴关系**（research partnerships）：共同设计、执行和资助研究
+- **咨询服务**（consultancy）：学术人员向企业提供专业知识
+- **研究生奖学金与联合培养**
+- **原型开发与测试服务**：利用大学设施进行产品测试
+- **联合开发物理设施**：共同投资实验室、中试车间等
+- **培训与高管教育**：为企业员工提供[[Further Education|继续教育]]
+- **人员交流**（people exchange）：实习、联合聘任（joint appointments）、借调（secondments）
+- **非正式互动**：网络活动、联合参加会议、邀请企业进校园讲座——这些活动对建立社会关系和促进隐性知识流动至关重要
+
+> 在互动层次上，UIDP（2012）区分了战术/交易型互动（tactical and transactional）、协作型互动（collaborations）和战略伙伴关系（strategic partnerships）——不同层次适用不同的治理安排。Perkmann 和 Salter（2012）则按价值主张区分了四种合作模式：创意实验室（吸引新伙伴、建立关系）、重大挑战协作（适合通过联合体或中心组织）、扩展工作台（解决近期问题）、深度探索（长期产业资助大学研究中心）（Ulrichsen, 2025, pp.45–46）。
+
+> 关系型互动（relational）已取代交易型互动（transactional）成为主导——这反映了隐性知识在思想和[[Technology Transfer|技术转移]]中的关键作用（Schartinger et al., 2002）（Ulrichsen, 2025, p.44）。大企业也经历了从大量零散学术互动向少数战略性大学伙伴集中的转变（Ulrichsen, 2025, pp.44–45）。
+
+---
+
+## 影响因素
+
+> [!abstract]
+> Ulrichsen（2025, pp.48–49，改编自 Ulrichsen et al., 2023）综合多项研究，提出了产学互动的影响因素框架，涵盖五个系统层面：
+
+| 系统层面 | 关键影响因素 |
+|----------|-------------|
+| **大学与院系领导** | 组织战略、政策、激励与文化；过往经验、结构与流程；领导机遇识别与引导能力；资源与支持结构；实验新模式的意愿；行政流程的适配性 |
+| **学术人员个体** | 研究类型（跨学科/基础/应用启发/应用）；职级、科研产出与声誉；身份认同（我是谁）与动机（是否值得做）；参与的能力与精力；项目资源获取；机会和伙伴识别能力 |
+| **互动与项目** | 目标共识与战略契合；信任、沟通与相互理解；文化与工作环境兼容性；互动机制的适当性与多样性；项目管理支持；灵活性与适应性；交易成本（官僚、谈判、合同）；地理邻近性 |
+| **产业伙伴** | 战略目标与抱负；[[Absorptive Capacity\|吸收能力]]（合作能力及利用大学知识的能力）；创新能力与资源；对接人员的稳定性；投资大学互动的资源；对与大学合作益处的认知 |
+| **制度环境** | 法律与 IP 框架；金融系统；劳动力市场；税收激励；政府政策；法规与标准；文化规范与实践 |
+| **供给条件** | 资金的可得性（公共/私人/慈善）；创新与创业基础设施；技能/专业能力（商业、创业、技术、管理）；网络；公共空间 |
+| **需求条件** | 行业结构、成熟度与动态；行业的创新性及创新障碍；行业合作和利用大学知识的能力 |
 
 ## 理论基础
 
@@ -140,4 +185,5 @@ updated: 2026-05-26
 ## 来源
 
 - [[Ch1_Boccanfuso_Hall_2025]]
+- [[Ch2_Ulrichsen_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

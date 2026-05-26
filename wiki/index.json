@@ -1602,6 +1602,17 @@
     ]
   },
   {
+    "title": "Knowledge Exchange",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Knowledge Exchange.md",
+    "aliases": [
+      "知识交流",
+      "knowledge transfer",
+      "knowledge exchange and transfer",
+      "KE"
+    ]
+  },
+  {
     "title": "Knowledge Production",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Knowledge Production.md",
@@ -1766,6 +1777,18 @@
     ]
   },
   {
+    "title": "Third Mission (Universities)",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Third Mission (Universities).md",
+    "aliases": [
+      "大学第三使命",
+      "第三使命",
+      "third mission",
+      "third stream",
+      "大学第三职能"
+    ]
+  },
+  {
     "title": "Transnational Research Collaboration in Higher Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Transnational Research Collaboration in Higher Education.md",
@@ -1796,6 +1819,18 @@
       "University-Industry Engagement",
       "UI collaboration",
       "UI engagement"
+    ]
+  },
+  {
+    "title": "Use-Inspired Basic Research",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Use-Inspired Basic Research.md",
+    "aliases": [
+      "应用启发的基础研究",
+      "Pasteur's Quadrant",
+      "巴斯德象限",
+      "use-inspired research",
+      "Pasteur象限"
     ]
   },
   {
@@ -3301,6 +3336,19 @@
     "path": "wiki/theories/higher-education/Network Society.md",
     "aliases": [
       "网络社会"
+    ]
+  },
+  {
+    "title": "Systems of Innovation",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Systems of Innovation.md",
+    "aliases": [
+      "创新系统",
+      "创新系统理论",
+      "national innovation systems",
+      "NIS",
+      "innovation systems",
+      "systems of innovation approach"
     ]
   },
   {
@@ -6545,6 +6593,11 @@
     "title": "Argument_Hall(Ed.)_2025_Springer",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md"
+  },
+  {
+    "title": "Argument_Ulrichsen_2025_UIR_Evolution",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md"
   },
   {
     "title": "Argument_Amos_2022_Springer",
