@@ -129,7 +129,7 @@ Total entries: **103**
 
 ### Encuentros sobre Educación
 
-- [[Argument_Schulte_2009_EncuentrosEducacion]] — 追溯杜威在中国九十年间四个时期的接受与变形，揭示外国教育思想如何被主动再脉络化——而非简单误解——以服务于每个时期知识分子的不同议程
+- [[Argument_Schulte_2009_EncuentrosEducacion]] — 追溯杜威在中国九十年间四个时期的接受与变形，揭示外国教育思想如何被主动再脉络化而非简单误解，以服务于每个时期知识分子的不同议程
 
 ### European Educational Research Journal
 
