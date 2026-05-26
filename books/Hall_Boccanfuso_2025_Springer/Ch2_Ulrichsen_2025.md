@@ -6,7 +6,10 @@ extracted_to:
   - "[[Third Mission (Universities)]]"
   - "[[University-Industry Collaboration]]"
   - "[[Use-Inspired Basic Research]]"
+  - "[[Technology Transfer]]"
+  - "[[Knowledge-Based Economization]]"
   - "[[Systems of Innovation]]"
+  - "[[Triple Helix]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

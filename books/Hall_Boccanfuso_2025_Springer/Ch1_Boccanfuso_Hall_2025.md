@@ -5,7 +5,6 @@ extracted_to:
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[Multi-University]]"
-  - "[[Technology Transfer]]"
   - "[[Academic Freedom]]"
   - "[[APLU Innovation and Economic Prosperity Program]]"
   - "[[California Master Plan for Higher Education]]"
@@ -15,6 +14,7 @@ extracted_to:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
   - "[[Triple Helix]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"

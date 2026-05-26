@@ -4,6 +4,7 @@ extracted_to:
   - "[[Argument_Hall(Ed.)_2025_Springer]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
   - "[[Triple Helix]]"
 processed_date: 2026-05-27
 ---

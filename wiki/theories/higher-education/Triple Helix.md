@@ -18,6 +18,9 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Third Mission (Universities)]]"
+  - "[[Knowledge Exchange]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -25,9 +28,11 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
+  - "[[Ch2_Ulrichsen_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
@@ -59,9 +64,53 @@ updated: 2026-05-26
 ## 发展脉络
 
 > [!note]
+### 三重螺旋的历史根源（1800s–1940s）
+
+三重螺旋关系并非二战后的产物。许多当今顶尖研究型大学在 1800 年代创立时就内嵌了服务工业和地方经济的使命（Martin, 2012）（Ulrichsen, 2025, pp.37–38）：英国 UCL、KCL、伯明翰、谢菲尔德、曼彻斯特等大学致力于服务现代工业社会；MIT（1861）、Georgia Tech（1885）、帝国理工（1907）等理工学院以专业技术培训和满足产业需求为核心使命；1862/1890 年美国 Morrill Acts 通过赠地建立学院并提供农业推广服务，将大学-政府-产业互动制度化（Ulrichsen, 2025, pp.37–38）。
+
+但在二十世纪初期，大企业中央研发实验室的兴起改变了三重螺旋的动态——企业建立内部科研能力，降低了对大学的依赖。AT&T 贝尔实验室、Xerox PARC、IBM Research 等企业实验室在科学产出上甚至可与顶尖大学匹敌（Arora et al., 2020）（Ulrichsen, 2025, pp.35–37）。
+
+---
+
+### 二战后：政府主导的三重螺旋（1940s–1970s）
+
+二战经验——曼哈顿计划（由 UC Berkeley 的 Oppenheimer 领导）、MIT 辐射实验室的雷达研究——戏剧性地展示了三方协作的巨大潜力。战后，Vannevar Bush 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）将基础研究确立为国家战略优先事项，催生了 NSF 和国防部对大学的大规模研究资助（Ulrichsen, 2025, pp.28–29）。
+
+然而这一时期的三重螺旋存在一个悖论：政府资金大幅扩张了大学研究能力，但大学与产业的具体需求反而"脱钩"（decoupled）——大学更聚焦于教师主导的基础研究和人才培养，对与产业密切合作日益怀疑甚至撤退（Arora et al., 2020; Youtie & Shapira, 2008）（Ulrichsen, 2025, p.38）。
+
+---
+
+### 1980s–1990s：政府重新激活三重螺旋
+
+冷战的结束、企业中央研发实验室的衰落和全球竞争加剧，促使政府重新推动大学-产业协作。1980 年美国 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 是关键转折点——该法案认识到联邦资助研究中产生的发明几乎没有进入市场，给予大学对这些发明的商业化权利（Shane, 2004）。同期配套机制包括 NSF 工程研究中心（ERC）和[[University-Industry Collaboration|产学合作]]研究中心（IUCRC）项目、1982 年 SBIR 项目的大幅扩展以及风险投资市场的扩张（Ulrichsen, 2025, pp.39–40）。
+
+英国同步推进：1983 年取消 British Technology Group 对大学 IP 的垄断；推出 Alvey 计划（产学合作提升 IT 竞争力）；1993 年白皮书 *Realising Our Potential* 明确要求"科学界、产业、金融部门和政府之间建立更紧密的伙伴关系"（HMSO, 1993, p.8）（Ulrichsen, 2025, pp.40–41）。
+
+中国也在跟进：1993 年《科学技术进步法》——相当于中国的 Bayh-Dole Act——要求大学雇员将发明 IP 转让给大学；随后允许大学自办企业和研究人员休长假从事[[Technology Transfer|技术转移]]与创业（Chen et al., 2016）（Ulrichsen, 2025, p.41）。
+
+---
+
+### 2000 年代至今：制度化与战略化
+
+三重螺旋在 2000 年代后从政策倡导进入大学组织结构层面。大学正式承担"[[Third Mission (Universities)|第三使命]]"（Third Mission）——在研究和教学之外的创新与经济发展职能（Ulrichsen, 2024）（Ulrichsen, 2025, pp.41–44）。具体表现包括：大学设立分管[[Knowledge Exchange|知识交流]]的专门领导角色和支持单位、建立内部[[Transfer Translation Transformation|转化]]基金和科技园区、挑战导向的研究中心跨越传统学科-产业边界。英国从项目制竞争性资金转向公式驱动的长期稳定拨款——评估表明这种长期稳定性对扩展产学互动"极为宝贵"（Ulrichsen, 2025, pp.42–43）。美国则以 2022 年 Chips and Science Act 和 NSF 新设技术创新与伙伴关系局为代表，将大学-产业-投资者三重螺旋置于国家竞争力战略的核心（Ulrichsen, 2025, pp.43–44）。
+
+---
+
+### 国际比较：三重螺旋的三种配置
+
+> [!example]
+> 不同国家三重螺旋的具体形态因历史路径和制度安排而异（Ulrichsen, 2025, pp.39–44）：
+
+| 国家 | 三重螺旋特征 | 关键机制 |
+|------|-------------|----------|
+| **美国** | 政府立法触发 + 市场驱动 | [[Bayh-Dole Act of 1980\|Bayh-Dole Act]]、NSF ERC/IUCRC、SBIR、风险投资、2022 年 CHIPS Act |
+| **英国** | 政府系统性拨款驱动 | 取消 BTG 垄断→Alvey 计划→1993 白皮书→公式化长期拨款→系统化知识交流支持体系 |
+| **中国** | 政府立法 + 行政推动 | 1993 年《科学技术进步法》、允许大学办企业、研究人员创业休假制度 |
+
+---
+
 - 1995 年 Etzkowitz 和 Leydesdorff 在 EASST Review 上首次提出 Triple Helix 概念，将大学-产业-政府关系描述为"[[Knowledge-Based Economy|知识经济]]发展的实验室"（p.13）
 - 此后该模型被广泛应用于分析创新政策和[[University-Industry Collaboration|产学合作]]，成为创新研究的重要理论框架之一
-- 在美国语境中，该模型可以解释二战后创新体系的形成：曼哈顿计划和 MIT 辐射实验室的秘密研究 → Vannevar Bush 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调基础开放式研究 → 国家科学基金会（NSF）的创建和国防部对大学基础研究的支持 → 政府资助、大学研究和企业创新之间的反馈循环（p.13）
 - O'Mara（2019）的 The Code 在硅谷发展史中记录了这一三重螺旋现象的具体运作（p.13）
 
 ---
@@ -78,4 +127,5 @@ updated: 2026-05-26
 ## 来源
 
 - [[Ch1_Boccanfuso_Hall_2025]]
+- [[Ch2_Ulrichsen_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]
