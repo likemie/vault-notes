@@ -17,16 +17,15 @@ tags:
 related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Knowledge Production]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Technology Transfer]]"
   - "[[Knowledge Transfer]]"
+  - "[[Transformative Change]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Triple Helix]]"
 related_methods: []
-related_persons:
-  - "[[Max Weber]]"
+related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
@@ -55,7 +54,7 @@ updated: 2026-05-27
 > 1. **创新是互动过程**：创新涉及多个行动者的双向互动，远比线性模型所暗示的更复杂；科学-创新-社会之间存在重要的相互作用，不仅是经济制度，社会政治制度同样塑造创新行为（Freeman, 1982）（Ulrichsen, 2025, p.29）。
 > 2. **隐性知识至关重要**：显性知识（codified knowledge，如论文、专利）只是知识流动的一部分；隐性知识（tacit knowledge）在组织间和跨国界的流动对创新同样关键（p.29）。
 > 3. **[[Absorptive Capacity|吸收能力]]与学习能力**：公司和国家的吸收能力（absorptive capacity）——即获取、消化和利用外部知识的能力——与[[Knowledge Production|知识生产]]能力同等重要；学习能力和创造力是创新的核心驱动力（p.29）。
-> 4. **创业精神不可或缺**：在现代创新驱动型经济中，创业精神是将知识[[Transfer Translation Transformation|转化]]为经济价值的桥梁（p.29）。
+> 4. **创业精神不可或缺**：在现代创新驱动型经济中，创业精神是将知识转化为经济价值的桥梁（p.29）。
 
 ---
 
@@ -86,20 +85,20 @@ updated: 2026-05-27
 - **制度不只是背景**：不仅是经济制度，社会政治制度同样深刻塑造创新行为
 - **隐性知识不可忽略**：专利和论文只捕捉了知识流动的一部分——人与人之间的隐性[[Knowledge Transfer|知识转移]]同样关键
 - **[[Absorptive Capacity|吸收能力]]与生产能力同等重要**：即使有最好的知识供给，如果公司和国家的吸收能力不足，创新仍然不会发生
-- **创业精神是桥梁**：将知识[[Transfer Translation Transformation|转化]]为经济价值需要创业精神的催化
+- **创业精神是桥梁**：将知识转化为经济价值需要创业精神的催化
 
 这些认识催生了创新系统理论。Freeman（1982）、Lundvall 等人（2002）和 Edquist（1997）的工作奠定了其基础：创新被重新定义为在特定制度环境下、多行动者通过市场和非市场互动进行的集体学习活动（Ulrichsen, 2025, pp.29–31）。
 
 ### 当代延伸：变革转型范式（2010s 至今）
 
-近年来，Schot 和 Steinmueller（2018）等学者认为创新系统理论在应对气候变化、生物多样性丧失等"棘手问题"时仍过于被动。这催生了第三个政策范式——变革转型（Transformative Change），主张政策应更主动地推动方向性变革（详见[[#批评与局限]]）（Ulrichsen, 2025, pp.32–34）。
+近年来，Schot 和 Steinmueller（2018）等学者认为创新系统理论在应对气候变化、生物多样性丧失等"棘手问题"时仍过于被动。这催生了第三个政策范式——[[Transformative Change|变革转型]]（Transformative Change），主张政策应更主动地推动方向性变革（详见[[#批评与局限]]）（Ulrichsen, 2025, pp.32–34）。
 
 ---
 
 ## 政策含义：从市场失灵到系统失灵
 
 > [!abstract]
-> 创新[[Luhmann's Systems Theory|系统理论]]的政策核心是：政府需要解决的远不止"市场失灵"（market failure），而是更广泛的"系统失灵"（system failures）。[[Max Weber|Weber]] 和 Rohracher（2012）以及 Kelleher 和 Ulrichsen（2022）识别了以下类型（Ulrichsen, 2025, pp.30–31）：
+> 创新[[Luhmann's Systems Theory|系统理论]]的政策核心是：政府需要解决的远不止"市场失灵"（market failure），而是更广泛的"系统失灵"（system failures）。Weber 和 Rohracher（2012）以及 Kelleher 和 Ulrichsen（2022）识别了以下类型（Ulrichsen, 2025, pp.30–31）：
 
 | 失灵类型 | 含义 | 例子 |
 |----------|------|------|
@@ -121,14 +120,14 @@ updated: 2026-05-27
 > [!tip]
 > - [[Triple Helix]]：三螺旋模型（Etzkowitz & Leydesdorff, 1995）可以视为创新[[Luhmann's Systems Theory|系统理论]]在大学-产业-政府关系中的具体应用——两者共享"创新发生在多行动者互动中"的核心立场，但 Triple Helix 更聚焦于大学角色的历史性转变
 > - [[Innovation Ecosystem|创新生态系统]]：共享多行动者网络的分析视角，但"生态系统"隐喻更强调参与者之间的相互依存和共同演化
-> - 变革转型理论（Transformative Change, Schot & Steinmueller, 2018）：创新系统理论的当代延伸——认为系统范式在应对"棘手问题"时仍过于被动，需要更主动的方向性干预
+> - [[Transformative Change|变革转型]]理论（Transformative Change, Schot & Steinmueller, 2018）：创新系统理论的当代延伸——认为系统范式在应对"棘手问题"时仍过于被动，需要更主动的方向性干预
 
 ---
 
 ## 批评与局限
 
 > [!warning]
-> 创新[[Luhmann's Systems Theory|系统理论]]虽然在许多国家已成为主导政策范式，但近年受到"变革转型"学者批评：该范式对气候变化、生物多样性丧失、人口老龄化等重大社会挑战的回应过于被动和反应性——它擅长诊断系统失灵，但在积极推动方向性变革方面能力有限（Schot & Steinmueller, 2018; Lindner et al., 2024）（Ulrichsen, 2025, pp.32–34）。
+> 创新[[Luhmann's Systems Theory|系统理论]]虽然在许多国家已成为主导政策范式，但近年受到"[[Transformative Change|变革转型]]"学者批评：该范式对气候变化、生物多样性丧失、人口老龄化等重大社会挑战的回应过于被动和反应性——它擅长诊断系统失灵，但在积极推动方向性变革方面能力有限（Schot & Steinmueller, 2018; Lindner et al., 2024）（Ulrichsen, 2025, pp.32–34）。
 
 ---
 

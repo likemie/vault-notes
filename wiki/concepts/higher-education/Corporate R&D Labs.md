@@ -17,15 +17,13 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
-  - "[[Open Innovation]]"
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+related_arguments: []
 sources:
   - "[[Ch2_Ulrichsen_2025]]"
 confidence: medium
@@ -72,7 +70,7 @@ updated: 2026-05-27
 
 ### 后果：知识生产的分工重组
 
-企业中央实验室的衰退引发了一个更大的结构性变化——创新系统中出现了一种新的分工格局（Arora et al., 2020）（Ulrichsen, 2025, pp.41–42）：
+企业中央实验室的衰退引发了一个更大的结构性变化——[[Systems of Innovation|创新系统]]中出现了一种新的分工格局（Arora et al., 2020）（Ulrichsen, 2025, pp.41–42）：
 
 | 角色 | 承担者 | 核心活动 |
 |------|--------|----------|
@@ -91,7 +89,7 @@ updated: 2026-05-27
 
 - **全链条覆盖**：从基础科学发现到产品原型开发的完整链条，不区分"研究"与"开发"——这一区分本身就是中央实验室衰退后的产物
 - **跨学科整合**：在一个组织内集合物理、化学、材料科学、工程、计算机科学等多领域专家，能够系统性解决需要跨学科协作的复杂问题
-- **大学级科学产出**：产出的科学质量"匹敌甚至超越"顶尖研究型大学，是学术发表和诺贝尔奖级别的知识生产场所
+- **大学级科学产出**：产出的科学质量"匹敌甚至超越"顶尖研究型大学，是学术发表和诺贝尔奖级别的[[Knowledge Production|知识生产]]场所
 - **与大学的双轨关系**：一方面从大学招聘和培养科学家（大学是其人才管道），另一方面拥有独立的科研能力降低了对大学的依赖
 - **长期视野**：不受短期股东回报或季度财报周期约束，允许研究者进行需要多年投入才能见到成果的基础探索
 

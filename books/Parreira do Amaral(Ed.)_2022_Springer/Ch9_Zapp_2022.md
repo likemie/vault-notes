@@ -9,10 +9,10 @@ extracted_to:
   - "[[Otherhood]]"
   - "[[THE Impact Ranking]]"
   - "[[UN Sustainable Development Goals]]"
-  - "[[Jane Knight]]"
   - "[[John W. Meyer]]"
   - "[[World Society Theory]]"
   - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Jane Knight]]"
 processed_date: 2026-05-11
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

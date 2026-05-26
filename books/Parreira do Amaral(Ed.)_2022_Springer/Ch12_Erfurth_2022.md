@@ -9,10 +9,10 @@ extracted_to:
   - "[[Singapore Education Hub Policy]]"
   - "[[UAE Education Hub Projects]]"
   - "[[Comparative Case Study]]"
-  - "[[Jane Knight]]"
   - "[[Bob Jessop]]"
   - "[[Cultural Political Economy]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Jane Knight]]"
 processed_date: 2026-05-19
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

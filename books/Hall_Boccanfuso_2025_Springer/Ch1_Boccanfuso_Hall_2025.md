@@ -13,8 +13,8 @@ extracted_to:
   - "[[University, Inc. (Washburn, 2005)]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Innovation Ecosystem]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[University-Industry Collaboration]]"
   - "[[Triple Helix]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"

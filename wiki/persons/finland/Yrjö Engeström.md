@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Learner-Centred Education]]"
+  - "[[Transformative Change]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods: []
@@ -119,7 +120,7 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 
 - 在教育改革研究中，[[Third Generation Activity Theory|第三代活动理论]]被用于分析不同教育目标系统之间的张力与可能的协同。Wang & McLaughlin（2025）以该理论为框架，分析了中国学校中[[Test-Based Accountability|考试问责]]系统与 [[Learner-Centred Education|LCE]] 改革系统之间的互动和共享目标的建立（pp.590-601）。
 - 在组织学习与工作场所变革研究中，Engeström 的活动理论被用于分析不同专业团队之间的边界跨越和协作创新（待核）。
-- 发展性工作研究（developmental work research）方法论以活动理论为基础，用于介入和推动工作场所的转型性变革（待核）。
+- 发展性工作研究（developmental work research）方法论以活动理论为基础，用于介入和推动工作场所的[[Transformative Change|转型性变革]]（待核）。
 
 ---
 

@@ -17,10 +17,10 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
+  - "[[Corporate R&D Labs]]"
   - "[[University-Industry Collaboration]]"
   - "[[Third Mission (Universities)]]"
   - "[[Knowledge Exchange]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -68,7 +68,7 @@ updated: 2026-05-26
 
 三重螺旋关系并非二战后的产物。许多当今顶尖研究型大学在 1800 年代创立时就内嵌了服务工业和地方经济的使命（Martin, 2012）（Ulrichsen, 2025, pp.37–38）：英国 UCL、KCL、伯明翰、谢菲尔德、曼彻斯特等大学致力于服务现代工业社会；MIT（1861）、Georgia Tech（1885）、帝国理工（1907）等理工学院以专业技术培训和满足产业需求为核心使命；1862/1890 年美国 Morrill Acts 通过赠地建立学院并提供农业推广服务，将大学-政府-产业互动制度化（Ulrichsen, 2025, pp.37–38）。
 
-但在二十世纪初期，大企业中央研发实验室的兴起改变了三重螺旋的动态——企业建立内部科研能力，降低了对大学的依赖。AT&T 贝尔实验室、Xerox PARC、IBM Research 等企业实验室在科学产出上甚至可与顶尖大学匹敌（Arora et al., 2020）（Ulrichsen, 2025, pp.35–37）。
+但在二十世纪初期，大[[Corporate R&D Labs|企业中央研发实验室]]的兴起改变了三重螺旋的动态——企业建立内部科研能力，降低了对大学的依赖。AT&T 贝尔实验室、Xerox PARC、IBM Research 等企业实验室在科学产出上甚至可与顶尖大学匹敌（Arora et al., 2020）（Ulrichsen, 2025, pp.35–37）。
 
 ---
 
@@ -92,7 +92,7 @@ updated: 2026-05-26
 
 ### 2000 年代至今：制度化与战略化
 
-三重螺旋在 2000 年代后从政策倡导进入大学组织结构层面。大学正式承担"[[Third Mission (Universities)|第三使命]]"（Third Mission）——在研究和教学之外的创新与经济发展职能（Ulrichsen, 2024）（Ulrichsen, 2025, pp.41–44）。具体表现包括：大学设立分管[[Knowledge Exchange|知识交流]]的专门领导角色和支持单位、建立内部[[Transfer Translation Transformation|转化]]基金和科技园区、挑战导向的研究中心跨越传统学科-产业边界。英国从项目制竞争性资金转向公式驱动的长期稳定拨款——评估表明这种长期稳定性对扩展产学互动"极为宝贵"（Ulrichsen, 2025, pp.42–43）。美国则以 2022 年 Chips and Science Act 和 NSF 新设技术创新与伙伴关系局为代表，将大学-产业-投资者三重螺旋置于国家竞争力战略的核心（Ulrichsen, 2025, pp.43–44）。
+三重螺旋在 2000 年代后从政策倡导进入大学组织结构层面。大学正式承担"[[Third Mission (Universities)|第三使命]]"（Third Mission）——在研究和教学之外的创新与经济发展职能（Ulrichsen, 2024）（Ulrichsen, 2025, pp.41–44）。具体表现包括：大学设立分管[[Knowledge Exchange|知识交流]]的专门领导角色和支持单位、建立内部转化基金和科技园区、挑战导向的研究中心跨越传统学科-产业边界。英国从项目制竞争性资金转向公式驱动的长期稳定拨款——评估表明这种长期稳定性对扩展产学互动"极为宝贵"（Ulrichsen, 2025, pp.42–43）。美国则以 2022 年 Chips and Science Act 和 NSF 新设技术创新与伙伴关系局为代表，将大学-产业-投资者三重螺旋置于国家竞争力战略的核心（Ulrichsen, 2025, pp.43–44）。
 
 ---
 

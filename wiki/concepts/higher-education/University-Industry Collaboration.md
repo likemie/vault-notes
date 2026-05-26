@@ -14,10 +14,10 @@ tags:
   - "level/higher-education"
   - "theme/innovation"
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Ecosystem]]"
   - "[[Academic Freedom]]"
+  - "[[Corporate R&D Labs]]"
   - "[[Third Mission (Universities)]]"
   - "[[Knowledge Transfer]]"
   - "[[Further Education]]"
@@ -58,7 +58,7 @@ updated: 2026-05-26
 
 产学合作的回报体现在三大维度：
 
-- **研究与学术（Research and Scholarship）**：合作可以催生知识创造，为科学和发现提供情境化，创造数据生成和分析的工具与软件，在真实环境中开展试验和实验，并让人类受试者参与研究。产学合作可以拓宽教师和学生的经验，满足其发现的好奇心，帮助将想法[[Transfer Translation Transformation|转化]]为有益人类的技术（pp.4–5）。
+- **研究与学术（Research and Scholarship）**：合作可以催生知识创造，为科学和发现提供情境化，创造数据生成和分析的工具与软件，在真实环境中开展试验和实验，并让人类受试者参与研究。产学合作可以拓宽教师和学生的经验，满足其发现的好奇心，帮助将想法转化为有益人类的技术（pp.4–5）。
 - **教育与学习（Education and Learning）**：大学通过学位项目为学生提供职业准备，行业通过课堂讲座、项目、合作教育、实习以及参与学位论文等方式丰富学位项目。大学与企业合作提升现有劳动者的技能，使课程与不断变化的需求保持相关（pp.4–5）。
 - **公共效益（Public Benefit）**：产学合作通过大学发明衍生的初创企业、成熟企业商业化技术以及校友对企业的贡献来促进经济增长。合作可以带来医疗技术和制药创新、减少污染、提高生产力，或帮助解决气候变化和延长寿命等"重大挑战"（grand challenges）（p.5）。
 
@@ -88,7 +88,7 @@ updated: 2026-05-26
 > - 1920 年前后，美国大学的核心特征——博士教育、专业学位项目、产学互动、[[Academic Freedom|学术自由]]与客观性——已基本确立（pp.11–12）
 > - 二战后，Vannevar Bush 的报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调了基础研究和开放式研究在美国的战略重要性，催生了国家科学基金会（NSF）和国防部对大学基础研究的支持（p.13）
 > - 近几十年来，"界面"上的创新速度加快，产生了大量的回报（p.4）
-- 1980 年代后，在冷战结束、企业中央研发实验室衰落和全球竞争加剧的背景下，大学经历了从与产业"脱钩"到重新"嵌入"[[Systems of Innovation|创新系统]]的转变。美国 1980 年 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 给予大学对联邦资助研究成果的知识产权所有权；英国 1983 年取消 British Technology Group 对大学 IP 的垄断、1993 年发布 *Realising Our Potential* 白皮书；中国 1993 年通过《科学技术进步法》建立了相当于 Bayh-Dole 的制度框架（Ulrichsen, 2025, pp.38–41）
+- 1980 年代后，在冷战结束、[[Corporate R&D Labs|企业中央研发实验室]]衰落和全球竞争加剧的背景下，大学经历了从与产业"脱钩"到重新"嵌入"[[Systems of Innovation|创新系统]]的转变。美国 1980 年 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 给予大学对联邦资助研究成果的知识产权所有权；英国 1983 年取消 British Technology Group 对大学 IP 的垄断、1993 年发布 *Realising Our Potential* 白皮书；中国 1993 年通过《科学技术进步法》建立了相当于 Bayh-Dole 的制度框架（Ulrichsen, 2025, pp.38–41）
 - 2000 年代后，大学日益深入地嵌入创新系统，"寻求积极促进互动和溢出效应以连接研究与应用和商业化，承担起催化和推动经济和社会发展的角色"（Youtie & Shapira, 2008, p.1189，引自 Ulrichsen, 2025, p.42）。这催生了正式的制度化的[[Third Mission (Universities)|大学第三使命]]（Ulrichsen, 2025, pp.41–44）
 - 同期，产学互动的规模大幅增长：美国大学来自产业的研发资金从 1990 年的 22 亿美元增至 2022 年的 57 亿美元（按 2022 年不变价）；英国大学[[Knowledge Transfer|知识转移]]活动收入从 2004 年的 43 亿美元增至 2022 年的 87 亿美元（Ulrichsen, 2025, p.44）
 
