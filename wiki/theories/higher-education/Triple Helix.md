@@ -22,7 +22,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Science, The Endless Frontier 1945]]"
 related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
@@ -59,7 +60,7 @@ updated: 2026-05-26
 > [!note]
 - 1995 年 Etzkowitz 和 Leydesdorff 在 EASST Review 上首次提出 Triple Helix 概念，将大学-产业-政府关系描述为"[[Knowledge-Based Economy|知识经济]]发展的实验室"（p.13）
 - 此后该模型被广泛应用于分析创新政策和[[University-Industry Collaboration|产学合作]]，成为创新研究的重要理论框架之一
-- 在美国语境中，该模型可以解释二战后创新体系的形成：曼哈顿计划和 MIT 辐射实验室的秘密研究 → Vannevar Bush 的 Science, The Endless Frontier（1945）强调基础开放式研究 → 国家科学基金会（NSF）的创建和国防部对大学基础研究的支持 → 政府资助、大学研究和企业创新之间的反馈循环（p.13）
+- 在美国语境中，该模型可以解释二战后创新体系的形成：曼哈顿计划和 MIT 辐射实验室的秘密研究 → Vannevar Bush 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调基础开放式研究 → 国家科学基金会（NSF）的创建和国防部对大学基础研究的支持 → 政府资助、大学研究和企业创新之间的反馈循环（p.13）
 - O'Mara（2019）的 The Code 在硅谷发展史中记录了这一三重螺旋现象的具体运作（p.13）
 
 ---

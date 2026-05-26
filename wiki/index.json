@@ -526,11 +526,11 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Transfer Translation Transformation.md",
     "aliases": [
-      "转移",
       "3T 框架",
       "3T framework",
       "转译",
-      "转化"
+      "转化",
+      "迁移"
     ]
   },
   {
@@ -4694,8 +4694,7 @@
     "type": "person",
     "path": "wiki/persons/uk/George Berkeley.md",
     "aliases": [
-      "贝克莱",
-      "Berkeley"
+      "贝克莱"
     ]
   },
   {
@@ -6143,6 +6142,16 @@
     ]
   },
   {
+    "title": "APLU Innovation and Economic Prosperity Program",
+    "type": "fact",
+    "path": "wiki/facts/us/APLU Innovation and Economic Prosperity Program.md",
+    "aliases": [
+      "APLU IEP",
+      "创新与经济繁荣项目",
+      "APLU 经济参与认证"
+    ]
+  },
+  {
     "title": "Bayh-Dole Act of 1980",
     "type": "fact",
     "path": "wiki/facts/us/Bayh-Dole Act of 1980.md",
@@ -6186,6 +6195,17 @@
     "aliases": [
       "加州儿童社会与经济福祉循证清算中心",
       "CEBC"
+    ]
+  },
+  {
+    "title": "California Master Plan for Higher Education",
+    "type": "fact",
+    "path": "wiki/facts/us/California Master Plan for Higher Education.md",
+    "aliases": [
+      "加州高等教育总体规划",
+      "California Master Plan",
+      "加州总体规划",
+      "Master Plan for Higher Education"
     ]
   },
   {
@@ -6345,6 +6365,27 @@
     ]
   },
   {
+    "title": "Rising Above the Gathering Storm 2007",
+    "type": "fact",
+    "path": "wiki/facts/us/Rising Above the Gathering Storm 2007.md",
+    "aliases": [
+      "Rising Above the Gathering Storm",
+      "迎接风暴",
+      "NASEM 2007 Rising Above the Gathering Storm"
+    ]
+  },
+  {
+    "title": "Science, The Endless Frontier 1945",
+    "type": "fact",
+    "path": "wiki/facts/us/Science, The Endless Frontier 1945.md",
+    "aliases": [
+      "Science, The Endless Frontier",
+      "科学无尽的前沿",
+      "Bush report",
+      "Vannevar Bush report"
+    ]
+  },
+  {
     "title": "Smith Lever Act of 1914",
     "type": "fact",
     "path": "wiki/facts/us/Smith Lever Act of 1914.md",
@@ -6415,6 +6456,16 @@
     "aliases": [
       "肯塔基大学Top-20计划",
       "Kentucky Top-20 Plan"
+    ]
+  },
+  {
+    "title": "University, Inc. (Washburn, 2005)",
+    "type": "fact",
+    "path": "wiki/facts/us/University, Inc. (Washburn, 2005).md",
+    "aliases": [
+      "University, Inc.",
+      "大学公司化批判",
+      "Washburn 大学公司化"
     ]
   },
   {

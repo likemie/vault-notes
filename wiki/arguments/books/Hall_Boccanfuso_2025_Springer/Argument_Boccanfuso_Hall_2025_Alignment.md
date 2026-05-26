@@ -14,16 +14,16 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Further Education]]"
   - "[[Technology Transfer]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods: []
-related_persons:
-  - "[[George Berkeley]]"
+related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
+  - "[[California Master Plan for Higher Education]]"
+  - "[[Science, The Endless Frontier 1945]]"
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
 sources:
@@ -204,7 +204,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 一个关键洞见是：即使是营利性企业也从创意和人员流动中受益。硅谷的工程师从 Google 跳槽到 Apple、从 Apple 跳槽到创业公司，这种人才流动恰恰是创新传播的核心机制。"创新不容易在孤立中发生"（p.12）。
 
-大学是区域创新生态系统的"锚点"——斯坦福之于硅谷，MIT 之于波士顿。但重要的是，基于地点的生态系统需要一系列学院和大学，而非仅一所精英大学。加州高等教育总体规划下包括社区学院、加州州立大学和加州大学三个层次，支撑了整个区域的创新经济（pp.12–13）。
+大学是区域创新生态系统的"锚点"——斯坦福之于硅谷，MIT 之于波士顿。但重要的是，基于地点的生态系统需要一系列学院和大学，而非仅一所精英大学。[[California Master Plan for Higher Education|加州高等教育总体规划]]下包括社区学院、加州州立大学和加州大学三个层次，支撑了整个区域的创新经济（pp.12–13）。
 
 > [!example]
 > 硅谷不仅需要斯坦福培养的 AI 研究员和计算机科学家，也需要社区学院培养的实验室技术员和加州州立大学培养的工程项目经理。O'Mara（2019）在 The Code 中引用原文："成功归功于一个充满活力和多样性的数千人群体，而不仅仅是那些主要参与者"（p.13）。
@@ -213,13 +213,13 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 **步骤 12：二战后政府投资的催化作用**
 
-曼哈顿计划（由 UC [[George Berkeley|Berkeley]] 教授 J. Robert Oppenheimer 领导）和 MIT 辐射实验室的雷达技术研究是二战后政府研发投资的直接先例。Vannevar Bush 的报告 Science, The Endless Frontier（1945）强调了对基础开放式研究的战略投资的重要性。其后果包括：国家科学基金会（NSF）的创建，以及国防部对大学基础研究项目的支持。这三种力量——政府资助、大学研究和企业创新——构成了 [[Triple Helix]] 的反馈循环（p.13）。
+曼哈顿计划（由 UC Berkeley 教授 J. Robert Oppenheimer 领导）和 MIT 辐射实验室的雷达技术研究是二战后政府研发投资的直接先例。Vannevar Bush 的报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调了对基础开放式研究的战略投资的重要性。其后果包括：国家科学基金会（NSF）的创建，以及国防部对大学基础研究项目的支持。这三种力量——政府资助、大学研究和企业创新——构成了 [[Triple Helix]] 的反馈循环（p.13）。
 
 ---
 
 **步骤 13：[[Technology Transfer|技术转移]]的制度安排**
 
-[[Technology Transfer|技术转移]]是产学合作的另一关键维度。[[Bayh-Dole Act of 1980|Bayh-Dole Act]]（1980）——在美国政府资助下于大学产生的知识产权归大学所有——为技术[[Transfer Translation Transformation|转移]]奠定了法律基础。这产生了一个重要的制度结构：企业的合同与拨款办公室协商赞助研究所产生的知识产权权利，技术转移办公室（Technology Transfer Office）协商知识产权许可。两者通常隶属于大学的科研副校长（p.14）。
+[[Technology Transfer|技术转移]]是产学合作的另一关键维度。[[Bayh-Dole Act of 1980|Bayh-Dole Act]]（1980）——在美国政府资助下于大学产生的知识产权归大学所有——为技术转移奠定了法律基础。这产生了一个重要的制度结构：企业的合同与拨款办公室协商赞助研究所产生的知识产权权利，技术转移办公室（Technology Transfer Office）协商知识产权许可。两者通常隶属于大学的科研副校长（p.14）。
 
 一个尖锐的挑战是：商业化应该走初创企业路线（发明人可能成为创始人）还是成熟企业路线（发明人无所有权股份）？大多数初创企业会失败，但大学可能希望支持教师的创业精神；成熟企业可以持续投资技术开发，但可能不给予发明人同样的激励和经济回报（p.14）。
 
