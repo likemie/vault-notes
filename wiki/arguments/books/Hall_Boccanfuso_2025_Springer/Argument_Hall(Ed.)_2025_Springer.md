@@ -112,21 +112,37 @@ updated: 2026-05-26
 
 ### Table 1.1: 各章主题
 
-| Foundations（基础） | Avenues（路径） | Mechanics（机制） |
+| 基础 Foundations | 路径 Avenues | 机制 Mechanics |
 |---------------------|-----------------|-------------------|
-| Evolution of UI engagement | Strategic partnerships and consortia | Ethical and legal frameworks |
-| Organizational models | Innovation centers and economic development | Intellectual property management |
-| Motivations and success metrics | Entrepreneurship | Research data management |
-| International comparisons | Executive education | International relationships |
-| Examples of engagement from: | Academic health systems | |
-| · IBM | Clinical trials | |
-| · Princeton | Gaining support within: | |
-| | · Companies | |
-| | · Universities | |
+| 产学合作的演化 | 战略伙伴关系与联合体 | 伦理与法律框架 |
+| 组织模型 | 创新中心与经济发展 | 知识产权管理 |
+| 动机与成功指标 | 创业 | 研究数据管理 |
+| 国际比较 | 高管教育 | 国际合作关系 |
+| 产学合作案例： | 学术医疗系统 | |
+| · IBM | 临床试验 | |
+| · Princeton | 争取内部支持： | |
+| | · 企业 | |
+| | · 大学 | |
 
 > 表 1.1 出自 Chapter 1（p.20），展示全书 17 章在 Foundations-Avenues-Mechanics 三层框架下的组织方式。
 
-图 1.3（p.21）以三层同心结构可视化了同一框架：从基础的"催化"到路径的"启动"再到机制的"维持"，呈现产学合作的全过程。
+### Fig. 1.3: 产学合作的关键议题
+
+> 全书 17 章贯穿 Foundation（催化）→ Avenues（启动）→ Mechanics（维持）三阶段，打造有影响力的产学合作（p.21）。
+
+| 基础 Foundations<br/>催化 Catalyzing | 路径 Avenues<br/>启动 Initiating | 机制 Mechanics<br/>维持 Sustaining |
+|--------------------------------------|----------------------------------|------------------------------------|
+| 产学合作的演化 | 战略伙伴关系与联合体 | 伦理与法律框架 |
+| 组织模型 | 创新中心与经济发展 | 知识产权管理 |
+| 动机与成功指标 | 创业 | 研究数据管理 |
+| 国际比较 | 高管教育 | 国际合作关系 |
+| 产学合作案例： | 学术医疗系统 | |
+| · IBM | 临床试验 | |
+| · Princeton | 争取内部支持： | |
+| | · 企业 | |
+| | · 大学 | |
+
+> 图 1.3 出自 Chapter 1（p.21），以三层同心结构可视化 Foundations-Avenues-Mechanics 框架。与 Table 1.1（p.20）内容一致，但增加了 catalyzing → initiating → sustaining 的阶段逻辑。
 
 ---
 
