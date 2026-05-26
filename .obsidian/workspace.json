@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
+                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Boccanfuso_Hall_2025_Alignment"
+              "title": "Argument_Hall(Ed.)_2025_Springer"
             }
           }
         ]
@@ -189,14 +189,18 @@
   },
   "active": "d095fc36407c70a5",
   "lastOpenFiles": [
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
+    "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
+    "sources/Rappleye_2006_RCIE/Rappleye_2006_RCIE.pdf",
+    "sources/Rappleye_2006_RCIE/Rappleye_2006_RCIE.md",
+    "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png",
     "wiki/concepts/instruction-pedagogy/Feedback.md",
     "wiki/arguments/journal-articles/Paideia/Argument_Allerup_2015_Paideia.md",
-    "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
     "wiki/persons/germany/Andreas Helmke.md",
     "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
     "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
     "wiki/concepts/curriculum/Constructive Alignment.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
     "wiki/facts/us/Science, The Endless Frontier 1945.md",
     "wiki/facts/us/California Master Plan for Higher Education.md",
     "wiki/facts/us/APLU Innovation and Economic Prosperity Program.md",
@@ -212,7 +216,6 @@
     "wiki/concepts/higher-education/University-Industry Collaboration.md",
     "wiki/facts/us/University Industry Demonstration Partnership.md",
     "wiki/theories/higher-education/Triple Helix.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
     "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Hall_Boccanfuso_2025_Springer/figures/ui_engagement_loop_zh.svg",
@@ -226,14 +229,10 @@
     "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
     "books/郑_2023_上海三联书店/figures/第五章大学生出路产生机制的四分类.jpeg",
-    "books/郑_2023_上海三联书店/figures/第五章 四种类型的毕业出路获得机制.jpeg",
     "books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025.pdf",
-    "wiki/facts/us/Smith Lever Act of 1914.md",
-    "wiki/facts/us/Bayh-Dole Act of 1980.md",
     "raw/(Ed.)前言 University-Industry Collaboration.pdf",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer",
     "books/Hall_Boccanfuso_2025_Springer",
-    "sources/Teng_2025_CE.pdf",
-    "sources/temp_2024_Compare.pdf"
+    "sources/Teng_2025_CE.pdf"
   ]
 }

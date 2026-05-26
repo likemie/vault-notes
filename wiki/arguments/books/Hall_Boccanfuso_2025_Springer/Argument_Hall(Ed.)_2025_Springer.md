@@ -102,11 +102,31 @@ updated: 2026-05-26
 > [!abstract]
 > 全书分为三层——基础（Foundations）、路径（Avenues）和机制（Mechanics）——对应从"为什么做"到"在哪些领域做"再到"怎么做"的逻辑递进。共 17 章。
 
-- **基础（Chaps. 1–5）**：[[University-Industry Collaboration|产学合作]]的演化历史、组织模型、动机与成功指标，以及国际比较。以普林斯顿大学和 IBM 为具体案例，展示不同类型组织的产学合作策略
-- **路径（Chaps. 6–13）**：战略联盟与联合体、创新中心与经济发展、创业、高管教育、学术医疗系统与临床试验，以及如何在企业和大学内部争取对产学合作的支持
-- **机制（Chaps. 14–17）**：伦理与法律框架、知识产权管理、研究数据管理，以及国际合作关系——即实现产学合作所需的具体操作步骤
+### 三层架构
 
-图 1.3（p.21）以三层同心结构可视化了这一框架：从基础的"催化"到路径的"启动"再到机制的"维持"，呈现产学合作的全过程。
+| 层次 | 章节 | 关注焦点 | 涵盖主题 |
+|------|------|----------|----------|
+| **Foundations**（基础） | Chaps. 1–5 | [[University-Industry Collaboration\|产学合作]]的演化、组织模型、动机与成功指标 | 国际比较概览；以普林斯顿大学和 IBM 为具体案例 |
+| **Avenues**（路径） | Chaps. 6–13 | 产学合作发挥作用的领域 | 战略联盟与联合体、创新中心与经济发展、创业、高管教育、学术医疗系统、临床试验；如何在企业和大学内部争取支持 |
+| **Mechanics**（机制） | Chaps. 14–17 | 建立和维持产学关系的具体步骤 | 伦理与法律框架、知识产权管理、研究数据管理、国际合作关系 |
+
+### Table 1.1: 各章主题
+
+| Foundations（基础） | Avenues（路径） | Mechanics（机制） |
+|---------------------|-----------------|-------------------|
+| Evolution of UI engagement | Strategic partnerships and consortia | Ethical and legal frameworks |
+| Organizational models | Innovation centers and economic development | Intellectual property management |
+| Motivations and success metrics | Entrepreneurship | Research data management |
+| International comparisons | Executive education | International relationships |
+| Examples of engagement from: | Academic health systems | |
+| · IBM | Clinical trials | |
+| · Princeton | Gaining support within: | |
+| | · Companies | |
+| | · Universities | |
+
+> 表 1.1 出自 Chapter 1（p.20），展示全书 17 章在 Foundations-Avenues-Mechanics 三层框架下的组织方式。
+
+图 1.3（p.21）以三层同心结构可视化了同一框架：从基础的"催化"到路径的"启动"再到机制的"维持"，呈现产学合作的全过程。
 
 ---
 

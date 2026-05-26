@@ -1863,7 +1863,10 @@
   {
     "title": "Feedback",
     "type": "concept",
-    "path": "wiki/concepts/instruction-pedagogy/Feedback.md"
+    "path": "wiki/concepts/instruction-pedagogy/Feedback.md",
+    "aliases": [
+      "教学反馈"
+    ]
   },
   {
     "title": "Formative Assessment",
