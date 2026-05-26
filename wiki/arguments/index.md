@@ -18,7 +18,7 @@ Total entries: **109**
 
 - [[Argument_Boccanfuso_Hall_2025_Alignment]] — 以2024年诺贝尔奖为引，论证产学合作的三重回报框架，分析大学与企业目标对齐的结构性挑战，通过历史追溯和UIDP案例说明如何克服障碍实现界面上的创新
 - [[Argument_Hall(Ed.)_2025_Springer]] — 围绕产学合作的对齐（alignment）、参与（engagement）与公共效益组织 17 章研究，以基础-路径-机制三层框架展示大学与企业在研究、教育和创新生态系统中的合作机制与挑战
-- [[Argument_Ulrichsen_2025_UIR_Evolution]] — 综述过去50年产学关系（UIRs）的演变，从创新模型（线性→耦合→系统集成→创新系统）、国家政策范式（增长→系统升级→变革转型）和大学-企业角色变迁三个维度追踪UIR走向制度化与战略化的历程，归纳影响UIR的五层次因素框架
+- [[Argument_Ulrichsen_2025_UIR_Evolution]] — 综述过去50年产学关系演变，从创新模型、国家政策范式和大学-企业角色变迁三个维度追踪UIR从零散互动走向制度化战略化的历程，提出七层次影响因素框架
 
 ### Parreira do Amaral(Ed.)_2022_Springer
 
