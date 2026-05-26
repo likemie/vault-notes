@@ -1547,6 +1547,16 @@
     ]
   },
   {
+    "title": "Innovation Ecosystem",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Innovation Ecosystem.md",
+    "aliases": [
+      "创新生态系统",
+      "创新生态",
+      "innovation ecosystems"
+    ]
+  },
+  {
     "title": "International Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/International Education.md",
@@ -1725,6 +1735,18 @@
     ]
   },
   {
+    "title": "Technology Transfer",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Technology Transfer.md",
+    "aliases": [
+      "技术转移",
+      "技术转让",
+      "大学技术转移",
+      "university technology transfer",
+      "tech transfer"
+    ]
+  },
+  {
     "title": "Transnational Research Collaboration in Higher Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Transnational Research Collaboration in Higher Education.md",
@@ -1742,6 +1764,19 @@
       "大学社会责任",
       "USR",
       "university corporate social responsibility"
+    ]
+  },
+  {
+    "title": "University-Industry Collaboration",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/University-Industry Collaboration.md",
+    "aliases": [
+      "产学合作",
+      "大学产业合作",
+      "产学参与",
+      "University-Industry Engagement",
+      "UI collaboration",
+      "UI engagement"
     ]
   },
   {
@@ -3059,7 +3094,8 @@
       "新儒家",
       "宋明理学",
       "Neo-Confucian",
-      "心学"
+      "陆王心学",
+      "程朱理学"
     ]
   },
   {
@@ -3246,6 +3282,17 @@
     "path": "wiki/theories/higher-education/Network Society.md",
     "aliases": [
       "网络社会"
+    ]
+  },
+  {
+    "title": "Triple Helix",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Triple Helix.md",
+    "aliases": [
+      "三重螺旋",
+      "三重螺旋模型",
+      "大学产业政府三重螺旋",
+      "Triple Helix model"
     ]
   },
   {
@@ -6303,6 +6350,16 @@
     ]
   },
   {
+    "title": "University Industry Demonstration Partnership",
+    "type": "fact",
+    "path": "wiki/facts/us/University Industry Demonstration Partnership.md",
+    "aliases": [
+      "UIDP",
+      "大学产业示范伙伴关系",
+      "产学示范伙伴"
+    ]
+  },
+  {
     "title": "University of Kentucky Top-20 Plan",
     "type": "fact",
     "path": "wiki/facts/us/University of Kentucky Top-20 Plan.md",
@@ -6375,6 +6432,11 @@
     "title": "Argument_Li_2012_Cambridge",
     "type": "argument",
     "path": "wiki/arguments/books/Argument_Li_2012_Cambridge.md"
+  },
+  {
+    "title": "Argument_Hall(Ed.)_2025_Springer",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md"
   },
   {
     "title": "Argument_Amos_2022_Springer",
