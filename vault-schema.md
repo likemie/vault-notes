@@ -24,7 +24,7 @@
 
 ### 普通论文／报告
 
-1. 读取 `vault-schema.md`；若触发书籍任务，转入对应 book schema。
+1. 读取 `vault-schema.md`；若触发书籍、figure、图片或图表任务，转入 `Specialized Schemas`。
 2. 判断来源类型：期刊论文用 `source_record.py article`；报告、政策文件、白皮书用 `source_record.py report`。
 3. 创建初始 source record 并固定 PDF 到 `sources/`，再提取文本。
 4. 扫描文献，先判断需要建立或更新哪些知识对象：Concept / Theory / Fact / Person / Method / Argument；同时判断是否为实证研究。
@@ -40,11 +40,16 @@
 14. 自动运行 `python3 scripts/wiki_index.py`。
 15. 询问用户是否继续运行标准脚本流程。
 
-### 书籍任务
+### Specialized Schemas
 
-- 只读取匹配的一种专项 schema：编著/论文集读 `schema/schema-edited-volume.md`；专著 PDF 或用户标注「专著」读 `schema/schema-monograph-pdf.md`；EPUB 读 `schema/schema-monograph-epub.md`。
-- 每次只处理一章或用户当前指定章节，处理完停止。
-- 涉及 figure / 图片 / 图表时，额外读取 `schema/schema-figures.md`。
+| 触发条件 | 读取文件 |
+|---|---|
+| `(Ed.)` / 编著 / 论文集 | `schema/schema-edited-volume.md` |
+| 专著 PDF / 用户标注「专著」 | `schema/schema-monograph-pdf.md` |
+| `.epub` | `schema/schema-monograph-epub.md` |
+| figure / 图片 / 图表 | `schema/schema-figures.md` |
+
+书籍任务每次只处理一章或用户当前指定章节，处理完停止。若书籍任务同时涉及 figure / 图片 / 图表，再额外读取 `schema/schema-figures.md`。
 
 ### Sync Decision
 
@@ -88,11 +93,11 @@ schema/                      专项工作流 schema，按任务触发读取
   schema-monograph-epub.md
 templater/                   Obsidian Templater 插件模板镜像；AI 工作流读取 wiki/templates/
 scripts/
-  wiki_index.py               自动生成 wiki/index.json 与 wiki/index.md
-  wiki_linker.py              根据 index.json 自动同步正文 wikilink
-  wiki_relations.py           同步 related_*、sources 与 source record extracted_to
-  vault_lint.py               检查 vault 结构、frontmatter、链接、模板与 Quartz 风险
-  source_record.py            创建、固定、finalize source 记录与 PDF / EPUB 阅读页面
+  wiki_index.py
+  wiki_linker.py
+  wiki_relations.py
+  vault_lint.py
+  source_record.py
 wiki/
   index.json                  AI / Claude Code 检索用极简机器索引
   index.md                    Quartz 4 / Obsidian / GitHub 可读静态索引
@@ -179,6 +184,7 @@ OECD_2018_GlobalCompetence
 - Argument 不使用 `aliases`。
 - Concept / Theory / Method / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
 - Person 的 `aliases` 主要写中文全称；只有非常著名或中文文献中常用简称的人物才写简称，如 `杜威`、`皮亚杰`、`布迪厄`、`阿普尔`、`哈蒂`。
+- 单个 alias 不要中英混合；中文译名、英文变体和缩写分成不同 alias。
 - 英文 alias 默认不区分大小写；不要同时写只差大小写的重复 alias。
 - 若 title 与缩写已经分别覆盖，不再写 `Full Name (ABBR)` 形式的 alias。
 - 不要写过短、过宽或 tag 风格 slug alias，如“资本”“文化”“教育”“政策”“课程”“能力”“国家”“公平”。
@@ -218,16 +224,6 @@ python3 scripts/wiki_index.py
 python3 scripts/vault_lint.py
 ```
 
-按路径缩小同步或检查范围：
-
-```bash
-python3 scripts/wiki_linker.py sync wiki/concepts
-python3 scripts/wiki_relations.py sync wiki/concepts
-python3 scripts/wiki_relations.py sync sources
-python3 scripts/vault_lint.py --path wiki/concepts
-python3 scripts/vault_lint.py --path "wiki/concepts/comparative-education/World Culture Theory.md"
-```
-
 ### Full Sync
 
 非必要不要运行 full。只有在以下情况才全量同步与检查：
@@ -261,17 +257,6 @@ python3 scripts/vault_lint.py --full --strict
 - 只移动文件本身，不手动编辑 `wiki/index.json`、`wiki/index.md`、各类型索引页或 generated fields。
 - 批量移动 journal article Argument 时，按 `journal` 字段创建或复用 `wiki/arguments/journal-articles/<journal-name>/`，移动后立即运行 `python3 scripts/wiki_index.py`。
 - 若移动涉及正文中的 vault-root 图片路径、source record 的反向关系，或移动后索引 / 链接检查异常，再运行 `wiki_linker.py sync --full`、`wiki_relations.py sync --full` 与 `vault_lint.py --full`。
-
-### Generated Fields
-
-不要手动编辑或维护：
-
-- `wiki/index.json`
-- `wiki/index.md`
-- 各类型索引页，如 `wiki/concepts/index.md`
-- frontmatter 中的 `related_*`
-- wiki 条目 frontmatter 中的 YAML `sources`
-- source record frontmatter 中的 `extracted_to`
 
 ### Wikilink and Relation Rules
 
@@ -316,14 +301,7 @@ python3 scripts/source_record.py report --file raw/FILENAME.pdf --record-name te
 python3 scripts/source_record.py finalize --argument "wiki/arguments/.../Argument_<Author>_<Year>_<JournalAbbrev>.md" --rename
 ```
 
-`finalize` 的职责：
-
-- 读取 Argument 页 frontmatter 的 `citation`。
-- 从 Argument 页 frontmatter `sources` 或正文 `## 来源` 找到对应 source record。
-- 将 source record 改写为极简结构。
-- 使用 `--rename` 时，把 source record 和 PDF 重命名为 Argument 文件名去掉 `Argument_` 后的名称。
-- 如发生重命名，同步替换 Argument 页中的 source wikilink。
-- 不维护 `extracted_to`，不运行 `wiki_relations.py`。
+`finalize` 只负责从 Argument 页回填 citation、按需重命名 source record/PDF，并同步 Argument 页中的 source wikilink；不维护 `extracted_to`。
 
 ### Source Files
 
@@ -336,20 +314,7 @@ python3 scripts/source_record.py finalize --argument "wiki/arguments/.../Argumen
 
 ---
 
-## 7. Specialized Schemas
-
-专项 schema 只在触发对应任务时读取；不要为普通条目更新读取无关 schema。
-
-| 触发条件 | 读取文件 |
-|---|---|
-| `(Ed.)` / 编著 / 论文集 | `schema/schema-edited-volume.md` |
-| 专著 PDF / 用户标注「专著」 | `schema/schema-monograph-pdf.md` |
-| `.epub` | `schema/schema-monograph-epub.md` |
-| 提取、整理、移动、删除、重画或引用文献 figure / 图片 / 图表 | `schema/schema-figures.md` |
-
----
-
-## 8. Entry Perspective and Writing Style
+## 7. Entry Perspective and Writing Style
 
 ### Knowledge-base perspective
 
@@ -388,13 +353,12 @@ Argument 引用规则：
 
 - 新建条目必须读取对应 `wiki/templates/template-*.md`。
 - 模板提供结构和样式；有内容才写，没有内容可省略空章节。
-- 写正文时先按模板的概念逻辑组织主题，再在每个主题内按时间、发展阶段或论证顺序排列；不要把所有材料简单堆成时间线。
+- 写正文时先按模板逻辑组织主题，再在每个主题内按时间、发展阶段或论证顺序排列。
 - `summary` 只用于索引说明，不是摘要；必须围绕条目本身写，不围绕某篇论文或章节写。
 - `summary` 外层必须使用双引号包裹；内容可以正常使用中文逗号、顿号、句号、分号、括号等中文标点；内部只需避开英文冒号 `:`、双引号 `"`、单引号 `'`，不要用其他字符代替原本应有的标点。
 - `summary` 需要断句时优先使用中文逗号，不要为了规避字符而省略标点。
 - 重要定义、关键数据、关键引用、争议、例子等，按模板使用 callout。
 - 常用 callout：`[!info]` 定义、背景、方法说明；`[!abstract]` 理论框架、结构、政策摘要；`[!success]` 主要发现、影响、效果；`[!warning]` 争议、局限、批评；`[!quote]` 原文引用；`[!example]` 案例、教育情境例子；`[!note]-` 可折叠补充说明。
-- 不要过度使用 callout；只在能增强可读性或区分信息类型时使用。
 - callout 应服务阅读体验：用来区分定义、论证框架、数据、例子、争议和原文引用；普通说明段不要强行包进 callout。
 - `---` 分割线用于主要章节之间，以及 Argument 论证步骤之间；不要在同一小段内部频繁插入。
 - 理论或哲学内容要避免纯定义堆砌；抽象主张后应有例子或说明。
@@ -406,7 +370,7 @@ Argument 引用规则：
 
 ---
 
-## 9. Extraction Criteria
+## 8. Extraction Criteria
 
 ### Fact
 
@@ -432,7 +396,7 @@ Argument 引用规则：
 
 ---
 
-## 10. Updating Existing Entries
+## 9. Updating Existing Entries
 
 整合新内容时：
 
@@ -453,7 +417,7 @@ Argument 引用规则：
 
 ---
 
-## 11. Link, Duplication and Markdown Safety
+## 10. Link, Duplication and Markdown Safety
 
 ### Link and Duplication Rules
 
@@ -461,9 +425,7 @@ Argument 引用规则：
 
 - 详细内容只写在最相关的主条目中。
 - 其他条目只写一句关系说明。
-- 泛指某类事物时不需要强行链接。
 - 条目尚未建立时先写纯文字。
-- AI 不手动维护 frontmatter 关系字段。
 
 ### Quartz / Markdown Safety
 

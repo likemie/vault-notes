@@ -34,13 +34,13 @@ python3 scripts/vault_lint.py
 
 Do not run `--full` unless necessary. Prefer git-incremental or path-scoped sync/checks. Use full only for bulk title/alias/path changes, bulk source renames, suspicious incremental results, or before release/backup/important commits.
 
-Automation responsibilities:
+Script roles:
 
-- `wiki_index.py` generates `wiki/index.json` and `wiki/index.md`.
-- `wiki_linker.py` synchronizes body wikilinks from `title` and `aliases` in `wiki/index.json`.
-- `wiki_relations.py` synchronizes YAML `related_*` from body wikilinks, and YAML `sources` from the `## 来源` / `## Sources` section.
-- `source_record.py` creates source records and PDF / EPUB reading pages using explicit subcommands.
-- `vault_lint.py` checks frontmatter, summaries, templates, wikilinks, source records, Quartz risks, and old command/path leftovers.
+- `wiki_index.py`: generated indexes.
+- `wiki_linker.py`: body wikilinks from `title` and `aliases`.
+- `wiki_relations.py`: relation fields and source links.
+- `source_record.py`: source records and reading pages.
+- `vault_lint.py`: structure, metadata, link, template, and Quartz checks.
 
 Do not manually maintain YAML `related_*` or YAML `sources`. To create relations, write natural wikilinks in the body. To create sources, list source wikilinks in `## 来源`.
 
@@ -70,9 +70,9 @@ Triggers:
 
 After source record creation or entry edits, run only `python3 scripts/wiki_index.py` automatically. Ask before running the standard sync and lint flow.
 
-## Book Routing
+## Specialized Schemas
 
-If the task involves a book, read only the matching schema named in `vault-schema.md`:
+Read only the matching schema named in `vault-schema.md`:
 
 - Edited volume / `(Ed.)` / 编著 / 论文集 → `schema/schema-edited-volume.md`
 - Monograph PDF / 「专著」 with PDF or chapter text → `schema/schema-monograph-pdf.md`
@@ -140,6 +140,7 @@ Only after the user provides the complete PDF and asks for source / reading-page
 `aliases` are used by Obsidian search and by `wiki_linker.py` for automatic wikilinks.
 
 - Keep aliases precise.
+- Do not mix Chinese and English inside one alias; use separate aliases for Chinese terms, English variants, and abbreviations.
 - Do not add broad aliases such as “资本”, “文化”, “教育”, “政策”, “课程”, “能力”, “国家”, or “公平”.
 - If an alias creates bad links, remove that alias, rebuild the index, then ask before running the standard sync flow.
 - Argument entries do not use aliases.
