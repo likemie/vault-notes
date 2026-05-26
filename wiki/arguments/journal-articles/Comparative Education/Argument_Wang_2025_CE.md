@@ -31,64 +31,6 @@ updated: 2026-05-26
 # Argument_Wang_2025_CE
 
 
-
-> [!info]- 自动维护字段（对齐脚本）
-> - `related_*` 与 YAML `sources` 由 `scripts/wiki_relations.py` 自动维护，AI 不手动填写。
-> - 正文中的 wikilink 会同步到对应 `related_*`。
-> - `## 来源` 章节中的 source wikilink 会同步到 YAML `sources`。
-> - 正文自动补链由 `scripts/wiki_linker.py sync` 完成；`aliases` 是自动补链白名单。
-> - Source 记录与 PDF / EPUB 阅读页面优先由 `scripts/source_record.py` 创建。
-> - 处理完成后运行：
->   ```bash
->   python3 scripts/wiki_index.py
->   python3 scripts/wiki_linker.py sync
->   python3 scripts/wiki_relations.py sync
->   python3 scripts/wiki_index.py
->   python3 scripts/vault_lint.py
->   ```
-
-> [!info]- Summary 规则（索引用，不是摘要）
-> `summary` 只用于索引说明，让读者一眼看出这篇文章的核心论证，而不是概括全文。
-> 写法：`研究对象/问题 + 理论视角/方法 + 核心论证或发现`。
-> 好例子：`从统计学角度审查 Hattie 以效应量排序教学干预的前提，指出 d=0.40 依赖样本量且排名缺少置信区间。`
-> 直接陈述论证思路，不让摘要围绕论文、研究或作者展开；无法概括时留空：`summary: ""`。
-
-> [!warning]- Summary YAML 安全规则
-> `summary` 外层必须使用双引号包裹：`summary: "一句话索引说明"`。
-> `summary` 可以正常使用中文逗号、顿号、句号、分号、括号等中文标点；内容内部只需避开英文冒号 `:`、双引号 `"`、单引号 `'`，不要用其他字符代替原本应有的标点。
-> 需要断句时优先使用中文逗号，不要为了规避字符而省略标点。
-> 如果英文标题原本有冒号，用自然中文改写，或使用中文标点。
-> 如果内容需要引用英文著作名，不要用中文书名号、不要用 Markdown 斜体、不要加引号，直接写标题文本。
-
-
-
-> [!info]- Frontmatter 格式规范
-> - `tags` — 用方括号列表，内容 tag 建议使用英文小写连字符。
-> - 推荐 tag 前缀：`level/`、`region/`、`method/`、`theory/`、`policy/`、`subject/`、`theme/`、`source/`。
-> - `related_*`、`sources`、`part_of` — 若引用条目，必须写成带引号的 wikilink，如 `"[[Cultural Capital]]"`。
-> - 不要在这些字段中写普通文本；不确定是否已有条目时先留空。
-> - 单个值也需要引号和方括号：`related_concepts: ["[[Project-Based Learning]]"]`
-> - `related_*` 与 YAML `sources` 由脚本自动同步，AI 通常不手动填写；需要建立关系时在正文使用 wikilink，需要记录来源时在 `## 来源` 列出 source wikilink。
-
-
-> [!warning]- 写入规则（每次写入前必须执行）
-> 1. 确定新内容属于哪个 `##` 章节。
-> 2. 分点 ≥ 8 条 → 按主题建 `###` 子主题，组内按时间排列。
-> 3. 分点 < 8 条 → 直接按时间顺序插入正确位置，禁止追加末尾。
-> 4. 写入前声明：「归属章节 > 子主题 > 插入位置」，再用 str_replace 写入。
-
-
-> [!warning]- 论证拆解要求（强制执行）
-> - **逐步拆解，不跳跃** — 论证结构须完整还原每一个推论步骤，不得跳过中间环节直接给结论；写法参考 `wiki/arguments/journal-articles/Comparative Education/Argument_Yu_2024_CE.md`，读者应能看清从前提到结论的完整推理链。
-> - **步骤之间用分割线** — `## 论证结构` 中每一个论证步骤都独立成段，步骤之间使用 `---` 分隔。
-> - **用易懂的语言** — 避免堆砌学术术语；每个步骤用一句清晰的中文说明其逻辑，术语首次出现用中文（English）格式。
-> - **抽象主张必须附例子** — 凡涉及抽象论证步骤，须紧跟一个具体例子说明该步骤在实践中的含义。
-> - **例子优先来自论文** — 使用论文本身提供的案例或数据，附页码；论文无例子时可用一句简短的教育情境说明帮助理解。
-> - **表达要平实** — 避免中英混杂、过度使用破折号，以及套用先否定再转折的二元对立句式。
-
-
----
-
 ## 研究问题
 
 > [!question]
@@ -98,7 +40,7 @@ updated: 2026-05-26
 > 1. 在引入国外 LCE 经验后，考试问责机制和 LCE 的实施在目标学校中各自如何被情境化？
 > 2. 这两个活动系统是否产生互动？如果是，互动如何影响 LCE 的本土化？
 >
-> 研究的经验谜题是：中国有着上千年的考试传统和强大的考试问责机制，但同时也是近几十年来积极推广 LCE 的国家之一。在大规模考试（尤其是[[Civil Service Examination|高考]]）决定升学的制度条件下，学校和教师如何在"改革"与"保底"之间做出选择？
+> 研究的经验谜题是：中国有着上千年的考试传统和强大的考试问责机制，但同时也是近几十年来积极推广 LCE 的国家之一。在大规模考试（尤其是高考）决定升学的制度条件下，学校和教师如何在"改革"与"保底"之间做出选择？
 
 ---
 
