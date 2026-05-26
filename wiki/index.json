@@ -3464,6 +3464,16 @@
     ]
   },
   {
+    "title": "Archival Correspondence Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Archival Correspondence Analysis.md",
+    "aliases": [
+      "档案通信分析",
+      "历史通信分析",
+      "档案研究"
+    ]
+  },
+  {
     "title": "Carnivalesque Analysis",
     "type": "method",
     "path": "wiki/methods/qualitative/Carnivalesque Analysis.md",
@@ -4385,6 +4395,26 @@
     "aliases": [
       "托马斯·诺达尔",
       "诺达尔"
+    ]
+  },
+  {
+    "title": "Anatoly Lunacharsky",
+    "type": "person",
+    "path": "wiki/persons/russia/Anatoly Lunacharsky.md",
+    "aliases": [
+      "阿纳托利·卢那察尔斯基",
+      "Lunacharsky",
+      "Anatoly Vasilyevich Lunacharsky"
+    ]
+  },
+  {
+    "title": "Stanislav Shatskii",
+    "type": "person",
+    "path": "wiki/persons/russia/Stanislav Shatskii.md",
+    "aliases": [
+      "斯坦尼斯拉夫·沙茨基",
+      "Shatsky",
+      "Stanislav Shatsky"
     ]
   },
   {
@@ -5527,6 +5557,16 @@
     ]
   },
   {
+    "title": "John Dewey's 1928 Visit to the Soviet Union",
+    "type": "fact",
+    "path": "wiki/facts/multi/John Dewey's 1928 Visit to the Soviet Union.md",
+    "aliases": [
+      "杜威1928年访苏",
+      "Dewey 1928 Soviet visit",
+      "1928年杜威访问苏联"
+    ]
+  },
+  {
     "title": "Sino-American Trade War",
     "type": "fact",
     "path": "wiki/facts/multi/Sino-American Trade War.md",
@@ -6533,6 +6573,11 @@
     "title": "Argument_Sarbiewska_2019_JSR",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Język-Szkoła-Rodzina/Argument_Sarbiewska_2019_JSR.md"
+  },
+  {
+    "title": "Argument_Ryabyy_2024_Maneto",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal/Argument_Ryabyy_2024_Maneto.md"
   },
   {
     "title": "Argument_Bergeron_2017_MJE",
