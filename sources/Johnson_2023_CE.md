@@ -6,7 +6,6 @@ extracted_to:
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism in Educational Administration]]"
   - "[[Cargo Cult Science]]"
-  - "[[Scientism]]"
   - "[[Global Education Reform Movement]]"
   - "[[Visible Learning]]"
   - "[[Performativity of Measurement]]"
@@ -16,6 +15,7 @@ extracted_to:
   - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[Scientism]]"
 processed_date: 2026-05-04
 ---
 

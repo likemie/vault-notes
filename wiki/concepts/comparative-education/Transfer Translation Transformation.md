@@ -6,7 +6,7 @@ aliases:
   - 3T framework
   - 转译
   - 转化
-summary: Cowen (2009) 用于分析教育知识跨国流动的三阶段框架，转移指思想的跨境移动，转译指接受地对思想的本土重释，转化指社会政治经济语境对转译产物的再次塑造
+summary: "Cowen（2009）用于分析教育知识跨国流动的三阶段框架，转移指思想的跨境移动，转译指接受地对思想的本土重释，转化指社会政治经济语境对转译产物的再次塑造"
 type: concept
 tags:
   - theme/knowledge-transfer
@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
+  - "[[Recontextualization]]"
   - "[[Scientific Attitude]]"
 related_theories: []
 related_methods: []
@@ -22,9 +23,11 @@ related_persons:
   - "[[Robert Cowen]]"
   - "[[John Dewey]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
 sources:
   - "[[Zhou_2024_CE]]"
+  - "[[Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -50,6 +53,7 @@ updated: 2026-05-26
 > [!example]
 > - vs [[Policy Borrowing|政策借用]] — 3T 更侧重于知识移动中意义与形态的变化链，不仅仅关注政策被"借用"或"排斥"的二元结果。
 > - vs [[Cross-National Attraction|跨国吸引]] — 3T 涵盖从移动到内化再到被语境重塑的完整过程，而跨国吸引更多聚焦于转移的动力和选择阶段。
+> - vs [[Recontextualization|再脉络化]] — 两者互补而非替代。3T 是一个过程模型，回答"思想经历了哪些阶段"；再脉络化（Schulte, 2009）是一个机制分析，回答"接受者在每个阶段中如何主动选择、扭曲和重新嵌入外来思想"。3T 的 Translation 和 Transformation 阶段都可以借助再脉络化的两个驱动力（想象出来的亲和性、感知到的不可兼容性）来进一步解释接受者的操作逻辑。
 
 ## 核心要素
 
@@ -69,6 +73,9 @@ updated: 2026-05-26
 > - **Translation（1922–1923）**：中国教育改革者将杜威思想转译为1922 年学制的七项标准和 1923 年学分制课程，但在此过程中淡化了民主的政治内涵（以模糊的"平民"代替），并与杜威的渐进方法产生偏离。
 > - **Transformation（1923 年后）**：政治动荡和军阀割据使得激进改革难以为继，"[[Scientific Attitude|科学态度]]"取代"民主"成为新教育标签，杜威被重新塑造为"科学态度"和渐进改良的支持者——一个可以服务于"国情优先"路线的杜威。
 
+> Schulte（2009）对同一段杜威接受史的分析（详见[[Argument_Schulte_2009_EncuentrosEducacion]]）从[[Recontextualization|再脉络化]]机制的角度提供了互补视角：追踪杜威在 1919–2009 年共九十年间四次再脉络化中身份的三重变形，揭示了 3T 框架中 Translation 和 Transformation 阶段内部的具体操作机制。
+
 ## 来源
 
 - [[Zhou_2024_CE]]
+- [[Schulte_2009_EncuentrosEducacion]]

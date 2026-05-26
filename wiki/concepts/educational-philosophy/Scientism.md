@@ -11,6 +11,7 @@ tags:
 - stance/critique
 related_concepts:
   - "[[Champ]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Cargo Cult Science]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
@@ -24,10 +25,13 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Hu Shi]]"
+  - "[[John Dewey]]"
 related_facts: []
 related_arguments: []
 sources:
   - "[[Johnson_2023_CE]]"
+  - "[[Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -55,7 +59,7 @@ updated: '2026-05-18'
 > - **Hayek (1942/1943/1944)**：早期系统批评"scientistic"取向，核心不是反科学，而是反对把自然科学方法机械移植到社会科学。
 > - **Stenmark (2001)**：将 scientism 分析为关于"科学能力边界"的主张，强调其哲学立场属性，而非单一研究方法问题。
 > - **Ross et al. (2018)**：提示 scientism 在当代也可能以"只有科学能给出最终可信知识"的强断言形式出现。
-> - **教育[[Champ|场域]]转译（Johnson & Janzen, 2023）**：在教育政策与改进话语中，scientism 常与"可量化=可改进"的治理逻辑绑定。
+> - **教育[[Champ|场域]][[Transfer Translation Transformation|转译]]（Johnson & Janzen, 2023）**：在教育政策与改进话语中，scientism 常与"可量化=可改进"的治理逻辑绑定。
 
 ## 与相关概念的区别
 
@@ -69,13 +73,14 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - Johnson & Janzen (2023) 论证 [[John Hattie|Hattie]] 的 [[Visible Learning]] 是教育领域科学主义的典型案例：以庞大的数据库、图表、参考书目营造科学外观，但方法论不透明、不可验证，却宣称找到了教育的"圣杯"（Johnson & Janzen, 2023, p.34-35）
-> - Phillips (2014) 指出物理科学方法无法转移到多元变量的教室环境：物理实验室可控制变量，但教室中的变量"不是麻烦而是具有重大人类和教育意义的因素——控制它们会消除所有生态效度"（Johnson & Janzen, 2023, p.35）
+> - Phillips (2014) 指出物理科学方法无法[[Transfer Translation Transformation|转移]]到多元变量的教室环境：物理实验室可控制变量，但教室中的变量"不是麻烦而是具有重大人类和教育意义的因素——控制它们会消除所有生态效度"（Johnson & Janzen, 2023, p.35）
 
 ## 争议与批评
 
 > [!warning] 争议与批评
 > - 科学主义在社会科学中的应用面临根本性限制：Hayek 指出人类是自由意志行动者，根据对信息的个体解读行动，而非遵循不变的物理定律（Johnson & Janzen, 2023, p.27）
 > - 反对 scientism 不等于反对实证研究。核心争点是：教育研究是否允许多元证据形态（解释性、历史性、规范性）共同参与[[Knowledge Production|知识生产]]。
+> - 科学主义作为批判对象的适用性具有语境依赖。Schulte（2009, p.72）指出，在 1910–1920 年代的中国，[[Hu Shi|胡适]]并不担心科学主义——恰恰相反，他认为迷信（多神论、风水、祖宗崇拜）才是现代科学的主要敌人。[[John Dewey|杜威]]在美国语境中批评科学主义有其合理性，因为科学在那里已获得近乎不受质疑的权威；但在当时的中国，科学恰恰缺乏这种权威。因此胡适将实用主义重构为反迷信的"武器"，而非警惕科学过度扩张的哲学。这一案例说明：科学主义批判的有效性取决于特定社会中科学相对于其他认知权威的实际地位。
 
 ## 在教育研究中的识别信号
 
@@ -95,3 +100,4 @@ updated: '2026-05-18'
 ## 来源
 
 - [[Johnson_2023_CE]]
+- [[Schulte_2009_EncuentrosEducacion]]
