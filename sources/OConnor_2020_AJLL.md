@@ -12,9 +12,9 @@ extracted_to:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[John Hattie]]"
   - "[[Ken Goodman]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---
 

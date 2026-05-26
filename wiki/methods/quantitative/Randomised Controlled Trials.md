@@ -16,7 +16,9 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Tracking]]"
+  - "[[Pragmatism in China]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Side Effects in Education]]"
   - "[[Mechanism Experiments]]"
@@ -28,7 +30,6 @@ related_concepts:
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
-  - "[[Matching]]"
   - "[[Intervention Research]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Intent-to-Treat Analysis]]"
@@ -92,7 +93,7 @@ updated: '2026-05-18'
 ## 局限性
 
 > [!warning] 认识论与本体论基础问题
-> 以下批评从根本层面质疑 RCT 假设与教育现实之间的结构性不[[Matching|匹配]]。
+> 以下批评从根本层面质疑 RCT 假设与教育现实之间的结构性不匹配。
 >
 > #### 教育作为"难以完成的科学"（Berliner, 2002; Møller, 2017）
 >
@@ -111,7 +112,7 @@ updated: '2026-05-18'
 >
 > #### 封闭系统的幻觉
 >
-> RCT 的实验程序试图通过稳定其他变量来隔离单一"干预"的影响——将真实情境的开放性和复杂性转化为封闭系统。但大多数社会情境（包括教育情境）是开放系统（Pawson, 2006, p. 18; Biesta, 2010, p. 496）。（Wrigley & McCusker, 2019, pp. 115, 123）
+> RCT 的实验程序试图通过稳定其他变量来隔离单一"干预"的影响——将真实情境的开放性和复杂性[[Transfer Translation Transformation|转化]]为封闭系统。但大多数社会情境（包括教育情境）是开放系统（Pawson, 2006, p. 18; Biesta, 2010, p. 496）。（Wrigley & McCusker, 2019, pp. 115, 123）
 >
 > #### 控制组的根本性模糊
 >
@@ -190,7 +191,7 @@ updated: '2026-05-18'
 >
 > #### Berk (2011) 的多维度批评
 >
-> Berk (2011) 基于 35 年担任 *Evaluation Review* 创始编辑的经验，从集群随机化、外部效度和实用主义三个维度对 RCT 作为"黄金标准"的地位提出批评：
+> Berk (2011) 基于 35 年担任 *Evaluation Review* 创始编辑的经验，从集群随机化、外部效度和[[Pragmatism in China|实用主义]]三个维度对 RCT 作为"黄金标准"的地位提出批评：
 >
 > **集群随机化与 [[Stable Unit Treatment Value Assumption|SUTVA]] 违反**
 >

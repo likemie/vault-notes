@@ -484,6 +484,18 @@
     ]
   },
   {
+    "title": "Pragmatism in China",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Pragmatism in China.md",
+    "aliases": [
+      "实用主义",
+      "实验主义",
+      "shiyanzhuyi",
+      "shiyongzhuyi",
+      "pragmatism"
+    ]
+  },
+  {
     "title": "Recontextualization",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Recontextualization.md",
@@ -1184,6 +1196,16 @@
     "path": "wiki/concepts/educational-policy-reform/Pure Evaluation.md",
     "aliases": [
       "纯粹评价"
+    ]
+  },
+  {
+    "title": "Quality Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Quality Education.md",
+    "aliases": [
+      "素质教育",
+      "suzhi jiaoyu",
+      "quality-oriented education"
     ]
   },
   {

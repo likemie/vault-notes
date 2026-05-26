@@ -6,8 +6,8 @@ extracted_to:
   - "[[Feedback]]"
   - "[[Visible Learning]]"
   - "[[Klaus Nielsen]]"
-  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-04
 ---
 

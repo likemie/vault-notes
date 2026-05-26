@@ -6,8 +6,8 @@ extracted_to:
   - "[[Neo-Taylorism in Educational Administration]]"
   - "[[Visible Learning]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---
 

@@ -16,7 +16,8 @@ tags:
   - theme/progressive-education
   - theme/curriculum
   - period/republican-china
-related_concepts: []
+related_concepts:
+  - "[[Pragmatism in China]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -83,7 +84,7 @@ updated: 2026-05-26
 > [!warning] 淡化与偏离的部分
 > - "民主教育"标准仅保留"精神"（spirit），中文用词"平民"（pingmin）语义模糊——既可作"民主"解，亦可理解为"普及教育"（Zhou & Westberg, 2024, p.618）。
 > - "个性发展"标准忽视 1921 年已在讨论中的自由选择（free choice）维度，可为社会导向教育（而非儿童中心教育）服务（Zhou & Westberg, 2024, p.618）。
-> - 教育部指示"兼顾旧制以便实施"，改革者却将新旧对立而非纳入渐进改良框架——这与杜威的实验主义路径相悖（Zhou & Westberg, 2024, p.618）。
+> - 教育部指示"兼顾旧制以便实施"，改革者却将新旧对立而非纳入渐进改良框架——这与杜威的[[Pragmatism in China|实验主义]]路径相悖（Zhou & Westberg, 2024, p.618）。
 
 ## 效果与评价
 

@@ -16,12 +16,14 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Pragmatism in China]]"
 related_theories:
   - "[[Appraisal Theory]]"
   - "[[Radical Constructivism]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"
+  - "[[John Dewey]]"
   - "[[Immanuel Kant]]"
   - "[[Lars Qvortrup]]"
 related_arguments: []
@@ -46,7 +48,7 @@ updated: '2026-05-19'
 
 > [!note-] 生平与职涯
 > - 2003 年：在 *Educational Theory* 发表关于后现代教育中学习与评估的早期论文
-> - 2012 年：在 *Educational Philosophy and Theory* 发表以 Dewey 视角探讨想象力与判断力的论文
+> - 2012 年：在 *Educational Philosophy and Theory* 发表以 [[John Dewey|Dewey]] 视角探讨想象力与判断力的论文
 > - 2014 年：与 Tanggaard 和 Brinkmann 合编 *Uren Pædagogik 2*，提出"纯粹教育"和"[[Pure Evaluation|纯粹评价]]"概念
 > - 2015 年：出版 *Pædagogikkens to verdener*，探讨教育学的哲学连接
 > - 2017 年：在丹麦批评文集 *[[John Hattie|Hattie]] på dansk*（[[Hattie på dansk]]）中撰文批评 VL 的[[Feedback|反馈]]概念
@@ -57,7 +59,7 @@ updated: '2026-05-19'
 
 > [!abstract] 主要著作
 > - Rømer, T. A. (2003). Learning and assessment in postmodern education. *Educational Theory*, 53(3), 313–329. — 后现代教育中的学习与评估
-> - Rømer, T. A. (2012). Imagination and judgment: Intelligent transactions in a democratic context. *Educational Philosophy and Theory*, 44(2), 133–150. — 以 Dewey 视角探讨想象力与判断力，回应 [[John Hattie|Hattie]] 批评中的"被动性"主题
+> - Rømer, T. A. (2012). Imagination and judgment: Intelligent transactions in a democratic context. *Educational Philosophy and Theory*, 44(2), 133–150. — 以 [[John Dewey|Dewey]] 视角探讨想象力与判断力，回应 [[John Hattie|Hattie]] 批评中的"被动性"主题
 > - Tanggaard, L., Rømer, T. A., & Brinkmann, S. (2014). *Uren Pædagogik 2* [Pure Education 2]. Aarhus: Klim. — 提出"纯粹教育"和"[[Pure Evaluation|纯粹评价]]"概念
 > - Rømer, T. A. (2014). The relationship between education and evidence. *Cursiv*, (14), 105–122. — 讨论教育与证据的关系
 > - Rømer, T. A. (2015). *Pædagogikkens to verdener* [The Two Worlds of Pedagogy]. Aalborg: Aalborg Universitetsforlag. — 探讨教育学的哲学连接
@@ -66,7 +68,7 @@ updated: '2026-05-19'
 ## 核心思想
 
 > [!info] 核心思想
-> Rømer 的学术立场立基于欧洲 [[Bildung]] 传统（Dewey、[[Immanuel Kant|Kant]]、Arendt、Biesta），以此为对照审视当代教育中"评价取代教育"的趋势。他的 VL 批评的独特性在于：不参与经验方法论争论（[[Effect Size|效应量]]是否计算正确），而是追问 VL 的基本教育理论前提是否正确。
+> Rømer 的学术立场立基于欧洲 [[Bildung]] 传统（[[John Dewey|Dewey]]、[[Immanuel Kant|Kant]]、Arendt、Biesta），以此为对照审视当代教育中"评价取代教育"的趋势。他的 VL 批评的独特性在于：不参与经验方法论争论（[[Effect Size|效应量]]是否计算正确），而是追问 VL 的基本教育理论前提是否正确。
 >
 > > "[[Visible Learning]] is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation."（Rømer, 2018, p.2）
 
@@ -81,7 +83,7 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 立基于 Dewey 的实用主义教育哲学，尤其是 Dewey 对想象力和判断力的分析（Rømer, 2012）
+> - 立基于 [[John Dewey|Dewey]] 的[[Pragmatism in China|实用主义]]教育哲学，尤其是 Dewey 对想象力和判断力的分析（Rømer, 2012）
 > - 在丹麦批评文集 *[[John Hattie|Hattie]] på dansk*（[[Hattie på dansk]]）中撰文批评 VL 的[[Feedback|反馈]]概念——Qvortrup (2019, p.4) 反驳称 Rømer 声称反馈具有"集权化效应"的论断"without any kind of factual support"
 > - 其五线批评（Argument_Rømer_2018_EPT）被纳入 VL 国际批评文献谱系，补充了此前以方法论（Wecker, Bergeron, Simpson）和文化政治（McKnight & Whitburn）为主的批评维度
 > - 与丹麦教育研究界内部的 VL 接受者（[[Lars Qvortrup]]、Laursen、Egelund）形成争论，Qvortrup (2019) 以解释社群分析将丹麦批评者整体定性为短期内形成广泛误解的社群

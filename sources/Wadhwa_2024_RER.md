@@ -25,9 +25,9 @@ extracted_to:
   - "[[What Works Clearinghouse]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[Campbellian Validity Framework]]"
   - "[[Single-Case Design]]"
+  - "[[Randomised Controlled Trials]]"
 processed_date: 2026-05-05
 ---
 

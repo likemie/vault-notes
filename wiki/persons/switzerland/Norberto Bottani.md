@@ -16,6 +16,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Pragmatism in China]]"
   - "[[Science and Technology Studies]]"
 related_theories: []
 related_methods: []
@@ -84,7 +85,7 @@ updated: '2026-05-19'
 
 
 > [!note-] 影响
-> 作为 INES 负责人，Bottani 的实用主义决策（放弃理论模型、采用灵活组织框架、强调协作和参与式方法）奠定了国际[[Performance Indicators|教育指标]]体系的基础架构。他的后期批判为理解指标的 performativity 和局限性提供了来自内部的第一手证据（Gorur, 2014）。
+> 作为 INES 负责人，Bottani 的[[Pragmatism in China|实用主义]]决策（放弃理论模型、采用灵活组织框架、强调协作和参与式方法）奠定了国际[[Performance Indicators|教育指标]]体系的基础架构。他的后期批判为理解指标的 performativity 和局限性提供了来自内部的第一手证据（Gorur, 2014）。
 
 ## 争议与批评
 

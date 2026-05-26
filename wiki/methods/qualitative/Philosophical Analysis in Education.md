@@ -15,6 +15,8 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Value-Based Education]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Pragmatism in China]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
   - "[[Phenomenon-Based Learning]]"
@@ -22,7 +24,8 @@ related_theories:
   - "[[Transactional Epistemology]]"
   - "[[Phenomenology]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[John Dewey]]"
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
@@ -59,7 +62,7 @@ updated: '2026-05-18'
 > 3. **维度分解** — 将问题分解为多个维度或层面（认识论、存在论、实践论）
 > 4. **结构性论证** — 在每个维度中识别**结构性缺陷**——不是因证据不足而暂时的缺陷，而是因概念前提错误而**在原则上不可消除**的缺陷
 > 5. **替代建构** — 从批判中引出替代方案（[[Value-Based Education|价值本位教育]]）
-> 6. **实践意涵** — 将哲学分析转化为实践者可用的"抵抗资源"
+> 6. **实践意涵** — 将哲学分析[[Transfer Translation Transformation|转化]]为实践者可用的"抵抗资源"
 
 ## 适用场景
 
@@ -81,7 +84,7 @@ updated: '2026-05-18'
 
 > [!info] 相关理论
 > - [[Transactional Epistemology]] — Biesta 分析的认识论核心工具（表象认识论 vs. 交易认识论）
-> - **Dewey 的实用主义** — 本方法的哲学根基
+> - **[[John Dewey|Dewey]] 的[[Pragmatism in China|实用主义]]** — 本方法的哲学根基
 
 ## 使用此方法的研究
 

@@ -12,6 +12,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Programme Fidelity vs Adaptation]]"
+  - "[[Pragmatism in China]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
@@ -19,6 +20,7 @@ related_methods:
   - "[[Philosophical Analysis in Education]]"
 related_persons:
   - "[[Nick Cowen]]"
+  - "[[John Dewey]]"
   - "[[Gert Biesta]]"
 related_arguments: []
 sources:
@@ -63,7 +65,7 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 受 Dewey 实用主义认识论影响，强调知识是"关于过去行动与后果关系的记录，提供可能性而非确定性"
+> - 受 [[John Dewey|Dewey]] [[Pragmatism in China|实用主义]]认识论影响，强调知识是"关于过去行动与后果关系的记录，提供可能性而非确定性"
 > - 与 [[Nick Cowen]] 合作，将科学[[Philosophical Analysis in Education|哲学分析]]应用于教育政策的政治经济学分析
 > - 影响了英国 [[What Works Network]] 的证据呈现和实施指导方向
 > - 在教育领域，她的工作为批判纯 [[Randomised Controlled Trials|RCT]] 中心的证据观提供了哲学基础，补充了 [[Gert Biesta]] 从教育哲学角度的批判

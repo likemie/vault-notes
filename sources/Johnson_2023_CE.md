@@ -13,9 +13,9 @@ extracted_to:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Meta-meta-analysis]]"
-  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Scientism]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-04
 ---
 

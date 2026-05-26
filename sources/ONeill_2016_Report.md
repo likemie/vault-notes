@@ -16,8 +16,8 @@ extracted_to:
   - "[[Teach First New Zealand]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[John Hattie]]"
   - "[[Stephen Ball]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-04
 ---
 

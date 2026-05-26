@@ -15,6 +15,7 @@ tags:
 - level/k12
 - policy/curriculum-reform
 related_concepts:
+  - "[[Quality Education]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Feedback]]"
   - "[[Chinese Learner]]"
@@ -39,13 +40,13 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info]
-> 在改革之前，中国基础教育以"双基"（shuang ji）——基础知识与基本技能——为核心导向，教学方式以教师为中心、教科书为主导。进入 21 世纪，中国政府力图推动教育从应试取向转向素质教育，以适应全球化时代对创新能力和综合素质的需求（Ryan, 2010, p.54）。
+> 在改革之前，中国基础教育以"双基"（shuang ji）——基础知识与基本技能——为核心导向，教学方式以教师为中心、教科书为主导。进入 21 世纪，中国政府力图推动教育从应试取向转向[[Quality Education|素质教育]]，以适应全球化时代对创新能力和综合素质的需求（Ryan, 2010, p.54）。
 
 ## 政策文本摘要
 
 > [!abstract]
 > 2001 年，中国教育部（MOE）发布《基础教育课程改革纲要（试行）》（Zhongguo Jichu Jiaoyu Kecheng Gaige Gangyao），标志着全国范围的课程与教学改革正式启动。纲要的核心方向包括（Ryan, 2010, pp.54–55）：
-> - 从"双基"（知识传授和技能训练）转向"素质教育"（quality-oriented education）
+> - 从"双基"（知识传授和技能训练）转向"[[Quality Education|素质教育]]"（quality-oriented education）
 > - 从教师中心（teacher-directed）教学转向学生中心（student-centered）教学
 > - 关注学生的真实个体需求
 > - 构建师生互动的多样化学习活动
@@ -80,7 +81,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning]
-> - 改革面临的整合难题：如何在借鉴西方学生中心和素质教育理念的同时，保留中国教育传统中的有效元素（Ryan, 2010, p.56）。见 [[Chinese Learner#中国教育变革与刻板印象的过时]] 中关于"中西学术理念辩论"的展开
+> - 改革面临的整合难题：如何在借鉴西方学生中心和[[Quality Education|素质教育]]理念的同时，保留中国教育传统中的有效元素（Ryan, 2010, p.56）。见 [[Chinese Learner#中国教育变革与刻板印象的过时]] 中关于"中西学术理念辩论"的展开
 > - 中国学者对西方将他们简单刻画为"缺乏创新"表示沮丧——他们的教学实践已高度关注实验性师生互动和创新，并持续进行研究、发表、反思和寻求[[Feedback|反馈]]（Mitchell, Ryan, Kang, & Erikson, 2007, 转引自 Ryan, 2010, pp.53–54）
 
 ## 相关概念／理论

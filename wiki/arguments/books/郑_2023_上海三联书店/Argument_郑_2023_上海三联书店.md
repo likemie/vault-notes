@@ -16,6 +16,7 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Champ]]"
@@ -36,10 +37,11 @@ related_concepts:
   - "[[Employability]]"
   - "[[Student Engagement]]"
   - "[[Student Involvement]]"
+  - "[[Pragmatism in China]]"
   - "[[Symbolic Boundary]]"
-  - "[[Student-Teacher Relationship]]"
   - "[[Feedback]]"
   - "[[Self-Authorship]]"
+  - "[[Quality Education]]"
   - "[[The Shock of the Elite]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Work Meaning Schemas]]"
@@ -55,10 +57,8 @@ related_theories:
 related_methods:
   - "[[Constructivist Grounded Theory]]"
   - "[[In-depth Interview]]"
-  - "[[Mixed Method and Multi-method Research]]"
   - "[[Case Study]]"
   - "[[Qualitative Research]]"
-  - "[[Matching]]"
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
@@ -87,7 +87,7 @@ updated: 2026-05-18
 
 本书从经验谜题出发——"金榜题名"之后的不安：网络热议的"985废物""小镇做题家"、量化研究一再确认的弱势学生出路劣势——指出现有解释（人力资本理论、社会再生产理论）的共同缺陷是将教育视为一种"所有物"（possession），而非一个生成性的"过程"（process）。[[Yajun Zheng|郑雅君]]（2023）悬置"经济人"假设，走入教育过程的"黑箱"，追问：
 
-1. 家庭的资源优势如何转化为学生在大学阶段的[[Cultural Capital|文化资本]]？（资本化过程）
+1. 家庭的资源优势如何[[Transfer Translation Transformation|转化]]为学生在大学阶段的[[Cultural Capital|文化资本]]？（资本化过程）
 2. 学生在大学里的努力如何转化为出路获得上的优势？（投入过程）
 3. 价值信念如何影响生涯目标的树立，又如何影响出路的最终获得？（价值选择过程）
 
@@ -222,7 +222,7 @@ updated: 2026-05-18
 - 2011–2020 年累计毕业生约一亿人（普通高校毕业生 7000 万人）
 - 2018 年毛入学率 48.1%，即将从大众化进入普及化
 
-这些数字的具体意义：Collins（1979）的[[Credential Inflation]]逻辑——当越来越多人持有大学文凭，文凭的交换价值在市场上萎缩。胡瑞文等（2014）发现，新世纪前十年中国普通高校毕业生已开始大于白领岗位总需求人数。竞争重心从"能否上大学"转移到"上什么大学、学什么专业"——Lucas（2001）的"有效维持的不平等"（EMI）假设在中国得到印证。（郑雅君，2023）
+这些数字的具体意义：Collins（1979）的[[Credential Inflation]]逻辑——当越来越多人持有大学文凭，文凭的交换价值在市场上萎缩。胡瑞文等（2014）发现，新世纪前十年中国普通高校毕业生已开始大于白领岗位总需求人数。竞争重心从"能否上大学"[[Transfer Translation Transformation|转移]]到"上什么大学、学什么专业"——Lucas（2001）的"有效维持的不平等"（EMI）假设在中国得到印证。（郑雅君，2023）
 
 **趋势二：全球化引发"出国潮" → 跨境竞争的新维度**
 
@@ -362,7 +362,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 **（b）但目标并非个体的自由选择——社会学的问题化**
 - Roberts（1975）：决策由个体在劳动力市场上的"机会结构"（opportunity structure）决定，机会结构由工业组织、政策和社会阶层共同塑造（郑雅君，2023）
 - Breen & Goldthorpe（1997）的理性行动理论（RAT）：不同阶层对风险-收益的理性衡量有系统性差异 → 揭示家庭背景在教育选择中的"次属效应"（second effects）（郑雅君，2023）
-- Hodkinson & Sparkes（1997）：结合布迪厄习性与场域理论，提出修正模型 —（a）理性选择是实用主义式的个体选择，但深受习性影响；（b）场域中不平等的资源分配影响与场域中其他人的互动；（c）决策受人生历程中难以预料的转折点和路径影响（郑雅君，2023）
+- Hodkinson & Sparkes（1997）：结合布迪厄习性与场域理论，提出修正模型 —（a）理性选择是[[Pragmatism in China|实用主义]]式的个体选择，但深受习性影响；（b）场域中不平等的资源分配影响与场域中其他人的互动；（c）决策受人生历程中难以预料的转折点和路径影响（郑雅君，2023）
 
 > 关键发现：学生的决策基于他们自身已经了解的信息，而这些信息自然是有偏颇的——决策与家庭背景、文化背景和生活经历密不可分（郑雅君，2023，引 Hodkinson & Sparkes, 1997）
 
@@ -713,7 +713,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 
 **第三步：模式的养成——中学教育经历的分化**
 
-**（a）优势阶层：鼓励自主性的素质教育环境**
+**（a）优势阶层：鼓励自主性的[[Quality Education|素质教育]]环境**
 
 家境优越的被访者通常就读于质量优异也相对轻松的高中（东部大都市顶尖高中），这让他们更有闲暇去反思自身处境、发展自主性（郑雅君，2023）：
 

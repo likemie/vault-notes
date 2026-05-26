@@ -27,10 +27,12 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Self-Efficacy]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
   - "[[Critic and Conscience of Society]]"
+  - "[[Pragmatism in China]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
   - "[[Confidence Interval]]"
@@ -53,6 +55,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
+  - "[[John Dewey]]"
   - "[[Gerald Grace]]"
   - "[[Basil Bernstein]]"
 related_arguments:
@@ -207,7 +210,7 @@ updated: '2026-05-21'
 >
 > **新西兰与澳大利亚**：Sarbiewska (2019) 从波兰教育者视角系统记录了 VL 在 NZ 和 AU 的政策采纳轨迹——2003 年 NZ 教育部长 Trevor Mallard 将优质教学作为优先议程；[[PISA]] 2001 数据揭示校内差异是主要问题后，政策焦点从外部因素转向师生互动；澳大利亚维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 和 NZ ERO 将 VL 原则制度化（详见 [[Argument_Sarbiewska_2019_JSR]]）。
 >
-> **斯堪的纳维亚的学校改进转译**：Nordahl (2015) 提供了一条与商业化品牌扩张不同的接受路径。这里的 Hattie 既不是单纯的[[Effect Size|效应量]]排行榜作者，也不是外部问责工具的代名词，而是被转译为“学校为何必须围绕学习结果重组改进工作”的论据来源。其关键影响不在推广某个单一方法，而在推动学校把 [[Professional Judgment]]、教师协作、[[Knowledge Mobilisation|知识动员]]与学习结果评估重新绑在一起（Nordahl, 2015, pp.61–69）。
+> **斯堪的纳维亚的学校改进[[Transfer Translation Transformation|转译]]**：Nordahl (2015) 提供了一条与商业化品牌扩张不同的接受路径。这里的 Hattie 既不是单纯的[[Effect Size|效应量]]排行榜作者，也不是外部问责工具的代名词，而是被转译为“学校为何必须围绕学习结果重组改进工作”的论据来源。其关键影响不在推广某个单一方法，而在推动学校把 [[Professional Judgment]]、教师协作、[[Knowledge Mobilisation|知识动员]]与学习结果评估重新绑在一起（Nordahl, 2015, pp.61–69）。
 >
 > **2009 年新西兰媒体风暴**：Hattie (2010, pp.86–87) 自述 2009 年 1 月 *Sunday [[Tennessee STAR Project 1985-1989|STAR]] Times* 头版报道 VL 后引发的激烈反应——"很明显许多评论者并未读过这本书（有人甚至对此表示赞许）"。[[Class Size|班级规模]]必须缩减（尽管 Hattie 从未声称减班不提高成绩）、[[Performance Pay|绩效工资]]是邪恶的、按能力分班对教师更容易等抗议声不断——"轶事和战争故事比比皆是，仿佛每一项都是反事实"。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架分析批评模式。
 >
@@ -262,7 +265,7 @@ updated: '2026-05-21'
 >
 > 在这场论战之外，Hattie 在新西兰还面临更广泛的争议：被批评在 asTTle 评估工具的推广中存在经济利益，模糊了科学家、政治顾问和商业利益者之间的界限；被指控提倡绩效薪酬、忽视社会背景和不平等（Terhart, 2011, p.434–435）。
 >
-> **论战的核心分歧**：双方在第一原则上一致（学术批评应聚焦观点而非人身攻击；Dewey 实用主义知识观——证据不提供行动规则，只为明智问题解决提供假设），但在以下问题上根本分歧：(1) 是否可能将质量参差不齐的元分析纳入同一综合而不引入不可容忍的偏差；(2) 平均效应量是否掩盖了特定群体和条件下的重要差异；(3) 在缺乏本地研究验证时，是否应从主要为美国的研究推广政策建议；(4) 学者参与政策制定时，asTTle 等商业利益是否构成利益冲突。Terhart（2011, p.435）评论这场争论实质上是"自下而上的学校改革者反对技术官僚的、行政驱动的、中央集权的新自由主义策略"。
+> **论战的核心分歧**：双方在第一原则上一致（学术批评应聚焦观点而非人身攻击；[[John Dewey|Dewey]] [[Pragmatism in China|实用主义]]知识观——证据不提供行动规则，只为明智问题解决提供假设），但在以下问题上根本分歧：(1) 是否可能将质量参差不齐的元分析纳入同一综合而不引入不可容忍的偏差；(2) 平均效应量是否掩盖了特定群体和条件下的重要差异；(3) 在缺乏本地研究验证时，是否应从主要为美国的研究推广政策建议；(4) 学者参与政策制定时，asTTle 等商业利益是否构成利益冲突。Terhart（2011, p.435）评论这场争论实质上是"自下而上的学校改革者反对技术官僚的、行政驱动的、中央集权的新自由主义策略"。
 
 
 > [!warning] Grace 的介入 (2010)

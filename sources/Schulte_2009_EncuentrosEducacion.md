@@ -1,15 +1,18 @@
 ---
 citation: "Schulte, B. (2009). The Chinese Dewey: Friend, fiend, and flagship. Encuentros sobre Educación, 10, 67–101."
 extracted_to:
-  - "[[Hu Shi]]"
-  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
-  - "[[Recontextualization]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Tao Xingzhi]]"
+  - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[Pragmatism in China]]"
+  - "[[Recontextualization]]"
   - "[[Scientism]]"
+  - "[[Quality Education]]"
   - "[[Scientific Attitude]]"
   - "[[May Fourth Movement]]"
+  - "[[Confucius]]"
+  - "[[Hu Shi]]"
   - "[[Jiang Menglin]]"
-  - "[[Tao Xingzhi]]"
 processed_date: 2026-05-26
 ---
 

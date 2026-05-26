@@ -8,9 +8,9 @@ extracted_to:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[John Hattie]]"
   - "[[Jacob Cohen]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---
 

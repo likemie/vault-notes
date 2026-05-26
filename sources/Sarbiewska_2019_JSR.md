@@ -12,8 +12,8 @@ extracted_to:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Dietrich Benner]]"
-  - "[[John Hattie]]"
   - "[[Radical Constructivism]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---
 

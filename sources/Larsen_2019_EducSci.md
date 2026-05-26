@@ -12,9 +12,9 @@ extracted_to:
   - "[[Danish Public School Reform]]"
   - "[[Steen Nepper Larsen]]"
   - "[[Niklas Luhmann]]"
-  - "[[John Hattie]]"
   - "[[Luhmann's Systems Theory]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-04
 ---
 

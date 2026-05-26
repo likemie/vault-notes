@@ -5,8 +5,8 @@ extracted_to:
   - "[[Visible Learning]]"
   - "[[Performativity of Measurement]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[John Hattie]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-02
 ---
 

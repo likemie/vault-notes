@@ -14,6 +14,7 @@ tags:
 - region/new-zealand
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Pragmatism in China]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
@@ -25,6 +26,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[John Dewey]]"
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
 related_arguments:
@@ -46,7 +48,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 Dewey 的实用主义知识观作为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（Dewey, quoted in [[John Hattie|Hattie]], 2008, p.147）。
+> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 [[John Dewey|Dewey]] 的[[Pragmatism in China|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（Dewey, quoted in [[John Hattie|Hattie]], 2008, p.147）。
 
 ## 研究方法
 

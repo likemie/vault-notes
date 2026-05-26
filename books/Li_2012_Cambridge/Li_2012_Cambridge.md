@@ -5,7 +5,6 @@ extracted_to:
   - "[[Action Better Than Words]]"
   - "[[Affect-Respect and Ought-Respect]]"
   - "[[Benevolence]]"
-  - "[[Chinese Learner]]"
   - "[[Establishing One's Will]]"
   - "[[Familiarization]]"
   - "[[Family Social Model]]"
@@ -65,7 +64,6 @@ extracted_to:
   - "[[MCC Discourse Analysis Examples]]"
   - "[[Experience Sampling Method]]"
   - "[[David Watkins]]"
-  - "[[Confucius]]"
   - "[[Zhu Xi]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[René Descartes]]"
@@ -91,6 +89,8 @@ extracted_to:
   - "[[Wang Yangming]]"
   - "[[Plato]]"
   - "[[Socrates]]"
+  - "[[Chinese Learner]]"
+  - "[[Confucius]]"
 processed_date: 2026-05-25
 ---
 

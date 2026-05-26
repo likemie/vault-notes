@@ -13,8 +13,8 @@ extracted_to:
   - "[[Andreas Helmke]]"
   - "[[Hilbert Meyer]]"
   - "[[Geert Hofstede]]"
-  - "[[John Hattie]]"
   - "[[Hofstede's Cultural Dimensions]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---
 

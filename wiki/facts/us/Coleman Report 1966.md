@@ -13,7 +13,9 @@ tags:
 - federal-study
 - region/us
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Transfer Translation Transformation]]"
+  - "[[Pragmatism in China]]"
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:
@@ -105,7 +107,7 @@ updated: '2026-05-18'
 >
 > #### 催生的独立研究路线
 >
-> Coleman Report 影响了一条持续至今的研究传统，其核心特征是将分析焦点从学校内部过程转移到**非学校来源**的儿童教育机会和结果差异：家庭资源、邻里环境、同伴网络、暑期经历等（Downey & Condron, 2016, p.2）。
+> Coleman Report 影响了一条持续至今的研究传统，其核心特征是将分析焦点从学校内部过程[[Transfer Translation Transformation|转移]]到**非学校来源**的儿童教育机会和结果差异：家庭资源、邻里环境、同伴网络、暑期经历等（Downey & Condron, 2016, p.2）。
 >
 > ### 与批判视角的时间线关系
 >
@@ -147,7 +149,7 @@ updated: '2026-05-18'
 > - 该报告被广泛批评为"责怪受害者"（blaming the victim）——将结构性问题归咎于受害者自身的行为或文化特征（Ryan, 1976）
 > - Moynihan Report 引发的争议使任何强调家庭因素（而非结构／学校因素）的学术研究在政治上变得敏感——Coleman Report 因同样强调家庭背景的核心作用而受到了间接的连带影响（Downey & Condron, 2016, p.2）
 >
-> ### Hanushek 的政策实用主义
+> ### Hanushek 的政策[[Pragmatism in China|实用主义]]
 >
 > 经济学家 Eric Hanushek (1992, p.106) 提供了一个坦率但引人深思的解释，说明为何学校因素持续主导政策讨论（cited in Downey & Condron, 2016, p.11）：
 >
@@ -198,7 +200,7 @@ updated: '2026-05-18'
 >
 > > "A cynical—and entirely plausible—interpretation of the greater emphasis on reforming schools relative to reforming other institutions is that it serves a purpose: It distracts people from the real sources of inequality, thereby serving the interests of those who benefit from current social arrangements."
 >
-> 这一解读将学校改革话语定位为一种**意识形态功能**：通过将公众注意力集中在学校（一个相对安全的改革目标），系统性转移了对更广泛社会结构（最低工资、医疗保障、公共交通、带薪家事假、亲劳工立法、大规模监禁等）的关注——而这些才是成就差距的真正主要来源。
+> 这一解读将学校改革话语定位为一种**意识形态功能**：通过将公众注意力集中在学校（一个相对安全的改革目标），系统性[[Transfer Translation Transformation|转移]]了对更广泛社会结构（最低工资、医疗保障、公共交通、带薪家事假、亲劳工立法、大规模监禁等）的关注——而这些才是成就差距的真正主要来源。
 >
 > ### 当代政策含义
 >

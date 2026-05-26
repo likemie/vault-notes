@@ -8,10 +8,10 @@ extracted_to:
   - "[[John Biggs]]"
   - "[[Carl Bereiter]]"
   - "[[Lars Qvortrup]]"
-  - "[[John Hattie]]"
   - "[[Jean Piaget]]"
   - "[[Popper's Three Worlds Theory]]"
   - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---
 

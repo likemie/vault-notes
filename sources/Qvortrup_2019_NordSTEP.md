@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Interpretation Community]]"
   - "[[Structural Coupling]]"
-  - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[Danish Public School Reform]]"
@@ -12,12 +11,13 @@ extracted_to:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Meta-analysis]]"
   - "[[Lars Qvortrup]]"
-  - "[[Thomas Aastrup Rømer]]"
-  - "[[John Hattie]]"
-  - "[[Donald A. Schön]]"
   - "[[Herbert A. Simon]]"
   - "[[Bounded Rationality]]"
   - "[[Critiques of Visible Learning]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Thomas Aastrup Rømer]]"
+  - "[[John Hattie]]"
+  - "[[Donald A. Schön]]"
 processed_date: 2026-05-03
 ---
 

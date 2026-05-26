@@ -18,13 +18,15 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Evidence-Based Education]]"
   - "[[Programme Fidelity vs Adaptation]]"
+  - "[[Pragmatism in China]]"
   - "[[Technology Infusion]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Formative Program Evaluation]]"
-related_persons: []
+related_persons:
+  - "[[John Dewey]]"
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
@@ -97,7 +99,7 @@ updated: '2026-05-23'
 
 > [!info] 理论基础
 > - [[Cartwright's Three-Stage Knowledge Framework]] — [[Randomised Controlled Trials|RCT]] 不能自动告诉你"在这里是否有效"，这个判断需要理解本地支持因素，而本地支持因素只能通过本地知识来识别
-> - Dewey 实用主义认识论 — 知识的价值在于其对具体情境中行动的指导能力
+> - [[John Dewey|Dewey]] [[Pragmatism in China|实用主义]]认识论 — 知识的价值在于其对具体情境中行动的指导能力
 > - Hayek (1945) 的知识问题 — Wiliam (2019) 引入 Hayek 的经典论证：社会中关键知识是分散的、默会的、情境特定的——"特定时间和地点环境的知识"无法被任何中央权威汇总或替代。这为本地知识在 EBP 中的角色提供了政治经济学基础（Wiliam, 2019, pp.12–13）
 
 ## 实证发现

@@ -22,16 +22,17 @@ related_concepts:
   - "[[Five Cardinal Relationships]]"
   - "[[Junzi]]"
   - "[[Sage]]"
-  - "[[Humility in Learning]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Action Better Than Words]]"
   - "[[University Motto]]"
+  - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"
   - "[[Listening-Oriented Learning]]"
   - "[[Devil's Advocate]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Rote Learning]]"
   - "[[Stereotype Threat]]"
-  - "[[Familiarization]]"
+  - "[[Quality Education]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Ideal Learner]]"
   - "[[Examination Hell]]"
@@ -94,7 +95,7 @@ updated: 2026-05-24
 
 一个人的本质不是由生物学定义的，而是由其在[[Five Cardinal Relationships|五伦]]关系（父子、夫妻、兄弟、君臣、朋友）中的行事方式定义的——"这些关系及其社会和道德含义——而不是我们的生物学——定义了我们作为人的本质"（Li, 2012, pp.47-48）。
 
-学习的终极目标不是掌握知识或获得成就，而是**[[Self-Cultivation|修身]]**——一个持续终身的人格完善过程。修身从[[Five Cardinal Relationships|五伦]]出发，经由礼、义、廉、耻四道德原则的实践，最终通向仁的最高境界。人格进阶从士 → [[Junzi|君子]] → [[Sage|圣人]]，每个阶段代表更深层的自我转化（Li, 2012, pp.42-46）。完整的人格层级分析见 [[Junzi#人格进阶：士 → 君子 → 圣人]]。
+学习的终极目标不是掌握知识或获得成就，而是**[[Self-Cultivation|修身]]**——一个持续终身的人格完善过程。修身从[[Five Cardinal Relationships|五伦]]出发，经由礼、义、廉、耻四道德原则的实践，最终通向仁的最高境界。人格进阶从士 → [[Junzi|君子]] → [[Sage|圣人]]，每个阶段代表更深层的自我[[Transfer Translation Transformation|转化]]（Li, 2012, pp.42-46）。完整的人格层级分析见 [[Junzi#人格进阶：士 → 君子 → 圣人]]。
 
 > [!example] 与西方模型的根本差异
 > 西方 Learner 是一个**认识主体**——心智向外探究、掌握世界。中国 Learner 是一个**自我项目**——向内修炼品德、转化自我。一个问"我如何认识世界？"，一个问"我应成为什么样的人？"（Li, 2012, p.31）。
@@ -239,7 +240,7 @@ Li (2012) 在 第 4 章 中对"死记硬背"批评进行了四重方法论反驳
 
 中国研究者持续发声纠正刻板印象——Shi（2006）发现上海中学生"与西方同龄人差异很小"；Hu、Chan & Rao、Jin & Cortazzi 等均致力于此。然而这些研究"并未根本撼动西方学界的既有成见"（Ryan, 2010, p.44）。
 
-中国 2001 年启动的基础教育课程改革——从"双基"到"素质教育"、从教师中心到学生中心——使静态刻板印象严重脱离现实。完整论证见 [[Argument_Ryan_2010_ChineseLearner#第 6 步：以中国教育改革证明刻板印象已经过时]]。
+中国 2001 年启动的基础教育课程改革——从"双基"到"[[Quality Education|素质教育]]"、从教师中心到学生中心——使静态刻板印象严重脱离现实。完整论证见 [[Argument_Ryan_2010_ChineseLearner#第 6 步：以中国教育改革证明刻板印象已经过时]]。
 
 ---
 

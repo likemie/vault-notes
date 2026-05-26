@@ -13,7 +13,9 @@ tags:
 related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Necropolitics]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Retrotopia]]"
+  - "[[Pragmatism in China]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -68,7 +70,7 @@ updated: 2026-05-26
 ## 概念辨析
 
 > [!example]
-> - 与 [[Necropolitics|死亡政治]]（Mbembe）对比 — 死亡政治关注主权权力"决定谁可以活、谁必须死"的能力；牺牲理论关注受害者如何将死亡"内化"为道德选择。前者强调暴力的外部施加，后者强调暴力的内部转化。
+> - 与 [[Necropolitics|死亡政治]]（Mbembe）对比 — 死亡政治关注主权权力"决定谁可以活、谁必须死"的能力；牺牲理论关注受害者如何将死亡"内化"为道德选择。前者强调暴力的外部施加，后者强调暴力的内部[[Transfer Translation Transformation|转化]]。
 > - 与 [[Retrotopia|怀旧乌托邦]]（Bauman）对比 — 怀旧乌托邦描述共同体想象的时间结构（理想在过去）；牺牲理论描述共同体维持的道德机制（通过牺牲再生产忠诚）。二者在[[Zhonghua Minzu|中华民族]]建构中相互配合：怀旧乌托邦提供了"复兴"的目标，牺牲理论提供了"复兴"的手段。
 
 
@@ -76,7 +78,7 @@ updated: 2026-05-26
 
 > [!warning]
 > - 牺牲理论可能存在概念弹性（conceptual stretching）的问题：从蒙古族精英接受"北疆楷模"表彰（策略性服从）到 Surnaa 的悲剧性自杀（终极反抗），很难说这两者属于同一"牺牲"逻辑。前者是权力结构中的幸存策略，后者是无路可走的终极反抗（Bulag, 2024, p.111）。
-> - 牺牲理论假设了一种高度意识形态化、由上而下的国家工程，但可能低估了少数民族在日常生活中对普通话教育和融入主流社会的主动需求——即实用主义考量而非牺牲逻辑。
+> - 牺牲理论假设了一种高度意识形态化、由上而下的国家工程，但可能低估了少数民族在日常生活中对普通话教育和融入主流社会的主动需求——即[[Pragmatism in China|实用主义]]考量而非牺牲逻辑。
 
 
 ## 来源

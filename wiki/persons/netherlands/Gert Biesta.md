@@ -15,6 +15,7 @@ tags:
 - region/netherlands
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Pragmatism in China]]"
   - "[[Value-Based Education]]"
   - "[[Learnification]]"
   - "[[Complexity Reduction]]"
@@ -25,6 +26,7 @@ related_theories:
 related_methods:
   - "[[Philosophical Analysis in Education]]"
 related_persons:
+  - "[[John Dewey]]"
   - "[[John Hattie]]"
   - "[[Immanuel Kant]]"
 related_arguments: []
@@ -51,14 +53,14 @@ updated: '2026-05-19'
 > - 曾任教于英国斯特灵大学（The Stirling Institute of Education）
 > - 后任卢森堡大学（University of Luxembourg）教授
 > - 现任爱丁堡大学（University of Edinburgh）教育和体育学院教授，兼任荷兰人文研究大学（University of Humanistic Studies）教育学教授
-> - 2003 年与 Burbules 合作出版 *Pragmatism and Educational Research*，奠定其 Dewey 式实用主义教育哲学基础
+> - 2003 年与 Burbules 合作出版 *[[Pragmatism in China|pragmatism]] and Educational Research*，奠定其 [[John Dewey|Dewey]] 式实用主义教育哲学基础
 > - 2007–2010 年发表对[[Evidence-Based Education|证据本位教育]]的系列批判（2007a, 2010），确立其作为 EBE 最主要哲学批评者的地位
 > - 2010 年代后期关注教育中的"美"、被动性与教学的重塑（2017, 2022）
 
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Biesta, G. J. J., & Burbules, N. (2003). *Pragmatism and educational research*. Rowman & Littlefield. — 交易认识论的代表性阐述
+> - Biesta, G. J. J., & Burbules, N. (2003). *[[Pragmatism in China|pragmatism]] and educational research*. Rowman & Littlefield. — 交易认识论的代表性阐述
 > - Biesta, G. J. J. (2007a). Why 'what works' won't work: Evidence-based practice and the democratic deficit of educational research. *Educational Theory*, 57(1), 1–22. — 对[[Evidence-Based Education|证据本位教育]]的首次系统批判
 > - Biesta, G. J. J. (2010). Why 'What Works' Still Won't Work: From Evidence-Based Education to [[Value-Based Education]]. *Studies in Philosophy and Education*, 29(5), 491–503. — 三重缺陷框架的系统阐述
 > - Biesta, G. J. J. (2010a). *Good education in an age of measurement: Ethics, politics, democracy*. Paradigm Publishers. — 教育目的论的核心著作，提出资格化/社会化/主体化三维框架
@@ -81,7 +83,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Transactional Epistemology]] — 与 Burbules (2003) 合作系统阐述 Dewey 的交易认识论对教育研究的意涵
+> - [[Transactional Epistemology]] — 与 Burbules (2003) 合作系统阐述 [[John Dewey|Dewey]] 的交易认识论对教育研究的意涵
 > - [[Evidence-Based Education]] — 提出了证据本位教育在认识论、存在论和实践论维度的三重缺陷
 > - [[Value-Based Education]] — 提出价值而非证据应构成教育实践的基础
 > - [[Learnification]] — 提出概念描述学习被效果中心的结果逻辑所吞噬、教师被降格为"学习促进者"的现象（Larsen, 2019, p.2 引用）
@@ -92,7 +94,7 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 哲学渊源
-> - 深受 **John Dewey** 的实用主义和**Bruno Latour** 的科学社会学影响——前者提供了交易认识论基础，后者提供了对"科学作为黑箱"的批判视角
+> - 深受 **[[John Dewey]]** 的[[Pragmatism in China|实用主义]]和**Bruno Latour** 的科学社会学影响——前者提供了交易认识论基础，后者提供了对"科学作为黑箱"的批判视角
 > - 受 **Hannah Arendt** 的政治哲学启发，发展了教育中的主体化概念——教育不是"制造"主体，而是为主体"出现"创造条件
 > - 发展了关于教育中**被动性**（passivity）的概念：学习是"把自己交给教学"（being taught），教学被视为一种礼物（Biesta, 2013, "Receiving the Gift of Teaching", pp.449–461，转引自 Rømer, 2018, p.8）。这一概念与 Dewey 的"经验的双重面向"（主动与被动）相呼应——Dewey 认为被动的一面是"想象力"，即让经验向外部世界的交易开放
 

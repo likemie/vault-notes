@@ -11,6 +11,7 @@ tags:
 - epistemology
 - paradigm/pragmatist
 related_concepts:
+  - "[[Pragmatism in China]]"
   - "[[Evidence-Based Education]]"
   - "[[Value-Based Education]]"
 related_theories: []
@@ -19,8 +20,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Observational and Correlational Research]]"
   - "[[Mixed Method and Multi-method Research]]"
-  - "[[Matching]]"
-related_persons: []
+related_persons:
+  - "[[John Dewey]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
@@ -35,7 +36,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> 交易认识论（Transactional Epistemology）是 John Dewey 提出的知识观，主旨是：知识不是对外部静态现实的"准确再现"（旁观者知识观），而是在我们与世界的**互动与介入**中产生的、关于**行动与后果关系**的理解。
+> 交易认识论（Transactional Epistemology）是 [[John Dewey]] 提出的知识观，主旨是：知识不是对外部静态现实的"准确再现"（旁观者知识观），而是在我们与世界的**互动与介入**中产生的、关于**行动与后果关系**的理解。
 >
 > > "If we take experimentation seriously in our understanding of what knowledge is and how we can get it, we have to give up the spectator view of knowledge... and rather have to concede that the knowledge we can gain through experimentation is knowledge about relationships and, more specifically, about relationships between (our) actions and (their) consequences." (Biesta, 2010, p. 494)
 
@@ -62,21 +63,21 @@ updated: '2026-05-18'
 >
 > > 例：Biesta (2010, p. 499) 指出，研究证据表明家庭环境对学业成就具有显著影响——但这一知识并不"命令"我们将孩子从家庭中带走以提高其成绩。即使我们知道某种干预"在过去有效"，是否采用它仍取决于复杂的价值判断（对孩子与父母分离的潜在伤害 vs. 学业提升的潜在收益）。知识使决策"更明智"，但不替代决策。
 >
-> > "Knowledge about what has worked in the past is, of course, tremendously important... it can provide us with hypotheses for problem solving in the present. It can make, in Dewey's words, our action and problem solving more intelligent. But what evidence generated through experimentation cannot do... is provide us with rules for action and even less with dictates for action." (Biesta, 2010, p. 495)
+> > "Knowledge about what has worked in the past is, of course, tremendously important... it can provide us with hypotheses for problem solving in the present. It can make, in [[John Dewey|Dewey]]'s words, our action and problem solving more intelligent. But what evidence generated through experimentation cannot do... is provide us with rules for action and even less with dictates for action." (Biesta, 2010, p. 495)
 
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **1929** — Dewey 在 *The Quest for Certainty* 中批判西方哲学的"确定性追求"，提出"旁观者知识观"概念
+> - **1929** — [[John Dewey|Dewey]] 在 *The Quest for Certainty* 中批判西方哲学的"确定性追求"，提出"旁观者知识观"概念
 > - **1983** — Bernstein 在 *Beyond Objectivism and Relativism* 中重新阐释 Dewey 的认识论，挑战客观主义/相对主义的二元对立
-> - **2003** — Biesta & Burbules 在 *Pragmatism and Educational Research* 中系统阐述交易认识论对教育研究的意义
+> - **2003** — Biesta & Burbules 在 *[[Pragmatism in China|pragmatism]] and Educational Research* 中系统阐述交易认识论对教育研究的意义
 > - **2007** — Biesta 在 "Why 'What Works' Won't Work" 中首次将交易认识论应用于对[[Evidence-Based Education|证据本位教育]]的批判
 > - **2010** — 本文将交易认识论确立为三重缺陷框架的认识论支柱
 
 ## 研究范式
 
 > [!info] 研究范式
-> - **认识论立场**：实用主义 —— 超越现实主义/建构主义的二元对立，既不主张知识是对客观现实的反映，也不主张知识是纯粹的主观建构
+> - **认识论立场**：[[Pragmatism in China|实用主义]] —— 超越现实主义/建构主义的二元对立，既不主张知识是对客观现实的反映，也不主张知识是纯粹的主观建构
 > - **常用方法**：[[Philosophical Analysis in Education|哲学分析]]、概念分析
 
 ## 争议与批评
@@ -85,7 +86,7 @@ updated: '2026-05-18'
 > 如果知识只是"行动-后果关系的记录"（Biesta, 2010, p. 495），那么是否任何知识都没有比其他知识更"真"？交易认识论是否削弱了区分"好证据"和"坏证据"的基础？
 >
 > - **批评立场**：若所有知识都是情境依赖的"关系记录"，则失去了判断不同研究质量高低的跨情境标准。这可能导致对 [[Randomised Controlled Trials|RCT]] 和[[Observational and Correlational Research|观察研究]]"同样有效"的等同处理——Slavin (2019) 会认为这放弃了因果推论的核心要求。
-> - **Dewey/Biesta 的回应**：交易认识论不是相对主义——"warranted assertions"的"依据"（warrant）来自实验过程的严谨性和公开可检验性。区别在于它承认这些断言的情境限制和未来不确定性，而非否定证据的价值。（Biesta, 2010, pp. 494–495）
+> - **[[John Dewey|Dewey]]/Biesta 的回应**：交易认识论不是相对主义——"warranted assertions"的"依据"（warrant）来自实验过程的严谨性和公开可检验性。区别在于它承认这些断言的情境限制和未来不确定性，而非否定证据的价值。（Biesta, 2010, pp. 494–495）
 >
 > **目前状态**：此哲学争议在教育研究领域持续；Ercikan & Roth (2006) 以及 Maxwell (2004) 在[[Mixed Method and Multi-method Research|混合方法]]文献中提供了折中方案——承认知识的交易性但不放弃跨情境比较。
 
@@ -93,7 +94,7 @@ updated: '2026-05-18'
 > [!warning] 对科学实践的描述是否准确
 > 批评者指出，即使交易认识论在哲学上成立，科学家和教师在实践决策中实质上使用"表象认识论思维"——他们会说"研究显示 X 有效"，而不是"研究显示 X 过去在这种情况下产生过这种关系"。
 >
-> **目前状态**：此张力指出了[[Philosophical Analysis in Education|哲学分析]]和实践决策之间的不[[Matching|匹配]]——哲学家（如 Biesta）追求概念精确性，实践者（如教师）需要可操作的启发式——两者可能永远无法完全对齐。
+> **目前状态**：此张力指出了[[Philosophical Analysis in Education|哲学分析]]和实践决策之间的不匹配——哲学家（如 Biesta）追求概念精确性，实践者（如教师）需要可操作的启发式——两者可能永远无法完全对齐。
 
 
 > [!warning] 实操意义不明
