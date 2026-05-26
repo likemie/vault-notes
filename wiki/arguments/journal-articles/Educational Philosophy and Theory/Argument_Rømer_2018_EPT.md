@@ -48,7 +48,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - 教育[[Philosophical Analysis in Education|哲学分析]]——以 [[Bildung]] 传统（Dewey、[[Immanuel Kant|Kant]]、Arendt、Biesta）为对照审视 [[John Hattie|Hattie]] 的理论
+> - 教育[[Philosophical Analysis in Education|哲学分析]]——以 [[Bildung]] 传统（[[John Dewey|Dewey]]、[[Immanuel Kant|Kant]]、Arendt、Biesta）为对照审视 [[John Hattie|Hattie]] 的理论
 > - [[Radical Constructivism]] — 识别为 Hattie 的学习理论根基
 > - [[Popper's Three Worlds Theory]] — 识别为 Hattie 的认识论声称基础，论证其被严重误读
 > - [[Technical Rationality]] — [[Appraisal Theory|评价理论]]作为技术理性的运作机制
@@ -58,7 +58,7 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education]]
 > - 路径：概念分析和哲学论证，通过对 [[John Hattie|Hattie]] (2009) *[[Visible Learning]]* 第三章的深度阅读，追踪每条概念链的哲学前提和逻辑后果
-> - 对话对象：Popper 的科学哲学、Dewey/Biesta/Arendt/[[Immanuel Kant|Kant]] 的教育哲学传统、von Glasersfeld 的[[Radical Constructivism|激进建构主义]]
+> - 对话对象：Popper 的科学哲学、[[John Dewey|Dewey]]/Biesta/Arendt/[[Immanuel Kant|Kant]] 的教育哲学传统、von Glasersfeld 的[[Radical Constructivism|激进建构主义]]
 
 ## 核心论证
 
@@ -86,7 +86,7 @@ updated: '2026-05-18'
 > 6. 外部世界、内容、规范——建构主义的所有问题——直接进入 Hattie 的教学概念（Rømer, 2018, p.6-8）
 >
 > ### 论证四：[[Feedback|反馈]]概念的集权化效应
-> 1. Hattie 将反馈评为 d=0.73 的极其有效方法，但概念完全未经哲学反思——没有 Buber 的对话、Bakhtin 的对话、Dewey 的交易论或[[Socrates|苏格拉底]]式的辩证
+> 1. Hattie 将反馈评为 d=0.73 的极其有效方法，但概念完全未经哲学反思——没有 Buber 的对话、Bakhtin 的对话、[[John Dewey|Dewey]] 的交易论或[[Socrates|苏格拉底]]式的辩证
 > 2. 反馈包含演绎（将学生行为导入操作性目标结构）和归纳两个方面
 > 3. 关键的归纳方面：反馈最有力的是"从学生到教师"——使学习对教师可见，让教师成为"自身效果的学徒"
 > 4. 这与 Peters 的"教育即启蒙"（education as initiation）完全相反——反馈不是让文化、艺术、科学对学生可见
@@ -122,7 +122,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > - 论文主要集中在 [[John Hattie|Hattie]] 的理论论述（*[[Visible Learning]]* 第三章），未对其经验数据进行独立的统计分析
 > - 对 Hattie 的丹麦接受者（Qvortrup、Laursen、Egelund）的讨论限于北欧语境
-> - Rømer 的替代性立场（以 Dewey、Biesta、Arendt 为代表的 [[Bildung]] 传统）仅被暗示但未充分展开
+> - Rømer 的替代性立场（以 [[John Dewey|Dewey]]、Biesta、Arendt 为代表的 [[Bildung]] 传统）仅被暗示但未充分展开
 
 ## 来源
 

@@ -46,13 +46,13 @@ updated: '2026-05-18'
 > [!question]
 > 在"新"[[Geopolitics of Knowledge|知识地缘政治]]（new [[Geopolitics of Knowledge]]）的讨论中，认识论（epistemology）应扮演什么角色？面对现代性"封闭理性"（closed rationality of modernity）在全球范围内引发的多重危机——环境崩溃、社会不平等、数字转型冲击——能否构建一种不急于消解矛盾、而是在张力中思考知识与实践关系的认识论？这种认识论如何为高等教育的转型提供具体路径？（Delambre, 2022, p.105–107）
 
-Delambre 的核心关切是：现有的知识地缘政治讨论（以 [[Walter Mignolo]]、Dussel、Santos 为代表）已经充分揭示了西方认识论霸权的问题，但在"揭露问题"和"构建替代方案"之间存在巨大鸿沟——批判很充分，但如何将批判转化为实践？本章试图用一套自建的理论-方法体系（[[Creative Tension of Sense]] + [[Ganz-Methode]]）来架设这座桥梁。
+Delambre 的核心关切是：现有的知识地缘政治讨论（以 [[Walter Mignolo]]、Dussel、Santos 为代表）已经充分揭示了西方认识论霸权的问题，但在"揭露问题"和"构建替代方案"之间存在巨大鸿沟——批判很充分，但如何将批判[[Transfer Translation Transformation|转化]]为实践？本章试图用一套自建的理论-方法体系（[[Creative Tension of Sense]] + [[Ganz-Methode]]）来架设这座桥梁。
 
 ## 理论框架
 
 > [!abstract]
 > - [[Creative Tension of Sense]] — 作者自建理论，作为全章核心分析框架。该理论的出发点是一个基本观察：新事物总是在旧秩序的母体内孕育，新旧之间的"意义张力"（tension of sense）不是需要消除的故障，而是意义本身得以产生的条件。换言之，创造力恰恰来自张力，而非张力的消除（Delambre, 2022, p.106, 111–112）
-> - [[Geopolitics of Knowledge]] — 作为讨论的背景框架。作者接受了 Mignolo 等人的基本诊断（西方认识论通过殖民扩张获得了虚假的普遍性），但批评该传统过度关注"谁生产知识、为谁的利益"（[[Knowledge Production|知识生产]]面），而忽视了知识在动态过程中如何被转移、挪用、破坏和重构（[[Knowledge Transfer|知识转移]]面）。Delambre 将张力理论定位为对 GPK 讨论的"认识论补充"（Delambre, 2022, p.105–106）
+> - [[Geopolitics of Knowledge]] — 作为讨论的背景框架。作者接受了 Mignolo 等人的基本诊断（西方认识论通过殖民扩张获得了虚假的普遍性），但批评该传统过度关注"谁生产知识、为谁的利益"（[[Knowledge Production|知识生产]]面），而忽视了知识在动态过程中如何被[[Transfer Translation Transformation|转移]]、挪用、破坏和重构（[[Knowledge Transfer|知识转移]]面）。Delambre 将张力理论定位为对 GPK 讨论的"认识论补充"（Delambre, 2022, p.105–106）
 > - 多元理论参照 — 作者广泛援引 Leff 的环境理性（environmental rationality）、Santos 的"南方认识论"（Epistemologies of the South）、Dussel 的超现代性（transmodernity）、Quijano 的殖民性权力（coloniality of power）等，但并非将这些理论作为分析工具来"操作"，而是将它们作为"现代性封闭理性已经耗竭"这一诊断的证据集合（Delambre, 2022, p.108–110）
 
 ## 研究方法
@@ -126,7 +126,7 @@ Delambre 强调，Ganz-Methode 不是只在孤立的局部情境中运作——*
 
 ### 步骤 7：WTS Coaching — 从理论到可操作项目
 
-WTS Coaching 是 Delambre 将 Ganz-Methode 转化为可操作教练项目的尝试。WTS 代表 Whole-Transdisciplinary Sustainability（整体-跨学科可持续性），其核心操作逻辑是：在每个具体项目中**同时处理三重张力**——个体发展张力（个人的生命力量）、组织发展张力（机构的新旧冲突）和全球可持续性张力（增长 vs 去增长）（Delambre, 2022, p.107, 117–118）。
+WTS Coaching 是 Delambre 将 Ganz-Methode [[Transfer Translation Transformation|转化]]为可操作教练项目的尝试。WTS 代表 Whole-Transdisciplinary Sustainability（整体-跨学科可持续性），其核心操作逻辑是：在每个具体项目中**同时处理三重张力**——个体发展张力（个人的生命力量）、组织发展张力（机构的新旧冲突）和全球可持续性张力（增长 vs 去增长）（Delambre, 2022, p.107, 117–118）。
 
 > 例：一个大学想要改革课程以回应"数字转型"——在 WTS Coaching 框架下，这不只是"加几门编程课"的问题。教练会引导大学同时审视：（a）**个体层**：教师和学生各自对"什么知识重要"的 [[Life Power|生命力量]] 感是什么？（b）**制度层**：新旧课程内容的张力如何被承载而不是被行政命令粗暴解决？（c）**全球层**：数字技能培养与 AI 取代就业之间的全球张力如何影响本地课程设计？三个层面的张力被同时放在台面上审视（基于 Delambre, 2022, p.117–121 对大学应用的讨论）。
 
@@ -139,7 +139,7 @@ Delambre 的最终结论是一个概念重构：在 [[Tense Society|张力社会
 > [!success]
 > - 现代性"封闭理性"的耗竭不仅是一个哲学命题（参见 [[Creative Tension of Sense#认识论立场]]），它在环境危机中有可感知的物质证据——Leff (2014) 论证环境危机本质上是"认知世界的方式的危机"，而非单纯的技术或政策失败（Delambre, 2022, p.108–109）
 > - "新在旧内部诞生"这一命题提供了一个超越"新旧二元对立"的分析框架：不需要在传统与现代、地方与全球、口述与书写之间做非此即彼的选择。这为高等教育应对多重转型提供了与"改革或守成"二分法不同的第三条路（Delambre, 2022, p.111–112）
-> - [[Ganz-Methode]] 的两步程序（承载张力 → 发现 [[Life Power|生命力量]]）将抽象的认识论讨论转化为可操作的实践方法。其关键创新不是"解决问题"而是"改变与问题的关系"——从急于消解到耐心承载（Delambre, 2022, p.112–116）
+> - [[Ganz-Methode]] 的两步程序（承载张力 → 发现 [[Life Power|生命力量]]）将抽象的认识论讨论[[Transfer Translation Transformation|转化]]为可操作的实践方法。其关键创新不是"解决问题"而是"改变与问题的关系"——从急于消解到耐心承载（Delambre, 2022, p.112–116）
 > - 在[[Tense Society|张力社会]]中，大学面临双重困境：既是现代性封闭理性的核心制度支柱（因而是"问题的一部分"），又拥有成为"解决方案的一部分"的制度资源和合法性。出路不是抛弃大学，而是在大学内部"承载新旧张力"（Delambre, 2022, p.119–121）
 > - AI、数字技术和社交媒体的崛起不只是技术变革，而是对"人是什么"的追问——当公司可以没有工人、信息权威从机构转向个体 influencer、人际关系被社交媒体的时间逻辑重组时，"活着的意义"（sense of life）成为张力社会的核心问题（Delambre, 2022, p.115–117）
 
@@ -164,7 +164,7 @@ Delambre 的最终结论是一个概念重构：在 [[Tense Society|张力社会
 
 > [!warning]
 > - **理论建构的经验基础薄弱**：理论高度依赖作者个人在里约热内卢的实践经验和案例（2013–2020），案例仅以简要叙述方式呈现，缺乏独立验证、跨情境检验和系统数据支撑（Delambre, 2022, p.107）
-> - **核心概念的操作性不足**："张力"、"整体"（Ganz）、"[[Life Power|生命力量]]"（life power）等概念的定义偏向哲学化和诗意化——例如"生命力量是幸福建立的地方"——难以转化为可检验的实证假设或可复制的操作程序
+> - **核心概念的操作性不足**："张力"、"整体"（Ganz）、"[[Life Power|生命力量]]"（life power）等概念的定义偏向哲学化和诗意化——例如"生命力量是幸福建立的地方"——难以[[Transfer Translation Transformation|转化]]为可检验的实证假设或可复制的操作程序
 > - **[[Ganz-Methode]] 的方法论细节缺失**：两步法描述保持在原则层面——"承载张力"具体需要多长时间？谁来承载？如何判断承载是否"充分"？这些关键操作问题未被回答（Delambre, 2022, p.112–116）
 > - **与替代理论的对话不足**：作者大量引用 Leff、Santos、Dussel、[[Walter Mignolo]] 等思想家，但更多是将其作为权威背书而非批判性对话对象。例如，Ganz-Methode 与 Santos 的"知识生态学"（ecology of knowledges）有何异同？与 Escobar 的 [[Transition Design]] 如何区别？这些比较未被展开
 > - **对大学的建议停留在呼吁层面**："水平化关系"、"倾听所有利益相关者的生命力量"等建议在制度层面如何实施（如大学治理结构改革、评聘标准修订、课程审批流程改造）完全没有涉及。这使得该理论对高等教育政策制定者的实际指导力有限

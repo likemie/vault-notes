@@ -35,7 +35,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> 论文试图解决教育转移（educational transfer）研究中的核心方法论问题：如何分析和理解[[Cross-National Attraction|跨国吸引]]力（cross-national attraction）中的**脉络/情境（context）**作用。具体而言，论文指出现有框架——包括 Phillips & Ochs 的[[Policy Borrowing|政策借用]]四阶段模型和结构性类型学——虽然承认情境的重要性，但未能系统性地拆解情境要素并阐明其如何影响转移过程。
+> 论文试图解决教育[[Transfer Translation Transformation|转移]]（educational transfer）研究中的核心方法论问题：如何分析和理解[[Cross-National Attraction|跨国吸引]]力（cross-national attraction）中的**脉络/情境（context）**作用。具体而言，论文指出现有框架——包括 Phillips & Ochs 的[[Policy Borrowing|政策借用]]四阶段模型和结构性类型学——虽然承认情境的重要性，但未能系统性地拆解情境要素并阐明其如何影响转移过程。
 >
 > Rappleye 提出三个新的研究需求：(1) 更多关注能动性（agency），区分前转移和后转移能动性；(2) 回应全球化带来的新行动者（超国家组织、智库、顾问等）的激增；(3) 反映外国影响日益增加的复杂性和微妙性——包括话语的转移而非仅实践的转移。（p. 226–228）
 
@@ -45,7 +45,7 @@ updated: '2026-05-18'
 > - [[Policy Borrowing]] — 论文以 Phillips & Ochs (2003, 2004a) 的政策借用四阶段模型和结构性类型学为基础，重点聚焦"[[Cross-National Attraction|跨国吸引]]力"阶段，认为该阶段启动整个政策借用循环
 > - [[Externalization]] — 采纳 Schriewer (1990, 2003) 的"外化"概念，用于解释改革行动者如何将国内问题投射到国际参照系中，以及抵制行动者如何外化到"传统"来维护现状
 > - **Halpin & Troyna (1995)** 和 **Gonon (1998)** 的研究 — 论证外国范例诞生于教育改革辩论中，而非独立存在的客观参照
-> - **Dolowitz & Marsh (2000)** 的政策转移政治学 — 提供跨学科的行动者分类框架
+> - **Dolowitz & Marsh (2000)** 的政策[[Transfer Translation Transformation|转移]]政治学 — 提供跨学科的行动者分类框架
 
 ## 研究方法
 
@@ -58,7 +58,7 @@ updated: '2026-05-18'
 
 > [!note-] 正文交叉索引
 > 1. 先读 [[Cross-National Attraction]]：把握 Rappleye 主要处理的是[[Policy Borrowing|政策借用]]第一阶段，而非完整借用周期。  
-> 2. 再读 [[Externalization]]：理解"外化"如何把结构变化转译为改革或抵制话语。  
+> 2. 再读 [[Externalization]]：理解"外化"如何把结构变化[[Transfer Translation Transformation|转译]]为改革或抵制话语。  
 > 3. 回到本条的"核心论证"与"主要发现"：看概念地图如何把结构层与行动者层合并分析。  
 > 4. 对照案例：[[American Attraction to Japanese Education 1980s]] 与 [[Late Qing Borrowing of Japanese Education]]。  
 > 5. 若看美国案例，建议并读 [[A Nation at Risk 1983]]，理解危机叙事如何放大跨国参照。  
@@ -66,7 +66,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> **1. 前提／观察：** 现有教育转移研究虽然反复强调"情境很重要"（context matters），但缺乏系统地拆解情境要素和开发分析情境影响的概念工具。大多数框架以"被借用的政策"为焦点，导致对转移的短视理解和情境作用的遮蔽。（p. 223–224）
+> **1. 前提／观察：** 现有教育[[Transfer Translation Transformation|转移]]研究虽然反复强调"情境很重要"（context matters），但缺乏系统地拆解情境要素和开发分析情境影响的概念工具。大多数框架以"被借用的政策"为焦点，导致对转移的短视理解和情境作用的遮蔽。（p. 223–224）
 >
 > > "If researchers focus on the content of transfer, there is no doubt that they will find a common denominator ... however, if we choose to bring the local context to the fore, direct our attention to agencies of lending and borrowing, and ask why some idea or discourse has been transferred, we gain a completely different understanding of transfer." (Steiner-Khamsi, 2000, p. 158，引自 p. 224)
 >
@@ -98,7 +98,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > - **情境是双层结构：** 结构层面（"更广阔世界的变化"）和人的层面（"语义建构"）相互独立但通过"[[Externalization|外化]]"过程连接——改革行动者从结构推力中选择性地援引证据来包装改革方案（p. 230）
 > - **抵制方也存在"外化"：** 抵制行动者同样外化到"传统""历史""文化"来维护现状，这些概念在改革辩论中被塑造成武器——Holmes (1981) 称之为"抵制的力量"（forces of reaction），Rappleye 将其重新定义为"停滞的修辞"（rhetoric of stasis）（p. 231–232）
-> - **吸引力转化为借用的机制之一是"不可能联盟"：** 当改革派和保守派出于不同理由都同意外国范例是好的模型时，吸引力转化为大规模借用——例如晚清中国借用日本教育：改革派视日本为现代化的成功典范，保守派视日本为保存儒家秩序的范例，双方无法在其他议题上达成一致，但在"日本教育是中国的好模型"上达成共识（p. 233–234）。参见 [[Late Qing Borrowing of Japanese Education]]。
+> - **吸引力[[Transfer Translation Transformation|转化]]为借用的机制之一是"不可能联盟"：** 当改革派和保守派出于不同理由都同意外国范例是好的模型时，吸引力转化为大规模借用——例如晚清中国借用日本教育：改革派视日本为现代化的成功典范，保守派视日本为保存儒家秩序的范例，双方无法在其他议题上达成一致，但在"日本教育是中国的好模型"上达成共识（p. 233–234）。参见 [[Late Qing Borrowing of Japanese Education]]。
 > - **四种"火花"各有不同的修辞力度和方向：** 丑闻化和合法化服务于推动改革（前者修辞更激烈），警示和颂扬服务于抵制改革（前者修辞更激烈）（p. 233）
 > - **比较教育学者可以更有意识地影响转移过程：** 通过连接外国系统研究与"本国"情境的推力或阻力，学者可以支持或反对借用，而非仅生产描述性案例研究后坐等他人使用其成果（p. 237–238）
 >
@@ -122,7 +122,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - **论文自身承认的局限：** (a) 地图是"临时性的"（provisional），需要其他研究者在不同情境中检验其实用性；(b) 任何模型都不可避免地将分析"困在看似有限的可能框架内"；(c) 地图的视觉复杂性可能令人生畏（p. 228, 234, 238）
-> - **有待研究的问题：** (a) 特定行动者与其选用特定"火花"策略之间是否存在相关性？(b) 情境在[[Policy Borrowing|政策借用]]周期的不同阶段如何演变？(c) 吸引力和转移的动态在历史上如何变化？（p. 233, 236–237）
+> - **有待研究的问题：** (a) 特定行动者与其选用特定"火花"策略之间是否存在相关性？(b) 情境在[[Policy Borrowing|政策借用]]周期的不同阶段如何演变？(c) 吸引力和[[Transfer Translation Transformation|转移]]的动态在历史上如何变化？（p. 233, 236–237）
 
 ## 相关条目（一句话）
 

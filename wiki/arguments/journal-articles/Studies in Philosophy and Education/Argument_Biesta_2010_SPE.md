@@ -44,7 +44,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **Dewey 的交易认识论（[[Transactional Epistemology]]）** — 替代表象认识论（representational epistemology），论证实验研究无法产生未来确定性的知识
+> - **[[John Dewey|Dewey]] 的交易认识论（[[Transactional Epistemology]]）** — 替代表象认识论（representational epistemology），论证实验研究无法产生未来确定性的知识
 > - **[[Luhmann's Systems Theory|系统理论]]（Systems Theory）** — 封闭/开放/递归/符号系统的区分，论证社会领域的非决定论特征
 > - **Latour 的计量学（Metrology）** — 论证"科学成就"并非知识应用到世界，而是世界被改造为实验室条件
 > - **教育的 teleological 特征** — 教育是目的性（telos-driven）实践，价值先于效果
@@ -56,7 +56,7 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - **方法**：[[Philosophical Analysis in Education]] — 以三个维度（认识论、存在论、实践论）为框架，逐一展开概念分析和逻辑论证
 > - **论证结构**：每个维度先区分两种"解读"（representational vs. transactional / closed vs. open / application vs. incorporation），再识别一个"缺陷"
-> - **数据来源**：哲学文献（Dewey、Latour）、[[Luhmann's Systems Theory|系统理论]]、教育研究方法论文献
+> - **数据来源**：哲学文献（[[John Dewey|Dewey]]、Latour）、[[Luhmann's Systems Theory|系统理论]]、教育研究方法论文献
 
 ## 核心论证
 
@@ -69,7 +69,7 @@ updated: '2026-05-18'
 >
 > - 证据本位教育隐含着**表象认识论**：知识是对世界的准确再现，因此通过实验获得的"真知识"可以预测未来
 > - 但实验方法本身要求**介入**世界（而非旁观），这恰好与表象认识论矛盾
-> - 出路是转向 **Dewey 的交易认识论**：实验产生的知识是**关于过去行动与后果关系的知识**——它只能告诉我们"什么曾经有效"（what has worked），而非"什么将会有效"（what will work）
+> - 出路是转向 **[[John Dewey|Dewey]] 的交易认识论**：实验产生的知识是**关于过去行动与后果关系的知识**——它只能告诉我们"什么曾经有效"（what has worked），而非"什么将会有效"（what will work）
 > - 因此存在结构性的知识缺口：研究证据只能提供**可能性**，无法提供**确定性**
 >
 > > "A [[Transactional Epistemology]] allows us to make warranted assertions about what has worked in the past but not about what will work in the future." (p. 495)

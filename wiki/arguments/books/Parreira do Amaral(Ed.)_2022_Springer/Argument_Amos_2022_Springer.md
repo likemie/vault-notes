@@ -223,7 +223,7 @@ updated: 2026-05-18
 >
 > > 例：Haraway 在 *Staying with the Trouble* 的最后一章设想的社区，以 SF 为核心活动——人们聚在一起讲故事、编织线绳图案、创造跨物种的关系叙事。但她没有讨论谁来教孩子识字、谁来评估学习成果、谁来认证技能。在某种程度上，她设想的学习是一种"学徒制"式的、嵌在日常生活和共同体关系中的过程——不是发生在称为"学校"的专门机构里。
 >
-> Amos 指出，如果一定要为 Haraway 的愿景找一位教育理论家，那应该是 **John Dewey** 而非 Wilhelm von Humboldt 或 Maria Montessori。Dewey 强调教育与经验、与民主生活、与共同体的连续性——与 Haraway 的"在稠密的当下好好生、好好死"（live and die well together in a thick present）的伦理有相通之处（Amos, 2022, p.63）。
+> Amos 指出，如果一定要为 Haraway 的愿景找一位教育理论家，那应该是 **[[John Dewey]]** 而非 Wilhelm von Humboldt 或 Maria Montessori。Dewey 强调教育与经验、与民主生活、与共同体的连续性——与 Haraway 的"在稠密的当下好好生、好好死"（live and die well together in a thick present）的伦理有相通之处（Amos, 2022, p.63）。
 >
 > Escobar 依赖 Varela 的 *Ethical Know-How* (1999)——具体而言是"**自我的非固化**"（non-solidity of the self）概念：自我不是固态的、固定的实体，而是分布式系统通过社会交互涌现的"虚拟自我"。接受这种非固化，会产生一种根本性的**关爱心态**（caring disposition）。如何培育这种心态？不是通过理性干预、自我优化或规范灌输——而是通过**悬置自我**（suspension of the ego），通过那些有助于发展"非自我中心"习惯的训练（Amos, 2022, p.63）。
 >

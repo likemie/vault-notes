@@ -76,7 +76,7 @@ updated: '2026-05-18'
 > [[Randomised Controlled Trials|RCT]] 在严格受控条件下提供无偏估计，但这正是其局限所在——研究者不知道因果效应在新环境中是否存活。[[Meta-analysis|元分析]]试图通过多场景合成解决外部效度，但：
 >
 > - 没有理论的引导，可能的影响因素组合是**无限的**
-> - 研究总体与实际目标总体不[[Matching|匹配]]（进入 RCT 的群体更像便利样本而非随机样本）
+> - 研究总体与实际目标总体不匹配（进入 RCT 的群体更像便利样本而非随机样本）
 > - 元分析 "成功" 可能只是因为方便采样的人口和环境具有系统性共性，而非干预的普遍有效性
 >
 > > "Even a systematic review or meta-analysis of many high-quality RCTs provides little epistemic warrant for applying to a new population." (p. 5)
@@ -93,7 +93,7 @@ updated: '2026-05-18'
 > [[Evidence-Based Education|EBE]] 的 RCT/系统综述机制提供了**一个统一的解决方案**：
 > - 研究方法要求事先声明假设、结果指标、检索协议 → 对主权者**透明**
 > - 主权者无需深入理解教育研究或做出实质判断 → 只需要求 "what works"
-> - 研究结果以简化的[[Effect Size|效应量]]呈现 → 可直接转化为问责[[Feedback|反馈]]
+> - 研究结果以简化的[[Effect Size|效应量]]呈现 → 可直接[[Transfer Translation Transformation|转化]]为问责[[Feedback|反馈]]
 >
 > > "The advantage of formal criteria for the sovereign is that she does not have to explore the details of research evidence, pass judgement on specific interventions, or evaluate the approach and conduct of individual experts." (p. 10)
 >
@@ -149,7 +149,7 @@ updated: '2026-05-18'
 >
 > **批评内容**：Cowen 明确搁置了自利/[[Opportunist Mode|机会主义]]问题（区别于 Niskanen 的预算最大化模型），聚焦于纯粹认知挑战——"即使所有官僚真诚追求共同善，知识问题依然存在"。但批评者指出，真实官僚系统中认知约束与激励冲突并存且交互——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性呈现有利数据）。
 >
-> **影响**：此简化使得 Cowen 的分析可以分离出"知识问题"的独立解释力（分析优势），但同时也可能高估了 [[Evidence-Based Education|EBE]] 的"认知解决方案"角色——如果官僚选择 [[Randomised Controlled Trials|RCT]]/系统综述也有自利动机（规避决策风险、转移问责），那么仅切断问责捆绑可能不足以改变行为。
+> **影响**：此简化使得 Cowen 的分析可以分离出"知识问题"的独立解释力（分析优势），但同时也可能高估了 [[Evidence-Based Education|EBE]] 的"认知解决方案"角色——如果官僚选择 [[Randomised Controlled Trials|RCT]]/系统综述也有自利动机（规避决策风险、[[Transfer Translation Transformation|转移]]问责），那么仅切断问责捆绑可能不足以改变行为。
 >
 > **目前状态**：Cowen 承认这一简化，并将其定位为对 Niskanen 自利模型的补充而非替代。在公共选择文献中，认知约束与激励冲突的整合分析仍是一个开放问题。
 >

@@ -64,7 +64,7 @@ updated: 2026-05-19
 > [!info]
 > 本章为理论-分析讨论（theoretical-analytical discussion），基于对大学政策文件、进展报告和 [[Online Self-Assessment|OSA]] 操作手册的话语分析。
 > - 方法：话语分析（discourse analysis，作者声明在章篇幅内无法提供完整的话语分析，仅"识别核心主题或方面"（p.223））
-> - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 [[Max Weber1|Weber]] et al., 2019），以及已有关于 OSA 的实证研究文献（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
+> - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 [[Max Weber|Weber]] et al., 2019），以及已有关于 OSA 的实证研究文献（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
 > - 案例材料：荷兰 Saxion 大学的"学习选择检查"YouTube 视频（2020）
 
 ## 论证结构
@@ -83,7 +83,7 @@ updated: 2026-05-19
 
 将 [[Online Self-Assessment|OSA]] 置于竞争性大学的更广框架中理解：借助 Moisio（2018）对[[Knowledge-Based Economy|知识经济]]地缘政治的分析，竞争力已成为重新组织高等教育的"地缘政治装置"（geopolitical apparatus）：
 
-- 排名和指标化实践将大学转化为竞争者——[[Performativity of Measurement|测量的生产性]]在此发挥关键作用（Thompson et al., 2022, p.220）
+- 排名和指标化实践将大学[[Transfer Translation Transformation|转化]]为竞争者——[[Performativity of Measurement|测量的生产性]]在此发挥关键作用（Thompson et al., 2022, p.220）
 - 在科研领域，Bröckling & Peter（2017）已证明"卓越"与自我呈现和持续自我优化的任务绑定在一起——德国卓越计划和英国 REF 就是通过指标和排名构建市场环境的典型技术（Thompson et al., 2022, p.220）
 - 在教学领域，竞争力表现为对**学生成功的预期管理**——大学竞争的是学生的"潜在未来努力"（Thompson et al., 2022, p.220）
 
@@ -97,7 +97,7 @@ OSA 在德国大学政策话语中具有三种战略功能（Thompson et al., 20
 2. **降低成本和风险（reduction of costs and risks）**：通过促进"有根据的自我选择"（Thiele & Kauffeld, 2019a, p.275），减少学生辍学率，避免大学的资源投入无回报
 3. **完善大学形象（refinement of university profile）**：OSA 是一个"教育品牌"平台，让大学不再是"匿名的教育机构"（Thiele & Kauffeld, 2019a, p.234）
 
-OSA 不能被简化为一种"限制入学"的方法——它通过"[[Matching|匹配]]"和"和谐"的承诺重新定义了"学习的场所"（location of study）。大学被呈现为"完美的环境"，能够帮助学生实现他们的潜力（Thompson et al., 2022, p.223）。
+OSA 不能被简化为一种"限制入学"的方法——它通过"匹配"和"和谐"的承诺重新定义了"学习的场所"（location of study）。大学被呈现为"完美的环境"，能够帮助学生实现他们的潜力（Thompson et al., 2022, p.223）。
 
 > 例：传统上，选择大学就像买一本书——你看封面、读目录、翻几页，然后决定是否购买。OSA 将这个过程变成了一个互动式的"试阅"体验：你不仅是看大学提供什么，更是在测试**你自己**是否配得上这本书。Saxion 大学的案例（Thompson et al., 2022, pp.222–223）最清晰地展示了这一点——这项检查"不是入学考试，不影响录取"，但视频最后用一个木制形状分类玩具来展示结果，暗示着一种"对号入座"的自然秩序。
 

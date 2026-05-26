@@ -43,7 +43,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 - [[Moral Sidestep]] — Stevens（2019）在毒品政策研究中识别的概念：政策制定者以道德关切回避实证证据。Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分——corporate agency 来自社会优势群体，由规范性价值和结构定义，主导政治景观；primary agency 则是利益分散的边缘群体。Stevens 发现，代表 dominant corporate agency 的决策者通过将毒品使用者"去人性化"来回避证据。Bainbridge et al. 将此框架引入教育政策分析，追问在选择性教育政策中是否也存在类似的去人性化——那些未通过 11-plus 考试的孩子、未被评级为"good"的学校是否被系统性地剥夺了能动性（p.3, 9–10）
-- [[Justified Warrants]] — Malone & Hogan（2020）基于 Dewey 的概念：研究应提供的是"有正当理由的断言"（warranted assertions）而非确定性。Gorard（2002）同样挑战研究界提供从研究发现到结论再到现实世界应用的说服性逻辑链接。Bainbridge et al. 将这一标准应用于评估议会辩论——议员的政策主张是否提供了从证据到结论的合理逻辑推进？（p.6–7）
+- [[Justified Warrants]] — Malone & Hogan（2020）基于 [[John Dewey|Dewey]] 的概念：研究应提供的是"有正当理由的断言"（warranted assertions）而非确定性。Gorard（2002）同样挑战研究界提供从研究发现到结论再到现实世界应用的说服性逻辑链接。Bainbridge et al. 将这一标准应用于评估议会辩论——议员的政策主张是否提供了从证据到结论的合理逻辑推进？（p.6–7）
 - [[Van Leeuwen's Legitimation Theory]] — Van Leeuwen（2007）四层次合法化框架：(1) 权威/传统——与过去或当前权威结构的链接；(2) 道德价值——与组织持有的道德价值对齐；(3) 理性/真理——与"真理"或理性论证的关系；(4) 奖励叙事——支持现有的奖励叙事。Bainbridge et al. 论证：证据更可能在接收方的结构、过程和道德假设内被"合法化"时才被接受（p.9）
 - **三种证据到政策模型**（p.7）：(1) **线性模型（Linear Model）**——证据与政策之间的直接连接；(2) **多流模型（Multiple Streams Model）**——政策决策受证据、经济因素和公众舆论共同影响；(3) **混战模型（Melee Model）**——科学、政治、经济和社会四类证据的流动交互导致政策决策。Bainbridge et al. 认为混战模型最接近教育情境，但教育的复杂性可能使任何模型都不充分
 - **Biesta 的三重缺陷框架**（p.7–8）：知识缺陷（行动与后果的关系永远无法完全知晓）、效能缺陷（研究发现最多只能是尝试性的）、应用缺陷（拒绝从证据到政策到实践的简单线性观念，因为教育涉及特定个体在特定环境中的特定时刻）

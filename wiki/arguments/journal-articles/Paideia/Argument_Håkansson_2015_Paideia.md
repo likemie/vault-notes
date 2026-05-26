@@ -98,7 +98,7 @@ updated: '2026-05-20'
 > [!warning] 局限性与批评
 > - 文章不是严格的因果评估，而是把研究综述、政策变化和一项进行中的地方研究放在一起讨论，因此更适合识别改进方向与机制，不足以证明 [[John Hattie|Hattie]] 直接造成了哪些结果（Håkansson, 2015, pp.52–59）。
 > - Håkansson 明确承认，国家项目和课堂近端策略最终会产生什么效果仍不确定，因为地方学校文化和具体情境会强烈影响改革落实（Håkansson, 2015, pp.57–58）。
-> - 文中对 Hattie 的方法论批评着墨不多，主要任务是解释瑞典的接受与转化过程；如果要评估 VL 本身的统计与认识论问题，还需要与 Allerup、Qvortrup、Terhart 等文献并读。
+> - 文中对 Hattie 的方法论批评着墨不多，主要任务是解释瑞典的接受与[[Transfer Translation Transformation|转化]]过程；如果要评估 VL 本身的统计与认识论问题，还需要与 Allerup、Qvortrup、Terhart 等文献并读。
 
 ## 来源
 

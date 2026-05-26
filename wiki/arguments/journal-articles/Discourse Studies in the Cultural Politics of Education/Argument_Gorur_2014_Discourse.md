@@ -37,7 +37,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> OECD 的[[International Education|国际教育]]指标如何在几十年间从"几乎不可能"的项目转变为常规化、年度性的出版物 *[[Education at a Glance]]*（[[Education at a Glance|EAG]]），其过程中涉及怎样的实践、妥协和权力转移？（Gorur, 2014, p.4）
+> OECD 的[[International Education|国际教育]]指标如何在几十年间从"几乎不可能"的项目转变为常规化、年度性的出版物 *[[Education at a Glance]]*（[[Education at a Glance|EAG]]），其过程中涉及怎样的实践、妥协和权力[[Transfer Translation Transformation|转移]]？（Gorur, 2014, p.4）
 
 ## 理论框架
 
@@ -61,7 +61,7 @@ updated: '2026-05-18'
 >
 >    **(a) 科学的妥协**：[[International Indicators of Education Systems|INES]] 从一开始就放弃了科学研究的标准方法——放弃寻找普遍教育[[Luhmann's Systems Theory|系统理论]]模型，转而采用以可用性为导向的经验方法（Gorur, 2014, p.10）。"不完美的数据总比没有数据好"成为核心论证逻辑。坚持统计纯度被视为阻碍（Gorur, 2014, p.11）
 >
->    **(b) 权力的转移**：Lugano 1991 是分水岭时刻——政策制定者强行将学生成绩数据纳入 EAG，科学家失去对指标生产端的控制权。控制权从统计学家和社会科学专家转移到政府官员手中，心理测量学家成为官员的盟友（Gorur, 2014, p.12–13）
+>    **(b) 权力的[[Transfer Translation Transformation|转移]]**：Lugano 1991 是分水岭时刻——政策制定者强行将学生成绩数据纳入 EAG，科学家失去对指标生产端的控制权。控制权从统计学家和社会科学专家转移到政府官员手中，心理测量学家成为官员的盟友（Gorur, 2014, p.12–13）
 >
 >    **(c) 指标的制度化与 routinisation**：曾经激烈的辩论转变为协议，协议转变为常规——数据生成的常规、统计公式应用的常规、年度出版的常规。方法论程序化产生了"机械客观性"（Porter, 1995; Gorur, 2014, p.17）。共识可视为转译（Callon, 1986; Latour, 1999），通过纳入多样化利益使 EAG 能够高效常规生产（Gorur, 2014, p.17）
 >

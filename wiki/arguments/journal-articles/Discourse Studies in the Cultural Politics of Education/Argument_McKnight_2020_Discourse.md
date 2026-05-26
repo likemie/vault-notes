@@ -95,7 +95,7 @@ updated: '2026-05-18'
 > 3. 对 VL 的批评远不如使用指南那样普遍——这本身即是 VL 所创造的监控/服从文化的证据
 > 4. 教师和学者私下表达怀疑但公开保持沉默——"服从是霸权性的并许可被认可为专业人士"（McKnight & Whitburn, 2020, p.34）
 > 5. VL 是一种"多平台资本主义"，将教师知识商品化后卖回给教师；它将教师从[[Knowledge Production|知识生产]]者重新定位为顺从的消费者
-> 6. 结论并非全盘否定 [[John Hattie|Hattie]] 的统计学术贡献，而是论证 VL 论述转移了对教育中平等问题的关注（McKnight & Whitburn, 2020, p.42）
+> 6. 结论并非全盘否定 [[John Hattie|Hattie]] 的统计学术贡献，而是论证 VL 论述[[Transfer Translation Transformation|转移]]了对教育中平等问题的关注（McKnight & Whitburn, 2020, p.42）
 
 ## 关键引用
 
