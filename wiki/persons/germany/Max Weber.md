@@ -3,8 +3,7 @@ title: Max Weber
 aliases:
   - 马克斯·韦伯
   - 韦伯
-  - Weber
-summary: "德国社会学家，理解社会学奠基人与新教伦理与资本主义精神作者，为教育研究分析理性化、价值冲突与社会行动提供经典框架。"
+summary: 德国社会学家，理解社会学奠基人与新教伦理与资本主义精神作者，为教育研究分析理性化、价值冲突与社会行动提供经典框架。
 type: person
 nationality: germany
 tags:
