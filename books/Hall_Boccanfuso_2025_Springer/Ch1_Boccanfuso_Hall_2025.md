@@ -21,3 +21,5 @@ part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
 
 # Ch1_Boccanfuso_Hall_2025
+
+![[Ch1_Boccanfuso_Hall_2025.pdf]]

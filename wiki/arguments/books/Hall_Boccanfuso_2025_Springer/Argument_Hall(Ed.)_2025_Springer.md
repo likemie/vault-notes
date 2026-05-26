@@ -9,7 +9,7 @@ editors:
   - "Randolph Hall"
   - "Anthony Boccanfuso"
 publisher: "Springer"
-citation: ""
+citation: "Hall, R., & Boccanfuso, A. (Eds.). (2025). University-Industry Collaboration: Innovation at the Interface. Springer."
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

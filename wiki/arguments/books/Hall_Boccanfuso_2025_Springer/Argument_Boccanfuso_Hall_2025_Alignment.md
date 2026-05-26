@@ -27,7 +27,7 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
 sources:
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
+  - "[[Ch1_Boccanfuso_Hall_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-26
@@ -295,4 +295,4 @@ UIDP 的项目过程也值得注意：采用"Heilmeier Catechism"格式的项目
 
 ## 来源
 
-- [[Hall_Boccanfuso_2025_Springer_overview]]
+- [[Ch1_Boccanfuso_Hall_2025]]
