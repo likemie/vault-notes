@@ -528,6 +528,10 @@ def is_cjk(ch: str) -> bool:
     return "\u4e00" <= ch <= "\u9fff"
 
 
+def contains_cjk(text: str) -> bool:
+    return any(is_cjk(ch) for ch in text)
+
+
 def is_standalone_cjk_alias(text: str, entry: Entry) -> bool:
     return len(text) == 1 and is_cjk(text) and text in set(entry.aliases)
 
@@ -573,6 +577,72 @@ def match_term_at(text: str, start: int, term: str) -> bool:
     return False
 
 
+def cjk_terms_by_first_char(terms: list[Term]) -> dict[str, list[Term]]:
+    grouped: dict[str, list[Term]] = {}
+    for term in terms:
+        if not term.text or not contains_cjk(term.text):
+            continue
+        grouped.setdefault(term.text[0], []).append(term)
+    return grouped
+
+
+def preferred_cjk_term_lengths(
+    chunk: str,
+    terms_by_first: dict[str, list[Term]],
+    current_title: str,
+) -> dict[str, int]:
+    """Find the longest CJK term available for each target in linkable text."""
+    preferred: dict[str, int] = {}
+    i = 0
+    while i < len(chunk):
+        for term in terms_by_first.get(chunk[i], ()):
+            if term.target == current_title:
+                continue
+            if not match_term_at(chunk, i, term.text):
+                continue
+            if not valid_boundary(chunk, i, i + len(term.text), term.text):
+                continue
+            preferred[term.target] = max(preferred.get(term.target, 0), len(term.text))
+        i += 1
+    return preferred
+
+
+def merge_preferred_cjk_lengths(base: dict[str, int], extra: dict[str, int]) -> None:
+    for target, length in extra.items():
+        base[target] = max(base.get(target, 0), length)
+
+
+def collect_preferred_cjk_lengths(section: str, terms: list[Term], current_title: str) -> dict[str, int]:
+    preferred: dict[str, int] = {}
+    terms_by_first = cjk_terms_by_first_char(terms)
+    for protected, chunk in split_protected_spans(section):
+        if protected or not chunk:
+            continue
+        for line in chunk.splitlines(keepends=True):
+            if is_markdown_table_line(line):
+                if is_markdown_table_separator_line(line):
+                    continue
+                line = escape_table_wikilink_pipes(line)
+                positions = unescaped_pipe_positions(line)
+                if len(positions) < 2:
+                    continue
+                newline = "\n" if line.endswith("\n") else ""
+                core = line[:-1] if newline else line
+                cursor = 0
+                for idx, pipe_pos in enumerate(positions):
+                    if idx > 0:
+                        cell = core[cursor:pipe_pos]
+                        if is_safe_table_cell(cell):
+                            merge_preferred_cjk_lengths(
+                                preferred,
+                                preferred_cjk_term_lengths(cell, terms_by_first, current_title),
+                            )
+                    cursor = pipe_pos + 1
+            else:
+                merge_preferred_cjk_lengths(preferred, preferred_cjk_term_lengths(line, terms_by_first, current_title))
+    return preferred
+
+
 def link_text(display: str, target: str, table_safe: bool = False) -> str:
     if display == target:
         return f"[[{target}]]"
@@ -587,6 +657,7 @@ def link_plain_text(
     current_title: str,
     already_linked: set[str],
     table_safe: bool = False,
+    preferred_cjk_lengths: dict[str, int] | None = None,
 ) -> tuple[str, int]:
     additions = 0
     i = 0
@@ -600,6 +671,9 @@ def link_plain_text(
                 continue
             if not valid_boundary(chunk, i, i + len(term.text), term.text):
                 continue
+            if contains_cjk(term.text) and preferred_cjk_lengths:
+                if len(term.text) < preferred_cjk_lengths.get(term.target, len(term.text)):
+                    continue
             matched = term
             break
 
@@ -616,7 +690,13 @@ def link_plain_text(
     return "".join(new_chunk), additions
 
 
-def link_table_row(line: str, terms: list[Term], current_title: str, already_linked: set[str]) -> tuple[str, int]:
+def link_table_row(
+    line: str,
+    terms: list[Term],
+    current_title: str,
+    already_linked: set[str],
+    preferred_cjk_lengths: dict[str, int] | None = None,
+) -> tuple[str, int]:
     if is_markdown_table_separator_line(line):
         return line, 0
 
@@ -639,7 +719,14 @@ def link_table_row(line: str, terms: list[Term], current_title: str, already_lin
         else:
             cell = core[cursor:pipe_pos]
             if is_safe_table_cell(cell):
-                linked_cell, added = link_plain_text(cell, terms, current_title, already_linked, table_safe=True)
+                linked_cell, added = link_plain_text(
+                    cell,
+                    terms,
+                    current_title,
+                    already_linked,
+                    table_safe=True,
+                    preferred_cjk_lengths=preferred_cjk_lengths,
+                )
                 out.append(linked_cell)
                 additions += added
             else:
@@ -659,14 +746,26 @@ def link_table_row(line: str, terms: list[Term], current_title: str, already_lin
     return new_line, additions
 
 
-def link_unprotected_chunk(chunk: str, terms: list[Term], current_title: str, already_linked: set[str]) -> tuple[str, int]:
+def link_unprotected_chunk(
+    chunk: str,
+    terms: list[Term],
+    current_title: str,
+    already_linked: set[str],
+    preferred_cjk_lengths: dict[str, int] | None = None,
+) -> tuple[str, int]:
     out: list[str] = []
     additions = 0
     for line in chunk.splitlines(keepends=True):
         if is_markdown_table_line(line):
-            linked_line, added = link_table_row(line, terms, current_title, already_linked)
+            linked_line, added = link_table_row(line, terms, current_title, already_linked, preferred_cjk_lengths)
         else:
-            linked_line, added = link_plain_text(line, terms, current_title, already_linked)
+            linked_line, added = link_plain_text(
+                line,
+                terms,
+                current_title,
+                already_linked,
+                preferred_cjk_lengths=preferred_cjk_lengths,
+            )
         out.append(linked_line)
         additions += added
     return "".join(out), additions
@@ -676,6 +775,7 @@ def link_section(section: str, terms: list[Term], current_title: str, already_li
     additions = 0
     chunks = split_protected_spans(section)
     out: list[str] = []
+    preferred_cjk_lengths = collect_preferred_cjk_lengths(section, terms, current_title)
 
     for protected, chunk in chunks:
         if protected:
@@ -685,7 +785,7 @@ def link_section(section: str, terms: list[Term], current_title: str, already_li
             continue
         if not chunk:
             continue
-        linked_chunk, added = link_unprotected_chunk(chunk, terms, current_title, already_linked)
+        linked_chunk, added = link_unprotected_chunk(chunk, terms, current_title, already_linked, preferred_cjk_lengths)
         out.append(linked_chunk)
         additions += added
 
