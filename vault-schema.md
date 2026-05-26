@@ -15,11 +15,67 @@
 - AI 不手动维护生成字段：`related_*`、YAML `sources`、source record 的 `extracted_to`。
 - Source 记录与阅读页面优先由 `scripts/source_record.py` 生成，不手写固定结构。
 - 普通论文 / 报告 source record 初始阶段只负责固定 PDF 与来源入口；完整 citation 与最终命名在 Argument 页完成后由 `source_record.py finalize` 回填。
-- 新建、移动、删除、重命名条目后，自动运行 `python3 scripts/wiki_index.py` 重建索引；是否继续运行补链、关系同步与 lint，由用户确认。
+- 新建、移动、删除、重命名条目后，只自动运行 `python3 scripts/wiki_index.py` 重建索引；是否继续运行补链、关系同步与 lint，由用户确认。
+- 非必要不要运行 `--full`。优先使用 git 增量或路径限定；只有批量重命名/移动/删除、批量 alias/title 变更、增量结果异常、发布/备份/重要提交前，才使用 full sync 或 full lint。
 
 ---
 
-## 2. Folder Structure and Entry Types
+## 2. Workflow
+
+### 普通论文／报告
+
+1. 读取 `vault-schema.md`；若触发书籍任务，转入对应 book schema。
+2. 判断来源类型：期刊论文用 `source_record.py article`；报告、政策文件、白皮书用 `source_record.py report`。
+3. 创建初始 source record 并固定 PDF 到 `sources/`，再提取文本。
+4. 扫描文献，先判断需要建立或更新哪些知识对象：Concept / Theory / Fact / Person / Method / Argument；同时判断是否为实证研究。
+5. 为每个候选对象记录暂定英文标题、中文术语或别名、类型、目标二级文件夹、证据页码和独立成条理由。
+6. 读取 `wiki/index.json`，用标题、中文术语、英文变体和缩写检索是否已有；缺失、过期或有歧义时，再搜索对应二级文件夹。
+7. 将候选分为待更新和待新建。
+8. 更新已有条目：读取文件 → 判断目标章节、子主题与插入位置 → 先按主题归组，再在主题内按时间或论证顺序整合 → 用 `str_replace` 精确替换相关段落。
+9. 新建条目：只读取对应 `wiki/templates/template-*.md` → 按模板逻辑组织内容，先主题后时间。
+10. 实证研究必须更新或新建至少一个 Method 条目，在 `## 使用此方法的研究` 加入一条方法案例，并链接当前 Argument。
+11. 创建或更新 Argument 页，frontmatter 写入 `citation`，正文 `## 来源` 列出 source wikilink。
+12. 更新所有受影响条目的正文 `## 来源`：只放 source wikilink，按来源年份从早到晚排序，同一年按作者或机构字母顺序。
+13. 运行 `source_record.py finalize --argument <Argument路径> --rename`，回填 citation，并按 Argument 文件名重命名 source record 和 PDF。
+14. 自动运行 `python3 scripts/wiki_index.py`。
+15. 询问用户是否继续运行标准脚本流程。
+
+### 书籍任务
+
+- 只读取匹配的一种专项 schema：编著/论文集读 `schema/schema-edited-volume.md`；专著 PDF 或用户标注「专著」读 `schema/schema-monograph-pdf.md`；EPUB 读 `schema/schema-monograph-epub.md`。
+- 每次只处理一章或用户当前指定章节，处理完停止。
+- 涉及 figure / 图片 / 图表时，额外读取 `schema/schema-figures.md`。
+
+### Sync Decision
+
+- 自动步骤只运行：
+
+```bash
+python3 scripts/wiki_index.py
+```
+
+- 用户确认后，运行标准增量流程：
+
+```bash
+python3 scripts/wiki_linker.py sync
+python3 scripts/wiki_relations.py sync
+python3 scripts/wiki_index.py
+python3 scripts/vault_lint.py
+```
+
+- 非必要不要运行 full。必须 full 时才运行：
+
+```bash
+python3 scripts/wiki_index.py
+python3 scripts/wiki_linker.py sync --full
+python3 scripts/wiki_relations.py sync --full
+python3 scripts/wiki_index.py
+python3 scripts/vault_lint.py --full
+```
+
+---
+
+## 3. Folder Structure and Entry Types
 
 ```text
 raw/                         待处理原始文献，不编辑
@@ -30,7 +86,7 @@ schema/                      专项工作流 schema，按任务触发读取
   schema-figures.md
   schema-monograph-pdf.md
   schema-monograph-epub.md
-templater/                   Obsidian Templater 插件模板，不供 AI 工作流读取
+templater/                   Obsidian Templater 插件模板镜像；AI 工作流读取 wiki/templates/
 scripts/
   wiki_index.py               自动生成 wiki/index.json 与 wiki/index.md
   wiki_linker.py              根据 index.json 自动同步正文 wikilink
@@ -73,7 +129,7 @@ wiki/
 
 ---
 
-## 3. Naming, Aliases and Tags
+## 4. Naming, Aliases and Tags
 
 ### File Names and Titles
 
@@ -135,9 +191,9 @@ OECD_2018_GlobalCompetence
 
 ---
 
-## 4. Script Rules and Sync Commands
+## 5. Script Rules and Sync Commands
 
-脚本用于维护索引、补链、关系字段和 source 记录。`wiki_linker.py sync`、`wiki_relations.py sync` 与 `vault_lint.py` 默认使用 git 增量模式，只处理当前变动文件；日常不需要显式添加 `--git`。
+脚本用于维护索引、补链、关系字段和 source 记录。`wiki_linker.py sync`、`wiki_relations.py sync` 与 `vault_lint.py` 默认使用 git 增量模式，只处理当前变动文件；日常不需要显式添加 `--git`，更不要默认使用 `--full`。
 
 ### Automatic Step
 
@@ -174,7 +230,7 @@ python3 scripts/vault_lint.py --path "wiki/concepts/comparative-education/World 
 
 ### Full Sync
 
-只有在以下情况才全量同步与检查：
+非必要不要运行 full。只有在以下情况才全量同步与检查：
 
 - 批量修改 `title` 或 `aliases`。
 - 批量移动、删除、重命名 wiki 条目。
@@ -227,39 +283,9 @@ python3 scripts/vault_lint.py --full --strict
 
 ---
 
-## 5. Source Records and Source Files
+## 6. Source Records and Source Files
 
-### Source Record Principle
-
-Source record 不是完整文献数据库条目，而是来源入口页。普通论文 / 报告 source record 采用极简结构：
-
-```markdown
----
-citation: ""
-extracted_to: []
-processed_date: 2026-05-25
----
-
-# Simpson_2019_ERE
-
-![[Simpson_2019_ERE.pdf]]
-```
-
-最终完成后应为：
-
-```markdown
----
-citation: "Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. Educational Research and Evaluation, 25(1-2), 99-109."
-extracted_to: []
-processed_date: 2026-05-25
----
-
-# Simpson_2019_ERE
-
-![[Simpson_2019_ERE.pdf]]
-```
-
-规则：
+Source record 不是完整文献数据库条目，而是来源入口页。
 
 - source record frontmatter 只保留 `citation`、`extracted_to`、`processed_date`；书籍任务可按专项 schema 额外保留必要的 `part_of`。
 - source record 正文只保留一级标题和 PDF / EPUB 嵌入；不要写摘要、关键词、研究问题、作者信息、期刊信息等。
@@ -282,31 +308,12 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 | 论文集章节 source | `book-chapter` | `books/<book-folder>/` |
 | 从 Argument 页回填 source record | `finalize` | `sources/` 或 `books/<book-folder>/` |
 
-普通论文初始入口：
+常用命令形态：
 
 ```bash
-cd /Users/shaoyangwu/Documents/MyNotes
-python3 scripts/source_record.py article \
-  --file raw/FILENAME.pdf \
-  --record-name temp_or_known_name
-```
-
-报告初始入口：
-
-```bash
-cd /Users/shaoyangwu/Documents/MyNotes
-python3 scripts/source_record.py report \
-  --file raw/FILENAME.pdf \
-  --record-name temp_or_known_name
-```
-
-Argument 页完成后的 finalize：
-
-```bash
-cd /Users/shaoyangwu/Documents/MyNotes
-python3 scripts/source_record.py finalize \
-  --argument "wiki/arguments/journal-articles/<journal-name>/Argument_<Author>_<Year>_<JournalAbbrev>.md" \
-  --rename
+python3 scripts/source_record.py article --file raw/FILENAME.pdf --record-name temp_or_known_name
+python3 scripts/source_record.py report --file raw/FILENAME.pdf --record-name temp_or_known_name
+python3 scripts/source_record.py finalize --argument "wiki/arguments/.../Argument_<Author>_<Year>_<JournalAbbrev>.md" --rename
 ```
 
 `finalize` 的职责：
@@ -326,72 +333,6 @@ python3 scripts/source_record.py finalize \
 - 若 source 有配套 figure，按 `schema/schema-figures.md` 整理。
 - 书籍来源记录按对应专项 schema 执行。
 - `sources/` 与 `books/` 下的 source record 不进入 `related_*` 自动维护逻辑，但 `extracted_to` 由 `wiki_relations.py` 反向同步。
-
----
-
-## 6. Source Processing Workflow
-
-### 普通论文／报告
-
-1. 读取 `vault-schema.md`。
-2. 若触发书籍任务，转入对应 book schema，不继续普通论文流程。
-3. 判断来源类型：期刊论文用 `article`，报告／政策文件／白皮书用 `report`。
-4. 使用 `source_record.py article` 或 `source_record.py report` 创建初始 source record，并将 PDF 固定到 `sources/`。
-5. 提取 `sources/<record-name>.pdf` 文本。
-6. 扫描文献，先判断需要建立或更新哪些知识对象：Concept / Theory / Fact / Person / Method / Argument；同时判断文献是否属于实证研究。若属于实证研究，必须识别至少一种核心研究方法，并准备写入对应 Method 条目的 `## 使用此方法的研究`。
-7. 为每个候选知识对象记录暂定英文标题、中文术语或别名、类型、目标二级文件夹、证据页码，以及为什么需要独立条目；不要先被 `wiki/index.json` 现有条目牵着走。
-8. 读取 `wiki/index.json`，用暂定标题、中文术语、英文变体和缩写检索是否已有条目；若缺失、过期或有歧义，再搜索对应二级文件夹确认。
-9. 将候选分为待更新条目与待新建条目，并标注类型、目标二级文件夹、证据页码和处理理由。
-10. 更新已有条目：读取文件 → 判断目标章节、子主题与插入位置 → 先按主题归组，再在主题内按时间或论证顺序整合 → 用 `str_replace` 精确替换相关段落。
-11. 新建条目：只读取对应模板 → 按模板逻辑组织内容，先主题后时间；同一主题内有历史发展、政策节点或研究序列时再按时间排列。
-12. 对实证研究，更新或新建至少一个 Method 条目，在 `## 使用此方法的研究` 中加入一条方法案例，并链接到当前 Argument 页。
-13. 创建或更新 Argument 页。Argument 页必须在 frontmatter 写入 `citation`，并在 `## 来源` 章节列出 source wikilink。
-14. 更新所有受影响条目的正文 `## 来源` 章节，只放 source wikilink，并按来源年份从早到晚排序；同一年按作者或机构字母顺序排列。
-15. 运行 `source_record.py finalize --argument <Argument路径> --rename`，根据 Argument 页回填 source record 的 citation，并在需要时重命名 source record 与 PDF。
-16. 自动运行 `python3 scripts/wiki_index.py` 重建索引。
-17. 询问用户是否继续运行标准脚本流程。
-
-### Argument 页与 Source Record 的分工
-
-Argument 页负责保存文献的结构化知识信息：
-
-- `title`
-- `summary`
-- `type`
-- `subtype`
-- `publication_type`
-- `journal` 或 `publisher`
-- `citation`
-- `tags`
-- `related_*`
-- `sources`
-- `status`
-- `created`
-- `updated`
-- 研究问题、理论框架、研究方法、核心论证、主要发现、关键引用、自述局限
-
-Source record 只负责保存来源入口：
-
-- `citation`
-- `extracted_to`
-- `processed_date`
-- PDF / EPUB 嵌入
-
-因此，不要把 Argument 页的结构化字段复制到 source record。
-
-### 书籍任务
-
-只读取匹配的一种专项 schema：
-
-| 触发条件 | 读取文件 |
-|---|---|
-| `(Ed.)` / 编著 / 论文集 | `schema/schema-edited-volume.md` |
-| 专著 PDF / 用户标注「专著」 | `schema/schema-monograph-pdf.md` |
-| `.epub` | `schema/schema-monograph-epub.md` |
-
-书籍任务每次只处理一章或用户当前指定的章节内容。处理完当前章节后停止。
-
-若书籍任务同时涉及 figure / 图片 / 图表，再额外读取 `schema/schema-figures.md`。
 
 ---
 

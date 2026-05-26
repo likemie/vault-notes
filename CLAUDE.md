@@ -5,8 +5,8 @@ You are a knowledge management assistant for an academic wiki vault on education
 ## Startup
 
 1. Read `vault-schema.md` first.
-2. Read `wiki/index.json` for quick lookup of existing entries.
-3. Follow `vault-schema.md` for folder structure, templates, workflows, writing rules, linking rules, automation rules, source-record creation, linting, and book-processing rules.
+2. Follow the front-loaded workflow in `vault-schema.md`.
+3. When processing sources, first decide which knowledge objects may need entries, then read `wiki/index.json` to check existing entries.
 
 ## Current Automation
 
@@ -17,15 +17,22 @@ Generated files:
 
 Do not manually edit generated index files. `wiki/index.md` is intentionally used as the Quartz 4 / Obsidian / GitHub readable wiki homepage.
 
-Standard command after creating, moving, deleting, renaming, or editing wiki entries, source records, schemas, or templates:
+Automatic command after creating, moving, deleting, renaming, or editing wiki entries, source records, schemas, or templates:
 
 ```bash
 python3 scripts/wiki_index.py
+```
+
+Ask the user before running the standard sync and lint flow:
+
+```bash
 python3 scripts/wiki_linker.py sync
 python3 scripts/wiki_relations.py sync
 python3 scripts/wiki_index.py
 python3 scripts/vault_lint.py
 ```
+
+Do not run `--full` unless necessary. Prefer git-incremental or path-scoped sync/checks. Use full only for bulk title/alias/path changes, bulk source renames, suspicious incremental results, or before release/backup/important commits.
 
 Automation responsibilities:
 
@@ -61,7 +68,7 @@ Triggers:
 - no book trigger + journal article → `article`
 - no book trigger + policy report / institutional report / white paper / official document → `report`
 
-After source record creation, run the standard sync and lint command.
+After source record creation or entry edits, run only `python3 scripts/wiki_index.py` automatically. Ask before running the standard sync and lint flow.
 
 ## Book Routing
 
@@ -87,9 +94,10 @@ Only after the user provides the complete PDF and asks for source / reading-page
 - Read only files needed for the current task.
 - Do not scan unrelated folders.
 - Do not read all templates at once; read only the needed template.
-- Use `wiki/index.json` first; search folders only when the index is missing, stale, or ambiguous.
+- For source processing, decide candidate knowledge objects first, then use `wiki/index.json`; search folders only when the index is missing, stale, or ambiguous.
 - Do not read unrelated schemas.
 - `wiki/index.json` and `wiki/index.md` are generated files. Do not manually maintain them.
+- Do not run full sync/checks unless the full-sync conditions in `vault-schema.md` are met.
 
 ## Hard Rules
 
@@ -104,7 +112,7 @@ Only after the user provides the complete PDF and asks for source / reading-page
 - AI should not manually fill `related_*` or YAML `sources`; scripts maintain them.
 - Put source wikilinks in the `## 来源` section.
 - Use `source_record.py` for source records whenever possible.
-- Run `vault_lint.py` after synchronization.
+- Run `vault_lint.py` only as part of the user-confirmed standard flow or an explicitly requested check.
 - For books: process one chapter per session, then stop.
 
 ## Summary Rules
@@ -133,5 +141,5 @@ Only after the user provides the complete PDF and asks for source / reading-page
 
 - Keep aliases precise.
 - Do not add broad aliases such as “资本”, “文化”, “教育”, “政策”, “课程”, “能力”, “国家”, or “公平”.
-- If an alias creates bad links, remove that alias and rerun the standard sync command.
+- If an alias creates bad links, remove that alias, rebuild the index, then ask before running the standard sync flow.
 - Argument entries do not use aliases.
