@@ -52,12 +52,14 @@ UIDP 的起源可追溯到 1980 年代国家科学院成立的 Government-Univer
 ## 关键成果
 
 > [!success]
-- **Contract Accords**：针对产学协议中最有争议的合同条款提供实践指导。从最初的 5 个条款扩展到近 20 个项目，成为推动研究伙伴关系前进的"开创性工作"，奠定了 UIDP 在[[University-Industry Collaboration|产学合作]]领域的权威地位（p.16）
-- **Partnership Continuum & Avenues for Engagement**：展示产学合作的多种模式，提高对各合作方式的认识（p.18）
-- **Collaboration Metrics**：提供超过 100 个指标的菜单，供企业和大学评估产学伙伴关系时选用，帮助选择可衡量的、目的驱动的指标来评估合作价值（p.18）
-- **Co-Investment by Companies and NSF**：在 NSF 与企业共同资助大学研究方面开展多个项目，包括 Joint Solicitations Quick Guide 和 Joint Solicitations Comparison Tables。UIDP 还在开发最新的 NSF 联合征集 MFS-SPEED（Molecular Foundations for Sustainability）中发挥了关键作用（p.18）
+截至本书出版（2025 年），UIDP 拥有超过 60 个"操作指南"出版物。以下为代表项目（pp.18–19）：
+
+- **Contract Accords**：针对产学协议中最有争议的合同条款提供实践指导。从最初的 5 个条款扩展到近 20 个项目，每个项目提供概述、学术和企业各自视角以及解决差异的策略。成为推动研究伙伴关系前进的"开创性工作"，奠定了 UIDP 在[[University-Industry Collaboration|产学合作]]领域的权威地位（p.16）
+- **Partnership Continuum & Avenues for Engagement**：识别伙伴关系模式并详细说明不同的合作模型，展示产学合作的多种模式，提高对各合作方式的认识（p.18）
+- **Collaboration Metrics**：提供超过 100 个指标的菜单，供企业和大学评估产学伙伴关系时选用。对许多企业和大学而言，"识别能够有效传达产学合作价值（如投资回报）和质量的引人注目的指标一直极为困难"（p.18）。该资源帮助选择可衡量的、目的驱动的指标，并决定增长哪些合作关系（pp.18–19）
+- **Co-Investment by Companies and NSF**：聚焦政府和企业在基础性、应用启发式研究中的共同投资。产出包括 Joint Solicitations Quick Guide（聚焦大学研究中的共同投资）和 Joint Solicitations Comparison Tables（详细比较现有联合征集的所有特征）。UIDP 在开发最新 NSF 联合征集 MFS-SPEED（Molecular Foundations for Sustainability）中发挥了不可或缺的作用，获得 UIDP 会员 Procter & Gamble、PepsiCo、BASF、Dow 和 IBM 的支持（p.18）
 - **Insights for Researchers**：汇编了来自 15 个以上 UIDP 出版物的研究者导向指南，帮助研究人员理解其大学和企业同行在合作者识别、预算和知识产权等问题上的视角（p.18）
-- **Academic Research Engagement Teams (ARET)**：提供企业在战略性对接大学时可采用的不同报告结构的概览（p.18）
+- **Academic Research Engagement Teams (ARET)**：提供企业在战略性对接大学时可采用的不同报告结构的概览。项目指南深入探讨了 ARET 的组建——包括 ARET 在企业中可能的位置、人员配置和资金来源，以及 ARET 可能参与的不同类型的大学项目（pp.18–19）
 
 ## 现状
 

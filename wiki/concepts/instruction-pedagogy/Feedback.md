@@ -1,7 +1,8 @@
 ---
 title: Feedback
-aliases: []
-summary: "围绕表现、理解与下一步行动提供的信息回路，既可帮助学生修正学习，也可让教师判断自己的教学是否真正产生了影响。"
+aliases:
+  - 教学反馈
+summary: 围绕表现、理解与下一步行动提供的信息回路，既可帮助学生修正学习，也可让教师判断自己的教学是否真正产生了影响。
 type: concept
 tags:
   - feedback
