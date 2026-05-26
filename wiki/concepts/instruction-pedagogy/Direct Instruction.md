@@ -12,11 +12,11 @@ tags:
 related_concepts:
   - "[[Structured Teaching]]"
   - "[[Effective Teaching]]"
-  - "[[Feedback]]"
   - "[[Individualised Instruction]]"
   - "[[Problem-Based Learning]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Feedback]]"
   - "[[Side Effects in Education]]"
 related_theories: []
 related_methods: []
@@ -47,7 +47,7 @@ updated: "2026-05-22"
 
 > [!example] 概念辨析
 > - vs [[Structured Teaching]] — [[Structured Teaching]] 是更宽的课堂组织概念，重点是教师如何把目标、活动、时间和支持安排清楚。[[Direct Instruction]] 可以是它的一种实现方式，但结构化教学不等于整堂课都采用直接讲授（Håkansson, 2015, p.593）。
-> - vs [[Effective Teaching]] — [[Effective Teaching]] 处理的是“什么样的课堂条件更可能促进学习”，范围比直接教学更宽，包括目标清晰、学习气氛、[[Feedback|反馈]]和学生参与等。直接教学只是其中一种常见实现路径。
+> - vs [[Effective Teaching]] — [[Effective Teaching]] 处理的是“什么样的课堂条件更可能促进学习”，范围比直接教学更宽，包括目标清晰、学习气氛、反馈和学生参与等。直接教学只是其中一种常见实现路径。
 > - vs [[Individualised Instruction]] — 直接教学强调由教师先把关键知识结构搭起来；个别化教学则更关注如何根据学生差异调整任务、节奏和支持。两者不是天然对立，但解决的问题不同。
 > - vs [[Problem-Based Learning]] — 问题导向学习更强调学生在问题中组织知识和推理。直接教学则更适合在学生尚未建立基础概念时先把关键框架说明白；若要看两者在不同学习阶段如何互补，详见 [[Problem-Based Learning]]。
 

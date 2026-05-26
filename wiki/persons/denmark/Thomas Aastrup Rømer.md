@@ -12,7 +12,6 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Pure Evaluation]]"
-  - "[[Feedback]]"
   - "[[Bildung]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
@@ -51,7 +50,7 @@ updated: '2026-05-19'
 > - 2012 年：在 *Educational Philosophy and Theory* 发表以 [[John Dewey|Dewey]] 视角探讨想象力与判断力的论文
 > - 2014 年：与 Tanggaard 和 Brinkmann 合编 *Uren Pædagogik 2*，提出"纯粹教育"和"[[Pure Evaluation|纯粹评价]]"概念
 > - 2015 年：出版 *Pædagogikkens to verdener*，探讨教育学的哲学连接
-> - 2017 年：在丹麦批评文集 *[[John Hattie|Hattie]] på dansk*（[[Hattie på dansk]]）中撰文批评 VL 的[[Feedback|反馈]]概念
+> - 2017 年：在丹麦批评文集 *[[John Hattie|Hattie]] på dansk*（[[Hattie på dansk]]）中撰文批评 VL 的反馈概念
 > - 2018 年：在 *Educational Philosophy and Theory* 发表对 Hattie VL 的五线哲学批判（Argument_Rømer_2018_EPT）
 > - 现任奥胡斯大学（Department of Education, University of Aarhus）教育哲学副教授，研究兴趣为广义的教育理论
 
@@ -63,7 +62,7 @@ updated: '2026-05-19'
 > - Tanggaard, L., Rømer, T. A., & Brinkmann, S. (2014). *Uren Pædagogik 2* [Pure Education 2]. Aarhus: Klim. — 提出"纯粹教育"和"[[Pure Evaluation|纯粹评价]]"概念
 > - Rømer, T. A. (2014). The relationship between education and evidence. *Cursiv*, (14), 105–122. — 讨论教育与证据的关系
 > - Rømer, T. A. (2015). *Pædagogikkens to verdener* [The Two Worlds of Pedagogy]. Aalborg: Aalborg Universitetsforlag. — 探讨教育学的哲学连接
-> - Rømer, T. A. (2018). A critique of John Hattie's theory of [[Visible Learning]]. *Educational Philosophy and Theory*. — 对 VL 的五线哲学批判：[[Appraisal Theory|评价理论]]取代教育、因变量问题、[[Radical Constructivism|激进建构主义]]、[[Feedback|反馈]]集权化、误读 Popper
+> - Rømer, T. A. (2018). A critique of John Hattie's theory of [[Visible Learning]]. *Educational Philosophy and Theory*. — 对 VL 的五线哲学批判：[[Appraisal Theory|评价理论]]取代教育、因变量问题、[[Radical Constructivism|激进建构主义]]、反馈集权化、误读 Popper
 
 ## 核心思想
 
@@ -77,20 +76,20 @@ updated: '2026-05-19'
 > [!success] 主要贡献
 > - [[Pure Evaluation]] — 与 Tanggaard & Brinkmann (2014) 共同提出的概念，描述声称在自调节系统中独立于时空运作的评价实践
 > - Argument_Rømer_2018_EPT — 对 [[John Hattie|Hattie]] VL 理论基础的第一个系统性哲学批判
-> - [[Visible Learning]] — 为 VL 批评文献贡献了教育哲学维度（[[Appraisal Theory|评价理论]]取代教育理论、[[Radical Constructivism|激进建构主义]]根基、误读 Popper、[[Feedback|反馈]]集权化）
+> - [[Visible Learning]] — 为 VL 批评文献贡献了教育哲学维度（[[Appraisal Theory|评价理论]]取代教育理论、[[Radical Constructivism|激进建构主义]]根基、误读 Popper、反馈集权化）
 > - [[Surface and Deep Learning]] — Hattie 将表层/深层/建构性学习映射到 Popper 三个世界，Rømer (2018) 论证此映射构成对 Popper 的系统误读
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
 > - 立基于 [[John Dewey|Dewey]] 的[[Pragmatism in China|实用主义]]教育哲学，尤其是 Dewey 对想象力和判断力的分析（Rømer, 2012）
-> - 在丹麦批评文集 *[[John Hattie|Hattie]] på dansk*（[[Hattie på dansk]]）中撰文批评 VL 的[[Feedback|反馈]]概念——Qvortrup (2019, p.4) 反驳称 Rømer 声称反馈具有"集权化效应"的论断"without any kind of factual support"
+> - 在丹麦批评文集 *[[John Hattie|Hattie]] på dansk*（[[Hattie på dansk]]）中撰文批评 VL 的反馈概念——Qvortrup (2019, p.4) 反驳称 Rømer 声称反馈具有"集权化效应"的论断"without any kind of factual support"
 > - 其五线批评（Argument_Rømer_2018_EPT）被纳入 VL 国际批评文献谱系，补充了此前以方法论（Wecker, Bergeron, Simpson）和文化政治（McKnight & Whitburn）为主的批评维度
 > - 与丹麦教育研究界内部的 VL 接受者（[[Lars Qvortrup]]、Laursen、Egelund）形成争论，Qvortrup (2019) 以解释社群分析将丹麦批评者整体定性为短期内形成广泛误解的社群
 
 ## 争议与批评
 
-> [!warning] Qvortrup 对 Rømer [[Feedback|反馈]]集权化论断的事实性质疑
+> [!warning] Qvortrup 对 Rømer 反馈集权化论断的事实性质疑
 > Qvortrup (2019) 在以 VL 支持者立场回应丹麦批评时，专门针对 Rømer 在 [[Hattie på dansk]] 中的反馈批评提出反驳：
 >
 > - **Qvortrup 的立场**：Rømer 声称 VL 的反馈概念具有"集权化效应"——即反馈机制从学生到教师到校长到市政府到国家层面逐级收集信息并以此控制下层——这一论断"without any kind of factual support"（Qvortrup, 2019, p.4）。Qvortrup 认为这是丹麦 [[John Hattie|Hattie]] 批评者"解释社群"对 VL 产生广泛误解的典型案例。

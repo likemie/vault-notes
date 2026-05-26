@@ -91,9 +91,9 @@ updated: '2026-05-18'
 >
 > 2. **缺失因果理论**：与医学不同——医学在启动 III 期 RCT 前已有多年的理论建设——教育统计研究往往缺乏理论（Pawson 2006: 47）。元分析应追求的解释性问题（"干预如何运作？"）被效果性问题（"效果多大？"）取代。
 >
-> **Toolkit 的"[[Feedback|反馈]]"类别案例**：大量差异极大的研究（有些正向、有些负向）被聚合为最高效应量的"反馈"标签——没有解释为什么效应量差异如此巨大。
+> **Toolkit 的"反馈"类别案例**：大量差异极大的研究（有些正向、有些负向）被聚合为最高效应量的"反馈"标签——没有解释为什么效应量差异如此巨大。
 >
-> > "An aggregate mean of effect sizes calculated ... the conclusion drawn that 'feedback' is the most effective way to improve attainment. Since feedback is inevitably present in some way in any pedagogical interaction, it would be more illuminating to examine reasons for the differences." (p. 10)
+> > "An aggregate mean of effect sizes calculated ... the conclusion drawn that '[[Feedback]]' is the most effective way to improve attainment. Since feedback is inevitably present in some way in any pedagogical interaction, it would be more illuminating to examine reasons for the differences." (p. 10)
 >
 > ### Level 3: [[Meta-meta-analysis|元-元分析]]的失真（[[John Hattie|Hattie]] & EEF Toolkit）
 >

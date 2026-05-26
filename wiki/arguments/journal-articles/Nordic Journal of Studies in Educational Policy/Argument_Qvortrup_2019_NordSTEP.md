@@ -17,7 +17,6 @@ related_concepts:
   - "[[Interpretation Community]]"
   - "[[Professional Judgment]]"
   - "[[Structural Coupling]]"
-  - "[[Feedback]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Effect Size]]"
 related_theories:
@@ -67,7 +66,7 @@ updated: '2026-05-18'
 > 2. **论证步骤**：
 >    - **步骤一**：批评者的误读并非偶然——某些批评使用 Alexander 识别的"二分法话语"（统计 vs 独特性）和"嘲弄话语"（歪曲、嘲笑、人身攻击），将自己置于 Popper 所定义的"科学游戏"之外（Qvortrup, 2019, p.3-4）
 >    - **步骤二**：定量与定性方法的对立源于将认识论与本体论混淆——"真理"是认识论问题而非本体论问题。不同的观察透镜（phenomenological vs statistical）产生不同的图像，只要都遵循高效度标准，它们相互补充而非相互排斥（Qvortrup, 2019, p.5）
->    - **步骤三**：教学与学习之间不存在简单的因果关系——两者是通过[[Structural Coupling|结构耦合]]链接的两个封闭系统的关系。教学干预必须经过学生闭合的、自我指涉的、复杂的和不可预测的反思循环。因此，教师必须运用[[Professional Judgment|专业判断]]——基于研究知识和方法知识、在理性赤字的条件下、通过[[Feedback|反馈]]持续修正（Qvortrup, 2019, p.6-7）
+>    - **步骤三**：教学与学习之间不存在简单的因果关系——两者是通过[[Structural Coupling|结构耦合]]链接的两个封闭系统的关系。教学干预必须经过学生闭合的、自我指涉的、复杂的和不可预测的反思循环。因此，教师必须运用[[Professional Judgment|专业判断]]——基于研究知识和方法知识、在理性赤字的条件下、通过反馈持续修正（Qvortrup, 2019, p.6-7）
 >
 > 3. **结论**：Visible Learning 的目的不是提供"什么有效食谱"，而是为教师提供"智能问题解决的假设"（Hattie, 2009, p.247）。专业判断是 VL 中教学干预与学习成果之间的"缺失环节"——它将研究证据（知道什么最可能有效）与具体情境（在特定情况下需要什么）连接起来（Qvortrup, 2019, p.6-7）
 
@@ -75,7 +74,7 @@ updated: '2026-05-18'
 
 > [!success] 主要发现
 > - 丹麦 [[John Hattie|Hattie]] 批评中存在将学术争论[[Transfer Translation Transformation|转化]]为"文化战争"的倾向——对手先被解除武装（如通过嘲笑），然后被诉诸最低大众偏见公约数的打击致死（Qvortrup, 2019, p.5）
-> - 对 VL 的辩护框架：VL 是支持而非取代教师[[Professional Judgment|专业判断]]的工具——[[Effect Size|效应量]]提供概率信息，[[Feedback|反馈]]作为修正机制（Qvortrup, 2019, p.6-7）
+> - 对 VL 的辩护框架：VL 是支持而非取代教师[[Professional Judgment|专业判断]]的工具——[[Effect Size|效应量]]提供概率信息，反馈作为修正机制（Qvortrup, 2019, p.6-7）
 
 ## 关键引用
 

@@ -17,7 +17,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[School Leadership]]"
-  - "[[Feedback]]"
   - "[[Further Education]]"
   - "[[Formative Assessment]]"
   - "[[Professional Judgment]]"
@@ -134,7 +133,7 @@ updated: '2026-05-21'
 >
 > Visible Learning 已在至少 23 个国家被采用（Knudsen, 2017），Hattie 本人也因此成为教育界的国际名人，被澳大利亚广播公司电视系列片 *Revolution School*（2017）描绘为公共教育的拯救者（McKnight & Whitburn, 2020, p.32）。Hattie 同时担任澳大利亚教学与[[School Leadership|学校领导力]]研究院（AITSL）主席，其工作已深度嵌入澳大利亚教师和校长的国家专业标准、年度绩效评估和持续认证体系（Eacott, 2017, p.421）。
 >
-> Hattie 的职业生涯横跨多个领域：多年从事教学和教师的实证研究、诊断、评估和[[Feedback|反馈]]（Terhart, 2011, p.426）。他与 Timperley（2007）合作发表了关于反馈效应的高影响力元分析。Visible Learning 实验室（奥克兰大学）提供付费的教师[[Further Education|继续教育]]和培训项目，包括对学生的持续测试和结果反馈（Terhart, 2011, p.426）。他是新西兰政府的重要顾问，但"作为科学家和政治顾问，他在新西兰相当有争议"（Terhart, 2011, p.426）。
+> Hattie 的职业生涯横跨多个领域：多年从事教学和教师的实证研究、诊断、评估和反馈（Terhart, 2011, p.426）。他与 Timperley（2007）合作发表了关于反馈效应的高影响力元分析。Visible Learning 实验室（奥克兰大学）提供付费的教师[[Further Education|继续教育]]和培训项目，包括对学生的持续测试和结果反馈（Terhart, 2011, p.426）。他是新西兰政府的重要顾问，但"作为科学家和政治顾问，他在新西兰相当有争议"（Terhart, 2011, p.426）。
 >
 
 ## 生平与职涯
@@ -156,7 +155,7 @@ updated: '2026-05-21'
 > - **2011 年** 转至墨尔本大学教育研究生院任教授兼研究所主任（O'Neill et al., 2016, p.49）
 > - **2013 年** 成为 AUUSD 16M 科学学习研究中心（Science of Learning Research Centre）"促进学习"研究主题负责人和副主任（O'Neill et al., 2016, p.49）
 > - **2014 年 7 月** 被任命为 AITSL 董事会主席（O'Neill et al., 2016, p.50）
-> - **2015 年** 与妻子 Janet Clinton 副教授和 Access Innovation Media 合作开发 Visible Classroom App——教师自我录制音频并接受大学"专家"基于 VL 研究量规的[[Feedback|反馈]]，按服务收费（O'Neill et al., 2016, p.49）。原始试点（8 所学校）由英国 EEF 资助 £360,000；随后 EEF 委托 The Behavioural Insights Team 在 140 所学校进行更大规模"效能试验"（O'Neill et al., 2016, pp.49–50）
+> - **2015 年** 与妻子 Janet Clinton 副教授和 Access Innovation Media 合作开发 Visible Classroom App——教师自我录制音频并接受大学"专家"基于 VL 研究量规的反馈，按服务收费（O'Neill et al., 2016, p.49）。原始试点（8 所学校）由英国 EEF 资助 £360,000；随后 EEF 委托 The Behavioural Insights Team 在 140 所学校进行更大规模"效能试验"（O'Neill et al., 2016, pp.49–50）
 > - **2015 年 1 月** Visible Classroom 工具进入美国市场（O'Neill et al., 2016, p.50）
 > - **2015 年 5 月** 墨尔本大学与 Ai-Media 签署五年全球协议进一步开发 Visible Classroom 产品（O'Neill et al., 2016, p.50）
 > - **2015 年 6 月** Pearson 在其 Open Ideas 网站发布 Hattie 的两篇"思想领导力"文章，致谢名单包括 Michael Barber、Janet Clinton、Kristen DiCerbo（Pearson 研究科学家）、Debra Masters（Cognition Education 首席顾问兼 VLplus 主任）等（O'Neill et al., 2016, pp.50–51）。文章的致谢名单揭示了 Hattie 横跨学术界（Janet Clinton, Melbourne）、全球教育商业（Michael Barber, Pearson; Kristen DiCerbo, Pearson）和 VL 商业运营（Debra Masters, Cognition Education）的政策网络连接（O'Neill et al., 2016, p.51）
@@ -183,7 +182,7 @@ updated: '2026-05-21'
 > [!info] 核心思想
 > - **可见的教与学**："当教师成为自身教学的学习者、学生成为自身教师时，对学生学习产生最大效应"（Hattie, 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）
 > - **[[Effect Size|效应量]]铰链点 d=0.40**：以 d=0.40 作为比较教育影响的经验参考点，而非脱离情境的硬性戒律；Hattie 后来强调低于 0.40 的效果仍需结合学段、结果类型和同类研究解释（Hattie, 2015, pp.11, 17）。详见 [[Effect Size#Hattie 的铰链点 d=0.40 与影响气压计（2009–2015）]]
-> - **"教师作为激活者 vs 促进者"的核心区分**：Hattie 基于其分析结果将教师角色分为两类——激活者（activator，d=0.60 平均）和促进者（facilitator，d=0.17 平均）（Hattie, 2009, p.243；Terhart, 2011, p.433, Table 3）。激活者策略包括交互教学（d=0.74）、[[Feedback|反馈]]（d=0.72）、元认知策略（d=0.67）、[[Direct Instruction|直接教学]]（d=0.59）、精熟学习（d=0.57）；促进者策略包括模拟与游戏（d=0.32）、探究式教学（d=0.31）、小班教学（d=0.21）、问题式学习（d=0.15）、[[Whole Language|全语言]]（d=0.06）。Hattie 由此得出结论："建构主义是一种知识形式，但不是一种教学形式"（Hattie, 2009, p.243，引自 Terhart, 2011, p.433）
+> - **"教师作为激活者 vs 促进者"的核心区分**：Hattie 基于其分析结果将教师角色分为两类——激活者（activator，d=0.60 平均）和促进者（facilitator，d=0.17 平均）（Hattie, 2009, p.243；Terhart, 2011, p.433, Table 3）。激活者策略包括交互教学（d=0.74）、反馈（d=0.72）、元认知策略（d=0.67）、[[Direct Instruction|直接教学]]（d=0.59）、精熟学习（d=0.57）；促进者策略包括模拟与游戏（d=0.32）、探究式教学（d=0.31）、小班教学（d=0.21）、问题式学习（d=0.15）、[[Whole Language|全语言]]（d=0.06）。Hattie 由此得出结论："建构主义是一种知识形式，但不是一种教学形式"（Hattie, 2009, p.243，引自 Terhart, 2011, p.433）
 > - 主张学习必须是"被学习者分享、承诺和理解的"（Hattie, 2009, p.23），以[[Progressive Education|进步教育]]哲学的语言包装实证主义议程（McKnight & Whitburn, 2020, p.34）
 > - **"Know thy impact"**：教师须以可见证据评估自身教学对学生成绩的影响——这成为 [[Visible Learning]] 的标志性口号（Hattie, Masters, & Birch, 2016, p.3）
 > - **评价者型教师**：Hattie (2015) 将“Know thy impact”解释为教师和学校的评价姿态：教师不是简单收集数据，而是解释证据、判断干预的价值和重要性，并与同事共同比较影响的大小、深度和覆盖范围（Hattie, 2015, pp.11-14）。这一点把他的思想从单纯的[[Effect Size|效应量]]排名推进到学校层面的 [[Professional Judgment]]，但具体统计争议仍应放在 [[Effect Size]] 和 [[Meta-meta-analysis]] 中处理。
@@ -201,7 +200,7 @@ updated: '2026-05-21'
 > - [[Visible Learning]] — 2009 年提出、基于 800+ [[Meta-analysis|元分析]]的教学干预[[Effect Size|效应量]]综合排名，后有系列扩展（*Visible Learning for Literacy*, *Visible Learning into Action* 等）
 > - 将效应量方法推广为教师和学校层面的操作性工具，推动了全球"什么有效"运动的课堂落地
 > - [[Meta-analysis]] — 将[[Meta-meta-analysis|元-元分析]]（meta-meta-analysis）技术大规模应用于教育研究证据综合
-> - **专家教师（Expert Teacher）的 16 项原型属性**：Hattie 识别了区分专家教师与经验教师和新手教师的关键特征（Sarbiewska, 2019, p.126）：专家教师对其工作采取问题解决立场（problem-solving stance）；[[Refined Mastery|精通]]创造最优课堂学习氛围；对课堂情境有多维度复杂感知；更善于监控学生问题和评估其理解与进步水平；提供更相关、有用的[[Feedback|反馈]]；对学生有高度尊重；对教学充满热情；让学生参与学习并帮助发展其自我调节、学习技能、[[Self-Efficacy|自我效能]]和自尊（Hattie, 2003, cited in Sarbiewska, 2019, p.126）
+> - **专家教师（Expert Teacher）的 16 项原型属性**：Hattie 识别了区分专家教师与经验教师和新手教师的关键特征（Sarbiewska, 2019, p.126）：专家教师对其工作采取问题解决立场（problem-solving stance）；[[Refined Mastery|精通]]创造最优课堂学习氛围；对课堂情境有多维度复杂感知；更善于监控学生问题和评估其理解与进步水平；提供更相关、有用的反馈；对学生有高度尊重；对教学充满热情；让学生参与学习并帮助发展其自我调节、学习技能、[[Self-Efficacy|自我效能]]和自尊（Hattie, 2003, cited in Sarbiewska, 2019, p.126）
 >
 
 ## 思想发展与影响
@@ -299,7 +298,7 @@ updated: '2026-05-21'
 
 
 > [!warning] 教育哲学批评
-> - **Rømer (2018)** — 五线哲学批判：[[Appraisal Theory|评价理论]]取代教育、因变量概念不清、[[Radical Constructivism|激进建构主义]]消解教学、[[Feedback|反馈]]集权化、误读 Popper 三个世界理论。与 Nielsen & Klitmøller (2021) 形成互补——前者追问理论前提是否正确，后者追问为什么错了还如此成功（详见 Argument_Rømer_2018_EPT、[[Visible Learning#Rømer (2018)]])
+> - **Rømer (2018)** — 五线哲学批判：[[Appraisal Theory|评价理论]]取代教育、因变量概念不清、[[Radical Constructivism|激进建构主义]]消解教学、反馈集权化、误读 Popper 三个世界理论。与 Nielsen & Klitmøller (2021) 形成互补——前者追问理论前提是否正确，后者追问为什么错了还如此成功（详见 Argument_Rømer_2018_EPT、[[Visible Learning#Rømer (2018)]])
 > - **Larsen (2019)** — 从[[Phenomenology|现象学]]、神经科学、自由哲学和概念史四个领域整合为统一的"盲视"（blindness）批判框架：学习对学习主体并非即时可见；大脑-身体-社会复杂性不可还原为简单测量；教师可见学习不等于学生有意识/无意识学习；学习不是价值中立的概念，应以 [[Bildung]] 替代。Larsen 追问的核心问题是"VL 在原则上能看到什么、不能看到什么？"（详见 [[Visible Learning#观看中的盲视与 Bildung 替代（Larsen, 2019）]]）
 > - **Zhao (2017)** — 以副作用框架审视 Hattie 将[[Direct Instruction|直接教学]]评为 d=0.59 的效应量证据：虽然 DI 在成绩测试上有效，但同时存在抑制创造力、限制自发探索、产生"非生产性成功"等副作用（详见 [[Argument_Zhao_2017_JEC]]）
 > - **Nielsen & Klitmøller (2021, IRTP)** — 以 Habermas 合法化危机理论解释 VL 全球流行：VL 的吸引力在于其[[Technical Rationality|技术理性]]内核满足了教育系统的合法化需求，而非其科学质量（详见 [[Visible Learning#合法化危机与技术理性（Nielsen & Klitmøller, 2021）]]）

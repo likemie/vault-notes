@@ -16,7 +16,6 @@ related_concepts:
   - "[[Nerd]]"
   - "[[Entity vs Incremental Intelligence]]"
   - "[[Tracking]]"
-  - "[[Feedback]]"
   - "[[Zero-Sum Competition]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Codeswitcher]]"
@@ -73,7 +72,7 @@ updated: 2026-05-24
 > [!quote] Oakes 和 Guiton 的结论（转引自 Li, 2012, pp.98–99）
 > "We found little evidence that educators at any of the schools thought that high schools courses could (or should even try to) increase students' intellectual capacities or raise their expectations."
 
-**"B 等写作者"自证预言**。Li 引述了一个美国高中生的自我实验（Li, 2012, pp.97–98）：该生发现无论他多么努力（完善大纲、草稿、按[[Feedback|反馈]]修改）或多么不努力（迟交几小时→几天→几周），他的英语作文始终得 B。他得出结论：一旦教师在心里将学生标记为某个等级，**做多少好事都升不上去，做多少坏事也降不下来**。结果是他从此不再喜欢写作——尽管他本来写得不错。
+**"B 等写作者"自证预言**。Li 引述了一个美国高中生的自我实验（Li, 2012, pp.97–98）：该生发现无论他多么努力（完善大纲、草稿、按反馈修改）或多么不努力（迟交几小时→几天→几周），他的英语作文始终得 B。他得出结论：一旦教师在心里将学生标记为某个等级，**做多少好事都升不上去，做多少坏事也降不下来**。结果是他从此不再喜欢写作——尽管他本来写得不错。
 
 ---
 

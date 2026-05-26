@@ -15,7 +15,6 @@ tags:
 - subject/psychology
 related_concepts:
   - "[[Student-Teacher Relationship]]"
-  - "[[Feedback]]"
   - "[[Learning-Impeding Behavior]]"
   - "[[School Norm Adaptation]]"
   - "[[Gender Differences in Academic Achievement]]"
@@ -23,10 +22,10 @@ related_concepts:
   - "[[Self-control]]"
   - "[[Assertiveness]]"
   - "[[Classroom Learning Culture]]"
+  - "[[Feedback]]"
   - "[[Academic Well-being and Interest in Learning]]"
   - "[[Effect Size]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"
 related_persons: []
@@ -60,7 +59,7 @@ updated: '2026-05-18'
 >
 > ### 变量操作化细节
 >
-> - 学生自评变量：[[Student-Teacher Relationship|师生关系]]、班级学习文化、课堂[[Feedback|反馈]]、[[Learning-Impeding Behavior|学习阻碍行为]]、学习兴趣与学业愉悦（Lekhal et al., 2015, p.80）。
+> - 学生自评变量：[[Student-Teacher Relationship|师生关系]]、班级学习文化、课堂反馈、[[Learning-Impeding Behavior|学习阻碍行为]]、学习兴趣与学业愉悦（Lekhal et al., 2015, p.80）。
 > - 教师评定变量（完整）：学业成绩（挪威语/数学/英语，3 项）、自控（9 项）、自我主张（8 项）、[[School Norm Adaptation|学校规范适应]]（9 项）、动机与努力投入（3 项）（Lekhal et al., 2015, pp.80-82）。
 > - 信度：关键量表 alpha 多数较高（如学校规范适应与动机/努力均为 .95），支持后续回归建模（Lekhal et al., 2015, p.80）。
 >

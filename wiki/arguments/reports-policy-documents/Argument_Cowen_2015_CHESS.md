@@ -17,7 +17,6 @@ tags:
 - level/k12
 related_concepts:
   - "[[Professional Judgment]]"
-  - "[[Feedback]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
   - "[[Tullock's Bureaucracy Theory]]"
@@ -102,7 +101,7 @@ updated: '2026-05-18'
 > - EEF 等证据托管机构应提供专门支持本地实施的资源，设立实施团队，鼓励学校之间分享实施经验（p.13, p.45）
 > - 教师培训（PGCE）应纳入研究方法、统计解读和因果机制理解的训练（p.44-45）
 > - 为实施分配专项资金，仅提供信息而无实施指导的资源不能被视为物有所值（p.45）
-> - 证据托管网站应增加互动和[[Feedback|反馈]]功能，鼓励教师发布实践反馈（p.45）
+> - 证据托管网站应增加互动和反馈功能，鼓励教师发布实践反馈（p.45）
 
 ## 局限性与批评
 

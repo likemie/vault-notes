@@ -7,13 +7,27 @@ tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"
   - "theme/innovation"
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[University-Industry Collaboration]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Multi-University]]"
+  - "[[Academic Freedom]]"
+  - "[[Further Education]]"
+  - "[[Technology Transfer]]"
+  - "[[Transfer Translation Transformation]]"
+related_theories:
+  - "[[Triple Helix]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[George Berkeley]]"
+related_facts:
+  - "[[University Industry Demonstration Partnership]]"
+  - "[[Morrill Land-Grant Act of 1862]]"
+  - "[[Smith Lever Act of 1914]]"
+  - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-26
@@ -199,13 +213,13 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 **步骤 12：二战后政府投资的催化作用**
 
-曼哈顿计划（由 UC Berkeley 教授 J. Robert Oppenheimer 领导）和 MIT 辐射实验室的雷达技术研究是二战后政府研发投资的直接先例。Vannevar Bush 的报告 Science, The Endless Frontier（1945）强调了对基础开放式研究的战略投资的重要性。其后果包括：国家科学基金会（NSF）的创建，以及国防部对大学基础研究项目的支持。这三种力量——政府资助、大学研究和企业创新——构成了 [[Triple Helix]] 的反馈循环（p.13）。
+曼哈顿计划（由 UC [[George Berkeley|Berkeley]] 教授 J. Robert Oppenheimer 领导）和 MIT 辐射实验室的雷达技术研究是二战后政府研发投资的直接先例。Vannevar Bush 的报告 Science, The Endless Frontier（1945）强调了对基础开放式研究的战略投资的重要性。其后果包括：国家科学基金会（NSF）的创建，以及国防部对大学基础研究项目的支持。这三种力量——政府资助、大学研究和企业创新——构成了 [[Triple Helix]] 的反馈循环（p.13）。
 
 ---
 
 **步骤 13：[[Technology Transfer|技术转移]]的制度安排**
 
-[[Technology Transfer|技术转移]]是产学合作的另一关键维度。[[Bayh-Dole Act of 1980|Bayh-Dole Act]]（1980）——在美国政府资助下于大学产生的知识产权归大学所有——为技术转移奠定了法律基础。这产生了一个重要的制度结构：企业的合同与拨款办公室协商赞助研究所产生的知识产权权利，技术转移办公室（Technology Transfer Office）协商知识产权许可。两者通常隶属于大学的科研副校长（p.14）。
+[[Technology Transfer|技术转移]]是产学合作的另一关键维度。[[Bayh-Dole Act of 1980|Bayh-Dole Act]]（1980）——在美国政府资助下于大学产生的知识产权归大学所有——为技术[[Transfer Translation Transformation|转移]]奠定了法律基础。这产生了一个重要的制度结构：企业的合同与拨款办公室协商赞助研究所产生的知识产权权利，技术转移办公室（Technology Transfer Office）协商知识产权许可。两者通常隶属于大学的科研副校长（p.14）。
 
 一个尖锐的挑战是：商业化应该走初创企业路线（发明人可能成为创始人）还是成熟企业路线（发明人无所有权股份）？大多数初创企业会失败，但大学可能希望支持教师的创业精神；成熟企业可以持续投资技术开发，但可能不给予发明人同样的激励和经济回报（p.14）。
 

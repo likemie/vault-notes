@@ -10,7 +10,6 @@ tags:
 - evidence-based-education
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Informed Practice]]"
@@ -54,7 +53,7 @@ updated: '2026-05-23'
 
 
 > [!abstract] [[Bounded Rationality|有限理性]]与专业判断
-> Qvortrup 将专业判断建立在 Simon 的[[Bounded Rationality|有限理性]]理论之上：教学的基本挑战是任务的复杂性（影响和刺激个体学生及学生共同体）大于教师的实践能力。对此挑战的回答是必须增加教师的行动能力，同时知道教师始终在理性赤字的条件下工作。基本工具是使用[[Feedback|反馈]]作为持续的修正机制（Qvortrup, 2019, p.6）。
+> Qvortrup 将专业判断建立在 Simon 的[[Bounded Rationality|有限理性]]理论之上：教学的基本挑战是任务的复杂性（影响和刺激个体学生及学生共同体）大于教师的实践能力。对此挑战的回答是必须增加教师的行动能力，同时知道教师始终在理性赤字的条件下工作。基本工具是使用反馈作为持续的修正机制（Qvortrup, 2019, p.6）。
 >
 > > 例：教师面对课堂中一个学生不理解某个概念时，需要综合：关于"什么最可能有效"的研究知识、该学生的具体情况、课堂的整体节奏，以及对自身教学的即时评估——这不是简单地"应用"一个研究发现的干预，而是一个在有限信息下做出的综合判断。
 

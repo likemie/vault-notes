@@ -18,7 +18,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Validity as Inferences]]"
-  - "[[Feedback]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -59,7 +58,7 @@ updated: '2026-05-19'
 > [!success] 主要贡献
 > - [[Evidence-Based Education]] — 以 Goldman 区分理论和四个决策问题框架提供对 EBE 的系统反思，论证 EBE 整个项目"永远不会成功"
 > - [[Validity as Inferences]] — 继承并推广效度作为推论属性（而非测试属性）的教育研究方法论立场
-> - [[Formative Assessment|形成性评价]]（formative assessment）研究 — 在课堂评估和[[Feedback|反馈]]领域的广泛贡献（本文仅简要涉及）
+> - [[Formative Assessment|形成性评价]]（formative assessment）研究 — 在课堂评估和反馈领域的广泛贡献（本文仅简要涉及）
 
 ## 主要著作
 

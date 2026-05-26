@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Feedback]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
@@ -51,13 +50,13 @@ updated: '2026-05-18'
 > - 2012 年 ACARA 董事会批准澳大利亚课程
 > - 2014 年联邦政府识别出课程过度拥挤问题
 > - 2015 年 3 月教育部长会议讨论课程改进
-> - 2015 年 3 月 12–13 日一线小学教师与 ACARA 官员合作，为小学课程的缩减、重新设计和重新平衡提供[[Feedback|反馈]]（Sarbiewska, 2019, p.128）
+> - 2015 年 3 月 12–13 日一线小学教师与 ACARA 官员合作，为小学课程的缩减、重新设计和重新平衡提供反馈（Sarbiewska, 2019, p.128）
 > - ACARA 每年通过报告向政府和公众反馈课程有效性数据
 
 ## 实施情况
 
 > [!example] 实施情况
-> - ACARA 负责系统性地评估课程，收集[[Feedback|反馈]]并分析课程有效性数据，每年向政府和公众报告（Sarbiewska, 2019, p.127）
+> - ACARA 负责系统性地评估课程，收集反馈并分析课程有效性数据，每年向政府和公众报告（Sarbiewska, 2019, p.127）
 > - ACARA 董事会决定最新发现是否需要进一步评估和课程变更
 > - 澳大利亚学校实践"课程连接"（curriculum connection），被认为能有效促进师生协作，区别于主题式教学，有意识地维持各学习领域的严谨性同时通过连接赋权学习（Sarbiewska, 2019, p.128–129）
 

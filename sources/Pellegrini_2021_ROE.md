@@ -4,8 +4,6 @@ extracted_to:
   - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Class Size]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Reusability Paradox]]"
   - "[[Technology Infusion]]"
@@ -18,10 +16,12 @@ extracted_to:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Swedish Institute for Educational Research]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
   - "[[EPPI-Centre]]"
   - "[[Evidence-Based Teachers Network]]"
   - "[[Institute for Effective Education]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
 processed_date: 2026-05-23
 ---
 

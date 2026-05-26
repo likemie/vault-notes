@@ -16,7 +16,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
   - "[[Statistical Significance]]"
-  - "[[Feedback]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
@@ -83,7 +82,7 @@ updated: '2026-05-18'
 >
 > **教育中的表现**（Simpson, 2017, pp.6–7）：
 > - 同一元分析（Paschal, Weinstein, & Walberg, 1984）合并了比较家庭作业 vs 无家庭作业、丰富家庭作业 vs 普通家庭作业、全部批改的家庭作业 vs 随机批改一半的家庭作业的研究
-> - 同一元分析（Graham, Hebert, & Harris, 2015）合并了比较图形[[Feedback|反馈]] vs 长度反馈、同伴反馈 vs 教师拼写反馈、课程本位评估 vs 标准目标设定的研究
+> - 同一元分析（Graham, Hebert, & Harris, 2015）合并了比较图形反馈 vs 长度反馈、同伴反馈 vs 教师拼写反馈、课程本位评估 vs 标准目标设定的研究
 > - "照常教学"（business as usual）比较——未指定的比较组——在不同研究中的含义完全不同
 > - 某些元分析的实验条件在另一些元分析中是对照条件——"一个分析的实验组是另一个分析的控制组"（Simpson, 2017, p.7）
 > - 调节分析（moderator analysis）揭示：比较"无干预"的效应量是"替代处理"的 3 倍以上（Camilli et al., 2010），但元-元分析未对此进行调整

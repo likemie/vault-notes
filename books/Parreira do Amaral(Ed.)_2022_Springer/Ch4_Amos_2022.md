@@ -14,7 +14,6 @@ extracted_to:
   - "[[Vergegenkunft]]"
   - "[[New Public Management]]"
   - "[[Educational Technology Industry]]"
-  - "[[Learning Analytics]]"
   - "[[Global Education Industry]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Mondialisation]]"
@@ -29,6 +28,7 @@ extracted_to:
   - "[[Donna Haraway]]"
   - "[[Autopoiesis]]"
   - "[[Transition Design]]"
+  - "[[Learning Analytics]]"
 processed_date: 2026-05-08
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

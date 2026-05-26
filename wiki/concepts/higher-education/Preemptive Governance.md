@@ -21,7 +21,6 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
-  - "[[Feedback]]"
   - "[[Governmentality]]"
   - "[[Competitiveness in Higher Education]]"
   - "[[Stakeholder University]]"
@@ -71,7 +70,7 @@ updated: 2026-05-20
 
 ### 从排斥到自我选择
 
-先发制人治理的关键机制不是直接的筛选淘汰，而是自我选择（self-selection）。OSA 被明确宣称为"不是入学考试，不影响录取"——其治理效果恰恰依赖这种非强制性：学生在获得"有条件的匹配"或"不匹配"的[[Feedback|反馈]]后，自行决定调整选择或弥补不足（Thompson et al., 2022, pp.222–223）。这正是 [[Governmentality|治理术]] 的典型运作——通过塑造自我理解来引导行为，而非通过强制禁止。
+先发制人治理的关键机制不是直接的筛选淘汰，而是自我选择（self-selection）。OSA 被明确宣称为"不是入学考试，不影响录取"——其治理效果恰恰依赖这种非强制性：学生在获得"有条件的匹配"或"不匹配"的反馈后，自行决定调整选择或弥补不足（Thompson et al., 2022, pp.222–223）。这正是 [[Governmentality|治理术]] 的典型运作——通过塑造自我理解来引导行为，而非通过强制禁止。
 
 ### 数字差异驱动的优化
 

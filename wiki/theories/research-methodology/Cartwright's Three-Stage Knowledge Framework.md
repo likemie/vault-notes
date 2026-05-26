@@ -13,7 +13,6 @@ tags:
 - paradigm/scientific-realism
 related_concepts:
   - "[[Class Size]]"
-  - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Programme Fidelity vs Adaptation]]"
@@ -58,7 +57,7 @@ updated: '2026-05-18'
 > - 需要回答：是什么让 T 起作用？哪些支持因素必须到位？
 > - 这是从单一研究走向一般性知识的关键步骤
 >
-> > 例：缩小班级规模之所以有效，是因为教师有更多时间给每个学生提供个性化[[Feedback|反馈]]。这个因果机制解释了为什么效果在不同情境中可能持续——如果反馈机制能复制，效果就可能复制
+> > 例：缩小班级规模之所以有效，是因为教师有更多时间给每个学生提供个性化反馈。这个因果机制解释了为什么效果在不同情境中可能持续——如果反馈机制能复制，效果就可能复制
 
 
 > [!abstract] 阶段三：It-will-work-for-us 主张

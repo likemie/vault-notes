@@ -13,7 +13,6 @@ tags:
 - region/new-zealand
 - level/k12
 related_concepts:
-  - "[[Feedback]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Educational Management Organisation]]"
   - "[[Network Governance]]"
@@ -44,7 +43,7 @@ updated: '2026-05-22'
 >
 > 改革前，教育被视为经济增长和社会发展的关键因素（Hawke, cited in Sarbiewska, 2019, p.120）。然而这一阶段的改革主要聚焦于行政管理调整，尚未进入基于研究的教学改革阶段。
 >
-> 改革约十年后的评估报告 *Ten years on: How schools view educational reform*（Wylie）呈现了相当负面的[[Feedback|反馈]]（Sarbiewska, 2019, p.120）：
+> 改革约十年后的评估报告 *Ten years on: How schools view educational reform*（Wylie）呈现了相当负面的反馈（Sarbiewska, 2019, p.120）：
 > - 87% 校长认为政府资金不足以满足学校需求
 > - 工作量上升、文书工作增加
 > - 工作时间延长

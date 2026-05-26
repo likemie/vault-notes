@@ -15,7 +15,6 @@ tags:
 - implementation
 - theory-of-change
 related_concepts:
-  - "[[Feedback]]"
   - "[[Technology Infusion]]"
   - "[[Implementation Fidelity]]"
   - "[[Absorptive Capacity]]"
@@ -45,7 +44,7 @@ updated: '2026-05-23'
 ## 认识论立场
 
 > [!abstract]
-> 逻辑模型把项目效果理解为一条需要被检验的变化链，而不是单一输入到单一结果的直接因果箭头。它允许评价者同时关注实施过程和结果变化，并把形成性[[Feedback|反馈]]重新带回项目投入和实施调整（Ross & Morrison, 2021, p.115）。
+> 逻辑模型把项目效果理解为一条需要被检验的变化链，而不是单一输入到单一结果的直接因果箭头。它允许评价者同时关注实施过程和结果变化，并把形成性反馈重新带回项目投入和实施调整（Ross & Morrison, 2021, p.115）。
 
 在 [[Students and Teachers Accessing Tomorrow]] 的评价模型中，信息既从过程流向结果，也从[[Formative Program Evaluation|形成性项目评价]]数据回流到投入和实施过程。这种双向结构使逻辑模型成为[[Formative Program Evaluation|形成性项目评价]]和持续改进之间的桥梁（Ross & Morrison, 2021, p.115）。
 
@@ -79,7 +78,7 @@ updated: '2026-05-23'
 
 > [!example]
 > - [[Students and Teachers Accessing Tomorrow]] — 评价模型把专业发展、课堂变化、数字内容使用、学生参与、21 世纪学习活动和学生成就连接起来（Ross & Morrison, 2021, p.115）。
-> - [[Formative Program Evaluation]] — 逻辑模型为[[Formative Assessment|形成性评价]]提供阶段性[[Feedback|反馈]]框架，帮助区分输入、输出、短期结果和长期结果。
+> - [[Formative Program Evaluation]] — 逻辑模型为[[Formative Assessment|形成性评价]]提供阶段性反馈框架，帮助区分输入、输出、短期结果和长期结果。
 
 ## 来源
 

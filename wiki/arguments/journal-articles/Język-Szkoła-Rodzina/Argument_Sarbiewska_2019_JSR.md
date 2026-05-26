@@ -16,7 +16,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
-  - "[[Feedback]]"
 related_theories:
   - "[[Radical Constructivism]]"
 related_methods: []
@@ -99,7 +98,7 @@ updated: '2026-05-18'
 > - 论文为文献综述而非实证研究，未提供原始数据
 > - 作者承认 VL 面临方法论和理论批评，但仍以支持性立场论述其政策价值
 > - 作者为波兰教育者，以波兰教育改革为隐含参照框架，可能存在选择偏倚
-> - 对新西兰和澳大利亚政策失败的讨论较为简略（仅提及 [[Tomorrow's Schools Reforms|Tomorrow's Schools]] 的负面[[Feedback|反馈]]）
+> - 对新西兰和澳大利亚政策失败的讨论较为简略（仅提及 [[Tomorrow's Schools Reforms|Tomorrow's Schools]] 的负面反馈）
 
 ## 来源
 

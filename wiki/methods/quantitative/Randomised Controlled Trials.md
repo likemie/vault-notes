@@ -23,7 +23,6 @@ related_concepts:
   - "[[Side Effects in Education]]"
   - "[[Mechanism Experiments]]"
   - "[[Black Box RCTs]]"
-  - "[[Feedback]]"
   - "[[School Leadership]]"
   - "[[Validity as Inferences]]"
   - "[[Recommendations for Practice]]"
@@ -270,7 +269,7 @@ updated: '2026-05-18'
 >
 > Peterson 从发展经济学（Duflo, Glennerster, & Kremer, 2006）引入的替代设计取向——不在于评估完整项目，而在于测试可迁移的教育变革机制（详见 [[Mechanism Experiments]]）。
 >
-> 核心方法论创新是**鼓励设计**（Imai, Tingley, & Yamamoto, 2013）：受试者被随机分配接受"鼓励"以采取更高值的中介变量，从而隔离特定机制的独立因果贡献。例如在教师[[Feedback|反馈]]项目中，教师被随机分配接受[[School Leadership|学校领导]]团队的额外短信提醒以执行详细反馈策略——鼓励组与纯处理组的差异隔离了"详细反馈"这一机制的贡献（Peterson, 2016, p. 304）。
+> 核心方法论创新是**鼓励设计**（Imai, Tingley, & Yamamoto, 2013）：受试者被随机分配接受"鼓励"以采取更高值的中介变量，从而隔离特定机制的独立因果贡献。例如在教师反馈项目中，教师被随机分配接受[[School Leadership|学校领导]]团队的额外短信提醒以执行详细反馈策略——鼓励组与纯处理组的差异隔离了"详细反馈"这一机制的贡献（Peterson, 2016, p. 304）。
 >
 > **两种取向的对比**：
 >

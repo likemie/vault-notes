@@ -3,10 +3,7 @@ citation: "Bolton, S., & Hattie, J. (2017). Cognitive and brain development: Exe
 extracted_to:
   - "[[Argument_Bolton_2017_ArchPsych]]"
   - "[[Cognitive Inhibition]]"
-  - "[[Cognitive Shifting]]"
-  - "[[Executive Function]]"
   - "[[Neuroplasticity]]"
-  - "[[Prefrontal Cortex]]"
   - "[[Synaptic Pruning]]"
   - "[[Updating and Monitoring]]"
   - "[[Working Memory]]"
@@ -23,6 +20,9 @@ extracted_to:
   - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
   - "[[Neo-Piagetian Theories]]"
   - "[[Piaget's Theory of Cognitive Development]]"
+  - "[[Cognitive Shifting]]"
+  - "[[Executive Function]]"
+  - "[[Prefrontal Cortex]]"
 processed_date: 2026-05-04
 ---
 

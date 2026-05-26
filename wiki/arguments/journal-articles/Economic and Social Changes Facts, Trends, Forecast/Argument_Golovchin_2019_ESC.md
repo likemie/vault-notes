@@ -19,7 +19,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Feedback]]"
   - "[[Publication Bias]]"
 related_theories:
   - "[[Societies of Control]]"
@@ -74,7 +73,7 @@ updated: '2026-05-18'
 > - **低中效应区**（d=0.15-0.4）：如[[Class Size|班级规模]]（d=0.21）、家庭结构（d=0.17）
 > - **期望效应区**（d>0.4）：如微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship|师生关系]]（d=0.72）（Golovchin, 2019, p.234）
 >
-> Hattie 的核心结论——"教师学科知识和教师资格是最不重要的（d=0.1），而微格教学和教师[[Feedback|反馈]]最重要"——引发最大争议（Golovchin, 2019, p.233）。
+> Hattie 的核心结论——"教师学科知识和教师资格是最不重要的（d=0.1），而微格教学和教师反馈最重要"——引发最大争议（Golovchin, 2019, p.233）。
 >
 > ### 第二步：系统综述批评文献
 >

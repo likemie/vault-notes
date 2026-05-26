@@ -13,7 +13,6 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Champ]]"
-  - "[[Feedback]]"
   - "[[Transfer Translation Transformation]]"
   - "[[School Leadership]]"
   - "[[Black Box RCTs]]"
@@ -61,7 +60,7 @@ updated: '2026-05-18'
 > | 适用决策类型 | 二选一（采用或不采用） | 持续小决策（如何调整、组合、适应） |
 > | 来源范式 | 医学药物试验 | 发展经济学现场实验 |
 >
-> > 例：在教师[[Feedback|反馈]]项目中，黑箱 RCT 仅评估"反馈培训包"的整体效果。机制实验则隔离测试一个关键机制——例如教师是否使用详细反馈而非通用反馈——通过随机分配教师接受不同形式的初始培训（Peterson, 2016, p. 304）。
+> > 例：在教师反馈项目中，黑箱 RCT 仅评估"反馈培训包"的整体效果。机制实验则隔离测试一个关键机制——例如教师是否使用详细反馈而非通用反馈——通过随机分配教师接受不同形式的初始培训（Peterson, 2016, p. 304）。
 
 
 > [!abstract] 核心优势

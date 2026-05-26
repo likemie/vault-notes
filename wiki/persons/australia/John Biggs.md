@@ -11,7 +11,6 @@ tags:
 - region/australia
 related_concepts:
   - "[[Constructive Alignment]]"
-  - "[[Feedback]]"
   - "[[Surface and Deep Learning]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Chinese Learner]]"
@@ -56,7 +55,7 @@ updated: '2026-05-23'
 > 1. **建构性前提**：学生通过他们所做的学习活动来建构意义（students construct meaning from what they do to learn）
 > 2. **对齐前提**：教师将计划的学习活动与预期的学习结果对齐（the teacher aligns the planned learning activities with the learning outcomes）
 >
-> 任何课程的设计须确保学习活动和评估任务与课程预期的学习结果对齐。学生不应被期望自己"摸索出"要学什么以及成功意味着什么——必须在任何教学或评估之前明确说明成功标准。没有这种对齐，[[Feedback|反馈]]、评估报告和自我调节学习的强大效果就不太可能发生（Hattie, 2015, p.87）。
+> 任何课程的设计须确保学习活动和评估任务与课程预期的学习结果对齐。学生不应被期望自己"摸索出"要学什么以及成功意味着什么——必须在任何教学或评估之前明确说明成功标准。没有这种对齐，反馈、评估报告和自我调节学习的强大效果就不太可能发生（Hattie, 2015, p.87）。
 >
 > Hattie (2015, p.87) 将建构性对齐定位为 VL 框架的关键实施要素，连接了明确成功标准（d=0.77）、表层/[[Surface and Deep Learning|深层学习]]比例（d=0.71）和反馈（d=0.73）等 VL 核心原则。
 

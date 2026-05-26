@@ -19,7 +19,6 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Surface and Deep Learning]]"
   - "[[Didaktik]]"
-  - "[[Feedback]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Popper's Three Worlds Theory]]"
@@ -86,7 +85,7 @@ updated: '2026-05-18'
 > 5. Hattie 的教师变成了钻进学习者大脑中的人："教师通过学生的眼睛看学习，学生将自己视为自己的教师"（SEE, capitalization in original, p.238）
 > 6. 外部世界、内容、规范——建构主义的所有问题——直接进入 Hattie 的教学概念（Rømer, 2018, p.6-8）
 >
-> ### 论证四：[[Feedback|反馈]]概念的集权化效应
+> ### 论证四：反馈概念的集权化效应
 > 1. Hattie 将反馈评为 d=0.73 的极其有效方法，但概念完全未经哲学反思——没有 Buber 的对话、Bakhtin 的对话、[[John Dewey|Dewey]] 的交易论或[[Socrates|苏格拉底]]式的辩证
 > 2. 反馈包含演绎（将学生行为导入操作性目标结构）和归纳两个方面
 > 3. 关键的归纳方面：反馈最有力的是"从学生到教师"——使学习对教师可见，让教师成为"自身效果的学徒"

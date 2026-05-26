@@ -18,7 +18,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Neo-Taylorism in Educational Administration]]"
   - "[[Critic and Conscience of Society]]"
-  - "[[Feedback]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -113,7 +112,7 @@ updated: 2026-05-18
 >
 > **（1）援引学术批评传统。** Hattie 以 Said（1993）的公共知识分子角色和新西兰《教育法》的"[[Critic and Conscience of Society]]"条款为学术批评的伦理基础，主张"每个范式或猜想都应被测试至毁灭，其作者、追随者和使用者应当面对公共问责"（Hattie, 2017, p.427-428）。Hattie 声称他将 Snook et al.（2009）——"最好的批评之一"——用作自身课程的教学文本，以此论证自己欢迎批评（p.428）。
 >
-> **（2）以 Popper 证伪主义定位 VL。** Hattie 声称 Popper（1959）的证伪主义是其方法论的核心哲学基础——VL 包含许多"大胆猜想"，因此"容易被证伪"。他列举了一系列声称"尚未被任何批评者证伪"的核心猜想：通过学生眼睛看学习、学生成为自身教师、成功标准的价值、"Know thy impact"的前提、关系与信任的角色、给予与接收[[Feedback|反馈]]的力量、学科语境下学习策略的焦点、使学校成为邀请性场所、关注学生学习生活（Hattie, 2017, p.428）。
+> **（2）以 Popper 证伪主义定位 VL。** Hattie 声称 Popper（1959）的证伪主义是其方法论的核心哲学基础——VL 包含许多"大胆猜想"，因此"容易被证伪"。他列举了一系列声称"尚未被任何批评者证伪"的核心猜想：通过学生眼睛看学习、学生成为自身教师、成功标准的价值、"Know thy impact"的前提、关系与信任的角色、给予与接收反馈的力量、学科语境下学习策略的焦点、使学校成为邀请性场所、关注学生学习生活（Hattie, 2017, p.428）。
 >
 > **（3）否认"大师崇拜"的存在。** Hattie 以 ACEL 网站列出了许多其他讲者、论文和批评者为证据，逐条回应 Eacott 的三项主张：（a）针对 Eacott 主张 Hattie 的工作因满足泰勒主义效率追求而获得接受——Hattie 反驳 Eacott 在"嘲笑严谨性和稳健性"（p.428-429）；（b）针对 Eacott 主张 VL 数据吸引行政人员——Hattie 坚持[[Meta-analysis|元分析]]综合的严谨性，声称 VL 的核心思想被教师和[[School Leadership|学校领导]]欢迎（p.429）；（c）针对 Eacott 主张学校领导力已屈服于大师崇拜——Hattie 称"Eacott 不必担心；有很多批评我工作的人；有很多部门官员和政客使用我之外的来源；有教师和学校领导选择 VL 之外的信息"（p.430）。
 >

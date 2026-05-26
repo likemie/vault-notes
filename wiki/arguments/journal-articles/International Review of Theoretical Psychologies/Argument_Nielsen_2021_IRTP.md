@@ -101,11 +101,11 @@ updated: '2026-05-18'
 > 作者识别了技术理性框架的根本代价（pp. 88-89）：
 >
 > - **无学生/教师意向性概念**：Hattie 的作品中不存在将学生或教师理解为"寻求意义的"或"解释性的"存在——"The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of variables"（p. 88）
-> - **学生被理解为需要被影响的对象**：虽然学生必须是"活跃的"，但他们不被理解为具有意向性的行动者——只机械地对[[Feedback|反馈]]做出反应
+> - **学生被理解为需要被影响的对象**：虽然学生必须是"活跃的"，但他们不被理解为具有意向性的行动者——只机械地对反馈做出反应
 > - **学习目标不容讨论**：Hattie 的理论是一个**封闭系统**——"the learning objective sanctifies the means of teaching"（p. 88-89）。教育问题被理解为技术性目标-手段理性范畴内的问题，其他类型的问题被认为无关
 > - **反馈取代对话**：人际对话被相互反馈过程取代，很少关注赋予学生学习的理由
 >
-> > "In Hattie's theory of [[Visible Learning]], the teachers must, with feedback, feed-up and forward, create an environment in which the students... direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching." (pp. 88-89)
+> > "In Hattie's theory of [[Visible Learning]], the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students... direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching." (pp. 88-89)
 >
 > > "Hattie's theory of learning thus has 'the ideological function of making the technical approach to learning self-evident and dominant'" (p. 89, citing Kvale, 1976, p. 106)
 

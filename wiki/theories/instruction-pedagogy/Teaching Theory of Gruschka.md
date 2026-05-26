@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Bildung]]"
   - "[[Didaktik]]"
-  - "[[Feedback]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -64,7 +63,7 @@ Gruschka 借用 Adorno（1997）的"星座"（constellation）概念来强调三
 
 ### 对数字学习工具的批判功能
 
-在 Jornitz & Klinge（2022）的运用中，Gruschka 的教学理论被用作批判数字学习工具的分析框架。其批判逻辑是：数字学习工具通常只替代了 Didaktik 的部分功能（呈现内容、安排任务序列、提供[[Feedback|反馈]]），但在这个过程中，它们同时暗中重新定义了 Bildung 和 Erziehung——将"理解"简化为"完成任务"，将"朝向 Bildung 的定向"简化为"对奖励系统的动机依赖"（Jornitz & Klinge, 2022, pp.240–243）。因为这个三元结构是不可分割的星座，对任何一个维度的技术干预都会波及全部三个维度。
+在 Jornitz & Klinge（2022）的运用中，Gruschka 的教学理论被用作批判数字学习工具的分析框架。其批判逻辑是：数字学习工具通常只替代了 Didaktik 的部分功能（呈现内容、安排任务序列、提供反馈），但在这个过程中，它们同时暗中重新定义了 Bildung 和 Erziehung——将"理解"简化为"完成任务"，将"朝向 Bildung 的定向"简化为"对奖励系统的动机依赖"（Jornitz & Klinge, 2022, pp.240–243）。因为这个三元结构是不可分割的星座，对任何一个维度的技术干预都会波及全部三个维度。
 
 ## 发展脉络
 
@@ -86,7 +85,7 @@ Gruschka 借用 Adorno（1997）的"星座"（constellation）概念来强调三
 ## 相关研究
 
 > [!example]
-> - [[Argument_Jornitz_2022_Bildung_algorithmic]] — Jornitz & Klinge 以 Gruschka [[Didaktik|教学理论]]为框架，分析学习软件的即时[[Feedback|反馈]]、奖励系统和仪表盘如何从三维度排除 [[Bildung]]
+> - [[Argument_Jornitz_2022_Bildung_algorithmic]] — Jornitz & Klinge 以 Gruschka [[Didaktik|教学理论]]为框架，分析学习软件的即时反馈、奖励系统和仪表盘如何从三维度排除 [[Bildung]]
 
 ## 来源
 

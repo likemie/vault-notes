@@ -1,8 +1,6 @@
 ---
 citation: "Li, J. (2012). Cultural Foundations of Learning: East and West. Cambridge University Press."
 extracted_to:
-  - "[[Argument_Li_2012_Cambridge]]"
-  - "[[Action Better Than Words]]"
   - "[[Affect-Respect and Ought-Respect]]"
   - "[[Benevolence]]"
   - "[[Chinese Learner]]"
@@ -42,7 +40,6 @@ extracted_to:
   - "[[Western Learner]]"
   - "[[Confucian Tutoring Style]]"
   - "[[Devil's Advocate]]"
-  - "[[Listening-Oriented Learning]]"
   - "[[Revoicing]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Entity vs Incremental Intelligence]]"
@@ -51,7 +48,6 @@ extracted_to:
   - "[[Intrinsic vs Extrinsic Motivation]]"
   - "[[Learned Helplessness]]"
   - "[[Locus of Control]]"
-  - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
   - "[[Self-Efficacy]]"
   - "[[Emic and Etic]]"
   - "[[Codeswitcher]]"
@@ -60,7 +56,6 @@ extracted_to:
   - "[[Enculturation]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Nerd]]"
-  - "[[Talent Assumption]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Tracking]]"
   - "[[Zero-Sum Competition]]"
@@ -91,6 +86,11 @@ extracted_to:
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
   - "[[Cultural Models]]"
+  - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Action Better Than Words]]"
+  - "[[Listening-Oriented Learning]]"
+  - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
+  - "[[Talent Assumption]]"
 processed_date: 2026-05-25
 ---
 

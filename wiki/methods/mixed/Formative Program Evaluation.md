@@ -12,7 +12,6 @@ tags:
 - implementation
 - evidence-informed-practice
 related_concepts:
-  - "[[Feedback]]"
   - "[[Formative Assessment]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
@@ -38,21 +37,21 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info]
-> 形成性项目评价（Formative Program Evaluation）是在项目实施过程中持续收集证据，并把[[Feedback|反馈]]用于改进投入、实施过程和阶段性结果的评价方法。它不同于只在项目结束时判断“是否有效”的总结性评价，更强调在改革推进期间帮助利益相关者理解项目是否按预期发生、哪里需要调整、哪些结果应在什么阶段出现（Ross & Morrison, 2021, pp.115, 121-124）。
+> 形成性项目评价（Formative Program Evaluation）是在项目实施过程中持续收集证据，并把反馈用于改进投入、实施过程和阶段性结果的评价方法。它不同于只在项目结束时判断“是否有效”的总结性评价，更强调在改革推进期间帮助利益相关者理解项目是否按预期发生、哪里需要调整、哪些结果应在什么阶段出现（Ross & Morrison, 2021, pp.115, 121-124）。
 
 在复杂教育改革中，[[Formative Assessment|形成性评价]]的作用不是替代因果研究，而是补足严格实验难以回答的问题：项目有没有真正落地，教师和学生如何体验，实施里程碑是否达到，地方利益相关者是否理解证据并据此调整实践（Ross & Morrison, 2021, pp.121-124）。
 
 ## 认识论立场
 
 > [!abstract]
-> [[Formative Assessment|形成性评价]]把证据视为改进过程中的[[Feedback|反馈]]，而不是一次性裁决。它默认教育项目会在真实组织中被不断解释、调整和再实施，因此评价者需要同时关注实施过程、短期输出、长期结果和利益相关者理解（Ross & Morrison, 2021, pp.121-124）。
+> [[Formative Assessment|形成性评价]]把证据视为改进过程中的反馈，而不是一次性裁决。它默认教育项目会在真实组织中被不断解释、调整和再实施，因此评价者需要同时关注实施过程、短期输出、长期结果和利益相关者理解（Ross & Morrison, 2021, pp.121-124）。
 
 这使形成性评价特别接近[[Evidence-Informed Practice|证据知情实践]]：研究证据进入实践后，需要和地方目标、[[Professional Judgment|专业判断]]、实施条件及用户经验共同被解释。若评价只提供终点成绩结果，复杂改革中的中间变化很容易被遮蔽（Ross & Morrison, 2021, pp.121-123）。
 
 ## 研究程序
 
 > [!example]
-> [[Formative Assessment|形成性评价]]通常先建立[[Logic Model|逻辑模型]]，再围绕输入、即时输出、短期结果和长期结果收集多源数据，并在项目推进过程中持续[[Feedback|反馈]]给利益相关者（Ross & Morrison, 2021, pp.115, 123-124）。
+> [[Formative Assessment|形成性评价]]通常先建立[[Logic Model|逻辑模型]]，再围绕输入、即时输出、短期结果和长期结果收集多源数据，并在项目推进过程中持续反馈给利益相关者（Ross & Morrison, 2021, pp.115, 123-124）。
 
 在 [[Students and Teachers Accessing Tomorrow]] 中，形成性评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂教师焦点小组、课堂观察、行为数据，以及英语语言艺术和数学成就数据。评价目的不是把 STAT 还原为单一因果效应，而是追踪教师准备、设备进入课堂、数字资源使用、学生参与、教学方式变化和成就结果之间的阶段性关系（Ross & Morrison, 2021, pp.115-118, 121-124）。
 

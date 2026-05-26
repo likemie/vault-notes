@@ -16,7 +16,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
-  - "[[Feedback]]"
   - "[[Working Memory]]"
 related_theories: []
 related_methods:
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 > 1. "天赋""先天能力"和"智力"等概念有用，但不足以解释学习或表现
 > 2. 我们通过感官接触信息来学习——但要增加知识，信息必须具备与我们心智结构相匹配的组织水平，且这种组织方式随年龄变化
 > 3. 我们的心智有局限——当这些局限达到时，深度学习变得不可能，此后仅发生[[Surface and Deep Learning|表层学习]]
-> 4. 学习者可从社会榜样、[[Direct Instruction|直接教学]]和纠正性[[Feedback|反馈]]中极大受益——通过教师学习至关重要，教师越理解学生学习的进展，学习就越有效
+> 4. 学习者可从社会榜样、[[Direct Instruction|直接教学]]和纠正性反馈中极大受益——通过教师学习至关重要，教师越理解学生学习的进展，学习就越有效
 > 5. 努力（effort）对动机至关重要——努力难以激活但可学习
 > 6. 短期目标极有激励作用——但可能与长期价值冲突，因此发展冲动控制和延迟满足能力很重要
 > 7. 学习需要坚持——包括自尊需求和与他人互动

@@ -14,7 +14,6 @@ tags:
   - region/uk
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
 related_theories:
@@ -83,7 +82,7 @@ updated: 2026-05-18
 > - Toolkit 提供的本地相关信息有限：学生特征限于年龄和相对劣势程度，性别、族裔、语言等信息缺乏；学校环境（城市/郊区/农村）信息不足（Cowen et al., 2015, p.20-21）
 > - 平均[[Effect Size|效应量]]的呈现可能不够突出效应在各项研究之间的变异幅度（Cowen et al., 2015, p.20）
 > - 缺乏专门针对实施现有证据本位的实用指导，特别是如何将"什么有效"的证据与本地知识结合起来权衡（Cowen et al., 2015, p.21-22）
-> - 教师[[Feedback|反馈]]机会有限——Toolkit 被描述为"只是一个产品"而非互动平台（Cowen et al., 2015, p.40）
+> - 教师反馈机会有限——Toolkit 被描述为"只是一个产品"而非互动平台（Cowen et al., 2015, p.40）
 > - 缺乏一线教师参与项目设计——"令人沮丧的是智库和政策制定者认为他们正在提出前进方向，却没有课堂实践者参与项目"（Cowen et al., 2015, p.40）
 
 ## 争议与评论

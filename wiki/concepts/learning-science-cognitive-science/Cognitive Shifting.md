@@ -14,7 +14,6 @@ tags:
 - cognitive-science
 related_concepts:
   - "[[Executive Function]]"
-  - "[[Feedback]]"
   - "[[Prefrontal Cortex]]"
 related_theories: []
 related_methods: []
@@ -51,7 +50,7 @@ updated: '2026-05-18'
 ## 测量方式
 
 > [!info] 测量方式
-> - **威斯康星卡片分类任务（Wisconsin Card Sorting Task, WCST）** — 要求参与者按某一标准（颜色、形状或图像）对卡片进行分类，然后在给定时刻切换标准。切换可通过明确陈述规则变更或通过任务同步的正负[[Feedback|反馈]]给出（Bolton & [[John Hattie|Hattie]], 2017, p.5）
+> - **威斯康星卡片分类任务（Wisconsin Card Sorting Task, WCST）** — 要求参与者按某一标准（颜色、形状或图像）对卡片进行分类，然后在给定时刻切换标准。切换可通过明确陈述规则变更或通过任务同步的正负反馈给出（Bolton & [[John Hattie|Hattie]], 2017, p.5）
 > - **维度变化卡片分类任务（Dimensional Change Card Sort, DCCS）** — WCST 的简化变体，用于幼儿。切换前阶段按一种标准分类，切换后阶段按另一种标准分类。3 岁以下儿童虽能正确执行切换前阶段，但无法独立完成切换后阶段（Bolton & Hattie, 2017, p.11）
 
 ## 发展轨迹

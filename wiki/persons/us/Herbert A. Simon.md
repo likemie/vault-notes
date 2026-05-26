@@ -12,7 +12,6 @@ tags:
 - organizational-theory
 - region/us
 related_concepts:
-  - "[[Feedback]]"
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Bounded Rationality]]"
@@ -52,7 +51,7 @@ updated: '2026-05-19'
 > [!info] [[Bounded Rationality|有限理性]]
 > Simon 挑战了古典经济学的"完全理性"假设——人类决策者并非拥有无限信息处理能力、无限时间和无限制的计算资源的"经济人"，而是在认知限制、信息不完整和时间约束下做出"足够好"而非"最优"的决策（Qvortrup, 2019, p.6）。
 >
-> 在教学中的应用：教学的复杂性（影响和刺激个体学生及学生共同体）大于教师的实践能力。教师始终在理性赤字的条件下工作，必须依靠[[Feedback|反馈]]作为持续的修正机制（Qvortrup, 2019, p.6）。
+> 在教学中的应用：教学的复杂性（影响和刺激个体学生及学生共同体）大于教师的实践能力。教师始终在理性赤字的条件下工作，必须依靠反馈作为持续的修正机制（Qvortrup, 2019, p.6）。
 
 ## 主要贡献
 

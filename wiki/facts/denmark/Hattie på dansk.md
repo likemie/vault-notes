@@ -15,7 +15,6 @@ tags:
 - critique
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Feedback]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
@@ -60,7 +59,7 @@ updated: '2026-05-18'
 >
 > ### [[Thomas Aastrup Rømer]] 的批评
 >
-> Rømer 在此书中声称 Hattie 的[[Feedback|反馈]]概念"具有集权化效应，最终有可能将一个国家的教学活动改变为一个巨大的、层级化的、计算机化的有机体"——Qvortrup 指出此断言"without any kind of factual support"（Qvortrup, 2019, p.4）。
+> Rømer 在此书中声称 Hattie 的反馈概念"具有集权化效应，最终有可能将一个国家的教学活动改变为一个巨大的、层级化的、计算机化的有机体"——Qvortrup 指出此断言"without any kind of factual support"（Qvortrup, 2019, p.4）。
 
 ## 影响与后果
 

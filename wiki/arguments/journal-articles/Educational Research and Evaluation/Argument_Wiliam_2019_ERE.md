@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Tracking]]"
-  - "[[Feedback]]"
   - "[[Effect Size]]"
 related_theories:
   - "[[Goldman's Discrimination Theory of Knowledge]]"
@@ -77,7 +76,7 @@ updated: '2026-05-18'
 >
 > - **[[Tracking|能力分组]]研究暴露了忽略教师质量的研究设计缺陷**：即使 RCT 发现能力分组与较低成就相关，也不能得出能力分组导致低成就的结论——可能是最有效的教师被分配给高成就学生（Wiliam, 2019, pp.8–9）。Wiliam 以自身研究经历（Boaler, Wiliam, & Brown, 2000; Wiliam & Bartholomew, 2004）承认当时未意识到教师间差异的量级，如今此证据使其研究结论不再明确。（Wiliam, 2019, p.8）
 >
-> - **[[Feedback|反馈]]研究揭示平均效应的误导性**：Kluger & DeNisi (1996) 的[[Meta-analysis|元分析]]发现反馈的平均[[Effect Size|效应量]]为 0.4 SD，但标准差约 1，约 38% 的效应量为负——在超过三分之一的案例中，不给予反馈反而更好。（Wiliam, 2019, pp.10–11）
+> - **反馈研究揭示平均效应的误导性**：Kluger & DeNisi (1996) 的[[Meta-analysis|元分析]]发现反馈的平均[[Effect Size|效应量]]为 0.4 SD，但标准差约 1，约 38% 的效应量为负——在超过三分之一的案例中，不给予反馈反而更好。（Wiliam, 2019, pp.10–11）
 >
 > - **[[Meta-meta-analysis|元-元分析]]在教育决策中无任何角色**：Simpson 小心指出在某些条件下合并效应量可能适当，但 Wiliam 明确断言"将多个元分析的结果通过某种加权合并——即所谓的元-元分析——在教育政策制定中绝对没有任何角色"。（Wiliam, 2019, p.11）
 >

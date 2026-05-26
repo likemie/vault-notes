@@ -38,7 +38,7 @@ updated: 2026-05-26
 ## 核心主张
 
 > [!tip]
-> Triple Helix（三重螺旋）由 Etzkowitz 和 Leydesdorff（1995）提出，核心主张是：在以知识为基础的经济（[[Knowledge-Based Economy]]）中，大学、产业和政府三个制度领域不再各自独立运作，而是日益相互交织——每一方都可以承担其他方的部分传统角色，形成一个动态的创新系统。三者之间的关系不是线性的（政府资助大学 → 大学产出知识 → 企业应用），而是一种相互支撑的[[Feedback|反馈]]循环（feedback loop），每一方既影响其他两方，也被其他两方影响。
+> Triple Helix（三重螺旋）由 Etzkowitz 和 Leydesdorff（1995）提出，核心主张是：在以知识为基础的经济（[[Knowledge-Based Economy]]）中，大学、产业和政府三个制度领域不再各自独立运作，而是日益相互交织——每一方都可以承担其他方的部分传统角色，形成一个动态的创新系统。三者之间的关系不是线性的（政府资助大学 → 大学产出知识 → 企业应用），而是一种相互支撑的反馈循环（[[Feedback]] loop），每一方既影响其他两方，也被其他两方影响。
 
 > [!quote]
 > "Etzkowitz and Leydesdorff (1995) characterize the feedback loop among government, universities, and industry as a mutually supportive 'triple Helix.'"（p.13，转述原文）
@@ -59,7 +59,7 @@ updated: 2026-05-26
 > [!note]
 - 1995 年 Etzkowitz 和 Leydesdorff 在 EASST Review 上首次提出 Triple Helix 概念，将大学-产业-政府关系描述为"[[Knowledge-Based Economy|知识经济]]发展的实验室"（p.13）
 - 此后该模型被广泛应用于分析创新政策和[[University-Industry Collaboration|产学合作]]，成为创新研究的重要理论框架之一
-- 在美国语境中，该模型可以解释二战后创新体系的形成：曼哈顿计划和 MIT 辐射实验室的秘密研究 → Vannevar Bush 的 Science, The Endless Frontier（1945）强调基础开放式研究 → 国家科学基金会（NSF）的创建和国防部对大学基础研究的支持 → 政府资助、大学研究和企业创新之间的[[Feedback|反馈]]循环（p.13）
+- 在美国语境中，该模型可以解释二战后创新体系的形成：曼哈顿计划和 MIT 辐射实验室的秘密研究 → Vannevar Bush 的 Science, The Endless Frontier（1945）强调基础开放式研究 → 国家科学基金会（NSF）的创建和国防部对大学基础研究的支持 → 政府资助、大学研究和企业创新之间的反馈循环（p.13）
 - O'Mara（2019）的 The Code 在硅谷发展史中记录了这一三重螺旋现象的具体运作（p.13）
 
 ---

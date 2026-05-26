@@ -58,10 +58,10 @@ updated: '2026-05-18'
 
 > [!success] 主要发现
 > - **[[Problem-Based Learning|PBL]] 的低[[Effect Size|效应量]]**：9 项[[Meta-analysis|元分析]]综合得 d≈0.08，PBL 在低年级（学生尚未具备表层知识时）效果尤差；PBL 对知识获取可能产生显著负面效果（d=−0.79, Dochy et al., 2003）（p.84-85）
-> - **在线 vs 面授无差异**：17 项元分析综合得 d≈0.12，"方法不重要"——更重要的是教师如何明确成功标准、提供挑战和[[Feedback|反馈]]、确保师生互动的质量（p.85-86）
+> - **在线 vs 面授无差异**：17 项元分析综合得 d≈0.12，"方法不重要"——更重要的是教师如何明确成功标准、提供挑战和反馈、确保师生互动的质量（p.85-86）
 > - **学生评教的高效度**：7 项元分析综合得 d=0.47，学生评教与教师有效性高度相关。但关键问题不是评教的准确性，而是教师是否实际使用这些信息改进教学（p.86-87）
 > - **学习方差分解**：约 50% 的方差来自学生自身因素、20–25% 来自教师质量、其余来自结构因素（讲座 vs 在线等）、同伴效应和领导力（p.87-88, Figure 2）
-> - **八项教师思维框架**（mind frames）：(1) Know thy impact；(2) I am a change agent；(3) I explicitly inform students what successful impact looks like；(4) I see assessment as providing feedback about my impact；(5) I work with other teachers to develop common conceptions of progress；(6) I engage in dialogue not monologue；(7) I strive for challenge and not 'doing your best'；(8) I use the language of learning; I see errors as opportunities for learning（p.88-89）
+> - **八项教师思维框架**（mind frames）：(1) Know thy impact；(2) I am a change agent；(3) I explicitly inform students what successful impact looks like；(4) I see assessment as providing [[Feedback]] about my impact；(5) I work with other teachers to develop common conceptions of progress；(6) I engage in dialogue not monologue；(7) I strive for challenge and not 'doing your best'；(8) I use the language of learning; I see errors as opportunities for learning（p.88-89）
 
 ## 关键引用
 

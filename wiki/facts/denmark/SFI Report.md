@@ -15,9 +15,9 @@ tags:
 related_concepts:
   - "[[Classroom Management]]"
   - "[[Individualised Instruction]]"
-  - "[[Feedback]]"
   - "[[Effective Teaching]]"
   - "[[Visible Learning]]"
+  - "[[Feedback]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -46,14 +46,14 @@ updated: '2026-05-18'
 > - 报告没有显示"教学差异化"能显著提升学生学习。这与 [[John Hattie|Hattie]] 对[[Individualised Instruction|个别化教学]]效应较小的判断相一致，也与 Helmke 关于教学差异化经验证据不足的说法相呼应（Laursen, 2015, p.38）。
 > - 报告没有发现学生学习效果依赖特定教学形式或方法；但共同解题对社会背景较弱的学生较好，个体解题对社会背景较强的学生较好（Laursen, 2015, p.38）。
 > - 更频繁测试与丹麦学生更高学习结果相关，这与 Hattie 关于频繁测试没有显著积极效果的结论形成偏差（Laursen, 2015, pp.38–39）。
-> - 报告没有发现其问项所测的[[Feedback|反馈]]行为能提升学习；但这些问项只捕捉"告诉学生发展/表现如何"，没有捕捉"告诉学生如何做得更好"这一反馈核心，因此不能据此断言反馈在丹麦学校无效（Laursen, 2015, p.39）。
+> - 报告没有发现其问项所测的反馈行为能提升学习；但这些问项只捕捉"告诉学生发展/表现如何"，没有捕捉"告诉学生如何做得更好"这一反馈核心，因此不能据此断言反馈在丹麦学校无效（Laursen, 2015, p.39）。
 
 ## 评价
 
 > [!success] 评价
 > SFI Report 2013 是 Laursen 检验国际[[Effective Teaching|有效教学]]综合丹麦适用性的主要本土证据。它与 Mehlbye 的高绩效学校研究共同支持一个判断：[[John Hattie|Hattie]]、Meyer 和 Helmke 强调的教师领导、清晰目标、高要求和良好学习环境，在丹麦研究中总体得到支持（Laursen, 2015, pp.37–40）。
 >
-> 该报告也提示两个边界：第一，学生社会背景会显著改变开放教学、共同解题和个体解题的效果；第二，问卷项目如果没有抓住概念核心，可能导致[[Feedback|反馈]]等结果被误读（Laursen, 2015, pp.38–39）。
+> 该报告也提示两个边界：第一，学生社会背景会显著改变开放教学、共同解题和个体解题的效果；第二，问卷项目如果没有抓住概念核心，可能导致反馈等结果被误读（Laursen, 2015, pp.38–39）。
 
 ## 相关概念／理论
 

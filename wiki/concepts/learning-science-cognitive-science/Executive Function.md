@@ -12,7 +12,6 @@ tags:
 related_concepts:
   - "[[Working Memory]]"
   - "[[Cognitive Shifting]]"
-  - "[[Feedback]]"
   - "[[Cognitive Inhibition]]"
   - "[[Updating and Monitoring]]"
   - "[[Prefrontal Cortex]]"
@@ -38,7 +37,7 @@ updated: '2026-05-18'
 >
 > > "Executive function (EF) is an umbrella term for a set of higher order, general purpose control processes that regulate a number of different cognitive functions (such as thought and behavior) for the attainment of a specific goal."（Bolton & Hattie, 2017, p.4）
 >
-> EF 涵盖广泛的认知过程，包括[[Working Memory|工作记忆]]、[[Cognitive Shifting|认知灵活性]]、注意力控制、计划、概念形成和[[Feedback|反馈]]处理，各项复杂度不同（Bolton & Hattie, 2017, p.4）。
+> EF 涵盖广泛的认知过程，包括[[Working Memory|工作记忆]]、[[Cognitive Shifting|认知灵活性]]、注意力控制、计划、概念形成和反馈处理，各项复杂度不同（Bolton & Hattie, 2017, p.4）。
 
 ## 核心要素
 

@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Formative Assessment]]"
-  - "[[Feedback]]"
   - "[[Statistical Significance]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
@@ -48,7 +47,7 @@ updated: '2026-05-23'
 > [!example]
 > - vs [[Effect Size]] — 效应量显示研究中观察到的差异大小；实施忠实度解释这个差异是在什么实施条件下产生的。
 > - vs [[Quasi-Experimental Designs]] — QED 关注比较组是否能提供可信反事实；实施忠实度关注干预组是否真正接受了足够质量和强度的项目。
-> - vs [[Formative Program Evaluation]] — [[Formative Assessment|形成性评价]]可以用来监测和[[Feedback|反馈]]实施忠实度，但两者不是同一概念。
+> - vs [[Formative Program Evaluation]] — [[Formative Assessment|形成性评价]]可以用来监测和反馈实施忠实度，但两者不是同一概念。
 
 ## 核心要素
 

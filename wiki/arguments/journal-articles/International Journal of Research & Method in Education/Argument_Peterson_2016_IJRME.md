@@ -15,7 +15,6 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Mechanism Experiments]]"
-  - "[[Feedback]]"
   - "[[Black Box RCTs]]"
   - "[[Transfer Translation Transformation]]"
 related_theories:
@@ -46,7 +45,7 @@ updated: '2026-05-18'
 > [!abstract] 理论框架
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 核心前提：黑箱 [[Randomised Controlled Trials|RCT]] 的证据仅适用于二选一决策（Cartwright & Hardie, 2012），教育情境中行动者很少处于做出此类决策的位置
 > - **发展经济学的[[Mechanism Experiments|机制实验]]传统**（Duflo, Glennerster, & Kremer, 2006; Ludwig, Kling, & Mullainathan, 2011）— 提供机制实验的方法论模板
-> - **[[Improvement Science|改进科学]]**（Bryk et al., 2015; Langley et al., 2009）— 提供网络化改进和[[Feedback|反馈]]循环的组织模板
+> - **[[Improvement Science|改进科学]]**（Bryk et al., 2015; Langley et al., 2009）— 提供网络化改进和反馈循环的组织模板
 
 ## 研究方法
 
@@ -74,7 +73,7 @@ updated: '2026-05-18'
 >
 > **组件二：改进和探究网络融入"什么有效"基础设施**
 >
-> 网络化改进社区（Bryk et al., 2015）和[[Spirals of Inquiry|探究螺旋]]（Timperley, Halbert, & Kaser, 2014）不仅增加证据使用的可能性，而且提高实施质量——通过建立[[Feedback|反馈]]循环将注意力集中在真实的变化机制（学习者的感知和行为变化），而非要实施的程序协议（p. 306–307）。
+> 网络化改进社区（Bryk et al., 2015）和[[Spirals of Inquiry|探究螺旋]]（Timperley, Halbert, & Kaser, 2014）不仅增加证据使用的可能性，而且提高实施质量——通过建立反馈循环将注意力集中在真实的变化机制（学习者的感知和行为变化），而非要实施的程序协议（p. 306–307）。
 >
 > ### 结论：共享的"构建块"作为整合媒介
 >
@@ -85,7 +84,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > 1. **黑箱 [[Randomised Controlled Trials|RCT]] 的医学范式与教育实践的错配是系统性的，不仅可通过改进实施过程评估（IPE）修复**——需要改革试验设计本身（p. 302）
 > 2. **鼓励设计提供了在不放弃随机化优势的前提下将[[Mechanism Experiments|机制实验]]嵌入现有 RCT 的操作路径**（pp. 303–305）
-> 3. **[[Improvement Science|改进科学]]与实验科学高度互补而非对立**——机制实验为改进网络提供方向性因果输入，改进网络为机制实验的发现提供实施和[[Feedback|反馈]]基础设施（pp. 306–307）
+> 3. **[[Improvement Science|改进科学]]与实验科学高度互补而非对立**——机制实验为改进网络提供方向性因果输入，改进网络为机制实验的发现提供实施和反馈基础设施（pp. 306–307）
 > 4. **建立教育变革机制分类学（类似于行为改变技术分类学 Michie et al., 2013）是操作化"什么有效 2.0"的关键基础设施步骤**（p. 308）
 
 ## 关键引用

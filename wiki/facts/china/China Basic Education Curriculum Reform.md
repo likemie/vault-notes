@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Quality Education]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Feedback]]"
   - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
   - "[[Stereotype Threat]]"
@@ -69,7 +68,7 @@ updated: '2026-05-18'
 > [!example]
 > - **大城市先行**：北京、上海、广州等大城市的许多学校已深入推进改革（Ryan, 2010, p.55）
 > - **偏远地区跟进**：内蒙古（Mitchell, Ryan, Kang, & Erikson, 2007）和甘肃省（Hannum & Park, 2007; Robinson, 2008; Sargent & Hannum, 2008）也已展开相关工作（Ryan, 2010, p.55）
-> - **教师层面的实践**：中国教师积极参与实验创新教学，包括高水平的师生互动和教学创新，并持续进行研究、发表、传播、反思和寻求对教学信念与实践的[[Feedback|反馈]]（Mitchell, Ryan, Kang, & Erikson, 2007, 转引自 Ryan, 2010, pp.53–54）
+> - **教师层面的实践**：中国教师积极参与实验创新教学，包括高水平的师生互动和教学创新，并持续进行研究、发表、传播、反思和寻求对教学信念与实践的反馈（Mitchell, Ryan, Kang, & Erikson, 2007, 转引自 Ryan, 2010, pp.53–54）
 > - **国际交流**：中国学者与加拿大、澳大利亚学者就课程改革和教师专业发展开展合作（Ryan, 2010, p.53）
 
 ## 效果与评价
@@ -82,7 +81,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - 改革面临的整合难题：如何在借鉴西方学生中心和[[Quality Education|素质教育]]理念的同时，保留中国教育传统中的有效元素（Ryan, 2010, p.56）。见 [[Chinese Learner#中国教育变革与刻板印象的过时]] 中关于"中西学术理念辩论"的展开
-> - 中国学者对西方将他们简单刻画为"缺乏创新"表示沮丧——他们的教学实践已高度关注实验性师生互动和创新，并持续进行研究、发表、反思和寻求[[Feedback|反馈]]（Mitchell, Ryan, Kang, & Erikson, 2007, 转引自 Ryan, 2010, pp.53–54）
+> - 中国学者对西方将他们简单刻画为"缺乏创新"表示沮丧——他们的教学实践已高度关注实验性师生互动和创新，并持续进行研究、发表、反思和寻求反馈（Mitchell, Ryan, Kang, & Erikson, 2007, 转引自 Ryan, 2010, pp.53–54）
 
 ## 相关概念／理论
 

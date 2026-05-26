@@ -10,7 +10,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Surface and Deep Learning]]"
-  - "[[Feedback]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -50,7 +49,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 与成功标准的透明性关系
-> Hattie (2015, p.87) 强调学生不应被期望自己"摸索出"要学什么以及成功意味着什么——"通常他们只有在拿回评估结果时才学到这些"。相反，必须在任何教学或评估之前明确说明成功标准。没有这种对齐，[[Feedback|反馈]]、评估报告和自我调节学习的强大效果就不太可能发生。
+> Hattie (2015, p.87) 强调学生不应被期望自己"摸索出"要学什么以及成功意味着什么——"通常他们只有在拿回评估结果时才学到这些"。相反，必须在任何教学或评估之前明确说明成功标准。没有这种对齐，反馈、评估报告和自我调节学习的强大效果就不太可能发生。
 
 
 > [!abstract] 在 VL 框架中的应用

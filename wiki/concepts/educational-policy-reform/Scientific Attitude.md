@@ -14,7 +14,6 @@ tags:
   - theme/knowledge-transfer
 related_concepts:
   - "[[Pragmatism in China]]"
-  - "[[Feedback]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -83,7 +82,7 @@ updated: 2026-05-26
 
 **3. 开展精细研究（sophisticated research）**
 
-克服此前教育讨论中的"模糊"和"含混"，以深入、细致的研究确保前两个层面——客观事实与渐进行动——之间的[[Feedback|反馈]]是可靠的。
+克服此前教育讨论中的"模糊"和"含混"，以深入、细致的研究确保前两个层面——客观事实与渐进行动——之间的反馈是可靠的。
 
 > 三层要素的逻辑关系可以理解为一种"诊断-治疗-监测"的闭环：客观事实是诊断基础，实验渐进是治疗方式，精细研究确保治疗效果的持续监测和方案调整。
 

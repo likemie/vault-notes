@@ -13,7 +13,6 @@ tags:
 - region/us
 related_concepts:
   - "[[Mechanism Experiments]]"
-  - "[[Feedback]]"
 related_theories: []
 related_methods:
   - "[[Improvement Science]]"
@@ -39,7 +38,7 @@ updated: '2026-05-19'
 > Peterson 的核心贡献在于论证"什么有效"（以黑箱 [[Randomised Controlled Trials|RCT]] 为中心）与[[Improvement Science|改进科学]]（以网络化教师探究为中心）**并非对立而是互补**。她提出了一个双向整合框架：
 >
 > 1. **[[Mechanism Experiments|机制实验]]**改革 RCT 设计——从评估整个项目转向测试可迁移的教育变革机制
-> 2. **改进网络**为机制实验的发现提供实施和[[Feedback|反馈]]基础设施
+> 2. **改进网络**为机制实验的发现提供实施和反馈基础设施
 > 3. 两者通过共享的**"构建块"**（关键的教育变革机制）形成连续性
 >
 > > "This article builds on current efforts to strengthen approaches to evidence-based practice and policy in a range of international contexts. It provides a foundation for those who aim to avoid another paradigm war and to accelerate international discussions on the design of systemic education research infrastructure and funding." (Peterson, 2016, p. 299)

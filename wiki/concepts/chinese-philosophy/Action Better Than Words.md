@@ -22,7 +22,6 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
-  - "[[Feedback]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []
@@ -121,7 +120,7 @@ updated: 2026-05-24
 ## 争议与批评
 
 > [!warning]
-> - 西方教育环境（重视课堂讨论、口头表达、辩论和即时[[Feedback|反馈]]）与"行勝於言"传统的张力：前者可能将后者的沉默误判为"缺乏批判性思维"，而后者可能将前者的多言视为"轻浮"（Li, 2012, pp.52-53）
+> - 西方教育环境（重视课堂讨论、口头表达、辩论和即时反馈）与"行勝於言"传统的张力：前者可能将后者的沉默误判为"缺乏批判性思维"，而后者可能将前者的多言视为"轻浮"（Li, 2012, pp.52-53）
 > - "教师的慎言"在现代大班教学中如何操作？传统的一对一或少数学徒制的慎言传统是否与现代教育规模兼容，Li 未深入讨论
 
 ---

@@ -12,7 +12,6 @@ tags:
   - "theme/university-industry-collaboration"
 related_concepts:
   - "[[Academic Freedom]]"
-  - "[[Feedback]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Triple Helix]]"
@@ -84,7 +83,7 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 ## 理论基础
 
 > [!tip]
-- [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）将大学-产业-政府之间的[[Feedback|反馈]]循环描述为相互支撑的三重螺旋，是理解创新生态系统制度结构的核心理论（p.13）
+- [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）将大学-产业-政府之间的反馈循环描述为相互支撑的三重螺旋，是理解创新生态系统制度结构的核心理论（p.13）
 - Schumpeter（1942）的创新理论 — "创造性破坏"（creative destruction）是创新生态系统动态演化的理论基础（p.12）
 - Ridley（2020）How Innovation Works — 强调自由、实验和开放竞争对创新的决定性作用（p.12）
 
@@ -93,7 +92,7 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 ## 相关案例
 
 > [!example]
-- **硅谷**：由斯坦福大学、周边企业（如 Hewlett Packard、Google、Apple）和政府投资共同构成的基于地点的创新生态系统。其多层次高等教育体系包括 UC Berkeley、UC San Francisco、San Jose State 等多所院校（pp.12–13）
+- **硅谷**：由斯坦福大学、周边企业（如 Hewlett Packard、Google、Apple）和政府投资共同构成的基于地点的创新生态系统。其多层次高等教育体系包括 UC [[George Berkeley|Berkeley]]、UC San Francisco、San Jose State 等多所院校（pp.12–13）
 - **波士顿**：由 MIT 和哈佛大学锚定，以 Route 128 走廊为地理轴线的创新生态系统。Fischman et al.（2014）记录了 MIT 如何通过鼓励教师和学生创业来催化区域创新（pp.12–13）
 - **后 2008 年的政策转向**：自大衰退以来，美国州和地方政府越来越多地将大学视为经济发展的催化剂。APLU 设立了 Innovation and Economic Prosperity Program，为在区域经济参与方面取得成功的大学提供认证（p.13）
 - 其他试图模仿硅谷模式的地区和城市（未具体命名），通过推动[[University-Industry Collaboration|产学合作]]来建立各自的创新经济（p.13）

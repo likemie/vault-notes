@@ -15,13 +15,25 @@ tags:
   - "level/higher-education"
   - "theme/innovation"
   - "source/edited-volume"
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[University-Industry Collaboration]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Multi-University]]"
+  - "[[Academic Freedom]]"
+  - "[[Technology Transfer]]"
+related_theories:
+  - "[[Triple Helix]]"
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
-sources: []
+related_facts:
+  - "[[Morrill Land-Grant Act of 1862]]"
+  - "[[Smith Lever Act of 1914]]"
+  - "[[University Industry Demonstration Partnership]]"
+  - "[[Bayh-Dole Act of 1980]]"
+related_arguments:
+  - "[[Argument_Boccanfuso_Hall_2025_Alignment]]"
+sources:
+  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 part_of:
 status: draft
 created: 2026-05-26
@@ -103,7 +115,7 @@ updated: 2026-05-26
 > [!tip]
 > 全书共用的理论视角。
 
-- [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）的大学-产业-政府三重螺旋模型，三者在以知识为基础的经济发展中形成相互支撑的[[Feedback|反馈]]循环（p.13）
+- [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）的大学-产业-政府三重螺旋模型，三者在以知识为基础的经济发展中形成相互支撑的反馈循环（p.13）
 - [[Innovation Ecosystem]] — 建立在 Schumpeter（1942）创新理论和 Ridley（2020）论述的基础上，理解大学如何作为区域经济的"锚点"、创意与人员如何通过流动驱动创新（pp.12–13）
 - [[Multi-University]] — Clark Kerr（2001）对美国现代大学的描述：广泛触及社区与社会，服务多重使命，这一定位解释了为什么[[University-Industry Collaboration|产学合作]]必然是多维度的（p.5）
 
