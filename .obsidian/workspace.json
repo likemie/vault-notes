@@ -11,12 +11,14 @@
             "id": "d5db835f68385161",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025.pdf"
+                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Ch1_Boccanfuso_Hall_2025"
+              "icon": "lucide-file",
+              "title": "Argument_Boccanfuso_Hall_2025_Alignment"
             }
           }
         ]
@@ -187,22 +189,22 @@
   },
   "active": "d5db835f68385161",
   "lastOpenFiles": [
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
+    "wiki/theories/higher-education/Triple Helix.md",
+    "wiki/concepts/higher-education/Innovation Ecosystem.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025.pdf",
     "books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025.md",
     "wiki/facts/us/Smith Lever Act of 1914.md",
     "wiki/facts/us/Bayh-Dole Act of 1980.md",
     "wiki/facts/us/Morrill Land-Grant Act of 1862.md",
     "wiki/concepts/higher-education/Academic Freedom.md",
     "wiki/concepts/higher-education/Multi-University.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
     "raw/(Ed.)前言 University-Industry Collaboration.pdf",
     "books/Hall_Boccanfuso_2025_Springer/Hall_Boccanfuso_2025_Springer_overview.md",
-    "books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025.pdf",
     "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
     "wiki/facts/us/University Industry Demonstration Partnership.md",
-    "wiki/theories/higher-education/Triple Helix.md",
     "wiki/concepts/higher-education/Technology Transfer.md",
-    "wiki/concepts/higher-education/Innovation Ecosystem.md",
     "wiki/concepts/higher-education/University-Industry Collaboration.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer",
     "books/Hall_Boccanfuso_2025_Springer",
@@ -216,7 +218,6 @@
     "wiki/concepts/sociology-of-education/Peidu.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Teng_2025_CE.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Wang_2025_CE.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
     "sources/Teng_2025_CE.pdf",
     "sources/temp_2024_Compare.pdf",
     "raw/10.1080_03050068.2024.2398342.pdf",
