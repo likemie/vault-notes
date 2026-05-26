@@ -87,7 +87,7 @@ updated: '2026-05-24'
 ## 概念演变
 
 > [!note] 制度演化
-> 教育证据清算中心的演变，是[[Evidence-Based Reform|证据本位改革]]基础设施逐步成形的过程：联邦政策提出证据要求，清算中心把研究证据转化为可检索的项目评级，学校和学区再把这些评级纳入采购与改进决策。
+> 教育证据清算中心的演变，是[[Evidence-Based Reform|证据本位改革]]基础设施逐步成形的过程：联邦政策提出证据要求，清算中心把研究证据[[Transfer Translation Transformation|转化]]为可检索的项目评级，学校和学区再把这些评级纳入采购与改进决策。
 
 - **2001** — [[No Child Left Behind Act 2001|NCLB]] 将“科学本位研究”嵌入美国联邦教育政策，推动学校改进、阅读项目和联邦拨款与实证研究标准连接起来（Ross & Morrison, 2021, p.109）。
 - **2002** — [[What Works Clearinghouse]] 由美国教育部创建，用于识别和审查符合严格标准的教育研究；在 WWC 体系中，达到“无保留”或“有保留”标准通常需要 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]] 证据（Ross & Morrison, 2021, p.109）。
@@ -98,7 +98,7 @@ updated: '2026-05-24'
 ## 核心要素
 
 > [!abstract] 核心机制
-> 清算中心把教育研究转化为实践可读的项目判断，通常经过五个环节：设定证据标准、搜寻项目研究、评价单项研究质量、综合项目效果、发布面向非方法专家的评级（Wadhwa et al., 2024, p.4）。
+> 清算中心把教育研究[[Transfer Translation Transformation|转化]]为实践可读的项目判断，通常经过五个环节：设定证据标准、搜寻项目研究、评价单项研究质量、综合项目效果、发布面向非方法专家的评级（Wadhwa et al., 2024, p.4）。
 
 ### 证据标准制定
 
@@ -179,7 +179,7 @@ updated: '2026-05-24'
 - [[Institute for Effective Education]] — 英国连接学校支持、严格评价、Evidence in Brief 和 Evidence 4 Impact 的证据机构。
 - [[Swedish Institute for Educational Research]] — 瑞典系统综述、传播和研究资助机构。
 - [[Top Institute for Evidence-Based Education Research]] — 荷兰跨大学[[Evidence-Based Education|证据本位教育]]研究所。
-- [[Centre for the Use of Research and Evidence in Education]] — 英国研究转译和实践材料开发机构。
+- [[Centre for the Use of Research and Evidence in Education]] — 英国研究[[Transfer Translation Transformation|转译]]和实践材料开发机构。
 - [[Evidence-Based Teachers Network]] — 英国教师、研究者和教育利益相关者证据分享网络。
 - [[Collaborative for Academic Social and Emotional Learning Guide]] — 聚焦社会情感学习项目的非营利教育清算中心，在比较样本中贡献 25 个项目（Wadhwa et al., 2024, pp.7, 16）。
 - [[National Dropout Prevention Center]] — 聚焦辍学预防项目的非营利教育清算中心；在四个详细比较对象中，其最高评级门槛最低（Wadhwa et al., 2024, pp.7, 15-16）。

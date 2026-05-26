@@ -49,7 +49,7 @@ updated: 2026-05-18
 > **科学在行动（Science in Action）**（Latour, 1987, 1999）
 > 关注科学实践（science in the making）而非科学成品（ready-made science）。Gorur 将 OECD 指标开发视为"正在制造中的科学"，就像 Latour 研究实验室中的科学家一样（Gorur, 2014, p.6）。
 >
-> > 例：[[International Indicators of Education Systems|INES]] 早期科学家放弃寻找统一理论模型，转而采用以可用性为导向的经验方法——这不是科学的失败，而是科学在治理压力下的实践性转译（Gorur, 2014, p.10）
+> > 例：[[International Indicators of Education Systems|INES]] 早期科学家放弃寻找统一理论模型，转而采用以可用性为导向的经验方法——这不是科学的失败，而是科学在治理压力下的实践性[[Transfer Translation Transformation|转译]]（Gorur, 2014, p.10）
 >
 > **转译（Translation）**（Callon, 1986; Latour, 1999）
 > 不同行动者之间的利益协商和调整过程。"共识"可被视为一种转译形式——通过纳入多样化利益（或使国家适应于提供的内容而非未提供的内容），沉默或最小化阻碍。Gorur 以此解释 [[Education at a Glance|EAG]] 指标如何从激烈辩论转为常规生产（Gorur, 2014, p.17）。

@@ -46,7 +46,7 @@ updated: '2026-05-18'
 
 > 抵抗认识论的概念根源可追溯至 [[Frantz Fanon|Fanon]] (1952) 对殖民知识暴力的分析和 [[Paulo Freire|Freire]] (1972) 对被压迫者认识论权利的论证。在拉丁美洲去殖民思想传统中，Mignolo 的"认识论不服从"（epistemic disobedience）为其提供了理论框架。但抵抗认识论的独特之处在于它强调**实践优先**——不是在理论上论证替代认识论的必要性，而是在剧场、博物馆和口述传统中直接制造[[Official Knowledge|官方知识]]体系无法消化的"另类知识"（Delambre, 2022, p.105–106, 109–110）。
 
-> 在巴西里约热内卢的 Rocinha 贫民窟，导演 [[Richard Castelo Branco]] 开发的 **EspectAtor** 方法是最具代表性的抵抗认识论实践：该方法将 espectador（观众）和 ator（演员）的角色融合，让贫民窟居民通过表演自身的暴力创伤故事来实践知识生产。这种知识不被城市的官方知识中心所使用，也不被转化为国家的经济资本，但正是这种"不被承认"的状态构成了它与霸权认识论之间的张力（Delambre, 2022, p.110, 援引 Branco, 2020）。
+> 在巴西里约热内卢的 Rocinha 贫民窟，导演 [[Richard Castelo Branco]] 开发的 **EspectAtor** 方法是最具代表性的抵抗认识论实践：该方法将 espectador（观众）和 ator（演员）的角色融合，让贫民窟居民通过表演自身的暴力创伤故事来实践知识生产。这种知识不被城市的官方知识中心所使用，也不被[[Transfer Translation Transformation|转化]]为国家的经济资本，但正是这种"不被承认"的状态构成了它与霸权认识论之间的张力（Delambre, 2022, p.110, 援引 Branco, 2020）。
 
 > > "导演 Richard Castelo Branco 开发了自己的方法（EspectAtor），这种方法由一种抵抗认识论所告知。这种认识论与城市的官方知识模型处于张力之中。"（Delambre, 2022, p.110）
 

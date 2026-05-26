@@ -121,7 +121,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - [[UN Sustainable Development Goals]] — SDGs 为大学的组织能动者身份（尤其是社会嵌入性维度）提供了全球性议程框架
-> - [[THE Impact Ranking]] — THE 影响力排名将大学的社会嵌入性和[[Global Citizenship|全球公民]]身份转化为可量化的排名指标
+> - [[THE Impact Ranking]] — THE 影响力排名将大学的社会嵌入性和[[Global Citizenship|全球公民]]身份[[Transfer Translation Transformation|转化]]为可量化的排名指标
 
 ---
 ## 来源

@@ -33,7 +33,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 实践建议（Recommendations for Practice, RFP）是研究论文中将研究发现转化为教育实践行动的规范性陈述。Brady et al. (2023) 沿用 Reinhart et al. (2013) 的编码标准：如果论文暗示或明确说明"若采用/避免、增加/减少实践 X，则教师或学生结果 Y 会改善"，即被编码为 RFP（Brady et al., 2023, p.4）。
+> 实践建议（Recommendations for Practice, RFP）是研究论文中将研究发现[[Transfer Translation Transformation|转化]]为教育实践行动的规范性陈述。Brady et al. (2023) 沿用 Reinhart et al. (2013) 的编码标准：如果论文暗示或明确说明"若采用/避免、增加/减少实践 X，则教师或学生结果 Y 会改善"，即被编码为 RFP（Brady et al., 2023, p.4）。
 >
 > > "if Practice X is adopted/avoided or increased/decreased, then teacher or student Outcome Y will improve"（Reinhart et al., 2013, p.244, cited in Brady et al., 2023, p.4）
 
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **行动导向**：RFP 不只是解释发现，而是把发现转化为教师、学校或政策制定者应采取的行动建议（Brady et al., 2023, p.4）。
+> - **行动导向**：RFP 不只是解释发现，而是把发现[[Transfer Translation Transformation|转化]]为教师、学校或政策制定者应采取的行动建议（Brady et al., 2023, p.4）。
 > - **因果含义**：即使措辞较弱，RFP 通常仍暗含"改变实践会改善结果"的因果结构；这使其证据要求高于单纯描述性结论（Brady et al., 2023, pp.3-4）。
 > - **范围与强度差异**：Brady et al. (2023) 在编码中观察到，一些 RFP 紧贴研究样本，另一些则泛化到更广人群；一些使用 "may" 或 "might" 等弱化词，但强而广泛的 RFP 在[[Non-intervention Research|非干预研究]]中尤其值得警惕（Brady et al., 2023, p.9）。
 
@@ -89,7 +89,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Evidence-Based Education]] — RFP 是证据到实践转化链条中的论文写作环节，反映"研究应指导实践"的期望及其方法论风险。
+> - [[Evidence-Based Education]] — RFP 是证据到实践[[Transfer Translation Transformation|转化]]链条中的论文写作环节，反映"研究应指导实践"的期望及其方法论风险。
 
 ## 来源
 

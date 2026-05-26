@@ -64,7 +64,7 @@ updated: 2026-05-18
 > - **软权力功能**：企业教育是[[Cultural Political Economy|文化政治经济学]]所称的"经济想象"（economic imaginary）的载体——它生产和传播关于市场如何运作、公司应该追求什么的共享认知，是市场运作的关键促成因素（Hartmann, 2022, p.180）
 > - **组织嵌入性**：企业教育的形式和国际化程度与 MNC 组织类型深度挂钩——联邦型、国际型和跨国型 MNCs 分别偏好不同的培训标准化水平和权威策略。详见 [[Corporate University]] 中 MNC 类型 × CU 类型的对应分析（Hartmann, 2022, pp.186–188）
 > - **权威依赖性**：公司管理层虽有权力命令员工参训，但这不等同于培训被视为高质量。企业教育需借助外部权威来源（模仿高等教育、专业认证、同行评审、外包给营利性提供商）来获取合法性。四种策略详见 [[Argument_Hartmann_2022_CorporateEducation]] 第四步（Hartmann, 2022, pp.188–191）
-> - **[[Varieties of Capitalism|生产体制]]制约**：IVET 在协调型市场经济体（CMEs，如德国）中高度制度化，依赖行业协会、工会和政府之间的复杂非市场安排，难以跨国转移。所有受访德国 MNCs 在海外分支建立学徒制的尝试均告失败（Hartmann, 2022, pp.184–185）
+> - **[[Varieties of Capitalism|生产体制]]制约**：IVET 在协调型市场经济体（CMEs，如德国）中高度制度化，依赖行业协会、工会和政府之间的复杂非市场安排，难以跨国[[Transfer Translation Transformation|转移]]。所有受访德国 MNCs 在海外分支建立学徒制的尝试均告失败（Hartmann, 2022, pp.184–185）
 
 ---
 
@@ -81,7 +81,7 @@ updated: 2026-05-18
 
 > [!tip]
 > - [[Institutional Isomorphism]] — DiMaggio & Powell 的三种同构类型（强制型、模仿型、规范型）为企业教育的规范扩散提供了核心分析框架。详见 [[Argument_Hartmann_2022_CorporateEducation]] 理论框架部分（Hartmann, 2022, pp.183–184）
-> - [[Max Weber1]] 的权威理论 — 区分权力（Macht）与权威（Herrschaft），为企业教育如何从"公司在权威中"走向"培训是权威"提供了合法性分析基础（Hartmann, 2022, pp.182–183）
+> - Max Weber1 的权威理论 — 区分权力（Macht）与权威（Herrschaft），为企业教育如何从"公司在权威中"走向"培训是权威"提供了合法性分析基础（Hartmann, 2022, pp.182–183）
 
 ---
 

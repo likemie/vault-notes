@@ -43,7 +43,7 @@ updated: 2026-05-23
 
 > [!example]
 > - vs [[Implementation Fidelity]] — 实施忠实度关注项目是否按计划实施；吸收能力关注组织是否能理解并使用评价证据来调整实施。
-> - vs [[Local Knowledge in Evidence-Based Policy]] — 本地知识强调情境判断；吸收能力强调组织把外部评价[[Feedback|反馈]]转化为内部学习和行动的能力。
+> - vs [[Local Knowledge in Evidence-Based Policy]] — 本地知识强调情境判断；吸收能力强调组织把外部评价[[Feedback|反馈]][[Transfer Translation Transformation|转化]]为内部学习和行动的能力。
 > - vs [[Professional Judgment]] — 专业判断是个人或群体解释证据的能力；吸收能力是组织层面的学习条件。
 
 ## 核心要素
@@ -57,7 +57,7 @@ updated: 2026-05-23
 
 ### 开放沟通
 
-[[Formative Program Evaluation|形成性项目评价]][[Feedback|反馈]]需要通过简短报告、会议和持续沟通进入项目实践。若沟通不开放，证据可能停留在评价报告中，而不能转化为实施调整（Ross & Morrison, 2021, pp.123-124）。
+[[Formative Program Evaluation|形成性项目评价]][[Feedback|反馈]]需要通过简短报告、会议和持续沟通进入项目实践。若沟通不开放，证据可能停留在评价报告中，而不能[[Transfer Translation Transformation|转化]]为实施调整（Ross & Morrison, 2021, pp.123-124）。
 
 ### 支持性领导
 
@@ -80,7 +80,7 @@ updated: 2026-05-23
 
 > [!example]
 > - [[Students and Teachers Accessing Tomorrow]] — STAT 的[[Formative Program Evaluation|形成性项目评价]][[Feedback|反馈]]被多方利益相关者用于理解项目进展和支持项目延续，体现较高学区吸收能力（Ross & Morrison, 2021, pp.121-124）。
-> - [[Formative Program Evaluation]] — [[Formative Assessment|形成性评价]]只有被组织吸收，才会从报告转化为实施改进。
+> - [[Formative Program Evaluation]] — [[Formative Assessment|形成性评价]]只有被组织吸收，才会从报告[[Transfer Translation Transformation|转化]]为实施改进。
 
 ## 来源
 

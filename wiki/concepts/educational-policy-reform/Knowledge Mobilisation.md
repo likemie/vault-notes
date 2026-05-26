@@ -65,7 +65,7 @@ updated: '2026-05-21'
 > 1. **传播与沟通**：研究知识必须以实践者可进入的方式被分享，而不是停留在学术文本中（Nelson & [[Campbell Collaboration|Campbell]], 2017, pp.130–131）。
 > 2. **能力建设**：教育者需要时间、技能和组织支持，才能理解、批判和使用研究知识（Nelson & Campbell, 2017, p.127；Nordahl, 2015, pp.66–67）。
 > 3. **伙伴关系与网络**：研究者、决策者、[[School Leadership|学校领导]]和教师之间的协作关系，是知识流动的重要渠道（Nelson & Campbell, 2017, pp.130–131）。
-> 4. **实践转译**：研究知识需要被翻译成更贴近学校现场的语言、例子和工作流程，而不是原封不动地“传递”过去（Nordahl, 2015, p.66）。
+> 4. **实践[[Transfer Translation Transformation|转译]]**：研究知识需要被翻译成更贴近学校现场的语言、例子和工作流程，而不是原封不动地“传递”过去（Nordahl, 2015, p.66）。
 
 ## 理论基础
 
@@ -86,7 +86,7 @@ updated: '2026-05-21'
 
 > [!warning]
 > - 知识动员容易被浪漫化成“只要研究被传播出去就会发生改进”，但 Nordahl (2015) 恰恰提醒，真正困难的是知识被翻译、被吸收和被组织支持，而不是单纯“看见研究”。
-> - 在[[Evidence-Based Education|证据本位教育]]争论中，支持强版本 EBE 的立场可能认为 KMb 过于强调本地转译和[[Professional Judgment|专业判断]]，从而削弱了对标准化项目或高等级证据的依赖；而 [[Evidence-Informed Practice|EIP]] 取向则恰恰把这种转译视为不可省略的条件。
+> - 在[[Evidence-Based Education|证据本位教育]]争论中，支持强版本 EBE 的立场可能认为 KMb 过于强调本地[[Transfer Translation Transformation|转译]]和[[Professional Judgment|专业判断]]，从而削弱了对标准化项目或高等级证据的依赖；而 [[Evidence-Informed Practice|EIP]] 取向则恰恰把这种转译视为不可省略的条件。
 
 ## 相关案例／政策
 

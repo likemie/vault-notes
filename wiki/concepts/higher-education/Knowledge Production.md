@@ -44,7 +44,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[Knowledge Transfer]] — Partaken 的核心区分：知识生产关注知识"是什么"和"谁在生产"；知识转移关注知识"在被做什么"——知识一旦被生产即进入挪用、传授、窃取、审查、破坏的动态过程。Partaken 批评后殖民 [[Geopolitics of Knowledge|GPK]] 传统过度关注前者而忽视后者，主张 GPK 的真正核心是知识转移而非知识生产（Partaken, 2022, p.74–75, 84）
+> - vs [[Knowledge Transfer]] — Partaken 的核心区分：知识生产关注知识"是什么"和"谁在生产"；知识[[Transfer Translation Transformation|转移]]关注知识"在被做什么"——知识一旦被生产即进入挪用、传授、窃取、审查、破坏的动态过程。Partaken 批评后殖民 [[Geopolitics of Knowledge|GPK]] 传统过度关注前者而忽视后者，主张 GPK 的真正核心是知识转移而非知识生产（Partaken, 2022, p.74–75, 84）
 > - vs 知识创新（Knowledge Innovation） — 知识创新强调知识的新颖性和商业化潜力，是知识生产的一种特定价值取向；知识生产则是更广泛的概念，涵盖一切有组织的知识创造活动
 
 ---
@@ -72,7 +72,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - **"生产 vs 转移"是否构成虚假对立**：Partaken 将知识生产与[[Knowledge Transfer|知识转移]]呈现为 [[Geopolitics of Knowledge|GPK]] 的"两面"，但两者在实际中是否可清晰分离存疑——知识在生产过程中已包含转移（合作研究、学术出版），而知识在转移过程中也发生着生产（教学中的知识重构）。Partaken 承认后殖民传统关注知识生产有其历史合法性，但他将两者作为分析范畴对立起来的做法，可能低估了二者的交织程度（Partaken, 2022, pp.72–75）
+> - **"生产 vs [[Transfer Translation Transformation|转移]]"是否构成虚假对立**：Partaken 将知识生产与[[Knowledge Transfer|知识转移]]呈现为 [[Geopolitics of Knowledge|GPK]] 的"两面"，但两者在实际中是否可清晰分离存疑——知识在生产过程中已包含转移（合作研究、学术出版），而知识在转移过程中也发生着生产（教学中的知识重构）。Partaken 承认后殖民传统关注知识生产有其历史合法性，但他将两者作为分析范畴对立起来的做法，可能低估了二者的交织程度（Partaken, 2022, pp.72–75）
 > - **"知识生产"概念的商业化前提**：Partaken 正确指出"knowledge production"术语的流行与专利法律体系建立同步，但这一观察本身不足以证明"知识生产"作为分析范畴无效——只能说它的含义已经被商业力量重塑
 
 ---

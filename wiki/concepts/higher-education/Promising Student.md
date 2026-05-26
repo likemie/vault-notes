@@ -62,7 +62,7 @@ updated: 2026-05-20
 
 [[Learning Analytics|学习分析]]和数据化（datafication）让大学获得了管理学生成功不确定性的新能力：通过分析"成功相关性"（correlations of success），找出最可能导致学业成功的学生特征（Thompson et al., 2022, p.220）。这使大学能够在入学前就识别和干预"问题学生"，从而消除偶然性（Thompson et al., 2022, p.224）。
 
-[[Online Self-Assessment]] 是这一治理逻辑的核心工具。潜在学生通过完成 OSA，被引导将自身与"完美[[Matching|匹配]]"的理想学生形象对齐。[[Digital Self|数字自我]]（digital self，数据构建的学生画像）与[[Digital Optimum|数字最优]]（digital optimum，算法优化的理想参照）之间的差距，驱动着持续的自我优化行为（Thompson et al., 2022, pp.224–226）。详见 [[Online Self-Assessment#数据化与主体化效应]]。
+[[Online Self-Assessment]] 是这一治理逻辑的核心工具。潜在学生通过完成 OSA，被引导将自身与"完美匹配"的理想学生形象对齐。[[Digital Self|数字自我]]（digital self，数据构建的学生画像）与[[Digital Optimum|数字最优]]（digital optimum，算法优化的理想参照）之间的差距，驱动着持续的自我优化行为（Thompson et al., 2022, pp.224–226）。详见 [[Online Self-Assessment#数据化与主体化效应]]。
 
 ### "好学生"含义的转变
 
@@ -88,7 +88,7 @@ updated: 2026-05-20
 
 > [!warning]
 
-- **个体化责任的过度赋予**：将学业成功框架为个人选择问题，忽视了结构性不平等——入学前的"起点差异"（如社会经济背景、学校质量）在 [[Online Self-Assessment|OSA]] 的自我反思框架中被转化为"个人需要弥补的不足"
+- **个体化责任的过度赋予**：将学业成功框架为个人选择问题，忽视了结构性不平等——入学前的"起点差异"（如社会经济背景、学校质量）在 [[Online Self-Assessment|OSA]] 的自我反思框架中被[[Transfer Translation Transformation|转化]]为"个人需要弥补的不足"
 - **教育开放性的丧失**：当学生的未来被简化为"被预测的未来"（predicted future），教育的根本开放性——即 [[Bildung]] 所指向的不可预测的成长——被压缩为数据相关性（Thompson et al., 2022, p.227）
 - **批判的消解**：高等教育不只是知识和技能的获取，也包括对所呈现的知识采取批判性立场。当每个人都只关注自己的优化轨迹时，公共的学术交流空间和批判实践可能萎缩（Thompson et al., 2022, p.227）
 

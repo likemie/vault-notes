@@ -54,7 +54,7 @@ updated: 2026-05-26
 > [!warning]
 > 学界对考试问责与教育改革的关系存在显著分歧：
 
-> **批评立场**：Ball（2003）认为依赖考试成绩规制教学是有害的，因为它将教学焦点窄化为官方绩效指标所能测量的目标，挤压了更广泛的教育目的。Schweisfurth（2013）指出，当固定标准来评判学生时，更探索性、灵活的教育模式（如 LCE）成为一种奢侈。
+> **批评立场**：Ball（2003）认为依赖考试成绩规制教学是有害的，因为它将教学焦点窄化为官方[[Performance Indicators|绩效指标]]所能测量的目标，挤压了更广泛的教育目的。Schweisfurth（2013）指出，当固定标准来评判学生时，更探索性、灵活的教育模式（如 [[Learner-Centred Education|LCE]]）成为一种奢侈。
 
 > **有条件肯定立场**：Boardman & Woodruff（2004）认为高利害考试不应被绝对负面看待——部分教师从标准化测试中受益，因为它为特定技能的教学提供了框架。Solomon & Lewin（2016）也指出，在特定条件下，考试问责目标与教育改革目标可以平衡。
 
@@ -66,7 +66,7 @@ updated: 2026-05-26
 
 > [!success]
 > - 在中国，考试问责的传统可追溯至 6 世纪的[[Civil Service Examination|科举制度]]，这一传统使社会广泛认同以考试衡量教育成功，教师将追求考试优秀内化为对学生未来的道德义务——而不仅是对外部制裁的回应（Feng, 1995；Wang & McLaughlin, 2025, pp.587-589）。这构成了中国[[Examination-Oriented Education|应试教育]]独特的社会心理基础。
-> - Wang & McLaughlin（2025, pp.593-600）发现，在考试问责高度制度化的中国学校中，教师普遍将教师主导教学法与完成考试目标绑定，但部分学校通过建立学校特定的发展目标找到了考试问责与 LCE 之间的共享空间——这表明考试问责与教育改革的关系需要情境化理解，而非一概而论（详见 [[Argument_Wang_2025_CE]]）。
+> - Wang & McLaughlin（2025, pp.593-600）发现，在考试问责高度制度化的中国学校中，教师普遍将教师主导教学法与完成考试目标绑定，但部分学校通过建立学校特定的发展目标找到了考试问责与 [[Learner-Centred Education|LCE]] 之间的共享空间——这表明考试问责与教育改革的关系需要情境化理解，而非一概而论（详见 [[Argument_Wang_2025_CE]]）。
 
 ---
 
@@ -74,7 +74,7 @@ updated: 2026-05-26
 
 > [!example]
 > - [[Civil Service Examination]] — 科举制度奠定了中国以考试衡量教育成功的文化传统
-> - [[Quality Education]] — 素质教育改革旨在替代以考试为中心的应试教育
+> - [[Quality Education]] — 素质教育改革旨在替代以考试为中心的[[Examination-Oriented Education|应试教育]]
 > - [[Learner-Centred Education]] — LCE 与考试问责之间的关系是教育改革的核心张力
 > - [[Examination-Oriented Education]] — 应试教育是考试问责机制在中国特定历史文化条件下的本土形态
 

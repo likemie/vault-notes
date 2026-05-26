@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Internationalization of Higher Education|高等教育国际化]]：国际化是涵盖教学、研究、服务多领域的总体过程；跨国研究合作是其研究维度的具体实践形式
-> - vs [[Knowledge Transfer|知识转移]]：知识转移关注知识一旦被生产后进入的挪用、传授、窃取等动态过程（Partaken 的 [[Geopolitics of Knowledge|GPK]] 框架）；跨国研究合作则关注[[Knowledge Production|知识生产]]阶段的跨境协作机制
+> - vs [[Knowledge Transfer|知识转移]]：知识[[Transfer Translation Transformation|转移]]关注知识一旦被生产后进入的挪用、传授、窃取等动态过程（Partaken 的 [[Geopolitics of Knowledge|GPK]] 框架）；跨国研究合作则关注[[Knowledge Production|知识生产]]阶段的跨境协作机制
 
 ## 概念演变
 

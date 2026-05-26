@@ -43,7 +43,7 @@ updated: '2026-05-18'
 Ball 和 Youdell（2008）在其提交给 Education International 的报告中识别了全球公立学校政策中的两种私有化趋势（O'Neill et al., 2016, p.4）：
 
 1. **内生私有化**（Endogenous privatisation）：学校变得更像企业或以企业方式运营——将私营部门的管理逻辑、绩效技术和商业实践引入公立学校系统内部
-2. **外生私有化**（Exogenous privatisation）：将私营部门带入公立学校——通过合同外包、PPP、[[Partnership Schools Kura Hourua|特许学校]]等形式将教育服务的提供从公共部门转移到私营部门
+2. **外生私有化**（Exogenous privatisation）：将私营部门带入公立学校——通过合同外包、PPP、[[Partnership Schools Kura Hourua|特许学校]]等形式将教育服务的提供从公共部门[[Transfer Translation Transformation|转移]]到私营部门
 
 这两种趋势在 OECD 集团的早期教育、学校和高等教育系统中已得到相当充分的记录和理解（O'Neill et al., 2016, p.4）。
 

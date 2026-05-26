@@ -60,7 +60,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 
 > [!note] 1910s–1960s 科学管理起源与教育效率崇拜
 > - **Taylor (1911)** 出版 *The Principles of Scientific Management*，提出寻找"唯一正确方法"、将任务拆解为最小组件、消除"soldiering"（磨洋工）、最大化效率的核心原则（Eacott, 2017, p.418-419）
-> - **Fordism**：装配线的发明将生产节奏的控制从车间工匠转移到工程师和管理者办公室（Noble, 1978，引自 Johnson & Janzen, 2023, p.28）
+> - **Fordism**：装配线的发明将生产节奏的控制从车间工匠[[Transfer Translation Transformation|转移]]到工程师和管理者办公室（Noble, 1978，引自 Johnson & Janzen, 2023, p.28）
 > - **Callahan (1962)** 出版 *Education and the Cult of Efficiency*，论证 20 世纪上半叶美国公立学校改革更多受管理实践（尤其是泰勒主义）而非教育理念的影响——Eacott 以此作为分析当代 [[John Hattie|Hattie]] 崇拜的历史框架（Eacott, 2017, p.413-414）
 
 > [!note] 1950s–1980s [[Theory Movement in Educational Administration|教育行政理论运动]]与术语诞生
@@ -109,7 +109,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 
 ## 争议与批评
 
-- [[John Hattie|Hattie]]（2017, p.429）否认其工作是泰勒主义，声称 Eacott 在以"代码词"贬低对效率和严谨性的追求。Eacott（2019）反驳 Hattie 未对其主张进行实质性回应，且将批评焦点从 VL 被接受的**社会条件**转移到了 VL 的**效果**。详见 [[Cult of the Guru#争议与批评]]。
+- [[John Hattie|Hattie]]（2017, p.429）否认其工作是泰勒主义，声称 Eacott 在以"代码词"贬低对效率和严谨性的追求。Eacott（2019）反驳 Hattie 未对其主张进行实质性回应，且将批评焦点从 VL 被接受的**社会条件**[[Transfer Translation Transformation|转移]]到了 VL 的**效果**。详见 [[Cult of the Guru#争议与批评]]。
 
 ## 相关案例／政策
 
