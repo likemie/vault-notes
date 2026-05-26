@@ -108,6 +108,7 @@ updated: 2026-05-26
 > - [[Test-Based Accountability]] — LCE 的实施与考试问责之间的张力是教育改革的核心议题
 > - [[Quality Education]] — 中国素质教育改革为 LCE 的推广提供了政策框架
 > - [[Policy Borrowing]] — LCE 的全球推广是跨国教育政策借用的典型案例
+> - [[Examination-Oriented Education]] — 应试教育与 LCE 之间的关系是中国教育改革的核心张力
 
 ---
 

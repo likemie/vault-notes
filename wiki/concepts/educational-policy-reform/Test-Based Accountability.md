@@ -76,6 +76,7 @@ updated: 2026-05-26
 > - [[Civil Service Examination]] — 科举制度奠定了中国以考试衡量教育成功的文化传统
 > - [[Quality Education]] — 素质教育改革旨在替代以考试为中心的应试教育
 > - [[Learner-Centred Education]] — LCE 与考试问责之间的关系是教育改革的核心张力
+> - [[Examination-Oriented Education]] — 应试教育是考试问责机制在中国特定历史文化条件下的本土形态
 
 ---
 

@@ -1110,6 +1110,17 @@
     ]
   },
   {
+    "title": "Examination-Oriented Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Examination-Oriented Education.md",
+    "aliases": [
+      "应试教育",
+      "exam-oriented education",
+      "examination-driven education",
+      "yingshi jiaoyu"
+    ]
+  },
+  {
     "title": "Global Education Reform Movement",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md",
@@ -4231,6 +4242,15 @@
     ]
   },
   {
+    "title": "Yrjö Engeström",
+    "type": "person",
+    "path": "wiki/persons/finland/Yrjö Engeström.md",
+    "aliases": [
+      "于尔约·恩格斯特罗姆",
+      "Engeström"
+    ]
+  },
+  {
     "title": "Didier Eribon",
     "type": "person",
     "path": "wiki/persons/france/Didier Eribon.md",
@@ -5193,7 +5213,7 @@
   {
     "title": "Hattie på dansk",
     "type": "fact",
-    "path": "wiki/facts/denmark/Hattie på dansk.md",
+    "path": "wiki/facts/denmark/Hattie på dansk.md",
     "aliases": [
       "Hattie på dansk 2017",
       "Hattie på dansk 2017",
@@ -5745,7 +5765,7 @@
   {
     "title": "Foundation North Māori and Pasifika Education Initiative",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Foundation North Māori and Pasifika Education Initiative.md",
+    "path": "wiki/facts/newzealand/Foundation North Māori and Pasifika Education Initiative.md",
     "aliases": [
       "北方基金会毛利与太平洋岛民教育计划",
       "MPEI"
@@ -6564,7 +6584,7 @@
   {
     "title": "Argument_Schulte_2009_EncuentrosEducacion",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/Encuentros sobre Educación/Argument_Schulte_2009_EncuentrosEducacion.md"
+    "path": "wiki/arguments/journal-articles/Encuentros sobre Educación/Argument_Schulte_2009_EncuentrosEducacion.md"
   },
   {
     "title": "Argument_Møller_2017",
@@ -6654,7 +6674,7 @@
   {
     "title": "Argument_Sarbiewska_2019_JSR",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/Język-Szkoła-Rodzina/Argument_Sarbiewska_2019_JSR.md"
+    "path": "wiki/arguments/journal-articles/Język-Szkoła-Rodzina/Argument_Sarbiewska_2019_JSR.md"
   },
   {
     "title": "Argument_Ryabyy_2024_Maneto",
@@ -6729,7 +6749,7 @@
   {
     "title": "Argument_Håkansson_2015_Paideia",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/Paideia/Argument_Håkansson_2015_Paideia.md"
+    "path": "wiki/arguments/journal-articles/Paideia/Argument_Håkansson_2015_Paideia.md"
   },
   {
     "title": "Argument_Laursen_2015_Paideia",
@@ -6804,7 +6824,7 @@
   {
     "title": "Argument_Wecker_2016_ZfE",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
+    "path": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
   },
   {
     "title": "Argument_Cowen_2015_CHESS",
