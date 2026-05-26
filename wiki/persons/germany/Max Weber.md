@@ -26,8 +26,8 @@ related_persons:
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources:
-  - "[[郑_2023_上海三联书店]]"
   - "[[Ch11_Hartmann_2022]]"
+  - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -231,9 +231,11 @@ updated: 2026-05-26
 - **马克思主义阵营**：被视为马克思的重要补充——以宗教观念展开资本主义形成的"主观方面"，而马克思侧重"客观/物质方面"（Lichtheim，引自 Weiß, 1981）
 - **哲学**：Jaspers 认为韦伯与爱因斯坦并列为当代最伟大的哲学家；称其全部哲学思考"无一年不在想到 Max Weber"（Jaspers, 1988）
 
+---
+
 ### 学者传承
 
-- **影响了 wiki-[[Pierre Bourdieu]]** 的实践理论——Bourdieu 在建构[[Habitus|习性]]概念时承袭并超越了韦伯对行动意义的关注
+- **影响了 [[Pierre Bourdieu]]** 的实践理论——Bourdieu 在建构[[Habitus|习性]]概念时承袭并超越了韦伯对行动意义的关注
 - **影响了 [[Ann Swidler]]** 的 [[Culture as Toolkit|文化工具箱]] 理论——Swidler 与 Weber-Parsons 传统构成文化社会学的两大对立范式
 - **影响了 [[Yajun Zheng|郑雅君]]（2023）**：以韦伯诠释社会学作为全书认识论锚点，以工具/价值理性区分作为文化社会学讨论的起点；在分析大学生择业中的工作意义图式时援引韦伯的"扳道工"（switchman）假说——"直接支配人的行为的，不是理念，而是物质的和精神的兴趣。可是，由'理念'所创造出来的'世界形象'，往往像铁路上的扳道夫一样，决定了行动的轨道被兴趣推动的动力循着什么方向在行动"（郑雅君，2023，引 Weber, 2006）；在毕业出路产生机制的四分类模型中，以韦伯的价值理性概念作为横轴的理论基础
 - **影响了 Hartmann (2022) 的[[Corporate Education|企业教育]]分析**：Hartmann 以韦伯的权力-权威区分为起点，结合 DiMaggio & Powell 的[[Institutional Isomorphism|制度同构]]理论，分析[[Corporate Education|企业教育]]如何在强制型、模仿型和规范型同构三种机制中获取合法性（Hartmann, 2022, pp.182–184）
@@ -275,12 +277,41 @@ updated: 2026-05-26
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+> [!note]
+> 以下只列正式来源与正文实际使用的主要依据；`Clippings/Max Weber1.md` 和 `Clippings/Max Weber 1.md` 仅用于本次校对，不作为本条目引用来源。
 
-**生平主要依据：**
+**按时间排序：**
+
+- Weber, M. (1889). *Zur Geschichte der Handelsgesellschaften im Mittelalter: Nach südeuropäischen Quellen*. Enke.
+- Weber, M. (1891). *Die römische Agrargeschichte in ihrer Bedeutung für das Staats- und Privatrecht*. Enke.
+- Weber, M. (1892). *Die Lage der Landarbeiter im ostelbischen Deutschland*. Duncker & Humblot.
+- Weber, M. (1895). *Der Nationalstaat und die Volkswirtschaftspolitik*. Mohr.
+- Weber, M. (1904). Die "Objektivität" sozialwissenschaftlicher und sozialpolitischer Erkenntnis. *Archiv für Sozialwissenschaft und Sozialpolitik, 19*, 22–87.
+- Weber, M. (1904–1905). Die protestantische Ethik und der Geist des Kapitalismus. *Archiv für Sozialwissenschaft und Sozialpolitik, 20–21*.
+- Weber, M. (1915–1920). *Die Wirtschaftsethik der Weltreligionen* [essays]. *Archiv für Sozialwissenschaft und Sozialpolitik*.
+- Weber, M. (1919). *Wissenschaft als Beruf*. Duncker & Humblot.
+- Weber, M. (1919). *Politik als Beruf*. Duncker & Humblot.
+- Weber, M. (1920–1921). *Gesammelte Aufsätze zur Religionssoziologie* (Vols. 1–3). Mohr.
+- Weber, M. (1921). *Die rationalen und soziologischen Grundlagen der Musik*. Drei Masken.
+- Weber, M. (1921–1922). *Wirtschaft und Gesellschaft*. Mohr.
+- Weber, M. (1926/1984). *Max Weber. Ein Lebensbild*. Mohr.
+- Löwith, K. (1960). *Max Weber und Karl Marx*. Kohlhammer.
+- Baumgarten, E. (1964). *Max Weber: Werk und Person*. Mohr.
+- Mayntz, R. (1968). *Max Webers Idealtypus der Bürokratie und die Organisationssoziologie*. Kölner Zeitschrift für Soziologie und Sozialpsychologie.
+- Mommsen, W. J. (1974). *Max Weber und die deutsche Politik 1890–1920* (2. Aufl.). Mohr.
+- Weiß, J. (1981). *Max Webers Grundlegung der Soziologie*. Saur.
+- Kocka, J. (Ed.). (1986). *Max Weber, der Historiker*. Vandenhoeck & Ruprecht.
+- Jaspers, K. (1988). *Max Weber: Politiker, Forscher, Philosoph*. Piper.
+- Michaels, A. (2001). Max Webers Hinduismus- und Buddhismus-Studien. In H. G. Kippenberg & M. Riesebrodt (Eds.), *Max Webers "Religionssystematik"*. Mohr.
+- Radkau, J. (2005). *Max Weber. Die Leidenschaft des Denkens*. Hanser.
+- Dilcher, G. (2007). Max Webers frühe Rechtsgeschichte. In *Max Weber als Jurist und Ökonom*. Nomos.
+- Steinert, H. (2010). *Max Webers unwiderlegbare Fehlkonstruktionen*. Campus.
+- Scaff, L. A. (2013). *Max Weber in America*. Princeton University Press.
 - Kaesler, D. (2014). *Max Weber. Preuße, Denker, Muttersohn*. Beck.
 - Kaube, J. (2014). *Max Weber. Ein Leben zwischen den Epochen*. Rowohlt.
-- Mommsen, W. J. (1974). *Max Weber und die deutsche Politik 1890–1920* (2. Aufl.). Mohr.
-- Müller, H.-P. & Sigmund, S. (Hrsg.) (2014). *Max Weber-Handbuch. Leben – Werk – Wirkung*. Metzler.
-- Radkau, J. (2005). *Max Weber. Die Leidenschaft des Denkens*. Hanser.
-- Weber, M. (1926/1984). *Max Weber. Ein Lebensbild*. Mohr.
+- Müller, H.-P., & Sigmund, S. (Eds.). (2014). *Max Weber-Handbuch. Leben - Werk - Wirkung*. Metzler.
+- Tacke, V. (2014). Organisationssoziologie. In H.-P. Müller & S. Sigmund (Eds.), *Max Weber-Handbuch*. Metzler.
+- Anter, A. (2016). Max Webers Staatssoziologie. In *Max Weber-Handbuch*. Metzler.
+- Bruhns, H. (2017). *Max Weber und der Erste Weltkrieg*. Mohr.
+- Hartmann, E. (2022). The internationalisation of further education: Between geoeconomics and geopolitics. In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education* (pp. 179–198). Springer. 参见 [[Ch11_Hartmann_2022]] 与 [[Argument_Hartmann_2022_CorporateEducation]]。
+- 郑雅君 (2023). *金榜题名之后：大学生出路分化之谜*. 上海三联书店. 参见 [[郑_2023_上海三联书店]]。
