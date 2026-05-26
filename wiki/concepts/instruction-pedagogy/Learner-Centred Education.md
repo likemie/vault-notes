@@ -7,7 +7,7 @@ aliases:
   - learner-centred pedagogy
   - student-centred education
   - learner-centered education
-summary: "以学生为学习主体、强调学生自主性、对话教学和批判性思维的教学理念，近几十年来在全球广泛推广；Schweisfurth（2013）提出七项最低实施标准，Bremner（2021）呼吁更灵活的情境化定义"
+summary: "以学生为学习主体、强调学生自主性、对话教学和批判性思维的教学理念，近几十年来在全球广泛推广，以激发内在动机、联系学生经验、尊重学生声音和培养批判性思维为最低实施标准，在不同文化语境中含义和实施程度差异显著"
 type: concept
 tags:
   - theme/pedagogy

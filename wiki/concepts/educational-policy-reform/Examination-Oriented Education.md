@@ -5,7 +5,7 @@ aliases:
   - exam-oriented education
   - examination-driven education
   - yingshi jiaoyu
-summary: "以标准化考试成绩为教育质量核心衡量指标的教学与评价体系，在中国可追溯至科举制度，由教师主导教学法、多层问责规则、家长支持和社会流动信念共同维持，You（2019）将其诊断为在现实和实质中运作的主导系统"
+summary: "以标准化考试成绩为教育质量核心衡量指标的教学与评价体系，在中国可追溯至科举制度，由教师主导教学法、多层问责规则、家长支持和社会流动信念共同维持，是当代中国教育实践中实际运作的主导系统"
 type: concept
 tags:
   - region/china

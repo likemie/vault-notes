@@ -7,7 +7,7 @@ aliases:
   - cultural-historical activity theory
   - CHAT
   - Engeström activity theory
-summary: "Engeström（2001）在 Vygotsky 中介三角模型基础上发展出的第三代活动理论，聚焦多个活动系统之间的互动与边界跨越，以矛盾为变革动力，通过扩展性改造实现共享目标"
+summary: "在 Vygotsky 中介三角模型基础上发展出的第三代活动理论，聚焦多个活动系统之间的互动与边界跨越，以矛盾为变革动力，通过扩展性改造实现共享目标"
 type: theory
 tags:
   - theory/sociocultural

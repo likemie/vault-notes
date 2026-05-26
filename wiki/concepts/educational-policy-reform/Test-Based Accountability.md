@@ -5,7 +5,7 @@ aliases:
   - 考试问责
   - test-oriented accountability
   - high-stakes testing accountability
-summary: "Kogan（1986）定义为角色承担者对其行为负责并可被审查和制裁的条件；教育中特指以学生考试成绩来规制教学实践的问责机制，是全球教育体系中最显著的特征之一"
+summary: "以学生标准化考试成绩来评估、监督和规制学校与教师教学实践的制度安排，核心在于将评价结果制度化地与奖惩挂钩，是全球教育体系中最显著的特征之一"
 type: concept
 tags:
   - theme/accountability
