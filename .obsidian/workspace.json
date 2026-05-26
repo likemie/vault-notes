@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
+                "file": "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Boccanfuso_Hall_2025_Alignment"
+              "title": "Argument_Rappleye_2006_RCIE"
             }
           }
         ]
@@ -189,18 +189,25 @@
   },
   "active": "d095fc36407c70a5",
   "lastOpenFiles": [
+    "wiki/concepts/higher-education/Third Mission (Universities).md",
+    "sources/Rappleye_2006_RCIE/Rappleye_2006_RCIE.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
+    "wiki/concepts/higher-education/Knowledge Exchange.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025.pdf",
+    "raw/Argument_Hall(Ed.)_2025_Springer_ch2.pdf",
+    "raw/978-3-031-94913-5_2.pdf",
+    "books/Hall_Boccanfuso_2025_Springer/Hall_Boccanfuso_2025_Springer_overview.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025.pdf",
     "books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025.md",
-    "books/Hall_Boccanfuso_2025_Springer/Hall_Boccanfuso_2025_Springer_overview.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025.md.tmp.30437.442160e02d9b",
     "wiki/facts/us/Smith Lever Act of 1914.md",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png.jpg",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
     "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
     "sources/Rappleye_2006_RCIE/Rappleye_2006_RCIE.pdf",
-    "sources/Rappleye_2006_RCIE/Rappleye_2006_RCIE.md",
     "wiki/concepts/instruction-pedagogy/Feedback.md",
     "wiki/arguments/journal-articles/Paideia/Argument_Allerup_2015_Paideia.md",
     "wiki/persons/germany/Andreas Helmke.md",
@@ -216,9 +223,6 @@
     "wiki/concepts/higher-education/Innovation Ecosystem.md",
     "wiki/persons/uk/George Berkeley.md",
     "wiki/facts/us/Morrill Land-Grant Act of 1862.md",
-    "wiki/concepts/higher-education/Technology Transfer.md",
-    "wiki/concepts/higher-education/University-Industry Collaboration.md",
-    "wiki/facts/us/University Industry Demonstration Partnership.md",
     "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Hall_Boccanfuso_2025_Springer/figures/ui_engagement_loop_zh.svg",
@@ -230,9 +234,6 @@
     "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
-    "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
-    "raw/(Ed.)前言 University-Industry Collaboration.pdf",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer",
-    "books/Hall_Boccanfuso_2025_Springer"
+    "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg"
   ]
 }
