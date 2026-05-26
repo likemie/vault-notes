@@ -3,14 +3,14 @@ title: Work Meaning Schemas
 aliases:
   - 工作意义三角图式
   - 三角图式结构
-summary: "大学生理解工作意义的三角图式结构，由地位保障与家庭责任、家国理想与社会价值、个体趣味与自我表达三种文化逻辑构成。"
+summary: 大学生理解工作意义的三角图式结构，由地位保障与家庭责任、家国理想与社会价值、个体趣味与自我表达三种文化逻辑构成。
 type: concept
 tags:
-- work-meaning
-- higher-education
-- cultural-sociology
-- region/china
-- level/higher-ed
+  - work-meaning
+  - higher-education
+  - cultural-sociology
+  - region/china
+  - level/higher-ed
 related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Multiplicity]]"
@@ -20,15 +20,15 @@ related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Ann Swidler]]"
-  - "[[Max Weber]]"
+  - "[[Max Weber1]]"
 related_facts: []
 related_arguments: []
 sources:
   - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
-created: '2026-05-09'
-updated: '2026-05-18'
+created: 2026-05-09
+updated: 2026-05-18
 ---
 
 ## 定义
@@ -124,7 +124,7 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - [[Culture as Toolkit]] — [[Ann Swidler]]（1986）的工具箱理论是本章最核心的理论资源：三种图式即为名校大学生文化工具箱中可供调用的工作意义资源。"人们所知道的文化比他们所使用的要多"——大学生在适当情形下调用工具箱中的元素去建构行动路线和自身现实（[[Yajun Zheng|郑雅君]]，2023）
-> - [[Max Weber]] — 韦伯著名的"扳道夫"假设："直接支配人的行为并非理念，而是物质型利益和理念型利益。不过，由观念创造出来的'世界图景'，常常像扳道夫一样决定了行为沿着哪条利益驱动的轨道发生"（郑雅君，2023，引 Weber, 2005[1956]）
+> - [[Max Weber1]] — 韦伯著名的"扳道夫"假设："直接支配人的行为并非理念，而是物质型利益和理念型利益。不过，由观念创造出来的'世界图景'，常常像扳道夫一样决定了行为沿着哪条利益驱动的轨道发生"（郑雅君，2023，引 Weber, 2005[1956]）
 >
 
 ## 来源

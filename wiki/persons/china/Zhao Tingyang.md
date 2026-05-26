@@ -2,7 +2,7 @@
 title: Zhao Tingyang
 aliases:
   - 赵汀阳
-summary: "中国哲学家，以天下理论著称，提出以中国为中心的天下体系作为威斯特伐利亚民族国家体系的替代方案"
+summary: 中国哲学家，以天下理论著称，提出以中国为中心的天下体系作为威斯特伐利亚民族国家体系的替代方案
 type: person
 nationality: china
 tags:

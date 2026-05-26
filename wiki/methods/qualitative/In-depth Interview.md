@@ -2,20 +2,20 @@
 title: In-depth Interview
 aliases:
   - 深度访谈
-summary: "通过持续追问、渐进聚焦和生活史叙述深入理解行动者经验与意义建构的质性资料收集方法，适合解释复杂选择和主观处境"
+summary: 通过持续追问、渐进聚焦和生活史叙述深入理解行动者经验与意义建构的质性资料收集方法，适合解释复杂选择和主观处境
 type: method
 method_type: qualitative
 tags:
-- in-depth-interview
-- qualitative-research
-- paradigm/interpretivist
+  - in-depth-interview
+  - qualitative-research
+  - paradigm/interpretivist
 related_concepts: []
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Case Study]]"
 related_persons:
-  - "[[Max Weber]]"
+  - "[[Max Weber1]]"
   - "[[Yajun Zheng]]"
 related_arguments:
   - "[[Argument_郑_2023_上海三联书店]]"
@@ -25,8 +25,8 @@ sources:
   - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft
-created: '2026-05-08'
-updated: '2026-05-21'
+created: 2026-05-08
+updated: 2026-05-21
 ---
 
 ## 定义
@@ -40,7 +40,7 @@ updated: '2026-05-21'
 
 > [!abstract] 认识论立场
 > - **诠释学范式**：社会行动的意义并非客观存在等待被发现，而是由行动者主观建构、研究者通过对话来理解的。深度访谈的目标不是"测量"预设变量，而是进入受访者"编织的意义之网"（Geertz, 1973）
-> - **[[Max Weber|韦伯]]传统**：社会学的基本任务是"对以意向为取向的行为作解释性的理解"——深度访谈是实现这一任务的直接工具
+> - **[[Max Weber1|韦伯]]传统**：社会学的基本任务是"对以意向为取向的行为作解释性的理解"——深度访谈是实现这一任务的直接工具
 > - **建构主义取向**：知识在访谈对话中共同生产，而非从受访者脑中"提取"。研究者的提问方式、回应策略和在场状态都参与了意义的建构
 
 ## 核心特征
@@ -124,6 +124,18 @@ updated: '2026-05-21'
 > - **方法价值**：该研究展示了深度访谈在获取文化边缘群体声音方面的独特功能——这些群体的经验极少被纳入官方课程叙事，访谈成为其表达替代性文化理解的几乎唯一渠道
 >
 > 详见 [[Argument_Yu_2024_CE]]。
+
+> [!example] 案例三：Wang & McLaughlin（2025）——中国学校 LCE 本土化研究
+> Wang & McLaughlin（2025）以半结构化深度访谈为核心方法，研究中国四所学校在考试问责压力下推进 LCE 的过程。具体实施：
+>
+> - **样本**：4 位校长、9 位骨干教师，来自两所城市学校和两所农村学校
+> - **轮次与时长**：教师每人两轮、三位校长两轮、一位校长一轮，每次约 50 分钟
+> - **语言**：以中文（普通话）进行，研究者和受访者均为中文母语者
+> - **焦点**：第一轮聚焦 LCE 实施和考试问责机制的运作、近期成就与挑战、教学改革与考试优异的兼容性；第二轮在第一轮基础上进一步深入教师评价标准对改革态度的影响
+> - **分析方法**：Nvivo 11 辅助编码——开放编码后，按活动理论六要素框架重组为解释性主题
+> - **辅助数据**：教育局评价标准文件、学校课堂教学观摩方案、田野笔记
+>
+> 详见 [[Argument_Wang_2025_CE]]。
 
 ## 来源
 

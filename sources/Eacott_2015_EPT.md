@@ -9,6 +9,7 @@ extracted_to:
   - "[[Thomas Barr Greenfield]]"
   - "[[Helen Gunter]]"
   - "[[Scott Eacott]]"
+  - "[[Pierre Bourdieu]]"
 processed_date: 2026-05-02
 ---
 

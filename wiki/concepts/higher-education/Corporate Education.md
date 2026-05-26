@@ -6,12 +6,12 @@ aliases:
   - company-based education
   - firm-based training
   - corporate training
-summary: "企业为雇员组织和提供的教育培训形式，范围涵盖初始职业教育到高层管理培养，并常与企业文化塑造和战略协调相连"
+summary: 企业为雇员组织和提供的教育培训形式，范围涵盖初始职业教育到高层管理培养，并常与企业文化塑造和战略协调相连
 type: concept
 tags:
-- level/adult
-- region/global
-- subject/comparative-education
+  - level/adult
+  - region/global
+  - subject/comparative-education
 related_concepts:
   - "[[Further Education]]"
   - "[[Corporate University]]"
@@ -21,7 +21,7 @@ related_theories:
   - "[[Institutional Isomorphism]]"
 related_methods: []
 related_persons:
-  - "[[Max Weber]]"
+  - "[[Max Weber1]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
@@ -29,8 +29,8 @@ sources:
   - "[[Ch11_Hartmann_2022]]"
 confidence: medium
 status: draft
-created: '2026-05-18'
-updated: '2026-05-18'
+created: 2026-05-18
+updated: 2026-05-18
 ---
 
 # Corporate Education
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 
 > [!tip]
 > - [[Institutional Isomorphism]] — DiMaggio & Powell 的三种同构类型（强制型、模仿型、规范型）为企业教育的规范扩散提供了核心分析框架。详见 [[Argument_Hartmann_2022_CorporateEducation]] 理论框架部分（Hartmann, 2022, pp.183–184）
-> - [[Max Weber]] 的权威理论 — 区分权力（Macht）与权威（Herrschaft），为企业教育如何从"公司在权威中"走向"培训是权威"提供了合法性分析基础（Hartmann, 2022, pp.182–183）
+> - [[Max Weber1]] 的权威理论 — 区分权力（Macht）与权威（Herrschaft），为企业教育如何从"公司在权威中"走向"培训是权威"提供了合法性分析基础（Hartmann, 2022, pp.182–183）
 
 ---
 

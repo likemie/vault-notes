@@ -1262,6 +1262,17 @@
     ]
   },
   {
+    "title": "Test-Based Accountability",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Test-Based Accountability.md",
+    "aliases": [
+      "基于考试的问责制",
+      "考试问责",
+      "test-oriented accountability",
+      "high-stakes testing accountability"
+    ]
+  },
+  {
     "title": "Venture Philanthropy",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Venture Philanthropy.md",
@@ -1794,6 +1805,19 @@
     "path": "wiki/concepts/instruction-pedagogy/Language Experience Approach.md",
     "aliases": [
       "语言经验法"
+    ]
+  },
+  {
+    "title": "Learner-Centred Education",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Learner-Centred Education.md",
+    "aliases": [
+      "以学生为中心的教育",
+      "以学习者为中心的教育",
+      "LCE",
+      "learner-centred pedagogy",
+      "student-centred education",
+      "learner-centered education"
     ]
   },
   {
@@ -3130,6 +3154,19 @@
     "aliases": [
       "控制社会",
       "société de contrôle"
+    ]
+  },
+  {
+    "title": "Third Generation Activity Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Third Generation Activity Theory.md",
+    "aliases": [
+      "第三代活动理论",
+      "activity theory",
+      "活动理论",
+      "cultural-historical activity theory",
+      "CHAT",
+      "Engeström activity theory"
     ]
   },
   {
@@ -6393,6 +6430,11 @@
     "title": "Argument_Vickers_2024_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Vickers_2024_CE.md"
+  },
+  {
+    "title": "Argument_Wang_2025_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Wang_2025_CE.md"
   },
   {
     "title": "Argument_Xu_2024_CE",

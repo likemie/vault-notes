@@ -4,14 +4,14 @@ aliases:
   - 毕业出路产生机制四分类
   - 2×2四分类模型
   - 出路分化四类型
-summary: "解释大学生毕业出路分化的 2×2 四分类模型，以目的手段行动力和价值信念驱动力为两轴，划分自主驱动者、机会主义者、迷失无从者和价值归顺者"
+summary: 解释大学生毕业出路分化的 2×2 四分类模型，以目的手段行动力和价值信念驱动力为两轴，划分自主驱动者、机会主义者、迷失无从者和价值归顺者
 type: concept
 tags:
-- graduation-pathway
-- higher-education
-- social-stratification
-- region/china
-- level/higher-ed
+  - graduation-pathway
+  - higher-education
+  - social-stratification
+  - region/china
+  - level/higher-ed
 related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
@@ -25,15 +25,15 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Max Weber]]"
+  - "[[Max Weber1]]"
 related_facts: []
 related_arguments: []
 sources:
   - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
-created: '2026-05-09'
-updated: '2026-05-18'
+created: 2026-05-09
+updated: 2026-05-18
 ---
 
 ## 定义
@@ -94,7 +94,7 @@ updated: '2026-05-18'
 > [!info] 理论基础
 > 该模型整合了文化社会学中关于文化与行动关系的两种理论路径（[[Yajun Zheng|郑雅君]]，2023）：
 >
-> - **价值观驱动范式**（[[Max Weber|韦伯]]-帕森斯传统）：解释人的行动目的如何确立——对应横轴的价值信念驱动力维度
+> - **价值观驱动范式**（[[Max Weber1|韦伯]]-帕森斯传统）：解释人的行动目的如何确立——对应横轴的价值信念驱动力维度
 > - **[[Culture as Toolkit|文化工具箱]]范式**（Swidler, 1986）：解释人如何像使用工具那样使用文化去达到预先确立的目的——对应纵轴的目的-手段行动力维度
 >
 > 两种路径"有论无争，甚至互相补充"——价值观驱动解释目的如何确立，工具箱解释人如何利用文化去达到目的（郑雅君，2023）。

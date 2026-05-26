@@ -1,19 +1,19 @@
 ---
 title: Argument_Thompson_2022_Promising_Student
-summary: "Ch13 Thompson, Schröder & Wrana，以 Foucault 治理术和 Deleuze 控制社会为理论框架，分析在线自评工具如何作为主体化工具在竞争性地缘政治框架中建构有前景的学生，揭示数字化治理如何将入学前选择重构为自我评估和自我优化的持续性调制过程"
+summary: Ch13 Thompson, Schröder & Wrana，以 Foucault 治理术和 Deleuze 控制社会为理论框架，分析在线自评工具如何作为主体化工具在竞争性地缘政治框架中建构有前景的学生，揭示数字化治理如何将入学前选择重构为自我评估和自我优化的持续性调制过程
 type: argument
 subtype: book-chapter
 publication_type: book
 book_title: Geopolitical Transformations in Higher Education
 citation: "Thompson, C., Schröder, S., & Wrana, D. (2022). Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 217–230). Springer."
 tags:
-- region/global
-- region/germany
-- level/higher-ed
-- theme/subjectification
-- theme/digitalization
-- theme/competitiveness
-- theory/governmentality
+  - region/global
+  - region/germany
+  - level/higher-ed
+  - theme/subjectification
+  - theme/digitalization
+  - theme/competitiveness
+  - theory/governmentality
 related_concepts:
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
@@ -29,16 +29,16 @@ related_theories:
 related_methods:
   - "[[Matching]]"
 related_persons:
-  - "[[Max Weber]]"
+  - "[[Max Weber1]]"
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
 sources:
   - "[[Ch13_Thompson_2022]]"
-part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
+part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
-created: '2026-05-19'
-updated: '2026-05-19'
+created: 2026-05-19
+updated: 2026-05-19
 ---
 
 # Argument_Thompson_2022_Promising_Student
@@ -64,7 +64,7 @@ updated: '2026-05-19'
 > [!info]
 > 本章为理论-分析讨论（theoretical-analytical discussion），基于对大学政策文件、进展报告和 [[Online Self-Assessment|OSA]] 操作手册的话语分析。
 > - 方法：话语分析（discourse analysis，作者声明在章篇幅内无法提供完整的话语分析，仅"识别核心主题或方面"（p.223））
-> - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 [[Max Weber|Weber]] et al., 2019），以及已有关于 OSA 的实证研究文献（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
+> - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 [[Max Weber1|Weber]] et al., 2019），以及已有关于 OSA 的实证研究文献（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
 > - 案例材料：荷兰 Saxion 大学的"学习选择检查"YouTube 视频（2020）
 
 ## 论证结构

@@ -3,7 +3,7 @@ title: Champ
 aliases:
   - 场域
   - field
-summary: "Pierre Bourdieu 的核心概念，指具有相对自主性、内部竞争规则和资本分布结构的社会空间，用于分析教育、文化和职业领域中的位置关系与权力运作。"
+summary: Pierre Bourdieu 的核心概念，指具有相对自主性、内部竞争规则和资本分布结构的社会空间，用于分析教育、文化和职业领域中的位置关系与权力运作。
 type: concept
 tags:
   - field-theory
@@ -25,7 +25,7 @@ related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
-  - "[[Max Weber]]"
+  - "[[Max Weber1]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
@@ -65,7 +65,7 @@ updated: 2026-05-18
 > 场域概念从 [[Pierre Bourdieu|Bourdieu]] 早期民族志田野中逐渐浮现，最终在 1980s 后期获得明确的系统性表述：
 
 - **1950s–1960s 阿尔及利亚／Kabylie 早期田野** — 在 *Sociologie de l'Algérie*（1958）和 Kabylie 民族志中，Bourdieu 首次观察到婚姻策略、荣誉竞争等在不同社会空间中遵循各自的规则，为场域概念的萌生奠定了经验基础
-- **[[Max Weber|Weber]] 的"生活秩序"（Lebensordnungen）** — 场域概念部分借鉴 Weber 对现代社会分化为各自遵循自身逻辑的相对自主领域（宗教、经济、政治、艺术、科学）的分析，但以关系性思维取代了实质主义倾向
+- **[[Max Weber1|Weber]] 的"生活秩序"（Lebensordnungen）** — 场域概念部分借鉴 Weber 对现代社会分化为各自遵循自身逻辑的相对自主领域（宗教、经济、政治、艺术、科学）的分析，但以关系性思维取代了实质主义倾向
 - ***Choses dites*（1987）** — Bourdieu 在此书中明确宣布其方法论公式为**结构主义建构论**（structuralisme constructiviste），并以公式提出实践理论的核心关系式：[([[Habitus|习性]])(资本)] + 场域 = 实践，场域概念至此完全成熟
 - ***Les Règles de l'art*（1992）** — 以福楼拜和 19 世纪法国文学场域诞生的精细历史分析，展示了场域自主性的生成过程和 illusio 概念的重要性
 
