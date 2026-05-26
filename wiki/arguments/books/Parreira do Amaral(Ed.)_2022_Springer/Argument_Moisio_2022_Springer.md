@@ -55,10 +55,10 @@ updated: '2026-05-18'
 
 > [!abstract]
 
-Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based Economy|知识经济]]化地缘政治的复合框架：
+Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based Economization|知识经济化]]地缘政治的复合框架：
 
 - David Harvey（1985/2001）的资本主义地缘政治理论 — 本章最核心的理论支柱。地缘政治源于资本主义生产方式内部的政治经济动力：资本流通中的固着与流动之间的张力（tension between fixity and motion）。资本主义需要地方锚定来促进流动，但流动又不断破坏既有地方配置。这一悖论成为 Moisio 解释[[Knowledge-Based Economization|知识经济化]]空间动态的核心机制（Moisio, 2022, pp.27–28）
-- [[Knowledge-Based Economization]] — Moisio（2018）自有的核心分析概念，将注意力从 KBE 作为既成事物转向其被持续生产的过程。该概念架起了经济分析和地缘政治分析之间的桥梁（Moisio, 2022, pp.24–26）
+- [[Knowledge-Based Economization]] — Moisio（2018）自有的核心分析概念，将注意力从 [[Knowledge-Based Economy|KBE]] 作为既成事物转向其被持续生产的过程。该概念架起了经济分析和地缘政治分析之间的桥梁（Moisio, 2022, pp.24–26）
 - Polanyi（1982）的经济作为制度化过程（economy as instituted process）— 论证所有资本积累体制（包括 KBE）均依赖于国家和额外经济实践（教育、科学、法律等）的构成性角色（Moisio, 2022, p.25）
 - Ҫalişkan & Callon（2009）的 economization 概念 — 提供从"经济"到"经济化过程"的方法论转向关键资源（Moisio, 2022, p.25）
 - Jessop（2005）的[[Cultural Political Economy|文化政治经济学]]（CPE）— 提供"想象"（imaginaries）在资本积累体制中的构成性和履行性角色分析，以及 KBE 作为"元治理"（meta-governance）对象的定位（Moisio, 2022, pp.23, 26）

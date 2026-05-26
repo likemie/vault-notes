@@ -124,7 +124,7 @@ Partaken (2022) 通过 Google Books Ngram Viewer 词频分析追踪了"geopoliti
 
 两条脉络并非前后替代、也非一方从属于另一方——它们从不同的学术起点出发，分别抵达了"地缘政治与知识的关系"这一共同问题域。
 
-**批判地缘政治学脉络**：[[Sami Moisio]] (2018) 将地缘政治概念与全球层面的[[Knowledge-Based Economy|知识经济]]化相链接，提出[[Knowledge-Based Economization|知识经济化]]概念——将注意力转向"知识密集型资本主义的物质过程……以及这种资本主义通过想象和客观化社会实践被话语建构的过程"（Moisio, 2018, p.1, cited in Thompson & Parreira do Amaral, 2022, p.11）。Moisio（2022）系统阐述了该转向的两大理论资源：Harvey 的[[Fixity-Motion Tension|固着-流动张力]]和 Porter 的[[National Competitive Advantage|国家竞争优势]]理论。知识经济化过程中的Hub and [[Flow]] 想象——将世界划分为知识资本流动的枢纽中心与边缘区域——正是这种地缘政治想象的当代表现（Moisio, 2022, pp.27–28）。该脉络的完整理论框架和在教育研究中的应用详见 [[Critical Geopolitics]]。
+**批判地缘政治学脉络**：[[Sami Moisio]] (2018) 将地缘政治概念与全球层面的[[Knowledge-Based Economization|知识经济化]]相链接，提出[[Knowledge-Based Economization|知识经济化]]概念——将注意力转向"知识密集型资本主义的物质过程……以及这种资本主义通过想象和客观化社会实践被话语建构的过程"（Moisio, 2018, p.1, cited in Thompson & Parreira do Amaral, 2022, p.11）。Moisio（2022）系统阐述了该转向的两大理论资源：Harvey 的[[Fixity-Motion Tension|固着-流动张力]]和 Porter 的[[National Competitive Advantage|国家竞争优势]]理论。[[Knowledge-Based Economy|知识经济]]化过程中的Hub and [[Flow]] 想象——将世界划分为知识资本流动的枢纽中心与边缘区域——正是这种地缘政治想象的当代表现（Moisio, 2022, pp.27–28）。该脉络的完整理论框架和在教育研究中的应用详见 [[Critical Geopolitics]]。
 
 **去殖民知识地缘政治脉络**：1990 年代至 2000 年代初从拉丁美洲发展起来。核心主张——西方认识论通过殖民差异（colonial difference）系统性地压制替代性认知方式，[[Knowledge Production|知识生产]]本身就是殖民性的运作场所——由 Mignolo（2002, 2003）、Enrique Dussel（1993, 1999）等学者系统阐述，后续延伸至"南方认识论"（Connell, 2007）和"多元世界"建构（Escobar, 2018; Reiter, 2019）。详见 [[Decolonial Geopolitics of Knowledge]]。
 

@@ -317,7 +317,7 @@ Li 的话语分析还识别出第二种认知差异：**母亲如何向儿童解
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Li_2012_Cambridge]]（第 7 章）— 使用 MCC 方法比较欧裔美国与台湾家庭的[[Socrates|苏格拉底]]式与[[Confucian Tutoring Style|儒家式辅导]]方式
+> - [[Argument_Li_2012_Cambridge]]（第 7 章）— 使用 MCC 方法比较欧裔美国与台湾家庭的[[Socratic Tutoring Style|苏格拉底式辅导]]与[[Confucian Tutoring Style|儒家式辅导]]方式
 
 ---
 

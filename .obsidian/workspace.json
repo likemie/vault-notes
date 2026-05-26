@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/methods/qualitative/Mother-Child Conversation.md",
+                "file": "vault-schema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mother-Child Conversation"
+              "title": "vault-schema"
             }
           }
         ]
@@ -189,6 +189,16 @@
   },
   "active": "f0e659251f42da40",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "wiki/methods/index.md",
+    "sources/temp_2024_Compare.md",
+    "sources/temp_2024_Compare.pdf",
+    "raw/10.1080_03050068.2024.2398342.pdf",
+    "wiki/methods/qualitative/Qualitative Research.md",
+    "wiki/methods/qualitative/Philosophical Analysis in Education.md",
+    "wiki/methods/qualitative/Mother-Child Conversation.md",
+    "wiki/concepts/instruction-pedagogy/Confucian Tutoring Style.md",
+    "wiki/concepts/instruction-pedagogy/Socratic Tutoring Style.md",
     "wiki/methods/qualitative/MCC Discourse Analysis Examples.md",
     "wiki/methods/qualitative/In-depth Interview.md",
     "wiki/methods/qualitative/Constructivist Grounded Theory.md",
@@ -207,14 +217,6 @@
     "Clippings/Макаренко, Антон Семёнович — Википедия.md",
     "wiki/persons/finland/Yrjö Engeström.md",
     "wiki/theories/educational-philosophy/Third Generation Activity Theory.md",
-    "wiki/concepts/educational-policy-reform/Examination-Oriented Education.md",
-    "wiki/concepts/educational-policy-reform/Test-Based Accountability.md",
-    "wiki/concepts/educational-policy-reform/Quality Education.md",
-    "wiki/facts/china/Civil Service Examination.md",
-    "wiki/persons/germany/Max Weber.md",
-    "wiki/persons/germany/Hilbert Meyer.md",
-    "wiki/persons/france/Pierre Bourdieu.md",
-    "Clippings/wiki-Pierre Bourdieu.md",
     "sources/Wang_2025_CE.pdf",
     "raw/10.1080_03050068.2024.2423445.pdf",
     "wiki/arguments/journal-articles/Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal",
@@ -223,8 +225,6 @@
     "raw/ojs_admin,+Ryabyy+Maneto.pdf",
     "wiki/arguments/journal-articles/Encuentros sobre Educación",
     "wiki/persons/china/Hu Shi.md.tmp.78410.a9d6718fa1c3",
-    "sources/Schulte_2009_EncuentrosEducacion.pdf",
-    "raw/kpjbrennan,+Journal+manager,+schulte.pdf",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig7_Historical_Shifts.png",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig6_Shifts_Through_Cycle.png",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig5_Nature_of_Attraction.png",

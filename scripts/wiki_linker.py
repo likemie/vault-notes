@@ -464,7 +464,41 @@ def current_file_title(path: Path, path_to_title: dict[str, str]) -> str:
     return path_to_title.get(rel, path.stem)
 
 
-def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -> tuple[str, int]:
+def embedded_in_longer_cjk_term(
+    line: str,
+    match: re.Match[str],
+    display: str,
+    target: str,
+    cjk_term_index: dict[str, list[Term]] | None,
+) -> bool:
+    if not cjk_term_index or not contains_cjk(display):
+        return False
+
+    plain_line = line[: match.start()] + display + line[match.end() :]
+    display_start = match.start()
+    display_end = display_start + len(display)
+    for start in range(display_start + 1):
+        if start >= len(plain_line):
+            break
+        for term in cjk_term_index.get(term_first_key(plain_line[start]), ()):
+            end = start + len(term.text)
+            if len(term.text) <= len(display) or term.target == target:
+                continue
+            if not (start <= display_start and display_end <= end):
+                continue
+            if not match_term_at(plain_line, start, term.text):
+                continue
+            if not valid_boundary(plain_line, start, end, term.text):
+                continue
+            return True
+    return False
+
+
+def clean_invalid_links_in_text(
+    text: str,
+    entries_by_title: dict[str, Entry],
+    cjk_term_index: dict[str, list[Term]] | None = None,
+) -> tuple[str, int]:
     """Clean invalid wikilinks, but leave Markdown table rows untouched.
 
     Table rows are structurally fragile: removing a display text that contains a
@@ -498,6 +532,9 @@ def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -
                 if display_clean not in valid_displays:
                     removed += 1
                     return display
+                if embedded_in_longer_cjk_term(line, m, display, target, cjk_term_index):
+                    removed += 1
+                    return display
             return m.group(0)
 
         return WIKILINK_RE.sub(repl, line)
@@ -505,7 +542,11 @@ def clean_invalid_links_in_text(text: str, entries_by_title: dict[str, Entry]) -
     return "".join(clean_line(line) for line in text.splitlines(keepends=True)), removed
 
 
-def clean_invalid_links(body: str, entries_by_title: dict[str, Entry]) -> tuple[str, int]:
+def clean_invalid_links(
+    body: str,
+    entries_by_title: dict[str, Entry],
+    cjk_term_index: dict[str, list[Term]] | None = None,
+) -> tuple[str, int]:
     cleaned_sections: list[str] = []
     removed = 0
 
@@ -513,7 +554,7 @@ def clean_invalid_links(body: str, entries_by_title: dict[str, Entry]) -> tuple[
         if is_source_section_heading(heading):
             cleaned_sections.append(section)
             continue
-        cleaned, count = clean_invalid_links_in_text(section, entries_by_title)
+        cleaned, count = clean_invalid_links_in_text(section, entries_by_title, cjk_term_index)
         cleaned_sections.append(cleaned)
         removed += count
 
@@ -582,7 +623,22 @@ def cjk_terms_by_first_char(terms: list[Term]) -> dict[str, list[Term]]:
     for term in terms:
         if not term.text or not contains_cjk(term.text):
             continue
-        grouped.setdefault(term.text[0], []).append(term)
+        grouped.setdefault(term_first_key(term.text[0]), []).append(term)
+    return grouped
+
+
+def term_first_key(ch: str) -> str:
+    if ch.isascii() and ch.isalpha():
+        return ch.casefold()
+    return ch
+
+
+def terms_by_first_char(terms: list[Term]) -> dict[str, list[Term]]:
+    grouped: dict[str, list[Term]] = {}
+    for term in terms:
+        if not term.text:
+            continue
+        grouped.setdefault(term_first_key(term.text[0]), []).append(term)
     return grouped
 
 
@@ -595,7 +651,7 @@ def preferred_cjk_term_lengths(
     preferred: dict[str, int] = {}
     i = 0
     while i < len(chunk):
-        for term in terms_by_first.get(chunk[i], ()):
+        for term in terms_by_first.get(term_first_key(chunk[i]), ()):
             if term.target == current_title:
                 continue
             if not match_term_at(chunk, i, term.text):
@@ -612,9 +668,12 @@ def merge_preferred_cjk_lengths(base: dict[str, int], extra: dict[str, int]) -> 
         base[target] = max(base.get(target, 0), length)
 
 
-def collect_preferred_cjk_lengths(section: str, terms: list[Term], current_title: str) -> dict[str, int]:
+def collect_preferred_cjk_lengths(
+    section: str,
+    terms_by_first: dict[str, list[Term]],
+    current_title: str,
+) -> dict[str, int]:
     preferred: dict[str, int] = {}
-    terms_by_first = cjk_terms_by_first_char(terms)
     for protected, chunk in split_protected_spans(section):
         if protected or not chunk:
             continue
@@ -653,7 +712,7 @@ def link_text(display: str, target: str, table_safe: bool = False) -> str:
 
 def link_plain_text(
     chunk: str,
-    terms: list[Term],
+    term_index: dict[str, list[Term]],
     current_title: str,
     already_linked: set[str],
     table_safe: bool = False,
@@ -664,7 +723,7 @@ def link_plain_text(
     new_chunk: list[str] = []
     while i < len(chunk):
         matched: Term | None = None
-        for term in terms:
+        for term in term_index.get(term_first_key(chunk[i]), ()):
             if term.target == current_title or term.target in already_linked:
                 continue
             if not match_term_at(chunk, i, term.text):
@@ -692,7 +751,7 @@ def link_plain_text(
 
 def link_table_row(
     line: str,
-    terms: list[Term],
+    term_index: dict[str, list[Term]],
     current_title: str,
     already_linked: set[str],
     preferred_cjk_lengths: dict[str, int] | None = None,
@@ -721,7 +780,7 @@ def link_table_row(
             if is_safe_table_cell(cell):
                 linked_cell, added = link_plain_text(
                     cell,
-                    terms,
+                    term_index,
                     current_title,
                     already_linked,
                     table_safe=True,
@@ -748,7 +807,7 @@ def link_table_row(
 
 def link_unprotected_chunk(
     chunk: str,
-    terms: list[Term],
+    term_index: dict[str, list[Term]],
     current_title: str,
     already_linked: set[str],
     preferred_cjk_lengths: dict[str, int] | None = None,
@@ -757,11 +816,11 @@ def link_unprotected_chunk(
     additions = 0
     for line in chunk.splitlines(keepends=True):
         if is_markdown_table_line(line):
-            linked_line, added = link_table_row(line, terms, current_title, already_linked, preferred_cjk_lengths)
+            linked_line, added = link_table_row(line, term_index, current_title, already_linked, preferred_cjk_lengths)
         else:
             linked_line, added = link_plain_text(
                 line,
-                terms,
+                term_index,
                 current_title,
                 already_linked,
                 preferred_cjk_lengths=preferred_cjk_lengths,
@@ -771,11 +830,17 @@ def link_unprotected_chunk(
     return "".join(out), additions
 
 
-def link_section(section: str, terms: list[Term], current_title: str, already_linked: set[str]) -> tuple[str, int]:
+def link_section(
+    section: str,
+    term_index: dict[str, list[Term]],
+    cjk_terms_by_first: dict[str, list[Term]],
+    current_title: str,
+    already_linked: set[str],
+) -> tuple[str, int]:
     additions = 0
     chunks = split_protected_spans(section)
     out: list[str] = []
-    preferred_cjk_lengths = collect_preferred_cjk_lengths(section, terms, current_title)
+    preferred_cjk_lengths = collect_preferred_cjk_lengths(section, cjk_terms_by_first, current_title)
 
     for protected, chunk in chunks:
         if protected:
@@ -785,7 +850,7 @@ def link_section(section: str, terms: list[Term], current_title: str, already_li
             continue
         if not chunk:
             continue
-        linked_chunk, added = link_unprotected_chunk(chunk, terms, current_title, already_linked, preferred_cjk_lengths)
+        linked_chunk, added = link_unprotected_chunk(chunk, term_index, current_title, already_linked, preferred_cjk_lengths)
         out.append(linked_chunk)
         additions += added
 
@@ -815,7 +880,13 @@ def link_source_section(section: str, source_pattern: re.Pattern[str] | None) ->
     return "".join(out), additions
 
 
-def link_body(body: str, terms: list[Term], source_pattern: re.Pattern[str] | None, current_title: str) -> tuple[str, int]:
+def link_body(
+    body: str,
+    term_index: dict[str, list[Term]],
+    cjk_terms_by_first: dict[str, list[Term]],
+    source_pattern: re.Pattern[str] | None,
+    current_title: str,
+) -> tuple[str, int]:
     sections = split_h2_sections(body)
     linked_sections: list[str] = []
     additions = 0
@@ -830,7 +901,7 @@ def link_body(body: str, terms: list[Term], source_pattern: re.Pattern[str] | No
         # Track links as we encounter them left-to-right so the first mention in
         # a ## section gets linked even when a later mention was already linked.
         already_linked: set[str] = set()
-        linked, added = link_section(section, terms, current_title, already_linked)
+        linked, added = link_section(section, term_index, cjk_terms_by_first, current_title, already_linked)
         linked_sections.append(linked)
         additions += added
 
@@ -839,7 +910,8 @@ def link_body(body: str, terms: list[Term], source_pattern: re.Pattern[str] | No
 
 def sync_file(
     path: Path,
-    terms: list[Term],
+    term_index: dict[str, list[Term]],
+    cjk_terms_by_first: dict[str, list[Term]],
     source_pattern: re.Pattern[str] | None,
     entries_by_title: dict[str, Entry],
     path_to_title: dict[str, str],
@@ -855,8 +927,8 @@ def sync_file(
         added = 0
         removed = 0
     else:
-        cleaned_body, removed = clean_invalid_links(body, entries_by_title)
-        linked_body, added = link_body(cleaned_body, terms, source_pattern, current_title)
+        cleaned_body, removed = clean_invalid_links(body, entries_by_title, cjk_terms_by_first)
+        linked_body, added = link_body(cleaned_body, term_index, cjk_terms_by_first, source_pattern, current_title)
         # Final guard: regardless of which chunks were protected or linked,
         # never write table rows with raw wikilink alias pipes.
         linked_body = escape_table_wikilink_pipes_in_text(linked_body)
@@ -883,6 +955,8 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
     entries = load_entries()
     source_entries = load_source_entries()
     terms, entries_by_title, path_to_title = make_terms(entries)
+    term_index = terms_by_first_char(terms)
+    cjk_term_index = cjk_terms_by_first_char(terms)
     for source in source_entries:
         entries_by_title.setdefault(source.title, source)
     source_pattern = make_source_pattern({source.title for source in source_entries})
@@ -890,7 +964,16 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
 
     stats = LinkStats()
     for path in files:
-        changed, added, removed = sync_file(path, terms, source_pattern, entries_by_title, path_to_title, dry_run, tables_only=tables_only)
+        changed, added, removed = sync_file(
+            path,
+            term_index,
+            cjk_term_index,
+            source_pattern,
+            entries_by_title,
+            path_to_title,
+            dry_run,
+            tables_only=tables_only,
+        )
         if changed:
             stats.files_changed += 1
             stats.links_added += added
