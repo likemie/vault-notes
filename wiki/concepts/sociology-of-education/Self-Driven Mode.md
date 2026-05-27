@@ -3,15 +3,15 @@ title: Self-Driven Mode
 aliases:
   - 自主驱动者
   - self-driven actor
-  - 自主驱动
-summary: "毕业出路分化中的一种类型，以目标掌控和强价值信念结合为特征，既能策略性行动又有稳定意义感支撑，倾向主动设定长期发展目标"
+  - 自主驱动模式
+summary: 毕业出路分化中的一种类型，以目标掌控和强价值信念结合为特征，既能策略性行动又有稳定意义感支撑，倾向主动设定长期发展目标
 type: concept
 tags:
-- self-driven-mode
-- higher-education
-- career-development
-- region/china
-- level/higher-ed
+  - self-driven-mode
+  - higher-education
+  - career-development
+  - region/china
+  - level/higher-ed
 related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Goal-Controlled Mode]]"
@@ -30,8 +30,8 @@ sources:
   - "[[郑_2023_上海三联书店]]"
 confidence: medium
 status: draft
-created: '2026-05-09'
-updated: '2026-05-18'
+created: 2026-05-09
+updated: 2026-05-18
 ---
 
 ## 定义

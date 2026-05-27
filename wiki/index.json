@@ -3884,6 +3884,16 @@
     ]
   },
   {
+    "title": "Website Content Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Website Content Analysis.md",
+    "aliases": [
+      "网站内容分析",
+      "website analysis",
+      "网页内容分析"
+    ]
+  },
+  {
     "title": "Causal Modeling",
     "type": "method",
     "path": "wiki/methods/quantitative/Causal Modeling.md",

@@ -16,7 +16,8 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Website Content Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -69,7 +70,7 @@ UIDP 的起源可追溯到 1980 年代国家科学院成立的 Government-Univer
 ## 作为研究平台
 
 > [!note]
-UIDP 的会员网络也为[[University-Industry Collaboration|产学合作]]研究提供了独特的数据来源。Boccanfuso 和 Hall（2025，第三章）以 UIDP 成员大学为样本，对 65 所研究活跃的成员大学进行了网站内容分析，并向 124 名大学指定代表和 600 名企业代表发放了问卷调查，以研究大学如何组织其产学参与（UI engagement）——这是利用 UIDP 网络开展实证研究的一个案例（Boccanfuso & Hall, 2025, pp.56–57）。
+UIDP 的会员网络也为[[University-Industry Collaboration|产学合作]]研究提供了独特的数据来源。Boccanfuso 和 Hall（2025，第三章）以 UIDP 成员大学为样本，对 65 所研究活跃的成员大学进行了[[Website Content Analysis|网站内容分析]]，并向 124 名大学指定代表和 600 名企业代表发放了问卷调查，以研究大学如何组织其产学参与（UI engagement）——这是利用 UIDP 网络开展实证研究的一个案例（Boccanfuso & Hall, 2025, pp.56–57）。
 
 ## 来源
 
