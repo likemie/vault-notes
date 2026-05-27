@@ -5,9 +5,10 @@ extracted_to:
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Hatch Act of 1887]]"
-  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Website Content Analysis]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
+  - "[[Academic Engagement]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

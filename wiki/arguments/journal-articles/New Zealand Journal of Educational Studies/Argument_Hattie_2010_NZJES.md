@@ -16,6 +16,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
+  - "[[Academic Engagement]]"
   - "[[Effect Size]]"
 related_theories: []
 related_methods:
@@ -82,7 +83,7 @@ updated: '2026-05-18'
 >
 > ### 政策顾问角色的复杂性
 >
-> Hattie 详细说明了他在[[New Zealand National Standards|新西兰国家标准]]的参与程度：被邀加入技术顾问组但两次会议均未出席（因出国六个月）；新西兰评估学会（NZ Assessment Academy）受教育部邀请对标准的技术层面提供评论——这是众多专家意见之一，部分但非全部建议被采纳。他强调"提供黑与白的答案不是学术批评的性质"（pp.91–93）。同时主张学术参与政策制定是合理的——"作为解决方案的一部分比从旁边批评更难，在我看来两种视角对有价值的社会都至关重要"（p.93）。
+> Hattie 详细说明了他在[[New Zealand National Standards|新西兰国家标准]]的参与程度：被邀加入技术顾问组但两次会议均未出席（因出国六个月）；新西兰评估学会（NZ Assessment Academy）受教育部邀请对标准的技术层面提供评论——这是众多专家意见之一，部分但非全部建议被采纳。他强调"提供黑与白的答案不是学术批评的性质"（pp.91–93）。同时主张[[Academic Engagement|学术参与]]政策制定是合理的——"作为解决方案的一部分比从旁边批评更难，在我看来两种视角对有价值的社会都至关重要"（p.93）。
 
 ## 关键引用
 

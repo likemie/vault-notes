@@ -15,7 +15,6 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Entrepreneurial University]]"
   - "[[Academic Engagement]]"
-  - "[[Self-Driven Mode]]"
   - "[[Technology Transfer]]"
   - "[[Academic Freedom]]"
   - "[[Further Education]]"
@@ -59,7 +58,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 - [[Triple Helix]]（三重螺旋）— Etzkowitz 和 Leydesdorff（1995）的大学-产业-政府协作模型，提供了[[University-Industry Collaboration|产学合作]]的宏观制度背景。政府通过 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 等立法和 NSF 等资助机制塑造产学互动的制度环境，大学和企业在这个环境中寻找合作空间（p.52）
 - [[Entrepreneurial University]]（创业型大学）— Etzkowitz et al.（2000）提出的模型：大学不再是被动等待企业上门，而是主动调整内部文化、创建专门办公室、改革激励制度来寻求产业合作。本章研究的正是这种"主动组织"的具体形态（p.52）
 - [[University-Industry Collaboration]] — 该章关注的不只是产学合作的内容（[[Knowledge Transfer|知识转移]]、技术商业化），更是它的组织形式（谁来管、管什么、怎么管）。核心问题是：大学如何把产学合作从一个分散的、个人驱动的活动变成一个有组织、有战略的制度行为
-- 学术参与（[[Academic Engagement]]）与商业化（commercialization）的区分 — Perkmann et al.（2013）的关键洞察：学术参与（教师与企业合作研究、联合发表、学生实习等）比商业化（专利、许可、衍生企业）更少受组织嵌入、更多由个人[[Self-Driven Mode|自主驱动]]。这意味着"组织"学术参与比"组织"[[Technology Transfer|技术转移]]更难——因为前者天然是分散的、个人化的（p.53）
+- [[Academic Engagement#^industry-engagement|学术参与]]（[[Academic Engagement#^industry-engagement]]）与商业化（commercialization）的区分 — Perkmann et al.（2013）的关键洞察：学术参与（教师与企业合作研究、联合发表、学生实习等）比商业化（专利、许可、衍生企业）更少受组织嵌入、更多由个人自主驱动。这意味着"组织"学术参与比"组织"[[Technology Transfer|技术转移]]更难——因为前者天然是分散的、个人化的（p.53）
 
 ---
 

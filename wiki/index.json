@@ -1400,7 +1400,10 @@
     "type": "concept",
     "path": "wiki/concepts/higher-education/Academic Engagement.md",
     "aliases": [
-      "学业投入"
+      "学业投入",
+      "产学学术参与",
+      "academic engagement with industry",
+      "学术参与"
     ]
   },
   {
@@ -3087,7 +3090,7 @@
     "aliases": [
       "自主驱动者",
       "self-driven actor",
-      "自主驱动"
+      "自主驱动模式"
     ]
   },
   {
