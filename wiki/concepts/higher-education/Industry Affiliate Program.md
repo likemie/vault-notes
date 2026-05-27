@@ -2,6 +2,7 @@
 title: Industry Affiliate Program
 aliases:
   - 产业联盟计划
+  - 产业联盟
   - 产业会员计划
   - industry affiliate
   - industry membership program

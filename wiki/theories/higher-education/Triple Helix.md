@@ -23,6 +23,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Innovation Park]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Entrepreneurial University]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods: []
@@ -34,6 +35,7 @@ related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
   - "[[Ch2_Ulrichsen_2025]]"
+  - "[[Ch3_Boccanfuso_Hall_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
@@ -125,8 +127,36 @@ updated: 2026-05-26
 
 ---
 
+## 组织维度：宏观整合理论与微观组织碎片化的张力
+
+> [!abstract]
+> Triple Helix 作为一个宏观制度理论，描述的是大学、产业和政府三个**制度领域**（institutional spheres）之间的交织关系。但理论本身没有直接回答：**在大学内部，这种交织应该由谁来组织、如何组织？** Boccanfuso 和 Hall（2025, p.52）以 Triple Helix 为制度背景，将分析焦点从"三个领域之间的关系"转向"大学内部的组织结构"——这是一个从宏观到微观的视角转换。
+
+### 理论链条：Triple Helix → Entrepreneurial University → UI 组织
+
+> [!note]
+> 三重螺旋的三个理论层次及其组织对应（Boccanfuso & Hall, 2025, pp.52–53）：
+
+| 层次 | 理论/概念 | 分析对象 | Ch3 的贡献 |
+|------|----------|---------|-----------|
+| **宏观** | Triple Helix（Etzkowitz & Leydesdorff, 1995） | 大学-产业-政府三个制度领域的交织关系 | 提供制度背景：政府通过 [[Bayh-Dole Act of 1980\|Bayh-Dole Act]] 和 NSF 项目塑造产学互动环境（p.52） |
+| **中观** | [[Entrepreneurial University]]（Etzkowitz et al., 2000） | 大学作为一个组织的战略转向——主动寻求产业合作 | 指出创业型大学的具体组织形态尚缺乏系统研究（p.52） |
+| **微观** | [[University-Industry Collaboration\|产学参与]]的五种组织模式 | 中心办公室的报告链、职责范围、权限等级 | 发现五种模式，且无一完全全面——中心办公室是"导航者"而非"执行者"（pp.60–63） |
+
+这一链条揭示了一个值得注意的理论张力：Triple Helix 预测大学、产业、政府三个领域日益交织和整合，但在大学内部的组织层面，产学参与实际上高度碎片化——产业关系官员分散在学院、科研办公室和发展部门之间，中心办公室平均仅覆盖 12 个活动领域中的 3.5 个，报告链五花八门（Boccanfuso & Hall, 2025, pp.64–65）。
+
+### 理论意涵
+
+> [!tip]
+> Ch3 的发现对 Triple Helix 理论提出了一个组织层面的补充：三个制度领域的"宏观交织"并不自动转化为大学内部的"组织整合"。政府和企业都期望大学有一个统一、高效的对接口（"一站式服务"），但大学的组织现实是分散的、多触点的。这种宏观整合与微观碎片化之间的张力，可能正是 Triple Helix 理论在组织层面尚未充分理论化的部分。
+
+这也意味着：Triple Helix 中的"螺旋"不仅发生在制度领域之间，也发生在大学内部——学术单位、中心办公室、[[Technology Transfer|技术转移]]办公室、赞助项目办公室之间的协调和冲突，构成了大学内部的一个"微型 Triple Helix"。
+
+---
+
 ## 来源
 
 - [[Ch1_Boccanfuso_Hall_2025]]
 - [[Ch2_Ulrichsen_2025]]
+- [[Ch3_Boccanfuso_Hall_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

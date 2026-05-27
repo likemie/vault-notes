@@ -8,12 +8,12 @@ extracted_to:
   - "[[Transformative Change]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Systems of Innovation]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Knowledge Exchange]]"
   - "[[Technology Transfer]]"
   - "[[Third Mission (Universities)]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[University-Industry Collaboration]]"
   - "[[Triple Helix]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"

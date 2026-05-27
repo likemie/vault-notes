@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[Concierge Service]]"
 related_theories: []
 related_methods:
   - "[[Mixed Method and Multi-method Research]]"
@@ -60,7 +61,7 @@ updated: 2026-05-27
 
 对网站内容进行系统归类需要一个预先建立的分类框架。Boccanfuso 和 Hall（2025）建立了两套分类：
 - **组织模式分类**：根据网页描述，将中心办公室归类为五种模式之一（科研办公室、经济发展/政府关系、企业/基金会关系、伙伴关系、全面模式）或去中心化（p.61）
-- **权限等级分类**：对八项产学活动（教育、学生参与、研究、经济发展、许可与[[Technology Transfer|技术转移]]、临床、辅助、捐赠），评估中心办公室的权限等级——从"未提及"（no mention）、"网页转介"（web-referral）、"导航者"（navigator）、"礼宾"（concierge）到"直接负责"（responsible），共六级（pp.62–63）
+- **权限等级分类**：对八项产学活动（教育、学生参与、研究、经济发展、许可与[[Technology Transfer|技术转移]]、临床、辅助、捐赠），评估中心办公室的权限等级——从"未提及"（no mention）、"网页转介"（web-referral）、"导航者"（navigator）、"[[Concierge Service|礼宾]]"（concierge）到"直接负责"（responsible），共六级（pp.62–63）
 
 ### 4. 关键词频率的定量统计
 

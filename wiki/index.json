@@ -1442,6 +1442,18 @@
     ]
   },
   {
+    "title": "Concierge Service",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Concierge Service.md",
+    "aliases": [
+      "礼宾服务",
+      "礼宾",
+      "concierge",
+      "大学礼宾服务",
+      "UI concierge"
+    ]
+  },
+  {
     "title": "Corporate Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Corporate Education.md",
@@ -1601,6 +1613,7 @@
     "path": "wiki/concepts/higher-education/Industry Affiliate Program.md",
     "aliases": [
       "产业联盟计划",
+      "产业联盟",
       "产业会员计划",
       "industry affiliate",
       "industry membership program",
@@ -4074,9 +4087,8 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Observational and Correlational Research.md",
     "aliases": [
-      "观察/相关研究",
-      "相关研究",
-      "观察研究"
+      "观察研究",
+      "相关性研究"
     ]
   },
   {

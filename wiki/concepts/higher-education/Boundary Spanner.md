@@ -19,6 +19,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Academic Freedom]]"
   - "[[Technology Transfer]]"
+  - "[[Concierge Service]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -54,7 +55,7 @@ updated: 2026-05-27
 
 > [!example]
 > - vs [[Technology Transfer|技术转移]]官员 — 技术转移官员侧重知识产权的保护和商业化（专利、许可），其专业能力在法律和商业谈判；边界跨越者的职责更宽泛——包括建立初步联系、理解企业的技术需求并将其匹配到大学的合适研究者、协调涉及多个大学单位的复杂合作。技术转移官员通常只在合作进入许可阶段才介入（Boccanfuso & Hall, 2025, pp.54, 62–63）
-> - vs 礼宾服务（Concierge Service）— 礼宾服务是一种**服务模式**，边界跨越者是一种**专业角色**；边界跨越者可以是提供礼宾服务的人，但礼宾服务也可以由一个团队或办公室集体提供（Boccanfuso & Hall, 2025, pp.59–60）
+> - vs [[Concierge Service|礼宾服务]]（Concierge Service）— 礼宾服务是一种**服务模式**，边界跨越者是一种**专业角色**；边界跨越者可以是提供礼宾服务的人，但礼宾服务也可以由一个团队或办公室集体提供（Boccanfuso & Hall, 2025, pp.59–60）
 
 ## 实证发现
 
