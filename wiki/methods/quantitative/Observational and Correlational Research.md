@@ -1,10 +1,9 @@
 ---
 title: Observational and Correlational Research
 aliases:
-  - 观察/相关研究
-  - 相关研究
   - 观察研究
-summary: "不操纵自变量而以量化资料分析变量关系、模式和相关性的非干预研究设计，适合描述分布并探索潜在关联"
+  - 相关性研究
+summary: 不操纵自变量而以量化资料分析变量关系、模式和相关性的非干预研究设计，适合描述分布并探索潜在关联
 type: method
 method_type: quantitative
 tags:

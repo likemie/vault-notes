@@ -21,6 +21,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Third Mission (Universities)]]"
   - "[[Knowledge Exchange]]"
+  - "[[Innovation Park]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -92,7 +93,7 @@ updated: 2026-05-26
 
 ### 2000 年代至今：制度化与战略化
 
-三重螺旋在 2000 年代后从政策倡导进入大学组织结构层面。大学正式承担"[[Third Mission (Universities)|第三使命]]"（Third Mission）——在研究和教学之外的创新与经济发展职能（Ulrichsen, 2024）（Ulrichsen, 2025, pp.41–44）。具体表现包括：大学设立分管[[Knowledge Exchange|知识交流]]的专门领导角色和支持单位、建立内部转化基金和科技园区、挑战导向的研究中心跨越传统学科-产业边界。英国从项目制竞争性资金转向公式驱动的长期稳定拨款——评估表明这种长期稳定性对扩展产学互动"极为宝贵"（Ulrichsen, 2025, pp.42–43）。美国则以 2022 年 Chips and Science Act 和 NSF 新设技术创新与伙伴关系局为代表，将大学-产业-投资者三重螺旋置于国家竞争力战略的核心（Ulrichsen, 2025, pp.43–44）。
+三重螺旋在 2000 年代后从政策倡导进入大学组织结构层面。大学正式承担"[[Third Mission (Universities)|第三使命]]"（Third Mission）——在研究和教学之外的创新与经济发展职能（Ulrichsen, 2024）（Ulrichsen, 2025, pp.41–44）。具体表现包括：大学设立分管[[Knowledge Exchange|知识交流]]的专门领导角色和支持单位、建立内部转化基金和[[Innovation Park|科技园区]]、挑战导向的研究中心跨越传统学科-产业边界。英国从项目制竞争性资金转向公式驱动的长期稳定拨款——评估表明这种长期稳定性对扩展产学互动"极为宝贵"（Ulrichsen, 2025, pp.42–43）。美国则以 2022 年 Chips and Science Act 和 NSF 新设技术创新与伙伴关系局为代表，将大学-产业-投资者三重螺旋置于国家竞争力战略的核心（Ulrichsen, 2025, pp.43–44）。
 
 ---
 

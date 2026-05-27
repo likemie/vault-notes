@@ -1416,6 +1416,22 @@
     ]
   },
   {
+    "title": "Boundary Spanner",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Boundary Spanner.md",
+    "aliases": [
+      "边界跨越者",
+      "innovation support officer",
+      "创新支持官",
+      "intermediary",
+      "中介者",
+      "产学中间人",
+      "boundary spanning",
+      "professional innovation support officer",
+      "专业创新支持官"
+    ]
+  },
+  {
     "title": "Competitiveness in Higher Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Competitiveness in Higher Education.md",
@@ -1580,6 +1596,18 @@
     ]
   },
   {
+    "title": "Industry Affiliate Program",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Industry Affiliate Program.md",
+    "aliases": [
+      "产业联盟计划",
+      "产业会员计划",
+      "industry affiliate",
+      "industry membership program",
+      "产业合作伙伴计划"
+    ]
+  },
+  {
     "title": "Innovation Ecosystem",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Innovation Ecosystem.md",
@@ -1599,6 +1627,19 @@
       "innovation models",
       "five generations of innovation models",
       "创新过程模型"
+    ]
+  },
+  {
+    "title": "Innovation Park",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Innovation Park.md",
+    "aliases": [
+      "创新园区",
+      "research park",
+      "研究园区",
+      "innovation and research park",
+      "科技园区",
+      "science park"
     ]
   },
   {
@@ -1711,6 +1752,17 @@
     ]
   },
   {
+    "title": "Partnership Continuum",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Partnership Continuum.md",
+    "aliases": [
+      "伙伴关系连续体",
+      "UIDP partnership continuum",
+      "合作连续体",
+      "UIDP 伙伴关系连续体"
+    ]
+  },
+  {
     "title": "Preemptive Governance",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Preemptive Governance.md",
@@ -1719,6 +1771,16 @@
       "预判性治理",
       "先发制人的学生治理",
       "preemptive student governance"
+    ]
+  },
+  {
+    "title": "Professors of Practice",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Professors of Practice.md",
+    "aliases": [
+      "实践教授",
+      "professor of practice",
+      "产业教授"
     ]
   },
   {

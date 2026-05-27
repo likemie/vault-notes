@@ -12,7 +12,9 @@ tags:
   - "theme/entrepreneurship"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Corporate University]]"
   - "[[Technology Transfer]]"
+  - "[[Innovation Park]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods: []
@@ -41,15 +43,15 @@ updated: 2026-05-27
 > [!example]
 - vs [[University-Industry Collaboration]] — 产学合作是大学与企业之间的互动关系和活动；创业型大学是大学一方为促进这种互动而采取的组织形态和战略取向
 - vs 传统研究型大学 — 传统研究型大学以基础研究和学术发表为核心使命；创业型大学在不放弃学术使命的前提下，将经济发展和产业参与提升为战略优先事项
-- vs 企业化大学（Corporate University）— [[Corporate University]] 是由企业设立或主导的教育培训机构；创业型大学仍是学术机构，只是采用更主动的产学合作战略
+- vs 企业化大学（[[Corporate University]]）— [[Corporate University]] 是由企业设立或主导的教育培训机构；创业型大学仍是学术机构，只是采用更主动的产学合作战略
 
 ## 核心要素
 
 > [!abstract]
 - **文化适应**：大学内部形成接受和鼓励产业合作的新思维模式（mindset），不再将产业资助视为对学术独立性的威胁（p.52）
-- **组织重构**：建立专门寻求和支持产业合作的新办公室和单位，如产业关系办公室、技术转移办公室、创新园区等（p.52）
+- **组织重构**：建立专门寻求和支持产业合作的新办公室和单位，如产业关系办公室、[[Technology Transfer|技术转移]]办公室、[[Innovation Park|创新园区]]等（p.52）
 - **激励兼容**：通过晋升与终身教职标准、知识产权收入分享等机制，使教师和学术单位有动力参与产业合作（p.52）
-- **战略整合**：将创新和创业语言纳入大学战略规划，校长和教务长层面明确表述产学合作的愿景（Hall & Lulich, 2021，转引自 p.52）
+- **战略整合**：将创新和创业语言纳入大学战略规划，校长和教务长层面明确表述[[University-Industry Collaboration|产学合作]]的愿景（Hall & Lulich, 2021，转引自 p.52）
 
 ## 来源
 

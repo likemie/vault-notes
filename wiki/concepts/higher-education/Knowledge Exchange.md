@@ -12,11 +12,17 @@ tags:
   - "theme/innovation"
   - "level/higher-education"
   - "theme/knowledge-exchange"
-related_concepts: []
+related_concepts:
+  - "[[Technology Transfer]]"
+  - "[[Third Mission (Universities)]]"
+  - "[[Further Education]]"
+  - "[[Innovation Park]]"
+  - "[[Professors of Practice]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
 sources:
   - "[[Ch2_Ulrichsen_2025]]"
@@ -33,7 +39,7 @@ updated: 2026-05-27
 > [!info]
 > 知识交流（Knowledge Exchange, KE）指大学与产业、政府、社会之间通过多种正式和非正式机制进行知识流动的广泛过程。它不仅包括[[Technology Transfer|技术转移]]所关注的知识产权许可和衍生企业，还涵盖合同研究、咨询、人员交流、联合发表、设施共享、培训、网络活动和会议参与等多种途径（Ulrichsen, 2025, p.44; Hughes & Kitson, 2012）。
 
-> 在英国高等教育政策语境中，知识交流被定位为大学的"第三使命"（Third Mission）的核心内容——在研究和教学之外，大学通过系统化的知识交流活动推动创新和经济发展（Ulrichsen, 2024; Ulrichsen, 2025, pp.42–43）。
+> 在英国高等教育政策语境中，知识交流被定位为大学的"[[Third Mission (Universities)|第三使命]]"（Third Mission）的核心内容——在研究和教学之外，大学通过系统化的知识交流活动推动创新和经济发展（Ulrichsen, 2024; Ulrichsen, 2025, pp.42–43）。
 
 ---
 
@@ -47,7 +53,7 @@ updated: 2026-05-27
 ## 核心要素
 
 > [!abstract]
-> 知识交流的路径远超技术许可和衍生企业，已有研究识别的多种机制包括（Bonaccorsi & Piccaluga, 1994; Cohen et al., 2002; D'Este & Patel, 2007; Hughes & Kitson, 2012; Perkmann & Walsh, 2007; UIDP, 2012）（Ulrichsen, 2025, p.44）：
+> 知识交流的路径远超技术许可和衍生企业，已有研究识别的多种机制包括（Bonaccorsi & Piccaluga, 1994; Cohen et al., 2002; D'Este & Patel, 2007; Hughes & Kitson, 2012; Perkmann & Walsh, 2007; [[University Industry Demonstration Partnership|UIDP]], 2012）（Ulrichsen, 2025, p.44）：
 
 - **合同研究**（contract research）：企业委托大学开展特定研究项目
 - **研究伙伴关系**（research partnerships）：大学与企业共同设计、执行和资助研究
@@ -55,7 +61,7 @@ updated: 2026-05-27
 - **研究生奖学金与联合培养**（graduate fellowships）
 - **原型开发与测试服务**：利用大学设施为企业进行产品原型开发和性能测试
 - **联合开发物理设施**：大学与企业共同投资建设实验室、中试车间等
-- **培训与高管教育**：为企业员工提供继续教育和专业技能培训
+- **培训与高管教育**：为企业员工提供[[Further Education|继续教育]]和专业技能培训
 - **人员交流**（people exchange）：包括实习、联合聘任（joint appointments）、借调（secondments）等
 - **非正式互动**：网络活动、联合参加学术-产业会议、邀请企业进校园讲座——这些活动虽不产生直接经济收益，但在建立社会关系和促进隐性知识流动方面的作用不可忽视
 
@@ -70,10 +76,10 @@ updated: 2026-05-27
 - 改善学术人员的激励机制和工作文化
 - 创建专门的知识交流支持单位和项目
 - 扩展以挑战为导向或用户为中心的研究中心和研究所
-- 发展大学科技园区以促进产业集聚
+- 发展大学[[Innovation Park|科技园区]]以促进产业集聚
 - 引入内部转化基金以支持研究转化
 - 优化和简化知识交流的行政流程
-- 提供培训——包括实践教授（Professors of Practice）、导师和驻校专家——以提升学术人员与外部伙伴有效合作的能力
+- 提供培训——包括[[Professors of Practice|实践教授]]（Professors of Practice）、导师和驻校专家——以提升学术人员与外部伙伴有效合作的能力
 
 > 评估表明，这种长期稳定性和灵活性对英国大学显著扩展其与产业的知识交流活动"极为宝贵"（PACEC/CBR, 2009; Ulrichsen, 2015）（Ulrichsen, 2025, p.42）。
 

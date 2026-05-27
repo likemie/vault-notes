@@ -14,6 +14,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Further Education]]"
   - "[[Technology Transfer]]"
+  - "[[Partnership Continuum]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods: []
@@ -234,7 +235,7 @@ UI 合作面临的合同谈判挑战是 UIDP 的起源。2003 年，GUIRR 发起
 > [!example]
 > 举例来说，Contract Accords 不告诉你"发表审查期应该是 30 天还是 90 天"——因为没有一个答案适合所有情况。它告诉你的是：为什么企业需要审查期（保护商业机密和知识产权）、为什么大学抵制过长的审查期（影响学生按时毕业和学术发表）、以及在不同情境下（基础研究 vs 应用开发、多公司联合体 vs 一对一合作）什么样的折中方案已被证明可行。
 
-2012 年，UIDP 发布了 Partnership Continuum（伙伴关系连续体）——展示产学合作不同模式的图谱，使人们意识到企业和大学可以通过多种方式合作，而不仅仅是赞助研究（p.16）。
+2012 年，UIDP 发布了 [[Partnership Continuum]]（伙伴关系连续体）——展示产学合作不同模式的图谱，使人们意识到企业和大学可以通过多种方式合作，而不仅仅是赞助研究（p.16）。
 
 2015 年，UIDP 从国家科学院"毕业"成为独立的非营利组织。2016 年启动国际扩展试点，邀请牛津、多伦多和东京大学加入。截至 2025 年本书出版，UIDP 拥有超过 60 个出版物，12% 的会员为非美国组织（pp.19–20）。
 

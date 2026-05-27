@@ -12,10 +12,11 @@ extracted_to:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[University, Inc. (Washburn, 2005)]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Triple Helix]]"
-  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Argument_Boccanfuso_Hall_2025_Alignment]]"
+  - "[[Technology Transfer]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Triple Helix]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

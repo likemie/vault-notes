@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Exchange]]"
+  - "[[Boundary Spanner]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -92,7 +93,7 @@ updated: 2026-05-26
 - **技术转移办公室（Technology Transfer Office, TTO）**：协商知识产权许可的具体条款
 - 两者通常隶属于大学的科研副校长（Vice President of Research），有时合并到企业参与办公室（Office of Corporate Engagement）
 
-Debackere 和 Veugelers（2005）进一步指出，技术转移办公室可以充当分散的研究团队与产业伙伴之间的"信息科学链接"（information science links），兼具中介者（intermediary）和聚焦许可的交易专家（transaction specialist）双重角色（Boccanfuso & Hall, 2025, p.54）。
+Debackere 和 Veugelers（2005）进一步指出，技术转移办公室可以充当分散的研究团队与产业伙伴之间的"信息科学链接"（information science links），兼具[[Boundary Spanner|中介者]]（intermediary）和聚焦许可的交易专家（transaction specialist）双重角色（Boccanfuso & Hall, 2025, p.54）。
 
 ---
 

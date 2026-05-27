@@ -17,6 +17,7 @@ tags:
   - "source/edited-volume"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Partnership Continuum]]"
   - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
   - "[[Academic Freedom]]"
@@ -99,7 +100,7 @@ updated: 2026-05-26
 
 1. **历史层面**：美国大学体系的独特性——[[Morrill Land-Grant Act of 1862|Morrill Act]]（1862）赠地大学的实践教育传统、[[Smith Lever Act of 1914|Smith Lever Act]]（1914）的农业推广服务、学术自由与客观性的制度价值——为产学合作创造了世界范围内少有的有利条件。Hollingsworth 和 Hollingsworth（2011, p.27）指出"持续高水平的激进创新需要组织形式的多样性、组织结构的异质性和思想的多样性"，这些正是美国体系的特征（pp.11–12）。
 
-2. **制度层面**：[[University Industry Demonstration Partnership|UIDP]]（University Industry Demonstration Partnership）的案例表明，解决产学合作障碍需要超越"一刀切"合同模板的社区化方法——创造一个促进多边理解、改善沟通和支持人际连接的论坛。从 2004 年白皮书到 2015 年独立为非营利组织，UIDP 的 Contract Accords、Partnership Continuum 和 Collaboration Metrics 等项目代表了从合同细节到战略联盟的系统性解决方案（pp.16–20）。
+2. **制度层面**：[[University Industry Demonstration Partnership|UIDP]]（University Industry Demonstration Partnership）的案例表明，解决产学合作障碍需要超越"一刀切"合同模板的社区化方法——创造一个促进多边理解、改善沟通和支持人际连接的论坛。从 2004 年白皮书到 2015 年独立为非营利组织，UIDP 的 Contract Accords、[[Partnership Continuum]] 和 Collaboration Metrics 等项目代表了从合同细节到战略联盟的系统性解决方案（pp.16–20）。
 
 ---
 
@@ -147,7 +148,7 @@ updated: 2026-05-26
 | 组织文化  | 创业        | 许可与专利    |
 | 伙伴关系  | 资金与支持计划   | 材料转移     |
 | 路线图   | 产业伙伴关系    | 政策与法规    |
-| 利益相关者 | 研究园区      | 隐私与透明度   |
+| 利益相关者 | [[Innovation Park\|研究园区]]      | 隐私与透明度   |
 |       | 初创企业      | 宣传推广     |
 |       | 人才与技能发展   | 研究伦理     |
 |       |           | 负责任的科研行为 |
@@ -170,7 +171,7 @@ updated: 2026-05-26
 ## 各章概览
 
 > [!example]
-> - [[Argument_Boccanfuso_Hall_2025_Alignment]]（第一章 Alignment, Engagement, and Public Benefits）— 以 2024 年诺贝尔奖为引，提出全书核心框架：[[University-Industry Collaboration|产学合作]]的三重回报（研究与学术、教育与学习、公共效益）；系统分析大学与企业目标对齐的逻辑——双方在人才发展、经济增长和知识产权上高度对齐，在盈利与学术声誉上分歧显著；诊断治理模式、[[Academic Freedom|学术自由]]与知识产权控制、合同谈判复杂度及大学-企业竞争四重挑战；追溯美国产学合作的历史制度遗产（[[Morrill Land-Grant Act of 1862|Morrill Act]] 1862、[[Smith Lever Act of 1914|Smith Lever Act]] 1914、[[Bayh-Dole Act of 1980|Bayh-Dole Act]] 1980）；在既有文献中定位[[Innovation Ecosystem|创新生态系统]]、[[Technology Transfer|技术转移]]和产学参与的研究脉络；详述 [[University Industry Demonstration Partnership|UIDP]] 从 2004 年白皮书到 2015 年独立的制度化历程及其 Contract Accords 和 Partnership Continuum 等核心产出。以"基础-路径-机制"三层框架预告全书 17 章的组织逻辑。
+> - [[Argument_Boccanfuso_Hall_2025_Alignment]]（第一章 Alignment, Engagement, and Public Benefits）— 以 2024 年诺贝尔奖为引，提出全书核心框架：[[University-Industry Collaboration|产学合作]]的三重回报（研究与学术、教育与学习、公共效益）；系统分析大学与企业目标对齐的逻辑——双方在人才发展、经济增长和知识产权上高度对齐，在盈利与学术声誉上分歧显著；诊断治理模式、[[Academic Freedom|学术自由]]与知识产权控制、合同谈判复杂度及大学-企业竞争四重挑战；追溯美国产学合作的历史制度遗产（[[Morrill Land-Grant Act of 1862|Morrill Act]] 1862、[[Smith Lever Act of 1914|Smith Lever Act]] 1914、[[Bayh-Dole Act of 1980|Bayh-Dole Act]] 1980）；在既有文献中定位[[Innovation Ecosystem|创新生态系统]]、[[Technology Transfer|技术转移]]和产学参与的研究脉络；详述 [[University Industry Demonstration Partnership|UIDP]] 从 2004 年白皮书到 2015 年独立的制度化历程及其 Contract Accords 和 [[Partnership Continuum]] 等核心产出。以"基础-路径-机制"三层框架预告全书 17 章的组织逻辑。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution]]（第二章 Evolution of University-Industry Relationships for Driving Innovation）— 综述过去 50 年产学关系（UIRs）的演变历程。从三个维度追踪变化：创新模型（线性→耦合→系统集成→[[Systems of Innovation|创新系统]]）、国家[[Innovation Policy Paradigms|创新政策范式]]（科学促增长→创新系统升级→[[Transformative Change|变革转型]]）、大学与企业角色的历史性再分配（[[Corporate R&D Labs|企业研发实验室]]的兴衰、大学从脱钩到重新嵌入创新系统、[[Bayh-Dole Act of 1980|Bayh-Dole Act]] 与各国类似立法的催生作用）。记录 UIR 规模增长的趋势数据（美国产业资助大学研发 1990–2022 年增长约 2.6 倍），识别互动模式从交易型向关系型、从零散向战略性集中的转变。基于多项实证研究提出涵盖大学领导、学术人员、互动项目、产业伙伴、制度环境、供给条件和需求条件七层次的影响因素框架（Table 2.1）。面向未来提出八项战略方向，包括将社会科学和人文学科纳入 UIR、实验新组织空间、构建地方创新生态系统等。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy]]（第三章 Organization and Strategy for University-Industry Relationships）— 构建产学参与（UI engagement）的活动-基础-特征三维框架：五个使命领域（教育、研究、临床、辅助/行政、经济/社区发展）的具体活动，以及支撑这些活动的政策、协议、关键单位和利益相关者基础。通过对 65 所 UIDP 成员大学的网站分析和产学双方的问卷调查，识别出五种常见的中心办公室组织模式（科研办公室、经济发展/政府关系、企业/基金会关系、伙伴关系、全面模式），发现没有任何一种模式是真正全面的——中心办公室通常扮演导航者/礼宾角色而非执行者。调查显示大学和企业在"互利关系"上高度一致（>80%），但企业特别呼吁灵活的知识产权政策和专注于特定行业的大学伙伴关系经理。
 

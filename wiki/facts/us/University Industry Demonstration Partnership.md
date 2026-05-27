@@ -13,6 +13,7 @@ tags:
   - "level/higher-education"
   - "region/us"
 related_concepts:
+  - "[[Partnership Continuum]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
 related_theories: []
@@ -46,7 +47,7 @@ UIDP 的起源可追溯到 1980 年代国家科学院成立的 Government-Univer
 - 2004 年：委员会发布白皮书，提议在国家科学院框架内创建 University-Industry Demonstration Partnership（UIDP）（p.16）
 - 2006 年：发布 Guiding Principles to University-Industry Endeavors 作为创始原则。获得 NSF、Kauffman Foundation、UCLA、University of Illinois、Hewlett Packard、Pfizer 和 ExOne 等机构的初始资助，并邀请感兴趣的美国大学和企业加入（p.16）
 - 早期成果：开发了 TurboNegotiator（一种辅助合同谈判的机器学习工具，领先时代约 20 年），后来发展为 Contract Accords——针对谈判中最有争议的具体合同条款提供概述、学术和企业的各自视角以及解决差异的策略。最初涵盖 5 个条款，现已扩展至近 20 个单独项目（p.16）
-- 2012 年：发布 Partnership Continuum，展示企业与大学合作的不同模式的图谱。其灵感来自 Hewlett Packard 高管 Wayne Johnson 团队在 2009 年前开发的合作关系阶段图（p.16）
+- 2012 年：发布 [[Partnership Continuum]]，展示企业与大学合作的不同模式的图谱。其灵感来自 Hewlett Packard 高管 Wayne Johnson 团队在 2009 年前开发的合作关系阶段图（p.16）
 - 2015 年 7 月：UIDP 从国家科学院"毕业"，成为独立的非营利组织。企业会员在全球运营，表达了将大学会员扩展到美国之外的兴趣（p.19）
 - 2016 年：启动国际试点，邀请牛津大学、多伦多大学、东京大学等关键非美国大学加入，试点验证了扩展非美国大学会员的合理性（p.19）
 
@@ -56,7 +57,7 @@ UIDP 的起源可追溯到 1980 年代国家科学院成立的 Government-Univer
 截至本书出版（2025 年），UIDP 拥有超过 60 个"操作指南"出版物。以下为代表项目（pp.18–19）：
 
 - **Contract Accords**：针对产学协议中最有争议的合同条款提供实践指导。从最初的 5 个条款扩展到近 20 个项目，每个项目提供概述、学术和企业各自视角以及解决差异的策略。成为推动研究伙伴关系前进的"开创性工作"，奠定了 UIDP 在[[University-Industry Collaboration|产学合作]]领域的权威地位（p.16）
-- **Partnership Continuum & Avenues for Engagement**：识别伙伴关系模式并详细说明不同的合作模型，展示产学合作的多种模式，提高对各合作方式的认识（p.18）
+- **[[Partnership Continuum]] & Avenues for Engagement**：识别伙伴关系模式并详细说明不同的合作模型，展示产学合作的多种模式，提高对各合作方式的认识（p.18）
 - **Collaboration Metrics**：提供超过 100 个指标的菜单，供企业和大学评估产学伙伴关系时选用。对许多企业和大学而言，"识别能够有效传达产学合作价值（如投资回报）和质量的引人注目的指标一直极为困难"（p.18）。该资源帮助选择可衡量的、目的驱动的指标，并决定增长哪些合作关系（pp.18–19）
 - **Co-Investment by Companies and NSF**：聚焦政府和企业在基础性、应用启发式研究中的共同投资。产出包括 Joint Solicitations Quick Guide（聚焦大学研究中的共同投资）和 Joint Solicitations Comparison Tables（详细比较现有联合征集的所有特征）。UIDP 在开发最新 NSF 联合征集 MFS-SPEED（Molecular Foundations for Sustainability）中发挥了不可或缺的作用，获得 UIDP 会员 Procter & Gamble、PepsiCo、BASF、Dow 和 IBM 的支持（p.18）
 - **Insights for Researchers**：汇编了来自 15 个以上 UIDP 出版物的研究者导向指南，帮助研究人员理解其大学和企业同行在合作者识别、预算和知识产权等问题上的视角（p.18）
