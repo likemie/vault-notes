@@ -17,15 +17,20 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Recommendations for Practice]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Peidu]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Intervention Research]]"
+  - "[[In-depth Interview]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
+  - "[[Argument_Teng_2025_CE]]"
 sources:
   - "[[Brady_2023_EPR]]"
 confidence: low
@@ -78,6 +83,7 @@ updated: 2026-05-26
 
 > [!example] 使用此方法的研究
 > - [[Argument_Brady_2023_EPR]] — 新增混合方法/多方法编码类别，发现 2020 年五刊中该类研究占 6%，其中 60% 包含[[Recommendations for Practice|实践建议]]（Brady et al., 2023, p.6）。
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy]] — 通过框架建构（基于作者经验和专家咨询）、网站内容分析（65 所大学）和问卷调查（大学和企业双方）三步设计，研究大学[[University-Industry Collaboration|产学参与]]的组织模式与策略（Boccanfuso & Hall, 2025, pp.55–57）。
 > - [[Argument_Teng_2025_CE]] — 以问卷（n=814）和[[In-depth Interview|深度访谈]]（n=128）相结合，先通过统计检验与 Logistic 回归识别[[Peidu|陪读]]的社会分层梯度，再通过访谈资料解释分层的社会机制（Teng & Wang, 2025, pp.305–310）。
 
 ## 来源

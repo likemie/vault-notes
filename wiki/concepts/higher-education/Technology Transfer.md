@@ -14,7 +14,6 @@ tags:
   - "theme/university-industry-collaboration"
   - "policy/bayh-dole"
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Exchange]]"
 related_theories: []
@@ -26,6 +25,7 @@ related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
   - "[[Ch2_Ulrichsen_2025]]"
+  - "[[Ch3_Boccanfuso_Hall_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
@@ -38,7 +38,7 @@ updated: 2026-05-26
 ## 定义
 
 > [!info]
-> [[Technology Transfer|技术转移]]（Technology Transfer）指将大学研究产生的知识产权（Intellectual Property, IP）——包括发明、软件、数据和其他创造性成果——[[Transfer Translation Transformation|转化]]为商业应用的过程。技术转移是[[University-Industry Collaboration|产学合作]]的核心维度之一：它既可以是产学合作的起点（发明已经构思完成，寻找商业化伙伴），也可以是产学合作的产出（产业赞助研究产生了新的知识产权）（p.14）。
+> [[Technology Transfer|技术转移]]（Technology Transfer）指将大学研究产生的知识产权（Intellectual Property, IP）——包括发明、软件、数据和其他创造性成果——转化为商业应用的过程。技术转移是[[University-Industry Collaboration|产学合作]]的核心维度之一：它既可以是产学合作的起点（发明已经构思完成，寻找商业化伙伴），也可以是产学合作的产出（产业赞助研究产生了新的知识产权）（p.14）。
 
 ---
 
@@ -92,6 +92,8 @@ updated: 2026-05-26
 - **技术转移办公室（Technology Transfer Office, TTO）**：协商知识产权许可的具体条款
 - 两者通常隶属于大学的科研副校长（Vice President of Research），有时合并到企业参与办公室（Office of Corporate Engagement）
 
+Debackere 和 Veugelers（2005）进一步指出，技术转移办公室可以充当分散的研究团队与产业伙伴之间的"信息科学链接"（information science links），兼具中介者（intermediary）和聚焦许可的交易专家（transaction specialist）双重角色（Boccanfuso & Hall, 2025, p.54）。
+
 ---
 
 ## 核心挑战
@@ -121,4 +123,5 @@ updated: 2026-05-26
 
 - [[Ch1_Boccanfuso_Hall_2025]]
 - [[Ch2_Ulrichsen_2025]]
+- [[Ch3_Boccanfuso_Hall_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

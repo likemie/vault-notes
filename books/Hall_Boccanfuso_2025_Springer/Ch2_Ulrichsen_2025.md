@@ -3,17 +3,17 @@ citation: "Ulrichsen, T. C. (2025). Evolution of University-Industry Relationshi
 extracted_to:
   - "[[Innovation Ecosystem]]"
   - "[[Third Mission (Universities)]]"
-  - "[[Technology Transfer]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Corporate R&D Labs]]"
   - "[[Innovation Models Evolution]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Transformative Change]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
+  - "[[Technology Transfer]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

@@ -396,9 +396,13 @@ def section_text(body: str, heading_names: Iterable[str]) -> str:
 def extract_wikilink_target(raw: str) -> str:
     """
     [[Target]] or [[Target|Display]] or [[Target#Heading|Display]]
-    Return target before | and #.
+    Also handles Quartz-style [[Target\\|Display]].
+    Return target before \\|, | and #.
     """
-    target = raw.split("|", 1)[0].strip()
+    # Quartz-style escaped pipe: Target\|Display
+    target = raw.split("\\|", 1)[0].strip()
+    # Standard Obsidian pipe: Target|Display
+    target = target.split("|", 1)[0].strip()
     target = target.split("#", 1)[0].strip()
     return target
 

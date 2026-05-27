@@ -11,11 +11,11 @@ extracted_to:
   - "[[Rising Above the Gathering Storm 2007]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[University, Inc. (Washburn, 2005)]]"
-  - "[[University Industry Demonstration Partnership]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Triple Helix]]"
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Triple Helix]]"
+  - "[[University Industry Demonstration Partnership]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

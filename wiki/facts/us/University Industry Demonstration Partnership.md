@@ -13,7 +13,6 @@ tags:
   - "level/higher-education"
   - "region/us"
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
 related_theories: []
@@ -23,6 +22,7 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
+  - "[[Ch3_Boccanfuso_Hall_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
@@ -37,7 +37,7 @@ updated: 2026-05-26
 > [!info]
 UIDP 的起源可追溯到 1980 年代国家科学院成立的 Government-University-Industry Research Roundtable（GUIRR）。GUIRR 长期致力于简化合同流程，并成为 Federal Demonstration Partnership（FDP）的召集者。2003 年，GUIRR 启动了专注于产学关系的项目，产出了一份知识产权谈判的模型协议。但参与者很快认识到一刀切的方法行不通。其他利益相关方——包括 Industrial Research Institute（IRI）和 National Council of University Research Administrators（NCURA）——也在同一领域努力，跨部门委员会产出了有价值的白皮书，但没有产生真正的突破（pp.15–16）。
 
-关键人物 Merrilea Mayo（GUIRR）、Bob Killoren（Ohio State University, NCURA）和 Susan Butts（Dow External Technology Group）意识到需要一个客观的第三方委员会，将积累的经验[[Transfer Translation Transformation|转化]]为面向实践者的可操作方案——不仅限于合同模板，还应创造一个促进多边理解、改善沟通和支持人际连接的论坛（p.16）。
+关键人物 Merrilea Mayo（GUIRR）、Bob Killoren（Ohio State University, NCURA）和 Susan Butts（Dow External Technology Group）意识到需要一个客观的第三方委员会，将积累的经验转化为面向实践者的可操作方案——不仅限于合同模板，还应创造一个促进多边理解、改善沟通和支持人际连接的论坛（p.16）。
 
 ## 经过
 
@@ -66,7 +66,13 @@ UIDP 的起源可追溯到 1980 年代国家科学院成立的 Government-Univer
 > [!note]
 截至本书出版时（2025 年），UIDP 拥有超过 60 个"操作指南"出版物，项目内容已从合同共识大幅扩展到人才、战略关系和[[Innovation Ecosystem|创新生态系统]]与经济发展等领域。会员制度为邀请制，包括来自全球的大学和具备强大学术合作能力的跨国公司。较小组织可通过访问 UIDP 的公开学习成果和参与活动来受益。政府机构虽不加入会员，但多年来一直参与 UIDP 活动并通过非经常性资助支持其工作。目前 12% 的会员为非美国组织（pp.19–20）。
 
+## 作为研究平台
+
+> [!note]
+UIDP 的会员网络也为[[University-Industry Collaboration|产学合作]]研究提供了独特的数据来源。Boccanfuso 和 Hall（2025，第三章）以 UIDP 成员大学为样本，对 65 所研究活跃的成员大学进行了网站内容分析，并向 124 名大学指定代表和 600 名企业代表发放了问卷调查，以研究大学如何组织其产学参与（UI engagement）——这是利用 UIDP 网络开展实证研究的一个案例（Boccanfuso & Hall, 2025, pp.56–57）。
+
 ## 来源
 
 - [[Ch1_Boccanfuso_Hall_2025]]
+- [[Ch3_Boccanfuso_Hall_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

@@ -1493,6 +1493,15 @@
     ]
   },
   {
+    "title": "Entrepreneurial University",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Entrepreneurial University.md",
+    "aliases": [
+      "创业型大学",
+      "entrepreneurial university model"
+    ]
+  },
+  {
     "title": "Epistemic Drift",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Epistemic Drift.md",
@@ -1647,6 +1656,15 @@
       "knowledge transfer",
       "knowledge exchange and transfer",
       "KE"
+    ]
+  },
+  {
+    "title": "Knowledge Integration Community",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Knowledge Integration Community.md",
+    "aliases": [
+      "KIC",
+      "知识整合共同体"
     ]
   },
   {
@@ -6382,6 +6400,16 @@
     ]
   },
   {
+    "title": "Hatch Act of 1887",
+    "type": "fact",
+    "path": "wiki/facts/us/Hatch Act of 1887.md",
+    "aliases": [
+      "Hatch Act",
+      "哈奇法案",
+      "Hatch Act of 1887"
+    ]
+  },
+  {
     "title": "Home Visiting Evidence of Effectiveness",
     "type": "fact",
     "path": "wiki/facts/us/Home Visiting Evidence of Effectiveness.md",
@@ -6637,6 +6665,11 @@
     "title": "Argument_Boccanfuso_Hall_2025_Alignment",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md"
+  },
+  {
+    "title": "Argument_Boccanfuso_Hall_2025_OrgStrategy",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md"
   },
   {
     "title": "Argument_Hall(Ed.)_2025_Springer",

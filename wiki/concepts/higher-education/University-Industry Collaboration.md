@@ -39,6 +39,7 @@ related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
   - "[[Ch2_Ulrichsen_2025]]"
+  - "[[Ch3_Boccanfuso_Hall_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
@@ -124,6 +125,26 @@ updated: 2026-05-26
 
 ---
 
+## 组织模式
+
+> [!abstract]
+> Boccanfuso 和 Hall（2025，第三章）通过对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的网站分析和问卷调查，识别出大学产学参与中心办公室的五种常见组织模式（Boccanfuso & Hall, 2025, pp.60–62）：
+
+1. **科研办公室模式（Office of Research）**：由科研副校长办公室主管，聚焦[[Technology Transfer|技术转移]]、初创企业、企业赞助研究和经济发展——最常见于研究型大学（约 25%）
+2. **经济发展/政府关系模式（Economic Development/Government Relations）**：面向催化经济活动的政府关系，多见于公立大学，聚焦创新中心、商业园区、小企业支持和地方/州政府伙伴关系（约 3%）
+3. **企业/基金会关系模式（Corporate/Foundation Relations）**：设在大学发展/筹资部门，帮助营利和非营利组织在科研、赞助、高管教育、志愿服务和技术创新等方面导航（约 17%）
+4. **伙伴关系模式（Partnerships, Corporate + Non-Corporate）**：管理与外部实体的战略伙伴关系，广泛导航但通常聚焦经济发展、商业化和创新（约 26%）
+5. **全面模式（Comprehensive, Spanning Missions）**：设立集中的企业关系办公室，以礼宾角色引导企业在多个领域与大学互动，整合捐赠、合同、教育、研究和经济发展（约 26%）
+
+另有少数大学完全去中心化，没有集中办公室。
+
+> [!warning]
+> 但没有任何一个模式是真正全面的：中心办公室的典型角色是"导航者"（navigator）或"礼宾"（concierge），而非直接的"负责者"（responsible）。临床和辅助活动极少在中心办公室的网站描述中被提及；办公室平均仅覆盖 12 个活动领域中的 3.5 个。协议执行仍分散在专业单位中——赞助项目办公室处理赞助研究合同、技术许可办公室处理知识产权许可、临床试验办公室处理临床研究（Boccanfuso & Hall, 2025, pp.62–67）。
+
+调查还发现，大学和企业双方共同重视"互利关系"（超过 80% 受访者选择）、灵活克服障碍和礼宾服务。企业的特别诉求包括灵活的知识产权政策和专注于特定行业（而非学术学科）的大学伙伴关系经理（Boccanfuso & Hall, 2025, pp.67–68）。
+
+---
+
 ## 影响因素
 
 > [!abstract]
@@ -186,4 +207,5 @@ updated: 2026-05-26
 
 - [[Ch1_Boccanfuso_Hall_2025]]
 - [[Ch2_Ulrichsen_2025]]
+- [[Ch3_Boccanfuso_Hall_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

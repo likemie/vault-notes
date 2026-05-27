@@ -11,12 +11,14 @@
             "id": "d095fc36407c70a5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png"
+                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "virtue-oriented learning processes in China:East Asia."
+              "icon": "lucide-file",
+              "title": "Argument_Boccanfuso_Hall_2025_OrgStrategy"
             }
           }
         ]
@@ -185,24 +187,29 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "88e92adc127e8098",
+  "active": "d095fc36407c70a5",
   "lastOpenFiles": [
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
+    "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
+    "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
     "books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md.tmp.34431.a38fda4d9916",
+    "wiki/facts/us/Hatch Act of 1887.md",
+    "wiki/concepts/higher-education/Knowledge Integration Community.md",
+    "wiki/concepts/higher-education/Knowledge Integration Community.md.tmp.34431.eeda21efc6e0",
+    "wiki/concepts/higher-education/Entrepreneurial University.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025.pdf",
     "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
-    "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
     "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
-    "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
     "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md",
     "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
     "wiki/concepts/higher-education/Innovation Policy Paradigms.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
     "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "books/Hall_Boccanfuso_2025_Springer/figures/Types of university contributions to the innovation endeavor.jpg",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
@@ -225,12 +232,6 @@
     "wiki/concepts/higher-education/Corporate R&D Labs.md",
     "wiki/facts/us/University Industry Demonstration Partnership.md",
     "books/Bates_2017_CognitionEducationTrust/Bates_2017_CognitionEducationTrust.md",
-    "wiki/concepts/higher-education/Transformative Change.md",
-    "wiki/concepts/higher-education/Knowledge Exchange.md",
-    "wiki/concepts/higher-education/Third Mission (Universities).md",
-    "wiki/persons/germany/Max Weber.md",
-    "raw/Argument_Hall(Ed.)_2025_Springer_ch2.pdf",
-    "raw/978-3-031-94913-5_2.pdf",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png.jpg"
   ]
