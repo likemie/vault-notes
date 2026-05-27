@@ -21,6 +21,9 @@ related_concepts:
   - "[[Third Mission (Universities)]]"
   - "[[Knowledge Transfer]]"
   - "[[Further Education]]"
+  - "[[Professors of Practice]]"
+  - "[[Professional Judgment]]"
+  - "[[University Corporate Engagement Professional (UCEP)]]"
   - "[[Concierge Service]]"
   - "[[Multi-University]]"
   - "[[Knowledge Production]]"
@@ -39,6 +42,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
+  - "[[Ch4_Burrus_Patera_2025]]"
   - "[[Ch2_Ulrichsen_2025]]"
   - "[[Ch3_Boccanfuso_Hall_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
@@ -124,6 +128,18 @@ updated: 2026-05-26
 
 > 关系型互动（relational）已取代交易型互动（transactional）成为主导——这反映了隐性知识在思想和[[Technology Transfer|技术转移]]中的关键作用（Schartinger et al., 2002）（Ulrichsen, 2025, p.44）。大企业也经历了从大量零散学术互动向少数战略性大学伙伴集中的转变（Ulrichsen, 2025, pp.44–45）。
 
+### 关系建设路径
+
+Burrus 和 Patera（2025）将产学关系建设归纳为三个相互关联的阶段（Burrus & Patera, 2025, pp.74–79）：
+
+**连接（Connecting）**：找到组织中正确的人是第一步。产学关系的拥护者可通过以下渠道识别——参与学术研讨会和行业咨询委员会、出席 UIDP 和 NACRO 等产学专业活动、担任 [[Professors of Practice|实践教授]]、参加政府贸易代表团，以及参与校友活动。其中，校友网络是启动产业合作的特别有效策略：校友熟悉大学的研究优势，在产业中拥有信誉和网络，可以充当倡导者、连接者、赞助者和合作者。具体方式包括组建行业咨询委员会和圆桌讨论、鼓励校友推动公司内部研究合作、建立结构化校友指导计划、按公司组织校友员工群体、连接校友创业者与大学研究人员、以及开发以校友专长为基础的行业高管教育项目（pp.74–75）。
+
+政府贸易代表团提供了另一连接渠道。以普林斯顿大学为例，自 2018 年起通过新泽西州 ChooseNJ 组织的州贸易代表团访问印度、以色列、爱尔兰、英国和东亚，获得了多重收益：提升州政府和访问国家对大学专长的认知、建立与访问国家产业和创新团体的联系、开拓三方（大学-企业-访问国家大学）合作前景（p.76）。
+
+**探索发现（Exploring/Uncovering）**：识别产学一致利益需要结合技术平台与人的[[Professional Judgment|专业判断]]。Pivot、Elsevier Pure、Academic Analytics 以及 FirstIgnite、PreScouter、Pillar Science、HaloScience 等工具可以做初步匹配，但这些工具依赖用户经验——新手使用可能范围过宽或过窄，从而错失相关研究者或合作机会。最有效的方法是将技术平台与 [[University Corporate Engagement Professional (UCEP)|大学企业参与专员]]的专业洞察相结合，由专员解读数据、将潜在匹配情境化并促成有意义的引荐（pp.76–78）。
+
+**建设战略伙伴关系（Building）**：产学战略伙伴关系至少需要四个要素——双方组织的联络人、共同认可的愿景与目标、包含定期审查的路线图，以及双方的问责制。联络人理解各自组织需求，制定包含短中长期目标的路线图（同时认识到大学和公司的目标可能不同），并通过定期审查对照 SMART 目标评估进展。大多数战略伙伴关系从小处起步：从一个教师与产业研究者之间的项目开始，测试双方兼容性；初始项目成功后，随着 [[University Corporate Engagement Professional (UCEP)|UCEP]] 的参与，关系逐步扩展至更广泛的战略层面（pp.78–79）。
+
 ---
 
 ## 组织模式
@@ -207,6 +223,7 @@ updated: 2026-05-26
 ## 来源
 
 - [[Ch1_Boccanfuso_Hall_2025]]
+- [[Ch4_Burrus_Patera_2025]]
 - [[Ch2_Ulrichsen_2025]]
 - [[Ch3_Boccanfuso_Hall_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

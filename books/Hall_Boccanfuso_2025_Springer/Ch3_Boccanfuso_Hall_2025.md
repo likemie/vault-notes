@@ -9,16 +9,16 @@ extracted_to:
   - "[[Professors of Practice]]"
   - "[[Technology Transfer]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Academic Engagement]]"
   - "[[Boundary Spanner]]"
   - "[[Concierge Service]]"
   - "[[Industry Affiliate Program]]"
   - "[[Knowledge Transfer]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Website Content Analysis]]"
   - "[[Triple Helix]]"
+  - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

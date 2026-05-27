@@ -13,8 +13,8 @@ extracted_to:
   - "[[Technology Transfer]]"
   - "[[Third Mission (Universities)]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Triple Helix]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
