@@ -11,14 +11,12 @@
             "id": "d095fc36407c70a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
-                "mode": "source",
-                "source": false
+                "file": "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png"
               },
-              "icon": "lucide-file",
-              "title": "Argument_Ulrichsen_2025_UIR_Evolution"
+              "icon": "lucide-image",
+              "title": "virtue-oriented learning processes in China:East Asia."
             }
           }
         ]
@@ -187,18 +185,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d095fc36407c70a5",
+  "active": "88e92adc127e8098",
   "lastOpenFiles": [
-    "wiki/concepts/higher-education/Innovation Policy Paradigms.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
-    "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025.pdf",
+    "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
+    "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
-    "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
+    "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md",
+    "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
+    "wiki/concepts/higher-education/Innovation Policy Paradigms.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
     "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "books/Hall_Boccanfuso_2025_Springer/figures/Types of university contributions to the innovation endeavor.jpg",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
@@ -225,13 +229,8 @@
     "wiki/concepts/higher-education/Knowledge Exchange.md",
     "wiki/concepts/higher-education/Third Mission (Universities).md",
     "wiki/persons/germany/Max Weber.md",
-    "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
-    "wiki/concepts/comparative-education/Transfer Translation Transformation.md",
-    "wiki/theories/higher-education/Triple Helix.md",
-    "wiki/theories/higher-education/Systems of Innovation.md",
     "raw/Argument_Hall(Ed.)_2025_Springer_ch2.pdf",
     "raw/978-3-031-94913-5_2.pdf",
-    "books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025.md.tmp.30437.442160e02d9b",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png",
     "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png.jpg"
   ]
