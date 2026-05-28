@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hoffman_2025_UI_Alliances_Consortia.md",
+                "file": "books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Hoffman_2025_UI_Alliances_Consortia"
+              "title": "Ch6_Hoffman_Radasch_Thorsell_2025"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 447.5
   },
   "right": {
     "id": "2b6b615f6587554a",
@@ -188,23 +188,25 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "88e92adc127e8098",
+  "active": "cf4bbb8cde350903",
   "lastOpenFiles": [
+    "books/Hall_Boccanfuso_2025_Springer/Ch5_Narayan_Spohrer_2025.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025.pdf",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hoffman_2025_UI_Alliances_Consortia.md",
+    "wiki/facts/uk/Advanced Manufacturing Research Centre (AMRC).md",
+    "wiki/concepts/comparative-education/Transfer Translation Transformation.md",
     "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
     "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
     "books/郑_2023_上海三联书店/figures/学校情况.jpeg",
     "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
-    "wiki/facts/uk/Advanced Manufacturing Research Centre (AMRC).md",
     "wiki/concepts/higher-education/Innovation Hub.md",
     "wiki/concepts/higher-education/Industry Advisory Board.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hoffman_2025_UI_Alliances_Consortia.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Burrus_Patera_2025_PartnershipBuilding.md",
-    "books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025.md",
-    "books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025.pdf",
     "raw/Argument_Hall(Ed.)_2025_Springer_ch6.pdf",
     "raw/978-3-031-94913-5_6.pdf",
     "wiki/persons/usa/Jim Spohrer.md",
@@ -214,7 +216,6 @@
     "wiki/concepts/higher-education/Precompetitive Research.md",
     "wiki/concepts/higher-education/T-Shaped Skills.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Yu_2024_CE.md",
-    "books/Hall_Boccanfuso_2025_Springer/Ch5_Narayan_Spohrer_2025.md",
     "wiki/concepts/higher-education/Six Rs of University-Industry Relations.md",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Hall_Boccanfuso_2025_Springer/Ch5_Narayan_Spohrer_2025.pdf",
@@ -229,8 +230,6 @@
     "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
     "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
     "wiki/concepts/higher-education/Partnership Continuum.md",
-    "books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025.md",
-    "wiki/facts/us/University Industry Demonstration Partnership.md",
     "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
     "books/郑_2023_上海三联书店/figures/第五章 受访者亚群体在不同主轴位置上的分布情况.jpeg",
     "books/郑_2023_上海三联书店/figures/第五章 名校大学生工作意义来源的三角图式结构.jpeg",
