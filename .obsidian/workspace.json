@@ -11,14 +11,12 @@
             "id": "d095fc36407c70a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "wiki/concepts/higher-education/University-Industry Collaboration.md",
-                "mode": "preview",
-                "source": false
+                "file": "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png"
               },
-              "icon": "lucide-file",
-              "title": "University-Industry Collaboration"
+              "icon": "lucide-image",
+              "title": "Figure_2-1_Western_Learner"
             }
           }
         ]
@@ -189,10 +187,20 @@
   },
   "active": "d095fc36407c70a5",
   "lastOpenFiles": [
+    "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
+    "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
+    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+    "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
+    "books/郑_2023_上海三联书店/figures/第五章 受访者亚群体在不同主轴位置上的分布情况.jpeg",
+    "books/郑_2023_上海三联书店/figures/第五章 名校大学生工作意义来源的三角图式结构.jpeg",
+    "books/郑_2023_上海三联书店/figures/第三章.jpeg",
+    "books/郑_2023_上海三联书店/figures/第四章 两类模式的学业投入与社会性投入特征.jpeg",
+    "books/郑_2023_上海三联书店/figures/案例样本.jpeg",
+    "wiki/concepts/higher-education/University-Industry Collaboration.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Burrus_Patera_2025_PartnershipBuilding.md",
     "wiki/concepts/higher-education/Strategic Partnership in University-Industry Collaboration.md",
     "wiki/facts/us/University Industry Demonstration Partnership.md",
-    "wiki/concepts/higher-education/University-Industry Collaboration.md",
     "wiki/concepts/higher-education/Network of Academic Corporate Relations Officers.md",
     "wiki/concepts/higher-education/University Industry Innovation Network.md",
     "wiki/concepts/higher-education/Network of Academic Corporate Relations Officers.md.tmp.45222.cceaf7382075",
@@ -206,7 +214,6 @@
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
-    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
     "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
@@ -223,17 +230,8 @@
     "wiki/concepts/higher-education/Further Education.md",
     "wiki/concepts/higher-education/Innovation Park.md",
     "wiki/concepts/higher-education/Academic Freedom.md",
-    "wiki/concepts/higher-education/Technology Transfer.md",
-    "wiki/concepts/higher-education/Partnership Continuum.md",
     "wiki/concepts/higher-education/Industry Affiliate Program.md.tmp.34431.5d8fda9c3cd6",
-    "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
-    "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
-    "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md.tmp.34431.a38fda4d9916",
-    "wiki/concepts/higher-education/Knowledge Integration Community.md.tmp.34431.eeda21efc6e0",
-    "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
-    "books/Hall_Boccanfuso_2025_Springer/figures/Types of university contributions to the innovation endeavor.jpg",
-    "books/Hall_Boccanfuso_2025_Springer/figures/20e4136a5f43b74f5983ff0dab178e29f484d12914be4f4529a385ed2bd6c653.jpg",
-    "sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png"
+    "wiki/concepts/higher-education/Knowledge Integration Community.md.tmp.34431.eeda21efc6e0"
   ]
 }

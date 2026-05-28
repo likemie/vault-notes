@@ -1080,7 +1080,7 @@ Total entries: **840**
 - [[Success for All]] — Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断
 - [[Tennessee STAR Project 1985-1989]] — 1985 至 1989 年田纳西州实施的大型班额缩减随机试验，成为教育因果识别、班级规模政策和结果外推争论中的关键案例
 - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
-- [[University Industry Demonstration Partnership]] — 2004 年由美国国家科学院发起、2015 年独立为非营利组织的全球性产学合作组织，以合同共识（Contract Accords）和伙伴关系连续体为代表成果，拥有顶级大学和企业会员网络
+- [[University Industry Demonstration Partnership]] — 2004 年由美国国家科学院发起、2015 年独立为非营利组织的全球性产学合作组织，以合同共识和伙伴关系连续体为代表成果，同时是产学实践者的核心国际交流平台
 - [[University of Kentucky Top-20 Plan]] — 肯塔基州立法机构指令赠地大学达到 Top-20 排名的战略计划，因 USNWR 评分惩罚招收弱势群体学生而失败，成为排名与使命冲突的经典案例
 - [[University, Inc. (Washburn, 2005)]] — Jennifer Washburn 2005 年著作，批判市场化大学模式对学术研究文化独特性的侵蚀，是产学合作研究中最具影响力的批评声音之一
 - [[US-China Economic and Security Review Commission]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
