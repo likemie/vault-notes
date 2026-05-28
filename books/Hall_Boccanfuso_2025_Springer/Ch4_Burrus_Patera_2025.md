@@ -3,9 +3,11 @@ citation: "Burrus, C., & Patera, A. (2025). Connecting, Exploring, Uncovering, a
 extracted_to:
   - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
   - "[[Alumni Engagement in University-Industry Collaboration]]"
+  - "[[Network of Academic Corporate Relations Officers]]"
   - "[[Strategic Partnership in University-Industry Collaboration]]"
   - "[[Trade Mission in University-Industry Engagement]]"
   - "[[University Corporate Engagement Professional]]"
+  - "[[University Industry Innovation Network]]"
   - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"

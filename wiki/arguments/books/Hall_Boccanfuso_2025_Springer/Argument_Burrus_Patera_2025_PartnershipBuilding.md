@@ -6,6 +6,8 @@ citation: "Burrus, C., & Patera, A. (2025). Connecting, Exploring, Uncovering, a
 tags: ["theme/university-industry-collaboration", "theme/partnership", "theme/corporate-engagement"]
 related_concepts:
   - "[[Strategic Partnership in University-Industry Collaboration]]"
+  - "[[Network of Academic Corporate Relations Officers]]"
+  - "[[University Industry Innovation Network]]"
   - "[[University-Industry Collaboration]]"
   - "[[Trade Mission in University-Industry Engagement]]"
   - "[[Professors of Practice]]"
@@ -43,7 +45,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 理论框架
 
 > [!abstract] 理论框架
-> 不依赖正式学术理论，而是基于在普林斯顿大学领导战略伙伴关系的长期实践经验，同时整合 NACRO、[[University Industry Demonstration Partnership|UIDP]] 和 UIIN 等行业组织积累的最佳实践。
+> 不依赖正式学术理论，而是基于在普林斯顿大学领导战略伙伴关系的长期实践经验，同时整合 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Demonstration Partnership|UIDP]] 和 [[University Industry Innovation Network|UIIN]] 等行业组织积累的最佳实践。
 > - [[University-Industry Collaboration]] — 作为分析的组织框架，将伙伴关系建设分解为三个相互关联的阶段：连接 → 探索发现 → 建设
 
 ---
@@ -82,7 +84,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ### 阶段一：连接——找到对的人
 
-4. 伙伴关系始于人与人的连接。产学关系的"拥护者"不是随机出现的，而是集中出现在特定的交汇空间。这些空间包括：学术研讨会和行业咨询委员会，教授展示前沿研究，企业代表寻找技术灵感；[[University Industry Demonstration Partnership|UIDP]] 和 NACRO 等产学专业活动，专职从事产学对接的人定期交流经验；[[Professors of Practice|实践教授]]岗位，产业资深人士进入大学授课，成为天然的桥梁人物；[[Trade Mission in University-Industry Engagement|政府贸易代表团]]，大学随政府出访，直接接触海外企业决策者；校友活动，最容易被忽视但可能最有效的连接渠道（p.74）。
+4. 伙伴关系始于人与人的连接。产学关系的"拥护者"不是随机出现的，而是集中出现在特定的交汇空间。这些空间包括：学术研讨会和行业咨询委员会，教授展示前沿研究，企业代表寻找技术灵感；[[University Industry Demonstration Partnership|UIDP]] 和 [[Network of Academic Corporate Relations Officers|NACRO]] 等产学专业活动，专职从事产学对接的人定期交流经验；[[Professors of Practice|实践教授]]岗位，产业资深人士进入大学授课，成为天然的桥梁人物；[[Trade Mission in University-Industry Engagement|政府贸易代表团]]，大学随政府出访，直接接触海外企业决策者；校友活动，最容易被忽视但可能最有效的连接渠道（p.74）。
 
 5. 校友网络的独特优势在于"双重信任"。校友既了解母校的研究优势和文化，又在产业中建立了信誉和人际网络。一个在制药公司担任研发副总裁的校友，比任何大学宣传册都更了解公司当前的技术痛点；同时，她在公司内部为母校背书时，比一个陌生推销电话有百倍的可信度（pp.74–75）。
 
@@ -141,9 +143,19 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ### 验证：两个案例
 
-14. 案例一：生命科学公司的演化路径（pp.79–80）。一家生命科学公司的 CEO 主动找到大学，表达了建立战略关系的强烈意愿，并提供了详细的问题陈述。但问题出在"对齐"上：CEO 提出的方向是应用研究和产品开发，而大学的优势在于基础研究。教师对直接服务于产品研发兴趣不大，初始提案面临搁浅。但大学没有终止接触，而是做了一件事：**向 CEO 解释基础研究的长期价值**。基础研究看似不直接产出，但可能带来根本性的突破，而这恰恰是公司培养创新文化所需要的。CEO 被这一逻辑说服。随后，大学与公司的研发负责人共同建立了一个结构化流程：先通过虚拟研讨会探讨广泛的研究主题，再在面对面会议中深挖具体合作点。最终签署了谅解备忘录和主协议，即一份覆盖所有未来合作项目的"伞式"法律框架，避免了每次新项目都从头谈判。结果：从零到六个以上活跃合作项目（pp.79–80）。
+14. 案例一：生命科学公司的演化路径（pp.79–80）。几年前，一家生命科学公司的 CEO 主动找到大学，表达了建立战略关系的强烈意愿，并提供了详细的问题陈述。但初始提案聚焦于产品开发和应用研究，而大学的优势在基础研究。教师对直接服务于短期产品研发兴趣不大，对齐失败，提案面临搁浅。
 
-15. 案例二：日本企业关系的加速（pp.80–81）。两段关系说明了贸易代表团的催化作用。第一段关系：与一家大型汽车公司的合作历史悠久但质量不高，多个子公司各自资助零散的研究项目，互不知情，一份子公司签署的主协议其他子公司无法使用。2023 年，新泽西州组织了赴东亚的贸易代表团，恰好 UIDP 也在东京举办会议。两次活动的叠加为关系升级提供了契机，双方得以面对面确认联络人、明确共同愿景并建立审查机制。第二段关系则完全从零开始：与一家日本重工业企业的首次接触，就是通过贸易代表团的前期准备电话进行的，普林斯顿使用了"Research with Princeton"数据库做匹配分析，在会面前就已识别出潜在的合作方向。会面后，合作迅速进入资助研究阶段（pp.80–81）。
+    大学没有终止接触，而是做了一件事：**向 CEO 重新框定基础研究的价值**。基础研究看似不直接产出可商业化的成果，但它能解决其他方式无法触及的复杂挑战，并可能带来根本性的突破——而这恰恰是公司培养长期创新文化所需要的。CEO 接受了这一逻辑。随后，大学与公司的研发负责人（head of research）共同建立了一个结构化流程：先通过虚拟研讨会（virtual workshops）探讨公司广泛感兴趣的主题，让双方科学家在网络环境中初步了解彼此的研究能力；再组织面对面的教师与公司研究者会议，在讨论中深挖具体合作方向。这一流程的目标不是一次性匹配，而是建立一套让双方科学家持续互动、互相理解研究能力的系统，从而高效识别可行动的研究机会。
+
+    最终，双方签署了谅解备忘录（Memorandum of Understanding）和主协议（Master Agreement）。主协议是一份覆盖所有未来合作项目的"伞式"法律框架——知识产权条款、发表审查权、间接成本核算等关键事项一次谈定，后续项目无需从头谈判。结果：从零增长到六个以上活跃合作项目，公司各业务部门负责人与多个教师实验室之间建立了持续联系，实验室互访和学生参与行业活动进一步巩固了合作关系（pp.79–80）。
+
+15. 案例二：日本企业——一段催化升级，一段从零启动（pp.80–81）。
+
+    **催化升级**：与一家大型汽车公司的合作历史悠久但质量不高——多个子公司各自资助零散的研究项目，互不知情，一份子公司签署的主协议其他子公司无法使用。这种"各自为政"的模式意味着大学实质上在与同一家公司的不同碎片打交道，而非与一个整体建立关系。2023 年初，母公司对其长期视野研究（horizon research）的路径和学术关系的依赖进行了内部反思。普林斯顿大学成为这一反思后该公司在美国接触的第一所大学。恰好 2023 年 10 月，新泽西州组织了赴东亚的贸易代表团，UIDP 也在东京举办会议。两次活动的叠加为关系升级提供了难得的契机——普林斯顿得以在日本本土与公司面对面会面，这在远程沟通中无法实现。会面将原本多线并行但缺乏框架的关系收束为一个战略伙伴关系：确认了双方联络人、明确了共同愿景与目标、建立了包含定期审查的路线图、落实了双向问责制。
+
+    **从零启动**：与一家日本重工业企业的关系则完全从零开始，起点就是新泽西州东亚贸易代表团的前期准备工作。在出访前，普林斯顿与公司方的准联络人进行了多轮预备电话，共同制定富有成效的会议议程，并寻找主题对齐点。双方大量使用"Research with Princeton"数据库进行匹配分析——在会面前就已识别出普林斯顿哪些教师的研究方向与公司的技术需求存在交集。会面后，合作迅速推进：公司很快启动了与教师的资助研究项目（sponsored projects），双方联络人正在积极构建一个小规模但具备前述四个要素的战略伙伴关系（pp.80–81）。
+
+    两个案例共同验证了一个关键区别：长期零散的合作不等于战略伙伴关系。前者是多个项目的机械叠加，后者需要刻意的框架建设——联络人、愿景、路线图和问责制缺一不可。
 
 ---
 

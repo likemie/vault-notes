@@ -21,6 +21,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Champ]]"
+  - "[[University Industry Innovation Network]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Global Universities Rankings]]"
   - "[[Further Education]]"
@@ -67,7 +68,7 @@ updated: '2026-05-18'
 
 > "古典大学被嵌入与民族国家及其文化和科学发展的紧密联系之中，而 [[Minerva University]] 致力于超越民族国家及其他政治框架的边界，呈现出商业企业的诸多特征。"（Thompson & Parreira do Amaral, 2022, p.7）
 
-编者以三个当代案例开篇——[[Minerva University]]、University Industry Interaction Network (UIIN) 的 Thoughtbook 系列、以及大学图书馆向"makerspaces"的空间重构——以展示高等教育在想象、物质空间和主体性层面的多维度转变（Thompson & Parreira do Amaral, 2022, pp.2–6）。
+编者以三个当代案例开篇——[[Minerva University]]、University Industry Interaction Network ([[University Industry Innovation Network|UIIN]]) 的 Thoughtbook 系列、以及大学图书馆向"makerspaces"的空间重构——以展示高等教育在想象、物质空间和主体性层面的多维度转变（Thompson & Parreira do Amaral, 2022, pp.2–6）。
 
 
 ## 全书结构
