@@ -6,9 +6,11 @@ extracted_to:
   - "[[Innovation Ecosystem]]"
   - "[[Innovation Hub]]"
   - "[[Precompetitive Research]]"
-  - "[[University-Industry Collaboration]]"
-  - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
+  - "[[Boundary Spanner]]"
+  - "[[Master Agreement in University-Industry Collaboration]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

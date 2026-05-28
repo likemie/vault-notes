@@ -1777,6 +1777,19 @@
     ]
   },
   {
+    "title": "Master Agreement in University-Industry Collaboration",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Master Agreement in University-Industry Collaboration.md",
+    "aliases": [
+      "产学合作主协议",
+      "主协议",
+      "master agreement",
+      "umbrella agreement",
+      "master research agreement",
+      "总协议"
+    ]
+  },
+  {
     "title": "Multi-University",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Multi-University.md",
@@ -6794,8 +6807,7 @@
     "path": "wiki/facts/us/Tennessee STAR Project 1985-1989.md",
     "aliases": [
       "Tennessee STAR Project",
-      "田纳西STAR项目",
-      "STAR"
+      "田纳西STAR项目"
     ]
   },
   {

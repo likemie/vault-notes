@@ -3,7 +3,6 @@ citation: "Boccanfuso, A., & Hall, R. (2025). Organization and Strategy for Univ
 extracted_to:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Academic Engagement]]"
-  - "[[Boundary Spanner]]"
   - "[[Concierge Service]]"
   - "[[Entrepreneurial University]]"
   - "[[Industry Affiliate Program]]"
@@ -18,6 +17,7 @@ extracted_to:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Website Content Analysis]]"
   - "[[Triple Helix]]"
+  - "[[Boundary Spanner]]"
   - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"

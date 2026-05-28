@@ -19,6 +19,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Academic Freedom]]"
   - "[[Technology Transfer]]"
+  - "[[Master Agreement in University-Industry Collaboration]]"
   - "[[Concierge Service]]"
 related_theories: []
 related_methods: []
@@ -27,6 +28,7 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Ch3_Boccanfuso_Hall_2025]]"
+  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -51,6 +53,17 @@ updated: 2026-05-27
 > - **边界跨越**：跨越的不仅是组织边界（大学 vs 企业），还包括认知边界（学术思维 vs 商业思维）和制度边界（非营利 vs 营利逻辑）
 > - **多重角色**：Debackere 和 Veugelers（2005）指出，[[Technology Transfer|技术转移]]办公室的人员兼具"中介者"（建立联系）和"交易专家"（谈判许可条款）的双重角色——边界跨越者的角色同样包含这些多重面向（p.54）
 
+### 组织化角色：关系经理
+
+> [!note]
+> Hoffman et al.（2025）从实践角度描述了边界跨越者的一个特定组织形式——**关系经理**（relationship manager），将其列为产学联盟与联合体的三种基础设施性要素之一（pp.106–107）。
+>
+> 关系经理的核心职责是**认领一段关系并对它的存活负责**。具体职能包括：定期组织不可跳过的会议以维持合作热度；在企业预算周期和大学学术日历之间寻找对接窗口——例如在企业财年末有未花完预算时快速启动项目；在 [[Master Agreement in University-Industry Collaboration|主协议]]已签署的前提下，抓住"两周内"的机会窗口将剩余预算转化为试点研究（pp.106–107）。
+>
+> 与文献中更广义的"边界跨越者"相比，关系经理是一个更窄的概念：边界跨越者涵盖所有在产学之间搭桥的角色（包括技术转移官员、创新支持官、中介者），关系经理专门指对一段**特定双边或多边关系**的存续和健康负责的人。一个大学可以有多位边界跨越者，但每个重要的产学联盟或联合体必须有一个被双方明确认可的关系经理（p.106）。
+
+---
+
 ## 概念辨析
 
 > [!example]
@@ -67,3 +80,4 @@ updated: 2026-05-27
 ## 来源
 
 - [[Ch3_Boccanfuso_Hall_2025]]
+- [[Ch6_Hoffman_Radasch_Thorsell_2025]]

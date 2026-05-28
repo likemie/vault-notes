@@ -30,6 +30,7 @@ related_concepts:
   - "[[Strategic Partnership in University-Industry Collaboration]]"
   - "[[Industry Affiliate Program]]"
   - "[[Innovation Hub]]"
+  - "[[Master Agreement in University-Industry Collaboration]]"
   - "[[Concierge Service]]"
   - "[[Multi-University]]"
   - "[[Knowledge Production]]"
@@ -172,7 +173,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 三种成功要素被识别为任何联盟与联合体的基础（pp.105–108）：
 - **价值主张**：必须从企业角度定义、能在"电梯上升的短时间内讲清楚"。最常见的问题是：一线技术赞助人和大学教授清楚合作价值，但预算的真正决策者（企业高管层）不清楚
 - **关系经理**：双方都需要有明确责任的人认领关系，通过定期、不可跳过的会议维持对话。关系经理还需要理解对方的预算和决策日历——企业预算周期往往与大学学术日历冲突
-- **主协议（Master Agreement）**：覆盖知识产权归属与使用、赔偿、治理结构、出版、保密等关键条款。理想的主协议长期不变，每隔几年审查一次以适应新法律。已有主协议的企业可以在年底未花完预算时快速拨款给大学——这是主协议的一个常被低估的价值
+- **[[Master Agreement in University-Industry Collaboration|主协议]]（Master Agreement）**：覆盖知识产权归属与使用、赔偿、治理结构、出版、保密等关键条款。理想的主协议长期不变，每隔几年审查一次以适应新法律。已有主协议的企业可以在年底未花完预算时快速拨款给大学——这是主协议的一个常被低估的价值
 
 ---
 
