@@ -12,10 +12,12 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Precompetitive Research]]"
   - "[[Industry Advisory Board]]"
+  - "[[Industry Affiliate Program]]"
+  - "[[University-Based Research Center]]"
   - "[[Innovation Hub]]"
   - "[[Learning Analytics]]"
   - "[[Master Agreement in University-Industry Collaboration]]"
-  - "[[Industry Affiliate Program]]"
+  - "[[Product-Specific Research in University-Industry Consortia]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -61,7 +63,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [!info] 研究方法
 > 实践导向章节（practitioner chapter），不是实证研究。方法为：
 >
-> - **概念类型学**：从组织化程度和资源投入出发，将产学联盟与联合体排列为四种模式——[[Industry Advisory Board|行业咨询委员会]]、企业联盟计划、大学研究型中心、[[Innovation Hub|创新中心]]
+> - **概念类型学**：从组织化程度和资源投入出发，将产学联盟与联合体排列为四种模式——[[Industry Advisory Board|行业咨询委员会]]、[[Industry Affiliate Program|产业联盟计划]]、[[University-Based Research Center|大学研究型中心]]、[[Innovation Hub|创新中心]]
 > - **单一深度案例研究**：[[Advanced Manufacturing Research Centre (AMRC)|AMRC]]（谢菲尔德大学先进制造研究中心）从 1999 年构思到 2024 年的完整发展历程，覆盖建立、增长、制度设计、衍生发展的全周期
 > - **经验归纳**：在 AMRC 案例的"经验教训"部分（6.5.1），将成功条件提炼为九条可迁移的操作原则（pp.116–119）
 
@@ -110,7 +112,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > |------|-----------|---------|--------------|
 > | [[Industry Advisory Board]]（IAB） | 最低 | 企业代表定期聚会提供方向建议，不涉及资金 | 无需正式协议 |
 > | [[Industry Affiliate Program]]（CAP） | 中低 | 多企业会员制，汇集资金共同资助研究 | 捐赠型（低）或合同型（中） |
-> | University-Based Research Center | 中高 | 跨学科联合研究，政府与产业双重资助 | 联合体协议 + 各项目合同 |
+> | [[University-Based Research Center]] | 中高 | 跨学科联合研究，政府与产业双重资助 | 联合体协议 + 各项目合同 |
 > | [[Innovation Hub]] | 最高 | 基于地点的跨部门联合体，连接研究-生产-就业 | 多方协议 + 治理结构设计 |
 >
 > ---
@@ -185,7 +187,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > | 层次 | 资金来源 | IP 归属 | 谁可以用 | 商业目的 |
 > |------|---------|---------|---------|---------|
 > | [[Precompetitive Research\|前竞争研究]] | 成员年费 + 政府拨款 | 谢菲尔德大学 | 所有成员免版税使用 | 消除共同障碍（所有成员受益） |
-> | 产品专项研究 | 单个成员独立出资 | 赞助企业 | 仅赞助企业 | 建立个体竞争优势 |
+> | [[Product-Specific Research in University-Industry Consortia\|产品专项研究]] | 单个成员独立出资 | 赞助企业 | 仅赞助企业 | 建立个体竞争优势 |
 >
 > 22. 这套安排的巧妙之处在于前竞争轨道和产品专项轨道各司其职、彼此增强。前竞争轨道创造了一个所有成员共享的知识池——没有人因为参与联合体而让出竞争优势，因为大学作为中立方持有 IP 并平等许可给所有人。产品专项轨道则是"技术转化工具"——成员可以把共享的知识池中对自己最有价值的部分拿出来，注入自己的专有信息，开发出具有竞争优势的产品或工艺。一个具体例子是，一个专项项目大幅提高了某新型涡轮发动机叶片安装座的加工效率，这个效率提升只属于赞助企业（p.115）。
 >
@@ -244,10 +246,10 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 主要发现
 
 > [!success]
-> - 产学联盟与联合体的组织化程度构成一个从轻量到重度的光谱：[[Industry Advisory Board|IAB]]（纯对话，无资金，无协议）→ CAP（会员费，投票决定研究，捐赠型或合同型）→ 大学研究型中心（大学设定方向，政府共同资助，优先许可）→ [[Innovation Hub|创新中心]]（多方大规模投资，治理结构，区域经济目标）（pp.108–113）
+> - 产学联盟与联合体的组织化程度构成一个从轻量到重度的光谱：[[Industry Advisory Board|IAB]]（纯对话，无资金，无协议）→ CAP（会员费，投票决定研究，捐赠型或合同型）→ [[University-Based Research Center|大学研究型中心]]（大学设定方向，政府共同资助，优先许可）→ [[Innovation Hub|创新中心]]（多方大规模投资，治理结构，区域经济目标）（pp.108–113）
 > - 三种基础设施性要素贯穿所有四种模式：价值主张必须从企业角度"电梯演讲"长度讲清楚、关系经理必须有人对关系的存活负责、[[Master Agreement in University-Industry Collaboration|主协议]]覆盖 IP-赔偿-治理的完整法律框架并保持长期稳定（pp.105–108）
 > - [[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 验证的最关键原则是**找到产业的共同痛点**——联合体的技术主题应当扎根于多公司正在独立烧钱试图解决的共同问题，而非大学自身的强项。技术焦点要窄到足以让有限投资产生可见成果，但不能窄到只吸引一个行业细分（pp.113–117）
-> - AMRC 的两层 IP 模型实现了"竞争对手合作"的制度条件：[[Precompetitive Research|前竞争研究]] IP 归大学、所有成员免版税平等使用；产品专项研究 IP 归赞助企业。两条轨道互补——前竞争轨道创造共享知识池，产品专项轨道构建个体竞争优势（pp.114–115, 117–118）
+> - AMRC 的两层 IP 模型实现了"竞争对手合作"的制度条件：[[Precompetitive Research|前竞争研究]] IP 归大学、所有成员免版税平等使用；[[Product-Specific Research in University-Industry Consortia|产品专项研究]] IP 归赞助企业。两条轨道互补——前竞争轨道创造共享知识池，产品专项轨道构建个体竞争优势（pp.114–115, 117–118）
 > - 联合体发起成员不宜超过四到五家——成员过多导致协议谈判困难。理想发起组合横跨供应商价值链（OEM + 供应商 + 材料商），使技术从研究到生产的路径最短。品牌成员对早期增长有杠杆效应（p.117, 119）
 > - 学徒-博士连续体打破了职业培训与学术教育的传统隔阂——在一个组织内提供从学徒认证到博士学位的完整上升通道（pp.115–116）
 

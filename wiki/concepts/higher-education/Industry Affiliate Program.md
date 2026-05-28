@@ -7,15 +7,17 @@ aliases:
   - industry affiliate
   - industry membership program
   - 产业合作伙伴计划
+  - 产业联盟项目
 summary: "大学为产业伙伴设立的会员制合作计划，企业通过缴纳会费获得优先对接、技术交流和人才招聘渠道，是中心产学参与办公室最常见的职责之一"
 type: concept
 tags:
-  - "theme/university-industry-collaboration"
-  - "level/higher-education"
+  - theme/university-industry-collaboration
+  - level/higher-education
 related_concepts:
   - "[[Further Education]]"
   - "[[Knowledge Exchange]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Innovation Ecosystem]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -24,6 +26,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Ch3_Boccanfuso_Hall_2025]]"
+  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-27

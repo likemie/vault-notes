@@ -1639,7 +1639,8 @@
       "产业会员计划",
       "industry affiliate",
       "industry membership program",
-      "产业合作伙伴计划"
+      "产业合作伙伴计划",
+      "产业联盟项目"
     ]
   },
   {
@@ -1850,6 +1851,16 @@
       "预判性治理",
       "先发制人的学生治理",
       "preemptive student governance"
+    ]
+  },
+  {
+    "title": "Product-Specific Research in University-Industry Consortia",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Product-Specific Research in University-Industry Consortia.md",
+    "aliases": [
+      "产品专项研究",
+      "product-specific research",
+      "产品专项"
     ]
   },
   {
@@ -2095,6 +2106,17 @@
       "大学社会责任",
       "USR",
       "university corporate social responsibility"
+    ]
+  },
+  {
+    "title": "University-Based Research Center",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/University-Based Research Center.md",
+    "aliases": [
+      "大学研究型中心",
+      "university research center",
+      "university-based research centre",
+      "产学合作研究中心"
     ]
   },
   {
