@@ -10,6 +10,7 @@ extracted_to:
   - "[[TUFF]]"
   - "[[Tech Square at Georgia Tech]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
+  - "[[Central Florida Research Park]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

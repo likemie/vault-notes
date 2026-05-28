@@ -27,6 +27,7 @@ related_facts:
   - "[[Kendall Square]]"
   - "[[Research Triangle Park]]"
   - "[[Purdue Discovery Park]]"
+  - "[[Central Florida Research Park]]"
 related_arguments: []
 sources:
   - "[[Ch7_Byrne_2025]]"
@@ -92,7 +93,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - [[Research Triangle Park]]（RTP，北卡罗来纳州）
 > - [[Purdue Discovery Park|普渡发现园]]（Purdue Discovery Park / Discovery District）
 > - University City Science Center（费城）
-> - Central Florida [[Innovation Park|research park]]
+> - Central Florida Research Park
 > - Sandia Science and Technology Park（新墨西哥州）
 > - Stanton Springs Joint Development Authority（佐治亚州四县合作）
 > - University of Illinois Research Park
@@ -258,7 +259,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [[Purdue Discovery Park|普渡发现园]]（Purdue Discovery Park）是良性循环的实例。Lilly Endowment 和印第安纳州政府的初始投资各约 1500 万美元，Bayer、Rolls-Royce 和 Saab 等企业入驻，如今发展为 Discovery District，一个超过 10 亿美元的自持研发企业，也是美国最大的大学附属研究园区之一。Discovery District 目前涵盖纳米技术、先进计算等更广泛的研究领域，其官网在突出研发成功的同时也强调对潜在居民的综合价值，包括区域的可步行性、顶级公立学校和快速扩张的混合用途房地产（pp.131–132）。初始 3000 万美元撬动了超过 10 亿美元的研发活动，这一杠杆效应是初始投资通过良性循环放大的直观证据。
 
 > [!success]
-> 中佛罗里达研究园（Central Florida Research Park）同样体现了良性循环。该园于 1978 年通过与中佛罗里达大学（University of Central Florida, UCF）合作建立。1993 年，美国海军空战中心训练系统部（Naval Air Warfare Center Training Systems Division）迁入园区。此后大学和州政府持续投资以吸引更多国防部租户入驻。如今园区拥有超过 9,500 名雇员，租户包括 Northrop Grumman、Boeing、Leidos、ManTech、General Dynamics、Parsons 和 Booz Allen Hamilton 等主要国防承包商。UCF 的研发支出在过去十年间翻了一番多，从 2011 年的 1.09 亿美元增长到 2020 年的 2.39 亿美元（p.132）。
+> [[Central Florida Research Park|中佛罗里达研究园]]（Central Florida Research Park）同样体现了良性循环。该园于 1978 年通过与中佛罗里达大学（University of Central Florida, UCF）合作建立。1993 年，美国海军空战中心训练系统部（Naval Air Warfare Center Training Systems Division）迁入园区。此后大学和州政府持续投资以吸引更多国防部租户入驻。如今园区拥有超过 9,500 名雇员，租户包括 Northrop Grumman、Boeing、Leidos、ManTech、General Dynamics、Parsons 和 Booz Allen Hamilton 等主要国防承包商。UCF 的研发支出在过去十年间翻了一番多，从 2011 年的 1.09 亿美元增长到 2020 年的 2.39 亿美元（p.132）。
 
 ---
 
