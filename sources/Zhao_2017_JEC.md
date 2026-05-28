@@ -5,10 +5,10 @@ extracted_to:
   - "[[Evidence-Based Education]]"
   - "[[Side Effects in Education]]"
   - "[[Direct Instruction]]"
-  - "[[Visible Learning]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Yong Zhao]]"
+  - "[[Visible Learning]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-04
 ---

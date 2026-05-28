@@ -5,9 +5,9 @@ extracted_to:
   - "[[Direct Instruction]]"
   - "[[Feedback]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Visible Learning]]"
   - "[[Working Memory]]"
   - "[[Cognitive Task Analysis]]"
+  - "[[Visible Learning]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---

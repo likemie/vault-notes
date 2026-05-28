@@ -5,8 +5,8 @@ extracted_to:
   - "[[Evidence-Based Education]]"
   - "[[Problem-Based Learning]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Visible Learning]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Visible Learning]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---

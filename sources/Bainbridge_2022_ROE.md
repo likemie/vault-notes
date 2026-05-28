@@ -5,7 +5,6 @@ extracted_to:
   - "[[Selective Education]]"
   - "[[Moral Sidestep]]"
   - "[[Evidence-Based Education]]"
-  - "[[Visible Learning]]"
   - "[[Justified Warrants]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education and Inspections Act 2006]]"
@@ -15,9 +14,10 @@ extracted_to:
   - "[[Selective Schools Expansion Fund]]"
   - "[[Carnivalesque Analysis]]"
   - "[[Gert Biesta]]"
-  - "[[John Hattie]]"
   - "[[Terry Wrigley]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
+  - "[[Visible Learning]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-07
 ---
 

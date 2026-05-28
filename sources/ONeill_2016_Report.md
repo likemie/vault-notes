@@ -6,7 +6,6 @@ extracted_to:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Venture Philanthropy]]"
-  - "[[Visible Learning]]"
   - "[[Network Governance]]"
   - "[[Cognition Education]]"
   - "[[Contestable School Support Services]]"
@@ -16,8 +15,9 @@ extracted_to:
   - "[[Teach First New Zealand]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[John Hattie]]"
   - "[[Stephen Ball]]"
+  - "[[Visible Learning]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-04
 ---
 

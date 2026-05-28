@@ -5,7 +5,6 @@ extracted_to:
   - "[[Effective Teaching]]"
   - "[[Feedback]]"
   - "[[Individualised Instruction]]"
-  - "[[Visible Learning]]"
   - "[[Danish Public School Reform]]"
   - "[[SFI Report]]"
   - "[[Visible Learning Branding and Global Influences]]"
@@ -13,8 +12,9 @@ extracted_to:
   - "[[Andreas Helmke]]"
   - "[[Hilbert Meyer]]"
   - "[[Geert Hofstede]]"
-  - "[[John Hattie]]"
   - "[[Hofstede's Cultural Dimensions]]"
+  - "[[Visible Learning]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---
 

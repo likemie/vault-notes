@@ -5,7 +5,6 @@ extracted_to:
   - "[[Academic Engagement]]"
   - "[[Concierge Service]]"
   - "[[Entrepreneurial University]]"
-  - "[[Innovation Park]]"
   - "[[Knowledge Integration Community]]"
   - "[[Knowledge Transfer]]"
   - "[[Partnership Continuum]]"
@@ -19,6 +18,7 @@ extracted_to:
   - "[[University-Industry Collaboration]]"
   - "[[Industry Affiliate Program]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Innovation Park]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

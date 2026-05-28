@@ -1436,6 +1436,14 @@
     ]
   },
   {
+    "title": "Asset Mapping",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Asset Mapping.md",
+    "aliases": [
+      "资产映射"
+    ]
+  },
+  {
     "title": "Boundary Spanner",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Boundary Spanner.md",
@@ -6787,6 +6795,16 @@
     ]
   },
   {
+    "title": "Research Triangle Park",
+    "type": "fact",
+    "path": "wiki/facts/us/Research Triangle Park.md",
+    "aliases": [
+      "RTP",
+      "研究三角园区",
+      "Research Triangle"
+    ]
+  },
+  {
     "title": "Rising Above the Gathering Storm 2007",
     "type": "fact",
     "path": "wiki/facts/us/Rising Above the Gathering Storm 2007.md",
@@ -6841,6 +6859,16 @@
     "path": "wiki/facts/us/Success for All.md",
     "aliases": [
       "全面成功计划"
+    ]
+  },
+  {
+    "title": "Tech Square at Georgia Tech",
+    "type": "fact",
+    "path": "wiki/facts/us/Tech Square at Georgia Tech.md",
+    "aliases": [
+      "Tech Square",
+      "Georgia Tech Tech Square",
+      "Technology Square"
     ]
   },
   {
@@ -6968,6 +6996,11 @@
     "title": "Argument_Burrus_Patera_2025_PartnershipBuilding",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Burrus_Patera_2025_PartnershipBuilding.md"
+  },
+  {
+    "title": "Argument_Byrne_2025_InnovationCenters",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Byrne_2025_InnovationCenters.md"
   },
   {
     "title": "Argument_Hall(Ed.)_2025_Springer",

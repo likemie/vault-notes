@@ -1,7 +1,6 @@
 ---
 citation: "Hall, R., & Boccanfuso, A. (Eds.). (2025). University-Industry Collaboration: Innovation at the Interface. Springer."
 extracted_to:
-  - "[[Argument_Hall(Ed.)_2025_Springer]]"
   - "[[Academic Freedom]]"
   - "[[Multi-University]]"
   - "[[Technology Transfer]]"
@@ -12,6 +11,7 @@ extracted_to:
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Argument_Hall(Ed.)_2025_Springer]]"
 processed_date: 2026-05-27
 ---
 
@@ -25,3 +25,4 @@ processed_date: 2026-05-27
 - [[Argument_Burrus_Patera_2025_PartnershipBuilding]]
 - [[Argument_Narayan_Spohrer_2025_Metrics]]
 - [[Argument_Hoffman_2025_UI_Alliances_Consortia]]
+- [[Argument_Byrne_2025_InnovationCenters]]

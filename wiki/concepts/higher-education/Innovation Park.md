@@ -15,6 +15,8 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[Innovation Hub]]"
+  - "[[Asset Mapping]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -23,6 +25,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Ch3_Boccanfuso_Hall_2025]]"
+  - "[[Ch7_Byrne_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -61,8 +64,30 @@ updated: 2026-05-27
 > - 81% 提供生命科学类初创企业孵化器
 > - 68% 拥有或运营面向产业的创新或研究园区
 >
-> 创新园区相关设施是大学[[University-Industry Collaboration|产学参与]]策略中**采用率最高**的一类实践。在五种组织模式中，经济发展/政府关系模式尤其侧重通过创新中心和商业园区推动产学合作（p.60）。
+> 创新园区相关设施是大学[[University-Industry Collaboration|产学参与]]策略中**采用率最高**的一类实践。在五种组织模式中，经济发展/政府关系模式尤其侧重通过[[Innovation Hub|创新中心]]和商业园区推动产学合作（p.60）。
+
+## TUFF 实践框架
+
+TUFF（The University Financing Foundation）基于四十余年的[[University-Industry Collaboration|产学合作]]开发经验，提出了[[Innovation Hub|创新中心]]成功运营的四个核心信条与六项优先领域（Byrne & Clements, 2025, pp.123–136）：
+
+> [!abstract]
+> **四个核心信条**：
+> - 高质量学术机构
+> - 产业研发的私人投资
+> - 产学之间的合作
+> - 知识产权保护
+>
+> **六项优先领域**：
+> 1. 创业与[[Asset Mapping|资产映射]]（entrepreneurship and asset mapping）
+> 2. 学术存在（academic presence）— 包括内部倡导者和大学对园区的实质投入
+> 3. 学术与公共对研发的承诺 — 强大的研究项目是吸引企业入驻的基础
+> 4. 筹资与对外关系 — 成功的园区几乎总是精心规划和利益相关者参与的结果
+> 5. 区域合作 — 必须"基于本地"并利用区域独特的文化和地理特征
+> 6. 激活活动与场所营造 — 在建筑"内"创造价值，而非创造建筑"的"价值（value "in" the building, not "of" the building）
+>
+> TUFF 的口号是"密度就是命运"（density is destiny）：不仅指物理邻近性，更指强力、灵活的场所营造项目推动的人际互动频率和质量（p.136）。
 
 ## 来源
 
 - [[Ch3_Boccanfuso_Hall_2025]]
+- [[Ch7_Byrne_2025]]
