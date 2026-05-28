@@ -3,18 +3,17 @@ title: Tennessee STAR Project 1985-1989
 aliases:
   - Tennessee STAR Project
   - 田纳西STAR项目
-  - STAR
-summary: "1985 至 1989 年田纳西州实施的大型班额缩减随机试验，成为教育因果识别、班级规模政策和结果外推争论中的关键案例"
+summary: 1985 至 1989 年田纳西州实施的大型班额缩减随机试验，成为教育因果识别、班级规模政策和结果外推争论中的关键案例
 type: fact
 subtype: event
 region: us
 tags:
-- class-size-reduction
-- rct
-- evidence-based-policy
-- tennessee
-- region/us
-- level/k12
+  - class-size-reduction
+  - rct
+  - evidence-based-policy
+  - tennessee
+  - region/us
+  - level/k12
 related_concepts:
   - "[[Class Size]]"
   - "[[Effect Size]]"
@@ -36,8 +35,8 @@ sources:
   - "[[Snook_2009_NZJES]]"
 confidence: medium
 status: draft
-created: '2026-05-01'
-updated: '2026-05-18'
+created: 2026-05-01
+updated: 2026-05-18
 ---
 ## 背景
 
