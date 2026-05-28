@@ -11,12 +11,14 @@
             "id": "d095fc36407c70a5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png"
+                "file": "wiki/concepts/higher-education/Partnership Continuum.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Figure_2-1_Western_Learner"
+              "icon": "lucide-file",
+              "title": "Partnership Continuum"
             }
           }
         ]
@@ -187,6 +189,14 @@
   },
   "active": "d095fc36407c70a5",
   "lastOpenFiles": [
+    "books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025.md",
+    "wiki/concepts/higher-education/Partnership Continuum.md",
+    "wiki/facts/us/University Industry Demonstration Partnership.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Burrus_Patera_2025_PartnershipBuilding.md",
+    "wiki/concepts/higher-education/Strategic Partnership in University-Industry Collaboration.md",
+    "wiki/concepts/higher-education/University-Industry Collaboration.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
+    "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
     "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
@@ -197,10 +207,6 @@
     "books/郑_2023_上海三联书店/figures/第三章.jpeg",
     "books/郑_2023_上海三联书店/figures/第四章 两类模式的学业投入与社会性投入特征.jpeg",
     "books/郑_2023_上海三联书店/figures/案例样本.jpeg",
-    "wiki/concepts/higher-education/University-Industry Collaboration.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Burrus_Patera_2025_PartnershipBuilding.md",
-    "wiki/concepts/higher-education/Strategic Partnership in University-Industry Collaboration.md",
-    "wiki/facts/us/University Industry Demonstration Partnership.md",
     "wiki/concepts/higher-education/Network of Academic Corporate Relations Officers.md",
     "wiki/concepts/higher-education/University Industry Innovation Network.md",
     "wiki/concepts/higher-education/Network of Academic Corporate Relations Officers.md.tmp.45222.cceaf7382075",
@@ -216,15 +222,11 @@
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
-    "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
-    "books/Hall_Boccanfuso_2025_Springer/figures/university_industry_rewards_zh_clean.svg",
-    "books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch4_Burrus_Patera_2025.pdf",
     "raw/Argument_Hall(Ed.)_2025_Springer_ch4.pdf",
     "raw/Argument_Hall(Ed.)_2025_Springer_4.pdf",
     "raw/978-3-031-94913-5_4.pdf",
     "wiki/concepts/higher-education/Concierge Service.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
     "wiki/concepts/higher-education/Professors of Practice.md",
     "wiki/methods/quantitative/Observational and Correlational Research.md",
     "wiki/concepts/higher-education/Further Education.md",
