@@ -14,12 +14,12 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Effect Size]]"
   - "[[T-Shaped Skills]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Jim Spohrer]]"
-related_facts: []
+related_facts:
+  - "[[Kendall Square]]"
 related_arguments: []
 sources:
   - "[[Ch5_Narayan_Spohrer_2025]]"
@@ -174,7 +174,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > 伊利诺伊-IBM 发现加速器研究所（IBM-Illinois Discovery Accelerator Institute, IIDAI）于 2021 年秋季成立，最初设有四个研究推进方向：混合云与 AI、量子计算、材料发现、可持续性，每个方向旨在加速对复杂全球挑战的解决方案发现（p.93）。2023 年，研究所进入新阶段，将活动重新聚焦于开发一个开放式高性能计算平台以支持 AI 注入的应用。该平台将在基础设施层连接经典计算和量子计算，同时提供优化的 AI 模型训练和推理能力（p.93）。这一平台战略有一个重要的组织后果：它为项目选择提供了筛选标准。每个与 AI 相关的项目都可以申请资助，但只有能够利用或贡献于这个开放计算平台的项目才被优先考虑。平台既是技术基础设施，也是项目组合的管理工具。IIDAI 的度量体系跨越了六 R 框架中的多个领域：联合出版物和研究生论文属于 Research 和 Readiness，外部实习和博士后派驻 IBM 属于 Recruiting，IBM 研究人员在大学授课和影响课程设置属于 Responsibility，联合申请外部资金则涉及 Revenue 和 Regions（pp.93–94）。
 
 > [!example] MIT-IBM Watson AI Lab（大型 · [[Industry Affiliate Program|产业联盟]]型）
-> 该实验室成立于 2017 年，目前管理超过 80 个项目，重点是基于数据驱动的深度学习方法理解语言和视觉世界，以及使大规模 AI 系统更高效和鲁棒的技术（p.93）。实验室还开发面向医疗保健和各种决策应用的 AI 系统。2021 年，IBM 研究团队搬入 MIT 校园内 Kendall Square 的新办公室，与 MIT 师生同址办公（p.94）。这种物理共址（co-location）旨在降低日常沟通的摩擦成本。该案例最显著的创新是其产业成员模式：Shell、Evonik、Wells Fargo、Boston Scientific、Nexplore、Woodside 等大企业作为成员加入，在顾问委员会中拥有席位，通过领域知识影响研究组合（pp.94–95）。成员企业的收益分三个层次：第一，可商用 IP 条款——与通常只能非商业使用的开源代码不同，该合作中开发的 IP 可用于构建专有技术以产生商业影响；第二，IBM 科学家为成员企业提供战略咨询和规模化路径建议；第三，成员企业可参加研讨会、教程和网络研讨会以发展内部 AI 技能（p.94）。度量的核心是成员企业数量、成员企业对价值的反馈、以及 IP 被产业采纳的案例数，这些都是论文数之外的新维度。
+> 该实验室成立于 2017 年，目前管理超过 80 个项目，重点是基于数据驱动的深度学习方法理解语言和视觉世界，以及使大规模 AI 系统更高效和鲁棒的技术（p.93）。实验室还开发面向医疗保健和各种决策应用的 AI 系统。2021 年，IBM 研究团队搬入 MIT 校园内 [[Kendall Square]] 的新办公室，与 MIT 师生同址办公（p.94）。这种物理共址（co-location）旨在降低日常沟通的摩擦成本。该案例最显著的创新是其产业成员模式：Shell、Evonik、Wells Fargo、Boston Scientific、Nexplore、Woodside 等大企业作为成员加入，在顾问委员会中拥有席位，通过领域知识影响研究组合（pp.94–95）。成员企业的收益分三个层次：第一，可商用 IP 条款——与通常只能非商业使用的开源代码不同，该合作中开发的 IP 可用于构建专有技术以产生商业影响；第二，IBM 科学家为成员企业提供战略咨询和规模化路径建议；第三，成员企业可参加研讨会、教程和网络研讨会以发展内部 AI 技能（p.94）。度量的核心是成员企业数量、成员企业对价值的反馈、以及 IP 被产业采纳的案例数，这些都是论文数之外的新维度。
 
 > [!example] Albany NanoTech / NY CREATES（大型 · 国家战略型）
 > 这是 IBM、纽约州政府与多所学术机构之间持续超过 20 年的半导体研发合作伙伴关系（pp.94–95）。该设施由纽约研究、经济促进、技术、工程与科学中心（Center for Research, Economic Advancement, Technology, Engineering and Science, NY CREATES）拥有和运营，是美国最大和最先进的非营利半导体研发设施之一。自成立以来，Albany NanoTech 园区的资本投资已超过 $150 亿，NY CREATES 的年度运营预算约 $3 亿且仍在增长（p.95）。园区企业合作伙伴包括 GlobalFoundries、Samsung、Applied Materials、Tokyo Electron、ASML 和 Lam Research，形成了完整的半导体制造生态。最新的技术突破是纳米片（nanosheet），铺平了通向 2 纳米节点的道路（p.95）。该合作还包含大量的劳动力培训维度，纽约州政府的重大投资正是出于这一考量。州政府关心的不仅是一篇论文或一项专利，而是半导体产业在纽约州创造的就业机会和技术人才储备。度量的重点因利益相关方而异：对企业，看先进制程的研发进展；对州政府，看就业和经济带动效应；对大学，看研究机会和学生就业。这种多利益相关方、多度量维度的复杂性，正是大型项目区别于中型项目的根本特征。
@@ -250,7 +250,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 >
 > ### 单一企业视角的归纳局限
 >
-> 全文基于 IBM 一家的经验归纳。作者声称六 R 框架"可应用于其他企业"（p.85），但未提供跨行业比较的证据支撑。不同行业（制造、制药、金融）的[[University-Industry Collaboration|产学合作]]可能面临不同的约束条件，作者未讨论框架[[Transfer Translation Transformation|迁移]]时可能需要哪些调适。
+> 全文基于 IBM 一家的经验归纳。作者声称六 R 框架"可应用于其他企业"（p.85），但未提供跨行业比较的证据支撑。不同行业（制造、制药、金融）的[[University-Industry Collaboration|产学合作]]可能面临不同的约束条件，作者未讨论框架迁移时可能需要哪些调适。
 >
 > ### AI 前瞻的推测性质
 >

@@ -17,11 +17,13 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Innovation Hub]]"
   - "[[Asset Mapping]]"
+  - "[[Placemaking]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[TUFF]]"
 related_arguments: []
 sources:
   - "[[Ch3_Boccanfuso_Hall_2025]]"
@@ -68,7 +70,7 @@ updated: 2026-05-27
 
 ## TUFF 实践框架
 
-TUFF（The University Financing Foundation）基于四十余年的[[University-Industry Collaboration|产学合作]]开发经验，提出了[[Innovation Hub|创新中心]]成功运营的四个核心信条与六项优先领域（Byrne & Clements, 2025, pp.123–136）：
+[[TUFF]]（The University Financing Foundation）基于四十余年的[[University-Industry Collaboration|产学合作]]开发经验，提出了[[Innovation Hub|创新中心]]成功运营的四个核心信条与六项优先领域（Byrne & Clements, 2025, pp.123–136）：
 
 > [!abstract]
 > **四个核心信条**：
@@ -83,7 +85,7 @@ TUFF（The University Financing Foundation）基于四十余年的[[University-I
 > 3. 学术与公共对研发的承诺 — 强大的研究项目是吸引企业入驻的基础
 > 4. 筹资与对外关系 — 成功的园区几乎总是精心规划和利益相关者参与的结果
 > 5. 区域合作 — 必须"基于本地"并利用区域独特的文化和地理特征
-> 6. 激活活动与场所营造 — 在建筑"内"创造价值，而非创造建筑"的"价值（value "in" the building, not "of" the building）
+> 6. 激活活动与[[Placemaking|场所营造]] — 在建筑"内"创造价值，而非创造建筑"的"价值（value "in" the building, not "of" the building）
 >
 > TUFF 的口号是"密度就是命运"（density is destiny）：不仅指物理邻近性，更指强力、灵活的场所营造项目推动的人际互动频率和质量（p.136）。
 

@@ -1850,6 +1850,17 @@
     ]
   },
   {
+    "title": "Placemaking",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Placemaking.md",
+    "aliases": [
+      "场所营造",
+      "place-making",
+      "creative placemaking",
+      "创意场所营造"
+    ]
+  },
+  {
     "title": "Precompetitive Research",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Precompetitive Research.md",
@@ -6730,6 +6741,18 @@
     ]
   },
   {
+    "title": "Kendall Square",
+    "type": "fact",
+    "path": "wiki/facts/us/Kendall Square.md",
+    "aliases": [
+      "肯德尔广场",
+      "Cambridge Innovation Center",
+      "剑桥创新中心",
+      "CIC",
+      "Kendall Square CIC"
+    ]
+  },
+  {
     "title": "Morrill Land-Grant Act of 1862",
     "type": "fact",
     "path": "wiki/facts/us/Morrill Land-Grant Act of 1862.md",
@@ -6783,6 +6806,18 @@
     "aliases": [
       "经验做法网络",
       "PPN"
+    ]
+  },
+  {
+    "title": "Purdue Discovery Park",
+    "type": "fact",
+    "path": "wiki/facts/us/Purdue Discovery Park.md",
+    "aliases": [
+      "普渡发现园",
+      "Discovery Park",
+      "Purdue Discovery District",
+      "Discovery District",
+      "普渡发现区"
     ]
   },
   {
@@ -6886,6 +6921,16 @@
     "path": "wiki/facts/us/Theory Movement in Educational Administration.md",
     "aliases": [
       "教育行政理论运动"
+    ]
+  },
+  {
+    "title": "TUFF",
+    "type": "fact",
+    "path": "wiki/facts/us/TUFF.md",
+    "aliases": [
+      "大学融资基金会",
+      "The University Financing Foundation",
+      "TUFF"
     ]
   },
   {
