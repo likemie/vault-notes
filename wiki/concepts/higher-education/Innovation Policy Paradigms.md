@@ -19,14 +19,16 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Absorptive Capacity]]"
   - "[[Transformative Change]]"
-  - "[[University-Industry Collaboration]]"
+  - "[[University-Based Research Center]]"
   - "[[Knowledge Exchange]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[CHIPS and Science Act]]"
 related_arguments: []
 sources:
   - "[[Ch2_Ulrichsen_2025]]"
@@ -56,7 +58,7 @@ updated: 2026-05-27
 **核心逻辑**：科学发现 → 技术开发 → 市场创新 → 经济增长。政府角色是资助基础[[Knowledge Production|知识生产]]以弥补"市场失灵"（market failure）——知识具有公共品属性，私人市场对其投资不足（Arrow, 1962; Solow, 1957）。
 
 **政策工具**（pp.28–29）：
-- 大规模资助大学基础研究（美国 NSF、国防部）
+- 大规模资助大学基础研究（美国 [[National Science Foundation|NSF]]、国防部）
 - 强化知识产权以促进[[Technology Transfer|技术转移]]（1980 年 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]）
 - 研发税收抵免和公共采购激励私人研发
 - 发展风险投资市场
@@ -129,7 +131,7 @@ updated: 2026-05-27
 
 > [!success]
 > - 系统创新政策范式当前在包括英国、美国和大部分欧洲国家在内的许多国家占据主导地位（p.34）
-> - 三范式在现实中并非纯粹存在——一个国家可能同时运行多个范式的政策工具。例如：美国同时拥有大规模的大学基础研究资助（范式一）、NSF [[University-Industry Collaboration|产学合作]]研究中心（范式二）和 CHIPS Act 的区域创新引擎计划（范式三要素）（pp.43–44）
+> - 三范式在现实中并非纯粹存在——一个国家可能同时运行多个范式的政策工具。例如：美国同时拥有大规模的大学基础研究资助（范式一）、[[National Science Foundation|NSF]] [[University-Based Research Center|产学合作研究中心]]（范式二）和 [[CHIPS and Science Act|CHIPS Act]] 的区域创新引擎计划（范式三要素）（pp.43–44）
 > - 英国从范式一向范式二的过渡尤为清晰：1993 年白皮书 *Realising Our Potential* 是转折点，1999 年引入的公式化长期[[Knowledge Exchange|知识交流]]拨款标志着系统范式的制度化（pp.40–43）
 
 ---

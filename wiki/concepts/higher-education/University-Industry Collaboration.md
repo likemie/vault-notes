@@ -45,6 +45,7 @@ related_facts:
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[TUFF]]"
   - "[[University Industry Demonstration Partnership]]"
@@ -105,7 +106,7 @@ updated: 2026-05-28
 > - 1862 年 Morrill Act 确立了赠地大学体系，要求大学"促进工业阶层的自由和实践教育"，首次将高等教育与产业发展直接挂钩（p.11）
 > - 1914 年 [[Smith Lever Act of 1914|Smith Lever Act]] 在赠地大学建立农业推广服务（extension services），将研究与实际应用连接起来，延续至今（p.11）
 > - 1920 年前后，美国大学的核心特征——博士教育、专业学位项目、产学互动、[[Academic Freedom|学术自由]]与客观性——已基本确立（pp.11–12）
-> - 二战后，Vannevar Bush 的报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调了基础研究和开放式研究在美国的战略重要性，催生了国家科学基金会（NSF）和国防部对大学基础研究的支持（p.13）
+> - 二战后，Vannevar Bush 的报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调了基础研究和开放式研究在美国的战略重要性，催生了国家科学基金会（[[National Science Foundation|NSF]]）和国防部对大学基础研究的支持（p.13）
 > - 近几十年来，"界面"上的创新速度加快，产生了大量的回报（p.4）
 - 1980 年代后，在冷战结束、[[Corporate R&D Labs|企业中央研发实验室]]衰落和全球竞争加剧的背景下，大学经历了从与产业"脱钩"到重新"嵌入"[[Systems of Innovation|创新系统]]的转变。美国 1980 年 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 给予大学对联邦资助研究成果的知识产权所有权；英国 1983 年取消 British Technology Group 对大学 IP 的垄断、1993 年发布 *Realising Our Potential* 白皮书；中国 1993 年通过《科学技术进步法》建立了相当于 Bayh-Dole 的制度框架（Ulrichsen, 2025, pp.38–41）
 - 2000 年代后，大学日益深入地嵌入创新系统，"寻求积极促进互动和溢出效应以连接研究与应用和商业化，承担起催化和推动经济和社会发展的角色"（Youtie & Shapira, 2008, p.1189，引自 Ulrichsen, 2025, p.42）。这催生了正式的制度化的[[Third Mission (Universities)|大学第三使命]]（Ulrichsen, 2025, pp.41–44）
@@ -231,7 +232,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 ## 理论基础
 
 > [!tip]
-> - [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）将大学-产业-政府之间的反馈循环理解为相互支撑的三重螺旋。产学合作是 Triple Helix 中大学-产业这一边的具体互动形式，其运作深受政府政策（如 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]、NSF 资助机制）的塑造（p.13）
+> - [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）将大学-产业-政府之间的反馈循环理解为相互支撑的三重螺旋。产学合作是 Triple Helix 中大学-产业这一边的具体互动形式，其运作深受政府政策（如 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]、[[National Science Foundation|NSF]] 资助机制）的塑造（p.13）
 > - [[Innovation Ecosystem]] — 产学合作发生在创新生态系统内部；大学作为生态系统的"锚点"，通过与企业和其他机构的互动催化知识创造和商业化（pp.12–13）
 > - Kerr 的 [[Multi-University]] 概念（2001）— 多元大学的三大使命（研究、教学、公共服务）恰好对应产学合作的三重回报（研究与学术、教育与学习、公共效益），同时财务资源和声誉是维持多元大学运转的必要条件（pp.5–7）
 

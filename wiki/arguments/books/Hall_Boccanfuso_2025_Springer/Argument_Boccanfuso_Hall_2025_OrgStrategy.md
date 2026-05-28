@@ -21,6 +21,7 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Concierge Service]]"
   - "[[Boundary Spanner]]"
+  - "[[Innovation Hub]]"
   - "[[Industry Affiliate Program]]"
   - "[[Further Education]]"
   - "[[Learning Analytics]]"
@@ -32,6 +33,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[National Science Foundation]]"
   - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
 sources:
@@ -59,7 +61,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 理论框架
 
 > [!abstract]
-- [[Triple Helix]]（三重螺旋）— Etzkowitz 和 Leydesdorff（1995）的大学-产业-政府协作模型，提供了[[University-Industry Collaboration|产学合作]]的宏观制度背景。政府通过 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 等立法和 NSF 等资助机制塑造产学互动的制度环境，大学和企业在这个环境中寻找合作空间（p.52）
+- [[Triple Helix]]（三重螺旋）— Etzkowitz 和 Leydesdorff（1995）的大学-产业-政府协作模型，提供了[[University-Industry Collaboration|产学合作]]的宏观制度背景。政府通过 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 等立法和 [[National Science Foundation|NSF]] 等资助机制塑造产学互动的制度环境，大学和企业在这个环境中寻找合作空间（p.52）
 - [[Entrepreneurial University]]（创业型大学）— Etzkowitz et al.（2000）提出的模型：大学不再是被动等待企业上门，而是主动调整内部文化、创建专门办公室、改革激励制度来寻求产业合作。本章研究的正是这种"主动组织"的具体形态（p.52）
 - [[University-Industry Collaboration]] — 该章关注的不只是产学合作的内容（[[Knowledge Transfer|知识转移]]、技术商业化），更是它的组织形式（谁来管、管什么、怎么管）。核心问题是：大学如何把产学合作从一个分散的、个人驱动的活动变成一个有组织、有战略的制度行为
 - [[Academic Engagement#^industry-engagement|学术参与]]（[[Academic Engagement#^industry-engagement]]）与商业化（commercialization）的区分 — Perkmann et al.（2013）的关键洞察：学术参与（教师与企业合作研究、联合发表、学生实习等）比商业化（专利、许可、衍生企业）更少受组织嵌入、更多由个人自主驱动。这意味着"组织"学术参与比"组织"[[Technology Transfer|技术转移]]更难——因为前者天然是分散的、个人化的（p.53）
@@ -174,7 +176,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 用这个框架去审视 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的网站后，五种常见的中心办公室组织模式浮现出来（Fig. 3.1, pp.60–62）：
 
 1. **科研办公室模式（Office of Research，16 所，约 25%）**：由科研副校长（Vice President of Research）主管，聚焦技术转移、初创企业、企业赞助研究——这是最传统的模式，暗含的假设是"产学合作 = 研究合作"
-2. **经济发展/政府关系模式（Economic Development/Government Relations，2 所）**：聚焦创新中心、商业园区、小企业支持、地方/州政府伙伴关系——多见于公立大学，与州政府对大学推动地方经济的期望高度相关
+2. **经济发展/政府关系模式（Economic Development/Government Relations，2 所）**：聚焦[[Innovation Hub|创新中心]]、商业园区、小企业支持、地方/州政府伙伴关系——多见于公立大学，与州政府对大学推动地方经济的期望高度相关
 3. **企业/基金会关系模式（Corporate/Foundation Relations，11 所，约 17%）**：设在大学发展/筹资部门（advancement office），暗含的假设是"企业 = 捐赠者 + 合作伙伴"
 4. **伙伴关系模式（Partnerships, 17 所，约 26%）**：管理与企业、政府实验室、独立研究机构的战略伙伴关系——比企业/基金会模式更广泛，但通常只聚焦经济发展和商业化
 5. **全面模式（Comprehensive, Spanning Missions，17 所，约 26%）**：设立集中的企业关系办公室，以礼宾角色引导企业在研究、教育、经济发展等多个领域与大学互动——在理念上最接近该框架的"理想型"

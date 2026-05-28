@@ -11,7 +11,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[National Science Foundation]]"
 related_arguments: []
 sources:
   - "[[Ch5_Narayan_Spohrer_2025]]"
@@ -55,7 +56,7 @@ IBM 自身的经验揭示了转化研究的挑战：尽管在 1990–2020 年间
 > 1. 学术端 — 学术机构的激励机制以发表和 IP 创造为核心，缺乏将 IP 连接到产业需求的动力和路径。许多学术创新从未面世。
 > 2. 产业端 — 即使在企业资助研究中产生了可操作的 IP，具备将研究创新推向硬化产品（hardened products）的工程师技能在产业研究部门同样稀缺。
 
-这一缺口的弥合需要多方协作：NSF 的技术创新与伙伴关系（TIP）部门、NSF 的 Convergence Accelerator 项目允许企业首次作为 NSF 提案的主要受资助方，以及 ERVA（Engineering Research Visioning Alliance）对工程教育方向的探讨（pp.96–97）。
+这一缺口的弥合需要多方协作：[[National Science Foundation|NSF]] 的技术创新与伙伴关系（TIP）部门、NSF 的 Convergence Accelerator 项目允许企业首次作为 NSF 提案的主要受资助方，以及 ERVA（Engineering Research Visioning Alliance）对工程教育方向的探讨（pp.96–97）。
 
 ---
 

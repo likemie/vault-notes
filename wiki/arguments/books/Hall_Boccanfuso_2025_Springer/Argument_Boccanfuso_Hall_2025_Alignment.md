@@ -15,12 +15,15 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Technology Transfer]]"
   - "[[Partnership Continuum]]"
+  - "[[Innovation Hub]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods: []
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[National Science Foundation]]"
+  - "[[Advanced Manufacturing Research Centre (AMRC)]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[California Master Plan for Higher Education]]"
@@ -105,7 +108,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 大学的上述三重使命——Clark Kerr 称之为 [[Multi-University]]（多元大学）的核心——要成功运转，还需要两样东西：财务资源（financial resources）和正向声誉（positive reputation）。企业同样关心财务和声誉，但取向不同（pp.5–7）。
 
 > [!info]- 核心数据
-> 在美国，企业通常只支持不到 6% 的大学研究总支出。即便是产业资助最大的大学（UT M.D. Anderson、Duke、UPenn、MIT，均超过每年 1.5 亿美元），也只占到其研究总支出的 20%（NSF, 2023）。联邦政府才是大学研究的最大资助方，占比远超过一半（p.5）。
+> 在美国，企业通常只支持不到 6% 的大学研究总支出。即便是产业资助最大的大学（UT M.D. Anderson、Duke、UPenn、MIT，均超过每年 1.5 亿美元），也只占到其研究总支出的 20%（[[National Science Foundation|NSF]], 2023）。联邦政府才是大学研究的最大资助方，占比远超过一半（p.5）。
 
 对齐（alignment）在人才发展、经济增长和知识产权等目标上比较清晰；在盈利能力与学术声誉之间则分歧较大。从一个研究发现到最终的"钱"和"名声"，企业和大学的路径截然不同：企业更直接地通过产品创新追求变现，大学更直接地通过引用追求研究影响力。但大学也深知——声誉最终会吸引捐赠、赞助研究、许可收入和其他资金来源（p.7）。
 
@@ -130,7 +133,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 四个案例展示了产学合作的可能性和多样性（pp.7–8）：
 - **IBM-斯坦福**：合作研发无需铂等贵金属的催化技术，发现了回收 PET 塑料瓶和聚酯纤维的新方法
-- **波音-谢菲尔德大学**：建立先进制造研究中心（AMRC），截至 2024 年拥有 600+ 研究人员、120+ 行业成员、年经费约 4000 万英镑
+- **波音-谢菲尔德大学**：建立[[Advanced Manufacturing Research Centre (AMRC)|先进制造研究中心]]（AMRC），截至 2024 年拥有 600+ 研究人员、120+ 行业成员、年经费约 4000 万英镑
 - **Houston Methodist-Medtronic**：合作开展经导管主动脉瓣置换术（TAVR）的临床试验，改变了心脏瓣膜修复的范式
 - **Mars-UC Davis-阿肯色大学**：合作研究水稻"干湿交替"（AWD）灌溉技术，显著减少用水和温室气体排放而不减产
 
@@ -248,7 +251,7 @@ UIDP 的项目过程也值得注意：采用"Heilmeier Catechism"格式的项目
 全书的最后部分（pp.20–21）将 17 章组织为三层结构：
 
 - **基础（Foundations, Chaps. 1–5）**：产学合作的演化、组织模型、动机与成功指标、国际比较，以及普林斯顿大学和 IBM 的案例
-- **路径（Avenues, Chaps. 6–13）**：战略联盟与联合体、创新中心与经济发展、创业、高管教育、学术医疗系统与临床试验，以及如何在企业和大学内部争取支持
+- **路径（Avenues, Chaps. 6–13）**：战略联盟与联合体、[[Innovation Hub|创新中心]]与经济发展、创业、高管教育、学术医疗系统与临床试验，以及如何在企业和大学内部争取支持
 - **机制（Mechanics, Chaps. 14–17）**：伦理与法律框架、知识产权管理、研究数据管理、国际关系
 
 这三层结构对应着从"为什么做"到"在哪些领域做"再到"怎么做"的逻辑递进。全书的主题是"对齐"（alignment）——理解并连接合作组织的目标，使之朝向共同目的。从对齐出发，才有"在产学界面上创新"的伙伴关系力量（p.21）。

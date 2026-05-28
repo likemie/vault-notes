@@ -1089,7 +1089,7 @@ Total entries: **868**
 - [[Kendall Square]] — 位于麻省理工学院周边的产学合作创新区，以 1999 年成立的剑桥创新中心为核心，拥有超过 10,000 家客户组织和 170 亿美元累计投资，是全球最成功的创新生态系统之一
 - [[Morrill Land-Grant Act of 1862]] — 1862 年美国联邦立法，通过赠地建立面向工业阶层的实践教育大学体系，将高等教育从精英教育扩展为大众实践教育，奠定产学合作的历史基础
 - [[National Dropout Prevention Center]] — 聚焦辍学预防项目的非营利教育清算中心，提供项目筛选、证据评级和实践资源
-- [[NSF TIP Directorate]] — 美国国家科学基金会下属理事会，通过 CHIPS 与科学法案获得联邦拨款，2024 年 1 月向 10 个区域创新合作体授予高达 1.6 亿美元的十年期资助，负责推动跨机构跨区域的研发与商业化合作
+- [[National Science Foundation]] — 1950 年根据 Vannevar Bush 报告建议创建的美国独立联邦机构，是联邦政府资助大学基础研究的核心渠道，2022 年后通过 TIP 理事会大幅扩展区域创新中心建设资助
 - [[Open Court Reading]] — Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、BEE 均评为 promising，但研究解释标准不同
 - [[Peer-Assisted Learning Strategies]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断
 - [[Promise Neighborhoods Research Consortium]] — 评价项目、政策和实践的公共清算中心，不进行项目效果分层评级，更强调社区项目证据整理与资源汇集

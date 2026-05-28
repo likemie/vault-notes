@@ -24,6 +24,7 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[National Science Foundation]]"
 related_arguments: []
 sources:
   - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
@@ -141,7 +142,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 >
 > **大学研究型中心——跨学科的联合体平台**
 >
-> 11. 大学研究型中心在 CAP 的基础上又加了一层：**政府资助和跨机构协调**。中心可以设在单一院系内，也可以跨学科、跨学院甚至跨多所大学。部分中心通过 NSF 的产学合作研究中心（IUCRC）和工程研究中心（ERC），或美国商务部的 Manufacturing USA Institutes 获得政府资助（pp.111–112）。
+> 11. 大学研究型中心在 CAP 的基础上又加了一层：**政府资助和跨机构协调**。中心可以设在单一院系内，也可以跨学科、跨学院甚至跨多所大学。部分中心通过 [[National Science Foundation|NSF]] 的产学合作研究中心（IUCRC）和工程研究中心（ERC），或美国商务部的 Manufacturing USA Institutes 获得政府资助（pp.111–112）。
 >
 > 12. 在价值主张上，大学研究型中心与 CAP 的关键区别在于议程设置方式。CAP 的研究议程由委员会从零开始共同制定。大学研究型中心则**由大学先选定研究方向，然后产业基于对齐度决定是否加入**。这降低了产业成员的参与门槛（不需要自己定义研究问题），但也意味着如果大学的研究方向与产业需求不匹配，中心可能招不到成员。
 >

@@ -22,6 +22,7 @@ related_persons: []
 related_facts:
   - "[[California Master Plan for Higher Education]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[National Science Foundation]]"
 related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
@@ -81,7 +82,7 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 ### 政府投资的催化作用
 
 > [!note]
-硅谷在二战后不仅由斯坦福大学催生，也来自周边企业和政府投资。O'Mara（2019）的 The Code 记录了这一点："成功归功于一个充满活力和多样性的数千人群体，而不仅仅是那些主要参与者"（p.13）。曼哈顿计划（由 UC Berkeley 的 Oppenheimer 领导）和 MIT 辐射实验室的雷达研究为战后研发投资奠定了基础。Vannevar Bush 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调基础开放式研究的战略重要性，催生了 NSF 和国防部对大学基础研究的支持（p.13）。
+硅谷在二战后不仅由斯坦福大学催生，也来自周边企业和政府投资。O'Mara（2019）的 The Code 记录了这一点："成功归功于一个充满活力和多样性的数千人群体，而不仅仅是那些主要参与者"（p.13）。曼哈顿计划（由 UC Berkeley 的 Oppenheimer 领导）和 MIT 辐射实验室的雷达研究为战后研发投资奠定了基础。Vannevar Bush 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调基础开放式研究的战略重要性，催生了 [[National Science Foundation|NSF]] 和国防部对大学基础研究的支持（p.13）。
 
 ---
 

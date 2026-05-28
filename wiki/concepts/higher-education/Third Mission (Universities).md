@@ -18,6 +18,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Park]]"
   - "[[Technology Transfer]]"
+  - "[[University-Based Research Center]]"
   - "[[Multi-University]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -25,6 +26,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[National Science Foundation]]"
+  - "[[CHIPS and Science Act]]"
 related_arguments: []
 sources:
   - "[[Ch2_Ulrichsen_2025]]"
@@ -62,7 +65,7 @@ updated: 2026-05-27
 > [!note]
 > **英国**：第三使命的定义较广，不局限于[[Technology Transfer|技术转移]]，而是涵盖[[Knowledge Exchange|知识交流]]的所有途径。关键制度创新是从项目制竞争性资金转向公式驱动的长期稳定拨款，使大学能够进行系统性能力建设（Ulrichsen, 2025, pp.42–43）。
 
-> **美国**：第三使命更多通过特定立法和项目推动，如 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]（1980）、NSF 工程研究中心（ERC）和[[University-Industry Collaboration|产学合作]]研究中心（IUCRC）项目（1980s）、以及 2022 年 Chips and Science Act 和新设的 NSF 技术创新与伙伴关系局（Technology, Innovation and Partnerships Directorate）（Ulrichsen, 2025, pp.39–40, 44）。
+> **美国**：第三使命更多通过特定立法和项目推动，如 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]（1980）、[[National Science Foundation|NSF]] 工程研究中心（ERC）和[[University-Based Research Center|产学合作研究中心]]（IUCRC）项目（1980s）、以及 2022 年 [[CHIPS and Science Act]] 和新设的 NSF 技术创新与伙伴关系局（Technology, Innovation and Partnerships Directorate）（Ulrichsen, 2025, pp.39–40, 44）。
 
 > **中国**：1993 年《科学技术进步法》——相当于中国的 Bayh-Dole Act——要求大学雇员将发明 IP 转让给大学；随后政策允许大学自办企业和研究人员休长假从事技术转移与创业（Chen et al., 2016）（Ulrichsen, 2025, p.41）。
 

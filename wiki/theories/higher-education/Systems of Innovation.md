@@ -27,6 +27,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
 sources:
@@ -69,7 +70,7 @@ updated: 2026-05-27
 > 该范式建立在 Arrow（1962）和 Solow（1957）等经济学家的理论之上，核心逻辑简洁有力：基础科学发现 → 技术开发 → 市场创新 → 经济增长。政府的角色是资助[[Knowledge Production|知识生产]]以弥补市场失灵——因为知识具有公共品属性，私人部门会对其投资不足。
 
 这一时期的具体政策工具包括（Ulrichsen, 2025, pp.28–29）：
-- 大规模资助大学基础研究（美国 NSF 和国防部）
+- 大规模资助大学基础研究（美国 [[National Science Foundation|NSF]] 和国防部）
 - 强化知识产权以促进[[Technology Transfer|技术转移]]（如 1980 年美国 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]）
 - 研发税收抵免和公共采购激励私人研发
 - 发展风险投资市场

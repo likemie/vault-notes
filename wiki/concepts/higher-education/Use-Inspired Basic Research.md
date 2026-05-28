@@ -15,12 +15,13 @@ tags:
   - "theme/university-industry-collaboration"
 related_concepts:
   - "[[Corporate R&D Labs]]"
-  - "[[University-Industry Collaboration]]"
+  - "[[University-Based Research Center]]"
   - "[[Technology Transfer]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[National Science Foundation]]"
 related_arguments: []
 sources:
   - "[[Ch2_Ulrichsen_2025]]"
@@ -51,7 +52,7 @@ updated: 2026-05-27
 
 > 这一时期见证了"对研究型大学的重要性的重新认识——大学不仅应追求基础研究，还应能够将发现导向社会用途，并开展更容易转化为应用的更应用型研究"（Arora et al., 2020）（Ulrichsen, 2025, p.39）。
 
-> 这一转变的制度表现包括：美国 NSF 工程研究中心（ERC）项目的设立（聚焦跨学科、趋同研究和工程系统创新）、[[University-Industry Collaboration|产学合作]]研究中心（IUCRC）项目（促进大学-产业-政府长期合作），以及 2022 年 NSF 新设的技术创新与伙伴关系局（Ulrichsen, 2025, pp.39–40, 44）。
+> 这一转变的制度表现包括：美国 [[National Science Foundation|NSF]] 工程研究中心（ERC）项目的设立（聚焦跨学科、趋同研究和工程系统创新）、[[University-Based Research Center|产学合作研究中心]]（IUCRC）项目（促进大学-产业-政府长期合作），以及 2022 年 NSF 新设的技术创新与伙伴关系局（Ulrichsen, 2025, pp.39–40, 44）。
 
 ---
 

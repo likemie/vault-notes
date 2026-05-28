@@ -3,10 +3,10 @@ citation: "Narayan, S., & Spohrer, J. (2025). Metrics, Incentives, Rewards, and 
 extracted_to:
   - "[[Six Rs of University-Industry Relations]]"
   - "[[T-Shaped Skills]]"
-  - "[[Translational Research]]"
   - "[[Jim Spohrer]]"
   - "[[Precompetitive Research]]"
   - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
+  - "[[Translational Research]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

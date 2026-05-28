@@ -26,7 +26,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[NSF TIP Directorate]]"
+  - "[[National Science Foundation]]"
 related_arguments: []
 sources:
   - "[[Ch7_Byrne_2025]]"
@@ -51,12 +51,12 @@ updated: 2026-05-28
 > 法案的核心举措之一是设立全国性"技术枢纽"（Tech Hubs）计划，拨款超过 100 亿美元，期限长达五年，旨在推动新兴技术的规模化应用和区域经济发展（pp.133–134）。
 
 > [!abstract]
-> 法案同时通过 NSF 的技术、创新与合作理事会（Technology, Innovation, and Partnerships, TIP）提供联邦资金，支持区域创新合作体的研发和商业化活动（p.134）。
+> 法案同时通过 [[National Science Foundation|NSF]] 的技术、创新与合作理事会（Technology, Innovation, and Partnerships, TIP）提供联邦资金，支持区域创新合作体的研发和商业化活动（p.134）。
 
 ## 时间线
 
 > [!note]
-> - **2022** 年：法案通过，Tech Hubs 计划获批超 100 亿美元（五年期）；[[NSF TIP Directorate|NSF TIP]] 获得首批拨款（pp.133–134）
+> - **2022** 年：法案通过，Tech Hubs 计划获批超 100 亿美元（五年期）；[[National Science Foundation|NSF TIP]] 获得首批拨款（pp.133–134）
 > - **2023** 年：5 亿美元被正式拨付，Tech Hubs 计划启动（p.133）
 > - **2024-01**：NSF TIP 向 10 个区域创新合作体授予高达 1.6 亿美元的十年期资助（p.134）
 > - **2024-02**：12 个地点被选定接受能力建设资助（capacity-building grants），用于扩大新兴技术的规模化应用（pp.133–134）
@@ -66,7 +66,7 @@ updated: 2026-05-28
 > [!example]
 > 根据布鲁金斯学会（Brookings Institution）的分析，联邦新增创新支出的很大比例将指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区。这意味着新一批[[Innovation Hub|创新中心]]将面临与硅谷或波士顿截然不同的挑战（p.137）。
 
-[[NSF TIP Directorate|NSF TIP]] 在授予 10 个十年期大型资助之前，已先向全国各地的团队授予了 44 项能力建设资助（p.134）。这一"先小后大"的模式与 Tech Hubs 计划的 12 个能力建设资助点形成了双层资助结构。
+[[National Science Foundation|NSF TIP]] 在授予 10 个十年期大型资助之前，已先向全国各地的团队授予了 44 项能力建设资助（p.134）。这一"先小后大"的模式与 Tech Hubs 计划的 12 个能力建设资助点形成了双层资助结构。
 
 ## 影响
 

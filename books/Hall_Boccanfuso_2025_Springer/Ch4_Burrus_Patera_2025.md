@@ -8,8 +8,8 @@ extracted_to:
   - "[[University Corporate Engagement Professional]]"
   - "[[University Industry Innovation Network]]"
   - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
-  - "[[University Industry Demonstration Partnership]]"
   - "[[University-Industry Collaboration]]"
+  - "[[University Industry Demonstration Partnership]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

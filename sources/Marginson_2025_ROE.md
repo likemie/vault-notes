@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Marginson_2025_ROE]]"
   - "[[Multiplicity]]"
   - "[[Double Spatiality of Universities]]"
-  - "[[Scale in Higher Education]]"
   - "[[Semi-Autonomy of Higher Education]]"
   - "[[Space-Making in Higher Education]]"
   - "[[Hegemony]]"
@@ -15,6 +14,7 @@ extracted_to:
   - "[[Sovereign Internationalism]]"
   - "[[Doreen Massey]]"
   - "[[World-Systems Theory]]"
+  - "[[Scale in Higher Education]]"
 processed_date: 2026-05-12
 ---
 

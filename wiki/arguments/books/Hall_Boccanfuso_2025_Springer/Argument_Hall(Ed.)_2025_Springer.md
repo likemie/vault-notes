@@ -39,6 +39,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[National Science Foundation]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[University Industry Demonstration Partnership]]"
@@ -88,7 +89,7 @@ updated: 2026-05-26
 > - **容易分歧的领域**：盈利 vs 学术声誉——从研究发现到"钱"和"名声"，企业和大学的路径截然不同：企业更直接地通过产品创新追求变现，大学更直接地通过引用追求研究影响力
 
 > [!info]- 核心数据
-> 在美国，企业通常只支持不到 6% 的大学研究总支出。即便是产业资助最大的大学（UT M.D. Anderson、Duke、UPenn、MIT，均超过每年 1.5 亿美元），也只占到其研究总支出的 20%（NSF, 2023）。联邦政府才是大学研究的最大资助方，占比远超过一半（p.5）。这意味着产学合作的驱动力不应是大学的财务需求——产业资金在大学预算中始终是次要角色。
+> 在美国，企业通常只支持不到 6% 的大学研究总支出。即便是产业资助最大的大学（UT M.D. Anderson、Duke、UPenn、MIT，均超过每年 1.5 亿美元），也只占到其研究总支出的 20%（[[National Science Foundation|NSF]], 2023）。联邦政府才是大学研究的最大资助方，占比远超过一半（p.5）。这意味着产学合作的驱动力不应是大学的财务需求——产业资金在大学预算中始终是次要角色。
 
 弗里德曼（Friedman, 1970）的股东至上论——"企业的社会责任就是增加利润"——与商业圆桌会议（Business Roundtable, 2019）的多方利益相关者宣言，代表了企业目的观的两种极端立场；ESG 投资和社会目的公司（Social Purpose and Benefit Corporations）则提供了中间路径（pp.5–6）。理解这些不同的企业目的观，是理解"在何处对齐、在何处妥协"的前提。
 
