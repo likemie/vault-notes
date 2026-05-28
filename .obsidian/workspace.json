@@ -174,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open PDF Reader": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -190,9 +191,9 @@
   "active": "d095fc36407c70a5",
   "lastOpenFiles": [
     "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
+    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
     "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
-    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
