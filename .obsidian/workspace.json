@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
-                "mode": "source",
+                "file": "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Li_2012_Cambridge"
+              "title": "Li_2012_Cambridge"
             }
           }
         ]
@@ -189,15 +189,15 @@
   },
   "active": "d095fc36407c70a5",
   "lastOpenFiles": [
+    "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
+    "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
-    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
-    "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
-    "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
     "wiki/concepts/higher-education/Partnership Continuum.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025.md",
     "wiki/facts/us/University Industry Demonstration Partnership.md",
