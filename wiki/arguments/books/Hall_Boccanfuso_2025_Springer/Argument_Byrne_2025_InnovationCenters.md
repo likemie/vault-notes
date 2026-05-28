@@ -27,7 +27,11 @@ related_facts:
   - "[[Kendall Square]]"
   - "[[Research Triangle Park]]"
   - "[[Purdue Discovery Park]]"
+  - "[[University City Science Center]]"
   - "[[Central Florida Research Park]]"
+  - "[[University of Illinois Research Park]]"
+  - "[[CHIPS and Science Act]]"
+  - "[[NSF TIP Directorate]]"
 related_arguments: []
 sources:
   - "[[Ch7_Byrne_2025]]"
@@ -92,11 +96,11 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - 肯德尔广场（[[Kendall Square]]）/ 剑桥创新中心（Cambridge Innovation Center），麻省理工学院（MIT）周边
 > - [[Research Triangle Park]]（RTP，北卡罗来纳州）
 > - [[Purdue Discovery Park|普渡发现园]]（Purdue Discovery Park / Discovery District）
-> - University City Science Center（费城）
-> - Central Florida Research Park
+> - [[University City Science Center]]（费城）
+> - [[Central Florida Research Park]]
 > - Sandia Science and Technology Park（新墨西哥州）
 > - Stanton Springs Joint Development Authority（佐治亚州四县合作）
-> - University of Illinois Research Park
+> - [[University of Illinois Research Park]]
 > - STAR Park（特拉华大学）
 >
 > 信息来自 TUFF 的直接参与和与各园区管理者的对话，属于从大量案例中归纳的实践原则，而非系统性实证研究中的假设检验。
@@ -190,7 +194,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ---
 ### 案例：大学城科学中心
 
-17. 费城的大学城科学中心（University City Science Center）利用非营利结构，创建了激励创业者之间关系发展的项目，提供培训和资源获取，同时聚焦费城本地的相对优势和资产。其随后建立了物理空间，在市中心将创业者、学者和产业伙伴集中到一个聚会场所，进一步强化了关系密度（p.127）。
+17. 费城的[[University City Science Center|大学城科学中心]]（University City Science Center）利用非营利结构，创建了激励创业者之间关系发展的项目，提供培训和资源获取，同时聚焦费城本地的相对优势和资产。其随后建立了物理空间，在市中心将创业者、学者和产业伙伴集中到一个聚会场所，进一步强化了关系密度（p.127）。
 
 ---
 ### 创业文化建设中的挑战
@@ -272,9 +276,9 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 19. 联邦资金近年来大幅增加，且呈现明确的两党共同支持（bipartisan support）态势，技术开发和转移已被广泛认可为经济增长和流动性的驱动力（pp.133–134）。
 
-    2022 年《创造有益激励以生产半导体法案》（Creating Helpful Incentives to Produce Semiconductors Act，CHIPS 法案）拨款超过 100 亿美元用于"技术枢纽"（Tech Hubs）计划，期限长达五年。2023 年，5 亿美元被正式拨付启动该计划。2024 年 2 月，12 个地点被选定接受能力建设资助（capacity-building grants），用于扩大新兴技术的规模化应用（pp.133–134）。
+    2022 年《[[CHIPS and Science Act|创造有益激励以生产半导体法案]]》（Creating Helpful Incentives to Produce Semiconductors Act，CHIPS 法案）拨款超过 100 亿美元用于"技术枢纽"（Tech Hubs）计划，期限长达五年。2023 年，5 亿美元被正式拨付启动该计划。2024 年 2 月，12 个地点被选定接受能力建设资助（capacity-building grants），用于扩大新兴技术的规模化应用（pp.133–134）。
 
-    美国国家科学基金会（National Science Foundation, NSF）通过其技术、创新与合作理事会（Technology, Innovation, and Partnerships, TIP）也从 2022 年《CHIPS 与科学法案》（CHIPS and Science Act）获得了联邦拨款。2024 年 1 月，NSF TIP 向 10 个区域创新合作体授予了高达 1.6 亿美元的十年期资助，此前已向全国各地的团队授予了 44 项不同的能力建设资助（p.134）。根据布鲁金斯学会（Brookings Institution）的分析，联邦新增创新支出的很大比例将指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区（p.137）。这意味着新一批创新中心将面临与硅谷或波士顿截然不同的挑战。
+    美国国家科学基金会（National Science Foundation, NSF）通过其技术、创新与合作理事会（Technology, Innovation, and Partnerships, TIP）也从 2022 年《CHIPS 与科学法案》（CHIPS and Science Act）获得了联邦拨款。2024 年 1 月，[[NSF TIP Directorate|NSF TIP]] 向 10 个区域创新合作体授予了高达 1.6 亿美元的十年期资助，此前已向全国各地的团队授予了 44 项不同的能力建设资助（p.134）。根据布鲁金斯学会（Brookings Institution）的分析，联邦新增创新支出的很大比例将指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区（p.137）。这意味着新一批创新中心将面临与硅谷或波士顿截然不同的挑战。
 
 20. 除联邦层面外，多个州的创新资金机制也值得关注（pp.133–134）。
 
@@ -304,7 +308,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 21. 区域合作初期需要一位多面手式执行主管，能在房地产、政府关系、金融、市场营销、学术、项目激活和资产管理之间做翻译和协调，不一定每个领域都是专家（p.134）。
 
-22. 伊利诺伊大学研究园（University of Illinois Research Park）是区域合作中组织设计的典型案例。该研究园的执行主任同时兼任大学的经济发展办公室主任，其全职团队成员包括对外合作主任（Director of External Engagement）、孵化器 EnterpriseWorks 主任、企业活动与项目主任，以及创新与创业外联协调员（p.135）。通过这种安排，执行主任既能直接接触与学校科学家合作的产业伙伴，又能同时对接大学发展与对外关系团队。当她本人与外部伙伴和内部部门都有个人联系时，就更容易预判各方的优先事项和潜在重叠领域。
+22. [[University of Illinois Research Park|伊利诺伊大学研究园]]（University of Illinois Research Park）是区域合作中组织设计的典型案例。该研究园的执行主任同时兼任大学的经济发展办公室主任，其全职团队成员包括对外合作主任（Director of External Engagement）、孵化器 EnterpriseWorks 主任、企业活动与项目主任，以及创新与创业外联协调员（p.135）。通过这种安排，执行主任既能直接接触与学校科学家合作的产业伙伴，又能同时对接大学发展与对外关系团队。当她本人与外部伙伴和内部部门都有个人联系时，就更容易预判各方的优先事项和潜在重叠领域。
 
 ---
 
@@ -350,7 +354,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!success]
 > **联邦资金与[[Innovation Hub|创新中心]]增长的关联**
-> - 《通胀削减法案》（Inflation Reduction Act）、《重建更好法案》（Build Back Better Act）和 CHIPS 法案共同授权了数千亿美元，其中相当比例指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区（pp.137–138）。根据布鲁金斯学会的分析，新一批创新中心将面临与硅谷或波士顿截然不同的挑战
+> - 《通胀削减法案》（Inflation Reduction Act）、《重建更好法案》（Build Back Better Act）和 [[CHIPS and Science Act|CHIPS 法案]]共同授权了数千亿美元，其中相当比例指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区（pp.137–138）。根据布鲁金斯学会的分析，新一批创新中心将面临与硅谷或波士顿截然不同的挑战
 > - 联邦政策与围绕大学的日益成熟的风险投资（venture capital）存在协同效应，共同推动了人们对商业化与[[Technology Transfer|技术转移]]潜力的认知提升（p.137）
 > - 新兴技术领域（人工智能、人机界面、先进制造、量子信息技术）是联邦新资金最优先支持的方向，但围绕这些领域建立的创新中心相对较少，既有合作体和新兴合作体都面临机会窗口（p.138）
 

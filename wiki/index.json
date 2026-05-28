@@ -6783,6 +6783,17 @@
     ]
   },
   {
+    "title": "NSF TIP Directorate",
+    "type": "fact",
+    "path": "wiki/facts/us/NSF TIP Directorate.md",
+    "aliases": [
+      "美国国家科学基金会技术、创新与合作理事会",
+      "NSF 技术、创新与合作理事会",
+      "NSF TIP",
+      "TIP Directorate"
+    ]
+  },
+  {
     "title": "Open Court Reading",
     "type": "fact",
     "path": "wiki/facts/us/Open Court Reading.md",
@@ -6943,6 +6954,15 @@
     ]
   },
   {
+    "title": "University City Science Center",
+    "type": "fact",
+    "path": "wiki/facts/us/University City Science Center.md",
+    "aliases": [
+      "大学城科学中心",
+      "费城大学城科学中心"
+    ]
+  },
+  {
     "title": "University Industry Demonstration Partnership",
     "type": "fact",
     "path": "wiki/facts/us/University Industry Demonstration Partnership.md",
@@ -6950,6 +6970,16 @@
       "UIDP",
       "大学产业示范伙伴关系",
       "产学示范伙伴"
+    ]
+  },
+  {
+    "title": "University of Illinois Research Park",
+    "type": "fact",
+    "path": "wiki/facts/us/University of Illinois Research Park.md",
+    "aliases": [
+      "伊利诺伊大学研究园",
+      "UIUC Research Park",
+      "UIUC 研究园"
     ]
   },
   {
@@ -6987,6 +7017,18 @@
     "aliases": [
       "何者有效清算中心",
       "WWC"
+    ]
+  },
+  {
+    "title": "CHIPS and Science Act",
+    "type": "fact",
+    "path": "wiki/facts/us/CHIPS and Science Act.md",
+    "aliases": [
+      "CHIPS 与科学法案",
+      "CHIPS 法案",
+      "CHIPS Act",
+      "Creating Helpful Incentives to Produce Semiconductors Act",
+      "创造有益激励以生产半导体法案"
     ]
   },
   {
