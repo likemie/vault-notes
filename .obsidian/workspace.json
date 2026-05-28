@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
-                "mode": "source",
+                "file": "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Li_2012_Cambridge"
+              "title": "Li_2012_Cambridge"
             }
           }
         ]
@@ -188,17 +188,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cf4bbb8cde350903",
+  "active": "88e92adc127e8098",
   "lastOpenFiles": [
+    "books/Hall_Boccanfuso_2025_Springer/Ch7_Byrne_2025.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch7_Byrne_2025.pdf",
+    "books/Hall_2025_Springer/Ch7_Byrne_2025.pdf",
+    "books/Hall_2025_Springer",
+    "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch4_Burrus_Patera_2025.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025.md",
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025.pdf",
-    "books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025.md",
     "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
-    "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
-    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "wiki/concepts/higher-education/Network of Academic Corporate Relations Officers.md",
-    "books/Hall_Boccanfuso_2025_Springer/Ch4_Burrus_Patera_2025.md",
     "raw/Argument_Hall(Ed.)_2025_Springer_ch7.pdf",
     "raw/978-3-031-94913-5_7.pdf",
     "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md",
@@ -221,12 +225,8 @@
     "wiki/concepts/higher-education/University-Based Research Center.md",
     "wiki/concepts/higher-education/Industry Affiliate Program.md.tmp.91616.63cd36086c98",
     "wiki/concepts/higher-education/Product-Specific Research in University-Industry Consortia.md",
-    "wiki/concepts/higher-education/Industry Affiliate Program.md",
     "books/郑_2023_上海三联书店/figures/学校情况.jpeg",
     "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
-    "raw/Argument_Hall(Ed.)_2025_Springer_ch6.pdf",
-    "raw/978-3-031-94913-5_6.pdf",
-    "wiki/persons/usa",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
