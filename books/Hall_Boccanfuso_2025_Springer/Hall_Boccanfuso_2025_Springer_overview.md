@@ -16,3 +16,11 @@ processed_date: 2026-05-27
 ---
 
 # Hall_Boccanfuso_2025_Springer_overview
+
+## 已处理章节
+
+- [[Argument_Boccanfuso_Hall_2025_Alignment]]
+- [[Argument_Ulrichsen_2025_UIR_Evolution]]
+- [[Argument_Boccanfuso_Hall_2025_OrgStrategy]]
+- [[Argument_Burrus_Patera_2025_PartnershipBuilding]]
+- [[Argument_Narayan_Spohrer_2025_Metrics]]

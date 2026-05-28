@@ -1864,6 +1864,18 @@
     ]
   },
   {
+    "title": "Six Rs of University-Industry Relations",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Six Rs of University-Industry Relations.md",
+    "aliases": [
+      "产学关系六R框架",
+      "6R框架",
+      "IBM 6 Rs",
+      "IBM six Rs",
+      "six Rs framework"
+    ]
+  },
+  {
     "title": "Social Charter",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Social Charter.md",
@@ -1929,6 +1941,16 @@
     ]
   },
   {
+    "title": "T-Shaped Skills",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/T-Shaped Skills.md",
+    "aliases": [
+      "T型技能",
+      "T-shaped competencies",
+      "T型能力"
+    ]
+  },
+  {
     "title": "Technology Transfer",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Technology Transfer.md",
@@ -1974,6 +1996,17 @@
       "转型性变革",
       "transformative innovation policy",
       "transformative change paradigm"
+    ]
+  },
+  {
+    "title": "Translational Research",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Translational Research.md",
+    "aliases": [
+      "转化研究",
+      "转化性研究",
+      "translation research",
+      "lab-to-fab"
     ]
   },
   {
@@ -6831,6 +6864,11 @@
     "title": "Argument_Hall(Ed.)_2025_Springer",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md"
+  },
+  {
+    "title": "Argument_Narayan_Spohrer_2025_Metrics",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md"
   },
   {
     "title": "Argument_Ulrichsen_2025_UIR_Evolution",

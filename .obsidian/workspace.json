@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Li_2012_Cambridge"
+              "title": "Argument_Narayan_Spohrer_2025_Metrics"
             }
           }
         ]
@@ -188,19 +188,25 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "88e92adc127e8098",
+  "active": "cf4bbb8cde350903",
   "lastOpenFiles": [
+    "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
+    "wiki/concepts/higher-education/Six Rs of University-Industry Relations.md",
+    "wiki/concepts/higher-education/Translational Research.md",
+    "wiki/concepts/higher-education/T-Shaped Skills.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch5_Narayan_Spohrer_2025.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch5_Narayan_Spohrer_2025.pdf",
+    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "raw/Argument_Hall(Ed.)_2025_Springer_ch5.pdf",
     "raw/Argument_Hall(Ed.)_2025_Springer_ch4.pdf",
     "raw/978-3-031-94913-5_5.pdf",
-    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "books/Ryan(Ed.)_2010_HKUP/Ryan(Ed.)_2010_HKUP.md",
     "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
     "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
     "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
-    "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
     "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
     "wiki/concepts/higher-education/Partnership Continuum.md",
@@ -226,15 +232,8 @@
     "wiki/concepts/higher-education/Trade Mission (University-Industry Engagement).md",
     "wiki/concepts/higher-education/University Corporate Engagement Professional (UCEP).md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
     "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
     "books/Hall_Boccanfuso_2025_Springer/Ch4_Burrus_Patera_2025.pdf",
-    "raw/Argument_Hall(Ed.)_2025_Springer_4.pdf",
-    "raw/978-3-031-94913-5_4.pdf",
-    "wiki/concepts/higher-education/Concierge Service.md",
-    "wiki/concepts/higher-education/Professors of Practice.md",
-    "wiki/methods/quantitative/Observational and Correlational Research.md",
-    "wiki/concepts/higher-education/Industry Affiliate Program.md.tmp.34431.5d8fda9c3cd6"
+    "raw/Argument_Hall(Ed.)_2025_Springer_4.pdf"
   ]
 }
