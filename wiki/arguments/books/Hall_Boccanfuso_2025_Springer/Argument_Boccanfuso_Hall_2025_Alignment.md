@@ -109,13 +109,13 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 对齐（alignment）在人才发展、经济增长和知识产权等目标上比较清晰；在盈利能力与学术声誉之间则分歧较大。从一个研究发现到最终的"钱"和"名声"，企业和大学的路径截然不同：企业更直接地通过产品创新追求变现，大学更直接地通过引用追求研究影响力。但大学也深知——声誉最终会吸引捐赠、赞助研究、许可收入和其他资金来源（p.7）。
 
-![[books/Hall_Boccanfuso_2025_Springer/figures/ui_engagement_loop_zh.svg]]
+![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/ui_engagement_loop_zh.svg)
 
 > 上图（Figure 1.1, p.5）展示了一个正反馈循环：产学互动产生研究成果、创新和毕业生——这些成果带来社会影响和声誉提升——声誉又反过来吸引人才、政府资助和捐赠——这些资源进一步推动产学互动。相反方向的逻辑同样成立：声誉下降（排名下滑、负面报道、不良体验）可能触发螺旋式下降，导致资源流失。因此声誉对大学而言不仅是面子问题——它是获取维持多元大学运转所需资源的战略杠杆。
 
 大学与企业目标的重叠与分歧可以用 Venn 图来理解：
 
-![[books/Hall_Boccanfuso_2025_Springer/figures/university_industry_rewards_zh_clean.svg]]
+![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/university_industry_rewards_zh_clean.svg)
 
 > 上图（Figure 1.2, p.6）展示了双方各自的回报与共享目标。左侧圆是大学的核心追求——经费支持、研究引用和学术声誉；右侧圆是企业的核心追求——盈利能力、产品创新和获取人才与知识。两圆交叠处是双方高度对齐的领域：经济增长、劳动力发展和知识产权。最左端的经费支持——企业支付赞助研究费用——同时服务于大学的经费目标和企业的知识获取目标，因此靠近交叠区；而学术声誉和盈利能力分别位于两端，是分歧最大的目标。这个结构解释了为什么产学合作在某些领域顺畅（交叠区内）、在另一些领域摩擦不断（两端）。
 

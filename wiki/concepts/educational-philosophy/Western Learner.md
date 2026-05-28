@@ -86,7 +86,7 @@ updated: 2026-05-24
 > [!info]
 > Li 的 Figure 2.1 呈现了西方学习者的模型图。完整逐要素解读见 Argument 中的 Figure 2.1 详细解释。
 >
-> ![[books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png]]
+> ![](https://img.mylikemie.icu/books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png)
 >
 > **速览**：学习者 → 探究 → 外部世界。学习者内部包含**心智**（推理、智力——"最根本的"）和**智识情感**（好奇心、兴趣、内在动机）。探究由**自我表达**和**挑战态度**双路径驱动。产出为个人成就与对世界的掌握，奖励流向成就者。
 

@@ -104,7 +104,7 @@ updated: 2026-05-24
 > [!abstract]
 > Li 将 [[Confucian Learning Tradition|儒家学习传统]] 的学习路径组织为八个同心圆层次，由内向外扩展，表示从个人修身逐步延伸到天下关怀（Li, 2012, pp.46-47, Fig. 2.2）：
 
-![[books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png]]
+![](https://img.mylikemie.icu/books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png)
 
 | 层次 | 内容 | 英文 | 阶段 |
 |------|------|------|------|

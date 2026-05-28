@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
-                "mode": "source",
+                "file": "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_郑_2023_上海三联书店"
+              "title": "Argument_Rappleye_2006_RCIE"
             }
           }
         ]
@@ -190,6 +190,12 @@
   },
   "active": "cf4bbb8cde350903",
   "lastOpenFiles": [
+    "sources/Rappleye_2006_RCIE/Rappleye_2006_RCIE.md",
+    "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md",
+    "wiki/concepts/comparative-education/Cross-National Attraction.md",
+    "wiki/concepts/comparative-education/Transfer Translation Transformation.md",
+    "convert_images.py",
+    "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
     "books/郑_2023_上海三联书店/郑_2023_上海三联书店.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025.pdf",
@@ -208,8 +214,6 @@
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
     "wiki/facts/uk/Advanced Manufacturing Research Centre (AMRC).md",
-    "wiki/concepts/comparative-education/Transfer Translation Transformation.md",
-    "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
     "books/郑_2023_上海三联书店/figures/学校情况.jpeg",
     "books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub",
     "wiki/concepts/higher-education/Innovation Hub.md",
@@ -219,14 +223,11 @@
     "raw/Argument_Hall(Ed.)_2025_Springer_ch6.pdf",
     "raw/978-3-031-94913-5_6.pdf",
     "wiki/persons/usa/Jim Spohrer.md",
-    "wiki/concepts/higher-education/Translational Research.md",
     "wiki/persons/usa",
-    "wiki/concepts/higher-education/Precompetitive Research.md",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Hall_Boccanfuso_2025_Springer/Ch5_Narayan_Spohrer_2025.pdf",
     "raw/Argument_Hall(Ed.)_2025_Springer_ch5.pdf",
     "raw/Argument_Hall(Ed.)_2025_Springer_ch4.pdf",
-    "raw/978-3-031-94913-5_5.pdf",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
     "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
