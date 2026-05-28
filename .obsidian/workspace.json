@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/higher-education/Asset Mapping.md",
+                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Byrne_2025_InnovationCenters.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asset Mapping"
+              "title": "Argument_Byrne_2025_InnovationCenters"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "cf4bbb8cde350903",
   "lastOpenFiles": [
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Byrne_2025_InnovationCenters.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Yu_2024_CE.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Byrne_2025_InnovationCenters.md",
+    "wiki/concepts/higher-education/Asset Mapping.md",
     "wiki/facts/us/Kendall Square.md",
     "wiki/facts/us/Purdue Discovery Park.md",
     "wiki/facts/us/TUFF.md",
@@ -206,7 +207,6 @@
     "CLAUDE_副本.md",
     "wiki/facts/us/Research Triangle Park.md",
     "wiki/facts/us/Tech Square at Georgia Tech.md",
-    "wiki/concepts/higher-education/Asset Mapping.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch7_Byrne_2025.pdf",
     "books/Hall_2025_Springer/Ch7_Byrne_2025.pdf",
     "books/Hall_2025_Springer",
