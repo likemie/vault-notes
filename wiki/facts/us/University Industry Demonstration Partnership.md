@@ -40,8 +40,6 @@ updated: 2026-05-28
 
 # University Industry Demonstration Partnership
 
-<!-- CONTENT_START -->
-
 ## 定义
 
 > [!info]

@@ -31,8 +31,6 @@ updated: 2026-05-28
 
 # Master Agreement in University-Industry Collaboration
 
-<!-- CONTENT_START -->
-
 ## 定义
 
 > [!info]

@@ -32,8 +32,6 @@ updated: 2026-05-27
 
 # University Corporate Engagement Professional
 
-<!-- CONTENT_START -->
-
 ## 定义
 
 > [!info]

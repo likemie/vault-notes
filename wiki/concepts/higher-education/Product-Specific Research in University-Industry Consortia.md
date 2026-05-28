@@ -28,8 +28,6 @@ updated: 2026-05-28
 
 # Product-Specific Research in University-Industry Consortia
 
-<!-- CONTENT_START -->
-
 ## 定义
 
 > [!info]

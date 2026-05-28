@@ -30,8 +30,6 @@ updated: 2026-05-27
 
 # Trade Mission in University-Industry Engagement
 
-<!-- CONTENT_START -->
-
 ## 定义
 
 > [!info]

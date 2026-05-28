@@ -29,8 +29,6 @@ updated: 2026-05-28
 
 # Network of Academic Corporate Relations Officers
 
-<!-- CONTENT_START -->
-
 ## 定义
 
 > [!info]

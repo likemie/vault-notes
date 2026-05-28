@@ -30,8 +30,6 @@ updated: 2026-05-28
 
 # Alumni Engagement in University-Industry Collaboration
 
-<!-- CONTENT_START -->
-
 ## 定义
 
 > [!info]

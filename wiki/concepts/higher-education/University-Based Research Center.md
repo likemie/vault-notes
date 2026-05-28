@@ -26,8 +26,6 @@ updated: 2026-05-28
 
 # University-Based Research Center
 
-<!-- CONTENT_START -->
-
 ## 定义
 
 > [!info]

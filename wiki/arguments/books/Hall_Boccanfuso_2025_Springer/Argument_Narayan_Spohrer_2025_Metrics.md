@@ -31,8 +31,6 @@ subtype: book-chapter
 publication_type: book
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 ---
-<!-- CONTENT_START -->
-
 ## 研究问题
 
 > [!question]

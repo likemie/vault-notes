@@ -30,8 +30,6 @@ updated: 2026-05-28
 
 # University Industry Innovation Network
 
-<!-- CONTENT_START -->
-
 ## 定义
 
 > [!info]

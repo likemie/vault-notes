@@ -26,8 +26,6 @@ status: draft
 created: 2026-05-28
 updated: 2026-05-28
 ---
-<!-- CONTENT_START -->
-
 ## 定义
 
 > [!info]

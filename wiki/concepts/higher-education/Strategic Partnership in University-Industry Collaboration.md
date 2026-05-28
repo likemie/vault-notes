@@ -32,8 +32,6 @@ updated: 2026-05-28
 
 # Strategic Partnership in University-Industry Collaboration
 
-<!-- CONTENT_START -->
-
 ## 定义
 
 > [!info]
