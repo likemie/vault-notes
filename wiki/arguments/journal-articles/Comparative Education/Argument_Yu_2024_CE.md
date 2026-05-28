@@ -24,6 +24,7 @@ related_concepts:
   - "[[Symbolic Boundary]]"
   - "[[Self-Cultivation]]"
   - "[[Cultural Disembedding]]"
+  - "[[Academic Freedom]]"
 related_theories: []
 related_methods:
   - "[[In-depth Interview]]"
@@ -200,32 +201,16 @@ updated: 2026-05-21
 >
 > > "The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation."（Yu & Zhao, 2024, p.71–72）
 
-## 局限性与批评
+## 自述局限
 
-> [!warning] 局限性与批评
-> ### 数据的时间滞后与政治环境剧变
+> [!warning]
+> ### 2017 年后政治环境背离论文呼吁
 >
-> 访谈在 2017 年进行——此后课程改革（2017 年后历史、语文、政治等科目大幅修订）、意识形态收紧和边疆政策均显著加强了控制。作者坦承发展方向与论文呼吁**背道而驰**（Yu & Zhao, 2024, p.72）。经验发现在今天可能更加尖锐——但也因政治环境收紧而更难被复制验证。
+> 作者坦承，自 2017 年开展本研究以来，中国的政治与教育发展"指向了相反方向：更民族主义、更同化主义、更汉人中心"（towards a more nationalist, assimilationist, and Han-centric approach, p.72）。习近平选择性重引马克思主义正统、收紧[[Academic Freedom|学术自由]]约束，加上对课堂的加强监控，使论文所呼吁的多元包容范式转变在现实中的可行性受到了严重制约。
 >
-> ### 教科书样本的时间窗口
+> ### 田野研究可行性的持续收窄
 >
-> 教科书覆盖 2001–2016 年，学生访谈在 2017 年。两者存在时间差——学生使用的版本可能不完全是分析版本。更关键的是 2017 年后的重大修订未纳入分析。若修订版如 Yan & Vickers（2023）暗示变得更汉人中心化，论文揭示的趋势可能只是冰山一角。
->
-> ### 语言媒介对叙述深度的影响
->
-> 访谈以普通话进行。对于母语非汉语的少数民族学生（藏族、维吾尔族、哈萨克族），用第二语言讨论深层文化和宗教感受，叙述的丰富性和情感深度可能受限。研究者未讨论这一语言不对称对数据质量的影响。
->
-> ### 规范性立场与经验分析的张力
->
-> 论文明确站在多元文化主义的规范性立场（"the multiculturalism we advocate"——p.60），并以此评判官方叙事。一个方法论问题是：经验分析（教科书和学生访谈）在多大程度上独立于这一规范承诺？换一个不支持多元文化主义的研究者分析同样数据，是否会得出不同结论？论文对此未做方法论上的自反性讨论。
->
-> ### 缺少关键对照组：汉族非宗教学生
->
-> 研究聚焦"边缘"学生并将其与"[[Official Knowledge|官方知识]]"对比，但缺少关键参照组：**汉族非宗教背景学生**如何看待儒家传统？若汉族学生同样并不内化官方叙事——如 Xie et al.（2021, p.97）发现"儒家不再是一个与许多社会政治生活方面相连的活态历史表征"——那么官方知识与民间接受之间的断裂就不是"边缘 vs 中心"的独特现象，而是**象征政治与日常经验之间的普遍断裂**。缺少对照组使得"边缘视角"的独特性难以被精确评估。
->
-> ### 教科书分析未区分的科目差异
->
-> 研究将六门科目的教科书一并分析，但对不同科目之间叙事差异的讨论较薄（仅指出儒家叙事"主要集中在政治、历史相关科目和语文"）。若语文教科书更侧重经典文本的文学价值、而历史教科书更侧重文明等级论——这种科目间的叙事分工本身就是一个值得深挖的分析维度。
+> 作者指出，"加强的监控与控制也给该领域的未来研究投下阴影"——"在中国大陆开展田野工作日益困难"（Heightened surveillance and control also cast a shadow over future research in this area... it is increasingly challenging to conduct fieldwork in mainland China today, p.72）。作者表达了"迫切需要的批判性研究仍能继续进行"的期望，但未对可行性做乐观估计。
 
 ## 来源
 
