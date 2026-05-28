@@ -1351,7 +1351,7 @@ Total entries: **853**
 
 #### Research in Comparative and International Education
 
-- [[Argument_Rappleye_2006_RCIE]] — 提出跨国吸引力情境概念地图，区分结构／人双层推力与阻力及四种吸引力“火花“，回应全球化对教育转移研究的新要求
+- [[Argument_Rappleye_2006_RCIE]] — “提出跨国吸引力情境概念地图，拆解情境为结构层与人的层面的双层互动，区分推力与阻力两侧各四种结构因素与多元行动者，以危机化/合法化/审慎/美化四种火花分类吸引力动机，回应全球化对前转移能动性、行动者激增和话语转移的三项分析新要求”
 
 #### Review of Education
 
