@@ -3,15 +3,15 @@ citation: "Hall, R., & Boccanfuso, A. (Eds.). (2025). University-Industry Collab
 extracted_to:
   - "[[Argument_Hall(Ed.)_2025_Springer]]"
   - "[[Academic Freedom]]"
-  - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
   - "[[Technology Transfer]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 ---
 
@@ -24,3 +24,4 @@ processed_date: 2026-05-27
 - [[Argument_Boccanfuso_Hall_2025_OrgStrategy]]
 - [[Argument_Burrus_Patera_2025_PartnershipBuilding]]
 - [[Argument_Narayan_Spohrer_2025_Metrics]]
+- [[Argument_Hoffman_2025_UI_Alliances_Consortia]]

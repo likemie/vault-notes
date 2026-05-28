@@ -8,8 +8,8 @@ extracted_to:
   - "[[Trade Mission in University-Industry Engagement]]"
   - "[[University Corporate Engagement Professional]]"
   - "[[University Industry Innovation Network]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

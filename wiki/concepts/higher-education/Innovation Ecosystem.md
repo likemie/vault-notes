@@ -11,6 +11,7 @@ tags:
   - "level/higher-education"
   - "theme/university-industry-collaboration"
 related_concepts:
+  - "[[Innovation Hub]]"
   - "[[Academic Freedom]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
@@ -26,6 +27,7 @@ sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
   - "[[Ch2_Ulrichsen_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
+  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -50,7 +52,7 @@ updated: 2026-05-26
 ## 两种形态
 
 > [!abstract]
-- **基于地点的生态系统（Place-based ecosystem）**：由特定地理区域内的高校、企业、研究实验室和政府投资共同构成。典型案例是硅谷和旧金山湾区，以及波士顿的 Route 128 走廊。其特点是面对面互动密度高、人才在区域内流动便捷、风投资本集中（pp.12–13）
+- **基于地点的生态系统（Place-based ecosystem）**：由特定地理区域内的高校、企业、研究实验室和政府投资共同构成。典型案例是硅谷和旧金山湾区，以及波士顿的 Route 128 走廊。其特点是面对面互动密度高、人才在区域内流动便捷、风投资本集中（pp.12–13）。[[Innovation Hub|创新中心]]是基于地点的生态系统中最制度化的组织形态——它将区域关键利益相关者组织起来，围绕共同愿景进行大规模协调性投资（Hoffman et al., 2025, pp.112–113）
 - **全球性生态系统（Global ecosystem）**：围绕特定研究方法、技术平台或科学问题形成的跨国网络。例如围绕 AlphaFold 等蛋白质结构预测方法形成的全球研究社区，不受地理边界限制（p.12）
 
 两种形态并非互斥——一个地点生态系统中的参与者（如硅谷的 AI 研究员）往往同时是多个全球生态系统的成员。
@@ -109,3 +111,4 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 - [[Ch1_Boccanfuso_Hall_2025]]
 - [[Ch2_Ulrichsen_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]
+- [[Ch6_Hoffman_Radasch_Thorsell_2025]]

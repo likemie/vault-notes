@@ -1619,6 +1619,17 @@
     ]
   },
   {
+    "title": "Industry Advisory Board",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Industry Advisory Board.md",
+    "aliases": [
+      "行业咨询委员会",
+      "产业咨询委员会",
+      "IAB",
+      "industry advisory boards"
+    ]
+  },
+  {
     "title": "Industry Affiliate Program",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Industry Affiliate Program.md",
@@ -1639,6 +1650,18 @@
       "创新生态系统",
       "创新生态",
       "innovation ecosystems"
+    ]
+  },
+  {
+    "title": "Innovation Hub",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Innovation Hub.md",
+    "aliases": [
+      "创新中心",
+      "创新枢纽",
+      "innovation hubs",
+      "place-based innovation hub",
+      "基于地点的创新中心"
     ]
   },
   {
@@ -6302,6 +6325,18 @@
     ]
   },
   {
+    "title": "Advanced Manufacturing Research Centre (AMRC)",
+    "type": "fact",
+    "path": "wiki/facts/uk/Advanced Manufacturing Research Centre (AMRC).md",
+    "aliases": [
+      "先进制造研究中心",
+      "AMRC",
+      "谢菲尔德大学先进制造研究中心",
+      "AMRC with Boeing",
+      "University of Sheffield Advanced Manufacturing Research Centre"
+    ]
+  },
+  {
     "title": "Areopagitica",
     "type": "fact",
     "path": "wiki/facts/uk/Areopagitica.md",
@@ -6884,6 +6919,11 @@
     "title": "Argument_Hall(Ed.)_2025_Springer",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md"
+  },
+  {
+    "title": "Argument_Hoffman_2025_UI_Alliances_Consortia",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hoffman_2025_UI_Alliances_Consortia.md"
   },
   {
     "title": "Argument_Narayan_Spohrer_2025_Metrics",
