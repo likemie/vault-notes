@@ -1133,7 +1133,7 @@ Total entries: **859**
 - [[Argument_Boccanfuso_Hall_2025_Alignment]] — 以2024年诺贝尔奖为引，论证产学合作的三重回报框架，分析大学与企业目标对齐的结构性挑战，通过历史追溯和UIDP案例说明如何克服障碍实现界面上的创新
 - [[Argument_Boccanfuso_Hall_2025_OrgStrategy]] — 构建产学参与的活动-基础-特征三维框架，通过65所大学网站分析和产学双方问卷调查，发现五种常见组织模式且无一完全全面，中心办公室仅充当导航者而非执行者，双方在互利关系上高度一致但组织实践高度碎片化
 - [[Argument_Burrus_Patera_2025_PartnershipBuilding]] — 从产学关系实践者角度，提出通过连接、探索发现与关系建设三步构建战略性产学伙伴关系的框架，强调大学企业参与专员的中介角色
-- [[Argument_Byrne_2025_InnovationCenters]] — 基于 TUFF 四十余年产学合作开发经验，提出创新中心建设的四个核心信条与六项优先领域，以 Tech Square、RTP 等多案例说明如何通过场所营造与资产映射推动区域经济发展
+- [[Argument_Byrne_2025_InnovationCenters]] — 基于大学融资基金会四十余年产学合作开发经验，提出创新中心建设的四个核心信条与六项优先领域，以 Tech Square、RTP 等多案例说明如何通过场所营造与资产映射推动区域经济发展
 - [[Argument_Hall(Ed.)_2025_Springer]] — 围绕产学合作的对齐（alignment）、参与（engagement）与公共效益组织 17 章研究，以基础-路径-机制三层框架展示大学与企业在研究、教育和创新生态系统中的合作机制与挑战
 - [[Argument_Hoffman_2025_UI_Alliances_Consortia]] — 将产学联盟与联合体按组织化程度排列为从行业咨询委员会到创新中心的四种模式，以AMRC为案例提炼出限制发起成员数量、跨越供应链价值线、前竞争IP共有等可复制经验
 - [[Argument_Narayan_Spohrer_2025_Metrics]] — 以IBM百年产学关系历程为线索，提出度量、激励、奖励与文化四要素必须随商业环境与战略重点持续调适，并通过六R框架和大小规模案例说明产学合作的实践逻辑
