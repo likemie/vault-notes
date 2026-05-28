@@ -11,12 +11,14 @@
             "id": "d095fc36407c70a5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png"
+                "file": "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "European American Conceptualization of Learning"
+              "icon": "lucide-file",
+              "title": "Li_2012_Cambridge"
             }
           }
         ]
@@ -187,6 +189,8 @@
   },
   "active": "d095fc36407c70a5",
   "lastOpenFiles": [
+    "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
+    "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
     "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
@@ -201,9 +205,7 @@
     "wiki/concepts/higher-education/Strategic Partnership in University-Industry Collaboration.md",
     "wiki/concepts/higher-education/University-Industry Collaboration.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
-    "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
     "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
-    "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
     "books/郑_2023_上海三联书店/figures/第五章 受访者亚群体在不同主轴位置上的分布情况.jpeg",
     "books/郑_2023_上海三联书店/figures/第五章 名校大学生工作意义来源的三角图式结构.jpeg",
     "books/郑_2023_上海三联书店/figures/第三章.jpeg",
