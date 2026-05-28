@@ -16,12 +16,11 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Grade Retention]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Grade Retention]]"
   - "[[Inclusive Evidence Validation Typology]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
@@ -50,9 +49,9 @@ updated: 2026-05-24
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Evidence-Based Education]]：作为从循证医学迁移到教育领域的范式，强调专业实践应使用当前最佳研究证据，但教育领域同时存在对标准化、可复制性和认识论窄化的批评（Dachet & Baye, 2021, pp.166-168）。
+> - [[Evidence-Based Education]]：作为从循证医学[[Transfer Translation Transformation|迁移]]到教育领域的范式，强调专业实践应使用当前最佳研究证据，但教育领域同时存在对标准化、可复制性和认识论窄化的批评（Dachet & Baye, 2021, pp.166-168）。
 > - [[Evidence-Based Reform]]：主要采用 Slavin 的三项杠杆作为分析框架，即提供广泛的经验证项目、提供教师友好的研究综述、为学校实施经验证项目提供资源（Dachet & Baye, 2021, pp.166, 179-181）。
-> - 方法匹配而非单一证据层级：结构性教育改革很难总是用实验设计评估，因此可用[[Observational and Correlational Research|相关研究]]、纵向研究或其他适合问题的问题-方法组合来判断现有最佳证据（Dachet & Baye, 2021, pp.171, 179-180）。
+> - 方法匹配而非单一证据层级：结构性教育改革很难总是用实验设计评估，因此可用相关研究、纵向研究或其他适合问题的问题-方法组合来判断现有最佳证据（Dachet & Baye, 2021, pp.171, 179-180）。
 
 ## 研究方法
 
@@ -80,9 +79,9 @@ updated: 2026-05-24
 
 ### 第三步：结构性改革并不都同样受证据支持
 
-共同核心课程延伸到 3 至 15 岁，与延迟分流有助于教育公平的国际[[Observational and Correlational Research|相关研究]]相一致；教师培养延长则可由教师技能与学生表现相关的研究间接支持（Dachet & Baye, 2021, pp.171-173）。但能力本位取向、定向取向模式和学校日历改革缺少严格研究支持；它们可能有理论理由或社会接受度，却不能被直接称为已经有强有效性证据（Dachet & Baye, 2021, pp.173-174）。
+共同核心课程延伸到 3 至 15 岁，与延迟分流有助于教育公平的国际相关研究相一致；教师培养延长则可由教师技能与学生表现相关的研究间接支持（Dachet & Baye, 2021, pp.171-173）。但能力本位取向、定向取向模式和学校日历改革缺少严格研究支持；它们可能有理论理由或社会接受度，却不能被直接称为已经有强有效性证据（Dachet & Baye, 2021, pp.173-174）。
 
-留级是相反案例：证据相对充分地显示缺少正向平均效应，但改革仍只提出到 2030 年降低 50%，未在共同核心阶段完全禁止（Dachet & Baye, 2021, p.174）。这说明“有证据”并不自动[[Transfer Translation Transformation|转化]]为强政策，政治可行性和公众接受仍会调节改革力度。
+留级是相反案例：证据相对充分地显示缺少正向平均效应，但改革仍只提出到 2030 年降低 50%，未在共同核心阶段完全禁止（Dachet & Baye, 2021, p.174）。这说明“有证据”并不自动转化为强政策，政治可行性和公众接受仍会调节改革力度。
 
 ### 第四步：本地项目证据太少，无法直接复制英美证据层级
 
@@ -139,7 +138,7 @@ updated: 2026-05-24
 
 > ### 结构性改革证据与项目证据之间仍有断裂
 >
-> 论文承认结构性改革常不能用实验设计评价，因此使用[[Observational and Correlational Research|相关研究]]作为最佳可得证据（Dachet & Baye, 2021, p.171）。但这也意味着 Slavin 式项目有效性框架并不能完整覆盖共同核心、分流制度、教师培养年限和学校日历等系统结构问题；这类改革需要不同于项目清单的证据治理方式。
+> 论文承认结构性改革常不能用实验设计评价，因此使用相关研究作为最佳可得证据（Dachet & Baye, 2021, p.171）。但这也意味着 Slavin 式项目有效性框架并不能完整覆盖共同核心、分流制度、教师培养年限和学校日历等系统结构问题；这类改革需要不同于项目清单的证据治理方式。
 
 ## 来源
 

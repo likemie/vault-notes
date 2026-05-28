@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Structured Teaching]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Policy Borrowing]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -46,7 +45,7 @@ updated: "2026-05-22"
 > [!abstract] 设计与实施
 > - PISA 每三年评估一次 15 岁学生的阅读、数学和科学素养，重点不是具体课程记忆，而是学生是否具备“充分参与社会”所需的知识和能力（Slethaug, 2010, p.7）。
 > - 每一轮会有一个主测领域，其余领域仍保留评估（Slethaug, 2010, p.7）。
-> - 它通过共同量表和跨国可比框架，把各国教育表现[[Transfer Translation Transformation|转化]]成排名、平均分与差距叙事；相关测量技术背景可见 [[Rasch Measurement]]。
+> - 它通过共同量表和跨国可比框架，把各国教育表现转化成排名、平均分与差距叙事；相关测量技术背景可见 [[Rasch Measurement]]。
 
 ## 政策作用
 

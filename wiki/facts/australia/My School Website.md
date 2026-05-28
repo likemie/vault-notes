@@ -15,7 +15,7 @@ tags:
 - assessment
 - accountability
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
+  - "[[School Choice]]"
   - "[[School Autonomy]]"
   - "[[New Public Management]]"
   - "[[Performativity of Measurement]]"
@@ -82,7 +82,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与评论
 > - **制造社会分裂**：Edward 的评论捕捉了核心批评——My School 通过将学校公开排名，系统性地制造"赢家"和"输家"的身份，将教育简化为竞争性市场交易（Keddie et al., 2020, p.437）
-> - **透明度 vs 羞辱**：网站声称的"透明度"功能在实践中[[Transfer Translation Transformation|转化]]为"公开羞辱"——"低表现"标签对弱势学校社区产生污名化效应（Keddie et al., 2020, p.434）
+> - **透明度 vs 羞辱**：网站声称的"透明度"功能在实践中转化为"公开羞辱"——"低表现"标签对弱势学校社区产生污名化效应（Keddie et al., 2020, p.434）
 > - **与残余化加剧的关联**：My School 的排名机制直接推动家长"用脚投票"，将资源（学生、有能力的家长、优质教师）从低排名学校抽离，进一步集中到高排名学校（Keddie et al., 2020, p.437）
 > - **比较方式的修改**：从"邻近学校比较"改为"全国数据比较"——这一修改的动机可能是回应批评，但其实际效果尚需更多研究
 

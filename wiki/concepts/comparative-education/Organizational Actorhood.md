@@ -10,11 +10,11 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Otherhood]]"
+  - "[[Entrepreneurial University]]"
   - "[[New Public Management]]"
   - "[[Global Universities Rankings]]"
   - "[[University Social Responsibility]]"
   - "[[Global Citizenship]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
@@ -51,7 +51,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Otherhood]] — 能动者身份（actorhood）描述组织作为自主行动者的一般特征；otherhood 是其特殊形式，特指组织为"他者"（其他行动者、非行动者实体、抽象原则）行使代理权的社会过程（Zapp, 2022, p.149）
-> - vs 创业型大学（entrepreneurial university） — Clark (1998) 的创业型大学概念强调大学对市场机会的主动追求和资源多样化；组织能动者身份涵盖更广，不仅包括市场面向，也包括社会嵌入性和公民身份等非经济维度（Zapp, 2022, p.148）
+> - vs [[Entrepreneurial University|创业型大学]]（entrepreneurial university） — Clark (1998) 的创业型大学概念强调大学对市场机会的主动追求和资源多样化；组织能动者身份涵盖更广，不仅包括市场面向，也包括社会嵌入性和公民身份等非经济维度（Zapp, 2022, p.148）
 
 ---
 ## 概念演变
@@ -122,7 +122,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - [[UN Sustainable Development Goals]] — SDGs 为大学的组织能动者身份（尤其是社会嵌入性维度）提供了全球性议程框架
-> - [[THE Impact Ranking]] — THE 影响力排名将大学的社会嵌入性和[[Global Citizenship|全球公民]]身份[[Transfer Translation Transformation|转化]]为可量化的排名指标
+> - [[THE Impact Ranking]] — THE 影响力排名将大学的社会嵌入性和[[Global Citizenship|全球公民]]身份转化为可量化的排名指标
 
 ---
 ## 来源

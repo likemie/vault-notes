@@ -16,12 +16,10 @@ tags:
   - policy/evidence-informed-policy
 related_concepts:
   - "[[Evidence-Informed Practice]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Knowledge Mobilisation]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
@@ -44,7 +42,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> 该机构开展教育研究系统综述，并向瑞典实践者传播综述结果；同时资助研究项目，并通过与学校系统工作人员持续对话来识别需要[[Observational and Correlational Research|相关研究]]的领域（Pellegrini & Vivanet, 2021, p.33）。
+> 该机构开展教育研究系统综述，并向瑞典实践者传播综述结果；同时资助研究项目，并通过与学校系统工作人员持续对话来识别需要相关研究的领域（Pellegrini & Vivanet, 2021, p.33）。
 
 ## 时间线
 
@@ -64,7 +62,7 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning]
-> 国家级机构有助于本国语境中的证据[[Transfer Translation Transformation|转化]]，但欧洲层面仍存在协调不足和跨国复用困难。相关推理链见 [[Argument_Pellegrini_2021_ROE]]（Pellegrini & Vivanet, 2021, pp.30, 35-36）。
+> 国家级机构有助于本国语境中的证据转化，但欧洲层面仍存在协调不足和跨国复用困难。相关推理链见 [[Argument_Pellegrini_2021_ROE]]（Pellegrini & Vivanet, 2021, pp.30, 35-36）。
 
 ## 相关概念／理论
 

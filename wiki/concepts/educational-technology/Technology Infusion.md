@@ -14,8 +14,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Effect Size]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Formative Program Evaluation]]"
 related_persons: []

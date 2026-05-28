@@ -15,8 +15,7 @@ related_concepts:
   - "[[Confucian Heritage Cultures]]"
   - "[[Visible Learning]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
@@ -67,7 +66,7 @@ updated: '2026-05-18'
 
 ## 相关研究
 
-> [!example] [[Observational and Correlational Research|相关研究]]
+> [!example] 相关研究
 > - [[Argument_Laursen_2015_Paideia]] — 用 Hofstede 国家文化维度提出并检验"国际[[Effective Teaching|有效教学]]综合是否适用于丹麦"的问题；结论认为国家文化并未显著改变 [[John Hattie|Hattie]]、Helmke 和 Meyer 所概括的核心有效教学质量（Laursen, 2015, pp.36–40）。
 
 ## 应用领域

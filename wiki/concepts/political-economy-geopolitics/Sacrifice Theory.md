@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Necropolitics]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Retrotopia]]"
   - "[[Pragmatism in China]]"
 related_theories: []
@@ -70,7 +69,7 @@ updated: 2026-05-26
 ## 概念辨析
 
 > [!example]
-> - 与 [[Necropolitics|死亡政治]]（Mbembe）对比 — 死亡政治关注主权权力"决定谁可以活、谁必须死"的能力；牺牲理论关注受害者如何将死亡"内化"为道德选择。前者强调暴力的外部施加，后者强调暴力的内部[[Transfer Translation Transformation|转化]]。
+> - 与 [[Necropolitics|死亡政治]]（Mbembe）对比 — 死亡政治关注主权权力"决定谁可以活、谁必须死"的能力；牺牲理论关注受害者如何将死亡"内化"为道德选择。前者强调暴力的外部施加，后者强调暴力的内部转化。
 > - 与 [[Retrotopia|怀旧乌托邦]]（Bauman）对比 — 怀旧乌托邦描述共同体想象的时间结构（理想在过去）；牺牲理论描述共同体维持的道德机制（通过牺牲再生产忠诚）。二者在[[Zhonghua Minzu|中华民族]]建构中相互配合：怀旧乌托邦提供了"复兴"的目标，牺牲理论提供了"复兴"的手段。
 
 

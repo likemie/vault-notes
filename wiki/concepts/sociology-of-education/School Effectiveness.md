@@ -13,9 +13,9 @@ tags:
   - region/uk
   - method/quantitative
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Professional Judgment]]"
   - "[[Governmentality]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[School Leadership]]"
 related_theories: []
 related_methods: []
@@ -41,7 +41,7 @@ updated: 2026-05-23
 ## 核心问题
 
 > [!abstract] 问题意识
-> 学校效能的关键问题是：在学生来源相近的情况下，为什么不同学校会产生不同成绩？这一问题把解释重心从阶级、族裔、家庭和社会经济语境[[Transfer Translation Transformation|转移]]到学校内部的组织、风气、教学质量和领导上，使“学校造成的差异”成为政策关注中心（Ball, 2008, pp.663-664）。
+> 学校效能的关键问题是：在学生来源相近的情况下，为什么不同学校会产生不同成绩？这一问题把解释重心从阶级、族裔、家庭和社会经济语境转移到学校内部的组织、风气、教学质量和领导上，使“学校造成的差异”成为政策关注中心（Ball, 2008, pp.663-664）。
 
 ## 核心要素
 
@@ -54,7 +54,7 @@ updated: 2026-05-23
 ## 理论基础
 
 > [!tip] 理论基础
-> 学校效能可以从 [[Governmentality]] 角度理解：它并不只是描述学校差异，而是在政策中构造出可检查、可比较、可矫正的学校对象。它通过中性指标、检查和改进话语，把学校[[Transfer Translation Transformation|转化]]为可治理的组织（Ball, 2008, pp.663-665）。
+> 学校效能可以从 [[Governmentality]] 角度理解：它并不只是描述学校差异，而是在政策中构造出可检查、可比较、可矫正的学校对象。它通过中性指标、检查和改进话语，把学校转化为可治理的组织（Ball, 2008, pp.663-665）。
 
 ## 治理机制
 

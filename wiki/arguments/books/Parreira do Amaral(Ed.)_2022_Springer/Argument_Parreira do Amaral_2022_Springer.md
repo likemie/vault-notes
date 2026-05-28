@@ -35,7 +35,6 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Response-ability]]"
   - "[[Knowledge Transfer]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Critical Geopolitics]]"
 related_methods: []
@@ -102,7 +101,7 @@ updated: '2026-05-18'
 > - [[Argument_Moisio_2022_Springer]] — Ch2 [[Sami Moisio]]: [[Knowledge-Based Economization|知识经济化]]在何种意义上具有地缘政治维度，以 Harvey、Porter 和 Hub and [[Flow]] 想象为分析资源
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 [[Marcelo Parreira do Amaral]]: 提出新[[Geopolitics of Knowledge|知识地缘政治]]概念，以[[Critical Geopolitics|批判地缘政治学]]和后殖民去殖民两脉络综合为框架，分析[[Global Regionalisms in Higher Education|全球区域主义]]和 [[Global Education Industry|GEI]] 两大转型语境，展示 IEHs 和 Minerva 作为地缘政治案例
 > - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos: 以 Cowen 的 [[Transitology]] 和双轴模型为框架，对比[[Transhumanism|超人类主义]]与[[Posthumanism|后人类主义]]两种晚期现代性教育愿景，呼吁以 connectivity 和 [[Response-ability]] 为组织原则的新型公共教育理论
-> - [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken: 区分 GPK 两面（[[Knowledge Production|知识生产]] vs [[Knowledge Transfer|知识转移]]），提出知识[[Transfer Translation Transformation|转移]]六模态，以中美紧张关系为核心案例论证知识转移为 GPK 的真正核心
+> - [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken: 区分 GPK 两面（[[Knowledge Production|知识生产]] vs [[Knowledge Transfer|知识转移]]），提出知识转移六模态，以中美紧张关系为核心案例论证知识转移为 GPK 的真正核心
 
 
 ## 来源

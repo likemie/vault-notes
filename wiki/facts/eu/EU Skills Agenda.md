@@ -17,6 +17,7 @@ tags:
 - policy/lifelong-learning
 related_concepts:
   - "[[Theories of Policy Change]]"
+  - "[[Innovation Ecosystem]]"
   - "[[Performance Indicators]]"
   - "[[Network Governance]]"
   - "[[Neocorporatism]]"

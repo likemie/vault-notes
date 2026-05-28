@@ -23,8 +23,8 @@ related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Non-intervention Research]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Intervention Research]]"
+  - "[[Observational and Correlational Research]]"
   - "[[Website Content Analysis]]"
   - "[[In-depth Interview]]"
 related_persons: []
@@ -54,7 +54,7 @@ updated: 2026-05-26
 
 > [!example] 操作步骤
 > - **不操纵自变量**：混合方法/多方法研究在该文分类中属于[[Non-intervention Research|非干预研究]]（Brady et al., 2023, p.4）。
-> - **同时使用量化和质性数据**：这是该类别区别于[[Observational and Correlational Research|观察/相关研究]]和[[Qualitative Research|质性研究]]的操作性标准（Brady et al., 2023, p.4）。
+> - **同时使用量化和质性数据**：这是该类别区别于观察/相关研究和[[Qualitative Research|质性研究]]的操作性标准（Brady et al., 2023, p.4）。
 > - **作为独立编码类别**：作者在 2020 年数据中单独编码该类，因为此前研究未将其与观察/相关研究分开（Brady et al., 2023, pp.4, 6）。
 
 ## 适用场景

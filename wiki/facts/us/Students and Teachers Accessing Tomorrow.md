@@ -19,8 +19,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Classroom Management]]"
   - "[[Evidence-Based Education]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods:
   - "[[Logic Model]]"
   - "[[Formative Program Evaluation]]"

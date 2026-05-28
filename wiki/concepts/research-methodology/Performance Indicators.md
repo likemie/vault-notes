@@ -17,9 +17,9 @@ related_concepts:
   - "[[Regulatory Regionalism]]"
   - "[[International Education]]"
   - "[[Selectivity]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Theories of Policy Change]]"
   - "[[Performativity of Measurement]]"
+  - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Sociology of Measurement]]"
 related_methods: []
@@ -104,7 +104,7 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 
 > 例：任何公民都可以在 EU 的区域创新记分牌地图上一眼识别自身区域是"创新领导者"还是"一般创新者"。这种可视化能力使排名被感知为不容置疑的"事实"——"行动者既不能凭空发明，也不能随意改变"（Rambla, 2022, p.165）。
 
-**通过区域指标展示可测量成果**：绩效指标将复杂的政策现实[[Transfer Translation Transformation|转化]]为可视化、可比较的量化排名。在 EU，EUROSTAT 绘制一系列地图，根据区域创新能力和教育培训系统绩效对 NUTS2 区域进行分类（Rambla, 2022, p.169–170）。
+**通过区域指标展示可测量成果**：绩效指标将复杂的政策现实转化为可视化、可比较的量化排名。在 EU，EUROSTAT 绘制一系列地图，根据区域创新能力和教育培训系统绩效对 NUTS2 区域进行分类（Rambla, 2022, p.169–170）。
 
 **传播共同的变革理论**：绩效指标承载特定的因果叙事——关于政策干预在何种情境中激活何种机制的信念体系。详见 [[Theories of Policy Change]]。OECD 传播了"投资研发→培养创造力→高学历劳动力→经济增长"的良性循环叙事；EU 的 ET 2020 战略假定降低早期辍学率与促进创新将产生强大增效作用（Rambla, 2022, p.165–166）。
 

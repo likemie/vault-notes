@@ -14,7 +14,6 @@ tags:
 - methodology
 - region/uk
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Sage]]"
@@ -36,7 +35,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Ray Pawson 是英国利兹大学（University of Leeds）社会研究方法论教授，**实在论评估（Realist Evaluation）**和**实在论综合（Realist Synthesis）**的主要提出者之一。他的工作聚焦于将[[Critical Realism|批判实在论]]哲学[[Transfer Translation Transformation|转化]]为适用于社会政策和项目评估的具体方法论。
+> Ray Pawson 是英国利兹大学（University of Leeds）社会研究方法论教授，**实在论评估（Realist Evaluation）**和**实在论综合（Realist Synthesis）**的主要提出者之一。他的工作聚焦于将[[Critical Realism|批判实在论]]哲学转化为适用于社会政策和项目评估的具体方法论。
 
 ## 核心思想
 
@@ -70,7 +69,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Critical Realism]] — 将批判实在论哲学[[Transfer Translation Transformation|转化]]为社会政策评估的操作性方法论
+> - [[Critical Realism]] — 将批判实在论哲学转化为社会政策评估的操作性方法论
 > - [[Evidence-Based Education]] — 为 EBE 的方法论批判提供了最系统的哲学-方法论基础
 > - **实在论评估（Realist Evaluation）** — 与 Nick Tilley 合作发展的评估方法论
 

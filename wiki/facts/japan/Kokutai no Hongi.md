@@ -17,7 +17,6 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Knowledge Transfer]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -61,7 +60,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - [[Forced Knowledge Transfer]] — Kokutai no Hongi 是强制[[Knowledge Transfer|知识转移]]的历史典范案例
-> - [[Knowledge Transfer]] — 该案例说明知识[[Transfer Translation Transformation|转移]]如何在地缘政治扩张中发挥核心作用
+> - [[Knowledge Transfer]] — 该案例说明知识转移如何在地缘政治扩张中发挥核心作用
 
 ## 来源
 

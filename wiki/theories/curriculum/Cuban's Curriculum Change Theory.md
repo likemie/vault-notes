@@ -15,7 +15,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
 related_facts:
@@ -118,7 +117,7 @@ Yan & Morris (2025) 的核心理论贡献在于指出：Cuban 框架中各因素
 
 ## 相关研究
 
-> [!example] [[Observational and Correlational Research|相关研究]]
+> [!example] 相关研究
 > - [[Argument_Yan_2025_JCS]] — 将 Cuban 框架应用于 [[Liberal Studies|LS]] 案例，揭示框架的条件性和因素权重的动态变化
 > - Kan, Vickers & Morris (2007) — 使用 Cuban 框架分析香港中国历史科的课程政治
 

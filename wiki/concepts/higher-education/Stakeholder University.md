@@ -13,11 +13,11 @@ tags:
   - level/higher-ed
   - theme/neoliberalism
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Production]]"
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"
   - "[[Competitiveness in Higher Education]]"
+  - "[[Academic Freedom]]"
 related_theories:
   - "[[Societies of Control]]"
 related_methods: []
@@ -37,7 +37,7 @@ updated: 2026-05-20
 ## 定义
 
 > [!info]
-> 利益相关者大学（stakeholder university）是 Wæraas 和 Solbakk（2009, p.450）提出的概念，指现代大学从传统的学术共同体（academic community）转变为一种多利益相关者的网络节点形态。在这一形态中，学生、教师、政府机构、商业服务提供者乃至自动化计算机代理之间的连接性（connectivity）将大学[[Transfer Translation Transformation|转化]]为"地缘政治的机会节点"（node of geopolitical opportunities），可能从根本上改变大学作为学术共同体的本质（Thompson et al., 2022, pp.221–222）。
+> 利益相关者大学（stakeholder university）是 Wæraas 和 Solbakk（2009, p.450）提出的概念，指现代大学从传统的学术共同体（academic community）转变为一种多利益相关者的网络节点形态。在这一形态中，学生、教师、政府机构、商业服务提供者乃至自动化计算机代理之间的连接性（connectivity）将大学转化为"地缘政治的机会节点"（node of geopolitical opportunities），可能从根本上改变大学作为学术共同体的本质（Thompson et al., 2022, pp.221–222）。
 
 > [!quote]
 > "modern universities are becoming 'stakeholder universities' where connectivity between students, faculty, government agencies, commercial service providers, and automated computer agents is turning the university into 'a node of geopolitical opportunities'"（Wæraas & Solbakk, 2009, p.450, cited in Thompson et al., 2022, p.221）
@@ -71,7 +71,7 @@ updated: 2026-05-20
 
 1. NPM 和审计文化将大学重塑为关注绩效的组织
 2. 大学为提升竞争力而主动扩展利益相关者网络——吸引国际学生、对接企业需求、优化排名指标
-3. 网络扩展进一步将大学从学术共同体[[Transfer Translation Transformation|转化]]为多利益相关者平台
+3. 网络扩展进一步将大学从学术共同体转化为多利益相关者平台
 4. 作为平台，大学成为地缘政治的机会节点——各国通过大学网络投射软实力、吸引全球人才、推动经济战略
 
 这一转型与 [[Societies of Control|控制社会]] 的 Deleuze 式分析相吻合：大学不再是一个封闭的规训机构（学生进入→规训→毕业释放），而是一个被持续调制的网络节点——"企业"取代了封闭机构，"没有解雇"意味着校友永远被纳入大学的追踪、排名贡献和捐赠网络之中（Deleuze, 1992, pp.5–6; Thompson et al., 2022, pp.221–222）。

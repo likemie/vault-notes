@@ -21,7 +21,6 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Philosophical Analysis in Education]]"
-  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -91,7 +90,7 @@ updated: '2026-05-18'
 
 ## 相关研究
 
-> [!example] [[Observational and Correlational Research|相关研究]]
+> [!example] 相关研究
 > - [[Argument_Cowen_2015_CHESS]] — 以三阶段框架为核心理论框架，通过教师访谈验证外推问题的实践表现
 
 ## 应用领域

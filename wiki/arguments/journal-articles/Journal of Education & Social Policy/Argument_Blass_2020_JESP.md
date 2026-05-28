@@ -17,6 +17,7 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Didaktik]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
@@ -86,7 +87,7 @@ updated: '2026-05-18'
 > - Hattie 的工作出版于 2009 年，但纳入的大多数研究发表于 1980s–1990s，即使 2000s 初期的研究也使用了 1990s 的数据（Blass, 2020, p.95）
 > - 这些研究进行时的教室特征是：学生排排坐、教师用粉笔或白板笔、电视被视为负面效应量。而现代教室中手机、笔记本电脑、平板、流媒体和社交媒体均不存在于当时的研究中（Blass, 2020, p.95）
 > - 关键质问："你会想要一个外科医生查阅 1990 年的书来学习机器人手术吗？你想要肿瘤学家查找 1980 年代的最新癌症治疗方法吗？不！那么为什么你允许那个时代的教学结果影响你今天在课堂上的行为？"（Blass, 2020, p.95）
-> - Hattie 本人并未停留在 20 世纪——Hattie & Donoghue (2016) 放弃了排名，转而开发了一个包含三输入（技能/意愿/激情）和三阶段（表层/深层/迁移）的学习模型（Blass, 2020, pp.95–96）
+> - Hattie 本人并未停留在 20 世纪——Hattie & Donoghue (2016) 放弃了排名，转而开发了一个包含三输入（技能/意愿/激情）和三阶段（表层/深层/[[Transfer Translation Transformation|迁移]]）的学习模型（Blass, 2020, pp.95–96）
 
 ## 主要发现
 

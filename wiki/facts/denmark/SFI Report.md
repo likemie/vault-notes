@@ -17,6 +17,7 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[Effective Teaching]]"
   - "[[Visible Learning]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods: []
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／理论
 > - [[Effective Teaching]] — 报告检验清晰[[Classroom Management|课堂管理]]、明确目标、高要求、良好社会环境、教师合作等有效教学质量是否适用于丹麦。
-> - [[Visible Learning]] — 报告可与 [[John Hattie|Hattie]] 的研究综合对照，用来判断以英语国家研究为主的证据是否能迁移到丹麦。
+> - [[Visible Learning]] — 报告可与 [[John Hattie|Hattie]] 的研究综合对照，用来判断以英语国家研究为主的证据是否能[[Transfer Translation Transformation|迁移]]到丹麦。
 > - [[Individualised Instruction]] — 报告中的教学差异化结果与 Hattie 的个别化教学结果相互呼应。
 > - [[Feedback]] — 报告中的反馈结果主要提示测量口径问题。
 

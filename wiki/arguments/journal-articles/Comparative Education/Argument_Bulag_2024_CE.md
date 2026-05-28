@@ -15,7 +15,6 @@ related_concepts:
   - "[[Retrotopia]]"
   - "[[Settler Colonialism]]"
   - "[[Sacrifice Theory]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Pragmatism in China]]"
   - "[[Sinicisation]]"
 related_theories: []
@@ -210,7 +209,7 @@ issuing_organization: ""
 > [!success]
 > 4. 中华民族复兴是 [[Retrotopia|怀旧乌托邦]] 工程
 >
-> 中共 试图复兴的中华民族不是对未来社会的构想，而是对被理想化的前现代"大一统"中国的回溯性重建。其核心叙事是：中华文明拥有不可抗拒的道德吸引力，周边"蛮族"被这种魅力吸引，自愿放弃自身文化以融入中华文明。"死亡"被重新框定为"成为"——文化消亡不是暴力，而是向上的[[Transfer Translation Transformation|转化]]。[[Zhao Tingyang|赵汀阳]]的天下神学、潘岳的"五胡入华"叙事和 [[Fei Xiaotong|费孝通]] 的多元一体格局共同建构了这一话语体系（pp.104–108）。
+> 中共 试图复兴的中华民族不是对未来社会的构想，而是对被理想化的前现代"大一统"中国的回溯性重建。其核心叙事是：中华文明拥有不可抗拒的道德吸引力，周边"蛮族"被这种魅力吸引，自愿放弃自身文化以融入中华文明。"死亡"被重新框定为"成为"——文化消亡不是暴力，而是向上的转化。[[Zhao Tingyang|赵汀阳]]的天下神学、潘岳的"五胡入华"叙事和 [[Fei Xiaotong|费孝通]] 的多元一体格局共同建构了这一话语体系（pp.104–108）。
 
 > [!success]
 > 5. 内蒙古双语教育危机是自我牺牲逻辑的缩影

@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -75,7 +74,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - [[Knowledge Transfer]] — *Areopagitica* 是 Partaken 在 [[Geopolitics of Knowledge|GPK]] 审查模态分析中引出的规范性基准
-> - [[Great Firewall of China]] — Partaken 将 GFW 置于 *Areopagitica* 标准的对立面，作为审查阻断知识[[Transfer Translation Transformation|转移]]的制度典范
+> - [[Great Firewall of China]] — Partaken 将 GFW 置于 *Areopagitica* 标准的对立面，作为审查阻断知识转移的制度典范
 
 ---
 

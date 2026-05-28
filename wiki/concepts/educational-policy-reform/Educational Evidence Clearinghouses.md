@@ -17,13 +17,13 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Effect Size]]"
   - "[[School Leadership]]"
   - "[[Statistical Significance]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Inclusive Evidence Validation Typology]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Gating Procedure]]"
   - "[[5-3-20 Rule]]"
@@ -88,7 +88,7 @@ updated: '2026-05-24'
 ## 概念演变
 
 > [!note] 制度演化
-> 教育证据清算中心的演变，是[[Evidence-Based Reform|证据本位改革]]基础设施逐步成形的过程：联邦政策提出证据要求，清算中心把研究证据[[Transfer Translation Transformation|转化]]为可检索的项目评级，学校和学区再把这些评级纳入采购与改进决策。
+> 教育证据清算中心的演变，是[[Evidence-Based Reform|证据本位改革]]基础设施逐步成形的过程：联邦政策提出证据要求，清算中心把研究证据转化为可检索的项目评级，学校和学区再把这些评级纳入采购与改进决策。
 
 - **2001** — [[No Child Left Behind Act 2001|NCLB]] 将“科学本位研究”嵌入美国联邦教育政策，推动学校改进、阅读项目和联邦拨款与实证研究标准连接起来（Ross & Morrison, 2021, p.109）。
 - **2002** — [[What Works Clearinghouse]] 由美国教育部创建，用于识别和审查符合严格标准的教育研究；在 WWC 体系中，达到“无保留”或“有保留”标准通常需要 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]] 证据（Ross & Morrison, 2021, p.109）。
@@ -99,7 +99,7 @@ updated: '2026-05-24'
 ## 核心要素
 
 > [!abstract] 核心机制
-> 清算中心把教育研究[[Transfer Translation Transformation|转化]]为实践可读的项目判断，通常经过五个环节：设定证据标准、搜寻项目研究、评价单项研究质量、综合项目效果、发布面向非方法专家的评级（Wadhwa et al., 2024, p.4）。
+> 清算中心把教育研究转化为实践可读的项目判断，通常经过五个环节：设定证据标准、搜寻项目研究、评价单项研究质量、综合项目效果、发布面向非方法专家的评级（Wadhwa et al., 2024, p.4）。
 
 ### 证据标准制定
 

@@ -22,7 +22,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Case Design]]"
-  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
@@ -131,7 +130,7 @@ updated: '2026-05-18'
 
 ## 相关研究
 
-> [!example] [[Observational and Correlational Research|相关研究]]
+> [!example] 相关研究
 > - [[Argument_Hitchcock_2015_JBE]] — 以 Campbellian 框架论证 [[What Works Clearinghouse|WWC]] 审查程序的内部效度判断一致性，并澄清其外部效度信息的捕获方式
 > - [[Argument_Wadhwa_2024_RER]] — 将 [[Campbell Collaboration|Campbell]] & Fiske (1959) 的 multitrait-multimethod 思路用于检验"evidence-based"在教育清算中心实践中的构念效度；如果多个清算中心对同一项目的效果判断不收敛，就说明该构念在实践中并不稳定。例：同一教育项目可能因某清算中心要求独立复制、另一清算中心只要求单项显著研究而获得不同推荐等级（Wadhwa et al., 2024, pp.4, 26）。
 

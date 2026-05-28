@@ -17,7 +17,6 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design]]"
 related_persons: []
@@ -35,7 +34,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 门控程序（Gating Procedure）是系统综述中的一种方法论策略：**第一步**先识别某一主题的所有[[Observational and Correlational Research|相关研究]]；**然后**仅纳入那些具有强内部效度的研究（即研究必须"通过"内部效度门槛才能被进一步考虑）（Hitchcock et al., 2015, p.462, citing Maggin et al., 2013）。
+> 门控程序（Gating Procedure）是系统综述中的一种方法论策略：**第一步**先识别某一主题的所有相关研究；**然后**仅纳入那些具有强内部效度的研究（即研究必须"通过"内部效度门槛才能被进一步考虑）（Hitchcock et al., 2015, p.462, citing Maggin et al., 2013）。
 >
 > > "The first step of a gating procedure consists of identifying studies on a specific topic that will be included in the review. From there, only studies with strong internal validity are considered (i.e., studies must pass an internal validity gate before they are considered further)." (Hitchcock et al., 2015, p.462)
 >

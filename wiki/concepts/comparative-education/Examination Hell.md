@@ -4,7 +4,7 @@ aliases:
   - 考试地狱
   - exam hell
   - examination-driven system
-summary: 描述东亚应试教育体系的术语，指高风险考试压力、升学竞争和儒家道德义务交织形成的教育困境
+summary: "描述东亚应试教育体系的术语，指高风险考试压力、升学竞争和儒家道德义务交织形成的教育困境"
 type: concept
 tags:
   - region/china

@@ -17,8 +17,7 @@ related_concepts:
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Dynamic Knowledge and Learning Model]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
@@ -83,7 +82,7 @@ updated: '2026-05-18'
 
 ## 相关研究
 
-> [!example] [[Observational and Correlational Research|相关研究]]
+> [!example] 相关研究
 > - Argument_Rømer_2018_EPT — 论证 [[John Hattie|Hattie]] 对 Popper 三个世界理论的误读是 VL 理论基础的致命缺陷
 
 ## 应用领域

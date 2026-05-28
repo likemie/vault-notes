@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Policy Borrowing]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Student-Teacher Relationship]]"
@@ -47,7 +46,7 @@ updated: '2026-05-18'
 
 > [!abstract] 理论框架
 > - **传统教育与"新学校"运动的历史张力**：论文以传统教学论（Komenský, Diesterweg）的五支柱（知识范式、教师中心、班级授课制、纪律、Bloom 分类学）与 20 世纪下半叶欧洲"新学校"运动（Cousinet, Freinet）及去学校化理论（Illich, Holt）之间的对峙为历史背景，将 [[John Hattie|Hattie]] 的 [[Visible Learning]] 定位为"新学校"意识形态在当代教育政策中的间接体现（Golovchin, 2019, p.230-231）
-> - **[[Policy Borrowing|政策借用]]视角**：论文虽未明确使用该术语，但其核心问题是典型的政策借用分析——西方教育创新（澳大利亚、新西兰、美国、丹麦已采用）是否能且应被[[Transfer Translation Transformation|转移]]至俄罗斯？论文的结论（"inapplicable"）构成对不加批判的政策借用的警告（p.240-241）
+> - **[[Policy Borrowing|政策借用]]视角**：论文虽未明确使用该术语，但其核心问题是典型的政策借用分析——西方教育创新（澳大利亚、新西兰、美国、丹麦已采用）是否能且应被转移至俄罗斯？论文的结论（"inapplicable"）构成对不加批判的政策借用的警告（p.240-241）
 > - **方法论批判传统**：论文系统梳理了从 Snook et al. (2009) 到 McKnight & Whitburn (2020) 的 Hattie 批评文献，将其分为方法论批评和文化批评两个阵营（p.235-238）
 
 ## 研究方法

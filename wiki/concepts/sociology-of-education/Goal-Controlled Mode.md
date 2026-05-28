@@ -11,7 +11,6 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Academic Engagement]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Intuition-Dependent Mode]]"
@@ -51,7 +50,7 @@ updated: 2026-05-18
 ## 定义
 
 > [!info]
-> 目标掌控模式（Goal-Controlled Mode）是大学生组织大学生活的一种实践图式，其特征是：入学后尽早确立清晰的生涯方向与职业目标，有意识地了解大学制度规则和不同毕业出路的要求，据此有针对性地安排[[Academic Engagement|学业投入]]与课外活动，将大学资源有效[[Transfer Translation Transformation|转化]]为毕业出路的竞争优势。该概念由[[Yajun Zheng|郑雅君]]（2023）在对中国两所顶尖研究型大学 62 名毕业班学生的跟踪访谈中提出。
+> 目标掌控模式（Goal-Controlled Mode）是大学生组织大学生活的一种实践图式，其特征是：入学后尽早确立清晰的生涯方向与职业目标，有意识地了解大学制度规则和不同毕业出路的要求，据此有针对性地安排[[Academic Engagement|学业投入]]与课外活动，将大学资源有效转化为毕业出路的竞争优势。该概念由[[Yajun Zheng|郑雅君]]（2023）在对中国两所顶尖研究型大学 62 名毕业班学生的跟踪访谈中提出。
 
 > [!quote]
 > "运用'目标掌控模式'的大学生就好比是手持迷宫地图，事先已经做好路线规划的一类参赛者"（郑雅君，2023）

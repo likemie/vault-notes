@@ -16,9 +16,9 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Method and Multi-method Research]]"
+  - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_arguments:
@@ -34,7 +34,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 非[[Intervention Research|干预研究]]（Non-intervention Research）是不操纵自变量的研究集合。Brady et al. (2023) 的分类中，[[Observational and Correlational Research|观察/相关研究]]、[[Qualitative Research|质性研究]]、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]都属于非干预研究；它们共同区别于操纵自变量的干预研究和实验研究（Brady et al., 2023, p.4）。
+> 非[[Intervention Research|干预研究]]（Non-intervention Research）是不操纵自变量的研究集合。Brady et al. (2023) 的分类中，观察/相关研究、[[Qualitative Research|质性研究]]、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]都属于非干预研究；它们共同区别于操纵自变量的干预研究和实验研究（Brady et al., 2023, p.4）。
 
 ## 认识论立场
 
@@ -45,7 +45,7 @@ updated: '2026-05-18'
 
 > [!example] 操作步骤
 > - **不操纵自变量**：研究者不主动引入处理或干预，这是非[[Intervention Research|干预研究]]与干预/实验研究的核心区别（Brady et al., 2023, p.4）。
-> - **按数据类型区分子类**：[[Observational and Correlational Research|观察/相关研究]]包含量化数据；[[Qualitative Research|质性研究]]包含访谈、观察等文本数据；[[Mixed Method and Multi-method Research|混合方法/多方法研究]]同时包含量化和质性数据（Brady et al., 2023, p.4）。
+> - **按数据类型区分子类**：观察/相关研究包含量化数据；[[Qualitative Research|质性研究]]包含访谈、观察等文本数据；[[Mixed Method and Multi-method Research|混合方法/多方法研究]]同时包含量化和质性数据（Brady et al., 2023, p.4）。
 > - **生成而非检验干预假设**：在理想研究序列中，非干预研究识别可能的因果关系，随后由干预研究或实验研究正式检验（Brady et al., 2023, p.2）。
 
 ## 适用场景
@@ -58,7 +58,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性
 > - **因果推论边界**：非[[Intervention Research|干预研究]]没有自变量操纵，因此通常不足以证明改变某实践会导致某结果改善（Brady et al., 2023, pp.3-4）。
-> - **[[Recommendations for Practice|实践建议]]高发**：2020 年五本教育心理学经验期刊中，约三分之二非干预文章包含 [[Recommendations for Practice|实践建议]]，其中[[Observational and Correlational Research|观察/相关研究]]为 66%、[[Qualitative Research|质性研究]]为 65%、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]为 60%（Brady et al., 2023, pp.6-7）。
+> - **[[Recommendations for Practice|实践建议]]高发**：2020 年五本教育心理学经验期刊中，约三分之二非干预文章包含 [[Recommendations for Practice|实践建议]]，其中观察/相关研究为 66%、[[Qualitative Research|质性研究]]为 65%、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]为 60%（Brady et al., 2023, pp.6-7）。
 > - **讨论与局限部分可能自相矛盾**：Brady et al. (2023) 观察到，一些论文在讨论部分给出清晰 RFP，却在局限性部分承认方法无法支持因果结论，显示出版规范可能鼓励越界建议（Brady et al., 2023, p.9）。
 
 ## 相关理论

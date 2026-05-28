@@ -14,9 +14,9 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Entrepreneurial University]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Global Regionalisms in Higher Education]]"
   - "[[Regulatory Regionalism]]"
@@ -36,7 +36,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> Horizon Europe 是欧盟 2021–2027 年研究与创新框架计划，为 Horizon 2020 的继任者。"EU missions"（欧盟使命）是 Horizon Europe 的核心机制创新——将研究、立法和政策整合为针对特定社会挑战的承诺性目标。在 2021 年版 UIIN Thoughtbook 中，欧盟创新、研究、文化、教育和青年事务专员 Mariya Gabriel 作为贡献者之一，积极构建"参与型和创业型大学"的"新愿景"（Thompson & Parreira do Amaral, 2022, p.4）。
+> Horizon Europe 是欧盟 2021–2027 年研究与创新框架计划，为 Horizon 2020 的继任者。"EU missions"（欧盟使命）是 Horizon Europe 的核心机制创新——将研究、立法和政策整合为针对特定社会挑战的承诺性目标。在 2021 年版 UIIN Thoughtbook 中，欧盟创新、研究、文化、教育和青年事务专员 Mariya Gabriel 作为贡献者之一，积极构建"参与型和[[Entrepreneurial University|创业型大学]]"的"新愿景"（Thompson & Parreira do Amaral, 2022, p.4）。
 
 ## 政策文本摘要
 
@@ -58,7 +58,7 @@ updated: '2026-05-18'
 > [!success] 实施影响
 > Thompson 和 Parreira do Amaral (2022, pp.11–12) 指出，Horizon Europe 进一步深化了 Horizon 2020 中 SSH 整合的逻辑——SSH 的"嵌入式"角色"被固化并放大"（cemented and amplified）——学术研究被要求直接服务于预设的政治使命。这一发展引发了对教育研究的认识论自主性和学科多样性的担忧（Parreira do Amaral, 2022, pp.42, 49）。
 >
-> Parreira do Amaral (2022) 进一步从[[Geopolitics of Knowledge|知识地缘政治]]视角解释：Horizon Europe Missions 是将欧盟的地缘政治目标（全球[[Knowledge-Based Economy|知识经济]]中的竞争优势）[[Transfer Translation Transformation|转化]]为研究治理结构的核心制度机制——"mission"的话语将研究包装为对特定社会挑战的"承诺"，同时使研究资源向技术和自然科学倾斜的学科间层级被自然化（Parreira do Amaral, 2022, pp.48–49）。
+> Parreira do Amaral (2022) 进一步从[[Geopolitics of Knowledge|知识地缘政治]]视角解释：Horizon Europe Missions 是将欧盟的地缘政治目标（全球[[Knowledge-Based Economy|知识经济]]中的竞争优势）转化为研究治理结构的核心制度机制——"mission"的话语将研究包装为对特定社会挑战的"承诺"，同时使研究资源向技术和自然科学倾斜的学科间层级被自然化（Parreira do Amaral, 2022, pp.48–49）。
 
 ## 相关概念／理论
 

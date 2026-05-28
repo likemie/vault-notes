@@ -11,7 +11,6 @@ tags:
 related_concepts:
   - "[[Ecomuseology]]"
   - "[[Whole Sustainability]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods:
@@ -60,7 +59,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Creative Tension of Sense]] — 生命力量是张力理论的核心实践概念，代表了从"承载张力"到"发现意义"的[[Transfer Translation Transformation|转化]]过程（Delambre, 2022, p.115–116）
+> - [[Creative Tension of Sense]] — 生命力量是张力理论的核心实践概念，代表了从"承载张力"到"发现意义"的转化过程（Delambre, 2022, p.115–116）
 > - [[Ganz-Methode]] — 生命力量通过 Ganz-Methode 的第二步被系统性地识别和描述（Delambre, 2022, p.113–114）
 
 ## 争议与批评

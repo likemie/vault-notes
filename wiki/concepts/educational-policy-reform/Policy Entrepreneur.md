@@ -10,7 +10,6 @@ tags:
 - region/new-zealand
 - region/global
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
@@ -39,7 +38,7 @@ updated: '2026-05-18'
 > [!abstract] 核心特征
 > - **跨领域运作能力**：政策创业者可能在公共福利（public-good）、非营利（not-for-profit）和营利（for-profit）动机之间无缝切换，根据情境灵活呈现不同身份（O'Neill et al., 2016, p.viii）
 > - **网络构建能力**：通过建立个人和组织关系网络来聚合影响力（O'Neill et al., 2016, p.47）
-> - **知识产权的包装与商业化**：将学术成果[[Transfer Translation Transformation|转化]]为品牌化商业产品和服务（O'Neill et al., 2016, pp.viii–ix）
+> - **知识产权的包装与商业化**：将学术成果转化为品牌化商业产品和服务（O'Neill et al., 2016, pp.viii–ix）
 
 ## 典型案例：John Hattie
 

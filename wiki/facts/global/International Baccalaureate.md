@@ -15,7 +15,6 @@ tags:
 - subject/curriculum
 related_concepts:
   - "[[International Schools]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
@@ -35,7 +34,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 国际文凭（International Baccalaureate, IB）是一套覆盖 3 至 19 岁学生的国际课程体系，包含小学、初中和高中三个项目，专为[[International Schools|国际学校]]设计，强调课程的可[[Transfer Translation Transformation|转移]]性（Slethaug, 2010, p.27）。IB 源自多所国际学校的教学实践，现已被全球越来越多的国际学校乃至国家学校采用（Slethaug, 2010, p.27）。
+> 国际文凭（International Baccalaureate, IB）是一套覆盖 3 至 19 岁学生的国际课程体系，包含小学、初中和高中三个项目，专为[[International Schools|国际学校]]设计，强调课程的可转移性（Slethaug, 2010, p.27）。IB 源自多所国际学校的教学实践，现已被全球越来越多的国际学校乃至国家学校采用（Slethaug, 2010, p.27）。
 
 ## 规模与增长
 

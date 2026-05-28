@@ -18,7 +18,6 @@ related_concepts:
   - "[[Epochal Key Problems]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Atomisation of Knowledge and Skills]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -69,7 +68,7 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／政策
 > - [[Phenomenon-Based Learning]] — SveaSus 是以 PhBL 为取向的教学与研究发展项目。
-> - [[Finnish National Core Curriculum]] — 虽然 SveaSus 属于高等教育/教师教育语境，但它展示了芬兰课程改革中 PhBL 取向可如何[[Transfer Translation Transformation|转化]]为具体学习环境。
+> - [[Finnish National Core Curriculum]] — 虽然 SveaSus 属于高等教育/教师教育语境，但它展示了芬兰课程改革中 PhBL 取向可如何转化为具体学习环境。
 > - [[Epochal Key Problems]] — 项目的可持续性主题把重大公共问题转化为具体学习[[Champ|场域]]。
 > - [[Atomisation of Knowledge and Skills]] — SveaSus 的真实场域、身体经验、艺术和多语方法可作为抵抗单纯技能化学习理解的实践例子。
 > - [[Phenomenology]] — 项目强调世界遗产地、具身学习和真实场域，体现了学习与生活世界、身体经验和意义生成的关系。

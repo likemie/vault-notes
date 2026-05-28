@@ -22,8 +22,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Effect Size]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_arguments:
@@ -76,7 +75,7 @@ updated: '2026-05-21'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 在当前材料中，Nordahl 明显站在 [[Visible Learning]] 支持路径一侧，且立场较强。他在主题号导言中的位置也被概括为一种“完全拒绝使用 [[John Hattie|Hattie]] 及[[Observational and Correlational Research|相关研究]]结果的人，需要为儿童未来承担道德责任”的强硬姿态；这种写法强化了改革紧迫感，但压缩了对批判立场的对等呈现空间（Hansen et al., 2015, pp.7–8）。
+> - 在当前材料中，Nordahl 明显站在 [[Visible Learning]] 支持路径一侧，且立场较强。他在主题号导言中的位置也被概括为一种“完全拒绝使用 [[John Hattie|Hattie]] 及相关研究结果的人，需要为儿童未来承担道德责任”的强硬姿态；这种写法强化了改革紧迫感，但压缩了对批判立场的对等呈现空间（Hansen et al., 2015, pp.7–8）。
 > - 其 2015 年文章属于立场鲜明的评论性综述，而非独立实证研究，因此更适合用来把握支持方的系统改进逻辑，不宜当作直接证明学校改进效果的经验研究（Nordahl, 2015, pp.61–69）。
 
 ## 来源

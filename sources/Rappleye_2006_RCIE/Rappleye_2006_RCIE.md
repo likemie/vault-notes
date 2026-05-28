@@ -1,6 +1,7 @@
 ---
 citation: "Rappleye, J. (2006). Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction. Research in Comparative and International Education, 1(3), 223–240."
 extracted_to:
+  - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Cross-National Attraction]]"
   - "[[Externalization]]"
   - "[[Policy Borrowing]]"
@@ -10,7 +11,6 @@ extracted_to:
   - "[[David Phillips]]"
   - "[[Kimberly Ochs]]"
   - "[[Gita Steiner-Khamsi]]"
-  - "[[Argument_Rappleye_2006_RCIE]]"
 processed_date: 2026-05-06
 ---
 

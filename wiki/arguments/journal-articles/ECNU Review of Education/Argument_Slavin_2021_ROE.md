@@ -17,7 +17,6 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[School Leadership]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -89,7 +88,7 @@ updated: '2026-05-18'
 > - 论文以论证性/倡导性为主，未提供新实验数据
 > - 对美英[[Evidence-Based Reform|证据本位改革]]成果的讨论偏向正面，未充分讨论批判文献（如 Biesta、Wrigley 等的系统批评）
 > - 中国部分主要依赖二手文献计量数据（Wang, 2017），未独立收集原始数据
-> - 对中英美的比较以"最佳实践借鉴"为框架，未深入讨论政治体制和文化差异对政策[[Transfer Translation Transformation|转移]]的根本限制
+> - 对中英美的比较以"最佳实践借鉴"为框架，未深入讨论政治体制和文化差异对政策转移的根本限制
 
 ## 来源
 

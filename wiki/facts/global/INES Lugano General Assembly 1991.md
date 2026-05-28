@@ -13,7 +13,6 @@ tags:
 - education-indicators
 - region/global
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Performance Indicators]]"
   - "[[Performativity of Measurement]]"
 related_theories: []
@@ -61,7 +60,7 @@ updated: '2026-05-18'
 > ### 科学权威的转折点
 > Bottani 将 Lugano 1991 视为科学家与政策制定者关系的"分水岭"（watershed moment）（Gorur, 2014, p.13）：
 > - 科学家从此失去对指标"生产端"的控制（此前仅失去对"使用端"的控制）
-> - 控制权从统计学家和社会科学专家[[Transfer Translation Transformation|转移]]到政府官员手中，心理测量学家成为官员的盟友
+> - 控制权从统计学家和社会科学专家转移到政府官员手中，心理测量学家成为官员的盟友
 > - 此后，科学家被迫纳入一些"在科学上不可接受"的数据和指标
 >
 > ### [[Education at a Glance|EAG]] 的诞生

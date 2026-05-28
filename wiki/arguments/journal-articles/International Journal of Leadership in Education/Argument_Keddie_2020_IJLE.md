@@ -15,8 +15,7 @@ tags:
 related_concepts:
   - "[[School Autonomy]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
@@ -92,7 +91,7 @@ updated: '2026-05-18'
 
 ## 与相关研究的关联
 
-> [!note-] 与[[Observational and Correlational Research|相关研究]]的关联
+> [!note-] 与相关研究的关联
 > - 与 [[Argument_Keddie_2020_JEAH]] 同为同一 ARC 项目（DP190100190）的产出，基于同样的 42 位利益相关者数据集，但采用不同的分析框架（JEAH 论文关注"校长的困境"，IJLE 论文关注"悖论与公共性的重新协商"）
 
 ## 来源

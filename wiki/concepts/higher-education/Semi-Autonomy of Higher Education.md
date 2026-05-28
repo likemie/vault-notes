@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Hegemony]]"
   - "[[Methodological Globalism]]"
+  - "[[Academic Freedom]]"
   - "[[Double Spatiality of Universities]]"
   - "[[Scale in Higher Education]]"
   - "[[Multiplicity]]"

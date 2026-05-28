@@ -18,8 +18,8 @@ tags:
 related_concepts:
   - "[[School Choice]]"
   - "[[Peidu]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+  - "[[Transfer Translation Transformation]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
@@ -68,7 +68,7 @@ updated: 2026-05-26
 ## 效果与评价
 
 > [!success]
-> 撤并政策从推拉两端促成了大规模的[[Peidu|陪读]][[School Choice|择校]]迁移：撤并关停农村学校形成推力，县城新建学校形成拉力（Teng & Wang, 2025, pp.303–304）。
+> 撤并政策从推拉两端促成了大规模的[[Peidu|陪读]][[School Choice|择校]][[Transfer Translation Transformation|迁移]]：撤并关停农村学校形成推力，县城新建学校形成拉力（Teng & Wang, 2025, pp.303–304）。
 
 > [!warning]
 > **负面效果**：

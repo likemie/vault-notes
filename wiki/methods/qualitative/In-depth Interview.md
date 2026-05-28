@@ -2,7 +2,7 @@
 title: In-depth Interview
 aliases:
   - 深度访谈
-summary: 通过持续追问、渐进聚焦和生活史叙述深入理解行动者经验与意义建构的质性资料收集方法，适合解释复杂选择和主观处境
+summary: "通过持续追问、渐进聚焦和生活史叙述深入理解行动者经验与意义建构的质性资料收集方法，适合解释复杂选择和主观处境"
 type: method
 method_type: qualitative
 tags:
@@ -10,6 +10,8 @@ tags:
   - qualitative-research
   - paradigm/interpretivist
 related_concepts:
+  - "[[Peidu]]"
+  - "[[School Choice]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
 related_theories:
@@ -23,6 +25,7 @@ related_persons:
 related_arguments:
   - "[[Argument_郑_2023_上海三联书店]]"
   - "[[Argument_Yu_2024_CE]]"
+  - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Wang_2025_CE]]"
 sources:
   - "[[郑_2023_上海三联书店]]"

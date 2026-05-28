@@ -21,8 +21,8 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Logic Model]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
@@ -57,7 +57,7 @@ updated: '2026-05-23'
 >
 > 所有层级均需至少一项严格研究证明**统计显著**的正向效果，且**无研究显示负面效果**（Wolf et al., 2020, p. 428）。
 
-ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Controlled Trials|RCT]]；中等证据对应 [[Quasi-Experimental Designs|QED]]；有希望证据对应带有选择偏差统计控制的[[Observational and Correlational Research|相关研究]]；第四层是“展示理论依据”，即由研究支持且说明清楚的[[Logic Model|逻辑模型]]（Ross & Morrison, 2021, p.109）。
+ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Controlled Trials|RCT]]；中等证据对应 [[Quasi-Experimental Designs|QED]]；有希望证据对应带有选择偏差统计控制的相关研究；第四层是“展示理论依据”，即由研究支持且说明清楚的[[Logic Model|逻辑模型]]（Ross & Morrison, 2021, p.109）。
 
 ## 技术要求细节
 
@@ -67,7 +67,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 > - **测量工具**：必须独立于项目开发者或研究者
 > - **样本量和持续时间**：需要足够的样本量和研究持续时间（Evidence for ESSA 要求最少 12 周）
 > - **聚类分析**：对学校或班级层面的干预，必须在聚类层面进行统计分析（如 HLM，Raudenbush & Bryk, 2002）——通常需要 40–50 所学校
-> - **前测匹配**：准实验和相关性研究要求在成就和人口统计变量上前测匹配
+> - **前测匹配**：准实验和[[Observational and Correlational Research|相关性研究]]要求在成就和人口统计变量上前测匹配
 
 ## 激励机制
 

@@ -13,6 +13,7 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Mind-Oriented Learning Process]]"
+  - "[[Academic Freedom]]"
   - "[[Refined Mastery]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"

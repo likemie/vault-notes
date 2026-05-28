@@ -18,6 +18,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Scientific Attitude]]"
   - "[[Recontextualization]]"
+  - "[[Academic Freedom]]"
   - "[[Classroom Management]]"
   - "[[Professional Judgment]]"
   - "[[Technical Rationality]]"
@@ -220,7 +221,7 @@ updated: 2026-05-26
 - 1919–1921 年访华期间，其思想和演讲成为[[New Education Movement|新教育运动]]的重要理论资源；《新教育》杂志及哥伦比亚大学师范学院归国学生网络共同推动其传播（Schulte, 2009, p.73；Zhou & Westberg, 2024, pp.614–615）。
 - 1922 年学制改革的七项标准和 1923 年课程改革吸收了杜威关于社会适应、个性发展、生活教育、地方伸缩和课程整合的部分思想，但也将民主教育目标去政治化，并弱化其渐进改革方法（Zhou & Westberg, 2024, pp.617–618）。
 - 其"学校即社会"理念被中国教育改革者吸收为将教育与现实社会连接的理论资源，尤其体现在 [[Tao Xingzhi|陶行知]]的平民教育实践中（Zhou & Westberg, 2024, p.621）。
-- 在[[Transfer Translation Transformation|转移]]过程中，杜威的民主教育理想与渐进改革路径的关系经历了从统一到分裂的转化（Zhou & Westberg, 2024, p.622）。
+- 在转移过程中，杜威的民主教育理想与渐进改革路径的关系经历了从统一到分裂的转化（Zhou & Westberg, 2024, p.622）。
 
 ---
 
@@ -246,7 +247,7 @@ updated: 2026-05-26
 > [!warning]
 > - 杜威常被简化为"learning by doing"或儿童中心教学法的代名词，但这种理解容易遮蔽其更宽的哲学项目：经验、探究、公共性、民主和社会改革之间的整体关系。
 > - 杜威对教育与社会变革的关系持渐进立场，这一立场在缺乏民主的社会中被认为难以落地：民主教育在缺民主的国家需要激进改革，与杜威的渐进主义构成内在矛盾（Zhou & Westberg, 2024, pp.610–611, 622）。
-> - 杜威的思想在跨文化[[Transfer Translation Transformation|转移]]中高度可塑（malleable），可以被用来支持截然对立的政治议程：既被用来支持激进的制度重建，也被用来为渐进改良背书（Zhou & Westberg, 2024, p.622）。
+> - 杜威的思想在跨文化转移中高度可塑（malleable），可以被用来支持截然对立的政治议程：既被用来支持激进的制度重建，也被用来为渐进改良背书（Zhou & Westberg, 2024, p.622）。
 > - 其民主理论经常被批评缺少足够清晰的制度执行策略：它强调公共沟通、共同探究和民主习惯，但面对资本、阶级、国家权力和组织性不平等时，如何从教育理想转化为稳定制度安排，仍是持续争论点。
 
 ---

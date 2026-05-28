@@ -13,6 +13,7 @@ tags:
 - level/higher-ed
 - region/china
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Problem-Based Learning]]"
   - "[[Western Learner]]"
   - "[[Paradox of the Chinese Learner]]"
@@ -74,7 +75,7 @@ updated: '2026-05-23'
 > **三阶段（学习阶段）**：
 > 1. **表层学习（Surface）** — 知晓事实和内容
 > 2. **深层学习（Deep）** — 知晓关系与连接
-> 3. **迁移（Transfer）** — 将知识扩展到新情境
+> 3. **[[Transfer Translation Transformation|迁移]]（Transfer）** — 将知识扩展到新情境
 >
 > **关键结论**：最优学习策略取决于学生在学习周期中的位置。对 [[Problem-Based Learning|PBL]] 在 VL (2009) 中的批评可以被解释为：这些元分析综合的是一年级医学生——他们仍处于表层学习阶段，尚不具备足够知识进行正向推理，因此 PBL 对他们不是正确的策略（Blass, 2020, p.96; 另见 Albanese & Mitchell, 1993）。
 

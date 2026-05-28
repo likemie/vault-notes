@@ -13,8 +13,8 @@ tags:
 - governance
 related_concepts:
   - "[[Performance Indicators]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Global Regionalisms in Higher Education]]"
+  - "[[Innovation Ecosystem]]"
   - "[[Selectivity]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
@@ -45,7 +45,7 @@ updated: '2026-05-18'
 > [!info]
 > 监管型区域主义（Regulatory Regionalism）指超国家或国际组织通过监管机制（指标、标准、排名、评估框架）对区域内高等教育进行间接治理的模式。不同于传统的政府间主义（intergovernmentalism）——后者强调成员国对政策的主导控制——监管区域主义强调超国家机构通过规范性权力（normative power）而非直接指令来塑造成员国的教育政策和实践（Jayasuriya, 2010; Robertson, 2010; Thompson & Parreira do Amaral, 2022, p.11）。
 >
-> Rambla（2022）对欧盟创新与教育政策的分析为监管区域主义提供了具体的操作机制说明：[[Performance Indicators]] 是监管区域主义的核心操作工具——超国家组织通过指标和排名将复杂的政策现实[[Transfer Translation Transformation|转化]]为可比较、可排名的量化数据，从而在不具备直接立法权的情况下对成员国的政策选择施加规范压力（Rambla, 2022, p.165–166, 174–175）。
+> Rambla（2022）对欧盟创新与教育政策的分析为监管区域主义提供了具体的操作机制说明：[[Performance Indicators]] 是监管区域主义的核心操作工具——超国家组织通过指标和排名将复杂的政策现实转化为可比较、可排名的量化数据，从而在不具备直接立法权的情况下对成员国的政策选择施加规范压力（Rambla, 2022, p.165–166, 174–175）。
 
 ## 概念辨析
 

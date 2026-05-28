@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Examined Life]]"
   - "[[Sage]]"
+  - "[[Academic Freedom]]"
   - "[[Effective Teaching]]"
 related_theories: []
 related_methods: []

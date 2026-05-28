@@ -15,10 +15,8 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[International Schools]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_arguments:
@@ -57,7 +55,7 @@ updated: '2026-05-19'
 > [!success] 主要贡献
 > - [[Policy Borrowing]] — 与 Steiner-Khamsi 的政策借用框架保持一致，以香港为案例深化了对"借用"政治性的理解
 > - [[Liberal Studies]] — 与 Yan 合作的 2025 年论文是 LS 兴衰的权威分析
-> - **[[PISA]] 的政治解读** — Auld & Morris (2016) 揭示了 PISA 如何通过"翻译和说服"将复杂的教育条件[[Transfer Translation Transformation|转化]]为跨国"最佳实践"
+> - **[[PISA]] 的政治解读** — Auld & Morris (2016) 揭示了 PISA 如何通过"翻译和说服"将复杂的教育条件转化为跨国"最佳实践"
 > - **香港教育的批判性历史** — Morris & Adamson (2010) 系统梳理了香港从殖民地到回归后的课程政治
 > - **国家安全的课程后果** — Vickers & Morris (2022) 最早将《国安法》与课程变革直接联系起来
 > - [[Transnationalism and America Project SYSU]] — Morris 的教育四象限（学术理性主义、社会经济效率、儿童中心、社会重建）被 Schmidt (2010) 在 [[Argument_Ryan_2010_HKUP]] 中用于论证香港[[International Schools|国际学校]]价值观为本课程的理论定位

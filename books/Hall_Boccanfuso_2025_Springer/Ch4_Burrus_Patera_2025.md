@@ -1,9 +1,11 @@
 ---
 citation: "Burrus, C., & Patera, A. (2025). Connecting, Exploring, Uncovering, and Building Partnerships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 73–83). Springer."
 extracted_to:
-  - "[[University Corporate Engagement Professional (UCEP)]]"
   - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
-  - "[[Trade Mission (University-Industry Engagement)]]"
+  - "[[Alumni Engagement in University-Industry Collaboration]]"
+  - "[[Strategic Partnership in University-Industry Collaboration]]"
+  - "[[Trade Mission in University-Industry Engagement]]"
+  - "[[University Corporate Engagement Professional]]"
   - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"

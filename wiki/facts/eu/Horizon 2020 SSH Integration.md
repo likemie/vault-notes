@@ -21,7 +21,6 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Global Regionalisms in Higher Education]]"
   - "[[Regulatory Regionalism]]"
 related_theories:
@@ -72,7 +71,7 @@ updated: '2026-05-18'
 > [!warning] [[Geopolitics of Knowledge|知识地缘政治]]分析
 > Horizon 2020 的 SSH 整合被 Parreira do Amaral（2022）用作论证"新知识地缘政治"的关键实证案例，因为它集中体现了当代[[Epistemic Governance|知识治理]]中两条脉络的共同运作：
 >
-> **从[[Critical Geopolitics|批判地缘政治学]]视角看**，该政策是[[Geopolitics of Knowledge|知识地缘政治]]在超国家治理层面的典型运作：欧盟通过研究资助框架——一种空间化的治理技术——将研究按照其对经济竞争力和创新的潜在贡献进行排序和配置。这反映了[[Knowledge-Based Economization|知识经济化]]逻辑对学术[[Knowledge Production|知识生产]]的深刻渗透：知识只有在能够[[Transfer Translation Transformation|转化]]为经济价值时才被赋予优先权。该政策也是[[Global Regionalisms in Higher Education|全球区域主义]]的具体制度表现——通过区域研究框架重塑高等教育和研究的知识生产秩序（Parreira do Amaral, 2022, pp.40–42）。
+> **从[[Critical Geopolitics|批判地缘政治学]]视角看**，该政策是[[Geopolitics of Knowledge|知识地缘政治]]在超国家治理层面的典型运作：欧盟通过研究资助框架——一种空间化的治理技术——将研究按照其对经济竞争力和创新的潜在贡献进行排序和配置。这反映了[[Knowledge-Based Economization|知识经济化]]逻辑对学术[[Knowledge Production|知识生产]]的深刻渗透：知识只有在能够转化为经济价值时才被赋予优先权。该政策也是[[Global Regionalisms in Higher Education|全球区域主义]]的具体制度表现——通过区域研究框架重塑高等教育和研究的知识生产秩序（Parreira do Amaral, 2022, pp.40–42）。
 >
 > **从[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]视角看**，该政策是 Mignolo 所批判的"西方认识论霸权"在当代研究治理中的制度性再生产。Parreira do Amaral（2022, p.42）明确指出："能够产生专利和量化证据的 STEM 学科获得优先资助，而批判性的、阐释性的、非工具性的研究被制度性地边缘化"。这恰恰是"认识论的政治性"的物质性表现——研究资助的分配机制本身就是一种认识论选择：它在不宣称任何认识论立场的情况下，通过制度设计将特定的认识论范式（实证主义、经验主义）固化为唯一合理的选择（Parreira do Amaral, 2022, pp.39, 48–49）。
 >

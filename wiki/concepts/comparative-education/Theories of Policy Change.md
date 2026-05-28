@@ -3,7 +3,7 @@ title: Theories of Policy Change
 aliases:
   - 政策变革理论
   - 政策变革
-summary: 把政策理解为承载特定因果机制叙事的分析概念，用于追问政策为何在不同情境中产生不同变化路径
+summary: "把政策理解为承载特定因果机制叙事的分析概念，用于追问政策为何在不同情境中产生不同变化路径"
 type: concept
 tags:
   - policy-instruments
@@ -11,7 +11,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Performance Indicators]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[Innovation Ecosystem]]"
   - "[[Network Governance]]"
   - "[[Selectivity]]"
 related_theories: []
@@ -79,7 +79,7 @@ updated: 2026-05-18
 
 ### 地方层面的接受、转化与自主建构
 
-变革理论不仅存在于官方政策话语中，也在地方实践层面被接受、[[Transfer Translation Transformation|转化]]或自主建构。详见 [[Network Governance]] 中欧盟部分。
+变革理论不仅存在于官方政策话语中，也在地方实践层面被接受、转化或自主建构。详见 [[Network Governance]] 中欧盟部分。
 
 - **制度传统较强的国家**（奥地利、德国、芬兰、苏格兰）：地方专业人员将欧盟官方变革理论翻译为本地的系统性版本（"学徒制系统""公私民合作""就业管道"）（Rambla, 2022, p.172–173）
 - **制度传统较弱的地区**（南欧、东欧）：专业人员缺乏系统的变革理论，更依赖对青年受益人的负面刻板印象（p.173）

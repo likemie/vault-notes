@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Progressive Education]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Knowledge Exchange]]"
 related_theories: []
 related_methods:
   - "[[Archival Correspondence Analysis]]"
@@ -269,7 +270,7 @@ updated: 2026-05-26
 
 > [!success] 主要发现
 > 1. [[John Dewey|Dewey]] 的私人通信揭示了他已出版著作未记录的大量行程细节——包括在欧洲三周的美术馆之旅、参加苏联跑马德比、与苏联教育者的具体通信内容——这些细节打破了 Dewey 作为"纪律严明的代表团团长"的形象（pp.104–107）。
-> 2. 苏联教育者在革命前就已系统性地阅读和吸收 Dewey 的著作，将他的 School and Society 和 The School and the Child 翻译为俄文并用作新教育体系的建设指南。1928 年的访问不是知识交流的起点，而是长期单向吸收的高峰时刻——访问开启了双向互动（pp.103–104）。
+> 2. 苏联教育者在革命前就已系统性地阅读和吸收 Dewey 的著作，将他的 School and Society 和 The School and the Child 翻译为俄文并用作新教育体系的建设指南。1928 年的访问不是[[Knowledge Exchange|知识交流]]的起点，而是长期单向吸收的高峰时刻——访问开启了双向互动（pp.103–104）。
 > 3. 苏联方面对代表团的核心诉求不是请求赞美，而是请求"传递事实"以消除美国公众对苏联的"偏见之云"（Kameneff 语，p.106）。Shatskii 在告别信中刻意使用了"民主"（democracy）一词——这是他在用 Dewey 的语言与 Dewey 对话（p.107）。
 > 4. Kalashnikov 写给 Dewey 的信同时包含了崇敬和异议——"您的著作极大地影响了俄国教育学"与"我不同意您的哲学-社会主义教育理论观念"并存。这种张力预示了 1930 年代苏联对 Dewey 的全面拒绝。（p.104；Mchitarjan 2000; Gorshkova 2015，引自 pp.103–104）
 > 5. 美国反共势力（以 Welsh 为代表）在访问开始前就将其定性为共产党的宣传工具。Welsh 的核心论证策略是 guilt by association——通过 Dewey 过去签过的请愿书、支持过的人、出现过的报告来给一次尚未发生的旅行定罪（pp.107–108）。

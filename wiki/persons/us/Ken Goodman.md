@@ -19,7 +19,6 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:
-  - "[[George Berkeley]]"
   - "[[John Hattie]]"
 related_arguments: []
 sources:
@@ -70,7 +69,7 @@ updated: '2026-05-19'
 > [!abstract] 主要著作
 > - Goodman, K.S. (1967). Reading: A psycholinguistic guessing game. *Journal of the Reading Specialist*, 6(4), 126–135. — 为[[Whole Language|全语言]]运动奠定基础的里程碑文章
 > - Goodman, K.S. (1989). Whole-language research: Foundations and development. *The Elementary School Journal*, 90(2), 207–221. — 系统阐述全语言的研究基础
-> - Goodman, K. (2005). *What's whole in Whole Language: 20th anniversary edition*. [[George Berkeley|Berkeley]], California: RDR Books. — 被视为全语言定义的广泛引用的著作
+> - Goodman, K. (2005). *What's whole in Whole Language: 20th anniversary edition*. Berkeley, California: RDR Books. — 被视为全语言定义的广泛引用的著作
 
 ## 思想发展与影响
 

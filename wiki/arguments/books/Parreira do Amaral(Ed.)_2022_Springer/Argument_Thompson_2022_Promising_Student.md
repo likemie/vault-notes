@@ -1,6 +1,6 @@
 ---
 title: Argument_Thompson_2022_Promising_Student
-summary: Ch13 Thompson, Schröder & Wrana，以 Foucault 治理术和 Deleuze 控制社会为理论框架，分析在线自评工具如何作为主体化工具在竞争性地缘政治框架中建构有前景的学生，揭示数字化治理如何将入学前选择重构为自我评估和自我优化的持续性调制过程
+summary: "Ch13 Thompson, Schröder & Wrana，以 Foucault 治理术和 Deleuze 控制社会为理论框架，分析在线自评工具如何作为主体化工具在竞争性地缘政治框架中建构有前景的学生，揭示数字化治理如何将入学前选择重构为自我评估和自我优化的持续性调制过程"
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Governmentality]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Performativity of Measurement]]"
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
@@ -29,7 +28,6 @@ related_theories:
   - "[[Societies of Control]]"
 related_methods: []
 related_persons:
-  - "[[Max Weber]]"
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
@@ -64,7 +62,7 @@ updated: 2026-05-19
 > [!info]
 > 本章为理论-分析讨论（theoretical-analytical discussion），基于对大学政策文件、进展报告和 [[Online Self-Assessment|OSA]] 操作手册的话语分析。
 > - 方法：话语分析（discourse analysis，作者声明在章篇幅内无法提供完整的话语分析，仅"识别核心主题或方面"（p.223））
-> - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 [[Max Weber|Weber]] et al., 2019），以及已有关于 OSA 的实证研究文献（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
+> - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 Weber et al., 2019），以及已有关于 OSA 的实证研究文献（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
 > - 案例材料：荷兰 Saxion 大学的"学习选择检查"YouTube 视频（2020）
 
 ## 论证结构
@@ -83,7 +81,7 @@ updated: 2026-05-19
 
 将 [[Online Self-Assessment|OSA]] 置于竞争性大学的更广框架中理解：借助 Moisio（2018）对[[Knowledge-Based Economy|知识经济]]地缘政治的分析，竞争力已成为重新组织高等教育的"地缘政治装置"（geopolitical apparatus）：
 
-- 排名和指标化实践将大学[[Transfer Translation Transformation|转化]]为竞争者——[[Performativity of Measurement|测量的生产性]]在此发挥关键作用（Thompson et al., 2022, p.220）
+- 排名和指标化实践将大学转化为竞争者——[[Performativity of Measurement|测量的生产性]]在此发挥关键作用（Thompson et al., 2022, p.220）
 - 在科研领域，Bröckling & Peter（2017）已证明"卓越"与自我呈现和持续自我优化的任务绑定在一起——德国卓越计划和英国 REF 就是通过指标和排名构建市场环境的典型技术（Thompson et al., 2022, p.220）
 - 在教学领域，竞争力表现为对**学生成功的预期管理**——大学竞争的是学生的"潜在未来努力"（Thompson et al., 2022, p.220）
 

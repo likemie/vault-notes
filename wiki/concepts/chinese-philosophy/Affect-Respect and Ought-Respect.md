@@ -5,7 +5,7 @@ aliases:
   - affect-respect
   - ought-respect
   - 义务性尊重
-summary: 尊重的双类型理论，区分基于权利原则的义务性尊重与基于他人品质认可和仰慕的情感性尊重
+summary: "尊重的双类型理论，区分基于权利原则的义务性尊重与基于他人品质认可和仰慕的情感性尊重"
 type: concept
 tags:
   - region/east-asia

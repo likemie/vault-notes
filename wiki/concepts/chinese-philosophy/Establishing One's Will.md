@@ -16,7 +16,6 @@ tags:
   - theme/affect
 related_concepts:
   - "[[Heart and Mind for Wanting to Learn]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Learning Virtues]]"
   - "[[Familiarization]]"
   - "[[Refined Mastery]]"
@@ -50,7 +49,7 @@ updated: 2026-05-23
 ## 在 Li 学习模型中的位置
 
 > [!abstract]
-> 立志在中国学习模型中处于**情感与目的的交汇处**——它是将 [[Heart and Mind for Wanting to Learn|好學心]]（"想学"的欲望）[[Transfer Translation Transformation|转化]]为 [[Learning Virtues|学习美德]]（"怎么学"的品质）的关键连接点。
+> 立志在中国学习模型中处于**情感与目的的交汇处**——它是将 [[Heart and Mind for Wanting to Learn|好學心]]（"想学"的欲望）转化为 [[Learning Virtues|学习美德]]（"怎么学"的品质）的关键连接点。
 
 ### 立志与学习美德的衔接
 
@@ -79,7 +78,7 @@ updated: 2026-05-23
 ## 概念辨析
 
 > [!example]
-> - vs **[[Heart and Mind for Wanting to Learn|好學心]]**：好學心是"想学"的欲望本身——更原初、更持久、更弥散；立志是好學心在一个特定人生阶段（青少年时期）的**具体化和定向化**——将弥散的"想学"[[Transfer Translation Transformation|转化]]为明确的"学什么、为什么学"
+> - vs **[[Heart and Mind for Wanting to Learn|好學心]]**：好學心是"想学"的欲望本身——更原初、更持久、更弥散；立志是好學心在一个特定人生阶段（青少年时期）的**具体化和定向化**——将弥散的"想学"转化为明确的"学什么、为什么学"
 > - vs **勤奋**：立志是"决心"，勤奋是"决心之后的行为表现"。立志设定了方向和承诺，勤奋将承诺转化为大量时间投入和持续行动（Li, 2012, pp.91-92）
 > - vs **[[Western Learner|西方学习者]]的个人抱负（personal ambition）**：立志是文化命名的、社会协作的过程；西方个人抱负更倾向于个体自主选择，缺乏制度化的"见证人"角色
 
@@ -90,7 +89,7 @@ updated: 2026-05-23
 > [!warning]
 > - 立志作为社会监督机制（见证人），在实践中可能蜕变为对个人选择的压力——特别是当学习者的个人志向与家庭期望发生冲突时
 > - Li 的研究样本为大学生，对立志的回顾性描述可能受到理想化的叙事重构效应影响
-> - 中国受访者普遍描述[[Ideal Learner|理想学习者]]在年幼时最初可能并不对学习感兴趣，但在父母和教师引导下进入学习过程后发展出热爱——这与西方强调内在好奇心为原始驱动的模式形成差异。这种"先外部引导、后内部[[Transfer Translation Transformation|转化]]"的发展路径值得更多跨文化实证检验（Li, 2012, p.94）
+> - 中国受访者普遍描述[[Ideal Learner|理想学习者]]在年幼时最初可能并不对学习感兴趣，但在父母和教师引导下进入学习过程后发展出热爱——这与西方强调内在好奇心为原始驱动的模式形成差异。这种"先外部引导、后内部转化"的发展路径值得更多跨文化实证检验（Li, 2012, p.94）
 
 ---
 

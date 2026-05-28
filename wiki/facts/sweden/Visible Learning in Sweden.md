@@ -14,7 +14,6 @@ tags:
 - level/k12
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Effective Teaching]]"
   - "[[Evidence-Based Education]]"
   - "[[Policy Borrowing]]"
@@ -46,7 +45,7 @@ updated: '2026-05-20'
 ## 实施情况
 
 > [!example] 实施情况
-> 瑞典对 VL 的吸收方式，更像是把它[[Transfer Translation Transformation|转化]]成一种学校改进议程，而不是把它当成一张现成的“最佳做法清单”。
+> 瑞典对 VL 的吸收方式，更像是把它转化成一种学校改进议程，而不是把它当成一张现成的“最佳做法清单”。
 >
 > - 教师不只是看最终成绩，而是进入课堂讨论“这里的提问有没有推动学生思考”“这里的支持有没有帮助学生知道下一步怎么学”
 > - 校长的角色不只是查看结果数据，还要把教师的注意力稳定地聚焦在一个改进主题上
@@ -56,13 +55,13 @@ updated: '2026-05-20'
 
 > [!success] 影响与后果
 > - [[Visible Learning]] 在瑞典帮助学校改进从“结果治理”转向“课堂近端改进”，让教学本身重新成为改革对象（Håkansson, 2015, pp.52, 56–58）。
-> - 它强化了课堂观察、同伴协作、课后反思和围绕教学问题的专业对话，使学校更容易把研究语言[[Transfer Translation Transformation|转化]]为具体工作流程（Håkansson, 2015, pp.56–59）。
+> - 它强化了课堂观察、同伴协作、课后反思和围绕教学问题的专业对话，使学校更容易把研究语言转化为具体工作流程（Håkansson, 2015, pp.56–59）。
 > - 这种转化不是自动发生的。真正关键的是学校是否具备长期组织改进的能力，也就是 Håkansson 所说的“变革资本”与系统性质量工作能力（Håkansson, 2015, pp.58–59）。
 
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - Håkansson 并没有声称瑞典已经“证明 [[John Hattie|Hattie]] 正确”。这篇文章更像接受史和[[Transfer Translation Transformation|转化]]史分析，说明 VL 如何改变学校改进的话语和操作重心，而不是对其效果做严格因果验证（Håkansson, 2015, pp.52–59）。
+> - Håkansson 并没有声称瑞典已经“证明 [[John Hattie|Hattie]] 正确”。这篇文章更像接受史和转化史分析，说明 VL 如何改变学校改进的话语和操作重心，而不是对其效果做严格因果验证（Håkansson, 2015, pp.52–59）。
 > - 文章也提醒，课堂近端策略是否真正改善学生学习，仍然取决于地方学校文化、领导力和持续协作条件；如果只采纳术语而不改变工作方式，VL 只会停留在口号层面（Håkansson, 2015, pp.58–59）。
 
 ## 相关概念／理论

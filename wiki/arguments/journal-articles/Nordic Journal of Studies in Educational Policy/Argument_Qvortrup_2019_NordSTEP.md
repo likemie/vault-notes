@@ -17,7 +17,6 @@ related_concepts:
   - "[[Interpretation Community]]"
   - "[[Professional Judgment]]"
   - "[[Structural Coupling]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Effect Size]]"
 related_theories:
   - "[[Bounded Rationality]]"
@@ -73,7 +72,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> - 丹麦 [[John Hattie|Hattie]] 批评中存在将学术争论[[Transfer Translation Transformation|转化]]为"文化战争"的倾向——对手先被解除武装（如通过嘲笑），然后被诉诸最低大众偏见公约数的打击致死（Qvortrup, 2019, p.5）
+> - 丹麦 [[John Hattie|Hattie]] 批评中存在将学术争论转化为"文化战争"的倾向——对手先被解除武装（如通过嘲笑），然后被诉诸最低大众偏见公约数的打击致死（Qvortrup, 2019, p.5）
 > - 对 VL 的辩护框架：VL 是支持而非取代教师[[Professional Judgment|专业判断]]的工具——[[Effect Size|效应量]]提供概率信息，反馈作为修正机制（Qvortrup, 2019, p.6-7）
 
 ## 关键引用

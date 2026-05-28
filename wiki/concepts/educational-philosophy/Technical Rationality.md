@@ -11,7 +11,6 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
@@ -53,7 +52,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 专家依赖
-> 在技术理性框架下，复杂的经济、政治和文化问题应通过**咨询专家**（而非公民的积极参与）并应用技术科学逻辑来解决（Habermas, 1976, p. 34, cited in Nielsen & Klitmøller, 2021, p. 85）。在教育领域，这意味着教学决策权从教师[[Transfer Translation Transformation|转移]]到研究者手中——教师成为研究发现的应用者而非[[Professional Judgment|专业判断]]者。
+> 在技术理性框架下，复杂的经济、政治和文化问题应通过**咨询专家**（而非公民的积极参与）并应用技术科学逻辑来解决（Habermas, 1976, p. 34, cited in Nielsen & Klitmøller, 2021, p. 85）。在教育领域，这意味着教学决策权从教师转移到研究者手中——教师成为研究发现的应用者而非[[Professional Judgment|专业判断]]者。
 
 
 > [!abstract] 与合法化危机的关系

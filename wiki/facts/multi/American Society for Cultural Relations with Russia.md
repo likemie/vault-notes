@@ -14,6 +14,7 @@ tags:
   - region/us
   - region/russia
 related_concepts:
+  - "[[Knowledge Exchange]]"
   - "[[Cultural Diplomacy]]"
 related_theories: []
 related_methods: []
@@ -58,7 +59,7 @@ updated: 2026-05-26
 ## 影响与后果
 
 > [!success]
-> - **促进美苏民间知识交流**：ASCRR 在成立首年通过书籍交换在美苏之间传递了近六万册出版物——这是美苏在无外交关系时期规模最大的制度化民间知识流通渠道（Ryabyy, 2024, p.104）。
+> - **促进美苏民间[[Knowledge Exchange|知识交流]]**：ASCRR 在成立首年通过书籍交换在美苏之间传递了近六万册出版物——这是美苏在无外交关系时期规模最大的制度化民间知识流通渠道（Ryabyy, 2024, p.104）。
 > - **以组织之力促成 [[John Dewey|Dewey]] 访苏**：1928 年的 Dewey 代表团是 ASCRR 组织的最具影响力的活动。代表团成员对苏联教育给予积极评价，Dewey 回国后在新共和发表系列文章，美国公众由此获得关于苏联教育的第一手信息（Ryabyy, 2024, pp.102, 107–109）。
 > - **成为反共舆论的靶子**：Welsh 在 Dewey 出发前就致信国务院，指控 ASCRR 是"共产党的宣传游戏"——这场指控将民间教育交流与国家安全挂钩，典型地展示了冷战前期（pre-Cold War）美国国内反共势力对跨国文化交往的怀疑和监控模式（Ryabyy, 2024, pp.107–108）。
 

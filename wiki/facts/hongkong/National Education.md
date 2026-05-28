@@ -19,7 +19,6 @@ related_concepts:
   - "[[Membership-Creating Function of Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[One Country, Two Systems]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Sinicisation]]"
   - "[[Psychologisation]]"
 related_theories:
@@ -101,7 +100,7 @@ updated: '2026-05-25'
 > [!warning] "[[One Country, Two Systems|一国两制]]"内涵的根本转变
 > 国民教育在香港的强化与"一国两制"原则的重新解释同步进行。回归初期，"一国两制"被理解为高度自治的保障；但 2019 年后，该原则被重新框定为"一国"是前提、"两制"是容忍限度内的安排。
 >
-> - **支持国民教育的立场**：基于中共的官方叙事——香港回归不只是主权[[Transfer Translation Transformation|转移]]，更是"人心回归"，需要通过国民教育完成去殖民化和重新[[Sinicisation|中国化]]。（Yan & Morris, 2025, p. 489）
+> - **支持国民教育的立场**：基于中共的官方叙事——香港回归不只是主权转移，更是"人心回归"，需要通过国民教育完成去殖民化和重新[[Sinicisation|中国化]]。（Yan & Morris, 2025, p. 489）
 > - **反对立场**：国民教育在实施中实际上是以中国国家认同取代香港地方认同，这不是"回归祖国怀抱"的温情叙事，而是系统性地消除殖民地时期形成的独特身份。
 >
 > **目前状态**：《国安法》(2020) 和 [[Citizenship and Social Development|CSD]] (2021) 已将国民教育从争议性政策转变为法律要求，公民社会抵抗空间已大幅收窄。

@@ -1,5 +1,5 @@
 ---
-title: Trade Mission (University-Industry Engagement)
+title: Trade Mission in University-Industry Engagement
 aliases:
   - "贸易代表团"
   - "政府贸易代表团"
@@ -27,7 +27,7 @@ created: 2026-05-27
 updated: 2026-05-27
 ---
 
-# Trade Mission (University-Industry Engagement)
+# Trade Mission in University-Industry Engagement
 
 <!-- CONTENT_START -->
 

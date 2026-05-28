@@ -14,12 +14,13 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[Knowledge Exchange]]"
   - "[[Narrative Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[Junzi]]"
+  - "[[Technology Transfer]]"
   - "[[Economic and Industrial Espionage]]"
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Sage]]"
@@ -56,13 +57,13 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!question]
-> [[Geopolitics of Knowledge|知识地缘政治]]（GPK）的核心问题域是什么？Partaken 质疑后殖民研究将[[Knowledge Production|知识生产]]（knowledge production）作为 GPK 主要分析视角的做法，提出 GPK 的真正核心是[[Knowledge Transfer|知识转移]]（knowledge transfer）而非知识生产，并以当代中美紧张关系作为经验案例加以验证。
+> [[Geopolitics of Knowledge|知识地缘政治]]（GPK）的核心问题域是什么？Partaken 质疑后殖民研究将[[Knowledge Production|知识生产]]（knowledge production）作为 GPK 主要分析视角的做法，提出 GPK 的真正核心是[[Knowledge Transfer|知识转移]]（[[Knowledge Exchange|knowledge transfer]]）而非知识生产，并以当代中美紧张关系作为经验案例加以验证。
 
 
 ## 理论框架
 
 > [!abstract]
-> 论文以两个分析步骤组织论证：[[Knowledge Production|知识生产]]与[[Knowledge Transfer|知识转移]]。第一部分依托后殖民研究文献（[[Frantz Fanon|Fanon]]、[[Chen Kuan-Hsing]]、Mignolo、Tharoor），梳理知识生产作为殖民工具的分析传统；第二部分提出知识[[Transfer Translation Transformation|转移]]的六种模态（强制转移、间谍、监视、审查、破坏、交换），以中美地缘政治紧张为核心案例。理论资源包括：
+> 论文以两个分析步骤组织论证：[[Knowledge Production|知识生产]]与[[Knowledge Transfer|知识转移]]。第一部分依托后殖民研究文献（[[Frantz Fanon|Fanon]]、[[Chen Kuan-Hsing]]、Mignolo、Tharoor），梳理知识生产作为殖民工具的分析传统；第二部分提出知识转移的六种模态（强制转移、间谍、监视、审查、破坏、交换），以中美地缘政治紧张为核心案例。理论资源包括：
 > - [[Decolonial Geopolitics of Knowledge]] — 后殖民研究的 [[Geopolitics of Knowledge|GPK]] 分析传统，Partaken 批评其过度关注知识生产而忽视知识转移
 > - [[Jean-François Lyotard|Lyotard]] [[Narrative Knowledge|叙事知识]]／科学知识区分 — 作为分析叙事知识衰退的理论工具
 > - Foucault 的全景敞视主义 — 分析监视如何通过"永久可见性"自动运行权力
@@ -76,7 +77,7 @@ updated: '2026-05-18'
 > 属于理论讨论与概念分析文章。方法包括：
 > - 方法：Google Books Ngram Viewer 词频分析，追踪"geopolitics""[[Geopolitics of Knowledge]]"等术语的历史使用频率
 > - 数据来源：后殖民研究文献、美国国会报告（[[US-China Economic and Security Review Commission|USCC]]）、FBI 调查数据、专利统计、网络攻击统计数据
-> - 分析逻辑：概念区分（[[Knowledge Production|知识生产]] vs [[Knowledge Transfer|知识转移]]）+ 类型学建构（六种知识[[Transfer Translation Transformation|转移]]模态）+ 案例说明（中美紧张关系）
+> - 分析逻辑：概念区分（[[Knowledge Production|知识生产]] vs [[Knowledge Transfer|知识转移]]）+ 类型学建构（六种知识转移模态）+ 案例说明（中美紧张关系）
 
 
 ## 论证结构
@@ -94,7 +95,7 @@ updated: '2026-05-18'
 
 **观察 3**：从词频数据看，"[[Geopolitics of Knowledge]]"话语在 1990 年代出现，2000 年代和 2010 年代迅速强化。2010 年后，"知识"已超过能源、石油、资本主义等传统议题，成为"geopolitics of *"后面最常见的名词——意味着当代地缘政治中最密集的书写和辩论已从自然资源争夺转向了知识争夺（p.68）。
 
-**提出核心问题**：后殖民研究通常将 GPK 的问题域界定为"[[Knowledge Production|知识生产]]"（knowledge production）——谁生产知识、以什么视角、为谁的利益。但这一视角是否抓住了 GPK 的全部？Partaken 提出反向假设：GPK 的真正核心（epicenter）从殖民时代至今一直是[[Knowledge Transfer|知识转移]]（knowledge transfer）而非知识生产（p.68–69）。
+**提出核心问题**：后殖民研究通常将 GPK 的问题域界定为"[[Knowledge Production|知识生产]]"（knowledge production）——谁生产知识、以什么视角、为谁的利益。但这一视角是否抓住了 GPK 的全部？Partaken 提出反向假设：GPK 的真正核心（epicenter）从殖民时代至今一直是[[Knowledge Transfer|知识转移]]（[[Knowledge Exchange|knowledge transfer]]）而非知识生产（p.68–69）。
 
 ### 第二步：审查"知识生产"视角，揭示其盲点（§5.2–5.5, pp.70–75）
 
@@ -126,7 +127,7 @@ Partaken 通过专利数据分析揭示了一个关键事实："知识生产"这
 
 Partaken 在此处完成了从诊断到替代的理论转换：
 
-**前提**：知识一旦生产出来，几乎是立即经历一个挪用（appropriation）过程——所有权从生产者[[Transfer Translation Transformation|转移]]到获取者。知识此时进入"运动"状态：它可以被教授、学习、出售、购买、窃取、审查、分级、规定或公之于众。Partaken 将这组可能的运动统称为"知识转移"（knowledge transfer）（p.74–75）。
+**前提**：知识一旦生产出来，几乎是立即经历一个挪用（appropriation）过程——所有权从生产者转移到获取者。知识此时进入"运动"状态：它可以被教授、学习、出售、购买、窃取、审查、分级、规定或公之于众。Partaken 将这组可能的运动统称为"知识转移"（knowledge transfer）（p.74–75）。
 
 **哲学论证**：知识转移的思想在西方形而上学中有深层根基。希腊哲学中关于 agathos（善）的理论，经新[[Plato|柏拉图]]主义和新亚里士多德主义发展为拉丁箴言"omne bonum diffusum sui est"（一切善倾向于自我扩散）——知识作为善，倾向于在人群中传播和扩散（p.75）。
 

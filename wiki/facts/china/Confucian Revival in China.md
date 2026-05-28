@@ -15,6 +15,7 @@ tags:
   - theme/nationalism
   - theme/ideology
 related_concepts:
+  - "[[Academic Freedom]]"
   - "[[Sinicisation]]"
   - "[[Official Knowledge]]"
 related_theories: []

@@ -1,6 +1,6 @@
 ---
 title: Argument_Boyadjieva_2022_Springer
-summary: Ch8 Pepka Boyadjieva，以可行能力路径和制度理论构建 HE 多维使命模型（2×3 矩阵），批判全球排名推行一刀切大学模型、忽视使命多样性
+summary: "Ch8 Pepka Boyadjieva，以可行能力路径和制度理论构建 HE 多维使命模型（2×3 矩阵），批判全球排名推行一刀切大学模型、忽视使命多样性"
 type: argument
 subtype: book-chapter
 publication_type: book
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[Social Charter]]"
   - "[[Champ]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Corporate University]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
@@ -118,7 +117,7 @@ updated: 2026-05-18
 [[Pepka Boyadjieva]] 将 Sen 的五种价值重新组织，沿两条轴线展开（Boyadjieva, 2022, pp.128–130）：
 
 > **纵轴：影响层面** → 个体层面 vs 社会层面
-> **横轴：影响性质** → 工具性 vs 内在性 vs [[Transfer Translation Transformation|转化]]/赋权性
+> **横轴：影响性质** → 工具性 vs 内在性 vs 转化/赋权性
 
 这样就形成了一个包含六个"格子"的分析框架：
 

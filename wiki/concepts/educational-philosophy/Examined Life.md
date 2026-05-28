@@ -14,6 +14,7 @@ tags:
 - theme/critical-thinking
 - theme/learning
 related_concepts:
+  - "[[Academic Freedom]]"
   - "[[Sage]]"
   - "[[Faust]]"
   - "[[Ideal Learner]]"

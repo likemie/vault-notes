@@ -18,8 +18,8 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Learning Gap]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -50,7 +50,7 @@ updated: '2026-05-21'
 > - [[Evidence-Based Education]] — 循证被理解为“提高成功概率”的知识取向，而不是保证任何课堂都自动成功的万能公式。研究证据的作用，是减少完全凭运气或习惯行事的空间（Nordahl, 2015, pp.63–64）。
 > - [[Professional Judgment]] — 专业判断不是研究证据的对立面。更稳妥的判断，恰恰需要把研究知识、反思和情境判断放在一起，而不是只依赖个人直觉（Nordahl, 2015, pp.64–65）。
 > - [[Knowledge Mobilisation]] — 研究知识不会自动进入课堂，而要经过翻译、协作与组织支持，才能转成教师行动（Nordahl, 2015, pp.66–67）。
-> - [[New Public Management]] — 单纯依靠 top-down 控制、测试压力和绩效激励，难以把学校真正改进到课堂层面。更可行的路径，是把改进重心放到教师知识、协作和知识[[Transfer Translation Transformation|转化]]上（Nordahl, 2015, pp.65–67）。
+> - [[New Public Management]] — 单纯依靠 top-down 控制、测试压力和绩效激励，难以把学校真正改进到课堂层面。更可行的路径，是把改进重心放到教师知识、协作和知识转化上（Nordahl, 2015, pp.65–67）。
 
 ## 研究方法
 
@@ -105,7 +105,7 @@ updated: '2026-05-21'
 > 到这里，论证开始从教师个人层面转到制度层面。问题不再只是“老师如何判断”，而是“学校系统通常怎样推动改革”。
 >
 > 10. 一种常见路线是 top-down 改革：上级下命令、加强测试、提高问责、引入竞争、配套奖惩，希望靠压力迫使学校变好（Nordahl, 2015, p.65）。
-> 11. [[No Child Left Behind Act 2001]] 被当作这条路线的典型例子。它说明，仅靠压力、激励和竞争，并不会自然[[Transfer Translation Transformation|转化]]成更好的教学，甚至可能损伤学校（Nordahl, 2015, p.65）。
+> 11. [[No Child Left Behind Act 2001]] 被当作这条路线的典型例子。它说明，仅靠压力、激励和竞争，并不会自然转化成更好的教学，甚至可能损伤学校（Nordahl, 2015, p.65）。
 > 12. 由此推出的判断是：改革的核心误判，不在于教师“懒”或“缺动力”，而在于把问题误解成了动机问题，而不是知识与能力问题（Nordahl, 2015, pp.65–66）。
 >
 > > 可以把这理解成两种完全不同的诊断。第一种诊断是“老师不够拼，所以要逼一逼”；第二种诊断是“老师和学校缺少把研究知识转成教学行动的条件，所以要搭建支持系统”。整篇论证显然站在第二种诊断这一边。
@@ -168,7 +168,7 @@ updated: '2026-05-21'
 > [!warning]
 > - 这是一篇立场鲜明的评论文章，不是独立实证研究。它善于搭建论证链，但并不自己提供新的课堂数据来证明这些主张（Nordahl, 2015, pp.61–69）。
 > - 对 [[Visible Learning]] 的采用总体偏支持立场，虽然提到批评者如 [[Gert Biesta]]，但主要重心放在回应和反驳，而不是平衡展示双方证据强弱（Nordahl, 2015, pp.64–68）。
-> - 斯堪的纳维亚语境中的“差异性”批评被处理得比较强势，不同国家之间的共性被放大来支持经验[[Transfer Translation Transformation|转移]]；这种说法有助于推进改革，但可能低估地方历史、制度与文化条件对证据转译的影响（Nordahl, 2015, pp.65–66）。
+> - 斯堪的纳维亚语境中的“差异性”批评被处理得比较强势，不同国家之间的共性被放大来支持经验转移；这种说法有助于推进改革，但可能低估地方历史、制度与文化条件对证据[[Transfer Translation Transformation|转译]]的影响（Nordahl, 2015, pp.65–66）。
 > - 价值导向与研究证据被放成一种先后关系，即先有共同价值，再追问什么有效。这种安排很清楚，但仍可能被批评为把复杂教育目的压缩成“更好实现既定目标”的技术问题（Nordahl, 2015, pp.67–68）。
 
 ## 来源

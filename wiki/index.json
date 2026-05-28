@@ -1416,6 +1416,17 @@
     ]
   },
   {
+    "title": "Alumni Engagement in University-Industry Collaboration",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Alumni Engagement in University-Industry Collaboration.md",
+    "aliases": [
+      "校友参与产学合作",
+      "校友产学连接",
+      "alumni engagement",
+      "alumni-industry engagement"
+    ]
+  },
+  {
     "title": "Boundary Spanner",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Boundary Spanner.md",
@@ -1880,6 +1891,17 @@
     ]
   },
   {
+    "title": "Strategic Partnership in University-Industry Collaboration",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Strategic Partnership in University-Industry Collaboration.md",
+    "aliases": [
+      "产学战略伙伴关系",
+      "战略性产学伙伴关系",
+      "UI strategic partnership",
+      "strategic UI partnership"
+    ]
+  },
+  {
     "title": "Student Engagement",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Student Engagement.md",
@@ -1922,9 +1944,9 @@
     ]
   },
   {
-    "title": "Trade Mission (University-Industry Engagement)",
+    "title": "Trade Mission in University-Industry Engagement",
     "type": "concept",
-    "path": "wiki/concepts/higher-education/Trade Mission (University-Industry Engagement).md",
+    "path": "wiki/concepts/higher-education/Trade Mission in University-Industry Engagement.md",
     "aliases": [
       "贸易代表团",
       "政府贸易代表团",
@@ -1956,9 +1978,9 @@
     ]
   },
   {
-    "title": "University Corporate Engagement Professional (UCEP)",
+    "title": "University Corporate Engagement Professional",
     "type": "concept",
-    "path": "wiki/concepts/higher-education/University Corporate Engagement Professional (UCEP).md",
+    "path": "wiki/concepts/higher-education/University Corporate Engagement Professional.md",
     "aliases": [
       "大学企业参与专员",
       "大学企业关系专员",

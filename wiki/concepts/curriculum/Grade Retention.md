@@ -16,7 +16,6 @@ tags:
   - region/global
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -53,7 +52,7 @@ updated: 2026-05-24
 > [!abstract]
 > 留级通常包含三个制度性要素：用年级重复处理学习困难、把学生年龄队列重新排序、由学校或系统规则决定是否允许学生升入下一年级。
 
-- 留级把“学业未达标”[[Transfer Translation Transformation|转化]]为“重复一年”的制度处理，因而会直接影响学生在同龄群体中的位置（Dachet & Baye, 2021, p.169）。
+- 留级把“学业未达标”转化为“重复一年”的制度处理，因而会直接影响学生在同龄群体中的位置（Dachet & Baye, 2021, p.169）。
 - 留级率可作为教育系统如何处理学生差异的指标。若某系统长期高留级，说明它更倾向于通过延长学生停留时间来处理学习困难，而不是通过课程、教学或支持系统改变来减少失败（Dachet & Baye, 2021, pp.165, 169）。
 - 留级与公平问题相连，因为成绩低、社会经济地位不利和脆弱学生群体常常在同一系统中叠加出现；在法语比利时案例中，高留级率与强社会出身影响共同构成改革压力（Dachet & Baye, 2021, pp.165, 170）。
 

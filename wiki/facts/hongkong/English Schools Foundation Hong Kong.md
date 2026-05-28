@@ -15,7 +15,6 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
 related_theories: []
 related_methods: []
@@ -67,7 +66,7 @@ updated: '2026-05-18'
 > [!warning]
 > ESF 和[[International Schools|国际学校]]扩张、吸纳更多本地华人学生的一个非预期后果是：本地英文中学和中文中学失去了许多最优秀的学生。Forse 指出，香港政府未能提供充足的英语授课公立教育，迫使家长将子女送入半私立的 ESF 系统或高收费的 [[International Schools|国际学校]]，以便学好英语并进入顶尖西方大学（Slethaug, 2010, p.5）。
 >
-> 这种学生[[Transfer Translation Transformation|转移]]实际上掏空了本已因出生率急剧下降而面临压力的公立学校系统，并可能导致对扩张中的[[International Education|国际教育]]部门的怨恨情绪（Slethaug, 2010, p.5）。
+> 这种学生转移实际上掏空了本已因出生率急剧下降而面临压力的公立学校系统，并可能导致对扩张中的[[International Education|国际教育]]部门的怨恨情绪（Slethaug, 2010, p.5）。
 
 ---
 

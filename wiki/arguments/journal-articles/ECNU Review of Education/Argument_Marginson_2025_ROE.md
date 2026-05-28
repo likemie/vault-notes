@@ -24,6 +24,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Double Spatiality of Universities]]"
   - "[[International Education]]"
+  - "[[Multi-University]]"
   - "[[Zero-Sum Competition]]"
   - "[[Internationalization of Higher Education]]"
 related_theories:

@@ -13,6 +13,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Innovation Ecosystem]]"
   - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Graduate Attributes]]"

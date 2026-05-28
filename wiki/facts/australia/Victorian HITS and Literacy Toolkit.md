@@ -19,7 +19,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Whole Language]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
@@ -71,7 +70,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与评论
 > - O'Connor（2020）的批评有一部分正是从这一政策现实出发的：如果 [[Visible Learning]] 对[[Whole Language|全语言]]等领域的评估存在方法论缺陷和先验偏见，则基于 VL 的官方政策建议可能引导教师做出不适当的教学选择
-> - 该案例说明了 [[John Hattie|Hattie]] 的研究如何从学术出版物[[Transfer Translation Transformation|转化]]为具有约束力的州级教育政策，进而影响教师的日常实践决策
+> - 该案例说明了 [[John Hattie|Hattie]] 的研究如何从学术出版物转化为具有约束力的州级教育政策，进而影响教师的日常实践决策
 
 ## 相关概念／政策
 

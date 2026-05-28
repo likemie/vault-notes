@@ -15,7 +15,6 @@ tags:
   - theme/evidence-informed-practice
   - theme/educational-intervention
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -43,7 +42,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> IEE 同时在学校层面和研究层面工作。学校层面，它与教师和校长合作，支持有效实践和项目的使用；研究层面，它开展严格评价和综述，并通过项目把证据[[Transfer Translation Transformation|转化]]为实践者可使用的信息（Pellegrini & Vivanet, 2021, p.33）。
+> IEE 同时在学校层面和研究层面工作。学校层面，它与教师和校长合作，支持有效实践和项目的使用；研究层面，它开展严格评价和综述，并通过项目把证据转化为实践者可使用的信息（Pellegrini & Vivanet, 2021, p.33）。
 
 ## 时间线
 
@@ -68,7 +67,7 @@ updated: 2026-05-23
 ## 相关概念／理论
 
 > [!tip]
-> - [[Educational Evidence Clearinghouses]] — IEE 的 Evidence 4 Impact 属于把项目证据[[Transfer Translation Transformation|转化]]为评级信息的机制。
+> - [[Educational Evidence Clearinghouses]] — IEE 的 Evidence 4 Impact 属于把项目证据转化为评级信息的机制。
 > - [[Evidence-Informed Practice]] — IEE 面向教师和学校传播证据知情实践。
 > - [[Argument_Pellegrini_2021_ROE]] — 集中拆解 IEE 所处欧洲证据基础设施的政策意义。
 

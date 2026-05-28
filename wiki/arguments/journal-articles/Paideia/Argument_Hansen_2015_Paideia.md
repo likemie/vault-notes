@@ -17,11 +17,9 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Effect Size]]"
   - "[[New Public Management]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
@@ -59,7 +57,7 @@ updated: '2026-05-20'
 > 2. 接着它指出，[[John Hattie|Hattie]] 最重要的贡献不应被缩减为干预因素排行榜，而应理解为一种教师工作原则：教师要从一开始就把学生当前学习状态、明确目标、可能的教学干预和反馈效果放在同一个评价视角下持续判断自己的影响（Hansen et al., 2015, p.4）。
 > 3. 在这个基础上，导言把主题号内部文章安排成一条连续的修正链。Qvortrup 负责回应意识形态和方法论批评，并补上知识与学习概念的动态模型；Laursen 负责检验这些研究结论能否跨出英美语境，在丹麦是否依然成立；Allerup 负责说明[[Effect Size|效应量]]排序需要怎样的统计保留条件（Hansen et al., 2015, pp.5–6）。
 > 4. 然后导言把主题从文献争论推向制度实践。Håkansson 的文章被用来说明“Hattie 革命”在瑞典带来了更贴近课堂的学校改进、更多教师集体合作，以及带有视频观察和同伴督导色彩的专业化工作方式（Hansen et al., 2015, p.6）。
-> 5. Nordahl 的文章则把论证推进到系统层面：教育对个人生活质量和社会参与极其重要，因此学校改进不能停留在外部激励或 [[New Public Management]] 式控制，而要围绕教师个体与集体的教学知识、专业学习共同体、能力建设和知识[[Transfer Translation Transformation|转化]]来展开；在这一整套改进工程中，可见学习被呈现为无法绕开的起点（Hansen et al., 2015, pp.6–8）。
+> 5. Nordahl 的文章则把论证推进到系统层面：教育对个人生活质量和社会参与极其重要，因此学校改进不能停留在外部激励或 [[New Public Management]] 式控制，而要围绕教师个体与集体的教学知识、专业学习共同体、能力建设和知识转化来展开；在这一整套改进工程中，可见学习被呈现为无法绕开的起点（Hansen et al., 2015, pp.6–8）。
 > 6. 最终结论是，这一期导言为可见学习提供了一种支持但非无条件辩护的整理框架：它肯定教师关注学习效果与证据的必要性，同时承认这一范式若想站得住脚，必须回应学习层次、统计解释和跨语境适用性的批评（Hansen et al., 2015, pp.4–8）。
 
 ## 主要发现
@@ -69,7 +67,7 @@ updated: '2026-05-20'
 > - 导言明确承认可见学习现有证据更偏向[[Surface and Deep Learning|表层学习]]，因此需要继续推进对知识与学习概念的重建，避免把学习结果理解得过于单薄（Hansen et al., 2015, pp.4–5）。
 > - 主题号内部形成了三种互补路线：Qvortrup 提供支持方的概念修正，Laursen 检验丹麦语境中的跨文化适用性，Allerup 审查[[Effect Size|效应量]]排序的统计前提（Hansen et al., 2015, pp.5–6）。
 > - 导言把瑞典案例和 Nordahl 的系统论述串起来，说明可见学习在北欧并不只是一套研究结果，也正在重塑学校改进话语，尤其强调教师协作、课堂观察和专业资本建设（Hansen et al., 2015, pp.6–8）。
-> - Nordahl 在导言结尾所代表的立场非常强硬：完全拒绝使用 [[John Hattie|Hattie]] 及[[Observational and Correlational Research|相关研究]]结果的人，需要为儿童未来承担道德责任；问题不在于学校有没有激励，而在于教师是否具备改进教学所需的专业知识与集体能力（Hansen et al., 2015, pp.7–8）。
+> - Nordahl 在导言结尾所代表的立场非常强硬：完全拒绝使用 [[John Hattie|Hattie]] 及相关研究结果的人，需要为儿童未来承担道德责任；问题不在于学校有没有激励，而在于教师是否具备改进教学所需的专业知识与集体能力（Hansen et al., 2015, pp.7–8）。
 
 ## 关键引用
 

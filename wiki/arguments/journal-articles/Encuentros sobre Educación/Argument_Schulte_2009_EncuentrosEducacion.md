@@ -14,7 +14,6 @@ tags:
   - theme/recontextualization
   - theme/modernization
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Recontextualization]]"
   - "[[Junzi]]"
   - "[[Pragmatism in China]]"
@@ -22,6 +21,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Sage]]"
   - "[[Scientism]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Scientific Attitude]]"
   - "[[Quality Education]]"
 related_theories: []
@@ -48,7 +48,7 @@ updated: 2026-05-26
 ## 研究问题
 
 > [!question]
-> 一个外国教育思想家的影响力，究竟是思想本身的力量所致，还是接受国的知识分子按照自身议程对其主动塑造的结果？具体而言：[[John Dewey|杜威]]（John Dewey）在 1919 年访华后的九十年间，经历了从"朋友"到"魔鬼"再到"现代化旗帜"的剧烈身份转换。这一现象如何解释？它揭示了教育思想跨国[[Transfer Translation Transformation|转移]]中的什么规律？
+> 一个外国教育思想家的影响力，究竟是思想本身的力量所致，还是接受国的知识分子按照自身议程对其主动塑造的结果？具体而言：[[John Dewey|杜威]]（John Dewey）在 1919 年访华后的九十年间，经历了从"朋友"到"魔鬼"再到"现代化旗帜"的剧烈身份转换。这一现象如何解释？它揭示了教育思想跨国转移中的什么规律？
 
 > [!info]
 > 该研究属于教育史与比较教育的交叉领域，采用的是历史话语分析（historical discourse analysis）：以中国学术界和教育界围绕[[John Dewey|杜威]]的出版文本（期刊文章、演讲记录、政策文件）为主要素材，追踪同一个教育思想家的话语形象如何在不同政治时期被彻底重构。覆盖时段从 1919 年到 2009 年，共九十年、四个时段。不是实证研究，不对政策效果做因果推断。
@@ -101,7 +101,7 @@ updated: 2026-05-26
 > [!abstract]
 > 针对上述问题，分析提出一个关键区分：外国思想在本土的变形不应被框架化为"误解"（misunderstanding），而应理解为**[[Recontextualization|再脉络化]]**（recontextualization）。
 
-> 具体来说，这意味着[[John Dewey|杜威]]的思想（无论是他本人亲自宣讲的、还是通过著作传播的）提供了一个"丰富的思想与意识形态储备库"（rich repertoire of ideas and ideologies，p.68），中国知识分子从中根据自身需要选择性地拾取和改造。这个过程不是对杜威的"背叛"，而是思想跨文化[[Transfer Translation Transformation|转移]]的常规机制。
+> 具体来说，这意味着[[John Dewey|杜威]]的思想（无论是他本人亲自宣讲的、还是通过著作传播的）提供了一个"丰富的思想与意识形态储备库"（rich repertoire of ideas and ideologies，p.68），中国知识分子从中根据自身需要选择性地拾取和改造。这个过程不是对杜威的"背叛"，而是思想跨文化转移的常规机制。
 
 > [!example] 一个贯穿全文的对比案例
 
@@ -156,7 +156,7 @@ updated: 2026-05-26
 - 对[[May Fourth Movement|五四运动]]的追随者而言，杜威的民主信念和"以儿童为中心"提供了反对儒学传统的理论武器
 - 对希望通过教育而非革命来改造国家的温和派而言，杜威明确反对暴力和革命、主张渐进改良的立场正好可以拿来论证"教育救国"
 
-甚至《民主主义与教育》的核心信息也被做了一次保守化转译：在中国语境中，它变成了"每个人都要在恰当的位置上，每个人都要为此做好恰当的准备"（Gong Chushu 1928，引自 p.77）。[[Tao Xingzhi|陶行知]]后来批评这种解读是"衣食主义"（yishizhuyi），只求温饱，不思变革。
+甚至《民主主义与教育》的核心信息也被做了一次保守化[[Transfer Translation Transformation|转译]]：在中国语境中，它变成了"每个人都要在恰当的位置上，每个人都要为此做好恰当的准备"（Gong Chushu 1928，引自 p.77）。[[Tao Xingzhi|陶行知]]后来批评这种解读是"衣食主义"（yishizhuyi），只求温饱，不思变革。
 
 ---
 

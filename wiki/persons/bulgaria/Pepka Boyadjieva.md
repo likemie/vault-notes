@@ -13,7 +13,6 @@ tags:
 - capability-approach
 related_concepts:
   - "[[Global Universities Rankings]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Employability]]"
 related_theories:
   - "[[Capability Approach in Education]]"
@@ -76,7 +75,7 @@ updated: '2026-05-19'
 ## 核心思想
 
 > [!tip]
-> Boyadjieva 的核心理论贡献是与 Ilieva-Trichkova 共同发展的高等教育多维使命模型。该模型沿两条轴线组织：（1）影响层面——个体 vs 社会；（2）影响性质——工具性（instrumental）、内在性（intrinsic）和[[Transfer Translation Transformation|转化]]/赋权性（transformative/empowering）。由此形成 2×3 的矩阵框架，系统展现高等教育作为制度的复杂多元使命（Boyadjieva, 2022, pp.128–130）。
+> Boyadjieva 的核心理论贡献是与 Ilieva-Trichkova 共同发展的高等教育多维使命模型。该模型沿两条轴线组织：（1）影响层面——个体 vs 社会；（2）影响性质——工具性（instrumental）、内在性（intrinsic）和转化/赋权性（transformative/empowering）。由此形成 2×3 的矩阵框架，系统展现高等教育作为制度的复杂多元使命（Boyadjieva, 2022, pp.128–130）。
 
 该模型揭示：全球排名仅捕获了高等教育使命矩阵中极小的一部分——主要是个体层面的工具性价值（[[Employability|就业力]]）和社会层面的工具性价值（经济增长、创新）——而系统性地忽略了高等教育的内在价值（知识本身、理性、宽容等社会价值的合法化）和转化/赋权价值（人格发展、批判性思维、社会群体流动和参与）（Boyadjieva, 2022, pp.132–136）。
 

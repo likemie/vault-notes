@@ -5,7 +5,7 @@ aliases:
   - 谦逊
   - qian xun
   - humility
-summary: 东亚学习传统中的核心美德，以谦逊为内在力量抵御自满，保持持续自省与学习动力
+summary: "东亚学习传统中的核心美德，以谦逊为内在力量抵御自满，保持持续自省与学习动力"
 type: concept
 tags:
   - region/east-asia

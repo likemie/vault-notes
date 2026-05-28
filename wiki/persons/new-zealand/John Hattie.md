@@ -316,7 +316,7 @@ updated: '2026-05-21'
 >
 > #### 立场演变与距离感
 >
-> - **Hattie & Donoghue (2016) 放弃排名**：在试图完成另一个排名元分析时，因发现策略内部变异太大而放弃排名，转而开发三输入（技能/意愿/激情）三阶段（表层/深层/迁移）学习模型。该模型承认对 [[Problem-Based Learning|PBL]] 的批评可解释为一年级医学生仍处于[[Surface and Deep Learning|表层学习]]阶段（Blass, 2020, pp.95–96）
+> - **Hattie & Donoghue (2016) 放弃排名**：在试图完成另一个排名元分析时，因发现策略内部变异太大而放弃排名，转而开发三输入（技能/意愿/激情）三阶段（表层/深层/[[Transfer Translation Transformation|迁移]]）学习模型。该模型承认对 [[Problem-Based Learning|PBL]] 的批评可解释为一年级医学生仍处于[[Surface and Deep Learning|表层学习]]阶段（Blass, 2020, pp.95–96）
 > - 已在某种程度上与 VL 的被运用方式保持距离，表示若重新来过会避免"结果的暴政"（tyranny of outcomes）（Hattie, in Knudsen, 2017）
 > - Qvortrup（2019）以引介者身份为 Hattie 辩护：三线论证——批评者形成了意识形态解释社群而非学术反驳；定量/定性对立源于认识论/本体论混淆；教学与学习之间不是因果关系而是[[Structural Coupling|结构耦合]]，VL 的目的是提供"智能问题解决的假设"而非"食谱"，[[Professional Judgment|专业判断]]是缺失环节（Qvortrup, 2019, p.3-7）
 > - **2020 年 Lessons from Lockdown 会议演讲**：Hattie 的立场进一步演变——谈到"课程差异不大"（70% 教师提问仅需三词或更少回答）、询问"我们真的需要学生每天坐在教师面前吗？"、承认"失败是学习者最好的朋友但仅低风险时"、指出"通过失败学习是 PBL 的一部分、通过探究式学习恢复"。Blass（2020, p.96）指出 Hattie 现在倡导的学习模型最适合 PBL 和探究式教学法——但他的早期排名仍被用于为直接教学模式辩护

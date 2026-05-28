@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Transactional Epistemology]]"
 related_methods: []
@@ -105,7 +104,7 @@ updated: '2026-05-18'
 > 从"[[Evidence-Based Education|证据本位教育]]"转向"价值本位教育"的路径不明确。对于一线教师而言，这意味着什么具体变化？
 >
 > - **Biesta 的立场**：价值本位教育是一个**定位性概念**（orienting concept）而非操作性指南——它的作用是重新定义证据与价值的关系，而非提供新的课堂技术。（Biesta, 2010, p. 501）
-> - **批评者的立场**：如果概念不能[[Transfer Translation Transformation|转化]]为教师教育、课堂实践和教育政策层面的具体变化，其影响将仅限于学术界内部。
+> - **批评者的立场**：如果概念不能转化为教师教育、课堂实践和教育政策层面的具体变化，其影响将仅限于学术界内部。
 >
 > **目前状态**：持续争论；部分教育哲学课程已整合 Biesta 框架（尤其在北欧和英国），但尚未产生大规模的课堂实践变革。
 

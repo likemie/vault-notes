@@ -2,7 +2,7 @@
 title: Yajun Zheng
 aliases:
   - 郑雅君
-summary: 中国高等教育研究者，双模式框架提出者和 金榜题名之后 作者，为教育研究解释大学生出路分化与文化障碍提供分析工具。
+summary: "中国高等教育研究者，双模式框架提出者和 金榜题名之后 作者，为教育研究解释大学生出路分化与文化障碍提供分析工具。"
 type: person
 nationality: china
 tags:
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
   - "[[Champ]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Self-Driven Mode]]"
@@ -88,7 +87,7 @@ updated: 2026-05-19
 
 ### 理论框架：三层嵌套的"大学过程"模型
 
-- **资本化过程**（最外层结构性约束）：家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被[[Transfer Translation Transformation|转化]]为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑（郑雅君，2023）
+- **资本化过程**（最外层结构性约束）：家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑（郑雅君，2023）
 - **投入过程**（中层行动策略）：学生在[[Academic Engagement|学业投入]]（[[Academic Engagement]]）和[[Social Engagement|社会性投入]]（[[Social Engagement]]）两个维度上如何组织大学生活，分别对应两种模式的不同策略取向
 - **价值选择过程**（最内层意义建构）：学生在 三种工作意义图式（地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达）之间的选择与整合，决定其毕业出路的最终方向（郑雅君，2023）
 
@@ -133,7 +132,7 @@ updated: 2026-05-19
 
 > [!success]
 > - 在中国高等教育公平研究中，双模式类型学为分析大学生活经验的阶层差异提供了可操作的概念工具
-> - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释精英大学中[[Cultural Capital|文化资本]]如何通过日常实践[[Transfer Translation Transformation|转化]]为出路分化
+> - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释精英大学中[[Cultural Capital|文化资本]]如何通过日常实践转化为出路分化
 > - [[Cultural Barrier in Higher Education]] 概念将 [[Pierre Bourdieu|Bourdieu]] 的文化再生产理论从宏观制度层面延伸到微观的日常生活经验层面，丰富了对教育公平机制的理解
 > - 以[[Constructivist Grounded Theory]]在大规模访谈数据中的系统应用，为高等教育[[Qualitative Research|质性研究]]提供了方法论参照
 

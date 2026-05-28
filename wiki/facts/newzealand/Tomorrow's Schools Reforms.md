@@ -13,7 +13,6 @@ tags:
 - region/new-zealand
 - level/k12
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Educational Management Organisation]]"
   - "[[Network Governance]]"
   - "[[School Autonomy]]"
@@ -54,7 +53,7 @@ updated: '2026-05-22'
 
 > [!info] 政策内容
 > - 设立各校董事会（Board of Trustees），赋予学校在财务、人事和运营方面的自主权
-> - 原先由教育部集中提供的学校支持服务（工资发放、交通、财务行政等）[[Transfer Translation Transformation|转移]]至新成立的实体
+> - 原先由教育部集中提供的学校支持服务（工资发放、交通、财务行政等）转移至新成立的实体
 > - 作为改革过渡机制，全国设立 13 个 education service centres（ESCs），承接原教育部与各地教育委员会的部分行政与服务职能，并以政府 suspensory loans 支持启动；这些机构从一开始就被设计为可被竞争逐步取代的过渡安排，而不是永久性公共机构（Bates, 2017, p.11-12）
 > - Tomorrow's Schools 政策文本明确把 ESCs 定义为学校行政支持的“one source”，学校可以选择继续使用 ESC，也可以向其他供应者购买服务，因此改革不仅是放权给学校，也是把学校支持服务逐步改写为可竞争采购的准市场（Bates, 2017, p.12）
 
@@ -75,7 +74,7 @@ updated: '2026-05-22'
 > - 由于学校普遍具有强烈价格敏感性，而许多新服务又必须从原先“免费公共服务”改成收费项目，改革初期的学校支持市场并不稳定。以 Multi Serve 为例，学校对财务管理等收费服务的购买远低于预期，这说明学校自主化并没有自动带来成熟、可持续的服务需求（Bates, 2017, p.13, p.16）
 > - 围绕学校工资究竟应由中央还是学校管理的长期政策摇摆，使改革后的治理结构同时包含放权与重新集中两种方向。结果不是简单撤出国家，而是让 Ministry 在合同、平台更新与采购节奏上持续塑造学校支持服务市场（Bates, 2017, p.15）
 >
-> ### 从 ESCs 到 Cognition Education 的[[Transfer Translation Transformation|转化]]链（Johnson & Janzen, 2023）
+> ### 从 ESCs 到 Cognition Education 的转化链（Johnson & Janzen, 2023）
 >
 > Johnson & Janzen（2023, p.30）详细记录了改革引发的私营化链条中的关键一环——Cognition Education 的起源：
 >

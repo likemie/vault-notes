@@ -16,6 +16,7 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
   - "[[Flow]]"
   - "[[Hub and Flow Imaginaries]]"
+  - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Critical Geopolitics]]"
 related_methods: []

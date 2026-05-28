@@ -20,8 +20,7 @@ related_concepts:
   - "[[Sinicisation]]"
   - "[[One Country, Two Systems]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[National Education]]"
@@ -120,7 +119,7 @@ updated: '2026-05-21'
 
 ## 相关研究
 
-> [!example] [[Observational and Correlational Research|相关研究]]
+> [!example] 相关研究
 > - [[Argument_Yan_2025_JCS]] — 将香港 [[Liberal Studies|LS]]→[[Citizenship and Social Development|CSD]] 案例纳入边疆国族建构框架
 > - Vickers & Morris (2022) — 国安法与香港教育的"大陆化"
 > - Leibold & Dorjee (2024) — 西藏

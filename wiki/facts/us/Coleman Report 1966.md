@@ -14,7 +14,6 @@ tags:
 - region/us
 - level/k12
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Pragmatism in China]]"
 related_theories:
   - "[[Refraction Framework]]"
@@ -107,7 +106,7 @@ updated: '2026-05-18'
 >
 > #### 催生的独立研究路线
 >
-> Coleman Report 影响了一条持续至今的研究传统，其核心特征是将分析焦点从学校内部过程[[Transfer Translation Transformation|转移]]到**非学校来源**的儿童教育机会和结果差异：家庭资源、邻里环境、同伴网络、暑期经历等（Downey & Condron, 2016, p.2）。
+> Coleman Report 影响了一条持续至今的研究传统，其核心特征是将分析焦点从学校内部过程转移到**非学校来源**的儿童教育机会和结果差异：家庭资源、邻里环境、同伴网络、暑期经历等（Downey & Condron, 2016, p.2）。
 >
 > ### 与批判视角的时间线关系
 >
@@ -200,7 +199,7 @@ updated: '2026-05-18'
 >
 > > "A cynical—and entirely plausible—interpretation of the greater emphasis on reforming schools relative to reforming other institutions is that it serves a purpose: It distracts people from the real sources of inequality, thereby serving the interests of those who benefit from current social arrangements."
 >
-> 这一解读将学校改革话语定位为一种**意识形态功能**：通过将公众注意力集中在学校（一个相对安全的改革目标），系统性[[Transfer Translation Transformation|转移]]了对更广泛社会结构（最低工资、医疗保障、公共交通、带薪家事假、亲劳工立法、大规模监禁等）的关注——而这些才是成就差距的真正主要来源。
+> 这一解读将学校改革话语定位为一种**意识形态功能**：通过将公众注意力集中在学校（一个相对安全的改革目标），系统性转移了对更广泛社会结构（最低工资、医疗保障、公共交通、带薪家事假、亲劳工立法、大规模监禁等）的关注——而这些才是成就差距的真正主要来源。
 >
 > ### 当代政策含义
 >

@@ -104,7 +104,7 @@ updated: '2026-05-18'
 
 ## 相关研究
 
-> [!example] [[Observational and Correlational Research|相关研究]]
+> [!example] 相关研究
 > - [[Argument_Biesta_2010_SPE]] — 将交易认识论应用于批判[[Evidence-Based Education|证据本位教育]]的知识论前提
 > - Biesta & Burbules (2003) — 全面阐述交易认识论对教育研究的意义
 

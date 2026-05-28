@@ -8,13 +8,13 @@ extracted_to:
   - "[[Scientism]]"
   - "[[Examination-Oriented Education]]"
   - "[[Quality Education]]"
+  - "[[Scientific Attitude]]"
   - "[[May Fourth Movement]]"
   - "[[Confucius]]"
   - "[[Hu Shi]]"
   - "[[Jiang Menglin]]"
   - "[[Tao Xingzhi]]"
   - "[[John Dewey]]"
-  - "[[Scientific Attitude]]"
 processed_date: 2026-05-26
 ---
 

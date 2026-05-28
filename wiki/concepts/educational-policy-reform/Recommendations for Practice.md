@@ -10,15 +10,14 @@ tags:
 - evidence-based-education
 - causal-inference
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Method and Multi-method Research]]"
+  - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts: []
@@ -34,7 +33,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 实践建议（Recommendations for Practice, RFP）是研究论文中将研究发现[[Transfer Translation Transformation|转化]]为教育实践行动的规范性陈述。Brady et al. (2023) 沿用 Reinhart et al. (2013) 的编码标准：如果论文暗示或明确说明"若采用/避免、增加/减少实践 X，则教师或学生结果 Y 会改善"，即被编码为 RFP（Brady et al., 2023, p.4）。
+> 实践建议（Recommendations for Practice, RFP）是研究论文中将研究发现转化为教育实践行动的规范性陈述。Brady et al. (2023) 沿用 Reinhart et al. (2013) 的编码标准：如果论文暗示或明确说明"若采用/避免、增加/减少实践 X，则教师或学生结果 Y 会改善"，即被编码为 RFP（Brady et al., 2023, p.4）。
 >
 > > "if Practice X is adopted/avoided or increased/decreased, then teacher or student Outcome Y will improve"（Reinhart et al., 2013, p.244, cited in Brady et al., 2023, p.4）
 
@@ -42,13 +41,13 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - **1994** — 既有趋势研究显示，约 30% 的相关性文章包含实践建议，说明[[Non-intervention Research|非干预研究]]中的 RFP 并非新现象，而是长期存在的出版实践（Brady et al., 2023, p.3）。
-> - **2010** — 相关性文章包含实践建议的比例上升至 46%，与教育心理学期刊中[[Intervention Research|干预研究]]下降、[[Observational and Correlational Research|相关研究]]上升的趋势同步出现（Brady et al., 2023, p.3）。
+> - **2010** — 相关性文章包含实践建议的比例上升至 46%，与教育心理学期刊中[[Intervention Research|干预研究]]下降、相关研究上升的趋势同步出现（Brady et al., 2023, p.3）。
 > - **2020** — Brady et al. (2023) 发现，观察/相关研究中 66% 包含 RFP；[[Qualitative Research|质性研究]]中 65%、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]中 60% 包含 RFP。综合来看，2020 年约三分之二的[[Non-intervention Research|非干预研究]]文章包含 RFP（Brady et al., 2023, pp.6-7）。
 
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **行动导向**：RFP 不只是解释发现，而是把发现[[Transfer Translation Transformation|转化]]为教师、学校或政策制定者应采取的行动建议（Brady et al., 2023, p.4）。
+> - **行动导向**：RFP 不只是解释发现，而是把发现转化为教师、学校或政策制定者应采取的行动建议（Brady et al., 2023, p.4）。
 > - **因果含义**：即使措辞较弱，RFP 通常仍暗含"改变实践会改善结果"的因果结构；这使其证据要求高于单纯描述性结论（Brady et al., 2023, pp.3-4）。
 > - **范围与强度差异**：Brady et al. (2023) 在编码中观察到，一些 RFP 紧贴研究样本，另一些则泛化到更广人群；一些使用 "may" 或 "might" 等弱化词，但强而广泛的 RFP 在[[Non-intervention Research|非干预研究]]中尤其值得警惕（Brady et al., 2023, p.9）。
 
@@ -76,7 +75,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - Brady et al. (2023) 审查 2020 年五本教育心理学经验期刊中的 255 篇经验文章，发现[[Non-intervention Research|非干预研究]]仍约占全部研究的四分之三，且其中约三分之二包含 RFP（Brady et al., 2023, pp.4, 7）。
-> - 在[[Observational and Correlational Research|观察/相关研究]]中，包含 RFP 的比例从 2000 年的 41%、2010 年的 46% 上升到 2020 年的 66%，显示非[[Intervention Research|干预研究]]中实践建议的增长趋势仍在继续（Brady et al., 2023, pp.6-7）。
+> - 在观察/相关研究中，包含 RFP 的比例从 2000 年的 41%、2010 年的 46% 上升到 2020 年的 66%，显示非[[Intervention Research|干预研究]]中实践建议的增长趋势仍在继续（Brady et al., 2023, pp.6-7）。
 > - 作者在限制性讨论中指出，有些论文在讨论部分给出明确 RFP，却在局限性部分承认方法不能支持因果结论、未来需要实验研究；这种错配显示出版过程可能鼓励作者在证据边界之外提供实践建议（Brady et al., 2023, p.9）。
 
 ## 争议与批评
@@ -90,7 +89,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Evidence-Based Education]] — RFP 是证据到实践[[Transfer Translation Transformation|转化]]链条中的论文写作环节，反映"研究应指导实践"的期望及其方法论风险。
+> - [[Evidence-Based Education]] — RFP 是证据到实践转化链条中的论文写作环节，反映"研究应指导实践"的期望及其方法论风险。
 
 ## 来源
 

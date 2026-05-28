@@ -19,7 +19,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[Innovation Ecosystem]]"
   - "[[Theories of Policy Change]]"
   - "[[Network Governance]]"
   - "[[Doxa]]"
@@ -75,12 +75,12 @@ updated: '2026-05-18'
 
 ### 核心治理机制
 
-Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通过区域层面的指标体系（如区域创新记分牌和 NUTS2 教育指标）将复杂的政策目标[[Transfer Translation Transformation|转化]]为可比较、可排名的量化数据。Rambla（2022）的分析指出，这一治理机制的运作依赖于一个嵌入指标体系中的 [[Theories of Policy Change]]——即"创新生态体系"与"教育培训体系"协同演化→产生增效→实现智能、可持续与包容性增长（p.170–172）。
+Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通过区域层面的指标体系（如区域创新记分牌和 NUTS2 教育指标）将复杂的政策目标转化为可比较、可排名的量化数据。Rambla（2022）的分析指出，这一治理机制的运作依赖于一个嵌入指标体系中的 [[Theories of Policy Change]]——即"创新生态体系"与"教育培训体系"协同演化→产生增效→实现智能、可持续与包容性增长（p.170–172）。
 
 ## 时间线
 
 > [!note]-
-> - 2001 年：里斯本议程启动，首次尝试将创新和教育原则[[Transfer Translation Transformation|转化]]为可操作的十年目标（Rambla, 2022, p.169）
+> - 2001 年：里斯本议程启动，首次尝试将创新和教育原则转化为可操作的十年目标（Rambla, 2022, p.169）
 > - 2010 年：欧盟委员会发布《EUROPE 2020: 智能、可持续与包容性增长战略》通讯文件（European Commission, 2010）
 > - 2011 年：欧盟理事会发布关于减少早期辍学的建议书（European Council, 2011a）和关于成人教育更新的决议（European Council, 2011b）
 > - 2013 年：欧盟理事会发布 [[Youth Guarantee Scheme]] 建议书（European Council, 2013）

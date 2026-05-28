@@ -5,11 +5,11 @@ extracted_to:
   - "[[Class Size]]"
   - "[[Whole Language]]"
   - "[[Performance Pay]]"
-  - "[[The Scott Report]]"
-  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[The Scott Report]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-03

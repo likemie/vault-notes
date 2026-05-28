@@ -2,16 +2,16 @@
 citation: "Thompson, C., Schröder, S., & Wrana, D. (2022). Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 217–230). Springer."
 extracted_to:
   - "[[Argument_Thompson_2022_Promising_Student]]"
+  - "[[Digital Optimum]]"
   - "[[Digital Self]]"
+  - "[[Learning Analytics]]"
   - "[[Competitiveness in Higher Education]]"
   - "[[Online Self-Assessment]]"
+  - "[[Preemptive Governance]]"
   - "[[Promising Student]]"
   - "[[Stakeholder University]]"
   - "[[Governmentality]]"
   - "[[Societies of Control]]"
-  - "[[Digital Optimum]]"
-  - "[[Learning Analytics]]"
-  - "[[Preemptive Governance]]"
 processed_date: 2026-05-20
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

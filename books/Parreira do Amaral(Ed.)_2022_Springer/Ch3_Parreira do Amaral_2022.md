@@ -13,10 +13,10 @@ extracted_to:
   - "[[Minerva University]]"
   - "[[Walter Mignolo]]"
   - "[[Marcelo Parreira do Amaral]]"
+  - "[[Jane Knight]]"
   - "[[Christiane Thompson]]"
   - "[[Critical Geopolitics]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
-  - "[[Jane Knight]]"
 processed_date: 2026-05-07
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 ---

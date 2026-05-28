@@ -12,7 +12,6 @@ tags:
 - region/global
 related_concepts:
   - "[[Knowledge-Based Economy]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge-Based Economization]]"
   - "[[National Competitive Advantage]]"
   - "[[Spatial Sortings]]"
@@ -40,7 +39,7 @@ updated: '2026-05-18'
 >
 > Crouch & Le Galès（2012, p.406）的经典描述：
 >
-> > "国家将资源[[Transfer Translation Transformation|转移]]到大规模投资首都城市和城市基础设施，从信息技术到研究、金融平台到交通。如果说有什么限制的话，那就是没有什么能阻止它们发展国家冠军城市或区域。"（cited in Moisio, 2022, pp.28–29）
+> > "国家将资源转移到大规模投资首都城市和城市基础设施，从信息技术到研究、金融平台到交通。如果说有什么限制的话，那就是没有什么能阻止它们发展国家冠军城市或区域。"（cited in Moisio, 2022, pp.28–29）
 >
 > Moisio（2022）将经济爱国主义定位为[[Knowledge-Based Economization|知识经济化]]中国家的核心行为逻辑——它不是传统军事或领土爱国主义，而是一种通过"爱国"话语来合法化空间选择性投资的经济治理策略。
 >

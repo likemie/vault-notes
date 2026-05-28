@@ -13,7 +13,6 @@ tags:
   - discipline/literature
 related_concepts:
   - "[[Pragmatism in China]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Scientism]]"
 related_theories: []
 related_methods: []
@@ -53,7 +52,7 @@ updated: 2026-05-26
 
 > [!abstract] 核心思想
 
-胡适将[[John Dewey|杜威]]的[[Pragmatism in China|实用主义]]哲学[[Transfer Translation Transformation|转化]]为中国语境下的思想武器，其核心立场集中体现在三个方面：
+胡适将[[John Dewey|杜威]]的[[Pragmatism in China|实用主义]]哲学转化为中国语境下的思想武器，其核心立场集中体现在三个方面：
 
 **实用主义作为方法论的极端化**。胡适将杜威的主张"实用主义必须主要被视为一种方法"转变为"杜威从头到尾只把实用主义当作一种方法"（Tan 2004, pp.51–52，引自 Schulte, 2009, p.72）。通过这一极端化，他消解了实用主义内部可能容纳温和改革的空间，将科学方法等同于唯一的真理途径。
 

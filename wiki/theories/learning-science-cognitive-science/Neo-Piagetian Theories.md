@@ -16,8 +16,7 @@ related_concepts:
   - "[[Prefrontal Cortex]]"
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons:
   - "[[Jean Piaget]]"
   - "[[John Hattie]]"
@@ -81,7 +80,7 @@ updated: '2026-05-18'
 
 ## 相关研究
 
-> [!example] [[Observational and Correlational Research|相关研究]]
+> [!example] 相关研究
 > - [[Argument_Bolton_2017_ArchPsych]] — 论证新[[Jean Piaget|皮亚杰]]阶段过渡可被 [[Prefrontal Cortex|PFC]] 发育和 [[Executive Function|EF]] 发展解释
 
 ## 来源

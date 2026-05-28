@@ -14,7 +14,6 @@ tags:
   - policy/essa
   - method/formative-evaluation
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
   - "[[Absorptive Capacity]]"
   - "[[Technology Infusion]]"
@@ -54,7 +53,7 @@ updated: 2026-05-23
 ## 研究问题
 
 > [!info] 研究问题
-> 教育项目的研究证据为什么难以直接[[Transfer Translation Transformation|转化]]为学校和学区的采购、实施与延续决策？问题不只在于证据是否严格，还在于实践者需要的是关于实施成本、使用体验、地方适配和多重教育目标的证据，而现有证据标准常把有效性压缩为严格实验中的统计显著成就效果（Ross & Morrison, 2021, pp.109-112）。
+> 教育项目的研究证据为什么难以直接转化为学校和学区的采购、实施与延续决策？问题不只在于证据是否严格，还在于实践者需要的是关于实施成本、使用体验、地方适配和多重教育目标的证据，而现有证据标准常把有效性压缩为严格实验中的统计显著成就效果（Ross & Morrison, 2021, pp.109-112）。
 
 ## 理论框架
 

@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Tracking]]"
   - "[[Performance Indicators]]"
+  - "[[Innovation Ecosystem]]"
   - "[[Spatial Sortings]]"
   - "[[Neocorporatism]]"
   - "[[Scientization of Politics]]"

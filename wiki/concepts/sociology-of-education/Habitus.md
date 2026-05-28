@@ -12,9 +12,9 @@ tags:
   - paradigm/critical
   - region/france
 related_concepts:
+  - "[[Transfer Translation Transformation]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Champ]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[The Shock of the Elite]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Self-Authorship]]"
@@ -59,7 +59,7 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 
 > [!example]
 > - vs **理性选择** — 习性产生的实践"能够客观地'得到调节'并'合乎规则'，而并非有意识地目的性活动"（[[Yajun Zheng|郑雅君]]，2023，引 [[Pierre Bourdieu|Bourdieu]], 1990）。它不是成本收益计算的结果
-> - vs **结构决定** — 习性在既定倾向范围内保留了行动者的创造性和能动性空间，而非机械地决定行动。文化图式"可迁移和可推广"，行动者对文化的运用是创造性的（郑雅君，2023，引 Sewell, 1992）
+> - vs **结构决定** — 习性在既定倾向范围内保留了行动者的创造性和能动性空间，而非机械地决定行动。文化图式"可[[Transfer Translation Transformation|迁移]]和可推广"，行动者对文化的运用是创造性的（郑雅君，2023，引 Sewell, 1992）
 > - vs **习惯（habit）** — 习惯是机械重复的固定模式；习性是具有生成能力的倾向系统，可以在不同情境中产生不同的适应性实践
 
 ---
@@ -82,7 +82,7 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 > [!abstract]
 
 - **具身性**：习性铭刻在身体之中，表现为不经深思熟虑即可自然调用的感知、判断和行动倾向。用[[Yajun Zheng|郑雅君]]（2023）的话说，阶层条件"铭刻进了阶层成员各自的身体，化作了他们日用而不知的'上大学'的独特实践"
-- **生成性**：习性不是固定不变的程序，而是能够在不同社会情境中生成适应性策略的"生成语法"。Sewell（1992）指出文化图式是可迁移（transposable）和可推广的（generalizable）（郑雅君，2023，引 Sewell, 1992）
+- **生成性**：习性不是固定不变的程序，而是能够在不同社会情境中生成适应性策略的"生成语法"。Sewell（1992）指出文化图式是可[[Transfer Translation Transformation|迁移]]（transposable）和可推广的（generalizable）（郑雅君，2023，引 Sewell, 1992）
 - **阶层特异性**：不同社会阶层成员因成长环境中可及的经验类型不同，内化形成不同的习性结构。这使得"特定文化工具的可及性和掌握熟练程度总是依习性结构的不同而有着系统性的差异"（郑雅君，2023）
 - **前反思性**：习性运作于意识反思之下——行动者通常不意识到自己的行为受习性引导，这正是其强大之处。正如郑雅君（2023）所示，[[Intuition-Dependent Mode|直觉依赖模式]]下的学生并非有意选择被动，而是习性使他们"浑然不觉"地按特定方式行事
 
@@ -91,7 +91,7 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 ## 理论基础
 
 > [!tip]
-> - wiki-[[Pierre Bourdieu]] — 习性是布迪厄实践理论的枢纽概念，连接[[Champ|场域]]（外部结构）和资本（争夺对象），使宏观社会结构与微观个体行动之间的双向[[Transfer Translation Transformation|转化]]成为可能
+> - wiki-[[Pierre Bourdieu]] — 习性是布迪厄实践理论的枢纽概念，连接[[Champ|场域]]（外部结构）和资本（争夺对象），使宏观社会结构与微观个体行动之间的双向转化成为可能
 
 ---
 

@@ -10,7 +10,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Champ]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Visible Learning]]"
   - "[[Cult of the Guru]]"
 related_theories: []
@@ -47,7 +46,7 @@ updated: '2026-05-18'
 >
 > Grace 指出，如果学术人选择了"critic and conscience of society"的角色，就无法合理地说出 [[John Hattie|Hattie]] 曾经说过的话："许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这'不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道'"（Hattie, 2009, pp.viii–xi，引自 Grace, 2010, p.90–91）。
 >
-> 这种"还原主义和天真的观点"——认为仅靠改变教育安排就能解决现有的教育成就不平等——对政治家和政策制定者来说非常方便，因为它[[Transfer Translation Transformation|转移]]了对更根本的社会和经济不平等问题的关注（Grace, 2010, p.91）。
+> 这种"还原主义和天真的观点"——认为仅靠改变教育安排就能解决现有的教育成就不平等——对政治家和政策制定者来说非常方便，因为它转移了对更根本的社会和经济不平等问题的关注（Grace, 2010, p.91）。
 
 ## 典范案例
 

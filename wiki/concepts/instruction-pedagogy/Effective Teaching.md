@@ -18,7 +18,6 @@ related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Jill Mehlbye]]"
@@ -129,7 +128,7 @@ Laursen 的结论是，Hattie、Meyer 和 Helmke 关于有效教学的综合"总
 
 ## 相关研究与案例
 
-> [!example] [[Observational and Correlational Research|相关研究]]与案例
+> [!example] 相关研究与案例
 > - [[Argument_Laursen_2015_Paideia]] — 比较 [[John Hattie|Hattie]]、Meyer、Helmke 国际综合与丹麦研究，论证有效教学核心质量在丹麦总体适用。
 > - [[SFI Report]] — 检验国际有效教学综合丹麦适用性的主要本土证据。
 > - [[Jill Mehlbye]] — 通过丹麦高绩效学校研究，为高要求、学业表现取向、明确[[Classroom Management|课堂管理]]和测试实践提供补充证据。

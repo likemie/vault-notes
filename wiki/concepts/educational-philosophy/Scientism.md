@@ -74,7 +74,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - Johnson & Janzen (2023) 论证 [[John Hattie|Hattie]] 的 [[Visible Learning]] 是教育领域科学主义的典型案例：以庞大的数据库、图表、参考书目营造科学外观，但方法论不透明、不可验证，却宣称找到了教育的"圣杯"（Johnson & Janzen, 2023, p.34-35）
-> - Phillips (2014) 指出物理科学方法无法[[Transfer Translation Transformation|转移]]到多元变量的教室环境：物理实验室可控制变量，但教室中的变量"不是麻烦而是具有重大人类和教育意义的因素——控制它们会消除所有生态效度"（Johnson & Janzen, 2023, p.35）
+> - Phillips (2014) 指出物理科学方法无法转移到多元变量的教室环境：物理实验室可控制变量，但教室中的变量"不是麻烦而是具有重大人类和教育意义的因素——控制它们会消除所有生态效度"（Johnson & Janzen, 2023, p.35）
 
 ## 争议与批评
 

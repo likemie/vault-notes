@@ -23,7 +23,6 @@ related_concepts:
   - "[[One Country, Two Systems]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sinicisation]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
   - "[[World Society Theory]]"
@@ -166,7 +165,7 @@ updated: 2026-05-18
 >
 > ### 未充分探讨教师能动性
 >
-> **批评内容**：论文将 LS 的分析聚焦于政策制定者和政治力量的博弈，教师群体仅在"内部利益相关者"框架下被短暂提及（教协在创立阶段的参与、在废除阶段的被关闭）。教师在 LS 实施中的实际教学实践——他们如何解读和[[Transfer Translation Transformation|转化]]官方课程？是否在课堂中进行了"隐性抵抗"或"创造性调整"？——以及废除后的适应策略，未被纳入分析。
+> **批评内容**：论文将 LS 的分析聚焦于政策制定者和政治力量的博弈，教师群体仅在"内部利益相关者"框架下被短暂提及（教协在创立阶段的参与、在废除阶段的被关闭）。教师在 LS 实施中的实际教学实践——他们如何解读和转化官方课程？是否在课堂中进行了"隐性抵抗"或"创造性调整"？——以及废除后的适应策略，未被纳入分析。
 >
 > **重要性**：
 > - Ball et al. (2012) 的"政策制定"（policy enactment）框架指出，教师在政策实施中不是被动的执行者，而是积极的解释者和转化者

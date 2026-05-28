@@ -17,6 +17,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Formative Assessment]]"
   - "[[Statistical Significance]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
@@ -56,7 +57,7 @@ updated: '2026-05-23'
 
 ### 理想条件与普通条件
 
-严格研究既可能是 efficacy trials，即在理想条件下测试项目潜力，也可能是 effectiveness trials，即在普通实施条件下测试效果。若证据审查不清楚区分这两类条件，实践者很难判断研究效果能否迁移到本地学校（Ross & Morrison, 2021, p.112）。
+严格研究既可能是 efficacy trials，即在理想条件下测试项目潜力，也可能是 effectiveness trials，即在普通实施条件下测试效果。若证据审查不清楚区分这两类条件，实践者很难判断研究效果能否[[Transfer Translation Transformation|迁移]]到本地学校（Ross & Morrison, 2021, p.112）。
 
 ### 使用强度与补充项目
 

@@ -18,7 +18,6 @@ related_concepts:
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -81,7 +80,7 @@ issuing_organization: ""
 >
 > 这一主题是全文的枢纽：Ball 不是要判定哪一种教育社会学更正确，而是要追问每一种教育社会学如何生产自己的可见性、对象和政策后果。
 >
-> ### 主题三：三个历史片段展示研究目光如何[[Transfer Translation Transformation|转移]]
+> ### 主题三：三个历史片段展示研究目光如何转移
 >
 > 7. 1930-1960 年代的 [[Political Arithmetic]] 将教育机会、家庭、阶级和人口能力连接起来。它在反优生学和福利国家改良主义之间形成，使教育扩张、离校年龄、补偿教育和“人才浪费”成为政策可处理的问题（Ball, 2008, pp.654-656）。
 >

@@ -19,8 +19,8 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Reusability Paradox]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Class Size]]"
 related_theories: []
 related_methods:
@@ -100,7 +100,7 @@ updated: 2026-05-23
 8. 文章用 Wiley 的 [[Reusability Paradox|可重用性悖论]] 解释这一点：项目越为特定情境精细设计，越难跨情境复用；项目越追求普遍可用，就越可能不能充分满足任何一个具体情境的需要（Pellegrini & Vivanet, 2021, p.36）。
 9. 欧洲内部有 43 个教育系统，且组织模式、语言、课程和教学大纲不同；欧盟还有 24 种官方语言，因此英语项目和英国／美国证据数据库很难直接服务非英语国家（Pellegrini & Vivanet, 2021, p.36）。
 
-例子：一个英国阅读干预项目即使在英国小学中有效，进入意大利或芬兰学校时仍要重新面对课程目标、语言材料、教师培训和本地评价标准问题。文章的意思不是证据无用，而是证据要[[Transfer Translation Transformation|转化]]为本地设计的参照，而不能机械复制（Pellegrini & Vivanet, 2021, pp.35-36）。
+例子：一个英国阅读干预项目即使在英国小学中有效，进入意大利或芬兰学校时仍要重新面对课程目标、语言材料、教师培训和本地评价标准问题。文章的意思不是证据无用，而是证据要转化为本地设计的参照，而不能机械复制（Pellegrini & Vivanet, 2021, pp.35-36）。
 
 ### 第四步：经费问题不是总量不足，而是分配和目标需要重排
 
@@ -119,7 +119,7 @@ updated: 2026-05-23
 > 1. 欧盟从 2006 年起逐步把证据使用纳入教育和培训政策话语，并通过 2007 年工作文件、2009 年 ET 2020、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 和 Eurydice 报告持续推动证据文化（Pellegrini & Vivanet, 2021, pp.28-31）。
 > 2. 欧洲的政策语言更偏向 evidence-informed 而非 evidence-based，这意味着证据来源更宽，政策文件更倾向指导成员国而非规定统一行动线（Pellegrini & Vivanet, 2021, p.26）。
 > 3. 英国在欧洲证据政策基础设施中处于前沿位置，[[EPPI-Centre]]、EEF、SSIF 和 TLIF 等机制体现了研究生成、知识中介和政策资助之间的连接（Pellegrini & Vivanet, 2021, pp.31-33）。
-> 4. 欧洲证据使用面临外部效度和可迁移性难题，尤其受 43 个教育系统、24 种官方语言和各国课程标准差异影响（Pellegrini & Vivanet, 2021, p.36）。
+> 4. 欧洲证据使用面临外部效度和可[[Transfer Translation Transformation|迁移]]性难题，尤其受 43 个教育系统、24 种官方语言和各国课程标准差异影响（Pellegrini & Vivanet, 2021, p.36）。
 > 5. 欧洲教育支出总体接近 OECD 和美国平均水平，关键不是单纯提高总支出，而是面向成员国差异再平衡资源，并把投资导向研究、专业发展和支持工具（Pellegrini & Vivanet, 2021, pp.37-39）。
 > 6. [[21st Century Skills and Competencies Discourse|关键能力]]课程改革使证据本位政策更复杂，因为多维能力的干预设计和效果评估比基础知识技能更难实现（Pellegrini & Vivanet, 2021, pp.39-41）。
 

@@ -5,12 +5,12 @@ extracted_to:
   - "[[Global Regionalisms in Higher Education]]"
   - "[[Regulatory Regionalism]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge-Based Economization]]"
   - "[[Horizon 2020 SSH Integration]]"
   - "[[Horizon Europe Missions]]"
   - "[[Minerva University]]"
   - "[[Marcelo Parreira do Amaral]]"
   - "[[Christiane Thompson]]"
-  - "[[Knowledge-Based Economization]]"
 processed_date: 2026-05-07
 ---
 

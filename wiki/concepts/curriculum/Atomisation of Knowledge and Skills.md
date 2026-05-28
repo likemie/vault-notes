@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Performance Indicators]]"
   - "[[Phenomenon-Based Learning]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Performativity of Measurement]]"
   - "[[Complexity Reduction]]"
   - "[[Epochal Key Problems]]"
@@ -55,7 +54,7 @@ updated: '2026-05-18'
 > - **可测量性优先**：教育讨论中只有能被测量、评估和比较的单位、过程和结果更容易被视为政策相关（Schaffar & Wolff, 2024, p.10）。
 > - **知识被拆成项目**：知识被理解为小块事实或技能，可按个人或制度目的像拼图一样组合，而不是作为有内在理论结构的学科整体（Schaffar & Wolff, 2024, p.10）。
 > - **学生与教师被工具化**：标准化学习结果和问责要求为学生、教师、学校和政策发展提供严格框架，要求他们适应预设指标，而不是共同探究自身和共同体未来所需的知识（Schaffar & Wolff, 2024, p.9）。
-> - **共同学习被竞争替代**：原本面向共同责任和社区未来的教育，可能被[[Transfer Translation Transformation|转化]]为个体之间、学校之间和国家之间的竞争（Schaffar & Wolff, 2024, p.10）。
+> - **共同学习被竞争替代**：原本面向共同责任和社区未来的教育，可能被转化为个体之间、学校之间和国家之间的竞争（Schaffar & Wolff, 2024, p.10）。
 
 ## 与相关概念的区别
 

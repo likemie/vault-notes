@@ -3,7 +3,7 @@ title: Observational and Correlational Research
 aliases:
   - 观察研究
   - 相关性研究
-summary: 不操纵自变量而以量化资料分析变量关系、模式和相关性的非干预研究设计，适合描述分布并探索潜在关联
+summary: "不操纵自变量而以量化资料分析变量关系、模式和相关性的非干预研究设计，适合描述分布并探索潜在关联"
 type: method
 method_type: quantitative
 tags:
@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Evidence-Based Education]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Classroom Learning Culture]]"
   - "[[Learning-Impeding Behavior]]"
@@ -75,7 +74,7 @@ updated: 2026-05-18
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Evidence-Based Education]] — 观察/相关研究可为证据链的早期阶段提供变量关系线索，但在 EBE 语境中，其结果常被要求[[Transfer Translation Transformation|转化]]为[[Recommendations for Practice|实践建议]]，因而产生因果推论边界问题。
+> - [[Evidence-Based Education]] — 观察/相关研究可为证据链的早期阶段提供变量关系线索，但在 EBE 语境中，其结果常被要求转化为[[Recommendations for Practice|实践建议]]，因而产生因果推论边界问题。
 
 ## 与相关方法的区别
 

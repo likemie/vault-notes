@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Ideal Learner]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Refined Mastery]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Familiarization]]"
@@ -29,7 +28,6 @@ related_concepts:
   - "[[Cognitive Source]]"
   - "[[Rote Learning]]"
 related_theories:
-  - "[[Neo-Confucianism]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Prototype Methods]]"
@@ -76,7 +74,7 @@ updated: 2026-05-23
 ### 2. 勤奋／发奋（Diligence / Self-Exertion — qínfèn / fāfèn）
 
 > [!info] 文本传统
-> 在做出真诚承诺之后，将承诺[[Transfer Translation Transformation|转化]]为持续的学习行动。勤奋要求学习者"在学习上花费大量时间"，这被认为能"增加熟悉度，从而开启[[Refined Mastery|精通]]的机会"（Li, 2012, pp.49-50）。
+> 在做出真诚承诺之后，将承诺转化为持续的学习行动。勤奋要求学习者"在学习上花费大量时间"，这被认为能"增加熟悉度，从而开启[[Refined Mastery|精通]]的机会"（Li, 2012, pp.49-50）。
 
 > [!success] 实证发现
 > 在实证研究中，勤奋（qinfen）指做出明确决心之后的**频繁学习行为**——因此意味着大量时间投入。一个独特的实证细节：学习者常在做出决心后与家人、密友或教师**分享学习目标**，这些"见证人"（witnesses）负责监督决心与后续行动的一致性（Li, 2012, pp.91-92）。这显示了勤奋不仅是个体内在品质，还是**社会嵌入的行为**——与 [[Take the World Upon Oneself|以天下为己任]] 中"学习者的社会角色"一脉相承。
@@ -212,7 +210,7 @@ updated: 2026-05-23
 > **学习美德 vs 西方的"学习动机"**：Li 强调这些品质被称为"美德"（而非 skills 或 motivations），是因为它们在中国文化中承载了道德含义——它们不只是心理品质，更是道德品质。在此意义上，学习美德不仅服务于 [[Self-Cultivation|修身]]，它们本身就是修身的具体内容（Li, 2012, p.52）。
 
 > [!example]
-> **学习美德 vs [[Heart and Mind for Wanting to Learn|好學心]]**：两者密切相关但处于不同层级。好學心是**动力源**（"想学"的欲望本身），学习美德是**动力机制**（"怎么学"的品质）。好學心集群的概念地图结构直接反映了这层关系：五美德的四重奏、[[Humility in Learning|谦虚]]和渴望都是好學心的**子维度**——没有好學心，这些美德无法持续；没有这些美德，好學心无法[[Transfer Translation Transformation|转化]]为实际学习（Li, 2012, pp.94, 97）。
+> **学习美德 vs [[Heart and Mind for Wanting to Learn|好學心]]**：两者密切相关但处于不同层级。好學心是**动力源**（"想学"的欲望本身），学习美德是**动力机制**（"怎么学"的品质）。好學心集群的概念地图结构直接反映了这层关系：五美德的四重奏、[[Humility in Learning|谦虚]]和渴望都是好學心的**子维度**——没有好學心，这些美德无法持续；没有这些美德，好學心无法转化为实际学习（Li, 2012, pp.94, 97）。
 
 ---
 

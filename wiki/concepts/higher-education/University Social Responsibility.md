@@ -12,7 +12,8 @@ tags:
 related_concepts:
   - "[[Organizational Actorhood]]"
   - "[[Knowledge Production]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[Third Mission (Universities)]]"
+  - "[[Technology Transfer]]"
   - "[[Global Citizenship]]"
   - "[[Otherhood]]"
 related_theories:
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs 企业社会责任（[[Comprehensive School Reform Program|CSR]]） — CSR 长期仅在营利部门讨论，关注企业对股东、员工、社区和环境的责任；USR 将这一概念延伸至高等教育机构，但大学的"社会责任"有本质区别：企业的首要责任是对股东的经济回报，而大学作为公共知识机构，其社会责任内嵌于其核心使命——[[Knowledge Production|知识生产]]、人才培养和社会批判——之中，不是附加的"慈善"活动（Zapp, 2022, pp.152–153）
-> - vs 第三使命（third mission） — "第三使命"通常指大学在教学和研究之外的产业联系、[[Technology Transfer|技术转移]]和经济贡献；USR 涵盖更广的非经济维度——就业公平、校园可持续性、[[Global Citizenship|全球公民]]意识、对社会不平等的研究和倡导——是 [[Organizational Actorhood]] 中社会嵌入性维度的制度化表达（Zapp, 2022, pp.148–149, 152）
+> - vs [[Third Mission (Universities)|第三使命]]（third mission） — "第三使命"通常指大学在教学和研究之外的产业联系、[[Technology Transfer|技术转移]]和经济贡献；USR 涵盖更广的非经济维度——就业公平、校园可持续性、[[Global Citizenship|全球公民]]意识、对社会不平等的研究和倡导——是 [[Organizational Actorhood]] 中社会嵌入性维度的制度化表达（Zapp, 2022, pp.148–149, 152）
 > - vs [[Otherhood]] — otherhood 是解释"为什么"大学会承担 USR 的理论机制（大学作为"他者代理"的社会过程）；USR 是 otherhood 在大学组织层面的制度化表现（发布 CSR 报告、设立可持续发展办公室、加入 SDG 排名）。两者的关系犹如"动机"与"行为"（Zapp, 2022, pp.149, 152–153）
 
 ---
@@ -64,7 +65,7 @@ updated: '2026-05-18'
 
 ### 制度化加速：SDGs 与排名驱动的量化
 
-- 2019 年 THE 推出基于 [[UN Sustainable Development Goals|SDGs]] 的首个全球大学影响力排名（[[THE Impact Ranking]]），将 USR 的复杂多维实践[[Transfer Translation Transformation|转化]]为可比较的排名指标——性别平等、气候行动、可持续城市和社区等。这一事件标志着 USR 从组织的自愿承诺转向受排名驱动的制度化竞争（Zapp, 2022, p.147）
+- 2019 年 THE 推出基于 [[UN Sustainable Development Goals|SDGs]] 的首个全球大学影响力排名（[[THE Impact Ranking]]），将 USR 的复杂多维实践转化为可比较的排名指标——性别平等、气候行动、可持续城市和社区等。这一事件标志着 USR 从组织的自愿承诺转向受排名驱动的制度化竞争（Zapp, 2022, p.147）
 - 近年来 [[Comprehensive School Reform Program|CSR]] 报告在全球大学中呈指数增长：Corporate Register (2019) 和 GRI (2019) 数据库共收录全球 200+ 所大学的 CSR 报告，其中大多数在过去 5 年内首次发布（Fig. 9.1）。这种增长曲线与 SDGs 的通过（2015）和 THE 排名（2019）在时间上高度吻合，暗示全球议程和排名机制对 USR 制度化的催化作用（Zapp, 2022, pp.152–153）
 
 ---
@@ -91,7 +92,7 @@ updated: '2026-05-18'
 > [!success]
 > - Corporate Register (2019) 和 Global Reporting Initiative (2019) 的可持续发展披露数据库共列出全球 200+ 所大学的 [[Comprehensive School Reform Program|CSR]] 报告，涵盖公立和私立、知名和不知名大学，表明 USR 已成为跨越机构类型和声望等级的全球性趋势——不是少数精英大学的特权实践（Zapp, 2022, pp.152–153）
 > - 大多数大学的 CSR 报告在过去 5 年内首次发布（Fig. 9.1），其增长曲线呈指数形态，暗示我们正处于 USR 制度化的"起飞期"——这一加速与 [[UN Sustainable Development Goals|SDGs]]（2015）和 [[THE Impact Ranking]]（2019）的时间节点高度吻合（Zapp, 2022, p.153）
-> - 可持续发展已被部分学者视为大学的一种新型"第三使命"（third mission）甚至"宏大挑战"（grand challenge），超越了传统的教学-研究-产业联系三使命框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013，引自 Zapp, 2022, p.150）
+> - 可持续发展已被部分学者视为大学的一种新型"[[Third Mission (Universities)|第三使命]]"（third mission）甚至"宏大挑战"（grand challenge），超越了传统的教学-研究-产业联系三使命框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013，引自 Zapp, 2022, p.150）
 > - THE 影响力排名中 SDG 17（"促进目标实现的伙伴关系"）是唯一强制报告指标——这暗示即使在竞争驱动的排名逻辑中，"联合行动"也被视为大学不可推卸的责任（Zapp, 2022, p.154）
 
 > [!info]- 核心数据

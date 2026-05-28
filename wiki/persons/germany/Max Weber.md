@@ -3,7 +3,7 @@ title: Max Weber
 aliases:
   - 马克斯·韦伯
   - 韦伯
-summary: 德国社会学家，理解社会学奠基人与新教伦理与资本主义精神作者，为教育研究分析理性化、价值冲突与社会行动提供经典框架。
+summary: "德国社会学家，理解社会学奠基人与新教伦理与资本主义精神作者，为教育研究分析理性化、价值冲突与社会行动提供经典框架。"
 type: person
 nationality: germany
 tags:
@@ -12,8 +12,8 @@ tags:
   - interpretivism
   - region/germany
 related_concepts:
-  - "[[Champ]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Champ]]"
   - "[[Corporate Education]]"
   - "[[Habitus]]"
 related_theories:
@@ -111,7 +111,7 @@ updated: 2026-05-26
 ### 1892 — *Die Lage der Landarbeiter im ostelbischen Deutschland*
 
 - **APA**：Weber, M. (1892). *Die Lage der Landarbeiter im ostelbischen Deutschland*. Duncker & Humblot.
-- **核心内容**：为社会政策协会所作的大规模经验调查，研究易北河以东农业工人的迁移、阶层结构与民族政治问题。
+- **核心内容**：为社会政策协会所作的大规模经验调查，研究易北河以东农业工人的[[Transfer Translation Transformation|迁移]]、阶层结构与民族政治问题。
 - **思想位置**：这是 Weber 从法学家转向国民经济学和社会政策研究的重要节点。其材料处理已经显示出后来的理想类型、支配关系和资本主义企业家精神等分析线索（Dilcher, 2007; Müller & Sigmund, 2014）。
 - **相关概念／理论**：社会政策、民族国家、农业资本主义、理想类型萌芽。
 
@@ -147,7 +147,7 @@ updated: 2026-05-26
 
 - **APA**：Weber, M. (1919). *Wissenschaft als Beruf*. Duncker & Humblot.（演讲发表于 1917 年）
 - **核心内容**：论述科学作为现代独立价值领域的意义，以及学术职业所要求的专业化、内在召唤、清醒和制度承受能力。
-- **思想位置**：这篇演讲把“世界的祛魅”[[Transfer Translation Transformation|转化]]为学术生活的伦理问题：科学不能替行动者决定终极价值，只能要求研究者在方法和责任上保持清明。
+- **思想位置**：这篇演讲把“世界的祛魅”转化为学术生活的伦理问题：科学不能替行动者决定终极价值，只能要求研究者在方法和责任上保持清明。
 - **相关概念／理论**：价值领域、祛魅、专业化、学术作为职业。
 
 ### 1919 — *Politik als Beruf*

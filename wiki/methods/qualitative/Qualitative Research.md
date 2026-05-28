@@ -15,9 +15,9 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Non-intervention Research]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Intervention Research]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
@@ -32,7 +32,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 质性研究（Qualitative Research）在 Brady et al. (2023) 的编码中指不操纵自变量、并使用访谈、观察等文本数据的研究。它被归入[[Non-intervention Research|非干预研究]]，与包含量化数据的[[Observational and Correlational Research|观察/相关研究]]相区分（Brady et al., 2023, p.4）。
+> 质性研究（Qualitative Research）在 Brady et al. (2023) 的编码中指不操纵自变量、并使用访谈、观察等文本数据的研究。它被归入[[Non-intervention Research|非干预研究]]，与包含量化数据的观察/相关研究相区分（Brady et al., 2023, p.4）。
 
 ## 认识论立场
 

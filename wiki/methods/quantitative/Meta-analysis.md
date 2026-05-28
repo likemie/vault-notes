@@ -17,7 +17,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Publication Bias]]"
   - "[[Whole Language]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Feedback]]"
   - "[[Statistical Significance]]"
   - "[[Class Size]]"
@@ -67,7 +66,7 @@ updated: '2026-05-21'
 ## 操作步骤
 
 > [!example] 操作步骤
-> 1. **选择源研究**：基于技术标准（如是否为 [[Randomised Controlled Trials|RCT]]）筛选[[Observational and Correlational Research|相关研究]]
+> 1. **选择源研究**：基于技术标准（如是否为 [[Randomised Controlled Trials|RCT]]）筛选相关研究
 > 2. **提取[[Effect Size|效应量]]**：从每项源研究中提取或计算标准化效应量
 > 3. **加权与平均**：对效应量进行加权（通常按样本量），计算平均效应量
 > 4. **报告**：以平均效应量（有时转换为更直观的单位，如 EEF Toolkit 的"额外学习月数"）呈现结果
@@ -110,7 +109,7 @@ updated: '2026-05-21'
 >
 > 根本不同的研究（不同学生年龄、课程领域、先前成就水平、干预时长、结果测量类型）被聚合产生单一的平均效应量。Gene Glass——元分析的创始人——本人警告："元分析的结果永远不应该是平均值；它应该是一张图"（Robinson, 2004, p. 29, cited in Wrigley & McCusker, 2019, p. 119）。
 >
-> Hattie (2015) 对这一问题的回应不是否认异质性，而是要求把异质性[[Transfer Translation Transformation|转化]]为研究问题：平均效应必须继续追问 moderator（调节变量）。例如 [[Feedback]] 的平均效应很强，但 Hattie 自己也承认反馈类型、反馈方向和学生接收方式会使效果差异很大，不能用“反馈有效”替代对具体机制的判断（Hattie, 2015, p.11）。
+> Hattie (2015) 对这一问题的回应不是否认异质性，而是要求把异质性转化为研究问题：平均效应必须继续追问 moderator（调节变量）。例如 [[Feedback]] 的平均效应很强，但 Hattie 自己也承认反馈类型、反馈方向和学生接收方式会使效果差异很大，不能用“反馈有效”替代对具体机制的判断（Hattie, 2015, p.11）。
 >
 > **源研究选择的纯技术标准**
 >

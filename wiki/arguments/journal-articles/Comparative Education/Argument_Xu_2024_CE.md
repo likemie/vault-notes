@@ -21,7 +21,6 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Official Knowledge]]"
   - "[[Sinicisation]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[One Country, Two Systems]]"
 related_theories: []
 related_methods: []
@@ -192,7 +191,7 @@ updated: 2026-05-26
 >
 > **篇幅落差——文天祥案例**（pp.584）：
 > - 香港教科书用四整页（含地图）详述四位汉人忠臣——张世杰、陆秀夫、文天祥、吕文焕——如何抵抗蒙古入侵（Hong Kong-2, 116–119）。
-> - 大陆教科书用**一句话**提及文天祥和吕文焕"抗击蒙古军队"（mainland China-2, 49），并将这段历史放在"元朝建立"而非"南宋灭亡"的段落中——把叙事焦点从"汉人失去了什么"[[Transfer Translation Transformation|转移]]到"蒙古人统一了什么"。
+> - 大陆教科书用**一句话**提及文天祥和吕文焕"抗击蒙古军队"（mainland China-2, 49），并将这段历史放在"元朝建立"而非"南宋灭亡"的段落中——把叙事焦点从"汉人失去了什么"转移到"蒙古人统一了什么"。
 >
 > > 这里有一个讽刺：中共自 1950 年代以来一直承认和宣传文天祥是"民族英雄"。但在大陆教科书中，这位"民族英雄"的抗争故事被压缩为一句话——因为详细的抗争叙事会强化"汉 vs 非汉"的对立，削弱"统一多民族国家"的叙事。
 >

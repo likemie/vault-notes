@@ -1,5 +1,5 @@
 ---
-title: University Corporate Engagement Professional (UCEP)
+title: University Corporate Engagement Professional
 aliases:
   - "大学企业参与专员"
   - "大学企业关系专员"
@@ -30,7 +30,7 @@ created: 2026-05-27
 updated: 2026-05-27
 ---
 
-# University Corporate Engagement Professional (UCEP)
+# University Corporate Engagement Professional
 
 <!-- CONTENT_START -->
 

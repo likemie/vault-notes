@@ -2,7 +2,7 @@
 title: Feedback
 aliases:
   - 教学反馈
-summary: 围绕表现、理解与下一步行动提供的信息回路，既可帮助学生修正学习，也可让教师判断自己的教学是否真正产生了影响。
+summary: "围绕表现、理解与下一步行动提供的信息回路，既可帮助学生修正学习，也可让教师判断自己的教学是否真正产生了影响。"
 type: concept
 tags:
   - feedback
@@ -17,7 +17,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Classroom Management]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -110,7 +109,7 @@ updated: 2026-05-22
 > [!warning] 争议与批评
 > - 概念混淆：Nielsen & Klitmøller（2021）指出，[[John Hattie|Hattie]] 在“反馈”名下混入了强化、线索、教师即时性和考官辅助等不同现象，削弱了这一概念的统计一致性（Nielsen & Klitmøller, 2021, pp.9-12）。
 > - [[Effect Size|效应量]]被说得过于确定：如果真正与 Hattie 定义一致的核心研究只有 `d=0.38`，而不是汇总后常被引用的高值，那么“反馈是最强学习因素之一”的说法就需要更谨慎地理解（Nielsen & Klitmøller, 2021, pp.9-12）。
-> - 不是所有反馈都有效：Kluger & DeNisi（1996）的结果说明，反馈可能带来负面效果。它若过于模糊、过于延迟、只强调结果，或者只让学生盯住分数，就可能把注意力从理解问题[[Transfer Translation Transformation|转移]]到表现管理（Nielsen & Klitmøller, 2021, pp.9-10）。
+> - 不是所有反馈都有效：Kluger & DeNisi（1996）的结果说明，反馈可能带来负面效果。它若过于模糊、过于延迟、只强调结果，或者只让学生盯住分数，就可能把注意力从理解问题转移到表现管理（Nielsen & Klitmøller, 2021, pp.9-10）。
 > - 行为主义阴影仍然很重：即便 Hattie 试图区分信息反馈与强化，他的反馈论述仍保留了很强的行为调控色彩，这也是为什么 Nielsen & Klitmøller 会质疑其概念边界（Nielsen & Klitmøller, 2021, p.8）。
 
 ## 数字学习工具中的反馈

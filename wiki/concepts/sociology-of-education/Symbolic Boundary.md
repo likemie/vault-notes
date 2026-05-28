@@ -10,7 +10,6 @@ tags:
 - moral-judgment
 - paradigm/interpretivist
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Habitus]]"
@@ -41,7 +40,7 @@ updated: '2026-05-21'
 
 > [!abstract] 核心机制
 > 象征边界的运作包括三个环节：
-> - **差异的道德化**：将群体间的行为或品味差异[[Transfer Translation Transformation|转化]]为道德优劣的判断——"我们淳朴，他们功利"、"我们有文化，他们落后"
+> - **差异的道德化**：将群体间的行为或品味差异转化为道德优劣的判断——"我们淳朴，他们功利"、"我们有文化，他们落后"
 > - **边界的自然化**：使被建构的边界看起来像是"自然存在"的差异，而非人为划分。反复的日常实践（话语、教育、媒体）将边界沉积为"常识"
 > - **排斥的正当化**：边界一旦被接受为道德事实，排斥和区隔就不再被视为权力强制，而被视为"理所当然"甚至"正当的"——"不是我们排斥他们，是他们自己不够格"
 >

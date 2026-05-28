@@ -14,8 +14,8 @@ tags:
   - theme/political-movement
   - period/republican-china
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Pragmatism in China]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -48,7 +48,7 @@ updated: 2026-05-26
 ## 经过
 
 > [!note]
-> - **1919** — 五四运动爆发，[[New Culture Movement|新文化运动]]由此获得"政治维度"。运动以学生和知识分子为主体，将此前以文化手段推进的改革议程[[Transfer Translation Transformation|转化]]为政治行动（Zhang & Sheese 2017, p.400，引自 Zhou & Westberg, 2024, p.614）。
+> - **1919** — 五四运动爆发，[[New Culture Movement|新文化运动]]由此获得"政治维度"。运动以学生和知识分子为主体，将此前以文化手段推进的改革议程转化为政治行动（Zhang & Sheese 2017, p.400，引自 Zhou & Westberg, 2024, p.614）。
 
 ---
 

@@ -15,6 +15,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Third Mission (Universities)]]"
   - "[[University Social Responsibility]]"
   - "[[Otherhood]]"
   - "[[Epistemic Governance]]"
@@ -49,7 +50,7 @@ updated: '2026-05-18'
 > SDGs 在大学语境中的核心意义（Zapp, 2022, pp.150–154）：
 > - 大学研究被重新定向至世界社会层面的影响（world societal impact），SDGs 成为研究优先级设定的全球参照框架
 > - 大学教学被重新定向至培养全球治理专业人才——国际法、全球卫生、气候变化管理、可持续发展等新的学位项目大量涌现
-> - 可持续发展被部分学者视为大学的"新型第三使命"甚至"宏大挑战"（grand challenge），超越了传统的教学-研究-产业联系三使命框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013）
+> - 可持续发展被部分学者视为大学的"新型[[Third Mission (Universities)|第三使命]]"甚至"宏大挑战"（grand challenge），超越了传统的教学-研究-产业联系三使命框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013）
 
 > [!quote]
 > "Sustainable development (SD) has become the overriding global agenda since 2015 when the 17 SD Goals where agreed upon by all 193 UN member states."（Zapp, 2022, p.150）

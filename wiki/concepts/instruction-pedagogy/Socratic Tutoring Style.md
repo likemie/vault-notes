@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Cognitive Source]]"
   - "[[Parental Cognitive and Affective Socialization]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Pride in Learning]]"
   - "[[Confucian Tutoring Style]]"
   - "[[Learning Virtues]]"
@@ -75,7 +74,7 @@ updated: 2026-05-24
 
 欧裔美国母亲在[[Parental Cognitive and Affective Socialization|情感社会化]]上有两个重点（Li, 2012）：
 
-**学习过程中的情感——兴趣与乐趣（interest and fun）**：母亲持续引导儿童将学习与享受联系起来。典型做法包括将抽象学习内容（如算术）[[Transfer Translation Transformation|转化]]为儿童感兴趣的情境（如青蛙故事），以及反复追问"你享受这个吗？""这样不是更有趣吗？"（Li, 2012）。
+**学习过程中的情感——兴趣与乐趣（interest and fun）**：母亲持续引导儿童将学习与享受联系起来。典型做法包括将抽象学习内容（如算术）转化为儿童感兴趣的情境（如青蛙故事），以及反复追问"你享受这个吗？""这样不是更有趣吗？"（Li, 2012）。
 
 **成就情感——[[Pride in Learning|骄傲]]（pride）**：母亲引导儿童为自己的成就感到骄傲。不仅母亲表达骄傲，还明确要求儿童"你也应该为自己感到骄傲"。
 

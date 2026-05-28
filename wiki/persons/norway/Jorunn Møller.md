@@ -13,8 +13,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[New Public Management]]"
   - "[[Transformative Leadership]]"
-related_theories:
-  - "[[Neo-Confucianism]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Helen Gunter]]"

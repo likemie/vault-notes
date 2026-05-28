@@ -3,7 +3,7 @@ title: Chinese Learner
 aliases:
   - 中国学习者
   - Chinese learners
-summary: 以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象
+summary: "以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象"
 type: concept
 tags:
   - region/china
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Five Cardinal Relationships]]"
   - "[[Junzi]]"
   - "[[Sage]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Action Better Than Words]]"
   - "[[University Motto]]"
   - "[[Grice's Conversational Maxims]]"
@@ -95,7 +94,7 @@ updated: 2026-05-24
 
 一个人的本质不是由生物学定义的，而是由其在[[Five Cardinal Relationships|五伦]]关系（父子、夫妻、兄弟、君臣、朋友）中的行事方式定义的——"这些关系及其社会和道德含义——而不是我们的生物学——定义了我们作为人的本质"（Li, 2012, pp.47-48）。
 
-学习的终极目标不是掌握知识或获得成就，而是**[[Self-Cultivation|修身]]**——一个持续终身的人格完善过程。修身从[[Five Cardinal Relationships|五伦]]出发，经由礼、义、廉、耻四道德原则的实践，最终通向仁的最高境界。人格进阶从士 → [[Junzi|君子]] → [[Sage|圣人]]，每个阶段代表更深层的自我[[Transfer Translation Transformation|转化]]（Li, 2012, pp.42-46）。完整的人格层级分析见 [[Junzi#人格进阶：士 → 君子 → 圣人]]。
+学习的终极目标不是掌握知识或获得成就，而是**[[Self-Cultivation|修身]]**——一个持续终身的人格完善过程。修身从[[Five Cardinal Relationships|五伦]]出发，经由礼、义、廉、耻四道德原则的实践，最终通向仁的最高境界。人格进阶从士 → [[Junzi|君子]] → [[Sage|圣人]]，每个阶段代表更深层的自我转化（Li, 2012, pp.42-46）。完整的人格层级分析见 [[Junzi#人格进阶：士 → 君子 → 圣人]]。
 
 > [!example] 与西方模型的根本差异
 > 西方 Learner 是一个**认识主体**——心智向外探究、掌握世界。中国 Learner 是一个**自我项目**——向内修炼品德、转化自我。一个问"我如何认识世界？"，一个问"我应成为什么样的人？"（Li, 2012, p.31）。

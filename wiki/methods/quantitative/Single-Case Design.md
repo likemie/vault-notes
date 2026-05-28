@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[5-3-20 Rule]]"
   - "[[Gating Procedure]]"
   - "[[Theories of Policy Change]]"
@@ -63,7 +62,7 @@ updated: '2026-05-18'
 
 [[Single-Case Design]] 是一种研究方法；[[WWC SCD Pilot Standards]] 则是 [[What Works Clearinghouse]] 为了审查 [[21st Century Skills and Competencies Discourse|SCD]] 研究而制定的专门技术标准。两者不是同一层级：SCD 回答"如何用单个个体或小群体作为自身控制来生成因果证据"，WWC SCD Pilot Standards 2010 回答"WWC 如何判断某项 SCD 研究是否达到足够内部效度、能否进入后续证据综合"（Hitchcock et al., 2015, pp.459–461, 464–466）。
 
-因此，WWC SCD Pilot Standards 2010 应被视为 SCD 在[[Educational Evidence Clearinghouses|教育证据清算中心]]中的制度化应用案例，而不是 SCD 方法本身的完整定义。它把 SCD 方法[[Transfer Translation Transformation|转化]]为 WWC 审查流程中的操作性标准：先依据审查协议筛选研究，再用 SCD 设计标准评估内部效度，通过后才由 SCD Review Guide 记录推广性信息，并最终使用 [[5-3-20 Rule]] 判断证据是否足以生成 WWC 干预报告（Hitchcock et al., 2015, pp.461, 464–466）。
+因此，WWC SCD Pilot Standards 2010 应被视为 SCD 在[[Educational Evidence Clearinghouses|教育证据清算中心]]中的制度化应用案例，而不是 SCD 方法本身的完整定义。它把 SCD 方法转化为 WWC 审查流程中的操作性标准：先依据审查协议筛选研究，再用 SCD 设计标准评估内部效度，通过后才由 SCD Review Guide 记录推广性信息，并最终使用 [[5-3-20 Rule]] 判断证据是否足以生成 WWC 干预报告（Hitchcock et al., 2015, pp.461, 464–466）。
 
 ## 常见设计类型
 

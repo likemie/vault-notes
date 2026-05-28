@@ -30,6 +30,7 @@ related_concepts:
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Neo-Confucianism]]"
 related_methods:
   - "[[Prototype Methods]]"
 related_persons:

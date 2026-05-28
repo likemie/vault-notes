@@ -14,6 +14,7 @@ tags:
   - policy/neoliberalism
 related_concepts:
   - "[[Peidu]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Cultural Capital]]"
 related_theories: []
 related_methods: []
@@ -39,7 +40,7 @@ updated: 2026-05-26
 
 ## 概念辨析
 
-- vs [[Peidu]] — 陪读是中国农村语境下择校的特殊形式，通过家庭迁移实现；国际语境择校多不涉及居住地变更。
+- vs [[Peidu]] — 陪读是中国农村语境下择校的特殊形式，通过家庭[[Transfer Translation Transformation|迁移]]实现；国际语境择校多不涉及居住地变更。
 - vs 就近入学 — 就近入学按户籍或居住地分配学校，择校则超出学区边界主动选择学校。中国的"就近入学"政策在原则上禁止义务教育阶段的择校（Teng & Wang, 2025, p.303）。
 
 ---

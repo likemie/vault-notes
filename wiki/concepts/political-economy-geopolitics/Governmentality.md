@@ -17,7 +17,6 @@ tags:
   - theme/governmentality
   - theme/subjectification
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
   - "[[Geopolitics of Knowledge]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Competitiveness in Higher Education]]"
   - "[[Performance Indicators]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Societies of Control]]"
 related_methods:
@@ -72,7 +72,7 @@ updated: 2026-05-23
 
 ### 自我技术（Technologies of the Self）
 
-治理术的关键运作手段是"自我技术"——个体通过自我审视、自我评估和自我修正来塑造自身的实践。这些技术让个体能够"在自己身上进行操作，通过自己的手段或在他人的帮助下，对自己的身体和灵魂、思想、行为和存在方式进行一系列操作——以此[[Transfer Translation Transformation|转化]]自我，达到某种幸福、纯洁、智慧、完美或不朽的状态"（Foucault, 1988, p.18; Thompson et al., 2022, p.221）。
+治理术的关键运作手段是"自我技术"——个体通过自我审视、自我评估和自我修正来塑造自身的实践。这些技术让个体能够"在自己身上进行操作，通过自己的手段或在他人的帮助下，对自己的身体和灵魂、思想、行为和存在方式进行一系列操作——以此转化自我，达到某种幸福、纯洁、智慧、完美或不朽的状态"（Foucault, 1988, p.18; Thompson et al., 2022, p.221）。
 
 在高等教育中，[[Online Self-Assessment|OSA]] 正是一种典型的自我技术：它不是通过直接筛选来排斥学生，而是通过引导学生进行自我评估和自行调整选择来实现治理目标（Thompson et al., 2022, pp.222–223）。
 

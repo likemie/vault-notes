@@ -13,9 +13,9 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Champ]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[School Leadership]]"
   - "[[Black Box RCTs]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
@@ -56,7 +56,7 @@ updated: '2026-05-18'
 > |---|---|---|
 > | 核心问题 | 这个项目有效吗？ | 什么使这个项目有效？通过什么路径？ |
 > | 分析单位 | 整个项目/干预包 | 特定因果机制/行为变化 |
-> | 对教师实践的信息价值 | 低——仅告知是否采用预设项目 | 高——提供可迁移的行为原则 |
+> | 对教师实践的信息价值 | 低——仅告知是否采用预设项目 | 高——提供可[[Transfer Translation Transformation\|迁移]]的行为原则 |
 > | 适用决策类型 | 二选一（采用或不采用） | 持续小决策（如何调整、组合、适应） |
 > | 来源范式 | 医学药物试验 | 发展经济学现场实验 |
 >
@@ -65,7 +65,7 @@ updated: '2026-05-18'
 
 > [!abstract] 核心优势
 > 1. **更可能被忠实实施**：因为聚焦于单一机制而非整个因果链，监控实施更简单、成本更低（Peterson, 2016, p. 303）
-> 2. **更强的可迁移性**：测试离散的教育变革机制提高了在不同情境和人群间[[Transfer Translation Transformation|转移]]的可能性（Peterson, 2016, p. 305, citing Deaton, 2010）
+> 2. **更强的可迁移性**：测试离散的教育变革机制提高了在不同情境和人群间转移的可能性（Peterson, 2016, p. 305, citing Deaton, 2010）
 > 3. **回应教师的"如何"和"为什么"问题**：教师最需要的是"哪些具体行动或策略能帮助学生学习"（Villegas-Reimers, 2003, p. 39），而非"应该买哪个预制项目"（Peterson, 2016, p. 305）
 > 4. **与学习科学的连续性**：机制实验桥接了随机化评估与学习科学（Bransford et al., 2000）——后者研究学习的社会性和情感性过程，需要允许高度改编而非程序化实施（Peterson, 2016, pp. 305–306）
 
@@ -88,7 +88,7 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - **vs [[Black Box RCTs]]** — 黑箱 [[Randomised Controlled Trials|RCT]] 评估整个项目而不打开因果机制；机制实验以机制为分析单位
 > - **vs [[Randomised Controlled Trials]]** — 机制实验是 RCT 的一种特定设计取向，不是替代 RCT 而是改革其设计方式
-> - **vs 理论驱动评估（Theory-Based Evaluation）** — 理论驱动评估仍紧密链接到特定项目的"项目理论"；机制实验聚焦于可在多个项目中迁移的机制原则（Peterson, 2016, p. 303）
+> - **vs 理论驱动评估（Theory-Based Evaluation）** — 理论驱动评估仍紧密链接到特定项目的"项目理论"；机制实验聚焦于可在多个项目中[[Transfer Translation Transformation|迁移]]的机制原则（Peterson, 2016, p. 303）
 
 ## 理论基础
 

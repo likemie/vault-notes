@@ -7,7 +7,6 @@ tags: ["theme/neoliberalism", "theme/subjectivity", "theme/employability"]
 related_concepts:
   - "[[Governmentality]]"
   - "[[Employability]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -35,7 +34,7 @@ updated: 2026-05-20
 > [!abstract]
 > Zelinka（2022, p.261）在分析 21 世纪技能话语时，将自我企业家的运作机制概括为：
 
-**自我实现与自我责任化**。个体有义务获取新能力并扩展现有能力，将结构性问题的解决负担[[Transfer Translation Transformation|转移]]到个体身上（Parreira do Amaral & Zelinka, 2019）。
+**自我实现与自我责任化**。个体有义务获取新能力并扩展现有能力，将结构性问题的解决负担转移到个体身上（Parreira do Amaral & Zelinka, 2019）。
 
 **意愿作为生产要素**。主体只有在承认并强化其自我企业家主体性、展现对增长的激情和加速意愿时才有价值（Vostal, 2016）。个体的"意愿"和"激情"——即他们持续获取新技能的承诺，无论其实际用途——成为新的生产要素。
 

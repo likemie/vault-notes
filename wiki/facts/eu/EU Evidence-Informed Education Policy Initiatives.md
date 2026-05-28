@@ -17,7 +17,6 @@ tags:
   - theme/educational-policy
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Reusability Paradox]]"
   - "[[Evidence-Informed Practice]]"
@@ -59,7 +58,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract] 政策摘要
-> 欧盟证据知情教育政策倡议主要围绕三件事展开：建立评价文化，改善研究、政策和实践之间的联系，发展能把研究证据[[Transfer Translation Transformation|转化]]给政策制定者和学校使用的 知识中介机制（Pellegrini & Vivanet, 2021, pp.28-31）。
+> 欧盟证据知情教育政策倡议主要围绕三件事展开：建立评价文化，改善研究、政策和实践之间的联系，发展能把研究证据转化给政策制定者和学校使用的 知识中介机制（Pellegrini & Vivanet, 2021, pp.28-31）。
 
 2007 年欧洲委员会工作文件把知识本位政策与实践拆成三个维度：知识创造、知识应用和知识中介。知识创造指研究本位知识的生产；知识应用指政策制定者和实践者使用证据；知识中介则是把[[Knowledge Mobilisation|知识转译]]成可获得、可理解、可使用的形式（Pellegrini & Vivanet, 2021, p.29）。
 
@@ -81,7 +80,7 @@ updated: 2026-05-23
 > [!example] 实施情况
 > 欧洲层面的实施主要表现为网络、报告和知识中介机制，而不是统一的欧盟教育项目清单。EIPPEE 调查显示，各国尝试改善研究证据在政策场景中的使用，活动水平较高、路径多样，但跨欧洲层面的协作和协调仍较少（Pellegrini & Vivanet, 2021, p.30）。
 
-在成员国层面，英国被视为欧洲较前沿的案例。英国 1999 年白皮书 “Modernizing Government” 明确承诺证据本位决策，随后建立 [[EPPI-Centre]] 等研究中心；EEF 则以政府资助的独立慈善组织身份生成和[[Transfer Translation Transformation|转化]]学校证据（Pellegrini & Vivanet, 2021, p.31）。
+在成员国层面，英国被视为欧洲较前沿的案例。英国 1999 年白皮书 “Modernizing Government” 明确承诺证据本位决策，随后建立 [[EPPI-Centre]] 等研究中心；EEF 则以政府资助的独立慈善组织身份生成和转化学校证据（Pellegrini & Vivanet, 2021, p.31）。
 
 相关证据机构分工写在各自条目中：[[Campbell Collaboration]]、[[Danish Clearinghouse for Educational Research]]、[[Institute for Effective Education]]、[[Swedish Institute for Educational Research]] 和 [[Top Institute for Evidence-Based Education Research]] 偏向证据生成、评价或综述；[[Centre for the Use of Research and Evidence in Education]] 与 [[Evidence-Based Teachers Network]] 偏向证据传播、教师网络和实践者培训（Pellegrini & Vivanet, 2021, pp.32-34）。
 
@@ -107,7 +106,7 @@ updated: 2026-05-23
 > [!tip]
 > - [[Evidence-Informed Practice]] — 欧盟更常采用的政策语言，强调研究证据是决策资源之一。
 > - [[Evidence-Based Reform]] — 与 Slavin 式强证据项目和政策激励相比，欧洲路径更强调倡议、指导和知识中介。
-> - [[Educational Evidence Clearinghouses]] — 欧洲证据政策依赖中介机构把研究[[Transfer Translation Transformation|转化]]为可用信息。
+> - [[Educational Evidence Clearinghouses]] — 欧洲证据政策依赖中介机构把研究转化为可用信息。
 
 ## 来源
 

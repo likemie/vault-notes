@@ -18,8 +18,7 @@ related_concepts:
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Knowledge Transfer]]"
 related_theories: []
-related_methods:
-  - "[[Observational and Correlational Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Great Firewall of China]]"
@@ -45,7 +44,7 @@ updated: '2026-05-18'
 > - 根据个人累积评分，公民被允许或禁止旅行（Partaken, 2022, p.81）
 > - 子女能否获得优质教育与父母的信用评分挂钩（Partaken, 2022, p.81）
 > - 实时位置在手机应用中公开以预防金融犯罪（Partaken, 2022, p.81）
-> - Partaken 引述 Kostka (2019) 和 Song (2019) 作为[[Observational and Correlational Research|相关研究]]来源（Partaken, 2022, p.81）
+> - Partaken 引述 Kostka (2019) 和 Song (2019) 作为相关研究来源（Partaken, 2022, p.81）
 
 ## 影响与后果
 

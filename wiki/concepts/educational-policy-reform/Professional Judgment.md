@@ -11,7 +11,6 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Programme Fidelity vs Adaptation]]"
 related_theories:
@@ -65,7 +64,7 @@ updated: '2026-05-23'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Evidence-Based Education]] — EBE 的强版本将研究证据置于实践决策的核心；专业判断将研究证据定位为三种"成分"之一（与伦理标准和方法论原则并列），三者通过教师的反思循环整合[[Transfer Translation Transformation|转化]]为行动
+> - vs [[Evidence-Based Education]] — EBE 的强版本将研究证据置于实践决策的核心；专业判断将研究证据定位为三种"成分"之一（与伦理标准和方法论原则并列），三者通过教师的反思循环整合转化为行动
 > - vs [[Evidence-Informed Practice]] — EIP 是决策取向，强调多源证据共同进入实践；专业判断是执行这一取向的能力，即判断不同证据在特定情境中应如何加权
 > - vs [[Programme Fidelity vs Adaptation]] — 专业判断强调教师的情境适应和反思，而非对外部方案的忠实执行
 
