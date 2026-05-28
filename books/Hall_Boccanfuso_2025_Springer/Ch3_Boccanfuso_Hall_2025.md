@@ -15,10 +15,10 @@ extracted_to:
   - "[[Website Content Analysis]]"
   - "[[Triple Helix]]"
   - "[[Boundary Spanner]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Industry Affiliate Program]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Innovation Park]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

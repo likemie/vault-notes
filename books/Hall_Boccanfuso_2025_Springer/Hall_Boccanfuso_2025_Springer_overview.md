@@ -9,9 +9,9 @@ extracted_to:
   - "[[Smith Lever Act of 1914]]"
   - "[[Triple Helix]]"
   - "[[Innovation Ecosystem]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Argument_Hall(Ed.)_2025_Springer]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 ---
 

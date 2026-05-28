@@ -3,17 +3,17 @@ citation: "Hoffman, P., Radasch, D., & Thorsell, K. (2025). University-Industry 
 extracted_to:
   - "[[Industry Advisory Board]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Innovation Hub]]"
   - "[[Boundary Spanner]]"
   - "[[Master Agreement in University-Industry Collaboration]]"
   - "[[University-Based Research Center]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Industry Affiliate Program]]"
   - "[[Precompetitive Research]]"
   - "[[Product-Specific Research in University-Industry Consortia]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Innovation Hub]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
