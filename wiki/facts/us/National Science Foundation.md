@@ -1,23 +1,20 @@
 ---
 title: National Science Foundation
 aliases:
-  - "美国国家科学基金会"
-  - "NSF"
-  - "NSF TIP"
-  - "NSF TIP Directorate"
-  - "NSF 技术、创新与合作理事会"
-  - "TIP Directorate"
-  - "美国国家科学基金会技术、创新与合作理事会"
-summary: "1950 年根据 Vannevar Bush 报告建议创建的美国独立联邦机构，是联邦政府资助大学基础研究的核心渠道，2022 年后通过 TIP 理事会大幅扩展区域创新中心建设资助"
+  - 美国国家科学基金会
+  - NSF
+  - NSF TIP
+  - NSF TIP Directorate
+summary: 1950 年根据 Vannevar Bush 报告建议创建的美国独立联邦机构，是联邦政府资助大学基础研究的核心渠道，2022 年后通过 TIP 理事会大幅扩展区域创新中心建设资助
 type: fact
 subtype: event
-region: "US"
+region: US
 tags:
-  - "region/us"
-  - "level/higher-education"
-  - "theme/university-industry-collaboration"
-  - "theme/innovation"
-  - "policy/economic-development"
+  - region/us
+  - level/higher-education
+  - theme/university-industry-collaboration
+  - theme/innovation
+  - policy/economic-development
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Hub]]"
