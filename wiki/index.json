@@ -496,6 +496,15 @@
     ]
   },
   {
+    "title": "Pre-Transfer Agency",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Pre-Transfer Agency.md",
+    "aliases": [
+      "前转移能动性",
+      "pre-transfer agency"
+    ]
+  },
+  {
     "title": "Recontextualization",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Recontextualization.md",
@@ -5084,6 +5093,14 @@
     ]
   },
   {
+    "title": "Jeremy Rappleye",
+    "type": "person",
+    "path": "wiki/persons/uk/Jeremy Rappleye.md",
+    "aliases": [
+      "杰里米·拉普利"
+    ]
+  },
+  {
     "title": "John Locke",
     "type": "person",
     "path": "wiki/persons/uk/John Locke.md",
@@ -5557,7 +5574,8 @@
     "type": "fact",
     "path": "wiki/facts/china/Late Qing Borrowing of Japanese Education.md",
     "aliases": [
-      "晚清借鉴日本教育"
+      "晚清借鉴日本教育",
+      "清末日本教育借用"
     ]
   },
   {
@@ -6521,7 +6539,8 @@
     "path": "wiki/facts/us/A Nation at Risk 1983.md",
     "aliases": [
       "A Nation at Risk",
-      "国家处于危险中"
+      "国家处于危险中",
+      "国家在危机中"
     ]
   },
   {
@@ -6530,7 +6549,8 @@
     "path": "wiki/facts/us/American Attraction to Japanese Education 1980s.md",
     "aliases": [
       "American Attraction to Japanese Education",
-      "1980年代美国对日本教育的兴趣"
+      "1980年代美国对日本教育的兴趣",
+      "美国对日本教育的跨国吸引力1980s"
     ]
   },
   {

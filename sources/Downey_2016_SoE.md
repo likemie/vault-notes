@@ -2,10 +2,10 @@
 citation: "Downey, D. B., & Condron, D. J. (2016). Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality. Sociology of Education, 89(3), 207–220."
 extracted_to:
   - "[[Argument_Downey_2016_SoE]]"
-  - "[[A Nation at Risk 1983]]"
   - "[[Coleman Report 1966]]"
   - "[[Seasonal Comparison]]"
   - "[[Refraction Framework]]"
+  - "[[A Nation at Risk 1983]]"
 processed_date: 2026-05-04
 ---
 

@@ -17,6 +17,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[International Education]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Pre-Transfer Agency]]"
   - "[[Policy Entrepreneur]]"
   - "[[Global Citizenship]]"
   - "[[Learner-Centred Education]]"
@@ -106,7 +107,7 @@ updated: '2026-05-18'
 
 ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png)
 
-6. **前转移与后转移能动性**：Rappleye (2006) 在响应 Steiner-Khamsi 的呼吁时区分了两种能动性——**后转移能动性**（政策实施后的抵制和本土化，Phillips & Ochs 模型已涵盖）和**前转移能动性**（外国范例进入国内教育话语之初的引入者及其动机，此前未被充分理论化）。前转移能动性在跨国吸引力阶段即开始运作，行动者包括民选官员、[[Policy Entrepreneur|政策企业家]]、专家、智库、媒体、超国家组织等（Rappleye, 2006, p. 227）。Rappleye 强调："教育改革的本质不是科学，而是一个高度规范性的努力——也许是社会价值观话语的首要竞技场"（p. 228）。
+6. **前转移与后转移能动性**：Rappleye (2006) 在响应 Steiner-Khamsi 的呼吁时区分了两种能动性——**后转移能动性**（政策实施后的抵制和本土化，Phillips & Ochs 模型已涵盖）和**[[Pre-Transfer Agency|前转移能动性]]**（外国范例进入国内教育话语之初的引入者及其动机，此前未被充分理论化）。前转移能动性在跨国吸引力阶段即开始运作，行动者包括民选官员、[[Policy Entrepreneur|政策企业家]]、专家、智库、媒体、超国家组织等（Rappleye, 2006, p. 227）。Rappleye 强调："教育改革的本质不是科学，而是一个高度规范性的努力——也许是社会价值观话语的首要竞技场"（p. 228）。
 
 ### 借用行为的特征
 
