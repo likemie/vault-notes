@@ -4,13 +4,16 @@ aliases: ["前竞争研究", "pre-competitive research", "precompetitive"]
 summary: "产学合作中处于探索阶段、产出的知识产权尚不具备商业化价值的研究类型，Narayan 与 Spohrer（2025）指出对此类研究套用商业竞争型 IP 条款会阻碍合作启动"
 type: concept
 tags: ["theme/university-industry-collaboration", "theme/research-commercialization", "theme/metrics-and-incentives"]
-related_concepts: []
+related_concepts:
+  - "[[University-Industry Collaboration]]"
+  - "[[Translational Research]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch5_Narayan_Spohrer_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -21,7 +24,7 @@ updated: 2026-05-28
 ## 定义
 
 > [!info]
-> 前竞争研究（precompetitive research）是指处于探索阶段、产出的知识产权（IP）尚不具备明确商业价值的研究活动。在产学合作语境中，小型项目（通常每年 <$250K）几乎都属于前竞争性质，由一两位企业研究者与一位教授及其研究生共同开展，持续 2–3 年，产出以会议论文和出版物为主（Narayan & Spohrer, 2025, p.91）。
+> 前竞争研究（precompetitive research）是指处于探索阶段、产出的知识产权（IP）尚不具备明确商业价值的研究活动。在[[University-Industry Collaboration|产学合作]]语境中，小型项目（通常每年 <$250K）几乎都属于前竞争性质，由一两位企业研究者与一位教授及其研究生共同开展，持续 2–3 年，产出以会议论文和出版物为主（Narayan & Spohrer, 2025, p.91）。
 
 > [!quote]
 > "exploratory programs are mostly precompetitive in nature and the IP created has limited value"（Narayan & Spohrer, 2025, p.91）
@@ -40,7 +43,7 @@ updated: 2026-05-28
 ## 概念演变
 
 > [!note]
-> 前竞争研究这一概念在产学合作管理中的重要性，源于实践中反复出现的 IP 谈判困境。Narayan 与 Spohrer（2025）从 IBM 的小型产学合作经验中观察到，大学和企业的法务团队往往以大型商业化项目的标准来审查所有合作项目的 IP 条款，不区分项目规模和成熟度。其后果是：在小型探索性项目中，IP 条款的过度谈判消耗的时间和信任远超 IP 本身的潜在价值，许多有前景的合作在启动阶段就因法务流程而夭折（p.91）。
+> 前竞争研究这一概念在[[University-Industry Collaboration|产学合作]]管理中的重要性，源于实践中反复出现的 IP 谈判困境。Narayan 与 Spohrer（2025）从 IBM 的小型产学合作经验中观察到，大学和企业的法务团队往往以大型商业化项目的标准来审查所有合作项目的 IP 条款，不区分项目规模和成熟度。其后果是：在小型探索性项目中，IP 条款的过度谈判消耗的时间和信任远超 IP 本身的潜在价值，许多有前景的合作在启动阶段就因法务流程而夭折（p.91）。
 
 ---
 

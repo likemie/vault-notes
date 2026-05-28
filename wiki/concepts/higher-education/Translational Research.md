@@ -4,13 +4,17 @@ aliases: ["转化研究", "转化性研究", "translation research", "lab-to-fab
 summary: "将学术实验室中的研究发现转化为可商业化产品或规模化应用的研究过程，产学合作中连接基础研究与产业化的关键环节"
 type: concept
 tags: ["theme/university-industry-collaboration", "theme/research-commercialization", "theme/innovation"]
-related_concepts: []
+related_concepts:
+  - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
+  - "[[Use-Inspired Basic Research]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch5_Narayan_Spohrer_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -21,7 +25,7 @@ updated: 2026-05-28
 ## 定义
 
 > [!info]
-> 转化研究（translational research）是指将实验室中的研究发现和创新转化为可商业化的产品、工艺或规模化应用的过程。在产学合作语境中，转化研究描述了从"lab"（实验室）到"fab"（制造）的过渡环节——即将学术研究产生的知识产权（IP）连接到产业需求，并将其发展为可制造、可销售的产品（pp.95–96）。
+> 转化研究（translational research）是指将实验室中的研究发现和创新转化为可商业化的产品、工艺或规模化应用的过程。在[[University-Industry Collaboration|产学合作]]语境中，转化研究描述了从"lab"（实验室）到"fab"（制造）的过渡环节——即将学术研究产生的知识产权（IP）连接到产业需求，并将其发展为可制造、可销售的产品（pp.95–96）。
 
 > [!quote]
 > "There is a fundamental skill gap for traditional translational research. At academic institutions, there is little motivation to go beyond creating IP and publishing papers and at industrial research labs the skill to take research innovations to hardened products is in short supply."（p.95）
@@ -40,7 +44,7 @@ updated: 2026-05-28
 ## 概念演变
 
 > [!note]
-> 转化研究最初在生物医学领域被广泛使用（"bench to bedside"），指将实验室发现转化为临床治疗方法。在产学合作语境中，这一概念被扩展到更广泛的技术领域，强调从学术研究到工业产品的"死亡之谷"（valley of death）。
+> 转化研究最初在生物医学领域被广泛使用（"bench to bedside"），指将实验室发现转化为临床治疗方法。在[[University-Industry Collaboration|产学合作]]语境中，这一概念被扩展到更广泛的技术领域，强调从学术研究到工业产品的"死亡之谷"（valley of death）。
 
 IBM 自身的经验揭示了转化研究的挑战：尽管在 1990–2020 年间连续近三十年位居美国专利数量榜首，但专利领导力并未匹配同等的产品创新成功。部分原因在于研究部门博士与学士/硕士的比例长期保持在 70/30，缺少足够数量的工程师来承担转化工作。近年 IBM 研究部门刻意将比例调整为接近 50/50（p.95）。
 

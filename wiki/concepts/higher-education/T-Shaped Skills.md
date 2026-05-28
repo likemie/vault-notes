@@ -4,13 +4,16 @@ aliases: ["T型技能", "T-shaped competencies", "T型能力"]
 summary: "Donofrio 与 DeMarco (2022) 提出的跨学科技能模型，指兼具跨学科广泛沟通能力与单一学科深度问题解决能力的人才特质，用于产学合作中的劳动力培养讨论"
 type: concept
 tags: ["theme/talent-development", "theme/workforce-training", "theme/university-industry-collaboration"]
-related_concepts: []
+related_concepts:
+  - "[[University-Industry Collaboration]]"
+  - "[[Translational Research]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch5_Narayan_Spohrer_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -39,8 +42,8 @@ updated: 2026-05-28
 ## 概念演变
 
 > [!note]
-> T 型技能的概念在产学合作语境中的兴起，与两个结构性变化有关（pp.95–96）：
-> - 转化研究缺口：传统上学术机构负责探索性研究、企业负责商业化，但两者之间缺乏能将学术 IP 转化为产品的"翻译型"人才。这要求研究者既有学科深度，又能理解产业语言和需求。
+> T 型技能的概念在[[University-Industry Collaboration|产学合作]]语境中的兴起，与两个结构性变化有关（pp.95–96）：
+> - [[Translational Research|转化研究]]缺口：传统上学术机构负责探索性研究、企业负责商业化，但两者之间缺乏能将学术 IP 转化为产品的"翻译型"人才。这要求研究者既有学科深度，又能理解产业语言和需求。
 > - 学科交叉创新的加速：大学院系高度筒仓化，学位要求偏向单一系所课程，但 AI 等领域的突破越来越多发生在学科交叉地带。T 型技能被视为应对这一挑战的人才培养方向。
 
 ---

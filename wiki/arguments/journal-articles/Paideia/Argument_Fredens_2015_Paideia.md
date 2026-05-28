@@ -16,6 +16,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
+  - "[[Translational Research]]"
   - "[[Working Memory]]"
 related_theories: []
 related_methods:
@@ -70,7 +71,7 @@ updated: '2026-05-18'
 >
 > ### 从实验室到课堂
 >
-> Fredens 以"翻译研究"（translational research）概念描述将研究发现引入课堂的挑战：研究常由研究者写给研究者，[[John Hattie|Hattie]] & Yates 的贡献在于使研究发现可为教师和政策制定者所用。但下一步——将知识真正带入学校——仍有很长的路。芬兰教师教育将教育理论和研究方法作为培训的一部分，培养教师的建设性和批判性意识，使其免疫于可疑的"学习理论"（Fredens, 2015, p.75）。
+> Fredens 以"翻译研究"（[[Translational Research]]）概念描述将研究发现引入课堂的挑战：研究常由研究者写给研究者，[[John Hattie|Hattie]] & Yates 的贡献在于使研究发现可为教师和政策制定者所用。但下一步——将知识真正带入学校——仍有很长的路。芬兰教师教育将教育理论和研究方法作为培训的一部分，培养教师的建设性和批判性意识，使其免疫于可疑的"学习理论"（Fredens, 2015, p.75）。
 
 ## 主要发现
 

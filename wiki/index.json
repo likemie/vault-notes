@@ -1796,6 +1796,16 @@
     ]
   },
   {
+    "title": "Precompetitive Research",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Precompetitive Research.md",
+    "aliases": [
+      "前竞争研究",
+      "pre-competitive research",
+      "precompetitive"
+    ]
+  },
+  {
     "title": "Preemptive Governance",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Preemptive Governance.md",
@@ -5309,6 +5319,16 @@
       "James Stigler",
       "The Learning Gap",
       "学习鸿沟"
+    ]
+  },
+  {
+    "title": "Jim Spohrer",
+    "type": "person",
+    "path": "wiki/persons/usa/Jim Spohrer.md",
+    "aliases": [
+      "James Spohrer",
+      "Jim C. Spohrer",
+      "J. C. Spohrer"
     ]
   },
   {
