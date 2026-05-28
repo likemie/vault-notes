@@ -11,14 +11,12 @@
             "id": "cf4bbb8cde350903",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hoffman_2025_UI_Alliances_Consortia.md",
-                "mode": "preview",
-                "source": false
+                "file": "books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Argument_Hoffman_2025_UI_Alliances_Consortia"
+              "icon": "lucide-file-text",
+              "title": "Ch6_Hoffman_Radasch_Thorsell_2025"
             }
           }
         ]
@@ -190,8 +188,9 @@
   },
   "active": "cf4bbb8cde350903",
   "lastOpenFiles": [
-    "wiki/facts/us/University Industry Demonstration Partnership.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hoffman_2025_UI_Alliances_Consortia.md",
+    "wiki/facts/us/University Industry Demonstration Partnership.md",
     "wiki/concepts/higher-education/University-Based Research Center.md",
     "wiki/concepts/higher-education/Industry Affiliate Program.md.tmp.91616.63cd36086c98",
     "wiki/concepts/higher-education/Product-Specific Research in University-Industry Consortia.md",
@@ -200,7 +199,6 @@
     "wiki/concepts/higher-education/Master Agreement in University-Industry Collaboration.md",
     "wiki/facts/us/Tennessee STAR Project 1985-1989.md",
     "wiki/concepts/higher-education/Industry Advisory Board.md",
-    "books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025.pdf",
     "books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch5_Narayan_Spohrer_2025.md",
