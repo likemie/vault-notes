@@ -6,6 +6,9 @@ aliases:
   - "大学技术转移"
   - "university technology transfer"
   - "tech transfer"
+  - "TTO"
+  - "Technology Transfer Office"
+  - "技术转移办公室"
 summary: "大学研究成果通过知识产权许可、初创企业或企业合作转化为商业应用的过程，以 Bayh-Dole Act 为核心法律框架，涉及技术转移办公室、产学协议谈判和商业化路径选择等制度安排"
 type: concept
 tags:
