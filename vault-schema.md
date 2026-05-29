@@ -24,7 +24,7 @@
 
 ### 普通论文／报告
 
-1. 读取 `vault-schema.md`；若触发书籍、figure、图片或图表任务，转入 `Specialized Schemas`。
+1. 读取 `vault-schema.md`；若触发书籍或教材任务，转入 `Specialized Schemas`。
 2. 判断来源类型：期刊论文用 `source_record.py article`；报告、政策文件、白皮书用 `source_record.py report`。
 3. 创建初始 source record 并固定 PDF 到 `sources/`，再提取文本。
 4. 扫描文献，先判断需要建立或更新哪些知识对象：Concept / Theory / Fact / Person / Method / Argument；同时判断是否为实证研究。
@@ -45,11 +45,10 @@
 | 触发条件 | 读取文件 |
 |---|---|
 | `(Ed.)` / 编著 / 论文集 | `schema/schema-edited-volume.md` |
-| 专著 PDF / 用户标注「专著」 | `schema/schema-monograph-pdf.md` |
-| `.epub` | `schema/schema-monograph-epub.md` |
-| figure / 图片 / 图表 | `schema/schema-figures.md` |
+| 用户标注「专著」/ 书籍材料，不区分 PDF 与 EPUB | `schema/schema-monograph.md` |
+| 用户明确标注「教材」/「教科书」/「课程用书」/「入门读本」 | `schema/schema-textbook.md` |
 
-书籍任务每次只处理一章或用户当前指定章节，处理完停止。若书籍任务同时涉及 figure / 图片 / 图表，再额外读取 `schema/schema-figures.md`。
+书籍任务每次只处理一章或用户当前指定章节，处理完停止。专著处理流程不区分 PDF 与 EPUB，但最后创建 source 记录和阅读页面时按文件格式分支；EPUB 阅读页使用已配置的 epub.js 静态脚本。教材只是新增处理流程，不改变文件夹结构，仍放在 `books/` 和 `wiki/arguments/books/<book-folder>/`。若章节涉及 figure / 图片等图像型材料，不读取独立 schema；先在当前 Argument 的对应章节中写图片占位，后续由用户手动补图。文本表格、可复制表格或可转写表格应尽量直接读取、整理为 Markdown 表格。
 
 ### Sync Decision
 
@@ -88,9 +87,8 @@ sources/                     已处理论文／报告 source 记录、PDF 与可
 books/                       书籍工作区
 schema/                      专项工作流 schema，按任务触发读取
   schema-edited-volume.md
-  schema-figures.md
-  schema-monograph-pdf.md
-  schema-monograph-epub.md
+  schema-monograph.md
+  schema-textbook.md
 templater/                   Obsidian Templater 插件模板镜像；AI 工作流读取 wiki/templates/
 scripts/
   wiki_index.py
@@ -287,8 +285,7 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 |---|---|---|
 | 期刊论文 | `article` | `sources/` |
 | 报告／政策文件／白皮书 | `report` | `sources/` |
-| 专著 PDF 整本书 source | `monograph-pdf` | `books/<book-folder>/` |
-| EPUB 专著 source | `monograph-epub` | `books/<book-folder>/` |
+| 专著整本书 source | `monograph` | `books/<book-folder>/` |
 | 论文集／编著整体 overview | `edited-volume-overview` | `books/<book-folder>/` |
 | 论文集章节 source | `book-chapter` | `books/<book-folder>/` |
 | 从 Argument 页回填 source record | `finalize` | `sources/` 或 `books/<book-folder>/` |
@@ -308,7 +305,7 @@ python3 scripts/source_record.py finalize --argument "wiki/arguments/.../Argumen
 - `raw/` 只放原始 PDF，不加 frontmatter，不编辑。
 - 普通论文或报告处理开始时，先用 `source_record.py article` 或 `source_record.py report` 固定 source record 和 PDF。
 - 普通论文或报告处理完成并写好 Argument 页后，再用 `source_record.py finalize --rename` 回填 citation 与最终命名。
-- 若 source 有配套 figure，按 `schema/schema-figures.md` 整理。
+- 若 source 有配套 figure、图片等图像型材料，先在当前 Argument 或对应章节中写图片占位，后续由用户手动补图或整理配套文件。文本表格、可复制表格或可转写表格应尽量直接整理为 Markdown 表格。
 - 书籍来源记录按对应专项 schema 执行。
 - `sources/` 与 `books/` 下的 source record 不进入 `related_*` 自动维护逻辑，但 `extracted_to` 由 `wiki_relations.py` 反向同步。
 
