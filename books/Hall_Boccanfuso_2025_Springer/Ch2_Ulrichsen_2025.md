@@ -6,7 +6,6 @@ extracted_to:
   - "[[Knowledge Exchange]]"
   - "[[Transformative Change]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Third Mission (Universities)]]"
   - "[[University-Industry Collaboration]]"
@@ -15,6 +14,7 @@ extracted_to:
   - "[[Triple Helix]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer]]"
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

@@ -18,6 +18,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Proof of Concept Programs]]"
   - "[[Translational Research]]"
+  - "[[Technology Readiness Level]]"
   - "[[Corporate Venture Capital]]"
 related_theories: []
 related_methods: []
@@ -50,7 +51,7 @@ updated: 2026-05-29
 > [!abstract]
 > [[University Spin-Out|大学衍生企业]]可获取的非稀释性资助主要有三类（pp.144, 148-149）：
 
-> **大学内部资助**。大学通过[[Technology Transfer|技术转移]]办公室（Technology Transfer Office, TTO）或专门的创新基金提供内部拨款，用于支付专利申请费用、法律保护成本和早期概念验证（[[Proof of Concept Programs|proof of concept]], PoP）研究。例如大学内部的"产品验证"拨款（Proof of Product grants）——通常 $10,000 到 $100,000——支持研究团队在一定期限内（数月到一年）推进[[Translational Research|转化研究]]达到明确的技术或市场验证里程碑（pp.148-149）。
+> **大学内部资助**。大学通过[[Technology Transfer|技术转移办公室]]（Technology Transfer Office, TTO）或专门的创新基金提供内部拨款，用于支付专利申请费用、法律保护成本和早期概念验证（[[Proof of Concept Programs|proof of concept]], PoP）研究。例如大学内部的"产品验证"拨款（Proof of Product grants）——通常 $10,000 到 $100,000——支持研究团队在一定期限内（数月到一年）推进[[Translational Research|转化研究]]达到明确的技术或市场验证里程碑（pp.148-149）。
 
 > **联邦政府研发资助**。美国联邦机构——包括[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）、国立卫生研究院（National Institutes of Health, NIH）、能源部（Department of Energy, DOE）和国防部（Department of Defense, DOD）——为大学研究提供大量资助。这些资助本身不限于商业化目的，但其产生的知识产权（Intellectual Property, IP）根据[[Bayh-Dole Act of 1980|Bayh-Dole Act]]归大学所有，为后续技术转移和衍生企业创建奠定了基础（p.144）。
 
@@ -60,7 +61,7 @@ updated: 2026-05-29
 
 > [!success]
 > 非稀释性资助填补了[[University Spin-Out|大学衍生企业]]生命周期中最脆弱的一段资金缺口（pp.144-146）：
-> - **在 VC 介入之前**：大学衍生企业的技术就绪度（Technology Readiness Level, TRL）通常不足以满足[[Corporate Venture Capital|企业风险投资]]（CVC）或传统 VC 的投资门槛（p.145）。非稀释性资助让衍生企业能够在不需要寻找外部投资者的情况下，将技术推进到足够成熟的阶段
+> - **在 VC 介入之前**：大学衍生企业的[[Technology Readiness Level|技术就绪度]]（Technology Readiness Level, TRL）通常不足以满足[[Corporate Venture Capital|企业风险投资]]（CVC）或传统 VC 的投资门槛（p.145）。非稀释性资助让衍生企业能够在不需要寻找外部投资者的情况下，将技术推进到足够成熟的阶段
 > - **保留所有权和控制权**：由于不需要出让股权，创始团队可以保留对公司的完全控制权，在时机成熟时以更有利的估值进行首轮股权融资
 > - **提供信号价值**：获得竞争性的政府研发资助（如 [[National Science Foundation|NSF]] 或 NIH 拨款）本身也是一种质量信号——它表明该研究经过了同行评审，降低了外部投资者的尽职调查成本（pp.144-145）
 

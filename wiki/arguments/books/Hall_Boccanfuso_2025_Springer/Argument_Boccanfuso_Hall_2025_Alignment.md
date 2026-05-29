@@ -223,7 +223,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 **步骤 13：[[Technology Transfer|技术转移]]的制度安排**
 
-[[Technology Transfer|技术转移]]是产学合作的另一关键维度。[[Bayh-Dole Act of 1980|Bayh-Dole Act]]（1980）——在美国政府资助下于大学产生的知识产权归大学所有——为技术转移奠定了法律基础。这产生了一个重要的制度结构：企业的合同与拨款办公室协商赞助研究所产生的知识产权权利，技术转移办公室（Technology Transfer Office）协商知识产权许可。两者通常隶属于大学的科研副校长（p.14）。
+[[Technology Transfer|技术转移]]是产学合作的另一关键维度。[[Bayh-Dole Act of 1980|Bayh-Dole Act]]（1980）——在美国政府资助下于大学产生的知识产权归大学所有——为技术转移奠定了法律基础。这产生了一个重要的制度结构：企业的合同与拨款办公室协商赞助研究所产生的知识产权权利，[[Technology Transfer|技术转移办公室]]（Technology Transfer Office）协商知识产权许可。两者通常隶属于大学的科研副校长（p.14）。
 
 一个尖锐的挑战是：商业化应该走初创企业路线（发明人可能成为创始人）还是成熟企业路线（发明人无所有权股份）？大多数初创企业会失败，但大学可能希望支持教师的创业精神；成熟企业可以持续投资技术开发，但可能不给予发明人同样的激励和经济回报（p.14）。
 

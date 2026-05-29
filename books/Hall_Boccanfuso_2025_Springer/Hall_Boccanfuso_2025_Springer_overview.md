@@ -6,12 +6,12 @@ extracted_to:
   - "[[Smith Lever Act of 1914]]"
   - "[[Multi-University]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Bayh-Dole Act of 1980]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
   - "[[Argument_Hall(Ed.)_2025_Springer]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-05-27
 ---
 

@@ -48,7 +48,7 @@ updated: 2026-05-29
 
 > 甄选出的 24 家衍生企业向由投资者和企业领袖组成的现场观众进行路演（pitch）。所有入选企业都在寻找首轮私人投资（first round of private investment），并且——这一点尤为关键——几乎全都满足以下条件（pp.144-145）：
 > - 已获得某种形式的[[Non-dilutive Funding|非稀释性资助]]（Non-dilutive Funding），包括大学内部的"产品验证"拨款（[[Proof of Concept Programs|proof of product]] grants），或来自 [[National Science Foundation|NSF]]、NIH、DOE、DOD 以及 [[SBIR and STTR Programs|SBIR]]/STTR 计划的政府资助
-> - 拥有经[[Technology Transfer|大学技术转移]]办公室（Technology Transfer Office, TTO）尽职调查后保护的知识产权（IP）——大学已投入专利申请和法律保护费用，说明 IP 质量经过了内部审核
+> - 拥有经大学[[Technology Transfer|技术转移办公室]]（Technology Transfer Office, TTO）尽职调查后保护的知识产权（IP）——大学已投入专利申请和法律保护费用，说明 IP 质量经过了内部审核
 
 ## 揭示的融资困境
 

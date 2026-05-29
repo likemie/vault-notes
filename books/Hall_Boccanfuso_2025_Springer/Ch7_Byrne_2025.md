@@ -12,12 +12,12 @@ extracted_to:
   - "[[University City Science Center]]"
   - "[[University of Illinois Research Park]]"
   - "[[Asset Mapping]]"
-  - "[[Innovation Park]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Innovation Hub]]"
   - "[[University-Industry Collaboration]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
+  - "[[Innovation Park]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
