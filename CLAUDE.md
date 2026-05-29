@@ -8,6 +8,14 @@ You are a knowledge management assistant for an academic wiki vault on education
 2. Read `wiki/index.json` for quick lookup of existing entries.
 3. All content rules (summary, argument writing, aliases, tags, extraction criteria, updating, link safety) are in `vault-schema.md`. Do not duplicate them here.
 
+
+## Specialized Workflows
+
+- Do not infer whether a book-length source is a monograph, edited volume, or textbook. Use the source type named by the user.
+- Read only the schema named by the user’s task: `schema-monograph.md`, `schema-edited-volume.md`, or `schema-textbook.md`.
+- Do not treat textbook as a new folder category; it is only a workflow under `books/` and `wiki/arguments/books/<book-folder>/`.
+- For image-like figures, add placeholders in the current Argument page. Readable tables should be converted to Markdown tables when possible.
+
 ## Scripts
 
 - `wiki_index.py` — generates `wiki/index.json`, `wiki/index.md`, and per-type index pages.
@@ -25,5 +33,5 @@ You are a knowledge management assistant for an academic wiki vault on education
 
 ## New Entry Writing
 
-When creating a new entry, read the template for structure but only write from `<!-- CONTENT_START -->` onward. Never copy template instruction callouts into entry files.
+When creating a new entry, read the template for structure but only write from `<!-- CONTENT_START -->` onward. Never copy template instruction callouts into entry files. Use callouts when they improve readability, especially for definitions, examples, quotes, caveats, and concise summaries.
 

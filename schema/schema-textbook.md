@@ -78,7 +78,8 @@ wiki/arguments/books/<book-folder>/
 
 <!--
 - 图X-X：图片或图像型 figure 标题，待手动补图。
-  ![](https://img.mylikemie.icu/books/<book-folder>/figures/chapter-x-figure-y.svg)
+  本地建议位置：books/<book-folder>/figures/chapter-x-figure-y.svg
+  嵌入代码：![](https://img.mylikemie.icu/books/<book-folder>/figures/chapter-x-figure-y.svg)
 -->
 
 #### 概览
@@ -108,7 +109,7 @@ wiki/arguments/books/<book-folder>/
    - 若已存在，将当前章节内容整合进「章节结构」「章节概览」和「重要摘录」。
    - 「章节结构」中每章只保留 3–5 个核心关联条目。
    - 「章节概览」按教材自身逻辑概括，已建条目只简单提及。
-   - 「概念地图」和「图片占位」可提前写好图片路径，AI 不主动绘图；只标出值得后续手动补充的图片或图像型 figure。文本表格、可复制表格或可转写表格应尽量直接整理为 Markdown 表格。
+   - 「概念地图」和「图片占位」可提前写好图床外网地址，AI 不主动绘图；本地文件放在 `books/<book-folder>/figures/`，Markdown 嵌入使用 `https://img.mylikemie.icu/books/<book-folder>/figures/...`。文本表格、可复制表格或可转写表格应尽量直接整理为 Markdown 表格。
 8. 在 `## 来源` 章节列出来源。
 9. 执行脚本运行规则。
 10. 当前章节处理完成后停止。

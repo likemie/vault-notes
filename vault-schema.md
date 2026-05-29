@@ -7,14 +7,14 @@
 ## 1. Core Principles
 
 - 只读取当前任务需要的文件，避免扫描无关文件夹。
-- 先根据材料判断需要建立或更新哪些知识对象，再读 `wiki/index.json` 检索候选条目是否已存在；若缺失、过期或有歧义，再按类型搜索对应二级文件夹。
+- 先根据材料判断需要建立或更新哪些知识对象，再读 `wiki/index.json` 检索候选条目是否已存在。
 - `wiki/index.json`、`wiki/index.md` 和各类型索引页由 `scripts/wiki_index.py` 自动生成，不手动维护。
 - 修改已有条目必须先读取文件，判断目标章节、子主题与插入位置，再使用 `str_replace` 精确替换相关段落，不重写整个文件。
 - 所有来源性陈述都必须标注页码。非 Argument 条目使用来源与页码；Argument 条目引用当前对应文献时只写页码，如（pp.147–148）。
 - 不使用来源以外的知识；不确定时宁可不写。
 - AI 不手动维护生成字段：`related_*`、YAML `sources`、source record 的 `extracted_to`。
 - Source 记录与阅读页面优先由 `scripts/source_record.py` 生成，不手写固定结构。
-- 普通论文 / 报告 source record 初始阶段只负责固定 PDF 与来源入口；完整 citation 与最终命名在 Argument 页完成后由 `source_record.py finalize` 回填。
+- 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的图片，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。
 - 新建、移动、删除、重命名条目后，只自动运行 `python3 scripts/wiki_index.py` 重建索引；是否继续运行补链、关系同步与 lint，由用户确认。
 - 非必要不要运行 `--full`。优先使用 git 增量或路径限定；只有批量重命名/移动/删除、批量 alias/title 变更、增量结果异常、发布/备份/重要提交前，才使用 full sync 或 full lint。
 
@@ -24,31 +24,70 @@
 
 ### 普通论文／报告
 
-1. 读取 `vault-schema.md`；若触发书籍或教材任务，转入 `Specialized Schemas`。
-2. 判断来源类型：期刊论文用 `source_record.py article`；报告、政策文件、白皮书用 `source_record.py report`。
-3. 创建初始 source record 并固定 PDF 到 `sources/`，再提取文本。
-4. 扫描文献，先判断需要建立或更新哪些知识对象：Concept / Theory / Fact / Person / Method / Argument；同时判断是否为实证研究。
-5. 为每个候选对象记录暂定英文标题、中文术语或别名、类型、目标二级文件夹、证据页码和独立成条理由。
-6. 读取 `wiki/index.json`，用标题、中文术语、英文变体和缩写检索是否已有；缺失、过期或有歧义时，再搜索对应二级文件夹。
-7. 将候选分为待更新和待新建。
-8. 更新已有条目：读取文件 → 判断目标章节、子主题与插入位置 → 先按主题归组，再在主题内按时间或论证顺序整合 → 用 `str_replace` 精确替换相关段落。
-9. 新建条目：只读取对应 `wiki/templates/template-*.md` → 按模板逻辑组织内容，先主题后时间。
-10. 实证研究必须更新或新建至少一个 Method 条目，在 `## 使用此方法的研究` 加入一条方法案例，并链接当前 Argument。
-11. 创建或更新 Argument 页，frontmatter 写入 `citation`，正文 `## 来源` 列出 source wikilink。
-12. 更新所有受影响条目的正文 `## 来源`：只放 source wikilink，按来源年份从早到晚排序，同一年按作者或机构字母顺序。
-13. 运行 `source_record.py finalize --argument <Argument路径> --rename`，回填 citation，并按 Argument 文件名重命名 source record 和 PDF。
-14. 自动运行 `python3 scripts/wiki_index.py`。
-15. 询问用户是否继续运行标准脚本流程。
+1. 读取 `vault-schema.md`；若用户明确说明是专著、论文集或教材，转入 `Specialized Schemas`；若用户未说明类型，按普通论文／期刊论文流程处理。
+2. 读取原始文件并提取可读文本；此时不创建 source record，不决定最终 `<论文命名>`。
+3. 扫描文献，同时判断三类事项：需要建立或更新哪些知识对象，是否为实证研究，是否包含需要保留图片占位的图像型材料。文本表格、可复制表格或可转写表格直接整理为 Markdown 表格。
+4. 在创建 Argument 页之前确定最终 Argument 文件名，并由此确定最终 `<论文命名>`；若第 3 步发现需要图片占位，后续占位路径和 source 文件夹都使用该最终 `<论文命名>`。
+5. 判断来源类型并创建最终 source record：期刊论文用 `source_record.py article --record-name <论文命名>`；报告、政策文件、白皮书用 `source_record.py report --record-name <论文命名>`。
+6. 为每个候选知识对象记录暂定英文标题、中文术语或别名、类型、目标二级文件夹、证据页码和独立成条理由。
+7. 读取 `wiki/index.json`，用标题、中文术语、英文变体和缩写检索是否已有。
+8. 将候选分为待更新和待新建。
+9. 更新已有条目：读取文件 → 判断目标章节、子主题与插入位置 → 先按主题归组，再在主题内按时间或论证顺序整合 → 用 `str_replace` 精确替换相关段落。
+10. 新建条目：只读取对应 `wiki/templates/template-*.md` → 按模板逻辑组织内容，先主题后时间。
+11. 实证研究必须更新或新建至少一个 Method 条目，在 `## 使用此方法的研究` 加入一条方法案例，并链接当前 Argument。
+12. 创建或更新 Argument 页，frontmatter 写入 `citation`，正文 `## 来源` 列出最终 source wikilink；若有图像型材料，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。
+13. 更新所有受影响条目的正文 `## 来源`：只放 source wikilink，按来源年份从早到晚排序，同一年按作者或机构字母顺序。
+14. 运行 `source_record.py finalize --argument <Argument路径> --rename`，回填 citation；若第 3 步判断有图片占位，则加 `--with-figures`，生成 `sources/<论文命名>/`、`sources/<论文命名>/<论文命名>.md`、`sources/<论文命名>/<论文命名>.pdf` 和 `sources/<论文命名>/figures/`，并同步 Argument 与相关条目中的 source wikilink。
+15. 自动运行 `python3 scripts/wiki_index.py`。
+16. 询问用户是否继续运行标准脚本流程。
+
 
 ### Specialized Schemas
 
-| 触发条件 | 读取文件 |
-|---|---|
-| `(Ed.)` / 编著 / 论文集 | `schema/schema-edited-volume.md` |
-| 用户标注「专著」/ 书籍材料，不区分 PDF 与 EPUB | `schema/schema-monograph.md` |
-| 用户明确标注「教材」/「教科书」/「课程用书」/「入门读本」 | `schema/schema-textbook.md` |
+AI 不主动判断书籍材料属于专著、论文集还是教材；按用户指令选择对应 schema。若用户未说明类型，按普通论文／期刊论文流程处理。
 
-书籍任务每次只处理一章或用户当前指定章节，处理完停止。专著处理流程不区分 PDF 与 EPUB，但最后创建 source 记录和阅读页面时按文件格式分支；EPUB 阅读页使用已配置的 epub.js 静态脚本。教材只是新增处理流程，不改变文件夹结构，仍放在 `books/` 和 `wiki/arguments/books/<book-folder>/`。若章节涉及 figure / 图片等图像型材料，不读取独立 schema；先在当前 Argument 的对应章节中写图片占位，后续由用户手动补图。文本表格、可复制表格或可转写表格应尽量直接读取、整理为 Markdown 表格。
+| 用户指令 | 读取文件 |
+|---|---|
+| 用户说明「专著」/「著作」 | `schema/schema-monograph.md` |
+| 用户说明「论文集」/「编著」 | `schema/schema-edited-volume.md` |
+| 用户说明「教材」/「教科书」/「课程用书」/「入门读本」 | `schema/schema-textbook.md` |
+
+书籍任务每次只处理一章或用户当前指定章节，处理完停止。专著处理流程不区分 PDF 与 EPUB，但最后创建 source 记录和阅读页面时按文件格式分支；EPUB 阅读页使用已配置的 epub.js 静态脚本。教材不改变文件夹结构，仍放在 `books/` 和 `wiki/arguments/books/<book-folder>/`。
+
+### 图片和表格处理
+
+适用于普通论文、报告、专著、论文集和教材。
+
+- 遇到 figure、图片、流程图、模型图、截图表格、扫描表格等图像型材料时，不读取独立 schema；先在当前 Argument 的对应位置写图片占位，后续由用户手动补图。
+- 文本表格、可复制表格、HTML 表格或可转写表格，应尽量直接读取并整理为 Markdown 表格。
+- 图片占位必须写清楚来源位置、图号或原始标题、用途、建议文件名和图床外网地址；不要替用户重画图。
+- 普通论文／报告若需要图片占位或后续补图，最终 source record 和 PDF 应放入 `sources/<论文命名>/`，并创建 `sources/<论文命名>/figures/`；无图时仍可保持 `sources/<论文命名>.md` 和 `sources/<论文命名>.pdf` 的扁平结构。
+
+普通论文／报告图片占位：
+
+```markdown
+> [!example]- 图片占位
+> - 位置：p.X / Fig.X / 表X / 截图位置
+> - 图题：原文图题或简短描述
+> - 用途：说明该图适合放在 Argument 的哪个论证步骤，或适合补入哪个 wiki 条目
+> - 建议文件名：sources/<论文命名>/figures/<论文命名>_FigX_Descriptive_Name.png
+> - 图床地址：https://img.mylikemie.icu/sources/<论文命名>/figures/<论文命名>_FigX_Descriptive_Name.png
+> - 嵌入代码：![](https://img.mylikemie.icu/sources/<论文命名>/figures/<论文命名>_FigX_Descriptive_Name.png)
+```
+
+说明：`<论文命名>` 由 AI 在创建 Argument 文件名前确定，通常等于最终 Argument 文件名去掉 `Argument_` 后的部分，如 `Argument_Simpson_2019_ERE.md` 对应 `Simpson_2019_ERE`。命名前要先判断是否有需要保留占位的图片；有图时使用 `source_record.py finalize --rename --with-figures`，让 source record、PDF 和 `figures/` 落入 `sources/<论文命名>/`。
+
+书籍图片占位：
+
+```markdown
+> [!example]- 图片占位
+> - 位置：第X章，p.X / 图X-X / 截图位置
+> - 图题：原文图题或简短描述
+> - 用途：说明该图适合放在当前章节概览、概念地图或相关 wiki 条目
+> - 建议文件名：books/<book-folder>/figures/Figure_X-X_Descriptive_Name.png
+> - 图床地址：https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Descriptive_Name.png
+> - 嵌入代码：![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Descriptive_Name.png)
+```
 
 ### Sync Decision
 
@@ -172,7 +211,7 @@ OECD_2018_GlobalCompetence
 - 期刊论文优先使用 `Author_Year_JournalAbbrev`。
 - 报告、政策文件、白皮书可使用 `Organization_Year_ShortTitle` 或 `Organization_Year_PublisherAbbrev`。
 - source record 文件名和 PDF 文件名保持一致。
-- 初始处理阶段可使用临时 `record-name`；最终命名由 `source_record.py finalize --rename` 根据 Argument 页文件名确定。
+- 普通论文 / 报告不使用临时 `record-name`；`record-name` 使用最终 `<论文命名>`，并与 Argument 文件名去掉 `Argument_` 前缀后的部分保持一致。
 - AI 不从 PDF 文件名或 DOI 直接猜最终命名；最终命名以 Argument 页路径和文件名为准。
 
 ### aliases
@@ -283,8 +322,8 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 
 | 来源类型 | 子命令 | 输出位置 |
 |---|---|---|
-| 期刊论文 | `article` | `sources/` |
-| 报告／政策文件／白皮书 | `report` | `sources/` |
+| 期刊论文 | `article` | `sources/`，有图时 finalize 后为 `sources/<论文命名>/` |
+| 报告／政策文件／白皮书 | `report` | `sources/`，有图时 finalize 后为 `sources/<论文命名>/` |
 | 专著整本书 source | `monograph` | `books/<book-folder>/` |
 | 论文集／编著整体 overview | `edited-volume-overview` | `books/<book-folder>/` |
 | 论文集章节 source | `book-chapter` | `books/<book-folder>/` |
@@ -293,19 +332,22 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 常用命令形态：
 
 ```bash
-python3 scripts/source_record.py article --file raw/FILENAME.pdf --record-name temp_or_known_name
-python3 scripts/source_record.py report --file raw/FILENAME.pdf --record-name temp_or_known_name
+python3 scripts/source_record.py article --file raw/FILENAME.pdf --record-name <论文命名>
+python3 scripts/source_record.py report --file raw/FILENAME.pdf --record-name <论文命名>
 python3 scripts/source_record.py finalize --argument "wiki/arguments/.../Argument_<Author>_<Year>_<JournalAbbrev>.md" --rename
+
+# 若创建 Argument 前判断该论文／报告需要图片占位或后续补图：
+python3 scripts/source_record.py finalize --argument "wiki/arguments/.../Argument_<Author>_<Year>_<JournalAbbrev>.md" --rename --with-figures
 ```
 
-`finalize` 只负责从 Argument 页回填 citation、按需重命名 source record/PDF，并同步 Argument 页中的 source wikilink；不维护 `extracted_to`。
+`finalize` 只负责从 Argument 页回填 citation、按需重命名 source record/PDF，并同步 Argument 页中的 source wikilink；`--with-figures` 会将普通论文／报告 source 移入 `sources/<论文命名>/` 并创建 `figures/`；不维护 `extracted_to`。
 
 ### Source Files
 
 - `raw/` 只放原始 PDF，不加 frontmatter，不编辑。
 - 普通论文或报告处理开始时，先用 `source_record.py article` 或 `source_record.py report` 固定 source record 和 PDF。
 - 普通论文或报告处理完成并写好 Argument 页后，再用 `source_record.py finalize --rename` 回填 citation 与最终命名。
-- 若 source 有配套 figure、图片等图像型材料，先在当前 Argument 或对应章节中写图片占位，后续由用户手动补图或整理配套文件。文本表格、可复制表格或可转写表格应尽量直接整理为 Markdown 表格。
+- 若普通论文或报告有配套 figure、图片等图像型材料，使用 `source_record.py finalize --rename --with-figures`，并按「图片和表格处理」写图片占位；文本表格、可复制表格或可转写表格应尽量直接整理为 Markdown 表格。
 - 书籍来源记录按对应专项 schema 执行。
 - `sources/` 与 `books/` 下的 source record 不进入 `related_*` 自动维护逻辑，但 `extracted_to` 由 `wiki_relations.py` 反向同步。
 
