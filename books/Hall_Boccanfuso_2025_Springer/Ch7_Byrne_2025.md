@@ -3,7 +3,6 @@ citation: "Byrne, K. T., & Clements, V. R. (2025). Innovation Centers and Econom
 extracted_to:
   - "[[Research Triangle Park]]"
   - "[[Placemaking]]"
-  - "[[Kendall Square]]"
   - "[[Purdue Discovery Park]]"
   - "[[TUFF]]"
   - "[[Tech Square at Georgia Tech]]"
@@ -14,10 +13,11 @@ extracted_to:
   - "[[Asset Mapping]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Innovation Hub]]"
-  - "[[University-Industry Collaboration]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
   - "[[Innovation Park]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Kendall Square]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

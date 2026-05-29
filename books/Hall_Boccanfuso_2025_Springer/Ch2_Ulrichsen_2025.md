@@ -8,13 +8,13 @@ extracted_to:
   - "[[Knowledge-Based Economization]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Third Mission (Universities)]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

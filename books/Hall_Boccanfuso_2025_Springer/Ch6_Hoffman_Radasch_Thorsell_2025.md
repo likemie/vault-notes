@@ -11,9 +11,9 @@ extracted_to:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Innovation Hub]]"
   - "[[University-Based Research Center]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Innovation Ecosystem]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

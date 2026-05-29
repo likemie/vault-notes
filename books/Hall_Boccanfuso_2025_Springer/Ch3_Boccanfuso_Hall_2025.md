@@ -9,7 +9,6 @@ extracted_to:
   - "[[Boundary Spanner]]"
   - "[[Industry Affiliate Program]]"
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
   - "[[Technology Transfer]]"
@@ -19,6 +18,7 @@ extracted_to:
   - "[[Knowledge Integration Community]]"
   - "[[Knowledge Transfer]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

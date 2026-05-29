@@ -22,6 +22,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Innovation Hub]]"
   - "[[Further Education]]"
+  - "[[University Spin-Out]]"
   - "[[Industry Advisory Board]]"
   - "[[Network of Academic Corporate Relations Officers]]"
   - "[[Professors of Practice]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Strategic Partnership in University-Industry Collaboration]]"
   - "[[Industry Affiliate Program]]"
   - "[[Master Agreement in University-Industry Collaboration]]"
+  - "[[Proof of Concept Programs]]"
   - "[[Concierge Service]]"
   - "[[Multi-University]]"
   - "[[Innovation Park]]"
@@ -51,7 +53,8 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[University, Inc. (Washburn, 2005)]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
   - "[[Ch4_Burrus_Patera_2025]]"
@@ -60,10 +63,11 @@ sources:
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
   - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
   - "[[Ch7_Byrne_2025]]"
+  - "[[Ch8_Gilison_Wilson_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-28
+updated: 2026-05-29
 ---
 
 # University-Industry Collaboration
@@ -153,6 +157,9 @@ updated: 2026-05-28
 
 > 关系型互动（relational）已取代交易型互动（transactional）成为主导——这反映了隐性知识在思想和[[Technology Transfer|技术转移]]中的关键作用（Schartinger et al., 2002）（Ulrichsen, 2025, p.44）。大企业也经历了从大量零散学术互动向少数战略性大学伙伴集中的转变（Ulrichsen, 2025, pp.44–45）。
 
+> [!warning]
+> 需要注意的是，产业赞助研究（sponsored research）虽然属于合同研究的一种，但几乎从不催生[[University Spin-Out|大学衍生企业]]。原因在于赞助协议中的知识产权（IP）独占安排——企业要求排他性使用权或商业化权利、限定研究范围为不足以独立成为产品的一小块拼图、并在衍生企业中保留治理权——构成了一颗"IP 毒丸"，使衍生企业无法进入更广泛的资本市场，从而削弱了研究人员的创业动力（Gilison & Wilson, 2025, pp.143-144）。详见 [[University Spin-Out]]。
+
 ### 关系建设路径
 
 Burrus 和 Patera（2025）将产学关系建设归纳为三个相互关联的阶段（Burrus & Patera, 2025, pp.74–79）：
@@ -190,6 +197,21 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 - **价值主张**：必须从企业角度定义、能在"电梯上升的短时间内讲清楚"。最常见的问题是：一线技术赞助人和大学教授清楚合作价值，但预算的真正决策者（企业高管层）不清楚
 - **关系经理**：双方都需要有明确责任的人认领关系，通过定期、不可跳过的会议维持对话。关系经理还需要理解对方的预算和决策日历——企业预算周期往往与大学学术日历冲突
 - **[[Master Agreement in University-Industry Collaboration|主协议]]（Master Agreement）**：覆盖知识产权归属与使用、赔偿、治理结构、出版、保密等关键条款。理想的主协议长期不变，每隔几年审查一次以适应新法律。已有主协议的企业可以在年底未花完预算时快速拨款给大学——这是主协议的一个常被低估的价值
+
+---
+
+### 产业在创业项目中的非货币参与
+
+> [!abstract]
+> Gilison 和 Wilson（2025, pp.148-151）指出，产业在催生[[University Spin-Out|大学衍生企业]]方面最有价值的贡献不是直接投资，而是提供"市场声音"（voice of the market）——包括客户需求、竞争格局、分销渠道、制造/部署成本和销售周期等商业洞察。产业直接发起衍生企业"是扼杀真正颠覆性创新的必然方式"（p.148）：企业天然偏好增量创新以保护现有业务，颠覆性创新如果威胁其产品线，内部激励机制会自动压制它。
+
+产业以非货币形式参与大学创业项目的两种关键杠杆：
+
+- **市场声音嵌入 PoP 项目**：产业成员参与[[Proof of Concept Programs|概念验证项目]]的评审、指导和结项决策，不评估学术质量，而是评估市场可行性——"这个问题有人愿意付钱解决吗？""这个市场有多大？"这类挑战性问题是学术评审者通常不会提出的，但在真实市场中是第一个需要回答的问题（pp.148-149）。
+- **人才杠杆**：企业最需要从大学获取的是熟练劳动力，招聘是最直接的商业利益。大学可以将产业对创业项目的参与（做评审、做导师、做顾问）打包为产业伙伴关系的一部分。对企业而言，花时间指导创业者同时也是"人才的早期侦察"（early talent scouting）（p.148）。
+
+> [!abstract]
+> Gilison 和 Wilson（2025, pp.151-152）将产业在大学衍生企业生命周期中的参与归纳为七个层级，从最轻量到最重度：前瞻性市场输入 → 早期项目评审 → 拨款申请指导 → 挑战与黑客马拉松 → 联盟投资与专家派驻 → 展示会与竞赛评委 → 直接投资。核心发现是：产业与大学的互动"很少直接催生初创企业"，但其价值在于"广泛意义上刺激了有意义的创新和创业"（p.151），通过市场声音和人力资本积累间接发挥作用。详见 [[Argument_Gilison_Wilson_2025_UniversityStartups]]。
 
 ---
 
@@ -303,3 +325,4 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 - [[Hall_Boccanfuso_2025_Springer_overview]]
 - [[Ch6_Hoffman_Radasch_Thorsell_2025]]
 - [[Ch7_Byrne_2025]]
+- [[Ch8_Gilison_Wilson_2025]]
