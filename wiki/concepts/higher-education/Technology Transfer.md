@@ -21,6 +21,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Boundary Spanner]]"
   - "[[University Spin-Out]]"
+  - "[[Membership-based Research Consortium]]"
   - "[[Performance Indicators]]"
 related_theories: []
 related_methods: []
@@ -101,6 +102,17 @@ updated: 2026-05-29
 - 两者通常隶属于大学的科研副校长（Vice President of Research），有时合并到企业参与办公室（Office of Corporate Engagement）
 
 Debackere 和 Veugelers（2005）进一步指出，技术转移办公室可以充当分散的研究团队与产业伙伴之间的"信息科学链接"（information science links），兼具[[Boundary Spanner|中介者]]（intermediary）和聚焦许可的交易专家（transaction specialist）双重角色（Boccanfuso & Hall, 2025, p.54）。
+
+### TTO 在衍生企业创建中的角色
+
+> [!abstract]
+> 在[[University Spin-Out|大学衍生企业]]的创建过程中，TTO 承担着关键的守门人和赋能者双重职能（Gilison & Wilson, 2025, pp.144-145, 147）。
+
+> **IP 尽职调查与质量信号**。TTO 对衍生企业的知识产权进行尽职调查，评估其可专利性和商业化前景。大学愿意为专利申请和法律保护投入真金白银，这一行为本身就构成了对外部投资者的质量信号——它表明 IP 经过了内部审核，大学对技术的商业化前景有足够的信心才会承担专利费用（pp.144-145）。
+
+> **商业化路径判断**。TTO 帮助教授评估技术适合走创业路线还是许可路线。部分大学在 TTO 内部设立了专门的新创企业支持团队——如 UCLA 技术开发组（Technology Development Group）内的 New Ventures Group——其职责不是传统的专利许可谈判，而是帮助教授评估商业化路径、撰写商业计划书、对接早期投资者（p.147）。
+
+> **许可条款设计**。TTO 协商的许可条款——是独占还是非独占、是否保留大学和发明人的某些权利、是否对衍生企业的运营范围施加限制——直接决定了衍生企业后续能否灵活运营和吸引外部投资。在[[Membership-based Research Consortium|会员制研究联盟]]模式中，TTO 设计的"优先许可权而非独占权"条款是绕过 IP 毒丸问题的关键制度安排（pp.143-144, 150-151）。
 
 ---
 

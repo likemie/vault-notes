@@ -1564,6 +1564,17 @@
     ]
   },
   {
+    "title": "Entrepreneur in Residence",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Entrepreneur in Residence.md",
+    "aliases": [
+      "驻校企业家",
+      "EIR",
+      "entrepreneur in residence",
+      "驻校创业者"
+    ]
+  },
+  {
     "title": "Entrepreneurial University",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Entrepreneurial University.md",
@@ -1823,6 +1834,19 @@
     ]
   },
   {
+    "title": "Membership-based Research Consortium",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Membership-based Research Consortium.md",
+    "aliases": [
+      "会员制研究联盟",
+      "会员制联盟",
+      "membership-based consortium",
+      "industry membership consortium",
+      "产业会员制联盟",
+      "会员制研究中心"
+    ]
+  },
+  {
     "title": "Multi-University",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Multi-University.md",
@@ -2075,6 +2099,18 @@
     ]
   },
   {
+    "title": "Technology Readiness Level",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Technology Readiness Level.md",
+    "aliases": [
+      "技术就绪度",
+      "技术就绪水平",
+      "TRL",
+      "Technology Readiness Levels",
+      "technical readiness level"
+    ]
+  },
+  {
     "title": "Technology Transfer",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Technology Transfer.md",
@@ -2083,7 +2119,10 @@
       "技术转让",
       "大学技术转移",
       "university technology transfer",
-      "tech transfer"
+      "tech transfer",
+      "TTO",
+      "Technology Transfer Office",
+      "技术转移办公室"
     ]
   },
   {
@@ -7046,6 +7085,17 @@
       "大学融资基金会",
       "The University Financing Foundation",
       "TUFF"
+    ]
+  },
+  {
+    "title": "UCSD Innovation and Commercialization Office",
+    "type": "fact",
+    "path": "wiki/facts/us/UCSD Innovation and Commercialization Office.md",
+    "aliases": [
+      "UCSD 创新与商业化办公室",
+      "UCSD 创新中心",
+      "UCSD innovation center",
+      "UCSD Office of Innovation and Commercialization"
     ]
   },
   {

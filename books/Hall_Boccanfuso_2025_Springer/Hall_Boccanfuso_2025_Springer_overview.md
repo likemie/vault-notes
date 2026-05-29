@@ -8,10 +8,10 @@ extracted_to:
   - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[Technology Transfer]]"
   - "[[Triple Helix]]"
   - "[[Argument_Hall(Ed.)_2025_Springer]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Technology Transfer]]"
 processed_date: 2026-05-27
 ---
 

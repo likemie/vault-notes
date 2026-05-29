@@ -16,9 +16,9 @@ extracted_to:
   - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[Technology Transfer]]"
   - "[[Triple Helix]]"
   - "[[Entrepreneurial University]]"
+  - "[[Technology Transfer]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
