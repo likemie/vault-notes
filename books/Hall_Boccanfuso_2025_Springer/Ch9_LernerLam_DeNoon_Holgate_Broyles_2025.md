@@ -2,9 +2,9 @@
 citation: "Lerner-Lam, A., DeNoon, P., Holgate, S., & Broyles, M. (2025). Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 155-174). Springer."
 extracted_to:
   - "[[Proof of Concept Programs]]"
-  - "[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]"
   - "[[Executive Education]]"
-  - "[[Third Mission (Universities)]]"
+  - "[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]"
+  - "[[Fourth Generation University]]"
 processed_date: 2026-05-30
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
