@@ -3,7 +3,6 @@ citation: "Gilison, S., & Wilson, A. (2025). University-Based Startups and Entre
 extracted_to:
   - "[[Technology Transfer]]"
   - "[[National Science Foundation]]"
-  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
   - "[[Corporate Venture Capital]]"
   - "[[Entrepreneurial University]]"
   - "[[Innovation Ecosystem]]"
@@ -13,6 +12,7 @@ extracted_to:
   - "[[Alliance for Southern California Innovation]]"
   - "[[First Look SoCal]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 processed_date: 2026-05-29
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
