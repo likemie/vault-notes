@@ -13,7 +13,9 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Proof of Concept Programs]]"
   - "[[Academic Freedom]]"
+  - "[[Non-dilutive Funding]]"
   - "[[Technology Transfer]]"
+  - "[[Corporate Venture Capital]]"
   - "[[Flow]]"
   - "[[Professional Judgment]]"
   - "[[Didaktik]]"
@@ -25,6 +27,7 @@ related_persons: []
 related_facts:
   - "[[Alliance for Southern California Innovation]]"
   - "[[National Science Foundation]]"
+  - "[[First Look SoCal]]"
   - "[[SBIR and STTR Programs]]"
   - "[[NSF I-Corps]]"
   - "[[Bayh-Dole Act of 1980]]"
@@ -145,18 +148,18 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ### 第二步：风投偏好与衍生企业风险特征的系统性不匹配
 
-10. 作者通过 First Look SoCal 展示会的七年运营经验，获得了对衍生企业融资困境的第一手观察。这个展示会每年从南加州顶尖研究机构——加州大学洛杉矶分校（University of California at Los Angeles, UCLA）、南加州大学（University of Southern California, USC）、加州理工学院（California Institute of Technology, Caltech）、加州大学圣地亚哥分校（University of California at San Diego, UCSD）等十余所——中甄选出 24 家前沿科技和生命科学衍生企业，向投资者和企业领袖进行路演（pp.144-145）。
+10. 作者通过 [[First Look SoCal]] 展示会的七年运营经验，获得了对衍生企业融资困境的第一手观察。这个展示会每年从南加州顶尖研究机构——加州大学洛杉矶分校（University of California at Los Angeles, UCLA）、南加州大学（University of Southern California, USC）、加州理工学院（California Institute of Technology, Caltech）、加州大学圣地亚哥分校（University of California at San Diego, UCSD）等十余所——中甄选出 24 家前沿科技和生命科学衍生企业，向投资者和企业领袖进行路演（pp.144-145）。
 
 ---
 
-11. 值得注意的是这 24 家入选企业的"起跑线"——它们已经是经过筛选的优质标的。几乎所有企业都获得过某种非稀释性资助（non-dilutive funding，即不需要出让股权的资金），包括大学内部的"产品验证"拨款（Proof of Product grants），或来自[[National Science Foundation|NSF]]、国立卫生研究院（National Institutes of Health, NIH）、能源部（Department of Energy, DOE）、国防部（Department of Defense, DOD）以及小企业创新研究（[[SBIR and STTR Programs|Small Business Innovation Research]], SBIR）和小企业技术转移（Small Business [[Technology Transfer]], STTR）计划的政府资助。它们的 IP 经过了大学技术转移办公室（Technology Transfer Office, TTO）的尽职调查，大学已经愿意为专利申请和法律保护投入真金白银——这说明 IP 的质量是经过内部审核的（pp.144-145）。
+11. 值得注意的是这 24 家入选企业的"起跑线"——它们已经是经过筛选的优质标的。几乎所有企业都获得过某种[[Non-dilutive Funding|非稀释性资助]]（non-dilutive funding，即不需要出让股权的资金），包括大学内部的"产品验证"拨款（Proof of Product grants），或来自[[National Science Foundation|NSF]]、国立卫生研究院（National Institutes of Health, NIH）、能源部（Department of Energy, DOE）、国防部（Department of Defense, DOD）以及小企业创新研究（[[SBIR and STTR Programs|Small Business Innovation Research]], SBIR）和小企业技术转移（Small Business [[Technology Transfer]], STTR）计划的政府资助。它们的 IP 经过了大学技术转移办公室（Technology Transfer Office, TTO）的尽职调查，大学已经愿意为专利申请和法律保护投入真金白银——这说明 IP 的质量是经过内部审核的（pp.144-145）。
 
 > [!example]
 > 在教育领域，一所教育学院的教授团队基于五年 NSF 资助的研究开发了一套"教师课堂话语分析系统"——自动转录课堂录音、标注师生互动模式、生成教学改进建议。大学 TTO 评估后认为有商业化前景，帮团队申请了专利，并给了 5 万美元的校内产品验证拨款做学区试点。项目还获得了一家基金会的 25 万美元非稀释性资助用于研发。在参加学校的创业展示会之前，团队已经投入了价值超过 50 万美元的研发（含 NSF 资助和大学配套），产品质量经过了初步验证。听起来是不是应该有一堆投资人排队等着投？但现实是——他们参加了三场路演，见了十几家投资机构，没有一家投钱。
 
 ---
 
-12. 为什么看起来很高质量的衍生企业融不到钱？因为企业风险投资（Corporate Venture Capital, CVC）的投资逻辑在三个维度上与早期衍生企业根本不匹配（p.145）：
+12. 为什么看起来很高质量的衍生企业融不到钱？因为[[Corporate Venture Capital|企业风险投资]]（Corporate Venture Capital, CVC）的投资逻辑在三个维度上与早期衍生企业根本不匹配（p.145）：
 
    - **战略与财务的双重标准**。CVC 不像传统 VC 只看财务回报，它还要问"这个投资对我母公司有什么战略价值？"——这要求衍生企业既要能赚钱，又要与母公司的业务方向对齐。两个条件同时满足的概率比只满足一个低得多。
    - **团队要求**。CVC 尤其是那些愿意投种子前轮次（pre-seed，即最早期的、往往还没有产品的阶段）的，要求创始团队有创业成功记录。但大学教授的履历是论文、引用和基金项目——"这在恰恰不是大学衍生企业的典型特征"（p.145）。教授可能是一个领域的全球顶尖专家，但他从来没有管过工资单、没有跟客户谈判过合同、没有做过市场调研。从 CVC 的角度看，这就是一个"高风险团队"。
@@ -343,12 +346,12 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [!warning]
 > **产业直接参与衍生企业创建的结构性障碍**
 > - 产业赞助研究中的知识产权（IP）捆绑构成"毒丸"——使衍生企业无法灵活创新、限制其接触更广泛的资本市场、从根本上削弱了研究人员的创业动力。三方（企业、大学、研究人员）各有其合理的利益诉求，但这些诉求的加总效应是"没有人有足够的动机去推动衍生企业创建"（pp.143-144）
-> - 企业风险投资（CVC）和传统风险投资（VC）的投资偏好——成熟团队、已验证技术、巨大市场机会——与早期衍生企业的风险特征之间存在系统性不匹配。资助种子前轮次（pre-seed）的 CVC 通常要求创始团队有成功记录，"这恰恰不是[[University Spin-Out|大学衍生企业]]的典型特征"（pp.145-146）
+> - [[Corporate Venture Capital|企业风险投资]]（CVC）和传统风险投资（VC）的投资偏好——成熟团队、已验证技术、巨大市场机会——与早期衍生企业的风险特征之间存在系统性不匹配。资助种子前轮次（pre-seed）的 CVC 通常要求创始团队有成功记录，"这恰恰不是[[University Spin-Out|大学衍生企业]]的典型特征"（pp.145-146）
 > - 衍生企业的技术就绪度（TRL）通常不足以满足企业试点项目的要求，形成了"需要试点来获得投资、需要投资来达到能试点的水平"的困局（p.145）
 
 > [!abstract]
 > **有效的大学-产业合作模式**
-> - [[Proof of Concept Programs|概念验证项目]]（PoP）将大学资助的非稀释性拨款（$10K-$100K，数月到一年周期）与产业导师制结合，帮助衍生企业在投入大量资源之前获得关键的市场验证——做出"去"或"留"的明智决策（pp.148-149）
+> - [[Proof of Concept Programs|概念验证项目]]（PoP）将大学资助的[[Non-dilutive Funding|非稀释性拨款]]（$10K-$100K，数月到一年周期）与产业导师制结合，帮助衍生企业在投入大量资源之前获得关键的市场验证——做出"去"或"留"的明智决策（pp.148-149）
 > - 驻校企业家（EIR）制度——全职或兼职团队支持多个衍生企业——是帮助衍生企业"跨越从实验室到市场鸿沟"的有效策略（pp.147-148）
 > - 联盟与会员制模型（如 UCSB SSLEEC）通过在制度设计中保留 IP 归大学所有、企业获得优先许可权（非独占）、研究人员保留独立创业权利，巧妙地绕过了 IP 毒丸问题（pp.150-151）
 > - 大学通过"人才杠杆"——企业需要招聘熟练劳动力——来协商产业对创业项目的参与（p.148）

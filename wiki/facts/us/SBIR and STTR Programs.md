@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Technology Transfer]]"
   - "[[University Spin-Out]]"
+  - "[[Non-dilutive Funding]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -44,7 +45,7 @@ updated: 2026-05-29
 ## 与产学合作的关联
 
 > [!abstract]
-> SBIR/STTR 计划的申请条件中明确要求产业代表提供直接的项目输入，产业反馈循环机制被内置到这些政府主导的孵化项目中。这使得它们成为[[University Spin-Out|大学衍生企业]]在进入市场前获得早期市场验证和非稀释性资助的重要渠道（p.149）。
+> SBIR/STTR 计划的申请条件中明确要求产业代表提供直接的项目输入，产业反馈循环机制被内置到这些政府主导的孵化项目中。这使得它们成为[[University Spin-Out|大学衍生企业]]在进入市场前获得早期市场验证和[[Non-dilutive Funding|非稀释性资助]]的重要渠道（p.149）。
 
 > [!note]
 > 大学衍生企业常常在获得私人风险投资之前先获得 SBIR/STTR 资助，作为非稀释性资金（non-dilutive funding）的关键来源。许多通过 [[NSF I-Corps]] 培训的团队也同时申请 SBIR/STTR 资助来推进技术开发（pp.144, 149）。

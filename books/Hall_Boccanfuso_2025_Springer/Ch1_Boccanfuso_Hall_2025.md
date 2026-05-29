@@ -14,10 +14,10 @@ extracted_to:
   - "[[Rising Above the Gathering Storm 2007]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer]]"
   - "[[National Science Foundation]]"
   - "[[Triple Helix]]"
+  - "[[Innovation Ecosystem]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

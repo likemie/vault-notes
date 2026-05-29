@@ -13,11 +13,16 @@ tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"
   - "level/higher-education"
-related_concepts: []
+related_concepts:
+  - "[[Translational Research]]"
+  - "[[Non-dilutive Funding]]"
+  - "[[Didaktik]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[NSF I-Corps]]"
+  - "[[National Science Foundation]]"
 related_arguments: []
 sources:
   - "[[Ch8_Gilison_Wilson_2025]]"
@@ -32,7 +37,7 @@ updated: 2026-05-29
 ## 定义
 
 > [!info]
-> 概念验证项目（Proof of Concept Programs, 也称 Proof of Product Programs, PoPs）是大学资助的转化研究孵化项目，通过非稀释性拨款（non-dilutive grants）与产业导师制相结合，帮助研究团队验证其技术的技术可行性和市场可行性（pp.148-149）。资助金额通常在 $10,000 至 $100,000 之间，项目周期为几个月到一年，目标是推进转化研究达到一个明确的里程碑，以揭示关于项目技术或市场前景的关键信息（pp.148-149）。
+> 概念验证项目（Proof of Concept Programs, 也称 Proof of Product Programs, PoPs）是大学资助的[[Translational Research|转化研究]]孵化项目，通过[[Non-dilutive Funding|非稀释性拨款]]（non-dilutive grants）与产业导师制相结合，帮助研究团队验证其技术的技术可行性和市场可行性（pp.148-149）。资助金额通常在 $10,000 至 $100,000 之间，项目周期为几个月到一年，目标是推进转化研究达到一个明确的里程碑，以揭示关于项目技术或市场前景的关键信息（pp.148-149）。
 
 ## 运作机制
 
@@ -54,7 +59,7 @@ updated: 2026-05-29
 ## 政府主导的 PoP 案例：NSF I-Corps
 
 > [!example]
-> [[NSF I-Corps]] 项目是政府主导的概念验证与创业培训的典型代表。该项目自 2011 年启动以来已孵化了超过 1,000 家初创企业，累计获得超过 $760 million 的后续融资（NSF, 2024，转引自 p.149）。其核心是教授学者创业思维，而非仅仅提供推进科学的资金。NSF 主任 Sethuraman Panchanathan 表示："成功不总是以是否创建了创业企业来衡量，也以如何将创业思维应用于你生活中所做的所有事情来衡量"（p.149）。
+> [[NSF I-Corps]] 项目是政府主导的概念验证与创业培训的典型代表。该项目自 2011 年启动以来已孵化了超过 1,000 家初创企业，累计获得超过 $760 million 的后续融资（[[National Science Foundation|NSF]], 2024，转引自 p.149）。其核心是[[Didaktik|教授学]]者创业思维，而非仅仅提供推进科学的资金。NSF 主任 Sethuraman Panchanathan 表示："成功不总是以是否创建了创业企业来衡量，也以如何将创业思维应用于你生活中所做的所有事情来衡量"（p.149）。
 
 ## 来源
 

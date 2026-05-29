@@ -1518,6 +1518,18 @@
     ]
   },
   {
+    "title": "Corporate Venture Capital",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Corporate Venture Capital.md",
+    "aliases": [
+      "企业风险投资",
+      "企业风投",
+      "CVC",
+      "corporate venture capital",
+      "corporate VC"
+    ]
+  },
+  {
     "title": "Critic and Conscience of Society",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Critic and Conscience of Society.md",
@@ -1827,6 +1839,18 @@
     "aliases": [
       "NACRO",
       "大学企业关系官网络"
+    ]
+  },
+  {
+    "title": "Non-dilutive Funding",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Non-dilutive Funding.md",
+    "aliases": [
+      "非稀释性资助",
+      "非稀释性资金",
+      "non-dilutive funding",
+      "non-dilutive grant",
+      "非稀释性拨款"
     ]
   },
   {
@@ -6758,6 +6782,15 @@
     "aliases": [
       "ESSA Evidence Standards",
       "ESSA证据标准"
+    ]
+  },
+  {
+    "title": "First Look SoCal",
+    "type": "fact",
+    "path": "wiki/facts/us/First Look SoCal.md",
+    "aliases": [
+      "First Look SoCal showcase",
+      "南加州创新展示会"
     ]
   },
   {
