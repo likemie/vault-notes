@@ -3,7 +3,6 @@ citation: "Boccanfuso, A., & Hall, R. (2025). Organization and Strategy for Univ
 extracted_to:
   - "[[Academic Engagement]]"
   - "[[Concierge Service]]"
-  - "[[Entrepreneurial University]]"
   - "[[Knowledge Integration Community]]"
   - "[[Knowledge Transfer]]"
   - "[[Partnership Continuum]]"
@@ -14,10 +13,11 @@ extracted_to:
   - "[[Industry Affiliate Program]]"
   - "[[Innovation Park]]"
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Entrepreneurial University]]"
+  - "[[Technology Transfer]]"
   - "[[Triple Helix]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"

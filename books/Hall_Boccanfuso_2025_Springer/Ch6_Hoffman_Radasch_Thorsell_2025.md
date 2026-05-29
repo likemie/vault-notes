@@ -9,11 +9,11 @@ extracted_to:
   - "[[Product-Specific Research in University-Industry Consortia]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
-  - "[[Innovation Ecosystem]]"
   - "[[Innovation Hub]]"
   - "[[University-Based Research Center]]"
   - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Innovation Ecosystem]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

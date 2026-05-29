@@ -5,7 +5,7 @@ aliases:
   - NSF
   - NSF TIP
   - NSF TIP Directorate
-summary: 1950 年根据 Vannevar Bush 报告建议创建的美国独立联邦机构，是联邦政府资助大学基础研究的核心渠道，2022 年后通过 TIP 理事会大幅扩展区域创新中心建设资助
+summary: "1950 年根据 Vannevar Bush 报告建议创建的美国独立联邦机构，是联邦政府资助大学基础研究的核心渠道，2022 年后通过 TIP 理事会大幅扩展区域创新中心建设资助"
 type: fact
 subtype: event
 region: US
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Hub]]"
+  - "[[Didaktik]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods: []
@@ -25,11 +26,13 @@ related_persons: []
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[NSF I-Corps]]"
   - "[[CHIPS and Science Act]]"
 related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
   - "[[Ch7_Byrne_2025]]"
+  - "[[Ch8_Gilison_Wilson_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -49,6 +52,14 @@ updated: 2026-05-29
 > NSF 与大学基础研究的关系构成了[[University-Industry Collaboration|产学合作]]的底层资助基础设施。大学研究者依赖 NSF 资助进行基础研究，产生可商业化的发现后，再通过产业伙伴或许可协议进行转化。从 [[Triple Helix]] 的视角来看，NSF 是"政府"螺旋中推动大学-产业互动的关键杠杆（p.13）。
 
 近年来，NSF 的角色从纯基础研究资助扩展到创新和商业化领域。NSF 与美国经济发展署（Economic Development Agency, EDA）共同承担推动区域[[Innovation Hub|创新枢纽]]的联邦使命，两者的资助对象超越单一锚定机构（anchor institution），要求涵盖多所大学和更广泛的地理区域（Byrne & Clements, 2025, pp.134–135）。
+
+## I-Corps 创业培训
+
+> [!info]
+> [[NSF I-Corps]]（Innovation Corps，创新兵团）是 NSF 于 2011 年启动的创业培训项目。其核心理念是[[Didaktik|教授学]]者创业思维，而非仅提供推进科学研究的资金。项目要求产业代表直接参与，在研究项目中内置产业反馈循环机制（Gilison & Wilson, 2025, p.149）。
+
+> [!success]
+> 自 2011 年启动以来，I-Corps 已孵化超过 1,000 家初创企业，这些企业累计获得超过 $760 million 的后续融资（NSF, 2024，转引自 p.149）。
 
 ## TIP 理事会
 
@@ -71,3 +82,4 @@ updated: 2026-05-29
 
 - [[Ch1_Boccanfuso_Hall_2025]]
 - [[Ch7_Byrne_2025]]
+- [[Ch8_Gilison_Wilson_2025]]

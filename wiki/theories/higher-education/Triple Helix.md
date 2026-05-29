@@ -33,6 +33,7 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[SBIR and STTR Programs]]"
   - "[[CHIPS and Science Act]]"
 related_arguments: []
 sources:
@@ -88,7 +89,7 @@ updated: 2026-05-26
 
 ### 1980s–1990s：政府重新激活三重螺旋
 
-冷战的结束、企业中央研发实验室的衰落和全球竞争加剧，促使政府重新推动大学-产业协作。1980 年美国 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 是关键转折点——该法案认识到联邦资助研究中产生的发明几乎没有进入市场，给予大学对这些发明的商业化权利（Shane, 2004）。同期配套机制包括 NSF 工程研究中心（ERC）和[[University-Based Research Center|产学合作研究中心]]（IUCRC）项目、1982 年 SBIR 项目的大幅扩展以及风险投资市场的扩张（Ulrichsen, 2025, pp.39–40）。
+冷战的结束、企业中央研发实验室的衰落和全球竞争加剧，促使政府重新推动大学-产业协作。1980 年美国 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 是关键转折点——该法案认识到联邦资助研究中产生的发明几乎没有进入市场，给予大学对这些发明的商业化权利（Shane, 2004）。同期配套机制包括 NSF 工程研究中心（ERC）和[[University-Based Research Center|产学合作研究中心]]（IUCRC）项目、1982 年 [[SBIR and STTR Programs|SBIR]] 项目的大幅扩展以及风险投资市场的扩张（Ulrichsen, 2025, pp.39–40）。
 
 英国同步推进：1983 年取消 British Technology Group 对大学 IP 的垄断；推出 Alvey 计划（[[University-Industry Collaboration|产学合作]]提升 IT 竞争力）；1993 年白皮书 *Realising Our Potential* 明确要求"科学界、产业、金融部门和政府之间建立更紧密的伙伴关系"（HMSO, 1993, p.8）（Ulrichsen, 2025, pp.40–41）。
 

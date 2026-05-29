@@ -1914,6 +1914,18 @@
     ]
   },
   {
+    "title": "Proof of Concept Programs",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Proof of Concept Programs.md",
+    "aliases": [
+      "概念验证项目",
+      "proof of concept",
+      "proof of product",
+      "PoP programs",
+      "概念验证计划"
+    ]
+  },
+  {
     "title": "Regulatory Regionalism",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Regulatory Regionalism.md",
@@ -2137,6 +2149,20 @@
       "大学社会责任",
       "USR",
       "university corporate social responsibility"
+    ]
+  },
+  {
+    "title": "University Spin-Out",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/University Spin-Out.md",
+    "aliases": [
+      "大学衍生企业",
+      "大学衍生公司",
+      "spin-out",
+      "spinout",
+      "university spinout",
+      "university-based startup",
+      "academic spin-off"
     ]
   },
   {
@@ -6566,6 +6592,16 @@
     ]
   },
   {
+    "title": "Alliance for Southern California Innovation",
+    "type": "fact",
+    "path": "wiki/facts/us/Alliance for Southern California Innovation.md",
+    "aliases": [
+      "南加州创新联盟",
+      "Alliance for SoCal Innovation",
+      "the Alliance"
+    ]
+  },
+  {
     "title": "American Attraction to Japanese Education 1980s",
     "type": "fact",
     "path": "wiki/facts/us/American Attraction to Japanese Education 1980s.md",
@@ -6793,10 +6829,17 @@
       "美国国家科学基金会",
       "NSF",
       "NSF TIP",
-      "NSF TIP Directorate",
-      "NSF 技术、创新与合作理事会",
-      "TIP Directorate",
-      "美国国家科学基金会技术、创新与合作理事会"
+      "NSF TIP Directorate"
+    ]
+  },
+  {
+    "title": "NSF I-Corps",
+    "type": "fact",
+    "path": "wiki/facts/us/NSF I-Corps.md",
+    "aliases": [
+      "NSF Innovation Corps",
+      "I-Corps",
+      "美国国家科学基金会创新兵团"
     ]
   },
   {
@@ -6873,6 +6916,19 @@
       "Rising Above the Gathering Storm",
       "迎接风暴",
       "NASEM 2007 Rising Above the Gathering Storm"
+    ]
+  },
+  {
+    "title": "SBIR and STTR Programs",
+    "type": "fact",
+    "path": "wiki/facts/us/SBIR and STTR Programs.md",
+    "aliases": [
+      "SBIR",
+      "STTR",
+      "Small Business Innovation Research",
+      "Small Business Technology Transfer",
+      "小企业创新研究计划",
+      "小企业技术转移计划"
     ]
   },
   {
@@ -7103,6 +7159,11 @@
     "title": "Argument_Byrne_2025_InnovationCenters",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Byrne_2025_InnovationCenters.md"
+  },
+  {
+    "title": "Argument_Gilison_Wilson_2025_UniversityStartups",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Gilison_Wilson_2025_UniversityStartups.md"
   },
   {
     "title": "Argument_Hall(Ed.)_2025_Springer",

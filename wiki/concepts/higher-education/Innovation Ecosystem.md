@@ -13,6 +13,9 @@ tags:
 related_concepts:
   - "[[Innovation Hub]]"
   - "[[Academic Freedom]]"
+  - "[[University Spin-Out]]"
+  - "[[Technology Transfer]]"
+  - "[[Proof of Concept Programs]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Triple Helix]]"
@@ -27,12 +30,13 @@ related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
   - "[[Ch2_Ulrichsen_2025]]"
+  - "[[Ch8_Gilison_Wilson_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
   - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-29
 ---
 
 # Innovation Ecosystem
@@ -84,6 +88,13 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 > [!note]
 硅谷在二战后不仅由斯坦福大学催生，也来自周边企业和政府投资。O'Mara（2019）的 The Code 记录了这一点："成功归功于一个充满活力和多样性的数千人群体，而不仅仅是那些主要参与者"（p.13）。曼哈顿计划（由 UC Berkeley 的 Oppenheimer 领导）和 MIT 辐射实验室的雷达研究为战后研发投资奠定了基础。Vannevar Bush 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调基础开放式研究的战略重要性，催生了 [[National Science Foundation|NSF]] 和国防部对大学基础研究的支持（p.13）。
 
+### 衍生企业与创业输出
+
+> [!abstract]
+> [[University Spin-Out|大学衍生企业]]的创建是创新生态系统的重要产出之一。然而，衍生企业在从实验室到市场的过程中面临多重结构性障碍：产业赞助研究中的知识产权约束实质上构成"毒丸"（poison pill）；企业风投和传统风投偏好后期阶段和成熟团队，与衍生企业的早期风险特征不匹配；衍生企业的技术就绪度（TRL）通常不足以满足企业试点项目的要求（Gilison & Wilson, 2025, pp.143-146）。
+
+> 生态系统对衍生企业的支持主要通过大学内部的创新基础设施来实现——[[Technology Transfer|技术转移]]办公室内的新创企业支持团队、[[Proof of Concept Programs|概念验证项目]]（PoP）、驻校企业家（EIR）制度，以及利用产业赞助和人才合作关系撬动产业参与创业指导（Gilison & Wilson, 2025, pp.147-148）。值得注意的是，产业在生态系统中最有价值的贡献是提供"市场声音"（voice of the market）而非直接提供资金或创建初创企业（Gilison & Wilson, 2025, p.148）。
+
 ---
 
 ## 理论基础
@@ -111,5 +122,6 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 
 - [[Ch1_Boccanfuso_Hall_2025]]
 - [[Ch2_Ulrichsen_2025]]
+- [[Ch8_Gilison_Wilson_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]
 - [[Ch6_Hoffman_Radasch_Thorsell_2025]]

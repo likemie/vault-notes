@@ -15,6 +15,7 @@ related_concepts:
   - "[[Corporate University]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Park]]"
+  - "[[Proof of Concept Programs]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods: []
@@ -23,6 +24,7 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Ch3_Boccanfuso_Hall_2025]]"
+  - "[[Ch8_Gilison_Wilson_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -53,6 +55,13 @@ updated: 2026-05-27
 - **激励兼容**：通过晋升与终身教职标准、知识产权收入分享等机制，使教师和学术单位有动力参与产业合作（p.52）
 - **战略整合**：将创新和创业语言纳入大学战略规划，校长和教务长层面明确表述[[University-Industry Collaboration|产学合作]]的愿景（Hall & Lulich, 2021，转引自 p.52）
 
+> [!note]
+> 近年来大学显著扩展了其支持衍生企业创建和创业精神的基础设施投资（Gilison & Wilson, 2025, pp.147-148）：
+> - **新创企业支持团队**：大型大学通常在技术转移办公室内设立专门团队支持衍生企业，如 UCLA 技术开发组内的 New Ventures Group，或建设专门的孵化器如 Austin Technology Incubator（p.147）
+> - **驻校企业家（EIR）**：大学通过聘请全职驻校企业家支持多个衍生企业，或组建具有多元经验的兼职 EIR 团队，这种人才投资已成为帮助衍生企业跨越"从实验室到市场鸿沟"的有效策略（pp.147-148）
+> - **[[Proof of Concept Programs|概念验证项目]]**：大学资助的非稀释性拨款（$10K-$100K）结合产业导师制，帮助研究团队验证技术的市场和商业可行性。产业成员在申请阶段参与项目评审、在执行阶段提供指导、在结项阶段给予反馈（pp.148-149）
+
 ## 来源
 
 - [[Ch3_Boccanfuso_Hall_2025]]
+- [[Ch8_Gilison_Wilson_2025]]

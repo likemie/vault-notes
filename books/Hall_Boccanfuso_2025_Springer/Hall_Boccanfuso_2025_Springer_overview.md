@@ -5,12 +5,12 @@ extracted_to:
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[Argument_Hall(Ed.)_2025_Springer]]"
-  - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
-  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Technology Transfer]]"
   - "[[Triple Helix]]"
 processed_date: 2026-05-27
 ---
@@ -26,3 +26,4 @@ processed_date: 2026-05-27
 - [[Argument_Narayan_Spohrer_2025_Metrics]]
 - [[Argument_Hoffman_2025_UI_Alliances_Consortia]]
 - [[Argument_Byrne_2025_InnovationCenters]]
+- [[Argument_Gilison_Wilson_2025_UniversityStartups]]
