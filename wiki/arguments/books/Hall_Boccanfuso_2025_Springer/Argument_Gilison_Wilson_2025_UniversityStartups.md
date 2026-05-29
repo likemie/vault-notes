@@ -49,21 +49,21 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 研究问题
 
 > [!question]
-> [[University Spin-Out|大学衍生企业]]（spin-outs）常被浪漫化——学生宿舍里的灵感、辍学创业、一夜成功。但现实中，"成功的大学衍生企业才是真正的独角兽"（p.142）。
+> [[University Spin-Out|大学衍生企业]]（spin-outs）常被浪漫化，学生宿舍里的灵感、辍学创业、一夜成功。但现实中，"成功的大学衍生企业才是真正的独角兽"（p.142）。
 >
 > 核心问题是，产业伙伴在大学衍生企业的创建和成长过程中，最有效、最实际的参与方式是什么？哪些结构性障碍限制了产业直接推动衍生企业创建的能力？哪些大学主导的项目机制能够有效撬动产业的市场洞察来提升衍生企业的成功几率？
 >
-> 两位作者均来自[[Alliance for Southern California Innovation|南加州创新联盟]]（Alliance for Southern California Innovation），拥有八年产业创新项目运营经验，并在撰写本章前对南加州主要研究型大学的 20 余位[[University-Industry Collaboration|产学合作]]领导者和企业创新负责人进行了访谈和调查（p.143）。这一定位使本章区别于传统学术研究——它的目标是提供"可操作的见解"（actionable insights），而非理论建构。
+> 两位作者均来自[[Alliance for Southern California Innovation|南加州创新联盟]]（Alliance for Southern California Innovation），拥有八年产业创新项目运营经验，并在撰写前对南加州主要研究型大学的 20 余位[[University-Industry Collaboration|产学合作]]领导者和企业创新负责人进行了访谈和调查（p.143）。这一定位区别于传统学术研究，目标是提供"可操作的见解"（actionable insights）而非理论建构。
 
 ---
 
 ## 研究方法
 
 > [!info]
-> 实践者指南（practitioner guide），基于作者在[[Alliance for Southern California Innovation|南加州创新联盟]]八年的直接运营经验，以及对南加州 20 余位大学[[University-Industry Collaboration|产学合作]]领导者和企业创新负责人的访谈、小组讨论和书面调查（pp.142-143）。访谈围绕三条主线：
+> 实践者指南（practitioner guide），基于[[Alliance for Southern California Innovation|南加州创新联盟]]八年的直接运营经验，以及对南加州 20 余位大学[[University-Industry Collaboration|产学合作]]领导者和企业创新负责人的访谈、小组讨论和书面调查（pp.142-143）。访谈围绕三条主线：
 > - 产业与大学之间最有效、最常见的催生衍生企业的合作形式是什么？
 > - 大学在开发有意义的产业伙伴关系方面最有效的机制是什么？
-> - 产业赞助研究是否是催生衍生企业的可行渠道？为什么是或为什么不是？
+> - 产业赞助研究是催生衍生企业的可行渠道吗？为什么？
 >
 > 研究发现以归纳方式呈现，属于实践经验的提炼而非系统性实证检验。
 
