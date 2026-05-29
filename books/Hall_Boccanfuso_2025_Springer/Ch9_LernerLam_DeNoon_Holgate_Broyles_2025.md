@@ -5,6 +5,7 @@ extracted_to:
   - "[[Executive Education]]"
   - "[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]"
   - "[[Fourth Generation University]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-30
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

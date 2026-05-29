@@ -58,17 +58,18 @@ related_arguments:
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
-  - "[[Ch4_Burrus_Patera_2025]]"
-  - "[[Ch2_Ulrichsen_2025]]"
   - "[[Ch3_Boccanfuso_Hall_2025]]"
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
-  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
+  - "[[Ch4_Burrus_Patera_2025]]"
   - "[[Ch7_Byrne_2025]]"
   - "[[Ch8_Gilison_Wilson_2025]]"
+  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
+  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
+  - "[[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]"
+  - "[[Ch2_Ulrichsen_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-29
+updated: 2026-05-30
 ---
 
 # University-Industry Collaboration
@@ -150,7 +151,7 @@ updated: 2026-05-29
 - **研究生奖学金与联合培养**
 - **原型开发与测试服务**：利用大学设施进行产品测试
 - **联合开发物理设施**：共同投资实验室、中试车间等
-- **培训与[[Executive Education|高管教育]]**：为企业员工提供[[Further Education|继续教育]]
+- **培训与[[Executive Education|高管教育]]**：为企业员工提供[[Further Education|继续教育]]。高管教育处于大学与产业的界面上，既是产学合作的产物，也是深化合作关系的入口。定制化高管教育项目将大学的前沿研究翻译为产业可用的知识框架，为更长期的研究合作和人才合作奠定信任基础（Lerner-Lam et al., 2025, pp.155-170）
 - **人员交流**（people exchange）：实习、联合聘任（joint appointments）、借调（secondments）
 - **非正式互动**：网络活动、联合参加会议、邀请企业进校园讲座——这些活动对建立社会关系和促进隐性知识流动至关重要
 
@@ -320,10 +321,11 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 ## 来源
 
 - [[Ch1_Boccanfuso_Hall_2025]]
-- [[Ch4_Burrus_Patera_2025]]
 - [[Ch2_Ulrichsen_2025]]
 - [[Ch3_Boccanfuso_Hall_2025]]
-- [[Hall_Boccanfuso_2025_Springer_overview]]
+- [[Ch4_Burrus_Patera_2025]]
 - [[Ch6_Hoffman_Radasch_Thorsell_2025]]
 - [[Ch7_Byrne_2025]]
 - [[Ch8_Gilison_Wilson_2025]]
+- [[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]
+- [[Hall_Boccanfuso_2025_Springer_overview]]
