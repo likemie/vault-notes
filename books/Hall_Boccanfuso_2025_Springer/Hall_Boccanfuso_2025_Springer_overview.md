@@ -7,10 +7,10 @@ extracted_to:
   - "[[Multi-University]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
-  - "[[Argument_Hall(Ed.)_2025_Springer]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Argument_Hall(Ed.)_2025_Springer]]"
   - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 ---
@@ -27,3 +27,4 @@ processed_date: 2026-05-27
 - [[Argument_Hoffman_2025_UI_Alliances_Consortia]]
 - [[Argument_Byrne_2025_InnovationCenters]]
 - [[Argument_Gilison_Wilson_2025_UniversityStartups]]
+- [[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]

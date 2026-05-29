@@ -13,6 +13,7 @@ related_concepts:
   - "[[Multi-University]]"
   - "[[Academic Freedom]]"
   - "[[Further Education]]"
+  - "[[Executive Education]]"
   - "[[Technology Transfer]]"
   - "[[Partnership Continuum]]"
   - "[[Innovation Hub]]"
@@ -98,7 +99,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 **步骤 3：三重回报的展开**
 
 - **研究与学术**：合作催生知识创造，为科学发现提供情境化，创造数据分析工具，在真实环境中开展试验。例如，2024 年诺贝尔奖得主开发的工具使大学中的科学发现成为可能（pp.4–5）。
-- **教育与学习**：行业通过课堂讲座、项目、合作教育和实习丰富学位项目。产学合作在工程硕士等专业学位以及面向在职人士的[[Further Education|继续教育]]和高管教育中尤为紧密（p.5）。
+- **教育与学习**：行业通过课堂讲座、项目、合作教育和实习丰富学位项目。产学合作在工程硕士等专业学位以及面向在职人士的[[Further Education|继续教育]]和[[Executive Education|高管教育]]中尤为紧密（p.5）。
 - **公共效益**：产学合作通过大学发明衍生的初创企业、技术商业化和校友贡献促进经济增长。同时带来医疗技术、减排、生产力提升和解决"重大挑战"（grand challenges，如气候变化和延长寿命）的进步（p.5）。
 
 ---

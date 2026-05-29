@@ -16,8 +16,8 @@ extracted_to:
   - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
   - "[[Innovation Park]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Kendall Square]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

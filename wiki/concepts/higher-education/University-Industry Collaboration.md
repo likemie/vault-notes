@@ -21,6 +21,7 @@ related_concepts:
   - "[[Third Mission (Universities)]]"
   - "[[Knowledge Transfer]]"
   - "[[Innovation Hub]]"
+  - "[[Executive Education]]"
   - "[[Further Education]]"
   - "[[University Spin-Out]]"
   - "[[Industry Advisory Board]]"
@@ -149,7 +150,7 @@ updated: 2026-05-29
 - **研究生奖学金与联合培养**
 - **原型开发与测试服务**：利用大学设施进行产品测试
 - **联合开发物理设施**：共同投资实验室、中试车间等
-- **培训与高管教育**：为企业员工提供[[Further Education|继续教育]]
+- **培训与[[Executive Education|高管教育]]**：为企业员工提供[[Further Education|继续教育]]
 - **人员交流**（people exchange）：实习、联合聘任（joint appointments）、借调（secondments）
 - **非正式互动**：网络活动、联合参加会议、邀请企业进校园讲座——这些活动对建立社会关系和促进隐性知识流动至关重要
 
@@ -223,7 +224,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 
 1. **科研办公室模式（Office of Research）**：由科研副校长办公室主管，聚焦[[Technology Transfer|技术转移]]、初创企业、企业赞助研究和经济发展——最常见于研究型大学（约 25%）
 2. **经济发展/政府关系模式（Economic Development/Government Relations）**：面向催化经济活动的政府关系，多见于公立大学，聚焦[[Innovation Hub|创新中心]]、商业园区、小企业支持和地方/州政府伙伴关系（约 3%）
-3. **企业/基金会关系模式（Corporate/Foundation Relations）**：设在大学发展/筹资部门，帮助营利和非营利组织在科研、赞助、高管教育、志愿服务和技术创新等方面导航（约 17%）
+3. **企业/基金会关系模式（Corporate/Foundation Relations）**：设在大学发展/筹资部门，帮助营利和非营利组织在科研、赞助、[[Executive Education|高管教育]]、志愿服务和技术创新等方面导航（约 17%）
 4. **伙伴关系模式（Partnerships, Corporate + Non-Corporate）**：管理与外部实体的战略伙伴关系，广泛导航但通常聚焦经济发展、商业化和创新（约 26%）
 5. **全面模式（Comprehensive, Spanning Missions）**：设立集中的企业关系办公室，以礼宾角色引导企业在多个领域与大学互动，整合捐赠、合同、教育、研究和经济发展（约 26%）
 

@@ -31,10 +31,11 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Ch2_Ulrichsen_2025]]"
+  - "[[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 ---
 
 # Third Mission (Universities)
@@ -57,6 +58,7 @@ updated: 2026-05-27
 - **二战后–1970s**：政府研究资金大幅扩张，大学与产业的具体需求"脱钩"（decoupled），部分大学教师对与产业密切合作产生怀疑，有些甚至从产业化研究中撤退（Arora et al., 2020; Youtie & Shapira, 2008）（p.38）。
 - **1980s–1990s**：在美国 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 和英国一系列政策改革（取消 British Technology Group 的 IP 垄断、Alvey 计划、1993 年白皮书 *Realising Our Potential*）的推动下，政府重新强调大学对经济竞争力的贡献（pp.39–41）。
 - **2000 年代至今**：第三使命正式化和制度化——大学设立了专门的领导角色、战略规划、支持办公室、内部转化基金、[[Innovation Park|科技园区]]和能力培训体系（pp.41–44）。
+- **2020 年代延伸——"第四宗旨"与"第四代大学"**。2020 年代以来，部分研究型大学开始将"直接参与应对复杂社会挑战（如气候变化、人工智能、公共卫生）"界定为一项独立的大学使命，区别于传统的教学、研究和学科服务，也与偏重经济发展的第三使命有所区分。哥伦比亚大学将其称为"第四宗旨"（Fourth Purpose）（Lerner-Lam et al., 2025, pp.161-162）。Malkov et al.（2024）的"第四代大学"（Fourth Generation University）概念与此呼应，强调大学应承担起更大的社会责任——加速研究的转化应用，参与应对重大挑战所需的创新。这一话语的出现在一定程度上反映了第三使命在制度化数十年后，大学正在寻找超越经济量化指标的社会价值叙事。
 
 ---
 
@@ -84,3 +86,4 @@ updated: 2026-05-27
 ## 来源
 
 - [[Ch2_Ulrichsen_2025]]
+- [[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]

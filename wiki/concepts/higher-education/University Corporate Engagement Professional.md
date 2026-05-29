@@ -17,6 +17,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Boundary Spanner]]"
   - "[[Concierge Service]]"
+  - "[[Executive Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -63,7 +64,7 @@ updated: 2026-05-27
 > **vs [[Concierge Service|礼宾服务]]**：礼宾服务是 UCEP 提供的一项具体功能——作为单一入口帮助企业导航大学内部复杂的组织结构。UCEP 的角色更全面，不仅提供导航，还包括主动识别合作机会、构建战略路线图和持续管理伙伴关系。
 
 > [!example]
-> **vs 技术许可官**：技术许可官专注于知识产权管理和商业化；UCEP 的职责范围更广，涵盖研究合作、人才发展、高管教育和战略联盟等多种产学互动形式。
+> **vs 技术许可官**：技术许可官专注于知识产权管理和商业化；UCEP 的职责范围更广，涵盖研究合作、人才发展、[[Executive Education|高管教育]]和战略联盟等多种产学互动形式。
 
 ---
 

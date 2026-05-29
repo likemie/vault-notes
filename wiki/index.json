@@ -1604,6 +1604,18 @@
     ]
   },
   {
+    "title": "Executive Education",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Executive Education.md",
+    "aliases": [
+      "高管教育",
+      "高管培训",
+      "executive training",
+      "professional executive education",
+      "non-degree professional education"
+    ]
+  },
+  {
     "title": "Further Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Further Education.md",
@@ -7257,6 +7269,11 @@
     "title": "Argument_Hoffman_2025_UI_Alliances_Consortia",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hoffman_2025_UI_Alliances_Consortia.md"
+  },
+  {
+    "title": "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_LernerLam_2025_TransdisciplinaryExecutiveEd.md"
   },
   {
     "title": "Argument_Narayan_Spohrer_2025_Metrics",

@@ -13,6 +13,8 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Industry Advisory Board]]"
+  - "[[Executive Education]]"
   - "[[Trade Mission in University-Industry Engagement]]"
   - "[[University Corporate Engagement Professional]]"
 related_theories: []
@@ -42,13 +44,13 @@ updated: 2026-05-28
 > [!abstract]
 > 校友参与[[University-Industry Collaboration|产学合作]]可通过七种具体策略实现（Burrus & Patera, 2025, pp.74–75）：
 
-1. **行业咨询委员会与圆桌讨论**：按行业组建，邀请校友企业高管、教师研究者和公司技术负责人共同探讨研究协同点和行业挑战。
+1. **[[Industry Advisory Board|行业咨询委员会]]与圆桌讨论**：按行业组建，邀请校友企业高管、教师研究者和公司技术负责人共同探讨研究协同点和行业挑战。
 2. **推动内部研究合作**：鼓励校友在公司内部倡导与母校的研究合作，他们既是面向公司的"内部销售"，又是面向大学的"需求翻译者"。
 3. **结构化指导计划**：校友指导学生和青年研究者，既帮助下一代成长，也为自己识别潜在的合作者。
 4. **公司校友群体**：将同一公司的校友员工组织成一个集体，共同关注公司利益，同时集体为母校向公司发声。
 5. **校友创业者对接**：识别正在创业的校友，将其与研究方向互补的教师匹配，可能催生联合创业、衍生企业或赞助研究。
 6. **创业展示与黑客马拉松**：邀请校友参与学生和教师的创新竞赛，在评审过程中自然发现投资或合作机会。
-7. **高管教育项目**：利用校友专长开发面向特定行业的高管培训课程，校友成为课程的共同设计者和授课者。
+7. **[[Executive Education|高管教育]]项目**：利用校友专长开发面向特定行业的高管培训课程，校友成为课程的共同设计者和授课者。
 
 ---
 

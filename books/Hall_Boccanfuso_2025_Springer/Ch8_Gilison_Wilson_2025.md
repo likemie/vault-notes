@@ -14,8 +14,8 @@ extracted_to:
   - "[[Membership-based Research Consortium]]"
   - "[[Non-dilutive Funding]]"
   - "[[First Look SoCal]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Kendall Square]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-29
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

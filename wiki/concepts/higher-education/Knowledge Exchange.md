@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Technology Transfer]]"
   - "[[Third Mission (Universities)]]"
+  - "[[Executive Education]]"
   - "[[Further Education]]"
   - "[[Innovation Park]]"
   - "[[Professors of Practice]]"
@@ -61,7 +62,7 @@ updated: 2026-05-27
 - **研究生奖学金与联合培养**（graduate fellowships）
 - **原型开发与测试服务**：利用大学设施为企业进行产品原型开发和性能测试
 - **联合开发物理设施**：大学与企业共同投资建设实验室、中试车间等
-- **培训与高管教育**：为企业员工提供[[Further Education|继续教育]]和专业技能培训
+- **培训与[[Executive Education|高管教育]]**：为企业员工提供[[Further Education|继续教育]]和专业技能培训
 - **人员交流**（people exchange）：包括实习、联合聘任（joint appointments）、借调（secondments）等
 - **非正式互动**：网络活动、联合参加学术-产业会议、邀请企业进校园讲座——这些活动虽不产生直接经济收益，但在建立社会关系和促进隐性知识流动方面的作用不可忽视
 
