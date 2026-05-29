@@ -505,6 +505,10 @@ def check_old_references(path: Path, text: str, issues: List[Issue]) -> None:
         ("scripts/update_wiki_index.py", "old index script name; use scripts/wiki_index.py"),
         ("wiki/wiki-index.md", "old wiki index path; use wiki/index.md"),
         ("wiki-index.md", "old wiki index filename; use index.md if referring to generated wiki homepage"),
+        ("schema/schema-monograph-pdf.md", "old monograph schema; use schema/schema-monograph.md"),
+        ("schema/schema-monograph-epub.md", "old monograph schema; use schema/schema-monograph.md"),
+        ("schema/schema-figures.md", "removed figures schema; use image placeholders in the current Argument page"),
+        ("schema-figures.md", "removed figures schema; use image placeholders in the current Argument page"),
     ]
     for pattern, msg in patterns:
         start = 0
@@ -595,6 +599,21 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
             for tag in tags:
                 if not isinstance(tag, str) or not TAG_RE.match(tag):
                     issues.append(Issue("WARN", rel(path), f"tag should be lowercase English slash/hyphen style: {tag!r}", line=frontmatter_line_number(fm, "tags"), code="TAG_FORMAT"))
+
+    # Creator fields.
+    for field in ["authors", "editors"]:
+        if field in data:
+            val = data.get(field)
+            if not isinstance(val, list):
+                issues.append(Issue("ERROR", rel(path), f"{field} must be a YAML list", line=frontmatter_line_number(fm, field), code=f"{field.upper()}_TYPE"))
+            else:
+                for item in val:
+                    if not isinstance(item, str):
+                        issues.append(Issue("ERROR", rel(path), f"{field} items must be strings: {item!r}", line=frontmatter_line_number(fm, field), code=f"{field.upper()}_ITEM"))
+
+    # Argument entries should include authors field for AI-filled creator metadata.
+    if typ == "argument" and "authors" not in data:
+        issues.append(Issue("WARN", rel(path), "argument entry should include authors field", code="ARGUMENT_AUTHORS_MISSING"))
 
     # related_* and sources are script-maintained but should be valid lists.
     for field in AUTO_RELATION_FIELDS:
@@ -747,6 +766,8 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
 
     if typ == "argument" and "aliases" in data:
         issues.append(Issue("WARN", rel(path), "argument template should not include aliases", code="TEMPLATE_ARGUMENT_ALIASES"))
+    if typ == "argument" and "authors" not in data:
+        issues.append(Issue("WARN", rel(path), "argument template should include authors field", code="TEMPLATE_ARGUMENT_AUTHORS_MISSING"))
     if typ in {"concept", "theory", "method", "person", "fact"} and "aliases" not in data:
         issues.append(Issue("WARN", rel(path), f"{typ} template should include aliases", code="TEMPLATE_ALIASES_MISSING"))
 
