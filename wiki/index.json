@@ -3202,6 +3202,29 @@
     ]
   },
   {
+    "title": "Introduction (Research Writing)",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Introduction (Research Writing).md",
+    "aliases": [
+      "引言（研究写作）",
+      "研究引言",
+      "scholarly introduction",
+      "academic introduction",
+      "research introduction"
+    ]
+  },
+  {
+    "title": "Inverted Triangle Literature Search",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Inverted Triangle Literature Search.md",
+    "aliases": [
+      "倒三角文献检索",
+      "inverted triangle",
+      "倒三角策略",
+      "broadening literature search"
+    ]
+  },
+  {
     "title": "Justified Warrants",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Justified Warrants.md",

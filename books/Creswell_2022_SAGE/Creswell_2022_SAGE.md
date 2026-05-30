@@ -49,7 +49,6 @@ extracted_to:
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
   - "[[Institutional Review Board]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Coherence in Writing]]"
   - "[[Hook and Eye Technique]]"
   - "[[Informed Consent]]"
@@ -57,6 +56,11 @@ extracted_to:
   - "[[Research Ethics]]"
   - "[[Voice, Tense, and Concision in Academic Writing]]"
   - "[[Writing Habit]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Deficiencies Model for an Introduction]]"
+  - "[[Introduction (Research Writing)]]"
+  - "[[Inverted Triangle Literature Search]]"
+  - "[[Research Problem]]"
 processed_date: 2026-05-30
 ---
 
