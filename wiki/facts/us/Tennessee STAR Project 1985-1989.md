@@ -3,7 +3,7 @@ title: Tennessee STAR Project 1985-1989
 aliases:
   - Tennessee STAR Project
   - 田纳西STAR项目
-summary: 1985 至 1989 年田纳西州实施的大型班额缩减随机试验，成为教育因果识别、班级规模政策和结果外推争论中的关键案例
+summary: "1985年至1989年在田纳西州开展的大规模班级规模随机对照试验，是教育领域最著名的RCT之一，为小班化教学提供了核心因果证据。"
 type: fact
 subtype: event
 region: us

@@ -5,7 +5,7 @@ aliases:
   - "UCSD 创新中心"
   - "UCSD innovation center"
   - "UCSD Office of Innovation and Commercialization"
-summary: "加州大学圣地亚哥分校在副校长 Paul Roben 领导下采用的产业咨询联盟模式：大学主动邀请多家企业组成咨询联盟，在研发启动前提供关于未来技术缺口和机会的市场输入，翻转了传统'企业来找大学'的产学合作方向"
+summary: "加州大学圣地亚哥分校在副校长 Paul Roben 领导下采用的产业咨询联盟模式：大学主动邀请多家企业组成咨询联盟，在研发启动前提供关于未来技术缺口和机会的市场输入，翻转了传统企业来找大学的产学合作方向"
 type: fact
 subtype: event
 region: US

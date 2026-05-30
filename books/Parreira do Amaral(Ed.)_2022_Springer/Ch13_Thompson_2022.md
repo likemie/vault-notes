@@ -7,10 +7,10 @@ extracted_to:
   - "[[Learning Analytics]]"
   - "[[Competitiveness in Higher Education]]"
   - "[[Online Self-Assessment]]"
-  - "[[Preemptive Governance]]"
   - "[[Promising Student]]"
   - "[[Stakeholder University]]"
   - "[[Governmentality]]"
+  - "[[Preemptive Governance]]"
   - "[[Societies of Control]]"
 processed_date: 2026-05-20
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"

@@ -4,8 +4,8 @@ extracted_to:
   - "[[Argument_Blass_2020_JESP]]"
   - "[[Evidence-Based Education]]"
   - "[[Problem-Based Learning]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Visible Learning]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-05

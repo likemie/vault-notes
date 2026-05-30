@@ -3,9 +3,9 @@ citation: "Parreira do Amaral, M., & Thompson, C. (Eds.). (2022). Geopolitical T
 extracted_to:
   - "[[Argument_Parreira do Amaral_2022_Springer]]"
   - "[[Global Regionalisms in Higher Education]]"
-  - "[[Regulatory Regionalism]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Regulatory Regionalism]]"
   - "[[Horizon 2020 SSH Integration]]"
   - "[[Horizon Europe Missions]]"
   - "[[Minerva University]]"

@@ -300,10 +300,10 @@ Total entries: **178**
 - [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接
 - [[Success for All]] — Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断
 - [[Tech Square at Georgia Tech]] — Georgia Tech 于 1990 年代末开发的产学合作创新园区，由校长 Wayne Clough 推动，以管理学院为锚点，经 TUFF 运营支持，是美国最成功的大学创新中心之一
-- [[Tennessee STAR Project 1985-1989]] — 1985 至 1989 年田纳西州实施的大型班额缩减随机试验，成为教育因果识别、班级规模政策和结果外推争论中的关键案例
+- [[Tennessee STAR Project 1985-1989]] — 1985年至1989年在田纳西州开展的大规模班级规模随机对照试验，是教育领域最著名的RCT之一，为小班化教学提供了核心因果证据。
 - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
 - [[TUFF]] — 1982 年由 Georgia Tech 校友在亚特兰大创立的 501(c)(3) 运营基金会，以私营部门交付模式为大学建设研究设施，四十余年来为产学合作创新中心提供开发、融资和场所营造服务
-- [[UCSD Innovation and Commercialization Office]] — 加州大学圣地亚哥分校在副校长 Paul Roben 领导下采用的产业咨询联盟模式：大学主动邀请多家企业组成咨询联盟，在研发启动前提供关于未来技术缺口和机会的市场输入，翻转了传统'企业来找大学'的产学合作方向
+- [[UCSD Innovation and Commercialization Office]] — 加州大学圣地亚哥分校在副校长 Paul Roben 领导下采用的产业咨询联盟模式：大学主动邀请多家企业组成咨询联盟，在研发启动前提供关于未来技术缺口和机会的市场输入，翻转了传统企业来找大学的产学合作方向
 - [[University City Science Center]] — 费城的非营利产学合作组织，通过项目设计激励创业者关系发展并提供培训和资源，聚焦费城本地相对优势，后建立实体空间进一步集聚创业者、学者和产业伙伴
 - [[University Industry Demonstration Partnership]] — 2004 年由美国国家科学院发起、2015 年独立为非营利组织的全球性产学合作组织，以合同共识和伙伴关系连续体为代表成果，同时是产学实践者的核心国际交流平台
 - [[University of Illinois Research Park]] — 伊利诺伊大学的研究园区，执行主任同时兼任大学经济发展办公室主任，下设对外合作、孵化器 EnterpriseWorks、企业活动与创新外联等专职岗位，以整合组织架构链接产业伙伴与大学资源

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/research-methodology/Literature Review.md",
+                "file": "wiki/concepts/comparative-education/Confucian Tutoring Style.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literature Review"
+              "title": "Confucian Tutoring Style"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 403.5
   },
   "right": {
     "id": "2b6b615f6587554a",
@@ -190,32 +190,32 @@
   },
   "active": "c3563aa604399e77",
   "lastOpenFiles": [
+    "wiki/concepts/comparative-education/Codeswitcher.md",
+    "wiki/concepts/comparative-education/Chinese Learner.md",
+    "wiki/concepts/comparative-education/Cognitive Source.md",
+    "wiki/concepts/curriculum/Whole Language.md",
+    "wiki/concepts/curriculum/Simple View of Reading.md",
+    "wiki/concepts/curriculum/Phenomenon-Based Learning.md",
+    "wiki/concepts/curriculum/Official Knowledge.md",
+    "wiki/concepts/curriculum/Didaktik.md",
+    "wiki/concepts/educational-philosophy/Buen Vivir.md",
+    "wiki/concepts/educational-philosophy/Cargo Cult Science.md",
+    "wiki/concepts/educational-philosophy/Blind Spot in Observation.md",
+    "wiki/concepts/educational-philosophy/Narrative Knowledge.md",
+    "wiki/concepts/research-methodology/Statistical Significance.md",
+    "wiki/concepts/research-methodology/Researcher Degrees of Freedom.md",
+    "wiki/concepts/research-methodology/Publication Bias.md",
+    "wiki/concepts/research-methodology/Preregistration.md",
+    "wiki/concepts/research-methodology/Pragmatic Paradigm.md",
+    "wiki/concepts/research-methodology/Postpositivism.md",
+    "wiki/concepts/sociology-of-education/Lost Mode.md",
+    "wiki/concepts/sociology-of-education/Fourth Culture.md",
+    "wiki/concepts/research-methodology/Literature Review.md",
+    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
     "wiki/concepts/educational-policy-reform/School Effectiveness.md",
     "wiki/concepts/comparative-education/Tall Poppy Syndrome.md",
     "wiki/concepts/comparative-education/Cultural Defense Strategies.md",
-    "wiki/concepts/comparative-education/Codeswitcher.md",
     "wiki/concepts/comparative-education/Talent Assumption.md",
-    "wiki/concepts/comparative-education/Intellectual-Social Divide.md",
-    "wiki/concepts/comparative-education/Zero-Sum Competition.md",
-    "wiki/concepts/comparative-education/Nerd.md",
-    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-    "wiki/concepts/sociology-of-education/Life Power.md",
-    "wiki/concepts/comparative-education/Ideal Learner.md",
-    "wiki/concepts/comparative-education/Self-Continuity, Self-Distinctness, and Self-Agency.md",
-    "wiki/concepts/learning-science-cognitive-science/Surface and Deep Learning.md",
-    "wiki/concepts/comparative-education/Listening-Oriented Learning.md",
-    "wiki/concepts/comparative-education/Socratic Tutoring Style.md",
-    "wiki/concepts/comparative-education/Confucian Tutoring Style.md",
-    "wiki/concepts/comparative-education/Devil's Advocate.md",
-    "wiki/concepts/political-economy-geopolitics/Regulatory Regionalism.md",
-    "wiki/concepts/political-economy-geopolitics/Preemptive Governance.md",
-    "wiki/concepts/political-economy-geopolitics/Knowledge Capitalism.md",
-    "wiki/concepts/political-economy-geopolitics/Innovation Models Evolution.md",
-    "wiki/concepts/political-economy-geopolitics/Transformative Change.md",
-    "wiki/concepts/political-economy-geopolitics/Innovation Policy Paradigms.md",
-    "wiki/concepts/sociology-of-education/Hukou System.md",
-    "wiki/concepts/educational-technology/Reusability Paradox.md",
-    "wiki/concepts/research-methodology/5-3-20 Rule.md",
     "scripts/analyze_concepts.py",
     "books/Zheng_2023_ShanghaiSanlian/金榜题名之后_大学生出路分化之谜.epub",
     "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",

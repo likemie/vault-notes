@@ -3,9 +3,9 @@ citation: "Rambla, X. (2022). Imaginaries of Education and Innovation in the Eur
 extracted_to:
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Theories of Policy Change]]"
-  - "[[Regulatory Regionalism]]"
   - "[[Neocorporatism]]"
   - "[[Network Governance]]"
+  - "[[Regulatory Regionalism]]"
   - "[[Selectivity]]"
   - "[[Performance Indicators]]"
   - "[[EU Skills Agenda]]"
