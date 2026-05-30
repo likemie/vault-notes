@@ -44,7 +44,7 @@ updated: '2026-05-18'
 
 ## 核心命题
 
-> [!abstract] 核心命题
+> [![[Abstract]]] 核心命题
 > Escobar 援引 Irwin (2015) 提出了转型设计的十条原则。Amos (2022, pp.61–62) 在正文中全文引用。其完整逻辑如下：
 >
 > 1. **以生命[[Luhmann's Systems Theory|系统理论]]理解和应对 wicked problems（棘手问题）**——wicked problems 不能简化为单个变量或单一学科的方法；需要 Maturana & Varela 的[[Autopoiesis|自创生]]系统理论提供的整体视角

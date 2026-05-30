@@ -46,7 +46,7 @@ updated: 2026-05-18
 
 ## 理论内部结构
 
-> [!abstract] 折射的三个维度
+> [![[Abstract]]] 折射的三个维度
 > 框架主张学校可能沿不同维度以不同方式塑造不平等（Downey & Condron, 2016, p.5）：
 >
 > - **SES 认知技能差距**：证据一致表明学校是补偿性的——差距在学校期间增长更慢（Downey et al., 2004; Entwisle & Alexander, 1992; Heyns, 1978）

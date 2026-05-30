@@ -1,6 +1,7 @@
 ---
 citation: "Pampaka, M., Williams, J., & Homer, M. (2016). Is the educational 'what works' agenda working? Critical methodological developments. International Journal of Research & Method in Education, 39(3), 231-236."
 extracted_to:
+  - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[Cluster Randomized Trials]]"
@@ -9,7 +10,6 @@ extracted_to:
   - "[[Julian Williams]]"
   - "[[Maria Pampaka]]"
   - "[[Matt Homer]]"
-  - "[[Argument_Pampaka_2016_IJRME]]"
 processed_date: 2026-05-02
 ---
 

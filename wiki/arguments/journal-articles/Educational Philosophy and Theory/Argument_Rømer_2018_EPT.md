@@ -50,7 +50,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - 教育[[Philosophical Analysis in Education|哲学分析]]——以 [[Bildung]] 传统（[[John Dewey|Dewey]]、[[Immanuel Kant|Kant]]、Arendt、Biesta）为对照审视 [[John Hattie|Hattie]] 的理论
 > - [[Radical Constructivism]] — 识别为 Hattie 的学习理论根基
 > - [[Popper's Three Worlds Theory]] — 识别为 Hattie 的认识论声称基础，论证其被严重误读

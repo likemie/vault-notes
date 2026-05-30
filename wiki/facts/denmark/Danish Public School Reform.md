@@ -46,7 +46,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
+> [![[Abstract]]] 政策文本摘要
 > > "In 2014, a majority in the Danish Parliament launched an ambitious public school reform. One of the important elements of the reform was to replace subject objectives with learning objectives. The final aim of education should not be what teachers teach, but what students learn."（Qvortrup, 2019, p.5）
 >
 > 在这一转变中，对 [[John Hattie|Hattie]] 和 [[Visible Learning]] 有明确的引用。改革将可见的学习成果置于教育目标的核心（Qvortrup, 2019, p.5）。

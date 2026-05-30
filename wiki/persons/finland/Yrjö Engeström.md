@@ -55,7 +55,7 @@ updated: 2026-05-26
 
 ## 主要著作
 
-> [!abstract]
+> [![[Abstract]]]
 
 - Engeström, Y. (1987). *Learning by Expanding: An Activity-Theoretical Approach to Developmental Research*. Orienta-Konsultit. — 提出第二代[[Third Generation Activity Theory|活动理论]]，在 Vygotsky 主体-中介工具-客体三角基础上增加共同体、规则和劳动分工维度，将分析单元从个体行为扩展为集体活动系统（Wang & McLaughlin, 2025, p.590）。
 - Engeström, Y. (2001). Expansive learning at work: Toward an activity theoretical reconceptualization. *Journal of Education and Work*, 14(1), 133–156. — 提出第三代活动理论，聚焦多个活动系统之间的互动与边界跨越，引入扩展性学习（expansive learning）和扩展性改造（expansive transformation）概念（Wang & McLaughlin, 2025, pp.590-591）。

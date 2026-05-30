@@ -46,7 +46,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [![[Abstract]]] 核心要素
 > - **面向未知未来**：[[Wolfgang Klafki]] 指出，政策制定者和教师不可能预先知道未来学生究竟需要哪些知识、认知和态度；因此课程不能只是把既有科学知识窄化传递（Schaffar & Wolff, 2024, p.6）。
 > - **[[Epochal Key Problems|时代关键问题]]**：[[Wolfgang Klafki]] 主张以 [[Epochal Key Problems]] 指导课程规划，例如环境危机、社会不平等和战争。这些问题同时要求学科深度与跨学科合作（Schaffar & Wolff, 2024, pp.6-7）。
 > - **批判、论证与共情**：Didaktik 与 [[Bildung]] 传统要求教育促进批判、自我反思、论证能力和共情，而不是只获得预定义、可测量、可管理的知识项目（Schaffar & Wolff, 2024, p.10）。

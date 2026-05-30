@@ -175,7 +175,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 12. 研究园区在这一过程中扮演两个关键角色（p.126）：
 
-> [!abstract]
+> [![[Abstract]]]
 > - **召集者（convener）**：把不同利益相关者拉到一起，创造相互认识的场合
 > - **翻译者（translator）**：帮助学术界理解产业的语言和需求，帮助产业理解学术研究的性质和节奏
 

@@ -63,7 +63,7 @@ updated: 2026-05-19
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Gunter, H. (1997). *Rethinking Education: The Consequences of Jurassic Management*. London: Cassell. — 早期对管理主义在教育中影响的批判
 > - Gunter, H. (2001). *Leaders and Leadership in Education*. London: Paul Chapman. — 教育领导力的批判性基础分析
 > - Gunter, H. (2002). Purposes and positions in the [[Champ|field]] of education management: Putting [[Pierre Bourdieu|Bourdieu]] to work. *Educational Management & Administration*, 30, 7–26. — 运用 Bourdieu 框架分析教育管理领域的知识政治

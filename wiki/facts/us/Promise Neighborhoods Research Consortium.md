@@ -42,12 +42,12 @@ updated: '2026-05-18'
 
 ## 评级对象与范围
 
-> [!abstract] 评级对象与范围
+> [![[Abstract]]] 评级对象与范围
 > PNRC 被纳入 12 个清算中心的标准比较，但没有进入最终项目评级一致性分析，因为它不对项目效果进行分层评级（[[Top Institute for Evidence-Based Education Research|TIER]]-wise ratings of programs for effectiveness）（Wadhwa et al., 2024, p.15）。
 
 ## 证据标准
 
-> [!abstract] 证据标准
+> [![[Abstract]]] 证据标准
 > 在设计标准编码中，PNRC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 为 1，对 ITS 为 1（Wadhwa et al., 2024, p.10）。
 >
 > PNRC 是要求 [[Intent-to-Treat Analysis|ITT]] 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Social Programs That Work|SPTW]]。它在复制标准上强调多地点研究以及跨地点和文化情境复制的效果（Wadhwa et al., 2024, pp.9, 11）。
@@ -56,7 +56,7 @@ updated: '2026-05-18'
 
 ## 与其他清算中心的差异
 
-> [!abstract] 与其他清算中心的差异
+> [![[Abstract]]] 与其他清算中心的差异
 > PNRC 的特殊性在于它评价项目、政策和实践，但不提供用于最终一致性分析的项目效果分层评级。方法上，它是少数明确提及 RDD 和 ITS 的清算中心之一，但对这些设计的标准描述程度低于 [[What Works Clearinghouse|WWC]] 和 [[Home Visiting Evidence of Effectiveness|HomVEE]]（Wadhwa et al., 2024, pp.10–11, 15）。
 
 ## 相关概念／政策

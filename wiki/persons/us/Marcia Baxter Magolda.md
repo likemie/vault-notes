@@ -51,7 +51,7 @@ updated: 2026-05-19
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Baxter Magolda, M. B. (2001). *Making Their Own Way: Narratives for Transforming Higher Education to Promote Self-Development*. Stylus. — 提出[[Self-Authorship|自我主导性]]的发展阶段模型
 > - Baxter Magolda, M. B. & King, P. M. (2012). *Assessing Meaning Making and Self-Authorship: Theory, Research, and Application*. — 系统阐述自我主导性的评估方法与应用（[[Yajun Zheng|郑雅君]]，2023）
 >

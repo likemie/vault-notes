@@ -40,7 +40,7 @@ updated: 2026-05-23
 
 ## 政策文本摘要
 
-> [!abstract]
+> [![[Abstract]]]
 > CUREE 的主要任务不是开展新研究，而是传播关于[[Effective Teaching|有效教学]]过程和实践的严格研究发现。它还通过专业发展活动和政策分析与学校、政策制定者合作，用以评估政府倡议的质量（Pellegrini & Vivanet, 2021, p.34）。
 
 ## 时间线

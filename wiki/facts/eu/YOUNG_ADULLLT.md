@@ -46,7 +46,7 @@ updated: '2026-05-18'
 
 ## 项目概况
 
-> [!abstract]
+> [![[Abstract]]]
 > YOUNG_ADULLLT 项目的核心设计如下（Rambla, 2022, p.172）：
 >
 > - **资助框架**：Horizon 2020（Grant No 693167）

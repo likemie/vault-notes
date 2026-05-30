@@ -46,7 +46,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 因果效应的定义与估计的区分
+> [![[Abstract]]] 因果效应的定义与估计的区分
 > 潜在结果框架的核心贡献在于清楚地区分了因果效应的**定义**与因果效应的**估计**——此前两者常被混淆。如果因果效应没有被明确定义，正在估计什么也必然是不清楚的（Berk, 2011, p.193）。
 >
 > > "The potential outcomes formulation allows one to clearly distinguish between the definition of a causal effect and the estimation of a causal effect. This is an important advance. Too often the two have been conflated with confusion the usual result." (Berk, 2011, p.193)

@@ -42,7 +42,7 @@ updated: 2026-05-28
 
 ## 主要著作
 
-> [!abstract]
+> [![[Abstract]]]
 > - Spohrer, J. C. (2010). IBM'S university programs. *IEEE Computer*, *43*(8), 102–104. — 首次正式发表六 R 框架。
 > - Rouse, W. B., & Spohrer, J. C. (2018). Automating versus augmenting intelligence. *Journal of Enterprise Transformation*, *8*(1–2), 1–21. — 提出 AI 将增强而非取代服务提供者的判断，被 Narayan 与 Spohrer（2025）引为全文论证的落脚点。
 > - Spohrer, J. (2017). IBM'S service journey: A summary sketch. *Industrial Marketing Management*, *60*, 167–172. — 回顾 IBM 的服务业务转型历程。

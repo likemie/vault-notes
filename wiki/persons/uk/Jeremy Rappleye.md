@@ -51,7 +51,7 @@ updated: '2026-05-28'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Rappleye, J. (2006). Theorizing educational transfer: Toward a conceptual map of the context of [[Cross-National Attraction]]. *Research in Comparative and [[International Education]]*, 1(3), 223–240. — 提出跨国吸引力情境概念地图，将情境拆解为结构层与人的层面的双层互动，区分推力与阻力两侧各四种结构因素与多元行动者，以危机化、合法化、审慎、美化四种火花分类吸引力动机。完整论证拆解见 [[Argument_Rappleye_2006_RCIE]]。
 
 ---

@@ -42,7 +42,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
+> [![[Abstract]]] 政策文本摘要
 > [[John Hattie|Hattie]] (2010, pp.92–93) 列举了国家标准旨在解决的七项新西兰教育问题：
 >
 > > "National Standards can provide useful evidence and can influence issues such as: ensuring there is greater emphasis in schools (and in reports to parents) on progress in, as well as levels of, achievement; ensuring that teachers have a common conception of progress...; enhancing the already developing consistency of interpretation of levels within [[The New Zealand Curriculum]]; demonstrating that all students are making appropriate progress...; sharing evidence-based practices within and across schools; enhancing student assessment capabilities about their levels of performance and progress; and identifying schools where students may not be attaining satisfactory progress and intervening more quickly than we do now." (Hattie, 2010, pp.92–93)

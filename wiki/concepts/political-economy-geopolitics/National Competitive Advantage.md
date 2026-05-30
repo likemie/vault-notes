@@ -51,7 +51,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [![[Abstract]]] 核心要素
 > Moisio（2022）将 Porter 的理论分析为[[Knowledge-Based Economization|知识经济化]]的关键地缘政治想象，识别其以下要素：
 >
 > - **高度本地化的创造过程**："竞争优势通过高度本地化的过程被创造和维持"——创新和竞争力不凭空产生，而是植根于具体的本地制度、文化和历史（Porter, 1990, cited in Moisio, 2022, p.27）

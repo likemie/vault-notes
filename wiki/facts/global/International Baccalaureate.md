@@ -43,7 +43,7 @@ updated: '2026-05-18'
 
 ## 高中文凭项目结构
 
-> [!abstract] 高中文凭项目结构
+> [![[Abstract]]] 高中文凭项目结构
 > IB 高中文凭项目（Diploma Program）由六个学科组和三项核心要素组成（Slethaug, 2010, pp.29–31）：
 
 

@@ -42,7 +42,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
+> [![[Abstract]]] 政策文本摘要
 > 维多利亚州 Department of Education and Training（DET）于 2017 年发布了两项以 [[Visible Learning]] 为关键参考的教学政策文件：
 >
 > ### 1. High Impact Teaching Strategies (HITS)

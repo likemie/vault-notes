@@ -47,7 +47,7 @@ Feather 使用的"高罂粟的倒下"（fall of the tall poppy）隐喻精确捕
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 
 **幸灾乐祸（schadenfreude toward achievers）**。Feather 的核心实验发现：当受访者被呈现高成就者遭遇失败的情境 vs 普通成就者遭遇失败的情境时，他们对高成就者的失败表达了更多的愉悦感（Li, 2012, p.90）。
 

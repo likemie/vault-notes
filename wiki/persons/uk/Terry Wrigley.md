@@ -61,7 +61,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Wrigley, T. (2003). *Schools of hope: A new agenda for school improvement.* Stoke-on-Trent: Trentham Books.
 > - Wrigley, T., Thomson, P., & Lingard, B. (Eds.) (2012). *Changing schools: Alternative ways to make a world of difference.* London: Routledge.
 > - Wrigley, T. (2016). *Learning in a new key: Engaging with the real.* Bristol: Policy Press.

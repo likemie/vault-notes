@@ -54,7 +54,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Møller, J. (2017). Leading education beyond what works. *European Educational Research Journal*, *16*(4), 375–385. — 以 ISSPP 亲历者和 OECD ISL 参与者双重身份，论证教育领导力研究需要超越"什么有效"议程，纳入权力结构分析
 > - Møller, J. (2007). Educational leadership and the new language of learning. *International Journal of Leadership in Education*, *10*(1), 31–49. — 批判教育领导力中新管理主义语言的侵蚀效应
 > - Møller, J. (2009). Approaches to [[School Leadership]] in Scandinavia. *Journal of Educational Administration and History*, *41*(2), 165–177. — 分析北欧[[School Leadership|学校领导力]]路径

@@ -57,7 +57,7 @@ updated: 2026-05-23
 
 ## 七种学习美德
 
-> [!abstract]
+> [![[Abstract]]]
 > Li 从儒家文本中识别出七种核心学习美德（Li, 2012, pp.49-52），后续通过 [[Prototype Methods|原型方法]] 实证研究在中国大学生对[[Ideal Learner|理想学习者]]的描述中验证了其中五种作为"能动过程"（agentic process）的核心地位（Li, 2012, pp.91-94）。以下将每种美德的文本传统与实证发现合并呈现——先传统后实证，以展示这些美德从古代文本到当代学习者的连续性。
 
 ### 1. 诚心／认真（Sincerity / Earnestness — chéngxīn / rènzhēn）

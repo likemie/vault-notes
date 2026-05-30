@@ -41,19 +41,19 @@ updated: '2026-05-18'
 
 ## 评级对象与范围
 
-> [!abstract] 评级对象与范围
+> [![[Abstract]]] 评级对象与范围
 > PPN 被列入 12 个教育清算中心的标准比较，但没有进入最终 1,359 个项目的一致性分析，因为它在 2020 年中停止运行，尽管 RAND Corporation 网站仍保留部分材料（Wadhwa et al., 2024, p.15）。
 
 ## 证据标准
 
-> [!abstract] 证据标准
+> [![[Abstract]]] 证据标准
 > 在设计标准编码中，PPN 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。
 >
 > PPN 与 Blueprints、[[Best Evidence Encyclopedia|BEE]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] 和 [[Social Programs That Work|SPTW]] 一样，只报告具有正向效果的项目；在最低效果阈值上，PPN 最高评级要求至少 0.25 SD 的差异（Wadhwa et al., 2024, p.12）。
 
 ## 与其他清算中心的差异
 
-> [!abstract] 与其他清算中心的差异
+> [![[Abstract]]] 与其他清算中心的差异
 > PPN 的方法标准在作者编码中较简略，且因停止运行未进入后续项目评级一致性分析。它仍在标准比较中具有意义，因为它体现了一类多领域、非营利、面向儿童与家庭项目的清算中心模式（Wadhwa et al., 2024, pp.7, 10, 15）。
 
 ## 相关概念／政策

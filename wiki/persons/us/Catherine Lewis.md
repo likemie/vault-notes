@@ -38,7 +38,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Lewis, C. (2015). What Is [[Improvement Science]]? Do We Need It in Education? *Educational Researcher*, 44(1), 54–61. — 向教育研究界系统介绍改进科学方法论的综述论文
 
 ## 来源

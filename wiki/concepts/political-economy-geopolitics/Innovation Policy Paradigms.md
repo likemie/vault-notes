@@ -51,7 +51,7 @@ updated: 2026-05-27
 
 ## 三大范式
 
-> [!abstract]
+> [![[Abstract]]]
 
 ### 范式一：科学促增长（Science for Growth，1940s–1980s）
 

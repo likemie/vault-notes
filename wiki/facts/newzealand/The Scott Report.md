@@ -37,7 +37,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
+> [![[Abstract]]] 政策文本摘要
 > 报告全称：*Report on the Enquiry into the Quality of Teaching*（The Scott Report）。核心主张：
 >
 > - 迫切需要教师表现测量手段

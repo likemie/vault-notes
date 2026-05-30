@@ -48,7 +48,7 @@ updated: 2026-05-26
 
 ## 核心命题
 
-> [!abstract]
+> [![[Abstract]]]
 
 ### 第一代：Vygotsky 的中介三角模型
 

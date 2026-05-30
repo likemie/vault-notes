@@ -281,6 +281,17 @@
     ]
   },
   {
+    "title": "Zhonghua Minzu",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Zhonghua Minzu.md",
+    "aliases": [
+      "中华民族",
+      "Chinese nation",
+      "Zhonghua minzu",
+      "中华民族多元一体"
+    ]
+  },
+  {
     "title": "Grice's Conversational Maxims",
     "type": "concept",
     "path": "wiki/concepts/communication-discourse/Grice's Conversational Maxims.md",
@@ -326,6 +337,15 @@
     "path": "wiki/concepts/comparative-education/Externalization.md",
     "aliases": [
       "外化"
+    ]
+  },
+  {
+    "title": "International Schools",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/International Schools.md",
+    "aliases": [
+      "国际学校",
+      "international school"
     ]
   },
   {
@@ -3415,15 +3435,6 @@
     ]
   },
   {
-    "title": "International Schools",
-    "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/International Schools.md",
-    "aliases": [
-      "国际学校",
-      "international school"
-    ]
-  },
-  {
     "title": "Intuition-Dependent Mode",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Intuition-Dependent Mode.md",
@@ -3643,17 +3654,6 @@
       "零和博弈式竞争",
       "mutually exclusive competition",
       "排他性竞争"
-    ]
-  },
-  {
-    "title": "Zhonghua Minzu",
-    "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/Zhonghua Minzu.md",
-    "aliases": [
-      "中华民族",
-      "Chinese nation",
-      "Zhonghua minzu",
-      "中华民族多元一体"
     ]
   },
   {

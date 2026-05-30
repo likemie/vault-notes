@@ -51,7 +51,7 @@ updated: 2026-05-26
 
 ## 核心思想
 
-> [!abstract]
+> [![[Abstract]]]
 > Shatskii 希望通过改革学校体系来逐步变革整个俄国的制度——即通过教育实验实现渐进的社会改造（Ryabyy, 2024, p.103）。这一思路与 [[John Dewey|Dewey]] 的渐进主义（gradualism）高度一致，也是他被拿来与 Dewey 比较的主要原因。
 
 他的教育实践以项目与活动课程为核心，强调从经验中学习（learning from experience），反对以背诵和机械记忆为主的传统教学方式。

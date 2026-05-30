@@ -45,7 +45,7 @@ updated: 2026-05-26
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > 根据 Zilversmit（1993）在 Ryabyy（2024）中引述的界定，进步教育包含以下构成要素：
 >
 > - **教学方法**：以项目和活动课程（project- and activity-based curriculum）取代传统的机械记忆和背诵（Ryabyy, 2024, p.102）

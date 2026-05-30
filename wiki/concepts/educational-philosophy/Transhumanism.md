@@ -50,7 +50,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [![[Abstract]]] 核心要素
 > - **技术与身体增强**：从物理干预优化身体到技术增强认知增强（cognitive augmentation），如 Natasha Vita-More 的"设计身体"项目（Amos, 2022, p.58）
 > - **普世宣称与选择性实践**：超人类主义在修辞层面宣称对全人类开放，但技术实践高度个体化、成本密集，仅为少数人可获得（Amos, 2022, p.58）
 > - **与市场驱动模型的兼容性**：超人类主义与 Cowen 的市场驱动教育模型高度兼容——hyper-individualist、cost-intensive、以劳动力分化为教育目标（Amos, 2022, pp.58–59）

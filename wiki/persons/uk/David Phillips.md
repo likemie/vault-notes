@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
+  - "[[Abstract]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -39,7 +40,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Phillips, D. (1987). Lessons from Germany? The case of German secondary schools. *British Journal of Educational Studies*, XXXV(3), 211–232. — 用德国中学体系的案例警示英国不要轻易借鉴
 > - Phillips, D. (1989). Neither a borrower nor a lender be? The problems of [[Cross-National Attraction]] in education. *Comparative Education*, 25(3), 267–274. — 早期对[[Cross-National Attraction|跨国吸引]]力概念的探索
 > - Phillips, D. (1992). Borrowing educational policy. In D. Finegold, L. McFarland & W. Richardson (Eds.), *Something Borrowed, Something Learned?* — 对[[Policy Borrowing|政策借用]]现象的早期分析
@@ -59,7 +60,7 @@ updated: '2026-05-19'
 >
 > Phillips 对方法论模型持审慎态度，承认其局限：
 >
-> > "Models seek to provide a concrete representation of processes described in the abstract... They can, however, appear immutable, they can mislead (through the injudicious use of arrows, for example), and they can impede the investigation of complex issues by trapping the analysis within what appears to be a limited framework of possibilities." (Phillips & Ochs, 2004a, p. 781，引自 Rappleye, 2006, p. 228)
+> > "Models seek to provide a concrete representation of processes described in the [[Abstract]]... They can, however, appear immutable, they can mislead (through the injudicious use of arrows, for example), and they can impede the investigation of complex issues by trapping the analysis within what appears to be a limited framework of possibilities." (Phillips & Ochs, 2004a, p. 781，引自 Rappleye, 2006, p. 228)
 
 ## 主要贡献
 

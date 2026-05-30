@@ -63,7 +63,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [![[Abstract]]] 核心要素
 > - **区域整合项目**：通过各种超国家机构（EU、ASEAN 等）实施的大规模政治经济项目，高等教育被嵌入这些项目的竞争性想象之中（Thompson & Parreira do Amaral, 2022, pp.11–12）
 > - **监管机制**：区域框架通过指标、排名、质量保障机制等政策工具监管高等教育，如 [[Regulatory Regionalism]]（Jayasuriya, 2010; Robertson, 2010）
 > - **竞争性想象**：各区域以[[Knowledge-Based Economy|知识经济]]竞争为框架想象自身，高等教育成为实现区域竞争优势的关键[[Champ|场域]]

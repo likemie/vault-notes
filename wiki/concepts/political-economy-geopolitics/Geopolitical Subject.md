@@ -69,7 +69,7 @@ Moisio 刻意使用 **human figures**（人形）而非 people（人）、indivi
 
 ## 核心要素：三个装备
 
-> [!abstract] 核心要素：三个装备
+> [![[Abstract]]] 核心要素：三个装备
 > Moisio（2022, pp.29–30）识别了地缘政治主体被"装备"（equipped）的三个层面：
 
 

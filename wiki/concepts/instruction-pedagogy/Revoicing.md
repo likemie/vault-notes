@@ -41,7 +41,7 @@ updated: 2026-05-24
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > O'Connor 和 Michaels 的研究表明，revoicing 策略包含两个核心功能（Li, 2012, pp.93-94）：
 
 **1. 突出想法的归属权（Authorship/Ownership）**

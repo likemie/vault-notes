@@ -57,7 +57,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Cartwright, N., & Hardie, J. (2012). *Evidence-Based Policy: A Practical Guide to Doing It Better.* Oxford University Press. — 系统阐述证据外推的哲学挑战和实用策略
 > - Cartwright, N., & Munro, E. (2010). The limitations of randomized controlled trials in predicting effectiveness. *Journal of Evaluation in Clinical Practice*, 16(2), 260–266. — 提出 [[Randomised Controlled Trials|RCT]] 证据外推的三阶段框架
 > - Cartwright, N., & Cowen, N. (2014). *Making the Most of the Evidence in Education: A Guide for Working Out What Works... Here and Now.* CHESS Working Paper. — 为教育从业者提供证据实施的实用指南

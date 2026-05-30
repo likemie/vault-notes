@@ -42,7 +42,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Cohen, J. (1992). A power primer. *Psychological Bulletin, 112*(1), 155-159. — 文章提供[[Effect Size|效应量]]大小的常用经验参照，并提醒这些标签依研究领域和具体内容而变化（Allerup, 2015, pp.43–44）。
 
 ## 核心思想

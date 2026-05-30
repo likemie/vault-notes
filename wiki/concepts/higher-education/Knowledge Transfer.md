@@ -94,7 +94,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > Partaken 识别出知识转移在 [[Geopolitics of Knowledge|GPK]] 中运作的六种模态（Partaken, 2022, p.75–84）：
 > - **[[Forced Knowledge Transfer]]**：通过规定、胁迫和暴力进行的自上而下知识灌输，以 [[Paulo Freire|Freire]] 的"银行概念"和日本帝国 [[Kokutai no Hongi]] 为典型案例
 > - **[[Economic and Industrial Espionage]]**：国家支持或非国家行为者通过非法手段获取有价值知识，以 中美技术紧张 为当代核心案例
@@ -107,7 +107,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-> [!abstract]
+> [![[Abstract]]]
 > Partaken 的知识转移概念建立在对后殖民 [[Geopolitics of Knowledge|GPK]] 研究的批判之上：
 > - 后殖民 GPK 分析传统（[[Frantz Fanon|Fanon]] → Mignolo → [[Chen Kuan-Hsing]]）关注[[Knowledge Production|知识生产]]——谁生产知识、以何种视角、为谁的利益（Partaken, 2022, p.72–74）
 > - Partaken 认为，从殖民主义以来 GPK 的真正核心一直是知识转移而非其生产；知识转移的分析能够更好地解码当代新自由全球化中的新殖民动力（Partaken, 2022, p.74–75）

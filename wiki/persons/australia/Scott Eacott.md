@@ -69,7 +69,7 @@ updated: 2026-05-19
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Eacott, S. (2011). Preparing 'educational' leaders in managerialist times: An Australian case. *Journal of Educational Administration and History*, 43(1), 43–59. — 以 [[Pierre Bourdieu|Bourdieu]] 框架分析 NSW 校长培养（详见 [[Argument_Eacott_2011_JEAH]]）
 > - Eacott, S. (2015). The problem with the structures of [[Knowledge Production]] in educational administration: An interrogation of the social epistemological conditions. *Educational Philosophy and Theory*, 47(10), 1067–1082. — 以 Bourdieu 认识论论证教育行政学者的嵌入具身性塑造其智识凝视（详见 [[Argument_Eacott_2015_EPT]]）
 > - Eacott, S. (2017a). [[School Leadership]] and the [[Cult of the Guru]]: The neo-Taylorism of [[John Hattie|Hattie]]. *[[School Leadership]] & Management*, 37(4), 413–426. — 将 Hattie 的工作定性为[[Neo-Taylorism in Educational Administration|新泰勒主义]]，引发学界广泛争议和两极反应（详见 [[Argument_Eacott_2017_SLM]]）

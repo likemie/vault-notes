@@ -46,7 +46,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > Møller 综合了三个理论资源（Møller, 2017, p.381）：
 >
 > - [[Transformative Leadership]]（Shields, 2010, 2011）— 以权力为调查起点，将专业工作定位于权力结构之中

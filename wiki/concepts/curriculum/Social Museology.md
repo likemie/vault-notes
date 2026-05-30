@@ -63,7 +63,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > - **居民作为主角**（protagonism of residents）：社会博物馆学的第一原则——社区成员自己选择展品、自己讲述故事、自己决定什么记忆值得保存。这与专家策展的传统博物馆模式构成根本对立（Delambre, 2022, p.110, 援引 Chagas, 2001）
 > - **口述性作为[[Knowledge Production|知识生产]]核心**（orality as knowledge production）：口述传统（而非书写文本）是知识生产和智慧传播的核心方式。这与非洲和拉丁美洲的口述传统一脉相承，在认识论层面抵抗了欧洲中心主义的书写至上假设（Delambre, 2022, p.110）
 > - **抵抗记忆抹除**（resistance to memory erasure）：社会博物馆学的实践动力来自对霸权系统系统性抹除地方历史的抵抗。巴西贫民窟、原住民社区和非裔巴西人社区通过博物馆实践为其被边缘化的历史创造可见性和合法性（Delambre, 2022, p.110, 援引 Chagas, 2001）

@@ -85,7 +85,7 @@ updated: '2026-05-23'
 
 ## 主要著作
 
-> [!abstract]
+> [![[Abstract]]]
 > - Li, J. (2012). *Cultural Foundations of Learning: East and West*. Cambridge University Press. — 系统比较东亚与西方两种文化学习模型，追溯其知识传统，分析两种模型如何影响儿童的学习信念与学习过程。
 
 ---

@@ -43,7 +43,7 @@ updated: '2026-05-23'
 
 ## 认识论立场
 
-> [!abstract]
+> [![[Abstract]]]
 > 逻辑模型把项目效果理解为一条需要被检验的变化链，而不是单一输入到单一结果的直接因果箭头。它允许评价者同时关注实施过程和结果变化，并把形成性反馈重新带回项目投入和实施调整（Ross & Morrison, 2021, p.115）。
 
 在 [[Students and Teachers Accessing Tomorrow]] 的评价模型中，信息既从过程流向结果，也从[[Formative Program Evaluation|形成性项目评价]]数据回流到投入和实施过程。这种双向结构使逻辑模型成为[[Formative Program Evaluation|形成性项目评价]]和持续改进之间的桥梁（Ross & Morrison, 2021, p.115）。

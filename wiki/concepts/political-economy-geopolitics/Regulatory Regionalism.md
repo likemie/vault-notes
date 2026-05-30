@@ -64,7 +64,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > 基于 Jayasuriya（2010）、Robertson（2010）和 Rambla（2022）的综合分析，监管区域主义包含以下核心要素：
 
 ### 间接监管

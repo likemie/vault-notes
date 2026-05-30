@@ -54,7 +54,7 @@ updated: '2026-05-26'
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > O'Brien（2011）的三素养框架是当前博士教育研究中最常引用的全球公民操作化方案。Spronken-Smith（2018）的补充使框架从"跨文化沟通"扩展到"人类与自然的关系"维度。Spronken-Smith et al.（2024）的七域分类进一步加入了倡导（advocacy）和社会正义取向（social justice-oriented disposition）两个跨领域品质。
 
 ### 数字素养（digital literacy）

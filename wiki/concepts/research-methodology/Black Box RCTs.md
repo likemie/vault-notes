@@ -53,7 +53,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 黑箱 [[Randomised Controlled Trials|RCT]] 在教育中的四个特定限制
+> [![[Abstract]]] 黑箱 [[Randomised Controlled Trials|RCT]] 在教育中的四个特定限制
 > Peterson (2016, pp. 300–302) 系统性地总结了黑箱 RCT 在教育领域的四重限制：
 >
 > **1. 与教师主导干预的不匹配**

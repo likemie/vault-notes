@@ -49,7 +49,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Cuban, L. (1992). Curriculum stability and change. In P. Jackson (Ed.), *Handbook of research on curriculum* (pp. 216-247). Macmillan. — 课程变革的核心理论框架
 > - Cuban, L. (1986). *Teachers and machines: The classroom use of technology since 1920*. Teachers College Press. — 教育技术变革的历史分析
 > - Cuban, L. (1993). *How teachers taught: Constancy and change in American classrooms, 1890-1990*. Teachers College Press. — 课堂教学实践的百年演变

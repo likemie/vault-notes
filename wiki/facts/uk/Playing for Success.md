@@ -43,7 +43,7 @@ updated: '2026-05-18'
 
 ## 项目设计
 
-> [!abstract] 项目设计
+> [![[Abstract]]] 项目设计
 > Playing for Success 的特点远非普通"体育参与"（Wrigley & McCusker, 2019, pp. 121）：
 >
 > - **地点**：在著名足球俱乐部的体育场内设立学习中心

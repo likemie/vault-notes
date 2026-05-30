@@ -41,7 +41,7 @@ updated: 2026-05-25
 > [!tip]
 > 费孝通的核心理论贡献集中在两个概念上：
 
-> [!abstract]
+> [![[Abstract]]]
 > [[Zhonghua Minzu|中华民族多元一体]]格局（Zhonghua Minzu Duoyuan Yiti Geju）
 >
 > 1988 年在香港中文大学的唐纳（Tanner）讲座中，费孝通提出中华民族是一个"多元一体"的结构：虽然 56 个民族在文化上多元，但在政治和历史上形成了一个统一的中华民族（Bulag, 2024, p.101）。

@@ -62,7 +62,7 @@ updated: '2026-05-21'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Nordahl, T. (2015). *[[Visible Learning]] som grunnlag for evidens og forbedringsarbeid i utdanningssystemet*. Paideia, 9, 61–69. — 将 [[Visible Learning]] 放进斯堪的纳维亚学校改进语境，主张教育系统应以学习结果与研究证据作为改进基准，并通过能力建设把证据转成教师行动。
 
 ## 生平与职涯

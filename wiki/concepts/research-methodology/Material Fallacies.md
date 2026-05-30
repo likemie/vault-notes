@@ -38,7 +38,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 口号化
+> [![[Abstract]]] 口号化
 > Kreeft 指出，当一个表达"被用来基于对词汇的熟悉度而非理性来产生不经思考的膝跳反射式赞同或反对"时，该表达即成为口号（Kreeft, 2010, p.78）。在教育政策话语中，"优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, [[John Hattie|Hattie]], 2009a）等术语虽然在最初源自对研究文献的理性分析，但已日益在新西兰的学术和公共政策话语中被当作口号使用（ONeill, 2012, p.155）
 
 

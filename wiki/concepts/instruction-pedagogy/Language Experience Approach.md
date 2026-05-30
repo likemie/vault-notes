@@ -36,7 +36,7 @@ updated: '2026-05-18'
 
 ## 核心主张
 
-> [!abstract] 核心主张
+> [![[Abstract]]] 核心主张
 > Allen（1964, p.59）从儿童视角将语言经验法概括为以下公式：
 >
 > > "我能想的，就能说。我能说的，就能写……我能写的，就能读。我能读自己写的，也能读别人为我写的。"（"What I can think about, I can talk about. What I can say I can write... What I can write, I can read. I can read what I can write and what other people can write for me to read."）（引自 O'Connor, 2020, p.144）

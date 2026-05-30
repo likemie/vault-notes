@@ -65,7 +65,7 @@ updated: 2026-05-22
 
 ## 主要著作
 
-> [!abstract]
+> [![[Abstract]]]
 > - Kant, I. (1781/1787, 1999). *Critique of Pure Reason*. Cambridge University Press. — 第一批判，区分先验知识与后天知识，提出心智范畴（量、质、关系、模态），被 Li 在 [[Certainty of Knowledge]] 和 [[Mind and Its Wonders]] 两个主题中引用（Li, 2012, pp.25-26, 30）
 > - Kant, I. (1785). *Groundwork of the Metaphysics of Morals*. — 提出定言律令（categorical imperative）作为道德的普遍原则（待核）
 > - Kant, I. (1788). *Critique of Practical Reason*. — 第二批判，论述道德法则与自由意志（待核）

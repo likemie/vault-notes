@@ -43,7 +43,7 @@ updated: 2026-05-26
 
 ## 政策文本摘要
 
-> [!abstract]
+> [![[Abstract]]]
 > 1922 年教育部颁布《学校系统改革案》("Decree on Reforming the Educational System")，以七项教育标准取代民国元年以社会需要为导向的"道德、实利、军国民教育"宗旨（Zhou & Westberg, 2024, p.617）。
 
 七项标准如下（"Decree" 1922, p.1，引自 Zhou & Westberg, 2024, p.617）：
@@ -74,7 +74,7 @@ updated: 2026-05-26
 
 ## 与杜威思想的关联与偏差
 
-> [!abstract]
+> [![[Abstract]]]
 
 > [!success] 接受的部分
 > - 反对固定教育目标——[[John Dewey|杜威]]认为"外部确立的目的是僵化的"，该改革体现了灵活应变的理念（Dewey [1916] 2018, pp.112–117，引自 Zhou & Westberg, 2024, p.618）。

@@ -45,7 +45,7 @@ updated: 2026-05-27
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > UCEP 的核心职能包括：
 
 - **解读与匹配**：有效解读技术平台（如 Pivot、Elsevier Pure、Academic Analytics）提供的匹配数据，将潜在合作机会情境化，促成有意义的引荐（pp.77–78）

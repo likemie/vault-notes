@@ -49,7 +49,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [!abstract]
+> [![[Abstract]]]
 > Youth Guarantee Scheme 的核心承诺是：确保任何青年在离开学校或结束一份工作后的 **4 个月内**，获得以下四项之一的机会（European Council, 2013; Rambla, 2022, p.169）：
 >
 > - **就业**（employment）

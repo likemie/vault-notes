@@ -75,7 +75,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Pawson, R. (2006). *Evidence-based policy: A realist perspective*. London: [[Sage]]. — 核心批判文本，系统论述 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]在社会政策领域的不适用性（Wrigley & McCusker, 2019, p. 125）
 > - Pawson, R., & Tilley, N. (1997). *Realistic evaluation*. London: SAGE. — 实在论评估方法论的奠基文本
 

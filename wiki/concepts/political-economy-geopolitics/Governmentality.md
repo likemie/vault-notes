@@ -64,7 +64,7 @@ updated: 2026-05-23
 
 ## 核心命题
 
-> [!abstract]
+> [![[Abstract]]]
 
 ### 行为的引导（Conduct of Conduct）
 

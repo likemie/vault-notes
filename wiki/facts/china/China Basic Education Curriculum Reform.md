@@ -43,7 +43,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [!abstract]
+> [![[Abstract]]]
 > 2001 年，中国教育部（MOE）发布《基础教育课程改革纲要（试行）》（Zhongguo Jichu Jiaoyu Kecheng Gaige Gangyao），标志着全国范围的课程与教学改革正式启动。纲要的核心方向包括（Ryan, 2010, pp.54–55）：
 > - 从"双基"（知识传授和技能训练）转向"[[Quality Education|素质教育]]"（quality-oriented education）
 > - 从教师中心（teacher-directed）教学转向学生中心（student-centered）教学

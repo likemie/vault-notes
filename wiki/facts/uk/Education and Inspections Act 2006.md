@@ -37,7 +37,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
+> [![[Abstract]]] 政策文本摘要
 > 该法案的核心条款之一是禁止在英格兰建立新的选拔性公立中学（[[Grammar School|文法学校]]），同时允许现有文法学校继续运作。这意味着英格兰现存的 163 所文法学校得以保留，但其数量不得增加（Bainbridge et al., 2022, p.3）。
 >
 > > "The expansion of grammar schools...and more explicitly the building of new grammar schools, is currently illegal (Education & Inspections Act, 2006)"（Bainbridge et al., 2022, p.3）

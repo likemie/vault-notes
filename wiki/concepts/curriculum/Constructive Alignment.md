@@ -37,7 +37,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 对齐的三个要素
+> [![[Abstract]]] 对齐的三个要素
 > 建构性对齐涉及三个要素的逻辑一致性（[[John Hattie|Hattie]], 2015, p.87）：
 > - **预期学习结果**（intended learning outcomes）：课程声称要达成的目标
 > - **教学活动**（teaching/learning activities）：学生为达成目标所做的活动

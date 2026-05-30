@@ -41,7 +41,7 @@ updated: 2026-05-28
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > 校友参与[[University-Industry Collaboration|产学合作]]可通过七种具体策略实现（Burrus & Patera, 2025, pp.74–75）：
 
 1. **[[Industry Advisory Board|行业咨询委员会]]与圆桌讨论**：按行业组建，邀请校友企业高管、教师研究者和公司技术负责人共同探讨研究协同点和行业挑战。

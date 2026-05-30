@@ -51,7 +51,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [!abstract]
+> [![[Abstract]]]
 > Skills Agenda 的核心框架围绕三个层面展开（European Commission, 2016; Rambla, 2022, p.168–171）：
 >
 > **提升低技能成年人技能水平**：要求成员国通过"技能保障"（Skills Guarantee）路径为低技能成年人提供提升技能（upskilling）的机会，涵盖在职和失业人群。目标是改善其识字、计算和数字技能，并在可能的情况下获得更高一级的学历资格（European Commission, 2016，引用于 Rambla, 2022, p.171）。

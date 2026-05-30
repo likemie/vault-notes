@@ -52,7 +52,7 @@ Jane Knight，加拿大多伦多大学安大略教育研究院（OISE/University
 ---
 ## 主要著作与思想发展
 
-> [!abstract]
+> [![[Abstract]]]
 > Knight 的学术工作跨越跨境高等教育、[[GATS and Trade in Education Services|教育服务贸易]]和[[International Education Hubs|国际教育枢纽]]三个相互关联的领域，其核心贡献是将[[International Education|国际教育]]枢纽从模糊的政策口号发展为具有分析力的比较研究框架。
 
 ### 国际教育枢纽的概念化

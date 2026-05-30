@@ -51,7 +51,7 @@ updated: '2026-05-18'
 
 ## 设计与功能
 
-> [!abstract] 设计与功能
+> [![[Abstract]]] 设计与功能
 > Wolf et al. (2020, pp. 443–444) 提出 REES 可用于以下用途：
 >
 > - 评估者[[Preregistration|预注册]]研究设计、结果测量和分析计划

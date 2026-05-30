@@ -35,7 +35,7 @@ updated: '2026-05-18'
 
 ## 认识论立场
 
-> [!abstract] 认识论立场
+> [![[Abstract]]] 认识论立场
 > 季节性比较属于准实验因果推断传统，其认识论核心是反事实推理（counterfactual reasoning）。设计试图回答的问题不是传统的"学校 A vs 学校 B 哪个更好"，而是更根本的："如果学校不存在，不平等会是什么样？"（Raudenbush & Eschmann, 2015, cited in Downey & Condron, 2016, p.3）。暑假被用作这一反事实的经验近似（Downey & Condron, 2016, p.4）。
 >
 > 这种设计绕过了传统方法面临的三个核心难题（Downey & Condron, 2016, pp.3–4）：

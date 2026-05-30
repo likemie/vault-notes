@@ -55,7 +55,7 @@ updated: 2026-05-18
 
 ## 方法论立场
 
-> [!abstract] 方法论立场
+> [![[Abstract]]] 方法论立场
 > ResearchED 的核心方法论信条——以 Bennett 的 *Teacher Proof* 为代表——是在 [[Randomised Controlled Trials|RCT]] 与其他所有研究形式之间建立了严格的二分：
 >
 > - RCT = 科学、严格、可靠

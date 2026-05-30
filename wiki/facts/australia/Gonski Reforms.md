@@ -38,7 +38,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
+> [![[Abstract]]] 政策文本摘要
 > Gonski 改革分两轮进行（Keddie et al., 2020, IJLE, p.2, 11）：
 >
 > - **Gonski et al. (2011)**：*Review of Funding for Schooling: Final Report* — 首次系统审查澳大利亚学校教育拨款

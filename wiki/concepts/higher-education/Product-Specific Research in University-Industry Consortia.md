@@ -39,7 +39,7 @@ updated: 2026-05-28
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > 基于 [[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 的制度实践（pp.114–115）：
 
 1. **独立于联合体协议**：产品专项项目的协议单独建立和资助，不走联合体的会员年费资金池。这使得每个项目可以有自己的 IP 条款、交付物和保密要求

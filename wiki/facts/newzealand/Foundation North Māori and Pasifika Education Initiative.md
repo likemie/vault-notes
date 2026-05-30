@@ -34,7 +34,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
+> [![[Abstract]]] 政策文本摘要
 > 2009 年，Foundation North 宣布 Māori and Pasifika Education Initiative (MPEI)，承诺投资 USD 20M、为期五年，旨在改善 Māori 和 Pasifika 学生的教育成果（O'Neill et al., 2016, p.xiii）。
 
 ## 时间线

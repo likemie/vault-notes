@@ -44,7 +44,7 @@ updated: '2026-05-18'
 
 ## 理论内部结构
 
-> [!abstract] 理论内部结构
+> [![[Abstract]]] 理论内部结构
 > 三个基本成分为（Bolton & [[John Hattie|Hattie]], 2017, p.4）：
 >
 > - **抑制（[[Cognitive Inhibition|inhibition]]）** — 抑制主导性或优势反应。在必要时故意抑制自动化或常见反应的能力

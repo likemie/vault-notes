@@ -58,7 +58,7 @@ updated: 2026-05-22
 
 ## 主要著作
 
-> [!abstract]
+> [![[Abstract]]]
 > - 《传习录》（Instructions for Practical Living）— 记录其讲学内容的对话体著作
 > - 相关诗文和书信
 

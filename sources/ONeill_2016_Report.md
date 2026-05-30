@@ -1,6 +1,7 @@
 ---
 citation: "O'Neill, J., with Duffy, C., & Fernando, S. (2016). Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand. Final report to NZEI Te Riu Roa, NZPPTA Te Wehengarua, and NZPF Ngā Tumuaki o Aotearoa. Massey University."
 extracted_to:
+  - "[[Argument_ONeill_2016_Report]]"
   - "[[Educational Management Organisation]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Policy Entrepreneur]]"
@@ -15,9 +16,8 @@ extracted_to:
   - "[[Teach First New Zealand]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[Stephen Ball]]"
-  - "[[Argument_ONeill_2016_Report]]"
   - "[[John Hattie]]"
+  - "[[Stephen Ball]]"
 processed_date: 2026-05-04
 ---
 

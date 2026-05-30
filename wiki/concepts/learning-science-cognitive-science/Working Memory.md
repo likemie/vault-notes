@@ -36,7 +36,7 @@ updated: '2026-05-18'
 
 ## 核心特征
 
-> [!abstract] 核心特征
+> [![[Abstract]]] 核心特征
 > - **容量有限** — 无论能力高低，个体在任何时刻可保持的信息条目数量是有限的；成年人在工作记忆中一次最多可保持三到四个信息条目（Bolton & [[John Hattie|Hattie]], 2017, p.5，引用 Vogel & Machizawa, 2004）
 > - **依赖[[Prefrontal Cortex|前额叶皮层]]** — 特别是背外侧前额叶皮层（dlPFC）与视觉空间工作记忆密切相关（Bolton & Hattie, 2017, p.8）
 

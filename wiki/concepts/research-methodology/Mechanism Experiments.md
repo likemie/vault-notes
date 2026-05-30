@@ -50,7 +50,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 与黑箱 [[Randomised Controlled Trials|RCT]] 的对比
+> [![[Abstract]]] 与黑箱 [[Randomised Controlled Trials|RCT]] 的对比
 > | | 黑箱 RCT | 机制实验 |
 > |---|---|---|
 > | 核心问题 | 这个项目有效吗？ | 什么使这个项目有效？通过什么路径？ |

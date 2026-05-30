@@ -60,7 +60,7 @@ updated: 2026-05-22
 
 ## 主要著作
 
-> [!abstract]
+> [![[Abstract]]]
 > - 编纂 **《四书》**（Four Books）— 包括《大学》（Great Learning）、《中庸》（Doctrine of the Mean）、《论语》（Analects）、《[[Mencius|孟子]]》（Mencius），并为其撰写详细注释。四书成为 1949 年以前每个中国学生和学者的必读书（Li, 2012, pp.43-44）
 > - 为儒家经典撰写大量注释（Li, 2012, p.44）
 

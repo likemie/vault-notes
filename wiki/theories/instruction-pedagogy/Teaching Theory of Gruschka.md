@@ -42,7 +42,7 @@ updated: 2026-05-20
 
 ## 核心命题
 
-> [!abstract]
+> [![[Abstract]]]
 
 ### 三元结构
 

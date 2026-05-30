@@ -36,7 +36,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
+> [![[Abstract]]] 政策文本摘要
 > 2010 年前后，新西兰学校被要求实施 The New Zealand Curriculum。该课程包含八项原则，例如：高期望（High expectations）、学会学习（Learning to learn）、未来焦点（Future focus）等（Sarbiewska, 2019, p.128）。
 >
 > 课程允许所有学校"设计自己的学习项目以满足社区和学生的需求。每所学校的课程应该是独特的、回应性的蓝图，反映学校和社区认为对学生学习重要和可取的内容。课程的愿景、价值观、原则和[[21st Century Skills and Competencies Discourse|关键能力]]为利益相关者提供了一个框架，以讨论他们希望学生成为什么样的人，以及支持学生发展潜力的最佳方式"（NZ Ministry of Education, cited in Sarbiewska, 2019, p.128）。

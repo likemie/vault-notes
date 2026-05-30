@@ -44,7 +44,7 @@ updated: 2026-05-18
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [![[Abstract]]] 核心要素
 > ISSPP 跨国研究识别出一组跨情境的基本领导实践（Møller, 2017, p.380）：
 >
 > - **设定方向**（[[Tracking|setting]] direction）

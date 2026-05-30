@@ -40,7 +40,7 @@ updated: '2026-05-18'
 
 ## 结构分区
 
-> [!abstract] 结构分区
+> [![[Abstract]]] 结构分区
 > PFC 在结构上可分为三个不同区域（Bolton & [[John Hattie|Hattie]], 2017, p.7–8）：
 >
 > - **眼眶 PFC（Orbital PFC）** — 负责大脑其他区域的细胞和神经元抑制，包括基底神经节、下丘脑、其余皮层及 PFC 的其他组成部分。还负责情境和社会行为。此区域损伤导致无法容忍任何形式的干扰或分心（Bolton & Hattie, 2017, p.8，引用 Fuster, 2001）

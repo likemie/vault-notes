@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 ## 理论内部结构
 
-> [!abstract] 理论内部结构
+> [![[Abstract]]] 理论内部结构
 > [[Jean Piaget|皮亚杰]]提出四个认知发展阶段（Bolton & [[John Hattie|Hattie]], 2017, p.2–3）：
 >
 > - **感觉运动阶段（Sensorimotor Stage, 0–2 岁）** — 儿童表现出完全自我中心的世界观，无法将思想与行动分离，无法识别物体视角随观察者位置不同而变化。后期开始发展客体永久性（object permanence）（Bolton & Hattie, 2017, p.2）

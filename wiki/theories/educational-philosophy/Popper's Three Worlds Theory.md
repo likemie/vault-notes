@@ -11,6 +11,7 @@ tags:
 - realism
 - paradigm/critical
 related_concepts:
+  - "[[Abstract]]"
   - "[[Surface and Deep Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
@@ -39,13 +40,13 @@ updated: '2026-05-18'
 > [!info] 核心主张
 > Karl Popper 在 Tanner Lecture 中提出的本体论框架，将实在区分为三个世界（Popper, 2011，转引自 Rømer, 2018, p.10-11）：
 >
-> > "World 3 consists of 'abstract objects such as great books or great theories or great symphonies', and Popper emphasizes that these objects are 'objectively great'."（Rømer, 2018, p.10，引用 Popper, 2011, p.150，原文斜体）
+> > "World 3 consists of '[[Abstract]] objects such as great books or great theories or great symphonies', and Popper emphasizes that these objects are 'objectively great'."（Rømer, 2018, p.10，引用 Popper, 2011, p.150，原文斜体）
 >
 > 三个世界不可彼此还原，各具独立的本体论地位。
 
 ## 理论内部结构
 
-> [!abstract] World 1: 物理世界
+> [![[Abstract]]] World 1: 物理世界
 > 客观存在的物理实在，包括物质对象和物理过程。[[John Hattie|Hattie]] 将其对应于"[[Surface and Deep Learning|表层学习]]"（surface learning）。
 
 

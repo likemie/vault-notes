@@ -56,7 +56,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Whitehurst, G. (2002). Charting a new course for the U.S. Office of Educational Research and Improvement. Paper presented at AERA annual meeting, New Orleans.
 
 ## 思想发展与影响

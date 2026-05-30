@@ -50,7 +50,7 @@ updated: '2026-05-18'
 
 ## 核心命题：四个合法化层次
 
-> [!abstract] 核心命题：四个合法化层次
+> [![[Abstract]]] 核心命题：四个合法化层次
 > Van Leeuwen（2007）将合法化操作分为四个层次（Bainbridge et al., 2022, p.9）：
 >
 > **1. 权威合法化（Authority Legitimation）**

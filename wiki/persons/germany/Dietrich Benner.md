@@ -38,7 +38,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Benner, D. (2018). Allgemeine Pädagogik und Sonderpädagogik. Überlegungen zum Verhältnis von Inklusion und Exklusion aus der Sicht Dreier Kausalitäten in Erziehungs- und Bildungsprozessen. *Człowiek – Niepełnosprawność – Społeczeństwo*, 4(42). — 提出修正版教学三角模型
 > - Benner, D. (2017). [[John Dewey]], a Modern Thinker: On Education (as [[Bildung]] and Erziehung) and Democracy (as a Political System and a Mode of Associated Living). In L. Waks & A. English (eds.), *John Dewey's Democracy and Education: A Centennial Handbook*. Cambridge University Press. — 阐述 Bildung 与 Erziehung 的区分
 

@@ -73,7 +73,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Thomas, G. (2004). Introduction: Evidence and practice. In G. Thomas & R. Pring (Eds.), *Evidence-based practice in education* (pp. 1–18). Maidenhead: Open University Press. — 证据阶段论（Wrigley & McCusker, 2019, p. 125）
 > - Thomas, G. (2012). Changing our landscape of inquiry for a new science of education. *Harvard Educational Review*, 82(1), 26–51. — "民间科学观"概念的提出（Wrigley & McCusker, 2019, p. 125）
 > - Thomas, G. (2016). After the gold rush: Questioning the 'gold standard' and reappraising the status of experiment and randomized controlled trials in education. *Harvard Educational Review*, 86(3), 390–411. — "最佳解释推理"（Wrigley & McCusker, 2019, p. 126）

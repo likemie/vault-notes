@@ -44,7 +44,7 @@ updated: 2026-05-28
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > 产学战略伙伴关系至少需要四个基本要素（Burrus & Patera, 2025, pp.78–79）：
 
 1. **双方联络人（Points of Contact, POCs）**：大学和企业各指定一个固定的对接人。联络人不仅要了解各自组织的需求，还要有能力在组织内部协调资源、推动决策。缺少联络人，合作关系会在"不知道该找谁"中逐渐冷却。
@@ -56,7 +56,7 @@ updated: 2026-05-28
 
 ## 关系层次
 
-> [!abstract]
+> [![[Abstract]]]
 > [[University Industry Demonstration Partnership|UIDP]]（2012）将产学互动区分为三个层次（Ulrichsen, 2025, pp.45–46）：
 
 | 层次 | 特征 | 治理逻辑 |

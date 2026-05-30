@@ -48,7 +48,7 @@ Francisco Varela（1946–2001），智利生物学家和神经科学家，与 [
 
 ## 主要著作与思想发展
 
-> [!abstract]
+> [![[Abstract]]]
 
 - Maturana, H. R., & Varela, F. J. (1987). *The tree of knowledge: The biological roots of human understanding*. Shambhala. — 与 Maturana 共同提出[[Autopoiesis|自创生]]理论
 - Varela, F. J. (1999). *Ethical know-how: Action, wisdom and cognition*. Stanford University Press. — 提出自我的非固化和伦理诀窍概念

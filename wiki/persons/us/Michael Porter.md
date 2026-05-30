@@ -48,7 +48,7 @@ Michael E. Porter，美国经济学家和竞争战略理论家，哈佛商学院
 
 ## 主要著作与思想发展
 
-> [!abstract]
+> [![[Abstract]]]
 
 - Porter, M. E. (1980). *Competitive strategy: Techniques for analyzing industries and competitors*. Free Press. — 奠定竞争战略领域基础
 - Porter, M. E. (1990). *The competitive advantage of nations*. Free Press. — 提出[[National Competitive Advantage|国家竞争优势]]理论和钻石模型，被 Moisio 分析为对[[Knowledge-Based Economization|知识经济化]]空间政策影响深远的地缘政治想象

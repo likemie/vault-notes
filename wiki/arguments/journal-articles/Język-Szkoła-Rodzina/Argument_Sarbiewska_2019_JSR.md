@@ -46,7 +46,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Dietrich Benner]] 的修正版教学三角（modified didactic triangle）— 区分传统模型（课程作为交换对象，教学=学习）与修正模型（课程作为目标，教学与学习是两种独立但协同的活动）
 > - [[Evidence-Based Education]] — 借鉴自医学的证据本位实践模型（Davies, 1999）
 > - [[Visible Learning]] — [[John Hattie|Hattie]] 的[[Effect Size|效应量]]排名框架作为政策和实践改革的证据基础

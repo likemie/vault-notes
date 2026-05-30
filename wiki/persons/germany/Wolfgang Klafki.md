@@ -43,7 +43,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Klafki, W. (1997). Education for Europe as seen from the international perspective: Key problems as a central point for future-oriented work in education. In M. Uljens (Ed.), *European identity in change: The meeting between German, Russian and Nordic educational traditions* (pp. 172-185). Abo Akademi. — 提出以 key problems 作为面向未来教育工作的中心点（Schaffar & Wolff, 2024, p.7）。
 > - Klafki, W. (1999). The significance of classical theories of [[Bildung]] for a contemporary concept of Allgemeinbildung. In I. Westbury, S. Hopman, & K. Riquarts (Eds.), *Teaching as a reflective practice: The German [[Didaktik]] tradition* (pp. 85-107). Routledge. — 论证经典 Bildung 理论在当代教育中的意义，并强调其推动正义、自由和责任的社会政治性（Schaffar & Wolff, 2024, p.6）。
 

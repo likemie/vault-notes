@@ -60,7 +60,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Biesta, G. J. J., & Burbules, N. (2003). *[[Pragmatism in China|pragmatism]] and educational research*. Rowman & Littlefield. — 交易认识论的代表性阐述
 > - Biesta, G. J. J. (2007a). Why 'what works' won't work: Evidence-based practice and the democratic deficit of educational research. *Educational Theory*, 57(1), 1–22. — 对[[Evidence-Based Education|证据本位教育]]的首次系统批判
 > - Biesta, G. J. J. (2010). Why 'What Works' Still Won't Work: From Evidence-Based Education to [[Value-Based Education]]. *Studies in Philosophy and Education*, 29(5), 491–503. — 三重缺陷框架的系统阐述

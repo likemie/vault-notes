@@ -41,7 +41,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] 核心要素
+> [![[Abstract]]] 核心要素
 > - **观察 = 区分** — Luhmann 的核心论断：看到某物的条件是你建立了看见与看不见之间的区分。没有区分就不可能有观察（Larsen, 2019, p.10）
 > - **观察者不可见自身** — "Der Beobachter kann sich selbst beim Beobachten nicht sehen"（观察者在观察时无法看见自身）（Luhmann, 1997, p.69; 引自 Larsen, 2019, p.10）
 > - **对不可知的无知** — Luhmann 指出：一个个体完全不可能知道自己不知道什么（es ist völlig unrealistisch, dass ein Individuum weiß, was es nicht weiß）（Luhmann, 1997, p.39; 引自 Larsen, 2019, p.10）

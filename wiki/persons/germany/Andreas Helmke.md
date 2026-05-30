@@ -47,7 +47,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Helmke, A. (2012). *Unterrichtsqualität und Lehrerprofessionalität*. Klett/Kallmeyer. 丹麦语译本：*Undervisningskvalitet og lærerprofessionalitet*. Dafolo (2013). — 德语[[Effective Teaching|有效教学]]综合的丹麦译本之一，系统讨论教学质量与教师专业性（Laursen, 2015, pp.34–35, p.40）。
 
 ## 争议与批评

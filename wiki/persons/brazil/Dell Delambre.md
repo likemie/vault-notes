@@ -53,7 +53,7 @@ updated: '2026-05-19'
 
 ## 主要著作与思想发展
 
-> [!abstract]
+> [![[Abstract]]]
 > ### 2014 — *Sustentabilidade In-sustentável*
 >
 > - APA：Delambre, D. (2014). *Sustentabilidade In-sustentável: O conceito de sustentabilidade e desenvolvimento sustentável no documento final da Rio+20: Diálogo com a proposta de Ecodesenvolvimento de Ignacy Sachs*. CRV.

@@ -44,19 +44,19 @@ updated: '2026-05-18'
 
 ## 评级对象与范围
 
-> [!abstract] 评级对象与范围
+> [![[Abstract]]] 评级对象与范围
 > CASEL 在作者的一致性分析中贡献了 25 个项目。作者只纳入 2015 CASEL Guide 中列出的所有项目；这些项目聚焦社会与情感学习（social and emotional learning）（Wadhwa et al., 2024, p.16）。
 
 ## 证据标准
 
-> [!abstract] 证据标准
+> [![[Abstract]]] 证据标准
 > 在设计标准编码中，CASEL 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它和 [[Home Visiting Evidence of Effectiveness|HomVEE]] 一样在流失指南上遵循 [[What Works Clearinghouse|WWC]] 指南；这意味着其流失判断与 WWC 的总体流失和差异流失组合规则有关（Wadhwa et al., 2024, p.9）。
 >
 > CASEL 与 Blueprints、[[Promising Practices Network|PPN]]、[[Best Evidence Encyclopedia|BEE]] 和 [[Social Programs That Work|SPTW]] 一样，只报告具有正向效果的项目；这使它不同于 [[What Works Clearinghouse|WWC]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 等会区分无效与效果不确定项目的清算中心（Wadhwa et al., 2024, p.12）。
 
 ## 与其他清算中心的差异
 
-> [!abstract] 与其他清算中心的差异
+> [![[Abstract]]] 与其他清算中心的差异
 > CASEL 的主题范围较窄，聚焦社会情感学习；它不像 [[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 那样覆盖多个教育结果域。其方法标准在表 3 中也较简略：承认 [[Randomised Controlled Trials|RCT]] 和一般 [[Quasi-Experimental Designs|QED]]，但未列 RDD 或 ITS 标准（Wadhwa et al., 2024, pp.6, 10）。
 
 ## 相关概念／政策

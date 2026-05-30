@@ -53,7 +53,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Larsen, S. N. (2019). Blindness in Seeing: A Philosophical Critique of the [[Visible Learning]] Paradigm in Education. *Education Sciences*, 9(1), 47. — 从 [[Bildung]]、[[Neuroplasticity|神经可塑性]]、[[Phenomenology|现象学]]自由和概念史四维度对 [[John Hattie|Hattie]] VL 范式的系统哲学批判
 > - Larsen, S. N. (2018). A critical essay on the exercise of critique: On the impossibility of reconciling ontology and epistemology. *Danish Yearbook of Philosophy*, 51, 119–141. — 探讨本体论与认识论不可调和性
 > - Larsen, S. N. (2016). *At Ville Noget Med Nogen. Filosofiske og Samtidskritiske Fragmenter om Dannelse og Pædagogik* [想要对某人做什么：关于 Bildung 与教育学的哲学与当代批判片段]. Turbine. — 关于 Bildung 与教育学的丹麦语哲学著作

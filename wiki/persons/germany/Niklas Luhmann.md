@@ -45,7 +45,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Luhmann, N. (1997/1998). *Die Gesellschaft der Gesellschaft* [社会的社会] (2 vols.). Suhrkamp. （英译：*Theory of Society*, Stanford University Press, 2012/2013） — [[Luhmann's Systems Theory|系统理论]]的晚期综合巨著，包含盲点（blinder Fleck）概念的系统阐述
 > - Luhmann, N. (2002). *Das Erziehungssystem der Gesellschaft* [社会的教育系统]. Suhrkamp. — 社会系统理论在教育领域的应用，论述社会沟通系统与心理系统的根本性不可通约
 

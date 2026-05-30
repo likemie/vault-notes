@@ -41,7 +41,7 @@ Lyotard 出生于凡尔赛，早年在索邦大学学习哲学，后加入社会
 
 ## 主要著作
 
-> [!abstract]
+> [![[Abstract]]]
 > - Lyotard, J.-F. (1971). *Discours, figure*. Klincksieck. — 早期代表作，在结构主义主导的时代为感性经验（figure）辩护，批评语言符号对视觉和身体经验的压制
 > - Lyotard, J.-F. (1979/1984). *The Postmodern Condition: A Report on Knowledge*. University of Minnesota Press. — 最具影响力的作品。提出"对元叙事的怀疑"作为后现代状况的定义，区分[[Narrative Knowledge|叙事知识]]与科学知识，并引入"表演性"（performativity）概念分析知识在后工业社会中的合法化逻辑
 > - Lyotard, J.-F. (1983). *Le Différend*. Éditions de Minuit. — 晚期哲学代表作，探讨不同话语类型（genres of discourse）之间的不可通约性，论证不存在可以公允裁决所有冲突的元语言

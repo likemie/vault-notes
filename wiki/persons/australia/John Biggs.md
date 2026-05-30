@@ -46,7 +46,7 @@ updated: '2026-05-23'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Biggs, J., & Tang, C. (2011). *Teaching for qualitative learning at university*. Berkshire: Open University Press. — 系统阐述[[Constructive Alignment|建构性对齐]]原则
 
 ## 核心思想

@@ -36,7 +36,7 @@ updated: '2026-05-18'
 
 ## 核心机制
 
-> [!abstract] 核心机制
+> [![[Abstract]]] 核心机制
 > 突触修剪基于 **Hebb 原则**：经常使用的神经通路将被加强，而不经常需要的通路将被移除（Bolton & [[John Hattie|Hattie]], 2017, p.6）。
 >
 > 这一过程被认为由谷氨酸受体介导的突触可塑性（即长时程增强，Long Term Potentiation）所支撑（Bolton & Hattie, 2017, p.6，引用 Selemon, 2013）。

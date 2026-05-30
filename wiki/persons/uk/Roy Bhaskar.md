@@ -64,7 +64,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Bhaskar, R. (1978). *A realist theory of science*. Hassocks: Harvester Press. — [[Critical Realism|批判实在论]]科学哲学的基础文本（Wrigley & McCusker, 2019, p. 125）
 > - Bhaskar, R. (1979). *The possibility of naturalism: A philosophical critique of the contemporary human sciences*. Hassocks: Harvester Press. — 将批判实在论从自然科学扩展至人文社会科学（Wrigley & McCusker, 2019, p. 125）
 

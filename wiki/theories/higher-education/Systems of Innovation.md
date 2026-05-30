@@ -51,7 +51,7 @@ updated: 2026-05-27
 
 ## 核心命题
 
-> [!abstract]
+> [![[Abstract]]]
 > 1. **创新是互动过程**：创新涉及多个行动者的双向互动，远比线性模型所暗示的更复杂；科学-创新-社会之间存在重要的相互作用，不仅是经济制度，社会政治制度同样塑造创新行为（Freeman, 1982）（Ulrichsen, 2025, p.29）。
 > 2. **隐性知识至关重要**：显性知识（codified knowledge，如论文、专利）只是知识流动的一部分；隐性知识（tacit knowledge）在组织间和跨国界的流动对创新同样关键（p.29）。
 > 3. **[[Absorptive Capacity|吸收能力]]与学习能力**：公司和国家的吸收能力（absorptive capacity）——即获取、消化和利用外部知识的能力——与[[Knowledge Production|知识生产]]能力同等重要；学习能力和创造力是创新的核心驱动力（p.29）。
@@ -98,7 +98,7 @@ updated: 2026-05-27
 
 ## 政策含义：从市场失灵到系统失灵
 
-> [!abstract]
+> [![[Abstract]]]
 > 创新[[Luhmann's Systems Theory|系统理论]]的政策核心是：政府需要解决的远不止"市场失灵"（market failure），而是更广泛的"系统失灵"（system failures）。Weber 和 Rohracher（2012）以及 Kelleher 和 Ulrichsen（2022）识别了以下类型（Ulrichsen, 2025, pp.30–31）：
 
 | 失灵类型 | 含义 | 例子 |
