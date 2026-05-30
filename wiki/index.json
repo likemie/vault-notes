@@ -4084,6 +4084,16 @@
     ]
   },
   {
+    "title": "Joint Display",
+    "type": "method",
+    "path": "wiki/methods/mixed/Joint Display.md",
+    "aliases": [
+      "联合展示",
+      "联合展示表",
+      "joint displays"
+    ]
+  },
+  {
     "title": "Logic Model",
     "type": "method",
     "path": "wiki/methods/mixed/Logic Model.md",
@@ -7247,6 +7257,11 @@
     "title": "Argument_Li_2012_Cambridge",
     "type": "argument",
     "path": "wiki/arguments/books/Argument_Li_2012_Cambridge.md"
+  },
+  {
+    "title": "Argument_Creswell_2022_SAGE",
+    "type": "argument",
+    "path": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
   },
   {
     "title": "Argument_Boccanfuso_Hall_2025_Alignment",

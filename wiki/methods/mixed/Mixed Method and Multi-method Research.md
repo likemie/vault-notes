@@ -22,6 +22,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Joint Display]]"
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"
   - "[[Observational and Correlational Research]]"
@@ -37,13 +38,15 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-05-26
+updated: 2026-05-30
 ---
 
 ## 定义
 
 > [!info] 定义
-> 混合方法/多方法研究（Mixed Method/Multi-method Research）在 Brady et al. (2023) 的编码中指不操纵自变量、并同时包含量化数据和质性数据的研究。该类别是作者相较 Reinhart et al. (2013) 与 Robinson et al. (2007) 旧分类新增的类别（Brady et al., 2023, p.4）。
+> 混合方法研究（Mixed Methods Research）的核心特征是同时收集并整合（"混合"）量化与质性数据，在分析阶段合并两种数据库以获取超越单一方法的额外洞察。Creswell & Creswell (2022) 将其定位为与量化和质性并列的第三种研究路径，而不仅仅是两种方法的简单叠加；其关键标志是数据的整合而非并列（Creswell & Creswell, 2022, 前言）。
+> 
+> 在 Brady et al. (2023) 的编码中指不操纵自变量、并同时包含量化数据和质性数据的研究。该类别是作者相较 Reinhart et al. (2013) 与 Robinson et al. (2007) 旧分类新增的类别（Brady et al., 2023, p.4）。
 
 ## 认识论立场
 
@@ -53,6 +56,15 @@ updated: 2026-05-26
 ## 操作步骤
 
 > [!example] 操作步骤
+> Creswell & Creswell (2022) 提出三种核心混合方法设计，以及四种可选的复杂设计：
+> 
+> - **聚敛式设计（Convergent Design）**：同时收集量化和质性数据，将两者的分析结果合并以形成综合解释。
+> - **解释性序列设计（Explanatory Sequential Design）**：先收集并分析量化数据，再用质性数据深入解释量化结果。
+> - **探索性序列设计（Exploratory Sequential Design）**：先收集并分析质性数据以探索现象，再用量化数据检验或推广质性发现。
+> 
+> 分析整合的关键工具是[[Joint Display|联合展示]]，将量化与质性数据或结果以表格形式并列，研究者检视表格后提取整合性洞察（Creswell & Creswell, 2022, 前言）。
+> 
+> 在 Brady et al. (2023) 的编码框架中：
 > - **不操纵自变量**：混合方法/多方法研究在该文分类中属于[[Non-intervention Research|非干预研究]]（Brady et al., 2023, p.4）。
 > - **同时使用量化和质性数据**：这是该类别区别于观察/相关研究和[[Qualitative Research|质性研究]]的操作性标准（Brady et al., 2023, p.4）。
 > - **作为独立编码类别**：作者在 2020 年数据中单独编码该类，因为此前研究未将其与观察/相关研究分开（Brady et al., 2023, pp.4, 6）。

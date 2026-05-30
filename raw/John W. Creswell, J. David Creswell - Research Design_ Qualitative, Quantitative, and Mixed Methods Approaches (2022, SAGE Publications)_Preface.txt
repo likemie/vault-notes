@@ -1,0 +1,100 @@
+Preface
+=======
+
+Preface
+
+Purpose
+
+This book advances a framework, a process, and compositional approaches for designing a proposal or research project for qualitative, quantitative, and mixed methods research in the human, health, and social sciences. The ascendency of qualitative research, the emergence of mixed methods approaches, and the growth of quantitative designs have created a need for this book’s unique comparison of the three approaches to inquiry. This comparison begins with preliminary philosophical assumptions for all three approaches, a review of the literature, an assessment of the use of theory and conceptual frameworks in research approaches, and reflections about the importance of writing and ethics in scholarly inquiry. The book then addresses the key elements in the process of designing and conducting a research project: writing an introduction; stating a purpose or research aims for the study; identifying research questions and hypotheses; and advancing methods and procedures for data collection, analysis, and interpretation. At each step in this process, the reader is taken through qualitative, quantitative, and mixed methods approaches.
+
+Audience
+
+This book is intended for students and faculty who seek assistance in preparing a plan, proposal, or research project for a scholarly journal article, a dissertation, a thesis, or an application for funding. At a broader level, the book may be useful as both a reference book and a textbook for courses in research methods. To best take advantage of the design features in this book, the reader needs a basic familiarity with qualitative and quantitative research; however, terms will be explained and defined and recommended strategies advanced for those needing introductory assistance in the design process. Highlighted terms in the text and a glossary of the terms at the back of the book provide a working language for understanding research. This book also is intended for a broad audience in the human, health, and social sciences. Readers’ comments from the past five editions suggest that individuals using the book come from many disciplines and fields. We hope that researchers in fields such as marketing, management, criminal justice, communication studies, psychology, sociology, K–12 education, higher and postsecondary education, nursing, family medicine, health services research, global health, behavioral health, urban studies, family research, and other fields of study will find this sixth edition useful.
+
+Format
+
+In each chapter, we share examples drawn from varied disciplines. We drew examples from books, journal articles, dissertation proposals, and dissertations. Although our primary specializations are educational psychology, the health sciences, and psychology, the illustrations are inclusive of many fields. They reflect issues in social justice and examples of studies with marginalized individuals in our society as well as the traditional samples and populations studied by researchers. Inclusiveness also extends to methodological pluralism in research today, and the discussion incorporates alternative philosophical ideas, diverse modes of inquiry, and numerous procedures.
+
+This book is not a detailed method text; instead, we highlight the essential features of research design. We have attempted to reduce research to its core ideas so that researchers can plan a thorough and thoughtful study. The coverage of research designs is limited to frequently used forms: surveys and experiments in quantitative research; narrative research, phenomenology, grounded theory, ethnography, and case studies in qualitative research; and convergent, explanatory sequential, and exploratory sequential designs in mixed methods research. Although students preparing a dissertation proposal should find this book helpful, topics related to the politics of presenting and negotiating a study with review committees are addressed thoroughly in other texts.
+
+Consistent with accepted conventions of scholarly writing, we have tried to eliminate any words or examples that convey a discriminatory (e.g., sexist or ethnic) orientation. Examples were selected to provide a full range of gender and cultural orientations. Throughout the text we do not favor either qualitative or quantitative research. Indeed, we have intentionally altered the order of qualitative and quantitative examples throughout the book. Readers should also note in the longer examples cited in this book many references made to other writings. We cite only references we use in this book, not the entire list of references embedded within examples. As with earlier editions, we have maintained features to enhance the readability and understandability of the material: bullets to emphasize key points, numbered points to stress key steps in a process, and longer examples of complete passages with annotations to highlight key research ideas.
+
+New Features in the Sixth Edition
+
+In this sixth edition of the book, we have added new features in response to reviewers’ comments and emerging trends in research methods:
+
+We offer more inclusive and supportive language in our discussions throughout the book.
+
+New tables and figures clarify content, such as the difference between a research problem, a purpose or aim, and a research question.
+
+Research methods is a living and evolving science. We updated the text to capture new trends and include new references to bring a state-of-the-art discussion to the book.
+
+Each chapter now begins with learning objectives.
+
+We have reorganized and added a number of new features to the quantitative methods chapter.
+
+The structure of the three methods chapters—quantitative, qualitative, and mixed methods—now show a similar and consistent sequence of method topics.
+
+As in previous editions, we alternate starting with quantitative research and then qualitative research to give preference to both approaches.
+
+The chapter on mixed methods research reflects updated content and current views.
+
+Throughout the text we inserted new, updated examples.
+
+We added tables in a couple of the chapters to define key terms needed by the reader. We recognize that mixed methods research has its own unique terminology.
+
+We have clarified and improved the writing exercises to help readers better achieve learning objectives.
+
+Outline of the Chapters
+
+This book is divided into two parts. Part I comprises steps that researchers need to consider before they develop their proposals or plans for research. Part II discusses the sections used to develop a scholarly research proposal for a thesis, dissertation, or a research report.
+
+Part I. Preliminary Considerations
+
+This part of the book discusses preparing for the design of a scholarly study. It contains Chapters 1 through 4.
+
+Chapter 1. The Selection of a Research Approach
+
+In this chapter, we begin by defining quantitative, qualitative, and mixed methods approaches. We then discuss how philosophy, designs, and methods intersect when one uses one of these approaches. We review different philosophical stances (postpositivist, constructivist, transformative, and pragmatic); advance types of qualitative, quantitative, and mixed methods designs; and then discuss the methods associated with each design. We also consider the factors for choosing an approach to research. Thus, this chapter should help proposal developers decide whether a qualitative, quantitative, or mixed methods approach is suitable for their proposed research project.
+
+Chapter 2. Review of the Literature
+
+It is important to extensively review the literature on your topic before you design your proposal. Thus, you need to begin with a researchable topic and a draft topic and then explore the literature using the steps advanced in this chapter. Realize that literature reviews differ for quantitative, qualitative, and mixed methods projects. The steps call for searching the literature, using computerized databases, locating a small number of studies to review, evaluating the quality of the information sources, developing a literature map, and assembling a summary of the literature. This chapter should help researchers thoughtfully consider relevant literature on their topics and start compiling and writing literature reviews.
+
+Chapter 3. The Use of Theory
+
+Theories serve different purposes in the three approaches inquiry. In quantitative research, they provide a proposed explanation for the relationship among variables tested by the investigator. Different types of quantitative variables are related in theories and often presented as causal models indicating a time ordering. In qualitative research, they may often serve as a lens for the inquiry, or they may be generated during the study. In mixed methods studies, researchers employ them in many ways, including those associated with quantitative and qualitative approaches. This chapter helps researchers consider and plan how to incorporate theory into their studies.
+
+Chapter 4. Writing Strategies and Ethical Considerations
+
+It is helpful to have an overall outline of topics in a proposal or research study before you begin writing. Thus, this chapter begins with a general model of questions addressed in a good proposal. It then presents the structure of a proposal for a qualitative, quantitative, and mixed methods study with different outlines for writing proposals. Writing clearly and concisely is a necessary part of a good proposal, and the discussion turns to writing strategies. The act of writing helps researchers think through a project. The project needs to be easy to read, coherent with sections tied together, and grammatically correct. Ethical issues that arise in projects also need attention. Strategies need to be developed to attend to issues arising prior to and during the conduct of the study. Ethical issues also arise in the reporting and dissemination of a study.
+
+Part II. Designing Research
+
+In Part II, we turn to the components of designing the research proposal. Chapters 5 through 10 address steps in this process.
+
+Chapter 5. The Introduction
+
+It is important to properly introduce a research study. We provide a model for writing a good scholarly introduction to your proposal. The chapter begins with designing an abstract for a study. This is followed by developing an introduction to include identifying the research problem or issue, framing this problem within the existing literature, pointing out deficiencies in the literature, and targeting the study for an audience. This chapter provides a systematic method for designing a scholarly introduction to a proposal or study.
+
+Chapter 6. The Purpose Statement
+
+At the beginning of research proposals or projects, authors mention the central purpose or study aim. This passage is the most important statement in the entire research process, and an entire chapter is devoted to this topic. In this chapter, you learn how to write this statement for qualitative, quantitative, and mixed methods studies. Scripts, to be filled in with your project, provide practical statements that will ease your process of designing a proposal or a research study.
+
+Chapter 7. Research Questions and Hypotheses
+
+The questions and hypotheses addressed by the researcher serve to narrow and focus the purpose of the study. As a major signpost in a project, research questions and hypotheses need to be written carefully. In this chapter, you will learn how to write both qualitative and quantitative research questions and hypotheses as well as how to employ both forms in writing mixed methods questions and hypotheses. Numerous examples serve as scripts to illustrate these processes.
+
+Chapter 8. Quantitative Methods
+
+Quantitative methods involve the processes of collecting, analyzing, interpreting, and writing the results of a study. Specific methods exist in both survey and experimental research that relate to identifying a sample and population, specifying the type of design, collecting and analyzing data, presenting the results, making an interpretation, and writing the research in a manner consistent with a survey or experimental study. In this chapter, the reader learns the specific procedures for designing survey or experimental methods that need to go into a research proposal. This chapter provides checklists to ensure the inclusion of all steps.
+
+Chapter 9. Qualitative Methods
+
+Qualitative approaches to data collection, analysis, interpretation, and report writing differ from the traditional, quantitative approaches. Purposeful sampling, open-ended data collection, text or images analysis (e.g., pictures), figures and tables, representations, and personal interpretations of the findings all inform qualitative methods. This chapter advances steps in designing qualitative procedures into a research proposal, and it also includes a checklist for making sure that you cover important procedures. Ample illustrations provide examples from narrative studies, phenomenology, grounded theory, ethnography, case studies, and descriptive studies.
+
+Chapter 10. Mixed Methods Procedures
+
+Mixed methods research involves the collection and “mixing” or integration of both quantitative and qualitative data in a study. It is not enough to only analyze your qualitative and quantitative data. Further analysis comprises integrating the two databases for additional insight into research problems and questions. Mixed methods research has increased in popularity in recent years, and this chapter highlights important developments and introduces the use of this design. This chapter begins by defining mixed methods research and the core characteristics that describe it. Then it takes the reader through the process of designing a method section for a proposal or plan. This process involves collecting both quantitative (closed-ended) and qualitative (open-ended) data based on research questions or hypotheses. This is followed by identifying a mixed methods design with the intent and procedures to integrate the two databases. We discuss three core designs and four complex designs. To analyze the integration we suggest using a joint display that arrays the quantitative and qualitative data or results in a table. Then researchers examine the table and draw inferences or insight from integrating the two databases. Choosing a mixed methods design involves considering the intent and the procedures for integrating the data. Flowcharts in the chapter help researchers decide on an appropriate mixed methods design for their studies.
+
+Designing a study is a difficult and time-consuming process. This book will not necessarily make the process easier or faster, but it can provide specific skills useful in research, knowledge about the steps involved in the process, and a practical guide to composing and writing scholarly research. Before the steps of the process unfold, we recommend that proposal developers think through their approaches to research, conduct literature reviews on their topics, develop an outline of topics to include in a proposal design, and begin anticipating potential ethical issues that may arise in the research.
