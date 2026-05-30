@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+                "file": "wiki/concepts/research-methodology/Voice, Tense, and Concision in Academic Writing.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Creswell_2022_SAGE"
+              "title": "Voice, Tense, and Concision in Academic Writing"
             }
           }
         ]
@@ -190,8 +190,13 @@
   },
   "active": "ab1c0edf0a848eb0",
   "lastOpenFiles": [
-    "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md",
+    "wiki/concepts/research-methodology/Deficiencies in Past Literature.md",
+    "wiki/concepts/research-methodology/Deficiencies Model for an Introduction.md",
+    "wiki/concepts/research-methodology/Narrative Hook.md",
+    "wiki/concepts/research-methodology/Research Problem.md",
+    "raw/011_Chapter 5 The Introduction.txt",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+    "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md",
     "wiki/concepts/research-methodology/Narrative Thought Types.md",
     "wiki/concepts/research-methodology/Hypothesis.md",
     "wiki/concepts/research-methodology/Crotty's Four Levels of Research Design.md",
@@ -214,10 +219,6 @@
     "wiki/theories/psychology/Social Learning Theory.md",
     "wiki/concepts/research-methodology/Causality.md",
     "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
-    "wiki/persons/usa/John W. Creswell.md",
-    "wiki/persons/usa/Julian B. Rotter.md",
-    "wiki/persons/usa/Robert E. Stake.md",
-    "wiki/persons/usa/Jim Spohrer.md",
     "scripts/check_duplicates.py",
     "scripts/fix_duplicate_keys.py",
     "wiki/persons/usa/Fred N. Kerlinger.md.tmp.83374.c60c6626be8a",
@@ -225,7 +226,6 @@
     "scripts/rename_entries.py",
     "wiki/persons/canada-usa",
     "wiki/theories/psychology",
-    "raw/008_Chapter 3 The Use of Theory.txt",
     "books/郑_2023_上海三联书店/figures/学校情况.jpeg",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",

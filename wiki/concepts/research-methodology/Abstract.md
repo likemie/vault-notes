@@ -1,7 +1,7 @@
 ---
 title: Abstract
 aliases: ["文献摘要", "研究摘要", "abstracting studies", "literature abstract", "study abstract"]
-summary: "Creswell 定义的文献加工方法，指对研究文献进行简要回顾的短段落，实证研究与非实证研究的摘要要素不同，是文献综述写作的关键中间步骤"
+summary: "Creswell 定义的双重概念，既指文献综述中加工研究文献的短段落（文献摘要），也指置于研究开篇的全文概述（研究摘要），后者包含研究问题、数据来源、方法、发现和结论五个核心组成部分"
 type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:
@@ -68,6 +68,33 @@ updated: 2026-05-31
 > "Recent published articles and comments by researchers, federal recommendations, and professional association standards have recommended core quality criteria for designing and writing mixed methods research. Unfortunately, a synthesis of recent timely recommendations has not been made...（研究问题）This article presents six best practices in mixed methods culled from recent sources, discusses the need for each practice, and then illustrates its use in a recent empirical study from Japan（研究目的与主题）. This article contributes to the [[Champ|field]] of mixed methods methodology by providing a parsimonious list of core criteria...（贡献）"
 >
 > 这个摘要仅 120 词（受期刊投稿指南限制），但简洁地传达了研究问题、目的、主题和贡献（引自 Creswell & Creswell, 2022）。
+
+---
+
+## 研究摘要（Study Abstract）的构成要素
+
+除文献综述过程中的文献摘要外，摘要还有另一层含义——置于研究报告、学位论文或资助申请开篇的研究摘要。APA 出版手册（American Psychological Association, 2020）指出，摘要可能是研究中最重要的单个段落，需要准确、非评价性（不添加超出研究范围的评论）、连贯、可读和简洁。大多数摘要约 250 词（Creswell & Creswell, 2022, 第5章）。
+
+对于实证研究的研究方案，摘要应包含以下五个核心组成部分，且应按以下顺序呈现（Creswell & Creswell, 2022, 第5章）：
+
+1. **研究问题或议题**：开篇陈述正在调查的问题或议题。可以引用一两条参考文献说明该问题，但摘要太短，不宜包含过多引用。
+
+2. **数据来源与相关特征**：说明数据的来源及其相关特征。
+
+3. **研究方法的核心特征**：陈述研究设计、数据分析、数据收集、样本量、材料等基本特征，以及方法是否涉及二次分析。
+
+4. **基本发现**：传达基本发现。对于量化分析，包括效应量、置信区间和统计显著性水平；对于质性方法，说明主要发现及其情境。
+
+5. **结论与启示／应用**：以研究发现的结论、启示或应用收尾。
+
+> [!example] 包含五个要素的质性研究摘要示例
+> "The issue that this study addresses is the lack of women in martial arts competitions. To address this problem, the purpose of this study will be exploring motivation of female athletes in Tae Kwon Do competitions. To gather data, interviews with 4 female Tae Kwon Do tournament competitors were conducted. The interviews were transcribed and analyzed. This data leads to the following 3 themes: social support, self-efficacy, and goal orientation. These themes will be useful for understanding the optimal way to increase motivation in female martial artists."（Witte, 2011, personal communication; 引自 Creswell & Creswell, 2022, 第5章）
+>
+> 该摘要依次包含研究问题（女性在武术比赛中的缺乏）、目的陈述、方法（对 4 位女性跆拳道选手的访谈）、发现（社会支持、自我效能感和目标导向三个主题）以及结论与启示。
+
+> [!note] 文献摘要与研究摘要的区别
+> - **文献摘要**：用于文献综述流程，对他人研究进行简要回顾和记录，是"读文献"到"写综述"的桥梁
+> - **研究摘要**：置于自己的研究方案或论文开篇，是读者判断是否阅读全文的依据，受到期刊字数限制的规范
 
 ---
 

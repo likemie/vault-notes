@@ -3061,6 +3061,29 @@
     ]
   },
   {
+    "title": "Deficiencies in Past Literature",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Deficiencies in Past Literature.md",
+    "aliases": [
+      "既往文献缺陷",
+      "文献缺口",
+      "literature gaps",
+      "deficiencies in the evidence",
+      "文献不足"
+    ]
+  },
+  {
+    "title": "Deficiencies Model for an Introduction",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Deficiencies Model for an Introduction.md",
+    "aliases": [
+      "引言缺陷模型",
+      "deficiencies model",
+      "deficiency model of an introduction",
+      "缺陷模型"
+    ]
+  },
+  {
     "title": "Definition of Terms",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Definition of Terms.md",
@@ -3151,7 +3174,6 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Hypothesis.md",
     "aliases": [
-      "假设",
       "研究假设",
       "预测性假设",
       "research hypothesis",
@@ -3231,6 +3253,16 @@
     "path": "wiki/concepts/research-methodology/Methodological Nationalism.md",
     "aliases": [
       "方法论民族主义"
+    ]
+  },
+  {
+    "title": "Narrative Hook",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Narrative Hook.md",
+    "aliases": [
+      "叙事钩子",
+      "narrative hooks",
+      "opening hook"
     ]
   },
   {
@@ -3325,6 +3357,15 @@
       "研究伦理规范",
       "research ethics in social sciences",
       "code of ethics"
+    ]
+  },
+  {
+    "title": "Research Problem",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Research Problem.md",
+    "aliases": [
+      "研究问题",
+      "research problems"
     ]
   },
   {
