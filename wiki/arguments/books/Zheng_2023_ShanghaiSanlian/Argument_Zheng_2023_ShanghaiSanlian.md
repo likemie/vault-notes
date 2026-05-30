@@ -7,8 +7,6 @@ type: argument
 subtype: monograph
 publication_type: book
 book_title: 金榜题名之后：大学生出路分化之谜
-authors:
-  - 郑雅君
 publisher: 上海三联书店
 citation: 郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海三联书店.
 tags:

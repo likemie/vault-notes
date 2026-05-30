@@ -3039,6 +3039,17 @@
     ]
   },
   {
+    "title": "Crotty's Four Levels of Research Design",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Crotty's Four Levels of Research Design.md",
+    "aliases": [
+      "Crotty的四层研究设计",
+      "Crotty四层模型",
+      "four levels of research",
+      "Crotty's four levels"
+    ]
+  },
+  {
     "title": "Definition of Terms",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Definition of Terms.md",
@@ -5856,6 +5867,15 @@
     ]
   },
   {
+    "title": "Egon G. Guba",
+    "type": "person",
+    "path": "wiki/persons/usa/Egon G. Guba.md",
+    "aliases": [
+      "埃贡·古巴",
+      "Guba"
+    ]
+  },
+  {
     "title": "Fred N. Kerlinger",
     "type": "person",
     "path": "wiki/persons/usa/Fred N. Kerlinger.md",
@@ -5907,6 +5927,25 @@
     "path": "wiki/persons/usa/Julian B. Rotter.md",
     "aliases": [
       "朱利安·罗特"
+    ]
+  },
+  {
+    "title": "Robert E. Stake",
+    "type": "person",
+    "path": "wiki/persons/usa/Robert E. Stake.md",
+    "aliases": [
+      "罗伯特·斯塔克",
+      "斯塔克",
+      "Stake"
+    ]
+  },
+  {
+    "title": "Yvonna S. Lincoln",
+    "type": "person",
+    "path": "wiki/persons/usa/Yvonna S. Lincoln.md",
+    "aliases": [
+      "伊冯娜·林肯",
+      "Lincoln"
     ]
   },
   {

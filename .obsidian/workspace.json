@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+                "file": "wiki/persons/usa/John W. Creswell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Creswell_2022_SAGE"
+              "title": "John W. Creswell"
             }
           }
         ]
@@ -190,8 +190,19 @@
   },
   "active": "ab1c0edf0a848eb0",
   "lastOpenFiles": [
-    "wiki/concepts/research-methodology/Theoretical End Point.md",
+    "wiki/persons/usa/Julian B. Rotter.md",
+    "wiki/persons/usa/Robert E. Stake.md",
+    "wiki/persons/usa/John W. Creswell.md",
+    "wiki/persons/usa/Jim Spohrer.md",
+    "wiki/persons/usa/Egon G. Guba.md",
+    "wiki/persons/usa/Yvonna S. Lincoln.md",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+    "scripts/check_duplicates.py",
+    "scripts/fix_duplicate_keys.py",
+    "wiki/persons/usa/Yvonna S. Lincoln and Egon G. Guba.md",
+    "wiki/concepts/research-methodology/Crotty's Four Levels of Research Design.md",
+    "wiki/concepts/learning-science-cognitive-science/Self-control.md",
+    "wiki/concepts/research-methodology/Theoretical End Point.md",
     "wiki/concepts/research-methodology/Variable.md",
     "wiki/arguments/journal-articles/British Educational Research Journal/Argument_Wrigley_2018_BERJ.md",
     "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md",
@@ -208,15 +219,6 @@
     "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
     "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
-    "wiki/arguments/journal-articles/Archives of Psychology/Argument_Bolton_2017_ArchPsych.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Burrus_Patera_2025_PartnershipBuilding.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hoffman_2025_UI_Alliances_Consortia.md",
-    "wiki/arguments/journal-articles/Educational Researcher/Argument_Kraft_2023_ER.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Teng_2025_CE.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
     "scripts/rename_entries_batch.py",
     "scripts/rename_entries.py",
     "wiki/persons/canada-usa",
@@ -224,8 +226,6 @@
     "raw/008_Chapter 3 The Use of Theory.txt",
     "scripts/fix_authors.py",
     "scripts/analyze_concepts.py",
-    "books/Zheng_2023_ShanghaiSanlian/金榜题名之后_大学生出路分化之谜.epub",
-    "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
     "books/郑_2023_上海三联书店/figures/学校情况.jpeg",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
