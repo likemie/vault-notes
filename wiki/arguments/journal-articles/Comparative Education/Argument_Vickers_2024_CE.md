@@ -1,6 +1,7 @@
 ---
 title: Argument_Vickers_2024_CE
-author: "Vickers, E"
+authors:
+  - "Vickers, E"
 summary: "比较 LS 2020 版与 CSD 2022 版教科书在历史叙事、一国两制、文化角色和公民权利四个维度的变化，论证国安法后香港课程从培养批判性参与公民转向强制灌输单一中国身份"
 type: argument
 subtype: journal-article
@@ -61,7 +62,7 @@ updated: 2026-05-25
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 分析调动了多个理论视角：
 >
 > - **文化-种族国族主义（culturalist-racialist nationalism）** — 一个核心预设是：中共在习近平时代从阶级话语全面转向了以"优秀中华传统文化"为核心的、具有文化和种族本质主义色彩的国族观。这一转向不是学术讨论，它在政策层面表现为对"少数民族"的强制性同化（如新疆的普通话化教育）、对港澳台地区的"去殖民化-再[[Sinicisation|中国化]]"工程（p.139）。

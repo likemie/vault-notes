@@ -1,6 +1,7 @@
 ---
 title: Argument_Rappleye_2006_RCIE
-author: "Rappleye, J"
+authors:
+  - "Rappleye, J"
 summary: "提出跨国吸引力情境概念地图，拆解情境为结构层与人的层面的双层互动，区分推力与阻力两侧各四种结构因素与多元行动者，以危机化/合法化/审慎/美化四种火花分类吸引力动机，回应全球化对前转移能动性、行动者激增和话语转移的三项分析新要求"
 type: argument
 subtype: journal-article
@@ -57,7 +58,7 @@ updated: '2026-05-28'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - **[[Policy Borrowing]]**（Phillips & Ochs, 2003, 2004a）——四阶段循环模型（[[Cross-National Attraction|跨国吸引力]] → 决策 → 实施 → 内化/本土化）是整篇论证的出发点。论证聚焦于第一阶段"跨国吸引力"，因为该阶段启动整个借用循环，情境因素在这一阶段的作用最为关键（p. 225）。
 >
 > ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png)

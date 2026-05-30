@@ -1,6 +1,7 @@
 ---
 title: Argument_Hattie_2015_Paideia
-author: "Hattie, J"
+authors:
+  - "Hattie, J"
 summary: "以自传式方法论回顾回应 Visible Learning 的常见批评，主张核心不是照搬高效应量清单，而是让教师集体评估自身影响并持续检验证据解释"
 type: argument
 subtype: journal-article
@@ -49,7 +50,7 @@ updated: 2026-05-21
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Visible Learning]] — 作为整篇文章的核心框架，被解释为“认识并评估自身影响”的教学改进模式，而不是一套固定教学法或高[[Effect Size|效应量]]清单（[[John Hattie|Hattie]], 2015, pp.11-13）。
 > - [[Effect Size]] — 作为比较不同教育影响的共同尺度，尤其通过 d = 0.40 这个平均参考点帮助判断某项影响是否高于所有可见教育影响的平均水平（Hattie, 2015, pp.10-11）。
 > - [[Meta-analysis]] 与 [[Meta-meta-analysis]] — 作为 Visible Learning 的证据基础。文章承认这些综合需要更好地处理调节变量、研究质量和结果类型，但仍主张它们能为教育实践提供可讨论的证据起点（Hattie, 2015, pp.10-18）。

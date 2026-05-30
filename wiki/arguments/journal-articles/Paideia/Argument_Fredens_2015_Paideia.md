@@ -1,6 +1,7 @@
 ---
 title: Argument_Fredens_2015_Paideia
-author: "Fredens, K"
+authors:
+  - "Fredens, K"
 summary: "Kjeld Fredens 对 Hattie & Yates Synlig læring og læringens anatomi 的丹麦语书评，提炼九条学习原则，提出反馈文化概念并补充默认网络功能批评"
 type: argument
 subtype: journal-article
@@ -40,7 +41,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Visible Learning]] — 书评以 VL 框架本身为评述对象，以欣赏但补充批评的立场呈现
 
 ## 核心论证

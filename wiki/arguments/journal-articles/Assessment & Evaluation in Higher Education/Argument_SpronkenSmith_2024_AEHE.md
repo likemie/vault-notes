@@ -1,6 +1,7 @@
 ---
 title: Argument_SpronkenSmith_2024_AEHE
-author: "Spronken-Smith, R., Brown, K., & Cameron, C"
+authors:
+  - "Spronken-Smith, R., Brown, K., & Cameron, C"
 summary: "通过美新三国 PhD 毕业生调查与访谈，比较 HASS 与科学学科博士特质发展与职场应用的差距，识别出团队合作等五大薄弱领域，提出含全球公民维度的七域分类框架"
 type: argument
 subtype: journal-article
@@ -52,7 +53,7 @@ updated: '2026-05-26'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 研究以[[Graduate Attributes|毕业生特质]]概念为起点，分三个层次搭建分析框架。
 >
 > **第一层：毕业生特质的定义。** 采用 Bowden et al.（2000）的经典定义——毕业生特质是"大学社群认同其学生在学期间应当发展的品质、技能和理解，这些特质将塑造他们对其专业和作为公民所能做出的贡献"（p.86）。这一定义的关键在于：毕业生特质不仅是"技能"，还包括品质（qualities）和公民维度。

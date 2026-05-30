@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] Instrumentalism（工具主义）
+> [![[Abstract]]] Instrumentalism（工具主义）
 > 关注测量实践中如何解决实际问题——约束如何被处理、利益如何被翻译、分类如何被定义、框架如何被协商、方法如何被建立、协议如何被制定。Gorur 以 [[International Indicators of Education Systems|INES]] 为案例展示了：面对技术不可行性，科学家放弃理论模型，采用以可用性为导向的经验方法（Gorur, 2014, p.8–12）。
 
 

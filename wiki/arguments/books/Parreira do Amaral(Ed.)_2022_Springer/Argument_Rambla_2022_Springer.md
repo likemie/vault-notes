@@ -1,6 +1,7 @@
 ---
 title: Argument_Rambla_2022_Springer
-author: "Rambla, X"
+authors:
+  - "Rambla, X"
 summary: "Ch10 Xavier Rambla，以 Le Galès 政策工具框架分析欧盟创新与教育培训政策如何通过绩效指标构建区域性的教育与创新想象，揭示其选择性优先技术研发和就业导向而边缘化区域异质性与人文赋权"
 type: argument
 subtype: book-chapter
@@ -62,7 +63,7 @@ updated: '2026-05-18'
 
 Rambla 的分析框架由三个核心概念和一个宏观语境构成，综合了政策工具社会学、实在论[[Appraisal Theory|评估理论]]和策略关系国家理论。
 
-> [!abstract]- [[Performance Indicators|绩效指标]]作为政策工具（Le Galès, 2016; Collins, 2018; Jessop, 2007）
+> [![[Abstract]]]- [[Performance Indicators|绩效指标]]作为政策工具（Le Galès, 2016; Collins, 2018; Jessop, 2007）
 > Rambla 综合三位学者的工作，将绩效指标界定为同时包含技术成分和权力成分的复合政策工具，并分解为四个操作维度（Table 10.1, p.165–166）。详见 [[Performance Indicators]]：
 >
 > - **通过互动性专业技能获取合法性（Collins, 2018）**：专家的权威既来自技术掌握，也来自公众和政策制定者对其行动指南"有效"的感知。EUROSTAT 的区域排名之所以被各国政府认真对待，并非因为其数据绝对精确，而是因为它承载了欧盟统计机构的制度权威——这种权威在专家与政策制定者的持续互动中被生产和再生产（p.165）。

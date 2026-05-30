@@ -1,7 +1,6 @@
 ---
 citation: 郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海三联书店.
 extracted_to:
-  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Academic Engagement]]"
   - "[[Academic and Social Integration]]"
   - "[[Economy of Experience]]"
@@ -31,7 +30,6 @@ extracted_to:
   - "[[Recommendation-Based Graduate Admission System]]"
   - "[[Case Study]]"
   - "[[Constructivist Grounded Theory]]"
-  - "[[In-depth Interview]]"
   - "[[Yajun Zheng]]"
   - "[[Didier Eribon]]"
   - "[[Pierre Bourdieu]]"
@@ -41,6 +39,8 @@ extracted_to:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory in Education]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[In-depth Interview]]"
 processed_date: 2026-05-09
 ---
 

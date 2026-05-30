@@ -1,6 +1,7 @@
 ---
 title: Argument_Blass_2020_JESP
-author: "Blass, E"
+authors:
+  - "Blass, E"
 summary: "以五要素框架（方法论、情境、假设、领导力、时效性）评估 Hattie VL 在澳大利亚教育政策中的误用，揭示 VL 被用作“不改变的好借口“而抑制教学创新，记录 Hattie 后续工作中放弃排名转向学习模型"
 type: argument
 subtype: journal-article
@@ -42,7 +43,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > Blass 提出一个五要素概念框架来评估学术研究对政策制定的贡献：**方法论（Methodology）**、**情境（Context）**、**假设（Assumptions）**、**领导力（Leadership）**、**时效性（Currency）**。这五个要素如同烘焙蛋糕：需要厨房（情境）、食材（假设）、厨师（领导力）和食材保质期（时效性），仅有食谱（方法论）是不够的（Blass, 2020, p.92）。
 
 ## 研究方法

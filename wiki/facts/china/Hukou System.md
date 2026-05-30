@@ -7,7 +7,8 @@ aliases:
   - household registration system
   - hukou reform
 summary: "中国 1950 年代建立的户籍制度，长期限制城乡迁移并隔离就业、福利与教育机会，2014 年改革后大城市保留积分制门槛、小城市降低准入，使身份歧视逐步被市场性阶级歧视替代"
-type: concept
+type: fact
+subtype: policy
 tags:
   - region/china
   - policy/hukou
@@ -16,12 +17,12 @@ tags:
   - theme/educational-inequality
 related_concepts:
   - "[[School Choice]]"
-  - "[[Peidu]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[2014 Hukou Reform]]"
+  - "[[Peidu]]"
 related_arguments: []
 sources:
   - "[[Teng_2025_CE]]"
@@ -55,7 +56,7 @@ updated: 2026-05-26
 
 2014 年，国务院发布《[[2014 Hukou Reform|关于进一步推进户籍制度改革的意见]]》，允许迁移人口在除少数特大城市之外的城镇获得当地户口。改革的核心目的是推进"新型城镇化"——减少农村人口并将其转变为城镇居民（Zhan 2017，引自 Teng & Wang, 2025, p.303）。
 
-> [!abstract]
+> [![[Abstract]]]
 > 改革后户口的重要性因城市层级而分化极大：
 
 - **特大城市**（北京、上海等）：继续严控户籍，引入"积分制"（jifenzhi）评估申请者资格。积分标准隐性地偏向受过高等教育、有稳定就业的中上阶层，农村迁移人口处于双重歧视——户口的显性排斥和经济社会地位的隐性排斥（Chen & Wang 2021; Wan & Vickers 2022，引自 Teng & Wang, 2025, p.303）。

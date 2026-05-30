@@ -17,6 +17,7 @@ tags:
 - region/us
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
   - "[[Gating Procedure]]"
 related_theories:
@@ -54,7 +55,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
+> [![[Abstract]]] 政策文本摘要
 > [[What Works Clearinghouse|WWC]] [[21st Century Skills and Competencies Discourse|SCD]] Pilot Standards（全称：[[Single-Case Design]] Technical Documentation Version 1.0 (Pilot)）由 Kratochwill 和 Hitchcock 以及专家组为 Institute of Education Sciences (IES) 在合同 ED-07-CO-0062 下与 Mathematica Policy Research, Inc. 合作开发（Hitchcock et al., 2015, p.459）。
 >
 > > "The Standards that are described in the technical documentation were developed by a Panel of authors for the Institute of Education Sciences (IES) under Contract ED-07-CO-0062 with Mathematica Policy Research, Inc. to operate the What Works Clearinghouse (WWC)." (Hitchcock et al., 2015, p.459)
@@ -75,7 +76,7 @@ updated: '2026-05-18'
 > 一个系统化数据库工具，训练有素且经认证的审查员使用它来（Hitchcock et al., 2015, pp.464–465）：
 >
 > - 记录研究的场所、设计、参与者特征和样本量
-> - 记录因变量的操作性定义和测量方法
+> - 记录因变量的[[Definition of Terms|操作性定义]]和测量方法
 > - 记录基线和干预条件（会话次数、干预时长）
 > - 记录实施者和培训、干预忠实度
 > - 通过视觉分析评估实验控制
@@ -106,11 +107,11 @@ updated: '2026-05-18'
 
 ## 标准中的推广性处理
 
-> [!abstract] 标准中的推广性处理
+> [![[Abstract]]] 标准中的推广性处理
 > Hitchcock et al. (2015) 整篇评论的核心论点是澄清一个误解：Maggin et al. (2013) 在比较 7 种 [[21st Century Skills and Competencies Discourse|SCD]] 评估量规时，仅审查了 [[Single-Case Design|SCD]] 设计标准文件本身，得出了"[[What Works Clearinghouse|WWC]] 标准未捕获推广性细节"的结论。Hitchcock 等回应：
 >
 > 1. WWC 设计标准**不能孤立看待**——它们必须与审查协议和 SCD Review Guide 一起理解（p.461）
-> 2. Review Guide 系统地捕获了 Maggin et al. (2013) 列出的所有推广性标准：基线描述、因变量操作性定义、自变量描述、参与者描述、场所描述（p.465, Table 1）
+> 2. Review Guide 系统地捕获了 Maggin et al. (2013) 列出的所有推广性标准：基线描述、因变量[[Definition of Terms|操作性定义]]、自变量描述、参与者描述、场所描述（p.465, Table 1）
 > 3. 推广性细节**不被评分**（即不设"是否足够好"的阈值）而是**被详细描述**，以便消费者自行判断（p.466）
 > 4. 唯一的例外是 5-3-20 规则，它提供了证据是否被充分重复的阈值（p.466）
 

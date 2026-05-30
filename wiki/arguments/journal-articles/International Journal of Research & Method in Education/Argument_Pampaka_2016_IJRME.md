@@ -1,6 +1,7 @@
 ---
 title: Argument_Pampaka_2016_IJRME
-author: "Pampaka, M., Williams, J., & Homer, M"
+authors:
+  - "Pampaka, M., Williams, J., & Homer, M"
 summary: "IJRME 特刊导言：诊断大规模有效干预缺失与“萎靡感“，识别 agency 分配为核心哲学分歧，主张从“什么有效“转向“什么曾经有效，在哪里，如何，对谁"
 type: argument
 subtype: journal-article
@@ -38,7 +39,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 以教育研究中的"什么有效"辩论为背景，将特刊论文按立场光谱组织：从正统 [[Randomised Controlled Trials|RCT]] 方法论改进，到整合替代方法的中间立场，再到以教师和利益相关者为中心的批判视角。
 
 ## 研究方法

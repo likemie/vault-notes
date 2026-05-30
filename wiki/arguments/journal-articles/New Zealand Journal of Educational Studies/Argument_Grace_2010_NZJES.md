@@ -1,6 +1,7 @@
 ---
 title: Argument_Grace_2010_NZJES
-author: "Grace, G"
+authors:
+  - "Grace, G"
 summary: "以“Critic and Conscience of Society“概念原创者身份回应 Hattie (2010)，论证 Hattie 混淆了“学术领域批评者“与“社会批评者与良知“两种角色，指出 VL 排除非学校因素与该角色根本矛盾"
 type: argument
 subtype: journal-article
@@ -36,7 +37,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 以 Grace 本人 1988 年提出、后被纳入新西兰法律的"[[Critic and Conscience of Society]]"概念为规范性框架——大学在民主社会中有独立的权力制衡角色，须"向权力说真话"，且这种真话必须基于系统性的公正分析、学术与实证研究（p.89）。
 >
 > 以 Bernstein（1970）的经典论文 *Education Cannot Compensate for Society* 和 Roy Nash（2003）的 *Social Class and Education in New Zealand* 为"critic and conscience of society"的典范案例（p.91）。

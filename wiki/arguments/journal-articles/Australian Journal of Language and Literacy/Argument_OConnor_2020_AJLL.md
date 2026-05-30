@@ -1,6 +1,7 @@
 ---
 title: Argument_OConnor_2020_AJLL
-author: "O''Connor, P"
+authors:
+  - "O''Connor, P"
 summary: "以 VL 全语言处理为案例的细读审查：揭示分类错误、不对称审查（接受 -0.65/修正 +0.65）、选择性排除（VL 唯一被修正效应量的元分析），论证先验偏见驱动数据选择"
 type: argument
 subtype: journal-article
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - 未提出正式理论框架；论文采用批判性方法论审查（critical methodological review）方法
 > - 隐含的理论立场：读写是社会文化实践（Bloome, Harris & Ludlam, 1991），教学法始终是政治的
 

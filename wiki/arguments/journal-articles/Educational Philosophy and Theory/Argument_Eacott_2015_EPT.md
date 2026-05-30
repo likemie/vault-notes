@@ -1,6 +1,7 @@
 ---
 title: Argument_Eacott_2015_EPT
-author: "Eacott, S"
+authors:
+  - "Eacott, S"
 summary: "以 Bourdieu 认识论预备（断裂、警觉、前建构对象）论证教育行政学者的嵌入具身性塑造其智识凝视，呼吁重新审视知识生产条件"
 type: argument
 subtype: journal-article
@@ -17,6 +18,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Doxa]]"
   - "[[Epistemological Break]]"
+  - "[[Definition of Terms]]"
   - "[[Epistemological Vigilance]]"
   - "[[Knowledge Production]]"
 related_theories: []
@@ -39,7 +41,7 @@ updated: 2026-05-18
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 以 **[[Pierre Bourdieu]]** 的社会理论为理论资源，特别聚焦于 Bourdieu 通常被教育行政 Bourdieu 式研究所忽视的认识论维度——主要来自 Bourdieu, Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*（Eacott, 2015, p.313）。
 >
 > Eacott 的 Bourdieu 运用既非亦步亦趋的忠诚，也非随意截取，而是以 Bourdieu 的认识论论证来**描述他在教育领导力、管理和行政学术中看到的正在发生的事情**（Eacott, 2015, p.313）。
@@ -60,7 +62,7 @@ updated: 2026-05-18
 >
 > 1. **具身行动者（Embodied Agents）**：教育行政学者大多是前任学校/系统层面行政人员，"自发社会学家"——通过社会化内化了社会世界的客观结构，以 doxic 模态感知其研究对象。这模糊了经验与认识的边界，因为研究者对教育行政的价值持有"先反思信念"（Eacott, 2015, p.317）。
 >
-> 2. **前科学世界与断裂（The Pre-scientific World and the Break）**：教育行政若接受日常常识（[[Doxa]]）来建构研究对象，就会沦为"合法化既有权力关系的工具"（Eacott, 2015, p.320）。科学探究需要在方法论的层面进行[[Epistemological Break|认识论断裂]]——拒绝先验定义（如操作性定义）、视理论为穿过经验的工具而非套用的模板、"拿建构对象的过程本身作为对象"（Eacott, 2015, p.314, 320-322）。
+> 2. **前科学世界与断裂（The Pre-scientific World and the Break）**：教育行政若接受日常常识（[[Doxa]]）来建构研究对象，就会沦为"合法化既有权力关系的工具"（Eacott, 2015, p.320）。科学探究需要在方法论的层面进行[[Epistemological Break|认识论断裂]]——拒绝先验定义（如[[Definition of Terms|操作性定义]]）、视理论为穿过经验的工具而非套用的模板、"拿建构对象的过程本身作为对象"（Eacott, 2015, p.314, 320-322）。
 >
 > 3. **[[Epistemological Vigilance|认识论警觉]]（Epistemological Vigilance）**：在社会科学的日常语言与科学话语之间的界限比任何其他领域都模糊的处境下，研究者需要持续的警觉来抵御日常语言的渗透（Eacott, 2015, p.322-323）。这一项目的核心障碍是"对研究对象的熟悉性"——它持续生产着概念化（如领导力、组织结构）及其合法化条件。
 >

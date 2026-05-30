@@ -1,6 +1,7 @@
 ---
 title: Argument_Ross_Morrison_2021_ROE
-author: "Ross, S. M., & Morrison, J. R"
+authors:
+  - "Ross, S. M., & Morrison, J. R"
 summary: "以ESSA证据标准和巴尔的摩STAT技术整合评估为例，说明教育项目证据的使用受研究设计属性、实施语境和利益相关者价值判断共同塑造"
 type: argument
 subtype: journal-article
@@ -60,7 +61,7 @@ updated: 2026-05-23
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Evidence-Based Education]] — 作为政策背景，尤其是 [[No Child Left Behind Act 2001|NCLB]]、[[What Works Clearinghouse|WWC]] 与 ESSA 所推动的证据问责运动。该框架把教育项目是否有严格研究支持变成学校采购和项目批准的重要依据（Ross & Morrison, 2021, pp.109-110）。
 > - 复杂教育系统 — 学校系统由管理者、教师、学生、家长等多类行动者共同构成，互动具有非线性，因此同一项目在不同语境中可能产生不同结果，也会被不同利益相关者作不同解释（Ross & Morrison, 2021, p.111）。
 > - [[Absorptive Capacity|吸收能力]] — 学区能否从外部评价中学习，取决于关键伙伴是否理解项目、沟通是否开放、领导是否支持；吸收能力越高，评价证据越可能进入改进过程（Ross & Morrison, 2021, p.122）。

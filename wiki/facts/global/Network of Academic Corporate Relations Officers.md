@@ -4,7 +4,8 @@ aliases:
   - "NACRO"
   - "大学企业关系官网络"
 summary: "由大学企业关系专业人员组成的行业组织，通过发布白皮书和立场文件推动产学合作最佳实践，2011 年提出二十世纪大学企业关系项目的五项基本要素"
-type: concept
+type: fact
+subtype: organization
 tags:
   - "theme/university-industry-collaboration"
   - "theme/corporate-engagement"
@@ -12,12 +13,12 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Partnership Continuum]]"
-  - "[[University Industry Innovation Network]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[University Industry Innovation Network]]"
 related_arguments: []
 sources:
   - "[[Ch4_Burrus_Patera_2025]]"
@@ -38,7 +39,7 @@ updated: 2026-05-28
 
 ## 核心产出
 
-> [!abstract]
+> [![[Abstract]]]
 > NACRO 基准委员会（Benchmarking Committee）发布的主要文件（Burrus & Patera, 2025, p.82）：
 
 - **2011 年白皮书**：*Five Essential Elements of a Successful Twenty-First Century University Corporate Relations Program*，定义了大学企业关系项目的五项基本要素。

@@ -1,6 +1,7 @@
 ---
 title: Argument_Qvortrup_2019_NordSTEP
-author: "Qvortrup, L"
+authors:
+  - "Qvortrup, L"
 summary: "VL 支持者立场讨论论文：以解释社群、观察透镜认识论和结构耦合三线论证为 Hattie VL 辩护，提出专业判断为“缺失环节"
 type: argument
 subtype: journal-article
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Interpretation Community]] — Stanley Fish (1980)：某种特定解释在社群中获得动量，从观点演变为广泛接受的事实，用于解释丹麦 [[John Hattie|Hattie]] 批评者的误读现象
 > - [[Bounded Rationality]] — [[Herbert A. Simon]] (1969/1996)：复杂专业任务的复杂度大于专业人员的实践能力，作为[[Professional Judgment|专业判断]]的理论基础
 > - 技术赤字（Technology Deficit） — Luhmann & Schorr (1982a)：所有教师都在技术赤字的条件下工作——教育的努力效果永远无法完全预测

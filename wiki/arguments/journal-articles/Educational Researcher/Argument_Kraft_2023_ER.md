@@ -1,6 +1,7 @@
 ---
 title: Argument_Kraft_2023_ER
-author: "Kraft, M. A"
+authors:
+  - "Kraft, M. A"
 summary: "回应 Simpson 对效应量基准的批评，以 3,426 个教育干预 RCT 效应量显示 36% 小于 0.05，主张“教育干预经常失败“才是解释政策相关性的核心基准"
 type: argument
 subtype: journal-article
@@ -36,7 +37,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 本文不使用独立理论框架，而是在证据本位政策与教育改进困难性的前提下展开方法论论证。Kraft 将学校教育理解为复杂实践：在美国等高收入国家的成熟 K-12 系统中，社会不平等、政治系统、制度结构和个体行动者都会强力塑造教育倡议的设计与实施，因此大量教育干预 [[Randomised Controlled Trials|RCT]] 未能在标准化学业成就测验上产生可见改进并非异常，而是解释[[Effect Size|效应量]]时必须正视的基线事实（Kraft, 2023, p.183）。
 
 ## 研究方法

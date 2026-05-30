@@ -5,7 +5,8 @@ aliases:
   - accompanying study
   - peidu migration
 summary: "中国农村家庭为子女选择城镇学校而迁入县城或乡镇陪读的做法，本质上是一种择校迁移行为，按家庭社会经济地位呈现分层，中上层迁出加速了农村学校的衰败"
-type: concept
+type: fact
+subtype: phenomenon
 tags:
   - region/china
   - theme/rural-education
@@ -68,7 +69,7 @@ updated: 2026-05-26
 
 ## 社会分层机制
 
-> [!abstract]
+> [![[Abstract]]]
 > 陪读并非所有农村家庭都能平等参与。与国际[[School Choice|择校]]文献一致，陪读是一种按家庭社会经济地位（SES）分层的社会实践（Teng & Wang, 2025, p.307）。
 
 ### 经济资本：决定能否陪读

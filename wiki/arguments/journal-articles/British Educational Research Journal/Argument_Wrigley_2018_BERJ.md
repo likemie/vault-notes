@@ -1,6 +1,7 @@
 ---
 title: Argument_Wrigley_2018_BERJ
-author: "Wrigley, T"
+authors:
+  - "Wrigley, T"
 summary: "以批判实在论对 EBE 方法论进行三层解构：RCT 的简化 → 元分析的混淆 → 元-元分析（Hattie/Toolkit）的失真，定位 EBE 于新自由主义框架"
 type: argument
 subtype: journal-article
@@ -55,7 +56,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - **[[Critical Realism|批判实在论]]（Bhaskar, 1978; Sayer, 2000）** — 区分 real / actual / empirical 三层本体论；教育作为开放系统，规律性需人为封闭条件才出现
 > - **Pawson (2006) 的现实主义[[Appraisal Theory|评估理论]]** — 社会项目通过人的推理（而非物理因果）产生效果；呼吁"实在论综合"取代统计平均
 > - **新自由主义批判框架（Ball, 2013; Sears, 2003）** — [[Evidence-Based Education|EBE]] 定位于审计文化（Power, 1997）和市场化的效率要求中
@@ -127,7 +128,7 @@ updated: '2026-05-18'
 
 ## 替代方案
 
-> [!abstract] 替代方案
+> [![[Abstract]]] 替代方案
 > Wrigley 推崇 **Pawson (2006) 的"实在论综合"**而非统计[[Meta-analysis|元分析]]：
 > - 深入理解每次干预的"受试者"、研究者提出的因果理论、结果质量、测量充分性和过程障碍
 > - 研究综述应以因果理论构建为核心，而非以平均[[Effect Size|效应量]]计算为核心

@@ -1,6 +1,7 @@
 ---
 title: Argument_Ryan_2010_ChineseLearner
-author: "Ryan, J"
+authors:
+  - "Ryan, J"
 summary: "Ch2 文献批判综述：西方对中国学习者“缺陷型“与“优势型“双重刻板印象的诊断，二元对立表格的建构，“儒家价值“归因的非实证性，2001 年中国课程改革使刻板印象过时，元文化敏感度作为替代路径"
 type: argument
 subtype: book-chapter
@@ -49,7 +50,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > Ryan 综合运用以下批判性概念作为分析工具：
 > - [[Orientalism]] — Said (1978) 的"东方"由西方建构的分析框架：[[Chinese Learner|中国学习者]]作为"非西方"而被定义为偏离西方规范（Watkins & Biggs, 2001, p.4）
 > - [[Stereotype Threat]] — Aronson (2002)：当个体意识到关于自身群体的刻板印象时，产生额外的情感与认知负担，导致"去认同化"（disidentification），最终刻板印象成为自我实现的预言

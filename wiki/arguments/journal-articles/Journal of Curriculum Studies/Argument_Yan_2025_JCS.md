@@ -1,6 +1,7 @@
 ---
 title: Argument_Yan_2025_JCS
-author: "Yan, K. C. A., & Morris, P"
+authors:
+  - "Yan, K. C. A., & Morris, P"
 summary: "以 Cuban 课程变革三因素为框架，对比分析香港通识教育科的创立（2009）与废除（2021），揭示全球化论述的工具性使用与国家安全的突变性介入"
 type: argument
 subtype: journal-article
@@ -55,7 +56,7 @@ updated: 2026-05-18
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Cuban's Curriculum Change Theory]] — 作为分析起点。课程变革的三个外部因素：[[Progressive Education|进步教育]]运动、冷战/国防、立法法律决定。论文将此框架扩展到香港语境，检验其解释力与局限
 > - [[World Society Theory]] — 全球学校模式趋同假设。[[Liberal Studies|LS]] 的诞生表面上支撑该理论（引用全球趋势、IBDP 课程参照），但论文认为这是表面修辞而非变革动因
 > - [[Policy Borrowing]] — Steiner-Khamsi 的政策借用框架。分析港府如何"[[Externalization|外化]]"改革需求，以全球化论述合法化国内议程

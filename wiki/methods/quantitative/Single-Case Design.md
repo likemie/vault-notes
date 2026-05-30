@@ -16,6 +16,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[5-3-20 Rule]]"
+  - "[[Definition of Terms]]"
   - "[[Gating Procedure]]"
   - "[[Theories of Policy Change]]"
 related_theories:
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 
 ## 认识论立场
 
-> [!abstract] 认识论立场
+> [![[Abstract]]] 认识论立场
 > [[21st Century Skills and Competencies Discourse|SCD]] 共享 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生因果证据的多种设计类型。SCD 的因果推断逻辑与组间实验设计（[[Randomised Controlled Trials|RCT]]、准实验）一致：通过控制对内部效度的常见威胁（成熟、历史、回归均值、处理扩散、工具化等），使替代解释变得不可信（Hitchcock et al., 2015, p.462）。
 >
 > > 例：在一个 ABAB 设计中，通过交替引入和撤除干预，研究者可以排除成熟效应（随时间自然改善）和历史效应（外部事件）作为行为变化的替代解释。
@@ -101,7 +102,7 @@ Hitchcock et al. (2015, p.466) 列举了 [[What Works Clearinghouse|WWC]] 审查
 > - 场所描述
 > - 设计类型
 > - 参与者特征和样本量
-> - 因变量的操作性定义和记录方法
+> - 因变量的[[Definition of Terms|操作性定义]]和记录方法
 > - 基线和干预条件（会话次数、干预时长）
 > - 实施者及其接受的培训
 > - 干预忠实度（treatment fidelity）

@@ -14,12 +14,12 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Industry Advisory Board]]"
-  - "[[Network of Academic Corporate Relations Officers]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Network of Academic Corporate Relations Officers]]"
 related_arguments: []
 sources:
   - "[[Ch4_Burrus_Patera_2025]]"
@@ -43,7 +43,7 @@ updated: 2026-05-27
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > 大学参与贸易代表团可带来五重收益（Burrus & Patera, 2025, p.76）：
 
 1. **提升州政府对大学研究专长的认知**：州政府在制定经济政策和发展战略时，会将大学的科研能力纳入考量。

@@ -19,6 +19,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Further Education]]"
   - "[[Formative Assessment]]"
+  - "[[Research Topic]]"
   - "[[Professional Judgment]]"
   - "[[Direct Instruction]]"
   - "[[Whole Language]]"
@@ -153,7 +154,7 @@ updated: '2026-05-21'
 > [!note-] 澳大利亚与全球扩张 (2011–2015)
 > - **2011–2012** Cognition Education Trust 在新西兰及国际上注册 Visible Learningplus 商标（O'Neill et al., 2016, p.48）
 > - **2011 年** 转至墨尔本大学教育研究生院任教授兼研究所主任（O'Neill et al., 2016, p.49）
-> - **2013 年** 成为 AUUSD 16M 科学学习研究中心（Science of Learning Research Centre）"促进学习"研究主题负责人和副主任（O'Neill et al., 2016, p.49）
+> - **2013 年** 成为 AUUSD 16M 科学学习研究中心（Science of Learning Research Centre）"促进学习"[[Research Topic|研究主题]]负责人和副主任（O'Neill et al., 2016, p.49）
 > - **2014 年 7 月** 被任命为 AITSL 董事会主席（O'Neill et al., 2016, p.50）
 > - **2015 年** 与妻子 Janet Clinton 副教授和 Access Innovation Media 合作开发 Visible Classroom App——教师自我录制音频并接受大学"专家"基于 VL 研究量规的反馈，按服务收费（O'Neill et al., 2016, p.49）。原始试点（8 所学校）由英国 EEF 资助 £360,000；随后 EEF 委托 The Behavioural Insights Team 在 140 所学校进行更大规模"效能试验"（O'Neill et al., 2016, pp.49–50）
 > - **2015 年 1 月** Visible Classroom 工具进入美国市场（O'Neill et al., 2016, p.50）
@@ -167,7 +168,7 @@ updated: '2026-05-21'
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Hattie, J. (2009). *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement*. Routledge. — 奠基性著作，以[[Effect Size|效应量]]排名 150+ 教学干预
 > - Hattie, J., & Yates, G. (2014). *Visible learning and the science of how we learn*. Routledge. [丹麦语译本：*Synlig læring og læringens anatomi*, Dafolo, 2014.] — 与认知科学家 Yates 合作，从脑科学和认知心理学角度阐述九条学习原则
 > - Hattie, J. (2015). Synlig læring i dag. *Paideia, 9*, 9-21. — 回顾 [[Visible Learning]] 的形成过程并回应效应量、研究质量和学习概念等批评，强调“Know thy impact”不是教学法清单而是评价性[[Professional Judgment|专业判断]]

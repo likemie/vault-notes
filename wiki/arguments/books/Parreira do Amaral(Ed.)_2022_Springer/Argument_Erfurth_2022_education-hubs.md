@@ -1,6 +1,7 @@
 ---
 title: Argument_Erfurth_2022_education-hubs
-author: "Erfurth, M"
+authors:
+  - "Erfurth, M"
 summary: "以文化政治经济学和比较案例研究为框架，从文化外交与政治经济两个维度比较新加坡与阿联酋的教育枢纽项目，揭示该路径绕开制度建设、依赖市场自由化与基础设施扩张却获国际发展界认可的悖论"
 type: argument
 citation: "Erfurth, M. (2022). Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 199–213). Springer."
@@ -53,7 +54,7 @@ issuing_organization: ""
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 
 本章采用 [[Cultural Political Economy|文化政治经济学]]（Sum & Jessop, 2013）作为概念框架。其核心主张是：文化（非物质-符号）维度与结构-物质维度应被同等分析，而非像传统政治经济学那样侧重后者（p.202）。
 

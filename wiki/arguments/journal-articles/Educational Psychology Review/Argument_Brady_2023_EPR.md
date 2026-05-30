@@ -1,6 +1,7 @@
 ---
 title: Argument_Brady_2023_EPR
-author: "Brady, A. C., Griffin, M. M., Lewis, A. R., Fong, C. J., & Robinson, D. H"
+authors:
+  - "Brady, A. C., Griffin, M. M., Lewis, A. R., Fong, C. J., & Robinson, D. H"
 summary: "追踪 2020 年五本教育心理学经验期刊的方法趋势，发现随机实验降至 20%、非干预文章中约三分之二包含实践建议"
 type: argument
 subtype: journal-article
@@ -39,7 +40,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 本文没有使用独立理论框架，而是以教育心理学"研究应改善学生学习"的应用使命与因果推论边界之间的张力为论证基础。作者认为，当研究目标是指导政策与实践时，研究序列应从概念发展和描述性研究走向假设检验：早期质性观察和量化自陈调查可帮助理解情境，相关研究可识别可能的因果关系，而真正的干预假设需要通过[[Intervention Research|干预研究]]和随机实验进行正式检验（Brady et al., 2023, p.2）。
 
 ## 研究方法

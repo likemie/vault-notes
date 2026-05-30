@@ -14,6 +14,7 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Didaktik]]"
+  - "[[Definition of Terms]]"
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
 related_theories: []
@@ -48,7 +49,7 @@ updated: 2026-05-18
 >
 > **理论主张**
 >
-> 理论运动大量借鉴 **Herbert Feigl** 的早期著作（Feigl 与维也纳学派有关联），试图以"**客观性、可靠性、操作性定义、连贯或系统的结构以及全面性**"来刻画教育行政研究（Griffiths, 1959, p.45，引自 Eacott, 2015, p.315）。
+> 理论运动大量借鉴 **Herbert Feigl** 的早期著作（Feigl 与维也纳学派有关联），试图以"**客观性、可靠性、[[Definition of Terms|操作性定义]]、连贯或系统的结构以及全面性**"来刻画教育行政研究（Griffiths, 1959, p.45，引自 Eacott, 2015, p.315）。
 >
 > 关键特征：
 > - 试图将教育行政研究**从实践者/研究者的无理论知识中分离**出来

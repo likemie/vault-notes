@@ -14,6 +14,7 @@ tags:
   - field/cultural-psychology
 related_concepts:
   - "[[Western Learner]]"
+  - "[[Research Topic]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Ideal Learner]]"
   - "[[Socratic Tutoring Style]]"
@@ -49,7 +50,7 @@ updated: 2026-05-25
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > 以下是构成心智导向学习过程的四个支柱，每个支柱包含具体的行为与心理过程。
 
 ### 1. 主动参与（Active Engagement）
@@ -95,7 +96,7 @@ updated: 2026-05-25
 **学龄学习者的探究**（Li, 2012, pp.113-114）：
 - 虽然义务教育阶段无法完全自由探索，但西方学龄儿童仍有许多探究空间。例如：学习原子结构时，教师要求学生回家找家中的材料（纱线、布料、面条、塑料、蜡笔等）各自制作原子模型
 - 科学课上复制原初科学家的实验，并有机会改变实验条件来提出自己的假设、收集数据和得出新结论
-- 参加科学展览会（science fairs），需要自选研究主题，独立完成完整的探究过程
+- 参加科学展览会（science fairs），需要自选[[Research Topic|研究主题]]，独立完成完整的探究过程
 - 英语和社会课上也强调探究而非记忆——如采访大萧条或二战亲历者并撰写研究报告
 
 **诺贝尔奖得主的童年探究**（Li, 2012, pp.115-116）：

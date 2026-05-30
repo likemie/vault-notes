@@ -1,6 +1,7 @@
 ---
 title: Argument_Berk_2011_ER
-author: "Berk, R"
+authors:
+  - "Berk, R"
 summary: "基于 35 年 ER 创始编辑经验，反思评估研究中证据与垃圾科学的五大方法论战场（因果效应定义/RCT集群随机化/因果建模/匹配/元分析），提出中立审查、团队评估、数据科学训练三条对策"
 type: argument
 subtype: journal-article
@@ -42,7 +43,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > Berk 不依赖单一理论框架，而是基于评估研究方法论的演进历史进行反思性分析。他的论证锚定在：
 > - **[[Potential Outcomes Framework|潜在结果框架]]**（Neyman-Rubin-Holland-Pearl）作为因果效应定义的概念基础
 > - **[[Campbell Collaboration|Campbell]] & Stanley (1963)** 的四种效度框架作为实验设计评估的参照

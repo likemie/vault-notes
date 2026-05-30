@@ -1,6 +1,7 @@
 ---
 title: Argument_Gilison_Wilson_2025_UniversityStartups
-author: "Gilison, S., & Wilson, A"
+authors:
+  - "Gilison, S., & Wilson, A"
 summary: "基于南加州创新联盟八年运营经验及对 20 余位大学产学合作领导者的访谈，分析大学衍生企业面临的结构性障碍——IP 所有权毒丸与风投风险偏好不匹配——并梳理产业通过概念验证项目、创新联盟和驻校企业家提供市场声音的有效路径"
 type: argument
 citation: "Gilison, S., & Wilson, A. (2025). University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 141-154). Springer."
@@ -74,7 +75,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 论证结构
 
-> [!abstract]
+> [![[Abstract]]]
 > **整体逻辑链**：打破宿舍创业神话 → 揭示产业赞助研究中的知识产权（Intellectual Property, IP）毒丸与风险投资（Venture Capital, VC）偏好不匹配两重结构性障碍 → 展示大学主导的概念验证（[[Proof of Concept Programs|proof of concept]], PoP）项目与创新联盟两种有效机制 → 收束为产业参与的七级阶梯。
 
 ---
@@ -352,7 +353,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - [[Corporate Venture Capital|企业风险投资]]（CVC）和传统风险投资（VC）的投资偏好（成熟团队、已验证技术、巨大市场机会）与早期衍生企业的风险特征之间存在系统性不匹配。资助种子前轮次（pre-seed）的 CVC 通常要求创始团队有成功记录，"这恰恰不是[[University Spin-Out|大学衍生企业]]的典型特征"（pp.145-146）
 > - 衍生企业的[[Technology Readiness Level|技术就绪度]]（TRL）通常不足以满足企业试点项目的要求，形成了"需要试点来获得投资、需要投资来达到能试点的水平"的困局（p.145）
 
-> [!abstract]
+> [![[Abstract]]]
 > **有效的大学-产业合作模式**
 > - [[Proof of Concept Programs|概念验证项目]]（PoP）将大学资助的[[Non-dilutive Funding|非稀释性拨款]]（$10K-$100K，数月到一年周期）与产业导师制结合，帮助衍生企业在投入大量资源之前获得关键的市场验证，做出"去"或"留"的明智决策（pp.148-149）
 > - [[Entrepreneur in Residence|驻校企业家]]（EIR）制度，以全职或兼职团队支持多个衍生企业，是帮助衍生企业"跨越从实验室到市场鸿沟"的有效策略（pp.147-148）

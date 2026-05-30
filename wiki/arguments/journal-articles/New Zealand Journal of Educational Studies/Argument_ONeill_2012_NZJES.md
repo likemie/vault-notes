@@ -1,6 +1,7 @@
 ---
 title: Argument_ONeill_2012_NZJES
-author: "O'Neill, J"
+authors:
+  - "O'Neill, J"
 summary: "以 NZ Treasury 2011 年简报为案例，运用 Kreeft 实质谬误框架分析教育政策论述中证据被误用的机制，提出研究者有责任警惕和挑战基于实质谬误的公共政策辩论"
 type: argument
 subtype: journal-article
@@ -40,7 +41,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Material Fallacies]] — Kreeft (2010) 的逻辑分类：实质谬误是"在理解术语的含义或用法方面的错误"（p.85），本文将其应用于教育政策话语分析
 > - [[Policy Entrepreneur]] — Mintrom (2000) 概念，用以理解政策行动者如何在教育改革话语中定位自身以倡导、塑造和获益
 

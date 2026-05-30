@@ -1,6 +1,7 @@
 ---
 title: Argument_Boccanfuso_Hall_2025_Alignment
-author: "Boccanfuso, A., & Hall, R"
+authors:
+  - "Boccanfuso, A., & Hall, R"
 summary: "以2024年诺贝尔奖为引，论证产学合作的三重回报框架，分析大学与企业目标对齐的结构性挑战，通过历史追溯和UIDP案例说明如何克服障碍实现界面上的创新"
 type: argument
 citation: "Boccanfuso, A., & Hall, R. (2025). Alignment, Engagement, and Public Benefits. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 3–23). Springer."
@@ -57,7 +58,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 - [[University-Industry Collaboration]] — 核心概念，定义为"有目的的、对齐的参与"（purposeful and aligned engagement），涵盖研究与学术、教育与学习、公共效益三大维度
 - [[Triple Helix]]（三重螺旋）— Etzkowitz 和 Leydesdorff（1995）提出，将大学-产业-政府之间的反馈循环理解为相互支撑的关系结构，在[[Innovation Ecosystem|创新生态系统]]的历史脉络中被引用（p.13）
 - [[Multi-University]]（多元大学）— Clark Kerr（2001）对美国现代综合性大学的描述：广泛而扩张，以文化、教育、发现、创新乃至医疗保健等多元方式触及社区和社会（p.5）

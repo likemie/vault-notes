@@ -1,6 +1,7 @@
 ---
 title: Argument_Narayan_Spohrer_2025_Metrics
-author: "Narayan, S., & Spohrer, J"
+authors:
+  - "Narayan, S., & Spohrer, J"
 summary: "以IBM百年产学关系历程为线索，提出度量、激励、奖励与文化四要素必须随商业环境与战略重点持续调适，并通过六R框架和大小规模案例说明产学合作的实践逻辑"
 type: argument
 citation: "Narayan, S., & Spohrer, J. (2025). Metrics, Incentives, Rewards, and Culture for Impact. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 85–99). Springer."
@@ -47,7 +48,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > 基于 IBM 百年产学实践的归纳提炼，同时整合系统[[Literature Review|文献综述]]对度量、激励、奖励和文化四个主题的研究发现，构建一个"四要素动态校准"的分析视角。
 > - [[University-Industry Collaboration]] 作为分析的组织领域，度量、激励、奖励与文化是维持产学关系质量的四个相互关联的维度
 > - [[Six Rs of University-Industry Relations]] 由 [[Jim Spohrer]]（2010）提出，将 IBM 的产学投资按功能分为七个领域（pp.88–89, 97）：Research（研究）、Readiness（技能准备）、Recruiting（人才招聘）、Revenue（收入）、Responsibility（社会责任）、Regions（区域发展），外加 Refresh（更新）作为动态调适维度

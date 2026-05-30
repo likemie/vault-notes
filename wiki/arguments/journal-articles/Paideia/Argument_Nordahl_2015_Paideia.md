@@ -1,6 +1,7 @@
 ---
 title: Argument_Nordahl_2015_Paideia
-author: "Nordahl, T"
+authors:
+  - "Nordahl, T"
 summary: "把 Visible Learning 放进斯堪的纳维亚学校改进语境，主张教育系统应以学习结果与研究证据为改进基准，并通过能力建设把证据转成教师行动。"
 type: argument
 subtype: journal-article
@@ -47,7 +48,7 @@ updated: '2026-05-21'
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > - [[Visible Learning]] — 学习结果被放到学校改进的中心位置。关键不是背诵干预排名，而是承认“不同教学做法带来的学习效果并不一样”，所以学校必须持续比较哪些做法更可能推动学生进步（Nordahl, 2015, pp.61–64）。
 > - [[Evidence-Based Education]] — 循证被理解为“提高成功概率”的知识取向，而不是保证任何课堂都自动成功的万能公式。研究证据的作用，是减少完全凭运气或习惯行事的空间（Nordahl, 2015, pp.63–64）。
 > - [[Professional Judgment]] — 专业判断不是研究证据的对立面。更稳妥的判断，恰恰需要把研究知识、反思和情境判断放在一起，而不是只依赖个人直觉（Nordahl, 2015, pp.64–65）。

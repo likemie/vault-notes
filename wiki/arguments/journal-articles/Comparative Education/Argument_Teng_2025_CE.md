@@ -1,6 +1,7 @@
 ---
 title: Argument_Teng_2025_CE
-author: "Teng, Y. & Wang, D"
+authors:
+  - "Teng, Y. & Wang, D"
 summary: "以G县混合方法研究揭示陪读按家庭社会经济地位分层，经济资本决定能否陪读、社会资本决定进入哪所学校，中上层迁出加速农村学校衰败，使城镇化战略未能减少反而强化了城乡教育不平等"
 type: argument
 subtype: journal-article
@@ -18,10 +19,8 @@ tags:
   - method/survey
   - method/interview
 related_concepts:
-  - "[[Peidu]]"
   - "[[School Choice]]"
   - "[[Cultural Capital]]"
-  - "[[Hukou System]]"
   - "[[Class Size]]"
 related_theories: []
 related_methods:
@@ -30,7 +29,9 @@ related_methods:
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
+  - "[[Peidu]]"
   - "[[Partnership Schools Kura Hourua]]"
+  - "[[Hukou System]]"
 related_arguments: []
 sources:
   - "[[Teng_2025_CE]]"
@@ -54,7 +55,7 @@ updated: 2026-05-26
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > - **[[School Choice|择校]]作为社会分层实践**（Ball 2003）：择校并非中立的自由选择，而是按家庭经济、文化和社会资本分层的社会过程。Ball（2003）的研究揭示，中产阶级在择校市场中利用各类资本为其子女获取优势，工薪阶层家庭则被排斥在优质学校之外（引自 Teng & Wang, 2025, p.302）。
 > - **[[Pierre Bourdieu|布迪厄]]资本理论**：该研究通过经济资本（收入、住房支出、课外班投入）、[[Cultural Capital|文化资本]]（父母教育水平）和社会资本（与学校教职工和公共部门人员的社会关系）三个维度来检验农村家庭的择校分层（Teng & Wang, 2025, pp.307–310）。
 > - **城镇化作为政策驱动**：与国际市场化择校不同，[[Peidu|陪读]]是由地方政府的城镇化战略驱动的——通过关闭农村学校和扩建县城学校形成推拉动力，将农村人口导入城镇（Teng & Wang, 2025, pp.303–304）。

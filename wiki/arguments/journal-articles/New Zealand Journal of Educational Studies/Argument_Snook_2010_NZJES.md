@@ -1,6 +1,7 @@
 ---
 title: Argument_Snook_2010_NZJES
-author: "Snook, I., Clark, J., Harker, R., O''Neill, A. M., & O''Neill, J"
+authors:
+  - "Snook, I., Clark, J., Harker, R., O''Neill, A. M., & O''Neill, J"
 summary: "对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题"
 type: argument
 subtype: journal-article
@@ -42,7 +43,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 未采用特定理论框架，继续以教育哲学和研究方法论视角进行批判性回应。重申 [[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]知识观为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（[[John Hattie|Hattie]], 2009, p.247, quoted p.97）。
 
 ## 研究方法

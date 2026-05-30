@@ -1,6 +1,7 @@
 ---
 title: Argument_Cowen_2019_ERE
-author: "Cowen, N"
+authors:
+  - "Cowen, N"
 summary: "以 Tullock 官僚制理论解释 EBE 的持续影响力：RCT/系统综述作为对主权者透明的过滤机制，以牺牲一线关联性为代价"
 type: argument
 subtype: journal-article
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - **Tullock 的[[Tullock's Bureaucracy Theory|官僚制理论]]（Tullock, 2005）** — 官僚制是信息处理金字塔，主权者面临的核心难题是知识问题和委托困境，而非简单的自利/[[Opportunist Mode|机会主义]]
 > - **公共选择理论（Public Choice）** — 方法个体主义分析集体决策；强调有限知识与有界理性下的协调问题
 > - **Cartwright 的因果推论哲学** — [[Randomised Controlled Trials|RCT]] 提供不偏估计但不解决外部效度问题；[[Meta-analysis|元分析]]不解决归纳推理的谬误

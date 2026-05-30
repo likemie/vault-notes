@@ -4,7 +4,8 @@ aliases:
   - "UIIN"
   - "大学产业创新网络"
 summary: "致力于推动产学创新合作的国际网络组织，出版 University Industry Innovation Magazine，2021 年战略伙伴关系特刊总结了产学战略联盟的核心特征"
-type: concept
+type: fact
+subtype: organization
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"
@@ -12,13 +13,13 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Strategic Partnership in University-Industry Collaboration]]"
-  - "[[Network of Academic Corporate Relations Officers]]"
   - "[[Partnership Continuum]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Network of Academic Corporate Relations Officers]]"
 related_arguments: []
 sources:
   - "[[Ch4_Burrus_Patera_2025]]"
@@ -39,7 +40,7 @@ updated: 2026-05-28
 
 ## 核心产出
 
-> [!abstract]
+> [![[Abstract]]]
 > - **University Industry Innovation Magazine（UIIM）**：2021 年 3 月刊为"Strategic Partnerships with Industry"专刊，总结了[[Strategic Partnership in University-Industry Collaboration|产学战略伙伴关系]]的关键特征：伙伴之间的信任、互利目标、持续联络人、战略路线图、长期规划、年度目标设定与核算，以及调整、转向和成长的能力（Burrus & Patera, 2025, p.78）。
 > - **专业活动**：与 [[University Industry Demonstration Partnership|UIDP]]、[[Network of Academic Corporate Relations Officers|NACRO]] 和 Government-University-Industry Philanthropy Research Roundtable 并列为产学专业人员的主要交流平台（Burrus & Patera, 2025, p.74）。
 

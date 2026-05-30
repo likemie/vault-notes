@@ -1,6 +1,7 @@
 ---
 title: Argument_Zheng_2023_ShanghaiSanlian
-author: "郑雅君"
+authors:
+  - "郑雅君"
 summary: "以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化。"
 type: argument
 subtype: monograph
@@ -43,7 +44,6 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Self-Authorship]]"
   - "[[Quality Education]]"
-  - "[[Peidu]]"
   - "[[The Shock of the Elite]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Work Meaning Schemas]]"
@@ -75,6 +75,7 @@ related_facts:
   - "[[Coleman Report 1966]]"
   - "[[Recommendation-Based Graduate Admission System]]"
   - "[[China College Graduate Employment Reform]]"
+  - "[[Peidu]]"
 related_arguments: []
 sources:
   - "[[Zheng_2023_ShanghaiSanlian]]"
@@ -98,7 +99,7 @@ updated: 2026-05-18
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > 全书整合三条理论脉络，建构"资本化过程—投入过程—价值选择过程"三层嵌套分析框架：
 
 - **[[Pierre Bourdieu]]**（[[Habitus|习性]]／[[Champ|场域]]／[[Cultural Capital|文化资本]]）— 解释家庭背景如何通过中学教育经历和父母决策角色，被"资本化"为学生进入大学时的习性差异与初始竞争优势／劣势。场域概念贯穿全书，将精英大学类比为有着复杂游戏规则的"迷宫"。

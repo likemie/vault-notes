@@ -1,6 +1,7 @@
 ---
 title: Argument_Slavin_2019_EP
-author: "Slavin, R. E"
+authors:
+  - "Slavin, R. E"
 summary: "EBE 支持者阵营的纲领性论述：三条件框架（项目存量、证据审查、政府激励）和以已验证项目系统填充 RTI 三层的 RTPI 方案"
 type: argument
 subtype: journal-article
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 
 ## 理论立场
 
-> [!abstract] 理论立场
+> [![[Abstract]]] 理论立场
 > Slavin 是 **[[Evidence-Based Education|EBE]] 的最强版本**（evidence-based, 非 evidence-informed）：教育者应基于特定项目的实验有效性证据选择方案，而非依靠通用原则或专业直觉。理由：(1) 研究反复发现教师难以将通用原则转化为有效实践；(2) 没有与替代方案的直接比较，无法知道"什么有效"。
 >
 > > "This definition does not refer to simply disseminating information about generic principles of effective practice, which has not generally been found to make much of a difference in practices or outcomes." (p. 3)

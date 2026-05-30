@@ -1,6 +1,7 @@
 ---
 title: Argument_Ryan_2010_HKUP
-author: "Ryan, J. & Slethaug, G. (Eds.)"
+authors:
+  - "Ryan, J. & Slethaug, G. (Eds.)"
 summary: "论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化“中国学习者“概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）"
 type: argument
 subtype: edited-volume
@@ -53,7 +54,7 @@ updated: 2026-05-18
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > 全书未采用单一理论框架，但以下理论资源在各章中不同程度地被调用：
 > - **[[Paul Morris]] 的教育四象限**（学术理性主义、社会经济效率、儿童中心、社会重建）— Schmidt（第 5 章）用于论证价值观为本课程的理论定位（Slethaug, 2010, pp.6–7）
 > - **[[Pierre Bourdieu]] 的认同与语言理论** — Miller（第 7 章）用于分析中国职前教师在澳大利亚的认同与语言问题（Slethaug, 2010, p.9）

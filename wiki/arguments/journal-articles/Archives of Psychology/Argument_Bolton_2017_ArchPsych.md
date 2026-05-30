@@ -1,6 +1,7 @@
 ---
 title: Argument_Bolton_2017_ArchPsych
-author: "Bolton, S., & Hattie, J"
+authors:
+  - "Bolton, S., & Hattie, J"
 summary: "将皮亚杰/新皮亚杰认知发展阶段与 PFC 解剖生理发育及 EF 发展轨迹进行对齐的文献综述，论证阶段过渡是 EF 随脑发育而发展的函数"
 type: argument
 subtype: journal-article
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Piaget's Theory of Cognitive Development|piagets-theory-of-cognitive-development]] — [[Jean Piaget|皮亚杰]]四阶段论作为认知发展的基线框架（Bolton & [[John Hattie|Hattie]], 2017, p.2–3）
 > - [[Neo-Piagetian Theories|neo-piagetian-theories]] — Pascual-Leone (1970)、Case (1985, 1992)、Fischer (1980) 等[[Neo-Piagetian Theories|新皮亚杰理论]]作为修正框架（Bolton & Hattie, 2017, p.3）
 > - [[Miyake's Unity and Diversity Framework of Executive Function|miyake-unity-diversity-framework]] — Miyake et al. (2000) 的 [[Executive Function|EF]] 统一性与多样性框架用于定义和分解 EF 成分（Bolton & Hattie, 2017, p.4）

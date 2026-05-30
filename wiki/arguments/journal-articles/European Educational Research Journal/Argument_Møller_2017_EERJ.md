@@ -1,6 +1,7 @@
 ---
 title: Argument_Møller_2017
-author: "Møller, J"
+authors:
+  - "Møller, J"
 summary: "以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越“什么有效“议程，提议以变革型领导力和批判性教育政策为双重分析透镜"
 type: argument
 subtype: journal-article

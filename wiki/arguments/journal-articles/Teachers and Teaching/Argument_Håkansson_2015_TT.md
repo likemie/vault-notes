@@ -1,6 +1,7 @@
 ---
 title: Argument_Håkansson_2015_TT
-author: "Håkansson, J"
+authors:
+  - "Håkansson, J"
 summary: "以43项教学研究综述的比较元综合审视瑞典结构化教学政策，主张成绩危机不能靠讲坛式回归解决，关键在教师结构与师生互动的平衡。"
 type: argument
 subtype: journal-article

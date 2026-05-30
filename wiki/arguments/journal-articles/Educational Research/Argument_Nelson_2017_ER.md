@@ -1,6 +1,7 @@
 ---
 title: Argument_Nelson_2017_ER
-author: "Nelson, J. & Campbell, C"
+authors:
+  - "Nelson, J. & Campbell, C"
 summary: "EIP 阵营的概念综合论述：以特刊导言形式整合 EIP 定义、知识动员四策略框架和测量挑战三个维度，提出“肥沃的土壤“隐喻"
 type: argument
 subtype: journal-article
@@ -21,6 +22,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Literature Review]]"
   - "[[Professional Judgment]]"
+  - "[[Definition of Terms]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -42,7 +44,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 论文采用**概念综合**（conceptual synthesis）方法，将特刊中来自澳大利亚、加拿大、英格兰、荷兰和美国的论文整合进一个三维分析框架：
 >
 > 1. **定义维度**：证据的定义边界——谁的证据算数？证据本位 vs 证据知情 vs 研究知情的语义区分
@@ -118,7 +120,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - **非实证研究**：作为特刊导言，论文本身未提供新的实证数据，而是综合他人研究——论证的说服力依赖于被综合研究的质量
-> - **定义问题回避**：论文承认"确保 [[Evidence-Informed Practice|EIP]] 的精确定义具有挑战性"但未提出自己的操作性定义——而是将定义多元性作为特征而非问题接受
+> - **定义问题回避**：论文承认"确保 [[Evidence-Informed Practice|EIP]] 的精确定义具有挑战性"但未提出自己的[[Definition of Terms|操作性定义]]——而是将定义多元性作为特征而非问题接受
 > - **测量部分薄弱**：论文承认"没有收到许多详细考虑这些问题的论文"——测量挑战被提出但远未解决
 > - **英语国家偏向**：特刊覆盖澳大利亚、加拿大、英格兰、荷兰和美国，缺少非西方/非英语国家的 EIP 视角
 

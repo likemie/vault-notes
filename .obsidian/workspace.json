@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/sociology-of-education/Tracking.md",
+                "file": "wiki/concepts/sociology-of-education/Zhonghua Minzu.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tracking"
+              "title": "Zhonghua Minzu"
             }
           }
         ]
@@ -188,8 +188,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ab1c0edf0a848eb0",
+  "active": "88e92adc127e8098",
   "lastOpenFiles": [
+    "wiki/concepts/research-methodology/Abstract.md",
+    "wiki/concepts/research-methodology/APA Style.md",
+    "scripts/fix_authors.py",
+    "wiki/concepts/research-methodology/Definition of Terms.md",
+    "wiki/concepts/research-methodology/Research Topic.md",
+    "wiki/facts/global/University Industry Innovation Network.md",
+    "wiki/facts/global/Network of Academic Corporate Relations Officers.md",
+    "wiki/concepts/curriculum/Science and Technology Studies.md",
+    "wiki/facts/china/Peidu.md",
+    "wiki/facts/china/Hukou System.md",
+    "wiki/concepts/sociology-of-education/Zero-Sum Competition.md",
+    "wiki/concepts/sociology-of-education/Work Meaning Schemas.md",
+    "wiki/concepts/sociology-of-education/Tracking.md",
     "wiki/concepts/sociology-of-education/The Shock of the Elite.md",
     "wiki/concepts/sociology-of-education/Science and Technology Studies.md",
     "wiki/concepts/sociology-of-education/Peidu.md",
@@ -204,18 +217,6 @@
     "wiki/concepts/sociology-of-education/Goal-Controlled Mode.md",
     "wiki/concepts/sociology-of-education/Horizontal Knowledge Structure.md",
     "wiki/concepts/sociology-of-education/Boarding Schools.md",
-    "wiki/concepts/research-methodology/Validity as Inferences.md",
-    "wiki/concepts/research-methodology/Stable Unit Treatment Value Assumption.md",
-    "wiki/concepts/research-methodology/Publication Bias.md",
-    "wiki/concepts/research-methodology/Epistemological Break.md",
-    "wiki/concepts/research-methodology/Emic and Etic.md",
-    "wiki/concepts/political-economy-geopolitics/Zhonghua Minzu.md",
-    "wiki/concepts/political-economy-geopolitics/VUCA.md",
-    "wiki/concepts/political-economy-geopolitics/Xiaokang.md",
-    "wiki/concepts/learning-science-cognitive-science/synaptogenesis.md",
-    "wiki/concepts/higher-education/Third Mission (Universities).md",
-    "wiki/concepts/higher-education/Translational Research.md",
-    "wiki/concepts/educational-technology/Learning Analytics.md",
     "scripts/analyze_concepts.py",
     "books/Zheng_2023_ShanghaiSanlian/金榜题名之后_大学生出路分化之谜.epub",
     "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
@@ -225,7 +226,6 @@
     "scripts/add_author.py",
     "raw/007_Chapter 2 Review of the Literature.txt",
     "books/Creswell_2022_SAGE/Creswell_2022_SAGE.epub",
-    "books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025.pdf",
     "books/郑_2023_上海三联书店/figures/学校情况.jpeg",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",

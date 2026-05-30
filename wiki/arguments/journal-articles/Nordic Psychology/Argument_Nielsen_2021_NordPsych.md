@@ -1,6 +1,7 @@
 ---
 title: Argument_Nielsen_2021_NordPsych
-author: "Nielsen, K., & Klitmøller, J"
+authors:
+  - "Nielsen, K., & Klitmøller, J"
 summary: "论证 Hattie 是教育理论家（非纯统计学家），追溯其行为主义谱系（Skinner→Glaser→Hattie），对 VL 反馈效应的 5 项最重元分析逐项细读审查发现 4/5 未研究同一现象"
 type: argument
 subtype: journal-article
@@ -42,7 +43,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Technical Rationality]] — 论文论证 [[John Hattie|Hattie]] 的工作深受 Schön (1983) 所描述的技术理性影响，这构成其隐含的理论内核。技术理性是实证主义的遗产，铺平了教育中的手段-目的思维
 > - 论文同时将 Hattie 的理论追溯到行为主义：Hattie (1987) 明确表示借鉴了 Glaser 的学习理论，而 Glaser 是 Skinner 的学生，以进一步发展程序化教学和行为分析闻名
 

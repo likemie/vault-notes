@@ -16,14 +16,14 @@ tags:
   - theme/urbanisation
   - theme/educational-inequality
 related_concepts:
-  - "[[Hukou System]]"
   - "[[School Choice]]"
-  - "[[Peidu]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Hukou System]]"
   - "[[Rural School Consolidation]]"
+  - "[[Peidu]]"
 related_arguments: []
 sources:
   - "[[Teng_2025_CE]]"
@@ -43,7 +43,7 @@ updated: 2026-05-26
 
 ## 政策文本
 
-> [!abstract]
+> [![[Abstract]]]
 > 2014 年，国务院发布《关于进一步推进[[Hukou System|户籍制度]]改革的意见》（China's State Council 2014，引自 Teng & Wang, 2025, p.303）。核心内容是：允许迁移人口在除少数特大城市之外的城镇获得当地户口。政策目标明确为推进"新型城镇化"——减少农村人口并将其转变为城市居民（Zhan 2017，引自 Teng & Wang, 2025, p.303）。
 
 ---

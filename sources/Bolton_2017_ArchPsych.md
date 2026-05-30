@@ -1,7 +1,6 @@
 ---
 citation: "Bolton, S., & Hattie, J. (2017). Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex. Archives of Psychology, 1(3)."
 extracted_to:
-  - "[[Argument_Bolton_2017_ArchPsych]]"
   - "[[Cognitive Inhibition]]"
   - "[[Cognitive Shifting]]"
   - "[[Executive Function]]"
@@ -23,6 +22,7 @@ extracted_to:
   - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
   - "[[Neo-Piagetian Theories]]"
   - "[[Piaget's Theory of Cognitive Development]]"
+  - "[[Argument_Bolton_2017_ArchPsych]]"
 processed_date: 2026-05-04
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Argument_Marginson_2025_ROE
-author: "Marginson, S"
+authors:
+  - "Marginson, S"
 summary: "以 Massey 关系性空间理论为基础，将高等教育地缘政治分为 1990–2015 霸权式全球化与 2015 至今部分去全球化两个历史阶段，以中美英澳四国的国家-全球协同模式分析空间制造的多样性"
 type: argument
 subtype: journal-article
@@ -24,6 +25,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Methodological Nationalism]]"
   - "[[Double Spatiality of Universities]]"
+  - "[[Definition of Terms]]"
   - "[[International Education]]"
   - "[[Multi-University]]"
   - "[[Zero-Sum Competition]]"
@@ -58,7 +60,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > 论证依托一个多层理论框架，每层承担不同的分析功能：
 
 ### 本体论基础：Massey 的关系性空间理论
@@ -156,7 +158,7 @@ updated: '2026-05-18'
 
 **论证链：**
 
-**3a. 提出地缘政治的操作性定义** — Marginson 将地缘政治简洁地定义为："区域和全球尺度上制度化的权力关系"（institutionalized relations of power in the regional and global scales）。这一定义比传统理解（"国家间的竞争"）更宽泛（Marginson, 2025, p. 11）。
+**3a. 提出地缘政治的[[Definition of Terms|操作性定义]]** — Marginson 将地缘政治简洁地定义为："区域和全球尺度上制度化的权力关系"（institutionalized relations of power in the regional and global scales）。这一定义比传统理解（"国家间的竞争"）更宽泛（Marginson, 2025, p. 11）。
 
 **3b. 扩展地缘政治的行动者范围** — 地缘政治不只是国家的事——公司（Hartmann, 2021）、NGO、城市和大学也同时活跃于地缘政治场域。国际组织尤其参与其中，尽管主要大国之间的不平等关系更具决定性。
 

@@ -1,6 +1,7 @@
 ---
 title: Argument_Schaffar_2024_CogentEdu
-author: "Schaffar, B., & Wolff, L.-A"
+authors:
+  - "Schaffar, B., & Wolff, L.-A"
 summary: "历史与哲学综述：追溯芬兰 PhBL 的现象学、Bildung/Didaktik 和建构主义根源，并批评测量问责逻辑造成的知识碎片化"
 type: argument
 subtype: journal-article
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Phenomenology]] — 用于解释"phenomenon"概念、生活世界、具身经验、主体间性，以及学习作为人与世界之间的存在性对话（Schaffar & Wolff, 2024, pp.2-3）。
 > - [[Bildung]] — 用于说明芬兰教育中开放未来、自我形成、共同体建设和教育内在目的的传统（Schaffar & Wolff, 2024, pp.5-7, 11）。
 > - [[Didaktik]] — 特别借 [[Wolfgang Klafki]] 的 [[Epochal Key Problems]] 说明课程如何围绕复杂社会问题组织学科深度与跨学科广度（Schaffar & Wolff, 2024, pp.6-7）。

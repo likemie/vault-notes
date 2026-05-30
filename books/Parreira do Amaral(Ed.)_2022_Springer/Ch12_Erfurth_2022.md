@@ -1,7 +1,6 @@
 ---
 citation: "Erfurth, M. (2022). Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 199–213). Springer."
 extracted_to:
-  - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[International Education Hubs]]"
   - "[[Cultural Diplomacy]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -11,8 +10,9 @@ extracted_to:
   - "[[UAE Education Hub Projects]]"
   - "[[Comparative Case Study]]"
   - "[[Jane Knight]]"
-  - "[[Bob Jessop]]"
   - "[[Cultural Political Economy]]"
+  - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Bob Jessop]]"
 processed_date: 2026-05-19
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

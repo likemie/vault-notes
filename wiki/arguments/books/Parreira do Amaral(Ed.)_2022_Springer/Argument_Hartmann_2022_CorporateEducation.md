@@ -1,6 +1,7 @@
 ---
 title: Argument_Hartmann_2022_CorporateEducation
-author: "Hartmann, E"
+authors:
+  - "Hartmann, E"
 summary: "Ch11 Eva Hartmann，以制度同构理论和 MNC 组织类型学为框架，分析企业教育的国际化及其地缘政治与地缘经济维度，识别四种权威来源策略，论证营利性教育提供商的市场集中化趋势"
 type: argument
 subtype: book-chapter
@@ -42,7 +43,7 @@ updated: 2026-05-18
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > Hartmann 用三个理论资源搭建了一个分析框架，核心逻辑是：**权力 ≠ 权威**——一家公司可以强制员工参加培训（有权），但这不等于员工真心接受培训的价值（有威）。[[Corporate Education|企业教育]]要真正有效、能跨国统一，就必须获得合法性（legitimacy），而合法性来自哪里？这就是整篇论文要追查的。
 
 ### Weber 的权威理论：权力和权威不是一回事

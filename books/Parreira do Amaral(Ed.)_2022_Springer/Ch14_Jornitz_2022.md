@@ -1,7 +1,6 @@
 ---
 citation: "Jornitz, S., & Klinge, D. (2022). \"Bildung\" as a Forgotten Aspect of Algorithmic Technologies. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 231–249). Springer."
 extracted_to:
-  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Didaktik]]"
   - "[[Bildung]]"
   - "[[Data Behaviorism]]"
@@ -10,6 +9,7 @@ extracted_to:
   - "[[Feedback]]"
   - "[[Global Education Industry]]"
   - "[[Teaching Theory of Gruschka]]"
+  - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
 processed_date: 2026-05-20
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

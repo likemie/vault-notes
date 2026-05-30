@@ -1,6 +1,7 @@
 ---
 title: Argument_Hattie_2015_SOTLP
-author: "Hattie, J"
+authors:
+  - "Hattie, J"
 summary: "将 VL 框架应用于高等教育：PBL 低效（d≈0.08）、在线 vs 面授无差异（d≈0.12）、提出六项关键发现、DIE 模型和八项教师思维框架"
 type: argument
 subtype: journal-article
@@ -38,7 +39,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Visible Learning]] — 以[[Effect Size|效应量]]排名为基础的教育证据综合框架，将 1200 项[[Meta-analysis|元分析]]的结果应用于高等教育情境
 
 ## 研究方法

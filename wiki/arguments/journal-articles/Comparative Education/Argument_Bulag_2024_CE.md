@@ -1,6 +1,7 @@
 ---
 title: Argument_Bulag_2024_CE
-author: "Bulag, U. E"
+authors:
+  - "Bulag, U. E"
 summary: "以中华民族建构为分析对象，批评西方灭绝种族与死亡政治范式剥夺少数民族政治能动性，提出中国民族政策的核心要求是少数民族的自我牺牲"
 type: argument
 citation: "Bulag, U. E. (2024). The wheel of history and minorities' 'self-sacrifice' for the Chinese nation. Comparative Education, 60(1), 96–117."
@@ -55,7 +56,7 @@ issuing_organization: ""
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > 围绕"中国民族政策的本质是什么"这一问题，本文调动了五个理论资源，每一个在论证中都承担特定的功能：
 
 > [!abstract]

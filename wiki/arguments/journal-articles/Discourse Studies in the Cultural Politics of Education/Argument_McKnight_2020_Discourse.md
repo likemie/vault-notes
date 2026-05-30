@@ -1,6 +1,7 @@
 ---
 title: Argument_McKnight_2020_Discourse
-author: "McKnight, L. & Whitburn, B"
+authors:
+  - "McKnight, L. & Whitburn, B"
 summary: "从文化政治视角对 Visible Learning 提出七点系统批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设"
 type: argument
 subtype: journal-article
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 论文以文化政治（cultural politics）为总体分析视角，即"承认人们的价值观、信仰和意见塑造社会并创造我们所工作于其中并与之对抗的教育治理结构"（McKnight & Whitburn, 2020, p.33）。具体理论资源包括：
 >
 > - **新自由主义批判**：Ball（2003）的"新管理全景监狱主义"和"本体论不安全"概念；Springer（2016）的新自由主义暴力分析四问框架（什么在凝结？暴力是什么？资本流向何处？抵抗在哪里？）

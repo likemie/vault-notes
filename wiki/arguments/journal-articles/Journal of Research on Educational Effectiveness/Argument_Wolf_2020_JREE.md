@@ -1,6 +1,7 @@
 ---
 title: Argument_Wolf_2020_JREE
-author: "Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K"
+authors:
+  - "Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K"
 summary: "以多元元回归分析 WWC 数据库 755 个效应量，发现开发者研究效应量平均比独立评估高 0.141 SD（约 1.8 倍），识别发表偏倚、选择性报告和研究者自由度为可能解释机制"
 type: argument
 subtype: journal-article
@@ -43,7 +44,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 研究以 ESSA 2015 通过后开发者经济激励增强为背景，将 Simmons et al. (2011) 的"[[Researcher Degrees of Freedom|研究者自由度]]"和[[Publication Bias|发表偏倚]]（Polanin et al., 2016）作为解释[[Developer Effect|开发者效应]]的理论机制，并参考医学领域关于药企资助偏倚（Lundh et al., 2017; Lexchin, 2012）的文献作为类比框架。（Wolf et al., 2020, pp. 429–431）
 
 ## 研究方法

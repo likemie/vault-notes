@@ -1,6 +1,7 @@
 ---
 title: Argument_Knudsen_2017_NordSTEP
-author: "Knudsen, H"
+authors:
+  - "Knudsen, H"
 summary: "Hanne Knudsen 对 John Hattie 的深度访谈，围绕 VL 的规模化翻译、可见性与学习概念、证据与理论关系、Hattie 的多重角色四主题展开"
 type: argument
 subtype: journal-article
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > Knudsen 的访谈立场受 [[Science and Technology Studies|STS]]（Science and Technology Studies）影响，关注教育项目的翻译过程和 performative effects（Knudsen, 2017, p.253）。她引述 Staunæs (2018) 和 Lingard (2018) 作为类似取向的研究。
 >
 

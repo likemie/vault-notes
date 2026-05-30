@@ -1,6 +1,7 @@
 ---
 title: Argument_Boccanfuso_Hall_2025_OrgStrategy
-author: "Boccanfuso, A., & Hall, R"
+authors:
+  - "Boccanfuso, A., & Hall, R"
 summary: "构建产学参与的活动-基础-特征三维框架，通过65所大学网站分析和产学双方问卷调查，发现五种常见组织模式且无一完全全面，中心办公室仅充当导航者而非执行者，双方在互利关系上高度一致但组织实践高度碎片化"
 type: argument
 citation: "Boccanfuso, A., & Hall, R. (2025). Organization and Strategy for University-Industry Relationships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 51–71). Springer."
@@ -62,7 +63,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 - [[Triple Helix]]（三重螺旋）— Etzkowitz 和 Leydesdorff（1995）的大学-产业-政府协作模型，提供了[[University-Industry Collaboration|产学合作]]的宏观制度背景。政府通过 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 等立法和 [[National Science Foundation|NSF]] 等资助机制塑造产学互动的制度环境，大学和企业在这个环境中寻找合作空间（p.52）
 - [[Entrepreneurial University]]（创业型大学）— Etzkowitz et al.（2000）提出的模型：大学不再是被动等待企业上门，而是主动调整内部文化、创建专门办公室、改革激励制度来寻求产业合作。本章研究的正是这种"主动组织"的具体形态（p.52）
 - [[University-Industry Collaboration]] — 该章关注的不只是产学合作的内容（[[Knowledge Transfer|知识转移]]、技术商业化），更是它的组织形式（谁来管、管什么、怎么管）。核心问题是：大学如何把产学合作从一个分散的、个人驱动的活动变成一个有组织、有战略的制度行为

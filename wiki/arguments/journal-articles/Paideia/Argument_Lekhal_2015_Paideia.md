@@ -1,6 +1,7 @@
 ---
 title: Argument_Lekhal_2015_Paideia
-author: "Lekhal, R., Nordahl, T., Aasen, A. M., & Drugli, M. B"
+authors:
+  - "Lekhal, R., Nordahl, T., Aasen, A. M., & Drugli, M. B"
 summary: "挪威 48 校 4128 名学生研究：性别本身对成绩直接解释力极小（约 0.2%），差异主要通过学校规范适应与学习动机等校内变量间接生成"
 type: argument
 subtype: journal-article
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - 论文将性别差异放在社会认知视角下理解：个体行为、内在过程和环境条件彼此交互，共同影响学习与发展（Lekhal et al., 2015, p.77）。
 > - 作者同时讨论"生物性别解释"和"社会文化建构解释"，并强调较新的研究更关注生物、心理与社会化的联动，而非单因决定论（Lekhal et al., 2015, pp.77-78）。
 

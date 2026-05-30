@@ -1,6 +1,7 @@
 ---
 title: Argument_Rizvi_2022_Springer
-author: "Rizvi, F"
+authors:
+  - "Rizvi, F"
 summary: "Ch6 Fazal Rizvi，以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构"
 type: argument
 subtype: book-chapter
@@ -58,7 +59,7 @@ Rizvi 的核心论点是：过去三十年间，高等教育的深刻转型（NP
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > Rizvi 的分析工具箱包含三个层次的理论资源：
 
 **第一层：地缘政治的基本概念（Dodds, 2019）**

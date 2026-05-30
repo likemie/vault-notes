@@ -1,6 +1,7 @@
 ---
 title: Argument_Byrne_2025_InnovationCenters
-author: "Byrne, K. T., & Clements, V. R"
+authors:
+  - "Byrne, K. T., & Clements, V. R"
 summary: "基于大学融资基金会四十余年产学合作开发经验，提出创新中心建设的四个核心信条与六项优先领域，以 Tech Square、RTP 等多案例说明如何通过场所营造与资产映射推动区域经济发展"
 type: argument
 citation: "Byrne, K. T., & Clements, V. R. (2025). Innovation Centers and Economic Development. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 123-140). Springer."
@@ -60,7 +61,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > 基于[[TUFF|大学融资基金会]]（The University Financing Foundation, TUFF）自 1982 年以来在[[University-Industry Collaboration|产学合作]]开发领域的实践经验。
 >
 > TUFF 起源于佐治亚理工学院（Georgia Tech）。1982 年，时任校长 Joseph Pettit 提出以私营部门的交付模式为大学建设高质量研究设施，用低于市场的租赁成本吸引产业伙伴，同时最大化联邦资金机会。这一愿景催生了 TUFF——一个由佐治亚理工学院校友创立的 501(c)(3) 基金会。其第一笔合作成果是佐治亚理工学院的 J. Frank Smith Centennial Research Building，此后四十三年来持续扩张（p.123）。
@@ -110,7 +111,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 论证结构
 
-> [!abstract]
+> [![[Abstract]]]
 > **整体逻辑链**：否定"物理设施决定论" → 四个信条划定必要条件 → 六项优先领域逐一展开操作逻辑 → 收束为五步行动框架。
 
 ---
@@ -364,7 +365,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - [[Tech Square at Georgia Tech|Tech Square]] 经历了两次全国最严重的衰退和一场全球疫情，后者既扰乱了商业地产市场，又似乎永久性地改变了美国工作者的心理。以强大学术-产业合作为基础的[[Innovation Park|创新园区]]，比纯商业地产在面对远程办公趋势和市场波动时更具韧性，因为园区提供的核心价值是"社区"而非仅仅是"空间"（p.139）
 > - 减少官僚障碍和繁文缛节，可能比增加资金对创新中心成功的贡献更大（p.139）
 
-> [!abstract]
+> [![[Abstract]]]
 > **[[TUFF]] 总结的四个成功主题**（pp.139–140）：
 > 1. **Tech Square 作为韧性透镜**：Tech Square 经历了两次全国最严重衰退和全球疫情，仍然充满活力。创新中心通过成功的文化建设、长期投资和真正响应性的[[Placemaking|场所营造]]来获得韧性。
 > 2. **商业地产不等于产学开发**：疫情带来的商业地产困境恰恰强调了[[University-Industry Collaboration|产学合作]]基本原则的重要性。以强大学术-产业合作为基础的创新园区，其物理和无形资产相互强化，因此能够抵御不断变化的市场条件。

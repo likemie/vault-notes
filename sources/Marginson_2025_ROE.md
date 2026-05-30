@@ -1,7 +1,6 @@
 ---
 citation: "Marginson, S. (2025). Space, power, and globalization: On the geopolitics of higher education. ECNU Review of Education, 9(2), 1–39."
 extracted_to:
-  - "[[Argument_Marginson_2025_ROE]]"
   - "[[Multiplicity]]"
   - "[[Double Spatiality of Universities]]"
   - "[[Scale in Higher Education]]"
@@ -15,6 +14,7 @@ extracted_to:
   - "[[Methodological Nationalism]]"
   - "[[Doreen Massey]]"
   - "[[World-Systems Theory]]"
+  - "[[Argument_Marginson_2025_ROE]]"
 processed_date: 2026-05-12
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Argument_Allerup_2015_Paideia
-author: "Allerup, P"
+authors:
+  - "Allerup, P"
 summary: "从统计学角度审查 Hattie 以效应量排序教学干预的前提，指出 d=0.40 依赖样本量、排名未报告置信区间/标准误且边际效应会被协变量改变"
 type: argument
 subtype: journal-article
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - 统计检验理论：用均值、标准差、t 检验、p 值和[[Confidence Interval|置信区间]]解释 d 的含义及其限制（Allerup, 2015, pp.42–46；参见 [[Effect Size#技术定义与计算方法]]、[[Statistical Significance]]）。
 > - 分布假设：以正态分布、偏态分布和 Cauchy 分布说明效应量解释依赖基础数据分布（Allerup, 2015, pp.45–49；参见 [[Effect Size#基本公式与构成逻辑]]）。
 > - 边际分析与多变量分析：用[[Covariate Adjustment|协变量控制]]说明单一边际 d 值会随统计模型改变（Allerup, 2015, pp.49–51；参见 [[Meta-meta-analysis#技术方法论缺陷]]）。

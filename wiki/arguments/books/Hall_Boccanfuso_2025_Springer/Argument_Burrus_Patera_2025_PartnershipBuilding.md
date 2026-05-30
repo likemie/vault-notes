@@ -1,14 +1,13 @@
 ---
 title: Argument_Burrus_Patera_2025_PartnershipBuilding
-author: "Burrus, C., & Patera, A"
+authors:
+  - "Burrus, C., & Patera, A"
 summary: "从产学关系实践者角度，提出通过连接、探索发现与关系建设三步构建战略性产学伙伴关系的框架，强调大学企业参与专员的中介角色"
 type: argument
 citation: "Burrus, C., & Patera, A. (2025). Connecting, Exploring, Uncovering, and Building Partnerships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 73–83). Springer."
 tags: ["theme/university-industry-collaboration", "theme/partnership", "theme/corporate-engagement"]
 related_concepts:
   - "[[Strategic Partnership in University-Industry Collaboration]]"
-  - "[[Network of Academic Corporate Relations Officers]]"
-  - "[[University Industry Innovation Network]]"
   - "[[University-Industry Collaboration]]"
   - "[[Trade Mission in University-Industry Engagement]]"
   - "[[Industry Advisory Board]]"
@@ -23,7 +22,9 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Network of Academic Corporate Relations Officers]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[University Industry Innovation Network]]"
 related_arguments: []
 sources:
   - "[[Ch4_Burrus_Patera_2025]]"
@@ -49,7 +50,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 不依赖正式学术理论，而是基于在普林斯顿大学领导战略伙伴关系的长期实践经验，同时整合 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Demonstration Partnership|UIDP]] 和 [[University Industry Innovation Network|UIIN]] 等行业组织积累的最佳实践。
 > - [[University-Industry Collaboration]] — 作为分析的组织框架，将伙伴关系建设分解为三个相互关联的阶段：连接 → 探索发现 → 建设
 

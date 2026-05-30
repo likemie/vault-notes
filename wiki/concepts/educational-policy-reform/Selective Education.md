@@ -11,6 +11,7 @@ tags:
 - region/uk
 - level/k12
 related_concepts:
+  - "[[Abstract]]"
   - "[[Moral Sidestep]]"
 related_theories: []
 related_methods: []
@@ -65,7 +66,7 @@ updated: '2026-05-18'
 > - **对多数学生成绩影响甚微**（Lu, 2020a, 2020b；Bainbridge et al., 2022, p.11）
 > - **资金分配不公**：选择性学校获得不成比例的高额收入（Rowe & Perry, 2021；Bainbridge et al., 2022, p.11）
 >
-> 英国议会简报和研究摘要（Danechi, 2020; Long et al., 2018; POST, 2016）已持续向议员呈递上述实证证据（Bainbridge et al., 2022, p.11）。
+> 英国议会简报和[[Abstract|研究摘要]]（Danechi, 2020; Long et al., 2018; POST, 2016）已持续向议员呈递上述实证证据（Bainbridge et al., 2022, p.11）。
 >
 
 ## 争议与批评

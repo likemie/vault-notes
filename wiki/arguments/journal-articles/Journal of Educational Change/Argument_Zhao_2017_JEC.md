@@ -1,6 +1,7 @@
 ---
 title: Argument_Zhao_2017_JEC
-author: "Zhao, Y"
+authors:
+  - "Zhao, Y"
 summary: "从医学引入副作用概念，以直接教学、东亚教育体系、NCLB 三个案例论证教育中“什么有效可能同时有害“，提出 6 项行动建议"
 type: argument
 subtype: journal-article
@@ -41,7 +42,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 以医学研究为类比框架：FDA 要求新药研发必须同时报告有效性和不良事件，临床试验和上市后监测均需持续跟踪副作用。教育研究既无此信念，也无此要求。
 
 ## 研究方法

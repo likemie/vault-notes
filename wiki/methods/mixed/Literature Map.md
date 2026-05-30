@@ -7,6 +7,7 @@ method_type: mixed
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Literature Review]]"
+  - "[[Research Topic]]"
   - "[[Recommendations for Practice]]"
 related_theories: []
 related_methods:
@@ -39,7 +40,7 @@ updated: 2026-05-30
 
 文献地图可以有多种呈现形式（Creswell & Creswell, 2022）：
 
-- **层级结构（Hierarchical）**：自上而下展开文献分类，最顶层是广泛的研究主题，逐层缩小至具体分支，最底端放置计划研究的定位。这是最常见的呈现形式。
+- **层级结构（Hierarchical）**：自上而下展开文献分类，最顶层是广泛的[[Research Topic|研究主题]]，逐层缩小至具体分支，最底端放置计划研究的定位。这是最常见的呈现形式。
 - **流程图（Flowchart）**：从左到右展开文献脉络，最右侧推进计划研究。
 - **圆圈交叠（Circle Intersection）**：每个圆圈代表一个文献体系，圆圈的重叠处指示需要未来研究的空白区域。
 

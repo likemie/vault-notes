@@ -1,6 +1,7 @@
 ---
 title: Argument_Slethaug_2010_InternationalEducation
-author: "Slethaug, G"
+authors:
+  - "Slethaug, G"
 summary: "Ch1 背景章节：国际学校 50→3,000+(1964–2005)的爆炸增长与去国家化转型，IB 全球扩散，中国学习者多元性，国际教育师资培训系统性缺失"
 type: argument
 subtype: book-chapter
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > 本章未采用单一命名理论，而是以**全球化**（globalization）和**去国家化**（denationalization）两个视角贯穿分析。
 >
 > 核心前提来自 Suárez-Orozco & Qin-Hilliard（2004）：在全球化时代，知识的跨国流通已成为经济生产力的关键要素——固守本地、忽视全球力量的教育系统"可能变得过时"，而主动应对全球化挑战的系统"更有可能繁荣"（Slethaug, 2010, p.1）。

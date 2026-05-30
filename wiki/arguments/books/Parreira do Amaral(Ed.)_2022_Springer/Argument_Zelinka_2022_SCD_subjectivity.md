@@ -1,6 +1,7 @@
 ---
 title: Argument_Zelinka_2022_SCD_subjectivity
-author: "Zelinka, J"
+authors:
+  - "Zelinka, J"
 summary: "以 Foucault 治理术和话语分析为框架，审查 21 世纪技能与素养话语的七个国际框架，揭示其如何通过三组张力生产以自我企业家为核心的新主体性，并将新知识地缘政治概念化为一种全球治理技术。"
 type: argument
 citation: "Zelinka, J. (2022). Subjects and Subjectivities of the (New) Geopolitics of Knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 251–269). Springer."
@@ -42,7 +43,7 @@ book_title: "Geopolitical Transformations in Higher Education_ Imagining, Fabric
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > 该章的分析建立在三个相互嵌套的理论资源之上：
 
 - **[[Governmentality]]（治理术）** — 取自 Foucault（2004），指通过引导个体的自我引导来治理社会的方式。Zelinka 将（新）[[Geopolitics of Knowledge|知识地缘政治]]概念化为一种**全球治理技术**（global governmental technology），以此透视全球趋势和宏大发展之下的权力微观机制（Zelinka, 2022, p.264）。

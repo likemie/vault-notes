@@ -1,6 +1,7 @@
 ---
 title: Argument_Simpson_2019
-author: "Simpson, A"
+authors:
+  - "Simpson, A"
 summary: "以“教一个匈牙利单词“思想实验证明效应量是试验清晰度而非教育有效性的测量，系统论证 EBE 支持者的六种防御策略"
 type: argument
 subtype: journal-article
@@ -40,7 +41,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 本文不依赖于特定的理论框架，而是通过**思想实验（thought experiment）**和**现实案例**进行概念分析和逻辑论证，揭示[[Effect Size|效应量]]作为"教育有效性"代理指标的范畴错误（category error）。
 
 ## 研究方法

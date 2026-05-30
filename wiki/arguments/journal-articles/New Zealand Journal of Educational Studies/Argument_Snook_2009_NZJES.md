@@ -1,6 +1,7 @@
 ---
 title: Argument_Snook_2009
-author: "Snook, I., O''Neill, J., Clark, J., O''Neill, A. M., & Openshaw, R"
+authors:
+  - "Snook, I., O''Neill, J., Clark, J., O''Neill, A. M., & Openshaw, R"
 summary: "VL 最早的系统性批判之一（2009）：从方法论缺陷、效应量任意性、社会背景排除、政策误用风险五维度审查 Hattie VL，引 Dewey 知识论为基线立场"
 type: argument
 subtype: journal-article
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 [[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（Dewey, quoted in [[John Hattie|Hattie]], 2008, p.147）。
 
 ## 研究方法

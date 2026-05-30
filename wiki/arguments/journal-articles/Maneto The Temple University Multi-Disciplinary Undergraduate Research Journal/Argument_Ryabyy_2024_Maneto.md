@@ -1,6 +1,7 @@
 ---
 title: Argument_Ryabyy_2024_Maneto
-author: "Ryabyy, V"
+authors:
+  - "Ryabyy, V"
 summary: "利用 Dewey 私人通信、纽约时报报道和美国国务院外交函件重建其 1928 年访苏行程，揭示该访问对苏联教育者和美国公众舆论的多向影响，以及反共势力如何将教育交流视为宣传工具"
 type: argument
 subtype: journal-article
@@ -50,7 +51,7 @@ updated: 2026-05-26
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 该研究没有使用显式的理论框架，它的分析逻辑是"多源资料交叉验证"（cross-referencing of multiple archival sources）——围绕三组行动者，分别从他们的视角阅读档案，然后比对同一个事件在不同来源中如何呈现（pp.102–103, 107–109）：
 >
 > - **美国教育者代表团**（以 [[John Dewey]] 为核心）——作为文化使者进入苏联，其私人通信是研究的主要一手资料

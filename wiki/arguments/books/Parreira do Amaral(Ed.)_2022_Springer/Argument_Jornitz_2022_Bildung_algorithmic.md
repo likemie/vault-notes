@@ -1,6 +1,7 @@
 ---
 title: Argument_Jornitz_2022_Bildung_algorithmic
-author: "Jornitz, S., & Klinge, D"
+authors:
+  - "Jornitz, S., & Klinge, D"
 summary: "以 Bildung 概念和 Gruschka 教学理论为框架，分析学习软件的即时反馈、奖励系统和表现仪表盘三大机制如何系统性地排除教育中的意义建构与人格陶成，将算法技术的全球传播解读为数字知识地缘政治"
 type: argument
 subtype: book-chapter
@@ -47,7 +48,7 @@ updated: 2026-05-20
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > 分析从三个理论资源出发，三者层层递进：
 
 - **[[Bildung]] 传统**：以 Humboldt（1793）的经典定义——个体与世界之间"最独立的交互作用"——为出发点。Bildung 不是一个"学习结果"，而是一个开放的人格形成过程：它要求时间、反思和容纳歧义的空间。结合 Nordenbo（2002）强调的"主动内核"——Bildung 不能被外部灌输，只能由主体主动参与自身的形成——以及 Masschelein & Ricken（2010）的三维度拆解（自我关系、他者关系、世界关系），Bildung 提供了一个评判算法技术之教育后果的规范性标准（Jornitz & Klinge, 2022, pp.237–239, 246）。

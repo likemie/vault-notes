@@ -1,6 +1,7 @@
 ---
 title: Argument_Gorur_2014_Discourse
-author: "Gorur, R"
+authors:
+  - "Gorur, R"
 summary: "以 STS 和测量社会学框架追溯 OECD 教育指标从“几乎不可能“到年度常规生产的历程，论证测量是制造世界而非描述世界的生产性行为，批判因此是道德事业"
 type: argument
 subtype: journal-article
@@ -43,7 +44,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - **[[Science and Technology Studies]]** — 以 Latour 的"科学在行动"为方法论指南，将指标开发视为"正在制造中的科学"（Gorur, 2014, p.6）
 > - **[[Sociology of Measurement]]**（Woolgar） — 分析测量的工具主义（instrumentalism：事物如何在实用意义上被"弄到运作"）和施行性（performativity：测量如何制造世界）（Gorur, 2014, p.6–7）
 > - **共同生产（Co-production）**（Jasanoff, 2004） — 科学与治理相互构成的分析框架（Gorur, 2014, p.6）

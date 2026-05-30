@@ -1,6 +1,7 @@
 ---
 title: Argument_Wang_2025_CE
-author: "Wang, T. & McLaughlin, C"
+authors:
+  - "Wang, T. & McLaughlin, C"
 summary: "以第三代活动理论为框架，分析中国四校在跨文化教师教育项目中考试问责系统与LCE改革系统的互动，发现两者并非必然对立，关键在于建立学校特定的共享目标并协调活动系统各要素"
 type: argument
 subtype: journal-article
@@ -56,7 +57,7 @@ updated: 2026-05-26
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - **[[Third Generation Activity Theory]]**（[[Yrjö Engeström|Engeström]] 2001）：研究的核心分析框架。将人类行为概念化为集体活动系统，每个系统包含六个要素——主体、客体、中介工具、共同体、规则和劳动分工。第三代活动理论特别关注不同活动系统之间的互动、边界跨越和可能产生的矛盾——矛盾既可以是变革的障碍，也可以是扩展性改造（expansive transformation）的动力（pp.590-591）。
 >
 > 研究将[[Test-Based Accountability|考试问责]]和 [[Learner-Centred Education|LCE]] 改革概念化为学校同时嵌入的两个活动系统：

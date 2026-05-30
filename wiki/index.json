@@ -467,6 +467,15 @@
     ]
   },
   {
+    "title": "Science and Technology Studies",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Science and Technology Studies.md",
+    "aliases": [
+      "科学技术研究",
+      "STS"
+    ]
+  },
+  {
     "title": "Social Museology",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Social Museology.md",
@@ -1575,15 +1584,6 @@
     ]
   },
   {
-    "title": "Network of Academic Corporate Relations Officers",
-    "type": "concept",
-    "path": "wiki/concepts/higher-education/Network of Academic Corporate Relations Officers.md",
-    "aliases": [
-      "NACRO",
-      "大学企业关系官网络"
-    ]
-  },
-  {
     "title": "Non-dilutive Funding",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Non-dilutive Funding.md",
@@ -1878,15 +1878,6 @@
       "UCEP",
       "University Corporate Engagement Professional",
       "corporate engagement professional"
-    ]
-  },
-  {
-    "title": "University Industry Innovation Network",
-    "type": "concept",
-    "path": "wiki/concepts/higher-education/University Industry Innovation Network.md",
-    "aliases": [
-      "UIIN",
-      "大学产业创新网络"
     ]
   },
   {
@@ -2933,6 +2924,30 @@
     ]
   },
   {
+    "title": "Abstract",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Abstract.md",
+    "aliases": [
+      "文献摘要",
+      "研究摘要",
+      "abstracting studies",
+      "literature abstract",
+      "study abstract"
+    ]
+  },
+  {
+    "title": "APA Style",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/APA Style.md",
+    "aliases": [
+      "APA格式",
+      "APA style manual",
+      "Publication Manual of the APA",
+      "APA 7th edition",
+      "APA第七版"
+    ]
+  },
+  {
     "title": "Black Box RCTs",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Black Box RCTs.md",
@@ -2970,6 +2985,18 @@
       "social constructivism",
       "constructivist worldview",
       "interpretivism"
+    ]
+  },
+  {
+    "title": "Definition of Terms",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Definition of Terms.md",
+    "aliases": [
+      "术语定义",
+      "操作性定义",
+      "operational definition",
+      "defining terms",
+      "definition section"
     ]
   },
   {
@@ -3134,6 +3161,18 @@
     "aliases": [
       "发表偏差",
       "发表偏倚"
+    ]
+  },
+  {
+    "title": "Research Topic",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Research Topic.md",
+    "aliases": [
+      "研究主题",
+      "研究选题",
+      "research subject",
+      "study topic",
+      "working title"
     ]
   },
   {
@@ -3366,18 +3405,6 @@
     ]
   },
   {
-    "title": "Hukou System",
-    "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/Hukou System.md",
-    "aliases": [
-      "户口制度",
-      "户籍制度",
-      "hukou",
-      "household registration system",
-      "hukou reform"
-    ]
-  },
-  {
     "title": "Intellectual-Social Divide",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Intellectual-Social Divide.md",
@@ -3481,16 +3508,6 @@
     ]
   },
   {
-    "title": "Peidu",
-    "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/Peidu.md",
-    "aliases": [
-      "陪读",
-      "accompanying study",
-      "peidu migration"
-    ]
-  },
-  {
     "title": "Political Arithmetic",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Political Arithmetic.md",
@@ -3508,15 +3525,6 @@
       "学校选择",
       "parental school choice",
       "school choice policy"
-    ]
-  },
-  {
-    "title": "Science and Technology Studies",
-    "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/Science and Technology Studies.md",
-    "aliases": [
-      "科学技术研究",
-      "STS"
     ]
   },
   {
@@ -5954,6 +5962,16 @@
     ]
   },
   {
+    "title": "Peidu",
+    "type": "fact",
+    "path": "wiki/facts/china/Peidu.md",
+    "aliases": [
+      "陪读",
+      "accompanying study",
+      "peidu migration"
+    ]
+  },
+  {
     "title": "1904 Educational System",
     "type": "fact",
     "path": "wiki/facts/china/1904 Educational System.md",
@@ -6016,6 +6034,18 @@
       "中国高校毕业生就业制度改革 1986-1997",
       "双向选择制度",
       "并轨招生"
+    ]
+  },
+  {
+    "title": "Hukou System",
+    "type": "fact",
+    "path": "wiki/facts/china/Hukou System.md",
+    "aliases": [
+      "户口制度",
+      "户籍制度",
+      "hukou",
+      "household registration system",
+      "hukou reform"
     ]
   },
   {
@@ -6301,6 +6331,24 @@
     "path": "wiki/facts/global/Regional University Alliances.md",
     "aliases": [
       "区域大学联盟"
+    ]
+  },
+  {
+    "title": "Network of Academic Corporate Relations Officers",
+    "type": "fact",
+    "path": "wiki/facts/global/Network of Academic Corporate Relations Officers.md",
+    "aliases": [
+      "NACRO",
+      "大学企业关系官网络"
+    ]
+  },
+  {
+    "title": "University Industry Innovation Network",
+    "type": "fact",
+    "path": "wiki/facts/global/University Industry Innovation Network.md",
+    "aliases": [
+      "UIIN",
+      "大学产业创新网络"
     ]
   },
   {

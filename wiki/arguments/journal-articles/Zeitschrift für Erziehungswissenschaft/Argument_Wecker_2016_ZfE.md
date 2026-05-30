@@ -1,6 +1,7 @@
 ---
 title: Argument_Wecker_2016_ZfE
-author: "Wecker, C., Vogel, F., & Hetmanek, A"
+authors:
+  - "Wecker, C., Vogel, F., & Hetmanek, A"
 summary: "以固定效应模型数学基础推导 6 项二级元分析方法论要求，对 Hattie Visible Learning 进行系统性的内部+外部方法论批判，提出中央证据数据库方案"
 type: argument
 subtype: journal-article

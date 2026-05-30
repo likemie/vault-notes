@@ -1,6 +1,7 @@
 ---
 title: Argument_Dachet_2021_ROE
-author: "Dachet, D., & Baye, A"
+authors:
+  - "Dachet, D., & Baye, A"
 summary: "以法语比利时教育卓越公约为叙事案例，说明证据本位改革在定性研究传统较强且本地实验项目稀少的系统中只能通过包容性证据类型学、利益相关者协商和试点评价逐步制度化。"
 type: argument
 subtype: journal-article
@@ -50,7 +51,7 @@ updated: 2026-05-24
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Evidence-Based Education]]：作为从循证医学迁移到教育领域的范式，强调专业实践应使用当前最佳研究证据，但教育领域同时存在对标准化、可复制性和认识论窄化的批评（Dachet & Baye, 2021, pp.166-168）。
 > - [[Evidence-Based Reform]]：主要采用 Slavin 的三项杠杆作为分析框架，即提供广泛的经验证项目、提供教师友好的研究综述、为学校实施经验证项目提供资源（Dachet & Baye, 2021, pp.166, 179-181）。
 > - 方法匹配而非单一证据层级：结构性教育改革很难总是用实验设计评估，因此可用相关研究、纵向研究或其他适合问题的问题-方法组合来判断现有最佳证据（Dachet & Baye, 2021, pp.171, 179-180）。

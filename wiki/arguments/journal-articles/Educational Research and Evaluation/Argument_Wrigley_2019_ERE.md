@@ -1,6 +1,7 @@
 ---
 title: Argument_Wrigley_2019_ERE
-author: "Wrigley, T., & McCusker, S"
+authors:
+  - "Wrigley, T., & McCusker, S"
 summary: "以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导者对“科学“的诉诸依赖于过分简化的民间科学观，揭示元-元分析的三级统计失真"
 type: argument
 subtype: journal-article
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Critical Realism]] — Bhaskar (1978, 1979) 的批判实在论是本文的核心哲学框架：实在（real）、实际（actual）和经验（phenomenal）三层本体论；开放系统与封闭系统的区分；对经验主义的批判
 > - [[Evidence-Based Education]] — 本文的直接批判对象，从科学哲学角度解构其方法论基础
 

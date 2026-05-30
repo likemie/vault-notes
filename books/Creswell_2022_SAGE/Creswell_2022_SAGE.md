@@ -1,16 +1,12 @@
 ---
 citation: "Creswell, J. W., & Creswell, J. D. (2022). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). SAGE Publications."
 extracted_to:
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Literature Review]]"
   - "[[Postpositivism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Transformative Paradigm]]"
   - "[[Complex Mixed Methods Design]]"
   - "[[Joint Display]]"
-  - "[[Literature Map]]"
-  - "[[Mixed Method and Multi-method Research]]"
   - "[[Case Study]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
@@ -23,6 +19,14 @@ extracted_to:
   - "[[Survey Research]]"
   - "[[J. David Creswell]]"
   - "[[John W. Creswell]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[APA Style]]"
+  - "[[Abstract]]"
+  - "[[Definition of Terms]]"
+  - "[[Literature Review]]"
+  - "[[Research Topic]]"
+  - "[[Literature Map]]"
+  - "[[Mixed Method and Multi-method Research]]"
 processed_date: 2026-05-30
 ---
 

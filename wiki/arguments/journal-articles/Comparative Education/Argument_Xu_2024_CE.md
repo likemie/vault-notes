@@ -1,6 +1,7 @@
 ---
 title: Argument_Xu_2024_CE
-author: "Xu, S"
+authors:
+  - "Xu, S"
 summary: "对比大陆与香港初中中国历史教科书的国家叙事，大陆以领土构成和民族包容性建构中国，香港以民族构成和领土变化建构中国，揭示两种叙事差异植根于两地不同的社会政治背景"
 type: argument
 subtype: journal-article
@@ -62,7 +63,7 @@ updated: 2026-05-26
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 论文的论证建立在四层理论上，每一层解决一个分析需要：
 >
 > **第一层：民族是什么？——原生与现代之间的谱系**

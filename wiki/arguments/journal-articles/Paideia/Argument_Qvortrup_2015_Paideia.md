@@ -1,6 +1,7 @@
 ---
 title: Argument_Qvortrup_2015_Paideia
-author: "Qvortrup, L"
+authors:
+  - "Qvortrup, L"
 summary: "VL 支持者立场讨论论文：回应三类批评，并指出学习结果概念需通过动态知识与学习模型加以重建"
 type: argument
 subtype: journal-article
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Visible Learning]] — 论文以 [[John Hattie|Hattie]] (2009) 的 800+ [[Meta-analysis|元分析]]综合为讨论对象，支持其作为实证统计教育研究转向中的代表性成果，但同时指出其因变量"学习结果"需要更清晰的概念化（Qvortrup, 2015, pp.22, 27–29）
 > - [[Meta-analysis]] — 论文使用 Gene Glass (1976/2000) 对元分析的辩护来回应"苹果和橙子"或"梨和香蕉"问题：所有比较都发生在不完全相同的现象之间，关键在于透明地说明变异维度和选择适当的概括层次（Qvortrup, 2015, pp.24–26）
 > - [[Surface and Deep Learning]] — Qvortrup 承认 Hattie 区分表层、深层和概念性知识，但认为 Visible Learning 的总体结果多停留在抽象学习结果层面，若要判断特定知识层次的效果，必须细读具体分析（Qvortrup, 2015, pp.27–29）

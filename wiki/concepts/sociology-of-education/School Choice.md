@@ -13,12 +13,12 @@ tags:
   - theme/educational-inequality
   - policy/neoliberalism
 related_concepts:
-  - "[[Peidu]]"
   - "[[Cultural Capital]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Peidu]]"
 related_arguments: []
 sources:
   - "[[Teng_2025_CE]]"
@@ -46,7 +46,7 @@ updated: 2026-05-26
 
 ## 社会分层效应
 
-> [!abstract]
+> [![[Abstract]]]
 > 大量国际实证研究表明，择校并非如政策倡导者所宣称的那样减少教育不平等，而是按社会阶层分层的实践——家庭的经济、文化和社会资本决定了择校的过程与结果。
 
 ### 经济资本

@@ -1,6 +1,7 @@
 ---
 title: Argument_Cheung_2021_ROE
-author: "Cheung, A. C. K., & Xie, C"
+authors:
+  - "Cheung, A. C. K., & Xie, C"
 summary: "ECNU ROE 特刊 Editorial：以 COVID-19 疫苗试验类比教育 RCT，汇集七国八篇文章，按四项核心活动框架呈现证据本位改革全球全景"
 type: argument
 subtype: journal-article
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 采用 Slavin et al. (2020) 的[[Evidence-Based Reform|证据本位改革]]四项核心活动框架组织全刊文章（Cheung & Xie, 2021, p.2）：
 >
 > 1. **创建持续增加知识和有效实践的政策与系统**（policies and systems）

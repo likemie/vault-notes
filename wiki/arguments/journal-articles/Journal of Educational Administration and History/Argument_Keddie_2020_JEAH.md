@@ -1,6 +1,7 @@
 ---
 title: Argument_Keddie_2020_JEAH
-author: "Keddie, A., MacDonald, K. C., Blackmore, J., Eacott, S., Gobby, B., Mahoney, C., Niesche, R., & Wilkinson, J"
+authors:
+  - "Keddie, A., MacDonald, K. C., Blackmore, J., Eacott, S., Gobby, B., Mahoney, C., Niesche, R., & Wilkinson, J"
 summary: "基于 42 位澳大利亚教育利益相关者访谈，论证市场驱动的学校自主权改革对校长和弱势学校的系统性不公正影响"
 type: argument
 subtype: journal-article
@@ -37,7 +38,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 以 **Nancy Fraser**（2009）的社会正义框架（再分配、承认、代表权）为理论透镜，区分**经济正义**（资源分配的公平性）和**政治正义**（决策参与的公平性）。论文将市场驱动的[[School Autonomy|学校自主权]]改革诊断为同时损害这两种正义的机制。
 
 ## 研究方法

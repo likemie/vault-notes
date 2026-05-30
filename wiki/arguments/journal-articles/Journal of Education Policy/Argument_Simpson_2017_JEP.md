@@ -1,6 +1,7 @@
 ---
 title: Argument_Simpson_2017_JEP
-author: "Simpson, A"
+authors:
+  - "Simpson, A"
 summary: "以农场肥料思想实验和真实研究案例，论证效应量三大系统性偏差（比较组、范围限制、测量设计）使元分析联盟表成为“研究设计操纵开放程度的等级“而非教育有效性排名"
 type: argument
 subtype: journal-article
@@ -43,7 +44,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 该论文是方法论批判，未援引特定理论框架，但建立在以下前提之上：
 >
 > - **Cohen (1962) 的[[Effect Size|效应量]]概念**：效应量最初用于帮助研究者评估统计功效（检测差异的能力），而非测量教育重要性（Simpson, 2017, p.3）

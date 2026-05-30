@@ -1,6 +1,7 @@
 ---
 title: Argument_Pellegrini_2021_ROE
-author: "Pellegrini, M., & Vivanet, G"
+authors:
+  - "Pellegrini, M., & Vivanet, G"
 summary: "梳理2006年以来欧盟证据知情教育政策和证据中介组织，指出欧洲进展主要停留在倡议和网络层面，真正落地受外部效度、经费再平衡和关键能力评估难题制约"
 type: argument
 subtype: journal-article
@@ -61,7 +62,7 @@ updated: 2026-05-23
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Evidence-Based Education]] — 教育项目和实践应更多依靠高质量研究证据，尤其是能够评价可复制项目效果的研究（Pellegrini & Vivanet, 2021, p.26）。
 > - [[Evidence-Informed Practice]] — 欧洲文件和倡议更常使用 evidence-informed education，因为证据来源不限于 [[Experimental Research|实验研究]]，政策文件也多是指导而非强制规定（Pellegrini & Vivanet, 2021, p.26）。
 > - [[Evidence-Based Reform]] — Slavin 的定义把重点放在政策如何支持或鼓励使用经严格研究证明有效的项目与实践，而不是传播一般性教学原则（Pellegrini & Vivanet, 2021, p.26）。

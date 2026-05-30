@@ -25,7 +25,6 @@ related_concepts:
   - "[[Further Education]]"
   - "[[University Spin-Out]]"
   - "[[Industry Advisory Board]]"
-  - "[[Network of Academic Corporate Relations Officers]]"
   - "[[Professors of Practice]]"
   - "[[Trade Mission in University-Industry Engagement]]"
   - "[[Professional Judgment]]"
@@ -52,6 +51,7 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[TUFF]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Network of Academic Corporate Relations Officers]]"
   - "[[University, Inc. (Washburn, 2005)]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
 related_arguments:
@@ -120,7 +120,7 @@ updated: 2026-05-30
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > 有效的产学合作依赖于以下要素：
 
 - **目标对齐（Alignment）**：大学和企业具有相似但比例不同的目标。大学追求研究声誉、教育质量和公共效益，同时需要财务资源和声誉支撑；企业追求利润，但也关注声誉、人才获取和公共形象。对齐体现在人才发展、经济增长和知识产权等目标上（pp.5–7）
@@ -142,7 +142,7 @@ updated: 2026-05-30
 
 ## 互动路径与机制
 
-> [!abstract]
+> [![[Abstract]]]
 > 已有研究识别出产学互动的多种路径，远超技术许可和衍生企业（Bonaccorsi & Piccaluga, 1994; Cohen et al., 2002; D'Este & Patel, 2007; Hughes & Kitson, 2012; Perkmann & Walsh, 2007; [[University Industry Demonstration Partnership|UIDP]], 2012）（Ulrichsen, 2025, p.44）：
 
 - **合同研究**（contract research）：企业委托大学开展特定研究项目
@@ -220,7 +220,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 
 ## 组织模式
 
-> [!abstract]
+> [![[Abstract]]]
 > Boccanfuso 和 Hall（2025，第三章）通过对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的网站分析和问卷调查，识别出大学产学参与中心办公室的五种常见组织模式（Boccanfuso & Hall, 2025, pp.60–62）：
 
 1. **科研办公室模式（Office of Research）**：由科研副校长办公室主管，聚焦[[Technology Transfer|技术转移]]、初创企业、企业赞助研究和经济发展——最常见于研究型大学（约 25%）
@@ -240,7 +240,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 
 ## 影响因素
 
-> [!abstract]
+> [![[Abstract]]]
 > Ulrichsen（2025, pp.48–49，改编自 Ulrichsen et al., 2023）综合多项研究，提出了产学互动的影响因素框架，涵盖五个系统层面：
 
 | 系统层面 | 关键影响因素 |

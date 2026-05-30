@@ -1,6 +1,7 @@
 ---
 title: Argument_Terhart_2011_JCS
-author: "Terhart, E"
+authors:
+  - "Terhart, E"
 summary: "VL 最早的学术书评之一，从元-元分析认识论困境、教学理论内容空洞、Foucault 式可见性政治三维度审查 Hattie，提出稳定性/变异性双重困境"
 type: argument
 subtype: journal-article
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Visible Learning]] — Terhart 接受 VL 综合的广度是空前的，但质疑其方法论严谨性和理论深度
 > - [[Evidence-Based Education|证据本位教育]]的认识论问题 — [[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]作为证据生产工具的根本局限
 

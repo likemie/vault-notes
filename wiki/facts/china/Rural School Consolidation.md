@@ -17,11 +17,11 @@ tags:
   - policy/school-consolidation
 related_concepts:
   - "[[School Choice]]"
-  - "[[Peidu]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Peidu]]"
 related_arguments: []
 sources:
   - "[[Teng_2025_CE]]"

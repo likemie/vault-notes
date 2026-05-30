@@ -1,6 +1,7 @@
 ---
 title: Argument_Rømer_2018
-author: "Rømer, T. A"
+authors:
+  - "Rømer, T. A"
 summary: "以教育哲学分析对 Hattie VL 提出五线批评：评价理论取代教育、因变量概念不清、激进建构主义消解教学、反馈集权化、误读 Popper 三个世界理论"
 type: argument
 subtype: journal-article

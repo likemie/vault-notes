@@ -1,6 +1,7 @@
 ---
 title: <% tp.file.title %>
-author: ""
+authors:
+  - ""
 summary: ""
 type: argument
 subtype: monograph

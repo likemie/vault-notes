@@ -1,6 +1,7 @@
 ---
 title: Argument_Hattie_2010_NZJES
-author: "Hattie, J"
+authors:
+  - "Hattie, J"
 summary: "Hattie 以第一人称反思教育学者作为“社会批评者与良知“的角色，系统回应 VL 出版后 NZ 媒体与学界的十类批评，记录 NZ National Standards 政策参与"
 type: argument
 subtype: journal-article
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 以新西兰《教育法》赋予学者的"[[Critic and Conscience of Society]]"法定角色为制度基础，以 Emerson (1837) 和 Said (1993) 的公共知识分子论述为思想资源。[[John Hattie|Hattie]] 的实践框架为三条自我约束原则：（1）仅在专业领域内发言；（2）基于自身阅读和对研究的解读；（3）始终以展示尊重和谨慎来提升专业（p.86）。
 
 ## 研究方法

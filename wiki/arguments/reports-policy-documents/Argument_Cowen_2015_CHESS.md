@@ -1,6 +1,7 @@
 ---
 title: Argument_Cowen_2015_CHESS
-author: "Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S"
+authors:
+  - "Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S"
 summary: "通过 22 位教师访谈和文献综述，揭示 EBP 从“什么有效“到“在这里有效“的知识鸿沟，提出“流动性而非忠实执行“的实施框架"
 type: argument
 subtype: report
@@ -43,7 +44,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Cartwright's Three-Stage Knowledge Framework]] — Cartwright & Munro (2010) 提出的 [[Randomised Controlled Trials|RCT]] 证据从"在某处有效"到"对我们有效"的三个知识阶段，构成本文分析的核心框架
 > - [[Tullock's Bureaucracy Theory]] — 未直接使用但作为 Cowen 后续研究（2019）的理论基础，本文的政经分析与之呼应
 

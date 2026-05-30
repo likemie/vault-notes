@@ -1,6 +1,7 @@
 ---
 title: Argument_Ball_2008_SR
-author: "Ball, S. J"
+authors:
+  - "Ball, S. J"
 summary: "以Bernstein、Foucault和Bourdieu为工具重写英国教育社会学史，说明教育社会学如何通过不同研究目光把家庭、学校知识和学校管理转化为治理对象"
 type: argument
 citation: "Ball, S. J. (2008). Some sociologies of education: A history of problems and places, and segments and gazes. The Sociological Review, 56(4), 650-669."
@@ -49,7 +50,7 @@ issuing_organization: ""
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - Bernstein 的[[Horizontal Knowledge Structure|横向知识结构]]：社会学由多个专门语言、问题意识和说话者构成，这些语言之间难以相互翻译，容易形成片段化能力和片段化读写能力。Ball 用这一框架解释教育社会学内部的分裂、范式争论和对新语言的追逐（Ball, 2008, p.651）。
 > - [[Governmentality]] 与 Foucault 式权力分析：教育社会学并非站在政策之外，而是通过构造家庭、学校和教师的可见性，为政策技术提供对象和条件。Ball 用治理、规训和人口管理的视角解释教育研究如何参与社会管理（Ball, 2008, pp.651, 653-655）。
 > - [[Pierre Bourdieu|Bourdieu]] 的[[Champ|场域]]视角：教育社会学被看作一个围绕声望、职位、出版、身份和意识形态承诺展开竞争的学术场域；谁能说话、谁被听见，本身就是[[Knowledge Production|知识生产]]的条件（Ball, 2008, p.652）。

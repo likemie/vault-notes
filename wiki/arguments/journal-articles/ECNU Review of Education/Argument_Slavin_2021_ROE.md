@@ -1,6 +1,7 @@
 ---
 title: Argument_Slavin_2021_ROE
-author: "Slavin, R. E., Cheung, A. C. K., & Zhuang, T"
+authors:
+  - "Slavin, R. E., Cheung, A. C. K., & Zhuang, T"
 summary: "首个中美英证据本位改革国际比较：记录中国教育实证研究的制度化发展（ECNU 论坛、华东师大宣言、BEiB），呈现中国学者五类内部质疑，以四项核心活动框架分析中国情境"
 type: argument
 subtype: journal-article
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 以 Slavin (2008, 2013, 2017, 2020) 持续发展的[[Evidence-Based Education|证据本位教育]]改革理论为基础，将[[Evidence-Based Reform|证据本位改革]]定义为四项核心活动：(1) 找出什么在每门学科和年级最有效；(2) 让教育者和政策制定者了解被证明有效的项目；(3) 提供资源和激励使[[School Leadership|学校领导]]能够实施被证明有效的项目；(4) 创建政策和系统以持续增加有效实践的知识（Slavin et al., 2021, p.9）。
 
 ## 研究方法

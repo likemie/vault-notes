@@ -1,6 +1,7 @@
 ---
 title: Argument_Parreira do Amaral_2022_Springer
-author: "Parreira do Amaral, M., & Thompson, C. (Eds.)"
+authors:
+  - "Parreira do Amaral, M., & Thompson, C. (Eds.)"
 summary: "论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制度与互动→主体形塑）逐层展开"
 type: argument
 subtype: edited-volume
@@ -22,7 +23,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Champ]]"
-  - "[[University Industry Innovation Network]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Global Universities Rankings]]"
   - "[[Further Education]]"
@@ -45,6 +45,7 @@ related_persons:
   - "[[Marcelo Parreira do Amaral]]"
 related_facts:
   - "[[Minerva University]]"
+  - "[[University Industry Innovation Network]]"
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
@@ -74,7 +75,7 @@ updated: '2026-05-18'
 
 ## 全书结构
 
-> [!abstract]
+> [![[Abstract]]]
 > 编者将 14 章组织为三部分，从宏观想象到制度互动再到主体性生产，逐层展开对[[Geopolitics of Knowledge|知识地缘政治]]的考察（Thompson & Parreira do Amaral, 2022, pp.12–13）：
 
 **Part I — Imaginaries, Spaces, Tensions（Ch 2–7）**

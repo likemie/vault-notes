@@ -1,6 +1,7 @@
 ---
 title: Argument_Keddie_2020_IJLE
-author: "Keddie, A., MacDonald, K., Blackmore, J., Wilkinson, J., Gobby, B., Niesche, R., Eacott, S., & Mahoney, C"
+authors:
+  - "Keddie, A., MacDonald, K., Blackmore, J., Wilkinson, J., Gobby, B., Niesche, R., Eacott, S., & Mahoney, C"
 summary: "以 Dolan 悖论框架分析 42 位澳大利亚教育利益相关者访谈，识别市场驱动的学校自主权改革的四大社会正义悖论"
 type: argument
 subtype: journal-article
@@ -39,7 +40,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - **Fraser (2009) 的再分配正义**（redistributive justice）：将社会正义界定为"对学生的人力和物质资源的更公平分配"（Keddie et al., 2020, IJLE, p.3, 5）
 > - **Dolan (2020) 的悖论分析**（paradox analysis）：将悖论理解为"由话语的构成性实践所形成，而非作为冲突或复杂性的表征"——目的是"问题化并使主导当代学校教育的话语变得脆弱，揭示塑造和影响[[School Autonomy|学校自主权]]的竞争性利益"（Keddie et al., 2020, IJLE, p.5-6）
 

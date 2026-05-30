@@ -1,6 +1,7 @@
 ---
 title: Argument_Wadhwa_2024_RER
-author: "Wadhwa, M., Zheng, J., & Cook, T. D"
+authors:
+  - "Wadhwa, M., Zheng, J., & Cook, T. D"
 summary: "比较 12 个教育证据清算中心的有效性标准与项目评级一致性，发现“evidence-based“在清算中心语境中构念效度有限"
 type: argument
 subtype: journal-article
@@ -63,7 +64,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Campbellian Validity Framework]] — 作者从 [[Campbell Collaboration|Campbell]] & Fiske (1959) 的 multitrait-multimethod 视角出发，把"evidence-based"当作教育科学实践中的构念效度问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为可靠性是构念效度的必要条件（Wadhwa et al., 2024, p.4）。
 > - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的假设作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）（Wadhwa et al., 2024, p.4）。
 
@@ -136,7 +137,7 @@ updated: '2026-05-18'
 > | ————— | —————————————————————————————————————————- | ————————————————————– | ————————————————————– | —————————————————————————————- |
 > | 评级对象            | 单项研究；按结果域评价教育干预                                                         | 单项研究；具名项目 | 项目，不单独评级研究                                                     | 项目，不单独评级研究                                                                               |
 > | 项目/干预总体评级       | Positive; potentially positive; mixed; potentially negative; negative; no discernible effects；证据量标注为 medium to large 或 small | Model plus; model; promising; non-certified（证据不足/不确定、无效或有害）    | Strong、moderate、limited、insufficient evidence of effectiveness | Well-supported; supported; promising; evidence fails to demonstrate effect; NR           |
-> | 单项研究评级          | Meets standards without reservations; meets standards with reservations; does not meet standards                             | Certified 或 not certified                                      | 未说明                                                            | 提供研究摘要，但不为单项研究评级                                                                         |
+> | 单项研究评级          | Meets standards without reservations; meets standards with reservations; does not meet standards                             | Certified 或 not certified                                      | 未说明                                                            | 提供[[Abstract\|研究摘要]]，但不为单项研究评级                                                                         |
 > | 最高研究质量/纳入规则     | 个体 RCT 低流失、cluster RCT 无偏倚风险、满足条件的 RDD；第二层级包括高流失 RCT 和满足基线等值等条件的 QED                                                         | 依据分配程序、流失、基线等值、统计方法、[[Intent-to-Treat Analysis\|ITT]]、结果性质、样本量、测量信效度评估                       | 未说明                                                            | 工作人员使用研究设计、控制/比较组性质、至少一个结果测量的信效度、所有干预组件是否一起分析等标准                                         |
 > | 最高项目评级所需研究数量与类型 | 至少两项研究，且至少一项为 "Meets WWC Evidence Standards Without Reservations"                                                            | 至少两项高质量 RCT，或一项高质量 RCT 加一项高质量 QED                              | 一项 RCT 或高质量 QED                                                | 至少两项非重叠样本的高质量 RCT                                                                        |
 > | 效果展示            | 指定结果上有正向效果                                                                                                                   | 指定结果上有正向效果                                                     | 指定结果上有正向效果                                                     | 指定结果上有正向效果                                                                               |

@@ -1,6 +1,7 @@
 ---
 title: Argument_Eacott_2017_SLM
-author: "Eacott, S"
+authors:
+  - "Eacott, S"
 summary: "以 Callahan 为历史框架，三步骤论证澳大利亚学校领导力已屈服于 Hattie 大师崇拜，定性 VL 为 Neo-Taylorism 并宣告其为“澳大利亚学校领导力的悲剧"
 type: argument
 subtype: journal-article
@@ -45,7 +46,7 @@ updated: 2026-05-18
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > - [[Pierre Bourdieu]] — 本体论共谋（ontological complicity）：学者对周围世界的嵌入具身性关系使其难以与现状决裂（Eacott, 2017, p.414, citing Bourdieu & Wacquant, 1992; Eacott, 2015）
 > - Callahan（1962）*Education and the Cult of Efficiency* — 历史类比：20 世纪上半叶美国公立教育被商业实践（尤其是 Taylor 的科学管理）渗透，Eacott 将其作为分析框架类比于当代澳大利亚的"[[John Hattie|Hattie]] [[Cult of the Guru|大师崇拜]]"（Eacott, 2017, p.413-414）
 > - 管理修辞（managerial rhetoric）理论：Abrahamson（1997）和 Hartley（2010）的修辞类型学——理性/控制修辞（rational/control rhetoric）在感知到绩效下降时主导，规范性/抱负性修辞在急剧衰退时主导（Eacott, 2017, p.415）

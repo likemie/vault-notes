@@ -1,6 +1,7 @@
 ---
 title: Argument_Partaken_2022_Springer
-author: "Partaken, J"
+authors:
+  - "Partaken, J"
 summary: "Ch5 James Partaken，区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性"
 type: argument
 subtype: book-chapter
@@ -63,7 +64,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [!abstract]
+> [![[Abstract]]]
 > 论文以两个分析步骤组织论证：[[Knowledge Production|知识生产]]与[[Knowledge Transfer|知识转移]]。第一部分依托后殖民研究文献（[[Frantz Fanon|Fanon]]、[[Chen Kuan-Hsing]]、Mignolo、Tharoor），梳理知识生产作为殖民工具的分析传统；第二部分提出知识转移的六种模态（强制转移、间谍、监视、审查、破坏、交换），以中美地缘政治紧张为核心案例。理论资源包括：
 > - [[Decolonial Geopolitics of Knowledge]] — 后殖民研究的 [[Geopolitics of Knowledge|GPK]] 分析传统，Partaken 批评其过度关注知识生产而忽视知识转移
 > - [[Jean-François Lyotard|Lyotard]] [[Narrative Knowledge|叙事知识]]／科学知识区分 — 作为分析叙事知识衰退的理论工具

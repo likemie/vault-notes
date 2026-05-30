@@ -10,7 +10,8 @@ tags:
   - region/canada
   - paradigm/interpretivist
   - educational-administration
-related_concepts: []
+related_concepts:
+  - "[[Definition of Terms]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods: []
@@ -39,7 +40,7 @@ updated: 2026-05-19
 >
 > > "all our knowledge of reality, natural and social, contains an irreducible subjective component"（引自 Eacott, 2015, p.316）
 >
-> 这一主张直接挑战了理论运动的基石——理论运动的核心假设是：通过"客观性、可靠性、操作性定义"（Griffiths, 1959）可以实现对教育行政的科学研究。
+> 这一主张直接挑战了理论运动的基石——理论运动的核心假设是：通过"客观性、可靠性、[[Definition of Terms|操作性定义]]"（Griffiths, 1959）可以实现对教育行政的科学研究。
 >
 > **"人性科学"的提出**
 >
@@ -62,7 +63,7 @@ updated: 2026-05-19
 
 ## 主要著作
 
-> [!abstract] 主要著作
+> [![[Abstract]]] 主要著作
 > - Greenfield, T. B., & Ribbins, P. (Eds.). (1993). *Greenfield on Educational Administration*. London: Routledge. — 系统呈现 Greenfield 对教育行政认识论的主观主义/[[Phenomenology|现象学]]取向
 
 ## 思想发展与影响
