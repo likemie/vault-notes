@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Tracking]]"
   - "[[Evidence-Based Education]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -78,7 +79,7 @@ updated: '2026-05-18'
 
 
 > [!warning] 对教育研究的适用
-> Goldman 的理论最初针对感知知识（perceptual knowledge），Wiliam 将其延伸至教育因果推断。这一延伸是否合法？感知知识的替代方案（纸糊谷仓 vs 真谷仓）与教育因果推断的替代方案（教师质量效应 vs [[Tracking|能力分组]]效应）在本体论上有显著差异。前者是二元的（真假），后者涉及多因素交互的复杂因果场。
+> Goldman 的理论最初针对感知知识（perceptual knowledge），Wiliam 将其延伸至教育[[Causality|因果推断]]。这一延伸是否合法？感知知识的替代方案（纸糊谷仓 vs 真谷仓）与教育因果推断的替代方案（教师质量效应 vs [[Tracking|能力分组]]效应）在本体论上有显著差异。前者是二元的（真假），后者涉及多因素交互的复杂因果场。
 
 
 > [!warning] 过于严格的标准？

@@ -13,7 +13,9 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
+  - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
+  - "[[Variable]]"
   - "[[Effective Teaching]]"
 related_theories: []
 related_methods:
@@ -74,7 +76,7 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究范式
-> - 认识论立场：实证主义——假设关于"什么有效"的知识可以通过标准化的科学程序（实验、测量、统计）获得并累积
+> - 认识论立场：实证主义——[[Hypothesis|假设]]关于"什么有效"的知识可以通过标准化的科学程序（实验、测量、统计）获得并累积
 > - 与[[Evidence-Based Education|证据本位教育]]（EBE）的关系：技术理性是 EBE 运动的深层理论内核——EBE 的医学类比和方法论偏好（[[Randomised Controlled Trials|RCT]]、[[Effect Size|效应量]]、系统综述）都源于技术理性对专业实践的理解
 
 ## 争议与批评
@@ -85,7 +87,7 @@ updated: '2026-05-18'
 
 > [!warning] 教育本体论的不兼容性
 > Nielsen & Klitmøller (2021, pp. 88-89) 论证技术理性在教育中产生系统性盲点：
-> - **消除意向性（Intentionality）**：学生和教师被原子化为变量，作为意义寻求者和解释者的主体性被消除（Nielsen & Klitmøller, 2021, p. 88）
+> - **消除意向性（Intentionality）**：学生和教师被原子化为[[Variable|变量]]，作为意义寻求者和解释者的主体性被消除（Nielsen & Klitmøller, 2021, p. 88）
 > - **学习目标不容讨论**：在技术理性框架下，学习目标被预设且不可讨论——"the learning objective sanctifies the means of teaching"（Nielsen & Klitmøller, 2021, pp. 88-89）
 > - **封闭系统**：技术理性在教育中创造了一个封闭系统，仅手段-目的问题被视为相关，其他类型的问题（如"我们为什么要学这个？"）被认为无关（Nielsen & Klitmøller, 2021, p. 89）
 > - **意识形态功能**："In many respects, [[John Hattie|Hattie]]'s theory of learning thus has 'the ideological function of making the technical approach to learning self-evident and dominant'"（Kvale, 1976, p. 106, cited in Nielsen & Klitmøller, 2021, p. 89）

@@ -21,6 +21,8 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
+  - "[[Hypothesis]]"
+  - "[[Variable]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods:
@@ -49,8 +51,8 @@ updated: '2026-05-18'
 
 > [!abstract] 理论框架
 > - 统计检验理论：用均值、标准差、t 检验、p 值和[[Confidence Interval|置信区间]]解释 d 的含义及其限制（Allerup, 2015, pp.42–46；参见 [[Effect Size#技术定义与计算方法]]、[[Statistical Significance]]）。
-> - 分布假设：以正态分布、偏态分布和 Cauchy 分布说明效应量解释依赖基础数据分布（Allerup, 2015, pp.45–49；参见 [[Effect Size#基本公式与构成逻辑]]）。
-> - 边际分析与多变量分析：用[[Covariate Adjustment|协变量控制]]说明单一边际 d 值会随统计模型改变（Allerup, 2015, pp.49–51；参见 [[Meta-meta-analysis#技术方法论缺陷]]）。
+> - 分布[[Hypothesis|假设]]：以正态分布、偏态分布和 Cauchy 分布说明效应量解释依赖基础数据分布（Allerup, 2015, pp.45–49；参见 [[Effect Size#基本公式与构成逻辑]]）。
+> - 边际分析与多[[Variable|变量]]分析：用[[Covariate Adjustment|协变量控制]]说明单一边际 d 值会随统计模型改变（Allerup, 2015, pp.49–51；参见 [[Meta-meta-analysis#技术方法论缺陷]]）。
 
 ## 研究方法
 
@@ -66,7 +68,7 @@ updated: '2026-05-18'
 > 2. **d 本身不是显著性统计量。** 若要进行常规显著性判断，需要把 d 乘以观测数平方根，形成 `t=d√n`，再按 t 分布判断；以 n=25 为例，t=2.060 对应 d≈0.412，因此 [[John Hattie|Hattie]] 的 0.40 阈值只是在特定样本量和检验设定下接近 p=0.05（Allerup, 2015, pp.45–46）。
 > 3. **d 的解释依赖强分布前提。** 若分布偏态，均值不再位于"中间"；若干预前后标准差不同，均值差不再表示简单平移；若基础分布类似 Cauchy 分布，均值和方差都不稳定，d 的计算基础会变得脆弱（Allerup, 2015, pp.45–49）。
 > 4. **Hattie 的排名未报告[[Confidence Interval|置信区间]]或标准误。** [[PISA]] 排名会用区间显示均值估计的误差范围，Hattie 的效应量排名只给点估计，读者无法判断相邻干预的 d 值差异是否显著；例如 [[Feedback]] d=0.71 与 teacher-student relationship d=0.72 的差别可能并不具有可解释意义（Allerup, 2015, pp.47–48）。这一点与 [[Meta-meta-analysis#6 项方法论要求]] 中"联合标准误和置信区间"的要求相互呼应。
-> 5. **边际效应量会被协变量改变。** 在 TIMSS 2011 丹麦四年级数学例子中，教师学科专业资格的未控制效应量约为 0.15；控制学生社会经济背景后，效应量降至 0.08 且不再显著（Allerup, 2015, pp.49–51）。因此，把单个 d 当作最终排序依据会遮蔽模型选择和第三变量影响；这也是 [[Visible Learning]] 排名表作为实践指南时的关键限制。
+> 5. **边际效应量会被协[[Variable|变量]]改变。** 在 TIMSS 2011 丹麦四年级数学例子中，教师学科专业资格的未控制效应量约为 0.15；控制学生社会经济背景后，效应量降至 0.08 且不再显著（Allerup, 2015, pp.49–51）。因此，把单个 d 当作最终排序依据会遮蔽模型选择和第三变量影响；这也是 [[Visible Learning]] 排名表作为实践指南时的关键限制。
 
 ## 主要发现
 
@@ -74,7 +76,7 @@ updated: '2026-05-18'
 > - [[John Hattie|Hattie]] 的 d=0.40 阈值在 n=25 的例子中对应 p≈0.05，但这种对应关系依赖样本量，不能作为脱离情境的固定教育阈值（Allerup, 2015, pp.45–46）。
 > - 若未报告[[Confidence Interval|置信区间]]、标准误或显著性检验，[[Effect Size|效应量]]排名只能呈现数值顺序，不能判断相邻项目是否真的不同（Allerup, 2015, pp.47–48）。
 > - 偏态分布、前后标准差不等、厚尾分布都会削弱效应量的直观解释（Allerup, 2015, pp.45–49）。
-> - 多变量控制可显著改变效应量，TIMSS 2011 例子中教师学科专业资格效应从 0.15 降至 0.08（Allerup, 2015, pp.49–51）。
+> - 多[[Variable|变量]]控制可显著改变效应量，TIMSS 2011 例子中教师学科专业资格效应从 0.15 降至 0.08（Allerup, 2015, pp.49–51）。
 
 ## 关键引用
 

@@ -15,6 +15,8 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[International Education]]"
+  - "[[Variable]]"
+  - "[[Hypothesis]]"
   - "[[New Public Management]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -35,14 +37,14 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 进入 2000 年代后，OECD 将[[School Leadership|学校领导力]]定位为教育政策的关键杠杆。此前 OECD 已通过 [[PISA]] 和 [[International Indicators of Education Systems|INES]]/[[Education at a Glance|EAG]] 建立了[[International Education|国际教育]]比较的数据基础设施，学校领导力被视为连接政策投入与学生产出的关键中介变量（Møller, 2017, p.376-377）。
+> 进入 2000 年代后，OECD 将[[School Leadership|学校领导力]]定位为教育政策的关键杠杆。此前 OECD 已通过 [[PISA]] 和 [[International Indicators of Education Systems|INES]]/[[Education at a Glance|EAG]] 建立了[[International Education|国际教育]]比较的数据基础设施，学校领导力被视为连接政策投入与学生产出的关键中介[[Variable|变量]]（Møller, 2017, p.376-377）。
 
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
 > 2006 年 OECD 启动"改进[[School Leadership|学校领导力]]"（Improving School Leadership, ISL）项目，18 个欧洲国家和 4 个非欧洲国家参与（Møller, 2017, p.376）。项目目标是为政策制定者提供信息，帮助他们制定和实施能够改进教学的政策。
 >
-> > 核心假设："成功的学校领导力是大规模教育改革和改善教育结果的关键"（Møller, 2017, p.376）
+> > 核心[[Hypothesis|假设]]："成功的学校领导力是大规模教育改革和改善教育结果的关键"（Møller, 2017, p.376）
 >
 > 项目产出包括两卷报告：
 > - Vol. 1: *Policy and Practice*（Pont, Nusche & Moorman, 2008b）

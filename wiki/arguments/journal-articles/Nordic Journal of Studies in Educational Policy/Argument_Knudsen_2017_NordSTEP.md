@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Science and Technology Studies]]"
+  - "[[Hypothesis]]"
   - "[[Problem-Based Learning]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
@@ -66,7 +67,7 @@ updated: '2026-05-18'
 ## 论证结构
 
 > [!example] 论证结构
-> 论文以引言-访谈-参考文献的结构呈现。引言部分（Knudsen, 2017, p.253–254）阐述了四个研究问题的背景：丹麦 VL 实施现状、现有批评文献（Snook et al., 2009; Simpson, 2017; Biesta, 2010）、以及 Knudsen 自己的 [[Science and Technology Studies|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
+> 论文以引言-访谈-参考文献的结构呈现。引言部分（Knudsen, 2017, p.253–254）阐述了四个研究问题的背景：丹麦 VL 实施现状、现有批评文献（Snook et al., 2009; Simpson, 2017; Biesta, 2010）、以及 Knudsen 自己的 [[Science and Technology Studies|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本[[Hypothesis|假设]]；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
 >
 
 ## 主要发现
@@ -100,7 +101,7 @@ updated: '2026-05-18'
 > - 如果重新开始，Hattie 可能只使用"成功标准"（success criteria）概念（p.256）
 > - 成功标准显示"什么意味着成功"，建议以 10–12 周为一个周期；少于此时段则过于狭窄或过于频繁测试（p.256–257）
 >
-> ### 儿童与基本假设
+> ### 儿童与基本[[Hypothesis|假设]]
 >
 > - 认为 3–5 岁儿童可以有复杂的思维——"只是另一种复杂性"（p.257）
 > - 坚持幼儿可以反思自己的学习——"我更担心 10–12 岁的孩子被教得不会反思"（p.257）

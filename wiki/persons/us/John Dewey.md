@@ -20,6 +20,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Pragmatism in China]]"
   - "[[Academic Freedom]]"
+  - "[[Hypothesis]]"
   - "[[Classroom Management]]"
   - "[[Professional Judgment]]"
   - "[[Technical Rationality]]"
@@ -139,7 +140,7 @@ updated: 2026-05-26
 
 ### 经验、探究与知识
 
-杜威把经验理解为有机体与环境之间连续的交易过程，而不是主体对外部对象的被动接收。知识的价值不在于抵达脱离行动的绝对确定性，而在于通过实验和反思形成可公开检验、可修正的担保性判断。这也是杜威反对把证据理解为行动规则的原因：证据只能为具体情境中的明智问题解决提供假设（Dewey, quoted in [[John Hattie|Hattie]], 2008, p.147；见 Argument_Snook_2009_NZJES）。
+杜威把经验理解为有机体与环境之间连续的交易过程，而不是主体对外部对象的被动接收。知识的价值不在于抵达脱离行动的绝对确定性，而在于通过实验和反思形成可公开检验、可修正的担保性判断。这也是杜威反对把证据理解为行动规则的原因：证据只能为具体情境中的明智问题解决提供[[Hypothesis|假设]]（Dewey, quoted in [[John Hattie|Hattie]], 2008, p.147；见 Argument_Snook_2009_NZJES）。
 
 ---
 

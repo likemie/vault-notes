@@ -19,6 +19,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Evidence-Based Reform]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -103,7 +104,7 @@ updated: '2026-05-18'
 >
 > - **政策乐观主义**：Slavin 承认"这些政策发展尚未产生我预期的革命"——[[Comprehensive School Reform Program|CSR]] 资金大多流向了未经证实的项目，[[No Child Left Behind Act 2001|NCLB]] 等新倡议"太新以至于尚未对实践或资助产生影响"。全文建立在"可能"和"潜力"之上。
 > - **方法论的中庸立场**：Slavin 同时主张"尽可能使用随机化"和"匹配实验也有价值"，这一双轨立场在修辞上灵活但可能导致政策上的模糊性——何时匹配实验"足够好"缺乏明确标准。
-> - **渐进改进假设**：Slavin 认为不需要"突破"（breakthroughs），渐进式改进就足够——这一假设未经验证，且回避了教育效果普遍较小且难以持续积累的实证问题。
+> - **渐进改进[[Hypothesis|假设]]**：Slavin 认为不需要"突破"（breakthroughs），渐进式改进就足够——这一假设未经验证，且回避了教育效果普遍较小且难以持续积累的实证问题。
 > - **对民主维度的忽视**：论文完全从技术效率角度论证证据本位政策，未讨论谁决定"什么值得研究"以及证据如何与民主教育决策互动——这一问题后来被 Biesta (2007, 2010) 系统展开。
 
 ## 来源

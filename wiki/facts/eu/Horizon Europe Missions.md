@@ -18,7 +18,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Global Regionalisms in Higher Education]]"
+  - "[[Global Regionalisms]]"
   - "[[Regulatory Regionalism]]"
 related_theories: []
 related_methods: []
@@ -66,7 +66,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／理论
 > - [[Geopolitics of Knowledge]]
 > - [[Knowledge-Based Economization]]
-> - [[Global Regionalisms in Higher Education]]
+> - [[Global Regionalisms]]
 > - [[Regulatory Regionalism]]
 
 ## 来源

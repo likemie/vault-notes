@@ -13,6 +13,7 @@ tags:
 - paradigm/constructivist
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Variable]]"
   - "[[Classroom Management]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -56,7 +57,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 开放系统与封闭系统（Bhaskar, 1978, 1979）
-> - **封闭系统**：实验室实验通过人为控制稳定除两个变量之外的所有条件，创造封闭系统。[[Randomised Controlled Trials|RCT]] 试图在教育中模拟这种封闭（稳定其他变量以隔离单一"干预"的效果）。
+> - **封闭系统**：实验室实验通过人为控制稳定除两个[[Variable|变量]]之外的所有条件，创造封闭系统。[[Randomised Controlled Trials|RCT]] 试图在教育中模拟这种封闭（稳定其他变量以隔离单一"干预"的效果）。
 > - **开放系统**：大多数自然情境（天气、生态系统）和社会情境是开放系统——多重力量同时作用，可能相互矛盾或加强。教育是典型的开放系统，涉及人的意志、解释和互动。
 >
 > > "Closed system explanations are rarely adequate in the natural world, and certainly not in social situations. Multiple forces are at work which may contradict as well as reinforce each other, and it is rare that a single causal factor or force may explain much of what occurs." (Wrigley & McCusker, 2019, p. 113)

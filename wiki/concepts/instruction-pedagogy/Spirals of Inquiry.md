@@ -11,6 +11,7 @@ tags:
 - professional-development
 - evidence-informed-practice
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods:
@@ -29,7 +30,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 探究螺旋（Spirals of Inquiry）是由 Timperley, Halbert, & Kaser (2014) 开发的教师探究循环模型，已在多个情境中实施。该模型的核心主张是：教师通过参与系统性探究循环——扫描学生的教育体验→发展探究焦点→形成关于教师行动如何改变模式的假设→查阅已发表证据→采取行动→检查效果——将外部研究证据与本地证据生成过程整合（Peterson, 2016, p. 306）。
+> 探究螺旋（Spirals of Inquiry）是由 Timperley, Halbert, & Kaser (2014) 开发的教师探究循环模型，已在多个情境中实施。该模型的核心主张是：教师通过参与系统性探究循环——扫描学生的教育体验→发展探究焦点→形成关于教师行动如何改变模式的[[Hypothesis|假设]]→查阅已发表证据→采取行动→检查效果——将外部研究证据与本地证据生成过程整合（Peterson, 2016, p. 306）。
 >
 > > "This approach involves teachers engaging in cycles of scanning to understand how students are experiencing their education; developing a focus for their inquiry and a 'hunch' about which of their actions could change the patterns they are seeing; looking at published evidence to inform their practice; taking action; and finally checking to see if the action is having the desired effect." (Peterson, 2016, p. 306, summarizing Halbert & Kaser, 2014)
 
@@ -38,7 +39,7 @@ updated: '2026-05-18'
 > [!abstract] 六阶段循环
 > 1. **扫描（Scanning）**：理解学生如何体验他们的教育
 > 2. **聚焦（Focusing）**：发展一个探究焦点
-> 3. **直觉（Hunch）**：形成关于哪些教师行动可以改变观察到的模式的假设
+> 3. **直觉（Hunch）**：形成关于哪些教师行动可以改变观察到的模式的[[Hypothesis|假设]]
 > 4. **学习（Learning）**：查阅已发表证据来指导实践
 > 5. **采取行动（Taking Action）**：实施改变
 > 6. **检查（Checking）**：检查行动是否产生预期效果——可能通过调查学生，但核心过程涉及教师或管理者与学生进行个别或小组对话，使用先前使用者开发的问题（Peterson, 2016, p. 306）

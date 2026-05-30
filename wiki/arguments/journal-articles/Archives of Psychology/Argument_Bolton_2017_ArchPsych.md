@@ -23,6 +23,7 @@ related_concepts:
   - "[[Synaptogenesis]]"
   - "[[Synaptic Pruning]]"
   - "[[Myelination]]"
+  - "[[Causality]]"
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
   - "[[Neo-Piagetian Theories]]"
@@ -89,7 +90,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > - 论文自身承认的局限：大多数 [[Functional Magnetic Resonance Imaging|fMRI]] 和 PET 研究集中于 7 岁以上儿童，对年幼儿童的脑功能影像数据有限；便携式 [[Electroencephalography|EEG]] 的引入有望填补这一空白（Bolton & [[John Hattie|Hattie]], 2017, p.9）
 > - 论文为[[Literature Review|文献综述]]而非实证研究，论证基于已有研究的综合分析
-> - [[Prefrontal Cortex|PFC]] 功能定位的复杂性：不同区域的功能更多由接收的认知信息类型而非区域位置所中介，因果推断需谨慎（Bolton & Hattie, 2017, p.7–8）
+> - [[Prefrontal Cortex|PFC]] 功能定位的复杂性：不同区域的功能更多由接收的认知信息类型而非区域位置所中介，[[Causality|因果推断]]需谨慎（Bolton & Hattie, 2017, p.7–8）
 
 ## 来源
 

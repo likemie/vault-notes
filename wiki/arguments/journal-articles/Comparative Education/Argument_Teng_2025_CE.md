@@ -22,6 +22,7 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Cultural Capital]]"
   - "[[Class Size]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Mixed Method and Multi-method Research]]"
@@ -208,7 +209,7 @@ updated: 2026-05-26
 
 > [!warning]
 > - **样本地域局限**：研究仅基于湖北省一个县的数据，[[Peidu|陪读]]现象在不同地区的表现形式可能存在差异（Teng & Wang, 2025, p.301, 314）。
-> - **定量分析的因果方向**：虽然 Logistic 回归确认了家庭资本与[[School Choice|择校]]选择之间的关联，但横截面设计不能排除反向因果或遗漏变量——例如，选择陪读可能反过来改变了家庭的经济状况（pp.310–311）。
+> - **定量分析的因果方向**：虽然 Logistic 回归确认了家庭资本与[[School Choice|择校]]选择之间的关联，但横截面设计不能排除反向因果或遗漏[[Variable|变量]]——例如，选择陪读可能反过来改变了家庭的经济状况（pp.310–311）。
 > - **未涉及学生的学业成就**：研究聚焦于择校的社会分层机制及其对农村学校的影响，未检验陪读是否真正提升了随迁子女的学业表现（p.301）。
 
 ---

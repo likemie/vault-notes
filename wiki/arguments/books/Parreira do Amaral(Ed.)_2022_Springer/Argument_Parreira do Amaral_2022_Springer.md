@@ -28,7 +28,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Bildung]]"
   - "[[Classical Geopolitics]]"
-  - "[[Global Regionalisms in Higher Education]]"
+  - "[[Global Regionalisms]]"
   - "[[Regulatory Regionalism]]"
   - "[[Global Education Industry]]"
   - "[[Flow]]"
@@ -93,7 +93,7 @@ updated: '2026-05-18'
 > [!tip]
 > - [[Geopolitics of Knowledge]] — 全书核心分析透镜：从[[Classical Geopolitics|古典地缘政治]]（领土扩张、民族国家中心）转向新地缘政治（关系性空间构型、政治想象与全球连接性），整合后殖民／去殖民视角（Mignolo, 2002, 2009）
 - [[Knowledge-Based Economization]] — Moisio (2018) 的概念框架，关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践的话语建构
-- [[Global Regionalisms in Higher Education]] — Robertson et al. (2016) 的框架，分析高等教育如何被整合进世界各地区的区域整合项目（EU、ASEAN 等）
+- [[Global Regionalisms]] — Robertson et al. (2016) 的框架，分析高等教育如何被整合进世界各地区的区域整合项目（EU、ASEAN 等）
 - [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念，揭示超国家组织在高等教育区域化中的监管角色
 - [[Global Education Industry]] — Verger et al. (2016) 与 Parreira do Amaral et al. (2019) 的框架，涵盖经济化、商品化、私有化、数字化、市场化、标准化等全球教育变革维度
 
@@ -102,7 +102,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - [[Argument_Moisio_2022_Springer]] — Ch2 [[Sami Moisio]]: [[Knowledge-Based Economization|知识经济化]]在何种意义上具有地缘政治维度，以 Harvey、Porter 和 Hub and [[Flow]] 想象为分析资源
-> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 [[Marcelo Parreira do Amaral]]: 提出新[[Geopolitics of Knowledge|知识地缘政治]]概念，以[[Critical Geopolitics|批判地缘政治学]]和后殖民去殖民两脉络综合为框架，分析[[Global Regionalisms in Higher Education|全球区域主义]]和 [[Global Education Industry|GEI]] 两大转型语境，展示 IEHs 和 Minerva 作为地缘政治案例
+> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 [[Marcelo Parreira do Amaral]]: 提出新[[Geopolitics of Knowledge|知识地缘政治]]概念，以[[Critical Geopolitics|批判地缘政治学]]和后殖民去殖民两脉络综合为框架，分析[[Global Regionalisms|全球区域主义]]和 [[Global Education Industry|GEI]] 两大转型语境，展示 IEHs 和 Minerva 作为地缘政治案例
 > - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos: 以 Cowen 的 [[Transitology]] 和双轴模型为框架，对比[[Transhumanism|超人类主义]]与[[Posthumanism|后人类主义]]两种晚期现代性教育愿景，呼吁以 connectivity 和 [[Response-ability]] 为组织原则的新型公共教育理论
 > - [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken: 区分 GPK 两面（[[Knowledge Production|知识生产]] vs [[Knowledge Transfer|知识转移]]），提出知识转移六模态，以中美紧张关系为核心案例论证知识转移为 GPK 的真正核心
 

@@ -15,6 +15,7 @@ related_concepts:
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
   - "[[Otherhood]]"
+  - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Literature Review]]"
@@ -53,7 +54,7 @@ updated: 2026-05-20
 > - vs 硬治理（hard governance） — 硬治理依赖强制性和规制性工具（法律、制裁、军事力量），以国家为中心；知识治理依赖规范性、认知性工具（观念、知识、[[Cultural Models|文化模型]]），以多行动者网络为架构。二者的关系不是替代而是层叠——知识治理更多地在硬治理的框架之上运作，为其提供合法性和认知基础（Zapp, 2022, pp.145–146）
 > - vs [[Scientization of Politics|政策的科学化]]（Scientization of Politics） — 政策的科学化是知识治理兴起的关键前提：当政策制定者接受"决策应依据科学证据"时，大学和研究者获得进入治理核心的制度通道；知识治理描述的是这一通道打开后的整体治理架构及其运作机制（Zapp, 2022, pp.145–149）
 > - vs 证据本位政策（evidence-based policy） — 证据本位政策主要关注"政策制定是否依据科学证据"这一工具性问题，通常在国家政策层面讨论；知识治理是一个更广泛的生成性概念（generative concept），关注"知识如何在去中心化的全球治理架构中产生治理效应"——不仅包括证据被使用，更包括知识如何通过 [[Otherhood]] 机制建构治理的文化模型本身（Zapp, 2022, pp.145–149）
-> - vs 技术官僚（technocracy） — 技术官僚指"专家统治"，暗示科学知识替代民主决策；知识治理不假设科学家取代政治家，而是分析知识、规范和观念如何与权力、利益和制度相互作用，共同构成治理的认知基础设施（Zapp, 2022, pp.154–155）
+> - vs 技术官僚（technocracy） — 技术官僚指"专家统治"，暗示科学知识替代民主决策；知识治理不[[Hypothesis|假设]]科学家取代政治家，而是分析知识、规范和观念如何与权力、利益和制度相互作用，共同构成治理的认知基础设施（Zapp, 2022, pp.154–155）
 
 ---
 ## 概念演变

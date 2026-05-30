@@ -1,5 +1,5 @@
 ---
-title: Global Regionalisms in Higher Education
+title: Global Regionalisms
 aliases:
   - 高等教育中的全球区域主义
   - 全球区域主义

@@ -15,6 +15,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
   - "[[Academic Freedom]]"
+  - "[[Hypothesis]]"
   - "[[Further Education]]"
   - "[[Executive Education]]"
   - "[[Technology Transfer]]"
@@ -86,7 +87,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 2024 年诺贝尔奖提供了一个醒目的起点：物理学奖表彰了神经网络的基础研究，化学奖授予了预测蛋白质结构的 AlphaFold 软件。物理学奖得主 Geoffrey Hinton 曾在 Google 工作十年；化学奖得主 Dennis Hassabis 和 John Jumper 通过 Google DeepMind 开发了 AlphaFold。这些获奖成果的共同特征是：它们都产生于大学与产业之间的"界面"（interface）——即大学和产业为共同目标而协作的中间地带（pp.3–4）。
 
 > [!example]
-> 换句话说，如果 Hinton 从未进入 Google，或者 Hassabis 和 Jumper 不在 DeepMind 工作，这些获得诺贝尔奖的成果可能根本不会以同样的方式出现。这挑战了"基础研究只需要在大学里做"的传统假设。
+> 换句话说，如果 Hinton 从未进入 Google，或者 Hassabis 和 Jumper 不在 DeepMind 工作，这些获得诺贝尔奖的成果可能根本不会以同样的方式出现。这挑战了"基础研究只需要在大学里做"的传统[[Hypothesis|假设]]。
 
 ---
 

@@ -15,6 +15,9 @@ tags:
   - causal-inference
 related_concepts:
   - "[[Postpositivism]]"
+  - "[[Variable]]"
+  - "[[Causality]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -43,7 +46,7 @@ updated: 2026-05-30
 ## 研究程序
 
 > [!example]
-> - 从理论出发，推导出关于变量间因果关系的假设。
+> - 从理论出发，推导出关于[[Variable|变量]]间[[Causality|因果关系]]的[[Hypothesis|假设]]。
 > - 确定实验处理（自变量）和结果测量（因变量）。
 > - 将受试者随机分配到处理组和对照组（真实验），或使用已有群体（准实验）。
 > - 在实验处理前进行前测，处理后进行后测。
@@ -57,11 +60,11 @@ updated: 2026-05-30
 > - **真实验（True Experiment）** 受试者被随机分配到处理条件中，内部效度最高（[[Campbell Collaboration|Campbell]] & Stanley, 1963）。
 > - **准实验（Quasi-Experiment）** 使用非随机化分配，在无法随机化（如使用已有班级或学校）时使用。
 > - **[[Single-Subject Design|单受试者设计]]（Single-Subject Design）** 在时间维度上对单个个体或少数个体施加、撤销处理，观察行为变化（Cooper et al., 2007; Neuman & McCormick, 1995）。
-> - **因子设计（Factorial Design）** 同时操纵多个处理变量及其交互效应。
+> - **因子设计（Factorial Design）** 同时操纵多个处理[[Variable|变量]]及其交互效应。
 > - **重复测量设计（Repeated Measure Design）** 在不同时间点对同一组受试者重复测量，追踪处理效果的时间动态。
 > - **纵向数据收集** 在较长时间跨度内收集数据，考察思想和趋势的发展变化。
 > - [[Quasi-Experimental Designs]] — 更详细的准实验变体。
-> - [[Survey Research]] — 描述性和相关性设计，不涉及处理操纵，无法直接推断因果关系。
+> - [[Survey Research]] — 描述性和相关性设计，不涉及处理操纵，无法直接推断[[Causality|因果关系]]。
 
 ## 适用场景
 

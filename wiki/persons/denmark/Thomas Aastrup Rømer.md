@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Pure Evaluation]]"
+  - "[[Variable]]"
   - "[[Bildung]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
@@ -62,7 +63,7 @@ updated: '2026-05-19'
 > - Tanggaard, L., Rømer, T. A., & Brinkmann, S. (2014). *Uren Pædagogik 2* [Pure Education 2]. Aarhus: Klim. — 提出"纯粹教育"和"[[Pure Evaluation|纯粹评价]]"概念
 > - Rømer, T. A. (2014). The relationship between education and evidence. *Cursiv*, (14), 105–122. — 讨论教育与证据的关系
 > - Rømer, T. A. (2015). *Pædagogikkens to verdener* [The Two Worlds of Pedagogy]. Aalborg: Aalborg Universitetsforlag. — 探讨教育学的哲学连接
-> - Rømer, T. A. (2018). A critique of John Hattie's theory of [[Visible Learning]]. *Educational Philosophy and Theory*. — 对 VL 的五线哲学批判：[[Appraisal Theory|评价理论]]取代教育、因变量问题、[[Radical Constructivism|激进建构主义]]、反馈集权化、误读 Popper
+> - Rømer, T. A. (2018). A critique of John Hattie's theory of [[Visible Learning]]. *Educational Philosophy and Theory*. — 对 VL 的五线哲学批判：[[Appraisal Theory|评价理论]]取代教育、因[[Variable|变量]]问题、[[Radical Constructivism|激进建构主义]]、反馈集权化、误读 Popper
 
 ## 核心思想
 

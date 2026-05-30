@@ -12,7 +12,8 @@ tags:
   - "theme/innovation"
   - "theme/innovation-policy"
   - "level/higher-education"
-related_concepts: []
+related_concepts:
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Luhmann's Systems Theory]]"
@@ -57,7 +58,7 @@ updated: 2026-05-27
 
 > 核心逻辑：创新的信号来自市场需求——"市场上缺什么 → 研究者想办法解决"。技术推动被倒转：不是科学产生需求，而是需求牵引科学。
 
-> 第一代和第二代的共同盲区：两者都假设创新是线性单向的——只是箭头的起点不同。到了 1970 年代，这种单一方向的思维被广泛质疑。
+> 第一代和第二代的共同盲区：两者都[[Hypothesis|假设]]创新是线性单向的——只是箭头的起点不同。到了 1970 年代，这种单一方向的思维被广泛质疑。
 
 ### 第三代：耦合模型（Coupling Model，1970s–80s）
 

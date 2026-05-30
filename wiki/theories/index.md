@@ -89,5 +89,5 @@ Total entries: **52**
 - [[Culture as Toolkit]] — 把文化理解为提供行动策略、习惯和可调用资源工具箱的文化社会学理论，强调人们并非只按抽象价值观行动
 - [[Dual Elite Career Paths]] — 解释后社会主义社会精英流动如何沿政治管理路径与专业技术路径分化展开的理论，用于分析教育、身份与职业机会的不同连接方式
 - [[Dual-Process Model of Culture in Action]] — 解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存
-- [[Rational Action Theory in Education]] — 以相对风险规避解释不同阶层教育选择差异的教育分层理论，强调家庭背景如何通过成本、收益和风险判断影响升学决策
+- [[Rational Action Theory]] — 以相对风险规避解释不同阶层教育选择差异的教育分层理论，强调家庭背景如何通过成本、收益和风险判断影响升学决策
 - [[Refraction Framework]] — Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成

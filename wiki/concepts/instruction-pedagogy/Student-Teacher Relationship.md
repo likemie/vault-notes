@@ -11,6 +11,7 @@ tags:
 - level/k12
 - region/norway
 related_concepts:
+  - "[[Variable]]"
   - "[[Feedback]]"
   - "[[School Norm Adaptation]]"
 related_theories: []
@@ -42,7 +43,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - 在师生关系评分上，女生与男生差异不显著（d=-0.05, p=.166）。
-> - 在同一模型中，其解释力通常弱于规范适应与学习投入等教师评定行为变量（Lekhal_2015_Paideia）。
+> - 在同一模型中，其解释力通常弱于规范适应与学习投入等教师评定行为[[Variable|变量]]（Lekhal_2015_Paideia）。
 
 ## 待补充研究
 

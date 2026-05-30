@@ -17,10 +17,13 @@ tags:
 - methodology-critique
 - level/k12
 related_concepts:
+  - "[[Theoretical Standpoint]]"
   - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
+  - "[[Hypothesis]]"
   - "[[Class Size]]"
   - "[[Effect Size]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Radical Constructivism]]"
 related_methods:
@@ -39,7 +42,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> 论文试图回答两个核心问题：(a) [[John Hattie|Hattie]] 的实证工作是否如其所声称的那样坚实？(b) Hattie 是否只是一个"统计学家"（如他所自称），还是一个教育理论家——如果是，其隐含的理论立场是什么？
+> 论文试图回答两个核心问题：(a) [[John Hattie|Hattie]] 的实证工作是否如其所声称的那样坚实？(b) Hattie 是否只是一个"统计学家"（如他所自称），还是一个教育理论家——如果是，其隐含的[[Theoretical Standpoint|理论立场]]是什么？
 
 ## 理论框架
 
@@ -59,11 +62,11 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > 1. **前提／观察**：[[John Hattie|Hattie]] 自称"我是统计学家，不是理论家"（Knudsen, 2017），其追随者将 VL 呈现为"不可否认的事实"
 >
-> 2. **论证步骤一——Hattie 是教育理论家**：所有研究都基于理论假设（定义问题、选择方法、解释结果）。Hattie 未阐明其理论假设，制造了"结果从数据中无中介流出"的假象。其隐含理论是[[Technical Rationality|技术理性]] + 行为主义（通过 Glaser）
+> 2. **论证步骤一——Hattie 是教育理论家**：所有研究都基于理论[[Hypothesis|假设]]（定义问题、选择方法、解释结果）。Hattie 未阐明其理论假设，制造了"结果从数据中无中介流出"的假象。其隐含理论是[[Technical Rationality|技术理性]] + 行为主义（通过 Glaser）
 >
 > 3. **论证步骤二——实证问题**：
 >    - **单一因果因素**：Hattie 追求离散因果因素（如[[Class Size|班级规模]]、作业、反馈）的[[Effect Size|效应量]]，但教育实践是相互关联的开放系统。以班级规模为例：Berger (1982) 论证班级规模本身不能作为有意义的分析单元——需结合学生能力、社会背景、教师能力等
->    - **消除调节因素**：Hattie 有意排除社会经济地位（SES）作为调节变量，仅将其作为独立因素计算 d=0.57。但 OECD (2005) 确认 SES 是学生学习变异的最重要来源（Snook et al., 2009）。这导致"阶级盲"的教学思维
+>    - **消除调节因素**：Hattie 有意排除社会经济地位（SES）作为调节[[Variable|变量]]，仅将其作为独立因素计算 d=0.57。但 OECD (2005) 确认 SES 是学生学习变异的最重要来源（Snook et al., 2009）。这导致"阶级盲"的教学思维
 >    - **d=0.40 截断值**：截断值是叙事工具而非科学标准。阿司匹林预防心脏病 d=0.07，但每 1000 人拯救 34 人（Snook et al., 2009）
 >    - **效应量隐藏重要维度**：以作业为例，总体 d=0.29 掩盖了小学 d=0.15、高中 d=0.64 的巨大差异
 >
@@ -103,7 +106,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - 论文主要聚焦于 [[John Hattie|Hattie]] (2009) 的原始著作，后续扩展（Hattie, 2012; Hattie & Yates, 2014）可能对某些问题有所回应
-> - 论文未对其自身的理论立场（Habermas 批判理论）进行同样程度的自我审查（虽然作者在别处发表过相关论述）
+> - 论文未对其自身的[[Theoretical Standpoint|理论立场]]（Habermas 批判理论）进行同样程度的自我审查（虽然作者在别处发表过相关论述）
 > - 反馈[[Meta-analysis|元分析]]的"细读"审查仅覆盖最重的 5 项（而非全部 23 项），但覆盖了 92% 的样本
 
 ## 来源

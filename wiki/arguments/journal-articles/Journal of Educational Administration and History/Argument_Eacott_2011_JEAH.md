@@ -20,6 +20,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Doxa]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -99,7 +100,7 @@ Eacott 提出（Eacott, 2011, p.56-58）：
 
 - 领导力培养不应是关于"唯一正确方法"，也不应恐惧"知识主张的争辩"
 - 基于争辩的项目挑战市场意识形态的同质化效应——"寻求的不是服从而是引领"
-- 需要理解"集体无意识的工作假设、多元社会力量对工作的赋值、以及权力关系"——这要求**批判性反思性**（critical reflexivity）
+- 需要理解"集体无意识的工作[[Hypothesis|假设]]、多元社会力量对工作的赋值、以及权力关系"——这要求**批判性反思性**（critical reflexivity）
 - English 的理想："最活跃的教育领导力培养项目应以内部矛盾、二律背反、循环性和争辩性交叉点为特征"（English, 2006, p.466，引自 Eacott, 2011, p.57）
 - 技术技能仍然需要但应被"去中心化"，视为"对更关键的'教育'领导力事业的附属"（Lumby & English, 2009, p.112，引自 Eacott, 2011, p.58）
 

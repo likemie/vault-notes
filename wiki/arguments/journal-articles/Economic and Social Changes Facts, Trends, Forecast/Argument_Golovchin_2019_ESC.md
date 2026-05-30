@@ -20,7 +20,9 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Causality]]"
   - "[[Publication Bias]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Societies of Control]]"
 related_methods:
@@ -80,7 +82,7 @@ updated: '2026-05-18'
 >
 > 论文汇编了 10+ 位学者的批评（Table 2, p.236），分为方法论和文化两个维度：
 >
-> **方法论批评**：元分析数据过时（Lupton, Terhart）；效应量平均化不当（Brown, Kamenetz）；异构研究"苹果与橘子"式比较（Snook et al., Jones）；效应量非因果性（Snook et al.）；d=0.40 阈值任意（Snook et al.）；定性研究被忽略（Terhart, Snook et al.）；未[[Societies of Control|控制社会]]环境因素（Snook et al., Terhart）；缺乏效度评估（Snook et al.）；低于 0.40 的效应量不应被忽略（Slavin）；数据来自英语国家不可全球推广（Snook et al.）
+> **方法论批评**：元分析数据过时（Lupton, Terhart）；效应量平均化不当（Brown, Kamenetz）；异构研究"苹果与橘子"式比较（Snook et al., Jones）；效应量非[[Causality|因果性]]（Snook et al.）；d=0.40 阈值任意（Snook et al.）；定性研究被忽略（Terhart, Snook et al.）；未[[Societies of Control|控制社会]]环境因素（Snook et al., Terhart）；缺乏效度评估（Snook et al.）；低于 0.40 的效应量不应被忽略（Slavin）；数据来自英语国家不可全球推广（Snook et al.）
 >
 > Myburgh 等识别了元-元分析的六项"慢性问题"：垃圾进垃圾出、[[Publication Bias|发表偏倚]]、苹果与橘子比较、效应量误用、经验偏见（只使用经验可得的指标）、应用局限（忽视社会互动因素）（Golovchin, 2019, p.237）
 >
@@ -95,7 +97,7 @@ updated: '2026-05-18'
 > - 按影响源分解：家庭 38.57%、学校 65.97%、学生 71.24%、教师 51.01%、教学方法 50.65%、课程 41.95%
 > - **所有影响源均超过 33% 同质性阈值**（Golovchin, 2019, p.238-239）
 >
-> > 结论：Hattie 的数据集极端不均匀（extremely uneven），"在这样一个不稳定的模型中确定任何效应的强度，很可能不会导致客观结论的形成"。批评者关于元分析过程中缺乏数据控制的假设得到统计确认（Golovchin, 2019, p.239）。
+> > 结论：Hattie 的数据集极端不均匀（extremely uneven），"在这样一个不稳定的模型中确定任何效应的强度，很可能不会导致客观结论的形成"。批评者关于元分析过程中缺乏数据控制的[[Hypothesis|假设]]得到统计确认（Golovchin, 2019, p.239）。
 >
 > ### 第四步：俄罗斯适用性评估
 >

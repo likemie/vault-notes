@@ -19,6 +19,7 @@ related_concepts:
   - "[[Confucian Heritage Cultures]]"
   - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
+  - "[[Hypothesis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Constructive Alignment]]"
@@ -104,7 +105,7 @@ updated: '2026-05-23'
 > [!success]
 > Ference Marton、Gloria Dall'Alba 和 Lai Kun Tse 直接针对中国学习者最被诟病的"[[Rote Learning|死记硬背]]"（rote learning）进行了研究。结果发现：中国学习者的背诵**不是目的本身**（not an end in itself），而是作为达成深层理解的更大策略的**第一步**（Li, 2012, pp.80-81）。
 
-这一发现挑战了表层/深层二分法的一个隐含假设：记忆 = 表层，理解 = 深层，两者是互斥的。在[[Chinese Learner|中国学习者]]的实践中，记忆和理解不是对立的——记忆是**通往理解的路径**。
+这一发现挑战了表层/深层二分法的一个隐含[[Hypothesis|假设]]：记忆 = 表层，理解 = 深层，两者是互斥的。在[[Chinese Learner|中国学习者]]的实践中，记忆和理解不是对立的——记忆是**通往理解的路径**。
 
 ### Dahlin & Watkins（2000）：两种不同的"理解"概念
 

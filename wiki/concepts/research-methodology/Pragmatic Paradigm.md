@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Postpositivism]]"
+  - "[[Hypothesis]]"
   - "[[Constructivist Paradigm]]"
 related_theories: []
 related_methods:
@@ -44,7 +45,7 @@ updated: 2026-05-30
 
 > [!abstract]
 > 基于 Cherryholmes (1992)、Morgan (2007) 以及 Creswell & Creswell 的总结，实用主义为研究提供了以下哲学基础。
-> - **不执著于单一体系** 实用主义不承诺任何单一的哲学和现实体系，[[Mixed Method and Multi-method Research|混合方法研究]]者可以自由地从量化和质性假设中汲取资源。
+> - **不执著于单一体系** 实用主义不承诺任何单一的哲学和现实体系，[[Mixed Method and Multi-method Research|混合方法研究]]者可以自由地从量化和质性[[Hypothesis|假设]]中汲取资源。
 > - **选择自由** 研究者有自由选择最能满足其需求和目的的方法、技术和研究程序。
 > - **非绝对统一观** 实用主义者不将世界视为一个绝对统一体，混合方法研究者寻求多种数据收集和分析方法，不限于某一种。
 > - **真理是当下有效的** 真理不建立在心灵之外的现实与心灵之内的现实之间的二元对立上。混合方法研究者同时使用量化和质性数据，因为它们能够提供对研究问题的最佳理解。
@@ -54,7 +55,7 @@ updated: 2026-05-30
 ## 理论基础
 
 > [!tip]
-> 实用主义作为[[Mixed Method and Multi-method Research|混合方法研究]]的哲学基础，由 Morgan (2007)、Patton (1990) 和 Tashakkori & Teddlie (2010) 等重要学者推动。实用主义为混合方法研究打开了多元方法、不同世界观、多种假设和多种数据收集与分析形式的大门。
+> 实用主义作为[[Mixed Method and Multi-method Research|混合方法研究]]的哲学基础，由 Morgan (2007)、Patton (1990) 和 Tashakkori & Teddlie (2010) 等重要学者推动。实用主义为混合方法研究打开了多元方法、不同世界观、多种[[Hypothesis|假设]]和多种数据收集与分析形式的大门。
 
 ## 概念辨析
 

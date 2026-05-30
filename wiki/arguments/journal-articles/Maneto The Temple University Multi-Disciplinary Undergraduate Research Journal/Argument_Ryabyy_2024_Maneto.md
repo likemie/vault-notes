@@ -18,6 +18,7 @@ tags:
   - theme/history-of-education
 related_concepts:
   - "[[Progressive Education]]"
+  - "[[Hypothesis]]"
   - "[[Cultural Diplomacy]]"
   - "[[Knowledge Exchange]]"
 related_theories: []
@@ -241,7 +242,7 @@ updated: 2026-05-26
 > > [!quote]
 > > "Coffman……确信苏联未来的政治结构——在很长的时期内——将被这场大规模扫盲运动所塑造。随着现任领导人老去、教育努力生效，政治演变将不可避免……虽然几乎无政府的合作国家在俄国被视为理想目标，但 Coffman 认为最终的演变更可能是共和制。"（p.109）
 >
-> 这个预测的逻辑结构是：**教育普及 → 人民开化 → 政治自由化 → 最终走向共和制**。这个逻辑不是从苏联的现实条件推导出来的——它是从美国自身的政治经验中投射出来的。美国观察者看到苏联在大力办教育，就假设教育的终点一定是美国式的民主共和。这种预测在同时期的 [[Sherwood Eddy]] 1931 年的 The Challenge of Russia 中也有类似表述（p.107）。
+> 这个预测的逻辑结构是：**教育普及 → 人民开化 → 政治自由化 → 最终走向共和制**。这个逻辑不是从苏联的现实条件推导出来的——它是从美国自身的政治经验中投射出来的。美国观察者看到苏联在大力办教育，就[[Hypothesis|假设]]教育的终点一定是美国式的民主共和。这种预测在同时期的 [[Sherwood Eddy]] 1931 年的 The Challenge of Russia 中也有类似表述（p.107）。
 >
 > Dewey 本人也做出了类似的观察——在 Impressions of the Revolutionary World 中他写道："虽然在一些商店……可以看到相当长的队伍，但没有明显的苦难迹象；人民营养良好；剧院、餐馆、公园和娱乐场所人满为患——而且价格不便宜"（p.109）。
 >

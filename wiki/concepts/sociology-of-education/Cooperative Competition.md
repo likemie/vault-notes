@@ -12,6 +12,7 @@ tags:
   - field/comparative-education
   - region/east-asia
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Zero-Sum Competition]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Learning Virtues]]"
@@ -37,7 +38,7 @@ updated: 2026-05-25
 > [!info]
 > Cooperative Competition 是匈牙利心理学家 Marta Fulop 通过日本、匈牙利、美国三国中学生比较研究提出的概念。它描述一种特殊的竞争文化：在竞争中，对手同时也是朋友，竞争的目的不是击败对方，而是互相激励、共同进步，最终使所有参与者都成为赢家（Li, 2012, p.195–196, 210–212）。
 
-这一概念挑战了西方社会科学中长期存在的竞争与合作二元对立的假设——即竞争性高的文化必然合作性低。日本同时具有高竞争性与高合作性，证明竞争与合作可以共存，而非互斥（Li, 2012, p.210–211）。
+这一概念挑战了西方社会科学中长期存在的竞争与合作二元对立的[[Hypothesis|假设]]——即竞争性高的文化必然合作性低。日本同时具有高竞争性与高合作性，证明竞争与合作可以共存，而非互斥（Li, 2012, p.210–211）。
 
 ## 核心要素
 
@@ -67,7 +68,7 @@ updated: 2026-05-25
 ## 概念辨析
 
 > [!example]
-> - vs [[Zero-Sum Competition]] (School) — 零和竞争假设资源有限、赢家以输家为代价；Cooperative Competition 假设通过互助与激励，人人都可提高
+> - vs [[Zero-Sum Competition]] (School) — 零和竞争[[Hypothesis|假设]]资源有限、赢家以输家为代价；Cooperative Competition 假设通过互助与激励，人人都可提高
 > - vs [[Peer-Supported Learning|Peer-Supported Learning]] — Peer-Supported Learning 侧重制度化的互助安排，Cooperative Competition 侧重竞争的主观体验与文化建构
 
 ## 来源

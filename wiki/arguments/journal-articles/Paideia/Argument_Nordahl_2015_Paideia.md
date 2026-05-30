@@ -20,6 +20,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
+  - "[[Hypothesis]]"
   - "[[Learning Gap]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
@@ -79,7 +80,7 @@ updated: '2026-05-21'
 >
 > 这一层推出的中间结论是：**学校改进不是“想不想改”的问题，而是“必须找到更有效改法”的问题。**
 >
-> ### 第二层：既然必须改，就不能再假设“所有教学都差不多”
+> ### 第二层：既然必须改，就不能再[[Hypothesis|假设]]“所有教学都差不多”
 >
 > 这一步把论证从“为什么要改”推进到“改的依据是什么”。
 >

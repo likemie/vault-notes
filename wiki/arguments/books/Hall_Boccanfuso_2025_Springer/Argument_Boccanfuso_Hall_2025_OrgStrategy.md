@@ -13,6 +13,7 @@ tags:
   - "method/website-analysis"
   - "method/survey"
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Transfer]]"
   - "[[Entrepreneurial University]]"
@@ -55,7 +56,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 研究问题
 
 > [!question]
-> 假设你是一所大学的校长，你想让学校和产业界建立更紧密的合作关系。你面临的第一批问题不是"合作什么内容"——那是教授们会考虑的——而是"谁来管这件事"、"放在哪个部门下面"、"这个办公室应该管什么、不该管什么"。已有的[[University-Industry Collaboration|产学合作]]研究大量讨论了[[Knowledge Transfer|知识转移]]的机制、合作的激励因素和成功的障碍，但几乎没有研究系统回答过这些组织层面的问题：大学在实践中究竟如何组织它们的产学参与（UI engagement）？存在哪些共同的组织模式？这些模式在多大程度上是全面的？大学和企业双方各自重视哪些策略和特征？
+> [[Hypothesis|假设]]你是一所大学的校长，你想让学校和产业界建立更紧密的合作关系。你面临的第一批问题不是"合作什么内容"——那是教授们会考虑的——而是"谁来管这件事"、"放在哪个部门下面"、"这个办公室应该管什么、不该管什么"。已有的[[University-Industry Collaboration|产学合作]]研究大量讨论了[[Knowledge Transfer|知识转移]]的机制、合作的激励因素和成功的障碍，但几乎没有研究系统回答过这些组织层面的问题：大学在实践中究竟如何组织它们的产学参与（UI engagement）？存在哪些共同的组织模式？这些模式在多大程度上是全面的？大学和企业双方各自重视哪些策略和特征？
 
 通过"框架建构 → 网站分析 → 问卷调查"三步设计，同时回答"应该怎么组织"（框架）和"实际上怎么组织"（实证）两个层面的问题。
 
@@ -178,7 +179,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 用这个框架去审视 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的网站后，五种常见的中心办公室组织模式浮现出来（Fig. 3.1, pp.60–62）：
 
-1. **科研办公室模式（Office of Research，16 所，约 25%）**：由科研副校长（Vice President of Research）主管，聚焦技术转移、初创企业、企业赞助研究——这是最传统的模式，暗含的假设是"产学合作 = 研究合作"
+1. **科研办公室模式（Office of Research，16 所，约 25%）**：由科研副校长（Vice President of Research）主管，聚焦技术转移、初创企业、企业赞助研究——这是最传统的模式，暗含的[[Hypothesis|假设]]是"产学合作 = 研究合作"
 2. **经济发展/政府关系模式（Economic Development/Government Relations，2 所）**：聚焦[[Innovation Hub|创新中心]]、商业园区、小企业支持、地方/州政府伙伴关系——多见于公立大学，与州政府对大学推动地方经济的期望高度相关
 3. **企业/基金会关系模式（Corporate/Foundation Relations，11 所，约 17%）**：设在大学发展/筹资部门（advancement office），暗含的假设是"企业 = 捐赠者 + 合作伙伴"
 4. **伙伴关系模式（Partnerships, 17 所，约 26%）**：管理与企业、政府实验室、独立研究机构的战略伙伴关系——比企业/基金会模式更广泛，但通常只聚焦经济发展和商业化
@@ -330,7 +331,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 - 网站分析基于大学公开呈现的内容，可能与实际组织结构存在偏差——网站可能夸大中心办公室的覆盖范围（为了对外展示"一站式服务"的形象），也可能未反映某些非正式但有效的内部协调机制（p.56）
 - 样本以 [[University Industry Demonstration Partnership|UIDP]] 成员大学为主、以美国大型研究型大学为主，结论对小型文理学院、教学型大学和非美国背景的适用性有限（p.56）
 - 企业调查回复率极低（7%），可能存在严重的自选偏差——对大学合作特别积极（或特别不满）的企业更可能回复（p.64）
-- 框架的有效性虽经过八位专家和六所机构的反馈验证，但尚未经过大规模实证检验——本质上属于假说生成（hypothesis generation）而非假说检验（pp.55–56）
+- 框架的有效性虽经过八位专家和六所机构的反馈验证，但尚未经过大规模实证检验——本质上属于假说生成（[[Hypothesis]] generation）而非假说检验（pp.55–56）
 
 ---
 

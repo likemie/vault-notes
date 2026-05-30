@@ -14,8 +14,10 @@ tags:
 - evidence-based-education
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Causality]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[5-3-20 Rule]]"
+  - "[[Variable]]"
   - "[[Definition of Terms]]"
   - "[[Theories of Policy Change]]"
 related_theories:
@@ -53,7 +55,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> [[21st Century Skills and Competencies Discourse|SCD]] 共享 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生因果证据的多种设计类型。SCD 的因果推断逻辑与组间实验设计（[[Randomised Controlled Trials|RCT]]、准实验）一致：通过控制对内部效度的常见威胁（成熟、历史、回归均值、处理扩散、工具化等），使替代解释变得不可信（Hitchcock et al., 2015, p.462）。
+> [[21st Century Skills and Competencies Discourse|SCD]] 共享 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生因果证据的多种设计类型。SCD 的[[Causality|因果推断]]逻辑与组间实验设计（[[Randomised Controlled Trials|RCT]]、准实验）一致：通过控制对内部效度的常见威胁（成熟、历史、回归均值、处理扩散、工具化等），使替代解释变得不可信（Hitchcock et al., 2015, p.462）。
 >
 > > 例：在一个 ABAB 设计中，通过交替引入和撤除干预，研究者可以排除成熟效应（随时间自然改善）和历史效应（外部事件）作为行为变化的替代解释。
 >
@@ -83,7 +85,7 @@ Hitchcock et al. (2015, p.466) 列举了 [[What Works Clearinghouse|WWC]] 审查
 
 
 > [!example] 1. 初步筛选（Screening）
-> 对照审查协议确定研究是否有资格纳入审查：干预是否符合条件、因变量和参与者特征是否符合协议参数、研究是否在指定场所进行（Hitchcock et al., 2015, pp.464–465）。
+> 对照审查协议确定研究是否有资格纳入审查：干预是否符合条件、因[[Variable|变量]]和参与者特征是否符合协议参数、研究是否在指定场所进行（Hitchcock et al., 2015, pp.464–465）。
 >
 > > 例：一个审查协议可能规定干预必须在 K-12 学校环境中实施，在普通教室中可以接受，但在高度专业化人员配置的住宿项目中可能不相关（p.465）。
 
@@ -123,7 +125,7 @@ Hitchcock et al. (2015, p.466) 列举了 [[What Works Clearinghouse|WWC]] 审查
 ## 内部效度与外部效度的关系
 
 
-Hitchcock et al. (2015, p.462) 援引 Shadish et al. (2002) 的论证：内部效度是实验设计的"必要条件"（sin qua non）——如果无法证明干预与结果之间存在因果关系，就没有多大必要仔细考虑外部效度（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 [[21st Century Skills and Competencies Discourse|SCD]] 审查中采用**门控程序（[[Gating Procedure]]）**：只有通过内部效度门槛的研究才进入后续的推广性评估（详见 [[Gating Procedure]]）。
+Hitchcock et al. (2015, p.462) 援引 Shadish et al. (2002) 的论证：内部效度是实验设计的"必要条件"（sin qua non）——如果无法证明干预与结果之间存在[[Causality|因果关系]]，就没有多大必要仔细考虑外部效度（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 [[21st Century Skills and Competencies Discourse|SCD]] 审查中采用**门控程序（[[Gating Procedure]]）**：只有通过内部效度门槛的研究才进入后续的推广性评估（详见 [[Gating Procedure]]）。
 
 > 例：如果一项 ABAB 设计的基线阶段数据点不足或测量信度存疑，则该研究将被判定为未达到设计标准，不会进入推广性描述阶段。
 

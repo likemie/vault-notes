@@ -17,6 +17,8 @@ tags:
 - methodology
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Hypothesis]]"
+  - "[[Causality]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[School Leadership]]"
   - "[[Effect Size]]"
@@ -66,7 +68,7 @@ updated: '2026-05-18'
 
 > [!abstract] 理论框架
 > - [[Campbellian Validity Framework]] — 作者从 [[Campbell Collaboration|Campbell]] & Fiske (1959) 的 multitrait-multimethod 视角出发，把"evidence-based"当作教育科学实践中的构念效度问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为可靠性是构念效度的必要条件（Wadhwa et al., 2024, p.4）。
-> - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的假设作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）（Wadhwa et al., 2024, p.4）。
+> - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的[[Hypothesis|假设]]作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）（Wadhwa et al., 2024, p.4）。
 
 ## 研究方法
 
@@ -110,7 +112,7 @@ updated: '2026-05-18'
 >
 > ### Table 3：研究设计标准描述程度
 >
-> 编码含义：0 = 标准不提该设计；1 = 只简要提及、无实施标准；2 = 描述设计但无设计专属实施标准；3 = 提供设计专属因果推断与实施质量标准（Wadhwa et al., 2024, pp.9–10, 29）。
+> 编码含义：0 = 标准不提该设计；1 = 只简要提及、无实施标准；2 = 描述设计但无设计专属实施标准；3 = 提供设计专属[[Causality|因果推断]]与实施质量标准（Wadhwa et al., 2024, pp.9–10, 29）。
 >
 > | 清算中心 | [[Randomised Controlled Trials\|RCT]] | 一般 [[Quasi-Experimental Designs\|QED]] | RDD | ITS |
 > |---|---:|---:|---:|---:|
@@ -217,7 +219,7 @@ updated: '2026-05-18'
 > 2. 但这些清算中心在机构任务、目标人群、资金结构、评价对象、项目纳入标准、研究纳入标准和因果设计标准上高度异质；虽然全部偏好 [[Randomised Controlled Trials|RCT]]，却对 RCT 实施质量、[[Quasi-Experimental Designs|QED]] 权重、RDD/ITS 地位、[[Intent-to-Treat Analysis|意向治疗分析]]、流失标准、基线等值检验等细节处理不同（Wadhwa et al., 2024, pp.6–12）。
 > 3. 更关键的是，清算中心对"什么足以构成高等级项目证据"没有共识：有的接受单项统计显著研究，有的要求特定[[Effect Size|效应量]]、独立复制、跨地点复制或 6–12 个月以上的持续效果（Wadhwa et al., 2024, pp.11–15）。
 > 4. 这种标准差异导致同一项目的推荐结论往往不一致。1,359 个项目中 83.2% 只被一个清算中心评级，只有 17% 有多重评级可供比较；在多重评级项目中，评级一致性有限，而且最容易达成一致的是"不推荐"，最难一致的是"推荐/最高等级"（Wadhwa et al., 2024, pp.18–19）。
-> 5. 因此，清算中心语境中的"evidence-based"更像一个政策愿望，而不是已经可靠实现的研究实践；它具有有限的实践构念效度，使用者应将单一清算中心评级视为带有特定标准假设的判断，而不是中立认证（Wadhwa et al., 2024, pp.3, 26–27）。
+> 5. 因此，清算中心语境中的"evidence-based"更像一个政策愿望，而不是已经可靠实现的研究实践；它具有有限的实践构念效度，使用者应将单一清算中心评级视为带有特定标准[[Hypothesis|假设]]的判断，而不是中立认证（Wadhwa et al., 2024, pp.3, 26–27）。
 
 ## 主要发现
 
@@ -225,7 +227,7 @@ updated: '2026-05-18'
 > - 12 个教育清算中心中，4 个只关注教育，8 个覆盖教育及其他社会政策领域；[[What Works Clearinghouse|WWC]] 和 [[Best Evidence Encyclopedia|BEE]] 覆盖更广泛的教育结果与干预，而 [[National Dropout Prevention Center|NDPC]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] 等机构聚焦更窄主题（Wadhwa et al., 2024, p.6）。
 > - 7 个清算中心由美国政府部门、研究机构或政府-大学伙伴关系资助；WWC 已获得美国教育部超过 1 亿美元支持，远高于多数其他清算中心（Wadhwa et al., 2024, p.8）。
 > - 所有清算中心都偏好 [[Randomised Controlled Trials|RCT]]，但对 RCT 执行质量的判定不同：只有 WWC 对集群层级随机分配提供深入说明，[[Social Programs That Work|SPTW]]、[[Promise Neighborhoods Research Consortium|PNRC]] 和 Blueprints 要求[[Intent-to-Treat Analysis|意向治疗分析]]，WWC 在特定条件下允许 CACE（Wadhwa et al., 2024, p.9）。
-> - 对 [[Quasi-Experimental Designs|QED]] 的处理比 RCT 更分散：所有清算中心承认一般 QED，但 RDD 与 ITS 仅被部分机构认真纳入；WWC 是将 RDD 和其他 QED 作为重要因果推断工具并制定标准的主要例外（Wadhwa et al., 2024, pp.9–11）。
+> - 对 [[Quasi-Experimental Designs|QED]] 的处理比 RCT 更分散：所有清算中心承认一般 QED，但 RDD 与 ITS 仅被部分机构认真纳入；WWC 是将 RDD 和其他 QED 作为重要[[Causality|因果推断]]工具并制定标准的主要例外（Wadhwa et al., 2024, pp.9–11）。
 > - 1,359 个项目中 1,131 个（83.2%）只被一个清算中心评级，164 个（12.1%）被两个评级，45 个（3.3%）被三个评级，15 个（1.1%）被四个评级，4 个（0.3%）被五个评级（Wadhwa et al., 2024, p.18）。
 > - 作者认为评级不一致最可能来自证据标准差异，尤其是是否要求复制、独立复制和治疗后持续效果；传统因果识别与估计问题反而不是解释高等级分歧的唯一或主要因素（Wadhwa et al., 2024, pp.26–27）。
 

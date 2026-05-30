@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Literature Review]]"
   - "[[Direct Instruction]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -83,7 +84,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - 三个案例均为概念论证和[[Literature Review|文献回顾]]，未提供原创实证数据
-> - 东亚教育体系案例的推论基于跨国相关关系（非因果关系），需纵向研究确认
+> - 东亚教育体系案例的推论基于跨国相关关系（非[[Causality|因果关系]]），需纵向研究确认
 > - 6 项行动建议未讨论实施这些建议本身的潜在副作用
 
 ## 来源

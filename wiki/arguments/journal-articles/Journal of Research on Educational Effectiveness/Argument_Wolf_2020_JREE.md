@@ -21,6 +21,9 @@ related_concepts:
   - "[[Researcher Degrees of Freedom]]"
   - "[[Publication Bias]]"
   - "[[Developer Effect]]"
+  - "[[Hypothesis]]"
+  - "[[Variable]]"
+  - "[[Causality]]"
   - "[[Implementation Fidelity]]"
 related_theories: []
 related_methods:
@@ -61,14 +64,14 @@ updated: '2026-05-18'
 
 > [!example] 核心论证
 > 1. **前提/观察**：ESSA 2015 将联邦拨款与项目有效性证据绑定，开发者面临前所未有的经济激励去证明其产品有效（Wolf et al., 2020, p. 428）
-> 2. **假设**：开发者可能通过研究设计特征（更小样本、自编测量）、文件抽屉效应、[[Researcher Degrees of Freedom|研究者自由度]]三重机制抬高[[Effect Size|效应量]]（Wolf et al., 2020, p. 429）
-> 3. **方法步骤**：使用 [[What Works Clearinghouse|WWC]] 全数据库，先估计零模型，再加入开发者和协变量的元回归模型，最后限制在同时有开发者和独立研究的干预子样本并加入干预固定效应——逐步排除替代解释（Wolf et al., 2020, pp. 437–438）
+> 2. **[[Hypothesis|假设]]**：开发者可能通过研究设计特征（更小样本、自编测量）、文件抽屉效应、[[Researcher Degrees of Freedom|研究者自由度]]三重机制抬高[[Effect Size|效应量]]（Wolf et al., 2020, p. 429）
+> 3. **方法步骤**：使用 [[What Works Clearinghouse|WWC]] 全数据库，先估计零模型，再加入开发者和协[[Variable|变量]]的元回归模型，最后限制在同时有开发者和独立研究的干预子样本并加入干预固定效应——逐步排除替代解释（Wolf et al., 2020, pp. 437–438）
 > 4. **结论**：在控制可观测研究设计特征和项目特征后，[[Developer Effect|开发者效应]]仍然存在（全样本差异 0.141 SD，同一干预差异 0.130 SD），[[Publication Bias|发表偏倚]]估计可解释约 66%，但剩余部分不能由现有数据明确解释（Wolf et al., 2020, pp. 441–443）
 
 ## 主要发现
 
 > [!success] 主要发现
-> - **全样本**：控制协变量后，独立研究 ES = +0.168，开发者研究 ES = +0.309，差异 = 0.141 SD（Wolf et al., 2020, p. 441）
+> - **全样本**：控制协[[Variable|变量]]后，独立研究 ES = +0.168，开发者研究 ES = +0.309，差异 = 0.141 SD（Wolf et al., 2020, p. 441）
 > - **同一干预子样本**：控制协变量和干预固定效应后，独立研究 ES = +0.194，开发者研究 ES = +0.324，差异 = 0.130 SD（Wolf et al., 2020, p. 439）
 > - **[[Effect Size|效应量]]分布异质性**：独立研究 95% 预测区间 (−0.452, +0.788)；开发者研究 (−0.311, +0.929)（Wolf et al., 2020, p. 441）
 > - **[[Publication Bias|发表偏倚]]**：Vevea-Hedges 校正后开发者-独立研究差异从 0.115 降至 0.076，约 66% 的差异可归因于发表偏倚（Wolf et al., 2020, p. 442）
@@ -87,7 +90,7 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - **因果不确定性**：研究本质是描述性而非因果性——可以量化[[Developer Effect|开发者效应]]的存在和大小，但不能确定其来源（Wolf et al., 2020, p. 442）
+> - **因果不确定性**：研究本质是描述性而非[[Causality|因果性]]——可以量化[[Developer Effect|开发者效应]]的存在和大小，但不能确定其来源（Wolf et al., 2020, p. 442）
 > - **[[Implementation Fidelity|实施忠实度]]数据缺失**：[[What Works Clearinghouse|WWC]] 数据中无实施忠实度信息，无法检验开发者是否通过更高实施质量达成更大[[Effect Size|效应量]]（Wolf et al., 2020, p. 443）
 > - **控制组细节有限**：WWC 仅提供控制组的简要描述，控制组之间的微妙差异可能未充分捕捉（Wolf et al., 2020, p. 443）
 > - **Vevea-Hedges 校正局限**：使用研究级平均效应量，且对开发者研究的校正差异不显著（Wolf et al., 2020, p. 442）

@@ -16,6 +16,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Science and Technology Studies]]"
   - "[[International Education]]"
+  - "[[Causality]]"
   - "[[Atomisation of Knowledge and Skills]]"
   - "[[School Leadership]]"
   - "[[New Public Management]]"
@@ -67,7 +68,7 @@ updated: '2026-05-18'
 > [!abstract] 两个层面的生产性（Gorur, 2014, p.17–18）
 > **层面一：测量到位后改变理解和行为**
 > - 指标反复发布形成期望模式，构成事物"如预期般出现"的背景（Thrift, 2004; Gorur, 2014, p.16）
-> - 指标中的关联（如成绩与 GDP 之间、生均支出与学生表现之间）被物化为因果关系，即使原意并非如此（Gorur, 2014, p.16）
+> - 指标中的关联（如成绩与 GDP 之间、生均支出与学生表现之间）被物化为[[Causality|因果关系]]，即使原意并非如此（Gorur, 2014, p.16）
 > - 政府的政策趋同很大程度上归功于这些比较表格和图表（Gorur, 2014, p.16）
 > - 被排除在计算之外的领域会失去在公众和决策者心目中的重要性（Gorur, 2014, p.16）
 >

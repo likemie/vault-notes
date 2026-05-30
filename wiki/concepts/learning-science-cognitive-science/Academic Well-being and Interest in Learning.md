@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Motivation and Work Effort]]"
   - "[[Learning-Impeding Behavior]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -41,7 +42,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - 与 [[Motivation and Work Effort]] 相比，它偏情感态度；与 [[Learning-Impeding Behavior]] 相比，它不是行为外显变量。
+> - 与 [[Motivation and Work Effort]] 相比，它偏情感态度；与 [[Learning-Impeding Behavior]] 相比，它不是行为外显[[Variable|变量]]。
 
 ## 实证发现
 

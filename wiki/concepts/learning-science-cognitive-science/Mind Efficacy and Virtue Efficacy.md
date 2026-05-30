@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
+  - "[[Causality]]"
   - "[[Cognitive Source]]"
   - "[[Chinese Learner]]"
   - "[[Western Learner]]"
@@ -58,7 +59,7 @@ updated: 2026-05-25
 > [!abstract]
 > 台湾母亲的 Virtue Efficacy 归因模式：
 
-- **美德来源**：母亲在对话中强化[[Learning Virtues|学习美德]]的因果关系——"你付出了努力才学会的""你坚持不懈地练习""你不能懒惰"（Li, 2012, p.259–265）。
+- **美德来源**：母亲在对话中强化[[Learning Virtues|学习美德]]的[[Causality|因果关系]]——"你付出了努力才学会的""你坚持不懈地练习""你不能懒惰"（Li, 2012, p.259–265）。
 - **美德效力的因果链**：以游泳学习为例，母亲引导孩子的因果推理链条为：孩子最初害怕水 → 有人教导技术 → 孩子掌握技术，克服恐惧 → 但掌握需要通过大量练习 → 练习越多，进步越大 → 努力（辛苦）是学习的必然代价 → 做任何事都不能懒惰（Li, 2012, p.260–265）。
 - **美德的普遍性**：母亲最终将具体学习情境中的美德上升为普遍原则——"种瓜得瓜，种豆得豆"（as thou sow, so you shall reap）（Li, 2012, p.264–265）。
 

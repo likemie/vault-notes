@@ -20,6 +20,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
   - "[[Effect Size]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Language Experience Approach]]"
   - "[[Direct Instruction]]"
   - "[[Constructivist Paradigm]]"
@@ -49,7 +50,7 @@ updated: '2026-05-18'
 
 > [!abstract] 理论框架
 > - 未提出正式理论框架；论文采用批判性方法论审查（critical methodological review）方法
-> - 隐含的理论立场：读写是社会文化实践（Bloome, Harris & Ludlam, 1991），教学法始终是政治的
+> - 隐含的[[Theoretical Standpoint|理论立场]]：读写是社会文化实践（Bloome, Harris & Ludlam, 1991），教学法始终是政治的
 
 ## 研究方法
 

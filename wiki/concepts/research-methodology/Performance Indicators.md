@@ -17,8 +17,10 @@ related_concepts:
   - "[[Regulatory Regionalism]]"
   - "[[International Education]]"
   - "[[Selectivity]]"
+  - "[[Hypothesis]]"
   - "[[Theories of Policy Change]]"
   - "[[Performativity of Measurement]]"
+  - "[[Causality]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Sociology of Measurement]]"
@@ -88,7 +90,7 @@ updated: '2026-05-18'
 
 - **目的性**：指标是为政策目的而选择和设计的，统计是原始收集（Gorur, 2014, p.7）
 - **分析性**：指标包含分析和解读，统计数据是原始数字
-- **派生性**：指标常合并多个数据源和多个统计量，采用数学模型刻画假设的关系
+- **派生性**：指标常合并多个数据源和多个统计量，采用数学模型刻画[[Hypothesis|假设]]的关系
 - **跨国统一性**：指标在各国统一开发、定期重复
 - **情境依赖性**：指标的意义与其构建情境相连（Jaeger, 1978），不自我解释
 
@@ -114,7 +116,7 @@ Rambla（2022, p.165–166）综合 Le Galès（2016）、Collins（2018）和 J
 
 > [!tip]
 > - [[Sociology of Measurement]] — 指标构建过程体现了测量的 instrumentalism（如何在各种约束下"让事物运作"）和 performativity（指标一旦存在就改变世界）（Gorur, 2014, p.6–7）
-> - [[Performativity of Measurement]] — [[International Education|国际教育]]指标在多个层面上是 performative：影响政策制定者行为、改变国家优先级、使某些关联被物化为因果关系（Gorur, 2014, p.16–18）
+> - [[Performativity of Measurement]] — [[International Education|国际教育]]指标在多个层面上是 performative：影响政策制定者行为、改变国家优先级、使某些关联被物化为[[Causality|因果关系]]（Gorur, 2014, p.16–18）
 > - [[Selectivity]] — Jessop（2007）的策略关系国家理论为理解绩效指标的政策选择性提供了结构性解释
 > - [[Theories of Policy Change]] — Pawson（2006）的实在论评估框架解释了绩效指标如何承载和传播关于因果机制的信念体系
 > - [[Regulatory Regionalism]] — 绩效指标是超国家组织通过排名和指标对区域内教育进行间接治理的核心操作机制

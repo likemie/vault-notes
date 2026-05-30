@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
+  - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
 related_theories: []
@@ -77,7 +78,7 @@ updated: 2026-05-30
 >
 > **1. 学科内容的复杂性（Subject Matter Complexity）**：跨学科（transdisciplinary）不等于多学科（multidisciplinary）。多学科是不同专家各自贡献视角；跨学科要求在不同学科知识之间建立网络化关联。课程需要建立小型教师领导核心团队来设定跨学科逻辑主线（pp.158-159）。
 >
-> **2. 实践的广泛适用性（Broad Applications to Practice）**：学员期望"回办公室就能用的工具"，但跨学科系统性认识无法在短期内打包成操作手册。课程设计的关键是"重新定义实践的参数"——帮助学员认识到其运营环境的基础假设已经发生变化（p.159）。
+> **2. 实践的广泛适用性（Broad Applications to Practice）**：学员期望"回办公室就能用的工具"，但跨学科系统性认识无法在短期内打包成操作手册。课程设计的关键是"重新定义实践的参数"——帮助学员认识到其运营环境的基础[[Hypothesis|假设]]已经发生变化（p.159）。
 >
 > **3. 解决方案导向（Solutions Orientation）**：产业伙伴寻求的是解决方案，而非仅理解问题。但解决方案本身随新知识新技术快速演变。课程应提供"决策框架"而非"标准答案"；按时间框架（近期/中期/长期可行方案）组织内容（p.160）。
 >

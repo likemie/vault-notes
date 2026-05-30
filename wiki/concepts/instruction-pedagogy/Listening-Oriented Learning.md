@@ -14,6 +14,7 @@ tags:
   - field/comparative-education
   - field/instruction-pedagogy
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Revoicing]]"
   - "[[Action Better Than Words]]"
   - "[[Student Engagement]]"
@@ -48,7 +49,7 @@ updated: 2026-05-24
 
 **1. 沉默不等于被动**
 
-最根本的纠正：将东亚学生的沉默等同于被动和缺乏投入，是一个"基于西方假设的错误"。一位中国小学生的自述："我可能在听，但我不是被动。我在脑子里学习。我从老师那里学，我也从我的朋友做了什么中学。如果他们犯了错误，我也从中学到"（Cortazzi & Jin, 引用于 Li, 2012, p.117）。
+最根本的纠正：将东亚学生的沉默等同于被动和缺乏投入，是一个"基于西方[[Hypothesis|假设]]的错误"。一位中国小学生的自述："我可能在听，但我不是被动。我在脑子里学习。我从老师那里学，我也从我的朋友做了什么中学。如果他们犯了错误，我也从中学到"（Cortazzi & Jin, 引用于 Li, 2012, p.117）。
 
 **2. 沉默参与（Silent Participation）**
 

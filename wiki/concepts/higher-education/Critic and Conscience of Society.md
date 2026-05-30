@@ -10,6 +10,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Champ]]"
+  - "[[Hypothesis]]"
   - "[[Visible Learning]]"
   - "[[Cult of the Guru]]"
 related_theories: []
@@ -41,7 +42,7 @@ updated: '2026-05-18'
 > [!example] 与其他学术角色的区别
 > Grace（2010, p.90）明确区分了两种不同的学术角色：
 >
-> - **学术领域的批评者（critic of the quality of research in an academic [[Champ|field]]）**：在学科内部对研究质量和假设进行技术性批判——这是教授们正常的"技术性和批判性学术工作"，关注的是教育系统内部的事务（如评估、教学、学习质量）
+> - **学术领域的批评者（critic of the quality of research in an academic [[Champ|field]]）**：在学科内部对研究质量和[[Hypothesis|假设]]进行技术性批判——这是教授们正常的"技术性和批判性学术工作"，关注的是教育系统内部的事务（如评估、教学、学习质量）
 > - **社会的批评者与良知（critic and conscience of society）**：必须将非学校因素（non-school factors）纳入所有关于教育成就差异的分析——因为这些因素"代表社会"，包括儿童和年轻人的生命机会（life chances）在文化和经济社会条件中的结构性分布
 >
 > Grace 指出，如果学术人选择了"critic and conscience of society"的角色，就无法合理地说出 [[John Hattie|Hattie]] 曾经说过的话："许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这'不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道'"（Hattie, 2009, pp.viii–xi，引自 Grace, 2010, p.90–91）。
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 ## 在 Hattie 与 Grace 辩论中的应用
 
 > [!success] 在 [[John Hattie|Hattie]] 与 Grace 辩论中的应用
-> Grace（2010）认为 [[John Hattie]] 在 *[[Visible Learning]]* 和其 2010 年 NZJES 文章中所扮演的角色不是"critic and conscience of society"，而是"学术领域的批评者"——Hattie 对评估、教学和学习领域中其他学者的研究质量与假设提出了批评，这是"教育教授们正常的学术工作"（Grace, 2010, p.90）。Grace 呼吁 Hattie 写一本续作，详细讨论非学校因素对教育成就的影响——唯有如此，他才能合法地声称自己是"critic and conscience of society"（Grace, 2010, p.91）。
+> Grace（2010）认为 [[John Hattie]] 在 *[[Visible Learning]]* 和其 2010 年 NZJES 文章中所扮演的角色不是"critic and conscience of society"，而是"学术领域的批评者"——Hattie 对评估、教学和学习领域中其他学者的研究质量与[[Hypothesis|假设]]提出了批评，这是"教育教授们正常的学术工作"（Grace, 2010, p.90）。Grace 呼吁 Hattie 写一本续作，详细讨论非学校因素对教育成就的影响——唯有如此，他才能合法地声称自己是"critic and conscience of society"（Grace, 2010, p.91）。
 
 
 > [!success] Hattie (2017) 在回应 Eacott 时再度援引该概念

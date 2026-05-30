@@ -22,6 +22,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Learning Analytics]]"
   - "[[Effect Size]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -167,7 +168,7 @@ updated: '2026-05-18'
 >
 > **目前状态**：ESSA 的证据要求目前仅适用于联邦改进拨款的特定项目，尚未扩展至全体学校。但 Slavin 对"证据知情"弱版本的明确反对暗示了他对更广泛的证据要求的支持——这使得"激励 vs. 强制"的边界问题在未来政策辩论中将成为关键争议点。
 >
-> ### 良性循环叙事的乐观假设
+> ### 良性循环叙事的乐观[[Hypothesis|假设]]
 >
 > **批评内容**：Slavin 的良性循环叙事（政府要求证据 → 教育者寻找已验证项目 → 开发者投资研发 → 更多有效项目 → 政府提高标准 → ...）假设了每个环节的顺利衔接，但对教育政策特有的政治周期低估严重。
 >

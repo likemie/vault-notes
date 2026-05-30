@@ -17,6 +17,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Variable]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods:
@@ -54,7 +55,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > 1. **前提**：几乎所有教学干预都呈现正面效果——"almost everything works"（p.80）。因此正确的问题不是"什么有效？"而是"什么最有效？"
 > 2. **论证**：基于 1200 项[[Meta-analysis|元分析]]的综合，识别出六项提升教学影响的关键因素：（1）教师视评估自身影响力为主要角色（d=0.91）；（2）教师合作了解和评估自身影响力（d=0.91）；（3）基于学生先前学习进行教学（d=0.85）；（4）在系列课程开始时明确告知学生成功标准（d=0.77）；（5）实施具有最优表层/[[Surface and Deep Learning|深层学习]]比例的方案（d=0.71）；（6）设置适当挑战水平，永远不要求"尽力而为"（d=0.57）
-> 3. **结论**：教学方法本身（讲座 vs [[Problem-Based Learning|PBL]] vs 在线）不如教学属性重要——教师的思维框架（mind frames）才是关键调节变量。"教师是 DIE for"：Diagnose（诊断学生起点状态）、Intervene（实施多重干预）、Evaluate（评估学生对干预的反应）
+> 3. **结论**：教学方法本身（讲座 vs [[Problem-Based Learning|PBL]] vs 在线）不如教学属性重要——教师的思维框架（mind frames）才是关键调节[[Variable|变量]]。"教师是 DIE for"：Diagnose（诊断学生起点状态）、Intervene（实施多重干预）、Evaluate（评估学生对干预的反应）
 
 ## 主要发现
 

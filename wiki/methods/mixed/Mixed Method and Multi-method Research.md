@@ -16,6 +16,7 @@ tags:
 - educational-psychology
 - research-methodology
 related_concepts:
+  - "[[Variable]]"
   - "[[Postpositivism]]"
   - "[[Recommendations for Practice]]"
   - "[[University-Industry Collaboration]]"
@@ -49,7 +50,7 @@ updated: 2026-05-30
 > [!info] 定义
 > 混合方法研究（Mixed Methods Research）的核心特征是同时收集并整合（"混合"）量化与质性数据，在分析阶段合并两种数据库以获取超越单一方法的额外洞察。Creswell & Creswell (2022) 将其定位为与量化和质性并列的第三种独立研究路径，以数据整合为关键标志。
 > 
-> 在 Brady et al. (2023) 的编码中指不操纵自变量、并同时包含量化数据和质性数据的研究。该类别是作者相较 Reinhart et al. (2013) 与 Robinson et al. (2007) 旧分类新增的类别（Brady et al., 2023, p.4）。
+> 在 Brady et al. (2023) 的编码中指不操纵自[[Variable|变量]]、并同时包含量化数据和质性数据的研究。该类别是作者相较 Reinhart et al. (2013) 与 Robinson et al. (2007) 旧分类新增的类别（Brady et al., 2023, p.4）。
 
 ## 认识论立场
 
@@ -68,7 +69,7 @@ updated: 2026-05-30
 > 分析整合的关键工具是[[Joint Display|联合展示]]，将量化与质性数据或结果以表格形式并列，研究者检视表格后提取整合性洞察。
 > 
 > 在 Brady et al. (2023) 的编码框架中，
-> - **不操纵自变量** 混合方法/多方法研究在该文分类中属于[[Non-intervention Research|非干预研究]]（Brady et al., 2023, p.4）。
+> - **不操纵自[[Variable|变量]]** 混合方法/多方法研究在该文分类中属于[[Non-intervention Research|非干预研究]]（Brady et al., 2023, p.4）。
 > - **同时使用量化和质性数据** 这是该类别区别于观察/相关研究和[[Qualitative Research|质性研究]]的操作性标准（Brady et al., 2023, p.4）。
 > - **作为独立编码类别** 作者在 2020 年数据中单独编码该类，因为此前研究未将其与观察/相关研究分开（Brady et al., 2023, pp.4, 6）。
 
@@ -80,7 +81,7 @@ updated: 2026-05-30
 ## 局限性
 
 > [!warning] 局限性
-> - **非干预限制**：在 Brady et al. (2023) 的分类中，该类研究不操纵自变量，因此即使同时包含两类数据，也不自动产生因果识别能力（Brady et al., 2023, p.4）。
+> - **非干预限制**：在 Brady et al. (2023) 的分类中，该类研究不操纵自[[Variable|变量]]，因此即使同时包含两类数据，也不自动产生因果识别能力（Brady et al., 2023, p.4）。
 > - **[[Recommendations for Practice|实践建议]]比例高**：2020 年混合方法/多方法文章中 60% 包含 RFP；作者将其与观察/相关和[[Qualitative Research|质性研究]]一起归入[[Non-intervention Research|非干预研究]]中实践建议高发的趋势（Brady et al., 2023, pp.6-7）。
 
 ## 相关理论
@@ -91,7 +92,7 @@ updated: 2026-05-30
 ## 与相关方法的区别
 
 
-- vs [[Observational and Correlational Research]] — 两者都不操纵自变量；观察/相关研究只要求量化数据，混合方法/多方法研究同时包含量化和质性数据（Brady et al., 2023, p.4）。
+- vs [[Observational and Correlational Research]] — 两者都不操纵自[[Variable|变量]]；观察/相关研究只要求量化数据，混合方法/多方法研究同时包含量化和质性数据（Brady et al., 2023, p.4）。
 - vs [[Qualitative Research]] — 质性研究只使用访谈、观察等文本数据；混合方法/多方法研究将质性资料与量化资料合并使用（Brady et al., 2023, p.4）。
 - vs [[Intervention Research]] — 混合方法/多方法研究在该文编码中仍属[[Non-intervention Research|非干预研究]]；即使数据来源更多元，只要没有自变量操纵，就不能自动支撑强因果[[Recommendations for Practice|实践建议]]（Brady et al., 2023, pp.4, 9）。
 

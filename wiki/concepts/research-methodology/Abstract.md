@@ -6,6 +6,7 @@ type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Literature Review]]"
+  - "[[Hypothesis]]"
   - "[[Champ]]"
 related_theories: []
 related_methods:
@@ -44,7 +45,7 @@ updated: 2026-05-31
 5. **方法缺陷**（如适用）：如果是批评性或方法综述，指出技术和方法上的缺陷
 
 > [!tip] 信息定位
-> 在结构良好的期刊文章中，问题和目的陈述通常在引言中明确给出；样本信息在方法（或程序）部分的中间位置；关键结果在结果部分，按每个研究问题或假设逐一呈现。
+> 在结构良好的期刊文章中，问题和目的陈述通常在引言中明确给出；样本信息在方法（或程序）部分的中间位置；关键结果在结果部分，按每个研究问题或[[Hypothesis|假设]]逐一呈现。
 
 ---
 

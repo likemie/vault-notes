@@ -13,6 +13,7 @@ tags:
 - epistemology
 - region/uk
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -53,7 +54,7 @@ updated: '2026-05-19'
 
 
 > [!info] 对经验主义的批判
-> Bhaskar (1978) 的核心批判对象是经验主义——即假设经验观察到的规则性足以建立因果解释。批判实在论坚持因果解释需要超越表面规则性，探究深层因果机制（Wrigley & McCusker, 2019, p. 117）。
+> Bhaskar (1978) 的核心批判对象是经验主义——即[[Hypothesis|假设]]经验观察到的规则性足以建立因果解释。批判实在论坚持因果解释需要超越表面规则性，探究深层因果机制（Wrigley & McCusker, 2019, p. 117）。
 
 ## 主要贡献
 

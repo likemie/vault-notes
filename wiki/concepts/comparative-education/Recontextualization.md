@@ -10,6 +10,7 @@ tags:
   - theme/reception-history
   - theme/recontextualization
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Quality Education]]"
@@ -52,7 +53,7 @@ updated: 2026-05-26
 ## 概念辨析
 
 > [!example]
-> - **vs 误解（misunderstanding）**："误解"框架假设存在一个"正确理解"的标准，并将接受者视为被动的认知失误者。再脉络化框架则把接受者视为主动的行动者，分析的重点不是"他们理解对了吗"，而是"他们选择了什么、为什么选择、选择服务于什么目的"（p.69）。
+> - **vs 误解（misunderstanding）**："误解"框架[[Hypothesis|假设]]存在一个"正确理解"的标准，并将接受者视为被动的认知失误者。再脉络化框架则把接受者视为主动的行动者，分析的重点不是"他们理解对了吗"，而是"他们选择了什么、为什么选择、选择服务于什么目的"（p.69）。
 > - **vs [[Transfer Translation Transformation]]**：3T 框架描述教育思想跨国流动的三个阶段（转移→转译→转化），是一个过程模型。再脉络化则聚焦于贯穿全过程的**机制**——接受者如何在每个阶段中对思想进行选择性处理。两者互补：3T 回答"发生了什么阶段"，再脉络化回答"每个阶段中接受者如何操作"。
 
 ---

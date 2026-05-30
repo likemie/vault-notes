@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[One Country, Two Systems]]"
   - "[[Zhonghua Minzu]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -93,7 +94,7 @@ updated: '2026-05-25'
 > [!warning] 与 [[Liberal Studies|LS]] 废除的因果关系
 > Yan & Morris (2025, pp. 489–490) 记录的时间线显示：2020 年 9 月的课程检讨仍建议保留 LS，但《国安法》颁布仅 5 个月后港府即宣布废除 LS——这一时序强烈暗示《国安法》是 LS 废除的直接推动力，而非仅仅是"背景因素"。
 >
-> **目前状态**：此因果关系在学术文献中被广泛接受（Yan & Morris, 2025; Vickers & Morris, 2022），但港府官方论述将 LS 废除表述为"课程检讨的结果"而非"国安法的要求"。
+> **目前状态**：此[[Causality|因果关系]]在学术文献中被广泛接受（Yan & Morris, 2025; Vickers & Morris, 2022），但港府官方论述将 LS 废除表述为"课程检讨的结果"而非"国安法的要求"。
 
 ---
 

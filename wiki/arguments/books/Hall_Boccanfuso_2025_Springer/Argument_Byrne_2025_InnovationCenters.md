@@ -17,6 +17,7 @@ related_concepts:
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
   - "[[Technology Transfer]]"
+  - "[[Hypothesis]]"
   - "[[Further Education]]"
   - "[[International Education]]"
   - "[[Learning Analytics]]"
@@ -105,7 +106,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - [[University of Illinois Research Park]]
 > - STAR Park（特拉华大学）
 >
-> 信息来自 TUFF 的直接参与和与各园区管理者的对话，属于从大量案例中归纳的实践原则，而非系统性实证研究中的假设检验。
+> 信息来自 TUFF 的直接参与和与各园区管理者的对话，属于从大量案例中归纳的实践原则，而非系统性实证研究中的[[Hypothesis|假设]]检验。
 
 ---
 
@@ -306,7 +307,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [!example]
 > 一个以旅游经济为主的小城市，看到深圳建了科技创新中心很成功，就照搬了一个"AI 产业园"。但本地没有 AI 研究基础，没有风投生态，最优秀的学生高中毕业就去了省会城市读大学且不再回来。这个"AI 产业园"大概率会变成空置的写字楼。
 >
-> 如果这个城市从本地优势出发，假设本地有丰富的中小学自然教育基地资源和一批有经验的户外教育从业者，围绕"自然教育"和"研学旅行"来设计创新中心，整合本地大学的生态学系、教育学院课程设计专家以及旅游行业的营销和运营能力，成功的可能性就大得多。
+> 如果这个城市从本地优势出发，[[Hypothesis|假设]]本地有丰富的中小学自然教育基地资源和一批有经验的户外教育从业者，围绕"自然教育"和"研学旅行"来设计创新中心，整合本地大学的生态学系、教育学院课程设计专家以及旅游行业的营销和运营能力，成功的可能性就大得多。
 
 21. 区域合作初期需要一位多面手式执行主管，能在房地产、政府关系、金融、市场营销、学术、项目激活和资产管理之间做翻译和协调，不一定每个领域都是专家（p.134）。
 

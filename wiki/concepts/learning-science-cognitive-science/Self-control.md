@@ -13,8 +13,10 @@ tags:
 related_concepts:
   - "[[School Norm Adaptation]]"
   - "[[Learning-Impeding Behavior]]"
+  - "[[Discipline-Based Theory]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Mixed Method and Multi-method Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -58,7 +60,7 @@ updated: '2026-05-31'
 ## 相关研究
 
 > [!example]
-> Kennett et al. (2008) 在慢性疼痛管理的混合方法研究中，使用 Rosenbaum (1990) 的自我控制理论（theory of self-control）作为 [[Discipline-Based Theory|学科理论]]。研究收集了 Rosenbaum 自我控制量表（SCS）的量化测量数据，并结合对慢性疼痛患者的质性访谈，考察习得性资源fulness（learned resourcefulness）如何赋能个体的自我管理（Creswell & Creswell, 2022, pp.69–70）。
+> Kennett et al. (2008) 在慢性疼痛管理的[[Mixed Method and Multi-method Research|混合方法研究]]中，使用 Rosenbaum (1990) 的自我控制理论（theory of self-control）作为 [[Discipline-Based Theory|学科理论]]。研究收集了 Rosenbaum 自我控制量表（SCS）的量化测量数据，并结合对慢性疼痛患者的质性访谈，考察习得性资源fulness（learned resourcefulness）如何赋能个体的自我管理（Creswell & Creswell, 2022, pp.69–70）。
 
 ## 来源
 

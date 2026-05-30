@@ -21,6 +21,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Tracking]]"
   - "[[Literature Review]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:
@@ -109,7 +110,7 @@ updated: 2026-05-18
 > 论文自身承认的局限（Downey & Condron, 2016）：
 >
 > - 补偿性证据目前仅针对 SES 认知技能差距和 BMI——对其他结果的效应未知
-> - [[Seasonal Comparison|季节性比较]]方法的假设（无处理溢出、等距量表、暑假作为有效反事实）值得更多学术讨论
+> - [[Seasonal Comparison|季节性比较]]方法的[[Hypothesis|假设]]（无处理溢出、等距量表、暑假作为有效反事实）值得更多学术讨论
 > - 学校补偿性是否随非学校环境不平等的加剧而线性增加？在极端不平等条件下，学校补偿能力是否有一个极限？
 > - 论文对美国语境的关注——[[Refraction Framework|折射框架]]在其他教育系统和制度环境中的适用性需要跨国验证
 > - 对加剧性学校机制（课程分化、[[Tracking|能力分组]]、资金不平等）与补偿性机制的净效应仍缺乏量化比较

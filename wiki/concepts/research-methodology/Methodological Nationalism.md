@@ -11,6 +11,7 @@ tags:
 related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[Multiplicity]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -65,7 +66,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Multiplicity]] — Massey 的多重性概念直接挑战方法论民族主义对空间封闭和单一性的假设：如果空间本质上是多重的，那么以单一国家为单位就是分析上的简化
+> - [[Multiplicity]] — Massey 的多重性概念直接挑战方法论民族主义对空间封闭和单一性的[[Hypothesis|假设]]：如果空间本质上是多重的，那么以单一国家为单位就是分析上的简化
 > - [[Doreen Massey]] — Massey 反复论证全球空间不是预先给定的、"在外面的"，而是被建构的、具体的、生活化的，这意味着不能先验地以国家边界划定分析范围
 
 ---

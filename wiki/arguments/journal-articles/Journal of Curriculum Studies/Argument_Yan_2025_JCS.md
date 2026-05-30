@@ -19,6 +19,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[Progressive Education]]"
+  - "[[Hypothesis]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"
   - "[[Knowledge-Based Economy]]"
@@ -58,7 +59,7 @@ updated: 2026-05-18
 
 > [!abstract] 理论框架
 > - [[Cuban's Curriculum Change Theory]] — 作为分析起点。课程变革的三个外部因素：[[Progressive Education|进步教育]]运动、冷战/国防、立法法律决定。论文将此框架扩展到香港语境，检验其解释力与局限
-> - [[World Society Theory]] — 全球学校模式趋同假设。[[Liberal Studies|LS]] 的诞生表面上支撑该理论（引用全球趋势、IBDP 课程参照），但论文认为这是表面修辞而非变革动因
+> - [[World Society Theory]] — 全球学校模式趋同[[Hypothesis|假设]]。[[Liberal Studies|LS]] 的诞生表面上支撑该理论（引用全球趋势、IBDP 课程参照），但论文认为这是表面修辞而非变革动因
 > - [[Policy Borrowing]] — Steiner-Khamsi 的政策借用框架。分析港府如何"[[Externalization|外化]]"改革需求，以全球化论述合法化国内议程
 > - **Tröhler (2023) 国家利益驱动课程变革** — 废除阶段的核心解释框架
 > - **Vickers & Morris (2022) 威权国家主义与教育** — 解释中共如何通过教育确保边疆忠诚
@@ -112,7 +113,7 @@ updated: 2026-05-18
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **全球化论述的工具性使用**：如果仅关注 [[Liberal Studies|LS]] 诞生，似乎验证了[[World Society Theory|世界文化理论]]的趋同假设。但研究发现港府引用全球论述是为了"[[Externalization|外化]]"国内问题——这更符合[[Policy Borrowing|政策借用]]逻辑。（p. 491）
+> 1. **全球化论述的工具性使用**：如果仅关注 [[Liberal Studies|LS]] 诞生，似乎验证了[[World Society Theory|世界文化理论]]的趋同[[Hypothesis|假设]]。但研究发现港府引用全球论述是为了"[[Externalization|外化]]"国内问题——这更符合[[Policy Borrowing|政策借用]]逻辑。（p. 491）
 >
 > 2. **内外部因素的角色逆转**：诞生期是公民社会（教协、媒体、立法会多方协商）推动；废除期是直接的国家干预，内部利益相关者完全缺席。这与 Cuban 对美国情境的分析形成对比。（p. 481）
 >

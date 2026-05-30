@@ -12,7 +12,9 @@ tags:
   - rct
   - synthetic-phonics
   - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Hypothesis]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -67,7 +69,7 @@ updated: 2026-05-18
 >
 > Bennett 描述了以下公式（Wrigley & McCusker, 2019, p. 118）：
 > 1. 形成问题：声音在水中比在空气中传播更快吗？
-> 2. 做出假设：是的。"声音在水中比在空气中传播更快"
+> 2. 做出[[Hypothesis|假设]]：是的。"声音在水中比在空气中传播更快"
 > 3. 做出预测：如果我的假设为真，我会观察到什么？
 > 4. 检验预测：收集证据看真实世界是否表现得与预测相同
 > 5. 分析：证据显示什么？如果证据证明假设为假，我们可以提出什么新假设？
@@ -80,7 +82,7 @@ updated: 2026-05-18
 > Wrigley 对此的反驳：
 > - 许多科学领域不使用实验（天文学、气象学、进化论、生物学的大部分）
 > - 许多重大发现并非来自系统程序（青霉素、尼龙、超导性）
-> - 科学中，密切观察和理论在表述因果关系中起关键作用——因果不通过测量规律性单独建立
+> - 科学中，密切观察和理论在表述[[Causality|因果关系]]中起关键作用——因果不通过测量规律性单独建立
 >
 > > "Bennett simplistically equates RCTs with science, forgetting that much scientific discovery has not arisen from experiments." (Wrigley, 2018, p. 3)
 >

@@ -12,6 +12,7 @@ tags:
 - region/switzerland
 related_concepts:
   - "[[Constructivist Paradigm]]"
+  - "[[Hypothesis]]"
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
 related_theories:
@@ -44,7 +45,7 @@ updated: '2026-05-19'
 > - **感觉运动阶段（0–2 岁）** — 完全自我中心，无法分离思想与行动，后期发展客体永久性
 > - **前运算阶段（2–7 岁）** — 客体永久性牢固建立，符号思维发展
 > - **具体运算阶段（7–11 岁）** — 能执行"运算"（内部化行动），理解守恒原则，开始应用逻辑
-> - **形式运算阶段（11–16 岁）** — 抽象和假设性思维
+> - **形式运算阶段（11–16 岁）** — 抽象和[[Hypothesis|假设]]性思维
 >
 > 核心概念包括守恒（conservation）和运算（operations）——可用于操纵、转换并将物体恢复原状的内部化行动（Bolton & Hattie, 2017, p.2–3）。
 
@@ -67,7 +68,7 @@ updated: '2026-05-19'
 > 论文列出皮亚杰理论的多项弱点（Bolton & [[John Hattie|Hattie]], 2017, p.3）：
 >
 > - 无法分离记忆与逻辑（Bryant & Trabasso, 1971）
-> - 假设儿童同时仅存在于一个阶段（Case, 1992; Flavell, 1982）
+> - [[Hypothesis|假设]]儿童同时仅存在于一个阶段（Case, 1992; Flavell, 1982）
 > - 文化背景的影响被忽略（Dasen, 1975; Dasen & Heron, 1981; Mishra, 1997; Price-Williams et al., 1969, 1981）
 
 ## 来源

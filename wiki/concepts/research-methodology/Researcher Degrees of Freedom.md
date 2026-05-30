@@ -12,6 +12,7 @@ tags:
 - evidence-based-education
 related_concepts:
   - "[[Developer Effect]]"
+  - "[[Variable]]"
   - "[[Implementation Fidelity]]"
   - "[[Effect Size]]"
   - "[[Publication Bias]]"
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 > Wolf et al. (2020, p. 429) 总结了 Simmons et al. 的框架：
 >
 > 1. **样本选择**：包含或排除哪些参与者、学校、班级
-> 2. **变量选择**：选择哪些结果变量为主要结果、哪些为次要结果（因变量选择）；使用哪些协变量（自变量选择）
+> 2. **[[Variable|变量]]选择**：选择哪些结果变量为主要结果、哪些为次要结果（因变量选择）；使用哪些协变量（自变量选择）
 > 3. **案例排除**：如何处理离群值（outliers）和缺失数据
 > 4. **分析选择**：选择何种统计模型、是否包含交互项、如何处理聚类
 >

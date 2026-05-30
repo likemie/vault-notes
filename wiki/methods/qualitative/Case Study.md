@@ -10,6 +10,7 @@ tags:
 - qualitative-research
 - methodology
 related_concepts:
+  - "[[Variable]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
 related_theories: []
@@ -72,7 +73,7 @@ updated: 2026-05-30
 >
 > （郑雅君，2023）
 >
-> **控制策略**：通过控制非核心变量减少分析噪音：
+> **控制策略**：通过控制非核心[[Variable|变量]]减少分析噪音：
 > - 仅选取男生（控制性别影响）
 > - 仅选取本科就读于该大学或同层次高校的学生（控制教育质量）
 > - 仅选取学分绩点位于同班前 50% 的学生（控制学习态度和勤勉程度）

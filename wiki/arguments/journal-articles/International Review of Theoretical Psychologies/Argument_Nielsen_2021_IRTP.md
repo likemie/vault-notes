@@ -21,6 +21,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Effect Size]]"
   - "[[Didaktik]]"
+  - "[[Variable]]"
   - "[[Feedback]]"
 related_theories: []
 related_methods: []
@@ -103,7 +104,7 @@ updated: '2026-05-18'
 >
 > 作者识别了技术理性框架的根本代价（pp. 88-89）：
 >
-> - **无学生/教师意向性概念**：Hattie 的作品中不存在将学生或教师理解为"寻求意义的"或"解释性的"存在——"The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of variables"（p. 88）
+> - **无学生/教师意向性概念**：Hattie 的作品中不存在将学生或教师理解为"寻求意义的"或"解释性的"存在——"The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of [[Variable|variables]]"（p. 88）
 > - **学生被理解为需要被影响的对象**：虽然学生必须是"活跃的"，但他们不被理解为具有意向性的行动者——只机械地对反馈做出反应
 > - **学习目标不容讨论**：Hattie 的理论是一个**封闭系统**——"the learning objective sanctifies the means of teaching"（p. 88-89）。教育问题被理解为技术性目标-手段理性范畴内的问题，其他类型的问题被认为无关
 > - **反馈取代对话**：人际对话被相互反馈过程取代，很少关注赋予学生学习的理由
@@ -117,7 +118,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > - **VL 的流行是合法化危机的症状，而非教育科学进步的标志**（pp. 86-88）
 > - **[[John Hattie|Hattie]] 的理论（[[Technical Rationality|技术理性]]）而非数据驱动了 VL 的影响力**——政策制定者需要的是一个可用来向公众证明教育系统在"有效运作"的理论框架（p. 87）
-> - **VL 的技术理性框架系统性边缘化了学生和教师的意向性与意义寻求**：学生被原子化为变量，学习目标不容讨论（pp. 88-89）
+> - **VL 的技术理性框架系统性边缘化了学生和教师的意向性与意义寻求**：学生被原子化为[[Variable|变量]]，学习目标不容讨论（pp. 88-89）
 > - **改进教学的出发点不应该是"什么方法有效"，而应该是"学生为什么参与学校实践"**（p. 89）
 
 ## 关键引用

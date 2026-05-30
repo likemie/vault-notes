@@ -13,6 +13,7 @@ tags:
 - philosophy-of-science
 - region/uk
 related_concepts:
+  - "[[Causality]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -49,7 +50,7 @@ updated: '2026-05-19'
 
 
 > [!info] 最佳解释推理
-> Thomas (2016) 论证自然科学家并非奴隶式地遵循关于建立因果性的方法论公式——"他们基于先前知识、批判性观察、猜想和对这些猜想的检验进行推断，这一过程被科学哲学家称为'最佳解释推理'（inference to the best explanation）"（Wrigley & McCusker, 2019, p. 117）。
+> Thomas (2016) 论证自然科学家并非奴隶式地遵循关于建立[[Causality|因果性]]的方法论公式——"他们基于先前知识、批判性观察、猜想和对这些猜想的检验进行推断，这一过程被科学哲学家称为'最佳解释推理'（inference to the best explanation）"（Wrigley & McCusker, 2019, p. 117）。
 >
 > > "Natural scientists don't slavishly pursue methodological formulae about establishing causation. They infer, based on their prior knowledge, their critical observation, their conjecture, and their testing of these conjectures, in a process that has come to be called by philosophers of science inference to the best explanation." (Thomas, 2016, p. 406, cited in Wrigley & McCusker, 2019, p. 117)
 
@@ -69,7 +70,7 @@ updated: '2026-05-19'
 
 > [!success] 主要贡献
 > - [[Evidence-Based Education]] — 从科学史和科学哲学角度为 EBE 批判提供"民间科学观"和"最佳解释推理"等关键分析概念
-> - **Scriven 因果推断框架的引入** — 引用 Scriven (2008) 论证存在"超越合理怀疑建立因果性的多种方式"，包括天体物理学、气象学、流行病学、尸检、地质学和工程故障分析等领域使用的推断程序
+> - **Scriven [[Causality|因果推断]]框架的引入** — 引用 Scriven (2008) 论证存在"超越合理怀疑建立因果性的多种方式"，包括天体物理学、气象学、流行病学、尸检、地质学和工程故障分析等领域使用的推断程序
 
 ## 主要著作
 

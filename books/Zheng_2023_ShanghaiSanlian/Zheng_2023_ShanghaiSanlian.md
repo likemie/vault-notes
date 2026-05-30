@@ -40,7 +40,7 @@ extracted_to:
   - "[[Marcia Baxter Magolda]]"
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
-  - "[[Rational Action Theory in Education]]"
+  - "[[Rational Action Theory]]"
 processed_date: 2026-05-09
 ---
 

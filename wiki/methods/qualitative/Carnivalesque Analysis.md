@@ -9,7 +9,8 @@ tags:
 - carnivalesque-analysis
 - qualitative-research
 - paradigm/critical
-related_concepts: []
+related_concepts:
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -38,7 +39,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> 该方法属于批判范式（critical paradigm），旨在揭露和挑战主导话语的权力运作。其认识论假设是：数据不仅应被严肃对待，也应被"玩味地"（playfully）处理，以暴露政策论证中的荒谬性和矛盾。正如 Allen（2000）所指出的，Bakhtin 的嘉年华概念在解放被作者权威控制的声音方面具有独特作用（Bainbridge et al., 2022, p.17）。
+> 该方法属于批判范式（critical paradigm），旨在揭露和挑战主导话语的权力运作。其认识论[[Hypothesis|假设]]是：数据不仅应被严肃对待，也应被"玩味地"（playfully）处理，以暴露政策论证中的荒谬性和矛盾。正如 Allen（2000）所指出的，Bakhtin 的嘉年华概念在解放被作者权威控制的声音方面具有独特作用（Bainbridge et al., 2022, p.17）。
 >
 
 ## 研究程序
@@ -62,7 +63,7 @@ updated: '2026-05-18'
 > - 证据在政策论证中被如何选择性使用或扭曲
 > - 政策论证的内在矛盾和不一致性
 >
-> Bainbridge et al.（2022）指出该方法不仅是研究策略，也是对研究者自身假设的检验——通过保持"被自己的发现所惊讶"的开放性（即不简单地确认预期），嘉年华式分析也强化了方法论的可信度（Bainbridge et al., 2022, p.19）。
+> Bainbridge et al.（2022）指出该方法不仅是研究策略，也是对研究者自身[[Hypothesis|假设]]的检验——通过保持"被自己的发现所惊讶"的开放性（即不简单地确认预期），嘉年华式分析也强化了方法论的可信度（Bainbridge et al., 2022, p.19）。
 >
 
 ## 局限性

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Double Spatiality of Universities]]"
   - "[[Scale in Higher Education]]"
   - "[[Multiplicity]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[World-Systems Theory]]"
 related_methods: []
@@ -86,7 +87,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - 2018–2024 年中美政治紧张期间，两国科学家联合发表数量依然巨大——科学合作不完全随政治关系波动，验证了科学领域的半自主性（Marginson, 2025, p. 11）
-> - 中国、韩国、印度、伊朗、巴西等国的科学产出增长模式各不相同，与其政治经济的相关性各异。如果科学产出完全由政治经济决定（如[[World-Systems Theory|世界体系理论]]所假设），这些国家的增长曲线应该是相似的（Marginson, 2025, p. 13）
+> - 中国、韩国、印度、伊朗、巴西等国的科学产出增长模式各不相同，与其政治经济的相关性各异。如果科学产出完全由政治经济决定（如[[World-Systems Theory|世界体系理论]]所[[Hypothesis|假设]]），这些国家的增长曲线应该是相似的（Marginson, 2025, p. 13）
 > - 中国大学较少设立海外分校（与美国、英国、澳大利亚形成对比），但其国内科学产出增长速度全球最快——这说明国家-全球协同的模式是多样的，国家可以自主选择全球参与方式（Marginson, 2025, pp. 17–20）
 
 ---

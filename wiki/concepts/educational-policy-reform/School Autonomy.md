@@ -11,8 +11,10 @@ tags:
 - level/k12
 - paradigm/neoliberal
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[New Public Management]]"
   - "[[School Leadership]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -67,7 +69,7 @@ updated: '2026-05-18'
 >
 > 1. **经济效率压力**：伴随学校自主权改革的经济理性主义"倾向于破坏传统上与支持公立学校相关的中共教育官僚机构的结构、资源和项目"（p.433）。在 WA，如 1990s 的 Victoria，这种逻辑导致区域层面学校支持结构的拆除，对小规模、农村和偏远学校产生灾难性后果。
 >
-> 2. **竞争与等级化**：[[My School Website|My School]] 网站的市场问责模型——"假设失败的学校（随着家长需求的减少）将关闭而不论当地需要，而成功的学校将繁荣发展"——增加了公立系统内的分层和残余化（residualisation），即"通过基于学术测试成绩来评估（公开奖励）和贬低（公开羞辱）学校"（p.434）。
+> 2. **竞争与等级化**：[[My School Website|My School]] 网站的市场问责模型——"[[Hypothesis|假设]]失败的学校（随着家长需求的减少）将关闭而不论当地需要，而成功的学校将繁荣发展"——增加了公立系统内的分层和残余化（residualisation），即"通过基于学术测试成绩来评估（公开奖励）和贬低（公开羞辱）学校"（p.434）。
 >
 > 3. **选择与隔离**：利益相关者认为"选择"的概念是公立学校教育的"死亡丧钟"——因为它迫使"学校之间为学生人数而相互竞争，校长们为薪水而竞争"，制造了一个"吸取系统生命的等级秩序"（Miriam & Kyle, bureaucrats, NSW，引自 p.437）。
 >
@@ -91,7 +93,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs [[New Public Management]] — NPM 是驱动学校自主权改革走向市场化的**制度逻辑**，学校自主权是这一逻辑在**学校治理结构**层面的具体体现
-> - vs [[School Leadership]] — 学校领导力是自主权改革效果的**中介变量**：学校领导力被认为是"决定学校自主权如何发挥作用的最强大的中介力量"（Caldwell, 2015; MGSE, 2013，引自 Keddie et al., 2020, p.434）
+> - vs [[School Leadership]] — 学校领导力是自主权改革效果的**中介[[Variable|变量]]**：学校领导力被认为是"决定学校自主权如何发挥作用的最强大的中介力量"（Caldwell, 2015; MGSE, 2013，引自 Keddie et al., 2020, p.434）
 
 ## 实证发现
 

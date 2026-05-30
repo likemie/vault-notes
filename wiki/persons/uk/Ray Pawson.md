@@ -14,6 +14,7 @@ tags:
 - methodology
 - region/uk
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Sage]]"
@@ -48,7 +49,7 @@ updated: '2026-05-19'
 > [!info] [[Meta-analysis|元分析]]的系统性简化
 > Pawson 对元分析的程序进行了严厉批评——论证在元分析综述的每一阶段，解释干预如何起作用的关键特征都被系统性地消除（Wrigley & McCusker, 2019, p. 122）：
 >
-> > "At every stage of the meta-analytic review, simplifications are made. Hypotheses are abridged, studies are dropped, programme details are filtered out, contextual information is eliminated, selected findings are utilized, averages are taken, estimates are made. … In this purgative progress the very features that explain how interventions work are eliminated from the reckoning. Complex programmes are cast as simple treatments. The way in which stakeholders think and change their thinking under an intervention is expunged." (Pawson, 2006, pp. 42–43, cited in Wrigley & McCusker, 2019, p. 122)
+> > "At every stage of the meta-analytic review, simplifications are made. [[Hypothesis|hypotheses]] are abridged, studies are dropped, programme details are filtered out, contextual information is eliminated, selected findings are utilized, averages are taken, estimates are made. … In this purgative progress the very features that explain how interventions work are eliminated from the reckoning. Complex programmes are cast as simple treatments. The way in which stakeholders think and change their thinking under an intervention is expunged." (Pawson, 2006, pp. 42–43, cited in Wrigley & McCusker, 2019, p. 122)
 
 
 > [!info] 控制组的模糊性

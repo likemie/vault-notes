@@ -4,7 +4,8 @@ aliases: ["主位与客位", "emic perspective", "etic perspective", "emic appro
 summary: "跨文化研究方法论的核心区分，emic 从文化内部理解意义与结构，etic 从文化外部进行比较分析，Li 将其作为理解东西方学习差异的方法论基础"
 type: concept
 tags: ["theme/cross-cultural-research", "field/research-methodology", "theme/cultural-psychology"]
-related_concepts: []
+related_concepts:
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Cultural Models]]"
 related_methods:
@@ -38,7 +39,7 @@ updated: 2026-05-25
 ## 概念演变
 
 > [!note]
-> - 传统跨文化研究长期由 etic 视角主导，尤其体现为以西方科学范式为模板的理论驱动、假设检验式研究模式（Li, 2012, p.77）。
+> - 传统跨文化研究长期由 etic 视角主导，尤其体现为以西方科学范式为模板的理论驱动、[[Hypothesis|假设]]检验式研究模式（Li, 2012, p.77）。
 > - 人类学研究率先系统性地引入了 emic 视角，由此极大增进了对世界各文化内在逻辑的理解（Li, 2012, p.77）。
 > - Li（2012）在研究中国与欧美学习信念差异时，有意识地采用 emic 视角作为方法论基础，借助 [[Prototype Methods]] 和 [[Cultural Models]] 等人类学方法，获取中英文母语者对学习的自由联想词汇，并通过聚类分析生成文化层面的学习模型（Li, 2012, p.77-85）。
 

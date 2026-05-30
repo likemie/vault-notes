@@ -17,7 +17,10 @@ tags:
 - subject/research-methodology
 related_concepts:
   - "[[Literature Review]]"
+  - "[[Causality]]"
   - "[[Stable Unit Treatment Value Assumption]]"
+  - "[[Variable]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
@@ -53,7 +56,7 @@ updated: '2026-05-18'
 
 > [!info] 研究方法
 > - **方法**：反思性论文（reflective essay），基于 35 年编辑经验和方法论[[Literature Review|文献综述]]
-> - **数据来源**：作为创始编辑经手的数百篇评估研究论文、因果推断方法论文献（Neyman, Rubin, Holland, Pearl, [[Campbell Collaboration|Campbell]], Freedman, Rosenbaum 等）、Berk 本人的研究项目（Berk, 2004, 2005, 2007）
+> - **数据来源**：作为创始编辑经手的数百篇评估研究论文、[[Causality|因果推断]]方法论文献（Neyman, Rubin, Holland, Pearl, [[Campbell Collaboration|Campbell]], Freedman, Rosenbaum 等）、Berk 本人的研究项目（Berk, 2004, 2005, 2007）
 
 ## 核心论证
 
@@ -78,7 +81,7 @@ updated: '2026-05-18'
 >
 > ### 4. 匹配作为替代方法
 >
-> 匹配回避了因果建模的模型选择问题（匹配变量在不参考结果变量的情况下确定），但需要满足与随机实验相同的假设（无干扰、条件独立于未观测变量）——Berk 警告这些假设在匹配应用中也常被违反（Berk, 2011, pp.197–199）。
+> 匹配回避了因果建模的模型选择问题（匹配[[Variable|变量]]在不参考结果变量的情况下确定），但需要满足与随机实验相同的[[Hypothesis|假设]]（无干扰、条件独立于未观测变量）——Berk 警告这些假设在匹配应用中也常被违反（Berk, 2011, pp.197–199）。
 >
 > ### 5. [[Meta-analysis|元分析]]的过度评价
 >
@@ -126,7 +129,7 @@ updated: '2026-05-18'
 > - 作为编辑反思而非系统综述，论文的方法论批评虽然有 35 年编辑经验支撑，但属于个人观察而非实证研究
 > - Berk 对 [[Randomised Controlled Trials|RCT]] 的辩护（"防止统计错误"）与批判（"集群随机化中的 [[Stable Unit Treatment Value Assumption|SUTVA]] 违反"）之间存在张力——他的"铜标准"（bronze standard, Berk 2005）比喻试图调和二者，但在本文中未充分展开
 > - 提出的对策（中立专家审查、团队评估）偏重精英专家模式，未回应 Cowen (2019) 后来提出的官僚知识问题和制度激励问题
-> - 论文发表于 2011 年，此后因果推断方法（如双重差分、合成控制、断点回归设计）在经济学中的发展可能已部分回应了 Berk 对[[Causal Modeling|因果建模]]的批评
+> - 论文发表于 2011 年，此后[[Causality|因果推断]]方法（如双重差分、合成控制、断点回归设计）在经济学中的发展可能已部分回应了 Berk 对[[Causal Modeling|因果建模]]的批评
 
 ## 来源
 

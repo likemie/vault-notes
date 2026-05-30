@@ -11,6 +11,7 @@ tags:
 - region/germany
 related_concepts:
   - "[[Bildung]]"
+  - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
@@ -50,7 +51,7 @@ updated: '2026-05-19'
 > **传统模型（经典版教学三角）：**
 > - "课程"（Curriculum）扮演关键角色，是"教师"和"学习者"之间的交换对象
 > - 教育被理解为知识与技能在拥有者与需掌握者之间的传递
-> - "教学"等同于"学习"——假设教师教了什么学生就学到了什么
+> - "教学"等同于"学习"——[[Hypothesis|假设]]教师教了什么学生就学到了什么
 > - "教育"（educating）被局限于道德领域或礼仪培养，与教学分离
 >
 > **修正模型：**

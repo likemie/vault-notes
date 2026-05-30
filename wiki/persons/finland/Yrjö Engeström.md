@@ -13,6 +13,7 @@ tags:
   - discipline/organizational-studies
 related_concepts:
   - "[[Test-Based Accountability]]"
+  - "[[Hypothesis]]"
   - "[[Learner-Centred Education]]"
   - "[[Transformative Change]]"
 related_theories:
@@ -82,7 +83,7 @@ Engeström（1987）认识到人类行为与所处社群之间的复杂交互关
 
 ### 多系统互动与矛盾作为变革动力
 
-Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边界的过程。其核心假设包括（Wang & McLaughlin, 2025, pp.590-591）：
+Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边界的过程。其核心[[Hypothesis|假设]]包括（Wang & McLaughlin, 2025, pp.590-591）：
 
 1. 活动系统是开放的、动态的——一个活动系统可以与其他系统互动并吸收新元素。
 2. 当不同系统互动时，矛盾（contradictions）会出现——这些矛盾既可以是变革的障碍，也可以是扩展性改造的动力。

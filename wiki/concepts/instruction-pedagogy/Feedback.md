@@ -17,6 +17,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Classroom Management]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -86,7 +87,7 @@ updated: 2026-05-22
 > - [[John Hattie|Hattie]] 的论述把反馈放在高重要性位置，并把它理解为推动学习改进的核心信息机制（Hattie, 2015, p.86）。
 > - Håkansson（2015）的研究综合没有把反馈单独拿出来计算[[Effect Size|效应量]]，但明确把“及时正确反馈”和“强调知识内容中的关键原则”列为[[Classroom Management|课堂管理]]与高质量教学的重要组成部分（Håkansson, 2015, p.592）。
 > - Laursen（2015）指出，丹麦 SFI 研究没有发现其问项所测的反馈行为显著提升学习，但更合理的解释是测量口径没有抓到反馈最关键的“告诉学生如何改进”这一维度，而不是反馈本身无效（Laursen, 2015, p.39）。
-> - Lekhal 等人的性别差异研究提示，反馈变量的解释力会随测量方式变化；这说明反馈不是一个“只要出现就自动有效”的单一因素，而高度依赖情境和操作化（Lekhal et al., 2015, pp.80, 83-85）。
+> - Lekhal 等人的性别差异研究提示，反馈[[Variable|变量]]的解释力会随测量方式变化；这说明反馈不是一个“只要出现就自动有效”的单一因素，而高度依赖情境和操作化（Lekhal et al., 2015, pp.80, 83-85）。
 
 > [!info] 数据基础与测量问题
 > Nielsen & Klitmøller（2021）对 Hattie 反馈综合的底层数据做了更细的拆解。他们指出，Hattie（2009）的反馈综合基于 23 项[[Meta-analysis|元分析]]、约 67,931 名参与者，但其中贡献最大的 5 项元分析里，只有 1 项真正研究的是与 Hattie 自己定义一致的“反馈干预”（Nielsen & Klitmøller, 2021, pp.9-12）。

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Bildung]]"
   - "[[Technical Rationality]]"
+  - "[[Variable]]"
   - "[[Surface and Deep Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Didaktik]]"
@@ -74,7 +75,7 @@ updated: '2026-05-18'
 > 5. 评价不是教育之后发生的事，教育直接被定义为评价本身
 > 6. 教学被天真地概念化为"干预"，学习被概念化为可隔离的"效果/成就"（Rømer, 2018, p.2-5）
 >
-> ### 论证二：因变量（学习）的定义问题
+> ### 论证二：因[[Variable|变量]]（学习）的定义问题
 > 1. [[John Hattie|Hattie]] 区分了[[Surface and Deep Learning|表层学习]]、深层学习和建构性理解三个层次，但没有认真讨论它们之间的概念关系及如何对应实证分析
 > 2. 作为 60,000 项评价发现的[[Meta-analysis|元分析]]综合，因变量"学业成就"如何被操作化、测量的是哪个层次的学习——无人知晓
 > 3. 评价概念缩小了学习，科学/哲学概念扩大了学习——评价在此支配，因此是狭义的评量性学习概念决定了语言游戏的顺序

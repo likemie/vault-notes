@@ -11,7 +11,8 @@ tags:
   - quantitative-research
   - survey
   - data-collection
-related_concepts: []
+related_concepts:
+  - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -51,7 +52,7 @@ updated: 2026-05-30
 > [!tip]
 > - **横截面研究（Cross-Sectional Study）** 在单一时间点收集数据，提供总体的快照式描述。
 > - **纵向研究（Longitudinal Study）** 在多个时间点收集数据，追踪态度、行为或趋势的变化。
-> - vs [[Experimental Research|实验研究]] — 调查收集的是自然状态下的数据，不涉及处理操纵，因而不适用于直接的因果推断。
+> - vs [[Experimental Research|实验研究]] — 调查收集的是自然状态下的数据，不涉及处理操纵，因而不适用于直接的[[Causality|因果推断]]。
 
 ## 适用场景
 
@@ -65,7 +66,7 @@ updated: 2026-05-30
 > [!warning]
 > - 调查结果受限于问卷设计和抽样质量；低回复率可能导致无答复偏差。
 > - 自我报告数据可能受社会期望偏差影响。
-> - 横截面设计难以建立因果关系。
+> - 横截面设计难以建立[[Causality|因果关系]]。
 
 ## 来源
 

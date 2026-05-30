@@ -17,6 +17,7 @@ tags:
 - region/us
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Variable]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
 related_theories:
@@ -70,7 +71,7 @@ updated: '2026-05-18'
 > - 阶段对比（phase contrasts）的数量和设计
 > - 每个阶段的数据点数量（需足够以建立稳定的基线模式）
 > - 结果是否被可靠测量（信度证据）
-> - 研究者是否主动操纵了自变量
+> - 研究者是否主动操纵了自[[Variable|变量]]
 >
 > ### [[Single-Case Design|SCD]] Review Guide（审查指南）
 > 一个系统化数据库工具，训练有素且经认证的审查员使用它来（Hitchcock et al., 2015, pp.464–465）：
@@ -111,7 +112,7 @@ updated: '2026-05-18'
 > Hitchcock et al. (2015) 整篇评论的核心论点是澄清一个误解：Maggin et al. (2013) 在比较 7 种 [[21st Century Skills and Competencies Discourse|SCD]] 评估量规时，仅审查了 [[Single-Case Design|SCD]] 设计标准文件本身，得出了"[[What Works Clearinghouse|WWC]] 标准未捕获推广性细节"的结论。Hitchcock 等回应：
 >
 > 1. WWC 设计标准**不能孤立看待**——它们必须与审查协议和 SCD Review Guide 一起理解（p.461）
-> 2. Review Guide 系统地捕获了 Maggin et al. (2013) 列出的所有推广性标准：基线描述、因变量[[Definition of Terms|操作性定义]]、自变量描述、参与者描述、场所描述（p.465, Table 1）
+> 2. Review Guide 系统地捕获了 Maggin et al. (2013) 列出的所有推广性标准：基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、自变量描述、参与者描述、场所描述（p.465, Table 1）
 > 3. 推广性细节**不被评分**（即不设"是否足够好"的阈值）而是**被详细描述**，以便消费者自行判断（p.466）
 > 4. 唯一的例外是 5-3-20 规则，它提供了证据是否被充分重复的阈值（p.466）
 

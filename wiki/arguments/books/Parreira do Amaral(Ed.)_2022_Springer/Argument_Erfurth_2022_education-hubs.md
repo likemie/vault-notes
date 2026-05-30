@@ -17,6 +17,7 @@ related_concepts:
   - "[[Cultural Diplomacy]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Cultural Political Economy]]"
 related_methods:
@@ -173,7 +174,7 @@ issuing_organization: ""
 > [!warning]
 
 **作者自述局限**（pp.212–213）：
-- 仅聚焦新加坡和阿联酋两个案例，限制了规模和适用范围，无法对教育枢纽现象做出一般性假设
+- 仅聚焦新加坡和阿联酋两个案例，限制了规模和适用范围，无法对教育枢纽现象做出一般性[[Hypothesis|假设]]
 - 主要依赖政策文件作为单一来源，缺少更广泛的实证基础
 
 **读者批评**：

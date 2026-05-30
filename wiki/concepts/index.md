@@ -175,7 +175,7 @@ Total entries: **382**
 - [[Fourth Generation University]] — Malkov et al.（2024）提出的大学代际演化框架，第四代大学在教学、研究与经济参与之外强调直接参与复杂社会挑战的解决，哥伦比亚大学将其类似理念称为第四宗旨（Fourth Purpose）
 - [[Further Education]] — 位于义务教育和高等教育之外的中学后继续教育形式，常与成人学习、职业培训、非学位证书和终身学习体系相连
 - [[Global Citizenship]] — OBrien 提出的包含数字素养、文化素养和社会沟通素养的分析框架，经 Spronken-Smith 补充环境素养后，在博士毕业生特质分类中重铸为独立域，强调全球就业环境中跨文化沟通、社会正义与环境意识的能力组合
-- [[Global Regionalisms in Higher Education]] — 指高等教育被整合进跨国区域政治经济项目并成为区域合作、竞争和身份建构关键支柱的现象。
+- [[Global Regionalisms]] — 指高等教育被整合进跨国区域政治经济项目并成为区域合作、竞争和身份建构关键支柱的现象。
 - [[Global Universities Rankings]] — 对高等教育机构进行比较性评估和排序的工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。
 - [[Graduate Attributes]] — 大学认定学生在学期间应发展出的品质、技能和理解，涵盖本科与博士两个层次，用于组织课程、评价培养目标和回应外部问责。
 - [[Industry Advisory Board]] — 产学合作中最轻量的关系制度化机制，企业代表定期聚会为大学研究方向和人才培养提供意见，低投入高回报但不直接产出研究或培训项目

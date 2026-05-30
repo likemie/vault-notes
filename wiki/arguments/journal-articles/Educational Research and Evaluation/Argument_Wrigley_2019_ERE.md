@@ -19,8 +19,10 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
+  - "[[Causality]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -56,7 +58,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：[[Philosophical Analysis in Education|哲学分析]]（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提假设
+> - 方法：[[Philosophical Analysis in Education|哲学分析]]（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提[[Hypothesis|假设]]
 > - 案例研究：以 EEF Toolkit 的"体育参与"（Sports Participation）条目为深度案例，追踪其从原始研究→[[Meta-analysis|元分析]]→[[Meta-meta-analysis|元-元分析]]的三级证据聚合过程
 > - 文献批判性综述：综合 Bhaskar、Pawson、Thomas、Simpson、Biesta 等学者的批判资源
 
@@ -84,7 +86,7 @@ updated: '2026-05-18'
 >
 > Ginsburg & Smith (2016, p. ii) 识别了数学课程 RCT 的 12 种威胁，发现 27 项高评分 RCT 中有 26 项存在多重严重问题，"即使单一威胁产生的误差幅度也常常大于 RCT 处理的平均[[Effect Size|效应量]]"（Wrigley & McCusker, 2019, p. 115）。
 >
-> ### 5. 经验主义假设与因果性缺失
+> ### 5. 经验主义[[Hypothesis|假设]]与因果性缺失
 >
 > EBT 隐含的经验主义假设：规则性足以追求"什么有效"。但 Hume (1748/1975) 早已指出重复发生永远不能建立因果性。Gorard & See (2013, p. 22) 发现"研究报告中频繁使用强因果术语描述其发现，却没有任何明显的理由"（Wrigley & McCusker, 2019, p. 116）。
 >
@@ -111,7 +113,7 @@ updated: '2026-05-18'
 >
 > - 0.17 来自平均四个效应量（Lewis 2004: 0.10; Shulruf 2010: 0.15; Newman et al. 2010: 0.19 学业 + 0.80 数学）
 > - Newman et al. (2010) 中 0.80 的效应量来自 [[Playing for Success]]——一项在著名足球场设立学习支持中心的高度资源密集型项目（一对一辅导、专用 ICT 套件、个性化课程），远非普通"体育参与"
-> - Shulruf (2010) 的主要结论恰恰是**没有稳健证据表明课外活动与学生成果之间存在因果关系**（p. 607）
+> - Shulruf (2010) 的主要结论恰恰是**没有稳健证据表明课外活动与学生成果之间存在[[Causality|因果关系]]**（p. 607）
 > - Lewis (2004) 明确警告"自我选择偏差"：参与活动的儿童可能与不参与的儿童根本不同
 >
 > > "At every stage of the meta-analytic review, simplifications are made. Hypotheses are abridged, studies are dropped, programme details are filtered out, contextual information is eliminated, selected findings are utilized, averages are taken, estimates are made." (Pawson, 2006, pp. 42–43, cited on p. 122)

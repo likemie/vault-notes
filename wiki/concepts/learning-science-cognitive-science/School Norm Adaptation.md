@@ -12,6 +12,7 @@ tags:
 - level/k12
 - region/norway
 related_concepts:
+  - "[[Variable]]"
   - "[[Gender Differences in Academic Achievement]]"
   - "[[Professional Judgment]]"
   - "[[Motivation and Work Effort]]"
@@ -37,7 +38,7 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - 在近期研究中，学校规范适应被视为连接在校行为与学业结果的可干预过程变量。
+> - 在近期研究中，学校规范适应被视为连接在校行为与学业结果的可干预过程[[Variable|变量]]。
 
 ## 核心要素
 
@@ -49,12 +50,12 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - 与 [[Gender Differences in Academic Achievement]] 相比，它是过程变量；与 [[Professional Judgment]] 相比，它是学生行为匹配变量。
+> - 与 [[Gender Differences in Academic Achievement]] 相比，它是过程[[Variable|变量]]；与 [[Professional Judgment]] 相比，它是学生行为匹配变量。
 
 ## 理论基础
 
 > [!info] 理论基础
-> - 在社会认知框架下，学校规范适应可被理解为个体行为与情境互动生成的过程变量（Lekhal_2015_Paideia）。
+> - 在社会认知框架下，学校规范适应可被理解为个体行为与情境互动生成的过程[[Variable|变量]]（Lekhal_2015_Paideia）。
 
 ## 实证发现
 

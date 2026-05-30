@@ -24,6 +24,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[International Education]]"
   - "[[Refined Mastery]]"
+  - "[[Hypothesis]]"
   - "[[Quality Education]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
@@ -145,7 +146,7 @@ Ryan（2010, p.41）指出，此后的许多学者和教育开发者（education
 
 #### 2c. 两种形态的共同本质
 
-**两者共享一个问题：** 都假设"中国学习者"是一个同质的、可定义的整体。把"被动、缺乏批判思维"换成"勤奋、合作性强"，只是换了一个更友善的标签，本质化（essentializing）的操作没有变——仍然是从文化标签推导个体特征，仍然忽略了阶层、性别、地区、个体差异。
+**两者共享一个问题：** 都[[Hypothesis|假设]]"中国学习者"是一个同质的、可定义的整体。把"被动、缺乏批判思维"换成"勤奋、合作性强"，只是换了一个更友善的标签，本质化（essentializing）的操作没有变——仍然是从文化标签推导个体特征，仍然忽略了阶层、性别、地区、个体差异。
 
 > **这一步的逻辑结论：** 缺陷型和优势型刻板印象是同一枚硬币的两面。正如 Ryan & Louie（2005, p.5）所警告的：我们需要的是**打破**"中国学习者"这个单一范畴，而不是用一套新神话替换旧神话。
 

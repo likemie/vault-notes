@@ -12,7 +12,9 @@ tags:
 - causal-inference
 - research-methodology
 related_concepts:
+  - "[[Causality]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Variable]]"
   - "[[Postpositivism]]"
   - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -43,7 +45,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> Campbellian 效度框架是一个关于实验设计中因果推断效度的[[Luhmann's Systems Theory|系统理论]]框架，其核心主张是：任何能够产生因果证据的实验设计都需要通过排除对内部效度的威胁来建立因果关系，然后才能进一步考虑这种因果关系的推广范围（Hitchcock et al., 2015, p.462）。
+> Campbellian 效度框架是一个关于实验设计中[[Causality|因果推断]]效度的[[Luhmann's Systems Theory|系统理论]]框架，其核心主张是：任何能够产生因果证据的实验设计都需要通过排除对内部效度的威胁来建立因果关系，然后才能进一步考虑这种因果关系的推广范围（Hitchcock et al., 2015, p.462）。
 >
 > > "The Campbellian validity framework (Shadish 1995; Shadish et al. 2002) applies to a broad number of designs that are capable of yielding causal evidence." (Hitchcock et al., 2015, p.462)
 >
@@ -54,7 +56,7 @@ updated: '2026-05-18'
 ## 理论内部结构
 
 > [!abstract] 内部效度（Internal Validity）
-> **定义**：内部效度指干预与结果变量之间因果关系的成立程度——即我们能否确信观察到的变化确实是由干预引起的（Shadish et al., 2002; Hitchcock et al., 2015, p.461）。
+> **定义**：内部效度指干预与结果[[Variable|变量]]之间[[Causality|因果关系]]的成立程度——即我们能否确信观察到的变化确实是由干预引起的（Shadish et al., 2002; Hitchcock et al., 2015, p.461）。
 >
 > > "Internal validity, or the degree to which a causal relationship exists between a treatment and outcome variable is valid, is the sin qua non of [[Experimental Research|experimental design]]." (Hitchcock et al., 2015, p.461, citing Shadish et al., 2002)
 >
@@ -119,7 +121,7 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究范式
-> - **认识论立场**：Campbellian 框架植根于[[Postpositivism|后实证主义]]传统——它接受因果推断的可行性，但要求通过系统性排除威胁来逐步逼近，而非一次性"证明"
+> - **认识论立场**：Campbellian 框架植根于[[Postpositivism|后实证主义]]传统——它接受[[Causality|因果推断]]的可行性，但要求通过系统性排除威胁来逐步逼近，而非一次性"证明"
 > - **对实验设计的统一性**：该框架的关键洞察是不同实验设计（[[Randomised Controlled Trials|RCT]]、准实验、[[21st Century Skills and Competencies Discourse|SCD]]）共享相同的因果推断逻辑——都通过排除替代解释来建立因果关系——因此可以被统一的理论框架所涵盖（Hitchcock et al., 2015, p.462）
 > - **常用方法**：RCT、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design]]——该框架为所有这些设计提供统一的效度评估语言
 

@@ -17,6 +17,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Effective Teaching]]"
+  - "[[Hypothesis]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
 related_theories:
@@ -100,7 +101,7 @@ updated: '2026-05-18'
 > [[John Hattie|Hattie]] (2015, p.84) 呈现了两种解读之间的张力：
 >
 > - **表面解读**：PBL 总体[[Effect Size|效应量]]低（d≈0.08–0.24），不是一种有效的教学方法
-> - **深层解读**：PBL 的失败更可能是引入时机的问题——在学生在具备足够表层知识之前引入 PBL。高年级学生可能比一年级学生从 PBL 中获益更多。这仍是一个需要进一步研究的假设
+> - **深层解读**：PBL 的失败更可能是引入时机的问题——在学生在具备足够表层知识之前引入 PBL。高年级学生可能比一年级学生从 PBL 中获益更多。这仍是一个需要进一步研究的[[Hypothesis|假设]]
 >
 > Gijbels et al. (2005) 发现随着知识增加 PBL 效果反而下降——这与"先备知识不足"的假说存在张力（Hattie, 2015, p.85）。
 

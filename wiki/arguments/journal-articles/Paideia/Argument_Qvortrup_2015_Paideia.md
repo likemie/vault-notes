@@ -17,8 +17,10 @@ tags:
 - stance/support
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Variable]]"
   - "[[Surface and Deep Learning]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"
 related_theories:
@@ -50,7 +52,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Visible Learning]] — 论文以 [[John Hattie|Hattie]] (2009) 的 800+ [[Meta-analysis|元分析]]综合为讨论对象，支持其作为实证统计教育研究转向中的代表性成果，但同时指出其因变量"学习结果"需要更清晰的概念化（Qvortrup, 2015, pp.22, 27–29）
+> - [[Visible Learning]] — 论文以 [[John Hattie|Hattie]] (2009) 的 800+ [[Meta-analysis|元分析]]综合为讨论对象，支持其作为实证统计教育研究转向中的代表性成果，但同时指出其因[[Variable|变量]]"学习结果"需要更清晰的概念化（Qvortrup, 2015, pp.22, 27–29）
 > - [[Meta-analysis]] — 论文使用 Gene Glass (1976/2000) 对元分析的辩护来回应"苹果和橙子"或"梨和香蕉"问题：所有比较都发生在不完全相同的现象之间，关键在于透明地说明变异维度和选择适当的概括层次（Qvortrup, 2015, pp.24–26）
 > - [[Surface and Deep Learning]] — Qvortrup 承认 Hattie 区分表层、深层和概念性知识，但认为 Visible Learning 的总体结果多停留在抽象学习结果层面，若要判断特定知识层次的效果，必须细读具体分析（Qvortrup, 2015, pp.27–29）
 > - [[Dynamic Knowledge and Learning Model]] — Qvortrup 在文章末尾转向 Gregory Bateson 的学习与沟通理论，将知识区分为一阶到四阶，并强调这些知识形式不是静态分类，而是动态、反身地相互作用（Qvortrup, 2015, pp.29–32）
@@ -59,7 +61,7 @@ updated: '2026-05-18'
 
 > [!info] 研究方法
 > - 方法：讨论论文（discussion paper）与概念分析。
-> - 分析策略：先重建实证统计教育研究的历史背景，再分类回应 [[Visible Learning]] 批评，最后围绕"学习结果"这一因变量提出概念重建方案（Qvortrup, 2015, pp.23–32）。
+> - 分析策略：先重建实证统计教育研究的历史背景，再分类回应 [[Visible Learning]] 批评，最后围绕"学习结果"这一因[[Variable|变量]]提出概念重建方案（Qvortrup, 2015, pp.23–32）。
 > - 数据来源：[[John Hattie|Hattie]] (2009, 2013)、Glass (1976, 2000)、Helmke (2013)、Hattie & Yates (2014)、Bereiter (2002)、Bateson (2000)、Ryle (1949) 等二手理论与方法论文献；没有独立收集新的实证数据（Qvortrup, 2015, p.33）。
 
 ## 核心论证
@@ -69,7 +71,7 @@ updated: '2026-05-18'
 >
 > 2. **论证步骤**：
 >    - **步骤一：实证转向不是 [[John Hattie|Hattie]] 发明的。** 德语／受德国影响的教育研究从精神科学教育学转向结果导向研究，与 TIMSS、[[PISA]] 等国际比较评价有关；英美传统中，Glass 早在 1976 年已提出[[Meta-analysis|元分析]]，以回应教育研究结果太多却难以综合的问题（Qvortrup, 2015, pp.23–24）。
->    - **步骤二：三类常见批评可以被回应。** Hattie 明确区分相关与因果，也把证据理解为"智能问题解决的假设"而非行动规则；方法论和情境批评的核心不是原则上不能比较，而是必须选择透明且适当的概括层次（Qvortrup, 2015, pp.25–26）。
+>    - **步骤二：三类常见批评可以被回应。** Hattie 明确区分相关与因果，也把证据理解为"智能问题解决的[[Hypothesis|假设]]"而非行动规则；方法论和情境批评的核心不是原则上不能比较，而是必须选择透明且适当的概括层次（Qvortrup, 2015, pp.25–26）。
 >    - **步骤三：真正未充分讨论的问题是学习结果本身。** Hattie 使用 achievement、student achievement、learning、study outcome 等不同词汇，且学习与学习结果并非良定义概念；[[Effect Size|效应量]]可以比较相对效果，但由此得到的是抽象学习结果，难以说明测量的是表层知识、深层理解、社会能力还是概念学习（Qvortrup, 2015, p.27）。
 >    - **步骤四：需要从分类转向动态模型。** Hattie 借 Popper、Bereiter、Bloom 和 SOLO 来区分知识层次，但这些框架之间的对应关系不清；Qvortrup 因此提出以 Bateson 为起点的动态模型，说明教学不是只刺激某一种知识形式，而是启动一连串学习过程，使多种知识形式相互影响（Qvortrup, 2015, pp.29–32）。
 >
@@ -82,7 +84,7 @@ updated: '2026-05-18'
 > - 多数关于教育干预与学习结果关系的评价和测试方法主要有效测量表层特征，对[[Surface and Deep Learning|深层学习]]有一定测量能力，但很少有效测量学生从课堂经验中建构出的概念表征；Qvortrup 将这视为 Hattie 自己也承认的限制（Qvortrup, 2015, p.29）。
 > - Hattie 关于 [[Problem-Based Learning|PBL]] 的例子显示，同一教学法可能对不同知识层次产生不同效果：PBL 对表层知识的效果可能很低甚至负面，但在学生已有事实性知识和技能时，可能促进深层知识（Qvortrup, 2015, p.28）。
 > - Qvortrup 的动态模型将知识分为四阶：一阶"知道某事"（knowing-that）、二阶"知道如何使用知识"（knowing-how）、三阶"知道为什么某物得以被如此构成"（knowing-why）、四阶"知道知识边界或共同知识视域"（Qvortrup, 2015, pp.31–32）。
-> - 文章认为未来[[Meta-analysis|元分析]]可能朝 Glass 设想的复杂数据景观发展，即由原始数据档案呈现自变量、因变量和中介变量之间的复杂关系，而不只是输出单一平均效应（Qvortrup, 2015, p.32）。
+> - 文章认为未来[[Meta-analysis|元分析]]可能朝 Glass 设想的复杂数据景观发展，即由原始数据档案呈现自[[Variable|变量]]、因变量和中介变量之间的复杂关系，而不只是输出单一平均效应（Qvortrup, 2015, p.32）。
 
 ## 关键引用
 

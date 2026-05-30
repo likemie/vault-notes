@@ -13,9 +13,11 @@ tags:
 - evidence-based-policy
 - critical-discourse-analysis
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Justified Warrants]]"
   - "[[Constructivist Paradigm]]"
   - "[[Evidence-Based Education]]"
+  - "[[Variable]]"
   - "[[Moral Sidestep]]"
 related_theories: []
 related_methods:
@@ -39,7 +41,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> Van Leeuwen（2007）的合法化理论（Legitimation Theory）提出：**证据是否被接受并行动，取决于其是否与接收方现有的社会价值结构和道德假设对齐并在其中被"合法化"（legitimated）。**
+> Van Leeuwen（2007）的合法化理论（Legitimation Theory）提出：**证据是否被接受并行动，取决于其是否与接收方现有的社会价值结构和道德[[Hypothesis|假设]]对齐并在其中被"合法化"（legitimated）。**
 >
 > > "Evidence will be interpreted as legitimate and more likely accepted and acted on if it aligns with and is beneficial towards existing social values."（Bainbridge et al., 2022, p.9，综述 Van Leeuwen, 2007）
 >
@@ -89,7 +91,7 @@ updated: '2026-05-18'
 > [!info] 认识论立场
 > 合法化理论属于**批判话语分析（Critical Discourse Analysis）**传统。其认识论立场是[[Constructivist Paradigm|社会建构主义]]——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
 >
-> 这与 [[Evidence-Based Education|证据本位教育]] 中隐含的实证主义认识论形成张力——后者假定证据质量本身决定其政策影响力，而合法化理论揭示价值对齐可能是更重要的变量（Bainbridge et al., 2022, p.9, 27）。
+> 这与 [[Evidence-Based Education|证据本位教育]] 中隐含的实证主义认识论形成张力——后者假定证据质量本身决定其政策影响力，而合法化理论揭示价值对齐可能是更重要的[[Variable|变量]]（Bainbridge et al., 2022, p.9, 27）。
 >
 
 ## 争议与批评
@@ -110,7 +112,7 @@ updated: '2026-05-18'
 > [!success] 应用领域
 > - [[Grammar School]] — 文法学校的 [[Ofsted]] 评级通过权威合法化 + 道德价值合法化被转化为"好学校"话语
 > - [[Moral Sidestep]] — 合法化理论解释了道德侧步为何有效：证据如果不能在接收方的价值框架内被合法化，会被道德话语替代
-> - [[Evidence-Based Education]] — 合法化理论对 EBE 的隐含前提（证据质量 → 政策影响力）提出挑战：合法化过程可能是证据到政策转化的关键中介变量
+> - [[Evidence-Based Education]] — 合法化理论对 EBE 的隐含前提（证据质量 → 政策影响力）提出挑战：合法化过程可能是证据到政策转化的关键中介[[Variable|变量]]
 >
 
 ## 来源

@@ -8,6 +8,7 @@ tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Literature Review]]"
   - "[[Research Topic]]"
+  - "[[Variable]]"
   - "[[Recommendations for Practice]]"
 related_theories: []
 related_methods:
@@ -78,7 +79,7 @@ updated: 2026-05-30
 > - 准备学术会议报告或期刊投稿，需要组织[[Literature Review|文献综述]]的结构
 > - 自身研究跨越多个文献体系，需要理清不同体系之间的关系
 
-文献地图既适用于[[Quantitative Research|量化研究]]（帮助按变量组织文献），也适用于[[Qualitative Research|质性研究]]（帮助按主题或现象组织文献），以及[[Mixed Method and Multi-method Research|混合方法研究]]。
+文献地图既适用于[[Quantitative Research|量化研究]]（帮助按[[Variable|变量]]组织文献），也适用于[[Qualitative Research|质性研究]]（帮助按主题或现象组织文献），以及[[Mixed Method and Multi-method Research|混合方法研究]]。
 
 ## 实践建议
 

@@ -16,6 +16,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Logic Model]]"
+  - "[[Variable]]"
   - "[[Learning Analytics]]"
   - "[[Preregistration]]"
 related_theories: []
@@ -67,7 +68,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 > - **测量工具**：必须独立于项目开发者或研究者
 > - **样本量和持续时间**：需要足够的样本量和研究持续时间（Evidence for ESSA 要求最少 12 周）
 > - **聚类分析**：对学校或班级层面的干预，必须在聚类层面进行统计分析（如 HLM，Raudenbush & Bryk, 2002）——通常需要 40–50 所学校
-> - **前测匹配**：准实验和[[Observational and Correlational Research|相关性研究]]要求在成就和人口统计变量上前测匹配
+> - **前测匹配**：准实验和[[Observational and Correlational Research|相关性研究]]要求在成就和人口统计[[Variable|变量]]上前测匹配
 
 ## 激励机制
 

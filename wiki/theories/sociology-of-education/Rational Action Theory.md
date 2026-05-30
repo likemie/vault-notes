@@ -1,5 +1,5 @@
 ---
-title: Rational Action Theory in Education
+title: Rational Action Theory
 aliases:
   - 教育中的理性行动理论
 summary: "以相对风险规避解释不同阶层教育选择差异的教育分层理论，强调家庭背景如何通过成本、收益和风险判断影响升学决策"
@@ -11,6 +11,7 @@ tags:
   - region/uk
   - level/higher-ed
 related_concepts:
+  - "[[Hypothesis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Habitus]]"
   - "[[Champ]]"
@@ -57,7 +58,7 @@ updated: 2026-05-18
 
 
 > [!abstract] 工具理性假设
-> RAT 假设行动者基于工具性效用计算（手段-目的理性）做决策，追求以最小成本达成目的（郑雅君，2023）。这一假设正是后续文化社会学批评的焦点。
+> RAT [[Hypothesis|假设]]行动者基于工具性效用计算（手段-目的理性）做决策，追求以最小成本达成目的（郑雅君，2023）。这一假设正是后续文化社会学批评的焦点。
 >
 
 ## 局限与批评

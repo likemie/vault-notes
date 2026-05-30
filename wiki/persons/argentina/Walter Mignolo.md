@@ -17,6 +17,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
   - "[[Ganz-Methode]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Corporate University]]"
   - "[[Life Power]]"
   - "[[Social Museology]]"
@@ -79,7 +80,7 @@ updated: 2026-05-19
 ### 2002 — "The Geopolitics of Knowledge and the Colonial Difference"
 
 - APA：Mignolo, W. D. (2002). The geopolitics of knowledge and the colonial difference. *The South Atlantic Quarterly, 101*(1), 57–96.
-- 核心内容：首次以文章形式系统阐述知识地缘政治的理论立场。提出"知识地缘政治通过殖民差异和帝国差异在历史中展开"这一核心命题，并论证社会科学需要"去殖民化"（decolonization）而非仅仅"开放"（opening）——开放只是维持其全球学术事业的垄断地位。
+- 核心内容：首次以文章形式系统阐述知识地缘政治的[[Theoretical Standpoint|理论立场]]。提出"知识地缘政治通过殖民差异和帝国差异在历史中展开"这一核心命题，并论证社会科学需要"去殖民化"（decolonization）而非仅仅"开放"（opening）——开放只是维持其全球学术事业的垄断地位。
 - 思想位置：代表理论立场的精炼和宣言性表达。被 Parreira do Amaral (2022, p.38) 作为新知识地缘政治两大分析支柱之一的核心引用。
 
 ### 2003 — "Globalization and the Geopolitics of Knowledge"

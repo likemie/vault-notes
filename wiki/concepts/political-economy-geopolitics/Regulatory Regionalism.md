@@ -13,7 +13,7 @@ tags:
 - governance
 related_concepts:
   - "[[Performance Indicators]]"
-  - "[[Global Regionalisms in Higher Education]]"
+  - "[[Global Regionalisms]]"
   - "[[Innovation Ecosystem]]"
   - "[[Selectivity]]"
   - "[[Geopolitics of Knowledge]]"
@@ -59,7 +59,7 @@ updated: '2026-05-18'
 > [!note]
 > - **Jayasuriya（2010）**：提出监管区域主义概念框架，分析超国家组织如何通过监管机制而非传统政府间谈判来行使治理权力
 > - **Robertson（2010）**：在欧盟语境中发展了"监管型国家区域主义"（regulatory state regionalism）概念，揭示欧盟如何通过博洛尼亚进程等机制构建新的高等教育治理模式
-> - **Robertson et al.（2016）**：在 [[Global Regionalisms in Higher Education]] 中进一步将高等教育定位为区域地缘政治想象的核心支柱，监管区域主义成为理解区域高等教育整合的关键分析工具（Thompson & Parreira do Amaral, 2022, p.11）
+> - **Robertson et al.（2016）**：在 [[Global Regionalisms]] 中进一步将高等教育定位为区域地缘政治想象的核心支柱，监管区域主义成为理解区域高等教育整合的关键分析工具（Thompson & Parreira do Amaral, 2022, p.11）
 > - **Rambla（2022）**：通过对 [[Innovation Union]] 和 [[EU Skills Agenda]] 的分析，为监管区域主义提供了具体的经验案例——EUROSTAT 的区域创新记分牌和 NUTS2 [[Performance Indicators|教育指标]]如何通过"治理的间接性"塑造成员国和地方层面的政策选择与认知框架（p.165–175）
 
 ## 核心要素
@@ -86,7 +86,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Global Regionalisms in Higher Education]] — Robertson et al.（2016）的框架为理解监管区域主义提供了宏观语境：高等教育被整合进大规模政治经济区域整合项目
+> - [[Global Regionalisms]] — Robertson et al.（2016）的框架为理解监管区域主义提供了宏观语境：高等教育被整合进大规模政治经济区域整合项目
 > - [[Geopolitics of Knowledge]] — 将监管实践置于知识地缘政治的竞争逻辑中加以理解：[[Knowledge Production|知识生产]]（指标、排名）本身即是一种塑造地理空间中权力关系的操作
 > - [[Performance Indicators]] — 绩效指标是监管区域主义的核心操作机制，Le Galès（2016）的技术—权力双重性框架解释了其如何运作
 > - [[Selectivity]] — Jessop（2007）的策略选择概念解释了监管区域主义中政策替代方案被结构性筛选的机制

@@ -15,6 +15,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Causality]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> CMFR 在设计标准编码中对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 3，对 RDD 和 ITS 均为 0。编码 3 表示清算中心为因果推断与实施质量提供了设计专属标准；因此 CMFR 是少数对 RCT 与一般 QED 都有详细标准的清算中心之一（Wadhwa et al., 2024, pp.9–10, 29）。
+> CMFR 在设计标准编码中对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 3，对 RDD 和 ITS 均为 0。编码 3 表示清算中心为[[Causality|因果推断]]与实施质量提供了设计专属标准；因此 CMFR 是少数对 RCT 与一般 QED 都有详细标准的清算中心之一（Wadhwa et al., 2024, pp.9–10, 29）。
 >
 > CMFR 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 只纳入同行评审研究。它在 RCT 流失标准上接受总体流失低于 20%；在 QED 方面，它对匹配比较组设计和统计控制比较组设计使用不同标准（Wadhwa et al., 2024, pp.8–11）。
 

@@ -7,6 +7,7 @@ tags: ["theme/global-governance", "theme/21st-century-skills", "theme/risk", "th
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Governmentality]]"
+  - "[[Causality]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Fourth Industrial Revolution]]"
 related_theories: []
@@ -38,7 +39,7 @@ updated: 2026-05-21
 > - **波动性（Volatility）**：变化的速度和幅度——技术迭代加速、劳动市场需求快速更替，使得长期规划难以维持
 > - **不确定性（Uncertainty）**：未来状态的难以预测——尽管信息充足，但变化的性质和方向难以判断
 > - **复杂性（Complexity）**：多重因素交织——教育、经济、技术、政治等多系统相互缠绕，单线因果分析失效
-> - **模糊性（Ambiguity）**：因果关系不明确——面对同一现象存在多种竞争性解读，缺乏共识性框架（Hughes, 2018, p.xiv, cit. by Zelinka, 2022, p.264）
+> - **模糊性（Ambiguity）**：[[Causality|因果关系]]不明确——面对同一现象存在多种竞争性解读，缺乏共识性框架（Hughes, 2018, p.xiv, cit. by Zelinka, 2022, p.264）
 
 ## 在知识地缘政治中的功能
 

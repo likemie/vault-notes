@@ -14,6 +14,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Constructivist Paradigm]]"
+  - "[[Hypothesis]]"
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
   - "[[Updating and Monitoring]]"
@@ -53,7 +54,7 @@ updated: '2026-05-18'
 > - **感觉运动阶段（Sensorimotor Stage, 0–2 岁）** — 儿童表现出完全自我中心的世界观，无法将思想与行动分离，无法识别物体视角随观察者位置不同而变化。后期开始发展客体永久性（object permanence）（Bolton & Hattie, 2017, p.2）
 > - **前运算阶段（Pre-Operational Stage, 2–7 岁）** — 客体永久性牢固建立，符号思维发展。皮亚杰注意到 3–4 岁之前儿童无法通过液体守恒测试，但 5 岁时多数能完成（Bolton & Hattie, 2017, p.2–3, 10）
 > - **具体运算阶段（Concrete Operational Stage, 7–11 岁）** — 儿童能够执行皮亚杰所称的"运算"（Operations）——可用于操纵、转换并将物体恢复原状的内部化行动。理解守恒原则（物体数量不因容器形状或体积变化而改变）。开始对步骤和阶段应用逻辑，通过 A not B 任务评估（Bolton & Hattie, 2017, p.2–3）
-> - **形式运算阶段（Formal Operation Stage, 11–16 岁）** — 以抽象和假设性思维为特征（Bolton & Hattie, 2017, p.3）
+> - **形式运算阶段（Formal Operation Stage, 11–16 岁）** — 以抽象和[[Hypothesis|假设]]性思维为特征（Bolton & Hattie, 2017, p.3）
 
 ## 发展脉络
 
@@ -68,7 +69,7 @@ updated: '2026-05-18'
 > 论文列出[[Jean Piaget|皮亚杰]]理论的多项弱点（Bolton & [[John Hattie|Hattie]], 2017, p.3）：
 >
 > - **[无法区分记忆与逻辑]** — Bryant & Trabasso (1971) 的研究对此提出质疑
-> - **[儿童同时仅存在于一个阶段的假设]** — Case (1992) 和 Flavell (1982) 指出儿童可能同时处于多个阶段
+> - **[儿童同时仅存在于一个阶段的[[Hypothesis|假设]]]** — Case (1992) 和 Flavell (1982) 指出儿童可能同时处于多个阶段
 > - **[文化背景的影响被忽略]** — Dasen (1975)、Dasen & Heron (1981)、Mishra (1997) 和 Price-Williams 等（1969, 1981）的研究表明文化背景影响认知发展阶段的表现
 >
 > [[Neo-Piagetian Theories|新皮亚杰理论]]家（neo-piagetian-theories）设计了多种不同模型来回应这些弱点（Bolton & Hattie, 2017, p.3）。

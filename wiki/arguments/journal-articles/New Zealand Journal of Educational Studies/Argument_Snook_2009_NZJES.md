@@ -17,7 +17,10 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Hypothesis]]"
   - "[[Effect Size]]"
+  - "[[Variable]]"
+  - "[[Causality]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
   - "[[Publication Bias]]"
@@ -49,23 +52,23 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 [[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（Dewey, quoted in [[John Hattie|Hattie]], 2008, p.147）。
+> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 [[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的问题解决提供[[Hypothesis|假设]]（Dewey, quoted in [[John Hattie|Hattie]], 2008, p.147）。
 
 ## 研究方法
 
 > [!info] 研究方法
 > - 方法：批判性评论（critical commentary），非实证研究
 > - 审查对象：[[John Hattie|Hattie]] (2008) 的方法论、论证逻辑和政策含义
-> - 分析维度：综合方法的质量控制、[[Effect Size|效应量]]解读、变量界定、政策外推
+> - 分析维度：综合方法的质量控制、[[Effect Size|效应量]]解读、[[Variable|变量]]界定、政策外推
 
 ## 核心论证
 
 > [!example] 核心论证
 > 1. **方法论缺陷**：[[John Hattie|Hattie]] 的"综合"（synthesis）未评估纳入研究的质量，未排除低质量研究——"垃圾进垃圾出"（Eysenk）（p.94–96）
 > 2. **[[Effect Size|效应量]]任意性**：0.4 的截断值武断；小型效应量在高质量大规模研究中可具有重大意义（p.94, 99）
-> 3. **相关性≠因果性**：Hattie 本人承认效应量"暗示因果性"但该主张常不可辩护（p.96）
+> 3. **相关性≠[[Causality|因果性]]**：Hattie 本人承认效应量"暗示因果性"但该主张常不可辩护（p.96）
 > 4. **平均化掩盖复杂性**：以家庭作业为例——总体 d=0.29，但小学 d=0.15、中学 d=0.64，数学和低能力学生更高（p.97）
-> 5. **社会背景被排除**：Hattie 选择性地排除阶级、贫困、家庭资源等变量，但这些因素解释 70–80% 的校间差异（p.98–99）
+> 5. **社会背景被排除**：Hattie 选择性地排除阶级、贫困、家庭资源等[[Variable|变量]]，但这些因素解释 70–80% 的校间差异（p.98–99）
 > 6. **政策误用风险**：[[Class Size|班级规模]]（d=0.2 被解读为"无效果"）和[[Performance Pay|绩效工资]]（与 Hattie 强调的安全信任环境矛盾）是典型误用案例（p.100–103）
 > 7. **可推广性有限**：大多数研究来自美国等英语发达国家，不可直接推广至非英语或发展中国家（p.97–98）
 
@@ -76,7 +79,7 @@ updated: '2026-05-18'
 > - 纳入研究的质量未被评估：Hattie 承认"不是一本关于研究批评的书"，但当涉及 charter schools 和 learning styles 时又选择性排除低质量研究，存在不一致（p.95）
 > - [[Meta-analysis|元分析]]中的偏差通常不受控制：设计不良研究的元分析必然导致不可靠结论（p.96–97）
 > - [[Publication Bias|发表偏差]]：支持有利结论的研究更可能被发表和纳入元分析（p.97）
-> - 变量界定困难：如[[Whole Language|全语言]]教学的不同分类导致同一批研究的元分析结论矛盾（p.97）
+> - [[Variable|变量]]界定困难：如[[Whole Language|全语言]]教学的不同分类导致同一批研究的元分析结论矛盾（p.97）
 > - [[Class Size|班级规模]]效应复杂：STAR 研究（随机实验）发现[[Effect Size|效应量]]达 0.62–0.66（p.100–101）；Blatchford (2003) 伦敦研究发现 Reception 年有明显效果，尤其对低能力儿童（p.101）；Murnane & Levy (1996) 证明仅减班不加教学变革无效果，但班级缩减与教学变革结合产生巨大效果（p.101–102）
 > - [[Performance Pay|绩效工资]]与 Hattie 自身的教师文化论述矛盾：Hattie 强调"关爱、支持的教师休息室、容忍错误、互信、共享热情"，绩效工资制度恰恰摧毁这种氛围（p.103）
 

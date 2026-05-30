@@ -11,6 +11,7 @@ tags:
 - wicked-problems
 - social-change
 related_concepts:
+  - "[[Variable]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Posthumanism]]"
   - "[[Mondialisation]]"
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 > [!abstract] 核心命题
 > Escobar 援引 Irwin (2015) 提出了转型设计的十条原则。Amos (2022, pp.61–62) 在正文中全文引用。其完整逻辑如下：
 >
-> 1. **以生命[[Luhmann's Systems Theory|系统理论]]理解和应对 wicked problems（棘手问题）**——wicked problems 不能简化为单个变量或单一学科的方法；需要 Maturana & Varela 的[[Autopoiesis|自创生]]系统理论提供的整体视角
+> 1. **以生命[[Luhmann's Systems Theory|系统理论]]理解和应对 wicked problems（棘手问题）**——wicked problems 不能简化为单个[[Variable|变量]]或单一学科的方法；需要 Maturana & Varela 的[[Autopoiesis|自创生]]系统理论提供的整体视角
 > 2. **设计同时保护与修复社会和自然生态系统的解决方案**——不可偏废一方
 > 3. **以日常生活／生活方式为设计的最根本情境**——不从抽象模型出发，从人们实际如何生活、如何消费、如何移动、如何学习出发
 > 4. **基于地方（place-based）、全球联网（globally networked）的解决方案**——方案必须扎根于特定地方，但通过连接和扩散在更大范围产生影响

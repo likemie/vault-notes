@@ -15,6 +15,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Learning Analytics]]"
   - "[[Bildung]]"
+  - "[[Hypothesis]]"
   - "[[Gamification]]"
 related_theories: []
 related_methods: []
@@ -55,7 +56,7 @@ updated: 2026-05-20
 
 > [!example]
 > - vs [[Bildung]]——Bildung 要求主体主动参与自身的形成过程，通过反思、批判和理解来建构意义（Nordenbo, 2002）；数据行为主义根本绕过了主体——它直接从行为模式中生成"知识"，不要求也不需要主体的理解和参与（Jornitz & Klinge, 2022, pp.234–235）
-> - vs [[Learning Analytics|学习分析]]——学习分析是具体的技术实践（收集、分析和报告学习数据）；数据行为主义是对这种实践所预设的知识论立场的理论概括——它描述的不是技术做了什么，而是技术背后关于"什么是知识"的根本假设
+> - vs [[Learning Analytics|学习分析]]——学习分析是具体的技术实践（收集、分析和报告学习数据）；数据行为主义是对这种实践所预设的知识论立场的理论概括——它描述的不是技术做了什么，而是技术背后关于"什么是知识"的根本[[Hypothesis|假设]]
 > - vs [[Gamification]]——Gamification 是数据行为主义逻辑在界面设计层面的具体实现：通过积分和徽章追踪和调节行为，不需要理解为什么（Jornitz & Klinge, 2022, pp.236–237）
 
 ## 争议与批评

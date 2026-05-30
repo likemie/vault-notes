@@ -12,6 +12,8 @@ tags:
   - paradigm/sociological
 related_concepts:
   - "[[Postpositivism]]"
+  - "[[Causality]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Seasonal Comparison]]"
@@ -87,7 +89,7 @@ updated: 2026-05-18
 ## 研究范式
 
 > [!info] 研究范式
-> - **认识论立场**：[[Postpositivism|后实证主义]]——承认学校效应的因果推断需要严格方法（[[Seasonal Comparison|季节性比较]]作为自然实验），同时重视将学校效应置于更广泛的社会分层系统中进行情境化理解
+> - **认识论立场**：[[Postpositivism|后实证主义]]——承认学校效应的[[Causality|因果推断]]需要严格方法（[[Seasonal Comparison|季节性比较]]作为自然实验），同时重视将学校效应置于更广泛的社会分层系统中进行情境化理解
 > - **核心方法论**：[[Seasonal Comparison]] — 利用学年 vs 暑假的自然实验设计
 > - **与传统方法的区别**：反对仅通过统计控制家庭背景或预测学习增值来分离学校效应——这些方法系统性高估学校效应，因为大多数影响儿童学习的非学校特征在大规模调查中无法测量（Downey & Condron, 2016, p.3）
 
@@ -101,7 +103,7 @@ updated: 2026-05-18
 
 
 > [!warning] [[Seasonal Comparison|季节性比较]]方法的假设
-> 框架的核心经验基础——季节性比较——依赖一系列假设（见 [[Seasonal Comparison]] 条目的「局限性」章节），这些假设的合理性仍在学术讨论中（Downey & Condron, 2016, pp.4–5）。
+> 框架的核心经验基础——季节性比较——依赖一系列[[Hypothesis|假设]]（见 [[Seasonal Comparison]] 条目的「局限性」章节），这些假设的合理性仍在学术讨论中（Downey & Condron, 2016, pp.4–5）。
 
 
 > [!warning] 学校改革的政策意义

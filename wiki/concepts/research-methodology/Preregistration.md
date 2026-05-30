@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Publication Bias]]"
   - "[[Researcher Degrees of Freedom]]"
+  - "[[Variable]]"
   - "[[Implementation Fidelity]]"
   - "[[Developer Effect]]"
 related_theories: []
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 > [!abstract] 预注册应包含的内容
 > Wolf et al. (2020, pp. 443–444) 提出预注册应包含：
 > 1. **研究设计**：实验/准实验、随机化单位、样本量
-> 2. **结果测量**：预先指定的主要和次要结果变量
+> 2. **结果测量**：预先指定的主要和次要结果[[Variable|变量]]
 > 3. **分析计划**：预先指定的统计模型和分析方法
 > 4. **反事实条件描述**：控制组的具体情况
 > 5. **[[Implementation Fidelity|实施忠实度]]测量计划**：如何测量和报告干预实施质量

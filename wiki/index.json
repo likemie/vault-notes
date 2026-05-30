@@ -1417,9 +1417,9 @@
     ]
   },
   {
-    "title": "Global Regionalisms in Higher Education",
+    "title": "Global Regionalisms",
     "type": "concept",
-    "path": "wiki/concepts/higher-education/Global Regionalisms in Higher Education.md",
+    "path": "wiki/concepts/higher-education/Global Regionalisms.md",
     "aliases": [
       "高等教育中的全球区域主义",
       "全球区域主义"
@@ -1857,7 +1857,7 @@
   {
     "title": "Third Mission (Universities)",
     "type": "concept",
-    "path": "wiki/concepts/higher-education/Third Mission (Universities).md",
+    "path": "wiki/concepts/higher-education/Third Mission.md",
     "aliases": [
       "大学第三使命",
       "第三使命",
@@ -4220,9 +4220,9 @@
     ]
   },
   {
-    "title": "Rational Action Theory in Education",
+    "title": "Rational Action Theory",
     "type": "theory",
-    "path": "wiki/theories/sociology-of-education/Rational Action Theory in Education.md",
+    "path": "wiki/theories/sociology-of-education/Rational Action Theory.md",
     "aliases": [
       "教育中的理性行动理论"
     ]

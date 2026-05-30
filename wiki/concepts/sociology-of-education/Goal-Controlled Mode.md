@@ -16,6 +16,7 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Symbolic Boundary]]"
   - "[[Cultural Capital]]"
+  - "[[Hypothesis]]"
   - "[[Self-Authorship]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunist Mode]]"
@@ -26,7 +27,7 @@ related_concepts:
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
-  - "[[Rational Action Theory in Education]]"
+  - "[[Rational Action Theory]]"
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
@@ -72,7 +73,7 @@ updated: 2026-05-18
 
 > [!note]
 > - **1960s 原初洞察**：[[Pierre Bourdieu|Bourdieu]] & Passeron（1964）在 *Les Héritiers* 中区分了"考试能手"（除考试外忘掉一切）与"浅薄涉猎者"（与工作保持神秘化关系）两类学生，揭示了基于[[Cultural Capital|文化资本]]不平等的两种大学融入模式（[[Yajun Zheng|郑雅君]]，2023）
-> - **2014–2017 田野发现**：郑雅君在两所顶尖大学的首轮 38 名访谈中发现，学生的毕业出路并非全是有意图的主动选择——部分学生的"选择"更多是对处境的本能反应。这一发现挑战了其初始假设，为双模式概念奠定了经验基础（郑雅君，2023）
+> - **2014–2017 田野发现**：郑雅君在两所顶尖大学的首轮 38 名访谈中发现，学生的毕业出路并非全是有意图的主动选择——部分学生的"选择"更多是对处境的本能反应。这一发现挑战了其初始[[Hypothesis|假设]]，为双模式概念奠定了经验基础（郑雅君，2023）
 > - **2023 理论整合与命名**：郑雅君整合 [[Culture as Toolkit]]（Swidler, 1986）、[[Dual-Process Model of Culture in Action]]（Vaisey, 2009）和[[Self-Authorship|自我主导性]]理论（Baxter Magolda），正式提出目标掌控模式／[[Intuition-Dependent Mode|直觉依赖模式]]二分框架（郑雅君，2023）
 > - **第五章细化**：在双模式基础上引入价值信念驱动力维度，形成 2×2 四分类，将目标掌控模式进一步区分为[[Self-Driven Mode|自主驱动者]]和[[Opportunist Mode|机会主义者]]（郑雅君，2023）
 
@@ -97,7 +98,7 @@ updated: 2026-05-18
 > - [[Culture as Toolkit]] — 对应**价值选择过程**的工具维度：目标掌控模式被理解为一组由优势家庭提供的文化工具（规划意识、策略思维、信息搜集能力），使学生能策略性地组织行动路线（郑雅君，2023）
 > - [[Dual-Process Model of Culture in Action]] — 提供整合框架：该模式既包含**深层内化**的价值观驱动（优势阶层家庭教育中内化的"成功叙事"和生涯目标意识），也包含**浅层内化**的工具箱能力（灵活使用信息、人脉和制度知识为特定出路做准备）（郑雅君，2023）
 > - [[Academic and Social Integration]] + [[Student Engagement]] — 对应**投入过程**：目标掌控模式下的投入是**策略性而非弥散性**的——学生并非不投入，而是有方向地选择与目标出路匹配的教育性实践活动。[[Academic Engagement|学业投入]]的详细讨论见 [[Academic Engagement]]，[[Social Engagement|社会性投入]]的详细讨论见 [[Social Engagement]]（郑雅君，2023）
-> - [[Rational Action Theory in Education]] — 作为对话方：看似符合理性行动模型（手段-目的计算），但郑雅君强调这一"理性计算"能力本身是阶层习性的产物——哪些目的值得追求、如何评估风险收益，均由文化工具箱和深层价值观共同塑造（郑雅君，2023）
+> - [[Rational Action Theory]] — 作为对话方：看似符合理性行动模型（手段-目的计算），但郑雅君强调这一"理性计算"能力本身是阶层习性的产物——哪些目的值得追求、如何评估风险收益，均由文化工具箱和深层价值观共同塑造（郑雅君，2023）
 > - [[Self-Authorship]]（[[Marcia Baxter Magolda]]）— 概念建构的理论灵感："掌控"一词即含有自我主导性意涵——个体根据内在声音和核心价值观主导认知发展、自我认同和人际关系（郑雅君，2023）
 
 ---

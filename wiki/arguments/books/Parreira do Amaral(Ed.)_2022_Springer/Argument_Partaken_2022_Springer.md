@@ -20,6 +20,7 @@ related_concepts:
   - "[[Narrative Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Hypothesis]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[Junzi]]"
   - "[[Technology Transfer]]"
@@ -97,7 +98,7 @@ updated: '2026-05-18'
 
 **观察 3**：从词频数据看，"[[Geopolitics of Knowledge]]"话语在 1990 年代出现，2000 年代和 2010 年代迅速强化。2010 年后，"知识"已超过能源、石油、资本主义等传统议题，成为"geopolitics of *"后面最常见的名词——意味着当代地缘政治中最密集的书写和辩论已从自然资源争夺转向了知识争夺（p.68）。
 
-**提出核心问题**：后殖民研究通常将 GPK 的问题域界定为"[[Knowledge Production|知识生产]]"（knowledge production）——谁生产知识、以什么视角、为谁的利益。但这一视角是否抓住了 GPK 的全部？Partaken 提出反向假设：GPK 的真正核心（epicenter）从殖民时代至今一直是[[Knowledge Transfer|知识转移]]（[[Knowledge Exchange|knowledge transfer]]）而非知识生产（p.68–69）。
+**提出核心问题**：后殖民研究通常将 GPK 的问题域界定为"[[Knowledge Production|知识生产]]"（knowledge production）——谁生产知识、以什么视角、为谁的利益。但这一视角是否抓住了 GPK 的全部？Partaken 提出反向[[Hypothesis|假设]]：GPK 的真正核心（epicenter）从殖民时代至今一直是[[Knowledge Transfer|知识转移]]（[[Knowledge Exchange|knowledge transfer]]）而非知识生产（p.68–69）。
 
 ### 第二步：审查"知识生产"视角，揭示其盲点（§5.2–5.5, pp.70–75）
 

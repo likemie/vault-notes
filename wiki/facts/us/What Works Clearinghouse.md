@@ -15,10 +15,13 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Causality]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Effect Size]]"
+  - "[[Variable]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
+  - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -70,7 +73,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准编码中，WWC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 2，对 RDD 为 3，对 ITS 为 2。WWC 是少数详细处理 RDD 的清算中心之一，也是主要将 RDD 和 ITS 都视为因果推断重要设计并为其制定标准的例外（Wadhwa et al., 2024, pp.10–11）。
+> 在设计标准编码中，WWC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 2，对 RDD 为 3，对 ITS 为 2。WWC 是少数详细处理 RDD 的清算中心之一，也是主要将 RDD 和 ITS 都视为[[Causality|因果推断]]重要设计并为其制定标准的例外（Wadhwa et al., 2024, pp.10–11）。
 >
 > WWC 主题特定综述协议会规定结果域、研究焦点（仅影响研究）、样本特征、20 年出版滞后期、学校为主的研究场景、干预特征、英文报告，以及限定为 RCT、RDD、[[21st Century Skills and Competencies Discourse|SCD]] 和 QED 的研究设计（Wadhwa et al., 2024, pp.8–9）。
 >
@@ -86,7 +89,7 @@ updated: '2026-05-18'
 >
 > [[WWC SCD Pilot Standards]] 是 WWC 为 SCD 研究开发的专门技术标准：它服务于 WWC 的 SCD 研究审查，但不能等同于 [[Single-Case Design]] 方法本身，也不能等同于 WWC 的完整审查程序。Hitchcock et al. 强调，SCD 设计标准必须与 WWC 审查协议和 SCD Review Guide 一起理解；审查协议规定研究问题、目标人群、结果领域和场所，Review Guide 则系统记录研究细节并支持推广性判断（Hitchcock et al., 2015, pp.459–461）。
 >
-> SCD 审查分四个阶段：第一，对照审查协议判断研究是否符合干预、因变量、场所和参与者特征等条件；第二，评估阶段对比数量、每阶段数据点数量、结果测量信度、自变量是否被主动操纵，并通过视觉分析评估实验控制；第三，仅对通过设计标准的研究系统记录场所、设计、参与者、因变量[[Definition of Terms|操作性定义]]、基线和干预条件、实施者和培训、干预忠实度等推广性信息；第四，当至少有 5 项达标 SCD 研究、由 3 个不同研究团队完成、累计至少 20 名参与者时，WWC 可仅基于 SCD 证据生成干预报告（Hitchcock et al., 2015, pp.464–466）。
+> SCD 审查分四个阶段：第一，对照审查协议判断研究是否符合干预、因[[Variable|变量]]、场所和参与者特征等条件；第二，评估阶段对比数量、每阶段数据点数量、结果测量信度、自变量是否被主动操纵，并通过视觉分析评估实验控制；第三，仅对通过设计标准的研究系统记录场所、设计、参与者、因变量[[Definition of Terms|操作性定义]]、基线和干预条件、实施者和培训、干预忠实度等推广性信息；第四，当至少有 5 项达标 SCD 研究、由 3 个不同研究团队完成、累计至少 20 名参与者时，WWC 可仅基于 SCD 证据生成干预报告（Hitchcock et al., 2015, pp.464–466）。
 >
 > WWC 不评分推广性细节，而是描述这些信息供消费者判断证据是否适用于自身情境；[[5-3-20 Rule]] 是 SCD 证据充分性的唯一阈值（Hitchcock et al., 2015, pp.466–467）。WWC 首个包含 SCD 证据的干预报告为 Repeated Reading（WWC, 2014）（Hitchcock et al., 2015, pp.461, 466）。
 
@@ -102,7 +105,7 @@ updated: '2026-05-18'
 > [!abstract] 与其他清算中心的差异
 > WWC 不对一个干预跨所有结果聚合为单一项目评级，而是按结果域分别分析和报告教育干预结果。与 Blueprints、[[National Dropout Prevention Center|NDPC]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 不同，WWC 的评级结构更偏向 outcome-specific intervention appraisal（Wadhwa et al., 2024, pp.12–13）。
 >
-> 在 Wadhwa et al. 的解释中，WWC 的标准不是唯一可行标准，也不是论文试图加冕的最佳标准；它只是教育领域最具支配性和可见度的清算中心之一。作者的比较目的正是显示不同清算中心所采用的证据标准和假设并不相同（Wadhwa et al., 2024, p.28）。
+> 在 Wadhwa et al. 的解释中，WWC 的标准不是唯一可行标准，也不是论文试图加冕的最佳标准；它只是教育领域最具支配性和可见度的清算中心之一。作者的比较目的正是显示不同清算中心所采用的证据标准和[[Hypothesis|假设]]并不相同（Wadhwa et al., 2024, p.28）。
 
 ## 影响与争议
 

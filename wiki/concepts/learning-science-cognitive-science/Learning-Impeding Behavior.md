@@ -13,6 +13,7 @@ tags:
 - region/norway
 related_concepts:
   - "[[Classroom Management]]"
+  - "[[Causality]]"
   - "[[School Norm Adaptation]]"
   - "[[Motivation and Work Effort]]"
 related_theories: []
@@ -49,7 +50,7 @@ updated: '2026-05-18'
 ## 待补充研究
 
 
-- 后续可补充其与[[Classroom Management|课堂管理]]干预、作息负荷和成绩变化的因果关系证据。
+- 后续可补充其与[[Classroom Management|课堂管理]]干预、作息负荷和成绩变化的[[Causality|因果关系]]证据。
 
 ## 与相关概念的区别
 
