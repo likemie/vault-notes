@@ -1,5 +1,6 @@
 ---
 title: Argument_Boccanfuso_Hall_2025_Alignment
+author: "Boccanfuso, A., & Hall, R"
 summary: "以2024年诺贝尔奖为引，论证产学合作的三重回报框架，分析大学与企业目标对齐的结构性挑战，通过历史追溯和UIDP案例说明如何克服障碍实现界面上的创新"
 type: argument
 citation: "Boccanfuso, A., & Hall, R. (2025). Alignment, Engagement, and Public Benefits. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 3–23). Springer."

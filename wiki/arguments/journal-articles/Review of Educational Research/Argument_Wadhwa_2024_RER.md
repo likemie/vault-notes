@@ -1,5 +1,6 @@
 ---
 title: Argument_Wadhwa_2024_RER
+author: "Wadhwa, M., Zheng, J., & Cook, T. D"
 summary: "比较 12 个教育证据清算中心的有效性标准与项目评级一致性，发现“evidence-based“在清算中心语境中构念效度有限"
 type: argument
 subtype: journal-article

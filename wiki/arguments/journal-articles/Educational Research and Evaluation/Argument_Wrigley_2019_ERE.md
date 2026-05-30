@@ -1,5 +1,6 @@
 ---
 title: Argument_Wrigley_2019_ERE
+author: "Wrigley, T., & McCusker, S"
 summary: "以批判实在论和 EEF 体育参与案例追踪，论证 EBT 倡导者对“科学“的诉诸依赖于过分简化的民间科学观，揭示元-元分析的三级统计失真"
 type: argument
 subtype: journal-article

@@ -1,5 +1,6 @@
 ---
 title: Argument_Dachet_2021_ROE
+author: "Dachet, D., & Baye, A"
 summary: "以法语比利时教育卓越公约为叙事案例，说明证据本位改革在定性研究传统较强且本地实验项目稀少的系统中只能通过包容性证据类型学、利益相关者协商和试点评价逐步制度化。"
 type: argument
 subtype: journal-article

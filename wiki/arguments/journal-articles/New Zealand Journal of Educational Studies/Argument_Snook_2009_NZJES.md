@@ -1,5 +1,6 @@
 ---
 title: Argument_Snook_2009
+author: "Snook, I., O''Neill, J., Clark, J., O''Neill, A. M., & Openshaw, R"
 summary: "VL 最早的系统性批判之一（2009）：从方法论缺陷、效应量任意性、社会背景排除、政策误用风险五维度审查 Hattie VL，引 Dewey 知识论为基线立场"
 type: argument
 subtype: journal-article

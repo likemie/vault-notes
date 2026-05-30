@@ -1,5 +1,6 @@
 ---
 title: Argument_Blass_2020_JESP
+author: "Blass, E"
 summary: "以五要素框架（方法论、情境、假设、领导力、时效性）评估 Hattie VL 在澳大利亚教育政策中的误用，揭示 VL 被用作“不改变的好借口“而抑制教学创新，记录 Hattie 后续工作中放弃排名转向学习模型"
 type: argument
 subtype: journal-article

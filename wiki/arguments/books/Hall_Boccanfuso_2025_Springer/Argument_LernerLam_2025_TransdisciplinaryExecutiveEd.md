@@ -1,5 +1,6 @@
 ---
 title: Argument_LernerLam_2025_TransdisciplinaryExecutiveEd
+author: "Lerner-Lam, A., DeNoon, P., Holgate, S., & Broyles, M"
 summary: "以哥伦比亚大学气候学院的跨学科高管教育为案例，论证面向复杂社会挑战的高管教育需要在课程设计、教师参与、伙伴合作和项目评估四个维度进行系统性创新，并提出跨学科主题设计与客户共生的课程开发模式"
 type: argument
 citation: "Lerner-Lam, A., DeNoon, P., Holgate, S., & Broyles, M. (2025). Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 155-174). Springer."

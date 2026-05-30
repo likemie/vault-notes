@@ -1,5 +1,6 @@
 ---
 title: Argument_Creswell_2022_SAGE
+author: "Creswell, J. W., & Creswell, J. D"
 summary: "Creswell & Creswell 教材第六版前言，介绍研究设计的框架、三种研究路径的比较逻辑、全书两大部分共十章的结构，以及第六版新增特色"
 type: argument
 subtype: textbook

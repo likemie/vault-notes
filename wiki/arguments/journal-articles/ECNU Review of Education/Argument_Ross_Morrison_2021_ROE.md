@@ -1,5 +1,6 @@
 ---
 title: Argument_Ross_Morrison_2021_ROE
+author: "Ross, S. M., & Morrison, J. R"
 summary: "以ESSA证据标准和巴尔的摩STAT技术整合评估为例，说明教育项目证据的使用受研究设计属性、实施语境和利益相关者价值判断共同塑造"
 type: argument
 subtype: journal-article

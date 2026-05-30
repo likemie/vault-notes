@@ -1,5 +1,6 @@
 ---
 title: Argument_Eacott_2019_IJLE
+author: "Eacott, S"
 summary: "以 2017 年 Cult of the Guru 论文的传播与反应为案例，反思教育行政领域中“平行独白“现象，主张以论证与反驳为学术工作的生成逻辑"
 type: argument
 subtype: journal-article

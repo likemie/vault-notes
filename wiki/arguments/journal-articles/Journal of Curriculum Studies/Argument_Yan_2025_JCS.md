@@ -1,5 +1,6 @@
 ---
 title: Argument_Yan_2025_JCS
+author: "Yan, K. C. A., & Morris, P"
 summary: "以 Cuban 课程变革三因素为框架，对比分析香港通识教育科的创立（2009）与废除（2021），揭示全球化论述的工具性使用与国家安全的突变性介入"
 type: argument
 subtype: journal-article

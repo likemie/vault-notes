@@ -1,5 +1,6 @@
 ---
 title: Argument_Bergeron_2017_MJE
+author: "Bergeron, P.-J. & Rivard, L"
 summary: "从统计学家视角系统批判 Hattie Visible Learning 方法论为伪科学，揭示 CLE 计算错误、基线比较任意性、三种效应量公式矛盾排名和 r→d 转换危险"
 type: argument
 subtype: journal-article

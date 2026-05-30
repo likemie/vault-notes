@@ -1,5 +1,6 @@
 ---
 title: Argument_Golovchin_2019_ESC
+author: "Golovchin M.A"
 summary: "以变差系数检验 Hattie 效应量数据集（Vσ=56.87%），系统综述 10+ 位批评者论点，评估 VL 对俄教育政策的适用性并建议拒绝借用"
 type: argument
 subtype: journal-article

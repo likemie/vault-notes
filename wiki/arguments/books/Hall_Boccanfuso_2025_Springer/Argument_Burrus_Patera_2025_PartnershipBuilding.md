@@ -1,5 +1,6 @@
 ---
 title: Argument_Burrus_Patera_2025_PartnershipBuilding
+author: "Burrus, C., & Patera, A"
 summary: "从产学关系实践者角度，提出通过连接、探索发现与关系建设三步构建战略性产学伙伴关系的框架，强调大学企业参与专员的中介角色"
 type: argument
 citation: "Burrus, C., & Patera, A. (2025). Connecting, Exploring, Uncovering, and Building Partnerships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 73–83). Springer."

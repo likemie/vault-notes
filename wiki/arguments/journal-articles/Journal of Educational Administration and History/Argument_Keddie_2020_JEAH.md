@@ -1,5 +1,6 @@
 ---
 title: Argument_Keddie_2020_JEAH
+author: "Keddie, A., MacDonald, K. C., Blackmore, J., Eacott, S., Gobby, B., Mahoney, C., Niesche, R., & Wilkinson, J"
 summary: "基于 42 位澳大利亚教育利益相关者访谈，论证市场驱动的学校自主权改革对校长和弱势学校的系统性不公正影响"
 type: argument
 subtype: journal-article

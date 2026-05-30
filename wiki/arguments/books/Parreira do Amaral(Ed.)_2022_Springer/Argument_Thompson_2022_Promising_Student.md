@@ -1,5 +1,6 @@
 ---
 title: Argument_Thompson_2022_Promising_Student
+author: "Thompson, C., Schröder, S., & Wrana, D"
 summary: "Ch13 Thompson, Schröder & Wrana，以 Foucault 治理术和 Deleuze 控制社会为理论框架，分析在线自评工具如何作为主体化工具在竞争性地缘政治框架中建构有前景的学生，揭示数字化治理如何将入学前选择重构为自我评估和自我优化的持续性调制过程"
 type: argument
 subtype: book-chapter

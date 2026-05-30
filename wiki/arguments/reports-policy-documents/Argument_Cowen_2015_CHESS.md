@@ -1,5 +1,6 @@
 ---
 title: Argument_Cowen_2015_CHESS
+author: "Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S"
 summary: "通过 22 位教师访谈和文献综述，揭示 EBP 从“什么有效“到“在这里有效“的知识鸿沟，提出“流动性而非忠实执行“的实施框架"
 type: argument
 subtype: report

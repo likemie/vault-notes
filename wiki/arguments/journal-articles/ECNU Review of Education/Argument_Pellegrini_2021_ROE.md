@@ -1,5 +1,6 @@
 ---
 title: Argument_Pellegrini_2021_ROE
+author: "Pellegrini, M., & Vivanet, G"
 summary: "梳理2006年以来欧盟证据知情教育政策和证据中介组织，指出欧洲进展主要停留在倡议和网络层面，真正落地受外部效度、经费再平衡和关键能力评估难题制约"
 type: argument
 subtype: journal-article

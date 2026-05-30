@@ -1,5 +1,6 @@
 ---
 title: Argument_Amos_2022_Springer
+author: "Amos, S. K"
 summary: "Ch4 S. Karin Amos，以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论"
 type: argument
 subtype: book-chapter

@@ -1,5 +1,6 @@
 ---
 title: Argument_Xu_2024_CE
+author: "Xu, S"
 summary: "对比大陆与香港初中中国历史教科书的国家叙事，大陆以领土构成和民族包容性建构中国，香港以民族构成和领土变化建构中国，揭示两种叙事差异植根于两地不同的社会政治背景"
 type: argument
 subtype: journal-article

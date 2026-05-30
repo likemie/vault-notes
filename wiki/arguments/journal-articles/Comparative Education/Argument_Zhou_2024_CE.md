@@ -1,5 +1,6 @@
 ---
 title: Argument_Zhou_2024_CE
+author: "Zhou, Y. & Westberg, J"
 summary: "以 Cowen 3T 框架分析杜威思想在民国中国的转移过程，揭示民主教育理想与渐进改革路径在缺乏民主的社会中无法兼存，杜威由此被碎片化为可支持激进与温和两种对立立场的知识资源"
 type: argument
 subtype: journal-article

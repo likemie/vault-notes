@@ -1,5 +1,6 @@
 ---
 title: Argument_Hitchcock_2015_JBE
+author: "Hitchcock, J. H., Kratochwill, T. R., & Chezan, L. C"
 summary: "澄清 WWC SCD 审查程序如何通过 Review Guide 和审查协议捕获推广性信息，描述 5-3-20 证据充分性阈值"
 type: argument
 subtype: journal-article

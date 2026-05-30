@@ -1,5 +1,6 @@
 ---
 title: Argument_Gilison_Wilson_2025_UniversityStartups
+author: "Gilison, S., & Wilson, A"
 summary: "基于南加州创新联盟八年运营经验及对 20 余位大学产学合作领导者的访谈，分析大学衍生企业面临的结构性障碍——IP 所有权毒丸与风投风险偏好不匹配——并梳理产业通过概念验证项目、创新联盟和驻校企业家提供市场声音的有效路径"
 type: argument
 citation: "Gilison, S., & Wilson, A. (2025). University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 141-154). Springer."

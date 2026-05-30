@@ -1,5 +1,6 @@
 ---
 title: Argument_Hansen_2015_Paideia
+author: "Hansen, O., Lekhal, R., Nordahl, T., Norlund, A., Persson, B., & Qvortrup, L"
 summary: "作为 Paideia 可见学习主题号导言，梳理支持、修正与方法审查三类文章，主张 Visible Learning 应从教师效应自评与协作改进出发，而非只读干预排名"
 type: argument
 subtype: journal-article

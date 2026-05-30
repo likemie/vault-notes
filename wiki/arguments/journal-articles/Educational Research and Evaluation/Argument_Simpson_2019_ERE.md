@@ -1,5 +1,6 @@
 ---
 title: Argument_Simpson_2019
+author: "Simpson, A"
 summary: "以“教一个匈牙利单词“思想实验证明效应量是试验清晰度而非教育有效性的测量，系统论证 EBE 支持者的六种防御策略"
 type: argument
 subtype: journal-article

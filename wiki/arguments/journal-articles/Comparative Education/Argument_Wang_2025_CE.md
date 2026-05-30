@@ -1,5 +1,6 @@
 ---
 title: Argument_Wang_2025_CE
+author: "Wang, T. & McLaughlin, C"
 summary: "以第三代活动理论为框架，分析中国四校在跨文化教师教育项目中考试问责系统与LCE改革系统的互动，发现两者并非必然对立，关键在于建立学校特定的共享目标并协调活动系统各要素"
 type: argument
 subtype: journal-article

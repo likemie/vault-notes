@@ -1,5 +1,6 @@
 ---
 title: Argument_郑_2023_上海三联书店
+author: "郑雅君"
 summary: "以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化。"
 type: argument
 subtype: monograph

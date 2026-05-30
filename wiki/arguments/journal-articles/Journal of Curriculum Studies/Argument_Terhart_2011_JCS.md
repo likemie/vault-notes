@@ -1,5 +1,6 @@
 ---
 title: Argument_Terhart_2011_JCS
+author: "Terhart, E"
 summary: "VL 最早的学术书评之一，从元-元分析认识论困境、教学理论内容空洞、Foucault 式可见性政治三维度审查 Hattie，提出稳定性/变异性双重困境"
 type: argument
 subtype: journal-article

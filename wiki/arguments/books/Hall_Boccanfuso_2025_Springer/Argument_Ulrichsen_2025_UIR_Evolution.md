@@ -1,5 +1,6 @@
 ---
 title: Argument_Ulrichsen_2025_UIR_Evolution
+author: "Ulrichsen, T. C"
 summary: "综述过去50年产学关系演变，从创新模型、国家政策范式和大学-企业角色变迁三个维度追踪UIR从零散互动走向制度化战略化的历程，提出七层次影响因素框架"
 type: argument
 subtype: book-chapter

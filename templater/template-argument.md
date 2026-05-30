@@ -1,5 +1,6 @@
 ---
 title: <% tp.file.title %>
+author: ""
 summary: ""
 type: argument
 subtype: journal-article

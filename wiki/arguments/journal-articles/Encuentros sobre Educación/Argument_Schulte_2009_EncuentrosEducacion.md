@@ -1,5 +1,6 @@
 ---
 title: Argument_Schulte_2009_EncuentrosEducacion
+author: "Schulte, B"
 summary: "追溯杜威在中国九十年间四个时期的接受与变形，揭示外国教育思想如何被主动再脉络化而非简单误解，以服务于每个时期知识分子的不同议程"
 type: argument
 subtype: journal-article

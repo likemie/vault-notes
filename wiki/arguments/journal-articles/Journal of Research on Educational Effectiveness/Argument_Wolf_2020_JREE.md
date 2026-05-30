@@ -1,5 +1,6 @@
 ---
 title: Argument_Wolf_2020_JREE
+author: "Wolf, R., Morrison, J., Inns, A., Slavin, R., & Risman, K"
 summary: "以多元元回归分析 WWC 数据库 755 个效应量，发现开发者研究效应量平均比独立评估高 0.141 SD（约 1.8 倍），识别发表偏倚、选择性报告和研究者自由度为可能解释机制"
 type: argument
 subtype: journal-article

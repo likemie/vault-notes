@@ -1,5 +1,6 @@
 ---
 title: Argument_Ryabyy_2024_Maneto
+author: "Ryabyy, V"
 summary: "利用 Dewey 私人通信、纽约时报报道和美国国务院外交函件重建其 1928 年访苏行程，揭示该访问对苏联教育者和美国公众舆论的多向影响，以及反共势力如何将教育交流视为宣传工具"
 type: argument
 subtype: journal-article

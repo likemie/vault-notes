@@ -1,5 +1,6 @@
 ---
 title: Argument_Nielsen_2021_NordPsych
+author: "Nielsen, K., & Klitmøller, J"
 summary: "论证 Hattie 是教育理论家（非纯统计学家），追溯其行为主义谱系（Skinner→Glaser→Hattie），对 VL 反馈效应的 5 项最重元分析逐项细读审查发现 4/5 未研究同一现象"
 type: argument
 subtype: journal-article

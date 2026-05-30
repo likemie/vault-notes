@@ -1,5 +1,6 @@
 ---
 title: Argument_Ball_2008_SR
+author: "Ball, S. J"
 summary: "以Bernstein、Foucault和Bourdieu为工具重写英国教育社会学史，说明教育社会学如何通过不同研究目光把家庭、学校知识和学校管理转化为治理对象"
 type: argument
 citation: "Ball, S. J. (2008). Some sociologies of education: A history of problems and places, and segments and gazes. The Sociological Review, 56(4), 650-669."

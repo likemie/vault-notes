@@ -1,5 +1,6 @@
 ---
 title: Argument_Jornitz_2022_Bildung_algorithmic
+author: "Jornitz, S., & Klinge, D"
 summary: "以 Bildung 概念和 Gruschka 教学理论为框架，分析学习软件的即时反馈、奖励系统和表现仪表盘三大机制如何系统性地排除教育中的意义建构与人格陶成，将算法技术的全球传播解读为数字知识地缘政治"
 type: argument
 subtype: book-chapter

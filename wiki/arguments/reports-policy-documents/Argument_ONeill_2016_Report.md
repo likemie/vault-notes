@@ -1,5 +1,6 @@
 ---
 title: Argument_ONeill_2016_Report
+author: "O'Neill, J., with Duffy, C., & Fernando, S"
 summary: "以 Thompson 网络治理理论为框架，通过六案例社会网络分析绘制新西兰公立教育私营部门参与全景图，揭示 John Hattie 政策创业与 VL 商业化轨迹，质疑 EMO 慈善捐赠比例与公共福利透明度"
 type: argument
 subtype: report

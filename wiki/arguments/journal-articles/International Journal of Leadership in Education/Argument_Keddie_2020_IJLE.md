@@ -1,5 +1,6 @@
 ---
 title: Argument_Keddie_2020_IJLE
+author: "Keddie, A., MacDonald, K., Blackmore, J., Wilkinson, J., Gobby, B., Niesche, R., Eacott, S., & Mahoney, C"
 summary: "以 Dolan 悖论框架分析 42 位澳大利亚教育利益相关者访谈，识别市场驱动的学校自主权改革的四大社会正义悖论"
 type: argument
 subtype: journal-article

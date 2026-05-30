@@ -1,5 +1,6 @@
 ---
 title: Argument_Larsen_2019_EducSci
+author: "Larsen, S. N"
 summary: "从 Bildung、神经可塑性、现象学自由和概念史四维度对 Hattie VL 范式的哲学批判，论证盲视是教育观看不可避免的组成部分"
 type: argument
 subtype: journal-article

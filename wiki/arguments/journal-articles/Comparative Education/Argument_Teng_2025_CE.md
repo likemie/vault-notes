@@ -1,5 +1,6 @@
 ---
 title: Argument_Teng_2025_CE
+author: "Teng, Y. & Wang, D"
 summary: "以G县混合方法研究揭示陪读按家庭社会经济地位分层，经济资本决定能否陪读、社会资本决定进入哪所学校，中上层迁出加速农村学校衰败，使城镇化战略未能减少反而强化了城乡教育不平等"
 type: argument
 subtype: journal-article

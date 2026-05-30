@@ -1,5 +1,6 @@
 ---
 title: Argument_Boccanfuso_Hall_2025_OrgStrategy
+author: "Boccanfuso, A., & Hall, R"
 summary: "构建产学参与的活动-基础-特征三维框架，通过65所大学网站分析和产学双方问卷调查，发现五种常见组织模式且无一完全全面，中心办公室仅充当导航者而非执行者，双方在互利关系上高度一致但组织实践高度碎片化"
 type: argument
 citation: "Boccanfuso, A., & Hall, R. (2025). Organization and Strategy for University-Industry Relationships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 51–71). Springer."

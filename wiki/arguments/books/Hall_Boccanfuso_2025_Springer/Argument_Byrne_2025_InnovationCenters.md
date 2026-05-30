@@ -1,5 +1,6 @@
 ---
 title: Argument_Byrne_2025_InnovationCenters
+author: "Byrne, K. T., & Clements, V. R"
 summary: "基于大学融资基金会四十余年产学合作开发经验，提出创新中心建设的四个核心信条与六项优先领域，以 Tech Square、RTP 等多案例说明如何通过场所营造与资产映射推动区域经济发展"
 type: argument
 citation: "Byrne, K. T., & Clements, V. R. (2025). Innovation Centers and Economic Development. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 123-140). Springer."

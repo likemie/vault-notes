@@ -1,5 +1,6 @@
 ---
 title: Argument_Bolton_2017_ArchPsych
+author: "Bolton, S., & Hattie, J"
 summary: "将皮亚杰/新皮亚杰认知发展阶段与 PFC 解剖生理发育及 EF 发展轨迹进行对齐的文献综述，论证阶段过渡是 EF 随脑发育而发展的函数"
 type: argument
 subtype: journal-article

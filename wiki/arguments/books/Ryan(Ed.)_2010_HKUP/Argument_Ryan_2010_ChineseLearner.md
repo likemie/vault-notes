@@ -1,5 +1,6 @@
 ---
 title: Argument_Ryan_2010_ChineseLearner
+author: "Ryan, J"
 summary: "Ch2 文献批判综述：西方对中国学习者“缺陷型“与“优势型“双重刻板印象的诊断，二元对立表格的建构，“儒家价值“归因的非实证性，2001 年中国课程改革使刻板印象过时，元文化敏感度作为替代路径"
 type: argument
 subtype: book-chapter

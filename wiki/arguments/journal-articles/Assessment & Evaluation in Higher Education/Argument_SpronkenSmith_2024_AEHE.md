@@ -1,5 +1,6 @@
 ---
 title: Argument_SpronkenSmith_2024_AEHE
+author: "Spronken-Smith, R., Brown, K., & Cameron, C"
 summary: "通过美新三国 PhD 毕业生调查与访谈，比较 HASS 与科学学科博士特质发展与职场应用的差距，识别出团队合作等五大薄弱领域，提出含全球公民维度的七域分类框架"
 type: argument
 subtype: journal-article

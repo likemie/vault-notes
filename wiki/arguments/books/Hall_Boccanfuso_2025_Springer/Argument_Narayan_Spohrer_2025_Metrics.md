@@ -1,5 +1,6 @@
 ---
 title: Argument_Narayan_Spohrer_2025_Metrics
+author: "Narayan, S., & Spohrer, J"
 summary: "以IBM百年产学关系历程为线索，提出度量、激励、奖励与文化四要素必须随商业环境与战略重点持续调适，并通过六R框架和大小规模案例说明产学合作的实践逻辑"
 type: argument
 citation: "Narayan, S., & Spohrer, J. (2025). Metrics, Incentives, Rewards, and Culture for Impact. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 85–99). Springer."

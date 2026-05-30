@@ -1,5 +1,6 @@
 ---
 title: Argument_Yu_2024_CE
+author: "Yu, T. & Zhao, Z"
 summary: "对比六科教科书官方儒家叙事与37名少数民族/宗教背景学生访谈，揭示官方知识将儒学塑造为中华文化核心以强化汉文化中心边缘等级，而学生视其为文化多元组成之一并可被跨文化反思"
 type: argument
 subtype: journal-article

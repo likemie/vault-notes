@@ -1,5 +1,6 @@
 ---
 title: Argument_Hall(Ed.)_2025_Springer
+author: "Hall, R., & Boccanfuso, A. (Eds.)"
 summary: "围绕产学合作的对齐（alignment）、参与（engagement）与公共效益组织 17 章研究，以基础-路径-机制三层框架展示大学与企业在研究、教育和创新生态系统中的合作机制与挑战"
 type: argument
 subtype: edited-volume

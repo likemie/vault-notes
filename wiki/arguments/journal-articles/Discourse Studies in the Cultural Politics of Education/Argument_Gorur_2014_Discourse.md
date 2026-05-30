@@ -1,5 +1,6 @@
 ---
 title: Argument_Gorur_2014_Discourse
+author: "Gorur, R"
 summary: "以 STS 和测量社会学框架追溯 OECD 教育指标从“几乎不可能“到年度常规生产的历程，论证测量是制造世界而非描述世界的生产性行为，批判因此是道德事业"
 type: argument
 subtype: journal-article

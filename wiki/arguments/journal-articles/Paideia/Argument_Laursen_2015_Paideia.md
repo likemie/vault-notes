@@ -1,5 +1,6 @@
 ---
 title: Argument_Laursen_2015_Paideia
+author: "Laursen, P. F"
 summary: "比较 Hattie、Meyer、Helmke 国际有效教学综合与丹麦 SFI 等研究，论证其核心结论在丹麦总体有效，国家文化影响弱于学生社会背景"
 type: argument
 subtype: journal-article
