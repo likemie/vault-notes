@@ -19,6 +19,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
+  - "[[Theoretical Perspective]]"
   - "[[Governmentality]]"
   - "[[Bildung]]"
 related_theories:
@@ -75,7 +76,7 @@ updated: 2026-05-20
 ## 理论基础
 
 > [!tip]
-> 有前景的学生这一概念依托于两个理论视角：
+> 有前景的学生这一概念依托于两个[[Theoretical Perspective|理论视角]]：
 
 - **Foucault 的 [[Governmentality|治理术]]（governmentality）**：治理术关涉"行为的引导"（conduct of conduct）——不是通过强制，而是通过塑造主体的自我理解来引导行为。有前景的学生正是通过 [[Online Self-Assessment|OSA]] 等自我技术被引导为"企业家型的学术主体"（entrepreneurial academic subject）（Thompson et al., 2022, p.226）。
 - **Deleuze 的[[Societies of Control|控制社会]]**：Deleuze（1992）指出，规训性社会控制正在被"超快形式自由浮动的控制"取代。在教育领域，学生不再像过去那样在一次考试后从机构中被释放，而是处于持续的调制之中——从入学前的 OSA 到毕业后的校友追踪，控制从未终止（Thompson et al., 2022, pp.221–222）。

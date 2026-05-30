@@ -12,6 +12,7 @@ tags:
   - paradigm/transformative
   - theme/social-justice
 related_concepts:
+  - "[[Theoretical Perspective]]"
   - "[[Discipline-Based Theory]]"
   - "[[Variable]]"
   - "[[Theoretical Standpoint]]"
@@ -40,7 +41,7 @@ updated: 2026-05-31
 
 ## 在混合方法研究中的运用方式
 
-将社会正义理论视角融入[[Mixed Method and Multi-method Research|混合方法研究]]的方式包括（Creswell & Creswell, 2022, p.70）：
+将社会正义[[Theoretical Perspective|理论视角]]融入[[Mixed Method and Multi-method Research|混合方法研究]]的方式包括（Creswell & Creswell, 2022, p.70）：
 
 > [!abstract]
 > 1. 在研究开头段落中指明框架（如女性主义、参与式研究）

@@ -19,6 +19,7 @@ tags:
   - policy/national-security-law
 related_concepts:
   - "[[One Country, Two Systems]]"
+  - "[[Theoretical Perspective]]"
   - "[[Sinicisation]]"
   - "[[Schmittian Sovereignty]]"
   - "[[Culturalisation of Politics]]"
@@ -63,7 +64,7 @@ updated: 2026-05-25
 ## 理论框架
 
 > [!abstract] 理论框架
-> 分析调动了多个理论视角：
+> 分析调动了多个[[Theoretical Perspective|理论视角]]：
 >
 > - **文化-种族国族主义（culturalist-racialist nationalism）** — 一个核心预设是：中共在习近平时代从阶级话语全面转向了以"优秀中华传统文化"为核心的、具有文化和种族本质主义色彩的国族观。这一转向不是学术讨论，它在政策层面表现为对"少数民族"的强制性同化（如新疆的普通话化教育）、对港澳台地区的"去殖民化-再[[Sinicisation|中国化]]"工程（p.139）。
 > - **施密特（Schmitt）式主权理论** — 卡尔·施密特（Carl Schmitt）是纳粹德国的"御用法学家"，其核心主张是：**主权者的本质不在于制定规则，而在于决定[[Schmittian Sovereignty|例外状态]]**，即谁有权在紧急状态下悬置法律。法律学者 Jiang Shigong（强世功）将这一逻辑应用于香港：中央对香港的主权不是法律约束下的权力，而是**定义法律的权力本身**。当"国家安全"被宣布为例外状态，《国安法》实质上将香港宪制从法治（rule of law，法律约束权力）转变为以法而治（rule by law，权力通过法律表达自身）（p.155）。

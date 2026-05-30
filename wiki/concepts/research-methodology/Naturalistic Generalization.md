@@ -8,10 +8,14 @@ type: concept
 tags:
   - subject/research-methodology
   - paradigm/constructivist
-related_concepts: []
+related_concepts:
+  - "[[Theoretical End Point]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Case Study]]"
+related_persons:
+  - "[[Robert E. Stake]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -27,7 +31,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 自然主义概括（naturalistic generalization）是 Stake (1995) 在案例研究方法论中提出的概念。研究者在基于案例数据形成命题性概括（propositional generalization，即研究者的解释和主张总结）之外，还加入了自己的个人经验，这一融合产物就是自然主义概括（p.86; 引自 Creswell & Creswell, 2022, p.67）。它来自质性研究中理论作为研究终点的运用方式。
+> 自然主义概括（naturalistic generalization）是 [[Robert E. Stake|Stake]] (1995) 在案例研究方法论中提出的概念。研究者在基于案例数据形成命题性概括（propositional generalization，即研究者的解释和主张总结）之外，还加入了自己的个人经验，这一融合产物就是自然主义概括（p.86; 引自 Creswell & Creswell, 2022, p.67）。它来自[[Qualitative Research|质性研究]]中理论作为研究终点的运用方式。
 
 ## 核心特征
 
@@ -42,11 +46,11 @@ updated: 2026-05-31
 > **自然主义概括 vs 统计概括**。统计概括以随机抽样和概率理论为基础，将样本统计量推广至总体参数。自然主义概括不以概率为依托，依靠读者对案例情境与自身实践情境之间相似性的判断，是一种由读者完成的认知推广。
 
 > [!example]
-> **自然主义概括 vs [[Theoretical End Point|理论终点]]**。理论终点是质性研究归纳逻辑的最终产物（主题发展为理论模型或概括），自然主义概括是理论终点在案例研究设计中的具体实现形式之一。
+> **自然主义概括 vs [[Theoretical End Point|理论终点]]**。理论终点是[[Qualitative Research|质性研究]]归纳逻辑的最终产物（主题发展为理论模型或概括），自然主义概括是理论终点在案例研究设计中的具体实现形式之一。
 
 ## 相关概念
 
-- [[Theoretical End Point]] — 理论终点是质性研究中理论作为研究结局的总体框架
+- [[Theoretical End Point]] — 理论终点是[[Qualitative Research|质性研究]]中理论作为研究结局的总体框架
 - [[Case Study]] — 案例研究是自然主义概括最主要的使用语境
 
 ## 来源

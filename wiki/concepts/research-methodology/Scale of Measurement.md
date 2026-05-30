@@ -10,9 +10,11 @@ type: concept
 tags:
   - subject/research-methodology
   - paradigm/positivist
-related_concepts: []
+related_concepts:
+  - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -29,11 +31,16 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 测量尺度（scale of measurement）指量化研究中向参与者提供的反应选项，或研究者在观察参与者时收集的测量单位（Creswell & Creswell, 2022, p.56）。变量通过测量尺度被操作化，研究者据此将参与者的回答或行为转化为可分析的数据。多部方法论经典对此有详细讨论，包括 Isaac & Michael (1981)、Keppel (1991)、Kerlinger (1979)、Thompson (2006) 和 Thorndike (1997)。
+> 测量尺度（scale of measurement）指[[Quantitative Research|量化研究]]中向参与者提供的反应选项，或研究者在观察参与者时收集的测量单位（Creswell & Creswell, 2022, p.56）。[[Variable|变量]]通过测量尺度被操作化，研究者据此将参与者的回答或行为转化为可分析的数据。
+
+> [!quote]
+> "A scale of measurement in quantitative research would be the response options available to participants on instruments or collected by the researcher observing participants."（Creswell & Creswell, 2022, p.56）
+
+多部方法论经典对测量尺度有详细讨论，包括 Isaac & Michael (1981)、Keppel (1991)、Kerlinger (1979)、Thompson (2006) 和 Thorndike (1997)。变量被测量为分类（categorical）或连续（continuous）两大类型（Creswell & Guetterman, 2018）。
 
 ## 核心分类
 
-变量被测量为两大类型（Creswell & Guetterman, 2018; Creswell & Creswell, 2022, p.56）。
+[[Variable|变量]]被测量为两大类型（Creswell & Guetterman, 2018; Creswell & Creswell, 2022, p.56）。
 
 ### 分类量表（Categorical Scales）
 

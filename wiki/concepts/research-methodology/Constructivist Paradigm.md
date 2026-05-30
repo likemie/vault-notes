@@ -22,7 +22,9 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
-related_persons: []
+related_persons:
+  - "[[Yvonna S. Lincoln]]"
+  - "[[Egon G. Guba]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -52,7 +54,7 @@ updated: 2026-05-30
 ## 理论基础
 
 > [!tip]
-> 建构主义的思想来源包括 Mannheim、Berger 和 Luckmann (1967) 的 The Social Construction of Reality、Lincoln 和 Guba (1985) 的 Naturalistic Inquiry，以及更近期的 Lincoln et al. (2011)、Mertens (2010) 和 Crotty (1998) 等学者。与[[Postpositivism|后实证主义]]从既有理论出发不同，建构主义研究者不从理论开始，而采取归纳方式从数据中生成理论或意义模式。
+> 建构主义的思想来源包括 Mannheim、Berger 和 Luckmann (1967) 的 The Social Construction of Reality、[[Yvonna S. Lincoln|Lincoln]] 和 [[Egon G. Guba|Guba]] (1985) 的 Naturalistic Inquiry，以及更近期的 Lincoln et al. (2011)、Mertens (2010) 和 Crotty (1998) 等学者。与[[Postpositivism|后实证主义]]从既有理论出发不同，建构主义研究者不从理论开始，而采取归纳方式从数据中生成理论或意义模式。
 
 ## 概念辨析
 

@@ -4,8 +4,8 @@ extracted_to:
   - "[[Argument_Cowen_2019_ERE]]"
   - "[[Evidence-Based Education]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Nick Cowen]]"
   - "[[Tullock's Bureaucracy Theory]]"
+  - "[[Nick Cowen]]"
 processed_date: 2026-05-01
 ---
 

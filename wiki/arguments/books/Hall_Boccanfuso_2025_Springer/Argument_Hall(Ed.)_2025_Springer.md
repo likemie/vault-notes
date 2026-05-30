@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Partnership Continuum]]"
+  - "[[Theoretical Perspective]]"
   - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
   - "[[Academic Freedom]]"
@@ -178,7 +179,7 @@ updated: 2026-05-26
 ## 理论框架
 
 > [!tip]
-> 全书共用的理论视角。
+> 全书共用的[[Theoretical Perspective|理论视角]]。
 
 - [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）的大学-产业-政府三重螺旋模型，三者在以知识为基础的经济发展中形成相互支撑的反馈循环（p.13）
 - [[Innovation Ecosystem]] — 建立在 Schumpeter（1942）创新理论和 Ridley（2020）论述的基础上，理解大学如何作为区域经济的"锚点"、创意与人员如何通过流动驱动创新（pp.12–13）

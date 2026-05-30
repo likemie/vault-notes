@@ -14,6 +14,7 @@ tags:
   - complex-design
 related_concepts:
   - "[[Social Justice Theory]]"
+  - "[[Theoretical Perspective]]"
   - "[[Lost Mode]]"
 related_theories: []
 related_methods:
@@ -42,7 +43,7 @@ updated: 2026-05-30
 > [!example]
 > - **嵌入实验**：在实验结束后收集质性数据，帮助解释量化结果。
 > - **嵌入案例研究框架**：在案例研究框架内使用核心设计，以演绎方式记录案例或以归纳方式生成案例供进一步分析。
-> - **嵌入[[Social Justice Theory|社会正义理论]]**：以一个社会正义理论视角作为总体框架，其中同时包含量化和质性数据。
+> - **嵌入[[Social Justice Theory|社会正义理论]]**：以一个社会正义[[Theoretical Perspective|理论视角]]作为总体框架，其中同时包含量化和质性数据。
 > - **嵌入评估程序**：在从需求评估到项目或实验干预检验的不同评估阶段中分别使用核心设计。
 
 ## 适用场景

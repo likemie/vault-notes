@@ -17,6 +17,7 @@ related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
 related_persons:
+  - "[[Robert E. Stake]]"
   - "[[Yajun Zheng]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
@@ -33,7 +34,7 @@ updated: 2026-05-30
 ## 定义
 
 > [!info] 定义
-> 个案研究（Case Study）是一种在多个领域（尤其是评估领域）中广泛使用的[[Qualitative Research|质性研究]]设计。研究者对一个案例（通常是一个项目、事件、活动、过程或一个或多个个体）进行深度分析。案例受时间和地点（或情境）的限定，研究者通过多种数据收集程序在持续的时间段内收集详细信息（Stake, 1995; Yin, 2009, 2012, 2014）。
+> 个案研究（Case Study）是一种在多个领域（尤其是评估领域）中广泛使用的[[Qualitative Research|质性研究]]设计。研究者对一个案例（通常是一个项目、事件、活动、过程或一个或多个个体）进行深度分析。案例受时间和地点（或情境）的限定，研究者通过多种数据收集程序在持续的时间段内收集详细信息（[[Robert E. Stake|Stake]], 1995; Yin, 2009, 2012, 2014）。
 > 
 > 在具体研究实践中，[[Yajun Zheng|郑雅君]]（2023）以少数典型案例为分析单位，通过对个案的深入考察来理解更广泛的社会过程或机制。在其精英大学学生出路分化研究中，对 62 名毕业班学生进行了跟踪式个案研究，研究者与被访者保持联络直至其最终确定毕业去向才宣告结束。
 >

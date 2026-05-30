@@ -13,6 +13,7 @@ tags:
   - theory/social-learning
 related_concepts:
   - "[[Self-Efficacy]]"
+  - "[[Theoretical Perspective]]"
 related_theories:
   - "[[Social Learning Theory]]"
 related_methods: []
@@ -54,7 +55,7 @@ updated: 2026-05-31
 > [!success]
 > - [[Social Learning Theory|社会学习理论]]被广泛应用于对竞争性、攻击性、异常行为和病理行为等社会行为的解释（Bandura & Walters, 1963; Bandura, 1977; Mischel, 1968; Miller & Dollard, 1941; Rotter, 1954; Staats, 1975）
 > - 理论被用于人格评估技术（Mischel, 1968）以及临床和教育情境中的行为修正（Bandura, 1977; Bower & Hilgard, 1981）
-> - Crutchfield (1986) 在其博士论文中以社会学习理论作为理论视角研究护理教育者的学术生产力
+> - Crutchfield (1986) 在其博士论文中以社会学习理论作为[[Theoretical Perspective|理论视角]]研究护理教育者的学术生产力
 > - [[Self-Efficacy|自我效能]]理论在教育和健康行为研究领域具有广泛影响
 
 ## 来源

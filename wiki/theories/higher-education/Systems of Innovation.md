@@ -15,6 +15,7 @@ tags:
   - "level/higher-education"
   - "theme/university-industry-collaboration"
 related_concepts:
+  - "[[Theoretical Perspective]]"
   - "[[Absorptive Capacity]]"
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
@@ -46,7 +47,7 @@ updated: 2026-05-27
 > [!tip]
 > 创新[[Luhmann's Systems Theory|系统理论]]（Systems of Innovation）的核心主张是：创新不是一个从基础研究到商业产品的线性过程，而是多个行动者（大学、企业、政府实验室、投资者等）在特定制度环境（法律框架、金融系统、文化规范等）下，通过市场和非市场互动进行知识交换和集体学习的系统活动（Lundvall et al., 2002; Edquist, 1997）（Ulrichsen, 2025, pp.29–31）。
 
-> 这一理论视角的独特之处在于：它将分析单位从"单个创新者"或"单个组织"提升到"系统"层面——创新绩效不仅取决于系统中各行动者的能力，还取决于它们之间的链接质量、知识流动效率以及制度"游戏规则"的适配性。
+> 这一[[Theoretical Perspective|理论视角]]的独特之处在于：它将分析单位从"单个创新者"或"单个组织"提升到"系统"层面——创新绩效不仅取决于系统中各行动者的能力，还取决于它们之间的链接质量、知识流动效率以及制度"游戏规则"的适配性。
 
 ---
 

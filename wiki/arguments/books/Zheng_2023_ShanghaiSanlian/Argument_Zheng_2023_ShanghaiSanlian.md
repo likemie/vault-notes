@@ -36,6 +36,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Credential Inflation]]"
   - "[[Employability]]"
+  - "[[Theoretical Perspective]]"
   - "[[Causality]]"
   - "[[Student Engagement]]"
   - "[[Student Involvement]]"
@@ -297,7 +298,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 
 **本章性质：** 理论与方法章。以韦伯诠释社会学为认识论起点，整合高等教育学、教育社会学、文化社会学三条理论脉络，建构一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"分析框架；后半章交代研究设计（深度访谈、个案选取、[[Grounded Theory|扎根理论]]分析）与研究者反思。
 
-**本章结构：** 前半为理论视角（打开黑箱 → 三大理论洞见 → 核心分析框架），后半为研究方法（认识论 → 田野点 → 个案 → 访谈 → 分析 → 反思）。
+**本章结构：** 前半为[[Theoretical Perspective|理论视角]]（打开黑箱 → 三大理论洞见 → 核心分析框架），后半为研究方法（认识论 → 田野点 → 个案 → 访谈 → 分析 → 反思）。
 
 
 **第一步：区分两种教育社会学视角——"所有物"vs"过程"，明确定位**

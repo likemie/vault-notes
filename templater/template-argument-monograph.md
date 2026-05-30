@@ -7,7 +7,6 @@ type: argument
 subtype: monograph
 publication_type: book
 book_title: ""
-authors: []
 publisher: ""
 citation: ""
 tags: []

@@ -10,8 +10,8 @@ extracted_to:
   - "[[What Works Network]]"
   - "[[California Class Size Reduction 1996]]"
   - "[[Nancy Cartwright]]"
-  - "[[Nick Cowen]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
+  - "[[Nick Cowen]]"
 processed_date: 2026-05-01
 ---
 
