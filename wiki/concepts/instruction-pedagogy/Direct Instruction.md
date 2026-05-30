@@ -17,7 +17,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Feedback]]"
-  - "[[Side Effects in Education]]"
+  - "[[Side Effects]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -82,7 +82,7 @@ updated: "2026-05-22"
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 效果与副作用并存：Zhao（2017）提醒，直接教学在短期成绩表现上常常有利，但这不自动意味着它在创造力、开放探索和复杂问题解决上也总是更优。更完整的讨论见 [[Side Effects in Education]]（Zhao, 2017, pp.7-10）。
+> - 效果与副作用并存：Zhao（2017）提醒，直接教学在短期成绩表现上常常有利，但这不自动意味着它在创造力、开放探索和复杂问题解决上也总是更优。更完整的讨论见 [[Side Effects]]（Zhao, 2017, pp.7-10）。
 > - 容易被误读成“讲得越多越好”：Håkansson（2015）对瑞典政策讨论的批评，刚好可以用来修正这种误读。研究支持教师把结构搭清楚，但不支持把教学简化为片面的讲坛式回归（Håkansson, 2015, pp.593-595）。
 > - 适用边界强依赖学习阶段：当学生尚未形成基础知识框架时，直接教学往往更容易发挥作用；但若长期只保留讲解和模仿，而不给学生更高阶应用与反思空间，就可能把“清晰结构”变成“过度控制”。
 

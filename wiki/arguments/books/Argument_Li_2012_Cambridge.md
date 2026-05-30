@@ -1,7 +1,5 @@
 ---
 title: Argument_Li_2012_Cambridge
-authors:
-  - "Li, J"
 summary: "以好學心为切入点对比东亚与西方两种文化学习模型，追溯各自知识传统并分析文化如何塑造学习信念与过程"
 type: argument
 subtype: monograph

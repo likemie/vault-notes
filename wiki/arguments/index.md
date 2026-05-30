@@ -16,7 +16,7 @@ Total entries: **117**
 
 ### Creswell_2022_SAGE
 
-- [[Argument_Creswell_2022_SAGE]] — Creswell & Creswell 教材第六版前言，介绍研究设计的框架、三种研究路径的比较逻辑、全书两大部分共十章的结构，以及第六版新增特色
+- [[Argument_Creswell_2022_SAGE]] — Creswell & Creswell 研究方法教材第六版，系统讲解量化、质性和混合方法三种研究路径的设计框架、关键组成部分和写作方法，涵盖从哲学假设、文献综述、理论使用到具体方法程序的完整研究设计流程
 
 ### Hall_Boccanfuso_2025_Springer
 

@@ -1,5 +1,5 @@
 ---
-title: Master Agreement in University-Industry Collaboration
+title: Master Agreement
 aliases:
   - "产学合作主协议"
   - "主协议"

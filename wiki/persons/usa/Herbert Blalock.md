@@ -54,7 +54,7 @@ updated: 2026-05-31
 ## 影响
 
 > [!success]
-> - Blalock 的因果建模方法为后来的路径分析（path analysis）和[[Causal Modeling|结构方程建模]]（[[Causal Modeling|SEM]]）提供了概念基础
+> - Blalock 的[[Causal Modeling|因果建模]]方法为后来的路径分析（path analysis）和[[Causal Modeling|结构方程建模]]（[[Causal Modeling|SEM]]）提供了概念基础
 > - 他的视觉因果图符号规则至今仍是[[Quantitative Research|量化研究]]论文中绘制理论模型图的基本规范
 > - Jungnickel (1990) 在其博士论文中遵循 Blalock 的符号规则构建了关于药学院教师研究生产力的复杂视觉模型（Creswell & Creswell, 2022, pp.59–60）
 

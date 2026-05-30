@@ -1,5 +1,5 @@
 ---
-title: Space-Making in Higher Education
+title: Space-Making
 aliases:
   - 高等教育空间制造
   - space-making

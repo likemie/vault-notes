@@ -5,7 +5,7 @@ extracted_to:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[International Education Hubs]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[Transnational Research Collaboration]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Capitalism]]"

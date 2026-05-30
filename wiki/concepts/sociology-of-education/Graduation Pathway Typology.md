@@ -17,7 +17,7 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunist Mode]]"
-  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Cultural Barrier]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
 related_theories:
@@ -65,7 +65,7 @@ updated: 2026-05-18
 
 ### 迷失无从者（Lost Mode）
 
-位于纵轴下方、横轴左侧：使用[[Intuition-Dependent Mode|直觉依赖模式]]且未形成内在自洽的价值观念。来自劣势家庭背景，面临目标失焦和策略不足的[[Cultural Barrier in Higher Education|文化障碍]]，同时又游离于各种价值取向之间而举棋不定。在毕业出路的获得上处于最不利地位。详见 [[Lost Mode]]（郑雅君，2023）。
+位于纵轴下方、横轴左侧：使用[[Intuition-Dependent Mode|直觉依赖模式]]且未形成内在自洽的价值观念。来自劣势家庭背景，面临目标失焦和策略不足的[[Cultural Barrier|文化障碍]]，同时又游离于各种价值取向之间而举棋不定。在毕业出路的获得上处于最不利地位。详见 [[Lost Mode]]（郑雅君，2023）。
 
 ### 价值归顺者（Value Conformist Mode）
 

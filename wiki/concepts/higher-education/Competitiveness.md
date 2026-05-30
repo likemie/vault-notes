@@ -1,5 +1,5 @@
 ---
-title: Competitiveness in Higher Education
+title: Competitiveness
 aliases:
   - 高等教育竞争力
   - 竞争性地缘政治装置

@@ -3,7 +3,7 @@ citation: "Eacott, S. (2019). Ranting, raving and complaining: reflections on wo
 extracted_to:
   - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Cult of the Guru]]"
-  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Neo-Taylorism]]"
   - "[[Parallel Monologues]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"

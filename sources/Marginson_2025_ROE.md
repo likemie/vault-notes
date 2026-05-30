@@ -6,7 +6,7 @@ extracted_to:
   - "[[Double Spatiality of Universities]]"
   - "[[Scale in Higher Education]]"
   - "[[Semi-Autonomy of Higher Education]]"
-  - "[[Space-Making in Higher Education]]"
+  - "[[Space-Making]]"
   - "[[Hegemony]]"
   - "[[Power-Geometries]]"
   - "[[Radical Liberal Internationalism]]"

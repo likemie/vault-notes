@@ -26,17 +26,17 @@ related_concepts:
   - "[[University Spin-Out]]"
   - "[[Industry Advisory Board]]"
   - "[[Professors of Practice]]"
-  - "[[Trade Mission in University-Industry Engagement]]"
+  - "[[Trade Mission]]"
   - "[[Professional Judgment]]"
   - "[[University Corporate Engagement Professional]]"
-  - "[[Strategic Partnership in University-Industry Collaboration]]"
+  - "[[Strategic Partnership]]"
   - "[[Industry Affiliate Program]]"
-  - "[[Master Agreement in University-Industry Collaboration]]"
+  - "[[Master Agreement]]"
   - "[[Proof of Concept Programs]]"
   - "[[Concierge Service]]"
   - "[[Multi-University]]"
   - "[[Innovation Park]]"
-  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Cultural Barrier]]"
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Triple Helix]]"
@@ -166,13 +166,13 @@ updated: 2026-05-30
 
 Burrus 和 Patera（2025）将产学关系建设归纳为三个相互关联的阶段（Burrus & Patera, 2025, pp.74–79）：
 
-**连接（Connecting）**：找到组织中正确的人是第一步。产学关系的拥护者可通过以下渠道识别——参与学术研讨会和[[Industry Advisory Board|行业咨询委员会]]、出席 UIDP 和 [[Network of Academic Corporate Relations Officers|NACRO]] 等产学专业活动、担任 [[Professors of Practice|实践教授]]、参加[[Trade Mission in University-Industry Engagement|政府贸易代表团]]，以及参与校友活动。其中，校友网络是启动产业合作的特别有效策略：校友熟悉大学的研究优势，在产业中拥有信誉和网络，可以充当倡导者、连接者、赞助者和合作者。具体方式包括组建行业咨询委员会和圆桌讨论、鼓励校友推动公司内部研究合作、建立结构化校友指导计划、按公司组织校友员工群体、连接校友创业者与大学研究人员、以及开发以校友专长为基础的行业高管教育项目（pp.74–75）。
+**连接（Connecting）**：找到组织中正确的人是第一步。产学关系的拥护者可通过以下渠道识别——参与学术研讨会和[[Industry Advisory Board|行业咨询委员会]]、出席 UIDP 和 [[Network of Academic Corporate Relations Officers|NACRO]] 等产学专业活动、担任 [[Professors of Practice|实践教授]]、参加[[Trade Mission|政府贸易代表团]]，以及参与校友活动。其中，校友网络是启动产业合作的特别有效策略：校友熟悉大学的研究优势，在产业中拥有信誉和网络，可以充当倡导者、连接者、赞助者和合作者。具体方式包括组建行业咨询委员会和圆桌讨论、鼓励校友推动公司内部研究合作、建立结构化校友指导计划、按公司组织校友员工群体、连接校友创业者与大学研究人员、以及开发以校友专长为基础的行业高管教育项目（pp.74–75）。
 
 政府贸易代表团提供了另一连接渠道。以普林斯顿大学为例，自 2018 年起通过新泽西州 ChooseNJ 组织的州贸易代表团访问印度、以色列、爱尔兰、英国和东亚，获得了多重收益：提升州政府和访问国家对大学专长的认知、建立与访问国家产业和创新团体的联系、开拓三方（大学-企业-访问国家大学）合作前景（p.76）。
 
 **探索发现（Exploring/Uncovering）**：识别产学一致利益需要结合技术平台与人的[[Professional Judgment|专业判断]]。Pivot、Elsevier Pure、Academic Analytics 以及 FirstIgnite、PreScouter、Pillar Science、HaloScience 等工具可以做初步匹配，但这些工具依赖用户经验——新手使用可能范围过宽或过窄，从而错失相关研究者或合作机会。最有效的方法是将技术平台与 [[University Corporate Engagement Professional|大学企业参与专员]]的专业洞察相结合，由专员解读数据、将潜在匹配情境化并促成有意义的引荐（pp.76–78）。
 
-**建设战略伙伴关系（Building）**：[[Strategic Partnership in University-Industry Collaboration|产学战略伙伴关系]]至少需要四个要素——双方组织的联络人、共同认可的愿景与目标、包含定期审查的路线图，以及双方的问责制。联络人理解各自组织需求，制定包含短中长期目标的路线图（同时认识到大学和公司的目标可能不同），并通过定期审查对照 SMART 目标评估进展。大多数战略伙伴关系从小处起步：从一个教师与产业研究者之间的项目开始，测试双方兼容性；初始项目成功后，随着 UCEP 的参与，关系逐步扩展至更广泛的战略层面（pp.78–79）。
+**建设战略伙伴关系（Building）**：[[Strategic Partnership|产学战略伙伴关系]]至少需要四个要素——双方组织的联络人、共同认可的愿景与目标、包含定期审查的路线图，以及双方的问责制。联络人理解各自组织需求，制定包含短中长期目标的路线图（同时认识到大学和公司的目标可能不同），并通过定期审查对照 SMART 目标评估进展。大多数战略伙伴关系从小处起步：从一个教师与产业研究者之间的项目开始，测试双方兼容性；初始项目成功后，随着 UCEP 的参与，关系逐步扩展至更广泛的战略层面（pp.78–79）。
 
 ### 联盟、联合体与组织化参与
 
@@ -198,7 +198,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 三种成功要素被识别为任何联盟与联合体的基础（pp.105–108）：
 - **价值主张**：必须从企业角度定义、能在"电梯上升的短时间内讲清楚"。最常见的问题是：一线技术赞助人和大学教授清楚合作价值，但预算的真正决策者（企业高管层）不清楚
 - **关系经理**：双方都需要有明确责任的人认领关系，通过定期、不可跳过的会议维持对话。关系经理还需要理解对方的预算和决策日历——企业预算周期往往与大学学术日历冲突
-- **[[Master Agreement in University-Industry Collaboration|主协议]]（Master Agreement）**：覆盖知识产权归属与使用、赔偿、治理结构、出版、保密等关键条款。理想的主协议长期不变，每隔几年审查一次以适应新法律。已有主协议的企业可以在年底未花完预算时快速拨款给大学——这是主协议的一个常被低估的价值
+- **[[Master Agreement|主协议]]（Master Agreement）**：覆盖知识产权归属与使用、赔偿、治理结构、出版、保密等关键条款。理想的主协议长期不变，每隔几年审查一次以适应新法律。已有主协议的企业可以在年底未花完预算时快速拨款给大学——这是主协议的一个常被低估的价值
 
 ---
 
@@ -292,7 +292,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 - **谈判耗时且可能无果**：每个协商事项都可能涉及大学内部多方（教师项目负责人、院系、合同与拨款部门、技术许可办公室）和企业内部多方（研究伙伴、管理层、合同部门等），导致谈判耗费大量时间。有些谈判因目标上的硬性分歧或一方无法满足另一方的预期而永远无法完成（pp.9–10）
 - **大学与企业的竞争**：与内战至一战期间大学与企业的关系不同，当今领先企业也生产、传播、处理、存储和分析信息，能够提供教育课程和项目，雇用大量博士训练的研究人员。大学和企业"作为依赖声誉和信息收入的企业，已经变得更加相似"（p.10）
 - **价值观冲突的批评**：有论者批评大学为追求利润丰厚的产业关系而牺牲自身价值。Washburn（2005）在 [[University, Inc. (Washburn, 2005)|University, Inc.]] 中写道："功利主义、市场模式的大学的出现，加上要求学校推动国家和区域经济增长的响亮呼声，现在威胁要抹杀学术研究文化的独特性"（p.10）
-- **"学术纯洁性"的[[Cultural Barrier in Higher Education|文化障碍]]**：大学如果缺乏[[Technology Transfer|技术转移]]经验，可能对产业伙伴持怀疑态度。"学术纯洁性"（academic purity）的传统至今仍会在部分院校存留，限制了全校范围的产学协作。这种视角自然限制了支持活跃[[Innovation Park|研究园区]]所需的整体性合作（Byrne & Clements, 2025, pp.127–128）
+- **"学术纯洁性"的[[Cultural Barrier|文化障碍]]**：大学如果缺乏[[Technology Transfer|技术转移]]经验，可能对产业伙伴持怀疑态度。"学术纯洁性"（academic purity）的传统至今仍会在部分院校存留，限制了全校范围的产学协作。这种视角自然限制了支持活跃[[Innovation Park|研究园区]]所需的整体性合作（Byrne & Clements, 2025, pp.127–128）
 - **长期投入与快速见效的张力**：产学合作需要长期投资心态，几乎不会有快速见效的方案。最新一代学生和早期职业工作者的优先事项不断变化，区域需要在产学合作中创造一致的激励来维持参与（Byrne & Clements, 2025, p.128）
 
 ---

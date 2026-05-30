@@ -3,7 +3,7 @@ citation: "Eacott, S. (2017). School leadership and the cult of the guru: The ne
 extracted_to:
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Cult of the Guru]]"
-  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Neo-Taylorism]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
   - "[[Visible Learning Branding and Global Influences]]"

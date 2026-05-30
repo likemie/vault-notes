@@ -9,7 +9,7 @@ extracted_to:
   - "[[University of Kentucky Top-20 Plan]]"
   - "[[Pepka Boyadjieva]]"
   - "[[Ellen Hazelkorn]]"
-  - "[[Capability Approach in Education]]"
+  - "[[Capability Approach]]"
 processed_date: 2026-05-11
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

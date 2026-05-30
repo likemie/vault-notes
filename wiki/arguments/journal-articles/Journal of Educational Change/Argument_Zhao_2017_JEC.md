@@ -17,6 +17,7 @@ tags:
 - rct
 - level/k12
 related_concepts:
+  - "[[Side Effects]]"
   - "[[Literature Review]]"
   - "[[Direct Instruction]]"
   - "[[Causality]]"
@@ -39,7 +40,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> 教育研究从医学借鉴了 [[Randomised Controlled Trials|RCT]] 等研究方法，但忽略了医学中一个更重要的教训：**副作用（side effects）的研究与报告**。教育研究只关注"什么有效"，忽略了"什么有效可能同时有害"（what works may hurt）。论文试图证明：副作用与效果不可分离——两者是同一干预的双重结果。
+> 教育研究从医学借鉴了 [[Randomised Controlled Trials|RCT]] 等研究方法，但忽略了医学中一个更重要的教训：**副作用（[[Side Effects]]）的研究与报告**。教育研究只关注"什么有效"，忽略了"什么有效可能同时有害"（what works may hurt）。论文试图证明：副作用与效果不可分离——两者是同一干预的双重结果。
 
 ## 理论框架
 

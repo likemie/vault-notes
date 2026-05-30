@@ -17,7 +17,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Internationalization of Higher Education]]"
   - "[[International Schools]]"
-  - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[Transnational Research Collaboration]]"
   - "[[Hegemony]]"
   - "[[Sinicisation]]"
 related_theories:
@@ -80,7 +80,7 @@ updated: '2026-05-18'
 > > 例：一个上海或曼谷的中产家庭送孩子去悉尼大学读商科，这个看似纯粹的经济决策（教育消费），同时也是一个文化行为——它在无意识中复制了殖民时期形成的"西方=知识权威"的认知结构。亚洲各地精英[[International Schools|国际学校]]的快速增长——这些学校声称能为学生提供去西方国家读大学的"好准备"——暗示了本地教育体系的"不足"（Rizvi, 2022, pp.95–97）。
 
 
-> [!info] [[Transnational Research Collaboration in Higher Education|跨国研究合作]]中的不对称
+> [!info] [[Transnational Research Collaboration|跨国研究合作]]中的不对称
 > Rizvi 进一步指出，虽然大学积极推动与亚洲的跨国研究合作，但"这种合作要么剥削非西方传统，要么再生产不对称的权力模式"（Rizvi, 2022, p.101）。即使在平等合作的话语下，研究议程的设置、方法论的合法性、出版语言的优先性等方面仍然以西方为中心——东方主义在此不是以排斥的形式运作，而是以**吸纳但边缘化**的形式运作。
 >
 

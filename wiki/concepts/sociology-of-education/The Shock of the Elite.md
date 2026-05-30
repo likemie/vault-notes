@@ -17,7 +17,7 @@ related_concepts:
   - "[[Sense of Shame]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Goal-Controlled Mode]]"
-  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Cultural Barrier]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[Lost Mode]]"
@@ -74,7 +74,7 @@ updated: 2026-05-18
 >
 > 精英休克的长期后果并非均一的：约半数直觉依赖者在大学期间完成了向[[Goal-Controlled Mode]]的转变，而未能转变者的出路则面临更大的不确定性（郑雅君，2023）。
 >
-> 郑雅君（2023）第六章在此基础上进一步区分了精英休克所引发的两重[[Cultural Barrier in Higher Education|文化障碍]]——[[Cultural Disembedding|文化脱嵌]]（对物理和社会文化环境的全面疏离，多为短期性）和[[Cultural Disorientation|文化迷失]]（内在自我冲突与目标策略[[Lost Mode|迷失]]，更为根本和长期）。精英休克可被理解为两重障碍在入学初期的集中爆发。
+> 郑雅君（2023）第六章在此基础上进一步区分了精英休克所引发的两重[[Cultural Barrier|文化障碍]]——[[Cultural Disembedding|文化脱嵌]]（对物理和社会文化环境的全面疏离，多为短期性）和[[Cultural Disorientation|文化迷失]]（内在自我冲突与目标策略[[Lost Mode|迷失]]，更为根本和长期）。精英休克可被理解为两重障碍在入学初期的集中爆发。
 >
 
 ## 来源

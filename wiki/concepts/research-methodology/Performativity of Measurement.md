@@ -22,7 +22,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
-  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Neo-Taylorism]]"
 related_theories:
   - "[[Sociology of Measurement]]"
 related_methods: []
@@ -191,7 +191,7 @@ updated: '2026-05-18'
 > - [[Visible Learning Branding and Global Influences]] — VL 商业产品（workshops、认证、Visible Classroom App）是 performativity 在商业层面的制度化体现
 > - [[Victorian HITS and Literacy Toolkit]] — Johnson & Janzen (2023) 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
 > - [[Education at a Glance]] — Gorur (2014) 的核心案例，OECD 指标的 performativity 如何在政策层面制造世界
-> - [[Neo-Taylorism in Educational Administration]] — 测量施行性与新泰勒主义共享全景监狱逻辑
+> - [[Neo-Taylorism]] — 测量施行性与新泰勒主义共享全景监狱逻辑
 > - [[New Public Management]] — NPM 的绩效问责制是 performativity 在公共部门扩散的制度载体
 
 ## 来源

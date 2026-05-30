@@ -1,5 +1,5 @@
 ---
-title: Neo-Taylorism in Educational Administration
+title: Neo-Taylorism
 aliases:
   - 教育行政中的新泰勒主义
   - 新泰勒主义

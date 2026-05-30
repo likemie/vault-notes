@@ -1,5 +1,5 @@
 ---
-title: Trade Mission in University-Industry Engagement
+title: Trade Mission
 aliases:
   - "贸易代表团"
   - "政府贸易代表团"

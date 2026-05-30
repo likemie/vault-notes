@@ -1,5 +1,5 @@
 ---
-title: Transnational Research Collaboration in Higher Education
+title: Transnational Research Collaboration
 aliases:
   - 跨国研究合作
   - transnational research collaboration

@@ -12,7 +12,7 @@ extracted_to:
   - "[[Student Involvement]]"
   - "[[Champ]]"
   - "[[Credential Inflation]]"
-  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Cultural Barrier]]"
   - "[[Cultural Capital]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"

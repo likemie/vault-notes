@@ -33,6 +33,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
+  - "[[Causality]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Variable]]"
   - "[[Pragmatic Paradigm]]"
@@ -44,11 +45,10 @@ related_concepts:
   - "[[Language Experience Approach]]"
   - "[[Cargo Cult Science]]"
   - "[[Cult of the Guru]]"
-  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Neo-Taylorism]]"
   - "[[Technical Rationality]]"
   - "[[Problem-Based Learning]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Causality]]"
   - "[[Structural Coupling]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
@@ -239,7 +239,7 @@ updated: '2026-05-21'
 > Snook, O'Neill, Clark, O'Neill, & Openshaw (2009) 发表 *Invisible Learnings? A Commentary on John Hattie's book: Visible Learning*（详见 Argument_Snook_2009_NZJES），从七个维度系统质疑 VL 的方法论和政策外推：
 > - [[Meta-analysis|元分析]]综合未评估纳入研究质量——"垃圾进垃圾出"（Eysenck）
 > - d=0.40 截断值武断；小效应在大规模随机研究中可有重大意义
-> - [[Effect Size|效应量]]暗示因果性但常不可辩护
+> - [[Effect Size|效应量]]暗示[[Causality|因果性]]但常不可辩护
 > - 平均化掩盖复杂性（如家庭作业总体 d=0.29，小学仅 0.15、中学 0.64）
 > - 社会背景被选择性排除，但这些因素解释 70–80% 校间差异
 > - [[Class Size|班级规模]]（d=0.2 被政策解读为"无效果"）和[[Performance Pay|绩效工资]]存在被误用的严重风险
@@ -295,10 +295,10 @@ updated: '2026-05-21'
 > [!warning] 文化与政治批评
 > - **O'Neill (2012)** — 以 NZ Treasury 2011 年简报为案例，揭示了 Hattie 的 VL 证据在政策论述中被脱离语境援引的具体机制。Treasury 援引"教学质量"证据论证可增加生师比，但 Hattie 本人明确反对、且该证据全部来自大学生评教研究对学校教育无相关性（详见 [[Argument_ONeill_2012_NZJES]]、[[Treasury Briefing on Student-Teacher Ratios]]）
 > - **O'Neill et al. (2016)** — 以"政策创业"框架系统追踪 Hattie 从 asTTle 到 Visible Classroom 的商业化轨迹，记录 2010–2014 年从 [[Cognition Education|Cognition Education]] 获得第三方付款（USD 10K → USD 223K），定性为公共福利、非营利和营利创业的"无缝融合"（详见 [[Argument_ONeill_2016_Report]]、[[Visible Learning Branding and Global Influences]]）
-> - **Eacott (2017)** — 以 Callahan (1962) 为历史框架论证澳大利亚[[School Leadership|学校领导力]]已屈服于"Hattie [[Cult of the Guru|大师崇拜]]"，定性 VL 为 Neo-Taylorism：将教学拆解为最小可测量单元，"与 100 多年前 Taylor 的工作相差不远"（详见 [[Argument_Eacott_2017_SLM]]、[[Visible Learning#大师崇拜]]）
+> - **Eacott (2017)** — 以 Callahan (1962) 为历史框架论证澳大利亚[[School Leadership|学校领导力]]已屈服于"Hattie [[Cult of the Guru|大师崇拜]]"，定性 VL 为 [[Neo-Taylorism]]：将教学拆解为最小可测量单元，"与 100 多年前 Taylor 的工作相差不远"（详见 [[Argument_Eacott_2017_SLM]]、[[Visible Learning#大师崇拜]]）
 > - **Eacott (2019)** — 以自身经历记录 Hattie 回应过程中的学术对话质量问题：Hattie 回应两天内被接收 vs 原论文"数月和多轮评审"；Eacott 被拒绝发表再回应（详见 [[Argument_Eacott_2019_IJLE]]、[[Visible Learning#Eacott (2019)]])
 > - **McKnight & Whitburn (2020)** — 从女性主义、后结构主义和能力批判视角提出七点文化政治批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设（详见 [[Argument_McKnight_2020_Discourse]]、[[Visible Learning#文化政治七点批评]]）
-> - **Johnson & Janzen (2023)** — 从[[Neo-Taylorism in Educational Administration|新泰勒主义]]视角记录 asTTle 的全景监控设计（"允许管理者监控全校六个科目"）和 Hattie 对教师的系统性贬低；从新自由主义视角追踪 VL 商业化中的利益冲突和"饥饿-危机-私有化"循环（详见 [[Visible Learning#Johnson & Janzen (2023) — 四角度系统批判]]）
+> - **Johnson & Janzen (2023)** — 从[[Neo-Taylorism|新泰勒主义]]视角记录 asTTle 的全景监控设计（"允许管理者监控全校六个科目"）和 Hattie 对教师的系统性贬低；从新自由主义视角追踪 VL 商业化中的利益冲突和"饥饿-危机-私有化"循环（详见 [[Visible Learning#Johnson & Janzen (2023) — 四角度系统批判]]）
 
 
 > [!warning] 教育哲学批评

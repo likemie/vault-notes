@@ -31,13 +31,14 @@ related_concepts:
   - "[[Opportunist Mode]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
-  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Cultural Barrier]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[Bildung]]"
   - "[[Literature Review]]"
   - "[[Credential Inflation]]"
   - "[[Employability]]"
+  - "[[Causality]]"
   - "[[Student Engagement]]"
   - "[[Student Involvement]]"
   - "[[Pragmatic Paradigm]]"
@@ -51,7 +52,6 @@ related_concepts:
   - "[[Graduation Pathway Typology]]"
   - "[[Sense of Shame]]"
   - "[[Refined Mastery]]"
-  - "[[Causality]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
@@ -135,7 +135,7 @@ updated: 2026-05-18
 3. **第三章 家境**：呈现资本化过程的经验机制——揭示 [[Goal-Controlled Mode|目标掌控模式]] 与 [[Intuition-Dependent Mode|直觉依赖模式]] 如何在中学教育和家庭决策中被系统性地阶层化塑造
 4. **第四章 努力**：追踪投入过程——对比两类模式在[[Academic Engagement|学业投入]]和[[Social Engagement|社会性投入]]上的系统差异，以及约半数直觉依赖者向目标掌控模式转变的路径
 5. **第五章 方向**：揭示价值选择过程——三种工作意义文化图式与一个整合工具理性和价值理性的 2×2 四分类模型（[[Self-Driven Mode|自主驱动者]]／[[Opportunist Mode|机会主义者]]／[[Lost Mode|迷失无从者]]／[[Value Conformist Mode|价值归顺者]]）
-6. **第六章 余论**：总结[[Cultural Barrier in Higher Education|文化障碍]]的二重性（[[Cultural Disembedding|文化脱嵌]] + [[Cultural Disorientation|文化迷失]]），为寒门学子提出突破障碍的方向性建议
+6. **第六章 余论**：总结[[Cultural Barrier|文化障碍]]的二重性（[[Cultural Disembedding|文化脱嵌]] + [[Cultural Disorientation|文化迷失]]），为寒门学子提出突破障碍的方向性建议
 
 全书论证从结构约束走向能动性发挥，再走向价值信念的凝结——既呈现再生产的逻辑，也展现转变的可能。
 
@@ -304,7 +304,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 
 **第一步：区分两种教育社会学视角——"所有物"vs"过程"，明确定位**
 
-本章开篇以 Weber（Weber, 2005[1956], p.3）诠释社会学引文为认识论锚点：社会学旨在对社会行动进行诠释性理解并因果性解释其过程和影响（郑雅君，2023）。
+本章开篇以 Weber（Weber, 2005[1956], p.3）诠释社会学引文为认识论锚点：社会学旨在对社会行动进行诠释性理解并[[Causality|因果性]]解释其过程和影响（郑雅君，2023）。
 
 郑雅君区分了教育社会学中两种看待学校教育的根本视角（郑雅君，2023）：
 
@@ -661,7 +661,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 | 理论概念 | 操作化位置 | 操作化方式 |
 |---------|-----------|-----------|
 | 分离阶段（separation） | P2-Q1（被录取始末、是否容易考上） | 探测入学前对大学的想象和预期——这些预期从何而来？是否准确？不准确的预期预示后续过渡困难 |
-| 转折阶段（transition） | P2-Q3（适应困难） | 考察从旧身份到新身份的断裂程度——适应困难的类型和程度，为文化障碍的显现节点 |
+| 转折阶段（transition） | P2-Q3（适应困难） | 考察从旧身份到新身份的断裂程度——适应困难的类型和程度，为[[Cultural Barrier\|文化障碍]]的显现节点 |
 | 习得阶段（incorporation） | P2-Q4（主动融入程度、四年经历叙述） | 通过被访者自述的"融入"方式（清晰有序 vs 模糊分散），判断其是否完成了从边缘到中心的身份过渡 |
 | 学业融入（academic integration） | Q-就学感受（归属感评分、GPA）；P2-Q2（专业喜欢程度） | 量化指标（GPA、归属感）与质性追问（专业选择叙事）相互印证 |
 | 社交融入（social integration） | Q-就学感受（交友数量、师生交流频率）；P2-Q6（对师生的情感评价） | 量化指标（朋友数、交流频率）与质性评价（喜欢与否、形象描述）构成三角互证 |
@@ -1129,7 +1129,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 
 2. **高等教育的双重面向**：大学既是一个筛选性的竞争场域（重视围绕目标进行策略性投入），也是一个发展性的再社会化过程（约半数直觉依赖者在大学期间通过文化移入和策略充实完成了向目标掌控模式的至少部分转变），但转变者比天生目标掌控者"花费了更多的时间成本"。
 
-3. **[[Cultural Barrier in Higher Education|文化障碍]]的二重性**：寒门学子在精英大学面临两重相互关联但分野明显的障碍——[[Cultural Disembedding|文化脱嵌]]（对物理和社会文化环境的疏离，多为短期性）和[[Cultural Disorientation|文化迷失]]（内在自我冲突与目标策略[[Lost Mode|迷失]]，更为根本和长期）。两重障碍常常共生，但"文化迷失"更击中要害。
+3. **[[Cultural Barrier|文化障碍]]的二重性**：寒门学子在精英大学面临两重相互关联但分野明显的障碍——[[Cultural Disembedding|文化脱嵌]]（对物理和社会文化环境的疏离，多为短期性）和[[Cultural Disorientation|文化迷失]]（内在自我冲突与目标策略[[Lost Mode|迷失]]，更为根本和长期）。两重障碍常常共生，但"文化迷失"更击中要害。
 
 4. **价值信念的"扳道夫"角色**：大学生的出路获得不仅取决于工具理性层面的策略能力，还取决于价值信念的驱动——[[Value Conformist Mode|价值归顺者]]的案例证明，当弱势学生内化了大学倡导的"家国理想-社会价值"图式并获得体制赞助时，可以突破出身劣势实现向上流动。这为超越简单的再生产叙事提供了经验证据。
 

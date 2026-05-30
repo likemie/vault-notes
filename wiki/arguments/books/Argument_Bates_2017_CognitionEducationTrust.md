@@ -1,7 +1,5 @@
 ---
 title: Argument_Bates_2017_CognitionEducationTrust
-authors:
-  - "Bates, T"
 summary: "受信托委托撰写的组织史 通过 Darwin finch 隐喻把 Cognition Education 的多次转向重写为适应性证据 并把商业扩张与公益使命组织成同一套自我解释"
 type: argument
 subtype: monograph
@@ -23,7 +21,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Bates_2017_CognitionEducationTrust]]"
-part_of:
+part_of: ""
 status: draft
 created: 2026-05-22
 updated: 2026-05-23

@@ -16,7 +16,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"
-  - "[[Competitiveness in Higher Education]]"
+  - "[[Competitiveness]]"
   - "[[Academic Freedom]]"
 related_theories:
   - "[[Societies of Control]]"
@@ -67,7 +67,7 @@ updated: 2026-05-20
 ## 在竞争性地缘政治中的位置
 
 > [!abstract]
-> Thompson 等人（2022, pp.221–222）将利益相关者大学定位为 [[Competitiveness in Higher Education|高等教育竞争力]] 作为地缘政治装置运作的组织条件。关键逻辑链条为：
+> Thompson 等人（2022, pp.221–222）将利益相关者大学定位为 [[Competitiveness|高等教育竞争力]] 作为地缘政治装置运作的组织条件。关键逻辑链条为：
 
 1. NPM 和审计文化将大学重塑为关注绩效的组织
 2. 大学为提升竞争力而主动扩展利益相关者网络——吸引国际学生、对接企业需求、优化排名指标

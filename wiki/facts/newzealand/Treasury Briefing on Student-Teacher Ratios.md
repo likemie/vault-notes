@@ -17,6 +17,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Material Fallacies]]"
   - "[[Effect Size]]"
+  - "[[Neo-Taylorism]]"
   - "[[Cult of the Guru]]"
 related_theories: []
 related_methods:
@@ -78,7 +79,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与评论
 > - O'Neill 代表批评立场，认为 Treasury 的政策建议"充其量不完整，最坏情况下可能有害"，若实施最可能伤害的恰恰是教育部优先群体（毛利和太平洋岛民学生）（ONeill, 2012, p.158）
-> - 该事件也被置于更广泛的新西兰教育政策政治经济学分析中，涉及教育行政中 Neo-Taylorism 和 [[Cult of the Guru]] 的讨论（参见 Eacott 系列研究）
+> - 该事件也被置于更广泛的新西兰教育政策政治经济学分析中，涉及教育行政中 [[Neo-Taylorism]] 和 [[Cult of the Guru]] 的讨论（参见 Eacott 系列研究）
 
 ## 相关概念／政策
 

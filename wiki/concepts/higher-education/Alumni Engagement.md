@@ -1,5 +1,5 @@
 ---
-title: Alumni Engagement in University-Industry Collaboration
+title: Alumni Engagement
 aliases:
   - "校友参与产学合作"
   - "校友产学连接"
@@ -15,7 +15,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Industry Advisory Board]]"
   - "[[Executive Education]]"
-  - "[[Trade Mission in University-Industry Engagement]]"
+  - "[[Trade Mission]]"
   - "[[University Corporate Engagement Professional]]"
 related_theories: []
 related_methods: []
@@ -58,7 +58,7 @@ updated: 2026-05-28
 
 > [!example] 概念辨析
 > - **vs 一般的校友关系维护：** 传统校友关系维护以筹款和社交活动为中心（返校日、校友期刊、捐赠晚宴）。校友参与[[University-Industry Collaboration|产学合作]]的不同在于：它以研究合作和商业对接为直接目的，校友的角色从"捐赠者"转变为"战略资源"和"合作伙伴"。
-> - **vs [[Trade Mission in University-Industry Engagement|贸易代表团]]：** 两者都是产学连接的渠道，但运作逻辑不同。校友网络是基于既有关系的内部激活，信任已经存在，只需引导到正确方向；贸易代表团是基于外部接触的机会创造，需要从零建立信任。两者的互补关系是：贸易代表团打开新市场，校友在新市场中提供第一个立足点。
+> - **vs [[Trade Mission|贸易代表团]]：** 两者都是产学连接的渠道，但运作逻辑不同。校友网络是基于既有关系的内部激活，信任已经存在，只需引导到正确方向；贸易代表团是基于外部接触的机会创造，需要从零建立信任。两者的互补关系是：贸易代表团打开新市场，校友在新市场中提供第一个立足点。
 > - **vs [[University Corporate Engagement Professional|大学企业参与专员]]：** UCEP 是专职的专业角色，校友则是分散在产业中的非专职连接者。UCEP 可以识别、组织和激活校友网络，但不能替代校友的"双重信任"优势，因为校友的信任来自共享的母校身份和个人职业信誉，而非职位描述。
 
 ---

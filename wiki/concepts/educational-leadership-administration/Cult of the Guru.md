@@ -15,7 +15,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Effect Size]]"
   - "[[Transformative Leadership]]"
-  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Neo-Taylorism]]"
   - "[[Critic and Conscience of Society]]"
 related_theories: []
 related_methods:
@@ -89,7 +89,7 @@ updated: 2026-05-18
 > [!example] 与相关概念的区别
 > - vs **academic celebrity（学术名人）**：Eacott 明确区分了分析单位——学术名人研究关注的是作为实体的个体（如 Michael Fullan、Andy Hargreaves 等），而 Cult of the Guru 关注的是"使大师崛起成为可能的条件"（关系取向而非实体取向）（Eacott, 2017, p.414）
 > - vs **fad/fashion（潮流与时尚）**：教育领导力经常经历来自外部（如商业管理概念）的潮流渗透（Peck & Reitzug, 2012），但 Cult of the Guru 特指从教育研究内部涌现并被不加批判地接受的权威——更难识别和抵制（Eacott, 2017, p.414）
-> - vs [[Neo-Taylorism in Educational Administration]]：Neo-Taylorism 侧重分析 [[John Hattie|Hattie]] 工作与 Taylor 科学管理原理之间的结构同源性（效率最大化、唯一正确方法、任务拆解）；Cult of the Guru 侧重分析这种工作为何以及如何在特定社会条件下被不加批判地接受和制度化。两者互补：Neo-Taylorism 是"什么使 Hattie 的工作成为泰勒主义"，Cult of the Guru 是"什么使这种泰勒主义成为崇拜"
+> - vs [[Neo-Taylorism]]：Neo-Taylorism 侧重分析 [[John Hattie|Hattie]] 工作与 Taylor 科学管理原理之间的结构同源性（效率最大化、唯一正确方法、任务拆解）；Cult of the Guru 侧重分析这种工作为何以及如何在特定社会条件下被不加批判地接受和制度化。两者互补：Neo-Taylorism 是"什么使 Hattie 的工作成为泰勒主义"，Cult of the Guru 是"什么使这种泰勒主义成为崇拜"
 
 ## 理论基础
 

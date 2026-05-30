@@ -13,7 +13,7 @@ tags:
 related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Methodological Globalism]]"
-  - "[[Space-Making in Higher Education]]"
+  - "[[Space-Making]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -72,7 +72,7 @@ updated: '2026-05-18'
 > [!tip]
 > - [[Doreen Massey]] — Massey（2005）的关系性空间理论是尺度不可化约性分析的本体论基础：全球空间不是"在外面的"，而是被建构的、具体的、生活化的。尺度是关系性空间的维度之一
 > - Marston & Smith（2001） — 提出尺度作为"被生产的社会度量"的定义，为高等教育尺度分析提供了概念起点
-> - [[Space-Making in Higher Education]] — 三维空间制造框架（物质结构-想象-实践）提供了分析不同尺度如何被制造的操作工具
+> - [[Space-Making]] — 三维空间制造框架（物质结构-想象-实践）提供了分析不同尺度如何被制造的操作工具
 
 ---
 

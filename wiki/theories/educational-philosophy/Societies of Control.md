@@ -18,7 +18,7 @@ related_concepts:
   - "[[Promising Student]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
-  - "[[Competitiveness in Higher Education]]"
+  - "[[Competitiveness]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -77,7 +77,7 @@ Thompson 等人（2022, p.222）引入 Bächle（2016, p.164）的解读，将 D
 
 - [[Online Self-Assessment|OSA]] 作为调制工具：OSA 在入学之前就对潜在学生进行预判——这是一种先发制人的调制，将学生的入学前特征转化为可比较和可优化的数据点（pp.222–224）
 - "[[Promising Student|有前景的学生]]" 作为调制产物：[[Digital Self|数字自我]]（digital self）与[[Digital Optimum|数字最优]]（digital optimum）之间的持续差异驱动着永不终止的自我优化——这正是控制社会"没有解雇"逻辑的主体化表现（pp.224–226）
-- [[Competitiveness in Higher Education|高等教育竞争力]] 作为网络逻辑：大学被转化为地缘政治的机会节点——连接学生、教师、政府机构、商业服务提供者和自动化代理的网络枢纽（pp.219–222）
+- [[Competitiveness|高等教育竞争力]] 作为网络逻辑：大学被转化为地缘政治的机会节点——连接学生、教师、政府机构、商业服务提供者和自动化代理的网络枢纽（pp.219–222）
 
 ## 争议与批评
 

@@ -3,7 +3,7 @@ citation: "Johnson, G. R., & Janzen, M. D. (2023). Leading the blind: A critical
 extracted_to:
   - "[[Argument_Johnson_2023_CE]]"
   - "[[Cult of the Guru]]"
-  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Neo-Taylorism]]"
   - "[[Scientism]]"
   - "[[Class Size]]"
   - "[[Critiques of Visible Learning]]"

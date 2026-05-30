@@ -19,6 +19,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
+  - "[[Neo-Taylorism]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -48,7 +49,7 @@ updated: 2026-05-18
 
 > [!info] 研究方法
 > - 方法：反思性评论（commentary），以作者个人经验作为案例研究
-> - 案例：Eacott 2017 年发表的论文"[[School Leadership]] and the [[Cult of the Guru]]: The neo-Taylorism of [[John Hattie|Hattie]]"（Eacott, 2017a）及其在学术界引发的反应
+> - 案例：Eacott 2017 年发表的论文"[[School Leadership]] and the [[Cult of the Guru]]: The [[Neo-Taylorism]] of [[John Hattie|Hattie]]"（Eacott, 2017a）及其在学术界引发的反应
 > - 数据来源：论文发表后收到的邮件、Twitter 互动、博客评论、大学投诉调查、期刊编辑决策、Hattie 的正式回应
 
 ## 核心论证

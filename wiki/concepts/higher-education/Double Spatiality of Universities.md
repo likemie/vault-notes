@@ -10,7 +10,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Methodological Nationalism]]"
-  - "[[Space-Making in Higher Education]]"
+  - "[[Space-Making]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Internationalization of Higher Education]]"
 related_theories: []
@@ -67,7 +67,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Space-Making in Higher Education]] — 双重空间性是空间制造框架在大学这一特定机构类型中的体现：国家的物质结构和想象与全球的物质结构和想象同时作用于大学
+> - [[Space-Making]] — 双重空间性是空间制造框架在大学这一特定机构类型中的体现：国家的物质结构和想象与全球的物质结构和想象同时作用于大学
 > - [[Doreen Massey]] — Massey 论证全球空间不是"在外面的"或外在于能动性和地方性的，而是被建构的、具体的、生活化的，这为理解大学如何在国家和全球尺度之间运作提供了理论基础
 
 ---

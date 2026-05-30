@@ -1,5 +1,5 @@
 ---
-title: Capability Approach in Education
+title: Capability Approach
 aliases:
   - 可行能力路径
   - capability approach

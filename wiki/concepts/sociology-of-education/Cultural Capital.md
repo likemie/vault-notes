@@ -19,7 +19,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[School Leadership]]"
-  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Cultural Barrier]]"
   - "[[Economy of Experience]]"
   - "[[Credential Inflation]]"
 related_theories:
@@ -137,7 +137,7 @@ updated: 2026-05-18
 ## 相关案例／政策
 
 > [!example]
-> - [[Cultural Barrier in Higher Education]] — 文化障碍实质上是文化资本（尤其是具身化形态）在阶层间不均衡分布的直接后果
+> - [[Cultural Barrier]] — 文化障碍实质上是文化资本（尤其是具身化形态）在阶层间不均衡分布的直接后果
 > - [[Economy of Experience]] — 履历经济学揭示的"软实力"竞争，实质上是具身化文化资本在就业市场上被精细编码和定价的过程（[[Yajun Zheng|郑雅君]]，2023）
 > - [[Credential Inflation]] — 文凭通胀体现了制度化文化资本的兑换率随供给增加而下降的历史过程
 

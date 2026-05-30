@@ -1,5 +1,5 @@
 ---
-title: Cultural Barrier in Higher Education
+title: Cultural Barrier
 aliases:
   - 高等教育中的文化障碍
   - 文化障碍

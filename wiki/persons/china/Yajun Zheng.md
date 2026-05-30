@@ -13,7 +13,7 @@ tags:
 related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Cultural Barrier]]"
   - "[[Academic and Social Integration]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
@@ -74,7 +74,7 @@ updated: 2026-05-19
 ## 主要著作
 
 > [!abstract]
-> - 郑雅君（2023），《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 [[Pierre Bourdieu|Bourdieu]] 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier in Higher Education|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
+> - 郑雅君（2023），《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 [[Pierre Bourdieu|Bourdieu]] 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
 
 ---
 
@@ -98,7 +98,7 @@ updated: 2026-05-19
 
 **四分类模型**：在双模式基础上纳入价值信念驱动力维度，形成 2×2 四分类：[[Self-Driven Mode|自主驱动者]]（目标掌控+强价值信念）、[[Opportunist Mode|机会主义者]]（目标掌控+弱价值信念）、[[Lost Mode|迷失无从者]]（直觉依赖+弱价值信念）、[[Value Conformist Mode|价值归顺者]]（直觉依赖+强价值信念）（郑雅君，2023）。
 
-**[[Cultural Barrier in Higher Education|文化障碍]]的二重性**：郑雅君进一步将[[Cultural Barrier in Higher Education|文化障碍]]厘清为两重维度——[[Cultural Disembedding|文化脱嵌]]（对物理环境和社会文化环境的全面疏离感）和[[Cultural Disorientation|文化迷失]]（场域转换造成的内在自我冲突和目标策略迷失）（郑雅君，2023）。
+**[[Cultural Barrier|文化障碍]]的二重性**：郑雅君进一步将[[Cultural Barrier|文化障碍]]厘清为两重维度——[[Cultural Disembedding|文化脱嵌]]（对物理环境和社会文化环境的全面疏离感）和[[Cultural Disorientation|文化迷失]]（场域转换造成的内在自我冲突和目标策略迷失）（郑雅君，2023）。
 
 ### 方法论立场
 
@@ -120,7 +120,7 @@ updated: 2026-05-19
 
 - **核心调整**：补充低阶层样本，深化理论对话
 - **思想发展**：受牛新春老师之邀，在"南方大学"补充访谈 24 名主要来自较低阶层背景的学生，使总样本达 62 人。此阶段的理论对话扩展至 Swidler [[Culture as Toolkit|文化工具箱]]和 [[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]——Bourdieu 的再生产理论解释了结构性约束，Swidler 和 Vaisey 则帮助理解了行动者在约束中的策略和意义建构差异（郑雅君，2023）。
-- **相关概念**：[[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]]、[[Cultural Barrier in Higher Education]]
+- **相关概念**：[[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]]、[[Cultural Barrier]]
 
 ### 2023 出版与传播
 
@@ -134,7 +134,7 @@ updated: 2026-05-19
 > [!success]
 > - 在中国高等教育公平研究中，双模式类型学为分析大学生活经验的阶层差异提供了可操作的概念工具
 > - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释精英大学中[[Cultural Capital|文化资本]]如何通过日常实践转化为出路分化
-> - [[Cultural Barrier in Higher Education]] 概念将 [[Pierre Bourdieu|Bourdieu]] 的文化再生产理论从宏观制度层面延伸到微观的日常生活经验层面，丰富了对教育公平机制的理解
+> - [[Cultural Barrier]] 概念将 [[Pierre Bourdieu|Bourdieu]] 的文化再生产理论从宏观制度层面延伸到微观的日常生活经验层面，丰富了对教育公平机制的理解
 > - 以[[Constructivist Grounded Theory]]在大规模访谈数据中的系统应用，为高等教育[[Qualitative Research|质性研究]]提供了方法论参照
 
 ---

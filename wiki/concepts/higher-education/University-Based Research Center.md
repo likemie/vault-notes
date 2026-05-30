@@ -14,7 +14,7 @@ tags:
 related_concepts:
   - "[[Innovation Hub]]"
   - "[[Industry Affiliate Program]]"
-  - "[[Master Agreement in University-Industry Collaboration]]"
+  - "[[Master Agreement]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods: []
@@ -48,7 +48,7 @@ updated: 2026-05-28
 
 1. **大学主导的议程设置**：研究方向和优先领域由大学先选定，产业扮演"评估者"而非"共同设计者"角色。这与 CAP 的委员会共治模式形成对比（p.111）
 2. **政府-产业双重资助**：产业会员费构成基础资金池，政府拨款（通常来自联邦研究机构）提供匹配放大。政府资助不仅增加总研究预算，还增强了中心对外部企业的公信力（pp.111–112）
-3. **跨机构协调**：中心可以设置在单一院系、跨学科研究所或多校联合结构中。多校中心需要额外的机构间[[Master Agreement in University-Industry Collaboration|主协议]]，协调成本随参与大学数量递增（p.112）
+3. **跨机构协调**：中心可以设置在单一院系、跨学科研究所或多校联合结构中。多校中心需要额外的机构间[[Master Agreement|主协议]]，协调成本随参与大学数量递增（p.112）
 4. **前景 IP 优先谈判权**：产业成员通常获得前景知识产权（Foreground Intellectual Property, FIP）的优先谈判权（first right of refusal）——投资研究的成员在技术许可队列中排在最前面，排在大学主动接触的外部企业之前。部分联合体允许多家企业在不同应用领域获得排他许可（p.112）
 5. **领域特异的 IP 惯例**：在某些领域（如软件和信息技术），联合体选择将所有前景 IP 公开或开源——这种做法在硬件和分子研发领域则少见得多（p.112）
 

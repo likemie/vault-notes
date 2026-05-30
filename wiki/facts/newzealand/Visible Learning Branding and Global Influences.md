@@ -39,7 +39,7 @@ related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Performativity of Measurement]]"
   - "[[Policy Entrepreneur]]"
-  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Neo-Taylorism]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -387,7 +387,7 @@ updated: '2026-05-18'
 > - [[Performativity of Measurement]] — VL 商业产品中的测量施行性
 > - [[Cult of the Guru]] — 大师地位对商业品牌的加持
 > - [[Policy Entrepreneur]] — [[John Hattie|Hattie]] 作为政策创业者的角色
-> - [[Neo-Taylorism in Educational Administration]] — VL 作为"新时代的泰勒主义"
+> - [[Neo-Taylorism]] — VL 作为"新时代的泰勒主义"
 > - [[New Zealand National Standards]] — Hattie 参与技术顾问的新西兰国家教育标准
 > - [[Treasury Briefing on Student-Teacher Ratios]] — NZ Treasury 援引 VL 证据建议增加生师比
 > - [[Danish Public School Reform]] — 丹麦改革明确引用 VL

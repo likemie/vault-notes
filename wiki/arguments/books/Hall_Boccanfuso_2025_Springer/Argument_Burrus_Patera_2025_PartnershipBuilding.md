@@ -7,16 +7,16 @@ type: argument
 citation: "Burrus, C., & Patera, A. (2025). Connecting, Exploring, Uncovering, and Building Partnerships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 73–83). Springer."
 tags: ["theme/university-industry-collaboration", "theme/partnership", "theme/corporate-engagement"]
 related_concepts:
-  - "[[Strategic Partnership in University-Industry Collaboration]]"
+  - "[[Strategic Partnership]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Trade Mission in University-Industry Engagement]]"
+  - "[[Trade Mission]]"
   - "[[Industry Advisory Board]]"
   - "[[Professors of Practice]]"
-  - "[[Alumni Engagement in University-Industry Collaboration]]"
+  - "[[Alumni Engagement]]"
   - "[[Executive Education]]"
   - "[[University Corporate Engagement Professional]]"
   - "[[Translational Research]]"
-  - "[[Master Agreement in University-Industry Collaboration]]"
+  - "[[Master Agreement]]"
   - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []
@@ -42,7 +42,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 研究问题
 
 > [!info] 研究问题
-> 大学和企业之间存在根本性差异，涵盖非营利与营利的使命对立、自下而上与自上而下的决策冲突、开放分享与知识产权控制的文化张力。在此背景下，如何有意识地构建[[Strategic Partnership in University-Industry Collaboration|战略性产学伙伴关系]]，而不是停留在零散的一次性合作？（pp.73–74）
+> 大学和企业之间存在根本性差异，涵盖非营利与营利的使命对立、自下而上与自上而下的决策冲突、开放分享与知识产权控制的文化张力。在此背景下，如何有意识地构建[[Strategic Partnership|战略性产学伙伴关系]]，而不是停留在零散的一次性合作？（pp.73–74）
 >
 > 经验难题在于：即便双方都有合作意愿，实际操作中仍然频频受阻：企业提出的项目与教师研究兴趣错位，技术平台匹配结果失准，合作关系迟迟无法从单一项目升级为战略联盟。问题出在哪里？又该如何解决？
 
@@ -59,7 +59,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 研究方法
 
 > [!info] 研究方法
-> 实践者指南，基于专业经验与行业最佳实践的归纳总结，并非实证研究。包含两个案例研究：一是生命科学公司与大学的伙伴关系演化过程，二是通过[[Trade Mission in University-Industry Engagement|政府贸易代表团]]推动的与日本企业的国际合作。
+> 实践者指南，基于专业经验与行业最佳实践的归纳总结，并非实证研究。包含两个案例研究：一是生命科学公司与大学的伙伴关系演化过程，二是通过[[Trade Mission|政府贸易代表团]]推动的与日本企业的国际合作。
 
 ---
 
@@ -90,13 +90,13 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ### 阶段一：连接——找到对的人
 
-4. 伙伴关系始于人与人的连接。产学关系的"拥护者"不是随机出现的，而是集中出现在特定的交汇空间。这些空间包括：学术研讨会和[[Industry Advisory Board|行业咨询委员会]]，教授展示前沿研究，企业代表寻找技术灵感；[[University Industry Demonstration Partnership|UIDP]] 和 [[Network of Academic Corporate Relations Officers|NACRO]] 等产学专业活动，专职从事产学对接的人定期交流经验；[[Professors of Practice|实践教授]]岗位，产业资深人士进入大学授课，成为天然的桥梁人物；[[Trade Mission in University-Industry Engagement|政府贸易代表团]]，大学随政府出访，直接接触海外企业决策者；校友活动，最容易被忽视但可能最有效的连接渠道（p.74）。
+4. 伙伴关系始于人与人的连接。产学关系的"拥护者"不是随机出现的，而是集中出现在特定的交汇空间。这些空间包括：学术研讨会和[[Industry Advisory Board|行业咨询委员会]]，教授展示前沿研究，企业代表寻找技术灵感；[[University Industry Demonstration Partnership|UIDP]] 和 [[Network of Academic Corporate Relations Officers|NACRO]] 等产学专业活动，专职从事产学对接的人定期交流经验；[[Professors of Practice|实践教授]]岗位，产业资深人士进入大学授课，成为天然的桥梁人物；[[Trade Mission|政府贸易代表团]]，大学随政府出访，直接接触海外企业决策者；校友活动，最容易被忽视但可能最有效的连接渠道（p.74）。
 
 5. 校友网络的独特优势在于"双重信任"。校友既了解母校的研究优势和文化，又在产业中建立了信誉和人际网络。一个在制药公司担任研发副总裁的校友，比任何大学宣传册都更了解公司当前的技术痛点；同时，她在公司内部为母校背书时，比一个陌生推销电话有百倍的可信度（pp.74–75）。
 
 > 设想一所大学希望与当地新能源企业建立合作。与其通过官网"联系我们"表单发送冷邮件，不如找到在这家公司工作的校友：几年前从该校材料科学系毕业的博士，现在已是电池研发团队的核心成员。这位校友不仅知道公司正在攻关的固态电解质难题，还清楚哪位教授的研究方向与这个难题高度吻合。一通校友电话的效力，超过十封冷邮件。
 
-6. [[Alumni Engagement in University-Industry Collaboration|校友参与产学合作]]的具体形式不止于牵线搭桥（pp.74–75）：
+6. [[Alumni Engagement|校友参与产学合作]]的具体形式不止于牵线搭桥（pp.74–75）：
    - **咨询委员会与圆桌讨论**：按行业组建，邀请校友企业高管、教师研究者和公司技术负责人共同探讨研究协同点和行业挑战。
    - **推动内部研究合作**：鼓励校友在公司内部倡导与母校的研究合作，他们既是"内部销售"，又是"需求翻译者"。
    - **结构化指导计划**：校友指导学生和青年研究者，既帮助下一代成长，也为自己识别潜在的合作者。
@@ -153,7 +153,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
     大学没有终止接触，而是做了一件事：**向 CEO 重新框定基础研究的价值**。基础研究看似不直接产出可商业化的成果，但它能解决其他方式无法触及的复杂挑战，并可能带来根本性的突破——而这恰恰是公司培养长期创新文化所需要的。CEO 接受了这一逻辑。随后，大学与公司的研发负责人（head of research）共同建立了一个结构化流程：先通过虚拟研讨会（virtual workshops）探讨公司广泛感兴趣的主题，让双方科学家在网络环境中初步了解彼此的研究能力；再组织面对面的教师与公司研究者会议，在讨论中深挖具体合作方向。这一流程的目标不是一次性匹配，而是建立一套让双方科学家持续互动、互相理解研究能力的系统，从而高效识别可行动的研究机会。
 
-    最终，双方签署了谅解备忘录（Memorandum of Understanding）和[[Master Agreement in University-Industry Collaboration|主协议]]（Master Agreement）。主协议是一份覆盖所有未来合作项目的"伞式"法律框架——知识产权条款、发表审查权、间接成本核算等关键事项一次谈定，后续项目无需从头谈判。结果：从零增长到六个以上活跃合作项目，公司各业务部门负责人与多个教师实验室之间建立了持续联系，实验室互访和学生参与行业活动进一步巩固了合作关系（pp.79–80）。
+    最终，双方签署了谅解备忘录（Memorandum of Understanding）和[[Master Agreement|主协议]]（Master Agreement）。主协议是一份覆盖所有未来合作项目的"伞式"法律框架——知识产权条款、发表审查权、间接成本核算等关键事项一次谈定，后续项目无需从头谈判。结果：从零增长到六个以上活跃合作项目，公司各业务部门负责人与多个教师实验室之间建立了持续联系，实验室互访和学生参与行业活动进一步巩固了合作关系（pp.79–80）。
 
 15. 案例二：日本企业——一段催化升级，一段从零启动（pp.80–81）。
 
@@ -169,7 +169,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!success] 主要发现
 > 1. [[University-Industry Collaboration|产学合作]]的困难根植于大学与企业在使命、治理结构和组织文化上的系统性差异（非营利 vs 营利、自下而上 vs 自上而下、开放渗透 vs 知识产权控制）。不存在可以复制粘贴的通用合作模板（pp.73–74）。
-> 2. 连接阶段：产学关系的拥护者集中在特定的交汇空间，包括学术研讨会、[[Industry Advisory Board|行业咨询委员会]]、产学专业活动、[[Professors of Practice|实践教授]]岗位、[[Trade Mission in University-Industry Engagement|政府贸易代表团]]和校友活动。其中，校友网络的"双重信任"优势使其成为最高效的连接渠道之一（pp.74–76）。
+> 2. 连接阶段：产学关系的拥护者集中在特定的交汇空间，包括学术研讨会、[[Industry Advisory Board|行业咨询委员会]]、产学专业活动、[[Professors of Practice|实践教授]]岗位、[[Trade Mission|政府贸易代表团]]和校友活动。其中，校友网络的"双重信任"优势使其成为最高效的连接渠道之一（pp.74–76）。
 > 3. 探索发现阶段：技术匹配平台（Pivot、Pure、Academic Analytics 等）是必要的起点，但存在"粒度错配"和操作依赖性问题。最有效的方法是将技术工具与 [[University Corporate Engagement Professional|UCEP]] 的[[Professional Judgment|专业判断]]相结合：前者提供数据，后者提供解读、情境化和引荐（pp.76–78）。
 > 4. 建设阶段：将一次性项目生长为战略伙伴关系，需要四个不可省略的基本要素：双方联络人、共同认可的愿景与目标、包含定期审查的路线图、双方的问责制。大多数战略关系不是设计出来的，而是从一个教师项目开始，逐步生长并在 UCEP 介入后结构化（pp.78–79）。
 > 5. 政府贸易代表团是一个被低估的产学连接工具，可以在短时间内催化关系升级或启动全新合作，但前提是出访前做好匹配准备工作（pp.76, 80–81）。

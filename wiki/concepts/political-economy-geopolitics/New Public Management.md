@@ -18,7 +18,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Internationalization of Higher Education]]"
   - "[[International Education]]"
-  - "[[Competitiveness in Higher Education]]"
+  - "[[Competitiveness]]"
   - "[[Performance Indicators]]"
   - "[[Transitology]]"
   - "[[Champ]]"
@@ -102,7 +102,7 @@ updated: 2026-05-20
 > - **供给竞争**：学校、大学之间为生源、资金和排名竞争——在高等教育中体现为对全额付费国际学生的争夺（Rizvi, 2022, pp.96–97）
 > - **管理问责**：管理者对"有效和高效运行"负责，专业自主被管理问责取代（Eacott, 2011, p.52; Møller, 2017, pp.381–382）
 > - **公私合作伙伴关系**：公共教育机构与企业部门的深度整合——在教育国际化中表现为教育出口产业话语的兴起（Amos, 2022, p.56; Rizvi, 2022, pp.96–97）
-- **作为竞争性治理的制度条件**：Thompson 等人（2022, pp.219–220）的分析表明，NPM 所推动的绩效测量和审计文化构成了 [[Competitiveness in Higher Education|高等教育竞争力]] 作为地缘政治装置运作的制度条件——排名 和指标化的"描述即规定"效应之所以有效，正是因为大学已被 NPM 重塑为关注[[Performance Indicators|绩效指标]]、接受产出控制、参与市场竞争的组织形态
+- **作为竞争性治理的制度条件**：Thompson 等人（2022, pp.219–220）的分析表明，NPM 所推动的绩效测量和审计文化构成了 [[Competitiveness|高等教育竞争力]] 作为地缘政治装置运作的制度条件——排名 和指标化的"描述即规定"效应之所以有效，正是因为大学已被 NPM 重塑为关注[[Performance Indicators|绩效指标]]、接受产出控制、参与市场竞争的组织形态
 >
 
 ## 理论基础

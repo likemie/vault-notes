@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
+  - "[[Neo-Taylorism]]"
   - "[[Critic and Conscience of Society]]"
 related_theories: []
 related_methods:
@@ -36,7 +37,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> [[John Hattie|Hattie]] 直接回应 Eacott（2017）在 *[[School Leadership]] & Management* 同刊发表的"[[Cult of the Guru]]"论文，该文论证澳大利亚学校领导力领域已形成对 Hattie 的大师崇拜（Cult of Hattie），并将其工作定性为 Neo-Taylorism。
+> [[John Hattie|Hattie]] 直接回应 Eacott（2017）在 *[[School Leadership]] & Management* 同刊发表的"[[Cult of the Guru]]"论文，该文论证澳大利亚学校领导力领域已形成对 Hattie 的大师崇拜（Cult of Hattie），并将其工作定性为 [[Neo-Taylorism]]。
 
 ## 理论框架
 
@@ -49,7 +50,7 @@ updated: '2026-05-18'
 
 > [!info] 研究方法
 > - 类型：Reply / Commentary（直接回应）
-> - 对象：Eacott（2017）"[[School Leadership]] and the [[Cult of the Guru]]: The Neo-Taylorism of [[John Hattie|Hattie]]"
+> - 对象：Eacott（2017）"[[School Leadership]] and the [[Cult of the Guru]]: The [[Neo-Taylorism]] of [[John Hattie|Hattie]]"
 
 ## 论证结构
 

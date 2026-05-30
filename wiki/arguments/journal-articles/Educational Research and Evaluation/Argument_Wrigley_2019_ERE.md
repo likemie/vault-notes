@@ -21,8 +21,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
-  - "[[Visible Learning]]"
   - "[[Causality]]"
+  - "[[Visible Learning]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -86,7 +86,7 @@ updated: '2026-05-18'
 >
 > Ginsburg & Smith (2016, p. ii) 识别了数学课程 RCT 的 12 种威胁，发现 27 项高评分 RCT 中有 26 项存在多重严重问题，"即使单一威胁产生的误差幅度也常常大于 RCT 处理的平均[[Effect Size|效应量]]"（Wrigley & McCusker, 2019, p. 115）。
 >
-> ### 5. 经验主义[[Hypothesis|假设]]与因果性缺失
+> ### 5. 经验主义[[Hypothesis|假设]]与[[Causality|因果性]]缺失
 >
 > EBT 隐含的经验主义假设：规则性足以追求"什么有效"。但 Hume (1748/1975) 早已指出重复发生永远不能建立因果性。Gorard & See (2013, p. 22) 发现"研究报告中频繁使用强因果术语描述其发现，却没有任何明显的理由"（Wrigley & McCusker, 2019, p. 116）。
 >

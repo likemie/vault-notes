@@ -11,7 +11,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Space-Making in Higher Education]]"
+  - "[[Space-Making]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -83,7 +83,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - [[Geopolitics of Knowledge]] — 多重性意味着同质化的英语全球科学最终必然走向多元化，因为全球科学的扩张不可避免地引入更多差异轴线
-> - [[Space-Making in Higher Education]] — 空间制造的分析必须容纳多重轨迹和多重行动者，不能简化为单一中心-边缘逻辑
+> - [[Space-Making]] — 空间制造的分析必须容纳多重轨迹和多重行动者，不能简化为单一中心-边缘逻辑
 
 ---
 

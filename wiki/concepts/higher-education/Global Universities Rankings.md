@@ -18,11 +18,11 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Production]]"
-  - "[[Competitiveness in Higher Education]]"
+  - "[[Competitiveness]]"
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
   - "[[Preemptive Governance]]"
-  - "[[Space-Making in Higher Education]]"
+  - "[[Space-Making]]"
   - "[[Champ]]"
 related_theories: []
 related_methods: []
@@ -121,13 +121,13 @@ updated: 2026-05-20
 
 ### 排名作为竞争性地缘政治装置的基础设施
 
-Thompson 等人（2022, pp.219–220）从 [[Competitiveness in Higher Education|高等教育竞争力]] 的分析视角，将排名定位为竞争性地缘政治装置（geopolitical apparatus）的核心基础设施。这一视角的关键洞见在于：排名和指标化的运作不仅衡量竞争——它们**创造**竞争。在排名出现之前，大学之间并不天然地处于可比较、可排序的竞争关系之中；排名通过选定指标（论文引用、师生比、国际学生比例）并赋予权重，将异质的大学转化为同质的可比较单位，从而将竞争关系"制造"出来（Thompson et al., 2022, p.220）。
+Thompson 等人（2022, pp.219–220）从 [[Competitiveness|高等教育竞争力]] 的分析视角，将排名定位为竞争性地缘政治装置（geopolitical apparatus）的核心基础设施。这一视角的关键洞见在于：排名和指标化的运作不仅衡量竞争——它们**创造**竞争。在排名出现之前，大学之间并不天然地处于可比较、可排序的竞争关系之中；排名通过选定指标（论文引用、师生比、国际学生比例）并赋予权重，将异质的大学转化为同质的可比较单位，从而将竞争关系"制造"出来（Thompson et al., 2022, p.220）。
 
-这一分析超越了"排名是否公平"的讨论，指向一个更根本的问题：排名的 生产性——排名在"描述"大学的同时规定了"什么是好的大学"，驱动大学将资源集中于排名指标所奖励的活动。在教学领域，这一逻辑进一步延伸至学生治理：大学需要"[[Promising Student|有前景的学生]]"来维持和提升排名位置，由此催生了 [[Online Self-Assessment|OSA]] 等[[Preemptive Governance|预判性治理]]工具（Thompson et al., 2022, pp.220–226）。详见 [[Competitiveness in Higher Education#排名与指标化作为竞争基础设施]]。
+这一分析超越了"排名是否公平"的讨论，指向一个更根本的问题：排名的 生产性——排名在"描述"大学的同时规定了"什么是好的大学"，驱动大学将资源集中于排名指标所奖励的活动。在教学领域，这一逻辑进一步延伸至学生治理：大学需要"[[Promising Student|有前景的学生]]"来维持和提升排名位置，由此催生了 [[Online Self-Assessment|OSA]] 等[[Preemptive Governance|预判性治理]]工具（Thompson et al., 2022, pp.220–226）。详见 Competitiveness in Higher Education。
 
 ### 排名作为空间制造
 
-Marginson（2025）将全球大学排名的创建定位为[[Space-Making in Higher Education|高等教育空间制造]]的典型案例。2002/2003 年，一位中国大学规划者和一家伦敦杂志构想了一个以校准绩效排名来排序的大学世界——[[Academic Ranking of World Universities|ARWU]] 由此诞生。这一构想结合了：（a）物质元素（既有研究产出数据、大学声誉层级）；（b）空间想象（一个可比较、可竞争的全球大学市场）；（c）社会实践（数据收集、指标加权和年度排名发布），将一种特定版本的"世界一流大学"想象固化为全球制度现实（Marginson, 2025, pp. 4–5）。
+Marginson（2025）将全球大学排名的创建定位为[[Space-Making|高等教育空间制造]]的典型案例。2002/2003 年，一位中国大学规划者和一家伦敦杂志构想了一个以校准绩效排名来排序的大学世界——[[Academic Ranking of World Universities|ARWU]] 由此诞生。这一构想结合了：（a）物质元素（既有研究产出数据、大学声誉层级）；（b）空间想象（一个可比较、可竞争的全球大学市场）；（c）社会实践（数据收集、指标加权和年度排名发布），将一种特定版本的"世界一流大学"想象固化为全球制度现实（Marginson, 2025, pp. 4–5）。
 
 ### 排名与国际教育的循环效应
 

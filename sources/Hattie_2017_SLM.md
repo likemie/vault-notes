@@ -3,7 +3,7 @@ citation: "Hattie, J. (2017). Educators are not uncritical believers of a cult f
 extracted_to:
   - "[[Argument_Hattie_2017_SLM]]"
   - "[[Cult of the Guru]]"
-  - "[[Neo-Taylorism in Educational Administration]]"
+  - "[[Neo-Taylorism]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Visible Learning]]"
   - "[[Scott Eacott]]"

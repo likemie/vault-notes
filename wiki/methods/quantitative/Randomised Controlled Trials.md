@@ -21,7 +21,7 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Stable Unit Treatment Value Assumption]]"
-  - "[[Side Effects in Education]]"
+  - "[[Side Effects]]"
   - "[[School Leadership]]"
   - "[[Validity as Inferences]]"
   - "[[Recommendations for Practice]]"
@@ -220,7 +220,7 @@ updated: '2026-05-18'
 >
 > 这一批评与之前 RCT 批评者的论点互补但不同：(1) Wrigley & McCusker 批评 RCT 方法论本身的失真（三级聚合）；(2) Wiliam 批评 RCT 知识的局部与临时性；(3) Zhao 批评的是即使 RCT 方法正确，教育 RCT 的**评估范围**本身就不完整——只测量预期效果而忽略副作用。
 >
-> Zhao 建议在教育 RCT 中建立类似 FDA 的不良事件报告和上市后监测机制，作为 6 项行动建议的核心部分。详见 [[Side Effects in Education]]。
+> Zhao 建议在教育 RCT 中建立类似 FDA 的不良事件报告和上市后监测机制，作为 6 项行动建议的核心部分。详见 [[Side Effects]]。
 >
 > #### "教育研究只告诉我们曾经是什么，而非可能是什么"（Wiliam, 2019）
 >

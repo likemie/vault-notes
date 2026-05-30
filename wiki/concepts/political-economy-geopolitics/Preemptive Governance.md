@@ -22,7 +22,7 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[Governmentality]]"
-  - "[[Competitiveness in Higher Education]]"
+  - "[[Competitiveness]]"
   - "[[Stakeholder University]]"
   - "[[Promising Student]]"
 related_theories:
@@ -87,7 +87,7 @@ updated: 2026-05-20
 > [!success]
 > 先发制人治理并非孤立的治理技术，而是嵌入竞争性大学更广泛的地缘政治治理架构之中：
 
-1. **宏观层**：[[Competitiveness in Higher Education|高等教育竞争力]] 作为地缘政治装置——通过排名和指标化将大学重塑为竞争者（Thompson et al., 2022, pp.219–220）
+1. **宏观层**：[[Competitiveness|高等教育竞争力]] 作为地缘政治装置——通过排名和指标化将大学重塑为竞争者（Thompson et al., 2022, pp.219–220）
 2. **中观层**：大学作为 [[Stakeholder University|利益相关者大学]] 转型为多行动者连接平台——需要管理学生成功的可预测性以维持排名和声誉（Thompson et al., 2022, pp.221–222）
 3. **微观层**：先发制人治理通过 [[Online Self-Assessment|OSA]] 和 [[Learning Analytics]] 在个体层面运作——构建 [[Digital Self|数字自我]]、生成 [[Digital Optimum|数字最优]]、通过差异驱动自我优化（Thompson et al., 2022, pp.224–226）
 4. **主体层**：治理产出 [[Promising Student|有前景的学生]]——主动自我评估、持续自我优化、将学业成功视为个人风险管理（Thompson et al., 2022, pp.221, 226）

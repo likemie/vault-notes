@@ -1,5 +1,5 @@
 ---
-title: Strategic Partnership in University-Industry Collaboration
+title: Strategic Partnership
 aliases:
   - "产学战略伙伴关系"
   - "战略性产学伙伴关系"

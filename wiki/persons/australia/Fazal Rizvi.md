@@ -15,7 +15,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Internationalization of Higher Education]]"
-  - "[[Transnational Research Collaboration in Higher Education]]"
+  - "[[Transnational Research Collaboration]]"
   - "[[Knowledge Capitalism]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
@@ -39,7 +39,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Fazal Rizvi 是[[Internationalization of Higher Education|高等教育国际化]]与全球化研究领域的学者，以将[[Critical Geopolitics|批判地缘政治学]]视角应用于高等教育分析而著称。其研究聚焦于亚洲经济和政治崛起对全球高等教育架构的重塑，尤其关注国际学生流动、[[Transnational Research Collaboration in Higher Education|跨国研究合作]]以及高等教育治理的市场化转型（Rizvi, 2022）。
+> Fazal Rizvi 是[[Internationalization of Higher Education|高等教育国际化]]与全球化研究领域的学者，以将[[Critical Geopolitics|批判地缘政治学]]视角应用于高等教育分析而著称。其研究聚焦于亚洲经济和政治崛起对全球高等教育架构的重塑，尤其关注国际学生流动、[[Transnational Research Collaboration|跨国研究合作]]以及高等教育治理的市场化转型（Rizvi, 2022）。
 >
 
 ## 生平与职涯
@@ -54,7 +54,7 @@ updated: '2026-05-19'
 > - APA：Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 89–103). Springer.
 > - 核心内容：论证过去三十年间高等教育深刻转型的既有解释（[[Knowledge Capitalism|知识资本主义]]、工作性质转变、全球化、技术创新）普遍遗漏了一个关键因素——亚洲的崛起及其引发的地缘政治转移。亚洲崛起不仅通过国际化政策影响了高等教育系统的构成方式，更通过知识的生产、传播和利用方式深刻改变了全球高等教育的格局（Rizvi, 2022, pp.89–90）。
 > - 思想位置：代表 Rizvi 将[[Critical Geopolitics|批判地缘政治学]]系统性地应用于[[Internationalization of Higher Education|高等教育国际化]]分析的成熟阶段。
-> - 相关概念／理论：[[Critical Geopolitics]]、[[Internationalization of Higher Education]]、[[Transnational Research Collaboration in Higher Education]]
+> - 相关概念／理论：[[Critical Geopolitics]]、[[Internationalization of Higher Education]]、[[Transnational Research Collaboration]]
 >
 
 ## 核心思想
@@ -72,8 +72,8 @@ updated: '2026-05-19'
 > - **市场理性**（新范式）：国际化被重新定义为出口产业——国际学生被视为收入来源和市场份额，成功以招收全额付费学生的数量衡量（Rizvi, 2022, pp.96–97）
 
 
-> [!info] [[Transnational Research Collaboration in Higher Education|跨国研究合作]]中的多重理性融合
-> Rizvi 揭示了推动[[Transnational Research Collaboration in Higher Education|跨国研究合作]]的四重理性——个体研究者的学术兴趣、机构的声誉和基础设施需求、国家的贸易和外交目标——在现代合作话语中被无缝地融合进同一套叙事中。同一个联合实验室可以同时被表述为学术合作、声誉建设、贸易促进和公共外交（Rizvi, 2022, pp.98–99）。
+> [!info] [[Transnational Research Collaboration|跨国研究合作]]中的多重理性融合
+> Rizvi 揭示了推动[[Transnational Research Collaboration|跨国研究合作]]的四重理性——个体研究者的学术兴趣、机构的声誉和基础设施需求、国家的贸易和外交目标——在现代合作话语中被无缝地融合进同一套叙事中。同一个联合实验室可以同时被表述为学术合作、声誉建设、贸易促进和公共外交（Rizvi, 2022, pp.98–99）。
 
 
 > [!info] [[Critical Geopolitics|批判地缘政治学]]作为分析透镜

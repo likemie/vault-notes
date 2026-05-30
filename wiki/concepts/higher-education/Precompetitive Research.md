@@ -8,7 +8,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Translational Research]]"
   - "[[Hypothesis]]"
-  - "[[Product-Specific Research in University-Industry Consortia]]"
+  - "[[Product-Specific Research]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -57,7 +57,7 @@ updated: 2026-05-28
 > 2. 度量与制度匹配 — 度量应匹配研究性质。对前竞争研究套用竞争型 IP 条款是一种度量错配：制度设计[[Hypothesis|假设]] IP 具有商业价值，但实际产出不具备。纠正方法是按项目规模和研究阶段分层设计 IP 条款和审批流程，使小型前竞争项目能够快速启动。
 
 > [!example]
-> **[[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 的两层知识产权模型**：AMRC 通过区分前竞争研究与[[Product-Specific Research in University-Industry Consortia|产品专项研究]]来同时实现"竞争对手合作"和"个体竞争优势"。前竞争研究的 IP 归谢菲尔德大学所有，所有联合体成员以免版税方式平等使用——没有哪个成员出让竞争优势。在此基础上，成员可以在联合体协议之外另外赞助产品专项项目——这些项目涉及赞助企业的专有信息，IP 归赞助企业所有，构成从共同研究到商业应用的"技术转化工具"。两条轨道互补而非冲突：前竞争轨道创造了所有成员共享的知识池，产品专项轨道让每个成员能够将共同知识转化为自身竞争优势（Hoffman et al., 2025, pp.114–115, 117–118）
+> **[[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 的两层知识产权模型**：AMRC 通过区分前竞争研究与[[Product-Specific Research|产品专项研究]]来同时实现"竞争对手合作"和"个体竞争优势"。前竞争研究的 IP 归谢菲尔德大学所有，所有联合体成员以免版税方式平等使用——没有哪个成员出让竞争优势。在此基础上，成员可以在联合体协议之外另外赞助产品专项项目——这些项目涉及赞助企业的专有信息，IP 归赞助企业所有，构成从共同研究到商业应用的"技术转化工具"。两条轨道互补而非冲突：前竞争轨道创造了所有成员共享的知识池，产品专项轨道让每个成员能够将共同知识转化为自身竞争优势（Hoffman et al., 2025, pp.114–115, 117–118）
 
 ---
 

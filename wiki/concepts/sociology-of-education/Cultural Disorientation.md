@@ -15,7 +15,7 @@ tags:
 related_concepts:
   - "[[Lost Mode]]"
   - "[[Champ]]"
-  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Cultural Barrier]]"
   - "[[Habitus]]"
   - "[[Sense of Shame]]"
   - "[[Cultural Disembedding]]"
@@ -40,7 +40,7 @@ updated: 2026-05-18
 ## 定义
 
 > [!info] 定义
-> 文化[[Lost Mode|迷失]]（Cultural Disorientation）是[[Yajun Zheng|郑雅君]]（2023）在第六章提出的概念，指寒门学子升入名校之后，[[Champ|场域]]的剧烈转换造成了内在自我的冲突，继而引发了行动目标和策略的迷失，是高等教育[[Cultural Barrier in Higher Education|文化障碍]]的第二重维度。其典型特征是学生对自己感到迷茫和困惑，弄不清楚当下的自己"是谁""想要什么""该干什么"。
+> 文化[[Lost Mode|迷失]]（Cultural Disorientation）是[[Yajun Zheng|郑雅君]]（2023）在第六章提出的概念，指寒门学子升入名校之后，[[Champ|场域]]的剧烈转换造成了内在自我的冲突，继而引发了行动目标和策略的迷失，是高等教育[[Cultural Barrier|文化障碍]]的第二重维度。其典型特征是学生对自己感到迷茫和困惑，弄不清楚当下的自己"是谁""想要什么""该干什么"。
 >
 > > "文化迷失"障碍使得进入精英大学的寒门学子对自己感到迷茫和困惑……它极大地削弱了寒门学子使用文化工具去树立目标、达成目标的行动力和能动性，使得他们很多时候仅仅停留在茫然的观望状态（郑雅君，2023）
 >

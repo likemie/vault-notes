@@ -5,7 +5,7 @@ extracted_to:
   - "[[Digital Optimum]]"
   - "[[Digital Self]]"
   - "[[Learning Analytics]]"
-  - "[[Competitiveness in Higher Education]]"
+  - "[[Competitiveness]]"
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
   - "[[Stakeholder University]]"

@@ -17,7 +17,7 @@ related_concepts:
   - "[[Economy of Experience]]"
   - "[[Habitus]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Cultural Barrier in Higher Education]]"
+  - "[[Cultural Barrier]]"
   - "[[Academic and Social Integration]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
@@ -77,7 +77,7 @@ updated: '2026-05-18'
 > - **学生组织与社团参与**：加入并投入学生组织、社团活动——从普通成员到领导职务构成投入深度的连续统（[[Yajun Zheng|郑雅君]]，2023）
 > - **实习与职业探索**：通过实习积累职业经验、锻造软技能、建立职业网络。在[[Knowledge-Based Economy|知识经济]]时代，雇主越来越看重这类"[[Economy of Experience|履历资本]]"（郑雅君，2023，引 Brown & Hesketh, 2003）
 > - **同伴与[[Student-Teacher Relationship|师生关系]]**：与同伴建立有意义的人际连接、与教师建立非正式互动——这既是社交融入的指标，也是积累社会资本的渠道（郑雅君，2023）
-> - **[[Cultural Barrier in Higher Education|文化障碍]]与阶层不平等**：社会性投入的阶层差异不能仅归因于个人不努力——弱势学生面临"语言包"不适配（大成）、屡次融入失败后的回避（冰倩"弃疗"）、对社交的根本性疏离（禹海"依靠会有不安全感吧"），这些是[[Cultural Barrier in Higher Education|文化障碍]]的表现（郑雅君，2023）
+> - **[[Cultural Barrier|文化障碍]]与阶层不平等**：社会性投入的阶层差异不能仅归因于个人不努力——弱势学生面临"语言包"不适配（大成）、屡次融入失败后的回避（冰倩"弃疗"）、对社交的根本性疏离（禹海"依靠会有不安全感吧"），这些是[[Cultural Barrier|文化障碍]]的表现（郑雅君，2023）
 
 ---
 
@@ -87,7 +87,7 @@ updated: '2026-05-18'
 > - [[Academic and Social Integration]]（Tinto, 1993）— 社交融入维度是社会性投入的理论原型
 > - [[Student Engagement]]（Kuh, 1991）— 提供了社会性投入的操作化定义和行为指标
 > - [[Employability]]（Brown & Hesketh, 2003）— 揭示了社会性投入在[[Knowledge-Based Economy|知识经济]]时代的新功能——积累就业力
-> - [[Cultural Barrier in Higher Education]] — 揭示了社会性投入阶层不平等的结构性根源（[[Yajun Zheng|郑雅君]]，2023）
+> - [[Cultural Barrier]] — 揭示了社会性投入阶层不平等的结构性根源（[[Yajun Zheng|郑雅君]]，2023）
 
 ---
 

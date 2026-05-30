@@ -1,5 +1,5 @@
 ---
-title: Side Effects in Education
+title: Side Effects
 aliases:
   - 教育中的副作用
 summary: "指教育干预在产生预期效果的同时也可能带来伴随性损害或代价的概念，用于反思只关注什么有效而忽视何种代价的评估逻辑。"

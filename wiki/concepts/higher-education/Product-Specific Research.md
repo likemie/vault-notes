@@ -1,5 +1,5 @@
 ---
-title: Product-Specific Research in University-Industry Consortia
+title: Product-Specific Research
 aliases:
   - "产品专项研究"
   - "product-specific research"
