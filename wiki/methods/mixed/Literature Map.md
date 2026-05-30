@@ -61,6 +61,10 @@ updated: 2026-05-30
 > - **顶层主题**：组织中的程序公平
 > - **三个子主题**：公平感形成（Justice Perceptions Formation）、公平效应（Justice Effects）、组织变革中的公平（Justice in Organizational Change）
 > - **计划研究**：程序公平与文化（Procedural Justice and Culture）——放置在底部，通过连线连接到三个子主题中计划延伸的分支
+>
+> > [!example]- 图片占位
+> > 图2.1：Janovec (2001) 的组织程序公平文献地图示例  
+> > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_2-1_Literature_Map_Example.png)
 
 从这个示例中可以归纳几条设计原则（Creswell & Creswell, 2022）：不同分支的展开程度不必均匀——取决于每个分支下已有文献的多少和研究者的探索深度；地图中应同时包含量化、质性和混合方法研究；某些分支比另一些更发达，这如实反映了不同子领域的研究积累差异；地图需要配合一段叙述性说明，让读者（尤其是第一次见到文献地图的人）理解顶层的广泛主题、搜索过的数据库、文献的划分逻辑，以及计划研究的定位与延伸方向。
 
