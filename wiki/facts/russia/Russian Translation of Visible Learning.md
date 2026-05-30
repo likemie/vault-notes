@@ -15,8 +15,8 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Policy Borrowing]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:

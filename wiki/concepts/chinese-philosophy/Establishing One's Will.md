@@ -19,9 +19,9 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Familiarization]]"
   - "[[Refined Mastery]]"
-related_theories:
   - "[[Western Learner]]"
   - "[[Ideal Learner]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

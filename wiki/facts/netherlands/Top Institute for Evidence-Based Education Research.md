@@ -15,11 +15,11 @@ tags:
   - theme/educational-intervention
   - method/experimental-evaluation
 related_concepts:
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Knowledge Mobilisation]]"
-related_theories:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Knowledge Mobilisation]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"

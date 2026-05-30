@@ -14,13 +14,13 @@ tags:
 - research-use
 - school-improvement
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Transfer Translation Transformation]]"
-related_theories:
-  - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

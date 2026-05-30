@@ -11,10 +11,10 @@ tags:
 - region/china
 - evidence-based-reform
 - educational-technology
-related_concepts: []
-related_theories:
+related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
+related_theories: []
 related_methods:
   - "[[Experimental Research]]"
 related_persons:

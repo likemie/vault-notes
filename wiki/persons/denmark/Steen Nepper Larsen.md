@@ -11,6 +11,7 @@ tags:
 - region/denmark
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
   - "[[Learnification]]"
   - "[[Neuroplasticity]]"
   - "[[Bildung]]"
@@ -19,7 +20,6 @@ related_concepts:
   - "[[Blind Spot in Observation]]"
   - "[[Structural Coupling]]"
 related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[Phenomenology]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods: []

@@ -11,12 +11,12 @@ tags:
   - program-evaluation
   - organizational-learning
 related_concepts:
+  - "[[Implementation Fidelity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
   - "[[Logic Model]]"
   - "[[Formative Assessment]]"
-related_theories:
-  - "[[Implementation Fidelity]]"
+related_theories: []
 related_methods:
   - "[[Formative Program Evaluation]]"
 related_persons: []

@@ -20,8 +20,8 @@ related_concepts:
   - "[[Science and Technology Studies]]"
   - "[[Problem-Based Learning]]"
   - "[[Effect Size]]"
-related_theories:
   - "[[Surface and Deep Learning]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:

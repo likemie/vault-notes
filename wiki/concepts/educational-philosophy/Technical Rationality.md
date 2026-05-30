@@ -13,9 +13,9 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
-  - "[[Effective Teaching]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+  - "[[Effective Teaching]]"
+related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons:

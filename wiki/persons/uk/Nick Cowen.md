@@ -14,13 +14,13 @@ tags:
 - bureaucracy
 - region/uk
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Programme Fidelity vs Adaptation]]"
   - "[[Literature Review]]"
 related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[Tullock's Bureaucracy Theory]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
-  - "[[Programme Fidelity vs Adaptation]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons:

@@ -18,8 +18,8 @@ related_concepts:
   - "[[Promising Student]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
-related_theories:
   - "[[Competitiveness in Higher Education]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

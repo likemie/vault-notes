@@ -19,12 +19,12 @@ tags:
 - region/uk
 - region/us
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Opportunist Mode]]"
   - "[[Champ]]"
   - "[[Effect Size]]"
   - "[[Policy Borrowing]]"
 related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[Tullock's Bureaucracy Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"

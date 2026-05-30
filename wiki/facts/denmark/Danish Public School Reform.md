@@ -18,10 +18,10 @@ related_concepts:
   - "[[Learnification]]"
   - "[[Effective Teaching]]"
   - "[[Classroom Management]]"
+  - "[[Evidence-Based Education]]"
   - "[[Interpretation Community]]"
   - "[[Professional Judgment]]"
-related_theories:
-  - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

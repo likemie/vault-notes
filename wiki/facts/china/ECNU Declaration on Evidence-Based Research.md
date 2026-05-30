@@ -13,10 +13,10 @@ tags:
 - region/china
 - level/higher-ed
 related_concepts:
-  - "[[International Education]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+  - "[[International Education]]"
   - "[[Evidence-Based Reform]]"
+related_theories: []
 related_methods:
   - "[[Ethnography]]"
 related_persons: []

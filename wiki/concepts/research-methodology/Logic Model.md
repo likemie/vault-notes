@@ -15,10 +15,10 @@ tags:
 - theory-of-change
 related_concepts:
   - "[[Technology Infusion]]"
+  - "[[Implementation Fidelity]]"
   - "[[Absorptive Capacity]]"
   - "[[Formative Assessment]]"
-related_theories:
-  - "[[Implementation Fidelity]]"
+related_theories: []
 related_methods:
   - "[[Formative Program Evaluation]]"
 related_persons: []

@@ -12,8 +12,8 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Recommendations for Practice]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods:
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"

@@ -16,9 +16,9 @@ tags:
   - theme/educational-intervention
 related_concepts:
   - "[[Evidence-Informed Practice]]"
-  - "[[Educational Evidence Clearinghouses]]"
-related_theories:
   - "[[Evidence-Based Reform]]"
+  - "[[Educational Evidence Clearinghouses]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

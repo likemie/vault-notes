@@ -15,11 +15,11 @@ tags:
 - paradigm/rational-choice
 - region/global
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Formative Assessment]]"
   - "[[Progressive Education]]"
   - "[[Policy Borrowing]]"
 related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[Bounded Rationality]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"

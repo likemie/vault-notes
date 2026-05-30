@@ -18,9 +18,9 @@ tags:
 - paradigm/critical
 - region/global
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Value-Based Education]]"
 related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[Transactional Epistemology]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods:

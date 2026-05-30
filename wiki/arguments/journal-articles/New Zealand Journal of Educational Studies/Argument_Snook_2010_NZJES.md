@@ -20,8 +20,8 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Humility in Learning]]"
-related_theories:
   - "[[Surface and Deep Learning]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:

@@ -21,8 +21,8 @@ related_concepts:
   - "[[Researcher Degrees of Freedom]]"
   - "[[Publication Bias]]"
   - "[[Developer Effect]]"
-related_theories:
   - "[[Implementation Fidelity]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Quasi-Experimental Designs]]"

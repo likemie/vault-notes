@@ -16,8 +16,8 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[International Education]]"
   - "[[New Public Management]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

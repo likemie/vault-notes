@@ -18,13 +18,13 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Production]]"
+  - "[[Competitiveness in Higher Education]]"
   - "[[Promising Student]]"
   - "[[Online Self-Assessment]]"
   - "[[Preemptive Governance]]"
   - "[[Space-Making in Higher Education]]"
   - "[[Champ]]"
-related_theories:
-  - "[[Competitiveness in Higher Education]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

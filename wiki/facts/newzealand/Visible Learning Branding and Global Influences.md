@@ -30,16 +30,16 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Problem-Based Learning]]"
   - "[[Lost Mode]]"
+  - "[[Evidence-Based Education]]"
   - "[[Effective Teaching]]"
   - "[[Cult of the Guru]]"
   - "[[Material Fallacies]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Global Education Reform Movement]]"
   - "[[Performativity of Measurement]]"
   - "[[Policy Entrepreneur]]"
   - "[[Neo-Taylorism in Educational Administration]]"
-related_theories:
-  - "[[Evidence-Based Education]]"
-  - "[[Surface and Deep Learning]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:

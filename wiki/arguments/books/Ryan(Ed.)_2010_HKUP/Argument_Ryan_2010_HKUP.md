@@ -20,11 +20,11 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[International Education]]"
+  - "[[Chinese Learner]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
   - "[[Champ]]"
-related_theories:
-  - "[[Chinese Learner]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Paul Morris]]"

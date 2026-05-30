@@ -13,14 +13,14 @@ tags:
 - neoliberalism
 - region/uk
 related_concepts:
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Moral Sidestep]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Critical Realism]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
   - "[[Third Generation Activity Theory]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods:

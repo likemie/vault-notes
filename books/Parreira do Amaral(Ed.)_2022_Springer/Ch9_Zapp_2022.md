@@ -7,12 +7,12 @@ extracted_to:
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
   - "[[Organizational Actorhood]]"
+  - "[[Otherhood]]"
   - "[[THE Impact Ranking]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Jane Knight]]"
   - "[[John W. Meyer]]"
   - "[[World Society Theory]]"
-  - "[[Otherhood]]"
 processed_date: 2026-05-11
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

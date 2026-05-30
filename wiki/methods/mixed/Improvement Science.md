@@ -14,9 +14,9 @@ tags:
 - paradigm/interpretivist
 related_concepts:
   - "[[Spirals of Inquiry]]"
-  - "[[Evidence-Informed Practice]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+  - "[[Evidence-Informed Practice]]"
+related_theories: []
 related_methods:
   - "[[Mechanism Experiments]]"
 related_persons: []

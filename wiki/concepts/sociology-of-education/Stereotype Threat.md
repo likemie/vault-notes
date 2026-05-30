@@ -9,10 +9,10 @@ tags:
 - level/k12
 - level/higher-ed
 related_concepts:
+  - "[[Chinese Learner]]"
   - "[[Orientalism]]"
   - "[[Meta-Cultural Sensitivity]]"
-related_theories:
-  - "[[Chinese Learner]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

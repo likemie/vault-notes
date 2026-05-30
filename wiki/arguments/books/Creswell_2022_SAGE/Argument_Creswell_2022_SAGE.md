@@ -49,7 +49,7 @@ sources:
 part_of:
 status: draft
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-05-31
 ---
 
 # Argument_Creswell_2022_SAGE
@@ -61,7 +61,7 @@ updated: 2026-05-30
 | 前言 | 介绍教材的写作目的、面向读者、格式特色、第六版新增内容，以及全书两大部分共十章的结构概览。全书核心线索是量化、质性与混合方法三种研究路径的系统比较。 | [[Qualitative Research]], [[Mixed Method and Multi-method Research]], [[Joint Display]] |
 | 第1章 研究路径的选择 | 界定量化、质性和混合方法三种研究路径，建立"世界观、设计、方法"三层框架，逐一介绍后实证主义、建构主义、变革主义和实用主义四种哲学世界观，列出量化、质性和混合方法的主要研究设计类型，讨论选择研究路径的三项标准（研究问题、个人经验、受众）。 | [[Qualitative Research]], [[Quantitative Research]], [[Mixed Method and Multi-method Research]], [[Postpositivism]], [[Constructivist Paradigm]] |
 | 第2章 文献综述 | 介绍研究主题的确定（草拟标题、评估显著性）、文献综述在不同研究路径中的目的与组织差异（量化五部分结构、质性三种位置、混合方法的灵活策略）、文献检索的系统步骤与主要数据库、文献地图的绘制方法、文献摘要的撰写要点、APA 格式手册的使用，以及术语定义的原则与路径差异。 | [[Literature Review]], [[Literature Map]], [[Qualitative Research]], [[Quantitative Research]], [[Mixed Method and Multi-method Research]] |
-| 第3章 理论的使用 | 讨论理论在三种研究路径中的不同作用。量化研究中，理论提供变量间关系的解释模型；质性研究中，理论作为观察透镜或在研究过程中生成；混合方法研究则以多种方式运用理论。 | |
+| 第3章 理论的使用 | 系统讲解理论在量化、质性和混合方法研究中的不同定位与运用方式。量化研究以演绎方式将理论置于研究前端，通过变量间因果模型检验假设；质性研究以三种方式运用理论——演绎解释、理论立场（透镜）和理论终点（归纳生成）；混合方法研究使用学科理论或社会正义理论来指导设计的各个层面。 | [[Variable]], [[Theoretical Standpoint]], [[Discipline-Based Theory]], [[Social Justice Theory]], [[Causality]] |
 | 第4章 写作策略与伦理考量 | 提供研究计划的整体结构模型，分别给出量化、质性和混合方法计划的写作大纲，讨论清晰连贯的写作策略，以及研究前、研究中、研究后各阶段的伦理问题。 | |
 | 第5章 引言 | 提供撰写学术引言的系统方法，包括撰写[[Abstract\|研究摘要]]、确定研究问题、在文献中定位问题、指出文献缺口和明确研究受众。 | |
 | 第6章 目的陈述 | 聚焦研究计划中最关键的陈述（目的或研究目标），提供量化、质性和混合方法研究的目的陈述写作模板与范例。 | |
@@ -280,7 +280,177 @@ updated: 2026-05-30
 
 ---
 
+### 第3章 理论的使用
+
+#### 概念地图
+
+<!-- ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-3-concept-map.svg) -->
+
+#### 图片占位
+
+> [!example]- 图片占位
+> 图3.1：Three Predictor Variables Influence a Single Dependent Variable Mediated by Two Intervening Variables
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-1_Three_Predictor_Variables.png)
+
+> [!example]- 图片占位
+> 图3.2：Two Groups With Different Treatment on X Are Compared in Terms of Y
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-2_Two_Groups_Compared.png)
+
+> [!example]- 图片占位
+> 图3.3：A Visual Model of a Theory of Faculty Scholarly Performance
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-3_Faculty_Scholarly_Performance_Model.png)
+
+> [!example]- 图片占位
+> 图3.4：The Deductive Approach Typically Used in Quantitative Research
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-4_Deductive_Approach.png)
+
+> [!example]- 图片占位
+> 图3.5：The Inductive Logic of Research in a Qualitative Study
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-5_Inductive_Logic_Research.png)
+
+> [!example]- 图片占位
+> 图3.6：Four Levels for Developing a Research Study (Adapted from Crotty, 1998)
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-6_Four_Levels_Research_Study.png)
+
+#### 概览
+
+第3章围绕一个核心问题展开：**理论在研究设计中如何使用？** 答案直接取决于研究路径的选择：量化研究以演绎方式检验理论，质性研究以更灵活多样化的方式运用理论，混合方法研究则同时使用理论来进行解释和推动变革。
+
+---
+
+**第一步：理论使用的多样性与一般程序。** 理论的性质在研究中有很大差异——可以是预测、归纳或演绎框架、变量关系模型、发现的概括，或社会变革的呼吁。理论在文献中有多个名称：理论取向（theoretical orientation）、理论依据（theoretical rationale）、理论模型或简单称为理论。Sandelowski (1996) 将理论称为"钩子"（hook），因为理论为研究过程的诸多阶段提供了信息连接。
+
+定位和使用理论的一般程序包括七步：
+
+1. 从文献检索中识别一个或多个理论
+2. 将理论（模型或概念框架）放在文章开头，作为指导研究问题或假设的先验框架
+3. 先提出理论名称，再描述它如何指导量化、质性或混合方法研究
+4. 讨论使用该理论的研究，特别是与本研究密切相关的研究
+5. 包含理论图示，标明理论中可能存在的联系以及主要概念或变量
+6. 让理论为研究提供框架
+7. 在研究结束时回到理论，回顾其在指导发现和结果中的作用，并将理论使用与其他研究进行比较
+
+---
+
+**第二步：量化研究中的理论使用。** 量化研究对理论的讨论围绕六个环节逐层展开：定义、变量、测量、因果性、陈述方式和写作模型。
+
+关于**理论的定义**，Creswell 采用 Kerlinger (1979) 的经典定义：
+
+> [!quote]
+> "a set of interrelated constructs (variables), definitions, and propositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining natural phenomena"（p.64; 引自 Creswell & Creswell, 2022, p.53）
+
+该定义包含两个关键要素：理论有目的（解释）和程序（变量间关系）。Labovitz & Hagedorn (1971) 补充使用了"理论依据"（theoretical rationale）一词，定义为"说明变量和关系陈述为何以及如何相互关联"（p.17）。理论在研究中可能以论证、讨论、图示、依据或视觉模型的形式出现。Creswell 用**彩虹比喻**形象说明理论的作用：彩虹架起自变量和因变量之间的桥梁，为"自变量为何以及如何解释或预测因变量"提供总体解释。
+
+理论通过反复检验预测而发展。一个示例过程：研究者将变量组合为基于不同测量形式的问题 → 形成预测性假设 → 在不同情境和人群（如童子军、教会、扶轮社、高中生群体）中反复检验 → 理论浮现并被命名（如归因理论）。理论按覆盖广度分为三个层次（Neuman, 2009）：
+- **微观层次（micro level）**：对有限时间、空间或人数提供解释，如关于面对面互动仪式（face work）的理论
+- **中观层次（meso level）**：连接微观与宏观，如组织控制理论
+- **宏观层次（macro level）**：解释社会制度、文化系统和整体社会，如社会分层理论解释社会剩余如何随社会发展而增加
+
+变量的详细类型与定义见 [[Variable]] 条目。本章区分了七种变量类型：自变量（independent）、因变量（dependent）、预测变量（predictor/antecedent）、结果变量（outcome/criterion/response）、中介变量（intervening/mediating）、调节变量（moderating）和混淆变量（confounding）。详见 [[Variable]] 条目。
+
+关于**测量尺度**（scale of measurement），本章区分了两大类：分类量表（categorical scales）包括名义量表（nominal，如教育程度类别）和顺序量表（ordinal，如"完全没有—在一定程度上—在很大程度上"）；连续量表（continuous scales）包括等距量表（interval）和比率量表（ratio），典型的连续量表是从"非常同意"到"非常不同意"的 Likert 式 1–5 点量表。
+
+关于**因果性**（causality），核心问题是"我们预期变量 X 导致变量 Y"。评价因果主张的关键考量是是否存在未测量的第三变量 Z，详见 [[Causality]] 条目。时间顺序（temporal order）意味着变量在时间上一个先于另一个，量化研究者从左到右排列变量（Punch, 2014）。检验因果主张的最佳设计是真实验（第 8 章），调查方法可以检验关联主张而非因果主张。
+
+理论在量化研究方案中有**三种陈述方式**：
+1. **假设链**：以一系列相互关联的假设陈述理论，如 Hopkins (1964) 将影响力过程理论表述为 15 条假设
+2. **"如果—那么"逻辑陈述**：如 Homans (1950) 的互动理论——"如果互动频率增加，好感程度也会增加"
+3. **视觉模型**：Blalock (1969, 1985, 1991) 倡导的因果建模方式
+
+[[Herbert Blalock]] 提出了构建视觉因果图的基本符号规则（另见 [[Causal Modeling]] 条目）：
+- 因变量置于图中右侧，自变量置于左侧
+- 使用单向箭头从每个决定变量指向依赖它的变量
+- 在路径上插入正负价符号表示关系方向
+- 使用双向箭头连接不受其他关系约束的未分析变量
+
+本章展示了三个视觉模型实例：基础调查模型（三个自变量→两个中介变量→一个因变量，图 3.1）、组间实验设计（图 3.2），以及 Jungnickel (1990) 关于药学院教师研究生产力的复杂模型（图 3.3），其中区分了外生变量（exogenous，不被模型中其他变量引起）和内生变量（endogenous，影响其他变量）。
+
+关于**理论在量化研究中的位置**，量化研究以**演绎方式**使用理论，将其置于研究方案的前端。演绎模型（图 3.4）的四阶段是：研究者检验或验证理论 → 从理论推导假设或研究问题 → 定义并操作化理论中的变量 → 使用工具测量变量以检验假设。
+
+关于**写作模型**，Creswell 提供了一个实用的写作脚本：首先在科学文献中寻找解释现象的现有理论；若无可用的理论，发展自己的理论。检查先前研究使用了哪些理论，将数量限制为一两个。提出连接自变量和因变量的"彩虹问题"：什么解释为何自变量的变化会影响因变量？在什么情境下、对谁适用？理论段落的关键要素包括：理论名称与来源、核心假设或命题、过去理论使用和应用的文献、如何与当前研究相关联（附带"如果—那么"逻辑）。示例 3.1 完整展示了 Crutchfield (1986) 博士论文中以 [[Social Learning Theory|社会学习理论]] 为框架的理论视角撰写实例。
+
+---
+
+**第三步：质性研究中的理论使用。** 质性研究中的理论使用远比量化研究多样化，呈现三种主要形态。
+
+**第一种形态：作为演绎解释。** 与量化研究类似，理论可以是关于行为和态度的广泛演绎解释——包括变量、构念和假设。例如民族志学者使用文化主题（如社会控制、语言、亲属关系）作为检验假设的现成系列（Wolcott, 2008）。这种路径在质性健康科学研究中尤为流行，研究者从理论或概念模型出发，如健康实践采纳模型或生活质量评估模型。
+
+**第二种形态：作为理论立场。** 这是质性研究中最具特色的用法，详见 [[Theoretical Standpoint]] 条目。1980 年代的质性研究通过纳入理论透镜发生了变革。理论立场是一个整体导向透镜，围绕性别、阶级、种族（及其他边缘群体议题）塑造研究的方向。它成为变革性视角——旨在带来改变、提升未被充分代表群体的声音、揭示隐藏的假设。理论立场塑造研究问题，指导数据如何被收集和分析，并提供行动或变革的呼吁。
+
+质性研究者可用的几种主要理论立场视角：
+- **女性主义视角**（Feminist perspectives）：视女性的压迫性处境及其制度框架为问题所在（Olesen, 2000）
+- **种族化话语**（Racialized discourses）：提出谁控制知识生产的问题，尤其关注有色人种群体（Ladson-Billings, 2000）
+- **批判理论视角**（Critical theory perspectives）：赋权人类超越种族、阶级和性别约束（Fay, 1987）
+- **酷儿理论**（Queer theory）：聚焦 LGBTQ2A+ 个体身份，反对客体化（Gamson, 2000）
+- **残障探究**（Disability inquiry）：从社会文化视角理解残障人群（Mertens, 2009）
+
+Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联的主张：
+1. 研究本质上涉及权力问题
+2. 研究报告并非透明——它由具有种族、性别、阶级和政治取向的个体所撰写
+3. 种族、阶级和性别（以及性取向、身体状况、第一语言等）对理解经验至关重要
+4. 传统研究历史上压制了受压迫和边缘化群体的声音（p.91）
+
+**第三种形态：作为理论终点。** 这与量化演绎逻辑形成鲜明对比。详见 [[Theoretical End Point]] 条目。质性研究的归纳过程从数据出发，上升到广泛主题，再归纳为一般化的模型或理论（Punch, 2014）。归纳逻辑（图 3.5）的五个阶段从下往上依次是：收集详细信息 → 提出开放问题或记录田野笔记 → 分析数据形成主题或类别 → 寻找广泛的模式、概括或理论 → 基于过去经验和文献提出概括或理论。
+
+理论终点的形式因设计而异：案例研究中，Stake (1995) 称之为"自然主义概括"（naturalistic generalizations）；扎根理论中，研究者从参与者信息中归纳生成理论（Strauss & Corbin, 1998）；Lincoln & Guba (1985) 称之为"模式理论"（pattern theories）——相互关联的思想或部分连接为整体，而非量化研究的演绎形式。示例 3.3 展示了 Creswell & Brown (1992) 如何使用 33 次与学术系主任的访谈，将归纳发展的理论模型放在文章末尾。
+
+**第四种形态：没有明确理论。** 一些质性研究（如现象学）不包含明确的理论取向，但 Schwandt (2014) 指出没有质性研究从纯粹的观察开始——由理论和方法组成的先前概念结构往往为所有观察提供起点。
+
+**理论在质性研究中的位置：** 在具有文化主题或理论透镜的研究中，理论出现在开头段落，可能根据参与者观点进行调整或修改。Lather (1986) 对扎根理论中的理论使用提出了限定："建基于经验数据的理论需要在数据与理论之间建立交互关系。数据必须以辩证方式允许生成命题，——允许先验理论框架的存在，但防止该框架成为数据必须倒入的容器"（p.267）。在以理论为终点的研究中，理论出现在研究末尾，通常以图表形式呈现概念间关系。
+
+---
+
+**第四步：混合方法研究中的理论使用。** 混合方法研究中使用两种主要类型的理论：学科理论（discipline-based theory）和社会正义理论（social justice theory），详见 [[Discipline-Based Theory]] 和 [[Social Justice Theory]] 条目。
+
+**学科理论**从社会、行为或健康科学文献中提取，识别变量或构念并将它们相互关联，形成并解释对个人和组织的预期结果。示例包括组织理论、领导力理论、采纳理论、归因理论和健康促进理论。Kennett et al. (2008) 的慢性疼痛管理混合方法研究是学科理论应用的典型案例——他们使用 Rosenbaum (1990) 的 [[Self-control|自我控制理论]] 来指导量化测量（SCS 量表）和质性访谈，在开头段落即宣告研究目的，在末尾以图表回顾最显著的因素。Clark & Plano Clark (2019) 则使用积极心理学理论来框架化研究设计、个案选择以及结果和发现的解释（p.104）。
+
+**社会正义理论**帮助为社会中边缘化和未被充分代表的人群发声，如女性主义研究、种族研究、残障研究和生活方式研究。Hodgkin (2008) 的研究是社会正义理论应用的范例——她考察了澳大利亚男女社会资本的性别差异，明确将研究定位为"展示混合方法在女性主义研究中的使用"（p.296），在文章开头讨论女性主义视角，在第二阶段通过女性声音探索"好母亲""社会隔离""积极公民"等主题。
+
+社会正义理论融入混合方法研究的方式包括：在开头段落指明框架；提及框架与边缘化社区和具体问题（如压迫、权力）的关系；将框架置于理论文献体系之中；让相关社区参与研究；在研究问题中采取倡导性立场；在变革性框架内推进两类数据的收集、分析和整合；讨论研究者自身经验如何影响理解；以倡导变革来结束研究。
+
+关于**理论与世界观的区别**（图 3.6，改编自 Crotty, 1998）：世界观涉及研究者的信念和价值观，在抽象层面运作，可能被显式陈述也可能被隐含；理论较不抽象，从文献中提取，为研究设计诸多方面提供指导。从理论出发，再到方法论路径（如混合方法），最后到具体的数据收集方法。
+
+关于**理论驱动（theoretically driven）的争议**：Morse & Niehaus (2009) 主张所有混合方法研究都是理论驱动的——要么量化为主，要么质性为主。但 Creswell 持不同立场：这种"驱动"取向在量化和质性之间制造了不健康的权力失衡，而混合方法研究的核心优势在于给予两种研究形式同等的重要性。
+
+理论可以具体指导混合方法项目的诸多方面。以 Evans et al. (2011) 使用生命历程视角（Life Course Perspective）为例：理论通过视觉模型呈现；构念被纳入研究目标；理论故事被用于招募参与者；理论结构指导质性问题和量化工具；理论提供质性分析的"起始编码和主题"和量化分析的假设关系；理论贡献了有用的发现类型学并展示了照顾随时间的发展。Creswell 建议将理论更明确地关联到特定的混合方法研究设计类型（如聚敛式设计），并在设计图示中标识理论及其名称。
+
+---
+
+**全章总结。** 理论使用在三种研究路径中有本质差异。量化研究中，理论是一个解释或预测变量间关系的框架——回答"为何"和"如何"。理论可宽可窄，通过假设链、"如果—那么"逻辑或视觉模型陈述，通常置于研究前端。质性研究中，理论可以是广泛的演绎解释（如民族志）、一种立场透镜（女性主义、批判理论等）或研究的归纳终点（如扎根理论）。混合方法研究使用学科理论或社会正义理论来指导设计的各个层面。本章最后指出，理论可以在研究设计的几乎所有阶段提供指导——但关键在于将理论与具体的研究设计类型明确地关联起来。
+
+---
+
 ## 重要摘录
+
+> [!quote]
+> "Theory can be a prediction of what the researcher expects to find or an inductive or deductive framework for a study. It may be presented as a model or diagram of the relationship among variables or constructs. It may exist as generalizations from findings, or a call for action, such as a change-oriented social agenda for a population or society."（第3章, p.52）
+
+> [!quote]
+> "The metaphor of a rainbow can help visualize how a theory operates. Assume that the rainbow bridges the independent and dependent variables (or constructs). This rainbow ties together the variables and provides an overarching explanation for how and why one would expect the independent variables to explain or predict the dependent variables."（第3章, p.53）
+
+> [!quote]
+> "Theory develops as an explanation to advance knowledge in fields."（第3章, p.54）
+
+> [!quote]
+> "A variable refers to a characteristic or attribute of an individual or an organization that researchers can measure or observe and varies among the individuals or organizations."（第3章, p.54）
+
+> [!quote]
+> "One critically important consideration in evaluating causal claims is whether an unmeasured third variable Z may cause the outcome."（第3章, p.56）
+
+> [!quote]
+> "Researchers increasingly use a theoretical standpoint in qualitative research to provide an overall orienting lens for the study questions about gender, class, and race (or other issues of marginalized groups). This lens becomes a transformative perspective to bring about change, lift the voices of underrepresented groups, and uncover largely hidden assumptions of individuals."（第3章, p.65）
+
+> [!quote]
+> "Building empirically grounded theory requires a reciprocal relationship between data and theory. Data must be allowed to generate propositions in a dialectical manner permitting a priori theoretical frameworks, but which keeps a framework from becoming the container into which the data must be poured."（Lather, 1986, p.267; 引自第3章, p.67）
+
+> [!quote]
+> "Qualitative research is an inductive process building from data, to broad themes, and to a generalized model or theory."（第3章, p.66）
+
+> [!quote]
+> "No qualitative study begins from pure observation, and prior conceptual structure composed of theory and method often provides the starting point for all observations."（Schwandt, 2014; 引自第3章, p.67）
+
+> [!quote]
+> "A worldview relates to the beliefs and values of the researcher and how these inform a study. Theories, in contrast, are less abstract, drawn from the literature, and provide a guiding perspective for designing many research process aspects."（第3章, p.71）
 
 > [!quote]
 > "Part I addresses several preliminary considerations that are necessary before designing a proposal or a plan for a study. These considerations relate to selecting an appropriate research approach, reviewing the literature to position the proposed study within the existing literature, deciding on whether to use a theory in the study, and employing—at the outset—good writing and ethical practices."（第一部分引言）

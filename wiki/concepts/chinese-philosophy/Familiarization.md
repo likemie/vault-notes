@@ -17,9 +17,9 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Refined Mastery]]"
   - "[[Rote Learning]]"
-  - "[[Self-Cultivation]]"
-related_theories:
   - "[[Chinese Learner]]"
+  - "[[Self-Cultivation]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

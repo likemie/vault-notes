@@ -15,10 +15,10 @@ related_concepts:
   - "[[Champ]]"
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
+  - "[[Otherhood]]"
   - "[[New Public Management]]"
 related_theories:
   - "[[World Society Theory]]"
-  - "[[Otherhood]]"
 related_methods: []
 related_persons:
   - "[[John W. Meyer]]"

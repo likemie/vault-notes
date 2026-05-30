@@ -23,11 +23,11 @@ related_concepts:
   - "[[Hegemony]]"
   - "[[Zhonghua Minzu]]"
   - "[[Confucian Heritage Cultures]]"
+  - "[[Symbolic Boundary]]"
   - "[[Self-Cultivation]]"
   - "[[Cultural Disembedding]]"
   - "[[Academic Freedom]]"
-related_theories:
-  - "[[Symbolic Boundary]]"
+related_theories: []
 related_methods:
   - "[[In-depth Interview]]"
 related_persons:

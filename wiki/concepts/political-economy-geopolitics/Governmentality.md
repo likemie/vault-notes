@@ -23,18 +23,18 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
+  - "[[Self-Entrepreneur]]"
   - "[[New Public Management]]"
   - "[[International Education]]"
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
   - "[[Digital Self]]"
+  - "[[Competitiveness in Higher Education]]"
   - "[[Performance Indicators]]"
   - "[[Transfer Translation Transformation]]"
 related_theories:
-  - "[[Self-Entrepreneur]]"
   - "[[Societies of Control]]"
-  - "[[Competitiveness in Higher Education]]"
 related_methods:
   - "[[Single-Case Design]]"
 related_persons: []

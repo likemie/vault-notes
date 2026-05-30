@@ -18,11 +18,11 @@ tags:
 - paradigm/constructivist
 - region/uk
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
 related_theories:
   - "[[Critical Realism]]"
-  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"

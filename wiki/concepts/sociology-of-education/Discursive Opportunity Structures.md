@@ -7,9 +7,9 @@ tags: ["theme/discourse", "theme/global-governance", "theme/opportunity", "theme
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Governmentality]]"
-related_theories:
   - "[[Self-Entrepreneur]]"
+  - "[[Governmentality]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

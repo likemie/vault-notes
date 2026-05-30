@@ -19,8 +19,8 @@ related_concepts:
   - "[[Logic Model]]"
   - "[[Class Size]]"
   - "[[Classroom Management]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods:
   - "[[Formative Program Evaluation]]"
 related_persons: []

@@ -7,9 +7,9 @@ nationality: australia
 tags: ["region/australia", "field/comparative-education", "field/educational-psychology"]
 related_concepts:
   - "[[Paradox of the Chinese Learner]]"
+  - "[[Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
 related_theories:
-  - "[[Chinese Learner]]"
   - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons:

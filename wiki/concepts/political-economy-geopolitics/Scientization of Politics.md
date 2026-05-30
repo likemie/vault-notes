@@ -11,13 +11,13 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Epistemic Governance]]"
+  - "[[Evidence-Based Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Otherhood]]"
   - "[[Epistemic Drift]]"
 related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[World Society Theory]]"
-  - "[[Otherhood]]"
   - "[[Cultural Models]]"
 related_methods: []
 related_persons: []

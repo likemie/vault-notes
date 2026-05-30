@@ -16,10 +16,10 @@ tags:
 related_concepts:
   - "[[Official Knowledge]]"
   - "[[Zhonghua Minzu]]"
+  - "[[Membership-Creating Function of Education]]"
   - "[[Sinicisation]]"
   - "[[One Country, Two Systems]]"
-related_theories:
-  - "[[Membership-Creating Function of Education]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

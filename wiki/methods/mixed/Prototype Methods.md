@@ -15,10 +15,10 @@ tags:
 related_concepts:
   - "[[Emic and Etic]]"
   - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Ideal Learner]]"
 related_theories:
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
-  - "[[Ideal Learner]]"
 related_methods: []
 related_persons: []
 related_arguments:

@@ -16,11 +16,11 @@ tags:
   - method/narrative-case-study
   - policy/compulsory-education
 related_concepts:
-  - "[[Grade Retention]]"
-  - "[[Inclusive Evidence Validation Typology]]"
-related_theories:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Grade Retention]]"
+  - "[[Inclusive Evidence Validation Typology]]"
+related_theories: []
 related_methods:
   - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"

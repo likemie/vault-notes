@@ -11,13 +11,13 @@ tags:
 - region/australia
 related_concepts:
   - "[[Constructive Alignment]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Paradox of the Chinese Learner]]"
+  - "[[Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
   - "[[Radical Constructivism]]"
-  - "[[Surface and Deep Learning]]"
-  - "[[Chinese Learner]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods: []
 related_persons:

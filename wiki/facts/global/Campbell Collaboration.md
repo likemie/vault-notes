@@ -16,9 +16,9 @@ tags:
   - policy/evidence-informed-policy
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Class Size]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+  - "[[Class Size]]"
+related_theories: []
 related_methods:
   - "[[Intervention Research]]"
 related_persons: []

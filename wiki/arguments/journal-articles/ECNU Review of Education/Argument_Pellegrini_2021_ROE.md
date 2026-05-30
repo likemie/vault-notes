@@ -16,15 +16,15 @@ tags:
   - theme/key-competences
   - method/document-analysis
 related_concepts:
+  - "[[Evidence-Based Reform]]"
+  - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Literature Review]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Reusability Paradox]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Class Size]]"
-related_theories:
-  - "[[Evidence-Based Reform]]"
-  - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods:
   - "[[Experimental Research]]"
   - "[[Mixed Method and Multi-method Research]]"

@@ -13,13 +13,13 @@ tags:
 - paradigm/critical
 - paradigm/pragmatist
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Value-Based Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
   - "[[Phenomenon-Based Learning]]"
 related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[Transactional Epistemology]]"
   - "[[Phenomenology]]"
 related_methods: []

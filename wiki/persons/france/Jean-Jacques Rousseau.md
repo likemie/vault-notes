@@ -18,10 +18,10 @@ tags:
 - theme/natural-education
 - theme/child-development
 related_concepts:
-  - "[[Progressive Education]]"
-related_theories:
   - "[[Western Learner]]"
   - "[[Ideal Learner]]"
+  - "[[Progressive Education]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[John Locke]]"

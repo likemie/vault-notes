@@ -6,7 +6,7 @@ aliases:
   - fidelity of implementation
   - implementation quality
 summary: "项目在真实学校中是否按设计要求和足够强度实施的概念，用于解释干预效果和证据评级为何不能只看显著性。"
-type: theory
+type: concept
 tags:
 - implementation-fidelity
 - implementation

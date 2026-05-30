@@ -18,11 +18,11 @@ tags:
 - paradigm/positivist
 - region/us
 related_concepts:
-  - "[[Learning Analytics]]"
-  - "[[Effect Size]]"
-related_theories:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
+  - "[[Learning Analytics]]"
+  - "[[Effect Size]]"
+related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"

@@ -16,12 +16,12 @@ tags:
 - rer
 - methodology
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[School Leadership]]"
   - "[[Effect Size]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
-  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Single-Case Design]]"
   - "[[Randomised Controlled Trials]]"

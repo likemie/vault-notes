@@ -12,11 +12,11 @@ tags:
 - region/hongkong
 - level/k12
 related_concepts:
+  - "[[Chinese Learner]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
   - "[[International Education]]"
-related_theories:
-  - "[[Chinese Learner]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

@@ -14,6 +14,7 @@ tags:
 - region/uk
 - region/netherlands
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Value-Based Education]]"
@@ -21,7 +22,6 @@ related_concepts:
   - "[[Complexity Reduction]]"
   - "[[Visible Learning]]"
 related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[Transactional Epistemology]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods:

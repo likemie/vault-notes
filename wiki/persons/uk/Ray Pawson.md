@@ -15,10 +15,10 @@ tags:
 - region/uk
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Evidence-Based Education]]"
   - "[[Sage]]"
 related_theories:
   - "[[Critical Realism]]"
-  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"

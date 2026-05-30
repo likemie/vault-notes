@@ -3,6 +3,7 @@ citation: "Qvortrup, L. (2015). Baggrund for og diskussioner af Visible Learning
 extracted_to:
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Visible Learning]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Effect Size]]"
   - "[[John Biggs]]"
   - "[[Carl Bereiter]]"
@@ -11,7 +12,6 @@ extracted_to:
   - "[[Jean Piaget]]"
   - "[[Popper's Three Worlds Theory]]"
   - "[[Dynamic Knowledge and Learning Model]]"
-  - "[[Surface and Deep Learning]]"
 processed_date: 2026-05-05
 ---
 

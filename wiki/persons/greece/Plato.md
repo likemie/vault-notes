@@ -17,9 +17,9 @@ tags:
 related_concepts:
   - "[[Examined Life]]"
   - "[[Certainty of Knowledge]]"
-  - "[[Mind and Its Wonders]]"
-related_theories:
   - "[[Western Learner]]"
+  - "[[Mind and Its Wonders]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Socrates]]"

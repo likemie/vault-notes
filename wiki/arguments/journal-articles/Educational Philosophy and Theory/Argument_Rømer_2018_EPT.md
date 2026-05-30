@@ -19,13 +19,13 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Bildung]]"
   - "[[Technical Rationality]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Didaktik]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Popper's Three Worlds Theory]]"
   - "[[Appraisal Theory]]"
-  - "[[Surface and Deep Learning]]"
 related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Meta-analysis]]"

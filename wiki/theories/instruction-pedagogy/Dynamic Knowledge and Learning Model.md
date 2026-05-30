@@ -11,13 +11,13 @@ tags:
 - subject/instruction
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Scientism]]"
   - "[[Effect Size]]"
+  - "[[Evidence-Based Education]]"
   - "[[Cargo Cult Science]]"
 related_theories:
-  - "[[Surface and Deep Learning]]"
   - "[[Popper's Three Worlds Theory]]"
-  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Quantitative Research]]"

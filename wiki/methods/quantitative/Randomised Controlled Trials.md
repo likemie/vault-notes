@@ -14,6 +14,7 @@ tags:
 - methodology
 - paradigm/positivist
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[Tracking]]"
   - "[[Pragmatic Paradigm]]"
@@ -23,7 +24,6 @@ related_concepts:
   - "[[Validity as Inferences]]"
   - "[[Recommendations for Practice]]"
 related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[Critical Realism]]"
 related_methods:
   - "[[Intervention Research]]"

@@ -12,15 +12,15 @@ tags:
 - theme/cross-cultural-learning
 - theme/learning-process
 related_concepts:
+  - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Examination Hell]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Learning Gap]]"
 related_theories:
-  - "[[Chinese Learner]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"
 related_methods:

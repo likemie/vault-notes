@@ -18,9 +18,9 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Effect Size]]"
   - "[[Feedback]]"
+  - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Radical Constructivism]]"
-  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"

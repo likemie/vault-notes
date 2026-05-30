@@ -16,10 +16,10 @@ tags:
 - level/k12
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[Literature Review]]"
 related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[Radical Constructivism]]"
 related_methods: []
 related_persons:

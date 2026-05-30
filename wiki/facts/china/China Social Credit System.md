@@ -15,9 +15,9 @@ tags:
 - geopolitics-of-knowledge
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
-  - "[[Knowledge Transfer]]"
-related_theories:
   - "[[Virtue-Oriented Learning Process]]"
+  - "[[Knowledge Transfer]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

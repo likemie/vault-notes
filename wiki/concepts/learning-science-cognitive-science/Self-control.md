@@ -20,10 +20,11 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Lekhal_2015_Paideia]]"
+  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-05-31'
 ---
 
 ## 定义
@@ -54,6 +55,12 @@ updated: '2026-05-18'
 
 - 后续可补充自控量表与课堂观察一致性及干预迁移效应证据。
 
+## 相关研究
+
+> [!example]
+> Kennett et al. (2008) 在慢性疼痛管理的混合方法研究中，使用 Rosenbaum (1990) 的自我控制理论（theory of self-control）作为 [[Discipline-Based Theory|学科理论]]。研究收集了 Rosenbaum 自我控制量表（SCS）的量化测量数据，并结合对慢性疼痛患者的质性访谈，考察习得性资源fulness（learned resourcefulness）如何赋能个体的自我管理（Creswell & Creswell, 2022, pp.69–70）。
+
 ## 来源
 
 - [[Lekhal_2015_Paideia]]
+- [[Creswell_2022_SAGE]]

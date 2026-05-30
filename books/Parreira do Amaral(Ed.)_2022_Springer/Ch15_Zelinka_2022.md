@@ -6,8 +6,8 @@ extracted_to:
   - "[[Governmentality]]"
   - "[[VUCA]]"
   - "[[Discursive Opportunity Structures]]"
-  - "[[Critical Companion]]"
   - "[[Self-Entrepreneur]]"
+  - "[[Critical Companion]]"
 processed_date: 2026-05-20
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

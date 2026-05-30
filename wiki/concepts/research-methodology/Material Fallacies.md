@@ -11,8 +11,8 @@ tags:
 related_concepts:
   - "[[Class Size]]"
   - "[[Effect Size]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:

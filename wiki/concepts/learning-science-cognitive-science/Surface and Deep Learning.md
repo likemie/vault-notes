@@ -5,7 +5,7 @@ aliases:
   - 表层学习
   - 深层学习
 summary: "区分以记忆事实和任务完成为主的表层学习与以理解关系、意义和结构为主的深层学习，同时提示记忆在不同文化中可能服务于深层理解"
-type: theory
+type: concept
 tags:
 - surface-learning
 - deep-learning
@@ -14,16 +14,16 @@ tags:
 - region/china
 related_concepts:
   - "[[Problem-Based Learning]]"
+  - "[[Western Learner]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
+  - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Constructive Alignment]]"
   - "[[Cognitive Task Analysis]]"
 related_theories:
-  - "[[Western Learner]]"
-  - "[[Chinese Learner]]"
   - "[[Popper's Three Worlds Theory]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:

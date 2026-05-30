@@ -10,11 +10,11 @@ tags:
 - evidence-based-education
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Programme Fidelity vs Adaptation]]"
 related_theories:
   - "[[Bounded Rationality]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Programme Fidelity vs Adaptation]]"
 related_methods:
   - "[[Formative Program Evaluation]]"
 related_persons:

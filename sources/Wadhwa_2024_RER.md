@@ -3,6 +3,7 @@ citation: "Wadhwa, M., Zheng, J., & Cook, T. D. (2024). How consistent are meani
 extracted_to:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Best Evidence Encyclopedia]]"
@@ -26,7 +27,6 @@ extracted_to:
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design]]"
-  - "[[Evidence-Based Reform]]"
   - "[[Campbellian Validity Framework]]"
 processed_date: 2026-05-05
 ---

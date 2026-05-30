@@ -4,7 +4,10 @@ extracted_to:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Absorptive Capacity]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Implementation Fidelity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
   - "[[Technology Infusion]]"
@@ -16,9 +19,6 @@ extracted_to:
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Formative Program Evaluation]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
-  - "[[Implementation Fidelity]]"
 processed_date: 2026-05-23
 ---
 

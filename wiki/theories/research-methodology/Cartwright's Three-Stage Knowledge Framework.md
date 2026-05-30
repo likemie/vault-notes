@@ -13,11 +13,11 @@ tags:
 - paradigm/scientific-realism
 related_concepts:
   - "[[Class Size]]"
+  - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
+  - "[[Programme Fidelity vs Adaptation]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Programme Fidelity vs Adaptation]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Philosophical Analysis in Education]]"

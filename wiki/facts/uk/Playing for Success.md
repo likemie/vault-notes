@@ -16,9 +16,9 @@ tags:
 - level/k12
 related_concepts:
   - "[[Effect Size]]"
-  - "[[School Leadership]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+  - "[[School Leadership]]"
+related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"

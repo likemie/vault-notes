@@ -17,9 +17,9 @@ tags:
 - level/k12
 related_concepts:
   - "[[Direct Instruction]]"
-related_theories:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

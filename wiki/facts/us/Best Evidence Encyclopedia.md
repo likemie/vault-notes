@@ -15,9 +15,9 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Effect Size]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+  - "[[Effect Size]]"
+related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"

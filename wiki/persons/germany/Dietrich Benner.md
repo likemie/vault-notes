@@ -11,8 +11,8 @@ tags:
 - region/germany
 related_concepts:
   - "[[Bildung]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[John Dewey]]"

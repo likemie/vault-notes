@@ -15,9 +15,9 @@ tags:
 related_concepts:
   - "[[Justified Warrants]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Moral Sidestep]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+  - "[[Moral Sidestep]]"
+related_theories: []
 related_methods:
   - "[[Carnivalesque Analysis]]"
 related_persons:

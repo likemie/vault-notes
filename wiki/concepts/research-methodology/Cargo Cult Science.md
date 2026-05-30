@@ -11,9 +11,9 @@ tags:
 - stance/critique
 related_concepts:
   - "[[Scientism]]"
+  - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
 related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Meta-meta-analysis]]"

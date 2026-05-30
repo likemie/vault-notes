@@ -12,11 +12,11 @@ related_concepts:
   - "[[Governmentality]]"
   - "[[Discursive Opportunity Structures]]"
   - "[[Literature Review]]"
+  - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
-related_theories:
-  - "[[Self-Entrepreneur]]"
+related_theories: []
 related_methods:
   - "[[Single-Case Design]]"
   - "[[Critical Companion]]"

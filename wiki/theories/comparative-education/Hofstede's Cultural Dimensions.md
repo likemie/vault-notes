@@ -11,10 +11,10 @@ tags:
 - comparative-education
 related_concepts:
   - "[[Effective Teaching]]"
+  - "[[Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Visible Learning]]"
-related_theories:
-  - "[[Chinese Learner]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

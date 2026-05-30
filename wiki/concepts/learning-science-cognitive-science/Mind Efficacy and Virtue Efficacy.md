@@ -16,12 +16,12 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
   - "[[Cognitive Source]]"
+  - "[[Chinese Learner]]"
+  - "[[Western Learner]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Pride in Learning]]"
   - "[[Establishing One's Will]]"
 related_theories:
-  - "[[Chinese Learner]]"
-  - "[[Western Learner]]"
   - "[[Attribution Theory]]"
 related_methods:
   - "[[Mother-Child Conversation]]"

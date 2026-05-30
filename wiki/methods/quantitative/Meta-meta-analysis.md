@@ -21,13 +21,13 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[Confidence Interval]]"
   - "[[Class Size]]"
+  - "[[Evidence-Based Education]]"
   - "[[Whole Language]]"
   - "[[Language Experience Approach]]"
   - "[[Cargo Cult Science]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Critical Realism]]"
-  - "[[Evidence-Based Education]]"
   - "[[Goldman's Discrimination Theory of Knowledge]]"
 related_methods:
   - "[[Meta-analysis]]"

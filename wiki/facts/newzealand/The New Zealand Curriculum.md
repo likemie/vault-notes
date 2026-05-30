@@ -15,8 +15,8 @@ tags:
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Visible Learning]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

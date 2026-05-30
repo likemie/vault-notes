@@ -12,9 +12,9 @@ tags:
 related_concepts:
   - "[[Learning Virtues]]"
   - "[[Enculturation]]"
+  - "[[Virtue-Oriented Learning Process]]"
 related_theories:
   - "[[Cultural Models]]"
-  - "[[Virtue-Oriented Learning Process]]"
 related_methods: []
 related_persons: []
 related_facts: []

@@ -28,10 +28,11 @@ sources:
   - "[[Berk_2011_ER]]"
   - "[[Allerup_2015_Paideia]]"
   - "[[Brady_2023_EPR]]"
-confidence: low
+  - "[[Creswell_2022_SAGE]]"
+confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: '2026-05-31'
 ---
 
 ## 定义
@@ -60,6 +61,11 @@ updated: '2026-05-18'
 ## 历史沿革
 
 
+- **1969, 1985, 1991** — [[Herbert Blalock]] 倡导因果建模，将口头理论重构为因果模型以可视化变量之间的相互联系。他提出了构建视觉因果图的基本符号规则（Creswell & Creswell, 2022, p.58）：
+  - 因变量置于图中右侧，自变量置于左侧
+  - 使用单向箭头从每个决定变量指向依赖它的变量
+  - 在路径上插入正负价符号（+/-）表示关系方向
+  - 使用双向箭头连接模型中不受其他关系约束的变量之间的未分析关系
 - **1970s** — 因果建模在计量经济学的推动下进入社会科学，承诺将理论整合与统计建模正式结合——"作为实质性和统计性理论的结合，还有什么能比这更好？"（Berk, 2011, p.196）
 - **1973** — Goldberger 发表 "Structural Equation Models: An Overview"
 - **1975** — Duncan 出版 *Introduction to Structural Equation Models*
@@ -103,6 +109,11 @@ updated: '2026-05-18'
 
 > [!info] 相关理论
 > - [[Potential Outcomes Framework]] — 为评估因果建模的因果主张提供了替代性概念框架，强调因果效应的定义独立于估计模型
+
+## 相关概念
+
+- [[Causality]] — 因果性是因果建模所操作化的核心概念；时间顺序（temporal order）是构建因果模型的基本前提——变量之间存在从左到右的时间排序（Punch, 2014; Creswell & Creswell, 2022, p.57）
+- [[Variable]] — 因果模型中的基本分析单位，包括自变量、因变量、中介变量和调节变量
 
 ## 相关方法
 

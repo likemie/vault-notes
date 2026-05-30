@@ -14,10 +14,10 @@ tags:
 - educational-psychology
 - region/us
 related_concepts:
-  - "[[Effect Size]]"
-related_theories:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Effect Size]]"
+related_theories: []
 related_methods:
   - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"

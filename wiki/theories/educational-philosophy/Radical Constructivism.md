@@ -13,9 +13,9 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Constructive Alignment]]"
   - "[[Posthumanism]]"
+  - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
-  - "[[Evidence-Based Education]]"
   - "[[Appraisal Theory]]"
 related_methods: []
 related_persons:

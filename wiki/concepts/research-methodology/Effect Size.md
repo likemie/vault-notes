@@ -11,12 +11,14 @@ tags:
 - methodology
 - statistics
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
   - "[[School Effectiveness]]"
   - "[[Whole Language]]"
   - "[[Professional Judgment]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Publication Bias]]"
   - "[[Developer Effect]]"
@@ -26,9 +28,7 @@ related_concepts:
   - "[[Material Fallacies]]"
   - "[[School Leadership]]"
 related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[Dynamic Knowledge and Learning Model]]"
-  - "[[Surface and Deep Learning]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Intent-to-Treat Analysis]]"

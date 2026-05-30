@@ -8,9 +8,9 @@ tags:
 - evaluation
 - methodology
 - region/denmark
-related_concepts: []
-related_theories:
+related_concepts:
   - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:

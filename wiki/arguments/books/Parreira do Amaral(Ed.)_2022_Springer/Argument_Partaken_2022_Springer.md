@@ -24,12 +24,12 @@ related_concepts:
   - "[[Junzi]]"
   - "[[Technology Transfer]]"
   - "[[Economic and Industrial Espionage]]"
+  - "[[Virtue-Oriented Learning Process]]"
   - "[[Sage]]"
   - "[[Knowledge Sabotage]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Network Society]]"
-  - "[[Virtue-Oriented Learning Process]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
 related_methods: []
 related_persons:

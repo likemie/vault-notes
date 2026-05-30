@@ -3,13 +3,13 @@ citation: "O'Neill, J. (2012). Material fallacies of education research evidence
 extracted_to:
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Class Size]]"
+  - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Material Fallacies]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
-  - "[[Critiques of Visible Learning]]"
 processed_date: 2026-05-06
 ---
 

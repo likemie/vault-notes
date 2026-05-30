@@ -19,8 +19,8 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
-related_theories:
   - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"

@@ -17,11 +17,11 @@ tags:
 - stance/support
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"
 related_theories:
-  - "[[Surface and Deep Learning]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Meta-analysis]]"

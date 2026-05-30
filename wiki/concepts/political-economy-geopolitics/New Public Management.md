@@ -12,17 +12,17 @@ tags:
 related_concepts:
   - "[[Doxa]]"
   - "[[Performativity of Measurement]]"
+  - "[[Evidence-Based Education]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[School Autonomy]]"
   - "[[School Leadership]]"
   - "[[Internationalization of Higher Education]]"
   - "[[International Education]]"
+  - "[[Competitiveness in Higher Education]]"
   - "[[Performance Indicators]]"
   - "[[Transitology]]"
   - "[[Champ]]"
-related_theories:
-  - "[[Evidence-Based Education]]"
-  - "[[Competitiveness in Higher Education]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

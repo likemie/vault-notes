@@ -5,26 +5,26 @@ aliases:
   - Western learner model
   - Western learning model
 summary: "西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比"
-type: theory
+type: concept
 tags:
 - region/western
 - field/educational-philosophy
 - field/comparative-education
 - theme/learning
 related_concepts:
+  - "[[Mind-Oriented Learning Process]]"
   - "[[Academic Freedom]]"
   - "[[Refined Mastery]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"
   - "[[Devil's Advocate]]"
-  - "[[Certainty of Knowledge]]"
-  - "[[Mind and Its Wonders]]"
-  - "[[Examined Life]]"
-related_theories:
-  - "[[Mind-Oriented Learning Process]]"
   - "[[Ideal Learner]]"
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Chinese Learner]]"
+  - "[[Certainty of Knowledge]]"
+  - "[[Mind and Its Wonders]]"
+  - "[[Examined Life]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Jean-Jacques Rousseau]]"

@@ -15,9 +15,9 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
+  - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
-  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design]]"

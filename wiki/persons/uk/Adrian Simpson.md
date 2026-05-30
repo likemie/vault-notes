@@ -15,10 +15,10 @@ tags:
 - region/uk
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
-related_theories:
-  - "[[Evidence-Based Education]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"

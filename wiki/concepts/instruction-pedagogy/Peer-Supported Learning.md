@@ -17,10 +17,10 @@ related_concepts:
   - "[[Humility in Learning]]"
   - "[[Learning Virtues]]"
   - "[[Class Size]]"
+  - "[[Ideal Learner]]"
   - "[[Nerd]]"
   - "[[Zero-Sum Competition]]"
-related_theories:
-  - "[[Ideal Learner]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

@@ -20,10 +20,11 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Li_2012_Cambridge]]"
+  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-05-31
 ---
 
 # Locus of Control
@@ -58,6 +59,14 @@ updated: 2026-05-23
 
 ---
 
+## 相关研究
+
+> [!example]
+> Crutchfield (1986) 在其博士论文中以 [[Social Learning Theory|社会学习理论]] 为视角研究护理教育者的学术生产力。她将 Rotter 的四类变量适应为：学术生产力 = 期望行为；控制点 = 广义期望（内部或外部）；强化 = 学术工作的奖励及其价值；教育机构 = 提供学术生产力诸多奖励的心理情境。研究假设如果教师相信自己的学术努力会带来奖励（内部控制点）、他人可靠（人际信任）、学术奖励有价值、奖励可在机构内获得，则他们将取得高水平的学术生产力（Creswell & Creswell, 2022, pp.60–62）。
+
+---
+
 ## 来源
 
 - [[Li_2012_Cambridge]]
+- [[Creswell_2022_SAGE]]

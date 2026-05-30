@@ -16,11 +16,11 @@ tags:
 - subject/instruction-pedagogy
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Effect Size]]"
   - "[[New Public Management]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
-  - "[[Surface and Deep Learning]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

@@ -16,12 +16,12 @@ tags:
   - evidence-based-education
   - causal-inference
 related_concepts:
+  - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[Logic Model]]"
-  - "[[Educational Evidence Clearinghouses]]"
-related_theories:
-  - "[[Evidence-Based Education]]"
   - "[[Implementation Fidelity]]"
+  - "[[Educational Evidence Clearinghouses]]"
+related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
