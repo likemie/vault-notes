@@ -56,7 +56,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Nielsen, K., & Klitmøller, J. (2017). Blinde pletter i den synlige læring: Kritiske kommentarer til "Hattierevolutionen" [Blind spots in [[Visible Learning]]]. *Nordic Studies in Education*, 37(1), 3–18. — 对 VL 理论和经验基础的早期批判
 > - Klitmøller, J., & Nielsen, K. (2017). [[John Hattie]] som uddannelsesteoretiker—En kritik af teorien om synlig læring [John Hattie as educational theorist]. *Dansk pædagogisk tidsskrift*, (2), 3–15. — 对 VL 作为教育理论的系统批判
 > - Klitmøller, J., & Nielsen, K. (2019). Kritikken af kvaliteten af Hattie's kvantitative forskning [A critique of the quality of Hattie's [[Quantitative Research]]]. *Paideia*, 18, 65. — 对 VL 量化方法论的丹麦语详细批判

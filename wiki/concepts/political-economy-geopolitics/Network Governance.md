@@ -52,7 +52,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > - **行动者多元化**：政策行动者可以个人、团体或组织身份运作，通过协作与网络化来实质性影响公立学校教育政策发展与服务交付（O'Neill et al., 2016, p.viii）
 > - **公私合作伙伴关系（PPP）**：在采购学校建筑时强制考虑 PPP 替代传统采购（O'Neill et al., 2016, p.vi）
 > - **私营部门赞助**：批准私营部门赞助者运营多所 Partnership School Kura Hourua（O'Neill et al., 2016, p.vi）

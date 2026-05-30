@@ -44,7 +44,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [![[Abstract]]]
+> [!abstract]
 > Innovation Union 旨在构建覆盖全欧盟的"[[Innovation Ecosystem|创新生态]]体系"（innovation eco-system）。该政策同时具有两个维度（Rambla, 2022, p.168, 170–171）：
 >
 > **竞争力维度**：强调全球市场中的创新竞争力，核心目标包括：

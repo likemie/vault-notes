@@ -55,7 +55,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [![[Abstract]]] 政策文本摘要
+> [!abstract] 政策文本摘要
 > [[What Works Clearinghouse|WWC]] [[21st Century Skills and Competencies Discourse|SCD]] Pilot Standards（全称：[[Single-Case Design]] Technical Documentation Version 1.0 (Pilot)）由 Kratochwill 和 Hitchcock 以及专家组为 Institute of Education Sciences (IES) 在合同 ED-07-CO-0062 下与 Mathematica Policy Research, Inc. 合作开发（Hitchcock et al., 2015, p.459）。
 >
 > > "The Standards that are described in the technical documentation were developed by a Panel of authors for the Institute of Education Sciences (IES) under Contract ED-07-CO-0062 with Mathematica Policy Research, Inc. to operate the What Works Clearinghouse (WWC)." (Hitchcock et al., 2015, p.459)
@@ -107,7 +107,7 @@ updated: '2026-05-18'
 
 ## 标准中的推广性处理
 
-> [![[Abstract]]] 标准中的推广性处理
+> [!abstract] 标准中的推广性处理
 > Hitchcock et al. (2015) 整篇评论的核心论点是澄清一个误解：Maggin et al. (2013) 在比较 7 种 [[21st Century Skills and Competencies Discourse|SCD]] 评估量规时，仅审查了 [[Single-Case Design|SCD]] 设计标准文件本身，得出了"[[What Works Clearinghouse|WWC]] 标准未捕获推广性细节"的结论。Hitchcock 等回应：
 >
 > 1. WWC 设计标准**不能孤立看待**——它们必须与审查协议和 SCD Review Guide 一起理解（p.461）

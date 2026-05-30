@@ -40,7 +40,7 @@ updated: '2026-05-18'
 
 ## 评级对象与范围
 
-> [![[Abstract]]] 评级对象与范围
+> [!abstract] 评级对象与范围
 > 作者在一致性分析中从 CNCS Evidence Exchange 选择了 52 个项目，范围为"Education"和"Capacity Building"两个 focus areas。作者只保留有"Impact"和"Outcomes"研究的项目，使用搜索部分的"Program Evaluation"过滤器，并删除没有"Level of Evidence"的项目和重复项；这些选择依据 CNCS Evidence Exchange Metadata Glossary 中对相关术语的定义（Wadhwa et al., 2024, p.16）。
 
 ## 项目纳入逻辑
@@ -50,12 +50,12 @@ updated: '2026-05-18'
 
 ## 证据标准
 
-> [![[Abstract]]] 证据标准
+> [!abstract] 证据标准
 > 在设计标准编码中，CNCS Evidence Exchange 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 2，对 RDD 与 ITS 均为 0（Wadhwa et al., 2024, p.10）。在复制标准上，CNCS Evidence Exchange 强调多地点研究以及跨地点和文化情境复制的效果；它也会给独立评估更高评级，这里的独立性指研究者独立于项目管理者和实施者（Wadhwa et al., 2024, pp.11–12）。
 
 ## 与其他清算中心的差异
 
-> [![[Abstract]]] 与其他清算中心的差异
+> [!abstract] 与其他清算中心的差异
 > CNCS Evidence Exchange 的特殊性在于项目来源被 CNCS 资助范围限定；这使其与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 的专家建议+文献搜索、[[What Works Clearinghouse|WWC]] 的综述协议驱动纳入、[[Home Visiting Evidence of Effectiveness|HomVEE]] 的家庭访问模型聚焦形成对照（Wadhwa et al., 2024, p.8）。
 
 ## 相关概念／政策

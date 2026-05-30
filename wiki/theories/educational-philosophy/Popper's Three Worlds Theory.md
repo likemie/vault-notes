@@ -46,7 +46,7 @@ updated: '2026-05-18'
 
 ## 理论内部结构
 
-> [![[Abstract]]] World 1: 物理世界
+> [!abstract] World 1: 物理世界
 > 客观存在的物理实在，包括物质对象和物理过程。[[John Hattie|Hattie]] 将其对应于"[[Surface and Deep Learning|表层学习]]"（surface learning）。
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/methods/mixed/Logic Model.md",
+                "file": "wiki/methods/mixed/Improvement Science.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logic Model"
+              "title": "Improvement Science"
             }
           }
         ]
@@ -190,9 +190,17 @@
   },
   "active": "ab1c0edf0a848eb0",
   "lastOpenFiles": [
-    "wiki/methods/mixed/Mixed Method and Multi-method Research.md",
+    "wiki/methods/mixed/Joint Display.md",
     "wiki/methods/mixed/Logic Model.md",
+    "wiki/methods/mixed/Mixed Method and Multi-method Research.md",
+    "wiki/methods/mixed/Improvement Science.md",
     "wiki/methods/mixed/Literature Map.md",
+    "wiki/methods/quantitative/Non-intervention Research.md",
+    "wiki/methods/qualitative/Ethnography.md",
+    "wiki/concepts/instruction-pedagogy/Spirals of Inquiry.md",
+    "wiki/concepts/educational-philosophy/Ganz-Methode.md",
+    "wiki/concepts/instruction-pedagogy/Cognitive Task Analysis.md",
+    "wiki/methods/qualitative/Cognitive Task Analysis.md",
     "wiki/concepts/research-methodology/Publication Bias.md",
     "wiki/concepts/research-methodology/Research Topic.md",
     "wiki/concepts/higher-education/Use-Inspired Basic Research.md",
@@ -208,14 +216,6 @@
     "wiki/concepts/curriculum/Epochal Key Problems.md",
     "wiki/concepts/curriculum/Ecomuseology.md",
     "wiki/concepts/comparative-education/Pragmatism in China.md",
-    "wiki/concepts/comparative-education/Policy Borrowing.md",
-    "wiki/concepts/chinese-philosophy/Zhonghua Minzu.md",
-    "wiki/concepts/comparative-education/International Schools.md",
-    "wiki/concepts/comparative-education/Paradox of the Chinese Learner.md",
-    "wiki/concepts/comparative-education/Meta-Cultural Sensitivity.md",
-    "wiki/concepts/comparative-education/Learning Gap.md",
-    "wiki/concepts/chinese-philosophy/The Great Learning.md",
-    "wiki/concepts/sociology-of-education/Zhonghua Minzu.md",
     "scripts/fix_authors.py",
     "scripts/analyze_concepts.py",
     "books/Zheng_2023_ShanghaiSanlian/金榜题名之后_大学生出路分化之谜.epub",

@@ -40,7 +40,7 @@ updated: 2026-05-25
 > [!tip]
 > 赵汀阳的核心理论贡献在于重新阐释了"天下"概念，将其建构为一个以中国为中心的世界秩序理论。
 
-> [![[Abstract]]]
+> [!abstract]
 > 天下体系
 >
 > 赵汀阳（2021）在其著作《天下：一种可能世界秩序的天下体系》（All Under Heaven: The Tianxia System for a Possible World Order）中提出，天下体系是比以民族国家为基础的联合国体系更优越的替代方案（Bulag, 2024, p.106）。

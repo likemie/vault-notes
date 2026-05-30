@@ -3,8 +3,7 @@ title: Spirals of Inquiry
 aliases:
   - 探究螺旋
 summary: "围绕扫描、聚焦、形成直觉、学习、行动和检查展开的教师探究循环模型，用于把证据使用与持续学校改进连接起来"
-type: method
-method_type: mixed
+type: concept
 tags:
 - spirals-of-inquiry
 - teacher-inquiry
@@ -36,7 +35,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]] 六阶段循环
+> [!abstract] 六阶段循环
 > 1. **扫描（Scanning）**：理解学生如何体验他们的教育
 > 2. **聚焦（Focusing）**：发展一个探究焦点
 > 3. **直觉（Hunch）**：形成关于哪些教师行动可以改变观察到的模式的假设

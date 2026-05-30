@@ -58,7 +58,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]]
+> [!abstract]
 本章从两条独立但有交集的[[Geopolitics of Knowledge|知识地缘政治]]讨论脉络出发，发展出一种综合分析框架：
 
 ### 脉络一：批判地缘政治学（Critical Geopolitics）

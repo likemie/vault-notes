@@ -14,6 +14,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Ganz-Methode]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
   - "[[Ecomuseology]]"
@@ -26,8 +27,7 @@ related_concepts:
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Transition Design]]"
-related_methods:
-  - "[[Ganz-Methode]]"
+related_methods: []
 related_persons:
   - "[[Walter Mignolo]]"
   - "[[Richard Castelo Branco]]"
@@ -52,7 +52,7 @@ Delambre 的核心关切是：现有的知识地缘政治讨论（以 [[Walter M
 
 ## 理论框架
 
-> [![[Abstract]]]
+> [!abstract]
 > - [[Creative Tension of Sense]] — 作者自建理论，作为全章核心分析框架。该理论的出发点是一个基本观察：新事物总是在旧秩序的母体内孕育，新旧之间的"意义张力"（tension of sense）不是需要消除的故障，而是意义本身得以产生的条件。换言之，创造力恰恰来自张力，而非张力的消除（Delambre, 2022, p.106, 111–112）
 > - [[Geopolitics of Knowledge]] — 作为讨论的背景框架。作者接受了 Mignolo 等人的基本诊断（西方认识论通过殖民扩张获得了虚假的普遍性），但批评该传统过度关注"谁生产知识、为谁的利益"（[[Knowledge Production|知识生产]]面），而忽视了知识在动态过程中如何被转移、挪用、破坏和重构（[[Knowledge Transfer|知识转移]]面）。Delambre 将张力理论定位为对 GPK 讨论的"认识论补充"（Delambre, 2022, p.105–106）
 > - 多元理论参照 — 作者广泛援引 Leff 的环境理性（environmental rationality）、Santos 的"南方认识论"（Epistemologies of the South）、Dussel 的超现代性（transmodernity）、Quijano 的殖民性权力（coloniality of power）等，但并非将这些理论作为分析工具来"操作"，而是将它们作为"现代性封闭理性已经耗竭"这一诊断的证据集合（Delambre, 2022, p.108–110）

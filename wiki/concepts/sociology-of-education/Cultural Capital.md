@@ -75,7 +75,7 @@ updated: 2026-05-18
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 
 [[Pierre Bourdieu|Bourdieu]] 区分文化资本的三种存在形态：
 

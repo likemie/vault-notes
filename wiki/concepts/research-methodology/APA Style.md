@@ -53,7 +53,7 @@ Creswell & Creswell (2022) 重点介绍了 APA 第7版（American Psychological 
 
 ### 包容性和无偏见语言
 
-> [![[Abstract]]] 语言包容性
+> [!abstract] 语言包容性
 > 第7版强调包容性和无偏见语言的重要性。研究者应使用单数 "they" 代替 "him" 或 "her"。无偏见语言原则适用于关于年龄、残疾、性别、种族和民族身份以及性取向的表述。
 
 ---

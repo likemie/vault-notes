@@ -58,7 +58,7 @@ updated: 2026-05-22
 
 ## 主要著作
 
-> [![[Abstract]]]
+> [!abstract]
 > - Russell, B., & Whitehead, A. N. (1910–1913). *Principia Mathematica* (3 vols.). Cambridge University Press. — 20 世纪最具雄心的逻辑—数学工程：试图证明全部数学可还原为少数逻辑公理（待核）
 > - Russell, B. (1912). *The Problems of Philosophy*. — 面向公众的哲学导论，涵盖知识论、实在论、归纳法等内容。清晰的文风使哲学为普通读者所理解（待核）
 > - Russell, B. (1945). *A History of Western Philosophy and Its Connection with Political and Social Circumstances from the Earliest Times to the Present Day*. Simon & Schuster. — 从古希腊到 20 世纪的哲学通史。Li 将其作为梳理西方智识传统的主要架构性参考来源（Li, 2012, p.57 脚注 3）

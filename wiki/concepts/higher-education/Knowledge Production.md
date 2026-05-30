@@ -61,7 +61,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > Partaken 对知识生产作为 [[Geopolitics of Knowledge|GPK]] 分析维度进行了系统梳理（Partaken, 2022, p.70–75）：
 > - **所有权 ≠ 生产权**：欧洲学术专利的 60%–81% 为工业公司所有（视国家而定），而美国大学拥有 68.7%——"学术专利"这一标签不能揭示知识的实际所有权。知识由大学学者生产但由企业拥有，是 GPK 中的常态而非例外（Lissoni, 2012; 引自 Partaken, 2022, p.71）
 > - **知识类型的不对称**：[[Jean-François Lyotard|Lyotard]] 的[[Narrative Knowledge|叙事知识]] vs 科学知识区分在 GPK 中至关重要——硬科学"绝对主导"全球可专利知识的生产，软科学对专利数据的贡献"非常罕见"（Partaken, 2022, p.71）

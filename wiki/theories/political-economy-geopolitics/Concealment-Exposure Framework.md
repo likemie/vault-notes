@@ -59,7 +59,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > Partaken 识别出隐藏-暴露框架在 [[Geopolitics of Knowledge|GPK]] 中的三种运作模式（Partaken, 2022, p.80–83）：
 > - **监视（Surveillance）**：国家以隐藏-暴露的二元操控监控公民——公民的知识行为被系统性地暴露给国家，而国家的监控活动对公民隐藏。例如 [[China Social Credit System|中国社会信用体系]]通过大数据永久性评估公民行为，公民对自身评分算法的了解远不及国家对公民行为的了解（Partaken, 2022, p.81）
 > - **审查（Censorship）**：审查是系统性隐藏操作——使某些知识对特定人群不可获取。例如 防火长城通过过滤和阻断使中国学者无法访问大量境外学术论文（Partaken, 2022, p.82）

@@ -54,7 +54,7 @@ issuing_organization: ""
 
 ## 理论框架
 
-> [![[Abstract]]]
+> [!abstract]
 
 本章采用 [[Cultural Political Economy|文化政治经济学]]（Sum & Jessop, 2013）作为概念框架。其核心主张是：文化（非物质-符号）维度与结构-物质维度应被同等分析，而非像传统政治经济学那样侧重后者（p.202）。
 

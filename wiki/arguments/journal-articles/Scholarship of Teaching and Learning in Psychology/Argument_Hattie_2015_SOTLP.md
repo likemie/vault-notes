@@ -39,7 +39,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - [[Visible Learning]] — 以[[Effect Size|效应量]]排名为基础的教育证据综合框架，将 1200 项[[Meta-analysis|元分析]]的结果应用于高等教育情境
 
 ## 研究方法

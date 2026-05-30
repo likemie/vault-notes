@@ -60,7 +60,7 @@ updated: '2026-05-21'
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > 当前材料中，知识动员至少包含四个稳定要素：
 >
 > 1. **传播与沟通**：研究知识必须以实践者可进入的方式被分享，而不是停留在学术文本中（Nelson & [[Campbell Collaboration|Campbell]], 2017, pp.130–131）。

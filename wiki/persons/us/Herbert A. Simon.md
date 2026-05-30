@@ -43,7 +43,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Simon, H. A. (1969/1996). *The Sciences of the Artificial*. Cambridge, MA: The MIT Press. — 提出[[Bounded Rationality|有限理性]]理论和人工科学哲学：复杂专业任务的复杂度大于专业人员的实践能力
 
 ## 核心思想

@@ -3,7 +3,8 @@ title: Mechanism Experiments
 aliases:
   - 机制实验
 summary: "用于测试特定行为机制或理论路径的小规模现场实验，强调解释干预为何起作用而不仅是估计其平均效果。"
-type: concept
+type: method
+method_type: quantitative
 tags:
 - mechanism-experiments
 - rct
@@ -50,7 +51,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]] 与黑箱 [[Randomised Controlled Trials|RCT]] 的对比
+> [!abstract] 与黑箱 [[Randomised Controlled Trials|RCT]] 的对比
 > | | 黑箱 RCT | 机制实验 |
 > |---|---|---|
 > | 核心问题 | 这个项目有效吗？ | 什么使这个项目有效？通过什么路径？ |

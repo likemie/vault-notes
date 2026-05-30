@@ -57,7 +57,7 @@ Donna Haraway，美国女性主义科学与技术研究学者，以 [[Posthumani
 
 ## 主要著作与思想发展
 
-> [![[Abstract]]]
+> [!abstract]
 
 - Haraway, D. (2016). *Staying with the trouble: Making kin in the Chthulucene*. Duke University Press. — 提出 [[Sympoiesis]]、[[Response-ability]] 和 SF 叙事，开辟[[Posthumanism|后人类主义]]的关系性伦理方向
 

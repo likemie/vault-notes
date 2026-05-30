@@ -42,7 +42,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > 不依赖单一理论框架，而是以统计科学方法论的基本原则（Fisher 的科学咨询原则、Allison et al. 2016 的三大科学错误分类、Borenstein et al. 2009 的[[Meta-analysis|元分析]]标准）作为评估 [[John Hattie|Hattie]] 工作的规范基准。
 
 ## 研究方法

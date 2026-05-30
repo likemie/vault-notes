@@ -33,13 +33,13 @@ updated: '2026-05-18'
 
 ## 法律基础
 
-> [![[Abstract]]] 法律基础
+> [!abstract] 法律基础
 > - **教育修正法案 2013**（Education Amendment Act 2013）：授权部长批准由营利或非营利赞助者运营的多所公费 PSKH 的合同（O'Neill et al., 2016, p.20）
 > - PSKH 授权委员会（Partnership Schools Kura Hourua Authorisation Board）负责就哪些私营实体应获批准运营公费私立学校向政府提供建议；委员会成员曾在教育领域担任各种公共、私营和社区信托职务（O'Neill et al., 2016, p.11）
 
 ## 规模与状况
 
-> [![[Abstract]]] 规模与状况
+> [!abstract] 规模与状况
 > - **截至 2016 年**：共 9 所学校运营，1 所合同被终止
 > - **第三轮申请**（2015 年）：为 2017 年开学招募
 > - **后续轮次**：已宣布为 2018 和 2019 年开学
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 ## E Tipu E Rea 支持实体
 
-> [![[Abstract]]] E Tipu E Rea 支持实体
+> [!abstract] E Tipu E Rea 支持实体
 > 2016 年 5 月，教育部副部长宣布设立"独立 Partnership School 支持实体" E Tipu E Rea（2015 年 12 月注册为慈善机构），以支持新旧及未来 PSKH 赞助者，获政府有条件资助 USD 500,000。意图通过慈善资助维持。E Tipu E Rea 是唯一受邀提交提案的机构（O'Neill et al., 2016, p.12）。
 
 ## 与国际特许学校的比较

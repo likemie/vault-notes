@@ -63,7 +63,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ## 三种研究路径中的术语策略
 
-> [![[Abstract]]] 策略差异
+> [!abstract] 策略差异
 > 术语定义的策略因研究路径而异，这与[[Literature Review|文献综述]]在三种路径中的不对称性是平行的（Creswell & Creswell, 2022）。
 
 ### 量化研究

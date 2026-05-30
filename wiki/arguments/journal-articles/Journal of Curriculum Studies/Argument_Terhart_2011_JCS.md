@@ -46,7 +46,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - [[Visible Learning]] — Terhart 接受 VL 综合的广度是空前的，但质疑其方法论严谨性和理论深度
 > - [[Evidence-Based Education|证据本位教育]]的认识论问题 — [[Meta-analysis|元分析]]和[[Meta-meta-analysis|元-元分析]]作为证据生产工具的根本局限
 

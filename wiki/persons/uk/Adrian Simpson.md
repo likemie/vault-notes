@@ -59,7 +59,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466. — 通过农场肥料思想实验和真实研究案例，系统论证[[Effect Size|效应量]]三大系统性偏差（比较组不对等、范围限制、测量设计）使[[Meta-analysis|元分析]]联盟表成为"研究设计操纵开放程度的等级"而非教育有效性排名。详见 [[Argument_Simpson_2017_JEP]]。
 > - Simpson, A. (2018). Princesses are bigger than elephants: Effect size as a category error in [[Evidence-Based Education]]. *British Educational Research Journal*, 44(5), 897–913. — 论证将效应量视为干预有效性的测量是一个**类别错误**——类似于将图片中公主比大象大的尺寸差异误认为所指对象实际大小的差异（Wrigley & McCusker, 2019, p.126）。
 > - Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. *Educational Research and Evaluation*, 25(1-2), 99–109. — 以"教一个匈牙利单词"思想实验系统证明效应量是**试验清晰度**（experimental clarity）而非教育有效性的测量；以 Corncrake 寓言开篇说明论证有效性与结论正确性必须被区分；运用 Freedman (2009) 框架分析 EBE 支持者对批评的六种防御策略。详见 Argument_Simpson_2019_ERE。

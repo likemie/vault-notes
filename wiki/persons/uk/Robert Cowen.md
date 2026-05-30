@@ -59,7 +59,7 @@ updated: 2026-05-26
 
 ## 主要著作
 
-> [![[Abstract]]]
+> [!abstract]
 > 按时间顺序列出 Cowen 的标志性出版物及其核心理论贡献：
 
 - Cowen, R. (1996). Last past the post: Comparative education, modernity and perhaps post-modernity. *Comparative Education*, 32(1), 151–170. — 提出现代与晚期现代教育的双轴比较模型，以 polis-driven 纵轴和 international relations 横轴刻画现代教育，以 market-driven 纵轴和 international competition 横轴刻画晚期现代教育（Amos, 2022, p.55）。

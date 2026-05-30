@@ -43,7 +43,7 @@ updated: 2026-05-24
 
 ## 制度特征
 
-> [![[Abstract]]]
+> [!abstract]
 > 改革前的法语比利时教育系统具有能力本位课程、非义务学前教育、较早分流、频繁[[Grade Retention|留级]]、课堂时间长且假期不均衡、教师初始培养较短等特征；这些特征共同构成[[Pact for Educational Excellence|教育卓越公约]]要处理的制度背景（Dachet & Baye, 2021, pp.169-170）。
 
 - 能力本位课程以 Socles de Compétences 为代表，该法律文件规定义务教育前 8 年结束时应掌握的核心能力，并要求教育项目以此为基础（Dachet & Baye, 2021, p.169）。

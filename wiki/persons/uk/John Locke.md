@@ -65,7 +65,7 @@ updated: 2026-05-22
 
 ## 主要著作
 
-> [![[Abstract]]]
+> [!abstract]
 > - Locke, J. (1689). *Two Treatises of Government*. — 批驳君权神授论，论证政府权力来源于被统治者的同意，提出自然权利（生命、自由、财产）学说。未在 Li 第 2 章中直接引用，但对理解洛克作为思想家的整体面貌至关重要（待核）
 > - Locke, J. (1689). *A Letter Concerning Toleration*. — 论证政教分离与宗教宽容，理由是国家无权强制信仰（待核）
 > - Locke, J. (1690/2008). *An Essay Concerning Human Understanding*. Oxford University Press. — Li 在第 2 章中引用的核心文本：提出白板说，论证"所有知识，也许除了逻辑和数学，都来自我们的经验"（Li, 2012, pp.29-30）。也讨论了理性至上和宗教启示应由理性评判（Li, 2012, p.26）

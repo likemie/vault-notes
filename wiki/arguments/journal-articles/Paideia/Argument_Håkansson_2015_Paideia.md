@@ -38,7 +38,7 @@ updated: '2026-05-20'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - [[Visible Learning]] — 文章把 [[John Hattie|Hattie]] 视为推动瑞典重新聚焦课堂教学与教师影响力的关键催化剂，但不是唯一知识来源；Håkansson 特别强调，Hattie 的[[Meta-meta-analysis|元-元分析]]应放回更广泛的教学研究综述传统中理解（Håkansson, 2015, pp.53–55）。
 > - [[Effective Teaching]] — 文中真正关心的是“什么样的教学更可能改善学生成绩”这一有效教学问题，并把课堂近端策略、清晰目标、反馈、课堂领导和教师协作都纳入这一框架（Håkansson, 2015, pp.53–58）。
 

@@ -45,12 +45,12 @@ updated: '2026-05-18'
 
 ## 评级对象与范围
 
-> [![[Abstract]]] 评级对象与范围
+> [!abstract] 评级对象与范围
 > SPTW 在作者的教育项目一致性分析中贡献了 24 个项目，主题包括 prenatal/early childhood、K–12 education 和 postsecondary education（Wadhwa et al., 2024, p.16）。
 
 ## 证据标准
 
-> [![[Abstract]]] 证据标准
+> [!abstract] 证据标准
 > 在设计标准编码中，SPTW 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它是要求 [[Intent-to-Treat Analysis|ITT]] 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Promise Neighborhoods Research Consortium|PNRC]]（Wadhwa et al., 2024, p.9）。
 >
 > SPTW 在 RCT 流失标准上接受总体流失低于 20%；在复制标准上，它强调多地点研究以及跨地点和文化情境复制的效果（Wadhwa et al., 2024, pp.9, 11）。
@@ -59,7 +59,7 @@ updated: '2026-05-18'
 
 ## 与其他清算中心的差异
 
-> [![[Abstract]]] 与其他清算中心的差异
+> [!abstract] 与其他清算中心的差异
 > SPTW 对 [[Randomised Controlled Trials|RCT]] 的描述较详细，但对 [[Quasi-Experimental Designs|QED]] 只作简要处理，且不列 RDD 或 ITS 标准。与 [[What Works Clearinghouse|WWC]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 不同，它不区分无效项目与效果不确定项目，而是只报告正向效果项目（Wadhwa et al., 2024, pp.10, 12）。
 
 ## 相关概念／政策

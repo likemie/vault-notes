@@ -44,7 +44,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - [[Cartwright's Three-Stage Knowledge Framework]] — Cartwright & Munro (2010) 提出的 [[Randomised Controlled Trials|RCT]] 证据从"在某处有效"到"对我们有效"的三个知识阶段，构成本文分析的核心框架
 > - [[Tullock's Bureaucracy Theory]] — 未直接使用但作为 Cowen 后续研究（2019）的理论基础，本文的政经分析与之呼应
 

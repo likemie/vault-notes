@@ -48,7 +48,7 @@ updated: 2026-05-23
 
 ## 在 Li 学习模型中的位置
 
-> [![[Abstract]]]
+> [!abstract]
 > 立志在中国学习模型中处于**情感与目的的交汇处**——它是将 [[Heart and Mind for Wanting to Learn|好學心]]（"想学"的欲望）转化为 [[Learning Virtues|学习美德]]（"怎么学"的品质）的关键连接点。
 
 ### 立志与学习美德的衔接

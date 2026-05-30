@@ -49,7 +49,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > Knudsen 的访谈立场受 [[Science and Technology Studies|STS]]（Science and Technology Studies）影响，关注教育项目的翻译过程和 performative effects（Knudsen, 2017, p.253）。她引述 Staunæs (2018) 和 Lingard (2018) 作为类似取向的研究。
 >
 

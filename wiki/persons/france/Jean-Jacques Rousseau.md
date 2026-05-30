@@ -67,7 +67,7 @@ updated: 2026-05-22
 
 ## 主要著作
 
-> [![[Abstract]]]
+> [!abstract]
 > - Rousseau, J. J. (1750). *Discourse on the Sciences and Arts*（《论科学与艺术》）. — 成名作，首次提出文明使人道德堕落的论题（待核）
 > - Rousseau, J. J. (1755). *Discourse on the Origin and Basis of Inequality Among Men*（《论人类不平等的起源与基础》）. — 提出自然状态（state of nature）概念，区分自然的不平等与社会的不平等（待核）
 > - Rousseau, J. J. (1761). *Julie, or the New Heloise*（《新爱洛漪丝》）. — 书信体小说，探讨爱情、美德与自然情感，18 世纪最畅销作品之一（待核）

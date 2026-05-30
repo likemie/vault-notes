@@ -4,7 +4,8 @@ aliases:
   - 黑箱RCT
   - 黑箱随机对照试验
 summary: "一种不解释干预如何、为何以及在何种条件下有效的 RCT 设计取向，常被用于批评只报告平均效果而忽视机制、情境和专业判断的实验研究。"
-type: concept
+type: method
+method_type: quantitative
 tags:
 - black-box-rcts
 - rct
@@ -53,7 +54,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]] 黑箱 [[Randomised Controlled Trials|RCT]] 在教育中的四个特定限制
+> [!abstract] 黑箱 [[Randomised Controlled Trials|RCT]] 在教育中的四个特定限制
 > Peterson (2016, pp. 300–302) 系统性地总结了黑箱 RCT 在教育领域的四重限制：
 >
 > **1. 与教师主导干预的不匹配**

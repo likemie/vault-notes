@@ -47,7 +47,7 @@ updated: 2026-05-23
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > 控制点理论的两个核心维度（Li, 2012, p.60）：
 
 **内部控制点（internal locus of control）**

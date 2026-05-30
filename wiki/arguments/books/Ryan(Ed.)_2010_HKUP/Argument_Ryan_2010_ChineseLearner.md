@@ -50,7 +50,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]]
+> [!abstract]
 > Ryan 综合运用以下批判性概念作为分析工具：
 > - [[Orientalism]] — Said (1978) 的"东方"由西方建构的分析框架：[[Chinese Learner|中国学习者]]作为"非西方"而被定义为偏离西方规范（Watkins & Biggs, 2001, p.4）
 > - [[Stereotype Threat]] — Aronson (2002)：当个体意识到关于自身群体的刻板印象时，产生额外的情感与认知负担，导致"去认同化"（disidentification），最终刻板印象成为自我实现的预言

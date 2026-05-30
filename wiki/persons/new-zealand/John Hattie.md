@@ -168,7 +168,7 @@ updated: '2026-05-21'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Hattie, J. (2009). *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement*. Routledge. — 奠基性著作，以[[Effect Size|效应量]]排名 150+ 教学干预
 > - Hattie, J., & Yates, G. (2014). *Visible learning and the science of how we learn*. Routledge. [丹麦语译本：*Synlig læring og læringens anatomi*, Dafolo, 2014.] — 与认知科学家 Yates 合作，从脑科学和认知心理学角度阐述九条学习原则
 > - Hattie, J. (2015). Synlig læring i dag. *Paideia, 9*, 9-21. — 回顾 [[Visible Learning]] 的形成过程并回应效应量、研究质量和学习概念等批评，强调“Know thy impact”不是教学法清单而是评价性[[Professional Judgment|专业判断]]

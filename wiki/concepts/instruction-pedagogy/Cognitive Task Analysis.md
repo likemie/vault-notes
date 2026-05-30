@@ -4,8 +4,7 @@ aliases:
   - 认知任务分析
   - CTA
 summary: "针对复杂学习情境的研究与教学方法，分析专家认知过程和知识结构，强调教师激活而非促进"
-type: method
-method_type: qualitative
+type: concept
 tags:
 - cognitive-task-analysis
 - paradigm/cognitivist
@@ -31,7 +30,7 @@ updated: '2026-05-18'
 
 ## 认识论立场
 
-> [![[Abstract]]] 认识论立场
+> [!abstract] 认识论立场
 > CTA 属于认知主义研究范式，假设复杂任务表现可通过分析其背后的认知成分（知识组织、决策策略、问题解决路径）来理解和改进。
 
 ## 操作步骤

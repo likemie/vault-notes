@@ -44,7 +44,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [![[Abstract]]]
+> [!abstract]
 > 白皮书的核心主张是：亚洲的崛起不是威胁而是澳大利亚的机遇——"距离的暴政正在被邻近的前景所取代"（the tyranny of distance is being replaced by the prospects of proximity）（Henry, 2012, p.1, cited in Rizvi, 2022, pp.99–100）。
 
 > [!quote]

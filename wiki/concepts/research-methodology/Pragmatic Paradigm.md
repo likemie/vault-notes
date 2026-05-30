@@ -42,7 +42,7 @@ updated: 2026-05-30
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > 基于 Cherryholmes (1992)、Morgan (2007) 以及 Creswell & Creswell 的总结，实用主义为研究提供了以下哲学基础。
 > - **不执著于单一体系** 实用主义不承诺任何单一的哲学和现实体系，[[Mixed Method and Multi-method Research|混合方法研究]]者可以自由地从量化和质性假设中汲取资源。
 > - **选择自由** 研究者有自由选择最能满足其需求和目的的方法、技术和研究程序。

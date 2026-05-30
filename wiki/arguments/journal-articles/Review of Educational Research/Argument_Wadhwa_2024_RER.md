@@ -64,7 +64,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - [[Campbellian Validity Framework]] — 作者从 [[Campbell Collaboration|Campbell]] & Fiske (1959) 的 multitrait-multimethod 视角出发，把"evidence-based"当作教育科学实践中的构念效度问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为可靠性是构念效度的必要条件（Wadhwa et al., 2024, p.4）。
 > - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的假设作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）（Wadhwa et al., 2024, p.4）。
 

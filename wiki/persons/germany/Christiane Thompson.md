@@ -53,7 +53,7 @@ Christiane Thompson 是德国法兰克福歌德大学（Goethe University Frankf
 
 ## 主要著作与思想发展
 
-> [![[Abstract]]]
+> [!abstract]
 
 - Parreira do Amaral, M., Steiner-Khamsi, G., & Thompson, C. (Eds.). (2019). *Researching the [[Global Education Industry]] — Commodification, the market and business involvement*. Palgrave Macmillan.
 - Parreira do Amaral, M., & Thompson, C. (2019). Conclusion: Changing education in the GEI — Rationales, logics, and modes of operation. In M. Parreira do Amaral, G. Steiner-Khamsi, & C. Thompson (Eds.), *Researching the global education industry*. Palgrave Macmillan.

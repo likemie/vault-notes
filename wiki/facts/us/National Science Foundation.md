@@ -48,7 +48,7 @@ updated: 2026-05-29
 
 ## 在产学合作中的角色
 
-> [![[Abstract]]]
+> [!abstract]
 > NSF 与大学基础研究的关系构成了[[University-Industry Collaboration|产学合作]]的底层资助基础设施。大学研究者依赖 NSF 资助进行基础研究，产生可商业化的发现后，再通过产业伙伴或许可协议进行转化。从 [[Triple Helix]] 的视角来看，NSF 是"政府"螺旋中推动大学-产业互动的关键杠杆（p.13）。
 
 近年来，NSF 的角色从纯基础研究资助扩展到创新和商业化领域。NSF 与美国经济发展署（Economic Development Agency, EDA）共同承担推动区域[[Innovation Hub|创新枢纽]]的联邦使命，两者的资助对象超越单一锚定机构（anchor institution），要求涵盖多所大学和更广泛的地理区域（Byrne & Clements, 2025, pp.134–135）。
@@ -75,7 +75,7 @@ updated: 2026-05-29
 > [!success]
 > 根据布鲁金斯学会的分析，联邦新增创新支出的很大比例将指向基础设施和产业基础较弱的地区。TIP 的资助结构（先小规模能力建设、后大规模十年期投入）为新一批[[Innovation Hub|创新中心]]在非传统科技聚集区的发展提供了路径（pp.134, 137）。
 
-> [![[Abstract]]]
+> [!abstract]
 > TIP 和 EDA 的持续性资助机会预计将在未来几年带来新一轮拨款和激励，[[University-Industry Collaboration|产学合作]]体需要长期跟踪联邦资金动态，而非仅在资金公告发布时临时组织联盟（pp.134, 138）。
 
 ## 来源

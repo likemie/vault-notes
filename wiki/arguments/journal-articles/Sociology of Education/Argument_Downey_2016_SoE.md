@@ -48,7 +48,7 @@ updated: 2026-05-18
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > 论文以对教育社会学的**批判视角**（critical perspective on schools）的系统回顾为起点，识别了两条主要理论路线（Downey & Condron, 2016, pp.1–2）：
 >
 > - **再生产理论（Reproduction）**：Bowles & Gintis (1976) 的对应理论——学校为资本主义经济提供知道自身位置并准备扮演各自角色的工人；[[Pierre Bourdieu|Bourdieu]] (1977) 的[[Cultural Capital|文化资本]]理论——学校偏爱中产阶级和精英学生的文化资本

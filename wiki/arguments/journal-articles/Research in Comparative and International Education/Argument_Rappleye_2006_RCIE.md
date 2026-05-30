@@ -58,7 +58,7 @@ updated: '2026-05-28'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - **[[Policy Borrowing]]**（Phillips & Ochs, 2003, 2004a）——四阶段循环模型（[[Cross-National Attraction|跨国吸引力]] → 决策 → 实施 → 内化/本土化）是整篇论证的出发点。论证聚焦于第一阶段"跨国吸引力"，因为该阶段启动整个借用循环，情境因素在这一阶段的作用最为关键（p. 225）。
 >
 > ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png)

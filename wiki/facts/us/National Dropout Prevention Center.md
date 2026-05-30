@@ -39,26 +39,26 @@ updated: '2026-05-18'
 
 ## 评级对象与范围
 
-> [![[Abstract]]] 评级对象与范围
+> [!abstract] 评级对象与范围
 > NDPC 在作者的教育项目一致性分析中贡献了 274 个项目，所有项目都属于辍学预防主题（Wadhwa et al., 2024, p.16）。
 
 ## 证据标准
 
-> [![[Abstract]]] 证据标准
+> [!abstract] 证据标准
 > 在设计标准编码中，NDPC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它会给独立评估更高评级，这里的独立性指研究者独立于项目管理者和实施者（Wadhwa et al., 2024, p.12）。
 >
 > NDPC 的项目评级包括 Strong evidence of effectiveness、Moderate evidence of effectiveness、Limited evidence of effectiveness 和 Insufficient evidence of effectiveness。它不为所依据的单项研究提供评级或摘要（Wadhwa et al., 2024, p.13, 15）。
 
 ## 最高评级标准
 
-> [![[Abstract]]] 最高评级标准
+> [!abstract] 最高评级标准
 > NDPC 最高等级只要求一项有正向结果的研究，该研究可以是 [[Randomised Controlled Trials|RCT]] 或由审查者判断为高质量的 [[Quasi-Experimental Designs|QED]]；研究须由独立于开发者的评估者开展。项目本身不能是 pilot，必须已经在实践[[Champ|场域]]中运行至少 3 年，并且需要有项目组件和管理方式的文档（Wadhwa et al., 2024, pp.13–15）。
 >
 > 第二高等级与最高等级的区别在于，可以是由非独立评估者完成的 QED（Wadhwa et al., 2024, p.14）。
 
 ## 与其他清算中心的差异
 
-> [![[Abstract]]] 与其他清算中心的差异
+> [!abstract] 与其他清算中心的差异
 > 作者认为 NDPC 在四个详细比较清算中心中门槛最低：它只要求一项研究，且不要求该研究必须是 [[Randomised Controlled Trials|RCT]]，也不要求长期持续效果或独立复制；但它排除 pilot 项目，要求项目至少运行 3 年（Wadhwa et al., 2024, p.15）。
 
 ## 相关概念／政策

@@ -48,7 +48,7 @@ updated: 2026-05-29
 
 ## 主要来源
 
-> [![[Abstract]]]
+> [!abstract]
 > [[University Spin-Out|大学衍生企业]]可获取的非稀释性资助主要有三类（pp.144, 148-149）：
 
 > **大学内部资助**。大学通过[[Technology Transfer|技术转移办公室]]（Technology Transfer Office, TTO）或专门的创新基金提供内部拨款，用于支付专利申请费用、法律保护成本和早期概念验证（[[Proof of Concept Programs|proof of concept]], PoP）研究。例如大学内部的"产品验证"拨款（Proof of Product grants）——通常 $10,000 到 $100,000——支持研究团队在一定期限内（数月到一年）推进[[Translational Research|转化研究]]达到明确的技术或市场验证里程碑（pp.148-149）。

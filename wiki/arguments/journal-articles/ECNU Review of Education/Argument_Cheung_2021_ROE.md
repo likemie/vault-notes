@@ -45,7 +45,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > 采用 Slavin et al. (2020) 的[[Evidence-Based Reform|证据本位改革]]四项核心活动框架组织全刊文章（Cheung & Xie, 2021, p.2）：
 >
 > 1. **创建持续增加知识和有效实践的政策与系统**（policies and systems）

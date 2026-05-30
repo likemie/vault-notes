@@ -28,6 +28,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[New Public Management]]"
   - "[[Effect Size]]"
+  - "[[Spirals of Inquiry]]"
   - "[[Value-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Validity as Inferences]]"
@@ -54,7 +55,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Single-Case Design]]"
   - "[[Improvement Science]]"
-  - "[[Spirals of Inquiry]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Philosophical Analysis in Education]]"
@@ -198,7 +198,7 @@ Wiliam (2019) 则将 EBE 关于"什么有效"的核心问题本身判定为**错
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > EBE 的理论结构由基本主张与隐含假设、证据转化模型、证据实施维度和改革替代方案四个层面构成，各层面均存在支持者与批判者的持续对话，构成了一个动态演化的学术辩论[[Champ|场域]]。
 
 ### EBE 的基本主张与假设

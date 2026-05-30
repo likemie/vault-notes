@@ -61,7 +61,7 @@ updated: 2026-05-27
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > 变革转型范式在系统范式的基础上，新增了四种失灵类型（Weber & Rohracher, 2012; Schot & Steinmueller, 2018）（Ulrichsen, 2025, pp.32–34）：
 
 | 失灵类型 | 含义 | 例子 |

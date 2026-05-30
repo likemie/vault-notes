@@ -84,7 +84,7 @@ updated: 2026-05-26
 
 大学和企业的关系之所以可能，是因为它们在目标上有交集——但交集不完全。大学的核心使命——研究、教学、公共服务——分别对应[[University-Industry Collaboration|产学合作]]的三重回报；但要实现这些使命，大学还需要财务资源（financial resources）和正向声誉（positive reputation）。企业同样追求财务回报和声誉，但比例和优先级不同（pp.5–7）。
 
-> [![[Abstract]]]
+> [!abstract]
 > **对齐（alignment）的三个层次**：
 > - **高度对齐的领域**：人才发展（workforce development）、经济增长、知识产权——双方都有强烈动机
 > - **部分对齐的领域**：研究与学术——大学视其为目的本身，企业更多将其视为服务于盈利的手段
@@ -124,7 +124,7 @@ updated: 2026-05-26
 
 ## 全书结构
 
-> [![[Abstract]]]
+> [!abstract]
 > 全书分为三层——基础（Foundations）、路径（Avenues）和机制（Mechanics）——对应从"为什么做"到"在哪些领域做"再到"怎么做"的逻辑递进。共 17 章。
 
 ### 三层架构

@@ -62,7 +62,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Morris, P., & Adamson, B. (2010). *Curriculum, schooling and society in Hong Kong*. Hong Kong University Press. — 香港课程政治的历史分析
 > - Auld, E., & Morris, P. (2016). [[PISA]], policy and persuasion: Translating complex conditions into education 'best practice'. *Comparative Education*, 52(2), 202-229. — 批判性分析 PISA 如何在政策制定中被使用
 > - Vickers, E., & Morris, P. (2022). Accelerating Hong Kong's reeducation: 'mainlandisation', securitisation and the 2020 [[National Security Law]]. *Comparative Education*, 58(2), 187-205. — 国安法如何改变了香港教育的性质

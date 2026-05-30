@@ -47,7 +47,7 @@ updated: 2026-05-23
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > Nerd 现象包含三个核心层次：标签化（labeling）、同伴规范的强制执行（norm enforcement）、以及系统性后果（consequences）。
 
 ### 标签化

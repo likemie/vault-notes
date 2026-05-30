@@ -12,10 +12,10 @@ tags:
 related_concepts:
   - "[[Cultural Capital]]"
   - "[[Epistemology of Resistance]]"
+  - "[[Ganz-Methode]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
-related_methods:
-  - "[[Ganz-Methode]]"
+related_methods: []
 related_persons:
   - "[[Dell Delambre]]"
   - "[[Richard Castelo Branco]]"
@@ -48,7 +48,7 @@ updated: '2026-05-19'
 
 ## 主要著作与思想发展
 
-> [![[Abstract]]]
+> [!abstract]
 > 目前可获得的文献仅记录了 Amado 作为合作者和文化行动者的角色，尚未发现其个人著作或艺术创作的详细清单（Delambre, 2022, p.110）。
 
 ## 核心思想

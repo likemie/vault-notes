@@ -45,7 +45,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > Martyn Rademakers（2014）将企业大学区分为三种类型，分别对应不同的 MNC 组织类型和标准化策略。三者在对标准化的强调程度、参与者的[[Knowledge Production|知识生产]]角色和排他性上存在本质差异（Hartmann, 2022, pp.185–188）。
 
 ### 学校型（School）— 对应国际型 MNCs

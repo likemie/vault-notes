@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - **[[John Dewey|Dewey]] 的交易认识论（[[Transactional Epistemology]]）** — 替代表象认识论（representational epistemology），论证[[Experimental Research|实验研究]]无法产生未来确定性的知识
 > - **[[Luhmann's Systems Theory|系统理论]]（Systems Theory）** — 封闭/开放/递归/符号系统的区分，论证社会领域的非决定论特征
 > - **Latour 的计量学（Metrology）** — 论证"科学成就"并非知识应用到世界，而是世界被改造为实验室条件

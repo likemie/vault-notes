@@ -47,7 +47,7 @@ updated: 2026-05-25
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > 认知社会化（Cognitive Socialization）的双文化差异：
 
 **欧美母亲的认知社会化**聚焦于心智维度（Li, 2012, p.248–259）：

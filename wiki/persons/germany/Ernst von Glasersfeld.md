@@ -47,7 +47,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Glasersfeld, E. von (1995). *[[Radical Constructivism]]: A way of knowing and learning*. New York, NY: The Falmer Press. — [[Radical Constructivism|激进建构主义]]的系统哲学陈述
 
 ## 核心思想

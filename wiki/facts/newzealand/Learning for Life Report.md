@@ -34,7 +34,7 @@ updated: '2026-05-18'
 
 ## 核心内容
 
-> [![[Abstract]]] 核心内容
+> [!abstract] 核心内容
 > 《Learning for Life》（全称 *Learning for Life: Education and Training Beyond the Age of Fifteen*）于 1989 年 2 月由 Government Printer（惠灵顿）出版（Grace, 2010, p.90, 92）。
 >
 > 报告的第 24 页纳入了 Grace 提议的"[[Critic and Conscience of Society]]"（[[Critic and Conscience of Society|社会的批评者与良知]]）作为大学的一项定义特征。这一短语随后被写入新西兰法律，成为该国大学的法定特征之一（Grace, 2010, p.90）。

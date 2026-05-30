@@ -37,7 +37,7 @@ updated: 2026-05-18
 
 ## 项目特征
 
-> [![[Abstract]]] 项目特征
+> [!abstract] 项目特征
 > - **选拔严格**：仅选拔高表现、高潜力毕业生；接受率 7%（2014 年：464 申请 → 35 录取）
 > - **目标学校**：仅安置在低 decile 学校（90% 在 decile 1–3），覆盖奥克兰和北地的 40 所学校
 > - **参与者按未培训教师费率支付工资**
@@ -46,7 +46,7 @@ updated: 2026-05-18
 
 ## 治理与伙伴关系
 
-> [![[Abstract]]] 治理与伙伴关系
+> [!abstract] 治理与伙伴关系
 > TFNZ 作为三方合作运营（O'Neill et al., 2016, pp.10, 53）：
 >
 > - **项目伙伴**：奥克兰大学、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）
@@ -54,7 +54,7 @@ updated: 2026-05-18
 
 ## 资金来源与创始伙伴
 
-> [![[Abstract]]] 资金来源与创始伙伴
+> [!abstract] 资金来源与创始伙伴
 > 可行性研究于 2010 年由两家私人赠款基金会的配对资助启动（O'Neill et al., 2016, p.10）：
 >
 > - **Aotearoa Foundation**（纽约）— 涉及美国对冲基金亿万富翁 Julian Robertson（2009 年首位荣誉新西兰骑士），其 Robertson Foundation 2014 年总净资产 USD 575M，大量资助与美国[[Partnership Schools Kura Hourua|特许学校]]运动相关
@@ -69,7 +69,7 @@ updated: 2026-05-18
 
 ## 领导团队
 
-> [![[Abstract]]] 领导团队
+> [!abstract] 领导团队
 > 首席执行官为联合创始人 Shaun Sutton（曾在英国接受 Teach First 培训并在 Teach For All 实习）。领导团队包括前 Teach First（英国）副总监 Jay Allnutt、[[Cognition Education|Cognition Education]] 受托人兼 NEXT Foundation 顾问 Margaret Bendall 等（O'Neill et al., 2016, p.54）。
 
 ## 分析意义

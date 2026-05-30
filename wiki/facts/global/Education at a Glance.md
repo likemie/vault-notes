@@ -52,7 +52,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]] 核心要素
+> [!abstract] 核心要素
 > EAG 包含四大类指标（OECD, 2012; Gorur, 2014, p.9）：
 >
 > - **A. 教育机构的产出与学习影响**（Output of educational institutions and the impact of learning）

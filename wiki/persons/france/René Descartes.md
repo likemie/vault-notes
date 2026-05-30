@@ -60,7 +60,7 @@ updated: 2026-05-22
 
 ## 主要著作
 
-> [![[Abstract]]]
+> [!abstract]
 > - Descartes, R. (1637/2008). *Discourse on Method*. BN Publishing. — 以法语写作，提出笛卡尔的方法论四规则和"我思故我在"。Li 引此论述笛卡尔怀疑（Li, 2012, p.28 脚注 20）
 > - Descartes, R. (1641/2008). *Meditations on First Philosophy*. BN Publishing. — 以拉丁语写作，六个沉思系统论证从彻底怀疑到心物二元论的完整哲学体系。Li 引此论述"他无法通过任何其他手段确认自己的存在，除了'我思'"（Li, 2012, pp.28, 脚注 20）
 > - Descartes, R. (1644). *Principles of Philosophy*. — 以教科书形式系统阐述其物理学和形而上学（待核）

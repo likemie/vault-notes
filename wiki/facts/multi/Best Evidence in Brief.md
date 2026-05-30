@@ -39,7 +39,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [![[Abstract]]] 政策文本摘要
+> [!abstract] 政策文本摘要
 > BEiB 是一份免费的每两周电子邮件简报，向美国和英国数万名订阅者（包括研究者、教育者和政策制定者）发送关于近期[[Evidence-Based Education|证据本位教育]]研究、政策和新闻的简短文章（Slavin et al., 2021, p.20）。
 >
 > > "BEiB is sent at no cost every 2 weeks to tens of thousands of subscribers in the U.S. and UK"（Slavin et al., 2021, p.20）

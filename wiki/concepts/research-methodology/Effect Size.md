@@ -92,7 +92,7 @@ updated: '2026-05-23'
 >
 > [[Adrian Simpson]]（2017, 2018, 2019）论证效应量实际测量的是**试验清晰度**（experimental clarity / how well a trial is designed to make an effect visible），即干预组与对照组之间差异在统计上的清晰程度，而非干预有效性。这一区分通过思想实验（教一个匈牙利单词）和现实案例（EEF 评估报告）得到了系统证明（Simpson, 2019, pp. 100–106；详见下方 [[#Simpson 的概念批判：效应量作为试验清晰度]]）。
 
-> [![[Abstract]]] 阅读地图
+> [!abstract] 阅读地图
 > 这个条目按问题而不是按论文顺序组织：
 > 1. 效应量如何计算，以及它和显著性、[[Confidence Interval|置信区间]]有什么不同。
 > 2. 效应量如何被解释，包括 Cohen、Hattie、Kraft 和清算中心阈值。

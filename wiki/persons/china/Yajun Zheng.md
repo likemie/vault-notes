@@ -72,7 +72,7 @@ updated: 2026-05-19
 
 ## 主要著作
 
-> [![[Abstract]]]
+> [!abstract]
 > - 郑雅君（2023），《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 [[Pierre Bourdieu|Bourdieu]] 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier in Higher Education|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
 
 ---

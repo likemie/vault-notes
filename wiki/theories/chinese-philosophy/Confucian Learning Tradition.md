@@ -62,7 +62,7 @@ updated: 2026-05-24
 
 ## 核心命题
 
-> [![[Abstract]]]
+> [!abstract]
 > Li 从儒家文本中提炼出四个核心文化主题（Li, 2012, pp.37-55）：
 
 ### 1. 完善自我（Perfect Self / [[Self-Cultivation|修身]]）

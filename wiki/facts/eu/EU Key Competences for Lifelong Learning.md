@@ -44,7 +44,7 @@ updated: 2026-05-23
 
 ## 政策文本摘要
 
-> [![[Abstract]]]
+> [!abstract]
 > 2018 年框架把能力定义为学习者为个人实现与发展、[[Employability|就业能力]]、社会包容、可持续生活方式、和平社会中的成功生活、健康生活管理和积极公民身份所需的知识、技能和态度的动态组合（Pellegrini & Vivanet, 2021, p.39）。
 
 框架列出八项[[21st Century Skills and Competencies Discourse|关键能力]]：读写能力，多语言能力，数学能力以及科学、技术和工程能力，数字能力，个人、社会和学会学习能力，公民能力，创业能力，文化意识与表达能力（Pellegrini & Vivanet, 2021, p.39）。

@@ -42,7 +42,7 @@ updated: 2026-05-25
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > [[Zhu Xi|朱熹]]在《大学》中整合了[[Cheng Brothers|程颐]]与程颢的学说，提出了从认知探究到道德实践、从个人[[Self-Cultivation|修身]]到世界治理的完整学习路径。这一路径包含八个步骤（Li, 2012, pp.44, 46-47）：
 
 1. 格物（investigating things）——探究事物的原理

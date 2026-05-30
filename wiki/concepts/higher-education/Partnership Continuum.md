@@ -39,7 +39,7 @@ updated: 2026-05-27
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > 基于 Boccanfuso 和 Hall（2025, p.55）的引用：
 > - **连续体思维**：拒绝将[[University-Industry Collaboration|产学合作]]简化为"有没有合作"的二元判断，而是承认合作形式的多样性——从非正式的信息交流到正式的合资协议
 > - **多面性**：连续体涵盖了[[Knowledge Transfer|知识转移]]、人才交流、联合研究、商业化等多种互动形式——"addresses the multifaceted nature of engagement strategies"（p.55）

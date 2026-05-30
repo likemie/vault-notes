@@ -57,7 +57,7 @@ updated: 2026-05-18
 
 ## 核心要素
 
-> [![[Abstract]]] 核心要素
+> [!abstract] 核心要素
 > Rappleye (2006) 的概念地图将跨国吸引力的情境分解为以下构成要素（p. 228–234）：
 >
 > ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig3_Conceptual_Map.png)

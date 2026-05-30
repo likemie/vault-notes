@@ -39,7 +39,7 @@ updated: 2026-05-18
 
 ## 政策文本摘要
 
-> [![[Abstract]]] 政策文本摘要
+> [!abstract] 政策文本摘要
 > What Works Network 的目标是弥合学术研究与一线实践之间的鸿沟。其核心理念是：通过系统性地总结和传播研究证据（特别是 [[Randomised Controlled Trials|RCT]] 和系统综述），帮助从业者和政策制定者做出更好的决策。
 >
 > > "The establishment of the What Works Network... heralds a resurgence of evidence-based approaches in British policymaking."（Cowen et al., 2015, p.4）

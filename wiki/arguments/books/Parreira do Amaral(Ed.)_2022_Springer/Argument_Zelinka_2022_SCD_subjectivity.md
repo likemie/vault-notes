@@ -43,7 +43,7 @@ book_title: "Geopolitical Transformations in Higher Education_ Imagining, Fabric
 
 ## 理论框架
 
-> [![[Abstract]]]
+> [!abstract]
 > 该章的分析建立在三个相互嵌套的理论资源之上：
 
 - **[[Governmentality]]（治理术）** — 取自 Foucault（2004），指通过引导个体的自我引导来治理社会的方式。Zelinka 将（新）[[Geopolitics of Knowledge|知识地缘政治]]概念化为一种**全球治理技术**（global governmental technology），以此透视全球趋势和宏大发展之下的权力微观机制（Zelinka, 2022, p.264）。

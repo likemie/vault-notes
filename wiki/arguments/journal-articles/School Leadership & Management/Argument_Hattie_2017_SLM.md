@@ -40,7 +40,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - Popper（1959） — 证伪主义（falsifiability）：做出大胆猜想并接受证伪是学术进步的本质。[[John Hattie|Hattie]] 声称 VL 包含许多"大胆猜想"，因此"容易被证伪"（p.428）
 > - Alexander（2010）的四种腐蚀性话语（dichotomy, derision, myth, meaninglessness）——加上 Eacott（2017）新增的 cult 话语，Hattie 以此框架分析批评模式（p.427）
 > - Said（1993）的公共知识分子概念——学者需站在社会与制度之外积极扰动现状，同时面向尽可能广泛的公众（p.427）

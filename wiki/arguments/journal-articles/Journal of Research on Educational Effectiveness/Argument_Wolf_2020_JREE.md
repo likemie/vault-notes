@@ -44,7 +44,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > 研究以 ESSA 2015 通过后开发者经济激励增强为背景，将 Simmons et al. (2011) 的"[[Researcher Degrees of Freedom|研究者自由度]]"和[[Publication Bias|发表偏倚]]（Polanin et al., 2016）作为解释[[Developer Effect|开发者效应]]的理论机制，并参考医学领域关于药企资助偏倚（Lundh et al., 2017; Lexchin, 2012）的文献作为类比框架。（Wolf et al., 2020, pp. 429–431）
 
 ## 研究方法

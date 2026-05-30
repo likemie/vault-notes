@@ -43,7 +43,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - [[Visible Learning]] — [[John Hattie|Hattie]] 的研究综合是文章比较的核心对象；Laursen 特别关注其以英语文献、尤其美国研究为主的证据基础是否可迁移至丹麦（Laursen, 2015, p.34）。
 > - [[Hofstede's Cultural Dimensions]] — 文章用 Hofstede 对丹麦文化的四维刻画提出跨文化差异假设：丹麦的个人主义、低权力距离、女性化和低不确定性规避似乎会让开放、对话和弱教师控制的教学更适合丹麦学生（Laursen, 2015, pp.36–37）。
 

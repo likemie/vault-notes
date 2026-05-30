@@ -46,7 +46,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]] 核心要素
+> [!abstract] 核心要素
 > - 差异表现：女生在教师评定成绩上整体高于男生，语文相关科目差异更明显（Lekhal et al., 2015, p.82）。
 > - 关键机制：[[School Norm Adaptation]] 与 [[Motivation and Work Effort]] 是最强预测变量（Lekhal et al., 2015, pp.83-84）。
 > - 作用路径：性别影响主要是间接作用，经由行为与评价机制交互实现（Lekhal et al., 2015, p.83）。

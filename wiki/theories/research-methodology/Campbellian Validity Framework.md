@@ -53,7 +53,7 @@ updated: '2026-05-18'
 
 ## 理论内部结构
 
-> [![[Abstract]]] 内部效度（Internal Validity）
+> [!abstract] 内部效度（Internal Validity）
 > **定义**：内部效度指干预与结果变量之间因果关系的成立程度——即我们能否确信观察到的变化确实是由干预引起的（Shadish et al., 2002; Hitchcock et al., 2015, p.461）。
 >
 > > "Internal validity, or the degree to which a causal relationship exists between a treatment and outcome variable is valid, is the sin qua non of [[Experimental Research|experimental design]]." (Hitchcock et al., 2015, p.461, citing Shadish et al., 2002)

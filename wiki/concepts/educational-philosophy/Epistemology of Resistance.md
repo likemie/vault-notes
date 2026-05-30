@@ -13,14 +13,14 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Official Knowledge]]"
+  - "[[Ganz-Methode]]"
   - "[[Life Power]]"
   - "[[Social Museology]]"
   - "[[Champ]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
-related_methods:
-  - "[[Ganz-Methode]]"
+related_methods: []
 related_persons:
   - "[[Frantz Fanon]]"
   - "[[Paulo Freire]]"
@@ -67,7 +67,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > - **实践性而非纯理论性**：抵抗认识论不是在学术论著中被论证的哲学立场，而是在具体实践——剧场表演、口述叙事、社区博物馆策展——中被**实践**出来的认识论。它首先存在于行动中，其次才被理论话语捕捉和命名（Delambre, 2022, p.109–110）
 > - **与[[Official Knowledge|官方知识]]模型处于张力中**：抵抗认识论不是与世隔绝的"替代知识"——它必然与官方知识模型（大学的学术标准、博物馆的策展权威、书写中心主义）处于紧张关系中。这种张力是其构成性特征，不是偶然的副作用（Delambre, 2022, p.110）
 > - **从被排除者的经验出发**：抵抗认识论的知识源头是被霸权系统排斥的具体经验——贫民窟居民的暴力创伤、被抹除的地方历史、被贬低的口述传统。知识不是"关于"被排除者的，而是"来自"被排除者的（Delambre, 2022, p.109–110）

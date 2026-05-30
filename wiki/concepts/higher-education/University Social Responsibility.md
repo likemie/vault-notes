@@ -71,7 +71,7 @@ updated: '2026-05-18'
 ---
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > USR 在大学中的表现领域（Zapp, 2022, pp.152–153）：
 > - **就业政策**：保障雇员权利、促进多样性、支持工作生活平衡。例：THE 影响力排名指标中包括"安全雇佣合同的使用""高级女性学术人员的比例"等——就业公平已被纳入大学的排名考核（Zapp, 2022, p.147）
 > - **校园建设与运营**：能源、水、交通、废物和食品的全校园可持续使用，将校园转变为"活实验室"（living laboratories）和"可持续发展试验台"（testbeds for sustainability）。例：ETH Zurich 推行"2000 Watt Society"项目，将全校能源效率目标与教学研究结合；Oberlin College 推行"Oberlin Project"旨在创建美国首批气候积极城市之一（Zapp, 2022, pp.150–151）

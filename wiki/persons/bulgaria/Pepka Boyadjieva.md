@@ -47,7 +47,7 @@ updated: '2026-05-19'
 
 ## 主要著作与思想发展
 
-> [![[Abstract]]]
+> [!abstract]
 
 ### 2016 — *Rethinking Missions and Values of Higher Education*
 

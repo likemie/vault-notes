@@ -47,11 +47,11 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]] Instrumentalism（工具主义）
+> [!abstract] Instrumentalism（工具主义）
 > 关注测量实践中如何解决实际问题——约束如何被处理、利益如何被翻译、分类如何被定义、框架如何被协商、方法如何被建立、协议如何被制定。Gorur 以 [[International Indicators of Education Systems|INES]] 为案例展示了：面对技术不可行性，科学家放弃理论模型，采用以可用性为导向的经验方法（Gorur, 2014, p.8–12）。
 
 
-> [![[Abstract]]] Performativity（施行性 / 生产性）
+> [!abstract] Performativity（施行性 / 生产性）
 > 测量一旦开始，就作用于世界，改变优先事项、影响行为、政策和实践。这是"世界制造"过程（Knorr Cetina, 1999; Law, 2009a; Pickering, 1995; Gorur, 2014, p.7, 17–18）。
 >
 > > 例：[[Education at a Glance|EAG]] 指标存在本身就产生了政治压力——教师和学校可能试图影响数据以利于自身，或影响指标的选择（Oakes, 1986; Gorur, 2014, p.18）（Gorur, 2014, p.18）

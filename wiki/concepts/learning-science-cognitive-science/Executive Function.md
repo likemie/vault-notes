@@ -41,7 +41,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]] 核心要素
+> [!abstract] 核心要素
 > EF 由三个基本但相互关联的成分构成（[[Miyake's Unity and Diversity Framework of Executive Function|miyake-unity-diversity-framework]]）：
 >
 > - **抑制（[[Cognitive Inhibition|inhibition]]）** — 在必要时故意抑制主导性、自动化或常见反应的能力（Bolton & [[John Hattie|Hattie]], 2017, p.4）

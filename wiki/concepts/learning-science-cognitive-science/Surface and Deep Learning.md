@@ -22,13 +22,13 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Constructive Alignment]]"
+  - "[[Cognitive Task Analysis]]"
 related_theories:
   - "[[Popper's Three Worlds Theory]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Causal Modeling]]"
-  - "[[Cognitive Task Analysis]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[David Watkins]]"
@@ -54,7 +54,7 @@ updated: '2026-05-23'
 
 ## 核心要素
 
-> [![[Abstract]]] 表层的特权化（Privileging of Surface）
+> [!abstract] 表层的特权化（Privileging of Surface）
 > [[John Hattie|Hattie]] (2015, p.80) 指出尽管大学教师宣称其课程关乎理解、建立关系和扩展知识，但学生发现课程评估实际测量的是"知晓很多"和"复述教科书或教师的主要观点"。学生非常策略性地识别教师真正重视什么——而非教师说自己重视什么。
 
 

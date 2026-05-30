@@ -61,7 +61,7 @@ updated: 2026-05-22
 
 ## 主要著作
 
-> [![[Abstract]]]
+> [!abstract]
 > - Berkeley, G. (1709). *An Essay Towards a New Theory of Vision*. — 论证我们所"看见的"不是外部物体的属性，而是我们习得的视觉标记，为其唯心论奠定经验基础（待核）
 > - Berkeley, G. (1710). *A Treatise Concerning the Principles of Human Knowledge*. — 系统阐述其形而上学核心论题——物质实体不存在，存在即被感知（待核）
 > - Berkeley, G. (1713/2006). *Three Dialogues between Hylas and Philonous*. Prentice Hall. — 以[[Plato|柏拉图]]式对话的形式向普通读者辩护其唯心论。Li 在第 2 章中引用此文本（Li, 2012, p.30 脚注 26）

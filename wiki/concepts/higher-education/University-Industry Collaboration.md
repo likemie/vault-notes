@@ -120,7 +120,7 @@ updated: 2026-05-30
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > 有效的产学合作依赖于以下要素：
 
 - **目标对齐（Alignment）**：大学和企业具有相似但比例不同的目标。大学追求研究声誉、教育质量和公共效益，同时需要财务资源和声誉支撑；企业追求利润，但也关注声誉、人才获取和公共形象。对齐体现在人才发展、经济增长和知识产权等目标上（pp.5–7）
@@ -129,7 +129,7 @@ updated: 2026-05-30
 
 ### 实践框架：TUFF 的四项信条
 
-> [![[Abstract]]]
+> [!abstract]
 > 从实践操作角度，[[TUFF]] 基于 43 年的[[Innovation Hub|创新中心]]开发经验提炼出产学合作的四个核心信条（Byrne & Clements, 2025, p.124）：
 > 1. 高质量学术机构（University）
 > 2. 产业研发的私人投资（Industry）
@@ -142,7 +142,7 @@ updated: 2026-05-30
 
 ## 互动路径与机制
 
-> [![[Abstract]]]
+> [!abstract]
 > 已有研究识别出产学互动的多种路径，远超技术许可和衍生企业（Bonaccorsi & Piccaluga, 1994; Cohen et al., 2002; D'Este & Patel, 2007; Hughes & Kitson, 2012; Perkmann & Walsh, 2007; [[University Industry Demonstration Partnership|UIDP]], 2012）（Ulrichsen, 2025, p.44）：
 
 - **合同研究**（contract research）：企业委托大学开展特定研究项目
@@ -204,7 +204,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 
 ### 产业在创业项目中的非货币参与
 
-> [![[Abstract]]]
+> [!abstract]
 > Gilison 和 Wilson（2025, pp.148-151）指出，产业在催生[[University Spin-Out|大学衍生企业]]方面最有价值的贡献不是直接投资，而是提供"市场声音"（voice of the market）——包括客户需求、竞争格局、分销渠道、制造/部署成本和销售周期等商业洞察。产业直接发起衍生企业"是扼杀真正颠覆性创新的必然方式"（p.148）：企业天然偏好增量创新以保护现有业务，颠覆性创新如果威胁其产品线，内部激励机制会自动压制它。
 
 产业以非货币形式参与大学创业项目的两种关键杠杆：
@@ -220,7 +220,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 
 ## 组织模式
 
-> [![[Abstract]]]
+> [!abstract]
 > Boccanfuso 和 Hall（2025，第三章）通过对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的网站分析和问卷调查，识别出大学产学参与中心办公室的五种常见组织模式（Boccanfuso & Hall, 2025, pp.60–62）：
 
 1. **科研办公室模式（Office of Research）**：由科研副校长办公室主管，聚焦[[Technology Transfer|技术转移]]、初创企业、企业赞助研究和经济发展——最常见于研究型大学（约 25%）
@@ -240,7 +240,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 
 ## 影响因素
 
-> [![[Abstract]]]
+> [!abstract]
 > Ulrichsen（2025, pp.48–49，改编自 Ulrichsen et al., 2023）综合多项研究，提出了产学互动的影响因素框架，涵盖五个系统层面：
 
 | 系统层面 | 关键影响因素 |

@@ -51,7 +51,7 @@ updated: 2026-05-24
 
 ## 政策变化
 
-> [![[Abstract]]]
+> [!abstract]
 > [[Pact for Educational Excellence|教育卓越公约]]并未完全禁止共同核心阶段的[[Grade Retention|留级]]，而是提出到 2030 年把留级率降低 50%。Groupe central 的立场是，留级不能在共同核心中被完全禁止，但鉴于其无效性，应从规则变为例外（Dachet & Baye, 2021, p.174）。
 
 ## 效果与评价

@@ -60,7 +60,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]]
+> [!abstract]
 
 Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based Economization|知识经济化]]地缘政治的复合框架：
 

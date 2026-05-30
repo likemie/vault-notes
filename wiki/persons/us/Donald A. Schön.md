@@ -45,7 +45,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. London: Temple Smith. — 提出反思性实践概念，区分实践中的反思（reflection-in-practice）和对实践的反思（reflection-on-practice），批判[[Technical Rationality|技术理性]]作为专业实践模型
 
 ## 核心思想

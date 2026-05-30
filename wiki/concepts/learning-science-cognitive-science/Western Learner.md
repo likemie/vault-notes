@@ -54,7 +54,7 @@ updated: 2026-05-24
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > Li 识别出西方学习者的四个核心特征（Li, 2012, pp.34-36）：
 
 ### 1. 拥有好的心智并善加使用（Good Mind and Use It Well）
@@ -94,7 +94,7 @@ updated: 2026-05-24
 
 ## 心智导向的学习过程
 
-> [![[Abstract]]]
+> [!abstract]
 > Li 在第 4 章中进一步详细描述了西方学习者在实际学习中遵循的四个关键过程，它们共同构成了 Figure 4.1 的"[[Mind-Oriented Learning Process|心智导向学习过程]]"模型（Li, 2012, pp.108-124）。这四个过程不是孤立的步骤，而是一个相互增强的系统——每个过程强化其他过程。
 
 ### 1. 主动参与（Active Engagement）

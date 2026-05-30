@@ -54,7 +54,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 论证结构
 
-> [![[Abstract]]]
+> [!abstract]
 > **整体逻辑链**：传统模式局限 → 跨学科[[Executive Education|高管教育]]需要创新的四个维度 → 气候与可持续发展案例展示课程设计逻辑与学习目标体系 → 为企业定制的五天课程实例说明设计与实践的衔接 → 五大挑战与五项结论。
 
 ---
@@ -102,7 +102,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 10. 课程设计从学位项目的学习目标和核心能力出发，由一个小型教师委员会与高管教育管理团队共同制定核心大纲，同时由一个外部顾问小组提供行业视角的补充验证（p.162）。课程包含七个模块（pp.163-166）。
 
-> [![[Abstract]]]
+> [!abstract]
 > | 模块 | 核心内容 | 关键设计要点 |
 > |------|---------|------------|
 > | 气候科学与影响 | 超越大众媒体的气候认知；基线数据、变暖趋势、极端事件归因、气候阈值 | 将基本科学研究与商业决策关联，在"海平面上升多少"和"物理风险与转型风险"之间建立连接 |

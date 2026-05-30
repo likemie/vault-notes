@@ -44,7 +44,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - [[Luhmann's Systems Theory]] — 盲点概念（blinder Fleck）和[[Structural Coupling|结构耦合]]概念作为核心批判工具。Luhmann 的论断"观察者在观察时无法看见自身"和"个体不可能知道自己不知道什么"被应用于解构 VL 的认识论前提（Larsen, 2019, p.10）
 > - [[Bildung]] 传统 — 德国精神科学传统中的品格陶成概念作为替代框架，包括 Humboldt、Herder、[[Immanuel Kant|Kant]]、Hegel、Nietzsche 以及批判理论和概念史的传承（Larsen, 2019, p.9）
 > - Thomas Fuchs 的身体[[Phenomenology|现象学]] — 大脑作为"关系器官"和具身化-扩展辩证法（Larsen, 2019, p.9-10）

@@ -75,7 +75,7 @@ updated: '2026-05-18'
 
 ## 全书结构
 
-> [![[Abstract]]]
+> [!abstract]
 > 编者将 14 章组织为三部分，从宏观想象到制度互动再到主体性生产，逐层展开对[[Geopolitics of Knowledge|知识地缘政治]]的考察（Thompson & Parreira do Amaral, 2022, pp.12–13）：
 
 **Part I — Imaginaries, Spaces, Tensions（Ch 2–7）**

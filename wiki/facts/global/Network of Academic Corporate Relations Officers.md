@@ -39,7 +39,7 @@ updated: 2026-05-28
 
 ## 核心产出
 
-> [![[Abstract]]]
+> [!abstract]
 > NACRO 基准委员会（Benchmarking Committee）发布的主要文件（Burrus & Patera, 2025, p.82）：
 
 - **2011 年白皮书**：*Five Essential Elements of a Successful Twenty-First Century University Corporate Relations Program*，定义了大学企业关系项目的五项基本要素。

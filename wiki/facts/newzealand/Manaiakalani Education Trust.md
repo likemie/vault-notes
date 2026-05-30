@@ -49,7 +49,7 @@ updated: '2026-05-18'
 
 ## 治理网络
 
-> [![[Abstract]]] 治理网络
+> [!abstract] 治理网络
 > Manaiakalani Education Trust 主席 Pat Snedden 同时出现在其他政策网络中。其治理模式体现了典型的[[Network Governance|网络治理]]特征：公私混合（教育者+非教育者受托人）、多元资金来源（社区信托+企业基金会+政府资助）和从地方集群试点向全国规模化推广的路径（O'Neill et al., 2016, pp.9, 58）。
 
 ## 分析意义

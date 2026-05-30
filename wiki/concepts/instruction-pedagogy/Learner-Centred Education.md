@@ -49,7 +49,7 @@ updated: 2026-05-26
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > Schweisfurth（2013）提出了 LCE 的最低实施标准，Wang & McLaughlin（2025）的研究以此为参照：
 
 > - 教学应激发学生的内在学习动机而非依赖外部奖惩

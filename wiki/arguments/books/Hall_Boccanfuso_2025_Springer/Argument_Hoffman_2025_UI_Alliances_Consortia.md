@@ -52,7 +52,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > 三位作者来自[[University-Industry Collaboration|产学合作]]管理一线——Hoffman 在波音任职 36 年，曾任知识产权管理副总裁；Radasch 有 40 年航空航天产业技术合作经验；Thorsell 在 [[University Industry Demonstration Partnership|UIDP]] 从事跨部门创新合作——其框架是从实践经验中归纳而非从理论中演绎的。
 >
 > - **[[University-Industry Collaboration]]** — 本章在这个总概念下区分了两种组织形态：联盟（alliance）是双边综合伙伴关系，涵盖赞助研究、人才培养、设施共享等多重互动；联合体（consortium）则是多所大学与多家企业共同投入资源支持共同利益（pp.103–104）

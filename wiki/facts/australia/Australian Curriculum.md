@@ -35,7 +35,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [![[Abstract]]] 政策文本摘要
+> [!abstract] 政策文本摘要
 > 澳大利亚课程（Australian Curriculum）于 2012 年由澳大利亚课程评估与报告局（ACARA）董事会批准。课程包含三个维度（Sarbiewska, 2019, p.128）：
 >
 > - **学习领域**（learning areas）— 传统学科内容

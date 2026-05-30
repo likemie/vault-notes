@@ -16,6 +16,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
+  - "[[Ganz-Methode]]"
   - "[[Corporate University]]"
   - "[[Life Power]]"
   - "[[Social Museology]]"
@@ -24,8 +25,7 @@ related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Critical Geopolitics]]"
-related_methods:
-  - "[[Ganz-Methode]]"
+related_methods: []
 related_persons:
   - "[[Dell Delambre]]"
   - "[[Arturo Escobar]]"
@@ -62,7 +62,7 @@ updated: 2026-05-19
 
 ## 主要著作与思想发展
 
-> [![[Abstract]]]
+> [!abstract]
 
 ### 1995 — *The Darker Side of the Renaissance: Literacy, Territoriality, and Colonization*
 

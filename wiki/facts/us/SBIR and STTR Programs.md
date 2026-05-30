@@ -44,7 +44,7 @@ updated: 2026-05-29
 
 ## 与产学合作的关联
 
-> [![[Abstract]]]
+> [!abstract]
 > SBIR/STTR 计划的申请条件中明确要求产业代表提供直接的项目输入，产业反馈循环机制被内置到这些政府主导的孵化项目中。这使得它们成为[[University Spin-Out|大学衍生企业]]在进入市场前获得早期市场验证和[[Non-dilutive Funding|非稀释性资助]]的重要渠道（p.149）。
 
 > [!note]

@@ -43,7 +43,7 @@ updated: 2026-05-29
 
 ## 运作机制
 
-> [![[Abstract]]]
+> [!abstract]
 > 每年从南加州地区十余所顶尖研究机构和大学中甄选 24 家衍生企业（spin-outs），涵盖前沿科技（frontier technology）和生命科学（life science）两大领域。参与机构包括：加州大学洛杉矶分校（University of California at Los Angeles, UCLA）、南加州大学（University of Southern California, USC）、加州理工学院（California Institute of Technology, Caltech）、加州大学圣地亚哥分校（University of California at San Diego, UCSD）等（p.144）。
 
 > 甄选出的 24 家衍生企业向由投资者和企业领袖组成的现场观众进行路演（pitch）。所有入选企业都在寻找首轮私人投资（first round of private investment），并且——这一点尤为关键——几乎全都满足以下条件（pp.144-145）：
@@ -55,7 +55,7 @@ updated: 2026-05-29
 > [!warning]
 > First Look SoCal 的七年运营经验揭示了一个重要的实证观察：尽管入选的衍生企业拥有高质量的基础 IP 和明确的市场需求，但"很少有企业能获得足够的私人投资来获得成功；在获得投资的企业中，几乎没有人能从企业或[[Corporate Venture Capital|企业风险投资]]（Corporate Venture Capital, CVC）处获得早期融资"（pp.144-145）。作者强调，"这不是南加州的特有问题——这是全国范围内衍生企业的普遍现象"（p.145）。
 
-> [![[Abstract]]]
+> [!abstract]
 > 这一观察成为本章论证"风投偏好与衍生企业风险特征之间存在系统性不匹配"这一观点的核心实证基础。如果连经过层层筛选的 24 家南加州最佳衍生企业都无法获得早期 VC 或 CVC 融资，那么普通衍生企业的融资困境只会更加严峻（pp.145-146）。
 
 ## 来源

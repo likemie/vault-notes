@@ -42,7 +42,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Meyer, H. (2005). *Hvad er god undervisning?* Gyldendal. — 德语[[Effective Teaching|有效教学]]综合的丹麦译本之一，提出"好教学"的十项质量标准（Laursen, 2015, pp.34–35, p.40）。
 
 ## 争议与批评

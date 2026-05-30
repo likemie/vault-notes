@@ -48,7 +48,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > 论文以 **[[Campbellian Validity Framework]]**（Shadish, 1995; Shadish, Cook & [[Campbell Collaboration|Campbell]], 2002）为理论基础：
 >
 > - **内部效度**：因果关系在多大程度上成立——通过排除替代解释（威胁）来建立，是实验设计的"必要条件"（sin qua non）（Hitchcock et al., 2015, p.461）

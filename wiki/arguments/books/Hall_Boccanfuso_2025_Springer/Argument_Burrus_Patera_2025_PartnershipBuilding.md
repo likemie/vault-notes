@@ -50,7 +50,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > 不依赖正式学术理论，而是基于在普林斯顿大学领导战略伙伴关系的长期实践经验，同时整合 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Demonstration Partnership|UIDP]] 和 [[University Industry Innovation Network|UIIN]] 等行业组织积累的最佳实践。
 > - [[University-Industry Collaboration]] — 作为分析的组织框架，将伙伴关系建设分解为三个相互关联的阶段：连接 → 探索发现 → 建设
 

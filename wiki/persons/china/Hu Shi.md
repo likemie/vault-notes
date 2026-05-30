@@ -51,7 +51,7 @@ updated: 2026-05-26
 
 ## 核心思想
 
-> [![[Abstract]]] 核心思想
+> [!abstract] 核心思想
 
 胡适将[[John Dewey|杜威]]的[[Pragmatic Paradigm|实用主义]]哲学转化为中国语境下的思想武器，其核心立场集中体现在三个方面：
 

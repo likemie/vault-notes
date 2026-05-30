@@ -42,7 +42,7 @@ updated: '2026-05-18'
 
 ## 理论内部结构
 
-> [![[Abstract]]] 阶段一：It-works-somewhere 主张
+> [!abstract] 阶段一：It-works-somewhere 主张
 > T（干预措施）在某种条件下对某人群引起 O（结果）（例如在研究人群 X 中，以方法 M 实施）。
 > - 这是 [[Randomised Controlled Trials|RCT]] 能直接提供的唯一主张
 > - 只告诉你"在某处有效"，不告诉你"为什么有效"或"在你这里是否有效"

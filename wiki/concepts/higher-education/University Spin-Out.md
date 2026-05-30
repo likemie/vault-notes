@@ -79,7 +79,7 @@ updated: 2026-05-29
 
 ## 大学支持机制
 
-> [![[Abstract]]]
+> [!abstract]
 > 近年来大学显著增加了对衍生企业创建和创业精神的支持资源投入（pp.147-148）：
 > - **[[Technology Transfer|技术转移]]办公室内的新创企业支持**：如 UCLA 技术开发组内的 New Ventures Group，或专门建设的中心如 Austin Technology Incubator，其主要职能是支持有前景的教员衍生企业（p.147）
 > - **[[Entrepreneur in Residence|驻校企业家]]（EIR）**：全职支持多个衍生企业的驻校高管，或具有多元经验的兼职 EIR 团队，这种人才投资似乎是帮助衍生企业"跨越从实验室到市场的鸿沟"的有效策略（pp.147-148）

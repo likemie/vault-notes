@@ -45,7 +45,7 @@ updated: 2026-05-25
 
 ## 在中国语境中的应用
 
-> [![[Abstract]]]
+> [!abstract]
 > 近年来，定居殖民主义被用于分析中国新疆的族群关系。迈克尔·克拉克（Michael Clarke, 2022）主编的《新疆紧急状态》（The Xinjiang Emergency）以"殖民主义、定居殖民主义与文化灭绝的路径"为主题；詹姆斯·米尔沃德（James Millward, 2021）的《欧亚十字路口》（Eurasian Crossroads）修订版以及《新疆元年》（Xinjiang Year Zero, Byler, Franceschini, & Loubere, 2022）也采用了这一框架（Bulag, 2024, p.99）。
 >
 > 该框架的核心论点：

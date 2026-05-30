@@ -43,7 +43,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > 以 **Habermas (1976) 的合法化危机理论（Legitimation Crisis）** 为核心分析框架，配合 **Schön (1983, 1987) 的[[Technical Rationality|技术理性]]（Technical Rationality）** 概念。将 [[John Hattie|Hattie]] 的工作定位为对现代学校教育**合法化危机**的回应——VL 不是因其科学质量而被接受，而是因其提供了教育系统亟需的合法化功能。
 
 ## 研究方法

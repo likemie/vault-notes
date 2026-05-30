@@ -43,7 +43,7 @@ updated: 2026-05-23
 
 ## 政策文本摘要
 
-> [![[Abstract]]]
+> [!abstract]
 > 该政策向学校提供互动白板，并配套教师培训。Pellegrini & Vivanet 用它说明：教育技术投入本身并不等于[[Effective Teaching|有效教学]]改进，政策决策仍需要检查相关工具对学习过程和学习结果的证据基础（Pellegrini & Vivanet, 2021, p.27）。
 
 ## 时间线

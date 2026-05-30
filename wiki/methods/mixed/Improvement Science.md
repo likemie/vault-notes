@@ -14,11 +14,11 @@ tags:
 - paradigm/interpretivist
 related_concepts:
   - "[[Mechanism Experiments]]"
+  - "[[Spirals of Inquiry]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []
-related_methods:
-  - "[[Spirals of Inquiry]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
@@ -52,7 +52,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]] 关键原则
+> [!abstract] 关键原则
 > 1. **系统视角**：教育实践不是离散的干预而是互相关联的系统
 > 2. **关注变异性**：跨情境的差异不是噪音而是学习机会——揭示什么在什么条件下起作用
 > 3. **人类行动者中心**：变革通过人的能动性实现，研究需关注参与者的情境和视角

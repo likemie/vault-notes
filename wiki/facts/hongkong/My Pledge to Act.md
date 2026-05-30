@@ -43,7 +43,7 @@ updated: 2026-05-25
 
 ## 政策文本摘要
 
-> [![[Abstract]]]
+> [!abstract]
 > 该计划要求学生：
 > - "快乐（be happy）"
 > - "感恩我们所拥有的（be grateful for what we have）"

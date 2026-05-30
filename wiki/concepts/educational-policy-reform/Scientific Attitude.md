@@ -69,7 +69,7 @@ updated: 2026-05-26
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > 赵乃传（Zhao 1925, pp.7–13）将科学态度系统化为三个逐层递进的要素（引自 Zhou & Westberg, 2024, p.620）：
 
 **1. 基于客观事实（objective facts）**

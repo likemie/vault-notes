@@ -38,7 +38,7 @@ updated: 2026-05-26
 
 ## 主要著作
 
-> [![[Abstract]]]
+> [!abstract]
 > - Hsu, C. Y. (2012). *China: A New Cultural History*. New York: Columbia University Press. — 以汉族及其文化为中心界定"中国"的历史边界，主张中国的领土范围取决于哪些地区接受了汉文化和中原统治者的治理（Xu, 2024, p.576）。
 
 ## 核心思想

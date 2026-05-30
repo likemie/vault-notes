@@ -38,7 +38,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Bereiter, C. (2002). *Education and mind in the knowledge age*. Mahwah: Lawrence Erlbaum. — 以 Popper 三个世界理论为基础，探讨知识社会中教育与意识的关系
 
 ## 核心思想

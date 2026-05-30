@@ -56,7 +56,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Rømer, T. A. (2003). Learning and assessment in postmodern education. *Educational Theory*, 53(3), 313–329. — 后现代教育中的学习与评估
 > - Rømer, T. A. (2012). Imagination and judgment: Intelligent transactions in a democratic context. *Educational Philosophy and Theory*, 44(2), 133–150. — 以 [[John Dewey|Dewey]] 视角探讨想象力与判断力，回应 [[John Hattie|Hattie]] 批评中的"被动性"主题
 > - Tanggaard, L., Rømer, T. A., & Brinkmann, S. (2014). *Uren Pædagogik 2* [Pure Education 2]. Aarhus: Klim. — 提出"纯粹教育"和"[[Pure Evaluation|纯粹评价]]"概念

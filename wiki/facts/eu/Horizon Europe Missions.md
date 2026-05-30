@@ -41,7 +41,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [![[Abstract]]] 政策文本摘要
+> [!abstract] 政策文本摘要
 > > "EU missions 是解决我们世界面临的最大挑战的承诺：抗击癌症、适应气候变化、保护海洋、居住在更绿色的城市、确保土壤健康和食物。"（European Commission, cited in Thompson & Parreira do Amaral, 2022, p.12）
 
 ## 主要使命

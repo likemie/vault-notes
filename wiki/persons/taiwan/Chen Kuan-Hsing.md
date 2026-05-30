@@ -41,7 +41,7 @@ Chen 在台湾大学取得学士学位，后赴美国爱荷华大学攻读传播
 
 ## 主要著作
 
-> [![[Abstract]]]
+> [!abstract]
 > - Chen, K.-H. (2005). "Asia" as method. *Taiwan: A Radical Quarterly in Social Studies*, 57, 139–218. — 早期阐述"亚洲作为方法"的核心构想，借鉴日本学者竹内好（Takeuchi Yoshimi）的方法论灵感
 > - Chen, K.-H. (2010). *Asia as Method: Toward Deimperialization*. Duke University Press. — 代表作。基于台湾等地的在地经验，提出亚洲社会面临三重未完成任务："去帝国化"（deimperialization）、"去殖民化"（decolonization）、"去冷战"（de-cold war）。以"地缘殖民历史唯物主义"（geocolonial historical materialism）为方法论框架，论证亚洲需要一种不同种类的[[Knowledge Production|知识生产]]来克服持续的殖民知识状况
 

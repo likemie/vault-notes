@@ -53,7 +53,7 @@ updated: 2026-05-27
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > 知识交流的路径远超技术许可和衍生企业，已有研究识别的多种机制包括（Bonaccorsi & Piccaluga, 1994; Cohen et al., 2002; D'Este & Patel, 2007; Hughes & Kitson, 2012; Perkmann & Walsh, 2007; [[University Industry Demonstration Partnership|UIDP]], 2012）（Ulrichsen, 2025, p.44）：
 
 - **合同研究**（contract research）：企业委托大学开展特定研究项目

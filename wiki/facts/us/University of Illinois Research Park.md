@@ -38,7 +38,7 @@ updated: 2026-05-28
 > [!info]
 > 伊利诺伊大学研究园（University of Illinois [[Innovation Park|research park]]）位于伊利诺伊大学厄巴纳-香槟分校（UIUC），是[[University-Industry Collaboration|产学合作]]在组织设计方面的典型案例。其执行主任（executive director）同时兼任大学的经济发展办公室（Economic Development Office）主任，通过双重角色实现产业合作与校内资源的高效对接（Byrne & Clements, 2025, pp.134–135）。
 
-> [![[Abstract]]]
+> [!abstract]
 > 全职团队包括以下专职岗位（p.135）：
 > - 对外合作主任（Director of External Engagement）
 > - 孵化器 EnterpriseWorks 主任

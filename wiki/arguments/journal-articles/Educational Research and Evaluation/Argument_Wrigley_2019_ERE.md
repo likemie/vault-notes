@@ -49,7 +49,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - [[Critical Realism]] — Bhaskar (1978, 1979) 的批判实在论是本文的核心哲学框架：实在（real）、实际（actual）和经验（phenomenal）三层本体论；开放系统与封闭系统的区分；对经验主义的批判
 > - [[Evidence-Based Education]] — 本文的直接批判对象，从科学哲学角度解构其方法论基础
 

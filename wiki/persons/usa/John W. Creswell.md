@@ -58,7 +58,7 @@ updated: 2026-05-30
 
 ## 主要著作
 
-> [![[Abstract]]]
+> [!abstract]
 > - Creswell, J. W., & Creswell, J. D. (2022). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches* (6th ed.). [[Sage]] Publications. — 系统比较三种研究路径的研究设计教材，已出至第六版。
 > - Creswell, J. W., & Poth, C. N. (2018). *Qualitative Inquiry and Research Design: Choosing Among Five Approaches* (4th ed.). SAGE Publications. — 五种[[Qualitative Research|质性研究]]路径的比较与操作指南，获 McGuffey Longevity Award。
 > - Creswell, J. W. (2014). *A Concise Introduction to Mixed Methods Research*. SAGE Publications. — [[Mixed Method and Multi-method Research|混合方法研究]]的简明入门读本。

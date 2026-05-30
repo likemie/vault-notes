@@ -54,7 +54,7 @@ updated: 2026-05-26
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > Multi-university 的运转依赖于以下相互关联的要素：
 
 - **三重使命**：研究（知识创造）、教学（人才培养）和公共服务（社会贡献），三者互为支撑而非独立运作（p.5）
@@ -73,7 +73,7 @@ updated: 2026-05-26
 
 ## 与产学合作的关系
 
-> [![[Abstract]]]
+> [!abstract]
 > Boccanfuso 和 Hall（2025）将 Multi-university 概念用于分析[[University-Industry Collaboration|产学合作]]的框架中：多元大学的三大核心使命恰好对应产学合作的三重回报。产学合作可以通过赞助研究、技术许可收入、服务报酬、捐赠和企业会员资格等方式为大学提供财务支持，但这不应成为合作的主要驱动力（p.5）。详见 [[University-Industry Collaboration]]。
 
 ---

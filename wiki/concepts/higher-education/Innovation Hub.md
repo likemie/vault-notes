@@ -103,7 +103,7 @@ updated: 2026-05-28
 > - **2010s**：大学开始将创业和[[University-Industry Collaboration|产学合作]]纳入教师晋升和终身教职评审标准，显著改变了学术界对产学合作的态度（pp.132–133）
 > - **2022–2024**：[[CHIPS and Science Act|CHIPS 与科学法案]]拨款超 100 亿美元设立 Tech Hubs 计划，[[National Science Foundation|NSF TIP]] 于 2024 年 1 月授予 10 个区域合作体 1.6 亿美元十年期资助，联邦资金大幅涌入创新中心建设（pp.133–134）
 
-> [![[Abstract]]]
+> [!abstract]
 > 这一演变的核心趋势是从单一的物理空间逻辑（建楼、出租、收租）转向关系密度逻辑（建立人际网络、创造偶然相遇、培育信任）。TUFF 用"密度就是命运"（density is destiny）来概括这一转向——不仅指物理邻近性，更指通过强有力的活动设计推动的人际互动频率和质量（p.137）。
 
 ---
@@ -112,7 +112,7 @@ updated: 2026-05-28
 
 ### TUFF 的实践框架
 
-> [![[Abstract]]]
+> [!abstract]
 > [[TUFF]] 基于 43 年经验提炼出创新中心建设的四个核心信条（边界条件）和六项优先领域（操作路径）（Byrne & Clements, 2025, pp.124–125）：
 
 **四个核心信条**：
@@ -170,7 +170,7 @@ updated: 2026-05-28
 - **利益相关者理论**（Stakeholder Theory, Freeman, 1984）：最初用于量化企业在利益相关者网络中的商业回报。采用整体性网络建设方法的[[Innovation Park|研究园区]]似乎更有效地利用区域资源，也遇到更少的行政障碍（Darmody & Bendis, 2021）
 - **地点基础因素**（Place-based factors）：文化、经济和学术特征显著影响[[University-Industry Collaboration|产学合作]]的形式和基础设施，确认了不存在"一刀切"的成功模型（Rissola et al., 2019）
 
-> [![[Abstract]]]
+> [!abstract]
 > 已有研究涵盖以下方面的实证证据（pp.125–126）：
 > - 创新中心对学术研发和[[Technology Transfer|技术转移]]的净正面影响（Dooley & Kirk, 2007）
 > - 产学合作同时提升中小企业和大型企业的研究产出和专利数量（Chai & Shih, 2016）

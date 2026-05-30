@@ -48,7 +48,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [![[Abstract]]] 政策文本摘要
+> [!abstract] 政策文本摘要
 > 课程并未取消传统学科结构。它仍按学校科目组织，同时把 [[Phenomenon-Based Learning|PhBL]] 增补并推荐为实现课程总体目标和价值的一种方式（Schaffar & Wolff, 2024, p.2）。
 >
 > 课程文本中，"phenomenon-based learning"这个英语术语在芬兰语原文中并不出现，在译本中也只出现少数几次；但"phenomenon/ilmiö"及相关组合词频繁出现，并与观察、描述、理解、解释等动词搭配（Schaffar & Wolff, 2024, p.2）。

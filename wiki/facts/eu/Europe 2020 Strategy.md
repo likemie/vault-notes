@@ -52,7 +52,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [![[Abstract]]]
+> [!abstract]
 > Europe 2020 的核心框架由一句口号凝练：追求"智能、可持续与包容性增长"（smart, sustainable and inclusive growth）。战略跨越五个相互关联的优先领域（European Commission, 2010; Rambla, 2022, p.168）：
 >
 > - **就业**：提高劳动参与率

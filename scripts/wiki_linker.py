@@ -428,7 +428,8 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
     for m in re.finditer(r"(?ms)^```.*?^```\s*", text):
         add(m.start(), m.end())
 
-    # Headings line-by-line. Also skip all lines in quote callouts.
+    # Headings line-by-line. Also skip all lines in quote callouts,
+    # and protect callout header lines (e.g. "> [!abstract]") from linking.
     in_quote_callout = False
     pos = 0
     for line in text.splitlines(keepends=True):
@@ -437,6 +438,10 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
         if is_markdown_table_line(line) and TABLE_UNSAFE_CELL_RE.search(line):
             add(start, end)
         if re.match(r"^#{1,6}\s", stripped):
+            add(start, end)
+        # Protect callout header lines so type keywords (abstract, info, etc.)
+        # are not replaced with wikilinks to same-named entries.
+        if re.match(r"^>\s*\[![^\]]+\]", stripped):
             add(start, end)
         if re.match(r"^>\s*\[!quote\]", stripped, re.IGNORECASE):
             in_quote_callout = True

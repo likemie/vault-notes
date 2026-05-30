@@ -40,7 +40,7 @@ updated: '2026-05-20'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - [[Visible Learning]] — 导言把 [[John Hattie|Hattie]] 的可见学习定位为全球教育改革和教学实践中最具影响力的学习成效范式之一，但强调其关键不在干预排行本身，而在教师持续评估自身影响的工作方式（Hansen et al., 2015, p.4）。
 > - [[Dynamic Knowledge and Learning Model]] — 导言用 Qvortrup 文章的提要指出，若可见学习要回应对[[Surface and Deep Learning|表层学习]]的批评，就需要更动态的知识与学习概念，而不能停留在单层次学习结果的度量（Hansen et al., 2015, p.5）。
 > - [[Effect Size]] — 导言用 Allerup 文章的提要提醒，效应量排序虽是可见学习传播的核心工具，但其解释需要统计前提、显著性与不确定性意识的约束（Hansen et al., 2015, pp.5–6）。

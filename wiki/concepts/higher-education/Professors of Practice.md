@@ -45,7 +45,7 @@ updated: 2026-05-27
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > - **聘任标准**：基于产业经验而非学术资质——大学因候选人在特定行业的实践专长而聘任（Boccanfuso & Hall, 2025, p.60）
 > - **知识流向**：产业 → 大学——实践教授将产业界的技术方法、管理实践和行业趋势带入课程设计、学生指导和合作研究（Boccanfuso & Hall, 2025, p.58）
 > - **制度形式**：可为全职（full-time professor of practice）或兼职讲师（part-time lecturer，全职在企业）（Boccanfuso & Hall, 2025, pp.58, 64）

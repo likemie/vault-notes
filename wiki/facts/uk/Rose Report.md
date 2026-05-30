@@ -37,7 +37,7 @@ updated: '2026-05-18'
 
 ## 政策文本摘要
 
-> [![[Abstract]]] 政策文本摘要
+> [!abstract] 政策文本摘要
 > Rose Report 的正式标题为 *Independent Review of the Teaching of Early Reading*（早期阅读教学独立审查），于 2006 年由英国 Department for Education and Skills 发布。
 >
 > 该报告的关键特征是推广了 Gough & Tunmer（1986）的**[[Simple View of Reading|简单阅读观]]**（[[Simple View of Reading]]）——主张"学会解码等于学会阅读"（O'Connor, 2020, p.149）。

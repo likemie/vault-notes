@@ -44,7 +44,7 @@ updated: 2026-05-25
 
 ## 核心要素
 
-> [![[Abstract]]] 三条运作路径
+> [!abstract] 三条运作路径
 > Vickers（2024, pp.153–154）在[[National Education|香港国民教育]]的分析中识别了心理化运作的三条平行路径：
 >
 > **路径一：课程中消除政治讨论** — [[Citizenship and Social Development|CSD]] 教科书将所有政治争议议题删除，取而代之的是对宪法、政治和法律事务的教导式阐述。讨论空间被"国家安全"理由所封闭（p.153）。

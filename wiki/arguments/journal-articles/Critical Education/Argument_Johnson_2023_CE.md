@@ -45,7 +45,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - [[Technical Rationality]] — Schön (1983) 的技术理性批判，[[John Hattie|Hattie]] VL 将教学定位为可标准化操作的技术任务
 
 ## 研究方法

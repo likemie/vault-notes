@@ -85,7 +85,7 @@ updated: 2026-05-24
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > Li (2012) 在 Cultural Foundations of Learning 中追溯了[[Confucian Learning Tradition|儒家学习传统]]的知识根源，将其提炼为与 [[Western Learner|西方学习者]]模型 形成系统对比的完整画像。以下按**学习方向 → 学习路径 → 学习动力 → 学习表达**四个主题组织（Li, 2012, pp.46-58）。
 
 ### 学习方向：向内完善自我

@@ -50,7 +50,7 @@ updated: 2026-05-19
 
 ## 理论框架
 
-> [![[Abstract]]]
+> [!abstract]
 > 本章以两个相互补充的理论视角为分析框架：
 
 - **Foucault [[Governmentality|治理术]]（governmentality）**：借鉴 Foucault（1993, 2004）对治理术的分析——即"行为的引导"（conduct of conduct），关注权力如何通过塑造主体的自我理解而非直接强制来运作。[[Online Self-Assessment|OSA]] 被视为一种"自我技术"（technology of the self），通过让潜在学生对自身进行自我评估和自我优化，引导他们"自由地"做出符合治理目标的选择（Thompson et al., 2022, pp.220–221）。

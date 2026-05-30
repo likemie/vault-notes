@@ -48,7 +48,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]] 在教育评估中的双重机制
+> [!abstract] 在教育评估中的双重机制
 > Wolf et al. (2020, p. 429) 识别了教育评估中发表偏倚的双重来源：
 >
 > 1. **学术发表压力**：学术机构研究者面临发表压力，期刊偏好发表"引人注目、'干净'的故事"（John, Loewenstein, & Prelec, 2012; McBee, Makel, Peters, & Matthews, 2017）

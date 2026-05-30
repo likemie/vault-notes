@@ -36,7 +36,7 @@ updated: '2026-05-18'
 
 ## 核心特征
 
-> [![[Abstract]]] 核心特征
+> [!abstract] 核心特征
 > - 任何时刻可保持的信息条目数量有限——成年人在[[Working Memory|工作记忆]]中一次最多可保持三到四个信息条目（Bolton & [[John Hattie|Hattie]], 2017, p.5，引用 Vogel & Machizawa, 2004）
 > - 由于更新任务的复杂性和模态范围广泛，识别更新任务中对转换和抑制的依赖程度至关重要（Bolton & Hattie, 2017, p.5）
 

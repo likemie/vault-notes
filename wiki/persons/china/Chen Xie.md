@@ -46,7 +46,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Cheung, A. C. K., & Xie, C. (2021). [[Evidence-Based Reform]] in education: Global perspectives [Editorial]. *ECNU Review of Education, 4*(1), 3–6. — 特刊导言，以 Slavin et al. (2020) 四项核心活动框架组织八篇文章
 > - Xie, C. (2020). What can China learn from evidence-based educational reform? A comparative review of educational technology programs' effects on mathematics achievement. *ECNU Review of Education, 4*(1), 65–83. — 中美教育技术[[Experimental Research|实验研究]]的系统比较
 

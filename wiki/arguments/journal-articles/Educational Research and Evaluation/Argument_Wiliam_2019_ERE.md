@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - [[Goldman's Discrimination Theory of Knowledge]] — Wiliam 运用 Goldman (1976) 的区分理论论证教育知识的**局部性**（local）和**临时性**（provisional）：新证据的出现使先前可信的解释不再可信，因为我们现在无法区分"干预导致效果"与"替代因素导致效果"两种状态。
 
 ## 研究方法

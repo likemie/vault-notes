@@ -42,7 +42,7 @@ updated: '2026-05-18'
 ---
 ## 政策文本摘要
 
-> [![[Abstract]]]
+> [!abstract]
 > THE Impact Ranking 的核心特征（Zapp, 2022, p.147）：
 > - 衡量大学对 17 项 [[UN Sustainable Development Goals|SDGs]] 的贡献，涵盖性别平等、气候行动、可持续城市和社区等领域
 > - 指标包括：大学的[[Academic Freedom|学术自由]]政策、安全雇佣合同的使用、高级女性学术人员的比例等

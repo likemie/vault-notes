@@ -43,7 +43,7 @@ updated: 2026-05-22
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 > Li 列举了违反义的具体事例（Li, 2012, p.40）：
 > - 损人利己（"self-serving at the cost of others"）
 > - 承诺而不打算兑现，或直接违约

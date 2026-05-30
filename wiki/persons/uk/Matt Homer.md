@@ -39,7 +39,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Pampaka, M., Williams, J., & Homer, M. (Eds.) (2016). Is the educational 'what works' agenda working? Critical methodological developments [Special issue]. *International Journal of Research & Method in Education*, 39(3).
 
 ## 思想发展与影响

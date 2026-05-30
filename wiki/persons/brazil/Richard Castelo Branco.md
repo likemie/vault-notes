@@ -14,11 +14,11 @@ related_concepts:
   - "[[Epistemology of Resistance]]"
   - "[[Knowledge Production]]"
   - "[[Official Knowledge]]"
+  - "[[Ganz-Methode]]"
   - "[[Life Power]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
-related_methods:
-  - "[[Ganz-Methode]]"
+related_methods: []
 related_persons:
   - "[[Dell Delambre]]"
   - "[[Camilla de Hollanda Amado]]"
@@ -50,7 +50,7 @@ updated: '2026-05-19'
 
 ## 主要著作与思想发展
 
-> [![[Abstract]]]
+> [!abstract]
 
 ### 2020 — *Favelaflix*（YouTube 频道 / 剧场作品）
 

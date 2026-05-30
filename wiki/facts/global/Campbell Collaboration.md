@@ -42,7 +42,7 @@ updated: 2026-05-23
 
 ## 政策文本摘要
 
-> [![[Abstract]]]
+> [!abstract]
 > 在 [[Educational Evidence Clearinghouses|教育证据清算中心]] 生态中，Campbell Collaboration 的角色不是单个教育项目评级平台，而是以系统综述为主要形式，为教育和社会政策提供跨研究的证据基础（Pellegrini & Vivanet, 2021, p.32）。
 
 ## 时间线

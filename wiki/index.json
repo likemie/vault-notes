@@ -634,6 +634,17 @@
     ]
   },
   {
+    "title": "Ganz-Methode",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Ganz-Methode.md",
+    "aliases": [
+      "Whole Approach",
+      "整体方法",
+      "整体进路",
+      "Ganz Method"
+    ]
+  },
+  {
     "title": "Humosity",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Humosity.md",
@@ -1987,6 +1998,15 @@
     ]
   },
   {
+    "title": "Cognitive Task Analysis",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Cognitive Task Analysis.md",
+    "aliases": [
+      "认知任务分析",
+      "CTA"
+    ]
+  },
+  {
     "title": "Critiques of Visible Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
@@ -2129,6 +2149,14 @@
       "苏格拉底式辅导",
       "Socratic tutoring",
       "Socratic parenting style"
+    ]
+  },
+  {
+    "title": "Spirals of Inquiry",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Spirals of Inquiry.md",
+    "aliases": [
+      "探究螺旋"
     ]
   },
   {
@@ -2968,15 +2996,6 @@
     ]
   },
   {
-    "title": "Black Box RCTs",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Black Box RCTs.md",
-    "aliases": [
-      "黑箱RCT",
-      "黑箱随机对照试验"
-    ]
-  },
-  {
     "title": "Cargo Cult Science",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Cargo Cult Science.md",
@@ -3064,14 +3083,6 @@
     ]
   },
   {
-    "title": "Gating Procedure",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Gating Procedure.md",
-    "aliases": [
-      "闸门程序"
-    ]
-  },
-  {
     "title": "Justified Warrants",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Justified Warrants.md",
@@ -3091,19 +3102,22 @@
     ]
   },
   {
+    "title": "Logic Model",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Logic Model.md",
+    "aliases": [
+      "逻辑模型",
+      "evaluation logic model",
+      "program logic model",
+      "program theory model"
+    ]
+  },
+  {
     "title": "Material Fallacies",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Material Fallacies.md",
     "aliases": [
       "实质谬误"
-    ]
-  },
-  {
-    "title": "Mechanism Experiments",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Mechanism Experiments.md",
-    "aliases": [
-      "机制实验"
     ]
   },
   {
@@ -4157,6 +4171,14 @@
     ]
   },
   {
+    "title": "Gating Procedure",
+    "type": "method",
+    "path": "wiki/methods/mixed/Gating Procedure.md",
+    "aliases": [
+      "闸门程序"
+    ]
+  },
+  {
     "title": "Improvement Science",
     "type": "method",
     "path": "wiki/methods/mixed/Improvement Science.md",
@@ -4186,17 +4208,6 @@
     ]
   },
   {
-    "title": "Logic Model",
-    "type": "method",
-    "path": "wiki/methods/mixed/Logic Model.md",
-    "aliases": [
-      "逻辑模型",
-      "evaluation logic model",
-      "program logic model",
-      "program theory model"
-    ]
-  },
-  {
     "title": "Mixed Method and Multi-method Research",
     "type": "method",
     "path": "wiki/methods/mixed/Mixed Method and Multi-method Research.md",
@@ -4217,14 +4228,6 @@
       "原型方法",
       "prototype methodology",
       "cultural prototype methods"
-    ]
-  },
-  {
-    "title": "Spirals of Inquiry",
-    "type": "method",
-    "path": "wiki/methods/mixed/Spirals of Inquiry.md",
-    "aliases": [
-      "探究螺旋"
     ]
   },
   {
@@ -4251,15 +4254,6 @@
     "path": "wiki/methods/qualitative/Case Study.md",
     "aliases": [
       "个案研究"
-    ]
-  },
-  {
-    "title": "Cognitive Task Analysis",
-    "type": "method",
-    "path": "wiki/methods/qualitative/Cognitive Task Analysis.md",
-    "aliases": [
-      "认知任务分析",
-      "CTA"
     ]
   },
   {
@@ -4317,17 +4311,6 @@
       "人种志",
       "民族志研究",
       "ethnographic research"
-    ]
-  },
-  {
-    "title": "Ganz-Methode",
-    "type": "method",
-    "path": "wiki/methods/qualitative/Ganz-Methode.md",
-    "aliases": [
-      "Whole Approach",
-      "整体方法",
-      "整体进路",
-      "Ganz Method"
     ]
   },
   {
@@ -4427,6 +4410,15 @@
     ]
   },
   {
+    "title": "Black Box RCTs",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Black Box RCTs.md",
+    "aliases": [
+      "黑箱RCT",
+      "黑箱随机对照试验"
+    ]
+  },
+  {
     "title": "Causal Modeling",
     "type": "method",
     "path": "wiki/methods/quantitative/Causal Modeling.md",
@@ -4521,6 +4513,14 @@
     "path": "wiki/methods/quantitative/Matching.md",
     "aliases": [
       "匹配法"
+    ]
+  },
+  {
+    "title": "Mechanism Experiments",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Mechanism Experiments.md",
+    "aliases": [
+      "机制实验"
     ]
   },
   {

@@ -11,6 +11,7 @@ tags:
 - field/higher-education
 - field/sustainability
 related_concepts:
+  - "[[Ganz-Methode]]"
   - "[[Social Museology]]"
   - "[[Ecomuseology]]"
   - "[[Whole Sustainability]]"
@@ -20,8 +21,7 @@ related_concepts:
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
-related_methods:
-  - "[[Ganz-Methode]]"
+related_methods: []
 related_persons:
   - "[[Walter Mignolo]]"
   - "[[Camilla de Hollanda Amado]]"
@@ -53,7 +53,7 @@ updated: '2026-05-19'
 
 ## 主要著作与思想发展
 
-> [![[Abstract]]]
+> [!abstract]
 > ### 2014 — *Sustentabilidade In-sustentável*
 >
 > - APA：Delambre, D. (2014). *Sustentabilidade In-sustentável: O conceito de sustentabilidade e desenvolvimento sustentável no documento final da Rio+20: Diálogo com a proposta de Ecodesenvolvimento de Ignacy Sachs*. CRV.

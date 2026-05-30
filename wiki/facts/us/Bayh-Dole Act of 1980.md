@@ -60,7 +60,7 @@ Bayh-Dole Act（正式名称为 Patent and Trademark Law Amendments Act）于 19
 
 ## 对产学合作的影响
 
-> [![[Abstract]]]
+> [!abstract]
 Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识产权管理创造了制度基础。在产学合作的实践中（p.14）：
 
 1. 企业与大学的合同与拨款办公室协商赞助研究所产生的知识产权权利

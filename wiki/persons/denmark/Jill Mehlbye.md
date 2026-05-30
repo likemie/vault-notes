@@ -47,7 +47,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Mehlbye, J. (2004). *Sammenfatning af undersøgelsen "De gode eksempler"*. Undervisningsministeriet. — 总结丹麦学校"好例子"研究，呈现高要求、学业表现取向和[[Classroom Management|课堂管理]]等高绩效学校特征（Laursen, 2015, pp.37–38, p.40）。
 > - Mehlbye, J. (2010). *Den højt præsterende skole. Hvordan kan skolen løfte elever med svag social baggrund*. AKF. — 聚焦高绩效学校如何提升弱社会背景学生，并记录频繁测试受到丹麦学生欢迎的发现（Laursen, 2015, pp.38–39, p.40）。
 

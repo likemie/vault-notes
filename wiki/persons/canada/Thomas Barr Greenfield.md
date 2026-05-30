@@ -63,7 +63,7 @@ updated: 2026-05-19
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Greenfield, T. B., & Ribbins, P. (Eds.). (1993). *Greenfield on Educational Administration*. London: Routledge. — 系统呈现 Greenfield 对教育行政认识论的主观主义/[[Phenomenology|现象学]]取向
 
 ## 思想发展与影响

@@ -40,7 +40,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]] Simmons et al. (2011) 识别的自由度类型
+> [!abstract] Simmons et al. (2011) 识别的自由度类型
 > Wolf et al. (2020, p. 429) 总结了 Simmons et al. 的框架：
 >
 > 1. **样本选择**：包含或排除哪些参与者、学校、班级

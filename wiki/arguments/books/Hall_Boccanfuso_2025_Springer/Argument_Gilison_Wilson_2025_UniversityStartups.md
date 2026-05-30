@@ -75,7 +75,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 论证结构
 
-> [![[Abstract]]]
+> [!abstract]
 > **整体逻辑链**：打破宿舍创业神话 → 揭示产业赞助研究中的知识产权（Intellectual Property, IP）毒丸与风险投资（Venture Capital, VC）偏好不匹配两重结构性障碍 → 展示大学主导的概念验证（[[Proof of Concept Programs|proof of concept]], PoP）项目与创新联盟两种有效机制 → 收束为产业参与的七级阶梯。
 
 ---
@@ -315,7 +315,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 33. 从最早期到最成熟，产业在大学衍生企业生命周期中的参与有七个入口。这些入口并非线性步骤，一个衍生企业可能同时涉及多个入口，也可能跳级进入（pp.151-152）：
 
-> [![[Abstract]]]
+> [!abstract]
 > **第一级：前瞻性市场输入**。产业为大学创新领导层和教员提供关于当前和未来技术需求与缺口的指导。这是最轻量级的参与，也是最基础的一步——它不花多少钱、不占太多时间，但为后续所有步骤提供了方向校准。例如，一家教育科技公司的首席技术官（Chief Technology Officer, CTO）每年花半天时间与一所教育学院的研究团队开一次"技术趋势研讨会"，分享他在行业中看到的未来 3-5 年的技术演进方向。
 >
 > **第二级：早期项目评审**。产业成员参与评估寻求概念验证拨款的早期研究项目提案。他们不评估学术质量，而是评估"市场可行性"——这个问题有人愿意付钱解决吗？这个市场有多大？
@@ -353,7 +353,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - [[Corporate Venture Capital|企业风险投资]]（CVC）和传统风险投资（VC）的投资偏好（成熟团队、已验证技术、巨大市场机会）与早期衍生企业的风险特征之间存在系统性不匹配。资助种子前轮次（pre-seed）的 CVC 通常要求创始团队有成功记录，"这恰恰不是[[University Spin-Out|大学衍生企业]]的典型特征"（pp.145-146）
 > - 衍生企业的[[Technology Readiness Level|技术就绪度]]（TRL）通常不足以满足企业试点项目的要求，形成了"需要试点来获得投资、需要投资来达到能试点的水平"的困局（p.145）
 
-> [![[Abstract]]]
+> [!abstract]
 > **有效的大学-产业合作模式**
 > - [[Proof of Concept Programs|概念验证项目]]（PoP）将大学资助的[[Non-dilutive Funding|非稀释性拨款]]（$10K-$100K，数月到一年周期）与产业导师制结合，帮助衍生企业在投入大量资源之前获得关键的市场验证，做出"去"或"留"的明智决策（pp.148-149）
 > - [[Entrepreneur in Residence|驻校企业家]]（EIR）制度，以全职或兼职团队支持多个衍生企业，是帮助衍生企业"跨越从实验室到市场鸿沟"的有效策略（pp.147-148）

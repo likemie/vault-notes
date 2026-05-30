@@ -62,14 +62,14 @@ updated: '2026-05-18'
 
 ## 评级对象与范围
 
-> [![[Abstract]]] 评级对象与范围
+> [!abstract] 评级对象与范围
 > WWC 在作者的教育项目一致性分析中贡献了 537 个项目，是样本中项目数最多的清算中心。作者纳入了 WWC 评级的所有项目，主题包括 literacy、mathematics、early childhood、English learners、science、behavior、charter schools、postsecondary、children and youth with disabilities、kindergarten to 12th grade、teacher excellence 和 path to graduation 等（Wadhwa et al., 2024, p.16）。
 >
 > WWC 通过与专家配合，依据系统综述协议识别相关项目；该协议说明综述过程和标准（Wadhwa et al., 2024, p.8）。
 
 ## 证据标准
 
-> [![[Abstract]]] 证据标准
+> [!abstract] 证据标准
 > 在设计标准编码中，WWC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 2，对 RDD 为 3，对 ITS 为 2。WWC 是少数详细处理 RDD 的清算中心之一，也是主要将 RDD 和 ITS 都视为因果推断重要设计并为其制定标准的例外（Wadhwa et al., 2024, pp.10–11）。
 >
 > WWC 主题特定综述协议会规定结果域、研究焦点（仅影响研究）、样本特征、20 年出版滞后期、学校为主的研究场景、干预特征、英文报告，以及限定为 RCT、RDD、[[21st Century Skills and Competencies Discourse|SCD]] 和 QED 的研究设计（Wadhwa et al., 2024, pp.8–9）。
@@ -92,14 +92,14 @@ updated: '2026-05-18'
 
 ## 评级体系
 
-> [![[Abstract]]] 评级体系
+> [!abstract] 评级体系
 > WWC 对干预效果的评级包括 Positive、Potentially positive、Mixed、Potentially negative、Negative、No discernible effects，并标注结论证据程度为 medium to large 或 small。单项研究可被评为 Meets WWC evidence standards without reservations、Meets WWC standards with reservations 或 Does not meet WWC standards（Wadhwa et al., 2024, p.13）。
 >
 > 最高项目效果判断要求至少两项研究，其中至少一项必须"Meets WWC Evidence Standards Without Reservations"；研究需在指定结果上呈现正向且统计显著的效果。WWC 不要求平均效果达到特定大小，也不要求治疗结束一年后效果仍存在，不要求研究者独立于项目开发者，也不要求不同研究之间研究团队相互独立（Wadhwa et al., 2024, pp.13–15）。
 
 ## 与其他清算中心的差异
 
-> [![[Abstract]]] 与其他清算中心的差异
+> [!abstract] 与其他清算中心的差异
 > WWC 不对一个干预跨所有结果聚合为单一项目评级，而是按结果域分别分析和报告教育干预结果。与 Blueprints、[[National Dropout Prevention Center|NDPC]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 不同，WWC 的评级结构更偏向 outcome-specific intervention appraisal（Wadhwa et al., 2024, pp.12–13）。
 >
 > 在 Wadhwa et al. 的解释中，WWC 的标准不是唯一可行标准，也不是论文试图加冕的最佳标准；它只是教育领域最具支配性和可见度的清算中心之一。作者的比较目的正是显示不同清算中心所采用的证据标准和假设并不相同（Wadhwa et al., 2024, p.28）。

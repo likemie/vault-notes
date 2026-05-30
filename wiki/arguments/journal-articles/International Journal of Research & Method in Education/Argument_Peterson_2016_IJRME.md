@@ -19,12 +19,12 @@ related_concepts:
   - "[[Mechanism Experiments]]"
   - "[[Literature Review]]"
   - "[[Black Box RCTs]]"
+  - "[[Spirals of Inquiry]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Improvement Science]]"
-  - "[[Spirals of Inquiry]]"
 related_persons: []
 related_facts:
   - "[[Investing in Innovation Program]]"
@@ -44,7 +44,7 @@ updated: '2026-05-18'
 
 ## 理论框架
 
-> [![[Abstract]]] 理论框架
+> [!abstract] 理论框架
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 核心前提：黑箱 [[Randomised Controlled Trials|RCT]] 的证据仅适用于二选一决策（Cartwright & Hardie, 2012），教育情境中行动者很少处于做出此类决策的位置
 > - **发展经济学的[[Mechanism Experiments|机制实验]]传统**（Duflo, Glennerster, & Kremer, 2006; Ludwig, Kling, & Mullainathan, 2011）— 提供机制实验的方法论模板
 > - **[[Improvement Science|改进科学]]**（Bryk et al., 2015; Langley et al., 2009）— 提供网络化改进和反馈循环的组织模板

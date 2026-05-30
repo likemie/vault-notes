@@ -42,7 +42,7 @@ updated: '2026-05-19'
 
 ## 主要著作
 
-> [![[Abstract]]] 主要著作
+> [!abstract] 主要著作
 > - Schriewer, J. (1990). The method of comparison and the need for [[Externalization]]: methodological criteria and sociological concepts. In J. Schriewer (Ed.) in cooperation with B. Holmes, *Theories and Methods in Comparative Education*, pp. 25–83. Frankfurt: Peter Lang. — 首次系统提出外化概念，将其定位为比较方法的认识论工具
 > - Schriewer, J. (Ed.) (2003). *Discourse Formation in Comparative Education*. Berlin: Peter Lang. — 将外化纳入更广泛的话语形成理论框架
 > - Schriewer, J. & Martinez, C. (2004). Constructions of internationality in education. In G. Steiner-Khamsi (Ed.), *Lessons from Elsewhere: the politics of educational borrowing and lending*. New York: Teachers College Press. — 区分"进化过程"和"语义建构"，完善外化理论

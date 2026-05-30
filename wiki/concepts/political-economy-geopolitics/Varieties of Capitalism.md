@@ -40,7 +40,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [![[Abstract]]]
+> [!abstract]
 
 ### 自由市场经济体（LMEs）
 
