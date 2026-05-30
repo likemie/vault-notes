@@ -25,8 +25,8 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]"
-confidence: low
-status: draft
+confidence: "low"
+status: "draft"
 created: 2026-05-30
 updated: 2026-05-30
 ---
