@@ -2,11 +2,11 @@
 citation: "O'Connor, P. (2020). Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem. Australian Journal of Language and Literacy, 43(2), 141–151."
 extracted_to:
   - "[[Argument_OConnor_2020_AJLL]]"
-  - "[[Simple View of Reading]]"
-  - "[[Whole Language]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Language Experience Approach]]"
   - "[[Visible Learning]]"
+  - "[[Whole Language]]"
+  - "[[Simple View of Reading]]"
   - "[[Effect Size]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Rose Report]]"

@@ -3,7 +3,6 @@ citation: "Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher educat
 extracted_to:
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Endogenous and Exogenous Privatisation]]"
-  - "[[New Public Management]]"
   - "[[International Education Hubs]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
@@ -11,6 +10,7 @@ extracted_to:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Capitalism]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[New Public Management]]"
   - "[[Orientalism]]"
   - "[[Australia in the Asian Century White Paper]]"
   - "[[GATS and Trade in Education Services]]"

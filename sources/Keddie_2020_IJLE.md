@@ -3,8 +3,8 @@ citation: "Keddie, A., MacDonald, K., Blackmore, J., Wilkinson, J., Gobby, B., N
 extracted_to:
   - "[[Argument_Keddie_2020_IJLE]]"
   - "[[School Leadership]]"
-  - "[[New Public Management]]"
   - "[[School Autonomy]]"
+  - "[[New Public Management]]"
   - "[[Gonski Reforms]]"
   - "[[Independent Public Schools Western Australia]]"
   - "[[Karmel Report]]"

@@ -8,11 +8,11 @@ extracted_to:
   - "[[Semi-Autonomy of Higher Education]]"
   - "[[Space-Making in Higher Education]]"
   - "[[Hegemony]]"
-  - "[[Methodological Globalism]]"
-  - "[[Methodological Nationalism]]"
   - "[[Power-Geometries]]"
   - "[[Radical Liberal Internationalism]]"
   - "[[Sovereign Internationalism]]"
+  - "[[Methodological Globalism]]"
+  - "[[Methodological Nationalism]]"
   - "[[Doreen Massey]]"
   - "[[World-Systems Theory]]"
 processed_date: 2026-05-12

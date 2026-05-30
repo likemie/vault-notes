@@ -1,5 +1,28 @@
 [
   {
+    "title": "Action Better Than Words",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Action Better Than Words.md",
+    "aliases": [
+      "行勝於言",
+      "行胜于言",
+      "Facta non Verba",
+      "actions speak louder than words",
+      "slow to speak quick to act"
+    ]
+  },
+  {
+    "title": "Affect-Respect and Ought-Respect",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Affect-Respect and Ought-Respect.md",
+    "aliases": [
+      "情感性尊重",
+      "affect-respect",
+      "ought-respect",
+      "义务性尊重"
+    ]
+  },
+  {
     "title": "Benevolence",
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Benevolence.md",
@@ -8,6 +31,59 @@
       "human goodness",
       "humanheartedness",
       "authoritative conduct"
+    ]
+  },
+  {
+    "title": "Chinese Learner",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Chinese Learner.md",
+    "aliases": [
+      "中国学习者",
+      "Chinese learners"
+    ]
+  },
+  {
+    "title": "Confucian Tutoring Style",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Confucian Tutoring Style.md",
+    "aliases": [
+      "儒家式辅导",
+      "Confucian tutoring",
+      "Confucian parenting style"
+    ]
+  },
+  {
+    "title": "Establishing One's Will",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Establishing One's Will.md",
+    "aliases": [
+      "立志",
+      "立志向学",
+      "lizhi",
+      "establish one's will",
+      "建立志向",
+      "determination in learning"
+    ]
+  },
+  {
+    "title": "Familiarization",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Familiarization.md",
+    "aliases": [
+      "熟",
+      "熟悉化",
+      "familiarizing oneself",
+      "familiarity"
+    ]
+  },
+  {
+    "title": "Family Social Model",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Family Social Model.md",
+    "aliases": [
+      "家庭社会关系模型",
+      "类亲属关系",
+      "family-based social relations"
     ]
   },
   {
@@ -43,6 +119,27 @@
     ]
   },
   {
+    "title": "Heart and Mind for Wanting to Learn",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Heart and Mind for Wanting to Learn.md",
+    "aliases": [
+      "好學心",
+      "hao-xue-xin",
+      "好学心"
+    ]
+  },
+  {
+    "title": "Humility in Learning",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Humility in Learning.md",
+    "aliases": [
+      "谦虚",
+      "谦逊",
+      "qian xun",
+      "humility"
+    ]
+  },
+  {
     "title": "Junzi",
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Junzi.md",
@@ -51,6 +148,39 @@
       "exemplary person",
       "gentleman",
       "nobleman"
+    ]
+  },
+  {
+    "title": "Learning Virtues",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Learning Virtues.md",
+    "aliases": [
+      "学习美德",
+      "Confucian learning virtues",
+      "seven learning virtues"
+    ]
+  },
+  {
+    "title": "Pride in Learning",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Pride in Learning.md",
+    "aliases": [
+      "骄傲",
+      "jiao-ao",
+      "驕傲",
+      "pride",
+      "自豪"
+    ]
+  },
+  {
+    "title": "Refined Mastery",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Refined Mastery.md",
+    "aliases": [
+      "精",
+      "精通",
+      "perfected mastery",
+      "thorough understanding"
     ]
   },
   {
@@ -130,6 +260,16 @@
     ]
   },
   {
+    "title": "Tongxue",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Tongxue.md",
+    "aliases": [
+      "同學",
+      "learning peer",
+      "learning friend"
+    ]
+  },
+  {
     "title": "Grice's Conversational Maxims",
     "type": "concept",
     "path": "wiki/concepts/communication-discourse/Grice's Conversational Maxims.md",
@@ -163,29 +303,6 @@
     ]
   },
   {
-    "title": "Action Better Than Words",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Action Better Than Words.md",
-    "aliases": [
-      "行勝於言",
-      "行胜于言",
-      "Facta non Verba",
-      "actions speak louder than words",
-      "slow to speak quick to act"
-    ]
-  },
-  {
-    "title": "Affect-Respect and Ought-Respect",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Affect-Respect and Ought-Respect.md",
-    "aliases": [
-      "情感性尊重",
-      "affect-respect",
-      "ought-respect",
-      "义务性尊重"
-    ]
-  },
-  {
     "title": "Certainty of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Certainty of Knowledge.md",
@@ -195,27 +312,6 @@
       "eternal truth",
       "absolute knowledge",
       "pursuit of certainty"
-    ]
-  },
-  {
-    "title": "Chinese Learner",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Chinese Learner.md",
-    "aliases": [
-      "中国学习者",
-      "Chinese learners"
-    ]
-  },
-  {
-    "title": "Codeswitcher",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Codeswitcher.md",
-    "aliases": [
-      "代码切换者",
-      "code switcher",
-      "codeswitching in school",
-      "effort hiding",
-      "努力隐藏"
     ]
   },
   {
@@ -241,16 +337,6 @@
     ]
   },
   {
-    "title": "Confucian Tutoring Style",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Confucian Tutoring Style.md",
-    "aliases": [
-      "儒家式辅导",
-      "Confucian tutoring",
-      "Confucian parenting style"
-    ]
-  },
-  {
     "title": "Cooperative Competition",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Cooperative Competition.md",
@@ -270,25 +356,6 @@
     ]
   },
   {
-    "title": "Cultural Defense Strategies",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Cultural Defense Strategies.md",
-    "aliases": [
-      "文化防御策略",
-      "cultural defensive strategies"
-    ]
-  },
-  {
-    "title": "Devil's Advocate",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Devil's Advocate.md",
-    "aliases": [
-      "魔鬼代言人",
-      "devil's advocate practice",
-      "devil's advocate speaking"
-    ]
-  },
-  {
     "title": "Discursive Opportunity Structures",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Discursive Opportunity Structures.md",
@@ -296,19 +363,6 @@
       "话语性机会结构",
       "话语机会结构",
       "discursive and institutional opportunity structures"
-    ]
-  },
-  {
-    "title": "Establishing One's Will",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Establishing One's Will.md",
-    "aliases": [
-      "立志",
-      "立志向学",
-      "lizhi",
-      "establish one's will",
-      "建立志向",
-      "determination in learning"
     ]
   },
   {
@@ -342,27 +396,6 @@
     ]
   },
   {
-    "title": "Familiarization",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Familiarization.md",
-    "aliases": [
-      "熟",
-      "熟悉化",
-      "familiarizing oneself",
-      "familiarity"
-    ]
-  },
-  {
-    "title": "Family Social Model",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Family Social Model.md",
-    "aliases": [
-      "家庭社会关系模型",
-      "类亲属关系",
-      "family-based social relations"
-    ]
-  },
-  {
     "title": "Faust",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Faust.md",
@@ -371,27 +404,6 @@
       "浮士德式交易",
       "Faustian bargain",
       "Faustian spirit"
-    ]
-  },
-  {
-    "title": "Heart and Mind for Wanting to Learn",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Heart and Mind for Wanting to Learn.md",
-    "aliases": [
-      "好學心",
-      "hao-xue-xin",
-      "好学心"
-    ]
-  },
-  {
-    "title": "Humility in Learning",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Humility in Learning.md",
-    "aliases": [
-      "谦虚",
-      "谦逊",
-      "qian xun",
-      "humility"
     ]
   },
   {
@@ -406,16 +418,6 @@
     ]
   },
   {
-    "title": "Intellectual-Social Divide",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Intellectual-Social Divide.md",
-    "aliases": [
-      "知性-社交二分",
-      "智识-社交分离",
-      "知性与社交的对立"
-    ]
-  },
-  {
     "title": "Learning Gap",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Learning Gap.md",
@@ -423,27 +425,6 @@
       "学习差距",
       "ability vs effort",
       "能力归因与努力归因"
-    ]
-  },
-  {
-    "title": "Learning Virtues",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Learning Virtues.md",
-    "aliases": [
-      "学习美德",
-      "Confucian learning virtues",
-      "seven learning virtues"
-    ]
-  },
-  {
-    "title": "Listening-Oriented Learning",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Listening-Oriented Learning.md",
-    "aliases": [
-      "倾听导向学习",
-      "listening-centred learning",
-      "silent participation",
-      "沉默参与"
     ]
   },
   {
@@ -485,17 +466,6 @@
       "mind-oriented process",
       "Western learning process",
       "心智导向"
-    ]
-  },
-  {
-    "title": "Nerd",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Nerd.md",
-    "aliases": [
-      "书呆子",
-      "geek",
-      "nerd harassment",
-      "anti-intellectual peer culture"
     ]
   },
   {
@@ -581,35 +551,12 @@
     ]
   },
   {
-    "title": "Pride in Learning",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Pride in Learning.md",
-    "aliases": [
-      "骄傲",
-      "jiao-ao",
-      "驕傲",
-      "pride",
-      "自豪"
-    ]
-  },
-  {
     "title": "Recontextualization",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Recontextualization.md",
     "aliases": [
       "再脉络化",
       "recontextualization"
-    ]
-  },
-  {
-    "title": "Refined Mastery",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Refined Mastery.md",
-    "aliases": [
-      "精",
-      "精通",
-      "perfected mastery",
-      "thorough understanding"
     ]
   },
   {
@@ -635,54 +582,12 @@
     ]
   },
   {
-    "title": "Socratic Tutoring Style",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Socratic Tutoring Style.md",
-    "aliases": [
-      "苏格拉底式辅导",
-      "Socratic tutoring",
-      "Socratic parenting style"
-    ]
-  },
-  {
-    "title": "Talent Assumption",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Talent Assumption.md",
-    "aliases": [
-      "天赋假设",
-      "innate ability assumption",
-      "fixed ability belief",
-      "天赋信念"
-    ]
-  },
-  {
-    "title": "Tall Poppy Syndrome",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Tall Poppy Syndrome.md",
-    "aliases": [
-      "高罂粟综合征",
-      "tall poppy",
-      "fall of the tall poppy",
-      "高罂粟"
-    ]
-  },
-  {
     "title": "Theories of Policy Change",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Theories of Policy Change.md",
     "aliases": [
       "政策变革理论",
       "政策变革"
-    ]
-  },
-  {
-    "title": "Tongxue",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Tongxue.md",
-    "aliases": [
-      "同學",
-      "learning peer",
-      "learning friend"
     ]
   },
   {
@@ -723,17 +628,6 @@
       "西方学习者",
       "Western learner model",
       "Western learning model"
-    ]
-  },
-  {
-    "title": "Zero-Sum Competition",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Zero-Sum Competition.md",
-    "aliases": [
-      "零和竞争",
-      "零和博弈式竞争",
-      "mutually exclusive competition",
-      "排他性竞争"
     ]
   },
   {
@@ -795,22 +689,6 @@
     "aliases": [
       "现象本位学习",
       "PhBL"
-    ]
-  },
-  {
-    "title": "Simple View of Reading",
-    "type": "concept",
-    "path": "wiki/concepts/curriculum/Simple View of Reading.md",
-    "aliases": [
-      "简单阅读观"
-    ]
-  },
-  {
-    "title": "Whole Language",
-    "type": "concept",
-    "path": "wiki/concepts/curriculum/Whole Language.md",
-    "aliases": [
-      "全语言"
     ]
   },
   {
@@ -889,14 +767,6 @@
     ]
   },
   {
-    "title": "Cargo Cult Science",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Cargo Cult Science.md",
-    "aliases": [
-      "货物崇拜科学"
-    ]
-  },
-  {
     "title": "Complexity Reduction",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Complexity Reduction.md",
@@ -913,22 +783,6 @@
       "生态博物馆",
       "ecomuseum",
       "ecomuseums"
-    ]
-  },
-  {
-    "title": "Epistemological Break",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Epistemological Break.md",
-    "aliases": [
-      "认识论断裂"
-    ]
-  },
-  {
-    "title": "Epistemological Vigilance",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Epistemological Vigilance.md",
-    "aliases": [
-      "认识论警觉"
     ]
   },
   {
@@ -1178,15 +1032,6 @@
     ]
   },
   {
-    "title": "Global Education Reform Movement",
-    "type": "concept",
-    "path": "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md",
-    "aliases": [
-      "GERM",
-      "全球教育改革运动"
-    ]
-  },
-  {
     "title": "Grade Retention",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Grade Retention.md",
@@ -1245,14 +1090,6 @@
     "path": "wiki/concepts/educational-policy-reform/Moral Sidestep.md",
     "aliases": [
       "道德回避"
-    ]
-  },
-  {
-    "title": "New Public Management",
-    "type": "concept",
-    "path": "wiki/concepts/educational-policy-reform/New Public Management.md",
-    "aliases": [
-      "新公共管理"
     ]
   },
   {
@@ -1324,17 +1161,6 @@
     ]
   },
   {
-    "title": "School Choice",
-    "type": "concept",
-    "path": "wiki/concepts/educational-policy-reform/School Choice.md",
-    "aliases": [
-      "择校",
-      "学校选择",
-      "parental school choice",
-      "school choice policy"
-    ]
-  },
-  {
     "title": "School Effectiveness",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/School Effectiveness.md",
@@ -1379,14 +1205,6 @@
       "考试问责",
       "test-oriented accountability",
       "high-stakes testing accountability"
-    ]
-  },
-  {
-    "title": "Venture Philanthropy",
-    "type": "concept",
-    "path": "wiki/concepts/educational-policy-reform/Venture Philanthropy.md",
-    "aliases": [
-      "风险慈善"
     ]
   },
   {
@@ -2335,6 +2153,16 @@
     ]
   },
   {
+    "title": "Devil's Advocate",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Devil's Advocate.md",
+    "aliases": [
+      "魔鬼代言人",
+      "devil's advocate practice",
+      "devil's advocate speaking"
+    ]
+  },
+  {
     "title": "Direct Instruction",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
@@ -2399,6 +2227,17 @@
     ]
   },
   {
+    "title": "Listening-Oriented Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Listening-Oriented Learning.md",
+    "aliases": [
+      "倾听导向学习",
+      "listening-centred learning",
+      "silent participation",
+      "沉默参与"
+    ]
+  },
+  {
     "title": "Problem-Based Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
@@ -2416,6 +2255,16 @@
       "话语重构",
       "teacher revoicing",
       "O'Connor and Michaels revoicing"
+    ]
+  },
+  {
+    "title": "Socratic Tutoring Style",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Socratic Tutoring Style.md",
+    "aliases": [
+      "苏格拉底式辅导",
+      "Socratic tutoring",
+      "Socratic parenting style"
     ]
   },
   {
@@ -2440,6 +2289,14 @@
     "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md",
     "aliases": [
       "可见学习"
+    ]
+  },
+  {
+    "title": "Whole Language",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Whole Language.md",
+    "aliases": [
+      "全语言"
     ]
   },
   {
@@ -2611,6 +2468,14 @@
     ]
   },
   {
+    "title": "Simple View of Reading",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Simple View of Reading.md",
+    "aliases": [
+      "简单阅读观"
+    ]
+  },
+  {
     "title": "Surface and Deep Learning",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Surface and Deep Learning.md",
@@ -2745,6 +2610,15 @@
     ]
   },
   {
+    "title": "Global Education Reform Movement",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Global Education Reform Movement.md",
+    "aliases": [
+      "GERM",
+      "全球教育改革运动"
+    ]
+  },
+  {
     "title": "Governmentality",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Governmentality.md",
@@ -2850,22 +2724,6 @@
     ]
   },
   {
-    "title": "Methodological Globalism",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Methodological Globalism.md",
-    "aliases": [
-      "方法论全球主义"
-    ]
-  },
-  {
-    "title": "Methodological Nationalism",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Methodological Nationalism.md",
-    "aliases": [
-      "方法论民族主义"
-    ]
-  },
-  {
     "title": "Mondialisation",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Mondialisation.md",
@@ -2907,6 +2765,14 @@
     "aliases": [
       "网络治理",
       "network governance in education"
+    ]
+  },
+  {
+    "title": "New Public Management",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/New Public Management.md",
+    "aliases": [
+      "新公共管理"
     ]
   },
   {
@@ -3081,6 +2947,14 @@
     ]
   },
   {
+    "title": "Venture Philanthropy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Venture Philanthropy.md",
+    "aliases": [
+      "风险慈善"
+    ]
+  },
+  {
     "title": "VUCA",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/VUCA.md",
@@ -3116,6 +2990,14 @@
     "aliases": [
       "黑箱RCT",
       "黑箱随机对照试验"
+    ]
+  },
+  {
+    "title": "Cargo Cult Science",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Cargo Cult Science.md",
+    "aliases": [
+      "货物崇拜科学"
     ]
   },
   {
@@ -3170,6 +3052,22 @@
     ]
   },
   {
+    "title": "Epistemological Break",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Epistemological Break.md",
+    "aliases": [
+      "认识论断裂"
+    ]
+  },
+  {
+    "title": "Epistemological Vigilance",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Epistemological Vigilance.md",
+    "aliases": [
+      "认识论警觉"
+    ]
+  },
+  {
     "title": "Gating Procedure",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Gating Procedure.md",
@@ -3210,6 +3108,22 @@
     "path": "wiki/concepts/research-methodology/Mechanism Experiments.md",
     "aliases": [
       "机制实验"
+    ]
+  },
+  {
+    "title": "Methodological Globalism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Methodological Globalism.md",
+    "aliases": [
+      "方法论全球主义"
+    ]
+  },
+  {
+    "title": "Methodological Nationalism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Methodological Nationalism.md",
+    "aliases": [
+      "方法论民族主义"
     ]
   },
   {
@@ -3338,6 +3252,18 @@
     ]
   },
   {
+    "title": "Codeswitcher",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Codeswitcher.md",
+    "aliases": [
+      "代码切换者",
+      "code switcher",
+      "codeswitching in school",
+      "effort hiding",
+      "努力隐藏"
+    ]
+  },
+  {
     "title": "Credential Inflation",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Credential Inflation.md",
@@ -3362,6 +3288,15 @@
     "path": "wiki/concepts/sociology-of-education/Cultural Capital.md",
     "aliases": [
       "文化资本"
+    ]
+  },
+  {
+    "title": "Cultural Defense Strategies",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Cultural Defense Strategies.md",
+    "aliases": [
+      "文化防御策略",
+      "cultural defensive strategies"
     ]
   },
   {
@@ -3464,6 +3399,16 @@
     ]
   },
   {
+    "title": "Intellectual-Social Divide",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Intellectual-Social Divide.md",
+    "aliases": [
+      "知性-社交二分",
+      "智识-社交分离",
+      "知性与社交的对立"
+    ]
+  },
+  {
     "title": "International Schools",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/International Schools.md",
@@ -3505,6 +3450,17 @@
     "path": "wiki/concepts/sociology-of-education/Membership-Creating Function of Education.md",
     "aliases": [
       "教育的成员资格创造功能"
+    ]
+  },
+  {
+    "title": "Nerd",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Nerd.md",
+    "aliases": [
+      "书呆子",
+      "geek",
+      "nerd harassment",
+      "anti-intellectual peer culture"
     ]
   },
   {
@@ -3555,6 +3511,17 @@
     ]
   },
   {
+    "title": "School Choice",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/School Choice.md",
+    "aliases": [
+      "择校",
+      "学校选择",
+      "parental school choice",
+      "school choice policy"
+    ]
+  },
+  {
     "title": "Science and Technology Studies",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Science and Technology Studies.md",
@@ -3598,6 +3565,28 @@
     "path": "wiki/concepts/sociology-of-education/Symbolic Boundary.md",
     "aliases": [
       "象征边界"
+    ]
+  },
+  {
+    "title": "Talent Assumption",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Talent Assumption.md",
+    "aliases": [
+      "天赋假设",
+      "innate ability assumption",
+      "fixed ability belief",
+      "天赋信念"
+    ]
+  },
+  {
+    "title": "Tall Poppy Syndrome",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Tall Poppy Syndrome.md",
+    "aliases": [
+      "高罂粟综合征",
+      "tall poppy",
+      "fall of the tall poppy",
+      "高罂粟"
     ]
   },
   {
@@ -3646,6 +3635,17 @@
     "aliases": [
       "工作意义三角图式",
       "三角图式结构"
+    ]
+  },
+  {
+    "title": "Zero-Sum Competition",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Zero-Sum Competition.md",
+    "aliases": [
+      "零和竞争",
+      "零和博弈式竞争",
+      "mutually exclusive competition",
+      "排他性竞争"
     ]
   },
   {
