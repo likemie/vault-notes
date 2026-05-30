@@ -6,7 +6,7 @@ aliases:
   - fidelity of implementation
   - implementation quality
 summary: "项目在真实学校中是否按设计要求和足够强度实施的概念，用于解释干预效果和证据评级为何不能只看显著性。"
-type: concept
+type: theory
 tags:
 - implementation-fidelity
 - implementation
@@ -16,13 +16,13 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Formative Assessment]]"
+  - "[[Logic Model]]"
   - "[[Statistical Significance]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Formative Program Evaluation]]"
-  - "[[Logic Model]]"
 related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"

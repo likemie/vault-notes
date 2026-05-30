@@ -7,7 +7,6 @@ extracted_to:
   - "[[Incarnation-Extension Dialectics]]"
   - "[[Learnification]]"
   - "[[Structural Coupling]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
   - "[[Neuroplasticity]]"
   - "[[Danish Public School Reform]]"
@@ -15,6 +14,7 @@ extracted_to:
   - "[[Niklas Luhmann]]"
   - "[[John Hattie]]"
   - "[[Luhmann's Systems Theory]]"
+  - "[[Critiques of Visible Learning]]"
 processed_date: 2026-05-04
 ---
 

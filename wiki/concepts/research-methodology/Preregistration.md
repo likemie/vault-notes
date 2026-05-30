@@ -14,9 +14,9 @@ tags:
 related_concepts:
   - "[[Publication Bias]]"
   - "[[Researcher Degrees of Freedom]]"
-  - "[[Implementation Fidelity]]"
   - "[[Developer Effect]]"
-related_theories: []
+related_theories:
+  - "[[Implementation Fidelity]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []

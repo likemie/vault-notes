@@ -15,8 +15,8 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Structured Teaching]]"
   - "[[Policy Borrowing]]"
+related_theories:
   - "[[Evidence-Based Education]]"
-related_theories: []
 related_methods:
   - "[[Rasch Measurement]]"
 related_persons: []

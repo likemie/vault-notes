@@ -16,13 +16,13 @@ tags:
 - level/k12
 related_concepts:
   - "[[Zhonghua Minzu]]"
-  - "[[Membership-Creating Function of Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[One Country, Two Systems]]"
   - "[[Sinicisation]]"
   - "[[Psychologisation]]"
 related_theories:
   - "[[Nation Building through Education]]"
+  - "[[Membership-Creating Function of Education]]"
 related_methods: []
 related_persons: []
 related_facts:

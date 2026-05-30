@@ -17,10 +17,10 @@ tags:
 related_concepts:
   - "[[Class Size]]"
   - "[[Effect Size]]"
+  - "[[Visible Learning]]"
+related_theories:
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Evidence-Based Education]]"
-  - "[[Visible Learning]]"
-related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"

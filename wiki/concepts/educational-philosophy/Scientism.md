@@ -13,13 +13,13 @@ related_concepts:
   - "[[Champ]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Cargo Cult Science]]"
-  - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
   - "[[Knowledge Production]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
+  - "[[Evidence-Based Education]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"

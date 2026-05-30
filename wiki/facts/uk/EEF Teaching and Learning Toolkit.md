@@ -22,11 +22,11 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Professional Judgment]]"
   - "[[Statistical Significance]]"
-  - "[[Evidence-Based Reform]]"
-  - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Moral Sidestep]]"
 related_theories:
+  - "[[Evidence-Based Reform]]"
+  - "[[Evidence-Based Education]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
 related_methods:
   - "[[Meta-analysis]]"

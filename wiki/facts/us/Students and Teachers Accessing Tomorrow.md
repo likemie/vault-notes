@@ -16,12 +16,12 @@ tags:
   - evidence-based-education
 related_concepts:
   - "[[Technology Infusion]]"
+  - "[[Logic Model]]"
   - "[[Class Size]]"
   - "[[Classroom Management]]"
+related_theories:
   - "[[Evidence-Based Education]]"
-related_theories: []
 related_methods:
-  - "[[Logic Model]]"
   - "[[Formative Program Evaluation]]"
 related_persons: []
 related_facts: []

@@ -25,8 +25,8 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Four Sprouts]]"
   - "[[The Great Learning]]"
+related_theories:
   - "[[Chinese Learner]]"
-related_theories: []
 related_methods: []
 related_persons:
   - "[[Confucius]]"

@@ -14,9 +14,9 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Publication Bias]]"
   - "[[Researcher Degrees of Freedom]]"
-  - "[[Implementation Fidelity]]"
   - "[[Preregistration]]"
-related_theories: []
+related_theories:
+  - "[[Implementation Fidelity]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Quasi-Experimental Designs]]"

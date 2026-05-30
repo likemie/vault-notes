@@ -15,9 +15,9 @@ tags:
   - level/k12
   - region/global
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Literature Review]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
 related_methods: []
 related_persons: []
 related_facts:

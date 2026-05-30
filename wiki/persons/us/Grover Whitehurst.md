@@ -11,10 +11,10 @@ tags:
 - rct
 - oeri
 - region/us
-related_concepts:
+related_concepts: []
+related_theories:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
-related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []

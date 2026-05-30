@@ -8,9 +8,9 @@ tags:
 - justified-warrants
 - evidence-based-policy
 - research-methodology
-related_concepts:
-  - "[[Evidence-Based Education]]"
+related_concepts: []
 related_theories:
+  - "[[Evidence-Based Education]]"
   - "[[Transactional Epistemology]]"
 related_methods:
   - "[[Carnivalesque Analysis]]"

@@ -14,11 +14,11 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Recommendations for Practice]]"
-  - "[[Evidence-Based Education]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Classroom Learning Culture]]"
   - "[[Learning-Impeding Behavior]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Non-intervention Research]]"
   - "[[Experimental Research]]"

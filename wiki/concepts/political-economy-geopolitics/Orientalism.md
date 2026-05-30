@@ -12,7 +12,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge Production]]"
-  - "[[Chinese Learner]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[International Education]]"
   - "[[Internationalization of Higher Education]]"
@@ -21,6 +20,7 @@ related_concepts:
   - "[[Hegemony]]"
   - "[[Sinicisation]]"
 related_theories:
+  - "[[Chinese Learner]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Critical Geopolitics]]"
 related_methods: []

@@ -11,7 +11,6 @@ tags:
 - school/world-society-theory
 related_concepts:
   - "[[Organizational Actorhood]]"
-  - "[[Otherhood]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemic Governance]]"
@@ -19,6 +18,7 @@ related_concepts:
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
+  - "[[Otherhood]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
 related_persons: []

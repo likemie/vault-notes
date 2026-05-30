@@ -4,7 +4,7 @@ aliases:
   - 中国学习者
   - Chinese learners
 summary: "以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象"
-type: concept
+type: theory
 tags:
   - region/china
   - region/hongkong
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Take the World Upon Oneself]]"
   - "[[International Education]]"
   - "[[Confucian Heritage Cultures]]"
-  - "[[Western Learner]]"
   - "[[Five Cardinal Relationships]]"
   - "[[Junzi]]"
   - "[[Sage]]"
@@ -33,15 +32,16 @@ related_concepts:
   - "[[Stereotype Threat]]"
   - "[[Quality Education]]"
   - "[[Heart and Mind for Wanting to Learn]]"
-  - "[[Ideal Learner]]"
   - "[[Examination Hell]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
   - "[[Meta-Cultural Sensitivity]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Western Learner]]"
   - "[[Cultural Models]]"
   - "[[Phenomenology]]"
+  - "[[Ideal Learner]]"
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:

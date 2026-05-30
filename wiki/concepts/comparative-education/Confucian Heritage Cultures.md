@@ -14,10 +14,10 @@ tags:
 - theme/cross-cultural-learning
 - theory/confucianism
 related_concepts:
-  - "[[Chinese Learner]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Rote Learning]]"
 related_theories:
+  - "[[Chinese Learner]]"
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"
 related_methods:

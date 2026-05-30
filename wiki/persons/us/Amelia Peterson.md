@@ -11,10 +11,10 @@ tags:
 - improvement-science
 - mechanism-experiments
 - region/us
-related_concepts:
-  - "[[Mechanism Experiments]]"
+related_concepts: []
 related_theories: []
 related_methods:
+  - "[[Mechanism Experiments]]"
   - "[[Improvement Science]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []

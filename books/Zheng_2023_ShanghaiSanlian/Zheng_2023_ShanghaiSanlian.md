@@ -23,8 +23,6 @@ extracted_to:
   - "[[Lost Mode]]"
   - "[[Opportunist Mode]]"
   - "[[Self-Driven Mode]]"
-  - "[[Symbolic Boundary]]"
-  - "[[The Shock of the Elite]]"
   - "[[Value Conformist Mode]]"
   - "[[Work Meaning Schemas]]"
   - "[[China College Graduate Employment Reform]]"
@@ -41,6 +39,8 @@ extracted_to:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory in Education]]"
+  - "[[Symbolic Boundary]]"
+  - "[[The Shock of the Elite]]"
 processed_date: 2026-05-09
 ---
 

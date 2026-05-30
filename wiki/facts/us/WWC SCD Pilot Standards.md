@@ -19,13 +19,13 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
-  - "[[Gating Procedure]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design]]"
   - "[[Intervention Research]]"
+  - "[[Gating Procedure]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"

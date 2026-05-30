@@ -13,7 +13,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"
-  - "[[Symbolic Boundary]]"
   - "[[Cultural Barrier in Higher Education]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
@@ -24,6 +23,7 @@ related_concepts:
   - "[[Social Engagement]]"
   - "[[Self-Authorship]]"
 related_theories:
+  - "[[Symbolic Boundary]]"
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory in Education]]"

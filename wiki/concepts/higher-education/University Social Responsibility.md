@@ -15,8 +15,8 @@ related_concepts:
   - "[[Third Mission (Universities)]]"
   - "[[Technology Transfer]]"
   - "[[Global Citizenship]]"
-  - "[[Otherhood]]"
 related_theories:
+  - "[[Otherhood]]"
   - "[[World Society Theory]]"
 related_methods: []
 related_persons: []

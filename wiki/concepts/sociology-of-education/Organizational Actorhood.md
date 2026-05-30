@@ -9,13 +9,13 @@ type: concept
 tags:
 - level/higher-ed
 related_concepts:
-  - "[[Otherhood]]"
   - "[[Entrepreneurial University]]"
   - "[[New Public Management]]"
   - "[[Global Universities Rankings]]"
   - "[[University Social Responsibility]]"
   - "[[Global Citizenship]]"
 related_theories:
+  - "[[Otherhood]]"
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
 related_methods: []

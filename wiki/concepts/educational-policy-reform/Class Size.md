@@ -11,13 +11,13 @@ tags:
 - level/k12
 related_concepts:
   - "[[Classroom Management]]"
-  - "[[Programme Fidelity vs Adaptation]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Effect Size]]"
   - "[[Constructive Alignment]]"
   - "[[Visible Learning]]"
   - "[[Material Fallacies]]"
-related_theories: []
+related_theories:
+  - "[[Programme Fidelity vs Adaptation]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"

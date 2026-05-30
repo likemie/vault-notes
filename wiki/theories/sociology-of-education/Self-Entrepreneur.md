@@ -2,7 +2,7 @@
 title: Self-Entrepreneur
 aliases: ["自我企业家", "企业型自我", "entrepreneurial self", "自我创业者"]
 summary: "Bröckling (2015) 提出的新自由主义主体性概念，指个体将自身视为需要不断投资、优化和营销的企业，其意愿和激情而非实际技能成为新的生产要素。"
-type: concept
+type: theory
 tags: ["theme/neoliberalism", "theme/subjectivity", "theme/employability"]
 related_concepts:
   - "[[Governmentality]]"

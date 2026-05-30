@@ -14,10 +14,10 @@ tags:
 related_concepts:
   - "[[Tracking]]"
   - "[[Atomisation of Knowledge and Skills]]"
-  - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []

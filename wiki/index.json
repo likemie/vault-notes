@@ -34,15 +34,6 @@
     ]
   },
   {
-    "title": "Chinese Learner",
-    "type": "concept",
-    "path": "wiki/concepts/chinese-philosophy/Chinese Learner.md",
-    "aliases": [
-      "中国学习者",
-      "Chinese learners"
-    ]
-  },
-  {
     "title": "Confucian Tutoring Style",
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Confucian Tutoring Style.md",
@@ -74,16 +65,6 @@
       "熟悉化",
       "familiarizing oneself",
       "familiarity"
-    ]
-  },
-  {
-    "title": "Family Social Model",
-    "type": "concept",
-    "path": "wiki/concepts/chinese-philosophy/Family Social Model.md",
-    "aliases": [
-      "家庭社会关系模型",
-      "类亲属关系",
-      "family-based social relations"
     ]
   },
   {
@@ -856,26 +837,6 @@
     ]
   },
   {
-    "title": "Evidence-Based Education",
-    "type": "concept",
-    "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
-    "aliases": [
-      "证据本位教育",
-      "循证教育",
-      "EBE",
-      "evidence-based policy in education",
-      "证据为本教育"
-    ]
-  },
-  {
-    "title": "Evidence-Based Reform",
-    "type": "concept",
-    "path": "wiki/concepts/educational-policy-reform/Evidence-Based Reform.md",
-    "aliases": [
-      "证据本位改革"
-    ]
-  },
-  {
     "title": "Evidence-Informed Practice",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Evidence-Informed Practice.md",
@@ -905,17 +866,6 @@
       "repeating a year",
       "nonpromotion",
       "redoublement"
-    ]
-  },
-  {
-    "title": "Implementation Fidelity",
-    "type": "concept",
-    "path": "wiki/concepts/educational-policy-reform/Implementation Fidelity.md",
-    "aliases": [
-      "实施忠实度",
-      "实施保真度",
-      "fidelity of implementation",
-      "implementation quality"
     ]
   },
   {
@@ -979,15 +929,6 @@
     "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md",
     "aliases": [
       "专业判断"
-    ]
-  },
-  {
-    "title": "Programme Fidelity vs Adaptation",
-    "type": "concept",
-    "path": "wiki/concepts/educational-policy-reform/Programme Fidelity vs Adaptation.md",
-    "aliases": [
-      "项目忠实性与适应",
-      "方案忠实性与适应"
     ]
   },
   {
@@ -1223,16 +1164,6 @@
       "boundary spanning",
       "professional innovation support officer",
       "专业创新支持官"
-    ]
-  },
-  {
-    "title": "Competitiveness in Higher Education",
-    "type": "concept",
-    "path": "wiki/concepts/higher-education/Competitiveness in Higher Education.md",
-    "aliases": [
-      "高等教育竞争力",
-      "竞争性地缘政治装置",
-      "competitive university"
     ]
   },
   {
@@ -2007,16 +1938,6 @@
     ]
   },
   {
-    "title": "Critiques of Visible Learning",
-    "type": "concept",
-    "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
-    "aliases": [
-      "可见学习批评",
-      "Visible Learning critiques",
-      "Criticism of Visible Learning"
-    ]
-  },
-  {
     "title": "Devil's Advocate",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Devil's Advocate.md",
@@ -2272,17 +2193,6 @@
     ]
   },
   {
-    "title": "Ideal Learner",
-    "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/Ideal Learner.md",
-    "aliases": [
-      "理想学习者",
-      "ideal learner image",
-      "ideal-learner image",
-      "理想学习者形象"
-    ]
-  },
-  {
     "title": "Intrinsic vs Extrinsic Motivation",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Intrinsic vs Extrinsic Motivation.md",
@@ -2330,17 +2240,6 @@
       "美德归因",
       "mind efficacy",
       "virtue efficacy"
-    ]
-  },
-  {
-    "title": "Mind-Oriented Learning Process",
-    "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/Mind-Oriented Learning Process.md",
-    "aliases": [
-      "心智导向学习过程",
-      "mind-oriented process",
-      "Western learning process",
-      "心智导向"
     ]
   },
   {
@@ -2436,16 +2335,6 @@
     ]
   },
   {
-    "title": "Surface and Deep Learning",
-    "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/Surface and Deep Learning.md",
-    "aliases": [
-      "表层学习与深层学习",
-      "表层学习",
-      "深层学习"
-    ]
-  },
-  {
     "title": "Synaptic Pruning",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Synaptic Pruning.md",
@@ -2467,27 +2356,6 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Updating and Monitoring.md",
     "aliases": [
       "更新与监控"
-    ]
-  },
-  {
-    "title": "Virtue-Oriented Learning Process",
-    "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/Virtue-Oriented Learning Process.md",
-    "aliases": [
-      "美德导向学习过程",
-      "virtue-oriented process",
-      "East Asian learning process",
-      "美德导向"
-    ]
-  },
-  {
-    "title": "Western Learner",
-    "type": "concept",
-    "path": "wiki/concepts/learning-science-cognitive-science/Western Learner.md",
-    "aliases": [
-      "西方学习者",
-      "Western learner model",
-      "Western learning model"
     ]
   },
   {
@@ -3476,14 +3344,6 @@
     ]
   },
   {
-    "title": "Membership-Creating Function of Education",
-    "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/Membership-Creating Function of Education.md",
-    "aliases": [
-      "教育的成员资格创造功能"
-    ]
-  },
-  {
     "title": "Nerd",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Nerd.md",
@@ -3524,15 +3384,6 @@
     ]
   },
   {
-    "title": "Otherhood",
-    "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/Otherhood.md",
-    "aliases": [
-      "为他者行动",
-      "他者代理"
-    ]
-  },
-  {
     "title": "Political Arithmetic",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Political Arithmetic.md",
@@ -3563,30 +3414,11 @@
     ]
   },
   {
-    "title": "Self-Entrepreneur",
-    "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/Self-Entrepreneur.md",
-    "aliases": [
-      "自我企业家",
-      "企业型自我",
-      "entrepreneurial self",
-      "自我创业者"
-    ]
-  },
-  {
     "title": "Stereotype Threat",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Stereotype Threat.md",
     "aliases": [
       "刻板印象威胁"
-    ]
-  },
-  {
-    "title": "Symbolic Boundary",
-    "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/Symbolic Boundary.md",
-    "aliases": [
-      "象征边界"
     ]
   },
   {
@@ -3618,14 +3450,6 @@
     "aliases": [
       "张力社会",
       "tension society"
-    ]
-  },
-  {
-    "title": "The Shock of the Elite",
-    "type": "concept",
-    "path": "wiki/concepts/sociology-of-education/The Shock of the Elite.md",
-    "aliases": [
-      "精英冲击"
     ]
   },
   {
@@ -3681,6 +3505,16 @@
     ]
   },
   {
+    "title": "Family Social Model",
+    "type": "theory",
+    "path": "wiki/theories/chinese-philosophy/Family Social Model.md",
+    "aliases": [
+      "家庭社会关系模型",
+      "类亲属关系",
+      "family-based social relations"
+    ]
+  },
+  {
     "title": "Neo-Confucianism",
     "type": "theory",
     "path": "wiki/theories/chinese-philosophy/Neo-Confucianism.md",
@@ -3703,12 +3537,32 @@
     ]
   },
   {
+    "title": "Chinese Learner",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Chinese Learner.md",
+    "aliases": [
+      "中国学习者",
+      "Chinese learners"
+    ]
+  },
+  {
     "title": "Hofstede's Cultural Dimensions",
     "type": "theory",
     "path": "wiki/theories/comparative-education/Hofstede's Cultural Dimensions.md",
     "aliases": [
       "霍夫斯泰德文化维度理论",
       "文化维度理论"
+    ]
+  },
+  {
+    "title": "Ideal Learner",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Ideal Learner.md",
+    "aliases": [
+      "理想学习者",
+      "ideal learner image",
+      "ideal-learner image",
+      "理想学习者形象"
     ]
   },
   {
@@ -3724,12 +3578,44 @@
     ]
   },
   {
+    "title": "Mind-Oriented Learning Process",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Mind-Oriented Learning Process.md",
+    "aliases": [
+      "心智导向学习过程",
+      "mind-oriented process",
+      "Western learning process",
+      "心智导向"
+    ]
+  },
+  {
     "title": "Nation Building through Education",
     "type": "theory",
     "path": "wiki/theories/comparative-education/Nation Building through Education.md",
     "aliases": [
       "教育建国",
       "教育国家建构"
+    ]
+  },
+  {
+    "title": "Virtue-Oriented Learning Process",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Virtue-Oriented Learning Process.md",
+    "aliases": [
+      "美德导向学习过程",
+      "virtue-oriented process",
+      "East Asian learning process",
+      "美德导向"
+    ]
+  },
+  {
+    "title": "Western Learner",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Western Learner.md",
+    "aliases": [
+      "西方学习者",
+      "Western learner model",
+      "Western learning model"
     ]
   },
   {
@@ -3911,11 +3797,31 @@
     ]
   },
   {
+    "title": "Critiques of Visible Learning",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/Critiques of Visible Learning.md",
+    "aliases": [
+      "可见学习批评",
+      "Visible Learning critiques",
+      "Criticism of Visible Learning"
+    ]
+  },
+  {
     "title": "Dynamic Knowledge and Learning Model",
     "type": "theory",
     "path": "wiki/theories/instruction-pedagogy/Dynamic Knowledge and Learning Model.md",
     "aliases": [
       "动态知识与学习模型"
+    ]
+  },
+  {
+    "title": "Surface and Deep Learning",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/Surface and Deep Learning.md",
+    "aliases": [
+      "表层学习与深层学习",
+      "表层学习",
+      "深层学习"
     ]
   },
   {
@@ -3998,6 +3904,16 @@
     ]
   },
   {
+    "title": "Competitiveness in Higher Education",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Competitiveness in Higher Education.md",
+    "aliases": [
+      "高等教育竞争力",
+      "竞争性地缘政治装置",
+      "competitive university"
+    ]
+  },
+  {
     "title": "Concealment-Exposure Framework",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Concealment-Exposure Framework.md",
@@ -4031,6 +3947,26 @@
     "path": "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md",
     "aliases": [
       "去殖民知识地缘政治"
+    ]
+  },
+  {
+    "title": "Evidence-Based Education",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Evidence-Based Education.md",
+    "aliases": [
+      "证据本位教育",
+      "循证教育",
+      "EBE",
+      "evidence-based policy in education",
+      "证据为本教育"
+    ]
+  },
+  {
+    "title": "Evidence-Based Reform",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Evidence-Based Reform.md",
+    "aliases": [
+      "证据本位改革"
     ]
   },
   {
@@ -4068,11 +4004,31 @@
     ]
   },
   {
+    "title": "Implementation Fidelity",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Implementation Fidelity.md",
+    "aliases": [
+      "实施忠实度",
+      "实施保真度",
+      "fidelity of implementation",
+      "implementation quality"
+    ]
+  },
+  {
     "title": "Potential Outcomes Framework",
     "type": "theory",
     "path": "wiki/theories/research-methodology/Potential Outcomes Framework.md",
     "aliases": [
       "潜在结果框架"
+    ]
+  },
+  {
+    "title": "Programme Fidelity vs Adaptation",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Programme Fidelity vs Adaptation.md",
+    "aliases": [
+      "项目忠实性与适应",
+      "方案忠实性与适应"
     ]
   },
   {
@@ -4136,6 +4092,23 @@
     ]
   },
   {
+    "title": "Membership-Creating Function of Education",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Membership-Creating Function of Education.md",
+    "aliases": [
+      "教育的成员资格创造功能"
+    ]
+  },
+  {
+    "title": "Otherhood",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Otherhood.md",
+    "aliases": [
+      "为他者行动",
+      "他者代理"
+    ]
+  },
+  {
     "title": "Rational Action Theory in Education",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Rational Action Theory in Education.md",
@@ -4149,6 +4122,33 @@
     "path": "wiki/theories/sociology-of-education/Refraction Framework.md",
     "aliases": [
       "折射框架"
+    ]
+  },
+  {
+    "title": "Self-Entrepreneur",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Self-Entrepreneur.md",
+    "aliases": [
+      "自我企业家",
+      "企业型自我",
+      "entrepreneurial self",
+      "自我创业者"
+    ]
+  },
+  {
+    "title": "Symbolic Boundary",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Symbolic Boundary.md",
+    "aliases": [
+      "象征边界"
+    ]
+  },
+  {
+    "title": "The Shock of the Elite",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/The Shock of the Elite.md",
+    "aliases": [
+      "精英冲击"
     ]
   },
   {

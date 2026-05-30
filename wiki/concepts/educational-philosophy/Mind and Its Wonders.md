@@ -16,8 +16,8 @@ tags:
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Certainty of Knowledge]]"
+related_theories:
   - "[[Western Learner]]"
-related_theories: []
 related_methods: []
 related_persons:
   - "[[Socrates]]"

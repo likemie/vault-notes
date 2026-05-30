@@ -14,12 +14,9 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Self-Cultivation]]"
-  - "[[Ideal Learner]]"
   - "[[Refined Mastery]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Familiarization]]"
-  - "[[Western Learner]]"
-  - "[[Chinese Learner]]"
   - "[[Benevolence]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Student-Teacher Relationship]]"
@@ -28,6 +25,9 @@ related_concepts:
   - "[[Cognitive Source]]"
   - "[[Rote Learning]]"
 related_theories:
+  - "[[Ideal Learner]]"
+  - "[[Western Learner]]"
+  - "[[Chinese Learner]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Prototype Methods]]"

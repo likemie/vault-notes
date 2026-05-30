@@ -12,11 +12,11 @@ tags:
 - paradigm/critical
 related_concepts:
   - "[[Abstract]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Cult of the Guru]]"
 related_theories:
+  - "[[Surface and Deep Learning]]"
   - "[[Radical Constructivism]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods: []

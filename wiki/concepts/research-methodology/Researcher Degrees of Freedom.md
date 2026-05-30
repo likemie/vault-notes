@@ -12,11 +12,11 @@ tags:
 - evidence-based-education
 related_concepts:
   - "[[Developer Effect]]"
-  - "[[Implementation Fidelity]]"
   - "[[Effect Size]]"
   - "[[Publication Bias]]"
   - "[[Preregistration]]"
-related_theories: []
+related_theories:
+  - "[[Implementation Fidelity]]"
 related_methods: []
 related_persons: []
 related_facts:

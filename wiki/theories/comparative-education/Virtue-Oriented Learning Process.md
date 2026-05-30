@@ -6,7 +6,7 @@ aliases:
   - East Asian learning process
   - 美德导向
 summary: "东亚文化学习过程模型，以诚心、勤奋、刻苦、恒心、专心、尊师和谦虚等学习美德组织学习行为，目标是通过美德实践实现自我完善"
-type: concept
+type: theory
 tags:
   - region/east-asia
   - theme/learning-process
@@ -18,17 +18,17 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Familiarization]]"
   - "[[Refined Mastery]]"
-  - "[[Chinese Learner]]"
-  - "[[Western Learner]]"
-  - "[[Ideal Learner]]"
   - "[[Pride in Learning]]"
   - "[[Sage]]"
-  - "[[Mind-Oriented Learning Process]]"
   - "[[Rote Learning]]"
   - "[[Junzi]]"
   - "[[Heart and Mind for Wanting to Learn]]"
 related_theories:
+  - "[[Chinese Learner]]"
+  - "[[Western Learner]]"
+  - "[[Ideal Learner]]"
   - "[[Neo-Confucianism]]"
+  - "[[Mind-Oriented Learning Process]]"
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"
 related_methods: []

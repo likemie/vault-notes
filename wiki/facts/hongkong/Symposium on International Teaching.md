@@ -13,8 +13,8 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[International Education]]"
+related_theories:
   - "[[Chinese Learner]]"
-related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

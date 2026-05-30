@@ -20,9 +20,9 @@ related_concepts:
   - "[[Sense of Shame]]"
   - "[[Cultural Disembedding]]"
   - "[[Value Conformist Mode]]"
-  - "[[The Shock of the Elite]]"
 related_theories:
   - "[[Culture as Toolkit]]"
+  - "[[The Shock of the Elite]]"
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"

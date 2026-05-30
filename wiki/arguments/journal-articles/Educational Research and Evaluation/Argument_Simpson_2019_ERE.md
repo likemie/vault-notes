@@ -19,8 +19,8 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
   - "[[Direct Instruction]]"
+related_theories:
   - "[[Evidence-Based Education]]"
-related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:

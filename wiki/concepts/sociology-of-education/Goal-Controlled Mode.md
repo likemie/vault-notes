@@ -14,7 +14,6 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Symbolic Boundary]]"
   - "[[Cultural Capital]]"
   - "[[Self-Authorship]]"
   - "[[Self-Driven Mode]]"
@@ -24,6 +23,7 @@ related_concepts:
   - "[[Social Engagement]]"
   - "[[Graduation Pathway Typology]]"
 related_theories:
+  - "[[Symbolic Boundary]]"
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory in Education]]"

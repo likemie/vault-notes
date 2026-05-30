@@ -20,8 +20,8 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[School Leadership]]"
   - "[[Knowledge Mobilisation]]"
+related_theories:
   - "[[Evidence-Based Education]]"
-related_theories: []
 related_methods:
   - "[[Experimental Research]]"
   - "[[Mixed Method and Multi-method Research]]"

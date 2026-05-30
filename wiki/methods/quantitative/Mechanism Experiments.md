@@ -15,11 +15,11 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[School Leadership]]"
-  - "[[Black Box RCTs]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Black Box RCTs]]"
 related_persons: []
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"

@@ -10,8 +10,8 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Discursive Opportunity Structures]]"
   - "[[Governmentality]]"
+related_theories:
   - "[[Self-Entrepreneur]]"
-related_theories: []
 related_methods:
   - "[[Ethnography]]"
 related_persons: []

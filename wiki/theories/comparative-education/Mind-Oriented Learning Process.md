@@ -6,21 +6,21 @@ aliases:
   - Western learning process
   - 心智导向
 summary: "Li (2012) 识别的西方文化学习过程模型，以心智发展为焦点，包含主动参与，探索与探究，思考与批判性思维，自我表达与沟通四个支柱"
-type: concept
+type: theory
 tags:
   - region/western
   - theme/learning-process
   - field/comparative-education
   - field/cultural-psychology
 related_concepts:
-  - "[[Western Learner]]"
   - "[[Research Topic]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Ideal Learner]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Examined Life]]"
   - "[[Mind and Its Wonders]]"
-related_theories: []
+related_theories:
+  - "[[Western Learner]]"
+  - "[[Ideal Learner]]"
 related_methods: []
 related_persons:
   - "[[John Dewey]]"

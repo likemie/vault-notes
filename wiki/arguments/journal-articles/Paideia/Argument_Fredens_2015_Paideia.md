@@ -16,11 +16,11 @@ tags:
 - level/k12
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
   - "[[Translational Research]]"
   - "[[Working Memory]]"
-related_theories: []
+related_theories:
+  - "[[Surface and Deep Learning]]"
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:

@@ -17,10 +17,10 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Effective Teaching]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Surface and Deep Learning]]"
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:

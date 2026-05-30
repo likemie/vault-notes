@@ -22,8 +22,8 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Effect Size]]"
   - "[[Feedback]]"
+related_theories:
   - "[[Surface and Deep Learning]]"
-related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"

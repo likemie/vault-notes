@@ -6,7 +6,6 @@ extracted_to:
   - "[[Neo-Taylorism in Educational Administration]]"
   - "[[Scientism]]"
   - "[[Class Size]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
   - "[[Global Education Reform Movement]]"
   - "[[Cargo Cult Science]]"
@@ -16,6 +15,7 @@ extracted_to:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
+  - "[[Critiques of Visible Learning]]"
 processed_date: 2026-05-04
 ---
 

@@ -8,9 +8,9 @@ tags:
 - constructive-alignment
 - subject/curriculum
 - level/higher-ed
-related_concepts:
+related_concepts: []
+related_theories:
   - "[[Surface and Deep Learning]]"
-related_theories: []
 related_methods: []
 related_persons:
   - "[[John Biggs]]"

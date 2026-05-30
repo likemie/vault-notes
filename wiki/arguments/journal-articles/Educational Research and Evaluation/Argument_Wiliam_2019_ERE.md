@@ -20,11 +20,11 @@ tags:
 - feedback
 - region/global
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Tracking]]"
   - "[[Effect Size]]"
 related_theories:
   - "[[Goldman's Discrimination Theory of Knowledge]]"
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Philosophical Analysis in Education]]"

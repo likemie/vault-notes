@@ -15,9 +15,9 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effective Teaching]]"
-  - "[[Evidence-Based Education]]"
   - "[[Policy Borrowing]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

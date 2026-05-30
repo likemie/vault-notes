@@ -18,11 +18,11 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Didaktik]]"
-  - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[Bildung]]"
   - "[[Effective Teaching]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"

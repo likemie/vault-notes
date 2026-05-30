@@ -12,10 +12,10 @@ tags:
 - level/k12
 - curriculum
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Visible Learning]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
 related_methods: []
 related_persons: []
 related_facts:

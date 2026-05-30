@@ -16,15 +16,15 @@ tags:
 - what-works
 - research-methodology
 related_concepts:
-  - "[[Mechanism Experiments]]"
   - "[[Literature Review]]"
-  - "[[Black Box RCTs]]"
   - "[[Spirals of Inquiry]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Improvement Science]]"
+  - "[[Mechanism Experiments]]"
+  - "[[Black Box RCTs]]"
 related_persons: []
 related_facts:
   - "[[Investing in Innovation Program]]"

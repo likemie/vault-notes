@@ -18,9 +18,9 @@ related_concepts:
   - "[[Sense of Shame]]"
   - "[[Cultural Disorientation]]"
   - "[[Lost Mode]]"
-  - "[[The Shock of the Elite]]"
   - "[[Confucian Heritage Cultures]]"
-related_theories: []
+related_theories:
+  - "[[The Shock of the Elite]]"
 related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"

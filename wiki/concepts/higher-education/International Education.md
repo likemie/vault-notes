@@ -13,9 +13,9 @@ related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[International Schools]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Chinese Learner]]"
   - "[[International Education Hubs]]"
-related_theories: []
+related_theories:
+  - "[[Chinese Learner]]"
 related_methods: []
 related_persons: []
 related_facts:

@@ -16,9 +16,9 @@ tags:
 - level/k12
 related_concepts:
   - "[[Class Size]]"
+related_theories:
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Evidence-Based Education]]"
-related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []

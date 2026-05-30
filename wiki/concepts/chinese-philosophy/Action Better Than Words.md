@@ -19,11 +19,11 @@ related_concepts:
   - "[[Junzi]]"
   - "[[Humility in Learning]]"
   - "[[Ritual Propriety]]"
-  - "[[Chinese Learner]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Chinese Learner]]"
 related_methods: []
 related_persons:
   - "[[Confucius]]"

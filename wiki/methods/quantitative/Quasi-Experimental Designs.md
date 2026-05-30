@@ -16,14 +16,14 @@ tags:
   - evidence-based-education
   - causal-inference
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
-  - "[[Implementation Fidelity]]"
+  - "[[Logic Model]]"
   - "[[Educational Evidence Clearinghouses]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
+  - "[[Implementation Fidelity]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Logic Model]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"

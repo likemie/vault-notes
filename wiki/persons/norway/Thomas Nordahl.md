@@ -16,12 +16,12 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
   - "[[Effect Size]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

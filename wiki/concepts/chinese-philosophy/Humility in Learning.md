@@ -16,8 +16,8 @@ related_concepts:
   - "[[Pride in Learning]]"
   - "[[Nerd]]"
   - "[[Intellectual-Social Divide]]"
+related_theories:
   - "[[Ideal Learner]]"
-related_theories: []
 related_methods: []
 related_persons:
   - "[[Confucius]]"

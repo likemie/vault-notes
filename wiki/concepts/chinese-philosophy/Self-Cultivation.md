@@ -16,11 +16,9 @@ tags:
   - theme/learning
 related_concepts:
   - "[[Four Sprouts]]"
-  - "[[Chinese Learner]]"
   - "[[Champ]]"
   - "[[Action Better Than Words]]"
   - "[[Take the World Upon Oneself]]"
-  - "[[Ideal Learner]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
   - "[[Establishing One's Will]]"
@@ -31,6 +29,8 @@ related_concepts:
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
+  - "[[Chinese Learner]]"
+  - "[[Ideal Learner]]"
 related_methods:
   - "[[Prototype Methods]]"
 related_persons:

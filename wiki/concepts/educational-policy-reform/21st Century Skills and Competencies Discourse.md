@@ -21,9 +21,9 @@ related_concepts:
   - "[[Employability]]"
   - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Self-Entrepreneur]]"
   - "[[Statistical Significance]]"
-related_theories: []
+related_theories:
+  - "[[Self-Entrepreneur]]"
 related_methods:
   - "[[Single-Case Design]]"
   - "[[Comparative Case Study]]"

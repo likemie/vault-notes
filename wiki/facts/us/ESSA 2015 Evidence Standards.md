@@ -15,13 +15,13 @@ tags:
 - rct
 - region/us
 related_concepts:
+  - "[[Logic Model]]"
   - "[[Learning Analytics]]"
   - "[[Preregistration]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Logic Model]]"
   - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts:

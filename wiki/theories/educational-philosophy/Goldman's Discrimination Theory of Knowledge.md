@@ -14,8 +14,8 @@ tags:
 - paradigm/analytic
 related_concepts:
   - "[[Tracking]]"
+related_theories:
   - "[[Evidence-Based Education]]"
-related_theories: []
 related_methods: []
 related_persons:
   - "[[Dylan Wiliam]]"

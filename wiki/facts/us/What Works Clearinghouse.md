@@ -19,13 +19,13 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
+related_theories:
   - "[[Evidence-Based Education]]"
-  - "[[Gating Procedure]]"
-related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Case Design]]"
+  - "[[Gating Procedure]]"
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"

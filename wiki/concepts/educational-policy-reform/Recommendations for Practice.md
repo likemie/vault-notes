@@ -9,9 +9,9 @@ tags:
 - research-methodology
 - evidence-based-education
 - causal-inference
-related_concepts:
+related_concepts: []
+related_theories:
   - "[[Evidence-Based Education]]"
-related_theories: []
 related_methods:
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"

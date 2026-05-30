@@ -16,11 +16,10 @@ tags:
   - policy/essa
   - method/formative-evaluation
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Absorptive Capacity]]"
   - "[[Literature Review]]"
   - "[[Technology Infusion]]"
-  - "[[Evidence-Based Reform]]"
+  - "[[Logic Model]]"
   - "[[Effect Size]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
@@ -30,10 +29,11 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Statistical Significance]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
 related_methods:
   - "[[Formative Program Evaluation]]"
-  - "[[Logic Model]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Experimental Research]]"

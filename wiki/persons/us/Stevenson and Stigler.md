@@ -7,8 +7,8 @@ nationality: us
 tags: ["region/us", "field/comparative-education", "field/developmental-psychology"]
 related_concepts:
   - "[[Learning Gap]]"
+related_theories:
   - "[[Chinese Learner]]"
-related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

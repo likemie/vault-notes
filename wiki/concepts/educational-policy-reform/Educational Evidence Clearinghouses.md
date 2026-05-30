@@ -15,8 +15,6 @@ tags:
 - region/uk
 - region/eu
 related_concepts:
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
   - "[[School Leadership]]"
   - "[[Statistical Significance]]"
@@ -25,9 +23,10 @@ related_concepts:
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[Transfer Translation Transformation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Gating Procedure]]"
   - "[[5-3-20 Rule]]"
 related_theories:
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
   - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -36,6 +35,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Single-Case Design]]"
+  - "[[Gating Procedure]]"
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"

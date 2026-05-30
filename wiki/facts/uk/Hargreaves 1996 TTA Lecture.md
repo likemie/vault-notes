@@ -13,10 +13,10 @@ tags:
 - teacher-training-agency
 - region/uk
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"

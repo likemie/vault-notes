@@ -13,12 +13,12 @@ tags:
 - region/uk
 related_concepts:
   - "[[Formative Assessment]]"
-  - "[[Evidence-Based Education]]"
   - "[[Tracking]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Validity as Inferences]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"

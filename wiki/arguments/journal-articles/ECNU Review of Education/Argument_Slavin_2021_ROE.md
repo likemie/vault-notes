@@ -16,11 +16,11 @@ tags:
 - region/uk
 - level/k12
 related_concepts:
-  - "[[Evidence-Based Reform]]"
-  - "[[Evidence-Based Education]]"
   - "[[School Leadership]]"
   - "[[Entrepreneur in Residence]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Reform]]"
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Randomised Controlled Trials]]"

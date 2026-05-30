@@ -14,14 +14,14 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
-  - "[[Otherhood]]"
-  - "[[Evidence-Based Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Literature Review]]"
   - "[[Epistemic Drift]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
+  - "[[Otherhood]]"
+  - "[[Evidence-Based Education]]"
 related_methods: []
 related_persons: []
 related_facts:

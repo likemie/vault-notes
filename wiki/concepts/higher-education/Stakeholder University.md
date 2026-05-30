@@ -16,9 +16,9 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"
-  - "[[Competitiveness in Higher Education]]"
   - "[[Academic Freedom]]"
 related_theories:
+  - "[[Competitiveness in Higher Education]]"
   - "[[Societies of Control]]"
 related_methods: []
 related_persons: []

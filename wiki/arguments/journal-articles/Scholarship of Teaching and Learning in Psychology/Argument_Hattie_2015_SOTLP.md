@@ -16,9 +16,9 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Feedback]]"
-related_theories: []
+related_theories:
+  - "[[Surface and Deep Learning]]"
 related_methods:
   - "[[Meta-analysis]]"
 related_persons:

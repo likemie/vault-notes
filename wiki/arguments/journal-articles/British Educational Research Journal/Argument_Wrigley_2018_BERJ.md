@@ -22,7 +22,6 @@ tags:
 - region/uk
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Feedback]]"
@@ -30,6 +29,7 @@ related_concepts:
 related_theories:
   - "[[Critical Realism]]"
   - "[[Appraisal Theory]]"
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"

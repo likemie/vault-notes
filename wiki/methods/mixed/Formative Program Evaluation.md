@@ -15,11 +15,11 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
+  - "[[Logic Model]]"
   - "[[Technology Infusion]]"
   - "[[Absorptive Capacity]]"
 related_theories: []
-related_methods:
-  - "[[Logic Model]]"
+related_methods: []
 related_persons: []
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"

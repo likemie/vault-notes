@@ -16,13 +16,13 @@ tags:
 - subject/instruction-pedagogy
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
   - "[[Learning Gap]]"
   - "[[Transfer Translation Transformation]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Quantitative Research]]"

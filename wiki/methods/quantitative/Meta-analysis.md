@@ -13,7 +13,6 @@ tags:
 - methodology
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
   - "[[Publication Bias]]"
   - "[[Whole Language]]"
@@ -22,6 +21,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Class Size]]"
 related_theories:
+  - "[[Evidence-Based Education]]"
   - "[[Critical Realism]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"

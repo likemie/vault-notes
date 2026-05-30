@@ -18,8 +18,8 @@ tags:
 related_concepts:
   - "[[Grade Retention]]"
   - "[[Literature Review]]"
+related_theories:
   - "[[Evidence-Based Reform]]"
-related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

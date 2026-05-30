@@ -14,10 +14,10 @@ tags:
   - region/uk
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Evidence-Based Reform]]"
 related_theories:
+  - "[[Evidence-Based Education]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
+  - "[[Evidence-Based Reform]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []

@@ -17,7 +17,6 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[5-3-20 Rule]]"
   - "[[Definition of Terms]]"
-  - "[[Gating Procedure]]"
   - "[[Theories of Policy Change]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -25,6 +24,7 @@ related_methods:
   - "[[Single-Subject Design]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Intervention Research]]"
+  - "[[Gating Procedure]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Hitchcock_2015_JBE]]"

@@ -15,9 +15,9 @@ tags:
 - rct
 - region/us
 related_concepts:
-  - "[[Evidence-Based Reform]]"
   - "[[Entrepreneur in Residence]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Reform]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []

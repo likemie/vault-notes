@@ -17,11 +17,11 @@ tags:
 related_concepts:
   - "[[Third Mission (Universities)]]"
   - "[[University Social Responsibility]]"
-  - "[[Otherhood]]"
   - "[[Literature Review]]"
   - "[[Epistemic Governance]]"
   - "[[Organizational Actorhood]]"
-related_theories: []
+related_theories:
+  - "[[Otherhood]]"
 related_methods: []
 related_persons: []
 related_facts:

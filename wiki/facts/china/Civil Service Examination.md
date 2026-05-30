@@ -18,9 +18,9 @@ tags:
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Sage]]"
-  - "[[Chinese Learner]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Chinese Learner]]"
 related_methods: []
 related_persons: []
 related_facts: []

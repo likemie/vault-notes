@@ -12,9 +12,9 @@ tags:
 - theory/cultural-psychology
 - region/cross-cultural
 - theme/cultural-model
-related_concepts:
+related_concepts: []
+related_theories:
   - "[[Ideal Learner]]"
-related_theories: []
 related_methods:
   - "[[Prototype Methods]]"
 related_persons: []

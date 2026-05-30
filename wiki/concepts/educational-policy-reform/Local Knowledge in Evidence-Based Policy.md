@@ -16,11 +16,11 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Programme Fidelity vs Adaptation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Technology Infusion]]"
 related_theories:
+  - "[[Evidence-Based Education]]"
+  - "[[Programme Fidelity vs Adaptation]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"

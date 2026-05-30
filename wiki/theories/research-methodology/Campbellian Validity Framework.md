@@ -13,17 +13,17 @@ tags:
 - research-methodology
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Gating Procedure]]"
   - "[[Postpositivism]]"
-  - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Case Design]]"
   - "[[Experimental Research]]"
+  - "[[Gating Procedure]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"

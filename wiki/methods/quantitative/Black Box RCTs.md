@@ -15,11 +15,11 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Mechanism Experiments]]"
   - "[[Publication Bias]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Mechanism Experiments]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:

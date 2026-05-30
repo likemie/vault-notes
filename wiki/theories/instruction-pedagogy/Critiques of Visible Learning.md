@@ -5,7 +5,7 @@ aliases:
   - Visible Learning critiques
   - Criticism of Visible Learning
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
-type: concept
+type: theory
 tags:
   - visible-learning
   - evidence-based-education
@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
-  - "[[Evidence-Based Education]]"
   - "[[Doxa]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Didaktik]]"
@@ -33,7 +32,6 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Learnification]]"
   - "[[Pure Evaluation]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Neuroplasticity]]"
   - "[[School Leadership]]"
   - "[[Self-Efficacy]]"
@@ -47,7 +45,9 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Structural Coupling]]"
 related_theories:
+  - "[[Evidence-Based Education]]"
   - "[[Appraisal Theory]]"
+  - "[[Surface and Deep Learning]]"
   - "[[Radical Constructivism]]"
   - "[[Phenomenology]]"
   - "[[Bounded Rationality]]"

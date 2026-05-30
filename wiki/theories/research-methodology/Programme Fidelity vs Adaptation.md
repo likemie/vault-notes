@@ -4,7 +4,7 @@ aliases:
   - 项目忠实性与适应
   - 方案忠实性与适应
 summary: "证据本位方案实施中的核心张力，指忠实复制原始方案与根据本地条件进行调整之间的平衡问题。"
-type: concept
+type: theory
 tags:
 - evidence-based-education
 - implementation
@@ -12,10 +12,10 @@ tags:
 - adaptation
 - level/k12
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Effect Size]]"
 related_theories:
+  - "[[Evidence-Based Education]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"

@@ -8,10 +8,10 @@ nationality: china
 tags:
 - tengteng-zhuang
 - region/china
-related_concepts:
+related_concepts: []
+related_theories:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
-related_theories: []
 related_methods: []
 related_persons: []
 related_arguments: []

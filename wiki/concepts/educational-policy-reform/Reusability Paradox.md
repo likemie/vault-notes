@@ -10,10 +10,10 @@ tags:
   - theme/program-implementation
   - region/eu
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+related_theories:
+  - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
-related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

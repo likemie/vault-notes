@@ -19,8 +19,8 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Whole Language]]"
+related_theories:
   - "[[Evidence-Based Education]]"
-related_theories: []
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

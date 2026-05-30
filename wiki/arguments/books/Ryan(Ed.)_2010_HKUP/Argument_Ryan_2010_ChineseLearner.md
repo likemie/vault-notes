@@ -15,7 +15,6 @@ tags:
 - level/k12
 - theme/cross-cultural
 related_concepts:
-  - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
   - "[[Orientalism]]"
   - "[[Stereotype Threat]]"
@@ -26,6 +25,7 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Quality Education]]"
 related_theories:
+  - "[[Chinese Learner]]"
   - "[[Hofstede's Cultural Dimensions]]"
 related_methods: []
 related_persons:

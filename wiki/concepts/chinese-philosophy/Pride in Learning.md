@@ -16,9 +16,9 @@ tags:
   - region/west
 related_concepts:
   - "[[Humility in Learning]]"
-  - "[[Western Learner]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
+  - "[[Western Learner]]"
 related_methods:
   - "[[MCC Discourse Analysis Examples]]"
 related_persons: []

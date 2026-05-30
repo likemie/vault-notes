@@ -37,7 +37,6 @@ related_concepts:
   - "[[Digital Optimum]]"
   - "[[Promising Student]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
   - "[[Economic Patriotism]]"
   - "[[Innovation Hub]]"
@@ -50,6 +49,7 @@ related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
+  - "[[Self-Entrepreneur]]"
 related_methods:
   - "[[Single-Case Design]]"
 related_persons:

@@ -11,10 +11,10 @@ tags:
 - region/uk
 - region/us
 related_concepts:
-  - "[[Programme Fidelity vs Adaptation]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
+  - "[[Programme Fidelity vs Adaptation]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Philosophical Analysis in Education]]"

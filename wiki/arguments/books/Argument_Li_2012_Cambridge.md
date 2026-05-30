@@ -18,7 +18,6 @@ tags:
   - theme/learning-model
   - theme/cultural-psychology
 related_concepts:
-  - "[[Ideal Learner]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Faust]]"
   - "[[Learning Virtues]]"
@@ -31,8 +30,6 @@ related_concepts:
   - "[[Enculturation]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Humility in Learning]]"
-  - "[[Western Learner]]"
-  - "[[Chinese Learner]]"
   - "[[Examined Life]]"
   - "[[Academic Freedom]]"
   - "[[University Motto]]"
@@ -59,11 +56,8 @@ related_concepts:
   - "[[Confucian Heritage Cultures]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Effective Teaching]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Intrinsic vs Extrinsic Motivation]]"
   - "[[Emic and Etic]]"
-  - "[[Mind-Oriented Learning Process]]"
-  - "[[Virtue-Oriented Learning Process]]"
   - "[[Flow]]"
   - "[[Executive Function]]"
   - "[[Entity vs Incremental Intelligence]]"
@@ -87,9 +81,15 @@ related_concepts:
   - "[[Xiaokang]]"
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
 related_theories:
+  - "[[Ideal Learner]]"
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
+  - "[[Western Learner]]"
+  - "[[Chinese Learner]]"
   - "[[Neo-Confucianism]]"
+  - "[[Surface and Deep Learning]]"
+  - "[[Mind-Oriented Learning Process]]"
+  - "[[Virtue-Oriented Learning Process]]"
   - "[[Phenomenology]]"
   - "[[Appraisal Theory]]"
   - "[[Attribution Theory]]"
@@ -1801,7 +1801,7 @@ Li 在第 2 章已经把探究确立为西方学习传统的核心（追溯到�
 >
 > **两张图并置看：循环 vs 网络——组织原则的几何证明**
 >
-> > [!abstract] 结构对比表
+> > [![[Abstract]]] 结构对比表
 > >
 > > | 维度 | Figure 4.1（西方） | Figure 4.2（中国） |
 > > |------|-------------------|-------------------|

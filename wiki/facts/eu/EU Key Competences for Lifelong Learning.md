@@ -19,8 +19,8 @@ tags:
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Employability]]"
+related_theories:
   - "[[Evidence-Based Reform]]"
-related_theories: []
 related_methods: []
 related_persons: []
 related_facts:

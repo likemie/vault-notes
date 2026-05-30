@@ -12,11 +12,11 @@ tags:
 - paradigm/pragmatist
 related_concepts:
   - "[[Pragmatism in China]]"
-  - "[[Evidence-Based Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Value-Based Education]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Randomised Controlled Trials]]"

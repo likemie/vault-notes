@@ -14,11 +14,11 @@ related_concepts:
   - "[[Pure Evaluation]]"
   - "[[Bildung]]"
   - "[[Effect Size]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Appraisal Theory]]"
   - "[[Radical Constructivism]]"
+  - "[[Surface and Deep Learning]]"
 related_methods: []
 related_persons:
   - "[[John Hattie]]"

@@ -13,12 +13,12 @@ tags:
 - implementation
 - paradigm/interpretivist
 related_concepts:
-  - "[[Mechanism Experiments]]"
   - "[[Spirals of Inquiry]]"
-  - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Evidence-Based Education]]"
+related_methods:
+  - "[[Mechanism Experiments]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"

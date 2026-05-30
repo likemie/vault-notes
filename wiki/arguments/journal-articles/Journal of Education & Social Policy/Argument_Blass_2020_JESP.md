@@ -18,10 +18,10 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"
   - "[[Literature Review]]"
-  - "[[Surface and Deep Learning]]"
   - "[[Didaktik]]"
   - "[[Direct Instruction]]"
-related_theories: []
+related_theories:
+  - "[[Surface and Deep Learning]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"

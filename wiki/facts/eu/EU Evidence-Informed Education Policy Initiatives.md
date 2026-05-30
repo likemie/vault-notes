@@ -16,13 +16,13 @@ tags:
   - theme/evidence-based-education
   - theme/educational-policy
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Reusability Paradox]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
 related_methods:
   - "[[Mixed Method and Multi-method Research]]"
 related_persons: []

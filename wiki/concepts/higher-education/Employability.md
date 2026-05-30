@@ -19,11 +19,11 @@ related_concepts:
   - "[[Credential Inflation]]"
   - "[[Social Engagement]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Self-Entrepreneur]]"
   - "[[Governmentality]]"
   - "[[Academic Engagement]]"
   - "[[Goal-Controlled Mode]]"
-related_theories: []
+related_theories:
+  - "[[Self-Entrepreneur]]"
 related_methods:
   - "[[Single-Case Design]]"
 related_persons:

@@ -12,10 +12,10 @@ tags:
 - ontology
 - epistemology
 - region/uk
-related_concepts:
-  - "[[Evidence-Based Education]]"
+related_concepts: []
 related_theories:
   - "[[Critical Realism]]"
+  - "[[Evidence-Based Education]]"
 related_methods: []
 related_persons:
   - "[[Ray Pawson]]"

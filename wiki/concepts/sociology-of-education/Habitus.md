@@ -14,12 +14,12 @@ tags:
 related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Champ]]"
-  - "[[The Shock of the Elite]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Self-Authorship]]"
   - "[[Cultural Barrier in Higher Education]]"
   - "[[New Public Management]]"
 related_theories:
+  - "[[The Shock of the Elite]]"
   - "[[Culture as Toolkit]]"
 related_methods:
   - "[[Ethnography]]"

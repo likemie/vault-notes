@@ -7,7 +7,7 @@ aliases:
   - evidence-based policy in education
   - 证据为本教育
 summary: "主张教育实践应更多建立在系统研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
-type: concept
+type: theory
 tags:
 - evidence-based-education
 - evidence-based-practice
@@ -17,10 +17,8 @@ tags:
 - paradigm/positivist
 - region/global
 related_concepts:
-  - "[[Evidence-Based Reform]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[Mechanism Experiments]]"
   - "[[Champ]]"
   - "[[Tracking]]"
   - "[[Professional Judgment]]"
@@ -43,6 +41,7 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories:
+  - "[[Evidence-Based Reform]]"
   - "[[Tullock's Bureaucracy Theory]]"
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -54,6 +53,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Qualitative Research]]"
   - "[[Single-Case Design]]"
+  - "[[Mechanism Experiments]]"
   - "[[Improvement Science]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Meta-meta-analysis]]"

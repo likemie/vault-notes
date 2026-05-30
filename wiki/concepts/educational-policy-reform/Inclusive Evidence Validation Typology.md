@@ -14,8 +14,8 @@ tags:
   - region/belgium
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+related_theories:
   - "[[Evidence-Based Reform]]"
-related_theories: []
 related_methods:
   - "[[Experimental Research]]"
   - "[[Quasi-Experimental Designs]]"

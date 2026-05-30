@@ -10,9 +10,9 @@ tags:
 - evidence-based-education
 - educational-research-methodology
 - region/uk
-related_concepts:
+related_concepts: []
+related_theories:
   - "[[Evidence-Based Education]]"
-related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"

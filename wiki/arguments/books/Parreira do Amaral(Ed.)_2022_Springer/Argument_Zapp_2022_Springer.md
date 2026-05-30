@@ -13,7 +13,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Epistemic Governance]]"
-  - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
   - "[[Constructivist Paradigm]]"
   - "[[Literature Review]]"
@@ -29,6 +28,7 @@ related_concepts:
   - "[[Third Mission (Universities)]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[Otherhood]]"
   - "[[Cultural Models]]"
   - "[[Systems of Innovation]]"
 related_methods: []

@@ -15,9 +15,9 @@ tags:
 - legal
 - evidence-standards
 - subject/research-methodology
-related_concepts:
+related_concepts: []
+related_theories:
   - "[[Evidence-Based Education]]"
-related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []

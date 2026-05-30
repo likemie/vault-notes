@@ -12,9 +12,9 @@ tags:
 - paradigm/critical
 - region/global
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
 related_theories:
+  - "[[Evidence-Based Education]]"
   - "[[Transactional Epistemology]]"
 related_methods: []
 related_persons:

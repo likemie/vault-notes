@@ -17,13 +17,13 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Sage]]"
   - "[[Faust]]"
-  - "[[Ideal Learner]]"
   - "[[University Motto]]"
   - "[[Self-Cultivation]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Effective Teaching]]"
-related_theories: []
+related_theories:
+  - "[[Ideal Learner]]"
 related_methods: []
 related_persons:
   - "[[Socrates]]"

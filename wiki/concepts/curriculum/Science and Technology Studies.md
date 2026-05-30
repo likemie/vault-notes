@@ -16,9 +16,9 @@ related_concepts:
   - "[[International Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Postpositivism]]"
-  - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Sociology of Measurement]]"
+  - "[[Evidence-Based Education]]"
 related_methods: []
 related_persons: []
 related_facts:

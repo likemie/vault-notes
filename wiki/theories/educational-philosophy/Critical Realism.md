@@ -14,8 +14,8 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Classroom Management]]"
+related_theories:
   - "[[Evidence-Based Education]]"
-related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"

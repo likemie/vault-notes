@@ -16,11 +16,11 @@ tags:
   - policy/compulsory-education
 related_concepts:
   - "[[Grade Retention]]"
-  - "[[Evidence-Based Education]]"
   - "[[Inclusive Evidence Validation Typology]]"
-  - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
 related_methods:
   - "[[Experimental Research]]"
 related_persons: []

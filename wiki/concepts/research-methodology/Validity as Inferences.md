@@ -11,9 +11,9 @@ tags:
 - research-methodology
 - evidence-based-education
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Tracking]]"
-related_theories: []
+related_theories:
+  - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Observational and Correlational Research]]"

@@ -18,7 +18,6 @@ extracted_to:
   - "[[Mondialisation]]"
   - "[[New Public Management]]"
   - "[[Transitology]]"
-  - "[[Membership-Creating Function of Education]]"
   - "[[Regional University Alliances]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Francisco Varela]]"
@@ -29,6 +28,7 @@ extracted_to:
   - "[[Donna Haraway]]"
   - "[[Autopoiesis]]"
   - "[[Transition Design]]"
+  - "[[Membership-Creating Function of Education]]"
 processed_date: 2026-05-08
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---
