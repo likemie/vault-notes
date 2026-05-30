@@ -395,7 +395,7 @@ Total entries: **935**
 - [[Transformative Paradigm]] — 一种将研究探究与政治变革议程紧密交织的研究哲学立场，以对抗社会压迫和赋权边缘群体为核心，要求研究者与参与者合作推动社会改革
 - [[Validity as Inferences]] — 效度被理解为推论的属性而非测试或实验本身的属性，验证是持续修正推论边界与证据基础的过程
 - [[Variable]] — 量化研究中可被测量或观察且在不同个体或组织之间变化的特征或属性，是构建理论、提出假设和检验因果关系的基本分析单位
-- [[Voice, Tense, and Concision in Academic Writing]] — Franklin (1986) 三阶段模型中打磨层面的三项语言规范——主动语态优于被动、动词时态遵循 APA (2020) 指南、修剪多余词语（fat），共同构成学术写作在句子和词语层面的可读性基础
+- [[Voice, Tense, and Concision in Academic Writing]] — Franklin (1986) 三阶段模型的打磨层面，包含主动语态优于被动、动词时态遵循 APA (2020) 指南、修剪多余词语三项语言规范，共同构成学术写作在句子和词语层面的可读性基础
 - [[Writing Habit]] — Boice (1990) 提出的学术写作生产力策略体系，以每日定时定量写作为核心，辅以时间追踪图表、任务拆解和同伴分享，反对间歇暴写和周末写作者模式
 
 ### Sociology of Education
