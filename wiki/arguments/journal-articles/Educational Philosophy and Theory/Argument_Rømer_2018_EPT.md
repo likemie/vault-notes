@@ -18,6 +18,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Technical Rationality]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Didaktik]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -78,7 +79,7 @@ updated: '2026-05-18'
 > 4. 构造了"研究笼子"（research cage）：高信度、高内部一致性，但因变量和自变量相互循环定义，与研究对象本身没有任何接触——以牺牲效度和外部环境对应为代价（Rømer, 2018, p.5-6）
 >
 > ### 论证三：[[Radical Constructivism|激进建构主义]]消解教学概念——双重瓦解
-> 1. Hattie 以 Glasersfeld 的激进建构主义为出发点，完全接受其建构主义学习观
+> 1. Hattie 以 Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]为出发点，完全接受其建构主义学习观
 > 2. Hattie 不满建构主义缺乏[[Didaktik|教学理论]]，试图在此基础上添加"教师中心的教学"
 > 3. 但建构主义本身建立在攻击教师（作为文化和专业权威）的基础上
 > 4. Hattie 因此在"无教师"的前提下构建教师——结果是一个双重的"无教师"

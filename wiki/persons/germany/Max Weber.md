@@ -12,7 +12,6 @@ tags:
   - interpretivism
   - region/germany
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Champ]]"
   - "[[Corporate Education]]"
   - "[[Habitus]]"
@@ -111,7 +110,7 @@ updated: 2026-05-26
 ### 1892 — *Die Lage der Landarbeiter im ostelbischen Deutschland*
 
 - **APA**：Weber, M. (1892). *Die Lage der Landarbeiter im ostelbischen Deutschland*. Duncker & Humblot.
-- **核心内容**：为社会政策协会所作的大规模经验调查，研究易北河以东农业工人的[[Transfer Translation Transformation|迁移]]、阶层结构与民族政治问题。
+- **核心内容**：为社会政策协会所作的大规模经验调查，研究易北河以东农业工人的迁移、阶层结构与民族政治问题。
 - **思想位置**：这是 Weber 从法学家转向国民经济学和社会政策研究的重要节点。其材料处理已经显示出后来的理想类型、支配关系和资本主义企业家精神等分析线索（Dilcher, 2007; Müller & Sigmund, 2014）。
 - **相关概念／理论**：社会政策、民族国家、农业资本主义、理想类型萌芽。
 

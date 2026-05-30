@@ -12,6 +12,7 @@ tags:
 - paradigm/critical
 related_concepts:
   - "[[Surface and Deep Learning]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Cult of the Guru]]"
 related_theories:
@@ -72,7 +73,7 @@ updated: '2026-05-18'
 >
 > 2. **中介环节 Bereiter**：Bereiter (2002) 已经对 Popper 做了关键化简：将"文化对象"缩减为"真理与非真理"，排除贝多芬交响乐这类 Popper 本人常用的 World 3 示例。但 Bereiter 至少保留了"心灵之外的知识"（knowledge outside the mind）以及 World 2（学习）与 World 3（知识建构）的区分。Hattie 进一步抹除了这一区分。
 >
-> 3. **实在论 vs 建构主义的根本矛盾**：Popper 是哲学实在论者，Hattie 是主观建构主义者。Hattie 用建构主义吞噬了实在论：Popper 的"批评、大胆猜想、实验和证伪"词汇残留在 VL 中，但被重构为制造 d>0.4 的学习方法，完全丧失了与文化和科学对象的接触。
+> 3. **实在论 vs [[Constructivist Paradigm|建构主义]]的根本矛盾**：Popper 是哲学实在论者，Hattie 是主观建构主义者。Hattie 用建构主义吞噬了实在论：Popper 的"批评、大胆猜想、实验和证伪"词汇残留在 VL 中，但被重构为制造 d>0.4 的学习方法，完全丧失了与文化和科学对象的接触。
 >
 > 4. **后果**：以 Popper 命名的教育理论实际上服务于 Popper 哲学在认识论上的精确对立面——[[Radical Constructivism|激进建构主义]]、唯我论和认知主义。最终得到"一个没有教育和贝多芬交响乐的世界"（Rømer, 2018, p.11）。
 

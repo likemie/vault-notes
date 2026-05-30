@@ -23,6 +23,7 @@ related_theories:
   - "[[Radical Constructivism]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Quantitative Research]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
@@ -58,7 +59,7 @@ updated: '2026-05-19'
 > [!abstract] 主要著作
 > - Nielsen, K., & Klitmøller, J. (2017). Blinde pletter i den synlige læring: Kritiske kommentarer til "Hattierevolutionen" [Blind spots in [[Visible Learning]]]. *Nordic Studies in Education*, 37(1), 3–18. — 对 VL 理论和经验基础的早期批判
 > - Klitmøller, J., & Nielsen, K. (2017). [[John Hattie]] som uddannelsesteoretiker—En kritik af teorien om synlig læring [John Hattie as educational theorist]. *Dansk pædagogisk tidsskrift*, (2), 3–15. — 对 VL 作为教育理论的系统批判
-> - Klitmøller, J., & Nielsen, K. (2019). Kritikken af kvaliteten af Hattie's kvantitative forskning [A critique of the quality of Hattie's quantitative research]. *Paideia*, 18, 65. — 对 VL 量化方法论的丹麦语详细批判
+> - Klitmøller, J., & Nielsen, K. (2019). Kritikken af kvaliteten af Hattie's kvantitative forskning [A critique of the quality of Hattie's [[Quantitative Research]]]. *Paideia*, 18, 65. — 对 VL 量化方法论的丹麦语详细批判
 > - Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational psychology. *International Review of Theoretical Psychologies*, 1(1), 78–92. — 运用 Habermas 合法化危机理论解释 VL 全球流行的英文理论分析
 > - Nielsen, K., & Klitmøller, J. (2021). Blind spots in visible learning: A critique of John Hattie as an educational theorist. *Nordic Psychology*. — 以[[Technical Rationality|技术理性]]为框架论证 Hattie 是教育理论家（而非纯统计学家），追溯其行为主义谱系（Skinner→Glaser→Hattie），对 VL 反馈效应进行 5 项[[Meta-analysis|元分析]]逐项细读审查
 

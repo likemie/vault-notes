@@ -13,6 +13,7 @@ tags:
 - paradigm/constructivist
 - level/k12
 related_concepts:
+  - "[[Constructivist Paradigm]]"
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
   - "[[Updating and Monitoring]]"
@@ -39,7 +40,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> [[Jean Piaget|皮亚杰]]的认知发展理论基于四个年龄依赖的阶段，儿童在不同生命阶段以不同方式思维和推理（Bolton & [[John Hattie|Hattie]], 2017, p.2）。皮亚杰是第一位系统研究认知发展的心理学家，提出建构主义理论，开创了考察学习的新方法（Bolton & Hattie, 2017, p.1）。
+> [[Jean Piaget|皮亚杰]]的认知发展理论基于四个年龄依赖的阶段，儿童在不同生命阶段以不同方式思维和推理（Bolton & [[John Hattie|Hattie]], 2017, p.2）。皮亚杰是第一位系统研究认知发展的心理学家，提出[[Constructivist Paradigm|建构主义]]理论，开创了考察学习的新方法（Bolton & Hattie, 2017, p.1）。
 >
 > > "Piaget was the first psychologist to systematically investigate cognitive development by proposing the theory of constructivism and thereby creating a new approach to examine learning. He stated that children think and reason differently at distinct periods in their lives."（Bolton & Hattie, 2017, p.1）
 

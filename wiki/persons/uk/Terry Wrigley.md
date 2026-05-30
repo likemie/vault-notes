@@ -18,6 +18,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Moral Sidestep]]"
+  - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Third Generation Activity Theory]]"
@@ -109,7 +110,7 @@ updated: '2026-05-19'
 
 > [!note-] 对后续研究的影响
 > - Wrigley（2018）对 EEF Toolkit 的方法论批判被 Bainbridge et al.（2022, p.3）引用，作为讨论英国议会选择性教育政策辩论中证据使用问题的理论基础——标志着 Wrigley 的批判从方法论研究进入政策分析领域
-> - Wrigley & McCusker (2019, p. 123) 援引 Biesta（2010, p. 496）的开放/递归/符号[[Luhmann's Systems Theory|系统理论]]作为批判 EBT 方法论的核心依据——"将开放系统视为封闭系统来对待是不科学的"——形成了批判实在论与实用主义教育哲学在方法论批判中的交汇
+> - Wrigley & McCusker (2019, p. 123) 援引 Biesta（2010, p. 496）的开放/递归/符号[[Luhmann's Systems Theory|系统理论]]作为批判 EBT 方法论的核心依据——"将开放系统视为封闭系统来对待是不科学的"——形成了批判实在论与[[Pragmatic Paradigm|实用主义]]教育哲学在方法论批判中的交汇
 > - 其"简单科学观"概念为后续 EBE 批判者提供了区别于"反科学"立场的话语资源
 
 ## 争议与批评

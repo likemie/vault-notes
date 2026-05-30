@@ -18,6 +18,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Scientific Attitude]]"
   - "[[Recontextualization]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Academic Freedom]]"
   - "[[Classroom Management]]"
   - "[[Professional Judgment]]"
@@ -74,7 +75,7 @@ updated: 2026-05-26
 
 - **1859** — 出生于美国佛蒙特州伯灵顿；早年接受新英格兰清教文化影响，后来对权威主义教育和固定教条保持持续批判。
 - **1879–1884** — 1879 年毕业于佛蒙特大学，短暂任中学和小学教师；1884 年获约翰·霍普金斯大学哲学博士学位，学习经历连接了德国观念论、实验心理学和早期[[Pragmatism in China|实用主义]]传统。
-- **1884–1894** — 任教于密歇根大学和明尼苏达大学。1890 年代逐渐从黑格尔式观念论转向经验主义、实验主义和实用主义。
+- **1884–1894** — 任教于密歇根大学和明尼苏达大学。1890 年代逐渐从黑格尔式观念论转向经验主义、实验主义和[[Pragmatic Paradigm|实用主义]]。
 
 ---
 

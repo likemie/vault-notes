@@ -7,13 +7,13 @@ extracted_to:
   - "[[Kimberly Ochs]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Cross-National Attraction]]"
-  - "[[Policy Borrowing]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
   - "[[A Nation at Risk 1983]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Jeremy Rappleye]]"
   - "[[Gita Steiner-Khamsi]]"
+  - "[[Policy Borrowing]]"
 processed_date: 2026-05-06
 ---
 

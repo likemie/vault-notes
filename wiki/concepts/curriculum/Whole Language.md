@@ -16,6 +16,7 @@ related_concepts:
   - "[[Language Experience Approach]]"
   - "[[Simple View of Reading]]"
   - "[[Direct Instruction]]"
+  - "[[Constructivist Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -77,7 +78,7 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - Goodman（1967）的心理语言学阅读模型：阅读是一个"心理语言学猜测游戏"，读者利用语义、句法和字形线索预测和建构意义
-> - 建构主义学习理论：知识由学习者在真实情境中主动建构
+> - [[Constructivist Paradigm|建构主义]]学习理论：知识由学习者在真实情境中主动建构
 > - 读写作为社会文化实践的理论：理解读写不能脱离其社会、文化和政治语境
 
 ## 实证发现

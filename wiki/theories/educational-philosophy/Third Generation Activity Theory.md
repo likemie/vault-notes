@@ -17,8 +17,10 @@ tags:
 related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Learner-Centred Education]]"
+  - "[[Constructivist Paradigm]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Ethnography]]"
 related_persons:
   - "[[Yrjö Engeström]]"
 related_facts: []
@@ -90,9 +92,9 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 ## 认识论立场
 
 > [!info]
-> - **本体论与认识论**：社会文化建构主义——人类认知和行为由社会文化情境塑造，不能脱离具体活动系统来理解
+> - **本体论与认识论**：社会文化[[Constructivist Paradigm|建构主义]]——人类认知和行为由社会文化情境塑造，不能脱离具体活动系统来理解
 > - **分析单元**：集体活动系统，而非个体行为
-> - **常用方法**：质性案例研究、民族志、发展性工作研究（developmental work research）；关注系统层面的互动、矛盾和转型，而非个体层面的变量关系
+> - **常用方法**：质性案例研究、[[Ethnography|民族志]]、发展性工作研究（developmental work research）；关注系统层面的互动、矛盾和转型，而非个体层面的变量关系
 
 ---
 

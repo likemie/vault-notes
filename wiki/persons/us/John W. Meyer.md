@@ -13,6 +13,7 @@ related_concepts:
   - "[[Organizational Actorhood]]"
   - "[[Otherhood]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Epistemic Governance]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
@@ -110,7 +111,7 @@ updated: '2026-05-19'
 > [!success]
 > - 在比较教育和高等教育研究领域：Meyer 的[[World Society Theory|世界社会理论]]是 Zapp (2022) 分析大学在全球治理中角色的核心理论资源——Zapp 用 [[Otherhood]] 解释大学为何在去中心化的全球治理中占据独特位置，用 actorhood 解释大学从"象牙塔"向"完全组织"的转型，用世界社会理论解释全球治理为何依赖大学的知识权威（Zapp, 2022, pp.145, 148–149）
 > - 在组织社会学领域：Bromley & Meyer (2015) 的 [[Organizational Actorhood]] 四维度模型已成为分析大学、国际组织、NGO 等非国家行动者组织变迁的标准化框架
-> - 在国际关系学领域：世界社会理论与建构主义 IR（Wendt, 1999; Barnett & Finnemore, 2004）形成对话和互补，共同推动了全球治理研究从"硬治理"向 [[Epistemic Governance|知识治理]] 的范式转移——观念、规范和[[Cultural Models|文化模型]]而非军事和经济实力，成为分析全球化与全球治理的核心范畴（Zapp, 2022, p.145）
+> - 在国际关系学领域：世界社会理论与[[Constructivist Paradigm|建构主义]] IR（Wendt, 1999; Barnett & Finnemore, 2004）形成对话和互补，共同推动了全球治理研究从"硬治理"向 [[Epistemic Governance|知识治理]] 的范式转移——观念、规范和[[Cultural Models|文化模型]]而非军事和经济实力，成为分析全球化与全球治理的核心范畴（Zapp, 2022, p.145）
 > - 斯坦福学派的研究网络——包括 Francisco Ramirez、David P. Baker、Patricia Bromley、David John Frank 等——持续扩展和深化了世界社会理论在跨国比较研究中的应用，覆盖教育、组织、人权、环境等多个政策领域
 
 ---

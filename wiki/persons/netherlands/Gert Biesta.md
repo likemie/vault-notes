@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Pragmatism in China]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Value-Based Education]]"
   - "[[Learnification]]"
   - "[[Complexity Reduction]]"
@@ -53,7 +54,7 @@ updated: '2026-05-19'
 > - 曾任教于英国斯特灵大学（The Stirling Institute of Education）
 > - 后任卢森堡大学（University of Luxembourg）教授
 > - 现任爱丁堡大学（University of Edinburgh）教育和体育学院教授，兼任荷兰人文研究大学（University of Humanistic Studies）教育学教授
-> - 2003 年与 Burbules 合作出版 *[[Pragmatism in China|pragmatism]] and Educational Research*，奠定其 [[John Dewey|Dewey]] 式实用主义教育哲学基础
+> - 2003 年与 Burbules 合作出版 *[[Pragmatism in China|pragmatism]] and Educational Research*，奠定其 [[John Dewey|Dewey]] 式[[Pragmatic Paradigm|实用主义]]教育哲学基础
 > - 2007–2010 年发表对[[Evidence-Based Education|证据本位教育]]的系列批判（2007a, 2010），确立其作为 EBE 最主要哲学批评者的地位
 > - 2010 年代后期关注教育中的"美"、被动性与教学的重塑（2017, 2022）
 

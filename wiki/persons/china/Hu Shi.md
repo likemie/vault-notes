@@ -13,6 +13,7 @@ tags:
   - discipline/literature
 related_concepts:
   - "[[Pragmatism in China]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Scientism]]"
 related_theories: []
 related_methods: []
@@ -35,7 +36,7 @@ updated: 2026-05-26
 ## 简介
 
 > [!info]
-> 胡适（1891–1962），中国现代作家、哲学家、外交官，[[New Culture Movement|新文化运动]]与[[May Fourth Movement|五四运动]]的核心人物。哥伦比亚大学毕业后师从[[John Dewey|杜威]]，是杜威 1919–1921 年访华期间的主要翻译者和中介人。他将[[Pragmatism in China|实用主义]]（pragmatism）翻译为"实验主义"（shiyanzhuyi），并将杜威的方法论极端化为一种彻底反传统、崇尚西方科学的立场，深刻影响了民国时期的中国思想界与教育改革（Schulte, 2009, pp.72–73）。
+> 胡适（1891–1962），中国现代作家、哲学家、外交官，[[New Culture Movement|新文化运动]]与[[May Fourth Movement|五四运动]]的核心人物。哥伦比亚大学毕业后师从[[John Dewey|杜威]]，是杜威 1919–1921 年访华期间的主要翻译者和中介人。他将[[Pragmatism in China|实用主义]]（[[Pragmatic Paradigm|pragmatism]]）翻译为"实验主义"（shiyanzhuyi），并将杜威的方法论极端化为一种彻底反传统、崇尚西方科学的立场，深刻影响了民国时期的中国思想界与教育改革（Schulte, 2009, pp.72–73）。
 
 ## 生平与职涯
 
@@ -54,7 +55,7 @@ updated: 2026-05-26
 
 胡适将[[John Dewey|杜威]]的[[Pragmatism in China|实用主义]]哲学转化为中国语境下的思想武器，其核心立场集中体现在三个方面：
 
-**实用主义作为方法论的极端化**。胡适将杜威的主张"实用主义必须主要被视为一种方法"转变为"杜威从头到尾只把实用主义当作一种方法"（Tan 2004, pp.51–52，引自 Schulte, 2009, p.72）。通过这一极端化，他消解了实用主义内部可能容纳温和改革的空间，将科学方法等同于唯一的真理途径。
+**[[Pragmatic Paradigm|实用主义]]作为方法论的极端化**。胡适将杜威的主张"实用主义必须主要被视为一种方法"转变为"杜威从头到尾只把实用主义当作一种方法"（Tan 2004, pp.51–52，引自 Schulte, 2009, p.72）。通过这一极端化，他消解了实用主义内部可能容纳温和改革的空间，将科学方法等同于唯一的真理途径。
 
 **以科学反迷信**。与杜威不同，胡适并不担心[[Scientism|科学主义]]（[[Scientism]]）的问题——在中国语境下，他看到迷信才是现代科学的真正敌人。实用主义被他用作"武器"来对抗迷信（Yuan 2001，引自 Schulte, 2009, p.72）。
 

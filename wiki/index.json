@@ -796,11 +796,13 @@
     ]
   },
   {
-    "title": "Constructivist Worldview",
+    "title": "Constructivist Paradigm",
     "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Constructivist Worldview.md",
+    "path": "wiki/concepts/educational-philosophy/Constructivist Paradigm.md",
     "aliases": [
       "建构主义",
+      "建构主义范式",
+      "建构主义世界观",
       "社会建构主义",
       "social constructivism",
       "constructivist worldview",
@@ -945,14 +947,16 @@
     ]
   },
   {
-    "title": "Pragmatic Worldview",
+    "title": "Pragmatic Paradigm",
     "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Pragmatic Worldview.md",
+    "path": "wiki/concepts/educational-philosophy/Pragmatic Paradigm.md",
     "aliases": [
+      "实用主义",
+      "实用主义范式",
       "实用主义研究",
       "实用主义世界观",
-      "实用主义",
-      "pragmatic worldview"
+      "pragmatic worldview",
+      "pragmatism"
     ]
   },
   {
@@ -1036,13 +1040,15 @@
     ]
   },
   {
-    "title": "Transformative Worldview",
+    "title": "Transformative Paradigm",
     "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Transformative Worldview.md",
+    "path": "wiki/concepts/educational-philosophy/Transformative Paradigm.md",
     "aliases": [
       "变革主义",
+      "变革主义范式",
       "变革主义世界观",
       "转化主义",
+      "transformative worldview",
       "transformative paradigm"
     ]
   },

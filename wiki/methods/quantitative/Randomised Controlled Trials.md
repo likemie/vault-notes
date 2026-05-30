@@ -16,10 +16,10 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Tracking]]"
   - "[[Pragmatism in China]]"
   - "[[Stable Unit Treatment Value Assumption]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Side Effects in Education]]"
   - "[[Mechanism Experiments]]"
   - "[[Black Box RCTs]]"
@@ -30,6 +30,7 @@ related_theories:
   - "[[Critical Realism]]"
 related_methods:
   - "[[Intervention Research]]"
+  - "[[Experimental Research]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Non-intervention Research]]"
@@ -53,8 +54,8 @@ sources:
   - "[[Wadhwa_2024_RER]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
-  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
@@ -156,13 +157,13 @@ updated: '2026-05-18'
 >
 > 药物试验通过严格筛选参与者来消除其他可能原因的干扰。在教育中，消除学习者多样化特征的"干扰"是不可想象的。此外，随机化在教育 RCT 中罕见，因为学校班级通常是预成的（Wrigley & McCusker, 2019, p. 115）。
 >
-> Wiliam (2019, p.6) 以 Tennessee [[Tennessee STAR Project 1985-1989|STAR]] 项目为此提供了经典例证：参与学校系统性地不同于全州平均水平——规模更大（因为每所学校每年级需约 60 名学生）、非裔学生比例高出州平均超过 40%（Hanushek, 1999）。正如 Cartwright 和 Joyce 在特刊中所指出的，"要外推就必须假设参与研究的学校代表未参与的学校，而这显然不成立"。Joyce 进一步指出："即使 RCT 设计良好且忠实实施，向未包含在试验中的情境的外推仅在研究执行的情境能够代表其他情境时才被保证——而这不可能被建立。我们永远不能知道'什么有效'，而只能知道'什么曾经有效'。"（Wiliam, 2019, p.6）
+> Wiliam (2019, p.6) 以 Tennessee STAR 项目为此提供了经典例证：参与学校系统性地不同于全州平均水平——规模更大（因为每所学校每年级需约 60 名学生）、非裔学生比例高出州平均超过 40%（Hanushek, 1999）。正如 Cartwright 和 Joyce 在特刊中所指出的，"要外推就必须假设参与研究的学校代表未参与的学校，而这显然不成立"。Joyce 进一步指出："即使 RCT 设计良好且忠实实施，向未包含在试验中的情境的外推仅在研究执行的情境能够代表其他情境时才被保证——而这不可能被建立。我们永远不能知道'什么有效'，而只能知道'什么曾经有效'。"（Wiliam, 2019, p.6）
 >
 > #### 随机分配在教育中的脆弱性
 >
 > Wiliam (2019, pp.6–7) 记录了 Tennessee STAR 项目中随机分配被破坏的两个具体机制：
 >
-> 1. **家长干预**：当一些家长发现孩子被分配到大班后，向学校施压将孩子转至小班。Sohn (2015) 发现在平均更有效的学校中，更富裕学生在小班中过度代表——小班中观察到的更高成就可能至少部分由高成就学生向小班[[Transfer Translation Transformation|迁移]]造成。
+> 1. **家长干预**：当一些家长发现孩子被分配到大班后，向学校施压将孩子转至小班。Sohn (2015) 发现在平均更有效的学校中，更富裕学生在小班中过度代表——小班中观察到的更高成就可能至少部分由高成就学生向小班迁移造成。
 >
 > 2. **数据缺失的差异分布**：缺失数据在大班中比在小班中更常见，进一步破坏了随机化假设。
 >
@@ -200,11 +201,11 @@ updated: '2026-05-18'
 >
 > Berk (2011, p.195) 援引多位受尊敬的经济学家（Heckman & Smith, 1995; Heckman, 2000; Deaton, 2008）的核心观点：因果效应估计"几乎是没用的，除非人们也了解因果效应产生的机制"。随机实验正冒着只产出效应量估计而缺乏机制理解的风险。
 >
-> > "One is not likely to be interested in the results of a randomized experiment unless they provide guidance for future interventions; the intent is to affect subsequent policy decisions." (Berk, 2011, p.195)
+> > "One is not likely to be interested in the results of a [[Experimental Research|randomized experiment]] unless they provide guidance for future interventions; the intent is to affect subsequent policy decisions." (Berk, 2011, p.195)
 >
 > Berk 因此反对非随机研究被断然否定的做法："这是一个严重错误，尤其当内部效度仅仅是多种重要效度之一时"。例如，一项针对领取失业补偿者的强制性职业培训 RCT——其结果可能无法为自愿性项目推广提供充分有用的估计。"那么，一个有理由采用内部效度低于 RCT 但外部效度实质性改善的研究设计"（Berk, 2011, p.195）。
 >
-> **实用主义辩护："铜标准"与"当前知识基准"**
+> **[[Pragmatic Paradigm|实用主义]]辩护："铜标准"与"当前知识基准"**
 >
 > 尽管提出了上述批评，Berk (2011, p.196) 也提供了对 RCT 的一个独特的实用主义辩护："也许随机分配的最强理由是，它比其它设计更能防止研究者犯严重的统计错误。……准实验和观察性研究设计的分析通常需要更多的统计技能和对必要统计工具的更深入理解。"他将此立场概括为"铜标准"（bronze standard, Berk 2005）。
 >
@@ -293,7 +294,7 @@ updated: '2026-05-18'
 
 
 - [[Intervention Research]] — RCT 是干预研究的随机分配版本；Brady et al. (2023) 将二者区分编码，以显示"有自变量操纵"和"有随机分配"不是同一层证据要求（Brady et al., 2023, p.4）。
-- [[Non-intervention Research]] — 非干预研究不操纵自变量；Brady et al. (2023) 以 RCT/实验研究作为对照，批评非干预研究中强[[Recommendations for Practice|实践建议]]的因果证据不足（Brady et al., 2023, pp.3-4, 9）。
+- [[Non-intervention Research]] — 非干预研究不操纵自变量；Brady et al. (2023) 以 RCT/[[Experimental Research|实验研究]]作为对照，批评非干预研究中强[[Recommendations for Practice|实践建议]]的因果证据不足（Brady et al., 2023, pp.3-4, 9）。
 - [[Observational and Correlational Research]] — 观察/相关研究可生成干预假设，但没有随机分配和变量操纵；Brady et al. (2023) 的趋势数据表明，此类研究中的 RFP 比例持续上升（Brady et al., 2023, pp.6-7）。
 
 ## 使用此方法的研究

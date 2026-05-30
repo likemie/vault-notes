@@ -10,6 +10,7 @@ tags:
   - qualitative-research
   - paradigm/interpretivist
 related_concepts:
+  - "[[Constructivist Paradigm]]"
   - "[[Peidu]]"
   - "[[School Choice]]"
   - "[[Learner-Centred Education]]"
@@ -48,7 +49,7 @@ updated: 2026-05-26
 > [!abstract] 认识论立场
 > - **诠释学范式**：社会行动的意义并非客观存在等待被发现，而是由行动者主观建构、研究者通过对话来理解的。深度访谈的目标不是"测量"预设变量，而是进入受访者"编织的意义之网"（Geertz, 1973）
 > - **[[Max Weber|韦伯]]传统**：社会学的基本任务是"对以意向为取向的行为作解释性的理解"——深度访谈是实现这一任务的直接工具
-> - **建构主义取向**：知识在访谈对话中共同生产，而非从受访者脑中"提取"。研究者的提问方式、回应策略和在场状态都参与了意义的建构
+> - **[[Constructivist Paradigm|建构主义]]取向**：知识在访谈对话中共同生产，而非从受访者脑中"提取"。研究者的提问方式、回应策略和在场状态都参与了意义的建构
 
 ## 核心特征
 

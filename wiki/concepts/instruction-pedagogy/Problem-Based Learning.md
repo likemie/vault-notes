@@ -11,6 +11,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Phenomenon-Based Learning]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
   - "[[Visible Learning]]"
@@ -41,7 +42,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 问题式学习（Problem-Based Learning, PBL）是一种以问题驱动学习的教学方法。学生在小组中协作，先面对一个问题以激活其先前知识，然后构建理论或心理模型来解释该问题的底层因果结构，随后通过持续学习、讨论和解决问题来精炼其心理模型（Schmidt, Rotgans, & Yew, 2011, p.793; [[John Hattie|Hattie]], 2015, p.85）。
 >
-> 在芬兰 [[Phenomenon-Based Learning]] 的讨论中，PBL 常被视为 PhBL 的近缘传统之一。Schaffar & Wolff (2024) 指出，芬兰 PhBL 确实吸收了 PBL 和 inquiry-based learning 的建构主义学习观，但它还受[[Phenomenology|现象学]]、existentialism、[[Bildung]] 与 [[Didaktik]] 影响，因此不能简单等同于 PBL（Schaffar & Wolff, 2024, pp.2, 8）。
+> 在芬兰 [[Phenomenon-Based Learning]] 的讨论中，PBL 常被视为 PhBL 的近缘传统之一。Schaffar & Wolff (2024) 指出，芬兰 PhBL 确实吸收了 PBL 和 inquiry-based learning 的[[Constructivist Paradigm|建构主义]]学习观，但它还受[[Phenomenology|现象学]]、existentialism、[[Bildung]] 与 [[Didaktik]] 影响，因此不能简单等同于 PBL（Schaffar & Wolff, 2024, pp.2, 8）。
 >
 > > "Students are presented with a problem in order to activate their prior knowledge. This prior knowledge is then built upon further as the learners collaborate in small groups to construct a theory or proposed mental model to explain the problem in terms of its underlying causal structure." (Schmidt, Rotgans, & Yew, 2011, p.793)
 
@@ -66,7 +67,7 @@ updated: '2026-05-18'
 > | Newman | 2004 | 12 | −0.30 | 医学院 PBL |
 > | Gijbels et al. | 2005 | 40 | 0.32 | PBL 评估结果 |
 > | Walker | 2008 | 82 | 0.13 | 跨学科 PBL |
-> | Schmidt et al. | 2009 | 10 | −0.18 | 建构主义 PBL 医学知识 |
+> | Schmidt et al. | 2009 | 10 | −0.18 | [[Constructivist Paradigm\|建构主义]] PBL 医学知识 |
 > | Leary et al. | 2013 | 94 | 0.24 | PBL 综合 |
 >
 > （Hattie, 2015, p.85, Table 2）
@@ -132,7 +133,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs [[Direct Instruction]] — PBL 以学生自主探究为驱动，直接教学以教师主导的结构化讲解为驱动。[[John Hattie|Hattie]] (2015) 的[[Effect Size|效应量]]对比（d≈0.12 vs d=0.60）显示在平均效应上直接教学更优，但 PBL 的效果高度依赖于学生的先备知识水平
-> - vs [[Phenomenon-Based Learning]] — PBL 通常从"问题"组织学习，PhBL 从"现象"组织学习。两者都可采用建构主义学习观，但 PhBL 在芬兰语境中还承担跨学科、生活世界、具身经验和教育目的论反思的功能（Schaffar & Wolff, 2024, pp.2-3, 8）。
+> - vs [[Phenomenon-Based Learning]] — PBL 通常从"问题"组织学习，PhBL 从"现象"组织学习。两者都可采用[[Constructivist Paradigm|建构主义]]学习观，但 PhBL 在芬兰语境中还承担跨学科、生活世界、具身经验和教育目的论反思的功能（Schaffar & Wolff, 2024, pp.2-3, 8）。
 
 ## 相关案例／政策
 

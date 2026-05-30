@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Policy Borrowing]]"
   - "[[Geopolitics of Knowledge]]"
@@ -115,7 +116,7 @@ Auld & Morris (2016) 指出，[[PISA]] 等国际比较测试作为"最佳实践"
 ## 认识论立场
 
 > [!info]
-> - 本体论与认识论立场：社会建构主义——社会现实不是客观给定的，而是通过共享的[[Cultural Models|文化模型]]、规范和认知框架被建构的
+> - 本体论与认识论立场：[[Constructivist Paradigm|社会建构主义]]——社会现实不是客观给定的，而是通过共享的[[Cultural Models|文化模型]]、规范和认知框架被建构的
 > - 分析层次：宏观的全球层次，关注世界层面的制度化过程如何塑造民族国家、组织和个体
 > - 常用研究方法：跨国比较分析、历史档案分析、全球文本和话语分析
 

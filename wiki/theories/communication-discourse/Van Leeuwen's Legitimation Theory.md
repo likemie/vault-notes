@@ -14,6 +14,7 @@ tags:
 - critical-discourse-analysis
 related_concepts:
   - "[[Justified Warrants]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Moral Sidestep]]"
 related_theories: []
@@ -86,7 +87,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!info] 认识论立场
-> 合法化理论属于**批判话语分析（Critical Discourse Analysis）**传统。其认识论立场是社会建构主义——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
+> 合法化理论属于**批判话语分析（Critical Discourse Analysis）**传统。其认识论立场是[[Constructivist Paradigm|社会建构主义]]——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
 >
 > 这与 [[Evidence-Based Education|证据本位教育]] 中隐含的实证主义认识论形成张力——后者假定证据质量本身决定其政策影响力，而合法化理论揭示价值对齐可能是更重要的变量（Bainbridge et al., 2022, p.9, 27）。
 >

@@ -11,6 +11,7 @@ tags:
 - paradigm/constructivist
 - region/switzerland
 related_concepts:
+  - "[[Constructivist Paradigm]]"
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
 related_theories:
@@ -33,7 +34,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 瑞士心理学家，建构主义与认知发展阶段论的创始人。他是第一位系统研究认知发展的心理学家，开创了考察学习的新方法（Bolton & [[John Hattie|Hattie]], 2017, p.1）。
+> 瑞士心理学家，[[Constructivist Paradigm|建构主义]]与认知发展阶段论的创始人。他是第一位系统研究认知发展的心理学家，开创了考察学习的新方法（Bolton & [[John Hattie|Hattie]], 2017, p.1）。
 
 ## 核心思想
 
@@ -50,7 +51,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Piaget's Theory of Cognitive Development|piagets-theory-of-cognitive-development]] — 认知发展的四阶段建构主义理论
+> - [[Piaget's Theory of Cognitive Development|piagets-theory-of-cognitive-development]] — 认知发展的四阶段[[Constructivist Paradigm|建构主义]]理论
 
 ## 思想发展与影响
 

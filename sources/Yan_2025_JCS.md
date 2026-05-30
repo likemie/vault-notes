@@ -12,8 +12,8 @@ extracted_to:
   - "[[Paul Morris]]"
   - "[[Larry Cuban]]"
   - "[[Nation Building through Education]]"
-  - "[[Cuban's Curriculum Change Theory]]"
   - "[[Policy Borrowing]]"
+  - "[[Cuban's Curriculum Change Theory]]"
 processed_date: 2026-05-01
 ---
 

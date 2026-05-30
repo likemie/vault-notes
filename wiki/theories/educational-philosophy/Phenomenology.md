@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Phenomenon-Based Learning]]"
   - "[[Champ]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Neuroplasticity]]"
   - "[[Bildung]]"
   - "[[Visible Learning]]"
@@ -71,7 +72,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与批评
 > - **操作化困难**：现象学提供了强大的教育理解框架，但很难被直接转换为标准化课程指标或评估量表。它因此常被用来批评当代政策把知识和能力拆成可测量单元的倾向（Schaffar & Wolff, 2024, p.10）。
-> - **与建构主义的关系**：芬兰 [[Phenomenon-Based Learning|PhBL]] 同时继承现象学与建构主义。二者都反对简单客观主义，但建构主义常被课程心理学吸收为学习理论；现象学则更强调存在、身体、情感、生活世界和世界对人的召唤（Schaffar & Wolff, 2024, pp.3, 8, 11）。
+> - **与[[Constructivist Paradigm|建构主义]]的关系**：芬兰 [[Phenomenon-Based Learning|PhBL]] 同时继承现象学与建构主义。二者都反对简单客观主义，但建构主义常被课程心理学吸收为学习理论；现象学则更强调存在、身体、情感、生活世界和世界对人的召唤（Schaffar & Wolff, 2024, pp.3, 8, 11）。
 
 ## 相关研究
 

@@ -11,6 +11,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Constructivist Paradigm]]"
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
   - "[[Otherhood]]"
@@ -42,7 +43,7 @@ updated: 2026-05-20
 ## 定义
 
 > [!info]
-> 知识治理（epistemic governance）指以规范、认知和知识为基础的全球治理机制，与以强制和规制为基础的"硬"治理（hard governance）形成对照。在全球治理研究中，这一转向反映了从现实主义与自由主义国际关系学（关注国家权力、交易成本与协调问题）向建构主义与[[World Society Theory|世界社会理论]]的转变——在后者的视角中，观念、知识、意义、规范和[[Cultural Models|文化模型]]的建构性力量成为分析焦点（Barnett & Finnemore, 2004; Meyer et al., 1997; Wendt, 1999，引自 Zapp, 2022, p.145）。Zapp（2022）在高等教育语境中使用这一概念，分析大学如何通过提供科学知识、培养全球治理专家和推行[[University Social Responsibility|大学社会责任]]，在去中心化的全球治理架构中占据独特的知识权威位置。
+> 知识治理（epistemic governance）指以规范、认知和知识为基础的全球治理机制，与以强制和规制为基础的"硬"治理（hard governance）形成对照。在全球治理研究中，这一转向反映了从现实主义与自由主义国际关系学（关注国家权力、交易成本与协调问题）向[[Constructivist Paradigm|建构主义]]与[[World Society Theory|世界社会理论]]的转变——在后者的视角中，观念、知识、意义、规范和[[Cultural Models|文化模型]]的建构性力量成为分析焦点（Barnett & Finnemore, 2004; Meyer et al., 1997; Wendt, 1999，引自 Zapp, 2022, p.145）。Zapp（2022）在高等教育语境中使用这一概念，分析大学如何通过提供科学知识、培养全球治理专家和推行[[University Social Responsibility|大学社会责任]]，在去中心化的全球治理架构中占据独特的知识权威位置。
 
 ---
 ## 概念辨析
@@ -61,7 +62,7 @@ updated: 2026-05-20
 ### 全球治理研究的认识论转向
 
 - 传统国际关系学（现实主义、古典马克思主义、自由主义）长期忽视知识维度在全球治理中的作用，关注焦点限于国家间权力竞争和理性协调。在这种视角下，大学根本不值得被讨论——它没有军队、GDP 或投票权（Zapp, 2022, p.145）
-- 1990 年代以来，建构主义国际关系学（Wendt, 1999; Barnett & Finnemore, 2004）和 [[World Society Theory]]（Meyer et al., 1997）的兴起推动了从"硬"治理到"软"治理的范式转移。核心发现是：观念、知识、意义、规范和[[Cultural Models|文化模型]]本身具有建构性力量——它们不是枪炮，但能改变"什么是合理的"这个基准线。当"可持续发展"成为全球共识后，不遵守的国家会被视为"不合理的"——这就是知识治理的基本运作逻辑（Zapp, 2022, p.145）
+- 1990 年代以来，[[Constructivist Paradigm|建构主义]]国际关系学（Wendt, 1999; Barnett & Finnemore, 2004）和 [[World Society Theory]]（Meyer et al., 1997）的兴起推动了从"硬"治理到"软"治理的范式转移。核心发现是：观念、知识、意义、规范和[[Cultural Models|文化模型]]本身具有建构性力量——它们不是枪炮，但能改变"什么是合理的"这个基准线。当"可持续发展"成为全球共识后，不遵守的国家会被视为"不合理的"——这就是知识治理的基本运作逻辑（Zapp, 2022, p.145）
 - 伴随这一转向，全球治理的分析范围从传统的安全与经济领域扩展到社会政策、卫生、环境以及教育与科学——恰好是大学最擅长的领域（Zapp, 2022, p.145）
 
 ### 在教育治理中的应用

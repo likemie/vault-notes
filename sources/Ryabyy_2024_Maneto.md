@@ -9,9 +9,9 @@ extracted_to:
   - "[[Anatoly Lunacharsky]]"
   - "[[Anton Makarenko]]"
   - "[[Stanislav Shatskii]]"
-  - "[[John Dewey]]"
   - "[[Sherwood Eddy]]"
   - "[[Cultural Diplomacy]]"
+  - "[[John Dewey]]"
 processed_date: 2026-05-26
 ---
 

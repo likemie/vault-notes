@@ -3,8 +3,6 @@ citation: "Wiliam, D. (2019). Some reflections on the role of evidence in improv
 extracted_to:
   - "[[Argument_Wiliam_2019]]"
   - "[[Class Size]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Effect Size]]"
   - "[[Validity as Inferences]]"
@@ -13,10 +11,12 @@ extracted_to:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[What Works Clearinghouse]]"
   - "[[Meta-analysis]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[Adrian Simpson]]"
   - "[[Dylan Wiliam]]"
   - "[[Goldman's Discrimination Theory of Knowledge]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Randomised Controlled Trials]]"
 processed_date: 2026-05-01
 ---
 

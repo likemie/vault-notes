@@ -27,8 +27,7 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[John Dewey]]"
-related_facts:
-  - "[[Tennessee STAR Project 1985-1989]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Snook_2010_NZJES]]"
@@ -76,7 +75,7 @@ updated: '2026-05-18'
 > - [[Meta-analysis|元分析]]中的偏差通常不受控制：设计不良研究的元分析必然导致不可靠结论（p.96–97）
 > - [[Publication Bias|发表偏差]]：支持有利结论的研究更可能被发表和纳入元分析（p.97）
 > - 变量界定困难：如[[Whole Language|全语言]]教学的不同分类导致同一批研究的元分析结论矛盾（p.97）
-> - [[Class Size|班级规模]]效应复杂：[[Tennessee STAR Project 1985-1989|STAR]] 研究（随机实验）发现[[Effect Size|效应量]]达 0.62–0.66（p.100–101）；Blatchford (2003) 伦敦研究发现 Reception 年有明显效果，尤其对低能力儿童（p.101）；Murnane & Levy (1996) 证明仅减班不加教学变革无效果，但班级缩减与教学变革结合产生巨大效果（p.101–102）
+> - [[Class Size|班级规模]]效应复杂：STAR 研究（随机实验）发现[[Effect Size|效应量]]达 0.62–0.66（p.100–101）；Blatchford (2003) 伦敦研究发现 Reception 年有明显效果，尤其对低能力儿童（p.101）；Murnane & Levy (1996) 证明仅减班不加教学变革无效果，但班级缩减与教学变革结合产生巨大效果（p.101–102）
 > - [[Performance Pay|绩效工资]]与 Hattie 自身的教师文化论述矛盾：Hattie 强调"关爱、支持的教师休息室、容忍错误、互信、共享热情"，绩效工资制度恰恰摧毁这种氛围（p.103）
 
 ## 关键引用
@@ -94,7 +93,7 @@ updated: '2026-05-18'
 > - 论文自身定位为评论而非系统综述，未声称穷尽所有批判角度
 > - 未提出替代性方法论框架，侧重解构而非建构
 > - 发表于 [[John Hattie|Hattie]] 2008 著作出版后仅一年，属于最早一批学术批判，后续文献（Terhart 2011, Bergeron 2017, Wrigley 2018, Wecker 2016 等）提供了更深入的方法论解构
-> - **Hattie (2010) 的回应**：Hattie 在同期 NZJES 发表"On Being a '[[Critic and Conscience of Society]]'"（详见 [[Argument_Hattie_2010_NZJES]]），从以下方面回应 Snook et al.：（1）研究质量——澄清"不是一本关于研究批评的书"被误读为"不关注研究质量"，指出凡已知研究质量有影响之处均已标注，且[[Meta-analysis|元分析]]方法本身即处理质量问题；（2）偏差控制——Schulze (2004) 等文献表明偏差控制是元分析方法的核心关切，批评者未提及；（3）d=0.40 铰链点——承认"或许武断但绝非任意"，基于 800+ 元分析经验平均值，用作叙事工具而非固定截断；（4）可推广性——反问"如果没有足够新西兰研究来确定差异，翻译现有研究可能比根本不依赖任何研究更有价值"；（5）[[Class Size|班级规模]]——驳斥选择性引用 [[Tennessee STAR Project 1985-1989|STAR]] 大[[Effect Size|效应量]]的做法，指出既然平均 0.20 必然存在大负面效应才能达到均值（Hattie, 2010, pp.88–91）。Snook et al. (2010) 随后在同刊发表再回应（详见 [[Argument_Snook_2010_NZJES]]）
+> - **Hattie (2010) 的回应**：Hattie 在同期 NZJES 发表"On Being a '[[Critic and Conscience of Society]]'"（详见 [[Argument_Hattie_2010_NZJES]]），从以下方面回应 Snook et al.：（1）研究质量——澄清"不是一本关于研究批评的书"被误读为"不关注研究质量"，指出凡已知研究质量有影响之处均已标注，且[[Meta-analysis|元分析]]方法本身即处理质量问题；（2）偏差控制——Schulze (2004) 等文献表明偏差控制是元分析方法的核心关切，批评者未提及；（3）d=0.40 铰链点——承认"或许武断但绝非任意"，基于 800+ 元分析经验平均值，用作叙事工具而非固定截断；（4）可推广性——反问"如果没有足够新西兰研究来确定差异，翻译现有研究可能比根本不依赖任何研究更有价值"；（5）[[Class Size|班级规模]]——驳斥选择性引用 STAR 大[[Effect Size|效应量]]的做法，指出既然平均 0.20 必然存在大负面效应才能达到均值（Hattie, 2010, pp.88–91）。Snook et al. (2010) 随后在同刊发表再回应（详见 [[Argument_Snook_2010_NZJES]]）
 
 ## 来源
 

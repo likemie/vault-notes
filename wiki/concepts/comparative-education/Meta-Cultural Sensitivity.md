@@ -11,6 +11,7 @@ tags:
 related_concepts:
   - "[[Stereotype Threat]]"
   - "[[Chinese Learner]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Orientalism]]"
 related_theories: []
 related_methods: []
@@ -63,7 +64,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - 与建构主义学习理论一致：学习者的先前文化经验决定了他们如何理解和回应新的教育情境；教师因此需要意识到自身知识和行动的文化基础（Ryan, 2010, p.55）
+> - 与[[Constructivist Paradigm|建构主义]]学习理论一致：学习者的先前文化经验决定了他们如何理解和回应新的教育情境；教师因此需要意识到自身知识和行动的文化基础（Ryan, 2010, p.55）
 > - 与 [[Stereotype Threat]] 的因果链形成理论互补：元文化敏感度通过**打破刻板印象威胁循环的第一步（"刻板印象的存在与流通"）** 来阻断整个自我实现链条
 > - 与 [[Orientalism]]（Said, 1978）构成批判对话：元文化敏感度正是对"东方由西方建构"这一知识权力结构的**实践性反抗**——它要求西方教师不再将自身文化规范视为定义"正常"的尺度
 

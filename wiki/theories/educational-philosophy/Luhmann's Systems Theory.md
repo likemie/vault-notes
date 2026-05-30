@@ -11,6 +11,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Structural Coupling]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[Knowledge-Based Economization]]"
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究范式
-> - 认识论立场：建构主义认识论——知识是系统内部的建构，不是对外部现实的直接反映
+> - 认识论立场：[[Constructivist Paradigm|建构主义]]认识论——知识是系统内部的建构，不是对外部现实的直接反映
 > - 理论特征：宏大理论（grand theory），试图以统一概念框架解释一切社会现象
 > - 方法特征：理论推导与概念分析，非经验实证研究
 

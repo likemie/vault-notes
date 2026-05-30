@@ -13,13 +13,13 @@ tags:
 - level/higher-ed
 - region/china
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Problem-Based Learning]]"
   - "[[Western Learner]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Constructive Alignment]]"
 related_theories:
@@ -75,7 +75,7 @@ updated: '2026-05-23'
 > **三阶段（学习阶段）**：
 > 1. **表层学习（Surface）** — 知晓事实和内容
 > 2. **深层学习（Deep）** — 知晓关系与连接
-> 3. **[[Transfer Translation Transformation|迁移]]（Transfer）** — 将知识扩展到新情境
+> 3. **迁移（Transfer）** — 将知识扩展到新情境
 >
 > **关键结论**：最优学习策略取决于学生在学习周期中的位置。对 [[Problem-Based Learning|PBL]] 在 VL (2009) 中的批评可以被解释为：这些元分析综合的是一年级医学生——他们仍处于表层学习阶段，尚不具备足够知识进行正向推理，因此 PBL 对他们不是正确的策略（Blass, 2020, p.96; 另见 Albanese & Mitchell, 1993）。
 
@@ -141,7 +141,7 @@ updated: '2026-05-23'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Popper's Three Worlds Theory]] — [[John Hattie|Hattie]] (2009; 2015) 将表层/深层/建构性学习映射到 Popper 的三个世界：表层学习对应 World 1（物理事物）、深层学习对应 World 2（主观观念）、建构性理解对应 World 3（文化与科学对象）。但 Rømer (2018) 论证 Hattie 通过 Bereiter (2002) 的中介严重误读了 Popper——Bereiter 已将 World 3 缩减为"真理与非真理"并排除人文学科，Hattie 进一步消除了 Bereiter 仍保留的 World 2 与 World 3 之间的关键区分。Popper 是哲学实在论者，Hattie 是主观建构主义者——两者在认识论上精确对立（Rømer, 2018, p.10-11）
+> - [[Popper's Three Worlds Theory]] — [[John Hattie|Hattie]] (2009; 2015) 将表层/深层/建构性学习映射到 Popper 的三个世界：表层学习对应 World 1（物理事物）、深层学习对应 World 2（主观观念）、建构性理解对应 World 3（文化与科学对象）。但 Rømer (2018) 论证 Hattie 通过 Bereiter (2002) 的中介严重误读了 Popper——Bereiter 已将 World 3 缩减为"真理与非真理"并排除人文学科，Hattie 进一步消除了 Bereiter 仍保留的 World 2 与 World 3 之间的关键区分。Popper 是哲学实在论者，Hattie 是主观[[Constructivist Paradigm|建构主义]]者——两者在认识论上精确对立（Rømer, 2018, p.10-11）
 > - [[Dynamic Knowledge and Learning Model]] — Qvortrup (2015) 从支持者立场指出，Hattie 确实重视表层、深层和概念性知识的区分，但 *[[Visible Learning]]* 的总体结果主要呈现跨知识层次的抽象学习结果；多数测验特别擅长测量表层特征，对深层学习只有部分测量能力，很少有效测量学生从课堂经验中建构的概念表征（Qvortrup, 2015, pp.28–29）。因此，表层/深层区分需要被嵌入一种动态知识模型中：教学不是在某个单一层次上"制造"学习，而是刺激多种知识形式之间的相互作用（Qvortrup, 2015, pp.29–32）。
 
 ## 与相关概念的区别

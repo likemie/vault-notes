@@ -16,6 +16,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Test-Based Accountability]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Policy Borrowing]]"
   - "[[Quality Education]]"
   - "[[Examination-Oriented Education]]"
@@ -67,7 +68,7 @@ updated: 2026-05-26
 
 > [!example]
 > - **vs 教师主导教学法（teacher-led pedagogy）**：LCE 的核心对立面。教师主导教学法以教师为知识权威、以系统讲授和反复练习为主要手段——在[[Test-Based Accountability|考试问责]]压力较强的环境中，教师往往回归这一模式。但 Wang & McLaughlin（2025, pp.594-600）发现两者并非绝对对立：当学校找到 LCE 与提升考试成绩之间的契合点时，教师主导模式可被部分松解。
-> - **vs 建构主义教学（constructivist teaching）**：建构主义是 LCE 的认识论基础之一，但两者不等同。LCE 是一个更宽泛的教学改革标签，在不同文化语境中被赋予了不同的含义和重点。
+> - **vs [[Constructivist Paradigm|建构主义]]教学（constructivist teaching）**：建构主义是 LCE 的认识论基础之一，但两者不等同。LCE 是一个更宽泛的教学改革标签，在不同文化语境中被赋予了不同的含义和重点。
 
 ---
 
@@ -94,7 +95,7 @@ updated: 2026-05-26
 
 > [!tip]
 > - [[Third Generation Activity Theory]] — Wang & McLaughlin（2025）以此理论为框架，分析了 LCE 改革与[[Test-Based Accountability|考试问责]]两个活动系统之间的互动与边界跨越
-> - 建构主义（constructivism）— Bruner 的建构主义学习理论是 LCE 的核心认识论基础
+> - [[Constructivist Paradigm|建构主义]]（constructivism）— Bruner 的建构主义学习理论是 LCE 的核心认识论基础
 > - 社会文化理论（sociocultural theory）— Vygotsky 的社会文化理论强调学习的社会互动本质，为 LCE 中的对话与合作学习提供理论支持
 
 ---

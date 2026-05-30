@@ -12,10 +12,15 @@ tags:
   - quantitative-research
   - epistemology
   - paradigm/postpositivist
-related_concepts: []
+related_concepts:
+  - "[[Constructivist Paradigm]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Pragmatism in China]]"
 related_theories: []
-related_methods: []
-related_persons: []
+related_methods:
+  - "[[Quantitative Research]]"
+related_persons:
+  - "[[John Locke]]"
 related_facts: []
 related_arguments: []
 sources: []
@@ -30,7 +35,7 @@ updated: 2026-05-30
 ## 定义
 
 > [!info]
-> 后实证主义（Postpositivism）是量化研究传统中最主要的研究哲学立场，有时也被称为科学方法（scientific method）、实证科学（empirical science）或后实证主义研究。之所以称为"后"实证主义，是因为它代表了实证主义之后的思想转变，挑战了知识绝对真理的传统观念，承认在探究人类行为和行动时无法对知识主张获得绝对的确定性（Phillips & Burbules, 2000）。
+> 后实证主义（Postpositivism）是[[Quantitative Research|量化研究]]传统中最主要的研究哲学立场，有时也被称为科学方法（scientific method）、实证科学（empirical science）或后实证主义研究。之所以称为"后"实证主义，是因为它代表了实证主义之后的思想转变，挑战了知识绝对真理的传统观念，承认在探究人类行为和行动时无法对知识主张获得绝对的确定性（Phillips & Burbules, 2000）。
 
 ## 核心要素
 
@@ -44,7 +49,7 @@ updated: 2026-05-30
 ## 理论基础
 
 > [!tip]
-> 后实证主义传统可追溯至 19 世纪的 Comte、Mill、Durkheim、Newton 和 Locke（Smith, 1983），以及更近期的 Phillips 和 Burbules（2000）。Phillips 和 Burbules (2000) 总结了该立场的关键假设。
+> 后实证主义传统可追溯至 19 世纪的 Comte、Mill、Durkheim、Newton 和 [[John Locke|Locke]]（Smith, 1983），以及更近期的 Phillips 和 Burbules（2000）。Phillips 和 Burbules (2000) 总结了该立场的关键假设。
 > - 知识是推测性的（反基础主义的），绝对真理永远无法被找到。因此，研究者不"证明"假设，只指出未能拒绝假设。
 > - 研究是提出主张、然后完善或放弃一些主张以换取更有力证据支持的主张的过程。
 > - 数据、证据和理性考量塑造知识。
@@ -54,8 +59,8 @@ updated: 2026-05-30
 ## 概念辨析
 
 > [!example]
-> - vs [[Constructivist Worldview]] — 后实证主义从既有理论出发进行演绎检验，建构主义从数据出发进行归纳生成。前者追求客观性和可推广性，后者注重参与者的主观意义和情境理解。
-> - vs [[Pragmatic Worldview]] — 实用主义不以任何单一哲学体系为皈依，关注问题的实际解决，不追求理论的真伪检验。
+> - vs [[Constructivist Paradigm]] — 后实证主义从既有理论出发进行演绎检验，建构主义从数据出发进行归纳生成。前者追求客观性和可推广性，后者注重参与者的主观意义和情境理解。
+> - vs [[Pragmatic Paradigm]] — [[Pragmatism in China|实用主义]]不以任何单一哲学体系为皈依，关注问题的实际解决，不追求理论的真伪检验。
 
 ## 来源
 

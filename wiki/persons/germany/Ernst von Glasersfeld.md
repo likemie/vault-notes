@@ -11,6 +11,7 @@ tags:
 - region/germany
 - region/us
 related_concepts:
+  - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -33,7 +34,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心理学家，[[Radical Constructivism|激进建构主义]]（Radical Constructivism）创始人。他将建构主义认识论从 Piaget 的认知发展理论推向哲学极端，以唯我论（solipsism）为出发点，主张所有知识都是个体主观建构。
+> Ernst von Glasersfeld（1917–2010），德裔美籍哲学家和认知心理学家，[[Radical Constructivism|激进建构主义]]（Radical Constructivism）创始人。他将[[Constructivist Paradigm|建构主义]]认识论从 Piaget 的认知发展理论推向哲学极端，以唯我论（solipsism）为出发点，主张所有知识都是个体主观建构。
 
 ## 生平与职涯
 

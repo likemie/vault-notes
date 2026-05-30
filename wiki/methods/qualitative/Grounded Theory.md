@@ -11,9 +11,14 @@ tags:
   - qualitative-research
   - grounded-theory
   - inductive
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Constructivist Paradigm]]"
+related_theories:
+  - "[[Phenomenology]]"
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Constructivist Grounded Theory]]"
+  - "[[Ethnography]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -29,7 +34,7 @@ updated: 2026-05-30
 ## 定义
 
 > [!info]
-> 扎根理论（Grounded Theory）是一种源自社会学的质性研究设计。研究者通过多阶段数据收集和信息类别的精炼与相互关系，从参与者的视角中归纳推导出一个关于某一过程、行动或互动的一般性抽象理论。该理论根植于（grounded in）参与者的观点和数据之中（Charmaz, 2006; Corbin & Strauss, 2007, 2015）。其主要代表人物包括 Charmaz（建构主义取向）、Corbin 和 Strauss（系统化取向），以及创始者 Glaser 和 Strauss（1967）。
+> 扎根理论（Grounded Theory）是一种源自社会学的[[Qualitative Research|质性研究]]设计。研究者通过多阶段数据收集和信息类别的精炼与相互关系，从参与者的视角中归纳推导出一个关于某一过程、行动或互动的一般性抽象理论。该理论根植于（grounded in）参与者的观点和数据之中（Charmaz, 2006; Corbin & Strauss, 2007, 2015）。其主要代表人物包括 Charmaz（[[Constructivist Paradigm|建构主义]]取向）、Corbin 和 Strauss（系统化取向），以及创始者 Glaser 和 Strauss（1967）。
 
 ## 研究程序
 
@@ -43,7 +48,7 @@ updated: 2026-05-30
 ## 方法变体与相近方法
 
 > [!tip]
-> - [[Constructivist Grounded Theory]] — Charmaz (2006) 发展的建构主义版本，更强调研究者与参与者在意义建构中的共同作用，强调理论的建构性而非发现式生成。
+> - [[Constructivist Grounded Theory]] — Charmaz (2006) 发展的[[Constructivist Paradigm|建构主义]]版本，更强调研究者与参与者在意义建构中的共同作用，强调理论的建构性而非发现式生成。
 > - vs [[Phenomenology|现象学]] — 现象学聚焦于描述某一现象的本质体验，扎根理论的目标是生成解释过程或行动的理论。
 > - vs [[Ethnography]] — 民族志聚焦于描述整个文化群体的共享模式，扎根理论则聚焦于某一具体过程或行动。
 

@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Selective Education]]"
   - "[[Moral Sidestep]]"
-  - "[[Evidence-Based Education]]"
   - "[[Justified Warrants]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education and Inspections Act 2006]]"
@@ -13,11 +12,12 @@ extracted_to:
   - "[[Ofsted]]"
   - "[[Selective Schools Expansion Fund]]"
   - "[[Carnivalesque Analysis]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Visible Learning]]"
   - "[[Gert Biesta]]"
+  - "[[John Hattie]]"
   - "[[Terry Wrigley]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
-  - "[[Visible Learning]]"
-  - "[[John Hattie]]"
 processed_date: 2026-05-07
 ---
 

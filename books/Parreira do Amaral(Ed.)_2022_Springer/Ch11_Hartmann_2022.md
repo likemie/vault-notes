@@ -7,8 +7,8 @@ extracted_to:
   - "[[Further Education]]"
   - "[[Global Education Industry]]"
   - "[[Varieties of Capitalism]]"
-  - "[[Max Weber]]"
   - "[[Institutional Isomorphism]]"
+  - "[[Max Weber]]"
 processed_date: 2026-05-18
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

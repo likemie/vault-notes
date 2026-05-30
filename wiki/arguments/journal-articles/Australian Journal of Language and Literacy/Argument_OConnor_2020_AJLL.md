@@ -20,6 +20,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Language Experience Approach]]"
   - "[[Direct Instruction]]"
+  - "[[Constructivist Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -85,7 +86,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > 1. **[[Whole Language|全语言]]被错误评估**：[[John Hattie|Hattie]] 的全语言[[Effect Size|效应量]] d=0.06 是通过对有缺陷的数据（包括研究[[Language Experience Approach|语言经验法]]而非全语言的[[Meta-analysis|元分析]]）进行不加权算术平均（(0.09+0.15+0.65+(-0.65))/4=0.06）计算得出的（p.145）
 > 2. **不对称审查**：Jeynes & Littell 的 d=-0.65 被不加批判地接受；Gee 的 d=+0.65 被选择性修正为零（pp.145-148）
-> 3. **先验偏见**：Hattie 对[[Direct Instruction|直接教学]]的热情和对"建构主义潮流"、"[[Jean-Jacques Rousseau|卢梭]]式方法"的明确敌意——加上对 Jeynes（福音派牧师、共和党关联）潜在偏见的忽视—��表明其结论更多反映立场而非数据（pp.147-150）
+> 3. **先验偏见**：Hattie 对[[Direct Instruction|直接教学]]的热情和对"[[Constructivist Paradigm|建构主义]]潮流"、"[[Jean-Jacques Rousseau|卢梭]]式方法"的明确敌意——加上对 Jeynes（福音派牧师、共和党关联）潜在偏见的忽视—��表明其结论更多反映立场而非数据（pp.147-150）
 > 4. **对 Jeynes & Littell 的作者偏见问题**：William H. Jeynes 是福音派牧师和 God's Love Ministries 创始人，有密切的共和党关联，曾进入 Trump 教育部长 12 人选名单。其学术出版物包括宗教学校的元分析、父母再婚对儿童影响、圣经读写与学业成绩关系等。Hattie 未考虑 Jeynes 的潜在偏见——尽管 Hattie 自己强调了研究者"镜头"的重要性（pp.147-148）
 > 5. **对政策的影响**：维多利亚州教育部以 VL 为首要参考的 10 项 [[Victorian HITS and Literacy Toolkit|HITS]] 和 Literacy Toolkit 表明，方法论上有缺陷的研究正在直接影响教师实践（p.141）
 

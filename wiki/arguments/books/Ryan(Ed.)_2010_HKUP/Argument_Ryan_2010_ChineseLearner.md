@@ -19,6 +19,7 @@ related_concepts:
   - "[[Stereotype Threat]]"
   - "[[Meta-Cultural Sensitivity]]"
   - "[[Confucian Heritage Cultures]]"
+  - "[[Constructivist Paradigm]]"
   - "[[International Education]]"
   - "[[Refined Mastery]]"
   - "[[Quality Education]]"
@@ -53,7 +54,7 @@ updated: '2026-05-18'
 > - [[Stereotype Threat]] — Aronson (2002)：当个体意识到关于自身群体的刻板印象时，产生额外的情感与认知负担，导致"去认同化"（disidentification），最终刻板印象成为自我实现的预言
 > - [[Meta-Cultural Sensitivity]] — Louie (2005)："后退一步"将所有文化视为系统来理解的能力，既不盲目推崇也不简单否定
 > - [[Hofstede's Cultural Dimensions]] — Ryan 讨论其如何被用于刻画 [[Confucian Heritage Cultures|CHC]] 文化（高权力距离、集体主义），以及"中国文化建设"（1987）如何挑战其普适性并提出第五维度"儒家工作动力"
-> - 建构主义学习理论 — 作为理解跨文化教学中先前经验如何影响学习的理论参照
+> - [[Constructivist Paradigm|建构主义]]学习理论 — 作为理解跨文化教学中先前经验如何影响学习的理论参照
 
 ## 研究方法
 
