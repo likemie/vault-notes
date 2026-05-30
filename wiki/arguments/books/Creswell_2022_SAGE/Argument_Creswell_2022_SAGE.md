@@ -9,10 +9,17 @@ authors: ["John W. Creswell", "J. David Creswell"]
 publisher: "SAGE Publications"
 citation: "Creswell, J. W., & Creswell, J. D. (2022). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). SAGE Publications."
 tags: [source/textbook]
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
+related_concepts:
+  - "[[Sage]]"
+related_theories:
+  - "[[Phenomenology]]"
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Joint Display]]"
+related_persons:
+  - "[[John W. Creswell]]"
+  - "[[J. David Creswell]]"
 related_facts: []
 related_arguments: []
 sources: []
@@ -65,7 +72,50 @@ updated: 2026-05-30
 
 ---
 
+### 作者简介
+
+#### 图片占位
+
+<!--
+> [!example]- 图片占位
+> - 位置：作者简介，截图位置
+> - 图题：[[John W. Creswell]] 专业肖像
+> - 用途：适合放在作者简介部分
+> - 建议文件名：books/Creswell_2022_SAGE/figures/About_Authors_John_W_Creswell.jpg
+> - 图床地址：https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/About_Authors_John_W_Creswell.jpg
+> - 嵌入代码：![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/About_Authors_John_W_Creswell.jpg)
+-->
+
+<!--
+> [!example]- 图片占位
+> - 位置：作者简介，截图位置
+> - 图题：[[J. David Creswell]] 专业肖像
+> - 用途：适合放在作者简介部分
+> - 建议文件名：books/Creswell_2022_SAGE/figures/About_Authors_J_David_Creswell.jpg
+> - 图床地址：https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/About_Authors_J_David_Creswell.jpg
+> - 嵌入代码：![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/About_Authors_J_David_Creswell.jpg)
+-->
+
+#### 概览
+
+[[John W. Creswell]]，密歇根大学家庭医学教授、密歇根混合方法项目高级研究科学家，著有 33 本关于混合方法研究、[[Qualitative Research|质性研究]]和研究设计的著作。曾任内布拉斯加大学林肯分校 Clifton 讲座教授，创办 [[Sage]] 出版的 Journal of Mixed Methods Research，2014 年成为混合方法国际研究协会（MMIRA）创始主席。2008 年、2012 年分别赴南非和泰国任富布赖特高级学者。2011 年共同主持 NIH"健康科学中混合方法研究最佳实践"工作组，2017 年参与撰写 APA 质性与混合方法研究标准。2016 年获南非比勒陀利亚大学荣誉博士学位，2018 年 Qualitative Inquiry and Research Design 获 McGuffey Longevity Award。
+
+[[J. David Creswell]]，卡内基梅隆大学 William S. Dietrich II 心理学教授，健康与人类表现实验室主任。研究以量化方法为主，聚焦压力下的心理韧性机制。已发表 75 篇以上同行评审论文，共同主编 Handbook of Mindfulness (2015)。2011 年获 APS 早期职业奖，2014 年获 APA 早期职业奖，2017 年获美国心身医学学会早期职业奖。有 16 年研究方法课程教学经验。与父亲 John W. Creswell 的长期合作延伸至本书第六版。
+
+---
+
+### 第一部分 初步考量
+
+#### 概览
+
+第一部分（第1–4章）旨在帮助研究者在设计研究计划之前完成几项预备工作。这些预备步骤包括选择合适的研究路径、通过文献综述将研究置于已有文献之中、决定是否在研究中运用理论，以及从一开始就采取良好的写作与伦理实践。
+
+---
+
 ## 重要摘录
+
+> [!quote]
+> "Part I addresses several preliminary considerations that are necessary before designing a proposal or a plan for a study. These considerations relate to selecting an appropriate research approach, reviewing the literature to position the proposed study within the existing literature, deciding on whether to use a theory in the study, and employing—at the outset—good writing and ethical practices."（第一部分引言）
 
 > [!quote]
 > "This book advances a framework, a process, and compositional approaches for designing a proposal or research project for qualitative, quantitative, and mixed methods research in the human, health, and social sciences."（前言）
