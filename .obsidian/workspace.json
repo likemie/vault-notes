@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+                "file": "wiki/concepts/educational-philosophy/Pragmatism (Research Worldview).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Creswell_2022_SAGE"
+              "title": "Pragmatism (Research Worldview)"
             }
           }
         ]
@@ -190,10 +190,23 @@
   },
   "active": "cf4bbb8cde350903",
   "lastOpenFiles": [
-    "sources/Allerup_2015_Paideia.md",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-    "wiki/persons/usa/J. David Creswell.md",
+    "wiki/concepts/educational-philosophy/Pragmatism (Research Worldview).md",
+    "wiki/methods/qualitative/Qualitative Research.md.tmp.53989.7546f6e7fbc2",
+    "wiki/methods/qualitative/Qualitative Research.md",
+    "wiki/concepts/educational-philosophy/Postpositivism.md",
+    "wiki/methods/qualitative/Narrative Research.md",
+    "wiki/methods/qualitative/Ethnography.md",
+    "wiki/methods/qualitative/Grounded Theory.md",
+    "wiki/methods/quantitative/Experimental Research.md",
+    "wiki/methods/quantitative/Survey Research.md",
+    "wiki/methods/quantitative/Quantitative Research.md",
+    "wiki/concepts/educational-philosophy/Transformative Worldview.md",
+    "wiki/concepts/educational-philosophy/Constructivism (Worldview).md",
     "wiki/persons/usa/John W. Creswell.md",
+    "raw/006_Chapter 1 The Selection of a Research Approach.txt",
+    "sources/Allerup_2015_Paideia.md",
+    "wiki/persons/usa/J. David Creswell.md",
     "raw/005_PART I PRELIMINARY CONSIDERATIONS.txt",
     "raw/004_About the Authors.txt",
     "wiki/methods/mixed/Joint Display.md",
@@ -211,21 +224,7 @@
     "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
     "wiki/arguments/journal-articles/Cogent Education/Argument_Schaffar_2024_CogentEdu.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Burrus_Patera_2025_PartnershipBuilding.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Byrne_2025_InnovationCenters.md",
-    "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
-    "wiki/arguments/books/郑_2023_上海三联书店/Argument_郑_2023_上海三联书店.md",
-    "wiki/arguments/journal-articles/Journal of Educational Administration and History/Argument_Eacott_2011_JEAH.md",
-    "wiki/arguments/journal-articles/Journal of Educational Administration and History/Argument_Keddie_2020_JEAH.md",
-    "wiki/methods/mixed/Logic Model.md",
-    "wiki/methods/mixed/Formative Program Evaluation.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025.pdf",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_LernerLam_2025_TransdisciplinaryExecutiveEd.md.tmp.43232.8d55f77dd2c7",
-    "books/Hall_Boccanfuso_2025_Springer/Ch9_LernerLam_DeNoon_Holgate_Broyles_2025.pdf",
     "books/郑_2023_上海三联书店/figures/学校情况.jpeg",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",

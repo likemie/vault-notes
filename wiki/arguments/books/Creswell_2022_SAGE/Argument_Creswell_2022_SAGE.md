@@ -36,7 +36,7 @@ updated: 2026-05-30
 | 章节 | 内容概要 | 主要关联条目 |
 |---|---|---|
 | 前言 | 介绍教材的写作目的、面向读者、格式特色、第六版新增内容，以及全书两大部分共十章的结构概览。全书核心线索是量化、质性与混合方法三种研究路径的系统比较。 | [[Qualitative Research]], [[Mixed Method and Multi-method Research]], [[Joint Display]] |
-| 第1章 研究路径的选择 | 界定量化、质性和混合方法三种路径，讨论哲学立场（后实证主义、建构主义、变革主义、[[Pragmatism in China\|实用主义]]）如何与研究设计和具体方法交织，帮助研究者选择适合的研究路径。 | |
+| 第1章 研究路径的选择 | 界定量化、质性和混合方法三种研究路径，建立"世界观—设计—方法"三层框架，逐一介绍后实证主义、建构主义、变革主义和实用主义四种哲学世界观，列出量化、质性和混合方法的主要研究设计类型，讨论选择研究路径的三项标准（研究问题、个人经验、受众）。 | [[Qualitative Research]], [[Quantitative Research]], [[Mixed Method and Multi-method Research]], [[Postpositivism]], [[Constructivism (Worldview)]] |
 | 第2章 文献综述 | 介绍研究主题的确定、文献检索步骤、计算机数据库使用、文献质量评估、文献地图绘制和文献摘要撰写。说明量化、质性和混合方法研究中文献综述的不同角色。 | |
 | 第3章 理论的使用 | 讨论理论在三种研究路径中的不同作用。量化研究中，理论提供变量间关系的解释模型；质性研究中，理论作为观察透镜或在研究过程中生成；混合方法研究则以多种方式运用理论。 | |
 | 第4章 写作策略与伦理考量 | 提供研究计划的整体结构模型，分别给出量化、质性和混合方法计划的写作大纲，讨论清晰连贯的写作策略，以及研究前、研究中、研究后各阶段的伦理问题。 | |
@@ -112,10 +112,106 @@ updated: 2026-05-30
 
 ---
 
+### 第1章 研究路径的选择
+
+#### 概念地图
+
+<!-- ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-concept-map.svg) -->
+
+#### 图片占位
+
+<!--
+> [!example]- 图片占位
+> - 位置：第1章，Figure 1.1
+> - 图题：A Framework for Research—The Interconnection of Worldviews, Design, and Research Methods
+> - 用途：展示哲学世界观、研究设计与具体方法三层框架的关系图
+> - 建议文件名：books/Creswell_2022_SAGE/figures/chapter-1-figure-1.svg
+> - 图床地址：https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-figure-1.svg
+> - 嵌入代码：![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-figure-1.svg)
+-->
+
+<!--
+> [!example]- 图片占位
+> - 位置：第1章，Table 1.1
+> - 图题：Key Terms and Their Definitions as Used in This Chapter
+> - 用途：定义哲学假设、研究路径、研究设计和研究方法四个核心术语
+> - 建议文件名：books/Creswell_2022_SAGE/figures/chapter-1-table-1.svg
+> - 图床地址：https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-table-1.svg
+> - 嵌入代码：![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-table-1.svg)
+-->
+
+#### 概览
+
+第1章建立了全书的概念框架。研究路径（Research Approach）又称方法论（Methodology），是从宽泛的哲学假设到具体的数据收集、分析和解释方法的完整程序。研究路径的选择涉及三个层次的交织：
+
+1. **哲学世界观（Philosophical Worldviews）**：研究者带入研究的基本信念体系，Guba (1990) 将其定义为"引导行动的一套基本信念"（p.17）。本章讨论四种世界观：
+   - [[Postpositivism|后实证主义]]：传统科学方法，持决定论和还原论立场，通过观察与测量检验理论。
+   - [[Constructivism (Worldview)|建构主义]]：个体通过与世界的互动和社会历史背景建构主观意义，研究目标在于理解参与者的多元视角。
+   - [[Transformative Worldview|变革主义]]：研究必须与政治和变革议程交织，以对抗社会压迫、赋权边缘群体为核心。
+   - [[Pragmatism (Research Worldview)|实用主义]]：不以任何单一哲学体系为皈依，关注问题解决和实际后果，是混合方法研究的哲学基础。
+
+2. **研究设计（Research Designs）**：在宽泛方法论之内的具体研究操作类型。量化设计包括[[Survey Research|调查研究]]和[[Experimental Research|实验研究]]；质性设计包括[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]和[[Case Study|案例研究]]；混合方法设计包括[[Convergent Mixed Methods Design|聚敛式]]、[[Explanatory Sequential Mixed Methods Design|解释性序列]]和[[Exploratory Sequential Mixed Methods Design|探索性序列]]三种核心设计，以及多种复杂设计。
+
+3. **研究方法（Research Methods）**：具体的数据收集、分析和解释技术，涵盖从预设的封闭式工具到开放的、涌现的质性方法之间的连续谱。
+
+本章对三种路径给出了正式定义：
+- [[Qualitative Research|质性研究]]是探索和理解个体或群体赋予社会或人类问题之意义的研究路径，以归纳式数据分析、自然情境中的资料收集和灵活的报告结构为特征。
+- [[Quantitative Research|量化研究]]是通过检验变量间关系或群体间比较来验证客观理论的研究路径，以演绎式理论检验、标准化测量工具和统计程序为特征。
+- [[Mixed Method and Multi-method Research|混合方法研究]]是同时收集量化与质性数据、使用特定设计整合两类数据并从中得出整合性推论（metainferences）的研究路径。
+
+三种路径并非截然对立，而是一个连续谱的两端，混合方法位于中间位置。
+
+选择研究路径时，除世界观、设计和方法的匹配外，还需考虑三个因素：研究问题本身的性质（如需要识别影响因素则适合量化，探索新现象则适合质性，单一方法不足以回答问题时适合混合方法）；研究者的个人训练和经验背景；以及目标受众的接受程度。
+
+##### 四种世界观对照
+
+| 后实证主义 | 建构主义 | 变革主义 | 实用主义 |
+|---|---|---|---|
+| 决定论 | 理解 | 政治性 | 关注行动后果 |
+| 还原论 | 多元参与者意义 | 权力与正义导向 | 问题中心 |
+| 经验观察与测量 | 社会与历史建构 | 合作性 | 多元主义 |
+| 理论验证 | 理论生成 | 变革导向 | 现实世界实践导向 |
+
+##### 三种路径对照
+
+| 维度 | 质性路径 | 量化路径 | 混合方法路径 |
+|---|---|---|---|
+| 哲学假设 | 建构主义/变革主义 | 后实证主义 | 实用主义 |
+| 研究设计 | 现象学、扎根理论、民族志、案例研究、叙事 | 调查、实验 | 序列式、聚敛式、复杂设计 |
+| 研究方法 | 开放问题、涌现式、文本或图像数据 | 封闭问题、预设式、数值数据 | 开放与封闭兼有、多形式数据 |
+| 研究实践 | 自我定位、收集参与者意义、聚焦单一现象、情境研究、文本分析 | 检验理论、识别变量、使用信效度标准、数值测量、统计程序 | 收集两类数据、说明混合理由、在不同阶段整合数据、呈现程序图示 |
+
+<!--
+> [!example]- 图片占位
+> - 位置：第1章，Table 1.4
+> - 图题：Quantitative, Mixed, and Qualitative Methods
+> - 用途：展示量化、混合和质性方法在预设性、问题类型、数据类型和分析方式上的连续谱
+> - 建议文件名：books/Creswell_2022_SAGE/figures/chapter-1-table-4.svg
+> - 图床地址：https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-table-4.svg
+> - 嵌入代码：![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-table-4.svg)
+-->
+
+---
+
 ## 重要摘录
 
 > [!quote]
 > "Part I addresses several preliminary considerations that are necessary before designing a proposal or a plan for a study. These considerations relate to selecting an appropriate research approach, reviewing the literature to position the proposed study within the existing literature, deciding on whether to use a theory in the study, and employing—at the outset—good writing and ethical practices."（第一部分引言）
+
+> [!quote]
+> "Qualitative research is an approach for exploring and understanding the meaning individuals or groups ascribe to a social or human problem. The research process involves emerging questions and procedures, data typically collected in the participant's setting, data analysis inductively building from particulars to general themes, and the researcher making interpretations of the meaning of the data."（第1章, p.5）
+
+> [!quote]
+> "Quantitative research is an approach for testing objective theories by examining the relationship among variables or a comparison among groups. These variables, in turn, can be measured, typically on instruments, so that numbered data can be analyzed using statistical procedures."（第1章, p.5）
+
+> [!quote]
+> "Mixed methods research is an approach to inquiry involving collecting both quantitative and qualitative data, using a specific procedure or design, combining (or integrating) the two forms of data within the design, and drawing conclusions (metainferences) about the insight to emerge from the combined databases."（第1章, p.5）
+
+> [!quote]
+> "We have chosen to use the term worldview as meaning 'a basic set of beliefs that guide action' (Guba, 1990, p. 17)."（第1章, p.7）
+
+> [!quote]
+> "Although philosophical ideas remain largely hidden in research, they still influence the practice of research and need to be identified."（第1章, p.7）
 
 > [!quote]
 > "This book advances a framework, a process, and compositional approaches for designing a proposal or research project for qualitative, quantitative, and mixed methods research in the human, health, and social sciences."（前言）

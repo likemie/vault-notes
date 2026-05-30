@@ -796,6 +796,18 @@
     ]
   },
   {
+    "title": "Constructivism (Worldview)",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Constructivism (Worldview).md",
+    "aliases": [
+      "建构主义",
+      "社会建构主义",
+      "social constructivism",
+      "constructivist worldview",
+      "interpretivism"
+    ]
+  },
+  {
     "title": "Ecomuseology",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Ecomuseology.md",
@@ -922,6 +934,28 @@
     ]
   },
   {
+    "title": "Postpositivism",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Postpositivism.md",
+    "aliases": [
+      "后实证主义",
+      "post-positivism",
+      "postpositivist worldview",
+      "postpositivist"
+    ]
+  },
+  {
+    "title": "Pragmatism (Research Worldview)",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Pragmatism (Research Worldview).md",
+    "aliases": [
+      "实用主义研究",
+      "实用主义世界观",
+      "实用主义",
+      "pragmatic worldview"
+    ]
+  },
+  {
     "title": "Progressive Education",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Progressive Education.md",
@@ -999,6 +1033,17 @@
     "path": "wiki/concepts/educational-philosophy/Technical Rationality.md",
     "aliases": [
       "技术理性"
+    ]
+  },
+  {
+    "title": "Transformative Worldview",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Transformative Worldview.md",
+    "aliases": [
+      "变革主义",
+      "变革主义世界观",
+      "转化主义",
+      "transformative paradigm"
     ]
   },
   {
@@ -4217,6 +4262,17 @@
     ]
   },
   {
+    "title": "Ethnography",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Ethnography.md",
+    "aliases": [
+      "民族志",
+      "人种志",
+      "民族志研究",
+      "ethnographic research"
+    ]
+  },
+  {
     "title": "Ganz-Methode",
     "type": "method",
     "path": "wiki/methods/qualitative/Ganz-Methode.md",
@@ -4225,6 +4281,16 @@
       "整体方法",
       "整体进路",
       "Ganz Method"
+    ]
+  },
+  {
+    "title": "Grounded Theory",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Grounded Theory.md",
+    "aliases": [
+      "扎根理论",
+      "扎根理论方法",
+      "grounded theory approach"
     ]
   },
   {
@@ -4262,6 +4328,17 @@
       "母子对话法",
       "MCC",
       "simulated mother-child conversation"
+    ]
+  },
+  {
+    "title": "Narrative Research",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Narrative Research.md",
+    "aliases": [
+      "叙事研究",
+      "叙事探究",
+      "narrative inquiry",
+      "narrative design"
     ]
   },
   {
@@ -4342,6 +4419,18 @@
     ]
   },
   {
+    "title": "Experimental Research",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Experimental Research.md",
+    "aliases": [
+      "实验研究",
+      "实验法",
+      "true experiment",
+      "experimental design",
+      "randomized experiment"
+    ]
+  },
+  {
     "title": "Functional Magnetic Resonance Imaging",
     "type": "method",
     "path": "wiki/methods/quantitative/Functional Magnetic Resonance Imaging.md",
@@ -4412,6 +4501,16 @@
     ]
   },
   {
+    "title": "Quantitative Research",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Quantitative Research.md",
+    "aliases": [
+      "量化研究",
+      "定量研究",
+      "quantitative approach"
+    ]
+  },
+  {
     "title": "Quasi-Experimental Designs",
     "type": "method",
     "path": "wiki/methods/quantitative/Quasi-Experimental Designs.md",
@@ -4459,6 +4558,16 @@
       "单一个案设计",
       "SCD",
       "单一被试设计"
+    ]
+  },
+  {
+    "title": "Survey Research",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Survey Research.md",
+    "aliases": [
+      "调查研究",
+      "问卷调查研究",
+      "survey design"
     ]
   },
   {

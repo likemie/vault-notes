@@ -26,13 +26,15 @@ sources:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: 2026-05-30
 ---
 
 ## 定义
 
 > [!info] 定义
-> 质性研究（Qualitative Research）在 Brady et al. (2023) 的编码中指不操纵自变量、并使用访谈、观察等文本数据的研究。它被归入[[Non-intervention Research|非干预研究]]，与包含量化数据的观察/相关研究相区分（Brady et al., 2023, p.4）。
+> 质性研究（Qualitative Research）是探索和理解个体或群体赋予社会或人类问题之意义的研究路径。研究过程包含涌现式问题和程序、在参与者自然情境中收集数据、从具体到一般主题的归纳式数据分析，以及研究者对数据意义的解释。最终书面报告具有灵活的结构。从事这一形式探究的人使用从数据到主题的归纳风格，关注个体意义，并强调报告情境复杂性的重要性。
+> 
+> 在 Brady et al. (2023) 的编码中指不操纵自变量、并使用访谈、观察等文本数据的研究。它被归入[[Non-intervention Research|非干预研究]]，与包含量化数据的观察/相关研究相区分（Brady et al., 2023, p.4）。
 
 ## 认识论立场
 
