@@ -270,14 +270,14 @@
     ]
   },
   {
-    "title": "Virtue-Oriented Learning Process",
+    "title": "Xiaokang",
     "type": "concept",
-    "path": "wiki/concepts/chinese-philosophy/Virtue-Oriented Learning Process.md",
+    "path": "wiki/concepts/chinese-philosophy/Xiaokang.md",
     "aliases": [
-      "美德导向学习过程",
-      "virtue-oriented process",
-      "East Asian learning process",
-      "美德导向"
+      "小康社会",
+      "小康之家",
+      "xiaokang society",
+      "peaceful and prosperous society"
     ]
   },
   {
@@ -431,6 +431,17 @@
     ]
   },
   {
+    "title": "Ecomuseology",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Ecomuseology.md",
+    "aliases": [
+      "生态博物馆学",
+      "生态博物馆",
+      "ecomuseum",
+      "ecomuseums"
+    ]
+  },
+  {
     "title": "Epochal Key Problems",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Epochal Key Problems.md",
@@ -453,6 +464,17 @@
     "aliases": [
       "现象本位学习",
       "PhBL"
+    ]
+  },
+  {
+    "title": "Social Museology",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Social Museology.md",
+    "aliases": [
+      "社会博物馆学",
+      "sociomuseology",
+      "sociomuseologia",
+      "new museology"
     ]
   },
   {
@@ -551,17 +573,6 @@
     ]
   },
   {
-    "title": "Ecomuseology",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Ecomuseology.md",
-    "aliases": [
-      "生态博物馆学",
-      "生态博物馆",
-      "ecomuseum",
-      "ecomuseums"
-    ]
-  },
-  {
     "title": "Epistemology of Resistance",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Epistemology of Resistance.md",
@@ -602,17 +613,6 @@
     ]
   },
   {
-    "title": "Ideal Learner",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Ideal Learner.md",
-    "aliases": [
-      "理想学习者",
-      "ideal learner image",
-      "ideal-learner image",
-      "理想学习者形象"
-    ]
-  },
-  {
     "title": "Incarnation-Extension Dialectics",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Incarnation-Extension Dialectics.md",
@@ -637,17 +637,6 @@
       "human intellect",
       "human mind",
       "western mind"
-    ]
-  },
-  {
-    "title": "Mind-Oriented Learning Process",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Mind-Oriented Learning Process.md",
-    "aliases": [
-      "心智导向学习过程",
-      "mind-oriented process",
-      "Western learning process",
-      "心智导向"
     ]
   },
   {
@@ -711,17 +700,6 @@
     ]
   },
   {
-    "title": "Social Museology",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Social Museology.md",
-    "aliases": [
-      "社会博物馆学",
-      "sociomuseology",
-      "sociomuseologia",
-      "new museology"
-    ]
-  },
-  {
     "title": "Structural Coupling",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Structural Coupling.md",
@@ -775,16 +753,6 @@
     "path": "wiki/concepts/educational-philosophy/Vergegenkunft.md",
     "aliases": [
       "过去现在未来同现"
-    ]
-  },
-  {
-    "title": "Western Learner",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Western Learner.md",
-    "aliases": [
-      "西方学习者",
-      "Western learner model",
-      "Western learning model"
     ]
   },
   {
@@ -1009,6 +977,14 @@
     ]
   },
   {
+    "title": "Reusability Paradox",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Reusability Paradox.md",
+    "aliases": [
+      "可重用性悖论"
+    ]
+  },
+  {
     "title": "School Autonomy",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/School Autonomy.md",
@@ -1132,14 +1108,6 @@
       "LA",
       "Educational Data Mining",
       "EDM"
-    ]
-  },
-  {
-    "title": "Reusability Paradox",
-    "type": "concept",
-    "path": "wiki/concepts/educational-technology/Reusability Paradox.md",
-    "aliases": [
-      "可重用性悖论"
     ]
   },
   {
@@ -2265,6 +2233,17 @@
     ]
   },
   {
+    "title": "Ideal Learner",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Ideal Learner.md",
+    "aliases": [
+      "理想学习者",
+      "ideal learner image",
+      "ideal-learner image",
+      "理想学习者形象"
+    ]
+  },
+  {
     "title": "Intrinsic vs Extrinsic Motivation",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Intrinsic vs Extrinsic Motivation.md",
@@ -2312,6 +2291,17 @@
       "美德归因",
       "mind efficacy",
       "virtue efficacy"
+    ]
+  },
+  {
+    "title": "Mind-Oriented Learning Process",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Mind-Oriented Learning Process.md",
+    "aliases": [
+      "心智导向学习过程",
+      "mind-oriented process",
+      "Western learning process",
+      "心智导向"
     ]
   },
   {
@@ -2438,6 +2428,27 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Updating and Monitoring.md",
     "aliases": [
       "更新与监控"
+    ]
+  },
+  {
+    "title": "Virtue-Oriented Learning Process",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Virtue-Oriented Learning Process.md",
+    "aliases": [
+      "美德导向学习过程",
+      "virtue-oriented process",
+      "East Asian learning process",
+      "美德导向"
+    ]
+  },
+  {
+    "title": "Western Learner",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Western Learner.md",
+    "aliases": [
+      "西方学习者",
+      "Western learner model",
+      "Western learning model"
     ]
   },
   {
@@ -2911,28 +2922,6 @@
       "波动性-不确定性-复杂性-模糊性",
       "VUCA 框架",
       "VUCA环境"
-    ]
-  },
-  {
-    "title": "Xiaokang",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Xiaokang.md",
-    "aliases": [
-      "小康社会",
-      "小康之家",
-      "xiaokang society",
-      "peaceful and prosperous society"
-    ]
-  },
-  {
-    "title": "Zhonghua Minzu",
-    "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Zhonghua Minzu.md",
-    "aliases": [
-      "中华民族",
-      "Chinese nation",
-      "Zhonghua minzu",
-      "中华民族多元一体"
     ]
   },
   {
@@ -3646,6 +3635,17 @@
       "零和博弈式竞争",
       "mutually exclusive competition",
       "排他性竞争"
+    ]
+  },
+  {
+    "title": "Zhonghua Minzu",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Zhonghua Minzu.md",
+    "aliases": [
+      "中华民族",
+      "Chinese nation",
+      "Zhonghua minzu",
+      "中华民族多元一体"
     ]
   },
   {

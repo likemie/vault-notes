@@ -3,8 +3,8 @@ citation: "Delambre, D. (2022). Creative Tension of Sense and the Whole Approach
 extracted_to:
   - "[[Argument_Delambre_2022_Springer]]"
   - "[[Ecomuseology]]"
-  - "[[Epistemology of Resistance]]"
   - "[[Social Museology]]"
+  - "[[Epistemology of Resistance]]"
   - "[[Whole Sustainability]]"
   - "[[Life Power]]"
   - "[[Tense Society]]"
