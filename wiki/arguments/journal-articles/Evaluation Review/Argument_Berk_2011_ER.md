@@ -14,6 +14,7 @@ tags:
 - methodology-critique
 - subject/research-methodology
 related_concepts:
+  - "[[Literature Review]]"
   - "[[Stable Unit Treatment Value Assumption]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
@@ -49,7 +50,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**：反思性论文（reflective essay），基于 35 年编辑经验和方法论文献综述
+> - **方法**：反思性论文（reflective essay），基于 35 年编辑经验和方法论[[Literature Review|文献综述]]
 > - **数据来源**：作为创始编辑经手的数百篇评估研究论文、因果推断方法论文献（Neyman, Rubin, Holland, Pearl, [[Campbell Collaboration|Campbell]], Freedman, Rosenbaum 等）、Berk 本人的研究项目（Berk, 2004, 2005, 2007）
 
 ## 核心论证
@@ -81,7 +82,7 @@ updated: '2026-05-18'
 >
 > 元分析"从一个好主意开始"——当有可比的随机实验时，合并结果可以获得统计功效（Berk, 2011, p.198）。但当研究不可比较（不同处理、不同结果、不同主体）、非随机实验被合并（有偏估计不会相互抵消）、以及统计推断不成立（研究不独立——研究者互相阅读、交流、合作）时，元分析"开始脱轨"。
 >
-> > "In short, the importance of meta-analysis for estimating causal effects has been grossly overrated. A conventional literature review will often do better." (Berk, 2011, p.199)
+> > "In short, the importance of meta-analysis for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better." (Berk, 2011, p.199)
 
 ## 主要发现
 
@@ -91,7 +92,7 @@ updated: '2026-05-18'
 > 3. **不存在简单的解码装置**：任何易于实施的规则集都可能扼杀创新（Berk, 2011, pp.192–193）
 > 4. **随机实验的社会保护功能**：[[Randomised Controlled Trials|RCT]] 的最强理由不是方法论的，而是制度性的——它比其它设计更能防止研究者"以各种方式陷入统计列车事故"（Berk, 2011, p.196）
 > 5. **[[Causal Modeling|因果建模]]的韧性**：尽管被反复批评，因果建模之所以存留，部分原因是它承诺整合理论与统计——且"有时难以准确具体说明风险"（Berk, 2011, p.197）
-> 6. **[[Meta-analysis|元分析]]被严重过度评价**：常规文献综述"通常做得更好"——至少读者不会被"伪装成统计炫技的统计不当行为"所影响（Berk, 2011, p.199）
+> 6. **[[Meta-analysis|元分析]]被严重过度评价**：常规[[Literature Review|文献综述]]"通常做得更好"——至少读者不会被"伪装成统计炫技的统计不当行为"所影响（Berk, 2011, p.199）
 
 ## 关键引用
 

@@ -9,6 +9,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Governmentality]]"
   - "[[Discursive Opportunity Structures]]"
+  - "[[Literature Review]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
   - "[[VUCA]]"
@@ -54,7 +55,7 @@ book_title: "Geopolitical Transformations in Higher Education_ Imagining, Fabric
 > [!info]
 > 该章采用批判性话语分析（critical discourse analysis）方法，具体做法为：
 > - **文本汇编**：收集并整理七个国际和国家层面的 21 世纪关键技能与素养框架（enGauge, P21, NRC, ATCS, WEF, OECD, EC），时间跨度超过 15 年。
-> - **[[Critical Companion|批判性伴随]]**（critical companion）：不提供传统的系统性文献综述，而是对这些框架进行批判性检视，识别其核心特征、共同模式和盲点（Zelinka, 2022, p.254）。
+> - **[[Critical Companion|批判性伴随]]**（critical companion）：不提供传统的系统性[[Literature Review|文献综述]]，而是对这些框架进行批判性检视，识别其核心特征、共同模式和盲点（Zelinka, 2022, p.254）。
 > - **精细化分析**（fine-grained analysis）：在总体检视后，聚焦三组"张力对"（tension-pairs）来更细致地揭示主体性的生产过程（Zelinka, 2022, p.260）。
 
 ## 论证结构

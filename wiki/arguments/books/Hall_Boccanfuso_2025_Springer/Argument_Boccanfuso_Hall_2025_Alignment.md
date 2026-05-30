@@ -9,6 +9,7 @@ tags:
   - "theme/innovation"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Literature Review]]"
   - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
   - "[[Academic Freedom]]"
@@ -49,7 +50,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [!question]
 > 大学和企业是两种治理模式、文化传统和核心目标截然不同的组织，它们之间的合作如何可能？为什么有些[[University-Industry Collaboration|产学合作]]取得了突破性成果，而大量合作谈判却无果而终？要回答这些问题，需要一个系统框架来理解产学合作（University-Industry Collaboration）的运作逻辑：合作的回报是什么、双方目标在何处对齐又在何处分歧、结构性的挑战从何而来，以及什么样的机制能够帮助双方克服障碍。
 
-这一章并非实证研究，而是全书的导论章——既提出了贯穿全书的核心概念框架，也通过历史追溯、文献综述和 [[University Industry Demonstration Partnership|UIDP]] 案例为后续各章提供背景基础。
+这一章并非实证研究，而是全书的导论章——既提出了贯穿全书的核心概念框架，也通过历史追溯、[[Literature Review|文献综述]]和 [[University Industry Demonstration Partnership|UIDP]] 案例为后续各章提供背景基础。
 
 ---
 
@@ -65,7 +66,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 研究方法
 
 > [!info]
-- 类型：导论性书籍章节，兼有文献综述、历史分析和框架建构
+- 类型：导论性书籍章节，兼有[[Literature Review|文献综述]]、历史分析和框架建构
 - 方法：基于既有文献和从业经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO，Hall 为 USC 前科研副校长），构建[[University-Industry Collaboration|产学合作]]的分析框架
 - 未报告独立的实证数据；四个合作案例（IBM-Stanford、Boeing-Sheffield、HM-Medtronic、Mars-UC Davis）作为说明性证据引用
 
@@ -292,7 +293,7 @@ UIDP 的项目过程也值得注意：采用"Heilmeier Catechism"格式的项目
 ## 自述局限
 
 > [!warning]
-- 这一章的功能是提供全书的导论框架而非完整的文献综述；更全面的研究综述在第二章中呈现（p.11）
+- 这一章的功能是提供全书的导论框架而非完整的[[Literature Review|文献综述]]；更全面的研究综述在第二章中呈现（p.11）
 - 四个合作案例（IBM-Stanford、Boeing-Sheffield、HM-Medtronic、Mars-UC Davis）是说明性的而非系统性的案例研究——它们展示了合作的可能性，但未提供失败案例的同等详细分析
 - 分析主要基于美国大学和企业体系的经验；虽然 [[University Industry Demonstration Partnership|UIDP]] 的国际扩展被提及，但对非美国背景下的[[University-Industry Collaboration|产学合作]]挑战和机制着墨有限（p.19）
 

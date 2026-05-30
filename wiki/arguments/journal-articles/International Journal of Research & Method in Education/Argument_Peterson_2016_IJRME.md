@@ -15,8 +15,8 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Mechanism Experiments]]"
+  - "[[Literature Review]]"
   - "[[Black Box RCTs]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
@@ -50,7 +50,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：文献综述（literature review），辅以与美英"什么有效"倡议的管理者、评估者和使用者的对话
+> - 方法：[[Literature Review|文献综述]]（literature review），辅以与美英"什么有效"倡议的管理者、评估者和使用者的对话
 > - 范围：证据创造、证据本位实践和教育研究伙伴关系的文献
 > - 对话对象：主要参与美国 [[Investing in Innovation Program|i3]] 拨款和英国 EEF 的相关人员
 
@@ -69,7 +69,7 @@ updated: '2026-05-18'
 >
 > **组件一：[[Mechanism Experiments|机制实验]]取代黑箱 RCT**
 >
-> 将 RCT 从评估完整项目转为测试可[[Transfer Translation Transformation|迁移]]的教育变革机制——"影响学习的最直接且最显著的因素"（p. 303）。关键方法论工具是**鼓励设计**（Imai, Tingley, & Yamamoto, 2013）：受试者被随机分配接受"鼓励"以采取更高值的中介变量，从而隔离特定机制的独立因果贡献。
+> 将 RCT 从评估完整项目转为测试可迁移的教育变革机制——"影响学习的最直接且最显著的因素"（p. 303）。关键方法论工具是**鼓励设计**（Imai, Tingley, & Yamamoto, 2013）：受试者被随机分配接受"鼓励"以采取更高值的中介变量，从而隔离特定机制的独立因果贡献。
 >
 > **组件二：改进和探究网络融入"什么有效"基础设施**
 >

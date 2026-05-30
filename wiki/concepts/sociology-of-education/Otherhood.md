@@ -11,6 +11,7 @@ tags:
 related_concepts:
   - "[[Organizational Actorhood]]"
   - "[[University Social Responsibility]]"
+  - "[[Literature Review]]"
   - "[[Knowledge Production]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -95,7 +96,7 @@ updated: '2026-05-18'
 > [!success]
 > - 在世界社会的去中心化和无定形配置中，大学和国际组织（IOs）找到了一个独特的位置（niche），因为它们提供并装备了客观知识的合法性与权威及其所填充的[[Cultural Models|文化模型]]（Zapp, 2020b，引自 Zapp, 2022, p.149）
 > - Zapp (2017b) 发现公立大学是所有国际组织最频繁的研究合作者——平均 40,000 篇出版物由大学和 IO 研究者共同署名——这不仅是研究合作的数据，更是 otherhood 的量化证据：大学在替国际组织生产和认证知识（Zapp, 2022, p.151）
-> - Zapp (2020a) 对 1947–2019 年间 100+ 份 IO 全球报告的分析发现，从 1980 年代末起所有报告均开始引用科学资源，部分报告已类似于包含数千条学术参考文献的大规模文献综述——知识从大学流向全球治理，otherhood 是这条渠道的机制性名称（Zapp, 2022, p.151）
+> - Zapp (2020a) 对 1947–2019 年间 100+ 份 IO 全球报告的分析发现，从 1980 年代末起所有报告均开始引用科学资源，部分报告已类似于包含数千条学术参考文献的大规模[[Literature Review|文献综述]]——知识从大学流向全球治理，otherhood 是这条渠道的机制性名称（Zapp, 2022, p.151）
 > - 大学 otherhood 正在重新塑造全球治理的图景：大学不再只是[[Knowledge Production|知识生产]]者，而是全球治理中的积极行动者。四种嵌入机制——研究对齐、教学对齐、内部政策对齐、网络对齐——都是 otherhood 的具体制度化表达（Zapp, 2022, pp.149–154）
 > - 许多大学协会不仅为其成员带来利益，也涉及显著的成本和承诺，这表明大学在推动可持续发展事业中存在超越自身利益考量的真正投入（Zapp, 2022, pp.153–154）
 

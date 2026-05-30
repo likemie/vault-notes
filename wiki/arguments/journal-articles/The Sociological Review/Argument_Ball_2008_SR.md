@@ -18,6 +18,7 @@ related_concepts:
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
+  - "[[Literature Review]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -135,7 +136,7 @@ issuing_organization: ""
 >
 > ### 论证更偏学科史解释而非系统证据比较
 >
-> 文章通过代表性人物、文本和政策事件组织论证，适合提供问题化的历史解释；但它不是系统文献综述，也没有用明确标准比较各时期研究的总体分布。因此，三段历史更像一条批判性解释线索，而不是穷尽性的学科地图。
+> 文章通过代表性人物、文本和政策事件组织论证，适合提供问题化的历史解释；但它不是系统[[Literature Review|文献综述]]，也没有用明确标准比较各时期研究的总体分布。因此，三段历史更像一条批判性解释线索，而不是穷尽性的学科地图。
 
 ## 来源
 

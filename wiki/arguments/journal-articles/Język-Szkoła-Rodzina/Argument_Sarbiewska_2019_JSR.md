@@ -16,6 +16,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
+  - "[[Literature Review]]"
 related_theories:
   - "[[Radical Constructivism]]"
 related_methods: []
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：文献综述与政策分析
+> - 方法：[[Literature Review|文献综述]]与政策分析
 > - 范围：新西兰和澳大利亚教育系统（1980s–2019）
 > - 数据来源：政府报告、学术文献、[[PISA]] 数据、教育政策文件
 
@@ -95,7 +96,7 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文为文献综述而非实证研究，未提供原始数据
+> - 论文为[[Literature Review|文献综述]]而非实证研究，未提供原始数据
 > - 作者承认 VL 面临方法论和理论批评，但仍以支持性立场论述其政策价值
 > - 作者为波兰教育者，以波兰教育改革为隐含参照框架，可能存在选择偏倚
 > - 对新西兰和澳大利亚政策失败的讨论较为简略（仅提及 [[Tomorrow's Schools Reforms|Tomorrow's Schools]] 的负面反馈）

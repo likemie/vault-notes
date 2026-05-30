@@ -18,6 +18,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Class Size]]"
   - "[[Tracking]]"
+  - "[[Literature Review]]"
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:
@@ -56,7 +57,7 @@ updated: 2026-05-18
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**：理论综合与文献综述（Theoretical synthesis and literature review）
+> - **方法**：理论综合与[[Literature Review|文献综述]]（Theoretical synthesis and literature review）
 > - **核心经验方法**：系统审查并综合 [[Seasonal Comparison]] 研究的证据，覆盖 Heyns (1978)、Entwisle & Alexander (1992, 1994)、Downey et al. (2004) ECLS-K、von Hippel et al. (2007)、Downey, Workman & von Hippel (2016) 等
 > - **分析策略**：识别传统方法面临的三个方法论障碍 → 展示季节性比较如何克服这些障碍 → 综合季节性比较证据 → 提出[[Refraction Framework|折射框架]]作为理论调和 → 分析忽视补偿性潜力的代价
 > - **证据基础**：全国代表性数据（ECLS-K 1998 和 2011）、地方纵向数据（巴尔的摩、亚特兰大）、NWEA 大规模评估数据

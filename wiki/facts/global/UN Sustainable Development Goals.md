@@ -18,6 +18,7 @@ related_concepts:
   - "[[Third Mission (Universities)]]"
   - "[[University Social Responsibility]]"
   - "[[Otherhood]]"
+  - "[[Literature Review]]"
   - "[[Epistemic Governance]]"
   - "[[Organizational Actorhood]]"
 related_theories: []
@@ -81,7 +82,7 @@ updated: '2026-05-18'
 > [!success]
 > - SDGs 为大学的 [[Otherhood]] 活动提供了全球性议程框架和合法性依据（Zapp, 2022, p.150）
 > - Zapp & Lerch (2020) 对全球近 465,000 个学位项目的分析识别出 22,451 个具有国际取向的项目，表明 SD 和全球治理已成为大学课程的重要组成部分（Zapp, 2022, p.152）
-> - 大学知识正缓慢渗透全球治理：Zapp (2020a) 发现从 1980 年代末起，所有国际组织全球报告均开始引用科学资源，部分报告已类似于大规模文献综述（Zapp, 2022, p.151）
+> - 大学知识正缓慢渗透全球治理：Zapp (2020a) 发现从 1980 年代末起，所有国际组织全球报告均开始引用科学资源，部分报告已类似于大规模[[Literature Review|文献综述]]（Zapp, 2022, p.151）
 
 > [!info]- 核心数据
 > - **17 项 SDGs**，**193 个**成员国通过（2015）（Zapp, 2022, p.150）

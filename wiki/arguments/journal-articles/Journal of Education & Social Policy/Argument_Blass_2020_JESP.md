@@ -15,9 +15,9 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"
+  - "[[Literature Review]]"
   - "[[Surface and Deep Learning]]"
   - "[[Didaktik]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
@@ -59,7 +59,7 @@ updated: '2026-05-18'
 >
 > - **不加权平均问题**：Arnold (2011, p.219) 指出 [[John Hattie|Hattie]] 使用不加权平均值汇总 800 项[[Meta-analysis|元分析]]的[[Effect Size|效应量]]——小型和大型元分析权重相等。Arnold 抽查 Kuncel et al. (2005) 一项研究发现该论文实际是关于"事后自我报告成绩的效度"而非 Hattie 声称的"学生对自己学习表现的期望和预测力"——该论文本不应被纳入分析（Blass, 2020, p.92）
 > - **Blass 本人的附录抽查**：在探究式教学中，4 项贡献研究中有 3 项仅适用于科学、1 项关于批判性思维技能。深入看：一项关于教师教育（Sweitzer & Anderson, 1983）、一项关于评估方法对结果的影响（Shymansky, Hedges & Woodworth, 1990）、一项是未发表论文（Smith, 1996）、一项关于方法的"新颖性"（Bangert-Drowns, 1992）——没有一项直接比较探究式教学与其他教学方法（Blass, 2020, p.92）
-> - **[[Problem-Based Learning|PBL]] 元分析的情境错配**：8 项研究中 3 项在医学领域（大学课程而非学校）、1 项是探索性研究而非元分析（Newman, 2004）、1 项是文献综述（Albanese & Mitchell, 1993）。仅 1 项在学校比较了教学方法且效应量最大（37%, Haas, 2005），2 项关注评估对 PBL 本身的影响（Blass, 2020, p.92）
+> - **[[Problem-Based Learning|PBL]] 元分析的情境错配**：8 项研究中 3 项在医学领域（大学课程而非学校）、1 项是探索性研究而非元分析（Newman, 2004）、1 项是[[Literature Review|文献综述]]（Albanese & Mitchell, 1993）。仅 1 项在学校比较了教学方法且效应量最大（37%, Haas, 2005），2 项关注评估对 PBL 本身的影响（Blass, 2020, p.92）
 >
 > ### 2. 情境
 >
@@ -87,7 +87,7 @@ updated: '2026-05-18'
 > - Hattie 的工作出版于 2009 年，但纳入的大多数研究发表于 1980s–1990s，即使 2000s 初期的研究也使用了 1990s 的数据（Blass, 2020, p.95）
 > - 这些研究进行时的教室特征是：学生排排坐、教师用粉笔或白板笔、电视被视为负面效应量。而现代教室中手机、笔记本电脑、平板、流媒体和社交媒体均不存在于当时的研究中（Blass, 2020, p.95）
 > - 关键质问："你会想要一个外科医生查阅 1990 年的书来学习机器人手术吗？你想要肿瘤学家查找 1980 年代的最新癌症治疗方法吗？不！那么为什么你允许那个时代的教学结果影响你今天在课堂上的行为？"（Blass, 2020, p.95）
-> - Hattie 本人并未停留在 20 世纪——Hattie & Donoghue (2016) 放弃了排名，转而开发了一个包含三输入（技能/意愿/激情）和三阶段（表层/深层/[[Transfer Translation Transformation|迁移]]）的学习模型（Blass, 2020, pp.95–96）
+> - Hattie 本人并未停留在 20 世纪——Hattie & Donoghue (2016) 放弃了排名，转而开发了一个包含三输入（技能/意愿/激情）和三阶段（表层/深层/迁移）的学习模型（Blass, 2020, pp.95–96）
 
 ## 主要发现
 

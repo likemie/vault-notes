@@ -11,8 +11,8 @@ extracted_to:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
-  - "[[Problem-Based Learning]]"
   - "[[Phenomenology]]"
+  - "[[Problem-Based Learning]]"
 processed_date: 2026-05-06
 ---
 

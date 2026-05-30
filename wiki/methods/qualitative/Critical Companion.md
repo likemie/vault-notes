@@ -7,11 +7,13 @@ method_type: qualitative
 tags: ["method/discourse-analysis", "method/critical", "theme/discourse", "theme/global-governance"]
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Literature Review]]"
   - "[[Discursive Opportunity Structures]]"
   - "[[Governmentality]]"
   - "[[Self-Entrepreneur]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Ethnography]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
@@ -28,7 +30,7 @@ updated: 2026-05-21
 ## 定义
 
 > [!info]
-> 批判性伴随（critical companion）是 Zelinka（2022, p.254）在分析 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse|SCD]]）时采用的一种质性话语分析方法。其核心特征是与所分析的全球话语保持"伴随"关系——不提供传统的系统性文献综述，而是对政策框架进行批判性检视，识别其核心特征、共同模式和盲点（Zelinka, 2022, p.254）。
+> 批判性伴随（critical companion）是 Zelinka（2022, p.254）在分析 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse|SCD]]）时采用的一种质性话语分析方法。其核心特征是与所分析的全球话语保持"伴随"关系——不提供传统的系统性[[Literature Review|文献综述]]，而是对政策框架进行批判性检视，识别其核心特征、共同模式和盲点（Zelinka, 2022, p.254）。
 
 该方法的命名暗示了其认识论姿态：研究者不是站在话语外部进行"客观分析"，而是以批判性的态度"伴随"话语运作，揭示话语如何框定思维与行动的可能性——即[[Discursive Opportunity Structures|话语性机会结构]]（Parreira do Amaral & Dale, 2015, cit. by Zelinka, 2022, p.253）。
 
@@ -58,8 +60,8 @@ updated: 2026-05-21
 ## 局限性
 
 > [!warning]
-> - 批判性伴随不是系统性文献综述，不追求覆盖的完备性，因此对特定框架的选择可能影响分析结论（Zelinka, 2022, p.254）
-> - 该方法聚焦话语文本层面，不直接分析话语的政策效果或接受实践——需要与其他方法（如政策民族志、访谈）配合使用才能完整追踪话语的治理效果
+> - 批判性伴随不是系统性[[Literature Review|文献综述]]，不追求覆盖的完备性，因此对特定框架的选择可能影响分析结论（Zelinka, 2022, p.254）
+> - 该方法聚焦话语文本层面，不直接分析话语的政策效果或接受实践——需要与其他方法（如政策[[Ethnography|民族志]]、访谈）配合使用才能完整追踪话语的治理效果
 > - 研究者自身的批判性立场构成方法的一部分，这也意味着分析结论不可避免地带有规范性判断
 
 ## 使用此方法的研究

@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Moral Sidestep]]"
   - "[[Justified Warrants]]"
+  - "[[Literature Review]]"
 related_theories:
   - "[[Van Leeuwen's Legitimation Theory]]"
 related_methods:
@@ -82,7 +83,7 @@ updated: '2026-05-18'
 
 ## 论证结构
 
-1. **文献综述三阶段**：审查政府与学术界对"证据"的不同理解 → 综述证据在政策制定中使用的文献 → 提供选择性教育研究证据与政党宣言概述（p.4–12）
+1. **[[Literature Review|文献综述]]三阶段**：审查政府与学术界对"证据"的不同理解 → 综述证据在政策制定中使用的文献 → 提供选择性教育研究证据与政党宣言概述（p.4–12）
 2. **描述统计分析**（Findings 1）：以 NVivo 编码议会辩论，识别主题频率和党派分布，发现"好学校"话语的主导地位——164 次提及，保守党 125 vs 工党 30（p.14–15）
 3. **轶事分析**（Findings 2）：识别议会辩论中轶事证据的使用模式——保守党使用[[Grammar School|文法学校]]轶事的频率是工党两倍以上（18 vs 8）；31/67 次轶事直接关涉文法学校（p.16–17）
 4. **[[Carnivalesque Analysis|嘉年华式分析]]**（Findings 3）：以玩味态度外推政策逻辑——若所有 [[Ofsted]] 评级 good/outstanding 学校均获同等扩展资金，总预算将超 £84 亿（p.17–19）

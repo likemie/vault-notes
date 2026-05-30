@@ -17,6 +17,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[Grade Retention]]"
+  - "[[Literature Review]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods: []
@@ -56,7 +57,7 @@ updated: 2026-05-24
 ## 效果与评价
 
 > [!success]
-> Dachet 与 Baye 综合指出，关于[[Grade Retention|留级]]的穷尽性和批判性文献综述没有识别出正向平均效果；因此，对留级只提出 2030 年减半目标，被他们评价为改革力度不足（Dachet & Baye, 2021, pp.172, 174）。
+> Dachet 与 Baye 综合指出，关于[[Grade Retention|留级]]的穷尽性和批判性[[Literature Review|文献综述]]没有识别出正向平均效果；因此，对留级只提出 2030 年减半目标，被他们评价为改革力度不足（Dachet & Baye, 2021, pp.172, 174）。
 
 > [!info]- 核心数据
 > - [[PISA]] 2015：1 至 10 年级 46% 学生受留级影响（Dachet & Baye, 2021, p.165）。

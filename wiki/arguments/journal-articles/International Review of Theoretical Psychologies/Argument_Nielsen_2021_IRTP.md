@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Technical Rationality]]"
+  - "[[Literature Review]]"
   - "[[Effect Size]]"
   - "[[Didaktik]]"
   - "[[Feedback]]"
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 
 > [!info] 研究方法
 > - 方法：理论分析（theoretical analysis）与概念批判
-> - 策略：运用 Habermas 的系统/生活世界（system/lifeworld）二元框架和合法化危机概念，解释 VL 的流行现象；结合对 VL 方法论问题的已有文献综述
+> - 策略：运用 Habermas 的系统/生活世界（system/lifeworld）二元框架和合法化危机概念，解释 VL 的流行现象；结合对 VL 方法论问题的已有[[Literature Review|文献综述]]
 
 ## 核心论证
 

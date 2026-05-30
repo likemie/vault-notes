@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
+  - "[[Literature Review]]"
   - "[[Updating and Monitoring]]"
   - "[[Synaptogenesis]]"
   - "[[Synaptic Pruning]]"
@@ -54,7 +55,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：文献综述（Literature Review）
+> - 方法：[[Literature Review|文献综述]]（Literature Review）
 > - 数据来源：已有的神经影像学研究（[[Functional Magnetic Resonance Imaging|fMRI]]、[[Electroencephalography|EEG]]、PET、NIRS）、尸检脑解剖研究、[[Executive Function|EF]] 行为任务研究、[[Jean Piaget|皮亚杰]]和[[Neo-Piagetian Theories|新皮亚杰理论]]文献
 
 ## 核心论证
@@ -85,7 +86,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - 论文自身承认的局限：大多数 [[Functional Magnetic Resonance Imaging|fMRI]] 和 PET 研究集中于 7 岁以上儿童，对年幼儿童的脑功能影像数据有限；便携式 [[Electroencephalography|EEG]] 的引入有望填补这一空白（Bolton & [[John Hattie|Hattie]], 2017, p.9）
-> - 论文为文献综述而非实证研究，论证基于已有研究的综合分析
+> - 论文为[[Literature Review|文献综述]]而非实证研究，论证基于已有研究的综合分析
 > - [[Prefrontal Cortex|PFC]] 功能定位的复杂性：不同区域的功能更多由接收的认知信息类型而非区域位置所中介，因果推断需谨慎（Bolton & Hattie, 2017, p.7–8）
 
 ## 来源

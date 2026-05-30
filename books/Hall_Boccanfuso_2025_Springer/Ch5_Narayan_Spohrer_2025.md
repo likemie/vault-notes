@@ -5,8 +5,8 @@ extracted_to:
   - "[[T-Shaped Skills]]"
   - "[[Jim Spohrer]]"
   - "[[Precompetitive Research]]"
-  - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
   - "[[Translational Research]]"
+  - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

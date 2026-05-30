@@ -32,11 +32,12 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[Bildung]]"
+  - "[[Literature Review]]"
   - "[[Credential Inflation]]"
   - "[[Employability]]"
   - "[[Student Engagement]]"
   - "[[Student Involvement]]"
-  - "[[Pragmatism in China]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Symbolic Boundary]]"
   - "[[Constructivist Paradigm]]"
   - "[[Self-Authorship]]"
@@ -193,7 +194,7 @@ updated: 2026-05-18
 
 ### 第一章 迷宫
 
-**本章性质：** 纯文献综述章。以已有研究和统计数据为据，为读者勾勒精英大学这一"游戏场"的基本布局和竞争规则。所有发现均来自**以往文献**，尚未进入本书自身的质性分析。
+**本章性质：** 纯[[Literature Review|文献综述]]章。以已有研究和统计数据为据，为读者勾勒精英大学这一"游戏场"的基本布局和竞争规则。所有发现均来自**以往文献**，尚未进入本书自身的质性分析。
 
 **核心论证链：** 当代精英大学是一个布迪厄意义上的"游戏场"（[[Champ]]）→ 这个场域的"游戏规则"对学生提出了特定的隐性要求 → 不同阶层出身的学生在获知和满足这些要求方面面临天差地别的难度。
 
@@ -364,7 +365,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 **（b）但目标并非个体的自由选择——社会学的问题化**
 - Roberts（1975）：决策由个体在劳动力市场上的"机会结构"（opportunity structure）决定，机会结构由工业组织、政策和社会阶层共同塑造（郑雅君，2023）
 - Breen & Goldthorpe（1997）的理性行动理论（RAT）：不同阶层对风险-收益的理性衡量有系统性差异 → 揭示家庭背景在教育选择中的"次属效应"（second effects）（郑雅君，2023）
-- Hodkinson & Sparkes（1997）：结合布迪厄习性与场域理论，提出修正模型 —（a）理性选择是[[Pragmatism in China|实用主义]]式的个体选择，但深受习性影响；（b）场域中不平等的资源分配影响与场域中其他人的互动；（c）决策受人生历程中难以预料的转折点和路径影响（郑雅君，2023）
+- Hodkinson & Sparkes（1997）：结合布迪厄习性与场域理论，提出修正模型 —（a）理性选择是[[Pragmatic Paradigm|实用主义]]式的个体选择，但深受习性影响；（b）场域中不平等的资源分配影响与场域中其他人的互动；（c）决策受人生历程中难以预料的转折点和路径影响（郑雅君，2023）
 
 > 关键发现：学生的决策基于他们自身已经了解的信息，而这些信息自然是有偏颇的——决策与家庭背景、文化背景和生活经历密不可分（郑雅君，2023，引 Hodkinson & Sparkes, 1997）
 

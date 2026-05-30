@@ -15,6 +15,7 @@ tags:
 - rct
 - level/k12
 related_concepts:
+  - "[[Literature Review]]"
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：概念论证 + 三个案例的文献综述
+> - 方法：概念论证 + 三个案例的[[Literature Review|文献综述]]
 > - 案例一：[[Direct Instruction|直接教学]]——引用 Peterson (1979)、Bonawitza et al. (2011)、Buchsbauma et al. (2011)、Kapur (2014/2016)
 > - 案例二：东亚教育体系——引用 TIMSS 和 [[PISA]] 的跨国数据（考试成绩 vs 自信心/态度的负相关）
 > - 案例三：[[No Child Left Behind Act 2001|NCLB]] 测试问责——引用 Nichols & Berliner (2007) 的系统性副作用记录
@@ -79,7 +80,7 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 三个案例均为概念论证和文献回顾，未提供原创实证数据
+> - 三个案例均为概念论证和[[Literature Review|文献回顾]]，未提供原创实证数据
 > - 东亚教育体系案例的推论基于跨国相关关系（非因果关系），需纵向研究确认
 > - 6 项行动建议未讨论实施这些建议本身的潜在副作用
 

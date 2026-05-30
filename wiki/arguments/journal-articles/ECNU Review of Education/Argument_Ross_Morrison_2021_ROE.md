@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Absorptive Capacity]]"
+  - "[[Literature Review]]"
   - "[[Technology Infusion]]"
   - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
@@ -33,6 +34,7 @@ related_methods:
   - "[[Logic Model]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
@@ -65,7 +67,7 @@ updated: 2026-05-23
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：文献综述加案例说明。前半部分梳理教育证据使用中的标准、限制和消费者偏好；后半部分用巴尔的摩郡公立学校 [[Students and Teachers Accessing Tomorrow|STAT]] [[Technology Infusion|技术整合]]项目展示复杂系统中证据如何被生成、解释和争议化（Ross & Morrison, 2021, pp.109-110, 113-115）。
+> - 方法：[[Literature Review|文献综述]]加案例说明。前半部分梳理教育证据使用中的标准、限制和消费者偏好；后半部分用巴尔的摩郡公立学校 [[Students and Teachers Accessing Tomorrow|STAT]] [[Technology Infusion|技术整合]]项目展示复杂系统中证据如何被生成、解释和争议化（Ross & Morrison, 2021, pp.109-110, 113-115）。
 > - 案例资料：STAT 评价使用教师问卷、学生焦点小组、校长与教师访谈、课堂观察、学校行为数据和英语语言艺术与数学成就数据；项目在 2014-2015 至 2018-2019 年分批扩展到全学区（Ross & Morrison, 2021, pp.115-118）。
 > - 研究定位：不是为了证明 STAT 的单一因果效应，而是展示综合性改革中[[Formative Program Evaluation|形成性项目评价]]、[[Logic Model|逻辑模型]]和多方解释如何共同影响项目持续性（Ross & Morrison, 2021, pp.121-124）。
 
@@ -87,7 +89,7 @@ updated: 2026-05-23
 
 ### 第二层：严格证据会把“有效性”压缩得过窄
 
-4. 但正式证据标准通常把“有效”理解为：在严格控制的实验研究中，对学生成就产生统计显著的正向效果。这使很多地方上有价值的结果被排除在证据视野之外（Ross & Morrison, 2021, pp.110-112）。
+4. 但正式证据标准通常把“有效”理解为：在严格控制的[[Experimental Research|实验研究]]中，对学生成就产生统计显著的正向效果。这使很多地方上有价值的结果被排除在证据视野之外（Ross & Morrison, 2021, pp.110-112）。
 
 5. [[Technology Infusion|技术融入]]和其他补充性项目尤其容易遇到这个问题。它们每周使用时间可能很有限，很难在短期内让标准化测验成绩显著上升；但它们可能改善学生动机、释放教师个别辅导时间、增加个性化学习活动，或提升技术接入公平（Ross & Morrison, 2021, pp.110-111）。
 

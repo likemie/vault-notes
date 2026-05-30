@@ -16,8 +16,8 @@ extracted_to:
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer]]"
   - "[[Bayh-Dole Act of 1980]]"
-  - "[[Argument_Boccanfuso_Hall_2025_Alignment]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Argument_Boccanfuso_Hall_2025_Alignment]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

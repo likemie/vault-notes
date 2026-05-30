@@ -18,6 +18,7 @@ related_concepts:
   - "[[Transformative Change]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Literature Review]]"
   - "[[Absorptive Capacity]]"
   - "[[Knowledge Production]]"
   - "[[Corporate R&D Labs]]"
@@ -71,7 +72,7 @@ updated: 2026-05-27
 ## 研究方法
 
 > [!info]
-> 本章为文献综述，综合了大量历史研究（Arora et al., 2020; Martin, 2012）、政策分析（Schot & Steinmueller, 2018; Lindner et al., 2024）、实证调查（Cohen et al., 2002; Hughes & Kitson, 2012）和大型纵向数据库（美国 [[National Science Foundation|NSF]] HERD Survey、英国 HEBCI Survey）。资料来源覆盖美国、英国、欧洲和中国的政策演变。
+> 本章为[[Literature Review|文献综述]]，综合了大量历史研究（Arora et al., 2020; Martin, 2012）、政策分析（Schot & Steinmueller, 2018; Lindner et al., 2024）、实证调查（Cohen et al., 2002; Hughes & Kitson, 2012）和大型纵向数据库（美国 [[National Science Foundation|NSF]] HERD Survey、英国 HEBCI Survey）。资料来源覆盖美国、英国、欧洲和中国的政策演变。
 
 ---
 

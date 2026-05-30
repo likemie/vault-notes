@@ -17,6 +17,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Programme Fidelity vs Adaptation]]"
+  - "[[Literature Review]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -80,7 +81,7 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). *Making the Most of the Evidence: Evidence-based policy in the classroom.* CHESS Working Paper No. 2015-03, Durham University. — 通过 22 位教师访谈和文献综述，识别 EBP 从"什么有效"到"在这里有效"的知识鸿沟，提出"流动性而非忠实执行"的实施框架
+> - Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). *Making the Most of the Evidence: Evidence-based policy in the classroom.* CHESS Working Paper No. 2015-03, Durham University. — 通过 22 位教师访谈和[[Literature Review|文献综述]]，识别 EBP 从"什么有效"到"在这里有效"的知识鸿沟，提出"流动性而非忠实执行"的实施框架
 > - Cowen, N. (2019). For whom does 'what works' work? The political economy of [[Evidence-Based Education]]. *Educational Research and Evaluation*, 25(1–2), 81–98. — 以 Tullock [[Tullock's Bureaucracy Theory|官僚制理论]]解释 EBE 的制度韧性
 > - Cowen, N., Virk, B., Mascarenhas-Keyes, S., & Cartwright, N. (2017). Randomized controlled trials: How can we know "what works"? *Critical Review*, 29(3), 265–292.
 > - Cartwright, N., & Cowen, N. (2014). *Making the Most of the Evidence in Education: A Guide for Working Out What Works... Here and Now.* CHESS Working Paper.

@@ -18,9 +18,11 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[Implementation Fidelity]]"
+  - "[[Literature Review]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Experimental Research]]"
   - "[[Qualitative Research]]"
 related_persons: []
 related_facts:
@@ -74,7 +76,7 @@ updated: '2026-05-18'
 > - Edovald & Nevill (2020) 总结了英国 Education Endowment Foundation (EEF) 的成功经验：快速扩展学校本位 [[Randomised Controlled Trials|RCT]]、高标准研究独立性与透明度
 >
 > **高质量实验维度：**
-> - Xie (2020) 比较中美教育技术实验研究，发现若干强证据干预方案，但中国大陆实验研究的数量和质量令人担忧
+> - Xie (2020) 比较中美教育技术[[Experimental Research|实验研究]]，发现若干强证据干预方案，但中国大陆实验研究的数量和质量令人担忧
 > - Gu et al. (2020) 在南京实施的大规模准实验，验证了在线英语学习平台的有效性，且教师及其教学行为对成功至关重要
 >
 > **传播知晓维度：**
@@ -98,9 +100,9 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 作为 Editorial，本文是对特刊的导言性概述，不包含独立的实证研究或系统性文献综述
+> - 作为 Editorial，本文是对特刊的导言性概述，不包含独立的实证研究或系统性[[Literature Review|文献综述]]
 > - 对[[Evidence-Based Reform|证据本位改革]]的立场偏向支持（将教育类比医学的框架），未充分呈现批评阵营（如 Biesta、Wrigley、Wiliam 等）的论点
-> - 中国大陆实验研究"数量和质量令人担忧"的诊断仅为一句话断言，未在 Editorial 篇幅内展开论证
+> - 中国大陆[[Experimental Research|实验研究]]"数量和质量令人担忧"的诊断仅为一句话断言，未在 Editorial 篇幅内展开论证
 
 ## 来源
 

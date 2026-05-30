@@ -488,11 +488,11 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Pragmatism in China.md",
     "aliases": [
-      "实用主义",
       "实验主义",
       "shiyanzhuyi",
       "shiyongzhuyi",
-      "pragmatism"
+      "pragmatism",
+      "实用主义在中国"
     ]
   },
   {
@@ -649,6 +649,17 @@
     "aliases": [
       "国际学校",
       "international school"
+    ]
+  },
+  {
+    "title": "Literature Review",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Literature Review.md",
+    "aliases": [
+      "文献综述",
+      "文献回顾",
+      "literature search",
+      "review of the literature"
     ]
   },
   {
@@ -4153,6 +4164,17 @@
       "联合展示",
       "联合展示表",
       "joint displays"
+    ]
+  },
+  {
+    "title": "Literature Map",
+    "type": "method",
+    "path": "wiki/methods/mixed/Literature Map.md",
+    "aliases": [
+      "文献地图",
+      "文献图谱",
+      "literature mapping",
+      "literature diagram"
     ]
   },
   {

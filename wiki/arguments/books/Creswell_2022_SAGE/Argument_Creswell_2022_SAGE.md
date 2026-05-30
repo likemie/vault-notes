@@ -12,6 +12,7 @@ tags: [source/textbook]
 related_concepts:
   - "[[Postpositivism]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Literature Review]]"
   - "[[Transformative Paradigm]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
@@ -21,6 +22,7 @@ related_methods:
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Joint Display]]"
   - "[[Quantitative Research]]"
+  - "[[Literature Map]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
   - "[[Single-Subject Design]]"
@@ -53,7 +55,7 @@ updated: 2026-05-30
 |---|---|---|
 | 前言 | 介绍教材的写作目的、面向读者、格式特色、第六版新增内容，以及全书两大部分共十章的结构概览。全书核心线索是量化、质性与混合方法三种研究路径的系统比较。 | [[Qualitative Research]], [[Mixed Method and Multi-method Research]], [[Joint Display]] |
 | 第1章 研究路径的选择 | 界定量化、质性和混合方法三种研究路径，建立"世界观、设计、方法"三层框架，逐一介绍后实证主义、建构主义、变革主义和实用主义四种哲学世界观，列出量化、质性和混合方法的主要研究设计类型，讨论选择研究路径的三项标准（研究问题、个人经验、受众）。 | [[Qualitative Research]], [[Quantitative Research]], [[Mixed Method and Multi-method Research]], [[Postpositivism]], [[Constructivist Paradigm]] |
-| 第2章 文献综述 | 介绍研究主题的确定、文献检索步骤、计算机数据库使用、文献质量评估、文献地图绘制和文献摘要撰写。说明量化、质性和混合方法研究中文献综述的不同角色。 | |
+| 第2章 文献综述 | 介绍研究主题的确定（草拟标题、评估显著性）、文献综述在不同研究路径中的目的与组织差异（量化五部分结构、质性三种位置、混合方法的灵活策略）、文献检索的系统步骤与主要数据库、文献地图的绘制方法、文献摘要的撰写要点、APA 格式手册的使用，以及术语定义的原则与路径差异。 | [[Literature Review]], [[Literature Map]], [[Qualitative Research]], [[Quantitative Research]], [[Mixed Method and Multi-method Research]] |
 | 第3章 理论的使用 | 讨论理论在三种研究路径中的不同作用。量化研究中，理论提供变量间关系的解释模型；质性研究中，理论作为观察透镜或在研究过程中生成；混合方法研究则以多种方式运用理论。 | |
 | 第4章 写作策略与伦理考量 | 提供研究计划的整体结构模型，分别给出量化、质性和混合方法计划的写作大纲，讨论清晰连贯的写作策略，以及研究前、研究中、研究后各阶段的伦理问题。 | |
 | 第5章 引言 | 提供撰写学术引言的系统方法，包括撰写研究摘要、确定研究问题、在文献中定位问题、指出文献缺口和明确研究受众。 | |
@@ -75,7 +77,7 @@ updated: 2026-05-30
 
 #### 概览
 
-全书为研究者提供设计研究计划或研究方案的框架、流程和写作方法，覆盖量化、质性和[[Mixed Method and Multi-method Research|混合方法]]三种研究路径。这一比较从三个路径共有的初步要素（哲学假设、文献综述、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、目的陈述、研究问题与假设，以及数据收集、分析和解释的方法程序。
+全书为研究者提供设计研究计划或研究方案的框架、流程和写作方法，覆盖量化、质性和[[Mixed Method and Multi-method Research|混合方法]]三种研究路径。这一比较从三个路径共有的初步要素（哲学假设、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、目的陈述、研究问题与假设，以及数据收集、分析和解释的方法程序。
 
 教材面向需要撰写期刊论文、学位论文、开题报告或资助申请的学生和教师，也可作为研究方法课程的教材和参考书。书中术语在正文中高亮，书末附有术语表。读者群体广泛，涵盖人文、健康和社会科学的多个领域。
 
@@ -212,6 +214,62 @@ updated: 2026-05-30
 
 ---
 
+### 第2章 文献综述
+
+#### 概念地图
+
+<!-- ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-2-concept-map.svg) -->
+
+#### 图片占位
+
+> [!example]- 图片占位
+> 图2.1：Janovec (2001) 的组织程序公平[[Literature Map|文献地图]]示例  
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_2-1_Literature_Map_Example.png)
+
+> [!example]- 图片占位
+> 表2.1：质性研究中文献的使用方式  
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_2-1_Using_Literature_in_Qualitative_Study.png)
+
+#### 概览
+
+第2章的核心问题是：在开始具体的研究设计之前，如何确定研究主题，并通过文献综述将研究置于已有学术对话之中？答案分为两个层面——先确定研究主题，再系统地检索和组织文献。
+
+**研究主题的确定。** 研究主题（Topic）是计划研究的主题或题材，用几个词或短语描述，如"教师教学""组织创造力"或"心理压力"。Creswell 建议两个实用策略：
+
+第一，草拟一个工作标题（working title）。标题是研究中的"路标"——一个有形的想法，研究者可以在项目推进过程中不断重新聚焦。建议完成句子"My study is about . . ."，用简洁直白的语言作答。Wilkinson (1991) 的建议是：简洁、避免浪费词汇、消除不必要的词（如"An Approach to . . .""A Study of . . ."）、使用单标题或双标题、控制在 10 到 12 个词以内。
+
+第二，将主题表述为一个简短的问题，如"What treatment is best for depression?"。
+
+确定主题之后，需要反思该主题是否**可以**研究（有参与者愿意参与、研究者有资源收集数据和分析数据），以及是否**应该**研究。最核心的"应该"标准是：该主题是否对已有研究知识库有贡献？研究可以填补未被检视的空白、通过纳入新元素延伸讨论、在新情境或新参与者中复制已有研究，或提供新的视角或角度（如研究不寻常的地点、不寻常的参与者群体、反向预期、新颖的数据收集方式、以不寻常的方式呈现结果，或研究一个时效性强的议题）。此外，还应考虑研究是否具有超越本地机构的广泛兴趣，以及是否与个人目标一致。
+
+**文献综述的目的与组织。** [[Literature Review|文献综述]]有多重目的：分享与当前研究密切相关的已有研究结果；将研究与更大范围的学术对话联系起来，填补空白并延伸先前研究（Cooper, 2010; Marshall & Rossman, 2022）；为确立研究重要性提供框架；为比较研究结果与已有发现提供基准。
+
+在组织方式上，量化研究中的文献综述通常以独立章节出现，典型结构包含五个部分：
+
+| 部分 | 内容 |
+|---|---|
+| 引言 | 告知读者文献综述包含哪些部分 |
+| 主题一 | 关于自变量的学术文献 |
+| 主题二 | 关于因变量的学术文献 |
+| 主题三 | 将自变量与因变量联系起来的文献，这一部分应相对简短，包含与研究主题极其接近的研究 |
+| 总结 | 突出最重要的研究，捕捉主要主题，说明为何需要更多研究，指出本研究将如何填补需求 |
+
+质性研究中的文献综述有三种可能的位置（见表2.1）：在引言中框定研究问题（所有类型的质性研究都适用）、以独立章节出现（适合定量取向较强的读者）、或放在研究结尾作为比较和对照研究发现的依据（最符合质性研究的归纳逻辑）。总体原则是：在开头少量使用文献以传达归纳式设计，除非具体的设计类型要求一开始就进行大量文献定位。
+
+混合方法研究中的文献使用取决于设计类型和质性与量化成分的相对权重。序列式设计中，每一阶段的文献与该阶段使用的方法一致；如果以量化阶段开始则文献详实，以质性阶段开始则文献较少且更多放在结尾。
+
+**文献检索的系统步骤。** 无论采用哪种路径，Creswell 推荐了一套系统步骤：（1）确定关键词——从宽泛术语开始逐步缩小精确化；（2）使用计算机数据库检索——搜索 ERIC、Google Scholar、EBSCO、ProQuest、PubMed、Scopus 等多个数据库，同时使用免费和机构订阅资源；（3）初步定位约 50 篇文献报告；（4）浏览并筛选核心文献；（5）设计[[Literature Map|文献地图]]；（6）撰写文献摘要；（7）按主题或核心概念组织文献综述，以主要主题的总结结尾，指向后续的方法部分。
+
+在数据库检索方面，Creswell 详细介绍了 ERIC（教育领域，自 1966 年以来 140 万条记录）、Google Scholar（跨学科免费搜索）、PubMed（生物医学，超过 1700 万条引文）、ProQuest（全球最大的学位论文收藏）、EBSCO（350+ 数据库）、Scopus（最大的同行评审文献摘要与引文数据库）以及 DOAJ（超过 700 万篇开放获取文章）等主要数据库的特征和使用方式。
+
+**文献优先级与质量评估。** 搜索文献的建议优先级是：百科全书的广泛综述 → 科学期刊的研究文章（从最新一期向前追溯） → 书籍（从研究专著开始，再到单一主题专著或编著） → 近期会议论文 → 联系相关研究的作者。在纳入文献综述之前，必须评估文献质量：期刊文章应来自有编辑审查委员会的国家级评审期刊；书籍应选择有知名度且运营多年的出版社；一般推荐发表在最近 10 年内的文献；网络文献需谨慎评估其研究严谨性。
+
+**文献摘要与文献地图。** 撰写文献摘要时，实证研究文章的摘要应包含研究问题、核心目的、样本信息、关键结果和方法缺陷（如适用）；理论性、概念性或方法论文章的摘要应包含处理的问题、核心主题、主要结论以及推理或论证的缺陷。参见[[Literature Map|文献地图]]条目了解具体的绘制程序。
+
+**格式手册与术语定义。** 社会科学领域最常用的格式手册是 APA 出版手册（第7版），关键更新包括：三位及以上作者引用时只写第一作者加 "et al."；参考文献不再需要出版社所在地；标题层级格式调整（第3至5级改用粗体和缩进）；强调包容性和无偏见语言，使用单数 "they"。术语定义应在术语首次出现时给出，使用操作化定义而非抽象语言，采用文献中已有的约定语言而非自行发明（Locke et al., 2014）。量化研究通常在开头提供广泛的独立术语定义章节；质性研究常不设独立章节，将暂定定义贯穿全文；混合方法研究视起始阶段的方法类型而定。
+
+---
+
 ## 重要摘录
 
 > [!quote]
@@ -243,6 +301,21 @@ updated: 2026-05-30
 
 > [!quote]
 > "Designing a study is a difficult and time-consuming process. This book will not necessarily make the process easier or faster, but it can provide specific skills useful in research, knowledge about the steps involved in the process, and a practical guide to composing and writing scholarly research."（前言）
+
+> [!quote]
+> "Good, sound research projects begin with straightforward, uncomplicated thoughts that readers can easily understand."（第2章）
+
+> [!quote]
+> "A first step in any project is to spend considerable time in the library examining the research on a topic. This point cannot be overemphasized."（第2章）
+
+> [!quote]
+> "The literature review shares with the reader the results of other studies that are closely related to the one being undertaken. It relates a study to the larger, ongoing dialogue in the literature, filling in gaps and extending prior studies."（第2章）
+
+> [!quote]
+> "The words of an everyday language are rich in multiple meanings. Like other symbols, their power comes from the combination of meaning in a specific setting. . . . Scientific language ostensibly strips this multiplicity of meaning from words in the interest of precision."（Firestone, 1987, p.17，引自第2章）
+
+> [!quote]
+> "In qualitative research, use the literature sparingly in the beginning to convey an inductive design unless the design type requires a substantial literature orientation at the outset."（第2章）
 
 ---
 

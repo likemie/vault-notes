@@ -6,6 +6,7 @@ citation: "Narayan, S., & Spohrer, J. (2025). Metrics, Incentives, Rewards, and 
 tags: ["theme/university-industry-collaboration", "theme/metrics-and-incentives", "theme/talent-development", "source/industry-perspective"]
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Literature Review]]"
   - "[[Six Rs of University-Industry Relations]]"
   - "[[Translational Research]]"
   - "[[Academic Freedom]]"
@@ -46,7 +47,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 理论框架
 
 > [!abstract]
-> 基于 IBM 百年产学实践的归纳提炼，同时整合系统文献综述对度量、激励、奖励和文化四个主题的研究发现，构建一个"四要素动态校准"的分析视角。
+> 基于 IBM 百年产学实践的归纳提炼，同时整合系统[[Literature Review|文献综述]]对度量、激励、奖励和文化四个主题的研究发现，构建一个"四要素动态校准"的分析视角。
 > - [[University-Industry Collaboration]] 作为分析的组织领域，度量、激励、奖励与文化是维持产学关系质量的四个相互关联的维度
 > - [[Six Rs of University-Industry Relations]] 由 [[Jim Spohrer]]（2010）提出，将 IBM 的产学投资按功能分为七个领域（pp.88–89, 97）：Research（研究）、Readiness（技能准备）、Recruiting（人才招聘）、Revenue（收入）、Responsibility（社会责任）、Regions（区域发展），外加 Refresh（更新）作为动态调适维度
 >
@@ -76,14 +77,14 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 研究方法
 
 > [!info]
-> 实践者反思，基于 IBM 全球大学项目团队（遍布 45 个国家、百余名专职人员）数十年的运营经验，辅以系统文献综述对度量、激励、奖励和文化四个主题的研究梳理（pp.86–88）。案例部分按投资规模分类呈现：小型（<$250K/年）、中型（$250K–$1M/年）、大型（>$1M/年），每个案例说明其目标、度量方式和创新元素（pp.91–95）。本章属于实践者反思文章，不涉及实证数据收集或分析方法。
+> 实践者反思，基于 IBM 全球大学项目团队（遍布 45 个国家、百余名专职人员）数十年的运营经验，辅以系统[[Literature Review|文献综述]]对度量、激励、奖励和文化四个主题的研究梳理（pp.86–88）。案例部分按投资规模分类呈现：小型（<$250K/年）、中型（$250K–$1M/年）、大型（>$1M/年），每个案例说明其目标、度量方式和创新元素（pp.91–95）。本章属于实践者反思文章，不涉及实证数据收集或分析方法。
 
 ---
 
 ## 论证结构
 
 > [!example] 核心论证
-> 论证可以拆解为"一个起点 → 两个前提 → 核心机制 → 一个延伸 → 前瞻判断"的逻辑链。起点是[[University-Industry Collaboration|产学合作]]双方天然的目标差异，两个前提分别来自 IBM 自身经验和系统文献综述，核心机制是六 R 框架如何实现动态校准，延伸则揭示[[Translational Research|转化研究]]缺口和 T 型技能需求这两个新出现的结构性挑战，最后以前瞻判断收束。
+> 论证可以拆解为"一个起点 → 两个前提 → 核心机制 → 一个延伸 → 前瞻判断"的逻辑链。起点是[[University-Industry Collaboration|产学合作]]双方天然的目标差异，两个前提分别来自 IBM 自身经验和系统[[Literature Review|文献综述]]，核心机制是六 R 框架如何实现动态校准，延伸则揭示[[Translational Research|转化研究]]缺口和 T 型技能需求这两个新出现的结构性挑战，最后以前瞻判断收束。
 
 ### 起点：产学双方目标有交集但不对齐，因此必须持续调适
 

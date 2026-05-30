@@ -11,10 +11,10 @@ extracted_to:
   - "[[Triple Helix]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer]]"
-  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Knowledge Exchange]]"
   - "[[Third Mission (Universities)]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

@@ -16,6 +16,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Literature Review]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -59,7 +60,7 @@ updated: 2026-05-24
 ## 实证发现
 
 > [!success]
-> Dachet 与 Baye 在综述法语比利时改革背景时指出，自 1970 年代以来已有大量证据反对留级有效性；多项穷尽性和批判性文献综述没有识别出留级的正向平均效果（Dachet & Baye, 2021, pp.165, 172, 174）。
+> Dachet 与 Baye 在综述法语比利时改革背景时指出，自 1970 年代以来已有大量证据反对留级有效性；多项穷尽性和批判性[[Literature Review|文献综述]]没有识别出留级的正向平均效果（Dachet & Baye, 2021, pp.165, 172, 174）。
 
 > [!info]- 核心数据
 > 在法语比利时案例中，[[PISA]] 2015 显示 1 至 10 年级 46% 学生受到留级影响；小学平均每年级留级率约 3%，中学平均每年级约 12%；小学结束约 22.7% 学生落后同龄人，中学结束约 60% 学生落后（Dachet & Baye, 2021, pp.165, 169）。
