@@ -116,8 +116,6 @@ updated: 2026-05-30
 
 <!-- ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-concept-map.svg) -->
 
-<!-- ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-figure-1.svg) -->
-
 #### 概览
 
 第1章建立全书的概念框架，回答一个核心问题：研究者如何选择适合自己的研究路径？答案涉及四个层次的分析——从最底层的基本信念，到中间层的研究设计类型，再到最上层的具体操作技术，最后统合为三条完整的研究路径，并依据研究问题、个人背景和受众做出最终选择。
