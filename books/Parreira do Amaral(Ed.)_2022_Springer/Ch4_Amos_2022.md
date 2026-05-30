@@ -2,7 +2,6 @@
 citation: "Amos, S. K. (2022). Which Vision of Education for Late Modernity? In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 53–65). Springer."
 extracted_to:
   - "[[Argument_Amos_2022_Springer]]"
-  - "[[Transitology]]"
   - "[[Buen Vivir]]"
   - "[[Humosity]]"
   - "[[Posthumanism]]"
@@ -18,6 +17,7 @@ extracted_to:
   - "[[Knowledge-Based Economy]]"
   - "[[Mondialisation]]"
   - "[[New Public Management]]"
+  - "[[Transitology]]"
   - "[[Membership-Creating Function of Education]]"
   - "[[Regional University Alliances]]"
   - "[[Sputnik Shock 1957]]"

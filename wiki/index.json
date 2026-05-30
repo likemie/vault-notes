@@ -270,6 +270,17 @@
     ]
   },
   {
+    "title": "Virtue-Oriented Learning Process",
+    "type": "concept",
+    "path": "wiki/concepts/chinese-philosophy/Virtue-Oriented Learning Process.md",
+    "aliases": [
+      "美德导向学习过程",
+      "virtue-oriented process",
+      "East Asian learning process",
+      "美德导向"
+    ]
+  },
+  {
     "title": "Grice's Conversational Maxims",
     "type": "concept",
     "path": "wiki/concepts/communication-discourse/Grice's Conversational Maxims.md",
@@ -289,42 +300,6 @@
     ]
   },
   {
-    "title": "21st Century Skills and Competencies Discourse",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/21st Century Skills and Competencies Discourse.md",
-    "aliases": [
-      "21世纪技能与素养话语",
-      "21st century skills",
-      "SCD",
-      "核心素养",
-      "key competencies",
-      "21世纪技能",
-      "关键能力"
-    ]
-  },
-  {
-    "title": "Certainty of Knowledge",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Certainty of Knowledge.md",
-    "aliases": [
-      "知识的确定性",
-      "true knowledge",
-      "eternal truth",
-      "absolute knowledge",
-      "pursuit of certainty"
-    ]
-  },
-  {
-    "title": "Cognitive Source",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Cognitive Source.md",
-    "aliases": [
-      "认知来源",
-      "cognitive source in learning socialization",
-      "maternal cognitive source"
-    ]
-  },
-  {
     "title": "Confucian Heritage Cultures",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Confucian Heritage Cultures.md",
@@ -337,16 +312,6 @@
     ]
   },
   {
-    "title": "Cooperative Competition",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Cooperative Competition.md",
-    "aliases": [
-      "合作式竞争",
-      "cooperative-competitive",
-      "Fülöp competition"
-    ]
-  },
-  {
     "title": "Cross-National Attraction",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Cross-National Attraction.md",
@@ -356,65 +321,11 @@
     ]
   },
   {
-    "title": "Discursive Opportunity Structures",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Discursive Opportunity Structures.md",
-    "aliases": [
-      "话语性机会结构",
-      "话语机会结构",
-      "discursive and institutional opportunity structures"
-    ]
-  },
-  {
-    "title": "Examination Hell",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Examination Hell.md",
-    "aliases": [
-      "考试地狱",
-      "exam hell",
-      "examination-driven system"
-    ]
-  },
-  {
-    "title": "Examined Life",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Examined Life.md",
-    "aliases": [
-      "省察的生活",
-      "unexamined life",
-      "the examined life",
-      "Socratic examination",
-      "未经省察的生活不值得过"
-    ]
-  },
-  {
     "title": "Externalization",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Externalization.md",
     "aliases": [
       "外化"
-    ]
-  },
-  {
-    "title": "Faust",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Faust.md",
-    "aliases": [
-      "浮士德",
-      "浮士德式交易",
-      "Faustian bargain",
-      "Faustian spirit"
-    ]
-  },
-  {
-    "title": "Ideal Learner",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Ideal Learner.md",
-    "aliases": [
-      "理想学习者",
-      "ideal learner image",
-      "ideal-learner image",
-      "理想学习者形象"
     ]
   },
   {
@@ -436,59 +347,6 @@
     ]
   },
   {
-    "title": "Mind and Its Wonders",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Mind and Its Wonders.md",
-    "aliases": [
-      "心智及其惊奇",
-      "human intellect",
-      "human mind",
-      "western mind"
-    ]
-  },
-  {
-    "title": "Mind Efficacy and Virtue Efficacy",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Mind Efficacy and Virtue Efficacy.md",
-    "aliases": [
-      "心智归因",
-      "美德归因",
-      "mind efficacy",
-      "virtue efficacy"
-    ]
-  },
-  {
-    "title": "Mind-Oriented Learning Process",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Mind-Oriented Learning Process.md",
-    "aliases": [
-      "心智导向学习过程",
-      "mind-oriented process",
-      "Western learning process",
-      "心智导向"
-    ]
-  },
-  {
-    "title": "One Country, Two Systems",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/One Country, Two Systems.md",
-    "aliases": [
-      "一国两制",
-      "OCTS",
-      "one country two systems"
-    ]
-  },
-  {
-    "title": "Organizational Actorhood",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Organizational Actorhood.md",
-    "aliases": [
-      "组织能动者身份",
-      "组织行动者身份",
-      "organizational actor"
-    ]
-  },
-  {
     "title": "Paradox of the Chinese Learner",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Paradox of the Chinese Learner.md",
@@ -496,29 +354,6 @@
       "中国学习者悖论",
       "Chinese learner paradox",
       "CHC learner paradox"
-    ]
-  },
-  {
-    "title": "Parental Cognitive and Affective Socialization",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Parental Cognitive and Affective Socialization.md",
-    "aliases": [
-      "父母认知与情感社会化",
-      "认知社会化",
-      "情感社会化",
-      "parental socialization"
-    ]
-  },
-  {
-    "title": "Peer-Supported Learning",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Peer-Supported Learning.md",
-    "aliases": [
-      "同伴互助学习",
-      "兵教兵",
-      "peer tutoring",
-      "互帮互学",
-      "同伴互助"
     ]
   },
   {
@@ -560,37 +395,6 @@
     ]
   },
   {
-    "title": "Rote Learning",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Rote Learning.md",
-    "aliases": [
-      "死记硬背"
-    ]
-  },
-  {
-    "title": "Self-Continuity, Self-Distinctness, and Self-Agency",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Self-Continuity, Self-Distinctness, and Self-Agency.md",
-    "aliases": [
-      "自我连续性与自我独特性与自我能动性",
-      "自我连续性",
-      "自我独特性",
-      "自我能动性",
-      "self-continuity",
-      "self-distinctness",
-      "self-agency"
-    ]
-  },
-  {
-    "title": "Theories of Policy Change",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Theories of Policy Change.md",
-    "aliases": [
-      "政策变革理论",
-      "政策变革"
-    ]
-  },
-  {
     "title": "Transfer Translation Transformation",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Transfer Translation Transformation.md",
@@ -599,46 +403,6 @@
       "3T framework",
       "转译",
       "政策迁移"
-    ]
-  },
-  {
-    "title": "Transitology",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Transitology.md",
-    "aliases": [
-      "转型学"
-    ]
-  },
-  {
-    "title": "Virtue-Oriented Learning Process",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Virtue-Oriented Learning Process.md",
-    "aliases": [
-      "美德导向学习过程",
-      "virtue-oriented process",
-      "East Asian learning process",
-      "美德导向"
-    ]
-  },
-  {
-    "title": "Western Learner",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Western Learner.md",
-    "aliases": [
-      "西方学习者",
-      "Western learner model",
-      "Western learning model"
-    ]
-  },
-  {
-    "title": "Zhonghua Minzu",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Zhonghua Minzu.md",
-    "aliases": [
-      "中华民族",
-      "Chinese nation",
-      "Zhonghua minzu",
-      "中华民族多元一体"
     ]
   },
   {
@@ -767,6 +531,18 @@
     ]
   },
   {
+    "title": "Certainty of Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Certainty of Knowledge.md",
+    "aliases": [
+      "知识的确定性",
+      "true knowledge",
+      "eternal truth",
+      "absolute knowledge",
+      "pursuit of certainty"
+    ]
+  },
+  {
     "title": "Complexity Reduction",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Complexity Reduction.md",
@@ -795,11 +571,45 @@
     ]
   },
   {
+    "title": "Examined Life",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Examined Life.md",
+    "aliases": [
+      "省察的生活",
+      "unexamined life",
+      "the examined life",
+      "Socratic examination",
+      "未经省察的生活不值得过"
+    ]
+  },
+  {
+    "title": "Faust",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Faust.md",
+    "aliases": [
+      "浮士德",
+      "浮士德式交易",
+      "Faustian bargain",
+      "Faustian spirit"
+    ]
+  },
+  {
     "title": "Humosity",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Humosity.md",
     "aliases": [
       "腐殖性"
+    ]
+  },
+  {
+    "title": "Ideal Learner",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Ideal Learner.md",
+    "aliases": [
+      "理想学习者",
+      "ideal learner image",
+      "ideal-learner image",
+      "理想学习者形象"
     ]
   },
   {
@@ -816,6 +626,28 @@
     "path": "wiki/concepts/educational-philosophy/Learnification.md",
     "aliases": [
       "学习化"
+    ]
+  },
+  {
+    "title": "Mind and Its Wonders",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Mind and Its Wonders.md",
+    "aliases": [
+      "心智及其惊奇",
+      "human intellect",
+      "human mind",
+      "western mind"
+    ]
+  },
+  {
+    "title": "Mind-Oriented Learning Process",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Mind-Oriented Learning Process.md",
+    "aliases": [
+      "心智导向学习过程",
+      "mind-oriented process",
+      "Western learning process",
+      "心智导向"
     ]
   },
   {
@@ -946,11 +778,35 @@
     ]
   },
   {
+    "title": "Western Learner",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Western Learner.md",
+    "aliases": [
+      "西方学习者",
+      "Western learner model",
+      "Western learning model"
+    ]
+  },
+  {
     "title": "Whole Sustainability",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Whole Sustainability.md",
     "aliases": [
       "整体可持续性"
+    ]
+  },
+  {
+    "title": "21st Century Skills and Competencies Discourse",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md",
+    "aliases": [
+      "21世纪技能与素养话语",
+      "21st century skills",
+      "SCD",
+      "核心素养",
+      "key competencies",
+      "21世纪技能",
+      "关键能力"
     ]
   },
   {
@@ -1205,6 +1061,15 @@
       "考试问责",
       "test-oriented accountability",
       "high-stakes testing accountability"
+    ]
+  },
+  {
+    "title": "Theories of Policy Change",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Theories of Policy Change.md",
+    "aliases": [
+      "政策变革理论",
+      "政策变革"
     ]
   },
   {
@@ -2238,6 +2103,18 @@
     ]
   },
   {
+    "title": "Peer-Supported Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Peer-Supported Learning.md",
+    "aliases": [
+      "同伴互助学习",
+      "兵教兵",
+      "peer tutoring",
+      "互帮互学",
+      "同伴互助"
+    ]
+  },
+  {
     "title": "Problem-Based Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
@@ -2255,6 +2132,14 @@
       "话语重构",
       "teacher revoicing",
       "O'Connor and Michaels revoicing"
+    ]
+  },
+  {
+    "title": "Rote Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Rote Learning.md",
+    "aliases": [
+      "死记硬背"
     ]
   },
   {
@@ -2336,6 +2221,16 @@
     ]
   },
   {
+    "title": "Cognitive Source",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Cognitive Source.md",
+    "aliases": [
+      "认知来源",
+      "cognitive source in learning socialization",
+      "maternal cognitive source"
+    ]
+  },
+  {
     "title": "Entity vs Incremental Intelligence",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Entity vs Incremental Intelligence.md",
@@ -2409,6 +2304,17 @@
     ]
   },
   {
+    "title": "Mind Efficacy and Virtue Efficacy",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Mind Efficacy and Virtue Efficacy.md",
+    "aliases": [
+      "心智归因",
+      "美德归因",
+      "mind efficacy",
+      "virtue efficacy"
+    ]
+  },
+  {
     "title": "Motivation and Work Effort",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Motivation and Work Effort.md",
@@ -2433,6 +2339,17 @@
     ]
   },
   {
+    "title": "Parental Cognitive and Affective Socialization",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Parental Cognitive and Affective Socialization.md",
+    "aliases": [
+      "父母认知与情感社会化",
+      "认知社会化",
+      "情感社会化",
+      "parental socialization"
+    ]
+  },
+  {
     "title": "Prefrontal Cortex",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Prefrontal Cortex.md",
@@ -2447,6 +2364,20 @@
     "path": "wiki/concepts/learning-science-cognitive-science/School Norm Adaptation.md",
     "aliases": [
       "学校规范适应"
+    ]
+  },
+  {
+    "title": "Self-Continuity, Self-Distinctness, and Self-Agency",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Self-Continuity, Self-Distinctness, and Self-Agency.md",
+    "aliases": [
+      "自我连续性与自我独特性与自我能动性",
+      "自我连续性",
+      "自我独特性",
+      "自我能动性",
+      "self-continuity",
+      "self-distinctness",
+      "self-agency"
     ]
   },
   {
@@ -2776,6 +2707,16 @@
     ]
   },
   {
+    "title": "One Country, Two Systems",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/One Country, Two Systems.md",
+    "aliases": [
+      "一国两制",
+      "OCTS",
+      "one country two systems"
+    ]
+  },
+  {
     "title": "Orientalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Orientalism.md",
@@ -2937,6 +2878,14 @@
     ]
   },
   {
+    "title": "Transitology",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Transitology.md",
+    "aliases": [
+      "转型学"
+    ]
+  },
+  {
     "title": "Varieties of Capitalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Varieties of Capitalism.md",
@@ -2973,6 +2922,17 @@
       "小康之家",
       "xiaokang society",
       "peaceful and prosperous society"
+    ]
+  },
+  {
+    "title": "Zhonghua Minzu",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Zhonghua Minzu.md",
+    "aliases": [
+      "中华民族",
+      "Chinese nation",
+      "Zhonghua minzu",
+      "中华民族多元一体"
     ]
   },
   {
@@ -3264,6 +3224,16 @@
     ]
   },
   {
+    "title": "Cooperative Competition",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Cooperative Competition.md",
+    "aliases": [
+      "合作式竞争",
+      "cooperative-competitive",
+      "Fülöp competition"
+    ]
+  },
+  {
     "title": "Credential Inflation",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Credential Inflation.md",
@@ -3316,6 +3286,16 @@
     ]
   },
   {
+    "title": "Discursive Opportunity Structures",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Discursive Opportunity Structures.md",
+    "aliases": [
+      "话语性机会结构",
+      "话语机会结构",
+      "discursive and institutional opportunity structures"
+    ]
+  },
+  {
     "title": "Doxa",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Doxa.md",
@@ -3331,6 +3311,16 @@
     "aliases": [
       "文化濡化",
       "濡化"
+    ]
+  },
+  {
+    "title": "Examination Hell",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Examination Hell.md",
+    "aliases": [
+      "考试地狱",
+      "exam hell",
+      "examination-driven system"
     ]
   },
   {
@@ -3480,6 +3470,16 @@
       "机会主义者",
       "opportunist actor",
       "机会主义"
+    ]
+  },
+  {
+    "title": "Organizational Actorhood",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Organizational Actorhood.md",
+    "aliases": [
+      "组织能动者身份",
+      "组织行动者身份",
+      "organizational actor"
     ]
   },
   {

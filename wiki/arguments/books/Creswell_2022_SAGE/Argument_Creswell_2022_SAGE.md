@@ -16,7 +16,6 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Transformative Paradigm]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Recommendations for Practice]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
