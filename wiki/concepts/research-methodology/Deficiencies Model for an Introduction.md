@@ -73,18 +73,20 @@ updated: 2026-05-31
 
 ### 4. 说明该问题对特定受众的重要性
 
-最后，作者应明确说明研究对特定受众的重要意义。这一部分为研究的重要性创建清晰的理据，帮助读者理解研究的广泛适用性（Creswell & Creswell, 2022, 第5章）：
+最后，作者需要向特定受众说明研究的重要性，为研究创建清晰的理据。这一部分通常从三个层面展开（Creswell & Creswell, 2022, 第5章）：
 
-- 三到四个理由说明研究如何增加学术研究和文献
-- 几个理由说明研究如何改善实践
-- 多个理由说明研究如何改进政策或决策
+- **对学术研究的贡献**：说明研究如何增加该领域的学术文献，通常列出三到四个理由
+- **对实践的意义**：说明研究如何帮助实践者改善工作方式
+- **对政策或决策的影响**：说明研究如何为政策制定者提供依据
 
-引言最好以一句话总结本研究的总体贡献。
+引言最后以一句话总结本研究的总体贡献，让读者对研究的核心价值有一个清晰的把握。
 
-> [!example] 量化研究中的受众显著性陈述
-> Mascarenhas（1989）关于工业企业所有权的研究，明确将决策者、组织成员和研究者列为受众：
+> [!example] 受众显著性陈述示例
+> Mascarenhas（1989）在研究工业企业所有权时，在引言末尾分别向决策者、组织成员和研究者三类受众说明了研究的意义：
 >
 > "A study of an organization's ownership and its domain... is important for several reasons. First, understanding relationships among ownership and domain dimensions can help to reveal the underlying logic of organizations' activities and can help organization members evaluate strategies... Second, a fundamental decision confronting all societies concerns the type of institutions to encourage or adopt... Third, researchers have often studied organizations reflecting one or two ownership types, but their findings may have been implicitly over generalized to all organizations."（Mascarenhas, 1989, p.582; 引自 Creswell & Creswell, 2022, 第5章）
+>
+> 这段陈述依次覆盖了三个层面：对组织成员（实践）、对社会制度选择（政策）、对研究者（学术）。
 
 ---
 

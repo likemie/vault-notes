@@ -57,10 +57,10 @@ extracted_to:
   - "[[Voice, Tense, and Concision in Academic Writing]]"
   - "[[Writing Habit]]"
   - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Deficiencies Model for an Introduction]]"
   - "[[Introduction (Research Writing)]]"
   - "[[Inverted Triangle Literature Search]]"
   - "[[Research Problem]]"
+  - "[[Deficiencies Model for an Introduction]]"
 processed_date: 2026-05-30
 ---
 

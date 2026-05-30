@@ -19,7 +19,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
-<!-- 正文先按方法逻辑组织主题，再在主题内按时间、发展阶段或论证顺序排列；用 callout 区分定义、程序、适用场景、局限和案例。 -->
+%% 正文先按方法逻辑组织主题，再在主题内按时间、发展阶段或论证顺序排列；用 callout 区分定义、程序、适用场景、局限和案例。 %%
 
 ---
 
@@ -74,6 +74,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 来源
 
-<!-- 只列 source wikilink；按来源年份从早到晚排序，同一年按作者或机构字母顺序。 -->
+%% 只列 source wikilink；按来源年份从早到晚排序，同一年按作者或机构字母顺序。 %%
 
 - [[Hammersley_1983_Routledge]]

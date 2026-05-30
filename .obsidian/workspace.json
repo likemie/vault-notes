@@ -190,6 +190,7 @@
   },
   "active": "ab1c0edf0a848eb0",
   "lastOpenFiles": [
+    "scripts/convert_html_comments.py",
     "wiki/concepts/research-methodology/Inverted Triangle Literature Search.md",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
     "wiki/concepts/research-methodology/Abstract.md",
@@ -219,7 +220,6 @@
     "raw/009_Chapter 4 Writing Strategies and Ethical Considerations.txt",
     "wiki/concepts/learning-science-cognitive-science/Self-control.md",
     "wiki/concepts/research-methodology/Naturalistic Generalization.md",
-    "wiki/concepts/research-methodology/Discipline-Based Theory.md",
     "scripts/check_duplicates.py",
     "scripts/fix_duplicate_keys.py",
     "wiki/persons/usa/Fred N. Kerlinger.md.tmp.83374.c60c6626be8a",

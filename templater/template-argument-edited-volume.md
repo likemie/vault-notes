@@ -26,7 +26,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 # <% tp.file.title %>
 
-<!-- 正文按编者论点、全书结构和章节关系组织；各章概览按章节顺序追加。用 callout 区分核心问题、结构、理论框架和章节案例。 -->
+%% 正文按编者论点、全书结构和章节关系组织；各章概览按章节顺序追加。用 callout 区分核心问题、结构、理论框架和章节案例。 %%
 
 ---
 
@@ -66,6 +66,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 来源
 
-<!-- 只列 source wikilink；按来源年份从早到晚排序，同一年按作者或机构字母顺序。 -->
+%% 只列 source wikilink；按来源年份从早到晚排序，同一年按作者或机构字母顺序。 %%
 
 - [[Author(Ed.)_Year_Publisher]]
