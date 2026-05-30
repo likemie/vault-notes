@@ -3105,6 +3105,16 @@
     ]
   },
   {
+    "title": "Exogenous and Endogenous Variables",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Exogenous and Endogenous Variables.md",
+    "aliases": [
+      "外生变量与内生变量",
+      "exogenous variable",
+      "endogenous variable"
+    ]
+  },
+  {
     "title": "Hypothesis",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Hypothesis.md",
@@ -3168,6 +3178,15 @@
     "path": "wiki/concepts/research-methodology/Methodological Nationalism.md",
     "aliases": [
       "方法论民族主义"
+    ]
+  },
+  {
+    "title": "Naturalistic Generalization",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Naturalistic Generalization.md",
+    "aliases": [
+      "自然主义概括",
+      "naturalistic generalizations"
     ]
   },
   {
@@ -3252,6 +3271,17 @@
     ]
   },
   {
+    "title": "Scale of Measurement",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Scale of Measurement.md",
+    "aliases": [
+      "测量尺度",
+      "测量量表",
+      "measurement scale",
+      "scales of measurement"
+    ]
+  },
+  {
     "title": "Social Justice Theory",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Social Justice Theory.md",
@@ -3287,6 +3317,16 @@
       "理论终点",
       "theoretical model as outcome",
       "pattern theory"
+    ]
+  },
+  {
+    "title": "Theoretical Perspective",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Theoretical Perspective.md",
+    "aliases": [
+      "理论视角",
+      "理论取向",
+      "theoretical orientation"
     ]
   },
   {
@@ -5813,6 +5853,15 @@
       "James Stigler",
       "The Learning Gap",
       "学习鸿沟"
+    ]
+  },
+  {
+    "title": "Fred N. Kerlinger",
+    "type": "person",
+    "path": "wiki/persons/usa/Fred N. Kerlinger.md",
+    "aliases": [
+      "弗雷德·科林格",
+      "科林格"
     ]
   },
   {
