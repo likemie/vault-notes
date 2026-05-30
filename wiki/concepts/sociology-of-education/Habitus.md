@@ -33,7 +33,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -168,4 +168,4 @@ Eacott（2011）发现，当教师升任校长时，其习性"被分裂为对抗
 ## 来源
 
 - Eacott, S. (2011). New look leaders or a new look at leadership? *Journal of Educational Administration and History*, 43(1).
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]

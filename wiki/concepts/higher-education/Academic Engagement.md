@@ -33,7 +33,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
   - "[[Ch3_Boccanfuso_Hall_2025]]"
 confidence: medium
 status: draft
@@ -167,5 +167,5 @@ updated: 2026-05-27
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]
 - [[Ch3_Boccanfuso_Hall_2025]]

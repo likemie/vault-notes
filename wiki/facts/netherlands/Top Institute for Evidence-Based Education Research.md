@@ -17,12 +17,12 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Knowledge Mobilisation]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -55,7 +55,7 @@ updated: 2026-05-23
 ## 实施情况
 
 > [!example]
-> TIER 有四个行动领域：开发教育干预并用实验研究评价；研究教育的社会情境以连接教育和劳动力市场；通过[[Meta-analysis|元分析]]和知识传播连接学术界与政策世界；创建 Teacher Academy，把研究证据转移到学校（Pellegrini & Vivanet, 2021, p.34）。
+> TIER 有四个行动领域：开发教育干预并用[[Experimental Research|实验研究]]评价；研究教育的社会情境以连接教育和劳动力市场；通过[[Meta-analysis|元分析]]和知识传播连接学术界与政策世界；创建 Teacher Academy，把研究证据转移到学校（Pellegrini & Vivanet, 2021, p.34）。
 
 ## 效果与评价
 
@@ -65,7 +65,7 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning]
-> TIER 的跨大学结构能增强研究能力，但欧洲整体的项目复用仍受教育系统差异、语言和课程标准影响。详见 [[Argument_Pellegrini_2021_ROE]] 对欧洲可[[Transfer Translation Transformation|迁移]]性挑战的论证（Pellegrini & Vivanet, 2021, pp.35-36）。
+> TIER 的跨大学结构能增强研究能力，但欧洲整体的项目复用仍受教育系统差异、语言和课程标准影响。详见 [[Argument_Pellegrini_2021_ROE]] 对欧洲可迁移性挑战的论证（Pellegrini & Vivanet, 2021, pp.35-36）。
 
 ## 相关概念／理论
 

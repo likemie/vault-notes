@@ -21,7 +21,8 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[New Public Management]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Ethnography]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
@@ -29,7 +30,7 @@ related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -61,7 +62,7 @@ updated: 2026-05-18
 ## 概念演变
 
 > [!note]
-> 场域概念从 [[Pierre Bourdieu|Bourdieu]] 早期民族志田野中逐渐浮现，最终在 1980s 后期获得明确的系统性表述：
+> 场域概念从 [[Pierre Bourdieu|Bourdieu]] 早期[[Ethnography|民族志]]田野中逐渐浮现，最终在 1980s 后期获得明确的系统性表述：
 
 - **1950s–1960s 阿尔及利亚／Kabylie 早期田野** — 在 *Sociologie de l'Algérie*（1958）和 Kabylie 民族志中，Bourdieu 首次观察到婚姻策略、荣誉竞争等在不同社会空间中遵循各自的规则，为场域概念的萌生奠定了经验基础
 - **Weber 的"生活秩序"（Lebensordnungen）** — 场域概念部分借鉴 Weber 对现代社会分化为各自遵循自身逻辑的相对自主领域（宗教、经济、政治、艺术、科学）的分析，但以关系性思维取代了实质主义倾向
@@ -130,4 +131,4 @@ Eacott（2011）引用 Blackmore（2010）的诊断：当[[School Leadership|学
 ## 来源
 
 - Eacott, S. (2011). New look leaders or a new look at leadership? *Journal of Educational Administration and History*, 43(1).
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]

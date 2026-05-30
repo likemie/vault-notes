@@ -15,7 +15,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Pragmatism in China]]"
+  - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Appraisal Theory]]"
   - "[[Radical Constructivism]]"
@@ -82,7 +82,7 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 立基于 [[John Dewey|Dewey]] 的[[Pragmatism in China|实用主义]]教育哲学，尤其是 Dewey 对想象力和判断力的分析（Rømer, 2012）
+> - 立基于 [[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]教育哲学，尤其是 Dewey 对想象力和判断力的分析（Rømer, 2012）
 > - 在丹麦批评文集 *[[John Hattie|Hattie]] på dansk*（[[Hattie på dansk]]）中撰文批评 VL 的反馈概念——Qvortrup (2019, p.4) 反驳称 Rømer 声称反馈具有"集权化效应"的论断"without any kind of factual support"
 > - 其五线批评（Argument_Rømer_2018_EPT）被纳入 VL 国际批评文献谱系，补充了此前以方法论（Wecker, Bergeron, Simpson）和文化政治（McKnight & Whitburn）为主的批评维度
 > - 与丹麦教育研究界内部的 VL 接受者（[[Lars Qvortrup]]、Laursen、Egelund）形成争论，Qvortrup (2019) 以解释社群分析将丹麦批评者整体定性为短期内形成广泛误解的社群

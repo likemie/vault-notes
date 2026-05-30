@@ -19,11 +19,11 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Value-Based Education]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Transactional Epistemology]]"
   - "[[Luhmann's Systems Theory]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Randomised Controlled Trials]]"
 related_persons:
@@ -47,7 +47,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **[[John Dewey|Dewey]] 的交易认识论（[[Transactional Epistemology]]）** — 替代表象认识论（representational epistemology），论证实验研究无法产生未来确定性的知识
+> - **[[John Dewey|Dewey]] 的交易认识论（[[Transactional Epistemology]]）** — 替代表象认识论（representational epistemology），论证[[Experimental Research|实验研究]]无法产生未来确定性的知识
 > - **[[Luhmann's Systems Theory|系统理论]]（Systems Theory）** — 封闭/开放/递归/符号系统的区分，论证社会领域的非决定论特征
 > - **Latour 的计量学（Metrology）** — 论证"科学成就"并非知识应用到世界，而是世界被改造为实验室条件
 > - **教育的 teleological 特征** — 教育是目的性（telos-driven）实践，价值先于效果
@@ -168,7 +168,7 @@ updated: '2026-05-18'
 >
 > ### 对量化方法的可能过度排斥
 >
-> **批评内容**：批评者（如 Slavin, 2019）可能指出 Biesta 低估了在特定条件下——如强控制的学校情境（高复杂性化简情境）——量化证据的实际效用。当学校已通过时间表、课程、评估等方式大幅减少了系统的开放性后，[[Randomised Controlled Trials|RCT]] 产生的因果推断在类似条件下的可[[Transfer Translation Transformation|迁移]]性可能比 Biesta 承认的更高。
+> **批评内容**：批评者（如 Slavin, 2019）可能指出 Biesta 低估了在特定条件下——如强控制的学校情境（高复杂性化简情境）——量化证据的实际效用。当学校已通过时间表、课程、评估等方式大幅减少了系统的开放性后，[[Randomised Controlled Trials|RCT]] 产生的因果推断在类似条件下的可迁移性可能比 Biesta 承认的更高。
 >
 > **Biesta 的回应线索**：Biesta (2010, pp. 497–498) 会回应说，高度化简的学校情境恰恰依赖权力运作来维持其"封闭性"——这不是自然的因果规律，而是政治建构——因此"有效"既是技术问题也是政治问题。但这一回应可能承认了在给定的化简条件下量化证据具有一定的局部效用。
 >

@@ -8,13 +8,13 @@ extracted_to:
   - "[[Cargo Cult Science]]"
   - "[[Scientism]]"
   - "[[Global Education Reform Movement]]"
+  - "[[Critiques of Visible Learning]]"
+  - "[[Visible Learning]]"
   - "[[Performativity of Measurement]]"
   - "[[Cognition Education]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Critiques of Visible Learning]]"
-  - "[[Visible Learning]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-04
 ---

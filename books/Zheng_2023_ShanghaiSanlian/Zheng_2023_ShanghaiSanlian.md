@@ -1,6 +1,8 @@
 ---
 citation: 郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海三联书店.
 extracted_to:
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Academic Engagement]]"
   - "[[Academic and Social Integration]]"
   - "[[Economy of Experience]]"
   - "[[Employability]]"
@@ -16,6 +18,7 @@ extracted_to:
   - "[[Cultural Disorientation]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Graduation Pathway Typology]]"
+  - "[[Habitus]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Lost Mode]]"
   - "[[Opportunist Mode]]"
@@ -26,22 +29,19 @@ extracted_to:
   - "[[Work Meaning Schemas]]"
   - "[[China College Graduate Employment Reform]]"
   - "[[Recommendation-Based Graduate Admission System]]"
+  - "[[Case Study]]"
+  - "[[Constructivist Grounded Theory]]"
+  - "[[In-depth Interview]]"
   - "[[Yajun Zheng]]"
   - "[[Didier Eribon]]"
+  - "[[Pierre Bourdieu]]"
+  - "[[Max Weber]]"
   - "[[Ann Swidler]]"
   - "[[Marcia Baxter Magolda]]"
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory in Education]]"
-  - "[[Academic Engagement]]"
-  - "[[Habitus]]"
-  - "[[Constructivist Grounded Theory]]"
-  - "[[In-depth Interview]]"
-  - "[[Pierre Bourdieu]]"
-  - "[[Max Weber]]"
-  - "[[Case Study]]"
-  - "[[Argument_郑_2023_上海三联书店]]"
 processed_date: 2026-05-09
 ---
 
-<div id="epub-viewer" style="width:100%;height:600px;border:1px solid rgb(204,204,204);" data-epub="/books/郑_2023_上海三联书店/金榜题名之后_大学生出路分化之谜.epub"></div> <script defer src="/static/jszip.min.js"></script> <script defer src="/static/epub.min.js"></script> <script defer src="/static/epub-loader.js"></script> <script defer src="/static/epub-init.js"></script>
+<div id="epub-viewer" style="width:100%;height:600px;border:1px solid rgb(204,204,204);" data-epub="/books/Zheng_2023_ShanghaiSanlian/金榜题名之后_大学生出路分化之谜.epub"></div> <script defer src="/static/jszip.min.js"></script> <script defer src="/static/epub.min.js"></script> <script defer src="/static/epub-loader.js"></script> <script defer src="/static/epub-init.js"></script>

@@ -24,9 +24,9 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_郑_2023_上海三联书店]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -102,10 +102,10 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example]
-> - [[Yajun Zheng|郑雅君]]（2023）将 Astin 涉入理论纳入"大学过程"分析框架的"投入过程"层，用于分析 [[Goal-Controlled Mode|目标掌控模式]] 和 [[Intuition-Dependent Mode|直觉依赖模式]] 在学业和社会性两个维度上的投入差异。详见 [[Academic Engagement]]、[[Social Engagement]] 和 [[Argument_郑_2023_上海三联书店]]
+> - [[Yajun Zheng|郑雅君]]（2023）将 Astin 涉入理论纳入"大学过程"分析框架的"投入过程"层，用于分析 [[Goal-Controlled Mode|目标掌控模式]] 和 [[Intuition-Dependent Mode|直觉依赖模式]] 在学业和社会性两个维度上的投入差异。详见 [[Academic Engagement]]、[[Social Engagement]] 和 [[Argument_Zheng_2023_ShanghaiSanlian]]
 
 ---
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]

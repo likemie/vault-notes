@@ -8,8 +8,7 @@ tags:
 - moral-sidestep
 - evidence-based-policy
 - policy-making
-related_concepts:
-  - "[[Transfer Translation Transformation]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
@@ -100,7 +99,7 @@ Bainbridge et al.（2022）对 2015–2019 年英国议会 11 场关于[[Grammar
 
 ## 争议与批评
 
-**概念[[Transfer Translation Transformation|迁移]]的适用性**：Stevens（2019）的回避型道德侧步源于毒品政策情境（涉及刑事化、去人性化），其在教育政策中的适用性需要修正——Bainbridge et al. 的研究表明教育情境产生了不同的侧步机制（建构型），暗示道德侧步的形式可能与政策领域特性相关（Bainbridge et al., 2022, p.19）。
+**概念迁移的适用性**：Stevens（2019）的回避型道德侧步源于毒品政策情境（涉及刑事化、去人性化），其在教育政策中的适用性需要修正——Bainbridge et al. 的研究表明教育情境产生了不同的侧步机制（建构型），暗示道德侧步的形式可能与政策领域特性相关（Bainbridge et al., 2022, p.19）。
 
 **侧步并非不可撼动**：当社会流动性委员会报告提供了强有力的"内部证据"后，议会辩论中以[[Grammar School|文法学校]]促进社会流动性的论述显著减少（从 2016 年 9–11 月的 53 次降至 2016 年 11 月后的 13 次），表明道德话语在面对足够有力的机构内部证据时可以被部分瓦解。但"好学校"这一更根本的话语未被同一证据动摇（Bainbridge et al., 2022, p.25）。
 

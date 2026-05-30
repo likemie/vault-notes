@@ -23,7 +23,8 @@ related_concepts:
   - "[[Credential Inflation]]"
 related_theories:
   - "[[Culture as Toolkit]]"
-related_methods: []
+related_methods:
+  - "[[Quantitative Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
@@ -31,7 +32,7 @@ related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -127,7 +128,7 @@ updated: 2026-05-18
 
 > [!warning]
 > - **概念边界模糊**：文化资本与人力资本、社会资本之间的区分在实际操作中并不总是清晰——具身化文化资本（如语言能力）在劳动力市场上同样可以被分析为人力资本，这引发了对概念必要性的质疑
-> - **经验测量困难**：如何定量测量具身化文化资本一直是经验研究的主要挑战。大部分定量研究只能以制度化文化资本（如父母学历）作为代理变量，这模糊了三种形态之间的理论区分
+> - **经验测量困难**：如何定量测量具身化文化资本一直是经验研究的主要挑战。大部分[[Quantitative Research|定量研究]]只能以制度化文化资本（如父母学历）作为代理变量，这模糊了三种形态之间的理论区分
 > - **法国中心主义**：文化资本概念主要基于法国社会的经验发展，其"高雅文化"（high culture）预设在其他社会情境中可能不适用。[[Yajun Zheng|郑雅君]]（2023）在中国语境中的操作化为跨情境应用提供了范例
 
 ---
@@ -144,4 +145,4 @@ updated: 2026-05-18
 ## 来源
 
 - Eacott, S. (2011). New look leaders or a new look at leadership? *Journal of Educational Administration and History*, 43(1).
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]

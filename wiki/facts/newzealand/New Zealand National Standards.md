@@ -23,7 +23,6 @@ related_persons:
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[The New Zealand Curriculum]]"
-  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
 related_arguments:
   - "[[Argument_ONeill_2012_NZJES]]"
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 
 > [!note]- 时间线
 > - **2008 年末**：国家党领导的联合政府当选，将国家标准纳入政策议程
-> - **2009 年初**：[[John Hattie|Hattie]] 的 *[[Visible Learning]]* 登上 *Sunday [[Tennessee STAR Project 1985-1989|STAR]] Times* 头版（2009 年 1 月），随后他对国家标准的评论引发广泛媒体关注（p.86）
+> - **2009 年初**：[[John Hattie|Hattie]] 的 *[[Visible Learning]]* 登上 *Sunday STAR Times* 头版（2009 年 1 月），随后他对国家标准的评论引发广泛媒体关注（p.86）
 > - **2009 年**：Hattie 被邀加入技术顾问组（共召开两次会议，Hattie 因出国六个月均未出席）（p.92）
 > - **2009 年**：新西兰评估学会（NZ Assessment Academy，由五位测量领域专家组成）受教育部邀请对标准的技术层面提供评论——部分但非全部建议被采纳（p.92）
 > - **2010 年**：总理 John Key 在发布国家标准时公开感谢 Hattie 对标准和评估理念的推动——"This seemed to many people to indicate that my hands were 'on the tiller'"（Hattie, 2010, p.92）

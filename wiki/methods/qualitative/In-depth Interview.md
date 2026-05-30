@@ -24,12 +24,12 @@ related_persons:
   - "[[Max Weber]]"
   - "[[Yajun Zheng]]"
 related_arguments:
-  - "[[Argument_郑_2023_上海三联书店]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Yu_2024_CE]]"
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Wang_2025_CE]]"
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
   - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft
@@ -120,7 +120,7 @@ updated: 2026-05-26
 > - **辅助来源**：背景信息问卷、实地观察笔记、官方文件/典礼讲话、网络论坛讨论
 > - **效度保障**：人员校验法 + 三角互证法 + 与 跟踪式[[Case Study|个案研究]] 结合，观察实际行动以检视叙述可靠性
 >
-> 详见 [[Argument_郑_2023_上海三联书店]]。
+> 详见 [[Argument_Zheng_2023_ShanghaiSanlian]]。
 
 > [!example] 案例二：Yu & Zhao（2024）——多元文化中国视角下的儒家传统研究
 > Yu & Zhao（2024）以半结构化深度访谈收集边缘群体的文化理解经验。具体实施：
@@ -158,5 +158,5 @@ updated: 2026-05-26
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]
 - [[Yu_2024_CE]]

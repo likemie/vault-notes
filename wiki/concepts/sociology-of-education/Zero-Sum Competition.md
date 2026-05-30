@@ -15,7 +15,6 @@ tags:
   - theme/cultural-psychology
 related_concepts:
   - "[[Nerd]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Self-Cultivation]]"
   - "[[Talent Assumption]]"
@@ -58,7 +57,7 @@ updated: 2026-05-24
 
 > [!abstract]
 
-**零和逻辑**。零和竞争的核心是"排他性"——成功的位置是有限的，一个人的上升必然以他人的下降为代价。这与体育竞赛的逻辑相同（只有一个冠军），但当它被**[[Transfer Translation Transformation|迁移]]到学业领域**时，产生了严重的同伴关系后果。
+**零和逻辑**。零和竞争的核心是"排他性"——成功的位置是有限的，一个人的上升必然以他人的下降为代价。这与体育竞赛的逻辑相同（只有一个冠军），但当它被**迁移到学业领域**时，产生了严重的同伴关系后果。
 
 **与固定自我观的相互强化**。Li 指出零和竞争与固定自我观之间存在相互喂养的关系（Li, 2012, p.96）：
 - 固定自我观 → 学术表现被视为自我价值的验证 → 赢 = 自我被确认，输 = 自我被否定

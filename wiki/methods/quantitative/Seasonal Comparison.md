@@ -14,7 +14,8 @@ tags:
 - paradigm/positivist
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Experimental Research]]"
 related_persons: []
 related_arguments: []
 sources:
@@ -28,7 +29,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 季节性比较（Seasonal Comparison）是一种准实验研究设计，利用学校日历的季节性特征——九个月的学年后接三个月的暑假——作为自然实验来理解学校如何影响不平等。其核心逻辑类似于医学研究中的交叉设计（crossover design）：被试在治疗期（学年）和非治疗期（暑假）被反复观测，通过比较两种条件下成就差距的变化来推断学校的因果效应（Downey & Condron, 2016, p.4）。
+> 季节性比较（Seasonal Comparison）是一种准[[Experimental Research|实验研究]]设计，利用学校日历的季节性特征——九个月的学年后接三个月的暑假——作为自然实验来理解学校如何影响不平等。其核心逻辑类似于医学研究中的交叉设计（crossover design）：被试在治疗期（学年）和非治疗期（暑假）被反复观测，通过比较两种条件下成就差距的变化来推断学校的因果效应（Downey & Condron, 2016, p.4）。
 >
 > > "Similar to a crossover design in medical research, where patients are observed on and off treatment, seasonal comparison researchers observe how achievement gaps change when children are on treatment (in school) versus out (summer)." (Downey & Condron, 2016, p.4)
 

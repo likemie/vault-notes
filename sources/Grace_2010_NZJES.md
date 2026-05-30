@@ -3,11 +3,11 @@ citation: "Grace, G. (2010). Reflection on the University and the Academic as 'C
 extracted_to:
   - "[[Argument_Grace_2010_NZJES]]"
   - "[[Critic and Conscience of Society]]"
-  - "[[Learning for Life Report]]"
-  - "[[Gerald Grace]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
+  - "[[Learning for Life Report]]"
   - "[[John Hattie]]"
+  - "[[Gerald Grace]]"
 processed_date: 2026-05-07
 ---
 

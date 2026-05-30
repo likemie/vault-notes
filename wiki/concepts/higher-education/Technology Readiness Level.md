@@ -15,9 +15,9 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University Spin-Out]]"
+  - "[[Corporate Venture Capital]]"
   - "[[Non-dilutive Funding]]"
   - "[[Proof of Concept Programs]]"
-  - "[[Corporate Venture Capital]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -65,7 +65,7 @@ updated: 2026-05-29
 ## 在衍生企业融资中的关键作用
 
 > [!warning]
-> TRL 不足是大学衍生企业融资困境的技术维度。企业风险投资（[[Corporate Venture Capital|CVC]]）和企业试点项目通常要求 TRL 至少达到 6-7，而大多数衍生企业处于 TRL 3-5，形成了"第二十二条军规"式困局（Catch-22）：初创企业需要通过企业试点来验证技术、提高 TRL、获得市场背书，但企业只愿意在 TRL 足够高时才投入资源进行试点（p.145）。
+> TRL 不足是[[University Spin-Out|大学衍生企业]]融资困境的技术维度。[[Corporate Venture Capital|企业风险投资]]（[[Corporate Venture Capital|CVC]]）和企业试点项目通常要求 TRL 至少达到 6-7，而大多数衍生企业处于 TRL 3-5，形成了"第二十二条军规"式困局（Catch-22）：初创企业需要通过企业试点来验证技术、提高 TRL、获得市场背书，但企业只愿意在 TRL 足够高时才投入资源进行试点（p.145）。
 
 > [!abstract]
 > [[Non-dilutive Funding|非稀释性资助]]和[[Proof of Concept Programs|概念验证项目]]（PoP）的核心功能之一就是将衍生企业的 TRL 从 3-5 推进到 6-7 的"可试点"区间，填补这一融资缺口（pp.145, 148-149）。

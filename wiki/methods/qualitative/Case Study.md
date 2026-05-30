@@ -18,11 +18,11 @@ related_methods:
 related_persons:
   - "[[Yajun Zheng]]"
 related_arguments:
-  - "[[Argument_郑_2023_上海三联书店]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Wang_2025_CE]]"
 sources:
   - "[[Creswell_2022_SAGE]]"
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: '2026-05-08'
@@ -112,10 +112,10 @@ updated: 2026-05-30
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_郑_2023_上海三联书店]] — [[Yajun Zheng|郑雅君]]（2023）以跟踪式个案研究为设计，两阶段累计 62 名个案，结合目的抽样与理论抽样，将个案在家庭背景、性别、学科、学段和去向各类别进行系列分解以优化可外推性
+> - [[Argument_Zheng_2023_ShanghaiSanlian]] — [[Yajun Zheng|郑雅君]]（2023）以跟踪式个案研究为设计，两阶段累计 62 名个案，结合目的抽样与理论抽样，将个案在家庭背景、性别、学科、学段和去向各类别进行系列分解以优化可外推性
 > - [[Argument_Wang_2025_CE]] — Wang & McLaughlin（2025）以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所（两所城市、两所农村）进行深度追踪，结合半结构化访谈和学校文件分析，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异
 
 ## 来源
 
 - [[Creswell_2022_SAGE]]
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]

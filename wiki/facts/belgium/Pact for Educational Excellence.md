@@ -21,7 +21,8 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts:
   - "[[French-Speaking Belgium Education System]]"
@@ -67,7 +68,7 @@ updated: 2026-05-24
 > [!example]
 > 公约建立了八个由师范学院和大学学科教学专家、教育科学研究者组成的工作组，分别覆盖现代语言、法语与拉丁语、艺术、数学科学与地理、技术与信息技术、人文社会科学与公民教育、体育健康、数字教育等领域，目标是为教师提供适合共同核心课程引入的工具和项目（Dachet & Baye, 2021, pp.174-175）。
 
-工作组在 2017 年列出 425 个工具或项目，但只有 61 个曾由教育研究者测试，只有 13 个即总量约 3% 采用实验设计测试（Dachet & Baye, 2021, p.175）。由于严格按英美式证据层级会排除约 97% 的候选工具，改革团队转而建立[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、案例研究、横断研究、相关或纵向研究、实验和准实验研究放在同一框架内，并为不同方法设置最低质量标准（Dachet & Baye, 2021, pp.175-178）。
+工作组在 2017 年列出 425 个工具或项目，但只有 61 个曾由教育研究者测试，只有 13 个即总量约 3% 采用实验设计测试（Dachet & Baye, 2021, p.175）。由于严格按英美式证据层级会排除约 97% 的候选工具，改革团队转而建立[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、案例研究、横断研究、相关或纵向研究、实验和准[[Experimental Research|实验研究]]放在同一框架内，并为不同方法设置最低质量标准（Dachet & Baye, 2021, pp.175-178）。
 
 ## 效果与评价
 
@@ -82,7 +83,7 @@ updated: 2026-05-24
 ## 争议与评论
 
 > [!warning]
-> 公约处在纯粹证据本位范式与学科教学专家传统专业发展取向之间的妥协位置。它承认实验研究和项目验证的重要性，但由于本地实验研究稀少、英语文献进入困难、政治上难以排除多数既有工具，只能先采用方法多元的包容性标准，而不是直接套用 EEF、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 的证据等级（Dachet & Baye, 2021, pp.175-176, 181-182）。
+> 公约处在纯粹证据本位范式与学科教学专家传统专业发展取向之间的妥协位置。它承认[[Experimental Research|实验研究]]和项目验证的重要性，但由于本地实验研究稀少、英语文献进入困难、政治上难以排除多数既有工具，只能先采用方法多元的包容性标准，而不是直接套用 EEF、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 的证据等级（Dachet & Baye, 2021, pp.175-176, 181-182）。
 
 [[Grade Retention|留级]]政策展示了“有证据但改革不够强”的一面。大量综述未能识别留级的平均正效应，但法语比利时案例中的改革目标只是到 2030 年降低 50%，仍允许共同核心课程阶段使用留级；这体现了自上而下禁令与自下而上软性改变之间的政策取舍（Dachet & Baye, 2021, p.174）。
 

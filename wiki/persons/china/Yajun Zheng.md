@@ -40,7 +40,7 @@ related_persons:
   - "[[Didier Eribon]]"
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -147,4 +147,4 @@ updated: 2026-05-19
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]

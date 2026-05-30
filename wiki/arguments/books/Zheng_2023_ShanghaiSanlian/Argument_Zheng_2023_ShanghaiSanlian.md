@@ -1,5 +1,5 @@
 ---
-title: Argument_郑_2023_上海三联书店
+title: Argument_Zheng_2023_ShanghaiSanlian
 author: "郑雅君"
 summary: "以布迪厄实践理论和 Swidler 文化工具箱为框架，基于 62 名中国两所顶尖大学毕业生跟踪访谈，提出目标掌控模式／直觉依赖模式双模式框架，揭示文化障碍如何在精英大学中制造出路分化。"
 type: argument
@@ -77,7 +77,7 @@ related_facts:
   - "[[China College Graduate Employment Reform]]"
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 part_of: ""
 status: draft
 created: 2026-05-08
@@ -418,7 +418,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 2. **（投入）** 学生在大学里的努力如何转化为他们在出路获得上的优势？
 3. **（价值选择）** 价值信念如何影响生涯目标的树立，又如何影响出路的最终获得？
 
-![](https://img.mylikemie.icu/books/郑_2023_上海三联书店/figures/框架图.jpeg)
+![](https://img.mylikemie.icu/books/Zheng_2023_ShanghaiSanlian/figures/框架图.jpeg)
 
 *图1 本研究的分析框架和研究问题（郑雅君，2023）*
 
@@ -930,7 +930,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 
 **（a）意义感的来源——[[Work Meaning Schemas|工作意义三角图式]]结构（[[Work Meaning Schemas]]）**
 
-![](https://img.mylikemie.icu/books/郑_2023_上海三联书店/figures/第五章%20名校大学生工作意义来源的三角图式结构.jpeg)
+![](https://img.mylikemie.icu/books/Zheng_2023_ShanghaiSanlian/figures/第五章%20名校大学生工作意义来源的三角图式结构.jpeg)
 
 *图2 名校大学生工作意义来源的三角图式结构（郑雅君，2023）*
 
@@ -965,7 +965,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 
 对 70 名被访者的图式激活程度进行的 1-5 赋分定位显示：
 
-![](https://img.mylikemie.icu/books/郑_2023_上海三联书店/figures/第五章%20每位被访者在三种观念图式之间所处位置图示.jpeg)
+![](https://img.mylikemie.icu/books/Zheng_2023_ShanghaiSanlian/figures/第五章%20每位被访者在三种观念图式之间所处位置图示.jpeg)
 
 *图3 每位被访者在三种观念图式之间所处位置图示（郑雅君，2023）*
 
@@ -995,7 +995,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 - **纵轴（目的-手段行动力）**：工具理性驱使之下利用手段达成目标的能力——即"目标掌控/直觉依赖"的主要分野，同时带有家庭背景的意涵
 - **横轴（价值信念驱动力）**：价值信念对生涯选择的驱动力——浅层内化或相互冲突的价值图式不会带来明确目的，深层内化则构成真实动机
 
-![](https://img.mylikemie.icu/books/郑_2023_上海三联书店/figures/第五章大学生出路产生机制的四分类.jpeg)
+![](https://img.mylikemie.icu/books/Zheng_2023_ShanghaiSanlian/figures/第五章大学生出路产生机制的四分类.jpeg)
 
 *图4 大学生出路产生机制的四分类（郑雅君，2023）*
 
@@ -1181,4 +1181,4 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]

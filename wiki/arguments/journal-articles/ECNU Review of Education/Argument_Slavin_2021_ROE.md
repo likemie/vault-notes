@@ -18,8 +18,10 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[School Leadership]]"
+  - "[[Entrepreneur in Residence]]"
 related_theories: []
 related_methods:
+  - "[[Quantitative Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
@@ -49,7 +51,7 @@ updated: '2026-05-18'
 
 > [!info] 研究方法
 > - 方法：国际比较综述（international comparative review）
-> - 数据来源：中国 CNKI 数据库（~5000 篇"教育实证研究"文献计量分析）、五种 CSSCI 期刊 2012-2016 年出版物分析（Wang, 2017）、ECNU 五届教育实证研究论坛资料（2015-2019）、美英政策文件（ESSA、[[Investing in Innovation Program|i3]]/EIR、EEF）和网站（[[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]、Evidence for ESSA、[[Best Evidence in Brief|BEiB]]）
+> - 数据来源：中国 CNKI 数据库（~5000 篇"教育实证研究"文献计量分析）、五种 CSSCI 期刊 2012-2016 年出版物分析（Wang, 2017）、ECNU 五届教育实证研究论坛资料（2015-2019）、美英政策文件（ESSA、[[Investing in Innovation Program|i3]]/[[Entrepreneur in Residence|EIR]]、EEF）和网站（[[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]、Evidence for ESSA、[[Best Evidence in Brief|BEiB]]）
 > - 覆盖区域：中国（含大陆和香港）、美国、英国
 
 ## 核心论证
@@ -58,7 +60,7 @@ updated: '2026-05-18'
 > 1. **[[Evidence-Based Reform|证据本位改革]]的必要性**：教育应跟随医学、农业、技术的先例——研究→开发→评估→推广的良性循环已在这些领域带来革命性进步。"直到最近，教育在任何重大程度上都未参与证据本位的实践或政策。然而教育没有理由不能跟随医学、农业、技术和工程的先例"（p.9-10）
 > 2. **中国现状**：[[Evidence-Based Education|证据本位教育]]研究在中国学术界快速增长——CNKI 收录文章从 1990 年 2 篇增至 2018 年 477 篇（p.11）。但证据本位研究在五种 CSSCI 期刊 2012-2016 年仅占约 20%（Wang, 2017），袁振国估计总体不到 10%（p.13-14）
 > 3. **中国的制度建设**：ECNU 自 2015 年起连续五年举办全国教育实证研究论坛，2017 年 14 所大学和 32 家 CSSCI 期刊联合发布"华东师范大学宣言"，提出 10 条推进措施（p.10-15）
-> 4. **中国学者的质疑**：(a) 定义之争——广义（收集观察数据）vs 狭义（程序化、操作化、定量化）的"实证"理解分歧（Shi, 2017）；(b) 统计主义（statisticalism）批判——"聚焦方法而忽视问题，聚焦数据而忽视事实，聚焦格式而忽视思想"（Li, 2018, p.15-16）；(c) 教育价值不可量化——"教育的许多重要概念如目的、伦理和价值难以量化和观察"（Liu, 2017, p.16）；(d) 数据收集的现实困难——高质量数据获取受限、纵向数据成本、研究者培训不足（Yang et al., 2019, p.16）；(e) 实证研究不等于定量研究——潘洪建（2018）强调严谨的定性研究同样导致真实证据（p.16）
+> 4. **中国学者的质疑**：(a) 定义之争——广义（收集观察数据）vs 狭义（程序化、操作化、定量化）的"实证"理解分歧（Shi, 2017）；(b) 统计主义（statisticalism）批判——"聚焦方法而忽视问题，聚焦数据而忽视事实，聚焦格式而忽视思想"（Li, 2018, p.15-16）；(c) 教育价值不可量化——"教育的许多重要概念如目的、伦理和价值难以量化和观察"（Liu, 2017, p.16）；(d) 数据收集的现实困难——高质量数据获取受限、纵向数据成本、研究者培训不足（Yang et al., 2019, p.16）；(e) 实证研究不等于[[Quantitative Research|定量研究]]——潘洪建（2018）强调严谨的定性研究同样导致真实证据（p.16）
 > 5. **美英现状**：ESSA (2015) 定义强/中/有希望三级证据标准；[[Investing in Innovation Program|i3]] 资助 171 个 [[Randomised Controlled Trials|RCT]] 项目（2009-2016）；IES 自 2002 年支持可推广项目的开发和评估；EEF 资助大量第三方 RCT 评估（p.17-19）
 > 6. **信息传播基础设施**：[[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]（最佳证据百科全书）、Evidence for ESSA（~100 个阅读和数学项目达标，截至 2020 年 1 月 100,000+ 独立用户）、[[Best Evidence in Brief|BEiB]]（每两周向数万订阅者发送，已扩展至中文版）（p.19-21）
 > 7. **对中国的建议**：(a) 识别少数区域试点政策和实践以学习如何在中国情境中运作；(b) 建立从创新到评估到推广的全程能力——"需要大量高技能人才来创造或改编创新""需要更多熟练的评估者""需要能够持续总结有效项目证据并使其易于为教育者获取"（p.21-22）

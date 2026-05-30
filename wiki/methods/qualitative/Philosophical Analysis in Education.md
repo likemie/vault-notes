@@ -15,7 +15,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Value-Based Education]]"
-  - "[[Pragmatism in China]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
   - "[[Phenomenon-Based Learning]]"
@@ -83,7 +83,7 @@ updated: '2026-05-18'
 
 > [!info] 相关理论
 > - [[Transactional Epistemology]] — Biesta 分析的认识论核心工具（表象认识论 vs. 交易认识论）
-> - **[[John Dewey|Dewey]] 的[[Pragmatism in China|实用主义]]** — 本方法的哲学根基
+> - **[[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]** — 本方法的哲学根基
 
 ## 使用此方法的研究
 

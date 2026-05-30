@@ -21,8 +21,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
-  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[California Class Size Reduction 1996]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments: []
 sources:
@@ -66,7 +66,7 @@ updated: '2026-05-18'
 > > 例：一个家庭作业方案要求学生在家完成作业，但在某些学校学生缺乏合适的学习空间。替代方案——开设课后作业俱乐部——起到了相同的功能（提供安静的学习环境），但形式上不同于原始方案（Cartwright and Cowen, 2014; 引自 Cowen et al., 2015, p.18）
 
 
-> [!abstract] Tennessee [[Tennessee STAR Project 1985-1989|STAR]] 与加州班级缩减：Fidelity vs Adaptation 的经典案例（Wiliam, 2019）
+> [!abstract] Tennessee STAR 与加州班级缩减：Fidelity vs Adaptation 的经典案例（Wiliam, 2019）
 > Wiliam (2019, pp.5–7) 对 Tennessee STAR 项目和加州班级缩减政策进行了详细对比，揭示了 fidelity vs adaptation 辩论在大型教育政策中的具体表现：
 >
 > **Tennessee STAR (1985–1989) 的成功**：
@@ -112,7 +112,7 @@ updated: '2026-05-18'
 > - 教师访谈显示实践中几乎没有学校"开箱即用"地应用证据本位方案（Cowen et al., 2015, p.40-41）
 > - 部分教师试图向自己证明"忠实于研究"——通过测量中间结果来验证方案是否按预期产生了初始效果（Cowen et al., 2015, p.29-30）
 > - 另一位教师则认为只要理解自己偏离了什么以及为什么偏离，忠实度并非必须维持（Cowen et al., 2015, p.30）
-> - Tennessee [[Tennessee STAR Project 1985-1989|STAR]] 本身也非"忠实执行"的完美范例：随机分配在操作中被破坏——家长发现孩子被分配到大班后施压转班，在平均更有效的学校中更富裕学生在小班中过度代表（Sohn, 2015）（Wiliam, 2019, pp.6–7）
+> - Tennessee STAR 本身也非"忠实执行"的完美范例：随机分配在操作中被破坏——家长发现孩子被分配到大班后施压转班，在平均更有效的学校中更富裕学生在小班中过度代表（Sohn, 2015）（Wiliam, 2019, pp.6–7）
 
 ## 争议与批评
 

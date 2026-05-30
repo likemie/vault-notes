@@ -19,6 +19,7 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Feedback]]"
   - "[[Statistical Significance]]"
+  - "[[Literature Review]]"
   - "[[Class Size]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -169,7 +170,7 @@ updated: '2026-05-21'
 >
 > 在缺乏随机分配的情况下，元分析的统计推断"变得非常难以辩护"（Berk, 2007）。必须假设被合并的研究是"所有可能（或已完成）研究的一个概率样本，且研究之间彼此独立实现"（Berk, 2011, p.199）。Berk 指出："随便做一下项目评估社会学就会发现，综述的研究不是任何真实事物的概率样本。而独立性的通常要求意味着研究者不阅读彼此的工作、不在学术会议上讨论这些工作、从不合作、也不雇佣彼此的学生"（Berk, 2011, p.199）。
 >
-> > "In short, the importance of meta-analysis for estimating causal effects has been grossly overrated. A conventional literature review will often do better. At the very least, readers will not be swayed by statistical malpractice disguised as statistical razzle-dazzle." (Berk, 2011, p.199)
+> > "In short, the importance of meta-analysis for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better. At the very least, readers will not be swayed by statistical malpractice disguised as statistical razzle-dazzle." (Berk, 2011, p.199)
 >
 > **Simpson (2017) — 元分析两项核心假设的系统性违背**
 >

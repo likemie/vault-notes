@@ -11,7 +11,6 @@ tags:
   - paradigm/interpretivist
 related_concepts:
   - "[[Habitus]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Self-Authorship]]"
@@ -33,7 +32,7 @@ related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -61,7 +60,7 @@ updated: 2026-05-18
 > [!abstract]
 > - **文化的双重功能**：文化同时以两种方式影响行动——通过定义价值观来塑造行动目的（"想要什么"），以及通过提供文化工具来建构行动策略（"如何去做"）。后者是该理论区别于传统文化价值论的关键创新（[[Yajun Zheng|郑雅君]]，2023，引 Swidler, 1986）
 > - **文化工具的阶层差异**：文化工具的可及性和掌握熟练程度依[[Habitus|习性]]结构的不同而有着系统性的差异。对于在客观社会结构和历史中处于特定位置的人们而言，内在化于身体的结构为某些文化工具的获得提供了固有范围（郑雅君，2023）
-> - **文化图式的[[Transfer Translation Transformation|迁移]]性**：文化图式是可迁移（transposable）和可推广的（generalizable），行动者对文化的掌握和运用是创造性而非完全预料的（郑雅君，2023，引 Sewell, 1992）
+> - **文化图式的迁移性**：文化图式是可迁移（transposable）和可推广的（generalizable），行动者对文化的掌握和运用是创造性而非完全预料的（郑雅君，2023，引 Sewell, 1992）
 > - **惯常性与非深思熟虑性**：文化工具的使用往往是习惯性的、不经深思熟虑的——人们在日常生活中调动文化图式的方式类似于使用一件熟悉的工具，而非每次都要进行理性计算（郑雅君，2023）
 > - **稳定与不稳定生活状态**：Swidler 区分了两种文化时期——在"稳定生活状态"（settled lives）中，文化为人们组织多种可能的行动提供正当性理由；在"不稳定生活状态"（unsettled lives）中，多种强有力的外部观念对行动可能有直接的控制，但其长期影响有赖于哪种观念在竞争中得以生存（郑雅君，2023，引 Swidler, 1986）
 
@@ -84,7 +83,7 @@ updated: 2026-05-18
 
 > [!note]
 > - **1986 范式挑战**：Swidler 在 *ASR* 发表"Culture in Action: Symbols and Strategies"，以文化工具箱范式挑战 Weber-Parsons 价值观驱动范式的垄断地位。核心观察：人们对事物抱有的观念在很多情况下难以连贯地解释他们的行动（[[Yajun Zheng|郑雅君]]，2023，引 Swidler, 1986）
-> - **1992 补充论证**：Sewell 在 *AJS* 上进一步论证文化图式的可[[Transfer Translation Transformation|迁移]]性和可推广性，强化了工具箱范式的理论基础（郑雅君，2023，引 Sewell, 1992）
+> - **1992 补充论证**：Sewell 在 *AJS* 上进一步论证文化图式的可迁移性和可推广性，强化了工具箱范式的理论基础（郑雅君，2023，引 Sewell, 1992）
 > - **2009 Vaisey 调和**：Stephen Vaisey 在 *AJS* 发表"Motivation and Justification"，援引认知科学双过程理论论证两种范式在**不同意识层次**上互补运作——价值观驱动范式在深层无意识层面运作，工具箱范式在浅层有意识层面运作。详见 [[Dual-Process Model of Culture in Action]]（郑雅君，2023，引 Vaisey, 2009）
 > - **2023 教育研究应用**：[[Yajun Zheng|郑雅君]]在《金榜题名之后》中将该理论系统应用于中国精英大学学生出路分化分析，从 Swidler 的两种生活状态出发建构了 [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 的区分（郑雅君，2023）
 
@@ -128,4 +127,4 @@ updated: 2026-05-18
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]

@@ -21,7 +21,6 @@ related_persons: []
 related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
-  - "[[Tennessee STAR Project 1985-1989]]"
 related_arguments: []
 sources:
   - "[[Gorur_2014_Discourse]]"
@@ -75,7 +74,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > Gorur 以 OECD 指标开发为案例展示测量社会学的应用：
-> - [[International Indicators of Education Systems|INES]] 项目通过一系列"排序"操作（Berg & Timmermans, 2000; Bowker & [[Tennessee STAR Project 1985-1989|STAR]], 2000; Law, 1994）将多样化世界标准化（Gorur, 2014, p.9–10）
+> - [[International Indicators of Education Systems|INES]] 项目通过一系列"排序"操作（Berg & Timmermans, 2000; Bowker & STAR, 2000; Law, 1994）将多样化世界标准化（Gorur, 2014, p.9–10）
 > - "共识"可视为一种"[[Transfer Translation Transformation|转译]]"（Callon, 1986; Latour, 1999），它消除或最小化阻碍（Gorur, 2014, p.17）
 > - 方法论的程序化产生了一种"机械客观性"（Porter, 1995），为政策制定者所珍视（Gorur, 2014, p.17）
 

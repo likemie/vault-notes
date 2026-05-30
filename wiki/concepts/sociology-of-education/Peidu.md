@@ -13,7 +13,6 @@ tags:
   - theme/social-stratification
   - theme/urbanisation
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[School Choice]]"
   - "[[Cultural Capital]]"
   - "[[Class Size]]"
@@ -36,7 +35,7 @@ updated: 2026-05-26
 ## 定义
 
 > [!info]
-> 陪读（Peidu）指中国农村家庭为子女能在城镇学校就读，由至少一名成年家庭成员（多为母亲或祖辈）迁入县城或乡镇陪同子女居住和学习的做法。字面意为"陪着读书"，本质上是一种通过[[Transfer Translation Transformation|迁移]]实现的[[School Choice|择校]]行为（Teng & Wang, 2025, pp.300–301）。
+> 陪读（Peidu）指中国农村家庭为子女能在城镇学校就读，由至少一名成年家庭成员（多为母亲或祖辈）迁入县城或乡镇陪同子女居住和学习的做法。字面意为"陪着读书"，本质上是一种通过迁移实现的[[School Choice|择校]]行为（Teng & Wang, 2025, pp.300–301）。
 
 > [!quote]
 > "peidu, which literally means 'accompanying children to study', involves rural adults relocating to urban areas to accommodate their children's education"（Teng & Wang, 2025, p.301）
@@ -46,7 +45,7 @@ updated: 2026-05-26
 ## 概念辨析
 
 - vs [[School Choice]] — 陪读是择校的一种特殊形式：国际语境中的择校多由市场化改革推动，而陪读由中国地方政府的城镇化战略驱动（Teng & Wang, 2025, pp.303–304）。
-- vs 一般农村向城市[[Transfer Translation Transformation|迁移]] — 陪读迁移以子女教育为核心动机，而非以就业或改善居住条件为首要目标；陪读成年人通常不进入当地劳动力市场，家庭经济来源依赖在外务工的父亲（Teng & Wang, 2025, p.307）。
+- vs 一般农村向城市迁移 — 陪读迁移以子女教育为核心动机，而非以就业或改善居住条件为首要目标；陪读成年人通常不进入当地劳动力市场，家庭经济来源依赖在外务工的父亲（Teng & Wang, 2025, p.307）。
 
 ---
 

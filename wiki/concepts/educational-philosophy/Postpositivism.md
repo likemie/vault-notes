@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Pragmatism in China]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -61,7 +60,7 @@ updated: 2026-05-30
 
 > [!example]
 > - vs [[Constructivist Paradigm]] — 后实证主义从既有理论出发进行演绎检验，建构主义从数据出发进行归纳生成。前者追求客观性和可推广性，后者注重参与者的主观意义和情境理解。
-> - vs [[Pragmatic Paradigm]] — [[Pragmatism in China|实用主义]]不以任何单一哲学体系为皈依，关注问题的实际解决，不追求理论的真伪检验。
+> - vs [[Pragmatic Paradigm]] — 实用主义不以任何单一哲学体系为皈依，关注问题的实际解决，不追求理论的真伪检验。
 
 ## 来源
 

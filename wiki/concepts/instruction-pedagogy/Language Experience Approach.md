@@ -16,6 +16,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Experimental Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts: []
@@ -56,7 +57,7 @@ updated: '2026-05-18'
 
 Stahl & Miller（1989）的混淆导致语言经验法研究被错误归类为[[Whole Language|全语言]]研究的证据，产生连锁效应：
 
-- Brazziel & Terrell（1962）——一项关于 26 名非裔美国儿童及其家庭的实验研究，涉及家长-教师合作的入学准备计划——被纳入 Stahl & Miller 的全语言/语言经验法[[Meta-analysis|元分析]]，进而被纳入 [[John Hattie|Hattie]] 的全语言[[Effect Size|效应量]]计算。O'Connor（2020, p.144）指出该研究与全语言"毫无关系"（has nothing to do with whole language）
+- Brazziel & Terrell（1962）——一项关于 26 名非裔美国儿童及其家庭的[[Experimental Research|实验研究]]，涉及家长-教师合作的入学准备计划——被纳入 Stahl & Miller 的全语言/语言经验法[[Meta-analysis|元分析]]，进而被纳入 [[John Hattie|Hattie]] 的全语言[[Effect Size|效应量]]计算。O'Connor（2020, p.144）指出该研究与全语言"毫无关系"（has nothing to do with whole language）
 - McGee & Lomax（1990, p.135）在回应中明确断言："语言经验法是全语言的重要前身，但我们断言检验语言经验法的研究结果不能用于对全语言进行推断"（O'Connor, 2020, p.144）
 
 ## 相关概念

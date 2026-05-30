@@ -14,6 +14,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[International Education Hubs]]"
+  - "[[Innovation Hub]]"
   - "[[Transnational Research Collaboration in Higher Education]]"
   - "[[International Education]]"
   - "[[Hegemony]]"
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[International Education Hubs|国际教育枢纽]]：国际化侧重院校和国家层面的跨境流动与合作策略；IEHs 则是国家将自身定位为教育、培训和创新中心的战略性项目，代表了国际化向更深层次的地缘政治和经济整合
+> - vs [[International Education Hubs|国际教育枢纽]]：国际化侧重院校和国家层面的跨境流动与合作策略；IEHs 则是国家将自身定位为教育、培训和[[Innovation Hub|创新中心]]的战略性项目，代表了国际化向更深层次的地缘政治和经济整合
 > - vs [[Transnational Research Collaboration in Higher Education|跨国研究合作]]：国际化涵盖教学、研究、服务多个维度；跨国研究合作是国际化的一个子维度，聚焦于研究活动的跨境协作
 
 ## 概念演变

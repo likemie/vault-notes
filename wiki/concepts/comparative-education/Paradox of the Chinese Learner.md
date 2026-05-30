@@ -23,7 +23,8 @@ related_concepts:
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"
-related_methods: []
+related_methods:
+  - "[[Ethnography]]"
 related_persons:
   - "[[David Watkins]]"
   - "[[John Biggs]]"
@@ -95,7 +96,7 @@ updated: '2026-05-23'
 
 ### 学习信念层面
 
-[[Confucian Heritage Cultures|CHC]] 学习者——与其西方同龄人不同——将道德和个人成长视为学习的核心目的。CHC 研究的学习信念路径 涵盖了 Wing On Lee 的儒家价值分析、Kai-ming Cheng 的民族志发现、以及 An Ran 的跨文化冲突研究。这些研究的共同指向是：**不能以西方的学习目的框架（理解世界、个人成就）来判断 CHC 学习者的学习质量——因为他们对"学习是为了什么"有根本不同的理解**。
+[[Confucian Heritage Cultures|CHC]] 学习者——与其西方同龄人不同——将道德和个人成长视为学习的核心目的。CHC 研究的学习信念路径 涵盖了 Wing On Lee 的儒家价值分析、Kai-ming Cheng 的[[Ethnography|民族志]]发现、以及 An Ran 的跨文化冲突研究。这些研究的共同指向是：**不能以西方的学习目的框架（理解世界、个人成就）来判断 CHC 学习者的学习质量——因为他们对"学习是为了什么"有根本不同的理解**。
 
 ### 学习过程层面
 

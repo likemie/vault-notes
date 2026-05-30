@@ -10,7 +10,8 @@ tags:
 - region/uk
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Quantitative Research]]"
 related_persons: []
 related_arguments: []
 sources:
@@ -24,7 +25,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 利兹大学（University of Leeds）教育研究者，研究方向为教育研究方法论、定量研究方法、"什么有效"议程的批判性评估。
+> 利兹大学（University of Leeds）教育研究者，研究方向为教育研究方法论、[[Quantitative Research|定量研究]]方法、"什么有效"议程的批判性评估。
 
 ## 核心思想
 

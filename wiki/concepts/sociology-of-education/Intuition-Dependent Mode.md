@@ -27,7 +27,8 @@ related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory in Education]]"
-related_methods: []
+related_methods:
+  - "[[Quantitative Research]]"
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
@@ -36,7 +37,7 @@ related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -104,7 +105,7 @@ updated: 2026-05-18
 ## 实证发现
 
 > [!success]
-> - 量化研究表明，即便在控制了学业表现的情况下，弱势家庭学生比优势家庭学生更倾向于选择直接就业而非继续升学，但就业结果却不如家境优势的同学（[[Yajun Zheng|郑雅君]]，2023，引李春玲，2012；岳昌君和周丽萍，2016）
+> - [[Quantitative Research|量化研究]]表明，即便在控制了学业表现的情况下，弱势家庭学生比优势家庭学生更倾向于选择直接就业而非继续升学，但就业结果却不如家境优势的同学（[[Yajun Zheng|郑雅君]]，2023，引李春玲，2012；岳昌君和周丽萍，2016）
 > - 牛新春和郑雅君的追踪研究发现，大二暑假期之后，生涯定向清晰度低的学生对高影响力活动的投入缺乏明确方向性（郑雅君，2023，引牛新春和郑雅君，2018）
 > - **模式转换**：约半数直觉依赖者在高年级或读研后（至少部分）完成了向[[Goal-Controlled Mode|目标掌控模式]]的转变。转变通常通过两条路径实现：文化移入与意义感重组（通过[[Social Engagement|社会性投入]]接触新价值图式）、行动策略的充实化（习得具体操作技能）。但转换面临信息障碍、时间成本和道德障碍，因此"寒门学子完全突破[[Cultural Barrier in Higher Education|文化障碍]]的机会仍然比较小"（郑雅君，2023）
 
@@ -133,4 +134,4 @@ updated: 2026-05-18
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]

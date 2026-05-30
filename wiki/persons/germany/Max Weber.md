@@ -28,7 +28,7 @@ related_arguments:
 sources:
   - "[[Ch11_Hartmann_2022]]"
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -315,4 +315,4 @@ updated: 2026-05-26
 - Anter, A. (2016). Max Webers Staatssoziologie. In *Max Weber-Handbuch*. Metzler.
 - Bruhns, H. (2017). *Max Weber und der Erste Weltkrieg*. Mohr.
 - Hartmann, E. (2022). The internationalisation of further education: Between geoeconomics and geopolitics. In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education* (pp. 179–198). Springer. 参见 [[Ch11_Hartmann_2022]] 与 [[Argument_Hartmann_2022_CorporateEducation]]。
-- 郑雅君 (2023). *金榜题名之后：大学生出路分化之谜*. 上海三联书店. 参见 [[郑_2023_上海三联书店]]。
+- 郑雅君 (2023). *金榜题名之后：大学生出路分化之谜*. 上海三联书店. 参见 [[Zheng_2023_ShanghaiSanlian]]。

@@ -20,6 +20,7 @@ related_theories:
   - "[[Popper's Three Worlds Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Quantitative Research]]"
   - "[[Intervention Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
@@ -64,7 +65,7 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - vs [[Surface and Deep Learning]] — 表层/深层学习通常区分学习质量层次；动态知识与学习模型则把知识形式扩展为一阶到四阶，并强调知识形式之间的递归和相互刺激（Qvortrup, 2015, pp.29–32）。
 > - vs [[Popper's Three Worlds Theory]] — [[John Hattie|Hattie]] 借 Popper 区分表层、深层和概念性知识；Qvortrup 认为这种映射与 Bloom 修订版、SOLO 模型之间关系不清，因此改采 Bateson 式动态模型（Qvortrup, 2015, p.30）。
-> - vs [[Scientism]] — 动态模型并不否定量化研究，而是反对把学习结果简化为单一可测指标；它要求在证据比较前先澄清"被测量的究竟是哪一类知识"。
+> - vs [[Scientism]] — 动态模型并不否定[[Quantitative Research|量化研究]]，而是反对把学习结果简化为单一可测指标；它要求在证据比较前先澄清"被测量的究竟是哪一类知识"。
 
 ## 理论基础
 

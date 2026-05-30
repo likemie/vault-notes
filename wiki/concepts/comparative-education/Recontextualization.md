@@ -11,7 +11,7 @@ tags:
   - theme/recontextualization
 related_concepts:
   - "[[Transfer Translation Transformation]]"
-  - "[[Pragmatism in China]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Quality Education]]"
   - "[[Learner-Centred Education]]"
 related_theories: []
@@ -87,7 +87,7 @@ updated: 2026-05-26
 > [!example]
 > Schulte（2009）以[[John Dewey|杜威]]在中国 1919–2009 年间的四次再脉络化为核心案例（详见[[Argument_Schulte_2009_EncuentrosEducacion]]）：
 
-> - **民国时期（1912–1949）**：[[Hu Shi|胡适]]将[[Pragmatism in China|实用主义]]极端化为反迷信的"唯一武器"，同时"实用"一词被嫁接在"经世致用"的本土话语上，杜威成为"朋友"（pp.71–77）
+> - **民国时期（1912–1949）**：[[Hu Shi|胡适]]将[[Pragmatic Paradigm|实用主义]]极端化为反迷信的"唯一武器"，同时"实用"一词被嫁接在"经世致用"的本土话语上，杜威成为"朋友"（pp.71–77）
 > - **毛泽东时代（1949–1976）**：杜威的"自然主义""反科学""不确定性"被挑出来攻击，因为它们分别威胁了马克思主义世界观的三个根基，杜威成为"魔鬼"（pp.79–83）
 > - **1980 年代**：通过[[Tao Xingzhi|陶行知]]的间接中介恢复杜威，将其重塑为科学与现代化旗帜（pp.84–89）
 > - **当代（1990s–2009）**：杜威被部署为[[Quality Education|素质教育]]代言人、反新自由主义武器、个体与社会和解的哲学保证人（pp.91–93）

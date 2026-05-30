@@ -19,6 +19,7 @@ related_concepts:
   - "[[Effect Size]]"
 related_theories: []
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_arguments: []
@@ -46,7 +47,7 @@ updated: '2026-05-19'
 > [!info] 核心思想
 > Slavin 的学术生涯围绕一个核心信念：教育可以像医学、农业和技术一样，通过**创新 → 严格评估 → 渐进改进**的良性循环实现持续进步。
 >
-> 1. **[[Evidence-Based Reform|证据本位改革]]（Evidence-Based Reform）**：Slavin 于 2002 年提出该概念（AERA Dewitt Wallace-Reader's Digest 杰出讲座），主张教育政策应鼓励或要求学校和学区采用经严格实验研究验证有效的项目和实践。该演讲发表于教育政策剧烈变动的时刻——[[Comprehensive School Reform Program|CSR]] 项目（1998）首次将联邦拨款与证据挂钩、[[No Child Left Behind Act 2001|NCLB]]（2001）将"科学本位研究"写入联邦法律核心、OERI 正进行以 [[Randomised Controlled Trials|RCT]] 为中心的重组。(Slavin, 2002, pp. 15–16)
+> 1. **[[Evidence-Based Reform|证据本位改革]]（Evidence-Based Reform）**：Slavin 于 2002 年提出该概念（AERA Dewitt Wallace-Reader's Digest 杰出讲座），主张教育政策应鼓励或要求学校和学区采用经严格[[Experimental Research|实验研究]]验证有效的项目和实践。该演讲发表于教育政策剧烈变动的时刻——[[Comprehensive School Reform Program|CSR]] 项目（1998）首次将联邦拨款与证据挂钩、[[No Child Left Behind Act 2001|NCLB]]（2001）将"科学本位研究"写入联邦法律核心、OERI 正进行以 [[Randomised Controlled Trials|RCT]] 为中心的重组。(Slavin, 2002, pp. 15–16)
 >
 > 2. **"什么有效"的强证据观**：不同于弱版本的 "证据知情"（evidence-informed）实践，Slavin 认为真正有效的改革必须基于对**具体项目**（而非通用原则）的**实验比较**（偏好随机分配），因为教师难以将通用原则转化为有效实践。他提出关键区分：项目"基于科学研究"不等于项目"已经过严格评估"——正如莱特兄弟的竞争对手也使用了相同的航空科学研究，但飞机从未离开地面。(Slavin, 2002, pp. 18–19)
 >

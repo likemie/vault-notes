@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Gating Procedure]]"
+  - "[[Postpositivism]]"
   - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories:
@@ -22,6 +23,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Case Design]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
@@ -54,7 +56,7 @@ updated: '2026-05-18'
 > [!abstract] 内部效度（Internal Validity）
 > **定义**：内部效度指干预与结果变量之间因果关系的成立程度——即我们能否确信观察到的变化确实是由干预引起的（Shadish et al., 2002; Hitchcock et al., 2015, p.461）。
 >
-> > "Internal validity, or the degree to which a causal relationship exists between a treatment and outcome variable is valid, is the sin qua non of experimental design." (Hitchcock et al., 2015, p.461, citing Shadish et al., 2002)
+> > "Internal validity, or the degree to which a causal relationship exists between a treatment and outcome variable is valid, is the sin qua non of [[Experimental Research|experimental design]]." (Hitchcock et al., 2015, p.461, citing Shadish et al., 2002)
 >
 > **判断程序**：首先明确手中的因果问题，然后选择能够控制常见内部效度威胁的设计。这些威胁本质上是干预后因变量变化的各种替代解释（Hitchcock et al., 2015, p.462）。
 >
@@ -117,7 +119,7 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究范式
-> - **认识论立场**：Campbellian 框架植根于后实证主义传统——它接受因果推断的可行性，但要求通过系统性排除威胁来逐步逼近，而非一次性"证明"
+> - **认识论立场**：Campbellian 框架植根于[[Postpositivism|后实证主义]]传统——它接受因果推断的可行性，但要求通过系统性排除威胁来逐步逼近，而非一次性"证明"
 > - **对实验设计的统一性**：该框架的关键洞察是不同实验设计（[[Randomised Controlled Trials|RCT]]、准实验、[[21st Century Skills and Competencies Discourse|SCD]]）共享相同的因果推断逻辑——都通过排除替代解释来建立因果关系——因此可以被统一的理论框架所涵盖（Hitchcock et al., 2015, p.462）
 > - **常用方法**：RCT、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design]]——该框架为所有这些设计提供统一的效度评估语言
 

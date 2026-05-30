@@ -21,6 +21,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Non-intervention Research]]"
+  - "[[Experimental Research]]"
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Method and Multi-method Research]]"
@@ -55,7 +56,7 @@ updated: 2026-05-18
 > - **选择变量与样本**：研究者在既有情境中测量学生、教师、课堂或学校变量，而不是主动设置干预（Brady et al., 2023, p.3）。
 > - **收集量化数据**：数据可来自自陈问卷、大型数据库或其他量化测量。Brady et al. (2023) 提到，一些研究使用数万名学生的自陈变量并以结构方程模型分析（Brady et al., 2023, p.3）。
 > - **分析变量关系**：研究通常估计变量间关联、预测关系、中介或模型路径；Brady et al. (2023) 指出，建模方法的术语可能诱发"predictors""mediators""outcomes"等带有因果色彩的表达（Brady et al., 2023, p.9）。
-> - **生成后续假设**：在研究序列中，描述性和相关性研究可识别可能的因果关系，随后应通过干预或实验研究正式检验（Brady et al., 2023, p.2）。
+> - **生成后续假设**：在研究序列中，描述性和相关性研究可识别可能的因果关系，随后应通过干预或[[Experimental Research|实验研究]]正式检验（Brady et al., 2023, p.2）。
 
 ## 适用场景
 

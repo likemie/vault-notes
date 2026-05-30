@@ -3,13 +3,13 @@ citation: "Jornitz, S., & Klinge, D. (2022). \"Bildung\" as a Forgotten Aspect o
 extracted_to:
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Didaktik]]"
+  - "[[Bildung]]"
   - "[[Data Behaviorism]]"
   - "[[Gamification]]"
   - "[[Learning Analytics]]"
   - "[[Feedback]]"
   - "[[Global Education Industry]]"
   - "[[Teaching Theory of Gruschka]]"
-  - "[[Bildung]]"
 processed_date: 2026-05-20
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

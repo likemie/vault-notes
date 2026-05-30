@@ -6,12 +6,12 @@ extracted_to:
   - "[[Scientific Attitude]]"
   - "[[1904 Educational System]]"
   - "[[1922 Educational System Reform]]"
+  - "[[May Fourth Movement]]"
   - "[[New Culture Movement]]"
   - "[[New Education Movement]]"
   - "[[Jiang Menglin]]"
-  - "[[Robert Cowen]]"
-  - "[[May Fourth Movement]]"
   - "[[Tao Xingzhi]]"
+  - "[[Robert Cowen]]"
   - "[[John Dewey]]"
 processed_date: 2026-05-26
 ---

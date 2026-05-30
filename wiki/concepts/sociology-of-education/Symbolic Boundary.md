@@ -23,7 +23,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
   - "[[Yu_2024_CE]]"
 confidence: medium
 status: draft
@@ -71,5 +71,5 @@ updated: '2026-05-21'
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]
 - [[Yu_2024_CE]]

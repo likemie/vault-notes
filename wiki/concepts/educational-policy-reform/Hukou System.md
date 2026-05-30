@@ -15,7 +15,6 @@ tags:
   - theme/social-stratification
   - theme/educational-inequality
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[School Choice]]"
   - "[[Peidu]]"
 related_theories: []
@@ -37,7 +36,7 @@ updated: 2026-05-26
 ## 定义
 
 > [!info]
-> 户口制度（Hukou System）是中国于 1950 年代建立的户籍登记制度，将人口划分为农业户口（农村）和非农业户口（城镇），长期限制农村向城市的人口[[Transfer Translation Transformation|迁移]]，并将就业机会和福利服务（包括教育）按户口类型实行城乡隔离（Lin 2006，引自 Teng & Wang, 2025, p.303）。
+> 户口制度（Hukou System）是中国于 1950 年代建立的户籍登记制度，将人口划分为农业户口（农村）和非农业户口（城镇），长期限制农村向城市的人口迁移，并将就业机会和福利服务（包括教育）按户口类型实行城乡隔离（Lin 2006，引自 Teng & Wang, 2025, p.303）。
 
 > [!quote]
 > "Since implementation in 1950s, the hukou system has restricted rural-urban migration and secured a rural-urban segregation in job opportunities and welfare service (education included) for decades."（Teng & Wang, 2025, p.303）
@@ -54,7 +53,7 @@ updated: 2026-05-26
 
 ## 2014 年改革
 
-2014 年，国务院发布《[[2014 Hukou Reform|关于进一步推进户籍制度改革的意见]]》，允许[[Transfer Translation Transformation|迁移]]人口在除少数特大城市之外的城镇获得当地户口。改革的核心目的是推进"新型城镇化"——减少农村人口并将其转变为城镇居民（Zhan 2017，引自 Teng & Wang, 2025, p.303）。
+2014 年，国务院发布《[[2014 Hukou Reform|关于进一步推进户籍制度改革的意见]]》，允许迁移人口在除少数特大城市之外的城镇获得当地户口。改革的核心目的是推进"新型城镇化"——减少农村人口并将其转变为城镇居民（Zhan 2017，引自 Teng & Wang, 2025, p.303）。
 
 > [!abstract]
 > 改革后户口的重要性因城市层级而分化极大：

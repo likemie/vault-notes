@@ -23,7 +23,8 @@ related_concepts:
 related_theories:
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
-related_methods: []
+related_methods:
+  - "[[Ethnography]]"
 related_persons:
   - "[[Stevenson and Stigler]]"
 related_facts: []
@@ -90,7 +91,7 @@ Stevenson 和 Stigler 的研究激发了更多比较研究：
 
 ### 学前教育的比较证据
 
-Tobin、Wu 和 Davidson（1989）的录像民族志捕捉到了三种文化中学前教育的系统性差异（Li, 2012, pp.80-81）：
+Tobin、Wu 和 Davidson（1989）的录像[[Ethnography|民族志]]捕捉到了三种文化中学前教育的系统性差异（Li, 2012, pp.80-81）：
 - 美国学前教育强调：自我表达、自由探索、享受、同伴和谐互动、遵守社会和道德规则
 - 中国学前教育强调：营养照顾、教师密切监督下的集体活动、课堂纪律学习、严格遵守社会和道德规则
 - 日本学前教育展现出另一种特征：培养儿童在同伴中自行学习——教师大多不干涉，让儿童自行玩耍、打斗和解决冲突，几乎没有学术学习

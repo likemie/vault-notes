@@ -24,6 +24,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Quantitative Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Gert Biesta]]"
@@ -152,7 +153,7 @@ updated: '2026-05-21'
 > 6. 价值导向不能替代关于教学效果的知识。真正困难的问题不是“教育应不应该追求好价值”，而是“这些价值怎样落实成更可能让学生学会的教学行动”（Nordahl, 2015, pp.67–68）。
 
 > [!info]- 核心数据
-> - 文章引述 [[John Hattie|Hattie]] 2009 年的综合研究规模为 800 项[[Meta-analysis|元分析]]、52,000 项量化研究、约 8,300 万名学生，借此说明其作为教育证据综合工程的影响力（Nordahl, 2015, p.61）。
+> - 文章引述 [[John Hattie|Hattie]] 2009 年的综合研究规模为 800 项[[Meta-analysis|元分析]]、52,000 项[[Quantitative Research|量化研究]]、约 8,300 万名学生，借此说明其作为教育证据综合工程的影响力（Nordahl, 2015, p.61）。
 > - 文中援引 [[PISA]] 对比指出，量表上约 40 分的差距大致相当于一个学年的[[Learning Gap|学习差距]]，用来说明斯堪的纳维亚学校改进的现实压力（Nordahl, 2015, pp.62–63）。
 
 ## 关键引用

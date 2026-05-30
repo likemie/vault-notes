@@ -34,7 +34,6 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Cult of the Guru]]"
   - "[[Material Fallacies]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Surface and Deep Learning]]"
   - "[[Global Education Reform Movement]]"
   - "[[Performativity of Measurement]]"
@@ -49,7 +48,6 @@ related_persons:
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Cognition Education]]"
-  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[PISA]]"
   - "[[The New Zealand Curriculum]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
@@ -129,7 +127,7 @@ updated: '2026-05-18'
 >
 > #### 2009 年媒体风暴与公众反应
 >
-> 2009 年 1 月 *Sunday [[Tennessee STAR Project 1985-1989|STAR]] Times* 头版报道 VL 后引发激烈反应。Hattie (2010, pp.86–87) 自述"很明显许多评论者并未读过这本书（有人甚至对此表示赞许"）——[[Class Size|班级规模]]必须缩减、[[Performance Pay|绩效工资]]是邪恶的、能力分班更容易等抗议声不断。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架（二分法、嘲弄、神话、意义虚无）分析批评模式。
+> 2009 年 1 月 *Sunday STAR Times* 头版报道 VL 后引发激烈反应。Hattie (2010, pp.86–87) 自述"很明显许多评论者并未读过这本书（有人甚至对此表示赞许"）——[[Class Size|班级规模]]必须缩减、[[Performance Pay|绩效工资]]是邪恶的、能力分班更容易等抗议声不断。Hattie 将此定性为媒体将他的"精心编织的基于广泛数据库解读的故事"简化为"话题标题和影响力排名表"，并用 Alexander (2010) 的四种腐蚀性话语框架（二分法、嘲弄、神话、意义虚无）分析批评模式。
 >
 > Hattie 强调他在此前 15 年已通过研讨会和工作坊传播 VL 核心理念（反馈的力量、挑战、对学生的可见影响等），Clarke, Timperley & Hattie (2003) 的教师工作手册已包含学习意图、成功标准、反馈和及时评估等关键概念，"因此当《星期日星报》报道时，对新西兰教育界许多人来说不应是新闻"（Hattie, 2010, p.87）。这一媒体风暴标志着 VL 从学术出版向公众议题的转折，也奠定了其后续品牌化传播的争议基调。
 >
@@ -336,7 +334,7 @@ updated: '2026-05-18'
 >
 > **论证一：VL 被误用为"不创新"的理由。** Blass（2020, p.91）指出澳大利亚教师培训"奖励 regulation 和 standardisation 而非创新"，教师注册委员会要求持续专业发展时数而非创新发展时数。VL 被用于证明"教师作为讲授者的[[Direct Instruction|直接教学]]模式"的优越性，从而抑制了对 [[Problem-Based Learning|PBL]] 和探究式学习等替代教学法的探索。
 >
-> **论证二：Hattie 的后续工作已超越排名模式，但政策未跟进。** Blass（2020, pp.95–96）指出 Hattie & Donoghue（2016）在试图完成另一个排名元分析时**放弃了排名**——因为他们发现策略内部的变异太大。他们转而开发了一个学习模型（三输入：技能/意愿/激情；三阶段：表层/深层/[[Transfer Translation Transformation|迁移]]），其结论承认对 PBL 的批评可解释为一年级医学生仍处于[[Surface and Deep Learning|表层学习]]阶段。在 2020 年 Lessons from Lockdown 会议上，Hattie 的演讲进一步演变——谈到课程差异不大、询问"我们真的需要学生每天坐在教师面前吗？"、承认"通过失败学习是 PBL 的一部分、通过探究式学习恢复"（Blass, 2020, p.96）。**Hattie 现在倡导的学习模型恰恰最适合 PBL 和探究式教学法**——但澳大利亚政策制定者仍引用 VL 2009 年的排名来为直接教学模式辩护。
+> **论证二：Hattie 的后续工作已超越排名模式，但政策未跟进。** Blass（2020, pp.95–96）指出 Hattie & Donoghue（2016）在试图完成另一个排名元分析时**放弃了排名**——因为他们发现策略内部的变异太大。他们转而开发了一个学习模型（三输入：技能/意愿/激情；三阶段：表层/深层/迁移），其结论承认对 PBL 的批评可解释为一年级医学生仍处于[[Surface and Deep Learning|表层学习]]阶段。在 2020 年 Lessons from Lockdown 会议上，Hattie 的演讲进一步演变——谈到课程差异不大、询问"我们真的需要学生每天坐在教师面前吗？"、承认"通过失败学习是 PBL 的一部分、通过探究式学习恢复"（Blass, 2020, p.96）。**Hattie 现在倡导的学习模型恰恰最适合 PBL 和探究式教学法**——但澳大利亚政策制定者仍引用 VL 2009 年的排名来为直接教学模式辩护。
 >
 > **论证三：澳大利亚教育已"[[Lost Mode|迷失]]方向"。** Blass 总结："澳大利亚已在教育中迷失了方向，而 Hattie 被用作证明这一立场的挡箭牌。但我怀疑这不是 Hattie 的本意。事实上，他后来在新西兰教育系统中领导了伟大的工作，将他的研究应用到他们的具体情境中，并从排名学习策略转向将其最佳适配到学习模型中"（Blass, 2020, p.97）。
 >

@@ -18,6 +18,7 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Method and Multi-method Research]]"
+  - "[[Experimental Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
@@ -34,7 +35,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 非[[Intervention Research|干预研究]]（Non-intervention Research）是不操纵自变量的研究集合。Brady et al. (2023) 的分类中，观察/相关研究、[[Qualitative Research|质性研究]]、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]都属于非干预研究；它们共同区别于操纵自变量的干预研究和实验研究（Brady et al., 2023, p.4）。
+> 非[[Intervention Research|干预研究]]（Non-intervention Research）是不操纵自变量的研究集合。Brady et al. (2023) 的分类中，观察/相关研究、[[Qualitative Research|质性研究]]、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]都属于非干预研究；它们共同区别于操纵自变量的干预研究和[[Experimental Research|实验研究]]（Brady et al., 2023, p.4）。
 
 ## 认识论立场
 
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 ## 操作步骤
 
 > [!example] 操作步骤
-> - **不操纵自变量**：研究者不主动引入处理或干预，这是非[[Intervention Research|干预研究]]与干预/实验研究的核心区别（Brady et al., 2023, p.4）。
+> - **不操纵自变量**：研究者不主动引入处理或干预，这是非[[Intervention Research|干预研究]]与干预/[[Experimental Research|实验研究]]的核心区别（Brady et al., 2023, p.4）。
 > - **按数据类型区分子类**：观察/相关研究包含量化数据；[[Qualitative Research|质性研究]]包含访谈、观察等文本数据；[[Mixed Method and Multi-method Research|混合方法/多方法研究]]同时包含量化和质性数据（Brady et al., 2023, p.4）。
 > - **生成而非检验干预假设**：在理想研究序列中，非干预研究识别可能的因果关系，随后由干预研究或实验研究正式检验（Brady et al., 2023, p.2）。
 

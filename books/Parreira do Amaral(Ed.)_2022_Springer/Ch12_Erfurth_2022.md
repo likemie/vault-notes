@@ -3,6 +3,7 @@ citation: "Erfurth, M. (2022). Education Hubs as a Development Approach. A Pheno
 extracted_to:
   - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[International Education Hubs]]"
+  - "[[Cultural Diplomacy]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Spatial Sortings]]"
@@ -12,7 +13,6 @@ extracted_to:
   - "[[Jane Knight]]"
   - "[[Bob Jessop]]"
   - "[[Cultural Political Economy]]"
-  - "[[Cultural Diplomacy]]"
 processed_date: 2026-05-19
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

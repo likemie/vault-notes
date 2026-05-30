@@ -13,12 +13,12 @@ tags:
   - theory/pragmatism
   - discipline/philosophy
 related_concepts:
-  - "[[Pragmatism in China]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Progressive Education]]"
   - "[[Quality Education]]"
   - "[[Scientific Attitude]]"
   - "[[Recontextualization]]"
-  - "[[Pragmatic Paradigm]]"
+  - "[[Pragmatism in China]]"
   - "[[Academic Freedom]]"
   - "[[Classroom Management]]"
   - "[[Professional Judgment]]"
@@ -57,7 +57,7 @@ updated: 2026-05-26
 ## 简介
 
 > [!info]
-> 约翰·杜威（John Dewey, 1859–1952）是美国哲学家、心理学家、教育改革家和公共知识分子，通常被视为[[Pragmatism in China|实用主义]]、功能心理学和[[Progressive Education|进步教育]]的核心代表。其思想以经验（experience）、探究（inquiry）、民主（democracy）和成长（growth）为中心，将教育理解为社会生活连续更新的过程，而非单纯为未来生活做准备的训练。
+> 约翰·杜威（John Dewey, 1859–1952）是美国哲学家、心理学家、教育改革家和公共知识分子，通常被视为[[Pragmatic Paradigm|实用主义]]、功能心理学和[[Progressive Education|进步教育]]的核心代表。其思想以经验（experience）、探究（inquiry）、民主（democracy）和成长（growth）为中心，将教育理解为社会生活连续更新的过程，而非单纯为未来生活做准备的训练。
 >
 > 在教育哲学上，杜威主张学校应成为一种有组织的社会环境，使儿童通过活动、合作、问题解决和反思性经验学习民主生活。1919–1921 年访华讲学期间，他的思想经由[[Hu Shi|胡适]]、[[Jiang Menglin|蒋梦麟]]、[[Tao Xingzhi|陶行知]]等人进入中国教育改革话语，影响[[New Education Movement|新教育运动]]、1922 年学制改革及后来围绕[[Quality Education|素质教育]]、[[Scientific Attitude|科学态度]]和教育现代化的争论（Schulte, 2009, pp.73–77；Zhou & Westberg, 2024, pp.614–618）。
 
@@ -74,8 +74,8 @@ updated: 2026-05-26
 ### 学术形成
 
 - **1859** — 出生于美国佛蒙特州伯灵顿；早年接受新英格兰清教文化影响，后来对权威主义教育和固定教条保持持续批判。
-- **1879–1884** — 1879 年毕业于佛蒙特大学，短暂任中学和小学教师；1884 年获约翰·霍普金斯大学哲学博士学位，学习经历连接了德国观念论、实验心理学和早期[[Pragmatism in China|实用主义]]传统。
-- **1884–1894** — 任教于密歇根大学和明尼苏达大学。1890 年代逐渐从黑格尔式观念论转向经验主义、实验主义和[[Pragmatic Paradigm|实用主义]]。
+- **1879–1884** — 1879 年毕业于佛蒙特大学，短暂任中学和小学教师；1884 年获约翰·霍普金斯大学哲学博士学位，学习经历连接了德国观念论、实验心理学和早期[[Pragmatic Paradigm|实用主义]]传统。
+- **1884–1894** — 任教于密歇根大学和明尼苏达大学。1890 年代逐渐从黑格尔式观念论转向经验主义、[[Pragmatism in China|实验主义]]和[[Pragmatic Paradigm|实用主义]]。
 
 ---
 

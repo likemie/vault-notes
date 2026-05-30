@@ -22,9 +22,9 @@ related_methods:
 related_persons:
   - "[[Yajun Zheng]]"
 related_arguments:
-  - "[[Argument_郑_2023_上海三联书店]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: '2026-05-08'
@@ -79,9 +79,9 @@ updated: '2026-05-18'
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_郑_2023_上海三联书店]] — [[Yajun Zheng|郑雅君]]（2023）以[[Constructivist Paradigm|建构主义]][[Grounded Theory|扎根理论]]为资料分析方法，从 62 名中国两所精英大学毕业生跟踪[[In-depth Interview|深度访谈]]中，反复迭代后产出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的核心类型化发现
+> - [[Argument_Zheng_2023_ShanghaiSanlian]] — [[Yajun Zheng|郑雅君]]（2023）以[[Constructivist Paradigm|建构主义]][[Grounded Theory|扎根理论]]为资料分析方法，从 62 名中国两所精英大学毕业生跟踪[[In-depth Interview|深度访谈]]中，反复迭代后产出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的核心类型化发现
 >
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]

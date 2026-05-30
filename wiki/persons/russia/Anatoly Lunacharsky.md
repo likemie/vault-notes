@@ -12,8 +12,7 @@ tags:
   - field/history-of-education
   - region/russia
   - theme/soviet-education
-related_concepts:
-  - "[[Transfer Translation Transformation]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons:
@@ -51,7 +50,7 @@ updated: 2026-05-26
 ## 核心思想
 
 > [!abstract]
-> Lunacharsky 的教育政策将学校教育与工业生产连接，但区别于狭隘的职业训练——他的学校不给学生"单一技术"训练，而是传授可在多种行业和领域中[[Transfer Translation Transformation|迁移]]应用的技能与理念（Ryabyy, 2024, p.105）。这一做法引起了 [[John Dewey|Dewey]] 的兴趣，因为它在某种程度上回应了 Dewey 对"教育即生活"和"学校即社会"的构想。
+> Lunacharsky 的教育政策将学校教育与工业生产连接，但区别于狭隘的职业训练——他的学校不给学生"单一技术"训练，而是传授可在多种行业和领域中迁移应用的技能与理念（Ryabyy, 2024, p.105）。这一做法引起了 [[John Dewey|Dewey]] 的兴趣，因为它在某种程度上回应了 Dewey 对"教育即生活"和"学校即社会"的构想。
 
 ---
 

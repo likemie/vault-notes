@@ -51,7 +51,7 @@ updated: '2026-05-23'
 >
 > | 等级 | 英文 | 研究方法要求 | 最低研究数量 |
 > |------|------|------------|------------|
-> | **强** | Strong | 设计良好且实施良好的**实验研究**（随机分配，randomized design） | 至少 1 项 |
+> | **强** | Strong | 设计良好且实施良好的**[[Experimental Research\|实验研究]]**（随机分配，randomized design） | 至少 1 项 |
 > | **中** | Moderate | 设计良好且实施良好的**准实验研究**（[[Matching\|匹配]]样本，matched or [[Quasi-Experimental Designs\|quasi-experimental design]]） | 至少 1 项 |
 > | **有希望** | Promising | 设计良好且实施良好的**[[Observational and Correlational Research\|相关研究]]**（统计控制选择偏差，correlational design with statistical controls for selection bias） | 至少 1 项 |
 >

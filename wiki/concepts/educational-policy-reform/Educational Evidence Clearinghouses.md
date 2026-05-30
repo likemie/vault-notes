@@ -34,6 +34,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Experimental Research]]"
   - "[[Single-Case Design]]"
 related_persons: []
 related_facts:
@@ -130,7 +131,7 @@ updated: '2026-05-24'
 > - vs [[Evidence-Based Education]] — EBE 是教育实践和政策应依赖研究证据的理念；教育证据清算中心是把这一理念制度化为项目评级、证据标准和传播机制的基础设施（Wadhwa et al., 2024, p.4）。
 > - vs [[Evidence-Based Reform]] — EBR 强调用有效性证据选择项目和产品；清算中心提供 EBR 所需的"可信证据审查"环节，但不同清算中心对同一项目是否"有证据"常常并不一致（Wadhwa et al., 2024, pp.16-17）。
 > - vs 系统综述/[[Meta-analysis|元分析]] — 系统综述和元分析是研究综合方法；清算中心则是制度化中介机构，会同时制定纳入标准、研究质量标准、效果评级规则和面向公众的传播格式（Wadhwa et al., 2024, pp.4–5）。
-> - vs [[Inclusive Evidence Validation Typology]] — 清算中心通常面向外部用户发布项目评级；包容性证据验证类型学则是在本地实验研究和项目证据稀少时，为改革内部候选工具设置最低验证标准，避免直接复制 EEF、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 标准导致绝大多数本地工具被排除（Dachet & Baye, 2021, pp.175-176）。
+> - vs [[Inclusive Evidence Validation Typology]] — 清算中心通常面向外部用户发布项目评级；包容性证据验证类型学则是在本地[[Experimental Research|实验研究]]和项目证据稀少时，为改革内部候选工具设置最低验证标准，避免直接复制 EEF、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 标准导致绝大多数本地工具被排除（Dachet & Baye, 2021, pp.175-176）。
 
 ## 理论基础
 

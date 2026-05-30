@@ -14,7 +14,7 @@ tags:
 related_concepts:
   - "[[Technical Rationality]]"
   - "[[Professional Judgment]]"
-  - "[[Pragmatism in China]]"
+  - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Bounded Rationality]]"
 related_methods: []
@@ -70,7 +70,7 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 其工作立基于 [[John Dewey|Dewey]] 的[[Pragmatism in China|实用主义]]传统——强调实践中的探究和反思
+> - 其工作立基于 [[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]传统——强调实践中的探究和反思
 > - 1983 年著作深刻影响了教育、社会工作、护理和管理等专业领域的实践理论化
 > - Qvortrup（2019）将 Schön 的反思实践概念与 Simon 的[[Bounded Rationality|有限理性]]理论并置，构建了[[Professional Judgment|专业判断]]的整合框架
 

@@ -17,12 +17,13 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Grade Retention]]"
   - "[[Inclusive Evidence Validation Typology]]"
 related_theories: []
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Quantitative Research]]"
 related_persons: []
 related_facts:
   - "[[Pact for Educational Excellence]]"
@@ -50,7 +51,7 @@ updated: 2026-05-24
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Evidence-Based Education]]：作为从循证医学[[Transfer Translation Transformation|迁移]]到教育领域的范式，强调专业实践应使用当前最佳研究证据，但教育领域同时存在对标准化、可复制性和认识论窄化的批评（Dachet & Baye, 2021, pp.166-168）。
+> - [[Evidence-Based Education]]：作为从循证医学迁移到教育领域的范式，强调专业实践应使用当前最佳研究证据，但教育领域同时存在对标准化、可复制性和认识论窄化的批评（Dachet & Baye, 2021, pp.166-168）。
 > - [[Evidence-Based Reform]]：主要采用 Slavin 的三项杠杆作为分析框架，即提供广泛的经验证项目、提供教师友好的研究综述、为学校实施经验证项目提供资源（Dachet & Baye, 2021, pp.166, 179-181）。
 > - 方法匹配而非单一证据层级：结构性教育改革很难总是用实验设计评估，因此可用相关研究、纵向研究或其他适合问题的问题-方法组合来判断现有最佳证据（Dachet & Baye, 2021, pp.171, 179-180）。
 
@@ -92,7 +93,7 @@ updated: 2026-05-24
 
 ### 第五步：包容性验证类型学成为过渡机制
 
-作者团队建立了[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、案例研究、横断研究、相关或纵向研究、实验和准实验研究纳入同一框架，同时为每类方法设置最低质量标准（Dachet & Baye, 2021, pp.175-178）。它的目的不是把弱证据伪装成强证据，而是在承认方法多样性的同时推动学科教学专家看到实验研究的附加价值（Dachet & Baye, 2021, pp.175-176）。
+作者团队建立了[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、案例研究、横断研究、相关或纵向研究、实验和准[[Experimental Research|实验研究]]纳入同一框架，同时为每类方法设置最低质量标准（Dachet & Baye, 2021, pp.175-178）。它的目的不是把弱证据伪装成强证据，而是在承认方法多样性的同时推动学科教学专家看到实验研究的附加价值（Dachet & Baye, 2021, pp.175-176）。
 
 这种设计把 EBE 从“只承认 [[Randomised Controlled Trials|RCT]]”的冲突姿态，改造成一条可协商的能力建设路径：先承认现有工具清单和专家工作有价值，再逐步要求更系统的实施研究、准实验评价和本地有效性验证。
 
@@ -108,7 +109,7 @@ updated: 2026-05-24
 > 1. 法语比利时[[Pact for Educational Excellence|教育卓越公约]]正式把 [[Evidence-Based Education|EBE]] 引入改革语言，2017 年官方建议承认本系统中 EBE 几乎不存在，并提出试点、验证、扩大有效项目（Dachet & Baye, 2021, p.171）。
 > 2. 结构性改革与证据之间关系不均衡：共同核心延伸和教师培养延长有一定研究支持，能力本位、定向取向和学校日历改革证据较弱，降低[[Grade Retention|留级]]目标则低于既有证据可能支持的改革力度（Dachet & Baye, 2021, pp.171-174）。
 > 3. 本地教学工具/项目证据基础非常薄弱，425 个候选项目中只有 13 个采用实验设计测试，占约 3%（Dachet & Baye, 2021, p.175）。
-> 4. 包容性验证类型学使改革能够在不排除绝大多数本地工具的情况下，引入最低方法标准并推动学科教学专家与量化研究者合作（Dachet & Baye, 2021, pp.175-180）。
+> 4. 包容性验证类型学使改革能够在不排除绝大多数本地工具的情况下，引入最低方法标准并推动学科教学专家与[[Quantitative Research|量化研究]]者合作（Dachet & Baye, 2021, pp.175-180）。
 > 5. 语言屏障是证据使用的实际障碍：首年工作中英文科学文献引用少于 15%，而高影响力教育科学文献主要以英文发表（Dachet & Baye, 2021, p.181）。
 > 6. 公约最清晰的 EBE 进展在于官方承认需要按有效性试点、验证和扩大项目，并开始为学校实验和严格评价设置经费基础（Dachet & Baye, 2021, pp.181-182）。
 

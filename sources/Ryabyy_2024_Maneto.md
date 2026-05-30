@@ -3,15 +3,15 @@ citation: "Ryabyy, V. (2024). A horse derby, a missed connection, and hiking thr
 extracted_to:
   - "[[Argument_Ryabyy_2024_Maneto]]"
   - "[[Progressive Education]]"
+  - "[[Cultural Diplomacy]]"
   - "[[American Society for Cultural Relations with Russia]]"
   - "[[John Dewey's 1928 Visit to the Soviet Union]]"
   - "[[Archival Correspondence Analysis]]"
   - "[[Anatoly Lunacharsky]]"
   - "[[Anton Makarenko]]"
   - "[[Stanislav Shatskii]]"
-  - "[[Sherwood Eddy]]"
-  - "[[Cultural Diplomacy]]"
   - "[[John Dewey]]"
+  - "[[Sherwood Eddy]]"
 processed_date: 2026-05-26
 ---
 

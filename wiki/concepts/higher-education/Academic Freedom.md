@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[University-Industry Collaboration]]"
+  - "[[University Spin-Out]]"
 related_theories: []
 related_methods: []
 related_persons: []

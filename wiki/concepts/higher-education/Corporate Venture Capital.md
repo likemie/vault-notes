@@ -15,6 +15,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University Spin-Out]]"
+  - "[[Technology Readiness Level]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -56,7 +57,7 @@ updated: 2026-05-29
 > **战略对齐的额外门槛**。CVC 还要求衍生企业的方向与母公司的业务领域一致。两个条件同时满足——既有财务回报潜力、又与母公司战略对齐——的概率远低于只满足其中一个条件。举例来说，一家专注于半导体制造的企业的 CVC 基金，不会投资一家教育科技衍生企业——即使后者有很好的财务前景，因为对母公司没有战略价值（p.145）。
 
 > [!note]
-> 企业也通过试点项目（pilot programs）与初创企业合作以评估技术和市场可行性，但衍生企业的技术就绪度（Technology Readiness Level, TRL）通常不足以满足试点要求。这形成了 Catch-22 困局：初创企业需要通过企业试点来验证技术、提高 TRL，但企业只愿意在 TRL 足够高时才投入试点资源（p.145）。结果是，"几乎没有任何大学衍生企业能从企业或 CVC 处获得早期融资"（pp.144-145）。
+> 企业也通过试点项目（pilot programs）与初创企业合作以评估技术和市场可行性，但衍生企业的[[Technology Readiness Level|技术就绪度]]（Technology Readiness Level, TRL）通常不足以满足试点要求。这形成了 Catch-22 困局：初创企业需要通过企业试点来验证技术、提高 TRL，但企业只愿意在 TRL 足够高时才投入试点资源（p.145）。结果是，"几乎没有任何大学衍生企业能从企业或 CVC 处获得早期融资"（pp.144-145）。
 
 ## 例外：生物医药领域的孵化模式
 

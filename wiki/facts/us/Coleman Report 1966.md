@@ -14,7 +14,7 @@ tags:
 - region/us
 - level/k12
 related_concepts:
-  - "[[Pragmatism in China]]"
+  - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:
@@ -148,7 +148,7 @@ updated: '2026-05-18'
 > - 该报告被广泛批评为"责怪受害者"（blaming the victim）——将结构性问题归咎于受害者自身的行为或文化特征（Ryan, 1976）
 > - Moynihan Report 引发的争议使任何强调家庭因素（而非结构／学校因素）的学术研究在政治上变得敏感——Coleman Report 因同样强调家庭背景的核心作用而受到了间接的连带影响（Downey & Condron, 2016, p.2）
 >
-> ### Hanushek 的政策[[Pragmatism in China|实用主义]]
+> ### Hanushek 的政策[[Pragmatic Paradigm|实用主义]]
 >
 > 经济学家 Eric Hanushek (1992, p.106) 提供了一个坦率但引人深思的解释，说明为何学校因素持续主导政策讨论（cited in Downey & Condron, 2016, p.11）：
 >

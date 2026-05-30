@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[School Norm Adaptation]]"
   - "[[Learning-Impeding Behavior]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -53,7 +52,7 @@ updated: '2026-05-18'
 ## 待补充研究
 
 
-- 后续可补充自控量表与课堂观察一致性及干预[[Transfer Translation Transformation|迁移]]效应证据。
+- 后续可补充自控量表与课堂观察一致性及干预迁移效应证据。
 
 ## 来源
 

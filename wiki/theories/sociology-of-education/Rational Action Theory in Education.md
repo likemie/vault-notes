@@ -11,7 +11,7 @@ tags:
   - region/uk
   - level/higher-ed
 related_concepts:
-  - "[[Pragmatism in China]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Habitus]]"
   - "[[Champ]]"
 related_theories:
@@ -23,7 +23,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: low
 status: draft
 created: 2026-05-08
@@ -67,16 +67,16 @@ updated: 2026-05-18
 >
 > 1. **文化社会学的批评**：工具理性之下的效用计算模式"远不能概括生涯选择的全部合理性"——思想、信念、情感、价值、信仰等内在化的人类思想生活，"和利益一样对于理解人类行动是不可或缺的"（郑雅君，2023，引 Boudon, 2001; Weber）
 >
-> 2. **Hodkinson & Sparkes（1997）的修正**：学生的决策基于他们自身已经了解的信息，而这些信息自然是有偏颇的——决策与家庭背景、文化背景和生活经历密不可分。理性选择是[[Pragmatism in China|实用主义]]式的个体选择，但深受[[Habitus|习性]]影响（郑雅君，2023，引 Hodkinson & Sparkes, 1997）
+> 2. **Hodkinson & Sparkes（1997）的修正**：学生的决策基于他们自身已经了解的信息，而这些信息自然是有偏颇的——决策与家庭背景、文化背景和生活经历密不可分。理性选择是[[Pragmatic Paradigm|实用主义]]式的个体选择，但深受[[Habitus|习性]]影响（郑雅君，2023，引 Hodkinson & Sparkes, 1997）
 >
 
 ## 相关理论
 
 > [!example] 相关理论
 > - [[Culture as Toolkit]] — Swidler（1986）的工具箱理论提供了与 RAT 对话的文化社会学替代范式：文化作为工具被使用以达到预定目的，但"预定目的是从何而来的"这一问题则指向价值观驱动的文化范式（[[Yajun Zheng|郑雅君]]，2023）
-> - wiki-[[Pierre Bourdieu]] — Hodkinson & Sparkes（1997）以布迪厄的[[Habitus|习性]]与[[Champ|场域]]理论修正 RAT，承认理性选择的[[Pragmatism in China|实用主义]]性质同时揭示其受结构性条件制约
+> - wiki-[[Pierre Bourdieu]] — Hodkinson & Sparkes（1997）以布迪厄的[[Habitus|习性]]与[[Champ|场域]]理论修正 RAT，承认理性选择的[[Pragmatic Paradigm|实用主义]]性质同时揭示其受结构性条件制约
 >
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]

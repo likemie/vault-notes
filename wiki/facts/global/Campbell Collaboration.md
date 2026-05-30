@@ -18,7 +18,6 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Education]]"
   - "[[Class Size]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
@@ -66,7 +65,7 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning]
-> 该组织的系统综述能提供跨研究证据，但进入欧洲教育政策时仍面对 可[[Transfer Translation Transformation|迁移]]性问题：同一干预在不同教育系统、课程、语言和地方条件中未必产生相同效果（Pellegrini & Vivanet, 2021, pp.35-36）。
+> 该组织的系统综述能提供跨研究证据，但进入欧洲教育政策时仍面对 可迁移性问题：同一干预在不同教育系统、课程、语言和地方条件中未必产生相同效果（Pellegrini & Vivanet, 2021, pp.35-36）。
 
 ## 相关概念／理论
 

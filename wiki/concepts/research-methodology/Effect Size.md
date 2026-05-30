@@ -34,6 +34,7 @@ related_methods:
   - "[[Intent-to-Treat Analysis]]"
   - "[[Covariate Adjustment]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Experimental Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-meta-analysis]]"
   - "[[Intervention Research]]"
@@ -245,7 +246,7 @@ Kulik & Fletcher（2016）在智能辅导系统综述中报告了类似模式：
 ### 实验 vs. 非实验设计
 
 研究设计对效应量的影响方向证据不一（Wolf et al., 2020, pp. 431–432）：
-- **发现差异的元分析**：Cheung & Slavin（2016）在 645 项研究的综合元分析中发现非实验设计平均效应量 +0.23 vs. 实验设计 +0.16；Wilson, Gottfredson & Najaka（2001）发现非实验研究效应量高 0.17 SD
+- **发现差异的元分析**：Cheung & Slavin（2016）在 645 项研究的综合元分析中发现非实验设计平均效应量 +0.23 vs. 实验设计 +0.16；Wilson, Gottfredson & Najaka（2001）发现非[[Experimental Research|实验研究]]效应量高 0.17 SD
 - **未发现差异的元分析**：Cook（2002）、de Boer et al.（2014）、Gersten et al.（2009）、Wilson & Lipsey（2001）均未发现实验与非实验设计间效应量的显著差异
 
 ### 项目类型与交付方式

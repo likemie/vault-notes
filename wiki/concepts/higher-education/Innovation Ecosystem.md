@@ -15,8 +15,10 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[University Spin-Out]]"
   - "[[Corporate Venture Capital]]"
+  - "[[Technology Readiness Level]]"
   - "[[Technology Transfer]]"
   - "[[Proof of Concept Programs]]"
+  - "[[Entrepreneur in Residence]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Triple Helix]]"
@@ -92,9 +94,9 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 ### 衍生企业与创业输出
 
 > [!abstract]
-> [[University Spin-Out|大学衍生企业]]的创建是创新生态系统的重要产出之一。然而，衍生企业在从实验室到市场的过程中面临多重结构性障碍：产业赞助研究中的知识产权约束实质上构成"毒丸"（poison pill）；[[Corporate Venture Capital|企业风投]]和传统风投偏好后期阶段和成熟团队，与衍生企业的早期风险特征不匹配；衍生企业的技术就绪度（TRL）通常不足以满足企业试点项目的要求（Gilison & Wilson, 2025, pp.143-146）。
+> [[University Spin-Out|大学衍生企业]]的创建是创新生态系统的重要产出之一。然而，衍生企业在从实验室到市场的过程中面临多重结构性障碍：产业赞助研究中的知识产权约束实质上构成"毒丸"（poison pill）；[[Corporate Venture Capital|企业风投]]和传统风投偏好后期阶段和成熟团队，与衍生企业的早期风险特征不匹配；衍生企业的[[Technology Readiness Level|技术就绪度]]（TRL）通常不足以满足企业试点项目的要求（Gilison & Wilson, 2025, pp.143-146）。
 
-> 生态系统对衍生企业的支持主要通过大学内部的创新基础设施来实现——[[Technology Transfer|技术转移]]办公室内的新创企业支持团队、[[Proof of Concept Programs|概念验证项目]]（PoP）、驻校企业家（EIR）制度，以及利用产业赞助和人才合作关系撬动产业参与创业指导（Gilison & Wilson, 2025, pp.147-148）。值得注意的是，产业在生态系统中最有价值的贡献是提供"市场声音"（voice of the market）而非直接提供资金或创建初创企业（Gilison & Wilson, 2025, p.148）。
+> 生态系统对衍生企业的支持主要通过大学内部的创新基础设施来实现——[[Technology Transfer|技术转移]]办公室内的新创企业支持团队、[[Proof of Concept Programs|概念验证项目]]（PoP）、[[Entrepreneur in Residence|驻校企业家]]（EIR）制度，以及利用产业赞助和人才合作关系撬动产业参与创业指导（Gilison & Wilson, 2025, pp.147-148）。值得注意的是，产业在生态系统中最有价值的贡献是提供"市场声音"（voice of the market）而非直接提供资金或创建初创企业（Gilison & Wilson, 2025, p.148）。
 
 ---
 

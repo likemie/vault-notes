@@ -1,20 +1,20 @@
 ---
 citation: "Ulrichsen, T. C. (2025). Evolution of University-Industry Relationships for Driving Innovation. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 25–50). Springer."
 extracted_to:
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Corporate R&D Labs]]"
+  - "[[Innovation Ecosystem]]"
   - "[[Innovation Models Evolution]]"
-  - "[[Transformative Change]]"
-  - "[[Knowledge-Based Economization]]"
   - "[[Innovation Policy Paradigms]]"
+  - "[[Knowledge Exchange]]"
+  - "[[Technology Transfer]]"
+  - "[[Third Mission (Universities)]]"
+  - "[[Transformative Change]]"
+  - "[[University-Industry Collaboration]]"
   - "[[Use-Inspired Basic Research]]"
+  - "[[Knowledge-Based Economization]]"
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
-  - "[[Innovation Ecosystem]]"
-  - "[[Technology Transfer]]"
-  - "[[Knowledge Exchange]]"
-  - "[[Third Mission (Universities)]]"
-  - "[[University-Industry Collaboration]]"
-  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

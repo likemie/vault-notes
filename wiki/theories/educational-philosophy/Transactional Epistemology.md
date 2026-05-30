@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Evidence-Based Education]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Value-Based Education]]"
 related_theories: []
@@ -78,7 +79,7 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究范式
-> - **认识论立场**：[[Pragmatism in China|实用主义]] —— 超越现实主义/[[Constructivist Paradigm|建构主义]]的二元对立，既不主张知识是对客观现实的反映，也不主张知识是纯粹的主观建构
+> - **认识论立场**：[[Pragmatic Paradigm|实用主义]] —— 超越现实主义/[[Constructivist Paradigm|建构主义]]的二元对立，既不主张知识是对客观现实的反映，也不主张知识是纯粹的主观建构
 > - **常用方法**：[[Philosophical Analysis in Education|哲学分析]]、概念分析
 
 ## 争议与批评

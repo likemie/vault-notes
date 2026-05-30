@@ -15,7 +15,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Experimental Research]]"
 related_persons:
   - "[[Alan C. K. Cheung]]"
 related_arguments: []
@@ -41,19 +42,19 @@ updated: '2026-05-19'
 
 > [!success] 主要贡献
 > - [[Evidence-Based Reform]] — 与 [[Alan C. K. Cheung]] 共同编辑 ECNU Review of Education 特刊 "Evidence-Based Reform in Education: Global Perspectives"（2021），汇集来自亚洲、北美、欧洲七个国家的研究者（Cheung & Xie, 2021, p.1）
-> - 教育技术对数学成就影响的比较研究 — Xie (2020) 以教育技术对数学成就的影响为例，比较美国（证据本位改革领导者）与中国（观望者）的学校本位实验研究，发现两国有若干具有强有效性证据的干预方案值得推广，但中国大陆实验研究的数量和质量令人担忧（Cheung & Xie, 2021, p.2）
+> - 教育技术对数学成就影响的比较研究 — Xie (2020) 以教育技术对数学成就的影响为例，比较美国（证据本位改革领导者）与中国（观望者）的学校本位[[Experimental Research|实验研究]]，发现两国有若干具有强有效性证据的干预方案值得推广，但中国大陆实验研究的数量和质量令人担忧（Cheung & Xie, 2021, p.2）
 
 ## 主要著作
 
 > [!abstract] 主要著作
 > - Cheung, A. C. K., & Xie, C. (2021). [[Evidence-Based Reform]] in education: Global perspectives [Editorial]. *ECNU Review of Education, 4*(1), 3–6. — 特刊导言，以 Slavin et al. (2020) 四项核心活动框架组织八篇文章
-> - Xie, C. (2020). What can China learn from evidence-based educational reform? A comparative review of educational technology programs' effects on mathematics achievement. *ECNU Review of Education, 4*(1), 65–83. — 中美教育技术实验研究的系统比较
+> - Xie, C. (2020). What can China learn from evidence-based educational reform? A comparative review of educational technology programs' effects on mathematics achievement. *ECNU Review of Education, 4*(1), 65–83. — 中美教育技术[[Experimental Research|实验研究]]的系统比较
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
 > - 与 [[Alan C. K. Cheung]] 合作，参与 Johns Hopkins University [[Evidence-Based Reform|证据本位改革]]研究网络的国际拓展
-> - 其对中国实验研究"数量和质量令人担忧"的诊断（Cheung & Xie, 2021, p.2），呼应了 Slavin et al. (2021) 对中国证据本位研究制度化发展的观察
+> - 其对中国[[Experimental Research|实验研究]]"数量和质量令人担忧"的诊断（Cheung & Xie, 2021, p.2），呼应了 Slavin et al. (2021) 对中国证据本位研究制度化发展的观察
 
 ## 来源
 

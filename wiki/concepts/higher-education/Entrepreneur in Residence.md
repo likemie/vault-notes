@@ -14,9 +14,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University Spin-Out]]"
-  - "[[Technology Transfer]]"
-  - "[[Proof of Concept Programs]]"
-  - "[[Non-dilutive Funding]]"
+  - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -38,7 +36,7 @@ updated: 2026-05-29
 > 驻校企业家（Entrepreneur in Residence, EIR）是大学聘请的具有成功创业和退出经验的产业高管，其职责是同时支持多个[[University Spin-Out|大学衍生企业]]的商业化进程，帮助他们"跨越从实验室到市场的鸿沟"（Gilison & Wilson, 2025, pp.147-148）。
 
 > [!abstract]
-> EIR 提供的是一种教授自身几乎不可能拥有的专业判断——来自多年合同谈判、市场进入策略和融资经验，而非学术训练。例如在学区试点合同谈判中识别不利于衍生企业的"数据所有权"条款、建议修改为"联合所有权"来保留研发用途——这种判断力直接来自产业经验（pp.147-148）。
+> EIR 提供的是一种教授自身几乎不可能拥有的[[Professional Judgment|专业判断]]——来自多年合同谈判、市场进入策略和融资经验，而非学术训练。例如在学区试点合同谈判中识别不利于衍生企业的"数据所有权"条款、建议修改为"联合所有权"来保留研发用途——这种判断力直接来自产业经验（pp.147-148）。
 
 ---
 

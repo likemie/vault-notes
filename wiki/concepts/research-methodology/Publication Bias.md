@@ -21,6 +21,7 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Quantitative Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -108,7 +109,7 @@ updated: '2026-05-18'
 > - **每个元分析发布完整的主要研究表**：使结果可用于更新和其他主要研究的综合——而非像 Hattie 那样的不透明做法
 > - **方法论理由**：目前"公共资源在全球范围内不断被用于研究——结果往往不是可靠的"（p.35）；"由于缺乏统计显著影响而在期刊上发表的机会很小"时，相关参数被埋没在文件抽屉中
 >
-> 这一提案的独特之处在于它将发表偏倚的解决方案定位于**基础设施层面**（集中式开放数据库），而非仅依赖[[Preregistration|预注册]]或期刊政策等程序性改革。Stanat（2012）的 DFG 备忘录也呼吁在教育研究中提供和使用定量研究数据。
+> 这一提案的独特之处在于它将发表偏倚的解决方案定位于**基础设施层面**（集中式开放数据库），而非仅依赖[[Preregistration|预注册]]或期刊政策等程序性改革。Stanat（2012）的 DFG 备忘录也呼吁在教育研究中提供和使用[[Quantitative Research|定量研究]]数据。
 
 ## 相关案例／政策
 

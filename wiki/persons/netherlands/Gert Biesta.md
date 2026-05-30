@@ -95,7 +95,7 @@ updated: '2026-05-19'
 ## 思想发展与影响
 
 > [!note-] 哲学渊源
-> - 深受 **[[John Dewey]]** 的[[Pragmatism in China|实用主义]]和**Bruno Latour** 的科学社会学影响——前者提供了交易认识论基础，后者提供了对"科学作为黑箱"的批判视角
+> - 深受 **[[John Dewey]]** 的[[Pragmatic Paradigm|实用主义]]和**Bruno Latour** 的科学社会学影响——前者提供了交易认识论基础，后者提供了对"科学作为黑箱"的批判视角
 > - 受 **Hannah Arendt** 的政治哲学启发，发展了教育中的主体化概念——教育不是"制造"主体，而是为主体"出现"创造条件
 > - 发展了关于教育中**被动性**（passivity）的概念：学习是"把自己交给教学"（being taught），教学被视为一种礼物（Biesta, 2013, "Receiving the Gift of Teaching", pp.449–461，转引自 Rømer, 2018, p.8）。这一概念与 Dewey 的"经验的双重面向"（主动与被动）相呼应——Dewey 认为被动的一面是"想象力"，即让经验向外部世界的交易开放
 

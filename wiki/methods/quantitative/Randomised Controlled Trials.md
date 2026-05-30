@@ -17,9 +17,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[Tracking]]"
-  - "[[Pragmatism in China]]"
-  - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Side Effects in Education]]"
   - "[[Mechanism Experiments]]"
   - "[[Black Box RCTs]]"
@@ -191,7 +190,7 @@ updated: '2026-05-18'
 >
 > #### Berk (2011) 的多维度批评
 >
-> Berk (2011) 基于 35 年担任 *Evaluation Review* 创始编辑的经验，从集群随机化、外部效度和[[Pragmatism in China|实用主义]]三个维度对 RCT 作为"黄金标准"的地位提出批评：
+> Berk (2011) 基于 35 年担任 *Evaluation Review* 创始编辑的经验，从集群随机化、外部效度和[[Pragmatic Paradigm|实用主义]]三个维度对 RCT 作为"黄金标准"的地位提出批评：
 >
 > **集群随机化与 [[Stable Unit Treatment Value Assumption|SUTVA]] 违反**
 >

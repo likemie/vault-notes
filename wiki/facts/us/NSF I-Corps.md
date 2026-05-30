@@ -14,7 +14,8 @@ tags:
   - "theme/entrepreneurship"
   - "theme/university-industry-collaboration"
   - "theme/innovation"
-related_concepts: []
+related_concepts:
+  - "[[Didaktik]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -34,17 +35,17 @@ updated: 2026-05-29
 ## 背景
 
 > [!info]
-> NSF I-Corps（Innovation Corps，创新兵团）是美国国家科学基金会（[[National Science Foundation]]）于 2011 年启动的创业培训项目。其核心理念是教授学者创业思维，而非仅仅提供推进科学研究的资金（p.149）。
+> [[National Science Foundation|NSF]] I-Corps（Innovation Corps，创新兵团）是美国国家科学基金会（[[National Science Foundation]]）于 2011 年启动的创业培训项目。其核心理念是[[Didaktik|教授学]]者创业思维，而非仅仅提供推进科学研究的资金（p.149）。
 
 ## 运作机制
 
 > [!abstract]
-> I-Corps 项目要求产业代表直接参与项目，为研究团队提供市场验证方面的输入。项目重点在于验证商业要素与技术要素，产业成员是衍生企业成功的重要组成部分。NSF 主任 Sethuraman Panchanathan 表示该项目的目标不仅是创建企业，更是培养创业思维："成功不总是以是否创建了创业企业来衡量，也以如何将创业思维应用于你生活中所做的所有事情来衡量"（p.149）。
+> I-Corps 项目要求产业代表直接参与项目，为研究团队提供市场验证方面的输入。项目重点在于验证商业要素与技术要素，产业成员是衍生企业成功的重要组成部分。[[National Science Foundation|NSF]] 主任 Sethuraman Panchanathan 表示该项目的目标不仅是创建企业，更是培养创业思维："成功不总是以是否创建了创业企业来衡量，也以如何将创业思维应用于你生活中所做的所有事情来衡量"（p.149）。
 
 ## 成果
 
 > [!success]
-> - 自 2011 年启动以来已孵化了超过 1,000 家初创企业（NSF, 2024，转引自 p.149）
+> - 自 2011 年启动以来已孵化了超过 1,000 家初创企业（[[National Science Foundation|NSF]], 2024，转引自 p.149）
 > - 这些初创企业累计获得超过 $760 million 的后续融资（p.149）
 
 ## 来源

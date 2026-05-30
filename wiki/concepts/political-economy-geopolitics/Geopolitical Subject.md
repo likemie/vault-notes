@@ -17,6 +17,7 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Graduate Attributes]]"
+  - "[[Innovation Hub]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Spatial Sortings]]"
   - "[[Corporate Education]]"
@@ -27,7 +28,8 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
 related_theories:
   - "[[Fixity-Motion Tension]]"
-related_methods: []
+related_methods:
+  - "[[Ethnography]]"
 related_persons:
   - "[[Sami Moisio]]"
 related_facts: []
@@ -107,11 +109,11 @@ Moisio（2022, pp.29–30）将大学定位为在[[Knowledge-Based Economization
 
 1. **课程与教学法的重构**：当大学将"创业精神""跨文化能力""全球视野"嵌入毕业要求（参见 [[Graduate Attributes]]）时，它在做什么？不是在传授知识，而是在规定*理想的人应该是什么样子*。这些要求不是中性的技能清单，而是对主体性的规范性设计
 
-2. **空间改造的主体效应**：当大学图书馆被改造为 makerspace、创新中心、co-working 空间（Thompson & Parreira do Amaral, 2022, pp.4–6），改变的不只是空间的物理布局，而是空间对使用者的隐含要求。传统的图书馆要求你安静阅读——它生产的是沉思型主体。Makerspace 要求你协作、创造、展示——它生产的是创业型主体。空间本身就是主体形塑的装置
+2. **空间改造的主体效应**：当大学图书馆被改造为 makerspace、[[Innovation Hub|创新中心]]、co-working 空间（Thompson & Parreira do Amaral, 2022, pp.4–6），改变的不只是空间的物理布局，而是空间对使用者的隐含要求。传统的图书馆要求你安静阅读——它生产的是沉思型主体。Makerspace 要求你协作、创造、展示——它生产的是创业型主体。空间本身就是主体形塑的装置
 
 3. **流动性的制度化生产**：交换项目、双学位、海外实习、全球校友网络——这些制度安排不是在"补充"教育，而是在训练学生在全球流动中感到"如在家中"。每一次交换都是一次空间心态的训练：你学会了在任何枢纽城市快速适应、建立网络、展现"创业精神"
 
-Moisio 指出，这一主体形塑过程——"how this crafting of political subjectivity actually re-works the capacities and orientations of these new geopolitical subjects"——仍然是研究不足的领域，需要"各种创新的民族志和其他方法"来深入分析（Moisio, 2022, p.29）。
+Moisio 指出，这一主体形塑过程——"how this crafting of political subjectivity actually re-works the capacities and orientations of these new geopolitical subjects"——仍然是研究不足的领域，需要"各种创新的[[Ethnography|民族志]]和其他方法"来深入分析（Moisio, 2022, p.29）。
 
 ---
 
@@ -128,7 +130,7 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 ## 实证表现
 
 
-- **创意创业者作为理想类型**：在[[Knowledge-Based Economization|知识经济化]]过程中，"创意创业者"（creative entrepreneur）被建构为理想的经济主体——"这一形象可以采取多种形式"——出现在集群、创意城市、创业城市、智慧城市、学习区域、创新中心等空间话语中（Moisio, 2022, p.27）
+- **创意创业者作为理想类型**：在[[Knowledge-Based Economization|知识经济化]]过程中，"创意创业者"（creative entrepreneur）被建构为理想的经济主体——"这一形象可以采取多种形式"——出现在集群、创意城市、创业城市、智慧城市、学习区域、[[Innovation Hub|创新中心]]等空间话语中（Moisio, 2022, p.27）
 - **大学的空间改造**：图书馆从智识闲暇的场所（Muße）转变为 makerspace 和创新创业中心，是大学作为地缘政治主体生产场所的物质证据（Thompson & Parreira do Amaral, 2022, pp.4–6）
 - **[[Spatial Sortings|空间分选]]的主体维度**：[[Spatial Sortings]] 不仅分选地点，也分选人群——能够被塑造为地缘政治主体的个体（"跨国认知精英"）成为赢家，无法或不愿接受这种塑造的人成为输家。Davidson & Rees-Mogg（1999）关于信息时代赢家与输家分化的预测，正是对地缘政治主体生产的不均衡后果的预见（Moisio, 2022, pp.31–32）
 - **[[Corporate Education|企业教育]]作为主体生产的新场所**：Hartmann (2022) 将 Moisio 的地缘政治主体概念延伸至[[Corporate Education|企业教育]]领域。借鉴 James Scott（1998）"Seeing Like a State"的分析逻辑，Hartmann 提出企业教育的深层功能是让员工学会**"像公司一样看世界"（seeing like a company）**——这是一种特定的空间心态：员工将全球市场视为理所当然的行动空间，将 MNC 的利益内化为自身的认知框架（Hartmann, 2022, p.180）。与大学通过交换项目、全球校友网络和"[[Global Citizenship|全球公民]]"话语塑造地缘政治主体类似（Moisio, 2022, pp.29–30），MNCs 通过统一的管理培训、全球高潜力人才项目和标准化操作流程，也在制造适应全球[[Knowledge-Based Economy|知识经济]]竞争的主体类型。详见 [[Argument_Hartmann_2022_CorporateEducation]] 第一步

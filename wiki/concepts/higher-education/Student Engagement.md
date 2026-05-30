@@ -24,9 +24,9 @@ related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_郑_2023_上海三联书店]]"
+  - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 sources:
-  - "[[郑_2023_上海三联书店]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -121,11 +121,11 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example]
-> - [[Yajun Zheng|郑雅君]]（2023）第4章将学生投入理论应用于分析 [[Goal-Controlled Mode|目标掌控模式]] 和 [[Intuition-Dependent Mode|直觉依赖模式]] 的投入差异——投入不仅有多寡之分，更有**方向性**的区别。约半数直觉依赖者在高年级完成了向目标掌控模式的转变，触发引擎往往是[[Social Engagement|社会性投入]]——这意味着投入不仅是**结果变量**（受阶层[[Habitus|习性]]影响），也可能成为**转化机制**（通过投入本身来改变投入模式）。详见 [[Argument_郑_2023_上海三联书店]]
+> - [[Yajun Zheng|郑雅君]]（2023）第4章将学生投入理论应用于分析 [[Goal-Controlled Mode|目标掌控模式]] 和 [[Intuition-Dependent Mode|直觉依赖模式]] 的投入差异——投入不仅有多寡之分，更有**方向性**的区别。约半数直觉依赖者在高年级完成了向目标掌控模式的转变，触发引擎往往是[[Social Engagement|社会性投入]]——这意味着投入不仅是**结果变量**（受阶层[[Habitus|习性]]影响），也可能成为**转化机制**（通过投入本身来改变投入模式）。详见 [[Argument_Zheng_2023_ShanghaiSanlian]]
 > - 具体案例：泽斌的策略性投入分配 vs 牛铭的无方向投入，详见 [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]]
 
 ---
 
 ## 来源
 
-- [[郑_2023_上海三联书店]]
+- [[Zheng_2023_ShanghaiSanlian]]

@@ -58,14 +58,14 @@ related_arguments:
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
+  - "[[Ch2_Ulrichsen_2025]]"
   - "[[Ch3_Boccanfuso_Hall_2025]]"
   - "[[Ch4_Burrus_Patera_2025]]"
+  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
   - "[[Ch7_Byrne_2025]]"
   - "[[Ch8_Gilison_Wilson_2025]]"
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
-  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
   - "[[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]"
-  - "[[Ch2_Ulrichsen_2025]]"
+  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
 created: 2026-05-26

@@ -38,12 +38,12 @@ updated: 2026-05-30
 ## 定义
 
 > [!info]
-> [[Pragmatism in China|实用主义]]（Pragmatism）作为一种研究世界观，起源于 Peirce、James、Mead 和 [[John Dewey|Dewey]] 的著作（Cherryholmes, 1992）。它不执着于任何单一哲学或现实体系，关注的是行动、情境和后果，区别于关注先在条件的[[Postpositivism|后实证主义]]。实用主义的核心关切是"什么有效"，研究者以研究问题为中心，使用所有可用的方法来理解问题（Rossman & Wilson, 1985）。它是[[Mixed Method and Multi-method Research|混合方法研究]]的主要哲学基础。
+> 实用主义（[[Pragmatism in China|pragmatism]]）作为一种研究世界观，起源于 Peirce、James、Mead 和 [[John Dewey|Dewey]] 的著作（Cherryholmes, 1992）。它不执着于任何单一哲学或现实体系，关注的是行动、情境和后果，区别于关注先在条件的[[Postpositivism|后实证主义]]。实用主义的核心关切是"什么有效"，研究者以研究问题为中心，使用所有可用的方法来理解问题（Rossman & Wilson, 1985）。它是[[Mixed Method and Multi-method Research|混合方法研究]]的主要哲学基础。
 
 ## 核心要素
 
 > [!abstract]
-> 基于 Cherryholmes (1992)、Morgan (2007) 以及 Creswell & Creswell 的总结，[[Pragmatism in China|实用主义]]为研究提供了以下哲学基础。
+> 基于 Cherryholmes (1992)、Morgan (2007) 以及 Creswell & Creswell 的总结，实用主义为研究提供了以下哲学基础。
 > - **不执著于单一体系** 实用主义不承诺任何单一的哲学和现实体系，[[Mixed Method and Multi-method Research|混合方法研究]]者可以自由地从量化和质性假设中汲取资源。
 > - **选择自由** 研究者有自由选择最能满足其需求和目的的方法、技术和研究程序。
 > - **非绝对统一观** 实用主义者不将世界视为一个绝对统一体，混合方法研究者寻求多种数据收集和分析方法，不限于某一种。
@@ -54,7 +54,7 @@ updated: 2026-05-30
 ## 理论基础
 
 > [!tip]
-> [[Pragmatism in China|实用主义]]作为[[Mixed Method and Multi-method Research|混合方法研究]]的哲学基础，由 Morgan (2007)、Patton (1990) 和 Tashakkori & Teddlie (2010) 等重要学者推动。实用主义为混合方法研究打开了多元方法、不同世界观、多种假设和多种数据收集与分析形式的大门。
+> 实用主义作为[[Mixed Method and Multi-method Research|混合方法研究]]的哲学基础，由 Morgan (2007)、Patton (1990) 和 Tashakkori & Teddlie (2010) 等重要学者推动。实用主义为混合方法研究打开了多元方法、不同世界观、多种假设和多种数据收集与分析形式的大门。
 
 ## 概念辨析
 

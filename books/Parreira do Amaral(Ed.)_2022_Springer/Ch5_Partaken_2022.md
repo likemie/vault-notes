@@ -4,6 +4,7 @@ extracted_to:
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Narrative Knowledge]]"
   - "[[Knowledge Production]]"
+  - "[[Knowledge Transfer]]"
   - "[[Classical Geopolitics]]"
   - "[[Economic and Industrial Espionage]]"
   - "[[Forced Knowledge Transfer]]"
@@ -22,7 +23,6 @@ extracted_to:
   - "[[Jean-François Lyotard]]"
   - "[[Chen Kuan-Hsing]]"
   - "[[Concealment-Exposure Framework]]"
-  - "[[Knowledge Transfer]]"
 processed_date: 2026-05-10
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

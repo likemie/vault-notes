@@ -19,6 +19,8 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Performance Indicators]]"
   - "[[Corporate Venture Capital]]"
+  - "[[Technology Readiness Level]]"
+  - "[[Entrepreneur in Residence]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -68,7 +70,7 @@ updated: 2026-05-29
 ### 技术就绪度不足
 
 > [!warning]
-> 大多数大学衍生企业的技术就绪度（Technical Readiness Level, TRL）不足以满足企业试点项目的要求。这形成了一个"第二十二条军规"（Catch-22）：初创企业需要通过企业试点项目来验证技术并提高 TRL，但企业只愿意在 TRL 足够高时才投入资源进行试点（p.145）。
+> 大多数大学衍生企业的[[Technology Readiness Level|技术就绪度]]（Technical Readiness Level, TRL）不足以满足企业试点项目的要求。这形成了一个"第二十二条军规"（Catch-22）：初创企业需要通过企业试点项目来验证技术并提高 TRL，但企业只愿意在 TRL 足够高时才投入资源进行试点（p.145）。
 
 ### 市场驱动的价值创造不足
 
@@ -80,7 +82,7 @@ updated: 2026-05-29
 > [!abstract]
 > 近年来大学显著增加了对衍生企业创建和创业精神的支持资源投入（pp.147-148）：
 > - **[[Technology Transfer|技术转移]]办公室内的新创企业支持**：如 UCLA 技术开发组内的 New Ventures Group，或专门建设的中心如 Austin Technology Incubator，其主要职能是支持有前景的教员衍生企业（p.147）
-> - **驻校企业家（EIR）**：全职支持多个衍生企业的驻校高管，或具有多元经验的兼职 EIR 团队，这种人才投资似乎是帮助衍生企业"跨越从实验室到市场的鸿沟"的有效策略（pp.147-148）
+> - **[[Entrepreneur in Residence|驻校企业家]]（EIR）**：全职支持多个衍生企业的驻校高管，或具有多元经验的兼职 EIR 团队，这种人才投资似乎是帮助衍生企业"跨越从实验室到市场的鸿沟"的有效策略（pp.147-148）
 > - **产业参与渠道**：大学通过赞助研究合作、人才招聘项目和慈善支持等其他产学互动渠道接触产业成员，并利用人才库作为杠杆来协商产业参与创业项目（p.148）
 
 ## 来源

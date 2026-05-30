@@ -22,7 +22,6 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
-  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Creation of REES]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
@@ -51,7 +50,7 @@ updated: '2026-05-18'
 > 4. **反事实条件描述**：控制组的具体情况
 > 5. **[[Implementation Fidelity|实施忠实度]]测量计划**：如何测量和报告干预实施质量
 >
-> > 例：一个阅读干预的 [[Randomised Controlled Trials|RCT]] 在 REES 预注册时，需提前声明将以 [[Tennessee STAR Project 1985-1989|STAR]] 阅读评估为主要结果、以州标准化测试为次要结果、以 HLM 为分析方法——如果最终报告增加了未预注册的结果测量或改变了分析方法，[[What Works Clearinghouse|WWC]] 可将这些偏离预注册的内容标记为不符合审查要求。
+> > 例：一个阅读干预的 [[Randomised Controlled Trials|RCT]] 在 REES 预注册时，需提前声明将以 STAR 阅读评估为主要结果、以州标准化测试为次要结果、以 HLM 为分析方法——如果最终报告增加了未预注册的结果测量或改变了分析方法，[[What Works Clearinghouse|WWC]] 可将这些偏离预注册的内容标记为不符合审查要求。
 
 
 > [!abstract] 预注册的边界

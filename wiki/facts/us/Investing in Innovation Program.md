@@ -16,6 +16,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Evidence-Based Reform]]"
+  - "[[Entrepreneur in Residence]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -53,14 +54,14 @@ updated: '2026-05-18'
 > i3 在[[Evidence-Based Reform|证据本位改革]]运动中扮演了关键角色：
 >
 > 1. **大规模生产 [[Randomised Controlled Trials|RCT]] 证据**：i3 单方面大幅加速了教育领域中满足 ESSA 强和中标准的项目数量增长（Slavin, 2019, Figure 1）。
-> 2. **建立第三方评估规范**：i3 要求外部评估者（而非项目开发者自己）进行效果评估，这为后来 EIR 和 EEF 项目建立了方法论标准。
+> 2. **建立第三方评估规范**：i3 要求外部评估者（而非项目开发者自己）进行效果评估，这为后来 [[Entrepreneur in Residence|EIR]] 和 EEF 项目建立了方法论标准。
 > 3. **搭建项目管线**：从开发 → 验证 → 规模化的分层结构为创新项目从试点到大规模推广建立了系统性路径。
 > 4. **培养评估能力**：i3 与 IES 共同培养了大批合格的教育项目评估者，使 EIR 延续成为可能。
 
 ## 后续发展
 
 > [!note]- 后续发展
-> - i3 于 2016 年结束，随后被 **Education and Innovation Research (EIR)** 拨款项目有效取代——EIR 同样采用分层证据结构。
+> - i3 于 2016 年结束，随后被 **Education and Innovation Research ([[Entrepreneur in Residence|EIR]])** 拨款项目有效取代——EIR 同样采用分层证据结构。
 > - EIR 继续要求对高层级拨款进行第三方评估和随机分配。
 > - 英国 **EEF** 的项目评估模式本质上借鉴了 i3 的分层框架（开发 → 验证 → 规模化），资助了 180+ 第三方、多数为随机的评估。
 
