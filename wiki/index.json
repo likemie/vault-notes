@@ -3126,6 +3126,16 @@
     ]
   },
   {
+    "title": "Hook and Eye Technique",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Hook and Eye Technique.md",
+    "aliases": [
+      "钩眼技术",
+      "hook-and-eye exercise",
+      "hook and eye method"
+    ]
+  },
+  {
     "title": "Hypothesis",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Hypothesis.md",
@@ -3135,6 +3145,27 @@
       "预测性假设",
       "research hypothesis",
       "hypotheses"
+    ]
+  },
+  {
+    "title": "Informed Consent",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Informed Consent.md",
+    "aliases": [
+      "知情同意",
+      "知情同意书",
+      "informed consent form"
+    ]
+  },
+  {
+    "title": "Institutional Review Board (IRB)",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Institutional Review Board (IRB).md",
+    "aliases": [
+      "IRB",
+      "机构审查委员会",
+      "伦理审查委员会",
+      "研究伦理委员会"
     ]
   },
   {
@@ -3259,6 +3290,17 @@
     "aliases": [
       "发表偏差",
       "发表偏倚"
+    ]
+  },
+  {
+    "title": "Research Ethics",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Research Ethics.md",
+    "aliases": [
+      "研究伦理",
+      "研究伦理规范",
+      "research ethics in social sciences",
+      "code of ethics"
     ]
   },
   {
