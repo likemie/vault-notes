@@ -29,6 +29,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 import subprocess
@@ -36,6 +37,50 @@ import unicodedata
 from dataclasses import dataclass, asdict
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
+
+
+def find_vault_root() -> Path:
+    """Find the vault root so the script can prefer the vault-local .venv."""
+    script_path = Path(__file__).resolve()
+
+    # Expected layout: <vault>/scripts/vault_lint.py
+    if script_path.parent.name == "scripts":
+        return script_path.parent.parent
+
+    # Fallback: current working directory or one of its parents.
+    cwd = Path.cwd().resolve()
+    for candidate in [cwd, *cwd.parents]:
+        if (candidate / ".venv").exists() or (candidate / "wiki").exists():
+            return candidate
+
+    return cwd
+
+
+def maybe_reexec_with_vault_venv() -> None:
+    """If <vault>/.venv exists, rerun this script with that Python automatically."""
+    if os.environ.get("VAULT_LINT_VENV_REEXEC") == "1":
+        return
+
+    root = find_vault_root()
+    if sys.platform == "win32":
+        venv_python = root / ".venv" / "Scripts" / "python.exe"
+    else:
+        venv_python = root / ".venv" / "bin" / "python"
+
+    if not venv_python.exists():
+        return
+
+    current = Path(sys.executable).resolve()
+    target = venv_python.resolve()
+    if current == target:
+        return
+
+    env = os.environ.copy()
+    env["VAULT_LINT_VENV_REEXEC"] = "1"
+    os.execve(str(target), [str(target), str(Path(__file__).resolve()), *sys.argv[1:]], env)
+
+
+maybe_reexec_with_vault_venv()
 
 try:
     import yaml  # type: ignore

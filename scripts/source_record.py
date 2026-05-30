@@ -36,6 +36,20 @@ Expected location:
 
 from __future__ import annotations
 
+# Auto-use the vault virtual environment when available.
+# This keeps scripts runnable as `python3 scripts/<script>.py` while using
+# dependencies installed in /Users/shaoyangwu/Documents/MyNotes/.venv.
+import os
+import sys
+from pathlib import Path
+
+VAULT_ROOT = Path("/Users/shaoyangwu/Documents/MyNotes")
+VENV_PYTHON = VAULT_ROOT / ".venv" / "bin" / "python"
+
+if VENV_PYTHON.exists() and Path(sys.executable).resolve() != VENV_PYTHON.resolve():
+    os.execv(str(VENV_PYTHON), [str(VENV_PYTHON), *sys.argv])
+
+
 import argparse
 import datetime as _dt
 import re
