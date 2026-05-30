@@ -1,7 +1,7 @@
 ---
 title: Literature Review
 aliases: ["文献综述", "文献回顾", "literature search", "review of the literature"]
-summary: "Creswell 定义的研究核心步骤，指系统检索、评估和总结某一主题已有研究的过程，在量化、质性和混合方法研究中有不同的组织方式和角色"
+summary: "研究过程中的核心步骤，指对某一主题已有研究进行系统检索、评估和总结，在量化、质性和混合方法研究中有不同的组织方式和认识论角色"
 type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:

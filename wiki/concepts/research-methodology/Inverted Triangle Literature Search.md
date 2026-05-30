@@ -1,7 +1,7 @@
 ---
 title: Inverted Triangle Literature Search
 aliases: ["倒三角文献检索", "inverted triangle", "倒三角策略", "broadening literature search"]
-summary: "Creswell 提出的文献检索启发法，当研究题目过于狭窄而找不到直接相关文献时，通过从窄到宽逐层拓宽检索范围来寻找间接相关的研究，以倒三角为视觉隐喻"
+summary: "当研究题目过于狭窄而找不到直接相关文献时的检索策略，通过从窄到宽逐层拓宽检索范围来寻找间接相关的研究，以倒三角为视觉隐喻"
 type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:

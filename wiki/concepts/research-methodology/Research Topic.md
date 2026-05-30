@@ -1,7 +1,7 @@
 ---
 title: Research Topic
 aliases: ["研究主题", "研究选题", "research subject", "study topic", "working title"]
-summary: "Creswell 定义的研究出发点，指计划研究的主题或题材，涉及草拟工作标题、评估研究可行性与贡献性、以及确定研究角度的方法"
+summary: "研究设计的出发点，指计划研究的主题或题材，涉及草拟工作标题、评估研究可行性与贡献性、以及确定研究角度"
 type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:

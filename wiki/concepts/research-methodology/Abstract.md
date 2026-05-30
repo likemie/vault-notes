@@ -1,7 +1,7 @@
 ---
 title: Abstract
 aliases: ["文献摘要", "研究摘要", "abstracting studies", "literature abstract", "study abstract"]
-summary: "Creswell 定义的双重概念，既指文献综述中加工研究文献的短段落（文献摘要），也指置于研究开篇的全文概述（研究摘要），后者包含研究问题、数据来源、方法、发现和结论五个核心组成部分"
+summary: "学术写作中两种功能不同的文本类型：文献综述中加工研究文献的短段落（文献摘要），以及置于研究方案或论文开篇的全文概述（研究摘要），后者包含研究问题、数据来源、方法、发现和结论五个核心组成部分"
 type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:

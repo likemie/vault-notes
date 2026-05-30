@@ -1,7 +1,7 @@
 ---
 title: Deficiencies in Past Literature
 aliases: ["既往文献缺陷", "文献缺口", "literature gaps", "deficiencies in the evidence", "文献不足"]
-summary: "Creswell 缺陷模型中的关键环节，指已有研究中存在的缺口、不足或忽略之处，用于为新研究提供合法化空间，涵盖未探索主题、方法缺陷和理论不足等类型"
+summary: "已有研究中存在的缺口、不足或忽略之处，用于为新研究提供合法化空间，涵盖未探索主题、方法缺陷和理论不足等类型"
 type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:

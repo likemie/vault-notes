@@ -1,7 +1,7 @@
 ---
 title: Narrative Hook
 aliases: ["叙事钩子", "narrative hooks", "opening hook"]
-summary: "Creswell 提出的引言写作技巧，指能够吸引、抓住或钩住读者进入研究的开篇语句，通过问题、数字冲击或适度概括性语言激发阅读兴趣"
+summary: "学术引言中用于吸引读者进入研究的开篇语句，通过问题、数字冲击或适度概括性语言激发阅读兴趣，源自英语写作中的 narrative hook 概念"
 type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:

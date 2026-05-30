@@ -1,7 +1,7 @@
 ---
 title: Research Problem
 aliases: ["研究问题", "research problems"]
-summary: "Creswell 定义的研究设计核心概念，指引导研究需求的难题或议题，区别于研究问题（research questions），可来自个人经验、文献争论或政策讨论"
+summary: "学术研究中引导研究需求的难题或议题，区别于通过数据来回答的研究问题句（research questions），可来自个人经验、文献争论或政策讨论"
 type: concept
 tags: [method/research-process, source/textbook]
 related_concepts:

@@ -471,3 +471,5 @@ Argument 引用规则：
 ```markdown
 $$d = ...$$
 ```
+
+- 正文不写 HTML 注释 `<!-- ... -->`；写作备注或分隔标记一律用 Obsidian 注释 `%% ... %%`。vault 已开启 `enableInHtmlEmbed`，HTML 注释会被 parse5 重新解析，注释加上较长后续内容会触发 Quartz 构建崩溃（`Cannot read properties of null`）；`%%...%%` 在解析前就被 OFM 移除，Obsidian 与 Quartz 两端都不可见。

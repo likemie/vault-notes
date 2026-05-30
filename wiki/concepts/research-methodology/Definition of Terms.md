@@ -1,7 +1,7 @@
 ---
 title: Definition of Terms
 aliases: ["术语定义", "操作性定义", "operational definition", "defining terms", "definition section"]
-summary: "Creswell 综合多位学者提出的研究写作规范，指在研究计划中精确界定关键术语，遵循操作化、首次出现即定义、使用文献约定语言等原则，在量化、质性和混合方法研究中有不同策略"
+summary: "研究计划中对关键术语的精确界定，遵循操作化、首次出现即定义、使用文献约定语言等原则，在量化、质性和混合方法研究中有不同的处理策略"
 type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:
