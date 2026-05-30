@@ -4119,6 +4119,17 @@
     ]
   },
   {
+    "title": "Complex Mixed Methods Design",
+    "type": "method",
+    "path": "wiki/methods/mixed/Complex Mixed Methods Design.md",
+    "aliases": [
+      "复杂混合方法设计",
+      "嵌入型混合方法设计",
+      "advanced mixed methods design",
+      "embedded mixed methods design"
+    ]
+  },
+  {
     "title": "Formative Program Evaluation",
     "type": "method",
     "path": "wiki/methods/mixed/Formative Program Evaluation.md",
@@ -4357,6 +4368,17 @@
     ]
   },
   {
+    "title": "Qualitative Descriptive Method",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Qualitative Descriptive Method.md",
+    "aliases": [
+      "描述性方法",
+      "质性描述性方法",
+      "qualitative descriptive method",
+      "descriptive qualitative research"
+    ]
+  },
+  {
     "title": "Qualitative Research",
     "type": "method",
     "path": "wiki/methods/qualitative/Qualitative Research.md",
@@ -4564,6 +4586,19 @@
       "单一个案设计",
       "SCD",
       "单一被试设计"
+    ]
+  },
+  {
+    "title": "Single-Subject Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Single-Subject Design.md",
+    "aliases": [
+      "单受试者设计",
+      "单一被试设计",
+      "单一个案实验设计",
+      "single-case design",
+      "applied behavioral analysis",
+      "single-subject experimental design"
     ]
   },
   {

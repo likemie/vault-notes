@@ -13,11 +13,17 @@ tags:
   - quantitative-research
   - experiment
   - causal-inference
-related_concepts: []
+related_concepts:
+  - "[[Postpositivism]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Quantitative Research]]"
+  - "[[Single-Subject Design]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Survey Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Campbell Collaboration]]"
 related_arguments: []
 sources: []
 confidence: medium
@@ -31,7 +37,7 @@ updated: 2026-05-30
 ## 定义
 
 > [!info]
-> 实验研究（Experimental Research）是一种量化研究设计，旨在确定某一特定处理是否影响结果。研究者通过向一组提供特定处理、对另一组不予处理，然后比较两组在结果上的得分来进行评估（Keppel, 1991）。实验设计起源于 19 世纪末至 20 世纪的生理学和心理学，主要依赖[[Postpositivism|后实证主义]]世界观（Campbell & Stanley, 1963）。
+> 实验研究（Experimental Research）是一种[[Quantitative Research|量化研究]]设计，旨在确定某一特定处理是否影响结果。研究者通过向一组提供特定处理、对另一组不予处理，然后比较两组在结果上的得分来进行评估（Keppel, 1991）。实验设计起源于 19 世纪末至 20 世纪的生理学和心理学，主要依赖[[Postpositivism|后实证主义]]世界观（[[Campbell Collaboration|Campbell]] & Stanley, 1963）。
 
 ## 研究程序
 
@@ -47,9 +53,9 @@ updated: 2026-05-30
 ## 方法变体与相近方法
 
 > [!tip]
-> - **真实验（True Experiment）** 受试者被随机分配到处理条件中，内部效度最高（Campbell & Stanley, 1963）。
+> - **真实验（True Experiment）** 受试者被随机分配到处理条件中，内部效度最高（[[Campbell Collaboration|Campbell]] & Stanley, 1963）。
 > - **准实验（Quasi-Experiment）** 使用非随机化分配，在无法随机化（如使用已有班级或学校）时使用。
-> - **单受试者设计（Single-Subject Design）** 在时间维度上对单个个体或少数个体施加、撤销处理，观察行为变化（Cooper et al., 2007; Neuman & McCormick, 1995）。
+> - **[[Single-Subject Design|单受试者设计]]（Single-Subject Design）** 在时间维度上对单个个体或少数个体施加、撤销处理，观察行为变化（Cooper et al., 2007; Neuman & McCormick, 1995）。
 > - **因子设计（Factorial Design）** 同时操纵多个处理变量及其交互效应。
 > - **重复测量设计（Repeated Measure Design）** 在不同时间点对同一组受试者重复测量，追踪处理效果的时间动态。
 > - **纵向数据收集** 在较长时间跨度内收集数据，考察思想和趋势的发展变化。

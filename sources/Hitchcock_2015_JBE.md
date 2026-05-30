@@ -7,8 +7,8 @@ extracted_to:
   - "[[Gating Procedure]]"
   - "[[WWC SCD Pilot Standards]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Single-Case Design]]"
   - "[[Campbellian Validity Framework]]"
+  - "[[Single-Case Design]]"
 processed_date: 2026-05-02
 ---
 

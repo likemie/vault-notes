@@ -24,10 +24,10 @@ extracted_to:
   - "[[What Works Clearinghouse]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Single-Case Design]]"
   - "[[Campbellian Validity Framework]]"
   - "[[Evidence-Based Reform]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Single-Case Design]]"
 processed_date: 2026-05-05
 ---
 
