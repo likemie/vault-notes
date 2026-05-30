@@ -63,9 +63,11 @@ wiki/arguments/books/<book-folder>/
 | 第X章 章节标题 | 用一两句话说明这一章主要讲什么。 | Concept A、Theory B、Fact C |
 ```
 
-`主要关联条目` 只列 3–5 个最核心的 Concept / Theory / Method / Fact / Person。
+`主要关联条目` 只列 3–5 个最核心的 Concept / Theory / Method / Fact / Person；不同章节的主要关联条目尽量拉开差异，避免每章机械重复同一组条目。
 
-「章节概览」按教材自身的知识推进逻辑组织内容。每章追加时使用：
+「章节概览」按教材自身的知识推进逻辑组织内容，跟随作者每一步思路，记录概念、理论、证据、案例、表格和结论如何依次展开。建立条目的内容只简单提及，不在教材 Argument 页展开；详细内容进入具体条目。
+
+每章追加时使用：
 
 ```markdown
 ### 第X章 章节标题
@@ -76,15 +78,13 @@ wiki/arguments/books/<book-folder>/
 
 #### 图片占位
 
-<!--
-- 图X-X：图片或图像型 figure 标题，待手动补图。
-  本地建议位置：books/<book-folder>/figures/chapter-x-figure-y.svg
-  嵌入代码：![](https://img.mylikemie.icu/books/<book-folder>/figures/chapter-x-figure-y.svg)
--->
+> [!example]- 图片占位
+> 图X-X：名称  
+> ![](https://img.mylikemie.icu/books/<book-folder>/figures/chapter-x-figure-y.svg)
 
 #### 概览
 
-按教材自身逻辑概括这一章如何展开概念、理论、证据、案例和结论。
+跟随教材自身逻辑，记录作者每一步思路如何展开。文本表格、可复制表格或可转写表格必须尽量保留，并整理为 Markdown 表格；图片或图像型 figure 只写轻量占位。
 ```
 
 写作时不以“论文 / 本文 / 本章 / 作者 / 研究者 / 本研究 / 论证”作为常规主语，直接叙述论证、证据和结论。
@@ -107,9 +107,10 @@ wiki/arguments/books/<book-folder>/
    - 位置：`wiki/arguments/books/<book-folder>/Argument_<book-folder>.md`
    - 若不存在，读取 `wiki/templates/template-argument-textbook.md` 新建。
    - 若已存在，将当前章节内容整合进「章节结构」「章节概览」和「重要摘录」。
-   - 「章节结构」中每章只保留 3–5 个核心关联条目。
-   - 「章节概览」按教材自身逻辑概括，已建条目只简单提及。
-   - 「概念地图」和「图片占位」可提前写好图床外网地址，AI 不主动绘图；本地文件放在 `books/<book-folder>/figures/`，Markdown 嵌入使用 `https://img.mylikemie.icu/books/<book-folder>/figures/...`。文本表格、可复制表格或可转写表格应尽量直接整理为 Markdown 表格。
+   - 「章节结构」中每章只保留 3–5 个核心关联条目；不同章节尽量选择不同的核心条目，避免重复。
+   - 「章节概览」跟随作者每一步思路，记录概念、理论、证据、案例、表格和结论如何依次展开；已建条目只简单提及。
+   - 文本表格、可复制表格或可转写表格必须尽量保留，并整理为 Markdown 表格。
+   - 「概念地图」和「图片占位」可提前写好图床外网地址，AI 不主动绘图；图片占位只写图号或名称和预计嵌入链接。
 8. 在 `## 来源` 章节列出来源。
 9. 执行脚本运行规则。
 10. 当前章节处理完成后停止。
@@ -165,21 +166,6 @@ books/<book-folder>/<book-folder>.md
 ```
 
 5. 执行脚本运行规则。
-
----
-
-## 整合教材 Argument
-
-当用户要求整合教材 Argument 时：
-
-1. 读取教材 Argument 中的「章节结构」「章节概览」「重要摘录」。
-2. 读取 `wiki/templates/template-argument-textbook.md`。
-3. 检查「章节结构」中的主要关联条目是否过多，每章保留 3–5 个核心条目。
-4. 检查「章节概览」是否按教材自身逻辑组织。
-5. 检查已建条目是否只做简单提及，详细内容是否沉淀到对应条目。
-6. 检查各章需要手动补充的图片或图像型 figure 是否保留占位；可读表格应直接整理为 Markdown 表格。
-7. 用 `str_replace` 精确更新相关段落。
-7. 执行脚本运行规则。
 
 ---
 
