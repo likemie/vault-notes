@@ -16,6 +16,7 @@ tags:
 - educational-psychology
 - research-methodology
 related_concepts:
+  - "[[Postpositivism]]"
   - "[[Recommendations for Practice]]"
   - "[[University-Industry Collaboration]]"
   - "[[Peidu]]"
@@ -34,6 +35,7 @@ related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Teng_2025_CE]]"
 sources:
+  - "[[Creswell_2022_SAGE]]"
   - "[[Brady_2023_EPR]]"
 confidence: low
 status: draft
@@ -51,7 +53,7 @@ updated: 2026-05-30
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> Brady et al. (2023) 将混合方法与[[Qualitative Research|质性研究]]的增长一起解释为教育心理学方法世界观更加多样的可能信号。它可能表示后实证主义之外的研究取向更被接受，或高影响教育心理学期刊对传统方法以外的视角更加开放（Brady et al., 2023, pp.7-8）。
+> Brady et al. (2023) 将混合方法与[[Qualitative Research|质性研究]]的增长一起解释为教育心理学方法世界观更加多样的可能信号。它可能表示[[Postpositivism|后实证主义]]之外的研究取向更被接受，或高影响教育心理学期刊对传统方法以外的视角更加开放（Brady et al., 2023, pp.7-8）。
 
 ## 操作步骤
 
@@ -101,4 +103,5 @@ updated: 2026-05-30
 
 ## 来源
 
+- [[Creswell_2022_SAGE]]
 - [[Brady_2023_EPR]]

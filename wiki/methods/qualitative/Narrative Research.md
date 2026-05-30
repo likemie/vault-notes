@@ -13,12 +13,17 @@ tags:
   - narrative
   - life-history
 related_concepts: []
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Phenomenology]]"
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[In-depth Interview]]"
+  - "[[Case Study]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -30,13 +35,13 @@ updated: 2026-05-30
 ## 定义
 
 > [!info]
-> 叙事研究（Narrative Research）是一种源自人文学科的质性研究设计。研究者研究个体的生活，请一个或多个参与者提供关于他们生活的故事（Riessman, 2008）。这些信息随后由研究者重新讲述或重新故事化（restoried）为叙事性编年史。最终，叙事通常将参与者生活中的观点与研究者生活中的观点合并为一个合作性叙事（Clandinin & Connelly, 2000）。
+> 叙事研究（Narrative Research）是一种源自人文学科的[[Qualitative Research|质性研究]]设计。研究者研究个体的生活，请一个或多个参与者提供关于他们生活的故事（Riessman, 2008）。这些信息随后由研究者重新讲述或重新故事化（restoried）为叙事性编年史。最终，叙事通常将参与者生活中的观点与研究者生活中的观点合并为一个合作性叙事（Clandinin & Connelly, 2000）。
 
 ## 研究程序
 
 > [!example]
 > - 选择一个或多个个体作为研究对象。
-> - 通过深度访谈收集参与者的生活故事。
+> - 通过[[In-depth Interview|深度访谈]]收集参与者的生活故事。
 > - 将收集到的故事按时间顺序重构成连贯的叙事编年史（restorying）。
 > - 识别叙事中的关键主题、转折点或意义节点。
 > - 在分析中结合参与者的视角和研究者的解释，形成合作性叙事。
@@ -63,4 +68,4 @@ updated: 2026-05-30
 
 ## 来源
 
-<!-- 来源待全书 source record 创建后补充 -->
+- [[Creswell_2022_SAGE]]

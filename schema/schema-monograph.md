@@ -12,7 +12,7 @@
 - 处理开始时先确定 `<book-folder>`；后续 source 记录、整合书籍文件和阅读页面文件名可与 `<book-folder>` 相同。
 - 章节处理结果累积到全书 Argument 的「各章概览」。
 - 用户提供整合后的书籍文件并要求建立 source 记录后，根据文件格式生成阅读页面：PDF 与 EPUB 的处理流程相同，但阅读页写法不同。
-- 每次章节处理完成后执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
+- 每次章节处理完成后执行脚本运行规则：只自动运行 `.venv/bin/python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
 
@@ -90,7 +90,7 @@ books/<book-folder>/<book-folder>.<ext>
 ### PDF 或其他可直接嵌入文件
 
 ```bash
-python3 scripts/source_record.py monograph-pdf \
+.venv/bin/python3 scripts/source_record.py monograph-pdf \
   --book-folder <book-folder> \
   --file books/<book-folder>/<book-folder>.pdf \
   --citation "作者姓, 名字缩写. (年份). 书名. 出版社." \
@@ -103,7 +103,7 @@ python3 scripts/source_record.py monograph-pdf \
 ### EPUB
 
 ```bash
-python3 scripts/source_record.py monograph-epub \
+.venv/bin/python3 scripts/source_record.py monograph-epub \
   --book-folder <book-folder> \
   --file books/<book-folder>/<book-folder>.epub \
   --citation "作者姓, 名字缩写. (年份). 书名. 出版社." \
@@ -157,25 +157,25 @@ books/<book-folder>/<book-folder>.md
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
-python3 scripts/wiki_index.py
+.venv/bin/python3 scripts/wiki_index.py
 ```
 
 随后询问用户是否运行标准脚本流程。只有用户确认后，才运行：
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
-python3 scripts/wiki_linker.py sync
-python3 scripts/wiki_relations.py sync
-python3 scripts/wiki_index.py
-python3 scripts/vault_lint.py
+.venv/bin/python3 scripts/wiki_linker.py sync
+.venv/bin/python3 scripts/wiki_relations.py sync
+.venv/bin/python3 scripts/wiki_index.py
+.venv/bin/python3 scripts/vault_lint.py
 ```
 
 必要时全量运行：
 
 ```bash
-python3 scripts/wiki_linker.py sync --full
-python3 scripts/wiki_relations.py sync --full
-python3 scripts/vault_lint.py --full
+.venv/bin/python3 scripts/wiki_linker.py sync --full
+.venv/bin/python3 scripts/wiki_relations.py sync --full
+.venv/bin/python3 scripts/vault_lint.py --full
 ```
 
 ---

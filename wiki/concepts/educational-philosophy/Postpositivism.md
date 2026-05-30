@@ -23,7 +23,8 @@ related_persons:
   - "[[John Locke]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -64,4 +65,4 @@ updated: 2026-05-30
 
 ## 来源
 
-<!-- 来源待全书 source record 创建后补充 -->
+- [[Creswell_2022_SAGE]]

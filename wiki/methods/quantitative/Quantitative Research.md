@@ -11,13 +11,19 @@ tags:
   - quantitative-research
   - research-methodology
   - paradigm/postpositivist
-related_concepts: []
+related_concepts:
+  - "[[Postpositivism]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Survey Research]]"
+  - "[[Experimental Research]]"
+  - "[[Quasi-Experimental Designs]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -59,7 +65,7 @@ updated: 2026-05-30
 
 > [!warning]
 > - 量化研究的预设和封闭式结构可能限制对新现象的发现。
-> - 对情境和参与者意义的深层理解不如质性研究。
+> - 对情境和参与者意义的深层理解不如[[Qualitative Research|质性研究]]。
 > - 研究者的个人偏见虽被程序性控制，但完全的价值中立难以实现。
 
 ## 方法变体与相近方法
@@ -71,4 +77,4 @@ updated: 2026-05-30
 
 ## 来源
 
-<!-- 来源待全书 source record 创建后补充 -->
+- [[Creswell_2022_SAGE]]

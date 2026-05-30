@@ -42,7 +42,7 @@ wiki/arguments/books/<book-folder>/
 6. 使用 `source_record.py edited-volume-overview` 创建 overview source 记录：
 
 ```bash
-python3 scripts/source_record.py edited-volume-overview \
+.venv/bin/python3 scripts/source_record.py edited-volume-overview \
   --book-folder Editor_Year_Publisher \
   --file books/Editor_Year_Publisher/Preface.pdf \
   --citation "Editor, E. (Ed.). (Year). Book title. Publisher." \
@@ -57,7 +57,7 @@ python3 scripts/source_record.py edited-volume-overview \
 
 7. 在正文中自然使用 wikilink，在 `## 来源` 章节列出来源。
 8. 不手动维护 YAML `related_*` 和 `sources`。
-9. 执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
+9. 执行脚本运行规则：只自动运行 `.venv/bin/python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
 
@@ -72,7 +72,7 @@ python3 scripts/source_record.py edited-volume-overview \
 7. 使用 `source_record.py book-chapter` 创建该章 source 记录：
 
 ```bash
-python3 scripts/source_record.py book-chapter \
+.venv/bin/python3 scripts/source_record.py book-chapter \
   --book-folder Editor_Year_Publisher \
   --file books/Editor_Year_Publisher/Ch3_ChapterAuthor_Year.pdf \
   --citation "ChapterAuthor, A. (Year). Chapter title. In Editor Name (Ed.), Book title (pp. xx-xx). Publisher." \
@@ -97,7 +97,7 @@ python3 scripts/source_record.py book-chapter \
 9. 用 `str_replace` 更新 overview 的「已处理章节」列表，加入该章 Argument 链接。
 10. 在正文中自然使用 wikilink，在 `## 来源` 章节列出 source wikilink。
 11. 不手动维护 YAML `related_*` 和 `sources`。
-12. 执行脚本运行规则：只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
+12. 执行脚本运行规则：只自动运行 `.venv/bin/python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
 
@@ -107,25 +107,25 @@ python3 scripts/source_record.py book-chapter \
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
-python3 scripts/wiki_index.py
+.venv/bin/python3 scripts/wiki_index.py
 ```
 
 随后询问用户是否运行标准脚本流程。只有用户确认后，才运行：
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
-python3 scripts/wiki_linker.py sync
-python3 scripts/wiki_relations.py sync
-python3 scripts/wiki_index.py
-python3 scripts/vault_lint.py
+.venv/bin/python3 scripts/wiki_linker.py sync
+.venv/bin/python3 scripts/wiki_relations.py sync
+.venv/bin/python3 scripts/wiki_index.py
+.venv/bin/python3 scripts/vault_lint.py
 ```
 
 必要时全量运行：
 
 ```bash
-python3 scripts/wiki_linker.py sync --full
-python3 scripts/wiki_relations.py sync --full
-python3 scripts/vault_lint.py --full
+.venv/bin/python3 scripts/wiki_linker.py sync --full
+.venv/bin/python3 scripts/wiki_relations.py sync --full
+.venv/bin/python3 scripts/vault_lint.py --full
 ```
 
 `wiki_relations.py` 负责同步 wiki 条目的 `related_*` 与 YAML `sources`，并根据 wiki 条目的 `## 来源` 反向维护 source record 的 `extracted_to`。`sources/` 和 `books/` 下的 source record 不参与 `related_*` 自动维护。

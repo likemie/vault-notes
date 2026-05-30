@@ -16,12 +16,14 @@ related_concepts:
   - "[[Sage]]"
 related_theories: []
 related_methods:
+  - "[[Quantitative Research]]"
   - "[[Mixed Method and Multi-method Research]]"
 related_persons:
   - "[[John W. Creswell]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -54,7 +56,7 @@ updated: 2026-05-30
 ## 核心思想
 
 > [!tip]
-> J. David Creswell 的研究以量化方法为主，核心关注压力情境下人类心理韧性的心理和生物机制。他的实验室研究结合行为实验、生理测量和干预设计，试图回答"什么使人能够在压力下保持健康"这一核心问题。在研究设计教材中，他主要负责量化研究方法和[[Mixed Method and Multi-method Research|混合方法]]中量化部分的内容贡献。
+> J. David Creswell 的研究以量化方法为主，核心关注压力情境下人类心理韧性的心理和生物机制。他的实验室研究结合行为实验、生理测量和干预设计，试图回答"什么使人能够在压力下保持健康"这一核心问题。在研究设计教材中，他主要负责[[Quantitative Research|量化研究]]方法和[[Mixed Method and Multi-method Research|混合方法]]中量化部分的内容贡献。
 
 ## 影响
 
@@ -65,4 +67,4 @@ updated: 2026-05-30
 
 ## 来源
 
-<!-- 来源待全书 source record 创建后补充 -->
+- [[Creswell_2022_SAGE]]

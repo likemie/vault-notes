@@ -14,7 +14,7 @@
 - 教材面向初学者；新建 Concept / Theory / Method / Fact / Person 条目时应适当详细。
 - 教材 Argument 页只简单提及已经建立条目的概念、理论、方法、事实和人物，不在论证页展开；详细内容在具体条目里展开。
 - 章节概览中自然使用相关术语；wikilink 由 `wiki_linker.py` 自动补充。
-- 每次章节处理完成后，只自动运行 `python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
+- 每次章节处理完成后，只自动运行 `.venv/bin/python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
 
@@ -135,7 +135,7 @@ books/<book-folder>/<book-folder>.epub
 2. PDF 教材可调用：
 
 ```bash
-python3 scripts/source_record.py monograph-pdf \
+.venv/bin/python3 scripts/source_record.py monograph-pdf \
   --book-folder <book-folder> \
   --file books/<book-folder>/<book-folder>.pdf \
   --citation "作者姓, 名字缩写. (年份). 书名. 出版社." \
@@ -148,7 +148,7 @@ python3 scripts/source_record.py monograph-pdf \
 3. EPUB 教材可调用：
 
 ```bash
-python3 scripts/source_record.py monograph-epub \
+.venv/bin/python3 scripts/source_record.py monograph-epub \
   --book-folder <book-folder> \
   --file books/<book-folder>/<book-folder>.epub \
   --citation "作者姓, 名字缩写. (年份). 书名. 出版社." \
@@ -189,15 +189,15 @@ books/<book-folder>/<book-folder>.md
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
-python3 scripts/wiki_index.py
+.venv/bin/python3 scripts/wiki_index.py
 ```
 
 随后询问用户是否运行标准脚本流程。只有用户确认后，才运行：
 
 ```bash
 cd /Users/shaoyangwu/Documents/MyNotes
-python3 scripts/wiki_linker.py sync
-python3 scripts/wiki_relations.py sync
-python3 scripts/wiki_index.py
-python3 scripts/vault_lint.py
+.venv/bin/python3 scripts/wiki_linker.py sync
+.venv/bin/python3 scripts/wiki_relations.py sync
+.venv/bin/python3 scripts/wiki_index.py
+.venv/bin/python3 scripts/vault_lint.py
 ```

@@ -11,6 +11,7 @@ tags:
 - research-methodology
 - paradigm/interpretivist
 related_concepts:
+  - "[[Postpositivism]]"
   - "[[Recommendations for Practice]]"
 related_theories: []
 related_methods:
@@ -22,6 +23,7 @@ related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
 sources:
+  - "[[Creswell_2022_SAGE]]"
   - "[[Brady_2023_EPR]]"
 confidence: low
 status: draft
@@ -39,7 +41,7 @@ updated: 2026-05-30
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> Brady et al. (2023) 将质性研究的增加解释为教育心理学方法世界观变化的可能信号：心理学历史上偏向后实证主义视角，而质性与[[Mixed Method and Multi-method Research|混合方法研究]]的增长可能表示后现代、相对主义等其他世界观在教育心理学中获得更多空间，或至少显示研究者所采用的世界观更加多样（Brady et al., 2023, p.7）。
+> Brady et al. (2023) 将质性研究的增加解释为教育心理学方法世界观变化的可能信号：心理学历史上偏向[[Postpositivism|后实证主义]]视角，而质性与[[Mixed Method and Multi-method Research|混合方法研究]]的增长可能表示后现代、相对主义等其他世界观在教育心理学中获得更多空间，或至少显示研究者所采用的世界观更加多样（Brady et al., 2023, p.7）。
 
 ## 操作步骤
 
@@ -80,4 +82,5 @@ updated: 2026-05-30
 
 ## 来源
 
+- [[Creswell_2022_SAGE]]
 - [[Brady_2023_EPR]]

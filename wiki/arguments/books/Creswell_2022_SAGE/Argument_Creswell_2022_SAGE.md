@@ -21,12 +21,15 @@ related_methods:
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Joint Display]]"
   - "[[Quantitative Research]]"
-  - "[[Narrative Research]]"
-  - "[[Grounded Theory]]"
-  - "[[Ethnography]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
   - "[[Single-Subject Design]]"
+  - "[[Narrative Research]]"
+  - "[[Grounded Theory]]"
+  - "[[Ethnography]]"
+  - "[[Case Study]]"
+  - "[[Qualitative Descriptive Method]]"
+  - "[[Complex Mixed Methods Design]]"
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
@@ -34,7 +37,8 @@ related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Creswell_2022_SAGE]]"
 part_of:
 status: draft
 created: 2026-05-30
@@ -148,7 +152,7 @@ updated: 2026-05-30
 - [[Transformative Paradigm|变革主义]] 产生于 1980–90 年代，由认为后实证主义无法适应边缘群体需求的研究者推动。研究必须与政治变革议程交织，以对抗社会压迫、赋权边缘群体为核心。研究者与参与者合作，为参与者发声（Mertens, 2010）。涵盖批判理论、女性主义、参与式行动研究、原住民方法论等群体。
 - [[Pragmatic Paradigm|实用主义]] 源自 Peirce、James、Mead、[[John Dewey|Dewey]]。不以任何单一哲学体系为皈依，关注"什么有效"——以研究问题为中心，自由选择最能满足目的的方法。真理是当下有效的，研究始终发生在社会历史情境中。它是混合方法研究的主导哲学。
 
-| 后实证主义 | 建构主义 | 变革主义 | 实用主义 |
+| 后实证主义 | 建构主义 | 变革主义 | [[Pragmatism in China\|实用主义]] |
 |---|---|---|---|
 | 决定论 | 理解 | 政治性 | 关注行动后果 |
 | 还原论 | 多元参与者意义 | 权力与正义导向 | 问题中心 |
@@ -244,4 +248,4 @@ updated: 2026-05-30
 
 ## 来源
 
-<!-- 全书 source record 将在所有章节处理完成后创建；当前来源为 raw/ 中的前言文本。 -->
+- [[Creswell_2022_SAGE]]

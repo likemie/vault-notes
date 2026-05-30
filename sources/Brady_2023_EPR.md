@@ -3,14 +3,14 @@ citation: "Brady, A. C., Griffin, M. M., Lewis, A. R., Fong, C. J., & Robinson, 
 extracted_to:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Recommendations for Practice]]"
-  - "[[Qualitative Research]]"
   - "[[Causal Modeling]]"
   - "[[Intervention Research]]"
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
   - "[[Evidence-Based Education]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Qualitative Research]]"
 processed_date: 2026-05-05
 ---
 

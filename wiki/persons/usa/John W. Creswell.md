@@ -20,10 +20,14 @@ related_methods:
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Qualitative Research]]"
   - "[[Joint Display]]"
+  - "[[Narrative Research]]"
+  - "[[Grounded Theory]]"
+  - "[[Ethnography]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -62,7 +66,7 @@ updated: 2026-05-30
 ## 核心思想
 
 > [!tip]
-> Creswell 的核心贡献在于将[[Mixed Method and Multi-method Research|混合方法研究]]系统化为独立的方法论路径。他主张混合方法不只是量化与质性技术的简单拼接，而是以数据整合为核心特征的第三种研究范式。他提出了聚敛式、解释性序列和探索性序列三种核心混合方法设计，并发展了[[Joint Display|联合展示]]（Joint Display）作为整合分析的关键工具。在[[Qualitative Research|质性研究]]方面，他的五路径框架（叙事研究、[[Phenomenology|现象学]]、扎根理论、民族志、案例研究）已成为广泛使用的教学分类。
+> Creswell 的核心贡献在于将[[Mixed Method and Multi-method Research|混合方法研究]]系统化为独立的方法论路径。他主张混合方法不只是量化与质性技术的简单拼接，而是以数据整合为核心特征的第三种研究范式。他提出了聚敛式、解释性序列和探索性序列三种核心混合方法设计，并发展了[[Joint Display|联合展示]]（Joint Display）作为整合分析的关键工具。在[[Qualitative Research|质性研究]]方面，他的五路径框架（[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、案例研究）已成为广泛使用的教学分类。
 
 ## 影响
 
@@ -74,4 +78,4 @@ updated: 2026-05-30
 
 ## 来源
 
-<!-- 来源待全书 source record 创建后补充 -->
+- [[Creswell_2022_SAGE]]

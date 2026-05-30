@@ -13,11 +13,15 @@ tags:
   - data-collection
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Quantitative Research]]"
+  - "[[Experimental Research]]"
+  - "[[Observational and Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -29,7 +33,7 @@ updated: 2026-05-30
 ## 定义
 
 > [!info]
-> 调查研究（Survey Research）是一种量化研究设计，通过研究一个总体中的样本，提供关于该总体的趋势、态度或意见的量化或数值描述（Fowler, 2008）。调查是[[Quantitative Research|量化研究]]中最常用的设计类型之一，包括使用问卷或结构化访谈进行数据收集，目的是从样本推广到总体。
+> 调查研究（Survey Research）是一种[[Quantitative Research|量化研究]]设计，通过研究一个总体中的样本，提供关于该总体的趋势、态度或意见的量化或数值描述（Fowler, 2008）。调查是[[Quantitative Research|量化研究]]中最常用的设计类型之一，包括使用问卷或结构化访谈进行数据收集，目的是从样本推广到总体。
 
 ## 研究程序
 
@@ -53,7 +57,7 @@ updated: 2026-05-30
 
 > [!success]
 > - 需要了解某一总体的态度、意见、行为趋势或特征分布时。
-> - 适合描述性和相关性研究问题。
+> - 适合描述性和[[Observational and Correlational Research|相关性研究]]问题。
 > - 横截面设计适合在单一时间点进行快照式描述，纵向设计适合追踪变化趋势。
 
 ## 局限性
@@ -65,4 +69,4 @@ updated: 2026-05-30
 
 ## 来源
 
-<!-- 来源待全书 source record 创建后补充 -->
+- [[Creswell_2022_SAGE]]
