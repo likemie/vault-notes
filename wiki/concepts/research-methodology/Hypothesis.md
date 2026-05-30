@@ -1,12 +1,11 @@
 ---
 title: Hypothesis
 aliases:
-  - 假设
   - 研究假设
   - 预测性假设
   - research hypothesis
   - hypotheses
-summary: "对特定事件或变量间关系的预测性陈述，通过重复检验积累为理论，是连接量化研究理论与数据收集的核心环节"
+summary: 对特定事件或变量间关系的预测性陈述，通过重复检验积累为理论，是连接量化研究理论与数据收集的核心环节
 type: concept
 tags:
   - subject/research-methodology
