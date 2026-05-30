@@ -4,9 +4,17 @@ aliases: ["研究伦理", "研究伦理规范", "research ethics in social scien
 summary: "贯穿研究全过程的一套伦理原则和实践策略，涵盖研究前 IRB 审批与知情同意、研究中避免欺骗与剥削、研究后诚实报告与数据保护，各专业协会均发布伦理守则作为行业标准"
 type: concept
 tags: [method/research-ethics, theme/research-governance]
-related_concepts: []
+related_concepts:
+  - "[[Institutional Review Board]]"
+  - "[[Informed Consent]]"
+  - "[[Hypothesis]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Quantitative Research]]"
+  - "[[Qualitative Research]]"
+  - "[[Experimental Research]]"
+  - "[[Survey Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -23,7 +31,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 研究伦理是一套贯穿研究全过程的伦理原则和操作策略，涵盖从研究设计到成果发表的每一个阶段。伦理问题出现在质性、量化和混合方法研究中，且遍及研究的各个阶段。在研究中预见并书面说明伦理问题及其应对策略，是高质量研究写作的基石（Creswell & Creswell, 2022, 第4章）。
+> 研究伦理是一套贯穿研究全过程的伦理原则和操作策略，涵盖从研究设计到成果发表的每一个阶段。伦理问题出现在质性、量化和[[Mixed Method and Multi-method Research|混合方法研究]]中，且遍及研究的各个阶段。在研究中预见并书面说明伦理问题及其应对策略，是高质量研究写作的基石（Creswell & Creswell, 2022, 第4章）。
 
 ## 核心要素
 
@@ -44,11 +52,11 @@ updated: 2026-05-31
 | American Nurses Association (ANA) | Nursing Code of Ethics | 2015 |
 | American Medical Association (AMA) | Code of Ethics | 2016 |
 
-**IRB 审批。** 详见 [[Institutional Review Board (IRB)|IRB]]。
+**[[Institutional Review Board|IRB]] 审批。** 详见 [[Institutional Review Board|IRB]]。
 
 **获得现场许可。** 需向研究场所的负责人（gatekeepers）提交书面申请，说明研究时长、潜在影响和预期成果。涉及网络问卷或电子访谈时，先获许可再发送。
 
-**选择无利益关系的研究场所。** 选择研究者对结果没有个人利害关系的场所，以保持量化研究的客观性或质性研究中多元视角的完整呈现。
+**选择无利益关系的研究场所。** 选择研究者对结果没有个人利害关系的场所，以保持[[Quantitative Research|量化研究]]的客观性或[[Qualitative Research|质性研究]]中多元视角的完整呈现。
 
 **发表署名协商。** 若计划发表（如学位论文项目），在研究开始前就作者顺序和贡献达成初步理解。需避免两种不伦理行为：
 
@@ -67,7 +75,7 @@ updated: 2026-05-31
 ### 数据收集阶段
 
 - **尊重研究场所并减少干扰**：在质性研究的长时间观察或访谈中，选择不干扰参与者活动的访问时间
-- **确保所有参与者受益**：在实验研究中，通过等候名单设计使对照组也能接受有益处理
+- **确保所有参与者受益**：在[[Experimental Research|实验研究]]中，通过等候名单设计使对照组也能接受有益处理
 - **与合作者建立互惠关系**：在质性研究中，让参与者在设计、数据收集分析、报告撰写和发现传播中全程参与
 - **避免欺骗**：在数据收集开始前再次提醒参与者研究目的
 - **识别并处理权力失衡**：访谈者需要意识到自己与参与者之间存在权力不对等，应考虑访谈如何改善参与者的生活、减少压力并为他们发声
@@ -76,9 +84,9 @@ updated: 2026-05-31
 
 ### 数据分析阶段
 
-- **避免偏袒**：在质性研究中不要只报告对参与者有利的结果；在量化研究中不要忽视证伪个人假设的数据
+- **避免偏袒**：在质性研究中不要只报告对参与者有利的结果；在量化研究中不要忽视证伪个人[[Hypothesis|假设]]的数据
 - **避免选择性报告**：质性研究需报告完整的发现范围，包括与主题相反的结果；量化研究的数据分析应完整呈现统计检验结果
-- **保护参与者隐私**：调查研究中在编码和记录阶段将姓名与回答分离；质性研究中使用化名或假名
+- **保护参与者隐私**：[[Survey Research|调查研究]]中在编码和记录阶段将姓名与回答分离；质性研究中使用化名或假名
 
 ### 报告、分享和存储数据阶段
 

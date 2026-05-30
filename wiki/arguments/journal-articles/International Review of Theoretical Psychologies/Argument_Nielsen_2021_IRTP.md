@@ -20,6 +20,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Literature Review]]"
   - "[[Effect Size]]"
+  - "[[Coherence in Writing]]"
   - "[[Didaktik]]"
   - "[[Variable]]"
   - "[[Feedback]]"
@@ -73,7 +74,7 @@ updated: '2026-05-18'
 >
 > 作者指出一个关键点：**Hattie 自己明确表示数据不是重点，重点是理论综合**。Hattie 说："I am a measurement researcher, I am a statistician, I am not a theoretician... But of course I have a very strong model of teaching"（Knudsen, 2017, p. 259）。
 >
-> Hattie 的目标是解决证据本位研究缺乏连贯性的问题，创建一个"统一的[[Didaktik|教学理论]]"使教师与之对齐。但是 Hattie 所称的"理论"实际上是一种"无意识理论"（unconscious theory, Costall, 2013）——它虽未被明确阐述，但对 VL 的实际内容施加了巨大影响（pp. 79-80）。
+> Hattie 的目标是解决证据本位研究缺乏[[Coherence in Writing|连贯性]]的问题，创建一个"统一的[[Didaktik|教学理论]]"使教师与之对齐。但是 Hattie 所称的"理论"实际上是一种"无意识理论"（unconscious theory, Costall, 2013）——它虽未被明确阐述，但对 VL 的实际内容施加了巨大影响（pp. 79-80）。
 >
 > ### 3. [[Technical Rationality|技术理性]]作为 VL 的理论内核
 >

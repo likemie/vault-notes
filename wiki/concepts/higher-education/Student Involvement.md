@@ -17,6 +17,7 @@ related_concepts:
   - "[[Academic and Social Integration]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
+  - "[[Coherence in Writing]]"
   - "[[Cultural Capital]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
@@ -90,7 +91,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - 大量实证研究验证了涉入-成果的正向关联：学生涉入程度越高，学习成果、满意度和毕业率越高（[[Yajun Zheng|郑雅君]]，2023，引 Pascarella & Terenzini, 2005）
-> - 在郑雅君（2023）的操作化中，Astin 关于涉入兼具量与质特征的公理指导了对 [[Academic Engagement|学业投入]] 和 [[Social Engagement|社会性投入]] 的多指标三角互证设计——问卷提供投入"量"的指标，访谈通过叙述的连贯性和方向性判断投入的"质"（郑雅君，2023）
+> - 在郑雅君（2023）的操作化中，Astin 关于涉入兼具量与质特征的公理指导了对 [[Academic Engagement|学业投入]] 和 [[Social Engagement|社会性投入]] 的多指标三角互证设计——问卷提供投入"量"的指标，访谈通过叙述的[[Coherence in Writing|连贯性]]和方向性判断投入的"质"（郑雅君，2023）
 
 ---
 

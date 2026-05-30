@@ -3016,6 +3016,17 @@
     ]
   },
   {
+    "title": "Coherence in Writing",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Coherence in Writing.md",
+    "aliases": [
+      "连贯性",
+      "写作连贯性",
+      "writing coherence",
+      "textual coherence"
+    ]
+  },
+  {
     "title": "Confidence Interval",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Confidence Interval.md",
@@ -3158,9 +3169,9 @@
     ]
   },
   {
-    "title": "Institutional Review Board (IRB)",
+    "title": "Institutional Review Board",
     "type": "concept",
-    "path": "wiki/concepts/research-methodology/Institutional Review Board (IRB).md",
+    "path": "wiki/concepts/research-methodology/Institutional Review Board.md",
     "aliases": [
       "IRB",
       "机构审查委员会",
@@ -3220,6 +3231,19 @@
     "path": "wiki/concepts/research-methodology/Methodological Nationalism.md",
     "aliases": [
       "方法论民族主义"
+    ]
+  },
+  {
+    "title": "Narrative Thought Types",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Narrative Thought Types.md",
+    "aliases": [
+      "叙事思想类型",
+      "Tarshis narrative thoughts",
+      "umbrella thoughts",
+      "attention thoughts",
+      "伞式思想",
+      "注意力思想"
     ]
   },
   {

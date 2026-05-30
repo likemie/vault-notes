@@ -15,6 +15,7 @@ related_concepts:
   - "[[Student Involvement]]"
   - "[[Academic and Social Integration]]"
   - "[[Cultural Capital]]"
+  - "[[Coherence in Writing]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Goal-Controlled Mode]]"
@@ -98,7 +99,7 @@ updated: '2026-05-18'
 > - Stuber（2009）对美国大学生的研究发现，积极参与课外活动是一种回报丰厚的投入——既是积累[[Cultural Capital|文化资本]]和社会资本的关键渠道，也是显露阶级差异之所：与第一代大学生相比，社会出身优势的学生自带乐于进行社会性参与的文化倾向（郑雅君，2023，引 Stuber, 2009）
 
 > [!info]- 郑雅君（2023）的操作化设计
-> 郑雅君（2023）通过多维度操作化测量投入的量与质。问卷提供投入"量"的指标，访谈通过叙述的连贯性和方向性判断投入的"质"——二者构成量-质三角互证。各维度的详细理论定义见 [[Academic Engagement]] 和 [[Social Engagement]]。
+> 郑雅君（2023）通过多维度操作化测量投入的量与质。问卷提供投入"量"的指标，访谈通过叙述的[[Coherence in Writing|连贯性]]和方向性判断投入的"质"——二者构成量-质三角互证。各维度的详细理论定义见 [[Academic Engagement]] 和 [[Social Engagement]]。
 >
 > | 投入维度 | 量化指标（问卷） | 质性追问（访谈） |
 > |---------|---------------|---------------|

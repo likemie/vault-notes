@@ -30,7 +30,6 @@ extracted_to:
   - "[[J. David Creswell]]"
   - "[[John W. Creswell]]"
   - "[[Julian B. Rotter]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Constructivist Paradigm]]"
   - "[[Crotty's Four Levels of Research Design]]"
   - "[[Exogenous and Endogenous Variables]]"
@@ -49,6 +48,12 @@ extracted_to:
   - "[[Robert E. Stake]]"
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Coherence in Writing]]"
+  - "[[Hook and Eye Technique]]"
+  - "[[Institutional Review Board]]"
+  - "[[Narrative Thought Types]]"
+  - "[[Research Ethics]]"
 processed_date: 2026-05-30
 ---
 
