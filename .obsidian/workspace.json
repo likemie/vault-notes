@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/educational-philosophy/Pragmatism (Research Worldview).md",
+                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pragmatism (Research Worldview)"
+              "title": "Argument_Creswell_2022_SAGE"
             }
           }
         ]
@@ -190,8 +190,12 @@
   },
   "active": "cf4bbb8cde350903",
   "lastOpenFiles": [
+    "wiki/methods/mixed/Mixed Method and Multi-method Research.md",
+    "wiki/concepts/educational-philosophy/Constructivist Worldview.md.tmp.53989.52935a0c12f7",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
     "wiki/concepts/educational-philosophy/Pragmatism (Research Worldview).md",
+    "wiki/concepts/educational-philosophy/Pragmatic Worldview.md",
+    "wiki/concepts/educational-philosophy/Constructivist Worldview.md",
     "wiki/methods/qualitative/Qualitative Research.md.tmp.53989.7546f6e7fbc2",
     "wiki/methods/qualitative/Qualitative Research.md",
     "wiki/concepts/educational-philosophy/Postpositivism.md",
@@ -222,9 +226,6 @@
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Gilison_Wilson_2025_UniversityStartups.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Teng_2025_CE.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
-    "wiki/arguments/journal-articles/Cogent Education/Argument_Schaffar_2024_CogentEdu.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md",
-    "books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025.pdf",
     "books/郑_2023_上海三联书店/figures/学校情况.jpeg",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",

@@ -29,21 +29,21 @@ updated: 2026-05-30
 ## 定义
 
 > [!info]
-> 扎根理论（Grounded Theory）是一种源自社会学的质性研究设计。研究者通过多阶段数据收集和信息类别的精炼与相互关系，从参与者的视角中归纳推导出一个关于某一过程、行动或互动的一般性抽象理论。该理论根植于（grounded in）参与者的观点和数据之中（Charmaz, 2006; Corbin & Strauss, 2007, 2015）。
+> 扎根理论（Grounded Theory）是一种源自社会学的质性研究设计。研究者通过多阶段数据收集和信息类别的精炼与相互关系，从参与者的视角中归纳推导出一个关于某一过程、行动或互动的一般性抽象理论。该理论根植于（grounded in）参与者的观点和数据之中（Charmaz, 2006; Corbin & Strauss, 2007, 2015）。其主要代表人物包括 Charmaz（建构主义取向）、Corbin 和 Strauss（系统化取向），以及创始者 Glaser 和 Strauss（1967）。
 
 ## 研究程序
 
 > [!example]
 > - 采用理论抽样（theoretical sampling），根据理论发展的需要选择后续参与者或数据来源。
 > - 通过开放式编码（open coding）、主轴编码（axial coding）和选择性编码（selective coding）的多阶段过程分析数据。
-> - 持续比较法（constant comparison）：在数据收集和分析之间不断来回，精炼类别及其关系。
+> - 持续比较法（constant comparison），在数据收集和分析之间不断来回，精炼类别及其关系。
 > - 撰写备忘录（memoing）记录理论构建过程中的想法和决定。
 > - 当新数据不再产生新的理论见解时达到理论饱和（theoretical saturation）。
 
 ## 方法变体与相近方法
 
 > [!tip]
-> - [[Constructivist Grounded Theory]] — Charmaz (2006) 发展的建构主义版本，更强调研究者与参与者在意义建构中的共同作用，承认理论的建构性而非发现性。
+> - [[Constructivist Grounded Theory]] — Charmaz (2006) 发展的建构主义版本，更强调研究者与参与者在意义建构中的共同作用，强调理论的建构性而非发现式生成。
 > - vs [[Phenomenology|现象学]] — 现象学聚焦于描述某一现象的本质体验，扎根理论的目标是生成解释过程或行动的理论。
 > - vs [[Ethnography]] — 民族志聚焦于描述整个文化群体的共享模式，扎根理论则聚焦于某一具体过程或行动。
 

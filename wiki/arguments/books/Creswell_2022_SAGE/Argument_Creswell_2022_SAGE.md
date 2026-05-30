@@ -36,7 +36,7 @@ updated: 2026-05-30
 | 章节 | 内容概要 | 主要关联条目 |
 |---|---|---|
 | 前言 | 介绍教材的写作目的、面向读者、格式特色、第六版新增内容，以及全书两大部分共十章的结构概览。全书核心线索是量化、质性与混合方法三种研究路径的系统比较。 | [[Qualitative Research]], [[Mixed Method and Multi-method Research]], [[Joint Display]] |
-| 第1章 研究路径的选择 | 界定量化、质性和混合方法三种研究路径，建立"世界观—设计—方法"三层框架，逐一介绍后实证主义、建构主义、变革主义和实用主义四种哲学世界观，列出量化、质性和混合方法的主要研究设计类型，讨论选择研究路径的三项标准（研究问题、个人经验、受众）。 | [[Qualitative Research]], [[Quantitative Research]], [[Mixed Method and Multi-method Research]], [[Postpositivism]], [[Constructivism (Worldview)]] |
+| 第1章 研究路径的选择 | 界定量化、质性和混合方法三种研究路径，建立"世界观、设计、方法"三层框架，逐一介绍后实证主义、建构主义、变革主义和实用主义四种哲学世界观，列出量化、质性和混合方法的主要研究设计类型，讨论选择研究路径的三项标准（研究问题、个人经验、受众）。 | [[Qualitative Research]], [[Quantitative Research]], [[Mixed Method and Multi-method Research]], [[Postpositivism]], [[Constructivist Worldview]] |
 | 第2章 文献综述 | 介绍研究主题的确定、文献检索步骤、计算机数据库使用、文献质量评估、文献地图绘制和文献摘要撰写。说明量化、质性和混合方法研究中文献综述的不同角色。 | |
 | 第3章 理论的使用 | 讨论理论在三种研究路径中的不同作用。量化研究中，理论提供变量间关系的解释模型；质性研究中，理论作为观察透镜或在研究过程中生成；混合方法研究则以多种方式运用理论。 | |
 | 第4章 写作策略与伦理考量 | 提供研究计划的整体结构模型，分别给出量化、质性和混合方法计划的写作大纲，讨论清晰连贯的写作策略，以及研究前、研究中、研究后各阶段的伦理问题。 | |
@@ -98,9 +98,9 @@ updated: 2026-05-30
 
 #### 概览
 
-[[John W. Creswell]]，密歇根大学家庭医学教授、密歇根混合方法项目高级研究科学家，著有 33 本关于混合方法研究、[[Qualitative Research|质性研究]]和研究设计的著作。曾任内布拉斯加大学林肯分校 Clifton 讲座教授，创办 [[Sage]] 出版的 Journal of Mixed Methods Research，2014 年成为混合方法国际研究协会（MMIRA）创始主席。2008 年、2012 年分别赴南非和泰国任富布赖特高级学者。2011 年共同主持 NIH"健康科学中混合方法研究最佳实践"工作组，2017 年参与撰写 APA 质性与混合方法研究标准。2016 年获南非比勒陀利亚大学荣誉博士学位，2018 年 Qualitative Inquiry and Research Design 获 McGuffey Longevity Award。
+[[John W. Creswell]]，混合方法研究方法论学者，创办 Journal of Mixed Methods Research 并任混合方法国际研究协会创始主席，详见其人物页面。
 
-[[J. David Creswell]]，卡内基梅隆大学 William S. Dietrich II 心理学教授，健康与人类表现实验室主任。研究以量化方法为主，聚焦压力下的心理韧性机制。已发表 75 篇以上同行评审论文，共同主编 Handbook of Mindfulness (2015)。2011 年获 APS 早期职业奖，2014 年获 APA 早期职业奖，2017 年获美国心身医学学会早期职业奖。有 16 年研究方法课程教学经验。与父亲 John W. Creswell 的长期合作延伸至本书第六版。
+[[J. David Creswell]]，卡内基梅隆大学心理学教授，研究方向为压力下的心理韧性，与 John W. Creswell 合著本书，详见其人物页面。
 
 ---
 
@@ -142,26 +142,45 @@ updated: 2026-05-30
 
 #### 概览
 
-第1章建立了全书的概念框架。研究路径（Research Approach）又称方法论（Methodology），是从宽泛的哲学假设到具体的数据收集、分析和解释方法的完整程序。研究路径的选择涉及三个层次的交织：
+第1章建立了全书的概念框架。研究路径（Research Approach）又称方法论（Methodology），是从宽泛的哲学假设到具体的数据收集、分析和解释方法的完整程序。研究路径的选择涉及三个层次的交织。
 
-1. **哲学世界观（Philosophical Worldviews）**：研究者带入研究的基本信念体系，Guba (1990) 将其定义为"引导行动的一套基本信念"（p.17）。本章讨论四种世界观：
-   - [[Postpositivism|后实证主义]]：传统科学方法，持决定论和还原论立场，通过观察与测量检验理论。
-   - [[Constructivism (Worldview)|建构主义]]：个体通过与世界的互动和社会历史背景建构主观意义，研究目标在于理解参与者的多元视角。
-   - [[Transformative Worldview|变革主义]]：研究必须与政治和变革议程交织，以对抗社会压迫、赋权边缘群体为核心。
-   - [[Pragmatism (Research Worldview)|实用主义]]：不以任何单一哲学体系为皈依，关注问题解决和实际后果，是混合方法研究的哲学基础。
+1. **哲学世界观（Philosophical Worldviews）** 是研究者带入研究的基本信念体系，Guba (1990) 将其定义为"引导行动的一套基本信念"（p.17）。本章讨论四种世界观。
+   - [[Postpositivism|后实证主义]] 持决定论和还原论立场，通过观察与测量检验理论。
+   - [[Constructivist Worldview|建构主义]] 认为个体通过与世界的互动和社会历史背景建构主观意义，研究目标在于理解参与者的多元视角。
+   - [[Transformative Worldview|变革主义]] 要求研究必须与政治和变革议程交织，以对抗社会压迫、赋权边缘群体为核心。
+   - [[Pragmatic Worldview|实用主义]] 不以任何单一哲学体系为皈依，关注问题解决和实际后果，是混合方法研究的哲学基础。
 
-2. **研究设计（Research Designs）**：在宽泛方法论之内的具体研究操作类型。量化设计包括[[Survey Research|调查研究]]和[[Experimental Research|实验研究]]；质性设计包括[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]和[[Case Study|案例研究]]；混合方法设计包括[[Convergent Mixed Methods Design|聚敛式]]、[[Explanatory Sequential Mixed Methods Design|解释性序列]]和[[Exploratory Sequential Mixed Methods Design|探索性序列]]三种核心设计，以及多种复杂设计。
+2. **研究设计（Research Designs）** 是在宽泛方法论之内的具体研究操作类型。量化设计包括[[Survey Research|调查研究]]和[[Experimental Research|实验研究]]；质性设计包括[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]和[[Case Study|案例研究]]；混合方法设计包括[[Convergent Mixed Methods Design|聚敛式]]、[[Explanatory Sequential Mixed Methods Design|解释性序列]]和[[Exploratory Sequential Mixed Methods Design|探索性序列]]三种核心设计，以及多种复杂设计。
 
-3. **研究方法（Research Methods）**：具体的数据收集、分析和解释技术，涵盖从预设的封闭式工具到开放的、涌现的质性方法之间的连续谱。
+3. **研究方法（Research Methods）** 是具体的数据收集、分析和解释技术，涵盖从预设的封闭式工具到开放的、涌现的质性方法之间的连续谱。
 
-本章对三种路径给出了正式定义：
-- [[Qualitative Research|质性研究]]是探索和理解个体或群体赋予社会或人类问题之意义的研究路径，以归纳式数据分析、自然情境中的资料收集和灵活的报告结构为特征。
-- [[Quantitative Research|量化研究]]是通过检验变量间关系或群体间比较来验证客观理论的研究路径，以演绎式理论检验、标准化测量工具和统计程序为特征。
-- [[Mixed Method and Multi-method Research|混合方法研究]]是同时收集量化与质性数据、使用特定设计整合两类数据并从中得出整合性推论（metainferences）的研究路径。
+本章对三种路径给出了正式定义。
+- [[Qualitative Research|质性研究]] 探索和理解个体或群体赋予社会或人类问题之意义，以归纳式数据分析、自然情境中的资料收集和灵活的报告结构为特征。
+- [[Quantitative Research|量化研究]] 通过检验变量间关系或群体间比较来验证客观理论，以演绎式理论检验、标准化测量工具和统计程序为特征。
+- [[Mixed Method and Multi-method Research|混合方法研究]] 同时收集量化与质性数据，使用特定设计整合两类数据并从中得出整合性推论（metainferences）。
 
-三种路径并非截然对立，而是一个连续谱的两端，混合方法位于中间位置。
+三种路径构成一个连续谱，混合方法位于中间位置。
 
-选择研究路径时，除世界观、设计和方法的匹配外，还需考虑三个因素：研究问题本身的性质（如需要识别影响因素则适合量化，探索新现象则适合质性，单一方法不足以回答问题时适合混合方法）；研究者的个人训练和经验背景；以及目标受众的接受程度。
+选择研究路径时，除世界观、设计和方法的匹配外，还需考虑研究问题本身的性质（如需要识别影响因素则适合量化，探索新现象则适合质性，单一方法不足以回答问题时适合混合方法）、研究者的个人训练和经验背景，以及目标受众的接受程度。
+
+##### 核心术语定义（Table 1.1）
+
+| 术语 | 定义 |
+|---|---|
+| 哲学假设（Philosophical Assumptions） | 研究开始前，研究者带入研究过程的一组信念和价值观，强调研究者认为在研究中最重要的东西。哲学假设源自个人在特定学科的训练、先前的研究经验和文化环境。 |
+| 研究路径（Research Approach） | 亦称研究方法论（Research Methodology），代表历史上出现的不同类型的研究。本章介绍三种宽泛的方法论：量化、质性和混合方法。 |
+| 研究设计（Research Design） | 在宽泛方法论之内开展研究的具体方式。每种设计有其特定的研究操作程序。 |
+| 研究方法（Research Methods） | 在特定设计内，研究者收集数据、分析数据并解释其意义的具体技术。 |
+
+##### 研究设计类型一览（Table 1.3）
+
+| 量化设计 | 质性设计 | 混合方法设计 |
+|---|---|---|
+| 实验与准实验 | 叙事研究 | 聚敛式 |
+| 单受试者 | 现象学 | 解释性序列 |
+| 非实验（如调查） | 扎根理论 | 探索性序列 |
+| 纵向研究 | 民族志 | 含嵌入核心设计的复杂设计 |
+| 描述性方法 | 案例研究 | |
 
 ##### 四种世界观对照
 
