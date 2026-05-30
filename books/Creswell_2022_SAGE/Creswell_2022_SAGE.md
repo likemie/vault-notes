@@ -51,9 +51,12 @@ extracted_to:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Coherence in Writing]]"
   - "[[Hook and Eye Technique]]"
+  - "[[Informed Consent]]"
   - "[[Institutional Review Board]]"
   - "[[Narrative Thought Types]]"
   - "[[Research Ethics]]"
+  - "[[Voice, Tense, and Concision in Academic Writing]]"
+  - "[[Writing Habit]]"
 processed_date: 2026-05-30
 ---
 

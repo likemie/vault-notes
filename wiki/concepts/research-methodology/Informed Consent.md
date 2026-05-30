@@ -4,7 +4,9 @@ aliases: ["知情同意", "知情同意书", "informed consent form"]
 summary: "研究伦理中的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险、收益和权利，参与者自愿签署同意后方可参与研究"
 type: concept
 tags: [method/research-ethics, theme/research-procedure]
-related_concepts: []
+related_concepts:
+  - "[[Research Ethics]]"
+  - "[[Institutional Review Board]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -23,7 +25,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 知情同意是研究伦理的基本程序。研究者在收集数据之前，须向潜在参与者提供一份书面文件，说明研究的各项关键信息，参与者阅读后在完全自愿的基础上签署同意。知情同意既是法律要求（美国联邦法规对 IRB 审批的规定），也是研究伦理的基石。参与是自愿的，研究者不得强迫参与者签署同意书（Creswell & Creswell, 2022, 第4章）。
+> 知情同意是[[Research Ethics|研究伦理]]的基本程序。研究者在收集数据之前，须向潜在参与者提供一份书面文件，说明研究的各项关键信息，参与者阅读后在完全自愿的基础上签署同意。知情同意既是法律要求（美国联邦法规对 [[Institutional Review Board|IRB]] 审批的规定），也是研究伦理的基石。参与是自愿的，研究者不得强迫参与者签署同意书（Creswell & Creswell, 2022, 第4章）。
 
 > [!quote]
 > "Participation in a study is voluntary, and this needs explanation in the informed consent form instructions."（Creswell & Creswell, 2022, 第4章）
@@ -44,6 +46,8 @@ updated: 2026-05-31
 8. **自愿退出权**：明确声明参与者可以在任何时间无惩罚退出
 9. **联系人信息**：出现疑问时可联系的人员
 
+---
+
 ## 操作注意事项
 
 研究者在使用知情同意书时须注意以下要点（Creswell & Creswell, 2022, 第4章）：
@@ -57,9 +61,11 @@ updated: 2026-05-31
 > [!warning]
 > 知情同意并非一次性签字即告完成。研究者在整个研究过程中持续负有告知义务——如果研究方案发生变化，可能需要重新获得同意。
 
+---
+
 ## 相关案例／政策
 
-- 美国联邦法规（Common Rule, 45 CFR 46）规定了 IRB 审批和知情同意的法律框架
+- 美国联邦法规（Common Rule, 45 CFR 46）规定了 [[Institutional Review Board|IRB]] 审批和知情同意的法律框架
 - 各专业协会（APA、AERA、ASA 等）的伦理守则均将知情同意列为强制性程序
 
 ## 来源

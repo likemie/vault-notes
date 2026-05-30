@@ -44,6 +44,8 @@ updated: 2026-05-31
 > [!example]
 > Creswell & Creswell (2022, 第4章) 展示了一位学生[[Qualitative Research|质性研究]]计划引言段落的钩眼分析实例（Figure 4.1）。该段落围绕"at-risk students"主题展开，每句话的关键词通过钩眼连线呈现清晰的链条：They → students → athletes → Those → students → They → they → students-at-risk → at-risk student → problems → early reform → the needs of the marginal student → students → at-risk student → at-risk students → topic → at-risk issue → research → Others → Still others → research and studies by → shift the → students → discover if there → researcher who — 一条始终围绕核心主题的连贯链条。
 
+---
+
 ## 适用语境
 
 钩眼技术适用于各类学术文本，包括：
