@@ -16,8 +16,10 @@ tags:
 related_concepts:
   - "[[Academic Capitalism]]"
   - "[[Champ]]"
+  - "[[Matthew Effect in Academia]]"
   - "[[Global Universities Rankings]]"
   - "[[New Public Management]]"
+  - "[[Sociology of Valuation and Evaluation]]"
 related_theories:
   - "[[Neo-feudalism in Higher Education]]"
 related_methods: []
@@ -50,7 +52,7 @@ updated: 2026-06-01
 
 > [!example]
 > - vs [[Academic Capitalism]]：学术资本主义关注市场逻辑如何渗透学术生产——侧重制度转型和经济维度；非货币竞争则解释为何学术领域的"市场"从根本上不同于经济市场——因为竞争的核心通货不是金钱而是符号认可。两者互为补充而非替代。
-> - vs 货币竞争：常规市场中的竞争由价格、利润和供需机制驱动；非货币竞争由声誉、引用数、排名位置和同行评价驱动。但两者在实践中相互交织——高排名往往转化为经济资源（拨款、捐赠），而经济资源又进一步巩固符号地位，形成制度化的马太效应（Schulze-Cleven et al., 2017, pp.801–802）。
+> - vs 货币竞争：常规市场中的竞争由价格、利润和供需机制驱动；非货币竞争由声誉、引用数、排名位置和同行评价驱动。但两者在实践中相互交织——高排名往往转化为经济资源（拨款、捐赠），而经济资源又进一步巩固符号地位，形成[[Matthew Effect in Academia|制度化的马太效应]]（Schulze-Cleven et al., 2017, pp.801–802）。
 
 ## 核心表现形态
 
@@ -67,7 +69,7 @@ updated: 2026-06-01
 
 ### 准市场（Quasi-markets）
 
-基于竞争的国家支出或学术[[New Public Management|新公共管理]]：从英国的 Research Assessment Exercise（1998–2008）和 Research Excellence Framework（自 2014 年起）到德国、法国等国的卓越计划，标准化产出指标被用作资源分配的基础。这一学术版本的"准市场"在部分国家已成为主要的分配机制——并作为制度化的马太效应运作，使资源向已有资源的机构进一步集中（Schulze-Cleven et al., 2017, pp.801–802）。
+基于竞争的国家支出或学术[[New Public Management|新公共管理]]：从英国的 Research Assessment Exercise（1998–2008）和 Research Excellence Framework（自 2014 年起）到德国、法国等国的卓越计划，标准化产出指标被用作资源分配的基础。这一学术版本的"准市场"在部分国家已成为主要的分配机制——并作为[[Matthew Effect in Academia|制度化的马太效应]]运作，使资源向已有资源的机构进一步集中（Schulze-Cleven et al., 2017, pp.801–802）。
 
 ## 理论基础
 
@@ -80,7 +82,7 @@ updated: 2026-06-01
 
 ### 评估与赋值社会学
 
-Lamont（2012）概括的"评估与赋值社会学"（sociology of valuation and evaluation）帮助揭示话语竞争的过程，特别是评估、量化绩效测量和个体与机构序数排名的兴起。该领域研究强调学术质量管理中竞争加剧的非预期负面效应——如引用索引不仅选择性极强地测量研究绩效（Münch, 2013, pp.149–152），还可能通过触发研究者追求狭窄策略而阻碍科学进步（Rogge, 2015, pp.209f; Fang et al., 2012）（Schulze-Cleven et al., 2017, p.798）。
+Lamont（2012）概括的"[[Sociology of Valuation and Evaluation|评估与赋值社会学]]"（sociology of valuation and evaluation）帮助揭示话语竞争的过程，特别是评估、量化绩效测量和个体与机构序数排名的兴起。该领域研究强调学术质量管理中竞争加剧的非预期负面效应——如引用索引不仅选择性极强地测量研究绩效（Münch, 2013, pp.149–152），还可能通过触发研究者追求狭窄策略而阻碍科学进步（Rogge, 2015, pp.209f; Fang et al., 2012）（Schulze-Cleven et al., 2017, p.798）。
 
 ## 与新封建等级的关系
 

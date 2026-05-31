@@ -133,9 +133,11 @@ updated: 2026-05-21
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Kend din virkning"（[[John Hattie|Hattie]], 2015, p.11）
+> > “了解你的影响（Know thy impact）”
+> ("Kend din virkning")（[[John Hattie|Hattie]], 2015, p.11）
 >
-> > "Det er således en disposition til at ønske at kende sin virkning, der ligger i kernen af VL-modellen."（Hattie, 2015, p.12）
+> > “因此，渴望了解自己影响的这种倾向（disposition），正是可见的学习（VL）模型的核心所在。”
+> ("Det er således en disposition til at ønske at kende sin virkning, der ligger i kernen af VL-modellen.")（Hattie, 2015, p.12）
 
 ## 局限性与批评
 

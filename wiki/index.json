@@ -1592,6 +1592,17 @@
     ]
   },
   {
+    "title": "Matthew Effect in Academia",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Matthew Effect in Academia.md",
+    "aliases": [
+      "学术马太效应",
+      "高等教育马太效应",
+      "制度化的马太效应",
+      "institutionalized Matthew effect"
+    ]
+  },
+  {
     "title": "Membership-based Research Consortium",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Membership-based Research Consortium.md",
@@ -2849,6 +2860,26 @@
     ]
   },
   {
+    "title": "Quasi-commodification of Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Quasi-commodification of Knowledge.md",
+    "aliases": [
+      "知识的准商品化",
+      "quasi-commodification",
+      "quasi-commodification of knowledge"
+    ]
+  },
+  {
+    "title": "Quasi-markets in Higher Education",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Quasi-markets in Higher Education.md",
+    "aliases": [
+      "高等教育准市场",
+      "academic quasi-markets",
+      "quasi-markets"
+    ]
+  },
+  {
     "title": "Radical Liberal Internationalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Radical Liberal Internationalism.md",
@@ -3723,6 +3754,16 @@
       "social justice framework",
       "emancipatory theory",
       "transformative theory"
+    ]
+  },
+  {
+    "title": "Sociology of Valuation and Evaluation",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Sociology of Valuation and Evaluation.md",
+    "aliases": [
+      "评估与赋值社会学",
+      "sociology of evaluation",
+      "评估社会学"
     ]
   },
   {

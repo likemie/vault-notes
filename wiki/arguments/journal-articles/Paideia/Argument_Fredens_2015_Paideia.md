@@ -69,7 +69,7 @@ updated: '2026-05-18'
 >
 > ### 反馈文化的核心命题
 >
-> Fredens 将书中信息概括为一项核心文化主张：**"Gør skolen til en feedbackkultur"**（使学校成为反馈文化）。反馈应成为重要的文化工具，既促进学校文化发展，又促进专业合作（Fredens, 2015, p.74）。
+> Fredens 将书中信息概括为一项核心文化主张：**"Gør skolen til en feedbackkultur"**。反馈应成为重要的文化工具，既促进学校文化发展，又促进专业合作（Fredens, 2015, p.74）。
 >
 > ### 从实验室到课堂
 >
@@ -93,13 +93,17 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Der er kort sagt brug for en præcisering af, hvordan vi bedst lærer noget. Så hvad er læring? Det har [[John Hattie]] og Gregory Yates et videnskabeligt bud på."（简言之，我们需要澄清如何最好地学习。那么什么是学习？John Hattie 和 Gregory Yates 对此有科学答案）（Fredens, 2015, p.70）
+> > “简言之，我们需要澄清如何最好地学习。那么什么是学习？[[John Hattie|约翰·哈蒂]]（John Hattie）和 Gregory Yates 对此有一个科学的答案。”
+> ("Der er kort sagt brug for en præcisering af, hvordan vi bedst lærer noget. Så hvad er læring? Det har [[John Hattie]] og Gregory Yates et videnskabeligt bud på.")（Fredens, 2015, p.70）
 >
-> > "Gør skolen til en feedbackkultur."（使学校成为反馈文化）（Fredens, 2015, p.74）
+> > “使学校成为一种反馈文化。”
+> ("Gør skolen til en feedbackkultur.")（Fredens, 2015, p.74）
 >
-> > "Det, der tilegnes let, glemmes let."（轻易获得的东西，轻易被遗忘）（Fredens, 2015, p.71）
+> > “轻易获得的，轻易就会忘记。”
+> ("Det, der tilegnes let, glemmes let.")（Fredens, 2015, p.71）
 >
-> > "En uddannelseskultur skal ikke fikses, men kultiveres; det fordrer et partnerskab mellem lærer og forskning."（教育文化不应被修理，而应被培养；这需要教师与研究之间的伙伴关系）（Fredens, 2015, p.75）
+> > “一种教育文化不应是被修理的，而应是被培养的；这需要教师与研究之间的伙伴关系。”
+> ("En uddannelseskultur skal ikke fikses, men kultiveres; det fordrer et partnerskab mellem lærer og forskning.")（Fredens, 2015, p.75）
 
 ## 局限性与批评
 

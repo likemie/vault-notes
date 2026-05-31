@@ -191,10 +191,15 @@
   },
   "active": "d5cc64116fa9887e",
   "lastOpenFiles": [
+    "sources/Schulze-Cleven_2017_HighEduc.md",
+    "scripts/translate_quotes_batch_13.py",
+    "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HighEduc.md",
+    "wiki/concepts/political-economy-geopolitics/Quasi-commodification of Knowledge.md",
+    "wiki/concepts/higher-education/Matthew Effect in Academia.md",
+    "wiki/concepts/research-methodology/Sociology of Valuation and Evaluation.md",
+    "wiki/concepts/political-economy-geopolitics/Quasi-markets in Higher Education.md",
     "scripts/translate_quotes_batch_12.py",
     "scripts/translate_quotes_batch_11.py",
-    "sources/Schulze-Cleven_2017_HighEduc.md",
-    "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HighEduc.md",
     "wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Wong_2022_HERD.md",
     "scripts/translate_quotes_batch_10.py",
     "sources/Schulze-Cleven_2017_HighEduc.pdf",
@@ -217,15 +222,9 @@
     "wiki/concepts/research-methodology/Variable.md",
     "wiki/concepts/research-methodology/Manipulation Check.md",
     "wiki/methods/quantitative/Random Assignment.md",
-    "scripts/translate_quotes_batch_6.py",
     "wiki/concepts/sociology-of-education/Tracking.md",
     "wiki/methods/quantitative/Analysis of Covariance.md",
     "wiki/methods/quantitative/Survey Research.md",
-    "wiki/concepts/research-methodology/Internal Consistency and Cronbach's Alpha.md",
-    "wiki/concepts/research-methodology/Construct Validity in Quantitative Measurement.md",
-    "wiki/methods/quantitative/Pilot Testing.md",
-    "wiki/methods/quantitative/Multiple Regression.md",
-    "wiki/concepts/research-methodology/Internal Consistency (Cronbach's Alpha).md",
-    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md.tmp.40504.52b79276f08c"
+    "wiki/concepts/research-methodology/Internal Consistency and Cronbach's Alpha.md"
   ]
 }

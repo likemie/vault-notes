@@ -16,6 +16,7 @@ related_concepts:
   - "[[Entrepreneurial University]]"
   - "[[University-Industry Collaboration]]"
   - "[[Corporate University]]"
+  - "[[Quasi-markets in Higher Education]]"
   - "[[Knowledge Capitalism]]"
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
@@ -43,7 +44,7 @@ updated: 2026-06-01
 > [!info]
 > 学术资本主义（Academic Capitalism）是 Slaughter & Leslie（1997）在 Politics, Policies, and the [[Entrepreneurial University]] 中提出的概念，后由 Slaughter & Rhoades（2004）在 Academic Capitalism and the New Economy 中进一步扩展。它描述了高等教育机构和学术人员如何日益卷入市场导向的活动——包括专利商业化、[[University-Industry Collaboration|产学合作]]、竞争性拨款和创收项目——从而将学术生产与资本积累逻辑深度绑定（Schulze-Cleven et al., 2017, pp.797–798）。
 
-该概念提供了理解大学市场化、管理治理扩张和竞争压力加剧的重要分析框架。然而，与"创业型大学"（entrepreneurial university）、"[[Corporate University|企业大学]]"（enterprise university）或"市场大学"（market university）等相关概念类似，学术资本主义只能部分解释新学术市场内外复杂的社会过程。与常规价格型市场不同，学术界中扩散的准市场（quasi-markets）和声望竞争并不依赖显性的货币供需机制；在许多情况下，机构并不以财务利润为导向（Schulze-Cleven et al., 2017, p.797）。
+该概念提供了理解大学市场化、管理治理扩张和竞争压力加剧的重要分析框架。然而，与"创业型大学"（entrepreneurial university）、"[[Corporate University|企业大学]]"（enterprise university）或"市场大学"（market university）等相关概念类似，学术资本主义只能部分解释新学术市场内外复杂的社会过程。与常规价格型市场不同，学术界中扩散的准市场（[[Quasi-markets in Higher Education|quasi-markets]]）和声望竞争并不依赖显性的货币供需机制；在许多情况下，机构并不以财务利润为导向（Schulze-Cleven et al., 2017, p.797）。
 
 > [!quote]
 > Slaughter & Rhoades（2004）将学术资本主义定义为院校和教师为获取外部资金而采取的市场行为和类市场行为（Slaughter & Rhoades, 2004, cited in Schulze-Cleven et al., 2017）。
