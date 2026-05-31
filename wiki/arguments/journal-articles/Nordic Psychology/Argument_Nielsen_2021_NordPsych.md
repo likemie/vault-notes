@@ -94,13 +94,17 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "I am a measurement researcher; I am a statistician, I am not a theoretician" ([[John Hattie|Hattie]], in Knudsen, 2017, p.259, cited p.2)
+> > “我是一个测量研究者；我是一个统计学家，我不是一个理论家”
+> ("I am a measurement researcher; I am a statistician, I am not a theoretician") ([[John Hattie|Hattie]], in Knudsen, 2017, p.259, cited p.2)
 >
-> > "This cut was the average effect from 800-plus meta-analyses... It is a threshold to create a story" (Hattie, 2010, p.89, cited p.7)
+> > “这个切分点是来自800多项[[Meta-analysis|元分析]]的平均效应……它是一个用来创造故事的阈值”
+> ("This cut was the average effect from 800-plus meta-analyses... It is a threshold to create a story") (Hattie, 2010, p.89, cited p.7)
 >
-> > "Within this large body of [[Feedback]] research, there are many conflicting findings and no consistent pattern of results" (Shute, 2008, p.153, cited p.9)
+> > “在这大量的反馈研究中，存在许多相互冲突的发现，并没有一致的结果模式”
+> ("Within this large body of [[Feedback]] research, there are many conflicting findings and no consistent pattern of results") (Shute, 2008, p.153, cited p.9)
 >
-> > "The problem occurs when researchers do not explicate how their empirical work is related to and based on theoretical assumptions" (p.3)
+> > “当研究者没有阐明他们的实证工作是如何与理论假设相关并基于理论假设时，问题就出现了”
+> ("The problem occurs when researchers do not explicate how their empirical work is related to and based on theoretical assumptions") (p.3)
 
 ## 局限性与批评
 

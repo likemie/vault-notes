@@ -13,13 +13,21 @@ tags:
   - theme/competition
   - theme/prestige
   - level/higher-ed
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Academic Capitalism]]"
+  - "[[Champ]]"
+  - "[[Global Universities Rankings]]"
+  - "[[New Public Management]]"
+related_theories:
+  - "[[Neo-feudalism in Higher Education]]"
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Pierre Bourdieu]]"
+related_facts:
+  - "[[Academic Ranking of World Universities]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -33,10 +41,10 @@ updated: 2026-06-01
 > [!info]
 > 非货币竞争（Non-monetary Competition）指高等教育和学术领域中不以金钱为唯一交换媒介和成功标准的竞争形式。学术竞争围绕"符号商品"（symbolic goods）——如声望（prestige）、认可（recognition）和区隔（distinction）——展开，这些商品之所以具有价值，是因为学科共同体和更广泛的公众已将其视为代表独特专业知识和智力成就的标志（Schulze-Cleven et al., 2017, pp.797–798）。
 
-这一概念直接回应了学术资本主义（[[Academic Capitalism]]）概念的一个核心局限：与常规价格型市场不同，学术界扩散的准市场和声望竞争并不依赖显性的货币供需机制。在许多情况下，学术机构并不以财务利润为导向，学术人员追求的不仅是经济报酬，更是同行认可和学科地位（Schulze-Cleven et al., 2017, p.797）。
+这一概念直接回应了[[Academic Capitalism|学术资本主义]]（[[Academic Capitalism]]）概念的一个核心局限：与常规价格型市场不同，学术界扩散的准市场和声望竞争并不依赖显性的货币供需机制。在许多情况下，学术机构并不以财务利润为导向，学术人员追求的不仅是经济报酬，更是同行认可和学科地位（Schulze-Cleven et al., 2017, p.797）。
 
 > [!quote]
-> "金钱不是科学和教育场域中唯一的'通货'，因为学术人员之间的竞争也围绕'符号商品'（Bourdieu, 1984）——如声望、认可或区隔——展开。"（Schulze-Cleven et al., 2017, p.797）
+> "金钱不是科学和教育[[Champ|场域]]中唯一的'通货'，因为学术人员之间的竞争也围绕'符号商品'（[[Pierre Bourdieu|Bourdieu]], 1984）——如声望、认可或区隔——展开。"（Schulze-Cleven et al., 2017, p.797）
 
 ## 概念辨析
 
@@ -51,7 +59,7 @@ updated: 2026-06-01
 
 ### 指标化评估与排名
 
-指标体系（影响因子、引用数、拨款金额）将异质的学术质量数据压缩为单一或极少数维度。全球大学排名——从 2003 年上海交通大学的[[Academic Ranking of World Universities|世界大学学术排名]]到 2004 年 Times Higher Education 的[[THE Impact Ranking|世界大学排名]]——为国家和学科层面的既有排名体系增加了普遍性层级。这些工具直接塑造了学术场域中的经济资源分配和政府支出，也影响了声誉——声誉又决定了特定机构对研究者、学生和捐赠者的吸引力（Schulze-Cleven et al., 2017, pp.801–802）。
+指标体系（影响因子、引用数、拨款金额）将异质的学术质量数据压缩为单一或极少数维度。[[Global Universities Rankings|全球大学排名]]——从 2003 年上海交通大学的[[Academic Ranking of World Universities|世界大学学术排名]]到 2004 年 Times Higher Education 的世界大学排名——为国家和学科层面的既有排名体系增加了普遍性层级。这些工具直接塑造了学术[[Champ|场域]]中的经济资源分配和政府支出，也影响了声誉——声誉又决定了特定机构对研究者、学生和捐赠者的吸引力（Schulze-Cleven et al., 2017, pp.801–802）。
 
 ### 同行评审
 
@@ -59,7 +67,7 @@ updated: 2026-06-01
 
 ### 准市场（Quasi-markets）
 
-基于竞争的国家支出或学术新公共管理：从英国的 Research Assessment Exercise（1998–2008）和 Research Excellence Framework（自 2014 年起）到德国、法国等国的卓越计划，标准化产出指标被用作资源分配的基础。这一学术版本的"准市场"在部分国家已成为主要的分配机制——并作为制度化的马太效应运作，使资源向已有资源的机构进一步集中（Schulze-Cleven et al., 2017, pp.801–802）。
+基于竞争的国家支出或学术[[New Public Management|新公共管理]]：从英国的 Research Assessment Exercise（1998–2008）和 Research Excellence Framework（自 2014 年起）到德国、法国等国的卓越计划，标准化产出指标被用作资源分配的基础。这一学术版本的"准市场"在部分国家已成为主要的分配机制——并作为制度化的马太效应运作，使资源向已有资源的机构进一步集中（Schulze-Cleven et al., 2017, pp.801–802）。
 
 ## 理论基础
 
@@ -68,7 +76,7 @@ updated: 2026-06-01
 
 ### 微观社会学实践理论
 
-包括科学社会学的实验室研究（Latour & Woolgar, 1979; Knorr Cetina, 1999）和对高等教育的 Foucault 式权力知识分析（Ball, 1990; Rose, 1996; Angermuller, 2015）。这些后结构主义取向打破了将经济斗争或制度效应置于优先地位的社会学传统（Bourdieu, Weber, Marx），转而强调历史偶然性和权力-知识配置的变迁特征（Schulze-Cleven et al., 2017, pp.797–798）。
+包括科学社会学的实验室研究（Latour & Woolgar, 1979; Knorr Cetina, 1999）和对高等教育的 Foucault 式权力知识分析（Ball, 1990; Rose, 1996; Angermuller, 2015）。这些后结构主义取向打破了将经济斗争或制度效应置于优先地位的社会学传统（[[Pierre Bourdieu|Bourdieu]], Weber, Marx），转而强调历史偶然性和权力-知识配置的变迁特征（Schulze-Cleven et al., 2017, pp.797–798）。
 
 ### 评估与赋值社会学
 

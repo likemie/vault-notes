@@ -12,13 +12,15 @@ tags:
   - theme/marketization
   - region/us
   - level/higher-ed
-related_concepts: []
+related_concepts:
+  - "[[Academic Capitalism]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -32,7 +34,7 @@ updated: 2026-06-01
 > [!info]
 > 高等教育金融化（Financialization of Higher Education）由 Eaton et al.（2016）系统提出，指高等教育的收入来源和支出策略日益由金融机制主导的趋势。这一概念涵盖三个核心层面：大学的借贷和基于捐赠基金的投资、学生贷款及其利息支付、以及营利性高等教育的利润获取。2003 至 2012 年间，美国高等教育中"机构债务利息、营利性机构的运营利润和学生贷款利息的综合实际成本增加了一倍以上"，而这些"上升的金融成本远远超过了增加的金融回报"（Eaton et al., 2016, p.2, p.23f; Schulze-Cleven et al., 2017, pp.800–801）。
 
-与学术资本主义（[[Academic Capitalism]]）关注制度逻辑不同，金融化概念将注意力引向高等教育中金融资本的具体运作机制——金融工具如何重塑大学的优先权和风险结构，以及金融利益如何从学生的教育投资中获利。
+与[[Academic Capitalism|学术资本主义]]（[[Academic Capitalism]]）关注制度逻辑不同，金融化概念将注意力引向高等教育中金融资本的具体运作机制——金融工具如何重塑大学的优先权和风险结构，以及金融利益如何从学生的教育投资中获利。
 
 ## 核心表现
 
@@ -61,7 +63,7 @@ updated: 2026-06-01
 ## 与学术资本主义的关系
 
 > [!example]
-> - 学术资本主义描述了市场的**制度逻辑**如何渗透高等教育，金融化则更具体地关注**金融资本**的运作机制——借贷、利息、投资回报、利润提取
+> - [[Academic Capitalism|学术资本主义]]描述了市场的**制度逻辑**如何渗透高等教育，金融化则更具体地关注**金融资本**的运作机制——借贷、利息、投资回报、利润提取
 > - 金融化可以被视为学术资本主义在金融维度上的深化——当大学不仅像企业一样运作，而且直接成为金融市场上的玩家和被金融工具所塑造的对象时，金融化就发生了
 > - Schulze-Cleven et al.（2017）将金融化列为理解高等教育竞争转型的关键趋势之一，与市场化和指标化评估并列
 

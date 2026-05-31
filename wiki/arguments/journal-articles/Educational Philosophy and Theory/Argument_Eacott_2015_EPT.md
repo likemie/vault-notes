@@ -68,7 +68,8 @@ updated: 2026-05-18
 >
 > **核心主张：**
 >
-> > "A social 'scientific' approach to educational administration, as advocated for in this article, must break free of the ambition of grounding in (rational) reason, the arbitrary division of the social world (e.g. administrators/non-administrators) and instead, take for its object, rather than getting itself caught up in, the struggle for the monopoly of the legitimate representation of the social world."（Eacott, 2015, p.312, 325）
+> > “正如本文所倡导的，一种社会‘科学’的教育行政途径必须摆脱以（理性）理智为基础的野心，摆脱对社会世界的任意划分（例如，管理者/非管理者），相反，它应该将争夺社会世界合法再现的垄断权作为其客体，而不是让自己陷入其中。”
+> ("A social 'scientific' approach to educational administration, as advocated for in this article, must break free of the ambition of grounding in (rational) reason, the arbitrary division of the social world (e.g. administrators/non-administrators) and instead, take for its object, rather than getting itself caught up in, the struggle for the monopoly of the legitimate representation of the social world.")（Eacott, 2015, p.312, 325）
 
 ## 主要发现
 
@@ -81,13 +82,17 @@ updated: 2026-05-18
 ## 关键引用
 
 > [!quote] 关键引用
-> > "administration may derive its most substantive scientific work not from producing countless lists of best practice and essential traits or behaviours, but rather through a constant effort to undertake an informed critique of its own reasoning"（Eacott, 2015, p.318-319）
+> > “行政学可能不是通过炮制无数的最佳实践清单以及基本特征或行为清单，而是通过不断努力对其自身的推理进行有据可依的批判，来得出其最实质性的科学工作”
+> ("administration may derive its most substantive scientific work not from producing countless lists of best practice and essential traits or behaviours, but rather through a constant effort to undertake an informed critique of its own reasoning")（Eacott, 2015, p.318-319）
 >
-> > "the educational administration researcher does not stand outside of the social world they analyse, nor do they look down on it from above. Rather, they themselves are agents in the social world"（Eacott, 2015, p.319）
+> > “教育行政研究者并不站在他们所分析的社会世界之外，也没有居高临下地俯视它。相反，他们自己也是社会世界中的能动者”
+> ("the educational administration researcher does not stand outside of the social world they analyse, nor do they look down on it from above. Rather, they themselves are agents in the social world")（Eacott, 2015, p.319）
 >
-> > "nothing can be defined or assumed a priori. That is, the popular practice, especially with graduate students, of operationally defining objects is not appropriate"（Eacott, 2015, p.321）
+> > “没有任何东西可以先验地被定义或假设。也就是说，那种[[Definition of Terms|操作性定义]]客体的流行做法（尤其是在研究生中）是不合适的”
+> ("nothing can be defined or assumed a priori. That is, the popular practice, especially with graduate students, of operationally defining objects is not appropriate")（Eacott, 2015, p.321）
 >
-> > "theory is not something that the researcher applies to the empirical; rather, it is a way of working through and with the empirical"（Eacott, 2015, p.322）
+> > “理论不是研究者应用于经验事实的东西；相反，它是一种通过并与经验事实一起工作的方式”
+> ("theory is not something that the researcher applies to the empirical; rather, it is a way of working through and with the empirical")（Eacott, 2015, p.322）
 
 ## 局限性与批评
 

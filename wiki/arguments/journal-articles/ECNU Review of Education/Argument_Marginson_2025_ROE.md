@@ -247,22 +247,28 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote]
-> "If time unfolds as change then space unfolds as interaction"（Massey, 2005, p. 61, cited p. 3）
+> “如果时间作为变迁而展开，那么空间则作为互动而展开”
+> ("If time unfolds as change then space unfolds as interaction")（Massey, 2005, p. 61, cited p. 3）
 
 > [!quote]
-> "There are always loose ends"（Massey, 2003, p. 5, cited p. 6）
+> “总是有未竟的线索（未收尾之处）”
+> ("There are always loose ends")（Massey, 2003, p. 5, cited p. 6）
 
 > [!quote]
-> "Conceptualizing space as open, multiple and relational, unfinished and always becoming, is a prerequisite for history to be open and thus … for the possibility of politics"（Massey, 2005, p. 59, cited p. 7）
+> “将空间概念化为开放的、多重的和相关的、未完成的且始终在生成的，这是历史保持开放的先决条件，进而……也是政治保持可能性的先决条件”
+> ("Conceptualizing space as open, multiple and relational, unfinished and always becoming, is a prerequisite for history to be open and thus … for the possibility of politics")（Massey, 2005, p. 59, cited p. 7）
 
 > [!quote]
-> "Higher education should not be viewed solely as an educational endeavour, but also as a geopolitical project"（Moscovitz & Sabzalieva, 2023, p. 152, cited p. 14）
+> “高等教育不应仅仅被视为一项教育事业，而应同时被视为一项地缘政治项目”
+> ("Higher education should not be viewed solely as an educational endeavour, but also as a geopolitical project")（Moscovitz & Sabzalieva, 2023, p. 152, cited p. 14）
 
 > [!quote]
-> "So many of our accustomed ways of imagining space have been attempts to tame it"（Massey, 2005, p. 151, cited p. 5）
+> “我们许多习惯的想象空间的方式，都曾是试图驯服它的尝试”
+> ("So many of our accustomed ways of imagining space have been attempts to tame it")（Massey, 2005, p. 151, cited p. 5）
 
 > [!quote]
-> "Every space eventually 'escapes in part from those who make use of it'"（Lefebvre, 1991, p. 26, cited p. 12）
+> “每一个空间最终都‘在某种程度上逃脱了那些利用它的人的掌控’”
+> ("Every space eventually 'escapes in part from those who make use of it'")（Lefebvre, 1991, p. 26, cited p. 12）
 
 
 ## 局限性与批评

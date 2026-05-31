@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Narrative Knowledge]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Academic Capitalism]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods: []
@@ -68,7 +69,7 @@ Lyotard 出生于凡尔赛，早年在索邦大学学习哲学，后加入社会
 
 > [!success]
 > - Lyotard 的[[Narrative Knowledge|叙事知识]]／科学知识区分成为[[Geopolitics of Knowledge|知识地缘政治]]（GPK）研究的关键分析工具。Partaken (2022) 运用此区分论证叙事知识在全球 GPK 中处于急剧衰退——不是因为后现代对元叙事的怀疑，而是因为具有商业价值的科学知识得到了国家和产业的有力赞助和推动
-> - 其表演性概念深刻影响了教育社会学和高等教育研究，被广泛用于分析大学排名、研究评估、学术资本主义等现象
+> - 其表演性概念深刻影响了教育社会学和高等教育研究，被广泛用于分析大学排名、研究评估、[[Academic Capitalism|学术资本主义]]等现象
 > - 晚年"发展作为非人的准形而上学"的批判为当代技术哲学和批判数据研究提供了理论资源
 
 ---

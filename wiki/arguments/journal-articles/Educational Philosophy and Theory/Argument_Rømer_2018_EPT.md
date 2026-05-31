@@ -119,9 +119,11 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "[[Visible Learning]] is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation."（Rømer, 2018, p.2）
 >
-> > "The mistake I was making was seeing [[Feedback]] as something teachers provide to students... It was only when I discovered that feedback was most powerful when it is from the student to the teacher that I started to understand it better."（[[John Hattie|Hattie]], 2009, p.173，转引自 Rømer, 2018, p.9）
+> > “我犯的错误是把反馈看作是教师提供给学生的东西……直到我发现当反馈是从学生传向教师时它才是最强大的，我才开始更好地理解它。”
+> ("The mistake I was making was seeing [[Feedback]] as something teachers provide to students... It was only when I discovered that feedback was most powerful when it is from the student to the teacher that I started to understand it better.")（[[John Hattie|Hattie]], 2009, p.173，转引自 Rømer, 2018, p.9）
 >
-> > "We end up with a world without education and without Beethoven's symphonies, and also without things and scientific energy altogether."（Rømer, 2018, p.11）
+> > “我们最终将得到一个没有教育也没有贝多芬交响乐的世界，而且也完全没有事物和科学能量。”
+> ("We end up with a world without education and without Beethoven's symphonies, and also without things and scientific energy altogether.")（Rømer, 2018, p.11）
 
 ## 局限性与批评
 

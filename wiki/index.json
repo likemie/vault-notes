@@ -1627,6 +1627,16 @@
     ]
   },
   {
+    "title": "Non-monetary Competition",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Non-monetary Competition.md",
+    "aliases": [
+      "非货币竞争",
+      "non-monetary competition",
+      "symbolic competition"
+    ]
+  },
+  {
     "title": "Online Self-Assessment",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Online Self-Assessment.md",
@@ -2499,6 +2509,15 @@
     ]
   },
   {
+    "title": "Academic Capitalism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Academic Capitalism.md",
+    "aliases": [
+      "学术资本主义",
+      "academic capitalism"
+    ]
+  },
+  {
     "title": "Classical Geopolitics",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Classical Geopolitics.md",
@@ -2525,6 +2544,15 @@
     ]
   },
   {
+    "title": "Discursive Stratification",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Discursive Stratification.md",
+    "aliases": [
+      "话语分层",
+      "discursive stratification"
+    ]
+  },
+  {
     "title": "Economic and Industrial Espionage",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Economic and Industrial Espionage.md",
@@ -2541,6 +2569,15 @@
     "path": "wiki/concepts/political-economy-geopolitics/Economic Patriotism.md",
     "aliases": [
       "经济爱国主义"
+    ]
+  },
+  {
+    "title": "Financialization of Higher Education",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Financialization of Higher Education.md",
+    "aliases": [
+      "高等教育金融化",
+      "financialization of higher education"
     ]
   },
   {
@@ -4597,6 +4634,17 @@
     "path": "wiki/theories/political-economy-geopolitics/Fixity-Motion Tension.md",
     "aliases": [
       "固着-流动张力"
+    ]
+  },
+  {
+    "title": "Neo-feudalism in Higher Education",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Neo-feudalism in Higher Education.md",
+    "aliases": [
+      "高等教育新封建主义",
+      "neo-feudalism in higher education",
+      "academic neo-feudalism",
+      "学术新封建主义"
     ]
   },
   {
@@ -8647,6 +8695,11 @@
     "title": "Argument_Berk_2011_ER",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Evaluation Review/Argument_Berk_2011_ER.md"
+  },
+  {
+    "title": "Argument_Schulze-Cleven_2017_HighEduc",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HighEduc.md"
   },
   {
     "title": "Argument_Wong_2022_HERD",
