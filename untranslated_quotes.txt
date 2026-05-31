@@ -1,0 +1,488 @@
+--- wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Slethaug_2010_InternationalEducation.md ---
+> "Educational systems tied to the formation of nation-state citizens and consumers bonded to local systems to the neglect of larger global forces are likely to become obsolete, while those that proactively engage globalization's new challenges are more likely to thrive."（Suárez-Orozco & Qin-Hilliard, 2004, p.23，转引自 Slethaug, 2010, p.1）
+> "Perhaps more than most mainstream schools, therefore, [[International Schools]] must orient themselves to the market. They must provide curricula that are in demand at a price that can be afforded by their target clients, and must pay attention to changing demographic and economic forces."（Yamato & Bray, 2006, p.60，转引自 Slethaug, 2010, p.26）
+
+--- wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_ChineseLearner.md ---
+> "Chineseness is in effect defined in terms of deviance from Western norms, and generally as being interestingly different within mainstream, that is Western, psychology." — Watkins & Biggs (2001, p.4)，转引自 Ryan (2010, p.40)
+> "It is particularly infuriating to hear problems with such rhetorical styles attributed to imagined inadequacies in the student's education in their home country. ... Such analysis is misleading because it confuses differences in style of expression with a lack of academic rigour." — Yoshino (2004, p.10)，转引自 Ryan (2010, p.42)
+> "T@here is a notable tendency in the applied linguistics literature to report the perceptions and reactions of Western instructors which, rather than being interrogated for ethnocentric bias and stereotyping, are validated by recourse to a Confucian heritage explanation which appears plausible rather than being empirically established." — Clark & Gieve (2006, pp.60–63)，转引自 Ryan (2010, p.40)
+> "Good teaching and learning are 'the common treasures of humanity.'" — Kang Changyun of Beijing Normal University，转引自 Ryan (2010, p.57)
+
+--- wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Gilison_Wilson_2025_UniversityStartups.md ---
+> "Ask for money and they'll give you advice. Ask for advice and they'll give you money."（p.146，募资行业的经典格言：你问投资人要钱，他会给你一堆建议；你去请教他建议，他反而可能给你钱。背后的逻辑是：当你虚心请教时，你展示了你愿意学习和倾听的品质——这正是投资者除了技术和市场之外最看重的创始人特质。）
+> "In fact, the odds are stacked against the [[University Spin-Out|university-based startup]] so much so that the successful ones are the true 'Uni-corns.'"（p.142）
+> "It was like [[Tracking]] a Yeti, where people have heard they exist but never witnessed one firsthand in the wild."（p.143）
+> "Ask for money and they'll give you advice. Ask for advice and they'll give you money."（p.146）
+> "The sure way to kill truly disruptive innovation is to have industry directly initiate startup and spin-out creation at universities."（p.148）
+
+--- wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_LernerLam_2025_TransdisciplinaryExecutiveEd.md ---
+> "The evolution of complex, transdisciplinary thinking in response to these challenges—what some have characterized as advanced system thinking or convergence research—is not just confined to university campuses."（p.156）
+> "Particularly for subject matter underlain by highly technical research in science and engineering, core scientific and engineering faculty might not be able to address the policy dynamics inherent in the grander challenge."（p.160）
+> "Columbia calls this its '[[Fourth Generation University|Fourth Purpose]],' a responsibility added to the traditional functions of scholarship, teaching and disciplinary service."（pp.161-162）
+
+--- wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md ---
+> > "It involves stakeholders with different outlooks and impact expectations. Moreover, the multidimensional nature of the impacts themselves means they are tangible and intangible, short- and long-term, direct and indirect, positive and negative, making their measurement process very complex."（Cohen et al., 2024, 转引自 p.87）
+> > "The key to culture is trust based on history of UI relationship as well as the collaborative practice of clearly defining problems of mutual strong interest that can only be solved working together to achieve win-win outcomes. Failures are mutual learning experiences."（p.90）
+> > "AI will not replace service providers (e.g., industry researchers, academic faculty, etc.), but trusted service providers who use AI effectively and ethically will replace those who don't."（Rouse & Spohrer, 2018, 转引自 p.97）
+> > "Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of [[University-Industry Collaboration|UI collaboration]] generation after generation."（p.90）
+> > "Every change in business conditions and focus requires adjusting 6 R investment options and recalibrating metrics, incentives, rewards, and culture to fit the times."（p.90）
+
+--- wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md ---
+> "Innovation today often occurs at the 'interface,' the interstitial space where industry and universities work with each other toward common goals."（p.4）
+> "Strength and impact are developed not solely through relationships between universities and industry but engagement."（p.4）
+> "Innovation does not readily occur in isolation."（p.12）
+> "There is substantial literature which suggests that continuous high levels of radical innovation in modern societies require diversity in organization forms, heterogeneity in organizational structures, diversity in ideas."（Hollingsworth & Hollingsworth, 2011, p.27，转引自 p.12）
+
+--- wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md ---
+> "Relationships"、"partnerships"和"engagement"三个词的精微差异值得注意。如果一所大学把办公室命名为"Corporate Relations Office"，它强调的是长期关系的维护——有点像客户关系管理（CRM）的逻辑。如果叫"Strategic Partnerships Office"，它暗示的是对等的、深度的、有共同战略目标的合作——"你和我一起定义合作的方向"。如果叫"Industry Engagement Office"，它强调的是互动的深度而非广度——"重要的不是你认识多少企业，而是你和多少企业有实质性的合作"。
+
+--- wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md ---
+> "The chapter argues that higher education, in this [[Tracking|setting]], is part of a New [[Geopolitics of Knowledge]] that refers to the integration of higher education in the imaginations and calculations of different actors aiming at asserting and/or improving their positions in the global [[Knowledge-Based Economy]]." (Parreira do Amaral, 2022, pp.36–37)
+
+--- wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md ---
+> "Universities have entered the global governance landscape by strategically positioning themselves as global knowledge actors."（p.143）
+> "With university knowledge becoming an important resource and asset in the global economy, the inter-university race for reputation, revenues, and researchers is oddly transposed to an unlevelled global geopolitical playing [[Champ|field]]."（p.145）
+> "If universities want to preserve their unique status as independent knowledge arbiters in global governance and even reshuffle power structures traditionally skewed towards politics and markets, they have to make sure to not only follow the global agenda but begin to actively shape it."（p.157）
+
+--- wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Partaken_2022_Springer.md ---
+> "Instead of such a static state of knowledge, the inquiry into geopolitics should pay more attention to the phenomena of '[[Knowledge Transfer|knowledge in motion]]' such as transfer, dissemination, pedagogy, indoctrination, theft, espionage, surveillance and censorship."（p.84）
+> "The sovereignty lieth hid in knowledge" — Francis Bacon (1597/1825, p.255)，Partaken 以此作为全章的框架性引语和结论性回应（p.85）
+
+--- wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md ---
+> "along with"——Rizvi 不是要推翻既有解释，而是要**补充**一个被忽视的维度。
+> "Asia is rising but Asian wellbeing is not. The quality and quantity of growth are out of synch."（Pieterse, 2018, p.62, cited in Rizvi, 2022, p.93）
+> "language and text can create, shift, or maintain ideologies. In the case of [[GATS and Trade in Education Services|GATS]], the ideology reflects a new imperialism where more powerful countries retain developing countries as markets in which they continue to rule intellectually"（Collins, 2007, p.283, cited in Rizvi, 2022, p.97）
+> "the pandemic is a portal"（Roy, 2020, cited in Rizvi, 2022, p.102）
+> "The Asian Century is an Australian opportunity. As the global centre of gravity shifts to our region, the tyranny of distance is being replaced by the prospects of proximity"（Henry Report, 2012, p.1, cited in Rizvi, 2022, pp.99–100）
+
+--- wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Amos_2022_Springer.md ---
+> > "The diagnosis of scholars like Escobar and Haraway is clear enough: Without a significant change, not to say transformation of our mind-set, late modernity may as well be the last stage not only for humanity, but for the planet."（Amos, 2022, p.63）
+> > "What is needed then, is an educational theory that draws it all together. One that re-envisions public education with a non-compartmentalized organization of knowledge, that takes connectivity and [[Response-ability]], another term for caring as its organizing principle, one that encourages collaboration, is critical of ideologies that place the human being at the center of the universe, one that encourages non-dualistic thinking and the non-fixity of the self, pays attention to the multiple entanglements both material and non-material."（Amos, 2022, p.64）
+
+--- wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rambla_2022_Springer.md ---
+> "The European Union has elaborated quite sophisticated imaginaries of education and innovation by means of [[Performance Indicators|policy instruments]] that use expert knowledge to draw certain geographical images of the member states and the regions within these states."（p.176）
+> "Performance indicators convey 'theories of change' that highlight how policies activate certain mechanisms in a given context."（Pawson, 2006，引用于 p.165）
+> "Performance indicators are a policy instrument that directly draws on scientific and technical legitimacy, and pushes policy actors towards competition."（Le Galès, 2016，引用于 p.165）
+> "Policy instruments 'select' relevant policy issues in the arena of public debate and simultaneously induce actors to sideline other issues."（Jessop, 2007，引用于 p.166）
+
+--- wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Moisio_2022_Springer.md ---
+> "In this chapter, I seek to geopoliticize the purportedly geoeconomic present. In particular, I argue that the contemporary knowledge-intensive capitalism is a historically contingent geopolitical constellation that brings together a range of issues such as space, cities, states, human capital, education, and technology."（Moisio, 2022, p.21）
+> "Capitalism perpetually strives, therefore, to create a social and physical landscape in its own image and requisite to its own needs at a particular point in time, only just as certainly to undermine, disrupt and even destroy that landscape at a later point in time."（Harvey, 2001, p.333, cited in Moisio, 2022, p.28）
+> "The [[Geopolitics of Knowledge]]-based economization emanates from the very tension within the capitalist circulation process in space: the tension within the geography of accumulation between fixity and motion."（Moisio, 2022, p.28）
+
+--- wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zelinka_2022_SCD_subjectivity.md ---
+> "It is not skills and competencies gained by subjects, but subjectivities, i.e. modes of self-conduct based on desired competencies, that become a source of production."（Reed, 2009, p.33, cit. by Zelinka, 2022, p.261）
+> "Subjects are only disposable unless they acknowledge and enhance their self-entrepreneurial subjectivity and show passion for growth and a will to accelerate."（Zelinka, 2022, p.261）
+> "The opposition to this kind of novel and innovative endeavor starts with questioning its very basis, i.e. its definition of subjects as knowledge-bearers."（Zelinka, 2022, p.265）
+
+--- wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md ---
+> "a set of interrelated [[Construct|constructs]] (variables), definitions, and propositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining natural phenomena"（p.64; 引自 Creswell & Creswell, 2022, p.53）
+> "What remains to be explored, however, is..."（Ziller, 1990, pp.85–86）——标示研究空白
+> "Despite an increased interest..., it is surprising that so little empirical research has actually been conducted on the topic..."（Blase, 1989, p.381）——标示研究数量不足
+> "A [[Survey Research|survey design]] provides a quantitative description of trends, attitudes, and opinions of a population, or tests for associations among variables of a population, by studying a sample of that population."（第8章）
+> "An [[Experimental Research|experimental design]] systematically manipulates one or more variables to evaluate how this manipulation affects an outcome (or outcomes) of interest. Importantly, an experiment isolates the effects of this manipulation by holding all other variables constant."（第8章）
+> "Sample size determination is at its core a trade-off: A larger sample will provide more precision, but recruiting more participants is time-consuming and costly."（第8章）
+> "Sample size determination should be based on your analysis plans and expected outcomes."（Fowler, 2014; 引自第8章）
+> "A [[Power Analysis]] can help you estimate a target sample size. ... This power analysis for sample size determination should be done during study planning and prior to enrolling any participants."（第8章）
+> "One of the principal features distinguishing an experiment from a survey study design is the use of [[Random Assignment]]."（第8章）
+> "A [[Confidence Interval]] is a range of values (an interval) that describes a level of uncertainty around an estimated observed score. A confidence interval shows how good an estimated score might be."（第8章）
+> "An [[Effect Size]] identifies the strength of the conclusions about group differences or the relationships among variables in quantitative studies. It is a descriptive statistic that is not dependent on whether the relationship in the data represents the true population."（第8章）
+> "A manipulation check measure is defined as a measure of the intended manipulated variable of interest."（第8章）
+> "To reduce this form of experimenter bias, it is helpful to make the experimenter administering the outcome measure blind to the participant's study condition."（第8章）
+> "Blinding in experimental research is when the experimenter (and/or the participant) is kept unaware of the participant's assigned study condition."（第8章）
+
+--- wiki/arguments/journal-articles/Sociology of Education/Argument_Downey_2016_SoE.md ---
+> > "When it comes to inequality, 'schooling is more part of the solution than part of the problem.'" — Alexander (1997, p.12), cited in Downey & Condron (2016, p.4)
+> > "The proper way to assess schools' effect on achievement gaps is not to focus solely on school year patterns but to compare the school year (treatment) and summer (control) patterns. Schools are compensatory whenever achievement trajectories are more equal when school is in versus out of session." (Downey & Condron, 2016, p.6)
+> > "The question is not whether it is possible via school reform to reduce achievement gaps; the question is whether school reform is the best strategy for reducing them." (Downey & Condron, 2016, p.10)
+> > "A cynical—and entirely plausible—interpretation of the greater emphasis on reforming schools relative to reforming other institutions is that it serves a purpose: It distracts people from the real sources of inequality, thereby serving the interests of those who benefit from current social arrangements." (Downey & Condron, 2016, p.11)
+
+--- wiki/arguments/journal-articles/The Sociological Review/Argument_Ball_2008_SR.md ---
+> "the sociology of education has created the 'conditions of possibility' and an 'optics of power'"（Ball, 2008, p.651）
+> "Education was no longer the solution but the problem."（Ball, 2008, p.657）
+> "effectiveness operates as a technology of normalisation."（Ball, 2008, p.664）
+
+--- wiki/arguments/journal-articles/Economic and Social Changes Facts, Trends, Forecast/Argument_Golovchin_2019_ESC.md ---
+> > "The variation of the [[Variable|variables]] used by Hattie exceeds 50%, which is higher than the statistical threshold of sample homogeneity (33%). ... Determining the strength of any effects in such a model, due to its instability, will likely not lead to the formation of objective conclusions."（p.239）
+> > "The implementation of Hattie's ideas within the framework of Russian educational policy is inapplicable, since it can cause negative consequences and extend the range of new problems (in particular, the increase in the bureaucratic functionality of the teaching profession in the pursuit of '[[School Leadership]]')."（p.240）
+> > "In education, however, there is little that 'works' and little that 'does not work'. The correct question is: 'Under what conditions will this work in school?'"（p.241）
+> > "The book is perceived as a panacea for the educational community, but as a result of taking this drug, the school will experience a short-term placebo effect."（Myburgh, cited in Golovchin, 2019, p.238）
+
+--- wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Simpson_2019_ERE.md ---
+> > "In each of these examples, the educational intervention (and control activity and population and sample size, etc.) is exactly the same... yet the effect size varies from 0 to 0.4, to 0.6, to 4, to infinity." (p.102)
+> > "The enemy of clarity being noise — anything which acts to increase the noise of an experiment... will decrease effect size." (p.104)
+> > "Mistaking effect size for a measure of educational importance or influence is, then, a category error." (p.105)
+> > "The appearance of [[Direct Instruction]] interventions like [[Feedback]] and meta-cognition at the top of meta-meta-analytic tables should be taken only as evidence that researchers have found it easier to conduct less noisy experiments in these areas compared to behaviour interventions or summer schools." (p.105)
+> > "Forms of intervention are promoted as more effective when, in fact, the evidence merely indicates they are areas in which it may be easier to conduct clearer studies. This misidentification is leading policy, driving the use of scarce resources and causing major changes in teaching methods. There's the harm." (p.108)
+
+--- wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Cowen_2019_ERE.md ---
+> > "What I propose here is that there are features of EBE that make it attractive, or at least uncontroversial and safe, to policymakers." (p. 3)
+> > "Even a systematic review or meta-analysis of many high-quality RCTs provides little epistemic warrant for applying to a new population." (p. 5)
+> > "The advantage of formal criteria for the sovereign is that she does not have to explore the details of research evidence, pass judgement on specific interventions, or evaluate the approach and conduct of individual experts." (p. 10)
+> > "Being selective about one's use of evidence is easy enough... But, increasingly, policymakers do more than determine what evidence to acknowledge and which to ignore. They now develop policies defining what sort of research evidence is worth producing in the first place." (pp. 2–3)
+> > "The point of departure for EBE is that there are given resources available... This avoids an important conclusion of academic research in education: Resources matter." (p. 13)
+> > "The experimental paradigm exerts disproportionate influence on policymakers because of the particular role it can play in guiding the policy of a centralised bureaucracy." (p. 14)
+> > "The attraction of novelty also offers some explanation. New governments tend to displace incumbents by pointing out their failed policies so there is a strong imperative to introduce innovative reforms." (p. 10)
+> > "It's not what you spend, it's the way that you spend it …that's what gets results.' This avoids an important conclusion: Resources matter. More funding going into schools leads to predictably improved results." (pp. 13–14)
+
+--- wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Wrigley_2019_ERE.md ---
+> > "It is our contention that these appeals to science use a flawed and stereotyped vernacular image or 'folk-view' (Thomas, 2012, p. 28) of the natural sciences for rhetorical effect but fail to probe sufficiently into the true characteristics of science." (Wrigley & McCusker, 2019, p. 111)
+> > "At every stage of the meta-analytic review, simplifications are made. [[Hypothesis|hypotheses]] are abridged, studies are dropped, programme details are filtered out, contextual information is eliminated, selected findings are utilized, averages are taken, estimates are made." (Pawson, 2006, pp. 42–43, cited on p. 122)
+> > "The intention of this paper is to demonstrate that many advocates of evidence-based teaching work with too simple a notion of 'science', with serious negative consequences." (p. 111)
+> > "It is, therefore, fundamentally unscientific to try to explain social phenomena by applying the wrong level of scientific methodology." (p. 113)
+> > "Effective experiments demand the artificial controls imposed by the reductive methodology of the experimenter, but we must never forget that as a consequence they provide at best only a very simplified model, perhaps even a false one, of what happens in the blooming, buzzing, interactive confusion of life at large." (Rose, 2005, p. 28, cited on p. 112)
+> > "Whereas drugs trials try to eliminate the human factor because 'human volition is seen as a contaminator', social change is brought about through the human agent." (Pawson, 2006, p. 27, cited on p. 114)
+> > "The result of a [[Meta-analysis]] should never be an average; it should be a graph." (Gene Glass, cited in Robinson, 2004, p. 29, cited on p. 119)
+> > "Education is marked by a [[Multiplicity]] of aims — acquisition of factual knowledge, skilled performance, problem solving, longer term cognitive development, aesthetic or ethical qualities, socialisation." (p. 124)
+> > "In the name of 'science' and in conjunction with the dynamics of high-stakes accountability systems, we are witnessing an anti-enlightenment closing down of ways of understanding and engaging with the world." (p. 124)
+
+--- wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Wiliam_2019_ERE.md ---
+> > "In educational research, 'What works' is usually the wrong question because almost anything works somewhere, and nothing works everywhere. A better question is, 'Under what circumstances does this work'." (Wiliam, 2019, p.11)
+> > "The entire project of [[Evidence-Based Education]] can never be successful. Any claims about 'what works' are necessarily local... Moreover, such claims will be provisional, in that new findings, insights, and understandings will bring previously credible interpretations of research studies into question." (Wiliam, 2019, p.10)
+> > "Identifying how teachers, schools, districts, and jurisdictions can most profitably direct their efforts will always involve the application of judgement, taking into account local knowledge, the likely relevance of findings from other contexts, the feasibility of proposed reforms (politically, economically, culturally, etc.), and a whole host of other factors." (Wiliam, 2019, p.11)
+> > "The synthesising the results of a number of meta-analyses by some weighted combination of the effect sizes generated by the individual meta-analyses – what has come to be called [[Meta-meta-analysis]] – has absolutely no role in educational policymaking." (Wiliam, 2019, p.11)
+
+--- wiki/arguments/journal-articles/Cogent Education/Argument_Schaffar_2024_CogentEdu.md ---
+> > "The aim of [[Phenomenon-Based Learning]] (PhBL) is to provide such an educational approach."（p.1）
+> > "The Finnish curriculum is still structured according to traditional school subjects..."（p.2）
+> > "The PhBL approach is neither a salvation approach, nor a quick-fix-method..."（p.11）
+
+--- wiki/arguments/journal-articles/Educational Researcher/Argument_Slavin_2002_ER.md ---
+> > "If Rip Van Winkle had been a physician, a farmer, or an engineer, he would be unemployable if he awoke today. If he had been a good elementary school teacher in the 19th century, he would probably be a good elementary school teacher today." (p. 16)
+> > "At the dawn of the 21st century, educational research is finally entering the 20th century." (p. 15)
+> > "Educational practice does change over time, but the change process more resembles the pendulum swings of taste characteristic of art or fashion (think hemlines) rather than the progressive improvements characteristic of science and technology." (p. 16)
+> > "Before the Wright brothers, many inventors launched airplanes that were based on exactly the same scientifically based aviation research as the Wright brothers used at Kitty Hawk, but the other airplanes never got off the ground." (p. 19)
+> > "Once we have dozens or hundreds of randomized or carefully matched experiments going on each year on all aspects of educational practice, we will begin to make steady, irreversible progress. Until then, we are merely riding the pendulum of educational fashion." (p. 19)
+
+--- wiki/arguments/journal-articles/Educational Researcher/Argument_Kraft_2023_ER.md ---
+> > "This is the benchmark that matters most."（Kraft, 2023, p.183）
+> > "Efforts to improve education often fail to improve student outcomes, particularly student achievement."（Kraft, 2023, p.187）
+
+--- wiki/arguments/journal-articles/Journal of Education Policy/Argument_Simpson_2017_JEP.md ---
+> > "Areas which rank highly in Marzano (1998), [[John Hattie|Hattie]] (2009) and Higgins et al. (2013) are those in which researchers can design more sensitive experiments." (Simpson, 2017, p.2)
+> > "Standardised [[Effect Size]] is not a measure of educational impact because larger numbers produced from this process are not indicative of larger educational impact. Instead, areas which rank highly ... are those in which researchers can design more sensitive experiments." (p.2)
+> > "The numerical summaries used to develop the toolkit (or the alternative 'barometer of influences': [[John Hattie|Hattie]] 2009) are not a measure of educational impact." (p.2)
+> > "These violations do not cause random fluctuations in reported effect size: they are not just noise which gets factored out when large numbers of studies are combined. Instead, there is systematic and unadjusted bias in the violation of these assumptions." (pp.4–5)
+> > "While calculating an effect size may be simple enough for a first course in statistics, there are considerable subtleties in understanding it sufficiently well to ensure that the processes of combining effect sizes in meta-analyses allows valid conclusions to be drawn." (p.3)
+> > "Standardised effect size is a research tool for individual studies, not a policy tool for directing whole educational areas." (p.14)
+> > "It might be argued that 'effect size' is badly named. It is not simply a measure of the size of an effect at all and it might have been better named 'effect clarity': a large d indicates that, for that particular intervention, between the two groups used and on the measure selected, the difference is very clear. But that does not mean the difference is large or important or educationally significant." (p.14)
+> > "These meta-meta-analyses which order areas on the basis of effect size are thus poor selection mechanisms for driving educational policy and should not be used for directing large portions of a country's education budget." (p.15)
+
+--- wiki/arguments/journal-articles/Nordic Journal of Studies in Educational Policy/Argument_Knudsen_2017_NordSTEP.md ---
+> > "I am a measurement person, I am a statistician, and the work with the concept and implementation was kind of a hobby I did on the side." ([[John Hattie|Hattie]], in Knudsen, 2017, p.254)
+> > "It is scripted. To the word. You would never know it, and that's part of the success." (Hattie, in Knudsen, 2017, p.254)
+
+--- wiki/arguments/journal-articles/Nordic Journal of Studies in Educational Policy/Argument_Qvortrup_2019_NordSTEP.md ---
+> > "The aim of Visible Learning is to support teachers' professional judgement. One of the contributions of educational research is, as accurate as possible, to identify, which interventions and conditions with the greatest probability will lead to learning and personal development. The aim is not to provide teachers with what works best recipes. The aim is to provide teachers with '[[Hypothesis|hypotheses]] for intelligent problem solving' (Hattie, 2009, p. 247)."（Qvortrup, 2019, p.7）
+
+--- wiki/arguments/journal-articles/Journal of Educational Administration and History/Argument_Eacott_2011_JEAH.md ---
+> "The preparation of principals in the New South Wales public school system is evidence of the diminished strength of the [[Champ|field]] of schooling to refract interference from other fields, particularly the economic and political fields."（p.45）
+> "The central thesis of this article is that if school leaders are to reclaim their radical past and engage in public intellectualism, an alternate leadership [[Habitus]], one built on educational problem posing and contestation as opposed to organisational problem solving, is required."（p.45）
+> "To be a player in the game of [[School Leadership]], one must learn or be habituated to the rules of the game. A game couched in economic language with frequent intervention, or interference, from those beyond education."（p.50）
+> "Any attempt to objectify and/or de-contextualise leadership practice destroys that which it attempts to explain. Leadership is a social practice, it is not static, it is defined moment-by-moment in the interactions between organisational/group members."（p.56）
+> "If orthodoxy is to be challenged alternate ways of being are needed. Not just alternate means of problem solving, but alternate ways of thinking and problem posing."（p.58）
+
+--- wiki/arguments/journal-articles/Journal of Educational Administration and History/Argument_Keddie_2020_JEAH.md ---
+> > "the notion of markets [is] not … terrific in other domains of adult experience but they are toxic for children — because the sense of a child existing in a market and hierarchy with winners/losers is absolutely antithetical to our understanding of what everyone wants for our young"（Edward, union, NSW, p.437）
+> > "you couldn't design something more effective for social division" — Edward 对 [[My School Website|My School]] 网站的评论（p.437）
+> > "nobody knows, except the principal" where funds are allocated, "because it is not transparent"（Noah, professional organisation, NSW, p.438）
+> > "it is a class system; very much a class system"（Wendy, bureaucrat, Vic, 描述家长筹资不平等, p.441）
+> > "as long as these [market] imperatives are dominant in such governance, there will continue to be 'goal displacement' … and a compromising of ethical practice within our public education systems"（p.442-443）
+
+--- wiki/arguments/journal-articles/Assessment & Evaluation in Higher Education/Argument_SpronkenSmith_2024_AEHE.md ---
+> "I can't think of a single thing that I didn't already get preparation for in terms of just job skills that were very transferable." — Simon (USU2, 政府研究分析师), p.92
+> "It's a thinking game… how we see the world and how we prepare ourselves to see the world from others' views. No matter if you are in academia, in consultancy or in private, the qualification does serve a purpose, it's just how you transfer the skills being learned to different aspects in life." — Kimi (NZU, 讲师), p.93
+> "I was strongly encouraged by my mentors to pursue an academic pathway from undergraduate onward. This was implied to be the only career pathway and/or career pathway for those with the best skills… No one ever discussed any other possibilities." — Veronica (USU1), p.96
+> "There's a default assumption that everybody in the department is going to go into academia." — Simon (USU2), p.96
+
+--- wiki/arguments/journal-articles/Scholarship of Teaching and Learning in Psychology/Argument_Hattie_2015_SOTLP.md ---
+> > "When teachers see teaching and learning through the eyes of their students, and when students become their own teachers then outcomes and engagement are maximized." (p.79)
+> > "As nearly every intervention can show some evidence of success, we need to ask not 'What works?' but 'What works best' and seek comparisons between different ways of influencing student learning." (p.79)
+> > "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." (p.81)
+> > "The fundamental premise of [[Visible Learning]] is that when educators focus on defining, evaluating, and understanding their impact this leads to maximizing student learning and achievement." (p.89)
+
+--- wiki/arguments/journal-articles/Education Sciences/Argument_Larsen_2019_EducSci.md ---
+> > "An international consensus seems to have developed in educational research—and among educational planners and policymakers—during the last 10–15 years proclaiming that learning is, and must be, a visible phenomenon. This paper questions this predominant view."（Larsen, 2019, p.1）
+> > "The thesis is that powerful scientific and political adherents of learning cannot see what they cannot see—neither when they see what they (think they) see, nor when they do not see what they do not (want to) see."（Larsen, 2019, p.1）
+> > "The purpose of education is much more demanding and challenging than enhancing [[Visible Learning]] processes and results."（Larsen, 2019, p.10）
+> > "What goes on in the brain can never be directly depicted in the visible learning paradigm. Thinking is more than learning and learning is more than visible learning."（Larsen, 2019, p.6）
+
+--- wiki/arguments/journal-articles/Teachers and Teaching/Argument_Håkansson_2015_TT.md ---
+> > "One superior teaching dimension consists of structure and interaction."（Håkansson, 2015, p.584）
+> > "The quality of interplay and communication between teacher and pupil is considered to be crucial."（Håkansson, 2015, p.595）
+> > "A too far-reaching individualisation ... has no research support, but, on the other hand, neither does a one-sided pulpit teaching."（Håkansson, 2015, p.594）
+
+--- wiki/arguments/journal-articles/Journal of Educational Change/Argument_Zhao_2017_JEC.md ---
+> > "I have not yet found an educational product that comes with a warning label carrying information such as 'this program works in raising your students' test scores in reading, but may make them hate reading forever.'" (p.4)
+> > "The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor." ([[Campbell Collaboration|Campbell]], 1976, p.49, cited p.15)
+> > "Teaching constrains children's exploration and discovery. Children who were taught a function of a toy performed fewer kinds of actions of the toy and discovered fewer of its other functions." (Bonawitza et al., 2011, p.325, cited p.8)
+
+--- wiki/arguments/journal-articles/Educational Psychology Review/Argument_Brady_2023_EPR.md ---
+> > "The percentage of articles employing experimental methods has continued to decrease (20%), whereas qualitative methods have increased (22%)."（Brady et al., 2023, p.1）
+> > "In all approaches combined, in 2020, RFP were included in about two out of three nonintervention articles."（Brady et al., 2023, p.7）
+> > "The underlying assumption of this study is that any RFP that is not based on sound methodology that can identify causal relations is suspect."（Brady et al., 2023, p.9）
+
+--- wiki/arguments/journal-articles/Archives of Psychology/Argument_Bolton_2017_ArchPsych.md ---
+> > "This review suggests that Piagetian development theory may be closely aligned with changes in the anatomical and physiological development of the brain—in particular, the [[Prefrontal Cortex]] and its associated connections."（Bolton & [[John Hattie|Hattie]], 2017, p.1）
+> > "It is the claim of this article that the changes are a function of the development of executive functioning as the brain develops."（Bolton & Hattie, 2017, p.3–4）
+
+--- wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Yan_2025_JCS.md ---
+> > "To make sense of this curriculum change, we address two questions: Why and how did [[Liberal Studies|LS]] emerge as a compulsory school subject; and why was it replaced by CSD in 2021?" (p. 480)
+> > "The emergence of LS was linked to the post-handover restructuring of the education system, the quest for educational reform and facilitated by a process of referencing global trends and overseas models. Its demise was the result of direct state intervention following the introduction of the National Security Law in 2020." (p. 480)
+> > "All intended curriculum changes are at their core political." — Cuban (1992, p. 224)，被论文引用为分析出发点 (p. 480)
+> > "Local problems are sometimes created in line with packaged global solutions, rather than the other way round." — Steiner-Khamsi (2012, p. 7)，论文以此解释 [[Liberal Studies|LS]] 创立中全球化论述的角色 (p. 482)
+> > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." — Vickers & Morris (2022, p. 47)，为废除阶段提供解释框架 (p. 482-483)
+> > "If there were an intention to 'kill' LS, it would be more straightforward to abolish the subject." — 教育局新闻稿 (EDB, 2021b)，论文将其作为官方修辞策略的证据 (p. 489)
+
+--- wiki/arguments/journal-articles/Journal of Behavioral Education/Argument_Hitchcock_2015_JBE.md ---
+> > "Generalization details are not evaluated but rather described in detail so that consumers can make their own determinations about generalization."
+> > "It is important to note that these standards are not used in isolation, and thus generalization details cannot be fully understood without also considering the review protocols and a tool called the [[What Works Clearinghouse|WWC]] [[21st Century Skills and Competencies Discourse|SCD]] review guide." (p.460)
+> > "The WWC addresses the [[External Validity]] of findings from multiple [[Single-Case Design|SCD]] studies by taking into consideration what Maggin et al. (2013) describe as criteria for assessing generality." (pp.463–464)
+> > "Generalization details are not evaluated but rather described in detail so that consumers can make their own determinations about generalization." (p.466)
+> > "These criteria are in fact somewhat arbitrary but they are based on both expert judgment and logic and they are meant to be transparent." (p.466, 论 5-3-20 规则)
+
+--- wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Eacott_2015_EPT.md ---
+> > "A social 'scientific' approach to educational administration, as advocated for in this article, must break free of the ambition of grounding in (rational) reason, the arbitrary division of the social world (e.g. administrators/non-administrators) and instead, take for its object, rather than getting itself caught up in, the struggle for the monopoly of the legitimate representation of the social world."（Eacott, 2015, p.312, 325）
+> > "administration may derive its most substantive scientific work not from producing countless lists of best practice and essential traits or behaviours, but rather through a constant effort to undertake an informed critique of its own reasoning"（Eacott, 2015, p.318-319）
+> > "the educational administration researcher does not stand outside of the social world they analyse, nor do they look down on it from above. Rather, they themselves are agents in the social world"（Eacott, 2015, p.319）
+> > "nothing can be defined or assumed a priori. That is, the popular practice, especially with graduate students, of operationally defining objects is not appropriate"（Eacott, 2015, p.321）
+> > "theory is not something that the researcher applies to the empirical; rather, it is a way of working through and with the empirical"（Eacott, 2015, p.322）
+
+--- wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md ---
+> > "The mistake I was making was seeing [[Feedback]] as something teachers provide to students... It was only when I discovered that feedback was most powerful when it is from the student to the teacher that I started to understand it better."（[[John Hattie|Hattie]], 2009, p.173，转引自 Rømer, 2018, p.9）
+> > "We end up with a world without education and without Beethoven's symphonies, and also without things and scientific energy altogether."（Rømer, 2018, p.11）
+
+--- wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md ---
+> > "I am a measurement researcher; I am a statistician, I am not a theoretician" ([[John Hattie|Hattie]], in Knudsen, 2017, p.259, cited p.2)
+> > "This cut was the average effect from 800-plus meta-analyses... It is a threshold to create a story" (Hattie, 2010, p.89, cited p.7)
+> > "Within this large body of [[Feedback]] research, there are many conflicting findings and no consistent pattern of results" (Shute, 2008, p.153, cited p.9)
+> > "The problem occurs when researchers do not explicate how their empirical work is related to and based on theoretical assumptions" (p.3)
+
+--- wiki/arguments/journal-articles/ECNU Review of Education/Argument_Marginson_2025_ROE.md ---
+> "If time unfolds as change then space unfolds as interaction"（Massey, 2005, p. 61, cited p. 3）
+> "There are always loose ends"（Massey, 2003, p. 5, cited p. 6）
+> "Conceptualizing space as open, multiple and relational, unfinished and always becoming, is a prerequisite for history to be open and thus … for the possibility of politics"（Massey, 2005, p. 59, cited p. 7）
+> "Higher education should not be viewed solely as an educational endeavour, but also as a geopolitical project"（Moscovitz & Sabzalieva, 2023, p. 152, cited p. 14）
+> "So many of our accustomed ways of imagining space have been attempts to tame it"（Massey, 2005, p. 151, cited p. 5）
+> "Every space eventually 'escapes in part from those who make use of it'"（Lefebvre, 1991, p. 26, cited p. 12）
+
+--- wiki/arguments/journal-articles/ECNU Review of Education/Argument_Cheung_2021_ROE.md ---
+> > "For a very long time, educational policies have been based on ideological standpoints or individual views rather than evidence or best practices."（Cheung & Xie, 2021, p.1）
+> > "When evaluating whether a treatment or a vaccine is effective, what they rely on are not small studies with questionable methodologies but large, well-conducted randomized controlled trials."（Cheung & Xie, 2021, p.1，以 COVID-19 疫苗试验类比教育 [[Randomised Controlled Trials|RCT]]）
+
+--- wiki/arguments/journal-articles/ECNU Review of Education/Argument_Dachet_2021_ROE.md ---
+> > "for [[Evidence-Based Reform]] to prevail, three conditions must exist"（Slavin, 2019, p.2，引自 Dachet & Baye, 2021, p.179）
+> > "we are at the very beginning of the path"（Dachet & Baye, 2021, p.179）
+
+--- wiki/arguments/journal-articles/ECNU Review of Education/Argument_Ross_Morrison_2021_ROE.md ---
+> "Evidence does not exist in a void unaffected by prevailing educational policies and exigencies."（Ross & Morrison, 2021, p.111）
+> "Technology is not an operationally definable intervention but rather a mode for delivering instruction."（Ross & Morrison, 2021, p.113）
+
+--- wiki/arguments/journal-articles/ECNU Review of Education/Argument_Pellegrini_2021_ROE.md ---
+> > "Evidence cannot be used as a kind of recipe book"（Pellegrini & Vivanet, 2021, p.35）
+> > "Europe prefers the term 'evidence-informed education'"（Pellegrini & Vivanet, 2021, p.41）
+
+--- wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Wong_2022_HERD.md ---
+> > "the formation of UK graduate attributes appears quite diverse, which is likely to reflect the individual cultures and ethos of the respective university, rather than to emulate any national frameworks"（p.1350）
+> > "Graduate attributes could be interpreted as a proxy for the 'ideal graduate'"（p.1351）
+
+--- wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md ---
+> > "Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice." (Sharples, 2013, p.7, cited in Nelson & [[Campbell Collaboration|Campbell]], 2017, p. 129)
+> > "Evidence needs to be planted in 'fertile ground' if it is to take root and grow." (p. 127)
+> > "The process of being evidence-informed requires both rigorous evidence and a rigorous process of professional judgement." ([[Campbell Collaboration|Campbell]], 2016, cited in Nelson & Campbell, 2017, p. 132)
+> > "We must not fall into the trap of seeking to understand only those components that can easily be quantified." (p. 133)
+
+--- wiki/arguments/journal-articles/International Journal of Leadership in Education/Argument_Keddie_2020_IJLE.md ---
+> > "the discourses and practices of devolution, economic efficiency, competition and individualism constitute [[School Autonomy]] in ways that have decimated structural support for public schools, exacerbated stratification and residualization within the sector, undermined a collective approach to education as a public good and disadvantaged rural/remote, low SES and small schools"（Keddie et al., 2020, IJLE, p.12）
+> > "To further public education as both ideal and practice (for the common good), we need a much more nuanced understanding of what is in the public interest, how the public is constituted and how we might define public education"（Boyask, 2020, p.4，引自 Keddie et al., 2020, IJLE, p.13）
+
+--- wiki/arguments/journal-articles/International Journal of Leadership in Education/Argument_Eacott_2019_IJLE.md ---
+> > "what we are more likely to experience, both as consumers and generators of research is '[[Parallel Monologues]]'"（p.774）
+> > "It is not about simply producing a counter argument, but engaging with the ideas of another and where necessary refuting them. Not imposing one's view of the world on another, but engage on their terms – testing out claims for robustness and internal coherence and not alignment with one's own normative position."（p.779）
+> > "what I have offered is a call or invitation to others to engage differently in our work. It is not a call for knowledge centrism and/or one way to be a scholar, but an in-principle agreement that our work as scholars be recognizable for its underlying generative logic of argument and refutation."（p.780）
+
+--- wiki/arguments/journal-articles/Studies in Philosophy and Education/Argument_Biesta_2010_SPE.md ---
+> > "The important question, therefore, is not whether or not there should be a role for evidence in professional action, but what kind of role it should play." (p. 492)
+> > "A [[Transactional Epistemology]] allows us to make warranted assertions about what has worked in the past but not about what will work in the future." (p. 495)
+> > "Much talk about 'what works' operates on the assumption of a mechanistic ontology that is actually the exception, not the norm in the domain of human interaction." (p. 497)
+> > "No one has ever seen a laboratory fact move outside unless the lab is first brought to bear on an 'outside' situation and that situation is transformed so that it fits laboratory prescriptions." (Latour, 1983, p. 166, 引自 Biesta, p. 499)
+> > "Questions about 'what works' — that is questions about the effectiveness of educational actions — are always secondary to questions of purpose." (p. 500)
+> > "Taken together these deficits not only raise some important questions about the very idea of evidence-based practice but also highlight the role of normativity, power and values." (p. 491)
+> > "Educational systems are generally open systems... the connections between intervention and effect are non-linear and, at most, probabilistic." (p. 497)
+> > "Without normative orientations, without decisions about what is educationally desirable, without an articulation of the telos of educational practices, these practices simply do not exist — or at least they do not exist as educational practices." (p. 500–501)
+> > "If evidence were the only base for educational practice, educational practice would be entirely without direction. This is one reason why, in education, values come first." (p. 500)
+
+--- wiki/arguments/journal-articles/Encuentros sobre Educación/Argument_Schulte_2009_EncuentrosEducacion.md ---
+> "The enthusiasm or criticism towards John Dewey was not only about Deweyan ideas. At least below the surface, it was also about Chinese concepts and ideologies that were associated with his philosophy and educational thought."（p.70）
+> "Dewey did not just represent conceptual imaginaries. Through his role as teacher and mentor of a large number of Chinese students, through his personal and prolonged visit to the country, and, later, through his personal involvement in the Trotsky trial, he was not only the embodiment of more or less [[Abstract]] ideas and theories, but a personality who could arouse admiration, distrust, or even hatred among Chinese intellectuals."（p.69）
+> "John Dewey — or rather Duwei — has indeed become both 'red' and 'expert.'"（p.93）
+
+--- wiki/arguments/journal-articles/Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal/Argument_Ryabyy_2024_Maneto.md ---
+> > "Coffman……确信苏联未来的政治结构——在很长的时期内——将被这场大规模扫盲运动所塑造。随着现任领导人老去、教育努力生效，政治演变将不可避免……虽然几乎无政府的合作国家在俄国被视为理想目标，但 Coffman 认为最终的演变更可能是共和制。"（p.109）
+> > "We do not ask your praise, when you reach home, nor fear your blame, if you will do one thing only, tell your people the facts and let them judge." — Kameneff, 引自 Walter Duranty, New York Times, July 22, 1928（pp.106–107）
+> > "Your works, especially 'School and Society' and 'The School and the Child' have very much influenced the development of the Russian pedagogy and in the first years of revolution you were one of the most renowned writers." — Kalashnikov to [[John Dewey]]（p.104）
+> > "We must begin this great undertaking — the coming together of the more democratic nations of the world." — Shatskii to John Dewey, July 23, 1928（p.107）
+> > "This American educators' mission to Russia, then, is simply one more move in the Communist propaganda game engineered by those who have proved willing tools of the Communists in the past and with various non-Communists drawn in to hide the Communist machinery working underneath." — Francis Ralston Welsh to U.S. State Department, May 16, 1928（p.108）
+
+--- wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md ---
+> > "identifying 'evidence-based' interventions is still more of a policy aspiration than a reliable research practice."（Wadhwa et al., 2024, p.3）
+> > "evidence-based has limited practical [[Construct]] validity in the CH context."（Wadhwa et al., 2024, p.26）
+
+--- wiki/arguments/journal-articles/Paideia/Argument_Håkansson_2015_Paideia.md ---
+> > "Den tes jag har drivit har varit att vi kan se förskjutningar i riktning mot olika varianter av klassrumsnära strategier i skolutvecklingsarbetet."（Håkansson, 2015, p.58）
+> > "Lärarna vittnar även om en ökad medvetenhet om aspekter i undervisningen ... och en stärkt tilltro till att prova nya saker i undervisningen."（Håkansson, 2015, p.59）
+
+--- wiki/arguments/journal-articles/Paideia/Argument_Allerup_2015_Paideia.md ---
+> > "Man har derfor ikke som ved [[PISA]]-rangordningen adgang til en erkendelse af, at to eller flere indsatser/lande ikke adskiller sig signifikant fra hinanden - selv om de numerisk set er forskellige."（Allerup, 2015, p.47）
+
+--- wiki/arguments/journal-articles/Paideia/Argument_Lekhal_2015_Paideia.md ---
+> > "Resultatene viser dermed at kjønn i seg selv ikke ser ut til å virke direkte inn på skolefaglige prestasjoner, men at kjønn påvirker prestasjonene indirekte i et samspill med andre variabler."（Lekhal et al., 2015, p.83）
+
+--- wiki/arguments/journal-articles/Paideia/Argument_Fredens_2015_Paideia.md ---
+> > "Der er kort sagt brug for en præcisering af, hvordan vi bedst lærer noget. Så hvad er læring? Det har [[John Hattie]] og Gregory Yates et videnskabeligt bud på."（简言之，我们需要澄清如何最好地学习。那么什么是学习？John Hattie 和 Gregory Yates 对此有科学答案）（Fredens, 2015, p.70）
+> > "Gør skolen til en feedbackkultur."（使学校成为反馈文化）（Fredens, 2015, p.74）
+> > "Det, der tilegnes let, glemmes let."（轻易获得的东西，轻易被遗忘）（Fredens, 2015, p.71）
+> > "En uddannelseskultur skal ikke fikses, men kultiveres; det fordrer et partnerskab mellem lærer og forskning."（教育文化不应被修理，而应被培养；这需要教师与研究之间的伙伴关系）（Fredens, 2015, p.75）
+
+--- wiki/arguments/journal-articles/Paideia/Argument_Hattie_2015_Paideia.md ---
+> > "Kend din virkning"（[[John Hattie|Hattie]], 2015, p.11）
+> > "Det er således en disposition til at ønske at kende sin virkning, der ligger i kernen af VL-modellen."（Hattie, 2015, p.12）
+
+--- wiki/arguments/journal-articles/Paideia/Argument_Qvortrup_2015_Paideia.md ---
+> > "All studies differ and the only interesting questions to ask about them concern how they vary across the factors we conceive as important."（Glass, 2000, p.8，引自 Qvortrup, 2015, p.25）
+> > "A limitation of many of the results in this book is that they are more related to the surface and deep knowing and less to conceptual understanding."（[[John Hattie|Hattie]], 2009, p.249，引自 Qvortrup, 2015, p.29）
+
+--- wiki/arguments/journal-articles/Paideia/Argument_Hansen_2015_Paideia.md ---
+> > "Det vigtigste er, at den enkelte lærer forstår, at hans eller hendes rolle er at evaluere sin virkning."（Hansen et al., 2015, p.4）
+> > "Som grundlag for hele denne indsats er John Hatties arbejde med synlig læring et uomgængeligt udgangspunkt."（Hansen et al., 2015, p.8）
+
+--- wiki/arguments/journal-articles/Paideia/Argument_Laursen_2015_Paideia.md ---
+> > "Svaret bliver et 'ja', og hvis man vil være forsigtig, kan man eventuelt tilføje et 'i det store og hele'."（回答是"是"，若谨慎一点，可加上"总体上"。）（Laursen, 2015, p.40）
+> > "Konteksten, forstået som elevernes sociale baggrund, betyder i høj grad noget. Men konteksten, forstået som den nationale kultur, ser ikke ud til at spille nogen større rolle..."（作为学生社会背景的语境非常重要；但作为国家文化的语境似乎并不发挥同样大的作用。）（Laursen, 2015, p.40）
+
+--- wiki/arguments/journal-articles/Paideia/Argument_Nordahl_2015_Paideia.md ---
+> "Det er hva læreren gjør og ikke gjør, som er mest avgjørende for elevenes læringsutbytte."（Nordahl, 2015, p.63）
+> "Praksis som bygger evidensbasert pedagogisk forskning, kan ikke garantere gode resultater, men den kan øke sannsynligheten."（Nordahl, 2015, p.63）
+> "Det vi mangler, er ikke verdier, men kunnskap om hvordan verdiene kan realiseres i handling."（Nordahl, 2015, p.68）
+
+--- wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md ---
+> > "This study revealed a 'one country, two narratives' view of China in the two regions' Chinese history textbooks."（p.586）
+> > "Mainland China's textbooks constructed China as a nation by stressing its constitutive territory and ethnic inclusiveness, whereas Hong Kong's highlighted its constitutive ethnicity and changing territory, more frequently and directly narrated interethnic conflicts, and more explicitly promoted Han superiority."（pp.573–574）
+> > "The study proposes constructing the nation in history education as a contextualised and socio-political exercise of reinterpreting the past to reflect current contexts and needs."（p.573）
+> > "The 'one country, two narratives' view of China as a nation in the textbooks reveals a contextualised, socio-political exercise of nation construction, reflecting different interactions between government and textbook editors/writers in different contexts for different purposes."（p.587）
+
+--- wiki/arguments/journal-articles/Comparative Education/Argument_Wang_2025_CE.md ---
+> > "Everyone understands the importance of examinations in shaping children's future. Students who score high in examinations enter better universities and lead better lives. As a teacher, I am expected to help them earn a promising future."（Urban 2-Teacher 1, p.594）
+> > "We know the benefits of [[Learner-Centred Education|LCE]], but pedagogical changes should not lower students' examination results. We can take three years to change our pedagogies, but our students cannot wait three years to take the admission tests. No students should be sacrificed for changes."（Urban 2-Principal, p.596）
+> > "Enhancing students' examination results does not conflict with LCE. They should be mutually beneficial. Moreover, Vygotsky's insights echo [[Confucius]]' beliefs that dialogic teaching contributes to deep thinking."（Rural 2-Principal, p.596）
+> > "The construction of LCE should be rewarded. I am not suggesting that we would not have a try if not being pushed to do so. However, due to the examination pressure, it is easier not to make any changes."（Urban 2-Teacher 1, p.598）
+> > "Compared to urban students, our students generally have much less support from parents, so it is crucial that we implement LCE to enhance their learning efficiency in class. I believe that students can learn effectively when their opinions and autonomy are fully respected."（Rural 2-Principal, p.599）
+
+--- wiki/arguments/journal-articles/Comparative Education/Argument_Zhou_2024_CE.md ---
+> > "While the ideal of democratic education and gradual and incremental reform were consistent and in harmony with each other in [[John Dewey|Dewey]]'s writings and lectures, their relationship turned out to be much more complex in Republican China, where the actualisation of democracy in education would require radical changes."（p.611）
+> > "Dewey's ideas were subject to constant reinvention in Republican China and that the received Dewey was largely a fragmented Dewey born out of its ever-shifting socio-political and cultural context."（pp.609–610）
+> > "This article further considers this phenomenon, and what at times has been referred to as the malleability of Dewey. It indicates that Dewey was, and had to be, something different in the specific context of the Republic of China."（p.622）
+> > "Dewey could be used to support either radical or moderate positions, and both a new education stressing democratic education and one emphasising the [[Scientific Attitude]]. Dewey could not only be part of a framework promoting foreign ideals but also part of one promoting national development."（p.622）
+> > "Reflecting the social, political and educational turmoil of the time, the Republic of China consequently heralded the proverbial fragmentation of Dewey."（p.622）
+
+--- wiki/arguments/journal-articles/Comparative Education/Argument_Yu_2024_CE.md ---
+> > "The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups." (Yu & Zhao, 2024, p.59)
+> > "The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical reflexivity of other cultures." (Yu & Zhao, 2024, p.59)
+> > "Cultural exclusion perpetuates ethnic minority inequality." (Yi 2008, p.1; Yu & Zhao, 2024, p.62)
+> > "The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation." (Yu & Zhao, 2024, p.71)
+
+--- wiki/arguments/journal-articles/Comparative Education/Argument_Teng_2025_CE.md ---
+> "The administrative discrimination based on [[Hukou System|hukou]] is increasingly and implicitly being replaced by market discrimination based on family socioeconomic standings."（Teng & Wang, 2025, p.313）
+> "The departure of rural children subjects village schools to decreased funding, accelerated teacher turnover, worsening academic performance, and an ultimately increased risk of school closures."（Teng & Wang, 2025, pp.313–314）
+> "School choice, whether driven by marketisation or urbanisation, merely addresses the surface issues when it comes to educational inequality."（Teng & Wang, 2025, p.314）
+
+--- wiki/arguments/journal-articles/Comparative Education/Argument_Vickers_2024_CE.md ---
+> > "The post-2020 overhaul of the curriculum for [[Liberal Studies]] / [[Citizenship and Social Development|CSD]] signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese."（p.154）
+> > "While within Hong Kong, political and ideological discourse pays less direct or explicit homage to the CCP and the person of Xi himself than on the mainland, a growing convergence in narratives of history, culture, values and identity is clear."（p.154）
+> > "Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation."（p.154）
+> > "Hong Kong thus stands as a warning of how 'decolonial' thinking, in obsessing over the 'pedigree' of ideas, can overlook the importance of native 'agency'."（p.155）
+> > "In fulfilment of a fascistic vision of culture, race and state sovereignty, politics in the new Hong Kong is no longer presented as an arena for civic agency, but as a stage for performing patriotic loyalty."（p.155）
+
+--- wiki/arguments/journal-articles/McGill Journal of Education/Argument_Bergeron_2017_MJE.md ---
+> > "When taking the necessary in-depth look at [[Visible Learning]] with the eye of an expert, we find not a mighty castle but a fragile house of cards that quickly falls apart." (Bergeron & Rivard, 2017, p.238)
+> > "To believe [[John Hattie|Hattie]] is to have a blind spot in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness." (Bergeron & Rivard, 2017, p.238)
+> > "Hattie's comparisons are arbitrary and he is completely unaware of it." (Bergeron & Rivard, 2017, p.241)
+> > "Basically, Hattie computes averages that do not make any sense." (Bergeron & Rivard, 2017, p.240)
+> > "It is clear that John Hattie and his team have neither the knowledge nor the competencies required to conduct valid statistical analyses. No one should replicate this methodology because we must never accept pseudoscience." (Bergeron & Rivard, 2017, p.245)
+
+--- wiki/arguments/journal-articles/Journal of Education & Social Policy/Argument_Blass_2020_JESP.md ---
+> > "Would you want a surgeon looking at books from 1990 to learn about the use of robotics in surgery? No! Would you want an oncologist to look up the latest cancer treatments from the 1980's? No! So why are you allowing teaching outcomes from this time to influence what you are doing today in the classroom?" (Blass, 2020, p.95)
+> > "Australia has lost its way in education and [[John Hattie|Hattie]] is the fallback that is used to justify this position. But I doubt this was Hattie's intent." (Blass, 2020, p.97)
+> > "Being the subject matter expert is no longer the role of the teacher; teaching passion for a subject and learning is." (Blass, 2020, p.95)
+
+--- wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Gorur_2014_Discourse.md ---
+> > "the insouciance and confidence with which the OECD routinely, annually, produces such a range of indicators … belies the decades of hesitation, experimentation, negotiation and effort that went into the development of these [[International Education]] indicators"（Gorur, 2014, p.4）
+> > "the project's fundamental scientific ambition was inconsistent with the available means and the interests of the government authorities which would have had to fund the initiative. And so the social science specialists were unable to see their project through to its conclusion. It was a failure."（Bottani, 2008, p.14; Gorur, 2014, p.10）
+> > "one can get the impression that these indicators have been invented to avoid leaving empty cells in the subgroup of student achievement"（Bottani, 1996, p.284; Gorur, 2014, p.13）
+> > "no cognitive approach leaves the subject of its observation, measurement, analysis, comparison, deciphering, completely unscathed. There is no clear ontological divide between science and techniques, between cognitive reality and its modification."（Bottani, 2008, p.22; Gorur, 2014, p.18）
+
+--- wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_McKnight_2020_Discourse.md ---
+> "Impact"一词等于"有力的接触"（子弹、炮弹）。"Know thy impact"带有圣经式语气——是在后结构主义质疑之后对确定性的加固。"眼睛将其不足隐藏在傲慢背后"——眼睛本质上是脆弱的（玻璃体冻胶），需要好斗。实证主义科学的纪律只是另一种虚构——众多研究叙事之一。
+> > "In Visible Learning's [[Meta-analysis]], the wisdom of teachers is taken, processed, and served back, at a price. Teachers, in a feminised profession (Apple, 1986/2013), submit to heteronormative, sexist and ableist constructions of education."（p.35）
+> > "We hire people to deliver it and only one in five passes. That is because almost every teacher wants to get up and talk about their story, their anecdotes and their classrooms. We will not allow that, because as soon as you allow that, you legitimise every teacher in the room talking about their war stories, their views, their kids."（[[John Hattie|Hattie]], in Knudsen, 2017, p.254，引自 p.37）
+> > "The eye, limited to that single function of sight, hides its inadequacies behind arrogance, and insists that seeing is the only way. ... The eye needs to be belligerent, as it is essentially made of vitreous jelly."（p.40-41）
+> > "Visible Learning, despite all its complicated effect sizes, equations and figures, is ultimately too simple a mantra."（p.39）
+> > "We hope our thoughts here may energise dialogue around Visible Learning and teacher professionalism and encourage others to enter the fray."（p.42）
+
+--- wiki/arguments/journal-articles/Journal of Research on Educational Effectiveness/Argument_Wolf_2020_JREE.md ---
+> > "We find evidence of a '[[Developer Effect]],' where program evaluations carried out or commissioned by developers produced average effect sizes that were substantially larger than those identified in evaluations conducted by independent parties." (Wolf et al., 2020, p. 428)
+> > "When looking within the same program, developer-commissioned studies produced average effect sizes that were 1.7 times greater than those in independent studies." (Wolf et al., 2020, p. 439)
+> > "Open access to study data holds the greatest promise for mitigating bias when authors publish complete datasets, including missing values and all participants who were included in the study at the onset, to the extent possible." (Wolf et al., 2020, p. 444)
+
+--- wiki/arguments/journal-articles/British Educational Research Journal/Argument_Wrigley_2018_BERJ.md ---
+> > "When 'evidence' is reduced to a mean [[Effect Size]], the individual person or event is shut out, complexity is lost and values are erased." (p. 2)
+> > "There is, in truth, no evidence of benefit from Fresh Start compared with the control group: the headlined 'three months additional progress' is simply a phantom of poor randomisation." (p. 6)
+> > "An aggregate mean of effect sizes calculated ... the conclusion drawn that '[[Feedback]]' is the most effective way to improve attainment. Since feedback is inevitably present in some way in any pedagogical interaction, it would be more illuminating to examine reasons for the differences." (p. 10)
+> > "Placing classroom assistants near the bottom of the Toolkit's league table...could result in schools and academy chains terminating their employment, especially in times of budget cuts." (p. 12)
+> > "The sloganistic 'what works' reflects a neoliberal demand to extract maximum efficiency from education, while marginalising the qualitative and political dimensions of human formation." (p. 13)
+> > "Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals." (Pawson, 2006: 45, 引自 Wrigley, p. 7)
+> > "At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning." (Pawson, 2006: 42–43, 引自 Wrigley, p. 13)
+> > "The result of a [[Meta-analysis]] should never be an average; it should be a graph." (Gene Glass, 引自 Wrigley, p. 9)
+> > "The attempt to make learning visible eclipses older understandings of education as [[Bildung]] and pedagogy (both words carrying the sense of human formation)." (p. 16)
+
+--- wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md ---
+> "I want to establish a thread to run through the debate — that grammar schools are simply good schools and that we need good schools to flourish."（p.16）
+> "It would appear that it is less easy to refute or sidestep certain evidence when it emerges from within Parliament."（p.28）
+> "What has emerged... is a discourse that is constructive as it actively and persistently distorts the meaning of 'good' — it is a sidestep into a world of fantasised goodness, while also away from an often-unspoken world of 'badness'"（p.19）
+> "What has emerged...is a discourse that is constructive as it actively and persistently distorts the meaning of 'good'—it is a sidestep into a world of fantasised goodness, while also away from an often-unspoken world of 'badness'"（p.19）
+> "The 'good schools' discourse is an [[Ofsted]]-derived evidenced position, which makes it all the more deceptive; it is a [[Moral Sidestep]] cloaked in the language of evidence."（p.28）
+> "It would appear that it is less easy to refute or sidestep certain evidence when it emerges from within Parliament."（p.28）
+> "Whereas it might be asking too much of our politicians to insist that they be aware of rigorous research methods, it is not too much to hold them to a high standard of ethics and to hold them to account when their demonstrated ethics fall short."（p.30）
+
+--- wiki/arguments/journal-articles/International Journal of Research & Method in Education/Argument_Peterson_2016_IJRME.md ---
+> > "The key weakness of 'What Works' is that it generates evidence relevant only to single either-or decisions." (p. 300, citing Cartwright & Hardie, 2012)
+> > "In contrast, [[Improvement Science]] and other networked inquiry approaches are designed to fit with the daily context of teaching and learning, allowing for continuous small decisions based on [[Feedback]] and adaptation." (p. 300)
+> > "The central advantage of designing trials around mechanisms is that it would allow for greater continuity between randomized evaluations and the 'learning sciences'." (p. 305)
+> > "The shared set of mechanisms would provide a means to learn from, and form a continuity with, the insights generated within improvement and inquiry networks, and within the learning sciences." (p. 308)
+> > "The learner becomes the focus as opposed to the protocols of the programme to be implemented." (p. 307)
+
+--- wiki/arguments/journal-articles/International Journal of Research & Method in Education/Argument_Pampaka_2016_IJRME.md ---
+> "What works" 议程在教育中是否有效？通过引入 IJRME 特刊七篇论文，考察当前 [[Randomised Controlled Trials|RCT]] 主导的证据实践在方法论上的进展与局限，探讨是否需要从"什么有效"转向"什么在何处、如何、对谁有效"。
+
+--- wiki/arguments/journal-articles/School Leadership & Management/Argument_Eacott_2017_SLM.md ---
+> > "I argue that the uncritical acceptance and proliferation of this cult is a tragedy for Australian [[School Leadership]]."（p.413）
+> > "Rather than models of pedagogy, even those that came with instruments to measure the quality of practice ... Hattie provided school administrators with evidence on which they could base decisions – evidence informed decisions."（p.418）
+> > "The partitioning of teaching into smallest measurable units, a piecemeal articulation of how to improve student learning, is not too removed from the work of Taylor over 100 years ago."（p.422）
+> > "To subjectify oneself to a single figure is to elevate that individual to guru status. What the Australian school leadership community arguably needs is more rigorous and robust work and more significantly, dialogue and debate (to which Hattie is a part) not the blind adherence to a single guru."（p.422）
+
+--- wiki/arguments/journal-articles/School Leadership & Management/Argument_Hattie_2017_SLM.md ---
+> > "Every paradigm or set of conjectures should be tested to destruction and its authors, adherents, and users of the ideas should face public accountability. Thesis-antithesis-synthesis is well built into the water of academia."（p.428）
+
+--- wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CE.md ---
+> > "We view this opaque exposition of methodology as outside the spirit of scientific inquiry"（p.26）
+> > "Visible Learning is a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review."（p.35）
+> > "It promises simple, cheap, classroom level fixes to manufactured alarm surrounding achievement scores."（p.36）
+
+--- wiki/arguments/journal-articles/Język-Szkoła-Rodzina/Argument_Sarbiewska_2019_JSR.md ---
+> > "VL 属于[[Radical Constructivism|激进建构主义]]范式，因此[[Constructivist Paradigm|建构主义]]的问题与 Hattie 的教学概念直接相关，这导致教学本质的双重崩溃"（Rømer, cited in Sarbiewska, 2019, p.121–122）
+
+--- wiki/arguments/journal-articles/European Educational Research Journal/Argument_Møller_2017_EERJ.md ---
+> > "Education is and always will be a contested [[Champ|field]]."（p.383）
+> > "Success requires that we ask: success in or for what, success for whom, who benefits, and success under what conditions?"（p.383）
+> > "What counts as evidence should not be separated from deeper philosophical questions, because education is essentially a moral enterprise."（p.383）
+
