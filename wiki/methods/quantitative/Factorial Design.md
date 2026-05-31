@@ -21,7 +21,7 @@ related_theories: []
 related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
-  - "[[Analysis of Variance (ANOVA)]]"
+  - "[[Analysis of Variance]]"
   - "[[Solomon Four-Group Design]]"
 related_persons: []
 related_facts: []
@@ -51,7 +51,7 @@ updated: 2026-05-31
 2. 明确变量是受试者间还是受试者内类型。
 3. 使用[[Random Assignment|随机分配]]将受试者分配到各条件组合中（受试者间变量）。
 4. 收集因变量数据。
-5. 使用[[Analysis of Variance (ANOVA)|方差分析]]（ANOVA）检验：
+5. 使用[[Analysis of Variance|方差分析]]（ANOVA）检验：
    - 每个独立变量的主效应
    - 独立变量之间的交互效应
 6. 报告[[Effect Size|效应量]]和[[Confidence Interval|置信区间]]以评估实际意义。

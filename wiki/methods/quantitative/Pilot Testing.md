@@ -18,7 +18,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Study Population and Sample]]"
-  - "[[Internal Consistency (Cronbach's Alpha)]]"
+  - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -52,7 +52,7 @@ updated: 2026-05-31
 2. 在接近正式研究的条件下施测全部研究材料和程序。
 3. 收集中间过程的反馈——包括受试者对问题理解、格式清晰度、说明完整性的意见。
 4. 评估研究总耗时和受试者疲劳风险——一次过长的测试可能导致正式研究中退出率升高。
-5. 对试点数据检查条目[[Internal Consistency (Cronbach's Alpha)|内部一致性]]（Cronbach's α）。
+5. 对试点数据检查条目[[Internal Consistency and Cronbach's Alpha|内部一致性]]（Cronbach's α）。
 6. 基于试点反馈修订问题措辞、量表格式、施测说明和程序流程。
 
 > [!note] 调查与实验中的试点测试差异
@@ -70,7 +70,7 @@ updated: 2026-05-31
 ## 局限性
 
 > [!warning]
-> - 试点测试的样本量通常较小，其信度估计（如 [[Internal Consistency (Cronbach's Alpha)|Cronbach's α]]）可能不稳定。试点结果应作为改进工具的方向性参考，而非最终信效度证据。
+> - 试点测试的样本量通常较小，其信度估计（如 [[Internal Consistency and Cronbach's Alpha|Cronbach's α]]）可能不稳定。试点结果应作为改进工具的方向性参考，而非最终信效度证据。
 > - 试点测试需要额外的时间和资源——在时间紧迫的项目中可能被省略，但省略会增加正式研究中出现工具或程序问题的风险（Creswell & Creswell, 2022, Ch8）。
 
 ## 使用此方法的研究

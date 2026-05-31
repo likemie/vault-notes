@@ -13,7 +13,7 @@ tags:
   - region/australia
 related_concepts:
   - "[[Knowledge Production]]"
-  - "[[Internal Consistency (Cronbach's Alpha)]]"
+  - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Parallel Monologues]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
@@ -53,7 +53,7 @@ updated: 2026-05-19
 
 > [!info] 核心思想
 > - **社会认识论（social epistemology）在教育行政中的应用**：Eacott 发展了教育行政与领导力领域的社会认识论框架（Eacott, 2017b），关注[[Knowledge Production|知识生产]]的社会条件和学术工作的逻辑——即知识主张如何在特定的社会安排中被生成、被接受（或被拒绝）（Eacott, 2019, p.774）
-> - **学术工作的逻辑 = 论证与反驳（argument and refutation）**：遵循 [[Pierre Bourdieu|Bourdieu]] 的规范性立场，Eacott 主张学术实践应当以论证和反驳为核心逻辑，而非 thesis-antithesis-synthesis。区别在于：反驳要求在对对方论证进行实质性参与的基础上，检验其稳健性和[[Internal Consistency (Cronbach's Alpha)|内部一致性]]；而非仅仅从自身规范立场出发进行否定（Eacott, 2019, p.779）
+> - **学术工作的逻辑 = 论证与反驳（argument and refutation）**：遵循 [[Pierre Bourdieu|Bourdieu]] 的规范性立场，Eacott 主张学术实践应当以论证和反驳为核心逻辑，而非 thesis-antithesis-synthesis。区别在于：反驳要求在对对方论证进行实质性参与的基础上，检验其稳健性和[[Internal Consistency and Cronbach's Alpha|内部一致性]]；而非仅仅从自身规范立场出发进行否定（Eacott, 2019, p.779）
 > - **[[Parallel Monologues|平行独白]]（Parallel Monologues）**：Eacott 识别并命名了教育行政与领导力领域的结构性现象——学者们在各自子领域内发表、引用和建立事业，但很少认真尝试与他人的知识主张进行实质性交锋（Eacott, 2019, p.774）
 > - **"[[Cult of the Guru|大师崇拜]]"与 [[Neo-Taylorism]] 批评**：Eacott 将 [[John Hattie|Hattie]] 的 [[Visible Learning]] 称为"[[Neo-Taylorism|新泰勒主义]]"（Neo-Taylorism），认为其核心逻辑与 Taylor 的科学管理原理同构——寻找"唯一正确方法"、将实践拆解为最小操作单元、最大化效率（Eacott, 2017, p.418-422）。他同时批评澳大利亚教育系统对"Hattie 品牌"的不加批判的接受为"澳大利亚[[School Leadership|学校领导力]]的悲剧"（Eacott, 2017, p.413）
 > - **关系取向的组织理论**：在 *Beyond Leadership*（2018）中，Eacott 提出了超越传统领导力研究的"关系取向"（relational approach），将关注点从个体领导者转向组织中的关系动态（Eacott, 2019, p.774）

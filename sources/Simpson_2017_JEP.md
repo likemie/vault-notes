@@ -1,11 +1,11 @@
 ---
 citation: "Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466."
 extracted_to:
-  - "[[Argument_Simpson_2017_JEP]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Adrian Simpson]]"
+  - "[[Argument_Simpson_2017_JEP]]"
 processed_date: 2026-05-04
 ---
 

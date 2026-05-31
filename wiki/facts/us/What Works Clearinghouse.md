@@ -24,7 +24,7 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
   - "[[Evidence-Based Education]]"
-  - "[[Construct Validity (Quantitative)]]"
+  - "[[Construct Validity in Quantitative Measurement]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -116,7 +116,7 @@ updated: '2026-05-18'
 > - WWC 成为美国联邦教育证据基础设施的核心组成部分，并为后续 ESSA 证据标准定义提供了制度基础（Wiliam, 2019, p.3; Wolf et al., 2020, p.429）。
 > - WWC 的审查标准也受到批评：Ginsburg & Smith (2016) 分析 27 项被 WWC 高评分的数学课程 [[Randomised Controlled Trials|RCT]]，发现 26 项存在多重严重问题；Wiliam 引用该研究指出，即使单一威胁产生的误差幅度也常常大于 RCT 处理的平均[[Effect Size|效应量]]（Wiliam, 2019, p.5）。
 > - Wiliam (2019) 使用 WWC 的创建作为 [[Evidence-Based Education|EBE]] 政治动力的标志：它反映了政策制定者想要简单"什么有效"答案的持续需求，即使 Wiliam 的论证认为这种简单答案在原则上不可得（Wiliam, 2019, p.3）。
-> - Wadhwa et al. (2024) 将 WWC 放入 12 个教育清算中心的比较生态中，显示 WWC 虽然高度可见，但其标准不是教育领域唯一可行标准；不同清算中心对同一项目的评级分歧说明"evidence-based"在清算中心语境中只有有限实践[[Construct Validity (Quantitative)|构念效度]]（Wadhwa et al., 2024, pp.26, 28）。
+> - Wadhwa et al. (2024) 将 WWC 放入 12 个教育清算中心的比较生态中，显示 WWC 虽然高度可见，但其标准不是教育领域唯一可行标准；不同清算中心对同一项目的评级分歧说明"evidence-based"在清算中心语境中只有有限实践[[Construct Validity in Quantitative Measurement|构念效度]]（Wadhwa et al., 2024, pp.26, 28）。
 
 ## 相关概念／政策
 

@@ -23,7 +23,7 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
-  - "[[Construct Validity (Quantitative)]]"
+  - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Blinding]]"
   - "[[Experimenter Bias]]"
   - "[[Descriptive Analysis]]"
@@ -42,7 +42,8 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Subject Design]]"
   - "[[Solomon Four-Group Design]]"
-  - "[[Analysis of Variance (ANOVA)]]"
+  - "[[Analysis of Variance]]"
+  - "[[Analysis of Covariance]]"
   - "[[Between-Subjects and Within-Subjects Designs]]"
   - "[[Survey Research]]"
 related_persons: []
@@ -119,7 +120,7 @@ updated: 2026-05-31
 ### 效度威胁
 
 > [!warning]
-> 实验研究者需要识别并最小化以下内部效度威胁：历史、成熟、回归均值、选择、流失、处理扩散、补偿性／怨恨性士气低落、补偿性竞争、测验和工具（详见表 8.5）。以及[[External Validity|外部效度]]威胁：选择与处理的交互、情境与处理的交互、历史与处理的交互（详见表 8.6）。此外还需考虑**统计结论效度威胁**（因统计功效不足或违反统计假设导致不准确推论）和**[[Construct Validity (Quantitative)|构念效度]]威胁**（变量定义和测量不当）（Creswell & Creswell, 2022, Ch8）。
+> 实验研究者需要识别并最小化以下内部效度威胁：历史、成熟、回归均值、选择、流失、处理扩散、补偿性／怨恨性士气低落、补偿性竞争、测验和工具（详见表 8.5）。以及[[External Validity|外部效度]]威胁：选择与处理的交互、情境与处理的交互、历史与处理的交互（详见表 8.6）。此外还需考虑**统计结论效度威胁**（因统计功效不足或违反统计假设导致不准确推论）和**[[Construct Validity in Quantitative Measurement|构念效度]]威胁**（变量定义和测量不当）（Creswell & Creswell, 2022, Ch8）。
 
 ### 实验操作步骤
 
@@ -136,7 +137,7 @@ updated: 2026-05-31
 > 实验数据分析步骤（Creswell & Creswell, 2022, Ch8）：
 > 1. 报告[[Descriptive Analysis|描述统计]]：频率、均值与标准差、样本人口学构成、主要结果变量的组间均值和标准差。
 > 2. 初步分析：检验随机分配的成功性（各组在基线是否等价）、操纵检查（操纵是否成功产生组间差异）、关键研究变量间的关联（相关矩阵）。
-> 3. 推断统计检验：以比较组间差异为核心，大量使用[[Analysis of Variance (ANOVA)|ANOVA]]、ANCOVA 和 MANOVA。
+> 3. 推断统计检验：以比较组间差异为核心，大量使用[[Analysis of Variance|ANOVA]]、[[Analysis of Covariance|ANCOVA]] 和 MANOVA。
 > 4. 因子设计中检验主效应和交互效应，同时报告[[Effect Size|效应量]]和[[Confidence Interval|置信区间]]。
 > 5. [[Single-Subject Design|单受试者设计]]中使用折线图展示基线和处理观测数据，x 轴为时间单位，y 轴为目标行为。
 

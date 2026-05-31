@@ -16,7 +16,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
   - "[[Logic Model]]"
-  - "[[Internal Consistency (Cronbach's Alpha)]]"
+  - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Technology Infusion]]"
   - "[[Absorptive Capacity]]"
 related_theories: []
@@ -57,7 +57,7 @@ updated: '2026-05-23'
 
 > [!info]- 核心数据
 > - STAT 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应（Ross & Morrison, 2021, p.116）。
-> - STAT 课堂观察从 2014 年秋至 2019 年春持续进行，单次观察约 20 分钟；观察工具总体评分者一致性 [[Internal Consistency (Cronbach's Alpha)|Cronbach's alpha]] 为 .972（Ross & Morrison, 2021, p.117）。
+> - STAT 课堂观察从 2014 年秋至 2019 年春持续进行，单次观察约 20 分钟；观察工具总体评分者一致性 [[Internal Consistency and Cronbach's Alpha|Cronbach's alpha]] 为 .972（Ross & Morrison, 2021, p.117）。
 
 ## 适用场景
 

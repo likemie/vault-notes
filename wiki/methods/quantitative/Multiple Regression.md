@@ -17,7 +17,8 @@ related_concepts:
   - "[[Research Question]]"
 related_theories: []
 related_methods:
-  - "[[Analysis of Variance (ANOVA)]]"
+  - "[[Analysis of Variance]]"
+  - "[[Analysis of Covariance]]"
   - "[[Survey Research]]"
 related_persons: []
 related_facts: []
@@ -61,7 +62,7 @@ updated: 2026-05-31
 > - **层级回归（Hierarchical Regression）**：按理论驱动的顺序逐步加入预测[[Variable|变量]]块，考察每块变量对 R² 的增量贡献。
 > - **逐步回归（Stepwise Regression）**：由统计程序自动选择进入或退出模型的变量——但因其结果依赖样本特征且缺乏理论驱动，Creswell 未推荐此方法。
 > - vs Pearson 相关 — Pearson 相关是双变量分析（一次两个变量）；多元回归是多变量分析（多个预测变量同时进入模型）。
-> - vs [[Analysis of Variance (ANOVA)|ANOVA]]／ANCOVA — ANOVA 比较组间均值，通常使用类别预测变量；多元回归使用连续预测变量。ANCOVA 可视为 ANOVA 和回归的混合形式——组间比较中加入连续协变量。
+> - vs [[Analysis of Variance|ANOVA]]／[[Analysis of Covariance|ANCOVA]] — ANOVA 比较组间均值，通常使用类别预测变量；多元回归使用连续预测变量。ANCOVA 可视为 ANOVA 和回归的混合形式——组间比较中加入连续协变量。
 
 ## 适用场景
 

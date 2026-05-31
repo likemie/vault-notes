@@ -13,7 +13,7 @@ tags:
   - quantitative-research
   - reliability
 related_concepts:
-  - "[[Internal Consistency (Cronbach's Alpha)]]"
+  - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Construct]]"
   - "[[Test-Retest Reliability]]"
   - "[[Literature Review]]"
@@ -55,7 +55,7 @@ updated: 2026-06-01
 ## 概念辨析
 
 > [!example]
-> - vs [[Internal Consistency (Cronbach's Alpha)|内部一致性]]（Internal Consistency） — 调查设计通常关注量表内部条目间的一致性（内部一致性）；但有些研究涉及多位评判者使用同一工具进行评分，此时评分者间信度成为需要建立的重要信度形式。两者回答不同的问题："条目是否一致地测量同一[[Construct|构念]]？"vs"不同的人在评分时是否一致？"
+> - vs [[Internal Consistency and Cronbach's Alpha|内部一致性]]（Internal Consistency） — 调查设计通常关注量表内部条目间的一致性（内部一致性）；但有些研究涉及多位评判者使用同一工具进行评分，此时评分者间信度成为需要建立的重要信度形式。两者回答不同的问题："条目是否一致地测量同一[[Construct|构念]]？"vs"不同的人在评分时是否一致？"
 > - vs [[Test-Retest Reliability|重测信度]]（Test-Retest Reliability） — 重测信度关注同一工具在不同时间点施测的稳定性；评分者间信度关注不同评判者在同一时间点评分的稳定性。两者是信度的不同维度，在不同研究设计中各有侧重。
 
 ## 适用场景

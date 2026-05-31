@@ -20,7 +20,7 @@ related_concepts:
   - "[[Confidence Interval]]"
 related_theories: []
 related_methods:
-  - "[[Analysis of Variance (ANOVA)]]"
+  - "[[Analysis of Variance]]"
   - "[[Survey Research]]"
   - "[[Single-Subject Design]]"
 related_persons: []
@@ -57,7 +57,7 @@ updated: 2026-05-31
 > [!tip]
 > - **独立样本 t 检验**：比较两个独立组的均值，如实验组 vs 对照组的后测得分。
 > - **配对样本 t 检验**：比较同一组在两次测量中的均值，如前测 vs 后测。
-> - vs [[Analysis of Variance (ANOVA)|ANOVA]] — t 检验是 ANOVA 在两组比较时的特例；当需要比较三组或以上时，应使用 ANOVA 而非多次 t 检验（以避免第一类错误膨胀）。
+> - vs [[Analysis of Variance|ANOVA]] — t 检验是 ANOVA 在两组比较时的特例；当需要比较三组或以上时，应使用 ANOVA 而非多次 t 检验（以避免第一类错误膨胀）。
 
 ## 适用场景
 

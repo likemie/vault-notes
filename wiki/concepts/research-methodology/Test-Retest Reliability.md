@@ -13,7 +13,7 @@ tags:
   - quantitative-research
   - reliability
 related_concepts:
-  - "[[Internal Consistency (Cronbach's Alpha)]]"
+  - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Construct]]"
 related_theories: []
@@ -51,12 +51,12 @@ updated: 2026-06-01
 4. 报告两次测量的均值差异，以评估是否存在系统性变化（如练习效应或疲劳效应）。
 
 > [!example] PSS 重测信度
-> Perceived Stress Scale（PSS; Cohen et al., 1983）在很多已发表报告中具有良好的[[Internal Consistency (Cronbach's Alpha)|内部一致性]]（α = .84–.86），同时研究者也可以评估其重测信度——即 PSS 在间隔一个月后重复施测时是否产生稳定的知觉压力估计值。这一信息有助于判断 PSS 是适合评估长期压力水平（高重测信度）还是对近期事件更敏感（低重测信度）（Creswell & Creswell, 2022, Ch8）。
+> Perceived Stress Scale（PSS; Cohen et al., 1983）在很多已发表报告中具有良好的[[Internal Consistency and Cronbach's Alpha|内部一致性]]（α = .84–.86），同时研究者也可以评估其重测信度——即 PSS 在间隔一个月后重复施测时是否产生稳定的知觉压力估计值。这一信息有助于判断 PSS 是适合评估长期压力水平（高重测信度）还是对近期事件更敏感（低重测信度）（Creswell & Creswell, 2022, Ch8）。
 
 ## 概念辨析
 
 > [!example]
-> - vs [[Internal Consistency (Cronbach's Alpha)|内部一致性]]（Internal Consistency） — 内部一致性是"同一时间点各条目是否一致"（横截面信度）；重测信度是"同一量表在不同时间是否一致"（纵向信度）。两者回答不同的问题，不可相互替代。
+> - vs [[Internal Consistency and Cronbach's Alpha|内部一致性]]（Internal Consistency） — 内部一致性是"同一时间点各条目是否一致"（横截面信度）；重测信度是"同一量表在不同时间是否一致"（纵向信度）。两者回答不同的问题，不可相互替代。
 > - vs [[Inter-Rater Reliability|评分者间信度]]（Inter-Rater Reliability） — 评分者间信度关注不同评判者之间的一致性；重测信度关注同一工具在时间维度上的稳定性。
 
 ## 争议与批评

@@ -13,7 +13,7 @@ tags:
   - validity
 related_concepts:
   - "[[Internal Validity]]"
-  - "[[Construct Validity (Quantitative)]]"
+  - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Construct]]"
   - "[[Variable]]"
 related_theories: []
@@ -51,7 +51,7 @@ updated: 2026-05-31
 > [!note] 两种额外的效度威胁
 > 除[[Internal Validity|内部效度]]和外部效度外，Creswell & Creswell (2022, Ch8) 还提到了另外两种效度威胁：
 > - **统计结论效度（Statistical Conclusion Validity）**：因统计功效不足或违反统计假设而导致研究者从数据中得出不准确的推论。
-> - **[[Construct Validity (Quantitative)|构念效度]]威胁（Threats to [[Construct]] Validity）**：研究者使用不恰当的[[Variable|变量]]定义和测量方式，导致构念的操作化无法准确反映理论构念。
+> - **[[Construct Validity in Quantitative Measurement|构念效度]]威胁（Threats to [[Construct]] Validity）**：研究者使用不恰当的[[Variable|变量]]定义和测量方式，导致构念的操作化无法准确反映理论构念。
 
 ## 争议与批评
 

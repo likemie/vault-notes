@@ -21,7 +21,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Variable]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Internal Consistency (Cronbach's Alpha)]]"
+  - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Constructivist Paradigm]]"
   - "[[Didaktik]]"
   - "[[Feedback]]"
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 > 1. [[John Hattie|Hattie]] 区分了[[Surface and Deep Learning|表层学习]]、深层学习和建构性理解三个层次，但没有认真讨论它们之间的概念关系及如何对应实证分析
 > 2. 作为 60,000 项评价发现的[[Meta-analysis|元分析]]综合，因变量"学业成就"如何被操作化、测量的是哪个层次的学习——无人知晓
 > 3. 评价概念缩小了学习，科学/哲学概念扩大了学习——评价在此支配，因此是狭义的评量性学习概念决定了语言游戏的顺序
-> 4. 构造了"研究笼子"（research cage）：高信度、高[[Internal Consistency (Cronbach's Alpha)|内部一致性]]，但因变量和自变量相互循环定义，与研究对象本身没有任何接触——以牺牲效度和外部环境对应为代价（Rømer, 2018, p.5-6）
+> 4. 构造了"研究笼子"（research cage）：高信度、高[[Internal Consistency and Cronbach's Alpha|内部一致性]]，但因变量和自变量相互循环定义，与研究对象本身没有任何接触——以牺牲效度和外部环境对应为代价（Rømer, 2018, p.5-6）
 >
 > ### 论证三：[[Radical Constructivism|激进建构主义]]消解教学概念——双重瓦解
 > 1. Hattie 以 Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]为出发点，完全接受其建构主义学习观

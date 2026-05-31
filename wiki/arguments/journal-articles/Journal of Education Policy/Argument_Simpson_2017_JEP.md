@@ -19,7 +19,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Statistical Significance]]"
   - "[[Null Hypothesis]]"
-  - "[[Internal Consistency (Cronbach's Alpha)]]"
+  - "[[Internal Consistency and Cronbach's Alpha]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
@@ -124,7 +124,7 @@ updated: '2026-05-18'
 > **精确度——思想实验**：两位农民进行完全相同的肥料试验。第一位每株随机选择 5 颗豆子测量，第二位选 10 颗。第二位报告的效应量可高达第一位的 140%——因为更多测量减少了株内方差，缩小了标准差（Simpson, 2017, pp.12–13）。
 >
 > **模拟证据**（Simpson, 2017, p.13, Figure 3）：
-> - 对于 [[Internal Consistency (Cronbach's Alpha)|Cronbach's α]]=0.75 的测试，2 题替代 1 题膨胀效应量 ~20%，20 题使效应量翻倍以上
+> - 对于 [[Internal Consistency and Cronbach's Alpha|Cronbach's α]]=0.75 的测试，2 题替代 1 题膨胀效应量 ~20%，20 题使效应量翻倍以上
 > - Kluger & DeNisi (1996) 反馈元分析中：6 个任务（Hornblum & Overton, 1976）vs 300 道算术题（Dossett, Latham, & Mitchell, 1979）——在其他条件相同的情况下，后者效应量可能超过前者的两倍
 >
 > **系统性含义**：反馈研究中容易设计高度聚焦的测试（针对该学术学科），但早期干预研究几乎必须使用标准化测量。反馈元分析中仅 9/68 个效应量使用标准化测试（Bangert-Drowns et al., 1991; Kingston & Nash, 2011），而早期干预元分析中 37/39 个使用标准化测试（Nelson, Westhues, & MacLeod, 2003; Anderson et al., 2003）。结果是反馈效应量系统性地高于早期干预——不是因为反馈更有效（Simpson, 2017, pp.13–14）。

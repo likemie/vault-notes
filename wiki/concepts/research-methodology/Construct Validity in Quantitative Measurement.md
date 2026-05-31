@@ -1,10 +1,11 @@
 ---
-title: Construct Validity (Quantitative)
+title: Construct Validity in Quantitative Measurement
 aliases:
   - 构念效度
   - 建构效度
   - construct validity of measurement
   - measurement validity
+  - Construct Validity (Quantitative)
 summary: "量化研究中评估测量工具是否准确测量了其意图测量的假设构念或概念的效度形式，区别于实验研究中的构念效度威胁"
 type: concept
 tags:

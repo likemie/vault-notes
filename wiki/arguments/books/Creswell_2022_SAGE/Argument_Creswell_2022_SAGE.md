@@ -62,7 +62,7 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Statistical Significance]]"
   - "[[Response Bias]]"
-  - "[[Internal Consistency (Cronbach's Alpha)]]"
+  - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Manipulation Check]]"
   - "[[Blinding]]"
   - "[[Cover Story]]"
@@ -103,7 +103,7 @@ related_methods:
   - "[[Between-Subjects and Within-Subjects Designs]]"
   - "[[Solomon Four-Group Design]]"
   - "[[Random Sampling]]"
-  - "[[Analysis of Variance (ANOVA)]]"
+  - "[[Analysis of Covariance]]"
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
@@ -811,7 +811,7 @@ Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三
 > |---|---|---|---|
 > | 调查设计 | 目的声明 → 选择理由 → 横截面/纵向 → 数据收集形式 | 设计类型选择、不可行性辩护 | [[Survey Research]] |
 > | 总体与样本 | 总体识别 → 抽样设计（单阶段/整群）→ 抽样类型（随机/系统/便利）→ 分层 → 样本量确定 | [[Study Population and Sample\|总体 vs 样本]]、[[Random Sampling\|抽样层级]]、[[Power Analysis\|功效分析]] | [[Survey Research]]、[[Power Analysis]] |
-> | 工具 | 选择已有/修改/自编工具 → 报告分数效度 → 报告分数信度 → 试点测试 → 施测流程 | [[Construct Validity (Quantitative)\|构念效度]]与效标效度、[[Internal Consistency (Cronbach's Alpha)\|内部一致性]]（Cronbach's α, .7–.9）、[[Test-Retest Reliability\|重测信度]]、[[Inter-Rater Reliability\|评分者间信度]] | [[Survey Research]]、[[Pilot Testing]] |
+> | 工具 | 选择已有/修改/自编工具 → 报告分数效度 → 报告分数信度 → 试点测试 → 施测流程 | [[Construct Validity in Quantitative Measurement\|构念效度]]与效标效度、[[Internal Consistency and Cronbach's Alpha\|内部一致性]]（Cronbach's α, .7–.9）、[[Test-Retest Reliability\|重测信度]]、[[Inter-Rater Reliability\|评分者间信度]] | [[Survey Research]]、[[Pilot Testing]] |
 > | 变量 | 变量名称 → 操作性定义 → 测量工具 → 变量对照表 | Table 8.2 变量—定义—工具三列对照 | [[Variable]] |
 > | 数据分析 | 回应率 → [[Response Bias\|回应偏差]] → [[Descriptive Analysis\|描述性分析]] → 信度检查 → 推断统计 → 结果呈现 | Table 8.3 六因素统计选择矩阵 | [[Survey Research]]、[[Descriptive Analysis]] |
 > | 预注册与解释 | 探索性 vs 确认性 → 预注册 → 四层结果报告 → 讨论写作 | [[Preregistration\|预注册]]、[[Statistical Significance\|显著性]]（p 值）、[[Confidence Interval\|置信区间]]、[[Effect Size\|效应量]] | [[Preregistration]]、[[Statistical Significance]] |
@@ -839,8 +839,8 @@ Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三
 > | 1. 回应率报告 | 回应与未回应人数及百分比 | 回应者/非回应者频率表 | [[Survey Research]] |
 > | 2. 回应偏差检查 | 非回应者若回应是否会改变结果 | 波次分析（Leslie, 1972）或回应者/非回应者电话对比 | [[Response Bias]] |
 > | 3. 描述性分析 | 均值、标准差、得分范围；缺失数据识别与处理 | 缺失数据处理策略（Schafer & Graham, 2002） | [[Descriptive Analysis]] |
-> | 4. 信度检查 | 反向计分、量表总分计算、内部一致性 | Cronbach's α | [[Internal Consistency (Cronbach's Alpha)]] |
-> | 5. 推断统计 | 选择适当统计量检验假设 | Table 8.3 六因素选择矩阵 | [[t-test]]、[[Analysis of Variance (ANOVA)\|ANOVA]]、[[Multiple Regression]] 等 |
+> | 4. 信度检查 | 反向计分、量表总分计算、内部一致性 | Cronbach's α | [[Internal Consistency and Cronbach's Alpha]] |
+> | 5. 推断统计 | 选择适当统计量检验假设 | Table 8.3 六因素选择矩阵 | [[t-test]]、[[Analysis of Variance\|ANOVA]]、[[Multiple Regression]] 等 |
 > | 6. 结果呈现 | 表格或图形呈现 + 解释 | — | [[Survey Research]] |
 >
 > Source: Creswell & Creswell, 2022, Ch8
@@ -850,8 +850,8 @@ Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三
 > | 问题性质 | 自变量数 | 因变量数 | 协变量数 | 变量类型 | 分数分布 | 统计检验 | 检验产出 |
 > |---|---|---|---|---|---|---|---|
 > | 组间比较 | 1 | 1 | 0 | 类别/连续 | 正态 | [[t-test\|t 检验]]（t） | 两组在结果上的比较 |
-> | 组间比较 | ≥1 | 1 | 0 | 类别/连续 | 正态 | [[Analysis of Variance (ANOVA)\|ANOVA]]（F） | 两组或多组在结果上的比较 |
-> | 组间比较 | ≥1 | 1 | 1 | 类别/连续 | 正态 | ANCOVA（F） | 控制协变量后两组或多组在结果上的比较 |
+> | 组间比较 | ≥1 | 1 | 0 | 类别/连续 | 正态 | [[Analysis of Variance\|ANOVA]]（F） | 两组或多组在结果上的比较 |
+> | 组间比较 | ≥1 | 1 | 1 | 类别/连续 | 正态 | [[Analysis of Variance\|ANCOVA]]（F） | 控制协变量后两组或多组在结果上的比较 |
 > | 组间关联 | 1 | 1 | 0 | 类别/类别 | 非正态 | [[Chi-Squared Test\|χ² 检验]]（χ²） | 两个类别变量的关联 |
 > | 变量关联 | 1 | 1 | 0 | 连续/连续 | 正态 | [[Pearson Product-Moment Correlation\|Pearson 相关]]（r） | 两变量关联的强度与方向 |
 > | 变量关联 | ≥2 | 1 | 0 | 连续/连续 | 正态 | [[Multiple Regression\|多元回归]]（R², F, b, t） | 多预测变量对一个结果变量的关系，每个预测变量的相对贡献 |
@@ -889,7 +889,7 @@ Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三
 > | 实验程序 | 设计类型 → 符号图示 → 分配模式 | [[Campbell and Stanley Notation System\|Campbell & Stanley 符号系统]]（X/O/R）；[[Pre-Experimental Designs\|前实验]]/[[Quasi-Experimental Designs\|准实验]]/真实验/[[Single-Subject Design\|单受试者]] | [[Between-Subjects and Within-Subjects Designs]]、[[Factorial Design]]、[[Solomon Four-Group Design]] |
 > | 效度威胁 | 识别 → 分类 → 应对策略 | 10 种[[Internal Validity\|内部效度威胁]] + 3 种[[External Validity\|外部效度威胁]] | [[Internal Validity]]、[[External Validity]] |
 > | 操作步骤 | 时序流程 → 偏差最小化 | [[Blinding\|盲法]]降低[[Experimenter Bias\|实验者偏差]] | [[Blinding]]、[[Experimenter Bias]] |
-> | 数据分析与预注册 | 描述统计 → 初步分析 → 推断检验 → 预注册 | 组间比较为主（ANOVA/ANCOVA/MANOVA）；因子设计检交互 | [[Analysis of Variance (ANOVA)\|ANOVA]]、[[Preregistration]] |
+> | 数据分析与预注册 | 描述统计 → 初步分析 → 推断检验 → 预注册 | 组间比较为主（ANOVA/ANCOVA/MANOVA）；因子设计检交互 | [[Analysis of Variance\|ANOVA]]、[[Preregistration]] |
 >
 > Source: Creswell & Creswell, 2022, Ch8
 
@@ -931,7 +931,7 @@ Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三
 
 Creswell 在此做了一个关键的层次区分：内部效度与外部效度之间存在经典的权衡，严格控制实验室条件保障内部效度，但可能降低外部效度。这是研究者在设计阶段需要明确的取舍，结论应具体说明可以推广到哪些人群、情境和时间，不应抽象地声称"具有普遍性"。
 
-**实验操作步骤与数据分析**将设计蓝图转化为操作流程。操作的核心目标是最小化噪音和偏差，关键手段是[[Blinding|盲法]]以降低[[Experimenter Bias|实验者偏差]]。数据分析以组间比较为核心，大量使用 [[Analysis of Variance (ANOVA)|ANOVA]]、ANCOVA 和 MANOVA；[[Factorial Design|因子设计]]检验主效应和交互效应；[[Single-Subject Design|单受试者设计]]使用折线图。
+**实验操作步骤与数据分析**将设计蓝图转化为操作流程。操作的核心目标是最小化噪音和偏差，关键手段是[[Blinding|盲法]]以降低[[Experimenter Bias|实验者偏差]]。数据分析以组间比较为核心，大量使用 ANOVA、[[Analysis of Covariance|ANCOVA]] 和 MANOVA；[[Factorial Design|因子设计]]检验主效应和交互效应；[[Single-Subject Design|单受试者设计]]使用折线图。
 
 ---
 

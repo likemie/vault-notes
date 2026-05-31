@@ -1,11 +1,12 @@
 ---
-title: Internal Consistency (Cronbach's Alpha)
+title: Internal Consistency and Cronbach's Alpha
 aliases:
   - 内部一致性
   - Cronbach's alpha
   - Cronbach's α
   - 克隆巴赫系数
   - Cronbach alpha
+  - Internal Consistency (Cronbach's Alpha)
   - internal consistency reliability
 summary: "评估多项目量表中各条目测量同一构念程度的信度指标，通过 Cronbach alpha 值量化（0–1，最佳.7–.9）"
 type: concept

@@ -16,7 +16,7 @@ related_concepts:
   - "[[Alternative Hypothesis]]"
 related_theories: []
 related_methods:
-  - "[[Analysis of Variance (ANOVA)]]"
+  - "[[Analysis of Variance]]"
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
@@ -62,7 +62,7 @@ updated: 2026-05-31
 > 零假设的核心特征（Creswell & Creswell, 2022, Ch7）：
 > - **否定性陈述**：预测不存在关系或差异
 > - **总体层面**：是对总体（population）的预测，而非样本
-> - **可检验性**：可通过统计程序（如 t 检验、[[Analysis of Variance (ANOVA)|方差分析]]）进行检验
+> - **可检验性**：可通过统计程序（如 t 检验、[[Analysis of Variance|方差分析]]）进行检验
 > - **与[[Alternative Hypothesis|备择假设]]配对**：零假设和备择假设成对出现，构成假设检验的完整框架
 
 ---

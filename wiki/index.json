@@ -3105,14 +3105,15 @@
     ]
   },
   {
-    "title": "Construct Validity (Quantitative)",
+    "title": "Construct Validity in Quantitative Measurement",
     "type": "concept",
-    "path": "wiki/concepts/research-methodology/Construct Validity (Quantitative).md",
+    "path": "wiki/concepts/research-methodology/Construct Validity in Quantitative Measurement.md",
     "aliases": [
       "构念效度",
       "建构效度",
       "construct validity of measurement",
-      "measurement validity"
+      "measurement validity",
+      "Construct Validity (Quantitative)"
     ]
   },
   {
@@ -3346,15 +3347,16 @@
     ]
   },
   {
-    "title": "Internal Consistency (Cronbach's Alpha)",
+    "title": "Internal Consistency and Cronbach's Alpha",
     "type": "concept",
-    "path": "wiki/concepts/research-methodology/Internal Consistency (Cronbach's Alpha).md",
+    "path": "wiki/concepts/research-methodology/Internal Consistency and Cronbach's Alpha.md",
     "aliases": [
       "内部一致性",
       "Cronbach's alpha",
       "Cronbach's α",
       "克隆巴赫系数",
       "Cronbach alpha",
+      "Internal Consistency (Cronbach's Alpha)",
       "internal consistency reliability"
     ]
   },
@@ -4995,16 +4997,22 @@
     ]
   },
   {
-    "title": "Analysis of Variance (ANOVA)",
+    "title": "Analysis of Covariance",
     "type": "method",
-    "path": "wiki/methods/quantitative/Analysis of Variance (ANOVA).md",
+    "path": "wiki/methods/quantitative/Analysis of Covariance.md",
+    "aliases": [
+      "协方差分析",
+      "ANCOVA"
+    ]
+  },
+  {
+    "title": "Analysis of Variance",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Analysis of Variance.md",
     "aliases": [
       "方差分析",
       "ANOVA",
-      "ANCOVA",
-      "协方差分析",
-      "MANOVA",
-      "多元方差分析",
+      "Analysis of Variance (ANOVA)",
       "F-test",
       "one-way ANOVA"
     ]

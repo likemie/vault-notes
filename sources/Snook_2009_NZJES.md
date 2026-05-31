@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Snook_2009]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
   - "[[Effect Size]]"
@@ -12,6 +11,7 @@ extracted_to:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
+  - "[[Critiques of Visible Learning]]"
 processed_date: 2026-05-03
 ---
 

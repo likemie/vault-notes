@@ -3,11 +3,11 @@ citation: "Nielsen, K., & Klitmøller, J. (2021). Blind spots in visible learnin
 extracted_to:
   - "[[Argument_Nielsen_2021_NordPsych]]"
   - "[[Class Size]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Feedback]]"
   - "[[Visible Learning]]"
   - "[[Klaus Nielsen]]"
   - "[[John Hattie]]"
+  - "[[Critiques of Visible Learning]]"
 processed_date: 2026-05-04
 ---
 

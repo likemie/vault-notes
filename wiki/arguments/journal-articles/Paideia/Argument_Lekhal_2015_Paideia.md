@@ -32,7 +32,7 @@ related_theories: []
 related_methods:
   - "[[Observational and Correlational Research]]"
   - "[[Multiple Regression]]"
-  - "[[Analysis of Variance (ANOVA)]]"
+  - "[[Analysis of Variance]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -60,7 +60,7 @@ updated: '2026-05-18'
 > - 方法：[[Observational and Correlational Research]]，并采用分层[[Multiple Regression|多元回归]]分析。
 > - 样本：2012 年秋季挪威 48 所学校、5-10 年级 4128 名学生（男 2062，女 2066）（Lekhal et al., 2015, p.79）。
 > - 数据来源：学生问卷与班主任问卷双来源；学业表现由教师对挪威语、数学、英语评分构成（Lekhal et al., 2015, pp.79-82）。
-> - 统计处理：信度分析、相关分析、[[Analysis of Variance (ANOVA)|方差分析]]（Cohen's d）与分性别回归模型；缺失值用 EM 算法处理（Lekhal et al., 2015, pp.81-83）。
+> - 统计处理：信度分析、相关分析、[[Analysis of Variance|方差分析]]（Cohen's d）与分性别回归模型；缺失值用 EM 算法处理（Lekhal et al., 2015, pp.81-83）。
 >
 > ### [[Variable|变量]]操作化细节
 >

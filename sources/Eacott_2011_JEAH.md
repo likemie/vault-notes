@@ -4,8 +4,8 @@ extracted_to:
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[New Public Management]]"
   - "[[Doxa]]"
-  - "[[Scott Eacott]]"
   - "[[Pierre Bourdieu]]"
+  - "[[Scott Eacott]]"
 processed_date: 2026-05-01
 ---
 
