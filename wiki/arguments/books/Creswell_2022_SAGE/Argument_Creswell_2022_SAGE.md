@@ -112,7 +112,7 @@ updated: 2026-05-31
 | 第5章 引言 | 提供撰写学术引言的系统方法，首先讨论撰写研究摘要的五个核心组成部分，随后比较量化、质性和混合方法研究引言写法的差异，最后重点介绍引言缺陷模型的四个部分——陈述研究问题（含叙事钩子）、综述文献证据（含倒三角检索策略）、指出文献缺陷和说明研究对受众的重要性。 | [[Research Introduction]], [[Research Problem]], [[Deficiencies Model for an Introduction]], [[Narrative Hook]], [[Deficiencies in Past Literature]] |
 | 第6章 目的陈述 | 系统讲解研究计划中目的陈述（或研究目标）的核心地位。区分研究问题、目的陈述和研究问题三个环节的递进逻辑，逐一剖析质性目的陈述七要素、量化目的陈述八要素和混合方法目的陈述四要素，为每种路径提供填空式写作脚本，并辅以已发表研究的多个范例。 | [[Purpose Statement]], [[Central Phenomenon]], [[Nondirectional Language]], [[Research Writing Script]] |
 | 第7章 研究问题与假设 | 系统讲解量化研究问题和假设（描述性与关系型、零假设与方向性备择假设）、质性核心研究问题和子问题、混合方法的三类研究问题（量化、质性、混合方法整合问题），每一类均提供填空式写作脚本和已发表研究范例。 | [[Research Question]], [[Hypothesis]], [[Central Question]], [[Mixed Methods Question]], [[Null Hypothesis]] |
-| 第8章 量化方法 | 涵盖调查和[[Experimental Research\|实验研究]]的具体方法程序，包括确定样本与总体、选择设计类型、收集与分析数据、呈现结果和做出解释。提供完整步骤检查清单。 | [[Survey Research]], [[Experimental Research]], [[Single-Subject Design]], [[Variable]], [[Scale of Measurement]] |
+| 第8章 量化方法 | 系统讲解调查研究和实验研究的方法计划组成部分：调查研究计划涵盖调查目的与设计类型、总体与样本（抽样设计、分层、[[Power Analysis]]）、工具信效度、变量与数据分析六步骤；实验研究计划涵盖参与者分配与[[Random Assignment]]、变量（独立变量、操纵检查、因变量、混淆变量）、工具与封面故事、实验程序（[[Pre-Experimental Designs]]、准实验、[[Factorial Design]]、[[Single-Subject Design]]）、[[Internal Validity]]与[[External Validity]]威胁控制、数据分析步骤和预注册。 | [[Survey Research]], [[Experimental Research]], [[Power Analysis]], [[Internal Validity]], [[ANOVA]] |
 | 第9章 质性方法 | 介绍质性数据收集、分析、解释和报告写作的程序，涵盖叙事研究、[[Phenomenology\|现象学]]、扎根理论、民族志、案例研究和描述性研究等具体路径。提供程序检查清单和大量示例。 | [[Narrative Research]], [[Grounded Theory]], [[Ethnography]], [[Case Study]], [[Phenomenology]] |
 | 第10章 混合方法程序 | 界定混合方法研究的核心特征，介绍三种核心设计（聚敛式、解释性序列、探索性序列）和四种复杂混合方法设计，讨论量化与质性数据的整合分析，包括联合展示的使用和设计选择的流程图。 | [[Mixed Method and Multi-method Research]], [[Joint Display]], [[Convergent Design]], [[Explanatory Sequential Design]], [[Exploratory Sequential Design]] |
 
@@ -742,6 +742,129 @@ Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三
 
 ---
 
+### 第8章 量化方法
+
+#### 概念地图
+
+%% ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-8-concept-map.svg) %%
+
+#### 图片占位
+
+> [!example]- 图片占位
+> 表8.1：A Checklist of Questions for Designing a Survey Study Plan
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_8-1_Survey_Checklist.png)
+
+> [!example]- 图片占位
+> 表8.2：Variables, Definitions, and Their Corresponding Items on a Survey
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_8-2_Variables_Definitions_Items.png)
+
+> [!example]- 图片占位
+> 表8.3：Criteria for Choosing Select Statistical Tests
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_8-3_Statistical_Tests_Criteria.png)
+
+> [!example]- 图片占位
+> 表8.4：A Checklist of Questions for Designing an Experimental Study Plan
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_8-4_Experimental_Checklist.png)
+
+> [!example]- 图片占位
+> 表8.5：Types of Threats to Internal Validity
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_8-5_Internal_Validity_Threats.png)
+
+> [!example]- 图片占位
+> 表8.6：Types of Threats to External Validity
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_8-6_External_Validity_Threats.png)
+
+#### 概览
+
+第8章的逻辑线是：**理解量化方法的总框架 → 拆解调查方法计划的每个组成部分 → 拆解实验方法计划的每个组成部分 → 全章总结。** 两个设计共享一个共同目标：帮助研究者对变量间关系做出推论，并将样本结果推广到更广泛的研究总体。
+
+---
+
+**第一部分：量化方法的总体框架。** 方法部分有四个基本要素：（a）研究总体与样本特征，（b）研究程序与变量，（c）工具，以及（d）数据分析计划。目标读者是其他科学家，方法部分应提供足够的细节使这些科学家能够在自己的研究情境中重复该研究（Creswell & Creswell, 2022, Ch8）。
+
+[[Survey Research|调查研究]]通过研究总体的一个样本，提供关于该总体的趋势、态度或意见的量化描述，或检验变量间的关联。可回答三类问题：描述性问题（如"公司员工中支持招聘有色女性担任高管的比例？"）、变量间的关系问题（如"有色女性高管数量与员工对公司满意度的关联？"）和纵向研究中的预测性问题。[[Experimental Research|实验研究]]系统地操纵一个或多个变量，同时保持其他变量不变，以评估这一操纵如何影响结果。实验可超越调查设计的描述和关联特征，解决因果关系问题。调查相对便宜、易操作；实验则能因果推断，但操纵变量并保持其他变量恒定的难度和成本更高（Creswell & Creswell, 2022, Ch8）。
+
+---
+
+**第二部分：调查方法计划的组成部分。** 按以下顺序逐项展开：调查设计 → 总体与样本 → 工具 → 变量 → 数据分析 → 预注册与解释。
+
+**调查设计**包含：（1）调查目的——回答关于变量间关系的问题；（2）使用调查方法的理由——经济性、数据快速回收、伦理和实践约束排除了其他设计；（3）调查类型——横截面（单时间点）或纵向（多时间点）；（4）数据收集形式——邮寄、电话、互联网、个人访谈或团体施测（Fowler, 2014; Fink, 2016）。近年来互联网调查工具（如 Qualtrics、Survey Monkey）和在线受试者平台（如 Mechanical Turk、Prolific）增长显著（Buhrmester et al., 2018）。
+
+**总体与样本**的核心是从研究总体（希望做出推论的全部人群）中抽取研究样本（实际检验的子集）（Creswell & Creswell, 2022, Ch8）。抽样设计可以是单阶段（直接获取名单并抽样）或多阶段／整群抽样（先识别群组再在群内抽样）（Babbie, 2015）。抽样类型按理想程度递减：随机抽样 → 系统抽样（与随机等价；Fowler, 2014）→ 非概率／便利抽样。分层（stratification）在抽样前按已知特征分层，确保样本反映总体在各特征上的真实比例（Fowler, 2014）。
+
+样本量确定的核心逻辑：样本量越大精度越高，但招募更多受试者耗时耗财。不应基于取总体一定比例或过去研究的惯例来确定样本量——应基于分析计划和预期结果（Fowler, 2014）。若分析涉及检测变量间显著关联，[[Power Analysis|功效分析]]可帮助估算目标样本量，常用 G*Power（Faul et al., 2007, 2009）。功效分析在研究规划和招募前进行；许多科学期刊现要求方法部分报告功效分析（Kraemer & Blasey, 2016; 引自 Creswell & Creswell, 2022, Ch8）。
+
+**工具**部分在调查计划中需要详细说明。工具是收集变量测量值的设备，测量通常指研究受试者的某种特征。对于已有工具，需讨论两个关键属性：（1）**分数的效度**——是否可以从工具分数中得出准确的推论。两个常见形式为构念效度（工具是否准确测量目标构念）和同时／效标效度（工具是否与金标准测量相关联或预测效标）。（2）**分数的信度**——一致性或可重复性。最重要的信度形式是内部一致性（条目间测量同一构念的程度），通过 Cronbach's α 量化（0–1，最佳 .7–.9）。例如 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α = .84–.86。重测信度评估工具在重复施测时的稳定性。当修改或组合工具时，原有信效度可能不再成立。若多位评判者使用同一工具还需评估评分者间信度（Creswell & Creswell, 2022, Ch8）。
+
+工具内容应包括封面信（Dillman, 2007）、题项（人口学、态度、行为、事实题项）和结束说明。量表类型分为连续量表（如 strongly agree–strongly disagree）和类别量表（如 yes/no）。**试点测试**对评估工具适用性、条目内部一致性以及改进问题格式和说明至关重要；还需评估研究耗时和受试者疲劳风险。调查施测可采用四阶段流程（Salant & Dillman, 1994; Dillman, 2007）：提前通知信 → 约 1 周后邮寄问卷 → 4–8 天后邮寄明信片跟进 → 3 周后向非回应者邮寄个性化封面信和问卷（Creswell & Creswell, 2022, Ch8）。
+
+**变量**在方法部分应直接陈述变量名称、操作性定义和测量工具。一种有效技术是创建变量—定义—工具项目对照表（Table 8.2），尤其是变量较多的调查。变量来自先前验证工具时应引用原始来源。
+
+**数据分析**按六步骤推进：① 报告回应者与未回应者的人数和百分比；② 检查[[Response Bias|回应偏差]]——未回应者若回应是否会显著改变结果，方法为波次分析（Leslie, 1972）或回应者／非回应者对比；③ 提供所有预测变量和结果变量的描述性分析（均值、标准差、范围），识别和报告缺失数据（Schafer & Graham, 2002）；④ 若有多项目量表，评估反向计分和量表总分计算，检查 Cronbach's α；⑤ 确定主要的推断统计量和统计程序（如 R、SPSS），选择依据研究问题性质、变量数量和类型、分布特征（Table 8.3 提供了常用统计检验的选择标准对照表，涵盖 [[t-test]]、[[ANOVA]]、ANCOVA、chi-squared、Pearson 相关和多元回归）；⑥ 以表格或图形呈现结果并解释。
+
+**预注册**在正式假设检验研究中至关重要——在数据收集前将计划和假设发布到公共注册库（如 Center for Open Science 或 ClinicalTrials.gov）（Nosek et al., 2018）。**结果解释**包括：报告结果如何回答研究问题（APA, 2020 建议报告描述统计、[[Statistical Significance|统计显著性检验]]、[[Confidence Interval|置信区间]]和[[Effect Size|效应量]]）；将主要发现置于先前研究语境中讨论；指出实践和研究意义；承认局限和替代性解释；最后以更广泛的科学和社会重要性收尾（Creswell & Creswell, 2022, Ch8）。
+
+---
+
+**第三部分：实验方法计划的组成部分。** 按以下顺序展开：参与者与设计 → 变量 → 工具与材料 → 实验程序 → 效度威胁 → 操作步骤与盲法 → 数据分析与预注册。
+
+**参与者与设计**以招募受试者开始，需明确纳入和排除标准，描述招募方式和报酬。[[Random Assignment|随机分配]]将受试者随机分配到处理条件中，是真实验区别于调查设计的核心特征（Keppel & Wickens, 2003）。这一程序消除受试者特征的系统性差异对结果的影响，使任何结果差异可归因于被操纵的变量。当研究者对随机分配只有部分或完全没有控制时，设计被称为准实验。[[Power Analysis|功效分析]]在此的焦点转向估计实验各条件下检测显著组间差异所需的人数（Kraemer & Blasey, 2016）。最后需提供正式设计声明，如"本实验由单因素两组设计组成，比较全职与兼职护士的倦怠症状"。
+
+**变量**部分需要明确四类变量：（1）**自变量**——实验中被操纵的变量，可在 2 × 2 因子设计中同时操纵两个自变量；（2）**操纵检查**——定量评估研究是否成功操纵了目标自变量（如通过正面／负面反馈操纵自尊后施测状态自尊量表），这是区分实验操作成功与失败的关键步骤；（3）**因变量**——结果变量，可考虑多种测量方式（如攻击性的行为测量和自评测量）；（4）**其他变量**——人口学特征、可能增加噪音的变量（如记录时间作为协变量）和潜在混淆变量（用于回应批评者关于替代性因果解释的主张）（Creswell & Creswell, 2022, Ch8）。
+
+**工具与材料**涵盖处理材料和测量工具两部分。材料包括用于操纵自变量的所有内容（如计算机辅助学习的手册、课程和指导），以及试点测试和标准化培训。**封面故事（Cover Story）**是对研究目的和程序的合理解释（可能不真实），若使用欺骗需制定解除欺骗程序。所有程序和材料须经 IRB 批准。
+
+**实验程序**首先需明确实验类型：
+
+> [!info] 四种实验设计类型
+> - [[Pre-Experimental Designs|前实验设计]]：研究单一组并实施干预，无对照组比较，[[Internal Validity|内部效度]]最低。
+> - [[Quasi-Experimental Designs|准实验设计]]：使用对照组和实验组但随机分配部分或完全缺失。
+> - **真实验**：随机分配受试者到处理组中，内部效度最高。
+> - [[Single-Subject Design|单受试者设计]]：在时间维度上观察单个（或少数）个体的行为变化。
+
+研究者在报告设计时应使用 Campbell & Stanley (1963, p.6) 的经典符号系统：X = 处理暴露，O = 观察／测量，R = 随机分配，同行 X/O 适用于同一组，从左到右表示时间顺序，水平线分隔表示非等价比较组（无线表示随机分配）。使用该符号系统，Chapter 8 的四个示例展示了前实验设计（一次性个案研究、单组前后测、静态组比较、替代处理非等价组后测）、准实验设计（非等价对照组前后测、单组中断时间序列、对照组中断时间序列）、真实验设计（前后测对照组、仅后测对照组、Solomon 四组）和单受试者设计（A-B-A 设计）。
+
+在受试者间设计中每位受试者只经历一个处理条件水平（Keppel & Wickens, 2003）；受试者内设计中同一受试者经历多个或全部条件水平（如重复测量设计中时间成为受试者内变量）；混合设计同时包含两类变量。
+
+**效度威胁**是实验方法计划的重要组成部分。[[Internal Validity|内部效度威胁]]包括：与受试者相关的历史、成熟、回归均值、选择和流失；与处理相关的处理扩散、补偿性怨恨和补偿性竞争；与程序相关的测验和工具（Table 8.5）。[[External Validity|外部效度威胁]]包括：选择与处理的交互、情境与处理的交互、历史与处理的交互（Table 8.6）。此外还有统计结论效度威胁和构念效度威胁。
+
+> [!abstract] 内部效度威胁应对策略对照
+>
+> | 威胁 | 应对 |
+> |---|---|
+> | 历史 | 两组经历相同外部事件 |
+> | 成熟 | 选择同龄受试者 |
+> | 回归均值 | 不选极端得分者 |
+> | 选择 | 随机分配 |
+> | 流失 | 招募大样本／比较退出者 |
+> | 处理扩散 | 保持两组分离 |
+> | 补偿性怨恨 | 对照组提供其他处理或实验后处理 |
+> | 补偿性竞争 | 降低对照组预期／说明对照组价值 |
+> | 测验 | 延长间隔／使用不同题项 |
+> | 工具 | 前后测使用同一工具 |
+>
+> Source: Adapted from Creswell & Guetterman (2018); 引自 Creswell & Creswell, 2022, Ch8, Table 8.5
+
+> [!abstract] 外部效度威胁应对策略对照
+>
+> | 威胁 | 应对 |
+> |---|---|
+> | 选择 × 处理 | 限制推广范围，对不同群体做额外实验 |
+> | 情境 × 处理 | 在新情境中复制实验 |
+> | 历史 × 处理 | 在后续时间点复制研究 |
+>
+> Source: Adapted from Creswell & Guetterman (2018); 引自 Creswell & Creswell, 2022, Ch8, Table 8.6
+
+**实验操作步骤**需要按时间顺序描述每一步实验流程。为最小化偏差，可采用**盲法（Blinding）**——使实验者（及/或受试者）在评估完成前不知道受试者所属条件，以降低**实验者偏差（Experimenter Bias）**——即实验者知晓受试者条件后以更积极或更有暗示性的方式施测结果测量。
+
+**数据分析**包括描述统计、初步分析（检验随机分配成功性、操纵检查、关键变量相关）和主要推断统计（以比较组间差异为核心，大量使用 ANOVA、ANCOVA 和 MANOVA）。因子设计中检验主效应和交互效应。单受试者设计使用折线图展示数据，x 轴为时间，y 轴为目标行为。最后需预注册实验假设和方案，并在讨论部分将发现置于过去文献、理论和实践意义的语境中解释。
+
+---
+
+**第四部分：全章总结与范例。** 调查研究的步骤从讨论目的、总体与样本、工具、变量、研究问题、具体题项直到数据分析和解释。实验设计则从参与者、变量和工具开始，随后是具体实验类型（前实验、准实验、真实验或单受试者设计），使用适当符号绘制设计图示，接着讨论内部和外部效度威胁，以及统计分析和结果解释。Example 8.5 展示了 Creswell et al. (2005) 价值肯定压力研究的完整实验方法计划，采用 2 × 4 混合设计（价值肯定条件为受试者间变量，时间四水平为受试者内变量），主要结果变量为唾液皮质醇（Creswell & Creswell, 2022, Ch8）。
+
+---
+
 ## 重要摘录
 
 > [!quote]
@@ -923,6 +1046,42 @@ Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三
 
 > [!quote]
 > "An ideal format would be to write the three types of questions into separate sections, such as the quantitative questions or hypotheses, the qualitative questions, and the mixed methods question."（第7章）
+
+> [!quote]
+> "A survey design provides a quantitative description of trends, attitudes, and opinions of a population, or tests for associations among variables of a population, by studying a sample of that population."（第8章）
+
+> [!quote]
+> "An experimental design systematically manipulates one or more variables to evaluate how this manipulation affects an outcome (or outcomes) of interest. Importantly, an experiment isolates the effects of this manipulation by holding all other variables constant."（第8章）
+
+> [!quote]
+> "Sample size determination is at its core a trade-off: A larger sample will provide more precision, but recruiting more participants is time-consuming and costly."（第8章）
+
+> [!quote]
+> "Sample size determination should be based on your analysis plans and expected outcomes."（Fowler, 2014; 引自第8章）
+
+> [!quote]
+> "A power analysis can help you estimate a target sample size. ... This power analysis for sample size determination should be done during study planning and prior to enrolling any participants."（第8章）
+
+> [!quote]
+> "One of the principal features distinguishing an experiment from a survey study design is the use of random assignment."（第8章）
+
+> [!quote]
+> "Preregistration is the act of publishing your plan and hypotheses in a public registry prior to data collection. Preregistration is quickly becoming an essential tool for improving the accuracy and transparency of quantitative research."（第8章）
+
+> [!quote]
+> "A confidence interval is a range of values (an interval) that describes a level of uncertainty around an estimated observed score. A confidence interval shows how good an estimated score might be."（第8章）
+
+> [!quote]
+> "An effect size identifies the strength of the conclusions about group differences or the relationships among variables in quantitative studies. It is a descriptive statistic that is not dependent on whether the relationship in the data represents the true population."（第8章）
+
+> [!quote]
+> "A manipulation check measure is defined as a measure of the intended manipulated variable of interest."（第8章）
+
+> [!quote]
+> "To reduce this form of experimenter bias, it is helpful to make the experimenter administering the outcome measure blind to the participant's study condition."（第8章）
+
+> [!quote]
+> "Blinding in experimental research is when the experimenter (and/or the participant) is kept unaware of the participant's assigned study condition."（第8章）
 
 ---
 

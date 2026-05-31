@@ -3216,6 +3216,17 @@
     ]
   },
   {
+    "title": "External Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/External Validity.md",
+    "aliases": [
+      "外部效度",
+      "external validity threats",
+      "threats to external validity",
+      "generalizability"
+    ]
+  },
+  {
     "title": "Hook and Eye Technique",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Hook and Eye Technique.md",
@@ -3255,6 +3266,16 @@
       "机构审查委员会",
       "伦理审查委员会",
       "研究伦理委员会"
+    ]
+  },
+  {
+    "title": "Internal Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Internal Validity.md",
+    "aliases": [
+      "内部效度",
+      "internal validity threats",
+      "threats to internal validity"
     ]
   },
   {
@@ -4838,6 +4859,36 @@
     ]
   },
   {
+    "title": "Analysis of Variance (ANOVA)",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Analysis of Variance (ANOVA).md",
+    "aliases": [
+      "方差分析",
+      "ANOVA",
+      "ANCOVA",
+      "协方差分析",
+      "MANOVA",
+      "多元方差分析",
+      "F-test",
+      "one-way ANOVA"
+    ]
+  },
+  {
+    "title": "Between-Subjects and Within-Subjects Designs",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Between-Subjects and Within-Subjects Designs.md",
+    "aliases": [
+      "受试者间设计",
+      "受试者内设计",
+      "between-subjects design",
+      "within-subjects design",
+      "mixed design",
+      "混合设计",
+      "repeated measures design",
+      "重复测量设计"
+    ]
+  },
+  {
     "title": "Black Box RCTs",
     "type": "method",
     "path": "wiki/methods/quantitative/Black Box RCTs.md",
@@ -4906,6 +4957,17 @@
       "true experiment",
       "experimental design",
       "randomized experiment"
+    ]
+  },
+  {
+    "title": "Factorial Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Factorial Design.md",
+    "aliases": [
+      "因子设计",
+      "析因设计",
+      "factorial experiment",
+      "2x2 factorial design"
     ]
   },
   {
@@ -4987,6 +5049,32 @@
     ]
   },
   {
+    "title": "Power Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Power Analysis.md",
+    "aliases": [
+      "统计功效分析",
+      "检验力分析",
+      "statistical power analysis",
+      "sample size power analysis",
+      "a priori power analysis"
+    ]
+  },
+  {
+    "title": "Pre-Experimental Designs",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Pre-Experimental Designs.md",
+    "aliases": [
+      "前实验设计",
+      "pre-experiments",
+      "one-shot case study",
+      "单组后测设计",
+      "one-group pretest-posttest design",
+      "单组前后测设计",
+      "static group comparison"
+    ]
+  },
+  {
     "title": "Quantitative Research",
     "type": "method",
     "path": "wiki/methods/quantitative/Quantitative Research.md",
@@ -5007,6 +5095,17 @@
       "counterfactual viability",
       "counterfactual strength",
       "反事实可行性"
+    ]
+  },
+  {
+    "title": "Random Assignment",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Random Assignment.md",
+    "aliases": [
+      "随机分配",
+      "随机分组",
+      "randomisation",
+      "randomized assignment"
     ]
   },
   {
@@ -5067,6 +5166,19 @@
       "调查研究",
       "问卷调查研究",
       "survey design"
+    ]
+  },
+  {
+    "title": "t-test",
+    "type": "method",
+    "path": "wiki/methods/quantitative/t-test.md",
+    "aliases": [
+      "t检验",
+      "independent samples t-test",
+      "独立样本t检验",
+      "paired samples t-test",
+      "配对样本t检验",
+      "Student's t-test"
     ]
   },
   {
