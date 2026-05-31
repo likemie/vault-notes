@@ -4,16 +4,16 @@ extracted_to:
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
-  - "[[Statistical Significance]]"
   - "[[Causal Modeling]]"
   - "[[Covariate Adjustment]]"
-  - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Rasch Measurement]]"
   - "[[John Hattie]]"
   - "[[Jacob Cohen]]"
+  - "[[Confidence Interval]]"
+  - "[[Statistical Significance]]"
+  - "[[Meta-analysis]]"
 processed_date: 2026-05-05
 ---
 

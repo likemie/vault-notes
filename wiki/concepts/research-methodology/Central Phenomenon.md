@@ -17,6 +17,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Nondirectional Language]]"
   - "[[Central Question]]"
+  - "[[Research Question]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -84,9 +85,9 @@ updated: 2026-05-31
 
 ## 核心现象与质性核心研究问题
 
-在质性研究设计中，核心现象是[[Central Question|核心研究问题]]（central question）所询问的对象（Creswell & Creswell, 2022, Ch7）。质性核心研究问题以"What is the [核心现象] for [参与者] at [研究场所]?"的脚本形式，将核心现象转化为一个开放的可探索问题。研究者被建议以一个单一核心现象开始研究，深入探索其细节——"What is the one single concept that you want to explore?"（Creswell & Creswell, 2022, Ch7）。
+在[[Qualitative Research|质性研究]]设计中，核心现象是[[Central Question|核心研究问题]]（central question）所询问的对象（Creswell & Creswell, 2022, Ch7）。质性核心[[Research Question|研究问题]]以"What is the [核心现象] for [参与者] at [研究场所]?"的脚本形式，将核心现象转化为一个开放的可探索问题。研究者被建议以一个单一核心现象开始研究，深入探索其细节——"What is the one single concept that you want to explore?"（Creswell & Creswell, 2022, Ch7）。
 
-核心现象的单一性也在核心研究问题层面得到延续：质性研究追求的不是多重变量关系的检验，而是对一个核心现象的深度理解。随着研究发展，多种影响因素会浮现，但研究之初的聚焦点应始终保持单一。
+核心现象的单一性也在核心研究问题层面得到延续：质性研究追求的不是多重[[Variable|变量]]关系的检验，而是对一个核心现象的深度理解。随着研究发展，多种影响因素会浮现，但研究之初的聚焦点应始终保持单一。
 
 ## 相关案例
 

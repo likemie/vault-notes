@@ -15,7 +15,7 @@ tags:
 related_concepts:
   - "[[Didaktik]]"
   - "[[Definition of Terms]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
 related_theories: []
@@ -94,7 +94,7 @@ updated: 2026-05-18
 
 > [!warning] 争议与评论
 > - **实证主义遗产的持续**：Eacott（2015）认为尽管理论运动受到多次挑战，"'科学'和'科学探究'的标签与教育行政有长期联系"，这种联系延续至今，只是以管理主义和"对实践有直接影响的"研究话语的形式出现（p.312-313）
-> - **变形的重演**：Eacott（2015, p.320-321）指出理论的"应用"标签在当代以项目管理的学术生活方式重现——研究者成为可以在不同[[Research Problem|研究问题]]间流动的"技术人员"，实质上重复了理论运动的方法论替代理论的模式
+> - **变形的重演**：Eacott（2015, p.320-321）指出理论的"应用"标签在当代以项目管理的学术生活方式重现——研究者成为可以在不同[[Research Question|研究问题]]间流动的"技术人员"，实质上重复了理论运动的方法论替代理论的模式
 > - **拒绝而非重构**：Greenfield 和 Bates 的批判虽然有力，但导致许多人放弃而非重构科学探究——Evers & Lakomski 是少数坚持"科学本身不是问题"的声音（Eacott, 2015, p.316）
 
 ## 相关概念／理论

@@ -17,7 +17,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Variable]]"
   - "[[Causality]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -70,13 +70,13 @@ updated: 2026-05-30
 
 > [!success]
 > - 需要检验特定干预或处理是否产生因果效应时。
-> - 适合确认性的、理论驱动的[[Research Problem|研究问题]]。
+> - 适合确认性的、理论驱动的[[Research Question|研究问题]]。
 
 ## 局限性
 
 > [!warning]
 > - 实验室情境的发现可能缺乏生态效度，难以推广到自然情境。
-> - 部分教育[[Research Problem|研究问题]]不适合随机分配或处理操纵。
+> - 部分教育[[Research Question|研究问题]]不适合随机分配或处理操纵。
 > - 伦理约束可能限制处理条件的设置。
 
 ## 来源

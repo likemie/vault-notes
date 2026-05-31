@@ -14,7 +14,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
 related_theories: []
 related_methods:
   - "[[Grounded Theory]]"
@@ -64,7 +64,7 @@ updated: '2026-05-18'
 ## 适用场景
 
 > [!success] 适用场景
-> - 适合探索性[[Research Problem|研究问题]]：旨在阐释和理解行动者的意义建构逻辑，并据此探索和生成解释性理论假设
+> - 适合探索性[[Research Question|研究问题]]：旨在阐释和理解行动者的意义建构逻辑，并据此探索和生成解释性理论假设
 > - 研究者的**前见被承认为分析的一部分**，而非被要求完全摒弃——这与客观主义[[Grounded Theory|扎根理论]]形成对比
 >
 

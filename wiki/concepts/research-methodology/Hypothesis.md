@@ -12,10 +12,12 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Variable]]"
-  - "[[Causality]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Research Question]]"
+  - "[[Research Writing Script]]"
+  - "[[Causality]]"
+  - "[[Purpose Statement]]"
 related_theories:
   - "[[Attribution Theory]]"
 related_methods:
@@ -72,7 +74,7 @@ updated: 2026-05-31
 在正式假设检验语言中，假设有两种基本形式（Creswell & Creswell, 2022, Ch7）：
 
 > [!info]
-> - **[[Null Hypothesis|零假设]]（null hypothesis）**：预测在总体中变量间不存在关系或组间不存在显著差异。目的是通过陈述一个否定性预期来反驳理论。典型表述为"There is no difference (or relationship)" between the groups。
+> - **[[Null Hypothesis|零假设]]（null hypothesis）**：预测在总体中[[Variable|变量]]间不存在关系或组间不存在显著差异。目的是通过陈述一个否定性预期来反驳理论。典型表述为"There is no difference (or relationship)" between the groups。
 > - **[[Alternative Hypothesis|备择假设]]（alternative hypothesis）**：预测变量间存在显著关系。最好写为方向性形式（directional），即不仅预测存在关系，还预测关系的方向。
 
 > [!success] 方向性备择假设
@@ -80,11 +82,11 @@ updated: 2026-05-31
 
 ## 量化研究问题与假设的区分
 
-在[[Quantitative Research|量化研究]]中，研究问题（research questions）和假设（hypotheses）是两个不同但互补的工具（Creswell & Creswell, 2022, Ch7）：
+在[[Quantitative Research|量化研究]]中，[[Research Question|研究问题]]（research questions）和假设（hypotheses）是两个不同但互补的工具（Creswell & Creswell, 2022, Ch7）：
 
 | | 量化研究问题 | 量化假设 |
 |---|---|---|
-| 功能 | 就变量间关系提问 | 对变量间关系做出预测 |
+| 功能 | 就[[Variable\|变量]]间关系提问 | 对变量间关系做出预测 |
 | 形式 | 疑问句 | 陈述句 |
 | 示例 | "What is the relationship between X and Y?" | "It is predicted that X positively affects Y" |
 | 分析方式 | 描述性或推论性统计 | 假设检验（如 t 检验、方差分析） |
@@ -111,7 +113,7 @@ updated: 2026-05-31
 - [[Causality]] — 假设通常隐含因果方向的预测
 - [[Null Hypothesis]] — 预测无关系或无差异的假设形式
 - [[Alternative Hypothesis]] — 预测存在显著关系且最好有方向的假设形式
-- [[Research Question]] — 研究设计与假设互补的"路标"，量化研究中与假设共同收窄目的陈述
+- [[Research Question]] — 研究设计与假设互补的"路标"，[[Quantitative Research|量化研究]]中与假设共同收窄[[Purpose Statement|目的陈述]]
 - Theory in [[Quantitative Research]] — 假设是理论在操作层面的表达
 
 ## 来源

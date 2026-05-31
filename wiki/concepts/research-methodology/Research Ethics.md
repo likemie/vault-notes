@@ -6,7 +6,7 @@ type: concept
 tags: [method/research-ethics, theme/research-governance]
 related_concepts:
   - "[[Institutional Review Board]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Purpose Statement]]"
 related_theories: []
 related_methods:
@@ -72,7 +72,7 @@ updated: 2026-05-31
 
 ### 研究启动阶段
 
-- **选择对参与者有益的[[Research Problem|研究问题]]**：通过需求评估或非正式对话，确保研究问题不仅对研究者有意义，对参与者也有价值（Punch, 2014）
+- **选择对参与者有益的[[Research Question|研究问题]]**：通过需求评估或非正式对话，确保研究问题不仅对研究者有意义，对参与者也有价值（Punch, 2014）
 - **披露[[Purpose Statement|研究目的]]**：向参与者如实说明研究目的；如果参与者被告知的与研究者的真实目的不一致，即构成欺骗
 - **不强求签署同意书**：研究者不得强迫参与者签署，参与是自愿的
 - **尊重原住民规范**：联系原住民首领并让他们参与研究各阶段；避免使用主流文化语言，而采用原住民的语气、手势和表达方式；寻找语言和实践的智慧"知者"；将参与者纳入合作研究者（LaFrance & Crazy Bull, 2009; Chilisa & Tsheko, 2014）

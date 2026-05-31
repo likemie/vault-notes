@@ -14,7 +14,7 @@ tags:
   - "paradigm/interpretivist"
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Research Topic]]"
   - "[[Technology Transfer]]"
   - "[[Concierge Service]]"
@@ -53,7 +53,7 @@ updated: 2026-05-27
 
 ### 1. 样本选择——以机构特征为筛选标准
 
-样本选择通常基于与[[Research Problem|研究问题]]相关的机构特征。Boccanfuso 和 Hall（2025）按照三个标准筛选大学：（1）US News 全国大学排名前 100；（2）联邦研发支出总额前 100；（3）美国大学协会（AAU）成员身份。这三个标准确保样本覆盖了美国研究最活跃的大学群体（p.56）。
+样本选择通常基于与[[Research Question|研究问题]]相关的机构特征。Boccanfuso 和 Hall（2025）按照三个标准筛选大学：（1）US News 全国大学排名前 100；（2）联邦研发支出总额前 100；（3）美国大学协会（AAU）成员身份。这三个标准确保样本覆盖了美国研究最活跃的大学群体（p.56）。
 
 ### 2. 目标网页的定位
 
@@ -76,7 +76,7 @@ updated: 2026-05-27
 ## 适用场景
 
 > [!success]
-- 适合研究**组织如何对外呈现其结构、职能和战略**——当[[Research Problem|研究问题]]涉及"组织声称自己在做什么"而非"组织实际上在做什么"时，网站分析是最直接的数据来源（Boccanfuso & Hall, 2025, pp.56–57）
+- 适合研究**组织如何对外呈现其结构、职能和战略**——当[[Research Question|研究问题]]涉及"组织声称自己在做什么"而非"组织实际上在做什么"时，网站分析是最直接的数据来源（Boccanfuso & Hall, 2025, pp.56–57）
 - 适合**较大规模的组织比较研究**——相比访谈或问卷，网站分析的数据收集成本较低，可以在较短时间内覆盖数十甚至上百个组织
 - 适合作为[[Mixed Method and Multi-method Research|混合方法]]设计中的**探索性或描述性组件**——网站分析可以帮助研究者建立分类框架，为后续的访谈或问卷调查提供结构化基础（Boccanfuso & Hall, 2025, pp.55–56）
 - 特别适合高等教育研究、组织研究和公共管理研究中涉及**大学、政府机构、非营利组织**等公开透明要求较高的机构

@@ -2984,6 +2984,19 @@
     ]
   },
   {
+    "title": "Alternative Hypothesis",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Alternative Hypothesis.md",
+    "aliases": [
+      "备择假设",
+      "替代假设",
+      "方向性备择假设",
+      "alternative hypotheses",
+      "directional alternative hypothesis",
+      "定向假设"
+    ]
+  },
+  {
     "title": "APA Style",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/APA Style.md",
@@ -3023,6 +3036,19 @@
       "核心现象",
       "central concept",
       "central idea"
+    ]
+  },
+  {
+    "title": "Central Question",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Central Question.md",
+    "aliases": [
+      "核心研究问题",
+      "质性核心问题",
+      "central research question",
+      "qualitative central question",
+      "质性子问题",
+      "qualitative sub-questions"
     ]
   },
   {
@@ -3113,6 +3139,16 @@
       "operational definition",
       "defining terms",
       "definition section"
+    ]
+  },
+  {
+    "title": "Descriptive Research Question",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Descriptive Research Question.md",
+    "aliases": [
+      "描述性研究问题",
+      "descriptive quantitative research question",
+      "descriptive question"
     ]
   },
   {
@@ -3287,6 +3323,17 @@
     ]
   },
   {
+    "title": "Mixed Methods Question",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Mixed Methods Question.md",
+    "aliases": [
+      "混合方法研究问题",
+      "mixed methods research question",
+      "整合研究问题",
+      "integration question"
+    ]
+  },
+  {
     "title": "Narrative Hook",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Narrative Hook.md",
@@ -3327,6 +3374,17 @@
       "law of nondirection",
       "非方向性法则",
       "nondirectional wording"
+    ]
+  },
+  {
+    "title": "Null Hypothesis",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Null Hypothesis.md",
+    "aliases": [
+      "零假设",
+      "虚无假设",
+      "无差异假设",
+      "null hypotheses"
     ]
   },
   {
@@ -3429,8 +3487,18 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Research Problem.md",
     "aliases": [
-      "研究问题",
+      "研究议题",
       "research problems"
+    ]
+  },
+  {
+    "title": "Research Question",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Research Question.md",
+    "aliases": [
+      "研究问题",
+      "research questions",
+      "研究问题与假设"
     ]
   },
   {

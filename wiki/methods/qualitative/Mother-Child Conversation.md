@@ -23,7 +23,7 @@ related_concepts:
   - "[[Cognitive Source]]"
   - "[[Benevolence]]"
   - "[[Pride in Learning]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Confucian Tutoring Style]]"
 related_theories:
@@ -282,7 +282,7 @@ Li 的话语分析还识别出第二种认知差异：**母亲如何向儿童解
 ## 适用场景
 
 > [!success]
-> MCC 方法适合以下[[Research Problem|研究问题]]：
+> MCC 方法适合以下[[Research Question|研究问题]]：
 > - 文化学习信念如何在家庭日常对话中从上一代传递给下一代
 > - 不同文化中家长如何通过语言构建儿童对学习的认知和情感
 > - 家庭教育中的微观互动机制（如说理策略、因果归因、情感教练）

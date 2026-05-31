@@ -3,9 +3,7 @@ citation: "Wadhwa, M., Zheng, J., & Cook, T. D. (2024). How consistent are meani
 extracted_to:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
-  - "[[Statistical Significance]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[CNCS Evidence Exchange]]"
@@ -22,12 +20,14 @@ extracted_to:
   - "[[Quantum Opportunity Program]]"
   - "[[Social Programs That Work]]"
   - "[[Success for All]]"
-  - "[[What Works Clearinghouse]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design]]"
   - "[[Campbellian Validity Framework]]"
+  - "[[Evidence-Based Reform]]"
+  - "[[Statistical Significance]]"
+  - "[[What Works Clearinghouse]]"
+  - "[[Randomised Controlled Trials]]"
 processed_date: 2026-05-05
 ---
 

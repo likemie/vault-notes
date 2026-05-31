@@ -13,7 +13,7 @@ tags:
   - theme/social-justice
 related_concepts:
   - "[[Theoretical Perspective]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Discipline-Based Theory]]"
   - "[[Variable]]"
   - "[[Theoretical Standpoint]]"
@@ -49,7 +49,7 @@ updated: 2026-05-31
 > 2. 在研究早期提及该框架与边缘化或未被充分代表的社区的关系，以及该社区面临的具体问题（如压迫、权力）
 > 3. 将该框架置于理论文献体系之中（如女性主义文献或种族文献）
 > 4. 让相关社区参与研究（如参与数据收集）
-> 5. 在[[Research Problem|研究问题]]中采取立场——倡导性导向（如"不平等确实存在，研究将着手证实它"）
+> 5. 在[[Research Question|研究问题]]中采取立场——倡导性导向（如"不平等确实存在，研究将着手证实它"）
 > 6. 在变革性框架内推进量化与质性方法的收集、分析和整合
 > 7. 讨论研究者的经验及其背景如何影响对参与者和研究问题的理解
 > 8. 以倡导变革来帮助研究对象人群和所研究的问题来结束研究

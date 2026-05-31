@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
+  - "[[Null Hypothesis]]"
   - "[[Visible Learning]]"
   - "[[School Effectiveness]]"
 related_theories: []
@@ -56,7 +57,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Statistical Significance]] — 显著性检验通常给出是否拒绝零假设的判断；置信区间直接呈现估计误差范围，使点估计的精度可见。
+> - vs [[Statistical Significance]] — 显著性检验通常给出是否拒绝[[Null Hypothesis|零假设]]的判断；置信区间直接呈现估计误差范围，使点估计的精度可见。
 > - vs [[Effect Size]] — 效应量是差异大小的点估计；置信区间说明这个点估计可能有多不稳定。没有 CI 时，效应量排名只能呈现数值顺序，不能说明相邻 d 值是否真的不同（Allerup, 2015, pp.47–48）。
 
 ## 相关方法

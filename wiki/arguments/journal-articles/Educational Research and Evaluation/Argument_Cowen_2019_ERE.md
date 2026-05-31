@@ -24,7 +24,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Champ]]"
   - "[[Effect Size]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
@@ -131,7 +131,7 @@ updated: '2026-05-18'
 >
 > 4. **结构性盲区**：EBE 方法论将系统层面问题（资源配置、政策环境、治理结构）排除在研究议程之外，同时声称追求教育公平
 >
-> 5. **改革方向**：切断 EBE 与行政问责机制的捆绑；拥抱方法多元论；让[[Research Problem|研究问题]]反映教师而非官僚的需求
+> 5. **改革方向**：切断 EBE 与行政问责机制的捆绑；拥抱方法多元论；让[[Research Question|研究问题]]反映教师而非官僚的需求
 
 ## 关键引用
 

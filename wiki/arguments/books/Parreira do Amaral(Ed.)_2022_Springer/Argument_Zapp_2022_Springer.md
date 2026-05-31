@@ -19,6 +19,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
+  - "[[Research Problem]]"
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
   - "[[Epistemic Drift]]"
@@ -121,7 +122,7 @@ Zapp 论证大学经历了两个层次的身份变化（pp.147–149）：
 
 如果说前三步搭建了理论框架，第四步就是拿出实证证据。Zapp 以 2015 年联合国 [[UN Sustainable Development Goals|SDGs]]（17 项目标，193 个成员国通过）为案例，展示了大学如何通过四条渠道嵌入全球治理（pp.150–154）：
 
-**机制一：研究对齐（Aligning Research）**。大学把研究议题转向 SDGs。这不仅是口号——Zapp 给出了具体案例：Manchester 大学开发碳足迹工具追踪全球"碳热点"、UBC 开发保护生物多样性的传感器和软件、Auckland 大学与航运业合作追踪鲸鱼迁徙路线以减少船只撞击、KTH 皇家理工学院创建面向教师的可持续发展教学网络平台、ETH Zurich 推行"2000 瓦特社会"能源效率项目、Oberlin College 推行"Oberlin Project"旨在创建美国首批气候积极城市之一（pp.150–151）。
+**机制一：研究对齐（Aligning Research）**。大学把[[Research Problem|研究议题]]转向 SDGs。这不仅是口号——Zapp 给出了具体案例：Manchester 大学开发碳足迹工具追踪全球"碳热点"、UBC 开发保护生物多样性的传感器和软件、Auckland 大学与航运业合作追踪鲸鱼迁徙路线以减少船只撞击、KTH 皇家理工学院创建面向教师的可持续发展教学网络平台、ETH Zurich 推行"2000 瓦特社会"能源效率项目、Oberlin College 推行"Oberlin Project"旨在创建美国首批气候积极城市之一（pp.150–151）。
 
 同时，大学和国际组织（International Organizations, IOs）在研究上深度合作。Zapp (2017b) 发现，公立大学是所有 IOs 最频繁的研究合作者——平均 40,000 篇出版物由大学和 IOs 研究者共同署名。而且这种关系是双向的：大学知识渗透进 IOs 的运作（Zapp, 2020a 发现所有 IOs 全球报告从 1980 年代末起均包含科学引用），同时 IOs（如经济合作与发展组织 OECD）也塑造了大学的研究议程（pp.151）。
 

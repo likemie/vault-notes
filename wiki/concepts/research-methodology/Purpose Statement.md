@@ -10,6 +10,7 @@ type: concept
 tags:
   - subject/research-methodology
 related_concepts:
+  - "[[Research Question]]"
   - "[[Research Problem]]"
   - "[[Central Phenomenon]]"
   - "[[Variable]]"
@@ -48,7 +49,7 @@ updated: 2026-05-31
 > [!info]
 > 目的陈述（purpose statement）是研究计划或论文中传达研究总体意图和目标的陈述，通常在摘要或引言中以一句话或一段话的形式出现。它说明研究者为何开展研究、研究期望完成什么（[[John Locke|Locke]] et al., 2014; Creswell & Creswell, 2022, p.123）。在健康科学领域，更常用的术语是"研究目标"（study aim）。
 
-目的陈述是连接[[Research Problem|研究问题]]与研究问题的核心环节。Creswell & Creswell (2022, p.123) 将研究设计中四个环节的递进关系概括为：研究问题（problem）→ 目的陈述（purpose）→ 研究问题（research questions）→ 数据收集（data），整个过程体现了研究焦点的逐步收窄。
+目的陈述是连接[[Research Question|研究问题]]与研究问题的核心环节。Creswell & Creswell (2022, p.123) 将研究设计中四个环节的递进关系概括为：研究问题（problem）→ 目的陈述（purpose）→ 研究问题（research questions）→ 数据收集（data），整个过程体现了研究焦点的逐步收窄。
 
 > [!quote]
 > "The purpose statement indicates why the researcher conducts the study and what the study intends to accomplish."（Locke et al., 2014; 引自 Creswell & Creswell, 2022, p.123）
@@ -58,7 +59,7 @@ updated: 2026-05-31
 ## 概念辨析
 
 > [!example]
-> **目的陈述 vs [[Research Problem|研究问题]]（Research Problem）**：研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身（Creswell & Creswell, 2022, pp.123–124）。
+> **目的陈述 vs [[Research Question|研究问题]]（[[Research Problem]]）**：研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身（Creswell & Creswell, 2022, pp.123–124）。
 
 > [!example]
 > **目的陈述 vs 研究问题（Research Questions）**：研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research|量化研究]]中，研究问题还可能包含假设（Creswell & Creswell, 2022, p.124）。

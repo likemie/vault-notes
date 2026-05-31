@@ -12,7 +12,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Research Problem]]"
+  - "[[Central Question]]"
   - "[[School Choice]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
@@ -70,7 +70,7 @@ updated: 2026-05-26
 > 深度访谈通常采用半结构化设计（semi-structured）。研究者准备访谈提纲以覆盖关键议题，但实际对话以开放式问题主导，使分析性概念能在受访者的主动讲述中涌现，而非被研究者的预设框架所限制。
 
 > [!example] 渐进式聚焦法
-> 常见的提问结构采用"渐进式聚焦法"（progressive focusing）（Arksey & Knight, 1999）——从最宽阔的生活背景逐步收窄至核心[[Research Problem|研究问题]]：
+> 常见的提问结构采用"渐进式聚焦法"（progressive focusing）（Arksey & Knight, 1999）——从最宽阔的生活背景逐步收窄至[[Central Question|核心研究问题]]：
 >
 > | 阶段 | 聚焦范围 | 核心内容 |
 > |------|---------|---------|

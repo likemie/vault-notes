@@ -12,6 +12,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Purpose Statement]]"
+  - "[[Research Question]]"
 related_theories: []
 related_methods:
   - "[[Mixed Method and Multi-method Research]]"
@@ -98,7 +99,7 @@ updated: 2026-05-31
 >
 > **完整[[Purpose Statement|目的陈述]]**：
 >
-> "The purpose of this mixed methods sequential explanatory study was to identify factors contributing to students' persistence in the ELHE program by obtaining quantitative results from a survey of 278 current and former students and then following up with four purposefully selected individuals to explore those results in more depth through a qualitative [[Case Study]] analysis. In the first, quantitative phase of the study, the research questions focused on how selected internal and external [[Variable|variables]] to the ELHE program (program-related, advisor- and faculty-related, institutional-related, student-related factors, and external factors) served as predictors to students' persistence in the program. In the second, qualitative phase, four case studies from distinct participant groups explored in-depth the results from the statistical tests." (p.95)
+> "The purpose of this mixed methods sequential explanatory study was to identify factors contributing to students' persistence in the ELHE program by obtaining quantitative results from a survey of 278 current and former students and then following up with four purposefully selected individuals to explore those results in more depth through a qualitative [[Case Study]] analysis. In the first, quantitative phase of the study, the [[Research Question|research questions]] focused on how selected internal and external [[Variable|variables]] to the ELHE program (program-related, advisor- and faculty-related, institutional-related, student-related factors, and external factors) served as predictors to students' persistence in the program. In the second, qualitative phase, four case studies from distinct participant groups explored in-depth the results from the statistical tests." (p.95)
 >
 > **要素对照**：
 >

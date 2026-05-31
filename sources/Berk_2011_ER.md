@@ -6,12 +6,12 @@ extracted_to:
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Daubert v Merrell Dow Pharmaceuticals 1993]]"
   - "[[Causal Modeling]]"
-  - "[[Cluster Randomized Trials]]"
   - "[[Covariate Adjustment]]"
   - "[[Matching]]"
+  - "[[Potential Outcomes Framework]]"
+  - "[[Cluster Randomized Trials]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Potential Outcomes Framework]]"
 processed_date: 2026-05-03
 ---
 

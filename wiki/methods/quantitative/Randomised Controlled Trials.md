@@ -17,7 +17,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Tracking]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -88,7 +88,7 @@ updated: '2026-05-18'
 
 > [!success] 适用场景
 > - 在医学领域（来源领域），RCT 适合在已有充分理论理解治疗机制的前提下评估特定治疗方案的效果
-> - 在教育领域，当[[Research Problem|研究问题]]是关于可被离散定义的"干预"、且情境相对可控时，RCT 可能提供有用的比较信息
+> - 在教育领域，当[[Research Question|研究问题]]是关于可被离散定义的"干预"、且情境相对可控时，RCT 可能提供有用的比较信息
 > - 即使批判者也承认 RCT "可以挑战既有的专业习惯"和"突出替代方案"（Wrigley & McCusker, 2019, p. 123）
 
 ## 局限性

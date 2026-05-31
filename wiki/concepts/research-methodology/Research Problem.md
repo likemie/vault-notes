@@ -1,10 +1,11 @@
 ---
 title: Research Problem
-aliases: ["研究问题", "research problems"]
+aliases: ["研究议题", "research problems"]
 summary: "学术研究中引导研究需求的难题或议题，区别于通过数据来回答的研究问题句（research questions），可来自个人经验、文献争论或政策讨论"
 type: concept
 tags: [method/research-process, source/textbook]
 related_concepts:
+  - "[[Research Question]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -27,7 +28,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 研究问题（Research Problem）是引导研究需求的难题或议题（problem or issue that leads to the need for a study）。它是学术研究中引言部分的核心要素，为整个研究提供存在理由（Creswell & Creswell, 2022, 第5章）。
+> [[Research Question|研究问题]]（Research Problem）是引导研究需求的难题或议题（problem or issue that leads to the need for a study）。它是学术研究中引言部分的核心要素，为整个研究提供存在理由（Creswell & Creswell, 2022, 第5章）。
 
 研究问题与研究问题句（research questions）不同：前者是一个难题或议题，后者是通过收集和分析数据来回答的具体问题。研究问题回答"为什么需要这项研究"，研究问题句回答"这项研究要探索或检验什么"。
 
@@ -38,7 +39,7 @@ updated: 2026-05-31
 
 ## 研究问题的来源
 
-研究问题可以来自多种途径（Creswell & Creswell, 2022, 第5章）：
+[[Research Question|研究问题]]可以来自多种途径（Creswell & Creswell, 2022, 第5章）：
 
 - **个人经验与职场经历**：研究者在个人生活或工作中遇到的实际困境
 - **文献中的争论**：学术文献中的争议往往揭示了研究空白、需要解决的对立观点或需要扩展的讨论
@@ -51,7 +52,7 @@ updated: 2026-05-31
 
 ## 常见误区
 
-Creswell & Creswell（2022, 第5章）指出了陈述研究问题时容易出现的几个问题：
+Creswell & Creswell（2022, 第5章）指出了陈述[[Research Question|研究问题]]时容易出现的几个问题：
 
 1. **混淆"现状"与"问题"**：研究者常常只描述文献中存在的现象，而非识别需要解决的真正问题。例如，引用青少年怀孕的普遍性数据只是在陈述事实；真正的问题可能是"学校在接纳怀孕青少年方面做得很差"。
 
@@ -68,7 +69,7 @@ Creswell & Creswell（2022, 第5章）指出了陈述研究问题时容易出现
 
 ## 在不同研究路径中的呈现
 
-引言中呈现的研究问题类型因研究路径而异（Creswell & Creswell, 2022, 第5章）：
+引言中呈现的[[Research Question|研究问题]]类型因研究路径而异（Creswell & Creswell, 2022, 第5章）：
 
 - **[[Quantitative Research|量化研究]]**：问题通常源于理解哪些因素或[[Variable|变量]]影响某一结果。例如，面对员工裁员问题，研究者可能探究哪些因素影响企业缩小规模。量化引言通常以非个人视角、过去时态撰写，以传达客观性。
 - **[[Qualitative Research|质性研究]]**：问题通常通过探索某一概念或现象来理解。质性研究问题是探索性的，当变量、问题和理论尚不明确时使用。Morse（1991）指出质性研究问题的特征包括：概念因缺乏理论和先前研究而"不成熟"；现有理论可能不准确或不适用；需要探索和描述现象并发展理论；现象的本质可能不适合量化测量。
@@ -78,7 +79,7 @@ Creswell & Creswell（2022, 第5章）指出了陈述研究问题时容易出现
 
 ## 研究问题示例
 
-Creswell & Creswell（2022, 第5章）提供了多个来自应用社会科学研究的典型研究问题示例：
+Creswell & Creswell（2022, 第5章）提供了多个来自应用社会科学研究的典型[[Research Question|研究问题]]示例：
 
 > [!example]
 > - "学校没有多元文化指南，导致歧视现象"——需要审查招生标准
@@ -99,7 +100,7 @@ Creswell & Creswell（2022, 第5章）提供了以下操作建议：
 - 避免在开篇句中使用引文（尤其是长引文），引文会增加解读的多种可能性，造成模糊的开端
 - 远离习语表达或陈词滥调
 - 考虑使用数字信息增强影响力
-- 清晰识别引导研究的研究问题
+- 清晰识别引导研究的[[Research Question|研究问题]]
 - 自我检查："是否有明确的句子传达了研究问题？"
 - 通过引用大量参考文献说明问题的重要性（建议第一页至少引用十几条参考文献）
 - 确保问题的框架与研究路径一致

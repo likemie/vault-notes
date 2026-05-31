@@ -11,13 +11,13 @@ extracted_to:
   - "[[Danish Public School Reform]]"
   - "[[Hattie på dansk]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[Meta-analysis]]"
   - "[[Lars Qvortrup]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[John Hattie]]"
   - "[[Donald A. Schön]]"
   - "[[Herbert A. Simon]]"
   - "[[Bounded Rationality]]"
+  - "[[Meta-analysis]]"
 processed_date: 2026-05-03
 ---
 

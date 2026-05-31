@@ -6,7 +6,7 @@ type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Narrative Hook]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Purpose Statement]]"
   - "[[Literature Review]]"
@@ -42,7 +42,7 @@ updated: 2026-05-31
 Creswell & Creswell（2022, 第5章）指出引言需要同时履行四项功能：
 
 1. **创造读者兴趣**：通过[[Narrative Hook|叙事钩子]]激发读者对主题的兴趣，让广泛受众能够理解研究的意义
-2. **确立[[Research Problem|研究问题]]**：清晰传达引导研究需求的[[Research Problem|研究问题]]，使读者理解"为什么需要这项研究"
+2. **确立[[Research Question|研究问题]]**：清晰传达引导研究需求的研究问题，使读者理解"为什么需要这项研究"
 3. **置于学术文献语境**：将研究嵌入更大的学术对话之中，展示该研究与已有文献的关系
 4. **触及受众**：说明研究对不同受众群体（研究者、实践者、政策制定者）的重要意义
 
@@ -53,7 +53,7 @@ Creswell & Creswell（2022, 第5章）指出引言需要同时履行四项功能
 
 ## 陈述研究问题的常见困难
 
-Creswell & Creswell（2022, 第5章）指出了研究者在引言中陈述[[Research Problem|研究问题]]时容易遇到的四个困难：
+Creswell & Creswell（2022, 第5章）指出了研究者在引言中陈述[[Research Question|研究问题]]时容易遇到的四个困难：
 
 1. **识别现状而非问题**：研究者常常只描述文献中存在的现象，而非识别需要解决的真正问题。例如，引用青少年怀孕的普遍性数据是陈述事实，真正的问题可能是"学校在接纳怀孕青少年方面做得很差"。建议不要仅仅陈述事实，而要深入思考背后存在的根本问题。
 
@@ -78,7 +78,7 @@ Creswell & Creswell（2022, 第5章）指出了研究者在引言中陈述[[Rese
 | 变革性取向 | 较少 | 可能使用变革性透镜（如性别、种族） | 可能纳入社会正义框架 |
 
 > [!note] 连续谱而非二分
-> 虽然存在这些差异，但三种路径的引言差异是微妙的，它们主要涉及引言中呈现的不同类型的[[Research Problem|研究问题]]。[[Deficiencies Model for an Introduction|引言缺陷模型]]作为一个通用模板，适用于所有三种路径。
+> 虽然存在这些差异，但三种路径的引言差异是微妙的，它们主要涉及引言中呈现的不同类型的[[Research Question|研究问题]]。[[Deficiencies Model for an Introduction|引言缺陷模型]]作为一个通用模板，适用于所有三种路径。
 
 ---
 
@@ -87,7 +87,7 @@ Creswell & Creswell（2022, 第5章）指出了研究者在引言中陈述[[Rese
 引言不是孤立的部分，它与研究设计的多个组成部分紧密相连：
 
 - 引言之前是摘要——摘要是引言的浓缩版，让读者快速判断是否阅读全文
-- 引言的核心是[[Research Problem|研究问题]]的陈述——回答"为什么需要这项研究"
+- 引言的核心是[[Research Question|研究问题]]的陈述——回答"为什么需要这项研究"
 - 引言之后是[[Purpose Statement|目的陈述]]——从"为什么"过渡到"研究什么"
 - 引言中的[[Literature Review|文献综述]]是简化的、按群组总结的，不同于后面完整的[[Literature Review|文献综述]]章节
 

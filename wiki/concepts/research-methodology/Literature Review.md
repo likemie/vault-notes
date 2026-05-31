@@ -6,7 +6,7 @@ type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Research Topic]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Abstract]]"
   - "[[Deficiencies in Past Literature]]"
@@ -44,7 +44,7 @@ updated: 2026-05-30
 
 ### 量化研究中的文献综述
 
-在[[Quantitative Research|量化研究]]中，文献综述通常以独立章节形式出现在研究开头，为[[Research Problem|研究问题]]或假设提供方向。其典型结构围绕[[Variable|变量]]组织：
+在[[Quantitative Research|量化研究]]中，文献综述通常以独立章节形式出现在研究开头，为[[Research Question|研究问题]]或假设提供方向。其典型结构围绕[[Variable|变量]]组织：
 
 > [!abstract] 量化文献综述的五部分结构
 > 1. **引言**：告知读者该章节包含哪些部分

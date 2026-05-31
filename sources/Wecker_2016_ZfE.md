@@ -4,12 +4,12 @@ extracted_to:
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Publication Bias]]"
-  - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
+  - "[[Confidence Interval]]"
+  - "[[Meta-analysis]]"
 processed_date: 2026-05-03
 ---
 

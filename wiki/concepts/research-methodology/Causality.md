@@ -14,7 +14,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Purpose Statement]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -46,7 +46,7 @@ updated: 2026-05-31
 
 ### 时间顺序（Temporal Order）
 
-时间顺序意味着一个[[Variable|变量]]在时间上先于另一个变量。由于这种时间排序，一个变量影响或预测另一个变量。时间顺序还意味着[[Quantitative Research|量化研究]]者从左到右思考变量（Punch, 2014），并在[[Purpose Statement|目的陈述]]、[[Research Problem|研究问题]]和视觉模型中按此顺序排列变量（Creswell & Creswell, 2022, p.57）。
+时间顺序意味着一个[[Variable|变量]]在时间上先于另一个变量。由于这种时间排序，一个变量影响或预测另一个变量。时间顺序还意味着[[Quantitative Research|量化研究]]者从左到右思考变量（Punch, 2014），并在[[Purpose Statement|目的陈述]]、[[Research Question|研究问题]]和视觉模型中按此顺序排列变量（Creswell & Creswell, 2022, p.57）。
 
 ### 混淆变量的威胁
 

@@ -9,7 +9,7 @@ related_concepts:
   - "[[Hook and Eye Technique]]"
   - "[[Literature Review]]"
   - "[[Purpose Statement]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Self-Efficacy]]"
   - "[[Central Phenomenon]]"
@@ -61,7 +61,7 @@ updated: 2026-05-31
 
 ## 量化研究中的连贯性策略
 
-[[Quantitative Research|量化研究]]中，连贯性通过重复关键术语来实现。在标题、[[Purpose Statement|目的陈述]]、[[Research Problem|研究问题]]和[[Literature Review|文献综述]]标题中一致地使用同一[[Variable|变量]]名称，使读者在文本各组成部分之间建立起清晰的连接。强调自变量和因变量的一致呈现顺序，同样有助于构建连贯的研究计划（Creswell & Creswell, 2022, 第4章）。
+[[Quantitative Research|量化研究]]中，连贯性通过重复关键术语来实现。在标题、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题]]和[[Literature Review|文献综述]]标题中一致地使用同一[[Variable|变量]]名称，使读者在文本各组成部分之间建立起清晰的连接。强调自变量和因变量的一致呈现顺序，同样有助于构建连贯的研究计划（Creswell & Creswell, 2022, 第4章）。
 
 > [!example]
 > 如果一项量化研究的标题使用"academic [[Self-Efficacy]]"，那么目的陈述中应继续使用"academic self-efficacy"而非换成"academic confidence"或"self-belief in learning"。术语的每一次替换都会削弱文本的连贯性，迫使读者重新理解概念之间的对应关系。

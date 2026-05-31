@@ -14,6 +14,7 @@ tags:
   - cultural-studies
 related_concepts:
   - "[[Champ]]"
+  - "[[Research Question]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -47,6 +48,20 @@ updated: 2026-05-30
 > - 关注群体的共享信念、价值观、行为模式、语言和物质文化。
 > - 生成关于该文化群体的整体性描述（holistic description）。
 > - 研究者需要反思自身文化背景如何影响对研究群体的理解（反身性）。
+
+## 研究问题
+
+> [!info]
+> 民族志[[Research Question|研究问题]]的具体程度与其他质性路径不同。Spradley (1980) 提出了民族志问题的分类法（taxonomy of ethnographic questions），涵盖以下类型（Creswell & Creswell, 2022, Ch7）：
+>
+> - **微型导览问题（mini-tour questions）**：引导研究者初步了解文化共享群体
+> - **经历问题（experience questions）**：询问群体成员的具体经历
+> - **本土语言问题（native language questions）**：关注群体内部使用的语言和术语
+> - **对比问题（contrast questions）**：将该文化群体与其他文化群体进行比较
+> - **验证性问题（verification questions）**：用于检验数据准确性
+
+> [!note] 批判民族志的研究问题
+> 在批判民族志（critical ethnography）中，[[Research Question|研究问题]]可建立在已有文献体系之上，成为"工作指南而非被证实的真理"（Thomas, 1993，引自 Creswell & Creswell, 2022, Ch7）。
 
 ## 适用场景
 

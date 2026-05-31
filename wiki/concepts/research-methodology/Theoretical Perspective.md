@@ -15,7 +15,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Writing Script]]"
   - "[[Locus of Control]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
 related_theories:
   - "[[Social Learning Theory]]"
 related_methods:
@@ -67,7 +67,7 @@ Creswell & Creswell (2022, pp.62–63) 提供了一个实用的[[Research Writin
 ## 概念辨析
 
 > [!example]
-> **理论视角 vs 理论**。理论是[[Variable|变量]]间关系的抽象解释系统（如[[Social Learning Theory|社会学习理论]]）。理论视角是研究论文中将某一特定理论应用于具体[[Research Problem|研究问题]]的那一节文字，不仅介绍理论本身，更重要的是说明该理论如何连接到当前研究的变量、假设和设计。
+> **理论视角 vs 理论**。理论是[[Variable|变量]]间关系的抽象解释系统（如[[Social Learning Theory|社会学习理论]]）。理论视角是研究论文中将某一特定理论应用于具体[[Research Question|研究问题]]的那一节文字，不仅介绍理论本身，更重要的是说明该理论如何连接到当前研究的变量、假设和设计。
 
 > [!example]
 > **理论视角 vs [[Literature Review|文献综述]]**。文献综述系统检索、评估和总结已有研究整体。理论视角聚焦于一个或两个具体理论，深入阐述其命题和与当前研究的关系。两者在[[Quantitative Research|量化研究]]计划中可以分开设置，也可以将理论视角作为文献综述的一部分。

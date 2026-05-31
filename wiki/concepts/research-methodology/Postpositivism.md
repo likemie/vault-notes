@@ -14,7 +14,7 @@ tags:
   - paradigm/postpositivist
 related_concepts:
   - "[[Variable]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Causality]]"
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
@@ -45,7 +45,7 @@ updated: 2026-05-30
 > [!abstract]
 > 后实证主义世界观包含以下核心假设。
 > - **决定论（Determination）** 原因（可能地）决定效果或结果，研究旨在识别和评估影响结果的因果因素。
-> - **还原论（Reductionism）** 研究意图在于将思想还原为一组小型的、离散的[[Variable|变量]]来进行检验，如构成假设和[[Research Problem|研究问题]]的变量。
+> - **还原论（Reductionism）** 研究意图在于将思想还原为一组小型的、离散的[[Variable|变量]]来进行检验，如构成假设和[[Research Question|研究问题]]的变量。
 > - **经验观察与测量（Empirical Observation and Measurement）** 对客观世界中"存在那里"的现实进行仔细的观察和数值测量。
 > - **理论检验（Theory Verification）** 法则或理论支配着世界，这些理论需要被检验、验证和完善。研究者从理论出发，收集支持或反驳理论的数据，然后进行修正和进一步检验。
 

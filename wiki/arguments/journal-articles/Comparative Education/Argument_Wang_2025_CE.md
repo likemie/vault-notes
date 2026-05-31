@@ -21,7 +21,7 @@ related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Learner-Centred Education]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Recontextualization]]"
 related_theories:
@@ -78,7 +78,7 @@ updated: 2026-05-26
 > - **研究情境**：英国某大学与华北某地区合作，为 15 所学校提供 [[Learner-Centred Education|LCE]] 工作坊（共四轮、每轮两周、间隔三至四个月）。工作坊介绍 LCE 的学习理论基础（社会文化理论、Bruner [[Constructivist Paradigm|建构主义]]理论）和英国课堂实施 LCE 的真实案例（pp.591-592）
 > - **样本**：从 15 所学校中选取 4 所（两所城市、两所农村），共 4 位校长和 9 位骨干教师参与访谈（p.592）
 > - **数据来源**：半结构化访谈（每位教师两轮、三位校长两轮、一位校长一轮，每次约 50 分钟，以中文进行）+ 学校文件（教育局评价标准、课堂教学观摩方案、田野笔记）（pp.592-593）
-> - **分析方法**：Nvivo 11 辅助编码——先开放编码，再按[[Research Problem|研究问题]]分组为主题；后期采用[[Third Generation Activity Theory|活动理论]]六要素框架重新组织数据（p.593）
+> - **分析方法**：Nvivo 11 辅助编码——先开放编码，再按[[Research Question|研究问题]]分组为主题；后期采用[[Third Generation Activity Theory|活动理论]]六要素框架重新组织数据（p.593）
 
 ---
 

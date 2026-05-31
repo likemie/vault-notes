@@ -13,10 +13,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Purpose Statement]]"
   - "[[Central Phenomenon]]"
-  - "[[Research Question]]"
   - "[[Central Question]]"
   - "[[Mixed Methods Question]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Mixed Method and Multi-method Research]]"

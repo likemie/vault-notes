@@ -13,12 +13,14 @@ tags:
   - inductive
 related_concepts:
   - "[[Constructivist Paradigm]]"
+  - "[[Research Question]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Constructivist Grounded Theory]]"
   - "[[Ethnography]]"
+  - "[[Quantitative Research]]"
+  - "[[Constructivist Grounded Theory]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -45,6 +47,16 @@ updated: 2026-05-30
 > - 持续比较法（constant comparison），在数据收集和分析之间不断来回，精炼类别及其关系。
 > - 撰写备忘录（memoing）记录理论构建过程中的想法和决定。
 > - 当新数据不再产生新的理论见解时达到理论饱和（theoretical saturation）。
+
+## 研究问题
+
+> [!info]
+> 扎根理论的[[Research Question|研究问题]]指向**生成关于某一过程的理论**（Creswell & Creswell, 2022, Ch7）。与其他质性路径不同，扎根理论的[[Research Question|研究问题]]不是为了描述经验的本质（[[Phenomenology|现象学]]）或理解文化（[[Ethnography|民族志]]），而是为了解释一个社会或互动过程如何展开。
+
+典型的扎根理论研究问题示例："在医院环境中，照顾者和病人如何互动？"（Creswell & Creswell, 2022, Ch7）。这类问题聚焦于**过程**（process）和**互动**（interaction），反映扎根理论以生成理论解释过程为核心目标的方法论定位。
+
+> [!note] 研究问题的演变
+> 在扎根理论研究中，研究问题处于持续审查和重写的状态。这与[[Quantitative Research|量化研究]]中研究问题保持固定不变的惯例形成鲜明对比（Creswell & Creswell, 2022, Ch7）。
 
 ## 方法变体与相近方法
 

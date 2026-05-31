@@ -41,7 +41,7 @@ related_concepts:
   - "[[Student Involvement]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Symbolic Boundary]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Constructivist Paradigm]]"
   - "[[Self-Authorship]]"
   - "[[Quality Education]]"
@@ -416,7 +416,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 - 中间层"投入过程"是学生在既定结构性约束下发挥能动性的空间
 - 最内层"价值选择过程"是前述结构和投入最终凝结为抉择的环节——价值观决定了"想要什么"，文化工具箱决定了"如何去做"
 
-**三个[[Research Problem|研究问题]]的对应**（郑雅君，2023）：
+**三个[[Research Question|研究问题]]的对应**（郑雅君，2023）：
 1. **（资本化）** 家庭的资源优势如何转化为学生在大学阶段的文化资本？
 2. **（投入）** 学生在大学里的努力如何转化为他们在出路获得上的优势？
 3. **（价值选择）** 价值信念如何影响生涯目标的树立，又如何影响出路的最终获得？

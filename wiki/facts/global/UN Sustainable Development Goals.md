@@ -16,6 +16,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Third Mission (Universities)]]"
+  - "[[Research Problem]]"
   - "[[University Social Responsibility]]"
   - "[[Otherhood]]"
   - "[[Literature Review]]"
@@ -71,7 +72,7 @@ updated: '2026-05-18'
 
 > [!example]
 > 在高等教育领域，SDGs 通过以下渠道被大学实施（Zapp, 2022, pp.150–154）：
-> - **研究对齐**：全球多所大学将研究议题与 SDGs 对齐。例：Manchester 大学开发碳足迹工具，UBC 开发保护生物多样性的传感器和软件，Auckland 大学与航运业合作追踪鲸鱼迁徙路线以减少致命碰撞，KTH 皇家理工学院创建面向教师的可持续发展教学网络平台，ETH Zurich 推行"2000 Watt Society"能源效率项目，Oberlin College 推行"Oberlin Project"旨在创建"美国首批气候积极城市之一"（pp.150–151）
+> - **研究对齐**：全球多所大学将[[Research Problem|研究议题]]与 SDGs 对齐。例：Manchester 大学开发碳足迹工具，UBC 开发保护生物多样性的传感器和软件，Auckland 大学与航运业合作追踪鲸鱼迁徙路线以减少致命碰撞，KTH 皇家理工学院创建面向教师的可持续发展教学网络平台，ETH Zurich 推行"2000 Watt Society"能源效率项目，Oberlin College 推行"Oberlin Project"旨在创建"美国首批气候积极城市之一"（pp.150–151）
 > - **教学对齐**：Oxford 开设 MSc in Global Governance and Diplomacy，Copenhagen 开设 MSc in Climate Change，KTH 开设 MA in Sustainable Technology，Manchester 提供 Water Supply and Sanitation Policy in Developing Countries 和 Global Health and Humanitarianism 的 MOOCs，Bologna 大学报告 1174 个与 SDGs 相关的课程单元，McMaster 开设全球卫生博士项目，Gothenburg 开设"从研究到政策促进可持续发展"跨学科博士项目（pp.151–152）
 > - **内部政策对齐（[[University Social Responsibility|USR]]）**：全球 200+ 所大学发布了企业社会责任/可持续发展报告，将校园转型为"活实验室"和"可持续发展试验台"（pp.152–153）
 > - **网络对齐**：大学组建元组织联合应对 SDGs，如 UN SDSN 将大学、政府机构、研究机构和 I(N)GO 聚集在一起开发和推广 SD 政策与解决方案，IAU 主办 HEA-RSD 倡议并发布 Iquitos Statement（pp.153–154）

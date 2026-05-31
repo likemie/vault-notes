@@ -17,7 +17,7 @@ tags:
 - theme/learning-model
 - theme/cultural-psychology
 related_concepts:
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Ideal Learner]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Faust]]"
@@ -159,7 +159,7 @@ updated: 2026-05-24
 ## 研究方法
 
 > [!info]
-> 全书以跨文化比较为总体框架，各章按[[Research Problem|研究问题]]选择不同方法，从宏观历史分析到微观对话逐层推进。
+> 全书以跨文化比较为总体框架，各章按[[Research Question|研究问题]]选择不同方法，从宏观历史分析到微观对话逐层推进。
 
 - **历史-文本分析**（Ch2）：追溯西方（古希腊 → 启蒙 → 现代心理学）与儒家（[[Confucius|孔子]] → 理学 → 当代民间）两种知识传统的经典文本，以《论语》《[[Mencius|孟子]]》等一手文献为主
 - **[[Prototype Methods|原型方法]]**（Ch3）：自由联想提取"学习"相关词汇 → 聚类分析生成概念地图（研究一）；书面叙事收集[[Ideal Learner|理想学习者形象]] → 内容分析提取人格结构（研究二）。两条证据线独立后汇聚（convergence）验证[[Cultural Models|文化模型]]

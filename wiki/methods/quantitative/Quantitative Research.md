@@ -14,7 +14,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Postpositivism]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -48,7 +48,7 @@ updated: 2026-05-30
 ## 研究程序
 
 > [!example]
-> - 从理论出发，推导出可检验的假设或[[Research Problem|研究问题]]。
+> - 从理论出发，推导出可检验的假设或[[Research Question|研究问题]]。
 > - 识别研究[[Variable|变量]]，并将其操作化为可测量的指标。
 > - 通过标准化工具收集数值数据。
 > - 使用统计程序分析数据。
@@ -59,7 +59,7 @@ updated: 2026-05-30
 ## 适用场景
 
 > [!success]
-> - [[Research Problem|研究问题]]需要识别影响结果的因素时。
+> - [[Research Question|研究问题]]需要识别影响结果的因素时。
 > - 需要检验某一干预措施的效果时。
 > - 需要了解结果的最佳预测[[Variable|变量]]时。
 > - 需要检验理论或解释时。

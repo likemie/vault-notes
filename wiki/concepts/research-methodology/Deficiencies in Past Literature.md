@@ -6,7 +6,7 @@ type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Deficiencies Model for an Introduction]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -31,7 +31,7 @@ updated: 2026-05-31
 > [!info]
 > 既往文献缺陷（Deficiencies in Past Literature）是指在已有研究文献中识别出的缺口、不足或忽略之处。它是 Creswell [[Deficiencies Model for an Introduction|引言缺陷模型]]（[[Deficiencies Model for an Introduction]]）的第三部分，也是该模型得名的核心要素——通过指出已有研究"缺少什么"来为新的研究提供合法化空间（Creswell & Creswell, 2022, 第5章）。
 
-在学术引言中，仅仅陈述[[Research Problem|研究问题]]和综述文献是不够的；研究者还必须明确指出已有文献中存在的不足，并说明计划中的研究将如何弥补或回应这些不足。
+在学术引言中，仅仅陈述[[Research Question|研究问题]]和综述文献是不够的；研究者还必须明确指出已有文献中存在的不足，并说明计划中的研究将如何弥补或回应这些不足。
 
 ---
 

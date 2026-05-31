@@ -6,7 +6,7 @@ type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Literature Review]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
   - "[[Purpose Statement]]"
   - "[[Champ]]"
   - "[[Effect Size]]"
@@ -43,7 +43,7 @@ updated: 2026-05-31
 
 对于报告数据的实证研究文章，摘要应包含以下要素（Creswell & Creswell, 2022）：
 
-1. **[[Research Problem|研究问题]]**：提及文章处理的问题
+1. **[[Research Question|研究问题]]**：提及文章处理的问题
 2. **核心目的或焦点**：说明研究的中心目的
 3. **样本、总体或研究对象**：简要说明研究对象信息
 4. **关键结果**：回顾与当前研究相关的主要发现
@@ -58,7 +58,7 @@ updated: 2026-05-31
 
 对于理论性、概念性或方法论文章（这些不是实证研究），摘要需提取不同的要素（Creswell & Creswell, 2022）：
 
-1. **[[Research Problem|研究问题]]**：提及文章或书籍处理的问题
+1. **[[Research Question|研究问题]]**：提及文章或书籍处理的问题
 2. **核心主题**：识别研究的中心主题
 3. **主要结论**：说明与该主题相关的主要结论
 4. **论证缺陷**（如适用）：如果是方法论综述，指出推理、逻辑或论证力度上的缺陷
@@ -70,7 +70,7 @@ updated: 2026-05-31
 > [!example] 方法论文章的摘要示例
 > Hirose & Creswell (2022) 一篇关于[[Mixed Method and Multi-method Research|混合方法]]质量标准的文章摘要展示了方法论摘要的典型构成：
 >
-> "Recent published articles and comments by researchers, federal recommendations, and professional association standards have recommended core quality criteria for designing and writing mixed methods research. Unfortunately, a synthesis of recent timely recommendations has not been made...（[[Research Problem|研究问题]]）This article presents six best practices in mixed methods culled from recent sources, discusses the need for each practice, and then illustrates its use in a recent empirical study from Japan（[[Purpose Statement|研究目的]]与主题）. This article contributes to the [[Champ|field]] of mixed methods methodology by providing a parsimonious list of core criteria...（贡献）"
+> "Recent published articles and comments by researchers, federal recommendations, and professional association standards have recommended core quality criteria for designing and writing mixed methods research. Unfortunately, a synthesis of recent timely recommendations has not been made...（[[Research Question|研究问题]]）This article presents six best practices in mixed methods culled from recent sources, discusses the need for each practice, and then illustrates its use in a recent empirical study from Japan（[[Purpose Statement|研究目的]]与主题）. This article contributes to the [[Champ|field]] of mixed methods methodology by providing a parsimonious list of core criteria...（贡献）"
 >
 > 这个摘要仅 120 词（受期刊投稿指南限制），但简洁地传达了研究问题、目的、主题和贡献（引自 Creswell & Creswell, 2022）。
 
@@ -82,7 +82,7 @@ updated: 2026-05-31
 
 对于实证研究的研究方案，摘要应包含以下五个核心组成部分，且应按以下顺序呈现（Creswell & Creswell, 2022, 第5章）：
 
-1. **[[Research Problem|研究问题]]或议题**：开篇陈述正在调查的问题或议题。可以引用一两条参考文献说明该问题，但摘要太短，不宜包含过多引用。
+1. **[[Research Question|研究问题]]或议题**：开篇陈述正在调查的问题或议题。可以引用一两条参考文献说明该问题，但摘要太短，不宜包含过多引用。
 
 2. **数据来源与相关特征**：说明数据的来源及其相关特征。
 

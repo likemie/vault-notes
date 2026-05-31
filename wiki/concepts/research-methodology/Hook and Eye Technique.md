@@ -8,7 +8,7 @@ related_concepts:
   - "[[Coherence in Writing]]"
   - "[[Literature Review]]"
   - "[[Purpose Statement]]"
-  - "[[Research Problem]]"
+  - "[[Research Question]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -58,7 +58,7 @@ updated: 2026-05-31
 
 - 研究计划（proposal）的引言部分
 - [[Literature Review|文献综述]]的整体结构
-- [[Purpose Statement|目的陈述]]与[[Research Problem|研究问题]]之间的衔接
+- [[Purpose Statement|目的陈述]]与[[Research Question|研究问题]]之间的衔接
 - 章节之间的过渡段落
 - 从方法到发现的逻辑推演
 
