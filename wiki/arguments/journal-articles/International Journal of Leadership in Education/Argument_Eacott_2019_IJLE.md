@@ -20,6 +20,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
+  - "[[Coherence in Writing]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -80,7 +81,7 @@ updated: 2026-05-18
 >
 > > "[[John Hattie|Hattie]]'s work is Taylorism for a new time."（p.778）
 >
-> > “这不仅仅是提出一个反驳，而是与他人的观点交锋，并在必要时驳斥它们。不是将自己对世界的看法强加于人，而是按照他们的术语（逻辑）参与其中——检验主张的稳健性和内部连贯性，而不是检验其是否与自己的规范性立场相一致。”
+> > “这不仅仅是提出一个反驳，而是与他人的观点交锋，并在必要时驳斥它们。不是将自己对世界的看法强加于人，而是按照他们的术语（逻辑）参与其中——检验主张的稳健性和内部[[Coherence in Writing|连贯性]]，而不是检验其是否与自己的规范性立场相一致。”
 > ("It is not about simply producing a counter argument, but engaging with the ideas of another and where necessary refuting them. Not imposing one's view of the world on another, but engage on their terms – testing out claims for robustness and internal coherence and not alignment with one's own normative position.")（p.779）
 >
 > > “我所提供的是一种呼吁或邀请，邀请其他人以不同的方式参与我们的工作。这不是在呼吁知识中心主义和/或成为学者的唯一方式，而是一种原则上的同意：即我们作为学者的工作，应当因其潜在的论证与反驳的生成逻辑而被认可。”

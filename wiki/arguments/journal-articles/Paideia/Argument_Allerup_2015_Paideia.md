@@ -82,7 +82,8 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "[[Effect Size]] er altså ikke en statistisk størrelse, som kan underkastes statistisk vurdering med hensyn til størrelse."（Allerup, 2015, p.45）
 >
-> > "Man har derfor ikke som ved [[PISA]]-rangordningen adgang til en erkendelse af, at to eller flere indsatser/lande ikke adskiller sig signifikant fra hinanden - selv om de numerisk set er forskellige."（Allerup, 2015, p.47）
+> > “因此，人们不能像在[[PISA]]排名中那样去认识到：两项或多项干预措施/国家之间并没有显著差异——即使它们在数值上是不同的。”
+> ("Man har derfor ikke som ved [[PISA]]-rangordningen adgang til en erkendelse af, at to eller flere indsatser/lande ikke adskiller sig signifikant fra hinanden - selv om de numerisk set er forskellige.")（Allerup, 2015, p.47）
 
 ## 局限性与批评
 

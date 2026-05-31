@@ -246,9 +246,11 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "identifying 'evidence-based' interventions is still more of a policy aspiration than a reliable research practice."（Wadhwa et al., 2024, p.3）
+> > “识别‘基于证据的’干预措施仍然更多地是一种政策愿景，而不是一种可靠的研究实践。”
+> ("identifying 'evidence-based' interventions is still more of a policy aspiration than a reliable research practice.")（Wadhwa et al., 2024, p.3）
 >
-> > "evidence-based has limited practical [[Construct]] validity in the CH context."（Wadhwa et al., 2024, p.26）
+> > “‘基于证据（evidence-based）’在信息交换中心（CH）的背景下，其实际的[[Construct|构念]]效度是有限的。”
+> ("evidence-based has limited practical [[Construct]] validity in the CH context.")（Wadhwa et al., 2024, p.26）
 
 ## 局限性与批评
 

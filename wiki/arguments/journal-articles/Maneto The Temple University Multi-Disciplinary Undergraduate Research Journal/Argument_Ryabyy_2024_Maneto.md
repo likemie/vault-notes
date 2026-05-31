@@ -282,13 +282,17 @@ updated: 2026-05-26
 ## 关键引用
 
 > [!quote] 关键引用
-> > "We do not ask your praise, when you reach home, nor fear your blame, if you will do one thing only, tell your people the facts and let them judge." — Kameneff, 引自 Walter Duranty, New York Times, July 22, 1928（pp.106–107）
+> > “当你们回到家乡时，我们不奢求你们的赞美，也不惧怕你们的责备，只要你们做一件事，那就是告诉你们的人民事实，让他们自己去评判。”
+> ("We do not ask your praise, when you reach home, nor fear your blame, if you will do one thing only, tell your people the facts and let them judge.") — Kameneff, 引自 Walter Duranty, New York Times, July 22, 1928（pp.106–107）
 >
-> > "Your works, especially 'School and Society' and 'The School and the Child' have very much influenced the development of the Russian pedagogy and in the first years of revolution you were one of the most renowned writers." — Kalashnikov to [[John Dewey]]（p.104）
+> > “您的著作，尤其是《学校与社会》和《学校与儿童》，极大地影响了俄罗斯教育学的发展，在革命的最初几年，您是最著名的作家之一。”
+> ("Your works, especially 'School and Society' and 'The School and the Child' have very much influenced the development of the Russian pedagogy and in the first years of revolution you were one of the most renowned writers.") — Kalashnikov to [[John Dewey]]（p.104）
 >
-> > "We must begin this great undertaking — the coming together of the more democratic nations of the world." — Shatskii to John Dewey, July 23, 1928（p.107）
+> > “我们必须开始这项伟大的事业——世界上更民主国家的走到一起。”
+> ("We must begin this great undertaking — the coming together of the more democratic nations of the world.") — Shatskii to John Dewey, July 23, 1928（p.107）
 >
-> > "This American educators' mission to Russia, then, is simply one more move in the Communist propaganda game engineered by those who have proved willing tools of the Communists in the past and with various non-Communists drawn in to hide the Communist machinery working underneath." — Francis Ralston Welsh to U.S. State Department, May 16, 1928（p.108）
+> > “那么，这个美国教育家访问俄罗斯的代表团，仅仅是过去那些被证明是共产主义者顺从工具的人所策划的共产主义宣传游戏中的又一个举动，并拉拢了各种非共产主义者进来，以掩盖在底层运作的共产主义机器。”
+> ("This American educators' mission to Russia, then, is simply one more move in the Communist propaganda game engineered by those who have proved willing tools of the Communists in the past and with various non-Communists drawn in to hide the Communist machinery working underneath.") — Francis Ralston Welsh to U.S. State Department, May 16, 1928（p.108）
 
 ## 自述局限
 
