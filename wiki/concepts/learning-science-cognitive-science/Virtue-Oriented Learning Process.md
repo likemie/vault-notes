@@ -15,12 +15,12 @@ tags:
   - theory/confucianism
 related_concepts:
   - "[[Learning Virtues]]"
+  - "[[Ideal Learner]]"
   - "[[Self-Cultivation]]"
   - "[[Familiarization]]"
   - "[[Refined Mastery]]"
   - "[[Chinese Learner]]"
   - "[[Western Learner]]"
-  - "[[Ideal Learner]]"
   - "[[Pride in Learning]]"
   - "[[Sage]]"
   - "[[Mind-Oriented Learning Process]]"
@@ -54,7 +54,7 @@ updated: 2026-05-25
 > 美德导向学习过程是 Li (2012) 基于中国／东亚学习者的词汇研究、课堂观察和自述反思所识别的东亚文化学习过程模型。与西方以心智发展为焦点的模型不同，该模型以[[Learning Virtues|学习美德]]的培养为中心，将学习视为一个通过美德实践来实现自我完善的道德过程（Li, 2012, p.123）。
 
 > [!quote]
-> "In my ideal learner study, for example, as many as 86 percent of the respondents mentioned one or more of these virtues. In comparison, only 38 percent of the European-American respondents wrote about virtue-oriented learning processes (but 96 percent mentioned mind-oriented learning processes)."（Li, 2012, p.147）
+> "In my [[Ideal Learner]] study, for example, as many as 86 percent of the respondents mentioned one or more of these virtues. In comparison, only 38 percent of the European-American respondents wrote about virtue-oriented learning processes (but 96 percent mentioned mind-oriented learning processes)."（Li, 2012, p.147）
 
 这七个美德不是相互独立的品质列表，而是构成一个连续的、逐步深入的能动过程——从端正学习态度开始，到投入时间精力、克服困难、坚持到底，最终指向精深的掌握（Li, 2012, pp.123-124）。该过程的最高目标是自我完善（[[Self-Cultivation|self-perfection]]），而非仅仅是理解外部世界。
 

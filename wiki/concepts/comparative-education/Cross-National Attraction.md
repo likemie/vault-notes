@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Policy Entrepreneur]]"
-  - "[[Hypothesis]]"
   - "[[Externalization]]"
 related_theories: []
 related_methods: []
@@ -119,7 +118,7 @@ updated: 2026-05-18
 > [!abstract] 吸引力"火花"（Sparks of Attraction）
 > 四种使用外国范例的动机，按修辞力度从激烈到克制排列（Ochs, 2005，引自 Rappleye, 2006, p. 233）：
 >
-> 1. **丑闻化（Scandalize）** — 用外国范例使本国政策与实践蒙羞，证明改革的必要性。修辞最激烈，通常由处于改革辩论"前线"的行动者使用。例：政治家可能为了政治利益而丑闻化教育（Halpin & Troyna, 1995 提出此[[Hypothesis|假设]]）
+> 1. **丑闻化（Scandalize）** — 用外国范例使本国政策与实践蒙羞，证明改革的必要性。修辞最激烈，通常由处于改革辩论"前线"的行动者使用。例：政治家可能为了政治利益而丑闻化教育（Halpin & Troyna, 1995 提出此假设）
 > 2. **合法化（Legitimate）** — 用外国范例为国内已决定的改革方案提供正当性。修辞较克制。例：学者可能使用较温和的修辞来合法化潜在改革（如 Prais & Wagner, 1986）
 > 3. **警示（Caution）** — 用外国范例警告不要进行某种改革。例：Phillips (1987) 用德国中学体系的教训警示英国不要过度借鉴
 > 4. **颂扬（Glorify）** — 通过与其他国家的比较来颂扬本国的现行教育。例：抵制改革者通过颂扬本国教育传统来证明"不需要改变"

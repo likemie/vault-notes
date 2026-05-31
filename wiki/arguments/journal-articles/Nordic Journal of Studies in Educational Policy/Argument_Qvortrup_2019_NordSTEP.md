@@ -16,12 +16,12 @@ tags:
 - stance/support
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Hypothesis]]"
   - "[[Interpretation Community]]"
   - "[[Professional Judgment]]"
   - "[[Causality]]"
   - "[[Structural Coupling]]"
   - "[[Effect Size]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Bounded Rationality]]"
 related_methods: []
@@ -43,7 +43,7 @@ updated: '2026-05-18'
 > 论文试图回答三个问题（Qvortrup, 2019, p.3）：
 > 1. 为什么 [[John Hattie|Hattie]] 及其支持者在丹麦被如此彻底地误读？
 > 2. 为什么在教育科学中定量方法与定性方法之间产生了冲突？
-> 3. [[Visible Learning]] 声称提供"[[Hypothesis|假设]]"而非"食谱"，声称相关不等于因果——这背后的理论原因是什么？
+> 3. [[Visible Learning]] 声称提供"假设"而非"食谱"，声称相关不等于因果——这背后的理论原因是什么？
 
 ## 理论框架
 
@@ -71,7 +71,7 @@ updated: '2026-05-18'
 >    - **步骤二**：定量与定性方法的对立源于将认识论与本体论混淆——"真理"是认识论问题而非本体论问题。不同的观察透镜（phenomenological vs statistical）产生不同的图像，只要都遵循高效度标准，它们相互补充而非相互排斥（Qvortrup, 2019, p.5）
 >    - **步骤三**：教学与学习之间不存在简单的[[Causality|因果关系]]——两者是通过[[Structural Coupling|结构耦合]]链接的两个封闭系统的关系。教学干预必须经过学生闭合的、自我指涉的、复杂的和不可预测的反思循环。因此，教师必须运用[[Professional Judgment|专业判断]]——基于研究知识和方法知识、在理性赤字的条件下、通过反馈持续修正（Qvortrup, 2019, p.6-7）
 >
-> 3. **结论**：Visible Learning 的目的不是提供"什么有效食谱"，而是为教师提供"智能问题解决的[[Hypothesis|假设]]"（Hattie, 2009, p.247）。专业判断是 VL 中教学干预与学习成果之间的"缺失环节"——它将研究证据（知道什么最可能有效）与具体情境（在特定情况下需要什么）连接起来（Qvortrup, 2019, p.6-7）
+> 3. **结论**：Visible Learning 的目的不是提供"什么有效食谱"，而是为教师提供"智能问题解决的假设"（Hattie, 2009, p.247）。专业判断是 VL 中教学干预与学习成果之间的"缺失环节"——它将研究证据（知道什么最可能有效）与具体情境（在特定情况下需要什么）连接起来（Qvortrup, 2019, p.6-7）
 
 ## 主要发现
 
@@ -82,9 +82,9 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Visible Learning provides 'an explanatory story, not a "what works" recipe' (Hattie, 2009, p. 3), i.e. that the aim of the book 'is to develop an explanatory story about the key influences on student learning (…), not to build yet another "what works" recipe.'"（Hattie, 2009, p.6，引自 Qvortrup, 2019, p.7）
+> > "[[Visible Learning]] provides 'an explanatory story, not a "what works" recipe' ([[John Hattie|Hattie]], 2009, p. 3), i.e. that the aim of the book 'is to develop an explanatory story about the key influences on student learning (…), not to build yet another "what works" recipe.'"（Hattie, 2009, p.6，引自 Qvortrup, 2019, p.7）
 >
-> > "The aim of Visible Learning is to support teachers' professional judgement. One of the contributions of educational research is, as accurate as possible, to identify, which interventions and conditions with the greatest probability will lead to learning and personal development. The aim is not to provide teachers with what works best recipes. The aim is to provide teachers with 'hypotheses for intelligent problem solving' (Hattie, 2009, p. 247)."（Qvortrup, 2019, p.7）
+> > "The aim of Visible Learning is to support teachers' professional judgement. One of the contributions of educational research is, as accurate as possible, to identify, which interventions and conditions with the greatest probability will lead to learning and personal development. The aim is not to provide teachers with what works best recipes. The aim is to provide teachers with '[[Hypothesis|hypotheses]] for intelligent problem solving' (Hattie, 2009, p. 247)."（Qvortrup, 2019, p.7）
 
 ## 局限性与批评
 

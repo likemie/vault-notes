@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
+  - "[[Construct]]"
   - "[[Locus of Control]]"
   - "[[Theoretical Perspective]]"
   - "[[Self-control]]"
@@ -56,7 +57,7 @@ updated: 2026-05-31
 
 > "the potential for a behavior to occur in any specific psychological situation is the function of the expectancy that the behavior will lead to a particular reinforcement in that situation and the value of that reinforcement"（Rotter, 1975, p.57）
 
-公式中的期望指行为与奖励之间因果关系的感知确定程度（即概率）。这一广义期望的构念被定义为：当个体相信强化是特定行为的函数时，即为内部[[Locus of Control|控制点]]（internal locus of control）；当结果被归因于运气、命运或有权力的他人时，即为外部控制点（external locus of control）。因果关系的感知根据先前经验和情境复杂性在连续体上变化（Rotter, 1966; Creswell & Creswell, 2022, p.61）。
+公式中的期望指行为与奖励之间因果关系的感知确定程度（即概率）。这一广义期望的[[Construct|构念]]被定义为：当个体相信强化是特定行为的函数时，即为内部[[Locus of Control|控制点]]（internal locus of control）；当结果被归因于运气、命运或有权力的他人时，即为外部控制点（external locus of control）。因果关系的感知根据先前经验和情境复杂性在连续体上变化（Rotter, 1966; Creswell & Creswell, 2022, p.61）。
 
 ## 发展脉络
 
@@ -64,7 +65,7 @@ updated: 2026-05-31
 > 社会学习理论的发展涉及多位研究者的贡献：
 > - **1941** — Miller & Dollard 出版 *Social Learning and Imitation*，早期社会学习理论基础
 > - **1954** — Rotter 出版 *Social Learning and Clinical Psychology*，提出四类[[Variable|变量]]（行为、期望、强化、心理情境）和社会学习公式
-> - **1966** — Rotter 发表[[Locus of Control|控制点]]（locus of control）构念
+> - **1966** — Rotter 发表[[Locus of Control|控制点]]（locus of control）[[Construct|构念]]
 > - **1971** — Bandura 出版 *Social Learning Theory*，强调替代性、象征性和自我调节过程
 > - **1977** — Bandura 出版 *Social Learning Theory*（更新版），提出认知、行为和环境三者交互决定论
 > - **1986** — Bandura 出版 *Social Foundations of Thought and Action: A Social Cognitive Theory*，理论从"社会学习理论"演化为"社会认知理论"
@@ -78,7 +79,7 @@ updated: 2026-05-31
 
 ## 相关概念
 
-- [[Locus of Control]] — 社会学习理论的核心构念，Rotter (1966) 提出
+- [[Locus of Control]] — 社会学习理论的核心[[Construct|构念]]，Rotter (1966) 提出
 - [[Self-control]] — 社会学习理论强调自我调节过程
 
 ## 来源

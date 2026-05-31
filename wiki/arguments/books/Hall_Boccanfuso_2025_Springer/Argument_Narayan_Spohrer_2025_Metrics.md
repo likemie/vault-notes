@@ -240,7 +240,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 >
 > > "AI will not replace service providers (e.g., industry researchers, academic faculty, etc.), but trusted service providers who use AI effectively and ethically will replace those who don't."（Rouse & Spohrer, 2018, 转引自 p.97）
 >
-> > "Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of UI collaboration generation after generation."（p.90）
+> > "Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of [[University-Industry Collaboration|UI collaboration]] generation after generation."（p.90）
 >
 > > "Every change in business conditions and focus requires adjusting 6 R investment options and recalibrating metrics, incentives, rewards, and culture to fit the times."（p.90）
 

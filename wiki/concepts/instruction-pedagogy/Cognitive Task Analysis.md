@@ -10,7 +10,6 @@ tags:
 - paradigm/cognitivist
 - level/higher-ed
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
 related_theories: []
 related_methods: []
@@ -32,7 +31,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> CTA 属于认知主义研究范式，[[Hypothesis|假设]]复杂任务表现可通过分析其背后的认知成分（知识组织、决策策略、问题解决路径）来理解和改进。
+> CTA 属于认知主义研究范式，假设复杂任务表现可通过分析其背后的认知成分（知识组织、决策策略、问题解决路径）来理解和改进。
 
 ## 操作步骤
 

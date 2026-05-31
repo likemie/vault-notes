@@ -31,6 +31,7 @@ related_methods:
   - "[[Mixed Method and Multi-method Research]]"
 related_persons:
   - "[[Yrjö Engeström]]"
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -172,9 +173,9 @@ Urban 2 和 Rural 2 的情况不同。这两所学校都强烈渴望显著提升
 > [!quote] 关键引用
 > > "Everyone understands the importance of examinations in shaping children's future. Students who score high in examinations enter better universities and lead better lives. As a teacher, I am expected to help them earn a promising future."（Urban 2-Teacher 1, p.594）
 >
-> > "We know the benefits of LCE, but pedagogical changes should not lower students' examination results. We can take three years to change our pedagogies, but our students cannot wait three years to take the admission tests. No students should be sacrificed for changes."（Urban 2-Principal, p.596）
+> > "We know the benefits of [[Learner-Centred Education|LCE]], but pedagogical changes should not lower students' examination results. We can take three years to change our pedagogies, but our students cannot wait three years to take the admission tests. No students should be sacrificed for changes."（Urban 2-Principal, p.596）
 >
-> > "Enhancing students' examination results does not conflict with LCE. They should be mutually beneficial. Moreover, Vygotsky's insights echo Confucius' beliefs that dialogic teaching contributes to deep thinking."（Rural 2-Principal, p.596）
+> > "Enhancing students' examination results does not conflict with LCE. They should be mutually beneficial. Moreover, Vygotsky's insights echo [[Confucius]]' beliefs that dialogic teaching contributes to deep thinking."（Rural 2-Principal, p.596）
 >
 > > "The construction of LCE should be rewarded. I am not suggesting that we would not have a try if not being pushed to do so. However, due to the examination pressure, it is easier not to make any changes."（Urban 2-Teacher 1, p.598）
 >

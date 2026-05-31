@@ -23,6 +23,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Didaktik]]"
+  - "[[Feedback]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Popper's Three Worlds Theory]]"
@@ -115,9 +116,9 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Visible Learning is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation."（Rømer, 2018, p.2）
+> > "[[Visible Learning]] is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation."（Rømer, 2018, p.2）
 >
-> > "The mistake I was making was seeing feedback as something teachers provide to students... It was only when I discovered that feedback was most powerful when it is from the student to the teacher that I started to understand it better."（Hattie, 2009, p.173，转引自 Rømer, 2018, p.9）
+> > "The mistake I was making was seeing [[Feedback]] as something teachers provide to students... It was only when I discovered that feedback was most powerful when it is from the student to the teacher that I started to understand it better."（[[John Hattie|Hattie]], 2009, p.173，转引自 Rømer, 2018, p.9）
 >
 > > "We end up with a world without education and without Beethoven's symphonies, and also without things and scientific energy altogether."（Rømer, 2018, p.11）
 

@@ -19,7 +19,6 @@ tags:
 - level/k12
 related_concepts:
   - "[[Literature Review]]"
-  - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -70,7 +69,7 @@ updated: '2026-05-18'
 >    - 问责机制（[[Ofsted]]）可能阻挠证据的审慎使用，尤其对新学校和弱势生源学校
 >    - 教师专业对话和辩论是证据阐释的重要机制，"传统 vs 进步"的意识形态分化推动了更深度的证据参与
 >
-> 3. **结论**：证据本位政策的实施不应追求"忠实执行"（fidelity），而应追求"流动性"（fluidity）——证据作为[[Hypothesis|假设]]生成和激发审议的工具，而非直接指导实践的指令。理解因果机制、尊重本地知识和[[Professional Judgment|专业判断]]、为教师提供研究方法和统计培训，是实现有效实施的关键
+> 3. **结论**：证据本位政策的实施不应追求"忠实执行"（fidelity），而应追求"流动性"（fluidity）——证据作为假设生成和激发审议的工具，而非直接指导实践的指令。理解因果机制、尊重本地知识和[[Professional Judgment|专业判断]]、为教师提供研究方法和统计培训，是实现有效实施的关键
 
 ## 主要发现
 
@@ -87,7 +86,7 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "An RCT by itself is insufficient to meet the needs of policy or practice decision makers."（Cartwright and Munro, 2010, p.265; 引自 Cowen et al., 2015, p.10）
+> > "An [[Randomised Controlled Trials|RCT]] by itself is insufficient to meet the needs of policy or practice decision makers."（Cartwright and Munro, 2010, p.265; 引自 Cowen et al., 2015, p.10）
 >
 > > "Local knowledge... may be essential to growing and sustaining school improvement efforts."（Honig and Coburn, 2007, p.601; 引自 Cowen et al., 2015, p.14）
 >

@@ -21,11 +21,11 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Bertrand Russell]]"
   - "[[Socrates]]"
   - "[[Plato]]"
   - "[[John Locke]]"
   - "[[Immanuel Kant]]"
-  - "[[Bertrand Russell]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -44,7 +44,7 @@ updated: 2026-05-22
 > 知识的确定性（Certainty of Knowledge）是 Li 识别的西方学习传统第一主题——西方文化将"真知"（true knowledge）理解为客观的、确定的、普遍的、永恒的。这一信念以数学和演绎逻辑为模型：从自明的公理出发，通过严密的逻辑推导，得到不依赖感官经验的、绝对可靠的结论（Li, 2012, pp.23-26）。
 
 > [!quote]
-> Russell 对数学知识的描述被 Li 引用来说明这一信念的力量："数学知识似乎是确定的、精确的、适用于真实世界的；而且，它仅通过思维即可获得，无需观察。因此，它被认为提供了一种令日常经验知识相形见绌的理想。基于数学，人们认为思维高于感官。"（Li, 2012, p.24 引 Russell）
+> [[Bertrand Russell|Russell]] 对数学知识的描述被 Li 引用来说明这一信念的力量："数学知识似乎是确定的、精确的、适用于真实世界的；而且，它仅通过思维即可获得，无需观察。因此，它被认为提供了一种令日常经验知识相形见绌的理想。基于数学，人们认为思维高于感官。"（Li, 2012, p.24 引 Russell）
 
 ---
 

@@ -8,6 +8,7 @@ related_concepts:
   - "[[Narrative Hook]]"
   - "[[Research Problem]]"
   - "[[Deficiencies Model for an Introduction]]"
+  - "[[Purpose Statement]]"
   - "[[Literature Review]]"
 related_theories: []
 related_methods: []
@@ -87,7 +88,7 @@ Creswell & Creswell（2022, 第5章）指出了研究者在引言中陈述[[Rese
 
 - 引言之前是摘要——摘要是引言的浓缩版，让读者快速判断是否阅读全文
 - 引言的核心是[[Research Problem|研究问题]]的陈述——回答"为什么需要这项研究"
-- 引言之后是目的陈述——从"为什么"过渡到"研究什么"
+- 引言之后是[[Purpose Statement|目的陈述]]——从"为什么"过渡到"研究什么"
 - 引言中的[[Literature Review|文献综述]]是简化的、按群组总结的，不同于后面完整的[[Literature Review|文献综述]]章节
 
 ---

@@ -19,8 +19,8 @@ tags:
 - region/global
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
+  - "[[Complexity Reduction]]"
   - "[[Value-Based Education]]"
 related_theories:
   - "[[Transactional Epistemology]]"
@@ -69,7 +69,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > ### 三重缺陷框架
 >
-> Biesta 在认识论、存在论和实践论三个维度逐一拆解[[Evidence-Based Education|证据本位教育]]的前提[[Hypothesis|假设]]。
+> Biesta 在认识论、存在论和实践论三个维度逐一拆解[[Evidence-Based Education|证据本位教育]]的前提假设。
 >
 > **第一重：知识缺陷（Knowledge Deficit）——认识论维度**
 >
@@ -121,7 +121,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **三重缺陷分别挑战了[[Evidence-Based Education|证据本位教育]]的不同前提**：知识缺陷挑战了"研究能提供确定性"的[[Hypothesis|假设]]；效力缺陷挑战了"社会因果可被确定"的假设；应用缺陷挑战了"进步来自知识应用"的假设
+> 1. **三重缺陷分别挑战了[[Evidence-Based Education|证据本位教育]]的不同前提**：知识缺陷挑战了"研究能提供确定性"的假设；效力缺陷挑战了"社会因果可被确定"的假设；应用缺陷挑战了"进步来自知识应用"的假设
 >
 > 2. **证据本位教育实际上是一个价值真空的项目**：如果证据是唯一基础，教育实践将"完全没有方向"
 >
@@ -136,7 +136,7 @@ updated: '2026-05-18'
 >
 > > "Educational systems are generally open systems... the connections between intervention and effect are non-linear and, at most, probabilistic." (p. 497)
 >
-> > "Complexity reduction should therefore be understood as a political act." (p. 498)
+> > "[[Complexity Reduction]] should therefore be understood as a political act." (p. 498)
 >
 > > "Without normative orientations, without decisions about what is educationally desirable, without an articulation of the telos of educational practices, these practices simply do not exist — or at least they do not exist as educational practices." (p. 500–501)
 >

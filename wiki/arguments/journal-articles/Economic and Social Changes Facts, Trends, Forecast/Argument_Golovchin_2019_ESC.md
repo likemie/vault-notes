@@ -22,7 +22,8 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Causality]]"
   - "[[Publication Bias]]"
-  - "[[Hypothesis]]"
+  - "[[Variable]]"
+  - "[[School Leadership]]"
 related_theories:
   - "[[Societies of Control]]"
 related_methods:
@@ -97,7 +98,7 @@ updated: '2026-05-18'
 > - 按影响源分解：家庭 38.57%、学校 65.97%、学生 71.24%、教师 51.01%、教学方法 50.65%、课程 41.95%
 > - **所有影响源均超过 33% 同质性阈值**（Golovchin, 2019, p.238-239）
 >
-> > 结论：Hattie 的数据集极端不均匀（extremely uneven），"在这样一个不稳定的模型中确定任何效应的强度，很可能不会导致客观结论的形成"。批评者关于元分析过程中缺乏数据控制的[[Hypothesis|假设]]得到统计确认（Golovchin, 2019, p.239）。
+> > 结论：Hattie 的数据集极端不均匀（extremely uneven），"在这样一个不稳定的模型中确定任何效应的强度，很可能不会导致客观结论的形成"。批评者关于元分析过程中缺乏数据控制的假设得到统计确认（Golovchin, 2019, p.239）。
 >
 > ### 第四步：俄罗斯适用性评估
 >
@@ -121,11 +122,11 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Hattie's ideas are widely used in the educational policy of foreign countries (especially Australia), but will they be relevant in the Russian reality? A number of educational innovations borrowed from Western countries do not have unequivocal approval in Russian society."（p.229）
+> > "[[John Hattie|Hattie]]'s ideas are widely used in the educational policy of foreign countries (especially Australia), but will they be relevant in the Russian reality? A number of educational innovations borrowed from Western countries do not have unequivocal approval in Russian society."（p.229）
 >
-> > "The variation of the variables used by Hattie exceeds 50%, which is higher than the statistical threshold of sample homogeneity (33%). ... Determining the strength of any effects in such a model, due to its instability, will likely not lead to the formation of objective conclusions."（p.239）
+> > "The variation of the [[Variable|variables]] used by Hattie exceeds 50%, which is higher than the statistical threshold of sample homogeneity (33%). ... Determining the strength of any effects in such a model, due to its instability, will likely not lead to the formation of objective conclusions."（p.239）
 >
-> > "The implementation of Hattie's ideas within the framework of Russian educational policy is inapplicable, since it can cause negative consequences and extend the range of new problems (in particular, the increase in the bureaucratic functionality of the teaching profession in the pursuit of 'school leadership')."（p.240）
+> > "The implementation of Hattie's ideas within the framework of Russian educational policy is inapplicable, since it can cause negative consequences and extend the range of new problems (in particular, the increase in the bureaucratic functionality of the teaching profession in the pursuit of '[[School Leadership]]')."（p.240）
 >
 > > "In education, however, there is little that 'works' and little that 'does not work'. The correct question is: 'Under what conditions will this work in school?'"（p.241）
 >

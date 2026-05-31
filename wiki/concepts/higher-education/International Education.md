@@ -10,6 +10,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Internationalization of Higher Education]]"
+  - "[[Central Phenomenon]]"
   - "[[Global Universities Rankings]]"
   - "[[International Schools]]"
   - "[[Knowledge-Based Economy]]"
@@ -40,7 +41,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 国际教育（[[Internationalization of Higher Education|international education]]）指超越特定国家地理与教学边界的跨文化、跨国教育实践与制度安排。Slethaug（2010, p.1）将其定位为全球化时代的教育核心现象——不仅关乎学生和教师跨越国界的物理流动，也关乎课程、教学理念和评估框架从国家层面向跨国层面的制度迁移。
+> 国际教育（[[Internationalization of Higher Education|international education]]）指超越特定国家地理与教学边界的跨文化、跨国教育实践与制度安排。Slethaug（2010, p.1）将其定位为全球化时代的教育[[Central Phenomenon|核心现象]]——不仅关乎学生和教师跨越国界的物理流动，也关乎课程、教学理念和评估框架从国家层面向跨国层面的制度迁移。
 
 > [!quote]
 > "固守地方、忽视全球力量的教育系统可能变得过时，而主动应对全球化新挑战的系统更有可能繁荣。"（Suárez-Orozco & Qin-Hilliard, 2004, p.23，转引自 Slethaug, 2010, p.1）

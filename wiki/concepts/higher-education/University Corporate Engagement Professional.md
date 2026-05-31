@@ -39,7 +39,7 @@ updated: 2026-05-27
 > 大学企业参与专员（University Corporate Engagement Professional, UCEP）是在大学与企业合作的界面中充当中介和关系管理者的专业人员。他们深入了解学术格局、院系研究特点和大学的战略目标，负责连接双方利益相关者、识别一致利益，并引导和构建战略伙伴关系（Burrus & Patera, 2025, pp.77–79）。
 
 > [!quote]
-> "the role of University Corporate Engagement Professionals (UCEP) is indispensable in the UI collaboration process."（Burrus & Patera, 2025, pp.77–78）
+> "the role of University Corporate Engagement Professionals (UCEP) is indispensable in the [[University-Industry Collaboration|UI collaboration]] process."（Burrus & Patera, 2025, pp.77–78）
 
 ---
 

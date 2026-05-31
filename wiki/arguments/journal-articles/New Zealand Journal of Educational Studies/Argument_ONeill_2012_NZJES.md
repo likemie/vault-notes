@@ -20,6 +20,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
+  - "[[Familiarization]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -77,13 +78,13 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Material fallacies in logic are 'mistakes in understanding the meaning or use of terms' (Kreeft, 2010, p. 85). Just as in practical logic, public policy discourse becomes problematic when the terms used are ambiguous, unclear or vague."（p.153）
+> > "[[Material Fallacies]] in logic are 'mistakes in understanding the meaning or use of terms' (Kreeft, 2010, p. 85). Just as in practical logic, public policy discourse becomes problematic when the terms used are ambiguous, unclear or vague."（p.153）
 >
-> > "the meta-analysis evidence on the quality of teaching has no demonstrable relevance to schooling policy. Moreover, taken literally, it would mean that the Minister and officials assert that achievement should be raised by asking school students to rate their teachers, which is incoherent."（p.154）
+> > "the [[Meta-analysis]] evidence on the quality of teaching has no demonstrable relevance to schooling policy. Moreover, taken literally, it would mean that the Minister and officials assert that achievement should be raised by asking school students to rate their teachers, which is incoherent."（p.154）
 >
-> > "an expression becomes a slogan 'when it is used to produce a thoughtless knee-jerk reaction of agreement or disagreement simply on the basis of the familiarity of the words rather than on the basis of reason' (Kreeft, 2010, p. 78)"（pp.154-155）
+> > "an expression becomes a slogan 'when it is used to produce a thoughtless knee-jerk reaction of agreement or disagreement simply on the basis of the [[Familiarization|familiarity]] of the words rather than on the basis of reason' (Kreeft, 2010, p. 78)"（pp.154-155）
 >
-> > "the positive sign of the average effect size suggests that increasing class size is poor policy (Hattie, 2009a, p. 88)"（p.157）
+> > "the positive sign of the average [[Effect Size]] suggests that increasing [[Class Size]] is poor policy ([[John Hattie|Hattie]], 2009a, p. 88)"（p.157）
 >
 > > "researchers have a particular responsibility to be watchful both for material fallacies and their mistaken use by policy actors, and on the other hand, they must be prepared to interrupt and challenge flawed public education policy debates whenever they occur."（p.159）
 

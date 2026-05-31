@@ -13,7 +13,6 @@ tags:
   - theme/inequality
   - theme/stratification
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Talent Assumption]]"
   - "[[Entity vs Incremental Intelligence]]"
   - "[[Intellectual-Social Divide]]"
@@ -49,7 +48,7 @@ updated: 2026-05-25
 > [!abstract]
 > 分轨制的核心运作机制（Oakes & Guiton，转引自 Li, 2012, pp.98–99）：
 
-**分轨的前提：能力固定的[[Hypothesis|假设]]**。教育者普遍相信"学生的智力前景在进入高中时实际上已经确定"。一位校长说"他在幼儿园结束时就能判断哪些孩子能在高中成功"；一位辅导员报告说高中教师普遍认为"学生要么有内在动机，要么没有，这无法改变"。
+**分轨的前提：能力固定的假设**。教育者普遍相信"学生的智力前景在进入高中时实际上已经确定"。一位校长说"他在幼儿园结束时就能判断哪些孩子能在高中成功"；一位辅导员报告说高中教师普遍认为"学生要么有内在动机，要么没有，这无法改变"。
 
 **分轨的目的从"改变学生"转向"适应学生"**。课程和教学的设计不是为了提高学生的智识能力，而是为了**适应**学生已经被判断出的特征。这构成 tracking 的逻辑基础——轨道不是发展的起点，而是终点的预先分配。
 
@@ -60,7 +59,7 @@ updated: 2026-05-25
 ## 理论基础
 
 > [!tip]
-> - [[Talent Assumption]] — 分轨制的运作基础是"才能是天生的"的[[Hypothesis|假设]]，即学业前景是固定而非可发展的
+> - [[Talent Assumption]] — 分轨制的运作基础是"才能是天生的"的假设，即学业前景是固定而非可发展的
 > - [[Entity vs Incremental Intelligence]] — Dweck 的实体论智力观为分轨提供了认知基础：如果智力是固定的，那么分轨只是"如实分类"
 > - [[Intellectual-Social Divide]] — 分轨制制度化地再生产了知性-社交二分：学术轨学生被默认为不善社交，普通轨学生被默认为不学术
 

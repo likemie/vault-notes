@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
-  - "[[Hypothesis]]"
   - "[[Absorptive Capacity]]"
   - "[[Transformative Change]]"
   - "[[University-Based Research Center]]"
@@ -67,7 +66,7 @@ updated: 2026-05-27
 
 **大学的定位**：提供熟练劳动力，应用新知识解决社会问题（Conn et al., 2021）。
 
-**盲区**：[[Hypothesis|假设]]创新是线性的，忽略了互动、反馈、隐性知识和制度环境的系统作用。
+**盲区**：假设创新是线性的，忽略了互动、反馈、隐性知识和制度环境的系统作用。
 
 ---
 

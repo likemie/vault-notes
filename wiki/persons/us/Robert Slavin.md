@@ -17,7 +17,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -99,7 +98,7 @@ Slavin 的立场代表 EBE 运动**最强版本**（evidence-based, not evidence
 > [!warning] 学术批评
 > - **利益冲突**：Slavin 同时是 [[Success for All]] 创始者、[[Best Evidence Encyclopedia|BEE]] 创建者、Evidence for ESSA 创建者和 EBR 倡导者——倡导者与受益者的角色重叠在 [[Evidence-Based Education|EBE]] 辩论中引发对独立性的质疑。支持者回应：正因为他开发了成功的项目，才有信誉倡导 EBR。
 > - **对批判文献的回避**：Slavin 将 Biesta、Cowen、Deaton & Cartwright 等的系统批评笼统归为"怀疑论"，未进行实质性回应——形成与批判阵营平行的、互不对话的话语体系。
-> - **良性循环叙事的政治天真**：[[Hypothesis|假设]]政府持续拨款、项目持续被采用、效果持续复现——对其中的政治周期和政策不稳定性低估。Slavin 自己记录的英国 Strategic School Improvement Fund (2018) 在最后一刻被取消即是反例。
+> - **良性循环叙事的政治天真**：假设政府持续拨款、项目持续被采用、效果持续复现——对其中的政治周期和政策不稳定性低估。Slavin 自己记录的英国 Strategic School Improvement Fund (2018) 在最后一刻被取消即是反例。
 > - **方法论立场的演变**：Slavin 2002 年持平衡立场（"长期来看随机化和匹配实验的混合更健康"），到 2019 年日益倾向 [[Randomised Controlled Trials|RCT]] 优先——这一演变是否反映了证据积累还是政治风向的转变，值得追问。
 
 ## 来源

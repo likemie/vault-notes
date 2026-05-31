@@ -8,8 +8,11 @@ related_concepts:
   - "[[Flow]]"
   - "[[Hook and Eye Technique]]"
   - "[[Literature Review]]"
+  - "[[Purpose Statement]]"
+  - "[[Research Problem]]"
   - "[[Variable]]"
   - "[[Self-Efficacy]]"
+  - "[[Central Phenomenon]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -58,7 +61,7 @@ updated: 2026-05-31
 
 ## 量化研究中的连贯性策略
 
-[[Quantitative Research|量化研究]]中，连贯性通过重复关键术语来实现。在标题、目的陈述、研究问题和[[Literature Review|文献综述]]标题中一致地使用同一[[Variable|变量]]名称，使读者在文本各组成部分之间建立起清晰的连接。强调自变量和因变量的一致呈现顺序，同样有助于构建连贯的研究计划（Creswell & Creswell, 2022, 第4章）。
+[[Quantitative Research|量化研究]]中，连贯性通过重复关键术语来实现。在标题、[[Purpose Statement|目的陈述]]、[[Research Problem|研究问题]]和[[Literature Review|文献综述]]标题中一致地使用同一[[Variable|变量]]名称，使读者在文本各组成部分之间建立起清晰的连接。强调自变量和因变量的一致呈现顺序，同样有助于构建连贯的研究计划（Creswell & Creswell, 2022, 第4章）。
 
 > [!example]
 > 如果一项量化研究的标题使用"academic [[Self-Efficacy]]"，那么目的陈述中应继续使用"academic self-efficacy"而非换成"academic confidence"或"self-belief in learning"。术语的每一次替换都会削弱文本的连贯性，迫使读者重新理解概念之间的对应关系。
@@ -68,7 +71,7 @@ updated: 2026-05-31
 术语一致性（consistent terms）是文本连贯性的前提条件。[[Quantitative Research|量化研究]]中为[[Variable|变量]]使用一致名称，[[Qualitative Research|质性研究]]中为研究现象使用一致名称。同义词替换是连贯性的大敌，当术语发生即便微小的变动，读者就需要监控语义的微妙偏移，这会打断阅读流并引发对研究可信度的质疑（Creswell & Creswell, 2022, 第4章）。
 
 > [!example] 质性研究中的术语一致
-> 如果一项质性研究的核心现象被命名为"teacher resilience"，那么整个研究计划中都应使用这一术语，而非在引言中用"teacher resilience"、在方法部分换成"teacher perseverance"、在讨论中又改用"teacher grit"。每次术语变动都要求读者自行判断这些词是否指代同一现象，这直接损害文本的可信度。
+> 如果一项质性研究的[[Central Phenomenon|核心现象]]被命名为"teacher resilience"，那么整个研究计划中都应使用这一术语，而非在引言中用"teacher resilience"、在方法部分换成"teacher perseverance"、在讨论中又改用"teacher grit"。每次术语变动都要求读者自行判断这些词是否指代同一现象，这直接损害文本的可信度。
 
 ## 来源
 

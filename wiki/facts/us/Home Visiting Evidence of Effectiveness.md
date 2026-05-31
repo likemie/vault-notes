@@ -18,7 +18,6 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Causality]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 > [!abstract] 证据标准
 > 在设计标准编码中，HomVEE 对 [[Randomised Controlled Trials|RCT]]、一般 [[Quasi-Experimental Designs|QED]] 和 RDD 的描述程度均为 3，对 ITS 为 0。这意味着它在 RCT、QED 和 RDD 上都有设计专属的[[Causality|因果推断]]与实施质量标准，但没有将 ITS 作为标准化设计类型列出（Wadhwa et al., 2024, p.10）。
 >
-> HomVEE 的搜索限于 1989 年之后开展的研究，并偏好超过 250 名个体参与者的研究；它在流失指南上遵循 [[What Works Clearinghouse|WWC]] 指南。对于 QED，HomVEE 有匹配比较设计和[[Single-Case Design|单一个案设计]]的分开标准；对于 RDD，它像 WWC 一样要求关于 forcing [[Variable]] 完整性、结果与 forcing variable 连续性以及函数形式/带宽[[Hypothesis|假设]]可行性的有力证据（Wadhwa et al., 2024, pp.8–11）。
+> HomVEE 的搜索限于 1989 年之后开展的研究，并偏好超过 250 名个体参与者的研究；它在流失指南上遵循 [[What Works Clearinghouse|WWC]] 指南。对于 QED，HomVEE 有匹配比较设计和[[Single-Case Design|单一个案设计]]的分开标准；对于 RDD，它像 WWC 一样要求关于 forcing [[Variable]] 完整性、结果与 forcing variable 连续性以及函数形式/带宽假设可行性的有力证据（Wadhwa et al., 2024, pp.8–11）。
 
 ## 复制与持续效果要求
 
@@ -73,7 +72,7 @@ updated: '2026-05-18'
 > - [[Evidence-Based Education]] — HomVEE 展示了早期儿童与家庭访问领域中 EBE 标准如何被具体化为研究年份、样本量、[[Quasi-Experimental Designs|QED]]/RDD 设计标准和复制标准（Wadhwa et al., 2024, pp.8–11）。
 > - [[Randomised Controlled Trials]] — HomVEE 对 RCT 的标准描述程度为 3，属于较详细处理 RCT 实施标准的清算中心（Wadhwa et al., 2024, p.10）。
 > - [[Single-Case Design]] — HomVEE 为 matched comparison 和 single case designs 设置分开标准（Wadhwa et al., 2024, p.11）。
-> - [[What Works Clearinghouse]] — HomVEE 在流失指南上遵循 WWC，并在 RDD 标准上与 WWC 同样要求 forcing [[Variable]]、连续性和函数形式/带宽[[Hypothesis|假设]]的证据（Wadhwa et al., 2024, pp.9–11）。
+> - [[What Works Clearinghouse]] — HomVEE 在流失指南上遵循 WWC，并在 RDD 标准上与 WWC 同样要求 forcing [[Variable]]、连续性和函数形式/带宽假设的证据（Wadhwa et al., 2024, pp.9–11）。
 
 ## 来源
 

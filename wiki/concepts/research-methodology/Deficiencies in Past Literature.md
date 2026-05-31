@@ -7,9 +7,12 @@ tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Research Problem]]"
-  - "[[Literature Review]]"
+  - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Quantitative Research]]"
+  - "[[Qualitative Research]]"
+  - "[[Mixed Method and Multi-method Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -26,9 +29,9 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 既往文献缺陷（Deficiencies in Past Literature）是指在已有研究文献中识别出的缺口、不足或忽略之处。它是 Creswell 引言缺陷模型（[[Deficiencies Model for an Introduction]]）的第三部分，也是该模型得名的核心要素——通过指出已有研究"缺少什么"来为新的研究提供合法化空间（Creswell & Creswell, 2022, 第5章）。
+> 既往文献缺陷（Deficiencies in Past Literature）是指在已有研究文献中识别出的缺口、不足或忽略之处。它是 Creswell [[Deficiencies Model for an Introduction|引言缺陷模型]]（[[Deficiencies Model for an Introduction]]）的第三部分，也是该模型得名的核心要素——通过指出已有研究"缺少什么"来为新的研究提供合法化空间（Creswell & Creswell, 2022, 第5章）。
 
-在学术引言中，仅仅陈述研究问题和综述文献是不够的；研究者还必须明确指出已有文献中存在的不足，并说明计划中的研究将如何弥补或回应这些不足。
+在学术引言中，仅仅陈述[[Research Problem|研究问题]]和综述文献是不够的；研究者还必须明确指出已有文献中存在的不足，并说明计划中的研究将如何弥补或回应这些不足。
 
 ---
 
@@ -50,7 +53,7 @@ updated: 2026-05-31
 
 **理论与分析层面：**
 - 理论发展不充分
-- 未关注中介变量
+- 未关注中介[[Variable|变量]]
 - 文献未同时包含量化和质性数据
 - 文献缺少对数据整合的洞察
 
@@ -63,9 +66,9 @@ updated: 2026-05-31
 
 不同研究路径强调不同类型的文献缺陷（Creswell & Creswell, 2022, 第5章）：
 
-- **量化研究**：缺陷可能涉及理论发展不充分、测量工具未经验证或不可靠、未关注中介变量、变量被忽略等
-- **质性研究**：缺陷可能涉及未处理特殊人群或群体、未探索新的场所、未为未被充分代表的群体发声、缺乏质性数据等
-- **混合方法研究**：缺陷可能涉及文献未同时包含量化和质性数据、文献未提供从数据连接中获得的洞察、文献未提及数据整合或从中得出结论
+- **[[Quantitative Research|量化研究]]**：缺陷可能涉及理论发展不充分、测量工具未经验证或不可靠、未关注中介[[Variable|变量]]、变量被忽略等
+- **[[Qualitative Research|质性研究]]**：缺陷可能涉及未处理特殊人群或群体、未探索新的场所、未为未被充分代表的群体发声、缺乏质性数据等
+- **[[Mixed Method and Multi-method Research|混合方法研究]]**：缺陷可能涉及文献未同时包含量化和质性数据、文献未提供从数据连接中获得的洞察、文献未提及数据整合或从中得出结论
 
 ---
 
@@ -88,7 +91,7 @@ Creswell & Creswell（2022, 第5章）提供了两个展示文献缺陷表述的
 Creswell & Creswell（2022, 第5章）提供了以下操作建议：
 
 1. 引用多个缺陷来为新的研究构建强有力的案例
-2. 具体识别其他研究的缺陷（如方法上的缺陷、被忽略的变量）
+2. 具体识别其他研究的缺陷（如方法上的缺陷、被忽略的[[Variable|变量]]）
 3. 写出过去研究忽略的领域，包括主题、特殊的统计处理、重要意义和其他量化缺陷
 4. 讨论计划中的研究将如何弥补这些缺陷并为学术文献提供独特贡献
 5. 查看期刊文章中提到的研究局限，寻找可以引用的缺陷线索

@@ -14,7 +14,6 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -76,7 +75,7 @@ updated: '2026-05-18'
 ## 局限性
 
 > [!warning] 局限性
-> Downey & Condron (2016, pp.4–5) 明确讨论了季节性比较方法依赖的关键[[Hypothesis|假设]]及潜在问题：
+> Downey & Condron (2016, pp.4–5) 明确讨论了季节性比较方法依赖的关键假设及潜在问题：
 
 
 > [!warning] 处理溢出（Treatment Spillover）

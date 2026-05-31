@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Ecomuseology]]"
   - "[[Knowledge Production]]"
-  - "[[Hypothesis]]"
   - "[[Ganz-Methode]]"
   - "[[Official Knowledge]]"
   - "[[Life Power]]"
@@ -43,7 +42,7 @@ updated: '2026-05-18'
 > [!info]
 > Social Museology（社会博物馆学，葡文：sociomuseologia）是博物馆学中一个以**社区参与和社会变革**为导向的分支。与传统博物馆学以建筑、藏品和专家策展为核心不同，社会博物馆学将博物馆重新定位为社区发展的工具——**社区居民成为博物馆实践的主角**：他们自己选择展品、自己讲述故事、自己决定什么记忆值得保存。博物馆的功能从"为公众策展"转向"由公众做博物馆"（Moutinho, 2007; Chagas, 2001, cited in Delambre, 2022, p.110）。
 
-> 社会博物馆学在巴西通过社区博物馆（community museums）、贫民窟博物馆（favela museums）和[[Ecomuseology|生态博物馆]]（ecomuseums）等实践形式得到系统发展。这些实践的共同特征是：社区成员不是博物馆的被动观众，而是[[Knowledge Production|知识生产]]的主动主体——他们通过口述传统（orality）来保存和传播地方历史，以口述性抵抗欧洲中心主义的书写至上[[Hypothesis|假设]]，这与非洲和拉丁美洲的伟大知识传统一脉相承（Delambre, 2022, p.110）。
+> 社会博物馆学在巴西通过社区博物馆（community museums）、贫民窟博物馆（favela museums）和[[Ecomuseology|生态博物馆]]（ecomuseums）等实践形式得到系统发展。这些实践的共同特征是：社区成员不是博物馆的被动观众，而是[[Knowledge Production|知识生产]]的主动主体——他们通过口述传统（orality）来保存和传播地方历史，以口述性抵抗欧洲中心主义的书写至上假设，这与非洲和拉丁美洲的伟大知识传统一脉相承（Delambre, 2022, p.110）。
 
 > 社会博物馆学与 [[Ecomuseology|生态博物馆学]] 高度交叉但侧重不同：生态博物馆学更强调博物馆与自然环境、**地域**（territory）和生态系统的关系；社会博物馆学更强调**社区参与和社会变革**。在巴西实践中，两者经常并存于同一项目中（Delambre, 2022, p.110）。
 
@@ -66,7 +65,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 > - **居民作为主角**（protagonism of residents）：社会博物馆学的第一原则——社区成员自己选择展品、自己讲述故事、自己决定什么记忆值得保存。这与专家策展的传统博物馆模式构成根本对立（Delambre, 2022, p.110, 援引 Chagas, 2001）
-> - **口述性作为[[Knowledge Production|知识生产]]核心**（orality as knowledge production）：口述传统（而非书写文本）是知识生产和智慧传播的核心方式。这与非洲和拉丁美洲的口述传统一脉相承，在认识论层面抵抗了欧洲中心主义的书写至上[[Hypothesis|假设]]（Delambre, 2022, p.110）
+> - **口述性作为[[Knowledge Production|知识生产]]核心**（orality as knowledge production）：口述传统（而非书写文本）是知识生产和智慧传播的核心方式。这与非洲和拉丁美洲的口述传统一脉相承，在认识论层面抵抗了欧洲中心主义的书写至上假设（Delambre, 2022, p.110）
 > - **抵抗记忆抹除**（resistance to memory erasure）：社会博物馆学的实践动力来自对霸权系统系统性抹除地方历史的抵抗。巴西贫民窟、原住民社区和非裔巴西人社区通过博物馆实践为其被边缘化的历史创造可见性和合法性（Delambre, 2022, p.110, 援引 Chagas, 2001）
 > - **与[[Life Power|生命力量]]的关联**：当居民通过博物馆选择什么记忆值得保存、什么故事值得讲述时，他们正在实践性地定义"什么使我们的存在有意义"——这一过程被 Delambre 分析为 [[Life Power|生命力量]] 的发现和培育（Delambre, 2022, p.110, 113–116）
 > - **与 [[Ganz-Methode]] 的契合**：社会博物馆学的操作逻辑与 Ganz-Methode 两步法 高度对应——承载新旧博物馆学范式的张力（步骤一），通过居民自主策展和叙事发现生命力量（步骤二）。详见 [[Ganz-Methode]]（Delambre, 2022, p.110, 112–113）

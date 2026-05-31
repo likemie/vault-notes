@@ -12,6 +12,7 @@ tags:
 - subject/comparative-political-economy
 related_concepts:
   - "[[Corporate Education]]"
+  - "[[Central Phenomenon]]"
   - "[[Corporate University]]"
 related_theories: []
 related_methods: []
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 ## 在 Hartmann (2022) 企业教育分析中的应用
 
 > [!tip]
-> Hartmann 在[[Corporate Education|企业教育]]跨国化分析中，以 VoC 的 LME/CME 区分为透镜，解释了两个核心现象：
+> Hartmann 在[[Corporate Education|企业教育]]跨国化分析中，以 VoC 的 LME/CME 区分为透镜，解释了两个[[Central Phenomenon|核心现象]]：
 
 ### 为何 IVET 难以国际化？
 

@@ -41,7 +41,7 @@ updated: 2026-05-23
 
 > [!quote]
 > "To have [like-minded] friends come from distant quarters [to study with oneself] – is this not a source of enjoyment?"
-> — Confucius, Analects 1:1（Li, 2012, p.100）
+> — [[Confucius]], Analects 1:1（Li, 2012, p.100）
 
 ---
 

@@ -92,9 +92,9 @@ updated: 2026-05-18
 ## 关键引用
 
 > [!quote] 关键引用
-> > "I argue that the uncritical acceptance and proliferation of this cult is a tragedy for Australian school leadership."（p.413）
+> > "I argue that the uncritical acceptance and proliferation of this cult is a tragedy for Australian [[School Leadership]]."（p.413）
 >
-> > "Hattie has provided the means through which scientific management can be achieved in educational leadership."（p.419）
+> > "[[John Hattie|Hattie]] has provided the means through which scientific management can be achieved in educational leadership."（p.419）
 >
 > > "Rather than models of pedagogy, even those that came with instruments to measure the quality of practice ... Hattie provided school administrators with evidence on which they could base decisions – evidence informed decisions."（p.418）
 >

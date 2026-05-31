@@ -13,7 +13,6 @@ tags:
 - implementation
 - paradigm/interpretivist
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Spirals of Inquiry]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
@@ -72,7 +71,7 @@ updated: '2026-05-18'
 > | 研究阶段 | 前期"效力研究" | 后期实施和规模扩展 |
 > | 核心弱点 | 生成仅适用于二选一决策的证据（Cartwright & Hardie, 2012） | 缺乏稳健可靠的因果估计来指导改进方向 |
 >
-> Peterson 的整合方案：**[[Mechanism Experiments|机制实验]]**的因果估计为改进网络中的教师探究提供方向性输入；改进网络的实践洞见反馈回新的机制[[Hypothesis|假设]]以进行实验测试（Peterson, 2016, p. 307）。
+> Peterson 的整合方案：**[[Mechanism Experiments|机制实验]]**的因果估计为改进网络中的教师探究提供方向性输入；改进网络的实践洞见反馈回新的机制假设以进行实验测试（Peterson, 2016, p. 307）。
 
 
 > [!abstract] 网络化改进社区（Networked Improvement Communities）
@@ -102,7 +101,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - **vs [[Evidence-Based Education]]** — EBE 关注"什么有效"（项目层面证据）；改进科学关注"什么在什么情境中导致改进"（过程和互动层面证据）。Peterson 论证两者互补而非竞争
-> - **vs [[Evidence-Informed Practice]]** — EIP 将证据定位为多种因素之一供教师判断；改进科学将教师定位于系统性地生成和检验关于改进的[[Hypothesis|假设]]
+> - **vs [[Evidence-Informed Practice]]** — EIP 将证据定位为多种因素之一供教师判断；改进科学将教师定位于系统性地生成和检验关于改进的假设
 
 ## 实证发现
 

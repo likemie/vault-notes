@@ -133,9 +133,9 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "When taking the necessary in-depth look at Visible Learning with the eye of an expert, we find not a mighty castle but a fragile house of cards that quickly falls apart." (Bergeron & Rivard, 2017, p.238)
+> > "When taking the necessary in-depth look at [[Visible Learning]] with the eye of an expert, we find not a mighty castle but a fragile house of cards that quickly falls apart." (Bergeron & Rivard, 2017, p.238)
 >
-> > "To believe Hattie is to have a blind spot in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness." (Bergeron & Rivard, 2017, p.238)
+> > "To believe [[John Hattie|Hattie]] is to have a blind spot in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness." (Bergeron & Rivard, 2017, p.238)
 >
 > > "Hattie's comparisons are arbitrary and he is completely unaware of it." (Bergeron & Rivard, 2017, p.241)
 >

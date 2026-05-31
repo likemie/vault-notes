@@ -20,7 +20,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
@@ -81,7 +80,7 @@ updated: '2026-05-18'
 >
 > ### 4. 匹配作为替代方法
 >
-> 匹配回避了因果建模的模型选择问题（匹配[[Variable|变量]]在不参考结果变量的情况下确定），但需要满足与随机实验相同的[[Hypothesis|假设]]（无干扰、条件独立于未观测变量）——Berk 警告这些假设在匹配应用中也常被违反（Berk, 2011, pp.197–199）。
+> 匹配回避了因果建模的模型选择问题（匹配[[Variable|变量]]在不参考结果变量的情况下确定），但需要满足与随机实验相同的假设（无干扰、条件独立于未观测变量）——Berk 警告这些假设在匹配应用中也常被违反（Berk, 2011, pp.197–199）。
 >
 > ### 5. [[Meta-analysis|元分析]]的过度评价
 >
@@ -106,11 +105,11 @@ updated: '2026-05-18'
 >
 > > "It is sometimes difficult to determine which is which. Some purveyors of junk do not know what they are doing but proceed with all of the superficial trappings of high-quality work. Other purveyors of junk know well what they are doing and use those same trappings to cover their tracks." (Berk, 2011, p.192)
 >
-> > "There can be one causal effect for each possible shuffling of the study units, and a single causal effect no longer exists." (Berk, 2011, p.195, on SUTVA violation)
+> > "There can be one causal effect for each possible shuffling of the study units, and a single causal effect no longer exists." (Berk, 2011, p.195, on [[Stable Unit Treatment Value Assumption|SUTVA]] violation)
 >
 > > "The benchmark for any evaluation is current knowledge, not perfection. Hence, designs with less internal validity than randomized experiments can sometimes be probative." (Berk, 2011, p.195)
 >
-> > "The importance of meta-analysis for estimating causal effects has been grossly overrated. A conventional literature review will often do better." (Berk, 2011, p.199)
+> > "The importance of [[Meta-analysis]] for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better." (Berk, 2011, p.199)
 
 ## 建议与对策
 

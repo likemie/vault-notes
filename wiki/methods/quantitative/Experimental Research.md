@@ -17,7 +17,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Variable]]"
   - "[[Causality]]"
-  - "[[Hypothesis]]"
+  - "[[Research Problem]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -46,7 +46,7 @@ updated: 2026-05-30
 ## 研究程序
 
 > [!example]
-> - 从理论出发，推导出关于[[Variable|变量]]间[[Causality|因果关系]]的[[Hypothesis|假设]]。
+> - 从理论出发，推导出关于[[Variable|变量]]间[[Causality|因果关系]]的假设。
 > - 确定实验处理（自变量）和结果测量（因变量）。
 > - 将受试者随机分配到处理组和对照组（真实验），或使用已有群体（准实验）。
 > - 在实验处理前进行前测，处理后进行后测。
@@ -70,13 +70,13 @@ updated: 2026-05-30
 
 > [!success]
 > - 需要检验特定干预或处理是否产生因果效应时。
-> - 适合确认性的、理论驱动的研究问题。
+> - 适合确认性的、理论驱动的[[Research Problem|研究问题]]。
 
 ## 局限性
 
 > [!warning]
 > - 实验室情境的发现可能缺乏生态效度，难以推广到自然情境。
-> - 部分教育研究问题不适合随机分配或处理操纵。
+> - 部分教育[[Research Problem|研究问题]]不适合随机分配或处理操纵。
 > - 伦理约束可能限制处理条件的设置。
 
 ## 来源

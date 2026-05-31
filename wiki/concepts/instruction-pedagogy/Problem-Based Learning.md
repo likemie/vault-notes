@@ -14,6 +14,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
+  - "[[Construct]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Effective Teaching]]"
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 >
 > 在芬兰 [[Phenomenon-Based Learning]] 的讨论中，PBL 常被视为 PhBL 的近缘传统之一。Schaffar & Wolff (2024) 指出，芬兰 PhBL 确实吸收了 PBL 和 inquiry-based learning 的[[Constructivist Paradigm|建构主义]]学习观，但它还受[[Phenomenology|现象学]]、existentialism、[[Bildung]] 与 [[Didaktik]] 影响，因此不能简单等同于 PBL（Schaffar & Wolff, 2024, pp.2, 8）。
 >
-> > "Students are presented with a problem in order to activate their prior knowledge. This prior knowledge is then built upon further as the learners collaborate in small groups to construct a theory or proposed mental model to explain the problem in terms of its underlying causal structure." (Schmidt, Rotgans, & Yew, 2011, p.793)
+> > "Students are presented with a problem in order to activate their prior knowledge. This prior knowledge is then built upon further as the learners collaborate in small groups to [[Construct]] a theory or proposed mental model to explain the problem in terms of its underlying causal structure." (Schmidt, Rotgans, & Yew, 2011, p.793)
 
 ## 核心要素
 

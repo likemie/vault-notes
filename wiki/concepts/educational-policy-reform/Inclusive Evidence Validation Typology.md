@@ -14,6 +14,7 @@ tags:
   - region/belgium
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Research Problem]]"
   - "[[Variable]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
@@ -52,7 +53,7 @@ updated: 2026-05-24
 ## 核心要素
 
 > [!abstract]
-> 该类型学包含四类验证路径，每一类对应不同证据强度和不同研究问题。
+> 该类型学包含四类验证路径，每一类对应不同证据强度和不同[[Research Problem|研究问题]]。
 
 - 专家与佐证验证：由实践者、研究者、设计者等专家分析工具原则与相关性，最好用实证研究、心理教育学或学科教学原则进行佐证；这种验证不等于课堂效果证据，但可说明工具与当前知识状态相容（Dachet & Baye, 2021, p.176）。
 - 案例研究或横断研究验证：案例研究可用观察、半结构访谈和内容分析理解工具特征、使用和影响；横断研究可一次性描述某[[Variable|变量]]在群体中的频率及其相关特征（Dachet & Baye, 2021, pp.176-177）。

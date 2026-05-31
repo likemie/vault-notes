@@ -13,7 +13,6 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[Executive Education]]"
-  - "[[Hypothesis]]"
   - "[[Fourth Generation University]]"
   - "[[Coherence in Writing]]"
   - "[[University-Industry Collaboration]]"
@@ -85,7 +84,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 6. **维度二：实践的广泛适用性**。学员参加高管教育的主要动机是提升技能、应对当前或可预期的工作职责变化（p.159）。跨学科主题通常无法直接映射到学员的日常工作任务。课程设计需要解决一个核心张力：学员想要"回办公室就能用的工具"，但课程目标在于帮助学员形成对复杂问题的系统性认识，这种能力无法在短期内打包成操作手册（p.159）。
 
-   课程设计的关键在于重新定义实践的参数（redefining the parameters of practice, p.159）。如果课程能帮助学员及其企业重新理解运营环境，认识到以往用来填写预算和评估风险的[[Hypothesis|假设]]条件已经不再成立，那么实用性就在一个新的层面上被实现了。它不再是一套新工具，而是一套新的认知框架。
+   课程设计的关键在于重新定义实践的参数（redefining the parameters of practice, p.159）。如果课程能帮助学员及其企业重新理解运营环境，认识到以往用来填写预算和评估风险的假设条件已经不再成立，那么实用性就在一个新的层面上被实现了。它不再是一套新工具，而是一套新的认知框架。
 
 > [!example]
 > 一位保险公司的风险经理参加气候高管课程，期望学到如何将气候数据导入公司的精算模型。课程设计者没有在第一天的课程中提供任何数据，而是让他花四小时理解一个根本问题。基于历史经验构建精算模型的传统方法，面临一个气候系统正在发生不可逆变化的世界，其前提假设本身就存在问题。课程的第二、第三天再引入具体的建模工具和数据源。到这时，学员已经具备了使用这些工具的认识论前提，他知道为什么需要这些工具，以及用了之后能判断什么、不能判断什么。
@@ -190,7 +189,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [!quote]
 > "The evolution of complex, transdisciplinary thinking in response to these challenges—what some have characterized as advanced system thinking or convergence research—is not just confined to university campuses."（p.156）
 >
-> 产业、非营利组织和政府同样在经历跨学科思维转型，而这正是大学通过高管教育与之对接的窗口。
+> 产业、非营利组织和政府同样在经历跨学科思维转型，而这正是大学通过[[Executive Education|高管教育]]与之对接的窗口。
 
 > [!quote]
 > "Particularly for subject matter underlain by highly technical research in science and engineering, core scientific and engineering faculty might not be able to address the policy dynamics inherent in the grander challenge."（p.160）
@@ -198,7 +197,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > 跨学科团队中必须同时包含硬科学专家和软制度专家，单一学科的教师无法覆盖复杂挑战的全部维度。
 
 > [!quote]
-> "Columbia calls this its 'Fourth Purpose,' a responsibility added to the traditional functions of scholarship, teaching and disciplinary service."（pp.161-162）
+> "Columbia calls this its '[[Fourth Generation University|Fourth Purpose]],' a responsibility added to the traditional functions of scholarship, teaching and disciplinary service."（pp.161-162）
 >
 > 哥伦比亚大学将应对复杂社会挑战、推动解决方案产出定义为学术研究、教学和学科服务之外的第四宗旨，这构成了大学组建气候学院、开发跨学科高管教育的制度正当性基础。
 

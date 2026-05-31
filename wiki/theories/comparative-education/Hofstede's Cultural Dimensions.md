@@ -11,7 +11,6 @@ tags:
 - comparative-education
 related_concepts:
   - "[[Effective Teaching]]"
-  - "[[Hypothesis]]"
   - "[[Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Visible Learning]]"
@@ -55,7 +54,7 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究范式
-> - 认识论立场：Laursen 将 Hofstede 理论作为一种国家文化解释框架，用来生成关于教学效果跨文化差异的[[Hypothesis|假设]]，而不是直接把它当作教育效果证据（Laursen, 2015, pp.36–37）。
+> - 认识论立场：Laursen 将 Hofstede 理论作为一种国家文化解释框架，用来生成关于教学效果跨文化差异的假设，而不是直接把它当作教育效果证据（Laursen, 2015, pp.36–37）。
 > - 应用方式：该理论在 Laursen 文中被用于解释"为何可能预期丹麦学生更适合开放、对话、低控制教学"，但经验比较结果显示这一预期不充分，尤其不能解释弱社会背景学生对明确教师领导和清晰目标的依赖（Laursen, 2015, pp.37–40）。
 
 ## 争议与批评

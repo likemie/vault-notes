@@ -75,7 +75,7 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Visible Learning is not a meta-analysis; however, it uses Cohen's d effect sizes, the statistical output associated with the meta-analysis technique."（p.25）
+> > "[[Visible Learning]] is not a [[Meta-analysis]]; however, it uses Cohen's d effect sizes, the statistical output associated with the meta-analysis technique."（p.25）
 > > "We view this opaque exposition of methodology as outside the spirit of scientific inquiry"（p.26）
 > > "Visible Learning is a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review."（p.35）
 > > "It promises simple, cheap, classroom level fixes to manufactured alarm surrounding achievement scores."（p.36）

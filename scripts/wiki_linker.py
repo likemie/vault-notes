@@ -415,8 +415,9 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
     Split section text into (protected, chunk).
 
     Protected chunks are not edited. This avoids frontmatter/body handled elsewhere,
-    code blocks, headings, quote callouts, HTML, URLs/DOIs, Markdown links,
-    existing wikilinks, and embeds. Non-quote Obsidian callouts remain linkable.
+    code blocks, headings, HTML, URLs/DOIs, Markdown links, existing wikilinks,
+    and embeds. Callout header lines (e.g. "> [!abstract]") are protected to avoid
+    linking type keywords; callout body lines remain linkable.
     """
     protected: list[tuple[int, int]] = []
 
@@ -428,9 +429,7 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
     for m in re.finditer(r"(?ms)^```.*?^```\s*", text):
         add(m.start(), m.end())
 
-    # Headings line-by-line. Also skip all lines in quote callouts,
-    # and protect callout header lines (e.g. "> [!abstract]") from linking.
-    in_quote_callout = False
+    # Headings and callout headers line-by-line.
     pos = 0
     for line in text.splitlines(keepends=True):
         start, end = pos, pos + len(line)
@@ -443,12 +442,6 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
         # are not replaced with wikilinks to same-named entries.
         if re.match(r"^>\s*\[![^\]]+\]", stripped):
             add(start, end)
-        if re.match(r"^>\s*\[!quote\]", stripped, re.IGNORECASE):
-            in_quote_callout = True
-        if in_quote_callout and stripped.startswith(">"):
-            add(start, end)
-        elif in_quote_callout:
-            in_quote_callout = False
         pos = end
 
     for rx in (EMBED_RE, WIKILINK_RE, MD_LINK_RE, URL_RE, HTML_TAG_RE):

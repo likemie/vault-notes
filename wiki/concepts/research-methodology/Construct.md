@@ -11,6 +11,7 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Variable]]"
+  - "[[Abstract]]"
   - "[[Self-Efficacy]]"
 related_theories:
   - "[[Attribution Theory]]"
@@ -36,7 +37,7 @@ updated: 2026-05-31
 > 构念（construct）是[[Variable|变量]]在理论层面的更抽象、更一般的意义表达（Creswell & Creswell, 2022, p.130）。它是研究者为了理论建构而创造的概念工具，代表不可直接观察的理论实体，需要通过操作化（operationalization）转化为可测量的变量，才能在实证研究中进行检验。
 
 > [!quote]
-> "Constructs is a term used for a more abstract, general meaning of a variable."（Creswell & Creswell, 2022, p.130）
+> "Constructs is a term used for a more [[Abstract]], general meaning of a variable."（Creswell & Creswell, 2022, p.130）
 
 构念与变量共同构成[[Quantitative Research|量化研究]]从理论到实证的桥接机制。构念存在于理论空间——它是研究者"认为存在"但在现实中无法直接触及的实体；变量存在于测量空间——它是研究者通过工具实际获得的数值表达。从构念到变量的转化过程就是操作化过程。
 

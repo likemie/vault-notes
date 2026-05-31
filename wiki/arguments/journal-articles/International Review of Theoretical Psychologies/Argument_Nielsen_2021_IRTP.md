@@ -125,11 +125,11 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "What Visible Learning accomplishes... is to supply a theory of teaching... that directly challenges traditional understandings of the role of education." (p. 83)
+> > "What [[Visible Learning]] accomplishes... is to supply a theory of teaching... that directly challenges traditional understandings of the role of education." (p. 83)
 >
-> > "It was not the scientific discoveries or the original data produced by Hattie or the evidence-based movement in itself that made a difference but the promises embedded in the theory of technical rationality that could legitimize the educational system." (p. 87)
+> > "It was not the scientific discoveries or the original data produced by [[John Hattie|Hattie]] or the evidence-based movement in itself that made a difference but the promises embedded in the theory of [[Technical Rationality]] that could legitimize the educational system." (p. 87)
 >
-> > "The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of variables." (p. 88)
+> > "The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of [[Variable|variables]]." (p. 88)
 >
 > > "In many respects, Hattie's theory of learning thus has 'the ideological function of making the technical approach to learning self-evident and dominant' (Kvale, 1976, p. 106—our translation)." (p. 89)
 

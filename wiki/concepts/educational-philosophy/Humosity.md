@@ -15,7 +15,6 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Transhumanism]]"
   - "[[Humility in Learning]]"
-  - "[[Hypothesis]]"
   - "[[Sympoiesis]]"
   - "[[Response-ability]]"
 related_theories: []
@@ -43,7 +42,7 @@ updated: '2026-05-18'
 ## 词源与创造
 
 
-Humosity 的词根是 **humus**（腐殖质、泥土），与 human（人类）、[[Humility in Learning|humility]]（谦逊）共享拉丁词源 *humus*（大地、土壤）。Hogness 的造词行为本身就是一种世界制造（world making）：通过在一个词里把"人类"和"泥土"重新连接，来松动"人是宇宙中心"的默认[[Hypothesis|假设]]（Amos, 2022, p.62）。
+Humosity 的词根是 **humus**（腐殖质、泥土），与 human（人类）、[[Humility in Learning|humility]]（谦逊）共享拉丁词源 *humus*（大地、土壤）。Hogness 的造词行为本身就是一种世界制造（world making）：通过在一个词里把"人类"和"泥土"重新连接，来松动"人是宇宙中心"的默认假设（Amos, 2022, p.62）。
 
 ---
 

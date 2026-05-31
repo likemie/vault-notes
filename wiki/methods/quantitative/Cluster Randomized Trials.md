@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Stable Unit Treatment Value Assumption]]"
+  - "[[Research Problem]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -62,7 +63,7 @@ updated: '2026-05-18'
 > [!warning] 争议与批评
 > - 即使 CRT 设计精度提高，[[Randomised Controlled Trials|RCT]] 领域仍弥漫"萎靡感（malaise）"，因其未能识别大规模有效的干预（Pampaka et al., 2016, p.233）
 > - 技术改进（如更精确的 CRT 设计）未必能解决"什么有效"议程的根本问题（Pampaka et al., 2016, p.233）
-> - **[[Stable Unit Treatment Value Assumption|SUTVA]] 违反导致单一因果效应消失**：Berk (2011, p.195) 论证，当 CRT 中的个体学生结果取决于互动学生群体时，因果效应不再被单一地定义——"对于研究单位的每一种可能的重新洗牌，都存在一个因果效应，单一的因果效应不再存在"。这一问题"太少被认识到"且"远比通常认为的更严重"——它不仅影响统计检验（对此存在补救方法），而是从本体论层面动摇了 CRT 估计的因果效应定义。唯一的解决方案是将分析单位与随机化单位对齐（如使用教室层面的聚合统计量），但这改变了研究问题本身（Berk, 2011, footnote 2, p.200）
+> - **[[Stable Unit Treatment Value Assumption|SUTVA]] 违反导致单一因果效应消失**：Berk (2011, p.195) 论证，当 CRT 中的个体学生结果取决于互动学生群体时，因果效应不再被单一地定义——"对于研究单位的每一种可能的重新洗牌，都存在一个因果效应，单一的因果效应不再存在"。这一问题"太少被认识到"且"远比通常认为的更严重"——它不仅影响统计检验（对此存在补救方法），而是从本体论层面动摇了 CRT 估计的因果效应定义。唯一的解决方案是将分析单位与随机化单位对齐（如使用教室层面的聚合统计量），但这改变了[[Research Problem|研究问题]]本身（Berk, 2011, footnote 2, p.200）
 
 ## 相关案例／政策
 

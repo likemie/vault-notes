@@ -11,8 +11,7 @@ tags:
   - theme/nation-building
   - theory/nationalism
   - paradigm/constructivist
-related_concepts:
-  - "[[Hypothesis]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
@@ -59,7 +58,7 @@ updated: 2026-05-26
 > [!note]
 > Anderson 的定义属于民族理论的**现代端**——将民族视为人为的、现代的政治产物，而非自然的、祖先的、自古存在的共同体（Ozkirimli, 2010，引自 Xu, 2024, p.575）。与之对照的是：
 > - **原生主义**（primordialism）：视民族为自然的、永恒的、由族裔文化纽带（如语言、血缘、宗教、习俗、领土）连接的共同体（如 Connor 1978; Shils 1957; Smith 1991）。
-> - **Ethno-Symbolism**：Smith (1998) 的中间立场——不[[Hypothesis|假设]]民族是"自然的"还是"人为的"，而是关注前现代族裔符号、神话和传统如何在现代民族建构中被重新阐释和操纵。
+> - **Ethno-Symbolism**：Smith (1998) 的中间立场——不假设民族是"自然的"还是"人为的"，而是关注前现代族裔符号、神话和传统如何在现代民族建构中被重新阐释和操纵。
 
 ## 在教育研究中的应用
 

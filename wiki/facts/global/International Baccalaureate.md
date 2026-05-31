@@ -15,7 +15,6 @@ tags:
 - subject/curriculum
 related_concepts:
   - "[[International Schools]]"
-  - "[[Hypothesis]]"
   - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
@@ -67,7 +66,7 @@ updated: '2026-05-18'
 > [!warning] 意识形态中立性争议
 > IB 组织声称其课程"与全球化相连，但不受经济因素驱动，且没有政治和宗教的教条主义"（MacDonald, 2007，转引自 Slethaug, 2010, p.28）。然而，有教师提出质疑：以英语授课、要求英语学习熟练度本身已具有意识形态性质（Slethaug, 2010, p.28）。
 >
-> Drake（2004）指出，将具有西方、盎格鲁根源的 IB 课程直接引入不具备相同文化基础的亚洲学校，可能产生张力——因为 IB 对"多角度思考"和"开放心态"的强调，以及为实现这些目标所采用的教学方法[[Hypothesis|假设]]，可能与亚洲课堂文化存在冲突（Slethaug, 2010, p.29）。
+> Drake（2004）指出，将具有西方、盎格鲁根源的 IB 课程直接引入不具备相同文化基础的亚洲学校，可能产生张力——因为 IB 对"多角度思考"和"开放心态"的强调，以及为实现这些目标所采用的教学方法假设，可能与亚洲课堂文化存在冲突（Slethaug, 2010, p.29）。
 
 ## 质量保障机制
 

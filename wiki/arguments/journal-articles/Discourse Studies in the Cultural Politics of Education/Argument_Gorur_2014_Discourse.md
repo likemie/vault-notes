@@ -86,7 +86,7 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "the insouciance and confidence with which the OECD routinely, annually, produces such a range of indicators … belies the decades of hesitation, experimentation, negotiation and effort that went into the development of these international education indicators"（Gorur, 2014, p.4）
+> > "the insouciance and confidence with which the OECD routinely, annually, produces such a range of indicators … belies the decades of hesitation, experimentation, negotiation and effort that went into the development of these [[International Education]] indicators"（Gorur, 2014, p.4）
 >
 > > "the project's fundamental scientific ambition was inconsistent with the available means and the interests of the government authorities which would have had to fund the initiative. And so the social science specialists were unable to see their project through to its conclusion. It was a failure."（Bottani, 2008, p.14; Gorur, 2014, p.10）
 >

@@ -15,7 +15,6 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Hypothesis]]"
   - "[[Publication Bias]]"
 related_theories: []
 related_methods:
@@ -49,7 +48,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - **1994** — Scriven 提出"黑箱 [[Randomised Controlled Trials|RCT]]"的概念，区分评估（evaluation）和解释（explanation）
-> - **医学起源**："什么有效"策略源自医学领域（Haynes et al., 2012; C4E, 2003），随机实验在医学中的特定功能是**测试和认证特定药物或（字面意义上的）治疗**为有效或无效。[[What Works Clearinghouse|WWC]] 和 EEF Toolkit 明确采用了相同的认证取向——[[Hypothesis|假设]]教育变革的模式是"经过验证的教育方法可以像产品一样被选择并提供给学生"（Peterson, 2016, p. 301）
+> - **医学起源**："什么有效"策略源自医学领域（Haynes et al., 2012; C4E, 2003），随机实验在医学中的特定功能是**测试和认证特定药物或（字面意义上的）治疗**为有效或无效。[[What Works Clearinghouse|WWC]] 和 EEF Toolkit 明确采用了相同的认证取向——假设教育变革的模式是"经过验证的教育方法可以像产品一样被选择并提供给学生"（Peterson, 2016, p. 301）
 > - **Cook (2002)** 的分析：考虑到 RCT 在教育中的可行性限制，Cook 建议聚焦于"治疗更短、需要很少或不需要教师培训……且学生是分配单位而非整个班级或学校"的干预——实际上将 RCT 限制于可直接交付给学生的商品化干预
 > - **2016** — Peterson 正式提出[[Mechanism Experiments|机制实验]]作为黑箱 RCT 的替代，主张"什么有效 2.0"
 
@@ -72,7 +71,7 @@ updated: '2026-05-18'
 >
 > **3. 低采纳率**
 >
-> 从业者中研究发现"低采纳率"是教育中众所周知的问题（Levin, 2013; Walter, Nutley, & Davies, 2005）。EEF 目前资助多种策略的试验以改进证据使用——包括"打包"发现使其更易用或在学校中设立"研究冠军"（Brown, 2015）——但 Peterson 指出这些回应都[[Hypothesis|假设]]试验或评估过程本身不可能改变，而"使研究对教师更易获得并不解决采纳问题，如果证据不够清晰或足够强以回应他们的问题"（Peterson, 2016, p. 302）。
+> 从业者中研究发现"低采纳率"是教育中众所周知的问题（Levin, 2013; Walter, Nutley, & Davies, 2005）。EEF 目前资助多种策略的试验以改进证据使用——包括"打包"发现使其更易用或在学校中设立"研究冠军"（Brown, 2015）——但 Peterson 指出这些回应都假设试验或评估过程本身不可能改变，而"使研究对教师更易获得并不解决采纳问题，如果证据不够清晰或足够强以回应他们的问题"（Peterson, 2016, p. 302）。
 >
 > **4. 仅适用于二选一决策**
 >
@@ -94,7 +93,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - **医学药物试验范式** — 黑箱 [[Randomised Controlled Trials|RCT]] 的起源范式，其[[Hypothesis|假设]]（标准化产品可被认证后分发）在教育中适用范围极度有限
+> - **医学药物试验范式** — 黑箱 [[Randomised Controlled Trials|RCT]] 的起源范式，其假设（标准化产品可被认证后分发）在教育中适用范围极度有限
 > - **Cartwright & Hardie (2012)** — 揭示黑箱 RCT 产出的知识仅适用于"二选一"决策类型
 
 ## 实证发现

@@ -9,10 +9,10 @@ extracted_to:
   - "[[Assertiveness]]"
   - "[[Learning-Impeding Behavior]]"
   - "[[Motivation and Work Effort]]"
+  - "[[School Norm Adaptation]]"
   - "[[Self-control]]"
   - "[[Gender Differences in Academic Achievement]]"
   - "[[Observational and Correlational Research]]"
-  - "[[School Norm Adaptation]]"
 processed_date: 2026-05-06
 ---
 

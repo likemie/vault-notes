@@ -13,6 +13,7 @@ tags:
   - theme/national-identity
   - paradigm/critical
 related_concepts:
+  - "[[Construct]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sacrifice Theory]]"
   - "[[Settler Colonialism]]"
@@ -42,7 +43,7 @@ updated: 2026-05-25
 > 汉化（Sinicisation）指以汉文化传统为核心重新界定"中国性"（Chinese-ness），并通过制度性手段将非汉民族群体纳入这一文化框架的过程。在中国语境中，这一过程体现为将汉族的语言、历史叙事和文化规范确立为国家的标准，同时将少数民族的语言、宗教和文化实践边缘化或压制（Yu & Zhao, 2024, p.62–64）。
 
 > [!quote]
-> 这一汉化过程"constructs an idealised notion of 'Chinese' culture, focusing upon Han traditions, as the embodiment of both Chinese ancient 'civilization' and 'modernity'"（O'Brien & Brown, 2022, p.278，引自 Yu & Zhao, 2024, p.64）。
+> 这一汉化过程"[[Construct|constructs]] an idealised notion of 'Chinese' culture, focusing upon Han traditions, as the embodiment of both Chinese ancient 'civilization' and 'modernity'"（O'Brien & Brown, 2022, p.278，引自 Yu & Zhao, 2024, p.64）。
 
 ## 核心要素
 

@@ -49,7 +49,7 @@ updated: 2026-05-31
 > Stake 的案例研究方法论强调研究的艺术性和情境嵌入性。他提出[[Naturalistic Generalization|自然主义概括]]（naturalistic generalization）概念：在案例研究中，研究者在基于案例数据形成的命题性概括（propositional generalization）之外，还加入自己的个人经验。读者通过将案例描述与自身情境进行对照，自行完成认知推广，而非依赖统计概率（Creswell & Creswell, 2022, p.67）。
 
 > [!quote]
-> "In case study research, Stake (1995) adds to a propositional generalization (the researcher's summary of interpretations and claims) the researcher's own personal experiences, called 'naturalistic generalizations' (p. 86)."（引自 Creswell & Creswell, 2022, p.67）
+> "In [[Case Study]] research, Stake (1995) adds to a propositional generalization (the researcher's summary of interpretations and claims) the researcher's own personal experiences, called 'naturalistic generalizations' (p. 86)."（引自 Creswell & Creswell, 2022, p.67）
 
 ## 影响
 

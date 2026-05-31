@@ -13,7 +13,8 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Variable]]"
-  - "[[Hypothesis]]"
+  - "[[Purpose Statement]]"
+  - "[[Research Problem]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -45,14 +46,14 @@ updated: 2026-05-31
 
 ### 时间顺序（Temporal Order）
 
-时间顺序意味着一个[[Variable|变量]]在时间上先于另一个变量。由于这种时间排序，一个变量影响或预测另一个变量。时间顺序还意味着[[Quantitative Research|量化研究]]者从左到右思考变量（Punch, 2014），并在目的陈述、研究问题和视觉模型中按此顺序排列变量（Creswell & Creswell, 2022, p.57）。
+时间顺序意味着一个[[Variable|变量]]在时间上先于另一个变量。由于这种时间排序，一个变量影响或预测另一个变量。时间顺序还意味着[[Quantitative Research|量化研究]]者从左到右思考变量（Punch, 2014），并在[[Purpose Statement|目的陈述]]、[[Research Problem|研究问题]]和视觉模型中按此顺序排列变量（Creswell & Creswell, 2022, p.57）。
 
 ### 混淆变量的威胁
 
 评估因果主张时，一个至关重要的考量是未测量的第三变量 Z 是否导致了结果。例如，在"适度红酒消费降低心脏病风险"的主张中，规律的日常锻炼这一混淆变量 Z 可能既与适度红酒消费正相关，也与心脏病风险降低正相关。如果混淆变量未被测量，研究者可能错误推断因果作用（Creswell & Creswell, 2022, p.56）。
 
 > [!warning]
-> 如果研究目标是检验两个或多个变量之间的因果主张，最佳选择是进行真实验（[[Experimental Research|true experiment]]），因为这能对潜在的未测量变量提供更强的控制（见本书第 8 章）。如果对检验因果主张的兴趣较低或无法进行实验，[[Survey Research|调查研究]]方法可以检验变量间[[Hypothesis|假设]]关联的主张（Creswell & Creswell, 2022, p.57）。
+> 如果研究目标是检验两个或多个变量之间的因果主张，最佳选择是进行真实验（[[Experimental Research|true experiment]]），因为这能对潜在的未测量变量提供更强的控制（见本书第 8 章）。如果对检验因果主张的兴趣较低或无法进行实验，[[Survey Research|调查研究]]方法可以检验变量间假设关联的主张（Creswell & Creswell, 2022, p.57）。
 
 ## 概念辨析
 

@@ -17,10 +17,10 @@ related_concepts:
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
   - "[[Technology Transfer]]"
-  - "[[Hypothesis]]"
   - "[[Further Education]]"
   - "[[International Education]]"
   - "[[Learning Analytics]]"
+  - "[[Research Problem]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -106,7 +106,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - [[University of Illinois Research Park]]
 > - STAR Park（特拉华大学）
 >
-> 信息来自 TUFF 的直接参与和与各园区管理者的对话，属于从大量案例中归纳的实践原则，而非系统性实证研究中的[[Hypothesis|假设]]检验。
+> 信息来自 TUFF 的直接参与和与各园区管理者的对话，属于从大量案例中归纳的实践原则，而非系统性实证研究中的假设检验。
 
 ---
 
@@ -307,7 +307,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [!example]
 > 一个以旅游经济为主的小城市，看到深圳建了科技创新中心很成功，就照搬了一个"AI 产业园"。但本地没有 AI 研究基础，没有风投生态，最优秀的学生高中毕业就去了省会城市读大学且不再回来。这个"AI 产业园"大概率会变成空置的写字楼。
 >
-> 如果这个城市从本地优势出发，[[Hypothesis|假设]]本地有丰富的中小学自然教育基地资源和一批有经验的户外教育从业者，围绕"自然教育"和"研学旅行"来设计创新中心，整合本地大学的生态学系、教育学院课程设计专家以及旅游行业的营销和运营能力，成功的可能性就大得多。
+> 如果这个城市从本地优势出发，假设本地有丰富的中小学自然教育基地资源和一批有经验的户外教育从业者，围绕"自然教育"和"研学旅行"来设计创新中心，整合本地大学的生态学系、教育学院课程设计专家以及旅游行业的营销和运营能力，成功的可能性就大得多。
 
 21. 区域合作初期需要一位多面手式执行主管，能在房地产、政府关系、金融、市场营销、学术、项目激活和资产管理之间做翻译和协调，不一定每个领域都是专家（p.134）。
 
@@ -336,7 +336,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 26. 场所营造还面临数据收集的挑战，即如何衡量活动的效果，如何建立持续反馈和改进机制。TUFF 的经验是，投入精力在活动中收集数据、不断提问，可以赋权创新中心持续改进活动设计，避免陷入停滞。场所营造要求建筑管理方从传统的"被动物业管理"（passive property management）转向更主动的、以社区为导向的方式，由此创造出一种"公民意识和参与的文化"，这种文化天然关注整个社区的福祉（pp.136–137）。
 
 > [!example]
-> 类似的逻辑也适用于教育学院和本地学校之间。如果教育学院想和周边中小学建立深度合作，仅签一份协议然后发邮件说"欢迎参加教研活动"是远远不够的。更有效的做法是，在教育学院一楼开一间开放式咖啡馆，对中小学教师免费开放，每周有一位本地教师来分享"这周课堂上最让我头疼的一件事"。教师觉得有共鸣，教授听到了真实的研究问题，博士生找到了论文选题。这种弱连接，恰恰是合作从形式走向实质的关键。
+> 类似的逻辑也适用于教育学院和本地学校之间。如果教育学院想和周边中小学建立深度合作，仅签一份协议然后发邮件说"欢迎参加教研活动"是远远不够的。更有效的做法是，在教育学院一楼开一间开放式咖啡馆，对中小学教师免费开放，每周有一位本地教师来分享"这周课堂上最让我头疼的一件事"。教师觉得有共鸣，教授听到了真实的[[Research Problem|研究问题]]，博士生找到了论文选题。这种弱连接，恰恰是合作从形式走向实质的关键。
 
 ---
 
@@ -378,10 +378,10 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 关键引用
 
 > [!quote]
-> "If the ultimate purpose of a research park or an innovation center is to raise the standard of living through increased commercial activity and entrepreneurship, then university and industry partners can draw from these approaches to make location-specific decisions to create mutually beneficial and positively reinforcing ecosystems."（p.124）
+> "If the ultimate purpose of a [[Innovation Hub|research park]] or an innovation center is to raise the standard of living through increased commercial activity and entrepreneurship, then university and industry partners can draw from these approaches to make location-specific decisions to create mutually beneficial and positively reinforcing ecosystems."（p.124）
 
 > [!quote]
-> "TUFF considers activation and events as creating value 'in' the building and not 'of' the building — reinforcing the idea that physical assets on their own will not be the impetus for lasting economic growth and development."（p.136）
+> "[[TUFF]] considers activation and events as creating value 'in' the building and not 'of' the building — reinforcing the idea that physical assets on their own will not be the impetus for lasting economic growth and development."（p.136）
 
 > [!quote]
 > "Density is destiny."（p.136）

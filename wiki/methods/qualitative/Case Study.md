@@ -10,6 +10,7 @@ tags:
 - qualitative-research
 - methodology
 related_concepts:
+  - "[[Research Problem]]"
   - "[[Variable]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
@@ -64,7 +65,7 @@ updated: 2026-05-30
 > [!example] 个案选取策略
 > 郑雅君（2023）的个案选取结合了多种策略：
 >
-> **目的抽样（Purpose Sampling）**：根据研究问题和分析框架的需要有目的地选取能带来最大理论潜力的个案（郑雅君，2023）
+> **目的抽样（Purpose Sampling）**：根据[[Research Problem|研究问题]]和分析框架的需要有目的地选取能带来最大理论潜力的个案（郑雅君，2023）
 >
 > **理论抽样（Theoretical Sampling）**：围绕分析过程中建构理论框架的需要，在关键特征上增加个案差异性：
 > - 院系/学科背景力求差异
@@ -96,7 +97,7 @@ updated: 2026-05-30
 ## 适用场景
 
 > [!success] 适用场景
-> - 适合探究"如何"（how）和"为什么"（why）类研究问题——需要理解因果机制而非仅判定相关关系
+> - 适合探究"如何"（how）和"为什么"（why）类[[Research Problem|研究问题]]——需要理解因果机制而非仅判定相关关系
 > - 适合在已有关联性证据但缺乏过程理解的领域进行机制性探索
 > - 适合研究复杂社会过程中结构与能动性的互动
 >

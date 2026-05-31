@@ -80,7 +80,7 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "the discourses and practices of devolution, economic efficiency, competition and individualism constitute school autonomy in ways that have decimated structural support for public schools, exacerbated stratification and residualization within the sector, undermined a collective approach to education as a public good and disadvantaged rural/remote, low SES and small schools"（Keddie et al., 2020, IJLE, p.12）
+> > "the discourses and practices of devolution, economic efficiency, competition and individualism constitute [[School Autonomy]] in ways that have decimated structural support for public schools, exacerbated stratification and residualization within the sector, undermined a collective approach to education as a public good and disadvantaged rural/remote, low SES and small schools"（Keddie et al., 2020, IJLE, p.12）
 >
 > > "To further public education as both ideal and practice (for the common good), we need a much more nuanced understanding of what is in the public interest, how the public is constituted and how we might define public education"（Boyask, 2020, p.4，引自 Keddie et al., 2020, IJLE, p.13）
 

@@ -19,7 +19,6 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
-  - "[[Hypothesis]]"
   - "[[Knowledge Transfer]]"
   - "[[Transformative Change]]"
   - "[[Innovation Ecosystem]]"
@@ -82,7 +81,7 @@ updated: 2026-05-27
 
 ### 范式转换：从"市场失灵"到"系统失灵"（1980s–1990s）
 
-到 1980 年代，各国普遍感到"科学促增长"范式未能产生预期回报。这种不满推动了对其核心[[Hypothesis|假设]]的根本性质疑（Freeman, 1982; Lindner et al., 2024; Schot & Steinmueller, 2018）（Ulrichsen, 2025, p.29）：
+到 1980 年代，各国普遍感到"科学促增长"范式未能产生预期回报。这种不满推动了对其核心假设的根本性质疑（Freeman, 1982; Lindner et al., 2024; Schot & Steinmueller, 2018）（Ulrichsen, 2025, p.29）：
 
 - **创新不是线性的**：它比"科学→技术→市场"的单向模型复杂得多，涉及多行动者的双向互动
 - **制度不只是背景**：不仅是经济制度，社会政治制度同样深刻塑造创新行为

@@ -14,7 +14,6 @@ tags:
 - theme/cultural-model
 related_concepts:
   - "[[Ideal Learner]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Prototype Methods]]"
@@ -98,7 +97,7 @@ Li 的研究设计体现了一种"文化模型 → 实证验证 → 文化模型
 
 > [!warning]
 > - **文化模型可能过度强调同质性**：Li 承认文化内部存在大量"不一致和反作用力"（Li, 2012, p.xi），但全书聚焦"一般文化取向"。批评者可以主张：对共享性的强调可能使文化内部的冲突、抵抗和替代性模型不可见
-> - **语言 = 文化模型的[[Hypothesis|假设]]**：[[Prototype Methods|原型方法]]假设词汇承载文化模型——但词汇存在（lexical availability）不等于信念存在。一个文化可能保留了"化石词汇"（如成语），但成员已不再持有相应信念
+> - **语言 = 文化模型的假设**：[[Prototype Methods|原型方法]]假设词汇承载文化模型——但词汇存在（lexical availability）不等于信念存在。一个文化可能保留了"化石词汇"（如成语），但成员已不再持有相应信念
 
 ---
 

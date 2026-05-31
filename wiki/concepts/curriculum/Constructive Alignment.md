@@ -9,6 +9,7 @@ tags:
 - subject/curriculum
 - level/higher-ed
 related_concepts:
+  - "[[Construct]]"
   - "[[Surface and Deep Learning]]"
 related_theories: []
 related_methods: []
@@ -30,7 +31,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 建构性对齐（Constructive Alignment）是 [[John Biggs]] (1996, 2003) 提出的课程设计原则，包含两个前提：
 >
-> 1. **建构性前提**：学生通过他们所做的学习活动来建构意义（students construct meaning from what they do to learn）
+> 1. **建构性前提**：学生通过他们所做的学习活动来建构意义（students [[Construct]] meaning from what they do to learn）
 > 2. **对齐前提**：教师将计划的学习活动与预期的学习结果对齐（the teacher aligns the planned learning activities with the learning outcomes）
 >
 > 由此，任何课程的设计须确保学习活动和评估任务与课程预期的学习结果对齐（[[John Hattie|Hattie]], 2015, p.87）。

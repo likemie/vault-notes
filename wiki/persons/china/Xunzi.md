@@ -48,7 +48,7 @@ updated: 2026-05-25
 ## 格言／关键表述
 
 > [!quote]
-> "锲而不舍，金石可镂"（Keep on carving unflaggingly, and metal and stone will be engraved）—— 荀子。这条格言强调坚持不懈的学习美德，至今仍是中文中表达"持之以恒"的经典表述（Li, 2012, p.142）。
+> "锲而不舍，金石可镂"（Keep on carving unflaggingly, and metal and stone will be engraved）—— 荀子。这条格言强调坚持不懈的[[Learning Virtues|学习美德]]，至今仍是中文中表达"持之以恒"的经典表述（Li, 2012, p.142）。
 
 ## 影响
 

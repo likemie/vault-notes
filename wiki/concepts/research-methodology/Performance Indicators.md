@@ -17,7 +17,6 @@ related_concepts:
   - "[[Regulatory Regionalism]]"
   - "[[International Education]]"
   - "[[Selectivity]]"
-  - "[[Hypothesis]]"
   - "[[Theories of Policy Change]]"
   - "[[Performativity of Measurement]]"
   - "[[Causality]]"
@@ -90,7 +89,7 @@ updated: '2026-05-18'
 
 - **目的性**：指标是为政策目的而选择和设计的，统计是原始收集（Gorur, 2014, p.7）
 - **分析性**：指标包含分析和解读，统计数据是原始数字
-- **派生性**：指标常合并多个数据源和多个统计量，采用数学模型刻画[[Hypothesis|假设]]的关系
+- **派生性**：指标常合并多个数据源和多个统计量，采用数学模型刻画假设的关系
 - **跨国统一性**：指标在各国统一开发、定期重复
 - **情境依赖性**：指标的意义与其构建情境相连（Jaeger, 1978），不自我解释
 

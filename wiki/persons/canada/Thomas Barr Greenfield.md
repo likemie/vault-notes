@@ -11,7 +11,6 @@ tags:
   - paradigm/interpretivist
   - educational-administration
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Definition of Terms]]"
   - "[[Theoretical Standpoint]]"
 related_theories:
@@ -42,7 +41,7 @@ updated: 2026-05-19
 >
 > > "all our knowledge of reality, natural and social, contains an irreducible subjective component"（引自 Eacott, 2015, p.316）
 >
-> 这一主张直接挑战了理论运动的基石——理论运动的核心[[Hypothesis|假设]]是：通过"客观性、可靠性、[[Definition of Terms|操作性定义]]"（Griffiths, 1959）可以实现对教育行政的科学研究。
+> 这一主张直接挑战了理论运动的基石——理论运动的核心假设是：通过"客观性、可靠性、[[Definition of Terms|操作性定义]]"（Griffiths, 1959）可以实现对教育行政的科学研究。
 >
 > **"人性科学"的提出**
 >

@@ -12,7 +12,6 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Hypothesis]]"
   - "[[Knowledge Transfer]]"
   - "[[Technology Transfer]]"
 related_theories: []
@@ -36,7 +35,7 @@ updated: 2026-05-27
 > [!info]
 > 伙伴关系连续体（Partnership Continuum）是 [[University Industry Demonstration Partnership|UIDP]]（2012）发布的[[University-Industry Collaboration|产学合作]]策略分类指南，将大学与产业之间的合作形式按照合作深度、结构化和相互依赖程度沿一个连续体排列——从非正式的、个人化的互动（如学术会议、校友联系）到高度结构化的、制度化的合作（如合资企业、联合研究中心）（Boccanfuso & Hall, 2025, p.55）。
 
-该框架的核心[[Hypothesis|假设]]是：产学合作不是"有或无"的二元选择，而是一个从松散到紧密、从低投入到高投入的**递进谱系**。不同的合作目标和组织条件对应连续体上的不同位置。
+该框架的核心假设是：产学合作不是"有或无"的二元选择，而是一个从松散到紧密、从低投入到高投入的**递进谱系**。不同的合作目标和组织条件对应连续体上的不同位置。
 
 ## 核心要素
 

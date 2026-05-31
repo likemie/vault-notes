@@ -15,11 +15,11 @@ tags:
 related_concepts:
   - "[[Examination-Oriented Education]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Construct]]"
   - "[[Multiplicity]]"
   - "[[One Country, Two Systems]]"
   - "[[Policy Borrowing]]"
   - "[[Progressive Education]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
   - "[[World Society Theory]]"
@@ -85,7 +85,7 @@ updated: '2026-05-25'
 
 
 > [!abstract] 知识观
-> > "Knowledge is contextualised, multi-disciplinary and personally and socially constructed. Learners acquire knowledge through activities such as listening to instruction, reading and modelling. They also construct knowledge through personal reflection and experiential learning, as well as through interaction, collaboration and dialogue with other people." (CDC & HKEAA, 2007, p. 83)
+> > "Knowledge is contextualised, multi-disciplinary and personally and socially constructed. Learners acquire knowledge through activities such as listening to instruction, reading and modelling. They also [[Construct]] knowledge through personal reflection and experiential learning, as well as through interaction, collaboration and dialogue with other people." (CDC & HKEAA, 2007, p. 83)
 
 > [!abstract] 2020 年版教科书内容特征
 > 2020 年版 New Horizon《香港今日》LS 教科书呈现了丰富的本地社会细节和多元身份观（Vickers, 2024, pp.148–152）：
@@ -111,7 +111,7 @@ updated: '2026-05-25'
 > [!info] 理论基础
 > - [[Policy Borrowing]] — LS 的设计参照了 IBDP 的三个要素（知识理论、延伸论文、创造行动服务），以此将自己定位为全球[[Progressive Education|进步教育]]的体现
 > - [[Cuban's Curriculum Change Theory]] — LS 的创立和废除均受政治因素驱动，但体现在 Cuban 框架的不同维度
-> - [[World Society Theory]] — LS 的全球参照表面上支撑了该理论的趋同[[Hypothesis|假设]]
+> - [[World Society Theory]] — LS 的全球参照表面上支撑了该理论的趋同假设
 
 ## 历史沿革
 

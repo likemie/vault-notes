@@ -21,7 +21,6 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Causality]]"
   - "[[Externalization]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -189,7 +188,7 @@ updated: '2026-05-28'
 > 1. **法律/组织结构的刚性。** 德国是典型案例：Kultusministerkonferenz（各州教育部长常设会议）的复杂决策程序和 Verrechtilichung（法律化/司法化）使得"新学校模式的倡导者面临刚性的法律和官僚监管"（Ertl & Phillips, 2000, p. 405，引自 p. 231）。美国则是另一种刚性：联邦政府虽然大力推崇日本教育，但教育权在各州和地方，联邦无法强制推行任何实质性借用（p. 231）。
 >
 > > [!example] 芬兰教学法与统一教材
-> > [[Hypothesis|假设]]一位校长发现芬兰的分科教学法效果很好，想在学校推广。但教育局规定必须使用统一教材、按统一进度考试。这其实就是一种"组织结构刚性"——方法本身没问题，制度结构不允许改变。
+> > 假设一位校长发现芬兰的分科教学法效果很好，想在学校推广。但教育局规定必须使用统一教材、按统一进度考试。这其实就是一种"组织结构刚性"——方法本身没问题，制度结构不允许改变。
 >
 > 2. **改革疲劳。** 系统在大变革后的"沉淀期"对进一步改革的不响应。战后西德是最典型的例子——Adenauer 总理"keine Experimente"（不做实验）的口号，实际上定义了战后近二十年的非改革期（Robinsohn & Kuhlmann，引自 Phillips, 1995, p. 76，转引自 p. 231）。
 >
@@ -327,7 +326,7 @@ updated: '2026-05-28'
 >
 > > "Externalizations 'filter' the reception and description of an international environment according to the changing problem configurations and reflection situations internal to a given system."（Schriewer & Martinez, 2004, p. 32，引自 p. 230）
 >
-> > "The 'cross-national attraction' stage ... is of particular importance because it initiates the entire policy-borrowing cycle."（p. 225）
+> > "The '[[Cross-National Attraction]]' stage ... is of particular importance because it initiates the entire policy-borrowing cycle."（p. 225）
 >
 > > "If we as comparativists do not make the connection between our research, transfer processes, and the home context explicit someone less knowledgeable will."（p. 238）
 

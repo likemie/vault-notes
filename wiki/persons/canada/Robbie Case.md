@@ -10,7 +10,6 @@ tags:
 - paradigm/constructivist
 - neo-piagetian
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Executive Function]]"
 related_theories:
   - "[[Neo-Piagetian Theories]]"
@@ -41,7 +40,7 @@ updated: '2026-05-19'
 >
 > - **四子域（Four Sub-domains）** — 每个认知领域有不同的组织方式和发展路径
 > - **子阶段递进** — 儿童须先经过其全部四个子阶段后，才进入下一个主要发展阶段
-> - 质疑[[Jean Piaget|皮亚杰]]"儿童同时仅存在于一个阶段"的[[Hypothesis|假设]]（Case, 1992）
+> - 质疑[[Jean Piaget|皮亚杰]]"儿童同时仅存在于一个阶段"的假设（Case, 1992）
 
 ## 测量方法
 

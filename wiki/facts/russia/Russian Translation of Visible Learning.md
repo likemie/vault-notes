@@ -47,7 +47,7 @@ updated: '2026-05-18'
 ## 关键文件／声明
 
 > [!quote] 关键文件／声明
-> - Hattie, J. (2017). *Vidimoe obuchenie* [Visible Learning]. Moscow: Natsional'noe obrazovanie. 496 p. — 俄文译本
+> - [[John Hattie|Hattie]], J. (2017). *Vidimoe obuchenie* [[Visible Learning]]. Moscow: Natsional'noe obrazovanie. 496 p. — 俄文译本
 > - Borisenko, N.A. (2018). "Barometers" of influence, or factors which have the greatest impact on learning. *Voprosy obrazovaniya=Educational Studies*, no. 1, pp. 257–265. — 正面书评
 
 ## 影响与后果

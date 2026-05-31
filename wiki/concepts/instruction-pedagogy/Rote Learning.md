@@ -13,7 +13,6 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Western Learner]]"
-  - "[[Hypothesis]]"
   - "[[Familiarization]]"
   - "[[Surface and Deep Learning]]"
   - "[[Virtue-Oriented Learning Process]]"
@@ -71,7 +70,7 @@ Li 在 Chapter 4 中系统分析了将中国学习等同于死记硬背的四个
 
 但一旦天才出现——即使经历了大量这种基础学习——西方话语习惯性地将天才的艰苦付出从赞美中"剪辑"掉（但在东亚，不会）（Li, 2012, p.137）。
 
-**谬误三：[[Hypothesis|假设]]观察到的行为不会改变**
+**谬误三：假设观察到的行为不会改变**
 当[[Chinese Learner|中国学习者]]处于[[Familiarization|熟悉化]]阶段时，他们的行为确实充满了重复和记忆。但几天后，同一个学习者可能能够解释一首诗的含义和词句组合方式——这是一种理解和"新见"。几周后可能学会了多种诗歌形式并加以比较。学期末可能已经能自行创作诗歌。观察者取某一天看到的初期现象，错误地假定学习者将永远是"永久的重复机器和记忆机器人"——不仅对当前技能如此，而且对所有学习、终生如此（Li, 2012, pp.137-138）。
 
 **谬误四：假设理解必须即时展示**
@@ -119,7 +118,7 @@ Marton 的团队使用[[Phenomenology|现象学]]方法（phenomenological metho
 ## 概念辨析
 
 > [!example]
-> - vs [[Surface and Deep Learning]] — 表层学习与深层学习的二元对立起源于西方教育心理学，隐含[[Hypothesis|假设]]是对立关系。[[Chinese Learner|中国学习者]]的案例挑战了这种对立假设，表明记忆和深层学习可以构成一个递进的过程
+> - vs [[Surface and Deep Learning]] — 表层学习与深层学习的二元对立起源于西方教育心理学，隐含假设是对立关系。[[Chinese Learner|中国学习者]]的案例挑战了这种对立假设，表明记忆和深层学习可以构成一个递进的过程
 > - vs [[Paradox of the Chinese Learner]] — 中国学习者悖论是对这一争议的整体命名：即"被动、死记硬背"的学习方式如何产出卓越学术成就的矛盾。本条目的焦点是其中一个特定维度——记忆与理解之间的关系
 > - vs [[Familiarization]] — 熟悉化是中国学习者在[[Virtue-Oriented Learning Process|美德导向学习过程]]中的第一步，目的正是建立初始记忆。熟悉化本身不追求也不期待深度理解，而是在后续练习和温故知新中再发展理解
 > - vs [[Refined Mastery]] — 精深掌握是整个记忆-练习-理解过程的终点。如果熟悉化和练习属于"入道"，精深就是"出道"——在扎实基础上超越模仿达到自觉风格

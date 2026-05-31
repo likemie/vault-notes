@@ -99,7 +99,7 @@ updated: '2026-05-18'
 >
 > > "The thesis is that powerful scientific and political adherents of learning cannot see what they cannot see—neither when they see what they (think they) see, nor when they do not see what they do not (want to) see."（Larsen, 2019, p.1）
 >
-> > "The purpose of education is much more demanding and challenging than enhancing visible learning processes and results."（Larsen, 2019, p.10）
+> > "The purpose of education is much more demanding and challenging than enhancing [[Visible Learning]] processes and results."（Larsen, 2019, p.10）
 >
 > > "What goes on in the brain can never be directly depicted in the visible learning paradigm. Thinking is more than learning and learning is more than visible learning."（Larsen, 2019, p.6）
 

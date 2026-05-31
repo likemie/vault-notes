@@ -12,6 +12,7 @@ tags:
   - survey
   - data-collection
 related_concepts:
+  - "[[Research Problem]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -39,7 +40,7 @@ updated: 2026-05-30
 ## 研究程序
 
 > [!example]
-> - 确定研究问题和目标总体。
+> - 确定[[Research Problem|研究问题]]和目标总体。
 > - 选定抽样策略（概率抽样或非概率抽样），建立抽样框架。
 > - 设计数据收集工具（标准化问卷或结构化访谈提纲），关注问题的信度和效度。
 > - 从总体中抽取样本并收集数据。

@@ -12,6 +12,7 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Mencius]]"
+  - "[[Confucius]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -62,7 +63,7 @@ updated: 2026-05-25
 > "以无厚入有间，恢恢乎其于游刃必有余地矣" — 出自《庄子·养生主》，"庖丁解牛"（Li, 2012, p.135引述）
 
 > [!quote]
-> "知者不言，言者不知" — 老子（Lao Tzu）的名言。Li指出庄子与老子在这一点上与孔子一致，都认为真正的智慧远大于言说（Li, 2012, p.53）。庄子在其著作中同样表达了对话语表达局限性的深刻认识。
+> "知者不言，言者不知" — 老子（Lao Tzu）的名言。Li指出庄子与老子在这一点上与[[Confucius|孔子]]一致，都认为真正的智慧远大于言说（Li, 2012, p.53）。庄子在其著作中同样表达了对话语表达局限性的深刻认识。
 
 ## 来源
 

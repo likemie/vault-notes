@@ -7,6 +7,7 @@ tags: [method/research-ethics, theme/research-procedure]
 related_concepts:
   - "[[Research Ethics]]"
   - "[[Institutional Review Board]]"
+  - "[[Purpose Statement]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -38,7 +39,7 @@ updated: 2026-05-31
 
 1. **研究者身份**：明确说明谁在开展这项研究
 2. **资助机构身份**：说明研究的资助方或隶属机构
-3. **研究目的**：用通俗语言说明研究的总体目标
+3. **[[Purpose Statement|研究目的]]**：用通俗语言说明研究的总体目标
 4. **参与收益**：说明参与者可以从研究中获得什么
 5. **参与程度和类型**：说明参与者需要做什么、花多少时间
 6. **潜在风险声明**：如实告知可能的风险
@@ -54,7 +55,7 @@ updated: 2026-05-31
 
 - 在邀请函中附上资助方名称，以充分披露研究背景
 - 不强求参与者签署，告知参与者有权拒绝签署
-- 在数据收集开始时再次提醒参与者研究目的，防止参与者产生被欺骗感
+- 在数据收集开始时再次提醒参与者[[Purpose Statement|研究目的]]，防止参与者产生被欺骗感
 - 对于弱势群体（如儿童），需同时获得监护人的同意和儿童本人的同意（assent）
 - 对原住民群体，须联系部落首领，让他们参与研究的各个阶段，并尊重部落文化和章程
 

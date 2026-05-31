@@ -192,10 +192,10 @@ updated: 2026-05-26
 ## 关键引用
 
 > [!quote]
-> "Peidu, the school choice in rural China, is also a stratified practice along class lines, similar to school choice in international contexts."（Teng & Wang, 2025, p.313）
+> "[[Peidu]], the [[School Choice]] in rural China, is also a stratified practice along class lines, similar to school choice in international contexts."（Teng & Wang, 2025, p.313）
 
 > [!quote]
-> "The administrative discrimination based on hukou is increasingly and implicitly being replaced by market discrimination based on family socioeconomic standings."（Teng & Wang, 2025, p.313）
+> "The administrative discrimination based on [[Hukou System|hukou]] is increasingly and implicitly being replaced by market discrimination based on family socioeconomic standings."（Teng & Wang, 2025, p.313）
 
 > [!quote]
 > "The departure of rural children subjects village schools to decreased funding, accelerated teacher turnover, worsening academic performance, and an ultimately increased risk of school closures."（Teng & Wang, 2025, pp.313–314）

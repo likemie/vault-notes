@@ -61,7 +61,7 @@ updated: '2026-05-18'
 > **跨越传统政策边界**：鼓励就业、学校教育和职业教育与培训（VET）不再作为独立运作的部门，而是共同构成一个"教育培训体系"。技能形成需要教育培训和积极劳动力市场政策的双重支撑（Rambla, 2022, p.170）。
 
 > [!quote]
-> "Adult learning can make a significant contribution to meeting the Europe 2020 goals of reducing early leaving from education and training to below 10%."（European Council, 2011b，引用于 Rambla, 2022, p.171）
+> "Adult learning can make a significant contribution to meeting the [[Europe 2020 Strategy|Europe 2020]] goals of reducing early leaving from education and training to below 10%."（European Council, 2011b，引用于 Rambla, 2022, p.171）
 
 ### 共同的变革理论
 

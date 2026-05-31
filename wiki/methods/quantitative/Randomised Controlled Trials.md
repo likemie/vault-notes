@@ -15,9 +15,9 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
+  - "[[Research Problem]]"
   - "[[Tracking]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -71,7 +71,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> RCT 隐含经验主义和实证主义认识论：[[Hypothesis|假设]]通过人为创造封闭系统（稳定干预以外的所有[[Variable|变量]]），可以隔离单一干预的因果效应。这一假设在教育等开放系统中受到[[Critical Realism|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的因果过程（Wrigley & McCusker, 2019, pp. 112–115）。
+> RCT 隐含经验主义和实证主义认识论：假设通过人为创造封闭系统（稳定干预以外的所有[[Variable|变量]]），可以隔离单一干预的因果效应。这一假设在教育等开放系统中受到[[Critical Realism|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的因果过程（Wrigley & McCusker, 2019, pp. 112–115）。
 >
 > Wiliam (2019, p.9) 从效度理论角度补充了此批判：继承 Cronbach (1971) 和 Messick (1989)，效度是推论的属性而非实验或测试的属性。这意味着即使是设计良好的 RCT，其推论的效度也取决于排除替代解释的能力——而这种能力随着新证据的涌现而持续演变。
 
@@ -88,13 +88,13 @@ updated: '2026-05-18'
 
 > [!success] 适用场景
 > - 在医学领域（来源领域），RCT 适合在已有充分理论理解治疗机制的前提下评估特定治疗方案的效果
-> - 在教育领域，当研究问题是关于可被离散定义的"干预"、且情境相对可控时，RCT 可能提供有用的比较信息
+> - 在教育领域，当[[Research Problem|研究问题]]是关于可被离散定义的"干预"、且情境相对可控时，RCT 可能提供有用的比较信息
 > - 即使批判者也承认 RCT "可以挑战既有的专业习惯"和"突出替代方案"（Wrigley & McCusker, 2019, p. 123）
 
 ## 局限性
 
 > [!warning] 认识论与本体论基础问题
-> 以下批评从根本层面质疑 RCT [[Hypothesis|假设]]与教育现实之间的结构性不匹配。
+> 以下批评从根本层面质疑 RCT 假设与教育现实之间的结构性不匹配。
 >
 > #### 教育作为"难以完成的科学"（Berliner, 2002; Møller, 2017）
 >
@@ -288,7 +288,7 @@ updated: '2026-05-18'
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Critical Realism]] — 提供对 RCT 经验主义[[Hypothesis|假设]]的最系统哲学批判：开放系统、涌现性、三层本体论
+> - [[Critical Realism]] — 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、涌现性、三层本体论
 > - [[Validity as Inferences]] — Wiliam (2019) 运用 Cronbach/Messick 的效度理论论证：即使 RCT 设计良好，其推论的效度也永远是临时且局部的
 
 ## 相关方法
@@ -296,7 +296,7 @@ updated: '2026-05-18'
 
 - [[Intervention Research]] — RCT 是干预研究的随机分配版本；Brady et al. (2023) 将二者区分编码，以显示"有自[[Variable|变量]]操纵"和"有随机分配"不是同一层证据要求（Brady et al., 2023, p.4）。
 - [[Non-intervention Research]] — 非干预研究不操纵自变量；Brady et al. (2023) 以 RCT/[[Experimental Research|实验研究]]作为对照，批评非干预研究中强[[Recommendations for Practice|实践建议]]的因果证据不足（Brady et al., 2023, pp.3-4, 9）。
-- [[Observational and Correlational Research]] — 观察/相关研究可生成干预[[Hypothesis|假设]]，但没有随机分配和变量操纵；Brady et al. (2023) 的趋势数据表明，此类研究中的 RFP 比例持续上升（Brady et al., 2023, pp.6-7）。
+- [[Observational and Correlational Research]] — 观察/相关研究可生成干预假设，但没有随机分配和变量操纵；Brady et al. (2023) 的趋势数据表明，此类研究中的 RFP 比例持续上升（Brady et al., 2023, pp.6-7）。
 
 ## 使用此方法的研究
 

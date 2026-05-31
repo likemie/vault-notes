@@ -75,9 +75,9 @@ updated: 2026-05-18
 ## 关键引用
 
 > [!quote] 关键引用
-> > "what we are more likely to experience, both as consumers and generators of research is 'parallel monologues'"（p.774）
+> > "what we are more likely to experience, both as consumers and generators of research is '[[Parallel Monologues]]'"（p.774）
 >
-> > "Hattie's work is Taylorism for a new time."（p.778）
+> > "[[John Hattie|Hattie]]'s work is Taylorism for a new time."（p.778）
 >
 > > "It is not about simply producing a counter argument, but engaging with the ideas of another and where necessary refuting them. Not imposing one's view of the world on another, but engage on their terms – testing out claims for robustness and internal coherence and not alignment with one's own normative position."（p.779）
 >

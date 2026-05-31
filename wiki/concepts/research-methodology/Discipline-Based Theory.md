@@ -11,6 +11,7 @@ tags:
   - paradigm/pragmatic
 related_concepts:
   - "[[Variable]]"
+  - "[[Construct]]"
   - "[[Self-control]]"
   - "[[Purpose Statement]]"
   - "[[Social Justice Theory]]"
@@ -34,7 +35,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 学科理论（discipline-based theory）是[[Mixed Method and Multi-method Research|混合方法研究]]中第一种主要的理论运用类型，指从社会科学、行为科学或健康科学文献中提取的理论。这类理论通常识别[[Variable|变量]]或构念，将它们相互关联，并形成和解释对个人和组织的预期结果（Creswell & Creswell, 2022, p.69）。学科理论的例子包括组织理论、领导力理论、采纳理论、[[Attribution Theory|归因理论]]和健康促进理论等。
+> 学科理论（discipline-based theory）是[[Mixed Method and Multi-method Research|混合方法研究]]中第一种主要的理论运用类型，指从社会科学、行为科学或健康科学文献中提取的理论。这类理论通常识别[[Variable|变量]]或[[Construct|构念]]，将它们相互关联，并形成和解释对个人和组织的预期结果（Creswell & Creswell, 2022, p.69）。学科理论的例子包括组织理论、领导力理论、采纳理论、[[Attribution Theory|归因理论]]和健康促进理论等。
 
 ## 在混合方法研究中的角色
 
@@ -67,7 +68,7 @@ updated: 2026-05-31
 ## 理论基础
 
 > [!tip]
-> [[Mixed Method and Multi-method Research|混合方法研究]]中的理论可以具体指导研究的多个方面。以 Evans et al. (2011) 在护理领域使用生命历程视角（Life Course Perspective）的研究为例：理论通过视觉模型呈现；从理论中提取构念（[[Variable|变量]]）并纳入研究目标；理论结构指导质性问题和量化工具；理论提供质性数据分析的"起始编码和主题"以及量化数据分析的假设关系；理论贡献了有用的发现类型学（Creswell & Creswell, 2022, pp.71–72）。
+> [[Mixed Method and Multi-method Research|混合方法研究]]中的理论可以具体指导研究的多个方面。以 Evans et al. (2011) 在护理领域使用生命历程视角（Life Course Perspective）的研究为例：理论通过视觉模型呈现；从理论中提取[[Construct|构念]]（[[Variable|变量]]）并纳入研究目标；理论结构指导质性问题和量化工具；理论提供质性数据分析的"起始编码和主题"以及量化数据分析的假设关系；理论贡献了有用的发现类型学（Creswell & Creswell, 2022, pp.71–72）。
 
 ## 来源
 

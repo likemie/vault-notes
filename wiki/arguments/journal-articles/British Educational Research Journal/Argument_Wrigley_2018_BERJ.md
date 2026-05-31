@@ -26,6 +26,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Feedback]]"
+  - "[[Bildung]]"
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -156,9 +157,9 @@ updated: '2026-05-18'
 >
 > > "At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning." (Pawson, 2006: 42–43, 引自 Wrigley, p. 13)
 >
-> > "The result of a meta-analysis should never be an average; it should be a graph." (Gene Glass, 引自 Wrigley, p. 9)
+> > "The result of a [[Meta-analysis]] should never be an average; it should be a graph." (Gene Glass, 引自 Wrigley, p. 9)
 >
-> > "The attempt to make learning visible eclipses older understandings of education as Bildung and pedagogy (both words carrying the sense of human formation)." (p. 16)
+> > "The attempt to make learning visible eclipses older understandings of education as [[Bildung]] and pedagogy (both words carrying the sense of human formation)." (p. 16)
 
 ## 局限性与批评
 

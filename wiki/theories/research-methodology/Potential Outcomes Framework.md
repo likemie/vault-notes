@@ -11,7 +11,6 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Stable Unit Treatment Value Assumption]]"
 related_theories: []
@@ -32,7 +31,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 潜在结果框架（Potential Outcomes Framework）是[[Causality|因果推断]]的核心概念框架，其关键思想是：**因果效应需要被概念化为[[Hypothesis|假设]]性的比较**，而非直接可观测的量。因果效应通过比较同一主体在两种条件下的潜在结果来定义——一个是接受处理条件下的结果，另一个是接受对照条件下的结果。这两个结果都是假设性的，在分析任何数据之前被仔细考虑（Berk, 2011, p.193）。
+> 潜在结果框架（Potential Outcomes Framework）是[[Causality|因果推断]]的核心概念框架，其关键思想是：**因果效应需要被概念化为假设性的比较**，而非直接可观测的量。因果效应通过比较同一主体在两种条件下的潜在结果来定义——一个是接受处理条件下的结果，另一个是接受对照条件下的结果。这两个结果都是假设性的，在分析任何数据之前被仔细考虑（Berk, 2011, p.193）。
 >
 > > "One imagines what the outcome would be for an inmate under the treatment condition, and what the outcome would be for that same inmate under the comparison condition. Both outcomes are hypothetical. They are carefully considered before any data are analyzed." (Berk, 2011, p.193)
 >
@@ -68,7 +67,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 稳定单位处理价值假设（[[Stable Unit Treatment Value Assumption|SUTVA]]）
-> 潜在结果框架的一个关键假定是稳定单位处理价值[[Hypothesis|假设]]（SUTVA），其违反——即主体间干扰（subject interference）——会导致因果效应不再被唯一地定义（详见 [[Stable Unit Treatment Value Assumption]]）。
+> 潜在结果框架的一个关键假定是稳定单位处理价值假设（SUTVA），其违反——即主体间干扰（subject interference）——会导致因果效应不再被唯一地定义（详见 [[Stable Unit Treatment Value Assumption]]）。
 
 
 > [!abstract] 在评估研究中的传播
@@ -77,7 +76,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Causal Modeling]] — 潜在结果框架为因果效应提供定义性基础；因果建模（SEM）尝试通过模型[[Hypothesis|假设]]从观察数据中估计因果参数，但 Berk (2011) 认为后者存在严重的过度依赖不可检验假设的问题
+> - vs [[Causal Modeling]] — 潜在结果框架为因果效应提供定义性基础；因果建模（SEM）尝试通过模型假设从观察数据中估计因果参数，但 Berk (2011) 认为后者存在严重的过度依赖不可检验假设的问题
 > - vs [[Randomised Controlled Trials]] — RCT 是估计因果效应的一种方法；潜在结果框架为理解 RCT 为何有效（随机分配使潜在结果独立于处理分配）提供了概念基础
 
 ## 理论基础

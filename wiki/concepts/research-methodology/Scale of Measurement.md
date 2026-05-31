@@ -12,6 +12,7 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Variable]]"
+  - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -69,7 +70,7 @@ updated: 2026-05-31
 ## 相关概念
 
 - [[Variable]] — 变量通过测量尺度被操作化和量化
-- [[Quantitative Research]] — 量化研究依赖测量尺度将理论构念转化为可分析数据
+- [[Quantitative Research]] — 量化研究依赖测量尺度将[[Construct|理论构念]]转化为可分析数据
 
 ## 来源
 

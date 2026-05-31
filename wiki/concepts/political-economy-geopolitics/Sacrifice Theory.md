@@ -14,7 +14,6 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Necropolitics]]"
   - "[[Retrotopia]]"
-  - "[[Hypothesis]]"
   - "[[Pragmatic Paradigm]]"
 related_theories: []
 related_methods: []
@@ -78,7 +77,7 @@ updated: 2026-05-26
 
 > [!warning]
 > - 牺牲理论可能存在概念弹性（conceptual stretching）的问题：从蒙古族精英接受"北疆楷模"表彰（策略性服从）到 Surnaa 的悲剧性自杀（终极反抗），很难说这两者属于同一"牺牲"逻辑。前者是权力结构中的幸存策略，后者是无路可走的终极反抗（Bulag, 2024, p.111）。
-> - 牺牲理论[[Hypothesis|假设]]了一种高度意识形态化、由上而下的国家工程，但可能低估了少数民族在日常生活中对普通话教育和融入主流社会的主动需求——即[[Pragmatic Paradigm|实用主义]]考量而非牺牲逻辑。
+> - 牺牲理论假设了一种高度意识形态化、由上而下的国家工程，但可能低估了少数民族在日常生活中对普通话教育和融入主流社会的主动需求——即[[Pragmatic Paradigm|实用主义]]考量而非牺牲逻辑。
 
 
 ## 来源

@@ -12,7 +12,6 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Evidence-Based Education]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Non-intervention Research]]"
@@ -69,7 +68,7 @@ updated: '2026-05-18'
 ## 相关方法
 
 
-- [[Intervention Research]] — 更适合承载强 RFP 的方法环节，因为其通过操纵自[[Variable|变量]]检验实践[[Hypothesis|假设]]（Brady et al., 2023, pp.2-4）。
+- [[Intervention Research]] — 更适合承载强 RFP 的方法环节，因为其通过操纵自[[Variable|变量]]检验实践假设（Brady et al., 2023, pp.2-4）。
 - [[Non-intervention Research]] — Brady et al. (2023) 关注的风险对象：这类研究常提供有价值的描述和线索，但 2020 年约三分之二文章仍提出 RFP（Brady et al., 2023, pp.6-7）。
 - [[Observational and Correlational Research]] — 非干预研究中 RFP 增长最可比的长期序列：2000 年 41%、2010 年 46%、2020 年 66%（Brady et al., 2023, pp.6-7）。
 - [[Randomised Controlled Trials]] — 在多数科学领域，强实践建议通常需要严格随机试验或累积实验证据支撑；Brady et al. (2023) 将其作为非干预 RFP 的对照基准（Brady et al., 2023, pp.3-4）。

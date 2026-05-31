@@ -128,7 +128,7 @@ updated: 2026-05-19
 ## 格言／关键表述
 
 > [!quote]
-> "The geopolitics of knowledge was organized around the diversification, through history, of the colonial and the imperial differences." (Mignolo, 2002, p.59)
+> "The [[Geopolitics of Knowledge]] was organized around the diversification, through history, of the colonial and the imperial differences." (Mignolo, 2002, p.59)
 
 > "将社会科学去殖民化——而非仅仅是开放——因为开放知识只在维持其全球学术事业的地位。"（Mignolo, 2002, p.64, 转引自 Parreira do Amaral, 2022, p.38）
 

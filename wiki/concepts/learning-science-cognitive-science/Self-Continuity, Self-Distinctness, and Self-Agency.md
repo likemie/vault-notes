@@ -15,6 +15,7 @@ tags:
   - theme/cultural-transmission
   - theme/self-development
 related_concepts:
+  - "[[Pride in Learning]]"
   - "[[Learning Virtues]]"
   - "[[Causality]]"
 related_theories:
@@ -46,7 +47,7 @@ updated: 2026-05-25
 > - **自我能动性（self-agency）**：感知到自己是自身思想、行动、效能和成就的原因的需要。一种文化所擅长的领域为自我能动性提供最相关的反馈——儿童被教授这些技能，进而延续该文化在这些领域的卓越表现（Li, 2012, pp.338-339）。
 
 > [!quote]
-> "这三个由文化塑造的自我的核心成分，共同产生了个人对文化／民族的归属感与自豪感。"（Li, 2012, p.339）
+> "这三个由文化塑造的自我的核心成分，共同产生了个人对文化／民族的归属感与[[Pride in Learning|自豪]]感。"（Li, 2012, p.339）
 
 ---
 

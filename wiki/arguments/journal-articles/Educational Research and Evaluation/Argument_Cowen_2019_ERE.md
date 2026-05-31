@@ -23,8 +23,8 @@ related_concepts:
   - "[[Opportunist Mode]]"
   - "[[Variable]]"
   - "[[Champ]]"
-  - "[[Hypothesis]]"
   - "[[Effect Size]]"
+  - "[[Research Problem]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
@@ -93,7 +93,7 @@ updated: '2026-05-18'
 > 2. **评估专家的研究证据** — 如何判断哪条证据可信、适用
 >
 > [[Evidence-Based Education|EBE]] 的 RCT/系统综述机制提供了**一个统一的解决方案**：
-> - 研究方法要求事先声明[[Hypothesis|假设]]、结果指标、检索协议 → 对主权者**透明**
+> - 研究方法要求事先声明假设、结果指标、检索协议 → 对主权者**透明**
 > - 主权者无需深入理解教育研究或做出实质判断 → 只需要求 "what works"
 > - 研究结果以简化的[[Effect Size|效应量]]呈现 → 可直接转化为问责反馈
 >
@@ -131,7 +131,7 @@ updated: '2026-05-18'
 >
 > 4. **结构性盲区**：EBE 方法论将系统层面问题（资源配置、政策环境、治理结构）排除在研究议程之外，同时声称追求教育公平
 >
-> 5. **改革方向**：切断 EBE 与行政问责机制的捆绑；拥抱方法多元论；让研究问题反映教师而非官僚的需求
+> 5. **改革方向**：切断 EBE 与行政问责机制的捆绑；拥抱方法多元论；让[[Research Problem|研究问题]]反映教师而非官僚的需求
 
 ## 关键引用
 
@@ -142,12 +142,12 @@ updated: '2026-05-18'
 >
 > > "It's not what you spend, it's the way that you spend it …that's what gets results.' This avoids an important conclusion: Resources matter. More funding going into schools leads to predictably improved results." (pp. 13–14)
 >
-> > "EBE could become substantially more useful if this link with administrative accountability was severed, or at least loosened, along with the reliance on experimental evidence." (p. 11)
+> > "[[Evidence-Based Education|EBE]] could become substantially more useful if this link with administrative accountability was severed, or at least loosened, along with the reliance on experimental evidence." (p. 11)
 
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> ### 行为主体的动机[[Hypothesis|假设]]未充分展开
+> ### 行为主体的动机假设未充分展开
 >
 > **批评内容**：Cowen 明确搁置了自利/[[Opportunist Mode|机会主义]]问题（区别于 Niskanen 的预算最大化模型），聚焦于纯粹认知挑战——"即使所有官僚真诚追求共同善，知识问题依然存在"。但批评者指出，真实官僚系统中认知约束与激励冲突并存且交互——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性呈现有利数据）。
 >

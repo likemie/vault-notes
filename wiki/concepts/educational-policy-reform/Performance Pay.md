@@ -11,7 +11,6 @@ tags:
 - subject/curriculum
 - level/k12
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Effective Teaching]]"
   - "[[Variable]]"
 related_theories: []
@@ -32,7 +31,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 绩效工资（亦称 merit pay、payment by results）是将教师薪酬与其测量的教学表现挂钩的制度安排。其核心[[Hypothesis|假设]]是经济激励能够改善教学质量和学生学习成果（Snook et al., 2009, p.103）。
+> 绩效工资（亦称 merit pay、payment by results）是将教师薪酬与其测量的教学表现挂钩的制度安排。其核心假设是经济激励能够改善教学质量和学生学习成果（Snook et al., 2009, p.103）。
 
 ## 历史沿革
 

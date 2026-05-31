@@ -10,7 +10,6 @@ tags:
 - teaching-learning
 related_concepts:
   - "[[Causality]]"
-  - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Effect Size]]"
   - "[[School Leadership]]"
@@ -51,7 +50,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs 因果教学模型（causal teaching model） — 因果模型[[Hypothesis|假设]]输入→输出的线性关系；结构耦合强调教学与学习之间的非因果、非线性的系统间关系
+> - vs 因果教学模型（causal teaching model） — 因果模型假设输入→输出的线性关系；结构耦合强调教学与学习之间的非因果、非线性的系统间关系
 > - vs [[Professional Judgment]] — 结构耦合从本体论角度描述教学与学习的关系性质；专业判断从实践角度描述教师在这种关系中的行动方式
 
 ## 理论基础

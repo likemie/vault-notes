@@ -17,12 +17,13 @@ tags:
 related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Variable]]"
   - "[[Humility in Learning]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Purpose Statement]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> 未采用特定理论框架，继续以教育哲学和研究方法论视角进行批判性回应。重申 [[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]知识观为基线立场：证据不提供行动规则，只为明智的问题解决提供[[Hypothesis|假设]]（[[John Hattie|Hattie]], 2009, p.247, quoted p.97）。
+> 未采用特定理论框架，继续以教育哲学和研究方法论视角进行批判性回应。重申 [[John Dewey|Dewey]] 的[[Pragmatic Paradigm|实用主义]]知识观为基线立场：证据不提供行动规则，只为明智的问题解决提供假设（[[John Hattie|Hattie]], 2009, p.247, quoted p.97）。
 
 ## 研究方法
 
@@ -76,7 +77,7 @@ updated: '2026-05-18'
 >
 > 8. **[[Class Size|班级规模]]**：Hattie 以"平均化的优点在于极端发现被更大样本研究调和"为元分析辩护。Snook et al. 指出这是真正的分歧——他们更信任大规模、良好设计、多年的研究（如 Murnane & Levy, 1996），而非来自多个可能质量差的研究的"平均值"。在 Murnane & Levy 研究中，若所有学校平均将得到"小的负面结果"，但做出额外教学变革的两所学校出现了显著正面结果（p.96）
 >
-> 9. **元分析在教育中的根本问题**：该技术起源于医学——医学概念经过仔细界定、研究设计严谨（通常为实验性）。教育中被研究的变量往往概念化差、研究不够严格。"如何为研究目的清晰区分'以教师为中心'和'以学生为中心'的课堂，在比较它们时，如何在一个嘈杂繁忙、可能有 30+ 参与者的课堂中控制所有变量？"（p.96）。Graham Nuthall (2007) 经过四十年课堂细粒度研究后得出结论："虽然有大量已发表的教育研究报告，但在识别那些对课堂教学有值得信赖的内容的研究时，你需要非常有选择性"（p.16, quoted p.97）
+> 9. **元分析在教育中的根本问题**：该技术起源于医学——医学概念经过仔细界定、研究设计严谨（通常为实验性）。教育中被研究的变量往往概念化差、研究不够严格。"如何为[[Purpose Statement|研究目的]]清晰区分'以教师为中心'和'以学生为中心'的课堂，在比较它们时，如何在一个嘈杂繁忙、可能有 30+ 参与者的课堂中控制所有变量？"（p.96）。Graham Nuthall (2007) 经过四十年课堂细粒度研究后得出结论："虽然有大量已发表的教育研究报告，但在识别那些对课堂教学有值得信赖的内容的研究时，你需要非常有选择性"（p.16, quoted p.97）
 
 ## 主要发现（总结立场）
 
@@ -90,9 +91,9 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The methodology involved in meta-analyses often obscures rather than illuminates what is needed for good policy decisions. The grouping of various factors into one 'effect size' often hides the complexity of the issues." (p.97)
+> > "The methodology involved in meta-analyses often obscures rather than illuminates what is needed for good policy decisions. The grouping of various factors into one '[[Effect Size]]' often hides the complexity of the issues." (p.97)
 >
-> > "Evidence does not supply us with rules for action but only with hypotheses for intelligent problem solving, and for making inquiries about our ends in education." (Dewey, quoted in Hattie, 2009, p.247; quoted p.97)
+> > "Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education." ([[John Dewey|Dewey]], quoted in [[John Hattie|Hattie]], 2009, p.247; quoted p.97)
 >
 > > "Although there are many published reports of educational research, you need to be very selective in identifying those that have something trustworthy to say about classroom teaching and learning." (Nuthall, 2007, p.16, quoted p.97)
 >

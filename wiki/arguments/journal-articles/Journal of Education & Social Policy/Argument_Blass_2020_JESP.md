@@ -15,7 +15,6 @@ tags:
 - stance/critique
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"
   - "[[Literature Review]]"
@@ -46,7 +45,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> Blass 提出一个五要素概念框架来评估学术研究对政策制定的贡献：**方法论（Methodology）**、**情境（Context）**、**[[Hypothesis|假设]]（Assumptions）**、**领导力（Leadership）**、**时效性（Currency）**。这五个要素如同烘焙蛋糕：需要厨房（情境）、食材（假设）、厨师（领导力）和食材保质期（时效性），仅有食谱（方法论）是不够的（Blass, 2020, p.92）。
+> Blass 提出一个五要素概念框架来评估学术研究对政策制定的贡献：**方法论（Methodology）**、**情境（Context）**、**假设（Assumptions）**、**领导力（Leadership）**、**时效性（Currency）**。这五个要素如同烘焙蛋糕：需要厨房（情境）、食材（假设）、厨师（领导力）和食材保质期（时效性），仅有食谱（方法论）是不够的（Blass, 2020, p.92）。
 
 ## 研究方法
 
@@ -71,7 +70,7 @@ updated: '2026-05-18'
 > - Hattie 分析中的大多数论文来自美国，部分为未发表的美国大学博士论文，少量来自加拿大。美国学校系统、课程和规定与澳大利亚差异很大（Blass, 2020, p.93）
 > - PBL 在医学教育中的研究表明知识覆盖范围更窄但学习深度更大——如果目标是深度学习则 PBL 合适，目标是广泛[[Surface and Deep Learning|表层学习]]则不合适。简单的效应量评级和一般排名不允许考虑不同情境或学习目标（Blass, 2020, p.93）
 >
-> ### 3. [[Hypothesis|假设]]
+> ### 3. 假设
 >
 > Blass 识别了实践者简单接受 VL 结果时所做出的四项隐含假设（Blass, 2020, pp.93–94）：
 >
@@ -98,17 +97,17 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > - VL 在澳大利亚被用作"不改变的好借口"，以来自上世纪的研究证据为当前课堂行为辩护——但这很可能不是 [[John Hattie|Hattie]] 的本意（Blass, 2020, p.97）
 > - 2020 年 COVID 封锁会议中 Hattie 的演讲表明他的立场已显著演变：他谈到课程差异不大（70% 教师提问仅需三词或更少回答）、询问"我们真的需要学生每天坐在教师面前吗？"、承认失败是最好的朋友但仅低风险时如此、指出"通过失败学习是 [[Problem-Based Learning|PBL]] 的一部分、通过探究式学习恢复"。他现在倡导的学习模型恰恰最适合 PBL 和探究式教学法（Blass, 2020, p.96）
-> - **五项评估框架**可推广至任何政策情境：在采纳学术研究以制定政策之前，须评估其方法论、情境、[[Hypothesis|假设]]、领导力和时效性（Blass, 2020, p.96）
+> - **五项评估框架**可推广至任何政策情境：在采纳学术研究以制定政策之前，须评估其方法论、情境、假设、领导力和时效性（Blass, 2020, p.96）
 > - 澳大利亚教师培训奖励 regulation 和 standardisation 而非创新；教师注册委员会要求持续专业发展时数而非创新发展时数——"想象一下如果每位教师每年必须有 5 小时创新实践的证据，现在的课堂教育可能已经在哪里了！"（Blass, 2020, p.91）
 
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Visible Learning is a fantastic study; it is a remarkable feat of statistical analysis; and it is a good map of how teaching practices impacted on learning outcomes around the 1980-1990s, before the use and possibility of technology in the classroom became all but ubiquitous." (Blass, 2020, p.96)
+> > "[[Visible Learning]] is a fantastic study; it is a remarkable feat of statistical analysis; and it is a good map of how teaching practices impacted on learning outcomes around the 1980-1990s, before the use and possibility of technology in the classroom became all but ubiquitous." (Blass, 2020, p.96)
 >
 > > "Would you want a surgeon looking at books from 1990 to learn about the use of robotics in surgery? No! Would you want an oncologist to look up the latest cancer treatments from the 1980's? No! So why are you allowing teaching outcomes from this time to influence what you are doing today in the classroom?" (Blass, 2020, p.95)
 >
-> > "Australia has lost its way in education and Hattie is the fallback that is used to justify this position. But I doubt this was Hattie's intent." (Blass, 2020, p.97)
+> > "Australia has lost its way in education and [[John Hattie|Hattie]] is the fallback that is used to justify this position. But I doubt this was Hattie's intent." (Blass, 2020, p.97)
 >
 > > "Being the subject matter expert is no longer the role of the teacher; teaching passion for a subject and learning is." (Blass, 2020, p.95)
 

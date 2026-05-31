@@ -16,7 +16,6 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
   - "[[School Effectiveness]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Whole Language]]"
   - "[[Professional Judgment]]"
@@ -121,7 +120,7 @@ updated: '2026-05-23'
 
 **$d = \frac{M_{\text{干预组}} - M_{\text{对照组}}}{SD_{pooled}}$**
 
-其中 SD_pooled 为两组合并标准差。这一标准化的目的在于消除不同测量工具的量表差异，使跨研究比较成为可能。但 Simpson（2017, 2018）论证了这一[[Hypothesis|假设]]的问题性——效应量实际上是一个反映试验设计特征的指标，而非干预有效性的纯粹测量（Wrigley & McCusker, 2019, p. 118）。
+其中 SD_pooled 为两组合并标准差。这一标准化的目的在于消除不同测量工具的量表差异，使跨研究比较成为可能。但 Simpson（2017, 2018）论证了这一假设的问题性——效应量实际上是一个反映试验设计特征的指标，而非干预有效性的纯粹测量（Wrigley & McCusker, 2019, p. 118）。
 
 从统计检验角度看，若比较的是干预前后两个分布，均值差 $\mu_1 - \mu_2$ 只有放到标准差 $\sigma$ 的尺度上才有意义，因此 $d = (\mu_1 - \mu_2) / \sigma$ 可理解为"均值移动了几个标准差"（Allerup, 2015, pp.42–43）。但 d 本身不是可直接判定[[Statistical Significance|统计显著性]]的统计量；只有乘以观测数平方根，得到 $t = d\sqrt{n}$，才接近用于检验 $\mu_1 = \mu_2$ 的 t 统计量。
 

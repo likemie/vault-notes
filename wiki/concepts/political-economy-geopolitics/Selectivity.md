@@ -12,10 +12,9 @@ tags:
 - policy-instruments
 - region/global
 related_concepts:
-  - "[[Tracking]]"
   - "[[Performance Indicators]]"
+  - "[[Tracking]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Hypothesis]]"
   - "[[Spatial Sortings]]"
   - "[[Neocorporatism]]"
   - "[[Scientization of Politics]]"
@@ -47,7 +46,7 @@ updated: '2026-05-18'
 > Jessop 的关键洞见在于：选择性不是决策者有意的偏见或偏袒，而是政策工具本身的结构性特征。在自由主义经济秩序的框架下——即 Jessop 所描述的"欧盟就业和经济政策的深层预设"——政策工具"不可避免地使决策者聚焦于某些议题而忽略其他"（Jessop, 2007; Rambla, 2022, p.166）。
 
 > [!quote]
-> "Policy instruments 'select' relevant policy issues in the arena of public debate and simultaneously induce actors to sideline other issues."（Jessop, 2007，引用于 Rambla, 2022, p.166）
+> "[[Performance Indicators|policy instruments]] 'select' relevant policy issues in the arena of public debate and simultaneously induce actors to sideline other issues."（Jessop, 2007，引用于 Rambla, 2022, p.166）
 
 ## 概念辨析
 
@@ -76,7 +75,7 @@ updated: '2026-05-18'
 
 ### 同质化效应
 
-通用政策框架将高度异质的区域纳入同一讨论范畴，忽视区域之间的根本结构性差异。尽管区域创新记分牌明确显示北欧、德语区和西大西洋区域的创新能力远高于南欧和东欧，官方的"创新生态体系"话语仍[[Hypothesis|假设]]所有区域适合同一政策框架（Rambla, 2022, p.174）。这与 [[Spatial Sortings]] 的机制相通：知识密集型资本主义系统性地将地点和人口划分为"赢家"与"输家"。
+通用政策框架将高度异质的区域纳入同一讨论范畴，忽视区域之间的根本结构性差异。尽管区域创新记分牌明确显示北欧、德语区和西大西洋区域的创新能力远高于南欧和东欧，官方的"创新生态体系"话语仍假设所有区域适合同一政策框架（Rambla, 2022, p.174）。这与 [[Spatial Sortings]] 的机制相通：知识密集型资本主义系统性地将地点和人口划分为"赢家"与"输家"。
 
 ### 就业维度优先于赋权维度
 

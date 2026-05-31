@@ -15,7 +15,6 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Atomisation of Knowledge and Skills]]"
   - "[[Evidence-Based Education]]"
-  - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
@@ -80,7 +79,7 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - **vs 标准化（Standardization）** — 标准化是复杂性化简的一种手段，但化简范畴更广，包括物理空间设计、时间框架、分组逻辑等非标准化制度
 > - **vs [[Atomisation of Knowledge and Skills]]** — 知识与技能原子化是复杂性化简在课程内容层面的表现：复杂教育目的被拆成更可管理、可测量和可比较的小单位
-> - **vs [[Evidence-Based Education]] "应用"模型** — 证据本位教育[[Hypothesis|假设]]进步来自"应用知识"；复杂性化简揭示的是"改造世界以匹配知识"
+> - **vs [[Evidence-Based Education]] "应用"模型** — 证据本位教育假设进步来自"应用知识"；复杂性化简揭示的是"改造世界以匹配知识"
 > - **vs 社会控制（Social Control）** — 复杂性化简是中性的分析概念，可以是有益的（使教育成为可能）也可以是压抑的（限制可能性），取决于权力如何行使
 
 ## 实证发现

@@ -20,6 +20,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
+  - "[[Research Problem]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -98,7 +99,7 @@ updated: '2026-05-18'
 >
 > ### 审查协议（Review Protocols）
 > 每个 WWC 审查有具体协议，明确指定（Hitchcock et al., 2015, p.461）：
-> - 需要回答的研究问题
+> - 需要回答的[[Research Problem|研究问题]]
 > - 目标人群的特征
 > - 相关的结果领域（outcome domains）
 > - 干预应被应用的场所

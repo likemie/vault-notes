@@ -19,7 +19,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Technology Infusion]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -109,7 +108,7 @@ updated: '2026-05-23'
 > - Oliver et al. (2014) 对 145 项研究的综述发现："非正式证据"（本地数据、默会知识）在超过三分之一的研究中被列为成功实施的关键（Cowen et al., 2015, p.12）
 > - Honig & Coburn (2007) 对 50+ 项研究的综述发现：学区中央办公室管理者严重依赖从业者知识和本地知识（Cowen et al., 2015, p.14）
 > - 教师访谈中几乎所有受访者都强调了本地情境因素（Cowen et al., 2015, p.27-28）
-> - Tennessee STAR 案例：参与学校系统性不同于全州平均——规模更大、非裔学生比例高出 40%（Hanushek, 1999）——忽视这一本地特征导致加州对"STAR 成功可复制"的错误[[Hypothesis|假设]]（Wiliam, 2019, p.6）
+> - Tennessee STAR 案例：参与学校系统性不同于全州平均——规模更大、非裔学生比例高出 40%（Hanushek, 1999）——忽视这一本地特征导致加州对"STAR 成功可复制"的错误假设（Wiliam, 2019, p.6）
 > - [[Students and Teachers Accessing Tomorrow]] 案例显示，同一组[[Formative Program Evaluation|形成性项目评价]]证据会因为利益相关者重视的目标不同而被解释为“进展明显”或“成就无效”；这说明本地知识也包含对地方价值排序的理解（Ross & Morrison, 2021, pp.122-123）。
 
 ## 争议与批评

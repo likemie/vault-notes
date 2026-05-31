@@ -11,6 +11,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Flow]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -35,7 +36,7 @@ updated: 2026-05-27
 在[[University-Industry Collaboration|产学合作]]的语境中，实践教授是产业向大学知识流动的重要渠道——与传统的学术教授不同，实践教授的知识基础来自产业实践而非学术研究，其聘任不依赖学术发表，而是依赖行业成就。
 
 > [!quote]
-> "Industry participation in courses as part-time lecturers or full-time professors of practice provide a knowledge flow from industry to university."（Boccanfuso & Hall, 2025, p.58）
+> "Industry participation in courses as part-time lecturers or full-time professors of practice provide a knowledge [[Flow]] from industry to university."（Boccanfuso & Hall, 2025, p.58）
 
 ## 概念辨析
 

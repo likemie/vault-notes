@@ -13,7 +13,6 @@ tags:
   - synthetic-phonics
   - region/uk
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -69,7 +68,7 @@ updated: 2026-05-18
 >
 > Bennett 描述了以下公式（Wrigley & McCusker, 2019, p. 118）：
 > 1. 形成问题：声音在水中比在空气中传播更快吗？
-> 2. 做出[[Hypothesis|假设]]：是的。"声音在水中比在空气中传播更快"
+> 2. 做出假设：是的。"声音在水中比在空气中传播更快"
 > 3. 做出预测：如果我的假设为真，我会观察到什么？
 > 4. 检验预测：收集证据看真实世界是否表现得与预测相同
 > 5. 分析：证据显示什么？如果证据证明假设为假，我们可以提出什么新假设？

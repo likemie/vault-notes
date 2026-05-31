@@ -108,11 +108,11 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "EIP is not simply a technical activity; it is influenced by personal and professional values and beliefs, and affected by wider political and educational contexts, policies, and changes." (p. 128)
+> > "[[Evidence-Informed Practice|EIP]] is not simply a technical activity; it is influenced by personal and professional values and beliefs, and affected by wider political and educational contexts, policies, and changes." (p. 128)
 >
 > > "Evidence needs to be planted in 'fertile ground' if it is to take root and grow." (p. 127)
 >
-> > "The process of being evidence-informed requires both rigorous evidence and a rigorous process of professional judgement." (Campbell, 2016, cited in Nelson & Campbell, 2017, p. 132)
+> > "The process of being evidence-informed requires both rigorous evidence and a rigorous process of professional judgement." ([[Campbell Collaboration|Campbell]], 2016, cited in Nelson & Campbell, 2017, p. 132)
 >
 > > "We must not fall into the trap of seeking to understand only those components that can easily be quantified." (p. 133)
 

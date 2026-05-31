@@ -57,7 +57,7 @@ updated: '2026-05-18'
 > [!quote] 关键文件／声明
 > > "Student achievement can be raised by improving the quality of teaching, which the evidence shows is the largest inschool influence on student outcomes."（Treasury, 2011, p.21）
 >
-> > "the positive sign of the average effect size suggests that increasing class size is poor policy"（Hattie, 2009a, p.88 — 被 Treasury 忽略的 Hattie 本人结论）
+> > "the positive sign of the average [[Effect Size]] suggests that increasing [[Class Size]] is poor policy"（[[John Hattie|Hattie]], 2009a, p.88 — 被 Treasury 忽略的 Hattie 本人结论）
 
 ## O'Neill 的三重批评
 

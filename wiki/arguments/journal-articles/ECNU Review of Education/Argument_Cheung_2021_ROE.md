@@ -95,9 +95,9 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "For a very long time, educational policies have been based on ideological standpoints or individual views rather than evidence or best practices."（Cheung & Xie, 2021, p.1）
 >
-> > "When evaluating whether a treatment or a vaccine is effective, what they rely on are not small studies with questionable methodologies but large, well-conducted randomized controlled trials."（Cheung & Xie, 2021, p.1，以 COVID-19 疫苗试验类比教育 RCT）
+> > "When evaluating whether a treatment or a vaccine is effective, what they rely on are not small studies with questionable methodologies but large, well-conducted randomized controlled trials."（Cheung & Xie, 2021, p.1，以 COVID-19 疫苗试验类比教育 [[Randomised Controlled Trials|RCT]]）
 >
-> > "Evidence-based reform is dedicated to bringing education into a cycle of innovation, evaluation, and dissemination that has been proven successful in fields such as medicine, agriculture, and technology."（Cheung & Xie, 2021, p.1，引用 Haskins, 2014; Kolada, 2013; Slavin, 2020）
+> > "[[Evidence-Based Reform]] is dedicated to bringing education into a cycle of innovation, evaluation, and dissemination that has been proven successful in fields such as medicine, agriculture, and technology."（Cheung & Xie, 2021, p.1，引用 Haskins, 2014; Kolada, 2013; Slavin, 2020）
 
 ## 局限性与批评
 

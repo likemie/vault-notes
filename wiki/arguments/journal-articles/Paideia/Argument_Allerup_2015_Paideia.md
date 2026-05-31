@@ -21,7 +21,6 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Feedback]]"
 related_theories: []
@@ -51,7 +50,7 @@ updated: '2026-05-18'
 
 > [!abstract] 理论框架
 > - 统计检验理论：用均值、标准差、t 检验、p 值和[[Confidence Interval|置信区间]]解释 d 的含义及其限制（Allerup, 2015, pp.42–46；参见 [[Effect Size#技术定义与计算方法]]、[[Statistical Significance]]）。
-> - 分布[[Hypothesis|假设]]：以正态分布、偏态分布和 Cauchy 分布说明效应量解释依赖基础数据分布（Allerup, 2015, pp.45–49；参见 [[Effect Size#基本公式与构成逻辑]]）。
+> - 分布假设：以正态分布、偏态分布和 Cauchy 分布说明效应量解释依赖基础数据分布（Allerup, 2015, pp.45–49；参见 [[Effect Size#基本公式与构成逻辑]]）。
 > - 边际分析与多[[Variable|变量]]分析：用[[Covariate Adjustment|协变量控制]]说明单一边际 d 值会随统计模型改变（Allerup, 2015, pp.49–51；参见 [[Meta-meta-analysis#技术方法论缺陷]]）。
 
 ## 研究方法
@@ -81,9 +80,9 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Effect size er altså ikke en statistisk størrelse, som kan underkastes statistisk vurdering med hensyn til størrelse."（Allerup, 2015, p.45）
+> > "[[Effect Size]] er altså ikke en statistisk størrelse, som kan underkastes statistisk vurdering med hensyn til størrelse."（Allerup, 2015, p.45）
 >
-> > "Man har derfor ikke som ved PISA-rangordningen adgang til en erkendelse af, at to eller flere indsatser/lande ikke adskiller sig signifikant fra hinanden - selv om de numerisk set er forskellige."（Allerup, 2015, p.47）
+> > "Man har derfor ikke som ved [[PISA]]-rangordningen adgang til en erkendelse af, at to eller flere indsatser/lande ikke adskiller sig signifikant fra hinanden - selv om de numerisk set er forskellige."（Allerup, 2015, p.47）
 
 ## 局限性与批评
 

@@ -6,10 +6,12 @@ type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Research Problem]]"
-  - "[[Coherence in Writing]]"
-  - "[[Hook and Eye Technique]]"
+  - "[[Research Topic]]"
+  - "[[Champ]]"
+  - "[[Deficiencies Model for an Introduction]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -28,7 +30,7 @@ updated: 2026-05-31
 > [!info]
 > 叙事钩子（Narrative Hook）是学术引言中用于吸引、抓住或"钩住"读者的开篇语句。它借用了英语写作（English composition）中的概念，指那些让读者产生阅读兴趣、进而继续阅读全文的最初几句话（Creswell & Creswell, 2022, 第5章）。
 
-叙事钩子的核心功能是双重的：(a) 激发读者对研究的兴趣，(b) 传达一个明确的研究问题或议题。好的叙事钩子能让广泛受众理解研究主题，同时避免将读者直接抛入陌生的细节之中。
+叙事钩子的核心功能是双重的：(a) 激发读者对研究的兴趣，(b) 传达一个明确的[[Research Problem|研究问题]]或议题。好的叙事钩子能让广泛受众理解[[Research Topic|研究主题]]，同时避免将读者直接抛入陌生的细节之中。
 
 ---
 
@@ -52,7 +54,7 @@ Creswell & Creswell（2022, 第5章）提供了叙事钩子的具体写作建议
 3. **远离习语和陈词滥调**：避免使用惯用表达或陈腐短语
 4. **考虑数字信息**：用数字增强冲击力。例如："Every year, an estimated 5 million Americans experience the death of an immediate family member."
 5. **提出问题时**：用问题开篇可以创造读者兴趣
-6. **从文献视角切入时**：以文献视角开始讨论研究问题
+6. **从文献视角切入时**：以文献视角开始讨论[[Research Problem|研究问题]]
 
 > [!tip] 学习途径
 > 要学习如何写好的叙事钩子，可以研究不同学科领域顶级期刊文章的第一句话。记者和作者在报纸和期刊文章的导语句中也提供了很好的范例。
@@ -69,15 +71,15 @@ Creswell & Creswell（2022, 第5章）提供了两个来自社会科学期刊的
 > 这个示例通过提出一个问题来创造读者兴趣，信息容易被广泛读者理解。
 
 > [!example] 以文献视角开篇
-> "There is a large body of literature that studies the cartographic line (a recent summary article is Butte in field, 1985), and generalization of cartographic lines (McMaster, 1987)."（Carstensen, 1989, p.181）
+> "There is a large body of literature that studies the cartographic line (a recent summary article is Butte in [[Champ|field]], 1985), and generalization of cartographic lines (McMaster, 1987)."（Carstensen, 1989, p.181）
 >
-> 这个来自量化—实验研究的示例，以文献视角开始讨论研究问题。
+> 这个来自量化—[[Experimental Research|实验研究]]的示例，以文献视角开始讨论[[Research Problem|研究问题]]。
 
 ---
 
 ## 与引言结构的关系
 
-叙事钩子是缺陷模型引言（[[Deficiencies Model for an Introduction]]）的第一部分——研究问题陈述——的开端。它通常位于引言第一段的开头几句，紧接着是对研究问题的清晰识别。叙事钩子的作用是为研究问题的呈现做好铺垫，而不是替代研究问题的陈述。
+叙事钩子是[[Deficiencies Model for an Introduction|缺陷模型]]引言（[[Deficiencies Model for an Introduction]]）的第一部分——[[Research Problem|研究问题]]陈述——的开端。它通常位于引言第一段的开头几句，紧接着是对研究问题的清晰识别。叙事钩子的作用是为研究问题的呈现做好铺垫，而不是替代研究问题的陈述。
 
 ---
 

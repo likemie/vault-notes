@@ -133,7 +133,7 @@ updated: 2026-05-21
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Kend din virkning"（Hattie, 2015, p.11）
+> > "Kend din virkning"（[[John Hattie|Hattie]], 2015, p.11）
 >
 > > "Det er således en disposition til at ønske at kende sin virkning, der ligger i kernen af VL-modellen."（Hattie, 2015, p.12）
 

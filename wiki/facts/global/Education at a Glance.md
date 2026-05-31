@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Performance Indicators]]"
-  - "[[Hypothesis]]"
   - "[[Science and Technology Studies]]"
   - "[[Performativity of Measurement]]"
 related_theories: []
@@ -63,7 +62,7 @@ updated: '2026-05-18'
 >
 > 指标的特点（Gorur, 2014, p.7）：
 > - 是经过目的性加工的派生指标（derived measures），合并多个数据源
-> - 按关于教育系统如何运作的[[Hypothesis|假设]]构建，数学模型隐含了预设的关系
+> - 按关于教育系统如何运作的假设构建，数学模型隐含了预设的关系
 > - 功能类似于仪表盘上的警示灯：提醒决策者注意潜在问题，而非直接诊断或评估（Sauvageot, 1997, p.17; Gorur, 2014, p.7–8）
 
 ## 与相关概念的区别

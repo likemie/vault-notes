@@ -82,7 +82,7 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The education academic in the role of critic and conscience of society has an obligation to include non-school factors in all analyses of differential educational achievement because otherwise both politicians and citizens are encouraged to believe that changes in educational arrangements alone can solve much of the existing inequalities in educational achievements." (p.91)
+> > "The education academic in the role of [[Critic and Conscience of Society]] has an obligation to include non-school factors in all analyses of differential educational achievement because otherwise both politicians and citizens are encouraged to believe that changes in educational arrangements alone can solve much of the existing inequalities in educational achievements." (p.91)
 >
 > > "This reductionist and naive view of the influence of schooling alone in determining educational achievements is very convenient for politicians and policy makers because it diverts attention away from more fundamental questions about social and economic inequalities in society." (p.91)
 >

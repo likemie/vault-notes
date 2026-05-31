@@ -19,7 +19,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Variable]]"
   - "[[Spirals of Inquiry]]"
-  - "[[Hypothesis]]"
+  - "[[Feedback]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 >
 > ### 结论：共享的"构建块"作为整合媒介
 >
-> 两种适应的兼容性在于：随机化评估转移性机制产生稳健可靠的因果估计→这些机制作为"构建块"指导改进网络中的教师探究→网络实践洞见反馈回新的机制[[Hypothesis|假设]]进入实验测试。"机制标签"将"什么有效"从极少被实施的程序性干预重新导向更高杠杆和更可靠类型的"什么"——最接近影响学习的因素（p. 308）。
+> 两种适应的兼容性在于：随机化评估转移性机制产生稳健可靠的因果估计→这些机制作为"构建块"指导改进网络中的教师探究→网络实践洞见反馈回新的机制假设进入实验测试。"机制标签"将"什么有效"从极少被实施的程序性干预重新导向更高杠杆和更可靠类型的"什么"——最接近影响学习的因素（p. 308）。
 
 ## 主要发现
 
@@ -96,7 +96,7 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "The key weakness of 'What Works' is that it generates evidence relevant only to single either-or decisions." (p. 300, citing Cartwright & Hardie, 2012)
 >
-> > "In contrast, improvement science and other networked inquiry approaches are designed to fit with the daily context of teaching and learning, allowing for continuous small decisions based on feedback and adaptation." (p. 300)
+> > "In contrast, [[Improvement Science]] and other networked inquiry approaches are designed to fit with the daily context of teaching and learning, allowing for continuous small decisions based on [[Feedback]] and adaptation." (p. 300)
 >
 > > "The central advantage of designing trials around mechanisms is that it would allow for greater continuity between randomized evaluations and the 'learning sciences'." (p. 305)
 >

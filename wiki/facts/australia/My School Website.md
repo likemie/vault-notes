@@ -16,7 +16,6 @@ tags:
 - accountability
 related_concepts:
   - "[[School Choice]]"
-  - "[[Hypothesis]]"
   - "[[School Autonomy]]"
   - "[[New Public Management]]"
   - "[[Performativity of Measurement]]"
@@ -71,7 +70,7 @@ updated: '2026-05-18'
 > [!success] 效果与评价
 > **市场问责模型驱动的分层效应**（Keddie et al., 2020, p.434）：
 >
-> My School 体现了"该市场问责模型[[Hypothesis|假设]]：失败的学校（随着家长需求的减少）将关闭而不论当地需要，而成功的学校将繁荣发展"。
+> My School 体现了"该市场问责模型假设：失败的学校（随着家长需求的减少）将关闭而不论当地需要，而成功的学校将繁荣发展"。
 >
 > 该模型已被证实增加了公立系统内的**分层**（stratification）和**残余化**（residualisation）——"即通过基于学术测试成绩来评估（公开奖励）和贬低（公开羞辱）学校"（Doolan & Blackmore, 2018; Lamb et al., 2015，引自 Keddie et al., 2020, p.434）。
 >

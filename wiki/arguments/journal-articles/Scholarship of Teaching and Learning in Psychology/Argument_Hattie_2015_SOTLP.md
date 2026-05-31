@@ -75,7 +75,7 @@ updated: '2026-05-18'
 >
 > > "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." (p.81)
 >
-> > "The fundamental premise of Visible Learning is that when educators focus on defining, evaluating, and understanding their impact this leads to maximizing student learning and achievement." (p.89)
+> > "The fundamental premise of [[Visible Learning]] is that when educators focus on defining, evaluating, and understanding their impact this leads to maximizing student learning and achievement." (p.89)
 
 ## 局限性与批评
 

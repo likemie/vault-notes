@@ -15,6 +15,7 @@ tags:
   - theme/learning-motivation
   - theme/affect
 related_concepts:
+  - "[[Chinese Learner]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Learning Virtues]]"
   - "[[Familiarization]]"
@@ -42,7 +43,7 @@ updated: 2026-05-23
 > 立志（lizhi, establishing one's will）是 Li 在中国学习模型中识别的四种正面学习情感之一——确切地说，它兼具情感和目的双重属性。立志指学习者在青少年阶段（通常为中学时期）开始思索人生目的，形成清晰的个人愿景（志向 zhixiang 或抱负 baofu），从而找到具体的学习方向和投入精力的目标（Li, 2012, p.94）。
 
 > [!quote]
-> "通过立志，中国学习者相信他们不仅能找到更具体的学习方向（例如'我想成为工程师'），还能知道将精力和投入附着于何处（例如'因此我将学习数学、物理和工程学'）。因此，立志的过程是一个精神上非常振奋和情感上正面的过程。"（Li, 2012, p.94）
+> "通过立志，[[Chinese Learner|中国学习者]]相信他们不仅能找到更具体的学习方向（例如'我想成为工程师'），还能知道将精力和投入附着于何处（例如'因此我将学习数学、物理和工程学'）。因此，立志的过程是一个精神上非常振奋和情感上正面的过程。"（Li, 2012, p.94）
 
 ---
 

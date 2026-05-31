@@ -23,6 +23,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
+  - "[[Feedback]]"
 related_theories:
   - "[[Radical Constructivism]]"
 related_methods:
@@ -93,11 +94,11 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "I am a measurement researcher; I am a statistician, I am not a theoretician" (Hattie, in Knudsen, 2017, p.259, cited p.2)
+> > "I am a measurement researcher; I am a statistician, I am not a theoretician" ([[John Hattie|Hattie]], in Knudsen, 2017, p.259, cited p.2)
 >
 > > "This cut was the average effect from 800-plus meta-analyses... It is a threshold to create a story" (Hattie, 2010, p.89, cited p.7)
 >
-> > "Within this large body of feedback research, there are many conflicting findings and no consistent pattern of results" (Shute, 2008, p.153, cited p.9)
+> > "Within this large body of [[Feedback]] research, there are many conflicting findings and no consistent pattern of results" (Shute, 2008, p.153, cited p.9)
 >
 > > "The problem occurs when researchers do not explicate how their empirical work is related to and based on theoretical assumptions" (p.3)
 

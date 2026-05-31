@@ -18,7 +18,6 @@ related_concepts:
   - "[[Take the World Upon Oneself]]"
   - "[[International Education]]"
   - "[[Confucian Heritage Cultures]]"
-  - "[[Hypothesis]]"
   - "[[Western Learner]]"
   - "[[Five Cardinal Relationships]]"
   - "[[Junzi]]"
@@ -75,7 +74,7 @@ updated: 2026-05-24
 >
 > **1. 文化学习模型（cultural learning model）**：Li (2012) 从儒家知识传统和实证研究中提炼出的系统性学习者画像——学习指向**向内完善自我**（而非向外探究世界），以七种[[Learning Virtues|学习美德]]为个人能动性，以[[Self-Cultivation|修身]]为终身项目，以[[Take the World Upon Oneself|以天下为己任]]为社会归属。这一用法描述的是**文化理想型**（ideal type），而非任何个体学习者的描述（Li, 2012, pp.57-58）。
 >
-> **2. 跨文化教育话语中的群体标签**：在 Ryan (2010) 和 Slethaug (2010) 等[[International Education|国际教育]]文献中，"中国学习者"通常指来自中国大陆及[[Confucian Heritage Cultures|儒家文化圈]]（[[Confucian Heritage Cultures|CHC]]——香港、台湾、新加坡）的学生群体。Slethaug 的核心论点是：**不存在单一类型的中国学习者**——中国大陆内部因地区、年龄、性别、经济和文化地位而极为多元，来自不同地区的学生不希望被[[Hypothesis|假设]]有相同的认同和偏好（Slethaug, 2010, p.34）。
+> **2. 跨文化教育话语中的群体标签**：在 Ryan (2010) 和 Slethaug (2010) 等[[International Education|国际教育]]文献中，"中国学习者"通常指来自中国大陆及[[Confucian Heritage Cultures|儒家文化圈]]（[[Confucian Heritage Cultures|CHC]]——香港、台湾、新加坡）的学生群体。Slethaug 的核心论点是：**不存在单一类型的中国学习者**——中国大陆内部因地区、年龄、性别、经济和文化地位而极为多元，来自不同地区的学生不希望被假设有相同的认同和偏好（Slethaug, 2010, p.34）。
 >
 > 这两个用法之间的关系，见 [[#概念演变|概念演变]]。
 

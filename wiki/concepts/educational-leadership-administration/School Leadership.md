@@ -15,7 +15,6 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Champ]]"
   - "[[Habitus]]"
-  - "[[Hypothesis]]"
   - "[[New Public Management]]"
   - "[[School Autonomy]]"
 related_theories: []
@@ -114,7 +113,7 @@ Eacott（2011, p.48-50）以 Bourdieu 场域理论论证教育场域正被经济
 Eacott（2011, p.56-58）提出学校领导力培养需要一种基于**"教育问题提出与争辩"**（educational problem posing and contestation）而非"组织问题解决"（organisational problem solving）的**替代性领导习性**：
 
 - 领导力培养不应是关于"唯一正确方法"，也不应恐惧"知识主张的争辩"
-- 需要理解"集体无意识的工作[[Hypothesis|假设]]、多元社会力量对工作的赋值、以及权力关系"——这要求**批判性反思性**
+- 需要理解"集体无意识的工作假设、多元社会力量对工作的赋值、以及权力关系"——这要求**批判性反思性**
 - 技术技能仍然需要但应被"去中心化"，视为"对更关键的'教育'领导力事业的附属"
 - 理想的项目应以"内部矛盾、二律背反、循环性和争辩性交叉点"为特征（English, 2006, p.466）
 

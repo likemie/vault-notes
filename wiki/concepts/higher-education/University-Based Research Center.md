@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Innovation Hub]]"
   - "[[Industry Affiliate Program]]"
+  - "[[Research Problem]]"
   - "[[Master Agreement]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
@@ -37,7 +38,7 @@ updated: 2026-05-28
 > [!info]
 > 大学研究型中心（University-Based Research Center）是 Hoffman et al.（2025）归纳的产学联盟与联合体四种组织模式中的第三种，组织化程度介于企业联盟计划和[[Innovation Hub|创新中心]]之间。它的核心特征是在产业会员费基础上叠加政府资助和跨机构协调——中心可以设在单一院系内，也可以跨学科、跨学院甚至跨多所大学（pp.111–112）。
 
-与企业联盟计划（[[Industry Affiliate Program]], CAP）的关键区别在于议程设置方向：企业联盟计划的研究议程由委员会从零开始共同制定，大学研究型中心则**由大学先选定研究方向，产业基于对齐度决定是否加入**。这降低了产业成员的参与门槛——企业不需要自己定义研究问题，只需判断"大学选的方向是否与我相关"即可。但这也意味着如果大学的研究方向与产业的实际需求不匹配，中心可能招不到成员（p.111）。
+与企业联盟计划（[[Industry Affiliate Program]], CAP）的关键区别在于议程设置方向：企业联盟计划的研究议程由委员会从零开始共同制定，大学研究型中心则**由大学先选定研究方向，产业基于对齐度决定是否加入**。这降低了产业成员的参与门槛——企业不需要自己定义[[Research Problem|研究问题]]，只需判断"大学选的方向是否与我相关"即可。但这也意味着如果大学的研究方向与产业的实际需求不匹配，中心可能招不到成员（p.111）。
 
 ---
 

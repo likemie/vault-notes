@@ -10,6 +10,7 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
+  - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -43,7 +44,7 @@ updated: 2026-05-31
 > **变量 vs 假设**：变量是构成理论的基本要素，假设是对变量之间关系的预测性陈述。变量回答"研究什么"，假设回答"变量之间如何关联"。
 
 > [!example]
-> **变量 vs 构念（construct）**：构念是理论层面的抽象概念（如"动机""智力"），变量是构念在实证层面的可操作化、可测量形式。在研究实践中，二者常互换使用，但对操作化要求严格的[[Quantitative Research|量化研究]]更强调"变量"的可测量性。
+> **变量 vs [[Construct|构念]]（construct）**：构念是理论层面的抽象概念（如"动机""智力"），变量是构念在实证层面的可操作化、可测量形式。在研究实践中，二者常互换使用，但对操作化要求严格的[[Quantitative Research|量化研究]]更强调"变量"的可测量性。
 
 ## 变量类型
 

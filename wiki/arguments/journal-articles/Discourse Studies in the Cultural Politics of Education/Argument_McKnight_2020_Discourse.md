@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Literature Review]]"
-  - "[[Hypothesis]]"
   - "[[Knowledge Production]]"
 related_theories: []
 related_methods:
@@ -88,7 +87,7 @@ updated: '2026-05-18'
 > ### 6. Visible Learning 过度简化
 > "Impact"一词等于"有力的接触"（子弹、炮弹）。"Know thy impact"带有圣经式语气——是在后结构主义质疑之后对确定性的加固。"眼睛将其不足隐藏在傲慢背后"——眼睛本质上是脆弱的（玻璃体冻胶），需要好斗。实证主义科学的纪律只是另一种虚构——众多研究叙事之一。
 >
-> ### 7. Visible Learning 基于能力主义[[Hypothesis|假设]]
+> ### 7. Visible Learning 基于能力主义假设
 > "只有可见的才重要"——对人们应具备何种能力才能被算作成功做出了规范性和能力主义的假设。能力主义设定"两个截然不同的本体论区域"（[[Campbell Collaboration|Campbell]], 2009）。有视觉障碍的人在本体论和认识论上被抹除。视觉长期以来承载着作为意识的"定义性和统治性能力"的"粗暴声誉"（Rorty, 1979）。排斥被包装为对多样化学习者的"集体冷漠"（Slee, 2011）。
 
 ## 主要发现
@@ -104,11 +103,11 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Visible Learning is the perfect tool for the 'new management panopticism' (Ball, 2003, p. 219) that is not so new anymore; when learning must be visible, everyone can spy on everyone else."（p.34）
+> > "[[Visible Learning]] is the perfect tool for the 'new management panopticism' (Ball, 2003, p. 219) that is not so new anymore; when learning must be visible, everyone can spy on everyone else."（p.34）
 >
-> > "In Visible Learning's meta-analysis, the wisdom of teachers is taken, processed, and served back, at a price. Teachers, in a feminised profession (Apple, 1986/2013), submit to heteronormative, sexist and ableist constructions of education."（p.35）
+> > "In Visible Learning's [[Meta-analysis]], the wisdom of teachers is taken, processed, and served back, at a price. Teachers, in a feminised profession (Apple, 1986/2013), submit to heteronormative, sexist and ableist constructions of education."（p.35）
 >
-> > "We hire people to deliver it and only one in five passes. That is because almost every teacher wants to get up and talk about their story, their anecdotes and their classrooms. We will not allow that, because as soon as you allow that, you legitimise every teacher in the room talking about their war stories, their views, their kids."（Hattie, in Knudsen, 2017, p.254，引自 p.37）
+> > "We hire people to deliver it and only one in five passes. That is because almost every teacher wants to get up and talk about their story, their anecdotes and their classrooms. We will not allow that, because as soon as you allow that, you legitimise every teacher in the room talking about their war stories, their views, their kids."（[[John Hattie|Hattie]], in Knudsen, 2017, p.254，引自 p.37）
 >
 > > "The eye, limited to that single function of sight, hides its inadequacies behind arrogance, and insists that seeing is the only way. ... The eye needs to be belligerent, as it is essentially made of vitreous jelly."（p.40-41）
 >

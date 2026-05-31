@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Professional Judgment]]"
+  - "[[Construct]]"
   - "[[Digital Self]]"
   - "[[Bildung]]"
 related_theories:
@@ -50,7 +51,7 @@ updated: 2026-05-20
 
 ### 算法理性的产物
 
-数字最优的核心特征在于它是由算法持续优化而产生的人工参照系——不是来自教育者对学生发展目标的[[Professional Judgment|专业判断]]，而是在数据收集、分类、建模和预测的自动循环中被反复"精炼"的统计构念（Thompson et al., 2022, p.226）。这一过程的关键后果是：理想学生形象越来越脱离具体教育情境和教师专业经验，而是被算法理性所定义。
+数字最优的核心特征在于它是由算法持续优化而产生的人工参照系——不是来自教育者对学生发展目标的[[Professional Judgment|专业判断]]，而是在数据收集、分类、建模和预测的自动循环中被反复"精炼"的统计[[Construct|构念]]（Thompson et al., 2022, p.226）。这一过程的关键后果是：理想学生形象越来越脱离具体教育情境和教师专业经验，而是被算法理性所定义。
 
 ### 作为参照标准的具体期望
 

@@ -15,7 +15,7 @@ tags:
 related_concepts:
   - "[[Didaktik]]"
   - "[[Definition of Terms]]"
-  - "[[Hypothesis]]"
+  - "[[Research Problem]]"
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
 related_theories: []
@@ -79,7 +79,7 @@ updated: 2026-05-18
 >
 > **反叛：Greenfield 的挑战（1974）**
 >
-> 1974 年（或如 Bates 所论证的，实际上始于 1973 年 New Orleans 的 AERA 年会），在英国 Bristol 的国际互访项目（International Intervisitation Programme）上，**[[Thomas Barr Greenfield]]** 挑战了理论运动的美国实用经验主义和一个客观行政科学的知识论[[Hypothesis|假设]]（Eacott, 2015, p.316）。
+> 1974 年（或如 Bates 所论证的，实际上始于 1973 年 New Orleans 的 AERA 年会），在英国 Bristol 的国际互访项目（International Intervisitation Programme）上，**[[Thomas Barr Greenfield]]** 挑战了理论运动的美国实用经验主义和一个客观行政科学的知识论假设（Eacott, 2015, p.316）。
 >
 > Greenfield 的核心知识论主张：我们所有关于实在——自然和社会——的知识都包含不可还原的主观成分；**客观性是一个神话**——在自然科学和社会科学中都是如此。他呼吁一种"人性科学"（humane science）（Greenfield & Ribbins, 1993，引自 Eacott, 2015, p.316）。
 >
@@ -94,7 +94,7 @@ updated: 2026-05-18
 
 > [!warning] 争议与评论
 > - **实证主义遗产的持续**：Eacott（2015）认为尽管理论运动受到多次挑战，"'科学'和'科学探究'的标签与教育行政有长期联系"，这种联系延续至今，只是以管理主义和"对实践有直接影响的"研究话语的形式出现（p.312-313）
-> - **变形的重演**：Eacott（2015, p.320-321）指出理论的"应用"标签在当代以项目管理的学术生活方式重现——研究者成为可以在不同研究问题间流动的"技术人员"，实质上重复了理论运动的方法论替代理论的模式
+> - **变形的重演**：Eacott（2015, p.320-321）指出理论的"应用"标签在当代以项目管理的学术生活方式重现——研究者成为可以在不同[[Research Problem|研究问题]]间流动的"技术人员"，实质上重复了理论运动的方法论替代理论的模式
 > - **拒绝而非重构**：Greenfield 和 Bates 的批判虽然有力，但导致许多人放弃而非重构科学探究——Evers & Lakomski 是少数坚持"科学本身不是问题"的声音（Eacott, 2015, p.316）
 
 ## 相关概念／理论

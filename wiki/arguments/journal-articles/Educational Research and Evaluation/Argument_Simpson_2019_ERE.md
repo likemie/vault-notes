@@ -18,9 +18,9 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
-  - "[[Hypothesis]]"
   - "[[Direct Instruction]]"
   - "[[Evidence-Based Education]]"
+  - "[[Feedback]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -57,7 +57,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > ### 1. 思想实验：教一个匈牙利单词
 >
-> [[Hypothesis|假设]]随机抽取英语使用者，随机分为两组。实验组被告知匈牙利语单词 *oktatás* 的英文翻译是 "education"，对照组无任何信息。两组立即参加包含 10 个匈牙利语单词的翻译测试（其中一个是 *oktatás*）。
+> 假设随机抽取英语使用者，随机分为两组。实验组被告知匈牙利语单词 *oktatás* 的英文翻译是 "education"，对照组无任何信息。两组立即参加包含 10 个匈牙利语单词的翻译测试（其中一个是 *oktatás*）。
 >
 > - **基准情况**（测试包含 *oktatás*，开放式作答）：实验组平均得 1 分（几乎全对 *oktatás*），对照组平均得 0 分。标准差接近零 → **[[Effect Size|效应量]]趋向无穷大**。按 [[John Hattie|Hattie]] 的标准，这使"教一个匈牙利单词"成为有史以来最强的教育干预；按 EEF 的"月数进步"指标，这相当于"几十年的额外学校进步"（p.100-101）。
 >
@@ -113,16 +113,16 @@ updated: '2026-05-18'
 > - **[[Effect Size|效应量]]不是教育有效性的测量**：同一干预可以产生从 0 到无穷大的效应量，取决于研究者的设计选择（p.102）
 > - **效应量是试验清晰度的测量**：它反映的是研究设计的信噪比，而非干预的教育价值（p.104）
 > - **[[Direct Instruction|直接教学]]干预在[[Meta-meta-analysis|元-元分析]]排名中位居前列，仅仅说明研究者更容易在这些领域进行低噪声的试验**——而非这些干预更具教育影响力（p.105）
-> - **[[Evidence-Based Education|EBE]] 支持者使用 Freedman (2009) 识别的多种防御策略**：列举[[Hypothesis|假设]]（但不检验）、声称批评者未能证伪假设、质问"有什么危害"（pp.106-108）
+> - **[[Evidence-Based Education|EBE]] 支持者使用 Freedman (2009) 识别的多种防御策略**：列举假设（但不检验）、声称批评者未能证伪假设、质问"有什么危害"（pp.106-108）
 
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Effect size is a measure of the trial as a whole; it is not a measure of the intervention alone." (p.100)
+> > "[[Effect Size]] is a measure of the trial as a whole; it is not a measure of the intervention alone." (p.100)
 >
 > > "Mistaking effect size for a measure of educational importance or influence is, then, a category error." (p.105)
 >
-> > "The appearance of direct instruction interventions like feedback and meta-cognition at the top of meta-meta-analytic tables should be taken only as evidence that researchers have found it easier to conduct less noisy experiments in these areas compared to behaviour interventions or summer schools." (p.105)
+> > "The appearance of [[Direct Instruction]] interventions like [[Feedback]] and meta-cognition at the top of meta-meta-analytic tables should be taken only as evidence that researchers have found it easier to conduct less noisy experiments in these areas compared to behaviour interventions or summer schools." (p.105)
 >
 > > "Forms of intervention are promoted as more effective when, in fact, the evidence merely indicates they are areas in which it may be easier to conduct clearer studies. This misidentification is leading policy, driving the use of scarce resources and causing major changes in teaching methods. There's the harm." (p.108)
 

@@ -17,7 +17,6 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Classical Geopolitics]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Hypothesis]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Spatial Sortings]]"
   - "[[National Competitive Advantage]]"
@@ -95,7 +94,7 @@ updated: 2026-05-20
 ## 概念辨析
 
 > [!example]
-> - vs [[Classical Geopolitics|古典地缘政治]]：古典地缘政治关注领土扩张和自然资源与人口的控制，以民族国家为中心；知识地缘政治则关注关系性空间构型，其中政治想象、全球连接性和[[Knowledge-Based Economization|知识经济化]]构成核心维度（Thompson & Parreira do Amaral, 2022, pp.9–11）。古典地缘政治的核心[[Hypothesis|假设]]详见 [[Classical Geopolitics#核心假设]]
+> - vs [[Classical Geopolitics|古典地缘政治]]：古典地缘政治关注领土扩张和自然资源与人口的控制，以民族国家为中心；知识地缘政治则关注关系性空间构型，其中政治想象、全球连接性和[[Knowledge-Based Economization|知识经济化]]构成核心维度（Thompson & Parreira do Amaral, 2022, pp.9–11）。古典地缘政治的核心假设详见 [[Classical Geopolitics#核心假设]]
 > - vs 地缘经济学（geoeconomics）：地缘经济学强调贸易、投资和市场逻辑在国际关系中的作用，与知识地缘政治共享对经济竞争的关注但较少关注[[Knowledge Production|知识生产]]的政治和文化维度（Thompson & Parreira do Amaral, 2022, p.11）
 
 ---

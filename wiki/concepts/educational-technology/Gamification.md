@@ -40,7 +40,7 @@ updated: 2026-05-20
 > Gamification（游戏化）指将游戏设计元素和游戏机制应用于非游戏情境——如教育、组织管理或家庭环境——以激发用户参与和调节行为的设计策略。Zichermann & Cunningham（2011）在 Gamification by Design 中将其定义为一种通过游戏机制使体验"可预测、可重复且具有经济回报"的手段（Zichermann & Cunningham, 2011, pp.ix–x, cited in Jornitz & Klinge, 2022, p.236）。
 
 > [!quote]
-> "To further engage our audiences, we need to consider reward structures, positive reinforcement, and subtle feedback loops alongside mechanisms such as scores, badges, levels, challenges, and leaderboards. When done well, gamification helps align our interests with the intrinsic motivations of our players, amplified with the mechanics and rewards that make them come in, bring friends, and keep coming back."（Zichermann & Cunningham, 2011, pp.ix–x, cited in Jornitz & Klinge, 2022, p.236）
+> "To further engage our audiences, we need to consider reward structures, positive reinforcement, and subtle [[Feedback]] loops alongside mechanisms such as scores, badges, levels, challenges, and leaderboards. When done well, gamification helps align our interests with the intrinsic motivations of our players, amplified with the mechanics and rewards that make them come in, bring friends, and keep coming back."（Zichermann & Cunningham, 2011, pp.ix–x, cited in Jornitz & Klinge, 2022, p.236）
 
 ## 核心要素
 

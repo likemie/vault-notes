@@ -12,7 +12,6 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Recommendations for Practice]]"
   - "[[Evidence-Based Education]]"
@@ -43,14 +42,14 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> 非[[Intervention Research|干预研究]]适合在研究早期理解情境、描述现象、识别[[Variable|变量]]关系或生成干预[[Hypothesis|假设]]。Brady et al. (2023) 承认不同方法植根于不同认识论视角，因此目标和含义不同；问题不在于方法多元本身，而在于非干预研究的发现是否被越界解释为实践处方（Brady et al., 2023, p.2）。
+> 非[[Intervention Research|干预研究]]适合在研究早期理解情境、描述现象、识别[[Variable|变量]]关系或生成干预假设。Brady et al. (2023) 承认不同方法植根于不同认识论视角，因此目标和含义不同；问题不在于方法多元本身，而在于非干预研究的发现是否被越界解释为实践处方（Brady et al., 2023, p.2）。
 
 ## 操作步骤
 
 > [!example] 操作步骤
 > - **不操纵自[[Variable|变量]]**：研究者不主动引入处理或干预，这是非[[Intervention Research|干预研究]]与干预/[[Experimental Research|实验研究]]的核心区别（Brady et al., 2023, p.4）。
 > - **按数据类型区分子类**：观察/相关研究包含量化数据；[[Qualitative Research|质性研究]]包含访谈、观察等文本数据；[[Mixed Method and Multi-method Research|混合方法/多方法研究]]同时包含量化和质性数据（Brady et al., 2023, p.4）。
-> - **生成而非检验干预[[Hypothesis|假设]]**：在理想研究序列中，非干预研究识别可能的[[Causality|因果关系]]，随后由干预研究或实验研究正式检验（Brady et al., 2023, p.2）。
+> - **生成而非检验干预假设**：在理想研究序列中，非干预研究识别可能的[[Causality|因果关系]]，随后由干预研究或实验研究正式检验（Brady et al., 2023, p.2）。
 
 ## 适用场景
 
@@ -73,7 +72,7 @@ updated: '2026-05-18'
 ## 与相关方法的区别
 
 
-- vs [[Intervention Research]] — 非干预研究不操纵自[[Variable|变量]]，适合生成干预[[Hypothesis|假设]]；干预研究操纵自变量，适合检验干预是否改善结果（Brady et al., 2023, pp.2, 4）。
+- vs [[Intervention Research]] — 非干预研究不操纵自[[Variable|变量]]，适合生成干预假设；干预研究操纵自变量，适合检验干预是否改善结果（Brady et al., 2023, pp.2, 4）。
 - vs [[Observational and Correlational Research]] — 观察/相关研究是非干预研究的量化子类，标准是"不操纵自变量 + 包含量化数据"（Brady et al., 2023, p.4）。
 - vs [[Qualitative Research]] — 质性研究同样不操纵自变量，但数据形态是访谈、观察等文本资料，而非量化变量关系（Brady et al., 2023, p.4）。
 - vs [[Mixed Method and Multi-method Research]] — 混合方法/多方法研究也是非干预研究，但同时包含量化和质性数据；Brady et al. (2023) 将其从旧研究的观察/相关类别中单独拆出（Brady et al., 2023, p.4）。

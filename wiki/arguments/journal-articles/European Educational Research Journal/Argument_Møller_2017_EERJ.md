@@ -108,7 +108,7 @@ updated: '2026-05-18'
 >
 > > "The rush to get accountability systems enshrined in legislation and bureaucratic practice is running ahead of the evidence on its behalf, and this is true despite the fact that the architects of the accountability systems are also vocal proponents of scientifically based decision making."（Henig, 2013: xi, cited in Møller, 2017, p.383）
 >
-> > "Education is and always will be a contested field."（p.383）
+> > "Education is and always will be a contested [[Champ|field]]."（p.383）
 >
 > > "Success requires that we ask: success in or for what, success for whom, who benefits, and success under what conditions?"（p.383）
 >

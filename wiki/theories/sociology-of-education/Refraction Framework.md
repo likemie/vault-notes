@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Postpositivism]]"
   - "[[Causality]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Seasonal Comparison]]"
@@ -103,7 +102,7 @@ updated: 2026-05-18
 
 
 > [!warning] [[Seasonal Comparison|季节性比较]]方法的假设
-> 框架的核心经验基础——季节性比较——依赖一系列[[Hypothesis|假设]]（见 [[Seasonal Comparison]] 条目的「局限性」章节），这些假设的合理性仍在学术讨论中（Downey & Condron, 2016, pp.4–5）。
+> 框架的核心经验基础——季节性比较——依赖一系列假设（见 [[Seasonal Comparison]] 条目的「局限性」章节），这些假设的合理性仍在学术讨论中（Downey & Condron, 2016, pp.4–5）。
 
 
 > [!warning] 学校改革的政策意义

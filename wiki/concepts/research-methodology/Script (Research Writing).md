@@ -15,9 +15,9 @@ related_concepts:
   - "[[Central Phenomenon]]"
 related_theories: []
 related_methods:
+  - "[[Mixed Method and Multi-method Research]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
-  - "[[Mixed Method and Multi-method Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -63,7 +63,7 @@ updated: 2026-05-31
 
 ## 各项脚本
 
-Creswell & Creswell (2022, pp.127–137) 在[[Purpose Statement|目的陈述]]教学中共提供五套写作脚本，覆盖质性、量化和三种混合方法设计。
+Creswell & Creswell (2022, pp.127–137) 在[[Purpose Statement|目的陈述]]教学中共提供五套写作脚本，覆盖质性、量化和三种[[Mixed Method and Multi-method Research|混合方法]]设计。
 
 ### 质性目的陈述脚本
 

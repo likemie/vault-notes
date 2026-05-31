@@ -13,12 +13,12 @@ tags:
   - "method/website-analysis"
   - "method/survey"
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Transfer]]"
   - "[[Entrepreneurial University]]"
   - "[[Academic Engagement]]"
   - "[[Technology Transfer]]"
+  - "[[Research Problem]]"
   - "[[Academic Freedom]]"
   - "[[Professors of Practice]]"
   - "[[Executive Education]]"
@@ -26,9 +26,11 @@ related_concepts:
   - "[[Concierge Service]]"
   - "[[Boundary Spanner]]"
   - "[[Innovation Hub]]"
+  - "[[Institutional Review Board]]"
   - "[[Industry Affiliate Program]]"
   - "[[Further Education]]"
   - "[[Learning Analytics]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods:
@@ -56,7 +58,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 研究问题
 
 > [!question]
-> [[Hypothesis|假设]]你是一所大学的校长，你想让学校和产业界建立更紧密的合作关系。你面临的第一批问题不是"合作什么内容"——那是教授们会考虑的——而是"谁来管这件事"、"放在哪个部门下面"、"这个办公室应该管什么、不该管什么"。已有的[[University-Industry Collaboration|产学合作]]研究大量讨论了[[Knowledge Transfer|知识转移]]的机制、合作的激励因素和成功的障碍，但几乎没有研究系统回答过这些组织层面的问题：大学在实践中究竟如何组织它们的产学参与（UI engagement）？存在哪些共同的组织模式？这些模式在多大程度上是全面的？大学和企业双方各自重视哪些策略和特征？
+> 假设你是一所大学的校长，你想让学校和产业界建立更紧密的合作关系。你面临的第一批问题不是"合作什么内容"——那是教授们会考虑的——而是"谁来管这件事"、"放在哪个部门下面"、"这个办公室应该管什么、不该管什么"。已有的[[University-Industry Collaboration|产学合作]]研究大量讨论了[[Knowledge Transfer|知识转移]]的机制、合作的激励因素和成功的障碍，但几乎没有研究系统回答过这些组织层面的问题：大学在实践中究竟如何组织它们的产学参与（UI engagement）？存在哪些共同的组织模式？这些模式在多大程度上是全面的？大学和企业双方各自重视哪些策略和特征？
 
 通过"框架建构 → 网站分析 → 问卷调查"三步设计，同时回答"应该怎么组织"（框架）和"实际上怎么组织"（实证）两个层面的问题。
 
@@ -101,7 +103,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 但这里有一个盲区：几乎所有研究都在讨论"合作本身"——合作的内容、合作的障碍、合作的收益——而不讨论"谁来组织这个合作"。打个比方：现有研究详细分析了"什么食材搭配好吃"（产学合作的内容），但几乎没有人研究"厨房应该怎么设计"（大学如何组织结构来支持这些合作）。
 
 > [!example]
-> 想象一所大学的工学院和一家汽车公司合作开发自动驾驶技术。研究问题通常会是："合作中知识转移的效果如何？""知识产权条款怎么约定？""企业参与对学生培养有什么影响？"但是，很少有研究会问："这个合作是谁牵线的？通过学校的什么办公室？这个办公室向谁汇报？它能决定合同条款吗？还是只能帮忙介绍双方认识？"——这些组织问题，恰恰决定了合作能不能发生、以多快的速度发生、覆盖多少院系。
+> 想象一所大学的工学院和一家汽车公司合作开发自动驾驶技术。[[Research Problem|研究问题]]通常会是："合作中知识转移的效果如何？""知识产权条款怎么约定？""企业参与对学生培养有什么影响？"但是，很少有研究会问："这个合作是谁牵线的？通过学校的什么办公室？这个办公室向谁汇报？它能决定合同条款吗？还是只能帮忙介绍双方认识？"——这些组织问题，恰恰决定了合作能不能发生、以多快的速度发生、覆盖多少院系。
 
 这正是需要填补的空白：不是"合作什么"，而是"怎么组织合作"（p.55）。
 
@@ -179,7 +181,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 用这个框架去审视 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的网站后，五种常见的中心办公室组织模式浮现出来（Fig. 3.1, pp.60–62）：
 
-1. **科研办公室模式（Office of Research，16 所，约 25%）**：由科研副校长（Vice President of Research）主管，聚焦技术转移、初创企业、企业赞助研究——这是最传统的模式，暗含的[[Hypothesis|假设]]是"产学合作 = 研究合作"
+1. **科研办公室模式（Office of Research，16 所，约 25%）**：由科研副校长（Vice President of Research）主管，聚焦技术转移、初创企业、企业赞助研究——这是最传统的模式，暗含的假设是"产学合作 = 研究合作"
 2. **经济发展/政府关系模式（Economic Development/Government Relations，2 所）**：聚焦[[Innovation Hub|创新中心]]、商业园区、小企业支持、地方/州政府伙伴关系——多见于公立大学，与州政府对大学推动地方经济的期望高度相关
 3. **企业/基金会关系模式（Corporate/Foundation Relations，11 所，约 17%）**：设在大学发展/筹资部门（advancement office），暗含的假设是"企业 = 捐赠者 + 合作伙伴"
 4. **伙伴关系模式（Partnerships, 17 所，约 26%）**：管理与企业、政府实验室、独立研究机构的战略伙伴关系——比企业/基金会模式更广泛，但通常只聚焦经济发展和商业化
@@ -203,7 +205,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 整体来看，在八个活动领域中，中心办公室被归类为"直接负责"（responsible）的总共仅 39 次，而"未提及"（no mention）达 187 次、"不适用"（N/A）14 次。最常见的角色是"导航者"（120 次）或"礼宾"（115 次）。
 
 > [!example]
-> 这个发现的深层含义是：**大学内部的权力分布在院系和专业单位手中，不在中心办公室手中**。中心办公室可以介绍一家生物技术公司认识医学院的教授（导航），可以帮助协调第一次会谈（礼宾），但临床试验协议的具体条款一定是由临床试验办公室来谈判的——因为这个办公室才真正理解 FDA 法规、患者隐私保护（HIPAA）和机构审查委员会（IRB）的要求。中心办公室没有、也不可能有取代这些专业单位的知识和权力。
+> 这个发现的深层含义是：**大学内部的权力分布在院系和专业单位手中，不在中心办公室手中**。中心办公室可以介绍一家生物技术公司认识医学院的教授（导航），可以帮助协调第一次会谈（礼宾），但临床试验协议的具体条款一定是由临床试验办公室来谈判的——因为这个办公室才真正理解 FDA 法规、患者隐私保护（HIPAA）和[[Institutional Review Board|机构审查委员会]]（IRB）的要求。中心办公室没有、也不可能有取代这些专业单位的知识和权力。
 >
 > 这其实是一个组织结构的基本悖论：最了解产学合作全局的人（中心办公室）没有权力签合同；有权力签合同的人（各专业单位）不了解产学合作的全局。
 

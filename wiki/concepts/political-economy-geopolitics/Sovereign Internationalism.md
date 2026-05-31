@@ -8,6 +8,7 @@ tags:
 - region/global
 - theme/geopolitics
 related_concepts:
+  - "[[Central Phenomenon]]"
   - "[[Radical Liberal Internationalism]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Internationalization of Higher Education]]"
@@ -32,7 +33,7 @@ updated: '2026-05-18'
 > 主权国际主义（sovereign internationalism）是 Sakwa（2023）提出的概念，指 1945 年《联合国宪章》建立的"宪章国际体系"（Charter International System）的核心理念：世界是一个多元空间，容忍文明差异和多元政治制度，尊重各国的内部政治事务不干涉原则，条件是各国遵守共同的宪章价值（如联合国公约）。这是二战结束后美国主导建立的国际秩序的最初设计理念（Marginson, 2025, p. 14）。
 
 > [!quote]
-> "The central idea of the 'Charter International System' was 'sovereign internationalism,' whereby the world was a plural space, tolerant of civilizational differences and diverse political systems."（Marginson, 2025, p. 14）
+> "The [[Central Phenomenon|central idea]] of the 'Charter International System' was 'sovereign internationalism,' whereby the world was a plural space, tolerant of civilizational differences and diverse political systems."（Marginson, 2025, p. 14）
 
 ---
 

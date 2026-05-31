@@ -77,7 +77,7 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "I have not yet found an educational product that comes with a warning label carrying information such as 'this program works in raising your students' test scores in reading, but may make them hate reading forever.'" (p.4)
 >
-> > "The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor." (Campbell, 1976, p.49, cited p.15)
+> > "The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor." ([[Campbell Collaboration|Campbell]], 1976, p.49, cited p.15)
 >
 > > "Teaching constrains children's exploration and discovery. Children who were taught a function of a toy performed fewer kinds of actions of the toy and discovered fewer of its other functions." (Bonawitza et al., 2011, p.325, cited p.8)
 

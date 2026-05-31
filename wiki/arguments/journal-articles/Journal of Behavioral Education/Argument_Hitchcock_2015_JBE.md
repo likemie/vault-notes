@@ -18,7 +18,7 @@ tags:
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Causality]]"
-  - "[[Hypothesis]]"
+  - "[[Research Problem]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
@@ -74,8 +74,8 @@ updated: '2026-05-18'
 >
 > Maggin et al. (2013) 得出"[[What Works Clearinghouse|WWC]] 标准未捕获推广性细节"的结论是"合理的——如果仅考虑 WWC 的 [[21st Century Skills and Competencies Discourse|SCD]] 设计标准"（Hitchcock et al., 2015, p.460）。但审查程序不能仅从设计标准本身理解：
 >
-> - **设计标准**只是三个组件之一——审查还必须考虑**审查协议**（指定研究问题、目标人群、结果领域、场所）和 **[[Single-Case Design|SCD]] Review Guide**（一个系统化数据库，记录所有相关研究细节后再做评估）（p.461）
-> - 由于截至 2015 年 WWC 发布的 SCD 报告"极少"，公开可见的标准应用信息有限，"也许导致一些人[[Hypothesis|假设]]标准未处理这一重要问题"（p.461）
+> - **设计标准**只是三个组件之一——审查还必须考虑**审查协议**（指定[[Research Problem|研究问题]]、目标人群、结果领域、场所）和 **[[Single-Case Design|SCD]] Review Guide**（一个系统化数据库，记录所有相关研究细节后再做评估）（p.461）
+> - 由于截至 2015 年 WWC 发布的 SCD 报告"极少"，公开可见的标准应用信息有限，"也许导致一些人假设标准未处理这一重要问题"（p.461）
 >
 > ### 2. 推广性细节确实被捕获
 >
@@ -122,9 +122,9 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "It is important to note that these standards are not used in isolation, and thus generalization details cannot be fully understood without also considering the review protocols and a tool called the WWC SCD review guide." (p.460)
+> > "It is important to note that these standards are not used in isolation, and thus generalization details cannot be fully understood without also considering the review protocols and a tool called the [[What Works Clearinghouse|WWC]] [[21st Century Skills and Competencies Discourse|SCD]] review guide." (p.460)
 >
-> > "The WWC addresses the external validity of findings from multiple SCD studies by taking into consideration what Maggin et al. (2013) describe as criteria for assessing generality." (pp.463–464)
+> > "The WWC addresses the external validity of findings from multiple [[Single-Case Design|SCD]] studies by taking into consideration what Maggin et al. (2013) describe as criteria for assessing generality." (pp.463–464)
 >
 > > "Generalization details are not evaluated but rather described in detail so that consumers can make their own determinations about generalization." (p.466)
 >

@@ -124,7 +124,7 @@ updated: 2026-05-24
 ## 关键引用
 
 > [!quote] 关键引用
-> > "for evidence-based reform to prevail, three conditions must exist"（Slavin, 2019, p.2，引自 Dachet & Baye, 2021, p.179）
+> > "for [[Evidence-Based Reform]] to prevail, three conditions must exist"（Slavin, 2019, p.2，引自 Dachet & Baye, 2021, p.179）
 >
 > > "we are at the very beginning of the path"（Dachet & Baye, 2021, p.179）
 

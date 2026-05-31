@@ -10,7 +10,6 @@ tags:
 - culture
 - national-culture
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Effective Teaching]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
@@ -39,7 +38,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - 为教育研究中的跨文化解释提供一种[[Hypothesis|假设]]生成框架：Laursen 用 Hofstede 对丹麦文化的描述来推导"开放、对话、弱教师控制的教学是否更适合丹麦"的预期，再用丹麦[[Effective Teaching|有效教学]]研究检验该预期（Laursen, 2015, pp.36–37）。
+> - 为教育研究中的跨文化解释提供一种假设生成框架：Laursen 用 Hofstede 对丹麦文化的描述来推导"开放、对话、弱教师控制的教学是否更适合丹麦"的预期，再用丹麦[[Effective Teaching|有效教学]]研究检验该预期（Laursen, 2015, pp.36–37）。
 
 ## 争议与批评
 

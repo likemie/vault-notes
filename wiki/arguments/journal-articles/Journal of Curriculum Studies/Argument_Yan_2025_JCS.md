@@ -19,13 +19,13 @@ tags:
   - level/k12
 related_concepts:
   - "[[Progressive Education]]"
-  - "[[Hypothesis]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"
   - "[[Knowledge-Based Economy]]"
   - "[[One Country, Two Systems]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sinicisation]]"
+  - "[[Research Ethics]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
   - "[[World Society Theory]]"
@@ -59,7 +59,7 @@ updated: 2026-05-18
 
 > [!abstract] 理论框架
 > - [[Cuban's Curriculum Change Theory]] — 作为分析起点。课程变革的三个外部因素：[[Progressive Education|进步教育]]运动、冷战/国防、立法法律决定。论文将此框架扩展到香港语境，检验其解释力与局限
-> - [[World Society Theory]] — 全球学校模式趋同[[Hypothesis|假设]]。[[Liberal Studies|LS]] 的诞生表面上支撑该理论（引用全球趋势、IBDP 课程参照），但论文认为这是表面修辞而非变革动因
+> - [[World Society Theory]] — 全球学校模式趋同假设。[[Liberal Studies|LS]] 的诞生表面上支撑该理论（引用全球趋势、IBDP 课程参照），但论文认为这是表面修辞而非变革动因
 > - [[Policy Borrowing]] — Steiner-Khamsi 的政策借用框架。分析港府如何"[[Externalization|外化]]"改革需求，以全球化论述合法化国内议程
 > - **Tröhler (2023) 国家利益驱动课程变革** — 废除阶段的核心解释框架
 > - **Vickers & Morris (2022) 威权国家主义与教育** — 解释中共如何通过教育确保边疆忠诚
@@ -113,7 +113,7 @@ updated: 2026-05-18
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **全球化论述的工具性使用**：如果仅关注 [[Liberal Studies|LS]] 诞生，似乎验证了[[World Society Theory|世界文化理论]]的趋同[[Hypothesis|假设]]。但研究发现港府引用全球论述是为了"[[Externalization|外化]]"国内问题——这更符合[[Policy Borrowing|政策借用]]逻辑。（p. 491）
+> 1. **全球化论述的工具性使用**：如果仅关注 [[Liberal Studies|LS]] 诞生，似乎验证了[[World Society Theory|世界文化理论]]的趋同假设。但研究发现港府引用全球论述是为了"[[Externalization|外化]]"国内问题——这更符合[[Policy Borrowing|政策借用]]逻辑。（p. 491）
 >
 > 2. **内外部因素的角色逆转**：诞生期是公民社会（教协、媒体、立法会多方协商）推动；废除期是直接的国家干预，内部利益相关者完全缺席。这与 Cuban 对美国情境的分析形成对比。（p. 481）
 >
@@ -128,7 +128,7 @@ updated: 2026-05-18
 > [!quote] 关键引用
 > > "All intended curriculum changes are at their core political." — Cuban (1992, p. 224)，被论文引用为分析出发点 (p. 480)
 >
-> > "Local problems are sometimes created in line with packaged global solutions, rather than the other way round." — Steiner-Khamsi (2012, p. 7)，论文以此解释 LS 创立中全球化论述的角色 (p. 482)
+> > "Local problems are sometimes created in line with packaged global solutions, rather than the other way round." — Steiner-Khamsi (2012, p. 7)，论文以此解释 [[Liberal Studies|LS]] 创立中全球化论述的角色 (p. 482)
 >
 > > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." — Vickers & Morris (2022, p. 47)，为废除阶段提供解释框架 (p. 482-483)
 >
@@ -175,7 +175,7 @@ updated: 2026-05-18
 > - LS 的教学高度依赖教师的课程设计和材料选择——教师能动性在 LS 中可能比在传统科目中更大
 > - CSD 取代 LS 后，原 LS 教师的适应策略（接受再培训？调整教学内容？离开教职？）是一个重要但未研究的问题
 >
-> **目前状态**：此局限为后续研究提供了明确的扩展方向——需要在 Yan & Morris 的政策层面分析基础上，补充教师层面的实施研究。但在香港当前政治条件下，此类研究的可行性和研究伦理均面临挑战。
+> **目前状态**：此局限为后续研究提供了明确的扩展方向——需要在 Yan & Morris 的政策层面分析基础上，补充教师层面的实施研究。但在香港当前政治条件下，此类研究的可行性和[[Research Ethics|研究伦理]]均面临挑战。
 
 ## 来源
 

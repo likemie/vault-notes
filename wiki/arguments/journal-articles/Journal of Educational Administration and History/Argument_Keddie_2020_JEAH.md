@@ -86,7 +86,7 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "the notion of markets [is] not … terrific in other domains of adult experience but they are toxic for children — because the sense of a child existing in a market and hierarchy with winners/losers is absolutely antithetical to our understanding of what everyone wants for our young"（Edward, union, NSW, p.437）
 >
-> > "you couldn't design something more effective for social division" — Edward 对 My School 网站的评论（p.437）
+> > "you couldn't design something more effective for social division" — Edward 对 [[My School Website|My School]] 网站的评论（p.437）
 >
 > > "nobody knows, except the principal" where funds are allocated, "because it is not transparent"（Noah, professional organisation, NSW, p.438）
 >

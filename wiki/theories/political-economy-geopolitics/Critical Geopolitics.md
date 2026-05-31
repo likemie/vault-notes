@@ -14,7 +14,6 @@ tags:
 - region/global
 related_concepts:
   - "[[Classical Geopolitics]]"
-  - "[[Hypothesis]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Spatial Sortings]]"
@@ -72,7 +71,7 @@ updated: '2026-05-18'
 
 ## 核心命题
 
-批判地缘政治学挑战[[Classical Geopolitics|古典地缘政治]]的一组核心[[Hypothesis|假设]]。古典地缘政治的核心假设详见 [[Classical Geopolitics#核心假设]]。
+批判地缘政治学挑战[[Classical Geopolitics|古典地缘政治]]的一组核心假设。古典地缘政治的核心假设详见 [[Classical Geopolitics#核心假设]]。
 
 ### 地缘政治是意识形态建构的
 

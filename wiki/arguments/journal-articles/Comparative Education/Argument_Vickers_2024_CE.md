@@ -252,7 +252,7 @@ updated: 2026-05-25
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The post-2020 overhaul of the curriculum for Liberal Studies / CSD signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese."（p.154）
+> > "The post-2020 overhaul of the curriculum for [[Liberal Studies]] / [[Citizenship and Social Development|CSD]] signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese."（p.154）
 >
 > > "While within Hong Kong, political and ideological discourse pays less direct or explicit homage to the CCP and the person of Xi himself than on the mainland, a growing convergence in narratives of history, culture, values and identity is clear."（p.154）
 >

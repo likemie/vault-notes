@@ -93,7 +93,7 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Der er kort sagt brug for en præcisering af, hvordan vi bedst lærer noget. Så hvad er læring? Det har John Hattie og Gregory Yates et videnskabeligt bud på."（简言之，我们需要澄清如何最好地学习。那么什么是学习？John Hattie 和 Gregory Yates 对此有科学答案）（Fredens, 2015, p.70）
+> > "Der er kort sagt brug for en præcisering af, hvordan vi bedst lærer noget. Så hvad er læring? Det har [[John Hattie]] og Gregory Yates et videnskabeligt bud på."（简言之，我们需要澄清如何最好地学习。那么什么是学习？John Hattie 和 Gregory Yates 对此有科学答案）（Fredens, 2015, p.70）
 >
 > > "Gør skolen til en feedbackkultur."（使学校成为反馈文化）（Fredens, 2015, p.74）
 >

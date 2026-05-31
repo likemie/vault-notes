@@ -72,7 +72,7 @@ updated: 2026-05-22
 ### 未经省察的生活不值得过
 
 > [!quote]
-> 苏格拉底在《申辩篇》——他面对雅典陪审团的自我辩护——中说："未经省察的生活不值得过"（the unexamined life is not worth living）。"他的一生是这一信念的全面体现"（Li, 2012, p.31）。
+> 苏格拉底在《申辩篇》——他面对雅典陪审团的自我辩护——中说："[[Examined Life|未经省察的生活不值得过]]"（the unexamined life is not worth living）。"他的一生是这一信念的全面体现"（Li, 2012, p.31）。
 
 ---
 

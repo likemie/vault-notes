@@ -19,7 +19,6 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Talent Assumption]]"
   - "[[Intellectual-Social Divide]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []
@@ -126,7 +125,7 @@ Watkins 及其学生采用 Fülöp 的方法研究香港高中生（含高能力
 3. [[Talent Assumption|天赋假设]] → 努力 = 低能力的标志，不努力的成功 = 天才
 4. [[Intellectual-Social Divide|知性-社交二分]] → 学术投入的人 = 社交有缺陷的人
 
-四条根相互加强：固定自我使人敏感于比较 → 零和竞争将比较建构为敌对 → 天赋[[Hypothesis|假设]]让"不努力的成功者"获得豁免、"努力的成功者"加倍可疑 → 知性-社交二分为所有骚扰提供合理化。
+四条根相互加强：固定自我使人敏感于比较 → 零和竞争将比较建构为敌对 → 天赋假设让"不努力的成功者"获得豁免、"努力的成功者"加倍可疑 → 知性-社交二分为所有骚扰提供合理化。
 
 完整的论证链见 Li (2012) 第 6 章第 3 步。
 

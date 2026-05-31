@@ -80,7 +80,7 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The aim of phenomenon-based learning (PhBL) is to provide such an educational approach."（p.1）
+> > "The aim of [[Phenomenon-Based Learning]] (PhBL) is to provide such an educational approach."（p.1）
 >
 > > "The Finnish curriculum is still structured according to traditional school subjects..."（p.2）
 >

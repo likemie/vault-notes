@@ -11,7 +11,8 @@ tags:
   - discipline/history
   - field/history-education
   - school/cultural-conservatism
-related_concepts: []
+related_concepts:
+  - "[[Zhonghua Minzu]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -50,7 +51,7 @@ updated: 2026-05-26
 > - 中国的领土是可变的——由哪些地区接受了汉文化和历代中原统治者的治理决定；并非所有族群持续接受汉人统治，因此领土范围随历史变动。
 
 > [!quote]
-> 这一立场与[[Fei Xiaotong|费孝通]]的领土型中国观形成直接对照——费孝通以当代中国领土为构成性边界、将 56 个民族纳入中华民族框架，而许倬云以汉族文化为构成性边界、将领土视为接受汉文化的可变范围（Xu, 2024, p.576）。
+> 这一立场与[[Fei Xiaotong|费孝通]]的领土型中国观形成直接对照——费孝通以当代中国领土为构成性边界、将 56 个民族纳入[[Zhonghua Minzu|中华民族]]框架，而许倬云以汉族文化为构成性边界、将领土视为接受汉文化的可变范围（Xu, 2024, p.576）。
 
 ## 影响
 

@@ -16,7 +16,6 @@ tags:
 - level/k12
 related_concepts:
   - "[[Effective Teaching]]"
-  - "[[Hypothesis]]"
   - "[[Visible Learning]]"
   - "[[Classroom Management]]"
   - "[[Individualised Instruction]]"
@@ -40,13 +39,13 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> 文章追问：[[John Hattie]] 以及 [[Hilbert Meyer]]、[[Andreas Helmke]] 等以国际经验研究为基础的[[Effective Teaching|有效教学]]综合，是否也适用于丹麦和其他北欧国家？这个问题被具体化为一个[[Hypothesis|假设]]：教学质量和措施的学习效果是否依赖国家文化，因为教师和学生会在本地文化语境中解释这些措施（Laursen, 2015, p.34）。
+> 文章追问：[[John Hattie]] 以及 [[Hilbert Meyer]]、[[Andreas Helmke]] 等以国际经验研究为基础的[[Effective Teaching|有效教学]]综合，是否也适用于丹麦和其他北欧国家？这个问题被具体化为一个假设：教学质量和措施的学习效果是否依赖国家文化，因为教师和学生会在本地文化语境中解释这些措施（Laursen, 2015, p.34）。
 
 ## 理论框架
 
 > [!abstract] 理论框架
 > - [[Visible Learning]] — [[John Hattie|Hattie]] 的研究综合是文章比较的核心对象；Laursen 特别关注其以英语文献、尤其美国研究为主的证据基础是否可迁移至丹麦（Laursen, 2015, p.34）。
-> - [[Hofstede's Cultural Dimensions]] — 文章用 Hofstede 对丹麦文化的四维刻画提出跨文化差异[[Hypothesis|假设]]：丹麦的个人主义、低权力距离、女性化和低不确定性规避似乎会让开放、对话和弱教师控制的教学更适合丹麦学生（Laursen, 2015, pp.36–37）。
+> - [[Hofstede's Cultural Dimensions]] — 文章用 Hofstede 对丹麦文化的四维刻画提出跨文化差异假设：丹麦的个人主义、低权力距离、女性化和低不确定性规避似乎会让开放、对话和弱教师控制的教学更适合丹麦学生（Laursen, 2015, pp.36–37）。
 
 ## 核心论证
 
@@ -57,7 +56,7 @@ updated: '2026-05-18'
 >
 > Hattie、Meyer 和 Helmke 虽有细节差异，但共同强调教师领导、个体化关注、清晰目标和学习导向气氛。Laursen 总结说，促进学习的首先是清晰目标、明确领导、良好气氛、适配学生前提以及学生主动参与等"经典基本质量"，而非某种特定教学形式（Laursen, 2015, pp.35–36）。
 >
-> ### 国家文化[[Hypothesis|假设]]
+> ### 国家文化假设
 >
 > Laursen 起初认为文化差异假设"合理"：同样的控制与评价在美国可被解释为质量关怀，在英国可能被解释为不信任教师和学生，因此相同措施可能在一种文化中促进学习、在另一种文化中抑制学习（Laursen, 2015, p.34）。根据 Hofstede 的丹麦画像，他原本可预期丹麦学生更适合开放、对话、弱教师控制和创造性空间较大的教学（Laursen, 2015, p.37）。
 >
@@ -103,7 +102,7 @@ updated: '2026-05-18'
 
 > [!warning] 局限性与批评
 > - Laursen 承认自己没有展开方法论讨论，主要依赖 SFI 报告，并说明学生学习主要以丹麦学校毕业考试成绩衡量，同时统计[[Societies of Control|控制社会]]背景影响（Laursen, 2015, p.37）。
-> - 国家文化[[Hypothesis|假设]]被检验的证据基础有限：文章更多是比较既有研究综合与丹麦研究，而非直接进行跨国因果检验（Laursen, 2015, pp.37–40）。
+> - 国家文化假设被检验的证据基础有限：文章更多是比较既有研究综合与丹麦研究，而非直接进行跨国因果检验（Laursen, 2015, pp.37–40）。
 > - 文章认为频繁测试的丹麦结果可能源于丹麦测试使用低于最佳水平，而美国等英语国家可能高于最佳水平；这一解释是作者提出的可能性，而非直接经验结论（Laursen, 2015, p.39）。
 
 ## 来源

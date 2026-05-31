@@ -14,7 +14,6 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Multiplicity]]"
-  - "[[Hypothesis]]"
   - "[[Champ]]"
 related_theories:
   - "[[Critical Geopolitics]]"
@@ -56,7 +55,7 @@ updated: '2026-05-18'
 ## 核心假设
 
 > [!abstract]
-> 古典地缘政治建立在一组相互关联的[[Hypothesis|假设]]之上，这些假设共同构成了其分析世界政治的基本框架：
+> 古典地缘政治建立在一组相互关联的假设之上，这些假设共同构成了其分析世界政治的基本框架：
 
 - **民族国家中心性**：国家是唯一或首要的行动者，国际关系的分析单位是主权国家。概念几乎无例外地与"据称领土巩固的二十世纪欧洲国家和更广泛的军事战略系统"相关联（Moisio, 2022, p.26）
 - **国际无政府状态**：没有世界政府能约束国家行为，每个国家只能靠自利驱动——这是 Rizvi (2022) 援引 Dalby (2013) 对现实主义地缘政治的界定：国与国之间本质上是竞争关系，"每个国家为自利而行使权力"（Rizvi, 2022, pp.90–91）

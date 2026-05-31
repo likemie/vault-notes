@@ -11,6 +11,7 @@ tags:
 - region/australia
 related_concepts:
   - "[[Constructive Alignment]]"
+  - "[[Construct]]"
   - "[[Surface and Deep Learning]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Chinese Learner]]"
@@ -53,7 +54,7 @@ updated: '2026-05-23'
 
 > [!info] [[Constructive Alignment|建构性对齐]]（Constructive Alignment）
 > Biggs (1996, 2003) 提出的课程设计原则，包含两个前提（[[John Hattie|Hattie]], 2015, p.87）：
-> 1. **建构性前提**：学生通过他们所做的学习活动来建构意义（students construct meaning from what they do to learn）
+> 1. **建构性前提**：学生通过他们所做的学习活动来建构意义（students [[Construct]] meaning from what they do to learn）
 > 2. **对齐前提**：教师将计划的学习活动与预期的学习结果对齐（the teacher aligns the planned learning activities with the learning outcomes）
 >
 > 任何课程的设计须确保学习活动和评估任务与课程预期的学习结果对齐。学生不应被期望自己"摸索出"要学什么以及成功意味着什么——必须在任何教学或评估之前明确说明成功标准。没有这种对齐，反馈、评估报告和自我调节学习的强大效果就不太可能发生（Hattie, 2015, p.87）。

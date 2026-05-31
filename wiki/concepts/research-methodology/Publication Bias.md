@@ -13,7 +13,6 @@ tags:
 - evidence-based-education
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Hypothesis]]"
   - "[[Developer Effect]]"
   - "[[Researcher Degrees of Freedom]]"
   - "[[Visible Learning]]"
@@ -55,7 +54,7 @@ updated: '2026-05-18'
 > 1. **学术发表压力**：学术机构研究者面临发表压力，期刊偏好发表"引人注目、'干净'的故事"（John, Loewenstein, & Prelec, 2012; McBee, Makel, Peters, & Matthews, 2017）
 > 2. **开发者经济激励**：开发者有更强的动机不传播关于其产品功效的零结果或负面结果——即使是开发者雇佣的独立评估者也可能因不愿破坏与客户关系而压制零结果
 >
-> > 例：[[Hypothesis|假设]]一个教育科技公司委托评估其阅读项目。如果结果显示[[Effect Size|效应量]]接近零，公司可能选择不发布该报告；与此同时，一个显示正面结果的独立研究即使效应量很小也更可能被期刊接受。长期来看，文献中该项目的平均效应量将被人为抬高。
+> > 例：假设一个教育科技公司委托评估其阅读项目。如果结果显示[[Effect Size|效应量]]接近零，公司可能选择不发布该报告；与此同时，一个显示正面结果的独立研究即使效应量很小也更可能被期刊接受。长期来看，文献中该项目的平均效应量将被人为抬高。
 
 
 > [!abstract] Vevea-Hedges 权重函数模型
@@ -97,7 +96,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **Vevea-Hedges 校正的[[Hypothesis|假设]]**：权重函数模型依赖于对发表概率与 p 值关系的假设，且仅适用于研究级平均[[Effect Size|效应量]]，忽略研究内效应量变异（Wolf et al., 2020, p. 442）
+> - **Vevea-Hedges 校正的假设**：权重函数模型依赖于对发表概率与 p 值关系的假设，且仅适用于研究级平均[[Effect Size|效应量]]，忽略研究内效应量变异（Wolf et al., 2020, p. 442）
 > - **[[What Works Clearinghouse|WWC]] 数据的特殊性**：由于联邦报告要求，WWC 可能比一般学术期刊包含更多独立研究的零结果，因此发表偏倚在一般文献中可能比在 WWC 中更严重（Wolf et al., 2020, p. 442）
 
 

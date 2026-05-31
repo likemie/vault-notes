@@ -16,7 +16,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[International Education]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[New Public Management]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -44,7 +43,7 @@ updated: '2026-05-18'
 > [!abstract] 政策文本摘要
 > 2006 年 OECD 启动"改进[[School Leadership|学校领导力]]"（Improving School Leadership, ISL）项目，18 个欧洲国家和 4 个非欧洲国家参与（Møller, 2017, p.376）。项目目标是为政策制定者提供信息，帮助他们制定和实施能够改进教学的政策。
 >
-> > 核心[[Hypothesis|假设]]："成功的学校领导力是大规模教育改革和改善教育结果的关键"（Møller, 2017, p.376）
+> > 核心假设："成功的学校领导力是大规模教育改革和改善教育结果的关键"（Møller, 2017, p.376）
 >
 > 项目产出包括两卷报告：
 > - Vol. 1: *Policy and Practice*（Pont, Nusche & Moorman, 2008b）

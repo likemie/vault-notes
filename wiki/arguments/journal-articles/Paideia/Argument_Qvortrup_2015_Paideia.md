@@ -20,7 +20,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Surface and Deep Learning]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"
 related_theories:
@@ -71,7 +70,7 @@ updated: '2026-05-18'
 >
 > 2. **论证步骤**：
 >    - **步骤一：实证转向不是 [[John Hattie|Hattie]] 发明的。** 德语／受德国影响的教育研究从精神科学教育学转向结果导向研究，与 TIMSS、[[PISA]] 等国际比较评价有关；英美传统中，Glass 早在 1976 年已提出[[Meta-analysis|元分析]]，以回应教育研究结果太多却难以综合的问题（Qvortrup, 2015, pp.23–24）。
->    - **步骤二：三类常见批评可以被回应。** Hattie 明确区分相关与因果，也把证据理解为"智能问题解决的[[Hypothesis|假设]]"而非行动规则；方法论和情境批评的核心不是原则上不能比较，而是必须选择透明且适当的概括层次（Qvortrup, 2015, pp.25–26）。
+>    - **步骤二：三类常见批评可以被回应。** Hattie 明确区分相关与因果，也把证据理解为"智能问题解决的假设"而非行动规则；方法论和情境批评的核心不是原则上不能比较，而是必须选择透明且适当的概括层次（Qvortrup, 2015, pp.25–26）。
 >    - **步骤三：真正未充分讨论的问题是学习结果本身。** Hattie 使用 achievement、student achievement、learning、study outcome 等不同词汇，且学习与学习结果并非良定义概念；[[Effect Size|效应量]]可以比较相对效果，但由此得到的是抽象学习结果，难以说明测量的是表层知识、深层理解、社会能力还是概念学习（Qvortrup, 2015, p.27）。
 >    - **步骤四：需要从分类转向动态模型。** Hattie 借 Popper、Bereiter、Bloom 和 SOLO 来区分知识层次，但这些框架之间的对应关系不清；Qvortrup 因此提出以 Bateson 为起点的动态模型，说明教学不是只刺激某一种知识形式，而是启动一连串学习过程，使多种知识形式相互影响（Qvortrup, 2015, pp.29–32）。
 >
@@ -91,7 +90,7 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "All studies differ and the only interesting questions to ask about them concern how they vary across the factors we conceive as important."（Glass, 2000, p.8，引自 Qvortrup, 2015, p.25）
 >
-> > "A limitation of many of the results in this book is that they are more related to the surface and deep knowing and less to conceptual understanding."（Hattie, 2009, p.249，引自 Qvortrup, 2015, p.29）
+> > "A limitation of many of the results in this book is that they are more related to the surface and deep knowing and less to conceptual understanding."（[[John Hattie|Hattie]], 2009, p.249，引自 Qvortrup, 2015, p.29）
 
 ## 局限性与批评
 

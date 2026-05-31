@@ -21,7 +21,6 @@ related_concepts:
   - "[[Response-ability]]"
   - "[[Transitology]]"
   - "[[Sympoiesis]]"
-  - "[[Hypothesis]]"
   - "[[International Education]]"
   - "[[School Autonomy]]"
   - "[[Knowledge-Based Economy]]"
@@ -97,7 +96,7 @@ updated: 2026-05-18
 >
 > 她借用斯坦福学派 Ramirez & Boli (1987) 的历史分析：18 世纪的欧洲，新兴民族国家面临一个根本问题——如何让领土范围内的居民认同自己是"法国人"或"德国人"，而不是某个村庄或教区的成员？答案是建立大众教育系统。
 >
-> > 例：[[Hypothesis|假设]]你是 18 世纪末的普鲁士官员。你的领土上住着说不同方言、信不同宗教的人。你需要他们把自己首先看作"普鲁士人"，愿意缴税、参军。你怎么做？你建立公立学校，让所有孩子学同一套课程、同一段历史、同一种"我们是谁"的叙事。这就是 Ramirez & Boli 所说的"大众教育的政治建构"。
+> > 例：假设你是 18 世纪末的普鲁士官员。你的领土上住着说不同方言、信不同宗教的人。你需要他们把自己首先看作"普鲁士人"，愿意缴税、参军。你怎么做？你建立公立学校，让所有孩子学同一套课程、同一段历史、同一种"我们是谁"的叙事。这就是 Ramirez & Boli 所说的"大众教育的政治建构"。
 >
 > 这个系统的核心机制是** 创造成员身份**（membership-creating）：教育让你"成为"某个国家的公民。但 Amos 提醒我们注意这个机制的黑暗面——它是通过**划定边界**来运作的（Amos, 2022, p.55）。公立教育的"普遍性"（universality）只延伸到国界之内。
 >
@@ -284,7 +283,7 @@ updated: 2026-05-18
 > [!quote] 关键引用
 > > "The diagnosis of scholars like Escobar and Haraway is clear enough: Without a significant change, not to say transformation of our mind-set, late modernity may as well be the last stage not only for humanity, but for the planet."（Amos, 2022, p.63）
 >
-> > "What is needed then, is an educational theory that draws it all together. One that re-envisions public education with a non-compartmentalized organization of knowledge, that takes connectivity and response-ability, another term for caring as its organizing principle, one that encourages collaboration, is critical of ideologies that place the human being at the center of the universe, one that encourages non-dualistic thinking and the non-fixity of the self, pays attention to the multiple entanglements both material and non-material."（Amos, 2022, p.64）
+> > "What is needed then, is an educational theory that draws it all together. One that re-envisions public education with a non-compartmentalized organization of knowledge, that takes connectivity and [[Response-ability]], another term for caring as its organizing principle, one that encourages collaboration, is critical of ideologies that place the human being at the center of the universe, one that encourages non-dualistic thinking and the non-fixity of the self, pays attention to the multiple entanglements both material and non-material."（Amos, 2022, p.64）
 >
 
 ## 局限性与批评

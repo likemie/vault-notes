@@ -5,10 +5,10 @@ extracted_to:
   - "[[Argument_Snook_2009]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
-  - "[[Effect Size]]"
-  - "[[New Zealand National Standards]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
+  - "[[Effect Size]]"
+  - "[[New Zealand National Standards]]"
   - "[[John Hattie]]"
 processed_date: 2026-05-06
 ---

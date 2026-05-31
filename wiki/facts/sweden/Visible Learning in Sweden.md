@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effective Teaching]]"
+  - "[[Research Problem]]"
   - "[[Evidence-Based Education]]"
   - "[[Policy Borrowing]]"
 related_theories: []
@@ -68,7 +69,7 @@ updated: '2026-05-20'
 
 > [!example] 相关概念／理论
 > - [[Visible Learning]] — 瑞典学校改进重新聚焦课堂教学的关键触发器
-> - [[Effective Teaching]] — 瑞典案例把“什么样的教学更有效”从研究问题转成改进议程
+> - [[Effective Teaching]] — 瑞典案例把“什么样的教学更有效”从[[Research Problem|研究问题]]转成改进议程
 > - [[Evidence-Based Education]] — “科学基础与经验证据”的法律要求为 VL 在学校改进中的落地提供了制度支撑
 > - [[Policy Borrowing]] — 瑞典不是简单复制 [[John Hattie|Hattie]]，而是把 VL 翻译成适合本地学校改进的话语和流程
 

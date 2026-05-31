@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
-  - "[[Hypothesis]]"
   - "[[Recommendations for Practice]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -46,7 +45,7 @@ updated: '2026-05-18'
 ## 操作步骤
 
 > [!example] 操作步骤
-> - **形成干预[[Hypothesis|假设]]**：从描述性、观察性或[[Observational and Correlational Research|相关性研究]]中识别可能的[[Causality|因果关系]]，并据此设计可能改善学习的处理（Brady et al., 2023, p.2）。
+> - **形成干预假设**：从描述性、观察性或[[Observational and Correlational Research|相关性研究]]中识别可能的[[Causality|因果关系]]，并据此设计可能改善学习的处理（Brady et al., 2023, p.2）。
 > - **操纵自[[Variable|变量]]**：研究者主动引入某种教育实践、处理或项目，而不是仅观察既有变量关系（Brady et al., 2023, p.4）。
 > - **与标准实践比较**：干预假设应通过把新处理与既有标准实践比较来正式检验（Brady et al., 2023, p.2）。
 > - **随机分配作为更强版本**：若研究还包含随机分配，则在 Brady et al. (2023) 的分类中属于 experimental studies，而不仅是 intervention studies（Brady et al., 2023, p.4）。
@@ -75,7 +74,7 @@ updated: '2026-05-18'
 
 - vs [[Non-intervention Research]] — 干预研究操纵自[[Variable|变量]]，非干预研究不操纵自变量；Brady et al. (2023) 的核心批评正是教育心理学常把本应由干预研究检验的[[Causality|因果关系]]，提前写成非干预研究中的[[Recommendations for Practice|实践建议]]（Brady et al., 2023, pp.2-4）。
 - vs [[Randomised Controlled Trials]] — RCT 是干预研究的更强版本：二者都操纵自变量，但 RCT 还要求随机分配；因此 Brady et al. (2023) 同时报告"干预研究"比例和"随机实验"比例（Brady et al., 2023, pp.4, 6-7）。
-- vs [[Observational and Correlational Research]] — 观察/相关研究可以识别可能的因果线索，但不操纵变量；干预研究则把这些线索转化为可检验的处理[[Hypothesis|假设]]（Brady et al., 2023, p.2）。
+- vs [[Observational and Correlational Research]] — 观察/相关研究可以识别可能的因果线索，但不操纵变量；干预研究则把这些线索转化为可检验的处理假设（Brady et al., 2023, p.2）。
 
 ## 使用此方法的研究
 

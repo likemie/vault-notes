@@ -11,7 +11,6 @@ tags:
 - effect-size
 - research-methodology
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Confidence Interval]]"
@@ -42,7 +41,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info] 定义
-> 统计显著性（Statistical Significance）用于判断观察到的差异是否足以拒绝"两个总体均值相同"之类的零[[Hypothesis|假设]]。统计检验的核心不是把差异评为"大"或"小"，而是判断检验统计量是否超过临界值；超过则认为差异具有统计显著性，否则不能排除零假设仍然成立的可能（Allerup, 2015, p.45）。
+> 统计显著性（Statistical Significance）用于判断观察到的差异是否足以拒绝"两个总体均值相同"之类的零假设。统计检验的核心不是把差异评为"大"或"小"，而是判断检验统计量是否超过临界值；超过则认为差异具有统计显著性，否则不能排除零假设仍然成立的可能（Allerup, 2015, p.45）。
 
 ## 历史沿革
 
@@ -54,7 +53,7 @@ updated: '2026-05-23'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **零[[Hypothesis|假设]]**：在两个分布均值比较中，零假设可以写为 `H: µ1=µ2`（Allerup, 2015, p.45）。
+> - **零假设**：在两个分布均值比较中，零假设可以写为 `H: µ1=µ2`（Allerup, 2015, p.45）。
 > - **t 值与样本量**：在[[Effect Size|效应量]] d 已知时，若观测数为 n，可构造 `t=d√n`；样本量越大，同样 d 值对应的 t 值越大，也越容易达到统计显著（Allerup, 2015, p.45）。
 > - **p 值**：p 值表示在零假设成立时获得当前或更极端 t 值的概率。研究报告常把 p 值作为统计分析结果呈现的核心（Allerup, 2015, p.45）。
 > - **显著不等于重要**：Terhart 强调，统计显著性不说明效应大小和实践意义；这部分信息需要 [[Effect Size]] 或原始量表差异来补充（Terhart, 2011, p.427）。
