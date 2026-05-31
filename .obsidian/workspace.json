@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "7df672607315bcf0",
+    "id": "a45de3420a659e1b",
     "type": "split",
     "children": [
       {
-        "id": "a518b7deb6f93906",
+        "id": "4f4a159abc86ae7b",
         "type": "tabs",
         "children": [
           {
-            "id": "ab1c0edf0a848eb0",
+            "id": "d5cc64116fa9887e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b2ae3c2992728d56",
+    "id": "b0e33cc5c455b1eb",
     "type": "split",
     "children": [
       {
-        "id": "a7f178d3478ce0b9",
+        "id": "1c4a45adc2174f3c",
         "type": "tabs",
         "children": [
           {
-            "id": "88e92adc127e8098",
+            "id": "1938c14344215b35",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "375cc78b5e25ff42",
+            "id": "d00f681a3c9d908b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Research Problem",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "3dd439f01c76bb9f",
+            "id": "35e1df818cde4b9e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 300
   },
   "right": {
-    "id": "2b6b615f6587554a",
+    "id": "ec50234132d5cb15",
     "type": "split",
     "children": [
       {
-        "id": "7b67996c339b3810",
+        "id": "bbe8ab0fe5067640",
         "type": "tabs",
         "children": [
           {
-            "id": "c06691ef93e8c395",
+            "id": "df4a267734ac1246",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault-schema.md",
+                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "vault-schema 的反向链接列表"
+              "title": "Argument_Creswell_2022_SAGE 的反向链接列表"
             }
           },
           {
-            "id": "935cebbab9a91ee3",
+            "id": "43c9624e2bfa7b59",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault-schema.md",
+                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "vault-schema 的出链列表"
+              "title": "Argument_Creswell_2022_SAGE 的出链列表"
             }
           },
           {
-            "id": "502684311b9e6732",
+            "id": "20365f018338cd1d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "17e6d7d40bf94036",
+            "id": "1ed95d73450961e0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "c4ade702b9613ff7",
+            "id": "b9c50297162e102c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault-schema.md",
+                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "vault-schema 的大纲"
+              "title": "Argument_Creswell_2022_SAGE 的大纲"
             }
           }
         ]
@@ -174,7 +174,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open PDF Reader": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -185,56 +184,12 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-custom-frames:Open PDF Reader": false
     }
   },
-  "active": "ab1c0edf0a848eb0",
+  "active": "d5cc64116fa9887e",
   "lastOpenFiles": [
-    "scripts/translate_quotes_batch_5.py",
-    "wiki/concepts/research-methodology/Study Population and Sample.md",
-    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Byrne_2025_InnovationCenters.md",
-    "wiki/concepts/research-methodology/Test-Retest Reliability.md",
-    "wiki/concepts/research-methodology/Campbell and Stanley Notation System.md",
-    "wiki/concepts/research-methodology/Inter-Rater Reliability.md",
-    "wiki/methods/quantitative/Solomon Four-Group Design.md",
-    "wiki/concepts/research-methodology/Descriptive Analysis.md",
-    "wiki/methods/quantitative/Random Sampling.md",
-    "wiki/concepts/research-methodology/Construct Validity (Quantitative).md",
-    "wiki/concepts/research-methodology/Experimenter Bias.md",
-    "scripts/translate_quotes_batch_4.py",
-    "scripts/translate_quotes_batch_3.py",
-    "scripts/translate_quotes_batch_2.py",
-    "untranslated_quotes.txt",
-    "wiki/methods/quantitative/Chi-Squared Test.md",
-    "wiki/methods/quantitative/Multiple Regression.md",
-    "wiki/methods/quantitative/Pearson Product-Moment Correlation.md",
-    "wiki/concepts/research-methodology/Cover Story.md",
-    "wiki/methods/quantitative/Pilot Testing.md",
-    "wiki/concepts/research-methodology/Internal Consistency (Cronbach's Alpha).md",
-    "wiki/concepts/research-methodology/Response Bias.md",
-    "wiki/concepts/research-methodology/Blinding.md",
-    "wiki/concepts/research-methodology/Manipulation Check.md",
-    "scripts/translate_quotes_batch.py",
-    "wiki/concepts/research-methodology/Abstract.md",
-    "scripts/translate_creswell.py",
-    "index.md",
-    "wiki/theories/index.md",
-    "wiki/concepts/index.md",
-    "wiki/methods/quantitative/t-test.md",
-    "raw/014_Chapter 8 Quantitative Methods.txt",
-    "raw/013_Chapter 7 Research Questions and Hypotheses.txt",
-    "scripts/rename_writing_entries.py",
-    "raw/012_Chapter 6 The Purpose Statement.txt",
-    "books/郑_2023_上海三联书店/figures/学校情况.jpeg",
-    "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
-    "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",
-    "books/Li_2012_Cambridge/figures/European American Conceptualization of Learning.png",
-    "books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png",
-    "books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png",
-    "books/Li_2012_Cambridge/figures/Chinese Conceptualization of Learning.png",
-    "books/郑_2023_上海三联书店/figures/第五章 受访者亚群体在不同主轴位置上的分布情况.jpeg",
-    "books/郑_2023_上海三联书店/figures/第五章 名校大学生工作意义来源的三角图式结构.jpeg",
-    "books/郑_2023_上海三联书店/figures/第三章.jpeg"
+    "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md"
   ]
 }
