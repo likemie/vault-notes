@@ -13,7 +13,6 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Tracking]]"
   - "[[Translational Research]]"
   - "[[University Corporate Engagement Professional]]"
   - "[[Partnership Continuum]]"
@@ -39,7 +38,7 @@ updated: 2026-05-28
 > 产学战略伙伴关系（Strategic Partnership in [[University-Industry Collaboration]]）是产学互动的最高层次。与战术/交易型互动（tactical and transactional）和协作型互动（collaborations）不同，战略伙伴关系建立在信任、互利目标、持续联络和长期规划之上——它不是围绕单个项目的临时合作，而是一种制度化的、面向未来的联盟关系（Burrus & Patera, 2025, pp.78–79; [[University Industry Demonstration Partnership|UIDP]], 2012，引自 Ulrichsen, 2025, pp.45–46）。
 
 > [!quote]
-> "any UI relationship that aims to become a strategic partnership will be built on trust between partners, mutually beneficial goals, consistent points of contact, strategic roadmapping, long-term planning, [[Tracking|setting]] and accounting of annual objectives, and adjusting, pivoting, and growing."（Burrus & Patera, 2025, p.78）
+> "any UI relationship that aims to become a strategic partnership will be built on trust between partners, mutually beneficial goals, consistent points of contact, strategic roadmapping, long-term planning, setting and accounting of annual objectives, and adjusting, pivoting, and growing."（Burrus & Patera, 2025, p.78）
 
 ---
 

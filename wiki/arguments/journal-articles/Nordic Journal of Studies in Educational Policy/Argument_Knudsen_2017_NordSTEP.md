@@ -145,9 +145,11 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "I am a measurement person, I am a statistician, and the work with the concept and implementation was kind of a hobby I did on the side." ([[John Hattie|Hattie]], in Knudsen, 2017, p.254)
+> > “我是一个搞测量的人，我是一个统计学家，而这个概念以及实施方面的工作只是我业余的一种爱好。”
+> ("I am a measurement person, I am a statistician, and the work with the concept and implementation was kind of a hobby I did on the side.") ([[John Hattie|Hattie]], in Knudsen, 2017, p.254)
 >
-> > "It is scripted. To the word. You would never know it, and that's part of the success." (Hattie, in Knudsen, 2017, p.254)
+> > “这是有脚本的。精确到每个字。你永远不会知道，而这也是成功的一部分。”
+> ("It is scripted. To the word. You would never know it, and that's part of the success.") (Hattie, in Knudsen, 2017, p.254)
 >
 
 ## 局限性与批评

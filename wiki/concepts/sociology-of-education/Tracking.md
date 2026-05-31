@@ -5,8 +5,7 @@ aliases:
   - 能力分组
   - ability grouping
   - streaming
-  - setting
-summary: "一种将学生按学业能力分配到不同课程轨道或班级的组织方式，其运作基础是能力固定信念，并通过自我实现的预言再生产教育不平等"
+summary: "根据学术能力、成绩或职业目标将学生分配到不同课程、项目或学校的制度实践，是教育社会学中研究教育不平等如何制度化的核心机制。"
 type: concept
 tags:
   - region/western

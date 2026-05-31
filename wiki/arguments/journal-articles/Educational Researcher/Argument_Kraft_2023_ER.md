@@ -71,7 +71,8 @@ updated: '2026-05-18'
 > > “这是最要紧的基准。”
 > ("This is the benchmark that matters most.")（Kraft, 2023, p.183）
 >
-> > "Efforts to improve education often fail to improve student outcomes, particularly student achievement."（Kraft, 2023, p.187）
+> > “改善教育的努力往往未能改善学生的结果，特别是学生的学业成就。”
+> ("Efforts to improve education often fail to improve student outcomes, particularly student achievement.")（Kraft, 2023, p.187）
 
 ## 局限性与批评
 

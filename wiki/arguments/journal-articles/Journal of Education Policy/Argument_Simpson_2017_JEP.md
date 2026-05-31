@@ -131,7 +131,8 @@ updated: '2026-05-18'
 >
 > ### 4. 核心结论：联盟表不是有效性排名
 >
-> > "Areas which rank highly in Marzano (1998), [[John Hattie|Hattie]] (2009) and Higgins et al. (2013) are those in which researchers can design more sensitive experiments." (Simpson, 2017, p.2)
+> > “在 Marzano (1998)、[[John Hattie|Hattie]] (2009) 和 Higgins et al. (2013) 中排名较高的领域，是那些研究者能够设计出更敏感的实验的领域。”
+> ("Areas which rank highly in Marzano (1998), [[John Hattie|Hattie]] (2009) and Higgins et al. (2013) are those in which researchers can design more sensitive experiments.") (Simpson, 2017, p.2)
 >
 > 效应量排名较高的领域（反馈、元认知）仅说明研究者更容易在这些领域设计低噪声试验，而非这些干预更具教育影响力。以这些排名驱动教育政策是"misdirection"——误导（Simpson, 2017, p.14）。
 
@@ -147,19 +148,26 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Standardised [[Effect Size]] is not a measure of educational impact because larger numbers produced from this process are not indicative of larger educational impact. Instead, areas which rank highly ... are those in which researchers can design more sensitive experiments." (p.2)
+> > “标准化[[Effect Size|效应量]]不是教育影响力的衡量标准，因为从这个过程中产生的更大的数字并不意味着更大的教育影响力。相反，排名靠前的领域……是研究者能设计出更敏感实验的领域。”
+> ("Standardised [[Effect Size]] is not a measure of educational impact because larger numbers produced from this process are not indicative of larger educational impact. Instead, areas which rank highly ... are those in which researchers can design more sensitive experiments.") (p.2)
 >
-> > "The numerical summaries used to develop the toolkit (or the alternative 'barometer of influences': [[John Hattie|Hattie]] 2009) are not a measure of educational impact." (p.2)
+> > “用于开发工具包（或替代性的‘影响气压计’：[[John Hattie|Hattie]] 2009）的数字摘要，并不是教育影响力的衡量标准。”
+> ("The numerical summaries used to develop the toolkit (or the alternative 'barometer of influences': [[John Hattie|Hattie]] 2009) are not a measure of educational impact.") (p.2)
 >
-> > "These violations do not cause random fluctuations in reported effect size: they are not just noise which gets factored out when large numbers of studies are combined. Instead, there is systematic and unadjusted bias in the violation of these assumptions." (pp.4–5)
+> > “这些违背并不会在报告的效应量中引起随机波动：它们不仅仅是在合并大量研究时会被剔除的噪音。相反，在违背这些假设的过程中存在系统性的且未经调整的偏见。”
+> ("These violations do not cause random fluctuations in reported effect size: they are not just noise which gets factored out when large numbers of studies are combined. Instead, there is systematic and unadjusted bias in the violation of these assumptions.") (pp.4–5)
 >
-> > "While calculating an effect size may be simple enough for a first course in statistics, there are considerable subtleties in understanding it sufficiently well to ensure that the processes of combining effect sizes in meta-analyses allows valid conclusions to be drawn." (p.3)
+> > “虽然计算效应量对于统计学的入门课程来说可能足够简单，但在充分理解它以确保在[[Meta-analysis|元分析]]中组合效应量的过程能够得出有效结论方面，存在相当大的微妙之处。”
+> ("While calculating an effect size may be simple enough for a first course in statistics, there are considerable subtleties in understanding it sufficiently well to ensure that the processes of combining effect sizes in meta-analyses allows valid conclusions to be drawn.") (p.3)
 >
-> > "Standardised effect size is a research tool for individual studies, not a policy tool for directing whole educational areas." (p.14)
+> > “标准化效应量是用于单项研究的研究工具，而不是用于指导整个教育领域的政策工具。”
+> ("Standardised effect size is a research tool for individual studies, not a policy tool for directing whole educational areas.") (p.14)
 >
-> > "It might be argued that 'effect size' is badly named. It is not simply a measure of the size of an effect at all and it might have been better named 'effect clarity': a large d indicates that, for that particular intervention, between the two groups used and on the measure selected, the difference is very clear. But that does not mean the difference is large or important or educationally significant." (p.14)
+> > “有人可能会说‘效应量（effect size）’这个名字起得很糟糕。它根本不仅仅是对效应大小的衡量，它或许更应该被命名为‘效应清晰度（effect clarity）’：一个很大的 d 值表明，对于该特定干预，在所使用的两组之间以及所选定的测量指标上，差异非常清晰。但这并不意味着这种差异很大、很重要或具有教育意义。”
+> ("It might be argued that 'effect size' is badly named. It is not simply a measure of the size of an effect at all and it might have been better named 'effect clarity': a large d indicates that, for that particular intervention, between the two groups used and on the measure selected, the difference is very clear. But that does not mean the difference is large or important or educationally significant.") (p.14)
 >
-> > "These meta-meta-analyses which order areas on the basis of effect size are thus poor selection mechanisms for driving educational policy and should not be used for directing large portions of a country's education budget." (p.15)
+> > “因此，这些基于效应量对领域进行排序的[[Meta-meta-analysis|元-元分析]]，是驱动教育政策的糟糕选择机制，不应被用于指导一个国家教育预算的大部分流向。”
+> ("These meta-meta-analyses which order areas on the basis of effect size are thus poor selection mechanisms for driving educational policy and should not be used for directing large portions of a country's education budget.") (p.15)
 
 ## 局限性与批评
 

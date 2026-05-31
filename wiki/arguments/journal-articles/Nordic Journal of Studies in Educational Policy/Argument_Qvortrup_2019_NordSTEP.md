@@ -84,7 +84,8 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "[[Visible Learning]] provides 'an explanatory story, not a "what works" recipe' ([[John Hattie|Hattie]], 2009, p. 3), i.e. that the aim of the book 'is to develop an explanatory story about the key influences on student learning (…), not to build yet another "what works" recipe.'"（Hattie, 2009, p.6，引自 Qvortrup, 2019, p.7）
 >
-> > "The aim of Visible Learning is to support teachers' professional judgement. One of the contributions of educational research is, as accurate as possible, to identify, which interventions and conditions with the greatest probability will lead to learning and personal development. The aim is not to provide teachers with what works best recipes. The aim is to provide teachers with '[[Hypothesis|hypotheses]] for intelligent problem solving' (Hattie, 2009, p. 247)."（Qvortrup, 2019, p.7）
+> > “可见的学习（Visible Learning）的目的是支持教师的[[Professional Judgment|专业判断]]。教育研究的贡献之一是尽可能准确地识别哪些干预措施和条件最有可能带来学习和个人发展。其目的并不是为教师提供‘什么最有效’的食谱。其目的是为教师提供‘智能解决问题的假设’ (Hattie, 2009, p. 247)。”
+> ("The aim of Visible Learning is to support teachers' professional judgement. One of the contributions of educational research is, as accurate as possible, to identify, which interventions and conditions with the greatest probability will lead to learning and personal development. The aim is not to provide teachers with what works best recipes. The aim is to provide teachers with '[[Hypothesis|hypotheses]] for intelligent problem solving' (Hattie, 2009, p. 247).")（Qvortrup, 2019, p.7）
 
 ## 局限性与批评
 

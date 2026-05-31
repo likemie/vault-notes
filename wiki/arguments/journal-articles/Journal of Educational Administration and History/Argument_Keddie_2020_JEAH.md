@@ -84,15 +84,20 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "the notion of markets [is] not … terrific in other domains of adult experience but they are toxic for children — because the sense of a child existing in a market and hierarchy with winners/losers is absolutely antithetical to our understanding of what everyone wants for our young"（Edward, union, NSW, p.437）
+> > “市场的概念……在成人经验的其他领域也算不上太好，但它们对儿童来说是有毒的——因为让一个儿童存在于一个有赢家/输家的市场和等级制度中的感觉，绝对与我们对大家希望年轻人得到什么的理解背道而驰。”
+> ("the notion of markets [is] not … terrific in other domains of adult experience but they are toxic for children — because the sense of a child existing in a market and hierarchy with winners/losers is absolutely antithetical to our understanding of what everyone wants for our young")（Edward, union, NSW, p.437）
 >
-> > "you couldn't design something more effective for social division" — Edward 对 [[My School Website|My School]] 网站的评论（p.437）
+> > “你不可能设计出比这更有效的社会分化工具了”
+> ("you couldn't design something more effective for social division") — Edward 对 [[My School Website|My School]] 网站的评论（p.437）
 >
-> > "nobody knows, except the principal" where funds are allocated, "because it is not transparent"（Noah, professional organisation, NSW, p.438）
+> > 除了校长，“没有人知道”资金被分配到哪里去了，“因为它是不透明的”
+> ("nobody knows, except the principal" where funds are allocated, "because it is not transparent")（Noah, professional organisation, NSW, p.438）
 >
-> > "it is a class system; very much a class system"（Wendy, bureaucrat, Vic, 描述家长筹资不平等, p.441）
+> > “这是一个阶级系统；非常严重的阶级系统”
+> ("it is a class system; very much a class system")（Wendy, bureaucrat, Vic, 描述家长筹资不平等, p.441）
 >
-> > "as long as these [market] imperatives are dominant in such governance, there will continue to be 'goal displacement' … and a compromising of ethical practice within our public education systems"（p.442-443）
+> > “只要这些[市场]要求在这种治理中占主导地位，我们公共教育系统内就将继续存在‘目标置换’……以及对伦理实践的妥协”
+> ("as long as these [market] imperatives are dominant in such governance, there will continue to be 'goal displacement' … and a compromising of ethical practice within our public education systems")（p.442-443）
 
 ## 局限性与批评
 

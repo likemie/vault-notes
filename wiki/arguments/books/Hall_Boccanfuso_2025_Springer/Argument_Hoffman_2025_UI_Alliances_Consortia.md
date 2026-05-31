@@ -22,7 +22,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Product-Specific Research]]"
   - "[[Research Topic]]"
-  - "[[Tracking]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -278,7 +277,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!quote]
 > “让竞争对手在一个联盟环境中合作似乎是一项不可能完成的任务，但经验表明，如果建立起适当的条件，这是可能实现的。”
-> ("It may seem like an impossible task to get competitors to work together in a consortium [[Tracking|setting]], but experience shows that it is possible if the right conditions are established.")（p.117）
+> ("It may seem like an impossible task to get competitors to work together in a consortium setting, but experience shows that it is possible if the right conditions are established.")（p.117）
 
 ---
 

@@ -6,9 +6,9 @@ extracted_to:
   - "[[Neo-Taylorism]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Visible Learning]]"
+  - "[[Scott Eacott]]"
   - "[[John Hattie]]"
   - "[[Popper's Three Worlds Theory]]"
-  - "[[Scott Eacott]]"
 processed_date: 2026-05-07
 ---
 

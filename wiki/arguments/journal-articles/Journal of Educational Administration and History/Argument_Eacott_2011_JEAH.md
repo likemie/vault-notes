@@ -122,19 +122,24 @@ Eacott 提出（Eacott, 2011, p.56-58）：
 ## 关键引用
 
 > [!quote]
-> "The preparation of principals in the New South Wales public school system is evidence of the diminished strength of the [[Champ|field]] of schooling to refract interference from other fields, particularly the economic and political fields."（p.45）
+> “新南威尔士州公立学校系统对校长的培训，证明了学校教育[[Champ|场域]]折射来自其他场域（特别是经济和政治场域）干预的力量正在减弱。”
+> ("The preparation of principals in the New South Wales public school system is evidence of the diminished strength of the [[Champ|field]] of schooling to refract interference from other fields, particularly the economic and political fields.")（p.45）
 
 > [!quote]
-> "The central thesis of this article is that if school leaders are to reclaim their radical past and engage in public intellectualism, an alternate leadership [[Habitus]], one built on educational problem posing and contestation as opposed to organisational problem solving, is required."（p.45）
+> “本文的核心论点是，如果[[School Leadership|学校领导]]者要重拾其激进的过去并参与公共知识分子活动，就需要一种替代性的领导惯习，这种惯习是建立在提出教育问题和争论（而非解决组织问题）的基础之上的。”
+> ("The central thesis of this article is that if school leaders are to reclaim their radical past and engage in public intellectualism, an alternate leadership [[Habitus]], one built on educational problem posing and contestation as opposed to organisational problem solving, is required.")（p.45）
 
 > [!quote]
-> "To be a player in the game of [[School Leadership]], one must learn or be habituated to the rules of the game. A game couched in economic language with frequent intervention, or interference, from those beyond education."（p.50）
+> “要成为[[School Leadership|学校领导力]]游戏中的玩家，一个人必须学习或习惯于游戏规则。这是一场用经济语言表达的游戏，伴随着来自教育领域之外的人的频繁干预或干扰。”
+> ("To be a player in the game of [[School Leadership]], one must learn or be habituated to the rules of the game. A game couched in economic language with frequent intervention, or interference, from those beyond education.")（p.50）
 
 > [!quote]
-> "Any attempt to objectify and/or de-contextualise leadership practice destroys that which it attempts to explain. Leadership is a social practice, it is not static, it is defined moment-by-moment in the interactions between organisational/group members."（p.56）
+> “任何试图将领导实践客观化和/或去情境化的尝试，都会摧毁它试图解释的东西。领导力是一种社会实践，它不是静止的，它是在组织/群体成员之间的互动中每时每刻被定义出来的。”
+> ("Any attempt to objectify and/or de-contextualise leadership practice destroys that which it attempts to explain. Leadership is a social practice, it is not static, it is defined moment-by-moment in the interactions between organisational/group members.")（p.56）
 
 > [!quote]
-> "If orthodoxy is to be challenged alternate ways of being are needed. Not just alternate means of problem solving, but alternate ways of thinking and problem posing."（p.58）
+> “如果正统观念要受到挑战，就需要替代性的存在方式。不仅仅是解决问题的替代手段，还必须是替代性的思维方式和提出问题的方式。”
+> ("If orthodoxy is to be challenged alternate ways of being are needed. Not just alternate means of problem solving, but alternate ways of thinking and problem posing.")（p.58）
 
 
 ## 局限性与批评

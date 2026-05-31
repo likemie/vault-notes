@@ -18,7 +18,6 @@ related_concepts:
   - "[[Translational Research]]"
   - "[[Master Agreement]]"
   - "[[Professional Judgment]]"
-  - "[[Tracking]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -181,7 +180,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!quote] 关键引用
 > > “任何旨在成为战略伙伴关系的产学（UI）关系，都将建立在伙伴间的信任、互利的目标、一致的联系点、战略路线图、长期规划、年度目标的设定与核算，以及不断调整、转向和成长之上。”
-> ("any UI relationship that aims to become a [[Strategic Partnership]] will be built on trust between partners, mutually beneficial goals, consistent points of contact, strategic roadmapping, long-term planning, [[Tracking|setting]] and accounting of annual objectives, and adjusting, pivoting, and growing.")（p.78）
+> ("any UI relationship that aims to become a [[Strategic Partnership]] will be built on trust between partners, mutually beneficial goals, consistent points of contact, strategic roadmapping, long-term planning, setting and accounting of annual objectives, and adjusting, pivoting, and growing.")（p.78）
 >
 > > “没有单一的解决方案或工具能够提供完美的技术对齐。相反，识别大学与企业利益交叉点的最高效、最有效的方法，是将各种技术平台、数据库和网站与人类洞察力（即大学企业参与专业人员、技术许可专员以及院长和系主任的洞察力）结合使用。”
 > ("there is no single solution or tool that provides perfect technological alignment. Instead the most efficient and effective approach to identify intersecting interests of the university and the company is the use of a variety of technology platforms, databases, and websites in combination with the human insights (that of university corporate engagement professionals, technology licensing officers, as well as deans and department chairs).")（p.76）

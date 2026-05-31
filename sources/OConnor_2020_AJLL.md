@@ -2,6 +2,7 @@
 citation: "O'Connor, P. (2020). Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem. Australian Journal of Language and Literacy, 43(2), 141–151."
 extracted_to:
   - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Critiques of Visible Learning]]"
   - "[[Language Experience Approach]]"
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
@@ -14,7 +15,6 @@ extracted_to:
   - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
   - "[[Ken Goodman]]"
-  - "[[Critiques of Visible Learning]]"
 processed_date: 2026-05-03
 ---
 
