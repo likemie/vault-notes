@@ -74,7 +74,8 @@ updated: 2026-05-26
 > 大学与企业——两种治理模式、时间尺度和核心目标截然不同的组织——如何在各自保持制度特性的同时实现有效合作？本书的核心主张是：真正产生影响力的不是泛泛的产学"关系"（relationships），而是有目的的、对齐的"参与"（engagement）——一种在研究与学术、教育与学习、公共效益三个维度上，通过正式协议框架建立的深度合作。
 
 > [!quote]
-> "Fundamental to our book is the notion that strength and impact are developed not solely through relationships between universities and industry but engagement, in research and scholarship, education and learning, and public benefits."（p.4）
+> “贯穿本书的基本理念是：实力与影响力的发展，不仅仅依靠大学与产业之间的关系，更在于研究与学术、教育与学习以及公共利益方面的深度参与。”
+> ("Fundamental to our book is the notion that strength and impact are developed not solely through relationships between universities and industry but engagement, in research and scholarship, education and learning, and public benefits.")（p.4）
 
 全书从第一章起就建立了一个贯穿始终的分析框架：创新越来越多地发生在大学与产业的"界面"（interface）上——这一界面并非简单的接触点，而是贯穿整个科学、工程和学术链条的协作空间，连接理论、实验、发现、测试、开发、设计、实施和商业化（p.4）。
 

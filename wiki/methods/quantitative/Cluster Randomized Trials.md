@@ -18,6 +18,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
   - "[[Intent-to-Treat Analysis]]"
 related_persons: []
 related_facts: []
@@ -34,7 +35,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 集群随机试验（CRT）是一种 [[Randomised Controlled Trials|RCT]] 设计变体，其中随机分配的单位不是个体学生，而是学校或班级等集群。因为教育干预通常在班级或学校层面实施，CRT 已成为教育评估中的"标准实践"（Pampaka et al., 2016, p.232）。
+> 集群随机试验（CRT）是一种 [[Randomised Controlled Trials|RCT]] 设计变体，其中[[Random Assignment|随机分配]]的单位不是个体学生，而是学校或班级等集群。因为教育干预通常在班级或学校层面实施，CRT 已成为教育评估中的"标准实践"（Pampaka et al., 2016, p.232）。
 >
 > > "typically interventions are implemented at the school or classroom level, rather than individual pupil level"（Pampaka et al., 2016, p.232）
 
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 > - **统计功效**：CRT 的功效取决于集群数量而非个体数量，集群内相关性（ICC）显著降低有效样本量
 > - **最小可检测[[Effect Size|效应量]]（MDES）**：衡量研究精度的关键指标，指给定功效下可检测的最小效应量。"近期争论的焦点，因为其主要由经验法则（rules of thumb）决定"（Pampaka et al., 2016, p.233）
 > - **多层设计**：两级 CRT（学生嵌套于学校）和三级 CRT（学生嵌套于班级嵌套于学校）均有相应功效计算公式（Spybrook et al., 2016）
-> - **[[Stable Unit Treatment Value Assumption|SUTVA]] 违反（主体间干扰）**：当随机化单位为教室而政策兴趣单位为个体学生时，同一教室内的学生互动导致结果不独立——"因为任何一个学生的结果取决于他/她与之互动的学生，而这又取决于哪些学生被分配到哪些干预，因果效应不仅由干预定义，而且由哪些学生恰好被分配到哪里定义"（Berk, 2011, p.195）。每个可能的随机分配实现都产生不同的因果效应，"单一的因果效应不再存在"（Berk, 2011, p.195）。截至 Berk 写作时对此没有有效的统计补救方法，但若将分析单位从个体学生改为教室（使用聚合统计量），该问题消失（Berk, 2011, footnote 2, p.200）
+> - **[[Stable Unit Treatment Value Assumption|SUTVA]] 违反（主体间干扰）**：当随机化单位为教室而政策兴趣单位为个体学生时，同一教室内的学生互动导致结果不独立——"因为任何一个学生的结果取决于他/她与之互动的学生，而这又取决于哪些学生被分配到哪些干预，因果效应不仅由干预定义，而且由哪些学生恰好被分配到哪里定义"（Berk, 2011, p.195）。每个可能的[[Random Assignment|随机分配]]实现都产生不同的因果效应，"单一的因果效应不再存在"（Berk, 2011, p.195）。截至 Berk 写作时对此没有有效的统计补救方法，但若将分析单位从个体学生改为教室（使用聚合统计量），该问题消失（Berk, 2011, footnote 2, p.200）
 
 ## 与相关概念的区别
 

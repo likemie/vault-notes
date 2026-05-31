@@ -314,16 +314,20 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 关键引用
 
 > [!quote]
-> "Engagement is less organizationally embedded than commercialization, and is more autonomously driven by individuals."（Perkmann et al., 2013，转引自 p.53）
+> “相较于商业化，‘参与（Engagement）’在组织上的嵌入程度较低，且更多地由个体自主驱动。”
+> ("Engagement is less organizationally embedded than commercialization, and is more autonomously driven by individuals.")（Perkmann et al., 2013，转引自 p.53）
 
 > [!quote]
-> "UI collaborations are likely to be plagued with conflicts due to a weak attitudinal alignment between partners."（Bruneel et al., 2010，转引自 p.54）
+> “由于合作伙伴之间的态度契合度较弱，产学（UI）合作很可能会受到冲突的困扰。”
+> ("UI collaborations are likely to be plagued with conflicts due to a weak attitudinal alignment between partners.")（Bruneel et al., 2010，转引自 p.54）
 
 > [!quote]
-> "Embrace industry engagement as part of core ethos. ... Operationally, translate industry or customer requirements into programs with the authority and charge for sustained delivery."（大学受访者，p.68）
+> “将产业参与作为核心理念的一部分。……在操作上，将产业或客户需求转化为具有持续交付权责的项目。”
+> ("Embrace industry engagement as part of core ethos. ... Operationally, translate industry or customer requirements into programs with the authority and charge for sustained delivery.")（大学受访者，p.68）
 
 > [!quote]
-> "Flexible IP policies. University Partnership Managers who can make the process of understanding the universities research capabilities easier. University Partnership Managers specialized in my industry, to know what they need to know about working with us."（企业受访者，p.68）
+> “灵活的知识产权（IP）政策。能让理解大学研究能力的过程变得更轻松的大学合作经理。专门针对我所在行业的大学合作经理，他们需要了解在与我们合作时必须知道的知识。”
+> ("Flexible IP policies. University Partnership Managers who can make the process of understanding the universities research capabilities easier. University Partnership Managers specialized in my industry, to know what they need to know about working with us.")（企业受访者，p.68）
 
 ---
 

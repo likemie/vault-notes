@@ -17,6 +17,7 @@ related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -77,7 +78,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs [[Causal Modeling]] — 潜在结果框架为因果效应提供定义性基础；因果建模（SEM）尝试通过模型假设从观察数据中估计因果参数，但 Berk (2011) 认为后者存在严重的过度依赖不可检验假设的问题
-> - vs [[Randomised Controlled Trials]] — RCT 是估计因果效应的一种方法；潜在结果框架为理解 RCT 为何有效（随机分配使潜在结果独立于处理分配）提供了概念基础
+> - vs [[Randomised Controlled Trials]] — RCT 是估计因果效应的一种方法；潜在结果框架为理解 RCT 为何有效（[[Random Assignment|随机分配]]使潜在结果独立于处理分配）提供了概念基础
 
 ## 理论基础
 

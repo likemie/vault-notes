@@ -26,8 +26,8 @@ books/
     <book-folder>.pdf 或 <book-folder>.epub
     <book-folder>.md
     figures/
-      chapter-x-concept-map.svg
-      chapter-x-figure-y.svg
+      Chapter_X_Concept_Map.jpg
+      Figure_X-X_Descriptive_Name.jpg
 
 wiki/arguments/books/<book-folder>/
   Argument_<book-folder>.md
@@ -65,26 +65,20 @@ wiki/arguments/books/<book-folder>/
 
 `主要关联条目` 只列 3–5 个最核心的 Concept / Theory / Method / Fact / Person；不同章节的主要关联条目尽量拉开差异，避免每章机械重复同一组条目。
 
-「章节概览」按教材自身的知识推进逻辑组织内容，跟随作者每一步思路，记录概念、理论、证据、案例、表格和结论如何依次展开。建立条目的内容只简单提及，不在教材 Argument 页展开；详细内容进入具体条目。
+「章节概览」按教材自身的知识推进逻辑组织内容，跟随作者每一步思路，记录概念、理论、证据、案例、表格、图片和结论如何依次展开。建立条目的内容只简单提及，不在教材 Argument 页展开；详细内容进入具体条目。图片、表格和新建条目的 Argument 提及规则按 `vault-schema.md` 执行。
 
 每章追加时使用：
 
 ```markdown
 ### 第X章 章节标题
 
-#### 概念地图
+#### 概览
 
-<!-- ![](https://img.mylikemie.icu/books/<book-folder>/figures/chapter-x-concept-map.svg) -->
-
-#### 图片占位
+跟随教材自身逻辑，记录作者每一步思路如何展开。文本表格和图片按 `vault-schema.md` 处理：
 
 > [!example]- 图片占位
 > 图X-X：名称  
-> ![](https://img.mylikemie.icu/books/<book-folder>/figures/chapter-x-figure-y.svg)
-
-#### 概览
-
-跟随教材自身逻辑，记录作者每一步思路如何展开。文本表格、可复制表格或可转写表格必须尽量保留，并整理为 Markdown 表格；图片或图像型 figure 只写轻量占位。
+> ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Descriptive_Name.jpg)
 ```
 
 写作时不以“论文 / 本文 / 本章 / 作者 / 研究者 / 本研究 / 论证”作为常规主语，直接叙述论证、证据和结论。
@@ -109,8 +103,7 @@ wiki/arguments/books/<book-folder>/
    - 若已存在，将当前章节内容整合进「章节结构」「章节概览」和「重要摘录」。
    - 「章节结构」中每章只保留 3–5 个核心关联条目；不同章节尽量选择不同的核心条目，避免重复。
    - 「章节概览」跟随作者每一步思路，记录概念、理论、证据、案例、表格和结论如何依次展开；已建条目只简单提及。
-   - 文本表格、可复制表格或可转写表格必须尽量保留，并整理为 Markdown 表格。
-   - 「概念地图」和「图片占位」可提前写好图床外网地址，AI 不主动绘图；图片占位只写图号或名称和预计嵌入链接。
+   - 文本表格和图片按 `vault-schema.md` 处理。
 8. 在 `## 来源` 章节列出来源。
 9. 执行脚本运行规则。
 10. 当前章节处理完成后停止。

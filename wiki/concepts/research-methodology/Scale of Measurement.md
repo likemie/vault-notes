@@ -16,6 +16,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Analysis of Variance (ANOVA)]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -65,7 +66,7 @@ updated: 2026-05-31
 ## 理论基础
 
 > [!tip]
-> 测量尺度的选择直接影响研究者可使用的统计方法。名义和顺序数据适合非参数检验（如卡方检验、Mann-Whitney U 检验）；等距和比率数据适合参数检验（如 t 检验、ANOVA、回归分析）。量表类型的误判可能导致统计推论的严重错误。
+> 测量尺度的选择直接影响研究者可使用的统计方法。名义和顺序数据适合非参数检验（如卡方检验、Mann-Whitney U 检验）；等距和比率数据适合参数检验（如 t 检验、[[Analysis of Variance (ANOVA)|ANOVA]]、回归分析）。量表类型的误判可能导致统计推论的严重错误。
 
 ## 相关概念
 

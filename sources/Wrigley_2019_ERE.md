@@ -7,6 +7,8 @@ extracted_to:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Playing for Success]]"
   - "[[ResearchED]]"
+  - "[[Meta-analysis]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Gert Biesta]]"
   - "[[Adrian Simpson]]"
   - "[[Gary Thomas]]"
@@ -15,8 +17,6 @@ extracted_to:
   - "[[Sean McCusker]]"
   - "[[Terry Wrigley]]"
   - "[[Critical Realism]]"
-  - "[[Meta-analysis]]"
-  - "[[Randomised Controlled Trials]]"
 processed_date: 2026-05-01
 ---
 

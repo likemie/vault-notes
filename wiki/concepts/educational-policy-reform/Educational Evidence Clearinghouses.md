@@ -27,6 +27,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[5-3-20 Rule]]"
+  - "[[Internal Validity]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -203,7 +204,7 @@ updated: '2026-05-24'
 - [[Intent-to-Treat Analysis]] — Blueprints、[[Social Programs That Work|SPTW]] 和 [[Promise Neighborhoods Research Consortium|PNRC]] 明确要求 ITT 分析；WWC 在特定条件下允许 CACE（Wadhwa et al., 2024, p.9）。
 - [[Effect Size]] — [[Promising Practices Network|PPN]] 最高评级要求至少 0.25 SD，BEE 要求至少 0.20 SD，显示清算中心会把效应量阈值写入证据标准（Wadhwa et al., 2024, p.12）。
 - [[Single-Case Design]] — WWC 的综述协议将 [[21st Century Skills and Competencies Discourse|SCD]] 列为可纳入设计之一，HomVEE 也为 single case designs 设置单独标准（Wadhwa et al., 2024, pp.8-11）。
-- [[Gating Procedure]] 和 [[5-3-20 Rule]] — WWC 的 SCD 和组间设计审查以内部效度门控为基础，SCD 证据综合还使用 5-3-20 阈值（Hitchcock et al., 2015, pp.462, 466）。
+- [[Gating Procedure]] 和 [[5-3-20 Rule]] — WWC 的 SCD 和组间设计审查以[[Internal Validity|内部效度]]门控为基础，SCD 证据综合还使用 5-3-20 阈值（Hitchcock et al., 2015, pp.462, 466）。
 
 ## 来源
 

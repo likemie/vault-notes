@@ -86,15 +86,20 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "An [[Randomised Controlled Trials|RCT]] by itself is insufficient to meet the needs of policy or practice decision makers."（Cartwright and Munro, 2010, p.265; 引自 Cowen et al., 2015, p.10）
+> > “单靠[[Randomised Controlled Trials|RCT]]（随机对照试验）不足以满足政策或实践决策者的需求。”
+> ("An [[Randomised Controlled Trials|RCT]] by itself is insufficient to meet the needs of policy or practice decision makers.")（Cartwright and Munro, 2010, p.265; 引自 Cowen et al., 2015, p.10）
 >
-> > "Local knowledge... may be essential to growing and sustaining school improvement efforts."（Honig and Coburn, 2007, p.601; 引自 Cowen et al., 2015, p.14）
+> > “本地知识……对于发展和维持学校改进工作可能是必不可少的。”
+> ("Local knowledge... may be essential to growing and sustaining school improvement efforts.")（Honig and Coburn, 2007, p.601; 引自 Cowen et al., 2015, p.14）
 >
-> > "We are pushed to be teachers as researchers, when really we should be teachers as scholars."（受访教师, Cowen et al., 2015, p.31）
+> > “我们被推着去成为作为研究者的教师，而实际上我们应该成为作为学者的教师。”
+> ("We are pushed to be teachers as researchers, when really we should be teachers as scholars.")（受访教师, Cowen et al., 2015, p.31）
 >
-> > "Use [the EEF Toolkit] not as guidance, but as a way of asking questions."（受访教师, Cowen et al., 2015, p.24）
+> > “不要将 [EEF工具包] 作为指导，而是作为提出问题的一种方式。”
+> ("Use [the EEF Toolkit] not as guidance, but as a way of asking questions.")（受访教师, Cowen et al., 2015, p.24）
 >
-> > "Fluidity, not fidelity"（Cowen et al., 2015, p.40, Section 6.1 标题）
+> > “流动性，而非忠实度”
+> ("Fluidity, not fidelity")（Cowen et al., 2015, p.40, Section 6.1 标题）
 
 ## 政策建议
 

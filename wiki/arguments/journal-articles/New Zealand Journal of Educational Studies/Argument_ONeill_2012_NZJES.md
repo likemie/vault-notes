@@ -80,13 +80,17 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "[[Material Fallacies]] in logic are 'mistakes in understanding the meaning or use of terms' (Kreeft, 2010, p. 85). Just as in practical logic, public policy discourse becomes problematic when the terms used are ambiguous, unclear or vague."（p.153）
 >
-> > "the [[Meta-analysis]] evidence on the quality of teaching has no demonstrable relevance to schooling policy. Moreover, taken literally, it would mean that the Minister and officials assert that achievement should be raised by asking school students to rate their teachers, which is incoherent."（p.154）
+> > “关于教学质量的[[Meta-analysis|元分析]]证据与学校政策没有可证实的关联。此外，如果按字面理解，这意味着部长和官员们断言应该通过让在校学生对他们的教师进行评级来提高学业成就，这是不合逻辑的。”
+> ("the [[Meta-analysis]] evidence on the quality of teaching has no demonstrable relevance to schooling policy. Moreover, taken literally, it would mean that the Minister and officials assert that achievement should be raised by asking school students to rate their teachers, which is incoherent.")（p.154）
 >
-> > "an expression becomes a slogan 'when it is used to produce a thoughtless knee-jerk reaction of agreement or disagreement simply on the basis of the [[Familiarization|familiarity]] of the words rather than on the basis of reason' (Kreeft, 2010, p. 78)"（pp.154-155）
+> > “当一种表达‘被用来仅仅基于词语的熟悉度而非理性，去产生不假思索的、膝跳反射般的同意或不同意反应时’，它就成了一个口号 (Kreeft, 2010, p. 78)。”
+> ("an expression becomes a slogan 'when it is used to produce a thoughtless knee-jerk reaction of agreement or disagreement simply on the basis of the [[Familiarization|familiarity]] of the words rather than on the basis of reason' (Kreeft, 2010, p. 78)")（pp.154-155）
 >
-> > "the positive sign of the average [[Effect Size]] suggests that increasing [[Class Size]] is poor policy ([[John Hattie|Hattie]], 2009a, p. 88)"（p.157）
+> > “平均[[Effect Size|效应量]]的正号表明，增加[[Class Size|班级规模]]是一项糟糕的政策（[[John Hattie|Hattie]], 2009a, p. 88）。”
+> ("the positive sign of the average [[Effect Size]] suggests that increasing [[Class Size]] is poor policy ([[John Hattie|Hattie]], 2009a, p. 88)")（p.157）
 >
-> > "researchers have a particular responsibility to be watchful both for material fallacies and their mistaken use by policy actors, and on the other hand, they must be prepared to interrupt and challenge flawed public education policy debates whenever they occur."（p.159）
+> > “研究者有一种特殊的责任：一方面要警惕实质性谬误以及政策参与者对其的错误使用；另一方面，当有缺陷的公共教育政策辩论发生时，他们必须准备好随时打断并挑战它。”
+> ("researchers have a particular responsibility to be watchful both for material fallacies and their mistaken use by policy actors, and on the other hand, they must be prepared to interrupt and challenge flawed public education policy debates whenever they occur.")（p.159）
 
 ## 局限性与批评
 

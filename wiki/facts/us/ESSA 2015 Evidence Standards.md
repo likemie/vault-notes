@@ -24,6 +24,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Observational and Correlational Research]]"
+  - "[[Random Assignment]]"
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
@@ -87,7 +88,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 
 > [!info] ESSA 的"严格与宽松"
 > Slavin (2019) 指出 ESSA 标准兼具严格性和宽松性：
-> - **严格**：强和中两级要求随机分配或仔细匹配的[[Preregistration|预注册]]样本、独立测量工具、充分样本量和持续时间、适当分析
+> - **严格**：强和中两级要求[[Random Assignment|随机分配]]或仔细匹配的[[Preregistration|预注册]]样本、独立测量工具、充分样本量和持续时间、适当分析
 > - **宽松**：项目仅需**一项**研究即可达标——这意味着随着更多严格研究完成，标准在未来可能收紧
 
 ## 历史意义

@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Opportunist Mode]]"
+  - "[[External Validity]]"
   - "[[Variable]]"
   - "[[Champ]]"
   - "[[Effect Size]]"
@@ -31,6 +32,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Random Assignment]]"
 related_persons: []
 related_facts:
   - "[[Grammar School]]"
@@ -54,7 +56,7 @@ updated: '2026-05-18'
 > [!abstract] 理论框架
 > - **Tullock 的[[Tullock's Bureaucracy Theory|官僚制理论]]（Tullock, 2005）** — 官僚制是信息处理金字塔，主权者面临的核心难题是知识问题和委托困境，而非简单的自利/[[Opportunist Mode|机会主义]]
 > - **公共选择理论（Public Choice）** — 方法个体主义分析集体决策；强调有限知识与有界理性下的协调问题
-> - **Cartwright 的因果推论哲学** — [[Randomised Controlled Trials|RCT]] 提供不偏估计但不解决外部效度问题；[[Meta-analysis|元分析]]不解决归纳推理的谬误
+> - **Cartwright 的因果推论哲学** — [[Randomised Controlled Trials|RCT]] 提供不偏估计但不解决[[External Validity|外部效度]]问题；[[Meta-analysis|元分析]]不解决归纳推理的谬误
 >
 > 论文的创新在于将这三个框架**首次整合**用于解释 [[Evidence-Based Education|EBE]] 的制度韧性。
 
@@ -75,7 +77,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > ### 1. 认识论限度（承接 Cartwright 传统）
 >
-> [[Randomised Controlled Trials|RCT]] 在严格受控条件下提供无偏估计，但这正是其局限所在——研究者不知道因果效应在新环境中是否存活。[[Meta-analysis|元分析]]试图通过多场景合成解决外部效度，但：
+> [[Randomised Controlled Trials|RCT]] 在严格受控条件下提供无偏估计，但这正是其局限所在——研究者不知道因果效应在新环境中是否存活。[[Meta-analysis|元分析]]试图通过多场景合成解决[[External Validity|外部效度]]，但：
 >
 > - 没有理论的引导，可能的影响因素组合是**无限的**
 > - 研究总体与实际目标总体不匹配（进入 RCT 的群体更像便利样本而非随机样本）
@@ -113,7 +115,7 @@ updated: '2026-05-18'
 >
 > ### 4. 系统层面的盲区
 >
-> EBE 方法论天然锁定在**学校和课堂层面的干预**，因为只有这些层面可以被随机分配：学习风格可以被实验测试，但选拔性[[Grammar School|文法学校]]的系统效应则不能。这意味着：
+> EBE 方法论天然锁定在**学校和课堂层面的干预**，因为只有这些层面可以被[[Random Assignment|随机分配]]：学习风格可以被实验测试，但选拔性[[Grammar School|文法学校]]的系统效应则不能。这意味着：
 >
 > - EBE 内置了 "给定资源，如何使用" 的问题框架——避开 "资源是否足够" 的结构问题
 > - 伦敦弱势学生成绩改善的谜题——长期跨党派政治承诺、地理位置邻近决策中心——在 EBE 框架内无法解释

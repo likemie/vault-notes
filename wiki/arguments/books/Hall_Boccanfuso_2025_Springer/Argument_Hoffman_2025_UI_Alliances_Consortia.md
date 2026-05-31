@@ -21,6 +21,7 @@ related_concepts:
   - "[[Master Agreement]]"
   - "[[Research Question]]"
   - "[[Product-Specific Research]]"
+  - "[[Research Topic]]"
   - "[[Tracking]]"
 related_theories: []
 related_methods: []
@@ -268,13 +269,16 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 关键引用
 
 > [!quote]
-> "Perhaps the most significant challenge is the continuity and continuation of collaborative interactions between a company and university when the individuals who are key to the relationship switch to different jobs or different job descriptions."（p.105）
+> “也许最重大的挑战在于，当对关系至关重要的个体调换工作或岗位职责发生变化时，企业与大学之间合作互动的连续性和延续性。”
+> ("Perhaps the most significant challenge is the continuity and continuation of collaborative interactions between a company and university when the individuals who are key to the relationship switch to different jobs or different job descriptions.")（p.105）
 
 > [!quote]
-> "Ask the question, what are the launch members spending money on independently that could be addressed with a shared investment? The answer to this question is the 'pain' in industry and a potential research theme for the consortium."（p.117）
+> “问这样一个问题：发起成员目前分别在独立花费哪些资金，而这些是可以通过共享投资来解决的？这个问题的答案就是产业的‘痛点’，也是该联盟的潜在[[Research Topic|研究主题]]。”
+> ("Ask the question, what are the launch members spending money on independently that could be addressed with a shared investment? The answer to this question is the 'pain' in industry and a potential research theme for the consortium.")（p.117）
 
 > [!quote]
-> "It may seem like an impossible task to get competitors to work together in a consortium [[Tracking|setting]], but experience shows that it is possible if the right conditions are established."（p.117）
+> “让竞争对手在一个联盟环境中合作似乎是一项不可能完成的任务，但经验表明，如果建立起适当的条件，这是可能实现的。”
+> ("It may seem like an impossible task to get competitors to work together in a consortium [[Tracking|setting]], but experience shows that it is possible if the right conditions are established.")（p.117）
 
 ---
 

@@ -22,6 +22,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Learning Analytics]]"
   - "[[Effect Size]]"
+  - "[[External Validity]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -48,14 +49,16 @@ updated: '2026-05-18'
 > [!info] 研究问题
 > 教育研究为什么多年来极少影响教育实践？过去 15 年推动[[Evidence-Based Reform|证据本位改革]]的三项进展是什么？一个以已验证项目系统填充学校三层教学（[[Top Institute for Evidence-Based Education Research|TIER]] 1/2/3）的未来将如何改变教育？
 >
-> > "Why is it that educational research so rarely has an impact on the practice of education?" (p. 2)
+> > “为什么教育研究如此罕见地对教育实践产生影响？”
+> ("Why is it that educational research so rarely has an impact on the practice of education?") (p. 2)
 
 ## 理论立场
 
 > [!abstract] 理论立场
 > Slavin 是 **[[Evidence-Based Education|EBE]] 的最强版本**（evidence-based, 非 evidence-informed）：教育者应基于特定项目的实验有效性证据选择方案，而非依靠通用原则或专业直觉。理由：(1) 研究反复发现教师难以将通用原则转化为有效实践；(2) 没有与替代方案的直接比较，无法知道"什么有效"。
 >
-> > "This definition does not refer to simply disseminating information about generic principles of effective practice, which has not generally been found to make much of a difference in practices or outcomes." (p. 3)
+> > “该定义并非仅仅指传播关于有效实践的一般原则的信息，通常发现这种做法对实践或结果并不能产生多大影响。”
+> ("This definition does not refer to simply disseminating information about generic principles of effective practice, which has not generally been found to make much of a difference in practices or outcomes.") (p. 3)
 >
 > 论文性质：不是实证研究，而是**职业生涯回顾 + 政策倡导**——Thorndike Career Achievement Award 演讲。
 
@@ -105,7 +108,7 @@ updated: '2026-05-18'
 > [!warning] 对批评的回应
 > | 批评 | Slavin 的回应 |
 > |------|-------------|
-> | 实验结果不概化 | 现代实验要求聚类级别分析（40-50 所学校），随机分配+大样本大幅提升了外部效度；Evidence for ESSA 报告人口统计信息供自行判断 |
+> | 实验结果不概化 | 现代实验要求聚类级别分析（40-50 所学校），[[Random Assignment\|随机分配]]+大样本大幅提升了[[External Validity\|外部效度]]；Evidence for ESSA 报告人口统计信息供自行判断 |
 > | 早期实验不复现 | 第三方评估、禁止自编测量、加权样本量正在缓解该问题 |
 > | 高贫困学校无能力实施 | 几乎所有"已验证"研究都在高贫困学校进行；问题是政策和资源动荡，不是学校和教师的能力 |
 > | 实验特权压制其他方法 | 这是"方法[[Matching\|匹配]]问题"——当问"与替代方案相比是否有效"时，实验就是最佳设计 |
@@ -129,11 +132,14 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "[[Evidence-Based Reform]] could finally apply to education the process that led to dramatic developments in medicine, agriculture, and technology in the 20th century." (p. 12)
 >
-> > "The design should be appropriate to the question being asked. ... When we want to know 'what works,' we must ask, 'Compared to what?'" (p. 10)
+> > “设计应该与所提出的问题相适应。……当我们想知道‘什么有效’时，我们必须问，‘与什么相比？’”
+> ("The design should be appropriate to the question being asked. ... When we want to know 'what works,' we must ask, 'Compared to what?'") (p. 10)
 >
-> > "The winners in this would be millions of children, especially those who are least well served by the current system." (p. 12)
+> > “其中的赢家将是数以百万计的儿童，特别是那些在当前体系中服务最不到位的儿童。”
+> ("The winners in this would be millions of children, especially those who are least well served by the current system.") (p. 12)
 >
-> > "Programs with a strong evidence base that are implemented as they were in the validating research are likely to produce better outcomes for children." (p. 3)
+> > “具备坚实证据基础且能像在验证研究中那样被实施的项目，很可能为儿童产生更好的结果。”
+> ("Programs with a strong evidence base that are implemented as they were in the validating research are likely to produce better outcomes for children.") (p. 3)
 
 ## 局限性与批评
 
@@ -155,7 +161,7 @@ updated: '2026-05-18'
 > **回避的核心论点**：
 > - **Biesta (2010)**：知识缺陷——证据无法提供确定性，只提供过去关系的记录
 > - **Cowen (2019)**：[[Evidence-Based Education|EBE]] 的制度功能是为官僚提供"透明"的过滤机制，而非改进教学
-> - **Deaton & Cartwright (2018)**：RCT 不解决外部效度问题，[[Meta-analysis|元分析]]不解决归纳推理谬误——这些是 Cowen 也在引用的技术批评
+> - **Deaton & Cartwright (2018)**：RCT 不解决[[External Validity|外部效度]]问题，[[Meta-analysis|元分析]]不解决归纳推理谬误——这些是 Cowen 也在引用的技术批评
 >
 > **影响**：此回避使 Slavin 的论述在 EBE 支持者圈内具有说服力，但无法与批判文献建立有效对话——形成了两个平行的话语体系（Biesta/Cowen/Wrigley 的批判 vs. Slavin/[[John Hattie|Hattie]] 的支持）。
 >

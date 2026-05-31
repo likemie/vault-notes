@@ -104,9 +104,11 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "To lead education beyond the agenda of what works, we need different approaches to research, including reflective approaches and critical studies addressing the power structures."（p.382）
+> > “为了引领教育超越‘什么有效’的议程，我们需要不同的研究途径，包括反思性途径以及探讨权力结构的批判性研究。”
+> ("To lead education beyond the agenda of what works, we need different approaches to research, including reflective approaches and critical studies addressing the power structures.")（p.382）
 >
-> > "The rush to get accountability systems enshrined in legislation and bureaucratic practice is running ahead of the evidence on its behalf, and this is true despite the fact that the architects of the accountability systems are also vocal proponents of scientifically based decision making."（Henig, 2013: xi, cited in Møller, 2017, p.383）
+> > “急于将问责制纳入立法和官僚实践的冲动，已经跑在了支持它的证据前面；尽管问责制的架构师们也是基于科学决策的大声疾呼者，但这一事实依然存在。”
+> ("The rush to get accountability systems enshrined in legislation and bureaucratic practice is running ahead of the evidence on its behalf, and this is true despite the fact that the architects of the accountability systems are also vocal proponents of scientifically based decision making.")（Henig, 2013: xi, cited in Møller, 2017, p.383）
 >
 > > "Education is and always will be a contested [[Champ|field]]."（p.383）
 >

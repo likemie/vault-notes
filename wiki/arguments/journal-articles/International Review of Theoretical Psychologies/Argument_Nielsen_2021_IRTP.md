@@ -24,6 +24,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Variable]]"
   - "[[Feedback]]"
+  - "[[Doxa]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -80,7 +81,8 @@ updated: '2026-05-18'
 >
 > 作者论证 Hattie 深受 Schön (1983, 1987) 所描述的**技术理性（Technical Rationality）**影响（p. 81-82）：
 >
-> > "Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an account of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind." (Schön, 1983, p. 31)
+> > “技术理性是实证主义的遗产，这一强大的哲学学说在十九世纪成长起来，既作为对科学技术崛起的解释，也作为一场旨在将科学技术的成就应用于人类福祉的社会运动。”
+> ("Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an account of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind.") (Schön, 1983, p. 31)
 >
 > 技术理性铺平了教育中的手段-目的思维（means-ends thinking）——问题被理解为脱离情境的独立实体，可以通过查阅和应用基础科学知识来解决（p. 82）。
 >
@@ -110,9 +112,11 @@ updated: '2026-05-18'
 > - **学习目标不容讨论**：Hattie 的理论是一个**封闭系统**——"the learning objective sanctifies the means of teaching"（p. 88-89）。教育问题被理解为技术性目标-手段理性范畴内的问题，其他类型的问题被认为无关
 > - **反馈取代对话**：人际对话被相互反馈过程取代，很少关注赋予学生学习的理由
 >
-> > "In Hattie's theory of [[Visible Learning]], the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students... direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching." (pp. 88-89)
+> > “在 Hattie 的可见的学习理论中，教师必须利用反馈（向后反馈、向上反馈和向前反馈），创造一个环境，在其中学生……将学生的活动引向已经制定好的学习目标。这是一个封闭的系统，其中学习目标使教学手段变得神圣化。”
+> ("In Hattie's theory of [[Visible Learning]], the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students... direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching.") (pp. 88-89)
 >
-> > "Hattie's theory of learning thus has 'the ideological function of making the technical approach to learning self-evident and dominant'" (p. 89, citing Kvale, 1976, p. 106)
+> > “因此，Hattie 的学习理论具有‘使技术的学习途径变得[[Doxa|不言自明]]且占据主导地位的意识形态功能’。”
+> ("Hattie's theory of learning thus has 'the ideological function of making the technical approach to learning self-evident and dominant'") (p. 89, citing Kvale, 1976, p. 106)
 
 ## 主要发现
 
@@ -125,13 +129,17 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "What [[Visible Learning]] accomplishes... is to supply a theory of teaching... that directly challenges traditional understandings of the role of education." (p. 83)
+> > “可见的学习所取得的成就……是提供了一种直接挑战对教育角色传统理解的……[[Didaktik|教学理论]]。”
+> ("What [[Visible Learning]] accomplishes... is to supply a theory of teaching... that directly challenges traditional understandings of the role of education.") (p. 83)
 >
-> > "It was not the scientific discoveries or the original data produced by [[John Hattie|Hattie]] or the evidence-based movement in itself that made a difference but the promises embedded in the theory of [[Technical Rationality]] that could legitimize the educational system." (p. 87)
+> > “真正产生影响的，并非[[John Hattie|Hattie]]所做出的科学发现或原始数据，也非证据为本运动本身，而是[[Technical Rationality|技术理性]]理论中所蕴含的能够使教育系统合法化的承诺。”
+> ("It was not the scientific discoveries or the original data produced by [[John Hattie|Hattie]] or the evidence-based movement in itself that made a difference but the promises embedded in the theory of [[Technical Rationality]] that could legitimize the educational system.") (p. 87)
 >
-> > "The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of [[Variable|variables]]." (p. 88)
+> > “教育效应（[[Effect Size|效应量]]）的原子化，同时也就变成了将学生和教师原子化为一系列[[Variable|变量]]。”
+> ("The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of [[Variable|variables]].") (p. 88)
 >
-> > "In many respects, Hattie's theory of learning thus has 'the ideological function of making the technical approach to learning self-evident and dominant' (Kvale, 1976, p. 106—our translation)." (p. 89)
+> > “在许多方面，Hattie 的学习理论因此具有‘使技术的学习途径变得[[Doxa|不言自明]]且占据主导地位的意识形态功能’ (Kvale, 1976, p. 106—作者译)。”
+> ("In many respects, Hattie's theory of learning thus has 'the ideological function of making the technical approach to learning self-evident and dominant' (Kvale, 1976, p. 106—our translation).") (p. 89)
 
 ## 局限性与批评
 

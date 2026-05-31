@@ -91,13 +91,17 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The methodology involved in meta-analyses often obscures rather than illuminates what is needed for good policy decisions. The grouping of various factors into one '[[Effect Size]]' often hides the complexity of the issues." (p.97)
+> > “[[Meta-analysis|元分析]]中涉及的方法论往往不仅不能启发，反而会掩盖良好政策决策所需的东西。将各种因素归集为一个‘[[Effect Size|效应量]]’，常常隐藏了问题的复杂性。”
+> ("The methodology involved in meta-analyses often obscures rather than illuminates what is needed for good policy decisions. The grouping of various factors into one '[[Effect Size]]' often hides the complexity of the issues.") (p.97)
 >
-> > "Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education." ([[John Dewey|Dewey]], quoted in [[John Hattie|Hattie]], 2009, p.247; quoted p.97)
+> > “证据并不为我们提供行动规则，而仅仅为我们提供了用于智能解决问题的假设，以及用于质询我们教育目的的假设。”
+> ("Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education.") ([[John Dewey|Dewey]], quoted in [[John Hattie|Hattie]], 2009, p.247; quoted p.97)
 >
-> > "Although there are many published reports of educational research, you need to be very selective in identifying those that have something trustworthy to say about classroom teaching and learning." (Nuthall, 2007, p.16, quoted p.97)
+> > “尽管有许多已发表的教育研究报告，但在识别那些对课堂教学与学习有可信说法的报告时，你需要非常具有选择性。”
+> ("Although there are many published reports of educational research, you need to be very selective in identifying those that have something trustworthy to say about classroom teaching and learning.") (Nuthall, 2007, p.16, quoted p.97)
 >
-> > "It is important that students preparing for teaching learn about the research process and how easily it leads to error rather than truth. They need to respect research but be acutely aware of its limitations." (p.97)
+> > “对于准备从事教学的学生来说，了解研究过程以及它是多么容易导致错误而不是真相，这一点很重要。他们需要尊重研究，但也要敏锐地意识到它的局限性。”
+> ("It is important that students preparing for teaching learn about the research process and how easily it leads to error rather than truth. They need to respect research but be acutely aware of its limitations.") (p.97)
 
 ## 局限性与批评
 

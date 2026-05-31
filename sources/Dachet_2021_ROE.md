@@ -3,10 +3,10 @@ citation: "Dachet, D., & Baye, A. (2021). Evidence-based education: The not so s
 extracted_to:
   - "[[Argument_Dachet_2021_ROE]]"
   - "[[Grade Retention]]"
+  - "[[Inclusive Evidence Validation Typology]]"
   - "[[French-Speaking Belgium Education System]]"
   - "[[Grade Retention in French-Speaking Belgium]]"
   - "[[Pact for Educational Excellence]]"
-  - "[[Inclusive Evidence Validation Typology]]"
 processed_date: 2026-05-23
 ---
 

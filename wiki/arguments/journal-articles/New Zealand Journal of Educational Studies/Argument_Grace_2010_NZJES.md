@@ -82,11 +82,14 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The education academic in the role of [[Critic and Conscience of Society]] has an obligation to include non-school factors in all analyses of differential educational achievement because otherwise both politicians and citizens are encouraged to believe that changes in educational arrangements alone can solve much of the existing inequalities in educational achievements." (p.91)
+> > “扮演社会批评家与良知角色的教育学者有义务在所有关于不同学业成就的分析中纳入非学校因素，因为否则政治家和公民都会受到鼓动去相信：单靠改变教育安排就能解决很大一部分现有的教育成就中的不平等。”
+> ("The education academic in the role of [[Critic and Conscience of Society]] has an obligation to include non-school factors in all analyses of differential educational achievement because otherwise both politicians and citizens are encouraged to believe that changes in educational arrangements alone can solve much of the existing inequalities in educational achievements.") (p.91)
 >
-> > "This reductionist and naive view of the influence of schooling alone in determining educational achievements is very convenient for politicians and policy makers because it diverts attention away from more fundamental questions about social and economic inequalities in society." (p.91)
+> > “这种认为单靠学校教育就能决定学业成就的还原论和幼稚观点，对政治家和政策制定者来说非常方便，因为它将人们的注意力从关于社会中社会和经济不平等的更根本问题上转移开了。”
+> ("This reductionist and naive view of the influence of schooling alone in determining educational achievements is very convenient for politicians and policy makers because it diverts attention away from more fundamental questions about social and economic inequalities in society.") (p.91)
 >
-> > "In this role, Bernstein was acting as a critic and conscience of society: that is, he drew attention to the crucial importance of non-school factors." (p.91)
+> > “在这个角色中，Bernstein 是在扮演社会批评家和良知的角色：即，他唤起了人们对非学校因素至关重要性的关注。”
+> ("In this role, Bernstein was acting as a critic and conscience of society: that is, he drew attention to the crucial importance of non-school factors.") (p.91)
 
 ## 局限性与批评
 

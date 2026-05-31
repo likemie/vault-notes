@@ -18,7 +18,9 @@ tags:
 related_concepts:
   - "[[Literature Review]]"
   - "[[Causality]]"
+  - "[[Internal Validity]]"
   - "[[Stable Unit Treatment Value Assumption]]"
+  - "[[External Validity]]"
   - "[[Variable]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
@@ -68,9 +70,9 @@ updated: '2026-05-18'
 >
 > ### 2. 随机实验的优势与局限
 >
-> 随机实验的内部效度优势被认可（[[Campbell Collaboration|Campbell]], 1969; Campbell & Stanley, 1963），但广泛使用导致两个不良后果：
+> 随机实验的[[Internal Validity|内部效度]]优势被认可（[[Campbell Collaboration|Campbell]], 1969; Campbell & Stanley, 1963），但广泛使用导致两个不良后果：
 > - **集群随机化问题**：随机化单位（教室）与政策兴趣单位（学生）不一致，导致样本量不足、[[Stable Unit Treatment Value Assumption|SUTVA]] 违反——"单一的因果效应不再存在"（Berk, 2011, p.195）
-> - **非随机研究被断然否定**："这是一个严重错误"，因为内部效度只是多种效度之一——没有外部效度，[[Randomised Controlled Trials|RCT]] 结果对政策毫无用处（Berk, 2011, p.195）
+> - **非随机研究被断然否定**："这是一个严重错误"，因为内部效度只是多种效度之一——没有[[External Validity|外部效度]]，[[Randomised Controlled Trials|RCT]] 结果对政策毫无用处（Berk, 2011, p.195）
 >
 > Berk 的平衡立场：RCT 的最强理由并非其方法论优越性，而是"比其它设计更能防止研究者犯严重的统计错误"（Berk, 2011, p.196）——同时承认设计不如 RCT 但具有更好外部效度的观察性研究"有时可以提供有启发性的结果"（Berk, 2011, p.195）。
 >
@@ -86,7 +88,8 @@ updated: '2026-05-18'
 >
 > 元分析"从一个好主意开始"——当有可比的随机实验时，合并结果可以获得统计功效（Berk, 2011, p.198）。但当研究不可比较（不同处理、不同结果、不同主体）、非随机实验被合并（有偏估计不会相互抵消）、以及统计推断不成立（研究不独立——研究者互相阅读、交流、合作）时，元分析"开始脱轨"。
 >
-> > "In short, the importance of meta-analysis for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better." (Berk, 2011, p.199)
+> > “简而言之，元分析对于估计因果效应的重要性被严重高估了。传统的[[Literature Review|文献综述]]通常会做得更好。”
+> ("In short, the importance of meta-analysis for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better.") (Berk, 2011, p.199)
 
 ## 主要发现
 
@@ -101,15 +104,20 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "For every well done and useful study there is at least one other doing what under the famous Daubert ruling would be called junk science." (Berk, 2011, p.192)
+> > “对于每一项做得好且有用的研究，至少存在另一项研究在做著名的道伯特裁决（Daubert ruling）所称的垃圾科学。”
+> ("For every well done and useful study there is at least one other doing what under the famous Daubert ruling would be called junk science.") (Berk, 2011, p.192)
 >
-> > "It is sometimes difficult to determine which is which. Some purveyors of junk do not know what they are doing but proceed with all of the superficial trappings of high-quality work. Other purveyors of junk know well what they are doing and use those same trappings to cover their tracks." (Berk, 2011, p.192)
+> > “有时很难分辨孰是孰非。一些垃圾科学的兜售者不知道自己在做什么，却带着高质量工作的所有表面特征继续前进。另一些兜售者则清楚地知道自己在做什么，并利用同样的特征来掩盖他们的踪迹。”
+> ("It is sometimes difficult to determine which is which. Some purveyors of junk do not know what they are doing but proceed with all of the superficial trappings of high-quality work. Other purveyors of junk know well what they are doing and use those same trappings to cover their tracks.") (Berk, 2011, p.192)
 >
-> > "There can be one causal effect for each possible shuffling of the study units, and a single causal effect no longer exists." (Berk, 2011, p.195, on [[Stable Unit Treatment Value Assumption|SUTVA]] violation)
+> > “对于研究单位的每一种可能重组，都可以产生一个因果效应，于是单一的因果效应也就不复存在了。”
+> ("There can be one causal effect for each possible shuffling of the study units, and a single causal effect no longer exists.") (Berk, 2011, p.195, on [[Stable Unit Treatment Value Assumption|SUTVA]] violation)
 >
-> > "The benchmark for any evaluation is current knowledge, not perfection. Hence, designs with less internal validity than randomized experiments can sometimes be probative." (Berk, 2011, p.195)
+> > “任何评估的基准都是现有的知识，而不是完美。因此，[[Internal Validity|内部效度]]低于随机实验的设计有时也具有证明力。”
+> ("The benchmark for any evaluation is current knowledge, not perfection. Hence, designs with less internal validity than randomized experiments can sometimes be probative.") (Berk, 2011, p.195)
 >
-> > "The importance of [[Meta-analysis]] for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better." (Berk, 2011, p.199)
+> > “[[Meta-analysis|元分析]]对于估计因果效应的重要性被严重高估了。传统的[[Literature Review|文献综述]]通常会做得更好。”
+> ("The importance of [[Meta-analysis]] for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better.") (Berk, 2011, p.199)
 
 ## 建议与对策
 

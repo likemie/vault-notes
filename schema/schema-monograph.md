@@ -24,7 +24,7 @@ books/
     <book-folder>.<ext>
     <book-folder>.md
     figures/
-      argument-structure.svg
+      Figure_X-X_Descriptive_Name.jpg
 
 wiki/arguments/books/<book-folder>/
   Argument_<book-folder>.md
@@ -48,7 +48,7 @@ wiki/arguments/books/<book-folder>/
 
 关键引用不放入「各章概览」里堆积，而是从第一章开始持续补充到全书 Argument 的「关键引用」章节。每条引用必须标注章节与页码；如果用户提供的文本没有页码，只能记录章节信息，不得编造页码。
 
-若章节涉及 figure / 图片等图像型材料，不读取独立 schema；按 `vault-schema.md` 的「图片和表格处理」规则在当前 Argument 的对应章节中写图片占位，Markdown 嵌入使用图床外网地址。文本表格、可复制表格或可转写表格应尽量直接读取、整理为 Markdown 表格。
+图片、表格和新建条目的 Argument 提及规则按 `vault-schema.md` 执行。
 
 ---
 

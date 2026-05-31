@@ -28,6 +28,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Philosophical Analysis in Education]]"
+  - "[[Random Assignment]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
 related_persons: []
@@ -73,7 +74,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> - **Tennessee STAR 项目揭示了 [[Randomised Controlled Trials|RCT]] 外推的三重失败**：(1) 参与学校系统性不具代表性（规模更大、非裔学生比例高出州平均 40%）；(2) 随机分配被破坏（家长施压使富裕学生向小班迁移）；(3) 大规模推广时教师质量成为关键混淆因素——加州 1996 年班级缩减政策使未认证教师比例从 1/200 飙升至 1/8。（Wiliam, 2019, pp.6–7）
+> - **Tennessee STAR 项目揭示了 [[Randomised Controlled Trials|RCT]] 外推的三重失败**：(1) 参与学校系统性不具代表性（规模更大、非裔学生比例高出州平均 40%）；(2) [[Random Assignment|随机分配]]被破坏（家长施压使富裕学生向小班迁移）；(3) 大规模推广时教师质量成为关键混淆因素——加州 1996 年班级缩减政策使未认证教师比例从 1/200 飙升至 1/8。（Wiliam, 2019, pp.6–7）
 >
 > - **[[Tracking|能力分组]]研究暴露了忽略教师质量的研究设计缺陷**：即使 RCT 发现能力分组与较低成就相关，也不能得出能力分组导致低成就的结论——可能是最有效的教师被分配给高成就学生（Wiliam, 2019, pp.8–9）。Wiliam 以自身研究经历（Boaler, Wiliam, & Brown, 2000; Wiliam & Bartholomew, 2004）承认当时未意识到教师间差异的量级，如今此证据使其研究结论不再明确。（Wiliam, 2019, p.8）
 >

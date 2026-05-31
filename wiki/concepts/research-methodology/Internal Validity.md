@@ -11,17 +11,14 @@ tags:
   - quantitative-research
   - validity
 related_concepts:
+  - "[[Variable]]"
   - "[[External Validity]]"
-  - "[[Causality]]"
-  - "[[Construct Validity (Quantitative)]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
-  - "[[Quasi-Experimental Designs]]"
-  - "[[Pre-Experimental Designs]]"
-  - "[[Random Assignment]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Campbell Collaboration]]"
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
@@ -36,12 +33,12 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 内部效度威胁（Internal Validity Threats）指实验程序、处理或受试者的经历中，可能威胁研究者从实验数据对总体做出正确推论能力的因素。当存在内部效度威胁时，研究者无法确定观察到的效果是由被操纵的变量引起的，而非其他未控制的因素（Creswell & Creswell, 2022, Ch8）。
+> 内部效度威胁（Internal Validity Threats）指实验程序、处理或受试者的经历中，可能威胁研究者从实验数据对总体做出正确推论能力的因素。当存在内部效度威胁时，研究者无法确定观察到的效果是由被操纵的[[Variable|变量]]引起的，而非其他未控制的因素（Creswell & Creswell, 2022, Ch8）。
 
 ## 核心要素
 
 > [!abstract]
-> Campbell & Stanley (1963) 经典框架中识别的内部效度威胁，结合 Creswell & Guetterman (2018) 的扩展分类，可归为三类（Creswell & Creswell, 2022, Ch8, Table 8.5）：
+> [[Campbell Collaboration|Campbell]] & Stanley (1963) 经典框架中识别的内部效度威胁，结合 Creswell & Guetterman (2018) 的扩展分类，可归为三类（Creswell & Creswell, 2022, Ch8, Table 8.5）：
 
 ### 与受试者相关的威胁
 
@@ -71,7 +68,7 @@ updated: 2026-05-31
 ## 争议与批评
 
 > [!warning]
-> 内部效度和[[External Validity|外部效度]]之间存在权衡：高度控制的实验环境虽能保障内部效度，但可能降低外部效度（即结果难以推广到自然情境）。实验研究者需要在设计阶段明确识别潜在的内部效度威胁，并采取相应的应对措施（Creswell & Creswell, 2022, Ch8）。
+> 内部效度和[[External Validity|外部效度]]之间存在权衡：高度控制的实验环境虽能保障内部效度，但可能降低外部效度（即结果难以推广到自然情境）。[[Experimental Research|实验研究]]者需要在设计阶段明确识别潜在的内部效度威胁，并采取相应的应对措施（Creswell & Creswell, 2022, Ch8）。
 
 ## 来源
 

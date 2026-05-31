@@ -29,6 +29,7 @@ related_methods:
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Causal Modeling]]"
   - "[[Matching]]"
+  - "[[Analysis of Variance (ANOVA)]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
@@ -92,7 +93,7 @@ updated: 2026-05-18
 
 > [!example] 使用此方法的研究
 > - [[Argument_Brady_2023_EPR]] — 将观察/相关研究作为五类方法之一进行期刊趋势编码，发现其在 2020 年仍占五本教育心理学经验期刊文章的 46%，且其中 66% 包含[[Recommendations for Practice|实践建议]]（Brady et al., 2023, pp.6-7）。
-> - [[Argument_Lekhal_2015_Paideia]] — 挪威 48 校 4128 名学生双信息源数据研究，结合方差分析与分性别分层多元回归，检验在校态度、行为与关系[[Variable|变量]]对学业性别差异的解释路径（Lekhal et al., 2015, pp.79-83）。
+> - [[Argument_Lekhal_2015_Paideia]] — 挪威 48 校 4128 名学生双信息源数据研究，结合[[Analysis of Variance (ANOVA)|方差分析]]与分性别分层多元回归，检验在校态度、行为与关系[[Variable|变量]]对学业性别差异的解释路径（Lekhal et al., 2015, pp.79-83）。
 > - [[Student-Teacher Relationship]] — 作为学生自评关系变量进入性别差异模型，展示"测量来源差异"对关系变量解释力的影响（Lekhal et al., 2015, pp.82, 85）。
 > - [[Classroom Learning Culture]] — 作为学生自评班级环境变量进入模型，显示在该样本中性别差异不显著（Lekhal et al., 2015, p.82）。
 > - [[Learning-Impeding Behavior]] — 作为学生自评行为变量进入模型，与规范适应和学习动机构成在校行为解释链条（Lekhal et al., 2015, pp.80, 83-84）。

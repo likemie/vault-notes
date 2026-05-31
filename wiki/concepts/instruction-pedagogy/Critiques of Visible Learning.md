@@ -58,6 +58,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
+  - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
 related_persons:
   - "[[John Hattie]]"
@@ -486,7 +487,7 @@ Bergeron & Rivard（2017）从统计学家视角对 Hattie 和 *Visible Learning
 
 **基线比较的任意性**：Hattie 的效应量比较"是任意的，他对此完全不知"（p.241）。班级规模、SES 等关键因素的效应量符号仅取决于隐含基线选择的反转——SES 若比较贫穷 vs 富裕学生，d=−0.59 将成为 VL 中最负面的效应。Bergeron & Rivard 指出，这一简单的符号反转将使 VL 的政策含义从"SES 无法改变"逆转为"如何缓解社会不平等"（p.241）。
 
-**三种公式的矛盾排名**（pp.243–244）：Bergeron & Rivard 构造了一个受控数值示例——四组初始等价学生随机分配至三种教学法和标准教学法。三种在技术上均有效的效应量公式产生了三种完全不同的排名：
+**三种公式的矛盾排名**（pp.243–244）：Bergeron & Rivard 构造了一个受控数值示例——四组初始等价学生[[Random Assignment|随机分配]]至三种教学法和标准教学法。三种在技术上均有效的效应量公式产生了三种完全不同的排名：
 
 | 公式 | 类型 | 排名结果 | 问题 |
 |------|------|---------|------|

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Sacrifice Theory]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Sinicisation]]"
+  - "[[External Validity]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -270,7 +271,7 @@ issuing_organization: ""
 > [!warning]
 > 分析对象的选择偏差
 >
-> 分析聚焦于新疆和内蒙古，对西藏的讨论相对有限，对西南地区（如云南、贵州）的民族政策几乎没有触及。不同地区的民族政策在实践上可能存在显著差异——例如云南的多民族共存模式与新疆的治理模式是否遵循相同的逻辑，未能得到回答。这一选择偏差使得"自我牺牲"概念的一般性（generalizability）未能得到充分检验。
+> 分析聚焦于新疆和内蒙古，对西藏的讨论相对有限，对西南地区（如云南、贵州）的民族政策几乎没有触及。不同地区的民族政策在实践上可能存在显著差异——例如云南的多民族共存模式与新疆的治理模式是否遵循相同的逻辑，未能得到回答。这一选择偏差使得"自我牺牲"概念的一般性（[[External Validity|generalizability]]）未能得到充分检验。
 
 ---
 

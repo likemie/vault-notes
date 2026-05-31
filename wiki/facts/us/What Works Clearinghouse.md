@@ -18,6 +18,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Effect Size]]"
+  - "[[Internal Validity]]"
   - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
@@ -28,6 +29,7 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Random Assignment]]"
   - "[[Single-Case Design]]"
   - "[[Gating Procedure]]"
 related_persons: []
@@ -78,7 +80,7 @@ updated: '2026-05-18'
 >
 > WWC 主题特定综述协议会规定结果域、研究焦点（仅影响研究）、样本特征、20 年出版滞后期、学校为主的研究场景、干预特征、英文报告，以及限定为 RCT、RDD、[[21st Century Skills and Competencies Discourse|SCD]] 和 QED 的研究设计（Wadhwa et al., 2024, pp.8–9）。
 >
-> WWC 对 RCT 的实施质量有详细规定：它是唯一对集群层级随机分配提供深入说明的清算中心；它允许在特定条件下计算 CACE。其流失标准结合总体流失和差异流失：预期流失偏差低于可容忍水平（0.05 SD 或以下）时可获得最高研究评级；若基线差异低于 0.05 SD，可获得正向研究评级且无需统计调整；0.05–0.25 SD 之间需调整；超过 0.25 SD 则不能满足 WWC 质量标准（Wadhwa et al., 2024, p.9）。
+> WWC 对 RCT 的实施质量有详细规定：它是唯一对集群层级[[Random Assignment|随机分配]]提供深入说明的清算中心；它允许在特定条件下计算 CACE。其流失标准结合总体流失和差异流失：预期流失偏差低于可容忍水平（0.05 SD 或以下）时可获得最高研究评级；若基线差异低于 0.05 SD，可获得正向研究评级且无需统计调整；0.05–0.25 SD 之间需调整；超过 0.25 SD 则不能满足 WWC 质量标准（Wadhwa et al., 2024, p.9）。
 >
 > WWC 的 Standards and Procedures Handbooks（Version 4.0）详细规定如何评估教育研究的严谨性。研究被分为三级：Meets Standards Without Reservations（仅限实验设计或满足特定标准的回归断点设计）、Meets Standards With Reservations（达到特定方法标准的准实验设计）、Does Not Meet Standards（未达标研究）。Wolf et al. (2020) 只纳入达到前两级标准的研究，最终样本为 755 个[[Effect Size|效应量]]，来自 169 项研究（Wolf et al., 2020, p.433）。
 >
@@ -86,7 +88,7 @@ updated: '2026-05-18'
 >
 > ### WWC [[Single-Case Design|SCD]] 审查程序
 >
-> 除组间设计（RCT、准实验）外，WWC 也审查 [[Single-Case Design]] 研究。SCD 被 WWC 认可为产生实证证据的可行实验方法（Hitchcock et al., 2015, p.460）。WWC 对 SCD 和组间设计均采用 门控程序：只有通过内部效度门槛的研究才进入后续推广性评估（Hitchcock et al., 2015, p.462）。
+> 除组间设计（RCT、准实验）外，WWC 也审查 [[Single-Case Design]] 研究。SCD 被 WWC 认可为产生实证证据的可行实验方法（Hitchcock et al., 2015, p.460）。WWC 对 SCD 和组间设计均采用 门控程序：只有通过[[Internal Validity|内部效度]]门槛的研究才进入后续推广性评估（Hitchcock et al., 2015, p.462）。
 >
 > [[WWC SCD Pilot Standards]] 是 WWC 为 SCD 研究开发的专门技术标准：它服务于 WWC 的 SCD 研究审查，但不能等同于 [[Single-Case Design]] 方法本身，也不能等同于 WWC 的完整审查程序。Hitchcock et al. 强调，SCD 设计标准必须与 WWC 审查协议和 SCD Review Guide 一起理解；审查协议规定[[Research Question|研究问题]]、目标人群、结果领域和场所，Review Guide 则系统记录研究细节并支持推广性判断（Hitchcock et al., 2015, pp.459–461）。
 >
@@ -121,7 +123,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — WWC 是 12 个被比较的教育清算中心之一，也是教育领域最具可见度的案例（Wadhwa et al., 2024, pp.7, 28）。
 > - [[Evidence-Based Education]] — WWC 是 EBE 通过项目、政策、实践和研究评级制度化的重要载体（Wadhwa et al., 2024, p.7）。
-> - [[Randomised Controlled Trials]] — WWC 对 RCT 的标准描述程度为 3，并且是唯一深入说明集群层级随机分配的清算中心（Wadhwa et al., 2024, pp.9–10）。
+> - [[Randomised Controlled Trials]] — WWC 对 RCT 的标准描述程度为 3，并且是唯一深入说明集群层级[[Random Assignment|随机分配]]的清算中心（Wadhwa et al., 2024, pp.9–10）。
 > - [[Effect Size]] — WWC 的最高项目效果判断要求统计显著正向效果，但不要求平均效果达到特定大小（Wadhwa et al., 2024, pp.13–15）。
 > - [[ESSA 2015 Evidence Standards]] — WWC 为 ESSA 证据标准提供了重要制度基础。
 > - [[No Child Left Behind Act 2001]] — WWC 的立法前身和制度触发因素。

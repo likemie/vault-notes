@@ -5,9 +5,9 @@ extracted_to:
   - "[[Feedback]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
-  - "[[Meta-analysis]]"
 processed_date: 2026-05-21
 ---
 

@@ -15,10 +15,12 @@ tags:
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Causality]]"
+  - "[[Internal Validity]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[5-3-20 Rule]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
+  - "[[External Validity]]"
   - "[[Theories of Policy Change]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -55,7 +57,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> [[21st Century Skills and Competencies Discourse|SCD]] 共享 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生因果证据的多种设计类型。SCD 的[[Causality|因果推断]]逻辑与组间实验设计（[[Randomised Controlled Trials|RCT]]、准实验）一致：通过控制对内部效度的常见威胁（成熟、历史、回归均值、处理扩散、工具化等），使替代解释变得不可信（Hitchcock et al., 2015, p.462）。
+> [[21st Century Skills and Competencies Discourse|SCD]] 共享 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生因果证据的多种设计类型。SCD 的[[Causality|因果推断]]逻辑与组间实验设计（[[Randomised Controlled Trials|RCT]]、准实验）一致：通过控制对[[Internal Validity|内部效度]]的常见威胁（成熟、历史、回归均值、处理扩散、工具化等），使替代解释变得不可信（Hitchcock et al., 2015, p.462）。
 >
 > > 例：在一个 ABAB 设计中，通过交替引入和撤除干预，研究者可以排除成熟效应（随时间自然改善）和历史效应（外部事件）作为行为变化的替代解释。
 >
@@ -64,7 +66,7 @@ updated: '2026-05-18'
 ## 与 WWC SCD Pilot Standards 2010 的关系
 
 
-[[Single-Case Design]] 是一种研究方法；[[WWC SCD Pilot Standards]] 则是 [[What Works Clearinghouse]] 为了审查 [[21st Century Skills and Competencies Discourse|SCD]] 研究而制定的专门技术标准。两者不是同一层级：SCD 回答"如何用单个个体或小群体作为自身控制来生成因果证据"，WWC SCD Pilot Standards 2010 回答"WWC 如何判断某项 SCD 研究是否达到足够内部效度、能否进入后续证据综合"（Hitchcock et al., 2015, pp.459–461, 464–466）。
+[[Single-Case Design]] 是一种研究方法；[[WWC SCD Pilot Standards]] 则是 [[What Works Clearinghouse]] 为了审查 [[21st Century Skills and Competencies Discourse|SCD]] 研究而制定的专门技术标准。两者不是同一层级：SCD 回答"如何用单个个体或小群体作为自身控制来生成因果证据"，WWC SCD Pilot Standards 2010 回答"WWC 如何判断某项 SCD 研究是否达到足够[[Internal Validity|内部效度]]、能否进入后续证据综合"（Hitchcock et al., 2015, pp.459–461, 464–466）。
 
 因此，WWC SCD Pilot Standards 2010 应被视为 SCD 在[[Educational Evidence Clearinghouses|教育证据清算中心]]中的制度化应用案例，而不是 SCD 方法本身的完整定义。它把 SCD 方法转化为 WWC 审查流程中的操作性标准：先依据审查协议筛选研究，再用 SCD 设计标准评估内部效度，通过后才由 SCD Review Guide 记录推广性信息，并最终使用 [[5-3-20 Rule]] 判断证据是否足以生成 WWC 干预报告（Hitchcock et al., 2015, pp.461, 464–466）。
 
@@ -125,14 +127,14 @@ Hitchcock et al. (2015, p.466) 列举了 [[What Works Clearinghouse|WWC]] 审查
 ## 内部效度与外部效度的关系
 
 
-Hitchcock et al. (2015, p.462) 援引 Shadish et al. (2002) 的论证：内部效度是实验设计的"必要条件"（sin qua non）——如果无法证明干预与结果之间存在[[Causality|因果关系]]，就没有多大必要仔细考虑外部效度（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 [[21st Century Skills and Competencies Discourse|SCD]] 审查中采用**门控程序（[[Gating Procedure]]）**：只有通过内部效度门槛的研究才进入后续的推广性评估（详见 [[Gating Procedure]]）。
+Hitchcock et al. (2015, p.462) 援引 Shadish et al. (2002) 的论证：[[Internal Validity|内部效度]]是实验设计的"必要条件"（sin qua non）——如果无法证明干预与结果之间存在[[Causality|因果关系]]，就没有多大必要仔细考虑[[External Validity|外部效度]]（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 [[21st Century Skills and Competencies Discourse|SCD]] 审查中采用**门控程序（[[Gating Procedure]]）**：只有通过内部效度门槛的研究才进入后续的推广性评估（详见 [[Gating Procedure]]）。
 
 > 例：如果一项 ABAB 设计的基线阶段数据点不足或测量信度存疑，则该研究将被判定为未达到设计标准，不会进入推广性描述阶段。
 
 ## 局限性
 
 > [!warning] 局限性
-> - **推广性挑战**：评估 [[21st Century Skills and Competencies Discourse|SCD]] 的外部效度比评判内部效度更复杂——研究者进行证据综合时可能不知道信息消费者希望推广到何种情境（Hitchcock et al., 2015, pp.462–463）
+> - **推广性挑战**：评估 [[21st Century Skills and Competencies Discourse|SCD]] 的[[External Validity|外部效度]]比评判[[Internal Validity|内部效度]]更复杂——研究者进行证据综合时可能不知道信息消费者希望推广到何种情境（Hitchcock et al., 2015, pp.462–463）
 > - **外部效度威胁多样**：多重处理干扰、跨情境推广性、跨被试推广性、跨结果推广性（Kazdin, 2011; Shadish et al., 2002; Hitchcock et al., 2015, p.462）
 > - **普遍信念偏见**：存在一种普遍（但错误）的信念认为 SCD 证据不能推广，尽管事实上它可以（Barlow et al., 2009; Hitchcock et al., 2015, p.467）
 > - **单一研究不足以支撑[[Theories of Policy Change|政策变革]]**：一项 SCD 研究不太可能产生足够的实证证据来支持政策变革，即使它可能推动局部实践的调整（Hitchcock et al., 2015, p.460）

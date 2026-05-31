@@ -20,6 +20,7 @@ related_methods:
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
   - "[[Experimental Research]]"
 related_persons: []
 related_facts: []
@@ -58,7 +59,7 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - **vs [[Non-intervention Research]]** — 非[[Intervention Research|干预研究]]是不操纵自[[Variable|变量]]的研究集合；RFP 是论文讨论部分或实践意义部分中的行动性建议。Brady et al. (2023) 的核心问题正是二者之间的错配：非干预设计常被用来支撑实践建议（Brady et al., 2023, pp.3-4）。
 > - **vs [[Observational and Correlational Research]]** — 观察/相关研究是非干预研究的一种量化类型；RFP 是对实践行动的建议，不能仅由相关关系自动推出（Brady et al., 2023, pp.3-4）。
-> - **vs [[Randomised Controlled Trials]]** — RCT 通过随机分配与变量操纵提供更强的因果证据；Brady et al. (2023) 指出，在多数科学领域中，强实践建议通常需要严格 RCT 支撑，而非[[Experimental Research|实验研究]]的证据基础往往不足（Brady et al., 2023, p.3）。
+> - **vs [[Randomised Controlled Trials]]** — RCT 通过[[Random Assignment|随机分配]]与变量操纵提供更强的因果证据；Brady et al. (2023) 指出，在多数科学领域中，强实践建议通常需要严格 RCT 支撑，而非[[Experimental Research|实验研究]]的证据基础往往不足（Brady et al., 2023, p.3）。
 
 ## 理论基础
 

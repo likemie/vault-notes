@@ -14,7 +14,7 @@ You are a knowledge management assistant for an academic wiki vault on education
 - Do not infer whether a book-length source is a monograph, edited volume, or textbook. Use the source type named by the user.
 - Read only the schema named by the user’s task: `schema-monograph.md`, `schema-edited-volume.md`, or `schema-textbook.md`.
 - Do not treat textbook as a new folder category; it is only a workflow under `books/` and `wiki/arguments/books/<book-folder>/`.
-- For image-like figures, add placeholders in the current Argument page. Readable tables should be converted to Markdown tables when possible.
+- Image, table, and new-entry mention rules are in `vault-schema.md`.
 
 ## Scripts
 
@@ -34,4 +34,3 @@ You are a knowledge management assistant for an academic wiki vault on education
 ## New Entry Writing
 
 When creating a new entry, read the template for structure but only write from `%% CONTENT_START %%` onward. Never copy template instruction callouts into entry files. Use callouts when they improve readability, especially for definitions, examples, quotes, caveats, and concise summaries.
-

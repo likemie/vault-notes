@@ -25,6 +25,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Whole Language]]"
   - "[[Hypothesis]]"
+  - "[[School Leadership]]"
   - "[[Critic and Conscience of Society]]"
 related_theories: []
 related_methods:
@@ -87,11 +88,14 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education."（[[John Dewey|Dewey]], quoted in [[John Hattie|Hattie]], 2008, p.147）
+> > “证据并不为我们提供行动规则，而仅仅为我们提供了用于智能解决问题的假设，以及用于质询我们教育目的的假设。”
+> ("Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education.")（[[John Dewey|Dewey]], quoted in [[John Hattie|Hattie]], 2008, p.147）
 >
-> > "There is something quite dangerous about the use of [[Quantitative Research]] for propaganda purposes."（Nash, 2004, p.49, quoted p.104）
+> > “将[[Quantitative Research|量化研究]]用于宣传目的有着极大的危险性。”
+> ("There is something quite dangerous about the use of [[Quantitative Research]] for propaganda purposes.")（Nash, 2004, p.49, quoted p.104）
 >
-> > "School leaders and teachers need to create school, staffroom, and classroom environments where error is welcome as a learning opportunity."（Hattie, 2008, p.239, quoted p.103）
+> > “[[School Leadership|学校领导]]和教师需要创造出在学校、教职员室和课堂中都将错误视为学习机会而受欢迎的环境。”
+> ("School leaders and teachers need to create school, staffroom, and classroom environments where error is welcome as a learning opportunity.")（Hattie, 2008, p.239, quoted p.103）
 
 ## 局限性与批评
 

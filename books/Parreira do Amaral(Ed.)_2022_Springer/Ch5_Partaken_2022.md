@@ -9,6 +9,7 @@ extracted_to:
   - "[[Economic and Industrial Espionage]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Fourth Industrial Revolution]]"
+  - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Sabotage]]"
   - "[[China Social Credit System]]"
   - "[[Great Firewall of China]]"
@@ -22,7 +23,6 @@ extracted_to:
   - "[[Jean-François Lyotard]]"
   - "[[Chen Kuan-Hsing]]"
   - "[[Concealment-Exposure Framework]]"
-  - "[[Geopolitics of Knowledge]]"
 processed_date: 2026-05-10
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

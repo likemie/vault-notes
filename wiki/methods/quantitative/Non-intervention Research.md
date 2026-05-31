@@ -23,6 +23,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
@@ -76,7 +77,7 @@ updated: '2026-05-18'
 - vs [[Observational and Correlational Research]] — 观察/相关研究是非干预研究的量化子类，标准是"不操纵自变量 + 包含量化数据"（Brady et al., 2023, p.4）。
 - vs [[Qualitative Research]] — 质性研究同样不操纵自变量，但数据形态是访谈、观察等文本资料，而非量化变量关系（Brady et al., 2023, p.4）。
 - vs [[Mixed Method and Multi-method Research]] — 混合方法/多方法研究也是非干预研究，但同时包含量化和质性数据；Brady et al. (2023) 将其从旧研究的观察/相关类别中单独拆出（Brady et al., 2023, p.4）。
-- vs [[Randomised Controlled Trials]] — RCT 同时具有自变量操纵和随机分配，处于 Brady et al. (2023) 因果识别序列的强证据端；非干预研究若直接提出强[[Recommendations for Practice|实践建议]]，会与这种证据序列发生张力（Brady et al., 2023, pp.3-4, 9）。
+- vs [[Randomised Controlled Trials]] — RCT 同时具有自变量操纵和[[Random Assignment|随机分配]]，处于 Brady et al. (2023) 因果识别序列的强证据端；非干预研究若直接提出强[[Recommendations for Practice|实践建议]]，会与这种证据序列发生张力（Brady et al., 2023, pp.3-4, 9）。
 
 ## 使用此方法的研究
 

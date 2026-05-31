@@ -19,8 +19,10 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Research Question]]"
   - "[[Tracking]]"
+  - "[[External Validity]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Stable Unit Treatment Value Assumption]]"
+  - "[[Internal Validity]]"
   - "[[Side Effects]]"
   - "[[School Leadership]]"
   - "[[Validity as Inferences]]"
@@ -28,6 +30,7 @@ related_concepts:
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
+  - "[[Random Assignment]]"
   - "[[Intervention Research]]"
   - "[[Experimental Research]]"
   - "[[Cluster Randomized Trials]]"
@@ -66,7 +69,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 随机对照试验（Randomised Controlled Trial, RCT）是一种实验设计方法，通过将参与者随机分配到干预组和对照组来评估干预措施的效果。在[[Evidence-Based Education|证据本位教育]]中，RCT 被倡导为教育研究的"黄金标准"——最严格、最科学的研究方法。该方法是从药物试验和医学其他领域直接借鉴至教育领域的（Wrigley & McCusker, 2019, pp. 110, 114）。
+> 随机对照试验（Randomised Controlled Trial, RCT）是一种实验设计方法，通过将参与者[[Random Assignment|随机分配]]到干预组和对照组来评估干预措施的效果。在[[Evidence-Based Education|证据本位教育]]中，RCT 被倡导为教育研究的"黄金标准"——最严格、最科学的研究方法。该方法是从药物试验和医学其他领域直接借鉴至教育领域的（Wrigley & McCusker, 2019, pp. 110, 114）。
 
 ## 认识论立场
 
@@ -78,7 +81,7 @@ updated: '2026-05-18'
 ## 操作步骤
 
 > [!example] 操作步骤
-> 1. **随机分配**：将参与者随机分配至干预组（接受干预）或对照组
+> 1. **[[Random Assignment|随机分配]]**：将参与者随机分配至干预组（接受干预）或对照组
 > 2. **前测**（可选）：在干预前测量两组的基线水平
 > 3. **实施干预**：干预组接受待评估的教育干预
 > 4. **后测**：干预后测量两组的结果
@@ -105,7 +108,7 @@ updated: '2026-05-18'
 > **Berliner 论证的核心要素**（Møller, 2017, p.379）：
 > - 学校中的学生、教师和校长嵌套在**复杂且不断变化的社会互动网络**中
 > - 学习过程**永远不可能被完全控制**
-> - 情境效应极为显著——这使得 RCT 的随机分配和[[Variable|变量]]控制假设在教育中格外脆弱
+> - 情境效应极为显著——这使得 RCT 的[[Random Assignment|随机分配]]和[[Variable|变量]]控制假设在教育中格外脆弱
 >
 > **Kvernbekk (2013) 的补充**（Møller, 2017, p.379）：RCT "在学校中极其具有挑战性，尤其是在教育领导力领域"。原因在于：领导力的效果分布于组织内外多重关系中（校长-教师-家长-督学），无法被隔离为单一"干预"和单一"结果"之间的因果线。
 >
@@ -192,7 +195,7 @@ updated: '2026-05-18'
 >
 > #### Berk (2011) 的多维度批评
 >
-> Berk (2011) 基于 35 年担任 *Evaluation Review* 创始编辑的经验，从集群随机化、外部效度和[[Pragmatic Paradigm|实用主义]]三个维度对 RCT 作为"黄金标准"的地位提出批评：
+> Berk (2011) 基于 35 年担任 *Evaluation Review* 创始编辑的经验，从集群随机化、[[External Validity|外部效度]]和[[Pragmatic Paradigm|实用主义]]三个维度对 RCT 作为"黄金标准"的地位提出批评：
 >
 > **集群随机化与 [[Stable Unit Treatment Value Assumption|SUTVA]] 违反**
 >
@@ -204,7 +207,7 @@ updated: '2026-05-18'
 >
 > > "One is not likely to be interested in the results of a [[Experimental Research|randomized experiment]] unless they provide guidance for future interventions; the intent is to affect subsequent policy decisions." (Berk, 2011, p.195)
 >
-> Berk 因此反对非随机研究被断然否定的做法："这是一个严重错误，尤其当内部效度仅仅是多种重要效度之一时"。例如，一项针对领取失业补偿者的强制性职业培训 RCT——其结果可能无法为自愿性项目推广提供充分有用的估计。"那么，一个有理由采用内部效度低于 RCT 但外部效度实质性改善的研究设计"（Berk, 2011, p.195）。
+> Berk 因此反对非随机研究被断然否定的做法："这是一个严重错误，尤其当[[Internal Validity|内部效度]]仅仅是多种重要效度之一时"。例如，一项针对领取失业补偿者的强制性职业培训 RCT——其结果可能无法为自愿性项目推广提供充分有用的估计。"那么，一个有理由采用内部效度低于 RCT 但外部效度实质性改善的研究设计"（Berk, 2011, p.195）。
 >
 > **[[Pragmatic Paradigm|实用主义]]辩护："铜标准"与"当前知识基准"**
 >
@@ -294,7 +297,7 @@ updated: '2026-05-18'
 ## 相关方法
 
 
-- [[Intervention Research]] — RCT 是干预研究的随机分配版本；Brady et al. (2023) 将二者区分编码，以显示"有自[[Variable|变量]]操纵"和"有随机分配"不是同一层证据要求（Brady et al., 2023, p.4）。
+- [[Intervention Research]] — RCT 是干预研究的[[Random Assignment|随机分配]]版本；Brady et al. (2023) 将二者区分编码，以显示"有自[[Variable|变量]]操纵"和"有随机分配"不是同一层证据要求（Brady et al., 2023, p.4）。
 - [[Non-intervention Research]] — 非干预研究不操纵自变量；Brady et al. (2023) 以 RCT/[[Experimental Research|实验研究]]作为对照，批评非干预研究中强[[Recommendations for Practice|实践建议]]的因果证据不足（Brady et al., 2023, pp.3-4, 9）。
 - [[Observational and Correlational Research]] — 观察/相关研究可生成干预假设，但没有随机分配和变量操纵；Brady et al. (2023) 的趋势数据表明，此类研究中的 RFP 比例持续上升（Brady et al., 2023, pp.6-7）。
 
@@ -302,7 +305,7 @@ updated: '2026-05-18'
 
 > [!example] 使用此方法的研究
 > - [[EEF Teaching and Learning Toolkit]] — EEF 委托大量新 RCT 并综合 RCT 证据进入 Toolkit 的[[Meta-analysis|元分析]]
-> - [[Argument_Brady_2023_EPR]] — 将随机分配实验作为[[Intervention Research|干预研究]]中的更强子类进行趋势比较，发现其比例从 2010 年的 23% 降至 2020 年的 20%（Brady et al., 2023, pp.6-7）
+> - [[Argument_Brady_2023_EPR]] — 将[[Random Assignment|随机分配]]实验作为[[Intervention Research|干预研究]]中的更强子类进行趋势比较，发现其比例从 2010 年的 23% 降至 2020 年的 20%（Brady et al., 2023, pp.6-7）
 > - [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育清算中心如何为 RCT、[[Quasi-Experimental Designs|QED]]、RDD 和 ITS 设定证据标准；研究发现所有清算中心都偏好 RCT，但对随机分配层级、[[Intent-to-Treat Analysis|意向治疗分析]]、流失标准、基线等值检验和集群随机化的处理并不一致（Wadhwa et al., 2024, pp.9–11）
 > - [[Tennessee STAR Project 1985-1989]] — 被 Mosteller 称为"有史以来最重要的教育调查之一"，但 Wiliam (2019) 揭示了其 RCT 外推的三重失败
 

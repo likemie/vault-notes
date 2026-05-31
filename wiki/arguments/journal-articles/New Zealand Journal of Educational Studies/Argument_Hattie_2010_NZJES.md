@@ -90,13 +90,17 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The fundamentals of academic critique are that it relates to the idea not the person; takes careful consideration of the tenets and assumptions; and is aimed at informing and extending the debate – not shutting it down because the ideas are not welcome or are not part of some critics' dogma." (p.87)
+> > “学术批判的基本原则是：它针对的是思想而非个人；仔细考量那些原则和假设；目的是为辩论提供信息并加以扩展——而不是因为思想不受欢迎或不符合某些批评者的教条就试图将其扼杀。”
+> ("The fundamentals of academic critique are that it relates to the idea not the person; takes careful consideration of the tenets and assumptions; and is aimed at informing and extending the debate – not shutting it down because the ideas are not welcome or are not part of some critics' dogma.") (p.87)
 >
-> > "It is my belief that it is important for academics to speak out on topics within their expertise and take seriously their role as critics and conscience of society." (p.85)
+> > “我相信，学者们就其专业领域内的话题发声，并认真对待他们作为社会批评家和良知的角色，是非常重要的。”
+> ("It is my belief that it is important for academics to speak out on topics within their expertise and take seriously their role as critics and conscience of society.") (p.85)
 >
-> > "Being part of the solution is a lot harder than critiquing from the side – and both views, in my opinion, are critical to a worthwhile society." (p.93)
+> > “成为解决方案的一部分比在旁指手画脚要困难得多——而在我看来，这两种观点对于一个有价值的社会来说都是至关重要的。”
+> ("Being part of the solution is a lot harder than critiquing from the side – and both views, in my opinion, are critical to a worthwhile society.") (p.93)
 >
-> > "Providing black and white answers is not the nature of academic critique." (p.92)
+> > “提供非黑即白的答案并非学术批判的本质。”
+> ("Providing black and white answers is not the nature of academic critique.") (p.92)
 
 ## 局限性与批评
 

@@ -1,10 +1,10 @@
 ---
 citation: "Knudsen, H. (2017). John Hattie: I'm a statistician, I'm not a theoretician. Nordic Journal of Studies in Educational Policy, 3(3), 253-261."
 extracted_to:
+  - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
   - "[[John Hattie]]"
-  - "[[Argument_Knudsen_2017_NordSTEP]]"
 processed_date: 2026-05-07
 ---
 

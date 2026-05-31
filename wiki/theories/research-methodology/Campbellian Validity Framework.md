@@ -13,8 +13,10 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Causality]]"
+  - "[[Internal Validity]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Variable]]"
+  - "[[External Validity]]"
   - "[[Construct]]"
   - "[[Postpositivism]]"
   - "[[Evidence-Based Education]]"
@@ -25,6 +27,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Case Design]]"
+  - "[[Random Assignment]]"
   - "[[Experimental Research]]"
   - "[[Gating Procedure]]"
 related_persons: []
@@ -46,18 +49,18 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> Campbellian 效度框架是一个关于实验设计中[[Causality|因果推断]]效度的[[Luhmann's Systems Theory|系统理论]]框架，其核心主张是：任何能够产生因果证据的实验设计都需要通过排除对内部效度的威胁来建立因果关系，然后才能进一步考虑这种因果关系的推广范围（Hitchcock et al., 2015, p.462）。
+> Campbellian 效度框架是一个关于实验设计中[[Causality|因果推断]]效度的[[Luhmann's Systems Theory|系统理论]]框架，其核心主张是：任何能够产生因果证据的实验设计都需要通过排除对[[Internal Validity|内部效度]]的威胁来建立因果关系，然后才能进一步考虑这种因果关系的推广范围（Hitchcock et al., 2015, p.462）。
 >
 > > "The Campbellian validity framework (Shadish 1995; Shadish et al. 2002) applies to a broad number of designs that are capable of yielding causal evidence." (Hitchcock et al., 2015, p.462)
 >
 > 该框架的适用范围不限于某一特定设计类型——它统一适用于[[Randomised Controlled Trials|随机对照试验]]（RCT）、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design|单一个案设计]]（[[21st Century Skills and Competencies Discourse|SCD]]）等多种能够产生因果证据的设计（Hitchcock et al., 2015, p.462）。
 >
-> > 例：无论是 RCT 通过随机分配控制选择偏差，还是 SCD 通过重复测量和阶段对比排除成熟效应，两者都在应用 Campbellian 框架的同一逻辑——识别并排除对因果推断的替代解释。
+> > 例：无论是 RCT 通过[[Random Assignment|随机分配]]控制选择偏差，还是 SCD 通过重复测量和阶段对比排除成熟效应，两者都在应用 Campbellian 框架的同一逻辑——识别并排除对因果推断的替代解释。
 
 ## 理论内部结构
 
 > [!abstract] 内部效度（Internal Validity）
-> **定义**：内部效度指干预与结果[[Variable|变量]]之间[[Causality|因果关系]]的成立程度——即我们能否确信观察到的变化确实是由干预引起的（Shadish et al., 2002; Hitchcock et al., 2015, p.461）。
+> **定义**：[[Internal Validity|内部效度]]指干预与结果[[Variable|变量]]之间[[Causality|因果关系]]的成立程度——即我们能否确信观察到的变化确实是由干预引起的（Shadish et al., 2002; Hitchcock et al., 2015, p.461）。
 >
 > > "Internal validity, or the degree to which a causal relationship exists between a treatment and outcome variable is valid, is the sin qua non of [[Experimental Research|experimental design]]." (Hitchcock et al., 2015, p.461, citing Shadish et al., 2002)
 >
@@ -79,7 +82,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 外部效度（External Validity）
-> **定义**：外部效度指某项研究的因果推断在不同情境、场所、测量工具、人群等条件下仍然成立的程度——可视为推广性（generalization）的一个广泛面向（Shadish et al., 2002; Hitchcock et al., 2015, p.462）。
+> **定义**：[[External Validity|外部效度]]指某项研究的因果推断在不同情境、场所、测量工具、人群等条件下仍然成立的程度——可视为推广性（generalization）的一个广泛面向（Shadish et al., 2002; Hitchcock et al., 2015, p.462）。
 >
 > > "External validity refers to the extent to which causal inference from a particular study holds over different contexts, settings, measures, populations, and so on." (Hitchcock et al., 2015, p.462)
 >
@@ -115,7 +118,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> 该框架的演进可追溯至 [[Campbell Collaboration|Campbell]] 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook 和 Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、内部效度、[[Construct|构念]]效度、外部效度）。
+> 该框架的演进可追溯至 [[Campbell Collaboration|Campbell]] 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook 和 Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、[[Internal Validity|内部效度]]、[[Construct|构念]]效度、[[External Validity|外部效度]]）。
 >
 > Hitchcock et al. (2015) 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心理学循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的实践，作者确认"Campbellian 效度框架适用于能够产生因果证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[21st Century Skills and Competencies Discourse|SCD]] 量规在内部效度判断上产生了合理一致的结果。
 
@@ -129,21 +132,21 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **外部效度的结构性不对称**：Hitchcock et al. (2015, p.462, 467) 指出，内部效度有"一套明确定义的常见替代解释（威胁）"，这些威胁已被系统编目；但外部效度的威胁"有些容易识别，有些则不是"，且审查者不知道消费者希望推广到何处。这种不对称意味着框架对外部效度的指导远弱于对内部效度的指导
+> - **[[External Validity|外部效度]]的结构性不对称**：Hitchcock et al. (2015, p.462, 467) 指出，[[Internal Validity|内部效度]]有"一套明确定义的常见替代解释（威胁）"，这些威胁已被系统编目；但外部效度的威胁"有些容易识别，有些则不是"，且审查者不知道消费者希望推广到何处。这种不对称意味着框架对外部效度的指导远弱于对内部效度的指导
 > - **在实践中更多是门控工具而非推广工具**：[[What Works Clearinghouse|WWC]] 使用该框架时，内部效度用于严格的门控判断（达标/不达标），但外部效度仅被"描述"而不被"评分"，由消费者自行判断（Hitchcock et al., 2015, p.466）——这实质上将框架中最困难的部分（推广性判断）转嫁给了可能缺乏方法论训练的政策制定者和从业者
 > - **[[21st Century Skills and Competencies Discourse|SCD]] 推广性的特殊偏见**：存在"一种普遍（且错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广"（Hitchcock et al., 2015, p.467）——这意味着框架在面对 SCD 时面临额外的社会认识论障碍，不仅仅是方法论障碍
 
 ## 相关研究
 
 > [!example] 相关研究
-> - [[Argument_Hitchcock_2015_JBE]] — 以 Campbellian 框架论证 [[What Works Clearinghouse|WWC]] 审查程序的内部效度判断一致性，并澄清其外部效度信息的捕获方式
+> - [[Argument_Hitchcock_2015_JBE]] — 以 Campbellian 框架论证 [[What Works Clearinghouse|WWC]] 审查程序的[[Internal Validity|内部效度]]判断一致性，并澄清其[[External Validity|外部效度]]信息的捕获方式
 > - [[Argument_Wadhwa_2024_RER]] — 将 [[Campbell Collaboration|Campbell]] & Fiske (1959) 的 multitrait-multimethod 思路用于检验"evidence-based"在教育清算中心实践中的[[Construct|构念]]效度；如果多个清算中心对同一项目的效果判断不收敛，就说明该构念在实践中并不稳定。例：同一教育项目可能因某清算中心要求独立复制、另一清算中心只要求单项显著研究而获得不同推荐等级（Wadhwa et al., 2024, pp.4, 26）。
 
 ## 应用领域
 
 > [!success] 应用领域
 > - [[Single-Case Design]] — Campbellian 框架为 [[21st Century Skills and Competencies Discourse|SCD]] 研究提供统一的效度评估语言，[[What Works Clearinghouse|WWC]] 和学校心理学循证干预工作组均依赖此框架
-> - [[Gating Procedure]] — 门控程序的操作逻辑直接来源于 Campbellian 框架的"内部效度优先"原则
+> - [[Gating Procedure]] — 门控程序的操作逻辑直接来源于 Campbellian 框架的"[[Internal Validity|内部效度]]优先"原则
 > - [[Evidence-Based Education]] — Campbellian 框架是 WWC 评估教育研究证据的方法论基础
 > - [[Educational Evidence Clearinghouses]] — Wadhwa et al. (2024) 用[[Construct|构念]]效度问题重新审视清算中心对"evidence-based"项目的认证实践，显示跨机构评级收敛不足会削弱该术语的实践效度（Wadhwa et al., 2024, p.26）
 

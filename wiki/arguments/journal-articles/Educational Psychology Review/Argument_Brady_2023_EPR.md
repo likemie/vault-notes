@@ -25,6 +25,7 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Method and Multi-method Research]]"
+  - "[[Random Assignment]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -50,7 +51,7 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - 方法：期刊文章编码与趋势比较。
 > - 样本：核心 2020 年五刊样本为 255 篇经验文章，期刊包括 *Journal of Educational Psychology*、*American Educational Research Journal*、*Cognition and Instruction*、*Journal of Experimental Education* 和 *Contemporary Educational Psychology*；作者另编码 2019 年 *Journal of Educational Psychology* 的 87 篇文章以检验年度稳定性，二者合计 342 篇（Brady et al., 2023, pp.4-6）。
-> - 方法分类：观察/相关研究、[[Intervention Research|干预研究]]、[[Experimental Research|实验研究]]、[[Qualitative Research|质性研究]]、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]。观察/相关研究不操纵自[[Variable|变量]]且含量化数据；干预与实验都操纵自变量，但实验进一步要求随机分配；质性研究不操纵自变量且使用访谈、观察等文本数据；混合方法/多方法研究不操纵自变量且同时包含量化和质性数据（Brady et al., 2023, p.4）。
+> - 方法分类：观察/相关研究、[[Intervention Research|干预研究]]、[[Experimental Research|实验研究]]、[[Qualitative Research|质性研究]]、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]。观察/相关研究不操纵自[[Variable|变量]]且含量化数据；干预与实验都操纵自变量，但实验进一步要求[[Random Assignment|随机分配]]；质性研究不操纵自变量且使用访谈、观察等文本数据；混合方法/多方法研究不操纵自变量且同时包含量化和质性数据（Brady et al., 2023, p.4）。
 > - RFP 编码：若文章暗示或明确说明采用/避免、增加/减少某实践会改善教师或学生结果，即编码为包含[[Recommendations for Practice|实践建议]]（Brady et al., 2023, p.4）。
 > - 信度：所有作者先独立编码同一期 *Contemporary Educational Psychology* 文章并讨论达成共识；其后每人编码约 50 篇，并额外交叉编码 30 篇。研究方法编码一致率为 91%，RFP 编码一致率为 76%，所有分歧经小组讨论达成共识（Brady et al., 2023, p.5）。
 
@@ -67,7 +68,7 @@ updated: '2026-05-18'
 
 > [!success] 主要发现
 > - 2020 年五本期刊中，经验文章数量比 2010 年增加 114 篇；[[Non-intervention Research|非干预研究]]总体约占全部经验研究的四分之三，与 2010 年相近（Brady et al., 2023, pp.5-7）。
-> - [[Intervention Research|干预研究]]比例从 2000 年 40% 降至 2010 年 25%，2020 年仍为 25%；随机实验从 2010 年 23% 继续降至 2020 年 20%。作者指出，1983 年五本期刊中近一半经验文章使用随机分配实验，而 2020 年只有五分之一（Brady et al., 2023, p.7）。
+> - [[Intervention Research|干预研究]]比例从 2000 年 40% 降至 2010 年 25%，2020 年仍为 25%；随机实验从 2010 年 23% 继续降至 2020 年 20%。作者指出，1983 年五本期刊中近一半经验文章使用[[Random Assignment|随机分配]]实验，而 2020 年只有五分之一（Brady et al., 2023, p.7）。
 > - [[Qualitative Research|质性研究]]从 2010 年 9% 上升至 2020 年 22%；即使排除 *Journal of Educational Psychology* 2020 年质性研究 special issue，质性研究仍占 19%（Brady et al., 2023, pp.5-6）。
 > - 观察/相关研究含 RFP 比例 2020 年达到 66%；质性研究 65%、[[Mixed Method and Multi-method Research|混合方法/多方法研究]] 60% 含 RFP（Brady et al., 2023, pp.6-7）。
 > - JEP 2019 与 2020 的比较显示，2020 年观察/相关研究中 RFP 比例为 67%，低于 2019 年的 82%；作者据此认为 2020 年可能低估了此类研究包含 RFP 的倾向（Brady et al., 2023, p.5）。

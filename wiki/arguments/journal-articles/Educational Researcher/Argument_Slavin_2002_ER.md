@@ -22,6 +22,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
 related_persons: []
 related_facts:
   - "[[Comprehensive School Reform Program]]"
@@ -81,7 +82,7 @@ updated: '2026-05-18'
 
 > [!success] 主要发现
 > - 截至 2002 年，[[Comprehensive School Reform Program|CSR]] 拨款中仅 20.8% 流向具有"强证据"的项目，63.2% 流向混合/无研究的项目或自创模型。(p. 15)
-> - OERI 战略计划（2002–2007）设定了到 2004 年 75% 的因果研究使用随机分配的目标，而当时该比例可能低于 5%。(p. 15)
+> - OERI 战略计划（2002–2007）设定了到 2004 年 75% 的因果研究使用[[Random Assignment|随机分配]]的目标，而当时该比例可能低于 5%。(p. 15)
 > - 随机化实验在大多数政策相关的项目评估领域是可能的，需要充足的资源和政策制定者的合作。(pp. 17–18)
 > - 延迟处理对照组设计（delayed treatment control group）是一种在实践中更易招募学校的随机化替代方案：将学校随机分配到立即实施组和一年后实施组。(p. 18)
 

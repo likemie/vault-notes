@@ -33,6 +33,7 @@ related_theories:
   - "[[Appraisal Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Quantitative Research]]"
@@ -79,7 +80,7 @@ updated: '2026-05-18'
 >
 > **Fresh Start 案例解构**：
 > - EEF 行政摘要声称效应量 +0.24SD（相当于 3 个月额外进步）
-> - 细读发现：随机分配严重失真（治疗组前测远低于控制组前测）
+> - 细读发现：[[Random Assignment|随机分配]]严重失真（治疗组前测远低于控制组前测）
 > - 匹配子集分析显示：治疗组和控制组的低分学生进步几乎完全相同
 > - **"三个月的额外进步"是随机化失败的幻象**
 > - 此外：参与[[School Leadership|学校领导]]在随机化前已对项目抱有热情；对控制组情况缺乏描述

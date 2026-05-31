@@ -18,6 +18,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Logic Model]]"
   - "[[Statistical Significance]]"
+  - "[[Internal Validity]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
@@ -74,7 +75,7 @@ updated: '2026-05-23'
 ## 争议与批评
 
 > [!warning]
-> 许多正式证据审查只粗略处理实施忠实度。它们会严格审查内部效度，却较少呈现教师准备、开发者支持、学生使用强度、用户满意度和成本等信息；这使实践者难以判断项目能否在本地被复制（Ross & Morrison, 2021, pp.112, 120-121）。
+> 许多正式证据审查只粗略处理实施忠实度。它们会严格审查[[Internal Validity|内部效度]]，却较少呈现教师准备、开发者支持、学生使用强度、用户满意度和成本等信息；这使实践者难以判断项目能否在本地被复制（Ross & Morrison, 2021, pp.112, 120-121）。
 
 > [!warning]
 > 实施忠实度不能被简单理解为“完全照方案做”。在复杂改革中，项目需要穿过课程、问责政策、组织基础设施、领导和社区压力等多重过滤器，地方适应有时是项目持续运行的条件，而不是实施失败的证据（Ross & Morrison, 2021, pp.111-113）。

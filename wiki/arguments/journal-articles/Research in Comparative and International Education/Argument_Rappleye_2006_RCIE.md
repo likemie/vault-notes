@@ -299,7 +299,8 @@ updated: '2026-05-28'
 > > [!tip] 规范主张：学者应介入转移过程
 > > 这是论证最鲜明的规范性主张。Cummings (1989) 观察到，比较教育学者"缺乏直接影响力"的一个原因可能是方法论上的：他们"倾向于看国外而非国内，因此不擅长向国内受众传达外国实践的意义"（p. 302，引自 p. 237）。论证通过地图提出一个反问：如果学者只生产关于外国体系的描述性案例研究，然后坐等别人来用这些研究成果——"别人"很可能是那些用芬兰来危机化本国教育或靠日本来合法化自己议程的政治家——那么学者的"中立"在什么意义上是真正的负责任？（p. 237–238）
 >
-> > "If we as comparativists do not make the connection between our research, transfer processes, and the home context explicit someone less knowledgeable will."（p. 238）
+> > “如果我们作为比较学者不将我们的研究、转移过程与本土情境之间的联系明确化，那么那些知识较少的人就会代劳。”
+> ("If we as comparativists do not make the connection between our research, transfer processes, and the home context explicit someone less knowledgeable will.")（p. 238）
 >
 > 论证的立场是：比较教育学者不必也不应假装"中立"。通过将自己的外国系统研究与"本国"情境中的推力或阻力明确联系起来，指出哪些外国范例被什么样的行动者以什么火花策略使用了，学者就可以支持或反对借用，可以在政策辩论中提供比政治家和媒体更可靠的参照。这呼应了 Noah (1984) 对比较教育"真正用途"的经典定义："仔细分析某些外国实践在什么条件下产生了理想结果，然后考虑如何将这些实践适应到本国条件中"（p. 562，引自 p. 238）。
 
@@ -320,15 +321,20 @@ updated: '2026-05-28'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "One problem is that most frameworks for analyzing transfer take the 'borrowed' policy as the focal point. This contributes to a myopic view of transfer and conceals the role of context."（p. 224）
+> > “一个问题在于，大多数分析转移的框架都以‘借用’的政策为焦点。这导致了对转移的短视观点，并掩盖了情境的作用。”
+> ("One problem is that most frameworks for analyzing transfer take the 'borrowed' policy as the focal point. This contributes to a myopic view of transfer and conceals the role of context.")（p. 224）
 >
-> > "Education reform is not science, but a highly normative endeavour – perhaps the premier arena for social discourse on values."（p. 228）
+> > “教育改革不是科学，而是一项高度规范性的努力——也许是进行价值观社会话语的首要舞台。”
+> ("Education reform is not science, but a highly normative endeavour – perhaps the premier arena for social discourse on values.")（p. 228）
 >
-> > "Externalizations 'filter' the reception and description of an international environment according to the changing problem configurations and reflection situations internal to a given system."（Schriewer & Martinez, 2004, p. 32，引自 p. 230）
+> > “外部化根据特定系统内部不断变化的问题配置和反思情境，来‘过滤’对国际环境的接收和描述。”
+> ("Externalizations 'filter' the reception and description of an international environment according to the changing problem configurations and reflection situations internal to a given system.")（Schriewer & Martinez, 2004, p. 32，引自 p. 230）
 >
-> > "The '[[Cross-National Attraction]]' stage ... is of particular importance because it initiates the entire policy-borrowing cycle."（p. 225）
+> > “‘[[Cross-National Attraction|跨国吸引力]]’阶段……特别重要，因为它启动了整个[[Policy Borrowing|政策借用]]周期。”
+> ("The '[[Cross-National Attraction]]' stage ... is of particular importance because it initiates the entire policy-borrowing cycle.")（p. 225）
 >
-> > "If we as comparativists do not make the connection between our research, transfer processes, and the home context explicit someone less knowledgeable will."（p. 238）
+> > “如果我们作为比较学者不将我们的研究、转移过程与本土情境之间的联系明确化，那么那些知识较少的人就会代劳。”
+> ("If we as comparativists do not make the connection between our research, transfer processes, and the home context explicit someone less knowledgeable will.")（p. 238）
 
 ---
 

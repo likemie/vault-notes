@@ -16,6 +16,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
+  - "[[Random Assignment]]"
   - "[[Causal Modeling]]"
 related_persons: []
 related_facts: []
@@ -68,7 +69,7 @@ updated: 2026-05-31
 预测变量（也称前因变量 antecedent variable）在[[Survey Research|调查研究]]方法中用于预测感兴趣的结果。它与自变量类似，都假设会影响研究结果；但区别在于研究者无法系统操纵预测变量（Creswell & Creswell, 2022, p.55）。
 
 > [!example]
-> 可能无法随机分配个体到"红酒消费组"或"对照组"（作为自变量），但可以在社区样本中测量自然发生的红酒消费量（作为预测变量）。
+> 可能无法[[Random Assignment|随机分配]]个体到"红酒消费组"或"对照组"（作为自变量），但可以在社区样本中测量自然发生的红酒消费量（作为预测变量）。
 
 ### 结果变量（Outcome Variable）
 

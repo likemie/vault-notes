@@ -17,6 +17,8 @@ tags:
 - region/us
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Internal Validity]]"
+  - "[[External Validity]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
@@ -42,7 +44,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> [[What Works Clearinghouse]] 最初的设计标准主要针对组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）。随着[[Single-Case Design|单一个案设计]]（[[21st Century Skills and Competencies Discourse|SCD]]）在特殊教育、学校心理学等领域的广泛使用，需要一套专门的标准来评估 SCD 研究的内部效度和外部效度（Hitchcock et al., 2015, p.460）。
+> [[What Works Clearinghouse]] 最初的设计标准主要针对组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）。随着[[Single-Case Design|单一个案设计]]（[[21st Century Skills and Competencies Discourse|SCD]]）在特殊教育、学校心理学等领域的广泛使用，需要一套专门的标准来评估 SCD 研究的[[Internal Validity|内部效度]]和[[External Validity|外部效度]]（Hitchcock et al., 2015, p.460）。
 >
 > SCD 已被认可为产生实证证据以指导治疗创新、采纳或改进的可行方法（Horner et al., 2005; Kratochwill & Levin, 2014），因此 WWC 需要建立相应的审查基础设施。
 
@@ -53,7 +55,7 @@ updated: '2026-05-18'
 >
 > 两者的层级关系可以概括为：[[What Works Clearinghouse]] 是发布教育干预证据审查与报告的机构/平台；WWC SCD Pilot Standards 2010 是 WWC 为了把 SCD 研究纳入其证据审查而开发的一套设计标准；具体审查时，这套标准必须与 WWC 的审查协议（review protocols）和 SCD Review Guide 一起使用，不能孤立理解（Hitchcock et al., 2015, pp.460–461）。
 >
-> 因此，SCD 条目应承担方法层面的定义与效度逻辑，SCD Pilot Standards 条目则承担 WWC 制度化审查层面的规则说明。SCD Pilot Standards 主要回答"哪些 SCD 研究具有足够内部效度，可以进入 WWC 后续证据综合"；而 WWC 的审查协议和 SCD Review Guide 进一步规定具体审查问题、目标人群、结果领域、场所，并系统记录参与者、场所、基线、干预条件、实施者培训和干预忠实度等推广性信息（Hitchcock et al., 2015, pp.461, 464–466）。
+> 因此，SCD 条目应承担方法层面的定义与效度逻辑，SCD Pilot Standards 条目则承担 WWC 制度化审查层面的规则说明。SCD Pilot Standards 主要回答"哪些 SCD 研究具有足够[[Internal Validity|内部效度]]，可以进入 WWC 后续证据综合"；而 WWC 的审查协议和 SCD Review Guide 进一步规定具体审查问题、目标人群、结果领域、场所，并系统记录参与者、场所、基线、干预条件、实施者培训和干预忠实度等推广性信息（Hitchcock et al., 2015, pp.461, 464–466）。
 
 ## 政策文本摘要
 
@@ -68,7 +70,7 @@ updated: '2026-05-18'
 
 > [!info] 关键组件
 > ### [[21st Century Skills and Competencies Discourse|SCD]] 设计标准
-> 评估研究是否建立了充分的实验控制（内部效度），包括（Hitchcock et al., 2015, p.465）：
+> 评估研究是否建立了充分的实验控制（[[Internal Validity|内部效度]]），包括（Hitchcock et al., 2015, p.465）：
 > - 阶段对比（phase contrasts）的数量和设计
 > - 每个阶段的数据点数量（需足够以建立稳定的基线模式）
 > - 结果是否被可靠测量（信度证据）
@@ -136,7 +138,7 @@ updated: '2026-05-18'
 ## 效果与评价
 
 > [!success] 效果与评价
-> - **内部效度判断的一致性**：Maggin et al. (2013) 发现，7 种量规在 [[21st Century Skills and Competencies Discourse|SCD]] 研究内部效度判断上产生了合理一致的结果——这并不令人惊讶，因为 Campbellian 效度框架适用于多种设计类型（Hitchcock et al., 2015, p.462）
+> - **[[Internal Validity|内部效度]]判断的一致性**：Maggin et al. (2013) 发现，7 种量规在 [[21st Century Skills and Competencies Discourse|SCD]] 研究内部效度判断上产生了合理一致的结果——这并不令人惊讶，因为 Campbellian 效度框架适用于多种设计类型（Hitchcock et al., 2015, p.462）
 > - **推广性判断的分歧**：各量规在推广性标准上存在"相当大差异"——有些量规捕获了大量推广性细节，有些则功能性忽略此考虑（p.461）
 > - **澄清效应**：Hitchcock et al. 希望通过澄清"系统如何运作"，使 [[Single-Case Design|SCD]] 研究社区理解标准，"从而促进对 [[What Works Clearinghouse|WWC]] 未来报告的使用，并可能影响 SCD 研究的实施和报告方式"（pp.461–462）
 

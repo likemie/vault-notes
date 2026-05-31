@@ -19,6 +19,7 @@ related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
 related_persons: []
 related_facts:
   - "[[California Class Size Reduction 1996]]"
@@ -70,7 +71,7 @@ updated: '2026-05-18'
 > Wiliam (2019, pp.5–7) 对 Tennessee STAR 项目和加州班级缩减政策进行了详细对比，揭示了 fidelity vs adaptation 辩论在大型教育政策中的具体表现：
 >
 > **Tennessee STAR (1985–1989) 的成功**：
-> - 幼儿园学生随机分配至小班（13–17 人）、大班（22–26 人）或大班加教师助理
+> - 幼儿园学生[[Random Assignment|随机分配]]至小班（13–17 人）、大班（22–26 人）或大班加教师助理
 > - 教师也被随机分配（在美国学区中属重要考量，因资深教师通常可表达偏好）
 > - 至二年级末：小班学生领先大班学生约 3 个月，贫困和少数族裔学生获益高达两倍（Grissmer, 1999; Molnar et al., 1999）
 > - Mosteller (1995, p. 113) 评价为"有史以来最重要的教育调查之一"
@@ -112,7 +113,7 @@ updated: '2026-05-18'
 > - 教师访谈显示实践中几乎没有学校"开箱即用"地应用证据本位方案（Cowen et al., 2015, p.40-41）
 > - 部分教师试图向自己证明"忠实于研究"——通过测量中间结果来验证方案是否按预期产生了初始效果（Cowen et al., 2015, p.29-30）
 > - 另一位教师则认为只要理解自己偏离了什么以及为什么偏离，忠实度并非必须维持（Cowen et al., 2015, p.30）
-> - Tennessee STAR 本身也非"忠实执行"的完美范例：随机分配在操作中被破坏——家长发现孩子被分配到大班后施压转班，在平均更有效的学校中更富裕学生在小班中过度代表（Sohn, 2015）（Wiliam, 2019, pp.6–7）
+> - Tennessee STAR 本身也非"忠实执行"的完美范例：[[Random Assignment|随机分配]]在操作中被破坏——家长发现孩子被分配到大班后施压转班，在平均更有效的学校中更富裕学生在小班中过度代表（Sohn, 2015）（Wiliam, 2019, pp.6–7）
 
 ## 争议与批评
 

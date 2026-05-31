@@ -27,6 +27,7 @@ related_methods:
   - "[[Improvement Science]]"
   - "[[Mechanism Experiments]]"
   - "[[Black Box RCTs]]"
+  - "[[Random Assignment]]"
 related_persons: []
 related_facts:
   - "[[Investing in Innovation Program]]"
@@ -73,7 +74,7 @@ updated: '2026-05-18'
 >
 > **组件一：[[Mechanism Experiments|机制实验]]取代黑箱 RCT**
 >
-> 将 RCT 从评估完整项目转为测试可迁移的教育变革机制——"影响学习的最直接且最显著的因素"（p. 303）。关键方法论工具是**鼓励设计**（Imai, Tingley, & Yamamoto, 2013）：受试者被随机分配接受"鼓励"以采取更高值的中介[[Variable|变量]]，从而隔离特定机制的独立因果贡献。
+> 将 RCT 从评估完整项目转为测试可迁移的教育变革机制——"影响学习的最直接且最显著的因素"（p. 303）。关键方法论工具是**鼓励设计**（Imai, Tingley, & Yamamoto, 2013）：受试者被[[Random Assignment|随机分配]]接受"鼓励"以采取更高值的中介[[Variable|变量]]，从而隔离特定机制的独立因果贡献。
 >
 > **组件二：改进和探究网络融入"什么有效"基础设施**
 >

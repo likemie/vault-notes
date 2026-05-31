@@ -43,6 +43,7 @@ related_concepts:
   - "[[Symbolic Boundary]]"
   - "[[Research Question]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Internal Validity]]"
   - "[[Self-Authorship]]"
   - "[[Quality Education]]"
   - "[[The Shock of the Elite]]"
@@ -558,7 +559,7 @@ Walder et al.（2000）的**二元精英职业路径**理论（[[Dual Elite Care
 4. 循环迭代 → 直至理论命题兼容所有个案经验
 5. **最终产出**：[[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 两种"上大学"实践模式的区分
 
-**内部效度保障**：
+**[[Internal Validity|内部效度]]保障**：
 - 三角互证法：访谈、观察、问卷结果交叉对照
 - 人员校验法：每当被访者陈述重要观点后，研究者用自己的话复述确认（郑雅君，2023）
 

@@ -14,6 +14,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
 related_persons: []
 related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
@@ -33,7 +34,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 意向治疗（ITT）分析是 [[Randomised Controlled Trials|RCT]] 中的一种估计方法：无论被试是否实际接受了干预，均按其原始随机分配组别进行分析。ITT 估计反映的是"干预可获得性（availability）"的效果，而非"干预实际接受（uptake）"的效果（Pampaka et al., 2016, p.233）。
+> 意向治疗（ITT）分析是 [[Randomised Controlled Trials|RCT]] 中的一种估计方法：无论被试是否实际接受了干预，均按其原始[[Random Assignment|随机分配]]组别进行分析。ITT 估计反映的是"干预可获得性（availability）"的效果，而非"干预实际接受（uptake）"的效果（Pampaka et al., 2016, p.233）。
 >
 > > "such models usually offer intent-to-treat (ITT) estimates which is of great importance for policy and practice 'as policymakers and administrators often have control only over the availability of an intervention, and not its uptake'"（Pampaka et al., 2016, p.233）
 

@@ -23,6 +23,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Quasi-Experimental Designs]]"
+  - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
@@ -51,7 +52,7 @@ updated: '2026-05-23'
 > [!abstract] 政策文本摘要
 > NCLB 全文提及**"科学本位研究"（scientifically based research）110 次**。法案将"科学本位研究"定义为：
 >
-> > "采用严格、系统和客观程序以获得有效知识的研究"，包括"使用实验或[[Quasi-Experimental Designs|准实验设计]]进行评估"的研究，**最好使用随机分配**。(U.S. Congress, 2001, cited in Slavin, 2002, p. 16)
+> > "采用严格、系统和客观程序以获得有效知识的研究"，包括"使用实验或[[Quasi-Experimental Designs|准实验设计]]进行评估"的研究，**最好使用[[Random Assignment|随机分配]]**。(U.S. Congress, 2001, cited in Slavin, 2002, p. 16)
 >
 > "科学本位研究"被规定为以下联邦项目的依据：
 > - **Title I** — 为高贫困学校提供补充资金

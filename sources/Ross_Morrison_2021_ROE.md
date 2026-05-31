@@ -5,6 +5,7 @@ extracted_to:
   - "[[Absorptive Capacity]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Implementation Fidelity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -12,13 +13,12 @@ extracted_to:
   - "[[Technology Infusion]]"
   - "[[Effect Size]]"
   - "[[Logic Model]]"
+  - "[[Statistical Significance]]"
   - "[[ESSA 2015 Evidence Standards]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Formative Program Evaluation]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Evidence-Based Reform]]"
-  - "[[Statistical Significance]]"
 processed_date: 2026-05-23
 ---
 

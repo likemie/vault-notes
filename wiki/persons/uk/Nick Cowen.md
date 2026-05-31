@@ -18,6 +18,7 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Causality]]"
+  - "[[External Validity]]"
   - "[[Literature Review]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
@@ -77,7 +78,7 @@ updated: '2026-05-19'
 
 
 - 深受 **Gordon Tullock** 和公共选择传统影响
-- 与 **[[Nancy Cartwright]]** 密切合作，将科学哲学（[[Causality|因果推断]]、[[Randomised Controlled Trials|RCT]] 外部效度）应用于教育政策
+- 与 **[[Nancy Cartwright]]** 密切合作，将科学哲学（[[Causality|因果推断]]、[[Randomised Controlled Trials|RCT]] [[External Validity|外部效度]]）应用于教育政策
 - 与 **[[Gert Biesta]]** 对 [[Evidence-Based Education|EBE]] 的批判互补：Biesta 提供哲学批判（EBE 为什么在认识论上是错的），Cowen 提供政治经济学解释（EBE 为什么在制度上被选择）和实践分析（EBE 为什么在实施中受阻）
 
 ## 主要著作

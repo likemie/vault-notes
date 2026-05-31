@@ -15,15 +15,14 @@ tags:
   - quantitative-research
   - group-comparison
 related_concepts:
-  - "[[Statistical Significance]]"
-  - "[[Null Hypothesis]]"
+  - "[[Variable]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
 related_theories: []
 related_methods:
-  - "[[Quantitative Research]]"
-  - "[[Experimental Research]]"
+  - "[[Analysis of Variance (ANOVA)]]"
   - "[[Survey Research]]"
-  - "[[ANOVA]]"
+  - "[[Single-Subject Design]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -47,25 +46,25 @@ updated: 2026-05-31
 > [!example]
 > t 检验的典型使用步骤（Creswell & Creswell, 2022, Ch8）：
 
-1. 明确分组变量（二分类，如实验组 vs 对照组）和结果变量（连续变量）。
+1. 明确分组[[Variable|变量]]（二分类，如实验组 vs 对照组）和结果变量（连续变量）。
 2. 检查两组是否独立（独立样本 t 检验）或配对（配对样本 t 检验）。
 3. 检查正态分布假设和方差同质性假设。
 4. 计算 t 统计量并比较 p 值与预设显著性水平。
-5. 报告效应量（如 Cohen's d）和置信区间。
+5. 报告[[Effect Size|效应量]]（如 Cohen's d）和[[Confidence Interval|置信区间]]。
 
 ## 方法变体与相近方法
 
 > [!tip]
 > - **独立样本 t 检验**：比较两个独立组的均值，如实验组 vs 对照组的后测得分。
 > - **配对样本 t 检验**：比较同一组在两次测量中的均值，如前测 vs 后测。
-> - vs [[ANOVA]] — t 检验是 ANOVA 在两组比较时的特例；当需要比较三组或以上时，应使用 ANOVA 而非多次 t 检验（以避免第一类错误膨胀）。
+> - vs [[Analysis of Variance (ANOVA)|ANOVA]] — t 检验是 ANOVA 在两组比较时的特例；当需要比较三组或以上时，应使用 ANOVA 而非多次 t 检验（以避免第一类错误膨胀）。
 
 ## 适用场景
 
 > [!success]
 > - 实验中比较两个处理条件之间的均值差异。
-> - 调查研究中比较两个群体在某变量上的均值差异。
-> - 单受试者设计中偶尔用于比较基线和处理阶段的合并均值，但可能违反独立测量假设（Borg & Gall, 2006; 引自 Creswell & Creswell, 2022, Ch8）。
+> - [[Survey Research|调查研究]]中比较两个群体在某[[Variable|变量]]上的均值差异。
+> - [[Single-Subject Design|单受试者设计]]中偶尔用于比较基线和处理阶段的合并均值，但可能违反独立测量假设（Borg & Gall, 2006; 引自 Creswell & Creswell, 2022, Ch8）。
 
 ## 局限性
 

@@ -2580,7 +2580,8 @@ N. T. Feather 在 1989 年对 300+ 名澳大利亚高中生和 500+ 名大学生
 > 结论：在一个固定自我的文化中，高成就者**在结构上不可能被同伴善待**——因为他们正是同伴自我降级的原因。
 
 > [!quote] Li 的原话（Li, 2012, p.95）
-> "Why would they be kind and respectful toward those who are seen as, and probably are, the very cause of their downgrading?"
+> “他们为什么要对那些被视为、且很可能就是导致他们地位下降原因的人友善和尊重呢？”
+> ("Why would they be kind and respectful toward those who are seen as, and probably are, the very cause of their downgrading?")
 
 **根源 2：[[Zero-Sum Competition|零和竞争]]观 — "你赢就是我输"**
 

@@ -17,7 +17,9 @@ tags:
 - evidence-based-education
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Internal Validity]]"
   - "[[Causality]]"
+  - "[[External Validity]]"
   - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
@@ -54,8 +56,8 @@ updated: '2026-05-18'
 > [!abstract] 理论框架
 > 论文以 **[[Campbellian Validity Framework]]**（Shadish, 1995; Shadish, Cook & [[Campbell Collaboration|Campbell]], 2002）为理论基础：
 >
-> - **内部效度**：[[Causality|因果关系]]在多大程度上成立——通过排除替代解释（威胁）来建立，是实验设计的"必要条件"（sin qua non）（Hitchcock et al., 2015, p.461）
-> - **外部效度**：因果推断在多大程度上适用于不同情境、场所、测量、人群——与推广性密切相关，评估远比内部效度复杂（p.462）
+> - **[[Internal Validity|内部效度]]**：[[Causality|因果关系]]在多大程度上成立——通过排除替代解释（威胁）来建立，是实验设计的"必要条件"（sin qua non）（Hitchcock et al., 2015, p.461）
+> - **[[External Validity|外部效度]]**：因果推断在多大程度上适用于不同情境、场所、测量、人群——与推广性密切相关，评估远比内部效度复杂（p.462）
 > - 内外部效度并非完全互斥：例如基线描述既用于建立实验控制（内部效度），也描述现状从而为推广性提供信息（p.463）
 >
 > 论文也将 [[21st Century Skills and Competencies Discourse|SCD]] 置于证据本位实践（Evidence-Based Practice）的宏观框架中：开场即申明"长期以来一直存在使用具有强证据基础的干预的呼吁"（p.460）。
@@ -102,9 +104,9 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **内部效度判断的一致性不令人惊讶**：Maggin et al. (2013) 发现 7 种量规在内部效度判断上合理一致——这在 Campbellian 框架下是可预期的，因为排除内部效度威胁的逻辑适用于多种设计类型（p.462）
+> 1. **[[Internal Validity|内部效度]]判断的一致性不令人惊讶**：Maggin et al. (2013) 发现 7 种量规在内部效度判断上合理一致——这在 Campbellian 框架下是可预期的，因为排除内部效度威胁的逻辑适用于多种设计类型（p.462）
 >
-> 2. **外部效度判断更复杂且有内在原因**：评估外部效度比内部效度更复杂，部分原因是"许多因素或实验特征可能代表推广能力的威胁，有些因素容易识别，有些则不是"（p.462）；另一原因是审查者不知道消费者希望推广到何处（p.463）
+> 2. **[[External Validity|外部效度]]判断更复杂且有内在原因**：评估外部效度比内部效度更复杂，部分原因是"许多因素或实验特征可能代表推广能力的威胁，有些因素容易识别，有些则不是"（p.462）；另一原因是审查者不知道消费者希望推广到何处（p.463）
 >
 > 3. **[[21st Century Skills and Competencies Discourse|SCD]] 的外部效度面临额外的普遍偏见**：存在一种普遍（但错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广，尽管事实上可以（Barlow et al., 2009），这使得 SCD 的外部效度评估比 [[Randomised Controlled Trials|RCT]] 更困难（p.467）
 >
@@ -116,7 +118,7 @@ updated: '2026-05-18'
 > - **[[21st Century Skills and Competencies Discourse|SCD]] 的基础定义与适用范围**：论文明确将 [[Single-Case Design|SCD]] 定义为一类通过在不同条件下重复测量特定行为或技能、以个体或小群体作为自身控制来评估干预效果的实验方法，并说明它起源于心理学，已用于教育、医学、言语和语言治疗等领域（Hitchcock et al., 2015, p.460）。
 > - **单项 SCD 与政策证据之间的距离**：作者指出，一项 SCD 研究即便可能改变局部实践，也通常不足以支持[[Theories of Policy Change|政策变革]]；更强证据需要汇集不同研究团队、不同参与者和不同场所中的多项 SCD 研究（Hitchcock et al., 2015, p.460）。
 > - **推广性判断的具体信息项**：[[What Works Clearinghouse|WWC]] SCD Review Guide 记录基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、自变量/干预描述、参与者描述和场所描述；这些信息不是被评分，而是提供给读者判断研究发现是否适用于自己的情境（Hitchcock et al., 2015, pp.464–466）。
-> - **外部效度的结构性难题**：作者强调，审查者往往不知道消费者希望把证据推广到哪一个具体"点"；这解释了为什么 WWC 选择描述推广性信息，而不是给每个推广性维度设置统一阈值（Hitchcock et al., 2015, pp.462–463, 466）。
+> - **[[External Validity|外部效度]]的结构性难题**：作者强调，审查者往往不知道消费者希望把证据推广到哪一个具体"点"；这解释了为什么 WWC 选择描述推广性信息，而不是给每个推广性维度设置统一阈值（Hitchcock et al., 2015, pp.462–463, 466）。
 > - **SCD 证据的社会认识论问题**：论文指出，存在一种普遍但错误的信念，认为 SCD 证据不能推广；作者认为 SCD 信息如何支持原始研究场所以外的情境判断仍需进一步澄清（Hitchcock et al., 2015, p.467）。
 
 ## 关键引用
@@ -124,7 +126,7 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "It is important to note that these standards are not used in isolation, and thus generalization details cannot be fully understood without also considering the review protocols and a tool called the [[What Works Clearinghouse|WWC]] [[21st Century Skills and Competencies Discourse|SCD]] review guide." (p.460)
 >
-> > "The WWC addresses the external validity of findings from multiple [[Single-Case Design|SCD]] studies by taking into consideration what Maggin et al. (2013) describe as criteria for assessing generality." (pp.463–464)
+> > "The WWC addresses the [[External Validity]] of findings from multiple [[Single-Case Design|SCD]] studies by taking into consideration what Maggin et al. (2013) describe as criteria for assessing generality." (pp.463–464)
 >
 > > "Generalization details are not evaluated but rather described in detail so that consumers can make their own determinations about generalization." (p.466)
 >

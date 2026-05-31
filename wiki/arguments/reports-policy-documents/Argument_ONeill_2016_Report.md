@@ -75,7 +75,8 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The analysis in this report documents how an increased presence of private sector actors is reshaping the ways in which state schooling policy is developed and enacted in classrooms, staffrooms, schools and local communities." (O'Neill et al., 2016, p.v)
+> > “本报告中的分析记录了私营部门参与者日益增加的存在感，是如何重塑公立学校政策在课堂、教职员室、学校和当地社区中制定与颁布的方式的。”
+> ("The analysis in this report documents how an increased presence of private sector actors is reshaping the ways in which state schooling policy is developed and enacted in classrooms, staffrooms, schools and local communities.") (O'Neill et al., 2016, p.v)
 >
 > > "[[John Hattie|Hattie]]'s now global social networking approach might reasonably be described as a seamless fabrication of his public-good, not-for-profit and for-profit policy entrepreneurship and advocacy." (O'Neill et al., 2016, pp.viii–ix)
 

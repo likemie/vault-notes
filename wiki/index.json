@@ -3009,6 +3009,18 @@
     ]
   },
   {
+    "title": "Blinding",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Blinding.md",
+    "aliases": [
+      "盲法",
+      "盲态",
+      "single-blind",
+      "double-blind",
+      "masked design"
+    ]
+  },
+  {
     "title": "Cargo Cult Science",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Cargo Cult Science.md",
@@ -3093,6 +3105,15 @@
       "social constructivism",
       "constructivist worldview",
       "interpretivism"
+    ]
+  },
+  {
+    "title": "Cover Story",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Cover Story.md",
+    "aliases": [
+      "封面故事",
+      "实验封面故事"
     ]
   },
   {
@@ -3269,6 +3290,19 @@
     ]
   },
   {
+    "title": "Internal Consistency (Cronbach's Alpha)",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Internal Consistency (Cronbach's Alpha).md",
+    "aliases": [
+      "内部一致性",
+      "Cronbach's alpha",
+      "Cronbach's α",
+      "克隆巴赫系数",
+      "Cronbach alpha",
+      "internal consistency reliability"
+    ]
+  },
+  {
     "title": "Internal Validity",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Internal Validity.md",
@@ -3317,6 +3351,16 @@
       "evaluation logic model",
       "program logic model",
       "program theory model"
+    ]
+  },
+  {
+    "title": "Manipulation Check",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Manipulation Check.md",
+    "aliases": [
+      "操纵检查",
+      "操纵检验",
+      "manipulation check measure"
     ]
   },
   {
@@ -3551,6 +3595,17 @@
     "path": "wiki/concepts/research-methodology/Researcher Degrees of Freedom.md",
     "aliases": [
       "研究者自由度"
+    ]
+  },
+  {
+    "title": "Response Bias",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Response Bias.md",
+    "aliases": [
+      "回应偏差",
+      "无回应偏差",
+      "nonresponse bias",
+      "无应答偏差"
     ]
   },
   {
@@ -4908,6 +4963,18 @@
     ]
   },
   {
+    "title": "Chi-Squared Test",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Chi-Squared Test.md",
+    "aliases": [
+      "卡方检验",
+      "卡方检定",
+      "chi-square test",
+      "χ2 test",
+      "chi-squared test of independence"
+    ]
+  },
+  {
     "title": "Cluster Randomized Trials",
     "type": "method",
     "path": "wiki/methods/quantitative/Cluster Randomized Trials.md",
@@ -5032,6 +5099,17 @@
     ]
   },
   {
+    "title": "Multiple Regression",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Multiple Regression.md",
+    "aliases": [
+      "多元回归",
+      "多重回归",
+      "multiple linear regression",
+      "OLS regression"
+    ]
+  },
+  {
     "title": "Non-intervention Research",
     "type": "method",
     "path": "wiki/methods/quantitative/Non-intervention Research.md",
@@ -5046,6 +5124,31 @@
     "aliases": [
       "观察研究",
       "相关性研究"
+    ]
+  },
+  {
+    "title": "Pearson Product-Moment Correlation",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Pearson Product-Moment Correlation.md",
+    "aliases": [
+      "Pearson相关",
+      "皮尔逊相关",
+      "Pearson's correlation",
+      "Pearson's r",
+      "积差相关"
+    ]
+  },
+  {
+    "title": "Pilot Testing",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Pilot Testing.md",
+    "aliases": [
+      "试点测试",
+      "预测试",
+      "前导测试",
+      "pilot study",
+      "field testing",
+      "实地测试"
     ]
   },
   {

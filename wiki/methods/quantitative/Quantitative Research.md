@@ -21,6 +21,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
+  - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
 related_facts: []
@@ -75,7 +76,7 @@ updated: 2026-05-30
 
 > [!tip]
 > - [[Survey Research]] — 通过问卷或结构化访谈从样本收集数据以推广至总体的量化设计。
-> - [[Experimental Research]] — 通过操纵处理条件、控制组和随机分配来检验[[Causality|因果关系]]的量化设计。
+> - [[Experimental Research]] — 通过操纵处理条件、控制组和[[Random Assignment|随机分配]]来检验[[Causality|因果关系]]的量化设计。
 > - [[Quasi-Experimental Designs]] — 使用非随机化分组或仅使用单组的准实验设计。
 
 ## 来源

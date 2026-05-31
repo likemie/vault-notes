@@ -20,6 +20,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Knowledge Production]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[External Validity]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
@@ -90,7 +91,7 @@ updated: '2026-05-18'
 > - 将"可测量"直接等同于"最重要"。
 > - 在复杂情境中诉诸单一平均效应作为政策唯一依据。
 > - 把方法层级（如 [[Randomised Controlled Trials|RCT]]/[[Meta-analysis|元分析]]）直接上升为价值层级（什么教育是好的）。
-> - 忽视外部效度与情境差异，却输出强普遍性处方。
+> - 忽视[[External Validity|外部效度]]与情境差异，却输出强普遍性处方。
 
 ## 交叉阅读路径
 

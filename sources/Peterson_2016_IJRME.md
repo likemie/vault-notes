@@ -3,15 +3,15 @@ citation: "Peterson, A. (2016). Getting 'What Works' working: building blocks fo
 extracted_to:
   - "[[Argument_Peterson_2016_IJRME]]"
   - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
   - "[[Spirals of Inquiry]]"
   - "[[Improvement Science]]"
   - "[[Black Box RCTs]]"
   - "[[Mechanism Experiments]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Amelia Peterson]]"
   - "[[Anthony Bryk]]"
   - "[[Catherine Lewis]]"
-  - "[[Evidence-Based Reform]]"
-  - "[[Randomised Controlled Trials]]"
 processed_date: 2026-05-02
 ---
 

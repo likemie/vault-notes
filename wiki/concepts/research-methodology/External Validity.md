@@ -13,13 +13,11 @@ tags:
   - validity
 related_concepts:
   - "[[Internal Validity]]"
-  - "[[Causality]]"
-  - "[[Construct Validity (Quantitative)]]"
+  - "[[Construct]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
-  - "[[Quasi-Experimental Designs]]"
-  - "[[Random Assignment]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -36,7 +34,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 外部效度威胁（External Validity Threats）指实验研究者因受试者特征、实验情境的独特性或实验的时间限制，而将样本结果错误地推广到其他人群、其他情境或过去与未来情境中（Creswell & Creswell, 2022, Ch8）。
+> 外部效度威胁（External Validity Threats）指[[Experimental Research|实验研究]]者因受试者特征、实验情境的独特性或实验的时间限制，而将样本结果错误地推广到其他人群、其他情境或过去与未来情境中（Creswell & Creswell, 2022, Ch8）。
 
 ## 核心要素
 
@@ -46,13 +44,13 @@ updated: 2026-05-31
 | 威胁类型 | 描述 | 应对策略 |
 |---|---|---|
 | 选择与处理的交互作用（Interaction of Selection and Treatment） | 由于受试者特征范围过窄，无法推广到不具备这些特征的人群。 | 限制研究结论的范围，说明不可推广的群体；对有不同特征的群体进行额外实验。 |
-| 情境与处理的交互作用（Interaction of Setting and Treatment） | 由于实验情境特征特殊，无法推广到其他情境中的个体。 | 在新情境中重复实验，检验是否产生相同结果。 |
+| 情境与处理的交互作用（Interaction of [[Tracking\|setting]] and Treatment） | 由于实验情境特征特殊，无法推广到其他情境中的个体。 | 在新情境中重复实验，检验是否产生相同结果。 |
 | 历史与处理的交互作用（Interaction of History and Treatment） | 实验结果受特定时间限制，无法推广到过去或未来的情境。 | 在后续时间点复制研究，检验结果是否保持一致。 |
 
 > [!note] 两种额外的效度威胁
-> 除内部效度和外部效度外，Creswell & Creswell (2022, Ch8) 还提到了另外两种效度威胁：
+> 除[[Internal Validity|内部效度]]和外部效度外，Creswell & Creswell (2022, Ch8) 还提到了另外两种效度威胁：
 > - **统计结论效度（Statistical Conclusion Validity）**：因统计功效不足或违反统计假设而导致研究者从数据中得出不准确的推论。
-> - **构念效度威胁（Threats to Construct Validity）**：研究者使用不恰当的变量定义和测量方式，导致构念的操作化无法准确反映理论构念。
+> - **构念效度威胁（Threats to [[Construct]] Validity）**：研究者使用不恰当的[[Variable|变量]]定义和测量方式，导致构念的操作化无法准确反映理论构念。
 
 ## 争议与批评
 

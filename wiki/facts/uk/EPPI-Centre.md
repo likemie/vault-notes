@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[External Validity]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []
@@ -65,7 +66,7 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning]
-> EPPI-Centre 能解决证据可及性和综述方法问题，但不能自动解决欧洲证据政策的外部效度问题。详见 [[Argument_Pellegrini_2021_ROE]] 对“证据不能当作菜谱复用”的论证（Pellegrini & Vivanet, 2021, pp.35-36）。
+> EPPI-Centre 能解决证据可及性和综述方法问题，但不能自动解决欧洲证据政策的[[External Validity|外部效度]]问题。详见 [[Argument_Pellegrini_2021_ROE]] 对“证据不能当作菜谱复用”的论证（Pellegrini & Vivanet, 2021, pp.35-36）。
 
 ## 相关概念／理论
 
