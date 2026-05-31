@@ -15,7 +15,10 @@ tags:
   - reliability
 related_concepts:
   - "[[Construct]]"
+  - "[[Study Population and Sample]]"
   - "[[Purpose Statement]]"
+  - "[[Test-Retest Reliability]]"
+  - "[[Inter-Rater Reliability]]"
 related_theories: []
 related_methods:
   - "[[Survey Research]]"
@@ -52,13 +55,13 @@ updated: 2026-05-31
 > | < .7 | 信度不足，条目可能未测量同一构念 |
 
 > [!example] Perceived Stress Scale (PSS) 实例
-> 10 项的 Perceived Stress Scale（PSS; Cohen et al., 1983）在原始发表文献中报告了三个独立研究样本的内部一致性值 α = .84–.86。这些值落在最佳范围内，表明 PSS 的 10 个条目在一致地测量"知觉压力"这一[[Construct|构念]]。该量表可免费用于[[Purpose Statement|研究目的]]，只需引用原始来源（Creswell & Creswell, 2022, Ch8）。
+> 10 项的 Perceived Stress Scale（PSS; Cohen et al., 1983）在原始发表文献中报告了三个独立[[Study Population and Sample|研究样本]]的内部一致性值 α = .84–.86。这些值落在最佳范围内，表明 PSS 的 10 个条目在一致地测量"知觉压力"这一[[Construct|构念]]。该量表可免费用于[[Purpose Statement|研究目的]]，只需引用原始来源（Creswell & Creswell, 2022, Ch8）。
 
 ## 概念辨析
 
 > [!example]
-> - vs 重测信度（Test-Retest Reliability） — 内部一致性关注的是同一时间点量表内部条目间的一致性；重测信度关注的是同一量表在不同时间点施测时得分的稳定性。两者回答不同的问题："条目是否一致地测量同一个东西？"vs"测量在不同时间是否稳定？"
-> - vs 评分者间信度（Inter-Rater Reliability） — 内部一致性适用于多项目自评量表；评分者间信度适用于多位独立评判者使用同一工具评分的情境，评估的是评分者之间的一致性程度。
+> - vs [[Test-Retest Reliability|重测信度]]（Test-Retest Reliability） — 内部一致性关注的是同一时间点量表内部条目间的一致性；重测信度关注的是同一量表在不同时间点施测时得分的稳定性。两者回答不同的问题："条目是否一致地测量同一个东西？"vs"测量在不同时间是否稳定？"
+> - vs [[Inter-Rater Reliability|评分者间信度]]（Inter-Rater Reliability） — 内部一致性适用于多项目自评量表；评分者间信度适用于多位独立评判者使用同一工具评分的情境，评估的是评分者之间的一致性程度。
 
 ## 争议与批评
 

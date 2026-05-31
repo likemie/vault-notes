@@ -11,6 +11,7 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
+  - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Stable Unit Treatment Value Assumption]]"
 related_theories: []
@@ -60,7 +61,7 @@ updated: '2026-05-18'
 >
 > 1. **总体平均处理效应**（population average treatment effect）——全体目标人群的平均因果效应
 > 2. **处理组总体平均处理效应**（population average treatment effect on the treated）——实际接受处理者的平均因果效应
-> 3. **样本平均处理效应**（sample average treatment effect）——研究样本中的平均因果效应
+> 3. **样本平均处理效应**（sample average treatment effect）——[[Study Population and Sample|研究样本]]中的平均因果效应
 > 4. **处理组样本平均处理效应**（sample average treatment effect on the treated）——研究样本中实际接受处理者的平均因果效应
 > 5. **条件于协[[Variable|变量]]的样本平均处理效应**（average sample treatment effect conditional on sample covariates）——特定协变量子群中的平均因果效应
 >

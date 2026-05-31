@@ -17,6 +17,7 @@ tags:
   - experiment
 related_concepts:
   - "[[Champ]]"
+  - "[[Study Population and Sample]]"
   - "[[Internal Consistency (Cronbach's Alpha)]]"
   - "[[Variable]]"
 related_theories: []
@@ -47,7 +48,7 @@ updated: 2026-05-31
 > [!example]
 > 试点测试的关键步骤（Creswell & Creswell, 2022, Ch8）：
 
-1. 招募少量与正式研究目标总体特征相似的受试者。
+1. 招募少量与正式研究[[Study Population and Sample|目标总体]]特征相似的受试者。
 2. 在接近正式研究的条件下施测全部研究材料和程序。
 3. 收集中间过程的反馈——包括受试者对问题理解、格式清晰度、说明完整性的意见。
 4. 评估研究总耗时和受试者疲劳风险——一次过长的测试可能导致正式研究中退出率升高。

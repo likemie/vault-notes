@@ -21,6 +21,7 @@ related_concepts:
   - "[[Familiarization]]"
   - "[[Refined Mastery]]"
   - "[[Western Learner]]"
+  - "[[Study Population and Sample]]"
   - "[[Ideal Learner]]"
 related_theories: []
 related_methods: []
@@ -89,7 +90,7 @@ updated: 2026-05-23
 
 > [!warning]
 > - 立志作为社会监督机制（见证人），在实践中可能蜕变为对个人选择的压力——特别是当学习者的个人志向与家庭期望发生冲突时
-> - Li 的研究样本为大学生，对立志的回顾性描述可能受到理想化的叙事重构效应影响
+> - Li 的[[Study Population and Sample|研究样本]]为大学生，对立志的回顾性描述可能受到理想化的叙事重构效应影响
 > - 中国受访者普遍描述[[Ideal Learner|理想学习者]]在年幼时最初可能并不对学习感兴趣，但在父母和教师引导下进入学习过程后发展出热爱——这与西方强调内在好奇心为原始驱动的模式形成差异。这种"先外部引导、后内部转化"的发展路径值得更多跨文化实证检验（Li, 2012, p.94）
 
 ---

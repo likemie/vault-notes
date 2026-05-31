@@ -10,7 +10,6 @@ extracted_to:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[CNCS Evidence Exchange]]"
   - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
-  - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
   - "[[Collaborative for Academic Social and Emotional Learning Guide]]"
   - "[[Communities in Schools]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
@@ -28,6 +27,7 @@ extracted_to:
   - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design]]"
   - "[[Campbellian Validity Framework]]"
+  - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
 processed_date: 2026-05-05
 ---
 

@@ -1,7 +1,6 @@
 ---
 citation: "Creswell, J. W., & Creswell, J. D. (2022). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). SAGE Publications."
 extracted_to:
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Locus of Control]]"
   - "[[Self-control]]"
   - "[[APA Style]]"
@@ -27,7 +26,6 @@ extracted_to:
   - "[[Hypothesis]]"
   - "[[Informed Consent]]"
   - "[[Institutional Review Board]]"
-  - "[[Internal Consistency (Cronbach's Alpha)]]"
   - "[[Internal Validity]]"
   - "[[Inverted Triangle Literature Search]]"
   - "[[Literature Review]]"
@@ -75,13 +73,11 @@ extracted_to:
   - "[[Factorial Design]]"
   - "[[Multiple Regression]]"
   - "[[Pearson Product-Moment Correlation]]"
-  - "[[Pilot Testing]]"
   - "[[Power Analysis]]"
   - "[[Pre-Experimental Designs]]"
   - "[[Quantitative Research]]"
   - "[[Random Assignment]]"
   - "[[Single-Subject Design]]"
-  - "[[Survey Research]]"
   - "[[t-test]]"
   - "[[Albert Bandura]]"
   - "[[Egon G. Guba]]"
@@ -93,6 +89,15 @@ extracted_to:
   - "[[Robert E. Stake]]"
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Campbell and Stanley Notation System]]"
+  - "[[Inter-Rater Reliability]]"
+  - "[[Internal Consistency (Cronbach's Alpha)]]"
+  - "[[Study Population and Sample]]"
+  - "[[Test-Retest Reliability]]"
+  - "[[Pilot Testing]]"
+  - "[[Random Sampling]]"
+  - "[[Survey Research]]"
 processed_date: 2026-05-30
 ---
 

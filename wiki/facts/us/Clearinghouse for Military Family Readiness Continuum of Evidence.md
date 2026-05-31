@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Causality]]"
+  - "[[Study Population and Sample]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -53,7 +54,7 @@ updated: '2026-05-18'
 ## 复制与持续效果要求
 
 > [!success] 复制与持续效果要求
-> CMFR 最高评级要求至少一项由项目外部实体进行的独立复制；这种复制只能包含项目形式上的小幅调整，不能对研究样本做重大改变。CMFR 也属于区分无效项目与效果不确定项目的清算中心之一（Wadhwa et al., 2024, pp.12, 14）。
+> CMFR 最高评级要求至少一项由项目外部实体进行的独立复制；这种复制只能包含项目形式上的小幅调整，不能对[[Study Population and Sample|研究样本]]做重大改变。CMFR 也属于区分无效项目与效果不确定项目的清算中心之一（Wadhwa et al., 2024, pp.12, 14）。
 
 ## 与其他清算中心的差异
 

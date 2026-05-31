@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Variable]]"
+  - "[[Study Population and Sample]]"
   - "[[Causality]]"
   - "[[Publication Bias]]"
   - "[[Researcher Degrees of Freedom]]"
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 >
 > - **研究设计**（实验 vs. 准实验）：开发者的准实验比例更高（51% vs. 15%），但控制后效应仍在
 > - **结果测量类型**（研究者/开发者自编 vs. 独立测量）
-> - **样本量**（开发者研究样本量更小，均值 392 vs. 659）
+> - **样本量**（开发者[[Study Population and Sample|研究样本]]量更小，均值 392 vs. 659）
 > - **年级段、学科、项目类型、交付方式、是否教育技术**
 
 

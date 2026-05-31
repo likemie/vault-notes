@@ -7,7 +7,6 @@ extracted_to:
   - "[[Benevolence]]"
   - "[[Chinese Learner]]"
   - "[[Confucian Tutoring Style]]"
-  - "[[Establishing One's Will]]"
   - "[[Familiarization]]"
   - "[[Family Social Model]]"
   - "[[Filial Piety]]"
@@ -67,7 +66,6 @@ extracted_to:
   - "[[Civil Service Examination]]"
   - "[[Three Excellences]]"
   - "[[Cram Schools]]"
-  - "[[Prototype Methods]]"
   - "[[MCC Discourse Analysis Examples]]"
   - "[[Mother-Child Conversation]]"
   - "[[Experience Sampling Method]]"
@@ -91,6 +89,8 @@ extracted_to:
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
   - "[[Cultural Models]]"
+  - "[[Establishing One's Will]]"
+  - "[[Prototype Methods]]"
 processed_date: 2026-05-25
 ---
 

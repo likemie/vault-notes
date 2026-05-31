@@ -22,6 +22,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Opportunist Mode]]"
   - "[[External Validity]]"
+  - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Champ]]"
   - "[[Effect Size]]"
@@ -32,6 +33,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Random Sampling]]"
   - "[[Random Assignment]]"
 related_persons: []
 related_facts:
@@ -80,7 +82,7 @@ updated: '2026-05-18'
 > [[Randomised Controlled Trials|RCT]] 在严格受控条件下提供无偏估计，但这正是其局限所在——研究者不知道因果效应在新环境中是否存活。[[Meta-analysis|元分析]]试图通过多场景合成解决[[External Validity|外部效度]]，但：
 >
 > - 没有理论的引导，可能的影响因素组合是**无限的**
-> - 研究总体与实际目标总体不匹配（进入 RCT 的群体更像便利样本而非随机样本）
+> - 研究总体与实际[[Study Population and Sample|目标总体]]不匹配（进入 RCT 的群体更像便利样本而非[[Random Sampling|随机样本]]）
 > - 元分析 "成功" 可能只是因为方便采样的人口和环境具有系统性共性，而非干预的普遍有效性
 >
 > > "Even a systematic review or meta-analysis of many high-quality RCTs provides little epistemic warrant for applying to a new population." (p. 5)

@@ -14,12 +14,15 @@ tags:
   - quantitative-research
   - survey
 related_concepts:
-  - "[[Variable]]"
+  - "[[Study Population and Sample]]"
+  - "[[External Validity]]"
+  - "[[Causality]]"
+  - "[[Internal Validity]]"
+  - "[[Response Bias]]"
 related_theories: []
 related_methods:
-  - "[[Survey Research]]"
   - "[[Random Assignment]]"
-  - "[[Quantitative Research]]"
+  - "[[Survey Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -53,13 +56,13 @@ updated: 2026-06-01
 ## 概念辨析
 
 > [!example]
-> - vs [[Random Assignment|随机分配（Random Assignment）]] — 这是两个经常混淆的概念。随机抽样是关于**谁**进入研究样本——目标是将样本推广到总体（外部效度）。随机分配是关于已进入样本的受试者**如何**被分配到各实验条件——目标是消除组间系统性偏差并支持[[Causality|因果推断]]（内部效度）。一项研究可以同时使用随机抽样和随机分配，也可以只使用其中之一或都不使用（Creswell & Creswell, 2022, Ch8）。
+> - vs [[Random Assignment|随机分配]]（Random Assignment） — 这是两个经常混淆的概念。随机抽样是关于**谁**进入[[Study Population and Sample|研究样本]]——目标是将样本推广到总体（[[External Validity|外部效度]]）。随机分配是关于已进入样本的受试者**如何**被分配到各实验条件——目标是消除组间系统性偏差并支持[[Causality|因果推断]]（[[Internal Validity|内部效度]]）。一项研究可以同时使用随机抽样和随机分配，也可以只使用其中之一或都不使用（Creswell & Creswell, 2022, Ch8）。
 
 ## 适用场景
 
 > [!success]
 > - 研究目标是从样本结果推广到更广泛的总体时，随机抽样是最理想的选择。
-> - 大规模调查研究（如全国性民意调查）通常追求随机抽样或系统抽样。
+> - 大规模[[Survey Research|调查研究]]（如全国性民意调查）通常追求随机抽样或系统抽样。
 > - 当总体名单（抽样框，sampling frame）可获得且完整时，适合随机抽样。
 
 ## 局限性

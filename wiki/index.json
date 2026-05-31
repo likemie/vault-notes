@@ -3021,6 +3021,17 @@
     ]
   },
   {
+    "title": "Campbell and Stanley Notation System",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Campbell and Stanley Notation System.md",
+    "aliases": [
+      "Campbell和Stanley符号系统",
+      "Campbell-Stanley notation",
+      "experimental design notation",
+      "实验设计符号系统"
+    ]
+  },
+  {
     "title": "Cargo Cult Science",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Cargo Cult Science.md",
@@ -3094,6 +3105,17 @@
     ]
   },
   {
+    "title": "Construct Validity (Quantitative)",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Construct Validity (Quantitative).md",
+    "aliases": [
+      "构念效度",
+      "建构效度",
+      "construct validity of measurement",
+      "measurement validity"
+    ]
+  },
+  {
     "title": "Constructivist Paradigm",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Constructivist Paradigm.md",
@@ -3160,6 +3182,17 @@
       "operational definition",
       "defining terms",
       "definition section"
+    ]
+  },
+  {
+    "title": "Descriptive Analysis",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Descriptive Analysis.md",
+    "aliases": [
+      "描述性分析",
+      "描述统计",
+      "descriptive statistics",
+      "描述性统计分析"
     ]
   },
   {
@@ -3237,6 +3270,17 @@
     ]
   },
   {
+    "title": "Experimenter Bias",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Experimenter Bias.md",
+    "aliases": [
+      "实验者偏差",
+      "实验者效应",
+      "experimenter expectancy effect",
+      "Rosenthal effect"
+    ]
+  },
+  {
     "title": "External Validity",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/External Validity.md",
@@ -3287,6 +3331,18 @@
       "机构审查委员会",
       "伦理审查委员会",
       "研究伦理委员会"
+    ]
+  },
+  {
+    "title": "Inter-Rater Reliability",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Inter-Rater Reliability.md",
+    "aliases": [
+      "评分者间信度",
+      "评分者信度",
+      "interrater reliability",
+      "inter-rater agreement",
+      "评定者间信度"
     ]
   },
   {
@@ -3645,6 +3701,31 @@
     "path": "wiki/concepts/research-methodology/Statistical Significance.md",
     "aliases": [
       "统计显著性"
+    ]
+  },
+  {
+    "title": "Study Population and Sample",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Study Population and Sample.md",
+    "aliases": [
+      "研究总体与样本",
+      "study population",
+      "study sample",
+      "目标总体",
+      "研究样本",
+      "target population"
+    ]
+  },
+  {
+    "title": "Test-Retest Reliability",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Test-Retest Reliability.md",
+    "aliases": [
+      "重测信度",
+      "再测信度",
+      "test-retest",
+      "stability reliability",
+      "稳定性信度"
     ]
   },
   {
@@ -5212,6 +5293,18 @@
     ]
   },
   {
+    "title": "Random Sampling",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Random Sampling.md",
+    "aliases": [
+      "随机抽样",
+      "probability sampling",
+      "概率抽样",
+      "random sample",
+      "随机样本"
+    ]
+  },
+  {
     "title": "Randomised Controlled Trials",
     "type": "method",
     "path": "wiki/methods/quantitative/Randomised Controlled Trials.md",
@@ -5259,6 +5352,17 @@
       "single-case design",
       "applied behavioral analysis",
       "single-subject experimental design"
+    ]
+  },
+  {
+    "title": "Solomon Four-Group Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Solomon Four-Group Design.md",
+    "aliases": [
+      "Solomon四组设计",
+      "所罗门四组设计",
+      "Solomon four-group",
+      "Solomon design"
     ]
   },
   {
