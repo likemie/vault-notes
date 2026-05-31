@@ -20,6 +20,7 @@ related_concepts:
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:
+  - "[[Multiple Regression]]"
   - "[[Seasonal Comparison]]"
   - "[[Random Assignment]]"
 related_persons: []
@@ -81,7 +82,7 @@ updated: '2026-05-18'
 >
 > ### 方法论特征
 >
-> 值得注意：Coleman 时代的统计技术（主要是多元回归）无法像现代[[Causality|因果推断]]方法那样处理选择偏误。研究测量的是**已可测量**的学校和家庭特征——教师质量、课程内容、教学实践等"软性"但可能更重要的学校维度并未被纳入（Downey & Condron, 2016, p.2）。
+> 值得注意：Coleman 时代的统计技术（主要是[[Multiple Regression|多元回归]]）无法像现代[[Causality|因果推断]]方法那样处理选择偏误。研究测量的是**已可测量**的学校和家庭特征——教师质量、课程内容、教学实践等"软性"但可能更重要的学校维度并未被纳入（Downey & Condron, 2016, p.2）。
 
 ## 关键文件／声明
 

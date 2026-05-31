@@ -12,11 +12,11 @@ tags:
   - quantitative-research
   - measurement-error
 related_concepts:
+  - "[[Construct]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Survey Research]]"
-  - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -57,13 +57,13 @@ updated: 2026-05-31
 
 > [!example]
 > - vs 社会期望偏差（Social Desirability Bias） — 回应偏差是因部分人群根本不回应而产生的偏差，社会期望偏差是回应者因想要呈现正面形象而扭曲回答。
-> - vs 测量误差（Measurement Error） — 回应偏差是关于"谁回应了"的偏差，测量误差是关于"工具是否准确测量了目标构念"的问题。
+> - vs 测量误差（Measurement Error） — 回应偏差是关于"谁回应了"的偏差，测量误差是关于"工具是否准确测量了目标[[Construct|构念]]"的问题。
 
 ## 争议与批评
 
 > [!warning]
 > - 波次分析的有效性依赖于"最后回应者≈非回应者"的假设，这一假设在某些调查情境中可能不成立。
-> - 回应率低不一定意味着回应偏差高——关键在于非回应者与回应者是否在关键变量上存在系统性差异，而非回应的绝对数量（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
+> - 回应率低不一定意味着回应偏差高——关键在于非回应者与回应者是否在关键[[Variable|变量]]上存在系统性差异，而非回应的绝对数量（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 
 ## 来源
 

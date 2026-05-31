@@ -95,13 +95,17 @@ updated: 2026-05-18
 ## 关键引用
 
 > [!quote] 关键引用
-> > "When it comes to inequality, 'schooling is more part of the solution than part of the problem.'" — Alexander (1997, p.12), cited in Downey & Condron (2016, p.4)
+> > “在不平等问题上，‘学校教育在更大程度上是解决方案的一部分，而不是问题的一部分。’”
+> ("When it comes to inequality, 'schooling is more part of the solution than part of the problem.'") — Alexander (1997, p.12), cited in Downey & Condron (2016, p.4)
 >
-> > "The proper way to assess schools' effect on achievement gaps is not to focus solely on school year patterns but to compare the school year (treatment) and summer (control) patterns. Schools are compensatory whenever achievement trajectories are more equal when school is in versus out of session." (Downey & Condron, 2016, p.6)
+> > “评估学校对成就差距影响的正确方法，不是仅仅关注学年模式，而是要比较学年（处理组）和夏季（对照组）的模式。只要在开学期间成就轨迹比放假期间更平等，学校就发挥了补偿作用。”
+> ("The proper way to assess schools' effect on achievement gaps is not to focus solely on school year patterns but to compare the school year (treatment) and summer (control) patterns. Schools are compensatory whenever achievement trajectories are more equal when school is in versus out of session.") (Downey & Condron, 2016, p.6)
 >
-> > "The question is not whether it is possible via school reform to reduce achievement gaps; the question is whether school reform is the best strategy for reducing them." (Downey & Condron, 2016, p.10)
+> > “问题不在于是否有可能通过学校改革来缩小成就差距；问题在于，学校改革是否是缩小差距的最佳策略。”
+> ("The question is not whether it is possible via school reform to reduce achievement gaps; the question is whether school reform is the best strategy for reducing them.") (Downey & Condron, 2016, p.10)
 >
-> > "A cynical—and entirely plausible—interpretation of the greater emphasis on reforming schools relative to reforming other institutions is that it serves a purpose: It distracts people from the real sources of inequality, thereby serving the interests of those who benefit from current social arrangements." (Downey & Condron, 2016, p.11)
+> > “对于相较于改革其他机构更强调改革学校这一现象，一种愤世嫉俗——却完全合理——的解释是它服务于一种目的：它转移了人们对不平等的真正根源的注意力，从而服务于那些从当前社会安排中获益的人的利益。”
+> ("A cynical—and entirely plausible—interpretation of the greater emphasis on reforming schools relative to reforming other institutions is that it serves a purpose: It distracts people from the real sources of inequality, thereby serving the interests of those who benefit from current social arrangements.") (Downey & Condron, 2016, p.11)
 
 ## 局限性与批评
 

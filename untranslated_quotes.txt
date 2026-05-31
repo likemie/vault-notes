@@ -1,31 +1,9 @@
---- wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Slethaug_2010_InternationalEducation.md ---
-> "Educational systems tied to the formation of nation-state citizens and consumers bonded to local systems to the neglect of larger global forces are likely to become obsolete, while those that proactively engage globalization's new challenges are more likely to thrive."（Suárez-Orozco & Qin-Hilliard, 2004, p.23，转引自 Slethaug, 2010, p.1）
-> "Perhaps more than most mainstream schools, therefore, [[International Schools]] must orient themselves to the market. They must provide curricula that are in demand at a price that can be afforded by their target clients, and must pay attention to changing demographic and economic forces."（Yamato & Bray, 2006, p.60，转引自 Slethaug, 2010, p.26）
-
 --- wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_ChineseLearner.md ---
-> "Chineseness is in effect defined in terms of deviance from Western norms, and generally as being interestingly different within mainstream, that is Western, psychology." — Watkins & Biggs (2001, p.4)，转引自 Ryan (2010, p.40)
-> "It is particularly infuriating to hear problems with such rhetorical styles attributed to imagined inadequacies in the student's education in their home country. ... Such analysis is misleading because it confuses differences in style of expression with a lack of academic rigour." — Yoshino (2004, p.10)，转引自 Ryan (2010, p.42)
-> "T@here is a notable tendency in the applied linguistics literature to report the perceptions and reactions of Western instructors which, rather than being interrogated for ethnocentric bias and stereotyping, are validated by recourse to a Confucian heritage explanation which appears plausible rather than being empirically established." — Clark & Gieve (2006, pp.60–63)，转引自 Ryan (2010, p.40)
-> "Good teaching and learning are 'the common treasures of humanity.'" — Kang Changyun of Beijing Normal University，转引自 Ryan (2010, p.57)
+> "There is a notable tendency in the applied linguistics literature to report the perceptions and reactions of Western instructors which, rather than being interrogated for ethnocentric bias and stereotyping, are validated by recourse to a Confucian heritage explanation which appears plausible rather than being empirically established." — Clark & Gieve (2006, pp.60–63)，转引自 Ryan (2010, p.40)
 
 --- wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Gilison_Wilson_2025_UniversityStartups.md ---
 > "Ask for money and they'll give you advice. Ask for advice and they'll give you money."（p.146，募资行业的经典格言：你问投资人要钱，他会给你一堆建议；你去请教他建议，他反而可能给你钱。背后的逻辑是：当你虚心请教时，你展示了你愿意学习和倾听的品质——这正是投资者除了技术和市场之外最看重的创始人特质。）
-> "In fact, the odds are stacked against the [[University Spin-Out|university-based startup]] so much so that the successful ones are the true 'Uni-corns.'"（p.142）
-> "It was like [[Tracking]] a Yeti, where people have heard they exist but never witnessed one firsthand in the wild."（p.143）
 > "Ask for money and they'll give you advice. Ask for advice and they'll give you money."（p.146）
-> "The sure way to kill truly disruptive innovation is to have industry directly initiate startup and spin-out creation at universities."（p.148）
-
---- wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_LernerLam_2025_TransdisciplinaryExecutiveEd.md ---
-> "The evolution of complex, transdisciplinary thinking in response to these challenges—what some have characterized as advanced system thinking or convergence research—is not just confined to university campuses."（p.156）
-> "Particularly for subject matter underlain by highly technical research in science and engineering, core scientific and engineering faculty might not be able to address the policy dynamics inherent in the grander challenge."（p.160）
-> "Columbia calls this its '[[Fourth Generation University|Fourth Purpose]],' a responsibility added to the traditional functions of scholarship, teaching and disciplinary service."（pp.161-162）
-
---- wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md ---
-> > "It involves stakeholders with different outlooks and impact expectations. Moreover, the multidimensional nature of the impacts themselves means they are tangible and intangible, short- and long-term, direct and indirect, positive and negative, making their measurement process very complex."（Cohen et al., 2024, 转引自 p.87）
-> > "The key to culture is trust based on history of UI relationship as well as the collaborative practice of clearly defining problems of mutual strong interest that can only be solved working together to achieve win-win outcomes. Failures are mutual learning experiences."（p.90）
-> > "AI will not replace service providers (e.g., industry researchers, academic faculty, etc.), but trusted service providers who use AI effectively and ethically will replace those who don't."（Rouse & Spohrer, 2018, 转引自 p.97）
-> > "Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of [[University-Industry Collaboration|UI collaboration]] generation after generation."（p.90）
-> > "Every change in business conditions and focus requires adjusting 6 R investment options and recalibrating metrics, incentives, rewards, and culture to fit the times."（p.90）
 
 --- wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md ---
 > "Innovation today often occurs at the 'interface,' the interstitial space where industry and universities work with each other toward common goals."（p.4）
@@ -35,18 +13,6 @@
 
 --- wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md ---
 > "Relationships"、"partnerships"和"engagement"三个词的精微差异值得注意。如果一所大学把办公室命名为"Corporate Relations Office"，它强调的是长期关系的维护——有点像客户关系管理（CRM）的逻辑。如果叫"Strategic Partnerships Office"，它暗示的是对等的、深度的、有共同战略目标的合作——"你和我一起定义合作的方向"。如果叫"Industry Engagement Office"，它强调的是互动的深度而非广度——"重要的不是你认识多少企业，而是你和多少企业有实质性的合作"。
-
---- wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md ---
-> "The chapter argues that higher education, in this [[Tracking|setting]], is part of a New [[Geopolitics of Knowledge]] that refers to the integration of higher education in the imaginations and calculations of different actors aiming at asserting and/or improving their positions in the global [[Knowledge-Based Economy]]." (Parreira do Amaral, 2022, pp.36–37)
-
---- wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zapp_2022_Springer.md ---
-> "Universities have entered the global governance landscape by strategically positioning themselves as global knowledge actors."（p.143）
-> "With university knowledge becoming an important resource and asset in the global economy, the inter-university race for reputation, revenues, and researchers is oddly transposed to an unlevelled global geopolitical playing [[Champ|field]]."（p.145）
-> "If universities want to preserve their unique status as independent knowledge arbiters in global governance and even reshuffle power structures traditionally skewed towards politics and markets, they have to make sure to not only follow the global agenda but begin to actively shape it."（p.157）
-
---- wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Partaken_2022_Springer.md ---
-> "Instead of such a static state of knowledge, the inquiry into geopolitics should pay more attention to the phenomena of '[[Knowledge Transfer|knowledge in motion]]' such as transfer, dissemination, pedagogy, indoctrination, theft, espionage, surveillance and censorship."（p.84）
-> "The sovereignty lieth hid in knowledge" — Francis Bacon (1597/1825, p.255)，Partaken 以此作为全章的框架性引语和结论性回应（p.85）
 
 --- wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md ---
 > "along with"——Rizvi 不是要推翻既有解释，而是要**补充**一个被忽视的维度。
@@ -87,9 +53,8 @@
 > "One of the principal features distinguishing an experiment from a survey study design is the use of [[Random Assignment]]."（第8章）
 > "A [[Confidence Interval]] is a range of values (an interval) that describes a level of uncertainty around an estimated observed score. A confidence interval shows how good an estimated score might be."（第8章）
 > "An [[Effect Size]] identifies the strength of the conclusions about group differences or the relationships among variables in quantitative studies. It is a descriptive statistic that is not dependent on whether the relationship in the data represents the true population."（第8章）
-> "A manipulation check measure is defined as a measure of the intended manipulated variable of interest."（第8章）
+> "A [[Manipulation Check|manipulation check measure]] is defined as a measure of the intended manipulated variable of interest."（第8章）
 > "To reduce this form of experimenter bias, it is helpful to make the experimenter administering the outcome measure blind to the participant's study condition."（第8章）
-> "Blinding in experimental research is when the experimenter (and/or the participant) is kept unaware of the participant's assigned study condition."（第8章）
 
 --- wiki/arguments/journal-articles/Sociology of Education/Argument_Downey_2016_SoE.md ---
 > > "When it comes to inequality, 'schooling is more part of the solution than part of the problem.'" — Alexander (1997, p.12), cited in Downey & Condron (2016, p.4)

@@ -321,16 +321,19 @@ Ryan（2010, p.57）以 Hayhoe & Pan（2001, p.21）的"真正的对话——在
 ## 关键引用
 
 > [!quote]
-> "Chineseness is in effect defined in terms of deviance from Western norms, and generally as being interestingly different within mainstream, that is Western, psychology." — Watkins & Biggs (2001, p.4)，转引自 Ryan (2010, p.40)
+> “实际上，‘中国性（Chineseness）’是根据其偏离西方规范的程度来定义的，并且在主流（即西方）心理学中通常被认为是一种有趣的不同。”
+> ("Chineseness is in effect defined in terms of deviance from Western norms, and generally as being interestingly different within mainstream, that is Western, psychology.") — Watkins & Biggs (2001, p.4)，转引自 Ryan (2010, p.40)
 
 > [!quote]
-> "It is particularly infuriating to hear problems with such rhetorical styles attributed to imagined inadequacies in the student's education in their home country. ... Such analysis is misleading because it confuses differences in style of expression with a lack of academic rigour." — Yoshino (2004, p.10)，转引自 Ryan (2010, p.42)
+> “听到将这种修辞风格的问题归咎于学生在母国接受的教育存在假想的缺陷，尤其令人愤怒。……这种分析具有误导性，因为它将表达风格的差异与缺乏学术严谨性混为一谈。”
+> ("It is particularly infuriating to hear problems with such rhetorical styles attributed to imagined inadequacies in the student's education in their home country. ... Such analysis is misleading because it confuses differences in style of expression with a lack of academic rigour.") — Yoshino (2004, p.10)，转引自 Ryan (2010, p.42)
 
 > [!quote]
-> "T@here is a notable tendency in the applied linguistics literature to report the perceptions and reactions of Western instructors which, rather than being interrogated for ethnocentric bias and stereotyping, are validated by recourse to a Confucian heritage explanation which appears plausible rather than being empirically established." — Clark & Gieve (2006, pp.60–63)，转引自 Ryan (2010, p.40)
+> "There is a notable tendency in the applied linguistics literature to report the perceptions and reactions of Western instructors which, rather than being interrogated for ethnocentric bias and stereotyping, are validated by recourse to a Confucian heritage explanation which appears plausible rather than being empirically established." — Clark & Gieve (2006, pp.60–63)，转引自 Ryan (2010, p.40)
 
 > [!quote]
-> "Good teaching and learning are 'the common treasures of humanity.'" — Kang Changyun of Beijing Normal University，转引自 Ryan (2010, p.57)
+> “良好的教与学是‘人类共同的财富’。”
+> ("Good teaching and learning are 'the common treasures of humanity.'") — Kang Changyun of Beijing Normal University，转引自 Ryan (2010, p.57)
 
 ## 局限性与批评
 

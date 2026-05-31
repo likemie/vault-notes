@@ -70,7 +70,8 @@ updated: '2026-05-18'
 > - **情况 5**（40 题四选一）：效应量 ≈ **0.3**
 > - **情况 6**（测试问 *okádás* 而非 *oktatás*，选项含 "teacher"）：实验组可能因错误类比而更倾向选 "teacher" → 效应量为**负**
 >
-> > "In each of these examples, the educational intervention (and control activity and population and sample size, etc.) is exactly the same... yet the effect size varies from 0 to 0.4, to 0.6, to 4, to infinity." (p.102)
+> > “在这些例子中，每一个的教育干预（以及控制活动、人群和样本量等）都完全相同……然而效应量却从0变到0.4，变到0.6，变到4，直至无穷大。”
+> ("In each of these examples, the educational intervention (and control activity and population and sample size, etc.) is exactly the same... yet the effect size varies from 0 to 0.4, to 0.6, to 4, to infinity.") (p.102)
 >
 > ### 2. 现实案例验证
 >
@@ -90,7 +91,8 @@ updated: '2026-05-18'
 > - 增强干预与控制组的对比度（如"无干预"对照 vs. "替代干预"对照）
 > - 缩短干预与测试之间的间隔
 >
-> > "The enemy of clarity being noise — anything which acts to increase the noise of an experiment... will decrease effect size." (p.104)
+> > “清晰的敌人是噪音——任何增加实验噪音的因素……都会降低效应量。”
+> ("The enemy of clarity being noise — anything which acts to increase the noise of an experiment... will decrease effect size.") (p.104)
 >
 > ### 4. 范畴错误的严重程度
 >
@@ -120,11 +122,14 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "[[Effect Size]] is a measure of the trial as a whole; it is not a measure of the intervention alone." (p.100)
 >
-> > "Mistaking effect size for a measure of educational importance or influence is, then, a category error." (p.105)
+> > “那么，将效应量误认为是教育重要性或影响力的衡量标准，就是一个范畴错误。”
+> ("Mistaking effect size for a measure of educational importance or influence is, then, a category error.") (p.105)
 >
-> > "The appearance of [[Direct Instruction]] interventions like [[Feedback]] and meta-cognition at the top of meta-meta-analytic tables should be taken only as evidence that researchers have found it easier to conduct less noisy experiments in these areas compared to behaviour interventions or summer schools." (p.105)
+> > “像反馈和元认知这样的[[Direct Instruction|直接教学]]干预出现在[[Meta-meta-analysis|元-元分析]]榜单顶部，只能被视为一种证据：表明与行为干预或暑期学校相比，研究者发现这些领域更容易开展低噪音的实验。”
+> ("The appearance of [[Direct Instruction]] interventions like [[Feedback]] and meta-cognition at the top of meta-meta-analytic tables should be taken only as evidence that researchers have found it easier to conduct less noisy experiments in these areas compared to behaviour interventions or summer schools.") (p.105)
 >
-> > "Forms of intervention are promoted as more effective when, in fact, the evidence merely indicates they are areas in which it may be easier to conduct clearer studies. This misidentification is leading policy, driving the use of scarce resources and causing major changes in teaching methods. There's the harm." (p.108)
+> > “某些干预形式被推广为更有效，而事实上，证据仅仅表明在这些领域开展更清晰的研究可能更容易。这种错误识别正在引导政策，驱动稀缺资源的使用，并导致教学方法的重大改变。这就是危害所在。”
+> ("Forms of intervention are promoted as more effective when, in fact, the evidence merely indicates they are areas in which it may be easier to conduct clearer studies. This misidentification is leading policy, driving the use of scarce resources and causing major changes in teaching methods. There's the harm.") (p.108)
 
 ## 局限性与批评
 

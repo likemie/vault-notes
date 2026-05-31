@@ -373,12 +373,14 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 关键引用
 
 > [!quote]
-> "In fact, the odds are stacked against the [[University Spin-Out|university-based startup]] so much so that the successful ones are the true 'Uni-corns.'"（p.142）
+> “事实上，各种不利因素对大学初创企业非常不利，以至于那些成功的企业才算是真正的‘独角兽’。”
+> ("In fact, the odds are stacked against the [[University Spin-Out|university-based startup]] so much so that the successful ones are the true 'Uni-corns.'")（p.142）
 >
 > 大学衍生企业面临的困难如此之大，以至于成功的案例才是真正的"独角兽"。原文玩了一个双关："Uni-corns"既指"独角兽"（罕见、近乎神话般的成功），又嵌入了"Uni-versity"（大学）。成功的大学衍生企业既是独角兽，也是"大学之角"。
 
 > [!quote]
-> "It was like [[Tracking]] a Yeti, where people have heard they exist but never witnessed one firsthand in the wild."（p.143）
+> “这就像在追踪雪人，人们听说过它们的存在，但从未在野外亲眼目睹过。”
+> ("It was like [[Tracking]] a Yeti, where people have heard they exist but never witnessed one firsthand in the wild.")（p.143）
 >
 > 形容产业赞助研究催生衍生企业的罕见程度——就像在追踪雪人（Yeti）：人人都说听说过，但没人在野外亲眼见过。
 
@@ -388,7 +390,8 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > 募资行业的经典悖论：直接要钱，投资人只会给建议；虚心请教，投资人反而可能主动投资。这句话揭示了投资人行为的一个重要特征——他们投资的不只是技术，更是"创始人是否具备学习和倾听的能力"。
 
 > [!quote]
-> "The sure way to kill truly disruptive innovation is to have industry directly initiate startup and spin-out creation at universities."（p.148）
+> “扼杀真正颠覆性创新的必然方法，就是让产业界直接在大学发起初创企业和衍生企业的创建。”
+> ("The sure way to kill truly disruptive innovation is to have industry directly initiate startup and spin-out creation at universities.")（p.148）
 >
 > 扼杀真正颠覆性创新的必然方式，就是让产业直接发起大学的初创企业和衍生企业创建。来自多位大学领导者的高度共识：企业天然偏好"增量创新"以保护现有业务，"颠覆性创新"如果威胁现有产品线，企业内部的激励机制会自动压制它。
 

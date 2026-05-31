@@ -234,15 +234,20 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 关键引用
 
 > [!quote]
-> > "It involves stakeholders with different outlooks and impact expectations. Moreover, the multidimensional nature of the impacts themselves means they are tangible and intangible, short- and long-term, direct and indirect, positive and negative, making their measurement process very complex."（Cohen et al., 2024, 转引自 p.87）
+> > “它涉及具有不同观点和影响预期的利益相关者。此外，影响本身的多维性质意味着它们是有形和无形的、短期和长期的、直接和间接的、积极和消极的，这使得它们的衡量过程非常复杂。”
+> ("It involves stakeholders with different outlooks and impact expectations. Moreover, the multidimensional nature of the impacts themselves means they are tangible and intangible, short- and long-term, direct and indirect, positive and negative, making their measurement process very complex.")（Cohen et al., 2024, 转引自 p.87）
 >
-> > "The key to culture is trust based on history of UI relationship as well as the collaborative practice of clearly defining problems of mutual strong interest that can only be solved working together to achieve win-win outcomes. Failures are mutual learning experiences."（p.90）
+> > “文化的关键在于建立在产学（UI）关系历史基础上的信任，以及明确界定只有通过合作实现双赢才能解决的共同强烈利益问题的合作实践。失败是共同学习的经验。”
+> ("The key to culture is trust based on history of UI relationship as well as the collaborative practice of clearly defining problems of mutual strong interest that can only be solved working together to achieve win-win outcomes. Failures are mutual learning experiences.")（p.90）
 >
-> > "AI will not replace service providers (e.g., industry researchers, academic faculty, etc.), but trusted service providers who use AI effectively and ethically will replace those who don't."（Rouse & Spohrer, 2018, 转引自 p.97）
+> > “人工智能（AI）不会取代服务提供商（如产业研究人员、大学教员等），但是有效且符合伦理地使用 AI 的值得信赖的服务提供商，将取代那些不这么做的人。”
+> ("AI will not replace service providers (e.g., industry researchers, academic faculty, etc.), but trusted service providers who use AI effectively and ethically will replace those who don't.")（Rouse & Spohrer, 2018, 转引自 p.97）
 >
-> > "Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of [[University-Industry Collaboration|UI collaboration]] generation after generation."（p.90）
+> > “成功孕育成功。与人才流动、宣传、出版物和商业产品的增加相关的指标突出了共同创造的新知识，这些是代代相传地重塑[[University-Industry Collaboration|产学合作]]文化中最关键的成果。”
+> ("Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of [[University-Industry Collaboration|UI collaboration]] generation after generation.")（p.90）
 >
-> > "Every change in business conditions and focus requires adjusting 6 R investment options and recalibrating metrics, incentives, rewards, and culture to fit the times."（p.90）
+> > “商业条件和重点的每一次变化，都需要调整6 R投资选项，并重新校准指标、激励、奖励和文化以适应时代。”
+> ("Every change in business conditions and focus requires adjusting 6 R investment options and recalibrating metrics, incentives, rewards, and culture to fit the times.")（p.90）
 
 ---
 

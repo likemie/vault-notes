@@ -35,6 +35,7 @@ related_concepts:
   - "[[Learnification]]"
   - "[[Pure Evaluation]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Internal Consistency (Cronbach's Alpha)]]"
   - "[[Neuroplasticity]]"
   - "[[School Leadership]]"
   - "[[Self-Efficacy]]"
@@ -648,7 +649,7 @@ Rømer (2018, p.2-5) 论证 VL 不是一个学习理论甚至不是一个[[Didak
 
 Rømer (2018, p.5-6) 指出 Hattie 区分了[[Surface and Deep Learning|表层学习]]、深层学习和建构性理解三个层次，但未讨论它们之间的概念关系或如何对应实证分析中的操作化。作为 60,000 项评价发现的[[Meta-analysis|元分析]]综合，"学业成就"究竟测量的是哪个层次——无人知晓。这导致从教育研究的角度看，理论和实证数据之间没有系统性关系。
 
-Rømer 将此诊断为"研究笼子"（research cage）：高信度、高内部一致性的系统，但因变量和自变量相互循环定义，与研究对象本身没有任何接触。代价是高效度牺牲换取了高信度（Rømer, 2018, p.6）。
+Rømer 将此诊断为"研究笼子"（research cage）：高信度、高[[Internal Consistency (Cronbach's Alpha)|内部一致性]]的系统，但因变量和自变量相互循环定义，与研究对象本身没有任何接触。代价是高效度牺牲换取了高信度（Rømer, 2018, p.6）。
 
 丹麦 Hattie 倡导者 Qvortrup (2015) 也提出了类似批评，认为 Hattie 的数据过于侧重"表层学习"，并试图基于 Bateson（而非 Popper）重建因变量（Rømer, 2018, p.5-6）。
 

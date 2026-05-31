@@ -187,17 +187,20 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 关键引用
 
 > [!quote]
-> "The evolution of complex, transdisciplinary thinking in response to these challenges—what some have characterized as advanced system thinking or convergence research—is not just confined to university campuses."（p.156）
+> “作为对这些挑战的回应，复杂的跨学科思维的演变——一些人将其描述为高级系统思维或融合研究——并不仅仅局限于大学校园。”
+> ("The evolution of complex, transdisciplinary thinking in response to these challenges—what some have characterized as advanced system thinking or convergence research—is not just confined to university campuses.")（p.156）
 >
 > 产业、非营利组织和政府同样在经历跨学科思维转型，而这正是大学通过[[Executive Education|高管教育]]与之对接的窗口。
 
 > [!quote]
-> "Particularly for subject matter underlain by highly technical research in science and engineering, core scientific and engineering faculty might not be able to address the policy dynamics inherent in the grander challenge."（p.160）
+> “特别是对于以科学和工程领域高度技术性研究为基础的主题，核心科学和工程教员可能无法解决更宏大挑战中固有的政策动态问题。”
+> ("Particularly for subject matter underlain by highly technical research in science and engineering, core scientific and engineering faculty might not be able to address the policy dynamics inherent in the grander challenge.")（p.160）
 >
 > 跨学科团队中必须同时包含硬科学专家和软制度专家，单一学科的教师无法覆盖复杂挑战的全部维度。
 
 > [!quote]
-> "Columbia calls this its '[[Fourth Generation University|Fourth Purpose]],' a responsibility added to the traditional functions of scholarship, teaching and disciplinary service."（pp.161-162）
+> “哥伦比亚大学将此称为其‘第四使命’，这是在传统的学术、教学和学科服务功能之外增加的一项责任。”
+> ("Columbia calls this its '[[Fourth Generation University|Fourth Purpose]],' a responsibility added to the traditional functions of scholarship, teaching and disciplinary service.")（pp.161-162）
 >
 > 哥伦比亚大学将应对复杂社会挑战、推动解决方案产出定义为学术研究、教学和学科服务之外的第四宗旨，这构成了大学组建气候学院、开发跨学科高管教育的制度正当性基础。
 

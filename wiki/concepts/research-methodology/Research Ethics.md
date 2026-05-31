@@ -13,6 +13,7 @@ related_methods:
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Pilot Testing]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
 related_persons: []
@@ -76,7 +77,7 @@ updated: 2026-05-31
 - **披露[[Purpose Statement|研究目的]]**：向参与者如实说明研究目的；如果参与者被告知的与研究者的真实目的不一致，即构成欺骗
 - **不强求签署同意书**：研究者不得强迫参与者签署，参与是自愿的
 - **尊重原住民规范**：联系原住民首领并让他们参与研究各阶段；避免使用主流文化语言，而采用原住民的语气、手势和表达方式；寻找语言和实践的智慧"知者"；将参与者纳入合作研究者（LaFrance & Crazy Bull, 2009; Chilisa & Tsheko, 2014）
-- **控制对参与者的负担**：使用简短工具、预测试数据收集的用户可接受性、在参与者方便的时间收集数据、提供参与补偿（Stadnick et al., 2021）
+- **控制对参与者的负担**：使用简短工具、[[Pilot Testing|预测试]]数据收集的用户可接受性、在参与者方便的时间收集数据、提供参与补偿（Stadnick et al., 2021）
 
 ---
 

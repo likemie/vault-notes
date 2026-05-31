@@ -124,13 +124,17 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "[[John Hattie|Hattie]]'s ideas are widely used in the educational policy of foreign countries (especially Australia), but will they be relevant in the Russian reality? A number of educational innovations borrowed from Western countries do not have unequivocal approval in Russian society."（p.229）
 >
-> > "The variation of the [[Variable|variables]] used by Hattie exceeds 50%, which is higher than the statistical threshold of sample homogeneity (33%). ... Determining the strength of any effects in such a model, due to its instability, will likely not lead to the formation of objective conclusions."（p.239）
+> > “Hattie 使用的[[Variable|变量]]变异系数超过了50%，高于样本同质性的统计阈值（33%）。……由于该模型的不稳定性，确定这种模型中任何效应的强度，很可能无法得出客观的结论。”
+> ("The variation of the [[Variable|variables]] used by Hattie exceeds 50%, which is higher than the statistical threshold of sample homogeneity (33%). ... Determining the strength of any effects in such a model, due to its instability, will likely not lead to the formation of objective conclusions.")（p.239）
 >
-> > "The implementation of Hattie's ideas within the framework of Russian educational policy is inapplicable, since it can cause negative consequences and extend the range of new problems (in particular, the increase in the bureaucratic functionality of the teaching profession in the pursuit of '[[School Leadership]]')."（p.240）
+> > “在俄罗斯教育政策的框架内实施 Hattie 的观点是不适用的，因为这可能会造成负面后果并引发一系列新问题（特别是在追求‘[[School Leadership|学校领导力]]’的过程中，教师职业的官僚化职能增加）。”
+> ("The implementation of Hattie's ideas within the framework of Russian educational policy is inapplicable, since it can cause negative consequences and extend the range of new problems (in particular, the increase in the bureaucratic functionality of the teaching profession in the pursuit of '[[School Leadership]]').")（p.240）
 >
-> > "In education, however, there is little that 'works' and little that 'does not work'. The correct question is: 'Under what conditions will this work in school?'"（p.241）
+> > “然而，在教育中，几乎没有什么‘有效’，也几乎没有什么‘无效’。正确的问题是：‘在什么条件下，这在学校里会有效？’”
+> ("In education, however, there is little that 'works' and little that 'does not work'. The correct question is: 'Under what conditions will this work in school?'")（p.241）
 >
-> > "The book is perceived as a panacea for the educational community, but as a result of taking this drug, the school will experience a short-term placebo effect."（Myburgh, cited in Golovchin, 2019, p.238）
+> > “这本书被教育界视为灵丹妙药，但服用这剂药的结果是，学校将经历一次短期的安慰剂效应。”
+> ("The book is perceived as a panacea for the educational community, but as a result of taking this drug, the school will experience a short-term placebo effect.")（Myburgh, cited in Golovchin, 2019, p.238）
 
 ## 局限性与批评
 

@@ -17,11 +17,14 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
+  - "[[Manipulation Check]]"
+  - "[[Cover Story]]"
   - "[[Purpose Statement]]"
   - "[[Institutional Review Board]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Construct]]"
+  - "[[Blinding]]"
   - "[[Confidence Interval]]"
   - "[[Causality]]"
   - "[[Preregistration]]"
@@ -31,6 +34,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Random Assignment]]"
   - "[[Factorial Design]]"
+  - "[[Pilot Testing]]"
   - "[[Pre-Experimental Designs]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Subject Design]]"
@@ -73,15 +77,15 @@ updated: 2026-05-31
 
 > [!abstract]
 > - **自变量（Independent Variables）**：明确实验中的自变量及其操纵方式。可进行 2 × 2 受试者间[[Factorial Design|因子设计]]，同时操纵两个自变量。
-> - **操纵检查（Manipulation Check）**：评估实验是否成功操纵了目标自变量。例如，若研究通过正面／负面测试反馈操纵自尊水平，可在操纵后施测状态自尊问卷，定量评估两组是否存在自尊差异（Creswell & Creswell, 2022, Ch8）。
+> - **[[Manipulation Check|操纵检查]]（Manipulation Check）**：评估实验是否成功操纵了目标自变量。例如，若研究通过正面／负面测试反馈操纵自尊水平，可在操纵后施测状态自尊问卷，定量评估两组是否存在自尊差异（Creswell & Creswell, 2022, Ch8）。
 > - **因变量（Dependent Variables）**：明确实验的结果变量，即被假定受自变量操纵影响或引起的结果或效标变量。可考虑使用多种方式测量同一结果（如攻击性的行为测量和自评测量）。
 > - **其他变量**：包括（1）受试者人口学特征（年龄、性别、族裔）；（2）可能增加研究设计噪音的变量（如自尊水平可能在一天中波动，可测量和记录时间作为协变量）；（3）潜在混淆变量（如批评者可能声称正面／负面反馈操作也无意中操纵了反思性思维，可测量该变量以定量评估此主张）（Creswell & Creswell, 2022, Ch8）。
 
 ### 工具与材料
 
 > [!info]
-> - **材料**：详细讨论用于操纵目标自变量的材料（如计算机辅助学习计划中的讲义、课程和书面指导）。可讨论试点测试和标准化施测所需的培训。
-> - **封面故事（Cover Story）**：撰写一个对[[Purpose Statement|研究目的]]和程序的合理解释（可能不真实），以向受试者解释实验。若使用欺骗，应制定适当的解除欺骗（debriefing）方法。所有程序和材料须经机构 [[Institutional Review Board|IRB]] 批准（Creswell & Creswell, 2022, Ch8）。
+> - **材料**：详细讨论用于操纵目标自变量的材料（如计算机辅助学习计划中的讲义、课程和书面指导）。可讨论[[Pilot Testing|试点测试]]和标准化施测所需的培训。
+> - **[[Cover Story|封面故事]]（Cover Story）**：撰写一个对[[Purpose Statement|研究目的]]和程序的合理解释（可能不真实），以向受试者解释实验。若使用欺骗，应制定适当的解除欺骗（debriefing）方法。所有程序和材料须经机构 [[Institutional Review Board|IRB]] 批准（Creswell & Creswell, 2022, Ch8）。
 
 ### 实验程序
 
@@ -120,7 +124,7 @@ updated: 2026-05-31
 > 1. 向受试者说明研究的封面故事。
 > 2. 明确设计类型和变量。
 > 3. 按时间顺序列出研究活动。
-> 4. 描述最小化噪音和偏差的步骤，如**盲法（Blinding）**——在完成所有结果测量评估之前，使实验者（及／或受试者）不知道受试者所属的研究条件，以降低**实验者偏差（Experimenter Bias）**。
+> 4. 描述最小化噪音和偏差的步骤，如**[[Blinding|盲法]]（Blinding）**——在完成所有结果测量评估之前，使实验者（及／或受试者）不知道受试者所属的研究条件，以降低**实验者偏差（Experimenter Bias）**。
 
 ### 数据分析
 

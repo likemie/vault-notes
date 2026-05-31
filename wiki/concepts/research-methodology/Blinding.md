@@ -12,12 +12,10 @@ tags:
   - method/experimental
   - quantitative-research
   - bias-control
-related_concepts:
-  - "[[Internal Validity]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
-  - "[[Random Assignment]]"
 related_persons: []
 related_facts: []
 related_arguments: []
