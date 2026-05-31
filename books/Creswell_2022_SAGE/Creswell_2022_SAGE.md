@@ -67,7 +67,6 @@ extracted_to:
   - "[[Experimental Research]]"
   - "[[Quantitative Research]]"
   - "[[Survey Research]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Alternative Hypothesis]]"
   - "[[Central Question]]"
   - "[[Descriptive Research Question]]"
@@ -75,6 +74,7 @@ extracted_to:
   - "[[Mixed Methods Question]]"
   - "[[Null Hypothesis]]"
   - "[[Research Question]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 processed_date: 2026-05-30
 ---
 
