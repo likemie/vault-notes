@@ -93,7 +93,7 @@ updated: 2026-05-31
 | 第3章 理论的使用 | 系统讲解理论在量化、质性和混合方法研究中的不同定位与运用方式。量化研究以演绎方式将理论置于研究前端，通过变量间因果模型检验假设；质性研究以三种方式运用理论——演绎解释、理论立场（透镜）和理论终点（归纳生成）；混合方法研究使用学科理论或社会正义理论来指导设计的各个层面。 | [[Variable]], [[Theoretical Standpoint]], [[Discipline-Based Theory]], [[Social Justice Theory]], [[Causality]] |
 | 第4章 写作策略与伦理考量 | 提供量化、质性和混合方法研究计划的结构模型，讨论学术写作的过程策略、连贯性技巧和语言精炼方法，按研究前—启动—数据收集—分析—报告五个阶段系统梳理伦理问题与应对策略。 | [[Research Ethics]], [[Institutional Review Board]], [[Informed Consent]], [[Hook and Eye Technique]] |
 | 第5章 引言 | 提供撰写学术引言的系统方法，首先讨论撰写[[Abstract\|研究摘要]]的五个核心组成部分，随后比较量化、质性和混合方法研究引言写法的差异，最后重点介绍引言缺陷模型的四个部分——陈述研究问题（含[[Narrative Hook\|叙事钩子]]）、综述文献证据（含[[Inverted Triangle Literature Search\|倒三角检索策略]]）、指出[[Deficiencies in Past Literature\|文献缺陷]]和说明研究对受众的重要性。 | [[Introduction (Research Writing)]], [[Research Problem]], [[Deficiencies Model for an Introduction]], [[Narrative Hook]], [[Inverted Triangle Literature Search]] |
-| 第6章 目的陈述 | 聚焦研究计划中最关键的陈述（目的或研究目标），提供量化、质性和混合方法研究的目的陈述写作模板与范例。 | |
+| 第6章 目的陈述 | 系统讲解研究计划中目的陈述（或研究目标）的核心地位。区分研究问题、目的陈述和研究问题三个环节的递进逻辑，逐一剖析质性目的陈述七要素、量化目的陈述八要素和混合方法目的陈述四要素，为每种路径提供填空式写作脚本，并辅以已发表研究的多个范例。 | [[Purpose Statement]], [[Central Phenomenon]], [[Qualitative Research]], [[Variable]] |
 | 第7章 研究问题与[[Hypothesis\|假设]] | 介绍如何撰写量化研究问题和假设、质性研究问题，以及混合方法研究中的研究问题与假设。提供大量范例作为写作脚本。 | |
 | 第8章 量化方法 | 涵盖调查和[[Experimental Research\|实验研究]]的具体方法程序，包括确定样本与总体、选择设计类型、收集与分析数据、呈现结果和做出解释。提供完整步骤检查清单。 | [[Survey Research]], [[Experimental Research]], [[Single-Subject Design]] |
 | 第9章 质性方法 | 介绍质性数据收集、分析、解释和报告写作的程序，涵盖叙事研究、[[Phenomenology\|现象学]]、扎根理论、民族志、案例研究和描述性研究等具体路径。提供程序检查清单和大量示例。 | [[Narrative Research]], [[Grounded Theory]], [[Ethnography]], [[Case Study]], [[Qualitative Research]] |

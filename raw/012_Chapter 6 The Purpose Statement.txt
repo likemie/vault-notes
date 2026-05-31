@@ -1,0 +1,280 @@
+Chapter 6 The Purpose Statement
+===============================
+
+Chapter 6 The Purpose Statement
+
+Learning Objectives
+
+Describe the relationship among the problem, the purpose statement, and the research questions.
+
+In writing a purpose statement (or study aim) for a qualitative study, identify the three major components.
+
+Identify the central phenomenon in a qualitative purpose statement.
+
+State a quantitative purpose statement with variables and their relationships.
+
+Describe the four essential components of a mixed methods purpose statement.
+
+Introduction
+
+It is important to clearly state a purpose statement in the abstract and introduction. This purpose statement establishes the intent or objective of the research study. It represents a critical statement, and it needs to be clear, specific, and informative. Other aspects of the research follow from it, and readers will be lost if it is unclear. In journal articles, researchers write the purpose statement into introductions (and abstracts); in theses and dissertations, it often stands as a separate section.
+
+This chapter focuses on the purpose statement. We address the reasons for developing it, key principles to use in its design, and examples of good models in crafting one for a proposal or research study.
+
+Significance of a Purpose (or Study Aim) Statement
+
+In social science research, we typically use the term “purpose” in this statement. In the health sciences, “study aim” is often the preferred term. We will refer to “purpose” in this chapter. Regardless of the name, the purpose statement indicates why the researcher conducts the study and what the study intends to accomplish (Locke et al., 2014). Unfortunately, proposal-writing texts give little attention to the purpose statement, and method writers often incorporate it into discussions about other topics, such as problem statements or research questions or hypotheses. Wilkinson (1991), for example, refers to the purpose within the context of the research question and objective. Other authors frame it as an aspect of the research problem (Castetter & Heisler, 1977). However, closely examining their discussions indicates that they both refer to the purpose statement as the central, organizing idea in a study.
+
+This passage is called the purpose statement because it conveys the overall intent of a proposed study in a sentence or several sentences. In proposals, researchers need to distinguish clearly among the purpose statement, the research problem, and the research questions. In Figure 6.1, the problem represents an issue leading to a study’s need, such as people refusing to get COVID vaccinations. In turn, the study narrows to the purpose or aim of the study. This purpose specifies the specific study addressing the problem, such as the need to identify the many factors influencing the refusal to get vaccinated. In this example, this purpose models a statement for a quantitative project. Then the research questions narrow the study further by posing one or more questions to be answered. In the example, the overall question in the study is, “Are participants refusing vaccination because they worry about long-term health consequences?” Although many factors may influence a decision to get vaccinated, we have chosen concerns about long-term health benefits to address. Finally, the study narrows again to data collection, where we gather information to answer the research question. In our example, we select the use of a mailed questionnaire (or survey) to gather the data. Thus, the purpose statement sets forth the broader intent of the study. It is not the problem or issue or the research questions in the study (see Chapter 5). Moving through the steps of the problem and on to the data illustrates successive narrowing of the study. The purpose builds on a need (the problem) and is refined into specific questions (the research questions).
+
+Given the importance of the purpose statement, it is helpful to set it apart from other aspects of the proposal or study and frame it for readers as a single sentence or paragraph. Although qualitative, quantitative, and mixed methods purpose statements share similar topics, we describe each approach in the following paragraphs and illustrate a good statement with fill-in scripts for constructing a thorough and manageable statement.
+
+[图片: images/012_Chapter 6 The Purpose Statement/001_10.4135_9781071817988-fig10.jpg | A flowchart of the problem leading to the data, with an example for each stage.]
+Description
+Figure 6.1 Relationship Among the Problem, the Purpose (Aim), the Research Questions, and the Data
+
+A Qualitative Purpose Statement
+
+Good qualitative purpose statements contain information about the central phenomenon explored in the study, the participants in the study, and the research site. The central phenomenon is the one single concept being explored in the qualitative study. Researchers explore this phenomenon by gathering data from participants and a site for research. A qualitative purpose statement conveys an emerging design where the procedures can change during the study and uses specific terms drawn from the language of qualitative inquiry (Schwandt, 2014). Thus, several basic design features for a purpose statement or study aim for qualitative research follow:
+
+Use words such as purpose, intent, study aim, or objective to introduce this statement as the central study idea. Set the statement off as a separate sentence or paragraph, and use the language of research, such as “The purpose (or intent or objective) of this study is (was) (will be). . . .” Researchers often use the present or past verb tense in journal articles and dissertations and the future tense in proposals in planning a project for the future.
+
+Focus on a single central phenomenon (or concept or idea). Narrow the study to one idea to be explored or understood. A qualitative purpose statement does not convey relating two or more variables or comparing two or more groups, as in quantitative research. Instead, it advances a single phenomenon, recognizing that the study may evolve into exploring relationships or comparing groups. This evolution cannot always be anticipated at a study’s beginning. A project might begin with the central phenomenon of exploring teacher identity and the marginalization of this identity in a school (Huber & Whelan, 1999), the meaning of baseball culture in a study of the work and talk of stadium employees (Trujillo, 1992), or how individuals cognitively represent AIDS (Anderson & Spencer, 2002). These examples illustrate a focus on a single idea.
+
+Use action verbs to convey how learning will take place. Action verbs and phrases, such as understand, develop, explore, examine the meaning of, generate, or discover, keep the inquiry open and exploratory.
+
+Use neutral words and phrases—nondirectional language—such as exploring the “self-expression experiences of individuals” rather than the “successful self-expression of individuals.” Other words and phrases that may be problematic include useful, positive, and informing—all words suggesting a directional outcome that may or may not occur. McCracken (1988) referred to the need in qualitative interviews to let the respondents describe their experiences. Interviewers (or purpose statement writers) can violate easily the “law of nondirection” (McCracken, 1988, p. 21) in qualitative research by using words that suggest a directional orientation.
+
+Provide a general working definition of the central phenomenon or idea, especially if a broad audience cannot understand the phenomenon. Consistent with the rhetoric of qualitative research, view this definition as not fixed but tentative and evolving throughout a study based on information from participants. Hence, a writer might say, “A tentative definition at this time for _____________ (central phenomenon) is. . . .” This definition is not to be confused with the detailed definition of terms as discussed in the literature review of Chapter 2. Here the intent is to convey to readers early in a proposal or research study a general sense of the central phenomenon. With a brief definition, readers can better understand the focus of the study.
+
+Include words denoting the qualitative approach used for data collection, analysis, and the process of research. We introduced several qualitative approaches in Chapter 1, such as a descriptive analysis, ethnography, grounded theory, case study, phenomenology, narrative approach, or some other approach.
+
+Mention the participants in the study, such as individuals, groups, or organizations.
+
+Identify the site for the research, such as homes, classrooms, organizations, programs, or events. Describe this site in enough detail so that the reader knows exactly where a study will take place.
+
+The purpose statement may delimit the scope of participants or research sites in the study. For example, the study may involve only women. The research site may be limited to one metropolitan city or to one small geographic area. The central phenomenon may be limited to individuals in business organizations who participate on creative teams. These delimitations help further define the parameters of the research study.
+
+Although considerable variation exists in the inclusion of these points in purpose statements, a good dissertation or thesis proposal should contain many of them. Here is a script helpful in drafting a complete statement. A script contains the major words and ideas of a statement and provides space for researchers to insert their project information.
+
+The purpose (or study aim) of this _____ (qualitative study or more specifically a qualitative approach, such as ethnography, case study, or other type) study is (was? will be?) to _____ (understand? explore? develop? generate? discover?) the _____ (central phenomenon being studied) for _____ (the participants, such as individuals, groups, or organizations) at _____ (research site). At this stage in the research, the _____ (central phenomenon being studied) will be generally defined as _____ (provide a general definition).
+
+Examples 6.1–6.4 may not illustrate all the elements of this script perfectly, but they represent adequate models to study and follow.
+
+Example 6.1 A Purpose Statement in a Qualitative Phenomenology Study
+
+Lauterbach (1993) studied five women who lost a baby in late pregnancy and their memories and experiences of this loss. Her purpose statement was as follows:
+
+The phenomenological inquiry, as part of uncovering meaning, articulated “essences” of meaning in mothers’ lived experiences when their wished-for babies died. Using the lens of the feminist perspective, the focus was on mothers’ memories and their “living through” experience. This perspective facilitated breaking through the silence surrounding mothers’ experiences; it assisted in articulating and amplifying mothers’ memories and their stories of loss. Methods of inquiry included phenomenological reflection on data elicited by existential investigation of mothers’ experiences, and investigation of the phenomenon in the creative arts. (p. 134)
+
+We found Lauterbach’s (1993) purpose statement in the opening section of the journal article under the heading “Aim of Study.” Thus, the heading calls attention to this statement. “Mothers’ lived experiences” would be the central phenomenon explored in the study. The author uses the action word portray to discuss the meaning (a neutral word) of these experiences. The author further defines the experiences examined when she identifies “memories” and “lived through” experiences. Throughout this passage, Lauterbach uses the qualitative approach of phenomenology. Also, the passage conveys that the participants were mothers. Later in the article the reader learns that the author interviewed a convenience sample of five mothers, each of whom experienced a perinatal death of a child in her home.
+
+Example 6.2 A Purpose Statement in a Qualitative Case Study
+
+Frelin (2015) explored the relationship of a secondary school teacher who negotiated educational relationships with students who had a history of school failure. This teacher, Gunilla, was an upper secondary teacher of Swedish and social studies with 10 years of teaching experience. The study reported Gunilla’s practices of negotiating relationships with students labeled as failures. Gunilla’s school was a small municipal school with an upper secondary school program offering individual solutions for students. These students had completed 9 years of compulsory school but were ineligible for national upper secondary schools, higher education, or vocational programs. The detailed purpose statement for the study read this way:
+
+The purpose of this article is to trace and exemplify relational and professional practices that can help teachers and other school staff to assist students to overcome obstacles and be more successful at school. (p. 590)
+
+This general purpose was found in the opening paragraph of the study. A more complete description of the purpose occurred in a summary of the results:
+
+The results have provided illustrations of relational practices aimed at negotiating educational relationships with students who have been labelled as failures. Providing detailed examples of how Gunilla worked to negotiate relationships and the qualities of trust, humaneness and students’ self-images, the complex and temporal nature of teachers’ work with making relationships educational is highlighted. (p. 598)
+
+We felt that the author might have included more detail (as found in the summary after the results) in the opening purpose statement. Clearly, the author indicated the central phenomenon as relational and professional practices. To “trace” or to “illustrate” indicated the qualitative action verbs used in the study. As a case study, the author focused on the actions of one teacher, Gunilla, as a case for study.
+
+Example 6.3 A Purpose Statement in a Narrative Study
+
+Chan’s (2010) study explored the school and family experiences for one Chinese immigrant student, Ai Mei Zhang. Her academic performance and behavior by teachers and peers at school and by immigrant parents at home shaped her ethnic identity. The tension between school and home led to conflicting stories. We located this purpose statement:
+
+In the present study, I examined the experiences of one Chinese immigrant student, Ai Mei Zhang. I explore her participation in her Canadian middle school curriculum as an interaction of student, teacher, and parent narratives, a story of interwoven lives (Clendenin et al., 2006). . . . I examined ways in which her sense of ethnic identity may be shaped by expectations for her academic performance and her behavior in her school and her home. (p. 113)
+
+We found this purpose statement in the introduction to the study. The first sentence focused on the student’s experiences; the second sentence identified the central phenomenon of “ethnic identity.” We clearly can identify the participant, one Chinese immigrant student, and the setting as the school and the family environment. The author described the qualitative approach as a long-term, school-based narrative inquiry with substantial observations of the student’s school classroom. The author also reviewed documents, held conversations with key participants, and took field notes during observations. This study represented a narrative research project involving one participant.
+
+Example 6.4 A Purpose Statement in a Grounded Theory Study
+
+Harley et al. (2007) felt that regular physical activity was linked to a reduced risk of obesity and chronic diseases. They conducted in-depth interviews with physically active African American women and developed a rigorous theoretical explanation of human behavior grounded in the data. They stated the purpose of their study:
+
+The purpose of this study was to understand the behavioral process among African American women through the development of a theoretical framework explaining the pathways linking the key factors together that result in subsequent integration of physical activity into the lifestyle. (p. 99)
+
+In this statement, the central phenomenon was the integration of physical activity and lifestyle. The word “understand” signaled a qualitative study. Grounded theory as a qualitative approach led to developing a theoretical model that explained an overall model of physical activity and lifestyle.
+
+A Quantitative Purpose Statement
+
+Quantitative purpose statements differ considerably from the qualitative statements in terms of the language and a focus on relating or comparing variables or constructs. Constructs is a term used for a more abstract, general meaning of a variable. In our discussion, we will use the term variable to identify an entity that varies and is measurable. Recall from Chapter 3 the types of major variables: independent (or predictor), mediating, moderating, confounding, and dependent (or outcome).
+
+The design of a quantitative purpose statement includes the variables in the study and their relationships, the participants, and the research site. It also includes language associated with quantitative research and the deductive testing of theories. The elements of a quantitative purpose statement can include the proposed major variables in a study (independent, mediating, dependent) and reference a visual model identifying the order or sequence of the variables.
+
+Quantitative variables will typically be related, as in a survey, or compared, as in an experiment. Some mention could also occur about the measurement and observation of the variables.
+
+The major components of a good quantitative purpose statement include the following in the order mentioned here:
+
+Include words to signal the major intent of the study, such as purpose, intent, or objective. Start with “The purpose (or objective or intent) of this study is (was, will be) . . .”
+
+Mention the specific type of quantitative approach (such as survey or experimental research) used in the study. By incorporating this information, the researcher anticipates the methods’ discussion and enables a reader to associate the relationship of variables to the inquiry approach.
+
+Identify the theory, model, or conceptual framework and how it is used to explain or predict the relationship of variables. At this point, one does not need to describe the theory in detail. In Chapter 3, we suggested the possibility of writing a separate “Theoretical Perspective” section for this purpose. Mentioning it in the purpose statement provides emphasis on the importance of the theory and foreshadows its use in the study.
+
+Identify the variables—independent, dependent, mediating, and moderating variables.
+
+Use words that connect the variables such as “relationship,” “comparison,” “determinants,” “correlation,” or “prediction” to indicate the relationship among the variables. Also, a purpose statement could be to “describe” variables. Most quantitative studies employ one or more options for discussing variables in the purpose statement. A combination of comparing and relating might also exist—for example, an experiment in which the researcher has two or more treatment groups and a continuous independent variable. Although one typically finds studies comparing two or more groups in experiments, it is also possible to compare groups in a survey study.
+
+Position or order the variables from left to right in the purpose statement—with the independent variable followed by the dependent variable. Place intervening or mediating variables between the independent and dependent variables. Many researchers also place the moderating variables as related to the independent variables. In experiments, the independent variable will always be the manipulated variable.
+
+Reference the participants (or the unit of analysis) in the study, and mention the research site.
+
+Define key variables, preferably using accepted definitions found in the literature. General definitions are included at this point to help the reader best understand the purpose statement. They do not replace specific, operational definitions found later when a writer has a “Definition of Terms” section in a proposal (including details about how variables will be measured). Researchers often define the key variables in a table that provides the name of the variable, its definition, and an example of its use in the method section. Also, delimitations affecting the scope of the study might be mentioned, such as the data collection or samples’ scope.
+
+Based on these points, a quantitative purpose statement script can include these ideas:
+
+The purpose of this _________ (experiment? survey?) study is (was? will be?) to test the theory of _________ that __________ (explains, predicts) that the _________ (independent variable) _________ (compares? relates?) to __________ (dependent variable). This study aims to recruit __________ (participants) at __________ (the research site). The independent variable(s) __________ will be defined as __________ (provide a definition). The dependent variable(s) will be defined as __________ (provide a definition).
+
+Examples 6.5–6.7 illustrate many of the elements in these scripts. The first two studies are surveys and the last one an experiment.
+
+Example 6.5 A Purpose Statement in a Survey Study
+
+A survey study by Shawyer et al. (2017) examined the mental health of refugee and asylum seekers in the Refugee Health Service (RHS) settlement in Australia. The study focused on mental health problems of psychiatric disorders and posttraumatic stress disorders (PTSD) of people in the settlement. The study aims read that the study will do the following:
+
+Report estimates of overall prevalence of mental disorders including PTSD among RHS clients.
+
+Establish matched risk ratios by comparing RHS clientele prevalence findings with a matched Australian-born comparison group.
+
+Comment on the acceptability of the set of measures used in the survey for RHS clients as a pilot for use in screening for mental illness in this service and elsewhere. (p. 2)
+
+In this example, we see multiple statements about the study aim. It began with a descriptive phase focused on “prevalence.” Then in the next phase it reported on a comparison between the RHS sample and a matched sample using a community survey. Notice that the purpose statement used “comparison” as a quantitative word. It also mentioned measurement and its acceptability in the survey. We found the study aim at the beginning of the study in the background section. The study design used a cross sectional survey of 135 refugees and asylum seekers using mental health instruments.
+
+Example 6.6 A Purpose Statement in a Dissertation Survey Study
+
+DeGraw (1984) completed a doctoral dissertation in education on the topic of educators working in adult correctional institutions. Under a section titled “Statement of the Problem,” he advanced the purpose of the study:
+
+The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States. Personal characteristics were divided into background information about the respondent (i.e., institutional information, education level, prior training, etc.) and information about the respondents’ thoughts of changing jobs. The examination of background information was important to this study because it was hoped it would be possible to identify characteristics and factors contributing to significant differences in mobility and motivation. The second part of the study asked the respondents to identify those motivational factors of concern to them. Job motivation was defined by six general factors identified in the educational work components study (EWCS) questionnaire (Miskel & Heller, 1973). These six factors are: potential for personal challenge and development; competitiveness; desirability and reward of success; tolerance for work pressures; conservative security; and willingness to seek reward in spite of uncertainty vs. avoidance. (pp. 4–5)
+
+This statement included several components of a good purpose statement. It was presented in a separate section, used the word relationship, defined major variables, stated the sample, and highlighted the questionnaire in the study. Further, it ordered the variables from independent to dependent, allowing a reader to understand the variables clearly.
+
+Example 6.7 A Purpose Statementin an Experimental Study
+
+Esposito et al. (2017) studied the need for safe and satisfactory online shopping experiences for vulnerable consumers, such as the elderly and less educated citizens. The authors conducted an experiment to test the effectiveness of online “nudges” to prevent the purchase of “incompatible” digital products (products incompatible with devices owned by consumers). This lab experiment involved three types of “nudges,” and the study examined the interaction of demographics—age and education—and with “nudges.” The study purpose was:
+
+Consumers must be able to find and interpret this information and use it to make good decisions. Without this ability, consumers will make mistakes, leading to disappointment, frustration, and ultimately lack of trust in online shopping. The evidence from behavioural economics suggests that the way information is presented can either facilitate or hamper decisions that are in the consumer’s own best interest. This study was based on this assumption and sought to test how small changes to a website’s design can affect purchase behaviour, with particular attention to the interaction with socio-demographic characteristics of the participant. (p. 2)
+
+This purpose statement was found at the end of the introduction. As with many empirical studies, the purpose statement was short and without detail about the variables, the participants, or the specific interventions. These details emerged later in the research questions or hypotheses. In this example, we saw that the problem leading to the study became mixed with the specific purpose statement. The purpose statement was brief and provided an overall orientation of the study. A total of 626 participants at a laboratory in Spain participated in this experimental study. The authors used a 3 × 2 × 2 design with the independent variables, “nudges,” as warning messages (no warning, traditional warning, emotive warning), style (information presented as a logo or text), and information presentation (on the product description page or at checkout). The treatment involved informing the participants that the products ran only Windows operating systems. Then, as products were displayed, information about the operability of each product was presented.
+
+Participants were also given virtual currency to spend on the products of five films and games. The outcome variable was the number of incompatible goods purchased. Thus, small changes in website design for a product could influence purchase behavior as stated in the purpose statement.
+
+A Mixed Methods Purpose Statement
+
+A mixed methods purpose statement contains the overall intent of the study, information about both the quantitative and qualitative strands of the study, the integration (or combination) of both strands, and the insight expected from the data integration. These statements need to be identified early in the introduction, and they provide major signposts for the reader to understand the quantitative, qualitative, and integrative parts of a study. Several guidelines might direct the organization and presentation of the mixed methods purpose statement, and we introduce them in the order we prefer for writing a mixed methods purpose statement or study aim:
+
+Begin with words that signal intent, such as “The purpose of,” “The study aim is,” or “The intent of.” Place this statement early in the mixed methods study.
+
+Indicate the overall intent of the study from a content perspective, such as “The intent is to learn about organizational effectiveness in auto industry companies” or “The intent is to develop health policies for families with stepchildren.” To arrive at this intent, ask yourself what you want to accomplish by the end of the study. We sometimes refer to this as the “end point” of a study. This end point is stronger if it has practical value (value for specific audiences) instead of only understanding a concept or phenomenon (as is often the case in dissertation or thesis projects). In this way, the reader has an anchor to understand the overall study before learning about the quantitative and qualitative parts.
+
+Indicate the type of mixed methods design, such as a convergent design, an explanatory sequential design, an exploratory sequential design, or a complex design (as discussed in Chapter 10).
+
+Include language in the mixed methods purpose statement that signals quantitative and qualitative research. The authors should include quantitative words indicating testing, relating variables, or comparing groups. They also should mention qualitative words such as exploring, understanding, generating, and developing.
+
+Discuss the insight to result from collecting quantitative and qualitative data, combining the data (integrating) and drawing conclusions from the integration. This insight refers to the inferences or conclusions from combining the data. Here are some possibilities of insight (see Chapter 10 for more detail about these insights):
+
+Insight of a more complete understanding of a research problem by comparing quantitative and qualitative results from the two databases (a convergent design).
+
+Insight explaining the quantitative results with a qualitative follow-up to understand participant perspectives in more detail (an explanatory sequential design).
+
+Insight about how to develop or improve a quantitative measure by first talking to participants and gathering qualitative data before administering a quantitative measure or scale (an exploratory sequential design).
+
+Insight about adding qualitative, quantitative data, or both into a framework or process (e.g., an experiment, a case study, an evaluation) to enrich the framework or process (a complex design, see Chapter 10).
+
+Based on these elements, three examples of mixed methods purpose statement scripts follow based on the convergent, explanatory sequential, and exploratory sequential designs (Creswell & Plano Clark, 2018). This first example of a mixed methods purpose statement is a script for a convergent mixed methods design in which quantitative and qualitative data are collected and analyzed separately and the two databases compared to best understand a research problem.
+
+This mixed methods study will address _________ (overall intent of study). A convergent mixed methods design will be used, and it is a type of design in which qualitative and quantitative data are collected to provide multiple perspectives on a problem or question. In this study, _________ (quantitative data) will be used to test the theory of _________ (the theory) that predicts or explains that _________ (independent variables) will _________ (positively, negatively) influence the _________ (dependent variables) for _________ (participants) at _________ (the site). The _________ (type of qualitative data) will explore _________ (the central phenomenon) for _________ (participants) at _________ (the site). The insight to emerge from combining the two databases will _________ (provide a more complete understanding of the problem, examine convergence of the databases, validate one database with the other).
+
+The second script illustrates a mixed methods purpose statement for an explanatory sequential design in which the intent is to understand the quantitative database at a deeper level using follow-up qualitative data.
+
+This study will address _________ (overall intent of study). An explanatory sequential mixed methods design will be used, and it will involve collecting quantitative data first and then explaining the quantitative results with in-depth follow-up qualitative data. In the first quantitative phase of the study, _________ (quantitative instrument) data will be collected from _________ (participants) at _________ (research site) to test _________ (name of theory) to assess whether _________ (independent variables) relate to _________ (dependent variables). The second qualitative phase will be conducted as a follow-up to the quantitative results to help explain the quantitative results in more depth. The insight to emerge from explaining the quantitative results with qualitative data will _________ (provide a more detailed analysis of the quantitative data, explain surprising findings, explain the relationship among variables).
+
+The final script is an illustration of the purpose statement that might be used for an exploratory sequential design. This design’s intent is to develop measures (or instruments) that work with a sample by first collecting qualitative data and then using it to design measures or test an instrument with a sample of a population.
+
+This study addresses _________ (overall intent of study). The purpose of this exploratory sequential design will be to first qualitatively explore with a small sample, design or modify a quantitative assessment (e.g., instrument, website, experimental intervention activities, new variables) based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample. The first phase of the study will be a qualitative exploration of _________ (the central phenomenon) in which _________ (types of data) will be collected from _________ (participants) at _________ (research site). From this initial exploration, the qualitative findings will be used to design a cultural or context-specific quantitative assessment that can be tested with a large sample. This test will _________ (relate, compare) _________ (quantitative data) collected from _________ (participants) at _________ (research site). The insight to emerge from designing a quantitative assessment based on qualitative data will be _________ (an instrument better suited to the sample and population, a contextually specific quantitative assessment).
+
+In other mixed methods purpose statements, the intent may be to bring in qualitative data or qualitative and quantitative data into a framework or process (such as an experiment or an evaluation). More about these types of approaches are found in complex designs (mentioned in Chapter 10) and in Creswell and Plano Clark (2018).
+
+It is helpful to look closely at several examples of purpose statements found in recent published articles. Although these examples may not include all elements of the scripts, they serve as examples of reasonably complete purpose statements that clearly convey the purpose of a mixed methods study. We limit the discussion to three core types of design: (a) a convergent design (Example 6.8), (b) an explanatory sequential design (Example 6.9), and (c) an exploratory sequential design (Example 6.10). Other designs that expand these possibilities will be detailed further in Chapter 10.
+
+Example 6.8 A Convergent Mixed Methods Purpose Statement
+
+Classen and colleagues (2007) developed a health promotion model for older driver safety. Conducting a large secondary analysis of a national database, they examined the risk and protective factors influencing driver injuries (the quantitative phase). They also conducted a qualitative meta-synthesis of six studies to determine narrative results about needs, factors influencing safety, and safety priorities of older driver stakeholders (the qualitative phase). They then compared the two databases to integrate the results from both sets of data. Their purpose statement was as follows:
+
+This study provided an explicit socio-ecological view explaining the interrelation of possible causative factors, an integrated summary of these factors, and empirical guidelines for developing public health interventions to promote older driver safety. Using a mixed methods approach, we were able to compare and integrate main findings from a national crash dataset with perspectives of stakeholders. (p. 677)
+
+This passage was written into the abstract and should have been better inserted into the introduction. The authors used key words in mixed methods by discussing their comparison of the national data set (quantitative data) with the perspectives of stakeholders (qualitative data set). Thus, it indicated the use of both quantitative and qualitative data, although the authors might have given more detail about the theory (a model was advanced at the beginning of the study), the specific variables analyzed, and the central phenomenon of the qualitative phase of the study.
+
+Example 6.9 An Explanatory Sequential Mixed Methods Purpose Statement
+
+Ivankova and Stick (2007) studied factors contributing to students’ persistence in a distributed doctoral program (distance online learning). They first collected survey data to examine external and internal program factors predictive of student persistence, and they followed up with qualitative interviews of students that grouped into four categories of persistence. They ended by advancing case studies of four types of graduate persisters. The purpose statement was as follows:
+
+The purpose of this mixed methods sequential explanatory study was to identify factors contributing to students’ persistence in the ELHE program by obtaining quantitative results from a survey of 278 current and former students and then following up with four purposefully selected individuals to explore those results in more depth through a qualitative case study analysis. In the first, quantitative phase of the study, the research questions focused on how selected internal and external variables to the ELHE program (program-related, advisor- and faculty-related, institutional-related, student-related factors, and external factors) served as predictors to students’ persistence in the program. In the second, qualitative phase, four case studies from distinct participant groups explored in-depth the results from the statistical tests. In this phase, the research questions addressed seven internal and external factors, found to have differently contributed to the function discriminating the four groups: program, online learning environment, faculty, student support services, self-motivation, virtual community, and academic advisor. (p. 95)
+
+In this example, the purpose statement closely followed the script advanced earlier for an explanatory sequential design. We found the statement in the last paragraph of the study’s introduction. It began with an overall intent statement, followed by the first quantitative phase (including the specific variables examined), and then the qualitative follow-up phase. It used mixed methods words, such as to “identify” the factors (quantitative factors) and “explore” the results (qualitatively). It ended with the four case studies and the mixed methods rationale to use the case studies to explore the results from the statistical tests further.
+
+Example 6.10 An Exploratory Sequential Mixed Methods Purpose Statement
+
+Enosh and colleagues (2015) are researchers in social work and human services. Their 2015 exploratory sequential mixed methods study examined social workers’ exposure to different forms of violence perpetrated by their clients. The overall purpose of their study was to explore social workers’ experiences with client violence, develop an instrument for measuring violence, and obtain generalized information about client violence for social workers across different contexts. They stated their purpose statement as follows:
+
+Therefore, the goal of this study was to develop a behavior-based instrument that could be used to compare between different types of workplaces, services (health, tourism), sectors (public, private), and occupations (social workers, nurses, bank workers, hotel personnel). In the current study, we have developed and validated the instrument for one specific population: social workers. (p. 274)
+
+To accomplish the study’s purpose, Enosh et al. (2015) reported that their exploratory sequential mixed methods study unfolded in “distinct stages of research” (p. 283). We identified the purpose statement in the last section of the study’s introduction. They began their study with a qualitative exploration of social workers’ experiences with client violence using qualitative interviews. In the second stage of the study, the researchers used the qualitative findings to develop the Client Violence Questionnaire (CVQ). Once the instrument was developed, Enosh and colleagues initiated the final quantitative phase of the exploratory design. The authors implemented two different survey procedures to apply and test the developed instrument. Notice the use of mixed methods language. They “developed” (qualitative phase) and “validated” (quantitative phase) the instrument. The authors identified the overall intent, the collection of both quantitative and qualitative data, and the reason for collecting both forms of data.
+
+Summary
+
+This chapter emphasizes the primary importance of a purpose statement. This statement advances the central idea in a study. As such, it represents a critically important statement. Researchers describe this statement as a purpose statement or a study aim. In writing a qualitative purpose statement, a researcher needs to identify a single central phenomenon and to pose a tentative definition for it. Also, the researcher includes in this statement strong action words, such as discover, develop, or understand; uses nondirectional language; and mentions the qualitative approach, the participants, and the research site. In a quantitative purpose statement, the researcher states the theory being tested and the variables and their descriptions, relationships, or comparisons. It is important to position the independent variable first and the dependent variable(s) second. Words such as relationship, correlation, and description are found in quantitative purpose statements. The researcher conveys the quantitative approach, the participants, and the research site for the investigation. In some purpose statements, the researcher also defines the key variables used in the study. In a mixed methods study, a purpose statement includes a statement of intent, the type of mixed methods design, the forms of qualitative and quantitative data collection and analysis, and the insight to be gained from combining the two databases. Researchers should also use words that convey a quantitative strand of the study (e.g., testing, relating variables, comparing groups) and a qualitative strand (e.g., exploring, generating, understanding).
+
+Key Terms
+
+Central phenomenon 125
+
+Constructs 130
+
+Mixed methods purpose statement 134
+
+Purpose statement 123
+
+Qualitative purpose statements 125
+
+Quantitative purpose statements 130
+
+Script 127
+
+Writing Exercises
+
+Using the script for a qualitative purpose statement we provide in this chapter, write a statement for a project by completing the blanks. Also, make this statement short, and state it in one paragraph.
+
+Using the script for a quantitative purpose statement in this chapter, write a statement for a project by completing the blanks. Also, make this statement short, and state it in one paragraph.
+
+Using the script for a mixed methods purpose statement in this chapter, write a purpose statement for a project by completing the blanks. Keep this statement short, and state it in one paragraph. Include the potential insight to be gained by combining the two databases.
+
+Additional Readings
+
+Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods research (3rd ed.). SAGE.
+
+Examples can illustrate how to write good purpose statements or study aims. John W. Creswell and Vicki L. Plano Clark have authored an overview and introduction to mixed methods research that covers the entire process of research from writing an introduction, collecting data, analyzing data, to interpreting and writing mixed methods studies. In their chapter on the introduction, they discuss qualitative, quantitative, and mixed methods purpose statements. They provide scripts and examples of mixed methods designs and overall guidelines for writing these statements.
+
+Marshall, C., & Rossman, G. B. (2016). Designing qualitative research (6th ed.). SAGE.
+
+It is useful to consider the reasons for writing a purpose statement into a study. Catherine Marshall and Gretchen Rossman call attention to the major intent of the study: the purpose of the study. They recommend embedding this section in the introductory topic discussion and stating it in a sentence or two. It tells the reader what the results of the research are likely to accomplish.
+
+The authors characterize purposes as exploratory, explanatory, descriptive, and emancipatory. They also mention that the purpose statement includes the unit of analysis (e.g., individuals, dyads, or groups).
+
+Wilkinson, A. M. (1991). The scientist’s handbook for writing papers and dissertations. Prentice Hall.
+
+Placement of a purpose statement or study aim needs to be considered in good research. Antoinette Wilkinson calls the purpose statement the “immediate objective” of the research study. She states that the purpose of the objective is to answer the research question. Further, the objective of the study needs to be presented in the introduction, although it may be implicitly stated as the subject of the research, the paper, or the method. If stated explicitly, the objective is found at the end of the introduction. It might also be found near the beginning or in the middle of a study, depending on the article structure.
+
+Descriptions of Images and Figures
+
+Back to Figure
+
+The stages, with an example in each stage, are as follows:
+
+The problem: People are refusing to get vaccinated for COVID.
+
+The purpose or aim: Purpose of study is to identify why, the factors.
+
+The research questions: Are participants refusing vaccination because they suspect long-term health consequences?
+
+The data: A mailed questionnaire to collect data.
