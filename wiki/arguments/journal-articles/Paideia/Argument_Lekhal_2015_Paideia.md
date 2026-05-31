@@ -150,7 +150,7 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > “因此，结果表明，性别本身似乎并不直接影响学业成绩，而是性别在与其他变量的相互作用中，间接影响学业成绩。”
+> > “因此，结果表明，性别本身似乎并不直接影响学业成绩，而是性别在与其他[[Variable|变量]]的相互作用中，间接影响学业成绩。”
 > ("Resultatene viser dermed at kjønn i seg selv ikke ser ut til å virke direkte inn på skolefaglige prestasjoner, men at kjønn påvirker prestasjonene indirekte i et samspill med andre variabler.")（Lekhal et al., 2015, p.83）
 
 ## 局限性与批评
