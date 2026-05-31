@@ -44,6 +44,8 @@ updated: 2026-05-31
 
 混合方法[[Research Question|研究问题]]是研究方法论中的一个新概念，与其他研究方法教科书中的问题类型不同。其正式讨论始于 Tashakkori & Creswell (2007) 在 Journal of Mixed Methods Research 上发表的社论（Creswell & Creswell, 2022, Ch7）。
 
+---
+
 ## 概念辨析
 
 > [!example]
@@ -57,6 +59,8 @@ updated: 2026-05-31
 >
 > 典型的研究问题关注[[Research Topic|研究主题]]的内容，而非方法。混合方法研究问题之所以不同，是因为它询问的是整合（integration）带来的学习。整合是混合方法研究的核心组件（Creswell & Creswell, 2022, Ch7）。
 
+---
+
 ## 核心要素
 
 > [!abstract]
@@ -65,12 +69,16 @@ updated: 2026-05-31
 > 1. **整合的意图（intent of integration）**：说明为何要组合两类数据——是比较（compare）、解释（explain）、构建（build）还是增强（augment）
 > 2. **整合的程序（procedures of integration）**：说明通过何种设计（聚敛式、解释性序列、探索性序列、嵌入式）和何种程序（合并、连接或嵌入）来整合
 
+---
+
 ## 写作脚本
 
 > [!tip] 混合方法研究问题写作脚本
 > Creswell & Creswell (2022, Ch7) 提供的[[Research Writing Script|写作脚本]]：
 >
 > "The mixed methods question in the study purpose or intent will be to ____ (compare, explain, build, augment) the ____ (quantitative data or qualitative data or process/framework) with ____ (quantitative data or qualitative data) by using a ____ (design: [[Convergent Design]], [[Explanatory Sequential Design]], [[Exploratory Sequential Design]], embedded design) with the procedure of ____ (merging, connecting, or embedding)."
+
+---
 
 ## 三类问题的放置与顺序
 
@@ -79,6 +87,8 @@ updated: 2026-05-31
 - **单阶段[[Convergent Design|聚敛式设计]]**：量化和质性问题可以任一顺序排列，因为两类数据同时收集。
 - **两阶段[[Explanatory Sequential Design|解释性序列设计]]**：第一阶段的量化问题或假设在先，第二阶段的[[Qualitative Research|质性研究]]问题在后。
 - **三阶段[[Exploratory Sequential Design|探索性序列设计]]**：第一阶段质性[[Research Question|研究问题]]在先，第二阶段量化评估问题和假设在后，最终量化检验的问题或假设也属于后续阶段。
+
+---
 
 ## 写作范例
 
@@ -101,10 +111,14 @@ updated: 2026-05-31
 >
 > Creswell & Creswell 指出，如果作者能更清楚地标记[[Qualitative Research|质性研究]]问题和混合方法研究问题，并强调在混合方法设计中整合两类数据的意图，研究会更加清晰。
 
+---
+
 ## 争议与批评
 
 > [!warning]
 > [[Mixed Method and Multi-method Research|混合方法研究]]问题的价值可能不易被理解，特别是对于不熟悉数据连接或整合的研究者而言。因为它是一个关于方法的问题，而非关于研究内容的问题，读者可能质疑其必要性。然而，整合是混合方法研究的核心，混合方法[[Research Question|研究问题]]正是传达这一核心意图的工具（Creswell & Creswell, 2022, Ch7）。
+
+---
 
 ## 来源
 

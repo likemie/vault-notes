@@ -38,6 +38,8 @@ updated: 2026-05-31
 > [!info]
 > 备择假设（alternative [[Hypothesis]]）是正式假设检验中预测[[Variable|变量]]间存在显著关系的假设形式。与[[Null Hypothesis|零假设]]（预测无关系或无差异）相对，备择假设提出实质性预测（Creswell & Creswell, 2022, p.144）。
 
+---
+
 ## 方向性备择假设
 
 > [!info]
@@ -49,6 +51,8 @@ updated: 2026-05-31
 > [!tip] 方向性词汇
 > [[Quantitative Research|量化研究]]的方向性词汇包括 affect, influence, predict, impact, determine, cause, relate 等（Creswell & Creswell, 2022, Ch7）。
 
+---
+
 ## 核心要素
 
 > [!abstract]
@@ -57,6 +61,8 @@ updated: 2026-05-31
 > 2. **包含理论**：最严格的[[Quantitative Research|量化研究]]以理论检验为起点，假设应逻辑上跟随或挑战该理论
 > 3. **方向性**：不仅预测存在关系，还预测关系的方向
 > 4. **使用方向性量化词汇**：affect, influence, predict, impact, determine, cause, relate
+
+---
 
 ## 写作范例
 
@@ -72,10 +78,14 @@ updated: 2026-05-31
 >
 > "____（理论名称____）posits that ____（解释[[Variable|变量]]间的关系____）。It is thus predicted that there will be a relationship between ____（预测变量____）and ____（结果变量____），such that ____（解释预测变量与结果变量之间效应的方向____）。"
 
+---
+
 ## 概念辨析
 
 > [!example]
 > **备择假设 vs 假设（广义）**：广义的假设（[[Hypothesis]]）泛指所有对[[Variable|变量]]间关系的预测性陈述。备择假设（alternative hypothesis）是正式假设检验框架中的专有术语，与[[Null Hypothesis|零假设]]配对使用。在研究写作中，作者通常直接陈述方向性备择假设，而不必每次都与零假设成对呈现。
+
+---
 
 ## 来源
 

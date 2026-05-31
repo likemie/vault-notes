@@ -37,6 +37,8 @@ updated: 2026-05-31
 
 零假设的典型表述是："There is no difference (or relationship)" between the groups（Creswell & Creswell, 2022, Ch7）。
 
+---
+
 ## 概念辨析
 
 > [!example]
@@ -51,6 +53,8 @@ updated: 2026-05-31
 >
 > 在正式假设检验中，研究者通常通过统计检验来判断是否拒绝零假设。如果零假设被拒绝，则备择假设得到支持（Creswell & Creswell, 2022, Ch7）。
 
+---
+
 ## 核心要素
 
 > [!abstract]
@@ -59,6 +63,8 @@ updated: 2026-05-31
 > - **总体层面**：是对总体（population）的预测，而非样本
 > - **可检验性**：可通过统计程序（如 t 检验、方差分析）进行检验
 > - **与[[Alternative Hypothesis|备择假设]]配对**：零假设和备择假设成对出现，构成假设检验的完整框架
+
+---
 
 ## 争议与批评
 

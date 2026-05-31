@@ -49,12 +49,16 @@ updated: 2026-05-31
 
 核心问题应聚焦于单一的[[Central Phenomenon|核心现象]]或概念。即使随着研究发展会出现多种影响因素，研究开始时仍应以单一焦点来深入探索。
 
+---
+
 ## 质性子问题
 
 > [!info]
 > 质性子问题（qualitative sub-questions）是将核心问题的[[Central Phenomenon|核心现象]]进一步细分收窄的问题，通常五至七个，成为数据收集（如访谈）中的具体问题（Creswell & Creswell, 2022, p.146）。
 
 Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative Research|质性研究]]问题（核心问题 + 子问题）。子问题随后成为访谈协议或指南中的具体问题，访谈通常以破冰问题开始，以总结性问题结束（Asmussen & Creswell, 1995）（Creswell & Creswell, 2022, Ch7）。
+
+---
 
 ## 核心要素
 
@@ -71,6 +75,8 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 > 8. **使用开放性问题**：除非质性路径另有要求，否则不引用文献或理论
 > 9. **指定参与者和研究场所**：如果信息尚未提供
 
+---
+
 ## 与特定质性路径的关联
 
 不同质性路径对核心问题的具体形式有不同要求（Creswell & Creswell, 2022, Ch7）：
@@ -79,6 +85,8 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 - **[[Phenomenology|现象学]]**：问题通常不加特定文献引用或问题类型学地宽泛陈述。Moustakas (1994) 建议询问参与者经历了什么，以及在什么情境下经历。现象学示例："What is it like for a mother to live with a teenage child who is dying of cancer?"（Nieswiadomy, 1993, p.151）
 - **[[Grounded Theory|扎根理论]]**：问题指向生成关于某一过程的理论，如"在医院环境中，照顾者和病人如何互动？"
 - **案例研究**：问题可包括对案例的描述以及研究案例中涌现的主题
+
+---
 
 ## 写作脚本与范例
 
@@ -109,6 +117,8 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 > - How is diversity encouraged by the central administration?
 > - How is diversity encouraged in the undergraduate classes on campus?
 > - How is diversity encouraged by the campus police force?
+
+---
 
 ## 来源
 
