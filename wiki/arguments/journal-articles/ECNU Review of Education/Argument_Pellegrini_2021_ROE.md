@@ -136,9 +136,11 @@ updated: 2026-05-23
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Evidence cannot be used as a kind of recipe book"（Pellegrini & Vivanet, 2021, p.35）
+> > “证据不能被当作一种菜谱来使用”
+> ("Evidence cannot be used as a kind of recipe book")（Pellegrini & Vivanet, 2021, p.35）
 >
-> > "Europe prefers the term 'evidence-informed education'"（Pellegrini & Vivanet, 2021, p.41）
+> > “欧洲更倾向于使用‘证据启发的教育（evidence-informed education）’一词”
+> ("Europe prefers the term 'evidence-informed education'")（Pellegrini & Vivanet, 2021, p.41）
 
 ## 局限性与批评
 

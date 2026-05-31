@@ -174,10 +174,12 @@ updated: 2026-05-23
 ## 关键引用
 
 > [!quote]
-> "Evidence does not exist in a void unaffected by prevailing educational policies and exigencies."（Ross & Morrison, 2021, p.111）
+> “证据并不存在于一个不受现行教育政策和紧迫需求影响的真空中。”
+> ("Evidence does not exist in a void unaffected by prevailing educational policies and exigencies.")（Ross & Morrison, 2021, p.111）
 
 > [!quote]
-> "Technology is not an operationally definable intervention but rather a mode for delivering instruction."（Ross & Morrison, 2021, p.113）
+> “技术不是一种在操作上可定义的干预，而是一种传递教学的模式。”
+> ("Technology is not an operationally definable intervention but rather a mode for delivering instruction.")（Ross & Morrison, 2021, p.113）
 
 ## 局限性与批评
 

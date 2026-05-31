@@ -64,7 +64,8 @@ updated: '2026-05-18'
 >
 > 论文反对将 EIP 简化为"使用研究证据"。多位特刊作者论证 EIP 必须被视为**专业判断、系统层面数据、课堂数据和研究证据的整合**。（p. 129）
 >
-> > "Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice." (Sharples, 2013, p.7, cited in Nelson & [[Campbell Collaboration|Campbell]], 2017, p. 129)
+> > “循证实践不是‘按图索骥（照菜谱做菜）’式的教学或监管，也不应该关于从一个不容挑战的权威位置来规定发生的事情。它是关于将专业技能与来自研究的最佳外部证据相结合，以提高实践质量。”
+> ("Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice.") (Sharples, 2013, p.7, cited in Nelson & [[Campbell Collaboration|Campbell]], 2017, p. 129)
 >
 > ### 2. "谁的证据算数？"是核心争议
 >
@@ -110,11 +111,14 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "[[Evidence-Informed Practice|EIP]] is not simply a technical activity; it is influenced by personal and professional values and beliefs, and affected by wider political and educational contexts, policies, and changes." (p. 128)
 >
-> > "Evidence needs to be planted in 'fertile ground' if it is to take root and grow." (p. 127)
+> > “如果证据要生根发芽，就需要被种植在‘肥沃的土壤’中。”
+> ("Evidence needs to be planted in 'fertile ground' if it is to take root and grow.") (p. 127)
 >
-> > "The process of being evidence-informed requires both rigorous evidence and a rigorous process of professional judgement." ([[Campbell Collaboration|Campbell]], 2016, cited in Nelson & Campbell, 2017, p. 132)
+> > “成为证据启发（evidence-informed）的过程，既需要严谨的证据，也需要严谨的[[Professional Judgment|专业判断]]过程。”
+> ("The process of being evidence-informed requires both rigorous evidence and a rigorous process of professional judgement.") ([[Campbell Collaboration|Campbell]], 2016, cited in Nelson & Campbell, 2017, p. 132)
 >
-> > "We must not fall into the trap of seeking to understand only those components that can easily be quantified." (p. 133)
+> > “我们绝不能落入仅仅寻求理解那些容易被量化的组成部分的陷阱中。”
+> ("We must not fall into the trap of seeking to understand only those components that can easily be quantified.") (p. 133)
 
 ## 局限性与批评
 

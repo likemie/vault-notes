@@ -74,9 +74,11 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "[[Graduate Attributes]] are generally understood as 'the qualities, skills and understandings a university community agrees its students would desirably develop during their time at the institution'"（Bowden et al., 2000, p.3; 引自 p.1341）
 >
-> > "the formation of UK graduate attributes appears quite diverse, which is likely to reflect the individual cultures and ethos of the respective university, rather than to emulate any national frameworks"（p.1350）
+> > “英国毕业生特质的形成显得非常多样化，这很可能反映了各自大学独特的文化和精神气质，而不是在模仿任何国家框架。”
+> ("the formation of UK graduate attributes appears quite diverse, which is likely to reflect the individual cultures and ethos of the respective university, rather than to emulate any national frameworks")（p.1350）
 >
-> > "Graduate attributes could be interpreted as a proxy for the 'ideal graduate'"（p.1351）
+> > “毕业生特质可以被解释为‘理想毕业生’的代理指标。”
+> ("Graduate attributes could be interpreted as a proxy for the 'ideal graduate'")（p.1351）
 
 ## 局限性与批评
 

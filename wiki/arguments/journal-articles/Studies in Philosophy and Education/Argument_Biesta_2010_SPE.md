@@ -45,7 +45,8 @@ updated: '2026-05-18'
 > [!info] 研究问题
 > [[Evidence-Based Education|证据本位教育]]（Evidence-Based Education）的设想——专业实践（如教育）应以科学研究证据为基础——在何种意义上是可行的？它对证据的期待在认识论、存在论和实践论三个维度上存在什么结构性缺陷？如果证据本位不可行，什么应该取而代之？
 >
-> > "The important question, therefore, is not whether or not there should be a role for evidence in professional action, but what kind of role it should play." (p. 492)
+> > “因此，重要的问题不在于证据在专业行动中是否应该发挥作用，而在于它应该发挥什么样的作用。”
+> ("The important question, therefore, is not whether or not there should be a role for evidence in professional action, but what kind of role it should play.") (p. 492)
 
 ## 理论框架
 
@@ -78,7 +79,8 @@ updated: '2026-05-18'
 > - 出路是转向 **[[John Dewey|Dewey]] 的交易认识论**：实验产生的知识是**关于过去行动与后果关系的知识**——它只能告诉我们"什么曾经有效"（what has worked），而非"什么将会有效"（what will work）
 > - 因此存在结构性的知识缺口：研究证据只能提供**可能性**，无法提供**确定性**
 >
-> > "A [[Transactional Epistemology]] allows us to make warranted assertions about what has worked in the past but not about what will work in the future." (p. 495)
+> > “一种[[Transactional Epistemology|交互性认识论]]允许我们对过去什么曾经有效做出有保证的断言，但不能对未来什么将会有效做出断言。”
+> ("A [[Transactional Epistemology]] allows us to make warranted assertions about what has worked in the past but not about what will work in the future.") (p. 495)
 >
 > **第二重：效力缺陷（Efficacy Deficit）——存在论维度**
 >
@@ -89,7 +91,8 @@ updated: '2026-05-18'
 >   - 符号：互动基础是意义和解释，而非物理推拉
 > - 因此，干预与效果之间的联系**至多是概率性的、非线性的**——这与医学或农业的因果逻辑截然不同
 >
-> > "Much talk about 'what works' operates on the assumption of a mechanistic ontology that is actually the exception, not the norm in the domain of human interaction." (p. 497)
+> > “许多关于‘什么有效’的谈论都是在机械论本体论的假设下运作的，而这在人类互动领域实际上是个例外，并非寻常状态。”
+> ("Much talk about 'what works' operates on the assumption of a mechanistic ontology that is actually the exception, not the norm in the domain of human interaction.") (p. 497)
 >
 > **第三重：应用缺陷（Application Deficit）——实践论维度**
 >
@@ -98,7 +101,8 @@ updated: '2026-05-18'
 > - Latour 将此称为 **计量学（metrology）**：创造"着陆跑道"让事实和机器可以"旅行"
 > - 因此，"应用知识"的叙事隐藏了实际发生的巨大改造工作——以及其中的**权力运作**
 >
-> > "No one has ever seen a laboratory fact move outside unless the lab is first brought to bear on an 'outside' situation and that situation is transformed so that it fits laboratory prescriptions." (Latour, 1983, p. 166, 引自 Biesta, p. 499)
+> > “从来没有人见过实验室事实走到外面，除非首先把实验室运用到‘外部’情境中，并将该情境进行转化，使其符合实验室的规定。”
+> ("No one has ever seen a laboratory fact move outside unless the lab is first brought to bear on an 'outside' situation and that situation is transformed so that it fits laboratory prescriptions.") (Latour, 1983, p. 166, 引自 Biesta, p. 499)
 >
 > ### 从证据本位到价值本位
 >
@@ -109,7 +113,8 @@ updated: '2026-05-18'
 > - 证据始终在**手段层面**运作；教育的方向来自**价值判断**
 > - 因此，**价值优先于证据**——这不是在否认证据，而是将其定位为从属角色
 >
-> > "Questions about 'what works' — that is questions about the effectiveness of educational actions — are always secondary to questions of purpose." (p. 500)
+> > “关于‘什么有效’的问题——也就是关于教育行动有效性的问题——总是次于关于目的的问题。”
+> ("Questions about 'what works' — that is questions about the effectiveness of educational actions — are always secondary to questions of purpose.") (p. 500)
 >
 > ### 两种价值判断
 >
@@ -132,15 +137,19 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Taken together these deficits not only raise some important questions about the very idea of evidence-based practice but also highlight the role of normativity, power and values." (p. 491)
+> > “总而言之，这些缺陷不仅对循证实践的理念本身提出了一些重要问题，而且还凸显了规范性、权力和价值观的作用。”
+> ("Taken together these deficits not only raise some important questions about the very idea of evidence-based practice but also highlight the role of normativity, power and values.") (p. 491)
 >
-> > "Educational systems are generally open systems... the connections between intervention and effect are non-linear and, at most, probabilistic." (p. 497)
+> > “教育系统通常是开放系统……干预与效果之间的联系是非线性的，并且最多只是概率性的。”
+> ("Educational systems are generally open systems... the connections between intervention and effect are non-linear and, at most, probabilistic.") (p. 497)
 >
 > > "[[Complexity Reduction]] should therefore be understood as a political act." (p. 498)
 >
-> > "Without normative orientations, without decisions about what is educationally desirable, without an articulation of the telos of educational practices, these practices simply do not exist — or at least they do not exist as educational practices." (p. 500–501)
+> > “如果没有规范性的导向，没有关于什么是教育上可取之物的决策，没有对教育实践最终目的（telos）的阐明，这些实践根本就不存在——或者至少它们不会作为教育实践而存在。”
+> ("Without normative orientations, without decisions about what is educationally desirable, without an articulation of the telos of educational practices, these practices simply do not exist — or at least they do not exist as educational practices.") (p. 500–501)
 >
-> > "If evidence were the only base for educational practice, educational practice would be entirely without direction. This is one reason why, in education, values come first." (p. 500)
+> > “如果证据是教育实践的唯一基础，教育实践将完全失去方向。这就是为什么在教育中，价值观必须放在首位的一个原因。”
+> ("If evidence were the only base for educational practice, educational practice would be entirely without direction. This is one reason why, in education, values come first.") (p. 500)
 
 ## 局限性与批评
 

@@ -80,9 +80,11 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "the discourses and practices of devolution, economic efficiency, competition and individualism constitute [[School Autonomy]] in ways that have decimated structural support for public schools, exacerbated stratification and residualization within the sector, undermined a collective approach to education as a public good and disadvantaged rural/remote, low SES and small schools"（Keddie et al., 2020, IJLE, p.12）
+> > “权力下放、经济效率、竞争和个人主义的话语和实践构成了[[School Autonomy|学校自主权]]，其方式摧毁了对公立学校的结构性支持，加剧了该部门内部的分层和边缘化，破坏了将教育作为公共产品的集体途径，并使农村/偏远地区、低社会经济地位（SES）和小型学校处于劣势。”
+> ("the discourses and practices of devolution, economic efficiency, competition and individualism constitute [[School Autonomy]] in ways that have decimated structural support for public schools, exacerbated stratification and residualization within the sector, undermined a collective approach to education as a public good and disadvantaged rural/remote, low SES and small schools")（Keddie et al., 2020, IJLE, p.12）
 >
-> > "To further public education as both ideal and practice (for the common good), we need a much more nuanced understanding of what is in the public interest, how the public is constituted and how we might define public education"（Boyask, 2020, p.4，引自 Keddie et al., 2020, IJLE, p.13）
+> > “为了进一步将公共教育作为理想和实践（为了共同利益）来推进，我们需要对什么是公共利益、公众是如何构成的以及我们可能如何定义公共教育，有一种更加细致入微的理解。”
+> ("To further public education as both ideal and practice (for the common good), we need a much more nuanced understanding of what is in the public interest, how the public is constituted and how we might define public education")（Boyask, 2020, p.4，引自 Keddie et al., 2020, IJLE, p.13）
 
 ## 局限性与批评
 

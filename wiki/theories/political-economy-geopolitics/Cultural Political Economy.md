@@ -24,8 +24,10 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 sources:
   - "[[Ch12_Erfurth_2022]]"
+  - "[[Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-05-19

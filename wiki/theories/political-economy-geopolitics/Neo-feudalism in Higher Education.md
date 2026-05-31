@@ -24,7 +24,8 @@ related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 sources:
   - "[[Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
@@ -106,7 +107,7 @@ updated: 2026-06-01
 ## 相关研究
 
 > [!example]
-> - Argument_Schulze-Cleven_2017_HighEduc — 特刊导论，将新封建主义引入高等教育研究
+> - [[Argument_Schulze-Cleven_2017_HighEduc]] — 特刊导论，将新封建主义引入高等教育研究
 > - Meyer & Zhou（本特刊）— 分析美国精英大学永久捐赠基金如何维持"赢者通吃"动力和上层阶级再生产
 > - Wieczorek, Beyer & Münch（本特刊）— 提出封地封建主义与俸禄封建主义的类型学
 > - Reitz（本特刊）— 论证学术评估和等级对资本主义[[Knowledge-Based Economy|知识经济]]的功能必要性
