@@ -9,9 +9,19 @@ type: concept
 tags:
   - subject/research-methodology
   - paradigm/constructivist
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Variable]]"
+  - "[[Purpose Statement]]"
+  - "[[Research Topic]]"
+  - "[[Constructivist Paradigm]]"
+related_theories:
+  - "[[Phenomenology]]"
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Quantitative Research]]"
+  - "[[Grounded Theory]]"
+  - "[[Ethnography]]"
+  - "[[Narrative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -28,7 +38,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 核心现象（central phenomenon）是质性研究中被探索或理解的单一概念或想法。它与量化研究中关联两个或多个变量或比较两个或多个群体的做法不同，质性目的陈述只推进一个单一现象，尽管研究可能在过程中演变为探究关系或比较群体（Creswell & Creswell, 2022, p.125）。
+> 核心现象（central phenomenon）是[[Qualitative Research|质性研究]]中被探索或理解的单一概念或想法。它与[[Quantitative Research|量化研究]]中关联两个或多个[[Variable|变量]]或比较两个或多个群体的做法不同，质性[[Purpose Statement|目的陈述]]只推进一个单一现象，尽管研究可能在过程中演变为探究关系或比较群体（Creswell & Creswell, 2022, p.125）。
 
 在质性目的陈述中，核心现象是研究者聚焦的中心——它决定了研究的方向、数据收集的方式和参与者选择的依据。研究者围绕核心现象收集来自参与者和研究场所的数据（Creswell & Creswell, 2022, p.125）。
 
@@ -38,17 +48,17 @@ updated: 2026-05-31
 ## 概念辨析
 
 > [!example]
-> **核心现象 vs 变量（Variable）**：核心现象是质性研究中需要探索和理解的单一整体性概念；变量是量化研究中可测量且在不同个体间变化的具体特征。核心现象不能用"自变量-因变量"的框架来框定，它的价值恰恰在于其开放性、未预设的复杂性。
+> **核心现象 vs [[Variable|变量]]（Variable）**：核心现象是[[Qualitative Research|质性研究]]中需要探索和理解的单一整体性概念；变量是[[Quantitative Research|量化研究]]中可测量且在不同个体间变化的具体特征。核心现象不能用"自变量-因变量"的框架来框定，它的价值恰恰在于其开放性、未预设的复杂性。
 
 > [!example]
-> **核心现象 vs 研究主题（Research Topic）**：研究主题是研究的宽泛领域或方向；核心现象是主题之下被具体聚焦和加以探索的那一个概念。例如，研究主题可能是"教师专业发展"，核心现象则可能是"教师身份的边缘化"。
+> **核心现象 vs [[Research Topic|研究主题]]（Research Topic）**：研究主题是研究的宽泛领域或方向；核心现象是主题之下被具体聚焦和加以探索的那一个概念。例如，研究主题可能是"教师专业发展"，核心现象则可能是"教师身份的边缘化"。
 
 ## 核心要素
 
 > [!abstract] 核心现象在质性目的陈述中的位置
-> 核心现象是质性目的陈述写作脚本中的第三个关键填空位置：
+> 核心现象是质性[[Purpose Statement|目的陈述]]写作脚本中的第三个关键填空位置：
 >
-> 本____质性研究____的目的是____（行动动词____）____（参与者____在____（研究场所____的__**核心现象**__。在研究目前阶段，__**核心现象**__的一般定义是____。
+> 本____[[Qualitative Research|质性研究]]____的目的是____（行动动词____）____（参与者____在____（研究场所____的__**核心现象**__。在研究目前阶段，__**核心现象**__的一般定义是____。
 
 根据 Creswell & Creswell (2022, p.125)，核心现象在研究中的几个特征：
 
@@ -60,14 +70,14 @@ updated: 2026-05-31
 ## 理论基础
 
 > [!tip]
-> 核心现象这一概念根植于质性研究的[[Constructivist Paradigm|建构主义]]认识论立场。建构主义认为意义是个体通过与世界的互动和社会历史背景建构的，研究的价值在于理解参与者的多元和复杂视角。核心现象正是研究者进入这一理解过程的聚焦点——它不是一个需要"检验"的预设定理，而是一个需要"探索"的意义空间。
+> 核心现象这一概念根植于[[Qualitative Research|质性研究]]的[[Constructivist Paradigm|建构主义]]认识论立场。建构主义认为意义是个体通过与世界的互动和社会历史背景建构的，研究的价值在于理解参与者的多元和复杂视角。核心现象正是研究者进入这一理解过程的聚焦点——它不是一个需要"检验"的预设定理，而是一个需要"探索"的意义空间。
 >
-> 在具体研究设计中，核心现象的定位方式因质性路径而异。现象学中的核心现象是参与者共享的生活经验"本质"（essence）；扎根理论中核心现象可能演变为核心范畴（core category）；民族志中它嵌入文化群体共享的行为模式；叙事研究中它是个体生活故事的组织线索（Creswell & Creswell, 2022, pp.125–128）。
+> 在具体研究设计中，核心现象的定位方式因质性路径而异。[[Phenomenology|现象学]]中的核心现象是参与者共享的生活经验"本质"（essence）；[[Grounded Theory|扎根理论]]中核心现象可能演变为核心范畴（core category）；[[Ethnography|民族志]]中它嵌入文化群体共享的行为模式；[[Narrative Research|叙事研究]]中它是个体生活故事的组织线索（Creswell & Creswell, 2022, pp.125–128）。
 
 ## 实证发现
 
 > [!success]
-> 研究表明核心现象的表述方式影响研究的走向。Creswell & Creswell (2022, p.126) 指出，使用非方向性语言（nondirectional language）对质性研究至关重要——比如探索"个体的自我表达经验"而非"个体的成功自我表达"。McCracken (1988) 将此称为质性研究中的"非方向性法则"（law of nondirection），即访谈者或目的陈述写作者很容易通过使用暗示方向性结果的词语而违反这一法则。即便是"有用的""积极的"这样看似中性的词，也可能为研究预设结果方向。
+> 研究表明核心现象的表述方式影响研究的走向。Creswell & Creswell (2022, p.126) 指出，使用非方向性语言（nondirectional language）对[[Qualitative Research|质性研究]]至关重要——比如探索"个体的自我表达经验"而非"个体的成功自我表达"。McCracken (1988) 将此称为质性研究中的"非方向性法则"（law of nondirection），即访谈者或[[Purpose Statement|目的陈述]]写作者很容易通过使用暗示方向性结果的词语而违反这一法则。即便是"有用的""积极的"这样看似中性的词，也可能为研究预设结果方向。
 
 ## 相关案例
 

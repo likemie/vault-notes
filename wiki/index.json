@@ -3016,6 +3016,16 @@
     ]
   },
   {
+    "title": "Central Phenomenon",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Central Phenomenon.md",
+    "aliases": [
+      "核心现象",
+      "central concept",
+      "central idea"
+    ]
+  },
+  {
     "title": "Coherence in Writing",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Coherence in Writing.md",
@@ -3311,6 +3321,17 @@
     ]
   },
   {
+    "title": "Nondirectional Language",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Nondirectional Language.md",
+    "aliases": [
+      "非方向性语言",
+      "law of nondirection",
+      "非方向性法则",
+      "nondirectional wording"
+    ]
+  },
+  {
     "title": "Performance Indicators",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Performance Indicators.md",
@@ -3372,6 +3393,17 @@
     ]
   },
   {
+    "title": "Purpose Statement",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Purpose Statement.md",
+    "aliases": [
+      "目的陈述",
+      "study aim",
+      "研究目的",
+      "purpose of the study"
+    ]
+  },
+  {
     "title": "Research Ethics",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Research Ethics.md",
@@ -3420,6 +3452,17 @@
       "测量量表",
       "measurement scale",
       "scales of measurement"
+    ]
+  },
+  {
+    "title": "Script (Research Writing)",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Script (Research Writing).md",
+    "aliases": [
+      "写作脚本",
+      "研究写作脚本",
+      "research writing script",
+      "fill-in script"
     ]
   },
   {

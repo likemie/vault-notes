@@ -35,7 +35,6 @@ extracted_to:
   - "[[Scale of Measurement]]"
   - "[[Social Justice Theory]]"
   - "[[Theoretical End Point]]"
-  - "[[Theoretical Perspective]]"
   - "[[Theoretical Standpoint]]"
   - "[[Transformative Paradigm]]"
   - "[[Complex Mixed Methods Design]]"
@@ -58,9 +57,14 @@ extracted_to:
   - "[[Inverted Triangle Literature Search]]"
   - "[[Research Problem]]"
   - "[[Deficiencies Model for an Introduction]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Qualitative Research]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Central Phenomenon]]"
+  - "[[Nondirectional Language]]"
+  - "[[Purpose Statement]]"
+  - "[[Script (Research Writing)]]"
+  - "[[Theoretical Perspective]]"
 processed_date: 2026-05-30
 ---
 
