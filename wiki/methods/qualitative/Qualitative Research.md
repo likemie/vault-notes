@@ -2,6 +2,10 @@
 title: Qualitative Research
 aliases:
   - 质性研究
+  - 描述性方法
+  - 质性描述性方法
+  - Qualitative Descriptive Method
+  - descriptive qualitative research
 summary: "通过访谈、观察和文本材料理解行动者经验、意义建构与实践情境的研究方法，适合解释教育过程中的复杂关系"
 type: method
 method_type: qualitative
@@ -14,12 +18,13 @@ related_concepts:
   - "[[Variable]]"
   - "[[Postpositivism]]"
   - "[[Recommendations for Practice]]"
-  - "[[Hypothesis]]"
-related_theories: []
+related_theories:
+  - "[[Phenomenology]]"
 related_methods:
   - "[[Non-intervention Research]]"
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Intervention Research]]"
+  - "[[Grounded Theory]]"
   - "[[Observational and Correlational Research]]"
 related_persons: []
 related_arguments:
@@ -69,12 +74,35 @@ updated: 2026-05-30
 > [!info] 相关理论
 > - [[Non-intervention Research]] — 质性研究是 Brady et al. (2023) 分类中的非[[Intervention Research|干预研究]]类型之一。
 
+## 方法变体：描述性方法
+
+质性描述性方法（Qualitative Descriptive Method）是质性研究中一种贴近数据本身的分析路径，优先呈现参与者语言和经验的直接面貌，避免过度理论化（Creswell & Creswell, 2022, 第9章）。
+
+> [!example] 研究程序
+> - 反复阅读数据以熟悉内容
+> - 识别数据中重复出现的模式和话题
+> - 将相似信息归类，形成描述性主题
+> - 以贴近原始数据的语言呈现主题，减少抽象理论术语的使用
+> - 保持对数据整体情境的敏感性
+
+> [!success] 适用场景
+> 适合研究者希望获得对某一现象的直截了当的描述时，适合现象本身尚缺乏足够研究积累的探索性阶段，也适合需要向实践者清晰传达参与者经验的应用性研究。
+
+> [!warning] 局限性
+> 描述性方法可能被认为缺乏理论深度，在追求理论贡献的学术发表中可能面临挑战；研究者难以完全摆脱自身的解释框架。
+
+> [!tip] 与相近方法的区别
+> - vs [[Grounded Theory|扎根理论]] — 扎根理论的目标是生成抽象理论，描述性方法的目标是分类和呈现主题本身
+> - vs [[Phenomenology|现象学]] — 现象学聚焦于体验的本质结构，描述性方法聚焦于内容的显性主题
+
+---
+
 ## 与相关方法的区别
 
 
 - vs [[Observational and Correlational Research]] — 两者都不操纵自[[Variable|变量]]；观察/相关研究包含量化数据，质性研究使用访谈、观察等文本数据（Brady et al., 2023, p.4）。
 - vs [[Mixed Method and Multi-method Research]] — 混合方法/多方法研究同时包含量化和质性数据；质性研究在 Brady et al. (2023) 的编码中只以质性数据为基础（Brady et al., 2023, p.4）。
-- vs [[Intervention Research]] — 质性研究可帮助理解教育情境和参与过程，但在该文分类中不操纵变量；干预研究则通过引入处理来检验实践[[Hypothesis|假设]]（Brady et al., 2023, pp.2, 4）。
+- vs [[Intervention Research]] — 质性研究可帮助理解教育情境和参与过程，但在该文分类中不操纵变量；干预研究则通过引入处理来检验实践假设（Brady et al., 2023, pp.2, 4）。
 - vs [[Recommendations for Practice]] — 质性研究可以提出实践启发，但若建议暗含"改变实践会改善结果"的因果结构，就需要说明其证据边界（Brady et al., 2023, pp.6-7, 9）。
 
 ## 使用此方法的研究

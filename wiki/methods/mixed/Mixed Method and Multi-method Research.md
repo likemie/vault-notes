@@ -7,6 +7,11 @@ aliases:
   - 混合方法研究
   - Mixed Method Research
   - Multi-method Research
+  - 复杂混合方法设计
+  - 嵌入型混合方法设计
+  - Complex Mixed Methods Design
+  - advanced mixed methods design
+  - embedded mixed methods design
 summary: "结合量化与质性资料或并用多种研究技术的研究方法，适合同时处理结果分布、行动过程和情境解释"
 type: method
 method_type: mixed
@@ -18,6 +23,8 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Postpositivism]]"
+  - "[[Social Justice Theory]]"
+  - "[[Theoretical Perspective]]"
   - "[[Recommendations for Practice]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
@@ -65,6 +72,14 @@ updated: 2026-05-30
 > - **聚敛式设计（Convergent Design）** 同时收集量化和质性数据，将两者的分析结果合并以形成综合解释。
 > - **解释性序列设计（Explanatory Sequential Design）** 先收集并分析量化数据，再用质性数据深入解释量化结果。
 > - **探索性序列设计（Exploratory Sequential Design）** 先收集并分析质性数据以探索现象，再用量化数据检验或推广质性发现。
+> 
+> 复杂混合方法设计（Complex Mixed Methods Design）将一种或多种核心设计嵌入更大的框架或流程之中，常见形态包括：
+> - **嵌入实验**：在实验结束后收集质性数据，帮助解释量化结果
+> - **嵌入案例研究框架**：在案例研究框架内使用核心设计
+> - **嵌入[[Social Justice Theory|社会正义理论]]**：以社会正义[[Theoretical Perspective|理论视角]]作为总体框架，其中同时包含量化和质性数据
+> - **嵌入评估程序**：在从需求评估到项目或实验干预检验的不同评估阶段中分别使用核心设计
+> 
+> 复杂设计适合大规模、多阶段项目，但对研究者的方法论能力和项目管理能力要求高，多阶段整合可能使研究周期大幅延长。
 > 
 > 分析整合的关键工具是[[Joint Display|联合展示]]，将量化与质性数据或结果以表格形式并列，研究者检视表格后提取整合性洞察。
 > 

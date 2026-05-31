@@ -4441,17 +4441,6 @@
     ]
   },
   {
-    "title": "Complex Mixed Methods Design",
-    "type": "method",
-    "path": "wiki/methods/mixed/Complex Mixed Methods Design.md",
-    "aliases": [
-      "复杂混合方法设计",
-      "嵌入型混合方法设计",
-      "advanced mixed methods design",
-      "embedded mixed methods design"
-    ]
-  },
-  {
     "title": "Formative Program Evaluation",
     "type": "method",
     "path": "wiki/methods/mixed/Formative Program Evaluation.md",
@@ -4506,7 +4495,12 @@
       "多方法研究",
       "混合方法研究",
       "Mixed Method Research",
-      "Multi-method Research"
+      "Multi-method Research",
+      "复杂混合方法设计",
+      "嵌入型混合方法设计",
+      "Complex Mixed Methods Design",
+      "advanced mixed methods design",
+      "embedded mixed methods design"
     ]
   },
   {
@@ -4670,22 +4664,15 @@
     ]
   },
   {
-    "title": "Qualitative Descriptive Method",
-    "type": "method",
-    "path": "wiki/methods/qualitative/Qualitative Descriptive Method.md",
-    "aliases": [
-      "描述性方法",
-      "质性描述性方法",
-      "qualitative descriptive method",
-      "descriptive qualitative research"
-    ]
-  },
-  {
     "title": "Qualitative Research",
     "type": "method",
     "path": "wiki/methods/qualitative/Qualitative Research.md",
     "aliases": [
-      "质性研究"
+      "质性研究",
+      "描述性方法",
+      "质性描述性方法",
+      "Qualitative Descriptive Method",
+      "descriptive qualitative research"
     ]
   },
   {

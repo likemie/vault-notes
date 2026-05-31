@@ -16,12 +16,10 @@ extracted_to:
   - "[[Variable]]"
   - "[[Joint Display]]"
   - "[[Literature Map]]"
-  - "[[Mixed Method and Multi-method Research]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Narrative Research]]"
   - "[[Qualitative Descriptive Method]]"
-  - "[[Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Quantitative Research]]"
   - "[[Single-Subject Design]]"
@@ -56,11 +54,13 @@ extracted_to:
   - "[[Research Ethics]]"
   - "[[Voice, Tense, and Concision in Academic Writing]]"
   - "[[Writing Habit]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Introduction (Research Writing)]]"
   - "[[Inverted Triangle Literature Search]]"
   - "[[Research Problem]]"
   - "[[Deficiencies Model for an Introduction]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Qualitative Research]]"
 processed_date: 2026-05-30
 ---
 
