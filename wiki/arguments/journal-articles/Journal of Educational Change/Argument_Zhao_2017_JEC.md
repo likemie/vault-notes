@@ -75,11 +75,14 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "I have not yet found an educational product that comes with a warning label carrying information such as 'this program works in raising your students' test scores in reading, but may make them hate reading forever.'" (p.4)
+> > “我还没有发现哪个教育产品带有一个包含类似信息的警告标签：‘该项目在提高你学生的阅读考试分数方面有效，但可能会让他们永远讨厌阅读。’”
+> ("I have not yet found an educational product that comes with a warning label carrying information such as 'this program works in raising your students' test scores in reading, but may make them hate reading forever.'") (p.4)
 >
-> > "The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor." ([[Campbell Collaboration|Campbell]], 1976, p.49, cited p.15)
+> > “任何量化社会指标越是被用于社会决策，它就越容易受到腐败压力的影响，也就越容易扭曲和腐蚀它旨在监控的社会过程。”
+> ("The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.") ([[Campbell Collaboration|Campbell]], 1976, p.49, cited p.15)
 >
-> > "Teaching constrains children's exploration and discovery. Children who were taught a function of a toy performed fewer kinds of actions of the toy and discovered fewer of its other functions." (Bonawitza et al., 2011, p.325, cited p.8)
+> > “教学限制了儿童的探索和发现。被教授了玩具某项功能的儿童，对玩具执行的动作种类更少，发现的玩具其他功能也更少。”
+> ("Teaching constrains children's exploration and discovery. Children who were taught a function of a toy performed fewer kinds of actions of the toy and discovered fewer of its other functions.") (Bonawitza et al., 2011, p.325, cited p.8)
 
 ## 局限性与批评
 

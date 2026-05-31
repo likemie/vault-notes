@@ -95,13 +95,17 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "An international consensus seems to have developed in educational research—and among educational planners and policymakers—during the last 10–15 years proclaiming that learning is, and must be, a visible phenomenon. This paper questions this predominant view."（Larsen, 2019, p.1）
+> > “在过去10-15年间，教育研究界——以及教育规划者和决策者之间——似乎形成了一项国际共识，宣称学习是，也必须是一种可见的现象。本文对这种主导观点提出了质疑。”
+> ("An international consensus seems to have developed in educational research—and among educational planners and policymakers—during the last 10–15 years proclaiming that learning is, and must be, a visible phenomenon. This paper questions this predominant view.")（Larsen, 2019, p.1）
 >
-> > "The thesis is that powerful scientific and political adherents of learning cannot see what they cannot see—neither when they see what they (think they) see, nor when they do not see what they do not (want to) see."（Larsen, 2019, p.1）
+> > “其论点是，对学习拥有强大科学和政治话语权的拥护者们看不到他们看不见的东西——无论是在他们看到他们（以为自己）看到的东西时，还是在他们没有看到他们不（想）看到的东西时。”
+> ("The thesis is that powerful scientific and political adherents of learning cannot see what they cannot see—neither when they see what they (think they) see, nor when they do not see what they do not (want to) see.")（Larsen, 2019, p.1）
 >
-> > "The purpose of education is much more demanding and challenging than enhancing [[Visible Learning]] processes and results."（Larsen, 2019, p.10）
+> > “教育的目的比增强可见的学习过程和结果要求更高，也更具挑战性。”
+> ("The purpose of education is much more demanding and challenging than enhancing [[Visible Learning]] processes and results.")（Larsen, 2019, p.10）
 >
-> > "What goes on in the brain can never be directly depicted in the visible learning paradigm. Thinking is more than learning and learning is more than visible learning."（Larsen, 2019, p.6）
+> > “大脑中正在发生的事情永远无法在可见的学习范式中被直接描绘出来。思考不仅仅是学习，而学习也不仅仅是可见的学习。”
+> ("What goes on in the brain can never be directly depicted in the visible learning paradigm. Thinking is more than learning and learning is more than visible learning.")（Larsen, 2019, p.6）
 
 ## 局限性与批评
 

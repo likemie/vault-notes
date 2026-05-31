@@ -143,11 +143,14 @@ updated: 2026-05-22
 ## 关键引用
 
 > [!quote] 关键引用
-> > "One superior teaching dimension consists of structure and interaction."（Håkansson, 2015, p.584）
+> > “一个卓越的教学维度是由结构和互动构成的。”
+> ("One superior teaching dimension consists of structure and interaction.")（Håkansson, 2015, p.584）
 >
-> > "The quality of interplay and communication between teacher and pupil is considered to be crucial."（Håkansson, 2015, p.595）
+> > “师生之间互动与交流的质量被认为是至关重要的。”
+> ("The quality of interplay and communication between teacher and pupil is considered to be crucial.")（Håkansson, 2015, p.595）
 >
-> > "A too far-reaching individualisation ... has no research support, but, on the other hand, neither does a one-sided pulpit teaching."（Håkansson, 2015, p.594）
+> > “一种走得太远的个性化……没有研究支持，但另一方面，单向的讲坛式教学也没有。”
+> ("A too far-reaching individualisation ... has no research support, but, on the other hand, neither does a one-sided pulpit teaching.")（Håkansson, 2015, p.594）
 
 ## 局限性与批评
 

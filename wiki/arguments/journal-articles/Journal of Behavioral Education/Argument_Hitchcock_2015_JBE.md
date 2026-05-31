@@ -93,7 +93,8 @@ updated: '2026-05-18'
 >
 > WWC 在推广性处理上的核心立场（Hitchcock et al., 2015, p.466）：
 >
-> > "Generalization details are not evaluated but rather described in detail so that consumers can make their own determinations about generalization."
+> > “概括（Generalization）细节不被评估，而是被详细描述，以便消费者能够对概括性做出自己的决定。”
+> ("Generalization details are not evaluated but rather described in detail so that consumers can make their own determinations about generalization.")
 >
 > 原因是：进行证据综合的审查者"可能不知道信息消费者希望推广到哪个点"（p.463）。因此 WWC 的策略是：(a) 通过审查协议框定推广目标；(b) 详细描述研究细节供消费者自行判断；(c) 仅设一个证据充分性阈值（5-3-20）。
 >
@@ -124,13 +125,17 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "It is important to note that these standards are not used in isolation, and thus generalization details cannot be fully understood without also considering the review protocols and a tool called the [[What Works Clearinghouse|WWC]] [[21st Century Skills and Competencies Discourse|SCD]] review guide." (p.460)
+> > “重要的是要注意，这些标准并非孤立使用，因此如果不考虑审查方案以及被称为 [[What Works Clearinghouse|WWC]] [[21st Century Skills and Competencies Discourse|SCD]]（[[Single-Case Design|单一个案设计]]）审查指南的工具，就无法完全理解概括性的细节。”
+> ("It is important to note that these standards are not used in isolation, and thus generalization details cannot be fully understood without also considering the review protocols and a tool called the [[What Works Clearinghouse|WWC]] [[21st Century Skills and Competencies Discourse|SCD]] review guide.") (p.460)
 >
-> > "The WWC addresses the [[External Validity]] of findings from multiple [[Single-Case Design|SCD]] studies by taking into consideration what Maggin et al. (2013) describe as criteria for assessing generality." (pp.463–464)
+> > “WWC 通过考虑 Maggin 等人 (2013) 描述的评估一般性的标准，来解决来自多项SCD（单一个案设计）研究的发现的[[External Validity|外部效度]]问题。”
+> ("The WWC addresses the [[External Validity]] of findings from multiple [[Single-Case Design|SCD]] studies by taking into consideration what Maggin et al. (2013) describe as criteria for assessing generality.") (pp.463–464)
 >
-> > "Generalization details are not evaluated but rather described in detail so that consumers can make their own determinations about generalization." (p.466)
+> > “概括（Generalization）细节不被评估，而是被详细描述，以便消费者能够对概括性做出自己的决定。”
+> ("Generalization details are not evaluated but rather described in detail so that consumers can make their own determinations about generalization.") (p.466)
 >
-> > "These criteria are in fact somewhat arbitrary but they are based on both expert judgment and logic and they are meant to be transparent." (p.466, 论 5-3-20 规则)
+> > “这些标准事实上有些武断，但它们基于专家判断和逻辑，并且旨在保持透明。”
+> ("These criteria are in fact somewhat arbitrary but they are based on both expert judgment and logic and they are meant to be transparent.") (p.466, 论 5-3-20 规则)
 
 ## 局限性与批评
 

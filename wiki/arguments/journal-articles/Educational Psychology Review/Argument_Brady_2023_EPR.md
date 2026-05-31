@@ -76,11 +76,14 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The percentage of articles employing experimental methods has continued to decrease (20%), whereas qualitative methods have increased (22%)."（Brady et al., 2023, p.1）
+> > “采用实验方法的文章比例继续下降（20%），而质性方法则有所上升（22%）。”
+> ("The percentage of articles employing experimental methods has continued to decrease (20%), whereas qualitative methods have increased (22%).")（Brady et al., 2023, p.1）
 >
-> > "In all approaches combined, in 2020, RFP were included in about two out of three nonintervention articles."（Brady et al., 2023, p.7）
+> > “在结合所有路径的情况下，2020 年，大约三分之二的非干预文章中包含了[[Recommendations for Practice|实践建议]]（RFP）。”
+> ("In all approaches combined, in 2020, RFP were included in about two out of three nonintervention articles.")（Brady et al., 2023, p.7）
 >
-> > "The underlying assumption of this study is that any RFP that is not based on sound methodology that can identify causal relations is suspect."（Brady et al., 2023, p.9）
+> > “本研究的潜在假设是，任何未建立在能识别[[Causality|因果关系]]的严谨方法论基础上的实践建议（RFP），都是值得怀疑的。”
+> ("The underlying assumption of this study is that any RFP that is not based on sound methodology that can identify causal relations is suspect.")（Brady et al., 2023, p.9）
 
 ## 局限性与批评
 

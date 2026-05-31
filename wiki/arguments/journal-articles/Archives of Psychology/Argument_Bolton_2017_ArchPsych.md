@@ -81,9 +81,11 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "This review suggests that Piagetian development theory may be closely aligned with changes in the anatomical and physiological development of the brain—in particular, the [[Prefrontal Cortex]] and its associated connections."（Bolton & [[John Hattie|Hattie]], 2017, p.1）
+> > “本综述表明，[[Jean Piaget|皮亚杰]]的发展理论可能与大脑解剖和生理发展的变化——特别是[[Prefrontal Cortex|前额叶皮层]]及其相关连接的变化——紧密一致。”
+> ("This review suggests that Piagetian development theory may be closely aligned with changes in the anatomical and physiological development of the brain—in particular, the [[Prefrontal Cortex]] and its associated connections.")（Bolton & [[John Hattie|Hattie]], 2017, p.1）
 >
-> > "It is the claim of this article that the changes are a function of the development of executive functioning as the brain develops."（Bolton & Hattie, 2017, p.3–4）
+> > “本文的主张是，这些变化是随着大脑发育，[[Executive Function|执行功能]]发展的一个函数。”
+> ("It is the claim of this article that the changes are a function of the development of executive functioning as the brain develops.")（Bolton & Hattie, 2017, p.3–4）
 
 ## 局限性与批评
 

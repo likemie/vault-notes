@@ -21,39 +21,8 @@
               "icon": "lucide-file",
               "title": "Argument_Creswell_2022_SAGE"
             }
-          },
-          {
-            "id": "287754725b460774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/concepts/research-methodology/Internal Validity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Internal Validity"
-            }
-          },
-          {
-            "id": "e9f3754695c6386d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/methods/quantitative/Analysis of Variance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Analysis of Variance"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,22 +189,31 @@
       "obsidian-custom-frames:Open PDF Reader": false
     }
   },
-  "active": "287754725b460774",
+  "active": "1938c14344215b35",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Higher Education",
+    "wiki/theories/political-economy-geopolitics/Neo-feudalism in Higher Education.md",
+    "wiki/concepts/political-economy-geopolitics/Financialization of Higher Education.md",
+    "wiki/concepts/higher-education/Non-monetary Competition.md",
+    "wiki/concepts/political-economy-geopolitics/Discursive Stratification.md",
+    "wiki/concepts/political-economy-geopolitics/Academic Capitalism.md",
+    "scripts/translate_quotes_batch_8.py",
+    "raw/s10734-017-0114-4.pdf",
+    "scripts/translate_quotes_batch_7.py",
+    "wiki/methods/quantitative/Analysis of Variance.md",
+    "wiki/concepts/research-methodology/Internal Validity.md",
+    "wiki/concepts/research-methodology/External Validity.md",
+    "wiki/concepts/research-methodology/Variable.md",
     "wiki/concepts/research-methodology/Manipulation Check.md",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-    "wiki/concepts/research-methodology/Internal Validity.md",
     "wiki/methods/quantitative/Random Assignment.md",
-    "wiki/concepts/research-methodology/External Validity.md",
     "scripts/translate_quotes_batch_6.py",
-    "wiki/methods/quantitative/Analysis of Variance.md",
     "wiki/concepts/sociology-of-education/Tracking.md",
     "wiki/methods/quantitative/Analysis of Covariance.md",
     "wiki/methods/quantitative/Survey Research.md",
     "wiki/concepts/research-methodology/Internal Consistency and Cronbach's Alpha.md",
     "wiki/concepts/research-methodology/Construct Validity in Quantitative Measurement.md",
     "wiki/methods/quantitative/Pilot Testing.md",
-    "wiki/concepts/research-methodology/Variable.md",
     "wiki/methods/quantitative/Multiple Regression.md",
     "wiki/concepts/research-methodology/Internal Consistency (Cronbach's Alpha).md",
     "wiki/concepts/research-methodology/Response Bias.md",
@@ -243,13 +221,7 @@
     "wiki/concepts/research-methodology/Research Question.md",
     "wiki/concepts/research-methodology/Construct Validity (Quantitative).md",
     "wiki/concepts/research-methodology/Test-Retest Reliability.md",
-    "wiki/persons/usa/Egon G. Guba.md",
-    "wiki/methods/quantitative/Random Sampling.md",
-    "wiki/methods/quantitative/Quantitative Research.md",
-    "wiki/methods/quantitative/Power Analysis.md",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md.tmp.40504.52b79276f08c",
-    "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md",
-    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
     "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf"
   ]
 }

@@ -69,13 +69,17 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "When teachers see teaching and learning through the eyes of their students, and when students become their own teachers then outcomes and engagement are maximized." (p.79)
+> > “当教师透过学生的眼睛来看待教与学，并且当学生成为他们自己的老师时，成果和参与度就会最大化。”
+> ("When teachers see teaching and learning through the eyes of their students, and when students become their own teachers then outcomes and engagement are maximized.") (p.79)
 >
-> > "As nearly every intervention can show some evidence of success, we need to ask not 'What works?' but 'What works best' and seek comparisons between different ways of influencing student learning." (p.79)
+> > “由于几乎所有的干预措施都能显示出一些成功的证据，我们需要问的不是‘什么有效？’而是‘什么最有效’，并寻求对影响学生学习的不同方式进行比较。”
+> ("As nearly every intervention can show some evidence of success, we need to ask not 'What works?' but 'What works best' and seek comparisons between different ways of influencing student learning.") (p.79)
 >
-> > "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." (p.81)
+> > “这较少关乎教师在教学中做了什么，而更多关乎他们如何思考自己的角色。他们对教与学的心智框架或思维方式，才是最关键的。”
+> ("It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical.") (p.81)
 >
-> > "The fundamental premise of [[Visible Learning]] is that when educators focus on defining, evaluating, and understanding their impact this leads to maximizing student learning and achievement." (p.89)
+> > “可见的学习的基本前提是，当教育工作者专注于定义、评估和理解他们的影响时，这会导致学生学习和成就的最大化。”
+> ("The fundamental premise of [[Visible Learning]] is that when educators focus on defining, evaluating, and understanding their impact this leads to maximizing student learning and achievement.") (p.89)
 
 ## 局限性与批评
 

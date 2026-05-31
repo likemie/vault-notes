@@ -51,7 +51,8 @@ updated: 2026-05-18
 > 1. 通识教育科为何以及如何成为香港高中必修科目？
 > 2. 通识教育科为何在 2021 年被"[[Citizenship and Social Development|公民与社会发展科]]"取代？
 >
-> > "To make sense of this curriculum change, we address two questions: Why and how did [[Liberal Studies|LS]] emerge as a compulsory school subject; and why was it replaced by CSD in 2021?" (p. 480)
+> > “为了理解这种课程变革，我们解决两个问题：通识教育（[[Liberal Studies|LS]]）为何以及如何成为一门必修课；以及为什么它在 2021 年被 CSD（公民与社会发展科）所取代？”
+> ("To make sense of this curriculum change, we address two questions: Why and how did [[Liberal Studies|LS]] emerge as a compulsory school subject; and why was it replaced by CSD in 2021?") (p. 480)
 >
 > 论文强调将创立与废除两阶段并置分析，此前的研究仅各自关注其一。
 
@@ -108,7 +109,8 @@ updated: 2026-05-18
 >
 > LS 的诞生和死亡都深植于香港的政治变迁，但运作逻辑截然不同：
 >
-> > "The emergence of LS was linked to the post-handover restructuring of the education system, the quest for educational reform and facilitated by a process of referencing global trends and overseas models. Its demise was the result of direct state intervention following the introduction of the National Security Law in 2020." (p. 480)
+> > “LS（通识教育）的出现与回归后教育体系的重组、对教育改革的追求相关，并受到参考全球趋势和海外模式过程的推动。它的消亡是 2020 年引入国家安全法后，国家直接干预的结果。”
+> ("The emergence of LS was linked to the post-handover restructuring of the education system, the quest for educational reform and facilitated by a process of referencing global trends and overseas models. Its demise was the result of direct state intervention following the introduction of the National Security Law in 2020.") (p. 480)
 
 ## 主要发现
 
@@ -126,13 +128,17 @@ updated: 2026-05-18
 ## 关键引用
 
 > [!quote] 关键引用
-> > "All intended curriculum changes are at their core political." — Cuban (1992, p. 224)，被论文引用为分析出发点 (p. 480)
+> > “所有预期的课程变革，其核心都是政治性的。”
+> ("All intended curriculum changes are at their core political.") — Cuban (1992, p. 224)，被论文引用为分析出发点 (p. 480)
 >
-> > "Local problems are sometimes created in line with packaged global solutions, rather than the other way round." — Steiner-Khamsi (2012, p. 7)，论文以此解释 [[Liberal Studies|LS]] 创立中全球化论述的角色 (p. 482)
+> > “有时，本地问题是根据打包好的全球解决方案而被创造出来的，而不是相反。”
+> ("Local problems are sometimes created in line with packaged global solutions, rather than the other way round.") — Steiner-Khamsi (2012, p. 7)，论文以此解释 [[Liberal Studies|LS]] 创立中全球化论述的角色 (p. 482)
 >
-> > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." — Vickers & Morris (2022, p. 47)，为废除阶段提供解释框架 (p. 482-483)
+> > “将一个充斥着阶级、居住地、文化和种族深刻分歧的社会维系在一起的重任，很大程度上落在了学校教育和宣传上，并辅以压制性的暴力。”
+> ("The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence.") — Vickers & Morris (2022, p. 47)，为废除阶段提供解释框架 (p. 482-483)
 >
-> > "If there were an intention to 'kill' LS, it would be more straightforward to abolish the subject." — 教育局新闻稿 (EDB, 2021b)，论文将其作为官方修辞策略的证据 (p. 489)
+> > “如果有意要‘扼杀’通识科（LS），直接废除该科目会更直截了当。”
+> ("If there were an intention to 'kill' LS, it would be more straightforward to abolish the subject.") — 教育局新闻稿 (EDB, 2021b)，论文将其作为官方修辞策略的证据 (p. 489)
 
 ## 局限性与批评
 
