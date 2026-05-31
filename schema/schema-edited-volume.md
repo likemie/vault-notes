@@ -27,6 +27,8 @@ wiki/arguments/books/<book-folder>/
 - `wiki/arguments/books/<book-folder>/Argument_ChapterAuthor_Year_关键词.md`：该章论证框架
 - `wiki/arguments/books/<book-folder>/Argument_Editor_Year_Publisher.md`：整本论文集框架
 
+图片、表格和新建条目的 Argument 提及规则按 `vault-schema.md` 执行。
+
 ---
 
 ## 处理前言／整本论文集 overview
@@ -56,9 +58,8 @@ wiki/arguments/books/<book-folder>/
 若没有前言 PDF，可省略 `--file`。
 
 7. 在正文中自然使用 wikilink，在 `## 来源` 章节列出来源。
-8. 图片、表格和新建条目的 Argument 提及规则按 `vault-schema.md` 执行。
-9. 不手动维护 YAML `related_*` 和 `sources`。
-10. 执行脚本运行规则：只自动运行 `.venv/bin/python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
+8. 不手动维护 YAML `related_*` 和 `sources`。
+9. 执行脚本运行规则：只自动运行 `.venv/bin/python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
 
@@ -97,9 +98,8 @@ wiki/arguments/books/<book-folder>/
      - `part_of: "[[Editor_Year_Publisher]]"`
 9. 用 `str_replace` 更新 overview 的「已处理章节」列表，加入该章 Argument 链接。
 10. 在正文中自然使用 wikilink，在 `## 来源` 章节列出 source wikilink。
-11. 图片、表格和新建条目的 Argument 提及规则按 `vault-schema.md` 执行。
-12. 不手动维护 YAML `related_*` 和 `sources`。
-13. 执行脚本运行规则：只自动运行 `.venv/bin/python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
+11. 不手动维护 YAML `related_*` 和 `sources`。
+12. 执行脚本运行规则：只自动运行 `.venv/bin/python3 scripts/wiki_index.py`，随后询问用户是否运行标准脚本流程。
 
 ---
 

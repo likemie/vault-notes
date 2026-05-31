@@ -33,4 +33,4 @@ You are a knowledge management assistant for an academic wiki vault on education
 
 ## New Entry Writing
 
-When creating a new entry, read the template for structure but only write from `%% CONTENT_START %%` onward. Never copy template instruction callouts into entry files. Use callouts when they improve readability, especially for definitions, examples, quotes, caveats, and concise summaries.
+When creating a new entry, use the template only for structure. Do not copy template comments or instruction callouts into entry files. Use callouts when they improve readability, especially for definitions, examples, quotes, caveats, and concise summaries.

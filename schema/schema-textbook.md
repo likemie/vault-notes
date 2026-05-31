@@ -74,11 +74,7 @@ wiki/arguments/books/<book-folder>/
 
 #### 概览
 
-跟随教材自身逻辑，记录作者每一步思路如何展开。文本表格和图片按 `vault-schema.md` 处理：
-
-> [!example]- 图片占位
-> 图X-X：名称  
-> ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Descriptive_Name.jpg)
+跟随教材自身逻辑，记录作者每一步思路如何展开。文本表格和图片按 `vault-schema.md` 处理。
 ```
 
 写作时不以“论文 / 本文 / 本章 / 作者 / 研究者 / 本研究 / 论证”作为常规主语，直接叙述论证、证据和结论。
