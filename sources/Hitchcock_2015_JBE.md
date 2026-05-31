@@ -4,11 +4,11 @@ extracted_to:
   - "[[Argument_Hitchcock_2015_JBE]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[5-3-20 Rule]]"
+  - "[[WWC SCD Pilot Standards]]"
   - "[[What Works Clearinghouse]]"
   - "[[Gating Procedure]]"
   - "[[Single-Case Design]]"
   - "[[Campbellian Validity Framework]]"
-  - "[[WWC SCD Pilot Standards]]"
 processed_date: 2026-05-02
 ---
 

@@ -51,7 +51,8 @@ updated: '2026-05-18'
 > [!info] 研究问题
 > 为什么以 [[Randomised Controlled Trials|RCT]] 和系统综述为核心的[[Evidence-Based Education|证据本位教育]]（EBE）在教育中占据主导地位，尽管其认识论局限（如 Biesta 2010 的系统批判）已被充分论证？EBE 究竟在为谁服务，以及它为何在已知缺陷的情况下仍对决策者有吸引力？
 >
-> > "What I propose here is that there are features of EBE that make it attractive, or at least uncontroversial and safe, to policymakers." (p. 3)
+> > “我在这里提出的是，EBE（循证教育）的某些特征使其对政策制定者具有吸引力，或者至少是无争议和安全的。”
+> ("What I propose here is that there are features of EBE that make it attractive, or at least uncontroversial and safe, to policymakers.") (p. 3)
 
 ## 理论框架
 
@@ -85,7 +86,8 @@ updated: '2026-05-18'
 > - 研究总体与实际[[Study Population and Sample|目标总体]]不匹配（进入 RCT 的群体更像便利样本而非[[Random Sampling|随机样本]]）
 > - 元分析 "成功" 可能只是因为方便采样的人口和环境具有系统性共性，而非干预的普遍有效性
 >
-> > "Even a systematic review or meta-analysis of many high-quality RCTs provides little epistemic warrant for applying to a new population." (p. 5)
+> > “即使是对许多高质量 RCT 进行的系统综述或元分析，也不能为将其应用于新人群提供多少认识论保证。”
+> ("Even a systematic review or meta-analysis of many high-quality RCTs provides little epistemic warrant for applying to a new population.") (p. 5)
 >
 > 其他方法（准实验、自然实验、工具[[Variable|变量]]、差异中差、定性方法如过程追踪和分析性叙事）在特定条件下可能提供更准确的政策效应估计。
 >
@@ -101,7 +103,8 @@ updated: '2026-05-18'
 > - 主权者无需深入理解教育研究或做出实质判断 → 只需要求 "what works"
 > - 研究结果以简化的[[Effect Size|效应量]]呈现 → 可直接转化为问责反馈
 >
-> > "The advantage of formal criteria for the sovereign is that she does not have to explore the details of research evidence, pass judgement on specific interventions, or evaluate the approach and conduct of individual experts." (p. 10)
+> > “正式标准对统治者（决策者）的优势在于，她不必探索研究证据的细节，不必对特定干预做出判断，也不必评估个别专家的途径和行为。”
+> ("The advantage of formal criteria for the sovereign is that she does not have to explore the details of research evidence, pass judgement on specific interventions, or evaluate the approach and conduct of individual experts.") (p. 10)
 >
 > ### 3. 透明幻象的代价
 >
@@ -113,7 +116,8 @@ updated: '2026-05-18'
 >
 > 因此 EBE 产生的结果 **"对政策制定者透明，对教学专业人员不相关"**——它解决了主权者的委托问题，但牺牲了教育实践的有效性。
 >
-> > "Being selective about one's use of evidence is easy enough... But, increasingly, policymakers do more than determine what evidence to acknowledge and which to ignore. They now develop policies defining what sort of research evidence is worth producing in the first place." (pp. 2–3)
+> > “在证据使用上挑挑拣拣是很容易的……但是，政策制定者越来越多地不仅决定承认哪些证据、忽略哪些证据。他们现在制定政策来界定首先什么类型的研究证据值得生产。”
+> ("Being selective about one's use of evidence is easy enough... But, increasingly, policymakers do more than determine what evidence to acknowledge and which to ignore. They now develop policies defining what sort of research evidence is worth producing in the first place.") (pp. 2–3)
 >
 > ### 4. 系统层面的盲区
 >
@@ -122,7 +126,8 @@ updated: '2026-05-18'
 > - EBE 内置了 "给定资源，如何使用" 的问题框架——避开 "资源是否足够" 的结构问题
 > - 伦敦弱势学生成绩改善的谜题——长期跨党派政治承诺、地理位置邻近决策中心——在 EBE 框架内无法解释
 >
-> > "The point of departure for EBE is that there are given resources available... This avoids an important conclusion of academic research in education: Resources matter." (p. 13)
+> > “EBE 的出发点是存在既定的可用资源……这就回避了教育学术研究的一个重要结论：资源很重要。”
+> ("The point of departure for EBE is that there are given resources available... This avoids an important conclusion of academic research in education: Resources matter.") (p. 13)
 
 ## 主要发现
 
@@ -140,11 +145,14 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The experimental paradigm exerts disproportionate influence on policymakers because of the particular role it can play in guiding the policy of a centralised bureaucracy." (p. 14)
+> > “实验范式对政策制定者产生了不成比例的影响，因为它在指导中央集权官僚机构政策方面能发挥特殊作用。”
+> ("The experimental paradigm exerts disproportionate influence on policymakers because of the particular role it can play in guiding the policy of a centralised bureaucracy.") (p. 14)
 >
-> > "The attraction of novelty also offers some explanation. New governments tend to displace incumbents by pointing out their failed policies so there is a strong imperative to introduce innovative reforms." (p. 10)
+> > “新奇性的吸引力也提供了一些解释。新政府倾向于通过指出前任失败的政策来取代他们，因此引入创新性改革有着强烈的必要性。”
+> ("The attraction of novelty also offers some explanation. New governments tend to displace incumbents by pointing out their failed policies so there is a strong imperative to introduce innovative reforms.") (p. 10)
 >
-> > "It's not what you spend, it's the way that you spend it …that's what gets results.' This avoids an important conclusion: Resources matter. More funding going into schools leads to predictably improved results." (pp. 13–14)
+> > “‘不是你花了多少钱，而是你花钱的方式……那才是产生结果的原因。’这回避了一个重要结论：资源很重要。投入学校的资金越多，就能带来可预测的成绩提升。”
+> ("It's not what you spend, it's the way that you spend it …that's what gets results.' This avoids an important conclusion: Resources matter. More funding going into schools leads to predictably improved results.") (pp. 13–14)
 >
 > > "[[Evidence-Based Education|EBE]] could become substantially more useful if this link with administrative accountability was severed, or at least loosened, along with the reliance on experimental evidence." (p. 11)
 

@@ -30,6 +30,7 @@ related_concepts:
   - "[[Filial Piety]]"
   - "[[Benevolence]]"
   - "[[Orientalism]]"
+  - "[[Descriptive Analysis]]"
   - "[[Progressive Education]]"
 related_theories: []
 related_methods:
@@ -273,7 +274,7 @@ updated: 2026-05-25
 >
 > ### 立场与预设
 >
-> 研究明确站在香港自治和公民自由的立场，"令人窒息的祖国怀抱"、"法西斯式愿景（fascistic vision）"等措辞即是明证。这种立场使分析的某些维度，如对 [[Citizenship and Social Development|CSD]] 教科书的"教导式阐述"的判断，可能被视为价值评判而非描述性分析。
+> 研究明确站在香港自治和公民自由的立场，"令人窒息的祖国怀抱"、"法西斯式愿景（fascistic vision）"等措辞即是明证。这种立场使分析的某些维度，如对 [[Citizenship and Social Development|CSD]] 教科书的"教导式阐述"的判断，可能被视为价值评判而非[[Descriptive Analysis|描述性分析]]。
 >
 > 更根本的问题在于研究的预设本身：它将"国家在香港推行国民教育"作为一个需要批判的对象，却回避了一个前提——香港是中国的一部分，世界上没有任何主权国家允许一门必修课程以批判和推翻本国政权为核心方向。研究将 [[Liberal Studies|LS]] 的"开放"和"多元"视为当然的标杆，但 LS 允许学生在课堂上讨论"占中"的合法性、在教科书里呈现"我更是一个香港人而非中国人"的立场而不加纠正——这种"开放"在全球比较中恰恰是反常的，而非普遍的。
 >

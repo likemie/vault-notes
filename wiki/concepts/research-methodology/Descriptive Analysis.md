@@ -14,11 +14,11 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Statistical Significance]]"
+  - "[[Confidence Interval]]"
+  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
-  - "[[Survey Research]]"
-  - "[[Experimental Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -35,7 +35,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 描述性分析（Descriptive Analysis）是[[Quantitative Research|量化研究]]数据分析的基础步骤，报告所有预测变量和结果变量的均值（means）、标准差（standard deviations）和得分范围（range of scores）。它提供数据的整体图景，为后续的推断统计检验奠定基础（Creswell & Creswell, 2022, Ch8）。
+> 描述性分析（Descriptive Analysis）是[[Quantitative Research|量化研究]]数据分析的基础步骤，报告所有预测[[Variable|变量]]和结果变量的均值（means）、标准差（standard deviations）和得分范围（range of scores）。它提供数据的整体图景，为后续的推断统计检验奠定基础（Creswell & Creswell, 2022, Ch8）。
 
 ## 核心要素
 
@@ -45,7 +45,7 @@ updated: 2026-06-01
 ### 调查数据分析中的描述性分析（步骤 3）
 
 > [!example]
-> - 对所有预测变量和结果变量计算均值、标准差和得分范围。
+> - 对所有预测[[Variable|变量]]和结果变量计算均值、标准差和得分范围。
 > - 识别数据中是否存在缺失数据——某些受试者可能未对某些题项或整个量表提供回应。
 > - 制定计划报告缺失数据的程度（如缺失百分比、缺失模式）。
 > - 制定缺失数据填补策略（如多重填补、全信息最大似然估计；Schafer & Graham, 2002; 引自 Creswell & Creswell, 2022, Ch8）。
@@ -58,7 +58,7 @@ updated: 2026-06-01
 > - 报告各组在主要结果变量上的均值和标准差——如实验组和控制组的倦怠症状均值及各自的标准差。
 
 > [!note] 描述性分析 vs 推断性分析
-> 描述性分析回答"数据是什么样的？"——提供关于样本特征、变量分布和变异程度的客观总结。推断性分析（inferential analysis）回答"从样本中可以推断关于总体的什么？"——通过[[Statistical Significance|统计显著性检验]]、[[Confidence Interval|置信区间]]和[[Effect Size|效应量]]做出推论。描述在前、推断在后，两者是不可分割的整体流程（Creswell & Creswell, 2022, Ch8）。
+> 描述性分析回答"数据是什么样的？"——提供关于样本特征、变量分布和变异程度的客观总结。推断性分析（inferential analysis）回答"从样本中可以推断关于总体的什么？"——通过[[Statistical Significance|统计显著性]]检验、[[Confidence Interval|置信区间]]和[[Effect Size|效应量]]做出推论。描述在前、推断在后，两者是不可分割的整体流程（Creswell & Creswell, 2022, Ch8）。
 
 ## 适用场景
 

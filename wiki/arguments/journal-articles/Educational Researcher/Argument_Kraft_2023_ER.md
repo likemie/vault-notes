@@ -68,7 +68,8 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "This is the benchmark that matters most."（Kraft, 2023, p.183）
+> > “这是最要紧的基准。”
+> ("This is the benchmark that matters most.")（Kraft, 2023, p.183）
 >
 > > "Efforts to improve education often fail to improve student outcomes, particularly student achievement."（Kraft, 2023, p.187）
 

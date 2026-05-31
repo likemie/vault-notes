@@ -17,8 +17,9 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Variable]]"
   - "[[External Validity]]"
-  - "[[Construct]]"
+  - "[[Construct Validity (Quantitative)]]"
   - "[[Postpositivism]]"
+  - "[[Construct]]"
   - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories:
@@ -118,7 +119,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> 该框架的演进可追溯至 [[Campbell Collaboration|Campbell]] 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook 和 Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、[[Internal Validity|内部效度]]、[[Construct|构念]]效度、[[External Validity|外部效度]]）。
+> 该框架的演进可追溯至 [[Campbell Collaboration|Campbell]] 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook 和 Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、[[Internal Validity|内部效度]]、[[Construct Validity (Quantitative)|构念效度]]、[[External Validity|外部效度]]）。
 >
 > Hitchcock et al. (2015) 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心理学循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的实践，作者确认"Campbellian 效度框架适用于能够产生因果证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[21st Century Skills and Competencies Discourse|SCD]] 量规在内部效度判断上产生了合理一致的结果。
 
@@ -140,7 +141,7 @@ updated: '2026-05-18'
 
 > [!example] 相关研究
 > - [[Argument_Hitchcock_2015_JBE]] — 以 Campbellian 框架论证 [[What Works Clearinghouse|WWC]] 审查程序的[[Internal Validity|内部效度]]判断一致性，并澄清其[[External Validity|外部效度]]信息的捕获方式
-> - [[Argument_Wadhwa_2024_RER]] — 将 [[Campbell Collaboration|Campbell]] & Fiske (1959) 的 multitrait-multimethod 思路用于检验"evidence-based"在教育清算中心实践中的[[Construct|构念]]效度；如果多个清算中心对同一项目的效果判断不收敛，就说明该构念在实践中并不稳定。例：同一教育项目可能因某清算中心要求独立复制、另一清算中心只要求单项显著研究而获得不同推荐等级（Wadhwa et al., 2024, pp.4, 26）。
+> - [[Argument_Wadhwa_2024_RER]] — 将 [[Campbell Collaboration|Campbell]] & Fiske (1959) 的 multitrait-multimethod 思路用于检验"evidence-based"在教育清算中心实践中的[[Construct Validity (Quantitative)|构念效度]]；如果多个清算中心对同一项目的效果判断不收敛，就说明该[[Construct|构念]]在实践中并不稳定。例：同一教育项目可能因某清算中心要求独立复制、另一清算中心只要求单项显著研究而获得不同推荐等级（Wadhwa et al., 2024, pp.4, 26）。
 
 ## 应用领域
 
@@ -148,7 +149,7 @@ updated: '2026-05-18'
 > - [[Single-Case Design]] — Campbellian 框架为 [[21st Century Skills and Competencies Discourse|SCD]] 研究提供统一的效度评估语言，[[What Works Clearinghouse|WWC]] 和学校心理学循证干预工作组均依赖此框架
 > - [[Gating Procedure]] — 门控程序的操作逻辑直接来源于 Campbellian 框架的"[[Internal Validity|内部效度]]优先"原则
 > - [[Evidence-Based Education]] — Campbellian 框架是 WWC 评估教育研究证据的方法论基础
-> - [[Educational Evidence Clearinghouses]] — Wadhwa et al. (2024) 用[[Construct|构念]]效度问题重新审视清算中心对"evidence-based"项目的认证实践，显示跨机构评级收敛不足会削弱该术语的实践效度（Wadhwa et al., 2024, p.26）
+> - [[Educational Evidence Clearinghouses]] — Wadhwa et al. (2024) 用[[Construct Validity (Quantitative)|构念效度]]问题重新审视清算中心对"evidence-based"项目的认证实践，显示跨机构评级收敛不足会削弱该术语的实践效度（Wadhwa et al., 2024, p.26）
 
 ## 来源
 

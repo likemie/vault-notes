@@ -12,7 +12,8 @@ tags:
   - method/experimental
   - quantitative-research
   - bias-control
-related_concepts: []
+related_concepts:
+  - "[[Experimenter Bias]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -43,17 +44,17 @@ updated: 2026-05-31
 > 盲法的两个层次（Creswell & Creswell, 2022, Ch8）：
 
 - **单盲（Single-Blind）**：受试者不知道自己被分配到哪个条件（实验组还是对照组），但实验者知情。适用于受试者预期可能影响结果的实验。
-- **双盲（Double-Blind）**：实验者和受试者均不知道受试者所属条件。这是更严格的设计，同时控制受试者预期效应和实验者偏差。
+- **双盲（Double-Blind）**：实验者和受试者均不知道受试者所属条件。这是更严格的设计，同时控制受试者预期效应和[[Experimenter Bias|实验者偏差]]。
 
 ## 理论基础
 
 > [!tip]
-> 盲法的理论基础与实验者偏差（Experimenter Bias）直接相关：若施测结果测量的实验者知道某受试者接受的是"有益"的处理条件，实验者可能以更积极、更有暗示性或更鼓励的方式施测结果测量，从而人为放大处理效应。盲法通过切断这一知情路径来消除偏差（Creswell & Creswell, 2022, Ch8）。
+> 盲法的理论基础与[[Experimenter Bias|实验者偏差]]（Experimenter Bias）直接相关：若施测结果测量的实验者知道某受试者接受的是"有益"的处理条件，实验者可能以更积极、更有暗示性或更鼓励的方式施测结果测量，从而人为放大处理效应。盲法通过切断这一知情路径来消除偏差（Creswell & Creswell, 2022, Ch8）。
 
 ## 实证发现
 
 > [!success]
-> 方法计划中描述盲法的典型措辞："为降低实验者偏差风险，实验者在所有结果测量评估完成前对受试者所属研究条件不知情"（Creswell & Creswell, 2022, Ch8）。
+> 方法计划中描述盲法的典型措辞："为降低[[Experimenter Bias|实验者偏差]]风险，实验者在所有结果测量评估完成前对受试者所属研究条件不知情"（Creswell & Creswell, 2022, Ch8）。
 
 ## 争议与批评
 

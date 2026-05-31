@@ -48,7 +48,8 @@ updated: '2026-05-18'
 > [!info] 研究问题
 > 证据本位教学（evidence-based teaching）的倡导者坚称这是一种严格的科学方法。本文质疑 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]是教育研究中唯一真正科学方法的观点，指出这些宣称往往依赖于一种过于简单的"科学"概念。
 >
-> > "It is our contention that these appeals to science use a flawed and stereotyped vernacular image or 'folk-view' (Thomas, 2012, p. 28) of the natural sciences for rhetorical effect but fail to probe sufficiently into the true characteristics of science." (Wrigley & McCusker, 2019, p. 111)
+> > “我们的观点是，这些对科学的诉诸为了修辞效果，使用了一种有缺陷且刻板的自然科学的白话形象或‘民间观点’（Thomas, 2012, p. 28），但未能充分探究科学的真正特征。”
+> ("It is our contention that these appeals to science use a flawed and stereotyped vernacular image or 'folk-view' (Thomas, 2012, p. 28) of the natural sciences for rhetorical effect but fail to probe sufficiently into the true characteristics of science.") (Wrigley & McCusker, 2019, p. 111)
 
 ## 理论框架
 
@@ -117,7 +118,8 @@ updated: '2026-05-18'
 > - Shulruf (2010) 的主要结论恰恰是**没有稳健证据表明课外活动与学生成果之间存在[[Causality|因果关系]]**（p. 607）
 > - Lewis (2004) 明确警告"自我选择偏差"：参与活动的儿童可能与不参与的儿童根本不同
 >
-> > "At every stage of the meta-analytic review, simplifications are made. [[Hypothesis|hypotheses]] are abridged, studies are dropped, programme details are filtered out, contextual information is eliminated, selected findings are utilized, averages are taken, estimates are made." (Pawson, 2006, pp. 42–43, cited on p. 122)
+> > “在元分析综述的每个阶段，都在进行简化。假设被删减，研究被舍弃，项目细节被过滤掉，情境信息被消除，只利用选定的发现，计算平均值，并做出估计。”
+> ("At every stage of the meta-analytic review, simplifications are made. [[Hypothesis|hypotheses]] are abridged, studies are dropped, programme details are filtered out, contextual information is eliminated, selected findings are utilized, averages are taken, estimates are made.") (Pawson, 2006, pp. 42–43, cited on p. 122)
 
 ## 主要发现
 
@@ -133,19 +135,26 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The intention of this paper is to demonstrate that many advocates of evidence-based teaching work with too simple a notion of 'science', with serious negative consequences." (p. 111)
+> > “本文的意图是证明，许多循证教学的倡导者使用的是一种过于简单的‘科学’概念，这带来了严重的负面后果。”
+> ("The intention of this paper is to demonstrate that many advocates of evidence-based teaching work with too simple a notion of 'science', with serious negative consequences.") (p. 111)
 >
-> > "It is, therefore, fundamentally unscientific to try to explain social phenomena by applying the wrong level of scientific methodology." (p. 113)
+> > “因此，试图通过应用错误层级的科学方法论来解释社会现象，从根本上就是不科学的。”
+> ("It is, therefore, fundamentally unscientific to try to explain social phenomena by applying the wrong level of scientific methodology.") (p. 113)
 >
-> > "Effective experiments demand the artificial controls imposed by the reductive methodology of the experimenter, but we must never forget that as a consequence they provide at best only a very simplified model, perhaps even a false one, of what happens in the blooming, buzzing, interactive confusion of life at large." (Rose, 2005, p. 28, cited on p. 112)
+> > “有效的实验需要实验者用还原主义方法论强加的人为控制，但我们绝不能忘记，其结果是它们充其量只能提供一个非常简化的模型——甚至可能是一个虚假的模型——来反映整体生活中那种繁盛的、嗡嗡作响的、互动的混乱状态中究竟发生了什么。”
+> ("Effective experiments demand the artificial controls imposed by the reductive methodology of the experimenter, but we must never forget that as a consequence they provide at best only a very simplified model, perhaps even a false one, of what happens in the blooming, buzzing, interactive confusion of life at large.") (Rose, 2005, p. 28, cited on p. 112)
 >
-> > "Whereas drugs trials try to eliminate the human factor because 'human volition is seen as a contaminator', social change is brought about through the human agent." (Pawson, 2006, p. 27, cited on p. 114)
+> > “药物试验试图消除人为因素，因为‘人的意志被视为一种污染源’，而社会变革则是通过人的能动性带来的。”
+> ("Whereas drugs trials try to eliminate the human factor because 'human volition is seen as a contaminator', social change is brought about through the human agent.") (Pawson, 2006, p. 27, cited on p. 114)
 >
-> > "The result of a [[Meta-analysis]] should never be an average; it should be a graph." (Gene Glass, cited in Robinson, 2004, p. 29, cited on p. 119)
+> > “[[Meta-analysis|元分析]]的结果绝不应该是一个平均数；它应该是一张图表。”
+> ("The result of a [[Meta-analysis]] should never be an average; it should be a graph.") (Gene Glass, cited in Robinson, 2004, p. 29, cited on p. 119)
 >
-> > "Education is marked by a [[Multiplicity]] of aims — acquisition of factual knowledge, skilled performance, problem solving, longer term cognitive development, aesthetic or ethical qualities, socialisation." (p. 124)
+> > “教育的特点在于目的的[[Multiplicity|多重性]]——获取事实知识、熟练的表现、解决问题、长期的认知发展、审美或伦理品质、社会化。”
+> ("Education is marked by a [[Multiplicity]] of aims — acquisition of factual knowledge, skilled performance, problem solving, longer term cognitive development, aesthetic or ethical qualities, socialisation.") (p. 124)
 >
-> > "In the name of 'science' and in conjunction with the dynamics of high-stakes accountability systems, we are witnessing an anti-enlightenment closing down of ways of understanding and engaging with the world." (p. 124)
+> > “以‘科学’之名，结合高风险问责系统的动态机制，我们正在目睹一种反启蒙的现象：各种理解和参与世界的方式正在被封闭。”
+> ("In the name of 'science' and in conjunction with the dynamics of high-stakes accountability systems, we are witnessing an anti-enlightenment closing down of ways of understanding and engaging with the world.") (p. 124)
 
 ## 局限性与批评
 

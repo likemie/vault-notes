@@ -80,11 +80,14 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The aim of [[Phenomenon-Based Learning]] (PhBL) is to provide such an educational approach."（p.1）
+> > “现象导向学习（[[Phenomenon-Based Learning|PhBL]]）的目的正是提供这样一种教育方法。”
+> ("The aim of [[Phenomenon-Based Learning]] (PhBL) is to provide such an educational approach.")（p.1）
 >
-> > "The Finnish curriculum is still structured according to traditional school subjects..."（p.2）
+> > “芬兰的课程仍然是按照传统的学校科目构建的……”
+> ("The Finnish curriculum is still structured according to traditional school subjects...")（p.2）
 >
-> > "The PhBL approach is neither a salvation approach, nor a quick-fix-method..."（p.11）
+> > “PhBL 方法既不是救世主的途径，也不是一种快速修复法……”
+> ("The PhBL approach is neither a salvation approach, nor a quick-fix-method...")（p.11）
 
 ## 局限性与批评
 

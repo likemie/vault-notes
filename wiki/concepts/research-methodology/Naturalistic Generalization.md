@@ -13,6 +13,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Random Sampling]]"
   - "[[Case Study]]"
 related_persons:
   - "[[Robert E. Stake]]"
@@ -43,7 +44,7 @@ updated: 2026-05-31
 ## 概念辨析
 
 > [!example]
-> **自然主义概括 vs 统计概括**。统计概括以随机抽样和概率理论为基础，将样本统计量推广至总体参数。自然主义概括不以概率为依托，依靠读者对案例情境与自身实践情境之间相似性的判断，是一种由读者完成的认知推广。
+> **自然主义概括 vs 统计概括**。统计概括以[[Random Sampling|随机抽样]]和概率理论为基础，将样本统计量推广至总体参数。自然主义概括不以概率为依托，依靠读者对案例情境与自身实践情境之间相似性的判断，是一种由读者完成的认知推广。
 
 > [!example]
 > **自然主义概括 vs [[Theoretical End Point|理论终点]]**。理论终点是[[Qualitative Research|质性研究]]归纳逻辑的最终产物（主题发展为理论模型或概括），自然主义概括是理论终点在案例研究设计中的具体实现形式之一。

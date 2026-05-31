@@ -19,6 +19,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Random Sampling]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Between-Subjects and Within-Subjects Designs]]"
 related_persons: []
@@ -53,7 +54,7 @@ updated: 2026-05-31
 3. 确保分配过程对所有实验人员透明且在方案中清晰描述。
 
 > [!info] 随机分配 vs 随机抽样
-> 随机分配（random assignment）和随机抽样（random sampling）是两个不同的概念。随机抽样涉及如何从总体中选取样本，目的是提升样本对总体的代表性（[[External Validity|外部效度]]）。随机分配涉及如何将已选取的样本分配到实验条件中，目的是消除系统性偏差并增强[[Internal Validity|内部效度]]（Creswell & Creswell, 2022, Ch8）。
+> 随机分配（random assignment）和[[Random Sampling|随机抽样]]（random sampling）是两个不同的概念。随机抽样涉及如何从总体中选取样本，目的是提升样本对总体的代表性（[[External Validity|外部效度]]）。随机分配涉及如何将已选取的样本分配到实验条件中，目的是消除系统性偏差并增强[[Internal Validity|内部效度]]（Creswell & Creswell, 2022, Ch8）。
 
 ## 适用场景
 

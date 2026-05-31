@@ -14,6 +14,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
+  - "[[Descriptive Analysis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Postpositivism]]"
   - "[[Evidence-Based Education]]"
@@ -69,7 +70,7 @@ updated: 2026-05-18
 > > 例：ISCED（[[International Education|国际教育]]标准分类）是这种排序操作的典型案例：各国的教育体系必须被翻译为统一的分类框架才能进行比较——这意味着每个国家的独特性必须被压缩到可比较的类别中（Gorur, 2014, p.5, 16）
 >
 > **统计与治理的纠缠**（Desrosières, 1998; Scott, 1998）
-> - Desrosières (1998) 探讨了"大数字的政治学"，描述统计学家实践和科学意义如何随时间变化，以及这些变化如何影响并被国家治理需求影响（Gorur, 2014, p.6）
+> - Desrosières (1998) 探讨了"大数字的政治学"，[[Descriptive Analysis|描述统计]]学家实践和科学意义如何随时间变化，以及这些变化如何影响并被国家治理需求影响（Gorur, 2014, p.6）
 > - Scott (1998) 描述了秩序和测量如何使治理成为可能，而排序和测量世界的行动同时也改变世界（Gorur, 2014, p.6）
 > - Porter (1995) 描述了数字如何被信任以及"客观性"如何被附加于数字（Gorur, 2014, p.6）
 

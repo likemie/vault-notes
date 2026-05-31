@@ -46,7 +46,8 @@ updated: '2026-05-18'
 > [!abstract] 理论框架
 > Slavin 以**医学类比**为核心论证框架：20 世纪医学通过随机临床试验（[[Randomised Controlled Trials|RCT]]）和严格的研发-评估-推广流程实现了前所未有的进步，而教育尽管拥有大量基础研究，却几乎完全绕过了这一动态过程，导致实践随"钟摆式风尚"摇摆而非渐进改善。(pp. 15–16)
 >
-> > "If Rip Van Winkle had been a physician, a farmer, or an engineer, he would be unemployable if he awoke today. If he had been a good elementary school teacher in the 19th century, he would probably be a good elementary school teacher today." (p. 16)
+> > “如果瑞普·凡·温克尔（Rip Van Winkle，传说中沉睡多年的人）是一位医生、农民或工程师，那么他今天醒来将无法被雇佣。但如果他在19世纪是一位优秀的小学教师，那么他今天可能仍然是一位优秀的小学教师。”
+> ("If Rip Van Winkle had been a physician, a farmer, or an engineer, he would be unemployable if he awoke today. If he had been a good elementary school teacher in the 19th century, he would probably be a good elementary school teacher today.") (p. 16)
 >
 > Slavin 提出**上升螺旋**（ascending spiral）与**下降螺旋**（declining spiral）的对比：当政策制定者看不到研究的相关性时，研究资助不足 → 缺少大型决定性研究 → 政策制定者更不愿投资 → 下降螺旋。证据本位政策若产生显著成功，可逆转此趋势。(p. 17)
 
@@ -89,13 +90,17 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "At the dawn of the 21st century, educational research is finally entering the 20th century." (p. 15)
+> > “在21世纪的曙光中，教育研究终于正在进入20世纪。”
+> ("At the dawn of the 21st century, educational research is finally entering the 20th century.") (p. 15)
 >
-> > "Educational practice does change over time, but the change process more resembles the pendulum swings of taste characteristic of art or fashion (think hemlines) rather than the progressive improvements characteristic of science and technology." (p. 16)
+> > “教育实践确实随着时间而改变，但其变化过程更像是艺术或时尚（想想裙摆长度）品味的钟摆摆动，而不是科学技术所特征的渐进式改善。”
+> ("Educational practice does change over time, but the change process more resembles the pendulum swings of taste characteristic of art or fashion (think hemlines) rather than the progressive improvements characteristic of science and technology.") (p. 16)
 >
-> > "Before the Wright brothers, many inventors launched airplanes that were based on exactly the same scientifically based aviation research as the Wright brothers used at Kitty Hawk, but the other airplanes never got off the ground." (p. 19)
+> > “在莱特兄弟之前，许多发明家发射的飞机都是基于与莱特兄弟在基蒂霍克使用的完全相同的基于科学的航空研究，但其他飞机从未飞离地面。”
+> ("Before the Wright brothers, many inventors launched airplanes that were based on exactly the same scientifically based aviation research as the Wright brothers used at Kitty Hawk, but the other airplanes never got off the ground.") (p. 19)
 >
-> > "Once we have dozens or hundreds of randomized or carefully matched experiments going on each year on all aspects of educational practice, we will begin to make steady, irreversible progress. Until then, we are merely riding the pendulum of educational fashion." (p. 19)
+> > “一旦我们每年在教育实践的各个方面开展数十或数百项随机或仔细匹配的实验，我们将开始取得稳步、不可逆转的进展。在此之前，我们只是在乘坐教育时尚的钟摆。”
+> ("Once we have dozens or hundreds of randomized or carefully matched experiments going on each year on all aspects of educational practice, we will begin to make steady, irreversible progress. Until then, we are merely riding the pendulum of educational fashion.") (p. 19)
 
 ## 局限性与批评
 

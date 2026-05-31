@@ -15,6 +15,7 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Variable]]"
   - "[[Nondirectional Language]]"
+  - "[[Descriptive Analysis]]"
   - "[[Research Writing Script]]"
   - "[[Competitiveness]]"
 related_theories:
@@ -76,7 +77,7 @@ updated: 2026-05-31
 > 3. 使用探索性行动动词传达学习将如何进行，如"理解"（understand）、"探索"（explore）、"发现"（discover）、"生成"（generate）、"考察意义"（examine the meaning of）。
 > 4. 使用中立和[[Nondirectional Language|非方向性语言]]（nondirectional language），避免暗示结果倾向的词汇如"成功的""有益的""积极的"。
 > 5. 提供核心现象的一般性工作定义，尤其是当广泛读者无法理解该现象时。此定义不是固定的，而是初步和演变性的。
-> 6. 标明研究所使用的质性路径，如描述性分析、[[Ethnography|民族志]]、[[Grounded Theory|扎根理论]]、案例研究、[[Phenomenology|现象学]]或[[Narrative Research|叙事研究]]。
+> 6. 标明研究所使用的质性路径，如[[Descriptive Analysis|描述性分析]]、[[Ethnography|民族志]]、[[Grounded Theory|扎根理论]]、案例研究、[[Phenomenology|现象学]]或[[Narrative Research|叙事研究]]。
 > 7. 提及研究参与者（个体、群体或组织）和研究场所。
 >
 > 此外，目的陈述可界定参与者或研究场所的范围（delimitations），如仅涉及女性、仅限于某一城市、或仅限于参与创意团队的企业组织成员。

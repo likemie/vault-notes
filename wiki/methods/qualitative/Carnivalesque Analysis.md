@@ -9,7 +9,8 @@ tags:
 - carnivalesque-analysis
 - qualitative-research
 - paradigm/critical
-related_concepts: []
+related_concepts:
+  - "[[Descriptive Analysis]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -70,7 +71,7 @@ updated: '2026-05-18'
 > [!warning] 局限性
 > - 方法本身具有高度解释性，结论依赖于研究者的判断和视角
 > - "玩味"态度可能被误解为缺乏学术严肃性，尽管其目的在于揭示而非消解
-> - 该方法通常需要与其他方法（如描述统计、论证分析）配合使用，单独使用可能不够充分（Bainbridge et al., 2022, p.13–19）
+> - 该方法通常需要与其他方法（如[[Descriptive Analysis|描述统计]]、论证分析）配合使用，单独使用可能不够充分（Bainbridge et al., 2022, p.13–19）
 >
 
 ## 相关理论

@@ -23,8 +23,10 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
-  - "[[Construct]]"
+  - "[[Construct Validity (Quantitative)]]"
   - "[[Blinding]]"
+  - "[[Experimenter Bias]]"
+  - "[[Descriptive Analysis]]"
   - "[[Confidence Interval]]"
   - "[[Causality]]"
   - "[[Preregistration]]"
@@ -38,6 +40,7 @@ related_methods:
   - "[[Pre-Experimental Designs]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Subject Design]]"
+  - "[[Solomon Four-Group Design]]"
   - "[[Analysis of Variance (ANOVA)]]"
   - "[[Between-Subjects and Within-Subjects Designs]]"
   - "[[Survey Research]]"
@@ -109,13 +112,13 @@ updated: 2026-05-31
 > [!note] 真实验设计的四种类型
 > - **前后测对照组设计（Pretest–Posttest Control-Group Design）**：两组随机分配，均接受前后测，仅实验组接受处理。Group A R——O—X—O / Group B R——O———O
 > - **仅后测对照组设计（Posttest-Only Control-Group Design）**：控制前测的混淆效应，随机分配后仅实验组接受处理，两组均接受后测。Group A R——X—O / Group B R————O
-> - **Solomon 四组设计（Solomon Four-Group Design）**：2 × 2 因子设计的特例，四组分别在前测和处理上有所变化，全部接受后测，用于评估前测的影响。
+> - **Solomon 四组设计（[[Solomon Four-Group Design]]）**：2 × 2 因子设计的特例，四组分别在前测和处理上有所变化，全部接受后测，用于评估前测的影响。
 > - **[[Factorial Design]]**：同时操纵两个或多个自变量，检验主效应和交互效应（Creswell & Creswell, 2022, Ch8）。
 
 ### 效度威胁
 
 > [!warning]
-> 实验研究者需要识别并最小化以下内部效度威胁：历史、成熟、回归均值、选择、流失、处理扩散、补偿性／怨恨性士气低落、补偿性竞争、测验和工具（详见表 8.5）。以及[[External Validity|外部效度]]威胁：选择与处理的交互、情境与处理的交互、历史与处理的交互（详见表 8.6）。此外还需考虑**统计结论效度威胁**（因统计功效不足或违反统计假设导致不准确推论）和**[[Construct|构念]]效度威胁**（变量定义和测量不当）（Creswell & Creswell, 2022, Ch8）。
+> 实验研究者需要识别并最小化以下内部效度威胁：历史、成熟、回归均值、选择、流失、处理扩散、补偿性／怨恨性士气低落、补偿性竞争、测验和工具（详见表 8.5）。以及[[External Validity|外部效度]]威胁：选择与处理的交互、情境与处理的交互、历史与处理的交互（详见表 8.6）。此外还需考虑**统计结论效度威胁**（因统计功效不足或违反统计假设导致不准确推论）和**[[Construct Validity (Quantitative)|构念效度]]威胁**（变量定义和测量不当）（Creswell & Creswell, 2022, Ch8）。
 
 ### 实验操作步骤
 
@@ -124,13 +127,13 @@ updated: 2026-05-31
 > 1. 向受试者说明研究的封面故事。
 > 2. 明确设计类型和变量。
 > 3. 按时间顺序列出研究活动。
-> 4. 描述最小化噪音和偏差的步骤，如**[[Blinding|盲法]]（Blinding）**——在完成所有结果测量评估之前，使实验者（及／或受试者）不知道受试者所属的研究条件，以降低**实验者偏差（Experimenter Bias）**。
+> 4. 描述最小化噪音和偏差的步骤，如**[[Blinding|盲法]]（Blinding）**——在完成所有结果测量评估之前，使实验者（及／或受试者）不知道受试者所属的研究条件，以降低**[[Experimenter Bias|实验者偏差]]（Experimenter Bias）**。
 
 ### 数据分析
 
 > [!info]
 > 实验数据分析步骤（Creswell & Creswell, 2022, Ch8）：
-> 1. 报告描述统计：频率、均值与标准差、样本人口学构成、主要结果变量的组间均值和标准差。
+> 1. 报告[[Descriptive Analysis|描述统计]]：频率、均值与标准差、样本人口学构成、主要结果变量的组间均值和标准差。
 > 2. 初步分析：检验随机分配的成功性（各组在基线是否等价）、操纵检查（操纵是否成功产生组间差异）、关键研究变量间的关联（相关矩阵）。
 > 3. 推断统计检验：以比较组间差异为核心，大量使用[[Analysis of Variance (ANOVA)|ANOVA]]、ANCOVA 和 MANOVA。
 > 4. 因子设计中检验主效应和交互效应，同时报告[[Effect Size|效应量]]和[[Confidence Interval|置信区间]]。
