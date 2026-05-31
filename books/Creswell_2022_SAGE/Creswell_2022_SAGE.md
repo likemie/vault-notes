@@ -77,7 +77,6 @@ extracted_to:
   - "[[Analysis of Variance (ANOVA)]]"
   - "[[Between-Subjects and Within-Subjects Designs]]"
   - "[[Chi-Squared Test]]"
-  - "[[Experimental Research]]"
   - "[[Factorial Design]]"
   - "[[Multiple Regression]]"
   - "[[Pearson Product-Moment Correlation]]"
@@ -89,7 +88,6 @@ extracted_to:
   - "[[Random Sampling]]"
   - "[[Single-Subject Design]]"
   - "[[Solomon Four-Group Design]]"
-  - "[[Survey Research]]"
   - "[[t-test]]"
   - "[[Albert Bandura]]"
   - "[[Egon G. Guba]]"
@@ -102,6 +100,8 @@ extracted_to:
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Experimental Research]]"
+  - "[[Survey Research]]"
 processed_date: 2026-05-30
 ---
 

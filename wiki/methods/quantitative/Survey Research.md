@@ -27,6 +27,7 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
+  - "[[Institutional Review Board]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -107,11 +108,44 @@ updated: 2026-05-31
 ### 预注册与研究结果解释
 
 > [!note]
-> 若研究目标为正式假设检验（confirmatory），应在数据收集前在公共注册库中**[[Preregistration|预注册]]（Preregistration）**研究计划和假设，以提高[[Quantitative Research|量化研究]]的准确性和透明度（Nosek et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。常用注册库包括 Center for Open Science（www.cos.io）和 NIH 的 ClinicalTrials.gov。
+> 若研究目标为正式假设检验（confirmatory），应在数据收集前在公共注册库中**[[Preregistration|预注册]]（Preregistration）**研究计划和假设，以提高[[Quantitative Research|量化研究]]的准确性和透明度（Nosek et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。常用注册库包括 Center for Open Science（https://www.cos.io）和 NIH 的 ClinicalTrials.gov（https://www.clinicaltrials.gov）。
 
 > [!info]
 > 结果解释包括：报告结果如何回答研究问题或假设（APA, 2020 建议报告完整的描述统计、[[Statistical Significance|统计显著性]]检验、[[Confidence Interval|置信区间]]和[[Effect Size|效应量]]）；将主要发现置于先前研究的语境中讨论；承认实践和研究意义；简要指出研究局限和替代性解释；最后以主要发现及其更广泛的科学和社会重要性收尾（Creswell & Creswell, 2022, Ch8）。
 
+### 调查方法计划检查清单
+
+> [!abstract] 表8.1：设计调查方法计划的检查清单
+>
+> **调查设计**
+> - 是否说明了调查设计的目的？
+> - 将使用什么类型的设计？选择该设计的理由是什么？
+> - 是否明确了调查的性质（横截面 vs 纵向）？
+>
+> **总体与样本**
+> - 是否提及总体及其规模？
+> - 总体是否会分层？如果是，如何分层？
+> - 样本中将有多少人？选择该样本量的依据是什么？
+> - 抽样程序是什么（随机、非随机、便利抽样）？
+>
+> **工具**
+> - 调查中将使用哪些工具？对每项工具描述：开发者、条目数量、分数是否具有可接受的信度和效度、量表锚点。
+>   - (a) 开发该工具的来源出版物和引用是什么？
+>   - (b) 工具包含多少条目？量表范围（如 Likert 1–5）和量表锚点（如"一点也不"到"非常多"）是什么？
+>   - (c) 工具是否具有可接受的效度（构念效度和效标效度）和信度（内部一致性）？
+>   - (d) 工具如何计分并转化为变量？
+>   - (e) 变量将如何用于检验研究问题？
+> - 将使用什么程序进行试点测试或实地测试？
+> - 调查施测的时间线是什么？
+>
+> **伦理与数据分析**
+> - 保护参与者的伦理考量是什么？将采取什么步骤获得 [[Institutional Review Board|IRB]] 批准？
+> - 数据分析中将采取哪些具体步骤：(a) 分析回收率？(b) 检查回应偏差？(c) 进行描述性分析？(d) 将条目合并为量表？(e) 检查量表信度和效度？(f) 运行推断统计以回答研究问题或评估结果的实际意义？
+> - 结果将如何解释？
+>
+> Source: Creswell & Creswell, 2022, Ch8, Table 8.1
+
+---
 ## 方法变体
 
 > [!tip]
