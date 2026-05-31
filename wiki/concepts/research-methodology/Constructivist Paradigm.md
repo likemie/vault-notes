@@ -16,7 +16,6 @@ tags:
   - epistemology
   - paradigm/constructivist
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Postpositivism]]"
   - "[[Transformative Paradigm]]"
 related_theories: []
@@ -45,7 +44,7 @@ updated: 2026-05-30
 ## 核心要素
 
 > [!abstract]
-> Crotty (1998) 总结了建构主义的几个核心[[Hypothesis|假设]]。
+> Crotty (1998) 总结了建构主义的几个核心假设。
 > - **意义建构** 人类在与他们所解释的世界互动中建构意义。[[Qualitative Research|质性研究]]者倾向于使用开放式问题，以便参与者分享他们的观点。
 > - **历史与社会视角** 人类基于他们的历史和社会视角与世界互动并赋予意义，我们都出生在一个由文化赋予意义的世界中。质性研究者通过访问参与者的情境并亲自收集信息来理解语境。
 > - **意义的社会生成** 意义的基本生成总是社会性的，产生于与人类社群的互动之中。质性研究过程主要是归纳的，研究者从实地收集的数据中生成意义。

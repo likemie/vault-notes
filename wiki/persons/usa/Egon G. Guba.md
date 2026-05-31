@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Sage]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -47,7 +46,7 @@ updated: 2026-05-31
 ## 核心思想
 
 > [!tip]
-> Guba 对研究方法论的核心贡献体现在两个领域。在教育评价方面，他提出第四代评价模型，将评价从测量、描述、判断推进到以利益相关者协商为核心的[[Constructivist Paradigm|建构主义范式]]。在[[Qualitative Research|质性研究]]方法论方面，他与 [[Yvonna S. Lincoln|Lincoln]] 共同建立了自然主义探究的认识论和操作体系，其中包括对"模式理论"的定义——自然主义研究中发展的解释表现为相互关联的思想模式，区别于[[Quantitative Research|量化研究]]的演绎[[Hypothesis|假设]]检验（Creswell & Creswell, 2022, p.67）。
+> Guba 对研究方法论的核心贡献体现在两个领域。在教育评价方面，他提出第四代评价模型，将评价从测量、描述、判断推进到以利益相关者协商为核心的[[Constructivist Paradigm|建构主义范式]]。在[[Qualitative Research|质性研究]]方法论方面，他与 [[Yvonna S. Lincoln|Lincoln]] 共同建立了自然主义探究的认识论和操作体系，其中包括对"模式理论"的定义——自然主义研究中发展的解释表现为相互关联的思想模式，区别于[[Quantitative Research|量化研究]]的演绎假设检验（Creswell & Creswell, 2022, p.67）。
 
 > [!quote]
 > "We have chosen to use the term worldview as meaning 'a basic set of beliefs that guide action' (Guba, 1990, p. 17)."（引自 Creswell & Creswell, 2022, p.7）

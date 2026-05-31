@@ -12,7 +12,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Hypothesis]]"
+  - "[[Research Problem]]"
   - "[[School Choice]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
@@ -70,7 +70,7 @@ updated: 2026-05-26
 > 深度访谈通常采用半结构化设计（semi-structured）。研究者准备访谈提纲以覆盖关键议题，但实际对话以开放式问题主导，使分析性概念能在受访者的主动讲述中涌现，而非被研究者的预设框架所限制。
 
 > [!example] 渐进式聚焦法
-> 常见的提问结构采用"渐进式聚焦法"（progressive focusing）（Arksey & Knight, 1999）——从最宽阔的生活背景逐步收窄至核心研究问题：
+> 常见的提问结构采用"渐进式聚焦法"（progressive focusing）（Arksey & Knight, 1999）——从最宽阔的生活背景逐步收窄至核心[[Research Problem|研究问题]]：
 >
 > | 阶段 | 聚焦范围 | 核心内容 |
 > |------|---------|---------|
@@ -87,7 +87,7 @@ updated: 2026-05-26
 
 > [!success] 适用场景
 > - 探究行动者的主观意义建构——"为什么这样做"而不仅仅是"做了什么"
-> - 探索性研究——在已有理论不足以解释某种现象时，通过深度访谈生成理论[[Hypothesis|假设]]
+> - 探索性研究——在已有理论不足以解释某种现象时，通过深度访谈生成理论假设
 > - 研究复杂社会过程——在制度环境、社会结构和个体能动性交织的情境中理解行动逻辑
 > - 获取边缘或沉默群体的声音——当某些群体的经验未被纳入正式记录或主流叙事时，深度访谈往往是最主要的资料获取途径
 

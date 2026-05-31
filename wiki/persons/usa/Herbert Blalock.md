@@ -11,7 +11,6 @@ tags:
   - field/quantitative-methods
   - method/causal-modeling
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -39,7 +38,7 @@ updated: 2026-05-31
 
 - Blalock, H. M. (1969). *Theory Construction: From Verbal to Mathematical Formulations*. Prentice Hall. — 系统论述如何将口头理论转化为数学表达。
 - Blalock, H. M. (1985). *Causal Models in the Social Sciences* (2nd ed.). Aldine. — 因果模型在社会科学中应用的经典著作。
-- Blalock, H. M. (1991). Are there any constructive alternatives to [[Causal Modeling]]? *Sociological Methodology*, 21, 325–335. — 对因果建模的反思与辩护，承认相关方法不等同于因果，呼吁在实验设计中明确因果机制[[Hypothesis|假设]]。
+- Blalock, H. M. (1991). Are there any constructive alternatives to [[Causal Modeling]]? *Sociological Methodology*, 21, 325–335. — 对因果建模的反思与辩护，承认相关方法不等同于因果，呼吁在实验设计中明确因果机制假设。
 
 ## 核心思想
 
@@ -49,7 +48,7 @@ updated: 2026-05-31
 ## 思想发展
 
 > [!note]
-> Blalock 晚年的思想出现了重要的自我反思和调整。在 1991 年的论文中，他一方面肯定了[[Causal Modeling|因果建模]]对澄清[[Variable|变量]]间理论关系的方法论价值，另一方面承认相关方法不等同于因果，讨论了"滞后"效应（随时间出现的变量）的困难性，并呼吁在实验设计中更明确地陈述因果机制[[Hypothesis|假设]]（Creswell & Creswell, 2022, pp.58, 74）。
+> Blalock 晚年的思想出现了重要的自我反思和调整。在 1991 年的论文中，他一方面肯定了[[Causal Modeling|因果建模]]对澄清[[Variable|变量]]间理论关系的方法论价值，另一方面承认相关方法不等同于因果，讨论了"滞后"效应（随时间出现的变量）的困难性，并呼吁在实验设计中更明确地陈述因果机制假设（Creswell & Creswell, 2022, pp.58, 74）。
 
 ## 影响
 

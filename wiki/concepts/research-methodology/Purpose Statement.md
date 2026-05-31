@@ -13,6 +13,9 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Central Phenomenon]]"
   - "[[Variable]]"
+  - "[[Nondirectional Language]]"
+  - "[[Script (Research Writing)]]"
+  - "[[Competitiveness]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -22,6 +25,7 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Narrative Research]]"
   - "[[Mixed Method and Multi-method Research]]"
+  - "[[Case Study]]"
 related_persons:
   - "[[John Locke]]"
 related_facts: []
@@ -66,14 +70,14 @@ updated: 2026-05-31
 > 1. 使用"目的""意图""研究目标"等词语引入，作为独立的句子或段落呈现。
 > 2. 聚焦单一的[[Central Phenomenon|核心现象]]（概念或想法），而非[[Variable|变量]]间的关系或组间比较。
 > 3. 使用探索性行动动词传达学习将如何进行，如"理解"（understand）、"探索"（explore）、"发现"（discover）、"生成"（generate）、"考察意义"（examine the meaning of）。
-> 4. 使用中立和非方向性语言（nondirectional language），避免暗示结果倾向的词汇如"成功的""有益的""积极的"。
+> 4. 使用中立和[[Nondirectional Language|非方向性语言]]（nondirectional language），避免暗示结果倾向的词汇如"成功的""有益的""积极的"。
 > 5. 提供核心现象的一般性工作定义，尤其是当广泛读者无法理解该现象时。此定义不是固定的，而是初步和演变性的。
 > 6. 标明研究所使用的质性路径，如描述性分析、[[Ethnography|民族志]]、[[Grounded Theory|扎根理论]]、案例研究、[[Phenomenology|现象学]]或[[Narrative Research|叙事研究]]。
 > 7. 提及研究参与者（个体、群体或组织）和研究场所。
 >
 > 此外，目的陈述可界定参与者或研究场所的范围（delimitations），如仅涉及女性、仅限于某一城市、或仅限于参与创意团队的企业组织成员。
 
-质性目的陈述的写作脚本（script）：
+质性目的陈述的[[Script (Research Writing)|写作脚本]]（script）：
 
 > 本研究（____质性路径____研究）的目的是（____理解/探索/发现/生成____）____（参与者____在____研究场所____的____（核心现象____）。在研究目前阶段，____（核心现象____的一般定义是____。
 
@@ -90,6 +94,26 @@ updated: 2026-05-31
 
 > [!example] 扎根理论研究示例（Harley et al., 2007）
 > 通过发展一个理论框架来解释将关键因素连接起来并最终将身体活动融入生活方式的路径，以理解活跃的非洲裔美国女性的行为过程（p.99）。
+
+> [!example] 质性目的陈述要素拆解：Chan (2010) 叙事研究
+>
+> **完整目的陈述**：
+>
+> "In the present study, I examined the experiences of one Chinese immigrant student, Ai Mei Zhang. I explore her participation in her Canadian middle school curriculum as an interaction of student, teacher, and parent narratives, a story of interwoven lives (Clandinin et al., 2006). . . . I examined ways in which her sense of ethnic identity may be shaped by expectations for her academic performance and her behavior in her school and her home." (p.113)
+>
+> **要素对照**：
+>
+> | 要素 | 在陈述中的体现 |
+> |---|---|
+> | 信号词 | 未显式使用"purpose"，但"examined""explore"传达了研究意图 |
+> | 单一[[Central Phenomenon\|核心现象]] | 族裔认同（ethnic identity）——学校与家庭叙事的交织如何塑造认同 |
+> | 行动动词 | examined（考察）、explore（探索）——均为开放、探索性动词 |
+> | 参与者 | 一位中国移民学生 Ai Mei Zhang（单一个案） |
+> | 研究场所 | 加拿大中学课程环境 + 学校与家庭的双重情境 |
+> | 质性路径 | 叙事研究（narrative inquiry）——长期的、学校本位的叙事探究，含大量课堂观察、文件审阅、与关键参与者的对话和田野笔记 |
+> | 非方向性语言 | 全文未使用 successful、positive 等方向性词语；聚焦于认同"如何被塑造"而非"是否成功塑造" |
+>
+> Creswell & Creswell (2022, pp.128–129) 指出，该陈述的第一句关注学生经验，第二句明确核心现象为族裔认同，参与者、研究场所和质性路径均可清晰识别。
 
 ### 量化目的陈述
 
@@ -115,6 +139,28 @@ updated: 2026-05-31
 > [!example] 实验研究示例（Esposito et al., 2017）
 > 本研究基于行为经济学假设，检验网站设计的微小改变如何影响购买行为，特别关注与参与者社会人口统计特征的交互作用（p.2）。
 
+> [!example] 量化目的陈述要素拆解：DeGraw (1984) 调查研究
+>
+> **完整目的陈述**：
+>
+> "The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States. Personal characteristics were divided into background information about the respondent (i.e., institutional information, education level, prior training, etc.) and information about the respondents' thoughts of changing jobs. . . . Job motivation was defined by six general factors identified in the educational work components study (EWCS) questionnaire (Miskel & Heller, 1973). These six factors are: potential for personal challenge and development; [[Competitiveness]]; desirability and reward of success; tolerance for work pressures; conservative security; and willingness to seek reward in spite of uncertainty vs. avoidance." (pp.4–5)
+>
+> **要素对照**：
+>
+> | 要素 | 在陈述中的体现 |
+> |---|---|
+> | 信号词 | "The purpose of this study was to..."——显式引入，且单独成节（"Statement of the Problem"） |
+> | 量化路径 | [[Survey Research\|调查研究]]（survey），使用 EWCS 问卷收集数据 |
+> | 理论/模型 | 未在目的陈述中显式命名（该陈述的一个不足），但通过变量关系隐含了理论框架 |
+> | [[Variable\|自变量]]（独立变量） | 个人特征（personal characteristics）——分为背景信息（机构信息、教育水平、先前培训等）和对更换工作的想法两类 |
+> | [[Variable\|因变量]] | 工作动机（job motivation）——由 EWCS 问卷的六个因素定义 |
+> | 连接词 | "relationship"——明确标示变量间的关系性质 |
+> | 变量顺序 | 个人特征（自变量）→ 工作动机（因变量），从左到右排列 |
+> | 参与者与分析单元 | 在美国选定州立成人矫正机构中任教的认证教育者 |
+> | 关键变量定义 | 工作动机的六个 EWCS 因素逐一列出（个人挑战与发展潜力、竞争性、成功的期望与回报、工作压力容忍度、保守安全感、在不确定性中寻求回报的意愿 vs 回避） |
+>
+> Creswell & Creswell (2022, p.133) 评价该陈述包含了好的目的陈述的多个组件：独立成节、使用"relationship"一词、定义主要变量、说明样本、指出问卷工具，且变量从自变量到因变量依次排列。
+
 ### 混合方法目的陈述
 
 混合方法目的陈述（mixed methods purpose statement）包含研究的总体意图、量化与质性两个分支的信息、两类数据的整合（integration），以及整合后预期的洞见。好的混合方法目的陈述包含以下要素（Creswell & Creswell, 2022, pp.134–137）：
@@ -136,7 +182,7 @@ updated: 2026-05-31
 
 三种核心设计的写作脚本分别如下：
 
-**聚敛式设计脚本**：本混合方法研究将解决____。采用聚敛式混合方法设计，在该设计中，质性数据和量化数据分别收集以提供对问题或研究问题的多重视角。本研究中，____量化数据将用于检验____理论，该理论预测____自变量对____因变量在____参与者在____研究场所的影响。____质性数据将探索____的____核心现象。合并两类数据库的洞见将是____。
+**聚敛式设计脚本**：本[[Mixed Method and Multi-method Research|混合方法研究]]将解决____。采用聚敛式混合方法设计，在该设计中，质性数据和量化数据分别收集以提供对问题或研究问题的多重视角。本研究中，____量化数据将用于检验____理论，该理论预测____自变量对____因变量在____参与者在____研究场所的影响。____质性数据将探索____的____核心现象。合并两类数据库的洞见将是____。
 
 **解释性序列设计脚本**：本混合方法研究将解决____。采用解释性序列混合方法设计，先收集量化数据，然后用深入的质性后续数据解释量化结果。第一量化阶段将从____参与者收集____量化工具的数据，以检验____理论并评估____自变量是否与____因变量有关。第二质性阶段将作为量化结果的后续，以帮助深入解释量化结果。用质性数据解释量化结果的洞见将是____。
 
@@ -150,6 +196,26 @@ updated: 2026-05-31
 
 > [!example] 探索性序列设计示例（Enosh et al., 2015）
 > 本研究的总体目标是开发一个基于行为的工具，可用于比较不同类型的工作场所和服务之间的差异。研究者从社会工作者的质性访谈开始，用质性发现开发客户暴力问卷（CVQ），最后通过调查程序应用和检验该工具（pp.274, 283）。
+
+> [!example] 混合方法目的陈述要素拆解：Ivankova & Stick (2007) 解释性序列设计
+>
+> **完整目的陈述**：
+>
+> "The purpose of this mixed methods sequential explanatory study was to identify factors contributing to students' persistence in the ELHE program by obtaining quantitative results from a survey of 278 current and former students and then following up with four purposefully selected individuals to explore those results in more depth through a qualitative [[Case Study]] analysis. In the first, quantitative phase of the study, the research questions focused on how selected internal and external variables to the ELHE program (program-related, advisor- and faculty-related, institutional-related, student-related factors, and external factors) served as predictors to students' persistence in the program. In the second, qualitative phase, four case studies from distinct participant groups explored in-depth the results from the statistical tests." (p.95)
+>
+> **要素对照**：
+>
+> | 要素 | 在陈述中的体现 |
+> |---|---|
+> | 总体意图 | 识别影响学生在分布式博士项目中持续就学的因素——具有明确的实践价值（改进项目设计） |
+> | 混合方法设计类型 | 解释性序列设计（explanatory sequential）——先量化后质性，质性用于解释量化结果 |
+> | 量化语言 | "identify factors""predictors""statistical tests"——检验变量关系和预测能力 |
+> | 质性语言 | "explore those results in more depth""case study analysis"——深入探索和理解 |
+> | 第一量化阶段 | 对 278 名当前和往届学生进行调查；变量包括五类内外因素（项目相关、导师-教师相关、机构相关、学生相关、外部因素）作为学生持续就学的预测变量 |
+> | 第二质性阶段 | 从四个不同参与者群体中选择四个案例，通过质性案例分析深入探索统计检验结果 |
+> | 整合洞见 | 用案例研究进一步探索统计检验结果——以质性数据深入解释量化发现，提供比单一方法更丰富的理解 |
+>
+> Creswell & Creswell (2022, pp.137–138) 指出，该陈述位于引言最后一段，以总体意图开始，然后依次呈现第一量化阶段（含具体变量）和第二质性阶段，最后以整合理由收束。它比许多期刊中简短的目的陈述更完整地体现了混合方法目的陈述的所有组件。
 
 > [!info] 复杂混合方法设计的目的陈述
 > 除三种核心设计外，混合方法目的陈述的意图也可以是将质性数据或两者数据嵌入一个框架或过程（如实验或评估）中。这类[[Mixed Method and Multi-method Research|复杂混合方法设计]]详见 Creswell & Plano Clark (2018)。

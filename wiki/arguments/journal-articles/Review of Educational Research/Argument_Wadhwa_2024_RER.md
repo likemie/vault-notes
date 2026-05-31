@@ -17,7 +17,6 @@ tags:
 - methodology
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[School Leadership]]"
@@ -68,7 +67,7 @@ updated: '2026-05-18'
 
 > [!abstract] 理论框架
 > - [[Campbellian Validity Framework]] — 作者从 [[Campbell Collaboration|Campbell]] & Fiske (1959) 的 multitrait-multimethod 视角出发，把"evidence-based"当作教育科学实践中的构念效度问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为可靠性是构念效度的必要条件（Wadhwa et al., 2024, p.4）。
-> - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的[[Hypothesis|假设]]作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）（Wadhwa et al., 2024, p.4）。
+> - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的假设作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）（Wadhwa et al., 2024, p.4）。
 
 ## 研究方法
 
@@ -219,7 +218,7 @@ updated: '2026-05-18'
 > 2. 但这些清算中心在机构任务、目标人群、资金结构、评价对象、项目纳入标准、研究纳入标准和因果设计标准上高度异质；虽然全部偏好 [[Randomised Controlled Trials|RCT]]，却对 RCT 实施质量、[[Quasi-Experimental Designs|QED]] 权重、RDD/ITS 地位、[[Intent-to-Treat Analysis|意向治疗分析]]、流失标准、基线等值检验等细节处理不同（Wadhwa et al., 2024, pp.6–12）。
 > 3. 更关键的是，清算中心对"什么足以构成高等级项目证据"没有共识：有的接受单项统计显著研究，有的要求特定[[Effect Size|效应量]]、独立复制、跨地点复制或 6–12 个月以上的持续效果（Wadhwa et al., 2024, pp.11–15）。
 > 4. 这种标准差异导致同一项目的推荐结论往往不一致。1,359 个项目中 83.2% 只被一个清算中心评级，只有 17% 有多重评级可供比较；在多重评级项目中，评级一致性有限，而且最容易达成一致的是"不推荐"，最难一致的是"推荐/最高等级"（Wadhwa et al., 2024, pp.18–19）。
-> 5. 因此，清算中心语境中的"evidence-based"更像一个政策愿望，而不是已经可靠实现的研究实践；它具有有限的实践构念效度，使用者应将单一清算中心评级视为带有特定标准[[Hypothesis|假设]]的判断，而不是中立认证（Wadhwa et al., 2024, pp.3, 26–27）。
+> 5. 因此，清算中心语境中的"evidence-based"更像一个政策愿望，而不是已经可靠实现的研究实践；它具有有限的实践构念效度，使用者应将单一清算中心评级视为带有特定标准假设的判断，而不是中立认证（Wadhwa et al., 2024, pp.3, 26–27）。
 
 ## 主要发现
 

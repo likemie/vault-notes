@@ -13,7 +13,9 @@ related_concepts:
   - "[[Variable]]"
   - "[[Purpose Statement]]"
   - "[[Research Topic]]"
+  - "[[Script (Research Writing)]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Nondirectional Language]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -56,7 +58,7 @@ updated: 2026-05-31
 ## 核心要素
 
 > [!abstract] 核心现象在质性目的陈述中的位置
-> 核心现象是质性[[Purpose Statement|目的陈述]]写作脚本中的第三个关键填空位置：
+> 核心现象是质性[[Purpose Statement|目的陈述]][[Script (Research Writing)|写作脚本]]中的第三个关键填空位置：
 >
 > 本____[[Qualitative Research|质性研究]]____的目的是____（行动动词____）____（参与者____在____（研究场所____的__**核心现象**__。在研究目前阶段，__**核心现象**__的一般定义是____。
 
@@ -77,7 +79,7 @@ updated: 2026-05-31
 ## 实证发现
 
 > [!success]
-> 研究表明核心现象的表述方式影响研究的走向。Creswell & Creswell (2022, p.126) 指出，使用非方向性语言（nondirectional language）对[[Qualitative Research|质性研究]]至关重要——比如探索"个体的自我表达经验"而非"个体的成功自我表达"。McCracken (1988) 将此称为质性研究中的"非方向性法则"（law of nondirection），即访谈者或[[Purpose Statement|目的陈述]]写作者很容易通过使用暗示方向性结果的词语而违反这一法则。即便是"有用的""积极的"这样看似中性的词，也可能为研究预设结果方向。
+> 研究表明核心现象的表述方式影响研究的走向。Creswell & Creswell (2022, p.126) 指出，使用[[Nondirectional Language|非方向性语言]]（nondirectional language）对[[Qualitative Research|质性研究]]至关重要——比如探索"个体的自我表达经验"而非"个体的成功自我表达"。McCracken (1988) 将此称为质性研究中的"非方向性法则"（law of nondirection），即访谈者或[[Purpose Statement|目的陈述]]写作者很容易通过使用暗示方向性结果的词语而违反这一法则。即便是"有用的""积极的"这样看似中性的词，也可能为研究预设结果方向。
 
 ## 相关案例
 

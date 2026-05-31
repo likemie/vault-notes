@@ -26,7 +26,6 @@ related_concepts:
   - "[[Value Conformist Mode]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
@@ -114,7 +113,7 @@ updated: 2026-05-19
 ### 2014–2017 研究起点与首轮田野
 
 - **核心问题**：中国一流大学中，社会出身如何影响学生的毕业出路？
-- **思想发展**：2014 年夏以 [[Pierre Bourdieu|Bourdieu]] 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始[[Hypothesis|假设]]——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础（郑雅君，2023）。
+- **思想发展**：2014 年夏以 [[Pierre Bourdieu|Bourdieu]] 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始假设——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础（郑雅君，2023）。
 
 ### 2017–2018 补充田野与理论深化
 

@@ -11,7 +11,6 @@ tags:
 related_concepts:
   - "[[Stereotype Threat]]"
   - "[[Chinese Learner]]"
-  - "[[Hypothesis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Orientalism]]"
 related_theories: []
@@ -49,7 +48,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - **2005 年** — Louie 在分析"[[Chinese Learner|中国学习者]]"研究的方法论问题时首次提出该概念，作为对"大文化解释"（large culture explanations）和缺陷/优势二元对立的替代方案
-> - **2007 年** — Ryan & Louie 将其纳入对中国学习者刻板印象的系统批判中，强调教师需要"审视自身的帝国主义[[Hypothesis|假设]]"
+> - **2007 年** — Ryan & Louie 将其纳入对中国学习者刻板印象的系统批判中，强调教师需要"审视自身的帝国主义假设"
 > - **2010 年** — Ryan（2010）在其对[[Chinese Learner|中国学习者]]刻板印象的批判中，将元文化敏感度作为整个论证的**规范性结论**——它不仅是教学技术，更是跨文化教育的基本伦理取向（详见 [[Argument_Ryan_2010_ChineseLearner]]）
 
 ## 核心要素

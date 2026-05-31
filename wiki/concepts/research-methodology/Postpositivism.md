@@ -13,8 +13,8 @@ tags:
   - epistemology
   - paradigm/postpositivist
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Variable]]"
+  - "[[Research Problem]]"
   - "[[Causality]]"
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
@@ -43,16 +43,16 @@ updated: 2026-05-30
 ## 核心要素
 
 > [!abstract]
-> 后实证主义世界观包含以下核心[[Hypothesis|假设]]。
+> 后实证主义世界观包含以下核心假设。
 > - **决定论（Determination）** 原因（可能地）决定效果或结果，研究旨在识别和评估影响结果的因果因素。
-> - **还原论（Reductionism）** 研究意图在于将思想还原为一组小型的、离散的[[Variable|变量]]来进行检验，如构成假设和研究问题的变量。
+> - **还原论（Reductionism）** 研究意图在于将思想还原为一组小型的、离散的[[Variable|变量]]来进行检验，如构成假设和[[Research Problem|研究问题]]的变量。
 > - **经验观察与测量（Empirical Observation and Measurement）** 对客观世界中"存在那里"的现实进行仔细的观察和数值测量。
 > - **理论检验（Theory Verification）** 法则或理论支配着世界，这些理论需要被检验、验证和完善。研究者从理论出发，收集支持或反驳理论的数据，然后进行修正和进一步检验。
 
 ## 理论基础
 
 > [!tip]
-> 后实证主义传统可追溯至 19 世纪的 Comte、Mill、Durkheim、Newton 和 [[John Locke|Locke]]（Smith, 1983），以及更近期的 Phillips 和 Burbules（2000）。Phillips 和 Burbules (2000) 总结了该立场的关键[[Hypothesis|假设]]。
+> 后实证主义传统可追溯至 19 世纪的 Comte、Mill、Durkheim、Newton 和 [[John Locke|Locke]]（Smith, 1983），以及更近期的 Phillips 和 Burbules（2000）。Phillips 和 Burbules (2000) 总结了该立场的关键假设。
 > - 知识是推测性的（反基础主义的），绝对真理永远无法被找到。因此，研究者不"证明"假设，只指出未能拒绝假设。
 > - 研究是提出主张、然后完善或放弃一些主张以换取更有力证据支持的主张的过程。
 > - 数据、证据和理性考量塑造知识。

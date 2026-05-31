@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Progressive Education]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
@@ -97,7 +96,7 @@ Yan & Morris (2025) 的核心理论贡献在于指出：Cuban 框架中各因素
 ## 争议与批评
 
 > [!warning] 美国中心主义：分权化框架适用于中央集权体系？
-> **争议背景**：Cuban (1992) 的框架建立在对美国分权化教育体系的历史分析上——其核心[[Hypothesis|假设]]是课程变革由多个独立力量（[[Progressive Education|进步教育]]运动、立法、利益团体）在分散权力结构中的博弈驱动。这一假设在中央集权体系中可能不成立。
+> **争议背景**：Cuban (1992) 的框架建立在对美国分权化教育体系的历史分析上——其核心假设是课程变革由多个独立力量（[[Progressive Education|进步教育]]运动、立法、利益团体）在分散权力结构中的博弈驱动。这一假设在中央集权体系中可能不成立。
 >
 > **各方立场**：
 > - **批评立场**：在高度中央集权的教育体系中（如中国香港的后 2019 语境），政府可以直接通过法律和行政命令推行课程变革，而无需与独立利益团体协商。Cuban 框架中的"多力量博弈"前提在这些体系中可能完全不存在。

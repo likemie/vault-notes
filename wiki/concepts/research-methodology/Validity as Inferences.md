@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Tracking]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -77,7 +76,7 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - **vs 传统效度概念（效度作为测试属性）** — 传统概念将效度定位在测试本身；Cronbach/Messick/Wiliam 的立场将效度重新定位在推论和使用
 > - **vs 信度（Reliability）** — 信度是关于测量的一致性/稳定性，效度是关于推论的合理性。一个测试可以高度可信（多次产生相同结果）但其推论的效度仍可能受损（如果存在未排除的替代解释）
-> - **vs [[Evidence-Based Education]]** — EBE 倾向于将效度视为方法的属性（[[Randomised Controlled Trials|RCT]] = 高效度的证据），效度作为推论属性的立场挑战这一[[Hypothesis|假设]]
+> - **vs [[Evidence-Based Education]]** — EBE 倾向于将效度视为方法的属性（[[Randomised Controlled Trials|RCT]] = 高效度的证据），效度作为推论属性的立场挑战这一假设
 
 ## 争议与批评
 

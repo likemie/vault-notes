@@ -7,12 +7,12 @@ extracted_to:
   - "[[Epochal Key Problems]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
-  - "[[Problem-Based Learning]]"
   - "[[Finnish National Core Curriculum]]"
   - "[[SveaSus Project]]"
   - "[[Philosophical Analysis in Education]]"
   - "[[Wolfgang Klafki]]"
   - "[[Phenomenology]]"
+  - "[[Problem-Based Learning]]"
 processed_date: 2026-05-06
 ---
 

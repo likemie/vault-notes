@@ -12,8 +12,8 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Self-control]]"
+  - "[[Purpose Statement]]"
   - "[[Social Justice Theory]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Attribution Theory]]"
 related_methods:
@@ -51,7 +51,7 @@ updated: 2026-05-31
 ## 应用示例
 
 > [!example]
-> Kennett et al. (2008) 在一项关于慢性疼痛管理的[[Mixed Method and Multi-method Research|混合方法研究]]中，使用 Rosenbaum (1990) 的[[Self-control|自我控制]]理论（theory of self-control）作为学科理论。研究收集了 Rosenbaum 自我控制量表（SCS）的量化测量数据，并收集了应对慢性疼痛患者的访谈数据。作者在开头段落即提出研究目的："Taking a critical realist perspective informed by Rosenbaum's (1990, 2000) model of self-control..."（p.318）。理论引导了量化测量的选择和质性访谈问题的设计，在文章末尾他们回顾了导致自我管理的因素并以图表呈现最显著的因素（Creswell & Creswell, 2022, pp.69–70）。
+> Kennett et al. (2008) 在一项关于慢性疼痛管理的[[Mixed Method and Multi-method Research|混合方法研究]]中，使用 Rosenbaum (1990) 的[[Self-control|自我控制]]理论（theory of self-control）作为学科理论。研究收集了 Rosenbaum 自我控制量表（SCS）的量化测量数据，并收集了应对慢性疼痛患者的访谈数据。作者在开头段落即提出[[Purpose Statement|研究目的]]："Taking a critical realist perspective informed by Rosenbaum's (1990, 2000) model of self-control..."（p.318）。理论引导了量化测量的选择和质性访谈问题的设计，在文章末尾他们回顾了导致自我管理的因素并以图表呈现最显著的因素（Creswell & Creswell, 2022, pp.69–70）。
 
 > [!example]
 > Clark & Plano Clark (2019) 使用积极心理学（positive psychology）作为学科理论，并辅以社会认知理论、自我决定理论和社会认知职业理论。理论引导了量化阶段的测量选择和质性阶段的参与者选择，也指导了质性数据收集的访谈协议和编码框架。作者将积极心理学描述为"a lens through which to frame the research design, case selection, and interpretation of results and findings"（p.104）（Creswell & Creswell, 2022, p.72）。
@@ -67,7 +67,7 @@ updated: 2026-05-31
 ## 理论基础
 
 > [!tip]
-> [[Mixed Method and Multi-method Research|混合方法研究]]中的理论可以具体指导研究的多个方面。以 Evans et al. (2011) 在护理领域使用生命历程视角（Life Course Perspective）的研究为例：理论通过视觉模型呈现；从理论中提取构念（[[Variable|变量]]）并纳入研究目标；理论结构指导质性问题和量化工具；理论提供质性数据分析的"起始编码和主题"以及量化数据分析的[[Hypothesis|假设]]关系；理论贡献了有用的发现类型学（Creswell & Creswell, 2022, pp.71–72）。
+> [[Mixed Method and Multi-method Research|混合方法研究]]中的理论可以具体指导研究的多个方面。以 Evans et al. (2011) 在护理领域使用生命历程视角（Life Course Perspective）的研究为例：理论通过视觉模型呈现；从理论中提取构念（[[Variable|变量]]）并纳入研究目标；理论结构指导质性问题和量化工具；理论提供质性数据分析的"起始编码和主题"以及量化数据分析的假设关系；理论贡献了有用的发现类型学（Creswell & Creswell, 2022, pp.71–72）。
 
 ## 来源
 

@@ -20,7 +20,6 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
-  - "[[Hypothesis]]"
   - "[[Class Size]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
@@ -62,7 +61,7 @@ updated: '2026-05-18'
 > [!example] 核心论证
 > 1. **前提／观察**：[[John Hattie|Hattie]] 自称"我是统计学家，不是理论家"（Knudsen, 2017），其追随者将 VL 呈现为"不可否认的事实"
 >
-> 2. **论证步骤一——Hattie 是教育理论家**：所有研究都基于理论[[Hypothesis|假设]]（定义问题、选择方法、解释结果）。Hattie 未阐明其理论假设，制造了"结果从数据中无中介流出"的假象。其隐含理论是[[Technical Rationality|技术理性]] + 行为主义（通过 Glaser）
+> 2. **论证步骤一——Hattie 是教育理论家**：所有研究都基于理论假设（定义问题、选择方法、解释结果）。Hattie 未阐明其理论假设，制造了"结果从数据中无中介流出"的假象。其隐含理论是[[Technical Rationality|技术理性]] + 行为主义（通过 Glaser）
 >
 > 3. **论证步骤二——实证问题**：
 >    - **单一因果因素**：Hattie 追求离散因果因素（如[[Class Size|班级规模]]、作业、反馈）的[[Effect Size|效应量]]，但教育实践是相互关联的开放系统。以班级规模为例：Berger (1982) 论证班级规模本身不能作为有意义的分析单元——需结合学生能力、社会背景、教师能力等

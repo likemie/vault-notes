@@ -9,7 +9,6 @@ tags:
   - subject/research-methodology
   - paradigm/positivist
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -33,7 +32,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 变量（variable）指个体或组织的某种特征或属性，它可以被研究者测量或观察，且在不同个体或组织之间存在差异（Creswell & Creswell, 2022, p.54）。变量是[[Quantitative Research|量化研究]]构建理论、提出[[Hypothesis|假设]]和检验[[Causality|因果关系]]的基本分析单位。常见的变量包括性别、年龄、社会经济地位（SES），以及态度或行为如种族偏见、社会控制、政治权力和领导力。
+> 变量（variable）指个体或组织的某种特征或属性，它可以被研究者测量或观察，且在不同个体或组织之间存在差异（Creswell & Creswell, 2022, p.54）。变量是[[Quantitative Research|量化研究]]构建理论、提出假设和检验[[Causality|因果关系]]的基本分析单位。常见的变量包括性别、年龄、社会经济地位（SES），以及态度或行为如种族偏见、社会控制、政治权力和领导力。
 
 > [!quote]
 > "A variable refers to a characteristic or attribute of an individual or an organization that researchers can measure or observe and varies among the individuals or organizations."（Creswell & Creswell, 2022, p.54）
@@ -41,7 +40,7 @@ updated: 2026-05-31
 ## 概念辨析
 
 > [!example]
-> **变量 vs [[Hypothesis|假设]]**：变量是构成理论的基本要素，假设是对变量之间关系的预测性陈述。变量回答"研究什么"，假设回答"变量之间如何关联"。
+> **变量 vs 假设**：变量是构成理论的基本要素，假设是对变量之间关系的预测性陈述。变量回答"研究什么"，假设回答"变量之间如何关联"。
 
 > [!example]
 > **变量 vs 构念（construct）**：构念是理论层面的抽象概念（如"动机""智力"），变量是构念在实证层面的可操作化、可测量形式。在研究实践中，二者常互换使用，但对操作化要求严格的[[Quantitative Research|量化研究]]更强调"变量"的可测量性。
@@ -65,7 +64,7 @@ updated: 2026-05-31
 
 ### 预测变量（Predictor Variable）
 
-预测变量（也称前因变量 antecedent variable）在[[Survey Research|调查研究]]方法中用于预测感兴趣的结果。它与自变量类似，都[[Hypothesis|假设]]会影响研究结果；但区别在于研究者无法系统操纵预测变量（Creswell & Creswell, 2022, p.55）。
+预测变量（也称前因变量 antecedent variable）在[[Survey Research|调查研究]]方法中用于预测感兴趣的结果。它与自变量类似，都假设会影响研究结果；但区别在于研究者无法系统操纵预测变量（Creswell & Creswell, 2022, p.55）。
 
 > [!example]
 > 可能无法随机分配个体到"红酒消费组"或"对照组"（作为自变量），但可以在社区样本中测量自然发生的红酒消费量（作为预测变量）。
@@ -95,7 +94,7 @@ updated: 2026-05-31
 ## 理论基础
 
 > [!tip]
-> 变量是理论在实证层面的操作性表达。[[Hypothesis|假设]]将变量组织为预测性陈述，理论则解释为什么这些变量之间存在关系。Creswell & Creswell (2022, p.54) 用彩虹比喻理论的角色，将彩虹描述为架起自变量和因变量之间的桥梁，为"自变量为何以及如何解释或预测因变量"提供总体解释。
+> 变量是理论在实证层面的操作性表达。假设将变量组织为预测性陈述，理论则解释为什么这些变量之间存在关系。Creswell & Creswell (2022, p.54) 用彩虹比喻理论的角色，将彩虹描述为架起自变量和因变量之间的桥梁，为"自变量为何以及如何解释或预测因变量"提供总体解释。
 
 ## 相关方法
 

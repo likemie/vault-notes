@@ -17,11 +17,11 @@ extracted_to:
   - "[[Juan Pascual-Leone]]"
   - "[[Robbie Case]]"
   - "[[Akira Miyake]]"
-  - "[[Jean Piaget]]"
   - "[[Kurt Fischer]]"
   - "[[Hebbian Principles]]"
   - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
   - "[[Neo-Piagetian Theories]]"
+  - "[[Jean Piaget]]"
   - "[[Piaget's Theory of Cognitive Development]]"
 processed_date: 2026-05-04
 ---

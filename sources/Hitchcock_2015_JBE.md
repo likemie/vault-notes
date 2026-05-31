@@ -5,10 +5,10 @@ extracted_to:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[5-3-20 Rule]]"
   - "[[WWC SCD Pilot Standards]]"
-  - "[[What Works Clearinghouse]]"
   - "[[Gating Procedure]]"
   - "[[Single-Case Design]]"
   - "[[Campbellian Validity Framework]]"
+  - "[[What Works Clearinghouse]]"
 processed_date: 2026-05-02
 ---
 

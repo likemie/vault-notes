@@ -3,7 +3,6 @@ citation: "Zapp, M. (2022). Universities, Sustainable Development and the 'Knowl
 extracted_to:
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Epistemic Drift]]"
-  - "[[Epistemic Governance]]"
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
   - "[[Organizational Actorhood]]"
@@ -12,6 +11,7 @@ extracted_to:
   - "[[UN Sustainable Development Goals]]"
   - "[[Jane Knight]]"
   - "[[John W. Meyer]]"
+  - "[[Epistemic Governance]]"
   - "[[World Society Theory]]"
 processed_date: 2026-05-11
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
