@@ -1,7 +1,6 @@
 ---
 citation: "Creswell, J. W., & Creswell, J. D. (2022). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). SAGE Publications."
 extracted_to:
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Locus of Control]]"
   - "[[Self-control]]"
   - "[[APA Style]]"
@@ -102,6 +101,7 @@ extracted_to:
   - "[[Robert E. Stake]]"
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 processed_date: 2026-05-30
 ---
 

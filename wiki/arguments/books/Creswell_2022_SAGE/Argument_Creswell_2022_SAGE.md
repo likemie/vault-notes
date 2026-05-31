@@ -58,23 +58,20 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Alternative Hypothesis]]"
   - "[[Study Population and Sample]]"
-  - "[[Construct Validity (Quantitative)]]"
-  - "[[Internal Consistency (Cronbach's Alpha)]]"
-  - "[[Test-Retest Reliability]]"
-  - "[[Inter-Rater Reliability]]"
-  - "[[Response Bias]]"
   - "[[Descriptive Analysis]]"
   - "[[Preregistration]]"
   - "[[Statistical Significance]]"
-  - "[[Confidence Interval]]"
-  - "[[Effect Size]]"
+  - "[[Response Bias]]"
+  - "[[Internal Consistency (Cronbach's Alpha)]]"
   - "[[Manipulation Check]]"
-  - "[[Cover Story]]"
   - "[[Blinding]]"
+  - "[[Cover Story]]"
   - "[[Experimenter Bias]]"
   - "[[Tracking]]"
   - "[[Multiplicity]]"
   - "[[Champ]]"
+  - "[[Confidence Interval]]"
+  - "[[Effect Size]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Attribution Theory]]"
@@ -102,11 +99,11 @@ related_methods:
   - "[[Causal Modeling]]"
   - "[[Pilot Testing]]"
   - "[[t-test]]"
-  - "[[Analysis of Variance (ANOVA)]]"
   - "[[Multiple Regression]]"
-  - "[[Quasi-Experimental Designs]]"
-  - "[[Solomon Four-Group Design]]"
   - "[[Between-Subjects and Within-Subjects Designs]]"
+  - "[[Solomon Four-Group Design]]"
+  - "[[Random Sampling]]"
+  - "[[Analysis of Variance (ANOVA)]]"
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
@@ -116,8 +113,7 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Robert E. Stake]]"
   - "[[Herbert Blalock]]"
-related_facts:
-  - "[[Campbell Collaboration]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
@@ -785,58 +781,148 @@ Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三
 
 **第一部分：量化方法的总框架。** Creswell 首先给出方法部分的四个基本要素——[[Study Population and Sample|研究总体与样本]]特征、研究程序与变量、工具、数据分析计划——目标读者是其他科学家，方法部分应提供足够的操作细节使其他研究者能够在自己的研究情境中重复该研究。后续对调查和实验两种设计的拆解，都围绕这四个要素展开。
 
-进入具体设计之前，Creswell 做了两种设计的对比定位：调查设计通过研究样本提供总体趋势、态度或意见的量化描述（可回答描述性、关系性和预测性三类问题）；实验设计系统地操纵变量并保持其他因素恒定，能超越关联描述去解决因果关系问题。
+进入具体设计之前，Creswell 做了两种设计的系统对比——不是简单的定义罗列，而是让研究者理解两种设计在认识论目标、操作方式和推论强度上的本质差异。
 
-> [!success] 调查 vs 实验的取舍
-> 调查相对便宜、易操作、回收快。实验可以做出[[Causality|因果推断]]，但操纵变量并保持其他因素恒定——如随机要求护士加班不同时长——在操作和伦理上都可能难以实现。两种设计共享一个共同目标：从样本推论总体（Creswell & Creswell, 2022, Ch8）。
+> [!abstract] 调查设计与实验设计的系统对比
+>
+> | 维度 | [[Survey Research\|调查设计]] | [[Experimental Research\|实验设计]] |
+> |---|---|---|
+> | 核心目标 | 描述总体趋势、态度、意见，或检验变量间关联 | 检验一个变量对另一个变量的因果效应 |
+> | 变量角色 | 所有变量均被测量，无操纵 | 自变量被主动操纵，因变量被测量 |
+> | 因果推断 | 仅能做出关联推断 | 通过保持其他变量恒定，可做出因果推断 |
+> | 分配方式 | [[Random Sampling\|随机抽样]]（关注样本→总体的代表性） | [[Random Assignment\|随机分配]]（关注组间等价性） |
+> | 典型问题类型 | 描述性、关系性、预测性（纵向） | 因果性——"X 是否导致 Y？" |
+> | 主要优势 | 经济、快捷、可覆盖大样本 | [[Internal Validity\|内部效度]]高，可建立因果关系 |
+> | 主要局限 | 无法建立因果关系；自我报告偏差 | 操作与伦理约束；生态效度可能受限 |
+> | 典型应用 | 民意调查、态度研究、大规模教育评估 | 干预效果评估、实验室行为研究、教学法比较 |
+>
+> Source: Creswell & Creswell, 2022, Ch8
+
+> [!success] Creswell 的取舍逻辑
+> 调查与实验并非"好"与"坏"的关系——选择取决于研究问题的性质。如研究"加班是否预测倦怠"，调查即可；如研究"一种新干预是否降低倦怠"，则需要实验。关键是在方法部分诚实说明为何放弃另一种设计（如"未采用实验设计，因为随机要求护士加班不同时数在操作上极其困难且可能不道德"）。这种诚实不是弱点，而是研究者对设计局限有清醒认识的标志（Creswell & Creswell, 2022, Ch8）。
 
 ---
 
-**第二部分：调查方法计划的组成部分。** 这是本章最长的部分，按调查设计的自然逻辑顺序逐一拆解每个组件。
+**第二部分：调查方法计划的组成部分。** 这是本章最长的部分，按调查设计的自然逻辑顺序逐一拆解每个组件。Creswell 的拆解逻辑是：先给出整体检查清单（Table 8.1），然后按"设计 → 样本 → 工具 → 变量 → 分析 → 解释"的顺序逐项深入。
 
 > [!example]- 图片占位
 > 表8.1：A Checklist of Questions for Designing a Survey Study Plan
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_8-1_Survey_Checklist.jpg)
 
-**调查设计**从说明调查目的和理由开始——目的回答关于变量间关系的问题，理由正面说明调查优势同时诚实承认其他设计的不可行性。调查类型分为横截面和纵向，数据收集形式涵盖邮寄、电话、互联网、个人访谈和团体施测，近年来互联网平台（Qualtrics、Mechanical Turk、Prolific）使用大幅增长。
+> [!abstract] 调查方法计划组件一览
+>
+> | 组件 | 关键决策 | 核心概念 | 详见 |
+> |---|---|---|---|
+> | 调查设计 | 目的声明 → 选择理由 → 横截面/纵向 → 数据收集形式 | 设计类型选择、不可行性辩护 | [[Survey Research]] |
+> | 总体与样本 | 总体识别 → 抽样设计（单阶段/整群）→ 抽样类型（随机/系统/便利）→ 分层 → 样本量确定 | [[Study Population and Sample\|总体 vs 样本]]、[[Random Sampling\|抽样层级]]、[[Power Analysis\|功效分析]] | [[Survey Research]]、[[Power Analysis]] |
+> | 工具 | 选择已有/修改/自编工具 → 报告分数效度 → 报告分数信度 → 试点测试 → 施测流程 | [[Construct Validity (Quantitative)\|构念效度]]与效标效度、[[Internal Consistency (Cronbach's Alpha)\|内部一致性]]（Cronbach's α, .7–.9）、[[Test-Retest Reliability\|重测信度]]、[[Inter-Rater Reliability\|评分者间信度]] | [[Survey Research]]、[[Pilot Testing]] |
+> | 变量 | 变量名称 → 操作性定义 → 测量工具 → 变量对照表 | Table 8.2 变量—定义—工具三列对照 | [[Variable]] |
+> | 数据分析 | 回应率 → [[Response Bias\|回应偏差]] → [[Descriptive Analysis\|描述性分析]] → 信度检查 → 推断统计 → 结果呈现 | Table 8.3 六因素统计选择矩阵 | [[Survey Research]]、[[Descriptive Analysis]] |
+> | 预注册与解释 | 探索性 vs 确认性 → 预注册 → 四层结果报告 → 讨论写作 | [[Preregistration\|预注册]]、[[Statistical Significance\|显著性]]（p 值）、[[Confidence Interval\|置信区间]]、[[Effect Size\|效应量]] | [[Preregistration]]、[[Statistical Significance]] |
+>
+> Source: Creswell & Creswell, 2022, Ch8
 
-**总体与样本**是调查设计中概念密度最高的环节。Creswell 从区分研究总体与研究样本出发，依次拆解抽样设计（单阶段 vs 多阶段整群）、抽样类型（随机 → 系统 → 便利，按理想程度递减）、分层（按已知特征在抽样前对总体分层以确保比例代表性），以及样本量确定——Creswell 特别批评了取总体一定比例或参照过去惯例的做法，强调样本量应基于分析计划和预期结果，功效分析（如 G*Power）是在研究规划阶段估算目标样本量的标准工具。
+**调查设计的起点**是目的声明和选择理由。目的聚焦于变量间关系（如"加班时数是否预测倦怠症状"）；理由从正面说明调查优势，同时诚实承认其他设计不可行的原因——这不仅是方法辩护，也是研究者对设计局限有清醒认识的标志。
 
-**工具**决定数据质量的基础。Creswell 首先区分工具（如温度计）与测量（如体温读数），然后系统讲解两个关键属性：分数的[[Construct Validity (Quantitative)|构念效度]]与效标效度、分数的[[Internal Consistency (Cronbach's Alpha)|内部一致性]]（Cronbach's α，最佳 .7–.9，如 PSS 的 α = .84–.86）与[[Test-Retest Reliability|重测信度]]。当多位评判者使用同一工具时还需评估[[Inter-Rater Reliability|评分者间信度]]。工具内容涵盖封面信、题项类型、量表类型（连续 vs 类别），[[Pilot Testing|试点测试]]用于评估适用性、内部一致性、耗时和疲劳风险。邮寄调查的经典四阶段施测流程（Salant & Dillman, 1994; Dillman, 2007）——提前通知信 → 问卷 → 明信片跟进 → 个性化跟进——共约 4 周。
+**总体与样本**是概念密度最高的环节。Creswell 的拆解体现了层级思维：从"总体 vs 样本"区分出发，逐层下钻到抽样设计（单阶段→多阶段整群）、抽样类型（随机→系统→便利，方法论严格程度递减）、分层（在抽样前按已知特征确保比例代表性），最后到达样本量确定——Creswell 做出了一个鲜明的规范判断：取总体百分比或参照过去惯例来确定样本量是"不最优的"，样本量应基于分析计划和预期结果由功效分析（如 G*Power）确定。
+
+**工具**涉及测量质量的两个支柱——效度（分数是否测准了？）和信度（分数是否稳定？）——以及工具内容构成（封面信、题项、量表类型）。Creswell 在此呈现了一个工业流程式思维：将邮寄调查转化为可操作的四阶段时间线（Salant & Dillman, 1994; Dillman, 2007）——提前通知→问卷→明信片跟进→个性化跟进，共约 4 周。
 
 > [!example]- 图片占位
 > 表8.2：Variables, Definitions, and Their Corresponding Items on a Survey
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_8-2_Variables_Definitions_Items.jpg)
 
-**变量**在方法部分需直接陈述名称、操作性定义和测量工具。一种有效技术是创建变量—定义—工具项目对照表（Table 8.2）。
+**变量**在方法部分需直接陈述名称、操作性定义和测量工具。创建变量—定义—工具项目对照表（Table 8.2）是一种极为有效的组织技术。
 
-**数据分析**分解为六个序列步骤：报告回应/未回应人数 → 检查[[Response Bias|回应偏差]]（波次分析或回应者/非回应者对比）→ [[Descriptive Analysis|描述性分析]]与缺失数据处理 → 反向计分和量表信度检查 → 确定推断统计量（选择依据 Table 8.3 的六因素矩阵：问题性质、变量数量、协变量、变量类型、分布特征）→ 呈现和解释结果。
+**数据分析**被分解为六个序列步骤，每一步都是需要预先说明的决策而非事后操作。Creswell 的分析逻辑有一个鲜明的特点：先确保数据质量（回应率、回应偏差、缺失数据），再做实质分析。
+
+> [!abstract] 调查数据分析六步骤
+>
+> | 步骤 | 内容 | 关键工具/方法 | 详见 |
+> |---|---|---|---|
+> | 1. 回应率报告 | 回应与未回应人数及百分比 | 回应者/非回应者频率表 | [[Survey Research]] |
+> | 2. 回应偏差检查 | 非回应者若回应是否会改变结果 | 波次分析（Leslie, 1972）或回应者/非回应者电话对比 | [[Response Bias]] |
+> | 3. 描述性分析 | 均值、标准差、得分范围；缺失数据识别与处理 | 缺失数据处理策略（Schafer & Graham, 2002） | [[Descriptive Analysis]] |
+> | 4. 信度检查 | 反向计分、量表总分计算、内部一致性 | Cronbach's α | [[Internal Consistency (Cronbach's Alpha)]] |
+> | 5. 推断统计 | 选择适当统计量检验假设 | Table 8.3 六因素选择矩阵 | [[t-test]]、[[Analysis of Variance (ANOVA)\|ANOVA]]、[[Multiple Regression]] 等 |
+> | 6. 结果呈现 | 表格或图形呈现 + 解释 | — | [[Survey Research]] |
+>
+> Source: Creswell & Creswell, 2022, Ch8
 
 > [!example]- 图片占位
 > 表8.3：Criteria for Choosing Select Statistical Tests
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_8-3_Statistical_Tests_Criteria.jpg)
 
-Table 8.3 提供了从[[t-test]]、[[Analysis of Variance (ANOVA)|ANOVA]]、ANCOVA、chi-squared、Pearson 相关到[[Multiple Regression|多元回归]]的完整选择对照。常用软件包括 R、SPSS、Excel、JMP、Stata 等。
+Table 8.3 的六因素矩阵（问题性质、自变量数、因变量数、协变量数、变量类型、分布特征）是本章最实用的工具之一——它将从 [[t-test]] 到 [[Multiple Regression|多元回归]] 的统计检验选择过程从直觉判断转化为系统推导。
 
-**[[Preregistration|预注册]]**——在数据收集前将计划和假设发布到公共注册库（如 Center for Open Science、ClinicalTrials.gov）——是确认性研究提高透明度的关键工具。**结果解释**按 APA (2020) 建议报告四个层次：描述统计、[[Statistical Significance|统计显著性]]（p 值）、[[Confidence Interval|置信区间]]（不确定性范围）和[[Effect Size|效应量]]（实际意义）。讨论部分依次重申发现、联系文献、讨论意义、承认局限、收尾升华。
+**[[Preregistration|预注册]]与结果解释**将方法计划从"如何做"延伸到"如何报告"。Creswell 区分了探索性与确认性研究——预注册只在后者中才是必需的——避免了"所有研究都必须预注册"的教条化。结果解释按 APA (2020) 四层次框架展开，每一层回答一个不同的问题。
+
+> [!abstract] 量化结果解释的四个层次
+>
+> | 层次 | 回答的问题 | 核心指标 |
+> |---|---|---|
+> | 描述统计 | 数据看起来是什么样的？ | 均值、标准差、范围、频率 |
+> | [[Statistical Significance\|统计显著性]] | 结果是否可能仅由偶然产生？ | p 值（通常以 .05 或 .01 为阈值） |
+> | [[Confidence Interval\|置信区间]] | 估计值的精确度如何？ | 95% CI——若重复 100 次，95 次该区间包含真实总体值 |
+> | [[Effect Size\|效应量]] | 效果的强度有多大？（实际意义） | 与统计显著性独立——回答"差异有多大"而非"差异是否存在" |
+>
+> Source: APA, 2020; 引自 Creswell & Creswell, 2022, Ch8
 
 ---
 
-**第三部分：实验方法计划的组成部分。** 实验方法计划遵循标准格式：（a）参与者与设计 →（b）程序 →（c）测量。
+**第三部分：实验方法计划的组成部分。** 实验方法计划遵循标准格式：（a）参与者与设计 →（b）程序 →（c）测量。与调查设计共享许多组件（工具信效度、试点测试、数据分析），但增加了实验独有的要素——随机分配、[[Manipulation Check|操纵检查]]、效度威胁控制和[[Blinding|盲法]]。
 
 > [!example]- 图片占位
 > 表8.4：A Checklist of Questions for Designing an Experimental Study Plan
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_8-4_Experimental_Checklist.jpg)
 
-**参与者与设计**回答三个核心问题：谁参与？（招募程序、纳入排除标准、报酬）如何分配？（[[Random Assignment|随机分配]]是真实验区别于调查的标志性特征；无法完全随机时为准实验）多少人？（功效分析焦点转向估计各条件检测组间差异所需的人数）。末尾需提供正式设计声明。
+> [!abstract] 实验方法计划组件一览
+>
+> | 组件 | 关键决策 | 实验独有要素 | 详见 |
+> |---|---|---|---|
+> | 参与者与设计 | 招募 → 纳入排除标准 → 随机分配 → 功效分析 → 设计声明 | [[Random Assignment\|随机分配]]（真实验 vs 准实验的分界线） | [[Experimental Research]]、[[Random Assignment]] |
+> | 变量 | 自变量操纵 → 操纵检查 → 因变量测量 → 其他变量控制 | [[Manipulation Check\|操纵检查]]（验证操纵是否成功） | [[Experimental Research]]、[[Manipulation Check]] |
+> | 工具与材料 | 操纵材料 + 测量工具 + 封面故事 | [[Cover Story\|封面故事]]（表面可信的解释）+ 解除欺骗 | [[Cover Story]] |
+> | 实验程序 | 设计类型 → 符号图示 → 分配模式 | [[Campbell and Stanley Notation System\|Campbell & Stanley 符号系统]]（X/O/R）；[[Pre-Experimental Designs\|前实验]]/[[Quasi-Experimental Designs\|准实验]]/真实验/[[Single-Subject Design\|单受试者]] | [[Between-Subjects and Within-Subjects Designs]]、[[Factorial Design]]、[[Solomon Four-Group Design]] |
+> | 效度威胁 | 识别 → 分类 → 应对策略 | 10 种[[Internal Validity\|内部效度威胁]] + 3 种[[External Validity\|外部效度威胁]] | [[Internal Validity]]、[[External Validity]] |
+> | 操作步骤 | 时序流程 → 偏差最小化 | [[Blinding\|盲法]]降低[[Experimenter Bias\|实验者偏差]] | [[Blinding]]、[[Experimenter Bias]] |
+> | 数据分析与预注册 | 描述统计 → 初步分析 → 推断检验 → 预注册 | 组间比较为主（ANOVA/ANCOVA/MANOVA）；因子设计检交互 | [[Analysis of Variance (ANOVA)\|ANOVA]]、[[Preregistration]] |
+>
+> Source: Creswell & Creswell, 2022, Ch8
 
-**变量**方面，实验需明确四类：自变量及其操纵方式（可在[[Factorial Design|因子设计]]中同时操纵多个）、[[Manipulation Check|操纵检查]]（实验设计的独特要素，定量验证操纵是否成功）、因变量（可多方式测量）和其他变量（人口学特征、噪音变量、潜在混淆变量）。
+**参与者与设计**的回答逻辑是"谁—如何—多少"三问。其中[[Random Assignment|随机分配]]是实验设计的标志性特征——Creswell 明确区分了随机分配（关注组间等价性→[[Internal Validity|内部效度]]）与[[Random Sampling|随机抽样]]（关注总体代表性→[[External Validity|外部效度]]），这是量化研究中最容易混淆的概念对之一。
 
-**工具与材料**除测量工具的信效度外，还需详细描述操纵目标自变量的材料。[[Cover Story|封面故事]]是对研究目的的表面可信解释——若涉及欺骗需制定解除欺骗方案，所有材料须经 IRB 批准。
+**变量**方面，[[Manipulation Check|操纵检查]]是实验设计独有的要素——它在自变量操纵之后评估操纵是否成功，是实验质量控制的关键环节。Creswell 用自尊操纵→状态自尊量表的实例使这一抽象概念具体化。
 
-**实验程序**是实验方法计划最核心的环节。Creswell 先区分四种设计类型——前实验（[[Internal Validity|内部效度]]最低）、准实验（部分/无随机）、真实验（随机分配，效度最高）、单受试者。报告设计时推荐使用 [[Campbell Collaboration|Campbell]] & Stanley 符号系统（X/O/R/水平线），Chapter 8 以 Examples 8.1–8.4 系统展示了四类设计的具体符号图示（详见各设计对应的条目：[[Pre-Experimental Designs]]、[[Quasi-Experimental Designs]]、[[Solomon Four-Group Design]]、[[Single-Subject Design]]）。此外还需说明受试者分配模式：受试者间、受试者内或[[Between-Subjects and Within-Subjects Designs|混合设计]]。
+**工具与材料**除测量工具的信效度外，还需额外描述操纵目标自变量的材料。[[Cover Story|封面故事]]是对研究目的的表面可信解释——若涉及欺骗需制定解除欺骗方案，所有材料须经 IRB 批准。
 
-**效度威胁**是实验方法计划不可省略的组成部分。内部效度威胁包括三组共 10 种（受试者相关：历史、成熟、回归、选择、流失；处理相关：扩散、补偿性怨恨、补偿性竞争；程序相关：测验、工具）。[[External Validity|外部效度]]威胁包括三种交互效应（选择×处理、情境×处理、历史×处理）。此外还有统计结论效度和构念效度威胁。每种威胁的详细描述与应对策略见对应条目。
+**实验程序**是实验方法计划中最核心也最复杂的环节。Creswell 沿两条线索展开：设计类型（前实验→准实验→真实验→单受试者）和分配模式（受试者间→受试者内→混合）。两种分类交叉产生从最弱（一次性个案）到最强（Solomon 四组）的完整设计谱系。
+
+> [!abstract] 四种实验设计类型的系统对比
+>
+> | 维度 | [[Pre-Experimental Designs\|前实验设计]] | [[Quasi-Experimental Designs\|准实验设计]] | 真实验 | [[Single-Subject Design\|单受试者设计]] |
+> |---|---|---|---|---|
+> | [[Random Assignment\|随机分配]] | 无 | 部分或完全缺失 | 有——核心特征 | 无（个体内比较） |
+> | 对照组 | 无或非等价 | 有但非等价 | 有且等价（随机分配保证） | 自身为对照（A-B-A） |
+> | [[Internal Validity\|内部效度]] | 最低 | 中等 | 最高 | 中等（依赖视觉分析） |
+> | 典型设计 | 一次性个案、单组前后测、静态组比较 | 非等价对照组前后测、中断时间序列 | 前后测对照组、仅后测对照组、[[Solomon Four-Group Design\|Solomon 四组]] | A-B-A、多基线 |
+> | 核心局限 | 无法排除历史/成熟等替代解释 | 选择偏差无法完全排除 | 生态效度可能受限 | 外部效度有限（N 小） |
+> | 适用情境 | 初步探索、教学演示 | 无法随机化的实地研究（学校、医院） | 实验室研究、可随机分配的干预 | 特殊教育、行为干预、临床个案 |
+>
+> Source: Creswell & Creswell, 2022, Ch8, Examples 8.1–8.4
+
+**效度威胁**是 Creswell 对实验研究方法论最重要的贡献之一。他将威胁分四大类，其中内部效度威胁的 10 种细分和对应策略构成了实验设计质量控制的完整框架。
+
+> [!abstract] 效度威胁分类与应对逻辑
+>
+> | 威胁类别 | 数量 | 核心问题 | 应对逻辑 | 详见 |
+> |---|---|---|---|---|
+> | [[Internal Validity\|内部效度威胁]]—受试者相关 | 5 种（历史、成熟、回归、选择、流失） | 受试者自身变化或特征是否替代了处理效应？ | 保持组间等价（随机分配、同质样本） | [[Internal Validity]] |
+> | [[Internal Validity\|内部效度威胁]]—处理相关 | 3 种（扩散、补偿性怨恨、补偿性竞争） | 组间互动或心理反应是否污染了处理效应？ | 隔离或补偿对照组 | [[Internal Validity]] |
+> | [[Internal Validity\|内部效度威胁]]—程序相关 | 2 种（测验、工具） | 测量过程本身是否改变了结果？ | 统一前后测工具、延长间隔 | [[Internal Validity]] |
+> | [[External Validity\|外部效度威胁]] | 3 种（选择×处理、情境×处理、历史×处理） | 结果能否推广到其他人群、情境和时间？ | 限制推广范围、在不同条件下复制 | [[External Validity]] |
+>
+> Source: Adapted from Creswell & Guetterman (2018); 引自 Creswell & Creswell, 2022, Ch8
 
 > [!example]- 图片占位
 > 表8.5：Types of Threats to Internal Validity
@@ -846,14 +932,31 @@ Table 8.3 提供了从[[t-test]]、[[Analysis of Variance (ANOVA)|ANOVA]]、ANCO
 > 表8.6：Types of Threats to External Validity
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_8-6_External_Validity_Threats.jpg)
 
-**实验操作步骤**按时间顺序描述每步流程，核心目标是最小化噪音和偏差——关键手段是[[Blinding|盲法]]以降低[[Experimenter Bias|实验者偏差]]。**数据分析**以组间比较为核心，大量使用 ANOVA、ANCOVA 和 MANOVA，因子设计检验主效应和交互效应；单受试者设计使用折线图。
+Creswell 在此做了一个关键的层次区分：内部效度与外部效度之间存在经典的权衡——严格控制实验室条件保障内部效度，但可能降低外部效度。这不是一个需要"解决"的矛盾，而是研究者在设计阶段需要明确的取舍——结论可以推广到哪些人群、情境和时间，而非抽象地声称"具有普遍性"。
+
+**实验操作步骤与数据分析**将设计蓝图转化为操作流程。操作的核心目标是最小化噪音和偏差——关键手段是[[Blinding|盲法]]以降低[[Experimenter Bias|实验者偏差]]。数据分析以组间比较为核心，大量使用 [[Analysis of Variance (ANOVA)|ANOVA]]、ANCOVA 和 MANOVA；[[Factorial Design|因子设计]]检验主效应和交互效应；[[Single-Subject Design|单受试者设计]]使用折线图。
 
 ---
 
-**第四部分：全章总结与研究范例。** 调查研究的步骤序列从目的、总体与样本、工具、变量、研究问题到数据分析和解释。实验设计从参与者、变量和工具开始，到设计类型确定、Campbell & Stanley 符号图示、效度威胁讨论与应对，再到统计分析和结果解释。
+**第四部分：全章总结与研究范例。** Creswell 在全章结尾做了一个平行结构的总结，两组步骤序列共享四个通用组件（工具信效度、试点测试、数据分析、预注册与解释），但起点和设计逻辑截然不同——调查是"测量"的范式，实验是"操纵+测量"的范式。
+
+> [!abstract] 调查与实验方法计划的组件对照
+>
+> | 组件 | [[Survey Research\|调查方法计划]] | [[Experimental Research\|实验方法计划]] | 共性/差异 |
+> |---|---|---|---|
+> | 起点 | 调查目的与设计类型 | 参与者招募与[[Random Assignment\|随机分配]] | 调查从"测什么"出发；实验从"谁是受试者、如何分组"出发 |
+> | 样本 | [[Study Population and Sample\|总体→样本]]、抽样设计、分层、[[Power Analysis\|功效分析]] | 纳入排除标准、[[Power Analysis\|功效分析]]（焦点转向组间检测） | 功效分析共享，但调查关注关联检测，实验关注组间差异检测 |
+> | 变量 | 预测变量+结果变量+控制变量 | 自变量+[[Manipulation Check\|操纵检查]]+因变量+混淆变量 | 实验独有的操纵检查是质量控制的标志 |
+> | 工具 | 工具信效度、[[Pilot Testing\|试点测试]]、内容构成、施测流程 | 操纵材料+测量工具+[[Cover Story\|封面故事]] | 实验增加了操纵材料和封面故事 |
+> | 设计核心 | 横截面/纵向选择 | [[Pre-Experimental Designs\|前实验]]→[[Quasi-Experimental Designs\|准实验]]→真实验→[[Single-Subject Design\|单受试者]]选择 + [[Campbell and Stanley Notation System\|符号图示]] | 实验设计类型的复杂度远高于调查 |
+> | 质量控制 | [[Response Bias\|回应偏差]]检查 | [[Internal Validity\|内部效度]]+[[External Validity\|外部效度]]威胁识别与应对 + [[Blinding\|盲法]] | 调查关注数据收集偏差；实验关注因果推论威胁 |
+> | 数据分析 | 描述→回应偏差→信度→推断六步骤 | 描述→初步分析（随机化/操纵检查）→推断（组间比较） | 实验增加了操纵成功性检验 |
+> | 终点 | 四层结果解释+讨论写作 | 假设检验+讨论（因果主张+局限+推广范围） | 实验讨论需额外说明推广的边界条件 |
+>
+> Source: Creswell & Creswell, 2022, Ch8
 
 > [!example] Example 8.5：价值肯定压力研究（Creswell et al., 2005）
-> 检验自我肯定活动能否缓冲实验室压力挑战任务的应激反应（唾液皮质醇）。采用 2 × 4 混合设计（价值肯定条件 × 时间四水平），85 名本科生样本基于 G*Power 功效分析预先计算。实验程序控制皮质醇昼夜节律（下午 2:30–7:30），使用随机数生成器分配条件，[[Cover Story|封面故事]]告知研究关注"生理反应对实验室表现任务的响应"，最后解除欺骗。该范例完整展示了从招募到解除欺骗的实验方法计划全貌（Creswell & Creswell, 2022, Ch8, Example 8.5）。
+> 检验自我肯定活动能否缓冲实验室压力挑战任务的应激反应（唾液皮质醇），采用 2 × 4 [[Between-Subjects and Within-Subjects Designs|混合设计]]（价值肯定条件为受试者间变量，时间四水平为受试者内变量）。85 名本科生样本基于 G*Power 功效分析预先计算；实验程序控制皮质醇昼夜节律（下午 2:30–7:30）；使用随机数生成器分配条件；[[Cover Story|封面故事]]告知研究关注"生理反应对实验室表现任务的响应"；最后解除欺骗。该范例将本章所有核心概念——功效分析、[[Random Assignment|随机分配]]、[[Factorial Design|因子设计]]、[[Between-Subjects and Within-Subjects Designs|混合设计]]、[[Cover Story|封面故事]]、[[Manipulation Check|操纵检查]]和[[Blinding|盲法]]——串联为一个完整的方法叙事（Creswell & Creswell, 2022, Ch8, Example 8.5）。
 
 ---
 
