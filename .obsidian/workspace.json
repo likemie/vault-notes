@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault-schema.md",
-                "mode": "source",
+                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vault-schema"
+              "title": "Argument_Creswell_2022_SAGE"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault-schema.md",
+                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "vault-schema 的反向链接列表"
+              "title": "Argument_Creswell_2022_SAGE 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault-schema.md",
+                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "vault-schema 的出链列表"
+              "title": "Argument_Creswell_2022_SAGE 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault-schema.md",
+                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "vault-schema 的大纲"
+              "title": "Argument_Creswell_2022_SAGE 的大纲"
             }
           }
         ]
@@ -190,12 +190,17 @@
   },
   "active": "d5cc64116fa9887e",
   "lastOpenFiles": [
-    "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md",
-    "sources/Rappleye_2006_RCIE/Rappleye_2006_RCIE.md",
-    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
-    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
-    "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf",
+    "wiki/concepts/research-methodology/Internal Consistency (Cronbach's Alpha).md",
+    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+    "wiki/concepts/research-methodology/Response Bias.md",
+    "wiki/methods/quantitative/Power Analysis.md",
+    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md.tmp.40504.52b79276f08c",
     "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md",
-    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
+    "books/Li_2012_Cambridge/Li_2012_Cambridge.md",
+    "wiki/arguments/books/Argument_Li_2012_Cambridge.md",
+    "sources/Rappleye_2006_RCIE/Rappleye_2006_RCIE.md",
+    "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md",
+    "vault-schema.md",
+    "books/Li_2012_Cambridge/Cultural Foundations of Learning.pdf"
   ]
 }
