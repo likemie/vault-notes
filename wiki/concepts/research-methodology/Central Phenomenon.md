@@ -16,6 +16,7 @@ related_concepts:
   - "[[Research Writing Script]]"
   - "[[Constructivist Paradigm]]"
   - "[[Nondirectional Language]]"
+  - "[[Central Question]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -80,6 +81,12 @@ updated: 2026-05-31
 
 > [!success]
 > 研究表明核心现象的表述方式影响研究的走向。Creswell & Creswell (2022, p.126) 指出，使用[[Nondirectional Language|非方向性语言]]（nondirectional language）对[[Qualitative Research|质性研究]]至关重要——比如探索"个体的自我表达经验"而非"个体的成功自我表达"。McCracken (1988) 将此称为质性研究中的"非方向性法则"（law of nondirection），即访谈者或[[Purpose Statement|目的陈述]]写作者很容易通过使用暗示方向性结果的词语而违反这一法则。即便是"有用的""积极的"这样看似中性的词，也可能为研究预设结果方向。
+
+## 核心现象与质性核心研究问题
+
+在质性研究设计中，核心现象是[[Central Question|核心研究问题]]（central question）所询问的对象（Creswell & Creswell, 2022, Ch7）。质性核心研究问题以"What is the [核心现象] for [参与者] at [研究场所]?"的脚本形式，将核心现象转化为一个开放的可探索问题。研究者被建议以一个单一核心现象开始研究，深入探索其细节——"What is the one single concept that you want to explore?"（Creswell & Creswell, 2022, Ch7）。
+
+核心现象的单一性也在核心研究问题层面得到延续：质性研究追求的不是多重变量关系的检验，而是对一个核心现象的深度理解。随着研究发展，多种影响因素会浮现，但研究之初的聚焦点应始终保持单一。
 
 ## 相关案例
 

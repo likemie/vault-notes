@@ -13,6 +13,9 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
+  - "[[Null Hypothesis]]"
+  - "[[Alternative Hypothesis]]"
+  - "[[Research Question]]"
 related_theories:
   - "[[Attribution Theory]]"
 related_methods:
@@ -64,10 +67,51 @@ updated: 2026-05-31
 > - **理论基础**：假设应从已有理论中推导而来，而非凭空产生
 > - **具体性**：明确指定涉及的变量以及关系的性质
 
+## 零假设与备择假设
+
+在正式假设检验语言中，假设有两种基本形式（Creswell & Creswell, 2022, Ch7）：
+
+> [!info]
+> - **[[Null Hypothesis|零假设]]（null hypothesis）**：预测在总体中变量间不存在关系或组间不存在显著差异。目的是通过陈述一个否定性预期来反驳理论。典型表述为"There is no difference (or relationship)" between the groups。
+> - **[[Alternative Hypothesis|备择假设]]（alternative hypothesis）**：预测变量间存在显著关系。最好写为方向性形式（directional），即不仅预测存在关系，还预测关系的方向。
+
+> [!success] 方向性备择假设
+> Creswell & Creswell (2022, Ch7) 强调，研究者应将备择假设写为方向性形式。例如："It is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more"或"The higher the relationship skills, the higher the leadership potential."方向性词汇包括 affect, influence, predict, impact, determine, cause, relate。
+
+## 量化研究问题与假设的区分
+
+在[[Quantitative Research|量化研究]]中，研究问题（research questions）和假设（hypotheses）是两个不同但互补的工具（Creswell & Creswell, 2022, Ch7）：
+
+| | 量化研究问题 | 量化假设 |
+|---|---|---|
+| 功能 | 就变量间关系提问 | 对变量间关系做出预测 |
+| 形式 | 疑问句 | 陈述句 |
+| 示例 | "What is the relationship between X and Y?" | "It is predicted that X positively affects Y" |
+| 分析方式 | 描述性或推论性统计 | 假设检验（如 t 检验、方差分析） |
+
+除假设外，量化研究问题还可以是描述性的（descriptive，描述单一变量的频率和变异），也可以是关系型的（relational，考察变量间关系，使用推论性统计基于样本对总体做出推论）。
+
+> [!tip] 写作脚本
+> 关系型量化研究问题与方向性假设的[[Research Writing Script|写作脚本]]（Creswell & Creswell, 2022, Ch7）：
+>
+> "____（理论名称____）posits that ____（解释变量间的关系____）。It is thus predicted that there will be a relationship between ____（预测变量____）and ____（结果变量____），such that ____（解释预测变量与结果变量之间效应的方向____）。"
+
+## 写作范例
+
+> [!example]
+> Moore (2000) 在以色列社会中宗教与世俗犹太和阿拉伯女性的性别认同研究中，提出了两条方向性假设（Creswell & Creswell, 2022, Ch7）：
+>
+> **H1**: Religious women with salient gender identity are less socio-politically active than secular women with salient gender identities.
+>
+> **H2**: The relationships among gender identity, religiosity, and social actions are weaker among Arab women than among Jewish women.
+
 ## 相关概念
 
 - [[Variable]] — 假设是对变量之间关系的预测性陈述
 - [[Causality]] — 假设通常隐含因果方向的预测
+- [[Null Hypothesis]] — 预测无关系或无差异的假设形式
+- [[Alternative Hypothesis]] — 预测存在显著关系且最好有方向的假设形式
+- [[Research Question]] — 研究设计与假设互补的"路标"，量化研究中与假设共同收窄目的陈述
 - Theory in [[Quantitative Research]] — 假设是理论在操作层面的表达
 
 ## 来源
