@@ -30,6 +30,9 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Convergent Design]]"
+  - "[[Explanatory Sequential Design]]"
+  - "[[Exploratory Sequential Design]]"
   - "[[Joint Display]]"
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"
@@ -69,9 +72,9 @@ updated: 2026-05-30
 > [!example] 操作步骤
 > Creswell & Creswell (2022) 提出三种核心混合方法设计，另有四种复杂设计可选。
 > 
-> - **聚敛式设计（Convergent Design）** 同时收集量化和质性数据，将两者的分析结果合并以形成综合解释。
-> - **解释性序列设计（Explanatory Sequential Design）** 先收集并分析量化数据，再用质性数据深入解释量化结果。
-> - **探索性序列设计（Exploratory Sequential Design）** 先收集并分析质性数据以探索现象，再用量化数据检验或推广质性发现。
+> - **[[Convergent Design|聚敛式设计]]（Convergent Design）** 同时收集量化和质性数据，将两者的分析结果合并以形成综合解释。
+> - **[[Explanatory Sequential Design|解释性序列设计]]（Explanatory Sequential Design）** 先收集并分析量化数据，再用质性数据深入解释量化结果。
+> - **[[Exploratory Sequential Design|探索性序列设计]]（Exploratory Sequential Design）** 先收集并分析质性数据以探索现象，再用量化数据检验或推广质性发现。
 > 
 > 复杂混合方法设计（Complex Mixed Methods Design）将一种或多种核心设计嵌入更大的框架或流程之中，常见形态包括：
 > - **嵌入实验**：在实验结束后收集质性数据，帮助解释量化结果

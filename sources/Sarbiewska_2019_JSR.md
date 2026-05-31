@@ -1,7 +1,6 @@
 ---
 citation: "Sarbiewska, A. (2019). Visible Learning and educational policies in New Zealand and Australia. Język-Szkoła-Rodzina, 16, 117–129."
 extracted_to:
-  - "[[Argument_Sarbiewska_2019_JSR]]"
   - "[[Bildung]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
@@ -14,6 +13,7 @@ extracted_to:
   - "[[Dietrich Benner]]"
   - "[[John Hattie]]"
   - "[[Radical Constructivism]]"
+  - "[[Argument_Sarbiewska_2019_JSR]]"
 processed_date: 2026-05-05
 ---
 

@@ -15,6 +15,7 @@ related_concepts: []
 related_theories: []
 related_methods:
   - "[[Mixed Method and Multi-method Research]]"
+  - "[[Convergent Design]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -43,7 +44,7 @@ updated: 2026-05-30
 ## 适用场景
 
 > [!success]
-> - 适合各种[[Mixed Method and Multi-method Research|混合方法]]设计中的数据整合阶段，尤其是在聚敛式设计中需要直接比较量化与质性结果时。
+> - 适合各种[[Mixed Method and Multi-method Research|混合方法]]设计中的数据整合阶段，尤其是在[[Convergent Design|聚敛式设计]]中需要直接比较量化与质性结果时。
 > - 可在研究报告的方法部分或发现部分呈现，作为展示数据整合过程和分析依据的透明工具。
 
 ## 局限性

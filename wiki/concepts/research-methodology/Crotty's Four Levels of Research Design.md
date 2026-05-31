@@ -19,6 +19,7 @@ related_theories: []
 related_methods:
   - "[[Ethnography]]"
   - "[[Mixed Method and Multi-method Research]]"
+  - "[[Convergent Design]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -56,7 +57,7 @@ updated: 2026-05-31
 Creswell & Creswell (2022, p.71) 使用 Crotty 的四层框架来区分世界观与理论。世界观在最上层，涉及研究者的信念和价值观，在抽象层面运作。理论在第二层，较不抽象，从文献中提取，为研究设计的诸多方面提供具体指导。从理论出发，再到方法论路径，最后到具体的数据收集方法。这四层之间存在自上而下的逻辑关系——每一层的选择都约束和引导着下一层的决策。
 
 > [!example] 示例
-> 一项[[Mixed Method and Multi-method Research|混合方法研究]]可能沿着四层展开：世界观层采用[[Pragmatic Paradigm|实用主义]] → 理论透镜层采用女性主义视角 → 方法论路径层选择混合方法聚敛式设计 → 数据收集方法层同时使用 Likert 量表问卷和半结构化访谈。
+> 一项[[Mixed Method and Multi-method Research|混合方法研究]]可能沿着四层展开：世界观层采用[[Pragmatic Paradigm|实用主义]] → 理论透镜层采用女性主义视角 → 方法论路径层选择混合方法[[Convergent Design|聚敛式设计]] → 数据收集方法层同时使用 Likert 量表问卷和半结构化访谈。
 
 ## 概念辨析
 

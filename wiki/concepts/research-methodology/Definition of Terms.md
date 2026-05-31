@@ -13,6 +13,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Method and Multi-method Research]]"
+  - "[[Convergent Design]]"
 related_persons:
   - "[[John Locke]]"
 related_facts: []
@@ -78,7 +79,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ### 混合方法研究
 
-[[Mixed Method and Multi-method Research|混合方法研究]]的术语策略视起始阶段而定：如果研究以量化阶段开始，可包含独立的定义章节；如果以质性阶段开始，术语可在研究过程中涌现。但混合方法特有的术语（如"聚敛式设计""整合""元推论"）应在程序讨论中加以说明。
+[[Mixed Method and Multi-method Research|混合方法研究]]的术语策略视起始阶段而定：如果研究以量化阶段开始，可包含独立的定义章节；如果以质性阶段开始，术语可在研究过程中涌现。但混合方法特有的术语（如"[[Convergent Design|聚敛式设计]]""整合""元推论"）应在程序讨论中加以说明。
 
 ---
 

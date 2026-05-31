@@ -13,7 +13,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
-  - "[[Script (Research Writing)]]"
+  - "[[Research Writing Script]]"
   - "[[Locus of Control]]"
   - "[[Research Problem]]"
 related_theories:
@@ -52,7 +52,7 @@ updated: 2026-05-31
 
 ## 写作结构
 
-Creswell & Creswell (2022, pp.62–63) 提供了一个实用的[[Script (Research Writing)|写作脚本]]。理论视角章节应依次包含以下要素：
+Creswell & Creswell (2022, pp.62–63) 提供了一个实用的[[Research Writing Script|写作脚本]]。理论视角章节应依次包含以下要素：
 
 > [!abstract]
 > 1. **指明所用理论**：明确写出"我将使用的理论是_____（理论名称）"

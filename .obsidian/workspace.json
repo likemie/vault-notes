@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/research-methodology/Introduction (Research Writing).md",
+                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction (Research Writing)"
+              "title": "Argument_Creswell_2022_SAGE"
             }
           }
         ]
@@ -190,11 +190,18 @@
   },
   "active": "ab1c0edf0a848eb0",
   "lastOpenFiles": [
-    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-    "wiki/concepts/research-methodology/Script (Research Writing).md",
-    "wiki/concepts/research-methodology/Purpose Statement.md",
-    "wiki/concepts/research-methodology/Nondirectional Language.md",
     "wiki/concepts/research-methodology/Social Justice Theory.md",
+    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+    "wiki/methods/mixed/Exploratory Sequential Design.md",
+    "wiki/concepts/research-methodology/Purpose Statement.md",
+    "wiki/methods/mixed/Explanatory Sequential Design.md",
+    "wiki/methods/mixed/Convergent Design.md",
+    "scripts/rename_writing_entries.py",
+    "wiki/concepts/research-methodology/Research Introduction.md",
+    "wiki/concepts/research-methodology/Research Writing Script.md",
+    "wiki/concepts/research-methodology/Introduction (Research Writing).md",
+    "wiki/concepts/research-methodology/Script (Research Writing).md",
+    "wiki/concepts/research-methodology/Nondirectional Language.md",
     "wiki/concepts/research-methodology/Stable Unit Treatment Value Assumption.md",
     "wiki/concepts/research-methodology/Statistical Significance.md",
     "wiki/concepts/research-methodology/Theoretical End Point.md",
@@ -213,19 +220,12 @@
     "wiki/concepts/research-methodology/Inverted Triangle Literature Search.md",
     "wiki/concepts/research-methodology/Abstract.md",
     "wiki/concepts/research-methodology/Definition of Terms.md.tmp.96889.132348e72b88",
-    "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md",
-    "wiki/concepts/research-methodology/Introduction (Research Writing).md",
-    "wiki/concepts/research-methodology/Voice, Tense, and Concision in Academic Writing.md",
-    "wiki/concepts/research-methodology/Narrative Hook.md",
     "raw/011_Chapter 5 The Introduction.txt",
-    "wiki/concepts/research-methodology/Narrative Thought Types.md",
-    "wiki/concepts/research-methodology/Hypothesis.md",
     "wiki/concepts/research-methodology/Informed Consent.md.tmp.86671.13b7ea6cd09c",
     "raw/009_Chapter 4 Writing Strategies and Ethical Considerations.txt",
     "scripts/check_duplicates.py",
     "scripts/fix_duplicate_keys.py",
     "wiki/persons/usa/Fred N. Kerlinger.md.tmp.83374.c60c6626be8a",
-    "scripts/rename_entries_batch.py",
     "books/郑_2023_上海三联书店/figures/学校情况.jpeg",
     "books/Li_2012_Cambridge/figures/virtue-oriented learning processes in China:East Asia..png",
     "books/Li_2012_Cambridge/figures/Argument_Li_2012_Chapter_Relation_Map.svg",

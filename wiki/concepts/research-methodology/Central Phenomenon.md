@@ -13,7 +13,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Purpose Statement]]"
   - "[[Research Topic]]"
-  - "[[Script (Research Writing)]]"
+  - "[[Research Writing Script]]"
   - "[[Constructivist Paradigm]]"
   - "[[Nondirectional Language]]"
 related_theories:
@@ -58,7 +58,7 @@ updated: 2026-05-31
 ## 核心要素
 
 > [!abstract] 核心现象在质性目的陈述中的位置
-> 核心现象是质性[[Purpose Statement|目的陈述]][[Script (Research Writing)|写作脚本]]中的第三个关键填空位置：
+> 核心现象是质性[[Purpose Statement|目的陈述]][[Research Writing Script|写作脚本]]中的第三个关键填空位置：
 >
 > 本____[[Qualitative Research|质性研究]]____的目的是____（行动动词____）____（参与者____在____（研究场所____的__**核心现象**__。在研究目前阶段，__**核心现象**__的一般定义是____。
 

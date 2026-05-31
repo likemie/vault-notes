@@ -3222,18 +3222,6 @@
     ]
   },
   {
-    "title": "Introduction (Research Writing)",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Introduction (Research Writing).md",
-    "aliases": [
-      "引言（研究写作）",
-      "研究引言",
-      "scholarly introduction",
-      "academic introduction",
-      "research introduction"
-    ]
-  },
-  {
     "title": "Inverted Triangle Literature Search",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Inverted Triangle Literature Search.md",
@@ -3425,6 +3413,18 @@
     ]
   },
   {
+    "title": "Research Introduction",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Research Introduction.md",
+    "aliases": [
+      "引言（研究写作）",
+      "研究引言",
+      "scholarly introduction",
+      "academic introduction",
+      "research introduction"
+    ]
+  },
+  {
     "title": "Research Problem",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Research Problem.md",
@@ -3446,6 +3446,17 @@
     ]
   },
   {
+    "title": "Research Writing Script",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Research Writing Script.md",
+    "aliases": [
+      "写作脚本",
+      "研究写作脚本",
+      "research writing script",
+      "fill-in script"
+    ]
+  },
+  {
     "title": "Researcher Degrees of Freedom",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Researcher Degrees of Freedom.md",
@@ -3462,17 +3473,6 @@
       "测量量表",
       "measurement scale",
       "scales of measurement"
-    ]
-  },
-  {
-    "title": "Script (Research Writing)",
-    "type": "concept",
-    "path": "wiki/concepts/research-methodology/Script (Research Writing).md",
-    "aliases": [
-      "写作脚本",
-      "研究写作脚本",
-      "research writing script",
-      "fill-in script"
     ]
   },
   {
@@ -4491,6 +4491,37 @@
     "path": "wiki/theories/sociology-of-education/Refraction Framework.md",
     "aliases": [
       "折射框架"
+    ]
+  },
+  {
+    "title": "Convergent Design",
+    "type": "method",
+    "path": "wiki/methods/mixed/Convergent Design.md",
+    "aliases": [
+      "聚敛式设计",
+      "convergent mixed methods design",
+      "聚敛式混合方法设计",
+      "concurrent design"
+    ]
+  },
+  {
+    "title": "Explanatory Sequential Design",
+    "type": "method",
+    "path": "wiki/methods/mixed/Explanatory Sequential Design.md",
+    "aliases": [
+      "解释性序列设计",
+      "explanatory sequential mixed methods design",
+      "解释性序列混合方法设计"
+    ]
+  },
+  {
+    "title": "Exploratory Sequential Design",
+    "type": "method",
+    "path": "wiki/methods/mixed/Exploratory Sequential Design.md",
+    "aliases": [
+      "探索性序列设计",
+      "exploratory sequential mixed methods design",
+      "探索性序列混合方法设计"
     ]
   },
   {
