@@ -1,0 +1,232 @@
+Chapter 7 Research Questions and Hypotheses
+===========================================
+
+Chapter 7 Research Questions and Hypotheses
+
+Learning Objectives
+
+Identify the types of research questions and hypotheses used in a quantitative study.
+
+Learn how to write a good qualitative central question and sub-questions.
+
+Describe how to craft a mixed methods question describing the intent and procedures for a mixed methods study.
+
+Introduction
+
+Investigators place signposts to carry the reader through a plan for a study. The first signpost is the purpose statement, which establishes the central intent for the study. The next are the research questions or hypotheses narrowing the purpose statement to predictions about what will be learned or questions to be answered in the study. This chapter begins by advancing several principles in designing quantitative research questions and hypotheses. We provide helpful scripts for writing these questions and hypotheses. We also discuss a model for writing descriptive and inferential questions or hypotheses. Then we turn to qualitative research and focus on writing research questions. Qualitative research uses research questions and not hypotheses because the researcher does not want to predict a direction for study outcomes.
+
+Finally, this chapter advances the use of research questions and hypotheses in mixed methods studies and incorporates the latest thinking about forming quantitative questions or hypotheses, a qualitative question, and a mixed methods question. This mixed methods question, a recent addition in research methodology, addresses what the researcher will learn from combining (or integrating) the quantitative and qualitative data.
+
+Quantitative Research Questions and Hypotheses
+
+In quantitative studies, investigators use quantitative research questions and hypotheses to shape and focus the purpose of the study. Quantitative research questions pose questions about the relationships among variables in a study. Quantitative hypotheses, in contrast, are predictions the researcher makes about the expected relationships among variables. Testing hypotheses employs statistical procedures in which the investigator draws inferences about a population from a study sample (see also Chapter 8). Experiments or intervention studies, using a comparison among groups, are guided by formal hypotheses.
+
+Guidelines for writing good quantitative research questions and hypotheses include the following.
+
+State variables in research questions or hypotheses. Quantitative studies typically use three types. The researcher may compare groups on an independent variable to see its impact on a dependent variable as in an experiment or group comparison. Alternatively, the investigator may relate one or more predictor variables to one or more outcome variables in a survey project. In each case, the researcher may describe responses to the independent/predictor, mediating, or dependent/outcome variables reporting scores with means, standard deviations, and ranges.
+
+Include a theory. The most rigorous form of quantitative research follows from a test of a theory (see Chapter 3) and the specification of research questions or hypotheses that logically follow or challenge the theory. The researcher adapts a theory (often from the literature) to fit a specific study.
+
+Research questions can be descriptive questions where the intent is to describe a single variable. Alternatively, the research questions can state relationship questions among variables.
+
+Create a directional alternative hypothesis. In formal hypothesis testing language there are two basic forms of hypotheses: (a) null and (b) alternative. A null hypothesis makes a prediction that in the general population, no relationship or no significant difference exists between groups on a variable. The intent is to disprove a theory by stating a negative expectation. The wording is, “There is no difference (or relationship)” between the groups. Most hypotheses focus on offering an alternative hypothesis. An alternative hypothesis makes a prediction about a significant relationship between variables. Moreover, it is important to make this alternative hypothesis directional, such that it is a prediction in a certain direction. For example, “it is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more” or “the higher the relationship skills, the higher the leadership potential.”
+
+Use directional words of quantitative research, such as affect, influence, predict, impact, determine, cause, and relate.
+
+We provide several scripts for help in writing quantitative research questions and types of hypotheses. Fill in the blanks in these scripts.
+
+Example 7.1 Script for a Descriptive Quantitative Research Question
+
+What is the frequency and variation of scores on _______ (name the variable) for _______ (participants) in the study? (a descriptive question)
+
+This example describes the frequency and variation of variable scores. The data analysis comprises means, standard deviations, variance, and range of scores on a single variable. This type of question relates to descriptive research.
+
+Alternatively, a researcher could relate variables rather than assess only one. This type would be an inferential research question. Researchers use inferential statistics to analyze the relationship (e.g., correlation analysis) and draws inferences about a population based on the sample. Here is a script for a quantitative research question focused on examining the relationship among variables:
+
+Example 7.2 Script for a Relationship-Oriented Quantitative Research Question and Directional Hypothesis
+
+_______ (name the theory) posits that _______ (explain relationships between variables). It is thus predicted that there will be a relationship between _______ (predictor variable) and _______ (outcome variable), such that _______ (explain the direction of the effect between the predictor and outcome variable).
+
+Example 7.3 Example of Quantitative Directional Hypotheses
+
+It is common to offer multiple directional hypotheses in a single quantitative study. For example, Moore (2000) studied the meaning of gender identity for religious and secular Jewish and Arab women in Israeli society. Below are two hypotheses that were tested in a national probability sample of Jewish and Arab women:
+
+H1: Religious women with salient gender identity are less socio-politically active than secular women with salient gender identities.
+
+H2: The relationships among gender identity, religiosity, and social actions are weaker among Arab women than among Jewish women.
+
+Sometimes researchers present a set of questions and hypotheses in a single study. A model for this form of writing quantitative research can provide a useful template for a study.
+
+Qualitative Research Questions
+
+In a qualitative study, inquirers state research questions, not objectives (i.e., specific goals for the research) or hypotheses (i.e., predictions that involve variables). These research questions assume two forms: (a) a central question and (b) sub-questions. A central question in qualitative research is the major open-ended question being asked about the central phenomenon by interviewing participants, observing settings, or reviewing documents. Qualitative sub-questions narrow the central question by dividing the central phenomenon into sub-topics focused on learning more about the central phenomenon. Our recommendations for writing qualitative questions follow.
+
+Ask one or two central research questions. The central question is a broad question that asks for an exploration of the central phenomenon or concept in a study. The inquirer poses this question, consistent with the emerging methodology of qualitative research, as a general issue to encourage the views of participants. To arrive at this question, ask, “What is the broadest question that I can ask in my study?” Beginning researchers trained in quantitative research might struggle with this approach. They are accustomed to reverse thinking. Quantitative research comprises narrowing the research questions to a few, specific variables. In qualitative research, the intent is to explore the general, complex set of factors surrounding the central phenomenon and present the broad, varied perspectives or meanings that participants hold.
+
+Ask no more than five to seven sub-questions in addition to your central question(s). Several sub-questions follow the central question; they narrow the focus of the study but leave open the questioning. This approach is well within the limits set by Miles and Huberman (1994), who recommended that researchers write no more than a dozen qualitative research questions in all (central and sub-questions). The sub-questions, in turn, become specific questions used in data collection, such as during interviews (or in observing or when looking at documents). In developing an interview protocol or guide, the researcher might ask an icebreaker question at the beginning, for example, followed by five or so sub-questions in the study (see Chapter 9). The interview would then end with an additional wrap-up or summary question or by asking, “Who should I turn to, to learn more about this topic?” (Asmussen & Creswell, 1995).
+
+Relate the central question to the specific qualitative approach. For example, the specificity of the questions in ethnography at this stage of the design differs from that in other qualitative approaches. In ethnographic research, Spradley (1980) advanced a taxonomy of ethnographic questions that included a mini-tour of the culture-sharing group, their experiences, use of native language, contrasts with other cultural groups, and questions to verify the accuracy of the data. In critical ethnography, the research questions may build on a body of existing literature. These questions become working guidelines rather than proven truths (Thomas, 1993). Alternatively, in phenomenology, the questions might be broadly stated without specific reference to the existing literature or a typology of questions. Moustakas (1994) talked about asking what the participants experienced and what contexts or situations in which they experienced it. A phenomenological example is: “What is it like for a mother to live with a teenage child who is dying of cancer?” (Nieswiadomy, 1993, p. 151). In grounded theory, the questions may be directed toward generating a theory of some process, such as the exploration of “how caregivers and patients interact in a hospital setting.” In a qualitative case study, the questions may address a description of the case and the themes that emerge from studying it.
+
+Begin the research questions with the words what or how to convey an open and emerging design. The word why often implies that the researcher is trying to explain why something occurs, and this suggests to us probable cause-and-effect thinking associated with quantitative research and that limits the explanations rather than opening them up for participant views.
+
+Focus on a single central phenomenon or concept. As a study develops over time, factors will emerge that may influence this single phenomenon. Begin a study with a single focus to explore in detail. We often ask, “What is the one single concept that you want to explore?”
+
+Use exploratory verbs that convey the language of emerging design. These verbs tell the reader that the study will do the following:
+
+Report (or reflect) the stories (e.g., narrative research)
+
+Describe the essence of the experience (e.g., phenomenology)
+
+Discover or generate a theory (e.g., grounded theory)
+
+Seek to understand a culture sharing group (e.g., ethnography)
+
+Explore a process of a case (e.g., case study)
+
+Describe the themes (e.g., descriptive analysis)
+
+Expect the research questions to evolve and change during the study. Often in qualitative studies, the questions are under continual review and reformulation (as in a grounded theory study). This approach may be problematic for individuals accustomed to quantitative designs in which the research questions remain fixed and never change throughout the study.
+
+Use open-ended questions without reference to the literature or theory unless otherwise indicated by a qualitative approach.
+
+Specify the participants and the research site for the study if the information has not yet been given.
+
+Here is a typical script for a qualitative central question:
+
+________ (How or what?) is the ________ (central phenomenon) for, ________ (participants) at ________ (research site).
+
+Examples 7.4 and 7.5 illustrate qualitative research questions drawn from several types of approaches. The central questions all begin with the words how or what and create broad, open-ended questions to gather participant views.
+
+Example 7.4 A Qualitative Central Question in an Ethnography
+
+Mac an Ghaill and Haywood (2015) researched the changing cultural conditions inhabited by a group of British-born, working-class Pakistani and Bangladeshi young men over a 3-year period. They did not specifically construct a research question, but we would suggest it as follows:
+
+What are the core beliefs related to ethnicity, religion, and cultural belonging of the group of British-born, working-class Pakistani and Bangladeshi young men over a 3-year time period, and how do the young men construct and understand their geographically specific experiences of family, schooling, and social life as well as growing up and interacting within their local community in a rapidly changing Britain?
+
+This question would have begun with “what,” and it would single out the central phenomenon—core beliefs—for the young men. The young men are the participants in the study, and as an ethnography, the study clearly attempts to examine the cultural beliefs of these young Pakistani and Bangladeshi men. Further, from the question, we can see that the study is situated in Britain.
+
+Example 7.5 Qualitative Central Questions in a Case Study
+
+Hernandez et al. (2020) evaluated an intergenerational playgroup at a residential aged care setting. This playgroup created opportunities for children to develop their skills, parents to have a local peer support network, and older adults to experience less isolation and more community interaction. The authors asked one central question:
+
+How do participants engage in an intergenerational playgroup (IGP) within the context of a residential aged care facility (RACF)?
+
+This central question appears to be broad, and it begins with the word “how.” The central phenomenon is engagement, and the participants are individuals needing aged care in a residential facility. This study illustrates a single case analysis of one residential facility. The analysis in the study led to themes of learning from each other, appreciating experience in the moment, and connecting through play.
+
+Example 7.6 Qualitative Sub-Questions
+
+Sub-questions serve to sub-divide the central question’s phenomenon in narrower questions. Often these sub-questions become the key questions in interviews or observations (Creswell & Bàez, 2020). An example from Creswell and Bàez takes the central phenomenon of diversity and looks at it from the perspective of the entire campus and classes and with personnel (administration, campus police).
+
+Central question: What is the campus climate toward diversity?
+
+Sub-questions:
+
+What are students’ attitudes on campus toward forming diverse social groups?
+
+How is diversity encouraged by the central administration?
+
+How is diversity encouraged in the undergraduate classes on campus?
+
+How is diversity encouraged by the campus police force?
+
+Mixed Methods Research Questions and Hypotheses
+
+The key to understanding mixed methods questions lies in stating quantitative questions or hypotheses, qualitative questions, and a mixed methods question. The questioning in a mixed methods study would ideally advance three questions around each of the three strands or components. This configuration is necessary because mixed methods does not rely exclusively on either qualitative or quantitative research but on both forms of inquiry.
+
+A mixed methods question is a new type of question not found in current research methods books. However, discussion of it exist in the mixed methods literature, and these conversations emerged largely through an editorial published in 2007 (Tashakkori & Creswell, 2007). The mixed methods question addresses what the researcher hopes to learn with the combination (integration) of the quantitative and qualitative data.
+
+On writing questions into a mixed methods study, consider the following:
+
+Both qualitative and quantitative research questions (or hypotheses) need to be advanced in a mixed methods study to narrow and focus the purpose statement. Before the two databases can be integrated or combined, they need to be analyzed separately in response to questions (or hypotheses). These questions or hypotheses can be advanced at the beginning or emerge during a later phase of the research. For example, if the study begins with a quantitative phase, the investigator might introduce hypotheses. Later in the study, when the qualitative phase is addressed, the qualitative research questions appear. When writing these questions or hypotheses, follow the guidelines in this chapter for scripting good quantitative questions or hypotheses and qualitative questions.
+
+In addition to quantitative questions or hypotheses and qualitative questions, include a mixed methods research question that directly addresses what the researcher hopes to learn from combining or integrating the quantitative and qualitative strands of the research. Creswell and Plano Clark (2018) have provided numerous examples of mixed methods questions tailored to each type of design. The intent of this question may be difficult for writers to understand, and they may question its value, especially if they do not understand connecting or integrating the data. Typically, research questions focus on the content of the study’s subject, not on the methods. However, a mixed methods question is a methods question, and a question asking about the learning from integration. Integration is a central component of mixed methods.
+
+Consider the placement of the questions in a mixed methods study. In journal articles we see them stated in the concluding introduction section. In a proposal, they may be included in a separate section. Often they will follow immediately the purpose of the study or a study aim and serve to narrow the purpose or aim to be answered in the study.
+
+Some attention should be given to the order of the research questions and hypotheses. The order will reflect the sequence of the steps in the mixed methods design used (see Chapter 10). In a single-phase mixed methods project (a convergent design) in which the quantitative and qualitative results are merged, either the quantitative or the qualitative questions can be posed first. In a two-phase project (an explanatory sequential design), the first-phase quantitative questions or hypotheses would come first, followed by the second-phase qualitative questions. In a three-phase project (an exploratory sequential design), the first-phase qualitative component comprises qualitative questions. The second phase quantitative assessment will involve quantitative questions or hypotheses, and the final quantitative test will also include questions or hypotheses. These different types of phased projects will be discussed later in Chapter 10 as specific types of mixed methods research designs.
+
+We have already provided scripts for writing the quantitative and qualitative questions. Here is a general script for writing a mixed methods question. This question contains two components—the intent of integration and the procedures of integration:
+
+The mixed methods question in the study purpose or intent will be to ________ (compare, explain, build, augment) the ________ (quantitative data or qualitative data or process/framework) with ________ (quantitative data or qualitative data) by using a ________ (design: convergent design, explanatory sequential design, exploratory sequential design, embedded design) with the procedure of ________ (merging, connecting, or embedding).
+
+The examples to follow illustrate different ways to incorporate the questions into a mixed methods study. The first provides a good example of an objective statement that reflects quantitative, qualitative, and mixed methods questions. The second illustrates the inclusion of quantitative and qualitative questions.
+
+Example 7.7 Statement of Objectives in a Mixed Methods Study
+
+Moseholm et al. (2017) provided an excellent mixed methods study in the health sciences.
+
+They focused on the diagnostic evaluation of patients presenting to providers non-specific symptoms possibly attributed to cancer. They examined how health-related quality of life changed during the diagnostic evaluation process quantitatively and the experiences of the patients with quality of life qualitatively. They then merged findings from both databases in a convergent design to have a comprehensive understanding of quality of life during the stressful life event of possibly having cancer. Their questions were incorporated in a passage they called a “purpose” of the research (we added the type of question into their statements):
+
+to measure changes in HRQol (Health-Related Quality of Life) during the diagnostic evaluation of patients presenting with non-specific symptoms possibly attributable to cancer (quantitative statement);
+
+to describe their experiences of HRQol (the qualitative statement); and
+
+to merge these findings with the intent to obtain a more comprehensive understanding of HRQol experiences during this stressful life event (p. 994) (the mixed methods statement).
+
+These objectives reflect quantitative, qualitative, and mixed methods statements consistent with our recommendation. They represent objective statements rather than questions, and the authors prefaced them with the “purpose” statement rather than calling them objectives or questions. We recognize that authors typically write a purpose but not specific research questions. However, we saw the “objectives” in the purpose statement as equivalent to the research questions. This passage appeared in the final section of the introduction. It models a good three-part statement for objectives in a mixed methods project.
+
+Example 7.8 Research Questions in a Mixed Methods Study
+
+DeCoito and Estaiteyeh (2022) focused their study on science/STEM teachers’ experiences with online teaching and learning in a Canadian province. They explored curriculum planning quantitatively and assessment strategies both quantitatively and qualitatively. Their intent was to combine the results of both databases. They further examined the impact of online teaching on student outcomes (student engagement, student–teacher engagement, and student achievement). The research questions were (we added the type of question into the questions):
+
+What digital tools and resources were teachers using in an online environment? (a descriptive, quantitative question)
+
+What strategies did teachers’ online curriculum development and implementation embrace? (a descriptive, quantitative question)
+
+What models of student assessment did the teachers implement online? (a descriptive, quantitative question supported by participants’ qualitative experiences—a mixed methods question)
+
+What were the impacts of online teaching on students’ outcomes as observed by teachers? (p. 2) (a quantitative question)
+
+This is a rigorous mixed methods study. The research questions do not reflect clearly the qualitative questions or the mixed methods question. However, in examining the results section of the study, we find that the researchers’ results to questions 1 and 2 indicate quantitative frequencies questions. In discussing the results to question 3 on models of assessment, the authors first indicated quantitative frequency about modes of assessment. Then, they discussed the qualitative interview data in which teachers reflected on their assessment practices and the conditions necessary for effective assessment. Question 4 addressed quantitatively the factors that affect online teaching. In sum, the authors might have provided a clearer qualitative question and a mixed methods question and labeled them. They might have highlighted their intent to combine the qualitative reflective data and the quantitative assessment of frequency of modes of assessment in a mixed methods design.
+
+Summary
+
+Research questions and hypotheses narrow the purpose statement and become major signposts for readers. Quantitative researchers lead with research questions and formal hypotheses. These forms include variables that are described, related, or compared with the independent/predictor and dependent/outcome variables. These questions or hypotheses include wording such as relationship, predictions, comparison, correlation, or determinants. Hypotheses are predictions about the outcomes of the results, and they are written commonly in the form of a directional alternative hypothesis.
+
+Qualitative researchers ask at least one central question and several sub-questions. They begin the questions with words such as how or what and use exploratory verbs, such as explore, understand, or discover. They pose broad, general questions to allow the participants to explain their ideas. They also focus initially on one central phenomenon of interest. The questions may also mention the participants and the site for the research. Sub-questions narrow the central question and sub-divide it into specific topics for study.
+
+We encourage mixed methods researchers to write quantitative, qualitative, and a mixed methods question into their studies. Mixed methods questions are new and may not be understood by readers. By adding a mixed methods question, the researcher conveys the importance of integrating or combining the quantitative and qualitative elements. An ideal format would be to write the three types of questions into separate sections, such as the quantitative questions or hypotheses, the qualitative questions, and the mixed methods question.
+
+Key Terms
+
+Alternative hypothesis 144
+
+Central question 146
+
+Directional alternative hypothesis 144
+
+Mixed methods question 150
+
+Null hypothesis 144
+
+Qualitative sub-questions 146
+
+Quantitative hypotheses 144
+
+Quantitative research questions 144
+
+Writing Exercises
+
+For a qualitative study, write a central question followed by five to seven sub-questions.
+
+For a quantitative study, describe a published theory in your field, and write two directional hypotheses that challenge or extend the theory.
+
+Write a mixed methods research question. Assume that your study involves collecting both qualitative and quantitative data. Answer these questions: Why are you collecting both quantitative and qualitative data? What do you hope to learn by combining the two databases?
+
+Additional Readings
+
+Creswell, J. W., & Gutterman, T. C. (2018). Educational research: Planning, conducting, and evaluating quantitative and qualitative research (6th ed.). Pearson Education.
+
+It is important to distinguish among the purpose, the questions, and data collection. Creswell and Guetterman introduce writing quantitative hypotheses and research questions, and qualitative research questions in this introductory text on educational research. They distinguish among purpose statements, research questions, hypotheses, and objectives. They further review why these statements are important and then convey the writing structure for questions and hypotheses using many examples from the literature.
+
+Morse, J. M. (1994). Designing funded qualitative research. In N. K. Denzin & Y. S. Lincoln (Eds.), Handbook of qualitative research (pp. 220–235). SAGE.
+
+Questions in a qualitative component of a mixed methods study will differ depending on the type of qualitative approach. Janice Morse, a nursing researcher, identifies and describes the major design issues involved in planning a qualitative project. She compares several strategies of inquiry and maps the type of research questions used in each. For phenomenology and ethnography, the research calls for meaning and descriptive questions. For grounded theory, the questions need to address process, whereas in ethnomethodology and discourse analysis, the questions relate to verbal interaction and dialogue. She indicates that the wording of the research question determines the focus and scope of the study.
+
+Tashakkori, A., & Creswell, J. W. (2007). Exploring the nature of research questions in mixed methods research [Editorial]. Journal of Mixed Methods Research, 1(3), 207–211.
+
+This editorial represents the first major discussion of the importance of a mixed methods question. This editorial by Abbas Tashakkori and John Creswell addresses the use and nature of research questions in mixed methods research. It highlights the importance of research questions in the process of research and identifies the need for a better understanding of the use of mixed methods questions. It asks, “How does one frame a research question in a mixed methods study?” (p. 207). Three models are presented: (a) writing separate quantitative and qualitative questions, (b) writing an overarching mixed methods question, or (c) writing research questions for each phase of a study as the research evolves.
+
+Plano Clark, V. L., & Badiee, M. (2010). Research questions in mixed methods research. In A. Tashakkori & C. Teddlie (Eds.), SAGE handbook of mixed methods in the social & behavioral sciences (2nd ed., pp. 275–304). SAGE.
+
+It is important to write a mixed methods question. The chapter by Vicki Plano Clark and Manijeh Badiee notes that little discussion had occurred about mixed methods questions. Their chapter advances a model for research questions in mixed methods research of practical value. They say that research questions represent the hub of the research process, and they connect the literature with the methods. Their model for writing mixed methods questions includes considering the personal fit of the questions with the researcher, the researcher’s community of practice, and the connection between the literature and methods.

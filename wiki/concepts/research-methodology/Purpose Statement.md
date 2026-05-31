@@ -27,6 +27,7 @@ related_methods:
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
+  - "[[Case Study]]"
   - "[[Exploratory Sequential Design]]"
 related_persons:
   - "[[John Locke]]"
@@ -86,16 +87,16 @@ updated: 2026-05-31
 以下示例展示了不同质性设计类型的目的陈述：
 
 > [!example] 现象学研究示例（Lauterbach, 1993）
-> 以女性主义视角为透镜，聚焦于母亲们的记忆和她们的"活过"经验，探讨五位在孕晚期失去婴儿的母亲的生活经验意义（p.134）。
+> 以女性主义视角为透镜，聚焦于母亲们的记忆和她们的"活过"经验，探讨五位在孕晚期失去婴儿的母亲的生活经验意义 ("The phenomenal care of the caregiver: A feminist view of postnatal bereavement." p.134)。
 
 > [!example] 案例研究示例（Frelin, 2015）
-> 追溯并例示关系和专业实践，以帮助教师和其他学校员工协助学生克服障碍并在学校中取得更好的成就（p.590）。
+> 追溯并例示关系和专业实践，以帮助教师和其他学校员工协助学生克服障碍并在学校中取得更好的成就 ("to trace and exemplify relations and professional practices that help teachers and other school staff to assist students to overcome hurdles and achieve better in school." p.590)。
 
 > [!example] 叙事研究示例（Chan, 2010）
-> 考察一位中国移民学生 Ai Mei Zhang 的经验，探索她参与加拿大中学课程的过程，以及族裔认同如何被学校和家庭对其学业表现和行为的期望所塑造（p.113）。
+> 考察一位中国移民学生 Ai Mei Zhang 的经验，探索她参与加拿大中学课程的过程，以及族裔认同如何被学校和家庭对其学业表现和行为的期望所塑造 ("to examine the experiences of one Chinese immigrant student, Ai Mei Zhang . . . to explore her participation in her Canadian middle school curriculum . . . to examine ways in which her sense of ethnic identity may be shaped by expectations for her academic performance and her behavior in her school and her home." p.113)。
 
 > [!example] 扎根理论研究示例（Harley et al., 2007）
-> 通过发展一个理论框架来解释将关键因素连接起来并最终将身体活动融入生活方式的路径，以理解活跃的非洲裔美国女性的行为过程（p.99）。
+> 通过发展一个理论框架来解释将关键因素连接起来并最终将身体活动融入生活方式的路径，以理解活跃的非洲裔美国女性的行为过程 ("to understand the behavioral process of physically active African American women by developing a theory framework to explain the path that connects key factors and eventually leads to incorporating physical activity into a lifestyle." p.99)。
 
 > [!example] 质性目的陈述要素拆解：Chan (2010) 叙事研究
 >
@@ -137,10 +138,10 @@ updated: 2026-05-31
 > 本____（实验/调查____研究的目的是检验____理论，该理论____（解释/预测____自变量____）与____（因变量____）____（比较/相关____）。本研究计划在____（研究场所____招募____（参与者____）。自变量____定义为____。因变量定义为____。
 
 > [!example] 调查研究示例（DeGraw, 1984）
-> 本研究的目的是考察在美国选定州立成人矫正机构中任教的认证教育者个人特征与工作动机之间的关系。个人特征分为受访者背景信息和受访者对更换工作的想法两类。工作动机由六个因素定义，来自教育工作成分研究（EWCS）问卷（pp.4–5）。
+> 本研究的目的是考察在美国选定州立成人矫正机构中任教的认证教育者个人特征与工作动机之间的关系 ("The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States." pp.4–5)。
 
 > [!example] 实验研究示例（Esposito et al., 2017）
-> 本研究基于行为经济学假设，检验网站设计的微小改变如何影响购买行为，特别关注与参与者社会人口统计特征的交互作用（p.2）。
+> 本研究基于行为经济学假设，检验网站设计的微小改变如何影响购买行为，特别关注与参与者社会人口统计特征的交互作用 ("tested how small changes in website design can affect buying behavior, with a particular focus on the interaction with participants' sociodemographic characteristics." p.2)。
 
 > [!example] 量化目的陈述要素拆解：DeGraw (1984) 调查研究
 >
@@ -186,9 +187,9 @@ updated: 2026-05-31
 
 三种核心设计——聚敛式、解释性序列和探索性序列——各自对应不同的整合洞见和写作脚本。各设计的完整脚本、范例和要素拆解分别见对应条目：
 
-- [[Convergent Design]] — 聚敛式脚本、Classen et al. (2007) 范例
-- [[Explanatory Sequential Design]] — 解释性序列脚本、Ivankova & Stick (2007) 范例及要素拆解
-- [[Exploratory Sequential Design]] — 探索性序列脚本、Enosh et al. (2015) 范例
+- [[Convergent Design]] — 聚敛式脚本、Classen et al. (2007) 范例 ("used a mixed methods approach to compare and integrate the primary findings from a national crash dataset with the perspectives of stakeholders." p.677)
+- [[Explanatory Sequential Design]] — 解释性序列脚本、Ivankova & Stick (2007) 范例 ("identify factors contributing to students' persistence in the ELHE program by obtaining quantitative results . . . and then following up with four purposefully selected individuals . . . through a qualitative [[Case Study]] analysis." p.95) 及要素拆解
+- [[Exploratory Sequential Design]] — 探索性序列脚本、Enosh et al. (2015) 范例 ("develop a behavior-based tool that can be used to compare differences between different types of workplaces and services." pp.274, 283)
 
 > [!info] 复杂混合方法设计的目的陈述
 > 除三种核心设计外，混合方法目的陈述的意图也可以是将质性数据或两者数据嵌入一个框架或过程（如实验或评估）中。这类[[Mixed Method and Multi-method Research|复杂混合方法设计]]详见 Creswell & Plano Clark (2018)。

@@ -10,10 +10,17 @@ publisher: "SAGE Publications"
 citation: "Creswell, J. W., & Creswell, J. D. (2022). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). SAGE Publications."
 tags: [source/textbook]
 related_concepts:
+  - "[[Crotty's Four Levels of Research Design]]"
+  - "[[Knowledge Production]]"
   - "[[Postpositivism]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Transformative Paradigm]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Literature Review]]"
-  - "[[Variable]]"
+  - "[[Abstract]]"
+  - "[[Definition of Terms]]"
+  - "[[Inverted Triangle Literature Search]]"
+  - "[[Theoretical Perspective]]"
   - "[[Theoretical Standpoint]]"
   - "[[Discipline-Based Theory]]"
   - "[[Social Justice Theory]]"
@@ -21,34 +28,27 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
+  - "[[Writing Habit]]"
+  - "[[Coherence in Writing]]"
   - "[[Hook and Eye Technique]]"
   - "[[Research Introduction]]"
   - "[[Research Problem]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Narrative Hook]]"
-  - "[[Inverted Triangle Literature Search]]"
+  - "[[Deficiencies in Past Literature]]"
   - "[[Purpose Statement]]"
   - "[[Central Phenomenon]]"
-  - "[[Transformative Paradigm]]"
-  - "[[Pragmatic Paradigm]]"
-  - "[[Research Topic]]"
-  - "[[Abstract]]"
-  - "[[Definition of Terms]]"
-  - "[[Theoretical Perspective]]"
-  - "[[Construct]]"
-  - "[[Hypothesis]]"
-  - "[[Scale of Measurement]]"
+  - "[[Nondirectional Language]]"
   - "[[Research Writing Script]]"
-  - "[[Knowledge Production]]"
+  - "[[Hypothesis]]"
+  - "[[Construct]]"
+  - "[[Variable]]"
+  - "[[Scale of Measurement]]"
+  - "[[Research Topic]]"
   - "[[Theoretical End Point]]"
   - "[[Naturalistic Generalization]]"
   - "[[Self-control]]"
-  - "[[Crotty's Four Levels of Research Design]]"
-  - "[[Deficiencies in Past Literature]]"
-  - "[[Writing Habit]]"
-  - "[[Coherence in Writing]]"
   - "[[Narrative Thought Types]]"
-  - "[[Nondirectional Language]]"
   - "[[Self-Efficacy]]"
   - "[[Tracking]]"
   - "[[Multiplicity]]"
@@ -59,13 +59,8 @@ related_theories:
   - "[[Social Learning Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
-  - "[[Joint Display]]"
   - "[[Quantitative Research]]"
   - "[[Literature Map]]"
-  - "[[Convergent Design]]"
-  - "[[Explanatory Sequential Design]]"
-  - "[[Exploratory Sequential Design]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
   - "[[Single-Subject Design]]"
@@ -73,6 +68,11 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Ethnography]]"
   - "[[Case Study]]"
+  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Joint Display]]"
+  - "[[Convergent Design]]"
+  - "[[Explanatory Sequential Design]]"
+  - "[[Exploratory Sequential Design]]"
   - "[[Causal Modeling]]"
 related_persons:
   - "[[John W. Creswell]]"
@@ -99,17 +99,17 @@ updated: 2026-05-31
 
 | 章节 | 内容概要 | 主要关联条目 |
 |---|---|---|
-| 前言 | 介绍教材的写作目的、面向读者、格式特色、第六版新增内容，以及全书两大部分共十章的结构概览。全书核心线索是量化、质性与混合方法三种研究路径的系统比较。 | [[Qualitative Research]], [[Mixed Method and Multi-method Research]], [[Joint Display]] |
-| 第1章 研究路径的选择 | 界定量化、质性和混合方法三种研究路径，建立"世界观、设计、方法"三层框架，逐一介绍后实证主义、建构主义、变革主义和实用主义四种哲学世界观，列出量化、质性和混合方法的主要研究设计类型，讨论选择研究路径的三项标准（研究问题、个人经验、受众）。 | [[Qualitative Research]], [[Quantitative Research]], [[Mixed Method and Multi-method Research]], [[Postpositivism]], [[Constructivist Paradigm]] |
-| 第2章 文献综述 | 介绍研究主题的确定（草拟标题、评估显著性）、文献综述在不同研究路径中的目的与组织差异（量化五部分结构、质性三种位置、混合方法的灵活策略）、文献检索的系统步骤与主要数据库、文献地图的绘制方法、文献摘要的撰写要点、APA 格式手册的使用，以及术语定义的原则与路径差异。 | [[Literature Review]], [[Literature Map]], [[Qualitative Research]], [[Quantitative Research]], [[Mixed Method and Multi-method Research]] |
-| 第3章 理论的使用 | 系统讲解理论在量化、质性和混合方法研究中的不同定位与运用方式。量化研究以演绎方式将理论置于研究前端，通过变量间因果模型检验假设；质性研究以三种方式运用理论——演绎解释、理论立场（透镜）和理论终点（归纳生成）；混合方法研究使用学科理论或社会正义理论来指导设计的各个层面。 | [[Variable]], [[Theoretical Standpoint]], [[Discipline-Based Theory]], [[Social Justice Theory]], [[Causality]] |
-| 第4章 写作策略与伦理考量 | 提供量化、质性和混合方法研究计划的结构模型，讨论学术写作的过程策略、连贯性技巧和语言精炼方法，按研究前—启动—数据收集—分析—报告五个阶段系统梳理伦理问题与应对策略。 | [[Research Ethics]], [[Institutional Review Board]], [[Informed Consent]], [[Hook and Eye Technique]] |
-| 第5章 引言 | 提供撰写学术引言的系统方法，首先讨论撰写[[Abstract\|研究摘要]]的五个核心组成部分，随后比较量化、质性和混合方法研究引言写法的差异，最后重点介绍引言缺陷模型的四个部分——陈述研究问题（含[[Narrative Hook\|叙事钩子]]）、综述文献证据（含[[Inverted Triangle Literature Search\|倒三角检索策略]]）、指出[[Deficiencies in Past Literature\|文献缺陷]]和说明研究对受众的重要性。 | [[Research Introduction]], [[Research Problem]], [[Deficiencies Model for an Introduction]], [[Narrative Hook]], [[Inverted Triangle Literature Search]] |
-| 第6章 目的陈述 | 系统讲解研究计划中目的陈述（或研究目标）的核心地位。区分研究问题、目的陈述和研究问题三个环节的递进逻辑，逐一剖析质性目的陈述七要素、量化目的陈述八要素和混合方法目的陈述四要素，为每种路径提供填空式写作脚本，并辅以已发表研究的多个范例。 | [[Purpose Statement]], [[Central Phenomenon]], [[Convergent Design]], [[Explanatory Sequential Design]], [[Exploratory Sequential Design]] |
-| 第7章 研究问题与[[Hypothesis\|假设]] | 介绍如何撰写量化研究问题和假设、质性研究问题，以及混合方法研究中的研究问题与假设。提供大量范例作为写作脚本。 | |
-| 第8章 量化方法 | 涵盖调查和[[Experimental Research\|实验研究]]的具体方法程序，包括确定样本与总体、选择设计类型、收集与分析数据、呈现结果和做出解释。提供完整步骤检查清单。 | [[Survey Research]], [[Experimental Research]], [[Single-Subject Design]] |
-| 第9章 质性方法 | 介绍质性数据收集、分析、解释和报告写作的程序，涵盖叙事研究、[[Phenomenology\|现象学]]、扎根理论、民族志、案例研究和描述性研究等具体路径。提供程序检查清单和大量示例。 | [[Narrative Research]], [[Grounded Theory]], [[Ethnography]], [[Case Study]], [[Qualitative Research]] |
-| 第10章 混合方法程序 | 界定混合方法研究的核心特征，介绍三种核心设计（聚敛式、解释性序列、探索性序列）和四种复杂混合方法设计，讨论量化与质性数据的整合分析，包括联合展示的使用和设计选择的流程图。 | [[Mixed Method and Multi-method Research]], [[Joint Display]] |
+| 前言 | 介绍教材的写作目的、面向读者、格式特色、第六版新增内容，以及全书两大部分共十章的结构概览。全书核心线索是量化、质性与混合方法三种研究路径的系统比较。 | [[Crotty's Four Levels of Research Design]], [[Knowledge Production]] |
+| 第1章 研究路径的选择 | 界定量化、质性和混合方法三种研究路径，建立"世界观、设计、方法"三层框架，逐一介绍后实证主义、建构主义、变革主义和实用主义四种哲学世界观，列出量化、质性和混合方法的主要研究设计类型，讨论选择研究路径的三项标准（研究问题、个人经验、受众）。 | [[Qualitative Research]], [[Quantitative Research]], [[Postpositivism]], [[Constructivist Paradigm]], [[Transformative Paradigm]], [[Pragmatic Paradigm]] |
+| 第2章 文献综述 | 介绍研究主题的确定（草拟标题、评估显著性）、文献综述在不同研究路径中的目的与组织差异（量化五部分结构、质性三种位置、混合方法的灵活策略）、文献检索的系统步骤与主要数据库、文献地图的绘制方法、文献摘要的撰写要点、APA 格式手册的使用，以及术语定义的原则与路径差异。 | [[Literature Review]], [[Literature Map]], [[Abstract]], [[Definition of Terms]], [[Inverted Triangle Literature Search]] |
+| 第3章 理论的使用 | 系统讲解理论在量化、质性和混合方法研究中的不同定位与运用方式。量化研究以演绎方式将理论置于研究前端，通过变量间因果模型检验假设；质性研究以三种方式运用理论——演绎解释、理论立场（透镜）和理论终点（归纳生成）；混合方法研究使用学科理论或社会正义理论来指导设计的各个层面。 | [[Theoretical Perspective]], [[Theoretical Standpoint]], [[Discipline-Based Theory]], [[Social Justice Theory]], [[Causality]] |
+| 第4章 写作策略与伦理考量 | 提供量化、质性和混合方法研究计划的结构模型，讨论学术写作的过程策略、连贯性技巧和语言精炼方法，按研究前—启动—数据收集—分析—报告五个阶段系统梳理伦理问题与应对策略。 | [[Research Ethics]], [[Institutional Review Board]], [[Informed Consent]], [[Writing Habit]], [[Coherence in Writing]], [[Hook and Eye Technique]] |
+| 第5章 引言 | 提供撰写学术引言的系统方法，首先讨论撰写研究摘要的五个核心组成部分，随后比较量化、质性和混合方法研究引言写法的差异，最后重点介绍引言缺陷模型的四个部分——陈述研究问题（含叙事钩子）、综述文献证据（含倒三角检索策略）、指出文献缺陷和说明研究对受众的重要性。 | [[Research Introduction]], [[Research Problem]], [[Deficiencies Model for an Introduction]], [[Narrative Hook]], [[Deficiencies in Past Literature]] |
+| 第6章 目的陈述 | 系统讲解研究计划中目的陈述（或研究目标）的核心地位。区分研究问题、目的陈述和研究问题三个环节的递进逻辑，逐一剖析质性目的陈述七要素、量化目的陈述八要素和混合方法目的陈述四要素，为每种路径提供填空式写作脚本，并辅以已发表研究的多个范例。 | [[Purpose Statement]], [[Central Phenomenon]], [[Nondirectional Language]], [[Research Writing Script]] |
+| 第7章 研究问题与[[Hypothesis\|假设]] | 介绍如何撰写量化研究问题和假设、质性研究问题，以及混合方法研究中的研究问题与假设。提供大量范例作为写作脚本。 | [[Hypothesis]], [[Construct]] |
+| 第8章 量化方法 | 涵盖调查和[[Experimental Research\|实验研究]]的具体方法程序，包括确定样本与总体、选择设计类型、收集与分析数据、呈现结果和做出解释。提供完整步骤检查清单。 | [[Survey Research]], [[Experimental Research]], [[Single-Subject Design]], [[Variable]], [[Scale of Measurement]] |
+| 第9章 质性方法 | 介绍质性数据收集、分析、解释和报告写作的程序，涵盖叙事研究、[[Phenomenology\|现象学]]、扎根理论、民族志、案例研究和描述性研究等具体路径。提供程序检查清单和大量示例。 | [[Narrative Research]], [[Grounded Theory]], [[Ethnography]], [[Case Study]], [[Phenomenology]] |
+| 第10章 混合方法程序 | 界定混合方法研究的核心特征，介绍三种核心设计（聚敛式、解释性序列、探索性序列）和四种复杂混合方法设计，讨论量化与质性数据的整合分析，包括联合展示的使用和设计选择的流程图。 | [[Mixed Method and Multi-method Research]], [[Joint Display]], [[Convergent Design]], [[Explanatory Sequential Design]], [[Exploratory Sequential Design]] |
 
 ---
 
