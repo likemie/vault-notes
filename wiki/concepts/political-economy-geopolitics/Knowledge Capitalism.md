@@ -93,7 +93,7 @@ updated: '2026-05-18'
 ## 在高等教育新政治经济学中的位置
 
 > [!note]
-> Schulze-Cleven et al.（2017）将知识资本主义置于高等教育竞争转型的分析框架中，论证学术评估和等级机制在知识资本主义中扮演着双重角色：既促进知识产品的价值化（将异质的[[Knowledge Production|知识生产]]压缩为可比较的指标），又维持了精英机构的特权地位（[[Matthew Effect in Academia|制度化的马太效应]]）。Jessop 和 Reitz 在同期文章中分别从政治经济学和功能分析角度探讨了知识如何被"准商品化"以及评估机制如何为更广泛的[[Knowledge-Based Economy|知识经济]]提供必要的信号基础设施（Schulze-Cleven et al., 2017, pp.804–805）。
+> Schulze-Cleven et al.（2017）将知识资本主义置于高等教育竞争转型的分析框架中，论证学术评估和等级机制在知识资本主义中扮演着双重角色：既促进知识产品的价值化（将异质的[[Knowledge Production|知识生产]]压缩为可比较的指标），又维持了精英机构的特权地位（[[Matthew Effect in Academia|制度化的马太效应]]）。Jessop 和 Reitz 分别从政治经济学和功能分析角度探讨了知识如何被"准商品化"以及评估机制如何为更广泛的[[Knowledge-Based Economy|知识经济]]提供必要的信号基础设施（Schulze-Cleven et al., 2017, pp.804–805）。
 
 ## 来源
 

@@ -298,7 +298,7 @@ Total entries: **437**
 - [[Classical Geopolitics]] — 以国家领土控制、势力范围和硬实力竞争为中心的传统地缘政治理解，与关系性和网络化的空间分析形成对照。
 - [[Cultural Diplomacy]] — 通过教育、文化机构和精英培育来提升国家软实力、国际形象和跨国影响力的战略。
 - [[Culturalisation of Politics]] — Chen (2023) 提出的概念，政权以文化、历史和传统话语包装政治控制，替代公开的政治意识形态论证
-- [[Discursive Stratification]] — Schulze-Cleven et al. (2017) 特刊中作为核心分析路径提出的概念，强调话语实践——文本、符号、数字和图像——如何参与建构高等教育中的社会不平等和等级秩序
+- [[Discursive Stratification]] — Schulze-Cleven et al. (2017) 作为核心分析路径提出的概念，强调话语实践——文本、符号、数字和图像——如何参与建构高等教育中的社会不平等和等级秩序
 - [[Economic and Industrial Espionage]] — 围绕商业技术、产业知识和经济情报获取展开的秘密信息攫取活动，用于分析国家与企业之间的竞争性知识争夺。
 - [[Economic Patriotism]] — 将爱国情感与特定领土利益绑定并通过政策把资源集中于关键产业、城市或机构的国家战略实践。
 - [[Fictitious Commodity of Knowledge]] — Jessop (2007) 从 Polanyi 视角提出的概念，指知识在当代资本主义中被当作商品来对待、但其固有的社会性质使其无法被完全商品化，是理解学术资本主义内在张力的关键概念

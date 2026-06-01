@@ -40,7 +40,7 @@ updated: 2026-06-01
 ## 核心主张
 
 > [!tip]
-> 高等教育新封建主义（Neo-feudalism in Higher Education）是 Schulze-Cleven et al.（2017）在 Higher Education 导论性文章中引入高等教育研究的范式概念。其核心主张是：当代高等教育中正在进行的学术依附和忠诚关系的重新结构化，不仅产生了自由市场动力，更催生了新封建式的权力关系系统——学术等级通过忠诚与联盟、群体特权以及制度声望的公共展示得以维持，而非仅由市场交换逻辑驱动（Schulze-Cleven et al., 2017, pp.798–799）。
+> 高等教育新封建主义（Neo-feudalism in Higher Education）是 Schulze-Cleven et al.（2017）引入高等教育研究的范式概念。其核心主张是：当代高等教育中正在进行的学术依附和忠诚关系的重新结构化，不仅产生了自由市场动力，更催生了新封建式的权力关系系统——学术等级通过忠诚与联盟、群体特权以及制度声望的公共展示得以维持，而非仅由市场交换逻辑驱动（Schulze-Cleven et al., 2017, pp.798–799）。
 
 这一概念借用了 Habermas（1962/1989）的"再封建化"（re-feudalization）概念——最初指媒体公司——并将其引入高等教育分析。在德国近期关于社会不平等的讨论中，再封建化和新封建主义概念已获得一定关注（Neckel, 2013; Zinn, 2015; Schulze-Cleven et al., 2017, p.799）。
 
@@ -89,7 +89,7 @@ updated: 2026-06-01
 > - **1984 年**：[[Pierre Bourdieu|Bourdieu]] 在 Homo Academicus 中分析了法国学术阶级的分化——不同"分数"（fractions）具有不同的再生产模式和与统治阶级的关系（Bourdieu, 1984; Schulze-Cleven et al., 2017, p.799）
 > - **2013 年**：Neckel 和 Zinn 在德国的社会不平等讨论中重新激活了再封建化和新封建主义概念（Neckel, 2013; Zinn, 2015）
 > - **2015 年**：Möller（2015）和 Graf（2015）运用 Bourdieu 的学术阶级理论对教授和学术官员进行实证研究（Schulze-Cleven et al., 2017, p.799）
-> - **2017 年**：Schulze-Cleven et al. 在 Higher Education 的一期导论性文章中将新封建主义引入高等教育研究作为分析范式
+> - **2017 年**：Schulze-Cleven et al. 将新封建主义引入高等教育研究作为分析范式
 
 ## 与相关理论的关系
 
@@ -108,7 +108,7 @@ updated: 2026-06-01
 ## 相关研究
 
 > [!example]
-> - [[Argument_Schulze-Cleven_2017_HighEduc]] — 导论性文章，将新封建主义引入高等教育研究
+> - [[Argument_Schulze-Cleven_2017_HighEduc]] — 将新封建主义引入高等教育研究
 > - Meyer & Zhou— 分析美国精英大学永久捐赠基金如何维持"赢者通吃"动力和上层阶级再生产
 > - Wieczorek, Beyer & Münch— 提出封地封建主义与俸禄封建主义的类型学
 > - Reitz— 论证学术评估和等级对资本主义[[Knowledge-Based Economy|知识经济]]的功能必要性
