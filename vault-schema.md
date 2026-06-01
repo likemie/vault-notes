@@ -15,7 +15,7 @@
 - 不使用来源以外的知识；不确定时宁可不写。
 - AI 不手动维护生成字段：`related_*`、YAML `sources`、source record 的 `extracted_to`。
 - Source 记录与阅读页面优先由 `scripts/source_record.py` 生成，不手写固定结构。
-- 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的图片，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。
+- 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的 figure，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。
 - 新建、移动、删除、重命名条目后，只自动运行 `.venv/bin/python3 scripts/wiki_index.py` 重建索引；是否继续运行补链、关系同步与 lint，由用户确认。
 - 非必要不要运行 `--full`。优先使用 git 增量或路径限定；只有批量重命名/移动/删除、批量 alias/title 变更、增量结果异常、发布/备份/重要提交前，才使用 full sync 或 full lint。
 
@@ -27,7 +27,7 @@
 
 1. 读取 `vault-schema.md`；若用户明确说明是专著、论文集或教材，转入 `Specialized Schemas`；若用户未说明类型，按普通论文／期刊论文流程处理。
 2. 读取原始文件并提取可读文本；此时不创建 source record。
-3. 扫描文献，同时判断三类事项：需要建立或更新哪些知识对象，是否为实证研究，是否包含无法转写且需要占位的纯图像材料。表格默认复刻为 Markdown 表格。
+3. 扫描文献，同时判断三类事项：需要建立或更新哪些知识对象，是否为实证研究，是否包含需要占位的 figure。table 默认复刻为 Markdown 表格。
 4. 在创建 Argument 页之前确定最终 Argument 文件名，并由此确定最终 `<论文命名>`；正文 `## 来源` 和所有受影响条目的 `## 来源` 可先写 `[[<论文命名>]]`，即使 source record 尚未生成。
 5. 为每个候选知识对象记录暂定英文标题、中文术语或别名、类型、目标二级文件夹、证据页码和独立成条理由。
 6. 读取 `wiki/index.json`，用标题、中文术语、英文变体和缩写检索是否已有。
@@ -35,7 +35,7 @@
 8. 更新已有条目：读取文件 → 判断目标章节、子主题与插入位置 → 先按主题归组，再在主题内按时间或论证顺序整合 → 用 `str_replace` 精确替换相关段落。
 9. 新建条目：只读取对应 `wiki/templates/template-*.md` → 按模板逻辑组织内容，先主题后时间。
 10. 实证研究必须更新或新建至少一个 Method 条目，在 `## 使用此方法的研究` 加入一条方法案例，并链接当前 Argument。
-11. 创建或更新 Argument 页，frontmatter 写入 `citation`，正文 `## 来源` 列出 `[[<论文命名>]]`；若有无法转写的纯图像材料，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。
+11. 创建或更新 Argument 页，frontmatter 写入 `citation`，正文 `## 来源` 列出 `[[<论文命名>]]`；若有 figure，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。
 12. 更新所有受影响条目的正文 `## 来源`：只放 source wikilink，按来源年份从早到晚排序，同一年按作者或机构字母顺序。
 13. 用最终 `<论文命名>` 创建 source record：期刊论文用 `source_record.py article --record-name <论文命名>`；报告、政策文件、白皮书用 `source_record.py report --record-name <论文命名>`。
 14. 运行 `source_record.py finalize --argument <Argument路径> --rename`，回填 citation；若第 3 步判断有图片占位，则加 `--with-figures`，生成 `sources/<论文命名>/`、`sources/<论文命名>/<论文命名>.md`、`sources/<论文命名>/<论文命名>.pdf` 和 `sources/<论文命名>/figures/`。
@@ -56,31 +56,29 @@ AI 不主动判断书籍材料属于专著、论文集还是教材；按用户�
 
 书籍任务每次只处理一章或用户当前指定章节，处理完停止。专著处理流程不区分 PDF 与 EPUB，但最后创建 source 记录和阅读页面时按文件格式分支；EPUB 阅读页使用已配置的 epub.js 静态脚本。教材不改变文件夹结构，仍放在 `books/` 和 `wiki/arguments/books/<book-folder>/`。
 
-### 图片和表格处理
+### Figure 和 Table 处理
 
 适用于普通论文、报告、专著、论文集和教材。
 
-- 遇到 figure、图片、流程图、模型图、截图表格、扫描表格等材料时，不读取独立 schema。
-- 图片主要服务于文献整体论证时，放在当前 Argument 的对应位置；主要服务于具体 Concept / Theory / Method / Fact / Person 时，放在对应条目中，并在 Argument 页简要提及或链接该条目。
-- 只有纯图片、模型图、流程图、无法读取或无法转写的图像材料才写图片占位；占位跟随正文叙述放在最相关段落之后，不堆在开头；使用 Markdown 嵌入 `![](...jpg)`，不要包在任何注释中。
-- 表格不得用图片占位代替。文本表格、HTML 表格、截图表格和扫描表格只要可读或可转写，就必须复刻为 Markdown 表格；只有无法读取的表格截图才可作为图片占位。
+- Figure 指图、模型图、流程图、照片、示意图等非表格图像。figure 不复刻，写图片占位。
+- Table 指作者标为 table 的材料，也包括截图表格和扫描表格。table 只要可读，就必须复刻为 Markdown 表格；只有完全无法读取时才写图片占位。
+- 占位跟随正文叙述放在最相关段落之后，不堆在开头；使用 Markdown 嵌入 `![](...jpg)`，不要包在任何注释中；可见标题使用图号和图名，不写“图片占位”这类重复标题。
+- Figure 或无法读取的 table 主要服务于文献整体论证时，放在当前 Argument 的对应位置；主要服务于具体 Concept / Theory / Method / Fact / Person 时，放在对应条目中，并在 Argument 页简要提及或链接该条目。
 - 普通论文／报告若需要图片占位或后续补图，最终 source record 和 PDF 应放入 `sources/<论文命名>/`，并创建 `sources/<论文命名>/figures/`；无图时仍可保持 `sources/<论文命名>.md` 和 `sources/<论文命名>.pdf` 的扁平结构。
 
-普通论文／报告图片占位：
+普通论文／报告 figure 占位：
 
 ```markdown
-> [!example]- 图片占位
-> 图X：名称  
+> [!example]- 图X：名称
 > ![](https://img.mylikemie.icu/sources/<论文命名>/figures/<论文命名>_FigX_Descriptive_Name.jpg)
 ```
 
-说明：`<论文命名>` 由 AI 在创建 Argument 文件名前确定，通常等于最终 Argument 文件名去掉 `Argument_` 后的部分，如 `Argument_Simpson_2019_ERE.md` 对应 `Simpson_2019_ERE`。命名前要先判断是否有需要保留占位的图片；有图时使用 `source_record.py finalize --rename --with-figures`，让 source record、PDF 和 `figures/` 落入 `sources/<论文命名>/`。
+说明：`<论文命名>` 由 AI 在创建 Argument 文件名前确定，通常等于最终 Argument 文件名去掉 `Argument_` 后的部分，如 `Argument_Simpson_2019_ERE.md` 对应 `Simpson_2019_ERE`。命名前要先判断是否有需要保留占位的 figure 或无法读取的 table；需要占位时使用 `source_record.py finalize --rename --with-figures`，让 source record、PDF 和 `figures/` 落入 `sources/<论文命名>/`。
 
-书籍图片占位：
+书籍 figure 占位：
 
 ```markdown
-> [!example]- 图片占位
-> 图X-X：名称  
+> [!example]- 图X-X：名称
 > ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Descriptive_Name.jpg)
 ```
 
@@ -342,7 +340,7 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 - `raw/` 只放原始 PDF，不加 frontmatter，不编辑。
 - 普通论文或报告先确定最终 `<论文命名>`，Argument 与相关条目的 `## 来源` 可先写 `[[<论文命名>]]`；source record 在 Argument 页写好后用 `source_record.py article` 或 `source_record.py report` 生成。
 - 普通论文或报告处理完成并写好 Argument 页后，再用 `source_record.py finalize --rename` 回填 citation。
-- 若普通论文或报告有无法转写且需要占位的纯图像材料，使用 `source_record.py finalize --rename --with-figures`，并按「图片和表格处理」写图片占位；可读或可转写表格必须复刻为 Markdown 表格。
+- 若普通论文或报告有 figure 或无法读取的 table，使用 `source_record.py finalize --rename --with-figures`，并按「Figure 和 Table 处理」写图片占位；可读 table 必须复刻为 Markdown 表格。
 - 书籍来源记录按对应专项 schema 执行。
 - `sources/` 与 `books/` 下的 source record 不进入 `related_*` 自动维护逻辑，但 `extracted_to` 由 `wiki_relations.py` 反向同步。
 
