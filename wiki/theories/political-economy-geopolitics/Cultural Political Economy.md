@@ -94,7 +94,7 @@ updated: 2026-05-19
 > - [[International Education Hubs]] — Erfurth (2022) 从 文化政治经济学 导出的[[Cultural Diplomacy|文化外交]]与政治经济两个维度，已成为分析教育枢纽的核心框架
 > - [[Hub and Flow Imaginaries]] — Moisio (2022) 运用 文化政治经济学 的想象履行性逻辑，论证 枢纽与流动想象不仅描述、更在制造全球空间不平等
 > - [[Cultural Diplomacy]] — 文化外交作为 文化政治经济学 中"符号维度"在高等教育中的具体运作形式，与文化政治经济学共享对符号和话语构成性力量的重视
-> - [[Argument_Schulze-Cleven_2017_HighEduc]] — Schulze-Cleven et al.（2017）在特刊导论中大量引用 Sum & Jessop（2013）的 CPE 框架，将其作为理解高等教育竞争转型中符号与物质相互构成的核心理论资源之一，并讨论 CPE 与制度主义、马克思主义和新封建主义分析的互补性（Schulze-Cleven et al., 2017, pp.797–798, 807–809）
+> - [[Argument_Schulze-Cleven_2017_HighEduc]] — Schulze-Cleven et al.（2017）在其导论性文章中大量引用 Sum & Jessop（2013）的 CPE 框架，将其作为理解高等教育竞争转型中符号与物质相互构成的核心理论资源之一，并讨论 CPE 与制度主义、马克思主义和新封建主义分析的互补性（Schulze-Cleven et al., 2017, pp.797–798, 807–809）
 
 ---
 

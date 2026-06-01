@@ -23,6 +23,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Varieties of Capitalism]]"
+  - "[[Academic Oligarchy]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -74,7 +75,7 @@ updated: 2026-06-01
 ## 学术资本主义的多样性
 
 > [!note]
-> Schulze-Cleven & Olson（本特刊论文）基于 Hall & Soskice（2001）的 [[Varieties of Capitalism]] 框架，区分了三种福利资本主义类型中学木资本主义的不同形态（Schulze-Cleven et al., 2017, pp.803–804）：
+> Schulze-Cleven & Olson基于 Hall & Soskice（2001）的 [[Varieties of Capitalism]] 框架，区分了三种福利资本主义类型中学木资本主义的不同形态（Schulze-Cleven et al., 2017, pp.803–804）：
 >
 > - **自由主义国家**（以美国为代表）：亲市场规制传统，高等教育市场化最为深入，营利性院校大量涌现，学费和学生贷款驱动的金融化程度最高
 > - **保守主义国家**（以德国为代表）：允许社会群体自我规制，市场化改革的引入和撤回呈现拉锯——部分州在 2000 年代初引入学费后被学生抗议撤销
@@ -87,7 +88,7 @@ updated: 2026-06-01
 > [!warning]
 > - 部分学者质疑古典政治经济学概念能否直接应用于学术转型——高等教育中的"市场"往往不依赖价格机制和利润动机，准市场和声望竞争与经典市场模型存在显著差异（Marginson, 2006; Rhoades & Slaughter, 2006; Schulze-Cleven et al., 2017, p.797）
 > - 学术资本主义概念过于侧重经济维度，忽略了高等教育的公共功能——如提供可及的知识基础设施和高质量教育（Rhoten & Calhoun, 2011; Schulze-Cleven et al., 2017, p.797）
-> - 将大学转型简单归因于市场力量，可能低估了国家政策、专业寡头和话语实践在塑造高等教育秩序中的独立作用（Schulze-Cleven et al., 2017, pp.797–799）
+> - 将大学转型简单归因于市场力量，可能低估了国家政策、[[Academic Oligarchy|专业寡头]]和话语实践在塑造高等教育秩序中的独立作用（Schulze-Cleven et al., 2017, pp.797–799）
 
 ## 来源
 

@@ -2,9 +2,7 @@
 title: Robert E. Stake
 aliases:
   - 罗伯特·斯塔克
-  - 斯塔克
-  - Stake
-summary: "美国教育评价与案例研究方法论学者，提出回应性评价和自然主义概括概念，是案例研究设计领域的核心人物之一"
+summary: 美国教育评价与案例研究方法论学者，提出回应性评价和自然主义概括概念，是案例研究设计领域的核心人物之一
 type: person
 nationality: usa
 tags:

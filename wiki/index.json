@@ -1191,6 +1191,17 @@
     ]
   },
   {
+    "title": "Academic Oligarchy",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Academic Oligarchy.md",
+    "aliases": [
+      "学术寡头",
+      "学术寡头制",
+      "professional oligarchy",
+      "专业寡头"
+    ]
+  },
+  {
     "title": "Alumni Engagement",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Alumni Engagement.md",
@@ -2583,6 +2594,17 @@
     ]
   },
   {
+    "title": "Fictitious Commodity of Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Fictitious Commodity of Knowledge.md",
+    "aliases": [
+      "知识的虚拟商品",
+      "知识作为虚拟商品",
+      "fictitious commodity",
+      "knowledge as fictitious commodity"
+    ]
+  },
+  {
     "title": "Financialization of Higher Education",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Financialization of Higher Education.md",
@@ -2722,6 +2744,16 @@
     "path": "wiki/concepts/political-economy-geopolitics/Knowledge Capitalism.md",
     "aliases": [
       "知识资本主义"
+    ]
+  },
+  {
+    "title": "Knowledge Rents",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Knowledge Rents.md",
+    "aliases": [
+      "知识租金",
+      "knowledge rents",
+      "information feudalism"
     ]
   },
   {
@@ -6642,9 +6674,7 @@
     "type": "person",
     "path": "wiki/persons/usa/Robert E. Stake.md",
     "aliases": [
-      "罗伯特·斯塔克",
-      "斯塔克",
-      "Stake"
+      "罗伯特·斯塔克"
     ]
   },
   {

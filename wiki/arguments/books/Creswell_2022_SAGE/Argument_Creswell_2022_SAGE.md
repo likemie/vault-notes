@@ -110,7 +110,6 @@ related_persons:
   - "[[John Locke]]"
   - "[[Yvonna S. Lincoln]]"
   - "[[John Dewey]]"
-  - "[[Robert E. Stake]]"
   - "[[Herbert Blalock]]"
 related_facts: []
 related_arguments: []
@@ -243,7 +242,7 @@ updated: 2026-05-31
 
 量化设计中，[[Survey Research|调查研究]]通过问卷或结构化访谈从样本收集数据以推广至总体（Fowler, 2008）。[[Experimental Research|实验研究]]通过[[Random Assignment|随机分配]]处理条件并比较组间差异来检验因果效应（Keppel, 1991），真实验使用随机分配，准实验使用非随机分配，[[Single-Subject Design|单受试者设计]]在时间维度上对少数个体施加和撤销处理（Cooper et al., 2007）。
 
-质性设计中，[[Narrative Research|叙事研究]]研究个体生活故事并重构为叙事编年史（Clandinin & Connelly, 2000）；现象学描述多个个体对某一现象的共同本质体验（Moustakas, 1994）；[[Grounded Theory|扎根理论]]通过多阶段编码从参与者视角归纳生成抽象理论（Charmaz, 2006; Corbin & Strauss, 2007）；[[Ethnography|民族志]]在自然情境中长时间观察文化群体的共享行为模式（Wolcott, 1994）；案例研究对受时空限定的个案进行深度多源分析（[[Robert E. Stake|Stake]], 1995; Yin, 2009）。
+质性设计中，[[Narrative Research|叙事研究]]研究个体生活故事并重构为叙事编年史（Clandinin & Connelly, 2000）；现象学描述多个个体对某一现象的共同本质体验（Moustakas, 1994）；[[Grounded Theory|扎根理论]]通过多阶段编码从参与者视角归纳生成抽象理论（Charmaz, 2006; Corbin & Strauss, 2007）；[[Ethnography|民族志]]在自然情境中长时间观察文化群体的共享行为模式（Wolcott, 1994）；案例研究对受时空限定的个案进行深度多源分析（Stake, 1995; Yin, 2009）。
 
 混合方法设计中，[[Convergent Design|聚敛式设计]]同时收集两类数据并合并分析；解释性序列先量化后质性，用质性深入解释量化结果；探索性序列先质性后量化，用量化检验或推广质性发现；复杂设计将核心设计嵌入更大的框架或流程之中。
 

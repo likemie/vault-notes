@@ -15,8 +15,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Random Sampling]]"
   - "[[Case Study]]"
-related_persons:
-  - "[[Robert E. Stake]]"
+related_persons: []
 related_facts: []
 related_arguments: []
 sources:
@@ -32,14 +31,14 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 自然主义概括（naturalistic generalization）是 [[Robert E. Stake|Stake]] (1995) 在案例研究方法论中提出的概念。研究者在基于案例数据形成命题性概括（propositional generalization，即研究者的解释和主张总结）之外，还加入了自己的个人经验，这一融合产物就是自然主义概括（p.86; 引自 Creswell & Creswell, 2022, p.67）。它来自[[Qualitative Research|质性研究]]中理论作为研究终点的运用方式。
+> 自然主义概括（naturalistic generalization）是 Stake (1995) 在案例研究方法论中提出的概念。研究者在基于案例数据形成命题性概括（propositional generalization，即研究者的解释和主张总结）之外，还加入了自己的个人经验，这一融合产物就是自然主义概括（p.86; 引自 Creswell & Creswell, 2022, p.67）。它来自[[Qualitative Research|质性研究]]中理论作为研究终点的运用方式。
 
 ## 核心特征
 
 自然主义概括与传统量化概括的区别在于其情境嵌入性。它不是从样本到总体的统计推广，而是读者在阅读案例研究报告时，通过将自己的经验与案例中描述的情境进行对照，自行完成的认知推广过程。研究者提供的是深厚描述（thick description），读者则在此基础上判断该案例与自身情境的相似性和可迁移性。
 
 > [!quote]
-> 在案例研究中，[[Robert E. Stake|Stake]] (1995) 在命题性概括（研究者的解释和主张总结）之外，还加入了研究者的个人经验，称为"自然主义概括"（p.86; 引自 Creswell & Creswell, 2022, p.67）。
+> 在案例研究中，Stake (1995) 在命题性概括（研究者的解释和主张总结）之外，还加入了研究者的个人经验，称为"自然主义概括"（p.86; 引自 Creswell & Creswell, 2022, p.67）。
 
 ## 概念辨析
 
