@@ -73,6 +73,7 @@ related_concepts:
   - "[[Saturation]]"
   - "[[Gatekeepers]]"
   - "[[Probes]]"
+  - "[[Simultaneous Procedures]]"
   - "[[Winnowing]]"
   - "[[Story Line]]"
   - "[[Qualitative Codebook]]"
@@ -123,6 +124,7 @@ related_methods:
   - "[[Qualitative Documents]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Observation Protocol]]"
+  - "[[Qualitative Computer Software]]"
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
 related_persons:
@@ -1022,8 +1024,8 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 | 多种数据来源 | 访谈、观察、文件、[[Audiovisual, Social Media, and Digital Materials\|视听材料]]等多形式数据汇集为编码和主题 |
 | 归纳与演绎分析 | 从数据向上建构模式（归纳），再从主题回查数据（演绎） |
 | [[Emergent Design\|涌现式设计]] | 初始计划不固定，随深入探究而在研究过程中演变 |
-| [[Reflexivity\|反身性]] | 反思自身背景如何塑造解释 |
-| 研究者角色 | 警惕[[Backyard Research\|后院研究]]的权力失衡与信息妥协 |
+| [[Reflexivity\|反身性]] | 反思自身背景（性别、文化、历史、社会经济出身）如何塑造解释，讨论建立在 [[Memos\|备忘录]] 基础上 |
+| 研究者角色 | 警惕 [[Backyard Research\|后院研究]] 的权力失衡与信息妥协 |
 | 复杂性描述 | 报告多重视角和非线性、多因素交互的图景 |
 
 ---
@@ -1071,7 +1073,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 ---
 
-**第四步：数据分析程序。** 三个总体观念先行：同时性（分析/收集/写作同步迭代）、[[Winnowing|数据筛选]]（聚合成 5-7 个主题）、计算机软件辅助（p.206）。七步分析流程从具体到一般：
+**第四步：数据分析程序。** 三个总体观念先行：[[Simultaneous Procedures]]（分析/收集/写作同步迭代）、[[Winnowing|数据筛选]]（聚合成 5-7 个主题）、[[Qualitative Computer Software]]辅助（p.206）。七步分析流程从具体到一般：
 
 1. **组织和准备数据**：转录访谈、扫描材料、录入田野笔记、编目视觉材料。
 2. **通读所有数据**：获得整体感知——参与者说了什么？思路基调如何？整体深度和可信度印象？

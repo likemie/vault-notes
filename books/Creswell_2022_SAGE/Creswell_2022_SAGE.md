@@ -102,7 +102,6 @@ extracted_to:
   - "[[Literature Map]]"
   - "[[Case Study]]"
   - "[[Qualitative Research]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Researcher as Key Instrument]]"
   - "[[Simultaneous Procedures]]"
   - "[[Winnowing]]"
@@ -112,6 +111,7 @@ extracted_to:
   - "[[Purposeful Sampling]]"
   - "[[Qualitative Documents]]"
   - "[[Qualitative Interview]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 processed_date: 2026-05-30
 ---
 
