@@ -99,10 +99,19 @@ extracted_to:
   - "[[Robert E. Stake]]"
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Literature Map]]"
   - "[[Case Study]]"
   - "[[Qualitative Research]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Researcher as Key Instrument]]"
+  - "[[Simultaneous Procedures]]"
+  - "[[Winnowing]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Descriptive Methods]]"
+  - "[[Interview Protocol]]"
+  - "[[Purposeful Sampling]]"
+  - "[[Qualitative Documents]]"
+  - "[[Qualitative Interview]]"
 processed_date: 2026-05-30
 ---
 

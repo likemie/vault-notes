@@ -644,7 +644,7 @@ Total entries: **1032**
 - [[Observation Protocol]] — 质性观察中用于记录描述性笔记和反思性笔记的单页记录工具，中间以分隔线划分两类笔记
 - [[Peer Debriefing]] — 质性研究中通过寻找一位同行审查并提出关于研究的问题来增强研究报告准确性的效度策略
 - [[Philosophical Analysis in Education]] — 通过概念区分、逻辑推理和哲学论证分析教育政策与实践的前提假设，为从业者提供抵抗资源
-- [[Purposeful Sampling]] — 质性研究中为最佳理解研究问题和研究问题而有目的地选择参与者、场所或资料的研究策略
+- [[Purposeful Sampling]] — 质性研究中为最佳理解研究问题而有目的地选择参与者、场所或资料的研究策略，与量化随机抽样有本质区别
 - [[Qualitative Computer Software]] — 用于辅助质性研究中文本和图像数据组织、排序和搜索的计算机程序，不能替代研究者的分析工作
 - [[Qualitative Documents]] — 质性研究中收集和分析公共文件与私人文件作为数据来源的方法，是访谈和观察之外的第三种主要质性数据形式
 - [[Qualitative Interview]] — 质性研究中通过与参与者面对面、电话或焦点小组进行开放式问答以获取参与者观点和意见的数据收集方法
@@ -1333,7 +1333,7 @@ Total entries: **1032**
 - [[Argument_Burrus_Patera_2025_PartnershipBuilding]] — 从产学关系实践者角度，提出通过连接、探索发现与关系建设三步构建战略性产学伙伴关系的框架，强调大学企业参与专员的中介角色
 - [[Argument_Byrne_2025_InnovationCenters]] — 基于大学融资基金会四十余年产学合作开发经验，提出创新中心建设的四个核心信条与六项优先领域，以 Tech Square、RTP 等多案例说明如何通过场所营造与资产映射推动区域经济发展
 - [[Argument_Gilison_Wilson_2025_UniversityStartups]] — 基于南加州创新联盟八年运营经验及对 20 余位大学产学合作领导者的访谈，分析大学衍生企业面临的结构性障碍——IP 所有权毒丸与风投风险偏好不匹配——并梳理产业通过概念验证项目、创新联盟和驻校企业家提供市场声音的有效路径
-- [[Argument_Hall(Ed.)_2025_Springer]] — 围绕产学合作的对齐（alignment）、参与（engagement）与公共效益组织 17 章研究，以基础-路径-机制三层框架展示大学与企业在研究、教育和创新生态系统中的合作机制与挑战
+- [[Argument_Hall(Ed.)_2025_Springer]] — 围绕产学合作的对齐（alignment）、参与（engagement）与公共效益组织 17  章研究，以基础-路径-机制三层框架展示大学与企业在研究、教育和创新生态系统中的合作机制与挑战
 - [[Argument_Hoffman_2025_UI_Alliances_Consortia]] — 将产学联盟与联合体按组织化程度排列为从行业咨询委员会到创新中心的四种模式，以AMRC为案例提炼出限制发起成员数量、跨越供应链价值线、前竞争IP共有等可复制经验
 - [[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]] — 以哥伦比亚大学气候学院的跨学科高管教育为案例，论证面向复杂社会挑战的高管教育需要在课程设计、教师参与、伙伴合作和项目评估四个维度进行系统性创新，并提出跨学科主题设计与客户共生的课程开发模式
 - [[Argument_Narayan_Spohrer_2025_Metrics]] — 以IBM百年产学关系历程为线索，提出度量、激励、奖励与文化四要素必须随商业环境与战略重点持续调适，并通过六R框架和大小规模案例说明产学合作的实践逻辑
@@ -1349,7 +1349,7 @@ Total entries: **1032**
 - [[Argument_Jornitz_2022_Bildung_algorithmic]] — 以 Bildung 概念和 Gruschka 教学理论为框架，分析学习软件的即时反馈、奖励系统和表现仪表盘三大机制如何系统性地排除教育中的意义建构与人格陶成，将算法技术的全球传播解读为数字知识地缘政治
 - [[Argument_Moisio_2022_Springer]] — Ch2 Sami Moisio，论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架
 - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral，整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
-- [[Argument_Parreira do Amaral_2022_Springer]] — 论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制度与互动→主体形塑）逐层展开
+- [[Argument_Parreira do Amaral_2022_Springer]] — 论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制 度与互动→主体形塑）逐层展开
 - [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken，区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性
 - [[Argument_Rambla_2022_Springer]] — Ch10 Xavier Rambla，以 Le Galès 政策工具框架分析欧盟创新与教育培训政策如何通过绩效指标构建区域性的教育与创新想象，揭示其选择性优先技术研发和就业导向而边缘化区域异质性与人文赋权
 - [[Argument_Rizvi_2022_Springer]] — Ch6 Fazal Rizvi，以批判地缘政治为分析透镜，论证亚洲崛起如何通过国际化的市场理性转向和跨国研究合作的多重理性融合重塑全球高等教育架构
@@ -1360,7 +1360,7 @@ Total entries: **1032**
 #### Ryan(Ed.)_2010_HKUP
 
 - [[Argument_Ryan_2010_ChineseLearner]] — Ch2 文献批判综述：西方对中国学习者“缺陷型“与“优势型“双重刻板印象的诊断，二元对立表格的建构，“儒家价值“归因的非实证性，2001 年中国课程改革使刻板印象过时，元文化敏感度作为替代路径
-- [[Argument_Ryan_2010_HKUP]] — 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化“中国学习者“概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
+- [[Argument_Ryan_2010_HKUP]] — 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化“中 国学习者“概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
 - [[Argument_Slethaug_2010_InternationalEducation]] — Ch1 背景章节：国际学校 50→3,000+(1964–2005)的爆炸增长与去国家化转型，IB 全球扩散，中国学习者多元性，国际教育师资培训系统性缺失
 
 #### Zheng_2023_ShanghaiSanlian
