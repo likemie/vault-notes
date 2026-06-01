@@ -160,7 +160,7 @@ Total entries: **118**
 
 ### Higher Education
 
-- [[Argument_Schulze-Cleven_2017_HighEduc]] — 提出多维分析策略审视高等教育的竞争转型，梳理学术资本主义多样性、话语分层和新封建等级三类核心现象，论证制度主义、阶级分析和话语分析三种理论路径需要批判性对话以理解分配冲突与话语建构的交织
+- [[Argument_Schulze-Cleven_2017_HighEduc]] — 特刊导论，以学术资本主义多样性、话语分层和新封建等级为核心现象，论证制度分析、阶级理论和话语分析三种路径需在分配冲突与符号建构之间建立批判性对话才能把握竞争转型的混合秩序
 
 ### Higher Education Research & Development
 

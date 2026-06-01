@@ -69,7 +69,7 @@ Total entries: **53**
 - [[Cultural Political Economy]] — 把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造
 - [[Decolonial Geopolitics of Knowledge]] — 从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化
 - [[Fixity-Motion Tension]] — 解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论
-- [[Neo-feudalism in Higher Education]] — Schulze-Cleven et al. (2017) 引入高等教育研究的范式概念，描述学术等级如何通过忠诚与联盟、群体特权和制度声望的公共展示得以维持，而非仅由自由市场动力驱动
+- [[Neo-feudalism in Higher Education]] — Schulze-Cleven et al. (2017) 引入的分析范式，主张当代学术等级通过忠诚联盟、群体特权和声望展示等封建式机制维持，市场化和竞争非但未消解等级反而将其固化为新封建秩序
 - [[Tullock's Bureaucracy Theory]] — 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
 
 ## Psychology

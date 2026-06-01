@@ -216,16 +216,20 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 ## 关键引用
 
 > [!quote]
-> "The European Union has elaborated quite sophisticated imaginaries of education and innovation by means of [[Performance Indicators|policy instruments]] that use expert knowledge to draw certain geographical images of the member states and the regions within these states."（p.176）
+> “欧盟已经通过使用专家知识的政策工具，描绘出成员国及其内部区域的特定地理图像，从而构建了相当复杂的教育和创新想象。”
+> ("The European Union has elaborated quite sophisticated imaginaries of education and innovation by means of [[Performance Indicators|policy instruments]] that use expert knowledge to draw certain geographical images of the member states and the regions within these states.")（p.176）
 
 > [!quote]
-> "Performance indicators convey 'theories of change' that highlight how policies activate certain mechanisms in a given context."（Pawson, 2006，引用于 p.165）
+> “绩效指标传达了‘变革理论’，凸显了政策如何在特定情境中激活某些机制。”
+> ("Performance indicators convey 'theories of change' that highlight how policies activate certain mechanisms in a given context.")（Pawson, 2006，引用于 p.165）
 
 > [!quote]
-> "Performance indicators are a policy instrument that directly draws on scientific and technical legitimacy, and pushes policy actors towards competition."（Le Galès, 2016，引用于 p.165）
+> “绩效指标是一种直接利用科学和技术合法性的政策工具，它推动政策行动者走向竞争。”
+> ("Performance indicators are a policy instrument that directly draws on scientific and technical legitimacy, and pushes policy actors towards competition.")（Le Galès, 2016，引用于 p.165）
 
 > [!quote]
-> "Policy instruments 'select' relevant policy issues in the arena of public debate and simultaneously induce actors to sideline other issues."（Jessop, 2007，引用于 p.166）
+> “政策工具在公共辩论的舞台上‘选择’相关的政策议题，同时引导行动者边缘化其他议题。”
+> ("Policy instruments 'select' relevant policy issues in the arena of public debate and simultaneously induce actors to sideline other issues.")（Jessop, 2007，引用于 p.166）
 
 
 ## 局限性与批评

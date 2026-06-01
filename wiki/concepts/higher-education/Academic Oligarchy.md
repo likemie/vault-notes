@@ -5,7 +5,7 @@ aliases:
   - 学术寡头制
   - professional oligarchy
   - 专业寡头
-summary: "Burton Clark (1983) 三角协调模型中的一极，在 Schulze-Cleven et al. (2017) 中被重新激活以分析竞争转型如何催生并固化少数精英大学和学者对学术资源和价值定义的控制"
+summary: "Clark (1983) 三角协调模型中专业寡头一极的当代延伸，描述市场竞争和评估治理如何催生少数精英大学对资源分配和价值定义的寡头式控制，而非预期的开放竞争"
 type: concept
 tags:
   - academic-oligarchy

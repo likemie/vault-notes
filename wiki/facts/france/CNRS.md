@@ -3,7 +3,7 @@ title: CNRS
 aliases:
   - 法国国家科学研究中心
   - Centre National de la Recherche Scientifique
-summary: "1939 年成立的法国国家级公共科研机构，拥有独特的拨款和学术身份体系，与美国 NSF、英国 REF 和德国卓越倡议构成不同的研究治理范式"
+summary: "1939 年成立的法国国家级公共科研机构，其研究人员为终身制公务员并享有独立于大学的拨款渠道，与英美以项目竞争和评估驱动的研究治理模式形成制度替代路径"
 type: fact
 subtype: event
 region: "France"

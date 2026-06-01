@@ -281,9 +281,11 @@ updated: 2026-05-18
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The diagnosis of scholars like Escobar and Haraway is clear enough: Without a significant change, not to say transformation of our mind-set, late modernity may as well be the last stage not only for humanity, but for the planet."（Amos, 2022, p.63）
+> > “像 Escobar 和 Haraway 等学者的诊断已经足够清晰：如果不发生重大改变，或者说如果不转变我们的思维方式，晚期现代性很可能不仅是人类的最后阶段，也是这个星球的最后阶段。”
+> ("The diagnosis of scholars like Escobar and Haraway is clear enough: Without a significant change, not to say transformation of our mind-set, late modernity may as well be the last stage not only for humanity, but for the planet.")（Amos, 2022, p.63）
 >
-> > "What is needed then, is an educational theory that draws it all together. One that re-envisions public education with a non-compartmentalized organization of knowledge, that takes connectivity and [[Response-ability]], another term for caring as its organizing principle, one that encourages collaboration, is critical of ideologies that place the human being at the center of the universe, one that encourages non-dualistic thinking and the non-fixity of the self, pays attention to the multiple entanglements both material and non-material."（Amos, 2022, p.64）
+> > “那么，我们需要的是一种能够将这一切结合起来的教育理论。这种理论用一种非碎片化的知识组织方式重新构想公共教育，将联结性和[[Response-ability|回应能力]]（关怀的另一个词）作为其组织原则，鼓励合作，批判将人类置于宇宙中心的意识形态，鼓励非二元思维和自我的非固定性，并关注物质和非物质的多重纠缠。”
+> ("What is needed then, is an educational theory that draws it all together. One that re-envisions public education with a non-compartmentalized organization of knowledge, that takes connectivity and [[Response-ability]], another term for caring as its organizing principle, one that encourages collaboration, is critical of ideologies that place the human being at the center of the universe, one that encourages non-dualistic thinking and the non-fixity of the self, pays attention to the multiple entanglements both material and non-material.")（Amos, 2022, p.64）
 >
 
 ## 局限性与批评

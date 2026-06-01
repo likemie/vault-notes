@@ -3,7 +3,7 @@ title: Research Excellence Framework
 aliases:
   - REF
   - Research Excellence Framework (REF)
-summary: "2014 年起取代 RAE 的英国全国性大学研究评估体系，评估结果直接决定 Quality-Related 研究拨款的分配，是高等教育准市场治理的全球典范"
+summary: "2014 年起取代 RAE 的英国全国性大学研究评估体系，评估结果直接决定 QR 研究拨款的分配，是高等教育准市场最成熟也最具影响力的制度形式"
 type: fact
 subtype: event
 region: "UK"

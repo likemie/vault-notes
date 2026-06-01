@@ -4,7 +4,7 @@ aliases:
   - 知识的准商品化
   - quasi-commodification
   - quasi-commodification of knowledge
-summary: "Jessop (2007) 提出、Schulze-Cleven et al. (2017) 置于高等教育分析中的概念，描述知识劳动被当作可交易商品处理但并未完全成为商品的状态，是理解学术资本主义边界的关键概念"
+summary: "Jessop (2007) 从 Polanyi 视角提出的概念，描述知识被定价和交换但因其公共品特性而无法完全商品化的半市场状态，解释大学何以像企业运作却不必成为企业"
 type: concept
 tags:
   - quasi-commodification

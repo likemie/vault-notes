@@ -3,7 +3,7 @@ title: Elitism Dispositif
 aliases:
   - 精英部署
   - elitism dispositif
-summary: "Maesse 在 Schulze-Cleven et al. (2017) 中提出的批判建构主义概念，描述经济学学科中通过统一评估、资源集中和院系规模来界定学术精英与边缘的制度配置"
+summary: "Maesse 借 Foucault 的 dispositif 概念分析经济学学科精英生产的机制，统一评估、资源集中和院系规模化共同运作，系统性地制造学科的中心-边缘分化并溢出至政治和媒体场域"
 type: concept
 tags:
   - elitism-dispositif

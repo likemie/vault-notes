@@ -2,7 +2,7 @@
 title: Argument_Schulze-Cleven_2017_HighEduc
 authors:
   - "Schulze-Cleven, T. & Reitz, T. & Maesse, J. & Angermuller, J."
-summary: "提出多维分析策略审视高等教育的竞争转型，梳理学术资本主义多样性、话语分层和新封建等级三类核心现象，论证制度主义、阶级分析和话语分析三种理论路径需要批判性对话以理解分配冲突与话语建构的交织"
+summary: "特刊导论，以学术资本主义多样性、话语分层和新封建等级为核心现象，论证制度分析、阶级理论和话语分析三种路径需在分配冲突与符号建构之间建立批判性对话才能把握竞争转型的混合秩序"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -117,7 +117,7 @@ Slaughter & Leslie（1997）和 Slaughter & Rhoades（2004）的 [[Academic Capi
 ## 研究方法
 
 > [!info] 研究类型
-> 该分析整合了八篇论文的理论贡献，涵盖比较跨国政策分析（Schulze-Cleven & Olson）、量化分析（Wieczorek, Beyer & Münch 对美国化学系拨款效应的研究）、话语分析（Maesse 对经济学学科[[Elitism Dispositif|精英部署]]的批判[[Constructivist Paradigm|建构主义]]分析）、媒体档案分析（Bouchard 对法国排名杂志的历史溯源）、以及学术生涯的制度比较（Angermuller 对美英法德四国学术地位范畴的比较），在此基础上提出多维分析策略和比较研究议程（pp.795–796, 808–809）。
+> 分析整合了八篇论文的理论贡献，涵盖比较跨国政策分析（Schulze-Cleven & Olson）、量化分析（Wieczorek, Beyer & Münch 对美国化学系拨款效应的研究）、话语分析（Maesse 对经济学学科[[Elitism Dispositif|精英部署]]的批判[[Constructivist Paradigm|建构主义]]分析）、媒体档案分析（Bouchard 对法国排名杂志的历史溯源）、以及学术生涯的制度比较（Angermuller 对美英法德四国学术地位范畴的比较），在此基础上提出多维分析策略和比较研究议程（pp.795–796, 808–809）。
 >
 > 地理范围集中于北美和西欧，以美国为全球参照模型，特别关注德国和法国，这两个欧洲人口最多的国家代表了学术治理的两种范式：德国以国家为中心的传统与市场化改革的拉锯，法国以国家主导的院校合并与精英大学校体系的张力（pp.796–797）。
 

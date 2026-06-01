@@ -3,7 +3,7 @@ title: Academic Capitalism
 aliases:
   - 学术资本主义
   - academic capitalism
-summary: "Slaughter & Leslie (1997) 提出的概念，描述高等教育中市场逻辑、管理主义和竞争压力的渗透过程，及其如何重塑大学的治理、资金和研究优先权"
+summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: concept
 tags:
   - academic-capitalism

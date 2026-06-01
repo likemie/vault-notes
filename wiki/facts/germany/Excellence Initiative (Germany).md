@@ -5,7 +5,7 @@ aliases:
   - 德国卓越计划
   - Exzellenzinitiative
   - Excellence Strategy
-summary: "2005 年启动的德国联邦与州政府联合资助计划，通过竞争性评选向少数精英大学提供巨额额外资助，深刻重塑了德国高等教育的等级格局和准市场治理"
+summary: "2005–2017 年德国联邦与州政府联合实施的竞争性资助计划，通过评选少数卓越大学并提供巨额额外拨款，制造了比全覆盖式评估更陡峭的高等教育等级结构"
 type: fact
 subtype: event
 region: "Germany"

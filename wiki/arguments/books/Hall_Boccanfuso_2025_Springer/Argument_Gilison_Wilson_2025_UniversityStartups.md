@@ -193,7 +193,8 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 15. 一个坦诚的观察是：如果大学衍生企业真的代表有吸引力的投资机会，"更多基金和更大规模的基金就会出现"（p.146）。市场不是傻瓜。衍生企业的融资困境不仅仅是"偏见"或"不理解"的问题，它们在客观上确实风险更高、回报周期更长、成功概率更低。除非通过系统性的去风险策略——更多产业合作带来市场验证、更多政府非稀释性投资填补早期资金缺口、更高质量的创业导师制帮助教授们补上商业知识短板——来改善这个基本面，否则"资金供给将始终低于需求"（p.146）。
 
 > [!quote]
-> "Ask for money and they'll give you advice. Ask for advice and they'll give you money."（p.146，募资行业的经典格言：你问投资人要钱，他会给你一堆建议；你去请教他建议，他反而可能给你钱。背后的逻辑是：当你虚心请教时，你展示了你愿意学习和倾听的品质——这正是投资者除了技术和市场之外最看重的创始人特质。）
+> “你问他们要钱，他们会给你建议。你问他们要建议，他们会给你钱。”
+> ("Ask for money and they'll give you advice. Ask for advice and they'll give you money.")（p.146，募资行业的经典格言：你问投资人要钱，他会给你一堆建议；你去请教他建议，他反而可能给你钱。背后的逻辑是：当你虚心请教时，你展示了你愿意学习和倾听的品质——这正是投资者除了技术和市场之外最看重的创始人特质。）
 
 ---
 
@@ -374,18 +375,21 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!quote]
 > “事实上，各种不利因素对大学初创企业非常不利，以至于那些成功的企业才算是真正的‘独角兽’。”
-> ("In fact, the odds are stacked against the [[University Spin-Out|university-based startup]] so much so that the successful ones are the true 'Uni-corns.'")（p.142）
+> (“事实上，各种不利因素对大学初创企业非常不利，以至于那些成功的企业才算是真正的‘独角兽’。”
+> ("In fact, the odds are stacked against the [[University Spin-Out|university-based startup]] so much so that the successful ones are the true 'Uni-corns.'"))（p.142）
 >
 > 大学衍生企业面临的困难如此之大，以至于成功的案例才是真正的"独角兽"。原文玩了一个双关："Uni-corns"既指"独角兽"（罕见、近乎神话般的成功），又嵌入了"Uni-versity"（大学）。成功的大学衍生企业既是独角兽，也是"大学之角"。
 
 > [!quote]
 > “这就像在追踪雪人，人们听说过它们的存在，但从未在野外亲眼目睹过。”
-> ("It was like [[Tracking]] a Yeti, where people have heard they exist but never witnessed one firsthand in the wild.")（p.143）
+> (“这就像在追踪雪人，人们听说过它们的存在，但从未在野外亲眼目睹过。”
+> ("It was like [[Tracking]] a Yeti, where people have heard they exist but never witnessed one firsthand in the wild."))（p.143）
 >
 > 形容产业赞助研究催生衍生企业的罕见程度——就像在追踪雪人（Yeti）：人人都说听说过，但没人在野外亲眼见过。
 
 > [!quote]
-> "Ask for money and they'll give you advice. Ask for advice and they'll give you money."（p.146）
+> “你问他们要钱，他们会给你建议。你问他们要建议，他们会给你钱。”
+> ("Ask for money and they'll give you advice. Ask for advice and they'll give you money.")（p.146）
 >
 > 募资行业的经典悖论：直接要钱，投资人只会给建议；虚心请教，投资人反而可能主动投资。这句话揭示了投资人行为的一个重要特征——他们投资的不只是技术，更是"创始人是否具备学习和倾听的能力"。
 

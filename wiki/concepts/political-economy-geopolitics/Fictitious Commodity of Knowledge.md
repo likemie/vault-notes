@@ -5,7 +5,7 @@ aliases:
   - 知识作为虚拟商品
   - fictitious commodity
   - knowledge as fictitious commodity
-summary: "Jessop (2007) 从 Polanyi 视角提出的概念，指知识在当代资本主义中被当作商品来对待、但其固有的社会性质使其无法被完全商品化，是理解学术资本主义内在张力的关键概念"
+summary: "Polanyi 虚拟商品理论在知识领域的延伸，揭示知识因非竞争性和非排他性而抗拒完全商品化，学术排名和评估正是为虚拟商品化的知识制造符号价格的基础设施"
 type: concept
 tags:
   - fictitious-commodity

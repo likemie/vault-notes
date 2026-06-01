@@ -198,15 +198,18 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 
 Moisio 的核心论旨：
 
-> "In this chapter, I seek to geopoliticize the purportedly geoeconomic present. In particular, I argue that the contemporary knowledge-intensive capitalism is a historically contingent geopolitical constellation that brings together a range of issues such as space, cities, states, human capital, education, and technology."（Moisio, 2022, p.21）
+> “在本章中，我试图将据称是地缘经济的现在地缘政治化。具体而言，我主张当代知识密集型资本主义是一个具有历史偶然性的地缘政治星系，它将空间、城市、国家、人力资本、教育和技术等一系列议题汇聚在一起。”
+> ("In this chapter, I seek to geopoliticize the purportedly geoeconomic present. In particular, I argue that the contemporary knowledge-intensive capitalism is a historically contingent geopolitical constellation that brings together a range of issues such as space, cities, states, human capital, education, and technology.")（Moisio, 2022, p.21）
 
 Harvey 的[[Fixity-Motion Tension|固着-流动张力]]——本章最核心的理论资源：
 
-> "Capitalism perpetually strives, therefore, to create a social and physical landscape in its own image and requisite to its own needs at a particular point in time, only just as certainly to undermine, disrupt and even destroy that landscape at a later point in time."（Harvey, 2001, p.333, cited in Moisio, 2022, p.28）
+> “因此，资本主义永远在努力按照自己的形象并为满足自己在特定时间点的需求，去创造一种社会和物质景观，然而在随后的时间点，它又同样确凿地会去破坏、扰乱甚至摧毁这种景观。”
+> ("Capitalism perpetually strives, therefore, to create a social and physical landscape in its own image and requisite to its own needs at a particular point in time, only just as certainly to undermine, disrupt and even destroy that landscape at a later point in time.")（Harvey, 2001, p.333, cited in Moisio, 2022, p.28）
 
 Moisio 从中推导出的地缘政治悖论：
 
-> "The [[Geopolitics of Knowledge]]-based economization emanates from the very tension within the capitalist circulation process in space: the tension within the geography of accumulation between fixity and motion."（Moisio, 2022, p.28）
+> “基于[[Geopolitics of Knowledge|知识地缘政治]]的经济化，源于资本主义空间循环过程内部的张力：积累地理中固定性与运动之间的张力。”
+> ("The [[Geopolitics of Knowledge]]-based economization emanates from the very tension within the capitalist circulation process in space: the tension within the geography of accumulation between fixity and motion.")（Moisio, 2022, p.28）
 
 
 ## 局限性与批评

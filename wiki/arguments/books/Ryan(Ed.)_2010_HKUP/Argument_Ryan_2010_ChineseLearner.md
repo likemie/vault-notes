@@ -329,7 +329,8 @@ Ryan（2010, p.57）以 Hayhoe & Pan（2001, p.21）的"真正的对话——在
 > ("It is particularly infuriating to hear problems with such rhetorical styles attributed to imagined inadequacies in the student's education in their home country. ... Such analysis is misleading because it confuses differences in style of expression with a lack of academic rigour.") — Yoshino (2004, p.10)，转引自 Ryan (2010, p.42)
 
 > [!quote]
-> "There is a notable tendency in the applied linguistics literature to report the perceptions and reactions of Western instructors which, rather than being interrogated for ethnocentric bias and stereotyping, are validated by recourse to a Confucian heritage explanation which appears plausible rather than being empirically established." — Clark & Gieve (2006, pp.60–63)，转引自 Ryan (2010, p.40)
+> “在应用语言学文献中存在一种显著的倾向：报告西方教师的看法和反应，而没有质疑其民族中心主义偏见和刻板印象，反而是通过诉诸一种看似合理而非基于实证确立的儒家传统解释来证实它们。”
+> ("There is a notable tendency in the applied linguistics literature to report the perceptions and reactions of Western instructors which, rather than being interrogated for ethnocentric bias and stereotyping, are validated by recourse to a Confucian heritage explanation which appears plausible rather than being empirically established.") — Clark & Gieve (2006, pp.60–63)，转引自 Ryan (2010, p.40)
 
 > [!quote]
 > “良好的教与学是‘人类共同的财富’。”

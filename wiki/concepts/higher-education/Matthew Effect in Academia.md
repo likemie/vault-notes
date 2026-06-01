@@ -5,7 +5,7 @@ aliases:
   - 高等教育马太效应
   - 制度化的马太效应
   - institutionalized Matthew effect
-summary: "Merton (1968) 提出、Schulze-Cleven et al. (2017) 置于高等教育治理语境中的概念，描述资源向已有资源的机构进一步集中的自我强化循环，通过绩效拨款、排名和评估机制制度化运作"
+summary: "Merton (1968) 提出、经 Schulze-Cleven et al. (2017) 制度化的概念，描述绩效拨款和排名如何使资源向已有资源的机构进一步集中，形成评估-拨款-资源累积的自我强化循环"
 type: concept
 tags:
   - matthew-effect

@@ -4,7 +4,7 @@ aliases:
   - 知识租金
   - knowledge rents
   - information feudalism
-summary: "Drahos & Braithwaite (2002) 提出的概念，指通过知识产权制度和学术评估体系从公共生产的知识中持续提取超额回报的机制，是理解高等教育新封建主义的核心经济概念"
+summary: "Drahos & Braithwaite (2002) 提出的概念，描述精英大学通过控制知识产权的法律框架和学术评估的价值标准，从公共生产的知识中持续提取超额经济回报的租金机制"
 type: concept
 tags:
   - knowledge-rents

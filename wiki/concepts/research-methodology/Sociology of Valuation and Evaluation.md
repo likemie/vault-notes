@@ -4,7 +4,7 @@ aliases:
   - 评估与赋值社会学
   - sociology of evaluation
   - 评估社会学
-summary: "Lamont (2012) 概括的比较研究领域，关注评估、量化绩效测量和序数排名如何塑造社会等级，在高等教育研究中用于揭示学术质量管理的非预期效应和评价工具的合法性制造功能"
+summary: "Lamont (2012) 概括的研究领域，关注排名和绩效测量如何同时完成资源分配、合法性制造和不平等正当化三重操作，为理解学术评估的非预期效应提供经验基础"
 type: concept
 tags:
   - sociology-of-evaluation
