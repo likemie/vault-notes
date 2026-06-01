@@ -66,6 +66,7 @@ sources:
   - "[[Ch8_Gilison_Wilson_2025]]"
   - "[[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
+  - "[[Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -329,3 +330,4 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 - [[Ch8_Gilison_Wilson_2025]]
 - [[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]
+- [[Schulze-Cleven_2017_HighEduc]]
