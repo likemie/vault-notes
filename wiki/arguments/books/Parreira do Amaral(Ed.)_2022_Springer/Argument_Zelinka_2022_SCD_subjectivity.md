@@ -141,15 +141,18 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 
 > [!quote]
 > “成为生产源泉的，不是主体获得的技能和能力，而是主体性，即基于期望能力的自我行为模式。”
-> ("It is not skills and competencies gained by subjects, but subjectivities, i.e. modes of self-conduct based on desired competencies, that become a source of production.")（Reed, 2009, p.33, cit. by Zelinka, 2022, p.261）
+> (“成为生产源泉的，不是主体获得的技能和能力，而是主体性，即基于期望能力的自我行为模式。”
+> ("It is not skills and competencies gained by subjects, but subjectivities, i.e. modes of self-conduct based on desired competencies, that become a source of production."))（Reed, 2009, p.33, cit. by Zelinka, 2022, p.261）
 
 > [!quote]
 > “主体只有承认并增强其自我创业的主体性，表现出对成长的热情和加速的意愿，才不会沦为一次性用品（被随时抛弃）。”
-> ("Subjects are only disposable unless they acknowledge and enhance their self-entrepreneurial subjectivity and show passion for growth and a will to accelerate.")（Zelinka, 2022, p.261）
+> (“主体只有承认并增强其自我创业的主体性，表现出对成长的热情和加速的意愿，才不会沦为一次性用品（被随时抛弃）。”
+> ("Subjects are only disposable unless they acknowledge and enhance their self-entrepreneurial subjectivity and show passion for growth and a will to accelerate."))（Zelinka, 2022, p.261）
 
 > [!quote]
 > “对这种新颖和创新尝试的反对，始于质疑其根本基础，即质疑其将主体定义为知识承载者的做法。”
-> ("The opposition to this kind of novel and innovative endeavor starts with questioning its very basis, i.e. its definition of subjects as knowledge-bearers.")（Zelinka, 2022, p.265）
+> (“对这种新颖和创新尝试的反对，始于质疑其根本基础，即质疑其将主体定义为知识承载者的做法。”
+> ("The opposition to this kind of novel and innovative endeavor starts with questioning its very basis, i.e. its definition of subjects as knowledge-bearers."))（Zelinka, 2022, p.265）
 
 ## 来源
 

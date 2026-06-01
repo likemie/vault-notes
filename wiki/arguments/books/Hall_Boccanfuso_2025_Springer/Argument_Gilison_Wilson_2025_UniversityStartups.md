@@ -194,7 +194,8 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!quote]
 > “你问他们要钱，他们会给你建议。你问他们要建议，他们会给你钱。”
-> ("Ask for money and they'll give you advice. Ask for advice and they'll give you money.")（p.146，募资行业的经典格言：你问投资人要钱，他会给你一堆建议；你去请教他建议，他反而可能给你钱。背后的逻辑是：当你虚心请教时，你展示了你愿意学习和倾听的品质——这正是投资者除了技术和市场之外最看重的创始人特质。）
+> (“你问他们要钱，他们会给你建议。你问他们要建议，他们会给你钱。”
+> ("Ask for money and they'll give you advice. Ask for advice and they'll give you money."))（p.146，募资行业的经典格言：你问投资人要钱，他会给你一堆建议；你去请教他建议，他反而可能给你钱。背后的逻辑是：当你虚心请教时，你展示了你愿意学习和倾听的品质——这正是投资者除了技术和市场之外最看重的创始人特质。）
 
 ---
 
@@ -389,7 +390,8 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!quote]
 > “你问他们要钱，他们会给你建议。你问他们要建议，他们会给你钱。”
-> ("Ask for money and they'll give you advice. Ask for advice and they'll give you money.")（p.146）
+> (“你问他们要钱，他们会给你建议。你问他们要建议，他们会给你钱。”
+> ("Ask for money and they'll give you advice. Ask for advice and they'll give you money."))（p.146）
 >
 > 募资行业的经典悖论：直接要钱，投资人只会给建议；虚心请教，投资人反而可能主动投资。这句话揭示了投资人行为的一个重要特征——他们投资的不只是技术，更是"创始人是否具备学习和倾听的能力"。
 

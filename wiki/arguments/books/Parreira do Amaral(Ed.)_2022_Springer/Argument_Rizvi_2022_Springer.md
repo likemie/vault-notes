@@ -174,7 +174,8 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 - 市场友好政策——"亚洲发展型国家，尤其是所谓的'亚洲小龙'，预判了市场"（Bhagwati, 2007, cited in Rizvi, 2022, p.93）
 
 **关键质疑**（Pieterse, 2018）：增长的数量不等于质量。“亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
-> ("Asia is rising but Asian wellbeing is not. The quality and quantity of growth are out of synch.")——大多数亚洲国家高且上升的基尼系数表明增长路径缺乏社会发展，不可持续。中国环境问题可能正在达到约束增长率的阶段，而中国政权的政治合法性建立在此基础上（Rizvi, 2022, p.93）。
+> (“亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
+> ("Asia is rising but Asian wellbeing is not. The quality and quantity of growth are out of synch."))——大多数亚洲国家高且上升的基尼系数表明增长路径缺乏社会发展，不可持续。中国环境问题可能正在达到约束增长率的阶段，而中国政权的政治合法性建立在此基础上（Rizvi, 2022, p.93）。
 
 > Rizvi 先摆出"亚洲崛起"的数据，然后用 Pieterse 的质疑来复杂化：增长数量不等于质量。这个质疑为后面的论证埋下伏笔——正是因为增长质量存疑，亚洲中产阶级才会把西方教育当作"保险"和"地位投资"。
 
@@ -351,7 +352,8 @@ Rizvi 的结论不是一个简单的"解决方案"，而是一组**方向性的�
 4. **重新想象高等教育本身**：这意味着重新审视被"其他"知识传统的主张所挑战的传统课程，发展对新社交媒体和无处不在的通信技术的最新创新更具响应性的新教育学
 
 5. **"疫情是一个入口"**：Rizvi 借用 Arundhati Roy (2020) 的名言——“大流行是一扇传送门”
-> ("the pandemic is a portal")——来结束他的论证。疫情和它们所揭示的地缘政治紧张可能需要很长时间才能解决，但它们为我们提供了一个"重新想象世界和高等教育的新地缘政治的新入口"
+> (“大流行是一扇传送门”
+> ("the pandemic is a portal"))——来结束他的论证。疫情和它们所揭示的地缘政治紧张可能需要很长时间才能解决，但它们为我们提供了一个"重新想象世界和高等教育的新地缘政治的新入口"
 
 ## 主要发现
 
@@ -398,16 +400,20 @@ Rizvi 论证疫情的作用不是"颠覆"了原有秩序，而是"暴露"了原�
 
 > [!quote]
 > “亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
-> ("Asia is rising but Asian wellbeing is not. The quality and quantity of growth are out of synch.")（Pieterse, 2018, p.62, cited in Rizvi, 2022, p.93）
+> (“亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
+> ("Asia is rising but Asian wellbeing is not. The quality and quantity of growth are out of synch."))（Pieterse, 2018, p.62, cited in Rizvi, 2022, p.93）
 
 > “语言和文本可以创造、转移或维持意识形态。在《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）的案例中，这种意识形态反映了一种新帝国主义，即更强大的国家将发展中国家保留为它们在知识上继续统治的市场。”
-> ("language and text can create, shift, or maintain ideologies. In the case of [[GATS and Trade in Education Services|GATS]], the ideology reflects a new imperialism where more powerful countries retain developing countries as markets in which they continue to rule intellectually")（Collins, 2007, p.283, cited in Rizvi, 2022, p.97）
+> (“语言和文本可以创造、转移或维持意识形态。在[[GATS and Trade in Education Services|《服务贸易总协定》]]（GATS）的案例中，这种意识形态反映了一种新帝国主义，即更强大的国家将发展中国家保留为它们在知识上继续统治的市场。”
+> ("language and text can create, shift, or maintain ideologies. In the case of [[GATS and Trade in Education Services|GATS]], the ideology reflects a new imperialism where more powerful countries retain developing countries as markets in which they continue to rule intellectually"))（Collins, 2007, p.283, cited in Rizvi, 2022, p.97）
 
 > “大流行是一扇传送门”
-> ("the pandemic is a portal")（Roy, 2020, cited in Rizvi, 2022, p.102）
+> (“大流行是一扇传送门”
+> ("the pandemic is a portal"))（Roy, 2020, cited in Rizvi, 2022, p.102）
 
 > “亚洲世纪是澳大利亚的机遇。随着全球重心转移到我们这个地区，距离的暴政正在被相邻的前景所取代。”
-> ("The Asian Century is an Australian opportunity. As the global centre of gravity shifts to our region, the tyranny of distance is being replaced by the prospects of proximity")（Henry Report, 2012, p.1, cited in Rizvi, 2022, pp.99–100）
+> (“亚洲世纪是澳大利亚的机遇。随着全球重心转移到我们这个地区，距离的暴政正在被相邻的前景所取代。”
+> ("The Asian Century is an Australian opportunity. As the global centre of gravity shifts to our region, the tyranny of distance is being replaced by the prospects of proximity"))（Henry Report, 2012, p.1, cited in Rizvi, 2022, pp.99–100）
 
 ## 局限性与批评
 

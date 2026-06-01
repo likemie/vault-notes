@@ -280,19 +280,23 @@ UIDP 的项目过程也值得注意：采用"Heilmeier Catechism"格式的项目
 
 > [!quote]
 > “当今的创新通常发生在‘界面’处，即产业界和大学为了共同目标而相互合作的间隙空间。”
-> ("Innovation today often occurs at the 'interface,' the interstitial space where industry and universities work with each other toward common goals.")（p.4）
+> (“当今的创新通常发生在‘界面’处，即产业界和大学为了共同目标而相互合作的间隙空间。”
+> ("Innovation today often occurs at the 'interface,' the interstitial space where industry and universities work with each other toward common goals."))（p.4）
 
 > [!quote]
 > “实力与影响力的发展，不仅仅依靠大学与产业之间的关系，更在于深度参与。”
-> ("Strength and impact are developed not solely through relationships between universities and industry but engagement.")（p.4）
+> (“实力与影响力的发展，不仅仅依靠大学与产业之间的关系，更在于深度参与。”
+> ("Strength and impact are developed not solely through relationships between universities and industry but engagement."))（p.4）
 
 > [!quote]
 > “创新很难在孤立的状态下发生。”
-> ("Innovation does not readily occur in isolation.")（p.12）
+> (“创新很难在孤立的状态下发生。”
+> ("Innovation does not readily occur in isolation."))（p.12）
 
 > [!quote]
 > “有大量文献表明，现代社会要持续保持高水平的激进创新，就需要组织形式的多样性、组织结构的异质性以及思想的多样性。”
-> ("There is substantial literature which suggests that continuous high levels of radical innovation in modern societies require diversity in organization forms, heterogeneity in organizational structures, diversity in ideas.")（Hollingsworth & Hollingsworth, 2011, p.27，转引自 p.12）
+> (“有大量文献表明，现代社会要持续保持高水平的激进创新，就需要组织形式的多样性、组织结构的异质性以及思想的多样性。”
+> ("There is substantial literature which suggests that continuous high levels of radical innovation in modern societies require diversity in organization forms, heterogeneity in organizational structures, diversity in ideas."))（Hollingsworth & Hollingsworth, 2011, p.27，转引自 p.12）
 
 ---
 
