@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HighEduc.md",
+                "file": "wiki/concepts/political-economy-geopolitics/New Public Management.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Schulze-Cleven_2017_HighEduc"
+              "title": "New Public Management"
             }
           }
         ]
@@ -191,9 +191,12 @@
   },
   "active": "d5cc64116fa9887e",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HighEduc.md",
+    "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economy.md",
+    "wiki/concepts/higher-education/University-Industry Collaboration.md",
+    "wiki/concepts/political-economy-geopolitics/Academic Capitalism.md",
     "sources/Schulze-Cleven_2017_HighEduc.md",
     "scripts/translate_quotes_batch_13.py",
-    "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HighEduc.md",
     "wiki/concepts/political-economy-geopolitics/Quasi-commodification of Knowledge.md",
     "wiki/concepts/higher-education/Matthew Effect in Academia.md",
     "wiki/concepts/research-methodology/Sociology of Valuation and Evaluation.md",
@@ -212,7 +215,6 @@
     "wiki/concepts/political-economy-geopolitics/Financialization of Higher Education.md",
     "wiki/concepts/higher-education/Non-monetary Competition.md",
     "wiki/concepts/political-economy-geopolitics/Discursive Stratification.md",
-    "wiki/concepts/political-economy-geopolitics/Academic Capitalism.md",
     "scripts/translate_quotes_batch_8.py",
     "raw/s10734-017-0114-4.pdf",
     "scripts/translate_quotes_batch_7.py",
@@ -224,7 +226,6 @@
     "wiki/methods/quantitative/Random Assignment.md",
     "wiki/concepts/sociology-of-education/Tracking.md",
     "wiki/methods/quantitative/Analysis of Covariance.md",
-    "wiki/methods/quantitative/Survey Research.md",
-    "wiki/concepts/research-methodology/Internal Consistency and Cronbach's Alpha.md"
+    "wiki/methods/quantitative/Survey Research.md"
   ]
 }
