@@ -22,7 +22,8 @@ related_theories:
   - "[[Cultural Political Economy]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Research Excellence Framework]]"
 related_arguments: []
 sources:
   - "[[Schulze-Cleven_2017_HighEduc]]"
@@ -72,7 +73,7 @@ updated: 2026-06-01
 > [!note]
 > Schulze-Cleven et al.（2017）将评估与赋值社会学置于其多维分析策略的一个关键交叉点上（pp.798–799, 801–802, 807–809）：
 >
-> - **连接分配冲突与[[Discursive Stratification|话语分层]]**：评估工具（排名、REF、影响因子）同时运作在物质维度（决定拨款的分配）和符号维度（定义什么是"卓越"）——评估与赋值社会学提供了同时追踪这两个维度的分析工具
+> - **连接分配冲突与[[Discursive Stratification|话语分层]]**：评估工具（排名、[[Research Excellence Framework|REF]]、影响因子）同时运作在物质维度（决定拨款的分配）和符号维度（定义什么是"卓越"）——评估与赋值社会学提供了同时追踪这两个维度的分析工具
 > - **揭示准市场的运作逻辑**：高等教育中的 准市场 正是通过评估工具来实现的——标准化产出指标 → 指标与拨款挂钩 → 制度化马太效应。评估与赋值社会学为理解这一链条中的每一环提供了经验研究基础
 > - **为三种理论路径提供经验锚点**：制度分析可以用它来比较不同国家的评估制度差异；阶级分析可以用它来追踪评估如何将文化优势转化为学术功绩；话语分析可以用它来揭示评估标准的建构性和争议性
 

@@ -22,6 +22,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[UN Sustainable Development Goals]]"
+  - "[[Research Excellence Framework]]"
 related_arguments: []
 sources:
   - "[[Ch9_Zapp_2022]]"
@@ -77,7 +78,7 @@ updated: '2026-05-18'
 ## 效果与评价
 
 > [!success]
-> - Zapp (2022) 将 THE Impact Ranking 定位为研究评估体系中"影响"（impact）逻辑的全球化和制度化：在英国 REF 等国家研究评估体系日益重视社会影响的趋势下，THE 排名将此逻辑提升至全球层面（p.147）
+> - Zapp (2022) 将 THE Impact Ranking 定位为研究评估体系中"影响"（impact）逻辑的全球化和制度化：在英国 [[Research Excellence Framework|REF]] 等国家研究评估体系日益重视社会影响的趋势下，THE 排名将此逻辑提升至全球层面（p.147）
 > - 该排名反映了大学评价从单一卓越标准向多元责任标准的扩展——大学不仅需证明其学术质量，还需展示其为"公共利益"（public good）做出的贡献（Zapp, 2022, p.147）
 
 > [!info]- 核心数据

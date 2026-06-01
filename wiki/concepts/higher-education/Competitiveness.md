@@ -27,7 +27,9 @@ related_theories:
   - "[[Societies of Control]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Excellence Initiative (Germany)]]"
+  - "[[Research Excellence Framework]]"
 related_arguments: []
 sources:
   - "[[Ch13_Thompson_2022]]"
@@ -61,7 +63,7 @@ Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地
 
 在科研领域，Bröckling 和 Peter（2017, pp.292–294）论证了"卓越"（excellence）是如何通过构建一个基于指标和排名的市场环境而被"发现"的——这一过程的核心悖论在于，卓越不是被客观评估的，而是在被评估的过程中被**生产**出来的：
 
-- 德国卓越计划（Exzellenzinitiative）和英国研究卓越框架（Research Excellence Framework, REF，前身为 Research Assessment Exercise, RAE）是构建这类市场环境的典型技术（Thompson et al., 2022, p.220）
+- [[Excellence Initiative (Germany)|德国卓越计划]]（Exzellenzinitiative）和英国研究卓越框架（[[Research Excellence Framework]], REF，前身为 Research Assessment Exercise, RAE）是构建这类市场环境的典型技术（Thompson et al., 2022, p.220）
 - 同行研究者需要在出版物甚至未来研究计划的层面相互竞争——"谁有最具创新性的想法？"
 - Thompson 等人（2022, p.220）指出一个关键特征：学术组织在互联网络中构成了一种"审判"（tribunal）——它们同时是法官和被审判者。这种递归关系增强了组织对自我建立的卓越标准的认同
 

@@ -1393,6 +1393,15 @@
     ]
   },
   {
+    "title": "Field Images",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Field Images.md",
+    "aliases": [
+      "场域图像",
+      "field images"
+    ]
+  },
+  {
     "title": "Fourth Generation University",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Fourth Generation University.md",
@@ -1690,6 +1699,16 @@
       "place-making",
       "creative placemaking",
       "创意场所营造"
+    ]
+  },
+  {
+    "title": "Positioning Practice",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Positioning Practice.md",
+    "aliases": [
+      "定位实践",
+      "positioning practice",
+      "academic positioning"
     ]
   },
   {
@@ -2591,6 +2610,15 @@
     "path": "wiki/concepts/political-economy-geopolitics/Economic Patriotism.md",
     "aliases": [
       "经济爱国主义"
+    ]
+  },
+  {
+    "title": "Elitism Dispositif",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Elitism Dispositif.md",
+    "aliases": [
+      "精英部署",
+      "elitism dispositif"
     ]
   },
   {
@@ -7170,12 +7198,32 @@
     ]
   },
   {
+    "title": "CNRS",
+    "type": "fact",
+    "path": "wiki/facts/france/CNRS.md",
+    "aliases": [
+      "法国国家科学研究中心",
+      "Centre National de la Recherche Scientifique"
+    ]
+  },
+  {
     "title": "French Class Size Reduction",
     "type": "fact",
     "path": "wiki/facts/france/French Class Size Reduction.md",
     "aliases": [
       "French Class Size Reduction 2017",
       "法国2017年班额缩减政策"
+    ]
+  },
+  {
+    "title": "Excellence Initiative (Germany)",
+    "type": "fact",
+    "path": "wiki/facts/germany/Excellence Initiative (Germany).md",
+    "aliases": [
+      "德国卓越倡议",
+      "德国卓越计划",
+      "Exzellenzinitiative",
+      "Excellence Strategy"
     ]
   },
   {
@@ -7733,6 +7781,15 @@
     "path": "wiki/facts/uk/Playing for Success.md",
     "aliases": [
       "Playing for Success计划"
+    ]
+  },
+  {
+    "title": "Research Excellence Framework",
+    "type": "fact",
+    "path": "wiki/facts/uk/Research Excellence Framework.md",
+    "aliases": [
+      "REF",
+      "Research Excellence Framework (REF)"
     ]
   },
   {

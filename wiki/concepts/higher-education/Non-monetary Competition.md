@@ -27,6 +27,7 @@ related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
   - "[[Academic Ranking of World Universities]]"
+  - "[[Research Excellence Framework]]"
 related_arguments: []
 sources:
   - "[[Schulze-Cleven_2017_HighEduc]]"
@@ -69,7 +70,7 @@ updated: 2026-06-01
 
 ### 准市场（Quasi-markets）
 
-基于竞争的国家支出或学术[[New Public Management|新公共管理]]：从英国的 Research Assessment Exercise（1998–2008）和 Research Excellence Framework（自 2014 年起）到德国、法国等国的卓越计划，标准化产出指标被用作资源分配的基础。这一学术版本的"准市场"在部分国家已成为主要的分配机制——并作为[[Matthew Effect in Academia|制度化的马太效应]]运作，使资源向已有资源的机构进一步集中（Schulze-Cleven et al., 2017, pp.801–802）。
+基于竞争的国家支出或学术[[New Public Management|新公共管理]]：从英国的 Research Assessment Exercise（1998–2008）和 [[Research Excellence Framework]]（自 2014 年起）到德国、法国等国的卓越计划，标准化产出指标被用作资源分配的基础。这一学术版本的"准市场"在部分国家已成为主要的分配机制——并作为[[Matthew Effect in Academia|制度化的马太效应]]运作，使资源向已有资源的机构进一步集中（Schulze-Cleven et al., 2017, pp.801–802）。
 
 ## 理论基础
 

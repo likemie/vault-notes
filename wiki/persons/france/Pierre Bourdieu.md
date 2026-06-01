@@ -40,6 +40,7 @@ sources:
   - "[[Zheng_2023_ShanghaiSanlian]]"
 related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[CNRS]]"
 confidence: high
 status: draft
 created: 2026-05-02
@@ -98,7 +99,7 @@ updated: 2026-05-19
 ### 法兰西学院与公共知识分子
 
 - **1981–1982** — 当选法兰西学院社会学讲席教授，并发表 *Leçon sur la leçon* 就职演讲。
-- **1993** — 获法国国家科学研究中心（CNRS）金奖；主编出版 *La Misère du monde*，以访谈形式呈现新自由主义政策下的社会苦难。
+- **1993** — 获[[CNRS|法国国家科学研究中心]]（CNRS）金奖；主编出版 *La Misère du monde*，以访谈形式呈现新自由主义政策下的社会苦难。
 - **1995–1998** — 深入参与反新自由主义、罢工、失业者运动等公共议题，形成“战斗性社会学”的公共形象。
 - **2002** — 因肺癌在巴黎去世。晚期自我分析与国家、科学、艺术[[Champ|场域]]课程在身后继续出版。
 

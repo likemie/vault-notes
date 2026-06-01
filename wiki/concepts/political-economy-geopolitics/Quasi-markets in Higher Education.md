@@ -22,6 +22,8 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Research Excellence Framework]]"
+  - "[[Excellence Initiative (Germany)]]"
   - "[[National Science Foundation]]"
 related_arguments: []
 sources:
@@ -62,7 +64,7 @@ updated: 2026-06-01
 
 ### 指标与拨款的挂钩
 
-评估结果直接决定或显著影响拨款的分配。例如，英国 REF 的评分决定了 Quality-Related（QR）研究拨款的流向；德国 Excellence Initiative 的评选结果决定了巨额额外资助的归属。这种挂钩将指标从"信息工具"转化为"分配工具"，指标不再只是告诉人们"谁做得好"，而是直接决定"谁得到钱"。
+评估结果直接决定或显著影响拨款的分配。例如，英国 [[Research Excellence Framework|REF]] 的评分决定了 Quality-Related（QR）研究拨款的流向；德国 Excellence Initiative 的评选结果决定了巨额额外资助的归属。这种挂钩将指标从"信息工具"转化为"分配工具"，指标不再只是告诉人们"谁做得好"，而是直接决定"谁得到钱"。
 
 ### 制度化马太效应的形成
 
@@ -75,11 +77,11 @@ updated: 2026-06-01
 
 ### 英国：从 RAE 到 REF
 
-英国的 Research Assessment Exercise（RAE，1998–2008）及其继任者 Research Excellence Framework（REF，自 2014 年起）是准市场最成熟的制度形式。REF 的评估结果，将各学科的研究产出评为 4*（世界领先）到 unclassified，直接决定了英格兰高等教育拨款委员会分配的数亿英镑 QR 研究拨款。院系的招聘、晋升和资源配置策略被系统性地重塑以最大化 REF 得分。
+英国的 Research Assessment Exercise（RAE，1998–2008）及其继任者 [[Research Excellence Framework]]（REF，自 2014 年起）是准市场最成熟的制度形式。REF 的评估结果，将各学科的研究产出评为 4*（世界领先）到 unclassified，直接决定了英格兰高等教育拨款委员会分配的数亿英镑 QR 研究拨款。院系的招聘、晋升和资源配置策略被系统性地重塑以最大化 REF 得分。
 
 ### 德国：Excellence Initiative
 
-德国卓越倡议（Excellence Initiative，2005–2017）及其后续的 Excellence Strategy 代表了另一种准市场形态：少数被选中的"卓越大学"获得巨额额外资助，形成与其余大学的显著资源落差。与英国 REF 覆盖所有大学的评估不同，德国模式创造了更陡峭的等级，卓越大学和非卓越大学之间的界限被制度化。
+[[Excellence Initiative (Germany)|德国卓越倡议]]（Excellence Initiative，2005–2017）及其后续的 Excellence Strategy 代表了另一种准市场形态：少数被选中的"卓越大学"获得巨额额外资助，形成与其余大学的显著资源落差。与英国 REF 覆盖所有大学的评估不同，德国模式创造了更陡峭的等级，卓越大学和非卓越大学之间的界限被制度化。
 
 ### 美国的多样化实践
 
@@ -88,7 +90,7 @@ updated: 2026-06-01
 ## 市场话语的意识形态功能
 
 > [!warning]
-> 准市场的一个核心悖论是："市场"话语与功绩神话携手并进。竞争性支出表面上奖励卓越，但其实际功能之一是**证成公共资源的不平等分配**。当一个未获得拨款的院系被告知"你的 REF 表现不够好"，而非"你所在的院校不在决策委员会的人脉网络中"，不平等的分配结果获得了客观、公正和"基于质量"的外观（Schulze-Cleven et al., 2017, pp.801–802）。
+> 准市场的一个核心悖论是："市场"话语与功绩神话携手并进。竞争性支出表面上奖励卓越，但其实际功能之一是**证成公共资源的不平等分配**。当一个未获得拨款的院系被告知"你的 [[Research Excellence Framework|REF]] 表现不够好"，而非"你所在的院校不在决策委员会的人脉网络中"，不平等的分配结果获得了客观、公正和"基于质量"的外观（Schulze-Cleven et al., 2017, pp.801–802）。
 >
 > 当美国公共资助者在 1960–70 年代转向同行评审作为拨款工具时，这一转变的设计目标之一就是确保"科学家对纳税人的问责"（Biagioli, 2002, p.123）。评估工具由此同时完成了三重操作：**分配资源**（谁拿到钱）、**制造合法性**（为什么这样分配是公正的）、以及**归咎责任**（拿不到钱是因为你不够卓越）。
 

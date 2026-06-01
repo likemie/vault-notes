@@ -32,7 +32,9 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Immanuel Kant]]"
-related_facts: []
+related_facts:
+  - "[[Excellence Initiative (Germany)]]"
+  - "[[Research Excellence Framework]]"
 related_arguments: []
 sources:
   - "[[Ch13_Thompson_2022]]"
@@ -85,7 +87,7 @@ updated: 2026-05-19
 将 [[Online Self-Assessment|OSA]] 置于竞争性大学的更广框架中理解：借助 Moisio（2018）对[[Knowledge-Based Economy|知识经济]]地缘政治的分析，竞争力已成为重新组织高等教育的"地缘政治装置"（geopolitical apparatus）：
 
 - 排名和指标化实践将大学转化为竞争者——[[Performativity of Measurement|测量的生产性]]在此发挥关键作用（Thompson et al., 2022, p.220）
-- 在科研领域，Bröckling & Peter（2017）已证明"卓越"与自我呈现和持续自我优化的任务绑定在一起——德国卓越计划和英国 REF 就是通过指标和排名构建市场环境的典型技术（Thompson et al., 2022, p.220）
+- 在科研领域，Bröckling & Peter（2017）已证明"卓越"与自我呈现和持续自我优化的任务绑定在一起——[[Excellence Initiative (Germany)|德国卓越计划]]和英国 [[Research Excellence Framework|REF]] 就是通过指标和排名构建市场环境的典型技术（Thompson et al., 2022, p.220）
 - 在教学领域，竞争力表现为对**学生成功的预期管理**——大学竞争的是学生的"潜在未来努力"（Thompson et al., 2022, p.220）
 
 > 例：两所大学竞争——A 大学和 B 大学。在科研方面，它们可以通过论文数量、引用率、第三方经费等指标直接比较。但在教学方面，它们如何比较？答案是：通过毕业率、学生满意度、雇主评价等"成功"指标——但这些指标衡量的是**已经发生的**结果，而大学真正需要的是在入学前就预判哪些学生有潜力贡献这些指标。这就是为什么 OSA 作为**提前的**管理工具变得至关重要。

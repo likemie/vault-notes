@@ -17,7 +17,9 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Constructivist Paradigm]]"
   - "[[Cultural Capital]]"
-  - "[[Champ]]"
+  - "[[Elitism Dispositif]]"
+  - "[[Field Images]]"
+  - "[[Positioning Practice]]"
   - "[[Academic Capitalism]]"
 related_theories:
   - "[[Cultural Political Economy]]"
@@ -57,25 +59,25 @@ updated: 2026-06-01
 > [!abstract]
 > Schulze-Cleven et al.（2017, pp.805–807）通过收录的五篇文章展示了话语分层的多维分析角度：
 
-### 经济学的精英部署（elitism dispositif）
+### 经济学的精英部署
 
-Maesse 通过"批判[[Constructivist Paradigm|建构主义]]"分析展示经济学作为社会科学学科中的[[Cultural Capital|文化资本]]如何被建构、分配和转化，形成全球化的学科秩序。统一的科研产出评估、物质与人力资源的机构集中、以及院系规模与合作水平，明确界定了谁被承认为专业"精英"、谁被推至学术可见度的边缘。这一部署最重要的用途在政治辩论、经济权力斗争和大众媒体中——被赋予权威地位的经济专家用来客体化有争议的决策和判断（Schulze-Cleven et al., 2017, p.806）。
+Maesse 通过批判[[Constructivist Paradigm|建构主义]]分析展示经济学学科中[[Cultural Capital|文化资本]]如何被建构、分配和转化，形成全球化的学科秩序。详见 [[Elitism Dispositif]]。
 
-### 分层作为过程而非结构
+### 分层作为过程
 
-Bloch & Mitterle 对德国商学院排名和研究生院扩张的分析表明，分层应被理解为由"[[Champ|场域]]图像"（field images）驱动的过程，而非静态结构。排名和卓越归因教会多元行动者"看见"谁属于更高的或更低的层级。高排名商学院对学生变得更具吸引力，而在德国卓越倡议（Excellence Initiative）认可研究生院为符号性特权场所以后，研究生院数量迅速增长（Schulze-Cleven et al., 2017, pp.806–807）。
+Bloch & Mitterle 提出分层应被理解为由[[Field Images|场域图像]]驱动的过程而非静态结构。详见 [[Field Images]]。
 
 ### 排名作为媒体产品
 
-Bouchard 追溯了法国两家媒体杂志（L'Étudiant 和 Le Monde de l'éducation）自 1970 年代末以来的营销策略和评估技术，揭示媒体公司的市场领导地位策略如何与私人评估昂贵预科培训项目的需求相融合，产生了一种具有强均质化力量的工具——将异质机构投射到同一套质量标尺之上（Schulze-Cleven et al., 2017, pp.806–807）。
+Bouchard 追溯了法国媒体杂志自 1970 年代末以来的营销策略和评估技术，揭示排名如何从媒体公司的市场竞争策略中诞生（Schulze-Cleven et al., 2017, pp.806–807）。
 
-### 学术定位实践（positioning practice）
+### 学术定位实践
 
-Angermuller 提出高等教育作为一个符号经济（symbolic economy）的话语理论分析：积极参与高等教育和研究始终是一种"定位实践"，行动者通过使用可用的社会范畴来主张自己的位置并界定他人的归属。学术行动者在机构中竞争有薪地位，他们的符号位置与其职业生涯相连（Schulze-Cleven et al., 2017, pp.807–808）。
+Angermuller 将学术交流分析为行动者通过社会范畴主张自身位置的话语实践。详见 [[Positioning Practice]]。
 
-### 跨国身份资本（transnational identity capital）
+### 跨国身份资本
 
-Kim 通过对全球流动学者的分析展示了市场化如何改变符号位置。作为跨国学者在不同制度与符号语境之间移动时获得的一种特殊能力——能够比较不同的意义视域——"跨国身份资本"概念揭示了市场化引发的分层变化中，国家等级与新市场分层之间的张力（Schulze-Cleven et al., 2017, pp.808–809）。
+Kim 通过对全球流动学者的分析展示了市场化如何改变符号位置，"跨国身份资本"概念揭示了国家等级与新市场分层之间的张力（Schulze-Cleven et al., 2017, pp.808–809）。
 
 ## 理论基础
 
