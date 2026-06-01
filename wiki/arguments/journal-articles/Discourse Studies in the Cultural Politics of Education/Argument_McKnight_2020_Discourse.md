@@ -104,7 +104,8 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "[[Visible Learning]] is the perfect tool for the 'new management panopticism' (Ball, 2003, p. 219) that is not so new anymore; when learning must be visible, everyone can spy on everyone else."（p.34）
+> > “‘可见的学习’是实现‘新管理全景敞视主义’（Ball, 2003, p. 219）的完美工具，而这种主义现在已经不再那么新鲜了；当学习必须变得可见时，每个人都可以监视其他人。”
+> ("[[Visible Learning]] is the perfect tool for the 'new management panopticism' (Ball, 2003, p. 219) that is not so new anymore; when learning must be visible, everyone can spy on everyone else.")（p.34）
 >
 > > “在‘可见的学习’的[[Meta-analysis|元分析]]中，教师的智慧被夺取、加工，并以一定的代价被重新提供回来。在一个女性化的职业中（Apple, 1986/2013），教师们屈服于教育中异性恋正统的、性别歧视的和能力歧视的构建。”
 > ("In Visible Learning's [[Meta-analysis]], the wisdom of teachers is taken, processed, and served back, at a price. Teachers, in a feminised profession (Apple, 1986/2013), submit to heteronormative, sexist and ableist constructions of education.")（p.35）

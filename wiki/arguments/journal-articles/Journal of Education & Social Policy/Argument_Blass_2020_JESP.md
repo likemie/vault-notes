@@ -104,7 +104,8 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "[[Visible Learning]] is a fantastic study; it is a remarkable feat of statistical analysis; and it is a good map of how teaching practices impacted on learning outcomes around the 1980-1990s, before the use and possibility of technology in the classroom became all but ubiquitous." (Blass, 2020, p.96)
+> > “‘可见的学习’是一项了不起的研究；它是一项卓越的统计分析成果；它也是一张很好的地图，展示了在教室中技术的应用和可能性变得无处不在之前的 1980-1990 年代左右，教学实践是如何影响学习成果的。”
+> ("[[Visible Learning]] is a fantastic study; it is a remarkable feat of statistical analysis; and it is a good map of how teaching practices impacted on learning outcomes around the 1980-1990s, before the use and possibility of technology in the classroom became all but ubiquitous.") (Blass, 2020, p.96)
 >
 > > “你会希望一位外科医生查阅 1990 年的书籍来学习如何在手术中使用机器人吗？不！你会希望一位肿瘤科医生查找 1980 年代的最新癌症疗法吗？不！那么，你为什么要允许那个时代的教学结果影响你今天在课堂上的所作所为呢？”
 > ("Would you want a surgeon looking at books from 1990 to learn about the use of robotics in surgery? No! Would you want an oncologist to look up the latest cancer treatments from the 1980's? No! So why are you allowing teaching outcomes from this time to influence what you are doing today in the classroom?") (Blass, 2020, p.95)
