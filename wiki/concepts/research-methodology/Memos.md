@@ -1,7 +1,6 @@
 ---
 title: Memos
 aliases:
-  - 备忘录
   - 研究备忘录
   - research memos
   - analytic memos

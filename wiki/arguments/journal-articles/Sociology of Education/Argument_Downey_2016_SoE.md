@@ -1,7 +1,8 @@
 ---
 title: Argument_Downey_2016_SoE
 authors:
-  - "Downey, D. B., & Condron, D. J"
+  - "Downey, D. B."
+  - "Condron, D. J."
 summary: "在 Coleman Report 50 周年重新审视学校与不平等的关系，提出折射框架调和批判视角与季节性比较证据，论证学校对 SES 认知差距是补偿性的"
 type: argument
 subtype: journal-article

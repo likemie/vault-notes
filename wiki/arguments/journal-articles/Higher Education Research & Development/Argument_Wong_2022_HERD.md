@@ -1,7 +1,10 @@
 ---
 title: Argument_Wong_2022_HERD
 authors:
-  - "Wong, B., Chiu, Y. L. T., Copsey-Blake, M., & Nikolopoulou, M"
+  - "Wong, B."
+  - "Chiu, Y. L. T."
+  - "Copsey-Blake, M."
+  - "Nikolopoulou, M."
 summary: "首次对 UK 大学毕业生特质进行全国性系统映射，识别四大话语（自我意识与终身学习、就业能力与专业发展、全球公民与参与、学术与研究素养）"
 type: argument
 subtype: journal-article
