@@ -29,10 +29,10 @@ related_facts:
   - "[[National Science Foundation]]"
 related_arguments: []
 sources:
+  - "[[Schulze-Cleven_2017_HighEduc]]"
   - "[[Ch1_Boccanfuso_Hall_2025]]"
   - "[[Ch3_Boccanfuso_Hall_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
-  - "[[Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -95,7 +95,7 @@ Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识�
 
 ## 来源
 
+- [[Schulze-Cleven_2017_HighEduc]]
 - [[Ch1_Boccanfuso_Hall_2025]]
 - [[Ch3_Boccanfuso_Hall_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]
-- [[Schulze-Cleven_2017_HighEduc]]

@@ -26,8 +26,8 @@ related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 sources:
-  - "[[Ch12_Erfurth_2022]]"
   - "[[Schulze-Cleven_2017_HighEduc]]"
+  - "[[Ch12_Erfurth_2022]]"
 confidence: medium
 status: draft
 created: 2026-05-19
@@ -100,5 +100,5 @@ updated: 2026-05-19
 
 ## 来源
 
-- [[Ch12_Erfurth_2022]]
 - [[Schulze-Cleven_2017_HighEduc]]
+- [[Ch12_Erfurth_2022]]

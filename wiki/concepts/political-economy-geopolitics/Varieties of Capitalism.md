@@ -23,8 +23,8 @@ related_facts: []
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
 sources:
-  - "[[Ch11_Hartmann_2022]]"
   - "[[Schulze-Cleven_2017_HighEduc]]"
+  - "[[Ch11_Hartmann_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-18'
@@ -119,5 +119,5 @@ Schulze-Cleven & Olson的分析揭示了高等教育自由化中路径依赖的�
 
 ## 来源
 
-- [[Ch11_Hartmann_2022]]
 - [[Schulze-Cleven_2017_HighEduc]]
+- [[Ch11_Hartmann_2022]]

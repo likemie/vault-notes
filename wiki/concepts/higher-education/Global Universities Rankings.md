@@ -38,8 +38,8 @@ related_facts:
   - "[[University of Kentucky Top-20 Plan]]"
 related_arguments: []
 sources:
-  - "[[Ch8_Boyadjieva_2022]]"
   - "[[Schulze-Cleven_2017_HighEduc]]"
+  - "[[Ch8_Boyadjieva_2022]]"
 confidence: medium
 status: draft
 created: '2026-05-11'
@@ -236,5 +236,5 @@ Amsler & Bolsmann（2012, p.286）将排名定义为"一个强大的象征性和
 
 ## 来源
 
-- [[Ch8_Boyadjieva_2022]]
 - [[Schulze-Cleven_2017_HighEduc]]
+- [[Ch8_Boyadjieva_2022]]
