@@ -21,7 +21,9 @@ related_concepts:
   - "[[Cargo Cult Science]]"
   - "[[Neo-Taylorism]]"
   - "[[Class Size]]"
+  - "[[Effect Size]]"
   - "[[Bildung]]"
+  - "[[Reflexivity]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -75,7 +77,8 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "[[Visible Learning]] is not a [[Meta-analysis]]; however, it uses Cohen's d effect sizes, the statistical output associated with the meta-analysis technique."（p.25）
+> > “可见的学习并不是一项[[Meta-analysis|元分析]]；然而，它使用了 Cohen's d [[Effect Size|效应量]]，这是与元分析技术相关的统计产出。”
+> ("[[Visible Learning]] is not a [[Meta-analysis]]; however, it uses Cohen's d effect sizes, the statistical output associated with the meta-analysis technique.")（p.25）
 > > “我们认为，这种不透明的方法论阐述不符合科学探究的精神”
 > ("We view this opaque exposition of methodology as outside the spirit of scientific inquiry")（p.26）
 > > “‘可见的学习’是一个存在于由教育教父和‘灵丹妙药’式热潮组成的市场化世界中的产品。这与严谨实验和同行评审的传统相去甚远。”
@@ -88,7 +91,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > - 论文为批判性评论（critical essay），非实证研究，不提供新的经验数据
 > - 分析聚焦于 VL 的方法论和意识形态维度，未深入讨论 VL 在课堂层面的具体实施效果
-> - 对 VL 的替代方案（如 [[Bildung]]、反思性实践等）仅隐含提及而未系统展开
+> - 对 VL 的替代方案（如 [[Bildung]]、[[Reflexivity|反思性]]实践等）仅隐含提及而未系统展开
 
 ## 来源
 

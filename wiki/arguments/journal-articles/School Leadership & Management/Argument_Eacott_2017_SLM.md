@@ -95,7 +95,8 @@ updated: 2026-05-18
 > > “我认为，这种对个人崇拜的盲目接受和扩散是澳大利亚[[School Leadership|学校领导力]]领域的一场悲剧。”
 > ("I argue that the uncritical acceptance and proliferation of this cult is a tragedy for Australian [[School Leadership]].")（p.413）
 >
-> > "[[John Hattie|Hattie]] has provided the means through which scientific management can be achieved in educational leadership."（p.419）
+> > “海蒂提供了在教育领导力中实现科学管理的手段。”
+> ("[[John Hattie|Hattie]] has provided the means through which scientific management can be achieved in educational leadership.")（p.419）
 >
 > > “相比于教学模型——即使是那些配有衡量实践质量工具的模型——哈蒂（Hattie）为学校管理者提供的是他们可以据以做出决策的证据，即循证决策。”
 > ("Rather than models of pedagogy, even those that came with instruments to measure the quality of practice ... Hattie provided school administrators with evidence on which they could base decisions – evidence informed decisions.")（p.418）

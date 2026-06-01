@@ -47,6 +47,8 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
+  - "[[Qualitative Validity]]"
+  - "[[Reflexivity]]"
   - "[[Variable]]"
   - "[[Research Topic]]"
   - "[[Construct]]"
@@ -67,6 +69,17 @@ related_concepts:
   - "[[Blinding]]"
   - "[[Cover Story]]"
   - "[[Experimenter Bias]]"
+  - "[[Emergent Design]]"
+  - "[[Memos]]"
+  - "[[Saturation]]"
+  - "[[Gatekeepers]]"
+  - "[[Probes]]"
+  - "[[Qualitative Codebook]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Qualitative Reliability]]"
+  - "[[Intercoder Agreement]]"
+  - "[[Qualitative Generalization]]"
+  - "[[Winnowing]]"
   - "[[Multiplicity]]"
   - "[[Champ]]"
   - "[[Confidence Interval]]"
@@ -86,16 +99,20 @@ related_methods:
   - "[[Single-Subject Design]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
-  - "[[Narrative Research]]"
-  - "[[Grounded Theory]]"
-  - "[[Ethnography]]"
-  - "[[Case Study]]"
+  - "[[Descriptive Methods]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Purposeful Sampling]]"
   - "[[Mixed Method and Multi-method Research]]"
   - "[[Joint Display]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
+  - "[[Narrative Research]]"
+  - "[[Grounded Theory]]"
+  - "[[Ethnography]]"
   - "[[Causal Modeling]]"
+  - "[[Qualitative Interview]]"
+  - "[[Interview Protocol]]"
   - "[[Pilot Testing]]"
   - "[[t-test]]"
   - "[[Multiple Regression]]"
@@ -103,6 +120,12 @@ related_methods:
   - "[[Solomon Four-Group Design]]"
   - "[[Random Sampling]]"
   - "[[Analysis of Covariance]]"
+  - "[[Observation Protocol]]"
+  - "[[Triangulation]]"
+  - "[[Member Checking]]"
+  - "[[Peer Debriefing]]"
+  - "[[Qualitative Computer Software]]"
+  - "[[Case Study]]"
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
@@ -118,7 +141,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-30
-updated: 2026-05-31
+updated: 2026-06-01
 ---
 
 # Argument_Creswell_2022_SAGE
@@ -136,7 +159,7 @@ updated: 2026-05-31
 | 第6章 目的陈述      | 系统讲解研究计划中目的陈述（或研究目标）的核心地位。区分研究问题、目的陈述和研究问题三个环节的递进逻辑，逐一剖析质性目的陈述七要素、量化目的陈述八要素和混合方法目的陈述四要素，为每种路径提供填空式写作脚本，并辅以已发表研究的多个范例。                                                                                                                                                                                            | [[Purpose Statement]], [[Central Phenomenon]], [[Nondirectional Language]], [[Research Writing Script]]                                                    |
 | 第7章 研究问题与假设   | 系统讲解量化研究问题和假设（描述性与关系型、零假设与方向性备择假设）、质性核心研究问题和子问题、混合方法的三类研究问题（量化、质性、混合方法整合问题），每一类均提供填空式写作脚本和已发表研究范例。                                                                                                                                                                                                               | [[Research Question]], [[Hypothesis]], [[Central Question]], [[Mixed Methods Question]], [[Null Hypothesis]]                                               |
 | 第8章 量化方法      | 系统讲解调查研究和实验研究的方法计划组成部分：调查研究计划涵盖调查目的与设计类型、总体与样本（抽样设计、分层、[[Power Analysis]]）、工具信效度、变量与数据分析六步骤；实验研究计划涵盖参与者分配与[[Random Assignment]]、变量（独立变量、操纵检查、因变量、混淆变量）、工具与封面故事、实验程序（[[Pre-Experimental Designs]]、准实验、[[Factorial Design]]、[[Single-Subject Design]]）、[[Internal Validity]]与[[External Validity]]威胁控制、数据分析步骤和预注册。 | [[Survey Research]], [[Experimental Research]], [[Power Analysis]], [[Internal Validity]], ANOVA                                                           |
-| 第9章 质性方法      | 介绍质性数据收集、分析、解释和报告写作的程序，涵盖叙事研究、[[Phenomenology\|现象学]]、扎根理论、民族志、案例研究和描述性研究等具体路径。提供程序检查清单和大量示例。                                                                                                                                                                                                                     | [[Narrative Research]], [[Grounded Theory]], [[Ethnography]], [[Case Study]], [[Phenomenology]]                                                            |
+| 第9章 质性方法      | 系统讲解质性研究方法的全部组成部分：九大核心特征、描述性方法与分析框架的区分、四种数据收集类型与协议设计、七步数据分析流程与 Tesch 编码八步骤、解释的组成部分、八种效度策略与信度程序，以及质性写作的六种策略。                                                                                                                                                                                                                             | [[Descriptive Methods]], [[Coding in Qualitative Research]], [[Purposeful Sampling]], [[Qualitative Validity]], [[Reflexivity]]                                |
 | 第10章 混合方法程序   | 界定混合方法研究的核心特征，介绍三种核心设计（聚敛式、解释性序列、探索性序列）和四种复杂混合方法设计，讨论量化与质性数据的整合分析，包括联合展示的使用和设计选择的流程图。                                                                                                                                                                                                                            | [[Mixed Method and Multi-method Research]], [[Joint Display]], [[Convergent Design]], [[Explanatory Sequential Design]], [[Exploratory Sequential Design]] |
 
 ---
@@ -242,7 +265,7 @@ updated: 2026-05-31
 
 量化设计中，[[Survey Research|调查研究]]通过问卷或结构化访谈从样本收集数据以推广至总体（Fowler, 2008）。[[Experimental Research|实验研究]]通过[[Random Assignment|随机分配]]处理条件并比较组间差异来检验因果效应（Keppel, 1991），真实验使用随机分配，准实验使用非随机分配，[[Single-Subject Design|单受试者设计]]在时间维度上对少数个体施加和撤销处理（Cooper et al., 2007）。
 
-质性设计中，[[Narrative Research|叙事研究]]研究个体生活故事并重构为叙事编年史（Clandinin & Connelly, 2000）；现象学描述多个个体对某一现象的共同本质体验（Moustakas, 1994）；[[Grounded Theory|扎根理论]]通过多阶段编码从参与者视角归纳生成抽象理论（Charmaz, 2006; Corbin & Strauss, 2007）；[[Ethnography|民族志]]在自然情境中长时间观察文化群体的共享行为模式（Wolcott, 1994）；案例研究对受时空限定的个案进行深度多源分析（Stake, 1995; Yin, 2009）。
+质性设计中，[[Narrative Research|叙事研究]]研究个体生活故事并重构为叙事编年史（Clandinin & Connelly, 2000）；现象学描述多个个体对某一现象的共同本质体验（Moustakas, 1994）；[[Grounded Theory|扎根理论]]通过多阶段[[Coding in Qualitative Research|编码]]从参与者视角归纳生成抽象理论（Charmaz, 2006; Corbin & Strauss, 2007）；[[Ethnography|民族志]]在自然情境中长时间观察文化群体的共享行为模式（Wolcott, 1994）；案例研究对受时空限定的个案进行深度多源分析（Stake, 1995; Yin, 2009）。
 
 混合方法设计中，[[Convergent Design|聚敛式设计]]同时收集两类数据并合并分析；解释性序列先量化后质性，用质性深入解释量化结果；探索性序列先质性后量化，用量化检验或推广质性发现；复杂设计将核心设计嵌入更大的框架或流程之中。
 
@@ -452,7 +475,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 **第四步：混合方法研究中的理论使用。** 混合方法研究中使用两种主要类型的理论：[[Discipline-Based Theory|学科理论]]和[[Social Justice Theory|社会正义理论]]。
 
-**学科理论**从社会、行为或健康科学文献中提取，识别变量或[[Construct|构念]]并将它们相互关联，形成并解释对个人和组织的预期结果。常见例子包括组织理论、领导力理论、采纳理论、归因理论和健康促进理论。Kennett et al. (2008) 在慢性疼痛管理混合方法研究中，使用 Rosenbaum (1990) 的 [[Self-control|自我控制]]理论指导量化测量（SCS 量表）和质性访谈，在开头段落即宣告研究目的，在末尾以图表回顾最显著的因素。Clark & Plano Clark (2019) 则使用积极心理学理论来框架化研究设计、个案选择以及结果和发现的解释（p.104）。
+**学科理论**从社会、行为或健康科学文献中提取，识别变量或[[Construct|构念]]并将它们相互关联，形成并解释对个人和组织的预期结果。常见例子包括组织理论、领导力理论、采纳理论、归因理论和健康促进理论。Kennett et al. (2008) 在慢性疼痛管理混合方法研究中，使用 Rosenbaum (1990) 的 [[Self-control|自我控制]]理论指导量化测量（SCS 量表）和[[Qualitative Interview|质性访谈]]，在开头段落即宣告研究目的，在末尾以图表回顾最显著的因素。Clark & Plano Clark (2019) 则使用积极心理学理论来框架化研究设计、个案选择以及结果和发现的解释（p.104）。
 
 **社会正义理论**帮助为社会中边缘化和未被充分代表的人群发声，涵盖女性主义研究、种族研究、残障研究和生活方式研究等。Hodgkin (2008) 考察了澳大利亚男女社会资本的性别差异，将研究定位为"展示混合方法在女性主义研究中的使用"（p.296），在文章开头讨论女性主义视角，在第二阶段通过女性声音探索"好母亲""社会隔离""积极公民"等主题。
 
@@ -490,7 +513,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 不同研究路径的计划结构在这九个问题的共同基础上分化：
 
-- **质性研究计划**（两种格式）：建构主义/解释主义格式按"引言—程序—初步发现—预期影响"组织，附录建议纳入访谈协议、观察表、时间表和预算。参与式/社会正义格式增加了社会正义理论框架和合作性数据收集方式，结尾讨论预期变革。
+- **质性研究计划**（两种格式）：建构主义/解释主义格式按"引言—程序—初步发现—预期影响"组织，附录建议纳入[[Interview Protocol|访谈协议]]、观察表、时间表和预算。参与式/社会正义格式增加了社会正义理论框架和合作性数据收集方式，结尾讨论预期变革。
 - **量化研究计划**：遵循 IMRD 经典结构（引言与文献综述—方法—结果—讨论），以问题陈述（含理论、[[Deficiencies in Past Literature|文献缺口]]、受众关联性）为核心。各部分顺序可能因研究而异（Rudestam & Newton, 2014）。
 - **混合方法研究计划**（最全面的格式）：独有要素包括混合方法的定义与使用理由、设计类型及效度挑战、设计流程图、整合声明、[[Joint Display|联合展示]]模板和预期整合推论（metainferences）。研究问题分量化、质性和混合方法整合三个层次。
 
@@ -958,11 +981,292 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 ---
 
+### 第9章 质性方法
+
+#### 概览
+
+第9章是全书的质性方法论核心，讲解如何撰写一份完整的质性研究方法计划。全章的逻辑线是：**理解质性研究的特征与设计选择 → 数据收集的边界与工具 → 数据分析的七步流程 → 解释、效度和信度 → 质性报告的写作策略。**
+
+---
+
+**开篇：质性程序检查清单。** 第 9 章以一张全面的检查清单（Table 9.1）开篇，用于在设计质性方法部分时自我审查。
+
+> [!abstract] 表9.1 质性程序设计检查清单（A Checklist of Questions for Designing a Qualitative Procedure）
+>
+> | 序号 | 检查问题 |
+> |---|---|
+> | 1 | 是否提及了质性研究的基本特征？ |
+> | 2 | 是否提及了研究将使用的具体质性设计类型？ |
+> | 3 | 是否指出了对场所和个体的[[Purposeful Sampling\|目的性抽样]]策略？ |
+> | 4 | 是否提出了明确的参与者招募策略？ |
+> | 5 | 是否提及了具体的数据收集形式并说明了使用理由？ |
+> | 6 | 是否识别了潜在的伦理问题并提出了应对策略？是否已获得 IRB 批准？ |
+> | 7 | 是否详细说明了数据收集期间记录信息的程序（如协议）？ |
+> | 8 | 是否识别了数据分析步骤？ |
+> | 9 | 是否有证据表明研究者已为分析整理了数据？ |
+> | 10 | 研究者是否已通读数据以获得整体感知？ |
+> | 11 | 是否提及了数据的呈现方式——如表格、图形和图示？ |
+> | 12 | 研究者是否对数据进行了编码？ |
+> | 13 | 是否识别了主题？ |
+> | 14 | 是否指定了解释分析的基础（个人经验、文献、问题、行动议程）？ |
+> | 15 | 是否引用了多种策略来验证研究发现？ |
+> | 16 | 研究者是否提及了研究的成果（发展理论、提供主题的复杂图景）？ |
+
+---
+
+**第一步：确定质性研究的特征与受众。** 开篇先回答一个前置问题——是否需要解释”什么是质性研究”？如果受众对质性研究不熟悉（如健康科学领域，质性研究在过去二十多年才兴起），就需要呈现基本特征并引用近期质性研究文章作为示例。如果受众已熟悉（如社会科学），可跳过此部分。
+
+九大核心特征围绕”参与者意义”这一主线展开：
+
+| 特征 | 核心含义 | 详见 |
+|---|---|---|
+| 参与者意义 | 研究聚焦参与者对问题所持有的意义，而非研究者或文献的意义 | — |
+| 自然情境 | 在参与者经历问题的现场收集数据，不进入实验室或发送工具 | — |
+| 研究者作为关键工具 | 研究者自行通过检查文件、观察行为或访谈收集和解释数据 | — |
+| 多种数据来源 | 访谈、观察、文件、视听材料等多形式数据汇集为编码和主题 | — |
+| 归纳与演绎分析 | 从数据向上建构模式（归纳），再从主题回查数据（演绎） | — |
+| [[Emergent Design\|涌现式设计]] | 初始计划不固定，随研究者深入探究而在研究过程中演变 | [[Emergent Design]] |
+| [[Reflexivity\|反身性]] | 反思自身背景如何塑造解释，包括过去经验陈述和对解释机制的明确说明 | [[Reflexivity]] |
+| 研究者角色 | 说明与参与者或场所的联系，警惕”后院研究”的权力失衡和信息妥协 | — |
+| 复杂性描述 | 报告多重视角和多种因素，呈现非线性的、多重因素交互的视觉模型 | — |
+
+反身性要求就两个方面做出评论：(a) 过去与参与者或场所的经验——包括在该场所中的参与经历、教育工作经验、文化族裔和社会经济地位等直接联系；(b) 这些经验如何塑造解释——可能使研究者倾向于某些主题、主动寻找支持自身立场的证据、形成对场所或参与者的有利或不利结论。反身性讨论建立在[[Memos|备忘录]]基础上，但需限制个人经验篇幅以免压倒研究内容本身。
+
+研究者角色与反身性关联但不同。”后院研究”（Glesne & Peshkin, 1992）指研究自身组织或直接工作环境——信息可能方便获取，但可能不准确，且可能危及研究者和参与者的角色，对效度策略有更高要求。
+
+---
+
+**第二步：选择研究设计——[[Descriptive Methods|描述性方法]]还是分析框架。** 这一区分是 Creswell 在第 9 章中最核心的方法论贡献之一。
+
+[[Descriptive Methods|描述性方法]]是基础性分析路径：贴近数据语言、使用有限框架解释、将信息归类为主题。它被 APA 认定为独立的质性方法类型（Levitt et al., 2018），等于”主题分析”（thematic analysis）或”描述性分析”（Braun & Clark, 2006; Sandelowski, 2000, 2010）。其三大维度是：基于参与者日常语言、较少理论解释、最大变异度抽样。
+
+> [!abstract] 图9.1 描述性方法与分析框架的关系
+>
+> **描述性方法（Descriptive Methods）**：基于参与者日常语言 → 较少来自理论或预设框架的解释 → 抽样中追求最大变异度 → 将数据归类为主题
+>
+> ↓（基础性关系）
+>
+> **分析框架（Analytic Framework）**：如叙事研究、现象学、扎根理论、民族志、案例研究 → 数据收集或分析使用特定框架 → 应用中变异度有限 → 在特定学科中流行 → 具有哲学基础
+>
+> Source: Braun & Clarke, 2005; Sandelowski, 2000, 2010.
+
+**分析框架**（Analytic Framework）则使用文献中的预设解释结构。五种常见分析框架分别是：[[Narrative Research|叙事研究]]用情节、场景、活动、高潮和结局重述故事（Clandinin & Connelly, 2000）；[[Phenomenology|现象学]]分析意义陈述和意义单元，发展 Moustakas（1994）所称的”本质”描述；[[Grounded Theory|扎根理论]]有系统步骤——开放编码生成信息类别→轴心编码将类别置于理论模型→选择性编码从类别关联中推进故事（Corbin & Strauss, 2015）；[[Ethnography|民族志]]和案例研究涉及场所或个体的详细描述后分析主题（Stake, 1995; Wolcott, 1994）。
+
+> [!note] “超越日常语言”
+> 分析框架的核心是使用”分析传统”（analytic tradition）进行解释（Braun & Clark, 2006, p.78），超越参与者的日常语言。Tesch（1990）识别了 28 种方法，Wolcott（2008）列出 22 种，Creswell & Poth（2018）讨论了 5 种。描述性方法不因其”基础性”而在价值或可信度上低于分析框架。
+
+撰写设计选择时需：(1) 指明具体方法并提供文献引用；(2) 提供背景信息——学科起源、应用领域、简要定义；(3) 讨论为何该策略适合当前研究；(4) 说明该方法将如何塑造研究设计的各个环节（标题、问题、研究问题、数据收集分析、报告撰写）。
+
+---
+
+**第三步：数据收集程序。** 依次涉及抽样与招募、获取许可、四种数据收集类型和记录协议。
+
+**抽样与招募。** [[Purposeful Sampling|目的性抽样]]选择最能帮助理解研究问题的参与者或场所。Miles & Huberman（1994）提出四要素：场所（where）、行动者（who）、事件（what actors do）、过程（evolving nature of events）。招募需说明告知方式、激励措施和备选方法。
+
+样本量因设计而异：叙事研究 1-2 人、现象学 3-10 人、扎根理论 20-30 人、民族志一个文化群体、案例研究 4-5 个案例、描述性方法至少 20 人。[[Saturation|饱和]]概念来自扎根理论——Charmaz（2006）指出，当收集新鲜数据不再引发新洞见时即达到饱和，此为停止收集数据的标准。两种方式（预设样本量与饱和）同样有效。
+
+**获取许可。** 包括 IRB 审批（保护人类参与者权利）、获取场所准入和 [[Gatekeepers|守门人]] 批准。Bogdan & Biklen（1992）建议向守门人提交简短方案，回答五个问题：为什么选此场所？将进行哪些活动？会造成干扰吗？结果如何报告？守门人将获得什么？
+
+**四种数据收集类型。**
+
+| 类型 | 定义 | 优势 | 局限 |
+|---|---|---|---|
+| [[Qualitative Observation\|质性观察]] | 研究者在现场记录行为和活动的田野笔记；角色从完全参与者到完全观察者 | 一手经验、即时记录、可探索参与者不愿讨论的话题 | 可能被视为侵入、私人信息不可报告、观察技能不足 |
+| [[Qualitative Interview\|质性访谈]] | 面对面、电话或焦点小组（6-8人）的非结构化和开放式问答 | 当无法直接观察时有用、可获取历史信息、问题线索可控 | 间接过滤信息、非自然场所、研究者在场偏差 |
+| [[Qualitative Documents\|质性文件]] | 公共文件（报纸、会议记录）或私人文件（日记、信件、电邮） | 获取参与者语言、非侵入性、节省转录时间 | 可能不完整或不真实、受保护信息、需要搜索 |
+| 视听、社交媒体和数字材料 | 照片、录像、艺术品、网站、社交媒体文本、声音 | 非侵入性、参与者直接分享现实、视觉吸引力 | 难以解释、可能不公开、观察者存在可能干扰 |
+
+> [!abstract] 表9.2 质性数据收集类型、选项、优势与局限
+>
+> | 数据收集类型 | 类型内的选项 | 优势 | 局限 |
+> |---|---|---|---|
+> | **观察（Observations）** | 完全参与者——研究者隐藏身份；作为参与者的观察者——研究者身份已知；作为观察者的参与者——观察角色次于参与者角色；完全观察者——只观察不参与 | 研究者有一手直接经验；可在信息发生时即时记录；观察过程中可注意到不寻常的方面；对探索参与者不愿讨论的话题尤为有用 | 研究者可能被视为侵入者；可能观察到无法报告的私人信息；研究者可能不具备良好的注意力和观察技能；某些参与者（如儿童）可能在建立信任方面存在特殊困难 |
+> | **访谈（Interviews）** | 面对面——一对一现场访谈；电话——通过电话访谈；焦点小组——研究者以小组形式访谈参与者；电子邮件/网络访谈 | 当参与者无法被直接观察时尤为有用；参与者可提供历史信息；研究者对提问线索有控制权 | 提供的是经过受访者视角过滤的间接信息；在指定地点而非自然现场情境中获取信息；研究者的在场可能导致偏差性回答；并非所有人都同样善于表达和敏锐 |
+> | **文件（Documents）** | 公共文件——会议记录或报纸；私人文件——日记、日志或信件 | 使研究者能够获取参与者的语言和用词；可在研究者方便的时间获取——非侵入性信息来源；代表参与者已关注并加工过的数据；节省转录的时间和费用（已是书面材料） | 并非所有文本都同样善于表达和敏锐；可能是受保护信息，无法公开或私人获取；需要研究者在难以找到的地方搜索信息；需要转录或光学扫描以输入计算机；材料可能不完整；文件可能不真实或不准确 |
+> | **视听、社交媒体和数字材料（Audiovisual, Social Media, and Digital Materials）** | 照片；录像带；艺术品；计算机消息；声音；电影 | 可能是非侵入性的数据收集方法；为参与者提供了直接分享其现实的机会；具有创造性，在视觉上吸引注意力 | 可能难以解释；可能无法公开或私人获取；由于观察者（如摄影师）的存在，可能造成干扰并影响反应 |
+>
+> Note: 本表素材改编自 Bogdan & Biklen (1992), Creswell & Poth (2018), Merriam (1998).
+
+> [!abstract] 表9.3 质性数据收集来源大全（A Compendium of Qualitative Data Collection Sources）
+>
+> | 类别 | 收集来源 |
+> |---|---|
+> | **观察** | 以参与者或观察者身份进行观察；在参与者和观察者之间切换位置进行观察（反之亦然） |
+> | **访谈** | 在同一房间或通过基于网络或电子邮件的平台进行一对一访谈；在同一房间或通过基于网络或电子邮件的平台进行焦点小组访谈 |
+> | **文件** | 在研究期间保持研究日志，或让参与者保持日记；检查个人文件（如信件、电子邮件、私人博客）；分析组织文件（如报告、战略计划、图表、医疗记录）；分析公共文件（如官方备忘录、博客、记录、档案信息）；检查自传和传记 |
+> | **视听、社交媒体和数字材料** | 让参与者拍摄照片或录制视频（即照片引谈法）；在社交情境中或对个体使用视频或电影；检查照片或视频；检查网站、推文、Facebook 消息；收集声音（如音乐声、孩子的笑声、汽车喇叭声）；收集电话或计算机消息；检查物品或仪式物件 |
+>
+> Source: Adapted from Creswell & Poth (2018).
+
+**伦理问题。** 每个伦理问题需要讨论应对策略。质性研究因直接对话参与者、进入研究场所、常涉及边缘群体而尤为敏感。关键做法包括：寻求文化群体的本地合作、试点测试数据收集程序的可接受性、获得关键领导人的许可、建立信任、问尊重的问题、使用无偏见和无歧视的语言、赋予参与者对结果的所有权。
+
+**记录协议。** [[Observation Protocol|观察协议]]为一页纸，中间以分隔线划分描述性笔记（参与者画像、对话重构、物理环境描述、活动记录）和反思性笔记（推测、感受、问题、想法、直觉、印象和偏见，Bogdan & Biklen, 1992, p.121），并记录时间地点日期。[[Interview Protocol|访谈协议]]为一至两页，包含四部分：引言（自我介绍、研究目的、知情同意、结构说明和术语定义）、内容问题（5-10 个研究子问题）、[[Probes|追问提示]]（四种标准追问语：”告诉我更多””我需要更多细节””你能更详细解释吗””'不多'是什么意思”）和结束说明（感谢、保密、后续访谈请求、结果分享方式）。最后可补问”我还应该联系谁了解更多？”形成收网。
+
+> [!abstract] 图9.2 访谈协议示例结构
+>
+> **引言（Introduction）**
+> - 自我介绍
+> - 讨论研究目的
+> - 获取知情同意签名
+> - 提供访谈结构说明（录音、做笔记）
+> - 询问受访者是否有问题
+> - 定义必要术语
+>
+> **访谈内容问题（Interview Content Questions）**
+> - Q1. 你在此事件中扮演了什么角色？（破冰问题）
+>   - Probes: 告诉我更多。请解释。
+> - Q2. 自事件发生以来，你参与了什么？（内容问题）
+>   - Probes: 告诉我更多。请解释。
+> - Q3. 此事件对大学社区产生了什么影响？（内容问题）
+>   - Probes: 告诉我更多。请解释。
+> - Q4. 此事件是否存在更大的影响？（内容问题）
+>   - Probes: 告诉我更多。请解释。
+> - Q5. 我们应该找谁了解更多关于校园对此事件反应的信息？（跟进问题）
+>   - Probes: 告诉我更多。请解释。
+>
+> **结束说明（Closing Instructions）**
+> - 感谢个体参与
+> - 保证个体的保密性
+> - 如有需要，请求进一步访谈
+> - 如有询问，说明受访者如何获得研究结果
+>
+> Source: Adapted from Asmussen & Creswell (1995); Creswell & Bàez (2021).
+
+---
+
+**第四步：数据分析程序。** 在进入七步分析流程前，先建立三个总体观念。
+
+**同时性。** 质性数据分析与数据收集和报告撰写同步进行——一边访谈，一边分析早期访谈、撰写备忘录并组织最终报告结构。这与量化研究的数据收集→分析→写作的线性顺序截然不同。
+
+**[[Winnowing\|数据筛选]]。** 文本和图像数据极为密集丰富，无法全部使用。研究者需有意识地将数据聚合成少量主题（五到七个，Creswell & Poth, 2018）。
+
+**计算机软件的使用。** 手动编码极为耗时，质性软件（MAXqda、Atlas.ti、QDA Miner、Dedoose、NVivo）帮助组织、排序和搜索文本与图像数据库。软件不能分析数据——分析始终是研究者的责任——且学习软件需要时间和技能投入。
+
+七步分析流程从具体到一般，涉及多个层次：
+
+1. **组织和准备数据**：转录访谈、扫描材料、录入田野笔记、编目视觉材料。
+2. **通读所有数据**：获得整体感知——参与者说了什么？思路基调如何？整体深度和可信度印象？
+3. **编码数据**：Tesch（1990）的八步编码流程——从获得整体感、挑选文件深入分析、形成话题清单，到回到数据检验编码、将话题转化为类别、确定最终编码缩写、按类别汇集数据做初步分析，必要时重新编码。
+4. **识别主题**：将编码归并为五到七个主题，可以是场所描述或关于问题的主题，应展示多元视角和多样化引语。
+5. **发展故事线解释**：将主题相互连接为故事线，呈现问题发展的编年史，可聚焦单一个体或群体。
+6. **使用分析框架进一步分析**：在 code-to-theme 基础上叠加叙事研究、现象学、扎根理论、民族志、案例研究等框架。
+7. **呈现和解释数据**：以叙事段落传达发现，辅以视觉模型、图表或表格。
+
+> [!abstract] 图9.3 质性数据分析流程（从底部到顶部）
+>
+> | 步骤 | 内容 |
+> |---|---|
+> | Step 1 | 组织和准备数据以供分析（如转录稿、田野笔记） |
+> | Step 2 | 通读所有数据 |
+> | Step 3 | 编码数据 |
+> | Step 4 | 识别主题——将编码归并为主题 |
+> | Step 5 | 发展故事线解释——将主题相互连接 |
+> | Step 6 | 添加分析框架 |
+> | Step 7 | 呈现或解释数据 |
+
+编码有四种类型：**预期编码**（读者预期出现，如欺凌研究中的”对自我的态度”）、**意外编码**（无法预见，如领导力研究中的”地理变暖对办公室位置的影响”）、**概念性兴趣编码**（如校园枪击案反应研究中的”再触发”概念）和**预设编码**（基于理论，辅以[[Qualitative Codebook|编码手册]]）。编码手册包含编码列表、标签、简要和完整定义、使用时机说明和引语示例，可在研究中演变——此方式在健康科学中尤为流行。
+
+> [!abstract] 表9.4 Tesch 编码八步骤
+>
+> | 步骤 | 操作内容 |
+> |---|---|
+> | 1 | 获得整体感知。仔细阅读所有转录稿。边读边记下浮现的想法。 |
+> | 2 | 挑选一份文件（如一份访谈）——最有意思的、最短的或最上面那份。逐行阅读，自问"这段在说什么？"不要关注信息的表面内容，而是关注其深层含义。在页边写下想法。 |
+> | 3 | 对多个参与者完成此任务后，列出所有话题的清单。将相似话题聚类。将这些话题排列为主要话题、独特话题和剩余话题。 |
+> | 4 | 拿着这份清单回到数据中。将话题缩写为编码，在文本对应段落旁写下编码。尝试这个初步的组织方案，看是否出现新的类别和编码。 |
+> | 5 | 为话题找到最具描述性的措辞，将话题转化为类别。通过归并相关话题来缩减类别总数。可在类别之间画线以显示相互关系。 |
+> | 6 | 为每个类别确定最终缩写，按字母顺序排列编码。 |
+> | 7 | 将属于每个类别的数据汇集到一处，进行初步分析。 |
+> | 8 | 如有必要，对已有数据进行重新编码。 |
+
+**视觉图像作为编码。** 参与者可拍摄所见或画出所研究的现象。挑战包括图像可能反映文化趋势而非个体视角、匿名性难以保证、需获得许可。
+
+---
+
+**第五步：解释。** 质性研究的解释涉及几个程序：总结总体发现（”学到了什么？”Lincoln & Guba, 1985）、与文献比较（确认或偏离过去信息）、提出新问题（数据和分析引发的新方向，Wolcott, 1994）、形成行动议程（变革导向研究）、陈述局限性和未来研究方向。局限通常附着于研究的方法（如目的性抽样不足、招募困难），未来研究的建议应推进文献、弥补当前研究不足或开辟新的应用方向。
+
+---
+
+**第六步：效度和信度。** 这是质性方法论中概念密度最高的环节之一。
+
+**[[Qualitative Validity|质性效度]]** 指研究者通过特定程序检查研究发现准确性的标准。与量化效度和信度含义不同，质性文献中对应术语包括可信度（trustworthiness）、真实性（authenticity）和可信性（credibility）（Creswell & Miller, 2000; Lincoln et al., 2011）。
+
+八种效度策略按使用频率和实施难度排列：
+
+| 策略 | 核心操作 | 详见 |
+|---|---|---|
+| [[Triangulation\|三角验证]] | 从多个数据来源汇聚证据，为每个主题构建一致基础 | [[Triangulation]] |
+| [[Member Checking\|成员核查]] | 将部分打磨后的产品（主要发现、主题等）带回参与者确认 | [[Member Checking]] |
+| [[Rich and Thick Description\|丰富密集描述]] | 详细场所描述和多重视角，将读者”传送”到现场 | [[Rich and Thick Description]] |
+| 澄清研究者偏见 | 通过[[Reflexivity\|反身性]]自我反思，创造开放诚实的叙事 | [[Reflexivity]] |
+| 呈现负面或矛盾信息 | 因为真实生活包含不相容视角，矛盾信息增加可信度 | — |
+| 延长现场时间 | 在参与者场所中停留更久→深入理解→更准确发现 | — |
+| [[Peer Debriefing\|同行审议]] | 同行审议者审查并提出问题，确保报告与研究者以外的人共鸣 | [[Peer Debriefing]] |
+| 外部审计 | 不熟悉研究者或项目的外部审计者审查整个项目全过程 | — |
+
+**[[Qualitative Reliability|质性信度]]** 指研究方法在不同研究者和项目之间的一致性（Gibbs, 2007）。策略包括：检查转录错误、确保编码定义不漂移（持续数据与编码比较、撰写[[Memos|备忘录]]）、团队研究的定期沟通和共享分析、独立结果交叉检验。Yin（2009）补充：尽可能详细记录案例研究程序和步骤，建立协议和数据库。
+
+**[[Intercoder Agreement|编码者间一致性]]** 是两个或多个编码者对相同文本段落使用相同或相似编码的一致性。Miles & Huberman（1994）建议至少 80%。单独研究者应找另一个人交叉检验编码。[[Qualitative Computer Software|质性计算机软件]]的信度子程序可辅助此项检查。
+
+---
+
+**第七步：[[Qualitative Generalization|质性推广]]。** [[Qualitative Generalization|质性推广]] 以有限方式使用——质性研究不意图推广到研究之外的个体或场所。特定性（particularity）而非推广性（generalizability）是优质质性研究的标志（Greene & Caracelli, 1997）。但 Yin（2009）认为案例研究结果可推广到更广泛的理论，类似实验研究中的复制逻辑。前提是详细的质性程序记录。
+
+---
+
+**第八步：写作策略。** 质性报告的基本程序是从数据中发展描述和主题，呈现多重视角和详细描述。六种写作策略包括：(1) 引语——从短句到长篇嵌入段落；(2) 对话——反映参与者文化语言和研究者解释的交织；(3) 多样化叙事形式——矩阵、比较表、图表；(4) 第一人称”I”或集体”我们”的代词；(5) 隐喻和类比；(6) 与特定质性策略相关的叙事形式（如案例研究的描述、叙事研究的详细故事）。
+
+---
+
+**全章总结。** 第 9 章为质性方法部分的撰写提供了从特征声明→设计选择→数据收集与记录→编码与主题分析→解释→效度信度→写作的完整指南。核心张力在于描述性方法（贴近数据、有限解释）与分析框架（使用分析传统）之间的选择，以及归纳涌现与演绎检验之间的持续往返。质性研究的价值不在于统计推广，而在于对特定情境的深度理解和对多元视角的忠实呈现。
+
+---
+
+**示例分析：Miller（1992）的完整质性方法部分。** 本章结尾以 Miller 的民族志研究（研究一所四年制学院新校长第一年经历）为例，展示了完整方法部分应包含的所有主题：质性研究范式的假设、民族志研究设计的选择和理由、研究者角色的反身性陈述（包括过去作为院长和校长内阁成员的经验以及由此产生的偏见）、研究边界的界定（场所、行动者、事件、过程）、伦理考量与 IRB 审查、数据收集策略（双月录音访谈、双月行政会议观察、双月日常活动观察、双月日历和文件分析、参与者录音日记）、数据记录工具（田野日志、田野笔记本、田野日记）、数据分析程序（HyperQual 软件的编码与索引）和效度验证策略（三角验证、成员核查、长期和重复观察、同行检验、参与式研究、研究者偏见澄清、丰富密集描述、外部审计）。
+
+---
+
 ## 重要摘录
 
 > [!quote]
+> “[[Reflexivity|反身性]]要求就两个重要方面做出评论：(a) 包括关于与[[Research Question|研究问题]]、参与者或场所的过去经验陈述，帮助读者理解研究者与研究之间的联系——这些经验可能涉及场所参与、过去教育或工作经验、文化、族裔、种族、社会经济地位或其他直接连接研究者与研究的人口学特征——以及 (b) 明确这些经验如何可能潜在地塑造研究者在研究过程中做出的解释。例如，经验可能使研究者倾向于某些主题、主动寻找支持自身立场的证据，并形成对场所或参与者的有利或不利结论。”
+> (“Reflexivity requires commenting on two important aspects: (a) include statements about past experiences with the [[Research Problem]] or with the participants or setting that help the reader understand the connection between the researchers and the study... and (b) be explicit about how these experiences may potentially shape the interpretations the researchers make during the study. For example, the experiences may cause researchers to lean toward certain themes, actively look for evidence to support their positions, and create favorable or unfavorable conclusions about the sites or participants.”)（第9章, p.195）
+
+> [!quote]
+> “一种质性设计的[[Descriptive Methods|描述性方法]]是研究者贴近数据、使用有限框架和解释来解释数据、并将信息归类为主题的分析方式。”
+> (“A descriptive method in [[Qualitative Research]] is an approach to analysis where the researcher stays close to the data, uses limited frameworks and interpretation for explaining the data, and catalogues the information into themes.”)（第9章, p.196）
+
+> [!quote]
+> “分析框架意味着超越参与者的日常语言，使用'分析传统'（Braun & Clark, 2006, p.78）。”
+> (“An analytic framework means going beyond the everyday language of participants and using an 'analytic tradition' (Braun & Clark, 2006, p.78).”)（第9章, p.196）
+
+> [!quote]
+> “[[Saturation|饱和]]的概念来自[[Grounded Theory|扎根理论]]。Charmaz（2006）说，当收集新鲜数据不再引发新的洞见或揭示新的主题时——即类别（或主题）达到饱和时——就可以停止收集数据。”
+> (“The idea of saturation comes from grounded theory. Charmaz (2006) said that one stops collecting data when the categories (or themes) are saturated, that is, when gathering fresh data no longer sparks new insights or reveals new themes.”)（第9章, p.198）
+
+> [!quote]
+> “因为文本和图像数据如此密集和丰富，质性研究中无法使用所有信息。因此，在数据分析中，研究者需要'筛选'数据（[[Winnowing|winnow the data]]），聚焦于部分数据而忽略其他部分。这一过程与[[Quantitative Research|量化研究]]截然不同——在量化研究中，研究者会尽最大努力保留所有数据并重建或替换缺失数据。在质性研究中，这一过程的影响是将数据聚合成少量主题，大约在五到七个之间。”
+> (“Because text and image data are so dense and rich, all of the information cannot be used in a qualitative study. Thus, in the analysis of the data, researchers need to 'winnow' the data, focusing on some of the data and disregarding other parts of it. This process, too, is different from quantitative research in which researchers go to great lengths to preserve all the data and reconstruct or replace missing data. In qualitative research, the impact of this process is to aggregate data into a small number of themes, something between five and seven themes.”)（第9章, p.206）
+
+> [!quote]
+> “软件程序不会分析数据；分析的责任在于研究者。”
+> (“Software programs do not analyze the data; it is the researcher's responsibility to conduct the analysis.”)（第9章, p.206）
+
+> [!quote]
+> “[[Qualitative Validity|质性效度]]意味着研究者通过采用某些程序来检查研究发现的准确性。与此相对，[[Qualitative Reliability|质性信度]]指示研究者的方法在不同研究者和不同项目之间的一致性。”
+> (“Qualitative validity means that the researcher checks for the accuracy of the findings by employing certain procedures. In contrast, qualitative reliability indicates that the researcher's approach is consistent across different researchers and among different projects.”)（第9章, p.213）
+
+> [!quote]
+> “效度是质性研究的优势之一，其基础是确定研究发现在研究者、参与者或读者看来是否准确。”
+> (“Validity is one of the strengths of qualitative research and is based on determining whether the findings are accurate from the researcher's standpoint, the participant, or the readers of an account.”)（第9章, p.213）
+
+> [!quote]
+> “特定性而非推广性是优质质性研究的标志。”
+> (“Particularity rather than [[External Validity|generalizability]] is the hallmark of good qualitative research.”)（Greene & Caracelli, 1997; 引自第9章, p.215）
+
+> [!quote]
 > “理论可以是研究者预期发现的预测，或是研究的归纳或演绎框架。它可以作为[[Variable|变量]]或[[Construct|构念]]之间关系的模型或图表呈现。它可以作为发现的概括而存在，也可以是行动的呼吁，例如针对某一人群或社会的变革导向的社会议程。”
-> ("Theory can be a prediction of what the researcher expects to find or an inductive or deductive framework for a study. It may be presented as a model or diagram of the relationship among [[Variable|variables]] or [[Construct|constructs]]. It may exist as generalizations from findings, or a call for action, such as a change-oriented social agenda for a population or society.")（第3章, p.52）
+> (“Theory can be a prediction of what the researcher expects to find or an inductive or deductive framework for a study. It may be presented as a model or diagram of the relationship among [[Variable|variables]] or [[Construct|constructs]]. It may exist as generalizations from findings, or a call for action, such as a change-oriented social agenda for a population or society.”)（第3章, p.52）
 
 > [!quote]
 > “彩虹的比喻可以帮助想象理论是如何运作的。假设彩虹在自变量和因变量（或构念）之间架起了一座桥梁。这条彩虹将变量联系在一起，并为我们为何以及如何预期自变量能解释或预测因变量提供了一个总体解释。”
@@ -1129,7 +1433,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > ("A qualitative purpose statement does not convey relating two or more variables or comparing two or more groups, as in quantitative research. Instead, it advances a single phenomenon, recognizing that the study may evolve into exploring relationships or comparing groups.")（第6章, p.125）
 
 > [!quote]
-> “McCracken (1988) 提到在质性访谈中需要让受访者描述他们的经历。访谈者（或目的陈述写作者）如果使用暗示方向性倾向的词语，就很容易违反质性研究中的‘[[Nondirectional Language|非方向性法则]]’ (McCracken, 1988, p. 21)。”
+> “McCracken (1988) 提到在[[Qualitative Interview|质性访谈]]中需要让受访者描述他们的经历。访谈者（或目的陈述写作者）如果使用暗示方向性倾向的词语，就很容易违反质性研究中的‘[[Nondirectional Language|非方向性法则]]’ (McCracken, 1988, p. 21)。”
 > ("McCracken (1988) referred to the need in qualitative interviews to let the respondents describe their experiences. Interviewers (or purpose statement writers) can violate easily the '[[Nondirectional Language|law of nondirection]]' (McCracken, 1988, p. 21) in qualitative research by using words that suggest a directional orientation.")（第6章, p.126）
 
 > [!quote]
@@ -1225,7 +1529,8 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > ("One of the principal features distinguishing an experiment from a survey study design is the use of [[Random Assignment]].")（第8章）
 
 > [!quote]
-> "[[Preregistration]] is the act of publishing your plan and hypotheses in a public registry prior to data collection. Preregistration is quickly becoming an essential tool for improving the accuracy and transparency of quantitative research."（第8章）
+> “[[Preregistration|预注册]]是指在数据收集之前，在公共登记处公布你的研究计划和假设的行为。预注册正迅速成为提高量化研究准确性和透明度的重要工具。”
+> ("[[Preregistration]] is the act of publishing your plan and hypotheses in a public registry prior to data collection. Preregistration is quickly becoming an essential tool for improving the accuracy and transparency of quantitative research.")（第8章）
 
 > [!quote]
 > “[[Confidence Interval|置信区间]]是一个取值范围（一个区间），它描述了围绕估计观察分数的某种不确定性水平。置信区间显示了估计分数可能有多好。”
@@ -1244,7 +1549,8 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > ("To reduce this form of [[Experimenter Bias]], it is helpful to make the experimenter administering the outcome measure blind to the participant's study condition.")（第8章）
 
 > [!quote]
-> "[[Blinding]] in experimental research is when the experimenter (and/or the participant) is kept unaware of the participant's assigned study condition."（第8章）
+> “实验研究中的[[Blinding|盲法]]是指让实验者（和/或参与者）不了解参与者被分配到的研究条件。”
+> ("[[Blinding]] in experimental research is when the experimenter (and/or the participant) is kept unaware of the participant's assigned study condition.")（第8章）
 
 ---
 

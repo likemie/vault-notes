@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Causality]]"
+  - "[[Reflexivity]]"
   - "[[Complexity Reduction]]"
   - "[[Value-Based Education]]"
 related_theories:
@@ -87,7 +88,7 @@ updated: '2026-05-18'
 > - "什么有效"的讨论假设了**机械论存在论**（mechanistic ontology）：在封闭的决定论系统中，[[Causality|因果关系]]是线性的、可预测的
 > - 但教育是**开放的、递归的、符号的系统**：
 >   - 开放：与外部环境互动
->   - 递归：学生和教师基于自己的理解和解释行动（反思性）
+>   - 递归：学生和教师基于自己的理解和解释行动（[[Reflexivity|反思性]]）
 >   - 符号：互动基础是意义和解释，而非物理推拉
 > - 因此，干预与效果之间的联系**至多是概率性的、非线性的**——这与医学或农业的因果逻辑截然不同
 >
@@ -143,7 +144,8 @@ updated: '2026-05-18'
 > > “教育系统通常是开放系统……干预与效果之间的联系是非线性的，并且最多只是概率性的。”
 > ("Educational systems are generally open systems... the connections between intervention and effect are non-linear and, at most, probabilistic.") (p. 497)
 >
-> > "[[Complexity Reduction]] should therefore be understood as a political act." (p. 498)
+> > “因此，化简复杂性应当被理解为一种政治行为。”
+> ("[[Complexity Reduction]] should therefore be understood as a political act.") (p. 498)
 >
 > > “如果没有规范性的导向，没有关于什么是教育上可取之物的决策，没有对教育实践最终目的（telos）的阐明，这些实践根本就不存在——或者至少它们不会作为教育实践而存在。”
 > ("Without normative orientations, without decisions about what is educationally desirable, without an articulation of the telos of educational practices, these practices simply do not exist — or at least they do not exist as educational practices.") (p. 500–501)

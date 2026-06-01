@@ -192,7 +192,8 @@ updated: 2026-05-26
 ## 关键引用
 
 > [!quote]
-> "[[Peidu]], the [[School Choice]] in rural China, is also a stratified practice along class lines, similar to school choice in international contexts."（Teng & Wang, 2025, p.313）
+> “中国农村的[[Peidu|陪读]]这种[[School Choice|择校]]方式，也是一种沿着阶级界限的分层实践，与国际语境下的择校类似。”
+> ("[[Peidu]], the [[School Choice]] in rural China, is also a stratified practice along class lines, similar to school choice in international contexts.")（Teng & Wang, 2025, p.313）
 
 > [!quote]
 > “基于户口的行政歧视正日益且隐蔽地被基于家庭社会经济地位的市场歧视所取代。”

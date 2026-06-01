@@ -122,7 +122,8 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "[[John Hattie|Hattie]]'s ideas are widely used in the educational policy of foreign countries (especially Australia), but will they be relevant in the Russian reality? A number of educational innovations borrowed from Western countries do not have unequivocal approval in Russian society."（p.229）
+> > “海蒂的观点被广泛应用于国外（特别是澳大利亚）的教育政策中，但它们在俄罗斯的现实中会有意义吗？从西方国家借用的一系列教育创新在俄罗斯社会中并未获得明确的认可。”
+> ("[[John Hattie|Hattie]]'s ideas are widely used in the educational policy of foreign countries (especially Australia), but will they be relevant in the Russian reality? A number of educational innovations borrowed from Western countries do not have unequivocal approval in Russian society.") （p.229）
 >
 > > “Hattie 使用的[[Variable|变量]]变异系数超过了50%，高于样本同质性的统计阈值（33%）。……由于该模型的不稳定性，确定这种模型中任何效应的强度，很可能无法得出客观的结论。”
 > ("The variation of the [[Variable|variables]] used by Hattie exceeds 50%, which is higher than the statistical threshold of sample homogeneity (33%). ... Determining the strength of any effects in such a model, due to its instability, will likely not lead to the formation of objective conclusions.")（p.239）

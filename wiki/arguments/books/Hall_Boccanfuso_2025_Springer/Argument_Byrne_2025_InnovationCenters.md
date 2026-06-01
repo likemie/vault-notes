@@ -382,7 +382,8 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > ("If the ultimate purpose of a [[Innovation Hub|research park]] or an innovation center is to raise the standard of living through increased commercial activity and entrepreneurship, then university and industry partners can draw from these approaches to make location-specific decisions to create mutually beneficial and positively reinforcing ecosystems.")（p.124）
 
 > [!quote]
-> "[[TUFF]] considers activation and events as creating value 'in' the building and not 'of' the building — reinforcing the idea that physical assets on their own will not be the impetus for lasting economic growth and development."（p.136）
+> “[[TUFF]] 认为激活与活动是在建筑‘内部’创造价值，而不是建筑‘本身’的价值——这强化了这样一种理念，即物理资产本身不会成为持久经济增长与发展的动力。”
+> ("[[TUFF]] considers activation and events as creating value 'in' the building and not 'of' the building — reinforcing the idea that physical assets on their own will not be the impetus for lasting economic growth and development.")（p.136）
 
 > [!quote]
 > “密度即命运。”

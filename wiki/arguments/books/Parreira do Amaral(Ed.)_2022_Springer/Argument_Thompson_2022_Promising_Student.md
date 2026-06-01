@@ -142,7 +142,8 @@ OSA 运作的技术-主体机制如下（Thompson et al., 2022, pp.224–226）�
 > ("The identification of the '[[Promising Student]]' is not simply a matter of finding the naturally given talents, however. Rather, it means to address students with respect to their potential success through self-evaluation and self-optimization.")（p.221）
 
 > [!quote]
-> "[[Digital Self]] and [[Digital Optimum]] form a differential that exerts algorithmic governance (Beer, 2016). This differential shapes student behavior (also in relation to other students) and thus it restructures higher education."（p.226）
+> “[[Digital Self|数字自我]]与[[Digital Optimum|数字最优]]状态形成了一种行使算法治理的级差。这种级差塑造了学生的行为（也包括与其他学生的关系），从而重构了高等教育。”
+> ("[[Digital Self]] and [[Digital Optimum]] form a differential that exerts algorithmic governance (Beer, 2016). This differential shapes student behavior (also in relation to other students) and thus it restructures higher education.")（p.226）
 
 > [!quote]
 > “当前的方法缺乏（高等）教育中的一个基本理念，即教育和 陶冶（[[Bildung]]） 是与开放和不可预测的未来相关的；它们超越了数据的相关性。”

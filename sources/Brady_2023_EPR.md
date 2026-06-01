@@ -5,12 +5,12 @@ extracted_to:
   - "[[Evidence-Based Education]]"
   - "[[Recommendations for Practice]]"
   - "[[Mixed Method and Multi-method Research]]"
-  - "[[Qualitative Research]]"
   - "[[Causal Modeling]]"
   - "[[Intervention Research]]"
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Qualitative Research]]"
 processed_date: 2026-05-05
 ---
 

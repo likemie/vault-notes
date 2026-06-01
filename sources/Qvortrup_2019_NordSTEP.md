@@ -1,7 +1,6 @@
 ---
 citation: "Qvortrup, L. (2019). Visible learning and its enemies – the missing link. Nordic Journal of Studies in Educational Policy, 5(1), 3–7."
 extracted_to:
-  - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Interpretation Community]]"
   - "[[Structural Coupling]]"
   - "[[Evidence-Based Education]]"
@@ -18,6 +17,7 @@ extracted_to:
   - "[[Donald A. Schön]]"
   - "[[Herbert A. Simon]]"
   - "[[Bounded Rationality]]"
+  - "[[Argument_Qvortrup_2019_NordSTEP]]"
 processed_date: 2026-05-03
 ---
 

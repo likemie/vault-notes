@@ -18,7 +18,9 @@ related_concepts:
   - "[[Employability]]"
   - "[[Global Citizenship]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Descriptive Methods]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -43,7 +45,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：质性归纳主题分析（inductive thematic analysis），使用 NVivo 和 NCapture 收集和编码数据
+> - 方法：质性归纳主题分析（inductive [[Descriptive Methods|thematic analysis]]），使用 NVivo 和 NCapture 收集和[[Coding in Qualitative Research|编码]]数据
 > - 样本：Universities UK 137 所成员大学中，76 所（55%）至少有一个公开网页列出[[Graduate Attributes|毕业生特质]]（截至 2020 年 1 月）
 > - 数据来源：大学官方网站公开的毕业生特质页面
 > - 分析流程：三位作者独立编码相同数据（三所大学网站）→ 讨论差异达成共识 → 逐步精炼编码框架 → 超过 30 个子代码归纳为四大话语（p.1343）
@@ -72,7 +74,8 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "[[Graduate Attributes]] are generally understood as 'the qualities, skills and understandings a university community agrees its students would desirably develop during their time at the institution'"（Bowden et al., 2000, p.3; 引自 p.1341）
+> > “[[Graduate Attributes|毕业生特质]]通常被理解为‘大学共同体一致认为其学生在校期间理想情况下应发展的品质、技能和理解力’。”
+> ("[[Graduate Attributes]] are generally understood as 'the qualities, skills and understandings a university community agrees its students would desirably develop during their time at the institution'")（Bowden et al., 2000, p.3; 引自 p.1341）
 >
 > > “英国毕业生特质的形成显得非常多样化，这很可能反映了各自大学独特的文化和精神气质，而不是在模仿任何国家框架。”
 > ("the formation of UK graduate attributes appears quite diverse, which is likely to reflect the individual cultures and ethos of the respective university, rather than to emulate any national frameworks")（p.1350）

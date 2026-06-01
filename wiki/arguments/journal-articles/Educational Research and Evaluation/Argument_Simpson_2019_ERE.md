@@ -120,7 +120,8 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "[[Effect Size]] is a measure of the trial as a whole; it is not a measure of the intervention alone." (p.100)
+> > “[[Effect Size|效应量]]是对整个试验的测量；它不仅仅是对干预本身的测量。”
+> ("[[Effect Size]] is a measure of the trial as a whole; it is not a measure of the intervention alone.") (p.100)
 >
 > > “那么，将效应量误认为是教育重要性或影响力的衡量标准，就是一个范畴错误。”
 > ("Mistaking effect size for a measure of educational importance or influence is, then, a category error.") (p.105)

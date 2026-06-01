@@ -130,7 +130,8 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "[[Evidence-Based Reform]] could finally apply to education the process that led to dramatic developments in medicine, agriculture, and technology in the 20th century." (p. 12)
+> > “[[Evidence-Based Reform|证据本位改革]]最终可以将曾在 20 世纪引领医学、农业和技术领域取得巨大发展的过程应用于教育。”
+> ("[[Evidence-Based Reform]] could finally apply to education the process that led to dramatic developments in medicine, agriculture, and technology in the 20th century.") (p. 12)
 >
 > > “设计应该与所提出的问题相适应。……当我们想知道‘什么有效’时，我们必须问，‘与什么相比？’”
 > ("The design should be appropriate to the question being asked. ... When we want to know 'what works,' we must ask, 'Compared to what?'") (p. 10)

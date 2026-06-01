@@ -78,7 +78,8 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "[[Material Fallacies]] in logic are 'mistakes in understanding the meaning or use of terms' (Kreeft, 2010, p. 85). Just as in practical logic, public policy discourse becomes problematic when the terms used are ambiguous, unclear or vague."（p.153）
+> > “逻辑中的[[Material Fallacies|实质谬误]]是‘在理解术语的含义或用法方面的错误’（Kreeft, 2010, p. 85）。正如在实践逻辑中一样，当所使用的术语模棱两可、不清晰或模糊时，公共政策论述就会变得有问题。”
+> ("[[Material Fallacies]] in logic are 'mistakes in understanding the meaning or use of terms' (Kreeft, 2010, p. 85). Just as in practical logic, public policy discourse becomes problematic when the terms used are ambiguous, unclear or vague.")（p.153）
 >
 > > “关于教学质量的[[Meta-analysis|元分析]]证据与学校政策没有可证实的关联。此外，如果按字面理解，这意味着部长和官员们断言应该通过让在校学生对他们的教师进行评级来提高学业成就，这是不合逻辑的。”
 > ("the [[Meta-analysis]] evidence on the quality of teaching has no demonstrable relevance to schooling policy. Moreover, taken literally, it would mean that the Minister and officials assert that achievement should be raised by asking school students to rate their teachers, which is incoherent.")（p.154）

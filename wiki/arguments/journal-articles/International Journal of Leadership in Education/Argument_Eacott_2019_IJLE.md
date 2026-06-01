@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Parallel Monologues]]"
   - "[[Knowledge Production]]"
+  - "[[Reflexivity]]"
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
@@ -49,7 +50,7 @@ updated: 2026-05-18
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：反思性评论（commentary），以作者个人经验作为案例研究
+> - 方法：[[Reflexivity|反思性]]评论（commentary），以作者个人经验作为案例研究
 > - 案例：Eacott 2017 年发表的论文"[[School Leadership]] and the [[Cult of the Guru]]: The [[Neo-Taylorism]] of [[John Hattie|Hattie]]"（Eacott, 2017a）及其在学术界引发的反应
 > - 数据来源：论文发表后收到的邮件、Twitter 互动、博客评论、大学投诉调查、期刊编辑决策、Hattie 的正式回应
 
@@ -79,7 +80,8 @@ updated: 2026-05-18
 > > “作为研究的消费者和生产者，我们更有可能体验到的是‘[[Parallel Monologues|平行独白]]’”
 > ("what we are more likely to experience, both as consumers and generators of research is '[[Parallel Monologues]]'")（p.774）
 >
-> > "[[John Hattie|Hattie]]'s work is Taylorism for a new time."（p.778）
+> > “海蒂的作品是新时代的泰勒主义。”
+> ("[[John Hattie|Hattie]]'s work is Taylorism for a new time.")（p.778）
 >
 > > “这不仅仅是提出一个反驳，而是与他人的观点交锋，并在必要时驳斥它们。不是将自己对世界的看法强加于人，而是按照他们的术语（逻辑）参与其中——检验主张的稳健性和内部[[Coherence in Writing|连贯性]]，而不是检验其是否与自己的规范性立场相一致。”
 > ("It is not about simply producing a counter argument, but engaging with the ideas of another and where necessary refuting them. Not imposing one's view of the world on another, but engage on their terms – testing out claims for robustness and internal coherence and not alignment with one's own normative position.")（p.779）

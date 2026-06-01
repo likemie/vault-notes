@@ -3361,6 +3361,16 @@
     ]
   },
   {
+    "title": "Emergent Design",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Emergent Design.md",
+    "aliases": [
+      "涌现式设计",
+      "涌现设计",
+      "emergent research design"
+    ]
+  },
+  {
     "title": "Emic and Etic",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Emic and Etic.md",
@@ -3421,6 +3431,17 @@
     ]
   },
   {
+    "title": "Gatekeepers",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Gatekeepers.md",
+    "aliases": [
+      "守门人",
+      "把关人",
+      "gatekeeper",
+      "研究准入把关人"
+    ]
+  },
+  {
     "title": "Hook and Eye Technique",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Hook and Eye Technique.md",
@@ -3472,6 +3493,17 @@
       "interrater reliability",
       "inter-rater agreement",
       "评定者间信度"
+    ]
+  },
+  {
+    "title": "Intercoder Agreement",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Intercoder Agreement.md",
+    "aliases": [
+      "编码者间一致性",
+      "编码者间信度",
+      "intercoder reliability",
+      "cross-checking"
     ]
   },
   {
@@ -3555,6 +3587,17 @@
     "path": "wiki/concepts/research-methodology/Material Fallacies.md",
     "aliases": [
       "实质谬误"
+    ]
+  },
+  {
+    "title": "Memos",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Memos.md",
+    "aliases": [
+      "备忘录",
+      "研究备忘录",
+      "research memos",
+      "analytic memos"
     ]
   },
   {
@@ -3691,6 +3734,17 @@
     ]
   },
   {
+    "title": "Probes",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Probes.md",
+    "aliases": [
+      "追问",
+      "追问提示",
+      "interview probes",
+      "probing questions"
+    ]
+  },
+  {
     "title": "Publication Bias",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Publication Bias.md",
@@ -3708,6 +3762,60 @@
       "study aim",
       "研究目的",
       "purpose of the study"
+    ]
+  },
+  {
+    "title": "Qualitative Codebook",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Qualitative Codebook.md",
+    "aliases": [
+      "质性编码手册",
+      "编码手册",
+      "qualitative codebook",
+      "codebook"
+    ]
+  },
+  {
+    "title": "Qualitative Generalization",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Qualitative Generalization.md",
+    "aliases": [
+      "质性推广",
+      "质性概化",
+      "qualitative generalization",
+      "qualitative generalizability"
+    ]
+  },
+  {
+    "title": "Qualitative Reliability",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Qualitative Reliability.md",
+    "aliases": [
+      "质性信度",
+      "qualitative reliability",
+      "质性研究信度"
+    ]
+  },
+  {
+    "title": "Qualitative Validity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Qualitative Validity.md",
+    "aliases": [
+      "质性效度",
+      "qualitative validity",
+      "trustworthiness",
+      "质性研究效度"
+    ]
+  },
+  {
+    "title": "Reflexivity",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Reflexivity.md",
+    "aliases": [
+      "反身性",
+      "反思性",
+      "研究者反身性",
+      "researcher reflexivity"
     ]
   },
   {
@@ -3792,6 +3900,28 @@
       "无回应偏差",
       "nonresponse bias",
       "无应答偏差"
+    ]
+  },
+  {
+    "title": "Rich and Thick Description",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Rich and Thick Description.md",
+    "aliases": [
+      "丰富密集描述",
+      "厚描述",
+      "thick description",
+      "rich description"
+    ]
+  },
+  {
+    "title": "Saturation",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Saturation.md",
+    "aliases": [
+      "饱和",
+      "数据饱和",
+      "theoretical saturation",
+      "data saturation"
     ]
   },
   {
@@ -3938,6 +4068,17 @@
       "verb tense in APA",
       "trimming fat in writing",
       "学术写作语言规范"
+    ]
+  },
+  {
+    "title": "Winnowing",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Winnowing.md",
+    "aliases": [
+      "数据筛选",
+      "数据缩减",
+      "data reduction qualitative",
+      "winnow the data"
     ]
   },
   {
@@ -4999,6 +5140,16 @@
     ]
   },
   {
+    "title": "Coding in Qualitative Research",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Coding in Qualitative Research.md",
+    "aliases": [
+      "编码",
+      "质性编码",
+      "qualitative coding"
+    ]
+  },
+  {
     "title": "Comparative Case Study",
     "type": "method",
     "path": "wiki/methods/qualitative/Comparative Case Study.md",
@@ -5045,6 +5196,18 @@
     ]
   },
   {
+    "title": "Descriptive Methods",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Descriptive Methods.md",
+    "aliases": [
+      "描述性方法",
+      "质性描述性分析",
+      "descriptive qualitative analysis",
+      "thematic analysis",
+      "foundational method"
+    ]
+  },
+  {
     "title": "Ethnography",
     "type": "method",
     "path": "wiki/methods/qualitative/Ethnography.md",
@@ -5083,6 +5246,17 @@
     ]
   },
   {
+    "title": "Interview Protocol",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Interview Protocol.md",
+    "aliases": [
+      "访谈协议",
+      "访谈提纲",
+      "interview guide",
+      "interview protocol"
+    ]
+  },
+  {
     "title": "MCC Discourse Analysis Examples",
     "type": "method",
     "path": "wiki/methods/qualitative/MCC Discourse Analysis Examples.md",
@@ -5090,6 +5264,17 @@
       "MCC 话语分析示例",
       "Li MCC discourse analysis",
       "Ch7 discourse examples"
+    ]
+  },
+  {
+    "title": "Member Checking",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Member Checking.md",
+    "aliases": [
+      "成员核查",
+      "参与者核查",
+      "member check",
+      "respondent validation"
     ]
   },
   {
@@ -5114,12 +5299,87 @@
     ]
   },
   {
+    "title": "Observation Protocol",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Observation Protocol.md",
+    "aliases": [
+      "观察协议",
+      "观察记录表",
+      "observational protocol"
+    ]
+  },
+  {
+    "title": "Peer Debriefing",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Peer Debriefing.md",
+    "aliases": [
+      "同行审议",
+      "同行汇报",
+      "peer debrief",
+      "peer review in qualitative research"
+    ]
+  },
+  {
     "title": "Philosophical Analysis in Education",
     "type": "method",
     "path": "wiki/methods/qualitative/Philosophical Analysis in Education.md",
     "aliases": [
       "教育中的哲学分析",
       "哲学分析"
+    ]
+  },
+  {
+    "title": "Purposeful Sampling",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Purposeful Sampling.md",
+    "aliases": [
+      "目的性抽样",
+      "立意抽样",
+      "purposive sampling",
+      "purposeful sampling strategy"
+    ]
+  },
+  {
+    "title": "Qualitative Computer Software",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Qualitative Computer Software.md",
+    "aliases": [
+      "质性计算机软件",
+      "质性数据分析软件",
+      "qualitative data analysis software",
+      "QDAS",
+      "CAQDAS"
+    ]
+  },
+  {
+    "title": "Qualitative Documents",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Qualitative Documents.md",
+    "aliases": [
+      "质性文件",
+      "qualitative documents",
+      "文件数据"
+    ]
+  },
+  {
+    "title": "Qualitative Interview",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Qualitative Interview.md",
+    "aliases": [
+      "质性访谈",
+      "qualitative interviews",
+      "质性研究访谈"
+    ]
+  },
+  {
+    "title": "Qualitative Observation",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Qualitative Observation.md",
+    "aliases": [
+      "质性观察",
+      "qualitative observation",
+      "田野观察",
+      "field observation"
     ]
   },
   {
@@ -5132,6 +5392,17 @@
       "质性描述性方法",
       "Qualitative Descriptive Method",
       "descriptive qualitative research"
+    ]
+  },
+  {
+    "title": "Triangulation",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Triangulation.md",
+    "aliases": [
+      "三角验证",
+      "三角互证",
+      "triangulate",
+      "data triangulation"
     ]
   },
   {

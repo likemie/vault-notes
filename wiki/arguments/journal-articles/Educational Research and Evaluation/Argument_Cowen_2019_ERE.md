@@ -154,7 +154,8 @@ updated: '2026-05-18'
 > > “‘不是你花了多少钱，而是你花钱的方式……那才是产生结果的原因。’这回避了一个重要结论：资源很重要。投入学校的资金越多，就能带来可预测的成绩提升。”
 > ("It's not what you spend, it's the way that you spend it …that's what gets results.' This avoids an important conclusion: Resources matter. More funding going into schools leads to predictably improved results.") (pp. 13–14)
 >
-> > "[[Evidence-Based Education|EBE]] could become substantially more useful if this link with administrative accountability was severed, or at least loosened, along with the reliance on experimental evidence." (p. 11)
+> > “如果能切断（或至少放宽）[[Evidence-Based Education|证据本位教育]]（EBE）与行政问责机制之间的这种关联，同时减少对实验证据的依赖，EBE 可能会变得更有用。”
+> ("[[Evidence-Based Education|EBE]] could become substantially more useful if this link with administrative accountability was severed, or at least loosened, along with the reliance on experimental evidence.") (p. 11)
 
 ## 局限性与批评
 

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/methods/mixed/Literature Map.md",
-                "mode": "source",
+                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Literature Map"
+              "title": "Argument_Creswell_2022_SAGE"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "d5cc64116fa9887e",
   "lastOpenFiles": [
+    "wiki/methods/mixed/Literature Map.md",
+    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
     "wiki/concepts/research-methodology/Winnowing.md",
     "wiki/methods/qualitative/Qualitative Computer Software.md",
     "wiki/methods/qualitative/Peer Debriefing.md",
@@ -202,7 +204,6 @@
     "wiki/concepts/research-methodology/Intercoder Agreement.md",
     "wiki/concepts/research-methodology/Qualitative Generalization.md",
     "wiki/concepts/research-methodology/Qualitative Reliability.md",
-    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
     "wiki/concepts/research-methodology/Qualitative Validity.md",
     "wiki/concepts/research-methodology/Emergent Design.md",
     "wiki/concepts/research-methodology/Saturation.md",
@@ -217,7 +218,6 @@
     "wiki/methods/qualitative/Interview Protocol.md",
     "wiki/methods/qualitative/Qualitative Observation.md",
     "wiki/methods/qualitative/Qualitative Interview.md",
-    "wiki/methods/qualitative/Purposeful Sampling.md",
     "raw/015_Chapter 9 Qualitative Methods.txt",
     "scripts/translate_quotes_final_batch.py",
     "wiki/concepts/higher-education/Field Images.md.tmp.27820.e9ea596a24c1",

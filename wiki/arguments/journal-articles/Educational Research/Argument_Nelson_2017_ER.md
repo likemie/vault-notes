@@ -109,7 +109,8 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "[[Evidence-Informed Practice|EIP]] is not simply a technical activity; it is influenced by personal and professional values and beliefs, and affected by wider political and educational contexts, policies, and changes." (p. 128)
+> > “证据启发实践（[[Evidence-Informed Practice|EIP]]）并不仅仅是一项技术活动；它受到个人和专业价值观及信念的影响，并受更广泛的政治和教育背景、政策以及变革的影响。”
+> ("[[Evidence-Informed Practice|EIP]] is not simply a technical activity; it is influenced by personal and professional values and beliefs, and affected by wider political and educational contexts, policies, and changes.") (p. 128)
 >
 > > “如果证据要生根发芽，就需要被种植在‘肥沃的土壤’中。”
 > ("Evidence needs to be planted in 'fertile ground' if it is to take root and grow.") (p. 127)

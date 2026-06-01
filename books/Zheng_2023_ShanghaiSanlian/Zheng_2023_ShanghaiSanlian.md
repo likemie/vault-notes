@@ -29,7 +29,6 @@ extracted_to:
   - "[[Work Meaning Schemas]]"
   - "[[China College Graduate Employment Reform]]"
   - "[[Recommendation-Based Graduate Admission System]]"
-  - "[[Case Study]]"
   - "[[Constructivist Grounded Theory]]"
   - "[[In-depth Interview]]"
   - "[[Yajun Zheng]]"
@@ -41,6 +40,7 @@ extracted_to:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
   - "[[Rational Action Theory]]"
+  - "[[Case Study]]"
 processed_date: 2026-05-09
 ---
 
