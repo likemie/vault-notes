@@ -423,8 +423,7 @@ updated: 2026-06-01
 > [!example]- Two Groups With Different Treatment on X Are Compared in Terms of Y
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-2_Two_Groups_Compared.jpg)
 
-> [!example]- 图片占位
-> 图3.3 A Visual Model of a Theory of Faculty Scholarly Performance
+> [!example]- A Visual Model of a Theory of Faculty Scholarly Performance
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-3_Faculty_Scholarly_Performance_Model.jpg)
 
 基础调查模型展示三个自变量经两个中介变量影响一个因变量（图 3.1）。组间实验设计比较两组在 X 上的不同处理对 Y 的影响（图 3.2）。Jungnickel (1990) 构建了关于药学院教师研究生产力的复杂模型（图 3.3），区分了外生变量（exogenous，不被模型中其他变量引起）和内生变量（endogenous，影响其他变量）。

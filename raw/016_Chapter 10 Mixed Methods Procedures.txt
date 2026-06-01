@@ -1,0 +1,778 @@
+Chapter 10 Mixed Methods Procedures
+===================================
+
+Chapter 10 Mixed Methods Procedures
+
+Learning Objectives
+
+Describe each of the six characteristics of mixed methods research to use in a definition.
+
+Create a justification for using mixed methods research in a proposal or study.
+
+Define key terms used in mixed methods, such as open- and closed-ended data, research design, integration, joint displays, and metainferences when presented in a proposal or study.
+
+Contrast quantitative and qualitative data when presented in a study.
+
+Identify for a core design its intent, procedures for data collection, integration, metainferences, and validity.
+
+Choose a type of mixed methods design for a study, and present reasons for the choice.
+
+Identify the elements that go into an integration statement for a proposal or a study.
+
+Introduction
+
+Up until this point, we have considered writing quantitative and qualitative methods. We have not discussed “mixing” or combining the two forms of data in a study: a mixed methods procedure. We can start with the assumption that both forms of data provide different types of information (open-ended data in the case of qualitative and closed-ended data in the case of quantitative). Suppose we further assume that each type of data collection has both limitations and strengths. In that case we can consider how to combine the strengths to develop a stronger understanding of the research problem or questions (and overcome the limitations of each). In a sense, more insight into a problem must be gained from mixing or integrating the quantitative and qualitative data. This “mixing” or integrating of data provides a stronger understanding of the problem or question than either by itself. Mixed methods research is simply “mining” the databases more by integrating them. This idea is at the core of a new methodology called “mixed methods research.”
+
+Table 10.1 shows a checklist of the mixed methods procedures addressed in this chapter. The checklist follows the chapter topics and some important terms for engaging in this methodology.
+
+Table 10.1 A Checklist of Questions for Designing a Mixed Methods Procedure
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/001_10.4135_9781071817988-table19.jpg]
+
+Table 10.1 A Checklist of Questions for Designing a Mixed Methods Procedure
+
+______
+
+Have you defined mixed methods research?
+
+______
+
+Do you justify using mixed methods methodology for your problem and question?
+
+______
+
+Have you collected both quantitative and qualitative data?
+
+______
+
+Have you described your intent for collecting both forms of data? (integration statement)
+
+______
+
+Have you identified a type of mixed methods design or set of procedures to integrate your data? (mixed methods design)
+
+______
+
+Have you provided a diagram of your design procedures?
+
+______
+
+Have you identified how you will analyze your data for integration? (use of a joint display)
+
+______
+
+Have you drawn conclusions (or metainferences) from analyzing the integration?
+
+______
+
+Have you discussed validity and ethics related to your research design?
+
+______
+
+Have you written your mixed methods study to reflect your use of design?
+
+Putting Mixed Methods Research in Perspective
+
+Mixed methods research as a distinct methodology originating around the late 1980s. Understanding some of its history is important to pose a good rationale for using it. In its 35-year history mixed methods research has evolved into a complete methodology with clear descriptions of major elements that go into its research, such as problems, data collection, data analysis, interpretation, and written products. It has been called the “third methodological movement” (Tashakkori & Teddlie, 2010) alongside the other two—quantitative and qualitative research. It sits between these two other methodologies and incorporates both.
+
+Several texts outline the major development of the methodology (e.g., Creswell & Plano Clark, 2018; Teddlie & Tashakkori, 2009). It emerged roughly during 1985–1990 when several scholars, working independently from diverse disciplines (e.g., management, education, sociology, medicine) began crafting books and journal articles about the research approach (Bryman, 1988; Greene et al., 1989). By the late 1990s and early 2000s, specific books articulated the new methodology (e.g., Tashakkori & Teddlie, 1998). In 2003, the Handbook of Mixed Methods in the Social and Behavior Sciences (Tashakkori & Teddlie, 2003) firmly set the large dimensions of the new field of mixed methods research. By 2007, the field had its first dedicated journal in the Journal of Mixed Methods Research. By 2011, the U.S. federal government took an active interest in mixed methods. It issued a report and then updated it called the “Best Practices of Mixed Methods Research in the Health Sciences” (National Institutes of Health, Office of Behavioral and Social Sciences, 2011, 2018).
+
+An international community of mixed methods scholars formed, and by 2014 the Mixed Methods International Research Association (MMIRA) was born. This association soon expanded internationally into specific countries worldwide starting chapters, affiliate groups, and regional conferences. Training programs in mixed methods research soon emerged in 2015, such as the NIH Mixed Methods Research Training Program, housed at Johns Hopkins University, Harvard, and the University of Michigan. Training workshops started at the Mixed Methods Research Program at the University of Michigan. More recently the American Psychological Association included standards for mixed methods research in its Publication Manual (American Psychological Association, 2020), signaling that mixed methods had found its way into the internationally popular style manual for the first time. Today, many empirical studies in various fields have used mixed methods, innovations have expanded through methodological journal articles, and many books are available on the subject (Molina-Azorin & Fetters, 2022).
+
+Characteristics of Mixed Methods Research
+
+Understanding mixed methods’ growth and popularity helps frame this methodology in a dissertation or a study. It is helpful to use the term mixed methods when referring to this approach. Other terms are available in the literature, such as integrating, synthesis, quantitative and qualitative methods, multimethod, mixed research, or mixed methodology, but the term “mixed methods” has become popular in the field through numerous writings (Bryman, 2006; Creswell, 2022; Tashakkori & Teddlie, 2010). Multimethod research refers to the collection of multiple quantitative or qualitative sources of data and is not mixed methods research. In contrast, mixed methods research collects both quantitative and qualitative data.
+
+The following defining characteristics, including collecting both forms of data, are central to understanding and describing mixed methods research. We recognize that many definitions are available in the literature (see varied scholars’ views of defining mixed methods research in Johnson et al., 2007). However, for a mixed methods study or proposal, include the following specific components (see Figure 10.1 for a visual diagram of these characteristics):
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/002_10.4135_9781071817988-fig14.jpg | An illustration of the essential components of mixed methods research.]
+Description
+Figure 10.1 Essential Components of Mixed Methods Research
+
+The researcher:
+
+Collects two types of data—qualitative (open-ended) and quantitative (closed-ended) data—to study the research problem or question
+
+Connects the two data sets, called integration
+
+Uses procedures to integrate the two data sets, called a mixed methods design
+
+Analyzes integration typically in a table, called a joint display, by representing the two databases together in the procedures
+
+Draws conclusions, insight, or interpretation from the integration analysis, called metainferences
+
+Frames the study with the researcher’s beliefs, values (worldview), and explanations drawn from the literature (theories).
+
+In Chapter 1 we mentioned the importance of framing these procedures within the personal perspective of the researcher (worldview) and in explanations drawn typically from the literature (theories). In Figure 10.1, the components of a definition will be emphasized in the sections to follow. These topics also provide a good overview of the entire field of mixed methods research. Writings on mixed methods drill down in detail on each of these topics, something beyond the scope of this book. However, references at the end of this chapter should guide readers toward deeper explanations. Thus, a mixed methods section should begin by defining mixed methods research and advancing its definition based on its essential characteristics. This discussion should also include reasons for selecting the methodology.
+
+Justification for Using Mixed Methods Research
+
+Numerous reasons can justify the use of mixed methods research in a project. Researchers may have access to both quantitative and qualitative data; advisers may recommend it as a recent, popular methodology; funding sources may require it; and individuals may simply want to practice applying it to their topics. In addition, it does provide for the use of two different types of data. It encourages the further “mining” of the data beyond the results yielded by either the quantitative or qualitative databases. It seems suitable for studying the complex problems of today that require gathering numbers and hearing the voices of individuals. For example, a good illustration would be the research and reports about the pandemic where we daily view statistics on new cases and hear the stories about individuals resisting the vaccinations. Mixed methods can also be attractive to private foundations and federal agencies that now encourage the use of this methodology. A useful addition for individuals trained in quantitative research would be to collect qualitative data to provide evidence to back up the numbers.
+
+These are all important reasons for using this methodology. However, added to this list would be the reasons for combining the two databases and the insight that yields. This insight provides more information than simply reporting the quantitative and qualitative results. What possible insights might emerge from combining or linking the quantitative and qualitative databases? Here are some possibilities:
+
+Developing a complete understanding of a research problem by combining the quantitative and qualitative results
+
+Explaining quantitative results in more detail with qualitative data
+
+Improving measures, scales, and instruments by incorporating the views of participants who received the instruments
+
+Augmenting experiments or trials by incorporating the perspectives of individuals
+
+Developing cases (i.e., organizations, units, or programs) or documenting diverse cases for comparisons
+
+Evaluating programs based on combining quantitative and qualitative data
+
+Developing a complete understanding of changes needed for a marginalized group through the combination of qualitative and quantitative data
+
+Definitions of Mixed Methods Terms
+
+Terms introduced in this chapter may be new to readers, and we begin by defining key terms so that researchers can begin to build their language of mixed methods research.
+
+Open- and Closed-Ended Data
+
+Open-ended data consists of information gathered where the researchers ask a question but do not provide a response option. Instead, the participants share their views, and the researcher records them. As applied to qualitative observations and documents, the researcher does not use a predetermined set of response options but observes or looks at documents to see meaning.
+
+Closed-ended data consists of information gathered where the researcher provides participants with response options, such as rating scales from strongly agree to strongly disagree. We feel that distinguishing the two types of data is more specific than referring to numbers versus texts or numeric data versus stories. Some data sources can be both closed- and open-ended, such as health data with closed-ended scores on medical tests and open-ended information from recording a patient’s history.
+
+Research Design
+
+The research design is the procedure used in conducting a study. They extend from the broad philosophical assumptions to the data interpretation. As used for a mixed methods design, this refers to the procedures in the research process of collecting data, analyzing data, and interpreting it. Two categories of designs will be discussed here, recognizing that many types have emerged over the years (Creswell & Plano Clark, 2018; Creswell & Plano Clark, in press). We advanced core designs including convergent designs, explanatory sequential designs, and exploratory sequential designs. These designs are found in all mixed methods studies. Further, these core designs can be embedded within more expansive processes or frameworks. Here the primary intent is not simply the integration of the two databases but to have mixed methods support the procedures of a process or framework. We call these complex designs. Complex designs presented in this chapter include experimental processes, participatory action research frameworks, case study procedures, and evaluation processes. Rather than a long list of types of designs, we feel that most studies can fit into these core and complex designs.
+
+Integration
+
+Integration represents a central concept in mixed methods research. This important concept involves combining or “mixing” in a study or a series of studies information from the quantitative and qualitative data. Integration in our discussion will consist of reasons or “intent” of combining the two databases and the “procedures” of enacting this combination. Further, integration differs depending on the type of mixed methods design. In terms of procedures the researcher either merges or combines the two databases or connects them by one building on the other. For complex designs, the integration involves embedding one or more core designs into a larger process or framework, such as an experiment, evaluation, or a participant action research project.
+
+Joint Display
+
+In the procedures of combining data, the researcher needs some way to examine the effect of bringing the two databases together. A joint display is a table or graph that presents the side-by-side combination of the two databases. Joint displays differ for types of designs because the procedures for combining vary by designs.
+
+Metainferences
+
+As a researcher examines the joint display table or graph, conclusions are drawn about the insight emerging from comparing the two databases. In mixed methods, these insights are called metainferences, which suggests that a researcher concludes quantitative and qualitative inferences and then draws additional inferences (metainferences) based on combining the quantitative and qualitative databases.
+
+The Process of Conducting a Mixed Methods Study
+
+The process of conducting a mixed methods study involves connecting the quantitative and qualitative data to a specific type of mixed methods design. In this design, the researcher draws a diagram of the design, integrates the two databases, presents the integration in a table or joint display for analysis, and draws insight or metainferences from the results of the integration.
+
+Quantitative and Qualitative Data Collection
+
+In mixed methods procedures, after defining the methodology with key characteristics and a rationale for its use, the researcher needs to indicate the types of qualitative and quantitative data collected. We start with the data discussion because it is concrete and easily grasped by readers. Our approach involves thinking about this form of research as gathering both quantitative and qualitative data and then combining them. In this way, a researcher learns more about the problem under study because insights go beyond simply learning about the quantitative and qualitative results; learning comes from the combination or integration of the two databases. In this spirit, we talk about “mining” the data further when using mixed methods research. If a researcher can gather both quantitative and qualitative data, then an opportunity opens for the use of mixed methods research.
+
+One helpful strategy is to pose a general problem for the mixed methods study and gather two types of data—quantitative and qualitative—to address this problem. The types of research problems studied by mixed methods researchers span many fields and topics, and we see empirical mixed methods studies reported in a wide assortment of social, behavioral, and health science journals today.
+
+In conducting mixed methods research, these two forms provide different types of data to answer the general research problem or question because one is open-ended and the other closed- ended information. Mixed methods researchers can profit from developing a table for a proposal or report that specifies both the quantitative and qualitative data sources. To bring the two databases together in integration, one needs to have a clear sense of the types of data gathered.
+
+We recommend composing and presenting in a proposal or report a table that lists the sources of quantitative and qualitative data in a project. The source can be named (e.g., attitudinal instrument, interview); the number of people, observations, or documents collected; and specific details about the sources (e.g., the specific instrument and scales, the online interviews).
+
+Core Mixed Methods Designs
+
+There have been several typologies for classifying and identifying types of mixed methods procedures that researchers might use in their proposed mixed methods study. Creswell and Plano Clark (2018) identified several classification systems drawn from the fields of evaluation, nursing, public health, education policy and research, and social and behavioral research. In these classifications, authors have used diverse terms for their types of designs, and a substantial amount of overlap of types has existed in the typologies. For purposes of clarifying the design discussion in the mixed methods field, we will identify three core mixed methods designs as shown in Figure 10.2—the convergent design, the explanatory sequential design, and the exploratory sequential design. Then we will identify more designs, called complex designs (or embedded designs), in which the core designs are embedded within a framework or process beyond mixed methods. We begin with the three core designs and indicate the intent for using each, the general procedures, and the issues of validity and ethics.
+
+The Convergent Mixed Methods Design
+
+The intent of the convergent design is to compare the results from the qualitative databases with those from the quantitative database by merging the results (see Figure 10.2). The key assumption of this approach is that both qualitative and quantitative data provide different types of information. These types are detailed views of participants, qualitative, and scores on instruments, quantitative. Together they yield results that should be the same. In past years, we have described this design as a “concurrent” or “parallel” design. Focusing on comparing the two databases shifts the emphasis from the vague, historic words of “concurrent” or “parallel” to the intent to compare the results. When comparing the results, the additional purpose or intent may be to see if the findings converge (match) or diverge, mutually support a construct, or validate one form of data with another.
+
+The convergent mixed methods design is probably the most familiar of the core and complex mixed methods approaches. New researchers to mixed methods typically first think of this approach because they feel that mixed methods comprise only combining the quantitative and qualitative data. It builds off the historic concept of the multimethod, multi-trait idea from Campbell and Fiske (1959), who suggested understanding a psychological trait by gathering different forms of data. Although the Campbell and Fiske conceptualization included only quantitative data, the mixed methods researchers extended the idea to include quantitative and qualitative data collection.
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/003_10.4135_9781071817988-fig15.jpg | An illustration of three types of core designs.]
+Description
+Figure 10.2 Three Core Designs
+
+The procedures for data collection in this single-phase approach involves the researcher collecting quantitative and qualitative data, analyzing them separately, and then comparing the results to see if the findings confirm or disconfirm each other. The qualitative data assumes types discussed in Chapter 9, such as interviews, observations, documents, and records. The quantitative data can be instrument data, observational checklists, or numeric records, such as census data, as discussed in Chapter 8. Ideally, the key idea with this design is to collect both forms of data using the same or parallel variables, constructs, or concepts. For example, when researchers measure the concept of self-esteem during quantitative data collection, they ask about the same concept during the qualitative data collection process. Some researchers will use this design to associate themes with quantitative data and qualitative data. For instance, Shaw et al. (2013) compared quality improvement practices in family medicine clinics with colorectal cancer screening rates. Another data collection issue is the sample size for the qualitative and quantitative data collection process. Unquestionably, the data for the qualitative data collection will be smaller than that for the quantitative data collection. This is because the intent of data collection for qualitative data is to locate and obtain information from a small purposeful sample and to gather extensive information from this sample; whereas, in quantitative research, a large N is needed to infer meaningful statistical results from samples to a population.
+
+Sometimes mixed methods researchers will collect information from the same number of individuals in the qualitative and quantitative databases. This means that the qualitative sample increases, limiting the amount of data collected from any one individual. Another approach would be to weight the qualitative cases to equal the N in the quantitative database. One other approach taken by some mixed methods researchers is not to consider the unequal sample sizes a problem. They would argue that the intent of qualitative and quantitative research differs (one to gain an in-depth perspective and the other to generalize to a population) and that each provides an adequate account. Another issue in sampling is whether the individuals for the sample of qualitative participants should also be individuals in the quantitative sample. Typically, mixed methods researchers include the sample of qualitative participants in the larger quantitative sample. Ultimately, researchers make a comparison between the two databases, and the more they are similar, the better the comparison.
+
+Integrative data analysis in a convergent design comprises three phases. First, analyze the qualitative database by coding the data and collapsing the codes into broad themes. Second, analyze the quantitative database in terms of statistical results. Third, conduct a mixed methods data analysis of the integration of the two databases. Mixed methods data analysis can be called integration analysis.
+
+There are several ways to integrate the two databases: First, researchers can make a side-by-side comparison. Less frequently seen in the mixed methods literature today, these comparisons are found in the discussion sections of mixed methods studies. The researcher will first report the quantitative statistical results and then discuss the qualitative findings (e.g., themes) that either confirm or disconfirm the statistical results. Alternatively, the researcher might start with the qualitative findings and then compare them to the quantitative results. Mixed methods writers call this a side-by-side approach because the researcher makes the comparison within a discussion, presenting first one set of findings and then the other.
+
+Second, researchers can also merge the two databases by changing or transforming qualitative codes or themes into quantitative variables and then combining the two quantitative databases—a procedure in mixed methods research called data transformation. To form quantitative measures the researcher takes the qualitative themes or codes and counts them (and possibly groups them). Some useful transformation procedures that mixed methods researchers have used can be found in Onwuegbuzie and Leech (2006). This approach is popular among researchers trained in quantitative research who may not see the value of an independent qualitative interpretive database.
+
+Third, a final procedure involves merging the two forms of data in a table or a graph. This table or graph is called a joint display of data, and it can take many different forms. The joint display needs to relate to the mixed methods design, and it has become a standard procedure for integrating the two databases in mixed methods studies. See the template for a convergent design joint display in Table 10.2. As shown in Table 10.2, we have constructed a template without actual data. A template is advantageous to learn about joint displays because it shows the overall structure.
+
+Table 10.2 Template for a Convergent Design Joint Display
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/004_10.4135_9781071817988-table20.jpg]
+
+Table 10.2 Template for a Convergent Design Joint Display
+
+Scores
+
+Theme 1
+
+Theme 2
+
+Theme 3
+
+Theme 4
+
+Metainferences
+
+High
+
+Quote/Scores
+
+Quote/Scores
+
+Quote/Scores
+
+Quote/Scores
+
+Insight
+
+Medium
+
+Quote/Scores
+
+Quote/Scores
+
+Quote/Scores
+
+Quote/Scores
+
+Insight
+
+Low
+
+Quote/Scores
+
+Quote/Scores
+
+Quote/Scores
+
+Quote/Scores
+
+Insight
+
+Metainferences
+
+Insight
+
+Insight
+
+Insight
+
+Insight
+
+Insight
+
+Many joint displays are available in the mixed methods literature (see Guetterman et al., 2015). The joint display shown in Table 10.2 arrays four themes on the horizontal axis and a categorical variable (high, medium, and low scores) on the vertical axis. The information in the cells can be quotes, scores, or both. The joint display can also be arrayed differently with a table with key questions or concepts on the vertical axis and then two columns on the horizontal axis indicating qualitative responses and quantitative responses to the key questions or concepts (e.g., Li et al., 2000). The basic idea is for the researcher to jointly display both forms of data—effectively merging them—in a single visual and then make an interpretation of the display (see Guetterman et al., 2015).
+
+As seen in Table 10.2, we added to the themes and scores a column and row for metainferences. In this way, the researcher can derive results by looking across the rows or columns with qualitative and quantitative data. For example, how do the scores for the high, medium, and low scoring individuals differ for theme 1? How do the high-scoring individuals differ among the four themes? The process involves looking across databases and drawing conclusions or insight from the analysis. This constitutes the mixed methods analysis of integration of the two databases, and these insights can be added into a study in a results section or a discussion section. Further, the researcher can look for types of integrative results, such as whether the qualitative and quantitative results provide confirmation of the databases, show agreement (or concordance) or disagreement (discordance), expand knowledge beyond the databases, relate to existing literature, or inform theories (see Molina-Azorin & Fetters, 2022, about metainferences).
+
+When divergence occurs, the researcher needs to conduct follow-up analysis. The researcher can state divergence as a limitation in the study without further follow-up. This approach represents a weak solution. Alternatively, mixed methods researchers can return to the analyses and further explore the databases. They also can collect additional information to resolve the differences or discuss limitations of one of the databases (e.g., invalid quantitative constructs or a poor match between the open-ended question and the qualitative themes). Whatever approach the researcher takes, the key point in a convergent design is to further discuss and probe results for divergent findings.
+
+What types of validity threats are likely to arise in a convergent design? Validity using the convergent design should be based on establishing both quantitative validity (e.g., construct) and qualitative validity (e.g., triangulation) for each database. Then, in mixed methods research, validity relates to the specific design used. When threats arise, they need to be addressed.
+
+In a convergent design, one validity threat involves not following up with the two databases that tell different stories. Another is the basis for comparison, the domains common to both data sets is not stated. The use of similar questions in the qualitative data collection (e.g., interviews about stress) need to be the same types of questions in the quantitative data collection (e.g., stress scales). Failure to acknowledge the implications of the different sample sizes from the quantitative and qualitative databases represents another potential threat.
+
+Explanatory Sequential Mixed Methods Design
+
+The intent of the explanatory sequential design is to explain initial quantitative results with qualitative data by connecting the two databases (see Figure 10.2). In this two-phase design, the first phase involves collecting quantitative data, analyzing the results, and then gathering qualitative data to explain the quantitative results in more detail. The quantitative results typically inform (a) the types of participants purposefully selected for the qualitative phase and (b) the types of questions asked of the participants. The design rests on the assumption that the quantitative results may yield surprising results; unusual, significant, or outlier results; or demographics that need further explanation. In addition, the qualitative data can explain how the quantitative mechanisms or causal links work. The qualitative follow-up then provides this further explanation in this two-phase project. The key idea is that the qualitative data collection builds directly on the quantitative results. For example, when using demographics, the researcher could find that individuals in different socioeconomic levels respond differently to the dependent variables in the initial quantitative phase. Thus, the follow-up qualitatively may group respondents to the quantitative phase into different categories and conduct qualitative data collection with individuals representing each of the categories.
+
+This type of design appeals to beginning researchers because of its two-phase approach so that data collection can be paced out over time. It also interests researchers coming to mixed methods from a quantitative background because it starts with a strong quantitative first phase. It requires that researchers locate and use a good instrument for first-phase data collection.
+
+The data collection procedures proceed in two distinct phases with rigorous quantitative sampling in the first phase and with purposeful sampling in the second, qualitative phase. One challenge in planning this design requires the researcher to anticipate the qualitative data collection without completing the initial quantitative phase. In developing a plan, we recommend that researchers anticipate the quantitative results based on prior literature and theory. Selecting the qualitative sample represents another challenge in this design. Because the qualitative follow-up builds on the quantitative results, the qualitative sample needs to be a subset of the participants in the quantitative sample.
+
+The integrative data analysis starts with the separate analysis of the quantitative and qualitative data analysis. Then the researcher connects the two databases by arraying the quantitative results with the qualitative data collection. This represents the point of integration. This can be done with a joint display as shown in Table 10.3. The template for this design shows columns for first the quantitative scores and then the qualitative follow-up themes that build on the quantitative results. Thus, the joint display, read from left to right, follows the order of procedures in the explanatory sequential design.
+
+Table 10.3 Template for an Explanatory Sequential Design Joint Display
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/005_10.4135_9781071817988-table21.jpg]
+
+Table 10.3 Template for an Explanatory Sequential Design Joint Display
+
+Quantitative Scores
+
+Qualitative Follow-Up Themes
+
+Metainferences
+
+High Scores
+
+Theme 1
+
+Theme 2
+
+Theme 3
+
+How Themes Explain the Scores
+
+Medium Scores
+
+Theme 4
+
+Theme 5
+
+Theme 6
+
+How Themes Explain the Scores
+
+Low Scores
+
+Theme 7
+
+Theme 8
+
+Theme 9
+
+How Themes Explain the Scores
+
+Often the question arises in this design as to whether a researcher can compare the qualitative results with the quantitative results after concluding both phases. We would not recommend this practice because the sample in qualitative data represents a subset of the quantitative sample and therefore leads to overlapping samples.
+
+Also shown in Table 10.3 is the addition of the column on metainferences. In this column, the researcher can state how the qualitative themes helped explain the scores, such as the high scores of individuals. The metainferences drawn in this design differ from those we discussed for the convergent design. Rather than confirmation or agreement, the conclusions represent an extension of the quantitative results, a further refinement in information. They might also help construct new, better quantitative assessments in the future. Like our discussion of metainferences in the convergent design, a researcher compares the metainferences with the literature and theories.
+
+As with all mixed methods studies, the researcher needs to establish the validity of the scores from the quantitative measures and the qualitative findings. In the explanatory sequential mixed methods approach, additional validity concerns arise. The accuracy of the overall findings may be compromised because the researcher does not consider and weigh all options for following up on the quantitative results. We recommend that researchers consider all options for identifying results to follow up on before settling on one approach. Attention may focus only on personal demographics and overlook important explanations that need further understanding. The researcher may also contribute to invalid results by drawing on different samples for each phase of the study. If explaining the quantitative results in more depth, it makes sense to select the qualitative sample from individuals who participated in the quantitative sample. This maximizes the importance of one phase explaining the other, a strong validation point.
+
+Exploratory Sequential Mixed Methods Design
+
+The primary intent of the exploratory sequential design is to explore how qualitative data can improve (and make specific to a setting) quantitative measures, scales, or instruments (see Figure 10.2). Procedurally, this means connecting the quantitative findings to a design phase for developing a contextually sensitive measurement (e.g., instrument) and then testing it with a sample. Other times it may involve developing new variables not available in the literature attuned to a specific population or designing a website or an internet application shaped to the needs of the individuals. It can also generalize findings from a small, qualitative sample to a larger, quantitative sample. Starting with qualitative data collection, it presents the reverse sequence from an explanatory sequential design, which begins with collecting quantitative data. We call this design a three-phase design with the qualitative phase, followed by a design phase for modifying a quantitative assessment, and then by a quantitative phase for testing the newly designed quantitative feature.
+
+This design is popular in international and global health research. In undertaking these studies, researchers may need to understand a community or population before administering Western-based English instruments. Also, in some studies, adequate quantitative measures or instruments may not be available, and the researcher first needs to gather data qualitatively. A prime example would be using this design to develop a survey or questionnaire instrument because one is not available in the literature.
+
+In this core design, the data collection procedures occur at two points in the design: the initial qualitative data collection and the test of the quantitative feature in the third phase of the project. The challenge is how to use the information from the initial qualitative phase to build or identify the quantitative feature in the second phase.
+
+Several options exist, and we will use the approach of developing a culturally sensitive instrument as an illustration. The qualitative data analysis can be used to develop an instrument with good psychometric properties (i.e., validity, reliability). The qualitative data analysis will yield quotes, codes, and themes (see Chapter 9). The development of an instrument (or questionnaire) can proceed by using the quotes to write items for an instrument, the codes to develop variables that group the items, and themes that group the codes into scales. This is a useful procedure for moving from qualitative data analysis to scale development (the quantitative feature developed in the second phase). Scale development also needs to follow good procedures for instrument design, such as item discrimination, construct validity, and reliability estimates (see DeVellis, 2017).
+
+Developing a good psychometric instrument that fits the sample and population under study is not the only use of this design. A researcher can analyze the qualitative data to develop new variables that may not be present in the literature, to modify the types of scales that might exist in current instruments, or to form categories of information explored further in a quantitative phase.
+
+The question arises whether the sample for the qualitative phase is the same for the quantitative phase. This cannot be because the qualitative sample is typically much smaller than a quantitative sample needed to generalize from a sample to a population. Sometimes mixed methods researchers will use entirely different samples for the qualitative (first phase) and quantitative components (third phase) of the study. However, a good procedure is to draw both samples from the same population but make sure that the individuals for both samples are not the same. To have individuals help develop an instrument and then to survey them in the quantitative phase would introduce confounding factors into the study.
+
+In this design, the researcher in integrative data analysis begins by analyzing the two databases separately and using the findings from the initial exploratory database to build into a feature for quantitative analysis. Integration in this design involves using the qualitative findings (or results) to inform the design of a quantitative phase of the research such as developing a measurement instrument or new variables.
+
+These procedures mean that the researcher needs to pay careful attention to the qualitative data analysis steps and determine what findings to build on. If, for example, the researcher uses grounded theory (see Chapter 9), the theoretical model generated may provide a model to be tested in the third quantitative phase. A qualitative case study can yield different cases that become the focus of important variables in the second quantitative phase.
+
+The integrated data analysis can be conducted by advancing a joint display and then interpreting the findings from the display. Table 10.4 shows a template for an exploratory sequential design. The first two columns reflect the order of procedures in this design from the qualitative phase to the design phase. In this template, we use the example of designing a survey instrument that would be contextually suited to a particular sample or population. From the qualitative data collection, we can translate the findings into quotes, codes, and themes that inform the survey items, variables, and scales.
+
+Table 10.4 Template for an Exploratory Sequential Design Joint Display (using a survey design as an example)
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/006_10.4135_9781071817988-table22.jpg]
+
+Table 10.4 Template for an Exploratory Sequential Design Joint Display (using a survey design as an example)
+
+Qualitative
+
+Design Features
+
+Metainferences
+
+Qualitative Quotes
+
+Quantitative Survey Items
+
+Analyze the scores on the survey
+
+Qualitative Codes
+
+Quantitative Survey Variables
+
+Identify variables
+
+Qualitative Themes
+
+Quantitative Survey Scales
+
+Identify scales
+
+As shown in the joint display of Table 10.4, we have added a column for metainferences. In this step, researchers look across the qualitative and design features to test the adapted quantitative assessment. In this phase, we learn about how well the adaptation has occurred. For example, is the modified or newly designed survey yielding good results? Will the test show a sensitivity to the sample and population under study? How will the results compare with the existing literature and theories?
+
+Researchers using this strategy need to check for the validity of the qualitative data and the validity of the quantitative scores. However, special validity concerns arise in using this design that need to be anticipated by the proposal or mixed methods report developer. One concern is that the researcher may not use appropriate steps to develop a good psychometric instrument. Creating a good instrument is not easy, and adequate steps need to be conducted. Another concern is that a researcher may develop an instrument or measures that do not take advantage of the richness of the qualitative findings. This occurs when the qualitative data reports open-ended comments on a questionnaire or does not use one of the analytic methods, such as ethnography, grounded theory, or case study procedures. Finally, as previously mentioned, the sample in the qualitative phase should not be included in the quantitative phase because this will introduce undue duplication of responses. It is best to have the sample of qualitative participants provide information for scale, instrument, or variable (or website) design. The same individuals should not complete the follow-up instruments. Therefore this sample strategy differs from the sampling strategy needed for an explanatory sequential design.
+
+Complex Mixed Methods Designs
+
+After working with these three core designs—convergent, explanatory sequential, and exploratory sequential—that are the foundation of good mixed methods research, we have now branched out to incorporate more designs that typically fit complex projects. Importantly, all mixed methods studies have at least one core design or multiple core designs. However, complex designs mean that the core designs are embedded in frameworks or processes larger than simply collecting, analyzing, and integrating quantitative and qualitative data. What to call these designs has been an issue. Are they “advanced” designs (see Plano Clark & Ivankova, 2016), “embedded designs,” or “scaffolded designs?” (Molina-Azorin & Fetters, 2022). Regardless of the name, we saw through our workshops and readings that designs moved beyond the core designs, and we have used the term complex designs. What, then, are these complex designs?
+
+Types of Complex Designs
+
+After using the core designs for several years, we talked with researchers who told us that the core designs did not “fit” their studies well. This opened us to consider other types of designs that better fit the practice of mixed methods research.
+
+Researchers were using mixed methods within experimental procedures or in evaluation studies. Thus, we began formulating an additional set of mixed methods designs beyond the core designs. We called these “complex” designs because mixed methods research became a support within a larger process or framework. Examples of these are experiments or interventions, case studies, participatory-social justice studies, and evaluation projects. These examples represent a starting point, but they do not exhaust the possibilities of using mixed methods in a supportive role (e.g., social network analysis, geographical information systems, critical theory projects). In other words, mixed methods has now become more than a “stand-alone” design.
+
+Development of Complex Designs
+
+Several books informed our development of complex designs. A useful conceptualization emerged in the work of Plano Clark and Ivankova (2016), where they discussed the intersection of mixed methods with other approaches to form “advanced applications” (p. 136). They discussed intersecting mixed methods research with experiments, case studies, evaluations, action research, social network analysis, longitudinal research, Q methodology, phenomenology, grounded theory, social justice, feminism, critical theory, and participatory involvement.
+
+Another step toward complex designs appeared in Nastasi and Hitchcock (2016). Their book presented a longitudinal evaluation of the mental health in Sri Lanka. They suggested that distinct “processes” occur in research in which quantitative and qualitative data might be used in steps in the overall process. They also addressed that complex designs required multiple phases, multiyear projects, substantial funds, multiple research years, and several core designs,
+
+Examples of Complex Designs
+
+We discuss four examples of complex designs and then a general model for embedding the core designs in these processes or frameworks.
+
+The mixed methods experimental (or intervention) design is complex design in which both qualitative and quantitative data contribute to and are embedded within an experimental process. As shown in Figure 10.3, this design adds qualitative data collection into an experiment or intervention at multiple points in the process so that the personal experiences of participants can be included in the research. Thus, the qualitative data becomes supportive of the experimental pretest and posttest data collection. This design requires the researcher to understand experiments and to be able to design them rigorously (e.g., a randomized controlled trial). As shown in Figure 10.3, researchers add the qualitative data to the experiment in different ways: before the experiment begins, during the experiment, or after the experiment (Sandelowski, 1996). By embedding the qualitative data into the quantitative experiment, the researcher has constructed an exploratory design, where the researcher gathers the qualitative data before the experiment begins. By including the qualitative data into the experiment while it is running, the researcher has embedded a convergent core design into the experiment. By following up the experiment with qualitative data, the researcher has embedded an explanatory sequential design into the experiment. The points at which the qualitative data collection and findings connect to the experiment represent the integration in the mixed methods study.
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/007_10.4135_9781071817988-fig16.jpg | An illustration of mixed method intervention design.]
+Description
+Figure 10.3 A Mixed Methods Intervention Design Diagram
+
+Source: Adapted from Sandelowski (1996).
+
+In this design, be explicit about the reasons for adding the qualitative data. We enumerated several important reasons in Figure 10.2. These lists are representative of the examples of mixed methods research we have found in the literature. The qualitative data collection can occur at a single or at multiple points in time depending on the resources available to the researcher. This type of mixed methods use has become popular in the health sciences.
+
+The mixed methods case study design is another type of complex mixed methods design. In this design, the researcher embeds a core design within the larger process of developing case studies for analysis. The core design may be any of the three possibilities: convergent, explanatory sequential, exploratory sequential. As shown in Figure 10.4, the core design is a convergent design, and the process is one of inductively developing cases for description and comparison. We have found two basic variants of this design. One is a deductive approach, where researchers establish the cases at the outset of the study and document the differences in cases through the qualitative and quantitative data. A second is more of an inductive approach (as shown in Figure 10.4), where the researcher collects and analyzes both quantitative and qualitative data and forms cases for comparison. The comparison can be a description of each case followed by discussing the similarities and differences among the cases. Regardless of the approach, the challenge is to identify the cases before the study begins or to generate cases based on the evidence collected. Another challenge is understanding case study research (Stake, 1995; Yin, 2014) and effectively embedding a case study design with mixed methods. The type of core design embedded within this approach can vary, but we can find good illustrations of the design using a convergent design (Shaw et al., 2013).
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/008_10.4135_9781071817988-fig17.jpg | An illustration of case study mixed methods design.]
+Description
+Figure 10.4 A Multiple Case Study Design Diagram
+
+The mixed methods participatory-social justice design is a complex design with the purpose of embedding quantitative and qualitative data within a participatory or social justice framework. A participatory study is one in which participants (e.g., community members) play an active role in collaborating with the researchers. A social justice study also involves collaboration but adds to it the importance of social change and action to improve the lives of individuals. An example of a participatory action mixed methods study is shown in Figure 10.5. As seen in this figure, several steps are involved in the research process, which can involve close collaboration with community members. The research process goes through a needs assessment to diagnosis the community needs, gathering data from community members through reconnaissance, finding a model that would meet the community needs, implementing the model, and evaluating its success. As the process continues, the success of the model requires further evaluation. In any of these steps, the researchers have an opportunity to collect both quantitative and qualitative data. This opens an opportunity for a mixed methods core design, and as shown in Figure 10.4, two core designs embed within the participatory process in the stages of reconnaissance and evaluation.
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/009_10.4135_9781071817988-fig18.jpg | An illustration of the mixed methods participatory action research design.]
+Description
+Figure 10.5 A Mixed Methods Participatory Action Research Design Diagram
+
+The mixed methods evaluation design is a complex design in which quantitative and qualitative data are embedded into an evaluation framework (see Figure 10.6). The intent of this design is to engage in a process of research in which both quantitative and qualitative data and their integration shape one or more of the steps in the process. This approach is typically used in program evaluation where researchers use quantitative and qualitative approaches to support the development, adaptation, and evaluation of programs, experiments, or policies. We often find multiple core designs occurring throughout these projects. For example, in evaluating a program, researchers might begin by gathering qualitative data in a needs assessment. From this assessment, a conceptual model is specified and instruments developed. The program is then implemented and tested. This, in turn, is followed by a follow-up qualitative phase to refine the program. We can see multiple core designs in our example. Moving from the needs assessment to theory conceptualization requires combining qualitative data with a quantitative assessment in a core exploratory sequential design. Also, after implementing and testing the program quantitatively, we see the follow-up qualitative stage or the embedding of an explanatory sequential design.
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/010_10.4135_9781071817988-fig19.jpg | An illustration of the mixed methods evaluation design.]
+Description
+Figure 10.6 A Mixed Methods Evaluation Design Diagram
+
+Incorporating Core Designs Into Complex Designs
+
+In the mixed methods evaluation design example in Figure 10.6, we see that core designs can be embedded within a process of evaluation. This provides important clues on how to embed the core designs within complex procedures such as other designs, theories, or methodologies. It also speaks to how to draw a diagram of the mixed methods procedures. In our thinking, we embed the core designs into more complex procedures using these steps:
+
+Identify the quantitative and qualitative data collection in your study. Refer to whether the data source is closed-ended (quantitative) or open-ended (qualitative).
+
+Draw a diagram of the steps in the complex framework or in the process. These steps (represented by boxes) may be the phases in an experimental design, the generation of cases, or the phases of an evaluation.
+
+Examine the steps (boxes) to identify at what steps in the process you have an opportunity to collect both quantitative and qualitative data. Data collection, you will recall from Chapter 1, represents a core defining characteristic of mixed methods research.
+
+In those boxes where you collect both forms of data, examine the connection between the quantitative and qualitative data. Are they being merged (as in a convergent mixed methods design) or connected (as in an explanatory or exploratory sequential mixed methods design).
+
+Discuss the overall framework or process and the embedded core designs. This may require presenting two diagrams: one for the process and framework and one for the core designs.
+
+Factors Important in Choosing a Mixed Methods Design
+
+The choice of a mixed methods design is based on several factors that relate to the intent of the procedures and practical considerations.
+
+Choice Based on Intent and Procedures
+
+Earlier we discussed the justification for selecting mixed methods research as a methodology. Now, with an understanding of the different mixed methods designs possible, we can create a justification for the selection of a specific mixed methods design. The type of design that best suits a problem or question commonly arises with individuals using mixed methods for the first time.
+
+We can link a rationale for the choice to the type of design. As shown in Table 10.5, the intent of using a design and the procedures for conducting research within it differ for the types of core and complex designs. Looking closely at this table helps one think through the possibilities for using quantitative and qualitative data. Moreover, this table provides terms for formulating a statement about the intent for choosing a specific design. Multiple terms are available to use for the specific designs. Using the terms, researchers can form an integration statement, an important statement to include in all mixed methods projects. This statement can include intent or purpose for the integration and the procedures relating to a specific design. The method section or the introduction to a study can be useful places for this statement to appear in a project. The following statements illustrate examples of such a statement:
+
+Table 10.5 Intent and Procedures of Mixed Methods Designs
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/011_10.4135_9781071817988-table23.jpg]
+
+Table 10.5 Intent and Procedures of Mixed Methods Designs
+
+Mixed Methods Design
+
+Intent or Purpose (of mixing the two databases)
+
+Procedure (for conducting the research)
+
+Convergent Design
+
+Compare, Match, Corroborate (Validate), Expand, Enhance, Diffract, Identify Cases, Initiating, Complete Understanding
+
+Merge (putting the databases side-by-side)
+
+Explanatory Sequential Design
+
+Expand, Explain
+
+Connect (quantitative results connect with qualitative data collection)
+
+Exploratory Sequential Design
+
+Build Upon, Transfer, Generalize
+
+Connect (qualitative results lead to design of quantitative assessment that is then tested)
+
+Complex Mixed Methods Design
+
+Augment (optimize, ascertain needs, monitor)
+
+Add into a process/framework
+
+Qualitative, Quantitative, or
+
+Both Types of Data
+
+Integration involved comparing the results from the quantitative and qualitative data by merging so that a more complete understanding emerges than provided by the quantitative or the qualitative results alone. (convergent design)
+
+Integration involved explaining the results of the initial quantitative phase by connecting or following up the quantitative phase with a qualitative phase. This connecting would include what questions need further probing and what individuals can help best explain the quantitative results. (explanatory sequential design)
+
+Integration involved exploring initially by gathering qualitative data, analyzing it, and using the qualitative results for building a culturally specific measure or instrument for quantitative testing with a large sample. (exploratory sequential design)
+
+When writing the integration statement for a report, the researcher then substitutes for the quantitative and qualitative data specific information used in a study.
+
+Besides writing an integration statement, the following two flowcharts might be helpful in selecting the appropriate type of design. To identify a type of design, Figure 10.7 indicates a series of questions that will help based on design intent. The key factor is whether the intent is to compare the databases or to have one build on another. Figure 10.8 shows the decision points for selecting procedures that match the type of design. For decisions about procedures, a key decision point is whether the procedures will merge the data or connect the data.
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/012_10.4135_9781071817988-fig20.jpg | A flowchart for choosing a design type based on intent.]
+Description
+Figure 10.7 Flowchart for Choosing Your Type of Design (Based on Intent)
+
+Other Reasons for Choosing a Design
+
+In a method section, mention of other reasons for choosing a mixed methods design may exist, such as the popularity of design in a discipline or field, whether the researcher conducts the study by themselves or with a team, and recommendations of design by advisers or mentors.
+
+Popular Designs in a Field or Discipline
+
+On a practical level, the choice of a design depends on the inclination of researchers’ fields toward certain mixed methods designs. For quantitatively oriented fields, the explanatory sequential approach seems to work well because the study begins (and perhaps is driven) by the quantitative phase of the research. In qualitatively oriented fields, the exploratory sequential approach may be appealing because it begins with an exploration using qualitative research. In some fields, the choice of approach depends on collecting data efficiently, and this would argue for a convergent mixed methods study in which quantitative and qualitative data are typically collected at roughly the same time rather than at different times that require more visits to the research site.
+
+[图片: images/016_Chapter 10 Mixed Methods Procedures/013_10.4135_9781071817988-fig21.jpg | A flowchart for choosing a design type based on procedures.]
+Description
+Figure 10.8 Flowchart for Choosing Your Type of Design (Based on Procedures)
+
+The Single Researcher Versus a Team
+
+Another practical reason for a choice of a design depends on whether a single researcher (e.g., graduate student) or a team (e.g., funded long-term investigation) conducts the study. If the investigator is a single researcher, the sequential strategies of an explanatory sequential or exploratory sequential approach are best because the investigation divides into two manageable tasks rather than multiple data collection and analysis procedures. The study can be projected out over time rather than collecting multiple forms of data at the same time as in a convergent approach. When time is a problem, we encourage researchers to think about a convergent design. In this design, both forms of data are gathered at roughly the same time, and it does not require repeated visits to the field to gather data.
+
+Complex designs are well suited for a team of researchers who assist in the multiple phases of the research and for well-funded projects that unfold over several years.
+
+Choice of Design by Advisers or Mentors
+
+Advisers and mentors familiar with mixed methods research may have their choice of an appropriate design. They may have conducted a mixed methods study or used a specific design in other projects. We recommend that students find a published mixed methods journal article that uses their design and introduce it to advisers and faculty committees so that they have a working model to understand the design. Because we are at the early stage of adopting mixed methods research in many fields, a published example of research in a field will help create both legitimacy for mixed methods research and the idea that it is a feasible approach to research for graduate committees or other audiences. If a research team is conducting the study, multiple forms of data collection at the same time or over a long period of time are possible, such as in an embedded complex design. Although a single researcher can conduct a participatory–social justice study, the labor-intensive nature of collecting data in the field involving participants as collaborators typically suggests more of a team approach than the inquiry by a single investigator.
+
+Secondary Reasons for a Choice
+
+Often beginning researchers will consider the timing and priority or importance of the two databases as reasons for a choice of design. We see both as secondary reasons and would redirect energies toward rationales based on intent and procedures. Timing and priority are often vague reasons primarily because the timing of the collection of the two databases can be close in time (i.e., convergent design) or distant (e.g., a sequential design). Likewise, priority of the quantitative or qualitative data introduces the ideas of authority and dominance, ideas we believe are seldom useful in thinking about mixed methods. We see mixed methods research as giving equal legitimacy to both the quantitative and qualitative data. The notation of the quantitative (Quan) and qualitative data (Qual) has been eliminated in this book edition. It is seldom used in mixed methods research today.
+
+Examples of Mixed Methods Procedures
+
+Examples 10.1–10.4 illustrate mixed methods studies that use the convergent and sequential mixed methods designs.
+
+Example 10.1 A Convergent Mixed Methods Design
+
+Classen et al. (2007) studied older driver safety to develop a health promotion intervention based on modifiable factors influencing motor vehicle crashes with older drivers (age 65 and older). It is a good example of a convergent mixed methods study. The abstract identifies the central purpose of the study:
+
+This study provided an explicit socio-ecological view explaining the interrelation of possible causative factors, an integrated summary of these causative factors, and empirical guidelines for developing public health interventions to promote older driver safety. Using a mixed methods approach, we were able to compare and integrate main findings from a national crash dataset with perspectives of stakeholders. (p. 677)
+
+This purpose statement identified the use of both quantitative (i.e., a national crash data set) and qualitative (i.e., stakeholders’ perspectives) data. From one of the research questions in the study, we learned that the authors compared the qualitative stakeholder perspectives, needs, and goals for safe and unsafe driving with the quantitative results of the factors that influenced driving injuries. The expected intent of the study was to compare the findings. The method section commented on the quantitative data, the statistical analysis of this data, and then the qualitative data and its analysis. Although not stated explicitly, the data were used together to form results, not used for one database to build on another, and the timing was to look at both databases concurrently. A diagram illustrated the procedures involved in both collecting and analyzing the information. A results section first reported the quantitative results and then the qualitative results. More emphasis was given to the quantitative results, concluding that this study favored the quantitative research. However, the study compared the quantitative and qualitative results equally to identify supportive and non-supportive findings. Hence, the authors used a convergent design in this study. In the discussion section the researchers merged the two databases in a side-by-side comparison. Looking more broadly at the topic we saw that the authors would better accept the quantitative emphasis because of their field of occupational therapy. Also, the authors’ biographical sketches showed the research was completed by a team of researchers with quantitative and qualitative expertise.
+
+Example 10.2 An Explanatory Sequential Mixed Methods Design
+
+In 2007, Banyard and Williams conducted an explanatory sequential mixed methods study examining how women recover from childhood sexual abuse. It represented a good example of an explanatory sequential design. The quantitative component of the study comprised structured (quantitative) interviews (with 136 girls in 1990 and a subset of 61 girls in 1997) looking at resilience, correlates of resilience, and these factors over time across 7 years of early adulthood. The qualitative aspect comprised follow-up interviews with a subset of 21 girls about their life events, coping, recovery, and resilience. The intent of the mixed methods study was to use the qualitative interviews to “explore and make sense” of the quantitative findings (p. 277). Here is the purpose statement:
+
+Multiple methods are used to examine aspects of resilience and recovery in the lives of female survivors of child sexual abuse (CSA) across 7 years of early adulthood. First quantitative changes in measures of resilience over time were examined. To what extent did women stay the same, increase, or decrease in functioning in a variety of spheres across 7 years during early adulthood? Next, the role of re-traumatization as an impediment to ongoing resilience and correlates of growth or increased well-being over time were examined. Finally, because resilient processes in adulthood have not been the focus of much research and require further description, qualitative data from a subset of participants was used to examine survivors’ own narratives about recovery and healing to learn about key aspects of resilience in women’s own words. (p. 278)
+
+As suggested by this statement, the expected intent of the study was to provide a detailed picture of resilience and the personal perspectives of the survivors as learned through qualitative data. Also, the authors intended to probe the quantitative findings to explain them in more detail through the qualitative data. With this intent, the study set up as a sequential approach with the two databases connected and one building on the other. Also, with this approach, the timing illustrated the qualitative data collection followed by the quantitative results. The project began with a quantitative longitudinal phase with extensive discussions of the measures used to gather data. The authors detailed the quantitative results. However, the qualitative findings illustrated many themes that emerged from the interviews with the women. These themes pointed toward new issues that helped develop the concept of resilience, such as the turning points in the women’s lives, the ongoing nature of recovery, and the role of spirituality in recovery. The study was conducted by a team of researchers from psychology and criminal justice and supported by the National Institutes of Health (NIH).
+
+Example 10.3 An Exploratory SequentialMixed Methods Design
+
+A good example of an exploratory sequential study with an experimental test outcome is found in Betancourt et al. (2011). This study used mixed methods research to adapt and evaluate a family-strengthening intervention in Rwanda. The investigators sought to examine the mental health problems facing HIV-affected children in Rwanda. They first began with an exploratory, qualitative first phase of interviews with children and caregivers. From a qualitative thematic analysis of the data, they then performed an extensive review of the literature to locate standardized measures that matched their qualitative findings. They found some measures and added new ones to develop a survey instrument. This instrument went through several refinements following rigorous procedures of instrument-scale development (e.g., backward and forward translations, a discussion of items, reliability and validity) to develop good construct validity for the measures. These measures (e.g., family communication, good parenting, and others) then became the pretest and posttest assessments in an experimental (intervention) study. For the study’s intervention, the researchers used a strengths-based, family-based prevention program related to the measures. The final step in the mixed methods process was to use the validated measures within a program that featured the prevention program. At various points in this study, the researchers also collaborated with stakeholders to help develop good measures.
+
+Thus, this study illustrated a good, complex mixed methods project with an initial qualitative phase, an instrument development phase, and an experimental phase. It showed how an initial exploration qualitatively can be used to support a later quantitative testing phase. They stated the purpose of the study as follows:
+
+In the multi-step process used in this mental health services research, we aimed to (1) carefully unpack locally-relevant indicators of mental health problems and protective resources using qualitative methods; (2) apply qualitative findings to the adaptation of mental health measures and the development of a locally-informed intervention; (3) validate the selected mental health measures; and (4) apply the measures to rigorous evaluation research on the effectiveness of the intervention chosen through the mixed methods process. (p. 34)
+
+In this mixed methods study, the expected intent was to develop good psychometric measures and then to use the measures as outcomes in an experimental project. It was also to use the qualitative data to develop hypotheses to test using the intervention in the experiment. The initial phase of qualitative data collection was connected to the subsequent quantitative measures and their rigorous testing for scores on validity and reliability. The entire project was timed for the quantitative phase to follow the qualitative phase, and the quantitative phase could be stated as the development of the measures (and survey) and the experimental intervention study. The emphasis in the project favored quantitative research, and the project pointed toward the program intervention test at the end of the article. Recognizing that the researchers came from public health, an organization called Partners in Health, and a children’s hospital, the strong quantitative orientation of the project makes sense. Overall, this mixed methods study illustrated the core exploratory sequential design and the more complex embedded experimental design with a sequential focus. With this type of complex project, understandably the study involved a team of researchers in the United States and in Rwanda.
+
+Example 10.4 A Social Justice Design
+
+The final example is a feminist study using a mixed methods social justice explanatory sequential design by Hodgkin (2008). This study investigated the concept of social capital for men and women in households in a regional city in Australia. Social capital described norms and networks that enabled people to work collectively to address and resolve common problems (e.g., through social activities, the community, and civic participation). The basic mixed methods approach was an explanatory sequential design with an initial survey and a quantitative phase followed by a qualitative interview phase. As stated by the author, “The qualitative study elaborated on and enhanced some of the results from the quantitative study” (p. 301). In addition, the author declared that this was a feminist mixed methods project. This meant that Hodgkin used a feminist framework (see Chapter 3) to encase the entire mixed methods project. She also referred to Merten’s (2007) transformative research paradigm, which gave voice to women, used a range of data collection methods, and bridged the subjective and objective ways of knowing (see the epistemology discussion in Chapter 1). The purpose of the study was:
+
+The author will provide examples of quantitative data to demonstrate the existence of different social capital profiles for men and women. Stories will also be presented to provide a picture of gender inequality and expectation. The author will conclude by arguing that despite reluctance on the part of feminists to embrace quantitative methods, the big picture accompanied by the personal story can bring both depth and texture to a study. (p. 297)
+
+Thus, in this mixed methods study, the expected intent for the study was to help explain the initial survey results in more depth with qualitative interview data. In addition, the transformative perspective sought to provide a picture of gender inequality and expectations. The databases were used sequentially, with the qualitative interviews following and expanding on the quantitative surveys. The researcher sent the surveys to both men and women in households (N = 1431); the interviews included only women in the survey sample (N = 12). The women interviewed were of different ages, mothers, varied in terms of their work activities (inside and outside the home), and in their educational level of attainment. The timing of the data collection was in two phases with the second-phase qualitative interviews building on the results from the first-phase quantitative surveys. In fact, the survey data indicated that men and women differed in terms of their level of social participation in groups, and in community group participation. The emphasis in this study seemed to be equal between the quantitative and qualitative components, and clearly the sole author of the study sought to provide a good example of mixed methods research using a feminist framework.
+
+How was this framework used? The author announced at the beginning of the study that “the aim of this article is to demonstrate the use of mixed methods in feminist research” (p. 296). The author then discussed the lack of qualitative research in the empirical studies of social capital and noted the White, middle-class notion of community that dominated the discussions of social capital. Further, the author talked about lifting the voices of those disenfranchised by gender.
+
+The study first pointed out gender differences in social, community, and civic participation within a large sample of men and women. After this, the study focused on a qualitative follow-up only with women to understand their role in more depth. The qualitative findings then addressed themes that influenced women’s participation, such as wanting to be a “good mother,” wanting to avoid isolation, and wanting to be a good citizen. A summary of the qualitative findings indicated specifically how the qualitative data helped enhance the findings of the initial survey results. Unlike many feminist mixed methods studies, the conclusion did not indicate a strong call for action to change the inequality. It only mentioned in passing how the mixed methods study provided a powerful voice to gender inequality.
+
+Summary
+
+In designing the procedures for a mixed methods discussion, begin by defining mixed methods research, and state its core characteristics. Briefly mention its historical evolution to convey to readers and committee members the importance of this approach to research. Justify the reasons for your choice of using mixed methods as a methodology. Define key terms used in this form of research because, like all methodologies, researchers use terms unique to the methodology that may not be familiar to the general research community.
+
+Recognize that mixed methods research centers on collecting both quantitative (closed-ended) and qualitative (open-ended) data. Next identify your choice of a mixed methods design, recognizing that designs differ in terms of intent for collecting both forms of data (i.e., comparing, building, or augmenting) and the procedures (i.e., merging, connecting, or embedding). Define the basic characteristics of the design, and present a figure (or diagram) of the design. Draft a joint display template that fits your design, and indicate that you will add data into the table after collecting and analyzing the data. Indicate potential metainferences that might result from conducting your study. Mention the types of validity issues that will likely arise in using the design. Use the flowcharts in this chapter on intent and procedures to identify your design. Include a statement about integration in your study. Finally, after writing your mixed methods procedures, use the checklist at the beginning of the chapter to assess the inclusion of key components of this methodology.
+
+Key Terms
+
+Closed-ended data 232
+
+Complex designs 233
+
+Core designs 233
+
+Data transformation 238
+
+Integration 233
+
+Integration statement 251
+
+Joint display 233
+
+Metainferences 234
+
+Mixed methods case study design 246
+
+Mixed methods evaluation design 248
+
+Mixed methods experimental (or intervention) design 245
+
+Mixed methods participatory-social justice design 247
+
+Open-ended data 232
+
+Writing Exercises
+
+Identify the differences among a convergent, an explanatory sequential, and an exploratory sequential core design.
+
+Chose a design for your study—a core or complex design—and provide reasons for your choice.
+
+After choosing a design for your study, draw a simple diagram of the design.
+
+Draft a statement about the integration in your study, mentioning both the intent and the procedures of integration.
+
+Additional Readings
+
+Creswell, J. W., & Plano Clark, V. L. (2018). Designing and conducting mixed methods research (3rd ed.). SAGE.
+
+It can be useful to view a recent typology of types of designs. John Creswell and Vicki Plano Clark provide two chapters on mixed methods research designs. Chapter 3 discusses the three core mixed methods designs: convergent mixed methods designs, explanatory sequential mixed methods designs, and exploratory sequential mixed methods designs. Chapter 4 advances examples of four complex designs: mixed methods intervention designs, mixed methods case study designs, mixed methods participatory–social justice designs, and mixed methods evaluation designs. The authors provide examples and diagrams of each type of design and detail important characteristics such as their integrative features.
+
+Creswell, J. W. (2022). A concise introduction to mixed methods research (2nd ed.). SAGE.
+
+For individuals new to mixed methods research, this book is an introductory text. Researchers with English proficiency can read the book in 2–3 hours. The author based the chapters on his lectures at Harvard University in 2014, and it covers the basic components in designing and conducting a mixed methods project.
+
+Greene, J. C., Caracelli, V. J., & Graham, W. F. (1989). Toward a conceptual framework for mixed-method evaluation designs. Educational Evaluation and Policy Analysis, 11(3), 255– 274.
+
+Reading an early study of the purposes and types of mixed methods designs can show how far the field of mixed methods has evolved. Jennifer Greene and colleagues undertook a study of 57 mixed methods evaluation studies reported from 1980 to 1988. From this analysis, they developed five different mixed methods purposes and seven design characteristics. They found the purposes of mixed methods studies to be based on seeking convergence (triangulation), examining different facets of a phenomenon (complementarity), using the methods sequentially (development), discovering paradox and fresh perspectives (initiation), and adding breadth and scope to a project (expansion). They also found that the studies varied in terms of the assumptions, strengths, and limitations of the method and whether they addressed different phenomena or the same phenomena. The studies were also implemented within the same or different paradigms and were given equal or different weights in the study. Further, the studies were implemented independently, concurrently, or sequentially. Using the purposes and the design characteristics, the authors recommended several mixed methods designs.
+
+Tashakkori, A., & Teddlie, C. (Eds.). (2010). SAGE handbook of mixed methods in social & behavioral research (2nd ed.). SAGE.
+
+The field of mixed methods became established in the first edition of this handbook. Now it is available in a second edition. This handbook, edited by Abbas Tashakkori and Charles Teddlie, represents a major effort to map the field of mixed methods research. The chapters introduce mixed methods, illustrate methodological and analytic issues in its use, identify applications in the social and human sciences, and plot future directions. For example, separate chapters illustrate the use of mixed methods research in the fields of evaluation, management and organization, health sciences, nursing, psychology, sociology, and education.
+
+Descriptions of Images and Figures
+
+Back to Figure
+
+There are six nested circles. The labels in the circle, from inside to outside, are as follows:
+
+Collects two types of data to study the problem or questions
+
+Connects the two types of data
+
+Uses procedures to connect the data
+
+Analyzes the connection
+
+Draws conclusions, insight, and interpretation
+
+Frames with worldviews and theories
+
+Back to Figure
+
+The three types of designs and their structure are as follows:
+
+Convergent design or one-phase design: The structure is as follows.
+
+Phase 1: Quantitative data collection and analysis and qualitative data collection and analysis
+
+Merge results
+
+Interpret results to compare
+
+Explanatory sequential design or two-phase design: The structure is as follows.
+
+Phase 1: Quantitative data collection and analysis
+
+Identify results for follow-up
+
+Phase 2: Qualitative data collection and analysis
+
+Interpret results—How qualitative explains quantitative
+
+Exploratory sequential design or three-phase design: The structure is as follows.
+
+Phase 1: Qualitative data collection and analysis
+
+Phase 2: Identify feature for testing, for example, new instrument, new experimental activities, and new variable
+
+Phase 3: Quantitatively test the feature designed
+
+Interpret results—How test improves the results
+
+Back to Figure
+
+There are three types of qualitative interviews.
+
+Qualitative interviews before experiment or exploratory sequential design:
+
+Recruit participants
+
+Develop workable interventions
+
+Develop good pre- and post-test measures
+
+Qualitative interviews during experiment or convergent design:
+
+Examine participants’ experiences
+
+Modify treatment
+
+Qualitative interviews after experiment or explanatory sequential design:
+
+Explain outcomes
+
+Modify experiment
+
+The qualitative interviews before and during experiment lead to an experiment with an intervention and pre- and post-test measures, which in turn leads to qualitative interviews after experiment.
+
+Back to Figure
+
+Quantitative survey leads to quantitative data analysis, which in turn leads to interpretation. Qualitative interviews lead to qualitative data analysis, which in turn leads to interpretation. Then, merge results and decide on criteria for case selection. There are three case description or themes, numbered 1, 2, and 3. These lead to cross-case comparisons and interpretation.
+
+Back to Figure
+
+Mixed methods core design and diagnosing the community lead to reconnaissance data gathering quantitative and qualitative data from community members, which in turn lead to planning and choosing a tailored model. Mixed methods core design, and monitoring, implementing, and improving lead to evaluating, collecting, and analyzing quantitative and qualitative data, which in turn lead to acting and implementing a new model. Monitoring, implementing, and improving also lead to diagnosing the community. Planning and choosing a tailored model also lead to acting and implementing a new model.
+
+Back to Figure
+
+There are five stages as follows:
+
+Needs assessment. Qualitative stages are interviews, observations, and documents.
+
+Theory conceptualization specific to setting. A quantitative stage is literature review stage.
+
+Instrument and measures development. A quantitative stage is measures and instruments.
+
+Program implementation test. A quantitative stage is experimental intervention based on quantitative measures.
+
+Program follow-up and refinement. Qualitative stages are interviews, observations, and documents.
+
+Stage 1 and integration lead to stage 2. Integration: Building from qualitative assessment to theory. Stages 1 and 2 correspond to exploratory sequential design.
+
+Stage 4 and integration lead to stage 5. Integration: Explaining quantitative results with qualitative data. This integration corresponds to explanatory sequential design.
+
+Back to Figure
+
+The chart flows as follows.
+
+Collecting both quantitative and qualitative data? If no, you do not have a mixed methods study.
+
+If yes, will you compare the databases or have one build on the other? If no, you do not have integration.
+
+If yes, compare the data? If yes, convergent design.
+
+Build from one database to the other data? Yes.
+
+Build from qualitative to quantitative? Exploratory sequential design.
+
+Build from quantitative to qualitative? Explanatory sequential design.
+
+Do you plan to augment a framework or process with mixed methods core designs? If yes, what is the process or framework? Intervention? Case study? Participatory study? Evaluation? Other? What core designs will be embedded and how?
+
+If no, core design.
+
+Back to Figure
+
+The chart flows as follows.
+
+Collecting both quantitative and qualitative data? If no, you do not have a mixed methods study.
+
+If yes, will you merge the data or connect the data? If no, you do not have integration.
+
+If yes, merging the data? If yes, convergent design.
+
+Connecting the data? Yes.
+
+Qualitative first? Exploratory sequential design.
+
+Quantitative first? Explanatory sequential design.
+
+Do you plan to embed the core designs within a larger process or framework? If yes, what is the framework or process? Intervention? Case study? Participatory study? Evaluation? Other? What core designs will be embedded and how?
+
+If no, core design.
