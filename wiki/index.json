@@ -3298,6 +3298,18 @@
     ]
   },
   {
+    "title": "Data Transformation in Mixed Methods",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Data Transformation in Mixed Methods.md",
+    "aliases": [
+      "混合方法中的数据转换",
+      "数据转换",
+      "data transformation",
+      "quantitizing",
+      "质性数据量化"
+    ]
+  },
+  {
     "title": "Deficiencies in Past Literature",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Deficiencies in Past Literature.md",
@@ -3513,6 +3525,31 @@
     ]
   },
   {
+    "title": "Integration in Mixed Methods",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Integration in Mixed Methods.md",
+    "aliases": [
+      "混合方法中的整合",
+      "整合",
+      "integration",
+      "mixed methods integration",
+      "data integration in mixed methods",
+      "混合方法整合",
+      "数据整合"
+    ]
+  },
+  {
+    "title": "Integration Statement",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Integration Statement.md",
+    "aliases": [
+      "整合陈述",
+      "integration statement",
+      "混合方法整合陈述",
+      "intent statement for mixed methods"
+    ]
+  },
+  {
     "title": "Inter-Rater Reliability",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Inter-Rater Reliability.md",
@@ -3629,6 +3666,18 @@
     ]
   },
   {
+    "title": "Metainferences",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Metainferences.md",
+    "aliases": [
+      "元推论",
+      "metainference",
+      "meta-inferences",
+      "元推断",
+      "整合推论"
+    ]
+  },
+  {
     "title": "Methodological Globalism",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Methodological Globalism.md",
@@ -3707,6 +3756,19 @@
       "虚无假设",
       "无差异假设",
       "null hypotheses"
+    ]
+  },
+  {
+    "title": "Open-Ended and Closed-Ended Data",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Open-Ended and Closed-Ended Data.md",
+    "aliases": [
+      "开放式数据与封闭式数据",
+      "开放式数据",
+      "封闭式数据",
+      "open-ended data",
+      "closed-ended data",
+      "开放数据与封闭数据"
     ]
   },
   {
@@ -3956,7 +4018,6 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Saturation.md",
     "aliases": [
-      "饱和",
       "数据饱和",
       "theoretical saturation",
       "data saturation"
@@ -4134,7 +4195,6 @@
     "path": "wiki/concepts/research-methodology/Winnowing.md",
     "aliases": [
       "数据筛选",
-      "数据缩减",
       "data reduction qualitative",
       "winnow the data"
     ]
@@ -5159,6 +5219,51 @@
       "Complex Mixed Methods Design",
       "advanced mixed methods design",
       "embedded mixed methods design"
+    ]
+  },
+  {
+    "title": "Mixed Methods Case Study Design",
+    "type": "method",
+    "path": "wiki/methods/mixed/Mixed Methods Case Study Design.md",
+    "aliases": [
+      "混合方法案例研究设计",
+      "mixed methods case study design",
+      "embedded case study mixed methods"
+    ]
+  },
+  {
+    "title": "Mixed Methods Evaluation Design",
+    "type": "method",
+    "path": "wiki/methods/mixed/Mixed Methods Evaluation Design.md",
+    "aliases": [
+      "混合方法评价设计",
+      "mixed methods evaluation design",
+      "embedded evaluation mixed methods",
+      "混合方法评估设计"
+    ]
+  },
+  {
+    "title": "Mixed Methods Experimental Design",
+    "type": "method",
+    "path": "wiki/methods/mixed/Mixed Methods Experimental Design.md",
+    "aliases": [
+      "混合方法实验设计",
+      "混合方法干预设计",
+      "mixed methods intervention design",
+      "mixed methods experimental design",
+      "embedded experimental mixed methods"
+    ]
+  },
+  {
+    "title": "Mixed Methods Participatory-Social Justice Design",
+    "type": "method",
+    "path": "wiki/methods/mixed/Mixed Methods Participatory-Social Justice Design.md",
+    "aliases": [
+      "混合方法参与式社会正义设计",
+      "mixed methods participatory-social justice design",
+      "mixed methods social justice design",
+      "mixed methods participatory action research",
+      "混合方法参与式行动研究"
     ]
   },
   {
@@ -8834,6 +8939,11 @@
     "title": "Argument_Creswell_2022_SAGE",
     "type": "argument",
     "path": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
+  },
+  {
+    "title": "Argument_Creswell_Creswell_2023_SAGE",
+    "type": "argument",
+    "path": "wiki/arguments/books/Creswell_Creswell_2023_SAGE/Argument_Creswell_Creswell_2023_SAGE.md"
   },
   {
     "title": "Argument_Boccanfuso_Hall_2025_Alignment",

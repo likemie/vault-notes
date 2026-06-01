@@ -11,9 +11,9 @@ extracted_to:
   - "[[Covariate Adjustment]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Rasch Measurement]]"
   - "[[John Hattie]]"
   - "[[Jacob Cohen]]"
+  - "[[Rasch Measurement]]"
 processed_date: 2026-05-05
 ---
 

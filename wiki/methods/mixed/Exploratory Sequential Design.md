@@ -11,19 +11,29 @@ tags:
   - method/mixed-methods
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Purpose Statement]]"
   - "[[Variable]]"
+  - "[[Integration in Mixed Methods]]"
+  - "[[Metainferences]]"
+  - "[[Purpose Statement]]"
+  - "[[Construct Validity in Quantitative Measurement]]"
 related_theories: []
 related_methods:
   - "[[Mixed Method and Multi-method Research]]"
   - "[[In-depth Interview]]"
-  - "[[Convergent Design]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Quantitative Research]]"
+  - "[[Joint Display]]"
   - "[[Explanatory Sequential Design]]"
+  - "[[Convergent Design]]"
+  - "[[Ethnography]]"
+  - "[[Grounded Theory]]"
+  - "[[Qualitative Interview]]"
 related_persons: []
 related_facts: []
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
+  - "[[Creswell_Creswell_2023_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -57,6 +67,23 @@ updated: 2026-05-31
 
 > [!note] 中间阶段的桥梁作用
 > 工具开发阶段是探索性序列设计区别于其他设计的关键。它要求研究者具备将质性主题转化为量化条目的能力——这是一种从"文字世界"到"数字世界"的翻译。翻译的质量决定了整个设计的成败。
+>
+> 将质性分析转化为工具开发的具体步骤（Creswell & Creswell, 2023, p.242）：
+> - **质性引用（Quotes）** → 用于撰写问卷条目（Survey Items）
+> - **[[Coding in Qualitative Research|质性编码]]（Codes）** → 用于开发[[Variable|变量]]（Variables），将相关条目分组
+> - **质性主题（Themes）** → 用于开发量表（Scales），将相关编码归入更高维度
+>
+> 除此之外，研究者还可以利用质性数据开发文献中尚不存在的新变量、修改现有工具中的量表类型，或形成可在后续量化阶段进一步探索的信息类别。
+
+> [!note] 整合与联合展示
+> 探索性序列设计的[[Integration in Mixed Methods|整合]]分析从分别分析两个数据库开始，使用初始探索数据库的发现来构建量化阶段的分析特征。整合体现在质性发现（或结果）用于指导[[Quantitative Research|量化研究]]阶段的设计（如开发测量工具或新变量）（Creswell & Creswell, 2023, p.242）。
+>
+> [[Joint Display|联合展示]]的前两列反映该设计的程序顺序：质性阶段（引用、编码、主题）→ 设计特征（调查条目、变量、量表）。第三列为[[Metainferences|元推论]]，研究者检视质性发现与设计特征之间的对应关系：修改或新设计的调查是否产生了良好结果？检验是否对目标样本和人群表现出敏感性？结果与已有文献和理论的比较如何？
+>
+> > [!example]- 表10.4：探索性序列设计联合展示模板（以调查开发为例）
+> > ![](https://img.mylikemie.icu/books/Creswell_Creswell_2023_SAGE/figures/Table_10-4_Exploratory_Sequential_Design_Joint_Display_Template.jpg)
+>
+> **样本策略**（Creswell & Creswell, 2023, pp.242–243）：质性阶段的样本不应包含在量化阶段中——让同一批人既帮助开发工具又完成后续调查，会引入混淆因素。可以两个阶段从同一总体中分别抽取不同个体。这与[[Explanatory Sequential Design|解释性序列设计]]的样本策略（质性样本是量化样本的子集）正好相反。
 
 ## 目的陈述脚本
 
@@ -86,6 +113,15 @@ updated: 2026-05-31
 > - **成果发表挑战**：三阶段在期刊论文篇幅限制下难以完整呈现，研究者常被要求在单一论文中压缩多个阶段的内容。
 > - **小样本推广**：第一阶段的小样本（质性探索）深度充分但代表性有限，第三阶段的大样本检验如果未能支持第一阶段的发现，可能陷入"发现—检验"断裂。
 
+## 效度威胁
+
+> [!warning]
+> 在使用探索性序列设计时，除了分别检查质性数据的效度和量化得分的效度之外，还需要注意以下特有威胁（Creswell & Creswell, 2023, pp.243–244）：
+>
+> - **未遵循良好的心理测量学开发步骤**：创建好的工具并不容易（如需要条目区分度、[[Construct Validity in Quantitative Measurement|构念效度]]、信度估计等），研究者需要遵循 DeVellis (2017) 等工具开发指南。
+> - **开发出的工具未能充分利用质性发现的丰富性**：当质性数据仅报告了开放式问卷评论，或未使用[[Ethnography|民族志]]、[[Grounded Theory|扎根理论]]、案例研究等分析方法时，质性阶段的发现可能过于单薄，无法支撑有意义的工具开发。
+> - **质性样本被纳入量化阶段**：质性阶段的参与者不应完成后续的调查工具——让同一群人既帮助开发工具又受测，会引入混淆因素。这与[[Explanatory Sequential Design|解释性序列设计]]的样本策略相反，后者要求质性样本是量化样本的子集。
+
 ## 方法变体与相近方法
 
 > [!tip]
@@ -96,8 +132,9 @@ updated: 2026-05-31
 ## 使用此方法的研究
 
 > [!example]
-> - Enosh et al. (2015) — 首先通过质性访谈探索社会工作者遭受客户暴力的经历，基于质性发现开发了客户暴力问卷（CVQ），随后通过两种不同的调查程序应用和检验该工具（Creswell & Creswell, 2022, pp.138–139）。
+> - Enosh et al. (2015) — 首先通过[[Qualitative Interview|质性访谈]]探索社会工作者遭受客户暴力的经历，基于质性发现开发了客户暴力问卷（CVQ），随后通过两种不同的调查程序应用和检验该工具（Creswell & Creswell, 2022, pp.138–139）。
 
 ## 来源
 
 - [[Creswell_2022_SAGE]]
+- [[Creswell_Creswell_2023_SAGE]]

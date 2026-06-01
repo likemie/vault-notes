@@ -63,11 +63,6 @@ extracted_to:
   - "[[Variable]]"
   - "[[Voice, Tense, and Concision in Academic Writing]]"
   - "[[Writing Habit]]"
-  - "[[Convergent Design]]"
-  - "[[Explanatory Sequential Design]]"
-  - "[[Exploratory Sequential Design]]"
-  - "[[Joint Display]]"
-  - "[[Mixed Method and Multi-method Research]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Narrative Research]]"
@@ -112,6 +107,11 @@ extracted_to:
   - "[[Qualitative Documents]]"
   - "[[Qualitative Interview]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Convergent Design]]"
+  - "[[Explanatory Sequential Design]]"
+  - "[[Exploratory Sequential Design]]"
+  - "[[Joint Display]]"
+  - "[[Mixed Method and Multi-method Research]]"
 processed_date: 2026-05-30
 ---
 

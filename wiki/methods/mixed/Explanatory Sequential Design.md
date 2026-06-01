@@ -12,13 +12,17 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Descriptive Analysis]]"
+  - "[[Integration in Mixed Methods]]"
+  - "[[Metainferences]]"
   - "[[Purpose Statement]]"
   - "[[Research Question]]"
 related_theories: []
 related_methods:
   - "[[Mixed Method and Multi-method Research]]"
-  - "[[Quantitative Research]]"
+  - "[[Purposeful Sampling]]"
+  - "[[Joint Display]]"
   - "[[Convergent Design]]"
+  - "[[Quantitative Research]]"
   - "[[Exploratory Sequential Design]]"
   - "[[Case Study]]"
 related_persons: []
@@ -26,6 +30,7 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
+  - "[[Creswell_Creswell_2023_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -52,11 +57,21 @@ updated: 2026-05-31
 
 1. **第一量化阶段**：使用量化工具（如调查问卷）从较大样本收集数据，检验理论预测的[[Variable|变量]]关系。分析产出包括[[Descriptive Analysis|描述统计]]、相关关系、群体比较或回归模型等量化结果。
 2. **中间过渡阶段**：识别量化结果中需要质性深入解释的关键发现——可能是令人意外的统计结果、需要情境解释的相关关系、不同群体间的显著差异等。
-3. **第二质性阶段**：基于量化阶段的关键发现，有目的地选择质性参与者（purposeful sampling for follow-up），通过访谈、焦点小组或案例分析收集数据，探索量化结果背后的过程、机制和参与者经验。
-4. **整合解释**：将质性解释与量化结果对接，形成"量化模式 + 质性机制"的完整解释链。
+3. **第二质性阶段**：基于量化阶段的关键发现，有目的地选择质性参与者（[[Purposeful Sampling]] for follow-up），通过访谈、焦点小组或案例分析收集数据，探索量化结果背后的过程、机制和参与者经验。
+4. **[[Integration in Mixed Methods|整合]]解释**：将质性解释与量化结果对接，形成"量化模式 + 质性机制"的完整解释链。
 
 > [!note] 两个阶段的关系
 > 量化阶段为质性阶段提供方向和聚焦点——质性阶段不是从零开始探索，而是带着量化阶段的具体问题去深入理解。质性参与者的选择也由量化结果驱动（如选择量化结果中表现出"极端""典型"或"意外"特征的个体）。
+
+> [!note] 整合分析与联合展示
+> 整合分析从分别分析两个阶段的数据开始，然后通过[[Joint Display|联合展示]]将量化结果与质性后续主题并列（Creswell & Creswell, 2023, pp.240–241）。联合展示从左到右依次为：量化得分 → 质性后续主题 → [[Metainferences|元推论]]。这种排列方式反映了该设计的程序顺序——量化在先，质性在后，质性解释量化。
+>
+> 解释性序列设计的元推论不同于[[Convergent Design|聚敛式设计]]中的确认或一致判断，而是代表对量化结果的**延伸和细化**——质性主题如何解释了某一得分水平的成因或机制。元推论还可能帮助构建未来更好的量化评估工具。研究者最终将元推论与已有文献和理论进行比较。
+>
+> > [!example]- 表10.3：解释性序列设计联合展示模板
+> > ![](https://img.mylikemie.icu/books/Creswell_Creswell_2023_SAGE/figures/Table_10-3_Explanatory_Sequential_Design_Joint_Display_Template.jpg)
+>
+> 在完整报告两个阶段后，不建议再将质性结果与量化结果做额外比较，因为质性阶段的样本是量化样本的子集，比较会因样本重叠而产生问题。
 
 ## 目的陈述脚本
 
@@ -83,7 +98,16 @@ updated: 2026-05-31
 > [!warning]
 > - **时间依赖**：两个阶段必须依次进行，量化阶段完全完成后才能设计和启动质性阶段，总体研究周期较长。
 > - **参与者筛选**：质性阶段的参与者需要从量化阶段的样本中有目的地选择，如果量化阶段参与者的质性参与意愿低，可能出现样本损耗。
-> - **整合难度**：如果量化阶段没有产生需要质性解释的明确发现，质性阶段可能缺乏明确的聚焦方向。
+> - **[[Integration in Mixed Methods|整合]]难度**：如果量化阶段没有产生需要质性解释的明确发现，质性阶段可能缺乏明确的聚焦方向。
+
+## 效度威胁
+
+> [!warning]
+> 在使用解释性序列设计时，除了分别建立量化分数的效度和质性发现的可信度之外，还存在以下特有的效度关注点（Creswell & Creswell, 2023, pp.241–242）：
+>
+> - **未穷尽量化结果中值得跟进的所有选项**：在选定一个跟进方向之前，研究者应考虑量化结果中所有值得质性深入解释的发现（如意外结果、显著差异、异常值、人口学[[Variable|变量]]差异等），而非仅盯住一个维度。
+> - **仅关注人口学变量而忽略重要解释**：量化阶段可能揭示出需要进一步理解的机制性解释（如因果机制、中介过程），如果只根据人口学变量选择质性参与者，可能错过更有理论价值的跟进方向。
+> - **两个阶段使用不同样本**：质性阶段的参与者应当来自量化阶段的样本内部。用不同的样本来"解释"量化结果，会削弱两个阶段之间的逻辑关联。
 
 ## 方法变体与相近方法
 
@@ -112,10 +136,11 @@ updated: 2026-05-31
 > | 质性语言 | "explore in more depth""case study analysis" |
 > | 第一量化阶段 | 278 名学生调查；五类预测变量（项目、导师-教师、机构、学生、外部因素） |
 > | 第二质性阶段 | 四个不同参与者群体的案例研究，深入探索统计检验结果 |
-> | 整合洞见 | 用案例研究解释统计结果——质性数据为量化发现提供机制性阐释 |
+> | [[Integration in Mixed Methods\|整合]]洞见 | 用案例研究解释统计结果——质性数据为量化发现提供机制性阐释 |
 >
 > Creswell & Creswell (2022, pp.137–138) 指出该陈述位于引言最后一段，以总体意图开始，依次呈现两个阶段，最后以整合理由收束，完整体现了[[Mixed Method and Multi-method Research|混合方法]]目的陈述的所有组件。
 
 ## 来源
 
 - [[Creswell_2022_SAGE]]
+- [[Creswell_Creswell_2023_SAGE]]
