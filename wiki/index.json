@@ -3125,6 +3125,16 @@
     ]
   },
   {
+    "title": "Analytic Framework",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Analytic Framework.md",
+    "aliases": [
+      "分析框架",
+      "analytic tradition",
+      "analytic frameworks in qualitative research"
+    ]
+  },
+  {
     "title": "APA Style",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/APA Style.md",
@@ -3134,6 +3144,15 @@
       "Publication Manual of the APA",
       "APA 7th edition",
       "APA第七版"
+    ]
+  },
+  {
+    "title": "Backyard Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Backyard Research.md",
+    "aliases": [
+      "后院研究",
+      "backyard research"
     ]
   },
   {
@@ -3417,6 +3436,16 @@
       "实验者效应",
       "experimenter expectancy effect",
       "Rosenthal effect"
+    ]
+  },
+  {
+    "title": "External Auditor",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/External Auditor.md",
+    "aliases": [
+      "外部审计",
+      "外部审计者",
+      "external audit in qualitative research"
     ]
   },
   {
@@ -3884,6 +3913,16 @@
     ]
   },
   {
+    "title": "Researcher as Key Instrument",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Researcher as Key Instrument.md",
+    "aliases": [
+      "研究者作为关键工具",
+      "研究者即工具",
+      "researcher as instrument"
+    ]
+  },
+  {
     "title": "Researcher Degrees of Freedom",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Researcher Degrees of Freedom.md",
@@ -3936,6 +3975,16 @@
     ]
   },
   {
+    "title": "Simultaneous Procedures",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Simultaneous Procedures.md",
+    "aliases": [
+      "同时性程序",
+      "同步数据收集与分析",
+      "simultaneous data collection and analysis"
+    ]
+  },
+  {
     "title": "Social Justice Theory",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Social Justice Theory.md",
@@ -3971,6 +4020,16 @@
     "path": "wiki/concepts/research-methodology/Statistical Significance.md",
     "aliases": [
       "统计显著性"
+    ]
+  },
+  {
+    "title": "Story Line",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Story Line.md",
+    "aliases": [
+      "故事线",
+      "storyline",
+      "story line interpretation"
     ]
   },
   {
@@ -5121,6 +5180,18 @@
       "档案通信分析",
       "历史通信分析",
       "档案研究"
+    ]
+  },
+  {
+    "title": "Audiovisual, Social Media, and Digital Materials",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Audiovisual, Social Media, and Digital Materials.md",
+    "aliases": [
+      "视听社交媒体和数字材料",
+      "视听材料",
+      "audiovisual materials",
+      "digital materials in qualitative research",
+      "质性视听数据"
     ]
   },
   {
