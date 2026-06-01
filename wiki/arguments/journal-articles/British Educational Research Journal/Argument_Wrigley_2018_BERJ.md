@@ -54,7 +54,8 @@ updated: '2026-05-18'
 > [!info] 研究问题
 > 本文追问当"证据"被简化为 [[Randomised Controlled Trials|RCT]] 和统计平均时，在**三个方法论层级**分别产生了哪些技术缺陷、哲学困境和意识形态后果？每一级聚合如何进一步放大前一级的失真？
 >
-> > "When 'evidence' is reduced to a mean [[Effect Size]], the individual person or event is shut out, complexity is lost and values are erased." (p. 2)
+> > “当‘证据’被简化为一个平均[[Effect Size|效应量]]时，个体或事件被拒之门外，复杂性消失了，价值观也被抹去了。”
+> ("When 'evidence' is reduced to a mean [[Effect Size]], the individual person or event is shut out, complexity is lost and values are erased.") (p. 2)
 
 ## 理论框架
 
@@ -85,7 +86,8 @@ updated: '2026-05-18'
 > - **"三个月的额外进步"是随机化失败的幻象**
 > - 此外：参与[[School Leadership|学校领导]]在随机化前已对项目抱有热情；对控制组情况缺乏描述
 >
-> > "There is, in truth, no evidence of benefit from Fresh Start compared with the control group: the headlined 'three months additional progress' is simply a phantom of poor randomisation." (p. 6)
+> > “事实上，没有证据表明 Fresh Start 项目相比对照组有任何益处：头条新闻中所谓的‘三个月的额外进展’仅仅是糟糕随机化的幻影。”
+> ("There is, in truth, no evidence of benefit from Fresh Start compared with the control group: the headlined 'three months additional progress' is simply a phantom of poor randomisation.") (p. 6)
 >
 > ### Level 2: [[Meta-analysis|元分析]]的混淆
 >
@@ -97,7 +99,8 @@ updated: '2026-05-18'
 >
 > **Toolkit 的"反馈"类别案例**：大量差异极大的研究（有些正向、有些负向）被聚合为最高效应量的"反馈"标签——没有解释为什么效应量差异如此巨大。
 >
-> > "An aggregate mean of effect sizes calculated ... the conclusion drawn that '[[Feedback]]' is the most effective way to improve attainment. Since feedback is inevitably present in some way in any pedagogical interaction, it would be more illuminating to examine reasons for the differences." (p. 10)
+> > “通过计算得出的效应量聚合平均值……得出的结论是‘反馈’是提高成绩最有效的方法。由于反馈在任何教学互动中都会以某种方式不可避免地存在，因此研究差异产生的原因会更具启发性。”
+> ("An aggregate mean of effect sizes calculated ... the conclusion drawn that '[[Feedback]]' is the most effective way to improve attainment. Since feedback is inevitably present in some way in any pedagogical interaction, it would be more illuminating to examine reasons for the differences.") (p. 10)
 >
 > ### Level 3: [[Meta-meta-analysis|元-元分析]]的失真（[[John Hattie|Hattie]] & EEF Toolkit）
 >
@@ -116,7 +119,8 @@ updated: '2026-05-18'
 >
 > **Blatchford 教学助理案例**：研究实际揭示的是结构性使用不当（无预留备课/课后评估时间、总被分配给低成就学生），但 Toolkit 将其简单化标签为"低影响/高成本"——可能在预算削减中导致 TA 被解雇。
 >
-> > "Placing classroom assistants near the bottom of the Toolkit's league table...could result in schools and academy chains terminating their employment, especially in times of budget cuts." (p. 12)
+> > “将课堂助教置于工具包排行榜底部附近……可能会导致学校和学院联盟终止对他们的聘用，尤其是在预算削减时期。”
+> ("Placing classroom assistants near the bottom of the Toolkit's league table...could result in schools and academy chains terminating their employment, especially in times of budget cuts.") (p. 12)
 >
 > ### 政治定位
 >
@@ -126,7 +130,8 @@ updated: '2026-05-18'
 > - 教师的去专业化：声称赋予教师"声音"的 [[ResearchED]] 实际上将教师引向单一的 RCT 方法论——学术大学研究的替代者是符合政府偏好的"草根运动"
 > - 自然化的统计范畴（如"white British"、"FSMever"、"expected progress"）通过重复使用变成自明实体，抹除个体传记和文化资产
 >
-> > "The sloganistic 'what works' reflects a neoliberal demand to extract maximum efficiency from education, while marginalising the qualitative and political dimensions of human formation." (p. 13)
+> > “口号式的‘什么有效’反映了新自由主义从教育中榨取最大效率的需求，同时将人的塑造（human formation）的质性维度和政治维度边缘化了。”
+> ("The sloganistic 'what works' reflects a neoliberal demand to extract maximum efficiency from education, while marginalising the qualitative and political dimensions of human formation.") (p. 13)
 
 ## 替代方案
 
@@ -154,14 +159,17 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals." (Pawson, 2006: 45, 引自 Wrigley, p. 7)
+> > “社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（reasoning）。”
+> ("Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals.") (Pawson, 2006: 45, 引自 Wrigley, p. 7)
 >
-> > "At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning." (Pawson, 2006: 42–43, 引自 Wrigley, p. 13)
+> > “在[[Meta-analysis|元分析]]综述的每个阶段，都在进行简化。……在这一‘清洗’过程中，解释干预措施如何发挥作用的那些关键特征被排除在考量之外。”
+> ("At every stage of the meta-analytic review, simplifications are made. ... In this purgative process the very features that explain how interventions work are eliminated from the reckoning.") (Pawson, 2006: 42–43, 引自 Wrigley, p. 13)
 >
 > > “[[Meta-analysis|元分析]]的结果绝不应该是一个平均数；它应该是一张图表。”
 > ("The result of a [[Meta-analysis]] should never be an average; it should be a graph.") (Gene Glass, 引自 Wrigley, p. 9)
 >
-> > "The attempt to make learning visible eclipses older understandings of education as [[Bildung]] and pedagogy (both words carrying the sense of human formation)." (p. 16)
+> > “让学习可见的尝试，使人们对教育作为陶冶（[[Bildung]]）和教育学的旧有理解（这两个词都带有人的塑造的含义）变得暗淡无光。”
+> ("The attempt to make learning visible eclipses older understandings of education as [[Bildung]] and pedagogy (both words carrying the sense of human formation).") (p. 16)
 
 ## 局限性与批评
 

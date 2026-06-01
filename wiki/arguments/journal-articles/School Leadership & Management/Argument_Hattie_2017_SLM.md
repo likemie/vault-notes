@@ -77,7 +77,8 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Every paradigm or set of conjectures should be tested to destruction and its authors, adherents, and users of the ideas should face public accountability. Thesis-antithesis-synthesis is well built into the water of academia."（p.428）
+> > “每一个范式或每一组推测都应该被测试到直至毁灭，其思想的作者、追随者和使用者都应该面临公共问责。正题-反题-合题（Thesis-antithesis-synthesis）已经深深植根于学术界的传统之中。”
+> ("Every paradigm or set of conjectures should be tested to destruction and its authors, adherents, and users of the ideas should face public accountability. Thesis-antithesis-synthesis is well built into the water of academia.")（p.428）
 
 ## 局限性与批评
 

@@ -76,9 +76,12 @@ updated: '2026-05-18'
 
 > [!quote] 关键引用
 > > "[[Visible Learning]] is not a [[Meta-analysis]]; however, it uses Cohen's d effect sizes, the statistical output associated with the meta-analysis technique."（p.25）
-> > "We view this opaque exposition of methodology as outside the spirit of scientific inquiry"（p.26）
-> > "Visible Learning is a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review."（p.35）
-> > "It promises simple, cheap, classroom level fixes to manufactured alarm surrounding achievement scores."（p.36）
+> > “我们认为，这种不透明的方法论阐述不符合科学探究的精神”
+> ("We view this opaque exposition of methodology as outside the spirit of scientific inquiry")（p.26）
+> > “‘可见的学习’是一个存在于由教育教父和‘灵丹妙药’式热潮组成的市场化世界中的产品。这与严谨实验和同行评审的传统相去甚远。”
+> ("Visible Learning is a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review.")（p.35）
+> > “它承诺针对围绕学业成绩分数制造出的恐慌，提供简单、廉价、课堂层面的修复方案。”
+> ("It promises simple, cheap, classroom level fixes to manufactured alarm surrounding achievement scores.")（p.36）
 
 ## 局限性与批评
 

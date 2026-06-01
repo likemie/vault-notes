@@ -19,6 +19,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Literature Review]]"
   - "[[Knowledge Production]]"
+  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -105,15 +106,20 @@ updated: '2026-05-18'
 > [!quote] 关键引用
 > > "[[Visible Learning]] is the perfect tool for the 'new management panopticism' (Ball, 2003, p. 219) that is not so new anymore; when learning must be visible, everyone can spy on everyone else."（p.34）
 >
-> > "In Visible Learning's [[Meta-analysis]], the wisdom of teachers is taken, processed, and served back, at a price. Teachers, in a feminised profession (Apple, 1986/2013), submit to heteronormative, sexist and ableist constructions of education."（p.35）
+> > “在‘可见的学习’的[[Meta-analysis|元分析]]中，教师的智慧被夺取、加工，并以一定的代价被重新提供回来。在一个女性化的职业中（Apple, 1986/2013），教师们屈服于教育中异性恋正统的、性别歧视的和能力歧视的构建。”
+> ("In Visible Learning's [[Meta-analysis]], the wisdom of teachers is taken, processed, and served back, at a price. Teachers, in a feminised profession (Apple, 1986/2013), submit to heteronormative, sexist and ableist constructions of education.")（p.35）
 >
-> > "We hire people to deliver it and only one in five passes. That is because almost every teacher wants to get up and talk about their story, their anecdotes and their classrooms. We will not allow that, because as soon as you allow that, you legitimise every teacher in the room talking about their war stories, their views, their kids."（[[John Hattie|Hattie]], in Knudsen, 2017, p.254，引自 p.37）
+> > “我们雇人来传达它（VL培训），只有五分之一的人能通过。那是因为几乎每位老师都想站起来谈论他们的故事、轶事和他们的课堂。我们不允许那样，因为一旦你允许了，你就让房间里的每位老师谈论他们的‘战争故事’、他们的观点、他们的孩子变得合法化了。”
+> ("We hire people to deliver it and only one in five passes. That is because almost every teacher wants to get up and talk about their story, their anecdotes and their classrooms. We will not allow that, because as soon as you allow that, you legitimise every teacher in the room talking about their war stories, their views, their kids.")（[[John Hattie|Hattie]], in Knudsen, 2017, p.254，引自 p.37）
 >
-> > "The eye, limited to that single function of sight, hides its inadequacies behind arrogance, and insists that seeing is the only way. ... The eye needs to be belligerent, as it is essentially made of vitreous jelly."（p.40-41）
+> > “眼睛，局限于单一的视觉功能，将自己的不足隐藏在傲慢背后，并坚持认为‘看见’是唯一的方式。……眼睛需要具有好斗性，因为它本质上是由玻璃体冻胶构成的。”
+> ("The eye, limited to that single function of sight, hides its inadequacies behind arrogance, and insists that seeing is the only way. ... The eye needs to be belligerent, as it is essentially made of vitreous jelly.")（p.40-41）
 >
-> > "Visible Learning, despite all its complicated effect sizes, equations and figures, is ultimately too simple a mantra."（p.39）
+> > “‘可见的学习’，尽管有着所有复杂的[[Effect Size|效应量]]、方程式和数字，最终仍是一个过于简单的咒语。”
+> ("Visible Learning, despite all its complicated effect sizes, equations and figures, is ultimately too simple a mantra.")（p.39）
 >
-> > "We hope our thoughts here may energise dialogue around Visible Learning and teacher professionalism and encourage others to enter the fray."（p.42）
+> > “我们希望我们在这里的思考能够激发围绕‘可见的学习’和教师专业精神的对话，并鼓励其他人加入这场争论。”
+> ("We hope our thoughts here may energise dialogue around Visible Learning and teacher professionalism and encourage others to enter the fray.")（p.42）
 
 ## 局限性与批评
 

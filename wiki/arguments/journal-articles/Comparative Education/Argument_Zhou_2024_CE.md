@@ -344,15 +344,20 @@ updated: 2026-05-26
 ## 关键引用
 
 > [!quote] 关键引用
-> > "While the ideal of democratic education and gradual and incremental reform were consistent and in harmony with each other in [[John Dewey|Dewey]]'s writings and lectures, their relationship turned out to be much more complex in Republican China, where the actualisation of democracy in education would require radical changes."（p.611）
+> > “虽然民主教育的理想与渐进式改革在[[John Dewey|杜威]]的著作和演讲中是一致且和谐的，但它们之间的关系在民国时期的中国却变得复杂得多，在那里，教育民主化的实现需要激进的变革。”
+> ("While the ideal of democratic education and gradual and incremental reform were consistent and in harmony with each other in [[John Dewey|Dewey]]'s writings and lectures, their relationship turned out to be much more complex in Republican China, where the actualisation of democracy in education would require radical changes.")（p.611）
 >
-> > "Dewey's ideas were subject to constant reinvention in Republican China and that the received Dewey was largely a fragmented Dewey born out of its ever-shifting socio-political and cultural context."（pp.609–610）
+> > “杜威的思想在民国时期的中国不断被重新发明，被接受的杜威在很大程度上是一个碎片化的杜威，诞生于其不断变化的社会政治和文化语境之中。”
+> ("Dewey's ideas were subject to constant reinvention in Republican China and that the received Dewey was largely a fragmented Dewey born out of its ever-shifting socio-political and cultural context.")（pp.609–610）
 >
-> > "This article further considers this phenomenon, and what at times has been referred to as the malleability of Dewey. It indicates that Dewey was, and had to be, something different in the specific context of the Republic of China."（p.622）
+> > “本文进一步考察了这一现象，以及有时被称为杜威之‘可塑性’的东西。它表明杜威在中华民国的特定语境中是，而且也必须是，某种不同的东西。”
+> ("This article further considers this phenomenon, and what at times has been referred to as the malleability of Dewey. It indicates that Dewey was, and had to be, something different in the specific context of the Republic of China.")（p.622）
 >
-> > "Dewey could be used to support either radical or moderate positions, and both a new education stressing democratic education and one emphasising the [[Scientific Attitude]]. Dewey could not only be part of a framework promoting foreign ideals but also part of one promoting national development."（p.622）
+> > “杜威可以被用来支持激进或温和的立场，既可以用来支持强调民主教育的新教育，也可以用来支持强调[[Scientific Attitude|科学态度]]的新教育。杜威不仅可以成为促进外国理想的框架的一部分，也可以成为促进国家发展的框架的一部分。”
+> ("Dewey could be used to support either radical or moderate positions, and both a new education stressing democratic education and one emphasising the [[Scientific Attitude]]. Dewey could not only be part of a framework promoting foreign ideals but also part of one promoting national development.")（p.622）
 >
-> > "Reflecting the social, political and educational turmoil of the time, the Republic of China consequently heralded the proverbial fragmentation of Dewey."（p.622）
+> > “由于反映了当时的社会、政治和教育动荡，中华民国因此预示了众所周知的对杜威的碎片化（接受）。”
+> ("Reflecting the social, political and educational turmoil of the time, the Republic of China consequently heralded the proverbial fragmentation of Dewey.")（p.622）
 
 ---
 

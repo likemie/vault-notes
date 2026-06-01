@@ -80,11 +80,14 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "We find evidence of a '[[Developer Effect]],' where program evaluations carried out or commissioned by developers produced average effect sizes that were substantially larger than those identified in evaluations conducted by independent parties." (Wolf et al., 2020, p. 428)
+> > “我们发现了‘开发商效应’的证据，即由开发商执行或委托的项目评估所产生的平均[[Effect Size|效应量]]，显著大于由独立第三方进行的评估。”
+> ("We find evidence of a '[[Developer Effect]],' where program evaluations carried out or commissioned by developers produced average effect sizes that were substantially larger than those identified in evaluations conducted by independent parties.") (Wolf et al., 2020, p. 428)
 >
-> > "When looking within the same program, developer-commissioned studies produced average effect sizes that were 1.7 times greater than those in independent studies." (Wolf et al., 2020, p. 439)
+> > “在针对同一个项目时，由开发商委托的研究产生的平均效应量是独立研究的 1.7 倍。”
+> ("When looking within the same program, developer-commissioned studies produced average effect sizes that were 1.7 times greater than those in independent studies.") (Wolf et al., 2020, p. 439)
 >
-> > "Open access to study data holds the greatest promise for mitigating bias when authors publish complete datasets, including missing values and all participants who were included in the study at the onset, to the extent possible." (Wolf et al., 2020, p. 444)
+> > “当作者尽可能发布完整的数据集——包括缺失值和研究开始时的所有参与者——时，开放研究数据在减轻偏见方面具有最大的潜力。”
+> ("Open access to study data holds the greatest promise for mitigating bias when authors publish complete datasets, including missing values and all participants who were included in the study at the onset, to the extent possible.") (Wolf et al., 2020, p. 444)
 
 ## 局限性与批评
 

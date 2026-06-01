@@ -171,15 +171,20 @@ Urban 2 和 Rural 2 的情况不同。这两所学校都强烈渴望显著提升
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Everyone understands the importance of examinations in shaping children's future. Students who score high in examinations enter better universities and lead better lives. As a teacher, I am expected to help them earn a promising future."（Urban 2-Teacher 1, p.594）
+> > “每个人都了解考试在塑造孩子未来方面的重要性。在考试中得高分的学生能进入更好的大学，过上更好的生活。作为一名教师，我被期望帮助他们赢得一个有前途的未来。”
+> ("Everyone understands the importance of examinations in shaping children's future. Students who score high in examinations enter better universities and lead better lives. As a teacher, I am expected to help them earn a promising future.")（Urban 2-Teacher 1, p.594）
 >
-> > "We know the benefits of [[Learner-Centred Education|LCE]], but pedagogical changes should not lower students' examination results. We can take three years to change our pedagogies, but our students cannot wait three years to take the admission tests. No students should be sacrificed for changes."（Urban 2-Principal, p.596）
+> > “我们知道[[Learner-Centred Education|以学习者为中心的教育]]（LCE）的好处，但教学法的改变不应降低学生的考试成绩。我们可以花三年时间来改变我们的教学法，但我们的学生不能等三年才去参加入学考试。不应有任何学生为变革而牺牲。”
+> ("We know the benefits of [[Learner-Centred Education|LCE]], but pedagogical changes should not lower students' examination results. We can take three years to change our pedagogies, but our students cannot wait three years to take the admission tests. No students should be sacrificed for changes.")（Urban 2-Principal, p.596）
 >
-> > "Enhancing students' examination results does not conflict with LCE. They should be mutually beneficial. Moreover, Vygotsky's insights echo [[Confucius]]' beliefs that dialogic teaching contributes to deep thinking."（Rural 2-Principal, p.596）
+> > “提高学生的考试成绩与 LCE 并不冲突。它们应该是互惠互利的。此外，维果茨基的见解呼应了[[Confucius|孔子]]关于对话式教学有助于深度思考的信念。”
+> ("Enhancing students' examination results does not conflict with LCE. They should be mutually beneficial. Moreover, Vygotsky's insights echo [[Confucius]]' beliefs that dialogic teaching contributes to deep thinking.")（Rural 2-Principal, p.596）
 >
-> > "The construction of LCE should be rewarded. I am not suggesting that we would not have a try if not being pushed to do so. However, due to the examination pressure, it is easier not to make any changes."（Urban 2-Teacher 1, p.598）
+> > “LCE 的构建应该得到奖励。我并不是说如果不被推着去做我们就不去尝试。然而，由于考试压力，不作任何改变是更容易的。”
+> ("The construction of LCE should be rewarded. I am not suggesting that we would not have a try if not being pushed to do so. However, due to the examination pressure, it is easier not to make any changes.")（Urban 2-Teacher 1, p.598）
 >
-> > "Compared to urban students, our students generally have much less support from parents, so it is crucial that we implement LCE to enhance their learning efficiency in class. I believe that students can learn effectively when their opinions and autonomy are fully respected."（Rural 2-Principal, p.599）
+> > “与城市学生相比，我们的学生从父母那里得到的支持通常要少得多，因此我们实施 LCE 以提高他们在课堂上的学习效率至关重要。我相信，当学生的意见和自主权得到充分尊重时，他们就能进行有效的学习。”
+> ("Compared to urban students, our students generally have much less support from parents, so it is crucial that we implement LCE to enhance their learning efficiency in class. I believe that students can learn effectively when their opinions and autonomy are fully respected.")（Rural 2-Principal, p.599）
 
 ---
 

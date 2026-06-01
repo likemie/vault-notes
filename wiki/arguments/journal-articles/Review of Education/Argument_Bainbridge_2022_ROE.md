@@ -120,7 +120,8 @@ updated: '2026-05-18'
 - 轶事被反复用于构建"好学校"话语的"合法性"，尽管轶事不符合政府自身对"证据"的定义（Coldwell et al., 2017）（p.16–17）
 
 关键引用示例——Gareth Johnson MP (2015, Conservative)：
-> "I want to establish a thread to run through the debate — that grammar schools are simply good schools and that we need good schools to flourish."（p.16）
+> “我想建立一条贯穿这场辩论的线索——即文法学校（grammar schools）仅仅是优秀的学校，而我们需要优秀的学校来蓬勃发展。”
+> ("I want to establish a thread to run through the debate — that grammar schools are simply good schools and that we need good schools to flourish.")（p.16）
 
 ### 发现三：嘉年华式分析——资金的荒谬性
 
@@ -167,7 +168,8 @@ updated: '2026-05-18'
 - 类似的，FSM（免费校餐）与文法学校的关联论述在证据明确后也逐渐消退（Appendix 7）
 - **但**：同一"内部证据"力量未能驱散更持久、更根深蒂固的"好学校"神话（p.25）
 
-> "It would appear that it is less easy to refute or sidestep certain evidence when it emerges from within Parliament."（p.28）
+> “看起来，当某些证据从议会内部出现时，驳斥或回避它们就不那么容易了。”
+> ("It would appear that it is less easy to refute or sidestep certain evidence when it emerges from within Parliament.")（p.28）
 
 ### 核心概念贡献：建构型道德侧步
 
@@ -178,19 +180,24 @@ updated: '2026-05-18'
 3. 这一话语通过三种机制自我维持：(a) 宣言驱动的重复；(b) 轶事的系统性部署；(c) 议会内部报告的证据特权
 4. 话语的建构性在于：它积极且持续地扭曲"good"的含义
 
-> "What has emerged... is a discourse that is constructive as it actively and persistently distorts the meaning of 'good' — it is a sidestep into a world of fantasised goodness, while also away from an often-unspoken world of 'badness'"（p.19）
+> “已经出现的是一种具有建构性的话语，因为它积极且持续地扭曲了‘优秀’的含义——这是一种向幻想中的‘优秀’世界的侧步避让（sidestep），同时也远离了一个经常不被提及的‘糟糕’世界。”
+> ("What has emerged... is a discourse that is constructive as it actively and persistently distorts the meaning of 'good' — it is a sidestep into a world of fantasised goodness, while also away from an often-unspoken world of 'badness'")（p.19）
 
 证据悖论：有趣的是，"outstanding" 才是文法学校更准确的 Ofsted 评级描述（133 所 outstanding vs 26 所 good），但议员们选择使用的是"good"而非"outstanding"——"good"承载了"outstanding"所不具备的道德内涵（p.27–28）。
 
 ## 关键引用
 
-> "What has emerged...is a discourse that is constructive as it actively and persistently distorts the meaning of 'good'—it is a sidestep into a world of fantasised goodness, while also away from an often-unspoken world of 'badness'"（p.19）
+> “已经出现的是一种具有建构性的话语，因为它积极且持续地扭曲了‘优秀’的含义——这是一种向幻想中的‘优秀’世界的侧步避让（sidestep），同时也远离了一个经常不被提及的‘糟糕’世界。”
+> ("What has emerged...is a discourse that is constructive as it actively and persistently distorts the meaning of 'good'—it is a sidestep into a world of fantasised goodness, while also away from an often-unspoken world of 'badness'")（p.19）
 
-> "The 'good schools' discourse is an [[Ofsted]]-derived evidenced position, which makes it all the more deceptive; it is a [[Moral Sidestep]] cloaked in the language of evidence."（p.28）
+> “‘优秀学校’的话语是一种源自教育标准局（[[Ofsted]]）的循证立场，这使其更具欺骗性；它是一个披着证据语言外衣的道德侧步。”
+> ("The 'good schools' discourse is an [[Ofsted]]-derived evidenced position, which makes it all the more deceptive; it is a [[Moral Sidestep]] cloaked in the language of evidence.")（p.28）
 
-> "It would appear that it is less easy to refute or sidestep certain evidence when it emerges from within Parliament."（p.28）
+> “看起来，当某些证据从议会内部出现时，驳斥或回避它们就不那么容易了。”
+> ("It would appear that it is less easy to refute or sidestep certain evidence when it emerges from within Parliament.")（p.28）
 
-> "Whereas it might be asking too much of our politicians to insist that they be aware of rigorous research methods, it is not too much to hold them to a high standard of ethics and to hold them to account when their demonstrated ethics fall short."（p.30）
+> “虽然坚持要求我们的政治家了解严谨的研究方法可能是要求过高，但要求他们遵守高标准的伦理准则，并在他们表现出的伦理水平不足时追究其责任，并不过分。”
+> ("Whereas it might be asking too much of our politicians to insist that they be aware of rigorous research methods, it is not too much to hold them to a high standard of ethics and to hold them to account when their demonstrated ethics fall short.")（p.30）
 
 > [!info] 核心数据
 > - [[Grammar School|文法学校]]"good"提及率 235%（每校），综合学校 1.7%（每校）

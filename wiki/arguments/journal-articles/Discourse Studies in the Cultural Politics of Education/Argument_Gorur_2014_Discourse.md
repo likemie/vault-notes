@@ -86,13 +86,17 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "the insouciance and confidence with which the OECD routinely, annually, produces such a range of indicators … belies the decades of hesitation, experimentation, negotiation and effort that went into the development of these [[International Education]] indicators"（Gorur, 2014, p.4）
+> > “经合组织（OECD）常规地、每年地发布如此一系列指标时所表现出的那种漫不经心和自信……掩盖了这些[[International Education|国际教育]]指标在开发过程中所经历的数十年的犹豫、实验、协商和努力。”
+> ("the insouciance and confidence with which the OECD routinely, annually, produces such a range of indicators … belies the decades of hesitation, experimentation, negotiation and effort that went into the development of these [[International Education]] indicators")（Gorur, 2014, p.4）
 >
-> > "the project's fundamental scientific ambition was inconsistent with the available means and the interests of the government authorities which would have had to fund the initiative. And so the social science specialists were unable to see their project through to its conclusion. It was a failure."（Bottani, 2008, p.14; Gorur, 2014, p.10）
+> > “该项目根本性的科学雄心与可用的手段以及原本必须为该倡议提供资金的政府当局的利益是不一致的。因此，社会科学专家们无法将他们的项目进行到底。那是一个失败。”
+> ("the project's fundamental scientific ambition was inconsistent with the available means and the interests of the government authorities which would have had to fund the initiative. And so the social science specialists were unable to see their project through to its conclusion. It was a failure.")（Bottani, 2008, p.14; Gorur, 2014, p.10）
 >
-> > "one can get the impression that these indicators have been invented to avoid leaving empty cells in the subgroup of student achievement"（Bottani, 1996, p.284; Gorur, 2014, p.13）
+> > “人们可能会产生这样一种印象：发明这些指标是为了避免在学生成就的子分组中留下空白单元格。”
+> ("one can get the impression that these indicators have been invented to avoid leaving empty cells in the subgroup of student achievement")（Bottani, 1996, p.284; Gorur, 2014, p.13）
 >
-> > "no cognitive approach leaves the subject of its observation, measurement, analysis, comparison, deciphering, completely unscathed. There is no clear ontological divide between science and techniques, between cognitive reality and its modification."（Bottani, 2008, p.22; Gorur, 2014, p.18）
+> > “没有任何认知途径能让其观察、测量、分析、比较、破译的对象完全不受影响。科学与技术之间、认知现实与其修改之间，不存在清晰的本体论界限。”
+> ("no cognitive approach leaves the subject of its observation, measurement, analysis, comparison, deciphering, completely unscathed. There is no clear ontological divide between science and techniques, between cognitive reality and its modification.")（Bottani, 2008, p.22; Gorur, 2014, p.18）
 
 ## 局限性与批评
 

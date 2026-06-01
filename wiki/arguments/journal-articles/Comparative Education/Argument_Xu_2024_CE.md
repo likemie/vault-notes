@@ -302,13 +302,17 @@ updated: 2026-05-26
 ## 关键引用
 
 > [!quote] 关键引用
-> > "This study revealed a 'one country, two narratives' view of China in the two regions' Chinese history textbooks."（p.586）
+> > “本研究揭示了两地中国历史教科书中关于中国的‘一国两叙事’视角。”
+> ("This study revealed a 'one country, two narratives' view of China in the two regions' Chinese history textbooks.")（p.586）
 >
-> > "Mainland China's textbooks constructed China as a nation by stressing its constitutive territory and ethnic inclusiveness, whereas Hong Kong's highlighted its constitutive ethnicity and changing territory, more frequently and directly narrated interethnic conflicts, and more explicitly promoted Han superiority."（pp.573–574）
+> > “中国大陆的教科书通过强调其构成性领土和种族包容性来将中国构建为一个国家，而香港的教科书则突出了其构成性种族和不断变化的领土，更频繁、更直接地叙述族际冲突，并更明确地宣扬汉族优越论。”
+> ("Mainland China's textbooks constructed China as a nation by stressing its constitutive territory and ethnic inclusiveness, whereas Hong Kong's highlighted its constitutive ethnicity and changing territory, more frequently and directly narrated interethnic conflicts, and more explicitly promoted Han superiority.")（pp.573–574）
 >
-> > "The study proposes constructing the nation in history education as a contextualised and socio-political exercise of reinterpreting the past to reflect current contexts and needs."（p.573）
+> > “该研究提出，应将历史教育中的国家构建视为一种情境化的、社会政治性的实践，即重新解释过去以反映当前的背景和需求。”
+> ("The study proposes constructing the nation in history education as a contextualised and socio-political exercise of reinterpreting the past to reflect current contexts and needs.")（p.573）
 >
-> > "The 'one country, two narratives' view of China as a nation in the textbooks reveals a contextualised, socio-political exercise of nation construction, reflecting different interactions between government and textbook editors/writers in different contexts for different purposes."（p.587）
+> > “教科书中将中国作为一个国家的‘一国两叙事’观点，揭示了一种情境化的、社会政治性的国家建构实践，反映了政府与教科书编辑/作者在不同情境下出于不同目的的不同互动。”
+> ("The 'one country, two narratives' view of China as a nation in the textbooks reveals a contextualised, socio-political exercise of nation construction, reflecting different interactions between government and textbook editors/writers in different contexts for different purposes.")（p.587）
 >
 > > 香港教科书中的典型叙事："The Western Han Dynasty reinforced governance over the West Region. In 60 BC, the Western Han Dynasty appointed a perfect to administer the West Region … which marked the West Region formally belonged to the central government. The areas under Western Region Prefecture's jurisdiction included today's Xinjiang and the vast areas east and south of Baikal Lake."（mainland China-1, 65，引自 p.583）
 

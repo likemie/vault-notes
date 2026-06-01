@@ -160,11 +160,14 @@ updated: '2026-05-21'
 ## 关键引用
 
 > [!quote]
-> "Det er hva læreren gjør og ikke gjør, som er mest avgjørende for elevenes læringsutbytte."（Nordahl, 2015, p.63）
+> “教师做什么以及不做什么，对学生的学习成果起着决定性的作用。”
+> ("Det er hva læreren gjør og ikke gjør, som er mest avgjørende for elevenes læringsutbytte.")（Nordahl, 2015, p.63）
 >
-> "Praksis som bygger evidensbasert pedagogisk forskning, kan ikke garantere gode resultater, men den kan øke sannsynligheten."（Nordahl, 2015, p.63）
+> “建立在[[Evidence-Based Education|循证教育]]研究基础上的实践并不能保证好结果，但它可以增加其可能性。”
+> ("Praksis som bygger evidensbasert pedagogisk forskning, kan ikke garantere gode resultater, men den kan øke sannsynligheten.")（Nordahl, 2015, p.63）
 >
-> "Det vi mangler, er ikke verdier, men kunnskap om hvordan verdiene kan realiseres i handling."（Nordahl, 2015, p.68）
+> “我们缺少的不是价值观，而是关于如何在行动中实现价值观的知识。”
+> ("Det vi mangler, er ikke verdier, men kunnskap om hvordan verdiene kan realiseres i handling.")（Nordahl, 2015, p.68）
 
 ## 局限性与批评
 

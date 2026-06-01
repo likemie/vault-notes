@@ -328,35 +328,40 @@ Slaughter & Leslie（1997）和 Slaughter & Rhoades（2004）的 [[Academic Capi
 > [!quote]
 > "政策制定者的话语套路——从'[[Knowledge-Based Economy|知识经济]]'的动态需求到'卓越'的益处——倾向于转移对部门内分配冲突和权力动力的关注。"（p.796）
 >
-> > "Policymakers' discursive tropes—from the needs of dynamic 'knowledge economies' to the benefits of 'excellence'—tend to distract from the distributional conflicts and power dynamics in the sector."（p.796）
+> > “政策制定者的话语修辞——从动态‘知识经济’的需求到‘卓越’的好处——往往会转移人们对该部门内分配冲突和权力动态的注意力。”
+> ("Policymakers' discursive tropes—from the needs of dynamic 'knowledge economies' to the benefits of 'excellence'—tend to distract from the distributional conflicts and power dynamics in the sector.")（p.796）
 
 ---
 
 > [!quote]
 > "金钱不是科学和教育[[Champ|场域]]中唯一的'通货'，因为学术人员之间的竞争也围绕'符号商品'（[[Pierre Bourdieu|Bourdieu]], 1984）——如声望、认可或区隔——展开。"（p.797）
 >
-> > "Money is not the only 'currency' in scientific and educational fields, since competition among academics also revolves around 'symbolic goods' (Bourdieu, 1984), like prestige, recognition, or distinction."（p.797）
+> > “金钱并不是科学和教育领域的唯一‘货币’，因为学术界之间的竞争也围绕着‘符号商品’（Bourdieu, 1984）展开，如声望、认可或区分（distinction）。”
+> ("Money is not the only 'currency' in scientific and educational fields, since competition among academics also revolves around 'symbolic goods' (Bourdieu, 1984), like prestige, recognition, or distinction.")（p.797）
 
 ---
 
 > [!quote]
 > "当前正在进行的学术依附和忠诚关系的重新结构化（如 Bourdieu, 1984 所描绘），似乎不仅产生了自由市场动力，还催生了新封建式的权力关系系统。"（pp.798–799）
 >
-> > "The ongoing re-structuring of academic relations of dependence and loyalty (as portrayed in Bourdieu, 1984) appears to not only produce free-market dynamics but also to give rise to neo-feudal systems of power relations."（pp.798–799）
+> > “正在进行的对学术依赖与忠诚关系的重组（如 Bourdieu 1984 年所描述的那样），似乎不仅产生了自由市场动态，而且还导致了新封建主义（neo-feudal）权力关系的产生。”
+> ("The ongoing re-structuring of academic relations of dependence and loyalty (as portrayed in Bourdieu, 1984) appears to not only produce free-market dynamics but also to give rise to neo-feudal systems of power relations.")（pp.798–799）
 
 ---
 
 > [!quote]
 > "高等教育的新的政治经济学不是匿名、不可阻挡的市场力量的结果，而是政治决策和社会实践的产物，其规则并非一成不变。"（p.809）
 >
-> > "The new political economy of higher education is not the result of anonymous, unstoppable market forces but rather of political decisions and social practices, whose rules are not set in stone."（p.809）
+> > “高等教育的新政治经济学不是匿名的、不可阻挡的市场力量的结果，而是政治决策和社会实践的结果，其规则并非一成不变。”
+> ("The new political economy of higher education is not the result of anonymous, unstoppable market forces but rather of political decisions and social practices, whose rules are not set in stone.")（p.809）
 
 ---
 
 > [!quote]
 > "分配冲突延伸到知识在高等教育部门和社会更广泛层面中被生产和认可的方式。反过来，在社会中被接受和合法的知识的性质本身，正是[[Academic Capitalism|学术资本主义]]中悬而未决的问题。关于知识、权力和金钱之间关系的老问题，因此仍然是高等教育新政治经济的核心。"（p.809）
 >
-> > "Distributional conflicts in higher education extend to the way knowledge is produced and recognized in the higher education sector and in society more broadly. In turn, it is the very nature of socially accepted and legitimate knowledge that is at [[Robert E. Stake|Stake]] in academic capitalism. The old question of the relationship between knowledge, power, and money therefore remains central to the new political economy of higher education."（p.809）
+> > “高等教育中的分配冲突延伸到了高等教育部门乃至更广泛社会中知识的生产和认可方式。反过来，在学术资本主义中，社会接受且合法的知识的本质本身也处于风险（at [[Robert E. Stake|Stake]]）之中。因此，关于知识、权力和金钱之间关系的老问题仍然是高等教育新政治经济学的核心。”
+> ("Distributional conflicts in higher education extend to the way knowledge is produced and recognized in the higher education sector and in society more broadly. In turn, it is the very nature of socially accepted and legitimate knowledge that is at [[Robert E. Stake|Stake]] in academic capitalism. The old question of the relationship between knowledge, power, and money therefore remains central to the new political economy of higher education.")（p.809）
 
 ---
 

@@ -110,11 +110,14 @@ updated: '2026-05-18'
 > > “急于将问责制纳入立法和官僚实践的冲动，已经跑在了支持它的证据前面；尽管问责制的架构师们也是基于科学决策的大声疾呼者，但这一事实依然存在。”
 > ("The rush to get accountability systems enshrined in legislation and bureaucratic practice is running ahead of the evidence on its behalf, and this is true despite the fact that the architects of the accountability systems are also vocal proponents of scientifically based decision making.")（Henig, 2013: xi, cited in Møller, 2017, p.383）
 >
-> > "Education is and always will be a contested [[Champ|field]]."（p.383）
+> > “教育现在是、而且永远将是一个充满争议的[[Champ|场域]]。”
+> ("Education is and always will be a contested [[Champ|field]].")（p.383）
 >
-> > "Success requires that we ask: success in or for what, success for whom, who benefits, and success under what conditions?"（p.383）
+> > “成功要求我们追问：在什么方面或为了什么的成功，为谁而成功，谁获益，以及在什么条件下成功？”
+> ("Success requires that we ask: success in or for what, success for whom, who benefits, and success under what conditions?")（p.383）
 >
-> > "What counts as evidence should not be separated from deeper philosophical questions, because education is essentially a moral enterprise."（p.383）
+> > “什么算作证据，不应与更深层的哲学问题相脱离，因为教育本质上是一项道德事业。”
+> ("What counts as evidence should not be separated from deeper philosophical questions, because education is essentially a moral enterprise.")（p.383）
 
 ## 局限性与批评
 

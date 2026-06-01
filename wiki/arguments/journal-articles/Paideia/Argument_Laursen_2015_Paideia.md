@@ -94,9 +94,11 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Svaret bliver et 'ja', og hvis man vil være forsigtig, kan man eventuelt tilføje et 'i det store og hele'."（回答是"是"，若谨慎一点，可加上"总体上"。）（Laursen, 2015, p.40）
+> > “答案将是‘是’的，如果你想谨慎一点，也许可以加上‘总体而言’。”
+> ("Svaret bliver et 'ja', og hvis man vil være forsigtig, kan man eventuelt tilføje et 'i det store og hele'.")（Laursen, 2015, p.40）
 >
-> > "Konteksten, forstået som elevernes sociale baggrund, betyder i høj grad noget. Men konteksten, forstået som den nationale kultur, ser ikke ud til at spille nogen større rolle..."（作为学生社会背景的语境非常重要；但作为国家文化的语境似乎并不发挥同样大的作用。）（Laursen, 2015, p.40）
+> > “作为学生社会背景被理解的情境非常重要。但是，作为国家文化被理解的情境，似乎并没有发挥什么重要作用……”
+> ("Konteksten, forstået som elevernes sociale baggrund, betyder i høj grad noget. Men konteksten, forstået som den nationale kultur, ser ikke ud til at spille nogen større rolle...")（作为学生社会背景的语境非常重要；但作为国家文化的语境似乎并不发挥同样大的作用。）（Laursen, 2015, p.40）
 
 ## 局限性与批评
 

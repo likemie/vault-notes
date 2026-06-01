@@ -92,7 +92,8 @@ updated: '2026-05-18'
 >
 > > "[[John Hattie|Hattie]] 的方法在统计上并不复杂，可以概括为计算平均值和标准差，而后者他并未真正使用"（Bergeron, cited in Sarbiewska, 2019, p.121）
 >
-> > "VL 属于[[Radical Constructivism|激进建构主义]]范式，因此[[Constructivist Paradigm|建构主义]]的问题与 Hattie 的教学概念直接相关，这导致教学本质的双重崩溃"（Rømer, cited in Sarbiewska, 2019, p.121–122）
+> > “VL（可见的学习）属于[[Radical Constructivism|激进建构主义]]范式，因此[[Constructivist Paradigm|建构主义]]的问题与哈蒂（Hattie）的教学概念直接相关，这导致了教学本质的双重崩溃。”
+> ("VL belongs to the paradigm of radical constructivism, and therefore the problems of constructivism are directly related to Hattie’s concept of teaching, which leads to a double collapse of the essence of teaching.")（Rømer, cited in Sarbiewska, 2019, p.121–122）
 >
 > > "分享权力和学习责任，教师将学生置于实现我们对他们的愿景的道路上，使他们有能力为我们的国家确保可持续的社会、文化、经济和环境未来"（NZ Ministry of Education, cited in Sarbiewska, 2019, p.125）
 

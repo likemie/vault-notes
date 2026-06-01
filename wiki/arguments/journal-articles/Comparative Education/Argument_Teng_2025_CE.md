@@ -195,13 +195,16 @@ updated: 2026-05-26
 > "[[Peidu]], the [[School Choice]] in rural China, is also a stratified practice along class lines, similar to school choice in international contexts."（Teng & Wang, 2025, p.313）
 
 > [!quote]
-> "The administrative discrimination based on [[Hukou System|hukou]] is increasingly and implicitly being replaced by market discrimination based on family socioeconomic standings."（Teng & Wang, 2025, p.313）
+> “基于户口的行政歧视正日益且隐蔽地被基于家庭社会经济地位的市场歧视所取代。”
+> ("The administrative discrimination based on [[Hukou System|hukou]] is increasingly and implicitly being replaced by market discrimination based on family socioeconomic standings.")（Teng & Wang, 2025, p.313）
 
 > [!quote]
-> "The departure of rural children subjects village schools to decreased funding, accelerated teacher turnover, worsening academic performance, and an ultimately increased risk of school closures."（Teng & Wang, 2025, pp.313–314）
+> “农村儿童的流失使村级学校面临资金减少、教师流失加速、学业表现恶化以及最终学校关闭风险增加的困境。”
+> ("The departure of rural children subjects village schools to decreased funding, accelerated teacher turnover, worsening academic performance, and an ultimately increased risk of school closures.")（Teng & Wang, 2025, pp.313–314）
 
 > [!quote]
-> "School choice, whether driven by marketisation or urbanisation, merely addresses the surface issues when it comes to educational inequality."（Teng & Wang, 2025, p.314）
+> “无论是受市场化还是城市化驱动的择校，在涉及教育不平等时，都仅仅触及了表面问题。”
+> ("School choice, whether driven by marketisation or urbanisation, merely addresses the surface issues when it comes to educational inequality.")（Teng & Wang, 2025, p.314）
 
 ---
 

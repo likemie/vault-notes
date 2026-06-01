@@ -203,25 +203,29 @@ updated: 2026-05-21
 > [!quote] 核心文本
 > "儒家传统的阐释构成了一种垄断性主导话语，强化了不同文化群体之间的文化等级。"（Yu & Zhao, 2024, p.59）
 >
-> > "The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups." (Yu & Zhao, 2024, p.59)
+> > “对儒家传统的这种解释是一种垄断性的、占主导地位的话语，它强化了不同文化群体之间的文化等级制度。”
+> ("The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.") (Yu & Zhao, 2024, p.59)
 >
 > ---
 >
 > "学生似乎将儒家传统仅视为中国的一种文化与世界观，而这种传统正可以从其他文化的批判反思中获益。"（Yu & Zhao, 2024, p.59）
 >
-> > "The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical reflexivity of other cultures." (Yu & Zhao, 2024, p.59)
+> > “学生们似乎将儒家传统仅仅视为中国的一种文化和世界观，这种文化和世界观可以从其他文化的批判性反思中获益。”
+> ("The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical reflexivity of other cultures.") (Yu & Zhao, 2024, p.59)
 >
 > ---
 >
 > "文化排斥延续了少数民族的不平等。"（Yi 2008, p.1; Yu & Zhao, 2024, p.62）
 >
-> > "Cultural exclusion perpetuates ethnic minority inequality." (Yi 2008, p.1; Yu & Zhao, 2024, p.62)
+> > “文化排斥使少数民族的不平等永久化。”
+> ("Cultural exclusion perpetuates ethnic minority inequality.") (Yi 2008, p.1; Yu & Zhao, 2024, p.62)
 >
 > ---
 >
 > "官方主流的儒家版本将其呈现为单一汉文化的核心，要求所有较低等的民族尊崇效仿，这种叙事反而倾向于加剧文化分裂与疏离。"（Yu & Zhao, 2024, p.71）
 >
-> > "The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation." (Yu & Zhao, 2024, p.71)
+> > “占主导地位的官方版儒家思想，将其作为庞大单一的汉族文化的核心，要求所有其他少数民族尊崇和模仿，因此往往会煽动文化分裂和异化。”
+> ("The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation.") (Yu & Zhao, 2024, p.71)
 
 ---
 

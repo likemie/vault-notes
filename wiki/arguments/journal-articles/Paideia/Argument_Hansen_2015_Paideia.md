@@ -74,9 +74,11 @@ updated: '2026-05-20'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "Det vigtigste er, at den enkelte lærer forstår, at hans eller hendes rolle er at evaluere sin virkning."（Hansen et al., 2015, p.4）
+> > “最重要的是，每一位教师都要理解，他或她的角色是评估自己的影响。”
+> ("Det vigtigste er, at den enkelte lærer forstår, at hans eller hendes rolle er at evaluere sin virkning.")（Hansen et al., 2015, p.4）
 >
-> > "Som grundlag for hele denne indsats er John Hatties arbejde med synlig læring et uomgængeligt udgangspunkt."（Hansen et al., 2015, p.8）
+> > “作为整个这项努力的基础，[[John Hattie|约翰·哈蒂]]关于可见的学习的工作是一个不可回避的起点。”
+> ("Som grundlag for hele denne indsats er John Hatties arbejde med synlig læring et uomgængeligt udgangspunkt.")（Hansen et al., 2015, p.8）
 
 ## 局限性与批评
 

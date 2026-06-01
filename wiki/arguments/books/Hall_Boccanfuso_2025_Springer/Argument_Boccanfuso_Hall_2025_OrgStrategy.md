@@ -220,7 +220,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 - 调查数据中"innovation"（创新，27%）的使用率高于网站数据（14%），这可能是调查受访者倾向于用更"时髦"的语言来描述自己的工作
 
 > [!example]
-> "Relationships"、"partnerships"和"engagement"三个词的精微差异值得注意。如果一所大学把办公室命名为"Corporate Relations Office"，它强调的是长期关系的维护——有点像客户关系管理（CRM）的逻辑。如果叫"Strategic Partnerships Office"，它暗示的是对等的、深度的、有共同战略目标的合作——"你和我一起定义合作的方向"。如果叫"Industry Engagement Office"，它强调的是互动的深度而非广度——"重要的不是你认识多少企业，而是你和多少企业有实质性的合作"。
+> “Relationships”、“partnerships”和“engagement”三个词的精微差异值得注意。如果一所大学把办公室命名为"Corporate Relations Office"，它强调的是长期关系的维护——有点像客户关系管理（CRM）的逻辑。如果叫"Strategic Partnerships Office"，它暗示的是对等的、深度的、有共同战略目标的合作——"你和我一起定义合作的方向"。如果叫"Industry Engagement Office"，它强调的是互动的深度而非广度——"重要的不是你认识多少企业，而是你和多少企业有实质性的合作"。
 
 ---
 

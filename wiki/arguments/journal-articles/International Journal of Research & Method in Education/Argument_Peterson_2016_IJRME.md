@@ -95,15 +95,20 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The key weakness of 'What Works' is that it generates evidence relevant only to single either-or decisions." (p. 300, citing Cartwright & Hardie, 2012)
+> > “‘什么有效（What Works）’的主要弱点在于，它产生的证据仅与单一的非此即彼的决策相关。”
+> ("The key weakness of 'What Works' is that it generates evidence relevant only to single either-or decisions.") (p. 300, citing Cartwright & Hardie, 2012)
 >
-> > "In contrast, [[Improvement Science]] and other networked inquiry approaches are designed to fit with the daily context of teaching and learning, allowing for continuous small decisions based on [[Feedback]] and adaptation." (p. 300)
+> > “相比之下，[[Improvement Science|改进科学]]和其他网络化探究方法旨在适应教与学的日常情境，允许根据反馈和调整做出持续的小型决策。”
+> ("In contrast, [[Improvement Science]] and other networked inquiry approaches are designed to fit with the daily context of teaching and learning, allowing for continuous small decisions based on [[Feedback]] and adaptation.") (p. 300)
 >
-> > "The central advantage of designing trials around mechanisms is that it would allow for greater continuity between randomized evaluations and the 'learning sciences'." (p. 305)
+> > “围绕机制设计试验的核心优势在于，它允许随机评估与‘学习科学’之间建立更大的连续性。”
+> ("The central advantage of designing trials around mechanisms is that it would allow for greater continuity between randomized evaluations and the 'learning sciences'.") (p. 305)
 >
-> > "The shared set of mechanisms would provide a means to learn from, and form a continuity with, the insights generated within improvement and inquiry networks, and within the learning sciences." (p. 308)
+> > “共享的一组机制将提供一种手段，从改进和探究网络以及学习科学中产生的见解中学习，并与之形成连续性。”
+> ("The shared set of mechanisms would provide a means to learn from, and form a continuity with, the insights generated within improvement and inquiry networks, and within the learning sciences.") (p. 308)
 >
-> > "The learner becomes the focus as opposed to the protocols of the programme to be implemented." (p. 307)
+> > “学习者成为了焦点，而不是要实施的项目方案。”
+> ("The learner becomes the focus as opposed to the protocols of the programme to be implemented.") (p. 307)
 
 ## 局限性与批评
 

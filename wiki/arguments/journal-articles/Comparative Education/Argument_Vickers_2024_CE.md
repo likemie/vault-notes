@@ -253,15 +253,20 @@ updated: 2026-05-25
 ## 关键引用
 
 > [!quote] 关键引用
-> > "The post-2020 overhaul of the curriculum for [[Liberal Studies]] / [[Citizenship and Social Development|CSD]] signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese."（p.154）
+> > “2020年后对通识教育 / [[Citizenship and Social Development|公民与社会发展科]]（CSD）的全面改革标志着一种决定性的转变：从强调培养……对负责任地行使参与式公民权至关重要的品质，转向强加一种将香港视为中国人的同质化、总体化的愿景。”
+> ("The post-2020 overhaul of the curriculum for [[Liberal Studies]] / [[Citizenship and Social Development|CSD]] signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese.")（p.154）
 >
-> > "While within Hong Kong, political and ideological discourse pays less direct or explicit homage to the CCP and the person of Xi himself than on the mainland, a growing convergence in narratives of history, culture, values and identity is clear."（p.154）
+> > “虽然在香港内部，政治和意识形态话语对中共及习近平本人的致敬不如在内地那样直接或明确，但在历史、文化、价值观和认同叙事上的日益趋同是显而易见的。”
+> ("While within Hong Kong, political and ideological discourse pays less direct or explicit homage to the CCP and the person of Xi himself than on the mainland, a growing convergence in narratives of history, culture, values and identity is clear.")（p.154）
 >
-> > "Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation."（p.154）
+> > “与此同时，官方话语将青年的疏离感简化为个体心理异常的问题。随着对既定秩序的批评如今被定性为叛国并被宣布为非法，对公众不满的解释就必须在私人或个体适应不良的层面上去寻找了。”
+> ("Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation.")（p.154）
 >
-> > "Hong Kong thus stands as a warning of how 'decolonial' thinking, in obsessing over the 'pedigree' of ideas, can overlook the importance of native 'agency'."（p.155）
+> > “因此，香港成为了一个警告，警示了‘去殖民化’思维在沉迷于思想的‘血统’时，是如何可能忽视本土‘能动性’的重要性的。”
+> ("Hong Kong thus stands as a warning of how 'decolonial' thinking, in obsessing over the 'pedigree' of ideas, can overlook the importance of native 'agency'.")（p.155）
 >
-> > "In fulfilment of a fascistic vision of culture, race and state sovereignty, politics in the new Hong Kong is no longer presented as an arena for civic agency, but as a stage for performing patriotic loyalty."（p.155）
+> > “为了实现关于文化、种族和国家主权的法西斯式愿景，新香港的政治不再被呈现为公民能动性的竞技场，而是作为表演爱国忠诚的舞台。”
+> ("In fulfilment of a fascistic vision of culture, race and state sovereignty, politics in the new Hong Kong is no longer presented as an arena for civic agency, but as a stage for performing patriotic loyalty.")（p.155）
 
 ---
 

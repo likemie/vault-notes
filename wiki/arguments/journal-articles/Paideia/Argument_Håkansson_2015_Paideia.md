@@ -91,10 +91,12 @@ updated: '2026-05-20'
 
 > [!quote] 关键引用
 > > “我所推动的论点是，我们可以看到学校发展工作正朝着各种贴近课堂策略的变体方向发生转变。”
-> ("Den tes jag har drivit har varit att vi kan se förskjutningar i riktning mot olika varianter av klassrumsnära strategier i skolutvecklingsarbetet.")（Håkansson, 2015, p.58）
+> (“我所推动的论点是，我们可以看到学校发展工作正朝着各种贴近课堂策略的变体方向发生转变。”
+> ("Den tes jag har drivit har varit att vi kan se förskjutningar i riktning mot olika varianter av klassrumsnära strategier i skolutvecklingsarbetet."))（Håkansson, 2015, p.58）
 >
 > > “教师们也证明了他们对教学各个方面的意识有所提高……并且对在教学中尝试新事物的信心也有所增强。”
-> ("Lärarna vittnar även om en ökad medvetenhet om aspekter i undervisningen ... och en stärkt tilltro till att prova nya saker i undervisningen.")（Håkansson, 2015, p.59）
+> (“教师们也证明了他们对教学各个方面的意识有所提高……并且对在教学中尝试新事物的信心也有所增强。”
+> ("Lärarna vittnar även om en ökad medvetenhet om aspekter i undervisningen ... och en stärkt tilltro till att prova nya saker i undervisningen."))（Håkansson, 2015, p.59）
 
 ## 局限性与批评
 

@@ -134,15 +134,20 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > "When taking the necessary in-depth look at [[Visible Learning]] with the eye of an expert, we find not a mighty castle but a fragile house of cards that quickly falls apart." (Bergeron & Rivard, 2017, p.238)
+> > “当以专家的眼光对可见的学习进行必要的深入审视时，我们发现的不是一座坚固的城堡，而是一个迅速崩塌的脆弱纸牌屋。”
+> ("When taking the necessary in-depth look at [[Visible Learning]] with the eye of an expert, we find not a mighty castle but a fragile house of cards that quickly falls apart.") (Bergeron & Rivard, 2017, p.238)
 >
-> > "To believe [[John Hattie|Hattie]] is to have a blind spot in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness." (Bergeron & Rivard, 2017, p.238)
+> > “相信[[John Hattie|哈蒂]]（Hattie）意味着在评估科学严谨性时存在批判性思维的盲点。推崇他的工作不幸地陷入了对伪科学的宣传。最后，在意识到对其方法论的严肃批评后仍坚持为哈蒂辩护，则构成了蓄意的盲目。”
+> ("To believe [[John Hattie|Hattie]] is to have a blind spot in one's critical thinking when assessing scientific rigor. To promote his work is to unfortunately fall into the promotion of pseudoscience. Finally, to persist in defending Hattie after becoming aware of the serious critique of his methodology constitutes willful blindness.") (Bergeron & Rivard, 2017, p.238)
 >
-> > "Hattie's comparisons are arbitrary and he is completely unaware of it." (Bergeron & Rivard, 2017, p.241)
+> > “哈蒂的比较是武断的，而他对此完全没有意识到。”
+> ("Hattie's comparisons are arbitrary and he is completely unaware of it.") (Bergeron & Rivard, 2017, p.241)
 >
-> > "Basically, Hattie computes averages that do not make any sense." (Bergeron & Rivard, 2017, p.240)
+> > “基本上，哈蒂计算的平均值没有任何意义。”
+> ("Basically, Hattie computes averages that do not make any sense.") (Bergeron & Rivard, 2017, p.240)
 >
-> > "It is clear that John Hattie and his team have neither the knowledge nor the competencies required to conduct valid statistical analyses. No one should replicate this methodology because we must never accept pseudoscience." (Bergeron & Rivard, 2017, p.245)
+> > “显而易见，约翰·哈蒂及其团队既不具备也不拥有进行有效统计分析所需的知识或能力。不应有人复制这种方法论，因为我们绝不能接受伪科学。”
+> ("It is clear that John Hattie and his team have neither the knowledge nor the competencies required to conduct valid statistical analyses. No one should replicate this methodology because we must never accept pseudoscience.") (Bergeron & Rivard, 2017, p.245)
 
 ## 局限性与批评
 

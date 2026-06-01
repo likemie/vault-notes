@@ -92,15 +92,19 @@ updated: 2026-05-18
 ## 关键引用
 
 > [!quote] 关键引用
-> > "I argue that the uncritical acceptance and proliferation of this cult is a tragedy for Australian [[School Leadership]]."（p.413）
+> > “我认为，这种对个人崇拜的盲目接受和扩散是澳大利亚[[School Leadership|学校领导力]]领域的一场悲剧。”
+> ("I argue that the uncritical acceptance and proliferation of this cult is a tragedy for Australian [[School Leadership]].")（p.413）
 >
 > > "[[John Hattie|Hattie]] has provided the means through which scientific management can be achieved in educational leadership."（p.419）
 >
-> > "Rather than models of pedagogy, even those that came with instruments to measure the quality of practice ... Hattie provided school administrators with evidence on which they could base decisions – evidence informed decisions."（p.418）
+> > “相比于教学模型——即使是那些配有衡量实践质量工具的模型——哈蒂（Hattie）为学校管理者提供的是他们可以据以做出决策的证据，即循证决策。”
+> ("Rather than models of pedagogy, even those that came with instruments to measure the quality of practice ... Hattie provided school administrators with evidence on which they could base decisions – evidence informed decisions.")（p.418）
 >
-> > "The partitioning of teaching into smallest measurable units, a piecemeal articulation of how to improve student learning, is not too removed from the work of Taylor over 100 years ago."（p.422）
+> > “将教学划分为最小的可测量单位，这种零碎地阐述如何改善学生学习的方式，与100多年前泰勒（Taylor）的工作并没有太大的区别。”
+> ("The partitioning of teaching into smallest measurable units, a piecemeal articulation of how to improve student learning, is not too removed from the work of Taylor over 100 years ago.")（p.422）
 >
-> > "To subjectify oneself to a single figure is to elevate that individual to guru status. What the Australian school leadership community arguably needs is more rigorous and robust work and more significantly, dialogue and debate (to which Hattie is a part) not the blind adherence to a single guru."（p.422）
+> > “将自己主体化于某个单一人物之下，就是将该人物提升到了‘教父（guru）’的地位。澳大利亚学校领导力共同体可以说更需要的是更严谨、更稳健的工作，以及更重要的对话与辩论（哈蒂也是其中的一部分），而不是盲目追随某一个教父。”
+> ("To subjectify oneself to a single figure is to elevate that individual to guru status. What the Australian school leadership community arguably needs is more rigorous and robust work and more significantly, dialogue and debate (to which Hattie is a part) not the blind adherence to a single guru.")（p.422）
 
 ## 局限性与批评
 

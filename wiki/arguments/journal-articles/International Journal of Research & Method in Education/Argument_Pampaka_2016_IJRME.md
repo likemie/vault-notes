@@ -35,7 +35,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> "What works" 议程在教育中是否有效？通过引入 IJRME 特刊七篇论文，考察当前 [[Randomised Controlled Trials|RCT]] 主导的证据实践在方法论上的进展与局限，探讨是否需要从"什么有效"转向"什么在何处、如何、对谁有效"。
+> “什么有效（What works）”议程在教育中是否有效？通过引入 IJRME 特刊七篇论文，考察当前[[Randomised Controlled Trials|RCT]]主导的证据实践在方法论上的进展与局限，探讨是否需要从“什么有效”转向“什么在何处、如何、对谁有效”。
 
 ## 理论框架
 
