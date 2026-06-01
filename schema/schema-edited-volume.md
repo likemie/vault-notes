@@ -91,6 +91,7 @@ wiki/arguments/books/<book-folder>/
    - 读取 `wiki/templates/template-argument.md`
    - 文件名：`Argument_作者姓_年份_章节关键词.md`
    - frontmatter 至少填写：
+     - `authors`，每位章节作者单独一项
      - `summary`
      - `subtype: book-chapter`
      - `publication_type: book`
