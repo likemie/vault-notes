@@ -415,12 +415,10 @@ updated: 2026-06-01
 
 三个视觉模型实例如下。
 
-> [!example]- 图片占位
-> 图3.1 Three Predictor Variables Influence a Single Dependent Variable Mediated by Two Intervening Variables
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-1_Three_Predictor_Variables.jpg)
+> [!example]- Three Predictor Variables Influence a Single Dependent Variable Mediated by Two Intervening Variables
+>![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-1_Three_Predictor_Variables.jpg)
 
-> [!example]- 图片占位
-> 图3.2 Two Groups With Different Treatment on X Are Compared in Terms of Y
+> [!example]- Two Groups With Different Treatment on X Are Compared in Terms of Y
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-2_Two_Groups_Compared.jpg)
 
 > [!example]- 图片占位
