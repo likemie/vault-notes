@@ -49,7 +49,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 理论框架
 
-> [![[Abstract]]] 分析视角
+> [!note] 分析视角
 > 不采用严格的学术理论，而是基于[[University-Industry Collaboration|产学合作]]实务中的制度分析视角。核心逻辑链为：**组织使命差异 → IP 利益的结构性冲突 → 合同条款的精细化设计来弥合冲突**。论证围绕三组概念展开：
 >
 > - **[[Foreground IP]]（FIP）**：合作期间产生的知识产权，定义通常争议较小
@@ -80,8 +80,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 **版权（Copyright）**保护创造性表达的有形载体（出版物、电影、软件代码等），禁止未经授权的复制、展示、表演或修改。在产学合作中，版权主要与软件相关——一旦代码被编写完成，即自动成为受版权保护的作品。软件的**功能**也可以同时受到发明专利的覆盖。其他合作产出（技术报告、科学论文）虽然也可受版权保护，但其表达的版权保护远不如其内容的商业价值重要（p.272）。
 
-> [!info]
-> 商标保护商品和服务的来源标识，防止他人使用混淆性或欺骗性标记。例如，使用与星巴克极其相似的标识销售自有品牌咖啡，可能使消费者误以为购买了正品星巴克，构成商标侵权。但商标在产学合作中几乎不扮演角色——大多数大学有严格的名称和标识使用指南，禁止任何可能暗示大学背书商业实体、活动或产品的用途（p.272）。
+**商标（Trademark）**保护商品和服务的来源标识，防止他人使用混淆性或欺骗性标记。例如，使用与星巴克极其相似的标识销售自有品牌咖啡，可能使消费者误以为购买了正品星巴克，构成商标侵权。商标在产学合作中几乎不扮演角色——大多数大学有严格的名称和标识使用指南，禁止任何可能暗示大学背书商业实体、活动或产品的用途（p.272）。
 
 **商业秘密**由个人或组织通过将特定流程细节或产品成分安全隐藏于公众访问之外而持有。原则上可无限期保持，但不保护独立发明或逆向工程。产业界广泛使用商业秘密，但大学几乎不持有——传播科学知识的使命要求公开发现和发明。因此，在产学合作中寻求商业秘密保护几乎不切实际（p.272）。
 
@@ -96,7 +95,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 Bayh-Dole Act 改变了这一切：大学和其他联邦研究资助接受者现在可以**保留使用联邦资金所做发明的所有权**。这一制度转变释放了巨大的创新能量。
 
-> [![[Abstract]]] 联邦资助的结构性变化
+> [!note] 联邦资助的结构性变化
 > 大学研究过去以联邦资助为主，但联邦来源占大学研究支出的比例已从 1991 年的约 70% 下降至 2021 年的不足 60%（AUTM, 2024, cited at p.273）。产业资金成为日益重要的替代来源——2023 年仅美国产学合作研究资助即超过 71 亿美元（AUTM, 2024）。这一结构性变化意味着大学的财政可持续性越来越依赖与产业的合作关系，而 IP 条款正是这种关系的核心纽带。
 
 **大学从产学合作中获得的利益**（pp.273–274）：
@@ -196,6 +195,7 @@ Bayh-Dole Act 改变了这一切：大学和其他联邦研究资助接受者现
 
 协议中 IP 的典型定义（p.279）：
 
+> [!quote]
 > "Intellectual Property (IP)" means Inventions and Copyrightable Material, where "Invention" means any invention or discovery that is or may be patentable or otherwise protectable under Title 35 of the United States Code, and "Copyrightable Material" means any material or other property, including computer software, that is or may be copyrightable or otherwise protectable under Title 17 of the United States Code.
 
 > [!abstract] [[Foreground IP|FIP]] 的定义与所有权
