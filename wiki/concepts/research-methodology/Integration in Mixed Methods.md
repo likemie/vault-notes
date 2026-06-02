@@ -2,13 +2,11 @@
 title: Integration in Mixed Methods
 aliases:
   - 混合方法中的整合
-  - 整合
   - integration
   - mixed methods integration
   - data integration in mixed methods
   - 混合方法整合
-  - 数据整合
-summary: "混合方法研究的核心概念，指在研究中将量化与质性数据的信息进行组合或混合，包括整合的意图（为何组合）和程序（如何实施组合），整合方式因设计类型而异"
+summary: 混合方法研究的核心概念，指在研究中将量化与质性数据的信息进行组合或混合，包括整合的意图（为何组合）和程序（如何实施组合），整合方式因设计类型而异
 type: concept
 tags:
   - research-methodology
