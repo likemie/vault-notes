@@ -1361,7 +1361,7 @@ Total entries: **1056**
 - [[Argument_Narayan_Spohrer_2025_Metrics]] — 以IBM百年产学关系历程为线索，提出度量、激励、奖励与文化四要素必须随商业环境与战略重点持续调适，并通过六R框架和大小规模案例说明产学合作的实践逻辑
 - [[Argument_Swick_Jones_2025_AcademicHealthSystems]] — 论证学术健康系统是一种不同于传统学术医学中心的独特产学合作组织载体，以医师科学家为关键催化者，通过价值对齐模型将大学、产业和医院的优先差异重新聚焦到患者中心，从而促进医用创新的翻译和部署
 - [[Argument_Ulrichsen_2025_UIR_Evolution]] — 综述过去50年产学关系演变，从创新模型、国家政策范式和大学-企业角色变迁三个维度追踪UIR从零散互动走向制度化战略化的历程，提出七层次影响因素框架
-- [[Argument_Wolf_2025_InternationalResearchCollab]] — 以目标对齐、知识产权、地缘政治和文化沟通为分析维度，探讨国际产学合作的机遇与挑战，并通过 Mars 与 UC Davis 的长期合作案例提炼跨国研究伙伴关系的成功条件
+- [[Argument_Wolf_2025_InternationalResearchCollab]] — 以目标对齐、知识产权、地缘政治和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系，并通过 Mars 与 UC Davis 四十年合作的三个案例还原跨国研究伙伴关系从启动、运作到规模化的完整论证链
 
 #### Parreira do Amaral(Ed.)_2022_Springer
 

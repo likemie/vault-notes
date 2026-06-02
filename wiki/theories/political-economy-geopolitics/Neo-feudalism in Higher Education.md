@@ -44,14 +44,15 @@ updated: 2026-06-01
 > 高等教育新封建主义（Neo-feudalism in Higher Education）是 Schulze-Cleven et al.（2017）引入高等教育研究的范式概念。其核心主张是：当代高等教育中正在进行的学术依附和忠诚关系的重新结构化，不仅产生了自由市场动力，更催生了新封建式的权力关系系统——学术等级通过忠诚与联盟、群体特权以及制度声望的公共展示得以维持，而非仅由市场交换逻辑驱动（Schulze-Cleven et al., 2017, pp.798–799）。
 
 这一概念借用了 Habermas（1962/1989）的"再封建化"（re-feudalization）概念——最初指媒体公司——并将其引入高等教育分析。在德国近期关于社会不平等的讨论中，再封建化和新封建主义概念已获得一定关注（Neckel, 2013; Zinn, 2015; Schulze-Cleven et al., 2017, p.799）。
-
 > [!quote]
-> "当前正在进行的学术依附和忠诚关系的重新结构化（如 [[Pierre Bourdieu|Bourdieu]], 1984 所描绘），似乎不仅产生了自由市场动力，还催生了新封建式的权力关系系统。"（Schulze-Cleven et al., 2017, pp.798–799）
+> "the ongoing restructuring of academic dependencies and loyalties (as pictured by [[Pierre Bourdieu|Bourdieu]], 1984) appears to have generated not just free-market dynamics but also a system of neo-feudal power relations"（Schulze-Cleven et al., 2017, pp.798–799）
+> 
+> 当前正在进行的学术依附和忠诚关系的重新结构化（如 Bourdieu, 1984 所描绘），似乎不仅产生了自由市场动力，还催生了新封建式的权力关系系统。
 
 ## 核心命题
 
 > [!abstract]
-> 新封建主义视角揭示了高等教育部门中多种"封建性"元素（Schulze-Cleven et al., 2017, pp.798–799）：
+> 新封建主义视角揭示了高等教育部门中多种**封建性**元素（Schulze-Cleven et al., 2017, pp.798–799）：
 
 ### 学术权力的个人化依附
 
@@ -63,20 +64,20 @@ updated: 2026-06-01
 
 ### 种姓式的不平等再生产
 
-精英高等教育机构充当了上层阶级再生产的机制——精英大学不仅教育精英后代，更通过录取、社交网络和就业市场筛选，系统性地将社会优势转化为"学术功绩"，从而合法化不平等（Rivera, 2015; Schulze-Cleven et al., 2017, p.799）。
+精英高等教育机构充当了上层阶级再生产的机制——精英大学不仅教育精英后代，更通过录取、社交网络和就业市场筛选，系统性地将社会优势转化为**学术功绩**，从而合法化不平等（Rivera, 2015; Schulze-Cleven et al., 2017, p.799）。
 
 ### 知识租金的经济
 
-学术评价和排名体系创造了一种"[[Knowledge Rents|知识租金]]"（knowledge rents）的经济——精英机构通过控制知识的合法定义和评价标准，获取和维持特权地位。知识产权制度（专利、版权）将本应属于公共品的知识转化为可私人占有的资产（Drahos & Braithwaite, 2002; Schulze-Cleven et al., 2017, p.799）。
+学术评价和排名体系创造了一种**知识租金**（knowledge rents）的经济——精英机构通过控制知识的合法定义和评价标准，获取和维持特权地位。知识产权制度（专利、版权）将本应属于公共品的知识转化为可私人占有的资产（Drahos & Braithwaite, 2002; Schulze-Cleven et al., 2017, p.799）。
 
 ## 两种类型学
 
 > [!note]
 > Wieczorek, Beyer & Münch运用 Weber 式理想类型，区分了学术新封建主义的两种形态（Schulze-Cleven et al., 2017, pp.805–806）：
 
-| 维度 | 封地封建主义（Fief Feudalism） | 俸禄封建主义（Benefice Feudalism） |
+| 维度 | 封地封建主义 (Fief Feudalism) | 俸禄封建主义 (Benefice Feudalism) |
 |------|-------------------------------|-----------------------------------|
-| 依附关系 | 受封者（vassals）享有相对自主性 | 受封者受明确的经济适用性指令约束 |
+| 依附关系 | 受封者 (vassals) 享有相对自主性 | 受封者受明确的经济适用性指令约束 |
 | 资源来源 | 研究拨款，自主决定研究方向 | 定向拨款，研究方向由资助方指定 |
 | 典型场景 | 基础研究、理论导向学科 | 应用研究、产业合作项目 |
 | 时间特征 | 允许较长时间在顶级期刊发表 | 研究产出节奏受外部需求驱动 |
@@ -86,8 +87,9 @@ updated: 2026-06-01
 ## 发展脉络
 
 > [!note]
-> - **1962 年**：Habermas 在 Strukturwandel der Öffentlichkeit 中提出"再封建化"概念，指媒体公司对公共领域的侵蚀（Habermas, 1962/1989）
-> - **1984 年**：[[Pierre Bourdieu|Bourdieu]] 在 Homo Academicus 中分析了法国学术阶级的分化——不同"分数"（fractions）具有不同的再生产模式和与统治阶级的关系（Bourdieu, 1984; Schulze-Cleven et al., 2017, p.799）
+> - **1962 年**：Habermas 在 Strukturwandel der Öffentlichkeit 中提出**再封建化**概念，指媒体公司对公共领域的侵蚀（Habermas, 1962/1989）
+> - **1984 年**：[[Pierre Bourdieu|Bourdieu]] 在 Homo Academicus 中分析了法国学术阶级的分化——不同分数（fractions）具有不同的再生产模式和与统治阶级的关系（Bourdieu, 1984; Schulze-Cleven et al., 2017, p.799）
+... Applied fuzzy match at line 48-112.
 > - **2013 年**：Neckel 和 Zinn 在德国的社会不平等讨论中重新激活了再封建化和新封建主义概念（Neckel, 2013; Zinn, 2015）
 > - **2015 年**：Möller（2015）和 Graf（2015）运用 Bourdieu 的学术阶级理论对教授和学术官员进行实证研究（Schulze-Cleven et al., 2017, p.799）
 > - **2017 年**：Schulze-Cleven et al. 将新封建主义引入高等教育研究作为分析范式

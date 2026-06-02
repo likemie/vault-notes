@@ -4,6 +4,7 @@ extracted_to:
   - "[[University-Industry Collaboration]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Triple Helix]]"
+  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---

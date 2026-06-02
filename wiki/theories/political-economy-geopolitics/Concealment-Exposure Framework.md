@@ -34,10 +34,12 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 隐藏-暴露（concealment-exposure）框架源自 Nagel (1998) 对隐私和人性关系的[[Philosophical Analysis in Education|哲学分析]]，Partaken (2022) 将其提升为[[Geopolitics of Knowledge|知识地缘政治]]（GPK）的核心分析工具：在个人层面，揭示与隐藏之间的边界及其控制是"我们人性最重要的属性之一"；在国家层面，隐藏（有意识地使某些知识不可获取）和暴露（在便利时刻披露特定知识以削弱对手）的组合运用构成 GPK 的核心地缘政治操作（Partaken, 2022, p.80）。
+> 隐藏-暴露（concealment-exposure）框架源自 Nagel (1998) 对隐私和人性关系的[[Philosophical Analysis in Education|哲学分析]]，Partaken (2022) 将其提升为[[Geopolitics of Knowledge|知识地缘政治]]（GPK）的核心分析工具：在个人层面，揭示与隐藏之间的边界及其控制是**我们人性最重要的属性之一**；在国家层面，隐藏（有意识地使某些知识不可获取）和暴露（在便利时刻披露特定知识以削弱对手）的组合运用构成 GPK 的核心地缘政治操作（Partaken, 2022, p.80）。
 
 > [!quote]
-> "What we reveal and what we don't reveal boundary, and some control over that boundary, is among the most important attributes of our humanity."（Nagel, 1998, p.4; 引自 Partaken, 2022, p.80）
+> "What we reveal and what we don't reveal boundary, and some control over that boundary, is among the most important attributes of our humanity."（Nagel, 1998, p.4; cited in Partaken, 2022, p.80）
+> 
+> 我们揭示什么以及不揭示什么的边界，以及对该边界的某些控制，是我们人性最重要的属性之一。
 
 ---
 
@@ -45,16 +47,16 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Knowledge Sabotage]] — 破坏是在隐藏-暴露框架下的一种极端操作：暴露（披露）用于削弱对手，隐藏用于保护自身。破坏不同于单纯的隐藏——它是主动摧毁对方的知识资产
-> - vs 监视与审查 — 监视和审查是隐藏-暴露框架的具体运作模态：监视是系统性暴露被监控者的知识行为，审查是系统性隐藏被审查者不可获取的信息。两者共用同一逻辑——都在管理"谁可以知道什么"
+> - vs 监视与审查 — 监视和审查是隐藏-暴露框架的具体运作模态：监视是系统性暴露被监控者的知识行为，审查是系统性隐藏被审查者不可获取的信息。两者共用同一逻辑——都在管理谁可以知道什么
 
 ---
 
 ## 概念演变
 
 > [!note]
-> - **Nagel (1998) 的原始论证**：Nagel 在 *Concealment and Exposure* 中将隐藏-暴露的边界控制定位为人性的核心属性——人类主体性的构成部分在于有能力决定向谁、在什么条件下揭示自己。这一论证最初面向个人隐私的[[Philosophical Analysis in Education|哲学分析]]（Partaken, 2022, p.80）
-> - **Partaken (2022) 的 [[Geopolitics of Knowledge|GPK]] 应用**：Partaken 将 Nagel 的个人层面分析提升至国家层面——在 GPK 中，国家不仅管理个人的隐藏与暴露（通过监视和审查），而且自身也操作隐藏与暴露（通过信息战、破坏和宣传）。Partaken 在间谍（获取知识）和破坏（摧毁知识）之间插入此框架作为理论过渡，论证监视、审查和破坏都依赖隐藏-暴露的二元逻辑运作（Partaken, 2022, p.80–83）
-
+> - **Nagel (1998) 的原始论证**：Nagel 在 Concealment and Exposure 中将隐藏-暴露的边界控制定位为人性的核心属性——人类主体性的构成部分在于有能力决定向谁、在什么条件下揭示自己。这一论证最初面向个人隐私的[[Philosophical Analysis in Education|哲学分析]]（Partaken, 2022, p.80）。
+> - **Partaken (2022) 的 [[Geopolitics of Knowledge|GPK]] 应用**：Partaken 将 Nagel 的个人层面分析提升至国家层面——在 GPK 中，国家不仅管理个人的隐藏与暴露（通过监视和审查），而且自身也操作隐藏与暴露（通过信息战、破坏和宣传）。Partaken 在间谍（获取知识）和破坏（摧毁知识）之间插入此框架作为理论过渡，论证监视、审查和破坏都依赖隐藏-暴露的二元逻辑运作（Partaken, 2022, p.80–83）。
+... Applied fuzzy match at line 39-78.
 ---
 
 ## 核心要素

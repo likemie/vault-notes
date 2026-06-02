@@ -1,7 +1,8 @@
 ---
-title: Co-location (University-Industry)
+title: University-Industry Co-location
 aliases:
   - "产学共同选址"
+  - "Co-location (University-Industry)"
   - "大学产业共同选址"
   - "co-location"
   - "colocation"
