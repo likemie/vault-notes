@@ -185,11 +185,31 @@ updated: 2026-06-01
 
 全书为研究者提供设计研究计划或研究方案的框架、流程和写作方法，覆盖量化、质性和混合方法三种研究路径。这一比较从三个路径共有的初步要素（哲学假设、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题与假设]]，以及数据收集、分析和解释的方法程序。
 
+> [!quote]
+> “本书提出了一套框架、过程和写作方法，用于在人类科学、健康科学和社会科学领域设计质性、量化和混合方法研究计划或项目。”
+> ("This book advances a framework, a process, and compositional approaches for designing a proposal or research project for qualitative, quantitative, and mixed methods research in the human, health, and social sciences.")（前言）
+
 教材面向需要撰写期刊论文、学位论文、开题报告或资助申请的学生和教师，也可作为研究方法课程的教材和参考书。书中术语在正文中高亮，书末附有术语表。读者群体广泛，涵盖人文、健康和社会科学的多个领域。
+
+> [!quote]
+> “本书不是一本详细的方法论教材；相反，我们强调研究设计的核心特征。我们试图将研究简化为其核心理念，以便研究者能够规划一项彻底而深思熟虑的研究。”
+> ("This book is not a detailed method text; instead, we highlight the essential features of research design. We have attempted to reduce research to its core ideas so that researchers can plan a thorough and thoughtful study.")（前言）
 
 在格式上，教材聚焦研究设计的核心要素，不展开完整的操作方法细节。量化方法聚焦常用的调查和实验设计；质性方法涵盖[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]和案例研究；混合方法则介绍聚敛式（convergent）、解释性序列（explanatory sequential）和探索性序列（exploratory sequential）三种核心设计。第六版新增了更具包容性的语言表述、每章开头的学习目标、量化方法章节的重组与扩充、三个方法章节采用一致的结构顺序、混合方法章节的内容更新，以及改进后的写作练习。
 
+> [!quote]
+> “设计一项研究是一个困难且耗时的过程。本书不一定会让这个过程变得更容易或更快，但它可以提供在研究中有用的具体技能、关于该过程所涉及步骤的知识，以及撰写学术研究的实用指南。”
+> ("Designing a study is a difficult and time-consuming process. This book will not necessarily make the process easier or faster, but it can provide specific skills useful in research, knowledge about the steps involved in the process, and a practical guide to composing and writing scholarly research.")（前言）
+
 全书分为两大部分。第一部分（第1–4章）涉及研究设计前的预备步骤，包括选择研究路径、综述文献、运用理论、处理写作与伦理问题。第二部分（第5–10章）逐项展开研究计划各组成部分的撰写方法。
+
+> [!quote]
+> “第一部分讨论了在设计研究计划或方案之前必须考虑的几个初步因素。这些考虑涉及选择合适的研究路径、审查文献以将拟议的研究置于现有文献之中、决定是否在研究中使用理论，以及在开始时就采用良好的写作和伦理实践。”
+> ("Part I addresses several preliminary considerations that are necessary before designing a proposal or a plan for a study. These considerations relate to selecting an appropriate research approach, reviewing the literature to position the proposed study within the existing literature, deciding on whether to use a theory in the study, and employing—at the outset—good writing and ethical practices.")（第一部分引言）
+
+> [!quote]
+> “混合方法研究涉及在一项研究中收集并‘混合’或整合量化和质性两类数据。仅仅分析你的质性和量化数据是不够的。进一步的分析包括整合这两个数据库，以获得对研究问题的额外洞见。”
+> ("Mixed methods research involves the collection and 'mixing' or [[Integration in Mixed Methods|integration]] of both quantitative and qualitative data in a study. It is not enough to only analyze your qualitative and quantitative data. Further analysis comprises integrating the two databases for additional insight into [[Research Problem|research problems]] and questions.")（前言）
 
 > [!info] 三种路径的交替呈现
 > 全书的量化与质性内容交替编排，避免对任一路径的偏好。示例涵盖社会正义议题和边缘化群体研究，在方法和研究对象上都追求包容性。
@@ -227,6 +247,10 @@ updated: 2026-06-01
 | 研究设计（Research Design） | 在宽泛方法论之内开展研究的具体方式。每种设计有其特定的研究操作程序。 |
 | 研究方法（Research Methods） | 在特定设计内，研究者收集数据、分析数据并解释其意义的具体技术。 |
 
+> [!quote]
+> “尽管哲学观念在研究中很大程度上是隐藏的，但它们仍然影响着研究实践，需要被识别出来。”
+> ("Although philosophical ideas remain largely hidden in research, they still influence the practice of research and need to be identified.")（第1章, p.7）
+
 > [!info] 术语层级
 > 四个术语形成了从最抽象到最具体的层级：哲学假设（信念层）→ 研究路径（方法论层）→ 研究设计（策略层）→ 研究方法（技术层）。研究者做每一个下游决策时，都受到上游选择的影响。
 
@@ -235,8 +259,22 @@ updated: 2026-06-01
 **第二层：三种研究路径的形式定义。** 三种路径构成一个连续谱，混合方法位于中间位置。
 
 - [[Qualitative Research|质性研究]] 探索和理解个体或群体赋予社会或人类问题之意义。过程包含涌现式问题、在参与者自然情境中收集数据、从具体到主题的归纳式分析，以及研究者对数据意义的解释。报告结构灵活，研究者注重个体意义和情境复杂性。
+
+> [!quote]
+> “质性研究是一种探索和理解个体或群体赋予社会或人类问题的意义的路径。研究过程包括不断涌现的问题和程序，通常在参与者的自然情境中收集数据，通过归纳从细节建构总体主题的数据分析，以及研究者对数据意义做出解释。”
+> ("Qualitative research is an approach for exploring and understanding the meaning individuals or groups ascribe to a social or human problem. The research process involves emerging questions and procedures, data typically collected in the participant's setting, data analysis inductively building from particulars to general themes, and the researcher making interpretations of the meaning of the data.")（第1章, p.5）
+
 - [[Quantitative Research|量化研究]] 通过检验[[Variable|变量]]间关系或群体间比较来验证客观理论。变量可通过标准化工具测量，产生可用统计程序分析的数值数据。报告结构固定（引言—方法—结果—讨论），研究者以演绎方式检验理论，控制偏差，寻求推广和复制。
+
+> [!quote]
+> “[[Quantitative Research|量化研究]]是一种通过考察变量间关系或比较群体来检验客观理论的路径。这些变量反过来可以被测量，通常使用工具进行，这样就可以使用统计程序分析数值化数据。”
+> ("[[Quantitative Research]] is an approach for testing objective theories by examining the relationship among variables or a comparison among groups. These variables, in turn, can be measured, typically on instruments, so that numbered data can be analyzed using statistical procedures.")（第1章, p.5）
+
 - 混合方法研究 同时收集量化与质性数据，使用特定设计整合两类数据，并从合并数据库中得出整合性推论（[[Metainferences]]）。
+
+> [!quote]
+> “[[Mixed Methods Research|混合方法研究]]是一种探究路径，涉及收集量化和质性两类数据，使用特定的程序或设计，在该设计内合并（或整合）这两种形式的数据，并得出关于从合并数据库中涌现的洞见的结论（[[Metainferences|元推论]]）。”
+> ("Mixed methods research is an approach to inquiry involving collecting both quantitative and qualitative data, using a specific procedure or design, combining (or integrating) the two forms of data within the design, and drawing conclusions (metainferences) about the insight to emerge from the combined databases.")（第1章, p.5）
 
 > [!note]- 连续谱而非二分
 > 量化和质性不宜视为截然对立或互斥的范畴，两者的区分常用"文字（质性）vs 数字（量化）"或"开放问题 vs 封闭问题"来表述。更完整的区分方式是从哲学假设、研究策略和具体方法三个层面来观察差异梯度。从历史看，量化路径在 19 世纪末至 20 世纪中期主导社会科学，20 世纪后半叶质性研究兴起，混合方法随之发展。
@@ -244,6 +282,10 @@ updated: 2026-06-01
 ---
 
 **第三层：哲学世界观。** 世界观是"引导行动的一套基本信念"（[[Egon G. Guba|Guba]], 1990, p.17），位于研究路径选择的最底层，通常隐而不显但深刻影响研究实践。四种世界观的核心假设逐一展开如下。
+
+> [!quote]
+> “我们选择使用‘世界观’一词，意思是‘指导行动的一套基本信念’（[[Egon G. Guba|Guba]], 1990, p. 17）。”
+> ("We have chosen to use the term worldview as meaning 'a basic set of beliefs that guide action' ([[Egon G. Guba|Guba]], 1990, p. 17).")（第1章, p.7）
 
 - [[Postpositivism|后实证主义]] 持决定论和还原论立场。知识是推测性的，绝对真理无法被找到；研究者从理论出发，通过经验观察与测量收集数据，检验、验证并完善理论。它来自 19 世纪的 Comte、Mill、Durkheim、Newton、[[John Locke|Locke]]，以及 Phillips 和 Burbules (2000)，是量化研究的主导哲学。
 - [[Constructivist Paradigm|建构主义]] 认为个体通过与世界的互动和社会历史背景建构主观意义。研究目标是理解参与者的多元和复杂视角，问题设计宽泛而开放。它从数据中归纳生成意义模式，不预设理论。思想来源包括 Berger 和 Luckmann (1967)、[[Yvonna S. Lincoln|Lincoln]] 和 Guba (1985)、Crotty (1998) 等。它是质性研究的主导哲学。
@@ -318,11 +360,24 @@ updated: 2026-06-01
 
 #### 概览
 
-第2章的逻辑线是：**确定[[Research Topic|研究主题]] → 审查可行性 → 理解[[Literature Review|文献综述]]的角色 → 实际检索 → 加工文献 → 呈现规范。** 文献检索不能盲目开始，必须先有明确的方向。
+第2章通过以下步骤展开文献综述的系统流程：
+
+- 确定[[Research Topic|研究主题]]
+- 审查可行性
+- 理解[[Literature Review|文献综述]]的角色
+- 实际检索
+- 加工文献
+- 呈现规范
+
+文献检索不能盲目开始，必须先有明确的方向。
 
 ---
 
 **第一步：确定研究主题。** 研究者常跳过草拟标题直接检索。工作标题是"路标"（road sign）。
+
+> [!quote]
+> “优秀、扎实的研究项目始于直截了当、毫不复杂的想法，以便读者能够轻松理解。”
+> ("Good, sound research projects begin with straightforward, uncomplicated thoughts that readers can easily understand.")（第2章）
 
 > [!note]- 简单 vs 复杂的张力
 > 初学者容易用复杂晦涩的语言表述主题，但"Good, sound research projects begin with straightforward, uncomplicated thoughts." 发表的期刊文章之所以干净清晰，是因为经过了大量修改。
@@ -331,9 +386,17 @@ updated: 2026-06-01
 
 **第二步：可行性审查。** "可以做"（can）是实操层面，"应该做"（should）的核心是对文献的贡献。一个典型失败场景是：研究技术层面无可挑剔，但因没有新贡献得不到委员会支持。[[Research Topic]] 条目提供了六种新角度和辅助标准。
 
+> [!quote]
+> “任何项目的首要步骤都是在图书馆花大量时间查阅关于某一主题的研究文献。这一点再怎么强调都不为过。”
+> ("A first step in any project is to spend considerable time in the library examining the research on a topic. This point cannot be overemphasized.")（第2章）
+
 ---
 
 **第三步：文献综述的角色。** [[Literature Review|文献综述]]是对已有研究的系统检索、评估和总结。关键转折在于：目的之后是"怎么组织"——而组织方式因研究路径而异。
+
+> [!quote]
+> “[[Literature Review|文献综述]]与读者分享了与当前正在进行的研究密切相关的其他研究的结果。它将一项研究与文献中更大规模、正在进行的对话联系起来，填补空白并扩展先前的研究。”
+> ("The [[Literature Review]] shares with the reader the results of other studies that are closely related to the one being undertaken. It relates a study to the larger, ongoing dialogue in the literature, filling in gaps and extending prior studies.")（第2章）
 
 ---
 
@@ -345,6 +408,10 @@ updated: 2026-06-01
 > 如果第三部分已经有很多高度相关的研究，计划研究的"贡献"就需要重新论证。第三部分的空白或稀疏，恰恰为计划研究提供了合法化空间。
 
 质性研究将文献从"提供方向"转为"不限制参与者视野"，有三种位置选择：
+
+> [!quote]
+> “在质性研究中，除非设计类型要求在开始时就有大量的文献导向，否则在开头应少量使用文献，以传达一种归纳性的设计。”
+> ("In qualitative research, use the literature sparingly in the beginning to convey an inductive design unless the design type requires a substantial literature orientation at the outset.")（第2章）
 
 > [!example]- 图片占位
 > 表2.1：质性研究中文献的使用方式  
@@ -363,6 +430,10 @@ updated: 2026-06-01
 ---
 
 **第七步：呈现规范。** APA 格式提供统一的学术写作规范，其目的是让读者"专注于内容而非格式"。[[Definition of Terms|术语定义]]的核心原则是操作化。量化研究倾向于在开头"锁定"术语意义，质性研究则允许意义在研究过程中"涌现"。
+
+> [!quote]
+> “日常语言中的词汇具有丰富的多重含义。就像其他符号一样，它们的力量来自于特定情境中意义的组合……科学语言表面上出于精确性的考虑，剥离了词汇的这种[[Multiplicity|多重性]]意义。”
+> ("The words of an everyday language are rich in multiple meanings. Like other symbols, their power comes from the combination of meaning in a specific setting. . . . Scientific language ostensibly strips this [[Multiplicity]] of meaning from words in the interest of precision.")（Firestone, 1987, p.17，引自第2章）
 
 > [!note]- "锁定"还是"涌现"？
 > 存在一个与文献综述平行的不对称性：量化研究要求在开头全面、精确地定义术语（锁定）；质性研究通常让术语在过程中涌现和定义（涌现）；混合方法视起始阶段而定。"术语定义"不仅是写作规范问题，也是认识论选择。
@@ -403,18 +474,37 @@ updated: 2026-06-01
 > “一组相互关联的[[Construct|构念]]（变量）、定义和命题，它们通过规定变量之间的关系来呈现对现象的系统性看法，其目的是解释自然现象”
 > ("a set of interrelated [[Construct|constructs]] (variables), definitions, and propositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining natural phenomena")（p.64; 引自 Creswell & Creswell, 2022, p.53）
 
-该定义包含两个关键要素：理论的目的（解释）和理论的程序（变量间关系）。Labovitz & Hagedorn (1971) 将理论依据（theoretical rationale）定义为"说明变量和关系陈述为何以及如何相互关联"（p.17）。用**彩虹比喻**来说明理论的作用：彩虹架起自变量和因变量之间的桥梁，为"自变量为何以及如何解释或预测因变量"提供总体解释。
+该定义包含两个关键要素：理论的目的（解释）和理论的程序（变量间关系）。Labovitz & Hagedorn (1971) 将理论依据（theoretical rationale）定义为"说明变量和关系陈述为何以及如何相互关联"（p.17）。用**彩虹比喻**来说明理论的作用：
 
-理论通过反复检验预测而发展。研究者将变量组合为基于不同测量形式的问题，形成[[Hypothesis|预测性假设]]，在不同情境和人群中反复检验，最终理论浮现并被命名（如[[Attribution Theory|归因理论]]）。理论按覆盖广度分为三个层次（Neuman, 2009）：
+> [!quote]
+> “彩虹的比喻可以帮助想象理论是如何运作的。假设彩虹在自变量和因变量（或构念）之间架起了一座桥梁。这条彩虹将变量联系在一起，并为我们为何以及如何预期自变量能解释或预测因变量提供了一个总体解释。”
+> ("The metaphor of a rainbow can help visualize how a theory operates. Assume that the rainbow bridges the independent and dependent variables (or constructs). This rainbow ties together the variables and provides an overarching explanation for how and why one would expect the independent variables to explain or predict the dependent variables.")（第3章, p.53）
+
+理论通过反复检验预测而发展。研究者将变量组合为基于不同测量形式的问题，形成[[Hypothesis|预测性假设]]，在不同情境和人群中反复检验，最终理论浮现并被命名（如[[Attribution Theory|归因理论]]）。
+
+> [!quote]
+> “理论作为一种解释而发展，以推进各个领域的知识。”
+> ("Theory develops as an explanation to advance knowledge in fields.")（第3章, p.54）
+理论按覆盖广度分为三个层次（Neuman, 2009）：
 - **微观层次（micro level）**：对有限时间、空间或人数提供解释，如关于面对面互动仪式（face work）的理论
 - **中观层次（meso level）**：连接微观与宏观，如组织控制理论
 - **宏观层次（macro level）**：解释社会制度、文化系统和整体社会，如社会分层理论解释社会剩余如何随社会发展而增加
 
 [[Variable|变量]] 共有七种类型——自变量、因变量、预测变量、结果变量、中介变量、调节变量和混淆变量——每种在因果模型中有其特定位置和功能。
 
+> [!quote]
+> “变量指的是个体或组织的一种特征或属性，研究者可以对其进行测量或观察，并且这种特征或属性在不同的个体或组织之间存在差异。”
+> ("A variable refers to a characteristic or attribute of an individual or an organization that researchers can measure or observe and varies among the individuals or organizations.")（第3章, p.54）
+
 关于[[Scale of Measurement|测量尺度]]**（scale of measurement），变量被测量为分类量表（名义、顺序）和连续量表（等距、比率）两大类型。Likert 式 1–5 点量表是最常见的连续等距量表示例。
 
-关于[[Causality|因果性]]，核心问题是"我们预期变量 X 导致变量 Y"。评价因果主张时，关键考量是是否存在未测量的第三变量 Z。时间顺序（temporal order）指变量在时间上一个先于另一个，量化研究者从左到右排列变量（Punch, 2014）。检验因果主张的最佳设计是真实验（第 8 章）；调查方法检验的是关联主张。
+关于[[Causality|因果性]]，核心问题是"我们预期变量 X 导致变量 Y"。评价因果主张时，关键考量是是否存在未测量的第三变量 Z。
+
+> [!quote]
+> “评估因果主张时一个极其重要的考量是，是否存在一个未被测量的第三变量Z可能导致了该结果。”
+> ("One critically important consideration in evaluating causal claims is whether an unmeasured third variable Z may cause the outcome.")（第3章, p.56）
+
+时间顺序（temporal order）指变量在时间上一个先于另一个，量化研究者从左到右排列变量（Punch, 2014）。检验因果主张的最佳设计是真实验（第 8 章）；调查方法检验的是关联主张。
 
 理论在量化研究方案中有**三种陈述方式**：
 1. **假设链**：以一系列相互关联的假设陈述理论，如 Hopkins (1964) 将影响力过程理论表述为 15 条假设
@@ -511,7 +601,12 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 #### 概览
 
-第4章的逻辑线是：**确定研究计划的结构 → 掌握写作策略 → 预见并应对伦理问题。**
+第4章按以下逻辑线组织：
+
+- 确定研究计划的结构
+- 掌握写作策略
+- 预见并应对伦理问题
+
 
 ---
 
@@ -563,7 +658,13 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 #### 概览
 
-第5章的逻辑线是：**理解引言的重要性 → 撰写[[Abstract|研究摘要]] → 区分三种路径的引言差异 → 拆解[[Deficiencies Model for an Introduction|缺陷模型]]的四个部分。**
+第5章的逻辑线包含：
+
+- 理解引言的重要性
+- 撰写[[Abstract|研究摘要]]
+- 区分三种路径的引言差异
+- 拆解[[Deficiencies Model for an Introduction|缺陷模型]]的四个部分
+
 
 ---
 
@@ -623,7 +724,13 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 #### 概览
 
-第6章的逻辑线是：**理解[[Purpose Statement|目的陈述]]的重要性 → 区分它与研究问题和研究问题的关系 → 逐一拆解质性、量化、混合方法三种目的陈述的要素与写作脚本 → 大量范例辅助理解。**
+第6章的逻辑线涉及：
+
+- 理解[[Purpose Statement|目的陈述]]的重要性
+- 区分其与研究问题和研究设问的关系
+- 逐一拆解质性、量化、混合方法三种目的陈述的要素与写作脚本
+- 辅以大量范例理解
+
 
 ---
 
@@ -725,7 +832,14 @@ Creswell 用一个四阶段流程图（图 6.1）展示研究焦点的逐步收�
 
 #### 概览
 
-第7章紧随第6章的[[Purpose Statement|目的陈述]]，系统讲解研究设计中第二组"路标"——[[Research Question|研究问题]]与假设——的撰写方法。全章按**量化 → 质性 → 混合方法**的顺序展开，每一类均提供填空式[[Research Writing Script|写作脚本]]和已发表研究范例。
+第7章紧随第6章的[[Purpose Statement|目的陈述]]，系统讲解研究设计中第二组"路标"——[[Research Question|研究问题]]与假设——的撰写方法。全章按以下顺序展开：
+
+- 量化方法
+- 质性方法
+- 混合方法
+
+每一类均提供填空式[[Research Writing Script|写作脚本]]和已发表研究范例。
+
 
 ---
 
@@ -805,7 +919,15 @@ Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三
 
 #### 概览
 
-第8章是全书的量化方法论核心，讲解如何撰写一份完整的研究方法计划。全章的逻辑线是：**量化方法总框架 → 调查方法计划的每个组件 → 实验方法计划的每个组件 → 全章总结。** 无论是调查还是实验，量化方法共享一个共同目标：帮助研究者对变量间关系做出有效推论，并把样本结果推广到更广泛的研究总体（Creswell & Creswell, 2022, Ch8）。
+第8章是全书的量化方法论核心，讲解如何撰写一份完整的研究方法计划。全章的逻辑线包括：
+
+- 量化方法总框架
+- 调查方法计划的每个组件
+- 实验方法计划的每个组件
+- 全章总结
+
+无论是调查还是实验，量化方法共享一个共同目标：帮助研究者对变量间关系做出有效推论，并把样本结果推广到更广泛的研究总体（Creswell & Creswell, 2022, Ch8）。
+
 
 ---
 
@@ -992,7 +1114,16 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 #### 概览
 
 > [!abstract] 全章逻辑
-> 质性方法是全书三种研究路径方法论核心的最后一环。全章沿一条清晰的逻辑线推进：**理解质性研究的特征与设计选择 → 数据收集的边界与工具 → 数据分析的七步流程 → 解释、效度和信度 → 质性报告的写作策略。** 每一步都对应研究方法计划中的一个必需段落。
+> 质性方法是全书三种研究路径方法论核心的最后一环。全章沿以下逻辑线推进：
+>
+> - 理解质性研究的特征与设计选择
+> - 数据收集的边界与工具
+> - 数据分析的七步流程
+> - 解释、效度和信度
+> - 质性报告的写作策略
+>
+> 每一步都对应研究方法计划中的一个必需段落。
+
 
 ---
 
@@ -1257,7 +1388,15 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 混合方法程序是三种方法论路径中的最后一环。前两章分别拆解了量化和质性方法各自的操作程序；此处的核心问题是：**如何在同一项研究中将量化与质性数据整合起来，由此获得超越单一方法的额外洞察？**
 
 > [!abstract] 内容推进线索
-> **历史定位与方法论合法性 → 六个定义性特征（嵌套圆环）→ 使用理由 → 关键术语辨析 → 三种核心设计 → 四种复杂设计 → 设计选择流程图与[[Integration Statement|整合陈述]] → 四项已发表研究实例。**
+> - 历史定位与方法论合法性
+> - 六个定义性特征（嵌套圆环）
+> - 使用理由
+> - 关键术语辨析
+> - 三种核心设计
+> - 四种复杂设计
+> - 设计选择流程图与[[Integration Statement|整合陈述]]
+> - 四项已发表研究实例
+
 
 混合方法作为独立方法论起源于 1980 年代末，被 Tashakkori & Teddlie (2010) 称为继量化和质性之后的"第三方法论运动"。2014 年[[Mixed Methods International Research Association|MMIRA]]的成立标志着该方法论在国际层面的制度化。其核心主张是"挖掘"（mining）数据——整合量化和质性两类数据能产生比单独使用任一种方法更强的理解。
 
