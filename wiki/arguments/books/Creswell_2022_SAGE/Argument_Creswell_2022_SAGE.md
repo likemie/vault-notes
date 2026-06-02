@@ -1599,19 +1599,18 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 #### 选择混合方法设计的依据
 
-> [!example]- 表10.5：混合方法设计的意图与程序
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-5_Intent_and_Procedures_of_Mixed_Methods_Designs.jpg)
+**首要依据：意图与程序。** 设计选择的最根本依据是意图（intent）和程序（procedures）。下表直接复刻教材表 10.5 的内容——左右两列分别回答"为何整合"和"如何整合"。
 
-**首要依据：意图与程序。** 设计选择的最根本依据是意图（intent）和程序（procedures），两者的对应关系如下：
-
-> [!abstract] 设计类型—意图—程序对照表
+> [!abstract] 表10.5：混合方法设计的意图与程序（Intent and Procedures of Mixed Methods Designs）
 >
-> | 设计类型 | 意图（Intent / Purpose） | 程序（Procedure） | 整合逻辑 |
+> | 混合方法设计（Mixed Methods Design） | 意图或目的——整合两个数据库（Intent or Purpose, of mixing the two databases） | 程序——实施研究（Procedure, for conducting the research） | 数据形式——量化、质性还是两者（Qualitative, Quantitative, or Both Types of Data） |
 > |---|---|---|---|
-> | **聚敛式设计** | Compare, Match, Corroborate (Validate), Expand, Enhance, Diffract, Identify Cases, Initiating, Complete Understanding | Merge（将数据库并排合并） | 同一研究问题从两个视角同时审视，比较结果 |
-> | **解释性序列设计** | Expand, Explain | Connect（量化结果连接质性数据收集） | 量化先回答"什么"，质性再回答"为什么" |
-> | **探索性序列设计** | Build Upon, Transfer, Generalize | Connect（质性结果导向量化评估的设计与检验） | 质性先探索"是什么"，再用量化检验"是否普遍" |
-> | **复杂混合方法设计** | Augment (optimize, ascertain needs, monitor) | Add into a process / framework（嵌入更大的过程或框架） | 混合方法作为支持性方法论，在过程的多个节点上发挥作用 |
+> | **聚敛式设计**（Convergent Design） | Compare（比较）, Match（匹配）, Corroborate/Validate（确认/验证）, Expand（扩展）, Enhance（增强）, Diffract（衍射）, Identify Cases（识别案例）, Initiating（启动）, Complete Understanding（完整理解） | Merge（合并）：将数据库并排 | 量化与质性两者 |
+> | **解释性序列设计**（Explanatory Sequential Design） | Expand（扩展）, Explain（解释） | Connect（连接）：量化结果连接到质性数据收集 | 量化与质性两者 |
+> | **探索性序列设计**（Exploratory Sequential Design） | Build Upon（构建于……之上）, Transfer（迁移）, Generalize（推广） | Connect（连接）：质性结果导向量化评估的设计，然后加以检验 | 量化与质性两者 |
+> | **复杂混合方法设计**（Complex Mixed Methods Design） | Augment（增强）：包括 optimize（优化）、ascertain needs（确定需求）、monitor（监控） | Add into a process/framework（加入一个过程或框架中） | 量化、质性或两者 |
+>
+> 表中列出的多个意图术语为研究者撰写[[Integration Statement|整合陈述]]提供了可选的精准动词。例如：聚敛式设计可选择"compare"或"corroborate"来精确表达比较和确认的意图；解释性序列设计可选择"expand"或"explain"来区分扩展理解和机制性解释的不同侧重；探索性序列设计可选择"build upon"、"transfer"或"generalize"来区分构建工具、迁移发现或推广结论；复杂设计使用"augment"来表达混合方法对更大框架的增强作用。
 
 ---
 

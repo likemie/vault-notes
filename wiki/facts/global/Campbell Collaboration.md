@@ -2,8 +2,7 @@
 title: Campbell Collaboration
 aliases:
   - 坎贝尔协作组织
-  - Campbell
-summary: "2000年成立的社会科学系统综述组织，2007年将国际总部迁至挪威，通过综述社会、经济和教育干预研究支持证据本位政策与实践。"
+summary: 2000年成立的社会科学系统综述组织，2007年将国际总部迁至挪威，通过综述社会、经济和教育干预研究支持证据本位政策与实践。
 type: fact
 subtype: policy
 region: global
