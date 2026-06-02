@@ -55,15 +55,7 @@ updated: 2026-05-30
 > **[[Explanatory Sequential Design|解释性序列设计]]联合展示**：从左到右依次为：量化得分 → 质性后续主题 → [[Metainferences|元推论]]（质性主题如何解释得分）。这种横向排列反映了该设计的程序顺序。
 >
 > **[[Exploratory Sequential Design|探索性序列设计]]联合展示**：以调查开发为例，前两列为：质性阶段（引用、[[Coding in Qualitative Research|编码]]、主题）→ 设计特征（调查条目、变量、量表）。第三列为元推论，关注调整后的量化评估是否产生了良好结果。
->
-> > [!example]- 聚敛式设计联合展示模板
-> > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-2_Convergent_Design_Joint_Display_Template.jpg)
->
-> > [!example]- 解释性序列设计联合展示模板
-> > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-3_Explanatory_Sequential_Design_Joint_Display_Template.jpg)
->
-> > [!example]- 探索性序列设计联合展示模板
-> > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-4_Exploratory_Sequential_Design_Joint_Display_Template.jpg)
+
 
 ## 与元推论的关系
 

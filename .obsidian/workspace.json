@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e96c6a2e90891335",
+        "id": "5d3ca2609c44f1a2",
         "type": "tabs",
         "children": [
           {
-            "id": "cdf3645993fcd1ef",
+            "id": "f290374ad363fcc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/methods/mixed/Joint Display.md",
-                "mode": "preview",
+                "file": "wiki/methods/mixed/Convergent Design.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Joint Display"
+              "title": "Convergent Design"
             }
           }
         ]
@@ -189,19 +189,23 @@
       "obsidian-custom-frames:Open PDF Reader": false
     }
   },
-  "active": "cdf3645993fcd1ef",
+  "active": "f290374ad363fcc2",
   "lastOpenFiles": [
+    "wiki/methods/qualitative/Qualitative Research.md",
+    "wiki/methods/mixed/Joint Display.md",
+    "wiki/methods/mixed/Convergent Design.md",
+    "wiki/concepts/research-methodology/Metainferences.md",
+    "wiki/methods/mixed/Exploratory Sequential Design.md",
+    "wiki/methods/mixed/Explanatory Sequential Design.md",
+    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+    "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md",
     "wiki/methods/mixed/Mixed Methods Research.md",
     "wiki/methods/qualitative/Observation Protocol.md",
-    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-    "wiki/methods/qualitative/Qualitative Research.md",
-    "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md",
     "wiki/concepts/research-methodology/Integration Statement.md",
     "wiki/methods/mixed/Mixed Methods Evaluation Design.md",
     "wiki/methods/mixed/Mixed Methods Participatory-Social Justice Design.md",
     "wiki/methods/mixed/Mixed Methods Experimental Design.md",
     "wiki/methods/mixed/Mixed Methods Case Study Design.md",
-    "wiki/methods/mixed/Convergent Design.md",
     "wiki/facts/global/Mixed Methods International Research Association.md",
     "wiki/methods/quantitative/Survey Research.md",
     "raw/016_Chapter 10 Mixed Methods Procedures.txt",
@@ -217,11 +221,7 @@
     "raw/014_Chapter 8 Quantitative Methods.txt",
     "wiki/concepts/research-methodology/Deficiencies Model for an Introduction.md",
     "raw/011_Chapter 5 The Introduction.txt",
-    "wiki/concepts/research-methodology/Research Ethics.md",
     "raw/009_Chapter 4 Writing Strategies and Ethical Considerations.txt",
-    "wiki/concepts/research-methodology/Institutional Review Board.md",
-    "wiki/concepts/research-methodology/Coherence in Writing.md",
-    "wiki/methods/mixed/Literature Map.md",
     "raw/007_Chapter 2 Review of the Literature.txt",
     "raw/006_Chapter 1 The Selection of a Research Approach.txt",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md.tmp.56605.256fccc2b3b5",
