@@ -11,6 +11,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Performance Indicators]]"
+  - "[[Return on Investment]]"
   - "[[Innovation Ecosystem]]"
   - "[[Network Governance]]"
   - "[[Selectivity]]"
@@ -67,7 +68,7 @@ updated: 2026-05-18
 
 变革理论是对政策因果链的明确或隐含表述。在国际组织中，若干广为人知的变革理论深刻影响了教育政策（Rambla, 2022, p.166）：
 
-- 1980 年代世界银行：基于各级教育投资回报率数据，要求负债国家将教育支出集中于初等教育
+- 1980 年代世界银行：基于各级教育[[Return on Investment|投资回报]]率数据，要求负债国家将教育支出集中于初等教育
 - OECD：传播"投资研发→培养创造力→高比例青年完成高等教育→经济增长"的良性循环叙事
 - 《全球教育报告》：提出[[UN Sustainable Development Goals|可持续发展目标]]之间相互关联的假设，强调教育、创新、减贫、健康等目标间的互利关系
 

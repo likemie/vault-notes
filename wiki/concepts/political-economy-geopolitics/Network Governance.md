@@ -15,6 +15,7 @@ related_concepts:
   - "[[Neocorporatism]]"
   - "[[Theories of Policy Change]]"
   - "[[Selectivity]]"
+  - "[[Return on Investment]]"
   - "[[Venture Philanthropy]]"
 related_theories: []
 related_methods: []
@@ -138,7 +139,7 @@ O'Neill et al.（2016, pp.8–12）列出近十余年新西兰同时体现私营
 
 > [!warning]
 > - 网络治理模式将比例上更多重点放在私营部门网络化与合同上，比例上更少关注社会民主式、参与式的公共政策制定方法（O'Neill et al., 2016, p.xvi）
-> - 私营部门参与带来了决策权和财产权的期望——从对产品和服务的商业/社会投资回报，到在共同利益上决定政策的角色（O'Neill et al., 2016, p.xv）
+> - 私营部门参与带来了决策权和财产权的期望——从对产品和服务的商业/社会[[Return on Investment|投资回报]]，到在共同利益上决定政策的角色（O'Neill et al., 2016, p.xv）
 > - 这些较新的公立学校关系——PPP、合同外包、[[Venture Philanthropy|风险慈善]]和慈善——需要在私营部门行动者追求的政治策略和战术方面得到更深入的理解（O'Neill et al., 2016, p.xvi）
 
 ## 来源

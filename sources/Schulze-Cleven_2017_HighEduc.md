@@ -6,17 +6,14 @@ extracted_to:
   - "[[Entrepreneurial University]]"
   - "[[Field Images]]"
   - "[[Global Universities Rankings]]"
-  - "[[Matthew Effect in Academia]]"
   - "[[Non-monetary Competition]]"
   - "[[Positioning Practice]]"
   - "[[Academic Capitalism]]"
   - "[[Discursive Stratification]]"
   - "[[Elitism Dispositif]]"
   - "[[Fictitious Commodity of Knowledge]]"
-  - "[[Financialization of Higher Education]]"
   - "[[Knowledge Capitalism]]"
   - "[[Knowledge Rents]]"
-  - "[[Knowledge-Based Economy]]"
   - "[[New Public Management]]"
   - "[[Quasi-commodification of Knowledge]]"
   - "[[Quasi-markets in Higher Education]]"
@@ -29,7 +26,10 @@ extracted_to:
   - "[[Pierre Bourdieu]]"
   - "[[Cultural Political Economy]]"
   - "[[Neo-feudalism in Higher Education]]"
+  - "[[Matthew Effect in Academia]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Financialization of Higher Education]]"
+  - "[[Knowledge-Based Economy]]"
 processed_date: 2026-06-01
 ---
 

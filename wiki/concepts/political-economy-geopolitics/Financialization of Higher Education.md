@@ -14,6 +14,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Academic Capitalism]]"
+  - "[[Return on Investment]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -63,7 +64,7 @@ updated: 2026-06-01
 ## 与学术资本主义的关系
 
 > [!example]
-> - [[Academic Capitalism|学术资本主义]]描述了市场的**制度逻辑**如何渗透高等教育，金融化则更具体地关注**金融资本**的运作机制——借贷、利息、投资回报、利润提取
+> - [[Academic Capitalism|学术资本主义]]描述了市场的**制度逻辑**如何渗透高等教育，金融化则更具体地关注**金融资本**的运作机制——借贷、利息、[[Return on Investment|投资回报]]、利润提取
 > - 金融化可以被视为学术资本主义在金融维度上的深化——当大学不仅像企业一样运作，而且直接成为金融市场上的玩家和被金融工具所塑造的对象时，金融化就发生了
 > - Schulze-Cleven et al.（2017）将金融化列为理解高等教育竞争转型的关键趋势之一，与市场化和指标化评估并列
 

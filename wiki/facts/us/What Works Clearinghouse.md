@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Causality]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Effect Size]]"
   - "[[Internal Validity]]"
   - "[[Research Question]]"
@@ -30,8 +29,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Random Assignment]]"
   - "[[Single-Case Design]]"
+  - "[[Random Assignment]]"
   - "[[Gating Procedure]]"
 related_persons: []
 related_facts:
@@ -79,7 +78,7 @@ updated: '2026-05-18'
 > [!abstract] 证据标准
 > 在设计标准[[Coding in Qualitative Research|编码]]中，WWC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 2，对 RDD 为 3，对 ITS 为 2。WWC 是少数详细处理 RDD 的清算中心之一，也是主要将 RDD 和 ITS 都视为[[Causality|因果推断]]重要设计并为其制定标准的例外（Wadhwa et al., 2024, pp.10–11）。
 >
-> WWC 主题特定综述协议会规定结果域、研究焦点（仅影响研究）、样本特征、20 年出版滞后期、学校为主的研究场景、干预特征、英文报告，以及限定为 RCT、RDD、[[21st Century Skills and Competencies Discourse|SCD]] 和 QED 的研究设计（Wadhwa et al., 2024, pp.8–9）。
+> WWC 主题特定综述协议会规定结果域、研究焦点（仅影响研究）、样本特征、20 年出版滞后期、学校为主的研究场景、干预特征、英文报告，以及限定为 RCT、RDD、[[Single-Case Design|SCD]] 和 QED 的研究设计（Wadhwa et al., 2024, pp.8–9）。
 >
 > WWC 对 RCT 的实施质量有详细规定：它是唯一对集群层级[[Random Assignment|随机分配]]提供深入说明的清算中心；它允许在特定条件下计算 CACE。其流失标准结合总体流失和差异流失：预期流失偏差低于可容忍水平（0.05 SD 或以下）时可获得最高研究评级；若基线差异低于 0.05 SD，可获得正向研究评级且无需统计调整；0.05–0.25 SD 之间需调整；超过 0.25 SD 则不能满足 WWC 质量标准（Wadhwa et al., 2024, p.9）。
 >
@@ -129,7 +128,7 @@ updated: '2026-05-18'
 > - [[ESSA 2015 Evidence Standards]] — WWC 为 ESSA 证据标准提供了重要制度基础。
 > - [[No Child Left Behind Act 2001]] — WWC 的立法前身和制度触发因素。
 > - [[Single-Case Design]] — WWC 认可的第二种实验设计方法学（Hitchcock et al., 2015）。
-> - [[5-3-20 Rule]] — WWC 用于判断 [[21st Century Skills and Competencies Discourse|SCD]] 证据充分性的阈值。
+> - [[5-3-20 Rule]] — WWC 用于判断 [[Single-Case Design|SCD]] 证据充分性的阈值。
 > - [[Gating Procedure]] — WWC 审查 SCD 和组间设计研究时均采用的门控程序。
 > - [[WWC SCD Pilot Standards]] — WWC 为 SCD 研究制定的专门技术标准；它需与审查协议和 SCD Review Guide 共同构成完整审查程序（Hitchcock et al., 2015, pp.459–461）。
 

@@ -3,8 +3,6 @@ citation: "Pellegrini, M., & Vivanet, G. (2021). Evidence-based policies in educ
 extracted_to:
   - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Class Size]]"
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Reusability Paradox]]"
@@ -22,6 +20,8 @@ extracted_to:
   - "[[EPPI-Centre]]"
   - "[[Evidence-Based Teachers Network]]"
   - "[[Institute for Effective Education]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Based Education]]"
 processed_date: 2026-05-23
 ---
 

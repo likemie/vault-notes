@@ -810,7 +810,7 @@
     "aliases": [
       "21世纪技能与素养话语",
       "21st century skills",
-      "SCD",
+      "Skills and Competencies Discourse",
       "核心素养",
       "key competencies",
       "21世纪技能",
@@ -1801,6 +1801,17 @@
       "proof of product",
       "PoP programs",
       "概念验证计划"
+    ]
+  },
+  {
+    "title": "Return on Investment",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Return on Investment.md",
+    "aliases": [
+      "投资回报",
+      "产学合作投资回报",
+      "ROI",
+      "return on investment"
     ]
   },
   {

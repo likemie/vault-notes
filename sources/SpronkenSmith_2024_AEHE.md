@@ -4,8 +4,8 @@ extracted_to:
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Global Citizenship]]"
-  - "[[Graduate Attributes]]"
   - "[[Comparative Case Study]]"
+  - "[[Graduate Attributes]]"
 processed_date: 2026-05-26
 ---
 

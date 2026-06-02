@@ -16,6 +16,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Effect Size]]"
   - "[[Transformative Leadership]]"
+  - "[[Return on Investment]]"
   - "[[Neo-Taylorism]]"
   - "[[Critic and Conscience of Society]]"
 related_theories: []
@@ -70,7 +71,7 @@ updated: 2026-05-18
 > **（2）[[John Hattie|Hattie]] 的工作用行政语言说话**
 > - Robinson, Lloyd, & Rowe（2008）的[[Meta-analysis|元分析]]为教育行政文献引入[[Effect Size|效应量]]语言，打破[[Transformative Leadership|变革型领导力]]的主导地位，推动教学领导力重新成为焦点——但缺少"具体做什么"的操作指南（Eacott, 2017, p.417-418）
 > - Hattie 的[[Meta-meta-analysis|元-元分析]]填补了这一空白：800+ 元分析、52,637 项研究、138 个因素按效应量排名——"终于有了用行政语言说话的研究"而非教学模型（Eacott, 2017, p.418）
-> - d=0.40 等同于一个学年的换算使行政人员可以按"投资回报"逻辑决策——在何处投资、何处不投资，成为学校行政的核心计算（Eacott, 2017, p.418-419）
+> - d=0.40 等同于一个学年的换算使行政人员可以按"[[Return on Investment|投资回报]]"逻辑决策——在何处投资、何处不投资，成为学校行政的核心计算（Eacott, 2017, p.418-419）
 >
 > **（3）新型"科学"学校领导力的出现**
 > - Hattie 为学校行政提供了"教学的科学"——教与学过程不再隐藏在学习者心中，而是被感官经验可及地"可见化"，从而可以被测量、判断和操纵（Eacott, 2017, p.420）

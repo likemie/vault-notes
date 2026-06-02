@@ -20,7 +20,6 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[VUCA]]"
   - "[[Knowledge Production]]"
   - "[[Self-Entrepreneur]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Competitiveness]]"
   - "[[Performance Indicators]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Societies of Control]]"
@@ -95,13 +95,13 @@ updated: 2026-05-23
 - **个体并非自动服从于话语**：个体不是话语的被动承受者，而是"面对持续的、塑造其行为和决策的尝试"（Zelinka, 2022, p.254）。治理总是需要持续的运作，而非一次性的"制造"
 - **主体性的不可聚类性**：个体可以同时服从于多种话语、由多种理性所滋养，因此"主体性无法被清晰地聚类和框定"，而应被理解为"不同来源的话语实践的、暂时的和偶然的变体或交叉"（Zelinka, 2022, p.254）
 
-这一概念为分析 [[21st Century Skills and Competencies Discourse|SCD]] 等全球教育话语的主体性生产提供了操作框架：批判性分析的重点不在于"发现"固定的主体类型，而在于揭示特定形式的自我理解和自我行为是如何被话语建构和嵌入的（Zelinka, 2022, pp.253-254）。
+这一概念为分析 [[Single-Case Design|SCD]] 等全球教育话语的主体性生产提供了操作框架：批判性分析的重点不在于"发现"固定的主体类型，而在于揭示特定形式的自我理解和自我行为是如何被话语建构和嵌入的（Zelinka, 2022, pp.253-254）。
 
 ### 远距治理（Governing at a Distance）
 
 远距治理是治理术运作的空间机制：权力并不直接作用于被治理者，而是通过重塑关系、想象和话语——在"远处"组织行为。Zelinka（2022, pp.251-252）援引 Bell 和 Green（2016, p.240）将新自由主义界定为一种**理性**（rationality），它"重新想象、解释和组装人与物之间的关系以实现远距治理"。Ball（2010, p.135）则以原文强调的方式指出，新自由主义治理术"在远处组织全球教育转型"（organises the global transformation of education *at a distance*）。
 
-远距治理的关键不在于物理距离，而在于治理**不依赖直接命令**，而是通过创造可欲的自我引导形式来操控个体。在 21 世纪 [[Single-Case Design|SCD]] 的案例中，远距治理体现为：不被任何单一机构或政府所控制的 SCD 框架，通过界定"未来所需的关键技能"来远距塑造全球教育政策和个体行为——各国政府和个体"自愿"采纳这些框架，因为不采纳意味着在全球竞争中落后（Zelinka, 2022, pp.259-260）。
+远距治理的关键不在于物理距离，而在于治理**不依赖直接命令**，而是通过创造可欲的自我引导形式来操控个体。在 21 世纪 SCD 的案例中，远距治理体现为：不被任何单一机构或政府所控制的 SCD 框架，通过界定"未来所需的关键技能"来远距塑造全球教育政策和个体行为——各国政府和个体"自愿"采纳这些框架，因为不采纳意味着在全球竞争中落后（Zelinka, 2022, pp.259-260）。
 
 ### 全球治理技术（Global Governmental Technology）
 
@@ -123,7 +123,7 @@ Zelinka（2022, pp.264-265）将（新）[[Geopolitics of Knowledge|知识地缘
 > - **1990s–2000s**：治理术分析被广泛应用于教育研究，包括终身学习治理（Olssen, 2006）、高等教育[[New Public Management|新公共管理]]（Dean, 2010）、[[International Education|国际教育]]政策比较研究
 > - **2008**：教育社会学史本身也可被治理术化地理解：[[Political Arithmetic]]、[[New Sociology of Education]] 和 [[School Effectiveness]] 分别把家庭、学校知识和学校组织构造成可见、可描述、可干预的政策对象（Ball, 2008, pp.651, 654-665）
 > - **2022a**：Thompson 等人将治理术应用于数字教育治理分析，结合 [[Online Self-Assessment|OSA]] 和 [[Digital Self|数字自我]] 展示治理术在算法时代的运作形态（Thompson et al., 2022, pp.220–226）
-> - **2022b**：Zelinka 将治理术分析扩展至全球尺度的[[Geopolitics of Knowledge|知识地缘政治]]，将（新）[[Geopolitics of Knowledge]] 概念化为全球治理技术，以 21 世纪 [[21st Century Skills and Competencies Discourse|SCD]] 为案例揭示远距治理的三重运作机制——问题化与个体化、授权[[Knowledge Production|知识生产]]手段、通过主体化和区分创造自由（Zelinka, 2022, pp.251-265）
+> - **2022b**：Zelinka 将治理术分析扩展至全球尺度的[[Geopolitics of Knowledge|知识地缘政治]]，将（新）[[Geopolitics of Knowledge]] 概念化为全球治理技术，以 21 世纪 [[Single-Case Design|SCD]] 为案例揭示远距治理的三重运作机制——问题化与个体化、授权[[Knowledge Production|知识生产]]手段、通过主体化和区分创造自由（Zelinka, 2022, pp.251-265）
 
 ## 认识论立场
 

@@ -22,7 +22,7 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
   - "[[T-Shaped Skills]]"
-  - "[[Probes]]"
+  - "[[Return on Investment]]"
 related_theories:
   - "[[Values Alignment Model]]"
   - "[[Triple Helix]]"
@@ -85,17 +85,9 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ### 第一步：AMI 以三个相互关联的要素为驱动力：医学翻译循环、团队科学和创新文化
 
 > [!note]- 医学翻译循环：AMI 的闭环运转机制
-> 循环的起点是临床前线出现的未满足医疗需求：一种疾病缺乏有效疗法，或现有疗法对特定患者群体（如高龄、合并症患者）风险过高。[[Physician-Scientist|医师科学家]]在诊疗中直接遭遇这些缺口，将其转化为可研究的问题，随后与跨学科研究团队合作开展发现研究（discovery research），寻找潜在的解决方案。发现阶段产出可进一步开发的发明（invention），进入应用研究（applied research）和产品开发阶段。产品经过临床前验证（preclinical validation），确认安全性和有效性后进入临床试验（clinical trials）。临床试验成功后，创新通过试点部署（piloting）、提供者教育（provider education）、质量与安全评估，最终规模化推广到患者诊疗中（pp.176–178, Fig. 10.1）。
+> [[Applied Medical Innovation|AMI]] 的核心是一个闭环反馈回路：[[Physician-Scientist|医师科学家]]在临床前线识别未满足的医疗需求，与跨学科团队合作开展发现研究，产出可开发的发明，经过应用研究、产品开发、临床前验证和临床试验后，通过试点、教育和质量评估最终部署到患者诊疗中（pp.176–178, Fig. 10.1）。详见 [[Applied Medical Innovation]]。
 >
-> 循环的每一步都深度依赖不同类型的[[University-Industry Collaboration|产学合作]]：
-> - 临床需求的识别 → 发生在医院的住院和门诊环境
-> - 发现研究和应用研究 → 在大学和研究机构中进行
-> - 产品开发与临床前验证 → 依赖产业伙伴支持，也可能在研究机构和医院中完成
-> - 教育和技术扩散 → 从研究机构和大学流向医院
->
-> 循环隐含了两个不可或缺的要素（pp.177–178）：
-> - **有效的产学伙伴关系** — 没有它，循环在每个阶段之间断裂
-> - **医师科学家** — 没有这个角色，循环无法从临床前线启动
+> 论证关键在于：循环的每一步都深度依赖不同类型的[[University-Industry Collaboration|产学合作]]——需求识别在医院、研究在大学、开发依赖产业、扩散从学术流向临床。循环隐含两个不可或缺的要素：**有效的产学伙伴关系和医师科学家**。没有前者，循环在每个阶段之间断裂；没有后者，循环无法从临床前线启动（pp.177–178）。
 
 > [!example]- 图10-1：医学翻译循环（The Cycle of Medical Translation）
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-1_Cycle_of_Medical_Translation.jpg)
@@ -103,52 +95,31 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ---
 
 > [!info] 团队科学：诺贝尔奖趋势揭示的必然性
-> 当代科学问题的复杂性已经超越了单一机构或单一学科类型的解决能力。诺贝尔生理学或医学奖的历史趋势提供了有力证据（pp.178–179）：
-> - 获奖者越来越多地代表大型跨学科团队，有时团队规模达数百人
-> - 这与诺贝尔奖奖励个体天才的历史传统之间存在张力
-> - 自 1990 年以来，每两个获奖中就至少有一个包含医师或医师科学家
+> 当代科学问题的复杂性已超越单一机构或单一学科类型的解决能力。诺贝尔生理学或医学奖的趋势表明，获奖者越来越多地代表大型跨学科团队，自 1990 年以来每两个获奖中就至少有一个包含医师或医师科学家（pp.178–179）。详见 [[Team Science]]。
 >
-> [[Team Science|团队科学]]（Team Science）的必然性有三个来源（p.179）：
-> - **问题复杂性** — 需要跨学科团队来解决
-> - **合作增长** — 两三位主要研究者共同做出发现
-> - **领域竞争** — 两人或多人可能几乎同时到达同一结论，从而共享奖项
->
-> > [!quote]
-> > "the nature of team science today conflicts with the historical nature of the Nobel Prize, which is more reflective of how science was conducted 100 years ago."（pp.178–179）
+> 论证含义是：AM cycle 之所以必须依赖产学合作，根源在于没有任何单一机构能独立解决当代医学问题——团队科学不是选择，而是必然。
 
 ---
 
 > [!tip] 创新文化：AMC 与 AHS 的关键区分
-> [[Applied Medical Innovation|AMI]] 的第三个驱动力是创新文化，具体而言是 [[Academic Health System|AHS]] 这种特定组织形态所培育的文化。传统的[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC）定义为"大学或医学院及其合作教学医院"（p.179），由教学医院、联合聘任到大学的临床教师和社区中的附属私人执业医师组成。但 AHS 在患者诊疗之后混合了学术研究和产业创新的双重目标："deeply invested in innovations that improve patient care or transform the patient experience"（p.179）。
->
-> 关键区分在于：**AMC 是学术-临床的二元结构，AHS 是学术-临床-产业的三元融合**。这一区分是后续全部论证的逻辑基础，正是因为 AHS 同时容纳了三种逻辑，才能在产学合作中扮演促进者角色。
+> [[Applied Medical Innovation|AMI]] 的第三个驱动力是创新文化，具体而言是 [[Academic Health System|AHS]] 这种特定组织形态所培育的文化。AHS 区别于传统的[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC）：**AMC 是学术-临床的二元结构，AHS 是学术-临床-产业的三元融合**（p.179）。这一区分是后续全部论证的逻辑基础——正是因为 AHS 同时容纳了三种逻辑，才能在产学合作中扮演促进者角色。详见 [[Academic Health System]] 和 [[Academic Medical Center]]。
 
 ---
 
 ### 第二步：AHS 的组织结构赋予其促进医用创新产学合作的独特能力
 
 > [!example]- Houston Methodist 的"中心辐射"结构
-> 以 Houston Methodist 健康系统为例，其组织结构呈现"中心辐射"（hub-and-spoke）模式（Fig. 10.2）：
-> - **旗舰核心**：Houston Methodist 医院 + Houston Methodist 研究所（HMRI）
-> - **八个区域性医院**：作为外围辐射节点，每个拥有由受雇和私人执业医师组成的开放式医务人员队伍。这些医院常被误标为社区医学中心（Community Medical Center, CMC），但实际内部也有科研和教学活动
-> - **外层接入点**：初级保健诊所、急诊中心、影像和物理康复中心，患者可从任意入口进入系统
-> - **FQHC 合作网络**：与多个联邦认证健康中心（Federally Qualified Health Center, FQHC）合作，每个 FQHC 有不同的服务模式和独特且常处于服务不足状态的患者群体（pp.180–181）
+> 以 Houston Methodist 为例，AHS 呈现"中心辐射"（hub-and-spoke）模式（Fig. 10.2）：旗舰医院与研究所为核心，八个区域性医院为辐射节点，外层为初级保健诊所、急诊中心等接入点，并通过与联邦认证健康中心（Federally Qualified Health Center, FQHC）合作覆盖服务不足人群（pp.180–181）。详见 [[Academic Health System]]。
 >
-> 这种结构创造了一种"双向学术管线"（bidirectional academic pipeline）：创新从旗舰研究所向区域医院和 FQHC 推送，在多样化的诊疗环境中接受验证；临床缺口和需求从区域与社区反馈回研究所，触发新一轮发现。**将研究带到患者身边，而不是要求患者来到研究所在之处**，这一设计扩展了临床试验的入口、人口结构和部署场景（pp.180–181）。
+> 论证关键在于：这种结构创造出**"双向学术管线"**（bidirectional academic pipeline）——创新从旗舰研究所向外推送至多样化诊疗环境接受验证，临床需求从区域和社区反馈回研究所触发新发现。**将研究带到患者身边**，而非要求患者来到研究所，从根本上扩展了临床试验的入口和部署场景（pp.180–181）。
 
 > [!example]- 图10-2：学术健康系统的组织结构（Structure of an Academic Health System）
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-2_Structure_of_Academic_Health_System.jpg)
 
 ---
 
-> [!success] AHS 在产学合作中的四项独特能力
-> 基于上述组织结构（pp.181–182）：
-> 1. **雇佣非典型人员**：可雇佣科学家、工程师、技术专家担任传统医院中不典型甚至不可行的角色，承担跨越学术与产业的职能
-> 2. **建立专用设施与安全标准**：可建立不同类型的设施、设备和数据安全标准，在保护患者数据的同时支撑创新
-> 3. **多样化患者基础与部署能力**：可在患者所在之处部署生物医学解决方案，这是 AMC 在部署创新时的主要障碍
-> 4. **真实世界验证后的规模化条件**：在 AHS 环境中形成的创新已经历严格检验，具备规模化采用的条件
->
-> 过程层面也有独特优势：[[Technology Transfer|技术转移办公室]]（office of technology transfer）可促进不同类型的知识产权；创新被战略性地优先排序；可借助慈善支持建立弥合"死亡之谷"（valley of death）的专门基础设施，包括组合项目经理（portfolio project managers）、内部研究资金（intramural research funding）、以及满足人体验证和规模化要求的关键设备与专业知识（p.182）。
+> [!success] AHS 在产学合作中的独特能力
+> 基于上述结构，AHS 具备传统 AMC 难以复制的四项能力（pp.181–182）：雇佣跨学术-产业角色的非典型人员；建立专用设施与数据安全标准；在多样化患者基础上部署解决方案；利用真实世界验证实现规模化。此外，AHS 可通过[[Technology Transfer|技术转移办公室]]和慈善支持的专门基础设施（内部转化基金、临床前验证设施等）弥合医学翻译循环中的"死亡之谷"（valley of death）。详见 [[Academic Health System]]。
 
 ---
 
@@ -194,7 +165,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [!warning] 挑战七：合作光谱的定位困难
 > AHS 参与的产学合作位于从"交易型"（transactional）到"创新型"（innovative）的光谱上（p.187, Fig. 10.4）：
 > - **交易型**：产业伙伴拥有创新，AHS 作为理想临床试验场所，优先催化患者诊疗改善和快速部署
-> - **创新型**：AHS 教师拥有创新和专利但需要伙伴支持规模化，优先知识产权保护和投资回报
+> - **创新型**：AHS 教师拥有创新和专利但需要伙伴支持规模化，优先知识产权保护和[[Return on Investment|投资回报]]
 >
 > AHS 对每个新合作都以创新型态度进入，以备知识产权出现时保护已到位的投入（p.187）。
 
@@ -206,24 +177,17 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ### 第四步：既有产学合作理论框架提供了有效工具，但需要从 AHS 视角进行适应性修正
 
 > [!note] 框架一：[[Partnership Continuum|伙伴关系连续体]] — 描述深度，不回答对齐
-> [[University Industry Demonstration Partnership|UIDP]] 于 2012 年提出，将产学合作分为三个级别（Umberger et al., 2012, 转引自 p.188）：
-> - 第 1 级（交易型, transaction）— 共享策略
-> - 第 2 级（协作型, collaboration）— 共享想法
-> - 第 3 级（联盟型, alliance）— 共享愿景
->
-> AHS 在所有三个级别上都有合作参与，与同一伙伴可同时在不同级别维持多个合作关系。但该框架只描述合作"有多深"，不回答各方"如何对齐"（p.188）。
+> [[University Industry Demonstration Partnership|UIDP]] 于 2012 年提出的合作分类框架（交易型→协作型→联盟型），AHS 在所有级别上均可参与（p.188）。但该框架只描述合作"有多深"，不回答各方"如何对齐"。详见 [[Partnership Continuum]]。
 
 ---
 
 > [!note] 框架二：[[Triple Helix|三重螺旋模型]] — 政府角色的修正
-> Etzkowitz 和 Leydesdorff（1995）的大学-产业-政府关系模型，从 AHS 视角来看需要一项关键修正：在 AHS 运作中，政府更多扮演监管与运作机构，而非合作伙伴。"government entities function more as the operating bodies that codify and set forth regulations and standards"（p.188）。例外：当研究由竞争性合同谈判下的政府机构资助时，政府更接近合作伙伴形态。另一种适应性构想是将 AHS 本身视为三重螺旋中替代政府的第三方，尽管需要修改（p.188）。
+> Etzkowitz 和 Leydesdorff（1995）的大学-产业-政府关系模型，从 AHS 视角来看需要一项关键修正：在 AHS 运作中，政府更多扮演监管者而非合作伙伴——"government entities function more as the operating bodies that codify and set forth regulations and standards"（p.188）。例外是政府通过竞争性合同资助研究时更接近伙伴形态。AHS 本身也可被构想为替代政府的第三方（p.188）。详见 [[Triple Helix]]。
 
 ---
 
 > [!note] 框架三：[[King-Persily Model|King-Persily 模型]] — 数据治理与患者信托责任
-> King 和 Persily（2019）提出引入独立第三方委员会解耦研究者对产业数据和专有信息的完全访问（p.188）。该模型最初为社会科学和社交媒体大数据场景开发，在生物医学创新空间中需要两项调整（pp.188–189）：
-> 1. **发表权保留**：AHS 保留发表权，但给产业伙伴一个时间窗口审阅和删节专有信息
-> 2. **患者数据去标识化**：所有患者数据使用前必须去标识化
+> King 和 Persily（2019）提出以独立第三方委员会解耦研究者对产业数据的完全访问。在生物医学场景中需要两项调整：AHS 保留发表权但给产业审阅窗口，以及所有患者数据必须去标识化（pp.188–189）。详见 [[King-Persily Model]]。
 
 > [!warning] 患者数据的深层伦理困境
 > 患者数据是 AHS 在产学合作中的核心价值之一，但既不能简单地"给出去"（即使已去标识化），也不应仅为财务收益而被货币化。不懂得如何正确解释数据的人可能得出错误结论，而错误结论可能导致生命代价。AHS 被患者信托，有责任以审慎、符合伦理、并与知情同意一致的方式使用这些信息（p.189）。
@@ -255,37 +219,16 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 基于前五步论证（第一步：AMI 需要产学合作 → 第二步：AHS 具备结构性优势 → 第三步：七重挑战使单一组织无法独立完成 → 第四步：既有框架需修正 → 第五步：COVID-19 证明了目标对齐的力量），逻辑必然指向：产学合作各方如何在尊重优先级差异的同时，围绕共同目标对齐？
 
 > [!tip] 价值对齐模型的核心逻辑
-> 让 AHS 充当促进者，将所有伙伴拉向他们共享的价值，同时尊重他们不共享的价值（pp.190–191, Fig. 10.5）。对每一个合作必须[[Probes|追问]]三个问题：
+> 让 AHS 充当促进者，将所有伙伴拉向他们共享的价值，同时尊重他们不共享的价值（pp.190–191, Fig. 10.5）。对每一个合作必须追问三个问题：
 > - 这里的"价值对齐"意味着什么？
 > - 什么反向潮流（counter currents）正在将我们拉离对齐？
 > - 我们如何调和这些力量以重新对齐目标、平衡模型并共同实现创新？
 
-> [!example]- 图10-5：产学合作的价值对齐方法（A Values Alignment Approach to UI Partnerships）
-> ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-5_Values_Alignment_Approach.jpg)
 
 > [!abstract] 四方的优先差异与 ROI 定义
-> 对齐的目标通常始于"我们想治疗 X 疾病"，但各方对同一目标的理解完全不同（pp.190–191）：
+> 对齐的目标通常始于"我们想治疗 X 疾病"，但医院、产业、大学和医师对同一目标有着根本不同的优先排序和 ROI 定义（pp.190–191）。详见 [[Values Alignment Model]] 和 [[Return on Investment]]。
 >
-> | 伙伴 | 核心优先 | ROI 定义 |
-> |------|---------|----------|
-> | **医院/AHS** | 患者安全和隐私 | 最高质量的患者诊疗 → 声誉与患者信任 |
-> | **产业** | 产品市场和利润 | 可上市产品 → 但同样依赖改善的患者体验 |
-> | **大学** | 研究、开发、学生培养 | 创造理想能力 → 对学生将来服务的患者前沿且可靠 |
-> | **医师** | 患者诊疗 + 自身声誉/独立/发表 | 个人职业发展与患者受益 |
->
-> 价值对齐的关键不在于消除差异（差异是合法的），而在于通过**"患者中心的透镜"**（patient-centered lens）审视所有优先事项：产业的利润只有在产品对患者安全有效时才有意义；大学的发表只有转化为患者受益时才实现社会价值（pp.191–192）。
-
----
-
-> [!tip] 模型中的推拉力量（Fig. 10.5）
-> - **向内拉力（共享价值）**：共同的治疗目标、对创新的渴望、对卓越的追求
-> - **向外拉力（反向力量）**：利润压力 vs 患者安全、学术发表 vs 数据保密、市场份额 vs 监管合规
->
-> 操作含义（pp.191–192）：
-> - 医院/大学的挑战 → 尊重产业在 ROI、股东和时间线方面的压力：必须创造因吸引患者而为产业赢得利润的产品
-> - 产业的挑战 → 尊重医院对患者的保护义务：必须安全地开发、测试和实施新解决方案
->
-> AHS 作为促进者的核心任务是平衡这些拉力：既不让商业逻辑凌驾于患者安全之上（如果创新不安全且不改善患者体验，ROI 降为零），也不让监管保守主义扼杀创新可能性。
+> 价值对齐的关键不在于消除差异，而在于通过**"患者中心的透镜"**（patient-centered lens）审视所有优先事项：产业的利润只有在产品对患者安全有效时才有意义；大学的发表只有转化为患者受益时才实现社会价值（pp.191–192）。AHS 作为促进者的核心任务是平衡向内拉力（共享价值）与向外拉力（反向力量），既不让商业逻辑凌驾于患者安全之上（如果创新不安全，ROI 降为零），也不让监管保守主义扼杀创新（pp.191–192）。
 
 ---
 
@@ -361,7 +304,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - 七重结构性挑战（创新成本、监管负担、数据管理、问题复杂性与技术变革速度、超亚专业化、医师科学家时间挤压、合作光谱定位）共同构成了单一组织无法独立完成医用创新的论证。产学合作不是众多选项之一，而是穿越这些障碍的唯一路径（pp.182–187）。
 > - 既有产学合作框架（[[Partnership Continuum|伙伴关系连续体]]、[[Triple Helix]]、[[King-Persily Model|King-Persily 模型]]）在 AHS 语境中各有适用价值，但都需要从 AHS 视角进行修正：伙伴关系连续体只描述深度、不回答对齐问题；Triple Helix 中的政府角色在 AHS 视角下更多是监管者而非合作伙伴；King-Persily 模型在医疗场景中必须额外处理患者数据去标识化和信托责任的伦理要求（pp.188–189）。
 > - COVID-19 经验表明，目标对齐和紧迫感可以急剧加速 AMI 的产学合作，疫苗学在 1–2 年内取得了需要数十年才能实现的进展。但 NCDs 因进展缓慢而缺乏同等的紧迫感，尽管对患者而言处境同样严峻。AHS 持续感知到标准疗法终将对 NCD 患者失效这一事实，因此能够维持持续的创新动力（pp.189–190）。
-> - [[Values Alignment Model|价值对齐模型]]提供了一个以患者为中心的合作框架：AHS 作为促进者，帮助各方围绕共享价值对齐，同时尊重不共享的价值。关键不在于消除优先差异，而在于通过患者中心的透镜重新审视各方 ROI，产业的利润依赖于产品的安全有效性，大学的发表价值依赖于转化为患者受益（pp.190–192）。
+> - [[Values Alignment Model|价值对齐模型]]提供了一个以患者为中心的合作框架：AHS 作为促进者，帮助各方围绕共享价值对齐，同时尊重不共享的价值。关键不在于消除优先差异，而在于通过患者中心的透镜重新审视各方 [[Return on Investment|ROI]]，产业的利润依赖于产品的安全有效性，大学的发表价值依赖于转化为患者受益（pp.190–192）。
 > - TAVR 案例是价值对齐模型的完整实证展示：通过四轮递进式临床试验（按风险等级从极端到低），TAVR 从高风险不可手术者的最后选择发展为全风险谱系的标准疗法，30 天死亡率从 7.2% 降至 2.5%，并催生了 BEV 和 SEV 的持续技术创新。任何单一伙伴独立行动都无法取得这一成果（pp.192–195）。
 
 > [!info]- 核心数据
@@ -391,7 +334,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [!quote]
 > "academic health systems are deeply invested in innovations that improve patient care or transform the patient experience."（p.179）
 >
-> 学术健康系统深耕于那些能够改善患者诊疗或变革患者体验的创新。
+> [[Academic Health System|学术健康系统]]深耕于那些能够改善患者诊疗或变革患者体验的创新。
 
 > [!quote]
 > "It is only when people who think differently come together that innovation happens."（p.186）

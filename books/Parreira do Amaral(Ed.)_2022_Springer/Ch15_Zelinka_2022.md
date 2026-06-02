@@ -3,11 +3,11 @@ citation: "Zelinka, J. (2022). Subjects and Subjectivities of the (New) Geopolit
 extracted_to:
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Governmentality]]"
-  - "[[VUCA]]"
   - "[[Discursive Opportunity Structures]]"
   - "[[Self-Entrepreneur]]"
   - "[[Critical Companion]]"
+  - "[[Governmentality]]"
+  - "[[VUCA]]"
 processed_date: 2026-05-20
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

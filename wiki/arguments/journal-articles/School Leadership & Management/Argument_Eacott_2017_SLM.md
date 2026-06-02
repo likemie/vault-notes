@@ -21,6 +21,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
   - "[[School Effectiveness]]"
+  - "[[Return on Investment]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
@@ -72,7 +73,7 @@ updated: 2026-05-18
 > **第二步：[[John Hattie|Hattie]] 提供了用行政语言说话的数据**
 > - Robinson, Lloyd, & Rowe（2008）的[[Meta-analysis|元分析]]为教育行政文献带来了"感知的严谨性和稳健性"，识别了五个对学生成绩影响最大的领导力维度——但仍缺少"具体做什么"的操作指南（Eacott, 2017, p.416-418）
 > - Hattie 填补了这一空白：800+ 元分析、52,637 项研究、138 个因素按[[Effect Size|效应量]]排名——"突然之间，尽管多年的[[School Effectiveness|学校效能]]和学校改进文献以及教学领导力的呼吁，终于有了用行政语言说话的研究"（Eacott, 2017, p.418）
-> - 以 d=0.40 等同于一个学年，使行政人员可以按照"投资回报"逻辑进行决策——"对效能和效率的追求，这是泰勒主义的核心"（Eacott, 2017, p.418-419）
+> - 以 d=0.40 等同于一个学年，使行政人员可以按照"[[Return on Investment|投资回报]]"逻辑进行决策——"对效能和效率的追求，这是泰勒主义的核心"（Eacott, 2017, p.418-419）
 >
 > **第三步：新型"科学"学校领导力的出现**
 > - Hattie 为学校行政提供了"教学的科学"——教与学过程不再隐藏在学习者心中，而是被"可见化"（Eacott, 2017, p.420）

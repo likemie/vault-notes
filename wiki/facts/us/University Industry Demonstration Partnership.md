@@ -19,6 +19,7 @@ related_concepts:
   - "[[Physician-Scientist]]"
   - "[[Refined Mastery]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Return on Investment]]"
   - "[[Trade Mission]]"
 related_theories: []
 related_methods:
@@ -80,7 +81,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 ### 合作框架与度量
 
 - **[[Partnership Continuum|Partnership Continuum]] & Avenues for Engagement**：识别伙伴关系模式并详细说明不同的合作模型。灵感来自 Hewlett Packard 高管 Wayne Johnson 团队在 2009 年前开发的合作关系阶段图，2012 年由 UIDP 正式发布（Boccanfuso & Hall, 2025, pp.16, 18）
-- **Collaboration Metrics**：提供超过 100 个指标的菜单，供企业和大学评估产学伙伴关系时选用。对于许多组织而言，"识别能够有效传达产学合作价值（如投资回报）和质量的引人注目的指标一直极为困难"（Boccanfuso & Hall, 2025, p.18）
+- **Collaboration Metrics**：提供超过 100 个指标的菜单，供企业和大学评估产学伙伴关系时选用。对于许多组织而言，"识别能够有效传达产学合作价值（如[[Return on Investment|投资回报]]）和质量的引人注目的指标一直极为困难"（Boccanfuso & Hall, 2025, p.18）
 
 ### 组织与人才指南
 

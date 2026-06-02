@@ -14,6 +14,7 @@ tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"
 related_concepts:
+  - "[[Return on Investment]]"
   - "[[University Spin-Out]]"
   - "[[Technology Readiness Level]]"
 related_theories: []
@@ -36,13 +37,13 @@ updated: 2026-05-29
 > [!info]
 > 企业风险投资（Corporate Venture Capital, CVC）指企业通过内部设立的风险投资基金对初创企业进行股权投资的机制。CVC 与传统风险投资（Venture Capital, VC）的关键区别在于：CVC 同时应用战略标准（strategic criteria）和财务标准（financial criteria）来做出投资决策——它既要问"这个投资对母公司有什么战略价值？"，也要问"这个投资能赚钱吗？"（p.145）。
 
-> 具体而言，CVC 在战略层面投资初创企业的动机包括：获取对前沿技术和新兴市场趋势的早期洞察，以及通过初创企业的成功来帮助扩大市场或服务母公司的客户。在财务层面，CVC 与传统 VC 一样要求投资回报——但通常还附加"初创企业的成功必须对母公司产生正向溢出效应"的隐含条件（p.145）。
+> 具体而言，CVC 在战略层面投资初创企业的动机包括：获取对前沿技术和新兴市场趋势的早期洞察，以及通过初创企业的成功来帮助扩大市场或服务母公司的客户。在财务层面，CVC 与传统 VC 一样要求[[Return on Investment|投资回报]]——但通常还附加"初创企业的成功必须对母公司产生正向溢出效应"的隐含条件（p.145）。
 
 ## 概念辨析
 
 > [!example]
 > - vs 传统风险投资（VC）— 传统 VC 的唯一标准是财务回报；CVC 在此基础上叠加了战略对齐的要求。这使得 CVC 的可投资标的范围比传统 VC 更窄（p.145）
-> - vs 企业战略投资（Corporate Strategic Investment）— 企业战略投资通常直接从母公司资产负债表出资，以获得对初创企业的控制权或独占权为主要目的；CVC 则通过独立的基金结构运作，在追求战略价值的同时也追求投资回报
+> - vs 企业战略投资（Corporate Strategic Investment）— 企业战略投资通常直接从母公司资产负债表出资，以获得对初创企业的控制权或独占权为主要目的；CVC 则通过独立的基金结构运作，在追求战略价值的同时也追求[[Return on Investment|投资回报]]
 > - vs 天使投资（Angel Investment）— 天使投资人使用自有资金、以个人身份投资；CVC 使用企业管理下的机构资金、以法人身份投资，且决策流程涉及更多层级的内部审批
 
 ## 与大学衍生企业的关系

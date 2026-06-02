@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Internal Validity]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Variable]]"
   - "[[External Validity]]"
   - "[[Construct Validity in Quantitative Measurement]]"
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 >
 > > "The Campbellian validity framework (Shadish 1995; Shadish et al. 2002) applies to a broad number of designs that are capable of yielding causal evidence." (Hitchcock et al., 2015, p.462)
 >
-> 该框架的适用范围不限于某一特定设计类型——它统一适用于[[Randomised Controlled Trials|随机对照试验]]（RCT）、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design|单一个案设计]]（[[21st Century Skills and Competencies Discourse|SCD]]）等多种能够产生因果证据的设计（Hitchcock et al., 2015, p.462）。
+> 该框架的适用范围不限于某一特定设计类型——它统一适用于[[Randomised Controlled Trials|随机对照试验]]（RCT）、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design|单一个案设计]]（[[Single-Case Design|SCD]]）等多种能够产生因果证据的设计（Hitchcock et al., 2015, p.462）。
 >
 > > 例：无论是 RCT 通过[[Random Assignment|随机分配]]控制选择偏差，还是 SCD 通过重复测量和阶段对比排除成熟效应，两者都在应用 Campbellian 框架的同一逻辑——识别并排除对因果推断的替代解释。
 
@@ -71,7 +70,7 @@ updated: '2026-05-18'
 >
 > **内部效度的常见威胁**（Shadish et al., 2002; Hitchcock et al., 2015, p.462）：
 >
-> | 威胁 | 含义 | [[21st Century Skills and Competencies Discourse\|SCD]] 中的控制方式 |
+> | 威胁 | 含义 | [[Single-Case Design\|SCD]] 中的控制方式 |
 > |------|------|-----------------|
 > | 成熟（Maturation） | 被试随时间自然发展或变化 | 通过 ABAB 设计中的撤除和再引入阶段，若行为随干预的有无系统性变化则排除成熟效应 |
 > | 历史（History） | 实验期间发生的外部事件 | 多基线设计在不同时间点引入干预，若每个基线在干预引入时才变化则排除历史效应 |
@@ -121,13 +120,13 @@ updated: '2026-05-18'
 > [!note-] 发展脉络
 > 该框架的演进可追溯至 Campbell 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook 和 Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、[[Internal Validity|内部效度]]、[[Construct Validity in Quantitative Measurement|构念效度]]、[[External Validity|外部效度]]）。
 >
-> Hitchcock et al. (2015) 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心理学循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的实践，作者确认"Campbellian 效度框架适用于能够产生因果证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[21st Century Skills and Competencies Discourse|SCD]] 量规在内部效度判断上产生了合理一致的结果。
+> Hitchcock et al. (2015) 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心理学循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的实践，作者确认"Campbellian 效度框架适用于能够产生因果证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[Single-Case Design|SCD]] 量规在内部效度判断上产生了合理一致的结果。
 
 ## 研究范式
 
 > [!info] 研究范式
 > - **认识论立场**：Campbellian 框架植根于[[Postpositivism|后实证主义]]传统——它接受[[Causality|因果推断]]的可行性，但要求通过系统性排除威胁来逐步逼近，而非一次性"证明"
-> - **对实验设计的统一性**：该框架的关键洞察是不同实验设计（[[Randomised Controlled Trials|RCT]]、准实验、[[21st Century Skills and Competencies Discourse|SCD]]）共享相同的因果推断逻辑——都通过排除替代解释来建立因果关系——因此可以被统一的理论框架所涵盖（Hitchcock et al., 2015, p.462）
+> - **对实验设计的统一性**：该框架的关键洞察是不同实验设计（[[Randomised Controlled Trials|RCT]]、准实验、[[Single-Case Design|SCD]]）共享相同的因果推断逻辑——都通过排除替代解释来建立因果关系——因此可以被统一的理论框架所涵盖（Hitchcock et al., 2015, p.462）
 > - **常用方法**：RCT、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design]]——该框架为所有这些设计提供统一的效度评估语言
 
 ## 争议与批评
@@ -135,7 +134,7 @@ updated: '2026-05-18'
 > [!warning] 争议与批评
 > - **[[External Validity|外部效度]]的结构性不对称**：Hitchcock et al. (2015, p.462, 467) 指出，[[Internal Validity|内部效度]]有"一套明确定义的常见替代解释（威胁）"，这些威胁已被系统编目；但外部效度的威胁"有些容易识别，有些则不是"，且审查者不知道消费者希望推广到何处。这种不对称意味着框架对外部效度的指导远弱于对内部效度的指导
 > - **在实践中更多是门控工具而非推广工具**：[[What Works Clearinghouse|WWC]] 使用该框架时，内部效度用于严格的门控判断（达标/不达标），但外部效度仅被"描述"而不被"评分"，由消费者自行判断（Hitchcock et al., 2015, p.466）——这实质上将框架中最困难的部分（推广性判断）转嫁给了可能缺乏方法论训练的政策制定者和从业者
-> - **[[21st Century Skills and Competencies Discourse|SCD]] 推广性的特殊偏见**：存在"一种普遍（且错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广"（Hitchcock et al., 2015, p.467）——这意味着框架在面对 SCD 时面临额外的社会认识论障碍，不仅仅是方法论障碍
+> - **[[Single-Case Design|SCD]] 推广性的特殊偏见**：存在"一种普遍（且错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广"（Hitchcock et al., 2015, p.467）——这意味着框架在面对 SCD 时面临额外的社会认识论障碍，不仅仅是方法论障碍
 
 ## 相关研究
 
@@ -146,7 +145,7 @@ updated: '2026-05-18'
 ## 应用领域
 
 > [!success] 应用领域
-> - [[Single-Case Design]] — Campbellian 框架为 [[21st Century Skills and Competencies Discourse|SCD]] 研究提供统一的效度评估语言，[[What Works Clearinghouse|WWC]] 和学校心理学循证干预工作组均依赖此框架
+> - [[Single-Case Design]] — Campbellian 框架为 [[Single-Case Design|SCD]] 研究提供统一的效度评估语言，[[What Works Clearinghouse|WWC]] 和学校心理学循证干预工作组均依赖此框架
 > - [[Gating Procedure]] — 门控程序的操作逻辑直接来源于 Campbellian 框架的"[[Internal Validity|内部效度]]优先"原则
 > - [[Evidence-Based Education]] — Campbellian 框架是 WWC 评估教育研究证据的方法论基础
 > - [[Educational Evidence Clearinghouses]] — Wadhwa et al. (2024) 用[[Construct Validity in Quantitative Measurement|构念效度]]问题重新审视清算中心对"evidence-based"项目的认证实践，显示跨机构评级收敛不足会削弱该术语的实践效度（Wadhwa et al., 2024, p.26）

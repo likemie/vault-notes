@@ -8,7 +8,8 @@ tags:
 - venture-philanthropy
 - subject/curriculum
 - region/new-zealand
-related_concepts: []
+related_concepts:
+  - "[[Return on Investment]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -28,7 +29,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 风险慈善（Venture Philanthropy）是大型机构信托和私人基金会采用的一种较新的慈善方式，以"投资"（investment）而非传统的"拨款"（granting）或"种子基金"（seeding）为核心逻辑。这些投资往往具有战略范围、较大规模、多年执行周期，其结果明确按照经济投资回报和/或社会投资回报进行评估（O'Neill et al., 2016, p.vii）。
+> 风险慈善（Venture Philanthropy）是大型机构信托和私人基金会采用的一种较新的慈善方式，以"投资"（investment）而非传统的"拨款"（granting）或"种子基金"（seeding）为核心逻辑。这些投资往往具有战略范围、较大规模、多年执行周期，其结果明确按照经济[[Return on Investment|投资回报]]和/或社会投资回报进行评估（O'Neill et al., 2016, p.vii）。
 
 ## 与传统慈善的区别
 
@@ -55,7 +56,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与批评
 > - 以"投资"逻辑运作的风险慈善模糊了慈善利他主义与金融投资期望之间的界限，使私有部门行动者对公立教育决策权和财产权产生期望（O'Neill et al., 2016, p.xv）
-> - 大型慈善信托仅将少数投资回报分配为捐赠（如 Foundation North 平均 23.3%），其"永续增值"逻辑与紧迫的社会需求之间存在张力（O'Neill et al., 2016, p.xiii）
+> - 大型慈善信托仅将少数[[Return on Investment|投资回报]]分配为捐赠（如 Foundation North 平均 23.3%），其"永续增值"逻辑与紧迫的社会需求之间存在张力（O'Neill et al., 2016, p.xiii）
 
 ## 来源
 

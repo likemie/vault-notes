@@ -140,7 +140,7 @@ updated: '2026-05-18'
 >
 > 该表是论文最有解释力的表：它显示"最高评级"在不同清算中心中意味着不同证据门槛。作者只选取 [[What Works Clearinghouse]]、[[Blueprints for Healthy Youth Development]]、[[National Dropout Prevention Center]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] 四个机构做详细对照，是因为它们在评级对象、单项研究是否单独评级、项目最高评级门槛、持续效果要求和研究者独立性要求上形成清楚对比；其中 WWC 和 Blueprints 会显性评级单项研究，NDPC 和 CEBC 则主要给项目评级（Wadhwa et al., 2024, pp.12–15）。
 >
-> 这里的"单项研究"对应原文 individual studies，指清算中心是否为每一项纳入研究单独给出质量评级；它不是 [[Single-Case Design]]。[[21st Century Skills and Competencies Discourse|SCD]] 是一种具体研究设计类型，在 WWC 主题综述协议中可被纳入，但 Table 4 的"individual studies"是研究单位层级，不是 SCD 方法类别（Wadhwa et al., 2024, pp.8–9, 13）。
+> 这里的"单项研究"对应原文 individual studies，指清算中心是否为每一项纳入研究单独给出质量评级；它不是 [[Single-Case Design]]。[[Single-Case Design|SCD]] 是一种具体研究设计类型，在 WWC 主题综述协议中可被纳入，但 Table 4 的"individual studies"是研究单位层级，不是 SCD 方法类别（Wadhwa et al., 2024, pp.8–9, 13）。
 >
 > | 比较项             | [[What Works Clearinghouse]]                                                                                           | [[Blueprints for Healthy Youth Development]]                   | [[National Dropout Prevention Center]]                  | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] |
 > | ————— | —————————————————————————————————————————- | ————————————————————– | ————————————————————– | —————————————————————————————- |

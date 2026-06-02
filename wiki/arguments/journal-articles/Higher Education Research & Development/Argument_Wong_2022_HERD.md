@@ -18,6 +18,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[Graduate Attributes]]"
+  - "[[Return on Investment]]"
   - "[[Employability]]"
   - "[[Global Citizenship]]"
 related_theories: []
@@ -42,7 +43,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - 以高等教育的市场化（marketisation）为背景：大学需要向学生证明其价值和投资回报，推动了[[Graduate Attributes|毕业生特质]]的产生与发展（p.1340）
+> - 以高等教育的市场化（marketisation）为背景：大学需要向学生证明其价值和[[Return on Investment|投资回报]]，推动了[[Graduate Attributes|毕业生特质]]的产生与发展（p.1340）
 > - 以"理想毕业生"（ideal graduate）概念为分析透镜（Ingram & Allen, 2019; Wong & Chiu, 2019, 2020）（p.1351）
 
 ## 研究方法

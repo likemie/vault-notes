@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Quasi-markets in Higher Education]]"
   - "[[Non-monetary Competition]]"
+  - "[[Return on Investment]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -69,7 +70,7 @@ Schulze-Cleven et al.（2017）将这一概念引入对高等教育治理的当�
 
 ### 捐赠基金的马太效应
 
-Meyer & Zhou的分析揭示了美国精英大学捐赠基金的马太效应：最富有的大学不仅拥有更多资金进行金融投资，其投资回报也更加丰厚，因为它们可以聘用顶级投资经理和获取普通院校无法接触的投资机会。捐赠基金的收益再投入于奖学金、师资和设施，进一步扩大了与资源匮乏院校的差距。而且，美国税制对捐赠基金的优惠，免税增长，实际上是对最富有院校的隐性公共补贴（Schulze-Cleven et al., 2017, pp.802, 804）。
+Meyer & Zhou的分析揭示了美国精英大学捐赠基金的马太效应：最富有的大学不仅拥有更多资金进行金融投资，其[[Return on Investment|投资回报]]也更加丰厚，因为它们可以聘用顶级投资经理和获取普通院校无法接触的投资机会。捐赠基金的收益再投入于奖学金、师资和设施，进一步扩大了与资源匮乏院校的差距。而且，美国税制对捐赠基金的优惠，免税增长，实际上是对最富有院校的隐性公共补贴（Schulze-Cleven et al., 2017, pp.802, 804）。
 
 ### 人才流动的马太效应
 

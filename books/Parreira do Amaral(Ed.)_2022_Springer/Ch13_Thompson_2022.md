@@ -9,9 +9,9 @@ extracted_to:
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
   - "[[Stakeholder University]]"
-  - "[[Governmentality]]"
   - "[[Preemptive Governance]]"
   - "[[Societies of Control]]"
+  - "[[Governmentality]]"
 processed_date: 2026-05-20
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

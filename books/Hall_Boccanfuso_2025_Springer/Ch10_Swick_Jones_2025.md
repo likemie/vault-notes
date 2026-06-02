@@ -6,14 +6,16 @@ extracted_to:
   - "[[Team Science]]"
   - "[[King-Persily Model]]"
   - "[[Triple Helix]]"
-  - "[[Values Alignment Model]]"
   - "[[Academic Medical Center]]"
   - "[[Applied Medical Innovation]]"
-  - "[[Partnership Continuum]]"
   - "[[Physician-Scientist]]"
+  - "[[Return on Investment in University-Industry Collaboration]]"
   - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
+  - "[[Partnership Continuum]]"
+  - "[[Return on Investment]]"
   - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Values Alignment Model]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

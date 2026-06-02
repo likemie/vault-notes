@@ -18,9 +18,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Evidence-Based Reform]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[Probes]]"
   - "[[Champ]]"
   - "[[Causality]]"
   - "[[Tracking]]"
@@ -174,7 +172,7 @@ Wiliam (2019) 则将 EBE 关于"什么有效"的核心问题本身判定为**错
 - **2001** — [[No Child Left Behind Act 2001]] 通过，全文提及"科学本位研究"110 次，定义该术语并奠定其作为 Title I、Reading First 等联邦项目的基础（Slavin, 2002, pp. 15–16）
 - **2002** — [[What Works Clearinghouse]] 由美国教育部创建，旨在成为"关于教育中什么有效的科学证据的中央可信来源"（Wiliam, 2019, p.3）
 - **2002** — Bush 政府 OERI 主任 [[Grover Whitehurst]] 制定战略计划：到 2004 年 75% 的因果研究使用[[Random Assignment|随机分配]]设计（当时该比例可能不足 5%）（Slavin, 2002, p. 15）
-- **2010** — WWC 发布 [[21st Century Skills and Competencies Discourse|SCD]] Pilot Standards (Kratochwill et al.)，将[[Single-Case Design|单一个案设计]]认可为 [[Randomised Controlled Trials|RCT]] 之外的第二种实验证据生成方法；Hitchcock et al. (2015) 随后澄清了其审查程序中推广性信息的捕获方式
+- **2010** — WWC 发布 [[Single-Case Design|SCD]] Pilot Standards (Kratochwill et al.)，将[[Single-Case Design|单一个案设计]]认可为 [[Randomised Controlled Trials|RCT]] 之外的第二种实验证据生成方法；Hitchcock et al. (2015) 随后澄清了其审查程序中推广性信息的捕获方式
 - **2015** — ESSA 通过，正式定义强、中、有希望、基于原理四级证据标准（Ross & Morrison, 2021, p.109）
 
 ### 英国与国际组织的制度化推动（2007–2016）
@@ -183,7 +181,7 @@ Wiliam (2019) 则将 EBE 关于"什么有效"的核心问题本身判定为**错
 - **2006–2009** — [[EU Evidence-Informed Education Policy Initiatives]] 开始成形：2006 年欧洲理事会结论强调评价文化，2007 年欧洲委员会工作文件提出知识创造、知识应用和知识中介三类挑战，2009 年 ET 2020 将进展监测视为证据本位政策制定的重要基础（Pellegrini & Vivanet, 2021, pp.28-30）
 - **2011** — 英国 Pupil Premium Toolkit 创建，为 Cowen 的"官僚知识问题"论证提供了具体案例（Wiliam, 2019, p.4）
 - **2013** — 英国 [[What Works Network]] 建立，[[EEF Teaching and Learning Toolkit]] 成为旗舰产品；同年 [[ResearchED]] 由 Tom Bennett 创立为教师草根 [[Evidence-Informed Practice|EIP]] 运动
-- **2016** — OECD 报告（Burns & Köster, 2016）识别了证据本位政策制定的三类挑战："未使用""误用""滥用"。Møller（2017, p.378）[[Probes|追问]]：更多更好的数据真的提供了解决公平相关改进所需的知识吗？
+- **2016** — OECD 报告（Burns & Köster, 2016）识别了证据本位政策制定的三类挑战："未使用""误用""滥用"。Møller（2017, p.378）追问：更多更好的数据真的提供了解决公平相关改进所需的知识吗？
 
 ### 支持者阵营的纲领性论述（2002–2021）
 
@@ -371,7 +369,7 @@ Pampaka et al. (2016, p.235) 总结了特刊论文的共识方向：
 - **vs [[Local Knowledge in Evidence-Based Policy]]** — 本地知识是 EBE 实施中常被忽视但不可或缺的互补性知识来源；Wiliam (2019, pp.12–13) 以 Hayek (1945) 的知识理论为此提供政治经济学基础
 - **vs [[Evidence-Informed Practice]]** — EBE 使研究证据成为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 Nelson & Campbell (2017) 系统阐述
 - **vs [[Effect Size]]** — 效应量是 EBE 方法论的核心分析单位；Simpson 论证其测量试验灵敏度而非有效性；Wiliam (2019, p.11) 明确断言"[[Meta-meta-analysis|元-元分析]]在教育政策制定中绝对没有任何角色"
-- **vs [[Dynamic Knowledge and Learning Model]]** — EBE 常回答"有没有效"；动态模型进一步[[Probes|追问]]"对哪一类知识有效"，用于细化 EBE 的结果解释层。
+- **vs [[Dynamic Knowledge and Learning Model]]** — EBE 常回答"有没有效"；动态模型进一步追问"对哪一类知识有效"，用于细化 EBE 的结果解释层。
 - **vs [[Validity as Inferences]]** — Wiliam (2019, pp.9–10) 将 Cronbach/Messick 的效度理论应用于教育研究方法论：效度是推论的属性，意味着 EBE 的"什么有效"知识永远是临时且局部的
 - **vs [[Professional Judgment]]** — EBE 强版本将证据作为实践决策核心；Qvortrup (2019) 论证教师需要专业判断来整合证据与情境，而非被证据驱动
 - **vs [[Epistemic Governance|知识治理]]（Epistemic Governance）** — EBE 主要在国家政策层面讨论"决策是否依据科学证据"这一工具性问题；知识治理是一个更广泛的生成性概念，关注"知识如何在去中心化的全球治理架构中产生治理效应"。Zapp (2022) 将 EBE 所体现的"[[Scientization of Politics|政策的科学化]]"（scientization of politics）定位为知识治理兴起的一个关键维度——政策制定者接受科学证据作为决策的合法性基础，大学和研究者因此进入全球治理的核心舞台（Zapp, 2022, pp.145–146）
@@ -530,7 +528,7 @@ Cowen (2019) 对比了 EBE 当前的方法偏好与方法多元论视角下的�
 
 #### 政治经济学批判（Cowen, 2019）
 
-Biesta 从认识论维度识别了 EBE 的"缺陷"；Cowen (2019) 借助 [[Tullock's Bureaucracy Theory]] [[Probes|追问]]：**既然缺陷已知，为什么 EBE 仍然主导政策？**
+Biesta 从认识论维度识别了 EBE 的"缺陷"；Cowen (2019) 借助 [[Tullock's Bureaucracy Theory]] 追问：**既然缺陷已知，为什么 EBE 仍然主导政策？**
 
 答案在于 EBE 的**官僚功能**：RCT + 系统综述提供了一套**对主权者透明的过滤机制**——事先注册的研究协议和形式化的效应量产生看似客观的决策依据。
 

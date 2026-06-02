@@ -13,7 +13,6 @@ tags:
 - internal-validity
 related_concepts:
   - "[[Internal Validity]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
@@ -21,8 +20,8 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design]]"
+  - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
@@ -42,7 +41,7 @@ updated: '2026-05-18'
 >
 > > "The first step of a gating procedure consists of identifying studies on a specific topic that will be included in the review. From there, only studies with strong internal validity are considered (i.e., studies must pass an internal validity gate before they are considered further)." (Hitchcock et al., 2015, p.462)
 >
-> [[What Works Clearinghouse]] 对 [[21st Century Skills and Competencies Discourse|SCD]] 研究和组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）均采用门控程序（WWC, 2013; Hitchcock et al., 2015, p.462）。
+> [[What Works Clearinghouse]] 对 [[Single-Case Design|SCD]] 研究和组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）均采用门控程序（WWC, 2013; Hitchcock et al., 2015, p.462）。
 >
 > > 例：在 WWC 审查中，一项 [[Single-Case Design|SCD]] 研究首先被检查是否满足设计标准（足够的阶段对比、每阶段足够的数据点、可靠的结果测量、研究者主动操纵自[[Variable|变量]]）。只有通过此门槛的研究，其推广性信息才被进一步记录和描述。
 
@@ -53,12 +52,12 @@ Hitchcock et al. (2015, p.462) 描述了两种系统综述策略及其各自权�
 
 | 策略 | 做法 | 优势 | 劣势 |
 |------|------|------|------|
-| 门控程序（[[What Works Clearinghouse|WWC]] 采用） | 仅纳入内部效度强的研究 | 发现更易传播（无论结果如何，纳入研究均有合理强的内部效度） | 弱内部效度研究的信息被功能性排除 |
-| 全纳入（非门控） | 纳入所有研究，无论效度强弱 | 呈现证据全貌 | 消费者可能困惑——部分证据强、部分弱；当多项[[Internal Validity|内部效度]]各异的研究支持干预、另多项不支持时尤甚 |
+| 门控程序（[[What Works Clearinghouse\|WWC]] 采用） | 仅纳入内部效度强的研究 | 发现更易传播（无论结果如何，纳入研究均有合理强的内部效度） | 弱内部效度研究的信息被功能性排除 |
+| 全纳入（非门控） | 纳入所有研究，无论效度强弱 | 呈现证据全貌 | 消费者可能困惑——部分证据强、部分弱；当多项[[Internal Validity\|内部效度]]各异的研究支持干预、另多项不支持时尤甚 |
 
 ## 在 WWC SCD 审查中的具体应用
 
-> [!success] 在 [[What Works Clearinghouse|WWC]] [[21st Century Skills and Competencies Discourse|SCD]] 审查中的具体应用
+> [!success] 在 [[What Works Clearinghouse|WWC]] [[Single-Case Design|SCD]] 审查中的具体应用
 > 在 WWC 的 [[Single-Case Design|SCD]] 审查流程中，门控程序按以下顺序运作（Hitchcock et al., 2015, pp.464–465）：
 >
 > 1. **初步筛选**：对照审查协议，判断研究的干预、因[[Variable|变量]]、场所和参与者特征是否符合协议参数
@@ -73,7 +72,7 @@ Hitchcock et al. (2015, p.462) 认为当目标是向从业者和政策制定者�
 
 其核心逻辑援引 [[Campbellian Validity Framework]] 中 Shadish et al. (2002) 的主张：[[Internal Validity|内部效度]]是实验设计的必要条件（sin qua non）——"如果无法证明给定干预对某个结果负责，那么就没有多大意义去考察证据是否推广到不同情境"（Hitchcock et al., 2015, p.461）。
 
-> 例：如果一项 [[21st Century Skills and Competencies Discourse|SCD]] 研究的基线阶段只有 2 个数据点（不足以建立稳定的基线模式），即使其场所描述和参与者特征记录得非常详细，WWC 也不会将其纳入后续的推广性分析，因为"首先需要确保有一个可靠的效果存在"。
+> 例：如果一项 [[Single-Case Design|SCD]] 研究的基线阶段只有 2 个数据点（不足以建立稳定的基线模式），即使其场所描述和参与者特征记录得非常详细，WWC 也不会将其纳入后续的推广性分析，因为"首先需要确保有一个可靠的效果存在"。
 
 ## 局限性与批评
 
@@ -85,7 +84,7 @@ Hitchcock et al. (2015, p.462) 认为当目标是向从业者和政策制定者�
 ## 相关概念
 
 > [!example] 相关概念
-> - [[Single-Case Design]] — [[What Works Clearinghouse|WWC]] 对 [[21st Century Skills and Competencies Discourse|SCD]] 和组间设计均采用门控程序
+> - [[Single-Case Design]] — [[What Works Clearinghouse|WWC]] 对 [[Single-Case Design|SCD]] 和组间设计均采用门控程序
 > - [[5-3-20 Rule]] — 门控程序之后的证据综合阈值
 > - [[Evidence-Based Education]] — 门控程序是 EBE 机构（WWC）审查证据的操作方法之一
 > - [[What Works Clearinghouse]] — WWC 在 SCD 和组间设计审查中使用门控程序，只让通过[[Internal Validity|内部效度]]门槛的研究进入后续推广性描述（Hitchcock et al., 2015, pp.462, 464–466）

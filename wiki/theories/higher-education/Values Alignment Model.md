@@ -13,6 +13,8 @@ tags:
 related_concepts:
   - "[[Academic Health System]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Applied Medical Innovation]]"
+  - "[[Return on Investment]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -31,16 +33,19 @@ updated: 2026-06-02
 ## 核心主张
 
 > [!tip]
-> 价值对齐模型（Values Alignment Model）是一个以[[Academic Health System|学术健康系统]]（Academic Health System, AHS）为促进者、帮助[[University-Industry Collaboration|产学合作]]各方围绕共同价值对齐的框架（pp.190–191）。核心主张是：在医用创新（Applied Medical Innovation, AMI）的产学合作中，各方（大学、产业、医院、医师）拥有不同的优先事项和回报定义，但可以通过将患者置于中心来重新对齐——找出各方共享的价值，同时尊重不共享的价值（pp.190–191）。
+> 价值对齐模型（Values Alignment Model）是一个以[[Academic Health System|学术健康系统]]（Academic Health System, AHS）为促进者、帮助[[University-Industry Collaboration|产学合作]]各方围绕共同价值对齐的框架（pp.190–191）。核心主张是：在[[Applied Medical Innovation|医用创新]]（Applied Medical Innovation, AMI）的产学合作中，各方（大学、产业、医院、医师）拥有不同的优先事项和回报定义，但可以通过将患者置于中心来重新对齐——找出各方共享的价值，同时尊重不共享的价值（pp.190–191）。
 
 > [!quote]
 > "For every partnership we enter, we must ask ourselves: What does 'values alignment' mean? What counter currents are pulling us away from alignment, and how can we reconcile those forces to realign our goals, balance the model, and achieve innovation together?"（pp.190–191）
+
+> [!example]- 图10-5：产学合作的价值对齐方法（A Values Alignment Approach to UI Partnerships）
+> ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-5_Values_Alignment_Approach.jpg)
 
 ## 核心命题
 
 > [!abstract]
 > 模型中各方优先事项的差异以及对齐的可能（pp.190–191）：
-> - **医院/[[Academic Health System|学术健康系统]]**的优先：患者安全和隐私。其投资回报（Return on Investment, ROI）定义是提供最高质量的患者诊疗，从而建立声誉和患者信任。
+> - **医院/[[Academic Health System|学术健康系统]]**的优先：患者安全和隐私。其[[Return on Investment|投资回报]]（return on investment, ROI）定义是提供最高质量的患者诊疗，从而建立声誉和患者信任。
 > - **产业伙伴**的优先：产品的潜在市场和利润。但其利润最终也依赖于改善患者体验和减少患者痛苦。
 > - **大学伙伴**的优先：研究、开发和学生培养。寻找能够为学生提供前沿能力的合作环境。
 > - **医师**的优先：患者诊疗，以及与其相关的个人声誉、独立性和发表记录。
@@ -64,7 +69,7 @@ updated: 2026-06-02
 ## 应用领域
 
 > [!success]
-> - **医用创新的[[University-Industry Collaboration|产学合作]]**：价值对齐模型专为医用创新（Applied Medical Innovation）场景设计，用于帮助医院、大学和产业伙伴在合作谈判和执行过程中对齐目标、管理分歧。
+> - **[[Applied Medical Innovation|医用创新]]的[[University-Industry Collaboration|产学合作]]**：价值对齐模型专为医用创新（Applied Medical Innovation）场景设计，用于帮助医院、大学和产业伙伴在合作谈判和执行过程中对齐目标、管理分歧。
 > - **TAVR 案例**：Houston Methodist 与 Medtronic 合作开发经导管主动脉瓣置换术（Transcatheter Aortic Valve Replacement, TAVR）的过程展示了价值对齐如何在实际合作中运作——[[Academic Health System|AHS]] 保持了以患者安全和临床效果为核心，同时产业伙伴获得了可市场化的产品，大学和研究机构获得了前沿研究和发展机会（pp.192–194）。
 
 ## 来源

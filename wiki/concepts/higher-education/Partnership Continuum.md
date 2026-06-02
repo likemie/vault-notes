@@ -16,6 +16,8 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Technology Transfer]]"
   - "[[Academic Health System]]"
+  - "[[Academic Medical Center]]"
+  - "[[Return on Investment]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -57,7 +59,7 @@ updated: 2026-05-27
 ## 在学术健康系统中的应用
 
 > [!example]
-> 伙伴关系连续体在[[Academic Health System|学术健康系统]]（Academic Health System, AHS）中的适用方式与大学和 AMC 非常相似（p.188）：
+> 伙伴关系连续体在[[Academic Health System|学术健康系统]]（Academic Health System, AHS）中的适用方式与大学和 [[Academic Medical Center|AMC]] 非常相似（p.188）：
 > - AHS 参与从第 1 级（交易型）到第 3 级（联盟型）的合作；
 > - 与一个新伙伴的首次合作可以从任何级别进入；
 > - 与同一个伙伴可以同时在不同级别上维持多个合作关系。
@@ -67,7 +69,7 @@ updated: 2026-05-27
 > [!note]
 > Swick 和 Jones（2025, p.187, Fig. 10.4）在[[Academic Health System|学术健康系统]]的语境中提出了另一种互补视角——合作光谱（Spectrum of Partnerships），位于从"交易型"（transactional）到"创新型"（innovative）的连续谱上：
 > - **交易型**：创新由产业伙伴带入——例如产业开发新药，AHS 作为理想的临床试验场所和临床专家聚集地。优先是催化患者诊疗改善、验证增值效应并迅速部署
-> - **创新型**：创新源自 AHS 内部——例如教师研究员拥有创新和专利但需要伙伴支持规模化。优先在患者诊疗改善之外还包括知识产权（Intellectual Property, IP）保护和投资回报
+> - **创新型**：创新源自 AHS 内部——例如教师研究员拥有创新和专利但需要伙伴支持规模化。优先在患者诊疗改善之外还包括知识产权（Intellectual Property, IP）保护和[[Return on Investment|投资回报]]
 >
 > AHS 对每个新合作都以创新型姿态进入，以备知识产权出现时确保投入已到位（p.187）。
 >
