@@ -38,7 +38,6 @@ extracted_to:
   - "[[Informed Consent]]"
   - "[[Institutional Review Board]]"
   - "[[Integration Statement]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Intercoder Agreement]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
@@ -90,8 +89,6 @@ extracted_to:
   - "[[Winnowing]]"
   - "[[Writing Habit]]"
   - "[[Mixed Methods International Research Association]]"
-  - "[[Convergent Design]]"
-  - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
   - "[[Joint Display]]"
   - "[[Literature Map]]"
@@ -99,7 +96,6 @@ extracted_to:
   - "[[Mixed Methods Evaluation Design]]"
   - "[[Mixed Methods Experimental Design]]"
   - "[[Mixed Methods Participatory-Social Justice Design]]"
-  - "[[Mixed Methods Research]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
@@ -146,6 +142,8 @@ extracted_to:
   - "[[Robert E. Stake]]"
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
+  - "[[Integration in Mixed Methods]]"
+  - "[[Mixed Methods Research]]"
 processed_date: 2026-05-30
 ---
 

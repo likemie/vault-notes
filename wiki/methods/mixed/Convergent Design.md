@@ -13,19 +13,20 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Central Phenomenon]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Data Transformation in Mixed Methods]]"
   - "[[Metainferences]]"
-  - "[[Purpose Statement]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Qualitative Validity]]"
   - "[[Construct]]"
+  - "[[Pragmatism in China]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
-  - "[[Joint Display]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Joint Display]]"
   - "[[Triangulation]]"
   - "[[Qualitative Interview]]"
   - "[[Explanatory Sequential Design]]"
@@ -34,8 +35,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -54,14 +54,14 @@ updated: 2026-06-02
 > [!quote]
 > "A convergent mixed methods design will be used, and it is a type of design in which qualitative and quantitative data are collected to provide multiple perspectives on a problem or question."（Creswell & Creswell, 2022, p.136）
 > 
-> “将采用聚敛式混合方法设计，这是一种通过收集质性数据和量化数据，以对某项研究问题提供多重透视的设计类型。”
+> 将采用聚敛式混合方法设计，这是一种通过收集质性数据和量化数据，以对某项研究问题提供多重透视的设计类型。
 
 ### 核心价值：多重透视与整合洞见
-聚敛式设计的独特价值在于**“多重透视”（multiple perspectives）**：同一研究问题同时从量化角度（[[Variable|变量]]间的关系或群体间的差异）和质性角度（参与者的意义和情境理解）来审视。
+聚敛式设计的独特价值在于**多重透视（multiple perspectives）**：同一研究问题同时从量化角度（[[Variable|变量]]间的关系或群体间的差异）和质性角度（参与者的意义和情境理解）来审视。
 
 通过比较两类数据库，研究者可获得对研究问题**更完整的理解**（a more complete understanding）。这一洞见来自两个方向的共同作用：
-- **量化数据**提供变量关系的系统性证据（回答“什么因素影响什么结果”）。
-- **质性数据**提供参与者经验和情境的深入理解（回答“为什么会这样”及“对参与者意味着什么”）。
+- **量化数据**提供变量关系的系统性证据（回答什么因素影响什么结果）。
+- **质性数据**提供参与者经验和情境的深入理解（回答为什么会这样及对参与者意味着什么）。
 - **趋同与分歧**：当两类数据趋同时，互相增强了结论的可信度；当分歧（divergence）出现时，分歧本身成为重要的发现——提示研究者需要重新审查理论假设或研究方法。
 
 ---
@@ -79,7 +79,7 @@ updated: 2026-06-02
 ## 3. 认识论立场
 
 > [!abstract] 实用主义 (Pragmatism)
-> 聚敛式设计通常扎根于实用主义范式，强调“什么有效”（what works）来解决研究问题。它不追求量化或质性范式的排他性，而是认为通过并行的数据收集可以从多维度捕捉现实，不同性质的证据可以互补以服务于对复杂教育现象的解释。
+> 聚敛式设计通常扎根于[[Pragmatic Paradigm|实用主义范式]]，强调什么有效（what works）来解决[[Research Question|研究问题]]。它不追求量化或质性范式的排他性，而是认为通过并行的数据收集可以从多维度捕捉现实，不同性质的证据可以互补以服务于对复杂教育现象的解释。
 
 ---
 
@@ -89,13 +89,13 @@ updated: 2026-06-02
 在研究开始前，研究者需明确阐述设计意图（Creswell & Creswell, 2022, pp.136–137）：
 
 > **英文脚本：**
-> This convergent mixed methods study will address ________ (overall intent). A convergent mixed methods design will be used, and it is a type of design in which qualitative and quantitative data are collected to provide multiple perspectives on a problem or question. In the study, ________ (quantitative data) will be used to test the theory of ________ that predicts that ________ (independent variables) will influence ________ (dependent variables) for ________ (participants) at ________ (research site). The ________ (qualitative data) will explore the ________ (central phenomenon) for ________ (participants) at ________ (research site). The reason for collecting both quantitative and qualitative data is to ________ (merging the results).
+> This convergent mixed methods study will address ________ (overall intent). A convergent mixed methods design will be used, and it is a type of design in which qualitative and quantitative data are collected to provide multiple perspectives on a problem or question. In the study, ________ (quantitative data) will be used to test the theory of ________ that predicts that ________ (independent [[Variable|variables]]) will influence ________ (dependent variables) for ________ (participants) at ________ (research site). The ________ (qualitative data) will explore the ________ ([[Central Phenomenon]]) for ________ (participants) at ________ (research site). The reason for collecting both quantitative and qualitative data is to ________ (merging the results).
 >
 > **中文译文：**
 > 本[[Mixed Methods Research|混合方法研究]]将解决________（总体意图）。采用聚敛式混合方法设计，在该设计中，质性数据和量化数据分别收集以提供对问题或[[Research Question|研究问题]]的多重视角。本研究中，________（量化数据）将用于检验________理论，该理论预测________自[[Variable|变量]]对________因变量在________研究场所________参与者的影响。________（质性数据）将探索________的________[[Central Phenomenon|核心现象]]。合并两类数据库的洞见将是________。
 
 ### 4.2 执行程序：五阶段基本流程
-操作逻辑遵循“分别收集、独立分析、合并比较”的原则：
+操作逻辑遵循分别收集、独立分析、合并比较的原则：
 1. **[[Research Question|研究问题]]设定**：提出需要量化和质性数据共同回答的综合研究问题。
 2. **量化分支**：收集量化数据（如调查、实验），检验理论预测的[[Variable|变量]]关系。
 3. **质性分支**：同时收集质性数据（如访谈、观察），探索参与者的[[Central Phenomenon|核心现象]]。
@@ -114,7 +114,7 @@ updated: 2026-06-02
 - **[[Data Transformation in Mixed Methods|数据转换]] (Data transformation)**：将质性主题或编码转化为量化变量（计数并分组），然后合并两个量化数据库。在量化训练背景的研究者中较受欢迎；具体转换程序可参考 Onwuegbuzie & Leech (2006)。
 - **[[Joint Display|联合展示]] (Joint display)**：在表格或图表中合并呈现两组数据。已成为[[Mixed Methods Research|混合方法研究]]整合的标准程序。
 
-**阶段 3：提取元推论**
+**阶段 3：提取[[Metainferences|元推论]]**
 从[[Joint Display|联合展示]]中提取[[Metainferences|元推论]]：通过**沿行检视**和**沿列检视**，判断量化与质性结果是否确认、一致或分歧。当出现分歧时，可返回分析深入探索数据库、收集额外数据，或讨论某一数据库的局限。
 
 ### 4.4 关键工具：联合展示模板
@@ -156,15 +156,15 @@ updated: 2026-06-02
 ## 7. 使用此方法的研究
 
 > [!example]
-> - [[Argument_Classen_2007_CreswellExample]] — 对全国车祸数据集（量化）进行二次分析，同时对六项[[Qualitative Research|质性研究]]进行元综合，将两组结果合并比较以制定老年驾驶员安全促进模型（Creswell & Creswell, 2022, p.137）。
+> - Argument_Classen_2007_CreswellExample — 对全国车祸数据集（量化）进行二次分析，同时对六项[[Qualitative Research|质性研究]]进行元综合，将两组结果合并比较以制定老年驾驶员安全促进模型（Creswell & Creswell, 2022, p.137）。
 
 ---
 
 ## 8. 相关概念与理论
 
 > [!tip]
-> - [[Pragmatism]] — 作为其哲学基础的实用主义。
-> - [[Integration in Mixed Methods]] — 混合方法研究的整合核心过程。
+> - [[Pragmatism in China|pragmatism]] — 作为其哲学基础的[[Pragmatic Paradigm|实用主义]]。
+> - [[Integration in Mixed Methods]] — [[Mixed Methods Research|混合方法研究]]的整合核心过程。
 > - [[Joint Display]] — 核心可视化整合工具。
 
 ---

@@ -2,7 +2,6 @@
 title: Integration in Mixed Methods
 aliases:
   - 混合方法中的整合
-  - integration
   - mixed methods integration
   - data integration in mixed methods
   - 混合方法整合
