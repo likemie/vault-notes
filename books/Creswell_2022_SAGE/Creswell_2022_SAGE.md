@@ -62,7 +62,6 @@ extracted_to:
   - "[[Robert E. Stake]]"
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Self-control]]"
   - "[[APA Style]]"
   - "[[Abstract]]"
@@ -146,6 +145,7 @@ extracted_to:
   - "[[Mixed Methods Research]]"
   - "[[Integration Statement]]"
   - "[[Open-Ended and Closed-Ended Data]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 processed_date: 2026-05-30
 ---
 
