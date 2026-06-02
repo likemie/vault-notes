@@ -7,6 +7,7 @@ tags: ["theme/talent-development", "theme/workforce-training", "theme/university
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Translational Research]]"
+  - "[[Physician-Scientist]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -14,6 +15,7 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Ch5_Narayan_Spohrer_2025]]"
+  - "[[Ch10_Swick_Jones_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -60,11 +62,11 @@ Narayan 与 Spohrer 指出这一需求不仅落在四年制学位项目上，也
 ## 在医用创新中的应用
 
 > [!example]
-> Swick 和 Jones（2025, pp.185–186）将 T 型技能应用于医师科学家（Physician-Scientist）在医用创新（Applied Medical Innovation）中的角色：
+> 在医用创新（Applied Medical Innovation, AMI）中，T 型技能被应用于[[Physician-Scientist|医师科学家]]（Physician-Scientist）的角色（pp.185–186）：
 > - 纵向深度（"|"）使医师科学家能够在自己的专业领域中精准识别临床问题和挑战；
-> - 横向广度（"—"）使他们能够与来自不同学科和机构类型的合作伙伴有效沟通——工程师、产业研发人员、基础科学家各自以不同的参照框架看待问题，T 型技能的广度维度使医师科学家能够理解并整合这些多元视角。
+> - 横向广度（"—"）使其能够与来自不同学科和机构类型的合作伙伴有效沟通——工程师、产业研发人员、基础科学家各自以不同的参照框架看待问题，T 型技能的广度维度使医师科学家能够理解并整合这些多元视角。
 
-> 两位作者进一步指出，当代专家的超亚专业化（super-sub-specialization）加剧了对 T 型技能的需求："我们需要一个近视的镜片来找到问题，但随后需要一个广角的镜片来看清全局，并看到我们的合作伙伴。"（p.186）
+> 当代专家的超亚专业化（super-sub-specialization）加剧了对 T 型技能的需求："需要一个近视的镜片来找到问题，但随后需要一个广角的镜片来看清全局，并看到合作伙伴。"（p.186）
 
 ## 来源
 

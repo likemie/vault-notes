@@ -10,7 +10,6 @@ extracted_to:
   - "[[Innovation Park]]"
   - "[[Knowledge Integration Community]]"
   - "[[Knowledge Transfer]]"
-  - "[[Partnership Continuum]]"
   - "[[Professors of Practice]]"
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
@@ -18,6 +17,7 @@ extracted_to:
   - "[[Hatch Act of 1887]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Website Content Analysis]]"
+  - "[[Partnership Continuum]]"
   - "[[Triple Helix]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"

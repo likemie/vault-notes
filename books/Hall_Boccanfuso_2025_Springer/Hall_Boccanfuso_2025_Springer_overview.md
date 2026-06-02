@@ -11,12 +11,8 @@ extracted_to:
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[Triple Helix]]"
-  - "[[Academic Health System]]"
   - "[[Physician-Scientist]]"
-  - "[[Team Science]]"
-  - "[[King-Persily Model]]"
-  - "[[Values Alignment Model]]"
+  - "[[Triple Helix]]"
 processed_date: 2026-05-27
 ---
 

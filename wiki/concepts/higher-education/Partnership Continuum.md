@@ -14,6 +14,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Transfer]]"
   - "[[Technology Transfer]]"
+  - "[[Academic Health System]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -22,6 +23,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Ch3_Boccanfuso_Hall_2025]]"
+  - "[[Ch10_Swick_Jones_2025]]"
 confidence: low
 status: draft
 created: 2026-05-27
@@ -54,10 +56,10 @@ updated: 2026-05-27
 ## 在学术健康系统中的应用
 
 > [!example]
-> Swick 和 Jones（2025, p.188）将该框架应用于学术健康系统（Academic Health System），指出其适用方式与大学和 AMC 类似：
-> - 学术健康系统参与从第 1 级（交易型）到第 3 级（联盟型）的合作；
-> - 与一个新伙伴的首次合作可能从任何级别进入；
-> - 与同一个伙伴可能同时在不同级别上维持多个合作关系。
+> 伙伴关系连续体在[[Academic Health System|学术健康系统]]（Academic Health System, AHS）中的适用方式与大学和 AMC 非常相似（p.188）：
+> - AHS 参与从第 1 级（交易型）到第 3 级（联盟型）的合作；
+> - 与一个新伙伴的首次合作可以从任何级别进入；
+> - 与同一个伙伴可以同时在不同级别上维持多个合作关系。
 
 ## 来源
 

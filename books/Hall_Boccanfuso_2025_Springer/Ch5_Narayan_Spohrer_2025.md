@@ -4,9 +4,9 @@ extracted_to:
   - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
   - "[[Precompetitive Research]]"
   - "[[Six Rs of University-Industry Relations]]"
-  - "[[T-Shaped Skills]]"
   - "[[Translational Research]]"
   - "[[Jim Spohrer]]"
+  - "[[T-Shaped Skills]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
