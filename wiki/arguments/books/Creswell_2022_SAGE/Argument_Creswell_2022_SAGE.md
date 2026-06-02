@@ -450,10 +450,8 @@ updated: 2026-06-01
 
 ---
 
-**第六步：加工文献。** [[Abstract|文献摘要]]区分实证与非实证研究的不同要素，是"读文献"到"写综述"的桥梁。[[Literature Map|文献地图]]是一种论证装置，以层级结构（或流程图、圆圈交叉图）将已有文献组织为视觉图示。研究者从顶部宽泛主题出发，向下分为若干子主题和子子主题，底部放置"Need to Study"框标识计划研究的位置，并用连线表示计划研究将延伸哪个分支。图 2.1 以 Janovec (2001) 关于组织程序公正的文献地图为例展示这一结构。
+**第六步：加工文献。** [[Abstract|文献摘要]]区分实证与非实证研究的不同要素，是"读文献"到"写综述"的桥梁。[[Literature Map|文献地图]]是一种论证装置，以层级结构（或流程图、圆圈交叉图）将已有文献组织为视觉图示。研究者从顶部宽泛主题出发，向下分为若干子主题和子子主题，底部放置"Need to Study"框标识计划研究的位置，并用连线表示计划研究将延伸哪个分支。
 
-> [!example]- 图2.1：文献地图示例（An Example of a Literature Map）
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_2-1_Literature_Map.jpg
 ---
 
 **第七步：呈现规范。** APA 格式提供统一的学术写作规范，其目的是让读者"专注于内容而非格式"。[[Definition of Terms|术语定义]]的核心原则是操作化。量化研究倾向于在开头"锁定"术语意义，质性研究则允许意义在研究过程中"涌现"。
@@ -628,8 +626,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 世界观涉及研究者的信念和价值观，在抽象层面运作；理论较不抽象，从文献中提取，为研究设计诸多方面提供具体指导。
 
-> [!example]- 图片占位
-> 图3.6 Four Levels for Developing a Research Study (Adapted from Crotty, 1998)
+> [!example]- Four Levels for Developing a Research Study (Adapted from Crotty, 1998)
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-6_Four_Levels_Research_Study.jpg)
 
 关于**理论驱动（theoretically driven）的争议**。Morse & Niehaus (2009) 主张所有混合方法研究都由理论驱动，要么量化为主，要么质性为主。另一种立场认为，这种取向在量化和质性之间制造了不健康的权力失衡，混合方法研究的核心优势恰恰在于给予两种研究形式同等的重要性。
