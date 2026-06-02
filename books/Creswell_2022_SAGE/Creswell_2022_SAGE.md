@@ -141,9 +141,9 @@ extracted_to:
   - "[[Julian B. Rotter]]"
   - "[[Robert E. Stake]]"
   - "[[Yvonna S. Lincoln]]"
-  - "[[Social Learning Theory]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Mixed Methods Research]]"
+  - "[[Social Learning Theory]]"
 processed_date: 2026-05-30
 ---
 

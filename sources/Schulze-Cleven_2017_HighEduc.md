@@ -27,9 +27,9 @@ extracted_to:
   - "[[Cultural Political Economy]]"
   - "[[Neo-feudalism in Higher Education]]"
   - "[[Matthew Effect in Academia]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Financialization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-01
 ---
 

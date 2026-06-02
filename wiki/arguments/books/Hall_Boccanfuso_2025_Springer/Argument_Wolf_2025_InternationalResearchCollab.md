@@ -1,5 +1,5 @@
 ---
-title: International Research Collaborations Between Universities and Industry
+title: Argument_Wolf_2025_InternationalResearchCollab
 summary: "以目标对齐、知识产权、地缘政治和文化沟通为分析维度，探讨国际产学合作的机遇与挑战，并通过 Mars 与 UC Davis 的长期合作案例提炼跨国研究伙伴关系的成功条件"
 type: argument
 authors:

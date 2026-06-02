@@ -86,11 +86,11 @@ extracted_to:
   - "[[George Berkeley]]"
   - "[[John Locke]]"
   - "[[Stevenson and Stigler]]"
-  - "[[Confucian Learning Tradition]]"
   - "[[Appraisal Theory]]"
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
   - "[[Cultural Models]]"
+  - "[[Confucian Learning Tradition]]"
 processed_date: 2026-05-25
 ---
 

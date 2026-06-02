@@ -5,7 +5,6 @@ extracted_to:
   - "[[T-Shaped Skills]]"
   - "[[Team Science]]"
   - "[[King-Persily Model]]"
-  - "[[Triple Helix]]"
   - "[[Academic Medical Center]]"
   - "[[Applied Medical Innovation]]"
   - "[[Physician-Scientist]]"
@@ -13,9 +12,10 @@ extracted_to:
   - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
   - "[[Partnership Continuum]]"
   - "[[Return on Investment]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Values Alignment Model]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Triple Helix]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

@@ -15,9 +15,9 @@ extracted_to:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[University, Inc. (Washburn, 2005)]]"
-  - "[[Triple Helix]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Triple Helix]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

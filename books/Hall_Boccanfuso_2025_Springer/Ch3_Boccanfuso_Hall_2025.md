@@ -15,10 +15,10 @@ extracted_to:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Hatch Act of 1887]]"
   - "[[Website Content Analysis]]"
-  - "[[Triple Helix]]"
   - "[[Partnership Continuum]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Triple Helix]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

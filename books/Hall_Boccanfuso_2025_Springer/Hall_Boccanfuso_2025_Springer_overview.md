@@ -9,9 +9,9 @@ extracted_to:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
-  - "[[Triple Helix]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Triple Helix]]"
 processed_date: 2026-05-27
 ---
 
@@ -29,3 +29,4 @@ processed_date: 2026-05-27
 - [[Argument_Gilison_Wilson_2025_UniversityStartups]]
 - [[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]
 - [[Argument_Swick_Jones_2025_AcademicHealthSystems]]
+- [[Argument_Wolf_2025_InternationalResearchCollab]]

@@ -7,14 +7,14 @@ extracted_to:
   - "[[Knowledge Exchange]]"
   - "[[Technology Transfer]]"
   - "[[Third Mission (Universities)]]"
-  - "[[Use-Inspired Basic Research]]"
   - "[[Innovation Models Evolution]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Transformative Change]]"
   - "[[Systems of Innovation]]"
-  - "[[Triple Helix]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Use-Inspired Basic Research]]"
+  - "[[Triple Helix]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

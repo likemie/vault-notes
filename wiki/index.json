@@ -1267,6 +1267,18 @@
     ]
   },
   {
+    "title": "Co-location (University-Industry)",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Co-location (University-Industry).md",
+    "aliases": [
+      "产学共同选址",
+      "大学产业共同选址",
+      "co-location",
+      "colocation",
+      "UI co-location"
+    ]
+  },
+  {
     "title": "Competitiveness",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Competitiveness.md",
@@ -4893,6 +4905,17 @@
     ]
   },
   {
+    "title": "Dollinger et al. Framework for UI Collaboration",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Dollinger et al. Framework for UI Collaboration.md",
+    "aliases": [
+      "Dollinger 产学合作框架",
+      "Dollinger framework",
+      "environmental technical managerial framework",
+      "国际产学合作三因素框架"
+    ]
+  },
+  {
     "title": "King-Persily Model",
     "type": "theory",
     "path": "wiki/theories/higher-education/King-Persily Model.md",
@@ -4908,6 +4931,18 @@
     "path": "wiki/theories/higher-education/Network Society.md",
     "aliases": [
       "网络社会"
+    ]
+  },
+  {
+    "title": "Stokes' Quadrant Model of Scientific Research",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Stokes' Quadrant Model of Scientific Research.md",
+    "aliases": [
+      "斯托克斯象限模型",
+      "Stokes quadrant model",
+      "Pasteur's Quadrant",
+      "巴斯德象限模型",
+      "scientific research quadrants"
     ]
   },
   {
@@ -7900,6 +7935,16 @@
     ]
   },
   {
+    "title": "Nagoya Protocol (2014)",
+    "type": "fact",
+    "path": "wiki/facts/global/Nagoya Protocol (2014).md",
+    "aliases": [
+      "名古屋议定书",
+      "Nagoya Protocol on Access and Benefit-sharing",
+      "遗传资源获取与惠益分享名古屋议定书"
+    ]
+  },
+  {
     "title": "OECD Improving School Leadership Project",
     "type": "fact",
     "path": "wiki/facts/global/OECD Improving School Leadership Project.md",
@@ -9081,6 +9126,11 @@
     "title": "Argument_Ulrichsen_2025_UIR_Evolution",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md"
+  },
+  {
+    "title": "Argument_Wolf_2025_InternationalResearchCollab",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Wolf_2025_InternationalResearchCollab.md"
   },
   {
     "title": "Argument_Amos_2022_Springer",

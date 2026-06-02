@@ -12,8 +12,8 @@ extracted_to:
   - "[[Product-Specific Research]]"
   - "[[University-Based Research Center]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
