@@ -29,7 +29,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Creswell_Creswell_2023_SAGE]]"
+  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -41,7 +41,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 混合方法实验（干预）设计（Mixed Methods Experimental/Intervention Design）是一种[[Mixed Method and Multi-method Research|复杂混合方法设计]]，将质性数据收集嵌入实验或干预过程中，使参与者的个人经验得以纳入研究。这要求研究者既理解实验设计又能够严格实施实验（如[[Randomised Controlled Trials|随机对照试验]]），同时使用质性数据来丰富对实验过程和结果的理解（Creswell & Creswell, 2023, p.245）。
+> [[Mixed Method and Multi-method Research|混合方法]]实验（干预）设计（Mixed Methods Experimental/Intervention Design）是一种[[Mixed Method and Multi-method Research|复杂混合方法设计]]，将质性数据收集嵌入实验或干预过程中，使参与者的个人经验得以纳入研究。这要求研究者既理解实验设计又能够严格实施实验（如[[Randomised Controlled Trials|随机对照试验]]），同时使用质性数据来丰富对实验过程和结果的理解（Creswell & Creswell, 2022, p.245）。
 
 质性数据可以在实验的不同时间点加入（Sandelowski, 1996）：实验前、实验中或实验后。加入的时间点决定了嵌入的核心设计类型。
 
@@ -50,7 +50,7 @@ updated: 2026-06-02
 ## 研究程序
 
 > [!example]
-> 质性数据嵌入实验的三个时间点和对应的核心设计（Creswell & Creswell, 2023, pp.245–246）：
+> 质性数据嵌入实验的三个时间点和对应的核心设计（Creswell & Creswell, 2022, pp.245–246）：
 >
 > **1. 实验前——嵌入[[Exploratory Sequential Design|探索性序列设计]]**
 > - 质性数据用于：招募参与者、开发可操作的干预措施、开发好的前后测测量工具
@@ -67,7 +67,7 @@ updated: 2026-06-02
 > 质性数据收集与实验的各个连接点，就是[[Mixed Method and Multi-method Research|混合方法研究]]中的[[Integration in Mixed Methods|整合]]点。
 
 > [!example]- 图10.3：混合方法干预设计图
-> ![](https://img.mylikemie.icu/books/Creswell_Creswell_2023_SAGE/figures/Figure_10-3_Mixed_Methods_Intervention_Design.jpg)
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-3_Mixed_Methods_Intervention_Design.jpg)
 
 ---
 
@@ -84,10 +84,10 @@ updated: 2026-06-02
 ## 使用此方法的研究
 
 > [!example]
-> - Betancourt et al. (2011) — 在卢旺达使用[[Mixed Method and Multi-method Research|混合方法研究]]来调整和评价一项家庭强化干预，先从[[Qualitative Interview|质性访谈]]和[[Literature Review|文献回顾]]出发开发文化适切的测量工具，再在实验干预中使用这些工具作为前后测评估（Creswell & Creswell, 2023, p.248）。
+> - Betancourt et al. (2011) — 在卢旺达使用[[Mixed Method and Multi-method Research|混合方法研究]]来调整和评价一项家庭强化干预，先从[[Qualitative Interview|质性访谈]]和[[Literature Review|文献回顾]]出发开发文化适切的测量工具，再在实验干预中使用这些工具作为前后测评估（Creswell & Creswell, 2022, p.248）。
 
 ---
 
 ## 来源
 
-- [[Creswell_Creswell_2023_SAGE]]
+- [[Creswell_2022_SAGE]]

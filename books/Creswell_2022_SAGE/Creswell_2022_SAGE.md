@@ -107,11 +107,20 @@ extracted_to:
   - "[[Qualitative Documents]]"
   - "[[Qualitative Interview]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Data Transformation in Mixed Methods]]"
+  - "[[Integration Statement]]"
+  - "[[Integration in Mixed Methods]]"
+  - "[[Metainferences]]"
+  - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
   - "[[Joint Display]]"
   - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Case Study Design]]"
+  - "[[Mixed Methods Evaluation Design]]"
+  - "[[Mixed Methods Experimental Design]]"
+  - "[[Mixed Methods Participatory-Social Justice Design]]"
 processed_date: 2026-05-30
 ---
 

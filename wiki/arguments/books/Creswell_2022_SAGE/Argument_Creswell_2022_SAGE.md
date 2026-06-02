@@ -49,6 +49,9 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Qualitative Validity]]"
   - "[[Reflexivity]]"
+  - "[[Integration in Mixed Methods]]"
+  - "[[Metainferences]]"
+  - "[[Integration Statement]]"
   - "[[Variable]]"
   - "[[Research Topic]]"
   - "[[Construct]]"
@@ -70,7 +73,6 @@ related_concepts:
   - "[[Cover Story]]"
   - "[[Experimenter Bias]]"
   - "[[Analytic Framework]]"
-  - "[[Saturation]]"
   - "[[Gatekeepers]]"
   - "[[Probes]]"
   - "[[Simultaneous Procedures]]"
@@ -80,6 +82,8 @@ related_concepts:
   - "[[Qualitative Reliability]]"
   - "[[Intercoder Agreement]]"
   - "[[Qualitative Generalization]]"
+  - "[[Open-Ended and Closed-Ended Data]]"
+  - "[[Saturation]]"
   - "[[Multiplicity]]"
   - "[[Champ]]"
   - "[[Confidence Interval]]"
@@ -103,10 +107,9 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Purposeful Sampling]]"
   - "[[Mixed Method and Multi-method Research]]"
-  - "[[Joint Display]]"
   - "[[Convergent Design]]"
-  - "[[Explanatory Sequential Design]]"
-  - "[[Exploratory Sequential Design]]"
+  - "[[Joint Display]]"
+  - "[[Mixed Methods Evaluation Design]]"
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
   - "[[Ethnography]]"
@@ -126,7 +129,11 @@ related_methods:
   - "[[Observation Protocol]]"
   - "[[Qualitative Computer Software]]"
   - "[[In-depth Interview]]"
+  - "[[Intervention Research]]"
+  - "[[Mixed Methods Case Study Design]]"
+  - "[[Mixed Methods Participatory-Social Justice Design]]"
   - "[[Case Study]]"
+  - "[[Explanatory Sequential Design]]"
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
@@ -135,7 +142,8 @@ related_persons:
   - "[[Yvonna S. Lincoln]]"
   - "[[John Dewey]]"
   - "[[Herbert Blalock]]"
-related_facts: []
+related_facts:
+  - "[[Campbell Collaboration]]"
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
@@ -161,7 +169,7 @@ updated: 2026-06-01
 | 第7章 研究问题与假设   | 系统讲解量化研究问题和假设（描述性与关系型、零假设与方向性备择假设）、质性核心研究问题和子问题、混合方法的三类研究问题（量化、质性、混合方法整合问题），每一类均提供填空式写作脚本和已发表研究范例。                                                                                                                                                                                                               | [[Research Question]], [[Hypothesis]], [[Central Question]], [[Mixed Methods Question]], [[Null Hypothesis]]                                               |
 | 第8章 量化方法      | 系统讲解调查研究和实验研究的方法计划组成部分：调查研究计划涵盖调查目的与设计类型、总体与样本（抽样设计、分层、[[Power Analysis]]）、工具信效度、变量与数据分析六步骤；实验研究计划涵盖参与者分配与[[Random Assignment]]、变量（独立变量、操纵检查、因变量、混淆变量）、工具与封面故事、实验程序（[[Pre-Experimental Designs]]、准实验、[[Factorial Design]]、[[Single-Subject Design]]）、[[Internal Validity]]与[[External Validity]]威胁控制、数据分析步骤和预注册。 | [[Survey Research]], [[Experimental Research]], [[Power Analysis]], [[Internal Validity]], ANOVA                                                           |
 | 第9章 质性方法      | 系统讲解质性研究方法的全部组成部分：九大核心特征、描述性方法与分析框架的区分、四种数据收集类型与协议设计、七步数据分析流程与 Tesch 编码八步骤、解释的组成部分、八种效度策略与信度程序，以及质性写作的六种策略。                                                                                                                                                                                                                             | [[Descriptive Methods]], [[Coding in Qualitative Research]], [[Purposeful Sampling]], [[Qualitative Validity]], [[Reflexivity]]                                |
-| 第10章 混合方法程序   | 界定混合方法研究的核心特征，介绍三种核心设计（聚敛式、解释性序列、探索性序列）和四种复杂混合方法设计，讨论量化与质性数据的整合分析，包括联合展示的使用和设计选择的流程图。                                                                                                                                                                                                                            | [[Mixed Method and Multi-method Research]], [[Joint Display]], [[Convergent Design]], [[Explanatory Sequential Design]], [[Exploratory Sequential Design]] |
+| 第10章 混合方法程序   | 界定混合方法研究的六个核心特征与历史定位，论证使用混合方法的多元理由，区分开放式与封闭式数据，详解三种核心设计（聚敛式、解释性序列、探索性序列）的意图、程序、联合展示模板、元推论与效度威胁，拓展四种复杂设计（实验干预、案例研究、参与式社会正义、评价），提供设计选择流程图和整合陈述写作指南，以四个完整研究实例展示各类设计的实际运用。 | [[Mixed Method and Multi-method Research]], [[Integration in Mixed Methods]], [[Convergent Design]], [[Joint Display]], [[Metainferences]], [[Mixed Methods Evaluation Design]], [[Integration Statement]] |
 
 ---
 
@@ -228,7 +236,7 @@ updated: 2026-06-01
 
 - [[Qualitative Research|质性研究]] 探索和理解个体或群体赋予社会或人类问题之意义。过程包含涌现式问题、在参与者自然情境中收集数据、从具体到主题的归纳式分析，以及研究者对数据意义的解释。报告结构灵活，研究者注重个体意义和情境复杂性。
 - [[Quantitative Research|量化研究]] 通过检验[[Variable|变量]]间关系或群体间比较来验证客观理论。变量可通过标准化工具测量，产生可用统计程序分析的数值数据。报告结构固定（引言—方法—结果—讨论），研究者以演绎方式检验理论，控制偏差，寻求推广和复制。
-- [[Mixed Method and Multi-method Research|混合方法研究]] 同时收集量化与质性数据，使用特定设计整合两类数据，并从合并数据库中得出整合性推论（metainferences）。
+- [[Mixed Method and Multi-method Research|混合方法研究]] 同时收集量化与质性数据，使用特定设计整合两类数据，并从合并数据库中得出整合性推论（[[Metainferences]]）。
 
 > [!note]- 连续谱而非二分
 > 量化和质性不宜视为截然对立或互斥的范畴，两者的区分常用"文字（质性）vs 数字（量化）"或"开放问题 vs 封闭问题"来表述。更完整的区分方式是从哲学假设、研究策略和具体方法三个层面来观察差异梯度。从历史看，量化路径在 19 世纪末至 20 世纪中期主导社会科学，20 世纪后半叶质性研究兴起，混合方法随之发展。
@@ -513,7 +521,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 - **质性研究计划**（两种格式）：建构主义/解释主义格式按"引言—程序—初步发现—预期影响"组织，附录建议纳入[[Interview Protocol|访谈协议]]、观察表、时间表和预算。参与式/社会正义格式增加了社会正义理论框架和合作性数据收集方式，结尾讨论预期变革。
 - **量化研究计划**：遵循 IMRD 经典结构（引言与文献综述—方法—结果—讨论），以问题陈述（含理论、[[Deficiencies in Past Literature|文献缺口]]、受众关联性）为核心。各部分顺序可能因研究而异（Rudestam & Newton, 2014）。
-- **混合方法研究计划**（最全面的格式）：独有要素包括混合方法的定义与使用理由、设计类型及效度挑战、设计流程图、整合声明、[[Joint Display|联合展示]]模板和预期整合推论（metainferences）。研究问题分量化、质性和混合方法整合三个层次。
+- **混合方法研究计划**（最全面的格式）：独有要素包括混合方法的定义与使用理由、设计类型及效度挑战、设计流程图、整合声明、[[Joint Display|联合展示]]模板和预期整合推论（metainferences）。研究问题分量化、质性和[[Integration in Mixed Methods|混合方法整合]]三个层次。
 
 > [!note]- 四种格式对照
 > | 特征 | 质性建构主义 | 质性社会正义 | 量化 | 混合方法 |
@@ -1045,7 +1053,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > [!example] 抽样与招募
 > [[Purposeful Sampling|目的性抽样]]选择最能帮助理解研究问题的参与者或场所。Miles & Huberman（1994）提出四要素：场所（where）、行动者（who）、事件（what actors do）、过程（evolving nature of events）。招募需说明告知方式、激励措施和备选方法。
 >
-> 样本量因设计而异：叙事研究 1-2 人、现象学 3-10 人、扎根理论 20-30 人、民族志一个文化群体、案例研究 4-5 个案例、描述性方法至少 20 人。[[Saturation|饱和]]概念来自扎根理论——Charmaz（2006）指出，当收集新鲜数据不再引发新洞见时即达到饱和，此为停止收集数据的标准。两种方式（预设样本量与饱和）同样有效（p.198）。
+> 样本量因设计而异：叙事研究 1-2 人、现象学 3-10 人、扎根理论 20-30 人、民族志一个文化群体、案例研究 4-5 个案例、描述性方法至少 20 人。饱和概念来自扎根理论——Charmaz（2006）指出，当收集新鲜数据不再引发新洞见时即达到饱和，此为停止收集数据的标准。两种方式（预设样本量与饱和）同样有效（p.198）。
 
 > [!info] 获取许可
 > 包括 IRB 审批（保护人类参与者权利）、获取场所准入和 [[Gatekeepers|守门人]] 批准。Bogdan & Biklen（1992）建议向守门人提交简短方案，回答五个问题：为什么选此场所？将进行哪些活动？会造成干扰吗？结果如何报告？守门人将获得什么？（p.199）
@@ -1236,6 +1244,291 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 ---
 
+---
+
+### 第10章 混合方法程序
+
+#### 概念地图
+
+![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-10-concept-map.jpg)
+
+#### 概览
+
+第10章是全书三种方法论路径中的最后一个——混合方法程序。前面的第8章和第9章分别讲解了量化和质性方法各自的操作程序；第10章面对的问题则更加复杂：**如何在同一项研究中将量化与质性数据整合起来，并由此获得超越单一方法的额外洞察？** 全章围绕混合方法研究的六个定义性特征组织，从核心到外层依次展开：数据形式→整合→设计→联合展示→元推论→世界观框架。
+
+> [!abstract] 全章逻辑
+> 全章沿一条由内而外的线索推进：**历史定位 → 六个定义性特征 → 使用理由 → 关键术语辨析 → 量化与质性数据对比 → 三种核心设计（意图/程序/联合展示/元推论/效度）→ 四种复杂设计 → 设计选择流程图与[[Integration Statement|整合陈述]] → 四项研究实例。**
+
+---
+
+**开篇：混合方法的历史定位。**
+
+将混合方法置于历史脉络中有助于论证其方法论合法性。混合方法作为独立方法论起源于 1980 年代末，在 35 年历史中已发展为拥有完整方法论体系的"第三方法论运动"（Tashakkori & Teddlie, 2010），与量化和质性研究并列。
+
+> [!note]- 混合方法研究的关键发展里程碑
+>
+> | 时间 | 事件 |
+> |---|---|
+> | 1985–1990 | 管理学、教育学、社会学、医学等多学科学者开始独立撰写混合方法著作与论文（Bryman, 1988; Greene et al., 1989） |
+> | 1990 年代末–2000 年代初 | 系统阐述新方法论的专著出现 |
+> | 2003 | *Handbook of Mixed Methods in the Social and Behavior Sciences* 出版 |
+> | 2007 | *Journal of Mixed Methods Research* 创刊 |
+> | 2011/2018 | 美国 NIH 发布并更新 *Best Practices of Mixed Methods Research in the Health Sciences* |
+> | 2014 | Mixed Methods International Research Association (MMIRA) 成立 |
+> | 2015 | NIH 混合方法培训项目在 Johns Hopkins、Harvard、Michigan 设立 |
+> | 2020 | APA 出版手册首次纳入混合方法研究标准 |
+
+混合方法的核心主张是"挖掘"（mining）数据：如果收集量化和质性两类数据，通过整合二者可以比单独使用任一种获得更强的理解。"这一主张构成了混合方法研究的基本出发点。
+
+---
+
+> [!example]- 图10.1：混合方法研究的核心要素
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-1_Essential_Components_of_Mixed_Methods_Research.jpg)
+
+**第一层：六个定义性特征。** 图 10.1 以嵌套圆环的方式呈现混合方法研究从核心到外层的六个特征：
+
+| 层级 | 特征 | 含义 |
+|---|---|---|
+| 1 | **收集两种类型的数据** | 质性（[[Open-Ended and Closed-Ended Data\|开放式]]）和量化（封闭式），用于研究问题 |
+| 2 | **连接两组数据** | 即[[Integration in Mixed Methods\|整合]]（Integration），将量化和质性数据库的信息组合 |
+| 3 | **使用特定程序来整合** | 即混合方法设计，规定收集、分析和解释数据的程序 |
+| 4 | **在联合展示中分析整合** | [[Joint Display\|联合展示]]——表格或图表将两种数据库并排呈现 |
+| 5 | **得出元推论** | [[Metainferences\|元推论]]——先分别得出一阶推论，再基于组合得出额外推论 |
+| 6 | **世界观与理论框架** | 以研究者的信念、价值观（如[[Pragmatic Paradigm\|实用主义]]）和文献理论来定位研究 |
+
+这六个特征从内到外嵌套。在撰写混合方法方案或报告时，每个特征都应有对应的文字说明。作者建议使用术语"mixed methods"而非 integrating、synthesis、multimethod 等替代词，因为"mixed methods"在领域中已获得最广泛认可。此外必须区分：多方法研究（Multimethod Research）指收集多种量化来源或多种质性来源，但不同时包含量化和质性数据——它不是混合方法研究。
+
+---
+
+**第二层：使用混合方法的理由。** 理由分为两个层次。
+
+实践层面的理由：研究者拥有两类数据、导师推荐这一流行方法论、资助方要求、个人兴趣。方法论层面的理由则更加根本——混合方法鼓励比单纯报告量化和质性结果更进一步地"挖掘"数据。整合两种数据库可能产生的洞察类型：
+
+- 结合量化与质性结果，形成对研究问题**更完整的理解**
+- 用质性数据**更详细地解释**量化结果
+- 通过纳入参与者对工具的反馈来**改进量表与工具**
+- 用个体视角**丰富实验或[[Intervention Research|干预研究]]**
+- 发展案例（组织、单位、项目）用于**比较**
+- 结合量化和质性数据**评价项目**
+- 结合两种数据理解边缘群体所需的**变革**
+
+---
+
+> [!example]- 表10.1：设计混合方法程序的核查清单
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-1_Checklist_for_Designing_Mixed_Methods_Procedure.jpg)
+
+**第三层：关键术语辨析。** 混合方法有六个核心术语，构成研究者的方法论词汇基础。
+
+**开放式数据 vs 封闭式数据。** Creswell 认为用这一对概念区分两类数据，比"数字 vs 文本"或"数字数据 vs 故事"的传统二分法更精确。[[Open-Ended and Closed-Ended Data|开放式数据]]由参与者自由表达、研究者不预设回答选项；封闭式数据则提供预设选项（如 Likert 量表）。某些数据来源可兼具两种属性——健康数据中既有封闭式体检得分，也有开放式病史记录。
+
+**研究设计。** 指从哲学假设到数据解释的整个研究程序。混合方法设计分为两大类：核心设计（聚敛式、解释性序列、探索性序列）和复杂设计（核心设计嵌入更大的过程或框架中）。Creswell 强调，与其列出冗长的设计类型清单，不如将所有研究归入核心设计和复杂设计两类。
+
+**整合（Integration）。** 整合是混合方法研究的核心概念，包含两个层面：组合两类数据库的意图（intent）和实施整合的程序（procedures）。整合方式因设计类型而异——聚敛式通过合并（merging）整合，序列设计通过连接（connecting）整合，复杂设计通过嵌入（embedding）整合。
+
+**联合展示（Joint Display）。** 将两类数据库并排呈现的表格或图表。联合展示的形式因设计类型而变化——因为不同设计的整合程序不同。联合展示不仅是呈现工具，更是从数据到推论的推理空间。
+
+**元推论（Metainferences）。** 研究者在检视联合展示时从跨数据库的比较或连接中得出的整合性洞察。研究者先分别得出量化推论和质性推论，再基于两者的组合得出额外的推论（元推论）。元推论的内容和性质因设计类型而异。
+
+---
+
+**第四层：量化与质性数据收集。** 在定义方法论之后，研究方案需要说明收集的量化与质性数据类型。Creswell 建议创建一张表格，列出两类数据的来源（如态度量表、访谈）、数量（参与人数、观察数、文件数）和具体细节（具体工具名称、访谈形式）。如果研究者同时拥有两类数据，就打开了使用混合方法的机会。
+
+---
+
+> [!example]- 图10.2：三种核心设计
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-2_Three_Core_Designs.jpg)
+
+**第五层：三种核心混合方法设计。** 这是全章最长、最核心的部分。Creswell & Plano Clark (2018) 曾梳理来自评价、护理、公共卫生、教育政策和社会行为研究等多个领域的混合方法设计分类体系，发现这些分类使用了多样化的术语且存在显著重叠。因此，本章将其精简为三种核心设计。
+
+**聚敛式设计（Convergent Design）。** 意图是通过**合并**（merging）来比较量化与质性结果。核心假设是两种数据提供不同类型的信息（参与者的详细视角 vs 工具得分），合并后应产生一致的结果。这一设计源于 [[Campbell Collaboration|Campbell]] & Fiske (1959) 的多方法多特质思想，但将其从纯量化拓展到量化-质性结合。
+
+数据收集在单阶段中进行：同时收集两类数据，围绕相同或平行的变量、构念或概念，分别分析，然后比较结果是否互相确认或否定。在样本量问题上存在三种立场：增大质性样本（但限制每个个体的数据深度）；加权质性案例以平衡 N 值；认为两种方法的意图不同（质性追求深度、量化追求推广）因而不需要等量样本。通常质性样本包含在更大的量化样本之内。
+
+整合分析分三个步骤：（1）分析质性数据库（编码→主题）；（2）分析量化数据库（统计结果）；（3）进行混合方法整合分析。具体操作方法有三种：
+
+1. **并排比较（side-by-side）**：在讨论部分先后报告量化结果和质性发现（或反之），比较其是否确认或否定。在今日文献中较少见。
+2. **[[Data Transformation in Mixed Methods\|数据转换]]（data transformation）**：将质性主题或编码转化为量化变量（计数并分组），然后合并两个量化数据库。在量化训练背景的研究者中较受欢迎。Onwuegbuzie & Leech (2006) 提供了系统的转换程序。
+3. **联合展示（joint display）**：在表格或图表中合并呈现两组数据。已成为混合方法研究整合的标准程序。
+
+> [!example]- 表10.2：聚敛式设计联合展示模板
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-2_Convergent_Design_Joint_Display_Template.jpg)
+
+联合展示将四个主题作为横轴、一个分类变量（高/中/低分）作为纵轴，单元格中放置引用或得分（或两者兼有）。表格额外添加一行和一列用于元推论——研究者沿行和沿列检视，从中提取整合性洞察。这些洞察构成了混合方法的整合分析结果，可放入结果或讨论部分。当两类数据出现分歧时，应进一步分析：返回数据库深入探索、收集额外数据，或讨论某一数据库的局限（如量化构念效度不足）。
+
+**聚敛式设计的效度威胁**有三种：（1）未对讲述不同故事的两种数据库进行后续跟进——仅仅将分歧作为局限一笔带过是薄弱的处理；（2）未明确说明比较的共同基础——质性访谈和量化量表应围绕相同的构念域设计；（3）未承认不同样本量的影响——需要明确处理策略。
+
+**解释性序列设计（Explanatory Sequential Design）。** 意图是通过**连接**（connecting）来用质性数据解释初始量化结果。这是两阶段设计：第一阶段收集并分析量化数据，第二阶段基于量化结果有目的地选择质性参与者并设计问题来深入解释。
+
+量化结果为质性阶段提供两类信息：选择哪些参与者（如选择极端值、典型或意外特征的个体）和提出什么问题。质性样本必须是量化样本的子集——用不同样本"解释"量化结果会削弱两个阶段之间的逻辑关联。这一设计适合初学研究者（两阶段可分别推进）和量化背景研究者（以强有力的量化阶段为先导）。
+
+在数据处理方面，常见问题是在两个阶段都完成后是否可以将质性结果与量化结果再次比较——作者不建议这样做，因为质性样本是量化样本的子集，会引起样本重叠问题。
+
+> [!example]- 表10.3：解释性序列设计联合展示模板
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-3_Explanatory_Sequential_Design_Joint_Display_Template.jpg)
+
+联合展示从左到右依次为：量化得分→质性后续主题→元推论。这种排列反映了该设计的程序顺序。元推论在此设计中的性质不同于聚敛式——不是"确认或一致"，而是**延伸和细化**（extension and refinement）：质性主题如何解释了某一得分水平的成因或机制。
+
+**解释性序列设计的效度威胁**有三种：（1）未充分考虑量化结果中所有值得跟进的选项即选定一个方向（如仅关注人口学变量而忽略机制性解释）；（2）仅关注人口学变量而忽略需要进一步理解的重要解释；（3）两个阶段使用不同样本。
+
+**探索性序列设计（Exploratory Sequential Design）。** 意图是通过**连接**来探索质性数据如何改进和特定化量化测量工具。这是三阶段设计：第一阶段质性数据收集→第二阶段设计（开发或修改定量评估）→第三阶段量化检验。
+
+这一设计在国际和全球健康研究中尤为流行，因为研究者经常需要在施测西方英语工具之前先理解当地社区或人群；也适用于没有现成有效测量工具的情境。质性到量化的"翻译"决定了整个设计的成败——具体做法是：
+- 质性引用（Quotes）→ 问卷条目（Survey Items）
+- 质性编码（Codes）→ 变量（Variables），分组条目
+- 质性主题（Themes）→ 量表（Scales），归入更高维度
+
+开发工具需要遵循良好的心理测量学程序，如 DeVellis (2017) 的条目区分度、构念效度和信度估计指南。
+
+关于样本：质性阶段的样本不应包含在量化阶段中——让同一批人既帮助开发工具又完成后续调查会引入混淆因素。可以从同一总体中分别抽取不同个体。这与解释性序列设计的样本策略正好相反。
+
+> [!example]- 表10.4：探索性序列设计联合展示模板
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-4_Exploratory_Sequential_Design_Joint_Display_Template.jpg)
+
+联合展示的前两列为质性阶段（引用、编码、主题）→设计特征（调查条目、变量、量表），第三列为元推论——检视修改或新设计的调查是否产生了良好结果、是否对目标样本表现出敏感性、结果与文献和理论的比较如何。
+
+**探索性序列设计的效度威胁**有三种：（1）未遵循良好的心理测量学开发步骤；（2）工具开发未能充分利用质性发现的丰富性——当质性阶段仅报告开放式问卷评论而未使用民族志、扎根理论或案例研究等分析方法时尤为突出；（3）质性样本被纳入量化阶段，引入混淆因素。
+
+---
+
+**第六层：四种复杂混合方法设计。** 在使用核心设计多年后，研究者反馈核心设计无法很好地"适配"其研究。这推动作者将混合方法研究扩展到更大的框架或过程中——混合方法在其中扮演支持性角色而非独立设计。这些复杂设计通常涉及多个阶段、多年项目、大量资金和多个核心设计（Nastasi & Hitchcock, 2016）。
+
+**混合方法实验（干预）设计。** 将质性数据嵌入实验过程中。
+
+> [!example]- 图10.3：混合方法干预设计图
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-3_Mixed_Methods_Intervention_Design.jpg)
+
+质性数据可在三个时间点加入（Sandelowski, 1996），每个时间点嵌入不同的核心设计：
+- **实验前**（嵌入探索性序列设计）：招募参与者、开发可操作的干预措施、开发好的前后测工具
+- **实验中**（嵌入聚敛式设计）：检视参与者体验、根据需要调整干预方案
+- **实验后**（嵌入解释性序列设计）：解释实验结果、完善实验设计
+
+质性数据与实验的各个连接点就是混合方法的整合点。这一类型在健康科学领域尤为流行。
+
+**[[Mixed Methods Case Study Design|混合方法案例研究设计]]。** 将核心设计嵌入案例研究的开发和比较过程中。
+
+> [!example]- 图10.4：多案例研究设计图
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-4_Multiple_Case_Study_Design.jpg)
+
+有两种基本变体：
+- **演绎法**：在研究开始时确定案例（如不同组织、单位或项目），通过量化和质性数据记录案例间差异
+- **归纳法**：先收集并分析两种数据，然后基于数据中的模式形成案例，再进行比较
+
+挑战在于：在研究开始前确定案例，或基于收集的证据生成案例。研究者还需要理解案例研究方法（Stake, 1995; Yin, 2014）并将其与混合方法有效结合。Shaw et al. (2013) 提供了一个聚敛式设计嵌入案例研究的范例。
+
+**[[Mixed Methods Participatory-Social Justice Design|混合方法参与式社会正义设计]]。** 将量化和质性数据嵌入参与式或社会正义框架中。
+
+> [!example]- 图10.5：混合方法参与式行动研究设计图
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-5_Mixed_Methods_Participatory_Action_Research_Design.jpg)
+
+参与式研究（participatory study）中社区成员与研究者积极协作；社会正义研究在此基础上加入社会变革和行动目标。研究过程经历：需求评估→社区诊断→数据收集→规划模型→实施→评价→行动与改进。在侦察（reconnaissance）和评价两个阶段均有机会收集两种数据并嵌入核心设计。虽然单一研究者也可以开展此类研究，但田野工作的劳动密集性质通常更建议采用团队方式。
+
+**[[Mixed Methods Evaluation Design|混合方法评价设计]]。** 将量化和质性数据及其整合嵌入评价框架的各个步骤中。
+
+> [!example]- 图10.6：混合方法评价设计图
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-6_Mixed_Methods_Evaluation_Design.jpg)
+
+典型流程包含五个阶段：
+1. **需求评估**（质性为主：访谈、观察、文件分析）
+2. **理论概念化**（结合文献回顾，将质性发现与已有理论对接）→ 整合对应**探索性序列设计**
+3. **工具与测量开发**（量化为主：开发或选择测量工具）
+4. **项目实施检验**（量化为主：基于测量工具的实验干预检验）
+5. **项目跟进与完善**（质性为主：解释量化结果、完善方案）→ 整合对应**解释性序列设计**
+
+在这一设计中，混合方法不是独立存在的设计，而是作为评价过程的支持性方法论，在需要整合的节点上发挥核心设计的功能。
+
+**将核心设计嵌入复杂程序**有五个步骤：（1）识别研究中的量化与质性数据收集；（2）绘制复杂框架或过程的步骤图（以方框表示）；（3）检视哪些步骤有机会同时收集两种数据；（4）在那些步骤中检视数据之间的连接关系（合并→聚敛式，或连接→序列设计）；（5）讨论总体框架和嵌入的核心设计，可能需要呈现两张图表。
+
+---
+
+**第七层：选择混合方法设计的依据。**
+
+> [!example]- 表10.5：混合方法设计的意图与程序
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-5_Intent_and_Procedures_of_Mixed_Methods_Designs.jpg)
+
+选择设计的**首要依据**是意图（intent）和程序（procedures）。表 10.5 系统列出了各设计的意图术语和程序术语：聚敛式设计——Compare/Match/Corroborate/Expand/Enhance/Complete Understanding（意图），Merge（程序）；解释性序列设计——Expand/Explain（意图），Connect（程序）；探索性序列设计——Build Upon/Transfer/Generalize（意图），Connect（程序）；复杂设计——Augment（意图），Add into a process/framework（程序）。
+
+基于意图和程序，研究者应撰写[[Integration Statement|整合陈述]]（Integration Statement），明确说明整合的意图和程序。三个核心设计的整合陈述范本：
+
+> 聚敛式："Integration involved comparing the results from the quantitative and qualitative data by merging so that a more complete understanding emerges than provided by the quantitative or the qualitative results alone."
+
+> 解释性序列："Integration involved explaining the results of the initial quantitative phase by connecting or following up the quantitative phase with a qualitative phase. This connecting would include what questions need further probing and what individuals can help best explain the quantitative results."
+
+> 探索性序列："Integration involved exploring initially by gathering qualitative data, analyzing it, and using the qualitative results for building a culturally specific measure or instrument for quantitative testing with a large sample."
+
+> [!example]- 图10.7：基于意图选择设计类型的流程图
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-7_Flowchart_for_Choosing_Design_by_Intent.jpg)
+
+> [!example]- 图10.8：基于程序选择设计类型的流程图
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-8_Flowchart_for_Choosing_Design_by_Procedure.jpg)
+
+图 10.7 和 10.8 提供了两个决策流程图。图 10.7 基于设计意图设问：是否收集两种数据？→ 是比较数据库还是使一个建立在另一个之上？→ 聚敛式（比较）、探索性序列（质性→量化）、解释性序列（量化→质性）→ 是否需要增强一个框架或过程？图 10.8 基于程序设问：是否合并数据还是连接数据？→ 聚敛式（合并）、探索性序列（质性在先）、解释性序列（量化在先）→ 是否需要嵌入更大的过程或框架？
+
+**次要依据**包括：（1）学科倾向——量化导向领域偏好解释性序列（从量化开始），质性导向领域偏好探索性序列（从质性开始），需要高效收集数据时偏好聚敛式（同时收集）；（2）单一研究者 vs 团队——单一研究者适合序列策略（将研究分为可管理的两个任务），时间紧迫时考虑聚敛式（不需要反复进入田野），复杂设计最好由有资助的团队完成；（3）导师和委员会的推荐。
+
+一个重要的方法论立场：Creswell 明确反对将时间安排（timing）和数据优先级（priority，即量化或质性数据谁更重要）作为设计选择的主要依据——"我们将混合方法研究视为给予量化和质性数据同等合法性"（p.251）。前一版中用于表示权重的 Quan/Qual 大小写标记法在本版中已被删除。
+
+---
+
+**第八层：四项研究实例。** 全章以四个不同类型的已发表混合方法研究作为收尾，各自展示一种设计的实际运用。
+
+**Example 10.1 — 聚敛式设计：Classen et al. (2007)。** 研究老年驾驶员安全问题，目的是开发基于可改变因素的健康促进干预方案以减少 65 岁以上老年驾驶员的机动车辆碰撞事故。
+
+> 研究目的声明："This study provided an explicit socio-ecological view explaining the interrelation of possible causative factors, an integrated summary of these causative factors, and empirical guidelines for developing public health interventions to promote older driver safety. Using a mixed methods approach, we were able to compare and integrate main findings from a national crash dataset with perspectives of stakeholders."（p.677）
+
+研究同时使用两种数据来源：**量化数据**——对全国车祸数据集（a national crash dataset）进行二次分析，识别与老年驾驶员受伤相关的因素；**质性数据**——收集六组利益相关者（老年驾驶员、家庭成员、驾驶教练、医疗专业人员、政策制定者、执法官员）的视角、需求和安全驾驶目标。方法部分说明了量化数据的统计分析和质性数据的分析程序；文中提供了研究程序的图示。结果部分先报告量化结果，然后报告质性结果。讨论部分将两组数据库以并排比较的方式合并。从研究领域（职业治疗学）和作者团队构成（量化和质性双重专长）来看，该研究更强调量化部分，但两类数据在比较时获得了同等重视。
+
+**Example 10.2 — 解释性序列设计：Banyard & Williams (2007)。** 研究女性如何从童年性虐待（childhood sexual abuse, CSA）中恢复和保持韧性。这是一项解释性序列混合方法研究。
+
+> 研究目的声明：Multiple methods are used to examine aspects of resilience and recovery in the lives of female survivors of child sexual abuse (CSA) across 7 years of early adulthood. First quantitative changes in measures of resilience over time were examined. To what extent did women stay the same, increase, or decrease in functioning in a variety of spheres across 7 years during early adulthood? Next, the role of re-traumatization as an impediment to ongoing resilience and correlates of growth or increased well-being over time were examined. Finally, because resilient processes in adulthood have not been the focus of much research and require further description, qualitative data from a subset of participants was used to examine survivors' own narratives about recovery and healing to learn about key aspects of resilience in women's own words.（p.278）
+
+研究设计细节：
+- **第一量化阶段（纵向）**：1990 年对 136 名女性进行结构化（量化）访谈；1997 年对其中的 61 人进行追踪。测量内容为韧性的相关因素（correlates of resilience）以及这些因素在 7 年成年早期中的变化。
+- **第二质性阶段**：从量化样本中选择 21 名女性进行后续深度访谈，聚焦于生活事件、应对方式、恢复过程和韧性体验。目的声明明确指出质性数据用于"探索和理解"（explore and make sense of）量化发现。
+- **整合逻辑**：量化阶段揭示韧性随时间的变化模式和相关性，质性阶段深入到女性自己的叙述中，理解恢复和疗愈的关键方面。质性主题指向了量表中未被捕捉的新议题——如生活中的转折点（turning points）、恢复的持续性（ongoing nature of recovery）、以及灵性在恢复中的角色（role of spirituality in recovery）。
+
+研究由心理学和刑事司法领域的跨学科团队完成，获得了 NIH 资助。
+
+**Example 10.3 — 探索性序列设计（含复杂实验嵌入）：Betancourt et al. (2011)。** 在卢旺达使用混合方法研究来调整和评价一项家庭强化干预（family-strengthening intervention），目标是考察 HIV 影响儿童的心理健康问题。
+
+这是所有四个实例中最为复杂的一个——展示了从质性探索到工具开发再到实验检验的完整三阶段过程：
+
+1. **第一质性阶段**：对 HIV 影响的儿童及其照护者进行探索性深度访谈，从质性主题分析中提取与心理健康问题和保护性资源相关的本地化指标（locally-relevant indicators）。
+2. **工具开发阶段**：进行广泛的文献回顾以寻找与质性发现相匹配的标准化测量工具。找到部分工具后，添加新开发的工具条目以形成完整的调查问卷。该问卷经过严格的工具开发程序——包括翻译与回译（backward and forward translations）、条目讨论、信度和效度检验——以建立良好的构念效度。
+3. **第三实验（干预）阶段**：使用经过验证的测量工具（如家庭沟通、良好养育等）作为实验干预研究的前测和后测评估。干预方案采用基于优势的家庭预防项目（strengths-based, family-based prevention program），内容与测量工具的构念域对应。
+
+> 研究目的声明：In the multi-step process used in this mental health services research, we aimed to (1) carefully unpack locally-relevant indicators of mental health problems and protective resources using qualitative methods; (2) apply qualitative findings to the adaptation of mental health measures and the development of a locally-informed intervention; (3) validate the selected mental health measures; and (4) apply the measures to rigorous evaluation research on the effectiveness of the intervention chosen through the mixed methods process.（p.34）
+
+在整个过程中，研究者还持续与利益相关者合作以帮助开发好的测量工具。该研究同时体现了核心探索性序列设计（质性→工具开发→量化检验）和复杂嵌入实验设计（sequential focus with an experimental endpoint）。研究团队横跨美国（Partners in Health、儿童医院）和卢旺达，体现了复杂设计所需的跨机构合作特征。
+
+**Example 10.4 — 社会正义设计：Hodgkin (2008)。** 这是一项女性主义混合方法研究，使用社会正义解释性序列设计，考察澳大利亚一个区域城市中男性和女性的社会资本（Social Capital）差异。
+
+> 研究的独特定位：作者在文章开篇即宣告："the aim of this article is to demonstrate the use of mixed methods in feminist research"（p.296）。
+
+研究设计细节：
+- **理论基础**：社会资本指使人们能够集体行动以解决共同问题的规范和网络（如通过社会活动、社区参与和公民参与）。作者首先指出社会资本的实证研究缺乏质性研究，且主导讨论的是白人、中产阶级的社区概念。
+- **第一量化阶段**：向家庭中的男性和女性同时发送调查问卷（N=1431），测量社会参与、社区参与和公民参与的性别差异。
+- **第二质性阶段（仅女性）**：仅从调查样本中选择 12 名女性进行深度访谈。这些女性在年龄、母职身份、工作活动（家庭内外）和教育程度方面各不相同。
+- **女性主义框架的使用方式**：（1）在开头宣告研究的女性主义取向；（2）引用 Merten's (2007) 变革性研究范式，强调为女性发声、使用多种数据收集方法、桥接主观与客观认知方式（对应第1章的认识论讨论）；（3）讨论女性主义对量化方法的犹豫，主张"宏观图景伴随个人故事可以为研究带来深度和质感"（p.297）。
+- **质性发现**：浮现的主题包括——想成为"好母亲"（wanting to be a "good mother"）、想避免社会隔离（wanting to avoid isolation）、想成为好公民（wanting to be a good citizen）。这些质性发现具体说明了调查数据中观察到的性别差异是如何在日常生活的社会期望和角色中运作的。
+- **整合方式**：质性数据帮助增强了初始调查结果——不是简单的确认，而是揭示量化数据背后的性别期望和不平等机制。量化结果指出差异的存在；质性发现解释差异为何以及如何在女性的社会角色和期望中形成。
+
+> [!note] 四个实例的比较
+>
+> | 维度 | Classen et al. (2007) | Banyard & Williams (2007) | Betancourt et al. (2011) | Hodgkin (2008) |
+> |---|---|---|---|---|
+> | **设计类型** | 聚敛式 | 解释性序列 | 探索性序列 + 复杂实验嵌入 | 社会正义解释性序列 |
+> | **研究领域** | 职业治疗学/公共卫生 | 心理学/刑事司法 | 公共卫生/全球健康 | 社会学/女性主义研究 |
+> | **数据规模** | 全国车祸数据 + 6组利益相关者 | QN: 136→61人, QL: 21人 | 访谈→文献→工具开发→干预实验 | QN: N=1431, QL: N=12 |
+> | **时间跨度** | 同时 | 7年（1990-1997） | 多阶段顺序 | 顺序（调查→访谈） |
+> | **整合方式** | 合并比较（side-by-side） | 连接（量化结果→质性跟进） | 连接（质性发现→工具开发→实验检验） | 连接（量化差异→质性机制） |
+> | **团队特征** | 量化和质性双重专长团队 | 跨学科团队+资助 | 跨国跨机构大型团队 | 单一研究者 |
+> | **核心发现** | 比较利益相关者视角与车祸数据，确认/否定因素 | 质性揭示韧性新维度：转折点、恢复持续性、灵性角色 | 质性驱动的文化适切工具开发+实验检验 | 女性主义框架揭示性别不平等的社会机制 |
+> | **方法论贡献** | 聚敛式设计在健康促进中的应用范例 | 解释性序列设计中纵向量化+质性深度的结合 | 探索性序列从质性到工具开发到实验的完整链条 | 女性主义与社会正义框架与混合方法的整合 |
+
+---
+
+**全章总结。** 混合方法程序部分的撰写涉及以下关键组件：定义混合方法研究并陈述六个核心特征；简要提及历史演变以传达方法论合法性；论证选择混合方法的多元理由；定义关键术语（开放式/封闭式数据、整合、整合陈述、联合展示、元推论）；选择具体设计类型并说明意图和程序，辅以设计图示和联合展示模板；讨论预期元推论和效度威胁；使用流程图辅助设计决策并撰写整合陈述。章末核查清单（表 10.1）为这些组件的完整性提供了自查工具。
+
 ## 重要摘录
 
 > [!quote]
@@ -1251,8 +1544,8 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > (“An analytic framework means going beyond the everyday language of participants and using an 'analytic tradition' (Braun & Clark, 2006, p.78).”)（第9章, p.196）
 
 > [!quote]
-> “[[Saturation|饱和]]的概念来自[[Grounded Theory|扎根理论]]。Charmaz（2006）说，当收集新鲜数据不再引发新的洞见或揭示新的主题时——即类别（或主题）达到饱和时——就可以停止收集数据。”
-> (“The idea of saturation comes from grounded theory. Charmaz (2006) said that one stops collecting data when the categories (or themes) are saturated, that is, when gathering fresh data no longer sparks new insights or reveals new themes.”)（第9章, p.198）
+> “饱和的概念来自[[Grounded Theory|扎根理论]]。Charmaz（2006）说，当收集新鲜数据不再引发新的洞见或揭示新的主题时——即类别（或主题）达到饱和时——就可以停止收集数据。”
+> (“The idea of [[Saturation]] comes from grounded theory. Charmaz (2006) said that one stops collecting data when the categories (or themes) are saturated, that is, when gathering fresh data no longer sparks new insights or reveals new themes.”)（第9章, p.198）
 
 > [!quote]
 > “因为文本和图像数据如此密集和丰富，质性研究中无法使用所有信息。因此，在数据分析中，研究者需要'筛选'数据（[[Winnowing|winnow the data]]），聚焦于部分数据而忽略其他部分。这一过程与[[Quantitative Research|量化研究]]截然不同——在量化研究中，研究者会尽最大努力保留所有数据并重建或替换缺失数据。在质性研究中，这一过程的影响是将数据聚合成少量主题，大约在五到七个之间。”
@@ -1327,7 +1620,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > ("[[Quantitative Research]] is an approach for testing objective theories by examining the relationship among variables or a comparison among groups. These variables, in turn, can be measured, typically on instruments, so that numbered data can be analyzed using statistical procedures.")（第1章, p.5）
 
 > [!quote]
-> “[[Mixed Method and Multi-method Research|混合方法研究]]是一种探究路径，涉及收集量化和质性两类数据，使用特定的程序或设计，在该设计内合并（或整合）这两种形式的数据，并得出关于从合并数据库中涌现的洞见的结论（元推论）。”
+> “[[Mixed Method and Multi-method Research|混合方法研究]]是一种探究路径，涉及收集量化和质性两类数据，使用特定的程序或设计，在该设计内合并（或[[Integration in Mixed Methods|整合]]）这两种形式的数据，并得出关于从合并数据库中涌现的洞见的结论（[[Metainferences|元推论]]）。”
 > ("Mixed methods research is an approach to inquiry involving collecting both quantitative and qualitative data, using a specific procedure or design, combining (or integrating) the two forms of data within the design, and drawing conclusions (metainferences) about the insight to emerge from the combined databases.")（第1章, p.5）
 
 > [!quote]
@@ -1561,6 +1854,29 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > [!quote]
 > “实验研究中的[[Blinding|盲法]]是指让实验者（和/或参与者）不了解参与者被分配到的研究条件。”
 > ("[[Blinding]] in experimental research is when the experimenter (and/or the participant) is kept unaware of the participant's assigned study condition.")（第8章）
+
+---
+
+> [!quote]
+> "This 'mixing' or integrating of data provides a stronger understanding of the problem or question than either by itself. Mixed methods research is simply 'mining' the databases more by integrating them."（第10章, p.231）
+
+> [!quote]
+> "Mixed methods research as a distinct methodology originating around the late 1980s... It has been called the 'third methodological movement' (Tashakkori & Teddlie, 2010) alongside the other two—quantitative and qualitative research."（第10章, p.232）
+
+> [!quote]
+> "We feel that distinguishing the two types of data is more specific than referring to numbers versus texts or numeric data versus stories."（第10章, p.232）
+
+> [!quote]
+> "Integration represents a central concept in mixed methods research. This important concept involves combining or 'mixing' in a study or a series of studies information from the quantitative and qualitative data."（第10章, p.233）
+
+> [!quote]
+> "As a researcher examines the [[Joint Display]] table or graph, conclusions are drawn about the insight emerging from comparing the two databases. In mixed methods, these insights are called metainferences, which suggests that a researcher concludes quantitative and qualitative inferences and then draws additional inferences (metainferences) based on combining the quantitative and qualitative databases."（第10章, p.234）
+
+> [!quote]
+> "The basic idea is for the researcher to jointly display both forms of data—effectively merging them—in a single visual and then make an interpretation of the display."（第10章, p.238）
+
+> [!quote]
+> "We see mixed methods research as giving equal legitimacy to both the quantitative and qualitative data."（第10章, p.251）
 
 ---
 

@@ -26,7 +26,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Creswell_Creswell_2023_SAGE]]"
+  - "[[Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -38,7 +38,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> [[Integration in Mixed Methods|整合]]陈述（Integration Statement）是[[Mixed Method and Multi-method Research|混合方法研究]]方案或报告中必须包含的陈述，明确说明整合量化与质性数据库的意图（intent）以及实施整合所依据的具体设计程序（procedures）。这一陈述是连接[[Research Question|研究问题]]、设计选择和数据分析的核心纽带，应出现在研究的方法部分或引言部分（Creswell & Creswell, 2023, p.251）。
+> [[Integration in Mixed Methods|整合]]陈述（Integration Statement）是[[Mixed Method and Multi-method Research|混合方法研究]]方案或报告中必须包含的陈述，明确说明整合量化与质性数据库的意图（intent）以及实施整合所依据的具体设计程序（procedures）。这一陈述是连接[[Research Question|研究问题]]、设计选择和数据分析的核心纽带，应出现在研究的方法部分或引言部分（Creswell & Creswell, 2022, p.251）。
 
 整合陈述在撰写报告时，需要用研究实际使用的具体数据信息来替换抽象的"量化数据"和"质性数据"占位词。
 
@@ -47,7 +47,7 @@ updated: 2026-06-02
 ## 写作脚本
 
 > [!tip]
-> [[Integration in Mixed Methods|整合]]陈述的基本结构包含两个要素：整合的意图 + 整合的程序。不同设计类型对应不同的术语选择（Creswell & Creswell, 2023, pp.251–252）。
+> [[Integration in Mixed Methods|整合]]陈述的基本结构包含两个要素：整合的意图 + 整合的程序。不同设计类型对应不同的术语选择（Creswell & Creswell, 2022, pp.251–252）。
 
 **[[Convergent Design|聚敛式设计]]**：
 > "Integration involved comparing the results from the quantitative and qualitative data by merging so that a more complete understanding emerges than provided by the quantitative or the qualitative results alone."
@@ -59,7 +59,7 @@ updated: 2026-06-02
 > "Integration involved exploring initially by gathering qualitative data, analyzing it, and using the qualitative results for building a culturally specific measure or instrument for quantitative testing with a large sample."
 
 > [!example]
-> 整合陈述中可用的各类术语（Creswell & Creswell, 2023, Table 10.5）：
+> 整合陈述中可用的各类术语（Creswell & Creswell, 2022, Table 10.5）：
 >
 > | 设计类型 | 意图术语 | 程序术语 |
 > |---|---|---|
@@ -80,4 +80,4 @@ updated: 2026-06-02
 
 ## 来源
 
-- [[Creswell_Creswell_2023_SAGE]]
+- [[Creswell_2022_SAGE]]

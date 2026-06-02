@@ -51,7 +51,6 @@ related_arguments:
   - "[[Argument_Teng_2025_CE]]"
 sources:
   - "[[Creswell_2022_SAGE]]"
-  - "[[Creswell_Creswell_2023_SAGE]]"
   - "[[Brady_2023_EPR]]"
 related_facts:
   - "[[Peidu]]"
@@ -64,7 +63,7 @@ updated: 2026-05-30
 ## 定义
 
 > [!info] 定义
-> 混合方法研究（Mixed Methods Research）的核心特征是同时收集并整合（"混合"）量化与质性数据，在分析阶段合并两种数据库以获取超越单一方法的额外洞察。Creswell & Creswell (2022) 将其定位为与量化和质性并列的第三种独立研究路径，以[[Integration in Mixed Methods|数据整合]]为关键标志。
+> 混合方法研究（Mixed Methods Research）的核心特征是同时收集并[[Integration in Mixed Methods|整合]]（"混合"）量化与质性数据，在分析阶段合并两种数据库以获取超越单一方法的额外洞察。Creswell & Creswell (2022) 将其定位为与量化和质性并列的第三种独立研究路径，以[[Integration in Mixed Methods|数据整合]]为关键标志。
 > 
 > 在 Brady et al. (2023) 的[[Coding in Qualitative Research|编码]]中指不操纵自[[Variable|变量]]、并同时包含量化数据和质性数据的研究。该类别是作者相较 Reinhart et al. (2013) 与 Robinson et al. (2007) 旧分类新增的类别（Brady et al., 2023, p.4）。
 
@@ -94,7 +93,7 @@ Creswell & Creswell (2023, p.232) 明确区分了混合方法研究和多方法�
 ## 历史演变
 
 > [!note]- 混合方法研究的发展里程碑
-> 混合方法研究作为独立方法论起源于 1980 年代末，被 Tashakkori & Teddlie (2010) 称为继量化和质性之后的"第三方法论运动"（Creswell & Creswell, 2023, p.232）。
+> 混合方法研究作为独立方法论起源于 1980 年代末，被 Tashakkori & Teddlie (2010) 称为继量化和质性之后的"第三方法论运动"（Creswell & Creswell, 2022, p.232）。
 >
 > - **1985–1990**：来自管理学、教育学、社会学、医学等多个学科的学者开始独立撰写关于混合方法研究的书籍和期刊论文（Bryman, 1988; Greene et al., 1989）。
 > - **1990 年代末–2000 年代初**：出现系统阐述该新方法论的专著（如 Tashakkori & Teddlie, 1998）。
@@ -130,9 +129,9 @@ Creswell & Creswell (2023, p.232) 明确区分了混合方法研究和多方法�
 > 
 > 分析整合的关键工具是[[Joint Display|联合展示]]，将量化与质性数据或结果以表格形式并列，研究者检视表格后提取整合性洞察。
 
-从联合展示的分析中得出的结论在混合方法中称为[[Metainferences|元推论]]（Metainferences）：研究者先分别得出量化推论和质性推论，再基于量化与质性数据库的组合得出额外的推论（元推论）。元推论的内容和性质因设计类型而异——[[Convergent Design|聚敛式设计]]聚焦于确认或分歧，[[Explanatory Sequential Design|解释性序列设计]]聚焦于延伸和细化，[[Exploratory Sequential Design|探索性序列设计]]聚焦于检验和适切性（Creswell & Creswell, 2023, pp.238–244）。
+从联合展示的分析中得出的结论在混合方法中称为[[Metainferences|元推论]]（Metainferences）：研究者先分别得出量化推论和质性推论，再基于量化与质性数据库的组合得出额外的推论（元推论）。元推论的内容和性质因设计类型而异——[[Convergent Design|聚敛式设计]]聚焦于确认或分歧，[[Explanatory Sequential Design|解释性序列设计]]聚焦于延伸和细化，[[Exploratory Sequential Design|探索性序列设计]]聚焦于检验和适切性（Creswell & Creswell, 2022, pp.238–244）。
 
-整合的意图和程序应通过[[Integration Statement|整合陈述]]（Integration Statement）在研究方案或报告中明确表述。整合陈述说明为何组合两类数据（意图）以及通过何种设计来实施组合（程序），应出现在方法部分或引言部分（Creswell & Creswell, 2023, pp.251–252）。
+整合的意图和程序应通过[[Integration Statement|整合陈述]]（Integration Statement）在研究方案或报告中明确表述。整合陈述说明为何组合两类数据（意图）以及通过何种设计来实施组合（程序），应出现在方法部分或引言部分（Creswell & Creswell, 2022, pp.251–252）。
 > 
 > 在 Brady et al. (2023) 的[[Coding in Qualitative Research|编码]]框架中，
 > - **不操纵自[[Variable|变量]]** 混合方法/多方法研究在该文分类中属于[[Non-intervention Research|非干预研究]]（Brady et al., 2023, p.4）。
@@ -172,5 +171,5 @@ Creswell & Creswell (2023, p.232) 明确区分了混合方法研究和多方法�
 ## 来源
 
 - [[Creswell_2022_SAGE]]
-- [[Creswell_Creswell_2023_SAGE]]
+- [[Creswell_2022_SAGE]]
 - [[Brady_2023_EPR]]

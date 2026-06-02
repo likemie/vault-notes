@@ -30,7 +30,6 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
-  - "[[Creswell_Creswell_2023_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -64,12 +63,12 @@ updated: 2026-05-31
 > 量化阶段为质性阶段提供方向和聚焦点——质性阶段不是从零开始探索，而是带着量化阶段的具体问题去深入理解。质性参与者的选择也由量化结果驱动（如选择量化结果中表现出"极端""典型"或"意外"特征的个体）。
 
 > [!note] 整合分析与联合展示
-> 整合分析从分别分析两个阶段的数据开始，然后通过[[Joint Display|联合展示]]将量化结果与质性后续主题并列（Creswell & Creswell, 2023, pp.240–241）。联合展示从左到右依次为：量化得分 → 质性后续主题 → [[Metainferences|元推论]]。这种排列方式反映了该设计的程序顺序——量化在先，质性在后，质性解释量化。
+> 整合分析从分别分析两个阶段的数据开始，然后通过[[Joint Display|联合展示]]将量化结果与质性后续主题并列（Creswell & Creswell, 2022, pp.240–241）。联合展示从左到右依次为：量化得分 → 质性后续主题 → [[Metainferences|元推论]]。这种排列方式反映了该设计的程序顺序——量化在先，质性在后，质性解释量化。
 >
 > 解释性序列设计的元推论不同于[[Convergent Design|聚敛式设计]]中的确认或一致判断，而是代表对量化结果的**延伸和细化**——质性主题如何解释了某一得分水平的成因或机制。元推论还可能帮助构建未来更好的量化评估工具。研究者最终将元推论与已有文献和理论进行比较。
 >
 > > [!example]- 表10.3：解释性序列设计联合展示模板
-> > ![](https://img.mylikemie.icu/books/Creswell_Creswell_2023_SAGE/figures/Table_10-3_Explanatory_Sequential_Design_Joint_Display_Template.jpg)
+> > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-3_Explanatory_Sequential_Design_Joint_Display_Template.jpg)
 >
 > 在完整报告两个阶段后，不建议再将质性结果与量化结果做额外比较，因为质性阶段的样本是量化样本的子集，比较会因样本重叠而产生问题。
 
@@ -103,7 +102,7 @@ updated: 2026-05-31
 ## 效度威胁
 
 > [!warning]
-> 在使用解释性序列设计时，除了分别建立量化分数的效度和质性发现的可信度之外，还存在以下特有的效度关注点（Creswell & Creswell, 2023, pp.241–242）：
+> 在使用解释性序列设计时，除了分别建立量化分数的效度和质性发现的可信度之外，还存在以下特有的效度关注点（Creswell & Creswell, 2022, pp.241–242）：
 >
 > - **未穷尽量化结果中值得跟进的所有选项**：在选定一个跟进方向之前，研究者应考虑量化结果中所有值得质性深入解释的发现（如意外结果、显著差异、异常值、人口学[[Variable|变量]]差异等），而非仅盯住一个维度。
 > - **仅关注人口学变量而忽略重要解释**：量化阶段可能揭示出需要进一步理解的机制性解释（如因果机制、中介过程），如果只根据人口学变量选择质性参与者，可能错过更有理论价值的跟进方向。
@@ -143,4 +142,4 @@ updated: 2026-05-31
 ## 来源
 
 - [[Creswell_2022_SAGE]]
-- [[Creswell_Creswell_2023_SAGE]]
+- [[Creswell_2022_SAGE]]

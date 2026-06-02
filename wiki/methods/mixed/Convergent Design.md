@@ -36,7 +36,6 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
-  - "[[Creswell_Creswell_2023_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -70,16 +69,16 @@ updated: 2026-05-31
 > [!note] 合并的工具
 > [[Joint Display|联合展示]]是合并比较阶段的关键工具，将量化与质性结果以表格形式并列，研究者检视表格后提取整合性洞察。
 >
-> 整合分析（[[Integration in Mixed Methods|integration]] Analysis）分为三个阶段（Creswell & Creswell, 2023, pp.237–239）：
+> 整合分析（[[Integration in Mixed Methods|integration]] Analysis）分为三个阶段（Creswell & Creswell, 2022, pp.237–239）：
 > 1. 分别分析质性数据库（[[Coding in Qualitative Research|编码]]→主题）和量化数据库（统计结果）。
-> 2. 进行混合方法整合分析，有三种方式：
+> 2. 进行[[Mixed Method and Multi-method Research|混合方法]]整合分析，有三种方式：
 >    - **并排比较（side-by-side comparison）**：在讨论部分先后报告量化和质性发现。在今日混合方法文献中较少见。
 >    - **[[Data Transformation in Mixed Methods|数据转换]]（data transformation）**：将质性主题或编码转化为量化变量（计数并分组），然后合并两个量化数据库。在量化训练背景的研究者中较受欢迎。具体转换程序可参考 Onwuegbuzie & Leech (2006)。
 >    - **联合展示（joint display）**：在表格或图表中合并呈现两组数据。已成为[[Mixed Method and Multi-method Research|混合方法研究]]整合的标准程序。聚敛式设计的联合展示可以将主题作为列、分类变量（如高/中/低分）作为行，单元格中放置引用或得分，并添加[[Metainferences|元推论]]行和列（见表 10.2）。
 > 3. 从联合展示中提取[[Metainferences|元推论]]：沿行检视（不同得分水平在某主题上的差异）和沿列检视（不同主题之间得分模式的差异），判断量化与质性结果是否确认、一致或分歧。当出现分歧时，可返回分析深入探索数据库、收集额外数据，或讨论某一数据库的局限。
 >
 > > [!example]- 表10.2：聚敛式设计联合展示模板
-> > ![](https://img.mylikemie.icu/books/Creswell_Creswell_2023_SAGE/figures/Table_10-2_Convergent_Design_Joint_Display_Template.jpg)
+> > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-2_Convergent_Design_Joint_Display_Template.jpg)
 
 ## 目的陈述脚本
 
@@ -95,7 +94,7 @@ updated: 2026-05-31
 ## 效度威胁
 
 > [!warning]
-> 在使用聚敛式设计时，除了需要分别建立量化效度（如[[Construct Validity in Quantitative Measurement|构念效度]]）和[[Qualitative Validity|质性效度]]（如[[Triangulation|三角验证]]）之外，还存在聚敛式设计特有的效度威胁（Creswell & Creswell, 2023, pp.239–240）：
+> 在使用聚敛式设计时，除了需要分别建立量化效度（如[[Construct Validity in Quantitative Measurement|构念效度]]）和[[Qualitative Validity|质性效度]]（如[[Triangulation|三角验证]]）之外，还存在聚敛式设计特有的效度威胁（Creswell & Creswell, 2022, pp.239–240）：
 >
 > - **未对分歧进行后续跟进**：当量化数据库和质性数据库讲述不同故事时，如果研究者只是将其作为研究局限一笔带过而不做进一步分析，这是一种薄弱的处理方式。应该返回数据库深入探索、收集额外数据，或讨论某一数据库的局限。
 > - **未明确比较的共同基础**：两类数据收集所依据的问题域或[[Construct|构念]]应当匹配。例如，[[Qualitative Interview|质性访谈]]中关于压力的提问应与量化数据中压力量表的测量内容对应。如果共同基础不明确，合并比较就缺乏立足点。
@@ -125,4 +124,4 @@ updated: 2026-05-31
 ## 来源
 
 - [[Creswell_2022_SAGE]]
-- [[Creswell_Creswell_2023_SAGE]]
+- [[Creswell_2022_SAGE]]
