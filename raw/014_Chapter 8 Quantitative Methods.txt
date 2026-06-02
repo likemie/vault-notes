@@ -1,0 +1,978 @@
+Chapter 8 Quantitative Methods
+==============================
+
+Chapter 8 Quantitative Methods
+
+Learning Objectives
+
+Identify the four primary elements in a quantitative method section.
+
+Describe the difference between a survey design and an experimental design.
+
+Identify the elements that go into writing a good survey research method plan.
+
+Identify the elements that go into writing a good experimental research method plan.
+
+Introduction
+
+We turn from the introduction, purpose, and hypotheses to the method section of a proposal. This chapter presents essential steps in designing quantitative methods for a research proposal or study, with focus on survey and experimental designs. These designs reflect postpositivist philosophical assumptions, as discussed in Chapter 1. For example, determinism suggests that examining the relationships between and among variables is central to answering questions and hypotheses through surveys and experiments. In one case, a researcher might evaluate whether playing violent video games is associated with higher rates of playground aggression in kids, which is a correlational hypothesis that could be evaluated in a survey design. In another case, a researcher might be interested in evaluating whether violent video game playing causes aggressive behavior, which is a causal hypothesis best evaluated by a true experiment. In each case, these quantitative approaches focus on carefully measuring (or experimentally manipulating) a small set of variables to answer theory-guided research questions and hypotheses. This chapter focuses on the essential components of a method section in proposals for a survey or experimental study.
+
+Putting Quantitative Research in Context
+
+Planning and writing a quantitative method section has a formal structure and intended audience. The structure of the method section has four primary elements: (a) a description of the study population and the sample characteristics (i.e., who are you studying?), (b) a description of the study procedures and variables (i.e., how will you formally test your study hypotheses?), (c) a description of the instruments used (i.e., how will you measure your variables?), and (d) a description of the data analytic plan (i.e., how will you analyze your data?). The intended audience of a quantitative method section is other scientists, and the method section should provide sufficient detail that these other scientists could carry out the same study in their own research setting. This chapter focuses on approaches for drafting a method section plan and writeup by describing two popular quantitative designs (survey design and experimental design) and, in each case, the practical decisions around defining the study sample participants, the variables of interest, study instruments, and intended data analyses. Quantitative methods are a helpful tool for testing formal hypotheses, and the end of each survey and experimental design section offers some discussion of how to interpret and write up research results.
+
+Quantitative Designs
+
+A survey design provides a quantitative description of trends, attitudes, and opinions of a population, or tests for associations among variables of a population, by studying a sample of that population. Survey designs help researchers answer three types of questions:
+
+(a) descriptive questions (e.g., What percentage of company employees support hiring women of color in executive leadership positions?); (b) questions about the relationships between variables (e.g., is there an association between the number of women of color in executive roles and overall perceptions of company satisfaction among employees?); or in cases where a survey design is repeated over time in a longitudinal study, (c) questions about predictive relationships between variables over time (e.g., Does Time 1 hiring of new women of color executives predict greater Time 2 company satisfaction?).
+
+An experimental design systematically manipulates one or more variables to evaluate how this manipulation affects an outcome (or outcomes) of interest. Importantly, an experiment isolates the effects of this manipulation by holding all other variables constant. When one group receives a treatment and the other group does not (which is a manipulated variable of interest), the experimenter can isolate whether the treatment and not other factors influence the outcome. For example, a sample of nurses could be randomly assigned to a 3-week expressive writing program (where they write about their deepest thoughts and feelings) or a matched 3-week control writing program (writing about the facts of their daily morning routine). This experiment evaluates whether this expressive writing manipulation reduces job burnout in the months following the program (i.e., the writing condition is the manipulated (independent) variable of interest, and job burnout is the (dependent) outcome variable of interest).
+
+There are relative advantages and disadvantages in selecting a survey versus experimental design. Surveys can be relatively inexpensive and easy to administer in contrast to experimental studies where a researcher aims to systematically manipulate a variable (or variables) while holding all other variables constant. Survey designs offer a tool for describing a study population and testing for associations between study variables. But experiments can go beyond these survey design features to address causal relationships. In the nurse experiment example here, manipulating expressive writing (and keeping all other variables constant) permits inferences around whether writing about one’s deepest thoughts and feelings causes less burnout in the months following the intervention. Whether a quantitative study employs a survey or experimental design, both approaches share a common goal of helping the researcher make inferences about relationships among variables and generalize the sample results to a broader population of interest (e.g., all nurses in the community).
+
+Components of a Survey Study Method Plan
+
+The design of a survey method plan follows a standard format. Numerous examples of this format appear in scholarly journals, and these examples provide useful models. The following sections detail typical components. In preparing to design these components into a proposal, consider the questions on the checklist shown in Table 8.1 as a general guide.
+
+Table 8.1 A Checklist of Questions for Designing a Survey Study Plan
+
+[图片: images/014_Chapter 8 Quantitative Methods/001_10.4135_9781071817988-table9.jpg]
+
+Table 8.1 A Checklist of Questions for Designing a Survey Study Plan
+
+______
+
+Is the purpose of a survey design stated?
+
+______
+
+What type of design will be used, and what are the reasons for choosing the design mentioned?
+
+______
+
+Is the nature of the survey (cross-sectional vs. longitudinal) identified?
+
+______
+
+Is the population and its size mentioned?
+
+______
+
+Will the population be stratified? If so, how?
+
+______
+
+How many people will be in the sample? On what basis was this size chosen?
+
+______
+
+What will be the procedure for sampling these individuals (e.g., random, nonrandom, convenience)?
+
+______
+
+What instruments will be used in the survey? For each instrument, describe the following: who developed it, how many items does it contain, does it have acceptable score reliability and validity, and what are the scale anchors?
+
+(a) ______
+
+What is the source publication and citation for who developed the instrument?
+
+(b) ______
+
+How many items does the instrument contain, what is the scale range (e.g., Likert Scale from 1–5), and what are the scale anchors (e.g., not at all to very much)?
+
+(c) ______
+
+Does the instrument have acceptable validity (construct and criterion validity) and reliability (internal consistency)?
+
+(d) ______
+
+How is the instrument scored and converted into variables?
+
+(e) ______
+
+How will the variables be used to test your research questions?
+
+______
+
+What procedure will be used to pilot or field-test the survey?
+
+______
+
+What is the timeline for administering the survey?
+
+______
+
+What ethical considerations will be considered for protecting participants? What steps will be taken to get IRB approval of the study plan?
+
+What specific steps will be taken in data analysis to do the following:
+
+(a) ______
+
+Analyze returns?
+
+(b) ______
+
+Check for response bias?
+
+(c) ______
+
+Conduct a descriptive analysis?
+
+(d) ______
+
+Combine items into scales?
+
+(e) ______
+
+Check for reliability of scales? Check for validity?
+
+(f) ______
+
+Run inferential statistics to answer the research questions or assess practical implications of the results?
+
+______
+
+How will the results be interpreted?
+
+The Survey Design
+
+The first parts of the survey method plan section introduce readers to the basic purpose and rationale for survey research. Begin the section by describing the rationale for the design. Specifically:
+
+The Purpose
+
+The primary purpose is to answer a question (or questions) about variables of interest. A sample purpose statement could read: “The primary purpose of this survey study is to empirically evaluate whether the number of overtime hours worked predicts higher subsequent burnout symptoms in a sample of emergency room nurses.”
+
+Rationale for Using the Survey Method
+
+Indicate why a survey method is the preferred type of approach for this study. In this rationale, it can be beneficial to acknowledge the advantages of survey designs, such as the economy of the design, rapid turnaround in data collection, and constraints that preclude you from pursuing other designs (e.g., “An experimental design was not adopted to look at the relationship between overtime hours worked and burnout symptoms because it would be prohibitively difficult, and potentially unethical, to randomly assign nurses to work different amounts of overtime hours.”).
+
+Type of Survey Method
+
+Indicate whether the survey will be cross-sectional—with the data collected at one point in time—or whether it will be longitudinal—with data collected over time.
+
+Specify the Form of Data Collection
+
+Fowler (2014) identified the following types: mail, telephone, the internet, personal interviews, or group administration (see Fink, 2016; Krueger & Casey, 2014). Using an internet survey and administering it online has been discussed extensively in the literature. (Nesbary, 2000; Sue & Ritter, 2012). There has been significant growth and popularity of internet survey tools that offer helpful survey building features and provide ready access to participant populations across the world (e.g., Amazon’s Mechanical Turk, Prolific) (Buhrmester et al., 2018). Regardless of the form of data collection, provide a rationale for the procedure, using arguments based on its strengths and weaknesses, costs, data availability, and convenience.
+
+The Population and Sample
+
+Survey designs often rely on drawing a sample of participants from a broader population. A study population refers to all people you aim to make inferences about (e.g., all nurses across the world) whereas a study sample refers to the (sub)group of participants examined in the survey study (e.g., nurses drawn from five hospitals in your city). Ideally, sampling of participants is done in such a way as to minimize sources of bias and permit inferences about the study population of interest. Methodologists have written excellent discussions about the underlying logic of sampling theory (e.g., Babbie, 2015; Fowler, 2014). Here are essential aspects of the population and sample to describe in a research plan.
+
+The Population
+
+Identify the population in the study. Also state the size of this population, if size can be determined, and the means of identifying individuals in the population. Questions of access arise here, and the researcher might refer to availability of sampling frames—mail or published lists—of potential respondents in the population. In most cases it is impractical to include all people in a population (e.g., all nurses across the world), and it is important to carefully consider optimal sampling approaches.
+
+Sampling Design
+
+Identify whether the sampling design for this population is single stage or multistage (called clustering). Cluster sampling is ideal when it is impossible or impractical to compile a list of the population’s elements (Babbie, 2015). A single-stage sampling procedure is one in which the researcher has access to names in the population and can sample the people (or other elements) directly. In a multistage or clustering procedure, the researcher first identifies clusters (groups or organizations), obtains names of individuals within those clusters, and then samples within them.
+
+Type of Sampling
+
+Identify and discuss the selection process for participants in your sample. Ideally aim to draw a random sample, in which each individual in the population has an equal probability of being selected (a systematic or probabilistic sample). But in many cases it may be difficult (or impossible) to get a random sample of participants.
+
+Alternatively, a systematic sample can have precision-equivalent random sampling (Fowler, 2014). In this approach, you choose a random start on a list and select every X-numbered person on the list. The X number is based on a fraction determined by the number of people on the list and the number selected on the list (e.g., 1 out of every 80 people). Finally, less desirable, but often used, is a nonprobability sample (or convenience sample), in which respondents are chosen based on their convenience and availability.
+
+Population Stratification
+
+Identify whether the study will involve stratification of the population before selecting the sample. This requires that characteristics of the population members be known so that the population can be stratified first before selecting the sample (Fowler, 2014). Stratification means that specific characteristics of individuals (e.g., gender—females and males) are represented in the sample and the sample reflects the true proportion in the population of individuals with certain characteristics. When randomly selecting people from a population, these characteristics may or may not be present in the sample in the same proportions as in the population, and stratification ensures their representation. Also identify the characteristics used in stratifying the population (e.g., gender, income levels, education). Within each stratum, identify whether the sample contains individuals with the characteristic in the same proportion as it appears in the entire population.
+
+Sample Size Determination
+
+Indicate the number of people in the sample and the procedures used to compute this number. Sample size determination is at its core a trade-off: A larger sample will provide more precision, but recruiting more participants is time-consuming and costly. In survey research, investigators sometimes choose a sample size based on selecting a fraction of the population (say, 10%) or selecting a sample size typically based on past studies. These approaches are not optimal; instead sample size determination should be based on your analysis plans and expected outcomes (Fowler, 2014).
+
+Power Analysis
+
+If your analysis plan comprises detecting a significant association between variables of interest, a power analysis can help you estimate a target sample size. Many free online and commercially available power analysis calculators are available (e.g., G*Power; Faul et al., 2007; Faul et al., 2009). The input values for a formal power analysis will depend on the questions you aim to address in your survey design study (for a helpful resource, see Kraemer & Blasey, 2016). This power analysis for sample size determination should be done during study planning and prior to enrolling any participants. Many scientific journals now require researchers to report a power analysis for sample size determination in the Method section.
+
+Instrumentation
+
+As part of rigorous data collection, the method proposal also provides detailed information about the actual survey instruments to be used in the study. Consider the following:
+
+The Survey Instruments Used to Collect Data
+
+Discuss whether you used an instrument designed for this research, a modified instrument, or an instrument developed by someone else. For example, if you aim to measure perceptions of stress over the last month, you could use the 10-item Perceived Stress Scale (PSS; Cohen et al., 1983) as the stress perceptions instrument in the survey design. Many survey instruments, including the PSS, can be acquired and used free for research purposes as long as you cite the original source of the instrument. In some cases, researchers have made the use of their instruments proprietary, requiring a fee for use. Instruments are increasingly being delivered through a multitude of online survey products now available (e.g., Qualtrics, Survey Monkey). Although these products can be costly, they also can be helpful for accelerating and improving the survey research process. For example, researchers can create their surveys quickly using custom templates and post them on websites or e-mail them to participants to complete. These software programs facilitate data collection into organized spreadsheets for data analysis, reducing data entry errors and accelerating research question and hypothesis testing.
+
+Instruments and Measures
+
+Instruments are the devices for collecting measures of variables. Much like a thermometer is an instrument for collecting measures of body temperature, a questionnaire can be an instrument for collecting measures of your target variable of interest (e.g., burnout symptoms). In the social and behavioral sciences, a measure commonly refers to some characteristic of study participants.
+
+Validity of Scores Using the Instrument
+
+To use an existing instrument, describe the established validity of scores obtained from past use of the instrument. This means reporting efforts by authors to establish validity in quantitative research—whether you can draw accurate inferences from scores on the instruments. Although there are many forms of validity in survey research, two common forms are (a) construct validity (Does the survey instrument accurately measure the hypothetical construct or concept it was intended to measure?), and (b) concurrent or criterion validity (Does the survey instrument associate with other gold-standard measures of the construct or predict a criterion measure?). Commonly, researchers focus on establishing these forms of validity during initial survey measure development, and they report these findings in the first scientific reports describing the instruments. Establishing the validity of an instrument helps researchers identify whether an instrument might be a good one to use in survey research. These forms of validity (construct, concurrent, criterion) are distinct from identifying the threats to validity in experimental research, as discussed later in this chapter.
+
+Reliability of Scores on the Instrument
+
+Also mention whether scores resulting from past use of the instrument demonstrate acceptable reliability. Reliability in this context refers to the consistency or repeatability of an instrument. The most important form of reliability for multi-item instruments is the instrument’s internal consistency—the degree to which sets of items on an instrument behave in the same way. This is important because instrument scale items should be assessing the same underlying construct, so these items should have suitable intercorrelations. A scale’s internal consistency is quantified by a Cronbach’s alpha (α) value that ranges between 0 and 1, with optimal values ranging between .7 and .9. For example, the 10-item PSS has excellent internal consistency across many published reports, with the original source publication reporting internal consistency values of α = .84–.86 in three studies (Cohen et al., 1983). It can also be helpful to evaluate a second form of instrument reliability, its test–retest reliability. This form of reliability concerns whether the scale is reasonably stable over time with repeated administrations (e.g., is there a comparable score on the PSS taken by a group of participants at time 1 and then one month later?). When you modify an instrument or combine instruments in a study, the original validity and reliability may not hold for the new instrument, and it becomes important to establish validity and reliability as a component of the data analysis plan.
+
+Inter-Rater Reliability
+
+Although survey designs typically focus on establishing reliability across items within a single instrument (internal consistency), some study designs may involve judges or experts who all complete the same instrument. For example, a researcher may be interested in bullying behaviors and ask expert judges to make ratings after viewing a video recording of children interacting on a playground. Inter-rater reliability in these studies is an important form of reliability to establish and refers to the degree to which different independent judges agree in their ratings.
+
+Sample Items
+
+Include sample items from the instrument so that readers can see the actual items used. In an appendix to the proposal, attach sample items or the entire instrument (or instruments) used.
+
+Content of an Instrument
+
+Indicate the major content sections in the instrument, such as the cover letter (Dillman, 2007, provides a useful list of items to include in cover letters), the items (e.g., demographics, attitudinal items, behavioral items, factual items), and the closing instructions. Also mention the type of scales used to measure the items on the instrument, such as continuous scales (e.g., strongly agree to strongly disagree) and categorical scales (e.g., yes/no, rank from highest to lowest importance).
+
+Pilot Testing
+
+Discuss plans for pilot testing or field-testing the survey, and provide a rationale for these plans. This testing is important for evaluating the appropriateness of the instrument for the study sample, for evaluating the internal consistency of items, and to improve or modify questions, format, and instructions. Pilot testing all study materials also allows assessing how long the study will take (and identify potential concerns with participant fatigue). Indicate the number of people who will test the instrument and the plans to incorporate their comments into final instrument revisions.
+
+Administering the Survey
+
+For a mailed survey, identify steps for administering the survey and for following up to ensure a high response rate. Salant and Dillman (1994) suggested a four-phase administration process (see Dillman, 2007, for a similar three-phase process). The first mail-out is a short advance-notice letter to all members of the sample, and the second mail-out is the actual mail survey, distributed about 1 week after the advance-notice letter. The third mail-out comprises a postcard follow-up sent to all members of the sample 4 to 8 days after the initial questionnaire. The fourth mail-out, sent to all nonrespondents, comprises a personalized cover letter with a handwritten signature, the questionnaire, and a preaddressed return envelope with postage. Researchers send this fourth mail-out 3 weeks after the second mail-out. Thus, in total, the researcher concludes the administration period 4 weeks after its start, providing the returns meet project objectives.
+
+Variables in the Study
+
+Although readers of a proposal are first introduced to the study variables in the purpose statement and hypotheses, it is useful in the method section to directly state the variable names, operational definitions, and actual instruments used to measure those variables. One technique in the method plan is to create a table that links the variable name, a description or operational definition of that variable, and the items on an instrument to measure that variable. In cases where variables are drawn from previously validated survey instruments, include a citation for the original source document. Creating this table is especially helpful in survey studies where investigators have many variables of interest. Table 8.2 illustrates such a table using hypothetical data for a method plan that tests the hypothesis that there is a positive association between greater numbers of scientific publications during graduate school being associated with procuring a greater number of grants as a new faculty member and whether this association persists even when controlling for life stressors.
+
+Table 8.2 Variables, Definitions, and Their Corresponding Items on a Survey
+
+[图片: images/014_Chapter 8 Quantitative Methods/002_10.4135_9781071817988-table10.jpg]
+
+Table 8.2 Variables, Definitions, and Their Corresponding Items on a Survey
+
+Variable Name
+
+Variable Definition
+
+Instrument Items
+
+Prior publications (Predictor Variable)
+
+Total number of publications that a faculty member produced prior to receipt of the doctorate
+
+Sum across questions 11, 12, 13, 14, and 15: publication counts for journal articles, books, conference papers, book chapters published before receiving the doctorate
+
+Grants funded (Outcome Variable)
+
+Total number of grants that the faculty member received in the first 7 years of their faculty appointment
+
+Sum across questions 16, 17, and 18: 7-year total of grants from foundations, federal grants, state grants
+
+Life event stress (Control Variable)
+
+Measure adapted to focus on 7-year time window using the 43-item Social Readjustment Scale (Holmes & Rahe, 1967)
+
+Total life event stress over the first 7 years of their faculty appointment
+
+Sum the total impact scores across the 43 scale items
+
+Data Analysis
+
+A method plan carefully outlines the plans for quantitative data processing and analysis. In the proposal, present information about the steps and tools used to enter, process, and analyze the data. Many high-quality computer software platforms are available for quantitative data entry, analysis, and data visualization. For new researchers there are many popular books covering how to work with these software tools. Some of the more popular computer software programs are the following:
+
+R: The R Project for Statistical Computing (www.r-project.org).
+
+R and the RStudio® tool (now renamed Posit™) is a free and widely used platform for statistical computing and graphics. It requires beginning researchers to commit significant time to learning the R computing language but offers significant range and customization of data analysis and graphic visualization.
+
+IBM© SPSS© Statistics 28 for Windows and Mac (www.spss.com). SPSS is a popular commercial statistical package that is easy to use but requires users to pay a licensing fee. Academically affiliated researchers (and graduate student trainees) can obtain SPSS at discounted rates.
+
+Microsoft Excel® (www.microsoft.com). Although many people are familiar with Excel as a spreadsheet manager, Excel also has a wide range of tools for data manipulation and analysis. (Google sheets is another spreadsheet statistical analysis tool available from Google, and it is free.)
+
+JMP® (www.jmp.com). This is a statistical analysis platform from SAS.
+
+Minitab® Statistical Software (minitab.com). This is an interactive software statistical package available from Minitab Inc.
+
+SYSTAT 13® (systatsoftware.com). This is a comprehensive interactive statistical package available from Systat Software, Inc.
+
+SAS/STAT® (sas.com). This is a statistical program with tools as an integral component of the SAS system of products available from SAS Institute, Inc.
+
+Stata®, release 17 (stata.com). This is a data analysis and statistics program available from StataCorp.
+
+The data analysis plan describes the sequential series of steps for analyzing the survey data:
+
+Step 1. Report information about the number of participants in the sample who did and did not return the survey. A table with numbers and percentages describing respondents and nonrespondents is a useful tool to present this information.
+
+Step 2. Discuss the method by which response bias will be determined. Response bias is the effect of nonresponses on survey estimates (Fowler, 2014). Bias means that if nonrespondents had responded, their responses would have substantially changed the overall results. Mention the procedures used to check for response bias, such as wave analysis or a respondent/nonrespondent analysis. In wave analysis, the researcher examines returns on select items week by week to determine if average responses change (Leslie, 1972). Based on the assumption that those who return surveys in the final weeks of the response period are nearly all nonrespondents, if the responses begin to change, a potential exists for response bias. An alternative check for response bias is to contact a few nonrespondents by phone and determine if their responses differ substantially from respondents. This constitutes a respondent/nonrespondent check for response bias.
+
+Step 3. Discuss a plan to provide a descriptive analysis of data for all predictor and outcome variables in the study. This analysis should indicate the means, standard deviations, and range of scores for these variables. Identify whether there is missing data (e.g., some participants may not provide responses to some items or whole scales), and develop plans to report how much missing data is present and strategies to replace missing data (for a review, see Schafer & Graham, 2002).
+
+Step 4. If the proposal contains an instrument with multi-item scales or a plan to develop scales, first evaluate whether it will be necessary to reverse-score items and how total scale scores will be calculated. Also mention reliability checks for the internal consistency of the scales (i.e., the Cronbach alpha statistic).
+
+Step 5. Identify the statistics and the statistical computer program for testing the major inferential research questions or hypotheses in the proposed study. The inferential questions or hypotheses relate variables or compare groups in terms of variables to draw inferences from the sample to a population. Provide a rationale for the choice of statistical test, and mention the assumptions associated with the statistic. As shown later in Table 8.3, base this choice on the nature of the research question (e.g., relating variables or comparing groups as the most popular), the number of predictor and outcome variables, and the variables used as covariates (e.g., see Rudestam & Newton, 2014). Further, consider whether the variables will be measured on an instrument as a continuous score (e.g., age from 18 to 36) or as a categorical score (e.g., women = 1, men = 2). Finally, consider whether the scores from the sample might be normally distributed in a bell-shaped curve if plotted out on a graph or non-normally distributed. There are additional ways to determine if the scores are normally distributed (see Creswell & Guetterman, 2018). These factors, in combination, enable a researcher to determine what statistical test will be suited for answering the research question or hypothesis. In Table 8.3, we show how the factors, in combination, lead to the selection of a number of common statistical tests. For additional types of statistical tests, examine statistics methods books, such as Gravetter and Wallnau (2012).
+
+Step 6. A final step in the data analysis is to present the results in tables or figures and interpret the results from the statistical test.
+
+Preregistering the Study Plan
+
+After drafting a method plan, it is important to step back and consider whether the goal of your survey research is exploratory and aimed at generating new hypotheses or whether the goal is confirmatory and directed at formally testing hypotheses. If the research goal is formal hypothesis testing, it is important to preregister the plan. Preregistration is the act of publishing your plan and hypotheses in a public registry prior to data collection. Preregistration is quickly becoming an essential tool for improving the accuracy and transparency of quantitative research (for a review, see Nosek et al., 2018). Two popular public registries for preregistering studies are the Center for Open Science (www.cos.io/initiatives/prereg) or the trials registry maintained by the United States Library of Medicine at the National Institutes of Health (www.clinicaltrials.gov). Each of these registries provides preregistration templates and guidance for researchers and ways to search their databases for studies like your own. Often similar study preregistrations on these registries can offer new ideas for improving your own research method plan.
+
+Interpreting Results and Writing a Discussion Section
+
+After executing a method plan and carrying out the survey study, it is important to interpret the study results and write a discussion section. An interpretation in quantitative research means that the researcher draws conclusions from the results for the research questions, hypotheses, and the larger meaning of the results. This interpretation involves several steps:
+
+Reporting Results
+
+Report how the results addressed the research question or hypothesis. The Publication Manual of the American Psychological Association (American Psychological Association, 2020) suggests that the most complete meaning of the results come from reporting extensive description, statistical significance testing, confidence intervals, and effect sizes. Thus, it is important to clarify the meaning of these last three reports of the results. Statistical significance testing helps quantify whether a result is due only to chance or some factor(s) of interest. The test will provide a p-value, which is the probability of observing results as extreme as those in the study, assuming the results are truly due to chance alone. A p-value of .05 or .01 is often considered to be statistically significant. (In common statistical significance testing language, a statistical test is significant if the results are unlikely by chance to have occurred and the null hypothesis of “no effect” can be rejected. The researcher sets a rejection level such as p = 0.01 and then assesses whether the test statistic is statistically significant [less than p = 0.01].) In practice, researchers use statistical significance testing in an affirmative way, describing whether there is a statistically significant effect or not. For example, a result could be described as “the analysis of variance revealed a statistically significant difference between men, women, and nonbinary participant perceptions of stress during the COVID pandemic F(2, 497) = 8.55, p = 0.001.”
+
+Statistical Tests in Survey Research
+
+Survey designs often use a combination of several popular statistical test statistics to test study hypotheses or questions (see Table 8.3). An independent samples t-test compares the means of two independent groups (a paired samples t-test compares two measurements from the same group). Analysis of Variance (ANOVA) compares means across two or more groups. Analysis of Covariance (ANCOVA) extends ANOVA to include control variables. In cases where the variable of interest is categorical (such as males vs. females vs. nonbinary), the chi-squared test is used. A Pearson Product Moment Correlation (or Pearson’s correlation for short) is a measure of the strength of association between two variables, and multiple regression extends correlation analysis to two or more variables. Anytime a test statistic is reported in the method plan or final report, it is italicized (e.g., t, p).
+
+Table 8.3 Criteria for Choosing Select Statistical Tests
+
+[图片: images/014_Chapter 8 Quantitative Methods/003_10.4135_9781071817988-table11.jpg]
+
+Table 8.3 Criteria for Choosing Select Statistical Tests
+
+Nature of Question
+
+Number of Independent/Predictor Variables
+
+Number of Dependent/Outcome Variables
+
+Number of Control Variables (covariates)
+
+Type of Variables
+
+Distribution of Scores
+
+Statistical Test and Statistic
+
+What the Test Yields
+
+Group comparison
+
+1
+
+1
+
+0
+
+Categorical/continuous
+
+Normal
+
+t test, using the test statistic t
+
+A comparison of two groups in terms of outcomes
+
+Group comparison
+
+1 or more
+
+1
+
+0
+
+Categorical/continuous
+
+Normal
+
+Analysis of variance, using the test statistic F
+
+A comparison of two or more groups in terms of outcomes
+
+Group comparison
+
+1 or more
+
+1
+
+1
+
+Categorical/continuous
+
+Normal
+
+Analysis of covariance (ANCOVA), using the test statistic F
+
+A comparison of two or more groups in terms of outcomes, controlling for covariates
+
+Association between groups
+
+1
+
+1
+
+0
+
+Categorical/categorical
+
+Non-normal
+
+Chi-squared, using the test statistic χ2
+
+An association between two variables measured by categories
+
+Relate variables
+
+1
+
+1
+
+0
+
+Continuous/continuous
+
+Normal
+
+Pearson product moment correlation, using the test statistic r
+
+Tells you the magnitude and direction of association between two variables measured on an interval (or ratio) scale
+
+Relate variables
+
+2 or more
+
+1
+
+0
+
+Continuous/continuous
+
+Normal
+
+Multiple regression, using the test statistics R2 and F for overall model fit, b and t test statistics for individual regressor effects
+
+Reveals relationship between several predictor or independent variables and an outcome variable; provides the relative prediction of one variable among many in terms of the outcome
+
+Practical Evidence
+
+In addition to the statistical test and p-value you report, two forms of practical evidence of the results can also be reported: (a) the confidence interval and (b) the effect size. A confidence interval is a range of values (an interval) that describes a level of uncertainty around an estimated observed score. A confidence interval shows how good an estimated score might be. A confidence interval of 95%, for example, indicates that if you conducted the same study over and over again, then 95 out of 100 times you ran the study, the confidence interval would include the true population value. An effect size identifies the strength of the conclusions about group differences or the relationships among variables in quantitative studies. It is a descriptive statistic that is not dependent on whether the relationship in the data represents the true population. The calculation of effect size varies for different statistical tests: it can be used to explain the variance between two or more variables or the differences among means for groups. It shows the practical significance of the results apart from inferences applied to the population.
+
+Context of Previous Studies
+
+The final step is to draft a discussion section where you restate the main findings and place them in context of previous published studies. Here it is important to discuss the implications of the results in terms of how they are consistent with, refute, or extend previous related studies in the scientific literature. How do your research findings address gaps in our knowledge base on the topic? How do they extend previous theory and research in the area? It is also important to acknowledge the implications of the findings for practice and for future research in the area. It may also involve discussing theoretical and practical consequences of the results. It is also helpful to briefly acknowledge potential limitations of the study and potential alternative explanations for the study findings. The end of the discussion section (i.e., the last paragraph of the discussion section) then broadens the lens again to remind readers of the main findings and their broader importance to science and society.
+
+Components of an Experimental Study Method Plan
+
+An experimental method plan follows a standard form: (a) participants and design, (b) procedure, and (c) measures. These three sequential sections generally are sufficient (often in studies with a few measures, the procedure and measures sections combine into a single procedure section). In this section of the chapter, we review these components as well as information regarding key features of experimental design and corresponding statistical analyses. As with the section on survey design, the intent here is to highlight key topics to be addressed in an experimental method plan. An overall guide to these topics is found by answering the questions on the checklist shown in Table 8.4.
+
+Table 8.4 A Checklist of Questions for Designing an Experimental Study Plan
+
+[图片: images/014_Chapter 8 Quantitative Methods/004_10.4135_9781071817988-table12.jpg]
+
+Table 8.4 A Checklist of Questions for Designing an Experimental Study Plan
+
+______
+
+Who are the participants in the study?
+
+______
+
+How were the participants selected? Name specific study inclusion and exclusion criteria.
+
+______
+
+How and when will the participants be randomly assigned?
+
+______
+
+How many participants will be in the study?
+
+______
+
+What ethical considerations should be considered for protecting participants? What steps will be taken to get IRB approval of the study plan?
+
+______
+
+What experimental research design will be used? What would a visual model of this design look like?
+
+______
+
+What are the independent variables, and how are they operationalized?
+
+______
+
+What are the dependent variables (i.e., outcome variables) in the study? How will they be measured?
+
+______
+
+Will variables be included as manipulation checks or covariates in the experiment? How and when will they be measured?
+
+______
+
+What instruments will be used to measure the dependent variables (outcomes) in the study? Why were they chosen? Who developed these measures? Do they have established validity and reliability?
+
+______
+
+What are the sequential steps in the procedure for administering the experimental study to participants?
+
+______
+
+What are potential threats to internal and external validity for the experimental design and procedure? How will they be addressed?
+
+______
+
+How will pilot testing of materials and procedures be conducted prior to formal data collection?
+
+______
+
+What statistics will be used to analyze the data (e.g., descriptive and inferential)?
+
+______
+
+How will the results be interpreted?
+
+Participants
+
+Readers need to know about the selection, assignment, and number of participants who will take part in the experiment. Consider the following suggestions when writing the method section plan for an experiment:
+
+Recruiting Participants
+
+Describe the procedures for recruiting participants to be in the study and any selection processes used. Often investigators recruit a study sample that shares certain characteristics by formally stating specific inclusion and exclusion study criteria when designing their study (e.g., inclusion criteria: participants must be English language speaking and not be children under the age of 18). Recruitment approaches are wide-ranging and can include random digit dialing of households in a community, posting study recruitment flyers or e-mails to targeted communities, or newspaper advertisements. Describe the recruitment approaches that will be used and the compensation to participants for their involvement.
+
+Random Assignment
+
+One of the principal features distinguishing an experiment from a survey study design is the use of random assignment. Random assignment is a technique for placing participants into study conditions of a manipulated variable of interest. When individuals are randomly assigned to groups, the procedure is called a true experiment. If random assignment is used, discuss how and when the study will randomly assign individuals to treatment groups. These groups in experiments are levels of an independent variable. This means that of the pool of participants, Individual 1 goes to Group 1, Individual 2 to Group 2, and so forth so that there is no systematic bias in assigning the individuals. This procedure eliminates the possibility of systematic differences among characteristics of the participants affecting the outcomes. This means that any differences in outcomes can be attributed to the study’s manipulated variable (or variables) of interest (Keppel & Wickens, 2003). Often experimental studies may be interested in randomly assigning participants to levels of a manipulated variable of interest (e.g., a new treatment approach for teaching fractions to children vs. the traditional approach). At the same time the study would measure a second predictor variable of interest that cannot utilize random assignment (e.g., whether the treatment benefits are larger among female compared to male children because it is impossible to randomly assign children to be male or female). Designs in which a researcher has only partial (or no) control over randomly assigning participants to levels of a manipulated variable of interest are called quasi-experiments.
+
+Power Analysis for Sample Size
+
+Conduct and report a power analysis for sample size determination (for a helpful resource, see Kraemer & Blasey, 2016). The procedures for a sample size power analysis mimic those for a survey design, although the focus shifts to estimating the number of participants needed in each condition of the experiment to detect significant group differences. In this case, the input parameters shift to include an estimate of the effect size referencing the estimated differences between the groups of your manipulated variable(s) of interest and the number of groups in your experiment.
+
+Formal Design Statement
+
+At the end of the participants section, it is helpful to provide a formal experimental design statement that specifies the independent variables and their corresponding levels. For example, a formal design statement might read, “The experiment consisted of a one-way two-groups design comparing burnout symptoms between full-time and part-time nurses.”
+
+Variables
+
+The variables need to be specified in the formal design statement and described (in detail) in the procedure section of the experimental method plan. Here are some suggestions for developing ideas about variables in a proposal:
+
+Independent Variables
+
+Identify the independent variables in the experiment (recall the discussion of variables in Chapter 3) and their manipulation in the study. One approach is to conduct a 2 × 2 between-subjects factorial design in which two independent variables are manipulated in a single experiment. If this is the case, it is important to clarify how and when each independent variable is manipulated.
+
+Manipulation Check
+
+If possible, include a manipulation check measure to evaluate whether your study successfully manipulated the independent variable(s) of interest. A manipulation check measure is defined as a measure of the intended manipulated variable of interest. For example, if a study aims to manipulate self-esteem by offering positive test feedback (high self-esteem condition) or negative test feedback (low self-esteem condition) using a performance task, quantitatively evaluate whether there are self-esteem differences between these two conditions with a manipulation check measure. For example, after this self-esteem study manipulation, a researcher may include a brief questionnaire measure of state self-esteem as a manipulation check measure to evaluate whether the negative test feedback condition participants indeed have lower state self-esteem relative to the participants in the positive test feedback condition.
+
+Dependent Variables
+
+Identify the dependent variable or variables (i.e., the outcomes) in the experiment. The dependent variable is the response or the criterion variable presumed to be caused by or influenced by the independent treatment conditions; as such it is “dependent” on the independent variable manipulation. One consideration in the experimental method plan is whether there are multiple ways to measure outcome(s) of interest. For example, if the primary outcome is aggression, it may be possible to collect multiple dependent measures of aggression in the experiment (e.g., a behavioral measure of aggression in response to a provocation, self-reported perceptions of aggression).
+
+Other Variables
+
+Identify other variables to be measured in the study. Three categories of variables are worth mentioning. First, include measures of participant demographic characteristics (e.g., age, gender, ethnicity). Second, measure variables that may contribute noise to the study design. For example, self-esteem levels may fluctuate during the day (and relate to the study outcome variables of interest), and so it may be beneficial to measure and record time of day in the study (and then use it as a covariate in study statistical analyses). Third, measure variables that may be potential confounding variables. For example, a critic of the self-esteem manipulation may say that the positive/negative performance feedback study manipulation also unintentionally manipulated rumination, and this rumination better explained study results on the outcomes of interest. By measuring rumination as a potential confounding variable of interest, the researcher can quantitatively evaluate this claim.
+
+Instrumentation and Materials
+
+As in a survey method plan, a sound experimental study plan calls for a thorough discussion about the instruments used—their development, items, scales, and reports of reliability and validity of scores on past uses. However, an experimental study plan also describes in detail the approach for manipulating the independent variables of interest.
+
+Materials
+
+Thoroughly discuss the materials used for the manipulated variable(s) of interest. One group, for example, may participate in a special computer-assisted learning plan used by a teacher in a classroom. This plan might involve handouts, lessons, and special written instructions to help students in this experimental group learn how to study a subject using computers. A pilot test of these materials may also be discussed in addition to any training required to administer the materials in a standardized way.
+
+Cover Story
+
+Often the researcher does not want participants to know what variables are being manipulated or the condition they have been assigned to (and sometimes what the primary outcome measures of interest are). It is important, then, to draft a cover story to explain the study and procedures to participants during the experiment. A cover story is a plausible (but potentially untrue) explanation to research participants about the purpose of the study and study procedures. If any deception is used in the study, it is important to draft a suitable debriefing approach. With any study plan, it is important to have all procedures and materials approved by your sponsoring institution’s IRB (see Chapter 4).
+
+Experimental Procedures
+
+The specific experimental design procedures need to be identified. This description involves indicating the overall experimental design, citing reasons for using the design to test study hypotheses, and a step-by-step chronological description of the study procedures. Often a visual figure of the study procedures can be helpful.
+
+Type of Experiment
+
+Identify the type of experimental design to be used in the proposed study. The types available in experiments are pre-experimental designs, quasi-experiments, and true experiments. With pre-experimental designs, the researcher studies a single group and implements an intervention during the experiment. This design does not have a control group to compare with the experimental group. In quasi-experiments, the investigator uses control and experimental groups, but the design may have partial or total lack of random assignment to groups. In a true experiment, the investigator randomly assigns the participants to treatment groups.
+
+A single-subject design or N of 1 design involves observing the behavior of a single individual (or a small number of individuals) over time.
+
+Identify what is being compared in the experiment. In many experiments, those of a type called between-subject designs, every participant experiences only one condition on a manipulated variable of interest (Keppel & Wickens, 2003; Rosenthal & Rosnow, 1991). One-way designs comprise only one manipulated independent variable. By contrast, a factorial design manipulates two or more independent variables to examine the independent and interactive effects of these treatment variables on an outcome.
+
+In contrast to between-subject designs, participants in within-subject designs experience multiple (or all) conditions of a manipulated variable of interest. For example, a researcher may elect to employ the same pre- and post-treatment measure (often called a repeated measures design), making “time” (pre- and post-intervention) a within-subjects variable.
+
+It is often the case that studies employ both a between subjects variable and a within-subjects independent variable in the same study and are called mixed designs. For a study testing working conditions among nurses and burnout symptoms, one could randomly assign a sample of nurses to either work part time or full time for a period of time (a between-subjects variable) and measure their burnout symptoms before and after this work manipulation (measuring burnout at two time points creates a “time” within-subjects variable), making this study design a mixed design.
+
+Provide a diagram or a figure to illustrate the specific research design to be used. A standard notation system needs to be used in this figure. As a research tip, we recommend using the classic notation system provided by Campbell and Stanley (1963, p. 6):
+
+X represents an exposure of a group to an experimental variable or event, the effects of which are to be measured.
+
+O represents an observation or measurement recorded on an instrument.
+
+Xs and Os in a given row are applied to the same specific persons.
+
+Xs and Os in the same column, or placed vertically relative to each other, are simultaneous.
+
+The left-to-right dimension indicates the temporal order of procedures in the experiment (sometimes indicated with an arrow).
+
+The symbol R indicates random assignment.
+
+Separation of parallel rows by a horizontal line indicates that comparison. Groups are not equal (or equated) by random assignment. No horizontal line between the groups displays random assignment of individuals to treatment groups.
+
+In Examples 8.1–8.4, this notation is used to illustrate pre-experimental, quasi-experimental, true experimental, and single-subject designs.
+
+Example 8.1 Pre-Experimental Designs
+
+One-Shot Case Study. This design involves an exposure of a group to a treatment followed by a measure.
+
+Group A X ________________________ O
+
+One-Group Pretest–Posttest Design. This design includes a pretest measure followed by a treatment and a posttest for a single group.
+
+Group A O1 _________ X _________ O2
+
+Static Group Comparison or Posttest-Only With Nonequivalent Groups Design.
+
+Experimenters use this design after implementing a treatment. After the treatment, the researcher selects a comparison group and provides a posttest to both the experimental group(s) and the comparison group(s).
+
+Group A X _______________________ O
+
+Group B _________________________ O
+
+Alternative Treatment Posttest-Only With Nonequivalent Groups Design. This design uses the same procedure as the Static Group Comparison, with the exception that the nonequivalent comparison group received a different treatment.
+
+Group A X1_________________________ O
+
+Group B X2_________________________ O
+
+Example 8.2 Quasi-Experimental Designs
+
+Nonequivalent (Pretest and Posttest) Control-Group Design. In this design, a popular approach to quasi-experiments, the experimental Group A and the control Group B are selected without random assignment. Both groups take a pretest and posttest. Only the experimental group receives the treatment.
+
+Group A O ___________ X ___________O
+
+Group B O ________________________O
+
+Single-Group Interrupted Time-Series Design. In this design, the researcher records measures for a single group both before and after a treatment.
+
+Group A O—O—O—O—X—O—O—O—O
+
+Control-Group Interrupted Time-Series Design. This design is a modification of the Single-Group Interrupted Time-Series design in which two groups of participants, not randomly assigned, are observed over time. A treatment is administered to only one of the groups (i.e., Group A).
+
+Group A O—O—O—O—X—O—O—O—O
+
+Group B O—O—O—O—O—O—O—O—O
+
+Example 8.3 True Experimental Designs
+
+Pretest–Posttest Control-Group Design. A traditional, classical design, this procedure involves random assignment of participants to two groups. Both groups are administered both a pretest and a posttest, but the treatment is provided only to experimental Group A.
+
+Group A R ——––– O——— X ——— O
+
+Group B R ——— O ——————— O
+
+Posttest-Only Control-Group Design. This design controls for any confounding effects of a pretest and is a popular experimental design. The participants are randomly assigned to groups, a treatment is given only to the experimental group, and both groups are measured on the posttest.
+
+Group A R——————X—————O
+
+Group B R————————————O
+
+Solomon Four-Group Design. A special case of a 2 × 2 factorial design, this procedure involves the random assignment of participants to four groups. Pretests and treatments are varied for the four groups. All groups receive a posttest.
+
+Group A R———— O———X———O
+
+Group B R————O———————O
+
+Group C R————————X———O
+
+Group D R——————————–—O
+
+Example 8.4 Single-Subject Designs
+
+A-B-A Single-Subject Design. This design involves multiple observations of a single individual. The target behavior of a single individual is established over time and is referred to as a baseline behavior. The baseline behavior is assessed, the treatment provided, and then the treatment is withdrawn.
+
+Baseline A  Treatment B   Baseline A
+
+O–O–O–O–O–X–X–X–X–X–O–O–O–O–O–O
+
+Threats to Validity
+
+There are several threats to validity that will raise questions about an experimenter’s ability to conclude that the manipulated variable(s) of interest affect an outcome and not some other factor. Experimental researchers need to identify potential threats to the internal validity of their experiments and design them so that these threats will not likely arise or are minimized. There are two types of threats to validity: (a) internal threats and (b) external threats.
+
+Internal Validity
+
+Internal validity threats are experimental procedures, treatments, or experiences of the participants that threaten the researcher’s ability to draw correct inferences from the data about the population in an experiment. Table 8.5 displays these threats, provides a description of each one of them, and suggests potential responses by the researcher so that the threat may not occur. There are those involving participants (i.e., history, maturation, regression, selection, and mortality), those related to the use of an experimental treatment that the researcher manipulates (i.e., diffusion, compensatory and resentful demoralization, and compensatory rivalry), and those involving procedures used in the experiment (i.e., testing and instruments).
+
+Table 8.5 Types of Threats to Internal Validity
+
+[图片: images/014_Chapter 8 Quantitative Methods/005_10.4135_9781071817988-table13.jpg]
+
+Table 8.5 Types of Threats to Internal Validity
+
+Type of Threat to Internal Validity
+
+Description of Threat
+
+In Response, Actions the Researcher Can Take
+
+History
+
+Because time passes during an experiment, events can occur that unduly influence the outcome beyond the experimental treatment.
+
+The researcher can have both the experimental and control groups experience the same external events.
+
+Maturation
+
+Participants in an experiment may mature or change during the experiment, thus influencing the results.
+
+The researcher can select participants who mature or change at the same rate (e.g., same age) during the experiment.
+
+Regression to the mean
+
+Participants with extreme scores are selected for the experiment. Naturally, their scores will probably change during the experiment. Scores, over time, regress toward the mean.
+
+A researcher can select participants who do not have extreme scores as entering characteristics for the experiment.
+
+Selection
+
+Participants can be selected who have certain characteristics that predispose them to have certain outcomes (e.g., they are brighter).
+
+The researcher can select participants randomly so that characteristics have the probability of being equally distributed among the experimental groups.
+
+Mortality (also called study attrition)
+
+Participants drop out during an experiment due to many possible reasons. The outcomes are thus unknown for these individuals.
+
+A researcher can recruit a large sample to account for dropouts or compare those who drop out with those who continue—in terms of the outcome.
+
+Diffusion of treatment (also called cross contamination of groups)
+
+Participants in the control and experimental groups communicate with each other. This communication can influence how both groups score on the outcomes.
+
+The researcher can keep the two groups as separate as possible during the experiment.
+
+Compensatory/resentful demoralization
+
+The benefits of an experiment may be unequal or resented when only the experimental group receives the treatment (e.g., experimental group receives therapy, and the control group receives nothing).
+
+The researcher can provide benefits to both groups, such as giving the control group the treatment after the experiment ends or giving the control group some different type of treatment during the experiment.
+
+Compensatory rivalry
+
+Participants in the control group feel that they are being devalued, as compared to the experimental group, because they do not experience the treatment.
+
+The researcher can take steps to create equality between the two groups, such as reducing the expectations of the control group or clearly explaining the value of the control group.
+
+Testing
+
+Participants become familiar with the outcome measure and remember responses for later testing.
+
+The researcher can have a longer time interval between administrations of the outcome or use different items on a later test than were used in an earlier test.
+
+Instrumentation
+
+The instrument changes between a pretest and posttest, thus affecting the scores on the outcome.
+
+The researcher can use the same instrument for the pretest and posttest measures.
+
+Source: Adapted from Creswell and Guetterman (2018).
+
+External Validity
+
+Potential threats to external validity also must be identified and designs created to minimize these threats. External validity threats arise when experimenters draw incorrect inferences from the sample data to other persons, other settings, and past or future situations. As shown in Table 8.6, these threats arise because of the characteristics of individuals selected for the sample, the uniqueness of the setting, and the timing of the experiment. For example, threats to external validity arise when the researcher generalizes beyond the groups in the experiment to other racial or social groups not under study, to settings not examined, or to past or future situations. Steps for addressing these potential issues are also presented in Table 8.6.
+
+Other threats that might be mentioned in the method section are the threats to statistical conclusion validity that arise when experimenters draw inaccurate inferences from the data because of inadequate statistical power or the violation of statistical assumptions. Threats to construct validity occur when investigators use inadequate definitions and measures of variables.
+
+Table 8.6 Types of Threats to External Validity
+
+[图片: images/014_Chapter 8 Quantitative Methods/006_10.4135_9781071817988-table14.jpg]
+
+Table 8.6 Types of Threats to External Validity
+
+Types of Threats to External Validity
+
+Description of Threat
+
+In Response, Actions the Researcher Can Take
+
+Interaction of selection and treatment
+
+Because of the narrow characteristics of participants in the experiment, the researcher cannot generalize to individuals who do not have the characteristics of participants.
+
+The researcher restricts claims about groups to which the results cannot be generalized. The researcher conducts additional experiments with groups with different characteristics.
+
+Interaction of setting and treatment
+
+Because of the characteristics of the setting of participants in an experiment, a researcher cannot generalize to individuals in other settings.
+
+The researcher needs to conduct additional experiments in new settings to see if the same results occur as in the initial setting.
+
+Interaction of history and treatment
+
+Because results of an experiment are time-bound, a researcher cannot generalize the results to past or future situations.
+
+The researcher needs to replicate the study at later times to determine if the same results occur as in the earlier time.
+
+Source: Adapted from Creswell and Guetterman (2018).
+
+Practical research tips for proposal writers to address validity issues are as follows:
+
+Identify the potential threats to validity that may arise in your study. A separate section in a proposal may be composed to discuss potential threats and the approaches used to minimize them.
+
+Define the exact type of threat and what potential issue it presents to your study.
+
+Discuss how you plan to address the threat in the design of your experiment.
+
+The Procedure
+
+A researcher needs to describe in detail the sequential step-by-step procedure for conducting the experiment. A reader should be able to clearly understand the cover story explaining the study to participants, the design being used, the manipulated variable(s) and outcome variable(s), and the chronological sequence of study activities. It is also important to describe steps taken to minimize noise and bias in the experimental procedures. For example, if the experimenter is aware of whether a participant receives the treatment condition that will be most helpful, the experimenter might act in more positive and reinforcing ways in administering the outcome measure. To reduce this form of experimenter bias, it is helpful to make the experimenter administering the outcome measure blind to the participant’s study condition. Blinding in experimental research is when the experimenter (and/or the participant) is kept unaware of the participant’s assigned study condition. Thus, experimenter blinding is a step a researcher could take to minimize bias and to describe in the experimental procedures (e.g., “To reduce the risk of experimenter bias, the experimenter was blind to the participant’s study condition until all outcome measures were assessed.”).
+
+Discuss a step-by-step approach for the procedure in the experiment. For example, Borg and Gall (2006) outlined steps typically used in the procedure for a pretest–posttest control group design with matching participants in the experimental and control groups.
+
+Administer measures of the dependent variable or a variable closely correlated with the dependent variable to the research participants.
+
+Assign participants to matched pairs on the basis of their scores on the measures described in Step 1.
+
+Randomly assign one member of each pair to the experimental group and the other member to the control group. Expose the experimental group to the experimental treatment, and administer no treatment or an alternative treatment to the control group.
+
+Administer measures of the dependent variables to the experimental and control groups.
+
+Compare the performance of the experimental and control groups on the posttest(s) using tests of statistical significance.
+
+Data Analysis
+
+Assigning participants to study conditions in experimental studies means that study analyses are straightforward—the principle analyses test hypotheses that focus on comparing groups across these study conditions. There are a series of steps to describe in the study data analytic plan:
+
+Reporting the Descriptive Statistics
+
+Some descriptive statistics commonly reported include frequencies (e.g., how many male and female participants were in the study?), means and standard deviations (e.g., what’s the mean age of the sample; what is the ethnic composition of the sample; what are the group means and corresponding standard deviation values for the primary outcome measures?).
+
+Preliminary Analysis
+
+Report any preliminary analyses to be conducted prior to testing the study hypotheses. Some of these include statistical tests evaluating (a) the success of randomization (i.e., was randomization successful in creating equivalent groups across study conditions?); (b) whether the study independent variable(s) manipulation(s) were successful (i.e., are there group differences on the manipulation check measure[s]); and (c) whether there are associations (correlations) between key study variables (e.g., such as two dependent variables collected in the study)?
+
+Inferential Statistical Tests
+
+Indicate the inferential statistical tests used to examine the hypotheses in the study. The same statistical tests described for survey analyses are also used in experimental designs (see Table 8.3). However, because a high priority is placed on comparing groups in experiments, there is heavy reliance on ANOVA, ANCOVA, and multivariate analysis of variance (MANOVA) data analyses.
+
+Factorial Designs
+
+In factorial designs where more than one independent variable is manipulated, you can test for main effects (of each independent variable) and interactions between independent variables. Also, like survey method designs, indicate the practical significance by reporting effect sizes and confidence intervals.
+
+Single-Subject Designs
+
+For single-subject research designs, use line graphs for baseline and treatment observations for abscissa (horizontal axis) units of time and the ordinate (vertical axis) target behavior. Researchers plot each data point separately on the graph and connect the data points with lines (e.g., see Neuman & McCormick, 1995).
+
+Occasionally, tests of statistical significance, such as t tests, are used to compare the pooled mean of the baseline and the treatment phases, although such procedures may violate the assumption of independent measures (Borg & Gall, 2006).
+
+Preregistering the Study Plan
+
+True experiments offer a way to test causal relations among independent and dependent variables specified by formal hypotheses. Thus, preregistering the experimental study hypotheses and plan in a public registry is important. Preregistration follows the same guidelines as those described for preregistering a survey method plan discussed earlier in this chapter.
+
+Interpreting Results and Writing a Discussion Section
+
+After data collection is complete, the final step in an experiment is to interpret the findings in light of the hypotheses or research questions and to draft a results and discussion section. The results section follows the steps described in data analysis. In the discussion section writeup, address whether the hypotheses were supported or whether they were refuted. Describe whether the independent variable manipulation was effective (a manipulation check measure can be helpful in this regard). Suggest why the results were significant, or why they were not, linking the new evidence with past literature (see Chapter 2), the theory used in the study (see Chapter 3), or persuasive logic that might explain the results. Address whether the results might have been influenced by unique strengths of the approach, or weaknesses (e.g., threats to internal validity) or study limitations, and indicate how the results might be generalized to certain people, settings, and times. Finally, indicate the implications of the results for science and society, including implications for future research on the topic.
+
+Example 8.5 is a description of an experimental method plan adapted from a value affirmation stress study published by Creswell and colleagues (Creswell et al., 2005).
+
+Example 8.5 An Experimental Method Plan
+
+This study tested the hypothesis that thinking about one’s important personal values in a self-affirmation activity could buffer subsequent stress responses to a laboratory stress challenge task. The specific study hypothesis was that the self-affirmation group, relative to the control group, would have lower salivary cortisol stress hormone responses to a stressful performance task. Here we highlight a plan for organizing the methodological approach for conducting this study. For a full description of the study methods and findings, see the published paper (Creswell et al., 2005).
+
+Method
+
+Participants
+
+A convenience sample of 85 undergraduates will be recruited from a large public university on the West Coast and compensated with course credit or $30. This sample size is justified based on a power analysis conducted prior to data collection with the software program G*Power (Faul et al., 2007; Faul et al., 2009) based on specific input parameters for power analysis. Participants will be eligible to participate if they meet the following study criteria (list study inclusion and exclusion criteria here). All study procedures have been approved by the University of California, Los Angeles Institutional Review Board, and participants will provide written informed consent prior to participating in study related activities.
+
+The study is a 2 × 4 mixed design, with value affirmation condition as a two-level between-subjects variable (condition: value affirmation or control) and time as a four-level within-subjects variable (time: baseline, 20 minutes post-stress, 30 minutes post-stress, and 45 minutes post-stress). The primary outcome measure is the stress hormone cortisol, as measured by saliva samples.
+
+Procedure
+
+To control for the circadian rhythm of cortisol, all laboratory sessions will be scheduled between the hours of 2:30 pm and 7:30 pm. Participants will be run through the laboratory procedures one at a time. The cover story comprises telling participants that the study is interested in studying physiological responses to laboratory performance tasks.
+
+Upon arrival all participants will complete an initial values questionnaire where they will rank order five personal values. After a 10-minute acclimation period, participants will provide a baseline saliva sample for the assessment of salivary cortisol levels. Participants will then receive instructions on the study tasks and then will be randomly assigned by the experimenter (using a random number generator) to either a value affirmation or control condition, where they will be asked to (description of the value affirmation independent variable manipulation here along with the subsequent manipulation check measure). All participants will then complete the laboratory stress challenge task (description of the stress challenge task procedures for producing a stress response here). After the stress task, participants will complete multiple post-stress task questionnaire measures (describe them here), and then provide saliva samples at 20, 30, and 45 minutes post-stress task onset. After providing the last saliva sample, participants will be debriefed, compensated, and dismissed.
+
+Summary
+
+This chapter identified essential components for organizing a methodological approach and plan for conducting either a survey or an experimental study. The outline of steps for a survey study began with a discussion about the purpose, the identification of the population and sample, the survey instruments to be used, the relationship between the variables, the research questions, specific items on the survey, the steps to be taken in the analysis, and the interpretation of the data from the survey. In the design of an experiment, the researcher identifies participants in the study, the variables—the manipulated variable(s) of interest and the outcome variables—and the instruments used. The design also includes the specific type of experiment, such as a pre-experimental, quasi-experimental, true experiment, or single-subject design. Then the researcher draws a figure to illustrate the design, using appropriate notation. This is followed by comments about potential threats to internal and external validity (and possibly statistical and construct validity) that relate to the experiment, the statistical analyses used to test the hypotheses or research questions, and the interpretation of the results.
+
+Key Terms
+
+Blinding 182
+
+Confidence interval 172
+
+Construct validity 164
+
+Cover story 176
+
+Descriptive analysis 168
+
+Effect size 172
+
+Experimental design 159
+
+Experimenter bias 182
+
+External validity threats 182
+
+Instruments 164
+
+Internal validity threats 180
+
+Interpretation in quantitative research 170
+
+Manipulation check measure 175
+
+Measure 164
+
+Preregistration 169
+
+Quasi-experiments 174
+
+Random sampling 162
+
+Reliability 165
+
+Response bias 168
+
+Statistical conclusion validity 182
+
+Statistical significance testing 170
+
+Study population 162
+
+Study sample 162
+
+Survey design 158
+
+True experiment 174
+
+Validity in quantitative research 164
+
+Writing Exercises
+
+Describe the four primary elements of a method section plan.
+
+Although both survey and experimental method plans have independent and dependent variables, describe how the independent variable is treated differently in experimental studies relative to survey studies.
+
+Define and contrast a study population and a study sample.
+
+What are the principal differences between the validity and reliability of an instrument?
+
+Name and define two common forms of validity and two common forms of reliability of an instrument.
+
+What does it mean to preregister a study method plan?
+
+In an experimental method plan, a researcher might consider making an independent variable a between-subjects or a within-subjects variable. Define these two terms, and provide an example of each one in a hypothetical study.
+
+Using the hypothetical study example from Writing Exercise #6, offer an example of a potential threat to internal validity and a potential threat to external validity.
+
+Additional Readings
+
+Campbell, D. T., & Stanley, J. C. (1963). Experimental and quasi-experimental designs for research. In N. L. Gage (Ed.), Handbook of research on teaching (pp. 1–76). Rand McNally.
+
+This chapter in the Gage Handbook is the classical statement about experimental designs. Campbell and Stanley have designed a notation system for experiments that is still used today; they also advanced the types of experimental designs, beginning with factors that jeopardize internal and external validity, the pre-experimental design types, true experiments, quasi-experimental designs, and correlational designs. The chapter presents an excellent summary of types of designs, their threats to validity, and statistical procedures to test the designs. This is an essential chapter for students beginning their study of experimental studies.
+
+Fowler, F. J. (2014). Survey research methods (5th ed.). SAGE.
+
+It is useful to understand the many steps taken in conducting good survey research. Floyd Fowler provides a useful text about the decisions that go into the design of a survey research project. He addresses use of alternative sampling procedures, ways of reducing nonresponse rates, data collection, design of good questions, employing sound interviewing techniques, preparation of surveys for analysis, and ethical issues in survey designs.
+
+Keppel, G., & Wickens, T. D. (2003). Design and analysis: A researcher’s handbook (4th ed.). Prentice Hall.
+
+The introductory chapter of this handbook presents an informative overview of the components of experimental designs. Geoffrey Keppel and Thomas Wickens provide a detailed, thorough treatment of the design of experiments from the principles of design to the statistical analysis of experimental data. Overall, this book is for the mid-level to advanced statistics student who seeks to understand the design and statistical analysis of experiments.
+
+Kraemer, H. C., & Blasey, C. (2016). How many subjects? Statistical power analysis in research. SAGE.
+
+Conducting a power analysis has become standard practice in quantitative research. This book provides guidance on how to conduct power analyses for estimating sample size. This serves as an excellent resource for both basic and more complex estimation procedures.
+
+Lipsey, M. W. (1990). Design sensitivity: Statistical power for experimental research. SAGE.
+
+Quantitative researchers need to identify an appropriate sample size for their studies. Mark Lipsey has authored a major book on the topics of experimental designs and the statistical power of those designs. Its basic premise is that an experiment needs to have sufficient sensitivity to detect those effects it purports to investigate. The book explores statistical power and includes a table to help researchers identify the appropriate size of groups in an experiment.
+
+Neuman, S. B., & McCormick, S. (Eds.). (1995). Single-subject experimental research: Applications for literacy. International Reading Association.
+
+Many single-subject research designs exist for quantitative research. Susan Neuman and Sandra McCormick have edited a useful, practical guide to the design of single-subject research. They present examples of different types of designs, such as reversal designs and multiple-baseline designs, and they enumerate the statistical procedures that might be involved in analyzing the single-subject data. One chapter, for example, illustrates the conventions for displaying data on line graphs. Although this book cites many applications in literacy, it has broad application in the social and human sciences.
+
+Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Cellor, D. T. (2018). The preregistration revolution. Proceedings of the National Academy of Sciences, 115, 2600–2606.
+
+There has been a tremendous shift in recent years toward open science practices and active discussions around how to improve the transparency, reliability, and replicability of scientific research. This is a rapidly evolving area across the behavioral, social, and biological sciences—and it would be valuable to new researchers using this book to initiate discussions with peers and mentors around open science and preregistration practices. Brian Nosek is a leader in this area, and this article discusses the value and approach to preregistering scientific research. Also see the Center for Open Science website (www.cos.io).
+
+Thompson, B. (2006). Foundations of behavioral statistics: An insight-based approach. Guilford.
+
+Researchers can profit from a basic book reviewing the statistical approaches available. Bruce Thompson has organized a highly readable book about using statistics. He reviews the basics about descriptive statistics (location, dispersion, shape), about relationships among variables and statistical significance, about the practical significance of results, and about more advanced statistics such as regression, ANOVA, the general linear model, and logistic regression. Throughout the book, he brings in practical examples to illustrate his points.
