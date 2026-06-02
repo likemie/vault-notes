@@ -93,11 +93,7 @@ books/<book-folder>/<book-folder>.<ext>
 .venv/bin/python3 scripts/source_record.py monograph-pdf \
   --book-folder <book-folder> \
   --file books/<book-folder>/<book-folder>.pdf \
-  --citation "作者姓, 名字缩写. (年份). 书名. 出版社." \
-  --book-title "书名" \
-  --authors "作者名" \
-  --publisher "出版社" \
-  --argument "[[Argument_<book-folder>]]"
+  --citation "作者姓, 名字缩写. (年份). 书名. 出版社."
 ```
 
 ### EPUB
@@ -106,11 +102,7 @@ books/<book-folder>/<book-folder>.<ext>
 .venv/bin/python3 scripts/source_record.py monograph-epub \
   --book-folder <book-folder> \
   --file books/<book-folder>/<book-folder>.epub \
-  --citation "作者姓, 名字缩写. (年份). 书名. 出版社." \
-  --book-title "书名" \
-  --authors "作者名" \
-  --publisher "出版社" \
-  --argument "[[Argument_<book-folder>]]"
+  --citation "作者姓, 名字缩写. (年份). 书名. 出版社."
 ```
 
 EPUB 阅读页使用已配置的静态脚本：

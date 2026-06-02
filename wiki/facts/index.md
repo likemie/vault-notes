@@ -149,14 +149,14 @@ Total entries: **189**
 - [[Nagoya Protocol]] — 2014 年生效的国际条约，旨在促进遗传资源利用所产生的惠益与资源来源国之间的公平公正分享，对跨国生物研究合作中的样本采集和知识产权安排构成直接约束
 - [[OECD Improving School Leadership Project]] — OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
 - [[THE Impact Ranking]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
-- [[UN Sustainable Development Goals]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的“新型第三使命
+- [[UN Sustainable Development Goals]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的新型第三使命
 
 ## Hongkong
 
 ### Event
 
 - [[2012 Moral and National Education Controversy]] — 2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点
-- [[2019 Hong Kong Protests]] — 2019 年因逃犯条例修订草案引发的大规模抗议，被定性为国家安全危机后触发中国历史课程改革加速和通识教育科废除，重塑了香港教育的治理模式
+- [[2019 Hong Kong Protests]] — 2019 年因逃犯条例修订草案引发的大规模抗议，被定性为国家安全 crisis 后触发中国历史课程改革加速和通识教育科废除，重塑了香港教育的治理模式
 - [[English Schools Foundation Hong Kong]] — 香港最大英语学校体系，从英国国民学校（限 10% 本地华人）转型为 40%–50% 本地华人学生，改变了学生认同与语言课程
 - [[National Security Law]] — 2020 年颁布的香港国安法，为强制国民教育提供法律框架，关闭公民社会协商空间，实现教育决策从协商式到命令式的转变
 - [[Symposium on International Teaching]] — 2007 年 3 月 21 日香港大学文学院主办的学术会议，促进中小学与大学教育者关于中国学习者的对话，直接催生了 Ryan & Slethaug (2010) 论文集

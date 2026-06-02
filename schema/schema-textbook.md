@@ -128,11 +128,7 @@ books/<book-folder>/<book-folder>.epub
 .venv/bin/python3 scripts/source_record.py monograph-pdf \
   --book-folder <book-folder> \
   --file books/<book-folder>/<book-folder>.pdf \
-  --citation "作者姓, 名字缩写. (年份). 书名. 出版社." \
-  --book-title "书名" \
-  --authors "作者名" \
-  --publisher "出版社" \
-  --argument "[[Argument_<book-folder>]]"
+  --citation "作者姓, 名字缩写. (年份). 书名. 出版社."
 ```
 
 3. EPUB 教材可调用：
@@ -141,11 +137,7 @@ books/<book-folder>/<book-folder>.epub
 .venv/bin/python3 scripts/source_record.py monograph-epub \
   --book-folder <book-folder> \
   --file books/<book-folder>/<book-folder>.epub \
-  --citation "作者姓, 名字缩写. (年份). 书名. 出版社." \
-  --book-title "书名" \
-  --authors "作者名" \
-  --publisher "出版社" \
-  --argument "[[Argument_<book-folder>]]"
+  --citation "作者姓, 名字缩写. (年份). 书名. 出版社."
 ```
 
 4. `source_record.py` 生成：

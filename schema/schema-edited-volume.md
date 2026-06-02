@@ -46,13 +46,9 @@ wiki/arguments/books/<book-folder>/
 ```bash
 .venv/bin/python3 scripts/source_record.py edited-volume-overview \
   --book-folder Editor_Year_Publisher \
+  --record-name Editor_Year_Publisher \
   --file books/Editor_Year_Publisher/Preface.pdf \
-  --citation "Editor, E. (Ed.). (Year). Book title. Publisher." \
-  --book-title "Book title" \
-  --editors "Editor Name" \
-  --publisher "Publisher" \
-  --argument "[[Argument_Editor_Year_Publisher]]" \
-  --extracted-to "[[其他条目]],[[其他条目2]]"
+  --citation "Editor, E. (Ed.). (Year). Book title. Publisher."
 ```
 
 若没有前言 PDF，可省略 `--file`。
@@ -76,14 +72,9 @@ wiki/arguments/books/<book-folder>/
 ```bash
 .venv/bin/python3 scripts/source_record.py book-chapter \
   --book-folder Editor_Year_Publisher \
+  --record-name Ch3_ChapterAuthor_Year \
   --file books/Editor_Year_Publisher/Ch3_ChapterAuthor_Year.pdf \
   --citation "ChapterAuthor, A. (Year). Chapter title. In Editor Name (Ed.), Book title (pp. xx-xx). Publisher." \
-  --book-title "Book title" \
-  --chapter-title "Chapter title" \
-  --authors "Chapter Author" \
-  --editors "Editor Name" \
-  --publisher "Publisher" \
-  --extracted-to "[[Argument_ChapterAuthor_Year_关键词]],[[其他条目]]" \
   --part-of "[[Editor_Year_Publisher]]"
 ```
 

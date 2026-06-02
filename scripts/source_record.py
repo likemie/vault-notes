@@ -337,6 +337,9 @@ def finalize_source(args: argparse.Namespace) -> None:
         new_name = source_path.stem
 
     new_md_path = source_path.with_name(f"{new_name}.md")
+    if getattr(args, "with_figures", False):
+        new_dir = SOURCES_DIR / new_name
+        new_md_path = new_dir / f"{new_name}.md"
 
     old_pdf_path = source_path.with_suffix(".pdf")
     new_pdf_path = new_md_path.with_suffix(".pdf")
@@ -372,6 +375,14 @@ def finalize_source(args: argparse.Namespace) -> None:
         maybe_rename_file(old_pdf_path, new_pdf_path, overwrite=args.overwrite, dry_run=args.dry_run)
     else:
         info(f"WARNING: expected PDF not found next to source record: {rel(old_pdf_path)}")
+
+    if getattr(args, "with_figures", False):
+        figures_dir = new_md_path.parent / "figures"
+        if args.dry_run:
+            info(f"DRY RUN: would create figures directory {rel(figures_dir)}")
+        else:
+            figures_dir.mkdir(parents=True, exist_ok=True)
+            info(f"Ensured figures directory: {rel(figures_dir)}")
 
     if old_source_name and old_source_name != new_name:
         updated_arg_text = replace_source_link_in_argument(arg_text, old_source_name, new_name)
@@ -492,11 +503,20 @@ def edited_volume_overview(args: argparse.Namespace) -> None:
     book_dir = book_folder_path(args.book_folder)
     record_name = validate_record_name(args.record_name or book_dir.name)
     md_path = book_dir / f"{record_name}.md"
+    embedded_file = None
+    if getattr(args, "file", None):
+        src = Path(args.file)
+        validate_file(src, {".pdf"})
+        pdf_path = book_dir / f"{record_name}.pdf"
+        move_or_copy(src, pdf_path, copy=args.copy, overwrite=args.overwrite, dry_run=args.dry_run)
+        embedded_file = pdf_path.name
+    elif md_path.with_suffix(".pdf").exists():
+        embedded_file = md_path.with_suffix(".pdf").name
     create_book_source_record(
         md_path=md_path,
         record_title=record_name,
         citation=args.citation or "",
-        embedded_file=None,
+        embedded_file=embedded_file,
         part_of=None,
         processed_date=args.processed_date or today(),
         overwrite=args.overwrite,
@@ -509,11 +529,20 @@ def book_chapter(args: argparse.Namespace) -> None:
     record_name = validate_record_name(args.record_name)
     md_path = book_dir / f"{record_name}.md"
     part_of = ensure_wikilink(args.part_of, "--part-of") if args.part_of else None
+    embedded_file = None
+    if getattr(args, "file", None):
+        src = Path(args.file)
+        validate_file(src, {".pdf"})
+        pdf_path = book_dir / f"{record_name}.pdf"
+        move_or_copy(src, pdf_path, copy=args.copy, overwrite=args.overwrite, dry_run=args.dry_run)
+        embedded_file = pdf_path.name
+    elif md_path.with_suffix(".pdf").exists():
+        embedded_file = md_path.with_suffix(".pdf").name
     create_book_source_record(
         md_path=md_path,
         record_title=record_name,
         citation=args.citation or "",
-        embedded_file=None,
+        embedded_file=embedded_file,
         part_of=part_of,
         processed_date=args.processed_date or today(),
         overwrite=args.overwrite,
@@ -554,6 +583,7 @@ def build_parser() -> argparse.ArgumentParser:
     p_fin.add_argument("--source", help="Path to source record md. If omitted, inferred from Argument `sources` or `## 来源`.")
     p_fin.add_argument("--rename", action="store_true", help="Rename source record/PDF to Argument filename without `Argument_` prefix.")
     p_fin.add_argument("--new-name", help="Explicit final source record/PDF basename. Implies rename target name.")
+    p_fin.add_argument("--with-figures", action="store_true", help="Place article/report source record and PDF under sources/<name>/ and create figures/.")
     p_fin.add_argument("--processed-date", help="Override processed_date; default preserves existing value or uses today.")
     p_fin.add_argument("--overwrite", action="store_true", help="Overwrite rename targets if they already exist.")
     p_fin.add_argument("--dry-run", action="store_true", help="Preview actions without writing files.")
@@ -574,8 +604,10 @@ def build_parser() -> argparse.ArgumentParser:
     p_ev = sub.add_parser("edited-volume-overview", help="Create a minimal edited-volume overview source record.")
     p_ev.add_argument("--book-folder", required=True)
     p_ev.add_argument("--record-name", required=True)
+    p_ev.add_argument("--file", help="Optional overview/full-book PDF. If provided, moved/copied to books/<book-folder>/<record-name>.pdf and embedded.")
     p_ev.add_argument("--citation", default="")
     p_ev.add_argument("--processed-date")
+    p_ev.add_argument("--copy", action="store_true", help="Copy file instead of moving it.")
     p_ev.add_argument("--overwrite", action="store_true")
     p_ev.add_argument("--dry-run", action="store_true")
     p_ev.set_defaults(func=edited_volume_overview)
@@ -583,9 +615,11 @@ def build_parser() -> argparse.ArgumentParser:
     p_ch = sub.add_parser("book-chapter", help="Create a minimal book-chapter source record.")
     p_ch.add_argument("--book-folder", required=True)
     p_ch.add_argument("--record-name", required=True)
+    p_ch.add_argument("--file", help="Optional chapter PDF. If provided, moved/copied to books/<book-folder>/<record-name>.pdf and embedded.")
     p_ch.add_argument("--part-of", help="Parent source wikilink, e.g. [[Book_Source_Record]].")
     p_ch.add_argument("--citation", default="")
     p_ch.add_argument("--processed-date")
+    p_ch.add_argument("--copy", action="store_true", help="Copy file instead of moving it.")
     p_ch.add_argument("--overwrite", action="store_true")
     p_ch.add_argument("--dry-run", action="store_true")
     p_ch.set_defaults(func=book_chapter)

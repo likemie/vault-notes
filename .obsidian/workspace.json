@@ -191,6 +191,9 @@
   },
   "active": "f290374ad363fcc2",
   "lastOpenFiles": [
+    "scripts/__pycache__/wiki_linker.cpython-313.pyc",
+    "scripts/wiki_linker.py",
+    "scripts/__pycache__/source_record.cpython-313.pyc",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Wolf_2025_InternationalResearchCollab.md.tmp.34465.49d844ae3372",
     "wiki/concepts/higher-education/Pre-negotiated IP Rights.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Wolf_2025_InternationalResearchCollab.md",
@@ -223,9 +226,6 @@
     "wiki/theories/higher-education/Values Alignment Model.md",
     "wiki/concepts/higher-education/Return on Investment.md.tmp.77631.16c0ce62d9f8",
     "books/Hall_Boccanfuso_2025_Springer/figures",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Swick_Jones_2025_AcademicHealthSystems.md.tmp.77631.614b626f7b55",
-    "books/Hall_Boccanfuso_2025_Springer/Ch10_Swick_Jones_2025.pdf",
-    "raw/978-3-031-94913-5_10.pdf",
-    "raw/016_Chapter 10 Mixed Methods Procedures.txt"
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Swick_Jones_2025_AcademicHealthSystems.md.tmp.77631.614b626f7b55"
   ]
 }
