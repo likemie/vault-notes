@@ -67,8 +67,7 @@ updated: 2026-05-31
 
 ## 研究程序
 
-> [!example]
-> Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解为以下环节：
+Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解为以下环节：
 
 ### 参与者与设计
 

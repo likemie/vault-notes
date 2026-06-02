@@ -1,0 +1,894 @@
+Chapter 9 Qualitative Methods
+=============================
+
+Chapter 9 Qualitative Methods
+
+Learning Objectives
+
+Identify nine characteristics that might be included in a definition of qualitative research in a study.
+
+Compare the descriptive method and analytic method to selecting a qualitative research design.
+
+Contrast the advantages of using four types of collecting data in a qualitative study.
+
+Learn how to construct a good interview protocol or guide for collecting qualitative data.
+
+Name the seven steps in analyzing qualitative data.
+
+Identify the components that go into an interpretation of qualitative findings.
+
+Indicate eight approaches to writing about qualitative validity.
+
+Discuss how to apply the six writing strategies when developing a qualitative written report.
+
+Introduction
+
+Qualitative methods demonstrate a different approach to scholarly inquiry than methods of quantitative research. Although the processes are similar, qualitative methods rely on text and image data, have unique steps in data analysis, and draw on diverse procedures. Writing a method section for a proposal or study for qualitative research partly requires presenting a rationale for its use. Because many approaches exist for the design of procedures in qualitative research, include information about the type of design. Specify the types of qualitative data you plan to collect and how you will record the data on protocols or guides. Go through the steps in data analysis that span from looking over the data to generating themes and a story line. Use multiple strategies to validate your project’s findings, and write your study creatively.
+
+This chapter addresses these important components of writing a good qualitative method section into a proposal or study. Table 9.1 presents a checklist for reviewing the qualitative methods section of your project to determine whether you have addressed important topics.
+
+Table 9.1 A Checklist of Questions for Designing a Qualitative Procedure
+
+[图片: images/015_Chapter 9 Qualitative Methods/001_10.4135_9781071817988-table15.jpg]
+
+Table 9.1 A Checklist of Questions for Designing a Qualitative Procedure
+
+______
+
+Are the basic characteristics of qualitative studies mentioned?
+
+______
+
+Is the specific type of qualitative design to be used in the study mentioned?
+
+______
+
+Is the purposeful sampling strategy for sites and individuals identified?
+
+______
+
+Is a clear recruitment strategy for enrolling participants mentioned?
+
+______
+
+Are the specific forms of data collection mentioned and a rationale for their use?
+
+______
+
+Are potential ethical issues identified and strategies presented for addressing them? Has approval from the Institutional Review Board (IRB) been received?
+
+______
+
+Are the procedures for recording information during data collection detailed (such as protocols)?
+
+______
+
+Are the data analysis steps identified?
+
+______
+
+Is there evidence that the researcher has organized the data for analysis?
+
+______
+
+Has the researcher reviewed the data generally to obtain a sense of the information?
+
+______
+
+Are the ways that the data will be represented mentioned—such as in tables, graphs, and figures?
+
+______
+
+Has the researcher coded the data?
+
+______
+
+Have the themes been identified?
+
+______
+
+Have the bases for interpreting the analysis been specified (personal experiences, the literature, questions, action agenda)?
+
+______
+
+Have multiple strategies been cited for validating the findings?
+
+______
+
+Has the researcher mentioned the outcome of the study (developed a theory, provided a complex picture of themes)?
+
+Putting Qualitative Research Into Context
+
+For many years, qualitative writers had to discuss the characteristics of qualitative research and convince faculty and audiences as to their legitimacy. These discussions are less frequently found today in the literature and what constitutes qualitative inquiry. Reasons for using qualitative research need to be provided in a project. Readers of a qualitative proposal or project often need to be oriented to the basic features of qualitative research.
+
+Review the needs of potential audiences for the proposal or study. Decide whether audience members are knowledgeable enough about the characteristics of qualitative research that this section is not necessary. For example, although qualitative research is typically accepted and well-known in the social sciences, it has emerged in the health sciences only in the last couple of decades. Thus, a review of the basic characteristics will be important for health science audiences. If there is some question about the audience’s knowledge, present the basic characteristics of qualitative research, and consider discussing a recent qualitative research journal article (or study) to use as an example to illustrate the characteristics.
+
+A project might convey the basic characteristics of qualitative research such as those found in current writings (Creswell & Poth, 2018; Marshall & Rossman, 2022). A review of these is as follows.
+
+Participants’ Meanings
+
+In the entire qualitative research process, the researchers focus on learning the meaning that the participants hold about the problem or issue, not the meaning that the researchers bring to the research or that writers express in the literature.
+
+Natural Setting
+
+Qualitative researchers tend to collect data in the field at the site where participants experience the issue or problem under study. Researchers do not bring individuals into a lab (a contrived situation), nor do they typically send out instruments for individuals to complete. This up-close information gathered by talking directly to people and seeing them behave and act within their context is a major characteristic of qualitative research. In the natural setting, the researchers have face-to-face interaction, often extending over a prolonged period.
+
+Researcher as Key Instrument
+
+Qualitative researchers collect data themselves through examining documents, observing behavior, or interviewing participants. They may use a protocol—an instrument for recording data—but the researchers are the ones who gather the information and interpret it. They do not tend to use or rely on questionnaires or instruments developed by other researchers.
+
+Multiple Sources of Data
+
+Qualitative researchers typically gather multiple forms of data, such as interviews, observations, documents, and audiovisual or social media information rather than rely on a single data source. Then the researchers review all the data, make sense of it, and organize it into codes and themes that cut across all data sources. These are all open-ended forms of data in which the participants share their ideas freely, not constrained by predetermined scales or instruments.
+
+Inductive and Deductive Data Analysis
+
+Qualitative researchers typically work inductively, building patterns, categories, and themes from the bottom up by organizing the data into increasingly more abstract units of information. This inductive process illustrates working back and forth between the themes and the database until the researchers have established a comprehensive set of themes. Then deductively, the researchers look back at their data from the themes to determine if more evidence can support each theme or whether they need to gather additional information. Thus, although the process begins inductively, deductive thinking also plays an important role as the analysis moves forward.
+
+Emergent Design
+
+The research process for qualitative researcher is emergent. This means that the initial plan will evolve during the research. Some or all phases of the process may change or shift after the researcher enters the field and begins to collect data. For example, the questions may change, data collection forms may shift, and the individuals studied and the sites visited may be modified. These shifts signal that the researchers are delving deeper into the topic of the phenomenon under study. The key idea behind qualitative research is to learn about the problem or issue from participants and to address the research to obtain that information.
+
+Reflexivity
+
+In qualitative research, inquirers reflect about how their role in the study and their background, culture, and experiences hold potential for shaping their interpretations, such as the themes they advance and the meanings they ascribe to the data. Researchers explicitly identify reflexively the biases, values, and personal background, such as gender, history, culture, and socioeconomic status (SES) that shape interpretations formed during a study. This aspect of the methods is more than merely advancing biases and values in the study but how the researchers’ background may shape the study’s direction.
+
+Reflexivity requires commenting on two important aspects: (a) include statements about past experiences with the research problem or with the participants or setting that help the reader understand the connection between the researchers and the study—these experiences may involve participation in the setting, past educational or work experiences, culture, ethnicity, race, SES, or other demographics that directly tie the researchers to the study—and (b) be explicit about how these experiences may potentially shape the interpretations the researchers make during the study. For example, the experiences may cause researchers to lean toward certain themes, actively look for evidence to support their positions, and create favorable or unfavorable conclusions about the sites or participants. Inquirers incorporate reflexivity into a discussion of the methods. The comments can build on memos. Memos are written notes taken by the researcher during the research process that reflect on the development of codes and themes. In mentioning personal experiences, researchers need to limit their discussions about personal experiences so that they do not override the importance of the content or methods in a study.
+
+Researcher’s Role
+
+Another aspect of reflection involves creating statements about the researcher’s role. These statements mention connections between the researcher and the participants or the research sites that may unduly influence the researcher’s interpretations. “Backyard” research (Glesne & Peshkin, 1992) involves studying the researcher’s organization, or friends, or immediate work setting. This often leads to compromises in the researcher’s ability to disclose information and raises issues of an imbalance of power between the inquirer and the participants. When researchers collect data at their own workplaces (or when they are in a superior role to participants), the information may be convenient and easy to gather. Still, it may not be accurate information, and it may jeopardize the roles of the researchers and the participants. If studying the “backyard” is essential, the researcher is responsible for showing how the data will not be compromised and how such information will not place the participants (or the researchers) at risk. In addition, multiple strategies for validation (see validation later in this chapter) are necessary to demonstrate the accuracy of the information.
+
+A Complex Account
+
+Qualitative researchers try to develop a complex picture of the problem or issue under study. This involves reporting multiple perspectives, identifying the many factors involved in a situation, and generally sketching the larger picture. This larger picture is not necessarily a linear model of cause and effect but rather a model of multiple factors interacting differently. Qualitative researchers would say this picture mirrors real life and how events operate in the real world. A visual model of many facets of a process aids in establishing this complex picture (see, e.g., Creswell & Brown, 1992).
+
+The Approach or Design
+
+What design, approach, or set of procedures will be used in a study? We begin by mentioning the basic or foundational procedures typically used in qualitative research and then highlighting the analytic framework-oriented procedures that researchers may add (see Figure 9.1 for the distinctions between descriptive methods and an analytic framework).
+
+[图片: images/015_Chapter 9 Qualitative Methods/002_10.4135_9781071817988-fig11.jpg | An illustration of descriptive methods leading to analytic frameworks.]
+Description
+Figure 9.1 Foundational Methods and Methods Drawn From Traditions
+
+Sources: Braun & Clarke, 2005; Sandelowski, 2000, 2010.
+
+Descriptive Methods
+
+One approach to the procedures comprises coding the data and developing themes. Reporting themes, or conducting a “theme analysis” (Levitt et al., 2018, p. 28) has found its way into qualitative research as a distinct method approach. It has been called the “foundational method” of analysis, a “thematic analysis,” or a “descriptive analysis” (Braun & Clark, 2006; Sandelowski, 2000, 2010). We call this method “descriptive methods” and presented it as one qualitative design earlier in Table 1.3. A descriptive method in qualitative research is an approach to analysis where the researcher stays close to the data, uses limited frameworks and interpretation for explaining the data, and catalogues the information into themes. The recent American Psychological Association standards identified it as a distinct type of qualitative methods approach (Levitt et al., 2018). Figure 9.1 presents the major dimensions of descriptive methods. It also suggests that these methods are foundational to more analytic frameworks, which is not to suggest that it has less value and credibility than using a framework to report the codes and themes.
+
+Analytic Frameworks
+
+In addition to descriptive methods, researchers may choose to use a larger interpretative framework in their analysis. An analytic framework in qualitative designs means that the procedures used in interpreting data fit into a predetermined structure identified in the literature. For example, narrative research employs re-storying the participants’ stories using structural devices, such as plot, setting, activities, climax, and denouement (Clandinin & Connelly, 2000). Phenomenological research analyzes significant statements, the generation of meaning units, and the development of what Moustakas (1994) called an “essence” description. Grounded theory has systematic steps (Corbin & Strauss, 2015; Strauss & Corbin, 1990, 1998). These involve generating categories of information (open coding), selecting one of the categories and positioning it within a theoretical model (axial coding), and then advancing a story from the interconnection of these categories (selective coding). Case studies and ethnographic research involve a detailed description of the setting or individuals, followed by data analysis for themes or issues (see Stake, 1995; Wolcott, 1994).
+
+An analytic framework means going beyond the everyday language of participants and using an “analytic tradition” (Braun & Clark, 2006, p. 78). These frameworks may be considered an approach or a distinct qualitative design, as suggested by Creswell and Poth (2018) and enumerated by multiple authors in books and articles across the social and health sciences. Many approaches exist, such as the 28 identified by Tesch (1990), the 22 types in Wolcott (2008), and the five approaches to qualitative inquiry by Creswell and Poth (2018). Marshall and Rossman (2022) discussed five types common across five different authors. In Chapter 1 we identified several of these qualitative designs that researchers use: narrative research, phenomenology, grounded theory, ethnography, and case studies. We selected these five because they are popular across the social and health sciences today. Others exist that have been addressed adequately in qualitative books, such as participatory action research (Kemmis & Wilkinson, 1998), discourse analysis (Cheek, 2004), or action research (Ivankova, 2015).
+
+A detailed discussion of these frameworks for researchers is beyond the scope of this book and requires that researchers read and develop an in-depth understanding of the analytic framework of choice. These frameworks have their way of stating research questions, data collection procedures, data analysis steps, and outcomes for the project.
+
+In writing about the design or approach for a qualitative proposal, consider the following research suggestions:
+
+Identify the specific approach you will be using and provide references to the literature discussing the approach.
+
+Provide some background information about the approach, such as its discipline origin, its applications (preferably to your field), and a brief definition (see Chapter 1 for the six approaches or designs).
+
+Discuss why it is an appropriate strategy to use in the proposed study.
+
+Identify how the use of the approach will shape many aspects of the design process, such as the title, the problem, the research questions, the data collection and analysis, and the report write-up.
+
+Data Collection Procedures
+
+The data collection procedures include setting the boundaries for the study through sampling and recruitment, gaining permissions, collecting information through multiple forms of data (e.g., observations, interviews, documents, and visual and social media), and developing protocols or guides for collecting the data.
+
+Sampling and Recruitment
+
+Identify the purposefully selected sites or individuals for the proposed study. Qualitative research aims to purposefully sample to select participants or sites (or documents or visual material) that will best help the researcher understand the problem and the research question. This does not necessarily suggest random sampling or selection of many participants and sites, as is typically found in quantitative research. A discussion of participants and the site might include four aspects identified by Miles and Huberman (1994): (a) the setting (i.e., where the research will take place), (b) the actors (i.e., who will be observed or interviewed), (c) the events (i.e., what the actors will be observed or interviewed doing), and (d) the process (i.e., the evolving nature of events undertaken by the actors within the setting).
+
+Discuss the strategies used to recruit individuals (or cases) to the study. This is a challenging aspect of research. Indicate ways of informing appropriate participants about the study, and cite the actual recruitment messages sent to them. Discuss ways to provide incentives for individuals to participate, and reflect on approaches that will be used if one method of recruitment is not successful.
+
+Comment on the number of participants and sites involved in the research. Aside from the small number that characterizes qualitative research, how many sites and participants should you have? First, there is no specific answer to this question; the literature contains a variety of perspectives (e.g., see Creswell & Poth, 2018). From a review of many qualitative research studies, we have some rough estimates to advance. Sample size depends on the qualitative design being used (e.g., ethnography, case study). Narrative includes one or two individuals; phenomenology involves a range of 3–10; grounded theory, 20–30; ethnography examines one single culture-sharing group with numerous artifacts, interviews, and observations; and case studies include about four to five cases. We also suggest that the descriptive method might include at least 20 participants. An estimated sample size is certainly one approach to the sample size issue. Another approach is equally viable. The idea of saturation comes from grounded theory. Charmaz (2006) said that one stops collecting data when the categories (or themes) are saturated, that is, when gathering fresh data no longer sparks new insights or reveals new themes. This is when you have an adequate sample.
+
+Permissions
+
+Indicate steps taken to obtain permission from the IRB (see Chapter 4) to protect the rights of human participants. Attach, as an appendix, the approval letter from the IRB, and discuss the process involved in securing permissions. Discuss steps taken to gain entry to the setting and to secure permissions to study the participants or situation (Marshall & Rossman, 2022). It is important to gain access to research or archival sites by seeking the approval of gatekeepers, that is, individuals at the site who provide access to the site and allow or permit the research to be done. A brief proposal might need to be developed and submitted for review to gatekeepers. Bogdan and Biklen (1992) advanced topics that could be addressed in such a proposal:
+
+Why was the site chosen for study?
+
+What activities will occur at the site during the research study?
+
+Will the study be disruptive?
+
+How will the results be reported?
+
+What will the gatekeeper gain from the study?
+
+Data Collection Types
+
+In many qualitative studies, inquirers collect multiple forms of data and spend a considerable time in the natural setting gathering information. Indicate the type or types of data to be collected. The four major types are as follows.
+
+A qualitative observation is when the researcher takes field notes on the behavior and activities of individuals at the research site. In these field notes, the researcher records activities at the site in an unstructured or semi-structured way (using some prior questions that the inquirer wants to know). Qualitative observers may also engage in roles varying from a nonparticipant to a complete participant. Typically, these observations are open-ended in that the researchers ask general questions of the participants, allowing the participants to provide their views freely.
+
+In qualitative interviews, the researcher conducts face-to-face interviews or telephone interviews with participants or engages in focus group interviews with six to eight interviewees in each group. These interviews involve unstructured and generally a few open-ended questions and are intended to elicit views and opinions from the participants.
+
+During the process of research, the investigator may collect qualitative documents. These may be public documents (e.g., newspapers, minutes of meetings, official reports) or private documents (e.g., personal journals and diaries, letters, e-mails).
+
+A final category of qualitative data comprises qualitative audiovisual, social media, and digital materials. This data may take the form of photographs, art objects, videotapes, website main pages, e-mails, text messages, social media text, or forms of sound. Include creative data collection procedures that fall under visual ethnography (Pink, 2001) and living stories, metaphorical visual narratives, and digital archives (Clandinin, 2007).
+
+In a discussion about data collection forms, be specific about the types, and include arguments concerning the strengths and weaknesses of each type, as discussed in Table 9.2. Typically, in good qualitative research the researchers draw on multiple sources of qualitative data to make interpretations about a research problem.
+
+Table 9.2 Qualitative Data Collection Types, Options, Strengths, and Limitations
+
+[图片: images/015_Chapter 9 Qualitative Methods/003_10.4135_9781071817988-table16.jpg]
+
+Table 9.2 Qualitative Data Collection Types, Options, Strengths, and Limitations
+
+Data Collection Types
+
+Options Within Types
+
+Strengths of the Types
+
+Limitations of the Types
+
+Observations
+
+Complete participant—researcher conceals role
+
+Observer as participant—role of researcher is known
+
+Participant as observer— observation role secondary to participant role
+
+Complete observer— researcher observes without participating
+
+Researcher has firsthand experience with the participant.
+
+Researcher can record information as it occurs.
+
+Unusual aspects can be noticed during observation.
+
+Method is useful in exploring topics that may be uncomfortable for participants to discuss.
+
+Researcher may be intrusive.
+
+Private information may be observed that researcher cannot report.
+
+Researcher may not have good attending and observing skills.
+
+Certain participants (e.g., children) may present special problems in gaining rapport.
+
+Interviews
+
+Face-to-face—researcher conducts one-on-one, in-person interview
+
+Telephone—researcher interviews by phone
+
+Focus group—researcher interviews participants in a group
+
+E-mail internet interviews
+
+Method is useful when participants cannot be directly observed.
+
+Participants can provide historical information.
+
+Method allows researcher control over the line of questioning.
+
+Provides indirect information filtered through the views of interviewees.
+
+Provides information in a designated place rather than the natural field setting.
+
+May provide bias responses due to researcher’s presence.
+
+Not all people are equally articulate and perceptive.
+
+Documents
+
+Public documents—minutes of meetings or newspapers
+
+Private documents— journals, diaries, or letters
+
+Enables a researcher to obtain the language and words of participants.
+
+Can be accessed at a time convenient to researcher—an unobtrusive source of information.
+
+Represents data to which participants have given attention.
+
+Saves a researcher the time and expense of transcribing as written evidence.
+
+Not all documents are equally articulate and perceptive.
+
+They may be protected information unavailable to public or private access.
+
+They require the researcher to search out the information in hard-to-find places.
+
+They require transcribing or optically scanning for computer entry.
+
+Materials may be incomplete.
+
+The documents may not be authentic or accurate.
+
+Audiovisual, social media, and digital materials
+
+Photographs
+
+Videotapes
+
+Art objects
+
+Computer messages
+
+Sounds
+
+Film
+
+May be an unobtrusive method of collecting data.
+
+Provides an opportunity for participants to directly share their reality.
+
+Is creative in that it captures attention visually.
+
+May be difficult to interpret.
+
+May not be accessible publicly or privately.
+
+May be disruptive and affect responses due to the presence of an observer (e.g., photographer).
+
+Note: This table includes material adapted from Bogdan and Biklen (1992), Creswell and Poth (2018), and Merriam (1998).
+
+Include data collection types that go beyond typical observations and interviews. These forms create reader interest in a proposal and can capture useful information that observations and interviews may miss. For example, examine the compendium of types of data in Table 9.3 that can be used to stretch the imagination.
+
+Ethical Issues
+
+Comment about sensitive ethical issues during data collection (see Chapter 4). For each issue raised, discuss how the research study will address it. Qualitative research involves talking directly with participants, visiting research sites, and often conducting studies with vulnerable groups or populations. Thus, sensitivity to potential ethical issues is paramount for a qualitative inquirer. Table 4.1, mentioned earlier, illustrates many ethical issues central to qualitative research. For example, seek local cooperation when gathering information from cultural groups, pilot-test the acceptability of qualitative data collection procedures for participants, and gain permission from key leaders. Build trust with participants, and ask respectful questions. In reporting results, use bias-free and nondiscriminatory language, and give credit for ownership by the participants of the results.
+
+Table 9.3 A Compendium of Qualitative Data Collection Sources
+
+[图片: images/015_Chapter 9 Qualitative Methods/004_10.4135_9781071817988-table17.jpg]
+
+Table 9.3 A Compendium of Qualitative Data Collection Sources
+
+Observations
+
+Conduct an observation as a participant or an observer.
+
+Conduct an observation shifting position from participant to observer (and vice versa).
+
+Interviews
+
+Conduct one-on-one interviews in the same room or virtually via web-based or e-mail platforms.
+
+Conduct a focus group interview in the same room or virtually via web-based or e-mail platforms.
+
+Documents
+
+Keep a research journal during the study, or have a participant keep a journal or diary.
+
+Examine personal documents (e.g., letters, e-mails, private blogs).
+
+Analyze organizational documents (e.g., reports, strategic plans, charts, medical records).
+
+Analyze public documents (e.g., official memos, blogs, records, archival information).
+
+Examine autobiographies and biographies.
+
+Audiovisual, Social Media, and Digital Materials
+
+Have participants take photographs or record videos (i.e., photo elicitation).
+
+Use video or film in a social situation or of individuals.
+
+Examine photographs or videos.
+
+Examine websites, tweets, Facebook messages.
+
+Collect sounds (e.g., musical sounds, a child’s laughter, car horns honking).
+
+Gather phone or computer-based messages.
+
+Examine possessions or ritual objects.
+
+Source: Adapted from Creswell and Poth (2018).
+
+Data Recording Procedures
+
+Before entering the field, qualitative researchers plan their approach to data recording. The qualitative proposal or project should identify the researcher’s procedures for recording data.
+
+Observation Protocol or Guide
+
+Plan to develop and use an observation protocol for recording observations in a qualitative study. Researchers often engage in multiple observations during a qualitative study and use an observational protocol for recording information while observing. This may be a single page with a dividing line down the middle to separate descriptive notes (portraits of the participants, a reconstruction of dialogue, a description of the physical setting, accounts of events, or activities) from reflexive notes (the researcher’s thoughts, such as “speculation, feelings, problems, ideas, hunches, impressions, and prejudices” (Bogdan & Biklen, 1992, p. 121). Also written on this form might be demographic information about the time, place, and date of the field setting where the observations take place.
+
+Interview Protocol
+
+Plan to develop and use an interview protocol for asking questions and recording answers during a qualitative interview. Researchers record information from interviews by making handwritten notes, audiotaping, or videotaping. Even if an interview is taped, we recommend that researchers take notes if recording equipment fails. If audiotaping is used, researchers need to plan for the transcription of the tape. Information needs to be recorded about the time and date of the interview, where the interview took place, and the interviewer and interviewee’s names.
+
+The interview protocol should be about one to two pages in length. It should be prepared in advance of the interview and used consistently in all the interviews. There should be some spaces between the questions for the interviewer to write short notes and quotes if the audio-recording device does not work. Although no precise number can be given, the total number of questions should be somewhere between five and 10. It is helpful for the interviewer to memorize the questions so that the researcher does not appear to be simply reading the interview protocol. The interview protocol comprises several important components, including basic information about the interview, an introduction, the interview content questions with probes, and closing instructions (see also Creswell & Bàez, 2020). An example of a complete interview protocol is shown in Figure 9.2.
+
+The protocol provides the instructions to the interviewer so that useful information is not overlooked during a potentially anxious period of conducting the interview.
+
+In the introduction section, the interviewer needs to introduce themselves and discuss the purpose of the study. This purpose can be written out in advance and simply read by the interviewer. It should also contain a prompt to the interviewer to collect a signed copy of the informed consent form (alternatively, the participant may have already sent the form to the interviewer). The interviewer might also talk about the general structure of the interview (e.g., how it will begin, the number of questions, the time it should take) and ask the interviewee if they have any questions before beginning the interview. Finally, before the interview begins, the interviewer may need to define some important terms used in the interview.
+
+[图片: images/015_Chapter 9 Qualitative Methods/005_10.4135_9781071817988-fig12.jpg | A sample interview protocol or guide]
+Description
+Figure 9.2 Sample Interview Protocol or Guide
+
+Source: Adapted from Asmussen & Creswell (1995); Creswell & Bàez (2021).
+
+The content questions are the research sub-questions in the study, phrased to seem friendly to the interviewee. They essentially parse the central phenomenon into its parts—asking about different facets of the central phenomenon. Whether the final question would restate the central question is open to debate. It is hoped that the interviewee has answered all of the sub-questions and the qualitative researcher will understand how the central question has been answered.
+
+These content questions also need to include interview probes. Probes are reminders to the researcher of two types: to ask for more information or to ask for an explanation of ideas. The specific wording might be as follows (with these words inserted into the interview protocol as a reminder to the interviewer):
+
+“Tell me more” (asking for more information)
+
+“I need more detail” (asking for more information)
+
+“Could you explain your response more?” (asking for an explanation)
+
+“What does ‘not much’ mean?” (asking for an explanation)
+
+Sometimes beginning qualitative researchers are uncomfortable with a small number of questions, and they feel that their interview may be short with only a few (5–10) questions. True, some people may have little to say (or little information to provide about the central phenomenon). Still, by including probes in the interview, the researcher can expand the duration of the interview and net useful information. A final question might be, “Who should I contact next to learn more?” or “Is there any further information you would like to share that we have not covered?” These follow-up questions essentially net closure on the interview and show the researcher’s desire to learn more about the interview topic.
+
+In closing instructions, it is important to thank the interviewee for their time and respond to any final questions. Assure the interviewee of the confidentiality of the interview. Ask if you can follow up with another interview if one is needed to clarify certain points. One question that may surface is how participants will learn about the results of your project. It is important to think through and provide a response to this question because it involves your time and resources. A convenient way to provide information to interviewees is to offer to send them an abstract of the final study. This brief communication of results is efficient and convenient for most researchers.
+
+Data Analysis Procedures
+
+A methods discussion in a qualitative proposal or study needs also to specify the steps in analyzing the forms of qualitative data. The intent is to make sense out of text and image data. It involves segmenting and taking apart the data (like peeling back the layers of an onion) and putting it back together. The discussion in your study about qualitative data analysis might begin with several general points about the overall process:
+
+Simultaneous Procedures
+
+Data analysis in qualitative research will proceed hand in hand with other parts of developing the qualitative study, namely, the data collection and the write-up of findings. While interviews are going on, researchers may be analyzing an interview collected earlier, writing memos that may ultimately be included as a narrative in the final report, and organizing the structure of the study. This process is unlike quantitative research in which the investigator collects the data, then analyzes the information, and finally writes the report.
+
+Winnowing the Data
+
+Because text and image data are so dense and rich, all of the information cannot be used in a qualitative study. Thus, in the analysis of the data, researchers need to “winnow” the data (Guest et al., 2012), focusing on some of the data and disregarding other parts of it. This process, too, is different from quantitative research in which researchers go to great lengths to preserve all the data and reconstruct or replace missing data. In qualitative research, the impact of this process is to aggregate data into a small number of themes, something between five and seven themes (Creswell & Poth, 2018).
+
+Using Qualitative Computer Software Programs
+
+Also specify whether you will use a qualitative computer data analysis program to assist you in analyzing the data (or whether you will hand code the data). Hand coding is a laborious and time-consuming process, even for data from a few individuals. Thus, qualitative software programs have become popular. They help researchers organize, sort, and search for information in text or image databases (see the Guest et al., 2012, chapter on qualitative data analysis software). Several excellent qualitative computer software programs are available, and they have similar features with good tutorials and demonstration files. In qualitative data analysis, they can incorporate both text and image (e.g., photographs) data, store and organize data, search text associated with specific codes, interrelate codes for making queries of the relationship among codes, and import and export of qualitative data to quantitative programs, such as spreadsheets or statistical programs. The basic idea behind these programs is that using the computer efficiently stores and locates qualitative data. Although the researcher still needs to go through each line of text (as in hand coding by going through transcriptions) and assign codes, this computer process may be faster and more efficient than hand coding. Also, in large databases, the researcher can quickly locate all passages (or text segments) coded the same and determine whether participants respond to a codes idea in similar or different ways. Beyond this, the computer program can facilitate relating different codes (e.g., How do males and females—the first codes of gender—differ in their attitudes to smoking—a second code?). These are a few features of the software programs that make them a logical choice for qualitative data analysis over hand coding. As with any software program, qualitative software programs require time and skill to learn and employ effectively, although books for learning the programs are widely available. Software programs do not analyze the data; it is the researcher’s responsibility to conduct the analysis. Demos are available for popular qualitative data analysis software programs, such as MAXqda® (www.maxqda.com/), Atlas.ti® (www.atlasti.com), Provalis and QDA Miner (https://provalisresearch.com/), Dedoose™ (www.dedoose.com/), and QSR NVivo® (www.qsrinternational.com/).
+
+Steps in the Analytic Process
+
+As a research tip, we urge researchers to look at qualitative data analysis as a process that requires sequential steps to be followed, from the specific to the general, and involves multiple levels of analysis. Figure 9.3 presents a diagram of this process.
+
+Step 1. Organizing and Preparing the Data for Analysis
+
+This involves transcribing interviews, optically scanning material, typing up field notes, cataloging all the visual material, and sorting and arranging the data into different types depending on the sources of information.
+
+Step 2. Reading Through All the Data
+
+This step provides a general sense of the information and an opportunity to reflect on its overall meaning. What general ideas are participants saying? What is the tone of the ideas? What is the impression of the overall depth, credibility, and use of the information? Sometimes qualitative researchers write notes in margins of transcripts or observational field notes, or start recording general thoughts about the data at this stage. For visual data, a sketchbook of ideas can begin to take shape.
+
+Step 3. Coding the Data
+
+Coding is the process of organizing the data by bracketing chunks (or text or image segments) and writing a word representing a category in the margins (Rossman & Rallis, 2012). It involves taking text data or pictures gathered during data collection, segmenting sentences (or paragraphs) or images into categories, and labeling those categories with a term, often based in the actual language of the participant (called an in vivo term). More will be discussed on this important step later in this chapter.
+
+Step 4. Identifying Themes
+
+Use the coding process to generate a description of the setting or people and categories or themes for analysis. Use the coding to generate a small number of themes or categories—perhaps five to seven themes for a research study. The themes could be (a) a description of the setting or individual or (b) themes learned about the problem. These themes are the ones that appear as major findings in qualitative studies and are often used as headings in the findings sections of studies (or in a section of a dissertation or thesis). They should display multiple perspectives from individuals and include diverse quotations and specific evidence.
+
+[图片: images/015_Chapter 9 Qualitative Methods/006_10.4135_9781071817988-fig13.jpg | A flowchart of the seven steps in the qualitative data analysis process.]
+Description
+Figure 9.3 Steps in the Qualitative Data Analysis Process
+
+Step 5. Developing a Story Line Interpretation
+
+Qualitative researchers can do much with themes beyond identifying the themes during the coding process to build additional layers of complex analysis. For example, researchers interconnect themes into a story line to present a chronology of development about the problem. The story line could also focus on single individuals or groups of individuals. Story lines often appear in a discussion section in a journal article report.
+
+Step 6. Further Analyzing the Data Using an Analytic Framework
+
+Steps 1–5 essentially provide a code-to-theme type of qualitative analysis, a descriptive methods analysis discussed earlier. Researchers can use the code-to-theme method but then further analyze their data using an interpretive framework such as narrative research, grounded theory, ethnography, case study, or other analytic frameworks available in the literature.
+
+Step 7. Representing and Interpreting the Data
+
+Advance how the description and themes will be represented in the qualitative narrative. The most popular approach is to use a narrative passage to convey the findings of the analysis. This might be a discussion that mentions a chronology of events, a detailed discussion of several themes (complete with subthemes, specific illustrations, multiple perspectives from individuals, and quotations) or a discussion with interconnecting themes. Many qualitative researchers also use visuals, figures, or tables as adjuncts to the discussions. They present a process model (as in grounded theory), advance a drawing of the specific research site (as in ethnography), or convey descriptive information about each participant in a table (as in case studies and ethnographies).
+
+Coding the Data
+
+Step 3 in the analytical process deserves special mention because it is a core component of qualitative data analysis. A framework for conducting coding is shown in Table 9.4. Tesch (1990) provided the eight steps typically used in forming codes and themes (categories). In addition, give some attention to the types of codes to develop when analyzing a text transcript or a picture (or other type of visual object).
+
+Table 9.4 Tesch’s Eight Steps in the Coding Process
+
+[图片: images/015_Chapter 9 Qualitative Methods/007_10.4135_9781071817988-table18.jpg]
+
+Table 9.4 Tesch’s Eight Steps in the Coding Process
+
+Get a sense of the whole. Read all the transcriptions carefully. Perhaps jot down some ideas as they come to mind as you read.
+
+Pick one document (e.g., one interview)—the most interesting one, the shortest, the one on the top of the pile. Go through it, asking yourself, “What is this about?” Do not think about the substance of the information but its underlying meaning. Write thoughts in the margin.
+
+When you have completed this task for several participants, make a list of all topics. Cluster together similar topics. Form these topics into columns, perhaps arrayed as major, unique, and leftover topics.
+
+Now take this list and go back to your data. Abbreviate the topics as codes, and write the codes next to the appropriate segments of the text. Try this preliminary organizing scheme to see if new categories and codes emerge.
+
+Find the most descriptive wording for your topics, and turn them into categories. Look for ways of reducing your total list of categories by grouping topics that relate to each other. Perhaps draw lines between your categories to show interrelationships.
+
+Make a final decision on the abbreviation for each category, and alphabetize these codes.
+
+Assemble the data material belonging to each category in one place, and perform a preliminary analysis.
+
+If necessary, recode your existing data.
+
+Beyond this general coding process, we tend to think about codes as falling into expected, surprising, and unusual codes.
+
+Expected Codes
+
+Based on the literature and common sense, code on topics that readers would expect to find. When studying bullying in schools, we might code some segments as “attitudes toward oneself.” This code would be expected in a study about bullying in schools.
+
+Surprising Codes
+
+Code on findings that are surprising and could not be anticipated before the study began. In a study of leadership in nonprofit organizations, we might learn about the impact of geo-warming on the building of the organization and how this shapes the location and proximity of individuals to one another. Without going out to the building before the study begins and looking at it, we would not necessarily think about the codes of geo-warming and location of offices in a study of leadership.
+
+Codes of Unusual or Conceptual Interest
+
+Code unusual ideas and those that are, in and of themselves, of conceptual interest to readers. We used one of the codes we discovered in our qualitative study of a campus’s response to a gunman (Asmussen & Creswell, 1995). We did not anticipate the code “retriggering” to emerge in our study, and it surfaced from the perspective of a psychologist called to the campus to assess the response. The fact that individuals were reminded of past traumatic incidents—retriggering—prompted us to use the term as an important code and ultimately a theme in our analysis.
+
+Predetermined Codes
+
+Another issue about coding is whether the researcher should (a) develop codes only from emerging information collected from participants, (b) use predetermined codes and then fit the data to them, or (c) use some combination of emerging and predetermined codes. The traditional approach in the social sciences allows the codes to emerge during the data analysis. In the health sciences, a popular approach is to use predetermined codes based on the theory being examined.
+
+The researchers might develop a qualitative codebook, a table containing a list of predetermined codes that researchers use to code the data. Guest and colleagues (2012) discussed and illustrated the use of codebooks in qualitative research. The intent of a codebook is to provide definitions for codes and to maximize coherence among codes—especially when multiple codes are involved. This codebook would provide a list of codes, a code label for each code, a brief definition of it, a full definition of it, information about when to use the code and when not to use it, and an example of a quote illustrating the code. This codebook can evolve and change during a study based on close analysis of the data when the researcher is not starting from an emerging code perspective. For researchers who have a distinct theory they want to test in their projects, we recommend developing a preliminary codebook for coding the data from the theory and then permitting the codebook to develop and change based on the information learned during the data analysis.
+
+Visual Images as Codes
+
+As mentioned earlier, visual data are used frequently in qualitative research. These data sources represent images drawn from photographs, videos, film, and drawings (Creswell & Poth, 2018). Participants might be handed a camera and asked to take pictures of what they see. Alternatively, they may be asked to draw a picture of the phenomenon under study or reflect on a favorite picture or object that would elicit responses. Challenges in using visual images do arise in qualitative research. Images may reflect trends of the culture or society rather than the perspectives of a single individual. It is difficult to respect anonymity when images of individuals and places represent qualitative data. Permissions are needed to respect the privacy of individuals providing visual data.
+
+Interpretation
+
+Interpretation in qualitative research involves several procedures: summarizing the overall findings, comparing the findings to the literature, discussing a personal view of the findings, and stating limitations and future research. In terms of overall findings, the question “What were the lessons learned?” captures the essence of this idea (Lincoln & Guba, 1985). These lessons could be the researcher’s interpretation couched in the understanding that the inquirer brings to the study a personal culture, history, and experiences.
+
+It could also be a meaning derived from comparing the findings with information gleaned from the literature or theories. In this way, the authors suggest that the findings confirm past information or diverge from it. It can also suggest new questions that need to be asked—questions raised by the data and analysis that the inquirer had not foreseen earlier in the study. Wolcott (1994) said that ethnography can end a study by stating further questions. The questioning approach is also used in transformative approaches to qualitative research.
+
+Moreover, qualitative researchers can form interpretations that call for action agendas for reform and change when using a theoretical lens. Researchers might describe how the narrative outcome compares with theories and the general literature on the topic. Researchers also discuss the literature at the end of the study (see Chapter 2). Thus, interpretation in qualitative research can take many forms; be adapted for different types of designs; and be flexible to convey personal, research-based, and action meanings.
+
+Finally, part of interpretation involves suggesting limitations in a project and advancing future research directions. Limitations often attach to the methods of a study (e.g., inadequate purposeful sampling, difficulty in recruitment), and they represent weaknesses in the research that the author acknowledges so that future studies will not suffer from the same problems. Suggestions for future proposed research themes that studies might address to advance the literature, remedy some of the weaknesses in the present study, or advance new leads or directions that can point to useful applications or knowledge.
+
+Validity and Reliability
+
+Although validation of findings occurs throughout the steps in the research process, this discussion focuses on how the researcher writes a passage in a proposal or study on the procedures to be undertaken to validate the qualitative proposed study’s findings. Researchers need to convey the steps they will take in their studies to check for the accuracy and credibility of their findings. Validity does not carry the same connotations in qualitative research as quantitative research; nor is it a companion to reliability (examining stability) or generalizability (the external validity of applying results to new settings, people, or samples), topics discussed in Chapter 8. Qualitative validity means that the researcher checks for the accuracy of the findings by employing certain procedures. In contrast, qualitative reliability indicates that the researcher’s approach is consistent across different researchers and among different projects (Gibbs, 2007).
+
+Defining Qualitative Validity
+
+Validity is one of the strengths of qualitative research and is based on determining whether the findings are accurate from the researcher’s standpoint, the participant, or the readers of an account (Creswell & Miller, 2000). Terms abound in the qualitative literature that addresses validity, such as trustworthiness, authenticity, and credibility (Creswell & Miller, 2000), and it is a much-discussed topic (Lincoln et al., 2011). A procedural perspective that we recommend for research proposals is to identify and discuss one or more strategies available to check the accuracy of the findings.
+
+Validity Strategies
+
+Researchers should actively incorporate validity strategies into their proposals. We recommend the use of multiple approaches, which should enhance the researcher’s ability to assess the accuracy of findings and convince readers of the accuracy. There are eight primary strategies, organized from those used most frequently and easiest to implement to those used occasionally and more difficult to implement:
+
+Triangulate different data sources by examining evidence from the sources and using it to build a coherent evidence for themes. If themes are established based on converging several sources of data or perspectives from participants, this process adds to the study’s validity.
+
+Use member checking to determine the accuracy of the qualitative findings by taking the final report or specific descriptions or themes back to participants and determining whether these participants feel that they are accurate. This does not mean taking back the raw transcripts to check for accuracy; instead, the researcher takes back parts of the polished or semi-polished product, such as the major findings, the themes, the case analysis, the grounded theory, the cultural description, and so forth. This procedure can involve conducting a follow-up focus group interview with participants in the study and providing an opportunity for them to comment on the findings.
+
+Use a rich, thick description to convey the findings. This description may transport readers to the setting and give the discussion an element of shared experiences. When qualitative researchers provide detailed descriptions of the setting, for example, or offer many perspectives about a theme, the results become more realistic and richer. This procedure can add to the validity of the findings.
+
+Clarify the bias the researcher brings to the study. This self-reflection creates an open and honest narrative that will resonate well with readers. Reflexivity has already been mentioned as a core characteristic of qualitative research. Good qualitative research contains comments by the researchers about how their interpretation of the findings is shaped by their background, such as their gender, culture, history, and socioeconomic origin.
+
+Present negative or discrepant information that runs counter to the themes. Because real life comprises different perspectives that do not always coalesce, discussing contrary information adds to an account’s credibility. A researcher can accomplish this by discussing evidence about a theme. Most evidence will build a case for the theme. Researchers can also present information that contradicts the general perspective of the theme. The account becomes more realistic and more valid by presenting this contradictory evidence.
+
+Spend prolonged time in the field. The more experience that a researcher has with participants in their settings, the more accurate or valid will be the findings. In this way, the researcher develops an in-depth understanding of the phenomenon under study and can convey details about the site and the people, which lends credibility to the narrative account.
+
+Use peer debriefing to enhance the accuracy of the account. This process involves locating a person (a peer debriefer) who reviews and asks questions about the qualitative study so that the account will resonate with people other than the researcher. This strategy—involving an interpretation beyond the researcher and reported by another person—adds validity to an account.
+
+Use an external auditor to review the entire project. As distinct from a peer debriefer, this auditor is not familiar with the researcher or the project and can provide an objective assessment of the project throughout the research process or after the study. The role is similar to that of a fiscal auditor, and specific questions exist that auditors might ask (Lincoln & Guba, 1985). Having an independent investigator look over many aspects of the project (e.g., the accuracy of transcription, the relationship between the research questions and the data, and the level of data analysis from the raw data through interpretation) enhances the overall validity of a qualitative study.
+
+Reliability Strategies
+
+How do qualitative researchers check to determine if their approaches are reliable (i.e., consistent or stable)? Yin (2009) suggested that qualitative researchers need to document the procedures of their case studies and to document as many of the steps of the procedures as possible. He also recommended setting up a detailed case study protocol and database so that others can follow the procedures. Gibbs (2007) suggested several qualitative reliability procedures:
+
+Check transcripts to ensure they do not contain obvious mistakes made during transcription.
+
+Make sure that there is no change in the definition of codes, a shift in the meaning of the codes during the coding process. This can be accomplished by continually comparing data with the codes and by writing memos about the codes and their definitions (see the discussion on a qualitative codebook).
+
+For team research, coordinate the communication among the coders by regular documented meetings and by sharing the analysis.
+
+Cross-check codes developed by different researchers by comparing results that are derived independently.
+
+Intercoder Agreement
+
+Proposal and project writers need to include several procedures as evidence that they will have consistent results in their proposed study. We recommend that several procedures be mentioned in a proposal and that single researchers find another person who can cross-check their codes for intercoder agreement (or cross-checking) (also see Guest et al., 2012; Creswell & Bàez, 2020). Such an intercoder agreement might be based on whether two or more coders agree on codes used for the same passages in the text. It is not that they code the same passage of text; rather, they determine whether another coder would code it with the same or a similar code. Reliability subprograms in qualitative computer software packages can then be used to determine the level of consistency of coding. Miles and Huberman (1994) recommended that the consistency of the coding be in agreement at least 80% of the time for good qualitative reliability.
+
+Qualitative Generalization
+
+Qualitative generalization is a term used in a limited way in qualitative research. This form of inquiry intends not to generalize findings to individuals, sites, or places outside of those under study (see Gibbs, 2007, for his cautionary note about qualitative generalizability). The value of qualitative research lies in the detailed description and themes developed in the context of a specific site. Particularity rather than generalizability (Greene & Caracelli, 1997) is the hallmark of good qualitative research. However, there are a few discussions in the qualitative literature about generalizability, especially as applied to case study research in which the inquirer studies several cases. Yin (2009), for example, felt that qualitative case study results can be generalized to some broader theory. When qualitative researchers study additional cases and apply findings to the new cases, the generalization occurs. It is the same as the replication logic used in experimental research. However, to repeat a case study’s findings in a new case setting requires good documentation of qualitative procedures, such as a protocol for the problem and the development of a thorough case study database.
+
+Writing the Qualitative Report
+
+A plan for qualitative methods should end with some comments about the narrative that will emerge from the data analysis. Numerous varieties of narratives exist, and examples from scholarly journals illustrate these models. In a plan for a study, consider advancing several points about the narrative:
+
+The basic procedure in reporting the results of a qualitative study is to develop descriptions and themes from the data (see Figure 9.3) and to present these descriptions and themes that convey multiple perspectives from participants and detailed descriptions of the setting or individuals. These results may also provide a chronological narrative of an individual’s life (narrative research), a detailed description of their experiences (phenomenology), a theory generated from the data (grounded theory), a detailed portrait of a culture-sharing group (ethnography), and an in-depth analysis of one or more cases (case study) or themes (descriptive method).
+
+Given these different strategies, the findings and interpretation sections of a plan for a study might discuss how the sections will be presented: as objective accounts, fieldwork experiences (Van Maanen, 1988), a chronology, a process model, an extended story, an analysis by cases or across cases, or a detailed descriptive portrait.
+
+Writing Strategies
+
+At the specific level, there might be some inclusion in the proposal or project about writing strategies that will be used to convey the qualitative research. These might include the following:
+
+Quotes: From short to long embedded passages
+
+Dialogue reflecting the culture of participants, their language, a sensitivity to their culture or ethnicity, and the interweaving of words from participants and the author’s interpretations
+
+Varied narrative forms, such as matrices, comparison tables, and diagrams
+
+First-person “I” or collective “we” pronouns in the narration
+
+Metaphors and analogies (see, e.g., Richardson, 1990)
+
+Narrative forms associated with specific qualitative strategies (e.g., description in case studies and ethnographies, a detailed story in narrative research)
+
+A Sample Qualitative Method Section
+
+The following is a complete qualitative method section in a proposal by Miller (1992). It contains most of the topics for a good qualitative method section addressed in this chapter. Miller’s project was an ethnographic study of the first-year experiences of the president of a 4-year college. As we present this discussion, we refer to the sections addressed in this chapter and highlight them in boldfaced type. Also, we have maintained Miller’s use of the term informant, although today, researchers use the more appropriate term, participant. Here is the example:
+
+The Qualitative Research Paradigm
+
+The qualitative research paradigm has its roots in cultural anthropology and American sociology (Kirk & Miller, 1986). It has only recently been adopted by educational researchers (Borg & Gall, 1989). The intent of qualitative research is to understand a particular social situation, event, role, group, or interaction (Locke et al., 1987). It is largely an investigative process where the researcher gradually makes sense of a social phenomenon by contrasting, comparing, replicating, cataloguing, and classifying the object of study (Miles & Huberman, 1984). Marshall and Rossman (1989) have suggested that this entails immersion in the everyday life of the setting chosen for the study; the researcher enters the informants’ world and, through ongoing interaction, seeks the informants’ perspectives and meanings. [Qualitative assumptions are mentioned.]
+
+Scholars contend that qualitative research can be distinguished from quantitative methodology by numerous unique characteristics that are inherent in the design. The following is a synthesis of commonly articulated assumptions regarding characteristics presented by various researchers.
+
+Qualitative research occurs in natural settings, where human behavior and events occur.
+
+Qualitative research is based on assumptions that are different from quantitative designs. Theory or hypotheses are not established a priori.
+
+The researcher is the primary instrument in data collection rather than some inanimate mechanism (Eisner, 1991; Fraenkel & Wallen, 1990; Lincoln & Guba, 1985; Merriam, 1988).
+
+The data that emerge from a qualitative study are descriptive. That is, data are reported in words (primarily the participant’s words) or pictures rather than in numbers (Fraenkel & Wallen, 1990; Locke et al., 1987; Marshall & Rossman, 2022; Merriam, 1988).
+
+The focus of qualitative research is on participants’ perceptions and experiences and the way they make sense of their lives (Fraenkel & Wallen, 1990; Locke et al., 1987; Merriam, 1988). The attempt is therefore to understand not one but multiple realities (Lincoln & Guba, 1985).
+
+Qualitative research focuses on the process that is occurring as well as the product or outcome. Researchers are particularly interested in understanding how things occur (Fraenkel & Wallen, 1990; Merriam, 1988).
+
+Idiographic interpretation is utilized. In other words, attention is paid to particulars, and data is interpreted in regard to the particulars of a case rather than generalizations.
+
+Qualitative research is an emergent design in its negotiated outcomes. Meanings and interpretations are negotiated with human data sources because it is the subjects’ realities that the researcher attempts to reconstruct (Lincoln & Guba, 1985; Merriam, 1988).
+
+This research tradition relies on the utilization of tacit knowledge (intuitive and felt knowledge) because often the nuances of the multiple realities can be appreciated most in this way (Lincoln & Guba, 1985). Therefore, data are not quantifiable in the traditional sense of the word.
+
+Objectivity and truthfulness are critical to both research traditions. However, the criteria for judging a qualitative study differ from quantitative research. First and foremost, the researcher seeks believability based on coherence, insight and instrumental utility (Eisner, 1991), and trustworthiness (Lincoln & Guba, 1985) through a process of verification rather than through traditional validity and reliability measures. [Qualitative characteristics are mentioned.]
+
+The Ethnographic Research Design
+
+This study will utilize the ethnographic research tradition. This design emerged from the field of anthropology, primarily from the contributions of Bronislaw Malinowski, Robert Park, and Franz Boas (Jacob, 1987; Kirk & Miller, 1986). The intent of ethnographic research is to obtain a holistic picture of the subject of study with emphasis on portraying the everyday experiences of individuals by observing and interviewing them and relevant others (Fraenkel & Wallen, 1990). The ethnographic study includes in-depth interviewing and continual and ongoing participant observation of a situation (Jacob, 1987) and in attempting to capture the whole picture reveals how people describe and structure their world (Fraenkel & Wallen, 1990). [The author uses the ethnographic approach.]
+
+The Researcher’s Role
+
+Particularly in qualitative research, the role of the researcher as the primary data collection instrument necessitates the identification of personal values, assumptions, and biases at the outset of the study. The investigator’s contribution to the research setting can be useful and positive rather than detrimental (Locke et al., 1987). My perceptions of higher education and the college presidency have been shaped by my personal experiences. From August 1980 to May 1990, I served as a college administrator on private campuses of 600 to 5,000 students. Most recently (1987–1990), I served as the dean for student life at a small college in the Midwest. As a member of the president’s cabinet, I was involved with all top-level administrative cabinet activities and decisions and worked closely with the faculty, cabinet officers, president, and board of trustees. In addition to reporting to the president, I worked with him through his first year in office. I believe this understanding of the context and role enhances my awareness, knowledge, and sensitivity to many of the challenges, decisions, and issues encountered as a first-year president and will assist me in working with the informant in this study. I bring knowledge of both the structure of higher education and of the role of the college presidency. Particular attention will be paid to the role of the new president in initiating change, relationship building, decision-making, and providing leadership and vision.
+
+Due to previous experiences working closely with a new college president, I bring certain biases to this study. Although every effort will be made to ensure objectivity, these biases may shape the way I view and understand the data I collect and the way I interpret my experiences. I commence this study with the perspective that the college presidency is a diverse and often difficult position. Although expectations are immense, I question how much power the president has to initiate change and provide leadership and vision. I view the first year as critical: filled with adjustments, frustrations, unanticipated surprises, and challenges. [Author reflects on her role in the study.]
+
+Bounding the Study
+
+Setting
+
+This study will be conducted on the campus of a state college in the Midwest. The college is situated in a rural Midwestern community. The institution’s 1,700 students nearly triple the town’s population of 1,000 when classes are in session. The institution awards associate, bachelor, and master’s degrees in 51 majors.
+
+Actors
+
+The informant in this study is the new president of a state college in the Midwest. The primary informant in this study is the president. However, I will be observing him in the context of administrative cabinet meetings. The president’s cabinet includes three vice presidents (Academic Affairs, Administration, Student Affairs) and two deans (Graduate Studies and Continuing Education).
+
+Events
+
+Using ethnographic research methodology, the focus of this study will be the everyday experiences and events of the new college president and the perceptions and meaning attached to those experiences as expressed by the informant. This includes the assimilation of surprising events or information and making sense of critical events and issues that arise.
+
+Processes
+
+Particular attention will be paid to the role of the new president in initiating change, relationship building, decision-making, and providing leadership and vision. [Author mentions data collection boundaries.]
+
+Ethical Considerations
+
+Most authors who discuss qualitative research design address the importance of ethical considerations (Locke et al., 1982; Marshall & Rossman, 2022; Merriam, 1988; Spradley, 1980). First and foremost, the researcher has an obligation to respect the rights, needs, values, and desires of the informant(s). To an extent, ethnographic research is always obtrusive. Participant observation invades the life of the informant (Spradley, 1980), and sensitive information is frequently revealed. This is of particular concern in this study where the informant’s position and institution are highly visible. The following safeguards will be employed to protect the informant’s rights: (a) the research objectives will be articulated verbally and in writing so that they are clearly understood by the informant (including a description of how data will be used); (b) written permission to proceed with the study as articulated will be received from the informant; (c) a research exemption form will be filed with the IRB (Appendixes B1 and B2); (d) the informant will be informed of all data collection devices and activities; (e) verbatim transcriptions and written interpretations and reports will be made available to the informant; (f) the informant’s rights, interests, and wishes will be considered first when choices are made regarding reporting the data; and (g) the final decision regarding informant anonymity will rest with the informant. [Author addresses ethical issues and IRB review.]
+
+Data Collection Strategies
+
+Data will be collected from February through May 1992. This will include a minimum of bi-monthly, 45-minute recorded interviews with the informant (initial interview questions, Appendix C), bi-monthly 2-hour observations of administrative cabinet meetings, bi-monthly 2-hour observations of daily activities, and bi-monthly analysis of the president’s calendar and documents (meeting minutes, memos, publications). In addition, the informant has agreed to record impressions of his experiences, thoughts, and feelings in a taped diary (guidelines for recorded reflection, Appendix D). Two follow-up interviews will be scheduled for the end of May 1992 (see Appendix E for the proposed timeline and activity schedule). [The author proposed to use face-to-face interviews, participate as observer, and obtain private documents.]
+
+To assist in the data collection phase, I will utilize a field log, providing a detailed account of ways I plan to spend my time when I am on site and in the transcription and analysis phase (also comparing this record to how time is actually spent). I intend to record details related to my observations in a field notebook and keep a field diary to chronicle my own thinking, feeling, experiences, and perceptions throughout the research process. [The author records descriptive and reflective information.]
+
+Data Analysis Procedures
+
+Merriam (1988) and Marshall and Rossman (1989) contend that data collection and data analysis must be a simultaneous process in qualitative research. Schatzman and Strauss (1973) have claimed that qualitative data analysis primarily entails classifying things, persons, and events and the properties that characterize them. Typically throughout the data analysis process ethnographers index or code their data using as many categories as possible (Jacob, 1987). They seek to identify and describe patterns and themes from the perspective of the participant(s), then attempt to understand and explain these patterns and themes (Agar, 1980). During data analysis, the data will be organized categorically and chronologically, reviewed repeatedly, and continually coded. A list of major ideas that surface will be chronicled (as suggested by Merriam, 1988). Taped interviews and the participant’s taped diary will be transcribed verbatim. Field notes and diary entries will be regularly reviewed. [Author describes steps in data analysis.]
+
+In addition, the data analysis process will be aided by the use of a qualitative data analysis computer program called HyperQual. Raymond Padilla (Arizona State University) designed HyperQual in 1987 for use with the Macintosh computer. HyperQual utilizes HyperCard software and facilitates the recording and analysis of textual and graphic data. Special stacks are designated to hold and organize data. Using HyperQual the researcher can directly “enter field data, including interview data, observations, researcher’s memos, and illustrations . . . (and) tag (or code) all or part of the source data so that chunks of data can be pulled out and then be reassembled in a new and illuminating configuration” (Padilla, 1989, pp. 69–70). Meaningful data chunks can be identified, retrieved, isolated, grouped, and regrouped for analysis. Categories or code names can be entered initially or at a later date. Codes can be added, changed, or deleted with HyperQual editor, and text can be searched for key categories, themes, words, or phrases. [Author mentions the proposed use of computer software for data analysis.]
+
+Verification
+
+In ensuring internal validity, the following strategies will be employed:
+
+Triangulation of data—Data will be collected through multiple sources to include interviews, observations, and document analysis.
+
+Member checking—The informant will serve as a check throughout the analysis process. An ongoing dialogue regarding my interpretations of the informant’s reality and meanings will ensure the truth value of the data.
+
+Long terms and repeated observations at the research site—Regular and repeated observations of similar phenomena and settings will occur on site over a 4-month period of time.
+
+Peer examination—a doctoral student and graduate assistant in the Educational Psychology Department will serve as a peer examiner.
+
+Participatory modes of research—The informant will be involved in most phases of this study, from the design of the project to checking interpretations and conclusions.
+
+Clarification of researcher bias—At the outset of this study researcher bias will be articulated in writing in the dissertation proposal under the heading “The Researcher’s Role.”
+
+The primary strategy utilized in this project to ensure external validity will be the provision of rich, thick, detailed descriptions so that anyone interested in transferability will have a solid framework for comparison (Merriam, 1988). Three techniques to ensure reliability will be employed in this study. First, the researcher will provide a detailed account of the focus of the study, the researcher’s role, the informant’s position and basis for selection, and the context from which data will be gathered (LeCompte & Goetz, 1984). Second, triangulation or multiple methods of data collection and analysis will be used, which strengthens reliability as well as internal validity (Merriam, 1988). Finally, data collection and analysis strategies will be reported in detail to provide a clear and accurate picture of the methods used in this study. All phases of this project will be subject to scrutiny by an external auditor who is experienced in qualitative research methods. [Author identifies strategies of validity to be used in the study.]
+
+Reporting the Findings
+
+Lofland (1974) has suggested that although data collection and analysis strategies are similar across qualitative methods, the way the findings are reported is diverse. Miles and Huberman (1984) have addressed the importance of creating a data display and suggest that narrative text has been the most frequent form of display for qualitative data. This is a naturalistic study. Therefore, the results will be presented in descriptive, narrative form rather than as a scientific report. Thick description will be the vehicle for communicating a holistic picture of the experiences of a new college president. The final project will be a construction of the informant’s experiences and the meanings he attaches to them. This will allow readers to vicariously experience the challenges he encounters and provide a lens through which readers can view the subject’s world. [Outcomes of the study are mentioned.]
+
+Summary
+
+This chapter explores the components of developing and writing a qualitative method section for a proposal. The chapter advances a general guideline for procedures. This guideline includes a discussion about the characteristics of qualitative research if audiences are not familiar with this approach to research. These characteristics are that data are based on participants’ meanings, take place in the natural setting, rely on the researcher as the instrument for data collection, employ multiple methods of data collection, use inductive and deductive thinking, include researcher reflexivity, and are complex. This guideline recommends using a code-to-theme descriptive method and then possibly adding on an analytic framework, such as the study of individuals (narrative, phenomenology); the exploration of processes, activities, and events (case study, grounded theory); or the examination of broad culture-sharing behavior of individuals or groups (ethnography). The choice of design needs to be presented and defended.
+
+Further, the proposal or study needs to address the role of the researcher: past experiences, history, culture, and how this potentially shapes interpretations of the data. It also includes discussing personal connections to the site, steps to gain entry, and anticipating sensitive ethical issues. Discussion of data collection should advance the purposeful sampling approach and the forms of data to be collected (i.e., observations, interviews, documents, and audiovisual, media, and digital materials). It is useful to also indicate the use of data recording protocols. Data analysis is an ongoing process during research. It involves analyzing participant information, and researchers typically employ general analysis steps and those steps found within a specific design or approach. More general steps include organizing and preparing the data; an initial reading through the information; coding the data; developing from the codes a description and thematic analysis; using computer programs; representing the findings in tables, graphs, and figures; and interpreting the findings. These interpretations involve stating lessons learned, comparing the findings with past literature and theory, raising questions, offering personal perspective, stating limitations, and advancing an agenda for future research. The project should also contain a section on the expected outcomes for the study. Finally, an additional important step in planning a proposal is to mention the strategies that will be used to validate the accuracy of the findings and demonstrate the reliability of codes and themes.
+
+Key Terms
+
+Analytic framework 196
+
+Audiovisual, social media, and digital materials 200
+
+Coding 207
+
+Gatekeepers 199
+
+Intercoder agreement 215
+
+Interpretation in qualitative research 212
+
+Interview protocol 203
+
+Memos 195
+
+Observation protocol 203
+
+Probes 205
+
+Purposefully sample 198
+
+Qualitative codebook 211
+
+Qualitative computer software programs 206
+
+Qualitative documents 199
+
+Qualitative generalization 215
+
+Qualitative interviews 199
+
+Qualitative observation 199
+
+Qualitative reliability 213
+
+Qualitative validity 213
+
+Reflexivity 194
+
+Saturation 198
+
+Story line 209
+
+Validity strategies 213
+
+Writing Exercises
+
+Defend why “reflexivity” is an essential component in a qualitative study.
+
+What is the difference between a “descriptive method” and an “analytic method”?
+
+Define “purposeful sampling” in qualitative research. Why is it important?
+
+How are codes formed? Discuss the process.
+
+Do personal opinions have a role in interpreting findings in a qualitative study? Discuss.
+
+Identify two validation strategies that you might use in a qualitative project. Define each strategy.
+
+Additional Readings
+
+Creswell, J. W., & Bàez, J. C. (2020). The 30 essential skills for the qualitative researcher (2nd ed.). SAGE.
+
+Consider reading this book both as an introduction to qualitative research and the specific applications of qualitative research in a project. It includes steps for conducting many of the most important qualitative inquiry procedures. It discusses the essential nature of qualitative research, specific procedures for conducting an observation and interview, the detailed procedures of data analysis, the uses of computer programs for assisting in qualitative data analysis, validity strategies, and intercoder agreement checks.
+
+Creswell, J. W., & Poth, C. N. (2018). Qualitative inquiry and research design: Choosing among five approaches (4th ed.). SAGE.
+
+This book goes beyond an introduction and covers five analytic methods. The basic premise of this book is that all qualitative research is not the same, and over time, variations in procedures of conducting qualitative inquiry have evolved. This book discusses five analytic approaches to qualitative research: (a) narrative research, (b) phenomenology, (c) grounded theory, (d) ethnography, and (e) case studies. A process approach is taken throughout the book in which the reader proceeds from broad philosophical assumptions and on through the steps of conducting a qualitative study (e.g., developing research questions, collecting and analyzing data, etc.). The book also presents comparisons among the five approaches so that the qualitative researcher can make an informed choice about what strategy is best for a study.
+
+Guest, G., MacQueen, K. M., & Namey, E. E. (2012). Applied thematic analysis. SAGE.
+
+Individuals conducting qualitative research need to master the procedures involved in creating codes and then aggregating them into themes. This book provides a practical study of themes and data analysis in qualitative research. It contains detailed passages about the development of codes, codebooks, themes, and approaches to enhancing validity and reliability (including intercoder agreement) in qualitative research. It explores data reduction techniques and a comparison of themes. It presents useful information about qualitative data analysis software tools and procedures for integrating quantitative and qualitative data.
+
+Marshall, C., & Rossman, G. B. (2022). Designing qualitative research (7th ed.). SAGE.
+
+For many years, this book has been a staple introducing qualitative research. Catherine Marshall and Gretchen Rossman introduce the procedures for designing a qualitative study and a qualitative proposal. The topics covered are comprehensive. They include building a conceptual framework around a study; the logic and assumptions of the overall design and methods; data collection and procedures for managing, recording, and analyzing qualitative data; and the resources needed for a study, such as time, personnel, and funding. This is a comprehensive and insightful text from which both beginners and more experienced qualitative researchers can learn.
+
+Descriptions of Images and Figures
+
+Back to Figure
+
+Descriptive methods lead to analytic framework.
+
+Descriptive methods:
+
+Based on everyday language of participants.
+
+Little interpretation from theory or preexisting frameworks.
+
+Maximum variation in sampling.
+
+Cataloging the data into themes
+
+Analytic framework, for example, narrative study, phenomenology, grounded theory, ethnography, case study:
+
+Specific frameworks for data collection or analysis
+
+Limited variability in its application
+
+Popularized in specific disciplines
+
+Philosophical foundation
+
+Back to Figure
+
+The sample is broken up into three sections: Introduction, Interview Content Questions, and Closing Instructions. The text reads as follows:
+
+Introduction.
+
+Introduce yourself.
+
+Discuss the purpose of the study.
+
+Get informed consent signature.
+
+Provide structure of the interview, audio recording, taking notes.
+
+Ask if interviewee has questions.
+
+Define any terms necessary.
+
+Interview Content Questions.
+
+1. What has been your role in the incident? ice breaker
+
+Probes: Tell me more. Please explain.
+
+2. What has happened since the event that you have been involved in? content
+
+question
+
+Probes: Tell me more. Please explain.
+
+3. What has been the impact on the university community of this incident? content
+
+question
+
+Probes: Tell me more. Please explain.
+
+4. What larger ramifications, if any, exist from the incident? content question
+
+Probes: Tell me more. Please explain.
+
+5. To whom should we talk to find out more about campus reaction to the incident?
+
+follow-up question
+
+Probes: Tell me more. Please explain.
+
+Closing Instructions.
+
+Thank the individual for participating.
+
+Assure individual of confidentiality.
+
+If needed, request further interviews.
+
+If asked, comment on how interviewee will receive results of the study.
+
+Back to Figure
+
+The steps from bottom to top are as follows:
+
+Step 1. Organizing and preparing the data for analysis, for example, transcripts, fieldnotes
+
+Step 2. Reading through all the data
+
+Step 3. Coding the data
+
+Step 4. Identifying themes, grouping the codes into themes
+
+Step 5. Developing a story line interpretation, interconnecting the themes
+
+Step 6. Adding an analytic framework
+
+Step 7. Representing or interpreting the data
