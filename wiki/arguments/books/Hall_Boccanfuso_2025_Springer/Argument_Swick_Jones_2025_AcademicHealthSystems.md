@@ -232,7 +232,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 
 > [!example]- 学术健康系统促进创新 UI 合作的独特角色
-> ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/ Ch10_Swick_Jones_2025.jpg)
+> ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Ch10_Swick_Jones_2025.jpg)
 
 ---
 
