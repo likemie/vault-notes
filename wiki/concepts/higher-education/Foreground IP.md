@@ -34,7 +34,7 @@ updated: 2026-06-03
 ## 定义
 
 > [!info]
-> 前景知识产权（Foreground IP，FIP）指在[[University-Industry Collaboration|产学合作]]协议执行期间，由指定研究人员在履行协议工作范围（Scope of Work）的过程中发明或创作的知识产权。FIP 区别于背景 IP（[[Background IP]]，BIP）——后者是合作前各方独立开发的知识产权。FIP 的定义通常争议较小，因为其边界由工作范围、协议期限和参与人员明确界定（p.279）。
+> 前景知识产权（Foreground IP, FIP）指在[[University-Industry Collaboration|产学合作]]协议执行期间，由指定研究人员在履行协议工作范围（Scope of Work）的过程中发明或创作的知识产权。FIP 区别于[[Background IP|背景知识产权]]（Background IP, BIP），后者是合作前各方独立开发的知识产权。FIP 的定义通常争议较小，因为其边界由工作范围、协议期限和参与人员明确界定（p.279）。
 
 > [!quote]
 > "Foreground IP (FIP) means IP that is invented or authored in the performance of the project described in the Statement of Work, under this Agreement, (a) by University personnel solely in the laboratory of the Principal Investigator(s) named in this Agreement; (b) by Company personnel; or (c) jointly by such University and Company personnel."（p.279）
@@ -45,7 +45,7 @@ updated: 2026-06-03
 > FIP 的界定通常包含以下限制条件（pp.279–280）：
 
 - **工作范围限制**：仅涵盖协议工作范围内产生的 IP
-- **人员限制**：通常限于大学方指定 PI 实验室的研究人员、企业方人员或双方联合人员
+- **人员限制**：通常限于大学方指定首席研究员（Principal Investigator, PI）实验室的研究人员、企业方人员或双方联合人员
 - **时间限制**：在协议有效期内产生
 - **地点与资源考量**：当研究人员访问对方机构或使用对方设备时，访客协议（Visiting Scientist Agreement）可能覆盖由此产生的 IP 权利归属；[[University-Industry Collaboration|产学合作]]协议应明确这些情形下的所有权处理（p.280）
 
@@ -65,12 +65,12 @@ updated: 2026-06-03
 > [!note]
 > 产业合作方对大学拥有的 FIP 通常获得以下权利层级（pp.281–282）：
 
-1. **自动获得**：非排他、免版税（NERF）的内部使用许可——企业可以制造和使用但不对外销售
+1. **自动获得**：非排他、免版税（Non-Exclusive Royalty-Free, NERF）的内部使用许可——企业可以制造和使用但不对外销售
 2. **选择权**：有时间限制的（通常 6 个月）商业许可谈判选择权，可协商排他或非排他、全球范围、含版税的商业许可
 3. **大学保留**：大学为自己和其他非营利研究机构保留免版税、全球范围、不可撤销的研究和教育用途许可
 
 > [!warning]
-> 授予任何专利权给"大实体"企业会使大学失去向美国专利商标局（USPTO）支付"小实体"折扣费用的资格（p.282）。因此，大学通常要求产业方主动选择才能获得 NERF 许可——若企业不选择，大学可将同样 FIP 独家许可给其他公司，无需在第三方许可中附加"但书"排除条款。
+> 授予任何专利权给"大实体"企业会使大学失去向美国专利商标局（United States Patent and Trademark Office, USPTO）支付"小实体"折扣费用的资格（p.282）。因此，大学通常要求产业方主动选择才能获得 NERF 许可——若企业不选择，大学可将同样 FIP 独家许可给其他公司，无需在第三方许可中附加"但书"排除条款。
 
 ## 替代定价方案
 
