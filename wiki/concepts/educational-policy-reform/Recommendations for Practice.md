@@ -10,15 +10,17 @@ tags:
 - evidence-based-education
 - causal-inference
 related_concepts:
+  - "[[Multimethod Research]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
@@ -37,7 +39,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 实践建议（Recommendations for Practice, RFP）是研究论文中将研究发现转化为教育实践行动的规范性陈述。Brady et al. (2023) 沿用 Reinhart et al. (2013) 的编码标准：如果论文暗示或明确说明"若采用/避免、增加/减少实践 X，则教师或学生结果 Y 会改善"，即被编码为 RFP（Brady et al., 2023, p.4）。
+> 实践建议（Recommendations for Practice, RFP）是研究论文中将研究发现转化为教育实践行动的规范性陈述。Brady et al. (2023) 沿用 Reinhart et al. (2013) 的[[Coding in Qualitative Research|编码]]标准：如果论文暗示或明确说明"若采用/避免、增加/减少实践 X，则教师或学生结果 Y 会改善"，即被编码为 RFP（Brady et al., 2023, p.4）。
 >
 > > "if Practice X is adopted/avoided or increased/decreased, then teacher or student Outcome Y will improve"（Reinhart et al., 2013, p.244, cited in Brady et al., 2023, p.4）
 
@@ -46,14 +48,14 @@ updated: '2026-05-18'
 > [!note-] 历史沿革
 > - **1994** — 既有趋势研究显示，约 30% 的相关性文章包含实践建议，说明[[Non-intervention Research|非干预研究]]中的 RFP 并非新现象，而是长期存在的出版实践（Brady et al., 2023, p.3）。
 > - **2010** — 相关性文章包含实践建议的比例上升至 46%，与教育心理学期刊中[[Intervention Research|干预研究]]下降、相关研究上升的趋势同步出现（Brady et al., 2023, p.3）。
-> - **2020** — Brady et al. (2023) 发现，观察/相关研究中 66% 包含 RFP；[[Qualitative Research|质性研究]]中 65%、[[Mixed Method and Multi-method Research|混合方法/多方法研究]]中 60% 包含 RFP。综合来看，2020 年约三分之二的[[Non-intervention Research|非干预研究]]文章包含 RFP（Brady et al., 2023, pp.6-7）。
+> - **2020** — Brady et al. (2023) 发现，观察/相关研究中 66% 包含 RFP；[[Qualitative Research|质性研究]]中 65%、[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]中 60% 包含 RFP。综合来看，2020 年约三分之二的[[Non-intervention Research|非干预研究]]文章包含 RFP（Brady et al., 2023, pp.6-7）。
 
 ## 核心要素
 
 > [!abstract] 核心要素
 > - **行动导向**：RFP 不只是解释发现，而是把发现转化为教师、学校或政策制定者应采取的行动建议（Brady et al., 2023, p.4）。
 > - **因果含义**：即使措辞较弱，RFP 通常仍暗含"改变实践会改善结果"的因果结构；这使其证据要求高于单纯描述性结论（Brady et al., 2023, pp.3-4）。
-> - **范围与强度差异**：Brady et al. (2023) 在编码中观察到，一些 RFP 紧贴[[Study Population and Sample|研究样本]]，另一些则泛化到更广人群；一些使用 "may" 或 "might" 等弱化词，但强而广泛的 RFP 在[[Non-intervention Research|非干预研究]]中尤其值得警惕（Brady et al., 2023, p.9）。
+> - **范围与强度差异**：Brady et al. (2023) 在[[Coding in Qualitative Research|编码]]中观察到，一些 RFP 紧贴[[Study Population and Sample|研究样本]]，另一些则泛化到更广人群；一些使用 "may" 或 "might" 等弱化词，但强而广泛的 RFP 在[[Non-intervention Research|非干预研究]]中尤其值得警惕（Brady et al., 2023, p.9）。
 
 ## 与相关概念的区别
 

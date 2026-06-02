@@ -11,6 +11,7 @@ tags:
 - wicked-problems
 - social-change
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
   - "[[Variable]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Posthumanism]]"
@@ -38,7 +39,7 @@ updated: '2026-05-18'
 >
 > > "The literature on transitions makes it clear that transitions are not designed but emergent. They depend on a mix of interacting processes, both self-organizing and other-organized (by humans)."（Escobar, 2018, p.152，引自 Amos, 2022, p.61）
 >
-> 转型依赖大量地方行动的自组织与被组织交互——这些交互在很大程度上是非计划的——从中涌现出观察者看来是一个"新的整合整体的结构"，但这一结构没有中央计划者或智能引导整个过程（Amos, 2022, p.61）。
+> 转型依赖大量地方行动的自组织与被组织交互——这些交互在很大程度上是非计划的——从中涌现出观察者看来是一个"新的[[Integration in Mixed Methods|整合]]整体的结构"，但这一结构没有中央计划者或智能引导整个过程（Amos, 2022, p.61）。
 >
 > > 例：一个城市面临交通拥堵和空气污染。传统的"计划"思维：建更多公路（吸引更多车辆，拥堵照旧）。转型设计思维：关注多样化的地方行动——社区自行车共享倡议、"步行校车"、本地商户错峰配送、居民"无车日"实验。这些行动互不隶属，但通过交互可能涌现出一种全新的城市出行模式。没有人设计了这个模式，它从多重地方实验的交互中涌现出来。
 >
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 > 7. **放大涌现的草根解决方案**——不是自上而下的政策干预，而是识别和赋能已经存在的地方实验
 > 8. **基于最大化最广泛需求的满足物（satisfiers）**——不是为了少数人的优化，而是追求最广泛人群的需要被满足
 > 9. **设计师自身心态／姿态是设计的核心构成**——设计师的自我反思、伦理立场和世界观不是"外在于"设计过程的，而是设计的构成性要素
-> 10. **重新整合和重新情境化多样化跨学科知识**——打破学科壁垒，将不同知识传统重新编织在具体情境中
+> 10. **重新[[Integration in Mixed Methods|整合]]和重新情境化多样化跨学科知识**——打破学科壁垒，将不同知识传统重新编织在具体情境中
 >
 
 ## 发展脉络
@@ -73,7 +74,7 @@ updated: '2026-05-18'
 
 > [!info] 认识论立场
 > - 本体论：反本质主义——世界不是由一个单一世界（universe）构成，而是由多元世界（pluriverse）构成。设计不创造"解决方案"（在单一世界中优化），而是参与"世界的制造"（在多元世界中共同生成）
-> - 认识论：强调跨学科和跨知识传统的整合——科学知识与[[Local Knowledge in Evidence-Based Policy|地方知识]]、原住民宇宙论、替代叙事（非进步和非完美性）应该自由整合
+> - 认识论：强调跨学科和跨知识传统的[[Integration in Mixed Methods|整合]]——科学知识与[[Local Knowledge in Evidence-Based Policy|地方知识]]、原住民宇宙论、替代叙事（非进步和非完美性）应该自由整合
 > - 方法论核心：从"设计作为问题解决"到"设计作为世界制造"的范式转换
 >
 

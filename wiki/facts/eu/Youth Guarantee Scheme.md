@@ -17,6 +17,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Further Education]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Network Governance]]"
   - "[[Performance Indicators]]"
   - "[[Theories of Policy Change]]"
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 > - **培训**（training）
 > - **学徒制**（apprenticeships）
 >
-> 该计划将自身定位为一个更广泛制度框架的组成部分——将就业、教育、培训和学徒制整合为一个相互关联的方案网络（web of interrelated schemes），而非临时的权宜之计。成员国和次国家层面的政府被要求向青年提供这一整套选项，使其成为创新与教育培训政策体系的核心构成部分（Rambla, 2022, p.170）。
+> 该计划将自身定位为一个更广泛制度框架的组成部分——将就业、教育、培训和学徒制[[Integration in Mixed Methods|整合]]为一个相互关联的方案网络（web of interrelated schemes），而非临时的权宜之计。成员国和次国家层面的政府被要求向青年提供这一整套选项，使其成为创新与教育培训政策体系的核心构成部分（Rambla, 2022, p.170）。
 
 > [!quote]
 > "The scheme seeks to ensure that any youth has the opportunity to engage in employment, education, training or apprenticeships within 4 months of leaving school or finishing a job."（Rambla, 2022, p.169）

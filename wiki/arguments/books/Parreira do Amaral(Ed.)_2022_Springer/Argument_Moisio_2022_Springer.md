@@ -17,12 +17,15 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hegemony]]"
   - "[[Transfer Translation Transformation]]"
   - "[[National Competitive Advantage]]"
   - "[[Definition of Terms]]"
+  - "[[Probes]]"
   - "[[Knowledge Production]]"
+  - "[[Analytic Framework]]"
   - "[[Classical Geopolitics]]"
   - "[[Flow]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -63,7 +66,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 
-Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based Economization|知识经济化]]地缘政治的复合框架：
+Moisio 从多学科传统中[[Integration in Mixed Methods|整合]]理论资源，构建分析[[Knowledge-Based Economization|知识经济化]]地缘政治的复合框架：
 
 - David Harvey（1985/2001）的资本主义地缘政治理论 — 本章最核心的理论支柱。地缘政治源于资本主义生产方式内部的政治经济动力：资本流通中的固着与流动之间的张力（tension between fixity and motion）。资本主义需要地方锚定来促进流动，但流动又不断破坏既有地方配置。这一悖论成为 Moisio 解释[[Knowledge-Based Economization|知识经济化]]空间动态的核心机制（Moisio, 2022, pp.27–28）
 - [[Knowledge-Based Economization]] — Moisio（2018）自有的核心分析概念，将注意力从 [[Knowledge-Based Economy|KBE]] 作为既成事物转向其被持续生产的过程。该概念架起了经济分析和地缘政治分析之间的桥梁（Moisio, 2022, pp.24–26）
@@ -107,7 +110,7 @@ Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经�
 
 ### 第二步：方法论转向——从 KBE 到知识经济化（2.3）
 
-这是章中最关键的论证创新。Moisio 不满足于描述 KBE 是什么，而是追问 KBE 如何被持续生产：
+这是章中最关键的论证创新。Moisio 不满足于描述 KBE 是什么，而是[[Probes|追问]] KBE 如何被持续生产：
 
 1. **问题的提出**：KBE 被呈现为具有"无限增长的诱人承诺"——作为对 1980 年代已显现的各种物质和环境增长极限的解毒剂。在这种能力中，"[[Knowledge-Based Economization|知识经济化]]话语与 1990 年代以来资本主义被呈现为唯一能提供无限增长和利润的社会系统的方式紧密绑定"（Moisio, 2022, p.24）。
 
@@ -117,7 +120,7 @@ Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经�
 
 4. **辨识知识的四种含义**：Moisio 在 KBE 语境中区分了知识的四个相互关联维度——(a) 思想和创新在价值创造中的作用；(b) 专家对 KBE 本身的[[Knowledge Production|知识生产]]（"具有关键构成性和履行性作用"）；(c) 对政治社区作为知识经济体表现的数据采集；(d) 社会的数据化——数据成为可收集、储存、加工、商品化并实现为利润的有价值信息池（Moisio, 2022, p.25）。
 
-5. **论证结果**：知识经济化同时指向两个层面——知识密集型资本主义的"物质过程"，以及这种资本主义通过"经济化想象和相关的客观化社会实践"被话语建构的过程。后者包括"各种排名表和指数"，它们通过"测量国家、城市、区域和大学的'竞争力'"，将其物化为"全球竞争的真实单位"（Moisio, 2022, pp.25–26）。这一双重焦点为下一步的地缘政治分析搭建了分析框架。
+5. **论证结果**：知识经济化同时指向两个层面——知识密集型资本主义的"物质过程"，以及这种资本主义通过"经济化想象和相关的客观化社会实践"被话语建构的过程。后者包括"各种排名表和指数"，它们通过"测量国家、城市、区域和大学的'竞争力'"，将其物化为"全球竞争的真实单位"（Moisio, 2022, pp.25–26）。这一双重焦点为下一步的地缘政治分析搭建了[[Analytic Framework|分析框架]]。
 
 ### 第三步：展开知识经济化的地缘政治维度（2.4）
 
@@ -220,7 +223,7 @@ Moisio 从中推导出的地缘政治悖论：
 > [!warning]
 
 - 该章为纯理论论证，未提供经验案例的详细分析，概念的经验适用性有待检验
-- 分析框架主要基于西方发达资本主义国家的经验，对非西方语境中[[Knowledge-Based Economization|知识经济化]]的地缘政治运作讨论有限
+- [[Analytic Framework|分析框架]]主要基于西方发达资本主义国家的经验，对非西方语境中[[Knowledge-Based Economization|知识经济化]]的地缘政治运作讨论有限
 
 
 ## 来源

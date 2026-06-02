@@ -18,10 +18,11 @@ related_concepts:
   - "[[Employability]]"
   - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Revoicing]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -64,7 +65,7 @@ updated: '2026-05-26'
 >
 > 在澳大利亚、新西兰和英国，大学日益普遍地向潜在学生宣传其毕业生特质愿景，但早期研究集中在本科层次（Barrie et al., 2009; Normand & Anderson, 2017; 引自 Wong et al., 2022, p.1340）。
 >
-> 博士层次的毕业生特质讨论起步较晚，但近年来因博士就业多元化和问责压力而快速增长。截至 2018 年，跨学科、跨国的博士毕业生特质研究仍然稀疏（Spronken-Smith et al., 2024, pp.87–88）。Senekal et al.（2022）对 2016–2021 年间 35 篇论文的综述是这一领域首次系统性整合，识别出十个博士特质领域，并指出 Vitae 研究员发展框架（RDF）是最接近的参照框架，但在学术声誉和个人资源fulness 方面仍有缺口（Spronken-Smith et al., 2024, p.87）。
+> 博士层次的毕业生特质讨论起步较晚，但近年来因博士就业多元化和问责压力而快速增长。截至 2018 年，跨学科、跨国的博士毕业生特质研究仍然稀疏（Spronken-Smith et al., 2024, pp.87–88）。Senekal et al.（2022）对 2016–2021 年间 35 篇论文的综述是这一领域首次系统性[[Integration in Mixed Methods|整合]]，识别出十个博士特质领域，并指出 Vitae 研究员发展框架（RDF）是最接近的参照框架，但在学术声誉和个人资源fulness 方面仍有缺口（Spronken-Smith et al., 2024, p.87）。
 
 ---
 
@@ -104,7 +105,7 @@ updated: '2026-05-26'
 
 本科层次，Wong et al.（2022）的"[[Global Citizenship|全球公民]]与参与"话语（70% 覆盖）包含四个子维度（pp.1347–1348）：人际技能（诚信、尊重、同理心、敏感性，15%）；社会与公民责任（服务社会、参与公平与可持续性议题、作为积极公民参与社群）；国际网络与外语技能（仅 8%，出人意料地低）；环境意识（仅 11%，被作者评价为"略令人担忧"）。
 
-博士层次，[[Global Citizenship|全球公民]]属性是发展感知最低的特质组。Spronken-Smith et al.（2024）的调查中，环境素养（2.8）、文化理解（3.2）和全球视野（3.4）的均值远低于研究技能（4.4）（pp.89–90, Figure 1）。该研究将 O'Brien（2011）的数字素养、文化素养和社会沟通素养框架与 Spronken-Smith（2018）的环境素养整合为全球公民的操作化定义（p.87），并在七域分类中将 Senekal et al.（2022）的"积极公民身份"[[Revoicing|重铸]]为"全球公民"，增加倡导、社会正义取向和四种素养（p.98, Table 5）。但访谈显示，毕业生对全球公民属性的必要性看法分歧——部分认为"博士的目的是成为学科专家"，也有部分认为是"代际特征，不需要被教"（p.96）。
+博士层次，[[Global Citizenship|全球公民]]属性是发展感知最低的特质组。Spronken-Smith et al.（2024）的调查中，环境素养（2.8）、文化理解（3.2）和全球视野（3.4）的均值远低于研究技能（4.4）（pp.89–90, Figure 1）。该研究将 O'Brien（2011）的数字素养、文化素养和社会沟通素养框架与 Spronken-Smith（2018）的环境素养[[Integration in Mixed Methods|整合]]为全球公民的操作化定义（p.87），并在七域分类中将 Senekal et al.（2022）的"积极公民身份"[[Revoicing|重铸]]为"全球公民"，增加倡导、社会正义取向和四种素养（p.98, Table 5）。但访谈显示，毕业生对全球公民属性的必要性看法分歧——部分认为"博士的目的是成为学科专家"，也有部分认为是"代际特征，不需要被教"（p.96）。
 
 ### 职业与专业发展
 
@@ -124,7 +125,7 @@ updated: '2026-05-26'
 
 博士毕业生特质的系统化努力始于 Senekal, Munnik, and Frantz（2022）对 35 篇论文的综述，识别出十个领域：知识、研究、沟通、人际、组织、学术声誉、高阶思维、个人资源fulness 和积极公民身份。该综述同时指出，已有研究缺乏[[Global Citizenship|全球公民]]和职业发展维度（Spronken-Smith et al., 2024, p.87）。
 
-Spronken-Smith et al.（2024）在此基础上，综合其美新三国 PhD 毕业生的[[Mixed Method and Multi-method Research|混合方法研究]]发现与 Vitae RDF，提出了一个简化的七域分类框架（p.98, Table 5）：
+Spronken-Smith et al.（2024）在此基础上，综合其美新三国 PhD 毕业生的[[Mixed Methods Research|混合方法研究]]发现与 Vitae RDF，提出了一个简化的七域分类框架（p.98, Table 5）：
 
 | 域 | 核心子域 |
 |---|---|

@@ -21,6 +21,8 @@ tags:
 related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Learner-Centred Education]]"
+  - "[[Probes]]"
+  - "[[Analytic Framework]]"
   - "[[Constructivist Paradigm]]"
   - "[[Research Question]]"
   - "[[Variable]]"
@@ -28,8 +30,9 @@ related_concepts:
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
 related_persons:
   - "[[Yrjö Engeström]]"
   - "[[Confucius]]"
@@ -51,7 +54,7 @@ updated: 2026-05-26
 > [!question]
 > [[Test-Based Accountability|考试问责]]（[[Test-Based Accountability]]）与 [[Learner-Centred Education|LCE]]（[[Learner-Centred Education]]）之间的关系常被视为不可调和的对立——前者以标准化考试成绩规制教学，后者要求灵活、探索性的课堂。但这一对立是否过于简化？在高利害考试压力下，学校是否可能同时追求考试优异和教学改革？
 >
-> 具体而言，研究追问两个问题（p.591）：
+> 具体而言，研究[[Probes|追问]]两个问题（p.591）：
 > 1. 在引入国外 LCE 经验后，考试问责机制和 LCE 的实施在目标学校中各自如何被情境化？
 > 2. 这两个活动系统是否产生互动？如果是，互动如何影响 LCE 的本土化？
 >
@@ -62,7 +65,7 @@ updated: 2026-05-26
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **[[Third Generation Activity Theory]]**（[[Yrjö Engeström|Engeström]] 2001）：研究的核心分析框架。将人类行为概念化为集体活动系统，每个系统包含六个要素——主体、客体、中介工具、共同体、规则和劳动分工。第三代活动理论特别关注不同活动系统之间的互动、边界跨越和可能产生的矛盾——矛盾既可以是变革的障碍，也可以是扩展性改造（expansive transformation）的动力（pp.590-591）。
+> - **[[Third Generation Activity Theory]]**（[[Yrjö Engeström|Engeström]] 2001）：研究的核心[[Analytic Framework|分析框架]]。将人类行为概念化为集体活动系统，每个系统包含六个要素——主体、客体、中介工具、共同体、规则和劳动分工。第三代活动理论特别关注不同活动系统之间的互动、边界跨越和可能产生的矛盾——矛盾既可以是变革的障碍，也可以是扩展性改造（expansive transformation）的动力（pp.590-591）。
 >
 > 研究将[[Test-Based Accountability|考试问责]]和 [[Learner-Centred Education|LCE]] 改革概念化为学校同时嵌入的两个活动系统：
 > - 考试问责系统：客体 = 提升考试成绩；中介工具 = 教师主导教学法；规则 = 考试结果进入教师评价
@@ -79,7 +82,7 @@ updated: 2026-05-26
 > - **研究情境**：英国某大学与华北某地区合作，为 15 所学校提供 [[Learner-Centred Education|LCE]] 工作坊（共四轮、每轮两周、间隔三至四个月）。工作坊介绍 LCE 的学习理论基础（社会文化理论、Bruner [[Constructivist Paradigm|建构主义]]理论）和英国课堂实施 LCE 的真实案例（pp.591-592）
 > - **样本**：从 15 所学校中选取 4 所（两所城市、两所农村），共 4 位校长和 9 位骨干教师参与访谈（p.592）
 > - **数据来源**：半结构化访谈（每位教师两轮、三位校长两轮、一位校长一轮，每次约 50 分钟，以中文进行）+ 学校文件（教育局评价标准、课堂教学观摩方案、田野笔记）（pp.592-593）
-> - **分析方法**：Nvivo 11 辅助编码——先开放编码，再按[[Research Question|研究问题]]分组为主题；后期采用[[Third Generation Activity Theory|活动理论]]六要素框架重新组织数据（p.593）
+> - **分析方法**：Nvivo 11 辅助[[Coding in Qualitative Research|编码]]——先开放编码，再按[[Research Question|研究问题]]分组为主题；后期采用[[Third Generation Activity Theory|活动理论]]六要素框架重新组织数据（p.593）
 
 ---
 
@@ -164,7 +167,7 @@ Urban 2 和 Rural 2 的情况不同。这两所学校都强烈渴望显著提升
 > - 15 所学校参与项目，4 所作为案例研究（两所城市、两所农村）（p.592）
 > - 4 位校长、9 位骨干教师参与访谈；每位教师两轮、大部分校长两轮（p.592）
 > - 四轮工作坊，每轮两周，间隔三至四个月（p.591）
-> - 访谈每次约 50 分钟，以中文进行，Nvivo 11 辅助编码（p.593）
+> - 访谈每次约 50 分钟，以中文进行，Nvivo 11 辅助[[Coding in Qualitative Research|编码]]（p.593）
 > - Urban 1 考试排名位居区域前 5%；Urban 2 区域前 20% 人数增长 10%；Rural 1 平均分低于城市学校；Rural 2 平均分低于所有其他学校（p.592, Table 1）
 
 ---
@@ -192,7 +195,7 @@ Urban 2 和 Rural 2 的情况不同。这两所学校都强烈渴望显著提升
 ## 自述局限
 
 > [!warning] 自述局限
-> - **样本规模与推广性**：作为小规模[[Qualitative Research|质性研究]]，四所学校的发现不具有统计推广性。未来研究可以扩大样本或采用[[Mixed Method and Multi-method Research|混合方法]]，检验共享目标建立与 [[Learner-Centred Education|LCE]] 实施之间的关联（p.603）。
+> - **样本规模与推广性**：作为小规模[[Qualitative Research|质性研究]]，四所学校的发现不具有统计推广性。未来研究可以扩大样本或采用[[Mixed Methods Research|混合方法]]，检验共享目标建立与 [[Learner-Centred Education|LCE]] 实施之间的关联（p.603）。
 > - **改革时间窗口有限**：田野工作在项目启动后第一年内完成，无法追踪长期变化。两所取得进展的学校后续是否持续深化改革，或是否在考试压力下回退，尚不可知（p.603）。
 > - **只关注了参加培训的校长和骨干教师**：未涉及未参加培训的普通教师和学生的视角。学生的声音在 LCE 实施评估中缺失——尤其在"没有学校让学生参与决定学习内容"的发现下，这一缺失尤为关键（pp.599, 603）。
 > - **未来方向**：建议纳入学校管理视角，并探索如何在中国语境中深化 LCE——包括让学生参与学习内容和评估形式的决策过程（p.603）。

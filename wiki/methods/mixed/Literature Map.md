@@ -12,7 +12,7 @@ related_concepts:
   - "[[Recommendations for Practice]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
 related_persons: []
@@ -55,7 +55,7 @@ updated: 2026-05-30
 4. **在每个分类框中标注关键引文**：放入说明该分类内容的主要引文，使用适当的格式（如 APA 格式）。使用当前和有代表性的文献引用。
 5. **设计多层级的文献地图**：主要主题延伸至子主题，再延伸至子子主题。某些分支的展开程度取决于已有的文献数量和研究者探索的深度。
 6. **在底部放置"需要研究"（Need to Study）框**：简要说明计划研究的性质，并画出连接到计划研究将延伸的文献分支的线条。
-7. **包含量化和质性两类研究**：文献地图中可同时包含量化、质性和[[Mixed Method and Multi-method Research|混合方法研究]]。
+7. **包含量化和质性两类研究**：文献地图中可同时包含量化、质性和[[Mixed Methods Research|混合方法研究]]。
 8. **撰写文献地图的叙述性说明**：讨论顶端的广泛主题和检索过的数据库，说明文献如何划分为几大主题，并具体说明计划研究的主题以及连接各个分支的逻辑。
 
 > [!example] 文献地图示例结构
@@ -79,7 +79,7 @@ updated: 2026-05-30
 > - 准备学术会议报告或期刊投稿，需要组织[[Literature Review|文献综述]]的结构
 > - 自身研究跨越多个文献体系，需要理清不同体系之间的关系
 
-文献地图既适用于[[Quantitative Research|量化研究]]（帮助按[[Variable|变量]]组织文献），也适用于[[Qualitative Research|质性研究]]（帮助按主题或现象组织文献），以及[[Mixed Method and Multi-method Research|混合方法研究]]。
+文献地图既适用于[[Quantitative Research|量化研究]]（帮助按[[Variable|变量]]组织文献），也适用于[[Qualitative Research|质性研究]]（帮助按主题或现象组织文献），以及[[Mixed Methods Research|混合方法研究]]。
 
 ## 实践建议
 

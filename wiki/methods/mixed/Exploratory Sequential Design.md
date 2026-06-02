@@ -18,7 +18,7 @@ related_concepts:
   - "[[Construct Validity in Quantitative Measurement]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[In-depth Interview]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Quantitative Research]]"
@@ -44,7 +44,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 探索性序列设计（exploratory sequential design）是[[Mixed Method and Multi-method Research|混合方法研究]]的三种核心设计之一。研究者首先通过小样本的质性数据收集来探索一个现象（第一阶段），基于质性发现设计或修改量化评估工具（第二阶段），然后用大样本的量化数据来检验该工具的性能和相关假设（第三阶段）。Creswell & Creswell (2022, p.138) 将其目的概括为："to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample."
+> 探索性序列设计（exploratory sequential design）是[[Mixed Methods Research|混合方法研究]]的三种核心设计之一。研究者首先通过小样本的质性数据收集来探索一个现象（第一阶段），基于质性发现设计或修改量化评估工具（第二阶段），然后用大样本的量化数据来检验该工具的性能和相关假设（第三阶段）。Creswell & Creswell (2022, p.138) 将其目的概括为："to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample."
 
 探索性序列设计的核心价值在于它解决了量化工具的文化和情境适切性问题——不是从既有文献拿来一个通用量表直接施测，而是先进入目标人群的真实经验中，从中生成（或调整）真正适合该人群的测量工具。
 
@@ -126,7 +126,7 @@ updated: 2026-05-31
 > [!tip]
 > - [[Convergent Design|聚敛式设计]] — 同样使用量化和质性数据，但两类数据同时收集而非先后关系；聚敛式不涉及工具开发阶段。
 > - [[Explanatory Sequential Design|解释性序列设计]] — 顺序不同（先量化后质性），目的是解释已有量化结果而非开发新工具。探索性序列是工具驱动的，解释性序列是解释驱动的。
-> - 工具开发研究（Instrument Development Studies） — 探索性序列设计是系统性地将工具开发嵌入[[Mixed Method and Multi-method Research|混合方法]]框架的形式化方案，而不是一个独立的方法学类型。
+> - 工具开发研究（Instrument Development Studies） — 探索性序列设计是系统性地将工具开发嵌入[[Mixed Methods Research|混合方法]]框架的形式化方案，而不是一个独立的方法学类型。
 
 ## 使用此方法的研究
 

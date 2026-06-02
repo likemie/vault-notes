@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Variable]]"
+  - "[[Analytic Framework]]"
   - "[[Habitus]]"
   - "[[Bildung]]"
   - "[[Goal-Controlled Mode]]"
@@ -26,6 +27,7 @@ related_theories:
   - "[[Culture as Toolkit]]"
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
@@ -57,7 +59,7 @@ updated: 2026-05-18
 ## 概念辨析
 
 > [!example]
-> - vs **人力资本（Human Capital）** — 人力资本（Becker, 1964）以个体理性投资为分析框架，将教育视为通过有意识投入获取的市场回报；文化资本则强调资本的阶层根源和传递的隐蔽性——家庭社会化的无意识过程而非个体的理性投资是文化资本积累的主要机制
+> - vs **人力资本（Human Capital）** — 人力资本（Becker, 1964）以个体理性投资为[[Analytic Framework|分析框架]]，将教育视为通过有意识投入获取的市场回报；文化资本则强调资本的阶层根源和传递的隐蔽性——家庭社会化的无意识过程而非个体的理性投资是文化资本积累的主要机制
 > - vs **社会资本（Social Capital）** — 社会资本是嵌入社会网络中的实际或潜在资源的总和；文化资本是内化于个体身心或制度化于文凭中的文化资源。二者可相互转化：社会网络可加速文化资本的获取，文化能力可拓展社会网络的进入机会
 > - vs 符号资本（Symbolic Capital） — 符号资本是任何一种资本在被感知和承认为正当性时所获得的形式；制度化文化资本（如名校文凭）在被普遍承认为"能力"的客观指标时，即发挥着符号资本的功能
 
@@ -104,7 +106,7 @@ updated: 2026-05-18
 
 ### 资本化过程：家庭资源 → 大学场域中的文化资本
 
-郑雅君（2023）在其"大学过程"分析框架中将文化资本的作用机制概念化为**资本化过程**（Capitalization Process）——家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑，构成三个嵌套过程中最外层的结构性约束（郑雅君，2023）。
+郑雅君（2023）在其"大学过程"[[Analytic Framework|分析框架]]中将文化资本的作用机制概念化为**资本化过程**（Capitalization Process）——家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑，构成三个嵌套过程中最外层的结构性约束（郑雅君，2023）。
 
 在 [[Goal-Controlled Mode]] 中，资本化过程表现为优势家庭将场域规则认知、策略思维和生涯规划意识作为具身化文化资本传递给子女；在 [[Intuition-Dependent Mode]] 中，资本化过程则体现为弱势家庭在这一传递链条上的断裂（郑雅君，2023）。
 
@@ -138,7 +140,7 @@ updated: 2026-05-18
 
 > [!example]
 > - [[Cultural Barrier]] — 文化障碍实质上是文化资本（尤其是具身化形态）在阶层间不均衡分布的直接后果
-> - [[Economy of Experience]] — 履历经济学揭示的"软实力"竞争，实质上是具身化文化资本在就业市场上被精细编码和定价的过程（[[Yajun Zheng|郑雅君]]，2023）
+> - [[Economy of Experience]] — 履历经济学揭示的"软实力"竞争，实质上是具身化文化资本在就业市场上被精细[[Coding in Qualitative Research|编码]]和定价的过程（[[Yajun Zheng|郑雅君]]，2023）
 > - [[Credential Inflation]] — 文凭通胀体现了制度化文化资本的兑换率随供给增加而下降的历史过程
 
 ---

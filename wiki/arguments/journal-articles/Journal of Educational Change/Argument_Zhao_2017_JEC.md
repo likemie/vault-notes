@@ -28,7 +28,6 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[No Child Left Behind Act 2001]]"
-  - "[[Campbell Collaboration]]"
 related_arguments: []
 sources:
   - "[[Zhao_2017_JEC]]"
@@ -69,7 +68,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > - 没有发现任何教育产品附带类似药品的警告标签——如"本项目能提高阅读成绩，但可能使学生永远厌恶阅读"（p.4）
 > - 教育中的正反双方长期争论不休，因为各自只看硬币的一面——正方看到效果，反方看到副作用，两者都既对又错（p.5）
-> - [[No Child Left Behind Act 2001|NCLB]] 的副作用（作弊、排斥、课程窄化）本可依据 [[Campbell Collaboration|Campbell]]'s Law 预测——"任何定量社会指标越被用于社会决策，就越容易受到腐败压力"
+> - [[No Child Left Behind Act 2001|NCLB]] 的副作用（作弊、排斥、课程窄化）本可依据 Campbell's Law 预测——"任何定量社会指标越被用于社会决策，就越容易受到腐败压力"
 > - 东亚教育体系可能是"最好"的（考试成绩），同时也是"最坏"的（学生信心和态度）——取决于被测量的维度
 
 ## 关键引用
@@ -79,7 +78,7 @@ updated: '2026-05-18'
 > ("I have not yet found an educational product that comes with a warning label carrying information such as 'this program works in raising your students' test scores in reading, but may make them hate reading forever.'") (p.4)
 >
 > > “任何量化社会指标越是被用于社会决策，它就越容易受到腐败压力的影响，也就越容易扭曲和腐蚀它旨在监控的社会过程。”
-> ("The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.") ([[Campbell Collaboration|Campbell]], 1976, p.49, cited p.15)
+> ("The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.") (Campbell, 1976, p.49, cited p.15)
 >
 > > “教学限制了儿童的探索和发现。被教授了玩具某项功能的儿童，对玩具执行的动作种类更少，发现的玩具其他功能也更少。”
 > ("Teaching constrains children's exploration and discovery. Children who were taught a function of a toy performed fewer kinds of actions of the toy and discovered fewer of its other functions.") (Bonawitza et al., 2011, p.325, cited p.8)

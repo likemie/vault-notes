@@ -18,7 +18,6 @@ related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[PISA]]"
-  - "[[Campbell Collaboration]]"
 related_arguments: []
 sources:
   - "[[Zhao_2017_JEC]]"
@@ -74,7 +73,7 @@ updated: '2026-05-18'
 
 > [!success] 案例三：[[No Child Left Behind Act 2001|NCLB]] 测试问责的副作用
 > - Nichols & Berliner (2007) 记录了广泛的副作用：作弊（约 10% 教师/行政人员承认）、排斥弱势学生（将他们从考试名单中移除）、课程窄化（对弱势学校影响更显著）、教学扭曲为应试（Zhao, 2017, p.13-14）
-> - 这些副作用本可依据 [[Campbell Collaboration|Campbell]]'s Law 预测（Zhao, 2017, p.15）
+> - 这些副作用本可依据 Campbell's Law 预测（Zhao, 2017, p.15）
 
 ## 争议与批评
 
@@ -86,7 +85,7 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - 借鉴医学研究（FDA 药物审批和上市后监测制度）作为制度模型
-> - [[Campbell Collaboration|Campbell]]'s Law (Campbell, 1976)："任何定量社会指标越被用于社会决策，就越容易受到腐败压力，越可能扭曲和腐化其旨在监测的社会过程"
+> - Campbell's Law (Campbell, 1976)："任何定量社会指标越被用于社会决策，就越容易受到腐败压力，越可能扭曲和腐化其旨在监测的社会过程"
 
 ## 来源
 

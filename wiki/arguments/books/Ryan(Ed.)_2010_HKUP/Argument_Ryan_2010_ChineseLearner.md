@@ -18,13 +18,16 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
   - "[[Orientalism]]"
+  - "[[Analytic Framework]]"
   - "[[Stereotype Threat]]"
   - "[[Meta-Cultural Sensitivity]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Reflexivity]]"
   - "[[International Education]]"
   - "[[Refined Mastery]]"
   - "[[Quality Education]]"
+  - "[[Probes]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
 related_methods: []
@@ -52,7 +55,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 > Ryan 综合运用以下批判性概念作为分析工具：
-> - [[Orientalism]] — Said (1978) 的"东方"由西方建构的分析框架：[[Chinese Learner|中国学习者]]作为"非西方"而被定义为偏离西方规范（Watkins & Biggs, 2001, p.4）
+> - [[Orientalism]] — Said (1978) 的"东方"由西方建构的[[Analytic Framework|分析框架]]：[[Chinese Learner|中国学习者]]作为"非西方"而被定义为偏离西方规范（Watkins & Biggs, 2001, p.4）
 > - [[Stereotype Threat]] — Aronson (2002)：当个体意识到关于自身群体的刻板印象时，产生额外的情感与认知负担，导致"去认同化"（disidentification），最终刻板印象成为自我实现的预言
 > - [[Meta-Cultural Sensitivity]] — Louie (2005)："后退一步"将所有文化视为系统来理解的能力，既不盲目推崇也不简单否定
 > - [[Hofstede's Cultural Dimensions]] — Ryan 讨论其如何被用于刻画 [[Confucian Heritage Cultures|CHC]] 文化（高权力距离、集体主义），以及"中国文化建设"（1987）如何挑战其普适性并提出第五维度"儒家工作动力"
@@ -62,7 +65,7 @@ updated: '2026-05-18'
 
 > [!info]
 > - 类型：理论讨论与文献批判综述
-> - 方法：对"[[Chinese Learner|中国学习者]]"西方文献的系统性话语分析，兼以作者个人跨文化教学和研究的反思性经验为佐证
+> - 方法：对"[[Chinese Learner|中国学习者]]"西方文献的系统性话语分析，兼以作者个人跨文化教学和研究的[[Reflexivity|反思性]]经验为佐证
 > - 数据来源：西方教育学界关于中国/[[Confucian Heritage Cultures|CHC]] 学习者的研究文献；作者在中国、澳大利亚、英国作为国际学生和教师的亲身经历
 
 ## 论证结构
@@ -300,7 +303,7 @@ Ryan（2010, p.57）以 Hayhoe & Pan（2001, p.21）的"真正的对话——在
 
 **这一结论的力量在于：** 它不是在说"我们要更宽容"——那仍然是居高临下的姿态。它是在说，中西教育传统中都有值得对方学习的东西，也都有需要"残酷地攻击和否定"的糟粕（援引 Yip, 2006, p.xv）。对话的前提是平等——不是西方教中国"如何批判思考"，也不是中国教西方"如何尊师重道"，而是双方都承认自己有不完美之处，都愿意从对方那里学习。
 
-> **整个论证的终点：** 我们需要的不再是比较"中西教育哪个更好"——这个问题本身就是在巩固二元对立。我们需要的是**一起追问"好的教育是什么样的"**——这是一个没有标准答案、需要跨文化合作才能接近的问题。
+> **整个论证的终点：** 我们需要的不再是比较"中西教育哪个更好"——这个问题本身就是在巩固二元对立。我们需要的是**一起[[Probes|追问]]"好的教育是什么样的"**——这是一个没有标准答案、需要跨文化合作才能接近的问题。
 
 ## 主要发现
 
@@ -340,7 +343,7 @@ Ryan（2010, p.57）以 Hayhoe & Pan（2001, p.21）的"真正的对话——在
 ## 局限性与批评
 
 > [!warning]
-> - **非实证研究**：Ryan (2010) 采取的是文献批判综述和反思性论述的论证形式，未提供系统的实证数据来支持其主张；论证主要依赖对既有文献的二次分析和作者个人经历的叙述
+> - **非实证研究**：Ryan (2010) 采取的是文献批判综述和[[Reflexivity|反思性]]论述的论证形式，未提供系统的实证数据来支持其主张；论证主要依赖对既有文献的二次分析和作者个人经历的叙述
 > - **立场单一**：虽以"平衡"为目标，但论证明显偏向批判西方刻板印象，对中国教育体系内部的问题（如腐败、guanxi 关系文化）仅一笔带过
 > - **缺乏替代框架**：有效解构了刻板印象，但对"教师在实践中应具体如何操作"仅给出原则性建议（[[Meta-Cultural Sensitivity|元文化敏感度]]），未提供可操作的教学策略或实证验证的方案
 > - **"文化内差异大于文化间差异"命题**：虽频繁被重复，但未提供系统的跨文化比较数据来严格检验

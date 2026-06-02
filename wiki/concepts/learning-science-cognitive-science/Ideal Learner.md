@@ -20,6 +20,7 @@ related_theories:
   - "[[Cultural Models]]"
 related_methods:
   - "[[Prototype Methods]]"
+  - "[[Triangulation]]"
 related_persons: []
 related_arguments: []
 sources:
@@ -47,7 +48,7 @@ Li 选择研究"理想"而非"一般"学习者的理论依据来自发展心理�
 ## 在 Li 研究设计中的位置
 
 > [!info]
-> 理想学习者研究是 Li 的**研究二**，与研究一（[[Prototype Methods|原型方法]]的词汇概念地图）构成**证据三角验证**（triangulation）结构（Li, 2012, pp.94-96）。
+> 理想学习者研究是 Li 的**研究二**，与研究一（[[Prototype Methods|原型方法]]的词汇概念地图）构成**证据[[Triangulation|三角验证]]**（triangulation）结构（Li, 2012, pp.94-96）。
 
 ### 为什么需要研究二？
 

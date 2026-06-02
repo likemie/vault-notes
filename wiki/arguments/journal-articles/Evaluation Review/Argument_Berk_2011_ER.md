@@ -16,11 +16,13 @@ tags:
 - methodology-critique
 - subject/research-methodology
 related_concepts:
+  - "[[Reflexivity]]"
   - "[[Literature Review]]"
   - "[[Causality]]"
   - "[[Internal Validity]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[External Validity]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Variable]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
@@ -30,7 +32,6 @@ related_methods:
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts:
-  - "[[Campbell Collaboration]]"
   - "[[Daubert v Merrell Dow Pharmaceuticals 1993]]"
 related_arguments: []
 sources:
@@ -48,16 +49,16 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> Berk 不依赖单一理论框架，而是基于评估研究方法论的演进历史进行反思性分析。他的论证锚定在：
+> Berk 不依赖单一理论框架，而是基于评估研究方法论的演进历史进行[[Reflexivity|反思性]]分析。他的论证锚定在：
 > - **[[Potential Outcomes Framework|潜在结果框架]]**（Neyman-Rubin-Holland-Pearl）作为因果效应定义的概念基础
-> - **[[Campbell Collaboration|Campbell]] & Stanley (1963)** 的四种效度框架作为实验设计评估的参照
+> - **Campbell & Stanley (1963)** 的四种效度框架作为实验设计评估的参照
 > - Daubert 标准的"垃圾科学"概念作为区分证据与垃圾的司法类比（[[Daubert v Merrell Dow Pharmaceuticals 1993]]）
 
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**：反思性论文（reflective essay），基于 35 年编辑经验和方法论[[Literature Review|文献综述]]
-> - **数据来源**：作为创始编辑经手的数百篇评估研究论文、[[Causality|因果推断]]方法论文献（Neyman, Rubin, Holland, Pearl, [[Campbell Collaboration|Campbell]], Freedman, Rosenbaum 等）、Berk 本人的研究项目（Berk, 2004, 2005, 2007）
+> - **方法**：[[Reflexivity|反思性]]论文（reflective essay），基于 35 年编辑经验和方法论[[Literature Review|文献综述]]
+> - **数据来源**：作为创始编辑经手的数百篇评估研究论文、[[Causality|因果推断]]方法论文献（Neyman, Rubin, Holland, Pearl, Campbell, Freedman, Rosenbaum 等）、Berk 本人的研究项目（Berk, 2004, 2005, 2007）
 
 ## 核心论证
 
@@ -70,7 +71,7 @@ updated: '2026-05-18'
 >
 > ### 2. 随机实验的优势与局限
 >
-> 随机实验的[[Internal Validity|内部效度]]优势被认可（[[Campbell Collaboration|Campbell]], 1969; Campbell & Stanley, 1963），但广泛使用导致两个不良后果：
+> 随机实验的[[Internal Validity|内部效度]]优势被认可（Campbell, 1969; Campbell & Stanley, 1963），但广泛使用导致两个不良后果：
 > - **集群随机化问题**：随机化单位（教室）与政策兴趣单位（学生）不一致，导致样本量不足、[[Stable Unit Treatment Value Assumption|SUTVA]] 违反——"单一的因果效应不再存在"（Berk, 2011, p.195）
 > - **非随机研究被断然否定**："这是一个严重错误"，因为内部效度只是多种效度之一——没有[[External Validity|外部效度]]，[[Randomised Controlled Trials|RCT]] 结果对政策毫无用处（Berk, 2011, p.195）
 >
@@ -78,7 +79,7 @@ updated: '2026-05-18'
 >
 > ### 3. [[Causal Modeling|因果建模]]（SEM）的过度使用
 >
-> 因果建模承诺整合理论与统计，但其过度承诺在 1980-1990 年代才逐渐显现。Berk 将问题归因于：模型选择使统计推断无效、缺乏明确的经验边界、点按软件使复杂方法"看似容易"（Berk, 2011, p.197）。引用了 Freedman (2005, p.195) 的修辞性回应清单作为因果建模支持者回避批评的证据。
+> 因果建模承诺[[Integration in Mixed Methods|整合]]理论与统计，但其过度承诺在 1980-1990 年代才逐渐显现。Berk 将问题归因于：模型选择使统计推断无效、缺乏明确的经验边界、点按软件使复杂方法"看似容易"（Berk, 2011, p.197）。引用了 Freedman (2005, p.195) 的修辞性回应清单作为因果建模支持者回避批评的证据。
 >
 > ### 4. 匹配作为替代方法
 >
@@ -98,7 +99,7 @@ updated: '2026-05-18'
 > 2. **垃圾科学的两类制造者**：一类不知道自己在做什么但使用表面特征；另一类明知故犯并使用表面特征掩盖（Berk, 2011, p.192）
 > 3. **不存在简单的解码装置**：任何易于实施的规则集都可能扼杀创新（Berk, 2011, pp.192–193）
 > 4. **随机实验的社会保护功能**：[[Randomised Controlled Trials|RCT]] 的最强理由不是方法论的，而是制度性的——它比其它设计更能防止研究者"以各种方式陷入统计列车事故"（Berk, 2011, p.196）
-> 5. **[[Causal Modeling|因果建模]]的韧性**：尽管被反复批评，因果建模之所以存留，部分原因是它承诺整合理论与统计——且"有时难以准确具体说明风险"（Berk, 2011, p.197）
+> 5. **[[Causal Modeling|因果建模]]的韧性**：尽管被反复批评，因果建模之所以存留，部分原因是它承诺[[Integration in Mixed Methods|整合]]理论与统计——且"有时难以准确具体说明风险"（Berk, 2011, p.197）
 > 6. **[[Meta-analysis|元分析]]被严重过度评价**：常规[[Literature Review|文献综述]]"通常做得更好"——至少读者不会被"伪装成统计炫技的统计不当行为"所影响（Berk, 2011, p.199）
 
 ## 关键引用

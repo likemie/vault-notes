@@ -23,7 +23,7 @@ related_concepts:
   - "[[Construct]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Joint Display]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
@@ -47,7 +47,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 聚敛式设计（convergent design）是[[Mixed Method and Multi-method Research|混合方法研究]]的三种核心设计之一。在聚敛式设计中，研究者同时收集量化数据和质性数据，对两类数据分别进行分析，然后将两组分析结果合并（merge）进行比较，以综合解释[[Research Question|研究问题]]（Creswell & Creswell, 2022, p.136）。
+> 聚敛式设计（convergent design）是[[Mixed Methods Research|混合方法研究]]的三种核心设计之一。在聚敛式设计中，研究者同时收集量化数据和质性数据，对两类数据分别进行分析，然后将两组分析结果合并（merge）进行比较，以综合解释[[Research Question|研究问题]]（Creswell & Creswell, 2022, p.136）。
 
 聚敛式设计的独特价值在于"多重透视"（multiple perspectives）：同一研究问题同时从量化角度（[[Variable|变量]]间的关系或群体间的差异）和质性角度（参与者的意义和情境理解）来审视，两类数据互为补充、互相验证。
 
@@ -71,10 +71,10 @@ updated: 2026-05-31
 >
 > 整合分析（[[Integration in Mixed Methods|integration]] Analysis）分为三个阶段（Creswell & Creswell, 2022, pp.237–239）：
 > 1. 分别分析质性数据库（[[Coding in Qualitative Research|编码]]→主题）和量化数据库（统计结果）。
-> 2. 进行[[Mixed Method and Multi-method Research|混合方法]]整合分析，有三种方式：
+> 2. 进行[[Mixed Methods Research|混合方法]]整合分析，有三种方式：
 >    - **并排比较（side-by-side comparison）**：在讨论部分先后报告量化和质性发现。在今日混合方法文献中较少见。
 >    - **[[Data Transformation in Mixed Methods|数据转换]]（data transformation）**：将质性主题或编码转化为量化变量（计数并分组），然后合并两个量化数据库。在量化训练背景的研究者中较受欢迎。具体转换程序可参考 Onwuegbuzie & Leech (2006)。
->    - **联合展示（joint display）**：在表格或图表中合并呈现两组数据。已成为[[Mixed Method and Multi-method Research|混合方法研究]]整合的标准程序。聚敛式设计的联合展示可以将主题作为列、分类变量（如高/中/低分）作为行，单元格中放置引用或得分，并添加[[Metainferences|元推论]]行和列（见表 10.2）。
+>    - **联合展示（joint display）**：在表格或图表中合并呈现两组数据。已成为[[Mixed Methods Research|混合方法研究]]整合的标准程序。聚敛式设计的联合展示可以将主题作为列、分类变量（如高/中/低分）作为行，单元格中放置引用或得分，并添加[[Metainferences|元推论]]行和列（见表 10.2）。
 > 3. 从联合展示中提取[[Metainferences|元推论]]：沿行检视（不同得分水平在某主题上的差异）和沿列检视（不同主题之间得分模式的差异），判断量化与质性结果是否确认、一致或分歧。当出现分歧时，可返回分析深入探索数据库、收集额外数据，或讨论某一数据库的局限。
 >
 > > [!example]- 表10.2：聚敛式设计联合展示模板
@@ -84,7 +84,7 @@ updated: 2026-05-31
 
 聚敛式设计的[[Purpose Statement|目的陈述]]脚本（Creswell & Creswell, 2022, pp.136–137）：
 
-> 本[[Mixed Method and Multi-method Research|混合方法研究]]将解决________（总体意图）。采用聚敛式混合方法设计，在该设计中，质性数据和量化数据分别收集以提供对问题或[[Research Question|研究问题]]的多重视角。本研究中，________（量化数据）将用于检验________理论，该理论预测________自[[Variable|变量]]对________因变量在________研究场所________参与者的影响。________（质性数据）将探索________的________[[Central Phenomenon|核心现象]]。合并两类数据库的洞见将是________。
+> 本[[Mixed Methods Research|混合方法研究]]将解决________（总体意图）。采用聚敛式混合方法设计，在该设计中，质性数据和量化数据分别收集以提供对问题或[[Research Question|研究问题]]的多重视角。本研究中，________（量化数据）将用于检验________理论，该理论预测________自[[Variable|变量]]对________因变量在________研究场所________参与者的影响。________（质性数据）将探索________的________[[Central Phenomenon|核心现象]]。合并两类数据库的洞见将是________。
 
 ## 整合洞见
 

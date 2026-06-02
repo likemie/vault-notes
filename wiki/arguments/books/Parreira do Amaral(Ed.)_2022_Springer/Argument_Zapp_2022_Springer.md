@@ -14,10 +14,12 @@ tags:
 related_concepts:
   - "[[Probes]]"
   - "[[Epistemic Governance]]"
+  - "[[Analytic Framework]]"
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
   - "[[Constructivist Paradigm]]"
   - "[[Literature Review]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
   - "[[Research Problem]]"
@@ -63,7 +65,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract]
-> 本章以 **[[World Society Theory]]**（世界社会理论，Meyer et al., 1997）为核心分析框架。
+> 本章以 **[[World Society Theory]]**（世界社会理论，Meyer et al., 1997）为核心[[Analytic Framework|分析框架]]。
 >
 > **世界社会理论的核心直觉**：想象一下，当今世界各国为什么都有教育部、大学、宪法？Meyer 的回答是：不是因为每个国家独立发明了这些制度，而是因为存在一个全球共享的"文化剧本"——世界社会——它规定了"一个现代国家应该长什么样"。这个世界社会没有中央政府、没有警察、没有法律来强制执行，但它照样能运转。为什么？因为它依赖的不是强制力，而是 **"[[Otherhood|他者代理]]"（[[Otherhood]]）**——各类组织主动把自己定位为"替别人办事"的角色，替弱势群体发声、替环境保护呼吁、替"进步"和"正义"这些抽象理想提供证据和方案。
 >
@@ -78,7 +80,7 @@ updated: '2026-05-18'
 > [!info]
 > 本章为理论-概念讨论（conceptual discussion），非实证研究。
 > - 方法：[[Literature Review|文献综述]]、概念分析、二次数据分析
-> - 数据来源：Zapp 整合了自身此前发表的多项实证研究作为论据——包括 Zapp (2017b) 对 1325+ 个国际组织 1970–2017 年科学产出与大学合作关系的分析、Zapp (2020a) 对 1947–2019 年逾 100 份国际组织全球报告的引用分析、Zapp & Lerch (2020) 对全球近 465,000 个学位项目的国际取向分析。此外还使用了 Corporate Register (2019) 的企业社会责任（Corporate Social Responsibility, [[Comprehensive School Reform Program|CSR]]）报告目录和 Global Reporting Initiative (2019) 的可持续发展披露数据库
+> - 数据来源：Zapp [[Integration in Mixed Methods|整合]]了自身此前发表的多项实证研究作为论据——包括 Zapp (2017b) 对 1325+ 个国际组织 1970–2017 年科学产出与大学合作关系的分析、Zapp (2020a) 对 1947–2019 年逾 100 份国际组织全球报告的引用分析、Zapp & Lerch (2020) 对全球近 465,000 个学位项目的国际取向分析。此外还使用了 Corporate Register (2019) 的企业社会责任（Corporate Social Responsibility, [[Comprehensive School Reform Program|CSR]]）报告目录和 Global Reporting Initiative (2019) 的可持续发展披露数据库
 
 ## 论证结构
 

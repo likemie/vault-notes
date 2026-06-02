@@ -18,7 +18,8 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
 related_theories:
   - "[[Autopoiesis]]"
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Niklas Luhmann]]"
 related_facts: []
@@ -34,7 +35,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> [[Niklas Luhmann]] 的社会系统理论将社会理解为一个由[[Autopoiesis|自创生]]（autopoietic）沟通系统构成的整体，与个体的心理系统（意识）严格区分。其核心立场是：社会沟通系统永远无法观察个体心理系统，两者不共享编码且彼此不透明（Larsen, 2019, p.4）。
+> [[Niklas Luhmann]] 的社会系统理论将社会理解为一个由[[Autopoiesis|自创生]]（autopoietic）沟通系统构成的整体，与个体的心理系统（意识）严格区分。其核心立场是：社会沟通系统永远无法观察个体心理系统，两者不共享[[Coding in Qualitative Research|编码]]且彼此不透明（Larsen, 2019, p.4）。
 >
 > > "The social communicative system—of the teacher, the school leader, the researcher, and/or the local or national educational policymaker—can never view the psychic system of the individual pupil or student. These two systems are not code-identical, nor are they transparent to one another."（Larsen, 2019, p.4）
 

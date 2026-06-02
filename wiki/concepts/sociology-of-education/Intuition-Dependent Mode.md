@@ -15,6 +15,8 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Symbolic Boundary]]"
   - "[[Cultural Barrier]]"
+  - "[[Integration in Mixed Methods]]"
+  - "[[Analytic Framework]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
   - "[[Graduation Pathway Typology]]"
@@ -73,7 +75,7 @@ updated: 2026-05-18
 > [!note]
 > - **1960s 原初洞察**：[[Pierre Bourdieu|Bourdieu]] & Passeron（1964）在 *Les Héritiers* 中描述的"考试能手"——"除考试外忘掉了一切"——已暗含直觉依赖模式的原型：将好学生等同于好成绩，缺乏对大学[[Champ|场域]]隐性规则的理解（[[Yajun Zheng|郑雅君]]，2023）
 > - **2014–2017 田野反转**：郑雅君在两所顶尖大学的首轮 38 名访谈中，发现部分学生的毕业出路更恰当地说是"被选择"——在全无计划的情形下临时抓住一个恰好够得着的机会。这一发现挑战了"学生毕业去向都是有意主动选择"的想当然假设，为双模式概念的提出奠定了基础（郑雅君，2023）
-> - **2023 理论整合**：与 [[Goal-Controlled Mode]] 同步提出，二者共同构成郑雅君（2023）"大学过程"分析框架的核心类型学维度
+> - **2023 理论[[Integration in Mixed Methods|整合]]**：与 [[Goal-Controlled Mode]] 同步提出，二者共同构成郑雅君（2023）"大学过程"[[Analytic Framework|分析框架]]的核心类型学维度
 > - **第五章细化**：在双模式基础上引入价值信念驱动力维度，将直觉依赖模式进一步区分为[[Lost Mode|迷失无从者]]和[[Value Conformist Mode|价值归顺者]]，详见 [[Graduation Pathway Typology]]（郑雅君，2023）
 
 ---
@@ -95,7 +97,7 @@ updated: 2026-05-18
 > 直觉依赖模式根植于[[Yajun Zheng|郑雅君]]（2023）"大学过程"三层嵌套框架：
 > - wiki-[[Pierre Bourdieu]] — 对应**资本化过程**：直觉依赖模式是弱势阶层[[Habitus]]的具身化表达。布迪厄的**习性滞后**（hysteresis of habitus）概念解释了直觉依赖者为何总是抓不住机遇——"习性滞后恐怕是机遇和在抓住机遇所需的倾向之间存在差距的根据之一"（郑雅君，2023，引 Bourdieu, 1990）。郑雅君以游戏比喻阐明其在[[Champ|场域]]中的位置——"从未见过迷宫全貌，忘我地专注于每一关的竞争，没有意识到事先设定关底对决才是取胜之道"（郑雅君，2023）
 > - [[Culture as Toolkit]] — 对应**价值选择过程**的工具维度：直觉依赖模式反映的是文化工具箱的**缺失**——弱势学生可及的文化工具集中缺少对精英大学场域具有高度适用性的"工具"（长线规划意识、策略思维、场域规则信息）（郑雅君，2023）
-> - [[Dual-Process Model of Culture in Action]] — 提供整合框架：该模式在**两个意识层次上均面对结构性制约**——深层内化层面，弱势家庭社会化中内化的价值信念（如"好好学习就行"）与精英大学场域的实际要求不匹配；浅层内化层面，弱势学生也缺乏可灵活选取的文化工具（郑雅君，2023）
+> - [[Dual-Process Model of Culture in Action]] — 提供[[Integration in Mixed Methods|整合]]框架：该模式在**两个意识层次上均面对结构性制约**——深层内化层面，弱势家庭社会化中内化的价值信念（如"好好学习就行"）与精英大学场域的实际要求不匹配；浅层内化层面，弱势学生也缺乏可灵活选取的文化工具（郑雅君，2023）
 > - [[Academic and Social Integration]] + [[Student Engagement]] — 对应**投入过程**：直觉依赖模式下的投入是**弥散性而非策略性**的——学生倾向于大量投入课业学习，但忽视了就业市场更看重的软实力积累。高等教育学传统研究将这种投入不足归因于个人不努力，但郑雅君（2023）指出这是结构性约束的结果。[[Academic Engagement|学业投入]]的详细讨论见 [[Academic Engagement]]，[[Social Engagement|社会性投入]]的详细讨论见 [[Social Engagement]]（郑雅君，2023）
 > - [[Rational Action Theory]] — 作为对话方：直觉依赖模式看似符合弱势阶层的"风险规避"逻辑，但郑雅君强调学生决策所依赖的信息和认知框架本身就受到阶层文化工具箱的限制——他们基于已知信息做出"理性"选择，而这些信息恰恰是片面的（郑雅君，2023）
 > - [[Self-Authorship]]（[[Marcia Baxter Magolda]]）— 作为对照：直觉依赖者在自我主导性的三个维度上均未充分发展——认知上依赖外部权威和模糊的流行观念，自我认同上不清楚自己是谁、将要成为谁，人际关系上跟随大多数同学的选择（郑雅君，2023）

@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
+  - "[[Analytic Framework]]"
   - "[[Pre-Transfer Agency]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
@@ -48,7 +49,7 @@ updated: '2026-05-19'
 > - Steiner-Khamsi, G. (2000). Transferring education, displacing reforms. In J. Schriewer (Ed.), *Discourse Formation in Comparative Education*. Frankfurt: Peter Lang. — 系统论述教育转移的政治维度，强调关注行动者和受益者
 > - Steiner-Khamsi, G. (Ed.) (2004a). *The Global Politics of Educational Borrowing and Lending*. New York: Teachers College Press. — [[Policy Borrowing|政策借用]]与借出的全球政治纲领性文集
 > - Steiner-Khamsi, G. (2004b). Social network analysis and diffusion of innovation revisited: The Maris O'Rourke Effect in [[International Education]]. Conference paper, German Educational Research Association, Zürich. — 识别跨国教育政策中个体行动者的网络影响力
-> - Steiner-Khamsi, G. (2012). Understanding policy borrowing and lending. In G. Steiner-Khamsi & F. Waldow (Eds.), *World Yearbook of Education 2012: Policy Borrowing in Education*. — 系统化政策借用分析框架
+> - Steiner-Khamsi, G. (2012). Understanding policy borrowing and lending. In G. Steiner-Khamsi & F. Waldow (Eds.), *World Yearbook of Education 2012: Policy Borrowing in Education*. — 系统化政策借用[[Analytic Framework|分析框架]]
 
 ## 核心思想
 
@@ -78,7 +79,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **[[Policy Borrowing|政策借用]]与借出（Policy Borrowing）的分析框架** — 系统化该领域的概念工具和研究议程
+> - **[[Policy Borrowing|政策借用]]与借出（Policy Borrowing）的[[Analytic Framework|分析框架]]** — 系统化该领域的概念工具和研究议程
 > - **"Maris O'Rourke 效应"** — 识别个体行动者在跨国教育政策扩散中的网络效应（Steiner-Khamsi, 2004b）
 > - **对全球化的批判性分析** — 揭示全球教育政策转移中的权力不对称和修辞策略
 

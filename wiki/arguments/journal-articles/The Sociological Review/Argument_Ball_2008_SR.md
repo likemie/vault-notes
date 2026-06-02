@@ -20,6 +20,7 @@ related_concepts:
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
+  - "[[Probes]]"
   - "[[Literature Review]]"
 related_theories: []
 related_methods: []
@@ -81,7 +82,7 @@ issuing_organization: ""
 >
 > 6. Foucault 式治理视角将这一步推向更强结论：教育社会学不只是为政府提供政策建议，也在生产政策能够运作的“可能性条件”和“权力光学”（Ball, 2008, p.651）。
 >
-> 这一主题是全文的枢纽：Ball 不是要判定哪一种教育社会学更正确，而是要追问每一种教育社会学如何生产自己的可见性、对象和政策后果。
+> 这一主题是全文的枢纽：Ball 不是要判定哪一种教育社会学更正确，而是要[[Probes|追问]]每一种教育社会学如何生产自己的可见性、对象和政策后果。
 >
 > ### 主题三：三个历史片段展示研究目光如何转移
 >

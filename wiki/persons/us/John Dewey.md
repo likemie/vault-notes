@@ -15,15 +15,18 @@ tags:
 related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Progressive Education]]"
+  - "[[Reflexivity]]"
   - "[[Quality Education]]"
   - "[[Scientific Attitude]]"
   - "[[Recontextualization]]"
   - "[[Pragmatism in China]]"
   - "[[Academic Freedom]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Classroom Management]]"
   - "[[Professional Judgment]]"
   - "[[Technical Rationality]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Analytic Framework]]"
   - "[[Problem-Based Learning]]"
   - "[[Cultural Diplomacy]]"
   - "[[Junzi]]"
@@ -59,7 +62,7 @@ updated: 2026-05-26
 > [!info]
 > 约翰·杜威（John Dewey, 1859–1952）是美国哲学家、心理学家、教育改革家和公共知识分子，通常被视为[[Pragmatic Paradigm|实用主义]]、功能心理学和[[Progressive Education|进步教育]]的核心代表。其思想以经验（experience）、探究（inquiry）、民主（democracy）和成长（growth）为中心，将教育理解为社会生活连续更新的过程，而非单纯为未来生活做准备的训练。
 >
-> 在教育哲学上，杜威主张学校应成为一种有组织的社会环境，使儿童通过活动、合作、问题解决和反思性经验学习民主生活。1919–1921 年访华讲学期间，他的思想经由[[Hu Shi|胡适]]、[[Jiang Menglin|蒋梦麟]]、[[Tao Xingzhi|陶行知]]等人进入中国教育改革话语，影响[[New Education Movement|新教育运动]]、1922 年学制改革及后来围绕[[Quality Education|素质教育]]、[[Scientific Attitude|科学态度]]和教育现代化的争论（Schulte, 2009, pp.73–77；Zhou & Westberg, 2024, pp.614–618）。
+> 在教育哲学上，杜威主张学校应成为一种有组织的社会环境，使儿童通过活动、合作、问题解决和[[Reflexivity|反思性]]经验学习民主生活。1919–1921 年访华讲学期间，他的思想经由[[Hu Shi|胡适]]、[[Jiang Menglin|蒋梦麟]]、[[Tao Xingzhi|陶行知]]等人进入中国教育改革话语，影响[[New Education Movement|新教育运动]]、1922 年学制改革及后来围绕[[Quality Education|素质教育]]、[[Scientific Attitude|科学态度]]和教育现代化的争论（Schulte, 2009, pp.73–77；Zhou & Westberg, 2024, pp.614–618）。
 
 > [!warning]- 来源边界
 > 当前正文的研究性来源主要覆盖两条线索：杜威在中国的接受与[[Recontextualization|再脉络化]]、1928 年访苏及苏联进步教育交流。通用生平与代表著作部分根据临时 clipping 补足结构，后续若有正式传记或杜威原典 source record，可继续补页码。
@@ -112,7 +115,7 @@ updated: 2026-05-26
 ### 教育与民主
 
 - Dewey, J. (1899). *The School and Society*. — 以芝加哥实验学校经验为基础，提出学校应与儿童经验和社会生活相连接，是[[Progressive Education|进步教育]]的纲领性文本之一。
-- Dewey, J. (1910). *How We Think*. — 系统讨论反思性思维（reflective thought），将思维理解为面对疑难情境时的主动、持续、谨慎探究。
+- Dewey, J. (1910). *How We Think*. — 系统讨论[[Reflexivity|反思性]]思维（reflective thought），将思维理解为面对疑难情境时的主动、持续、谨慎探究。
 - Dewey, J. (1916). *Democracy and Education*. Macmillan. — 系统阐述民主与教育的有机关系，提出教育即生活、学校即社会、以经验为中心的学习观。
 
 ---
@@ -147,7 +150,7 @@ updated: 2026-05-26
 
 教育不是为未来生活做准备，而是一种支持社会生活连续更新的过程。杜威把学校理解为特殊环境：学校需要简化、组织并净化复杂社会经验，使儿童在其中练习合作、组织、创造和公共判断（Dewey [1921] 2007, pp.193–196）。
 
-课程方面，杜威反对把知识拆成彼此隔绝、只供记忆的科目单位；课程应围绕儿童经验与社会活动组织，让历史、地理、公民、卫生等知识在共同问题中形成连续性。这一思路也解释了 1923 年中国课程改革中"社会"科整合为何被 Zhou & Westberg 视为更接近杜威的部分（Zhou & Westberg, 2024, p.618）。
+课程方面，杜威反对把知识拆成彼此隔绝、只供记忆的科目单位；课程应围绕儿童经验与社会活动组织，让历史、地理、公民、卫生等知识在共同问题中形成连续性。这一思路也解释了 1923 年中国课程改革中"社会"科[[Integration in Mixed Methods|整合]]为何被 Zhou & Westberg 视为更接近杜威的部分（Zhou & Westberg, 2024, p.618）。
 
 ---
 
@@ -161,13 +164,13 @@ updated: 2026-05-26
 
 ### 教师专业性
 
-杜威反对把教师教育简化为[[Classroom Management|课堂管理]]和教学技巧训练。教师专业性的核心在于持续研究儿童、学科、方法和社会情境，在具体课堂中保持反思性判断与智性责任。这一思想后来与[[Professional Judgment|专业判断]]、反思性实践和对[[Technical Rationality|技术理性]]的批判形成重要连接。
+杜威反对把教师教育简化为[[Classroom Management|课堂管理]]和教学技巧训练。教师专业性的核心在于持续研究儿童、学科、方法和社会情境，在具体课堂中保持[[Reflexivity|反思性]]判断与智性责任。这一思想后来与[[Professional Judgment|专业判断]]、反思性实践和对[[Technical Rationality|技术理性]]的批判形成重要连接。
 
 > [!tip] 与其他条目的连接
 > - [[Progressive Education]] — 杜威教育思想在美国与跨国改革运动中的运动形态。
 > - [[Transactional Epistemology]] — 杜威关于证据、探究和不确定性的知识论基础。
 > - [[Scientific Attitude]] — 民国中国对杜威实验主义与科学态度的选择性吸收。
-> - [[Transfer Translation Transformation]] — 杜威思想跨语境传播和碎片化的分析框架。
+> - [[Transfer Translation Transformation]] — 杜威思想跨语境传播和碎片化的[[Analytic Framework|分析框架]]。
 
 > [!quote]
 > "the work of education is constructive" — Dewey [1916] 2018, p.287
@@ -191,7 +194,7 @@ updated: 2026-05-26
 
 ### 1910s — 民主教育的系统化
 
-- 核心内容：在 *How We Think* 和 *Democracy and Education* 中，反思性思维、经验、学校和民主被组织为一套教育哲学。
+- 核心内容：在 *How We Think* 和 *Democracy and Education* 中，[[Reflexivity|反思性]]思维、经验、学校和民主被组织为一套教育哲学。
 - 思想发展：民主从政治制度扩展为生活方式，教育成为民主社会自我更新的条件。这个目标在民国中国被快速吸收，但也因为缺乏民主制度前提而与渐进改革方法发生张力（Zhou & Westberg, 2024, pp.610–611, 622）。
 - 相关概念／理论：[[Scientific Attitude]]、[[Transactional Epistemology]]
 
@@ -212,7 +215,7 @@ updated: 2026-05-26
 
 ### 美国教育与公共哲学
 
-- 在美国本土，杜威通过芝加哥实验学校、哥伦比亚大学师范学院和[[Progressive Education|进步教育]]运动，将活动课程、经验学习、反思性思维和民主生活训练变成 20 世纪教育改革的核心词汇。
+- 在美国本土，杜威通过芝加哥实验学校、哥伦比亚大学师范学院和[[Progressive Education|进步教育]]运动，将活动课程、经验学习、[[Reflexivity|反思性]]思维和民主生活训练变成 20 世纪教育改革的核心词汇。
 - 在公共哲学上，杜威对新闻、公共舆论和公民沟通的讨论，为后来的公共新闻学、协商民主和参与式公共性理论提供了重要资源。
 
 ---
@@ -220,7 +223,7 @@ updated: 2026-05-26
 ### 中国教育改革
 
 - 1919–1921 年访华期间，其思想和演讲成为[[New Education Movement|新教育运动]]的重要理论资源；《新教育》杂志及哥伦比亚大学师范学院归国学生网络共同推动其传播（Schulte, 2009, p.73；Zhou & Westberg, 2024, pp.614–615）。
-- 1922 年学制改革的七项标准和 1923 年课程改革吸收了杜威关于社会适应、个性发展、生活教育、地方伸缩和课程整合的部分思想，但也将民主教育目标去政治化，并弱化其渐进改革方法（Zhou & Westberg, 2024, pp.617–618）。
+- 1922 年学制改革的七项标准和 1923 年课程改革吸收了杜威关于社会适应、个性发展、生活教育、地方伸缩和课程[[Integration in Mixed Methods|整合]]的部分思想，但也将民主教育目标去政治化，并弱化其渐进改革方法（Zhou & Westberg, 2024, pp.617–618）。
 - 其"学校即社会"理念被中国教育改革者吸收为将教育与现实社会连接的理论资源，尤其体现在 [[Tao Xingzhi|陶行知]]的平民教育实践中（Zhou & Westberg, 2024, p.621）。
 - 在转移过程中，杜威的民主教育理想与渐进改革路径的关系经历了从统一到分裂的转化（Zhou & Westberg, 2024, p.622）。
 

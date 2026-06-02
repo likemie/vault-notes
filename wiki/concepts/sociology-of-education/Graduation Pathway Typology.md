@@ -20,6 +20,7 @@ related_concepts:
   - "[[Cultural Barrier]]"
   - "[[Lost Mode]]"
   - "[[Value Conformist Mode]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
@@ -92,7 +93,7 @@ updated: 2026-05-18
 ## 理论基础
 
 > [!info] 理论基础
-> 该模型整合了文化社会学中关于文化与行动关系的两种理论路径（[[Yajun Zheng|郑雅君]]，2023）：
+> 该模型[[Integration in Mixed Methods|整合]]了文化社会学中关于文化与行动关系的两种理论路径（[[Yajun Zheng|郑雅君]]，2023）：
 >
 > - **价值观驱动范式**（[[Max Weber|韦伯]]-帕森斯传统）：解释人的行动目的如何确立——对应横轴的价值信念驱动力维度
 > - **[[Culture as Toolkit|文化工具箱]]范式**（Swidler, 1986）：解释人如何像使用工具那样使用文化去达到预先确立的目的——对应纵轴的目的-手段行动力维度

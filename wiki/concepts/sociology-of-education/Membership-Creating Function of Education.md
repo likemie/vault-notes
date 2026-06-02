@@ -14,7 +14,8 @@ related_concepts: []
 related_theories:
   - "[[Nation Building through Education]]"
   - "[[World Society Theory]]"
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[Liberal Studies]]"
@@ -55,7 +56,7 @@ updated: '2026-05-18'
 > - **普遍性的宣称与实际限制**：公共教育被设想为普遍的——包括两性、不顾宗教和社会阶级归属——但这些"普遍性"不延伸至国界之外。即使在国内，"普遍性"可能也只是"仪式性地"实现（Amos, 2022, p.55）
 > - **持续至今的当代回响**：Amos 指出，"直到今天，关于谁有权利接受教育的问题仍然相关——围绕难民儿童、移民或所谓非法外国人的学校教育争议就是明证"（Amos, 2022, p.55）
 >
-> > 例：今天欧洲的难民儿童入学权争论，正是 membership-creating 逻辑的当代回响。如果难民儿童在德国公立学校接受教育、学会德语、学习德国历史和文化——从功能上讲，他们就在经历 membership-creating 过程。反对者担心的是：这些人"不是我们的公民"，为什么要用公共资源为他们创造成员身份？争议之所以棘手，正是因为现代教育的 DNA 里就编码了这个"内外之分"。
+> > 例：今天欧洲的难民儿童入学权争论，正是 membership-creating 逻辑的当代回响。如果难民儿童在德国公立学校接受教育、学会德语、学习德国历史和文化——从功能上讲，他们就在经历 membership-creating 过程。反对者担心的是：这些人"不是我们的公民"，为什么要用公共资源为他们创造成员身份？争议之所以棘手，正是因为现代教育的 DNA 里就[[Coding in Qualitative Research|编码]]了这个"内外之分"。
 >
 
 ## 理论基础

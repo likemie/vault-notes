@@ -9,8 +9,7 @@ type: concept
 tags:
   - research-methodology
   - qualitative-research
-related_concepts:
-  - "[[Reflexivity]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"

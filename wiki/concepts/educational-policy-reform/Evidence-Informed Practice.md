@@ -14,9 +14,11 @@ tags:
 - region/global
 related_concepts:
   - "[[Professional Judgment]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Formative Assessment]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
+  - "[[Probes]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[School Leadership]]"
   - "[[Knowledge Mobilisation]]"
@@ -24,7 +26,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Formative Program Evaluation]]"
@@ -32,7 +34,6 @@ related_persons:
   - "[[Carol Campbell]]"
   - "[[Julie Nelson]]"
 related_facts:
-  - "[[Campbell Collaboration]]"
   - "[[ResearchED]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
@@ -53,7 +54,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info] 定义
-> 证据知情实践（Evidence-Informed Practice, EIP）是一种教育决策取向：研究证据只是影响实践判断的多个资源之一，教育者需要把研究、课堂数据、系统信息与[[Professional Judgment|专业判断]]一起整合，而不是被单一证据源驱动（Nelson & [[Campbell Collaboration|Campbell]], 2017, pp.127–129）。
+> 证据知情实践（Evidence-Informed Practice, EIP）是一种教育决策取向：研究证据只是影响实践判断的多个资源之一，教育者需要把研究、课堂数据、系统信息与[[Professional Judgment|专业判断]]一起[[Integration in Mixed Methods|整合]]，而不是被单一证据源驱动（Nelson & Campbell, 2017, pp.127–129）。
 >
 > > "We named this special issue Evidence-informed practice in education to reflect our view that evidence is just one of a number of factors that influence educational decisions, with educators needing to apply professional judgment, rather than being driven solely by research evidence or data."（Nelson & Campbell, 2017, p.128）
 
@@ -64,7 +65,7 @@ updated: '2026-05-23'
 
 ### 多源证据整合
 
-Nelson & [[Campbell Collaboration|Campbell]] (2017, p.129) 把 EIP 概括成四类资源的整合：
+Nelson & Campbell (2017, p.129) 把 EIP 概括成四类资源的[[Integration in Mixed Methods|整合]]：
 
 1. **[[Professional Judgment|专业判断]]**：教育者基于经验、价值观和情境理解作出的判断
 2. **系统层面数据**：学校、学区、州/省或国家的管理与评估数据
@@ -78,14 +79,14 @@ Nelson & [[Campbell Collaboration|Campbell]] (2017, p.129) 把 EIP 概括成四�
 
 EIP 的核心分歧不在“要不要看研究”，而在“研究在决策里是什么地位”。这里研究证据不被理解成直接决定课堂行动的命令，而被理解成进入专业判断过程的一类输入（Nelson & Campbell, 2017, p.128–129）。
 
-在欧洲政策语境中，evidence-informed education 还带有制度含义：欧盟文件通常鼓励成员国使用证据，而不是规定统一证据标准或强制行动线；研究证据也不限于实验研究，而可以包括定性和[[Mixed Method and Multi-method Research|混合方法]]（Pellegrini & Vivanet, 2021, p.26）。因此，EIP 在欧洲不仅是教师专业判断问题，也是一种适应成员国教育主权和多样化教育系统的政策语言。
+在欧洲政策语境中，evidence-informed education 还带有制度含义：欧盟文件通常鼓励成员国使用证据，而不是规定统一证据标准或强制行动线；研究证据也不限于实验研究，而可以包括定性和[[Mixed Methods Research|混合方法]]（Pellegrini & Vivanet, 2021, p.26）。因此，EIP 在欧洲不仅是教师专业判断问题，也是一种适应成员国教育主权和多样化教育系统的政策语言。
 
 ### 决策信息不止有效性指标
 
 从教育产品消费者角度看，学校需要的决策信息超过[[Effect Size|效应量]]和[[Statistical Significance|统计显著性]]。实践者常偏好同伴推荐和本地试点，是因为这些渠道能提供项目特征、实施要求、使用满意度、成本和地方适配等信息；这些信息的因果识别强度可能不如 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]]，但对采购和持续实施很关键（Ross & Morrison, 2021, pp.120-121）。
 
 > [!example]
-> 一个学校购买阅读软件时，正式研究可以告诉它“平均是否提高阅读成绩”；EIP 还会追问：本校设备能否承载？教师需要多久培训？学生是否愿意每天使用？预算是否允许长期续费？这些问题把正式证据转化为[[Local Knowledge in Evidence-Based Policy|地方知识]]和[[Professional Judgment|专业判断]]问题（Ross & Morrison, 2021, p.121）。
+> 一个学校购买阅读软件时，正式研究可以告诉它“平均是否提高阅读成绩”；EIP 还会[[Probes|追问]]：本校设备能否承载？教师需要多久培训？学生是否愿意每天使用？预算是否允许长期续费？这些问题把正式证据转化为[[Local Knowledge in Evidence-Based Policy|地方知识]]和[[Professional Judgment|专业判断]]问题（Ross & Morrison, 2021, p.121）。
 
 ### 肥沃的土壤与中介条件
 
@@ -104,9 +105,9 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - **vs [[Evidence-Based Education]]** — EBE 更容易把研究证据，尤其高等级实验证据，放在实践决策中心；EIP 则明确把证据定位为多种因素之一，最终仍需通过[[Professional Judgment|专业判断]]整合。
+> - **vs [[Evidence-Based Education]]** — EBE 更容易把研究证据，尤其高等级实验证据，放在实践决策中心；EIP 则明确把证据定位为多种因素之一，最终仍需通过[[Professional Judgment|专业判断]][[Integration in Mixed Methods|整合]]。
 > - **vs [[Local Knowledge in Evidence-Based Policy]]** — EIP 将本地知识和专业判断直接内置进定义，不把它们视为证据应用后的外部修正。
-> - **vs Research-Informed Practice** — Nelson & [[Campbell Collaboration|Campbell]] (2017, p.129) 强调研究证据不等于全部证据，课堂数据和系统数据同样重要；因此 EIP 比单纯“research-informed”更强调多源整合。
+> - **vs Research-Informed Practice** — Nelson & Campbell (2017, p.129) 强调研究证据不等于全部证据，课堂数据和系统数据同样重要；因此 EIP 比单纯“research-informed”更强调多源整合。
 
 ## 历史沿革
 
@@ -116,7 +117,7 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 > - **2000s–2010s** — 英国 Teaching and Learning Research Programme、美国问责政策变化以及加拿大安大略省教育研究与评估战略等，共同推动 EIP 的制度化讨论。
 > - **2013** — 英国 [[ResearchED]] 兴起，草根教师研究使用运动增强。
 > - **2015** — “Flip the System”等论述强化了教师主导、[[Professional Judgment|专业判断]]优先的改进语言。
-> - **2017** — Nelson & [[Campbell Collaboration|Campbell]] 编辑 *Educational Research* 特刊，把 EIP 系统整合为定义、应用和测量三个维度的讨论。
+> - **2017** — Nelson & Campbell 编辑 *Educational Research* 特刊，把 EIP 系统[[Integration in Mixed Methods|整合]]为定义、应用和测量三个维度的讨论。
 
 ## 理论基础
 
@@ -127,7 +128,7 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 ## 实证发现
 
 > [!success] 实证发现
-> - **教师间传播占主导**：教师主要从其他教师处获取关于有效实践的信息（Cooper et al., cited in Nelson & [[Campbell Collaboration|Campbell]], 2017, p.130）。
+> - **教师间传播占主导**：教师主要从其他教师处获取关于有效实践的信息（Cooper et al., cited in Nelson & Campbell, 2017, p.130）。
 > - **实践产生的证据使用比研究使用更普遍**：即使主动发展教师证据使用，实践产生的证据仍比原始研究更常被使用（LaPointe-McEwan et al., cited in Nelson & Campbell, 2017, p.130）。
 > - **同伴推荐和本地试点仍然重要**：教育产品消费者报告很少使用正式研究证据，反而经常依赖同伴推荐和本地试点，因为这些来源更能回答实施、成本和使用体验问题（Ross & Morrison, 2021, pp.120-121）。
 > - **复杂改革需要多目标解释**：[[Students and Teachers Accessing Tomorrow]] 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极变化，但成就结果不明确；不同利益相关者因此会根据自己重视的目标给出不同判断（Ross & Morrison, 2021, pp.122-123）。
@@ -141,8 +142,8 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 ## 争议与批评
 
 > [!warning]
-> - **是否只是 EBP 的软版本**：支持强版本 [[Evidence-Based Education|EBE]] 的立场常把 EIP 视为“证据可以被随意忽视”的宽松版本；而 EIP 支持者则认为它更准确地描述了教育决策的复杂性（Nelson & [[Campbell Collaboration|Campbell]], 2017, p.128–129）。
-> - **多源整合容易变得含糊**：如果 EIP 不说明如何在研究证据、本地价值和实施限制之间做权衡，它可能只把争议后移。[[Students and Teachers Accessing Tomorrow|STAT]] 案例显示，同一组证据可以支持“继续推进数字改革”，也可以支持“项目没有提高成绩”；关键在于哪些结果被承认为成功（Ross & Morrison, 2021, p.123）。
+> - **是否只是 EBP 的软版本**：支持强版本 [[Evidence-Based Education|EBE]] 的立场常把 EIP 视为“证据可以被随意忽视”的宽松版本；而 EIP 支持者则认为它更准确地描述了教育决策的复杂性（Nelson & Campbell, 2017, p.128–129）。
+> - **多源[[Integration in Mixed Methods|整合]]容易变得含糊**：如果 EIP 不说明如何在研究证据、本地价值和实施限制之间做权衡，它可能只把争议后移。[[Students and Teachers Accessing Tomorrow|STAT]] 案例显示，同一组证据可以支持“继续推进数字改革”，也可以支持“项目没有提高成绩”；关键在于哪些结果被承认为成功（Ross & Morrison, 2021, p.123）。
 > - **测量困境**：EIP 越强调情境依赖和动态整合，就越难被简单量化；Nelson & Campbell (2017, p.133) 明确提醒，不能只研究那些最容易量化的部分。
 > - **英语国家中心主义**：当前被整合的案例主要来自英语或欧洲语境，EIP 在非西方教育系统中的概念化与制度条件仍欠缺呈现。
 
@@ -153,7 +154,7 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 
 ### 实践社群
 
-- [[ResearchED]] — 英国教师草根证据使用运动，体现教师主动寻找和讨论研究证据的一面（Nelson & [[Campbell Collaboration|Campbell]], 2017, p.130）。
+- [[ResearchED]] — 英国教师草根证据使用运动，体现教师主动寻找和讨论研究证据的一面（Nelson & Campbell, 2017, p.130）。
 
 ### 制度网络
 

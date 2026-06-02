@@ -20,7 +20,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Observation]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -62,7 +62,7 @@ updated: 2026-06-02
 ## 在混合方法研究中的位置
 
 > [!abstract]
-> 在 Creswell & Creswell (2023, p.231) 的混合方法定义中，同时收集量化和质性两类数据是[[Mixed Method and Multi-method Research|混合方法研究]]的第一个定义性特征。量化数据以封闭式为主，质性数据以开放式为主。两类数据提供不同类型的信息来回答[[Research Question|研究问题]]：
+> 在 Creswell & Creswell (2023, p.231) 的混合方法定义中，同时收集量化和质性两类数据是[[Mixed Methods Research|混合方法研究]]的第一个定义性特征。量化数据以封闭式为主，质性数据以开放式为主。两类数据提供不同类型的信息来回答[[Research Question|研究问题]]：
 >
 > - **封闭式数据**：适合检验[[Variable|变量]]关系、测量群体差异、从样本推断总体。
 > - **开放式数据**：适合理解参与者的意义建构、探索现象的过程和情境。

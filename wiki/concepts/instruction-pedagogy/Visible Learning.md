@@ -13,6 +13,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Professional Judgment]]"
+  - "[[Probes]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Surface and Deep Learning]]"
@@ -49,6 +50,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Observational and Correlational Research]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Dietrich Benner]]"
@@ -138,7 +140,7 @@ updated: '2026-05-21'
 
 ### 教与学的可见性
 
-教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）（[[John Hattie|Hattie]], 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）。Hattie 援引 Graham Nuthall 的课堂[[Observational and Correlational Research|观察研究]]——教师看不到或听不到课堂中 80% 发生的事情——因此核心思想是"从谈论教学方式转向谈论教学的 impact"（Knudsen, 2017, p.257）。Hattie 团队开发了一款 iPhone app，可在三秒内将教师课堂语言转录为文字并自动编码；7000–8000 名教师使用后发现教师说话占 70–80% 时间，但教师自认为只占 20–30%（Knudsen, 2017, pp.257–258）。
+教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）（[[John Hattie|Hattie]], 2009, p.271，引自 McKnight & Whitburn, 2020, p.40）。Hattie 援引 Graham Nuthall 的课堂[[Observational and Correlational Research|观察研究]]——教师看不到或听不到课堂中 80% 发生的事情——因此核心思想是"从谈论教学方式转向谈论教学的 impact"（Knudsen, 2017, p.257）。Hattie 团队开发了一款 iPhone app，可在三秒内将教师课堂语言转录为文字并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话占 70–80% 时间，但教师自认为只占 20–30%（Knudsen, 2017, pp.257–258）。
 
 ### 效应量排名与铰链点（d=0.40）
 
@@ -157,7 +159,7 @@ Hattie 的核心口号，要求教师以可见证据评估自身教学对学生�
 
 Hattie (2015) 对 VL 的自我解释把重点从“选择排名最高的教学法”转回教师和学校的评价性专业判断。核心问题不是“哪一种方法排名最高”，而是教师能否持续判断自己的教学对学生产生了什么影响、这种影响是否足够大、是否覆盖了足够多学生（Hattie, 2015, pp.11-13, 19）。
 
-这一解释把 VL 与 [[Professional Judgment]] 接了起来：教师不是数据录入员，而是证据解释者。比如，一个班测验成绩提高并不自动说明教学成功；还要追问提高的是表层记忆还是深层理解，哪些学生没有受益，反馈是否真正帮助学生知道下一步怎么改。具体的效应量阈值与统计争议放在 [[Effect Size]]，二级综合的方法论问题放在 [[Meta-meta-analysis]]，这里仅保留 VL 作为学校改进话语的核心机制（Hattie, 2015, pp.11-14）。
+这一解释把 VL 与 [[Professional Judgment]] 接了起来：教师不是数据录入员，而是证据解释者。比如，一个班测验成绩提高并不自动说明教学成功；还要[[Probes|追问]]提高的是表层记忆还是深层理解，哪些学生没有受益，反馈是否真正帮助学生知道下一步怎么改。具体的效应量阈值与统计争议放在 [[Effect Size]]，二级综合的方法论问题放在 [[Meta-meta-analysis]]，这里仅保留 VL 作为学校改进话语的核心机制（Hattie, 2015, pp.11-14）。
 
 > [!example]
 > 一个学校若只是把“高效应量策略”列成海报，仍然可能没有发生可见学习。更符合 Hattie 自我解释的做法是：教师共同看学生作业、比较不同反馈方式、讨论某个单元的成功标准，并在下一轮教学中调整干预。这种循环才是“Know thy impact”的实践含义（Hattie, 2015, pp.12-13）。

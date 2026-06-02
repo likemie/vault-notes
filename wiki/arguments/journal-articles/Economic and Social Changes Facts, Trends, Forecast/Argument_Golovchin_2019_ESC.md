@@ -16,6 +16,7 @@ tags:
 - meta-analysis
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Policy Borrowing]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
@@ -43,7 +44,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> [[John Hattie|Hattie]] 的 [[Visible Learning]] 方法在多大程度上适用于俄罗斯教育？其科学论据的有效性如何？将 Hattie 的理念整合进俄罗斯国家、区域和地方层面的教育政策是否可行？（Golovchin, 2019, p.232）
+> [[John Hattie|Hattie]] 的 [[Visible Learning]] 方法在多大程度上适用于俄罗斯教育？其科学论据的有效性如何？将 Hattie 的理念[[Integration in Mixed Methods|整合]]进俄罗斯国家、区域和地方层面的教育政策是否可行？（Golovchin, 2019, p.232）
 >
 > 文章同时回应一个更大的问题：西方教育改革方案在未经初步检验和未考虑文化传统的情况下被借用至俄罗斯，是否会导致"制度陷阱"？（p.230）
 

@@ -18,6 +18,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Intent-to-Treat Analysis]]"
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准编码中，PNRC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 为 1，对 ITS 为 1（Wadhwa et al., 2024, p.10）。
+> 在设计标准[[Coding in Qualitative Research|编码]]中，PNRC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 为 1，对 ITS 为 1（Wadhwa et al., 2024, p.10）。
 >
 > PNRC 是要求 [[Intent-to-Treat Analysis|ITT]] 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Social Programs That Work|SPTW]]。它在复制标准上强调多地点研究以及跨地点和文化情境复制的效果（Wadhwa et al., 2024, pp.9, 11）。
 >

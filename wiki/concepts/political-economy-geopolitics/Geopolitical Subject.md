@@ -16,6 +16,8 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Analytic Framework]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Graduate Attributes]]"
   - "[[Innovation Hub]]"
   - "[[Geopolitics of Knowledge]]"
@@ -105,7 +107,7 @@ Moisio 刻意使用 **human figures**（人形）而非 people（人）、indivi
 
 Moisio（2022, pp.29–30）将大学定位为在[[Knowledge-Based Economization|知识经济化]]过程中"根本性的地缘政治场所"（fundamental geopolitical sites）——不仅因为大学生产知识，更因为**大学是塑造地缘政治主体的核心制度**。
 
-这一生产过程如何运作？Moisio 提出了分析框架但未充分展开，以下三个维度来自其章节的整合：
+这一生产过程如何运作？Moisio 提出了[[Analytic Framework|分析框架]]但未充分展开，以下三个维度来自其章节的[[Integration in Mixed Methods|整合]]：
 
 1. **课程与教学法的重构**：当大学将"创业精神""跨文化能力""全球视野"嵌入毕业要求（参见 [[Graduate Attributes]]）时，它在做什么？不是在传授知识，而是在规定*理想的人应该是什么样子*。这些要求不是中性的技能清单，而是对主体性的规范性设计
 
@@ -124,7 +126,7 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 >
 > - vs 创意阶层（Creative Class, Florida, 2002）：创意阶层是[[Knowledge-Based Economy|知识经济]]中的一种特定理想主体类型——强调创造力、生活方式偏好和文化消费；地缘政治主体是更广义的分析范畴，涵盖国家通过教育和制度实践系统性地塑造的各类适应全球竞争的主体性形态。创意阶层可以是地缘政治主体的一种具体变体（参见下文关于"创意创业者"的讨论），但地缘政治主体不一定都是"创意阶层"——一个被训练为全球金融服务业员工的毕业生同样是地缘政治主体
 >
-> - vs [[Geopolitics of Knowledge]]：知识地缘政治是广义的分析框架，关涉政治想象、空间重构、治理技术和全球-地方张力等多个维度；地缘政治主体是该框架中"主体生产"维度的核心概念——它回答的是：在知识地缘政治的空间重构中，需要什么样的人来填充这些新的空间？
+> - vs [[Geopolitics of Knowledge]]：知识地缘政治是广义的[[Analytic Framework|分析框架]]，关涉政治想象、空间重构、治理技术和全球-地方张力等多个维度；地缘政治主体是该框架中"主体生产"维度的核心概念——它回答的是：在知识地缘政治的空间重构中，需要什么样的人来填充这些新的空间？
 >
 
 ## 实证表现
@@ -141,7 +143,7 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Knowledge-Based Economization]] — 为地缘政治主体概念提供了总体分析框架：经济化过程不仅涉及市场逻辑的扩展，还涉及"将人们——包括经济和政治行动者——的行为带入某种将保持积累体制运转的配置"（Harvey, 1978, p.121, cited in Moisio, 2022, p.29）
+> - [[Knowledge-Based Economization]] — 为地缘政治主体概念提供了总体[[Analytic Framework|分析框架]]：经济化过程不仅涉及市场逻辑的扩展，还涉及"将人们——包括经济和政治行动者——的行为带入某种将保持积累体制运转的配置"（Harvey, 1978, p.121, cited in Moisio, 2022, p.29）
 > - Hardt & Negri（2000）的 Empire 理论 — 提供对知识密集型资本主义所需劳动类型的分析（交际性、合作性、情感性劳动），解释了为什么地缘政治主体不能仅被还原为技能
 > - Foucault 的[[Governmentality|治理术]]（governmentality）传统 — 隐性地支撑了对主体如何在制度性实践中被形塑的分析；Moisio 的主体"装备"概念与 Foucault 的"主体化"（subjectivation）过程虽未直接引用但存在分析上的亲和性
 >

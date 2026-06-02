@@ -18,6 +18,7 @@ related_concepts:
   - "[[Descriptive Analysis]]"
   - "[[Research Writing Script]]"
   - "[[Competitiveness]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -26,7 +27,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Narrative Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Case Study]]"
@@ -170,7 +171,7 @@ updated: 2026-05-31
 
 ### 混合方法目的陈述
 
-[[Mixed Method and Multi-method Research|混合方法]]目的陈述（mixed methods purpose statement）包含研究的总体意图、量化与质性两个分支的信息、两类数据的整合（integration），以及整合后预期的洞见。好的混合方法目的陈述包含以下要素（Creswell & Creswell, 2022, pp.134–137）：
+[[Mixed Methods Research|混合方法]]目的陈述（mixed methods purpose statement）包含研究的总体意图、量化与质性两个分支的信息、两类数据的[[Integration in Mixed Methods|整合]]（integration），以及整合后预期的洞见。好的混合方法目的陈述包含以下要素（Creswell & Creswell, 2022, pp.134–137）：
 
 > [!abstract] 混合方法目的陈述四要素
 > 1. **总体意图**：研究在内容层面最终要达成什么，最好具有实践价值。
@@ -194,7 +195,7 @@ updated: 2026-05-31
 - [[Exploratory Sequential Design]] — 探索性序列脚本、Enosh et al. (2015) 范例 ("develop a behavior-based tool that can be used to compare differences between different types of workplaces and services." pp.274, 283)
 
 > [!info] 复杂混合方法设计的目的陈述
-> 除三种核心设计外，混合方法目的陈述的意图也可以是将质性数据或两者数据嵌入一个框架或过程（如实验或评估）中。这类[[Mixed Method and Multi-method Research|复杂混合方法设计]]详见 Creswell & Plano Clark (2018)。
+> 除三种核心设计外，混合方法目的陈述的意图也可以是将质性数据或两者数据嵌入一个框架或过程（如实验或评估）中。这类[[Mixed Methods Research|复杂混合方法设计]]详见 Creswell & Plano Clark (2018)。
 
 ## 来源
 

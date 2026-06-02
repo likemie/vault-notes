@@ -21,6 +21,7 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[Promising Practices Network]]"
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在研究设计标准表中，BEE 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 的描述程度为 1，对 RDD 和 ITS 均为 0。作者的编码含义是：1 表示该设计类型只被简要提及，未提供具体实施标准；0 表示标准未提及该设计类型（Wadhwa et al., 2024, pp.9–10, 29）。
+> 在研究设计标准表中，BEE 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 的描述程度为 1，对 RDD 和 ITS 均为 0。作者的[[Coding in Qualitative Research|编码]]含义是：1 表示该设计类型只被简要提及，未提供具体实施标准；0 表示标准未提及该设计类型（Wadhwa et al., 2024, pp.9–10, 29）。
 >
 > BEE 与 Blueprints、[[Promising Practices Network|PPN]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]]、[[Social Programs That Work|SPTW]] 一样，只报告具有正向效果的项目；在最低效果阈值上，BEE 要求至少 0.20 SD 的影响（Wadhwa et al., 2024, p.12）。
 
@@ -65,7 +66,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — BEE 是 12 个被比较的教育清算中心之一（Wadhwa et al., 2024, p.7）。
 > - [[Evidence-Based Education]] — BEE 以项目效果证据评级参与 EBE 的证据传播基础设施（Wadhwa et al., 2024, p.4）。
-> - [[Randomised Controlled Trials]] — BEE 承认 RCT，但其标准描述程度在作者编码中为 1，低于 [[What Works Clearinghouse|WWC]]、[[Home Visiting Evidence of Effectiveness|HomVEE]]、[[Social Programs That Work|SPTW]] 和 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]（Wadhwa et al., 2024, p.10）。
+> - [[Randomised Controlled Trials]] — BEE 承认 RCT，但其标准描述程度在作者[[Coding in Qualitative Research|编码]]中为 1，低于 [[What Works Clearinghouse|WWC]]、[[Home Visiting Evidence of Effectiveness|HomVEE]]、[[Social Programs That Work|SPTW]] 和 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]（Wadhwa et al., 2024, p.10）。
 > - [[Effect Size]] — BEE 要求至少 0.20 SD 的影响，说明其项目评级包含最低效应量阈值（Wadhwa et al., 2024, p.12）。
 
 ## 来源

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准编码中，NDPC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它会给独立评估更高评级，这里的独立性指研究者独立于项目管理者和实施者（Wadhwa et al., 2024, p.12）。
+> 在设计标准[[Coding in Qualitative Research|编码]]中，NDPC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它会给独立评估更高评级，这里的独立性指研究者独立于项目管理者和实施者（Wadhwa et al., 2024, p.12）。
 >
 > NDPC 的项目评级包括 Strong evidence of effectiveness、Moderate evidence of effectiveness、Limited evidence of effectiveness 和 Insufficient evidence of effectiveness。它不为所依据的单项研究提供评级或摘要（Wadhwa et al., 2024, p.13, 15）。
 

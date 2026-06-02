@@ -11,6 +11,7 @@ tags:
   - field/chinese-philosophy
   - theme/learning
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
   - "[[Self-Cultivation]]"
   - "[[Sage]]"
   - "[[University Motto]]"
@@ -43,7 +44,7 @@ updated: 2026-05-25
 ## 核心要素
 
 > [!abstract]
-> [[Zhu Xi|朱熹]]在《大学》中整合了[[Cheng Brothers|程颐]]与程颢的学说，提出了从认知探究到道德实践、从个人[[Self-Cultivation|修身]]到世界治理的完整学习路径。这一路径包含八个步骤（Li, 2012, pp.44, 46-47）：
+> [[Zhu Xi|朱熹]]在《大学》中[[Integration in Mixed Methods|整合]]了[[Cheng Brothers|程颐]]与程颢的学说，提出了从认知探究到道德实践、从个人[[Self-Cultivation|修身]]到世界治理的完整学习路径。这一路径包含八个步骤（Li, 2012, pp.44, 46-47）：
 
 1. 格物（investigating things）——探究事物的原理
 2. 致知（extending knowledge）——扩展知识
@@ -66,7 +67,7 @@ updated: 2026-05-25
 
 > [!note]
 > - 北宋[[Cheng Brothers|程颐]]与程颢首先论证：遵循[[Confucius|孔子]]之"道"需要"格物"以"致知"，从而"穷理"（Li, 2012, p.43）。
-> - 南宋[[Zhu Xi|朱熹]]将此说整合入《大学》，完成了从八个步骤到[[Sage|圣人]]境界的学习路径构建（Li, 2012, p.44）。
+> - 南宋[[Zhu Xi|朱熹]]将此说[[Integration in Mixed Methods|整合]]入《大学》，完成了从八个步骤到[[Sage|圣人]]境界的学习路径构建（Li, 2012, p.44）。
 > - 明代[[Wang Yangming|王阳明]]对程朱的格物路径提出修正，强调"致良知"（扩展内在道德知觉），而非必须先探究外物（Li, 2012, pp.44-45）。
 > - "八条目"的框架至今仍深刻影响东亚教育文化，尤其是"[[Self-Cultivation|修身]]"优先于"探究世界"的价值排序，可见于众多东亚大学的[[University Motto|校训]]之中（Li, 2012, pp.53-55）。
 

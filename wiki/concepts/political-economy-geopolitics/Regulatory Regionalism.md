@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Performance Indicators]]"
   - "[[Global Regionalisms]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Innovation Ecosystem]]"
   - "[[Selectivity]]"
   - "[[Geopolitics of Knowledge]]"
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 > [!note]
 > - **Jayasuriya（2010）**：提出监管区域主义概念框架，分析超国家组织如何通过监管机制而非传统政府间谈判来行使治理权力
 > - **Robertson（2010）**：在欧盟语境中发展了"监管型国家区域主义"（regulatory state regionalism）概念，揭示欧盟如何通过博洛尼亚进程等机制构建新的高等教育治理模式
-> - **Robertson et al.（2016）**：在 [[Global Regionalisms]] 中进一步将高等教育定位为区域地缘政治想象的核心支柱，监管区域主义成为理解区域高等教育整合的关键分析工具（Thompson & Parreira do Amaral, 2022, p.11）
+> - **Robertson et al.（2016）**：在 [[Global Regionalisms]] 中进一步将高等教育定位为区域地缘政治想象的核心支柱，监管区域主义成为理解区域高等教育[[Integration in Mixed Methods|整合]]的关键分析工具（Thompson & Parreira do Amaral, 2022, p.11）
 > - **Rambla（2022）**：通过对 [[Innovation Union]] 和 [[EU Skills Agenda]] 的分析，为监管区域主义提供了具体的经验案例——EUROSTAT 的区域创新记分牌和 NUTS2 [[Performance Indicators|教育指标]]如何通过"治理的间接性"塑造成员国和地方层面的政策选择与认知框架（p.165–175）
 
 ## 核心要素
@@ -77,7 +78,7 @@ updated: '2026-05-18'
 
 ### 高等教育作为特殊场域
 
-高等教育因其与研究、创新和经济增长的密切关联，成为监管区域主义特别活跃的政策领域。Robertson（2010）探讨了欧盟如何通过博洛尼亚进程等机制构建"监管型国家区域主义"的新治理模式。在 [[Europe 2020 Strategy]] 框架下，[[Innovation Union]] 将区域建构为[[Innovation Ecosystem|创新生态]]体系的基本空间单元，[[EU Skills Agenda]] 则将就业与教育培训整合为统一的治理对象——二者共同构成监管区域主义在 EU 高等教育与创新政策领域的具体表现（Thompson & Parreira do Amaral, 2022, p.11; Rambla, 2022, p.168–170）。
+高等教育因其与研究、创新和经济增长的密切关联，成为监管区域主义特别活跃的政策领域。Robertson（2010）探讨了欧盟如何通过博洛尼亚进程等机制构建"监管型国家区域主义"的新治理模式。在 [[Europe 2020 Strategy]] 框架下，[[Innovation Union]] 将区域建构为[[Innovation Ecosystem|创新生态]]体系的基本空间单元，[[EU Skills Agenda]] 则将就业与教育培训[[Integration in Mixed Methods|整合]]为统一的治理对象——二者共同构成监管区域主义在 EU 高等教育与创新政策领域的具体表现（Thompson & Parreira do Amaral, 2022, p.11; Rambla, 2022, p.168–170）。
 
 ### 去政治化的政治
 
@@ -86,7 +87,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]
-> - [[Global Regionalisms]] — Robertson et al.（2016）的框架为理解监管区域主义提供了宏观语境：高等教育被整合进大规模政治经济区域整合项目
+> - [[Global Regionalisms]] — Robertson et al.（2016）的框架为理解监管区域主义提供了宏观语境：高等教育被[[Integration in Mixed Methods|整合]]进大规模政治经济区域整合项目
 > - [[Geopolitics of Knowledge]] — 将监管实践置于知识地缘政治的竞争逻辑中加以理解：[[Knowledge Production|知识生产]]（指标、排名）本身即是一种塑造地理空间中权力关系的操作
 > - [[Performance Indicators]] — 绩效指标是监管区域主义的核心操作机制，Le Galès（2016）的技术—权力双重性框架解释了其如何运作
 > - [[Selectivity]] — Jessop（2007）的策略选择概念解释了监管区域主义中政策替代方案被结构性筛选的机制
@@ -101,7 +102,7 @@ Rambla（2022）对 [[Europe 2020 Strategy]] 及其旗舰倡议的分析为监�
 
 ### Horizon 2020 的 SSH 整合
 
-欧盟通过 Horizon 2020 将社会科学与人文学科研究整合为横向议题嵌入所有优先领域，实质上将其定位为服务于技术和政策议程的辅助角色——这是一种以研究资助为杠杆的监管形式（Thompson & Parreira do Amaral, 2022, pp.11–12）。
+欧盟通过 Horizon 2020 将社会科学与人文学科研究[[Integration in Mixed Methods|整合]]为横向议题嵌入所有优先领域，实质上将其定位为服务于技术和政策议程的辅助角色——这是一种以研究资助为杠杆的监管形式（Thompson & Parreira do Amaral, 2022, pp.11–12）。
 
 ### 地方层面的差异化效应
 

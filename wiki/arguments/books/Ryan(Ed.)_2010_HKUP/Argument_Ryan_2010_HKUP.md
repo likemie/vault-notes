@@ -24,6 +24,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
+  - "[[Analytic Framework]]"
   - "[[Champ]]"
 related_theories: []
 related_methods: []
@@ -74,7 +75,7 @@ updated: 2026-05-18
 > [!example]
 > 编者的论证分为三个层次递进（Slethaug, 2010, pp.1–15）：
 
-> **第 1 层（第 1–2 章）：奠定基础，打破刻板印象。** Slethaug 描绘[[International Education|国际教育]]的增长全景图、确立[[Chinese Learner|中国学习者]]的核心地位；Ryan 系统审视关于中国学习者的缺陷型和优势型刻板印象，提出去本质化的分析框架。
+> **第 1 层（第 1–2 章）：奠定基础，打破刻板印象。** Slethaug 描绘[[International Education|国际教育]]的增长全景图、确立[[Chinese Learner|中国学习者]]的核心地位；Ryan 系统审视关于中国学习者的缺陷型和优势型刻板印象，提出去本质化的[[Analytic Framework|分析框架]]。
 
 > **第 2 层（第 3–5 章）：聚焦香港[[International Schools|国际学校]]中的中国学习者。** Forse 从结构层面分析 [[English Schools Foundation Hong Kong|ESF]] 系统转型；Jabal 从社会学视角考察学生的多元文化体验；Schmidt 探讨价值观为本课程与社会良知的培育。
 

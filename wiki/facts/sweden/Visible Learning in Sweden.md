@@ -14,6 +14,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Probes]]"
   - "[[Effective Teaching]]"
   - "[[Research Question]]"
   - "[[Evidence-Based Education]]"
@@ -33,7 +34,7 @@ updated: '2026-05-20'
 ## 背景
 
 > [!info] 背景
-> 2010 年代中期，[[Visible Learning]] 在瑞典的重要性不主要体现在“是否完整照搬 [[John Hattie|Hattie]] 排名表”，而体现在它帮助学校改进重新聚焦到课堂教学本身。Håkansson（2015）把这种变化概括为一种“教学复兴”——学校改进越来越少停留在宏观结果、组织结构或一般性治理层面，越来越多直接追问课堂里怎样教、怎样观察教学、怎样让教师围绕教学展开协作（Håkansson, 2015, pp.52–53, 58）。
+> 2010 年代中期，[[Visible Learning]] 在瑞典的重要性不主要体现在“是否完整照搬 [[John Hattie|Hattie]] 排名表”，而体现在它帮助学校改进重新聚焦到课堂教学本身。Håkansson（2015）把这种变化概括为一种“教学复兴”——学校改进越来越少停留在宏观结果、组织结构或一般性治理层面，越来越多直接[[Probes|追问]]课堂里怎样教、怎样观察教学、怎样让教师围绕教学展开协作（Håkansson, 2015, pp.52–53, 58）。
 
 ## 经过
 

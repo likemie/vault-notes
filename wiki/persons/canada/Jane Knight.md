@@ -18,6 +18,8 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Probes]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -89,13 +91,13 @@ Zapp (2022) 在分析大学的地缘政治再领土化时援引 Knight (2018) �
 - 在跨境高等教育研究领域：Knight 的 [[International Education Hubs|IEH]] 三类型学已成为分析各国教育枢纽战略的标准参照框架，被 Parreira do Amaral (2022) 用于分析教育枢纽和 Minerva 大学作为新[[Geopolitics of Knowledge|知识地缘政治]]的关键案例
 - 在 [[Geopolitics of Knowledge|知识地缘政治]] 研究领域：Knight (2018) 关于教育枢纽、知识村和智慧城市的分析被 Moisio (2018) 和 Zapp (2022) 援引，以论证大学的地缘政治再领土化——即大学知识越是全球化，大学的物理空间越是被国家用作国际人才与资本竞争的前沿阵地（Zapp, 2022, pp.155–156）
 - 在[[GATS and Trade in Education Services|教育服务贸易]]领域：Knight 对高等教育在 WTO 服务贸易总协定（GATS） 框架中角色的分析，为理解高等教育的商品化与贸易化提供了制度层面的分析工具
-- 在教育枢纽实证研究领域：Erfurth (2022) 的新加坡-阿联酋比较研究在运用 Knight 三类型学作为分析基础的同时，将该框架从政策倡导导向扩展至**地缘政治批判分析**——通过区分[[Cultural Diplomacy|文化外交]]和政治经济两个维度，揭示了 Knight 的类型学在描述枢纽"能做什么"时有效、但不足以追问枢纽"为谁服务"和"绕开了什么"（Erfurth, 2022, pp.203, 205–211）
+- 在教育枢纽实证研究领域：Erfurth (2022) 的新加坡-阿联酋比较研究在运用 Knight 三类型学作为分析基础的同时，将该框架从政策倡导导向扩展至**地缘政治批判分析**——通过区分[[Cultural Diplomacy|文化外交]]和政治经济两个维度，揭示了 Knight 的类型学在描述枢纽"能做什么"时有效、但不足以[[Probes|追问]]枢纽"为谁服务"和"绕开了什么"（Erfurth, 2022, pp.203, 205–211）
 
 ---
 ## 争议与批评
 
 > [!warning]
-- **概念边界模糊**：教育枢纽（education hub）、知识村（knowledge village）、智慧城市（smart city）和技术极（technopole）等概念之间的界限在实践中日益模糊——这些原本各有侧重的发展策略正在融合为一个更广泛的城市-教育-创新综合体，使 Knight 的三类型学面临是否需要扩展或整合的张力（基于 Zapp, 2022, pp.155–156）
+- **概念边界模糊**：教育枢纽（education hub）、知识村（knowledge village）、智慧城市（smart city）和技术极（technopole）等概念之间的界限在实践中日益模糊——这些原本各有侧重的发展策略正在融合为一个更广泛的城市-教育-创新综合体，使 Knight 的三类型学面临是否需要扩展或[[Integration in Mixed Methods|整合]]的张力（基于 Zapp, 2022, pp.155–156）
 - **地缘政治工具化风险**：Zapp (2022) 提示，Knight 所描述的教育枢纽战略同时具有教育和地缘政治双重面向——它们以"国际化"和"全球性"知识空间的面貌出现，但也可能掩盖城市、区域和国家实体持有者的领土主张和市场利益（Moisio & Kangas, 2016，引自 Zapp, 2022, p.156）
 - **肯定性框架的局限**：Erfurth (2022) 指出 Knight 的 [[International Education Hubs|IEH]] 类型学主要采用"政策倡导导向的肯定性框架"——为政策制定者提供枢纽建设指南和进度测量工具——而未能从批判角度审视教育枢纽的地缘政治后果（如区域不平等加剧、大学社会功能的剥离）（Erfurth, 2022, pp.203, 211–212）
 

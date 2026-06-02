@@ -22,9 +22,11 @@ related_concepts:
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Transnational Research Collaboration]]"
+  - "[[Analytic Framework]]"
   - "[[International Schools]]"
   - "[[Doxa]]"
   - "[[Champ]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Technology Transfer]]"
   - "[[Internationalization of Higher Education]]"
@@ -32,7 +34,8 @@ related_concepts:
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Network Society]]"
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Frantz Fanon]]"
 related_facts:
@@ -191,7 +194,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 
 4. **西方延续论**（Delanty, 2006）：拒绝"西方衰落"的假设。资本主义和市场经济的价值观已经通过殖民主义和新自由主义全球化的历史嵌入大多数亚洲国家的政治主流。连中国也认可某种形式的民主（即使被假定具有"中国特色"）。所谓的"亚洲价值"与西方价值体系的基本要素并非完全不兼容。
 
-> Rizvi 列出这四种立场但不明确站队——他的论证策略是：**无论你接受哪种解读，亚洲崛起的事实及其对全球高等教育的结构性影响都是不可否认的**。这四种解读的对立本身恰恰说明传统的地缘政治分析框架无法充分把握正在发生的事情。
+> Rizvi 列出这四种立场但不明确站队——他的论证策略是：**无论你接受哪种解读，亚洲崛起的事实及其对全球高等教育的结构性影响都是不可否认的**。这四种解读的对立本身恰恰说明传统的地缘政治[[Analytic Framework|分析框架]]无法充分把握正在发生的事情。
 
 ### 第四步：核心分析一——国际化如何从"援助"变成"生意"？（§6.4, pp.95–97）
 
@@ -296,7 +299,7 @@ Rizvi 将这四重理性逐一拆解：
 > - 商业利益
 > - 战略和外交利益的融合
 
-这四重理性被融合进了同一套合作话语中。一个澳大利亚大学与一所中国大学的联合实验室，可以同时被表述为：学术合作（研究者视角）、声誉建设（机构视角）、贸易促进（经济部门视角）和公共外交（外交部门视角）。这种多重编码使得跨国研究合作成为一个不同行动者都能从中找到自己需要合法性的话语[[Champ|场域]]。
+这四重理性被融合进了同一套合作话语中。一个澳大利亚大学与一所中国大学的联合实验室，可以同时被表述为：学术合作（研究者视角）、声誉建设（机构视角）、贸易促进（经济部门视角）和公共外交（外交部门视角）。这种多重[[Coding in Qualitative Research|编码]]使得跨国研究合作成为一个不同行动者都能从中找到自己需要合法性的话语[[Champ|场域]]。
 
 **澳大利亚作为最激进的案例**（Rizvi, 2022, pp.99–100）：
 
@@ -305,7 +308,7 @@ Rizvi 用澳大利亚作为具体案例来展示这些抽象分析如何落地�
 - **政策框架**：2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》（Henry Report）——"亚洲世纪是澳大利亚的机遇。随着全球重心向我们的区域转移，距离的暴政正在被邻近的前景所取代"（Henry, 2012, p.1）
 - **制度安排**：AISRF（澳印战略研究基金）、ACSRF（澳中科学与研究基金）——旨在与"高绩效国家"维持和加强"提升我们表现"的研究关系
 - **更广泛的战略**：《国际教育国家战略 2025》——"加强国内外伙伴关系、提升学生和教师流动性、通过促进卓越和拥抱国际教育扩展机遇来使澳大利亚教育机构参与全球竞争"
-- **产业连接**：国家创新与科学议程——将研究合作整合进产业创新战略
+- **产业连接**：国家创新与科学议程——将研究合作[[Integration in Mixed Methods|整合]]进产业创新战略
 
 > 澳大利亚案例说明：当一个国家对亚洲的依赖足够深时，高等教育和研究政策就不再仅仅是教育政策——它们变成了**经济政策、外交政策和安全政策**的综合体。
 
@@ -381,7 +384,7 @@ Rizvi 的结论不是一个简单的"解决方案"，而是一组**方向性的�
 
 Rizvi 拆解了推动[[Transnational Research Collaboration|跨国研究合作]]的四重理性——个体研究者的学术兴趣、机构的声誉和基础设施需求、国家的贸易和外交目标——并指出现代合作话语的独特之处在于这四重理性被**无缝地融合**在同一套叙事中。一个联合实验室可以同时是"学术合作"（研究者话语）、"全球声誉建设"（校长话语）、"贸易促进"（经济部长话语）和"公共外交"（外交部长话语）（Rizvi, 2022, pp.98–99）。
 
-> 通俗理解：这就像一个瑞士军刀——同一把刀，不同的人用它做不同的事，每个人都说"这把刀是为我的需求设计的"。这种多重编码使得跨国研究合作变得"不可拒绝"——因为无论你的立场是什么，你都能从中找到支持它的理由。
+> 通俗理解：这就像一个瑞士军刀——同一把刀，不同的人用它做不同的事，每个人都说"这把刀是为我的需求设计的"。这种多重[[Coding in Qualitative Research|编码]]使得跨国研究合作变得"不可拒绝"——因为无论你的立场是什么，你都能从中找到支持它的理由。
 
 ### 发现五：COVID-19 暴露了而非创造了国际教育商业模式的深层矛盾
 
@@ -404,7 +407,7 @@ Rizvi 论证疫情的作用不是"颠覆"了原有秩序，而是"暴露"了原�
 > ("Asia is rising but Asian wellbeing is not. The quality and quantity of growth are out of synch."))（Pieterse, 2018, p.62, cited in Rizvi, 2022, p.93）
 
 > “语言和文本可以创造、转移或维持意识形态。在《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）的案例中，这种意识形态反映了一种新帝国主义，即更强大的国家将发展中国家保留为它们在知识上继续统治的市场。”
-> (“语言和文本可以创造、转移或维持意识形态。在[[GATS and Trade in Education Services|《服务贸易总协定》]]（GATS）的案例中，这种意识形态反映了一种新帝国主义，即更强大的国家将发展中国家保留为它们在知识上继续统治的市场。”
+> (“语言和文本可以创造、转移或维持意识形态。在《服务贸易总协定》（GATS）的案例中，这种意识形态反映了一种新帝国主义，即更强大的国家将发展中国家保留为它们在知识上继续统治的市场。”
 > ("language and text can create, shift, or maintain ideologies. In the case of [[GATS and Trade in Education Services|GATS]], the ideology reflects a new imperialism where more powerful countries retain developing countries as markets in which they continue to rule intellectually"))（Collins, 2007, p.283, cited in Rizvi, 2022, p.97）
 
 > “大流行是一扇传送门”

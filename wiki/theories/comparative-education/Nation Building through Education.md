@@ -20,7 +20,8 @@ related_concepts:
   - "[[Sinicisation]]"
   - "[[One Country, Two Systems]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[National Education]]"
@@ -66,7 +67,7 @@ updated: '2026-05-21'
 >
 > Membership-creating 与国族建构的关系是：前者是**结构性的制度功能**（为什么要有公立教育），后者是**策略性的政策操作**（如何利用这个制度在边疆推行统一身份）。Yan & Morris (2025) 分析的西藏、新疆、内蒙古和香港案例，都是国家在 membership-creating 制度基础上叠加的策略性强化——在已经划定"谁是中国公民"的边界内部，进一步消除地方文化和替代性身份认同。
 >
-> Amos (2022, p.55) 还指出了 membership-creating 的当代回响："直到今天，围绕难民儿童、移民或所谓非法外国人的学校教育争议"——这些争议之所以棘手，正是因为现代教育的 DNA 里编码了"内外之分"。当国家通过教育系统强化"谁是公民"的边界时，这个机制的历史连续性清晰可见。
+> Amos (2022, p.55) 还指出了 membership-creating 的当代回响："直到今天，围绕难民儿童、移民或所谓非法外国人的学校教育争议"——这些争议之所以棘手，正是因为现代教育的 DNA 里[[Coding in Qualitative Research|编码]]了"内外之分"。当国家通过教育系统强化"谁是公民"的边界时，这个机制的历史连续性清晰可见。
 
 
 > [!abstract] 中国的边疆教育案例

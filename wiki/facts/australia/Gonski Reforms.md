@@ -16,7 +16,8 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[New Public Management]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[Karmel Report]]"
@@ -34,7 +35,7 @@ updated: '2026-05-18'
 > [!info] 背景
 > Gonski 改革是澳大利亚旨在通过**需求本位拨款**（needs-based funding）实现更公平的教育资源配置的政策尝试，试图应对 2000 年以来联邦政府对非公立学校拨款规则改变所导致的日益加剧的系统性资源分配不公（Keddie et al., 2020, IJLE, p.2, 11）。
 >
-> 澳大利亚教育体系由三个部门组成：公立（65.7%学生）、天主教（19.5%）和独立学校（14.8%）。2000 年保守派联邦政府将非公立学校拨款改为基于邮政编码，导致富裕学校获得增加拨款；同时联邦政府从州政府撤回了本应分配给公立学校的生均拨款——这种"成本中性"政策促使许多有选择能力的家庭将子女转入非公立部门，使公立部门日益残余化（Keddie et al., 2020, IJLE, p.2）。
+> 澳大利亚教育体系由三个部门组成：公立（65.7%学生）、天主教（19.5%）和独立学校（14.8%）。2000 年保守派联邦政府将非公立学校拨款改为基于邮政[[Coding in Qualitative Research|编码]]，导致富裕学校获得增加拨款；同时联邦政府从州政府撤回了本应分配给公立学校的生均拨款——这种"成本中性"政策促使许多有选择能力的家庭将子女转入非公立部门，使公立部门日益残余化（Keddie et al., 2020, IJLE, p.2）。
 
 ## 政策文本摘要
 

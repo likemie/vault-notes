@@ -21,6 +21,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[Learning Analytics]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Effect Size]]"
   - "[[External Validity]]"
 related_theories: []
@@ -35,7 +36,6 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[Success for All]]"
-  - "[[Campbell Collaboration]]"
 related_arguments: []
 sources:
   - "[[Slavin_2019_EP]]"
@@ -93,7 +93,7 @@ updated: '2026-05-18'
 >
 > ### 3. RTPI 方案
 >
-> 以已验证项目填充 RTI 三层的系统性方案。Slavin 论证这是 EBR 目前最有证据支撑的应用领域——阅读和数学的个别辅导已积累大量强证据，系统整合后可以几乎确保高危学生成功。
+> 以已验证项目填充 RTI 三层的系统性方案。Slavin 论证这是 EBR 目前最有证据支撑的应用领域——阅读和数学的个别辅导已积累大量强证据，系统[[Integration in Mixed Methods|整合]]后可以几乎确保高危学生成功。
 >
 > 关键数据：[[Top Institute for Evidence-Based Education Research|TIER]] 2 辅导[[Effect Size|效应量]]普遍 +0.20 ~ +0.34；Tier 3 一对一辅导效应量可达 +0.30 ~ +0.86。
 >
@@ -185,7 +185,7 @@ updated: '2026-05-18'
 >
 > **目前状态**：Slavin 的良性循环愿景提供了方向性激励，但 Cowen (2019) 从制度逻辑角度指出 EBE 的韧性可能恰恰来自其服务于官僚需求（而非教育改进）——这一诊断暗示良性循环在制度层面面临的结构性障碍比 Slavin 承认的更为根本。
 >
-> ### 对副作用的回避：Goodhart/[[Campbell Collaboration|Campbell]] 定律
+> ### 对副作用的回避：Goodhart/Campbell 定律
 >
 > **批评内容**：Slavin 未讨论当"达到 ESSA 证据标准"成为目标时可能产生的副作用——Goodhart 定律（当一个指标成为目标时，它就不再是好指标）和 Campbell 定律（量化社会指标越用于决策，越容易被操纵和腐败）。
 >

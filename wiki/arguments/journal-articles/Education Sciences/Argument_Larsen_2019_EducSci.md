@@ -18,6 +18,7 @@ related_concepts:
   - "[[Structural Coupling]]"
   - "[[Bildung]]"
   - "[[Learnification]]"
+  - "[[Reflexivity]]"
   - "[[International Education]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
@@ -89,7 +90,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > - **盲视不可逃避** — VL 的强大追随者"不能看见他们不能看见的东西——无论当他们看见他们认为自己看见的东西时，还是当他们没有看见他们不想看见的东西时"（Larsen, 2019, p.10）
 > - **可见性意识形态的风险** — 如果忘记 Luhmann 的盲点论断，VL 追随者"就是在支持制造一种无边界的超积极可见性意识形态，并堆积有限数据来为大范围的视觉中心模拟做出贡献"（Larsen, 2019, p.10）
-> - **[[John Hattie|Hattie]] 的自反身性局限** — Hattie 和 Zierer 承认"课堂上只有 20% 可观察"（即使这个估计也被 Larsen 认为过高），但将这一自我批判的认识论提醒转而用作呼吁更多 VL 研究的理由——恰恰落入了 Luhmann 描述的盲点困境（Larsen, 2019, p.3）
+> - **[[John Hattie|Hattie]] 的自[[Reflexivity|反身性]]局限** — Hattie 和 Zierer 承认"课堂上只有 20% 可观察"（即使这个估计也被 Larsen 认为过高），但将这一自我批判的认识论提醒转而用作呼吁更多 VL 研究的理由——恰恰落入了 Luhmann 描述的盲点困境（Larsen, 2019, p.3）
 > - **教育的目的是超越增强[[Visible Learning|可见学习]]过程和结果的** — 这远比 VL 所设想的更具挑战性和要求（Larsen, 2019, p.10）
 
 ## 关键引用

@@ -15,6 +15,7 @@ tags:
 - theory/neo-confucianism
 - school/cheng-zhu-school
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
   - "[[Self-Cultivation]]"
   - "[[Sage]]"
   - "[[Take the World Upon Oneself]]"
@@ -44,7 +45,7 @@ updated: 2026-05-22
 > [!info]
 > 朱熹（Zhu Xi, 1130–1200），南宋理学家（[[Neo-Confucianism|Neo-Confucian]]），"可能是[[Confucius|孔子]]和[[Mencius|孟子]]之后最著名的儒家思想家"（Li, 2012, p.44）。其思想与[[Cheng Brothers|程颢]]、程颐兄弟高度契合，因此其学派被称为"程朱学派"（Cheng-Zhu School）。
 
-在儒学经历了近千年的式微之后，宋代早期儒家重新开启了学习传统。朱熹整合前人的思想碎片，将儒家学习路径系统化为一条从格物到平天下的完整修养链条（Li, 2012, pp.43-44, 46-47）。
+在儒学经历了近千年的式微之后，宋代早期儒家重新开启了学习传统。朱熹[[Integration in Mixed Methods|整合]]前人的思想碎片，将儒家学习路径系统化为一条从格物到平天下的完整修养链条（Li, 2012, pp.43-44, 46-47）。
 
 ---
 
@@ -69,7 +70,7 @@ updated: 2026-05-22
 ## 核心思想
 
 > [!tip]
-> 朱熹在三个关键方向上整合了[[Confucian Learning Tradition|儒家学习传统]]：
+> 朱熹在三个关键方向上[[Integration in Mixed Methods|整合]]了[[Confucian Learning Tradition|儒家学习传统]]：
 
 ### 1. 格物致知：认知世界的必要性
 

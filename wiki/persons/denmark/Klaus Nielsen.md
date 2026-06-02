@@ -19,6 +19,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
+  - "[[Analytic Framework]]"
 related_theories:
   - "[[Radical Constructivism]]"
 related_methods:
@@ -113,7 +114,7 @@ updated: '2026-05-19'
 >
 > - **2017** — 与 Klitmøller 以丹麦语发表早期批判，聚焦 VL 的理论和经验基础问题
 > - **2019** — 转向 VL 量化方法论的质量审查（丹麦语）
-> - **2021** — 以两篇英文论文进入国际学术界：(1) 以 Habermas 合法化危机理论提供 VL 全球流行的理论解释（IRTP）；(2) 以[[Technical Rationality|技术理性]]为分析框架，系统追溯 [[John Hattie|Hattie]] 的行为主义理论谱系并对反馈[[Meta-analysis|元分析]]进行细读审查（NordPsych）
+> - **2021** — 以两篇英文论文进入国际学术界：(1) 以 Habermas 合法化危机理论提供 VL 全球流行的理论解释（IRTP）；(2) 以[[Technical Rationality|技术理性]]为[[Analytic Framework|分析框架]]，系统追溯 [[John Hattie|Hattie]] 的行为主义理论谱系并对反馈[[Meta-analysis|元分析]]进行细读审查（NordPsych）
 >
 > 其核心贡献在于从**理论功能**（而非方法论质量）角度解释 VL 的全球流行，与 Rømer (2018, 2019) 的哲学批判、Wrigley & McCusker (2019) 的方法论批判、Cowen (2019) 的制度批判、Wiliam (2019) 的分析认识论批判和 McKnight & Whitburn (2020) 的文化政治批判形成互补。
 

@@ -16,6 +16,7 @@ tags:
   - period/republican-china
 related_concepts:
   - "[[Scientific Attitude]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -67,7 +68,7 @@ updated: 2026-05-26
 
 > [!success]
 > - 推动了 1922 年学制改革，废除了民国元年的固定教育宗旨（"重道德、实利、军国民教育"），代之以七项灵活标准（Zhou & Westberg, 2024, p.617）。
-> - 使 [[John Dewey|杜威]]的儿童中心教学法和课程整合思想进入中国教育实践，如 1923 年课程引入学分制、将历史、地理、公民、卫生合并为"社会"科（Zhou & Westberg, 2024, p.618）。
+> - 使 [[John Dewey|杜威]]的儿童中心教学法和课程[[Integration in Mixed Methods|整合]]思想进入中国教育实践，如 1923 年课程引入学分制、将历史、地理、公民、卫生合并为"社会"科（Zhou & Westberg, 2024, p.618）。
 > - 1923 年后从"民主"原则转向"[[Scientific Attitude|科学态度]]"，为民国教育从激进变革转向国情优先的渐进路线提供了过渡机制（Zhou & Westberg, 2024, pp.619–621）。
 
 ## 争议与评论

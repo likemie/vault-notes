@@ -20,6 +20,8 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Probes]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Champ]]"
   - "[[Causality]]"
   - "[[Tracking]]"
@@ -37,6 +39,7 @@ related_concepts:
   - "[[Side Effects]]"
   - "[[Internal Validity]]"
   - "[[Recommendations for Practice]]"
+  - "[[Multimethod Research]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Construct]]"
   - "[[Direct Instruction]]"
@@ -66,7 +69,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Formative Program Evaluation]]"
 related_persons:
@@ -83,7 +86,6 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[ResearchED]]"
   - "[[Investing in Innovation Program]]"
-  - "[[Campbell Collaboration]]"
   - "[[Playing for Success]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
   - "[[Grammar School]]"
@@ -182,7 +184,7 @@ Wiliam (2019) 则将 EBE 关于"什么有效"的核心问题本身判定为**错
 - **2006–2009** — [[EU Evidence-Informed Education Policy Initiatives]] 开始成形：2006 年欧洲理事会结论强调评价文化，2007 年欧洲委员会工作文件提出知识创造、知识应用和知识中介三类挑战，2009 年 ET 2020 将进展监测视为证据本位政策制定的重要基础（Pellegrini & Vivanet, 2021, pp.28-30）
 - **2011** — 英国 Pupil Premium Toolkit 创建，为 Cowen 的"官僚知识问题"论证提供了具体案例（Wiliam, 2019, p.4）
 - **2013** — 英国 [[What Works Network]] 建立，[[EEF Teaching and Learning Toolkit]] 成为旗舰产品；同年 [[ResearchED]] 由 Tom Bennett 创立为教师草根 [[Evidence-Informed Practice|EIP]] 运动
-- **2016** — OECD 报告（Burns & Köster, 2016）识别了证据本位政策制定的三类挑战："未使用""误用""滥用"。Møller（2017, p.378）追问：更多更好的数据真的提供了解决公平相关改进所需的知识吗？
+- **2016** — OECD 报告（Burns & Köster, 2016）识别了证据本位政策制定的三类挑战："未使用""误用""滥用"。Møller（2017, p.378）[[Probes|追问]]：更多更好的数据真的提供了解决公平相关改进所需的知识吗？
 
 ### 支持者阵营的纲领性论述（2002–2021）
 
@@ -196,7 +198,7 @@ Wiliam (2019) 则将 EBE 关于"什么有效"的核心问题本身判定为**错
 - **2007** — Biesta 在 *Educational Theory* 发表 "Why 'What Works' Won't Work"，提出"民主缺陷"概念
 - **2010** — Biesta 正式提出**三重缺陷**的完整框架（知识缺陷、效力缺陷、应用缺陷）（详见 [[Argument_Biesta_2010_SPE]]）
 - **2015** — Cowen & Cartwright 发表 CHESS 工作论文，通过教师访谈实证研究 EBP 的实施困境（详见 [[Argument_Cowen_2015_CHESS]]）
-- **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 RCT，以改进网络作为实施基础设施，以共享的教育变革机制分类学作为整合媒介（Peterson, 2016）
+- **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 RCT，以改进网络作为实施基础设施，以共享的教育变革机制分类学作为[[Integration in Mixed Methods|整合]]媒介（Peterson, 2016）
 - **2016** — Pampaka, Williams & Homer 编辑 IJRME 特刊 *Is the educational 'what works' agenda working?*，诊断"至今很少有显著正向的教育实践在大规模上出现"（p.231），RCT 领域弥漫"萎靡感"（p.233），并识别 agency 作为核心哲学分歧（Pampaka et al., 2016）
 - **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性（详见 [[Argument_Cowen_2019_ERE]]）；Wrigley & McCusker 论证 EBT 的"科学"宣称基于过分简化的民间科学观（详见 [[Argument_Wrigley_2019_ERE]]）；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的（详见 Argument_Wiliam_2019_ERE）
 - **2019** — Qvortrup 在 NordSTEP 发表 VL 辩护讨论论文，提出"观察透镜"认识论论证（Qvortrup, 2019, p.5; 详见 [[Argument_Qvortrup_2019_NordSTEP]]）
@@ -243,9 +245,9 @@ Wiliam (2019, pp.7–8) 从**教师质量的未测量变异**这一角度补充�
 #### 强版本 vs. 弱版本
 
 - **强版本（evidence-based）**：专业人士只应被允许做有正面研究证据支持的事——以 RCT 证据作为实践决策的核心或唯一依据
-- **弱版本（evidence-informed）**：证据作为信息之一，与[[Professional Judgment|专业判断]]、情境理解等并列——教育者运用专业判断来整合证据，而非被证据驱动
+- **弱版本（evidence-informed）**：证据作为信息之一，与[[Professional Judgment|专业判断]]、情境理解等并列——教育者运用专业判断来[[Integration in Mixed Methods|整合]]证据，而非被证据驱动
 
-Nelson & [[Campbell Collaboration|Campbell]] (2017, pp. 128–129) 明确站在 [[Evidence-Informed Practice|EIP]] 一侧。Wiliam (2019, p.2) 将教师是"技术人员还是专业人员"的问题定位为**实证问题**：如果让教师遵循专业判断而不关注研究证据，学生成就是否提高？研究证据（无论来自 RCT、系统综述还是其他研究）能否帮助改善学生成果？
+Nelson & Campbell (2017, pp. 128–129) 明确站在 [[Evidence-Informed Practice|EIP]] 一侧。Wiliam (2019, p.2) 将教师是"技术人员还是专业人员"的问题定位为**实证问题**：如果让教师遵循专业判断而不关注研究证据，学生成就是否提高？研究证据（无论来自 RCT、系统综述还是其他研究）能否帮助改善学生成果？
 
 ### 证据到政策的转化模型
 
@@ -368,11 +370,11 @@ Pampaka et al. (2016, p.235) 总结了特刊论文的共识方向：
 - **vs [[Value-Based Education]]** — Biesta (2010) 论证：证据本位教育将"什么有效"置于首位；价值本位教育将"什么是值得做的"置于首位
 - **vs 循证医学（Evidence-Based Medicine）** — 循证医学是 EBE 的**起源**和**主要类比**，但 Biesta、Cartwright、Wrigley & McCusker 分别从教育哲学、科学哲学和方法论角度论证了直接类比的局限。Wiliam (2019, p.4) 通过追溯 Hargreaves (1996) TTA 讲座的历史起源，展示医学类比如何从一开始就塑造了 EBE 的议程
 - **vs [[Local Knowledge in Evidence-Based Policy]]** — 本地知识是 EBE 实施中常被忽视但不可或缺的互补性知识来源；Wiliam (2019, pp.12–13) 以 Hayek (1945) 的知识理论为此提供政治经济学基础
-- **vs [[Evidence-Informed Practice]]** — EBE 使研究证据成为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 Nelson & [[Campbell Collaboration|Campbell]] (2017) 系统阐述
+- **vs [[Evidence-Informed Practice]]** — EBE 使研究证据成为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 Nelson & Campbell (2017) 系统阐述
 - **vs [[Effect Size]]** — 效应量是 EBE 方法论的核心分析单位；Simpson 论证其测量试验灵敏度而非有效性；Wiliam (2019, p.11) 明确断言"[[Meta-meta-analysis|元-元分析]]在教育政策制定中绝对没有任何角色"
-- **vs [[Dynamic Knowledge and Learning Model]]** — EBE 常回答"有没有效"；动态模型进一步追问"对哪一类知识有效"，用于细化 EBE 的结果解释层。
+- **vs [[Dynamic Knowledge and Learning Model]]** — EBE 常回答"有没有效"；动态模型进一步[[Probes|追问]]"对哪一类知识有效"，用于细化 EBE 的结果解释层。
 - **vs [[Validity as Inferences]]** — Wiliam (2019, pp.9–10) 将 Cronbach/Messick 的效度理论应用于教育研究方法论：效度是推论的属性，意味着 EBE 的"什么有效"知识永远是临时且局部的
-- **vs [[Professional Judgment]]** — EBE 强版本将证据作为实践决策核心；Qvortrup (2019) 论证教师需要专业判断来整合证据与情境，而非被证据驱动
+- **vs [[Professional Judgment]]** — EBE 强版本将证据作为实践决策核心；Qvortrup (2019) 论证教师需要专业判断来[[Integration in Mixed Methods|整合]]证据与情境，而非被证据驱动
 - **vs [[Epistemic Governance|知识治理]]（Epistemic Governance）** — EBE 主要在国家政策层面讨论"决策是否依据科学证据"这一工具性问题；知识治理是一个更广泛的生成性概念，关注"知识如何在去中心化的全球治理架构中产生治理效应"。Zapp (2022) 将 EBE 所体现的"[[Scientization of Politics|政策的科学化]]"（scientization of politics）定位为知识治理兴起的一个关键维度——政策制定者接受科学证据作为决策的合法性基础，大学和研究者因此进入全球治理的核心舞台（Zapp, 2022, pp.145–146）
 - **vs [[Side Effects]]** — Zhao (2017) 论证 EBE 从医学借鉴了 [[Randomised Controlled Trials|RCT]] 却忽略了对副作用的系统性研究；效果与副作用是同一干预不可分离的双重结果
 
@@ -386,7 +388,7 @@ Pampaka et al. (2016, p.235) 总结了特刊论文的共识方向：
 - [[Cartwright's Three-Stage Knowledge Framework]] — 揭示 RCT 证据从"在某处有效"到"对我们有效"外推所需的三个知识阶段
 - [[Critical Realism]] — Wrigley & McCusker (2019) 用作批判 EBE 方法论的哲学框架，区分三层本体论和开放/封闭系统
 - [[Goldman's Discrimination Theory of Knowledge]] — Wiliam (2019) 运用此理论论证教育知识需要区分真实状态与相关替代状态的能力
-- [[Campbellian Validity Framework]] — Shadish, Cook & [[Campbell Collaboration|Campbell]] (2002) 的实验效度理论：[[Causality|因果推断]]需通过排除[[Internal Validity|内部效度]]威胁建立因果关系
+- [[Campbellian Validity Framework]] — Shadish, Cook & Campbell (2002) 的实验效度理论：[[Causality|因果推断]]需通过排除[[Internal Validity|内部效度]]威胁建立因果关系
 
 ## 争议与批评
 
@@ -493,7 +495,7 @@ Cowen (2019) 对比了 EBE 当前的方法偏好与方法多元论视角下的�
 
 **争议背景**：Brady et al. (2023) 将 EBE 的"证据到实践"问题推进到期刊论文写作层面：教育心理学研究者常希望研究能改善学生学习，但如果[[Non-intervention Research|非干预研究]]直接给出"教师应如何做"的建议，就可能把相关性、观察性或质性发现转化为未经检验的因果行动命令（Brady et al., 2023, pp.2-4）。
 
-**核心发现**：作者审查 2020 年五本经验教育心理学期刊，发现非[[Intervention Research|干预研究]]仍约占全部研究的四分之三；随机实验比例从 2010 年的 23% 降至 2020 年的 20%，而非干预文章中约三分之二包含 [[Recommendations for Practice|实践建议]]。在观察/相关研究中，含实践建议比例从 2000 年 41%、2010 年 46% 上升到 2020 年 66%；[[Qualitative Research|质性研究]]和[[Mixed Method and Multi-method Research|混合方法/多方法研究]]中也分别有 65% 与 60% 包含实践建议（Brady et al., 2023, pp.6-7）。
+**核心发现**：作者审查 2020 年五本经验教育心理学期刊，发现非[[Intervention Research|干预研究]]仍约占全部研究的四分之三；随机实验比例从 2010 年的 23% 降至 2020 年的 20%，而非干预文章中约三分之二包含 [[Recommendations for Practice|实践建议]]。在观察/相关研究中，含实践建议比例从 2000 年 41%、2010 年 46% 上升到 2020 年 66%；[[Qualitative Research|质性研究]]和[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]中也分别有 65% 与 60% 包含实践建议（Brady et al., 2023, pp.6-7）。
 
 **方法论含义**：这项研究补充了 EBE 批判中的"因果推论边界"维度。问题并非[[Non-intervention Research|非干预研究]]没有价值，而是它在研究序列中更适合描述情境、识别变量关系和生成干预假设；若直接提出"采用某实践会改善某结果"的 RFP，就把本应由[[Intervention Research|干预研究]]或[[Experimental Research|实验研究]]检验的因果关系提前写成实践处方（Brady et al., 2023, pp.2-3, 9）。
 
@@ -529,7 +531,7 @@ Cowen (2019) 对比了 EBE 当前的方法偏好与方法多元论视角下的�
 
 #### 政治经济学批判（Cowen, 2019）
 
-Biesta 从认识论维度识别了 EBE 的"缺陷"；Cowen (2019) 借助 [[Tullock's Bureaucracy Theory]] 追问：**既然缺陷已知，为什么 EBE 仍然主导政策？**
+Biesta 从认识论维度识别了 EBE 的"缺陷"；Cowen (2019) 借助 [[Tullock's Bureaucracy Theory]] [[Probes|追问]]：**既然缺陷已知，为什么 EBE 仍然主导政策？**
 
 答案在于 EBE 的**官僚功能**：RCT + 系统综述提供了一套**对主权者透明的过滤机制**——事先注册的研究协议和形式化的效应量产生看似客观的决策依据。
 
@@ -553,7 +555,7 @@ O'Neill（2012）以 NZ Treasury 2011 年简报为案例，识别了 EBE 证据�
 4. **忽视关怀伦理**：爱、同僚情谊、慷慨——难以测量和货币化的维度——被 VL 边缘化。Noddings（1986）的关怀问题被替代为"Know thy impact"。最具渗透力的权力属于能进行元分析和 RCT 的人，而非教师或学生（McKnight & Whitburn, 2020, p.38）
 5. **接近法西斯主义**：VL 被描述为"极权主义有组织的遗忘"（Kundera, 1981）——系统性忘记其做法原本就是教师的做法。Pinar（2011）警告不加理解地应用课程→法西斯主义。VL 殖民教师的"表演性教学想象"（McKnight, 2016）（McKnight & Whitburn, 2020, p.38-39）
 6. **过度简化**："Impact"一词意为"有力的接触"（子弹、炮弹的词典释义）。"Know thy impact"带有圣经式语气——在后结构主义质疑之后对确定性的加固。实证主义科学的纪律只是"另一种虚构"（McKnight & Whitburn, 2020, p.39-41）
-7. **能力主义假设**："只有可见的才重要"——对人们应具备何种能力才能被算作成功做出了规范性假设。能力主义"设定两个截然不同且完全清晰的本体论区域：残疾的和健全的"（[[Campbell Collaboration|Campbell]], 2009, p.8）。有视觉障碍的教师和学生被系统性排斥——这种对公平的"影响"未被计入 VL 的效应量（McKnight & Whitburn, 2020, p.41）
+7. **能力主义假设**："只有可见的才重要"——对人们应具备何种能力才能被算作成功做出了规范性假设。能力主义"设定两个截然不同且完全清晰的本体论区域：残疾的和健全的"（Campbell, 2009, p.8）。有视觉障碍的教师和学生被系统性排斥——这种对公平的"影响"未被计入 VL 的效应量（McKnight & Whitburn, 2020, p.41）
 
 **对 EBE 批判框架的补充**：McKnight & Whitburn 的贡献补充了 EBE 批判的**第六个维度——文化政治维度**：
 

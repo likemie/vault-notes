@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Material Fallacies]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Analytic Framework]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Familiarization]]"
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 > [!info] 研究方法
 > - 方法：政策话语案例分析（commentary）
 > - 分析对象：Treasury (2011) 简报文本、部长议会答复（House of Representatives, 2012）、[[John Hattie|Hattie]] (2009a, 2009b) VL 证据
-> - 分析框架：Kreeft [[Material Fallacies|实质谬误]]分类 + Ball (2007) 公共部门信任/不信任悖论
+> - [[Analytic Framework|分析框架]]：Kreeft [[Material Fallacies|实质谬误]]分类 + Ball (2007) 公共部门信任/不信任悖论
 
 ## 核心论证
 

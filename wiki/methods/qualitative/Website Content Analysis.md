@@ -20,7 +20,8 @@ related_concepts:
   - "[[Concierge Service]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
@@ -78,7 +79,7 @@ updated: 2026-05-27
 > [!success]
 - 适合研究**组织如何对外呈现其结构、职能和战略**——当[[Research Question|研究问题]]涉及"组织声称自己在做什么"而非"组织实际上在做什么"时，网站分析是最直接的数据来源（Boccanfuso & Hall, 2025, pp.56–57）
 - 适合**较大规模的组织比较研究**——相比访谈或问卷，网站分析的数据收集成本较低，可以在较短时间内覆盖数十甚至上百个组织
-- 适合作为[[Mixed Method and Multi-method Research|混合方法]]设计中的**探索性或描述性组件**——网站分析可以帮助研究者建立分类框架，为后续的访谈或问卷调查提供结构化基础（Boccanfuso & Hall, 2025, pp.55–56）
+- 适合作为[[Mixed Methods Research|混合方法]]设计中的**探索性或描述性组件**——网站分析可以帮助研究者建立分类框架，为后续的访谈或问卷调查提供结构化基础（Boccanfuso & Hall, 2025, pp.55–56）
 - 特别适合高等教育研究、组织研究和公共管理研究中涉及**大学、政府机构、非营利组织**等公开透明要求较高的机构
 
 ## 局限性
@@ -86,7 +87,7 @@ updated: 2026-05-27
 > [!warning]
 - **公开内容与实际运作的偏差**：网站可能夸大中心办公室的覆盖范围（为了展示"一站式服务"的形象），也可能未反映非正式但有效的内部协调机制。Boccanfuso 和 Hall（2025, p.56）明确承认"网站分析基于大学公开呈现的内容，可能与实际组织结构存在偏差"
 - **样本代表性的局限**：如果样本来自特定组织网络（如 [[University Industry Demonstration Partnership|UIDP]] 会员），结论可能无法推广到非会员组织。Boccanfuso 和 Hall（2025）的样本以美国大型研究型大学为主，对小型文理学院和非美国大学的适用性有限（p.56）
-- **编码的主观性**：将网页描述归类为五种组织模式或六级权限等级，需要研究者判断。不同研究者可能对同一网页归类不同——网站内容分析通常缺乏文本分析中常见的"编码员间信度"（inter-coder reliability）报告
+- **[[Coding in Qualitative Research|编码]]的主观性**：将网页描述归类为五种组织模式或六级权限等级，需要研究者判断。不同研究者可能对同一网页归类不同——网站内容分析通常缺乏文本分析中常见的"编码员间信度"（inter-coder reliability）报告
 - **网站内容的时效性**：网站可能未及时更新，反映的是过去的组织结构而非当前状态
 
 ## 方法变体与相近方法

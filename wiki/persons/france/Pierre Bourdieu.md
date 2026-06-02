@@ -16,10 +16,12 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Doxa]]"
+  - "[[Reflexivity]]"
   - "[[Cultural Capital]]"
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
   - "[[School Leadership]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Disembedding]]"
@@ -54,7 +56,7 @@ updated: 2026-05-19
 ## 简介
 
 > [!info]
-> Pierre Bourdieu（1930–2002）是法国社会学家、人类学家和公共知识分子，20 世纪后半叶最具影响力的社会理论家之一。其理论以[[Habitus|习性]]、[[Champ|场域]]、资本、[[Doxa]]、符号暴力和反思性社会学为核心，试图解释社会等级秩序如何通过教育、文化、语言、学术、国家和日常实践被再生产。
+> Pierre Bourdieu（1930–2002）是法国社会学家、人类学家和公共知识分子，20 世纪后半叶最具影响力的社会理论家之一。其理论以[[Habitus|习性]]、[[Champ|场域]]、资本、[[Doxa]]、符号暴力和[[Reflexivity|反思性]]社会学为核心，试图解释社会等级秩序如何通过教育、文化、语言、学术、国家和日常实践被再生产。
 >
 > 对教育研究而言，Bourdieu 的关键意义在于：他把学校从“中立选拔机构”重新理解为一个将阶层差异转化为合法学业差异的制度场域。教育系统并不只是传递知识，也通过承认某些[[Cultural Capital|文化资本]]、语言风格和身体化倾向，将特权转化为看似自然的能力与成绩。
 
@@ -130,7 +132,7 @@ updated: 2026-05-19
 
 - Bourdieu, P., Chamboredon, J.-C., & Passeron, J.-C. (1968/1991). *The Craft of Sociology: Epistemological Preliminaries*. — 阐述[[Epistemological Break|认识论断裂]]、[[Epistemological Vigilance|认识论警觉]]和研究对象建构问题；Eacott（2015, p.313）将其视为教育行政研究中常被忽略的 Bourdieu 认识论维度。
 - Bourdieu, P. (1982). *Ce que parler veut dire: l'économie des échanges linguistiques*. Fayard. — 将资本和场域框架延伸至语言交换，分析语言的符号权力。
-- Bourdieu, P. (1984). *Homo academicus*. Minuit. — 以学术世界为对象实践反思性社会学。
+- Bourdieu, P. (1984). *Homo academicus*. Minuit. — 以学术世界为对象实践[[Reflexivity|反思性]]社会学。
 - Bourdieu, P. (1989). *La Noblesse d'État: grandes écoles et esprit de corps*. Minuit. — 分析法国精英大学校与国家权力的关系，提出学校化再生产模式。
 - Bourdieu, P., & Wacquant, L. (1992). *Réponses: pour une anthropologie réflexive*. Seuil. — 以对话形式系统阐述反思性社会学、场域和实践理论。
 
@@ -197,7 +199,7 @@ Bourdieu 的社会理论包含一套系统的认识论预备。Eacott（2015）�
 ## 思想发展
 
 > [!note]
-> 按阶段说明 Bourdieu 的问题意识如何从殖民社会和教育再生产，扩展到实践理论、[[Champ|场域]]分析、公共介入和反思性社会学。
+> 按阶段说明 Bourdieu 的问题意识如何从殖民社会和教育再生产，扩展到实践理论、[[Champ|场域]]分析、公共介入和[[Reflexivity|反思性]]社会学。
 
 ### 1958–1970 — 阿尔及利亚田野与教育再生产
 
@@ -238,7 +240,7 @@ Bourdieu 的社会理论包含一套系统的认识论预备。Eacott（2015）�
 
 ### 法国社会学与国际社会理论
 
-- Bourdieu 的工作整合并推进了经典社会学的三大传统——从 Weber 处继承符号维度在一切支配中的合法性作用及"秩序"概念（后来发展为**[[Champ|场域]]**）；从 Marx 处接过**资本**概念并一般化至一切社会活动；从 Durkheim 处继承某种决定论风格，并通过 Mauss 和 Lévi-Strauss 吸收了结构主义
+- Bourdieu 的工作[[Integration in Mixed Methods|整合]]并推进了经典社会学的三大传统——从 Weber 处继承符号维度在一切支配中的合法性作用及"秩序"概念（后来发展为**[[Champ|场域]]**）；从 Marx 处接过**资本**概念并一般化至一切社会活动；从 Durkheim 处继承某种决定论风格，并通过 Mauss 和 Lévi-Strauss 吸收了结构主义
 - 1975 年创办 *Actes de la recherche en sciences sociales* 期刊成为展示其自身及学生工作的主要阵地，主导了法国战后社会学的重要流派
 - 自 1970 年代起被英美学界广泛接受，1980 年代后在德语世界（经 Joseph Jurt 等人推动）获得认可
 - *La Distinction* 被国际社会学会评为 20 世纪十大社会学著作
@@ -293,7 +295,7 @@ Schulze-Cleven et al.（2017）在分析高等教育的新政治经济学时，�
 
 - **Luc Boltanski**（前合作者）：脱离批判社会学，转向强调行动者批判能力的"[[Pragmatic Paradigm|实用主义]]社会学"（与 Laurent Thévenot 合作），后尝试在批判方法与[[Pragmatic Paradigm|实用主义]]方法之间建立连接
 - **Jacques Rancière**：在 *Le philosophe et ses pauvres* 中质疑 Bourdieu 的批判社会学存在无限续写支配的风险，忽视了解放的前景
-- **Bruno Latour**：批评 Bourdieu 采取的俯视姿态——将社会行动者视为缺乏反思性的单纯信息提供者，而研究者以"上帝视角"占据"无所不在的观察点"
+- **Bruno Latour**：批评 Bourdieu 采取的俯视姿态——将社会行动者视为缺乏[[Reflexivity|反思性]]的单纯信息提供者，而研究者以"上帝视角"占据"无所不在的观察点"
 - **Marcel Gauchet**：激进否定 Bourdieu 思想，称之为"知识灾难"——"一种机械论和决定论思想的精巧包装，根本不能让人理解一个社会如何运作"
 
 ---

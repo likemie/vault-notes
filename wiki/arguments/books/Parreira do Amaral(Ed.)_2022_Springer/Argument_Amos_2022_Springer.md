@@ -16,6 +16,7 @@ tags:
   - higher-ed
 related_concepts:
   - "[[Variable]]"
+  - "[[Analytic Framework]]"
   - "[[Transhumanism]]"
   - "[[Posthumanism]]"
   - "[[Response-ability]]"
@@ -26,7 +27,9 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Vergegenkunft]]"
   - "[[Educational Technology Industry]]"
+  - "[[Probes]]"
   - "[[Learning Analytics]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[SF (Haraway)]]"
   - "[[Humosity]]"
   - "[[Mondialisation]]"
@@ -39,7 +42,8 @@ related_theories:
   - "[[Autopoiesis]]"
   - "[[Luhmann's Systems Theory]]"
   - "[[Transition Design]]"
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Robert Cowen]]"
   - "[[Julian Huxley]]"
@@ -68,7 +72,7 @@ updated: 2026-05-18
 >
 > > 用一个比喻来理解：如果把现代教育比作一栋国家建造的大楼——楼层分明、课程按年级排好、毕业证书盖着国家印章——那么晚期现代性就像一场持续的地震。大楼的框架仍在，但地基在摇晃，新的建筑商（市场、科技公司、国际组织）正在大楼旁边搭建各种临时和永久的结构。我们不知道最终会变成什么样子——是一栋翻新的大楼，还是一片没有中心建筑的分散聚落。
 >
-> 在这个前提下，Amos 设置了两种对立的教育愿景作为分析框架：一种是**技术优化的 [[Transhumanism]]**（以效率、最大化和增强为核心逻辑），另一种是**关系性的 [[Posthumanism]]**（以 connectivity 和 [[Response-ability]] 为核心伦理）。她并不声称哪一方"正确"，而是邀请读者参与讨论——尤其在全书关注高等教育的背景下。
+> 在这个前提下，Amos 设置了两种对立的教育愿景作为[[Analytic Framework|分析框架]]：一种是**技术优化的 [[Transhumanism]]**（以效率、最大化和增强为核心逻辑），另一种是**关系性的 [[Posthumanism]]**（以 connectivity 和 [[Response-ability]] 为核心伦理）。她并不声称哪一方"正确"，而是邀请读者参与讨论——尤其在全书关注高等教育的背景下。
 >
 > 整章的论证结构可理解为三次对比：**过去 vs 现在**（从国家中心到市场中心）、**技术路径 A vs B**（超人类主义 vs 后人类主义）、**描述 vs 规范**（正在发生什么 vs 我们希望教育走向哪里）。
 >
@@ -84,7 +88,7 @@ updated: 2026-05-18
 ## 研究方法
 
 > [!info] 研究方法
-> 这是一篇规范性概念分析（normative conceptual analysis），不是经验研究。Amos 的方法是：选取一个分析框架（[[Robert Cowen]] 的 [[Transitology]] 和双轴模型），用它来诊断两种对立的教育愿景，然后在论证的后半段从描述转向规范——为[[Posthumanism|后人类主义]]方向提供论证。文中引用的 Escobar [[Transition Design|转型设计]]十条原则等材料，用来支撑"关系性路径已有具体主张"这一论点。
+> 这是一篇规范性概念分析（normative conceptual analysis），不是经验研究。Amos 的方法是：选取一个[[Analytic Framework|分析框架]]（[[Robert Cowen]] 的 [[Transitology]] 和双轴模型），用它来诊断两种对立的教育愿景，然后在论证的后半段从描述转向规范——为[[Posthumanism|后人类主义]]方向提供论证。文中引用的 Escobar [[Transition Design|转型设计]]十条原则等材料，用来支撑"关系性路径已有具体主张"这一论点。
 >
 
 ## 论证结构
@@ -100,7 +104,7 @@ updated: 2026-05-18
 >
 > 这个系统的核心机制是** 创造成员身份**（membership-creating）：教育让你"成为"某个国家的公民。但 Amos 提醒我们注意这个机制的黑暗面——它是通过**划定边界**来运作的（Amos, 2022, p.55）。公立教育的"普遍性"（universality）只延伸到国界之内。
 >
-> > 例：今天欧洲关于难民儿童入学权的争论，就是这一历史逻辑的当代回响。如果你的父母没有合法居留身份，你是否"属于"这个国家的公立教育系统？这个问题之所以如此棘手，正是因为现代教育的 DNA 里就编码了"内外之分"。（Amos, 2022, p.55）
+> > 例：今天欧洲关于难民儿童入学权的争论，就是这一历史逻辑的当代回响。如果你的父母没有合法居留身份，你是否"属于"这个国家的公立教育系统？这个问题之所以如此棘手，正是因为现代教育的 DNA 里就[[Coding in Qualitative Research|编码]]了"内外之分"。（Amos, 2022, p.55）
 >
 > ### 第二步：画出转型地图——Cowen 的双轴模型（§4.2 续）
 >
@@ -130,7 +134,7 @@ updated: 2026-05-18
 >
 > ### 第三步：诊断当下驱动力——数字化的三重逻辑（§4.3）
 >
-> 如果第二步描述的是"市场取代国家成为教育的主要组织者"，那么第三步追问的是：是什么技术在加速这个过程？答案是**数字化**——无论有没有 COVID-19，数字化都在深刻重塑教育。
+> 如果第二步描述的是"市场取代国家成为教育的主要组织者"，那么第三步[[Probes|追问]]的是：是什么技术在加速这个过程？答案是**数字化**——无论有没有 COVID-19，数字化都在深刻重塑教育。
 >
 > Amos 拆解了数字化被推动的三重动机，只有理解了这三重动机的同时运作，才能理解为什么数字化是"不可逆"的（Amos, 2022, pp.56–57）：
 >
@@ -201,7 +205,7 @@ updated: 2026-05-18
 > 7. **放大涌现的草根方案**——寻找已经存在的创新并支持它们
 > 8. **基于最大化最广泛需求的满足**——不是为少数人优化
 > 9. **设计师自身心态是设计的核心构成**——自我反思是方法论的一部分
-> 10. **重新整合和重新情境化跨学科知识**——打破学科壁垒
+> 10. **重新[[Integration in Mixed Methods|整合]]和重新情境化跨学科知识**——打破学科壁垒
 >
 > 所有这些原则有一个共同特征：**拒绝宏大蓝图，拥抱地方实验**。这与 Cowen 市场驱动模型中的"标准化"和"效率最大化"形成鲜明对比。
 >

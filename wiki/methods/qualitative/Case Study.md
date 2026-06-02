@@ -10,6 +10,7 @@ tags:
 - qualitative-research
 - methodology
 related_concepts:
+  - "[[Analytic Framework]]"
   - "[[Naturalistic Generalization]]"
   - "[[Research Question]]"
   - "[[Variable]]"
@@ -20,6 +21,7 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Experimental Research]]"
+  - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Ethnography]]"
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
@@ -42,7 +44,7 @@ updated: 2026-06-01
 > [!info] 定义
 > 个案研究（Case Study）是一种在多个领域（尤其是评估领域）中广泛使用的[[Qualitative Research|质性研究]]设计。研究者对一个案例（通常是一个项目、事件、活动、过程或一个或多个个体）进行深度分析。案例受时间和地点（或情境）的限定，研究者通过多种数据收集程序在持续的时间段内收集详细信息（Stake, 1995; Yin, 2009, 2012, 2014）。
 >
-> 与其他质性设计相比，个案研究的特点在于以"案例"（case）为分析单位——案例可以是个体、群体、组织、项目或事件——通过对受时空限定的个案进行深度多源分析来理解该个案本身的复杂性或揭示更大的理论问题（Creswell & Creswell, 2022, Ch1, Ch9）。Creswell & Creswell（2022, Ch9）将案例研究归入五种主要分析框架之一，建议样本量为约四至五个案例。
+> 与其他质性设计相比，个案研究的特点在于以"案例"（case）为分析单位——案例可以是个体、群体、组织、项目或事件——通过对受时空限定的个案进行深度多源分析来理解该个案本身的复杂性或揭示更大的理论问题（Creswell & Creswell, 2022, Ch1, Ch9）。Creswell & Creswell（2022, Ch9）将案例研究归入五种主要[[Analytic Framework|分析框架]]之一，建议样本量为约四至五个案例。
 >
 > 在具体研究实践中，[[Yajun Zheng|郑雅君]]（2023）以少数典型案例为分析单位，通过对个案的深入考察来理解更广泛的社会过程或机制。在其精英大学学生出路分化研究中，对 62 名毕业班学生进行了跟踪式个案研究，研究者与被访者保持联络直至其最终确定毕业去向才宣告结束。
 >
@@ -64,7 +66,7 @@ updated: 2026-06-01
 >
 > 1. **界定案例**：明确案例的时间、地点和边界——"案例"必须受时空限定（bounded by time and activity）
 > 2. **详描场所或个体**：在数据分析之前或之中，对案例所在场所或研究对象进行详细描述
-> 3. **多源数据收集**：使用多种数据来源（访谈、观察、文件、视听材料）在持续的时间段内收集详细信息
+> 3. **多源数据收集**：使用多种数据来源（访谈、观察、文件、[[Audiovisual, Social Media, and Digital Materials|视听材料]]）在持续的时间段内收集详细信息
 > 4. **主题分析**：在详细描述的基础上，对数据进行分析以提取主题或议题（Stake, 1995; Wolcott, 1994）
 > 5. **跨案例分析**（多案例设计）：如涉及多个案例，先进行个案内分析（within-case analysis），再进行跨案例分析（cross-case analysis），识别跨案例的模式和主题
 > 6. **结果呈现**：以叙事形式呈现，可包含关于每个参与者的描述性信息表格（如案例研究和[[Ethnography|民族志]]中常见），以及跨案例的主题讨论
@@ -86,7 +88,7 @@ updated: 2026-06-01
 > [!example] 个案选取策略
 > 郑雅君（2023）的个案选取结合了多种策略：
 >
-> **目的抽样（Purpose Sampling）**：根据[[Research Question|研究问题]]和分析框架的需要有目的地选取能带来最大理论潜力的个案（郑雅君，2023）
+> **目的抽样（Purpose Sampling）**：根据[[Research Question|研究问题]]和[[Analytic Framework|分析框架]]的需要有目的地选取能带来最大理论潜力的个案（郑雅君，2023）
 >
 > **理论抽样（Theoretical Sampling）**：围绕分析过程中建构理论框架的需要，在关键特征上增加个案差异性：
 > - 院系/学科背景力求差异

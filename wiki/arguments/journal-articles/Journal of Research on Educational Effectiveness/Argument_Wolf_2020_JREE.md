@@ -31,6 +31,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
 related_facts:
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 > - **方法**：[[Meta-analysis]]（多元元回归，multivariate meta-regression），使用 robust variance estimation (RVE) 处理[[Effect Size|效应量]]依赖性，small-sample correction (Tipton, 2015) 防止 I 类错误膨胀
 > - **样本**：[[What Works Clearinghouse|WWC]] 数据库中 K-12 数学和阅读/读写领域的 755 个效应量，来自 169 项研究（均达到 WWC 标准）（Wolf et al., 2020, p. 433）
 > - **数据来源**：What Works Clearinghouse (WWC) 数据库（2018 年 1 月提取），辅以对原始研究的个别审查以填充缺失数据、作者邮件询问资金来源（Wolf et al., 2020, pp. 433–434）
-> - **关键编码**：每个研究编码为开发者委托（作者为开发者雇员 或 开发者资助）vs. 独立研究；结果测量编码为研究者/开发者自编 vs. 独立测量（Wolf et al., 2020, pp. 434–435）
+> - **关键[[Coding in Qualitative Research|编码]]**：每个研究编码为开发者委托（作者为开发者雇员 或 开发者资助）vs. 独立研究；结果测量编码为研究者/开发者自编 vs. 独立测量（Wolf et al., 2020, pp. 434–435）
 > - **[[Publication Bias|发表偏倚]]检验**：Vevea & Hedges (1995) 权重函数模型（Wolf et al., 2020, p. 438）
 > - **软件**：R packages metafor, clubSandwich, weightr（Wolf et al., 2020, p. 437）
 

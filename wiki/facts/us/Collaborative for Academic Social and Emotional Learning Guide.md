@@ -18,6 +18,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
@@ -50,7 +51,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准编码中，CASEL 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它和 [[Home Visiting Evidence of Effectiveness|HomVEE]] 一样在流失指南上遵循 [[What Works Clearinghouse|WWC]] 指南；这意味着其流失判断与 WWC 的总体流失和差异流失组合规则有关（Wadhwa et al., 2024, p.9）。
+> 在设计标准[[Coding in Qualitative Research|编码]]中，CASEL 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它和 [[Home Visiting Evidence of Effectiveness|HomVEE]] 一样在流失指南上遵循 [[What Works Clearinghouse|WWC]] 指南；这意味着其流失判断与 WWC 的总体流失和差异流失组合规则有关（Wadhwa et al., 2024, p.9）。
 >
 > CASEL 与 Blueprints、[[Promising Practices Network|PPN]]、[[Best Evidence Encyclopedia|BEE]] 和 [[Social Programs That Work|SPTW]] 一样，只报告具有正向效果的项目；这使它不同于 [[What Works Clearinghouse|WWC]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 等会区分无效与效果不确定项目的清算中心（Wadhwa et al., 2024, p.12）。
 
@@ -64,7 +65,7 @@ updated: '2026-05-18'
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — CASEL 是 12 个被比较的教育清算中心之一（Wadhwa et al., 2024, p.7）。
 > - [[Evidence-Based Education]] — CASEL 是 EBE 在社会情感学习项目传播中的证据评级载体之一（Wadhwa et al., 2024, pp.6, 16）。
-> - [[Randomised Controlled Trials]] — CASEL 承认 RCT，但其标准描述程度在作者编码中为 1（Wadhwa et al., 2024, p.10）。
+> - [[Randomised Controlled Trials]] — CASEL 承认 RCT，但其标准描述程度在作者[[Coding in Qualitative Research|编码]]中为 1（Wadhwa et al., 2024, p.10）。
 > - [[What Works Clearinghouse]] — CASEL 在流失判断上遵循 WWC 指南（Wadhwa et al., 2024, p.9）。
 
 ## 来源

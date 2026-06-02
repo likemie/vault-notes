@@ -17,6 +17,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Observational and Correlational Research]]"
@@ -36,7 +37,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 干预研究（Intervention Research）是在研究中操纵自[[Variable|变量]]、检验某种教育处理或实践是否影响结果的研究设计。Brady et al. (2023) 在编码教育心理学期刊文章时，将"干预研究"和"[[Experimental Research|实验研究]]"都定义为包含自变量操纵；二者区别在于实验研究进一步包含[[Random Assignment|随机分配]]（Brady et al., 2023, p.4）。
+> 干预研究（Intervention Research）是在研究中操纵自[[Variable|变量]]、检验某种教育处理或实践是否影响结果的研究设计。Brady et al. (2023) 在[[Coding in Qualitative Research|编码]]教育心理学期刊文章时，将"干预研究"和"[[Experimental Research|实验研究]]"都定义为包含自变量操纵；二者区别在于实验研究进一步包含[[Random Assignment|随机分配]]（Brady et al., 2023, p.4）。
 
 ## 认识论立场
 
@@ -80,7 +81,7 @@ updated: '2026-05-18'
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Brady_2023_EPR]] — 将干预研究作为五类方法之一进行趋势编码，发现其比例自 2010 年后稳定在 25%，但随机实验继续下降（Brady et al., 2023, pp.6-7）。
+> - [[Argument_Brady_2023_EPR]] — 将干预研究作为五类方法之一进行趋势[[Coding in Qualitative Research|编码]]，发现其比例自 2010 年后稳定在 25%，但随机实验继续下降（Brady et al., 2023, pp.6-7）。
 
 ## 来源
 

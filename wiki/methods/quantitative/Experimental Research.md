@@ -18,6 +18,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Manipulation Check]]"
+  - "[[Reflexivity]]"
   - "[[Cover Story]]"
   - "[[Purpose Statement]]"
   - "[[Institutional Review Board]]"
@@ -47,8 +48,7 @@ related_methods:
   - "[[Between-Subjects and Within-Subjects Designs]]"
   - "[[Survey Research]]"
 related_persons: []
-related_facts:
-  - "[[Campbell Collaboration]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
@@ -63,7 +63,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 实验研究（Experimental Research）是一种[[Quantitative Research|量化研究]]设计，旨在确定某一特定处理是否影响结果。研究者通过向一组提供特定处理、对另一组不予处理，然后比较两组在结果上的得分来进行评估（Keppel, 1991）。实验设计起源于 19 世纪末至 20 世纪的生理学和心理学，主要依赖[[Postpositivism|后实证主义]]世界观（[[Campbell Collaboration|Campbell]] & Stanley, 1963）。
+> 实验研究（Experimental Research）是一种[[Quantitative Research|量化研究]]设计，旨在确定某一特定处理是否影响结果。研究者通过向一组提供特定处理、对另一组不予处理，然后比较两组在结果上的得分来进行评估（Keppel, 1991）。实验设计起源于 19 世纪末至 20 世纪的生理学和心理学，主要依赖[[Postpositivism|后实证主义]]世界观（Campbell & Stanley, 1963）。
 
 ## 研究程序
 
@@ -84,7 +84,7 @@ updated: 2026-05-31
 > - **自变量（Independent Variables）**：明确实验中的自变量及其操纵方式。可进行 2 × 2 受试者间[[Factorial Design|因子设计]]，同时操纵两个自变量。
 > - **[[Manipulation Check|操纵检查]]（Manipulation Check）**：评估实验是否成功操纵了目标自变量。例如，若研究通过正面／负面测试反馈操纵自尊水平，可在操纵后施测状态自尊问卷，定量评估两组是否存在自尊差异（Creswell & Creswell, 2022, Ch8）。
 > - **因变量（Dependent Variables）**：明确实验的结果变量，即被假定受自变量操纵影响或引起的结果或效标变量。可考虑使用多种方式测量同一结果（如攻击性的行为测量和自评测量）。
-> - **其他变量**：包括（1）受试者人口学特征（年龄、性别、族裔）；（2）可能增加研究设计噪音的变量（如自尊水平可能在一天中波动，可测量和记录时间作为协变量）；（3）潜在混淆变量（如批评者可能声称正面／负面反馈操作也无意中操纵了反思性思维，可测量该变量以定量评估此主张）（Creswell & Creswell, 2022, Ch8）。
+> - **其他变量**：包括（1）受试者人口学特征（年龄、性别、族裔）；（2）可能增加研究设计噪音的变量（如自尊水平可能在一天中波动，可测量和记录时间作为协变量）；（3）潜在混淆变量（如批评者可能声称正面／负面反馈操作也无意中操纵了[[Reflexivity|反思性]]思维，可测量该变量以定量评估此主张）（Creswell & Creswell, 2022, Ch8）。
 
 ### 工具与材料
 
@@ -102,7 +102,7 @@ updated: 2026-05-31
 > - **[[Single-Subject Design|单受试者设计]]／N of 1 设计**：在时间维度上观察单个个体（或少数个体）的行为。
 
 > [!abstract] Campbell & Stanley 符号系统
-> [[Campbell Collaboration|Campbell]] & Stanley (1963, p.6) 的经典符号：
+> Campbell & Stanley (1963, p.6) 的经典符号：
 > - X = 组暴露于实验变量或事件
 > - O = 观察或通过工具的测量记录
 > - 同行 X 和 O 适用于同一组受试者
@@ -179,7 +179,7 @@ updated: 2026-05-31
 ## 方法变体与相近方法
 
 > [!tip]
-> - **真实验（True Experiment）** 受试者被[[Random Assignment|随机分配]]到处理条件中，[[Internal Validity|内部效度]]最高（[[Campbell Collaboration|Campbell]] & Stanley, 1963）。
+> - **真实验（True Experiment）** 受试者被[[Random Assignment|随机分配]]到处理条件中，[[Internal Validity|内部效度]]最高（Campbell & Stanley, 1963）。
 > - **准实验（Quasi-Experiment）** 使用非随机化分配，在无法随机化（如使用已有班级或学校）时使用。
 > - **[[Single-Subject Design|单受试者设计]]（Single-Subject Design）** 在时间维度上对单个个体或少数个体施加、撤销处理，观察行为变化（Cooper et al., 2007; Neuman & McCormick, 1995）。
 > - **[[Factorial Design|因子设计]]（Factorial Design）** 同时操纵多个处理[[Variable|变量]]及其交互效应。

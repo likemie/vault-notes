@@ -13,11 +13,13 @@ tags:
   - inductive
 related_concepts:
   - "[[Constructivist Paradigm]]"
+  - "[[Saturation]]"
   - "[[Research Question]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Quantitative Research]]"
   - "[[Constructivist Grounded Theory]]"
@@ -43,10 +45,10 @@ updated: 2026-05-30
 
 > [!example]
 > - 采用理论抽样（theoretical sampling），根据理论发展的需要选择后续参与者或数据来源。
-> - 通过开放式编码（open coding）、主轴编码（axial coding）和选择性编码（selective coding）的多阶段过程分析数据。
+> - 通过开放式[[Coding in Qualitative Research|编码]]（open coding）、主轴编码（axial coding）和选择性编码（selective coding）的多阶段过程分析数据。
 > - 持续比较法（constant comparison），在数据收集和分析之间不断来回，精炼类别及其关系。
 > - 撰写备忘录（memoing）记录理论构建过程中的想法和决定。
-> - 当新数据不再产生新的理论见解时达到理论饱和（theoretical saturation）。
+> - 当新数据不再产生新的理论见解时达到理论饱和（[[Saturation|theoretical saturation]]）。
 
 ## 研究问题
 

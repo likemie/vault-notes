@@ -11,6 +11,7 @@ tags:
 - performativity
 - educational-sociology
 related_concepts:
+  - "[[Analytic Framework]]"
   - "[[International Education]]"
   - "[[Performativity of Measurement]]"
   - "[[Science and Technology Studies]]"
@@ -33,7 +34,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> Sociology of Measurement（测量社会学）是 Steve Woolgar 提出的分析框架，将 measurement 视为一种"技术"（technology），关注测量的两个关键维度：instrumentalism（工具主义——事物如何被"弄到能用"的实用操作）与 performativity（施行性——测量不只是描述世界，更是制造世界）（Gorur, 2014, p.6–7）。
+> Sociology of Measurement（测量社会学）是 Steve Woolgar 提出的[[Analytic Framework|分析框架]]，将 measurement 视为一种"技术"（technology），关注测量的两个关键维度：instrumentalism（工具主义——事物如何被"弄到能用"的实用操作）与 performativity（施行性——测量不只是描述世界，更是制造世界）（Gorur, 2014, p.6–7）。
 >
 > > 测量社会学关注"测量实践的工具主义（使事物在实用意义上'运作'的方式）以及仪器的使用"（Woolgar, 1991b; Gorur, 2014, p.6–7）
 

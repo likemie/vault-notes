@@ -14,11 +14,14 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Research Question]]"
 related_theories: []
 related_methods:
   - "[[Grounded Theory]]"
   - "[[Qualitative Research]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Triangulation]]"
   - "[[In-depth Interview]]"
 related_persons:
   - "[[Yajun Zheng]]"
@@ -53,9 +56,9 @@ updated: '2026-05-18'
 > [[Yajun Zheng|郑雅君]]（2023）描述的实际分析过程是一种"理论演绎法和现象归纳法循环往复"**的分析方法：
 >
 > 1. **反复阅读**访谈文稿 → 理解被访者的处境和观念
-> 2. 在个案经验的基础上寻求**理论性命题或假设** → 以此确立编码类目
+> 2. 在个案经验的基础上寻求**理论性命题或假设** → 以此确立[[Coding in Qualitative Research|编码]]类目
 > 3. 当新现象**推翻**原有猜想 → 放弃原有编码类别，重新建立新猜想和类属
-> 4. **循环迭代**，持续不断地整合所有发现 → 直到理论命题能够兼容**所有个案**的经验
+> 4. **循环迭代**，持续不断地[[Integration in Mixed Methods|整合]]所有发现 → 直到理论命题能够兼容**所有个案**的经验
 > 5. **最终产出**：一个有良好解释力的理论模型（在本研究中即 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 两种"上大学"实践模式的区分）
 >
 > （郑雅君，2023，引 Charmaz, 2006）
@@ -73,7 +76,7 @@ updated: '2026-05-18'
 > [!note-] 内部效度保障
 > [[Yajun Zheng|郑雅君]]（2023）采用了以下策略保障分析质量：
 >
-> - **三角互证法**：访谈、观察结论和基本信息调查问卷结果交叉对照
+> - **[[Triangulation|三角互证]]法**：访谈、观察结论和基本信息调查问卷结果交叉对照
 > - **人员校验法**：每被访者陈述完重要观点后，研究者用自己的话复述一遍与被访者确认，以确保对被访者所建构的现实和行动意义的准确理解
 >
 

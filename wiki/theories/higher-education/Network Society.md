@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Hub and Flow Imaginaries]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Transnational Research Collaboration]]"
 related_theories: []
 related_methods: []
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **1996** — Manuel Castells 出版 *The Rise of the Network Society*（信息时代三部曲第一卷），系统阐述网络社会概念，将信息技术革命、经济全球化和网络化组织形式的兴起整合为一个统一的理论框架
+> - **1996** — Manuel Castells 出版 *The Rise of the Network Society*（信息时代三部曲第一卷），系统阐述网络社会概念，将信息技术革命、经济全球化和网络化组织形式的兴起[[Integration in Mixed Methods|整合]]为一个统一的理论框架
 > - **2006** — Yochai Benkler 出版 *The Wealth of Networks*，将网络社会理论延伸至[[Knowledge Production|知识生产]]领域，论证网络化的知识生产（如开源软件、维基百科式的协作）正在挑战传统的、等级化的知识生产模式
 > - **2022** — Rizvi 将网络社会理论整合进其高等教育地缘政治分析，用于解释[[Transnational Research Collaboration|跨国研究合作]]的网络化转型（Rizvi, 2022, pp.98–99）
 >

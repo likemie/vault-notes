@@ -22,6 +22,7 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
+  - "[[Interview Protocol]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Narrative Research]]"
@@ -57,7 +58,7 @@ updated: 2026-05-31
 > [!info]
 > 质性子问题（qualitative sub-questions）是将核心问题的[[Central Phenomenon|核心现象]]进一步细分收窄的问题，通常五至七个，成为数据收集（如访谈）中的具体问题（Creswell & Creswell, 2022, p.146）。
 
-Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative Research|质性研究]]问题（核心问题 + 子问题）。子问题随后成为访谈协议或指南中的具体问题，访谈通常以破冰问题开始，以总结性问题结束（Asmussen & Creswell, 1995）（Creswell & Creswell, 2022, Ch7）。
+Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative Research|质性研究]]问题（核心问题 + 子问题）。子问题随后成为[[Interview Protocol|访谈协议]]或指南中的具体问题，访谈通常以破冰问题开始，以总结性问题结束（Asmussen & Creswell, 1995）（Creswell & Creswell, 2022, Ch7）。
 
 ---
 

@@ -15,6 +15,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Bildung]]"
   - "[[Effect Size]]"
+  - "[[Probes]]"
   - "[[Surface and Deep Learning]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
@@ -68,7 +69,7 @@ updated: '2026-05-19'
 ## 核心思想
 
 > [!info] 核心思想
-> Rømer 的学术立场立基于欧洲 [[Bildung]] 传统（[[John Dewey|Dewey]]、[[Immanuel Kant|Kant]]、Arendt、Biesta），以此为对照审视当代教育中"评价取代教育"的趋势。他的 VL 批评的独特性在于：不参与经验方法论争论（[[Effect Size|效应量]]是否计算正确），而是追问 VL 的基本教育理论前提是否正确。
+> Rømer 的学术立场立基于欧洲 [[Bildung]] 传统（[[John Dewey|Dewey]]、[[Immanuel Kant|Kant]]、Arendt、Biesta），以此为对照审视当代教育中"评价取代教育"的趋势。他的 VL 批评的独特性在于：不参与经验方法论争论（[[Effect Size|效应量]]是否计算正确），而是[[Probes|追问]] VL 的基本教育理论前提是否正确。
 >
 > > "[[Visible Learning]] is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation."（Rømer, 2018, p.2）
 

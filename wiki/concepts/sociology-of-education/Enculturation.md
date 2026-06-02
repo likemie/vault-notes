@@ -10,6 +10,7 @@ tags:
 - theme/child-development
 - discipline/anthropology
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
   - "[[Nerd]]"
   - "[[Intellectual-Social Divide]]"
@@ -46,7 +47,7 @@ updated: '2026-05-25'
 
 > [!example]
 > ### vs 社会化（Socialization）
-> 社会化指个体学习在社会中发挥功能所需的规范和技能，侧重"成为社会成员"这一普遍过程。濡化则侧重**特定文化传统**的延续——个体如何成为"某一特定文化"（而非一般社会）的成员。濡化强调文化内容的独特性和传递的隐性特征，社会化则更关注社会整合的普遍机制。
+> 社会化指个体学习在社会中发挥功能所需的规范和技能，侧重"成为社会成员"这一普遍过程。濡化则侧重**特定文化传统**的延续——个体如何成为"某一特定文化"（而非一般社会）的成员。濡化强调文化内容的独特性和传递的隐性特征，社会化则更关注社会[[Integration in Mixed Methods|整合]]的普遍机制。
 
 > [!example]
 > ### vs 涵化（Acculturation）

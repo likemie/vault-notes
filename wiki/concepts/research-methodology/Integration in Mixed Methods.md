@@ -20,7 +20,7 @@ related_concepts:
   - "[[Variable]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Convergent Design]]"
   - "[[Joint Display]]"
   - "[[Coding in Qualitative Research]]"
@@ -40,7 +40,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 整合（Integration）是[[Mixed Method and Multi-method Research|混合方法研究]]的核心概念，指在单个研究或一系列研究中，将量化数据和质性数据的信息进行组合（combining）或"混合"（mixing）。整合包括两个层面：组合两类数据库的原因或"意图"（intent），以及实施这一组合的"程序"（procedures）（Creswell & Creswell, 2022, p.233）。
+> 整合（Integration）是[[Mixed Methods Research|混合方法研究]]的核心概念，指在单个研究或一系列研究中，将量化数据和质性数据的信息进行组合（combining）或"混合"（mixing）。整合包括两个层面：组合两类数据库的原因或"意图"（intent），以及实施这一组合的"程序"（procedures）（Creswell & Creswell, 2022, p.233）。
 
 整合不是简单地将量化和质性结果并列报告，而是在分析层面建立两类数据之间有意义的对话。整合的具体方式取决于所采用的混合方法设计类型：[[Convergent Design|聚敛式设计]]通过合并（merging）来整合，序列设计通过连接（connecting）来整合，复杂设计通过嵌入（embedding）来整合。
 
@@ -65,7 +65,7 @@ updated: 2026-06-02
 > | [[Convergent Design\|聚敛式设计]] | 比较、匹配、确认、扩展、完整理解 | 合并（将数据库并排） |
 > | [[Explanatory Sequential Design\|解释性序列设计]] | 扩展、解释 | 连接（量化结果连接质性数据收集） |
 > | [[Exploratory Sequential Design\|探索性序列设计]] | 构建、迁移、推广 | 连接（质性结果导向量化评估的设计与检验） |
-> | [[Mixed Method and Multi-method Research\|复杂混合方法设计]] | 增强（优化、确定需求、监控） | 嵌入过程/框架中 |
+> | [[Mixed Methods Research\|复杂混合方法设计]] | 增强（优化、确定需求、监控） | 嵌入过程/框架中 |
 
 ---
 
@@ -77,7 +77,7 @@ updated: 2026-06-02
 > **[[Convergent Design|聚敛式设计]]的三阶段整合分析**（Creswell & Creswell, 2022, p.238）：
 > 1. 分析质性数据库（[[Coding in Qualitative Research|编码]]→主题）
 > 2. 分析量化数据库（统计结果）
-> 3. 进行[[Mixed Method and Multi-method Research|混合方法]]整合分析，有三种方式：
+> 3. 进行[[Mixed Methods Research|混合方法]]整合分析，有三种方式：
 >    - 并排比较（side-by-side）：在讨论部分先后报告两组发现
 >    - [[Data Transformation in Mixed Methods|数据转换]]（data transformation）：将质性主题转化为量化[[Variable|变量]]后合并分析
 >    - [[Joint Display|联合展示]]（joint display）：在表格或图表中合并呈现两组数据

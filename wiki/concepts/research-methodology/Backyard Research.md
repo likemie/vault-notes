@@ -9,11 +9,10 @@ tags:
   - research-methodology
   - qualitative-research
   - research-ethics
-related_concepts:
-  - "[[Reflexivity]]"
-  - "[[Research Ethics]]"
+related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -30,7 +29,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 后院研究（Backyard Research）是 Glesne & Peshkin（1992）提出的概念，指质性研究者研究自身所在的组织、朋友或直接工作环境的情境。这种研究往往导致研究者在信息披露能力上的妥协，并引发研究者与参与者之间权力不平衡的问题（Creswell & Creswell, 2022, Ch9, p.195）。
+> 后院研究（Backyard Research）是 Glesne & Peshkin（1992）提出的概念，指[[Qualitative Research|质性研究]]者研究自身所在的组织、朋友或直接工作环境的情境。这种研究往往导致研究者在信息披露能力上的妥协，并引发研究者与参与者之间权力不平衡的问题（Creswell & Creswell, 2022, Ch9, p.195）。
 
 当研究者在自己的工作场所收集数据时（或处于对参与者的上级角色时），信息可能方便获取且易于收集，但也面临三重风险：
 - 信息可能不准确

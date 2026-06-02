@@ -14,8 +14,10 @@ tags:
 - level/higher-ed
 - theme/global
 related_concepts:
+  - "[[Analytic Framework]]"
   - "[[Revoicing]]"
   - "[[Graduate Attributes]]"
+  - "[[Reflexivity]]"
   - "[[Student-Teacher Relationship]]"
 related_theories: []
 related_methods: []
@@ -34,7 +36,7 @@ updated: '2026-05-26'
 ## 定义
 
 > [!info]
-> 全球公民（global citizenship）在教育语境中不是一个法律身份概念，而是一个能力与品质的分析框架——指使个体能够在全球互联的世界中有效行动、理解多元文化和关注全球共同议题的一组素养（O'Brien, 2011; 引自 Spronken-Smith et al., 2024, p.87）。
+> 全球公民（global citizenship）在教育语境中不是一个法律身份概念，而是一个能力与品质的[[Analytic Framework|分析框架]]——指使个体能够在全球互联的世界中有效行动、理解多元文化和关注全球共同议题的一组素养（O'Brien, 2011; 引自 Spronken-Smith et al., 2024, p.87）。
 >
 > 在高等教育尤其是博士教育领域，Nerad（2005, p.9）较早呼吁博士培养应生成"对公民参与和世界公民身份的意识和承诺"。O'Brien（2011, p.42）提供了一个可操作的分析框架，将全球公民素养分解为三个相互关联的维度，后经 Spronken-Smith（2018）补充第四个维度（引自 Spronken-Smith et al., 2024, p.87）。
 
@@ -61,7 +63,7 @@ updated: '2026-05-26'
 通过不同媒介和通信技术与多元受众有效沟通的能力（O'Brien, 2011; 引自 Spronken-Smith et al., 2024, p.87）。在 21 世纪的全球就业环境中，这不只是"会用数字工具"，更包括理解不同媒介的传播逻辑、在跨国虚拟团队中协作、以及跨时区和跨文化地管理数字身份和专业形象。
 
 ### 文化素养（cultural literacy）
-以同理心（empathy）和敏感性（sensitivity）接近和理解他人，并对多元视角保持开放态度的能力（O'Brien, 2011; 引自 Spronken-Smith et al., 2024, p.87）。与传统的"跨文化能力"不同，文化素养强调的不是掌握他者文化的知识清单，而是发展一种**对差异的开放性和反思性姿态**——意识到自己的文化假设、并愿意在多元视角的交汇处重新审视自己的立场。
+以同理心（empathy）和敏感性（sensitivity）接近和理解他人，并对多元视角保持开放态度的能力（O'Brien, 2011; 引自 Spronken-Smith et al., 2024, p.87）。与传统的"跨文化能力"不同，文化素养强调的不是掌握他者文化的知识清单，而是发展一种**对差异的开放性和[[Reflexivity|反思性]]姿态**——意识到自己的文化假设、并愿意在多元视角的交汇处重新审视自己的立场。
 
 ### 社会沟通素养（socio-communicative literacy）
 跨越多元文化立场进行协商和沟通的能力（O'Brien, 2011; 引自 Spronken-Smith et al., 2024, p.87）。这一素养聚焦的是"如何在价值分歧中对话"——当不同文化背景的人对同一问题有截然不同的规范假设时（如对学术诚信的理解、对[[Student-Teacher Relationship|师生关系]]的期待），能够识别分歧的根源、展开建设性对话而非回避或压制差异。

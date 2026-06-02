@@ -10,6 +10,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Analytic Framework]]"
   - "[[Champ]]"
 related_theories: []
 related_methods: []
@@ -49,7 +50,7 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Day, C. & Leithwood, K. (eds) (2007). *Successful Principal Leadership in Times of Change: An International Perspective*. Dordrecht: Springer. — ISSPP 早期成果，建立成功校长领导力的跨国分析框架
+> - Day, C. & Leithwood, K. (eds) (2007). *Successful Principal Leadership in Times of Change: An International Perspective*. Dordrecht: Springer. — ISSPP 早期成果，建立成功校长领导力的跨国[[Analytic Framework|分析框架]]
 > - Day, C. & Gurr, D. (eds) (2014). *Leading Schools Successfully: Stories from the [[Champ|field]]*. London: Routledge. — ISSPP 成果综合，提供来自现场的校长成功故事
 > - Ärlestig, H., Day, C. & Johansson, O. (eds) (2016). *A Decade of Research on School Principals: Cases from 24 Countries*. Dordrecht: Springer. — ISSPP 十年成果，覆盖 24 国案例
 > - Moos, L., Johansson, O. & Day, C. (eds) (2011). *How School Principals Sustain Success over Time: International Perspectives*. Dordrecht: Springer. — 关注成功校长如何长期维持成功

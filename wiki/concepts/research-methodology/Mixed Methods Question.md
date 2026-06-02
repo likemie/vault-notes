@@ -10,13 +10,14 @@ type: concept
 tags:
   - subject/research-methodology
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
   - "[[Research Question]]"
   - "[[Research Topic]]"
   - "[[Research Writing Script]]"
   - "[[Purpose Statement]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Qualitative Research]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
@@ -37,7 +38,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> [[Mixed Method and Multi-method Research|混合方法研究]]问题（mixed methods question）是混合方法研究中除量化问题或假设和质性问题之外的第三类问题，直接陈述研究者希望通过组合（整合）量化与质性数据学到什么（Creswell & Creswell, 2022, p.150）。
+> [[Mixed Methods Research|混合方法研究]]问题（mixed methods question）是混合方法研究中除量化问题或假设和质性问题之外的第三类问题，直接陈述研究者希望通过组合（[[Integration in Mixed Methods|整合]]）量化与质性数据学到什么（Creswell & Creswell, 2022, p.150）。
 
 > [!quote]
 > "The mixed methods question addresses what the researcher hopes to learn with the combination (integration) of the quantitative and qualitative data."（Creswell & Creswell, 2022, Ch7）
@@ -49,13 +50,13 @@ updated: 2026-05-31
 ## 概念辨析
 
 > [!example]
-> **[[Mixed Method and Multi-method Research|混合方法研究]]问题与量化／[[Qualitative Research|质性研究]]问题的区别**
+> **[[Mixed Methods Research|混合方法研究]]问题与量化／[[Qualitative Research|质性研究]]问题的区别**
 >
 > | 类型 | 询问的内容 |
 > |---|---|
 > | [[Quantitative Research\|量化研究]]问题／假设 | [[Variable\|变量]]间的关系、群体间比较 |
 > | 质性[[Research Question\|研究问题]] | [[Central Phenomenon\|核心现象]]的意义、参与者的体验 |
-> | 混合方法研究问题 | 从整合两类数据中获得的洞见——这是一个关于方法的问题，而非关于研究内容的问题 |
+> | 混合方法研究问题 | 从[[Integration in Mixed Methods\|整合]]两类数据中获得的洞见——这是一个关于方法的问题，而非关于研究内容的问题 |
 >
 > 典型的研究问题关注[[Research Topic|研究主题]]的内容，而非方法。混合方法研究问题之所以不同，是因为它询问的是整合（integration）带来的学习。整合是混合方法研究的核心组件（Creswell & Creswell, 2022, Ch7）。
 
@@ -64,9 +65,9 @@ updated: 2026-05-31
 ## 核心要素
 
 > [!abstract]
-> [[Mixed Method and Multi-method Research|混合方法研究]]问题的两个核心组件（Creswell & Creswell, 2022, Ch7）：
+> [[Mixed Methods Research|混合方法研究]]问题的两个核心组件（Creswell & Creswell, 2022, Ch7）：
 >
-> 1. **整合的意图（intent of integration）**：说明为何要组合两类数据——是比较（compare）、解释（explain）、构建（build）还是增强（augment）
+> 1. **[[Integration in Mixed Methods|整合]]的意图（intent of integration）**：说明为何要组合两类数据——是比较（compare）、解释（explain）、构建（build）还是增强（augment）
 > 2. **整合的程序（procedures of integration）**：说明通过何种设计（聚敛式、解释性序列、探索性序列、嵌入式）和何种程序（合并、连接或嵌入）来整合
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-05-31
 
 ## 三类问题的放置与顺序
 
-在[[Mixed Method and Multi-method Research|混合方法研究]]中，三类问题（量化、质性、混合方法）的放置方式和顺序反映了研究设计的步骤（Creswell & Creswell, 2022, Ch7）：
+在[[Mixed Methods Research|混合方法研究]]中，三类问题（量化、质性、混合方法）的放置方式和顺序反映了研究设计的步骤（Creswell & Creswell, 2022, Ch7）：
 
 - **单阶段[[Convergent Design|聚敛式设计]]**：量化和质性问题可以任一顺序排列，因为两类数据同时收集。
 - **两阶段[[Explanatory Sequential Design|解释性序列设计]]**：第一阶段的量化问题或假设在先，第二阶段的[[Qualitative Research|质性研究]]问题在后。
@@ -93,7 +94,7 @@ updated: 2026-05-31
 ## 写作范例
 
 > [!example]
-> Moseholm et al. (2017) 在健康科学领域的[[Mixed Method and Multi-method Research|混合方法研究]]中提供了出色的三部分目标陈述范例（Creswell & Creswell, 2022, Ch7）。他们研究非特异性症状患者诊断评估中与健康相关的生活质量变化：
+> Moseholm et al. (2017) 在健康科学领域的[[Mixed Methods Research|混合方法研究]]中提供了出色的三部分目标陈述范例（Creswell & Creswell, 2022, Ch7）。他们研究非特异性症状患者诊断评估中与健康相关的生活质量变化：
 >
 > - 量化陈述：测量诊断评估过程中 HRQoL 的变化
 > - 质性陈述：描述患者对 HRQoL 的体验
@@ -109,14 +110,14 @@ updated: 2026-05-31
 > 3. 教师在线上实施了哪些学生评估模式？（由参与者的质性体验支撑的描述性量化问题——混合方法问题）
 > 4. 教师观察到的在线教学对学生成果的影响是什么？（量化问题）
 >
-> Creswell & Creswell 指出，如果作者能更清楚地标记[[Qualitative Research|质性研究]]问题和混合方法研究问题，并强调在混合方法设计中整合两类数据的意图，研究会更加清晰。
+> Creswell & Creswell 指出，如果作者能更清楚地标记[[Qualitative Research|质性研究]]问题和混合方法研究问题，并强调在混合方法设计中[[Integration in Mixed Methods|整合]]两类数据的意图，研究会更加清晰。
 
 ---
 
 ## 争议与批评
 
 > [!warning]
-> [[Mixed Method and Multi-method Research|混合方法研究]]问题的价值可能不易被理解，特别是对于不熟悉数据连接或整合的研究者而言。因为它是一个关于方法的问题，而非关于研究内容的问题，读者可能质疑其必要性。然而，整合是混合方法研究的核心，混合方法[[Research Question|研究问题]]正是传达这一核心意图的工具（Creswell & Creswell, 2022, Ch7）。
+> [[Mixed Methods Research|混合方法研究]]问题的价值可能不易被理解，特别是对于不熟悉数据连接或[[Integration in Mixed Methods|整合]]的研究者而言。因为它是一个关于方法的问题，而非关于研究内容的问题，读者可能质疑其必要性。然而，整合是混合方法研究的核心，混合方法[[Research Question|研究问题]]正是传达这一核心意图的工具（Creswell & Creswell, 2022, Ch7）。
 
 ---
 

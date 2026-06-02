@@ -10,10 +10,14 @@ method_type: qualitative
 tags:
   - method/qualitative
   - research-methodology
-related_concepts: []
+related_concepts:
+  - "[[Reflexivity]]"
 related_theories: []
 related_methods:
+  - "[[Qualitative Research]]"
   - "[[Qualitative Observation]]"
+  - "[[Ethnography]]"
+  - "[[Narrative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -30,7 +34,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 观察协议（Observation Protocol）是质性研究中研究者用于记录观察信息的工具。通常为一页纸，中间有一条分隔线，左侧记录描述性笔记，右侧记录反思性笔记（Creswell & Creswell, 2022, Ch9, p.203）。
+> 观察协议（Observation Protocol）是[[Qualitative Research|质性研究]]中研究者用于记录观察信息的工具。通常为一页纸，中间有一条分隔线，左侧记录描述性笔记，右侧记录[[Reflexivity|反思性]]笔记（Creswell & Creswell, 2022, Ch9, p.203）。
 
 ## 研究程序
 
@@ -46,18 +50,18 @@ updated: 2026-06-01
 - 物理环境的描述（description of the physical setting）
 - 特定事件或活动的记录（accounts of particular events or activities）
 
-**反思性笔记（Reflexive Notes）**：记录在右侧，包括研究者的思考——如"推测、感受、问题、想法、直觉、印象和偏见"（Bogdan & Biklen, 1992, p.121; 引自 Creswell & Creswell, 2022, Ch9）。
+**[[Reflexivity|反思性]]笔记（Reflexive Notes）**：记录在右侧，包括研究者的思考——如"推测、感受、问题、想法、直觉、印象和偏见"（Bogdan & Biklen, 1992, p.121; 引自 Creswell & Creswell, 2022, Ch9）。
 
 ### 使用建议
 
-- 研究者通常在一次质性研究中进行多次观察，每次都使用观察协议进行记录。
+- 研究者通常在一次[[Qualitative Research|质性研究]]中进行多次观察，每次都使用观察协议进行记录。
 - 描述性笔记与反思性笔记的分离有助于研究者日后区分"发生了什么"和"我当时是怎么想的"。
 - 与田野日志和田野日记配合使用：田野日志记录时间分配和使用方式，田野日记记录研究者的思考、感受和认知过程。
 
 ## 适用场景
 
 > [!success]
-> 适用于所有包含田野观察的质性研究设计，包括民族志、案例研究、叙事研究和描述性研究。观察协议为观察数据提供了系统的记录框架，有助于确保多次观察之间的记录一致性。
+> 适用于所有包含[[Qualitative Observation|田野观察]]的[[Qualitative Research|质性研究]]设计，包括[[Ethnography|民族志]]、案例研究、[[Narrative Research|叙事研究]]和描述性研究。观察协议为观察数据提供了系统的记录框架，有助于确保多次观察之间的记录一致性。
 
 ## 来源
 

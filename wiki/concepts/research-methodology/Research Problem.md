@@ -11,7 +11,7 @@ related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -73,7 +73,7 @@ Creswell & Creswell（2022, 第5章）指出了陈述[[Research Question|研究�
 
 - **[[Quantitative Research|量化研究]]**：问题通常源于理解哪些因素或[[Variable|变量]]影响某一结果。例如，面对员工裁员问题，研究者可能探究哪些因素影响企业缩小规模。量化引言通常以非个人视角、过去时态撰写，以传达客观性。
 - **[[Qualitative Research|质性研究]]**：问题通常通过探索某一概念或现象来理解。质性研究问题是探索性的，当变量、问题和理论尚不明确时使用。Morse（1991）指出质性研究问题的特征包括：概念因缺乏理论和先前研究而"不成熟"；现有理论可能不准确或不适用；需要探索和描述现象并发展理论；现象的本质可能不适合量化测量。
-- **[[Mixed Method and Multi-method Research|混合方法研究]]**：引言可以采用量化或质性路径（或两者结合）。问题可能需要在量化层面理解变量关系，同时在质性层面深入探索主题。混合方法问题也可能指出：现有研究主要是量化或质性的，需要扩展路径以包含更多样化的方法论。
+- **[[Mixed Methods Research|混合方法研究]]**：引言可以采用量化或质性路径（或两者结合）。问题可能需要在量化层面理解变量关系，同时在质性层面深入探索主题。混合方法问题也可能指出：现有研究主要是量化或质性的，需要扩展路径以包含更多样化的方法论。
 
 ---
 

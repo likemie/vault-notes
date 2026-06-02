@@ -20,6 +20,7 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Qualitative Observation]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Roy Bhaskar]]"
@@ -88,7 +89,7 @@ updated: '2026-05-18'
 
 > [!info] 研究范式
 > - **认识论立场**：反经验主义、反实证主义。知识不是对世界的透明再现——观察总是在概念框架内进行，且深层因果机制可能不直接可观察。
-> - **常用方法**：强调因果机制的解释（而非仅规则性测量）、质性观察和理论建构的作用。与 Pawson 的实在论综合（realist synthesis）兼容——研究综述应基于因果理论而非统计平均。
+> - **常用方法**：强调因果机制的解释（而非仅规则性测量）、[[Qualitative Observation|质性观察]]和理论建构的作用。与 Pawson 的实在论综合（realist synthesis）兼容——研究综述应基于因果理论而非统计平均。
 
 ## 争议与批评
 

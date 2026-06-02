@@ -5,14 +5,14 @@ extracted_to:
   - "[[Epistemic Governance]]"
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
-  - "[[Organizational Actorhood]]"
   - "[[Otherhood]]"
   - "[[THE Impact Ranking]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Organizational Actorhood]]"
   - "[[Jane Knight]]"
   - "[[John W. Meyer]]"
   - "[[World Society Theory]]"
-  - "[[Argument_Zapp_2022_Springer]]"
 processed_date: 2026-05-11
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

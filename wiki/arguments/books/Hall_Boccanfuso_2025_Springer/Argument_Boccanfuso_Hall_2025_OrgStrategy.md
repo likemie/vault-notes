@@ -20,6 +20,7 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Technology Transfer]]"
   - "[[Research Question]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Academic Freedom]]"
   - "[[Professors of Practice]]"
   - "[[Executive Education]]"
@@ -35,7 +36,7 @@ related_concepts:
 related_theories:
   - "[[Triple Helix]]"
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Website Content Analysis]]"
 related_persons: []
 related_facts:
@@ -79,7 +80,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!info]
 - 类型：实证研究，兼有框架建构
-- 方法：[[Mixed Method and Multi-method Research|混合方法]]——三步设计，每一步都为下一步提供基础
+- 方法：[[Mixed Methods Research|混合方法]]——三步设计，每一步都为下一步提供基础
 - **第一步（框架建构）**：基于 Boccanfuso 和 Hall 四十余年[[University-Industry Collaboration|产学合作]]领导经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO，Hall 为 USC 前科研副校长），咨询八位资深产学参与官员，参考既有文献，反复修订形成框架；再通过四所美国大学、两所非美国大学和两家企业的反馈进行完善（pp.55–56）
 - **第二步（[[Website Content Analysis|网站内容分析]]）**：对 65 所 UIDP 成员大学的产学参与中心网页进行系统内容分析，按组织模式分类，统计办公室名称中的关键词频率，评估各办公室在八项产学活动（教育、学生参与、研究、经济发展、许可与[[Technology Transfer|技术转移]]、临床、辅助、捐赠）中的权限级别——从"未提及"到"直接负责"共六级（p.56）
 - **第三步（问卷调查）**：通过 Qualtrics 向 124 名大学指定代表（回复率 35%）和 600 名企业代表（回复率 7%）发放问卷，收集组织特征、活动范围和策略重要性感知数据（pp.56–57）
@@ -118,7 +119,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 - **战略（Strategy）**：大学是否将产学合作纳入战略规划？校长和教务长是否公开表态支持？
 - **价值观（Values）**：大学如何看待与产业合作——是学术独立的威胁，还是学术使命的自然延伸？
-- **组织（Organization）**：大学如何整合不同单位和应用来服务产业伙伴？
+- **组织（Organization）**：大学如何[[Integration in Mixed Methods|整合]]不同单位和应用来服务产业伙伴？
 - **产业集中（Concentrations）**：大学是否在特定产业领域（如生物医药、人工智能、清洁能源）建立重点方向？
 - **重大挑战（Grand Challenges）**：大学是否围绕气候变化、健康寿命等社会性宏大议题组织产学合作？
 

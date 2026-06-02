@@ -14,9 +14,11 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Barrier]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Academic and Social Integration]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
+  - "[[Analytic Framework]]"
   - "[[Champ]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
@@ -80,7 +82,7 @@ updated: 2026-05-19
 ## 核心思想
 
 > [!tip]
-> 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、[[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"分析框架（郑雅君，2023）。
+> 郑雅君的核心理论贡献在于[[Integration in Mixed Methods|整合]]三条理论脉络——高等教育学（[[Academic and Social Integration|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、[[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"[[Analytic Framework|分析框架]]（郑雅君，2023）。
 
 > [!quote]
 > "如果说整本书有什么是我最迫切想和读者分享的，那就是当我将自己浸没在被访者的声音中，我的发现恰恰挑战了自己先前想当然的前提假设——学生的毕业去向都是他们有意图地主动选择的结果"（郑雅君，2023）
@@ -124,7 +126,7 @@ updated: 2026-05-19
 ### 2023 出版与传播
 
 - **成果**：《金榜题名之后》由上海三联书店出版
-- **思想发展**：最终成书不仅呈现了分析框架和经验发现，还以[[Didier Eribon]]《回归故里》为对话资源，在结语中为寒门学子提供了与原生文化和解的思路，使学术分析延伸至公共关怀（郑雅君，2023）。
+- **思想发展**：最终成书不仅呈现了[[Analytic Framework|分析框架]]和经验发现，还以[[Didier Eribon]]《回归故里》为对话资源，在结语中为寒门学子提供了与原生文化和解的思路，使学术分析延伸至公共关怀（郑雅君，2023）。
 
 ---
 

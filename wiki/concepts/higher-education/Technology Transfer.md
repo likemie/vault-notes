@@ -21,6 +21,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Boundary Spanner]]"
   - "[[University Spin-Out]]"
+  - "[[Gatekeepers]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Performance Indicators]]"
 related_theories: []
@@ -106,7 +107,7 @@ Debackere 和 Veugelers（2005）进一步指出，技术转移办公室可以�
 ### TTO 在衍生企业创建中的角色
 
 > [!abstract]
-> 在[[University Spin-Out|大学衍生企业]]的创建过程中，TTO 承担着关键的守门人和赋能者双重职能（Gilison & Wilson, 2025, pp.144-145, 147）。
+> 在[[University Spin-Out|大学衍生企业]]的创建过程中，TTO 承担着关键的[[Gatekeepers|守门人]]和赋能者双重职能（Gilison & Wilson, 2025, pp.144-145, 147）。
 
 > **IP 尽职调查与质量信号**。TTO 对衍生企业的知识产权进行尽职调查，评估其可专利性和商业化前景。大学愿意为专利申请和法律保护投入真金白银，这一行为本身就构成了对外部投资者的质量信号——它表明 IP 经过了内部审核，大学对技术的商业化前景有足够的信心才会承担专利费用（pp.144-145）。
 

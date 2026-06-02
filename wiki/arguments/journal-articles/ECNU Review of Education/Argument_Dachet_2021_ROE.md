@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Analytic Framework]]"
   - "[[Grade Retention]]"
   - "[[Inclusive Evidence Validation Typology]]"
 related_theories: []
@@ -54,7 +55,7 @@ updated: 2026-05-24
 
 > [!abstract] 理论框架
 > - [[Evidence-Based Education]]：作为从循证医学迁移到教育领域的范式，强调专业实践应使用当前最佳研究证据，但教育领域同时存在对标准化、可复制性和认识论窄化的批评（Dachet & Baye, 2021, pp.166-168）。
-> - [[Evidence-Based Reform]]：主要采用 Slavin 的三项杠杆作为分析框架，即提供广泛的经验证项目、提供教师友好的研究综述、为学校实施经验证项目提供资源（Dachet & Baye, 2021, pp.166, 179-181）。
+> - [[Evidence-Based Reform]]：主要采用 Slavin 的三项杠杆作为[[Analytic Framework|分析框架]]，即提供广泛的经验证项目、提供教师友好的研究综述、为学校实施经验证项目提供资源（Dachet & Baye, 2021, pp.166, 179-181）。
 > - 方法匹配而非单一证据层级：结构性教育改革很难总是用实验设计评估，因此可用相关研究、纵向研究或其他适合问题的问题-方法组合来判断现有最佳证据（Dachet & Baye, 2021, pp.171, 179-180）。
 
 ## 研究方法
@@ -62,7 +63,7 @@ updated: 2026-05-24
 > [!info] 研究方法
 > - 方法：叙事案例研究。研究以法语比利时正在进行的[[Pact for Educational Excellence|教育卓越公约]]为案例，分析改革阶段以及作者所在研究中心在改革工作中的连续参与（Dachet & Baye, 2021, p.164）。
 > - 资料来源：改革文本、工作组过程、教学工具/项目清单、结构性改革方案，以及作者团队参与 [[Evidence-Based Education|EBE]] 报告、方法类型学和项目验证工作的过程材料（Dachet & Baye, 2021, pp.170-181）。
-> - 分析框架：先把计划中的结构改革与可获得教育研究证据比较，再用 Slavin 的三项杠杆判断改革在多大程度上接近[[Evidence-Based Reform|证据本位改革]]（Dachet & Baye, 2021, pp.171, 179-181）。
+> - [[Analytic Framework|分析框架]]：先把计划中的结构改革与可获得教育研究证据比较，再用 Slavin 的三项杠杆判断改革在多大程度上接近[[Evidence-Based Reform|证据本位改革]]（Dachet & Baye, 2021, pp.171, 179-181）。
 
 ## 论证结构
 

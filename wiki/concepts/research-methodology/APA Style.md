@@ -10,7 +10,7 @@ related_concepts:
   - "[[Abstract]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -67,7 +67,7 @@ APA 格式在学术研究的各个环节都有实际影响（Creswell & Creswell
 - **脚注**可提供补充信息或版权归属说明，但不应频繁使用，仅在能加强正文时才纳入
 
 > [!tip]
-> 学生和研究者应在培训早期就获取 APA 出版手册。该手册不仅涵盖格式规范，还包括写作与发表指导、学术伦理（含剽窃和不道德写作）、以及量化、质性和[[Mixed Method and Multi-method Research|混合方法研究]]的质量标准。
+> 学生和研究者应在培训早期就获取 APA 出版手册。该手册不仅涵盖格式规范，还包括写作与发表指导、学术伦理（含剽窃和不道德写作）、以及量化、质性和[[Mixed Methods Research|混合方法研究]]的质量标准。
 
 ---
 

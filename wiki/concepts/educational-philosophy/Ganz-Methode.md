@@ -15,6 +15,7 @@ related_concepts:
   - "[[Tense Society]]"
   - "[[Life Power]]"
   - "[[Ecomuseology]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Whole Sustainability]]"
   - "[[Epistemology of Resistance]]"
   - "[[Social Museology]]"
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 
 > [!note]
 > - 2013–2020 年，Delambre 在里约热内卢六个领域（个体发展、[[Ecomuseology|生态博物馆]]和剧场、商业、学校、制度、可持续发展）的案例实践中逐步发展出该方法。期间与剧场导演 [[Richard Castelo Branco]]（EspectAtor 方法创始人）和演员 [[Camilla de Hollanda Amado]] 等人合作开展社区文化项目（Delambre, 2022, p.107, 109–110）
-> - Ganz-Methode 随后被整合进 WTS Coaching 项目——WTS 代表 Whole-Transdisciplinary Sustainability（整体-跨学科可持续性），是该方法的教练实践版本（Delambre, 2022, p.107）
+> - Ganz-Methode 随后被[[Integration in Mixed Methods|整合]]进 WTS Coaching 项目——WTS 代表 Whole-Transdisciplinary Sustainability（整体-跨学科可持续性），是该方法的教练实践版本（Delambre, 2022, p.107）
 > - 2022 年随张力理论在 *Geopolitical Transformations in Higher Education* 论文集中首次系统发表（Delambre, 2022）
 
 ## 核心要素

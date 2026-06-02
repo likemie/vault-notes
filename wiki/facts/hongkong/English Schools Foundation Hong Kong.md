@@ -17,7 +17,8 @@ related_concepts:
   - "[[International Schools]]"
   - "[[International Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[Liberal Studies]]"
@@ -43,7 +44,7 @@ updated: '2026-05-18'
 ## 经过
 
 > [!note]-
-> 随着时间推移，ESF 的学生构成发生了根本性转变：如今本地香港华人学生占学额的 **40%–50%**（Slethaug, 2010, p.4）。ESF 已不再关注学生来自海外、广东话本地背景，还是讲英语的欧亚混血背景——学生不再按族裔和语言编码分类。许多家庭拥有多本护照并在多个国家申报居留权，呈现出典型的后现代家庭特征（Slethaug, 2010, p.4）。
+> 随着时间推移，ESF 的学生构成发生了根本性转变：如今本地香港华人学生占学额的 **40%–50%**（Slethaug, 2010, p.4）。ESF 已不再关注学生来自海外、广东话本地背景，还是讲英语的欧亚混血背景——学生不再按族裔和语言[[Coding in Qualitative Research|编码]]分类。许多家庭拥有多本护照并在多个国家申报居留权，呈现出典型的后现代家庭特征（Slethaug, 2010, p.4）。
 
 ### 家长需求与语言转向
 

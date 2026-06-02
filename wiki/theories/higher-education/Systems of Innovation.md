@@ -21,6 +21,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Knowledge Transfer]]"
   - "[[Transformative Change]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
@@ -113,7 +114,7 @@ updated: 2026-05-27
 
 > 与"科学促增长"范式的关键区别在于：系统范式认识到缓解这些失败需要来自多个政策领域的协调行动——不仅是科技政策，还包括产业政策、教育政策、财政政策、竞争政策等——要同时强化供给端、需求端、互动能力和制度环境（Ulrichsen, 2025, pp.30–31）。
 
-> 在这一范式下，大学被重新定位为创新系统的核心行动者：不仅需要从事[[Technology Transfer|技术转移]]，还需要与初创企业、大公司、投资者等形成更紧密、更互动的伙伴关系，以整合[[Knowledge Production|知识生产]]与转化应用。大学的角色从"知识供给方"扩展为"系统催化剂"——创造连接、提供公共空间、催化互动（p.31）。
+> 在这一范式下，大学被重新定位为创新系统的核心行动者：不仅需要从事[[Technology Transfer|技术转移]]，还需要与初创企业、大公司、投资者等形成更紧密、更互动的伙伴关系，以[[Integration in Mixed Methods|整合]][[Knowledge Production|知识生产]]与转化应用。大学的角色从"知识供给方"扩展为"系统催化剂"——创造连接、提供公共空间、催化互动（p.31）。
 
 ---
 

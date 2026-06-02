@@ -15,6 +15,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Variable]]"
+  - "[[Analytic Framework]]"
   - "[[Performance Indicators]]"
   - "[[Matthew Effect in Academia]]"
 related_theories: []
@@ -74,7 +75,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note-] 概念演变
-> 知识资本主义作为系统性的分析框架由 Peters (2013) 阐述，但其知性根源可追溯至更早的学术脉络：
+> 知识资本主义作为系统性的[[Analytic Framework|分析框架]]由 Peters (2013) 阐述，但其知性根源可追溯至更早的学术脉络：
 >
 > - **1950s–1960s**：Drucker (1959) 提出"知识工作者"概念，Bell (1973) 在 *The Coming of Post-Industrial Society* 中强调理论知识在后工业社会中的相对重要性——这些为知识资本主义提供了概念先驱（Moisio, 2022, p.22）。详见 [[Knowledge-Based Economy|知识经济]] > 学术脉络
 > - **1986**：Romer 的内生增长理论为知识作为资本提供了经济学基础——知识和人力资本投资被视为不受有限限制的增长关键资产（Moisio, 2022, p.23）
@@ -100,7 +101,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Rizvi (2022) 的核心批评：知识资本主义的分析框架倾向于将高等教育的变化视为全球性的、中性的趋势，忽视了地缘政治力量——特别是亚洲崛起——作为独立因果[[Variable|变量]]的作用。它无法解释亚洲中产阶级的教育消费如何通过殖民历史形成的文化想象和地缘政治动态重塑了全球高等教育的重心（Rizvi, 2022, pp.89–91）
+> - Rizvi (2022) 的核心批评：知识资本主义的[[Analytic Framework|分析框架]]倾向于将高等教育的变化视为全球性的、中性的趋势，忽视了地缘政治力量——特别是亚洲崛起——作为独立因果[[Variable|变量]]的作用。它无法解释亚洲中产阶级的教育消费如何通过殖民历史形成的文化想象和地缘政治动态重塑了全球高等教育的重心（Rizvi, 2022, pp.89–91）
 > - 知识资本主义的积极形象——通过知识创新实现无限增长——掩盖了其空间极化效应：为少数人口和地点生产大量财富，同时将其他人置于社会和地理边缘（Moisio, 2022, pp.31–32）
 > - Schulze-Cleven et al.（2017）指出的张力：将知识同时视为公共品和可私有占有的商品，需要一套评估和等级机制来协调这一矛盾。Reitz进一步论证，资本主义[[Knowledge-Based Economy|知识经济]]需要一个非资本主义的学术部门来界定知识为有价值——同行评审、排名和[[Performance Indicators|绩效指标]]不仅促进资源分配，更向雇主、投资者和政府提供关于专业知识价值的指导信号。如果评估机制本身由精英机构控制，知识的"价值"定义权就集中在少数机构手中，形成新封建式知识权力结构（Schulze-Cleven et al., 2017, pp.798–799, 804–805）
 >
@@ -111,7 +112,7 @@ updated: '2026-05-18'
 ## 在高等教育新政治经济学中的位置
 
 > [!note]
-> Schulze-Cleven et al.（2017）将知识资本主义置于高等教育竞争转型的分析框架中，论证学术评估和等级机制在知识资本主义中扮演着双重角色：既促进知识产品的价值化（将异质的[[Knowledge Production|知识生产]]压缩为可比较的指标），又维持了精英机构的特权地位（[[Matthew Effect in Academia|制度化的马太效应]]）。Jessop 和 Reitz 分别从政治经济学和功能分析角度探讨了知识如何被"准商品化"以及评估机制如何为更广泛的[[Knowledge-Based Economy|知识经济]]提供必要的信号基础设施（Schulze-Cleven et al., 2017, pp.804–805）。
+> Schulze-Cleven et al.（2017）将知识资本主义置于高等教育竞争转型的[[Analytic Framework|分析框架]]中，论证学术评估和等级机制在知识资本主义中扮演着双重角色：既促进知识产品的价值化（将异质的[[Knowledge Production|知识生产]]压缩为可比较的指标），又维持了精英机构的特权地位（[[Matthew Effect in Academia|制度化的马太效应]]）。Jessop 和 Reitz 分别从政治经济学和功能分析角度探讨了知识如何被"准商品化"以及评估机制如何为更广泛的[[Knowledge-Based Economy|知识经济]]提供必要的信号基础设施（Schulze-Cleven et al., 2017, pp.804–805）。
 
 
 ---

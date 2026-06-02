@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Corporate Education]]"
   - "[[Central Phenomenon]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Corporate University]]"
   - "[[Academic Capitalism]]"
   - "[[Feedback]]"
@@ -80,7 +81,7 @@ IVET（如德国双元学徒制）高度依赖 CME 特有的制度互补性（in
 ### MNC 组织类型与 VoC 的映射
 
 Hartmann 结合产业社会学对 MNC 组织类型的分类，揭示了 VoC 与 MNC 组织类型之间的关联（Hartmann, 2022, pp.186–188）：
-- **国际型 MNCs**（高整合、低本地响应）→ 多源于 LMEs，以标准化产品和流程为特征
+- **国际型 MNCs**（高[[Integration in Mixed Methods|整合]]、低本地响应）→ 多源于 LMEs，以标准化产品和流程为特征
 - **联邦型 MNCs**（低整合、高本地响应）→ 多源于 CMEs，给予各国分支较大自主权
 
 详见 [[Corporate University]] 核心要素部分和 [[Argument_Hartmann_2022_CorporateEducation]] 第三步。

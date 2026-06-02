@@ -29,7 +29,6 @@ related_persons: []
 related_facts:
   - "[[Comprehensive School Reform Program]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Campbell Collaboration]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
 sources:
@@ -116,7 +115,7 @@ NCLB 是美国证据问责运动的重要起点：NCLB 对“科学本位研究�
 > - **课程窄化**：对阅读和数学测试的高度强调导致科学、社会研究、艺术、体育等科目的课时被大幅缩减——这种影响对弱势学校尤为显著，因为这些学校面临最大的考试压力
 > - **教学扭曲为应试**：教学时间从深度学习和批判性思维转向机械性考试准备——"为考试而教"（teaching to the test）取代了有意义的教学
 >
-> Zhao 将这些副作用定位为 [[Campbell Collaboration|Campbell]]'s Law 的具体例证："任何定量社会指标越被用于社会决策，就越容易受到腐败压力，越可能扭曲和腐化其旨在监测的社会过程"（Campbell, 1976, p.49, cited in Zhao, 2017, p.15）。核心论点是：NCLB 的副作用**本可在政策推广前依据 Campbell's Law 被预测**，但教育政策制定过程缺乏类似 FDA 药物审批的副作用前瞻性评估机制。
+> Zhao 将这些副作用定位为 Campbell's Law 的具体例证："任何定量社会指标越被用于社会决策，就越容易受到腐败压力，越可能扭曲和腐化其旨在监测的社会过程"（Campbell, 1976, p.49, cited in Zhao, 2017, p.15）。核心论点是：NCLB 的副作用**本可在政策推广前依据 Campbell's Law 被预测**，但教育政策制定过程缺乏类似 FDA 药物审批的副作用前瞻性评估机制。
 
 ## 争议与评论
 

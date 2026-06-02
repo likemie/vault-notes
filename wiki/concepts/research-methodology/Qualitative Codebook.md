@@ -10,8 +10,7 @@ type: concept
 tags:
   - research-methodology
   - qualitative-research
-related_concepts:
-  - "[[Intercoder Agreement]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -31,11 +30,11 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 质性编码手册（Qualitative Codebook）是一份包含预设编码列表的表格，研究者使用这些编码来对数据进行编码。其目的是提供编码定义并在编码之间最大化一致性——尤其是在涉及多位编码者的情况下（Guest et al., 2012; 引自 Creswell & Creswell, 2022, Ch9, p.211）。
+> [[Coding in Qualitative Research|质性编码]]手册（Qualitative Codebook）是一份包含预设编码列表的表格，研究者使用这些编码来对数据进行编码。其目的是提供编码定义并在编码之间最大化一致性——尤其是在涉及多位编码者的情况下（Guest et al., 2012; 引自 Creswell & Creswell, 2022, Ch9, p.211）。
 
 ## 核心要素
 
-一份编码手册通常包含以下信息（Creswell & Creswell, 2022, Ch9）：
+一份[[Coding in Qualitative Research|编码]]手册通常包含以下信息（Creswell & Creswell, 2022, Ch9）：
 - 编码列表
 - 每个编码的标签（code label）
 - 每个编码的简要定义

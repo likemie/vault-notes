@@ -8,7 +8,7 @@ related_concepts:
   - "[[Sage]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
 related_persons: []
@@ -54,7 +54,7 @@ APA Publication Manual (2020) 对不同文本位置使用不同时态的指导�
 | 结果描述 | 过去时 | "stress lowered self-esteem" |
 | 讨论结果和呈现结论 | 现在时 | "the qualitative findings show" |
 
-研究计划中使用将来时表示研究将在未来进行。[[Mixed Method and Multi-method Research|混合方法研究]]中的时态通常反映其主要取向，量化为主则偏过去时，质性为主则偏现在时。这些指南是建议而非硬性规定。
+研究计划中使用将来时表示研究将在未来进行。[[Mixed Methods Research|混合方法研究]]中的时态通常反映其主要取向，量化为主则偏过去时，质性为主则偏现在时。这些指南是建议而非硬性规定。
 
 > [!note]- 时态与路径的关联
 > 过去时是[[Quantitative Research|量化研究]]中最常用的形式，因为量化研究通常报告已完成的检验结果。现在时常出现在[[Qualitative Research|质性研究]]的引言中，因为质性研究强调对现象的当下理解。这一时态差异反映了量化与质性研究对"时间"和"确定性"的不同预设。

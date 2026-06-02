@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Ganz-Methode]]"
+  - "[[Analytic Framework]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
   - "[[Ecomuseology]]"
@@ -24,6 +25,7 @@ related_concepts:
   - "[[Life Power]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Social Museology]]"
+  - "[[Probes]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Transition Design]]"
@@ -53,7 +55,7 @@ Delambre 的核心关切是：现有的知识地缘政治讨论（以 [[Walter M
 ## 理论框架
 
 > [!abstract]
-> - [[Creative Tension of Sense]] — 作者自建理论，作为全章核心分析框架。该理论的出发点是一个基本观察：新事物总是在旧秩序的母体内孕育，新旧之间的"意义张力"（tension of sense）不是需要消除的故障，而是意义本身得以产生的条件。换言之，创造力恰恰来自张力，而非张力的消除（Delambre, 2022, p.106, 111–112）
+> - [[Creative Tension of Sense]] — 作者自建理论，作为全章核心[[Analytic Framework|分析框架]]。该理论的出发点是一个基本观察：新事物总是在旧秩序的母体内孕育，新旧之间的"意义张力"（tension of sense）不是需要消除的故障，而是意义本身得以产生的条件。换言之，创造力恰恰来自张力，而非张力的消除（Delambre, 2022, p.106, 111–112）
 > - [[Geopolitics of Knowledge]] — 作为讨论的背景框架。作者接受了 Mignolo 等人的基本诊断（西方认识论通过殖民扩张获得了虚假的普遍性），但批评该传统过度关注"谁生产知识、为谁的利益"（[[Knowledge Production|知识生产]]面），而忽视了知识在动态过程中如何被转移、挪用、破坏和重构（[[Knowledge Transfer|知识转移]]面）。Delambre 将张力理论定位为对 GPK 讨论的"认识论补充"（Delambre, 2022, p.105–106）
 > - 多元理论参照 — 作者广泛援引 Leff 的环境理性（environmental rationality）、Santos 的"南方认识论"（Epistemologies of the South）、Dussel 的超现代性（transmodernity）、Quijano 的殖民性权力（coloniality of power）等，但并非将这些理论作为分析工具来"操作"，而是将它们作为"现代性封闭理性已经耗竭"这一诊断的证据集合（Delambre, 2022, p.108–110）
 
@@ -140,10 +142,10 @@ Delambre 的最终结论是一个概念重构：在 [[Tense Society|张力社会
 
 > [!success]
 > - 现代性"封闭理性"的耗竭不仅是一个哲学命题（参见 [[Creative Tension of Sense#认识论立场]]），它在环境危机中有可感知的物质证据——Leff (2014) 论证环境危机本质上是"认知世界的方式的危机"，而非单纯的技术或政策失败（Delambre, 2022, p.108–109）
-> - "新在旧内部诞生"这一命题提供了一个超越"新旧二元对立"的分析框架：不需要在传统与现代、地方与全球、口述与书写之间做非此即彼的选择。这为高等教育应对多重转型提供了与"改革或守成"二分法不同的第三条路（Delambre, 2022, p.111–112）
+> - "新在旧内部诞生"这一命题提供了一个超越"新旧二元对立"的[[Analytic Framework|分析框架]]：不需要在传统与现代、地方与全球、口述与书写之间做非此即彼的选择。这为高等教育应对多重转型提供了与"改革或守成"二分法不同的第三条路（Delambre, 2022, p.111–112）
 > - [[Ganz-Methode]] 的两步程序（承载张力 → 发现 [[Life Power|生命力量]]）将抽象的认识论讨论转化为可操作的实践方法。其关键创新不是"解决问题"而是"改变与问题的关系"——从急于消解到耐心承载（Delambre, 2022, p.112–116）
 > - 在[[Tense Society|张力社会]]中，大学面临双重困境：既是现代性封闭理性的核心制度支柱（因而是"问题的一部分"），又拥有成为"解决方案的一部分"的制度资源和合法性。出路不是抛弃大学，而是在大学内部"承载新旧张力"（Delambre, 2022, p.119–121）
-> - AI、数字技术和社交媒体的崛起不只是技术变革，而是对"人是什么"的追问——当公司可以没有工人、信息权威从机构转向个体 influencer、人际关系被社交媒体的时间逻辑重组时，"活着的意义"（sense of life）成为张力社会的核心问题（Delambre, 2022, p.115–117）
+> - AI、数字技术和社交媒体的崛起不只是技术变革，而是对"人是什么"的[[Probes|追问]]——当公司可以没有工人、信息权威从机构转向个体 influencer、人际关系被社交媒体的时间逻辑重组时，"活着的意义"（sense of life）成为张力社会的核心问题（Delambre, 2022, p.115–117）
 
 > [!info]- 核心数据
 > 本文为理论建构文章，未提供系统的实证数据。作者提及 2013–2020 年间的多案例实践（涵盖六个领域）但未报告样本量、评估指标或案例比较结果（Delambre, 2022, p.107）。

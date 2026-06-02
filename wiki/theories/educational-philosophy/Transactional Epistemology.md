@@ -22,7 +22,7 @@ related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Observational and Correlational Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
 related_persons:
   - "[[John Dewey]]"
 related_facts: []
@@ -91,7 +91,7 @@ updated: '2026-05-18'
 > - **批评立场**：若所有知识都是情境依赖的"关系记录"，则失去了判断不同研究质量高低的跨情境标准。这可能导致对 [[Randomised Controlled Trials|RCT]] 和[[Observational and Correlational Research|观察研究]]"同样有效"的等同处理——Slavin (2019) 会认为这放弃了因果推论的核心要求。
 > - **[[John Dewey|Dewey]]/Biesta 的回应**：交易认识论不是相对主义——"warranted assertions"的"依据"（warrant）来自实验过程的严谨性和公开可检验性。区别在于它承认这些断言的情境限制和未来不确定性，而非否定证据的价值。（Biesta, 2010, pp. 494–495）
 >
-> **目前状态**：此哲学争议在教育研究领域持续；Ercikan & Roth (2006) 以及 Maxwell (2004) 在[[Mixed Method and Multi-method Research|混合方法]]文献中提供了折中方案——承认知识的交易性但不放弃跨情境比较。
+> **目前状态**：此哲学争议在教育研究领域持续；Ercikan & Roth (2006) 以及 Maxwell (2004) 在[[Mixed Methods Research|混合方法]]文献中提供了折中方案——承认知识的交易性但不放弃跨情境比较。
 
 
 > [!warning] 对科学实践的描述是否准确

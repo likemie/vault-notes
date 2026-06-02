@@ -40,11 +40,14 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Bildung]]"
   - "[[Confidence Interval]]"
+  - "[[Analytic Framework]]"
   - "[[School Effectiveness]]"
   - "[[Language Experience Approach]]"
   - "[[Cargo Cult Science]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
+  - "[[Probes]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Technical Rationality]]"
   - "[[Problem-Based Learning]]"
   - "[[Surface and Deep Learning]]"
@@ -284,7 +287,7 @@ updated: '2026-05-21'
 > [!warning] 方法论批评
 > - **Terhart (2011)** — VL 最早的学术书评之一：识别[[Meta-meta-analysis|元-元分析]]的信息损失与稳定性/变异性双重困境；批评[[Didaktik|教学理论]]内容空洞（Popper 误用、[[Bildung]] 缺失）；从 Foucault 视角定性可见性为"精致的支配形式"。结论："很明显 Hattie 事实上没有找到圣杯"（详见 [[Argument_Terhart_2011_JCS]]、[[Visible Learning#Terhart (2011)]])
 > - **Allerup (2015)** — 从统计学角度批评 Hattie 用效应量给教学干预排序：d=0.40 与显著性的关系依赖样本量，排名未系统报告[[Confidence Interval|置信区间]]、标准误或相邻 d 值的显著性检验，且 TIMSS 2011 例子显示边际效应量在[[Societies of Control|控制社会]]经济背景后可明显下降（详见 [[Effect Size#基本公式与构成逻辑]]、[[Meta-meta-analysis#技术方法论缺陷]]）
-> - **Wecker et al. (2016)** — 迄今最系统的技术评估：构建三层分析框架，发现六个分析步骤均存在方法论不足（数据基础缺失、Fisher's z 省略、[[School Effectiveness|SE]]/SD 混淆、重复数据未中和、简单平均替代加权、无 CI/显著性检验）；外部批判揭示固定效应模型不适、138 因素不可比、d=0.40 实质意义存疑。综合判断：愿景"有远见"但方法"以科学合理的方式不可行"（详见 [[Argument_Wecker_2016_ZfE]]、[[Visible Learning#Wecker et al. (2016)]])
+> - **Wecker et al. (2016)** — 迄今最系统的技术评估：构建三层[[Analytic Framework|分析框架]]，发现六个分析步骤均存在方法论不足（数据基础缺失、Fisher's z 省略、[[School Effectiveness|SE]]/SD 混淆、重复数据未中和、简单平均替代加权、无 CI/显著性检验）；外部批判揭示固定效应模型不适、138 因素不可比、d=0.40 实质意义存疑。综合判断：愿景"有远见"但方法"以科学合理的方式不可行"（详见 [[Argument_Wecker_2016_ZfE]]、[[Visible Learning#Wecker et al. (2016)]])
 > - **Bergeron & Rivard (2017)** — 统计学家视角定性为伪科学：CLE 计算错误（负概率）、基线比较任意性、三种效应量公式产生矛盾排名、r→d 转换危险、聚合任意性。结论："任何人都不应该复制这种方法论"（详见 [[Argument_Bergeron_2017_MJE]]、[[Visible Learning#Bergeron & Rivard (2017)]])
 > - **Golovchin (2019)** — 变差系数检验：Vσ=56.87%，数据集"极端不均匀"；系统综述 10+ 位批评者论点；建议俄罗斯教育政策不采用 VL（详见 [[Argument_Golovchin_2019_ESC]]、[[Visible Learning#Golovchin (2019)]])
 > - **O'Connor (2020)** — [[Whole Language|全语言]]案例审查：分类错误（[[Language Experience Approach|语言经验法]]≠全语言）、不对称审查（接受 d=-0.65/修正 d=+0.65）、选择性修正（VL 唯一被修正的元分析）、不加权平均、次级文献系统性忽略。论证先验偏见驱动数据选择（详见 [[Argument_OConnor_2020_AJLL]]、[[Visible Learning#O'Connor (2020)]])
@@ -301,8 +304,8 @@ updated: '2026-05-21'
 
 
 > [!warning] 教育哲学批评
-> - **Rømer (2018)** — 五线哲学批判：[[Appraisal Theory|评价理论]]取代教育、因变量概念不清、[[Radical Constructivism|激进建构主义]]消解教学、反馈集权化、误读 Popper 三个世界理论。与 Nielsen & Klitmøller (2021) 形成互补——前者追问理论前提是否正确，后者追问为什么错了还如此成功（详见 Argument_Rømer_2018_EPT、[[Visible Learning#Rømer (2018)]])
-> - **Larsen (2019)** — 从[[Phenomenology|现象学]]、神经科学、自由哲学和概念史四个领域整合为统一的"盲视"（blindness）批判框架：学习对学习主体并非即时可见；大脑-身体-社会复杂性不可还原为简单测量；教师可见学习不等于学生有意识/无意识学习；学习不是价值中立的概念，应以 [[Bildung]] 替代。Larsen 追问的核心问题是"VL 在原则上能看到什么、不能看到什么？"（详见 [[Visible Learning#观看中的盲视与 Bildung 替代（Larsen, 2019）]]）
+> - **Rømer (2018)** — 五线哲学批判：[[Appraisal Theory|评价理论]]取代教育、因变量概念不清、[[Radical Constructivism|激进建构主义]]消解教学、反馈集权化、误读 Popper 三个世界理论。与 Nielsen & Klitmøller (2021) 形成互补——前者[[Probes|追问]]理论前提是否正确，后者追问为什么错了还如此成功（详见 Argument_Rømer_2018_EPT、[[Visible Learning#Rømer (2018)]])
+> - **Larsen (2019)** — 从[[Phenomenology|现象学]]、神经科学、自由哲学和概念史四个领域[[Integration in Mixed Methods|整合]]为统一的"盲视"（blindness）批判框架：学习对学习主体并非即时可见；大脑-身体-社会复杂性不可还原为简单测量；教师可见学习不等于学生有意识/无意识学习；学习不是价值中立的概念，应以 [[Bildung]] 替代。Larsen 追问的核心问题是"VL 在原则上能看到什么、不能看到什么？"（详见 [[Visible Learning#观看中的盲视与 Bildung 替代（Larsen, 2019）]]）
 > - **Zhao (2017)** — 以副作用框架审视 Hattie 将[[Direct Instruction|直接教学]]评为 d=0.59 的效应量证据：虽然 DI 在成绩测试上有效，但同时存在抑制创造力、限制自发探索、产生"非生产性成功"等副作用（详见 [[Argument_Zhao_2017_JEC]]）
 > - **Nielsen & Klitmøller (2021, IRTP)** — 以 Habermas 合法化危机理论解释 VL 全球流行：VL 的吸引力在于其[[Technical Rationality|技术理性]]内核满足了教育系统的合法化需求，而非其科学质量（详见 [[Visible Learning#合法化危机与技术理性（Nielsen & Klitmøller, 2021）]]）
 > - **Nielsen & Klitmøller (2021, NordPsych)** — 论证 Hattie 是教育理论家而非纯统计学家：追溯行为主义理论谱系（Skinner→Glaser→Hattie, 1987），对 VL 反馈效应（d=0.73）的 5 项最重元分析逐项审查，发现 4/5 未研究 Hattie 所定义的反馈（详见 [[Argument_Nielsen_2021_NordPsych]]）

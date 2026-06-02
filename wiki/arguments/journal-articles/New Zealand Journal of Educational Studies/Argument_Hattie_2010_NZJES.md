@@ -15,7 +15,9 @@ tags:
 - region/new-zealand
 related_concepts:
   - "[[Critic and Conscience of Society]]"
+  - "[[Reflexivity]]"
   - "[[Visible Learning]]"
+  - "[[Analytic Framework]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
   - "[[Academic Engagement]]"
@@ -51,9 +53,9 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：个人经验反思性叙述（reflective personal narrative），非实证研究
+> - 方法：个人经验[[Reflexivity|反思性]]叙述（reflective personal narrative），非实证研究
 > - 案例：以 *[[Visible Learning]]* (2009) 出版后的媒体反应、与政策制定者的互动、以及遭受的各类批评为经验材料
-> - 分析框架：以 Alexander (2010) 的四种腐蚀性话语（dichotomy, derision, myth, meaninglessness）分析当代公共批评的特征
+> - [[Analytic Framework|分析框架]]：以 Alexander (2010) 的四种腐蚀性话语（dichotomy, derision, myth, meaninglessness）分析当代公共批评的特征
 
 ## 核心论证
 
@@ -108,7 +110,7 @@ updated: '2026-05-18'
 > - 论文为第一人称叙事，无法声称价值中立或系统性
 > - 未回应 Snook et al. (2009) 提出的若干技术性方法论批评（如 d=0.40 的统计逻辑、[[Effect Size|效应量]]计算中对研究质量的处理等）
 > - 对"学术批评应当针对观点而非个人"的强调可能被批评者视为回避实质性方法论问题的修辞策略
-> - Alexander (2010) 在墨尔本课程研讨会上发表，当时尚未正式出版——[[John Hattie|Hattie]] 使用尚未正式出版的会议报告作为分析框架
+> - Alexander (2010) 在墨尔本课程研讨会上发表，当时尚未正式出版——[[John Hattie|Hattie]] 使用尚未正式出版的会议报告作为[[Analytic Framework|分析框架]]
 > - Snook et al. (2010) 在同期 NZJES 发表了对此文的再回应（详见 [[Argument_Snook_2010_NZJES]]）
 > - [[Gerald Grace]]（2010）在同一卷 NZJES（Vol. 45, No. 2）发表评论文章，以该概念原创者的身份批评 Hattie 混淆了"学术领域的批评者"与"[[Critic and Conscience of Society|社会的批评者与良知]]"两种不同角色（详见 [[Argument_Grace_2010_NZJES]]）
 

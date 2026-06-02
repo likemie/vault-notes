@@ -15,6 +15,7 @@ tags:
   - region/east-asia
   - region/west
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
   - "[[Variable]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Learning Virtues]]"
@@ -22,6 +23,7 @@ related_concepts:
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Cognitive Source]]"
   - "[[Benevolence]]"
+  - "[[Probes]]"
   - "[[Pride in Learning]]"
   - "[[Research Question]]"
   - "[[Socratic Tutoring Style]]"
@@ -30,6 +32,7 @@ related_theories:
   - "[[Appraisal Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[MCC Discourse Analysis Examples]]"
 related_persons:
   - "[[Socrates]]"
@@ -73,7 +76,7 @@ updated: 2026-05-24
 ### "舀水"隐喻：从流动中截取样本
 
 > [!tip] 舀水隐喻
-> Li 将社会化比作"流动的河水"——永远在变化、无法全部记录。但"从河中舀一瓢水"，虽然这瓢水不等于整条河，它却包含了水中溶解的几乎所有成分：文化编码的概念、信念、情感在对话中被表达、交换、回应；什么被看重、什么被否定、什么被协商——都在对话文本中留下了痕迹（Li, 2012）。
+> Li 将社会化比作"流动的河水"——永远在变化、无法全部记录。但"从河中舀一瓢水"，虽然这瓢水不等于整条河，它却包含了水中溶解的几乎所有成分：文化[[Coding in Qualitative Research|编码]]的概念、信念、情感在对话中被表达、交换、回应；什么被看重、什么被否定、什么被协商——都在对话文本中留下了痕迹（Li, 2012）。
 
 研究者需要的不是记录整条河（不可能），而是一个**足够好的样本**——它足够长以展示对话的动态流向，又足够短以便逐句分析。
 
@@ -132,11 +135,11 @@ MCC 方法的核心特征在于**三种分析的阶梯式设计**，从"轮廓"�
 
 ### 事件编码：从 49 组代码到四对变量
 
-Li 团队先将对话按"事件"（event）编码——一个事件就是一个主题（如"你在学校做了什么"→"我做了数学题"）。编码程序如下：
+Li 团队先将对话按"事件"（event）[[Coding in Qualitative Research|编码]]——一个事件就是一个主题（如"你在学校做了什么"→"我做了数学题"）。编码程序如下：
 
 1. **独立生成**：来自 EA 和 TW 的两组双语编码员各自独立审读对话，生成代码列表
 2. **合并协商**：两组编码员讨论并合并代码，最终形成 49 组代码
-3. **归类整合**：49 组代码被进一步归类为四对八个[[Variable|变量]]（Li, 2012, Table 7.1）：
+3. **归类[[Integration in Mixed Methods|整合]]**：49 组代码被进一步归类为四对八个[[Variable|变量]]（Li, 2012, Table 7.1）：
 
 | 代码 | 含义 | 例子 |
 |------|------|------|
@@ -256,7 +259,7 @@ Li 的话语分析还识别出第二种认知差异：**母亲如何向儿童解
 
 **第 1 层：共同特征 — 两种文化的母亲都引导情感**
 
-两种文化中，母亲都在做同一件结构上相同的事：把学习事件与**特定的情感**挂钩。EA 母亲反复追问"你享受吗？"，直到儿童确认这个情感；TW 母亲则确认儿童知道面对害怕时应感受"勇气"、展示"力量"——勇气不是自然的，而是一种需要被明确教导和主动运用的情感品质（Li, 2012）。详细对话见 MCC 示例 15–16。
+两种文化中，母亲都在做同一件结构上相同的事：把学习事件与**特定的情感**挂钩。EA 母亲反复[[Probes|追问]]"你享受吗？"，直到儿童确认这个情感；TW 母亲则确认儿童知道面对害怕时应感受"勇气"、展示"力量"——勇气不是自然的，而是一种需要被明确教导和主动运用的情感品质（Li, 2012）。详细对话见 MCC 示例 15–16。
 
 **第 2 层：不同的过程情感 — 兴趣/乐趣 vs 苦中坚持**
 

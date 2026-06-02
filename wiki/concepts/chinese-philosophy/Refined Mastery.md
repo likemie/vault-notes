@@ -16,6 +16,7 @@ tags:
   - theory/taoism
 related_concepts:
   - "[[Familiarization]]"
+  - "[[Analytic Framework]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
 related_theories: []
@@ -86,7 +87,7 @@ updated: 2026-05-23
 ## 入道与出道：精的两阶段
 
 > [!note]
-> Wong（2004）提供了对中国学习方法论的进一步说明，Li 将其纳入精的分析框架（Li, 2012, pp.131-132）：
+> Wong（2004）提供了对中国学习方法论的进一步说明，Li 将其纳入精的[[Analytic Framework|分析框架]]（Li, 2012, pp.131-132）：
 
 | 阶段 | 名称 | 含义 |
 |------|------|------|

@@ -9,6 +9,7 @@ citation: "Narayan, S., & Spohrer, J. (2025). Metrics, Incentives, Rewards, and 
 tags: ["theme/university-industry-collaboration", "theme/metrics-and-incentives", "theme/talent-development", "source/industry-perspective"]
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Literature Review]]"
   - "[[Six Rs of University-Industry Relations]]"
   - "[[Translational Research]]"
@@ -51,7 +52,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 理论框架
 
 > [!abstract]
-> 基于 IBM 百年产学实践的归纳提炼，同时整合系统[[Literature Review|文献综述]]对度量、激励、奖励和文化四个主题的研究发现，构建一个"四要素动态校准"的分析视角。
+> 基于 IBM 百年产学实践的归纳提炼，同时[[Integration in Mixed Methods|整合]]系统[[Literature Review|文献综述]]对度量、激励、奖励和文化四个主题的研究发现，构建一个"四要素动态校准"的分析视角。
 > - [[University-Industry Collaboration]] 作为分析的组织领域，度量、激励、奖励与文化是维持产学关系质量的四个相互关联的维度
 > - [[Six Rs of University-Industry Relations]] 由 [[Jim Spohrer]]（2010）提出，将 IBM 的产学投资按功能分为七个领域（pp.88–89, 97）：Research（研究）、Readiness（技能准备）、Recruiting（人才招聘）、Revenue（收入）、Responsibility（社会责任）、Regions（区域发展），外加 Refresh（更新）作为动态调适维度
 >
@@ -128,7 +129,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 8. 前两个前提确立了"四要素必须动态管理"的必要性。接下来的问题是具体怎么做，六 R 框架就是对这一问题的操作性回答。
 
-9. 理解六 R 框架，关键在于理解它被设计出来的商业背景。IBM 在 2000 年代和 2010 年代经历了两次根本性的战略转型（pp.88–89）。2000 年代，IBM 的业务重点是"全球整合企业"（globally integrated enterprise）和服务业务的增长，需要支持大型企业客户（企业、政府、甚至顶级区域大学自身）的数字化转型之旅。这一时期，产学合作最需要的是服务科学和业务流程方面的人才与研究。到了 2010 年代，战略重点转向认知计算和混合云，产学合作的优先事项需要全面洗牌：2000 年代重点资助的服务科学研究方向，到了 2010 年代可能已不在战略版图内。
+9. 理解六 R 框架，关键在于理解它被设计出来的商业背景。IBM 在 2000 年代和 2010 年代经历了两次根本性的战略转型（pp.88–89）。2000 年代，IBM 的业务重点是"全球[[Integration in Mixed Methods|整合]]企业"（globally integrated enterprise）和服务业务的增长，需要支持大型企业客户（企业、政府、甚至顶级区域大学自身）的数字化转型之旅。这一时期，产学合作最需要的是服务科学和业务流程方面的人才与研究。到了 2010 年代，战略重点转向认知计算和混合云，产学合作的优先事项需要全面洗牌：2000 年代重点资助的服务科学研究方向，到了 2010 年代可能已不在战略版图内。
 
 10. 此时就面临一个微妙的管理困境。如果简单地砍掉旧方向的合作项目，多年建立的信任关系会受损，大学教师会觉得被用完就扔。如果继续无条件资助旧方向，资源又会流向已无战略价值的方向。六 R 框架的作用就是在这个时刻提供系统性的重新校准：不在单个项目层面做"砍"或"留"的二元决策，而在六个功能维度上分别调整投资权重（p.88）。比如在 Research 维度，可以从服务科学方向转向 AI 和云计算方向；但在 Recruiting 维度，人才管道的维护不需要因为战略转向而缩减，因为无论做服务科学还是 AI，好的人才总是需要的；在 Regions 维度，区域经济发展的合作伙伴关系也相对稳定。
 
@@ -224,7 +225,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 主要发现
 
 > [!success]
-> 1. 产学关系的度量、激励、奖励与文化是需要随企业商业环境和战略重点持续调适的动态系统。IBM 从 2000 年代的全球整合企业到 2010 年代的认知计算与混合云，每一次战略转型都要求重新校准六 R 投资组合中各领域的权重（pp.88, 96–97）。
+> 1. 产学关系的度量、激励、奖励与文化是需要随企业商业环境和战略重点持续调适的动态系统。IBM 从 2000 年代的全球[[Integration in Mixed Methods|整合]]企业到 2010 年代的认知计算与混合云，每一次战略转型都要求重新校准六 R 投资组合中各领域的权重（pp.88, 96–97）。
 > 2. 度量指标随投资规模发生质变。小型项目（<$250K）以出版物和人才招聘为核心度量，IP 条款的过度谈判反而阻碍合作启动；中型项目（$250K–$1M）以建立能力中心的时间和研究生管道为核心；大型项目（>$1M）以合作密度、产业成员数量和外部资金撬动为核心（pp.91–95）。
 > 3. 信任是[[University-Industry Collaboration|产学合作]]的根基，IBM 通过中央数据库为 2000 余所高校维护投资历史和成果全景，使每位 PEP 主管在访问大学前都能获取量化的关系数据。信任的可操作化正是六 R 框架背后的数据基础设施（p.89）。
 > 4. [[Translational Research|转化研究]]存在系统性技能缺口：学术机构缺乏将 IP 连接到产业需求的动机和路径，企业研究部门缺乏将研究创新推向硬化产品的工程师。IBM 通过将博士与学士/硕士的比例从 70/30 调整至接近 50/50 来应对这一缺口，但更根本的解决方案需要改革大学的人才培养结构，包括推动 T 型技能的发展（pp.95–96）。

@@ -31,7 +31,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
@@ -100,7 +100,7 @@ Cheung & Xie (2021) 的特刊汇集了来自亚洲、北美、欧洲七个国家
 
 欧洲的证据本位改革路径比美国 ESSA 式证据标准更软。欧盟层面从 2006 年开始通过评价文化、知识本位政策文件、ET 2020 进展监测、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 知识中介网络和 Eurydice 支持机制鼓励成员国在教育政策中使用证据；但这些文件主要是指导和协调，而不是强制规定统一行动线（Pellegrini & Vivanet, 2021, pp.28-31, 41-42）。详见 [[EU Evidence-Informed Education Policy Initiatives]]。
 
-这种路径使欧洲更常采用 evidence-informed education 的表述：证据来源不限于实验研究，也包括定性和[[Mixed Method and Multi-method Research|混合方法]]；政策上则强调为成员国提供方向，而非像 ESSA 那样把拨款和项目证据等级直接绑定（Pellegrini & Vivanet, 2021, p.26）。欧洲推进 EBR 的主要障碍不是“是否需要证据”，而是 43 个教育系统、24 种官方语言和不同课程标准使经验证项目难以直接跨国复用（Pellegrini & Vivanet, 2021, p.36）。
+这种路径使欧洲更常采用 evidence-informed education 的表述：证据来源不限于实验研究，也包括定性和[[Mixed Methods Research|混合方法]]；政策上则强调为成员国提供方向，而非像 ESSA 那样把拨款和项目证据等级直接绑定（Pellegrini & Vivanet, 2021, p.26）。欧洲推进 EBR 的主要障碍不是“是否需要证据”，而是 43 个教育系统、24 种官方语言和不同课程标准使经验证项目难以直接跨国复用（Pellegrini & Vivanet, 2021, p.36）。
 
 Edovald & Nevill (2020) 总结了英国 Education Endowment Foundation (EEF) 作为 What Works 运动旗舰组织的成功经验：快速扩展学校本位 RCT、设定高标准的研究独立性、透明度和设计标准（Cheung & Xie, 2021, p.2）。
 
@@ -216,7 +216,7 @@ Slavin et al. (2021) 首次从中美英国际比较视角系统记录了[[Eviden
 
 ### ECNU 实证研究论坛与"华东师范大学宣言"
 
-华东师范大学（ECNU）自 2015 年起连续五年举办全国教育实证研究论坛。第五届（2019）扩展至 16 所大学联合组织 16 场平行会议，涵盖视频逻辑分析、[[Qualitative Research|质性研究]]反思、实证调查、[[Mixed Method and Multi-method Research|混合方法]]、社会网络分析、[[Experimental Research|实验研究]]、行动研究、[[Ethnography|民族志]]、大数据分析、文本分析等主题（Slavin et al., 2021, p.12）。
+华东师范大学（ECNU）自 2015 年起连续五年举办全国教育实证研究论坛。第五届（2019）扩展至 16 所大学联合组织 16 场平行会议，涵盖视频逻辑分析、[[Qualitative Research|质性研究]]反思、实证调查、[[Mixed Methods Research|混合方法]]、社会网络分析、[[Experimental Research|实验研究]]、行动研究、[[Ethnography|民族志]]、大数据分析、文本分析等主题（Slavin et al., 2021, p.12）。
 
 2017 年 1 月，14 所大学和 32 家 CSSCI 期刊联合发布"华东师范大学宣言"（ECNU Declaration），提出 10 条推进措施：加强课程建设与青年教师培训、提高实证研究产出、组织全国论坛、编辑出版国际高质量出版物、提高评估标准、增加实证项目比例、设立杰出成果奖、发布年度进展报告、向公众开放教育数据等（Slavin et al., 2021, p.14-15）。详见 [[ECNU Declaration on Evidence-Based Research]]。
 

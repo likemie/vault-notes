@@ -82,6 +82,7 @@ related_concepts:
   - "[[Qualitative Reliability]]"
   - "[[Intercoder Agreement]]"
   - "[[Qualitative Generalization]]"
+  - "[[Multimethod Research]]"
   - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Saturation]]"
   - "[[Multiplicity]]"
@@ -106,7 +107,7 @@ related_methods:
   - "[[Descriptive Methods]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Purposeful Sampling]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Convergent Design]]"
   - "[[Joint Display]]"
   - "[[Mixed Methods Evaluation Design]]"
@@ -142,7 +143,7 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Herbert Blalock]]"
 related_facts:
-  - "[[Campbell Collaboration]]"
+  - "[[Mixed Methods International Research Association]]"
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
@@ -168,7 +169,7 @@ updated: 2026-06-01
 | 第7章 研究问题与假设   | 系统讲解量化研究问题和假设（描述性与关系型、零假设与方向性备择假设）、质性核心研究问题和子问题、混合方法的三类研究问题（量化、质性、混合方法整合问题），每一类均提供填空式写作脚本和已发表研究范例。                                                                                                                                                                                                               | [[Research Question]], [[Hypothesis]], [[Central Question]], [[Mixed Methods Question]], [[Null Hypothesis]]                                               |
 | 第8章 量化方法      | 系统讲解调查研究和实验研究的方法计划组成部分：调查研究计划涵盖调查目的与设计类型、总体与样本（抽样设计、分层、[[Power Analysis]]）、工具信效度、变量与数据分析六步骤；实验研究计划涵盖参与者分配与[[Random Assignment]]、变量（独立变量、操纵检查、因变量、混淆变量）、工具与封面故事、实验程序（[[Pre-Experimental Designs]]、准实验、[[Factorial Design]]、[[Single-Subject Design]]）、[[Internal Validity]]与[[External Validity]]威胁控制、数据分析步骤和预注册。 | [[Survey Research]], [[Experimental Research]], [[Power Analysis]], [[Internal Validity]], ANOVA                                                           |
 | 第9章 质性方法      | 系统讲解质性研究方法的全部组成部分：九大核心特征、描述性方法与分析框架的区分、四种数据收集类型与协议设计、七步数据分析流程与 Tesch 编码八步骤、解释的组成部分、八种效度策略与信度程序，以及质性写作的六种策略。                                                                                                                                                                                                                             | [[Descriptive Methods]], [[Coding in Qualitative Research]], [[Purposeful Sampling]], [[Qualitative Validity]], [[Reflexivity]]                                |
-| 第10章 混合方法程序   | 界定混合方法研究的六个核心特征与历史定位，论证使用混合方法的多元理由，区分开放式与封闭式数据，详解三种核心设计（聚敛式、解释性序列、探索性序列）的意图、程序、联合展示模板、元推论与效度威胁，拓展四种复杂设计（实验干预、案例研究、参与式社会正义、评价），提供设计选择流程图和整合陈述写作指南，以四个完整研究实例展示各类设计的实际运用。 | [[Mixed Method and Multi-method Research]], [[Integration in Mixed Methods]], [[Convergent Design]], [[Joint Display]], [[Metainferences]], [[Mixed Methods Evaluation Design]], [[Integration Statement]] |
+| 第10章 混合方法程序   | 界定混合方法研究的六个核心特征与历史定位，论证使用混合方法的多元理由，区分开放式与封闭式数据，详解三种核心设计（聚敛式、解释性序列、探索性序列）的意图、程序、联合展示模板、元推论与效度威胁，拓展四种复杂设计（实验干预、案例研究、参与式社会正义、评价），提供设计选择流程图和整合陈述写作指南，以四个完整研究实例展示各类设计的实际运用。 | [[Mixed Methods Research]], [[Integration in Mixed Methods]], [[Convergent Design]], [[Joint Display]], [[Metainferences]], [[Mixed Methods Evaluation Design]], [[Integration Statement]] |
 
 ---
 
@@ -182,7 +183,7 @@ updated: 2026-06-01
 
 #### 概览
 
-全书为研究者提供设计研究计划或研究方案的框架、流程和写作方法，覆盖量化、质性和[[Mixed Method and Multi-method Research|混合方法]]三种研究路径。这一比较从三个路径共有的初步要素（哲学假设、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题与假设]]，以及数据收集、分析和解释的方法程序。
+全书为研究者提供设计研究计划或研究方案的框架、流程和写作方法，覆盖量化、质性和混合方法三种研究路径。这一比较从三个路径共有的初步要素（哲学假设、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题与假设]]，以及数据收集、分析和解释的方法程序。
 
 教材面向需要撰写期刊论文、学位论文、开题报告或资助申请的学生和教师，也可作为研究方法课程的教材和参考书。书中术语在正文中高亮，书末附有术语表。读者群体广泛，涵盖人文、健康和社会科学的多个领域。
 
@@ -199,7 +200,7 @@ updated: 2026-06-01
 
 #### 概览
 
-[[John W. Creswell]]，混合方法研究方法论学者，创办 Journal of Mixed Methods Research 并任混合方法国际研究协会创始主席。
+[[John W. Creswell]]，混合方法研究方法论学者，创办 Journal of [[Mixed Methods Research]] 并任[[Mixed Methods International Research Association|混合方法国际研究协会]]创始主席。
 
 [[J. David Creswell]]，卡内基梅隆大学心理学教授，研究方向为压力下的心理韧性，与 John W. Creswell 合著本书。
 
@@ -235,7 +236,7 @@ updated: 2026-06-01
 
 - [[Qualitative Research|质性研究]] 探索和理解个体或群体赋予社会或人类问题之意义。过程包含涌现式问题、在参与者自然情境中收集数据、从具体到主题的归纳式分析，以及研究者对数据意义的解释。报告结构灵活，研究者注重个体意义和情境复杂性。
 - [[Quantitative Research|量化研究]] 通过检验[[Variable|变量]]间关系或群体间比较来验证客观理论。变量可通过标准化工具测量，产生可用统计程序分析的数值数据。报告结构固定（引言—方法—结果—讨论），研究者以演绎方式检验理论，控制偏差，寻求推广和复制。
-- [[Mixed Method and Multi-method Research|混合方法研究]] 同时收集量化与质性数据，使用特定设计整合两类数据，并从合并数据库中得出整合性推论（[[Metainferences]]）。
+- 混合方法研究 同时收集量化与质性数据，使用特定设计整合两类数据，并从合并数据库中得出整合性推论（[[Metainferences]]）。
 
 > [!note]- 连续谱而非二分
 > 量化和质性不宜视为截然对立或互斥的范畴，两者的区分常用"文字（质性）vs 数字（量化）"或"开放问题 vs 封闭问题"来表述。更完整的区分方式是从哲学假设、研究策略和具体方法三个层面来观察差异梯度。从历史看，量化路径在 19 世纪末至 20 世纪中期主导社会科学，20 世纪后半叶质性研究兴起，混合方法随之发展。
@@ -734,7 +735,7 @@ Creswell 用一个四阶段流程图（图 6.1）展示研究焦点的逐步收�
 |---|---|---|
 | [[Quantitative Research\|量化]] | 研究问题 + 假设 | 围绕[[Variable\|变量]]间关系提问或做方向性预测，通过统计程序检验 |
 | [[Qualitative Research\|质性]] | 只使用研究问题 | 以 what/how 开头，开放探索[[Central Phenomenon\|核心现象]]，不预设结果方向 |
-| [[Mixed Method and Multi-method Research\|混合方法]] | 量化问题/假设 + 质性问题 + 整合问题 | 三类问题覆盖三类研究组件，顺序反映设计步骤 |
+| [[Mixed Methods Research\|混合方法]] | 量化问题/假设 + 质性问题 + 整合问题 | 三类问题覆盖三类研究组件，顺序反映设计步骤 |
 
 ---
 
@@ -1262,7 +1263,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 #### 混合方法的历史定位与方法论合法性
 
-混合方法作为独立方法论起源于 1980 年代末。在 35 年的发展历程中，它已从零散的跨学科实践演变为拥有完整方法论体系的"第三方法论运动"（Tashakkori & Teddlie, 2010），与量化和质性研究并列。
+混合方法作为独立方法论起源于 1980 年代末。在 35 年的发展历程中，它已从零散的跨学科实践演变为拥有完整方法论体系的"第三方法论运动"（Tashakkori & Teddlie, 2010），与量化和质性研究并列。2014 年MMIRA的成立标志着该方法论在国际层面的制度化。
 
 > [!note]- 混合方法研究的关键发展节点
 >
@@ -1303,7 +1304,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 在撰写混合方法方案或报告时，六个特征中的每一个都应有对应的文字说明段落。
 
 > [!warning] 术语辨析：混合方法 vs 多方法
-> "mixed methods"是领域中通过大量著作获得最广泛认可的术语。其他文献中也出现过 integrating、synthesis、quantitative and qualitative methods、multimethod、mixed research 或 mixed methodology 等替代词，但均未达到同等的共识度。必须明确区分的是：**多方法研究（Multimethod Research）**指收集多种量化数据来源（如问卷+官方统计）或多种质性数据来源（如访谈+观察），但不同时包含量化和质性数据——它不属于混合方法研究。混合方法研究的标志性特征是同时收集量化（封闭式）和质性（开放式）两种数据并加以整合。
+> "mixed methods"是领域中通过大量著作获得最广泛认可的术语。其他文献中也出现过 integrating、synthesis、quantitative and qualitative methods、mixed research 或 mixed methodology 等替代词，但均未达到同等的共识度。必须明确区分的是：[[Multimethod Research|多方法研究]]（Multimethod Research）指收集多种量化数据来源（如问卷+官方统计）或多种质性数据来源（如访谈+观察），但不同时包含量化和质性数据——它不属于混合方法研究。混合方法研究的标志性特征是同时收集量化（封闭式）和质性（开放式）两种数据并加以整合。
 
 ---
 
@@ -1383,7 +1384,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 ##### 聚敛式设计（Convergent Design）
 
 > [!info] 意图与核心假设
-> 意图是通过**合并**（merging）来比较量化与质性结果。核心假设是：量化与质性数据提供不同类型的信息——质性数据给予参与者的详细视角，量化数据给予工具上的得分——两者合并后应产生一致的结果。这一设计的思想渊源可追溯到 [[Campbell Collaboration|Campbell]] & Fiske (1959) 的多方法多特质（multimethod-multitrait）概念，但将其从纯量化数据拓展到量化-质性数据的结合。
+> 意图是通过**合并**（merging）来比较量化与质性结果。核心假设是：量化与质性数据提供不同类型的信息——质性数据给予参与者的详细视角，量化数据给予工具上的得分——两者合并后应产生一致的结果。这一设计的思想渊源可追溯到 Campbell & Fiske (1959) 的多方法多特质（multimethod-multitrait）概念，但将其从纯量化数据拓展到量化-质性数据的结合。
 >
 > 过去的术语中曾称其为"并行设计"（concurrent design）或"平行设计"（parallel design），聚焦于"比较结果"而非描述收集时机，使术语更加精确。
 
@@ -1966,7 +1967,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > ("[[Quantitative Research]] is an approach for testing objective theories by examining the relationship among variables or a comparison among groups. These variables, in turn, can be measured, typically on instruments, so that numbered data can be analyzed using statistical procedures.")（第1章, p.5）
 
 > [!quote]
-> “[[Mixed Method and Multi-method Research|混合方法研究]]是一种探究路径，涉及收集量化和质性两类数据，使用特定的程序或设计，在该设计内合并（或[[Integration in Mixed Methods|整合]]）这两种形式的数据，并得出关于从合并数据库中涌现的洞见的结论（[[Metainferences|元推论]]）。”
+> “[[Mixed Methods Research|混合方法研究]]是一种探究路径，涉及收集量化和质性两类数据，使用特定的程序或设计，在该设计内合并（或[[Integration in Mixed Methods|整合]]）这两种形式的数据，并得出关于从合并数据库中涌现的洞见的结论（[[Metainferences|元推论]]）。”
 > ("Mixed methods research is an approach to inquiry involving collecting both quantitative and qualitative data, using a specific procedure or design, combining (or integrating) the two forms of data within the design, and drawing conclusions (metainferences) about the insight to emerge from the combined databases.")（第1章, p.5）
 
 > [!quote]

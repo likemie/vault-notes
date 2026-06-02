@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Language Experience Approach]]"
   - "[[Simple View of Reading]]"
   - "[[Direct Instruction]]"
@@ -21,6 +22,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Ken Goodman]]"
   - "[[John Hattie]]"
@@ -64,7 +66,7 @@ updated: '2026-05-18'
 > - **意义优先**：重点在于意义而非语言本身，学习发生在真实的言语和读写事件中（Goodman, 2005, p.42）
 > - **完整语境**：学习者围绕完整语言在完整情境中学习，拒绝将读写技能从实际使用中隔离（Goodman, 2005, pp.35-36）
 > - **学习者中心**：鼓励学习者冒险，以自身目的使用语言的所有变体（Goodman, 2005, p.42）
-> - **整合技能教学**：全语言理论家撰写了大量关于在全语言框架内教授语音（phonics）、解码技巧、拼写和其他具体技能的文献（如 Hornsby & Powell, 1993; Hornsby & Wilson, 2011，引自 O'Connor, 2020, p.148）——这与批评者声称全语言不教具体技能的说法相反
+> - **[[Integration in Mixed Methods|整合]]技能教学**：全语言理论家撰写了大量关于在全语言框架内教授语音（phonics）、解码技巧、拼写和其他具体技能的文献（如 Hornsby & Powell, 1993; Hornsby & Wilson, 2011，引自 O'Connor, 2020, p.148）——这与批评者声称全语言不教具体技能的说法相反
 > - **读写作为社会文化实践**：Bloome, Harris & Ludlam（1991, p.15）指出读写构成复杂的社会文化活动网络，"理解读写作为社会和文化实践的总体含义是承认教学法始终是政治的（涉及权力关系）"（引自 O'Connor, 2020, p.150）
 
 ## 与相关概念的区别
@@ -103,7 +105,7 @@ updated: '2026-05-18'
 
 
 > [!warning] 政治争议
-> - Snook et al.（2009, p.97）早在 VL 出版同年即指出全语言元分析中的[[Variable|变量]]界定问题："全语言教学"的操作定义在不同元分析中差异巨大——Hattie 本人承认两项元分析使用了大量重叠的研究，但"差异源于作者对某些关键研究的分类方式以及对'什么构成全语言'的编码方式"（Hattie, 2008, p.137）。这揭示了一个可能广泛存在的问题：教育变量的模糊定义使得元分析间的比较失去可靠性。
+> - Snook et al.（2009, p.97）早在 VL 出版同年即指出全语言元分析中的[[Variable|变量]]界定问题："全语言教学"的操作定义在不同元分析中差异巨大——Hattie 本人承认两项元分析使用了大量重叠的研究，但"差异源于作者对某些关键研究的分类方式以及对'什么构成全语言'的[[Coding in Qualitative Research|编码]]方式"（Hattie, 2008, p.137）。这揭示了一个可能广泛存在的问题：教育变量的模糊定义使得元分析间的比较失去可靠性。
 > - 全语言在美国成为文化战争的战场：福音派基督教团体和共和党右翼领导了 1990 年代的反全语言运动。Phyllis Schlafly 的 Eagle Forum 敦促成员推动支持语音的立法（Weaver & Brinkley, 1998，引自 O'Connor, 2020, p.147）
 > - Wolf & Poynor（2001, p.15）挑战流行的"钟摆摆动"隐喻，论证全语言的兴衰"更接近一场与霸权控制冲突密不可分的社会政治运动"（O'Connor, 2020, p.150）
 

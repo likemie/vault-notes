@@ -11,7 +11,8 @@ tags:
 - improvement-science
 - mechanism-experiments
 - region/us
-related_concepts: []
+related_concepts:
+  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods:
   - "[[Mechanism Experiments]]"
@@ -30,12 +31,12 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> Amelia Peterson，哈佛大学教育研究生院（Harvard Graduate School of Education）研究者。以提出"什么有效 2.0"（What Works 2.0）整合框架著称——将实验科学的[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]]的网络化方法结合，旨在避免教育研究中的"范式战争"，加速关于系统性教育研究基础设施和资金的国际讨论（Peterson, 2016）。
+> Amelia Peterson，哈佛大学教育研究生院（Harvard Graduate School of Education）研究者。以提出"什么有效 2.0"（What Works 2.0）[[Integration in Mixed Methods|整合]]框架著称——将实验科学的[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]]的网络化方法结合，旨在避免教育研究中的"范式战争"，加速关于系统性教育研究基础设施和资金的国际讨论（Peterson, 2016）。
 
 ## 核心思想
 
 > [!info] 核心思想
-> Peterson 的核心贡献在于论证"什么有效"（以黑箱 [[Randomised Controlled Trials|RCT]] 为中心）与[[Improvement Science|改进科学]]（以网络化教师探究为中心）**并非对立而是互补**。她提出了一个双向整合框架：
+> Peterson 的核心贡献在于论证"什么有效"（以黑箱 [[Randomised Controlled Trials|RCT]] 为中心）与[[Improvement Science|改进科学]]（以网络化教师探究为中心）**并非对立而是互补**。她提出了一个双向[[Integration in Mixed Methods|整合]]框架：
 >
 > 1. **[[Mechanism Experiments|机制实验]]**改革 RCT 设计——从评估整个项目转向测试可迁移的教育变革机制
 > 2. **改进网络**为机制实验的发现提供实施和反馈基础设施
@@ -54,14 +55,14 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Peterson, A. (2016). Getting 'What Works' working: building blocks for the integration of experimental and [[Improvement Science]]. *International Journal of Research & Method in Education*, 39(3), 299–313. — 提出"什么有效 2.0"整合框架，以[[Mechanism Experiments|机制实验]]和网络化改进为双重支柱
+> - Peterson, A. (2016). Getting 'What Works' working: building blocks for the [[Integration in Mixed Methods|integration]] of experimental and [[Improvement Science]]. *International Journal of Research & Method in Education*, 39(3), 299–313. — 提出"什么有效 2.0"整合框架，以[[Mechanism Experiments|机制实验]]和网络化改进为双重支柱
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
 > - 受 **Cartwright & Hardie (2012)** 关于 [[Randomised Controlled Trials|RCT]] 仅适用于二选一决策的论证影响——这是 Peterson 论证"什么有效"需要改革的核心前提
 > - 受发展经济学随机化传统（**Duflo, Glennerster, & Kremer, 2006**）启发——[[Mechanism Experiments|机制实验]]的概念直接源自此传统
-> - 与 **Bryk et al. (2015)** 的[[Improvement Science|改进科学]]议程形成对话——Peterson 的整合方案试图桥接这两大对立范式
+> - 与 **Bryk et al. (2015)** 的[[Improvement Science|改进科学]]议程形成对话——Peterson 的[[Integration in Mixed Methods|整合]]方案试图桥接这两大对立范式
 > - 其"机制作为证据单位"的提案预示了后续教育研究中关于"核心成分"（core components）和"活性成分"（active ingredients）的讨论
 
 ## 来源

@@ -10,6 +10,7 @@ tags:
 - region/norway
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Reflexivity]]"
   - "[[Knowledge Production]]"
   - "[[New Public Management]]"
   - "[[Transformative Leadership]]"
@@ -47,7 +48,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **ISSPP 项目参与** — 自 2002 年起参与 ISSPP，提供北欧国家的案例研究视角，同时对该项目的方法论局限保持反思性批评（Møller, 2017, p.379-381）
+> - **ISSPP 项目参与** — 自 2002 年起参与 ISSPP，提供北欧国家的案例研究视角，同时对该项目的方法论局限保持[[Reflexivity|反思性]]批评（Møller, 2017, p.379-381）
 > - **OECD ISL 项目参与** — 被 OECD 邀请为 ISL 项目 Vol. 2 收集"最佳实践"案例数据，基于亲历经验提出对 OECD [[Knowledge Production|知识生产]]政治的批判（Møller, 2017, p.377）
 > - **[[New Public Management|新公共管理]]与教育的批判性分析** — 与 Gunter, Hall, Serpieri, Skedsmo 等合作，分析 NPM 在欧洲教育改革中的作用（Møller, 2017, p.381-382, citing Hall et al., 2015; Gunter et al., 2016; Skedsmo & Møller, 2016）
 > - **教育的"新语言"批判** — 早期论文（Møller, 2007）关注教育中新管理主义语言对教育目的讨论的侵蚀

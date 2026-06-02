@@ -21,8 +21,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Analysis of Variance]]"
 related_persons: []
-related_facts:
-  - "[[Campbell Collaboration]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
@@ -42,7 +41,7 @@ updated: 2026-06-01
 ## 研究程序
 
 > [!example]
-> 使用 [[Campbell Collaboration|Campbell]] & Stanley (1963) 符号系统表示：
+> 使用 Campbell & Stanley (1963) 符号系统表示：
 
 ```
 Group A  R ——— O ——— X ——— O    (前测 + 处理 + 后测)

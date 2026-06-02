@@ -17,6 +17,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Corporate University]]"
   - "[[Otherhood]]"
+  - "[[Analytic Framework]]"
   - "[[New Public Management]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -124,7 +125,7 @@ Hartmann（2022）将该理论应用于跨国公司[[Corporate Education|企业�
 ## 应用领域
 
 > [!success]
-> - [[Corporate Education]] — Hartmann（2022）以三种同构类型为分析框架，揭示 MNCs 企业教育的规范扩散机制：强制型（管理层权力、市场寡头）、模仿型（模仿高等教育、同行互仿）、规范型（专业认证）。三种同构的混合运作解释了什么条件下企业教育能够国际化（Hartmann, 2022, pp.183–193）
+> - [[Corporate Education]] — Hartmann（2022）以三种同构类型为[[Analytic Framework|分析框架]]，揭示 MNCs 企业教育的规范扩散机制：强制型（管理层权力、市场寡头）、模仿型（模仿高等教育、同行互仿）、规范型（专业认证）。三种同构的混合运作解释了什么条件下企业教育能够国际化（Hartmann, 2022, pp.183–193）
 > - [[Corporate University]] — 企业大学命名本身即为模仿型同构的经典案例：企业模仿大学以获得权威。Rademakers 的学校/学院/高级研究院三类 CU 分别对应强制型、模仿型+规范型、模仿型同构机制（Hartmann, 2022, pp.186–189）
 > - [[New Public Management]] — NPM 的全球扩散可被理解为强制型（政府绩效问责）与模仿型（国家间政策模仿）同构的混合运作
 

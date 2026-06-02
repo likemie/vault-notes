@@ -25,7 +25,9 @@ tags:
 related_concepts:
   - "[[School Autonomy]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Qualitative Interview]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[My School Website]]"
@@ -51,10 +53,10 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**：质性访谈研究
+> - **方法**：[[Qualitative Interview|质性访谈]]研究
 > - **样本**：42 位关键教育利益相关者，涵盖三个澳大利亚州（Victoria 14, NSW 8, WA 10, Qld 8, 国家层面 2），包括教育官僚机构代表（12）、政治家（3）、家长组织（3）、校长协会（7）、校长（4）、专业组织（3）、学者（4）和教师工会（6）
 > - **数据来源**：2019 年进行的 60–90 分钟半结构化访谈，每次由两名研究者进行以保持一致性
-> - **数据分析**：使用 Nvivo 进行编码（围绕"[[School Autonomy|学校自主权]]"、"社会正义"、"公平"、"问责"和"决策"等概念），并与现有文献进行迭代对话
+> - **数据分析**：使用 Nvivo 进行[[Coding in Qualitative Research|编码]]（围绕"[[School Autonomy|学校自主权]]"、"社会正义"、"公平"、"问责"和"决策"等概念），并与现有文献进行迭代对话
 > - **研究项目背景**：三年期 Australian Research Council 资助项目（DP190100190），探索澳大利亚四个州学校自主权改革的社会正义影响；本论文呈现项目第一年的访谈发现
 > - **局限**：样本不能代表澳大利亚所有关于学校自主权的观点；呈现的观点是部分的；将在项目第二年通过后续案例研究进一步探索
 

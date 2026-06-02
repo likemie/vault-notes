@@ -7,6 +7,7 @@ tags: [method/research-ethics, theme/research-governance]
 related_concepts:
   - "[[Informed Consent]]"
   - "[[Purpose Statement]]"
+  - "[[Gatekeepers]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -65,7 +66,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 1. **提交 IRB 申请**：在数据收集之前，向所在校区的 IRB 委员会提交研究方案，说明研究程序、参与者信息和风险管控措施
 2. **获得 IRB 批准**：委员会审查参与者风险程度后决定是否批准
 3. **获取参与者[[Informed Consent|知情同意]]**：在数据收集前，确保每位参与者签署[[Informed Consent|知情同意书]]
-4. **获取现场许可**：同时需要获得研究场所负责人（gatekeepers）的准入许可
+4. **获取现场许可**：同时需要获得研究场所负责人（[[Gatekeepers]]）的准入许可
 5. **持续合规**：研究过程中遵守 IRB 批准的方案，如有变更需重新报批
 
 ## 来源

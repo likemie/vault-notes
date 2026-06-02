@@ -11,6 +11,7 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Purpose Statement]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Research Problem]]"
   - "[[Variable]]"
   - "[[Descriptive Research Question]]"
@@ -23,7 +24,7 @@ related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Intervention Research]]"
   - "[[Survey Research]]"
 related_persons: []
@@ -47,7 +48,7 @@ updated: 2026-05-31
 > [!quote]
 > "Investigators place signposts to carry the reader through a plan for a study. The first signpost is the purpose statement, which establishes the central intent for the study. The next are the research questions or hypotheses narrowing the purpose statement to predictions about what will be learned or questions to be answered in the study."（Creswell & Creswell, 2022, Ch7）
 
-研究问题的功能是收窄和聚焦目的陈述。在三种研究路径中，研究问题的形式和功能有显著差异：[[Quantitative Research|量化研究]]同时使用研究问题和假设；[[Qualitative Research|质性研究]]只使用研究问题，不使用假设（因为研究者不想预测研究结果的方向）；[[Mixed Method and Multi-method Research|混合方法研究]]则需要包含量化问题或假设、质性研究问题和混合方法整合问题三部分。
+研究问题的功能是收窄和聚焦目的陈述。在三种研究路径中，研究问题的形式和功能有显著差异：[[Quantitative Research|量化研究]]同时使用研究问题和假设；[[Qualitative Research|质性研究]]只使用研究问题，不使用假设（因为研究者不想预测研究结果的方向）；[[Mixed Methods Research|混合方法研究]]则需要包含量化问题或假设、质性研究问题和[[Integration in Mixed Methods|混合方法整合]]问题三部分。
 
 ---
 
@@ -119,7 +120,7 @@ updated: 2026-05-31
 
 ## 混合方法研究问题
 
-[[Mixed Method and Multi-method Research|混合方法研究]]需要三类问题：量化问题或假设、[[Qualitative Research|质性研究]]问题，以及[[Mixed Methods Question|混合方法研究问题]]——描述研究者希望通过整合两类数据获得什么洞见（Creswell & Creswell, 2022, Ch7）。三类问题的顺序反映设计步骤（聚敛式、解释性序列、探索性序列）。混合方法研究问题是一个关于方法的、相对较新的概念（Tashakkori & Creswell, 2007），详见 [[Mixed Methods Question]] 条目。
+[[Mixed Methods Research|混合方法研究]]需要三类问题：量化问题或假设、[[Qualitative Research|质性研究]]问题，以及[[Mixed Methods Question|混合方法研究问题]]——描述研究者希望通过[[Integration in Mixed Methods|整合]]两类数据获得什么洞见（Creswell & Creswell, 2022, Ch7）。三类问题的顺序反映设计步骤（聚敛式、解释性序列、探索性序列）。混合方法研究问题是一个关于方法的、相对较新的概念（Tashakkori & Creswell, 2007），详见 [[Mixed Methods Question]] 条目。
 
 ---
 

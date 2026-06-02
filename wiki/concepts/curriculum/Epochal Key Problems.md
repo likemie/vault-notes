@@ -15,6 +15,7 @@ related_concepts:
   - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
   - "[[Atomisation of Knowledge and Skills]]"
+  - "[[Probes]]"
   - "[[Champ]]"
 related_theories: []
 related_methods: []
@@ -68,7 +69,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 时代关键问题可能被政策话语重新包装为可测量能力或项目活动，从而失去其规范性和批判性。若课程只把"气候变化"等问题拆成可评估任务，却不让学生追问生活方式、公共责任和不确定未来，概念就会被工具化（Schaffar & Wolff, 2024, pp.9-10）。
+> - 时代关键问题可能被政策话语重新包装为可测量能力或项目活动，从而失去其规范性和批判性。若课程只把"气候变化"等问题拆成可评估任务，却不让学生[[Probes|追问]]生活方式、公共责任和不确定未来，概念就会被工具化（Schaffar & Wolff, 2024, pp.9-10）。
 
 ## 相关案例／政策
 

@@ -24,7 +24,8 @@ related_concepts:
 related_theories:
   - "[[Cultural Models]]"
   - "[[Critical Geopolitics]]"
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John W. Meyer]]"
   - "[[Gita Steiner-Khamsi]]"
@@ -82,7 +83,7 @@ updated: '2026-05-18'
 
 Ramirez & Boli (1987) 重构了 18 世纪欧洲民族国家建构大众教育的历史过程：民族国家基于地缘政治动态（连同经济与宗教系统变革），通过教育创造 membership——建立忠诚与归属的纽带，同时也划定边界——公共教育的"普遍性"不延伸至国界之外（Amos, 2022, pp.54–55）。
 
-> 现代教育的 DNA 里编码了"内外之分"——教育让你"成为"某个国家的公民，但同时通过划定"谁不属于我们"来运作。这一分析为世界社会理论提供了历史基线：全球教育趋同的根源在于民族国家共享的 membership 创造功能。
+> 现代教育的 DNA 里[[Coding in Qualitative Research|编码]]了"内外之分"——教育让你"成为"某个国家的公民，但同时通过划定"谁不属于我们"来运作。这一分析为世界社会理论提供了历史基线：全球教育趋同的根源在于民族国家共享的 membership 创造功能。
 
 ### PISA 加速器
 

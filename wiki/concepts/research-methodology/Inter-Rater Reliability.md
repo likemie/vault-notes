@@ -16,10 +16,12 @@ related_concepts:
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Construct]]"
   - "[[Test-Retest Reliability]]"
+  - "[[Intercoder Agreement]]"
   - "[[Literature Review]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Qualitative Research]]"
   - "[[Meta-analysis]]"
@@ -61,8 +63,8 @@ updated: 2026-06-01
 ## 适用场景
 
 > [!success]
-> - 研究设计中涉及多位观察者对行为进行编码或评定时（如课堂[[Observational and Correlational Research|观察研究]]、临床行为评定）。
-> - [[Qualitative Research|质性研究]]的内容分析中，多位编码者对文本进行编码时需要评估编码者间信度。
+> - 研究设计中涉及多位观察者对行为进行[[Coding in Qualitative Research|编码]]或评定时（如课堂[[Observational and Correlational Research|观察研究]]、临床行为评定）。
+> - [[Qualitative Research|质性研究]]的内容分析中，多位编码者对文本进行编码时需要评估[[Intercoder Agreement|编码者间信度]]。
 > - 系统性[[Literature Review|文献综述]]和[[Meta-analysis|元分析]]中，多位筛选者独立筛选文献时需要评估筛选者间信度。
 
 ## 局限性

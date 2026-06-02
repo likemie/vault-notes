@@ -18,6 +18,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Intent-to-Treat Analysis]]"
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准编码中，SPTW 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它是要求 [[Intent-to-Treat Analysis|ITT]] 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Promise Neighborhoods Research Consortium|PNRC]]（Wadhwa et al., 2024, p.9）。
+> 在设计标准[[Coding in Qualitative Research|编码]]中，SPTW 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0（Wadhwa et al., 2024, p.10）。它是要求 [[Intent-to-Treat Analysis|ITT]] 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Promise Neighborhoods Research Consortium|PNRC]]（Wadhwa et al., 2024, p.9）。
 >
 > SPTW 在 RCT 流失标准上接受总体流失低于 20%；在复制标准上，它强调多地点研究以及跨地点和文化情境复制的效果（Wadhwa et al., 2024, pp.9, 11）。
 >

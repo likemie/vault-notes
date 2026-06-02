@@ -21,6 +21,8 @@ tags:
 related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Integration in Mixed Methods]]"
+  - "[[Analytic Framework]]"
   - "[[Literature Review]]"
   - "[[Professional Judgment]]"
   - "[[Definition of Terms]]"
@@ -28,8 +30,7 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
 related_persons: []
-related_facts:
-  - "[[Campbell Collaboration]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Nelson_2017_ER]]"
@@ -41,12 +42,12 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> Nelson & [[Campbell Collaboration|Campbell]] (2017) 作为 *Educational Research* 特刊导言，围绕三个核心问题组织该领域的讨论：(1) [[Evidence-Informed Practice|EIP]] 如何被不同利益相关者定义和理解？(2) 有效的[[Knowledge Mobilisation|知识动员]]（knowledge mobilisation）需要什么条件？(3) EIP 的成果应如何测量？(p. 128)
+> Nelson & Campbell (2017) 作为 *Educational Research* 特刊导言，围绕三个核心问题组织该领域的讨论：(1) [[Evidence-Informed Practice|EIP]] 如何被不同利益相关者定义和理解？(2) 有效的[[Knowledge Mobilisation|知识动员]]（knowledge mobilisation）需要什么条件？(3) EIP 的成果应如何测量？(p. 128)
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> 论文采用**概念综合**（conceptual synthesis）方法，将特刊中来自澳大利亚、加拿大、英格兰、荷兰和美国的论文整合进一个三维分析框架：
+> 论文采用**概念综合**（conceptual synthesis）方法，将特刊中来自澳大利亚、加拿大、英格兰、荷兰和美国的论文[[Integration in Mixed Methods|整合]]进一个三维[[Analytic Framework|分析框架]]：
 >
 > 1. **定义维度**：证据的定义边界——谁的证据算数？证据本位 vs 证据知情 vs 研究知情的语义区分
 > 2. **应用维度**：[[Knowledge Mobilisation|知识动员]]（KMb）的四种策略——沟通与传播、能力建设、伙伴关系与网络、系统化方法
@@ -61,12 +62,12 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> ### 1. [[Evidence-Informed Practice|EIP]] 不是一维概念——是证据 + [[Professional Judgment|专业判断]] + 数据的整合
+> ### 1. [[Evidence-Informed Practice|EIP]] 不是一维概念——是证据 + [[Professional Judgment|专业判断]] + 数据的[[Integration in Mixed Methods|整合]]
 >
 > 论文反对将 EIP 简化为"使用研究证据"。多位特刊作者论证 EIP 必须被视为**专业判断、系统层面数据、课堂数据和研究证据的整合**。（p. 129）
 >
 > > “循证实践不是‘按图索骥（照菜谱做菜）’式的教学或监管，也不应该关于从一个不容挑战的权威位置来规定发生的事情。它是关于将专业技能与来自研究的最佳外部证据相结合，以提高实践质量。”
-> ("Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice.") (Sharples, 2013, p.7, cited in Nelson & [[Campbell Collaboration|Campbell]], 2017, p. 129)
+> ("Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice.") (Sharples, 2013, p.7, cited in Nelson & Campbell, 2017, p. 129)
 >
 > ### 2. "谁的证据算数？"是核心争议
 >
@@ -117,7 +118,7 @@ updated: '2026-05-18'
 > ("Evidence needs to be planted in 'fertile ground' if it is to take root and grow.") (p. 127)
 >
 > > “成为证据启发（evidence-informed）的过程，既需要严谨的证据，也需要严谨的[[Professional Judgment|专业判断]]过程。”
-> ("The process of being evidence-informed requires both rigorous evidence and a rigorous process of professional judgement.") ([[Campbell Collaboration|Campbell]], 2016, cited in Nelson & Campbell, 2017, p. 132)
+> ("The process of being evidence-informed requires both rigorous evidence and a rigorous process of professional judgement.") (Campbell, 2016, cited in Nelson & Campbell, 2017, p. 132)
 >
 > > “我们绝不能落入仅仅寻求理解那些容易被量化的组成部分的陷阱中。”
 > ("We must not fall into the trap of seeking to understand only those components that can easily be quantified.") (p. 133)

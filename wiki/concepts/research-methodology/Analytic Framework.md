@@ -12,12 +12,9 @@ tags:
 related_concepts: []
 related_theories: []
 related_methods:
+  - "[[Qualitative Research]]"
   - "[[Descriptive Methods]]"
-  - "[[Narrative Research]]"
-  - "[[Phenomenology]]"
-  - "[[Grounded Theory]]"
-  - "[[Ethnography]]"
-  - "[[Case Study]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -34,7 +31,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 分析框架（Analytic Framework）是质性研究中使用文献中预设的解释结构来分析数据的路径。分析框架意味着超越参与者的日常语言，使用"分析传统"（analytic tradition）进行解释（Braun & Clark, 2006, p.78）。它叠加在[[Descriptive Methods|描述性方法]]这一基础方法之上，为编码和主题提供特定的解释结构（Creswell & Creswell, 2022, Ch9, p.196）。
+> 分析框架（Analytic Framework）是[[Qualitative Research|质性研究]]中使用文献中预设的解释结构来分析数据的路径。分析框架意味着超越参与者的日常语言，使用"分析传统"（analytic tradition）进行解释（Braun & Clark, 2006, p.78）。它叠加在[[Descriptive Methods|描述性方法]]这一基础方法之上，为[[Coding in Qualitative Research|编码]]和主题提供特定的解释结构（Creswell & Creswell, 2022, Ch9, p.196）。
 
 五种常见的分析框架及其分析特征（Creswell & Creswell, 2022, Ch9）：
 
@@ -49,7 +46,7 @@ updated: 2026-06-01
 ## 概念辨析
 
 > [!example]
-> - vs [[Descriptive Methods\|描述性方法]] — 描述性方法贴近数据、基于参与者日常语言、使用有限框架解释；分析框架在此基础上叠加特定的分析传统，使用"超越日常语言"的学术框架进行解释。描述性方法是基础，分析框架是进阶——两者并非价值高低的关系。
+> - vs [[Descriptive Methods\|描述性方法]] — [[Qualitative Research|描述性方法]]贴近数据、基于参与者日常语言、使用有限框架解释；分析框架在此基础上叠加特定的分析传统，使用"超越日常语言"的学术框架进行解释。描述性方法是基础，分析框架是进阶——两者并非价值高低的关系。
 > - 文献中存在大量分析框架：Tesch（1990）识别了 28 种，Wolcott（2008）列出 22 种，Creswell & Poth（2018）讨论了 5 种。Marshall & Rossman（2022）讨论了五位不同作者共有的五种类型。
 
 分析框架的四个特征（Creswell & Creswell, 2022, Ch9）：

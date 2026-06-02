@@ -15,9 +15,10 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Central Question]]"
   - "[[Mixed Methods Question]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Convergent Design]]"
@@ -68,7 +69,7 @@ updated: 2026-05-31
 
 ## 各项脚本
 
-Creswell & Creswell (2022, pp.127–137) 在[[Purpose Statement|目的陈述]]教学中共提供五套写作脚本，覆盖质性、量化和三种[[Mixed Method and Multi-method Research|混合方法]]设计。
+Creswell & Creswell (2022, pp.127–137) 在[[Purpose Statement|目的陈述]]教学中共提供五套写作脚本，覆盖质性、量化和三种[[Mixed Methods Research|混合方法]]设计。
 
 ### 质性目的陈述脚本
 
@@ -80,7 +81,7 @@ Creswell & Creswell (2022, pp.127–137) 在[[Purpose Statement|目的陈述]]�
 
 ### 聚敛式混合方法设计脚本
 
-> 本[[Mixed Method and Multi-method Research|混合方法研究]]将解决____。采用[[Convergent Design|聚敛式混合方法设计]]，在该设计中，质性数据和量化数据分别收集以提供对问题的多重视角。本研究中，____量化数据将用于检验____理论，该理论预测____自变量对____因变量在____研究场所____参与者的影响。____质性数据将探索____的____核心现象。合并两类数据库的洞见将是____。
+> 本[[Mixed Methods Research|混合方法研究]]将解决____。采用[[Convergent Design|聚敛式混合方法设计]]，在该设计中，质性数据和量化数据分别收集以提供对问题的多重视角。本研究中，____量化数据将用于检验____理论，该理论预测____自变量对____因变量在____研究场所____参与者的影响。____质性数据将探索____的____核心现象。合并两类数据库的洞见将是____。
 
 ### 解释性序列混合方法设计脚本
 
@@ -123,7 +124,7 @@ Creswell & Creswell (2022, Ch7)：
 
 > The mixed methods question in the study purpose or intent will be to ____ (compare, explain, build, augment) the ____ (quantitative data or qualitative data or process/framework) with ____ (quantitative data or qualitative data) by using a ____ (design: convergent design, explanatory sequential design, exploratory sequential design, embedded design) with the procedure of ____ (merging, connecting, or embedding).
 
-该脚本包含两个核心组件：整合的意图（intent of integration）和整合的程序（procedures of integration）。
+该脚本包含两个核心组件：[[Integration in Mixed Methods|整合]]的意图（intent of integration）和整合的程序（procedures of integration）。
 
 ## 理论基础
 

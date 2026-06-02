@@ -16,6 +16,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Knowledge-Based Economy]]"
   - "[[International Schools]]"
+  - "[[Analytic Framework]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -73,7 +74,7 @@ updated: '2026-05-19'
 
 > [!note-] 思想发展与影响
 > - 受 **Steiner-Khamsi** 的[[Policy Borrowing|政策借用]]理论和 **Cuban** 的课程变革政治分析影响
-> - 与 **Edward Vickers** 的合作建立了香港教育与威权国家主义之间联系的分析框架
+> - 与 **Edward Vickers** 的合作建立了香港教育与威权国家主义之间联系的[[Analytic Framework|分析框架]]
 > - 与 **Kin Cheung Adrian Yan** 的合作将 Cuban 的框架扩展到后《国安法》时代
 
 ## 来源

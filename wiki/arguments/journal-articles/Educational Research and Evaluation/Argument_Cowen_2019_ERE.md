@@ -22,6 +22,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Opportunist Mode]]"
   - "[[External Validity]]"
+  - "[[Integration in Mixed Methods]]"
+  - "[[Analytic Framework]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Champ]]"
@@ -61,7 +63,7 @@ updated: '2026-05-18'
 > - **公共选择理论（Public Choice）** — 方法个体主义分析集体决策；强调有限知识与有界理性下的协调问题
 > - **Cartwright 的因果推论哲学** — [[Randomised Controlled Trials|RCT]] 提供不偏估计但不解决[[External Validity|外部效度]]问题；[[Meta-analysis|元分析]]不解决归纳推理的谬误
 >
-> 论文的创新在于将这三个框架**首次整合**用于解释 [[Evidence-Based Education|EBE]] 的制度韧性。
+> 论文的创新在于将这三个框架**首次[[Integration in Mixed Methods|整合]]**用于解释 [[Evidence-Based Education|EBE]] 的制度韧性。
 
 ## 研究方法
 
@@ -69,7 +71,7 @@ updated: '2026-05-18'
 > - **方法**：理论综合 + 制度分析
 > - **论证结构**：
 >   1. 从 Cartwright/Deaton 等哲学文献中澄清 [[Randomised Controlled Trials|RCT]]/系统综述的认识论限度
->   2. 引入 Tullock 官僚制模型作为分析框架
+>   2. 引入 Tullock 官僚制模型作为[[Analytic Framework|分析框架]]
 >   3. 将 [[Evidence-Based Education|EBE]]（尤其 UK 的 EEF 和 US 的 What Works Clearing House）定位为满足官僚委托需求的工具
 >   4. 讨论认识论限度与官僚需求的张力
 >   5. 提出改革方向
@@ -166,7 +168,7 @@ updated: '2026-05-18'
 >
 > **影响**：此简化使得 Cowen 的分析可以分离出"知识问题"的独立解释力（分析优势），但同时也可能高估了 [[Evidence-Based Education|EBE]] 的"认知解决方案"角色——如果官僚选择 [[Randomised Controlled Trials|RCT]]/系统综述也有自利动机（规避决策风险、转移问责），那么仅切断问责捆绑可能不足以改变行为。
 >
-> **目前状态**：Cowen 承认这一简化，并将其定位为对 Niskanen 自利模型的补充而非替代。在公共选择文献中，认知约束与激励冲突的整合分析仍是一个开放问题。
+> **目前状态**：Cowen 承认这一简化，并将其定位为对 Niskanen 自利模型的补充而非替代。在公共选择文献中，认知约束与激励冲突的[[Integration in Mixed Methods|整合]]分析仍是一个开放问题。
 >
 > ### "改革方向"的政治可行性有限
 >

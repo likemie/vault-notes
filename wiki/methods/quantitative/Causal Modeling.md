@@ -15,12 +15,14 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Recommendations for Practice]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Matching]]"
   - "[[Observational and Correlational Research]]"
   - "[[Covariate Adjustment]]"
@@ -40,7 +42,7 @@ updated: '2026-05-31'
 ## 定义
 
 > [!info] 定义
-> 因果建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, SEM），是随机实验之外最常用的[[Causality|因果推断]]替代方法。其目标是对观察性研究施加一个关于"自然如何生成数据"的模型，然后从数据中估计自然使用的参数值。它于 1970 年代进入社会科学领域，承诺将实质性社会科学理论与统计学进行形式上的整合（Berk, 2011, p.196）。
+> 因果建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, SEM），是随机实验之外最常用的[[Causality|因果推断]]替代方法。其目标是对观察性研究施加一个关于"自然如何生成数据"的模型，然后从数据中估计自然使用的参数值。它于 1970 年代进入社会科学领域，承诺将实质性社会科学理论与统计学进行形式上的[[Integration in Mixed Methods|整合]]（Berk, 2011, p.196）。
 >
 > > "Its aim is to impose on an observational study a model of how nature generated the data and then from the data, to estimate the values of the parameters nature employed." (Berk, 2011, p.196)
 
@@ -68,7 +70,7 @@ updated: '2026-05-31'
   - 使用单向箭头从每个决定变量指向依赖它的变量
   - 在路径上插入正负价符号（+/-）表示关系方向
   - 使用双向箭头连接模型中不受其他关系约束的变量之间的未分析关系
-- **1970s** — 因果建模在计量经济学的推动下进入社会科学，承诺将理论整合与统计建模正式结合——"作为实质性和统计性理论的结合，还有什么能比这更好？"（Berk, 2011, p.196）
+- **1970s** — 因果建模在计量经济学的推动下进入社会科学，承诺将理论[[Integration in Mixed Methods|整合]]与统计建模正式结合——"作为实质性和统计性理论的结合，还有什么能比这更好？"（Berk, 2011, p.196）
 - **1973** — Goldberger 发表 "Structural Equation Models: An Overview"
 - **1975** — Duncan 出版 *Introduction to Structural Equation Models*
 - **1983** — Ed Leamer 发表著名批评文章 "Let's Take the Con Out of Econometrics"（Berk, 2011, p.196）
@@ -100,7 +102,7 @@ updated: '2026-05-31'
 
 
 > [!warning] 观察数据中的因果语言风险
-> Brady et al. (2023) 从教育心理学期刊实践层面补充了 Berk 的方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/相关研究更可能包含 RFP，可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。Brady et al. (2023) 原本计划继续编码"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（Brady et al., 2023, p.9）。
+> Brady et al. (2023) 从教育心理学期刊实践层面补充了 Berk 的方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/相关研究更可能包含 RFP，可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。Brady et al. (2023) 原本计划继续[[Coding in Qualitative Research|编码]]"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（Brady et al., 2023, p.9）。
 
 ## 适用场景
 

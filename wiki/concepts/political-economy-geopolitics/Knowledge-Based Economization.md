@@ -13,10 +13,13 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Probes]]"
   - "[[Academic Freedom]]"
   - "[[Geopolitical Subject]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Economic Patriotism]]"
+  - "[[Integration in Mixed Methods]]"
+  - "[[Analytic Framework]]"
   - "[[Doxa]]"
   - "[[Knowledge Production]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -72,7 +75,7 @@ updated: '2026-05-18'
 
 一个常规的"知识经济"视角会说：知识经济时代，大学因生产知识和人力资本而在经济中变得更重要。
 
-但知识经济化视角会追问：大学变得更重要*本身*是一个需要被制造和维持的过程——这个过程涉及什么？
+但知识经济化视角会[[Probes|追问]]：大学变得更重要*本身*是一个需要被制造和维持的过程——这个过程涉及什么？
 
 - **物质层面**：大学图书馆被改造成"makerspaces"和"创新创业中心"（Thompson & Parreira do Amaral, 2022, pp.4–6）；大学的物理空间从知识储存和[[Academic Freedom|学术自由]]的空间转变为孵化创业主体的空间
 - **话语层面**：大学被政策报告、媒体叙事、国际排名持续表述为"全球竞争力的核心基础设施"——这种表述不仅是描述性的，更在*制造*大学成为基础设施这一现实
@@ -114,7 +117,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 ## 双重焦点：物质过程 + 话语建构
 
 
-Moisio（2022）将上述两个理论资源整合为一个双焦点的分析框架（Moisio, 2022, pp.25–26）：
+Moisio（2022）将上述两个理论资源[[Integration in Mixed Methods|整合]]为一个双焦点的[[Analytic Framework|分析框架]]（Moisio, 2022, pp.25–26）：
 
 | 焦点 | 分析对象 | 例 |
 |------|---------|-----|
@@ -213,7 +216,7 @@ Moisio（2022）将上述两个理论资源整合为一个双焦点的分析框�
 
 ---
 
-> - **欧盟的制度化**：自 2000 年里斯本战略以来，教育和研究被系统性地嵌入欧洲经济想象（[[Europe 2020 Strategy|Europe 2020]]、[[Innovation Union]]、Horizon 2020），社会科学与人文学科被整合为服务于政策制定的证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）
+> - **欧盟的制度化**：自 2000 年里斯本战略以来，教育和研究被系统性地嵌入欧洲经济想象（[[Europe 2020 Strategy|Europe 2020]]、[[Innovation Union]]、Horizon 2020），社会科学与人文学科被[[Integration in Mixed Methods|整合]]为服务于政策制定的证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）
 > - **[[Global Education Industry|全球教育产业]]的兴起**：经济化、商品化、私有化、数字化、市场化和标准化构成了 [[Global Education Industry]] 的运作逻辑，为不同参与者的地缘政治抱负提供了"肥沃的土壤和生产性的推力"（Thompson & Parreira do Amaral, 2022, p.12）
 > - **[[Minerva University]] 案例**：将高等教育彻底重塑为可扩展、可转让的商业和运营模型——无校园、全球城市沉浸、在线教学——体现了知识经济化在制度层面的极致运作（Thompson & Parreira do Amaral, 2022, pp.2–3）
 > - **[[Spatial Sortings]]**：政策对创业生态系统和创新综合体的支持——被视为知识经济化的核心空间策略——实际上生产了"民族国家的战略性城市化"。公共和私人投资是这一结构过程的核心驱动因素。从[[Progressive Neoliberalism|进步新自由主义]]的视角看，枢纽地区（大型城市创新综合体）拥有增长潜力，而枢纽之外地区因"经济结构变迁"经历相对衰退（Moisio, 2022, pp.30–31）

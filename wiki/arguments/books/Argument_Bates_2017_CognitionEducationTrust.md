@@ -9,9 +9,11 @@ authors: ["Terry Bates"]
 publisher: "Cognition Education Trust"
 citation: "Bates, T. (2017). Darwin's Finch: A Short History of Cognition. Cognition Education Trust."
 tags: [region/new-zealand, source/book, theme/organisational-history, theme/education-marketisation]
-related_concepts: []
+related_concepts:
+  - "[[Story Line]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[Cognition Education]]"
@@ -54,7 +56,7 @@ updated: 2026-05-23
 > 1. 这本书先把 [[Cognition Education]] 的起源放回 [[Tomorrow's Schools Reforms]] 创造的准市场，以此确立一个基本前提：组织命运始终由国家设定的采购与治理边界塑形。（Bates, 2017, p.11-18）
 > 2. 接着，书中把公司从国内学校支持服务走向国际咨询、建校与培训的历程，解释为一连串由脆弱性驱动的适应，而不是稳定、线性的成长史。具体发展经过见 [[Cognition Education]] 与 [[Jerudong International School Establishment]].（Bates, 2017, p.21-63）
 > 3. 当叙述推进到 [[Visible Learning Branding and Global Influences]] 与 Culture Counts 等知识产品时，重点已不只是“公司做了什么”，而是作者如何把这些业务重写成更轻资产、更可复制、也更能证明组织适应性的商业模型。（Bates, 2017, p.59-63）
-> 4. 慈善信托章节承担的功能，是把公益从外围装饰提升为组织自我合法化的核心装置。治理分离、资本化基金和资助策略（grant strategy）共同证明，这个组织试图把商业成功和教育公益讲成同一条故事线。（Bates, 2017, p.69-74）
+> 4. 慈善信托章节承担的功能，是把公益从外围装饰提升为组织自我合法化的核心装置。治理分离、资本化基金和资助策略（grant strategy）共同证明，这个组织试图把商业成功和教育公益讲成同一条[[Story Line|故事线]]。（Bates, 2017, p.69-74）
 > 5. 尾声则把前面所有转折重新压缩成一个单一结论：Cognition 的历史证明了某种演化基因（evolutionary DNA）。换句话说，这本书真正要完成的不是外部检验，而是为组织写出一套“为何能持续存在”的自我解释。（Bates, 2017, p.75-76）
 
 ## 各章概览
@@ -85,7 +87,7 @@ updated: 2026-05-23
 
 ### 尾声（Epilogue）
 
-尾声的功能非常明确：它把前面分散的公司史、市场波动、治理调整和新业务尝试，重新收束为一个单一神话，即组织拥有某种演化基因（evolutionary DNA），因而能够继续变形、适应并繁荣（morph, adapt and thrive）。（Bates, 2017, p.75-76）这也是整本书最强的修辞动作。它并不提供新的外部证据，而是把既有历史再编码成“持续存在的理由”。若要看未来业务方向与市场重组本身，仍应优先查 [[Cognition Education]].（Bates, 2017, p.76）
+尾声的功能非常明确：它把前面分散的公司史、市场波动、治理调整和新业务尝试，重新收束为一个单一神话，即组织拥有某种演化基因（evolutionary DNA），因而能够继续变形、适应并繁荣（morph, adapt and thrive）。（Bates, 2017, p.75-76）这也是整本书最强的修辞动作。它并不提供新的外部证据，而是把既有历史再[[Coding in Qualitative Research|编码]]成“持续存在的理由”。若要看未来业务方向与市场重组本身，仍应优先查 [[Cognition Education]].（Bates, 2017, p.76）
 
 ## 主要发现
 

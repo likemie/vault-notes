@@ -13,6 +13,7 @@ tags:
   - program-evaluation
   - region/us
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
   - "[[Effect Size]]"
 related_theories: []
 related_methods:
@@ -35,7 +36,7 @@ updated: 2026-05-23
 ## 定义
 
 > [!info]
-> 技术融入或技术整合是学校或学区使数字技术成为课堂学习中可获得、常规化组成部分的改革过程。它不只是提供设备，而是把设备、数字资源、教师专业发展和教学活动组织在一起，使技术进入日常备课、课堂活动和学生学习之中（Ross & Morrison, 2021, pp.113-115）。
+> 技术融入或技术[[Integration in Mixed Methods|整合]]是学校或学区使数字技术成为课堂学习中可获得、常规化组成部分的改革过程。它不只是提供设备，而是把设备、数字资源、教师专业发展和教学活动组织在一起，使技术进入日常备课、课堂活动和学生学习之中（Ross & Morrison, 2021, pp.113-115）。
 
 技术融入不同于一个边界清晰的教学干预。技术本身并不是可操作定义的“干预”，而是通过不同课程、教学设计和教学策略传递教学的一种方式；因此，把各种技术应用混合成一个总体[[Effect Size|效应量]]，容易遮蔽核心项目、补充项目、教程、练习、模拟、行为主义或认知取向设计之间的差异（Ross & Morrison, 2021, p.113）。
 
@@ -75,7 +76,7 @@ updated: 2026-05-23
 
 ### 复杂改革案例
 
-- [[Students and Teachers Accessing Tomorrow]] — Baltimore County Public Schools 的全学区技术整合项目；其分阶段推进和评价结果集中写在 STAT 条目中（Ross & Morrison, 2021, pp.114-116）。
+- [[Students and Teachers Accessing Tomorrow]] — Baltimore County Public Schools 的全学区技术[[Integration in Mixed Methods|整合]]项目；其分阶段推进和评价结果集中写在 STAT 条目中（Ross & Morrison, 2021, pp.114-116）。
 - [[Azione LIM]] — 意大利互动白板行动，显示大规模设备投入若缺少有效性证据和教学整合设计，可能成为高成本低效果的技术政策案例（Pellegrini & Vivanet, 2021, p.27）。
 
 ### 证据政策环境

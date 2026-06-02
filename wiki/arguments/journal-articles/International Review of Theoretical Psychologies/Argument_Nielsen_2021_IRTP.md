@@ -18,6 +18,7 @@ tags:
 - stance/critique
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Analytic Framework]]"
   - "[[Technical Rationality]]"
   - "[[Literature Review]]"
   - "[[Effect Size]]"
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> 以 **Habermas (1976) 的合法化危机理论（Legitimation Crisis）** 为核心分析框架，配合 **Schön (1983, 1987) 的[[Technical Rationality|技术理性]]（Technical Rationality）** 概念。将 [[John Hattie|Hattie]] 的工作定位为对现代学校教育**合法化危机**的回应——VL 不是因其科学质量而被接受，而是因其提供了教育系统亟需的合法化功能。
+> 以 **Habermas (1976) 的合法化危机理论（Legitimation Crisis）** 为核心[[Analytic Framework|分析框架]]，配合 **Schön (1983, 1987) 的[[Technical Rationality|技术理性]]（Technical Rationality）** 概念。将 [[John Hattie|Hattie]] 的工作定位为对现代学校教育**合法化危机**的回应——VL 不是因其科学质量而被接受，而是因其提供了教育系统亟需的合法化功能。
 
 ## 研究方法
 
@@ -91,7 +92,7 @@ updated: '2026-05-18'
 >
 > **背景**：[[PISA]] 冲击后，各国教育系统面临严重的**合法化危机**——传统共识导向的理性（tradition- and consensus-bound rationality）无法为现代学校提供充分合法性。丹麦前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"。
 >
-> **Habermas 的分析框架**（pp. 83-86）：
+> **Habermas 的[[Analytic Framework|分析框架]]**（pp. 83-86）：
 >
 > - **系统（system）vs. 生活世界（lifeworld）**：学校处于两者的"再生产十字路口"（Borman, 2011, p. 7）
 > - 传统现代社会中，学校课程与日常生活的价值观和权威体系紧密相连，参与者容易认同

@@ -18,10 +18,12 @@ related_concepts:
   - "[[Social Engagement]]"
   - "[[Coherence in Writing]]"
   - "[[Cultural Capital]]"
+  - "[[Analytic Framework]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Triangulation]]"
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
@@ -90,7 +92,7 @@ updated: '2026-05-18'
 
 > [!success]
 > - 大量实证研究验证了涉入-成果的正向关联：学生涉入程度越高，学习成果、满意度和毕业率越高（[[Yajun Zheng|郑雅君]]，2023，引 Pascarella & Terenzini, 2005）
-> - 在郑雅君（2023）的操作化中，Astin 关于涉入兼具量与质特征的公理指导了对 [[Academic Engagement|学业投入]] 和 [[Social Engagement|社会性投入]] 的多指标三角互证设计——问卷提供投入"量"的指标，访谈通过叙述的[[Coherence in Writing|连贯性]]和方向性判断投入的"质"（郑雅君，2023）
+> - 在郑雅君（2023）的操作化中，Astin 关于涉入兼具量与质特征的公理指导了对 [[Academic Engagement|学业投入]] 和 [[Social Engagement|社会性投入]] 的多指标[[Triangulation|三角互证]]设计——问卷提供投入"量"的指标，访谈通过叙述的[[Coherence in Writing|连贯性]]和方向性判断投入的"质"（郑雅君，2023）
 
 ---
 
@@ -104,7 +106,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example]
-> - [[Yajun Zheng|郑雅君]]（2023）将 Astin 涉入理论纳入"大学过程"分析框架的"投入过程"层，用于分析 [[Goal-Controlled Mode|目标掌控模式]] 和 [[Intuition-Dependent Mode|直觉依赖模式]] 在学业和社会性两个维度上的投入差异。详见 [[Academic Engagement]]、[[Social Engagement]] 和 [[Argument_Zheng_2023_ShanghaiSanlian]]
+> - [[Yajun Zheng|郑雅君]]（2023）将 Astin 涉入理论纳入"大学过程"[[Analytic Framework|分析框架]]的"投入过程"层，用于分析 [[Goal-Controlled Mode|目标掌控模式]] 和 [[Intuition-Dependent Mode|直觉依赖模式]] 在学业和社会性两个维度上的投入差异。详见 [[Academic Engagement]]、[[Social Engagement]] 和 [[Argument_Zheng_2023_ShanghaiSanlian]]
 
 ---
 

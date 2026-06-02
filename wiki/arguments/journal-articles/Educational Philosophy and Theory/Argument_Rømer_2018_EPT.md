@@ -17,6 +17,7 @@ tags:
 - stance/critique
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Probes]]"
   - "[[Bildung]]"
   - "[[Technical Rationality]]"
   - "[[Variable]]"
@@ -49,7 +50,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> [[John Hattie]] 的 [[Visible Learning]] 理论在教育政策和实践中获得了广泛的全球影响力，但其理论基础——支撑其实证工作的教育理论——很少被讨论。Rømer 提出对 VL 理论基础的哲学审查，追问：VL 背后的基本教育理论是什么？它是否正确？
+> [[John Hattie]] 的 [[Visible Learning]] 理论在教育政策和实践中获得了广泛的全球影响力，但其理论基础——支撑其实证工作的教育理论——很少被讨论。Rømer 提出对 VL 理论基础的哲学审查，[[Probes|追问]]：VL 背后的基本教育理论是什么？它是否正确？
 
 ## 理论框架
 
@@ -117,7 +118,7 @@ updated: '2026-05-18'
 ## 关键引用
 
 > [!quote] 关键引用
-> > “[[Visible Learning|可见的学习]]本身并不是一种学习理论，事实上它根本不是一种教学理论。相反，‘可见的学习’是教育和学习被置于一种相当简化的评价理论之下时所产生的结果。”
+> > “可见的学习本身并不是一种学习理论，事实上它根本不是一种[[Didaktik|教学理论]]。相反，‘可见的学习’是教育和学习被置于一种相当简化的[[Appraisal Theory|评价理论]]之下时所产生的结果。”
 > ("[[Visible Learning]] is not a learning theory in its own right, and in fact it is not a pedagogical theory at all. Rather, Visible Learning is what happens when education and learning are subjected to a rather simplistic theory of evaluation.")（Rømer, 2018, p.2）
 >
 > > “我犯的错误是把反馈看作是教师提供给学生的东西……直到我发现当反馈是从学生传向教师时它才是最强大的，我才开始更好地理解它。”

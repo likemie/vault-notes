@@ -27,6 +27,7 @@ related_concepts:
   - "[[Construct Validity in Quantitative Measurement]]"
 related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Random Assignment]]"
@@ -76,7 +77,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准编码中，WWC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 2，对 RDD 为 3，对 ITS 为 2。WWC 是少数详细处理 RDD 的清算中心之一，也是主要将 RDD 和 ITS 都视为[[Causality|因果推断]]重要设计并为其制定标准的例外（Wadhwa et al., 2024, pp.10–11）。
+> 在设计标准[[Coding in Qualitative Research|编码]]中，WWC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 2，对 RDD 为 3，对 ITS 为 2。WWC 是少数详细处理 RDD 的清算中心之一，也是主要将 RDD 和 ITS 都视为[[Causality|因果推断]]重要设计并为其制定标准的例外（Wadhwa et al., 2024, pp.10–11）。
 >
 > WWC 主题特定综述协议会规定结果域、研究焦点（仅影响研究）、样本特征、20 年出版滞后期、学校为主的研究场景、干预特征、英文报告，以及限定为 RCT、RDD、[[21st Century Skills and Competencies Discourse|SCD]] 和 QED 的研究设计（Wadhwa et al., 2024, pp.8–9）。
 >

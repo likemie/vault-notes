@@ -15,6 +15,7 @@ related_concepts:
   - "[[Knowledge-Based Economization]]"
   - "[[Multiplicity]]"
   - "[[Champ]]"
+  - "[[Analytic Framework]]"
 related_theories:
   - "[[Critical Geopolitics]]"
 related_methods: []
@@ -120,7 +121,7 @@ Rizvi (2022) 将古典地缘政治（以 Dalby 2013 的现实主义地缘政治�
 > [!warning]
 > - [[Critical Geopolitics|批判地缘政治学]]者论证古典地缘政治的"领土偏见"不仅在分析上有缺陷，而且在历史上与殖民主义和民族主义暴力深度纠缠（Thompson & Parreira do Amaral, 2022, p.10）。详见 [[Critical Geopolitics#核心命题]]
 > - Rizvi (2022) 指出，在分析当代高等教育的地缘政治动态时，古典地缘政治视角无法捕捉跨国社会想象、中产阶级的教育消费选择，以及国际化市场中意识形态与文化的维度（Rizvi, 2022, pp.90–91）
-> - 在知识密集型资本主义时代，古典地缘政治的分析框架不足以捕捉资金、人才和思想流动的关系性空间动态——但这并不意味着领土权力逻辑已经消失（Moisio, 2022, pp.25–27）
+> - 在知识密集型资本主义时代，古典地缘政治的[[Analytic Framework|分析框架]]不足以捕捉资金、人才和思想流动的关系性空间动态——但这并不意味着领土权力逻辑已经消失（Moisio, 2022, pp.25–27）
 
 ---
 

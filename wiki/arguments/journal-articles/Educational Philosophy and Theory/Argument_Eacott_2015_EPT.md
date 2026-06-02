@@ -21,6 +21,7 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Epistemological Vigilance]]"
   - "[[Knowledge Production]]"
+  - "[[Reflexivity]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -105,7 +106,7 @@ updated: 2026-05-18
 > 可预见的批评：
 > - 对"科学"标签的有意挑衅性使用可能疏远那些认为社会研究不应以"科学"为目标的研究者
 > - 未提供可操作的具体研究程序，可能被批评为"理论主义"（theoreticism）——Eacott 对此做了预先回应："这篇文章及其背后的思考不是理论主义的案例——或为理论而理论"（p.325）
-> - 通过 Bourdieu 的框架论证反思性，但自身的 Bourdieu 运用是否也落入了选择性截取（cherry-picking）的问题？
+> - 通过 Bourdieu 的框架论证[[Reflexivity|反思性]]，但自身的 Bourdieu 运用是否也落入了选择性截取（cherry-picking）的问题？
 
 ## 来源
 

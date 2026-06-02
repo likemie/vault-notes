@@ -15,9 +15,10 @@ related_concepts:
   - "[[Integration in Mixed Methods]]"
   - "[[Variable]]"
   - "[[Metainferences]]"
+  - "[[Multimethod Research]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
@@ -38,7 +39,7 @@ updated: 2026-05-30
 ## 定义
 
 > [!info]
-> 联合展示（Joint Display）是[[Mixed Method and Multi-method Research|混合方法研究]]中用于实现量化与质性[[Integration in Mixed Methods|数据整合]]的核心分析工具。它将两种类型的数据或分析结果以表格形式并列呈现，使研究者能够通过并排比较来识别数据之间的模式、差异和关系。联合展示要求研究者检视表格并从中推断出仅靠单一数据无法获得的整合性理解。
+> 联合展示（Joint Display）是[[Mixed Methods Research|混合方法研究]]中用于实现量化与质性[[Integration in Mixed Methods|数据整合]]的核心分析工具。它将两种类型的数据或分析结果以表格形式并列呈现，使研究者能够通过并排比较来识别数据之间的模式、差异和关系。联合展示要求研究者检视表格并从中推断出仅靠单一数据无法获得的整合性理解。
 
 ## 研究程序
 
@@ -48,7 +49,7 @@ updated: 2026-05-30
 > - 联合展示是[[Integration in Mixed Methods|数据整合]]阶段的操作核心，连接着数据收集/分析与研究发现之间的解释环节。
 
 > [!abstract] 不同设计类型的联合展示模板
-> 联合展示的结构因[[Mixed Method and Multi-method Research|混合方法]]设计类型而异，因为不同设计的整合程序不同（Creswell & Creswell, 2022, pp.238–244）：
+> 联合展示的结构因[[Mixed Methods Research|混合方法]]设计类型而异，因为不同设计的整合程序不同（Creswell & Creswell, 2022, pp.238–244）：
 >
 > **[[Convergent Design|聚敛式设计]]联合展示**：以主题为列、分类[[Variable|变量]]（如高/中/低分组）为行，单元格中放置引用或得分（或两者兼有）。在表格外添加专门的[[Metainferences|元推论]]行和列，研究者沿行和沿列检视以提取整合性洞察。联合展示也可以换一种排列方式——以关键问题或概念为纵轴，横轴两列分别为质性回应和量化回应。
 >
@@ -73,7 +74,7 @@ updated: 2026-05-30
 ## 适用场景
 
 > [!success]
-> - 适合各种[[Mixed Method and Multi-method Research|混合方法]]设计中的[[Integration in Mixed Methods|数据整合]]阶段，尤其是在[[Convergent Design|聚敛式设计]]中需要直接比较量化与质性结果时。
+> - 适合各种[[Mixed Methods Research|混合方法]]设计中的[[Integration in Mixed Methods|数据整合]]阶段，尤其是在[[Convergent Design|聚敛式设计]]中需要直接比较量化与质性结果时。
 > - 可在研究报告的方法部分或发现部分呈现，作为展示数据整合过程和分析依据的透明工具。
 
 ## 局限性
@@ -85,7 +86,7 @@ updated: 2026-05-30
 ## 方法变体与相近方法
 
 > [!tip]
-> - [[Mixed Method and Multi-method Research]]，联合展示是混合方法研究中实现[[Integration in Mixed Methods|数据整合]]的具体分析工具，服务于混合方法设计的整合环节。
+> - Mixed Method and [[Multimethod Research|multi-method research]]，联合展示是[[Mixed Methods Research|混合方法研究]]中实现[[Integration in Mixed Methods|数据整合]]的具体分析工具，服务于混合方法设计的整合环节。
 
 ## 来源
 

@@ -15,6 +15,7 @@ related_concepts:
   - "[[University Spin-Out]]"
   - "[[University-Industry Collaboration]]"
   - "[[Proof of Concept Programs]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Academic Freedom]]"
   - "[[Non-dilutive Funding]]"
   - "[[Technology Transfer]]"
@@ -117,7 +118,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
    - **洞察可能颠覆自己产品的技术**：提前了解前沿进展，避免被新技术打个措手不及。
 
 > [!example]
-> 一家教育科技公司提供面向中小学的数学自适应学习平台。它赞助某大学教育学院的研究，目的是让研究团队验证一种新的知识追踪（Knowledge Tracing）算法是否能更准确地预测学生会在哪些知识点上出错。公司的算盘是：如果算法有效，就把它整合进自己的平台；如果效果一般，至少通过这次合作了解了最前沿的知识追踪技术方向，避免竞争对手抢先。从头到尾，公司的目标都是"为我所用"，而不是"让它独立发展"。
+> 一家教育科技公司提供面向中小学的数学自适应学习平台。它赞助某大学教育学院的研究，目的是让研究团队验证一种新的知识追踪（Knowledge Tracing）算法是否能更准确地预测学生会在哪些知识点上出错。公司的算盘是：如果算法有效，就把它[[Integration in Mixed Methods|整合]]进自己的平台；如果效果一般，至少通过这次合作了解了最前沿的知识追踪技术方向，避免竞争对手抢先。从头到尾，公司的目标都是"为我所用"，而不是"让它独立发展"。
 
 ---
 

@@ -14,6 +14,7 @@ tags:
 - paradigm/pragmatist
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Reflexivity]]"
   - "[[Value-Based Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Bildung]]"
@@ -49,7 +50,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] 认识论立场
-> 属于**后基础主义**（post-foundationalist）范式。哲学分析不试图建立绝对确定的知识基础（这是方法论的基础主义），而是通过揭示不同立场的**前提假设和推论后果**，帮助正在实践和决策的人做出更明智、更具反思性的判断。它不声称"这是真理"，而是提供"如果你接受前提 X，那么你必须面对后果 Y"的论证结构。
+> 属于**后基础主义**（post-foundationalist）范式。哲学分析不试图建立绝对确定的知识基础（这是方法论的基础主义），而是通过揭示不同立场的**前提假设和推论后果**，帮助正在实践和决策的人做出更明智、更具[[Reflexivity|反思性]]的判断。它不声称"这是真理"，而是提供"如果你接受前提 X，那么你必须面对后果 Y"的论证结构。
 
 ## 操作步骤
 

@@ -15,6 +15,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Research]]"
+  - "[[Qualitative Computer Software]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -31,13 +33,13 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 编码者间一致性（Intercoder Agreement）是质性研究中的一种信度程序：基于两个或多个编码者对同一段文本中使用的编码是否达成一致进行评估。关键不在于他们是否编码同一段文本，而在于确定另一位编码者是否会使用相同或相似的编码来进行标注（Creswell & Creswell, 2022, Ch9, p.215）。
+> [[Coding in Qualitative Research|编码]]者间一致性（Intercoder Agreement）是[[Qualitative Research|质性研究]]中的一种信度程序：基于两个或多个编码者对同一段文本中使用的编码是否达成一致进行评估。关键不在于他们是否编码同一段文本，而在于确定另一位编码者是否会使用相同或相似的编码来进行标注（Creswell & Creswell, 2022, Ch9, p.215）。
 
-Miles & Huberman（1994）建议，编码一致性至少应达到 80% 才算良好的质性信度。质性计算机软件包中的信度子程序可用于确定编码的一致性水平（Creswell & Creswell, 2022, Ch9）。
+Miles & Huberman（1994）建议，编码一致性至少应达到 80% 才算良好的[[Qualitative Reliability|质性信度]]。[[Qualitative Computer Software|质性计算机软件]]包中的信度子程序可用于确定编码的一致性水平（Creswell & Creswell, 2022, Ch9）。
 
 ## 研究程序
 
-编码者间一致性检查通常涉及：
+[[Coding in Qualitative Research|编码]]者间一致性检查通常涉及：
 1. 独立编码：两个或多个编码者独立对相同的数据段落进行编码
 2. 比较结果：比较编码结果，计算一致性百分比
 3. 讨论差异：对不一致的编码进行讨论，明确编码定义

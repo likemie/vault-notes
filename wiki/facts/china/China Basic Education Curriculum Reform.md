@@ -19,6 +19,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Stereotype Threat]]"
 related_theories: []
 related_methods: []
@@ -75,12 +76,12 @@ updated: '2026-05-18'
 
 > [!success]
 > - Ryan（2010, p.55）论证，这一改革如此深刻，使得西方对[[Chinese Learner|中国学习者]]"被动、[[Rote Learning|死记硬背]]"的刻板印象日益脱离现实
-> - 中国教育界内部对"如何整合中西学习与学术理念"存在激烈的辩论，尤其是交际语言教学领域；既有提倡从《论语》中汲取智慧推动"中国复兴"的声音（Yip Kwok-wah, 2006），也有主张"残酷地攻击和否定儒学的糟粕"的立场（Yip, 2006, p.xv, 转引自 Ryan, 2010, p.56）
+> - 中国教育界内部对"如何[[Integration in Mixed Methods|整合]]中西学习与学术理念"存在激烈的辩论，尤其是交际语言教学领域；既有提倡从《论语》中汲取智慧推动"中国复兴"的声音（Yip Kwok-wah, 2006），也有主张"残酷地攻击和否定儒学的糟粕"的立场（Yip, 2006, p.xv, 转引自 Ryan, 2010, p.56）
 
 ## 争议与评论
 
 > [!warning]
-> - 改革面临的整合难题：如何在借鉴西方学生中心和[[Quality Education|素质教育]]理念的同时，保留中国教育传统中的有效元素（Ryan, 2010, p.56）。见 [[Chinese Learner#中国教育变革与刻板印象的过时]] 中关于"中西学术理念辩论"的展开
+> - 改革面临的[[Integration in Mixed Methods|整合]]难题：如何在借鉴西方学生中心和[[Quality Education|素质教育]]理念的同时，保留中国教育传统中的有效元素（Ryan, 2010, p.56）。见 [[Chinese Learner#中国教育变革与刻板印象的过时]] 中关于"中西学术理念辩论"的展开
 > - 中国学者对西方将他们简单刻画为"缺乏创新"表示沮丧——他们的教学实践已高度关注实验性师生互动和创新，并持续进行研究、发表、反思和寻求反馈（Mitchell, Ryan, Kang, & Erikson, 2007, 转引自 Ryan, 2010, pp.53–54）
 
 ## 相关概念／理论

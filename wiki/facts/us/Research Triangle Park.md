@@ -16,6 +16,7 @@ tags:
   - "policy/economic-development"
 related_concepts:
   - "[[Innovation Park]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -37,7 +38,7 @@ updated: 2026-05-28
 > [!info]
 > Research Triangle Park（RTP）是位于北卡罗来纳州的美国最大[[Innovation Park|研究园区]]之一。最初是一个"不太可能实现的概念"——由一家地区银行的总裁和一位本地开发商牵头、在当时州长 Luther Hodges 的支持下发起，目的是扭转该州的经济衰退，阻止毕业生流向更繁荣的地区（Byrne & Clements, 2025, pp.130–131）。
 
-RTP 联合了三所研究型大学：Duke University、University of North Carolina at Chapel Hill 和 North Carolina State University——三所大学分别位于三个不同的地理区域，RTP 将它们整合为一个统一的组织。
+RTP 联合了三所研究型大学：Duke University、University of North Carolina at Chapel Hill 和 North Carolina State University——三所大学分别位于三个不同的地理区域，RTP 将它们[[Integration in Mixed Methods|整合]]为一个统一的组织。
 
 ## 发展过程
 

@@ -33,7 +33,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 质性计算机软件（Qualitative Computer Software）是用于辅助质性数据分析的计算机程序，帮助研究者组织、排序和搜索文本或图像数据库中的信息（Guest et al., 2012; 引自 Creswell & Creswell, 2022, Ch9, p.206）。这些程序可以显著提高编码效率，但软件本身并不进行数据分析——分析的责任始终在研究者身上。
+> 质性计算机软件（Qualitative Computer Software）是用于辅助质性数据分析的计算机程序，帮助研究者组织、排序和搜索文本或图像数据库中的信息（Guest et al., 2012; 引自 Creswell & Creswell, 2022, Ch9, p.206）。这些程序可以显著提高[[Coding in Qualitative Research|编码]]效率，但软件本身并不进行数据分析——分析的责任始终在研究者身上。
 
 ## 研究程序
 
@@ -42,7 +42,7 @@ updated: 2026-06-01
 质性数据分析软件的通用功能（Creswell & Creswell, 2022, Ch9）：
 - 同时容纳文本和图像（如照片）数据
 - 存储和组织数据
-- 搜索与特定编码关联的文本
+- 搜索与特定[[Coding in Qualitative Research|编码]]关联的文本
 - 关联编码以查询编码之间的关系
 - 将质性数据导入和导出到量化程序（如电子表格或统计程序）
 

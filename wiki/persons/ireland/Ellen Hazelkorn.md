@@ -13,6 +13,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Global Universities Rankings]]"
+  - "[[Analytic Framework]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
@@ -50,7 +51,7 @@ updated: '2026-05-19'
 
 - APA：Hazelkorn, E. (2015). *Rankings and the reshaping of higher education: The battle for world class excellence* (2nd ed.). Palgrave Macmillan.
 - 核心内容：通过大规模国际调查（2014 年），系统记录了全球排名如何驱动高校战略决策、组织重组和优先事项转变——84% 的高校已建立审视排名的内部机制（Boyadjieva, 2022, p.125）。
-- 思想位置：理论成熟期——建立了排名研究的经验基础和分析框架。
+- 思想位置：理论成熟期——建立了排名研究的经验基础和[[Analytic Framework|分析框架]]。
 - 相关概念：[[Global Universities Rankings]]
 
 ### 2018 — *Reshaping the World Order of Higher Education*

@@ -17,6 +17,7 @@ tags:
   - theme/curriculum
   - period/republican-china
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
   - "[[Pragmatism in China]]"
 related_theories: []
 related_methods: []
@@ -62,7 +63,7 @@ updated: 2026-05-26
 > - **1919** — 全国教育联合会通过"废止教育宗旨"决议案（Zhou & Westberg, 2024, p.617）
 > - **1919–1922** — 教育改革者围绕新学制标准持续讨论，[[John Dewey|杜威]]在教育部、北京美术学校、徐州等地就学制、教育目标、教材组织发表演讲（Zhou & Westberg, 2024, pp.617）
 > - **1922-10** — 教育部召集学制会议，通过决议并颁布《学校系统改革案》（Zhou & Westberg, 2024, p.617）
-> - **1923** — 颁布新学制中小学课程纲要，引入学分制和课程整合（Zhou & Westberg, 2024, p.618）
+> - **1923** — 颁布新学制中小学课程纲要，引入学分制和课程[[Integration in Mixed Methods|整合]]（Zhou & Westberg, 2024, p.618）
 
 ## 实施情况
 
@@ -79,7 +80,7 @@ updated: 2026-05-26
 > [!success] 接受的部分
 > - 反对固定教育目标——[[John Dewey|杜威]]认为"外部确立的目的是僵化的"，该改革体现了灵活应变的理念（Dewey [1916] 2018, pp.112–117，引自 Zhou & Westberg, 2024, p.618）。
 > - 接受儿童中心教学法——批评固定目标"束缚受教育者"（Resolution 1919, p.47，引自 Zhou & Westberg, 2024, p.618）。
-> - 课程整合呼应杜威反二元论的知识连续性主张（Dewey [1916] 2018, pp.73, 353–354）。
+> - 课程[[Integration in Mixed Methods|整合]]呼应杜威反二元论的知识连续性主张（Dewey [1916] 2018, pp.73, 353–354）。
 
 > [!warning] 淡化与偏离的部分
 > - "民主教育"标准仅保留"精神"（spirit），中文用词"平民"（pingmin）语义模糊——既可作"民主"解，亦可理解为"普及教育"（Zhou & Westberg, 2024, p.618）。
@@ -90,7 +91,7 @@ updated: 2026-05-26
 
 > [!success]
 > - 从法理上废除了固定的教育宗旨，代之以灵活、多元的标准体系（Zhou & Westberg, 2024, p.617）。
-> - 引入学分制与课程整合，突破了此前僵化的科目-课时安排（Zhou & Westberg, 2024, p.618）。
+> - 引入学分制与课程[[Integration in Mixed Methods|整合]]，突破了此前僵化的科目-课时安排（Zhou & Westberg, 2024, p.618）。
 
 > [!warning]
 > - 新学制缺乏财政支持和法律细化，遭北洋政府冷遇（Zhou & Westberg, 2024, p.619）。

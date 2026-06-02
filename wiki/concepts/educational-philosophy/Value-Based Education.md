@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Transactional Epistemology]]"
 related_methods: []
@@ -106,7 +107,7 @@ updated: '2026-05-18'
 > - **Biesta 的立场**：价值本位教育是一个**定位性概念**（orienting concept）而非操作性指南——它的作用是重新定义证据与价值的关系，而非提供新的课堂技术。（Biesta, 2010, p. 501）
 > - **批评者的立场**：如果概念不能转化为教师教育、课堂实践和教育政策层面的具体变化，其影响将仅限于学术界内部。
 >
-> **目前状态**：持续争论；部分教育哲学课程已整合 Biesta 框架（尤其在北欧和英国），但尚未产生大规模的课堂实践变革。
+> **目前状态**：持续争论；部分教育哲学课程已[[Integration in Mixed Methods|整合]] Biesta 框架（尤其在北欧和英国），但尚未产生大规模的课堂实践变革。
 
 
 > [!warning] 可能被误解为反证据

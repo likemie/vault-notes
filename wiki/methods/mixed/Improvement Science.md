@@ -13,6 +13,7 @@ tags:
 - implementation
 - paradigm/interpretivist
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
   - "[[Spirals of Inquiry]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
@@ -71,7 +72,7 @@ updated: '2026-05-18'
 > | 研究阶段 | 前期"效力研究" | 后期实施和规模扩展 |
 > | 核心弱点 | 生成仅适用于二选一决策的证据（Cartwright & Hardie, 2012） | 缺乏稳健可靠的因果估计来指导改进方向 |
 >
-> Peterson 的整合方案：**[[Mechanism Experiments|机制实验]]**的因果估计为改进网络中的教师探究提供方向性输入；改进网络的实践洞见反馈回新的机制假设以进行实验测试（Peterson, 2016, p. 307）。
+> Peterson 的[[Integration in Mixed Methods|整合]]方案：**[[Mechanism Experiments|机制实验]]**的因果估计为改进网络中的教师探究提供方向性输入；改进网络的实践洞见反馈回新的机制假设以进行实验测试（Peterson, 2016, p. 307）。
 
 
 > [!abstract] 网络化改进社区（Networked Improvement Communities）
@@ -109,12 +110,12 @@ updated: '2026-05-18'
 > - 在美国，改进科学在教育中的系统性应用仍处于早期阶段，主要通过 Carnegie Foundation 推进（Peterson, 2016, p. 306）
 > - [[Spirals of Inquiry|探究螺旋]]模型已通过新西兰和加拿大不列颠哥伦比亚省的实证研究获得支持（McGregor, 2013; Timperley, Parr, & Meisel, 2010）
 > - OECD (2015) 在 *Schooling Redesigned* 报告中正式推广探究螺旋作为支持创新学习系统规模化的方法
-> - Peterson (2016) 的论证主要是**概念性和方法论性的**——改进科学与实验科学的整合效果尚未经过大规模实证检验
+> - Peterson (2016) 的论证主要是**概念性和方法论性的**——改进科学与实验科学的[[Integration in Mixed Methods|整合]]效果尚未经过大规模实证检验
 
 ## 争议与批评
 
 > [!warning] 方法论碎片化的风险
-> 改进科学强调本地情境和持续改编，可能使跨情境知识积累变得更加困难。Peterson (2016) 的整合方案——以[[Mechanism Experiments|机制实验]]产生的共享"构建块"作为跨网络的学习媒介——试图直接回应此批评，但这一方案本身尚待实证检验。
+> 改进科学强调本地情境和持续改编，可能使跨情境知识积累变得更加困难。Peterson (2016) 的[[Integration in Mixed Methods|整合]]方案——以[[Mechanism Experiments|机制实验]]产生的共享"构建块"作为跨网络的学习媒介——试图直接回应此批评，但这一方案本身尚待实证检验。
 
 
 > [!warning] 对教师时间与专业能力的高要求

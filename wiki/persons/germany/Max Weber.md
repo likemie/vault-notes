@@ -13,7 +13,9 @@ tags:
   - region/germany
 related_concepts:
   - "[[Champ]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Causality]]"
+  - "[[Analytic Framework]]"
   - "[[Corporate Education]]"
   - "[[Habitus]]"
 related_theories:
@@ -161,7 +163,7 @@ updated: 2026-05-26
 
 - **APA**：Weber, M. (1920–1921). *Gesammelte Aufsätze zur Religionssoziologie* (Vols. 1–3). Mohr.
 - **核心内容**：汇集《新教伦理》修订稿和比较宗教社会学论文，系统呈现宗教伦理、救赎路径、世界图像与经济行动之间的关系。
-- **思想位置**：这套论文集把 Weber 的宗教社会学整合为比较文明研究，集中服务于“为什么现代资本主义和理性化路径在西方形成”这一问题。
+- **思想位置**：这套论文集把 Weber 的宗教社会学[[Integration in Mixed Methods|整合]]为比较文明研究，集中服务于“为什么现代资本主义和理性化路径在西方形成”这一问题。
 - **相关概念／理论**：宗教社会学、救赎宗教、经济伦理、世界的祛魅。
 
 ### 1921 — *Die rationalen und soziologischen Grundlagen der Musik*
@@ -197,7 +199,7 @@ updated: 2026-05-26
 - **情感行动（affektuelles Handeln）**：由当下情感状态决定的行动
 - **传统行动（traditionales Handeln）**：由习惯和习俗决定的行动
 
-郑雅君（2023）以工具理性与价值理性的区分作为搭建分析框架的关键理论资源，指出工具理性之下的效用计算"远不能概括生涯选择的全部合理性"，由此主张将分析框架从工具理性拓展到价值信念。
+郑雅君（2023）以工具理性与价值理性的区分作为搭建[[Analytic Framework|分析框架]]的关键理论资源，指出工具理性之下的效用计算"远不能概括生涯选择的全部合理性"，由此主张将分析框架从工具理性拓展到价值信念。
 
 ### 西方理性主义与世界的祛魅
 

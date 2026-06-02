@@ -24,8 +24,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
-related_facts:
-  - "[[Campbell Collaboration]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
@@ -45,7 +44,7 @@ updated: 2026-05-31
 ## 方法变体
 
 > [!example]
-> 前实验设计包含以下四种主要变体（Creswell & Creswell, 2022, Ch8, Example 8.1），使用 [[Campbell Collaboration|Campbell]] & Stanley (1963) 的经典符号系统（X = 处理暴露，O = 观察或测量）：
+> 前实验设计包含以下四种主要变体（Creswell & Creswell, 2022, Ch8, Example 8.1），使用 Campbell & Stanley (1963) 的经典符号系统（X = 处理暴露，O = 观察或测量）：
 
 ### 一次性个案研究（One-Shot Case Study）
 
@@ -101,7 +100,7 @@ Group B  X2 ———————————————— O
 > [!warning]
 > - [[Internal Validity|内部效度]]极低：缺乏[[Random Assignment|随机分配]]、对照组和／或前测，几乎无法排除替代性因果解释。
 > - 单组设计无法区分处理效果与自然成熟、历史事件、回归均值等威胁。
-> - 不适合做出[[Causality|因果推断]]（[[Campbell Collaboration|Campbell]] & Stanley, 1963; 引自 Creswell & Creswell, 2022, Ch8）。
+> - 不适合做出[[Causality|因果推断]]（Campbell & Stanley, 1963; 引自 Creswell & Creswell, 2022, Ch8）。
 
 ## 方法变体与相近方法
 

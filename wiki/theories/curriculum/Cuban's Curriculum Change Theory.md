@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Progressive Education]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
@@ -114,7 +115,7 @@ Yan & Morris (2025) 的核心理论贡献在于指出：Cuban 框架中各因素
 >
 > **根本原因**：Cuban 框架建立在对美国相对稳定的民主政治体系的历史分析上，未预设政治体系本身可能发生急剧变化——从多元协商转向威权命令。
 >
-> **目前状态**：Yan & Morris (2025) 建议在应用 Cuban 框架时引入**因素权重分析**维度——不仅识别存在哪些因素，更考察它们的相对权重和运作方式如何随政治语境变化。这一补充尚未被系统整合进 Cuban 框架。
+> **目前状态**：Yan & Morris (2025) 建议在应用 Cuban 框架时引入**因素权重分析**维度——不仅识别存在哪些因素，更考察它们的相对权重和运作方式如何随政治语境变化。这一补充尚未被系统[[Integration in Mixed Methods|整合]]进 Cuban 框架。
 
 ## 相关研究
 

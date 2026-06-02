@@ -23,7 +23,7 @@ related_theories:
   - "[[Cultural Political Economy]]"
 related_methods:
   - "[[Case Study]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
@@ -101,7 +101,7 @@ CCS 的研究操作不遵循固定的线性步骤，而是通过三个轴的**�
 
 > [!example]
 - [[Argument_Erfurth_2022_education-hubs]] — 以 CCS 比较新加坡和阿联酋的教育枢纽项目，聚焦横贯维度追溯 1990–2018 年间的现象变迁
-- [[Argument_SpronkenSmith_2024_AEHE]] — 采用比较案例研究加[[Mixed Method and Multi-method Research|混合方法]]，比较两所美国大学和一所新西兰大学的 PhD [[Graduate Attributes|毕业生特质]]发展与职场应用，以制度不同的三校一致性模式推论博士培养的系统性偏向
+- [[Argument_SpronkenSmith_2024_AEHE]] — 采用比较案例研究加[[Mixed Methods Research|混合方法]]，比较两所美国大学和一所新西兰大学的 PhD [[Graduate Attributes|毕业生特质]]发展与职场应用，以制度不同的三校一致性模式推论博士培养的系统性偏向
 
 ---
 

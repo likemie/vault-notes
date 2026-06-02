@@ -7,11 +7,13 @@ tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Multiplicity]]"
   - "[[Literature Review]]"
+  - "[[Integration in Mixed Methods]]"
+  - "[[Metainferences]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Convergent Design]]"
 related_persons:
   - "[[John Locke]]"
@@ -78,14 +80,14 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ### 混合方法研究
 
-[[Mixed Method and Multi-method Research|混合方法研究]]的术语策略视起始阶段而定：如果研究以量化阶段开始，可包含独立的定义章节；如果以质性阶段开始，术语可在研究过程中涌现。但混合方法特有的术语（如"[[Convergent Design|聚敛式设计]]""整合""元推论"）应在程序讨论中加以说明。
+[[Mixed Methods Research|混合方法研究]]的术语策略视起始阶段而定：如果研究以量化阶段开始，可包含独立的定义章节；如果以质性阶段开始，术语可在研究过程中涌现。但混合方法特有的术语（如"[[Convergent Design|聚敛式设计]]""[[Integration in Mixed Methods|整合]]""[[Metainferences|元推论]]"）应在程序讨论中加以说明。
 
 ---
 
 ## 定义示例
 
 > [!example] VanHorn-Grassmeyer (1998) 的术语定义
-> 在一项关于高校学生事务新专业人员反思实践的[[Mixed Method and Multi-method Research|混合方法研究]]中，VanHorn-Grassmeyer (1998) 在第一章的独立"Definition of Terms"节中详细定义了"Individual Reflection"和"Student Affairs Professional"两个关键术语。每个定义引用 Schon (1983)、Argyris & Schon (1978)、Baskett & Marsick (1992) 等文献中的约定含义，展示了将术语定义建立在已有学术文献基础之上的做法（引自 Creswell & Creswell, 2022）。
+> 在一项关于高校学生事务新专业人员反思实践的[[Mixed Methods Research|混合方法研究]]中，VanHorn-Grassmeyer (1998) 在第一章的独立"Definition of Terms"节中详细定义了"Individual Reflection"和"Student Affairs Professional"两个关键术语。每个定义引用 Schon (1983)、Argyris & Schon (1978)、Baskett & Marsick (1992) 等文献中的约定含义，展示了将术语定义建立在已有学术文献基础之上的做法（引自 Creswell & Creswell, 2022）。
 
 ---
 

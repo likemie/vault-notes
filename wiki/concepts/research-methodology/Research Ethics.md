@@ -6,16 +6,18 @@ type: concept
 tags: [method/research-ethics, theme/research-governance]
 related_concepts:
   - "[[Institutional Review Board]]"
+  - "[[Gatekeepers]]"
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Pilot Testing]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -32,7 +34,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 研究伦理是一套贯穿研究全过程的伦理原则和操作策略，涵盖从研究设计到成果发表的每一个阶段。伦理问题出现在质性、量化和[[Mixed Method and Multi-method Research|混合方法研究]]中，且遍及研究的各个阶段。在研究中预见并书面说明伦理问题及其应对策略，是高质量研究写作的基石（Creswell & Creswell, 2022, 第4章）。
+> 研究伦理是一套贯穿研究全过程的伦理原则和操作策略，涵盖从研究设计到成果发表的每一个阶段。伦理问题出现在质性、量化和[[Mixed Methods Research|混合方法研究]]中，且遍及研究的各个阶段。在研究中预见并书面说明伦理问题及其应对策略，是高质量研究写作的基石（Creswell & Creswell, 2022, 第4章）。
 
 ## 核心要素
 
@@ -41,7 +43,7 @@ updated: 2026-05-31
 研究伦理按研究阶段可分为五个层面的议题和策略（Creswell & Creswell, 2022, 第4章, Table 4.1）：
 
 > [!example]- 图片占位
-> 表4.1：Ethical Issues in Qualitative, Quantitative, and Mixed Methods Research  
+> 表4.1：Ethical Issues in Qualitative, Quantitative, and [[Mixed Methods Research]]  
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_4-1_Ethical_Issues.png)
 
 ### 研究开始之前
@@ -59,7 +61,7 @@ updated: 2026-05-31
 
 **[[Institutional Review Board|IRB]] 审批。** 研究者须在研究开始前向所在校区的 IRB 委员会提交研究方案，由委员会评估参与者风险并做出批准决定。
 
-**获得现场许可。** 需向研究场所的负责人（gatekeepers）提交书面申请，说明研究时长、潜在影响和预期成果。涉及网络问卷或电子访谈时，先获许可再发送。
+**获得现场许可。** 需向研究场所的负责人（[[Gatekeepers]]）提交书面申请，说明研究时长、潜在影响和预期成果。涉及网络问卷或电子访谈时，先获许可再发送。
 
 **选择无利益关系的研究场所。** 选择研究者对结果没有个人利害关系的场所，以保持[[Quantitative Research|量化研究]]的客观性或[[Qualitative Research|质性研究]]中多元视角的完整呈现。
 
@@ -97,7 +99,7 @@ updated: 2026-05-31
 
 - **避免偏袒**：在质性研究中不要只报告对参与者有利的结果；在量化研究中不要忽视证伪个人假设的数据
 - **避免选择性报告**：质性研究需报告完整的发现范围，包括与主题相反的结果；量化研究的数据分析应完整呈现统计检验结果
-- **保护参与者隐私**：[[Survey Research|调查研究]]中在编码和记录阶段将姓名与回答分离；质性研究中使用化名或假名
+- **保护参与者隐私**：[[Survey Research|调查研究]]中在[[Coding in Qualitative Research|编码]]和记录阶段将姓名与回答分离；质性研究中使用化名或假名
 
 ---
 

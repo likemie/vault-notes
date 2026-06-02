@@ -6,6 +6,7 @@ type: concept
 tags: [theme/academic-writing, theme/narrative-structure]
 related_concepts:
   - "[[Literature Review]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Purpose Statement]]"
   - "[[Research Question]]"
 related_theories: []
@@ -45,7 +46,7 @@ updated: 2026-05-31
 
 四种类型的框架为诊断学术写作中的结构问题提供了分析工具（Creswell & Creswell, 2022, 第4章）：
 
-**伞式思想过多**是最常见的问题。在[[Literature Review|文献综述]]中，写作者不断从一个主要话题跳转到另一个，每一段都像报纸新闻导语一样短小而孤立。解决方案是用更详细的叙事（大思想和小思想）来支撑每一个伞式思想，将分散的小段落整合为更大的主题板块。
+**伞式思想过多**是最常见的问题。在[[Literature Review|文献综述]]中，写作者不断从一个主要话题跳转到另一个，每一段都像报纸新闻导语一样短小而孤立。解决方案是用更详细的叙事（大思想和小思想）来支撑每一个伞式思想，将分散的小段落[[Integration in Mixed Methods|整合]]为更大的主题板块。
 
 **注意力思想缺失**是另一高频问题。读者需要在文本中看到"路标"（如研究中的[[Purpose Statement|目的陈述]]、[[Research Question|研究问题]]和假设，本书第6、7章详细讨论）来引导他们从一个主要观念进入下一个。好的基金申请书会在叙事中不时暂停，插入注意力思想来组织读者对即将呈现内容的预期。
 

@@ -19,6 +19,7 @@ tags:
   - "theme/innovation"
   - "source/edited-volume"
 related_concepts:
+  - "[[Analytic Framework]]"
   - "[[University-Industry Collaboration]]"
   - "[[Partnership Continuum]]"
   - "[[Theoretical Perspective]]"
@@ -78,7 +79,7 @@ updated: 2026-05-26
 > “贯穿本书的基本理念是：实力与影响力的发展，不仅仅依靠大学与产业之间的关系，更在于研究与学术、教育与学习以及公共利益方面的深度参与。”
 > ("Fundamental to our book is the notion that strength and impact are developed not solely through relationships between universities and industry but engagement, in research and scholarship, education and learning, and public benefits.")（p.4）
 
-全书从第一章起就建立了一个贯穿始终的分析框架：创新越来越多地发生在大学与产业的"界面"（interface）上——这一界面并非简单的接触点，而是贯穿整个科学、工程和学术链条的协作空间，连接理论、实验、发现、测试、开发、设计、实施和商业化（p.4）。
+全书从第一章起就建立了一个贯穿始终的[[Analytic Framework|分析框架]]：创新越来越多地发生在大学与产业的"界面"（interface）上——这一界面并非简单的接触点，而是贯穿整个科学、工程和学术链条的协作空间，连接理论、实验、发现、测试、开发、设计、实施和商业化（p.4）。
 
 > [!example]
 > 2024 年诺贝尔奖的三个科学奖项被用作说明这一趋势的关键证据：物理学奖表彰了神经网络的基础研究（得主 Geoffrey Hinton 曾在 Google 工作十年），化学奖表彰了 AlphaFold 蛋白质结构预测软件（得主 Dennis Hassabis 和 John Jumper 通过 Google DeepMind 开发）；生理学与医学奖得主虽未曾在产业工作，但其 MicroRNA 研究通过治疗开发对生物医学公司产生了变革性影响（pp.3–4）。换一个角度看：如果 Hinton 从未进入 Google，或 Hassabis 和 Jumper 不在 DeepMind 工作，这些诺贝尔奖级别的成果可能根本不会以同样的方式出现。

@@ -17,7 +17,7 @@ related_concepts:
   - "[[Literature Review]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Exploratory Sequential Design]]"
   - "[[Explanatory Sequential Design]]"
 related_persons: []
@@ -36,7 +36,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> [[Mixed Method and Multi-method Research|混合方法]]评价设计（Mixed Methods Evaluation Design）是一种[[Mixed Method and Multi-method Research|复杂混合方法设计]]，将量化和质性数据以及它们的[[Integration in Mixed Methods|整合]]嵌入评价框架的各个步骤中。这一方法的意图是在一个研究过程中，使用量化和质性两种方法及其整合来支持项目的开发、调整和评价。通常用于项目评价（program evaluation），研究者使用量化和质性取向来支持项目、实验或政策的开发、调整和评估（Creswell & Creswell, 2022, p.248）。
+> [[Mixed Methods Research|混合方法]]评价设计（Mixed Methods Evaluation Design）是一种[[Mixed Methods Research|复杂混合方法设计]]，将量化和质性数据以及它们的[[Integration in Mixed Methods|整合]]嵌入评价框架的各个步骤中。这一方法的意图是在一个研究过程中，使用量化和质性两种方法及其整合来支持项目的开发、调整和评价。通常用于项目评价（program evaluation），研究者使用量化和质性取向来支持项目、实验或政策的开发、调整和评估（Creswell & Creswell, 2022, p.248）。
 
 在评价过程中，经常出现多个核心混合方法设计贯穿整个项目的情况。
 
@@ -45,7 +45,7 @@ updated: 2026-06-02
 ## 研究程序
 
 > [!abstract]
-> 典型的[[Mixed Method and Multi-method Research|混合方法]]评价流程包含五个阶段（Creswell & Creswell, 2022, pp.248–249）：
+> 典型的[[Mixed Methods Research|混合方法]]评价流程包含五个阶段（Creswell & Creswell, 2022, pp.248–249）：
 >
 > **阶段一：需求评估（Needs Assessment）** — 质性为主
 > - 通过访谈、观察和文件分析来了解评价对象的需求和情境
@@ -72,7 +72,7 @@ updated: 2026-06-02
 ## 将核心设计嵌入评价流程的逻辑
 
 > [!abstract]
-> [[Mixed Method and Multi-method Research|混合方法]]评价设计体现了多种核心设计在一个更大过程中的嵌套使用（Creswell & Creswell, 2022, pp.248–249）：
+> [[Mixed Methods Research|混合方法]]评价设计体现了多种核心设计在一个更大过程中的嵌套使用（Creswell & Creswell, 2022, pp.248–249）：
 >
 > - **阶段一→阶段二的[[Integration in Mixed Methods|整合]]**：从需求评估的质性发现出发，结合[[Literature Review|文献回顾]]构建特定情境下的理论概念化模型。质性与量化的连接方式对应[[Exploratory Sequential Design|探索性序列设计]]：质性探索→理论构建→工具开发。
 > - **阶段四→阶段五的整合**：项目实施和量化检验完成后，通过质性跟进阶段来解释量化结果、完善项目。连接方式对应[[Explanatory Sequential Design|解释性序列设计]]：量化检验→质性解释→项目改进。

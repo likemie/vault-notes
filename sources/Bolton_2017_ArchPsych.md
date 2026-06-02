@@ -5,8 +5,6 @@ extracted_to:
   - "[[Cognitive Inhibition]]"
   - "[[Cognitive Shifting]]"
   - "[[Executive Function]]"
-  - "[[Neuroplasticity]]"
-  - "[[Prefrontal Cortex]]"
   - "[[Synaptic Pruning]]"
   - "[[Updating and Monitoring]]"
   - "[[Working Memory]]"
@@ -14,15 +12,17 @@ extracted_to:
   - "[[Synaptogenesis]]"
   - "[[Functional Magnetic Resonance Imaging]]"
   - "[[Electroencephalography]]"
-  - "[[Juan Pascual-Leone]]"
   - "[[Robbie Case]]"
   - "[[Akira Miyake]]"
   - "[[Jean Piaget]]"
   - "[[Kurt Fischer]]"
   - "[[Hebbian Principles]]"
   - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
-  - "[[Neo-Piagetian Theories]]"
   - "[[Piaget's Theory of Cognitive Development]]"
+  - "[[Neuroplasticity]]"
+  - "[[Prefrontal Cortex]]"
+  - "[[Juan Pascual-Leone]]"
+  - "[[Neo-Piagetian Theories]]"
 processed_date: 2026-05-04
 ---
 

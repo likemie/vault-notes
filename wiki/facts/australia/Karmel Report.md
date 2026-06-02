@@ -16,7 +16,8 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[New Public Management]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[Independent Public Schools Western Australia]]"
@@ -44,7 +45,7 @@ updated: '2026-05-18'
 > [!note]- 时间线
 > - **1973** — Karmel Report 发布
 > - **1973–2000** — 需求本位拨款模型运作
-> - **2000 后** — 联邦政府将非公立学校拨款改为基于邮政编码，公平模型被打破
+> - **2000 后** — 联邦政府将非公立学校拨款改为基于邮政[[Coding in Qualitative Research|编码]]，公平模型被打破
 > - **2011/2018** — Gonski 改革试图回归 Karmel 的需求本位拨款原则
 
 ## 实施情况

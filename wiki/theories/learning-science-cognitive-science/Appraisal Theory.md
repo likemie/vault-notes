@@ -17,7 +17,8 @@ related_concepts:
   - "[[Pride in Learning]]"
 related_theories:
   - "[[Cultural Models]]"
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -36,7 +37,7 @@ updated: 2026-05-23
 > [!tip]
 > Frijda 的评估理论（appraisal theory）主张：情绪不是对外部事件的直接生理反应，而是经过认知评估中介的过程。在我们体验到任何情绪之前，我们先用认知去评估事件对自身的重要性和意义——然后情绪才被激活。因此，认知与情感不可分离（Li, 2012, p.54）。
 
-该理论得名于其核心机制——**评估**（appraisal）：个体先对事件进行编码和评价（"这对我意味着什么？"），再产生情绪反应。
+该理论得名于其核心机制——**评估**（appraisal）：个体先对事件进行[[Coding in Qualitative Research|编码]]和评价（"这对我意味着什么？"），再产生情绪反应。
 
 > [!quote]
 > "In order for us to experience any emotion, we use our mind to appraise the event to determine its relevance and importance to ourselves before our emotions are generated."（Li, 2012, p.54）
@@ -49,7 +50,7 @@ updated: 2026-05-23
 > Frijda 将情绪过程分解为七个阶段，每个阶段对应情绪体验的一个环节（Li, 2012, p.54）：
 
 1. **前因事件（antecedent events）**：任何触发情绪的事件——可以是外部事件、个人行为（如品尝美食）、社会互动，甚至回忆或脑中的画面
-2. **事件编码（event coding）**：将事件按文化所认可的类别进行归类——例如，判断这是一个善意的举动还是侮辱
+2. **事件[[Coding in Qualitative Research|编码]]（event coding）**：将事件按文化所认可的类别进行归类——例如，判断这是一个善意的举动还是侮辱
 3. **评估（appraisal）**：评估事件对自我的意义——"这是我的责任吗？""这对我是好是坏？"
 4. **生理反应模式（physiological reaction patterns）**：每种情绪对应一套自主神经反应——羞耻导致脸红和回避目光，恐惧导致心跳加速
 5. **行动准备（action readiness）**：从可能的行为库中选择下一步行动——恐惧触发逃跑冲动

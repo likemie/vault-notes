@@ -20,8 +20,7 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Random Assignment]]"
 related_persons: []
-related_facts:
-  - "[[Campbell Collaboration]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Creswell_2022_SAGE]]"
@@ -44,7 +43,7 @@ updated: 2026-05-31
 ## 效度威胁
 
 > [!abstract]
-> 当存在内部效度威胁时，研究者无法确定观察到的效果是由被操纵的[[Variable|变量]]引起的，还是由其他未控制的因素所致。[[Campbell Collaboration|Campbell]] & Stanley (1963) 最早系统识别了这些威胁，Creswell & Guetterman (2018) 将其扩展为三组共 10 种（Creswell & Creswell, 2022, Ch8, Table 8.5）：
+> 当存在内部效度威胁时，研究者无法确定观察到的效果是由被操纵的[[Variable|变量]]引起的，还是由其他未控制的因素所致。Campbell & Stanley (1963) 最早系统识别了这些威胁，Creswell & Guetterman (2018) 将其扩展为三组共 10 种（Creswell & Creswell, 2022, Ch8, Table 8.5）：
 
 ### 与受试者相关的威胁
 

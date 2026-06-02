@@ -20,6 +20,7 @@ tags:
 - feedback
 - region/global
 related_concepts:
+  - "[[Reflexivity]]"
   - "[[Evidence-Based Education]]"
   - "[[Tracking]]"
   - "[[Effect Size]]"
@@ -54,7 +55,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：[[Philosophical Analysis in Education|哲学分析]]与反思性综合
+> - 方法：[[Philosophical Analysis in Education|哲学分析]]与[[Reflexivity|反思性]]综合
 > - 样本：不适用
 > - 数据来源：特刊论文（Simpson, Cowen, Cartwright, Joyce, Phillips, Kvernbekk, Wrigley & McCusker 等）+ 外部文献
 

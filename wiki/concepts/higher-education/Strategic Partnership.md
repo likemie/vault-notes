@@ -15,6 +15,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Translational Research]]"
   - "[[University Corporate Engagement Professional]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Partnership Continuum]]"
 related_theories: []
 related_methods: []
@@ -79,7 +80,7 @@ updated: 2026-05-28
 3. 大学合同部门和企业法务团队在合作中磨合了协议模板，降低了后续合作的交易成本。
 4. 基于成功经验，双方开始探索项目之外的其他共同兴趣。
 5. 合作范围超出第一个教师的专业领域时，[[University Corporate Engagement Professional|大学企业参与专员]]接手成为大学的联络人。
-6. UCEP 与公司方联络人一起，将分散的合作点整合为有愿景、路线图和问责机制的战略框架。
+6. UCEP 与公司方联络人一起，将分散的合作点[[Integration in Mixed Methods|整合]]为有愿景、路线图和问责机制的战略框架。
 
 这一路径的关键含义是：战略伙伴关系的前提是一次成功的战术合作。无法跳过"先做一个小项目"这一步直接谈战略。
 

@@ -15,6 +15,7 @@ tags:
 - region/new-zealand
 related_concepts:
   - "[[Critic and Conscience of Society]]"
+  - "[[Reflexivity]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods: []
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 ## 研究方法
 
 > [!info] 研究方法
-> 个人经验反思性述评（personal reflective commentary），以 Grace 本人作为该概念的原创者所掌握的第一手历史背景为依据。
+> 个人经验[[Reflexivity|反思性]]述评（personal reflective commentary），以 Grace 本人作为该概念的原创者所掌握的第一手历史背景为依据。
 
 ## 核心论证
 

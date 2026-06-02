@@ -24,13 +24,16 @@ related_concepts:
   - "[[Employability]]"
   - "[[Graduate Attributes]]"
   - "[[Global Citizenship]]"
+  - "[[Analytic Framework]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Statistical Significance]]"
   - "[[21st Century Skills and Competencies Discourse]]"
 related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Case Study]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Chi-Squared Test]]"
 related_persons: []
 related_facts: []
@@ -57,11 +60,11 @@ updated: '2026-05-26'
 ## 理论框架
 
 > [!abstract] 理论框架
-> 研究以[[Graduate Attributes|毕业生特质]]概念为起点，分三个层次搭建分析框架。
+> 研究以[[Graduate Attributes|毕业生特质]]概念为起点，分三个层次搭建[[Analytic Framework|分析框架]]。
 >
 > **第一层：毕业生特质的定义。** 采用 Bowden et al.（2000）的经典定义——毕业生特质是"大学社群认同其学生在学期间应当发展的品质、技能和理解，这些特质将塑造他们对其专业和作为公民所能做出的贡献"（p.86）。这一定义的关键在于：毕业生特质不仅是"技能"，还包括品质（qualities）和公民维度。
 >
-> **第二层：博士层次的毕业生特质分类。** Senekal, Munnik, and Frantz（2022）对 2016–2021 年间 35 篇论文的系统综述将博士毕业生特质整合为十个领域——知识、研究、沟通、人际、组织、学术声誉、高阶思维、个人资源fulness、积极公民身份——并指出 Vitae 研究员发展框架（RDF）与这些领域的匹配度最高，但在学术声誉和个人资源fulness 方面仍有缺口（p.87）。这一分类为本文提供了博士特质的最新参照系。
+> **第二层：博士层次的毕业生特质分类。** Senekal, Munnik, and Frantz（2022）对 2016–2021 年间 35 篇论文的系统综述将博士毕业生特质[[Integration in Mixed Methods|整合]]为十个领域——知识、研究、沟通、人际、组织、学术声誉、高阶思维、个人资源fulness、积极公民身份——并指出 Vitae 研究员发展框架（RDF）与这些领域的匹配度最高，但在学术声誉和个人资源fulness 方面仍有缺口（p.87）。这一分类为本文提供了博士特质的最新参照系。
 >
 > **第三层：[[Global Citizenship|全球公民]]素养的操作化。** 本文特别引入两个补充框架：O'Brien（2011）将全球公民素养分解为数字素养（digital literacy，跨媒介与技术沟通）、文化素养（cultural literacy，以同理心和开放性理解多元视角）和社会沟通素养（socio-communicative literacy，跨文化立场协商）；Spronken-Smith（2018）补充了环境素养（environmental literacy，可持续性与环境意识）（p.87）。研究将这四类素养转化为调查问卷的三个 Likert 评分项——环境素养、文化理解、全球视野——纳入 20 项特质清单中。
 
@@ -70,7 +73,7 @@ updated: '2026-05-26'
 ## 研究方法
 
 > [!info] 研究方法
-> - **设计**：[[Comparative Case Study|比较案例研究]]（comparative [[Case Study]]），[[Mixed Method and Multi-method Research|混合方法]]（mixed methods）——问卷调查（量化）+ 半结构化访谈（质性）（p.88）
+> - **设计**：[[Comparative Case Study|比较案例研究]]（comparative [[Case Study]]），[[Mixed Methods Research|混合方法]]（mixed methods）——问卷调查（量化）+ 半结构化访谈（质性）（p.88）
 > - **样本**：三所研究密集型大学的 PhD 校友，来自 2011/12 和 2016/17 两个毕业 cohort（选择这两个时间点是为了不干扰美国研究生院理事会正在进行的同期研究）（p.88）
 >   - 美国大学 USU1：31 份回复（回复率 22.8%）
 >   - 美国大学 USU2：53 份回复（回复率 39.0%）
@@ -79,7 +82,7 @@ updated: '2026-05-26'
 > - **学科分布**：HASS 44.8%（61 人）、科学 55.1%（75 人）（p.88, Table 1）
 > - **制度背景差异**：NZU 的博士培养以指导下的论文研究为主，可选修少量课程；两所美国大学的博士项目通常包含两年课程学习加论文研究。这一制度差异是研究比较设计的关键前提（p.88）
 > - **调查工具**：基于美国研究生院理事会（CGS）PhD Career Pathways 问卷改编，含 20 项特质的双维度 Likert 量表（1=从未，5=几乎总是），要求受访者分别评价博士期间对该特质的**发展**程度和当前职场中对该特质的**应用**程度（p.89）
-> - **访谈**：21 名志愿校友（USU1 2 人、USU2 10 人、NZU 9 人；HASS 13 人、科学 8 人；女性 13 人、男性 8 人），每次约一小时，由第二作者在 Atlas.ti 中完成 22 个主题的编码（p.89）
+> - **访谈**：21 名志愿校友（USU1 2 人、USU2 10 人、NZU 9 人；HASS 13 人、科学 8 人；女性 13 人、男性 8 人），每次约一小时，由第二作者在 Atlas.ti 中完成 22 个主题的[[Coding in Qualitative Research|编码]]（p.89）
 > - **分析方法**：描述性统计、[[Chi-Squared Test|卡方检验]]（校际差异）、雷达图可视化（发展 vs. 应用对比）；访谈数据提取相关主题引语以"为调查发现增加深度"（p.89）
 
 ---

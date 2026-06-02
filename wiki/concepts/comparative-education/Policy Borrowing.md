@@ -13,8 +13,10 @@ tags:
 - region/global
 related_concepts:
   - "[[Transitology]]"
+  - "[[Analytic Framework]]"
   - "[[Cross-National Attraction]]"
   - "[[Externalization]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[International Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Knowledge-Based Economy]]"
@@ -72,7 +74,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - **Cowen (1996, 2000)** — 提出 [[Transitology]] 概念和双轴模型，描述教育系统在宏观社会转型中从 polis-driven（城邦驱动、教育机会平等）到 market-driven（市场驱动、内部效率与外部效能）的结构性转向。虽非直接关于政策借用方法论，但 Amos (2022, pp.53–56) 的分析表明，这一转向是政策借用成为晚期现代性中教育政策制定结构性特征的宏观条件：当市场驱动逻辑取代国家中心逻辑，国际参照和跨国话语借用成为合法化国内改革的常规手段
-> - **1990s–2000s** — Steiner-Khamsi 系统化政策借用分析框架，挑战简单的"政策转移"模型；指出教育转移研究经历了"一种特殊类型的复兴"（Steiner-Khamsi, 2000, p. 157）
+> - **1990s–2000s** — Steiner-Khamsi 系统化政策借用[[Analytic Framework|分析框架]]，挑战简单的"政策转移"模型；指出教育转移研究经历了"一种特殊类型的复兴"（Steiner-Khamsi, 2000, p. 157）
 > - **Ochs & Phillips (2002)** — 提出[[Cross-National Attraction|跨国吸引]]力结构性类型学，识别六类政策焦点（指导哲学、目标、策略、赋能结构、过程、技术）和 13 种情境因素
 > - **Schriewer (2003)** — 提出 [[Externalization]] 概念：国家对改革的论证依赖于将内部问题构型投射到国际参照系中；后由 Rappleye (2006) 发展为双向运作（外化到国际趋势 / 外化到传统）
 > - **Phillips & Ochs (2003, 2004a)** — 提出政策借用四阶段循环模型，以 [[Cross-National Attraction]] 为第一阶段，承认情境分析是政策借用研究者面临的"最困难任务"
@@ -80,7 +82,7 @@ updated: '2026-05-18'
 > - **Cowen (2009)** — 提出"改革在转移中形态变异"（reforms morph as they move）
 > - **Steiner-Khamsi (2012)** — 主编 *World Yearbook of Education 2012*，系统化政策借用与借出分析框架；区分"借用"（政治驱动、选择性、仪式性）与"学习"（开放、实质性交流）
 > - **Forestier & Crossley (2015)** — 将框架应用于香港与英格兰之间的"双向借用"
-> - **Forestier, Adamson, Han & Morris (2016)** — 系统比较香港 [[Liberal Studies|LS]] 与 IBDP 课程设计，揭示选择性借用的具体机制：参照 IBDP 的跨学科整合和独立探究元素，但排除其国际化知识观和批判性哲学内核
+> - **Forestier, Adamson, Han & Morris (2016)** — 系统比较香港 [[Liberal Studies|LS]] 与 IBDP 课程设计，揭示选择性借用的具体机制：参照 IBDP 的跨学科[[Integration in Mixed Methods|整合]]和独立探究元素，但排除其国际化知识观和批判性哲学内核
 > - **Golovchin (2019)** — 以 VL 在俄罗斯的翻译出版引入、学界争论到被建议拒绝为案例，展示政策借用的完整分析逻辑：全球论述引入 → 本地支持者以"科学合法性"论证 → 本地批评者基于方法论、文化和制度匹配度建议拒绝
 > - **Yan & Morris (2025)** — 以香港 LS 创立（2009）与废除（2021）为案例，展示政策借用框架对创立阶段的解释力，同时揭示其在高压政治语境下的失效边界
 
@@ -113,7 +115,7 @@ updated: '2026-05-18'
 
 ### 借用行为的特征
 
-7. **选择性借用**：不照搬整个体系，而是选取适合国内议程的特定元素。正如 Forestier et al. (2016) 对 [[Liberal Studies|LS]] 与 IBDP 的比较所揭示的——LS 参照了 IBDP 的"跨学科整合"和"独立探究"（IES 对应 Extended Essay），但选择性地排除了 IBDP 的国际化知识观、全球多元文化开放态度和批判性哲学内核。LS 中的"跨学科"被改造为服务于香港本地政策议程（培养"通才"以适应与内地经济整合），而非 IBDP 原意中的[[Global Citizenship|全球公民]]培养。（Yan & Morris, 2025, p. 487）
+7. **选择性借用**：不照搬整个体系，而是选取适合国内议程的特定元素。正如 Forestier et al. (2016) 对 [[Liberal Studies|LS]] 与 IBDP 的比较所揭示的——LS 参照了 IBDP 的"跨学科[[Integration in Mixed Methods|整合]]"和"独立探究"（IES 对应 Extended Essay），但选择性地排除了 IBDP 的国际化知识观、全球多元文化开放态度和批判性哲学内核。LS 中的"跨学科"被改造为服务于香港本地政策议程（培养"通才"以适应与内地经济整合），而非 IBDP 原意中的[[Global Citizenship|全球公民]]培养。（Yan & Morris, 2025, p. 487）
 
 8. **翻译与变异**：Cowen (2009) 论证"改革在转移中变形"（reforms morph as they move）——借用的政策元素在进入本地语境时发生实质性形态转化。前述 LS 对 IBDP"跨学科"的改造即为典型案例：同一标签下承载了完全不同的教育目的和政治意图。
 

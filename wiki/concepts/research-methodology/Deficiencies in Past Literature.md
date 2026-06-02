@@ -8,11 +8,12 @@ related_concepts:
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -55,7 +56,7 @@ updated: 2026-05-31
 - 理论发展不充分
 - 未关注中介[[Variable|变量]]
 - 文献未同时包含量化和质性数据
-- 文献缺少对数据整合的洞察
+- 文献缺少对[[Integration in Mixed Methods|数据整合]]的洞察
 
 > [!tip] 如何寻找缺陷
 > 查看已发表研究中"未来研究"（future research）部分——这些部分通常会提到研究的局限或新研究的机会。研究者可以引用这些观点来证明自己计划研究的合理性。
@@ -68,7 +69,7 @@ updated: 2026-05-31
 
 - **[[Quantitative Research|量化研究]]**：缺陷可能涉及理论发展不充分、测量工具未经验证或不可靠、未关注中介[[Variable|变量]]、变量被忽略等
 - **[[Qualitative Research|质性研究]]**：缺陷可能涉及未处理特殊人群或群体、未探索新的场所、未为未被充分代表的群体发声、缺乏质性数据等
-- **[[Mixed Method and Multi-method Research|混合方法研究]]**：缺陷可能涉及文献未同时包含量化和质性数据、文献未提供从数据连接中获得的洞察、文献未提及数据整合或从中得出结论
+- **[[Mixed Methods Research|混合方法研究]]**：缺陷可能涉及文献未同时包含量化和质性数据、文献未提供从数据连接中获得的洞察、文献未提及[[Integration in Mixed Methods|数据整合]]或从中得出结论
 
 ---
 

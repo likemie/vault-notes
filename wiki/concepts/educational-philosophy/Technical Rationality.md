@@ -11,7 +11,9 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Effect Size]]"
+  - "[[Probes]]"
   - "[[Professional Judgment]]"
+  - "[[Reflexivity]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Variable]]"
@@ -49,7 +51,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 价值中立（Value-Neutrality）
-> 技术理性是工具性的和价值中立的——不追问目标本身是否值得追求，只关注"以最有效的手段达成给定目标"（Nielsen & Klitmøller, 2021, p. 84-85）。这种价值中立性使其在现代国家机构中被广泛采纳——国家机构需要客观、科学的外观来为其干预提供合法性。
+> 技术理性是工具性的和价值中立的——不[[Probes|追问]]目标本身是否值得追求，只关注"以最有效的手段达成给定目标"（Nielsen & Klitmøller, 2021, p. 84-85）。这种价值中立性使其在现代国家机构中被广泛采纳——国家机构需要客观、科学的外观来为其干预提供合法性。
 
 
 > [!abstract] 专家依赖
@@ -66,7 +68,7 @@ updated: '2026-05-18'
 
 > [!note-] 发展脉络
 > - **19 世纪** — 实证主义哲学兴起，科学和技术被视为解决人类问题的根本途径
-> - **1983** — Donald Schön 出版 *The Reflective Practitioner*，系统阐述技术理性概念及其在专业实践中的局限，提出"反思性实践者"作为替代模型
+> - **1983** — Donald Schön 出版 *The Reflective Practitioner*，系统阐述技术理性概念及其在专业实践中的局限，提出"[[Reflexivity|反思性]]实践者"作为替代模型
 > - **1976** — Habermas 出版 *Legitimation Crisis*，论证技术理性作为国家治理媒介替代传统共识理性的过程
 > - **1984** — Habermas 出版 *The Theory of Communicative Action*，发展系统/生活世界的二元框架，进一步阐述技术理性的制度功能
 > - **2009** — [[John Hattie|Hattie]] 出版 *[[Visible Learning]]*，被 Nielsen & Klitmøller (2021) 识别为教育领域技术理性的典型体现——将教学分解为可测量、可排名的技术干预
@@ -81,7 +83,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] Schön (1983) 的反思性实践替代
-> Schön 论证技术理性在"无序"实践情境中存在根本局限——真实世界的专业实践充满了不确定性、不稳定性和价值冲突，这些"沼泽地"问题正是技术理性的方法无法处理的。他提出**反思性实践（reflective practice）**作为替代模型。
+> Schön 论证技术理性在"无序"实践情境中存在根本局限——真实世界的专业实践充满了不确定性、不稳定性和价值冲突，这些"沼泽地"问题正是技术理性的方法无法处理的。他提出**[[Reflexivity|反思性]]实践（reflective practice）**作为替代模型。
 
 
 > [!warning] 教育本体论的不兼容性

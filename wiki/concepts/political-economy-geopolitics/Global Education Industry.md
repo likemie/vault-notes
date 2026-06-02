@@ -19,13 +19,15 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
+  - "[[Analytic Framework]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Learning Analytics]]"
   - "[[Bildung]]"
   - "[[Knowledge Production]]"
   - "[[International Education Hubs]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[Partnership Schools Kura Hourua]]"
@@ -84,7 +86,7 @@ updated: '2026-05-18'
 
 ## 理论基础
 
-- [[Knowledge-Based Economization]] — Moisio (2018) 提供了知识密集型资本主义物质过程的宏观分析框架，GEI 可视为该逻辑在教育领域的具体实现
+- [[Knowledge-Based Economization]] — Moisio (2018) 提供了知识密集型资本主义物质过程的宏观[[Analytic Framework|分析框架]]，GEI 可视为该逻辑在教育领域的具体实现
 - [[Geopolitics of Knowledge]] — GEI 为当前高等教育地缘政治转型提供了"肥沃的土壤和生产性的推力"（Thompson & Parreira do Amaral, 2022, p.12）
 
 ---
@@ -116,7 +118,7 @@ Amos (2022, pp.56–57) 详细分析了数字化——GEI 中最具变革性的�
 
 ### 算法技术对教学关系的重塑
 
-Jornitz & Klinge（2022, pp.231–232）从 [[Bildung]] 的角度指出，GEI 中的数字技术——学习软件、App、学习平台——并非教育学上中立的工具。开发者、编码者和设计者通过编程将特定的学习主体假设和对教育的理解写入技术产品之中。Dieter 等人（2019, p.12）将特定企业的这种主导地位称为"硅谷帝国主义"（Silicon Valley imperialism）。这些"专有"（proprietorial）数字技术将"[[Knowledge Production|知识生产]]的手段集中在自己的手中"（Williamson, 2017, p.118, cited in Jornitz & Klinge, 2022, p.231）。
+Jornitz & Klinge（2022, pp.231–232）从 [[Bildung]] 的角度指出，GEI 中的数字技术——学习软件、App、学习平台——并非教育学上中立的工具。开发者、[[Coding in Qualitative Research|编码]]者和设计者通过编程将特定的学习主体假设和对教育的理解写入技术产品之中。Dieter 等人（2019, p.12）将特定企业的这种主导地位称为"硅谷帝国主义"（Silicon Valley imperialism）。这些"专有"（proprietorial）数字技术将"[[Knowledge Production|知识生产]]的手段集中在自己的手中"（Williamson, 2017, p.118, cited in Jornitz & Klinge, 2022, p.231）。
 
 这种集中不仅是经济上的——更是教育性的。因为这些技术在全球范围内流通时，同时传输了一种特定的教学实践和关于学习是什么的假设。数字学习平台具有"流线化全球教学设置的力量"（Jornitz & Klinge, 2022, p.246），构成了数字[[Geopolitics of Knowledge|知识地缘政治]]的核心机制——它们否认文化和课程的差异，将学习标准化为全球统一的行为模式。详见 [[Argument_Jornitz_2022_Bildung_algorithmic]]。
 

@@ -11,11 +11,10 @@ tags:
   - research-methodology
   - qualitative-research
   - research-ethics
-related_concepts:
-  - "[[Research Ethics]]"
-  - "[[Institutional Review Board]]"
+related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -32,7 +31,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 守门人（Gatekeepers）是研究现场中提供研究准入并允许或批准研究进行的个体（Creswell & Creswell, 2022, Ch9, p.199）。在质性研究中，获得守门人的批准是进入研究或档案现场的关键步骤。研究者可能需要为守门人准备一份简短的研究方案并提交审查。
+> 守门人（Gatekeepers）是研究现场中提供研究准入并允许或批准研究进行的个体（Creswell & Creswell, 2022, Ch9, p.199）。在[[Qualitative Research|质性研究]]中，获得守门人的批准是进入研究或档案现场的关键步骤。研究者可能需要为守门人准备一份简短的研究方案并提交审查。
 
 ## 核心要素
 

@@ -18,6 +18,7 @@ tags:
 - rer
 - methodology
 related_concepts:
+  - "[[Multimethod Research]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Construct]]"
   - "[[Evidence-Based Education]]"
@@ -29,6 +30,7 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Single-Case Design]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
@@ -36,12 +38,12 @@ related_methods:
   - "[[Random Assignment]]"
 related_persons: []
 related_facts:
-  - "[[Campbell Collaboration]]"
   - "[[Open Court Reading]]"
   - "[[Success for All]]"
   - "[[Peer-Assisted Learning Strategies]]"
   - "[[Quantum Opportunity Program]]"
   - "[[Communities in Schools]]"
+  - "[[Campbell Collaboration]]"
   - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
   - "[[Promising Practices Network]]"
   - "[[Best Evidence Encyclopedia]]"
@@ -72,14 +74,14 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Campbellian Validity Framework]] — 作者从 [[Campbell Collaboration|Campbell]] & Fiske (1959) 的 multitrait-multimethod 视角出发，把"evidence-based"当作教育科学实践中的[[Construct Validity in Quantitative Measurement|构念效度]]问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为可靠性是[[Construct|构念]]效度的必要条件（Wadhwa et al., 2024, p.4）。
+> - [[Campbellian Validity Framework]] — 作者从 Campbell & Fiske (1959) 的 multitrait-[[Multimethod Research|multimethod]] 视角出发，把"evidence-based"当作教育科学实践中的[[Construct Validity in Quantitative Measurement|构念效度]]问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为可靠性是[[Construct|构念]]效度的必要条件（Wadhwa et al., 2024, p.4）。
 > - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的假设作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）（Wadhwa et al., 2024, p.4）。
 
 ## 研究方法
 
 > [!info] 研究方法
 > - 方法：比较综述与[[Descriptive Analysis|描述性分析]]。作者识别美国和英国 43 个清算中心，按是否发布自身有效性评级、是否可在线访问、是否聚焦 pre-K 至大学教育干预与教育结果筛选出 12 个教育清算中心（Wadhwa et al., 2024, p.5）。
-> - 数据来源：2019 年 6 月至 2020 年 8 月，作者收集并编码 12 个清算中心网站资料，包括目标人群、政策焦点、资金来源、被评价干预类型、研究评级过程、单项研究与整体项目效果标准、项目纳入标准等（Wadhwa et al., 2024, p.5）。
+> - 数据来源：2019 年 6 月至 2020 年 8 月，作者收集并[[Coding in Qualitative Research|编码]] 12 个清算中心网站资料，包括目标人群、政策焦点、资金来源、被评价干预类型、研究评级过程、单项研究与整体项目效果标准、项目纳入标准等（Wadhwa et al., 2024, p.5）。
 > - 样本：评级一致性分析最终包括 10 个清算中心的 1,359 个教育项目；两个清算中心被排除在量化一致性分析之外，原因是其项目评级方式或项目命名/状态不适合纳入同一比较框架（Wadhwa et al., 2024, pp.16–17）。
 > - 案例分析：作者进一步细读 [[Open Court Reading]]、[[Success for All]]、[[Peer-Assisted Learning Strategies]]、[[Quantum Opportunity Program]]、[[Communities in Schools]] 五个被多个清算中心评价的项目，以解释评级差异的具体来源（Wadhwa et al., 2024, pp.22–25）。
 
@@ -117,7 +119,7 @@ updated: '2026-05-18'
 >
 > ### Table 3：研究设计标准描述程度
 >
-> 编码含义：0 = 标准不提该设计；1 = 只简要提及、无实施标准；2 = 描述设计但无设计专属实施标准；3 = 提供设计专属[[Causality|因果推断]]与实施质量标准（Wadhwa et al., 2024, pp.9–10, 29）。
+> [[Coding in Qualitative Research|编码]]含义：0 = 标准不提该设计；1 = 只简要提及、无实施标准；2 = 描述设计但无设计专属实施标准；3 = 提供设计专属[[Causality|因果推断]]与实施质量标准（Wadhwa et al., 2024, pp.9–10, 29）。
 >
 > | 清算中心 | [[Randomised Controlled Trials\|RCT]] | 一般 [[Quasi-Experimental Designs\|QED]] | RDD | ITS |
 > |---|---:|---:|---:|---:|

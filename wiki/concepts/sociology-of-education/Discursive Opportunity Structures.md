@@ -6,6 +6,7 @@ type: concept
 tags: ["theme/discourse", "theme/global-governance", "theme/opportunity", "theme/subjectification", "region/europe"]
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
+  - "[[Analytic Framework]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Self-Entrepreneur]]"
   - "[[Governmentality]]"
@@ -29,7 +30,7 @@ updated: 2026-05-21
 > [!info]
 > 话语性机会结构（discursive opportunity structures）是 Parreira do Amaral 和 Dale（2015）在教育轨迹治理研究中提出的分析概念，指话语如何"框定思维与行动的可能性"（frame the possibilities of thought and action），并由此调节全球高等教育中服务、职位和实践的可及性（Zelinka, 2022, p.253）。
 
-Zelinka（2022, p.253）在分析（新）[[Geopolitics of Knowledge|知识地缘政治]]的主体性生产时，将这一概念纳入其分析框架：分析话语意味着重建其对社会问题的构成方式，并分解其如何生产主体性。
+Zelinka（2022, p.253）在分析（新）[[Geopolitics of Knowledge|知识地缘政治]]的主体性生产时，将这一概念纳入其[[Analytic Framework|分析框架]]：分析话语意味着重建其对社会问题的构成方式，并分解其如何生产主体性。
 
 ## 核心要素
 

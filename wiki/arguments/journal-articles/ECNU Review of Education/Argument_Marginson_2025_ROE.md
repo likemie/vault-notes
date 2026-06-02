@@ -16,12 +16,14 @@ tags:
 related_concepts:
   - "[[Multiplicity]]"
   - "[[Power-Geometries]]"
+  - "[[Analytic Framework]]"
   - "[[Methodological Globalism]]"
   - "[[Hegemony]]"
   - "[[Semi-Autonomy of Higher Education]]"
   - "[[Sovereign Internationalism]]"
   - "[[Radical Liberal Internationalism]]"
   - "[[Scale in Higher Education]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Champ]]"
   - "[[Methodological Nationalism]]"
   - "[[Double Spatiality of Universities]]"
@@ -75,7 +77,7 @@ updated: '2026-05-18'
 
 ### 空间制造分析框架：Lefebvre + Marginson
 
-在 Massey 的本体论基础上，Lefebvre（1991）的空间生产理论被进一步发展为高等教育的三维 空间制造 分析框架（Marginson, 2025, pp. 3–5）：
+在 Massey 的本体论基础上，Lefebvre（1991）的空间生产理论被进一步发展为高等教育的三维 空间制造 [[Analytic Framework|分析框架]]（Marginson, 2025, pp. 3–5）：
 
 | 维度 | 内容 | 高等教育案例 |
 |------|------|-------------|
@@ -110,7 +112,7 @@ updated: '2026-05-18'
 >
 > **资料来源**：广泛援引人文地理学（Massey, Lefebvre, Harvey）、高等教育研究（Cantwell, Hazelkorn, Knight, Rizvi）、政治经济学（Gramsci, Wallerstein, Crouch）、国际关系（Sakwa, Zhao）和历史学（Heather & Rapley）等多学科学术文献和统计数据。但论文未说明文献筛选标准、覆盖范围或系统检索策略，读者难以评估其叙述的选择性偏差。
 >
-> **方法的优势与局限**：理论化历史综合的长处在于能提供宏观图景和长时段分析，将分散的经验现象整合进统一的解释框架。局限在于，对具体国家、机构或政策的分析以宏观叙事为主，缺乏深入的案例研究。
+> **方法的优势与局限**：理论化历史综合的长处在于能提供宏观图景和长时段分析，将分散的经验现象[[Integration in Mixed Methods|整合]]进统一的解释框架。局限在于，对具体国家、机构或政策的分析以宏观叙事为主，缺乏深入的案例研究。
 
 
 ## 论证结构
@@ -184,7 +186,7 @@ updated: '2026-05-18'
 - 全球原住民活动者的叙事交流和团结网络
 - 科学家对开放、无边界网络的诉求
 - 国家政策制定者对人才和技术的"有边界的军备竞赛"
-- 欧洲政府对通过区域整合超越历史冲突的愿景
+- 欧洲政府对通过区域[[Integration in Mixed Methods|整合]]超越历史冲突的愿景
 - 商业排名机构对"世界一流大学"统一市场的想象
 
 **4d. 提出"国家/全球协同"的比较分析** — 四个主要国家以完全不同的机制实现了国家尺度与全球尺度的协同（Marginson, 2025, pp. 17–20）：
@@ -285,7 +287,7 @@ updated: '2026-05-18'
 分析聚焦于西方（尤其是美国）的去全球化和中美脱钩，对全球南方之间（South-South）的教育和研究合作持续增长的关注相对有限。例如，中国与非洲国家、印度与东南亚国家之间的高等教育合作在 2015 年之后显著增长，但分析主要从"西方视角"看待全球地缘政治变化。
 
 ### 能动性的不对称处理
-分析框架在理论层面强调"所有行动者都有比他们知道的更多的行动空间"（Marginson, 2025, p. 12），但经验部分对非英美行动者能动性的分析——如非洲国家的大学如何利用多极化的新机会空间——远不如对英美行动者的分析充分。
+[[Analytic Framework|分析框架]]在理论层面强调"所有行动者都有比他们知道的更多的行动空间"（Marginson, 2025, p. 12），但经验部分对非英美行动者能动性的分析——如非洲国家的大学如何利用多极化的新机会空间——远不如对英美行动者的分析充分。
 
 
 ## 来源

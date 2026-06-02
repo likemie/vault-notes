@@ -12,6 +12,7 @@ tags:
 - paradigm/constructivist
 - level/k12
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
   - "[[Executive Function]]"
   - "[[Prefrontal Cortex]]"
 related_theories:
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] Pascual-Leone 的双层模型（1970）
-> [[Juan Pascual-Leone]] 是首位将信息加工理论与[[Piaget's Theory of Cognitive Development|皮亚杰认知发展理论]]整合的理论家。他提出人类思维存在于两个层面（Bolton & [[John Hattie|Hattie]], 2017, p.3）：
+> [[Juan Pascual-Leone]] 是首位将信息加工理论与[[Piaget's Theory of Cognitive Development|皮亚杰认知发展理论]][[Integration in Mixed Methods|整合]]的理论家。他提出人类思维存在于两个层面（Bolton & [[John Hattie|Hattie]], 2017, p.3）：
 >
 > - **沉默算子（Silent Operators）** — 总体的认知硬件，即心智能力的基础设施
 > - **主观算子（Subjective Operators）** — 皮亚杰所描述的支配思维的结构和图式

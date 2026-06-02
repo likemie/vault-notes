@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Official Knowledge]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Ganz-Methode]]"
   - "[[Life Power]]"
   - "[[Social Museology]]"
@@ -63,7 +64,7 @@ updated: '2026-05-18'
 > - 抵抗认识论的早期形态可追溯至 [[Frantz Fanon|Fanon]] (1952) 对殖民知识暴力的分析和 [[Paulo Freire|Freire]] (1972) 的批判教育学
 > - 在拉丁美洲去殖民思想（Mignolo、Dussel、Quijano）中，"认识论抵抗"被理论化为去殖民认识论的核心策略，但主要停留在理论论证层面
 > - [[Richard Castelo Branco]] (2020) 在里约热内卢 Rocinha 贫民窟剧场实践中开发了 EspectAtor 方法，将抵抗认识论从理论话语带入具体的艺术实践（Delambre, 2022, p.110, 援引 Branco, 2020）
-> - [[Dell Delambre]] (2022) 将抵抗认识论整合进 [[Ganz-Methode]] 的实证基础，将其定位为"从意义张力中产生的知识形式"在实践中的具体呈现（Delambre, 2022, p.109–110, 112–113）
+> - [[Dell Delambre]] (2022) 将抵抗认识论[[Integration in Mixed Methods|整合]]进 [[Ganz-Methode]] 的实证基础，将其定位为"从意义张力中产生的知识形式"在实践中的具体呈现（Delambre, 2022, p.109–110, 112–113）
 
 ## 核心要素
 

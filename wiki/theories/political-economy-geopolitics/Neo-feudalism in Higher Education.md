@@ -20,6 +20,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Knowledge Capitalism]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Analytic Framework]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -103,7 +104,7 @@ updated: 2026-06-01
 > [!warning]
 > - 新封建主义的概念是否过度延伸了封建类比？现代学术等级依赖的是制度化的评价体系（同行评审、排名）而非个人化的封君-封臣关系，两者在权力性质上存在根本差异
 > - 各篇文章对新封建主义的理解并不统一——Jessop 将其置于政治资本主义分析中，Reitz 强调评估机制的功能必要性，Wieczorek et al. 则将其操作化为 Weber 式理想类型——概念的一致性尚待建立
-> - 新封建主义的批判力量在于揭示市场话语（"卓越"、"竞争"）掩盖下的权力关系，但作为分析框架，其与 [[Pierre Bourdieu|Bourdieu]] 的[[Champ|场域]]理论和新 Weber 主义的边界尚需进一步清晰化
+> - 新封建主义的批判力量在于揭示市场话语（"卓越"、"竞争"）掩盖下的权力关系，但作为[[Analytic Framework|分析框架]]，其与 [[Pierre Bourdieu|Bourdieu]] 的[[Champ|场域]]理论和新 Weber 主义的边界尚需进一步清晰化
 
 ## 相关研究
 

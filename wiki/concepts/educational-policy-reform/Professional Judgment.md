@@ -9,10 +9,12 @@ tags:
 - teacher-development
 - evidence-based-education
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Programme Fidelity vs Adaptation]]"
+  - "[[Reflexivity]]"
 related_theories:
   - "[[Bounded Rationality]]"
 related_methods:
@@ -34,7 +36,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info] 定义
-> 专业判断（Professional Judgment）是教师在复杂教学情境中，基于研究知识、伦理标准和实践方法的整合，做出教学决策的能力。Qvortrup（2019, p.5-6）将其定位为 [[Visible Learning]] 中教学干预与学生学习成果之间的"缺失环节"（missing link）——研究证据不是可以直接"翻译"为教学行为的输入，而必须经过教师复杂且不可预测的反思循环。
+> 专业判断（Professional Judgment）是教师在复杂教学情境中，基于研究知识、伦理标准和实践方法的[[Integration in Mixed Methods|整合]]，做出教学决策的能力。Qvortrup（2019, p.5-6）将其定位为 [[Visible Learning]] 中教学干预与学生学习成果之间的"缺失环节"（missing link）——研究证据不是可以直接"翻译"为教学行为的输入，而必须经过教师复杂且不可预测的反思循环。
 
 ## 核心要素
 
@@ -64,7 +66,7 @@ updated: '2026-05-23'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Evidence-Based Education]] — EBE 的强版本将研究证据置于实践决策的核心；专业判断将研究证据定位为三种"成分"之一（与伦理标准和方法论原则并列），三者通过教师的反思循环整合转化为行动
+> - vs [[Evidence-Based Education]] — EBE 的强版本将研究证据置于实践决策的核心；专业判断将研究证据定位为三种"成分"之一（与伦理标准和方法论原则并列），三者通过教师的反思循环[[Integration in Mixed Methods|整合]]转化为行动
 > - vs [[Evidence-Informed Practice]] — EIP 是决策取向，强调多源证据共同进入实践；专业判断是执行这一取向的能力，即判断不同证据在特定情境中应如何加权
 > - vs [[Programme Fidelity vs Adaptation]] — 专业判断强调教师的情境适应和反思，而非对外部方案的忠实执行
 
@@ -77,7 +79,7 @@ updated: '2026-05-23'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Qvortrup 将专业判断框架作为对 [[John Hattie|Hattie]] VL 的辩护——批评者可能认为这一辩护将 VL 从其自身的还原论含义中拯救出来，但 VL 的实际培训实践（如"五人中仅一人通过"认证、禁止教师分享自身经验）与该框架的反思性理念直接矛盾
+> - Qvortrup 将专业判断框架作为对 [[John Hattie|Hattie]] VL 的辩护——批评者可能认为这一辩护将 VL 从其自身的还原论含义中拯救出来，但 VL 的实际培训实践（如"五人中仅一人通过"认证、禁止教师分享自身经验）与该框架的[[Reflexivity|反思性]]理念直接矛盾
 > - 专业判断不能被浪漫化为“经验自然正确”。评价者需要以清楚、非威胁性的方式帮助非方法专业的利益相关者理解证据局限；否则，专业判断可能退化为只选择符合既有立场的解释（Ross & Morrison, 2021, p.123）。
 
 ## 来源

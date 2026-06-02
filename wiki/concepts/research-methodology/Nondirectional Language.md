@@ -13,10 +13,12 @@ tags:
 related_concepts:
   - "[[Purpose Statement]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Emergent Design]]"
   - "[[Transformative Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Qualitative Interview]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -33,7 +35,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 非方向性语言（nondirectional language）是[[Qualitative Research|质性研究]]中在表述[[Purpose Statement|目的陈述]]和进行访谈时所使用的中立、不暗示结果方向的语言。它与 McCracken (1988) 提出的"非方向性法则"（law of nondirection）紧密相关——质性访谈者或目的陈述写作者必须让受访者自主描述自己的经验，应使用中立的词语，避免通过措辞暗示研究者期望的结果方向（Creswell & Creswell, 2022, p.126）。
+> 非方向性语言（nondirectional language）是[[Qualitative Research|质性研究]]中在表述[[Purpose Statement|目的陈述]]和进行访谈时所使用的中立、不暗示结果方向的语言。它与 McCracken (1988) 提出的"非方向性法则"（law of nondirection）紧密相关——[[Qualitative Interview|质性访谈]]者或目的陈述写作者必须让受访者自主描述自己的经验，应使用中立的词语，避免通过措辞暗示研究者期望的结果方向（Creswell & Creswell, 2022, p.126）。
 
 > [!quote]
 > "McCracken (1988) referred to the need in qualitative interviews to let the respondents describe their experiences. Interviewers (or purpose statement writers) can violate easily the 'law of nondirection' (McCracken, 1988, p. 21) in qualitative research by using words that suggest a directional orientation."（Creswell & Creswell, 2022, p.126）
@@ -77,7 +79,7 @@ updated: 2026-05-31
 > [!tip]
 > 非方向性语言的深层理据植根于[[Qualitative Research|质性研究]]的[[Constructivist Paradigm|建构主义]]认识论。建构主义认为意义是个体通过与世界的互动建构的，研究者不能将先验的"好/坏"框架强加于参与者的经验之上。非方向性法则正是这一认识论立场在方法实践层面的操作化：它要求研究者悬置（bracket）自己的价值预设，让参与者的经验和表述成为意义的直接来源。
 >
-> 这一原则也与质性研究的**涌现式设计**（emerging design）一脉相承——如果研究设计可以在过程中改变和调整，那么在表述[[Purpose Statement|研究目的]]时就不应该预设一个固定不变的方向。
+> 这一原则也与质性研究的**[[Emergent Design|涌现式设计]]**（emerging design）一脉相承——如果研究设计可以在过程中改变和调整，那么在表述[[Purpose Statement|研究目的]]时就不应该预设一个固定不变的方向。
 
 ## 争议与批评
 

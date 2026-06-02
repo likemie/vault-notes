@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
+  - "[[Analytic Framework]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[VUCA]]"
   - "[[Causality]]"
@@ -55,7 +56,7 @@ Partaken (2022) 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语�
 > [!note]
 > - **Schwab 的推广**：Klaus Schwab 作为世界经济论坛创始人和执行主席，将 4IR 作为 WEF 的核心话语框架推广，主张当前转型因速度（前所未有的指数级发展）、范围（覆盖几乎所有行业的全系统变革）和系统影响（涉及公司、行业和整个社会系统的全面转型）而构成新革命（Partaken, 2022, p.70）
 > - **Partaken 的 Kuhn 式批判**：Partaken 援引 Kuhn 的科学革命理论作为批判工具——Kuhn 论证科学革命的标志不是知识量的增长而是范式转换（paradigm shift），新旧范式不可通约。Schwab 以"更多、更快、更广"来论证革命，恰恰回避了不可通约性的标准。这一批评的实质指向 4IR 话语的认识论基础：它只是一种"[[Knowledge Production|知识生产]]更多"的修辞，不构成认识论层面的革命（Partaken, 2022, p.70）
-> - **[[Geopolitics of Knowledge|GPK]] 语境中的定位**：在 Partaken 的 GPK 分析框架中，4IR 是"知识生产"视角的第一个盲点的典型案例——霸权性知识论述可能只是既有权力结构的自我包装（Partaken, 2022, p.70）
+> - **[[Geopolitics of Knowledge|GPK]] 语境中的定位**：在 Partaken 的 GPK [[Analytic Framework|分析框架]]中，4IR 是"知识生产"视角的第一个盲点的典型案例——霸权性知识论述可能只是既有权力结构的自我包装（Partaken, 2022, p.70）
 
 ---
 

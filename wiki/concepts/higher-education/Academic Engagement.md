@@ -15,7 +15,9 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Student Engagement]]"
+  - "[[Analytic Framework]]"
   - "[[Social Engagement]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Habitus]]"
   - "[[Academic and Social Integration]]"
   - "[[Student Involvement]]"
@@ -26,7 +28,8 @@ related_concepts:
   - "[[Executive Education]]"
   - "[[Innovation Park]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Triangulation]]"
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts:
@@ -57,10 +60,10 @@ updated: 2026-05-27
 ### 定义
 
 > [!info]
-> 学业投入（Academic Engagement）是[[Student Engagement|学生投入]]理论的两大核心维度之一，指学生向大学中与学术相关的教育性实践活动投入的时间和精力——包括上课、完成作业、与教师讨论学术问题、遵守学术规范要求等（[[Yajun Zheng|郑雅君]]，2023）。在[[Yajun Zheng|郑雅君]]（2023）的"大学过程"分析框架中，学业投入与[[Social Engagement|社会性投入]]并列构成"投入过程"的两大分析轴。
+> 学业投入（Academic Engagement）是[[Student Engagement|学生投入]]理论的两大核心维度之一，指学生向大学中与学术相关的教育性实践活动投入的时间和精力——包括上课、完成作业、与教师讨论学术问题、遵守学术规范要求等（[[Yajun Zheng|郑雅君]]，2023）。在[[Yajun Zheng|郑雅君]]（2023）的"大学过程"[[Analytic Framework|分析框架]]中，学业投入与[[Social Engagement|社会性投入]]并列构成"投入过程"的两大分析轴。
 
 > [!quote]
-> "学业投入（academic integration/engagement）与社会性投入（social integration/engagement）一般被认为是学生的投入中促进自身发展的两个最重要方面"（郑雅君，2023）
+> "学业投入（academic [[Integration in Mixed Methods|integration]]/engagement）与社会性投入（social integration/engagement）一般被认为是学生的投入中促进自身发展的两个最重要方面"（郑雅君，2023）
 
 学业投入不同于学业表现（GPA）——后者是结果，前者是过程。一个学生可能在学业投入上花费大量时间但绩点平平（如因基础薄弱），也可能绩点很高但实际学业投入极低（如因选课策略回避挑战性课程）（郑雅君，2023）。
 
@@ -100,7 +103,7 @@ updated: 2026-05-27
 > - **[[Intuition-Dependent Mode|直觉依赖模式]]**：学业投入陷入"绩点无用论"与"优等生惯性"的矛盾——部分学生低估绩点的制度性功能（保研门槛），导致投入不足；另有学生不加批判地承袭高中苦学方法，在强调理解与应用的大学课程中失效。对"刷绩点"等策略性行为的道德拒斥进一步限制了投入效率（郑雅君，2023）
 
 > [!info]- 郑雅君（2023）的操作化
-> 学业投入的操作化通过量化与质性指标三角互证：量化方面以 GPA 和归属感自评为指标，质性方面通过 P2-Q2（专业喜欢程度与原因）判断投入的情感质量和认知深度。完整操作化设计见 [[Student Engagement]]（郑雅君，2023）。
+> 学业投入的操作化通过量化与质性指标[[Triangulation|三角互证]]：量化方面以 GPA 和归属感自评为指标，质性方面通过 P2-Q2（专业喜欢程度与原因）判断投入的情感质量和认知深度。完整操作化设计见 [[Student Engagement]]（郑雅君，2023）。
 
 ### 争议与批评
 

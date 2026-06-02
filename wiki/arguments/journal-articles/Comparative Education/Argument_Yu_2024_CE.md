@@ -21,12 +21,14 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Official Knowledge]]"
+  - "[[Probes]]"
   - "[[Hegemony]]"
   - "[[Zhonghua Minzu]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Symbolic Boundary]]"
   - "[[Self-Cultivation]]"
   - "[[Cultural Disembedding]]"
+  - "[[Reflexivity]]"
   - "[[Academic Freedom]]"
 related_theories: []
 related_methods:
@@ -59,7 +61,7 @@ updated: 2026-05-21
 > 
 > 经验层面的谜题在于：儒家复兴（[[Confucian Revival in China]]）已持续三十余年，学生在学校大量接触儒家内容。然而，那些文化身份游离于”儒家圈”之外的学生究竟如何接收并理解这些内容，却一直是长期存在的经验盲区。
 >
-> 这个谜题可以还原为一个更具体的场景：官方教科书花了三十年告诉所有学生”儒家是中国文化的核心”。但对一个每天在清真寺做礼拜的回族学生、或一个在转经筒旁长大的藏族学生而言，”中国文化核心”这个说法到底意味着什么？这些学生的声音从未被认真听取过，填补这一盲区正是追问的起点。
+> 这个谜题可以还原为一个更具体的场景：官方教科书花了三十年告诉所有学生”儒家是中国文化的核心”。但对一个每天在清真寺做礼拜的回族学生、或一个在转经筒旁长大的藏族学生而言，”中国文化核心”这个说法到底意味着什么？这些学生的声音从未被认真听取过，填补这一盲区正是[[Probes|追问]]的起点。
 
 ---
 
@@ -212,7 +214,7 @@ updated: 2026-05-21
 > "学生似乎将儒家传统仅视为中国的一种文化与世界观，而这种传统正可以从其他文化的批判反思中获益。"（Yu & Zhao, 2024, p.59）
 >
 > > “学生们似乎将儒家传统仅仅视为中国的一种文化和世界观，这种文化和世界观可以从其他文化的批判性反思中获益。”
-> ("The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical reflexivity of other cultures.") (Yu & Zhao, 2024, p.59)
+> ("The students appear to regard the Confucian tradition as only one culture and worldview in China, which can benefit from the critical [[Reflexivity]] of other cultures.") (Yu & Zhao, 2024, p.59)
 >
 > ---
 >

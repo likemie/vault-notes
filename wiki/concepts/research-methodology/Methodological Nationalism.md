@@ -11,6 +11,7 @@ tags:
 related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[Multiplicity]]"
+  - "[[Analytic Framework]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -75,7 +76,7 @@ updated: '2026-05-18'
 > [!warning]
 > - **Massey（2005）的批判** — 方法论民族主义试图"驯服"空间的开放性和[[Multiplicity|多重性]]，消解其恐怖与创造性的双重可能（Marginson, 2025, pp. 5–6）
 > - **全球尺度的不可化约性** — 不同尺度共存且不可相互化约，如国家科学的规范中心是国家，而全球科学没有规范中心，由期刊、文献计量、传播网络和合作关系构成。这意味着"国家+全球"的双层分析同样不足以捕捉高等教育空间的多重性（Marginson, 2025, pp. 8–9）
-> - **超越方法论民族主义不意味着否定国家** — Marginson 强调，批判方法论民族主义不等于认为国家不重要。大学"几乎不可能不是国家的"（双重空间性）。关键在于不将国家视为唯一分析框架（Marginson, 2025, p. 8）
+> - **超越方法论民族主义不意味着否定国家** — Marginson 强调，批判方法论民族主义不等于认为国家不重要。大学"几乎不可能不是国家的"（双重空间性）。关键在于不将国家视为唯一[[Analytic Framework|分析框架]]（Marginson, 2025, p. 8）
 
 ---
 

@@ -21,6 +21,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Production]]"
   - "[[Transnational Research Collaboration]]"
+  - "[[Analytic Framework]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -76,7 +77,7 @@ Rizvi (2022) 从中美地缘政治紧张的角度分析了贸易战对[[Internat
 
 > [!warning]
 > - Partaken 的分析从美方视角展开，将中国描绘为[[Knowledge Transfer|知识转移]]中的不诚信方，对中国立场（如强调技术自主是国家发展权）缺乏对等呈现
-> - 以 Huntington 文明冲突论为分析框架，该理论本身在学界存在广泛争议
+> - 以 Huntington 文明冲突论为[[Analytic Framework|分析框架]]，该理论本身在学界存在广泛争议
 
 ## 相关概念／政策
 

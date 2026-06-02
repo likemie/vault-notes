@@ -20,6 +20,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> CMFR 在设计标准编码中对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 3，对 RDD 和 ITS 均为 0。编码 3 表示清算中心为[[Causality|因果推断]]与实施质量提供了设计专属标准；因此 CMFR 是少数对 RCT 与一般 QED 都有详细标准的清算中心之一（Wadhwa et al., 2024, pp.9–10, 29）。
+> CMFR 在设计标准[[Coding in Qualitative Research|编码]]中对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 3，对 RDD 和 ITS 均为 0。编码 3 表示清算中心为[[Causality|因果推断]]与实施质量提供了设计专属标准；因此 CMFR 是少数对 RCT 与一般 QED 都有详细标准的清算中心之一（Wadhwa et al., 2024, pp.9–10, 29）。
 >
 > CMFR 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 只纳入同行评审研究。它在 RCT 流失标准上接受总体流失低于 20%；在 QED 方面，它对匹配比较组设计和统计控制比较组设计使用不同标准（Wadhwa et al., 2024, pp.8–11）。
 
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 ## 与其他清算中心的差异
 
 > [!abstract] 与其他清算中心的差异
-> CMFR 的设计标准较细，尤其是在 [[Randomised Controlled Trials|RCT]] 和一般 [[Quasi-Experimental Designs|QED]] 上均达到作者编码的最高描述程度；但它不把 RDD 和 ITS 作为单独设计标准列出。与 Blueprints 类似，它重视外部独立复制；与 [[What Works Clearinghouse|WWC]] 不同，它在表 3 中没有 RDD 或 ITS 标准（Wadhwa et al., 2024, pp.10–12）。
+> CMFR 的设计标准较细，尤其是在 [[Randomised Controlled Trials|RCT]] 和一般 [[Quasi-Experimental Designs|QED]] 上均达到作者[[Coding in Qualitative Research|编码]]的最高描述程度；但它不把 RDD 和 ITS 作为单独设计标准列出。与 Blueprints 类似，它重视外部独立复制；与 [[What Works Clearinghouse|WWC]] 不同，它在表 3 中没有 RDD 或 ITS 标准（Wadhwa et al., 2024, pp.10–12）。
 
 ## 相关概念／政策
 

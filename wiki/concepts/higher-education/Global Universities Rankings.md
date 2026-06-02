@@ -23,6 +23,7 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Preemptive Governance]]"
   - "[[Space-Making]]"
+  - "[[Analytic Framework]]"
   - "[[Non-monetary Competition]]"
   - "[[Champ]]"
   - "[[Matthew Effect in Academia]]"
@@ -142,7 +143,7 @@ Marginson（2025）以澳大利亚为案例揭示了排名与国际学生市场�
 
 ## 在新政治经济学中的多重角色
 
-Schulze-Cleven et al.（2017）将全球大学排名置于高等教育新政治经济学的分析框架中，揭示了排名在当代高等教育中扮演的多重角色——排名不只是测量工具，更是分配机制、合法性制造者和等级固化装置（pp.797–802, 807–809）。
+Schulze-Cleven et al.（2017）将全球大学排名置于高等教育新政治经济学的[[Analytic Framework|分析框架]]中，揭示了排名在当代高等教育中扮演的多重角色——排名不只是测量工具，更是分配机制、合法性制造者和等级固化装置（pp.797–802, 807–809）。
 
 ### 作为非货币竞争的核心通货
 

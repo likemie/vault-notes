@@ -14,6 +14,7 @@ tags:
   - cultural-studies
 related_concepts:
   - "[[Champ]]"
+  - "[[Reflexivity]]"
   - "[[Research Question]]"
 related_theories: []
 related_methods:
@@ -47,7 +48,7 @@ updated: 2026-05-30
 > - 通过参与式观察（participant observation）和[[In-depth Interview|深度访谈]]长时间在现场收集数据。
 > - 关注群体的共享信念、价值观、行为模式、语言和物质文化。
 > - 生成关于该文化群体的整体性描述（holistic description）。
-> - 研究者需要反思自身文化背景如何影响对研究群体的理解（反身性）。
+> - 研究者需要反思自身文化背景如何影响对研究群体的理解（[[Reflexivity|反身性]]）。
 
 ## 研究问题
 
@@ -74,7 +75,7 @@ updated: 2026-05-30
 
 > [!warning]
 > - 需要研究者在现场长时间投入，时间和资源成本高。
-> - 研究者的文化背景可能影响观察和解释，需要高度的反身性。
+> - 研究者的文化背景可能影响观察和解释，需要高度的[[Reflexivity|反身性]]。
 > - 对单个群体的深入描述可能限制结论的可推广性。
 > - 进入某些[[Champ|场域]]可能面临制度性障碍。
 

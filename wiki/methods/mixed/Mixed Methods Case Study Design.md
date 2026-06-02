@@ -15,7 +15,7 @@ related_concepts:
   - "[[Champ]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Case Study]]"
   - "[[Convergent Design]]"
 related_persons: []
@@ -34,7 +34,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> [[Mixed Method and Multi-method Research|混合方法]]案例研究设计（Mixed Methods [[Case Study]] Design）是一种[[Mixed Method and Multi-method Research|复杂混合方法设计]]，将核心混合方法设计（聚敛式、解释性序列或探索性序列）嵌入案例研究的开发和比较过程中。研究者通过量化和质性数据来发展案例，然后对案例进行描述和比较（Creswell & Creswell, 2022, p.246）。
+> [[Mixed Methods Research|混合方法]]案例研究设计（Mixed Methods [[Case Study]] Design）是一种[[Mixed Methods Research|复杂混合方法设计]]，将核心混合方法设计（聚敛式、解释性序列或探索性序列）嵌入案例研究的开发和比较过程中。研究者通过量化和质性数据来发展案例，然后对案例进行描述和比较（Creswell & Creswell, 2022, p.246）。
 
 这一设计面临的主要挑战是：在案例研究开始前确定案例，或基于收集的证据来生成案例。研究者需要理解案例研究方法（Stake, 1995; Yin, 2014）并将其与混合方法有效结合。
 

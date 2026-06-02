@@ -5,13 +5,13 @@ extracted_to:
   - "[[Digital Self]]"
   - "[[Learning Analytics]]"
   - "[[Competitiveness]]"
-  - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
-  - "[[Stakeholder University]]"
   - "[[Governmentality]]"
   - "[[Preemptive Governance]]"
   - "[[Societies of Control]]"
   - "[[Argument_Thompson_2022_Promising_Student]]"
+  - "[[Online Self-Assessment]]"
+  - "[[Stakeholder University]]"
 processed_date: 2026-05-20
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

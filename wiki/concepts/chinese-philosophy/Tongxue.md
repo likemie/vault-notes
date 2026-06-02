@@ -13,6 +13,7 @@ tags:
   - theme/peer-culture
   - theme/learning-model
 related_concepts:
+  - "[[Probes]]"
   - "[[Peer-Supported Learning]]"
   - "[[Class Size]]"
   - "[[Zero-Sum Competition]]"
@@ -79,7 +80,7 @@ updated: 2026-05-23
 > "如切如磋，如琢如磨"（Like bone carved and polished, Like jade cut and ground）
 > —《诗经》，转引自《论语》（Li, 2012, p.101）
 
-这段来自《诗经》的诗句，经过孔子对子贡的教导，成为了东亚文化中同学关系的经典概括：一起研习、一起追问、一起讨论，互相帮助、互相纠正、互相学习、互相提升。一个人的同学构成了其家庭之外终身的社交圈核心——共同的学习也是共同的生活和共同的成长（Li, 2012, p.101）。
+这段来自《诗经》的诗句，经过孔子对子贡的教导，成为了东亚文化中同学关系的经典概括：一起研习、一起[[Probes|追问]]、一起讨论，互相帮助、互相纠正、互相学习、互相提升。一个人的同学构成了其家庭之外终身的社交圈核心——共同的学习也是共同的生活和共同的成长（Li, 2012, p.101）。
 
 在高等教育中，tongxue 变为同窗（tongchuang，"共享书斋"），最终可能成为同窗好友（tongchuang haoyou，"共享书斋的好朋友"）。在日本和中文中，学友一词本身就含有"友"；韩语的校友同样含有"友"。
 

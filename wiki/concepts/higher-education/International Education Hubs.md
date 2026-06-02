@@ -17,6 +17,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Production]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Innovation Hub]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Cultural Diplomacy]]"
@@ -61,7 +62,7 @@ updated: '2026-05-19'
 ## 概念辨析
 
 > [!example]
-> - vs [[Internationalization of Higher Education|高等教育国际化]]：国际化侧重院校层面的跨境流动与合作；IEHs 则是国家/地区层面的战略性项目，涉及高等教育系统与经济发展目标的深度整合
+> - vs [[Internationalization of Higher Education|高等教育国际化]]：国际化侧重院校层面的跨境流动与合作；IEHs 则是国家/地区层面的战略性项目，涉及高等教育系统与经济发展目标的深度[[Integration in Mixed Methods|整合]]
 > - vs 跨境高等教育（Cross-Border Higher Education）：跨境高等教育是 IEHs 的构成基础——IEHs 包含并建立于此基础之上，但代表了一种更广泛的战略配置
 
 ---
@@ -77,7 +78,7 @@ Knight & Lee (2014) 提出了 IEHs 的三类递进模型（详见 [[#核心要�
 
 - **学生枢纽**：以教育服务出口为目标，扩大入学机会、提升系统形象、创造收入
 - **人才枢纽**：转向人力资本积累，扩大技能劳动力储备、增强经济竞争力
-- **知识/[[Innovation Hub|创新枢纽]]**：聚焦商业应用导向的新[[Knowledge Production|知识生产]]，与[[Knowledge-Based Economy|知识经济]]逻辑最深度整合
+- **知识/[[Innovation Hub|创新枢纽]]**：聚焦商业应用导向的新[[Knowledge Production|知识生产]]，与[[Knowledge-Based Economy|知识经济]]逻辑最深度[[Integration in Mixed Methods|整合]]
 
 Knight 的研究为 IEH 提供了基本的概念坐标，但其框架主要采用政策倡导导向的肯定性立场。后续研究从地缘政治角度对这一框架进行了批判性拓展。
 
@@ -113,7 +114,7 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 
 - **学生枢纽（Student Hub）**：旨在扩大高等教育入学机会、现代化和国际化本国高校、提升国家高等教育系统形象、并通过外国学生流入创造收入。主要功能聚焦于教育服务出口
 - **人才枢纽（Talent Hub）**：旨在扩大技能劳动力储备、为服务型和/或[[Knowledge-Based Economy|知识型经济]]做出贡献、增强经济竞争力并提高劳动力的质量和相关性。关注焦点从教育出口转向人力资本积累
-- **知识/[[Innovation Hub|创新枢纽]]（Knowledge/Innovation Hub）**：聚焦于具有商业应用潜力的新知识的生产和应用，其范畴远超高等教育，涵盖公共和私营部门合作研究及企业部门的研发活动。这是三类模型中与经济竞争力逻辑最深度整合的一类
+- **知识/[[Innovation Hub|创新枢纽]]（Knowledge/Innovation Hub）**：聚焦于具有商业应用潜力的新知识的生产和应用，其范畴远超高等教育，涵盖公共和私营部门合作研究及企业部门的研发活动。这是三类模型中与经济竞争力逻辑最深度[[Integration in Mixed Methods|整合]]的一类
 
 ### Erfurth 的双重运作维度
 

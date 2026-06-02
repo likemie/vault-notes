@@ -15,7 +15,7 @@ related_theories: []
 related_methods:
   - "[[Literature Map]]"
   - "[[Qualitative Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -108,7 +108,7 @@ Creswell & Creswell（2022, 第5章）以 Plano Clark et al.（2002）关于高�
 
 ## 与各研究路径的关系
 
-虽然量化、质性和[[Mixed Method and Multi-method Research|混合方法研究]]的引言在呈现的问题类型上有微妙差异，但缺陷模型作为一个通用模板适用于所有三种路径（Creswell & Creswell, 2022, 第5章）：
+虽然量化、质性和[[Mixed Methods Research|混合方法研究]]的引言在呈现的问题类型上有微妙差异，但缺陷模型作为一个通用模板适用于所有三种路径（Creswell & Creswell, 2022, 第5章）：
 
 - **量化引言**：问题通常涉及理解哪些因素或[[Variable|变量]]影响某一结果；引言可能从非个人视角、以过去时态撰写
 - **质性引言**：问题通常涉及探索某一概念或现象；引言可能以作者的个人经验陈述开头，使用第一人称主观视角

@@ -3705,6 +3705,17 @@
     ]
   },
   {
+    "title": "Multimethod Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Multimethod Research.md",
+    "aliases": [
+      "多方法研究",
+      "multimethod",
+      "multi-method research",
+      "multiple methods research"
+    ]
+  },
+  {
     "title": "Narrative Hook",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Narrative Hook.md",
@@ -5204,24 +5215,6 @@
     ]
   },
   {
-    "title": "Mixed Method and Multi-method Research",
-    "type": "method",
-    "path": "wiki/methods/mixed/Mixed Method and Multi-method Research.md",
-    "aliases": [
-      "混合方法/多方法研究",
-      "混合方法",
-      "多方法研究",
-      "混合方法研究",
-      "Mixed Method Research",
-      "Multi-method Research",
-      "复杂混合方法设计",
-      "嵌入型混合方法设计",
-      "Complex Mixed Methods Design",
-      "advanced mixed methods design",
-      "embedded mixed methods design"
-    ]
-  },
-  {
     "title": "Mixed Methods Case Study Design",
     "type": "method",
     "path": "wiki/methods/mixed/Mixed Methods Case Study Design.md",
@@ -5264,6 +5257,21 @@
       "mixed methods social justice design",
       "mixed methods participatory action research",
       "混合方法参与式行动研究"
+    ]
+  },
+  {
+    "title": "Mixed Methods Research",
+    "type": "method",
+    "path": "wiki/methods/mixed/Mixed Methods Research.md",
+    "aliases": [
+      "混合方法研究",
+      "混合方法",
+      "Mixed Method Research",
+      "复杂混合方法设计",
+      "嵌入型混合方法设计",
+      "Complex Mixed Methods Design",
+      "advanced mixed methods design",
+      "embedded mixed methods design"
     ]
   },
   {
@@ -7736,6 +7744,16 @@
     ]
   },
   {
+    "title": "Mixed Methods International Research Association",
+    "type": "fact",
+    "path": "wiki/facts/global/Mixed Methods International Research Association.md",
+    "aliases": [
+      "MMIRA",
+      "混合方法国际研究协会",
+      "Mixed Methods International Research Association (MMIRA)"
+    ]
+  },
+  {
     "title": "OECD AHELO Project",
     "type": "fact",
     "path": "wiki/facts/global/OECD AHELO Project.md",
@@ -7797,8 +7815,7 @@
     "type": "fact",
     "path": "wiki/facts/global/Campbell Collaboration.md",
     "aliases": [
-      "坎贝尔协作组织",
-      "Campbell"
+      "坎贝尔协作组织"
     ]
   },
   {

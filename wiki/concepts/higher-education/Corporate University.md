@@ -13,6 +13,7 @@ tags:
 - subject/comparative-education
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Champ]]"
   - "[[Corporate Education]]"
 related_theories:
@@ -53,7 +54,7 @@ updated: '2026-05-18'
 - **特征**：中央学习单元，课程高度标准化，标准化程度直接映射公司产品和服务的标准化程度
 - **规范扩散方式**：自上而下的强制型同构为主——总部制定统一流程，各地分支照章执行
 - **典型案例**：McDonald's Hamburger University（麦当劳汉堡大学）——全球每一家麦当劳的操作流程和培训内容完全一致
-- **适用的 MNC 类型**：国际型 MNCs（高整合、低本地响应），总部多位于美国等自由市场经济体（LMEs），以高度标准化的"重磅炸弹"产品（如 blockbuster 药物）为特征（Hartmann, 2022, pp.187–188）
+- **适用的 MNC 类型**：国际型 MNCs（高[[Integration in Mixed Methods|整合]]、低本地响应），总部多位于美国等自由市场经济体（LMEs），以高度标准化的"重磅炸弹"产品（如 blockbuster 药物）为特征（Hartmann, 2022, pp.187–188）
 
 ### 学院型（College）— 对应跨国型 MNCs
 

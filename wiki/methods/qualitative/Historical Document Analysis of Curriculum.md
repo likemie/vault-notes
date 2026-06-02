@@ -15,10 +15,12 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Externalization]]"
+  - "[[Analytic Framework]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Triangulation]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
@@ -56,7 +58,7 @@ updated: '2026-05-18'
 > 1. **确定分析范围与时间跨度** — 界定哪些类型的文件、覆盖哪个历史时段（如 [[Liberal Studies|LS]]: 2005-2021）
 > 2. **收集文件** — 系统收集官方课程文件、政府政策声明、媒体报道、既有学术文献
 > 3. **时间线重建** — 按时间顺序排列关键事件和决定（参见 Yan & Morris 的 Table 1）
-> 4. **来源三角验证** — 交叉比对不同来源的叙述差异（如政府文件 vs. 官媒 vs. 学术文献）
+> 4. **来源[[Triangulation|三角验证]]** — 交叉比对不同来源的叙述差异（如政府文件 vs. 官媒 vs. 学术文献）
 > 5. **叙事分析** — 识别政府如何"框架"问题以合法化特定政策（如"终身学习"论述 vs."国家安全"论述）
 > 6. **对比分析** — 比较不同历史阶段中同一课程因素的角色变化（如 LS 创立期 vs. 废除期）
 > 7. **理论框架对话** — 将案例分析结果与既有课程理论（如 Cuban）进行对话，识别理论的解释力与局限
@@ -79,7 +81,7 @@ updated: '2026-05-18'
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Cuban's Curriculum Change Theory]] — 本方法的核心分析框架，以文件为基础识别课程变革的外部驱动力
+> - [[Cuban's Curriculum Change Theory]] — 本方法的核心[[Analytic Framework|分析框架]]，以文件为基础识别课程变革的外部驱动力
 
 ## 使用此方法的研究
 

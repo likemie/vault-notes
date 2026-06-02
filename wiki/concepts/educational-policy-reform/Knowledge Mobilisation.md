@@ -15,16 +15,17 @@ tags:
 - school-improvement
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Probes]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[Campbell Collaboration]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[Nelson_2017_ER]]"
@@ -38,7 +39,7 @@ updated: '2026-05-21'
 ## 定义
 
 > [!info]
-> 知识动员（Knowledge Mobilisation, KMb）指研究知识如何被传播、翻译、中介并最终嵌入实践和决策的过程。它强调，研究并不会像说明书那样自动落到课堂或政策现场，而必须经过人与组织的互动、再解释和重组，才可能变成可用行动（Nelson & [[Campbell Collaboration|Campbell]], 2017, pp.130–131；Nordahl, 2015, pp.66–67）。
+> 知识动员（Knowledge Mobilisation, KMb）指研究知识如何被传播、翻译、中介并最终嵌入实践和决策的过程。它强调，研究并不会像说明书那样自动落到课堂或政策现场，而必须经过人与组织的互动、再解释和重组，才可能变成可用行动（Nelson & Campbell, 2017, pp.130–131；Nordahl, 2015, pp.66–67）。
 
 > [!quote]
 > "Det har i like stor grad vært en form for kunnskapsmobilisering."（Nordahl, 2015, p.66）
@@ -46,8 +47,8 @@ updated: '2026-05-21'
 ## 概念辨析
 
 > [!example]
-> - **vs [[Evidence-Based Education]]** — EBE 更常追问“什么有效”；KMb 追问的是“这些知识如何被带进学校、被谁翻译、通过什么机制变成行动”。
-> - **vs [[Evidence-Informed Practice]]** — EIP 是一种实践取向，强调证据、数据与[[Professional Judgment|专业判断]]的整合；KMb 更像支撑 EIP 的中介过程理论，解释研究如何在系统中流动、被重组和被采用。
+> - **vs [[Evidence-Based Education]]** — EBE 更常[[Probes|追问]]“什么有效”；KMb 追问的是“这些知识如何被带进学校、被谁翻译、通过什么机制变成行动”。
+> - **vs [[Evidence-Informed Practice]]** — EIP 是一种实践取向，强调证据、数据与[[Professional Judgment|专业判断]]的[[Integration in Mixed Methods|整合]]；KMb 更像支撑 EIP 的中介过程理论，解释研究如何在系统中流动、被重组和被采用。
 > - **vs [[Professional Judgment]]** — 专业判断是教师或领导者在具体情境中的决策能力；KMb 关注的是这些判断所需的研究知识如何进入现场并被消化。
 
 ## 概念演变
@@ -55,7 +56,7 @@ updated: '2026-05-21'
 > [!note]
 > 当前 vault 中可确认的知识动员演变线索，主要集中在教育研究利用与安大略学校改进语境中：
 >
-> - **2010s** — 在[[Evidence-Informed Practice|证据知情实践]]讨论中，KMb 被用来解释“研究-实践鸿沟”不只是供给或需求问题，而是中介、传播和组织条件问题（Nelson & [[Campbell Collaboration|Campbell]], 2017, pp.127, 130–131）。
+> - **2010s** — 在[[Evidence-Informed Practice|证据知情实践]]讨论中，KMb 被用来解释“研究-实践鸿沟”不只是供给或需求问题，而是中介、传播和组织条件问题（Nelson & Campbell, 2017, pp.127, 130–131）。
 > - **2015** — Nordahl (2015) 将 KMb 放进北欧 [[Visible Learning]] 支持路径中，用来说明学校改进的难点不在“有没有研究”，而在“研究怎样进入课堂并变成教师行动”（Nordahl, 2015, pp.66–67）。
 
 ## 核心要素
@@ -63,7 +64,7 @@ updated: '2026-05-21'
 > [!abstract]
 > 当前材料中，知识动员至少包含四个稳定要素：
 >
-> 1. **传播与沟通**：研究知识必须以实践者可进入的方式被分享，而不是停留在学术文本中（Nelson & [[Campbell Collaboration|Campbell]], 2017, pp.130–131）。
+> 1. **传播与沟通**：研究知识必须以实践者可进入的方式被分享，而不是停留在学术文本中（Nelson & Campbell, 2017, pp.130–131）。
 > 2. **能力建设**：教育者需要时间、技能和组织支持，才能理解、批判和使用研究知识（Nelson & Campbell, 2017, p.127；Nordahl, 2015, pp.66–67）。
 > 3. **伙伴关系与网络**：研究者、决策者、[[School Leadership|学校领导]]和教师之间的协作关系，是知识流动的重要渠道（Nelson & Campbell, 2017, pp.130–131）。
 > 4. **实践[[Transfer Translation Transformation|转译]]**：研究知识需要被翻译成更贴近学校现场的语言、例子和工作流程，而不是原封不动地“传递”过去（Nordahl, 2015, p.66）。
@@ -77,7 +78,7 @@ updated: '2026-05-21'
 ## 实证发现
 
 > [!success]
-> - Nelson & [[Campbell Collaboration|Campbell]] (2017, pp.130–131) 归纳出 KMb 的四类核心策略：沟通与传播、能力建设、伙伴关系与网络、系统化方法。
+> - Nelson & Campbell (2017, pp.130–131) 归纳出 KMb 的四类核心策略：沟通与传播、能力建设、伙伴关系与网络、系统化方法。
 > - 在 Nordahl (2015) 的学校改进论述里，KMb 被明确放进“研究如何进入课堂”的核心位置，说明教师知识不是简单接收就能应用，而需要在协作、反思和实践中被重新组织（Nordahl, 2015, pp.66–67）。
 
 > [!info]- 核心数据

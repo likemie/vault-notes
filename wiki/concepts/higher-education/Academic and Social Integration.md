@@ -12,6 +12,8 @@ tags:
 - tinto
 - level/higher-ed
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
+  - "[[Analytic Framework]]"
   - "[[Student Engagement]]"
   - "[[Student Involvement]]"
   - "[[Academic Engagement]]"
@@ -21,7 +23,8 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Triangulation]]"
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
@@ -42,14 +45,14 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 学习／社交融入理论（Academic and Social Integration Theory）由美国高等教育研究者Vincent Tinto（1993）在 *Leaving College*（第二版）中系统提出。该理论以人类学家 van Gennep 关于人生阶段过渡仪式（rites of passage）的理论为原型，假设即将步入大学的学生必须先经历"分离—转折—习得"三阶段，才能顺利融入大学环境并取得积极的教育成果。
+> 学习／社交融入理论（Academic and Social [[Integration in Mixed Methods|integration]] Theory）由美国高等教育研究者Vincent Tinto（1993）在 *Leaving College*（第二版）中系统提出。该理论以人类学家 van Gennep 关于人生阶段过渡仪式（rites of passage）的理论为原型，假设即将步入大学的学生必须先经历"分离—转折—习得"三阶段，才能顺利融入大学环境并取得积极的教育成果。
 
 > [!quote]
 > 学生必须先与其之前的社会关系（比如家人和高中的朋友）相分离（separate），进入一个"开始尝试融入新群体互动"的转折性阶段，并习得（incorporate）新群体或大学内部的规范性价值观与行为模式（[[Yajun Zheng|郑雅君]]，2023，引 Tinto, 1993）
 
 Tinto 的核心关切是大学生辍学问题：为何许多学生——特别是弱势背景学生——在进入大学后选择离开？他的回答是：融入失败。学生若不能顺利完成从原有社会关系到大学新群体的心理和行为过渡，辍学风险就会显著升高（[[Yajun Zheng|郑雅君]]，2023）。
 
-[[Yajun Zheng|郑雅君]]（2023）将该理论作为"大学过程"三层嵌套分析框架中"投入过程"的主要理论资源之一。
+[[Yajun Zheng|郑雅君]]（2023）将该理论作为"大学过程"三层嵌套[[Analytic Framework|分析框架]]中"投入过程"的主要理论资源之一。
 
 ---
 
@@ -88,7 +91,7 @@ Tinto 的核心关切是大学生辍学问题：为何许多学生——特别�
 
 ### 两个融入维度
 
-- **学业融入（Academic Integration）**：学生顺利与学校学术方面的正式规范达成一致——包括修课与学分制度、学术规范要求等
+- **学业融入（Academic [[Integration in Mixed Methods|integration]]）**：学生顺利与学校学术方面的正式规范达成一致——包括修课与学分制度、学术规范要求等
 - **社交融入（Social Integration）**：学生发现大学社交环境与自己的偏好或期待相协调的程度
 
 ### 核心机制
@@ -101,17 +104,17 @@ Tinto 的核心关切是大学生辍学问题：为何许多学生——特别�
 
 > [!tip]
 > - van Gennep 过渡仪式理论（Rites of Passage）— 三阶段模型的原型：分离（séparation）→ 阈限（limen）→ 聚合（agrégation）（[[Yajun Zheng|郑雅君]]，2023，引 Tinto, 1993）
-> - Durkheim 自杀理论 — Tinto 借鉴 Durkheim 关于个体与社会整合失败导致自杀的分析框架，将其应用于大学生辍学问题
+> - Durkheim 自杀理论 — Tinto 借鉴 Durkheim 关于个体与社会[[Integration in Mixed Methods|整合]]失败导致自杀的[[Analytic Framework|分析框架]]，将其应用于大学生辍学问题
 
 ---
 
 ## 实证发现
 
 > [!success]
-> - [[Yajun Zheng|郑雅君]]（2023）第4章以 Tinto 的融入理论为核心分析框架，揭示两种模式下的融入差异：
+> - [[Yajun Zheng|郑雅君]]（2023）第4章以 Tinto 的融入理论为核心[[Analytic Framework|分析框架]]，揭示两种模式下的融入差异：
 >   - **目标掌控者**：主动且策略性地融入学业和社交活动，但融入程度取决于生涯目标需要——学业融入被功能化（绩点只是门槛），社会性融入被工具化（职业探索和简历建设）
 >   - **直觉依赖者**：社交融入被习惯性忽略——弱势背景大学生往往对校园社交和课外活动保持拒斥感，将其视作对学习主业的干扰（郑雅君，2023，引 Bergerson, 2007; 谢爱磊, 2016; Stuber, 2011）
-> - 郑雅君（2023）的操作化设计通过多指标三角互证测量了分离（P1 个人生活史）、转折（P2-Q3 适应困难）、习得（P2-Q4 主动融入）、学业融入（GPA + 归属感自评）和社交融入（交友数量 + 师生交流频率 + 学生组织职务）五个[[Construct|构念]]。详见 [[Student Engagement]]
+> - 郑雅君（2023）的操作化设计通过多指标[[Triangulation|三角互证]]测量了分离（P1 个人生活史）、转折（P2-Q3 适应困难）、习得（P2-Q4 主动融入）、学业融入（GPA + 归属感自评）和社交融入（交友数量 + 师生交流频率 + 学生组织职务）五个[[Construct|构念]]。详见 [[Student Engagement]]
 > - 转变者案例揭示了社交融入在打破原有模式中的关键角色——梓桐通过讲座和学术小圈子逐渐移入学术价值图式，高程通过学生工作确立公共服务志向。相反的，禹海因长期缺乏社交融入（与同学"没有真正意义上的深入接触"、与老师"不会觉得很亲近"），直到高年级仍未建立清晰的职业方向意识。这意味着社交融入维度对直觉依赖者而言不仅是"学业成功的辅助条件"，更可能是触发整个模式转换的**初始杠杆**（郑雅君，2023）
 
 ---
@@ -128,7 +131,7 @@ Tinto 的核心关切是大学生辍学问题：为何许多学生——特别�
 ## 相关案例／政策
 
 > [!example]
-> - [[Yajun Zheng|郑雅君]]（2023）将 Tinto 的融入理论作为"大学过程"分析框架的核心基础，在 [[Academic Engagement|学业投入]] 和 [[Social Engagement|社会性投入]] 两个维度上展开对 [[Goal-Controlled Mode|目标掌控模式]] 和 [[Intuition-Dependent Mode|直觉依赖模式]] 的分析。详见 [[Argument_Zheng_2023_ShanghaiSanlian]]
+> - [[Yajun Zheng|郑雅君]]（2023）将 Tinto 的融入理论作为"大学过程"[[Analytic Framework|分析框架]]的核心基础，在 [[Academic Engagement|学业投入]] 和 [[Social Engagement|社会性投入]] 两个维度上展开对 [[Goal-Controlled Mode|目标掌控模式]] 和 [[Intuition-Dependent Mode|直觉依赖模式]] 的分析。详见 [[Argument_Zheng_2023_ShanghaiSanlian]]
 > - 转变案例：直觉依赖模式相关案例 中的梓桐、高程、初晓——三者的转变均以社会性融入为触发引擎
 
 ---

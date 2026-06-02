@@ -11,6 +11,7 @@ tags:
 related_concepts:
   - "[[Otherhood]]"
   - "[[Entrepreneurial University]]"
+  - "[[Analytic Framework]]"
   - "[[New Public Management]]"
   - "[[Research Problem]]"
   - "[[Global Universities Rankings]]"
@@ -64,7 +65,7 @@ updated: '2026-05-18'
 
 这一脉络主要在欧洲高等教育研究中展开，关注大学如何从一个松散的、缺乏统一行动能力的学术共同体转变为一个具有组织身份的行动者。
 
-- 2006 年 Krücken & Meier 在 *Globalization and Organization* 中首次提出分析框架，关注大学如何在全球化压力下"转变为组织行动者"——即获得统一决策、自我管理和对外代表的能力。这一研究的背景是欧洲博洛尼亚进程和[[New Public Management|新公共管理]]改革对大学自治提出的新要求（Zapp, 2022, p.148）
+- 2006 年 Krücken & Meier 在 *Globalization and Organization* 中首次提出[[Analytic Framework|分析框架]]，关注大学如何在全球化压力下"转变为组织行动者"——即获得统一决策、自我管理和对外代表的能力。这一研究的背景是欧洲博洛尼亚进程和[[New Public Management|新公共管理]]改革对大学自治提出的新要求（Zapp, 2022, p.148）
 - 2007 年 Musselin 区分大学的"特定组织"（specific organizations）与"一般组织"特征。传统欧洲大学像政府部门的一个科室——目标由上级定、资源由上级拨、教授各自为政。相比之下，"一般组织"有统一的领导层、清晰的战略目标和对外问责机制（Zapp, 2022, p.148）
 - 2009 年 Musselin 进一步将大学转型描述为从"特定组织"到"正常组织"，甚至到"赋权组织"（empowered organizations）的演进——大学不仅获得了组织性，而且被赋予了更广泛的自主决策权和社会期待（Zapp, 2022, p.148）
 

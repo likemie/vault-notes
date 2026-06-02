@@ -17,10 +17,12 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
+  - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"
   - "[[Further Education]]"
   - "[[International Education]]"
   - "[[Learning Analytics]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Research Question]]"
 related_theories: []
 related_methods: []
@@ -86,7 +88,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 >
 > 四个信条是边界条件，缺任何一个，[[Innovation Hub|创新中心]]都无法运转。六项优先领域是操作路径，它们同时推进、相互交织，并非线性步骤。
 >
-> 本章引用了利益相关者理论（Stakeholder Theory, Freeman, 1984），借以说明创新中心采取整体性网络建设方式的合理性，但未将其作为正式分析框架（pp.125–126）。
+> 本章引用了利益相关者理论（Stakeholder Theory, Freeman, 1984），借以说明创新中心采取整体性网络建设方式的合理性，但未将其作为正式[[Analytic Framework|分析框架]]（pp.125–126）。
 >
 > TUFF 的实践框架有相当规模的文献支持。Battelle 技术合作实践（Battelle Technology Partnership Practice）2013 年对北美大学[[Innovation Park|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好（p.125）。在学术产出方面，Dooley & Kirk（2007）证明了创新中心对大学研发和[[Technology Transfer|技术转移]]的净正面影响；Chai & Shih（2016）发现产学合作同时提升了中小企业和大型企业的整体研究产出和专利数量。Katz & Ordover（1990）指出，创新园区能够打破大学内部各院系之间的孤岛，或创造出原本不存在的跨学科研发合作激励。区域经济政策层面，Cullum Clark（2022）的研究表明，支持创新的区域政策吸引了移民，移民又推动了本地财富增长和社会经济指标的相对提升，形成正向增长循环（p.125）。不过，关于较新的产学合作的研究尚不充分，指向利益相关者理论有效性的证据目前"更加定性和轶事性"（more qualitative and anecdotal, p.126）。
 
@@ -294,7 +296,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
     新墨西哥州阿尔伯克基的桑迪亚科技园（Sandia Science and Technology Park）提供了一个创新性创收案例。该园通过向租户和合作伙伴提供光纤数据和通信服务来产生收入，用共享基础设施覆盖行政与管理的运营成本（p.134）。
 
-    费城的大学城科学中心建立了全面的整合传播策略，官网面向学生、研究者、初创企业、大公司、投资者和社区居民，每天在全部社交媒体渠道发布内容，同时出版月报和年报（p.133）。
+    费城的大学城科学中心建立了全面的[[Integration in Mixed Methods|整合]]传播策略，官网面向学生、研究者、初创企业、大公司、投资者和社区居民，每天在全部社交媒体渠道发布内容，同时出版月报和年报（p.133）。
 
 > [!note]
 > 社区网络应提前建立，不要等到联邦资金公告才去组织联盟，机会来的时候才能立即响应。

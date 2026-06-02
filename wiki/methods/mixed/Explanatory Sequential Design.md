@@ -18,7 +18,7 @@ related_concepts:
   - "[[Research Question]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Purposeful Sampling]]"
   - "[[Joint Display]]"
   - "[[Convergent Design]]"
@@ -41,7 +41,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 解释性序列设计（explanatory sequential design）是[[Mixed Method and Multi-method Research|混合方法研究]]的三种核心设计之一。研究者首先收集和分析量化数据（第一阶段），然后基于量化结果，通过第二阶段的质性数据收集和分析来深入解释量化发现（Creswell & Creswell, 2022, p.137）。
+> 解释性序列设计（explanatory sequential design）是[[Mixed Methods Research|混合方法研究]]的三种核心设计之一。研究者首先收集和分析量化数据（第一阶段），然后基于量化结果，通过第二阶段的质性数据收集和分析来深入解释量化发现（Creswell & Creswell, 2022, p.137）。
 
 解释性序列设计的逻辑是"先看什么，再问为什么"——量化阶段揭示现象的统计模式和[[Variable|变量]]关系，质性阶段深入参与者的视角，解释这些模式和关系背后的人的意义、机制和过程。
 
@@ -76,7 +76,7 @@ updated: 2026-05-31
 
 解释性序列设计的[[Purpose Statement|目的陈述]]脚本（Creswell & Creswell, 2022, pp.137–138）：
 
-> 本研究将解决________（总体意图）。采用解释性序列[[Mixed Method and Multi-method Research|混合方法]]设计，先收集量化数据，然后用深入的质性后续数据解释量化结果。第一量化阶段将从________参与者收集________（量化工具）的数据，以检验________理论并评估________自[[Variable|变量]]是否与________因变量有关。第二质性阶段将作为量化结果的后续，以帮助深入解释量化结果。用质性数据解释量化结果的洞见将是________。
+> 本研究将解决________（总体意图）。采用解释性序列[[Mixed Methods Research|混合方法]]设计，先收集量化数据，然后用深入的质性后续数据解释量化结果。第一量化阶段将从________参与者收集________（量化工具）的数据，以检验________理论并评估________自[[Variable|变量]]是否与________因变量有关。第二质性阶段将作为量化结果的后续，以帮助深入解释量化结果。用质性数据解释量化结果的洞见将是________。
 
 ## 整合洞见
 
@@ -137,7 +137,7 @@ updated: 2026-05-31
 > | 第二质性阶段 | 四个不同参与者群体的案例研究，深入探索统计检验结果 |
 > | [[Integration in Mixed Methods\|整合]]洞见 | 用案例研究解释统计结果——质性数据为量化发现提供机制性阐释 |
 >
-> Creswell & Creswell (2022, pp.137–138) 指出该陈述位于引言最后一段，以总体意图开始，依次呈现两个阶段，最后以整合理由收束，完整体现了[[Mixed Method and Multi-method Research|混合方法]]目的陈述的所有组件。
+> Creswell & Creswell (2022, pp.137–138) 指出该陈述位于引言最后一段，以总体意图开始，依次呈现两个阶段，最后以整合理由收束，完整体现了[[Mixed Methods Research|混合方法]]目的陈述的所有组件。
 
 ## 来源
 

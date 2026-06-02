@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Asset Mapping]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -48,7 +49,7 @@ updated: 2026-05-28
 ## 传播与沟通策略
 
 > [!example]
-> 科学中心建立了全面的整合传播策略（pp.133, 502–505）：
+> 科学中心建立了全面的[[Integration in Mixed Methods|整合]]传播策略（pp.133, 502–505）：
 > - 官网面向六类受众：学生、研究者、初创企业、大公司、投资者和社区居民
 > - 每日在全部社交媒体渠道发布内容
 > - 出版月度通讯（monthly newsletter）和年度报告（annual report）

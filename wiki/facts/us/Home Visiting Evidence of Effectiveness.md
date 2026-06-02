@@ -21,6 +21,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Case Design]]"
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准编码中，HomVEE 对 [[Randomised Controlled Trials|RCT]]、一般 [[Quasi-Experimental Designs|QED]] 和 RDD 的描述程度均为 3，对 ITS 为 0。这意味着它在 RCT、QED 和 RDD 上都有设计专属的[[Causality|因果推断]]与实施质量标准，但没有将 ITS 作为标准化设计类型列出（Wadhwa et al., 2024, p.10）。
+> 在设计标准[[Coding in Qualitative Research|编码]]中，HomVEE 对 [[Randomised Controlled Trials|RCT]]、一般 [[Quasi-Experimental Designs|QED]] 和 RDD 的描述程度均为 3，对 ITS 为 0。这意味着它在 RCT、QED 和 RDD 上都有设计专属的[[Causality|因果推断]]与实施质量标准，但没有将 ITS 作为标准化设计类型列出（Wadhwa et al., 2024, p.10）。
 >
 > HomVEE 的搜索限于 1989 年之后开展的研究，并偏好超过 250 名个体参与者的研究；它在流失指南上遵循 [[What Works Clearinghouse|WWC]] 指南。对于 QED，HomVEE 有匹配比较设计和[[Single-Case Design|单一个案设计]]的分开标准；对于 RDD，它像 WWC 一样要求关于 forcing [[Variable]] 完整性、结果与 forcing variable 连续性以及函数形式/带宽假设可行性的有力证据（Wadhwa et al., 2024, pp.8–11）。
 

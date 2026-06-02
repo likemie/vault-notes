@@ -6,6 +6,7 @@ type: concept
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Research Topic]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Abstract]]"
@@ -16,7 +17,7 @@ related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Literature Map]]"
 related_persons: []
 related_facts: []
@@ -36,7 +37,7 @@ updated: 2026-05-30
 > [!info]
 > 文献综述（Literature Review）是对某一[[Research Topic|研究主题]]已有文献的系统检索、评估和总结。它向读者呈现与当前研究密切相关的已有研究成果，将研究置于更大范围的学术对话之中，填补已有研究的空白并延伸先前的研究，同时为确立研究的重要性提供框架，也为将研究结果与已有发现进行比较提供基准（Creswell & Creswell, 2022）。
 
-文献综述在学术研究中有多重目的：整合已有研究的发现与观点；批判已有学术成果的不足；在不同研究主题之间建立联系；识别领域中的核心议题（Cooper, 2010，引自 Creswell & Creswell, 2022）。
+文献综述在学术研究中有多重目的：[[Integration in Mixed Methods|整合]]已有研究的发现与观点；批判已有学术成果的不足；在不同研究主题之间建立联系；识别领域中的核心议题（Cooper, 2010，引自 Creswell & Creswell, 2022）。
 
 ## 量化、质性与混合方法研究中的不同角色
 
@@ -67,7 +68,7 @@ updated: 2026-05-30
 
 ### 混合方法研究中的文献综述
 
-[[Mixed Method and Multi-method Research|混合方法研究]]中的文献使用取决于设计类型以及质性与量化成分的相对权重。在序列式设计中，每个阶段的文献与该阶段使用的方法一致：如果研究以量化阶段开始，文献综述通常较详实；如果以质性阶段开始，文献使用量则大幅减少，可能更多放在研究结尾。如果质性与量化数据同等重要，文献形式的选择取决于研究受众的偏好（Creswell & Creswell, 2022）。
+[[Mixed Methods Research|混合方法研究]]中的文献使用取决于设计类型以及质性与量化成分的相对权重。在序列式设计中，每个阶段的文献与该阶段使用的方法一致：如果研究以量化阶段开始，文献综述通常较详实；如果以质性阶段开始，文献使用量则大幅减少，可能更多放在研究结尾。如果质性与量化数据同等重要，文献形式的选择取决于研究受众的偏好（Creswell & Creswell, 2022）。
 
 ## 文献检索步骤
 

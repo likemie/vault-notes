@@ -17,7 +17,8 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Scientific Attitude]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Robert Cowen]]"
   - "[[John Dewey]]"
@@ -60,7 +61,7 @@ updated: 2026-05-26
 > 三个阶段各自的关注重点：
 >
 > - **Transfer** 关注跨境行动和传播渠道——思想的出口与入口，以及"谁"将什么知识带到何处。
-> - **Translation** 关注机构化的重组——外来思想如何被接受国的法律、制度和课程语言重新编码。
+> - **Translation** 关注机构化的重组——外来思想如何被接受国的法律、制度和课程语言重新[[Coding in Qualitative Research|编码]]。
 > - **Transformation** 关注"不可翻译"的语境力量——社会矛盾、经济压力、政治转型等如何迫使转译产物进一步变形，直至与原始输入产生质的差异。
 
 ## 应用示例

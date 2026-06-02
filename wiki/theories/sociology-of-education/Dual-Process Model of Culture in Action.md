@@ -12,6 +12,7 @@ tags:
   - cognitive-sociology
   - paradigm/interpretivist
 related_concepts:
+  - "[[Analytic Framework]]"
   - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
@@ -46,7 +47,7 @@ updated: 2026-05-18
 > [!quote]
 > 两种范式实际上都存在，但不在同一个意识层次发挥作用（[[Yajun Zheng|郑雅君]]，2023，引 Vaisey, 2009, pp.1685-1686）
 
-[[Yajun Zheng|郑雅君]]（2023）以该模型作为其"大学过程"分析框架中"价值选择过程"的理论基础之一。
+[[Yajun Zheng|郑雅君]]（2023）以该模型作为其"大学过程"[[Analytic Framework|分析框架]]中"价值选择过程"的理论基础之一。
 
 ---
 

@@ -13,9 +13,10 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
   - "[[Self-Efficacy]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods:
-  - "[[Mixed Method and Multi-method Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Literature Map]]"
 related_persons: []
 related_facts: []
@@ -68,7 +69,7 @@ updated: 2026-05-31
 ## 示例
 
 > [!example] 方法论文章的摘要示例
-> Hirose & Creswell (2022) 一篇关于[[Mixed Method and Multi-method Research|混合方法]]质量标准的文章摘要展示了方法论摘要的典型构成：
+> Hirose & Creswell (2022) 一篇关于[[Mixed Methods Research|混合方法]]质量标准的文章摘要展示了方法论摘要的典型构成：
 >
 > "Recent published articles and comments by researchers, federal recommendations, and professional association standards have recommended core quality criteria for designing and writing mixed methods research. Unfortunately, a synthesis of recent timely recommendations has not been made...（[[Research Question|研究问题]]）This article presents six best practices in mixed methods culled from recent sources, discusses the need for each practice, and then illustrates its use in a recent empirical study from Japan（[[Purpose Statement|研究目的]]与主题）. This article contributes to the [[Champ|field]] of mixed methods methodology by providing a parsimonious list of core criteria...（贡献）"
 >
@@ -105,7 +106,7 @@ updated: 2026-05-31
 
 ## 与文献综述的关系
 
-文献摘要是[[Literature Review|文献综述]]流程中的关键中间步骤。Creswell & Creswell (2022) 的七步检索流程中，撰写摘要排在第六步——在检索和筛选文献之后、[[Literature Map|文献地图]]绘制和组织最终综述之前。摘要是从"读文献"到"写综述"之间的桥梁：它将每篇文献的核心信息压缩成标准化的记录单元，使研究者能够在大量文献之间进行比较、归类和整合。
+文献摘要是[[Literature Review|文献综述]]流程中的关键中间步骤。Creswell & Creswell (2022) 的七步检索流程中，撰写摘要排在第六步——在检索和筛选文献之后、[[Literature Map|文献地图]]绘制和组织最终综述之前。摘要是从"读文献"到"写综述"之间的桥梁：它将每篇文献的核心信息压缩成标准化的记录单元，使研究者能够在大量文献之间进行比较、归类和[[Integration in Mixed Methods|整合]]。
 
 ---
 

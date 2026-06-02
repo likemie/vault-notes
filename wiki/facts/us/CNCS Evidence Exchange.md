@@ -18,6 +18,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准编码中，CNCS Evidence Exchange 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 2，对 RDD 与 ITS 均为 0（Wadhwa et al., 2024, p.10）。在复制标准上，CNCS Evidence Exchange 强调多地点研究以及跨地点和文化情境复制的效果；它也会给独立评估更高评级，这里的独立性指研究者独立于项目管理者和实施者（Wadhwa et al., 2024, pp.11–12）。
+> 在设计标准[[Coding in Qualitative Research|编码]]中，CNCS Evidence Exchange 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 2，对 RDD 与 ITS 均为 0（Wadhwa et al., 2024, p.10）。在复制标准上，CNCS Evidence Exchange 强调多地点研究以及跨地点和文化情境复制的效果；它也会给独立评估更高评级，这里的独立性指研究者独立于项目管理者和实施者（Wadhwa et al., 2024, pp.11–12）。
 
 ## 与其他清算中心的差异
 

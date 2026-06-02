@@ -15,6 +15,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Knowledge Production]]"
   - "[[Theoretical End Point]]"
+  - "[[Analytic Framework]]"
   - "[[Transformative Paradigm]]"
 related_theories: []
 related_methods:
@@ -68,7 +69,7 @@ updated: 2026-05-31
 > **理论立场 vs [[Theoretical End Point|理论终点]]**：理论立场在研究开始时引入，作为观察和解释的框架；理论终点在研究结束时生成，是从数据中归纳产生的理论或概括。前者是"用理论来看"，后者是"从数据中生成理论"。
 
 > [!example]
-> **理论立场 vs 世界观的演绎使用**：[[Quantitative Research|量化研究]]中的理论从研究开始就作为演绎框架（deductive framework）指导假设和数据收集，而理论立场不仅是分析框架，还包含价值立场——研究者对特定群体和权力关系的明确承诺。
+> **理论立场 vs 世界观的演绎使用**：[[Quantitative Research|量化研究]]中的理论从研究开始就作为演绎框架（deductive framework）指导假设和数据收集，而理论立场不仅是[[Analytic Framework|分析框架]]，还包含价值立场——研究者对特定群体和权力关系的明确承诺。
 
 ## 相关概念
 

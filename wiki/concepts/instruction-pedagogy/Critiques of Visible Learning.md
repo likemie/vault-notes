@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Probes]]"
   - "[[Evidence-Based Education]]"
   - "[[Doxa]]"
   - "[[Transfer Translation Transformation]]"
@@ -26,7 +27,9 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Confidence Interval]]"
   - "[[Feedback]]"
+  - "[[Analytic Framework]]"
   - "[[School Effectiveness]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Publication Bias]]"
   - "[[Language Experience Approach]]"
   - "[[Constructivist Paradigm]]"
@@ -39,6 +42,7 @@ related_concepts:
   - "[[Neuroplasticity]]"
   - "[[School Leadership]]"
   - "[[Self-Efficacy]]"
+  - "[[Reflexivity]]"
   - "[[Neo-Taylorism]]"
   - "[[Cult of the Guru]]"
   - "[[Definition of Terms]]"
@@ -59,6 +63,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
 related_persons:
@@ -71,7 +76,6 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[Campbell Collaboration]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -120,7 +124,7 @@ updated: 2026-05-21
 ## 定义
 
 > [!info] 定义
-> Critiques of [[Visible Learning]] 指围绕 [[John Hattie]] 的 [[Visible Learning]] 所形成的批评谱系。它不只是质疑某一个[[Effect Size|效应量]]或某一项排名，而是从统计方法、教育理论、教育哲学、可见性政治、教师专业性、政策使用和商业化网络等多个层面，追问 VL 如何把“学习影响”变成可排序、可管理、可推广的证据对象。
+> Critiques of [[Visible Learning]] 指围绕 [[John Hattie]] 的 [[Visible Learning]] 所形成的批评谱系。它不只是质疑某一个[[Effect Size|效应量]]或某一项排名，而是从统计方法、教育理论、教育哲学、可见性政治、教师专业性、政策使用和商业化网络等多个层面，[[Probes|追问]] VL 如何把“学习影响”变成可排序、可管理、可推广的证据对象。
 >
 > 为减少重复，本条目集中呈现批评文献；VL 本身的定义、核心要素、发展脉络和学校改进语境见 [[Visible Learning]]。
 
@@ -155,7 +159,7 @@ updated: 2026-05-21
 ## 方法论批评
 
 > [!warning] 主题导览
-> 这一组批评围绕同一个核心追问：VL 是否真的能把高度异质的教育研究压缩为可比较、可排序、可直接转成[[Recommendations for Practice|实践建议]]的数字地图。
+> 这一组批评围绕同一个核心[[Probes|追问]]：VL 是否真的能把高度异质的教育研究压缩为可比较、可排序、可直接转成[[Recommendations for Practice|实践建议]]的数字地图。
 >
 > 读法建议：
 > - 想先看最早的总批评，从 Argument_Snook_2009_NZJES 和 [[Argument_Terhart_2011_JCS]] 开始。
@@ -212,7 +216,7 @@ Terhart 提出了一个尖锐的类比："当然可以通过不同渠道累积�
 
 ### Wecker et al. (2016) — 全面技术评估
 
-Wecker, Vogel & Hetmanek（2016), ZfE）发表了迄今为止对 Hattie 二级元分析方法最系统的技术评估。他们构建了一个三层分析框架（Wecker et al., 2016, p.23-24）：
+Wecker, Vogel & Hetmanek（2016), ZfE）发表了迄今为止对 Hattie 二级元分析方法最系统的技术评估。他们构建了一个三层[[Analytic Framework|分析框架]]（Wecker et al., 2016, p.23-24）：
 
 > **三层分析框架**：
 > 1. **对数据基础的批评**（§3.1）——Hattie 使用的元分析数据库是否满足方法要求？
@@ -420,7 +424,7 @@ Wecker 等人（p.26, Table 1）以表格形式系统记录了每个分析步骤
 
 问题：这意味着在方法论上**不可能**将调节变量（moderator variables）——如干预持续时间、实施方式、样本年龄、学科领域——纳入二级分析。但这些变量**已经在**一级元分析中作为发现被报告："Hattie 自己指出了这个问题（2009, p.9 ff.）。在关于个体影响因素的简短章节中，他通常还处理调节变量的个体特征与效应大小之间的差异。"（p.31）
 
-然而"在他的二级荟萃分析方法中，最终根本不可能将调节变量考虑在内，因为这些变量通常不会在同一主题的不同一级荟萃分析中统一编码"（p.31，citing Cooper & Koenka, 2012, p.458）。
+然而"在他的二级荟萃分析方法中，最终根本不可能将调节变量考虑在内，因为这些变量通常不会在同一主题的不同一级荟萃分析中统一[[Coding in Qualitative Research|编码]]"（p.31，citing Cooper & Koenka, 2012, p.458）。
 
 这意味着 Hattie 排名表中的每个效应量都包含了已知但无法量化的变异性——有些变体实际上非常有效（如"社会戏剧游戏" r=0.60, d=1.48），而另一些无效（如"想象力游戏" r=0.14, d=0.28），但它们在排名中被压缩为一个数字。
 
@@ -476,7 +480,7 @@ Wecker 等人最终的可靠性判断是层次化的（p.34-36）：
 
 2. **排名层面**：由于加权错误——正确加权可将效应量从 0.59 改变为 0.23（排名从 #26 降至 #98）——排名的可靠性受到直接质疑
 
-3. **方法层面**：该方法在当前出版条件下"以科学合理的方式是不可行的"（p.1）——但 Hattie 的基本愿景（全面整合实证教育研究）"是有远见的"和"为他赢得了宝贵而持久的优点"（p.34-35）
+3. **方法层面**：该方法在当前出版条件下"以科学合理的方式是不可行的"（p.1）——但 Hattie 的基本愿景（全面[[Integration in Mixed Methods|整合]]实证教育研究）"是有远见的"和"为他赢得了宝贵而持久的优点"（p.34-35）
 
 4. **前进方向**：建立**中央证据数据库**——收集实证研究的方法和结果（无论期刊出版物如何），以标准化和元分析可用的格式提供，统一使用 Hedges' g 作为效应量测度，每个元分析发布完整的主要研究表——"通过提供标准化形式的'原始元分析数据'来促进像 Hattie 这样的项目，而不是在期刊上发表"（p.35）
 
@@ -605,7 +609,7 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 
 **Popper 三个世界理论的误用**：Hattie 通过 Bereiter（2002）的中介连接 Karl Popper 的三个世界（物理事物/主观观念/客观知识）来区分学校学习的三个层次——表面信息（第一世界）、深度理解（第二世界）、"可辩护的关于知识和现实的理论"（第三世界）。Terhart 指出 Bereiter 已"以联想的方式"使用 Popper，而"Hattie 再次以非传统的方式使用 Bereiter 的论证"——这些段落"以一种相当联想和顽固的方式穿越学习理论领域"（p.430-431）。
 
-**[[Bildung]] 的实质面被完全忽略**：Terhart 从德国 Didaktik 传统出发，指出 Hattie 的讨论可关联到 Bildung（教化）概念——但 Hattie 只发展了形式上的理解，Bildung 的实质面（教育的具体内容）被忽略。Hattie 仅在书中一句话抛出："教育不仅是教人思考——也是教人值得学的东西"（Hattie, 2009, p.27）。Terhart 追问："这可能是一个起点……但 Hattie 没有沿着这条可能的思路走下去。所以人们想知道：肉在哪里？"（p.430-431）
+**[[Bildung]] 的实质面被完全忽略**：Terhart 从德国 Didaktik 传统出发，指出 Hattie 的讨论可关联到 Bildung（教化）概念——但 Hattie 只发展了形式上的理解，Bildung 的实质面（教育的具体内容）被忽略。Hattie 仅在书中一句话抛出："教育不仅是教人思考——也是教人值得学的东西"（Hattie, 2009, p.27）。Terhart [[Probes|追问]]："这可能是一个起点……但 Hattie 没有沿着这条可能的思路走下去。所以人们想知道：肉在哪里？"（p.430-431）
 
 **课程内容完全缺失**：在名为"课程"的章节中，读者"再次发现关于某些专门化教学方法及其[[Effect Size|效应量]]的报告。内容问题、学科的教学意义问题、关于合法化课程决策的问题和可能性的反思（为什么包括这个——为什么排除那个？）被完全忽略"（p.431）。
 
@@ -627,7 +631,7 @@ Rømer (2018)、Larsen (2019) 和 Nielsen & Klitmøller (2021) 三位丹麦学�
 
 ### 评价理论取代教育（Rømer, 2018）
 
-Rømer（2018）从教育哲学角度对 [[John Hattie|Hattie]] 的 VL 进行了五线批评，其独特贡献在于追问 VL 的**基本教育理论本身是什么**，而非其经验方法论。
+Rømer（2018）从教育哲学角度对 [[John Hattie|Hattie]] 的 VL 进行了五线批评，其独特贡献在于[[Probes|追问]] VL 的**基本教育理论本身是什么**，而非其经验方法论。
 
 #### 批评一：VL 是评价理论取代（colonize）教育理论
 
@@ -691,11 +695,11 @@ Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 
 **批评二：大脑-身体-社会复杂性不可还原为简单测量。** Larsen 从[[Neuroplasticity|神经可塑性]]出发提供了对 VL 的科学批判。人脑约含 860 亿个神经元、约 13 万亿个突触，而大脑不是漂浮在缸中的独立器官——"去学校读书的是完整的、具身的、情境化的、思考着的个体人类，不是大脑"（Larsen, 2019, p.5）。Larsen 的核心论点是：任何将学习定位和识别于大脑中的尝试都在"制造关于学习存在公分母的神话"，而"每一次试图将复杂神经可塑性翻译和简化为简单信息的尝试都是徒劳的——甚至更糟：未能达到甚至违反科学家通常尊重和遵守的科学规范"（Larsen, 2019, p.5）。Larsen 进一步论证了人类经验的"中间存在"（in-betweeners）特征：我们不经验突触层面的神经活动（微观），也不经验光速或星系旋转（宏观）——我们生活在"中间"，在日常宏观现象中生活（Larsen, 2019, p.6）。
 
-**批评三：教师[[Visible Learning|可见学习]] ≠ 学生有意识/无意识学习。** Larsen 区分了三个"世界"：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning outcomes）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的编码和理性不同（Larsen, 2019, p.4）。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——对话（Larsen, 2019, p.7）。"他肯定不是在作为概念史家或现象学家工作"（Larsen, 2019, p.2）。
+**批评三：教师[[Visible Learning|可见学习]] ≠ 学生有意识/无意识学习。** Larsen 区分了三个"世界"：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning outcomes）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的[[Coding in Qualitative Research|编码]]和理性不同（Larsen, 2019, p.4）。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——对话（Larsen, 2019, p.7）。"他肯定不是在作为概念史家或现象学家工作"（Larsen, 2019, p.2）。
 
 **批评四：学习不是价值中立的概念——Bildung 要求更多。** Larsen 从概念史（Begriffsgeschichte）角度追溯了"学习"在丹麦语境中的语义演变：1960–70 年代'læring'（学习）最初是批判性、解放性的术语 → 1990 年代起被资本主义逻辑吸收 → 当代学习已成为不可逃避、无所不在的状态和"自然"要求（Larsen, 2019, p.8-9）。Larsen 的核心替代方案是复兴 [[Bildung]]（教养）概念——"Bildung is so much more than education. Character formation cannot be operationalized or formalized... Bildung belongs to life. It is autonomous, auto-telic, and possesses its own reasons, such as art, joy and love."（Larsen, 2019, p.9）。作为 VL 的替代方案，Larsen 提出了 具身化-扩展辩证法：每次学习都将学习内容具身化在身体存在中，而每次具身化值得具身化的东西，就扩展了身体与心智综合——这是一个双向运动（Larsen, 2019, p.8-10）。
 
-Larsen（2019）的独特贡献在于将四个不同学科领域（现象学、神经科学、自由哲学、概念史）整合为一个统一的哲学批判框架——盲视。与 Rømer 追问"VL 的基本理论是什么？"、Nielsen & Klitmøller 追问"为什么有严重缺陷的 VL 仍主导政策？"不同，Larsen 追问的是一阶问题：**"VL 在原则上能看到什么、不能看到什么？"**——答案是盲视是教育观看的构成性条件，VL 追随者不能看见他们不能看见的东西。
+Larsen（2019）的独特贡献在于将四个不同学科领域（现象学、神经科学、自由哲学、概念史）[[Integration in Mixed Methods|整合]]为一个统一的哲学批判框架——盲视。与 Rømer 追问"VL 的基本理论是什么？"、Nielsen & Klitmøller 追问"为什么有严重缺陷的 VL 仍主导政策？"不同，Larsen 追问的是一阶问题：**"VL 在原则上能看到什么、不能看到什么？"**——答案是盲视是教育观看的构成性条件，VL 追随者不能看见他们不能看见的东西。
 
 ### 合法化危机与技术理性（Nielsen & Klitmøller, 2021）
 
@@ -885,7 +889,7 @@ McKnight & Whitburn（2020）从文化政治视角提出七点系统批评：
 - "忠实"（fidelity）对 Noddings（1986）而言意味着对学生的忠诚，但 VL 将其重新定义为对外部概念的忠诚
 
 **5. Visible Learning 接近法西斯主义**
-- 单一教义是否应该统治教师、课堂和学校？VL 的专业学习项目是否包含对 VL 的批评？未发现任何反思性的证据（McKnight & Whitburn, 2020, p.38）
+- 单一教义是否应该统治教师、课堂和学校？VL 的专业学习项目是否包含对 VL 的批评？未发现任何[[Reflexivity|反思性]]的证据（McKnight & Whitburn, 2020, p.38）
 - VL 是极权主义"有组织的遗忘"（Kundera, 1981）的一部分——方便地忘记其做法原本就是教师的做法
 - 忽视了 Foucault（1975/1995）的警告：可见性是一个陷阱，"将规训渗透到最微小的细节中"是危险的（p.200）
 - Pinar（2011）警告：如果教师"不加理解地"应用课程，"只有景观，即我们时代的法西斯主义"（p.214，引自 McKnight & Whitburn, 2020, p.39）
@@ -906,7 +910,7 @@ McKnight & Whitburn（2020）从文化政治视角提出七点系统批评：
 
 **7. Visible Learning 基于能力主义假设**
 - VL 坚持"只有可见的才重要"，对人们应具备何种能力才能被视为成功和被纳入做出了规范性和能力主义的假设（McKnight & Whitburn, 2020, p.41）
-- 能力主义"设定两个截然不同且完全清晰的本体论区域：残疾的和健全的"（[[Campbell Collaboration|Campbell]], 2009, p.8）
+- 能力主义"设定两个截然不同且完全清晰的本体论区域：残疾的和健全的"（Campbell, 2009, p.8）
 - 在 VL 中，通过视觉感知的能力是被正常化的区域，而通过其他方式感知则在本体论和认识论上被抹除
 - 有视觉障碍的教师或学生通过缺乏视力被建构，不可避免地遭受排斥——这种对公平的"影响"并未被计入 VL 的效应量
 - 视觉长期以来承载着作为意识的定义性和统治性能力的粗暴声誉；对视觉傲慢假设的批评可追溯至 Rorty 的 *Philosophy and the Mirror of Nature*（1979）
@@ -926,7 +930,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会认识论角度出发
 
 **与澳洲其他改革取向的对比**：Productive Pedagogies 和 Quality Teaching 旨在为教师和[[School Leadership|学校领导]]提供"反思和发展自身技艺的资源"；Hattie 的列表则"告诉教育者做什么以获得最大回报"——"区别虽细微但重要"（Eacott, 2019, p.778）
 
-**"[[Cult of the Guru|大师崇拜]]"的分析框架**：Eacott 以 Callahan（1962）*Education and the Cult of Efficiency* 为历史框架，识别了使"大师崇拜"成为可能的三个历史条件（详见 [[Cult of the Guru]]）：(1) 时间条件——NAPLAN/[[PISA]]/TIMSS 数据引发成绩下降担忧，管理修辞围绕理性/控制逻辑凝聚；(2) 桥梁——Robinson et al.（2008）向教育行政社区引入效应量语言但仍缺操作细节；(3) 填补——Hattie 提供了"用行政语言说话"的数据（Eacott, 2017, p.414-419）。
+**"[[Cult of the Guru|大师崇拜]]"的[[Analytic Framework|分析框架]]**：Eacott 以 Callahan（1962）*Education and the Cult of Efficiency* 为历史框架，识别了使"大师崇拜"成为可能的三个历史条件（详见 [[Cult of the Guru]]）：(1) 时间条件——NAPLAN/[[PISA]]/TIMSS 数据引发成绩下降担忧，管理修辞围绕理性/控制逻辑凝聚；(2) 桥梁——Robinson et al.（2008）向教育行政社区引入效应量语言但仍缺操作细节；(3) 填补——Hattie 提供了"用行政语言说话"的数据（Eacott, 2017, p.414-419）。
 
 **Hattie 回应的不充分性**：Hattie（2017）以 Popper 证伪主义为旗帜否认"大师崇拜"的存在，但其回应在两天内被接收发表（Eacott 原论文经历数月多轮评审），Eacott 被编辑拒绝发表再回应。详见 [[Cult of the Guru#争议与批评]]。
 
@@ -937,13 +941,13 @@ Eacott（2017a, 2019）从教育行政与领导力的社会认识论角度出发
 ## 政策与制度争议
 
 > [!warning] 主题导览
-> 这一组批评追问 VL 进入政策与治理后发生了什么：它怎样被财政简报、州级工具包、学校改进项目和商业服务网络使用，又怎样在使用过程中被误读、加固或转成管理技术。
+> 这一组批评[[Probes|追问]] VL 进入政策与治理后发生了什么：它怎样被财政简报、州级工具包、学校改进项目和商业服务网络使用，又怎样在使用过程中被误读、加固或转成管理技术。
 
 VL 证据在政策过程中被多次误用。O'Neill (2012) 以 NZ Treasury 2011 年简报为案例揭示了[[Definition of Terms|术语定义]]断裂和证据警示被忽略的机制；Terhart (2011) 记录了 VL 在新西兰政策语境中的早期争议；O'Connor (2020) 和 Blass (2020) 分别从维多利亚州和国家层面分析了 VL 在澳大利亚政策中的制度化与误用。详见 [[Visible Learning Branding and Global Influences]]。
 
 ### Johnson & Janzen (2023) — 四角度系统批判：方法论、新泰勒主义、新自由主义、Cargo Cult Science
 
-Johnson & Janzen（2023）在 *Critical Education* 发表了对 VL 的四角度系统批判，其独特贡献在于将方法论批判、Taylorism 分析、商业化追踪和[[Scientism|科学主义]]批判整合为一个统一框架。
+Johnson & Janzen（2023）在 *Critical Education* 发表了对 VL 的四角度系统批判，其独特贡献在于将方法论批判、Taylorism 分析、商业化追踪和[[Scientism|科学主义]]批判[[Integration in Mixed Methods|整合]]为一个统一框架。
 
 #### 角度一：方法论不透明——"Bullying by Numbers"
 
@@ -1024,7 +1028,7 @@ Qvortrup（2019）以 VL 丹麦引介者的身份，针对上述批评提出了�
 
 **论证三：专业判断是教学与学习之间的"缺失环节"。** Qvortrup 的核心理论贡献是提出 VL 中的教学干预与学习成果之间不存在简单的[[Causality|因果关系]]——两者是通过[[Structural Coupling|结构耦合]]（Luhmann, 1997）链接的两个封闭系统。教师的外部干预必须经过学生闭合的、自我指涉的反思循环，因此教师必须运用[[Professional Judgment|专业判断]]——基于[[Bounded Rationality|有限理性]]（Simon, 1969/1996），在理性赤字的条件下综合研究知识、伦理标准和方法论原则，通过反馈持续修正（Qvortrup, 2019, p.6-7）。VL 的目的因此不是提供"什么有效食谱"，而是为教师提供"智能问题解决的假设"（Hattie, 2009, p.247）。
 
-**Qvortrup 辩护的局限**：批评者可能指出 Qvortrup 本人是 VL 丹麦译本导言的合著者——作为 VL 的直接推广者，其立场影响分析的独立性。此外，Qvortrup 的辩护将 VL 从其自身更简化的操作实践中分离出来——VL 的实际培训要求"五人中仅一人通过"认证、禁止教师分享自身经验（Knudsen, 2017），这与专业判断框架中的反思性实践理念直接矛盾。然而，Qvortrup 的贡献在于提供了迄今为止最系统的 VL 理论辩护——将 VL 从一种"什么有效"的技术工具重新概念化为支持教师反思性判断的概率知识基础。
+**Qvortrup 辩护的局限**：批评者可能指出 Qvortrup 本人是 VL 丹麦译本导言的合著者——作为 VL 的直接推广者，其立场影响分析的独立性。此外，Qvortrup 的辩护将 VL 从其自身更简化的操作实践中分离出来——VL 的实际培训要求"五人中仅一人通过"认证、禁止教师分享自身经验（Knudsen, 2017），这与专业判断框架中的[[Reflexivity|反思性]]实践理念直接矛盾。然而，Qvortrup 的贡献在于提供了迄今为止最系统的 VL 理论辩护——将 VL 从一种"什么有效"的技术工具重新概念化为支持教师反思性判断的概率知识基础。
 
 ---
 

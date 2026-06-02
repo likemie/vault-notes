@@ -16,6 +16,7 @@ tags:
 - evidence-standards
 - subject/research-methodology
 related_concepts:
+  - "[[Gatekeepers]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
@@ -32,13 +33,13 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> Daubert v. Merrell Dow Pharmaceuticals, Inc. 是美国联邦最高法院 1993 年裁决的一个里程碑式案件（509 U.S. 579），确立了联邦法院中关于科学证据可采性的标准。该案涉及的实质问题是药物 Bendectin 是否导致出生缺陷，但案件的法律意义远超其具体事实——它取代了已使用 70 年的 Frye 标准（"在相关科学界被普遍接受"），要求联邦法官充当"守门人"角色，主动评估专家科学证言的方法论可靠性（Berk, 2011, p.192）。
+> Daubert v. Merrell Dow Pharmaceuticals, Inc. 是美国联邦最高法院 1993 年裁决的一个里程碑式案件（509 U.S. 579），确立了联邦法院中关于科学证据可采性的标准。该案涉及的实质问题是药物 Bendectin 是否导致出生缺陷，但案件的法律意义远超其具体事实——它取代了已使用 70 年的 Frye 标准（"在相关科学界被普遍接受"），要求联邦法官充当"[[Gatekeepers|守门人]]"角色，主动评估专家科学证言的方法论可靠性（Berk, 2011, p.192）。
 
 ## 经过
 
 > [!note]- 经过
 > - **1993** — 美国联邦最高法院做出裁决，确立了 Daubert 标准
-> - 裁决赋予联邦法官评估科学证据可采性的守门人职责，而非仅依赖相关科学界的普遍接受
+> - 裁决赋予联邦法官评估科学证据可采性的[[Gatekeepers|守门人]]职责，而非仅依赖相关科学界的普遍接受
 > - 裁决中提出了区分可靠科学证据与"垃圾科学"（junk science）的多个考量因素，包括：理论或技术是否可被检验、是否经过同行评审和发表、已知或潜在的错误率、是否存在控制操作的标准、在相关科学界是否被广泛接受
 
 ## 关键文件／声明

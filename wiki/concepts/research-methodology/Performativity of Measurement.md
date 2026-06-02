@@ -13,6 +13,7 @@ tags:
 - educational-philosophy
 - paradigm/constructivist
 related_concepts:
+  - "[[Integration in Mixed Methods]]"
   - "[[Knowledge Production]]"
   - "[[Science and Technology Studies]]"
   - "[[International Education]]"
@@ -21,6 +22,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[New Public Management]]"
   - "[[Visible Learning]]"
+  - "[[Analytic Framework]]"
   - "[[Effect Size]]"
   - "[[Neo-Taylorism]]"
 related_theories:
@@ -56,7 +58,7 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - Woolgar (1991a, 1991b) 将 performativity 整合进 [[Sociology of Measurement]] 框架（Gorur, 2014, p.6–7）
+> - Woolgar (1991a, 1991b) 将 performativity [[Integration in Mixed Methods|整合]]进 [[Sociology of Measurement]] 框架（Gorur, 2014, p.6–7）
 > - Pickering (1995) 使用"performativity"概念描述社会技术实践的世界制造特征（Gorur, 2014, p.7）
 > - Knorr Cetina (1999) 提出[[Knowledge Production|知识生产]]的"生产性"（productive）特征（Gorur, 2014, p.7）
 > - Mitchell (2002) 提出"赋予可计算性的特征"（investing a character of calculability）本身改变世界（Gorur, 2014, p.17）
@@ -127,7 +129,7 @@ updated: '2026-05-18'
 
 
 > [!success] [[Visible Learning]] 作为"新管理全景监狱主义"的完美工具（McKnight & Whitburn, 2020）
-> McKnight & Whitburn（2020）将 performativity 分析框架应用于 [[John Hattie]] 的 Visible Learning 项目，论证"Visible Learning"这一隐喻本身就是一种施行性装置——命名"可见"的行为改变了对教师和学生的期望与监控方式。
+> McKnight & Whitburn（2020）将 performativity [[Analytic Framework|分析框架]]应用于 [[John Hattie]] 的 Visible Learning 项目，论证"Visible Learning"这一隐喻本身就是一种施行性装置——命名"可见"的行为改变了对教师和学生的期望与监控方式。
 >
 > **多层监控文化的生产**（McKnight & Whitburn, 2020, p.34）：
 >

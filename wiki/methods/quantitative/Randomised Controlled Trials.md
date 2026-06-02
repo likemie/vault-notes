@@ -32,6 +32,7 @@ related_theories:
 related_methods:
   - "[[Random Assignment]]"
   - "[[Intervention Research]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Intent-to-Treat Analysis]]"
@@ -187,7 +188,7 @@ updated: '2026-05-18'
 >
 > Kraft（2023）在 3,426 个教育干预 RCT 效应量的扩展样本中发现，若结果限定为标准化学业成就测验，36% 的效应量小于 0.05，整体中位数约为 0.10。这一发现把 RCT 的政策解释问题从"某个正效应是否足够大"转向"教育干预经常失败"：在美国等高收入、K-12 体系已高度制度化的情境中，社会不平等、政治系统、制度结构和行动者都会强力塑造干预设计与实施，使教育改进本身极为困难（Kraft, 2023, p.183）。
 >
-> Kraft 同时强调，多数现代教育 RCT 并非两个对称处理组的任意比较，而是将"新做法"与"照常实践"对比。他引用 Fryer（2017）综述中的编码结果指出，94% 的处理-对照比较属于干预组做了新事情、控制组维持原有实践的设计；因此在典型政策语境中，效应方向可以解释为"干预是否相对当前实践提高了学生结果"（Kraft, 2023, p.185）。
+> Kraft 同时强调，多数现代教育 RCT 并非两个对称处理组的任意比较，而是将"新做法"与"照常实践"对比。他引用 Fryer（2017）综述中的[[Coding in Qualitative Research|编码]]结果指出，94% 的处理-对照比较属于干预组做了新事情、控制组维持原有实践的设计；因此在典型政策语境中，效应方向可以解释为"干预是否相对当前实践提高了学生结果"（Kraft, 2023, p.185）。
 
 
 > [!warning] 效度、推断与外部批判
@@ -297,7 +298,7 @@ updated: '2026-05-18'
 ## 相关方法
 
 
-- [[Intervention Research]] — RCT 是干预研究的[[Random Assignment|随机分配]]版本；Brady et al. (2023) 将二者区分编码，以显示"有自[[Variable|变量]]操纵"和"有随机分配"不是同一层证据要求（Brady et al., 2023, p.4）。
+- [[Intervention Research]] — RCT 是干预研究的[[Random Assignment|随机分配]]版本；Brady et al. (2023) 将二者区分[[Coding in Qualitative Research|编码]]，以显示"有自[[Variable|变量]]操纵"和"有随机分配"不是同一层证据要求（Brady et al., 2023, p.4）。
 - [[Non-intervention Research]] — 非干预研究不操纵自变量；Brady et al. (2023) 以 RCT/[[Experimental Research|实验研究]]作为对照，批评非干预研究中强[[Recommendations for Practice|实践建议]]的因果证据不足（Brady et al., 2023, pp.3-4, 9）。
 - [[Observational and Correlational Research]] — 观察/相关研究可生成干预假设，但没有随机分配和变量操纵；Brady et al. (2023) 的趋势数据表明，此类研究中的 RFP 比例持续上升（Brady et al., 2023, pp.6-7）。
 

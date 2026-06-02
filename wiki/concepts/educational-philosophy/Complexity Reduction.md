@@ -16,6 +16,7 @@ related_concepts:
   - "[[Atomisation of Knowledge and Skills]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
+  - "[[Analytic Framework]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods:
@@ -109,7 +110,7 @@ updated: '2026-05-18'
 > - **Biesta 的立场**：概念的广度恰恰是其力量所在——它揭示了 Latour 计量学的教育机制，即"运作的社会技术"的完整图景。（Biesta, 2010, pp. 497–499）
 > - **批评者的立场**：概念过于包容以致失去区分力——可能更适合作为"宏观隐喻"而非"分析工具"。
 >
-> **目前状态**：持续争论；概念在教育哲学领域中继续被使用但较少作为操作性分析框架。
+> **目前状态**：持续争论；概念在教育哲学领域中继续被使用但较少作为操作性[[Analytic Framework|分析框架]]。
 
 
 > [!warning] "减少选项"是否总是权力行使？
