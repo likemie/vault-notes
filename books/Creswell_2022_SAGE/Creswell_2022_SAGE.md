@@ -106,7 +106,6 @@ extracted_to:
   - "[[Purposeful Sampling]]"
   - "[[Qualitative Documents]]"
   - "[[Qualitative Interview]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Data Transformation in Mixed Methods]]"
   - "[[Integration Statement]]"
   - "[[Integration in Mixed Methods]]"
@@ -121,6 +120,7 @@ extracted_to:
   - "[[Mixed Methods Evaluation Design]]"
   - "[[Mixed Methods Experimental Design]]"
   - "[[Mixed Methods Participatory-Social Justice Design]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 processed_date: 2026-05-30
 ---
 
