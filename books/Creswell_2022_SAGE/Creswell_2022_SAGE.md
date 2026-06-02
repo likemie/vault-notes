@@ -143,9 +143,9 @@ extracted_to:
   - "[[J. David Creswell]]"
   - "[[John W. Creswell]]"
   - "[[Open-Ended and Closed-Ended Data]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Integration Statement]]"
   - "[[Mixed Methods Research]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 processed_date: 2026-05-30
 ---
 

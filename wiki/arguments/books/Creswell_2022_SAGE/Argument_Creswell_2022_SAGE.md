@@ -54,6 +54,7 @@ related_concepts:
   - "[[Integration Statement]]"
   - "[[Variable]]"
   - "[[Research Topic]]"
+  - "[[Multiplicity]]"
   - "[[Construct]]"
   - "[[Scale of Measurement]]"
   - "[[Theoretical End Point]]"
@@ -68,11 +69,14 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Response Bias]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
+  - "[[Confidence Interval]]"
+  - "[[Effect Size]]"
   - "[[Manipulation Check]]"
   - "[[Blinding]]"
   - "[[Cover Story]]"
   - "[[Experimenter Bias]]"
   - "[[Analytic Framework]]"
+  - "[[Saturation]]"
   - "[[Gatekeepers]]"
   - "[[Probes]]"
   - "[[Simultaneous Procedures]]"
@@ -85,11 +89,6 @@ related_concepts:
   - "[[Multimethod Research]]"
   - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Data Transformation in Mixed Methods]]"
-  - "[[Saturation]]"
-  - "[[Multiplicity]]"
-  - "[[Champ]]"
-  - "[[Confidence Interval]]"
-  - "[[Effect Size]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Attribution Theory]]"
@@ -118,6 +117,8 @@ related_methods:
   - "[[Causal Modeling]]"
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
+  - "[[Case Study]]"
+  - "[[Explanatory Sequential Design]]"
   - "[[Pilot Testing]]"
   - "[[t-test]]"
   - "[[Multiple Regression]]"
@@ -131,9 +132,7 @@ related_methods:
   - "[[Observation Protocol]]"
   - "[[Qualitative Computer Software]]"
   - "[[In-depth Interview]]"
-  - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
-  - "[[Case Study]]"
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
@@ -187,7 +186,7 @@ updated: 2026-06-01
 
 > [!quote]
 > “本书提出了一套框架、过程和写作方法，用于在人类科学、健康科学和社会科学领域设计质性、量化和混合方法研究计划或项目。”
-> ("This book advances a framework, a process, and compositional approaches for designing a proposal or research project for qualitative, quantitative, and mixed methods research in the human, health, and social sciences.")（前言）
+> ("This book advances a framework, a process, and compositional approaches for designing a proposal or research project for qualitative, quantitative, and [[Mixed Methods Research]] in the human, health, and social sciences.")（前言）
 
 教材面向需要撰写期刊论文、学位论文、开题报告或资助申请的学生和教师，也可作为研究方法课程的教材和参考书。书中术语在正文中高亮，书末附有术语表。读者群体广泛，涵盖人文、健康和社会科学的多个领域。
 
@@ -236,16 +235,21 @@ updated: 2026-06-01
 
 第1章建立全书的概念框架，回答一个核心问题：研究者如何选择适合自己的研究路径？答案涉及四个层次的分析——从最底层的基本信念，到中间层的研究设计类型，再到最上层的具体操作技术，最后统合为三条完整的研究路径，并依据研究问题、个人背景和受众做出最终选择。
 
-![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-figure-1.jpg)
+> [!example]- 图1.1：研究框架——世界观、设计与研究方法的互联
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-figure-1.jpg)
 
-**第一层：核心术语。** 研究路径（Research Approach，亦称方法论 Methodology）是从宽泛的哲学假设到具体的数据收集、分析和解释的完整程序。四个关键术语被组织为从宽到窄的层级关系：
+图 1.1 呈现了全书的组织框架：哲学世界观、研究设计、研究方法三者相互连接，共同构成研究路径。世界观（[[Postpositivism|后实证主义]]、[[Constructivist Paradigm|建构主义]]、[[Transformative Paradigm|变革主义]]、[[Pragmatic Paradigm|实用主义]]）位于顶层，向下连接具体的设计类型（量化实验/调查、质性民族志/现象学等、混合方法序列/聚敛式），底层是数据收集、分析和解释的具体方法。
 
-| 术语 | 定义 |
-|---|---|
-| 哲学假设（Philosophical Assumptions） | 研究开始前，研究者带入研究过程的一组信念和价值观。它们源自个人在特定学科的训练、先前的研究经验和文化环境，强调研究者认为在研究中最重要的东西。 |
-| 研究路径（Research Approach） | 亦称研究方法论，代表历史上出现的不同类型的研究。三种宽泛的方法论分别是：量化、质性和混合方法。 |
-| 研究设计（Research Design） | 在宽泛方法论之内开展研究的具体方式。每种设计有其特定的研究操作程序。 |
-| 研究方法（Research Methods） | 在特定设计内，研究者收集数据、分析数据并解释其意义的具体技术。 |
+**第一层：四个核心术语。** 研究路径（Research Approach，亦称方法论 Methodology）是从宽泛的哲学假设到具体的数据收集、分析和解释的完整程序。表 1.1 给出四个关键术语的完整定义——从最抽象的信念层到最具体的技术层：
+
+> [!abstract] 表1.1：关键术语及其在本章中的定义（Key Terms and Their Definitions as Used in This Chapter）
+>
+> | 术语 | 定义 |
+> |---|---|
+> | **哲学假设**（Philosophical Assumptions） | 研究开始前，研究者带入研究过程的一组信念和价值观，强调研究者认为在研究中最重要的东西。哲学假设源自个人在特定学科或研究领域的训练（如心理学），也来自先前的研究经验和个体的文化环境。 |
+> | **研究路径**（Research Approach） | 与研究方法论（Research Methodology）同义，代表历史上出现的不同类型的研究。本章呈现三种宽泛的方法论：量化（quantitative）、质性（qualitative）和混合方法（mixed methods）。 |
+> | **研究设计**（Research Design） | 在宽泛方法论之内开展研究的具体方式。宽泛的方法论可细分为不同类型的设计，每种设计有其特定的研究操作程序。 |
+> | **研究方法**（Research Methods） | 在特定设计内，研究者收集数据、分析数据并解释其意义的具体技术。 |
 
 > [!quote]
 > “尽管哲学观念在研究中很大程度上是隐藏的，但它们仍然影响着研究实践，需要被识别出来。”
@@ -292,27 +296,34 @@ updated: 2026-06-01
 - [[Transformative Paradigm|变革主义]] 产生于 1980–90 年代，由认为后实证主义无法适应边缘群体需求的研究者推动。研究必须与政治变革议程交织，以对抗社会压迫、赋权边缘群体为核心。研究者与参与者合作，为参与者发声（Mertens, 2010）。涵盖批判理论、女性主义、参与式行动研究、原住民方法论等群体。
 - [[Pragmatic Paradigm|实用主义]] 源自 Peirce、James、Mead、[[John Dewey|Dewey]]。不以任何单一哲学体系为皈依，关注"什么有效"——以研究问题为中心，自由选择最能满足目的的方法。真理是当下有效的，研究始终发生在社会历史情境中。它是混合方法研究的主导哲学。
 
-| 后实证主义 | 建构主义 | 变革主义 | [[Pragmatism in China\|实用主义]] |
-|---|---|---|---|
-| 决定论 | 理解 | 政治性 | 关注行动后果 |
-| 还原论 | 多元参与者意义 | 权力与正义导向 | 问题中心 |
-| 经验观察与测量 | 社会与历史建构 | 合作性 | 多元主义 |
-| 理论验证 | 理论生成 | 变革导向 | 现实世界实践导向 |
+> [!abstract] 表1.2：四种世界观（Four Worldviews）
+>
+> | 维度 | [[Postpositivism\|后实证主义]] | [[Constructivist Paradigm\|建构主义]] | [[Transformative Paradigm\|变革主义]] | [[Pragmatic Paradigm\|实用主义]] |
+> |---|---|---|---|---|
+> | **核心信念** | 决定论：原因可能决定结果；还原论：将观念缩约为小的离散集进行检验 | 理解：个体寻求对生活世界的理解；主观意义通过社会和历史互动形成 | 政治性：研究必须与政治议程交织以对抗社会压迫 | 关注行动后果：以"什么有效"和问题解决为核心 |
+> | **知识观** | 知识是推测性的，绝对真理无法被找到；证据总是不完美的 | 意义是多样的、多元的；研究者寻找复杂性而非窄化范畴 | 研究应为边缘群体发声，提升意识，推进变革 | 真理是当下有效的；不基于心灵独立与心灵内部的双重性 |
+> | **方法论倾向** | 量化为主：从理论出发→收集数据→支持或反驳→修正再检验 | 质性为主：归纳式，从数据中生成意义模式，不预设理论 | 质性或混合：研究者与参与者协作，参与者可参与问题设计、数据收集和分析 | 混合方法：以研究问题为中心，自由选择最适合目的的方法 |
+> | **思想来源** | 19 世纪 Comte, Mill, Durkheim, Newton, Locke；Phillips & Burbules (2000) | Berger & Luckmann (1967)；Lincoln & Guba (1985)；Crotty (1998) | Marx, Adorno, Marcuse, Habermas, [[Paulo Freire\|Freire]]；Fay (1987)；Mertens (2009, 2010) | Peirce, James, Mead, Dewey；Cherryholmes (1992)；Morgan (2007) |
+> | **研究者姿态** | 客观性：必须审查方法和结论中的偏差；信效度标准重要 | 自我定位：承认自身背景塑造解释；在研究中定位自身 | 合作性：不进一步边缘化参与者；提供发声和变革议程 | 自由选择：不受制于任一哲学体系；多元方法收集数据 |
+> | **典型应用** | [[Experimental Research\|实验研究]]、[[Survey Research\|调查研究]] | 民族志、现象学、扎根理论、叙事研究 | 参与式行动研究、批判民族志、女性主义研究 | 混合方法研究 |
 
 > [!abstract] 世界观与方法论的对应
 > 四种世界观各自倾向于某种研究路径：后实证主义 → 量化，建构主义 → 质性，变革主义 → 质性或混合方法，实用主义 → 混合方法。这一对应反映了各路径的典型哲学倾向，并非强制锁定。
 
 ---
 
-**第四层：研究设计类型。** 在每种方法论之下，有若干具体的研究设计可供选择。以下仅列出全书后续将重点讨论的类型。
+**第四层：研究设计类型。** 在每种方法论之下，有若干具体的研究设计可供选择。表 1.3 列出全书后续将重点讨论的类型（详见第 8–10 章）。
 
-| 量化设计 | 质性设计 | 混合方法设计 |
-|---|---|---|
-| 实验与准实验 | 叙事研究 | 聚敛式 |
-| 单受试者 | 现象学 | 解释性序列 |
-| 非实验（如调查） | 扎根理论 | 探索性序列 |
-| 纵向研究 | 民族志 | 含嵌入核心设计的复杂设计 |
-| [[Qualitative Research\|描述性方法]] | 案例研究 | |
+> [!abstract] 表1.3：替代性研究设计（Alternative Research Designs）
+>
+> | 量化设计（Quantitative Designs） | 质性设计（Qualitative Designs） | 混合方法设计（Mixed Methods Designs） |
+> |---|---|---|
+> | 实验与准实验（Experimental and quasi-experimental） | [[Qualitative Research\|描述性方法]]（Descriptive method） | [[Convergent Design\|聚敛式]]（Convergent） |
+> | [[Single-Subject Design\|单受试者]]（Single-subject） | [[Narrative Research\|叙事研究]]（Narrative research） | [[Explanatory Sequential Design\|解释性序列]]（Explanatory sequential） |
+> | 非实验（如调查）（Nonexperimental such as surveys） | [[Phenomenology\|现象学]]（Phenomenology） | [[Exploratory Sequential Design\|探索性序列]]（Exploratory sequential） |
+> | 纵向研究（Longitudinal） | [[Grounded Theory\|扎根理论]]（Grounded theory） | [[Mixed Methods Research\|复杂设计]]（Complex designs with embedded core designs） |
+> | | [[Ethnography\|民族志]]（Ethnography） | |
+> | | [[Case Study\|案例研究]]（Case study） | |
 
 量化设计中，[[Survey Research|调查研究]]通过问卷或结构化访谈从样本收集数据以推广至总体（Fowler, 2008）。[[Experimental Research|实验研究]]通过[[Random Assignment|随机分配]]处理条件并比较组间差异来检验因果效应（Keppel, 1991），真实验使用随机分配，准实验使用非随机分配，[[Single-Subject Design|单受试者设计]]在时间维度上对少数个体施加和撤销处理（Cooper et al., 2007）。
 
@@ -322,18 +333,28 @@ updated: 2026-06-01
 
 ---
 
-**第五层：研究方法与数据。** 具体的数据收集、分析和解释技术构成一个从预设到涌现的连续谱。量化方法使用预设的、基于工具的问题和数值数据分析；质性方法使用开放的、涌现的问题和文本或图像分析；混合方法兼用两者，在整合两种数据库的基础上做出跨库推论。
+**第五层：研究方法与数据。** 具体的数据收集、分析和解释技术构成一个从预设到涌现的连续谱。表 1.4 将量化、混合和质性方法沿五个维度并排对比：
 
-![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-1-table-4.jpg)
+> [!abstract] 表1.4：量化、混合与质性方法（Quantitative, Mixed, and Qualitative Methods）
+>
+> | 维度 | 量化方法（Quantitative Methods） | 混合方法（Mixed Methods） | 质性方法（Qualitative Methods） |
+> |---|---|---|---|
+> | **问题类型** | 预设的（Predetermined） | 预设与涌现兼有 | 涌现的（Emerging） |
+> | **提问方式** | 基于工具的封闭式问题 | 开放与封闭兼有 | 开放式问题 |
+> | **数据形式** | 表现数据、态度数据、观察数据、人口统计数据 | 利用所有可能性的多种数据形式 | 访谈数据、观察数据、[[Qualitative Documents\|文件数据]]、视听数据 |
+> | **分析方式** | 统计分析 | 统计分析与文本分析 | 文本与图像分析 |
+> | **解释方式** | 统计解释 | 跨数据库解释 | 主题、模式与解释 |
 
-将以上五层统合，可以形成三条完整研究路径的对照框架：
+将以上五层统合为三条完整研究路径的对照框架。表 1.5 从哲学假设、研究设计、研究方法和研究实践四个维度进行系统对比：
 
-| 维度 | 质性路径 | 量化路径 | 混合方法路径 |
-|---|---|---|---|
-| 哲学假设 | 建构主义/变革主义 | 后实证主义 | 实用主义 |
-| 研究设计 | 现象学、扎根理论、民族志、案例研究、叙事 | 调查、实验 | 序列式、聚敛式、复杂设计 |
-| 研究方法 | 开放问题、涌现式、文本或图像数据 | 封闭问题、预设式、数值数据 | 开放与封闭兼有、多形式数据 |
-| 研究实践 | 自我定位、收集参与者意义、聚焦单一现象、情境研究、文本分析 | 检验理论、识别变量、使用信效度标准、数值测量、统计程序 | 收集两类数据、说明混合理由、在不同阶段整合数据、呈现程序图示 |
+> [!abstract] 表1.5：质性、量化与混合方法路径（Qualitative, Quantitative, and Mixed Methods Approaches）
+>
+> | 维度 | 质性路径（Qualitative Approaches） | 量化路径（Quantitative Approaches） | 混合方法路径（Mixed Methods Approaches） |
+> |---|---|---|---|
+> | **哲学假设** | 建构主义/变革主义知识主张 | 后实证主义知识主张 | 实用主义知识主张 |
+> | **研究设计** | 现象学、扎根理论、民族志、案例研究、叙事 | 调查、实验（真实验、准实验、单受试者） | 序列式、聚敛式、复杂设计 |
+> | **研究方法** | 开放问题、涌现式、文本或图像数据 | 封闭问题、预设式、数值数据（可含部分开放问题） | 开放与封闭兼有、涌现与预设兼有、量化与质性数据及分析兼有 |
+> | **研究实践** | 定位自身；收集参与者意义；聚焦单一概念或现象；将个人价值带入研究；研究参与者情境；验证发现的准确性；解释数据；创建变革议程；与参与者合作；使用文本分析程序 | 检验或验证理论或解释；识别待研究的变量；在研究问题或假设中关联变量；使用信效度标准；以数值方式观察和测量信息；使用无偏方法；使用统计程序 | 收集量化与质性两类数据；建立混合的理由；在研究的不同阶段整合数据；呈现研究程序的视觉图示；同时使用质性和量化研究的实践 |
 
 ---
 
@@ -413,9 +434,13 @@ updated: 2026-06-01
 > “在质性研究中，除非设计类型要求在开始时就有大量的文献导向，否则在开头应少量使用文献，以传达一种归纳性的设计。”
 > ("In qualitative research, use the literature sparingly in the beginning to convey an inductive design unless the design type requires a substantial literature orientation at the outset.")（第2章）
 
-> [!example]- 图片占位
-> 表2.1：质性研究中文献的使用方式  
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_2-1_Using_Literature_in_Qualitative_Study.jpg)
+> [!abstract] 表2.1：质性研究中文献的使用方式（Using Literature in a Qualitative Study）
+>
+> | 文献的使用方式（Use of the Literature） | 适用条件（Criteria） | 适合的策略类型（Examples of Suitable Strategy Types） |
+> |---|---|---|
+> | 文献在引言中为研究问题提供框架 | 必须有可用的文献 | 通常所有类型的质性研究均可使用 |
+> | 文献以独立章节呈现 | 对熟悉传统后实证主义文献综述方式的受众较为可接受 | 有较强量化取向的研究者偏好此方式 |
+> | 文献置于研究末尾，作为比较和对照质性研究发现的基础 | 最适合质性研究的归纳过程；文献不引导和指导研究，而是在模式或类别被识别后成为辅助工具 | 有较强质性取向的研究者偏好此方式 |
 
 三种位置对应不同认识论立场，选择本质上取决于受众。此外，质性研究内部也不统一——理论导向的设计（民族志、批判民族志）在开头引入文献框架，而扎根理论、案例研究和现象学则较少在开头使用文献。
 
@@ -425,7 +450,10 @@ updated: 2026-06-01
 
 ---
 
-**第六步：加工文献。** [[Abstract|文献摘要]]区分实证与非实证研究的不同要素，是"读文献"到"写综述"的桥梁。[[Literature Map|文献地图]]是一种论证装置，底部的"Need to Study"框与上方文献分支之间的连线，本身就是对"本研究为何必要"的视觉论证。
+**第六步：加工文献。** [[Abstract|文献摘要]]区分实证与非实证研究的不同要素，是"读文献"到"写综述"的桥梁。[[Literature Map|文献地图]]是一种论证装置，以层级结构（或流程图、圆圈交叉图）将已有文献组织为视觉图示。研究者从顶部宽泛主题出发，向下分为若干子主题和子子主题，底部放置"Need to Study"框标识计划研究的位置，并用连线表示计划研究将延伸哪个分支。图 2.1 以 Janovec (2001) 关于组织程序公正的文献地图为例展示这一结构。
+
+> [!example]- 图2.1：文献地图示例（An Example of a Literature Map）
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_2-1_Literature_Map.jpg)
 
 ---
 
