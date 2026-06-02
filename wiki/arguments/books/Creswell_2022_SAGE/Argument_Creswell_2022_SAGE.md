@@ -528,8 +528,7 @@ updated: 2026-06-01
 
 关于**理论在量化研究中的位置**，量化研究以**演绎方式**使用理论，将理论置于研究方案的前端。
 
-> [!example]- 图片占位
-> 图3.4 The Deductive Approach Typically Used in Quantitative Research
+> [!example]- The Deductive Approach Typically Used in Quantitative Research
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-4_Deductive_Approach.jpg)
 
 演绎模型（图 3.4）的四阶段是：研究者检验或验证理论 → 从理论推导假设或研究问题 → 定义并操作化变量 → 使用工具测量变量以检验假设。
@@ -563,8 +562,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 > “质性研究是一个归纳的过程，从数据建构出广泛的主题，再建构出普遍化的模型或理论。”
 > ("Qualitative research is an inductive process building from data, to broad themes, and to a generalized model or theory.")（第3章, p.66）
 
-> [!example]- 图片占位
-> 图3.5 The Inductive Logic of Research in a Qualitative Study
+> [!example]- The Inductive Logic of Research in a Qualitative Study
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-5_Inductive_Logic_Research.jpg)
 
 归纳逻辑（图 3.5）从下往上依次是：收集详细信息 → 提出开放问题或记录田野笔记 → 分析数据形成主题或类别 → 寻找广泛的模式、概括或理论 → 基于过去经验和文献提出概括或理论。

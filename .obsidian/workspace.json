@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -191,6 +191,7 @@
   },
   "active": "1791179813da6e37",
   "lastOpenFiles": [
+    "raw/006_Chapter 1 The Selection of a Research Approach.txt",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md.tmp.56605.256fccc2b3b5",
     "wiki/methods/mixed/Mixed Methods Research.md",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
@@ -225,7 +226,6 @@
     "books/Zheng_2023_ShanghaiSanlian/金榜题名之后_大学生出路分化之谜.epub",
     "wiki/methods/qualitative/Coding in Qualitative Research.md.tmp.14203.9435dde1197f",
     "fix_authors.py",
-    "files_to_fix.txt",
-    "wiki/concepts/research-methodology/Analytic Framework.md.tmp.14203.f5158145bb1d"
+    "files_to_fix.txt"
   ]
 }
