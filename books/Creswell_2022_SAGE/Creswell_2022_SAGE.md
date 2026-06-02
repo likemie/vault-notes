@@ -126,7 +126,6 @@ extracted_to:
   - "[[Mixed Methods Evaluation Design]]"
   - "[[Mixed Methods Experimental Design]]"
   - "[[Mixed Methods Participatory-Social Justice Design]]"
-  - "[[Mixed Methods Research]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Case Study]]"
   - "[[Ethnography]]"
@@ -146,6 +145,7 @@ extracted_to:
   - "[[Egon G. Guba]]"
   - "[[J. David Creswell]]"
   - "[[John W. Creswell]]"
+  - "[[Mixed Methods Research]]"
 processed_date: 2026-05-30
 ---
 

@@ -68,7 +68,23 @@ updated: 2026-06-02
 
 ## 与多方法研究的区别
 
-[[Multimethod Research|多方法研究]]（Multimethod Research）收集多种量化来源或多种质性来源，但不同时包含两类数据，也不进行跨类型[[Integration in Mixed Methods|整合]]。混合方法研究的标志性特征是同时收集量化和质性两种数据并加以整合。详见 [[Multimethod Research]] 条目。
+Creswell & Creswell (2022, p.232) 明确区分了混合方法研究和[[Multimethod Research|多方法研究]]（Multimethod Research）：
+
+> [!info] 核心区分标准
+> - **多方法研究**（Multimethod Research）指收集多种量化数据来源或多种质性数据来源，但不同时包含量化和质性数据。例如，一项研究同时使用问卷调查和官方统计数据（两种都是量化来源），或同时使用访谈和观察（两种都是质性来源）——这些都是多方法研究，但不是混合方法研究。
+> - **混合方法研究**（Mixed Methods Research）的核心标志是同时收集量化（封闭式）和质性（开放式）两种数据，并且将两者[[Integration in Mixed Methods|整合]]。两种数据提供不同类型的信息来回答[[Research Question|研究问题]]。
+
+区分两种方法的关键不在于数据来源的数量，而在于数据**类型**的跨度：
+
+> [!abstract] 判断标准
+> - 收集 N 种量化数据来源 → [[Multimethod Research|多方法研究]]
+> - 收集 N 种质性数据来源 → [[Multimethod Research|多方法研究]]
+> - 收集至少一种量化数据来源 + 至少一种质性数据来源，并加以**[[Integration in Mixed Methods|整合]]** → 混合方法研究
+>
+> 如果不进行整合，即使一项研究同时收集了量化和质性数据，也不是完整的混合方法研究——[[Integration in Mixed Methods|整合]]是混合方法的核心定义性特征之一。
+
+> [!warning] 术语混淆
+> 在混合方法研究发展的早期文献中，multimethod 和 mixed methods 曾被混用。其他文献中也出现过 integrating、synthesis、quantitative and qualitative methods、multimethod、mixed research 或 mixed methodology 等替代术语，但"mixed methods"一词已在领域内通过大量著作获得了最广泛的认可，而"multimethod"则被明确定义为不跨数据类型的研究（Creswell & Creswell, 2022, p.232）。
 
 ## 定义性特征
 
