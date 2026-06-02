@@ -1191,6 +1191,16 @@
     ]
   },
   {
+    "title": "Academic Health System",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Academic Health System.md",
+    "aliases": [
+      "学术健康系统",
+      "academic health system",
+      "AHS"
+    ]
+  },
+  {
     "title": "Academic Oligarchy",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Academic Oligarchy.md",
@@ -1691,6 +1701,16 @@
     ]
   },
   {
+    "title": "Physician-Scientist",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Physician-Scientist.md",
+    "aliases": [
+      "医师科学家",
+      "physician scientist",
+      "physician-scientists"
+    ]
+  },
+  {
     "title": "Placemaking",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Placemaking.md",
@@ -1876,6 +1896,15 @@
       "T型技能",
       "T-shaped competencies",
       "T型能力"
+    ]
+  },
+  {
+    "title": "Team Science",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Team Science.md",
+    "aliases": [
+      "团队科学",
+      "team science"
     ]
   },
   {
@@ -4834,6 +4863,16 @@
     ]
   },
   {
+    "title": "King-Persily Model",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/King-Persily Model.md",
+    "aliases": [
+      "金-珀斯利模型",
+      "King Persily model",
+      "King-Persily 模型"
+    ]
+  },
+  {
     "title": "Network Society",
     "type": "theory",
     "path": "wiki/theories/higher-education/Network Society.md",
@@ -4863,6 +4902,15 @@
       "三重螺旋模型",
       "大学产业政府三重螺旋",
       "Triple Helix model"
+    ]
+  },
+  {
+    "title": "Values Alignment Model",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Values Alignment Model.md",
+    "aliases": [
+      "价值对齐模型",
+      "values alignment model"
     ]
   },
   {
@@ -8993,6 +9041,11 @@
     "title": "Argument_Narayan_Spohrer_2025_Metrics",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md"
+  },
+  {
+    "title": "Argument_Swick_Jones_2025_AcademicHealthSystems",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Swick_Jones_2025_AcademicHealthSystems.md"
   },
   {
     "title": "Argument_Ulrichsen_2025_UIR_Evolution",

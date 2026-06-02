@@ -12,6 +12,11 @@ extracted_to:
   - "[[Smith Lever Act of 1914]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
+  - "[[Academic Health System]]"
+  - "[[Physician-Scientist]]"
+  - "[[Team Science]]"
+  - "[[King-Persily Model]]"
+  - "[[Values Alignment Model]]"
 processed_date: 2026-05-27
 ---
 
@@ -28,3 +33,4 @@ processed_date: 2026-05-27
 - [[Argument_Byrne_2025_InnovationCenters]]
 - [[Argument_Gilison_Wilson_2025_UniversityStartups]]
 - [[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]
+- [[Argument_Swick_Jones_2025_AcademicHealthSystems]]

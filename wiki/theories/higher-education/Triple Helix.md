@@ -158,9 +158,17 @@ updated: 2026-05-26
 
 ---
 
+## 学术健康系统视角下的 Triple Helix
+
+> [!note]
+> Swick 和 Jones（2025, p.188）从学术健康系统的视角对 Triple Helix 提出了一个修正性看法：在学术健康系统的运作中，政府更多扮演的是制定法律和标准的**监管者**角色，而非合作伙伴——"government entities function more as the operating bodies that codify and set forth regulations and standards"（p.188）。例外情况包括政府机构通过竞争性合同资助研究时，政府才更接近合作伙伴形态。
+
+> 该章还提出了 Triple Helix 的一种适应性构想：将学术健康系统本身视为 Triple Helix 中的第三方——即替代政府位置——尽管需要一些修改。这反映了学术机构内部组织形式的多样性对 Triple Helix 理论框架提出的补充。
+
 ## 来源
 
 - [[Ch1_Boccanfuso_Hall_2025]]
 - [[Ch2_Ulrichsen_2025]]
 - [[Ch3_Boccanfuso_Hall_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]
+- [[Ch10_Swick_Jones_2025]]
