@@ -2,7 +2,6 @@
 citation: "Boccanfuso, A., & Hall, R. (2025). Organization and Strategy for University-Industry Relationships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 51–71). Springer."
 extracted_to:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[Academic Engagement]]"
   - "[[Boundary Spanner]]"
   - "[[Concierge Service]]"
   - "[[Entrepreneurial University]]"
@@ -15,10 +14,11 @@ extracted_to:
   - "[[Partnership Continuum]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
-  - "[[Industry Affiliate Program]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Academic Engagement]]"
+  - "[[Industry Affiliate Program]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

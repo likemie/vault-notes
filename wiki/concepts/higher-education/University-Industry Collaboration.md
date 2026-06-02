@@ -265,7 +265,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 2. **经济发展/政府关系模式（Economic Development/Government Relations）**：面向催化经济活动的政府关系，多见于公立大学，聚焦[[Innovation Hub|创新中心]]、商业园区、小企业支持和地方/州政府伙伴关系（约 3%）
 3. **企业/基金会关系模式（Corporate/Foundation Relations）**：设在大学发展/筹资部门，帮助营利和非营利组织在科研、赞助、[[Executive Education|高管教育]]、志愿服务和技术创新等方面导航（约 17%）
 4. **伙伴关系模式（Partnerships, Corporate + Non-Corporate）**：管理与外部实体的战略伙伴关系，广泛导航但通常聚焦经济发展、商业化和创新（约 26%）
-5. **全面模式（Comprehensive, Spanning Missions）**：设立集中的企业关系办公室，以礼宾角色引导企业在多个领域与大学互动，整合捐赠、合同、教育、研究和经济发展（约 26%）
+5. **全面模式（Comprehensive, Spanning Missions）**：设立集中的企业关系办公室，以[[Concierge Service|礼宾]]角色引导企业在多个领域与大学互动，整合捐赠、合同、教育、研究和经济发展（约 26%）
 
 另有少数大学完全去中心化，没有集中办公室。
 
@@ -274,7 +274,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 
 调查还发现，大学和企业双方共同重视"互利关系"（超过 80% 受访者选择）、灵活克服障碍和礼宾服务。企业的特别诉求包括灵活的知识产权政策和专注于特定行业（而非学术学科）的大学伙伴关系经理（Boccanfuso & Hall, 2025, pp.67–68）。
 
-> [!note] 学术健康系统：组织模式的补充
+> [!note] [[Academic Health System|学术健康系统]]：组织模式的补充
 > Swick 和 Jones（2025, pp.179–181）在传统五种大学组织模式之外，识别了[[Academic Health System|学术健康系统]]（Academic Health System, AHS）作为一种独特的产学合作组织载体。AHS 混合了学术、临床和产业三种逻辑，以"中心辐射"网络和双向学术管线为结构特征，在产学合作中扮演促进者（facilitator）而非仅仅是参与者。这一组织形态突破了前述五种模式的分类框架（均以大学为中心），提示产学合作的组织载体可能不限于传统的大学结构。详见 [[Academic Health System]]。
 
 ---

@@ -1624,6 +1624,18 @@
     ]
   },
   {
+    "title": "Joint Ownership of IP",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Joint Ownership of IP.md",
+    "aliases": [
+      "知识产权共同所有",
+      "joint IP ownership",
+      "jointly owned IP",
+      "共同所有知识产权",
+      "co-ownership of IP"
+    ]
+  },
+  {
     "title": "Knowledge Exchange",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Knowledge Exchange.md",
@@ -1926,6 +1938,18 @@
     "aliases": [
       "高等教育空间制造",
       "space-making"
+    ]
+  },
+  {
+    "title": "Sponsored Research Agreement",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Sponsored Research Agreement.md",
+    "aliases": [
+      "SRA",
+      "赞助研究协议",
+      "sponsored research",
+      "sponsored research agreement",
+      "委托研究协议"
     ]
   },
   {
@@ -9123,6 +9147,16 @@
       "WWC SCD Pilot Standards 2010",
       "WWC单一个案设计试行标准",
       "WWC SCD标准"
+    ]
+  },
+  {
+    "title": "MN-IP Create",
+    "type": "fact",
+    "path": "wiki/facts/us/MN-IP Create.md",
+    "aliases": [
+      "MN-IP Create",
+      "明尼苏达大学IP创新计划",
+      "University of Minnesota MN-IP Create"
     ]
   },
   {

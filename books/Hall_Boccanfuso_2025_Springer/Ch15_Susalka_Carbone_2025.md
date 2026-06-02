@@ -7,6 +7,9 @@ extracted_to:
   - "[[Pre-negotiated IP Rights]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
+  - "[[Joint Ownership of IP]]"
+  - "[[Sponsored Research Agreement]]"
+  - "[[MN-IP Create]]"
 processed_date: 2026-06-03
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---

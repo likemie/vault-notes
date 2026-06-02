@@ -4,7 +4,6 @@ extracted_to:
   - "[[Use-Inspired Basic Research]]"
   - "[[Triple Helix]]"
   - "[[Transnational Research Collaboration]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Nagoya Protocol]]"
   - "[[African Orphan Crops Consortium]]"
   - "[[Innovation Institute for Food and Health]]"
@@ -14,6 +13,7 @@ extracted_to:
   - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
   - "[[Pre-negotiated IP Rights]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---

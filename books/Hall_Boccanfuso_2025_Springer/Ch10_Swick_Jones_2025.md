@@ -14,8 +14,8 @@ extracted_to:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Values Alignment Model]]"
   - "[[Triple Helix]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Return on Investment]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

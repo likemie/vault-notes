@@ -12,9 +12,9 @@ extracted_to:
   - "[[Systems of Innovation]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Triple Helix]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Technology Transfer]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

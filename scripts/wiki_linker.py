@@ -35,6 +35,7 @@ URL_RE = re.compile(r"https?://\S+|doi:\s*\S+|10\.\d{4,9}/\S+", re.IGNORECASE)
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 SOURCE_SECTION_NAMES = {"来源", "sources", "source"}
 
+CALLOUT_MARKER_RE = re.compile(r"^(?:>\s*)+\[![^\]\s]+(?:\]\])?\]")
 TABLE_SEPARATOR_RE = re.compile(r"^\s*\|?\s*:?-{3,}:?\s*(?:\|\s*:?-{3,}:?\s*)+\|?\s*$")
 TABLE_UNSAFE_CELL_RE = re.compile(
     r"`|\$|\[\[|\]\]|!?\[[^\]]*\]\([^)]*\)|https?://|doi:\s*\S+|10\.\d{4,9}/\S+|<[^>]+>",
@@ -423,6 +424,15 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
             add(start, end)
         if re.match(r"^#{1,6}\s", stripped):
             add(start, end)
+        # Protect the callout marker itself, e.g. `[!abstract]`, while leaving
+        # the title/content on the line linkable. This supports nested quote
+        # prefixes like `> > [!abstract]`. Otherwise aliases such as "abstract"
+        # can corrupt the marker itself.
+        marker = CALLOUT_MARKER_RE.match(stripped)
+        if marker:
+            marker_start = start + (len(line) - len(stripped)) + marker.start()
+            marker_end = start + (len(line) - len(stripped)) + marker.end()
+            add(marker_start, marker_end)
         if re.match(r"^>\s*\[!quote\]", stripped, re.IGNORECASE):
             in_quote_callout = True
         if in_quote_callout and stripped.startswith(">"):
