@@ -1,0 +1,268 @@
+Chapter 5 The Introduction
+==========================
+
+Chapter 5 The Introduction
+
+Learning Objectives
+
+Construct a good abstract for a study with five key components.
+
+Describe reasons for an introduction’s role as a key feature of a study.
+
+Compare an introduction for a qualitative, quantitative, and mixed methods study.
+
+Describe the four components of a good introduction to a study.
+
+Introduction to a Study
+
+We have discussed how to choose a qualitative, quantitative, or mixed methods approach; conduct a preliminary literature review; and structure the format for a research project. After these preliminary steps, it is important to plan the study and write the plan’s sections. We start by designing an introduction. This chapter begins by discussing the importance of a good introduction. Then we compare the differences in writing an introduction for qualitative, quantitative, and mixed methods studies. Central to writing a good introduction is the structure for organizing it. We present a template for an introduction, called a deficiencies model for an introduction. This model contains four parts, stating: (a) the research problem, (b) evidence from the literature justifying the problem, (c) deficiencies in the evidence, and (d) the importance of the problem for audiences. We call this model a deficiency model because a major component of the introduction establishes the deficiencies in past research. To illustrate this model, we present an example of a study that uses this template.
+
+The Importance of Introductions
+
+An introduction is the first passage in a journal article, dissertation, or scholarly research study. It sets the stage for the entire project. Wilkinson (1991) said the following:
+
+The introduction is the part of the paper that provides readers with the background information for the research reported in the paper. Its purpose is to establish a framework for the research, so that readers can understand how it is related to other research. (p. 96)
+
+The introduction establishes the issue or concern leading to the research by conveying information about a problem. Because it is the initial passage in a study or proposal, it requires special attention. It must create reader interest in the topic, establish the problem that leads to the study, place the study within the larger context of the scholarly literature, and reach out to audiences. These sections need to fit into a concise section of a few pages.
+
+A research problem is the problem or issue that leads to the need for a study. It can originate from many potential sources. It might spring from researchers’ experiences in their personal lives or workplaces or come from debates in the literature. These debates often illustrate a gap in the literature, seek to resolve alternative perspectives, or extend the discussion. Further, the research problem sometimes develops from policy debates in government or among top executives.
+
+Regardless of the source, researchers often state multiple research problems leading to a study.
+
+Stating a clear problem is challenging. First, too often researchers identify what exists in the literature rather than identifying a problem that requires a solution. For example, a researcher could cite the importance of teenage pregnancy by conveying its prevalence. This statement is not a problem. Rather, a problem might be that schools have done a poor job of accommodating pregnant teenagers. We recommend not simply stating the facts about a situation but thinking deeply about the underlying problem that exists.
+
+Second, when authors do not clearly identify the research problem, readers must decide for themselves the importance of the study. If a study starts poorly without a clear problem, the reader may wonder why it is important to examine and cease to read the study to its conclusion. Third, the research problem differs from the research questions. The research problem is a problem or issue, whereas research questions raise questions to be answered by gathering and analyzing data. Fourth, introductions carry the weight of encouraging the reader to read further.
+
+Fortunately, there is a model for writing a good, scholarly introduction. Before introducing this model, it is necessary to briefly discuss the composition of a good abstract that precedes an introduction and then to distinguish subtle differences between introductions for qualitative, quantitative, and mixed methods studies.
+
+An Abstract for a Study
+
+An abstract summarizes the contents of a study and allows readers to identify the essential elements of a project quickly. It is placed at the beginning of studies, and we find abstracts in study proposals, theses, and dissertations. The Publication Manual of the American Psychological Association (American Psychological Association, 2020) states that the abstract can be the most important single paragraph in a study. It needs to be accurate, non-evaluative (by not adding comments beyond the scope of the research), coherent, readable, and concise. Its length varies, and some colleges and universities have requirements for an appropriate length.
+
+The APA Publication Manual guidelines say that most abstracts are about 250 words. The Publication Manual also includes standards for content for abstracts in different paper types. These paper types are empirical, replication, quantitative or qualitative meta-analyses, literature review, theoretical, and methodological articles. We will focus here on the abstract for a proposal for an empirical (data-based) article. We see several major components as part of the abstract, and these would be the same whether the proposal is quantitative, qualitative, or mixed methods. Also, we would present these components in the order that follows:
+
+Start with the issue or problem under investigation. This issue might need more literature or a real-life problem (e.g., reaction to vaccines). Cite a reference or two about this problem, but the abstract is too short to include many references.
+
+Indicate data sources and pertinent characteristics.
+
+State the essential features of the study method (i.e., design, analysis, data gathering, sample size, materials, and whether the methods involve secondary analysis).
+
+Convey the basic findings. For quantitative analysis, include effect sizes, confidence intervals, and statistical significance levels. For qualitative methods, indicate main findings and contexts.
+
+Finish with conclusions and implications or applications of the research findings.
+
+This example illustrates the essential components in an abstract for an empirical (data-based) study. We would add to this list a purpose statement following the problem statement.
+
+Here is an example of a short abstract for a qualitative study that contains all five elements.
+
+The issue that this study addresses is the lack of women in martial arts competitions. To address this problem, the purpose of this study will be exploring motivation of female athletes in Tae Kwon Do competitions. To gather data, interviews with 4 female Tae Kwon Do tournament competitors were conducted. The interviews were transcribed and analyzed. This data leads to the following 3 themes: social support, self-efficacy, and goal orientation. These themes will be useful for understanding the optimal way to increase motivation in female martial artists. (Witte, 2011, personal communication)
+
+Qualitative, Quantitative, and Mixed Methods Introductions
+
+A general review of introductions shows that they follow a similar pattern: the author announces a problem and justifies why it needs to be studied. The type of problem presented in an introduction will vary depending on the approach (see Chapter 1).
+
+Quantitative introductions typically present a set structure. In a quantitative project, problems often arise from a need to understand what factors or variables influence an outcome. For example, in response to worker cutbacks (a problem for all employees), an investigator may seek to discover what factors influence businesses to downsize. Another researcher may seek to understand the high divorce rate among married couples (a problem) and examine whether financial issues contribute to divorce. In both situations, the research problem is one in which understanding the factors that explain or relate to an outcome helps the investigator best understand and explain the problem. In addition, in quantitative introductions, researchers seek to improve and test a theory. As such, an established theory is described, and then literature is described that challenges or extends the theory. A quantitative introduction may be written from an impersonal point of view and use sentences posed in the past tense to convey objectivity.
+
+A qualitative introduction presents a varied structure. In a qualitative project the author will describe a research problem that can best be understood by exploring a concept or phenomenon.
+
+We have suggested that qualitative research is exploratory, and researchers use it to probe a topic when the variables, questions, and theory are unknown. For example, Morse (1991) said:
+
+Characteristics of a qualitative research problem are: (a) the concept is “immature” due to a conspicuous lack of theory and previous research; (b) a notion that the available theory may be inaccurate, inappropriate, incorrect, or biased; (c) a need exists to explore and describe the phenomena and to develop theory; or (d) the nature of the phenomenon may not be suited to quantitative measures. (p. 120)
+
+For example, urban sprawl (a problem) needs exploration because it has not been examined in certain areas of a state. Also, kids in elementary classrooms have anxiety that interferes with learning (a problem), and the best way to explore this problem is to go to schools and visit directly with teachers and students. Some qualitative researchers use a transformative lens to examine the problem (e.g., the inequality of pay among women and men or the racial attitudes involved in profiling drivers on the highways). Thomas (1993) suggested that “critical researchers begin from the premise that all cultural life is in constant tension between control and resistance” (p. 9). This theoretical orientation shapes the structure of an introduction. In some qualitative studies, the approach in the introduction may be more deductive while relying on participants’ perspectives. In addition, qualitative introductions may begin with a personal statement of experiences from the author, such as those found in phenomenological studies (Moustakas, 1994). They may also be written from a personal, first person, subjective point of view in which researchers position themselves in the narrative.
+
+A mixed methods study introduction can employ either the qualitative or the quantitative approach (or some combination) to writing an introduction. In a mixed methods study, the emphasis might tip toward either quantitative or qualitative research, and the introduction will mirror that emphasis. For other mixed methods projects, the emphasis will be equal between qualitative and quantitative research. In this case, the problem may be one in which a need exists to understand the relationship among variables in a situation quantitatively and to explore the topic in further depth qualitatively. A mixed methods problem may indicate that the existing research is primarily quantitative or qualitative, and a need exists to expand the approach to be more inclusive of diverse methodologies. As an example, a mixed methods project may initially seek to explain the relationship between smoking behavior and depression among adolescents, then explore the detailed views of these youth, and display different patterns of smoking and depression. With the first quantitative project phase, the introduction may emphasize a quantitative approach with a theory that predicts this relationship and a substantive review of the literature.
+
+A Model for an Introduction
+
+These differences among approaches are subtle, and they relate largely to the different types of problems addressed in qualitative, quantitative, and mixed methods studies. Regardless of approach, a template for writing an introduction can be useful.
+
+The deficiencies model of an introduction is an approach to writing an introduction to a research study that builds on gaps in the literature. It includes the elements of stating the research problem, reviewing past studies about the problem, indicating deficiencies in these studies, and advancing the significance of the study. It is a general template for writing a good introduction. Our review of research studies shows it to be a popular structure, especially in the social sciences. It appears repeatedly in many published research studies (not always in the order presented here). It comprises four parts, and writers can allocate one paragraph to each part with an introduction totaling about two pages in length.
+
+State the research problem.
+
+Review evidence from literature justifying the problem.
+
+Indicate deficiencies in the evidence.
+
+State the importance of the problem for audiences.
+
+An Illustration of an Introduction
+
+We illustrate how to compose an introduction by citing an example of a qualitative empirical article (adapted from Creswell & Bàez, 2020; Plano Clark et al., 2002). The qualitative study examined teen smoking and depression in one high school. In Table 5.1 we annotate an adapted version of the author’s introduction to present the essential components applicable to a qualitative, quantitative, and mixed methods study.
+
+The Research Problem
+
+In the smoking and depression Plano Clark et al. (2002) article, the opening paragraph introduced the topic of tobacco use and health problems and cited statistical evidence for the prevalence of this problem. Specifically, the first sentence accomplishes important objectives for an introduction: (a) piquing interest in the study and (b) conveying a distinct research problem or issue. What effect did this first sentence have? Would it entice a reader to read on? Was it pitched at a level so that a wide audience could understand it? These sentences are important for opening statements and represent a narrative hook, a term drawn from English composition.
+
+Table 5.1 Illustration of an Introduction to a Study With Annotated Markers of Components
+
+[图片: images/011_Chapter 5 The Introduction/001_10.4135_9781071817988-table8.jpg]
+
+Table 5.1 Illustration of an Introduction to a Study With Annotated Markers of Components
+
+Exploring the Conceptions and Misconceptions of Teen Smoking in High Schools: A Multiple Case Analysis
+
+The Topic
+
+The Research Problem
+
+Tobacco use is a leading cause of cancer in American society (McGinnis & Foefe, 1993). Although smoking among adults has declined in recent years, it has actually increased for adolescents. The Centers for Disease Control and Prevention reported that smoking among high school students had risen from 27.5 percent in 1991 to 34.8 percent in 1995 (USDHHS, 1996). Unless this trend is dramatically reversed, an estimated 5 million of our nation’s children will ultimately die a premature death (Centers for Disease Control and Prevention, 1996).
+
+Evidence from Literature Justifying Problem
+
+Previous research on adolescent tobacco use has focused on four primary topics. Several studies have examined the question of the initiation of smoking by young people, noting that tobacco use initiation begins as early as junior high school (e.g., Heishman et al., 1997). Other studies have focused on the prevention of smoking and tobacco use in schools. This research has led to numerous school-based prevention programs and interventions (e.g., Sussman, Dent, Burton, Stacy, & Flay, 1995). Fewer studies have examined “quit attempts” or cessation of smoking behaviors among adolescents, a distinct contrast to the extensive investigations into adult cessation attempts (Heishman et al., 1997). Of interest, as well, to researchers studying adolescent tobacco use has been the social context and social influence of smoking (Fearnow, Chassin, & Presson, 1998). For example, adolescent smoking may occur in work-related situations, at home where one or more parents or caretakers smoke, at teen social events, or at areas designated as “safe” smoking places near high schools (McVea et al., in press).
+
+Deficiencies in Evidence
+
+Minimal research attention has been directed toward the social context of high schools as a site for examining adolescent tobacco use. During high school, students form peer groups which may contribute to adolescent smoking. Often peers become a strong social influence for behavior in general, and belonging to an athletic team, a music group, or the “grunge” crowd can impact thinking about smoking (McVea et al., in press). Schools are also places where adolescents spend most of their day (Fibkins, 1993) and are available research subjects. Schools provide a setting for teachers and administrators to be role models for abstaining from tobacco use and enforcing policies about tobacco use (OHara et al., 1999). Existing studies of adolescent tobacco use are primarily quantitative with a focus on outcomes and transtheoretical models (Pallonen, 1998). Qualitative investigations, however, provide detailed views of students in their own words, complex analyses of multiple perspectives, and specific school contexts of different high schools that shape student experiences with tobacco (Creswell, in press). Moreover, qualitative inquiry offers the opportunity to involve high school students as co-researchers, a data collection procedure that can enhance the validity of student views uncontaminated by adult perspectives.
+
+Importance of Problem for Audiences
+
+By examining these multiple school contexts, using qualitative approaches and involving students as co-researchers, we can better understand the conceptions and misconceptions adolescents hold about tobacco use in high schools. With this understanding, researchers can better isolate variables and develop models about smoking behavior. Administrators and teachers can plan interventions to prevent or change attitudes toward smoking, and school officials can assist with smoking cessation or intervention programs.
+
+Source: Adapted from Creswell and Bàez, 2020; Plano Clark et al., 2002.
+
+This means that words serve to draw, engage, or hook the reader into the study. To learn how to write good narrative hooks, study first sentences in leading journal articles in different fields of study. Often journalists and authors provide good examples in the lead sentences of newspapers and journal articles. We present a few examples of lead sentences from social science journals:
+
+“Who controls the process of chief executive succession?” (Boeker, 1992, p. 400)
+
+“There is a large body of literature that studies the cartographic line (a recent summary article is Butte in field, 1985), and generalization of cartographic lines (McMaster, 1987).” (Carstensen, 1989, p. 181)
+
+These two examples present information easily understood by many readers. The first example demonstrates creating reader interest by posing a question. The second example, from a quantitative-experimental study, illustrates beginning the problem discussion with a literature perspective. Together these examples demonstrate how authors can create a sentence so the reader is not taken into a detailed morass of thought but lowered gently down into the topic.
+
+We use the metaphor of the writer lowering a barrel into a well. The beginning writer plunges the barrel (the reader) into the depths of the well (the article). The reader sees only unfamiliar material. The experienced writer slowly lowers the barrel (the reader, again), allowing the reader to acclimate to the depths (of the study). This lowering of the barrel begins with a narrative hook of sufficient generality, encouraging reader understanding of the topic.
+
+Beyond this first sentence, it is important to clearly identify the issue(s) or problem(s) that leads to a need for the study. In our example, tobacco use causes cancer and adolescent smoking has increased. These are problems leading to potential health issues. In applied social science research, problems arise from issues, difficulties, and current practices in real-life situations. The research problem in a study begins to become clear when the researcher asks, “What is the need for my study?” or “What problem influenced the need to undertake this study?” For example, schools may experience discrimination because they do not have multicultural guidelines; college adjunct faculty experience financial hardship leading to the need for more equitable pay; underrepresented students are barred from universities leading to a need to examine admission standards. These are significant research problems meriting further study and establish a practical problem or concern to be addressed. In designing the opening paragraphs of a proposal or study, keep in mind these ideas:
+
+Write an opening sentence to stimulate reader interest and convey an issue to which a broad audience can relate.
+
+In general, refrain from using quotations—especially long ones—in the lead sentence. Such use will be difficult for readers to grasp the key idea you want them to understand. Quotations raise many possibilities for interpretation and create unclear beginnings.
+
+Stay away from idiomatic expressions or trite phrases (e.g., “The lecture method remains a ‘third rail’ among most college and university instructors.”).
+
+Consider numeric information for impact (e.g., “Every year, an estimated 5 million Americans experience the death of an immediate family member.”).
+
+Clearly identify the research problem (i.e., dilemma, issue) leading to the study.
+
+Ask yourself, “Is there a specific sentence (or sentences) in which I convey the research problem?”
+
+Indicate why the problem is important by citing numerous references to justify the need for the study. We sometimes say to our students that if they do not have a dozen references cited on the first page of their proposal, they do not have a scholarly study.
+
+Make sure that the problem is framed consistently with the approach to research in the study (e.g., exploratory in qualitative, examining relationships or predictors in quantitative, or describing the qualitative or quantitative research approaches in mixed methods.
+
+Consider and identify a single problem or multiple problems leading to a need for the study. Often, authors present multiple research problems.
+
+Evidence From the Literature Justifying the Problem
+
+After establishing the research problem in the opening paragraphs, Plano Clark et al. (2002) discuss previous research in the literature addressing the problem. They do not include in the introduction a complete literature review. Later in the literature review section of a proposal researchers thoroughly review the literature. This literature review passage should summarize large groups of studies instead of detailing individual studies in the introduction. We tell students to reflect on their literature maps (described in Chapter 2) and look at and summarize the broad categories in the top boxes in the map. These broad categories illustrate large summaries of studies.
+
+Reviewing studies in an introduction justifies the study’s importance and creates distinctions between past studies and the proposed one. This component is called “setting the research problem within the ongoing dialogue in the literature.” Researchers do not want to conduct a study that replicates exactly what someone else has examined. New studies need to add to the literature or to extend or retest what others have investigated. The ability to frame the study in this way separates novices from more experienced researchers. The experienced researcher has reviewed and understands topics or problems in the field. This knowledge comes from years of experience following the development of problems and their accompanying literature.
+
+The question often arises as to what type of literature to review. Our best advice is to review research studies in which authors advance research questions and report data to answer them (i.e., empirical articles). These studies might be quantitative, qualitative, or mixed methods studies.
+
+Beginning researchers often ask, “What do I do now? No research has been conducted on my topic.” Of course, this situation may be the case in some narrowly construed topics or in new, exploratory projects where no literature exists to document the research problem. Also, realize that a researcher proposes a topic precisely because little research exists on it. When students say “no research can be found on my topic,” we suggest thinking about the situation using the image of an inverted triangle. The bottom of the apex of the inverted triangle represents the proposed scholarly study. This study is narrow and focused (and studies may not exist on it). If one broadens the review of the literature upward from the base of the inverted triangle, literature can be found, although it may be somewhat removed from the study at hand. For example, past research may not address the narrow topic of at-risk children in primary school. However, more broadly speaking, the topic of at-risk students, generally in the primary school or at any level in education, may have been studied. The researcher would summarize the more general literature and end with statements about narrow studies that examine at-risk students at the primary school level.
+
+To review the literature related to the research problem for an introduction to a proposal, consider these ideas:
+
+Refer to the literature by summarizing groups, not individual studies (unlike the focus on single studies in the review of the literature in Chapter 2). The intent should be to establish broad areas of research.
+
+To deemphasize single studies, place the in-text references at the end of a paragraph or at the end of a summary point about several studies.
+
+Review research studies that used quantitative, qualitative, or mixed methods approaches.
+
+Find recent literature to summarize, such as that published in the past 10 years. Cite older, valuable studies if they have been widely referenced by others.
+
+Deficiencies in the Evidence
+
+After advancing the problem and reviewing the literature, the researcher then identifies deficiencies found in this literature. The smoking and depression study (Plano Clark et al., 2002) mentions several deficiencies in the literature, including using the high school as a site for study, studying peer groups, and the lack of teacher and administrator role models. These literature gaps or deficiencies led us to call this template a deficiencies model. The nature of these deficiencies varies from study to study. Deficiencies in past literature may exist because topics with a group, sample, or population remain unexplored, or the research needs to be replicated to see if the same findings hold because of mixed results. Also, in qualitative research the literature may not address special populations or group, explore new sites, give voice to underrepresented groups, or include qualitative data such as interviews and observations. In quantitative research, the literature may show inadequate theory development, invalidated or unreliable measures, or inattention to mediating variables. In mixed methods research, the literature may not include studies incorporating quantitative and qualitative data, providing insight from connecting the databases, mentioning the integration of them, or drawing inferences from the integration.
+
+Regardless of the study approach, authors often mention one or several deficiencies. To locate deficiencies, examine future research sections of published studies. They often mention limitations or new study opportunities, and authors can reference these ideas to justify their proposed study.
+
+Beyond mentioning the deficiencies, proposal and study writers need to tell how their planned study will remedy or address these deficiencies. For example, because past studies overlooked an important variable, a proposed study includes the variable and analyzes its effect. Because past studies have not addressed the examination of Native Americans as a cultural group, a study will include them as participants in the project.
+
+In Examples 5.1 and 5.2, the authors point out the gaps or shortcomings of the literature.
+
+Notice their use of key phrases to indicate the shortcomings: “what remains to be explored” and “little empirical research.”
+
+Example 5.1 Deficiencies in the Literature—Needed Studies
+
+For this reason, the meaning of war and peace has been explored extensively by social scientists (Cooper, 1965; Alvik, 1968; Rosell, 1968; Svancarova & Svancarova, 1967–68; Haavedsrud, 1970). What remains to be explored, however, is how veterans of past wars react to vivid scenes of a new war. (Ziller, 1990, pp. 85–86)
+
+Example 5.2 Deficiencies in the Literature—Few Studies
+
+Despite an increased interest in micropolitics, it is surprising that so little empirical research has actually been conducted on the topic, especially from the perspectives of subordinates. Political research in educational settings is especially scarce: Very few studies have focused on how teachers use power to interact strategically with school principals and what this means descriptively and conceptually (Ball, 1987; Hoyle, 1986; Pratt, 1984). (Blase, 1989, p. 381)
+
+In summary, when identifying deficiencies in the past literature, proposal and study developers might use the following:
+
+Cite several deficiencies to make a strong case for a new study.
+
+Identify specifically the deficiencies of other studies (e.g., methodological flaws, variables overlooked).
+
+Write about areas overlooked by past studies, including topics, special statistical treatments, significant implications, and other quantitative deficiencies.
+
+Discuss how a proposed study will remedy these deficiencies and provide a unique contribution to the scholarly literature.
+
+Look at limitations cited in journal articles for clues about deficiencies to cite.
+
+These deficiencies might be mentioned using a series of short paragraphs that identify three or four shortcomings of the past research or focus on one major shortcoming, as illustrated by Plano Clark et al. (2002) in Figure 5.1.
+
+Importance of the Problem for Audiences
+
+Writers often include a specific section describing the significance of the study for select audiences to convey the importance of the problem. The introduction in the smoking and depression high school study (Plano Clark et al., 2002) mentioned the contribution of the study for researchers, administrators, and school officials. By including this section, the writer creates a clear rationale for the importance of the study, and this section helps readers understand the wide applicability of the study. In designing this section, one might include the following:
+
+Three or four reasons that the study adds to the scholarly research and literature in the field
+
+Several reasons about how the study helps improve practice
+
+Multiple reasons as to why the study will improve policy or decision-making
+
+Example 5.3 Significance of the Study Stated in an Introduction to a Quantitative Study
+
+A study by Mascarenhas (1989) examined ownership of industrial firms. He identified explicitly decision makers, organizational members, and researchers as the audience for the study:
+
+A study of an organization’s ownership and its domain, defined here as markets served, product scope, customer orientation, and technology employed (Abell and Hammond, 1979; Abell, 1980; Perry and Rainey, 1988), is important for several reasons. First, understanding relationships among ownership and domain dimensions can help to reveal the underlying logic of organizations’ activities and can help organization members evaluate strategies. . . . Second, a fundamental decision confronting all societies concerns the type of institutions to encourage or adopt for the conduct of activity. . . . Knowledge of the domain consequences of different ownership types can serve as input to that decision. . . . Third, researchers have often studied organizations reflecting one or two ownership types, but their findings may have been implicitly over generalized to all organizations. (Mascarenhas, 1989, p. 582)
+
+Finally, good introductions to research studies can end with a statement that summarizes the overall contribution of the proposed study. The researcher can succinctly state this contribution in one sentence. In the Plano Clark et al. (2002) study, the authors might have stated that the study provided insight into the potential links between smoking and depression for high school students.
+
+Summary
+
+This chapter provides advice about composing and writing an introduction to a scholarly study. First, consider how the introduction incorporates the research problems associated with quantitative, qualitative, or mixed methods research. Then, use a four-part introduction as a model or template. Called the deficiencies model, it first identifies the research problem (including a narrative hook). Then it includes summarizing large categories of the literature that has addressed the problem, followed by indicating one or more deficiencies in the past literature. Finally, it addresses specific audiences that will profit from research on the problem, and the introduction ends with a statement advancing the overall contribution of the study.
+
+Key Terms
+
+Deficiencies in past literature 117
+
+Deficiencies model for an introduction 107
+
+Narrative hook 112
+
+Research problem 114
+
+Writing Exercises
+
+Draft several examples of narrative hooks for the introduction to a study, and share these with colleagues. Ask colleagues which narrative hook they like best, and why it draws them into the study.
+
+Write a one-page introduction to a proposed study. Include one paragraph each for the research problem, the evidence from the literature, the deficiencies in evidence, and the audiences who will potentially find the study of interest.
+
+Write a succinct one-sentence statement of the contribution of your study.
+
+Locate several research studies published in scholarly journals on your study topic. Examine the “future research” section or statements. What advice does the author provide for addressing limitations in the literature?
+
+Additional Readings
+
+Bem, D. J. (1987). Writing the empirical journal article. In M. P. Zanna & J. M. Darley (Eds.), The compleat academic: A practical guide for the beginning social scientist (pp. 171–201). Random House.
+
+Opening sentences in a study invite readers to continue to look through the study. Daryl Bem emphasizes the importance of the opening statement in published research. He provides a list of rules for opening statements, stressing the need for clear, readable prose and a structure that leads the reader step-by-step to the problem statement. He offers satisfactory and unsatisfactory opening statements. Bem calls for accessible opening statements for the nonspecialist and enlightening statements for the technically sophisticated reader.
+
+Creswell, J. W., & Gutterman, T. (2018). Educational research: Designing, conducting, and evaluating qualitative and quantitative research (6th ed.). Pearson Education.
+
+Examples of introductions provide useful templates for developing a good beginning to a project. John Creswell and Tim Gutterman include a chapter on introducing an educational research study. They provide details about establishing the importance of a research problem and give an example of the deficiencies model for crafting a good introduction to a study.
+
+Maxwell, J. A. (2005). Qualitative research design: An interactive approach (2nd ed.). SAGE.
+
+The importance of the research problem cannot be overemphasized. Joe Maxwell reflects on the purpose of a proposal for a qualitative dissertation. One of the fundamental aspects of a proposal is to justify the project—to help readers understand what you plan to do and why. He mentions the importance of identifying the issues you plan to address and indicating why they are important to study. In an example of a graduate student dissertation proposal, he shares the major issues the student has addressed to create an effective argument for the study.
+
+Wilkinson, A. M. (1991). The scientist’s handbook for writing papers and dissertations. Prentice Hall.
+
+It is useful to see how writers offer templates for writing the introduction in ways different than the “deficiencies” model in this chapter. Antoinette Wilkinson identifies the three parts of an introduction: (a) the derivation and statement of the problem and a discussion of its nature, (b) the discussion of the background of the problem, and (c) the statement of the research question. Her book offers numerous examples of these three parts—together with a discussion of how to write and structure an introduction. Emphasis is placed on ensuring that the introduction leads logically and inevitably to a statement of the research question.
