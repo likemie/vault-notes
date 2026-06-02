@@ -54,6 +54,8 @@ CCS 的核心操作是通过三个分析轴同时对现象进行比较：
 
 > [!quote]
 > "The horizontal axis compares how similar policies unfold in distinct locations that are socially produced […] and 'complexly connected' […] The vertical axis insists on simultaneous attention to and across scales […] The transversal comparison historically situates the processes or relations under consideration." (Bartlett & Vavrus, 2017a, p.3, cited in Erfurth, 2022, p.202)
+>
+> 水平轴比较相似政策如何在不同的、社会性生产的且复杂连接的地点展开……垂直轴坚持同时关注不同尺度并跨越尺度……横贯比较将所考察的过程或关系置于历史语境中。
 
 ---
 

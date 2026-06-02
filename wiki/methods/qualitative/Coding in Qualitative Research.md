@@ -38,6 +38,8 @@ updated: 2026-06-01
 
 > [!quote]
 > "Coding is the process of organizing the data by bracketing chunks (or text or image segments) and writing a word representing a category in the margins"（Rossman & Rallis, 2012; 引自 Creswell & Creswell, 2022, Ch9, p.207）
+>
+> 编码是通过将语块（或文本、图像片段）括号化，并在页边空白处写下代表类别的词来组织数据的过程。
 
 ---
 

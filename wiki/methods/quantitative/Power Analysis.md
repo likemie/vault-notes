@@ -43,6 +43,8 @@ updated: 2026-05-31
 
 > [!quote]
 > "Sample size determination should be based on your analysis plans and expected outcomes"（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）
+>
+> 样本量的确定应基于你的分析计划和预期结果。
 
 ## 研究程序
 

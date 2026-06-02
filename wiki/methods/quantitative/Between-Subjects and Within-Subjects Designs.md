@@ -44,6 +44,8 @@ updated: 2026-05-31
 
 > [!quote]
 > "In many experiments, those of a type called between-subject designs, every participant experiences only one condition on a manipulated variable of interest."（Creswell & Creswell, 2022, Ch8）
+>
+> 在许多实验中，特别是被称为受试者间设计的类型中，每位参与者只经历所关注的操纵变量的一个条件。
 
 ## 研究程序
 

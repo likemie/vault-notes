@@ -43,7 +43,9 @@ updated: 2026-05-23
 Li 在研究中使用该方法的具体目标是：**建构欧裔美国和中国两种文化中"学习"（learning／學習）这个概念的文化原型**——不是测量个体差异，而是描绘文化成员共享的概念地图（Li, 2012, pp.88-89）。
 
 > [!quote]
-> "语言承载着这些类别，使它们成为特定文化成员共享的原型。原型方法适合研究生活在特定文化中的人类如何概念化学习。"（Li, 2012, pp.88-89）
+> "Language carries these categories, making them shared prototypes among members of a given culture. Prototype methodology is suited to the study of how humans living in specific cultures conceptualize learning."（Li, 2012, pp.88-89）
+>
+> 语言承载着这些类别，使它们成为特定文化成员共享的原型。原型方法适合研究生活在特定文化中的人类如何概念化学习。
 
 ---
 

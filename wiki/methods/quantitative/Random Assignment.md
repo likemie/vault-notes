@@ -43,6 +43,8 @@ updated: 2026-05-31
 
 > [!quote]
 > "When individuals are randomly assigned to groups, the procedure is called a true experiment."（Creswell & Creswell, 2022, Ch8）
+>
+> 当个体被随机分配到组别中时，该程序被称为真实验。
 
 ## 研究程序
 
