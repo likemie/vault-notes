@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+                "file": "wiki/methods/mixed/Convergent Design.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Creswell_2022_SAGE"
+              "title": "Convergent Design"
             }
           }
         ]
@@ -191,10 +191,12 @@
   },
   "active": "6178dab4cf11f46c",
   "lastOpenFiles": [
+    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+    "wiki/facts/global/Mixed Methods International Research Association.md",
     "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md",
+    "wiki/methods/quantitative/Survey Research.md",
     "wiki/methods/qualitative/Qualitative Research.md",
     "raw/016_Chapter 10 Mixed Methods Procedures.txt",
-    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
     "wiki/methods/qualitative/Qualitative Interview.md",
     "wiki/methods/qualitative/Coding in Qualitative Research.md",
     "wiki/concepts/research-methodology/Winnowing.md",
@@ -223,8 +225,6 @@
     "wiki/methods/mixed/Convergent Design.md",
     "wiki/methods/mixed/Mixed Methods Evaluation Design.md",
     "wiki/methods/mixed/Mixed Methods Case Study Design.md",
-    "wiki/methods/mixed/Joint Display.md",
-    "wiki/methods/mixed/Improvement Science.md",
     "wiki/concepts/research-methodology/Integration Statement.md.tmp.56605.38fba7d88641",
     "wiki/arguments/books/Creswell_Creswell_2023_SAGE"
   ]
