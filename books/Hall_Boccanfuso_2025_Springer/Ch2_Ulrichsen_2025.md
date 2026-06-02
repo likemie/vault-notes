@@ -5,7 +5,6 @@ extracted_to:
   - "[[Corporate R&D Labs]]"
   - "[[Innovation Ecosystem]]"
   - "[[Knowledge Exchange]]"
-  - "[[Technology Transfer]]"
   - "[[Third Mission (Universities)]]"
   - "[[Innovation Models Evolution]]"
   - "[[Innovation Policy Paradigms]]"
@@ -15,6 +14,7 @@ extracted_to:
   - "[[Triple Helix]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Technology Transfer]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

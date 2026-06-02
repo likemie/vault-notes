@@ -11,11 +11,11 @@ extracted_to:
   - "[[Return on Investment in University-Industry Collaboration]]"
   - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
   - "[[Partnership Continuum]]"
-  - "[[Return on Investment]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Values Alignment Model]]"
   - "[[Triple Helix]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Return on Investment]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

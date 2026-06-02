@@ -32,6 +32,7 @@ sources:
   - "[[Schulze-Cleven_2017_HighEduc]]"
   - "[[Ch1_Boccanfuso_Hall_2025]]"
   - "[[Ch3_Boccanfuso_Hall_2025]]"
+  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
@@ -59,6 +60,13 @@ Bayh-Dole Act（正式名称为 Patent and Trademark Law Amendments Act）于 19
 - 大学通常也要求非联邦资助产生的知识产权由发明人转让给大学（即无论资金来源，大学都主张对教职员工研究成果的所有权）
 - 但学生在课堂上产生的知识产权通常归创作者本人所有——这是一个重要的例外
 - 知识产权法规因国家而异：在某些国家，个别大学可自行制定政策；在瑞典，"知识产权依法归发明人而非大学所有"（p.14）
+
+### 国际产学合作中的制度摩擦
+
+> [!warning]
+> 在国际[[University-Industry Collaboration|产学合作]]中，Bayh-Dole 法案构成一个具体的制度摩擦点。法案要求美国赠地大学保留专利所有权，而 1980 年之前联邦资助的专利归政府所有。对惯于不同知识产权模式的外国公司而言，这一制度安排可能构成认知和谈判障碍（p.314）。
+>
+> 更根本的问题在于不存在"国际专利"，各国知识产权法律并不统一（p.313）。一次跨国合作可能涉及多套互不兼容的 IP 制度，Bayh-Dole 只是美方制度中的一环。外国合作方需要在自身 IP 法律框架与 Bayh-Dole 要求之间找到兼容方案。
 
 ## 对产学合作的影响
 
@@ -98,4 +106,5 @@ Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识�
 - [[Schulze-Cleven_2017_HighEduc]]
 - [[Ch1_Boccanfuso_Hall_2025]]
 - [[Ch3_Boccanfuso_Hall_2025]]
+- [[Ch17_Wolf_Stevenson_Siegel_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

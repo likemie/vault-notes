@@ -5,9 +5,7 @@ extracted_to:
   - "[[Academic Freedom]]"
   - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
-  - "[[Technology Transfer]]"
   - "[[APLU Innovation and Economic Prosperity Program]]"
-  - "[[Bayh-Dole Act of 1980]]"
   - "[[California Master Plan for Higher Education]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[National Science Foundation]]"
@@ -18,6 +16,8 @@ extracted_to:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

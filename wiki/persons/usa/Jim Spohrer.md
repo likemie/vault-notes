@@ -58,6 +58,8 @@ updated: 2026-05-28
 
 > [!quote]
 > "Every change in business conditions and focus requires adjusting 6 R investment options and recalibrating metrics, incentives, rewards, and culture to fit the times."（Narayan & Spohrer, 2025, p.90）
+> 
+> 商业条件和重点的每一次变化，都要求调整六 R 投资选项，并重新校准指标、激励、奖励和文化以适应时代。
 
 ---
 
@@ -74,8 +76,13 @@ updated: 2026-05-28
 
 > [!quote]
 > "AI will not replace service providers (e.g., industry researchers, academic faculty, etc.), but trusted service providers who use AI effectively and ethically will replace those who don't."（Rouse & Spohrer, 2018, 转引自 Narayan & Spohrer, 2025, p.97）
+> 
+> AI 不会取代服务提供者（如产业研究人员、学术教职等），但那些能够有效且符合伦理地使用 AI 的值得信赖的服务提供者，将取代那些不这样做的人。
 
+> [!quote]
 > "Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of [[University-Industry Collaboration|UI collaboration]] generation after generation."（Narayan & Spohrer, 2025, p.90）
+> 
+> 成功孕育成功。与人才流动、宣传、发表以及突显共同创造的新知识的商业产品相关的指标，是代代相传地重塑产学合作文化中最重要的成果。
 
 ---
 

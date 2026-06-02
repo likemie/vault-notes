@@ -6,11 +6,14 @@ extracted_to:
   - "[[Transnational Research Collaboration]]"
   - "[[University-Industry Collaboration]]"
   - "[[Nagoya Protocol]]"
-  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
   - "[[Pre-negotiated IP Rights]]"
   - "[[African Orphan Crops Consortium]]"
   - "[[Innovation Institute for Food and Health]]"
   - "[[Stokes' Quadrant Model of Scientific Research]]"
+  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
+  - "[[Return on Investment]]"
+  - "[[Technology Transfer]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---

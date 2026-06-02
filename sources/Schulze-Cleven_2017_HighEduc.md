@@ -22,7 +22,6 @@ extracted_to:
   - "[[CNRS]]"
   - "[[Excellence Initiative (Germany)]]"
   - "[[Research Excellence Framework]]"
-  - "[[Bayh-Dole Act of 1980]]"
   - "[[Pierre Bourdieu]]"
   - "[[Cultural Political Economy]]"
   - "[[Neo-feudalism in Higher Education]]"
@@ -30,6 +29,7 @@ extracted_to:
   - "[[Financialization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-06-01
 ---
 

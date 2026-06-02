@@ -21,6 +21,7 @@ related_facts: []
 related_arguments: []
 sources:
   - "[[Ch10_Swick_Jones_2025]]"
+  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-02
@@ -61,6 +62,14 @@ updated: 2026-06-02
 > - 产业需要尊重医院和大学对终端用户所负的保护义务——必须安全地开发、测试和实施新解决方案
 > - [[Academic Health System|AHS]] 作为促进者的核心任务是平衡各方 ROI，既不让商业逻辑凌驾于终端用户安全之上，也不让监管保守主义扼杀创新
 
+## 国际产学合作中的 ROI 分歧
+
+> [!note]
+> 在国际[[University-Industry Collaboration|产学合作]]中，ROI 的定义分歧更加显著。美国公立与赠地大学协会（Association of Public and Land-Grant Universities, APLU, 2022）的访谈发现，大学寻求"在产生产业价值的领域进行科学发现"的伙伴，而产业则以 ROI 评估合作（p.311–312）。双方对价值的理解偏差"更多来自感知而非现实"，增加沟通和明确共同激励机制可以缓解这一问题（p.312）。
+
+> 这一发现与 Swick 和 Jones（2025）的核心主张形成互补：ROI 差异是结构性存在的，关键在于通过透明沟通将其从障碍转化为驱动力。在国际情境中，沟通的额外成本（语言、时区、文化差异）使得这一转化更加困难，但也更加必要。
+
 ## 来源
 
 - [[Ch10_Swick_Jones_2025]]
+- [[Ch17_Wolf_Stevenson_Siegel_2025]]

@@ -11,14 +11,14 @@ extracted_to:
   - "[[Knowledge Integration Community]]"
   - "[[Knowledge Transfer]]"
   - "[[Professors of Practice]]"
-  - "[[Technology Transfer]]"
-  - "[[Bayh-Dole Act of 1980]]"
   - "[[Hatch Act of 1887]]"
   - "[[Website Content Analysis]]"
   - "[[Partnership Continuum]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

@@ -19,16 +19,19 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Exchange]]"
+  - "[[Theoretical Perspective]]"
   - "[[Boundary Spanner]]"
   - "[[University Spin-Out]]"
   - "[[Gatekeepers]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Performance Indicators]]"
-related_theories: []
+related_theories:
+  - "[[Triple Helix]]"
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Nagoya Protocol]]"
   - "[[National Science Foundation]]"
 related_arguments: []
 sources:
@@ -36,6 +39,7 @@ sources:
   - "[[Ch2_Ulrichsen_2025]]"
   - "[[Ch3_Boccanfuso_Hall_2025]]"
   - "[[Ch8_Gilison_Wilson_2025]]"
+  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
@@ -92,7 +96,16 @@ updated: 2026-05-29
 > [!abstract]
 > 研究实践的发展使人们认识到，[[Technology Transfer|技术转移]]只是大学与产业之间知识流动的一个子集。并非所有有价值的知识都具备可专利性，也并非所有产学互动都需要知识产权框架。[[Knowledge Exchange|知识交流]]（Knowledge Exchange）这一更广义的概念由此兴起——涵盖合同研究、咨询、人员交流、联合发表、设施共享、培训和网络活动等远比技术许可和衍生企业更广泛的互动形式（Ulrichsen, 2025, pp.44–46）。
 
-> 关系型互动（relational）已取代交易型互动（transactional）成为产学互动的主导形态——这反映了隐性知识（tacit knowledge）在思想和技术转移中的关键作用（Schartinger et al., 2002）（Ulrichsen, 2025, p.44）。此外，人员交流（people exchange）的重要性在近三十年显著上升：1994 年的调查中仅 5.8% 的美国企业研发经理认为人员交流是重要的产学互动途径（Cohen et al., 2002），但今天这已成为加强产学合作的核心议题（NCUB, 2023）（Ulrichsen, 2025, pp.45–46）。
+> 关系型互动（relational）已取代交易型互动（transactional）成为产学互动的主导形态，反映了隐性知识（tacit knowledge）在思想和技术转移中的关键作用（Schartinger et al., 2002）（Ulrichsen, 2025, p.44）。此外，人员交流（people exchange）的重要性在近三十年显著上升：1994 年的调查中仅 5.8% 的美国企业研发经理认为人员交流是重要的产学互动途径（Cohen et al., 2002），但今天这已成为加强产学合作的核心议题（NCUB, 2023）（Ulrichsen, 2025, pp.45–46）。
+
+### 国际产学合作中的 IP 摩擦
+
+> [!warning]
+> 国际[[University-Industry Collaboration|产学合作]]中的技术转移面临额外的制度摩擦。根本原因在于不存在"国际专利"，各国知识产权法律并不统一（p.313）。一次跨国合作可能涉及多套互不兼容的 IP 制度，增加了技术转移的谈判和合规成本。
+>
+> Bayh-Dole 法案构成一个具体的制度摩擦点：该法案要求美国赠地大学保留专利所有权，而 1980 年前联邦资助的专利归政府所有。对惯于不同 IP 模式的外国公司而言，这一制度安排可能构成认知和谈判障碍（p.314）。
+>
+> 此外，[[Nagoya Protocol|名古屋议定书]]（2014）对涉及遗传资源的国际研究合作施加了额外的合规要求：利用遗传资源产生的惠益须与来源国公平分享，各国立法和操作规范不统一进一步增加了行政复杂性（p.315）。从理论层面，Rossoni et al.（2023）将技术转移作为评估国际 UI 合作障碍的三个[[Theoretical Perspective|理论视角]]之一（另两个为[[Triple Helix]]和关系社会资本），系统梳理了技术转移在国际合作场景中的特有障碍（p.316）。
 
 ### 制度结构
 
@@ -155,4 +168,5 @@ Debackere 和 Veugelers（2005）进一步指出，技术转移办公室可以�
 - [[Ch2_Ulrichsen_2025]]
 - [[Ch3_Boccanfuso_Hall_2025]]
 - [[Ch8_Gilison_Wilson_2025]]
+- [[Ch17_Wolf_Stevenson_Siegel_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

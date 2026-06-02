@@ -10,7 +10,6 @@ extracted_to:
   - "[[Non-dilutive Funding]]"
   - "[[Proof of Concept Programs]]"
   - "[[Technology Readiness Level]]"
-  - "[[Technology Transfer]]"
   - "[[University Spin-Out]]"
   - "[[Alliance for Southern California Innovation]]"
   - "[[First Look SoCal]]"
@@ -21,6 +20,7 @@ extracted_to:
   - "[[UCSD Innovation and Commercialization Office]]"
   - "[[Corporate Venture Capital]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
 processed_date: 2026-05-29
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
