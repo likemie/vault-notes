@@ -3,13 +3,14 @@ citation: "Wolf, B. J., Stevenson, A. E., & Siegel, J. B. (2025). International 
 extracted_to:
   - "[[Use-Inspired Basic Research]]"
   - "[[Triple Helix]]"
-  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
-  - "[[Pre-negotiated IP Rights]]"
   - "[[Transnational Research Collaboration]]"
   - "[[University-Industry Collaboration]]"
-  - "[[African Orphan Crops Consortium]]"
   - "[[Nagoya Protocol]]"
+  - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
+  - "[[Pre-negotiated IP Rights]]"
+  - "[[African Orphan Crops Consortium]]"
   - "[[Innovation Institute for Food and Health]]"
+  - "[[Stokes' Quadrant Model of Scientific Research]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---
