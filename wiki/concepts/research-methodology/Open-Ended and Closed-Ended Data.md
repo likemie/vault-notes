@@ -20,6 +20,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Observation]]"
+  - "[[Quantitative Research]]"
+  - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
@@ -54,8 +56,8 @@ updated: 2026-06-02
 >
 > Creswell & Creswell (2023, p.232) 认为用"开放式 vs 封闭式"来区分两类数据，比"数字 vs 文本"或"数字数据 vs 故事"的二分法更精确。因为某些数据来源可以同时包含封闭式和开放式信息——例如健康数据中既有体检指标的封闭式得分，也有病历记录中开放式的病史信息。
 >
-> - 量化数据通常是封闭式的，但不是所有封闭式数据都必然是数字形式（如多项选择题的文字选项）。
-> - 质性数据通常是开放式的，但数据的"质性"属性来自开放式的收集方式而非文本形式本身。
+> - [[Quantitative Research|量化研究]]中的数据通常是封闭式的，但不是所有封闭式数据都必然是数字形式（如多项选择题的文字选项）。
+> - [[Qualitative Research|质性研究]]中的数据通常是开放式的，但数据的"质性"属性来自开放式的收集方式而非文本形式本身。
 
 ---
 

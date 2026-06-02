@@ -82,7 +82,6 @@ extracted_to:
   - "[[External Auditor]]"
   - "[[Gatekeepers]]"
   - "[[Institutional Review Board]]"
-  - "[[Integration Statement]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Intercoder Agreement]]"
@@ -95,7 +94,6 @@ extracted_to:
   - "[[Narrative Thought Types]]"
   - "[[Naturalistic Generalization]]"
   - "[[Nondirectional Language]]"
-  - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Probes]]"
   - "[[Purpose Statement]]"
@@ -146,6 +144,8 @@ extracted_to:
   - "[[J. David Creswell]]"
   - "[[John W. Creswell]]"
   - "[[Mixed Methods Research]]"
+  - "[[Integration Statement]]"
+  - "[[Open-Ended and Closed-Ended Data]]"
 processed_date: 2026-05-30
 ---
 

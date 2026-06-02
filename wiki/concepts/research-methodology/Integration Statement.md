@@ -63,9 +63,9 @@ updated: 2026-06-02
 >
 > | 设计类型 | 意图术语 | 程序术语 |
 > |---|---|---|
-> | 聚敛式设计 | Compare, Match, Corroborate (Validate), Expand, Enhance, Diffract, Identify Cases, Initiating, Complete Understanding | Merge (putting the databases side-by-side) |
-> | 解释性序列设计 | Expand, Explain | Connect (quantitative results connect with qualitative data collection) |
-> | 探索性序列设计 | Build Upon, Transfer, Generalize | Connect (qualitative results lead to design of quantitative assessment that is then tested) |
+> | [[Convergent Design\|聚敛式设计]] | Compare, Match, Corroborate (Validate), Expand, Enhance, Diffract, Identify Cases, Initiating, Complete Understanding | Merge (putting the databases side-by-side) |
+> | [[Explanatory Sequential Design\|解释性序列设计]] | Expand, Explain | Connect (quantitative results connect with qualitative data collection) |
+> | [[Exploratory Sequential Design\|探索性序列设计]] | Build Upon, Transfer, Generalize | Connect (qualitative results lead to design of quantitative assessment that is then tested) |
 > | [[Mixed Methods Research\|复杂混合方法设计]] | Augment (optimize, ascertain needs, monitor) | Add into a process/framework |
 
 ---
