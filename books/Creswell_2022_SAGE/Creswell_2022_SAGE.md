@@ -142,10 +142,10 @@ extracted_to:
   - "[[Egon G. Guba]]"
   - "[[J. David Creswell]]"
   - "[[John W. Creswell]]"
-  - "[[Mixed Methods Research]]"
-  - "[[Integration Statement]]"
   - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Integration Statement]]"
+  - "[[Mixed Methods Research]]"
 processed_date: 2026-05-30
 ---
 

@@ -17,24 +17,24 @@ tags:
 - educational-psychology
 - research-methodology
 related_concepts:
-  - "[[Integration in Mixed Methods]]"
   - "[[Variable]]"
   - "[[Multimethod Research]]"
   - "[[Research Question]]"
-  - "[[Metainferences]]"
   - "[[Postpositivism]]"
   - "[[Theoretical Perspective]]"
+  - "[[Metainferences]]"
   - "[[Integration Statement]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Recommendations for Practice]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
-  - "[[Joint Display]]"
   - "[[Qualitative Research]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
+  - "[[Joint Display]]"
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"
   - "[[Observational and Correlational Research]]"
@@ -62,7 +62,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info] 定义
-> 混合方法研究（Mixed Methods Research）的核心特征是同时收集并[[Integration in Mixed Methods|整合]]（"混合"）量化与质性数据，在分析阶段合并两种数据库以获取超越单一方法的额外洞察。Creswell & Creswell (2022) 将其定位为与量化和质性并列的第三种独立研究路径，以[[Integration in Mixed Methods|数据整合]]为关键标志。
+> 混合方法研究（Mixed Methods Research）的核心特征是同时收集并整合（"混合"）量化与质性数据，在分析阶段合并两种数据库以获取超越单一方法的额外洞察。Creswell & Creswell (2022) 将其定位为与量化和质性并列的第三种独立研究路径，以数据整合为关键标志。
 >
 > 在 Brady et al. (2023) 的[[Coding in Qualitative Research|编码]]中指不操纵自[[Variable|变量]]、并同时包含量化数据和质性数据的研究。该类别是作者相较 Reinhart et al. (2013) 与 Robinson et al. (2007) 旧分类新增的类别（Brady et al., 2023, p.4）。
 
@@ -72,33 +72,37 @@ Creswell & Creswell (2022, p.232) 明确区分了混合方法研究和[[Multimet
 
 > [!info] 核心区分标准
 > - **多方法研究**（Multimethod Research）指收集多种量化数据来源或多种质性数据来源，但不同时包含量化和质性数据。例如，一项研究同时使用问卷调查和官方统计数据（两种都是量化来源），或同时使用访谈和观察（两种都是质性来源）——这些都是多方法研究，但不是混合方法研究。
-> - **混合方法研究**（Mixed Methods Research）的核心标志是同时收集量化（封闭式）和质性（开放式）两种数据，并且将两者[[Integration in Mixed Methods|整合]]。两种数据提供不同类型的信息来回答[[Research Question|研究问题]]。
+> - **混合方法研究**（Mixed Methods Research）的核心标志是同时收集量化（封闭式）和质性（开放式）两种数据，并且将两者整合。两种数据提供不同类型的信息来回答[[Research Question|研究问题]]。
 
 区分两种方法的关键不在于数据来源的数量，而在于数据**类型**的跨度：
 
 > [!abstract] 判断标准
 > - 收集 N 种量化数据来源 → [[Multimethod Research|多方法研究]]
 > - 收集 N 种质性数据来源 → [[Multimethod Research|多方法研究]]
-> - 收集至少一种量化数据来源 + 至少一种质性数据来源，并加以**[[Integration in Mixed Methods|整合]]** → 混合方法研究
+> - 收集至少一种量化数据来源 + 至少一种质性数据来源，并加以**整合** → 混合方法研究
 >
-> 如果不进行整合，即使一项研究同时收集了量化和质性数据，也不是完整的混合方法研究——[[Integration in Mixed Methods|整合]]是混合方法的核心定义性特征之一。
+> 如果不进行整合，即使一项研究同时收集了量化和质性数据，也不是完整的混合方法研究——整合是混合方法的核心定义性特征之一。
 
 > [!warning] 术语混淆
 > 在混合方法研究发展的早期文献中，multimethod 和 mixed methods 曾被混用。其他文献中也出现过 integrating、synthesis、quantitative and qualitative methods、multimethod、mixed research 或 mixed methodology 等替代术语，但"mixed methods"一词已在领域内通过大量著作获得了最广泛的认可，而"multimethod"则被明确定义为不跨数据类型的研究（Creswell & Creswell, 2022, p.232）。
 
 ## 定义性特征
 
-> [!abstract] 六个定义性特征
-> Creswell & Creswell (2022, p.231) 提出混合方法研究的六个定义性特征，从核心到外层依次嵌套：
+> [!example]- 图10.1：混合方法研究的核心要素
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-1_Essential_Components_of_Mixed_Methods_Research.jpg)
+
+图 10.1 以嵌套圆环呈现六个特征从核心到外层的递进关系。最内层是两类数据的收集，向外逐层添加整合、设计程序、分析工具和推论方式，最外层以世界观和理论框架包裹整个研究。
+
+> [!abstract] 六个定义性特征（从核心到外层）
 >
-> 1. **收集两种类型的数据**：质性（开放式）和量化（封闭式）数据，用于[[Research Question|研究问题]]
-> 2. **连接两组数据**：即[[Integration in Mixed Methods|整合]]（Integration），将量化和质性数据库的信息组合
-> 3. **使用特定程序来整合数据**：即混合方法设计（Mixed Methods Design），规定了收集、分析和解释数据的程序
-> 4. **在[[Joint Display|联合展示]]（Joint Display）中分析整合**：以表格或图表形式将两种数据库并排呈现
-> 5. **从整合分析中得出结论、洞察或解释**：即[[Metainferences|元推论]]（Metainferences）——先分别得出一阶推论，再基于两者的组合得出额外的推论
-> 6. **以研究者的信念、价值观（世界观）和文献解释（理论）来定位研究**：构成最外层的整体框架
->
-> 这六个特征从内到外嵌套，共同界定什么是混合方法研究。任何混合方法研究方案或报告都应包含这些组件。
+> | 层级 | 特征 | 核心含义 |
+> |---|---|---|
+> | 1 | **收集两种类型的数据** | 质性（开放式）和量化（封闭式）数据共同服务于[[Research Question\|研究问题]] |
+> | 2 | **连接两组数据** | 即[[Integration in Mixed Methods\|整合]]（Integration）——将量化和质性数据库的信息组合 |
+> | 3 | **使用特定程序来整合** | 即混合方法设计（Mixed Methods Design），规定收集、分析和解释数据的程序 |
+> | 4 | **在联合展示中分析整合** | [[Joint Display\|联合展示]]——以表格或图表将两种数据库并排呈现 |
+> | 5 | **得出元推论** | [[Metainferences\|元推论]]——先分别得出量化推论和质性推论，再基于组合得出额外推论 |
+> | 6 | **世界观与理论框架** | 以研究者的信念、价值观（如[[Pragmatic Paradigm\|实用主义]]）和文献理论来定位研究 |
 
 ## 历史演变
 
@@ -122,6 +126,11 @@ Creswell & Creswell (2022, p.232) 明确区分了混合方法研究和[[Multimet
 
 ## 操作步骤
 
+> [!example]- 图10.2：三种核心设计
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-2_Three_Core_Designs.jpg)
+
+图 10.2 以流程图展示三种核心设计的结构与阶段：聚敛式（单阶段，合并比较）、解释性序列（两阶段，量化→质性）、探索性序列（三阶段，质性→设计→量化检验）。
+
 > [!example] 操作步骤
 > Creswell & Creswell (2022) 提出三种核心混合方法设计，另有四种复杂设计可选。
 >
@@ -135,13 +144,13 @@ Creswell & Creswell (2022, p.232) 明确区分了混合方法研究和[[Multimet
 > - **嵌入社会正义框架**：以社会正义[[Theoretical Perspective|理论视角]]作为总体框架，其中同时包含量化和质性数据
 > - **嵌入评估程序**：在从需求评估到项目检验的不同评估阶段中分别使用核心设计
 >
-> 复杂设计适合大规模、多阶段项目，但对研究者的方法论能力和项目管理能力要求高，多阶段[[Integration in Mixed Methods|整合]]可能使研究周期大幅延长。
+> 复杂设计适合大规模、多阶段项目，但对研究者的方法论能力和项目管理能力要求高，多阶段整合可能使研究周期大幅延长。
 >
 > 分析整合的关键工具是[[Joint Display|联合展示]]，将量化与质性数据或结果以表格形式并列，研究者检视表格后提取整合性洞察。
 
 从联合展示的分析中得出的结论在混合方法中称为[[Metainferences|元推论]]（Metainferences）：研究者先分别得出量化推论和质性推论，再基于量化与质性数据库的组合得出额外的推论（元推论）。元推论的内容和性质因设计类型而异——[[Convergent Design|聚敛式设计]]聚焦于确认或分歧，[[Explanatory Sequential Design|解释性序列设计]]聚焦于延伸和细化，[[Exploratory Sequential Design|探索性序列设计]]聚焦于检验和适切性（Creswell & Creswell, 2022, pp.238–244）。
 
-整合的意图和程序应通过[[Integration Statement|整合陈述]]（Integration Statement）在研究方案或报告中明确表述。整合陈述说明为何组合两类数据（意图）以及通过何种设计来实施组合（程序），应出现在方法部分或引言部分（Creswell & Creswell, 2022, pp.251–252）。
+整合的意图和程序应通过[[Integration Statement|整合陈述]]（[[Integration in Mixed Methods|integration]] Statement）在研究方案或报告中明确表述。整合陈述说明为何组合两类数据（意图）以及通过何种设计来实施组合（程序），应出现在方法部分或引言部分（Creswell & Creswell, 2022, pp.251–252）。
 >
 > 在 Brady et al. (2023) 的[[Coding in Qualitative Research|编码]]框架中，
 > - **不操纵自[[Variable|变量]]** 混合方法/[[Multimethod Research|多方法研究]]在该文分类中属于[[Non-intervention Research|非干预研究]]（Brady et al., 2023, p.4）。

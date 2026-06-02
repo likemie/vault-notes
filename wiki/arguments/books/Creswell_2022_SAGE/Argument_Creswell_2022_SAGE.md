@@ -133,9 +133,6 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
-  - "[[Mixed Methods Experimental Design]]"
-  - "[[Mixed Methods Case Study Design]]"
-  - "[[Mixed Methods Participatory-Social Justice Design]]"
   - "[[Case Study]]"
 related_persons:
   - "[[John W. Creswell]]"
@@ -1262,33 +1259,24 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > [!abstract] 内容推进线索
 > **历史定位与方法论合法性 → 六个定义性特征（嵌套圆环）→ 使用理由 → 关键术语辨析 → 三种核心设计 → 四种复杂设计 → 设计选择流程图与[[Integration Statement|整合陈述]] → 四项已发表研究实例。**
 
-混合方法作为独立方法论起源于 1980 年代末，被 Tashakkori & Teddlie (2010) 称为继量化和质性之后的"第三方法论运动"。2014 年[[Mixed Methods International Research Association|MMIRA]]的成立标志着该方法论在国际层面的制度化。其核心主张是"挖掘"（mining）数据——整合量化和质性两类数据能产生比单独使用任一种方法更强的理解。详细历史、六个定义性特征、与[[Multimethod Research|多方法研究]]的区分以及使用理由见 [[Mixed Methods Research]] 条目。
+混合方法作为独立方法论起源于 1980 年代末，被 Tashakkori & Teddlie (2010) 称为继量化和质性之后的"第三方法论运动"。2014 年[[Mixed Methods International Research Association|MMIRA]]的成立标志着该方法论在国际层面的制度化。其核心主张是"挖掘"（mining）数据——整合量化和质性两类数据能产生比单独使用任一种方法更强的理解。
+
+Creswell & Creswell (2022) 提出混合方法研究的六个定义性特征，从核心到外层依次嵌套：**(1) 收集两种类型的数据**——质性（开放式）和量化（封闭式）；**(2) 连接两组数据**——即整合；**(3) 使用特定程序来整合**——即混合方法设计；**(4) 在联合展示中分析整合**——以表格或图表并排呈现；**(5) 得出元推论**——从组合数据库中提取超越单一数据库的额外推论；**(6) 以世界观和理论框架定位研究**——构成最外层的整体框架。这六个特征的嵌套结构见图 10.1（见 [[Mixed Methods Research]] 条目）。与[[Multimethod Research|多方法研究]]的关键区分在于：多方法研究仅收集多种量化来源或多种质性来源，不同时跨越两类数据；混合方法研究的标志是同时收集两类数据并加以整合。使用混合方法的理由——从"获得更完整的理解"到"为边缘群体变革提供证据"——详见 [[Mixed Methods Research]] 条目。
 
 ---
 
-> [!example]- 图10.1：混合方法研究的核心要素
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-1_Essential_Components_of_Mixed_Methods_Research.jpg)
-
-六个关键术语的详细辨析见各自条目：[[Open-Ended and Closed-Ended Data]]、[[Integration in Mixed Methods]]、[[Joint Display]]、[[Metainferences]]。核心设计见 [[Convergent Design]]、[[Explanatory Sequential Design]]、[[Exploratory Sequential Design]] 条目；复杂设计见 [[Mixed Methods Experimental Design]]、[[Mixed Methods Case Study Design]]、[[Mixed Methods Participatory-Social Justice Design]]、[[Mixed Methods Evaluation Design]] 条目；设计选择的系统框架与[[Integration Statement|整合陈述]]写作指南见 [[Integration Statement]] 条目。
+混合方法的方法论词汇围绕一条操作链展开。起点是两类数据的区分——[[Open-Ended and Closed-Ended Data|开放式数据]]由参与者自由表达、不预设选项，封闭式数据提供固定选项（如 Likert 量表），这一区分比"数字 vs 文本"二分法更精确。两条数据流进入研究后，整合是将它们组合起来的核心操作——既包含为何组合的意图（比较、解释、构建或增强），也包含如何组合的程序（合并、连接或嵌入）。整合的可视化工具是[[Joint Display|联合展示]]——将两类数据并排在同一表格中，研究者在检视表格时识别仅靠单一数据无法发现的模式。从联合展示中提取的超越性洞察即为[[Metainferences|元推论]]——先分别得出一阶推论，再基于两者的组合得出额外的推论。整合的具体程序则由设计类型规定：聚敛式（合并比较）、解释性序列（量化→质性解释）、探索性序列（质性→工具→量化检验）为三种核心设计；实验、案例研究、参与式社会正义、评价为四种复杂设计（核心设计嵌入更大框架）。以上所有操作的选择逻辑和最终产出由[[Integration Statement|整合陈述]]统合——在研究方案中明确说明整合的意图和程序。各术语的完整定义与图示见各自条目。
 
 > [!example]- 表10.1：设计混合方法程序的核查清单
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-1_Checklist_for_Designing_Mixed_Methods_Procedure.jpg)
 
 ---
 
-> [!example]- 图10.2：三种核心设计
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-2_Three_Core_Designs.jpg)
-
 #### 三种核心设计：聚敛、解释性序列、探索性序列
 
 三种核心设计的划分依据是整合的意图和程序。[[Convergent Design|聚敛式设计]]通过**合并**（merging）来比较量化与质性结果，源于 Campbell & Fiske (1959) 的多方法多特质思想，为单阶段设计，整合分析有并排比较、[[Data Transformation in Mixed Methods|数据转换]]和[[Joint Display|联合展示]]三种方式。[[Explanatory Sequential Design|解释性序列设计]]通过**连接**（connecting）来用质性数据解释量化结果，两阶段设计，质性样本必须是量化样本的子集。[[Exploratory Sequential Design|探索性序列设计]]通过**连接**让质性探索指导量化工具的开发与检验，三阶段设计，质性样本不应包含在量化阶段中——与解释性序列正相反。
 
-三种设计的整合分析都使用联合展示作为标准工具，从中提取[[Metainferences|元推论]]——聚敛式聚焦于确认或分歧，解释性序列聚焦于延伸和细化，探索性序列聚焦于检验和适切性。每种设计有其特有的效度威胁，详见各设计条目。
-
-> [!example]- 表10.2–10.4：三种核心设计的联合展示模板
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-2_Convergent_Design_Joint_Display_Template.jpg)
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-3_Explanatory_Sequential_Design_Joint_Display_Template.jpg)
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-4_Exploratory_Sequential_Design_Joint_Display_Template.jpg)
+三种设计的整合分析都使用联合展示作为标准工具，从中提取[[Metainferences|元推论]]——聚敛式聚焦于确认或分歧，解释性序列聚焦于延伸和细化，探索性序列聚焦于检验和适切性。每种设计有其特有的效度威胁：聚敛式需注意未跟进分歧、比较基础不明确、样本量差异；解释性序列需注意未穷尽跟进选项、仅关注人口学变量、两阶段样本不一致；探索性序列需注意测量工具开发不严谨、质性发现未被充分利用、样本混淆。详细讨论与联合展示模板（表10.2–10.4）见各设计条目：[[Convergent Design]]、[[Explanatory Sequential Design]]、[[Exploratory Sequential Design]]。
 
 ---
 
@@ -1303,13 +1291,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 | [[Mixed Methods Participatory-Social Justice Design\|混合方法参与式社会正义设计]] | 需求评估→侦察→规划→实施→评价→改进的循环流程，在侦察和评价阶段嵌入核心设计 | 建议团队方式，社区信任关系要求高 |
 | [[Mixed Methods Evaluation Design\|混合方法评价设计]] | 五阶段（需求评估→理论概念化→工具开发→实施检验→跟进完善），阶段间整合对应探索性序列和解释性序列的串联 | 混合方法作为评价过程支持性方法论 |
 
-将核心设计嵌入复杂程序的通用五步法：识别数据收集→绘制流程图→定位混合机会→判断整合方式（合并→聚敛式，连接→序列设计）→呈现双重图表。
-
-> [!example]- 图10.3–10.6：四种复杂设计图
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-3_Mixed_Methods_Intervention_Design.jpg)
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-4_Multiple_Case_Study_Design.jpg)
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-5_Mixed_Methods_Participatory_Action_Research_Design.jpg)
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-6_Mixed_Methods_Evaluation_Design.jpg)
+将核心设计嵌入复杂程序的通用五步法：识别数据收集→绘制流程图→定位混合机会→判断整合方式（合并→聚敛式，连接→序列设计）→呈现双重图表。四种复杂设计的图示（图10.3–10.6）见各自方法条目。
 
 ---
 
@@ -1324,11 +1306,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > | **探索性序列设计** | Build Upon, Transfer, Generalize | Connect（连接）：质性结果导向量化评估设计并检验 | 量化与质性两者 |
 > | **复杂混合方法设计** | Augment（optimize, ascertain needs, monitor） | Add into a process/framework（加入过程/框架） | 量化、质性或两者 |
 
-设计选择的首要依据是意图和程序（表 10.5），两张流程图（图 10.7、10.8）分别从意图和程序两个角度提供互补的决策路径。次要依据包括学科倾向、研究者规模、导师推荐。Creswell 明确反对将时间安排和数据优先级作为设计选择标准，主张量化和质性数据应享有同等合法性（p.251）。所有混合方法项目都必须包含[[Integration Statement|整合陈述]]，说明整合的意图和程序。三个范本详见 [[Integration Statement]] 条目。
-
-> [!example]- 图10.7–10.8：基于意图与程序的设计选择流程图
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-7_Flowchart_for_Choosing_Design_by_Intent.jpg)
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-8_Flowchart_for_Choosing_Design_by_Procedure.jpg)
+设计选择的首要依据是意图和程序（表 10.5）。两张决策流程图（图10.7 基于意图、图10.8 基于程序）见 [[Integration Statement]] 条目。次要依据包括学科倾向、研究者规模、导师推荐。Creswell 明确反对将时间安排和数据优先级作为设计选择标准，主张量化和质性数据应享有同等合法性（p.251）。所有混合方法项目都必须包含[[Integration Statement|整合陈述]]，按设计类型分别表述：聚敛式——通过合并比较两类结果以获得更完整的理解；解释性序列——通过连接量化阶段与质性后续来解释量化发现；探索性序列——通过质性探索来构建特定文化的测量工具再进行量化检验。完整范本与流程图（图10.7–10.8）见 [[Integration Statement]] 条目。
 
 ---
 
@@ -1467,7 +1445,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > ("[[Quantitative Research]] is an approach for testing objective theories by examining the relationship among variables or a comparison among groups. These variables, in turn, can be measured, typically on instruments, so that numbered data can be analyzed using statistical procedures.")（第1章, p.5）
 
 > [!quote]
-> “[[Mixed Methods Research|混合方法研究]]是一种探究路径，涉及收集量化和质性两类数据，使用特定的程序或设计，在该设计内合并（或[[Integration in Mixed Methods|整合]]）这两种形式的数据，并得出关于从合并数据库中涌现的洞见的结论（[[Metainferences|元推论]]）。”
+> “[[Mixed Methods Research|混合方法研究]]是一种探究路径，涉及收集量化和质性两类数据，使用特定的程序或设计，在该设计内合并（或整合）这两种形式的数据，并得出关于从合并数据库中涌现的洞见的结论（[[Metainferences|元推论]]）。”
 > ("Mixed methods research is an approach to inquiry involving collecting both quantitative and qualitative data, using a specific procedure or design, combining (or integrating) the two forms of data within the design, and drawing conclusions (metainferences) about the insight to emerge from the combined databases.")（第1章, p.5）
 
 > [!quote]
@@ -1484,7 +1462,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 > [!quote]
 > “混合方法研究涉及在一项研究中收集并‘混合’或整合量化和质性两类数据。仅仅分析你的质性和量化数据是不够的。进一步的分析包括整合这两个数据库，以获得对研究问题的额外洞见。”
-> ("Mixed methods research involves the collection and 'mixing' or integration of both quantitative and qualitative data in a study. It is not enough to only analyze your qualitative and quantitative data. Further analysis comprises integrating the two databases for additional insight into [[Research Problem|research problems]] and questions.")（前言）
+> ("Mixed methods research involves the collection and 'mixing' or [[Integration in Mixed Methods|integration]] of both quantitative and qualitative data in a study. It is not enough to only analyze your qualitative and quantitative data. Further analysis comprises integrating the two databases for additional insight into [[Research Problem|research problems]] and questions.")（前言）
 
 > [!quote]
 > “本书不是一本详细的方法论教材；相反，我们强调研究设计的核心特征。我们试图将研究简化为其核心理念，以便研究者能够规划一项彻底而深思熟虑的研究。”
