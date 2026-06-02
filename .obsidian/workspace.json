@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/methods/mixed/Explanatory Sequential Design.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -191,6 +191,8 @@
   },
   "active": "f290374ad363fcc2",
   "lastOpenFiles": [
+    "wiki/methods/mixed/Convergent Design.md",
+    "wiki/methods/mixed/Explanatory Sequential Design.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Swick_Jones_2025_AcademicHealthSystems.md",
     "wiki/theories/higher-education/Values Alignment Model.md",
     "wiki/theories/higher-education/King-Persily Model.md",
@@ -200,8 +202,6 @@
     "books/Hall_Boccanfuso_2025_Springer/Ch10_Swick_Jones_2025.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch10_Swick_Jones_2025.pdf",
     "raw/978-3-031-94913-5_10.pdf",
-    "wiki/methods/mixed/Convergent Design.md",
-    "wiki/methods/mixed/Explanatory Sequential Design.md",
     "wiki/methods/quantitative/Functional Magnetic Resonance Imaging.md",
     "wiki/methods/quantitative/Intent-to-Treat Analysis.md",
     "wiki/methods/mixed/Mixed Methods Research.md",
