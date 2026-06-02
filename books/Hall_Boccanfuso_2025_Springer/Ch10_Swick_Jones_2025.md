@@ -8,6 +8,7 @@ extracted_to:
   - "[[King-Persily Model]]"
   - "[[Triple Helix]]"
   - "[[Values Alignment Model]]"
+  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
