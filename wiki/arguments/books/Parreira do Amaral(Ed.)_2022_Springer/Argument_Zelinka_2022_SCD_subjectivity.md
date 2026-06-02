@@ -19,7 +19,6 @@ related_concepts:
   - "[[Knowledge Production]]"
 related_theories: []
 related_methods:
-  - "[[Single-Case Design]]"
   - "[[Critical Companion]]"
 related_persons: []
 related_facts: []
@@ -40,7 +39,7 @@ book_title: "Geopolitical Transformations in Higher Education_ Imagining, Fabric
 ## 研究问题
 
 > [!question]
-> 新[[Geopolitics of Knowledge|知识地缘政治]]（(new) Geopolitics of Knowledge）通过全球教育治理话语生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其副作用是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse]]，以下简称 [[Single-Case Design|SCD]]）为分析焦点，[[Probes|追问]]：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么（Zelinka, 2022, pp.251-252）。
+> 新[[Geopolitics of Knowledge|知识地缘政治]]（(new) Geopolitics of Knowledge）通过全球教育治理话语生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其副作用是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse]]，以下简称 [[21st Century Skills and Competencies Discourse|SCD]]）为分析焦点，[[Probes|追问]]：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么（Zelinka, 2022, pp.251-252）。
 
 ## 理论框架
 
@@ -76,7 +75,7 @@ book_title: "Geopolitical Transformations in Higher Education_ Imagining, Fabric
 
 ### 第二层：21 世纪 SCD 作为主体性生产的话语装置
 
-该章选择 21 世纪 [[21st Century Skills and Competencies Discourse|SCD]] 作为分析对象，因为它"在全球层面运作"，是观察全球教育转型过程的极佳窗口。推动 [[Single-Case Design|SCD]] 的包括政治、经济、教育和社会文化关切，核心聚焦于如何应对未来劳动市场和社会的**不确定性、不可预测性和不稳定性**（Zelinka, 2022, p.254）。
+该章选择 21 世纪 [[21st Century Skills and Competencies Discourse|SCD]] 作为分析对象，因为它"在全球层面运作"，是观察全球教育转型过程的极佳窗口。推动 [[21st Century Skills and Competencies Discourse|SCD]] 的包括政治、经济、教育和社会文化关切，核心聚焦于如何应对未来劳动市场和社会的**不确定性、不可预测性和不稳定性**（Zelinka, 2022, p.254）。
 
 **四个分析面向的提炼**（Zelinka, 2022, pp.258-260）：
 
@@ -134,7 +133,7 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 
 **缺乏实证验证**。该章属于概念性／理论性分析，虽然对七个框架进行了文本分析，但并未提供关于"主体实际如何回应 [[21st Century Skills and Competencies Discourse|SCD]]"的经验证据。主体性是被话语"生产"的还是在实际中被采纳、协商或抵抗的，该章的分析无法区分。
 
-**对 [[Single-Case Design|SCD]] 成因的解释较弱**。该章承认这些框架"有很好的理由"具有相似性——包括世界全球化、技术演进和创新需求（Chalkiadaki, 2018, p.10）——但迅速将分析转入批判模式，未充分探讨这些"合理理由"是否在某种程度上正当化了部分技能界定。
+**对 [[21st Century Skills and Competencies Discourse|SCD]] 成因的解释较弱**。该章承认这些框架"有很好的理由"具有相似性——包括世界全球化、技术演进和创新需求（Chalkiadaki, 2018, p.10）——但迅速将分析转入批判模式，未充分探讨这些"合理理由"是否在某种程度上正当化了部分技能界定。
 
 **Eurocentric frame**。尽管该章批评 SCD 的全球同质化和对区域差异的忽视，但其自身的理论资源（Foucault [[Governmentality|治理术]]、话语分析）和分析视角主要来自欧洲学术传统，对非西方教育哲学和主体性概念的参照有限。
 
