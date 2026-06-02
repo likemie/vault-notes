@@ -19,6 +19,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
+  - "[[T-Shaped Skills]]"
   - "[[Probes]]"
 related_theories:
   - "[[Values Alignment Model]]"
@@ -94,6 +95,9 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - **有效的产学伙伴关系** — 没有它，循环在每个阶段之间断裂
 > - **医师科学家** — 没有这个角色，循环无法从临床前线启动
 
+> [!example]- 图10-1：医学翻译循环（The Cycle of Medical Translation）
+> ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-1_Cycle_of_Medical_Translation.jpg)
+
 ---
 
 > [!info] 团队科学：诺贝尔奖趋势揭示的必然性
@@ -129,6 +133,9 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - **FQHC 合作网络**：与多个联邦认证健康中心（Federally Qualified Health Center, FQHC）合作，每个 FQHC 有不同的服务模式和独特且常处于服务不足状态的患者群体（pp.180–181）
 >
 > 这种结构创造了一种"双向学术管线"（bidirectional academic pipeline）：创新从旗舰研究所向区域医院和 FQHC 推送，在多样化的诊疗环境中接受验证；临床缺口和需求从区域与社区反馈回研究所，触发新一轮发现。**将研究带到患者身边，而不是要求患者来到研究所在之处**——这一设计扩展了临床试验的入口、人口结构和部署场景（pp.180–181）。
+
+> [!example]- 图10-2：学术健康系统的组织结构（Structure of an Academic Health System）
+> ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-2_Structure_of_Academic_Health_System.jpg)
 
 ---
 
@@ -171,6 +178,9 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!warning] 挑战五：超亚专业化的悖论
 > 超亚专业化（super-sub-specialization）在临床上有其合理性，但理想的创新伙伴需要 T 型技能——既有专业深度又有跨领域广度（pp.185–186）。极度亚专业化的专家可以熟练应用知识，但无法自行产生创新——"看不到全局"（cannot see the big picture）。围绕志同道合者组成的团队只能产生渐进式改进：**只有当思维方式不同的人汇聚在一起时，真正的创新才会发生**（p.186）。
+>
+> > [!example]- 图10-3：医用创新中的[[T-Shaped Skills|T型技能]]（T-Shaped Skills in AMI）
+> > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-3_T-Shaped_Skills_in_AMI.jpg)
 
 ---
 
@@ -185,6 +195,9 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - **创新型**：AHS 教师拥有创新和专利但需要伙伴支持规模化——优先知识产权保护和投资回报
 >
 > AHS 对每个新合作都以创新型态度进入，以备知识产权出现时保护已到位的投入（p.187）。
+
+> [!example]- 图10-4：合作光谱（A Spectrum of Partnerships）
+> ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-4_Spectrum_of_Partnerships.jpg)
 
 > [!abstract] 七重挑战的共同指向
 > 单一组织类型——无论是大学、产业还是医院——都无法独立穿越成本、监管、数据、复杂性、专业化、时间挤压和合作光谱定位的复合障碍。产学合作是**"唯一穿过这一切的路径"**（"the only path through these myriad challenges"）（p.187）。AHS 作为促进者，可以增强和放大产学合作的影响，加速创新从发现到诊疗交付的转化。
@@ -247,6 +260,9 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > - 这里的"价值对齐"意味着什么？
 > - 什么反向潮流（counter currents）正在将我们拉离对齐？
 > - 我们如何调和这些力量以重新对齐目标、平衡模型并共同实现创新？
+
+> [!example]- 图10-5：产学合作的价值对齐方法（A Values Alignment Approach to UI Partnerships）
+> ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-5_Values_Alignment_Approach.jpg)
 
 > [!abstract] 四方的优先差异与 ROI 定义
 > 对齐的目标通常始于"我们想治疗 X 疾病"，但各方对同一目标的理解完全不同（pp.190–191）：

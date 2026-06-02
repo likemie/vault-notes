@@ -14,3 +14,5 @@ part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
 
 # Ch10_Swick_Jones_2025
+
+![[Ch10_Swick_Jones_2025.pdf]]
