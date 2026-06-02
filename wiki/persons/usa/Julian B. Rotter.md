@@ -27,7 +27,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-02
 ---
 
 # Julian B. Rotter
@@ -46,23 +46,25 @@ updated: 2026-05-31
 ## 核心思想
 
 > [!tip]
-> Rotter 的核心贡献包括两个方面。第一，他系统阐述了[[Social Learning Theory|社会学习理论]]的四类[[Variable|变量]]：行为（behavior）、期望（expectancies）、强化（reinforcement）和心理情境（psychological situations）。第二，他提出了一般行为公式：特定心理情境中行为发生的潜力，是该行为将导致特定强化的期望与该强化价值的函数（Rotter, 1975, p.57; 引自 Creswell & Creswell, 2022, p.61）。公式中的期望[[Construct|构念]]进一步被定义为内部[[Locus of Control|控制点]]（个体相信强化是特定行为的函数）和外部控制点（结果被归因于运气、命运或有权力者）。[[Causality|因果关系]]感知根据先前经验和情境复杂性在连续体上变化（Rotter, 1966; Creswell & Creswell, 2022, p.61）。
+> Rotter 的核心贡献包括两个方面。第一，他系统阐述了[[Social Learning Theory|社会学习理论]]的四类变量：行为 (behavior)、期望 (expectancies)、强化 (reinforcement) 和心理情境 (psychological situations)。第二，他提出了一般行为公式：特定心理情境中行为发生的潜力，是该行为将导致特定强化的期望与该强化价值的函数（Rotter, 1975, p.57; 引自 Creswell & Creswell, 2022, p.61）。公式中的期望构念进一步被定义为内部[[Locus of Control|控制点]]（个体相信强化是特定行为的函数）和外部控制点（结果被归因于运气、命运或有权力者）。[[Causality|因果关系]]感知根据先前经验和情境复杂性在连续体上变化（Rotter, 1966; Creswell & Creswell, 2022, p.61）。
 
 > [!quote]
 > "the potential for a behavior to occur in any specific psychological situation is the function of the expectancy that the behavior will lead to a particular reinforcement in that situation and the value of that reinforcement"（Rotter, 1975, p.57）
+> 
+> 在任何特定心理情境下行为发生的潜力，是该行为在该情境下将导致特定强化的期望以及该强化价值的函数。
 
 ## 思想发展
 
 > [!note]
-> - **1954** — 出版 *Social Learning and Clinical Psychology*，奠定[[Social Learning Theory|社会学习理论]]的[[Variable|变量]]框架
-> - **1966** — 正式提出[[Locus of Control|控制点]][[Construct|构念]]，区分内部与外部控制点
+> - **1954** — 出版 *Social Learning and Clinical Psychology*，奠定[[Social Learning Theory|社会学习理论]]的变量框架
+> - **1966** — 正式提出[[Locus of Control|控制点]]构念，区分内部与外部控制点
 > - **1975** — 对控制点构念的应用问题进行澄清，包括连续体性质而非二分法的强调
 
 ## 影响
 
 > [!success]
-> - Rotter 的[[Social Learning Theory|社会学习理论]]四[[Variable|变量]]框架被后续研究者广泛应用，如 Crutchfield (1986) 将其应用于学术生产力研究
-> - [[Locus of Control|控制点]]（[[Locus of Control]]）[[Construct|构念]]成为动机心理学和人格心理学的核心概念之一
+> - Rotter 的[[Social Learning Theory|社会学习理论]]四变量框架被后续研究者广泛应用，如 Crutchfield (1986) 将其应用于学术生产力研究
+> - [[Locus of Control|控制点]]（[[Locus of Control]]）构念成为动机心理学和人格心理学的核心概念之一
 > - Rotter 的工作直接影响了 Weiner 的[[Attribution Theory|归因理论]]（[[Attribution Theory]]）发展——Weiner 将 Rotter 的单维度控制点概念扩展为来源、稳定性和可控性三个独立维度
 > - [[Social Learning Theory|社会学习理论]]构成了 Bandura 社会认知理论的前置基础
 

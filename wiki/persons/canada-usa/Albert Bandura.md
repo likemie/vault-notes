@@ -25,7 +25,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-02
 ---
 
 # Albert Bandura
@@ -49,6 +49,8 @@ updated: 2026-05-31
 
 > [!quote]
 > "This unified theoretical framework approaches the explanation of human behavior in terms of a continuous (reciprocal) interaction between cognitive, behavioral, and environmental determinants."（Bandura, 1977, p.vii; 引自 Creswell & Creswell, 2022, p.60）
+> 
+> 这一统一的理论框架通过认知、行为和环境决定因素之间的持续（互惠）交互作用来解释人类行为。
 
 ## 影响
 

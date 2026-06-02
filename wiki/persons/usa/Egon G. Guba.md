@@ -28,7 +28,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-02
 ---
 
 # Egon G. Guba
@@ -36,7 +36,7 @@ updated: 2026-05-31
 ## 简介
 
 > [!info]
-> Egon G. Guba（1924–2008），美国教育评价与研究方法论学者，印第安纳大学荣休教授。Guba 早年专注于教育项目评价，与 [[Yvonna S. Lincoln]] 合作后转向[[Constructivist Paradigm|建构主义范式]]的系统阐述。二人合著的 *Naturalistic Inquiry*（1985）是[[Qualitative Research|质性研究]]方法论的奠基之作。Guba (1990, p.17) 对世界观的经典定义——"一套引导行动的基本信念"（"a basic set of beliefs that guide action"）——被 Creswell & Creswell (2022, p.7) 在全书第一章引用，作为全书哲学世界观讨论的定义起点，贯穿量化、质性和[[Mixed Methods Research|混合方法]]三条研究路径的全部后续讨论。
+> Egon G. Guba（1924–2008），美国教育评价与研究方法论学者，印第安纳大学荣休教授。Guba 早年专注于教育项目评价，与 [[Yvonna S. Lincoln]] 合作后转向[[Constructivist Paradigm|建构主义范式]]的系统阐述。二人合著的 *Naturalistic Inquiry*（1985）是[[Qualitative Research|质性研究]]方法论的奠基之作。Guba (1990, p.17) 对世界观的经典定义——一套引导行动的基本信念（a basic set of beliefs that guide action）——被 Creswell & Creswell (2022, p.7) 在全书第一章引用，作为全书哲学世界观讨论的定义起点，贯穿量化、质性和[[Mixed Methods Research|混合方法]]三条研究路径的全部后续讨论。
 
 ## 主要著作
 
@@ -46,10 +46,12 @@ updated: 2026-05-31
 ## 核心思想
 
 > [!tip]
-> Guba 对研究方法论的核心贡献体现在两个领域。在教育评价方面，他提出第四代评价模型，将评价从测量、描述、判断推进到以利益相关者协商为核心的[[Constructivist Paradigm|建构主义范式]]。在[[Qualitative Research|质性研究]]方法论方面，他与 [[Yvonna S. Lincoln|Lincoln]] 共同建立了自然主义探究的认识论和操作体系，其中包括对"模式理论"的定义——自然主义研究中发展的解释表现为相互关联的思想模式，区别于[[Quantitative Research|量化研究]]的演绎假设检验（Creswell & Creswell, 2022, p.67）。
+> Guba 对研究方法论的核心贡献体现在两个领域。在教育评价方面， he 提出第四代评价模型，将评价从测量、描述、判断推进到以利益相关者协商为核心的[[Constructivist Paradigm|建构主义范式]]。在[[Qualitative Research|质性研究]]方法论方面，他与 [[Yvonna S. Lincoln|Lincoln]] 共同建立了自然主义探究的认识论和操作体系，其中包括对模式理论的定义——自然主义研究中发展的解释表现为相互关联的思想模式，区别于[[Quantitative Research|量化研究]]的演绎假设检验（Creswell & Creswell, 2022, p.67）。
 
 > [!quote]
 > "We have chosen to use the term worldview as meaning 'a basic set of beliefs that guide action' (Guba, 1990, p. 17)."（引自 Creswell & Creswell, 2022, p.7）
+> 
+> 我们选择使用世界观一词，意指一套引导行动的基本信念。
 
 ## 影响
 
