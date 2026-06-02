@@ -12,6 +12,7 @@ extracted_to:
   - "[[Partnership Continuum]]"
   - "[[Physician-Scientist]]"
   - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

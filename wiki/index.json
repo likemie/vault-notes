@@ -1717,7 +1717,8 @@
       "伙伴关系连续体",
       "UIDP partnership continuum",
       "合作连续体",
-      "UIDP 伙伴关系连续体"
+      "UIDP 伙伴关系连续体",
+      "Spectrum of Partnerships"
     ]
   },
   {
@@ -3884,7 +3885,6 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Probes.md",
     "aliases": [
-      "追问",
       "追问提示",
       "interview probes",
       "probing questions"

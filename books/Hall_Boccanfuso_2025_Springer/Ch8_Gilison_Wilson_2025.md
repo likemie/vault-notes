@@ -13,7 +13,6 @@ extracted_to:
   - "[[Technology Readiness Level]]"
   - "[[Technology Transfer]]"
   - "[[University Spin-Out]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Alliance for Southern California Innovation]]"
   - "[[First Look SoCal]]"
   - "[[Kendall Square]]"
@@ -21,6 +20,7 @@ extracted_to:
   - "[[National Science Foundation]]"
   - "[[SBIR and STTR Programs]]"
   - "[[UCSD Innovation and Commercialization Office]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-29
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
