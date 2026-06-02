@@ -17,12 +17,14 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Master Agreement]]"
+  - "[[Foreground IP]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
 sources:
+  - "[[Ch15_Susalka_Carbone_2025]]"
   - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
 confidence: medium
 status: draft
@@ -39,7 +41,7 @@ updated: 2026-06-02
 
 ## 核心机制
 
-> [!abstract]
+> [![[Abstract]]]
 > IP 谈判存在两种截然不同的情境，二者的动态逻辑完全不同（p.314）：
 
 | 情境 | 谈判动态 | 焦点 |
@@ -66,6 +68,20 @@ updated: 2026-06-02
 > - 确保"[[Pre-negotiated IP Rights|优先谈判权]]"的条款足够具体，涵盖触发条件、谈判期限、未能达成协议的后果
 > - 在跨国情境中，预先协商需要额外考虑各国 IP 法律的不兼容性。由于不存在"国际专利"，预先协商的框架需要明确指定适用的司法管辖区
 
+## 替代定价方案
+
+> [!example]
+> 为缓解产业方对 IP 许可定价"被绑架"的担忧——企业担心如果等待 [[Foreground IP|FIP]] 价值明朗后再谈判将被大学索取过高价格——一些大学发展出菜单式预先定价方案。明尼苏达大学的 MN-IP Create 项目是典型范例，提供三种 FIP 权利选项（Susalka & Carbone, 2025, p.283）：
+
+| 选项 | 预付费 | 获得权利 | 版税条件 |
+|------|--------|---------|---------|
+| A | 赞助研究协议价值的 10% 或 $15,000（取高者） | 排他、可分许可的商业许可 | 年净销售额超 $2000 万时 1% |
+| B（标准） | 无 | 非商业 NERF 许可 + 6 个月商业许可谈判选择权 | 后续协商 |
+| C | 赞助研究协议价值的 10% 或 $10,000（取高者） | 商业 NERF 许可 + 排他许可选择权 | 后续协商 |
+
+> 部分预先协商协议还包含"意外收获条款"：当许可产品销售额达到特定门槛时企业支付额外费用。这保护大学不会因特别有价值的 FIP 而"贱卖"，同时允许企业在 FIP 价值适中时以较低成本获得权利（pp.282–283）。
+
 ## 来源
 
+- [[Ch15_Susalka_Carbone_2025]]
 - [[Ch17_Wolf_Stevenson_Siegel_2025]]

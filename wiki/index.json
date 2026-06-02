@@ -1251,6 +1251,17 @@
     ]
   },
   {
+    "title": "Background IP",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Background IP.md",
+    "aliases": [
+      "BIP",
+      "背景知识产权",
+      "background intellectual property",
+      "background IP"
+    ]
+  },
+  {
     "title": "Boundary Spanner",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Boundary Spanner.md",
@@ -1432,6 +1443,17 @@
     ]
   },
   {
+    "title": "Foreground IP",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Foreground IP.md",
+    "aliases": [
+      "FIP",
+      "前景知识产权",
+      "foreground intellectual property",
+      "foreground IP"
+    ]
+  },
+  {
     "title": "Fourth Generation University",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Fourth Generation University.md",
@@ -1442,6 +1464,17 @@
       "fourth generation university model",
       "4th generation university",
       "fourth mission"
+    ]
+  },
+  {
+    "title": "Freedom to Operate",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Freedom to Operate.md",
+    "aliases": [
+      "FTO",
+      "自由实施权",
+      "freedom to operate",
+      "freedom-to-operate"
     ]
   },
   {
@@ -9151,6 +9184,11 @@
     "title": "Argument_Narayan_Spohrer_2025_Metrics",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md"
+  },
+  {
+    "title": "Argument_Susalka_Carbone_2025_IP_Web",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Susalka_Carbone_2025_IP_Web.md"
   },
   {
     "title": "Argument_Swick_Jones_2025_AcademicHealthSystems",

@@ -29,4 +29,5 @@ processed_date: 2026-05-27
 - [[Argument_Gilison_Wilson_2025_UniversityStartups]]
 - [[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]
 - [[Argument_Swick_Jones_2025_AcademicHealthSystems]]
+- [[Argument_Susalka_Carbone_2025_IP_Web]]
 - [[Argument_Wolf_2025_InternationalResearchCollab]]

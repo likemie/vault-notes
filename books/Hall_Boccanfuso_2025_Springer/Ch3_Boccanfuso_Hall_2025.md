@@ -6,7 +6,6 @@ extracted_to:
   - "[[Boundary Spanner]]"
   - "[[Concierge Service]]"
   - "[[Entrepreneurial University]]"
-  - "[[Industry Affiliate Program]]"
   - "[[Innovation Park]]"
   - "[[Knowledge Integration Community]]"
   - "[[Knowledge Transfer]]"
@@ -18,6 +17,7 @@ extracted_to:
   - "[[Triple Helix]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[Industry Affiliate Program]]"
   - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"

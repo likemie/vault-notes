@@ -16,6 +16,8 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Research Question]]"
+  - "[[Foreground IP]]"
+  - "[[Background IP]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -46,11 +48,11 @@ updated: 2026-05-28
 
 ## 核心要素
 
-> [!abstract]
+> [![[Abstract]]]
 > 一份完整的主协议通常覆盖以下条款领域（pp.107–108）：
 
 1. **研究目标与项目类型**：界定主协议覆盖的合作范围——哪些类型的研究属于框架内，哪些需要单独协议
-2. **知识产权归属与使用**：前景 IP（foreground IP）的归属方、许可方式（排他/非排他、免版税/收费）、成员的使用权范围、背景 IP（background IP）的保护
+2. **知识产权归属与使用**：前景 IP（[[Foreground IP]]）的归属方、许可方式（排他/非排他、免版税/收费）、成员的使用权范围、背景 IP（[[Background IP]]）的保护
 3. **出版审批**：研究成果发表前的审查流程——企业有权在提交前审查稿件以识别专利保护需求或保密信息，但无权否决发表
 4. **保密义务**：双方在合作期间及之后对专有信息的保护责任、保密期限和例外情形
 5. **赔偿责任**：双方在合作中的责任边界、赔偿触发条件和限额

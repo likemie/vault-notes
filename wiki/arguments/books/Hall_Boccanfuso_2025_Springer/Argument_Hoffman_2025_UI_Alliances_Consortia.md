@@ -13,6 +13,7 @@ tags:
   - "theme/innovation"
   - "theme/organizational-strategy"
 related_concepts:
+  - "[[Research Question]]"
   - "[[University-Industry Collaboration]]"
   - "[[Precompetitive Research]]"
   - "[[Industry Advisory Board]]"
@@ -21,7 +22,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Learning Analytics]]"
   - "[[Master Agreement]]"
-  - "[[Research Question]]"
+  - "[[Foreground IP]]"
   - "[[Pre-negotiated IP Rights]]"
   - "[[Product-Specific Research]]"
   - "[[Research Topic]]"
@@ -48,7 +49,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > [[University-Industry Collaboration|产学合作]]最常见的起点是一家企业资助一个教授实验室的研究项目。但当合作从"一个实验室 + 一家企业"的单点互动，扩展到覆盖多个院系、跨越研究-教学-人才-设施的多维参与时，应该如何组织和管理？有哪些可用的组织模式，各自适用于什么条件？（pp.103–105）
 >
 > 当产学合作从"项目"升级为"联盟"甚至"联合体"时，管理逻辑必须从"管项目"切换为"管关系"和"管制度"。大多数大学和企业并不清楚这个切换需要什么具体条件。
@@ -57,7 +58,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ## 理论框架
 
-> [!abstract] 理论框架
+> [![[Abstract]]] 理论框架
 > 三位作者来自[[University-Industry Collaboration|产学合作]]管理一线——Hoffman 在波音任职 36 年，曾任知识产权管理副总裁；Radasch 有 40 年航空航天产业技术合作经验；Thorsell 在 [[University Industry Demonstration Partnership|UIDP]] 从事跨部门创新合作——其框架是从实践经验中归纳而非从理论中演绎的。
 >
 > - **[[University-Industry Collaboration]]** — 本章在这个总概念下区分了两种组织形态：联盟（alliance）是双边综合伙伴关系，涵盖赞助研究、人才培养、设施共享等多重互动；联合体（consortium）则是多所大学与多家企业共同投入资源支持共同利益（pp.103–104）
@@ -141,7 +142,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 >
 > 9. 企业联盟计划把 IAB 的"纯对话"升级到了"对话 + 资金 + 研究"。它是大学主导的、多家企业付费参与的论坛，聚焦特定领域的研究和学生对接（pp.109–111）。企业在评估是否加入时通常考虑五个维度：研究焦点是否与公司内部优先事项对齐、CAP 的成熟度和历史成绩（发明披露、专利）、与其他成员建立联系的机会（对同一个技术感兴趣但应用场景不同的公司）、与具体教师或学生的深度互动机会，以及会费相对于预期收益的性价比。
 >
-> 10. CAP 有两种法律形式：**捐赠型**（gift-based）和**合同型**（contract-based）。捐赠型流程快——因为不承诺直接交付物或知识产权——但企业获得感也少。合同型适合以研究为重点的 CAP：多企业汇集资金，共同投票选择资助哪些项目，研究结束后谈判前景知识产权（Foreground Intellectual Property, FIP）许可。如果所有成员都不追求许可，大学可以许可给第三方。常见做法是先汇集资金做一轮探索性研究，有前景的方向再由个别企业出资做校外聚焦研究（pp.110–111）。
+> 10. CAP 有两种法律形式：**捐赠型**（gift-based）和**合同型**（contract-based）。捐赠型流程快——因为不承诺直接交付物或知识产权——但企业获得感也少。合同型适合以研究为重点的 CAP：多企业汇集资金，共同投票选择资助哪些项目，研究结束后谈判[[Foreground IP|前景知识产权]]（Foreground Intellectual Property, FIP）许可。如果所有成员都不追求许可，大学可以许可给第三方。常见做法是先汇集资金做一轮探索性研究，有前景的方向再由个别企业出资做校外聚焦研究（pp.110–111）。
 >
 > > 一个跨校的"学习科学 CAP"由三所大学联合运营，12 家教育科技企业各缴纳 $25K 年费。年度流程是：秋季所有成员在技术委员会上听取教授的项目提案并投票选出入选项目，研究资金从会费池中拨出；次年夏季成果展示会上，成员决定是否对某个成果行使优先许可权。一家做自适应学习平台的公司看中了某项目产出的"知识追踪算法"，在成果展示会后单独出资 $150K 与教授开展专项后续研究。这就是 CAP 的核心功能：**用会费池做探索，用专项研究做转化**。
 >

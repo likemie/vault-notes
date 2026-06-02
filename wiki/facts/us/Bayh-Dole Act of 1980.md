@@ -32,6 +32,7 @@ sources:
   - "[[Schulze-Cleven_2017_HighEduc]]"
   - "[[Ch1_Boccanfuso_Hall_2025]]"
   - "[[Ch3_Boccanfuso_Hall_2025]]"
+  - "[[Ch15_Susalka_Carbone_2025]]"
   - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
@@ -70,7 +71,7 @@ Bayh-Dole Act（正式名称为 Patent and Trademark Law Amendments Act）于 19
 
 ## 对产学合作的影响
 
-> [!abstract]
+> [![[Abstract]]]
 Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识产权管理创造了制度基础。在产学合作的实践中（p.14）：
 
 1. 企业与大学的合同与拨款办公室协商赞助研究所产生的知识产权权利
@@ -101,10 +102,16 @@ Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识�
 - **[[Academic Capitalism|学术资本主义]]的法律基础设施**：Bayh-Dole Act 是[[Academic Capitalism|学术资本主义]]——大学日益卷入专利商业化、[[University-Industry Collaboration|产学合作]]和创收项目——的核心法律支柱。没有这部法案，大学通过专利许可获取收入的制度空间将受到根本性限制
 - **公共资金与私人利润的交织**：该法案制造了一个典型的"半市场"安排：研究由公共资金（联邦拨款）支付，但商业化的利润由私人（大学和企业）获取。学术界的"市场化"在相当程度上是公共资金换了一种方式继续流动——不是直接资助大学，而是通过专利许可和市场交易来间接实现。这也呼应了知识虚拟商品化的核心张力：公共生产的知识如何转化为可私人占有的资产
 
+## 联邦研究资助的结构性变化
+
+> [!note]
+> Bayh-Dole Act 通过后，大学研究资助的来源结构发生了显著变化。联邦资助占大学研究支出的比例从 1991 年的约 70% 下降到 2021 年的不足 60%（AUTM, 2024, cited in Susalka & Carbone, 2025, p.273）。与此同时，产业资金成为重要的替代来源——2023 年仅美国[[University-Industry Collaboration|产学合作]]研究资助即超过 71 亿美元（p.273）。在这一背景下，Bayh-Dole Act 赋予大学的知识产权所有权愈发展现其战略价值：它使大学能够将联邦资助产生的研究成果转化为可向产业许可的资产，从而在联邦资金相对缩水的情况下维持研究体系的运转。
+
 ## 来源
 
 - [[Schulze-Cleven_2017_HighEduc]]
 - [[Ch1_Boccanfuso_Hall_2025]]
 - [[Ch3_Boccanfuso_Hall_2025]]
+- [[Ch15_Susalka_Carbone_2025]]
 - [[Ch17_Wolf_Stevenson_Siegel_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]
