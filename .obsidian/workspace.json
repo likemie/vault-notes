@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/methods/mixed/Mixed Methods Research.md",
+                "file": "wiki/concepts/research-methodology/Integration Statement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Mixed Methods Research"
+              "title": "Integration Statement"
             }
           }
         ]
@@ -192,11 +192,16 @@
   "active": "6178dab4cf11f46c",
   "lastOpenFiles": [
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+    "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md",
+    "wiki/methods/qualitative/Qualitative Research.md",
+    "wiki/methods/mixed/Mixed Methods Research.md",
+    "wiki/methods/mixed/Mixed Methods Evaluation Design.md",
+    "wiki/methods/mixed/Mixed Methods Participatory-Social Justice Design.md",
+    "wiki/methods/mixed/Mixed Methods Experimental Design.md",
+    "wiki/methods/mixed/Mixed Methods Case Study Design.md",
     "wiki/methods/mixed/Convergent Design.md",
     "wiki/facts/global/Mixed Methods International Research Association.md",
-    "books/Creswell_2022_SAGE/Creswell_2022_SAGE.md",
     "wiki/methods/quantitative/Survey Research.md",
-    "wiki/methods/qualitative/Qualitative Research.md",
     "raw/016_Chapter 10 Mixed Methods Procedures.txt",
     "wiki/methods/qualitative/Qualitative Interview.md",
     "wiki/methods/qualitative/Coding in Qualitative Research.md",
@@ -218,13 +223,8 @@
     "raw/007_Chapter 2 Review of the Literature.txt",
     "raw/006_Chapter 1 The Selection of a Research Approach.txt",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md.tmp.56605.256fccc2b3b5",
-    "wiki/methods/mixed/Mixed Methods Research.md",
     "wiki/concepts/research-methodology/Integration in Mixed Methods.md",
     "wiki/methods/mixed/Prototype Methods.md",
-    "wiki/concepts/research-methodology/Mixed Methods Question.md",
-    "wiki/concepts/research-methodology/Multimethod Research.md",
-    "wiki/methods/mixed/Mixed Methods Evaluation Design.md",
-    "wiki/methods/mixed/Mixed Methods Case Study Design.md",
     "wiki/concepts/research-methodology/Integration Statement.md.tmp.56605.38fba7d88641",
     "wiki/arguments/books/Creswell_Creswell_2023_SAGE"
   ]
