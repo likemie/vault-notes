@@ -16,8 +16,8 @@ extracted_to:
   - "[[Smith Lever Act of 1914]]"
   - "[[University, Inc. (Washburn, 2005)]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Triple Helix]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

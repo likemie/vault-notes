@@ -5,7 +5,6 @@ extracted_to:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[International Education Hubs]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[Transnational Research Collaboration]]"
   - "[[Classical Geopolitics]]"
   - "[[Knowledge Capitalism]]"
   - "[[New Public Management]]"
@@ -17,6 +16,7 @@ extracted_to:
   - "[[Critical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Transnational Research Collaboration]]"
 processed_date: 2026-05-10
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

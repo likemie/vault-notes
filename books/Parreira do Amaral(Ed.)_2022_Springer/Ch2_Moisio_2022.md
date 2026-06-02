@@ -9,7 +9,6 @@ extracted_to:
   - "[[Knowledge Capitalism]]"
   - "[[National Competitive Advantage]]"
   - "[[Progressive Neoliberalism]]"
-  - "[[Spatial Sortings]]"
   - "[[Sami Moisio]]"
   - "[[Bob Jessop]]"
   - "[[Michael Porter]]"
@@ -17,6 +16,7 @@ extracted_to:
   - "[[Fixity-Motion Tension]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Spatial Sortings]]"
 processed_date: 2026-05-07
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 ---

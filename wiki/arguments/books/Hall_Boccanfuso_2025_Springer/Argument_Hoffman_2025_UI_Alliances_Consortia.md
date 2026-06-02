@@ -22,6 +22,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Master Agreement]]"
   - "[[Research Question]]"
+  - "[[Pre-negotiated IP Rights]]"
   - "[[Product-Specific Research]]"
   - "[[Research Topic]]"
 related_theories: []
@@ -152,7 +153,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 >
 > 12. 在价值主张上，大学研究型中心与 CAP 的关键区别在于议程设置方式。CAP 的研究议程由委员会从零开始共同制定。大学研究型中心则**由大学先选定研究方向，然后产业基于对齐度决定是否加入**。这降低了产业成员的参与门槛（不需要自己定义[[Research Question|研究问题]]），但也意味着如果大学的研究方向与产业需求不匹配，中心可能招不到成员。
 >
-> 13. 在知识产权上，不同中心采用不同方案。最常见的做法是给予产业成员**前景 IP 的优先谈判权**（first right of refusal）——投资研究的成员在技术许可队列中排在最前面，排在大学主动接触的外部企业之前。有的联合体允许多家企业在不同应用领域获得排他许可。而软件等特殊领域，一些联合体选择将所有前景 IP 公开或开源——这种做法在硬件和分子研发领域则少见得多（p.112）。
+> 13. 在知识产权上，不同中心采用不同方案。最常见的做法是给予产业成员**前景 IP 的[[Pre-negotiated IP Rights|优先谈判权]]**（first right of refusal）——投资研究的成员在技术许可队列中排在最前面，排在大学主动接触的外部企业之前。有的联合体允许多家企业在不同应用领域获得排他许可。而软件等特殊领域，一些联合体选择将所有前景 IP 公开或开源——这种做法在硬件和分子研发领域则少见得多（p.112）。
 >
 > ---
 >

@@ -9,12 +9,12 @@ extracted_to:
   - "[[Third Mission (Universities)]]"
   - "[[Innovation Models Evolution]]"
   - "[[Innovation Policy Paradigms]]"
-  - "[[Knowledge-Based Economization]]"
   - "[[Transformative Change]]"
   - "[[Systems of Innovation]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Triple Helix]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Knowledge-Based Economization]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

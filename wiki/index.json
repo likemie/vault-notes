@@ -1267,18 +1267,6 @@
     ]
   },
   {
-    "title": "Co-location (University-Industry)",
-    "type": "concept",
-    "path": "wiki/concepts/higher-education/Co-location (University-Industry).md",
-    "aliases": [
-      "产学共同选址",
-      "大学产业共同选址",
-      "co-location",
-      "colocation",
-      "UI co-location"
-    ]
-  },
-  {
     "title": "Competitiveness",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Competitiveness.md",
@@ -1765,6 +1753,19 @@
     ]
   },
   {
+    "title": "Pre-negotiated IP Rights",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Pre-negotiated IP Rights.md",
+    "aliases": [
+      "预先协商知识产权",
+      "Pre-negotiated IP Rights",
+      "预先协商IP权利",
+      "pre-negotiated IP rights",
+      "first right to negotiate",
+      "优先谈判权"
+    ]
+  },
+  {
     "title": "Precompetitive Research",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Precompetitive Research.md",
@@ -2078,6 +2079,19 @@
       "university research center",
       "university-based research centre",
       "产学合作研究中心"
+    ]
+  },
+  {
+    "title": "University-Industry Co-location",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/University-Industry Co-location.md",
+    "aliases": [
+      "产学共同选址",
+      "Co-location (University-Industry)",
+      "大学产业共同选址",
+      "co-location",
+      "colocation",
+      "UI co-location"
     ]
   },
   {
@@ -7886,6 +7900,16 @@
     ]
   },
   {
+    "title": "African Orphan Crops Consortium",
+    "type": "fact",
+    "path": "wiki/facts/global/African Orphan Crops Consortium.md",
+    "aliases": [
+      "非洲孤儿作物联盟",
+      "AOCC",
+      "African Orphan Crops Consortium"
+    ]
+  },
+  {
     "title": "Network of Academic Corporate Relations Officers",
     "type": "fact",
     "path": "wiki/facts/global/Network of Academic Corporate Relations Officers.md",
@@ -7935,11 +7959,12 @@
     ]
   },
   {
-    "title": "Nagoya Protocol (2014)",
+    "title": "Nagoya Protocol",
     "type": "fact",
-    "path": "wiki/facts/global/Nagoya Protocol (2014).md",
+    "path": "wiki/facts/global/Nagoya Protocol.md",
     "aliases": [
       "名古屋议定书",
+      "Nagoya Protocol (2014)",
       "Nagoya Protocol on Access and Benefit-sharing",
       "遗传资源获取与惠益分享名古屋议定书"
     ]
@@ -9006,6 +9031,16 @@
     "aliases": [
       "何者有效清算中心",
       "WWC"
+    ]
+  },
+  {
+    "title": "Innovation Institute for Food and Health",
+    "type": "fact",
+    "path": "wiki/facts/us/Innovation Institute for Food and Health.md",
+    "aliases": [
+      "食品与健康创新研究所",
+      "IIFH",
+      "Innovation Institute for Food and Health"
     ]
   },
   {

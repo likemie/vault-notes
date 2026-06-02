@@ -29,7 +29,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Executive Education]]"
   - "[[Further Education]]"
-  - "[[Co-location (University-Industry)]]"
+  - "[[University-Industry Co-location]]"
   - "[[University Spin-Out]]"
   - "[[Industry Advisory Board]]"
   - "[[Professors of Practice]]"
@@ -190,7 +190,7 @@ updated: 2026-05-30
 - **联合开发物理设施**：共同投资实验室、中试车间等
 - **培训与[[Executive Education|高管教育]]**：为企业员工提供[[Further Education|继续教育]]。高管教育处于大学与产业的界面上，既是产学合作的产物，也是深化合作关系的入口。定制化高管教育项目将大学的前沿研究翻译为产业可用的知识框架，为更长期的研究合作和人才合作奠定信任基础（Lerner-Lam et al., 2025, pp.155-170）
 - **人员交流**（people exchange）：实习、联合聘任（joint appointments）、借调（secondments）
-- **共同选址**（[[Co-location (University-Industry)|co-location]]）：产业人员在大学校园内专用空间中与大学研究人员共同开展合作或独立研究。通过缩短物理距离来降低沟通和文化壁垒，促进思想交流——典型案例包括联合利华在瓦赫宁根大学的 Hive 中心（500 名员工驻校）和 Mars 在 UC Davis 的 MARI 研究院（Wolf et al., 2025, pp.317–318）
+- **共同选址**（[[University-Industry Co-location|co-location]]）：产业人员在大学校园内专用空间中与大学研究人员共同开展合作或独立研究。通过缩短物理距离来降低沟通和文化壁垒，促进思想交流——典型案例包括联合利华在瓦赫宁根大学的 Hive 中心（500 名员工驻校）和 Mars 在 UC Davis 的 MARI 研究院（Wolf et al., 2025, pp.317–318）
 - **非正式互动**：网络活动、联合参加会议、邀请企业进校园讲座——这些活动对建立社会关系和促进隐性知识流动至关重要
 
 > 在互动层次上，UIDP（2012）区分了战术/交易型互动（tactical and transactional）、协作型互动（collaborations）和战略伙伴关系（strategic partnerships）——不同层次适用不同的治理安排。Perkmann 和 Salter（2012）则按价值主张区分了四种合作模式：创意实验室（吸引新伙伴、建立关系）、重大挑战协作（适合通过联合体或中心组织）、扩展工作台（解决近期问题）、深度探索（长期产业资助大学研究中心）（Ulrichsen, 2025, pp.45–46）。

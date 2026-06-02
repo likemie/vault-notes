@@ -3,7 +3,6 @@ citation: "Parreira do Amaral, M., & Thompson, C. (Eds.). (2022). Geopolitical T
 extracted_to:
   - "[[Argument_Parreira do Amaral_2022_Springer]]"
   - "[[Global Regionalisms]]"
-  - "[[Knowledge-Based Economization]]"
   - "[[Regulatory Regionalism]]"
   - "[[Horizon 2020 SSH Integration]]"
   - "[[Horizon Europe Missions]]"
@@ -11,6 +10,7 @@ extracted_to:
   - "[[Marcelo Parreira do Amaral]]"
   - "[[Christiane Thompson]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge-Based Economization]]"
 processed_date: 2026-05-07
 ---
 

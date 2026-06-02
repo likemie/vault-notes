@@ -5,7 +5,6 @@ extracted_to:
   - "[[International Education Hubs]]"
   - "[[Cultural Diplomacy]]"
   - "[[Hub and Flow Imaginaries]]"
-  - "[[Spatial Sortings]]"
   - "[[Singapore Education Hub Policy]]"
   - "[[UAE Education Hub Projects]]"
   - "[[Comparative Case Study]]"
@@ -13,6 +12,7 @@ extracted_to:
   - "[[Bob Jessop]]"
   - "[[Cultural Political Economy]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Spatial Sortings]]"
 processed_date: 2026-05-19
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

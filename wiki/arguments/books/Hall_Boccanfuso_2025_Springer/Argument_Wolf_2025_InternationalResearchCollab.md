@@ -14,11 +14,12 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Analytic Framework]]"
-  - "[[Co-location (University-Industry)]]"
+  - "[[University-Industry Co-location]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Theoretical Perspective]]"
   - "[[Technology Transfer]]"
   - "[[Return on Investment]]"
+  - "[[Pre-negotiated IP Rights]]"
 related_theories:
   - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Dollinger et al. Framework for UI Collaboration]]"
@@ -27,9 +28,11 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[African Orphan Crops Consortium]]"
+  - "[[Innovation Institute for Food and Health]]"
   - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
-  - "[[Nagoya Protocol (2014)]]"
+  - "[[Nagoya Protocol]]"
 related_arguments: []
 sources:
   - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
@@ -51,7 +54,7 @@ issuing_organization: ""
 > [!question]
 > 国际产学（University-Industry, UI）研究合作的出版物数量在过去二十年显著增长，尤其是涉及三个及以上国家的合作（p.311）。然而跨国研究团队不仅面临一般[[University-Industry Collaboration|产学合作]]中的目标分歧和知识产权障碍，还叠加了跨境特有的地缘政治风险、法律框架冲突和文化沟通壁垒。这些额外复杂性的来源是什么？它们如何相互关联？是否存在可复制的成功模式？
 >
-> 本章以实践者和研究者的双重视角，系统梳理国际 UI 合作的五重挑战的内在结构，评估两个[[Analytic Framework|分析框架]]的解释力，并以 Mars 与 UC Davis 四十年合作中的三个案例为证据链，论证：国际 UI 合作的成功不仅取决于逐个克服上述挑战，更取决于建立一种以互利（mutuality）为核心的组织机制——共同选址（[[Co-location (University-Industry)|co-location]]）是该机制的关键空间策略。
+> 本章以实践者和研究者的双重视角，系统梳理国际 UI 合作的五重挑战的内在结构，评估两个[[Analytic Framework|分析框架]]的解释力，并以 Mars 与 UC Davis 四十年合作中的三个案例为证据链，论证：国际 UI 合作的成功不仅取决于逐个克服上述挑战，更取决于建立一种以互利（mutuality）为核心的组织机制——共同选址（[[University-Industry Co-location|co-location]]）是该机制的关键空间策略。
 
 ---
 
@@ -70,7 +73,7 @@ issuing_organization: ""
 > 本章为实践导向的综述与案例分析章节，非实证研究。方法包括：
 > - 对国际 UI 合作文献和行业报告（APLU、[[University Industry Demonstration Partnership|UIDP]]、Elsevier 等）的综合梳理
 > - 作者基于 Mars（Wolf 和 Stevenson 所属机构）与 UC Davis（Siegel 所属机构）四十年合作的一手实践经验
-> - 三个案例研究——水稻干湿交替灌溉（AWD）、非洲孤儿作物联盟（AOCC）、食品与健康创新研究所（IIFH）——作为证据链的核心支撑
+> - 三个案例研究——水稻干湿交替灌溉（AWD）、[[African Orphan Crops Consortium|非洲孤儿作物联盟]]（AOCC）、[[Innovation Institute for Food and Health|食品与健康创新研究所]]（IIFH）——作为证据链的核心支撑
 
 ---
 
@@ -79,9 +82,9 @@ issuing_organization: ""
 ### 第一步：国际 UI 合作的特殊性来自基础研究与应用研究在跨国条件下的张力叠加
 
 > [!note] 巴斯德象限：为什么国际 UI 合作天然落在"应用启发的基础研究"区间
-> 学术界专长于基础研究——追求对现象的根本科学理解；产业界聚焦于应用研究——以解决现实问题为首要目标（p.310）。两者的自然交汇点正是 Stokes（1997）四象限模型中的巴斯德象限：**[[Use-Inspired Basic Research|应用启发的基础研究]]**——既追求深层机制理解，又受实际需求驱动。
+> 学术界专长于基础研究——追求对现象的根本科学理解；产业界聚焦于应用研究——以解决现实问题为首要目标（p.310）。两者的自然交汇点正是 Stokes（1997）四象限模型中的[[Use-Inspired Basic Research|巴斯德象限]]：**[[Use-Inspired Basic Research|应用启发的基础研究]]**——既追求深层机制理解，又受实际需求驱动。
 >
-> 论证逻辑是：这种双重目标本身在国内合作中已产生张力——大学需要发表自由，产业需要商业保密。当合作跨越国界时，**每一重张力都被额外叠加了跨境维度**：发表自由不仅受产业合同约束，还受出口管制和国家安全审查约束；知识产权不仅涉及双方谈判，还涉及多国法律体系的不兼容。
+> 这种双重目标本身在国内合作中已产生张力——大学需要发表自由，产业需要商业保密。当合作跨越国界时，**每一重张力都被额外叠加了跨境维度**：发表自由不仅受产业合同约束，还受出口管制和国家安全审查约束；知识产权不仅涉及双方谈判，还涉及多国法律体系的不兼容。
 
 > [!example]- 图17.1：Stokes 四象限模型
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_17-1_Stokes_Quadrant_Model.jpg)
@@ -93,7 +96,7 @@ issuing_organization: ""
 > [!warning] 第一层：目标与激励对齐（Strategy/Alignment）——合作的起点性障碍
 > 大学与产业对合作价值的理解存在系统性偏差。APLU（2022）的访谈发现，大学寻求"在产生产业价值的领域进行科学发现"的伙伴，而产业则以[[Return on Investment|投资回报]]率（ROI）评估合作。这种偏差"更多来自感知而非现实"（p.311–312），但感知差异足以阻碍合作的启动。
 >
-> 论证关键在于：目标对齐不仅是合作的第一个障碍，也是所有后续问题的前提——没有对齐的目标，就不存在进一步讨论 IP、地缘政治或沟通策略的基础。反过来看，一个能成功对齐目标的合作，已经跨过了最根本的门槛，后续挑战更多是执行层面的。
+> 目标对齐不仅是合作的第一个障碍，也是所有后续问题的前提——没有对齐的目标，就不存在进一步讨论 IP、地缘政治或沟通策略的基础。反过来看，一个能成功对齐目标的合作，已经跨过了最根本的门槛，后续挑战更多是执行层面的。
 
 ---
 
@@ -107,7 +110,7 @@ issuing_organization: ""
 > [!warning] 第三层：知识产权（IP Rights）——合作结构的法律核心
 > IP 是国际 UI 合作中最容易出问题的环节。一个容易被忽视的事实是：**不存在"国际专利"**，各国知识产权法律并不统一（p.313）。这意味着一次跨国合作可能涉及多套互不兼容的 IP 制度。
 >
-> 论证的精妙之处在于对谈判时机的分析。作者区分了 IP 谈判的两种情境（p.314）：资产价值已经明确时，谈判趋于竞争性——双方都会为有利条款强力博弈；资产尚处于概念阶段时，讨论更多聚焦市场标准和公平性。从这一区分推导出的策略建议是：**在合作启动前、资产价值尚未显现时预先协商权利**（pre-negotiated rights），可以避免日后因资产升值而引发的激烈争端。如果等到资产价值明朗后再谈判，"优先谈判权"（first right to negotiate）的模糊性会给企业带来严重的不确定性——它们不知道自己投资的对象何时、以何种条件能到手。
+> 论证的精妙之处在于对谈判时机的分析。作者区分了 IP 谈判的两种情境（p.314）：资产价值已经明确时，谈判趋于竞争性——双方都会为有利条款强力博弈；资产尚处于概念阶段时，讨论更多聚焦市场标准和公平性。从这一区分推导出的策略建议是：**在合作启动前、资产价值尚未显现时预先协商权利**（pre-negotiated rights），可以避免日后因资产升值而引发的激烈争端。如果等到资产价值明朗后再谈判，"[[Pre-negotiated IP Rights|优先谈判权]]"（first right to negotiate）的模糊性会给企业带来严重的不确定性——它们不知道自己投资的对象何时、以何种条件能到手。
 >
 > 美国的 [[Bayh-Dole Act of 1980|Bayh-Dole]] 法案（1980）是一个具体的制度摩擦点：该法案要求赠地大学保留专利所有权，这对惯于不同 IP 模式的外国公司构成了额外的认知和谈判成本（p.314）。
 
@@ -118,7 +121,7 @@ issuing_organization: ""
 >
 > 地缘政治的影响呈现明显的地域集中性：欧洲和北美大学的全球研究联系受到的限制大于拉丁美洲、加勒比、非洲和中东地区的大学（p.315）。这意味着地缘政治对国际合作的约束不是均匀分布的——不同地区的研究者面对的"合作自由度"存在结构性差异。
 >
-> [[Nagoya Protocol (2014)|名古屋议定书]]（2014）则提供了另一种地缘政治维度的例证：各国对境内遗传资源拥有主权控制，利用这些资源产生的惠益须与来源国公平分享。但各国立法和实践不统一，行政程序复杂（p.315）。它对合作的约束不是"要不要合作"，而是"如何合规地合作"。
+> [[Nagoya Protocol|名古屋议定书]]（2014）则提供了另一种地缘政治维度的例证：各国对境内遗传资源拥有主权控制，利用这些资源产生的惠益须与来源国公平分享。但各国立法和实践不统一，行政程序复杂（p.315）。它对合作的约束不是"要不要合作"，而是"如何合规地合作"。
 
 ---
 
@@ -165,7 +168,7 @@ issuing_organization: ""
 ### 第五步：Mars 与 UC Davis 的案例链——从识别一个农业问题到建立一个跨国创新生态系统
 
 > [!note] 为什么这个案例是证据链而不仅仅是举例
-> Mars 与 UC Davis 的合作不是一个案例，而是三个相互关联、层层扩展的案例构成的证据链。它们共同展示了一条路径：从**单个科学问题的识别**（AWD），到**跨国多边合作网络的建立**（AOCC），再到**制度化创新平台的构建**（IIFH）。每一步都在解决前一阶段暴露出的结构性局限。
+> Mars 与 UC Davis 的合作不是一个案例，而是三个相互关联、层层扩展的案例构成的证据链。它们共同展示了一条路径：从**单个科学问题的识别**（AWD），到**跨国多边合作网络的建立**（[[African Orphan Crops Consortium|AOCC]]），再到**制度化创新平台的构建**（[[Innovation Institute for Food and Health|IIFH]]）。每一步都在解决前一阶段暴露出的结构性局限。
 
 ---
 
@@ -237,7 +240,7 @@ issuing_organization: ""
 > [!success]
 > - 国际 UI 合作的五重挑战（目标对齐、合作经验、知识产权、地缘政治、文化沟通）并非并列关系，而是从"要不要合作"到"能不能持续"的层层嵌套结构（pp.311–316）
 > - 共同选址是五重挑战的系统性应答策略，通过缩短物理距离同时降低沟通成本、增进文化理解和简化 IP 管理的操作摩擦（pp.317–318）
-> - Mars 与 UC Davis 的合作序列展示了从问题驱动项目（AWD）到使命驱动网络（AOCC）再到制度化创新平台（IIFH）的三阶段演化路径，每一阶段以前一阶段的信任积累为前提（pp.319–323）
+> - Mars 与 UC Davis 的合作序列展示了从问题驱动项目（AWD）到使命驱动网络（[[African Orphan Crops Consortium|AOCC]]）再到制度化创新平台（[[Innovation Institute for Food and Health|IIFH]]）的三阶段演化路径，每一阶段以前一阶段的信任积累为前提（pp.319–323）
 > - 合作的长期成功取决于互利机制的建立，而非单一项目中的利益对等；互利机制使共同选址从空间安排升级为制度安排（p.320, p.323）
 > - 国际 UI 研究合作的出版物影响力更高，能汇聚多元视角解决单一机构无法应对的全球性挑战（p.311）
 
@@ -254,7 +257,7 @@ issuing_organization: ""
 > "International research collaborations require time, clear communication, trust, and shared values."（p.309）
 
 > [!quote]
-> "Securing pre-negotiated rights is essential to ensure the long-term success of relationships throughout the licensing process. A 'first right to negotiate' can create uncertainty for companies, leaving them unsure of when or how they will gain access to the asset they are investing in."（p.314）
+> "Securing pre-negotiated rights is essential to ensure the long-term success of relationships throughout the licensing process. A '[[Pre-negotiated IP Rights|first right to negotiate]]' can create uncertainty for companies, leaving them unsure of when or how they will gain access to the asset they are investing in."（p.314）
 
 ---
 
