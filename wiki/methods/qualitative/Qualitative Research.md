@@ -129,6 +129,9 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 6. **使用[[Analytic Framework|分析框架]]进一步分析**：在 code-to-theme 的[[Descriptive Analysis|描述性分析]]基础上，使用[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、案例研究或其他分析框架进行更深层次的分析。
 7. **呈现和解释数据**：通常以叙事段落传达分析发现，可以整合编年史、完整主题讨论（含子主题、具体说明、多重视角和引语）或主题间关系的讨论。质性研究者也常使用视觉模型、图表或表格辅助呈现。
 
+> [!example]- 图9.3：质性数据分析流程的步骤
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_9-3_Data_Analysis_Steps.jpg)
+
 对[[Winnowing|数据筛选]]（[[Winnowing]]）的需要是质性数据分析的一个关键特征：文本和图像数据极为密集丰富，无法全部使用，必须将数据聚合成少量主题（Creswell & Creswell, 2022, Ch9）。
 
 ## 方法变体：描述性方法与分析框架
@@ -138,6 +141,9 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 **[[Descriptive Methods|描述性方法]]**（Descriptive Methods）是基础性分析路径，研究者贴近数据本身，使用有限的框架和解释，将信息归类为主题。它基于参与者日常语言，追求抽样中的最大变异度。
 
 **[[Analytic Framework|分析框架]]**（Analytic Framework）在描述性方法的基础上叠加特定的解释传统。包括[[Narrative Research|叙事研究]]（重构参与者故事）、[[Phenomenology|现象学]]（分析意义单元和本质描述）、[[Grounded Theory|扎根理论]]（开放[[Coding in Qualitative Research|编码]]、轴心编码、选择性编码的系统步骤）、[[Ethnography|民族志]]和案例研究（详细场所描述后分析主题）。
+
+> [!example]- 图9.1：描述性方法与源于传统的分析方法
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_9-1_Descriptive_Methods_Analytic_Frameworks.jpg)
 
 > [!tip] 区分
 > - 描述性方法使用参与者日常语言；分析框架使用"分析传统"（analytic tradition）进行解释（Braun & Clark, 2006, p.78）。

@@ -34,6 +34,10 @@ updated: 2026-06-01
 
 # Interview Protocol
 
+
+> [!example]- 图9.2：访谈协议或指南示例
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_9-2_Interview_Protocol.jpg)
+
 ## 定义
 
 > [!info]

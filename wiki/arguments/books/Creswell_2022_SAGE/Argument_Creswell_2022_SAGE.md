@@ -1375,8 +1375,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > “一种质性设计的[[Descriptive Methods|描述性方法]]是研究者贴近数据、使用有限框架和解释来解释数据、并将信息归类为主题的分析方式。”
 > (“A descriptive method in [[Qualitative Research]] is an approach to analysis where the researcher stays close to the data, uses limited frameworks and interpretation for explaining the data, and catalogues the information into themes.”)（第9章, p.196）
 
-> [!example]- 图9.1：Descriptive Methods and Methods Drawn From Traditions
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_9-1_Descriptive_Methods_Analytic_Frameworks.jpg)
+> 图9.1（描述性方法与分析框架的关系图）见 [[Qualitative Research]] 条目。
 
 [[Analytic Framework|分析框架]]则使用文献中的预设解释结构——五种常见框架（[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、案例研究）各有特定的分析传统和操作步骤，详见各条目。
 
@@ -1419,8 +1418,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > [!example] 记录协议
 > [[Observation Protocol|观察协议]]一页纸分区记录描述性与反思性笔记；[[Interview Protocol|访谈协议]]一至两页，含引言、5-10 个内容问题、[[Probes|追问提示]]和结束说明（pp.203–205）。
 
-> [!example]- 图9.2：Sample Interview Protocol or Guide
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_9-2_Interview_Protocol.jpg)
+> 图9.2（访谈协议示例，含引言、5-10个内容问题、追问提示和结束说明的完整格式）见 [[Interview Protocol]] 条目。
 
 ---
 
@@ -1444,8 +1442,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 6. **使用分析框架进一步分析**：在 code-to-theme 基础上叠加叙事研究、现象学、扎根理论、民族志、案例研究等框架。
 7. **呈现和解释数据**：以叙事段落传达发现，辅以视觉模型、图表或表格。
 
-> [!example]- 图9.3：Steps in the Qualitative Data Analysis Process
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_9-3_Data_Analysis_Steps.jpg)
+> 图9.3（质性数据分析七步骤流程图）见 [[Qualitative Research]] 条目。
 
 > [!info] 编码包含四类：预期编码（基于文献和常识）、意外编码（研究前无法预见）、概念性兴趣编码（具有理论意义的不寻常发现）和预设编码（基于理论框架预先设定，辅以[[Qualitative Codebook|编码手册]]管理）。视觉图像也可作为编码对象。
 
@@ -1570,8 +1567,20 @@ Creswell & Creswell (2022) 提出混合方法研究的六个定义性特征，�
 
 整合的具体程序则由设计类型规定：聚敛式（合并比较）、解释性序列（量化→质性解释）、探索性序列（质性→工具→量化检验）为三种核心设计；实验、案例研究、参与式社会正义、评价为四种复杂设计（核心设计嵌入更大框架）。以上所有操作的选择逻辑和最终产出由[[Integration Statement|整合陈述]]统合——在研究方案中明确说明整合的意图和程序。各术语的完整定义与图示见各自条目。
 
-> [!example]- 表10.1：设计混合方法程序的核查清单
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-1_Checklist_for_Designing_Mixed_Methods_Procedure.jpg)
+> [!abstract] 表10.1：设计混合方法程序的核查清单（A Checklist of Questions for Designing a Mixed Methods Procedure）
+>
+> | # | 核查问题 | 对应章节主题 |
+> |---|---------|-----------|
+> | 1 | 是否定义了混合方法研究？ | 六个定义性特征 |
+> | 2 | 是否论证了为何使用混合方法方法论？ | 使用理由 |
+> | 3 | 是否同时收集了量化与质性数据？ | 数据收集 |
+> | 4 | 是否描述了收集两类数据的意图？（整合陈述） | [[Integration Statement]] |
+> | 5 | 是否确定了混合方法设计类型或整合程序？ | 核心设计 / 复杂设计 |
+> | 6 | 是否提供了设计程序图示？ | 设计图示 |
+> | 7 | 是否说明了如何分析数据整合？（使用联合展示） | [[Joint Display]] |
+> | 8 | 是否从整合分析中得出结论（元推论）？ | [[Metainferences]] |
+> | 9 | 是否讨论了研究设计的效度与伦理问题？ | 效度威胁 / [[Research Ethics]] |
+> | 10 | 是否撰写了反映设计使用的混合方法研究报告？ | 写作与呈现 |
 
 ---
 
