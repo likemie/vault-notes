@@ -35,7 +35,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-06-02
 ---
 
 # Ren
@@ -46,7 +46,11 @@ updated: 2026-05-22
 > Ren（仁）是儒学的最高道德概念，指一个人通过终身修养达到的最真诚、最完整、最富人性的道德境界。它超越任何单一德目（如孝、[[Ritual Propriety|礼]]、义），是[[Confucian Learning Tradition|儒家学习传统]]的终极目标。
 
 > [!quote]
-> Ren 在仅约 55 页的《论语》碎片化段落中出现了 105 次，足见其核心地位（Li, 2012, p.41）。Li 将 ren 概括为：一个真正仁的人，是"终身致力于成为他／她所能成为的最真诚、最真挚、最富人性的人"，这一过程"必须永无止境"（Li, 2012, p.41）。
+> Ren 在仅约 55 页的《论语》碎片化段落中出现了 105 次，足见其核心地位（Li, 2012, p.41）。Li 将 ren 概括为：
+> 
+> "one who is devoted to the process of becoming the most sincere, genuine, and human person he/she can become... this process must be never-ending." (Li, 2012, p.41)
+> 
+> 一个真正仁的人，是终身致力于成为他／她所能成为的最真诚、最真挚、最富人性的人，这一过程必须永无止境。
 
 ---
 
@@ -66,9 +70,9 @@ updated: 2026-05-22
 ## 概念演变
 
 > [!note]
-> - **[[Confucius|孔子]]（551–479 BCE）**：奠定 ren 作为最高道德目标，强调"为仁由己"——追求 ren 是个人自主选择的终身志业（Li, 2012, p.41）
+> - **[[Confucius|孔子]]（551–479 BCE）**：奠定 ren 作为最高道德目标，强调**为仁由己**——追求 ren 是个人自主选择的终身志业（Li, 2012, p.41）
 > - **[[Mencius|孟子]]（ca. 372–289 BCE）**：以[[Four Sprouts|四端]]说为 ren 提供人性论基础——恻隐之心 → 仁；羞恶之心 → 义；辞让之心 → [[Ritual Propriety|礼]]；是非之心 → 智（Li, 2012, pp.42-43）
-> - **[[Neo-Confucianism|宋明理学]]**：[[Cheng Brothers|程颢]]、程颐兄弟将 ren 与天理关联，认为循道即达仁。[[Zhu Xi|朱熹]]整合"格物致知"为达成仁的必要步骤（Li, 2012, pp.43-44）
+> - **[[Neo-Confucianism|宋明理学]]**：[[Cheng Brothers|程颢]]、程颐兄弟将 ren 与天理关联，认为循道即达仁。[[Zhu Xi|朱熹]]整合格物致知为达成仁的必要步骤（Li, 2012, pp.43-44）
 > - **[[Wang Yangming|王阳明]]（1472–1529）**：强调仁源于人的内在良知（致良知），而非外在的天理，主张知行合一（Li, 2012, p.44）
 
 ---
@@ -76,12 +80,12 @@ updated: 2026-05-22
 ## 核心要素
 
 > [!abstract]
-> 1. **终身性（never-ending）**：追求 ren 不是一次性成就，而是永无止境的过程。"仁以为己任，不亦重乎？死而后已，不亦远乎？"（Li, 2012, p.41）
-> 2. **自主性（self-chosen）**：ren 是个人自主选择的生命道路，不是外部强加的规范（Li, 2012, p.41）
-> 3. **警觉的自我审视（vigilant self-watchfulness）**：以敬畏和尊重的精神，对每一件事、每一个行为、每一个念头进行自我审查（Li, 2012, p.41）
-> 4. **开放性与创造性（open and creative）**：因为每个人的实际生活境遇不同，追求 ren 的过程是开放的，需要个人的创造性（Li, 2012, p.41）
-> 5. **深刻的内在喜乐（deep joy）**：在追求 ren 的过程中，人见证自己的生命工程，伴随着深深的喜悦、满足和充实感（Li, 2012, p.41）
-> 6. **即世间而超越（earthly bound and spiritually transcendent）**：ren 既是脚踏实地的日常实践，又具有精神超越的维度（Li, 2012, p.41）
+> 1. **终身性 (never-ending)**：追求 ren 不是一次性成就，而是永无止境的过程。仁以为己任，不亦重乎？死而后已，不亦远乎？（Li, 2012, p.41）
+> 2. **自主性 (self-chosen)**：ren 是个人自主选择的生命道路，不是外部强加的规范（Li, 2012, p.41）
+> 3. **警觉的自我审视 (vigilant self-watchfulness)**：以敬畏和尊重的精神，对每一件事、每一个行为、每一个念头进行自我审查（Li, 2012, p.41）
+> 4. **开放性与创造性 (open and creative)**：因为每个人的实际生活境遇不同，追求 ren 的过程是开放的，需要个人的创造性（Li, 2012, p.41）
+> 5. **深刻的内在喜乐 (deep joy)**：在追求 ren 的过程中，人见证自己的生命工程，伴随着深深的喜悦、满足和充实感（Li, 2012, p.41）
+> 6. **即世间而超越 (earthly bound and spiritually transcendent)**：ren 既是脚踏实地的日常实践，又具有精神超越的维度（Li, 2012, p.41）
 
 ---
 
@@ -90,7 +94,7 @@ updated: 2026-05-22
 > [!tip]
 > - [[Confucius]] — ren 的原始提出者和最高典范（Li, 2012, p.41）
 > - [[Self-Cultivation]] — ren 是修身所要达到的最终目标
-> - [[Junzi]] — 君子是"致力于追求 ren 的过程并遵循仁道的人"（Li, 2012, p.41）
+> - [[Junzi]] — 君子是致力于追求 ren 的过程并遵循仁道的人（Li, 2012, p.41）
 
 ---
 

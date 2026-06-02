@@ -230,6 +230,10 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 >
 > 价值对齐的关键不在于消除差异，而在于通过**"患者中心的透镜"**（patient-centered lens）审视所有优先事项：产业的利润只有在产品对患者安全有效时才有意义；大学的发表只有转化为患者受益时才实现社会价值（pp.191–192）。AHS 作为促进者的核心任务是平衡向内拉力（共享价值）与向外拉力（反向力量），既不让商业逻辑凌驾于患者安全之上（如果创新不安全，ROI 降为零），也不让监管保守主义扼杀创新（pp.191–192）。
 
+
+> [!example]- 学术健康系统促进创新 UI 合作的独特角色
+> ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/ Ch10_Swick_Jones_2025.jpg)
+
 ---
 
 ### 第七步：TAVR 案例研究：价值对齐模型如何在产学合作中实际运作

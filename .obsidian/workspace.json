@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/theories/higher-education/Values Alignment Model.md",
-                "mode": "preview",
+                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Swick_Jones_2025_AcademicHealthSystems.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Values Alignment Model"
+              "title": "Argument_Swick_Jones_2025_AcademicHealthSystems"
             }
           }
         ]
@@ -191,13 +191,15 @@
   },
   "active": "f290374ad363fcc2",
   "lastOpenFiles": [
+    "wiki/theories/higher-education/Triple Helix.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Swick_Jones_2025_AcademicHealthSystems.md",
+    "books/Hall_Boccanfuso_2025_Springer/Hall_Boccanfuso_2025_Springer_overview.md",
+    "books/Hall_Boccanfuso_2025_Springer/Ch10_Swick_Jones_2025.md",
+    "wiki/theories/higher-education/Values Alignment Model.md",
     "wiki/concepts/higher-education/Return on Investment.md.tmp.77631.16c0ce62d9f8",
     "wiki/concepts/higher-education/Return on Investment.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Swick_Jones_2025_AcademicHealthSystems.md",
     "wiki/concepts/higher-education/Return on Investment in University-Industry Collaboration.md",
-    "wiki/theories/higher-education/Values Alignment Model.md",
     "wiki/concepts/higher-education/Partnership Continuum.md",
-    "books/Hall_Boccanfuso_2025_Springer/Ch10_Swick_Jones_2025.md",
     "wiki/concepts/higher-education/University-Industry Collaboration.md",
     "wiki/concepts/higher-education/Physician-Scientist.md",
     "wiki/concepts/research-methodology/Probes.md",
@@ -218,14 +220,12 @@
     "wiki/methods/mixed/Mixed Methods Participatory-Social Justice Design.md",
     "wiki/methods/mixed/Mixed Methods Evaluation Design.md",
     "wiki/methods/mixed/Mixed Methods Case Study Design.md",
-    "wiki/methods/mixed/Literature Map.md",
     "books/Hall_Boccanfuso_2025_Springer/Ch10_Swick_Jones_2025.pdf",
     "raw/978-3-031-94913-5_10.pdf",
     "raw/016_Chapter 10 Mixed Methods Procedures.txt",
     "raw/015_Chapter 9 Qualitative Methods.txt",
     "raw/014_Chapter 8 Quantitative Methods.txt",
     "raw/011_Chapter 5 The Introduction.txt",
-    "raw/009_Chapter 4 Writing Strategies and Ethical Considerations.txt",
-    "raw/007_Chapter 2 Review of the Literature.txt"
+    "raw/009_Chapter 4 Writing Strategies and Ethical Considerations.txt"
   ]
 }
