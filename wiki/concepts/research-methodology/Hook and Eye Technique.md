@@ -46,8 +46,7 @@ updated: 2026-05-31
 > [!example]
 > Creswell & Creswell (2022, 第4章) 展示了一位学生[[Qualitative Research|质性研究]]计划引言段落的钩眼分析实例。该段落围绕"at-risk students"主题展开，每句话的关键词通过钩眼连线呈现清晰的链条：They → students → athletes → Those → students → They → they → students-at-risk → at-risk student → problems → early reform → the needs of the marginal student → students → at-risk student → at-risk students → topic → at-risk issue → research → Others → Still others → research and studies by → shift the → students → discover if there → researcher who，整条链始终围绕核心主题。
 
-> [!example]- 图片占位
-> 图4.1：An Illustration of the Hook and Eye Technique  
+> [!example]- 图4.1：钩眼技巧示例（An Illustration of the Hook and Eye Technique）
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_4-1_Hook_and_Eye_Technique.png)
 
 ---

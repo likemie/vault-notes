@@ -723,34 +723,6 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-5-concept-map.jpg)
 
-#### 写作示例
-
-> [!example] 表5.1：带标注的研究引言示例
->
-> 以下为 Plano Clark et al. (2002) 关于高中青少年吸烟与抑郁的质性研究引言（改编自 Creswell & Bàez, 2020），完整展示 [[Deficiencies Model for an Introduction|缺陷模型]] 的四部分在实际写作中的运用。
->
-> **论文标题**：*Exploring the Conceptions and Misconceptions of Teen Smoking in High Schools: A Multiple Case Analysis*（探索高中青少年对吸烟的认知与误解：一项多案例研究）
->
-> > **一、研究问题**
-> >
-> > 烟草使用是美国社会中癌症的主要成因（McGinnis & Foefe, 1993）。虽然成年人吸烟率近年来有所下降，但青少年吸烟率实际上在上升。美国疾病控制与预防中心报告称，高中生吸烟率从 1991 年的 27.5% 上升至 1995 年的 34.8%（USDHHS, 1996）。除非这一趋势得到显著逆转，否则我们国家预计将有 500 万儿童最终过早死亡（Centers for Disease Control and Prevention, 1996）。
->
-> > **二、证明问题重要性的文献证据**
-> >
-> > 以往关于青少年烟草使用的研究集中在四个主要主题。若干研究考察了年轻人开始吸烟的问题，指出烟草使用早在初中阶段即已开始（如 Heishman et al., 1997）。其他研究关注了学校中的吸烟预防和烟草使用，这类研究催生了大量校本预防项目和干预措施（如 Sussman, Dent, Burton, Stacy, & Flay, 1995）。较少研究考察了青少年的"戒烟尝试"或戒烟行为，这与针对成年人戒烟尝试的广泛研究形成鲜明对比（Heishman et al., 1997）。研究者同样关注了青少年吸烟的社会情境和社会影响（Fearnow, Chassin, & Presson, 1998）。例如，青少年吸烟可能发生在工作相关情境中、在家中（父母或照护者有一人或多人吸烟时）、在青少年社交活动中，或在高中附近被指定为"安全"吸烟区的场所（McVea et al., in press）。
->
-> > **三、文献证据中的缺陷**
-> >
-> > 极少有研究关注了高中作为考察青少年烟草使用场所的社会情境。在高中阶段，学生形成了同伴群体，这可能助长青少年吸烟。同伴往往成为一般行为的强大社会影响因素，而属于运动队、音乐团体或"邋遢"群体可能影响对吸烟的思考（McVea et al., in press）。学校也是青少年一天中大部分时间所处的场所（Fibkins, 1993），并且是可用的研究对象。学校为教师和行政人员提供了戒除烟草使用并执行烟草使用政策的示范场所（O'Hara et al., 1999）。现有的青少年烟草使用研究主要是量化的，关注结果和跨理论模型（Pallonen, 1998）。然而，质性研究提供了学生在自己话语中的详细视角、对多元视角的复杂分析，以及不同高中的具体学校情境如何塑造学生对烟草的体验（Creswell, in press）。此外，质性探究提供了让高中生作为协同研究者参与的机会，这一数据收集程序可以增强学生视角的效度，不受成人视角的污染。
->
-> > **四、该问题对受众的重要性**
-> >
-> > 通过考察这些多元学校情境、使用质性路径并让学生作为协同研究者参与，我们可以更好地理解青少年对高中烟草使用的认知与误解。有了这一理解，研究者可以更好地隔离变量并发展关于吸烟行为的模型。行政人员和教师可以规划干预措施以预防或改变对吸烟的态度，学校官员可以协助戒烟或干预项目。
->
-> 来源：改编自 Creswell & Bàez (2020); Plano Clark et al. (2002)。
->
-> 第一部分以统计数据确立问题严重性——这是 [[Narrative Hook|叙事钩子]]，以"500 万儿童过早死亡"激发读者兴趣。第二部分用四个主题总结已有研究，体现引言中总结大研究群组的写法。第三部分指出研究方法缺口——缺乏质性视角、缺乏学生协同研究者、缺乏多元学校情境比较。第四部分分别向研究者、实践者和政策制定者三类受众说明研究意义。
-
 #### 概览
 
 第5章的逻辑线包含：
@@ -811,12 +783,6 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-6-concept-map.jpg)
 
-#### 图片占位
-
-> [!example]- 图片占位
-> 图6.1：Relationship Among the Problem, the Purpose (Aim), the Research Questions, and the Data
-> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_6-1_Problem_Purpose_Questions_Data.jpg)
-
 #### 概览
 
 第6章的逻辑线涉及：
@@ -842,6 +808,10 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 > ("The purpose statement sets forth the broader intent of the study. It is not the problem or issue or the research questions in the study.")（第6章）
 
 Creswell 用一个四阶段流程图（图 6.1）展示研究焦点的逐步收窄：
+
+> [!example]- 图6.1：研究问题、目的陈述、研究问题与数据的关系
+> ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_6-1_Problem_Purpose_Questions_Data.jpg)
+
 
 ---
 
@@ -1165,8 +1135,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 
 **工具**涉及测量质量的两个支柱，效度（分数是否测准了？）和信度（分数是否稳定？），以及工具内容构成（封面信、题项、量表类型）。在施测流程上，邮件调查被转化为一个工业化的四阶段时间线（Salant & Dillman, 1994; Dillman, 2007）：提前通知→问卷→明信片跟进→个性化跟进，共约 4 周。
 
-> [!example]- 图片占位
-> 表8.2：Variables, Definitions, and Their Corresponding Items on a Survey
+> [!example]- 表8.2：变量、定义及其对应的调查题项（Variables, Definitions, and Their Corresponding Items on a Survey）
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_8-2_Variables_Definitions_Items.jpg)
 
 **变量**在方法部分需直接陈述名称、操作性定义和测量工具。创建变量—定义—工具项目对照表（Table 8.2）是一种极为有效的组织技术。
