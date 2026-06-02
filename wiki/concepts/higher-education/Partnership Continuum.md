@@ -5,11 +5,12 @@ aliases:
   - UIDP partnership continuum
   - 合作连续体
   - UIDP 伙伴关系连续体
-summary: "UIDP（2012）提出的产学合作策略分类框架，将产学参与按合作深度和形式沿连续体排列，反映产学合作策略的多面性和递进关系"
+  - Spectrum of Partnerships
+summary: UIDP（2012）提出的产学合作策略分类框架，将产学参与按合作深度和形式沿连续体排列，反映产学合作策略的多面性和递进关系
 type: concept
 tags:
-  - "theme/university-industry-collaboration"
-  - "level/higher-education"
+  - theme/university-industry-collaboration
+  - level/higher-education
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Transfer]]"
