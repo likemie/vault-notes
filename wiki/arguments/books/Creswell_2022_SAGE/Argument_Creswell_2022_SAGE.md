@@ -172,10 +172,6 @@ updated: 2026-06-01
 
 ### 前言
 
-#### 概念地图
-
-![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/preface-concept-map.jpg)
-
 #### 概览
 
 全书为研究者提供设计研究计划或研究方案的框架、流程和写作方法，覆盖量化、质性和混合方法三种研究路径。这一比较从三个路径共有的初步要素（哲学假设、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题与假设]]，以及数据收集、分析和解释的方法程序。
