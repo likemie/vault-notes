@@ -17,8 +17,8 @@ extracted_to:
   - "[[Hatch Act of 1887]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Website Content Analysis]]"
-  - "[[Partnership Continuum]]"
   - "[[Triple Helix]]"
+  - "[[Partnership Continuum]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

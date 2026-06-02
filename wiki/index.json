@@ -1201,6 +1201,16 @@
     ]
   },
   {
+    "title": "Academic Medical Center",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Academic Medical Center.md",
+    "aliases": [
+      "学术医学中心",
+      "academic medical center",
+      "AMC"
+    ]
+  },
+  {
     "title": "Academic Oligarchy",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Academic Oligarchy.md",
@@ -1220,6 +1230,16 @@
       "校友产学连接",
       "alumni engagement",
       "alumni-industry engagement"
+    ]
+  },
+  {
+    "title": "Applied Medical Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Applied Medical Innovation.md",
+    "aliases": [
+      "医用创新",
+      "applied medical innovation",
+      "AMI"
     ]
   },
   {

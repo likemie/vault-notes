@@ -11,7 +11,6 @@ extracted_to:
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[Physician-Scientist]]"
   - "[[Triple Helix]]"
 processed_date: 2026-05-27
 ---
