@@ -22,7 +22,6 @@ related_concepts:
   - "[[Further Education]]"
   - "[[International Education]]"
   - "[[Learning Analytics]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Research Question]]"
 related_theories: []
 related_methods: []
@@ -296,7 +295,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
     新墨西哥州阿尔伯克基的桑迪亚科技园（Sandia Science and Technology Park）提供了一个创新性创收案例。该园通过向租户和合作伙伴提供光纤数据和通信服务来产生收入，用共享基础设施覆盖行政与管理的运营成本（p.134）。
 
-    费城的大学城科学中心建立了全面的[[Integration in Mixed Methods|整合]]传播策略，官网面向学生、研究者、初创企业、大公司、投资者和社区居民，每天在全部社交媒体渠道发布内容，同时出版月报和年报（p.133）。
+    费城的大学城科学中心建立了全面的整合传播策略，官网面向学生、研究者、初创企业、大公司、投资者和社区居民，每天在全部社交媒体渠道发布内容，同时出版月报和年报（p.133）。
 
 > [!note]
 > 社区网络应提前建立，不要等到联邦资金公告才去组织联盟，机会来的时候才能立即响应。

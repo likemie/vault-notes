@@ -13,7 +13,6 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Language Experience Approach]]"
   - "[[Simple View of Reading]]"
   - "[[Direct Instruction]]"
@@ -66,7 +65,7 @@ updated: '2026-05-18'
 > - **意义优先**：重点在于意义而非语言本身，学习发生在真实的言语和读写事件中（Goodman, 2005, p.42）
 > - **完整语境**：学习者围绕完整语言在完整情境中学习，拒绝将读写技能从实际使用中隔离（Goodman, 2005, pp.35-36）
 > - **学习者中心**：鼓励学习者冒险，以自身目的使用语言的所有变体（Goodman, 2005, p.42）
-> - **[[Integration in Mixed Methods|整合]]技能教学**：全语言理论家撰写了大量关于在全语言框架内教授语音（phonics）、解码技巧、拼写和其他具体技能的文献（如 Hornsby & Powell, 1993; Hornsby & Wilson, 2011，引自 O'Connor, 2020, p.148）——这与批评者声称全语言不教具体技能的说法相反
+> - **整合技能教学**：全语言理论家撰写了大量关于在全语言框架内教授语音（phonics）、解码技巧、拼写和其他具体技能的文献（如 Hornsby & Powell, 1993; Hornsby & Wilson, 2011，引自 O'Connor, 2020, p.148）——这与批评者声称全语言不教具体技能的说法相反
 > - **读写作为社会文化实践**：Bloome, Harris & Ludlam（1991, p.15）指出读写构成复杂的社会文化活动网络，"理解读写作为社会和文化实践的总体含义是承认教学法始终是政治的（涉及权力关系）"（引自 O'Connor, 2020, p.150）
 
 ## 与相关概念的区别

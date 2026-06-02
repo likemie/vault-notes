@@ -12,14 +12,13 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Metainferences]]"
   - "[[Purpose Statement]]"
   - "[[Construct Validity in Quantitative Measurement]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
-  - "[[In-depth Interview]]"
+  - "[[Qualitative Interview]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Quantitative Research]]"
   - "[[Joint Display]]"
@@ -27,7 +26,6 @@ related_methods:
   - "[[Convergent Design]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
-  - "[[Qualitative Interview]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -57,7 +55,7 @@ updated: 2026-05-31
 
 探索性序列设计的操作逻辑是"先探索→再开发→后检验"：
 
-1. **第一质性阶段**：从小样本（通常为 10-30 人）收集质性数据（如[[In-depth Interview|深度访谈]]、焦点小组），开放性探索目标现象，产出的核心结果是对该现象的丰富质性理解——包括主题、分类、维度或过程模型。
+1. **第一质性阶段**：从小样本（通常为 10-30 人）收集质性数据（如[[Qualitative Interview|深度访谈]]、焦点小组），开放性探索目标现象，产出的核心结果是对该现象的丰富质性理解——包括主题、分类、维度或过程模型。
 2. **工具开发阶段**：这是探索性序列设计的独特阶段。它连接了前端的质性探索和后端的量化检验，具体操作包括：
    - 将质性发现中的主题或维度转化为候选问卷条目
    - 通过专家审查和/或认知访谈来验证条目的内容效度和文化适切性
@@ -75,12 +73,21 @@ updated: 2026-05-31
 > 除此之外，研究者还可以利用质性数据开发文献中尚不存在的新变量、修改现有工具中的量表类型，或形成可在后续量化阶段进一步探索的信息类别。
 
 > [!note] 整合与联合展示
-> 探索性序列设计的[[Integration in Mixed Methods|整合]]分析从分别分析两个数据库开始，使用初始探索数据库的发现来构建量化阶段的分析特征。整合体现在质性发现（或结果）用于指导[[Quantitative Research|量化研究]]阶段的设计（如开发测量工具或新变量）（Creswell & Creswell, 2022, p.242）。
+> 探索性序列设计的整合分析从分别分析两个数据库开始，使用初始探索数据库的发现来构建量化阶段的分析特征。整合体现在质性发现（或结果）用于指导[[Quantitative Research|量化研究]]阶段的设计（如开发测量工具或新变量）（Creswell & Creswell, 2022, p.242）。
 >
 > [[Joint Display|联合展示]]的前两列反映该设计的程序顺序：质性阶段（引用、编码、主题）→ 设计特征（调查条目、变量、量表）。第三列为[[Metainferences|元推论]]，研究者检视质性发现与设计特征之间的对应关系：修改或新设计的调查是否产生了良好结果？检验是否对目标样本和人群表现出敏感性？结果与已有文献和理论的比较如何？
 >
-> > [!example]- 表10.4：探索性序列设计联合展示模板（以调查开发为例）
-> > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-4_Exploratory_Sequential_Design_Joint_Display_Template.jpg)
+> > [!abstract] 表10.4：探索性序列设计联合展示模板（Template for an Exploratory Sequential Design Joint Display, using a survey design as an example）
+> >
+> > 该模板以调查开发为例，展示从质性发现到量化设计的转化路径。每一行追踪一个分析层次从"文字世界"到"数字世界"的翻译。
+> >
+> > | 质性阶段 | 设计特征 | 元推论 |
+> > |---|---|---|
+> > | **质性引用**（Quotes） | **量化调查条目**（Survey Items） | 分析调查得分 |
+> > | **质性编码**（Codes） | **量化调查变量**（Variables） | 识别变量 |
+> > | **质性主题**（Themes） | **量化调查量表**（Scales） | 识别量表 |
+> >
+> > 使用方式：第一列填入质性分析的三层产出，第二列填入对应的量化工具设计，第三列撰写元推论。特别注意：质性阶段的样本不应包含在量化阶段中，避免混淆因素——这与解释性序列设计的样本策略正好相反。
 >
 > **样本策略**（Creswell & Creswell, 2022, pp.242–243）：质性阶段的样本不应包含在量化阶段中——让同一批人既帮助开发工具又完成后续调查，会引入混淆因素。可以两个阶段从同一总体中分别抽取不同个体。这与[[Explanatory Sequential Design|解释性序列设计]]的样本策略（质性样本是量化样本的子集）正好相反。
 

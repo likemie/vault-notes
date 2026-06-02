@@ -12,7 +12,6 @@ tags:
 - region/finland
 - level/k12
 related_concepts:
-  - "[[Integration in Mixed Methods]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Champ]]"
@@ -52,7 +51,7 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **1990 年代末**：芬兰显性意义上的 PhBL 开始形成。Maijaliisa Rauste-von Wright 在赫尔辛基大学教师教育中发展这一取向，将 [[John Dewey|Dewey]] 和 George Herbert Mead 的思想[[Integration in Mixed Methods|整合]]为[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]，主张从课程预设的教学转向从学生自身世界观出发的学习（Schaffar & Wolff, 2024, pp.7-8）。
+> - **1990 年代末**：芬兰显性意义上的 PhBL 开始形成。Maijaliisa Rauste-von Wright 在赫尔辛基大学教师教育中发展这一取向，将 [[John Dewey|Dewey]] 和 George Herbert Mead 的思想整合为[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]，主张从课程预设的教学转向从学生自身世界观出发的学习（Schaffar & Wolff, 2024, pp.7-8）。
 > - **2001**：Rauste-von Wright 将现象本位取向称为"课程的自我修正模型"，试图弥合理论与实践之间的传统裂缝；她强调学习总是情境化的、处境性的互动过程（Schaffar & Wolff, 2024, p.8）。
 > - **2014**：[[Finnish National Core Curriculum]] 纳入跨学科和现象本位学习取向，目标之一是让学习主题连接学生周边环境和经验，从而释放学生能动性（Schaffar & Wolff, 2024, p.2）。
 > - **2016**：课程英文版出版后，PhBL 在国际社交媒体和教育改革讨论中获得广泛关注，但也产生误解：许多讨论声称芬兰已取消传统学科，实际课程仍以传统学科为结构，只是把 PhBL 增补为实现课程总体目标和价值的一种方式（Schaffar & Wolff, 2024, p.2）。
@@ -64,7 +63,7 @@ updated: '2026-05-18'
 > - **跨学科但不反学科**：PhBL 反对单向度、封闭的学科主义，却不主张抹平学科差异；复杂现象需要学科深度，也需要跨学科视角（Schaffar & Wolff, 2024, pp.3-4）。
 > - **连接学生生活世界**：芬兰课程中的 PhBL 强调将学习主题联系学生的邻近环境和经验，使学生能够从自身生活世界出发提出问题（Schaffar & Wolff, 2024, p.2）。
 > - **协作与共同责任**：PhBL 的整体取向强调合作、相互责任和共同探究，适合面对气候变化、不平等、污染、疫情、暴力、营养不良等纠缠性全球问题（Schaffar & Wolff, 2024, p.1）。
-> - **具身、情感与认知的[[Integration in Mixed Methods|整合]]**：在[[Phenomenology|现象学]]脉络中，PhBL 不只是认知活动，也涉及身体经验、情绪、响应性和共同反思（Schaffar & Wolff, 2024, pp.3, 11）。
+> - **具身、情感与认知的整合**：在[[Phenomenology|现象学]]脉络中，PhBL 不只是认知活动，也涉及身体经验、情绪、响应性和共同反思（Schaffar & Wolff, 2024, pp.3, 11）。
 > - **让世界成为教师**：现象学取向的 PhBL 不只是让学生"研究世界"，也要求学生暂时把自己置于边缘，愿意被未知触动，并通过反思把熟悉之物重新变得陌生（Schaffar & Wolff, 2024, p.11）。
 
 ## 与相关概念的区别

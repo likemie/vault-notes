@@ -10,12 +10,11 @@ type: concept
 tags:
   - research-methodology
   - mixed-methods
-related_concepts:
-  - "[[Integration in Mixed Methods]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
-  - "[[In-depth Interview]]"
+  - "[[Qualitative Interview]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -32,7 +31,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 多方法研究（Multimethod Research）指在一项研究中收集多种数据来源的研究方法——但这些数据来源要么全部是量化的、要么全部是质性的，不同时包含量化和质性两类数据。Creswell & Creswell (2022, p.232) 明确将其与[[Mixed Methods Research|混合方法研究]]区分开来：多方法研究不涉及量化与质性数据的[[Integration in Mixed Methods|整合]]，因此不是混合方法研究。
+> 多方法研究（Multimethod Research）指在一项研究中收集多种数据来源的研究方法——但这些数据来源要么全部是量化的、要么全部是质性的，不同时包含量化和质性两类数据。Creswell & Creswell (2022, p.232) 明确将其与[[Mixed Methods Research|混合方法研究]]区分开来：多方法研究不涉及量化与质性数据的整合，因此不是混合方法研究。
 
 > [!quote]
 > "Multimethod research refers to the collection of multiple quantitative or qualitative sources of data and is not mixed methods research. In contrast, mixed methods research collects both quantitative and qualitative data."（Creswell & Creswell, 2022, p.232）
@@ -52,7 +51,7 @@ updated: 2026-06-02
 >
 > **多方法研究的典型实例**：
 > - 量化多方法：一项研究同时使用问卷调查和官方统计数据（两种都是量化来源）
-> - 质性多方法：一项研究同时使用[[In-depth Interview|深度访谈]]和参与式观察（两种都是质性来源）
+> - 质性多方法：一项研究同时使用[[Qualitative Interview|深度访谈]]和参与式观察（两种都是质性来源）
 >
 > **混合方法研究的典型实例**：
 > - 一项研究同时使用问卷调查（量化）和深度访谈（质性），并在分析阶段将两组数据整合
@@ -66,7 +65,7 @@ updated: 2026-06-02
 
 - 收集 N 种量化数据来源 → 多方法研究
 - 收集 N 种质性数据来源 → 多方法研究
-- 收集至少一种量化数据来源 + 至少一种质性数据来源，并加以**[[Integration in Mixed Methods|整合]]** → 混合方法研究
+- 收集至少一种量化数据来源 + 至少一种质性数据来源，并加以**整合** → 混合方法研究
 
 如果不进行整合，即使一项研究同时收集了量化和质性数据，也不是完整的混合方法研究——整合是混合方法的核心定义性特征之一。
 

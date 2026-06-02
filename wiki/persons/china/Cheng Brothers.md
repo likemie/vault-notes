@@ -8,7 +8,6 @@ tags: ["region/china", "theory/confucianism", "field/chinese-philosophy"]
 related_concepts:
   - "[[Sage]]"
   - "[[Junzi]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[The Great Learning]]"
 related_theories:
   - "[[Neo-Confucianism]]"
@@ -60,7 +59,7 @@ updated: 2026-05-25
 ### 对后世的影响
 
 - 二程的思想深刻影响了南宋[[Zhu Xi|朱熹]]（1130-1200），形成了"程朱学派"（Cheng-Zhu School），成为[[Neo-Confucianism|宋明理学]]中最具影响力的思想流派（Li, 2012, pp.43-44）。
-- 朱熹将二程的格物致知学说[[Integration in Mixed Methods|整合]]进《[[The Great Learning]]》，构建了从格物到平天下的八条目学习路径（Li, 2012, p.44）。
+- 朱熹将二程的格物致知学说整合进《[[The Great Learning]]》，构建了从格物到平天下的八条目学习路径（Li, 2012, p.44）。
 - 程朱学派强调"读书"为学的核心方式，同时借鉴佛教的静坐冥想方法，发展出儒家学习者"静坐深思"的修行方式（Li, 2012, p.44）。
 
 ### 轶事：程门立雪

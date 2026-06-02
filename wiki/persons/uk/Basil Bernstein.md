@@ -11,7 +11,6 @@ tags:
   - theory/bernstein
 related_concepts:
   - "[[Horizontal Knowledge Structure]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[New Sociology of Education]]"
 related_theories: []
 related_methods: []
@@ -31,12 +30,12 @@ updated: 2026-05-23
 ## 简介
 
 > [!info] 简介
-> Basil Bernstein 是英国教育社会学传统中的关键理论家。其理论为理解教育社会学内部断裂、范式争论和知识结构问题提供了重要资源；其中 [[Horizontal Knowledge Structure|横向知识结构]] 尤其用于解释社会学为何由多个难以[[Integration in Mixed Methods|整合]]的专门语言构成（Ball, 2008, p.651）。
+> Basil Bernstein 是英国教育社会学传统中的关键理论家。其理论为理解教育社会学内部断裂、范式争论和知识结构问题提供了重要资源；其中 [[Horizontal Knowledge Structure|横向知识结构]] 尤其用于解释社会学为何由多个难以整合的专门语言构成（Ball, 2008, p.651）。
 
 ## 核心思想
 
 > [!tip] [[Horizontal Knowledge Structure|横向知识结构]]
-> Bernstein 将社会学和教育社会学理解为 [[Horizontal Knowledge Structure|横向知识结构]]：它们由多个专门语言组成，缺乏统一[[Integration in Mixed Methods|整合]]原则，知识发展常常表现为新语言、新问题和新说话者的出现，而不是更高层次的综合（Ball, 2008, p.651）。
+> Bernstein 将社会学和教育社会学理解为 [[Horizontal Knowledge Structure|横向知识结构]]：它们由多个专门语言组成，缺乏统一整合原则，知识发展常常表现为新语言、新问题和新说话者的出现，而不是更高层次的综合（Ball, 2008, p.651）。
 
 > [!tip] 教育知识的分类与框架
 > Bernstein 关于教育知识“分类与框架”的论文在 1970 年 BSA Durham 会议上作为闭幕发言提出，并在 1971 年 Michael Young 编辑的 Knowledge and Control 中首次发表。该论文与 [[New Sociology of Education]] 的形成时刻相邻，但 Bernstein 并不等同于 NSE 的代表人物（Ball, 2008, p.658）。

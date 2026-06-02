@@ -18,7 +18,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge Production]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Analytic Framework]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Epistemic Governance]]"
   - "[[Champ]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
@@ -52,12 +52,12 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!question]
-本章试图回答的核心问题是：如何从地缘政治视角理解当前全球高等教育的深刻转型？具体而言，本章建议将地缘政治作为分析透镜，以审视[[Knowledge Production|知识生产]]与高等教育如何被[[Integration in Mixed Methods|整合]]进国家、区域和企业在全球知识密集型资本主义中确立和改善自身位置的战略想象与算计之中（Parreira do Amaral, 2022, pp.36–37）。
+本章试图回答的核心问题是：如何从地缘政治视角理解当前全球高等教育的深刻转型？具体而言，本章建议将地缘政治作为分析透镜，以审视[[Knowledge Production|知识生产]]与高等教育如何被整合进国家、区域和企业在全球知识密集型资本主义中确立和改善自身位置的战略想象与算计之中（Parreira do Amaral, 2022, pp.36–37）。
 
 ## 核心论点
 
 > [!tip]
-本章提出，当前高等教育正经历一种"新的[[Geopolitics of Knowledge|知识地缘政治]]"（New [[Geopolitics of Knowledge]]）——高等教育被[[Integration in Mixed Methods|整合]]进不同行动者在全球[[Knowledge-Based Economy|知识经济]]中确立和改善自身地位的政治经济想象和计算之中。这种整合不仅催生了对高等教育未来的（再）想象，而且正在重塑和转变高等教育的使命和基础设施。高等教育机构已成为知识密集型资本主义的核心场所——被同时视为专有知识（专利、创新）、创新学习环境和人力资本及关联主体性（associated subjectivities）的主要生产场所（Parreira do Amaral, 2022, pp.36–39）。
+本章提出，当前高等教育正经历一种"新的[[Geopolitics of Knowledge|知识地缘政治]]"（New [[Geopolitics of Knowledge]]）——高等教育被整合进不同行动者在全球[[Knowledge-Based Economy|知识经济]]中确立和改善自身地位的政治经济想象和计算之中。这种整合不仅催生了对高等教育未来的（再）想象，而且正在重塑和转变高等教育的使命和基础设施。高等教育机构已成为知识密集型资本主义的核心场所——被同时视为专有知识（专利、创新）、创新学习环境和人力资本及关联主体性（associated subjectivities）的主要生产场所（Parreira do Amaral, 2022, pp.36–39）。
 
 ## 理论框架
 
@@ -94,7 +94,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 > [!example]
 本章的论证分为五个步骤展开：
 
-**第一步（§3.1 引言）：问题提出与概念定位。** 确立知识社会/[[Knowledge-Based Economy|知识经济]]话语的霸权地位——创新被热情拥抱为所有社会问题的万能解药，高等教育被置于当代社会未来讨论的核心。引出论证核心主张：高等教育正被[[Integration in Mixed Methods|整合]]进不同行动者的战略想象和计算之中，以确立和改善其在全球知识经济中的位置（Parreira do Amaral, 2022, pp.35–37）。
+**第一步（§3.1 引言）：问题提出与概念定位。** 确立知识社会/[[Knowledge-Based Economy|知识经济]]话语的霸权地位——创新被热情拥抱为所有社会问题的万能解药，高等教育被置于当代社会未来讨论的核心。引出论证核心主张：高等教育正被整合进不同行动者的战略想象和计算之中，以确立和改善其在全球知识经济中的位置（Parreira do Amaral, 2022, pp.35–37）。
 
 **第二步（§3.2 新[[Geopolitics of Knowledge|知识地缘政治]]）：概念框架的展开。** 从地缘政治的[[Definition of Terms|操作性定义]]出发（"对场所和空间中霸权的斗争"，Petersen & Wehrmann, 2015），追溯[[Classical Geopolitics|古典地缘政治]]→[[Critical Geopolitics|批判地缘政治]]→[[Knowledge-Based Economization|知识经济化]]地缘政治的理论演进路径，并呈现后殖民/[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]批判的另一条脉络。在两条脉络的对话中提出"新知识地缘政治"的综合概念（Parreira do Amaral, 2022, pp.36–40）。
 
@@ -119,7 +119,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 ## 主要发现
 
 > [!success]
-- **"新[[Geopolitics of Knowledge|知识地缘政治]]"的出现**：创新、科研能力和教育被视为在全球经济竞争中取得成功的关键。高等教育机构成为知识密集型资本主义想象的核心——被同时视为专有知识、创新学习环境和驱动创新的主体性的主要生产场所。[[Knowledge Production|知识生产]]被[[Integration in Mixed Methods|整合]]进国家、区域和企业在全球经济中的战略定位（Parreira do Amaral, 2022, pp.38–39）
+- **"新[[Geopolitics of Knowledge|知识地缘政治]]"的出现**：创新、科研能力和教育被视为在全球经济竞争中取得成功的关键。高等教育机构成为知识密集型资本主义想象的核心——被同时视为专有知识、创新学习环境和驱动创新的主体性的主要生产场所。[[Knowledge Production|知识生产]]被整合进国家、区域和企业在全球经济中的战略定位（Parreira do Amaral, 2022, pp.38–39）
 - **知识范畴的三重窄化**：在这一语境中，"知识"主要指向：(a) 创意及相关创新在生产链中创造价值的角色；(b) 将知识商品化的尝试，包括专家、学者等生产知识的过程；(c) 关于政治社群作为[[Knowledge-Based Economy|知识经济]]体表现的数据的持续收集（Moisio, 2018, p.9, cited in Parreira do Amaral, 2022, p.39）
 - **两条地缘政治脉络的共构性**：[[Classical Geopolitics|古典地缘政治]]和关系性地缘政治并非前后替代关系而是共构——如 RCEP 协议中既包含全球连接性的开放流动话语，又包含国家层面的权力博弈（中国的战略计算旨在超越美国主导的 TPP），两者共同构成当代地缘政治的实际运作逻辑（Parreira do Amaral, 2022, pp.37–38）
 - **[[Global Regionalisms|全球区域主义]]中的高等教育角色转变**：Robertson et al. (2016) 的研究实现了关键的认识论转向——从"国际组织如何影响教育"转向"教育项目如何参与想象和建构世界区域本身"——发现了高等教育在话语层面构成区域地缘政治想象的核心支柱。这种转向也揭示了区域之间的差异不仅是经济关系侧重点不同的结果，更是因为政治、文化和历史动态中介了制度形态和其他社会关系的性质（Parreira do Amaral, 2022, p.41）

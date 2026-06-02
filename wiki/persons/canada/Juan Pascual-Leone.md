@@ -9,8 +9,7 @@ tags:
 - pascual-leone
 - paradigm/constructivist
 - neo-piagetian
-related_concepts:
-  - "[[Integration in Mixed Methods]]"
+related_concepts: []
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
   - "[[Neo-Piagetian Theories]]"
@@ -31,7 +30,7 @@ updated: '2026-05-19'
 ## 简介
 
 > [!info] 简介
-> 首位将信息加工理论与[[Piaget's Theory of Cognitive Development|皮亚杰认知发展理论]][[Integration in Mixed Methods|整合]]的[[Neo-Piagetian Theories|新皮亚杰理论]]家（1970 年），提出心智能力（Mental Power / M-power）概念（Bolton & [[John Hattie|Hattie]], 2017, p.3）。
+> 首位将信息加工理论与[[Piaget's Theory of Cognitive Development|皮亚杰认知发展理论]]整合的[[Neo-Piagetian Theories|新皮亚杰理论]]家（1970 年），提出心智能力（Mental Power / M-power）概念（Bolton & [[John Hattie|Hattie]], 2017, p.3）。
 
 ## 核心思想
 
@@ -46,7 +45,7 @@ updated: '2026-05-19'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Neo-Piagetian Theories|neo-piagetian-theories]] — 首位[[Neo-Piagetian Theories|新皮亚杰理论]]家，提出信息加工与[[Jean Piaget|皮亚杰]]理论的[[Integration in Mixed Methods|整合]]框架
+> - [[Neo-Piagetian Theories|neo-piagetian-theories]] — 首位[[Neo-Piagetian Theories|新皮亚杰理论]]家，提出信息加工与[[Jean Piaget|皮亚杰]]理论的整合框架
 > - 开发了测量儿童心智能力的方法：让儿童保持并重复一系列与相关刺激相链接的动作，以准确重复的序列数量衡量心智能力（Bolton & [[John Hattie|Hattie]], 2017, p.3）
 
 ## 思想发展与影响

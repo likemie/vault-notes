@@ -26,7 +26,6 @@ related_concepts:
   - "[[Epochal Key Problems]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Atomisation of Knowledge and Skills]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods: []
@@ -77,7 +76,7 @@ updated: '2026-05-18'
 > [!success] 主要发现
 > - 芬兰课程仍然按传统学科组织，并未用 [[Phenomenon-Based Learning|PhBL]] 取代学科；国际上"芬兰取消学科"的说法是误读（Schaffar & Wolff, 2024, p.2）。
 > - PhBL 在芬兰课程文本中的术语地位并不稳定：芬兰语原版不直接使用"phenomenon-based learning"，但大量使用"phenomenon/ilmiö"及相关表达（Schaffar & Wolff, 2024, p.2）。
-> - Rauste-von Wright 在 1990 年代末推动芬兰 PhBL 发展，她把 [[John Dewey|Dewey]] 和 Mead [[Integration in Mixed Methods|整合]]为[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]，并把 PhBL 称为"课程的自我修正模型"（Schaffar & Wolff, 2024, pp.7-8）。
+> - Rauste-von Wright 在 1990 年代末推动芬兰 PhBL 发展，她把 [[John Dewey|Dewey]] 和 Mead 整合为[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]，并把 PhBL 称为"课程的自我修正模型"（Schaffar & Wolff, 2024, pp.7-8）。
 > - OECD、EU 和全球教育治理对芬兰课程产生了明显影响；PhBL 的课程化可被理解为回应 21 世纪技能与横向知识的政策要求（Schaffar & Wolff, 2024, pp.8-9）。
 > - 作者批评标准化学习结果和问责体系会削弱 PhBL 所需的开放探究、共同责任和生活世界意义（Schaffar & Wolff, 2024, pp.9-10）。
 

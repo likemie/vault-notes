@@ -26,7 +26,6 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Doxa]]"
   - "[[Champ]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Technology Transfer]]"
   - "[[Internationalization of Higher Education]]"
@@ -308,7 +307,7 @@ Rizvi 用澳大利亚作为具体案例来展示这些抽象分析如何落地�
 - **政策框架**：2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》（Henry Report）——"亚洲世纪是澳大利亚的机遇。随着全球重心向我们的区域转移，距离的暴政正在被邻近的前景所取代"（Henry, 2012, p.1）
 - **制度安排**：AISRF（澳印战略研究基金）、ACSRF（澳中科学与研究基金）——旨在与"高绩效国家"维持和加强"提升我们表现"的研究关系
 - **更广泛的战略**：《国际教育国家战略 2025》——"加强国内外伙伴关系、提升学生和教师流动性、通过促进卓越和拥抱国际教育扩展机遇来使澳大利亚教育机构参与全球竞争"
-- **产业连接**：国家创新与科学议程——将研究合作[[Integration in Mixed Methods|整合]]进产业创新战略
+- **产业连接**：国家创新与科学议程——将研究合作整合进产业创新战略
 
 > 澳大利亚案例说明：当一个国家对亚洲的依赖足够深时，高等教育和研究政策就不再仅仅是教育政策——它们变成了**经济政策、外交政策和安全政策**的综合体。
 

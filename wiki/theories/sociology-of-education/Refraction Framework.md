@@ -11,7 +11,6 @@ tags:
   - stratification
   - paradigm/sociological
 related_concepts:
-  - "[[Integration in Mixed Methods]]"
   - "[[Postpositivism]]"
   - "[[Causality]]"
   - "[[Analytic Framework]]"
@@ -61,7 +60,7 @@ updated: 2026-05-18
 > [!abstract] 三个补偿机制
 > Downey & Condron (2016, pp.6–7) 初步识别了三个可能使学校发挥补偿作用的机制：
 >
-> 1. **课程[[Integration in Mixed Methods|整合]]（curriculum consolidation）**：学校按年龄分组，使技能水平差异极大的儿童接触相同的课程挑战。ECLS-K 数据显示 40% 的幼儿园儿童阅读能力超过底部 10% 的一年级学生，且少数幼儿园儿童的阅读能力超过五年级学生——但绝大多数按年龄分组的儿童留在同年级，这使得高能力学生难以在低于其水平的材料中获得学业进步。这一做法可能是补偿性的（Downey & Condron, 2016, pp.6–7）。
+> 1. **课程整合（curriculum consolidation）**：学校按年龄分组，使技能水平差异极大的儿童接触相同的课程挑战。ECLS-K 数据显示 40% 的幼儿园儿童阅读能力超过底部 10% 的一年级学生，且少数幼儿园儿童的阅读能力超过五年级学生——但绝大多数按年龄分组的儿童留在同年级，这使得高能力学生难以在低于其水平的材料中获得学业进步。这一做法可能是补偿性的（Downey & Condron, 2016, pp.6–7）。
 >    > 例：如果一个幼儿园儿童已经能读五年级水平的书，却被放在幼儿园教室里学习字母，那么她的学业进步速度将被系统性地"刹车"，而落后同龄人的同学则获得赶上来的机会。
 >
 > 2. **向弱势群体倾斜的资源分配（targeted resources）**：Title 1、Head Start、1973 年《康复法》、1990 年《美国残疾人法》等政策旨在改善弱势儿童的学校条件。2007 年肯塔基州数据：平均每位特殊需求儿童获额外 USD 11,970/年，而天才儿童仅获额外 USD 62/年（Seiler et al., 2008, cited in Downey & Condron, 2016, p.7）。

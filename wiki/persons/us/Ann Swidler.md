@@ -14,7 +14,6 @@ related_concepts:
   - "[[Symbolic Boundary]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
@@ -80,7 +79,7 @@ updated: 2026-05-19
 > [!note-] 思想发展与影响
 > - 与 Weber-Parsons 价值观驱动范式构成当代文化社会学的核心争论
 > - Vaisey（2009）在 Swidler 的基础上提出 [[Dual-Process Model of Culture in Action]]，论证工具箱范式与价值观驱动范式在不同意识层次上并存——属于对 Swidler 的修正而非推翻（[[Yajun Zheng|郑雅君]]，2023）
-> - 郑雅君（2023）以该理论为"价值选择过程"的核心理论资源，并以 Vaisey 模型[[Integration in Mixed Methods|整合]]两种范式
+> - 郑雅君（2023）以该理论为"价值选择过程"的核心理论资源，并以 Vaisey 模型整合两种范式
 > - 郑雅君（2023）第五章将工具箱理论延伸至择业决策领域，发现大学生[[Culture as Toolkit|文化工具箱]]中三种可供调用的工作意义图式——地位保障/家庭责任、家国理想/社会价值、个体趣味/自我表达——及其在不同阶层学生中的分布差异
 > - 在择业中，工具箱图式的运用分为"方向导引"（direction guidance，图式内化为行动目的）和"结果合理化"（outcome rationalization，事后调用图式解释客观结果）两种情形——这一区分直接对应 Swidler 对稳定与不稳定生活状态的理论，构成四分类模型的分析节点
 >

@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Analytic Framework]]"
   - "[[Literature Review]]"
   - "[[Professional Judgment]]"
@@ -47,7 +46,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> 论文采用**概念综合**（conceptual synthesis）方法，将特刊中来自澳大利亚、加拿大、英格兰、荷兰和美国的论文[[Integration in Mixed Methods|整合]]进一个三维[[Analytic Framework|分析框架]]：
+> 论文采用**概念综合**（conceptual synthesis）方法，将特刊中来自澳大利亚、加拿大、英格兰、荷兰和美国的论文整合进一个三维[[Analytic Framework|分析框架]]：
 >
 > 1. **定义维度**：证据的定义边界——谁的证据算数？证据本位 vs 证据知情 vs 研究知情的语义区分
 > 2. **应用维度**：[[Knowledge Mobilisation|知识动员]]（KMb）的四种策略——沟通与传播、能力建设、伙伴关系与网络、系统化方法
@@ -62,7 +61,7 @@ updated: '2026-05-18'
 ## 核心论证
 
 > [!example] 核心论证
-> ### 1. [[Evidence-Informed Practice|EIP]] 不是一维概念——是证据 + [[Professional Judgment|专业判断]] + 数据的[[Integration in Mixed Methods|整合]]
+> ### 1. [[Evidence-Informed Practice|EIP]] 不是一维概念——是证据 + [[Professional Judgment|专业判断]] + 数据的整合
 >
 > 论文反对将 EIP 简化为"使用研究证据"。多位特刊作者论证 EIP 必须被视为**专业判断、系统层面数据、课堂数据和研究证据的整合**。（p. 129）
 >

@@ -15,7 +15,6 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Ritual Propriety]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Four Sprouts]]"
   - "[[Self-Cultivation]]"
   - "[[Junzi]]"
@@ -57,7 +56,7 @@ updated: 2026-05-22
 > **Ren 不等于拥有某些美德或优越心智**。[[Confucius|孔子]]的许多学生各自拥有令人钦佩的道德品质和优越的智识能力，孔子承认他们的优点，但始终不愿称他们达到了 ren（Li, 2012, p.41）。这意味着：
 > - 拥有孝 ≠ 已达 ren
 > - 拥有聪明才智 ≠ 已达 ren
-> - 拥有某些美德和道德品质只是起点，ren 意味着将这些品质[[Integration in Mixed Methods|整合]]为一种完整的生活方式
+> - 拥有某些美德和道德品质只是起点，ren 意味着将这些品质整合为一种完整的生活方式
 
 > [!example]
 > **Ren 与西方道德概念的差异**：ren 没有精确的英文对应词。曾被译为 human goodness（人的善）、benevolence（仁慈）、humanity（人性）、humanheartedness（人心）、authoritative conduct（权威性行为）等，但都无法完全捕捉其含义（Li, 2012, p.41）。
@@ -69,7 +68,7 @@ updated: 2026-05-22
 > [!note]
 > - **[[Confucius|孔子]]（551–479 BCE）**：奠定 ren 作为最高道德目标，强调"为仁由己"——追求 ren 是个人自主选择的终身志业（Li, 2012, p.41）
 > - **[[Mencius|孟子]]（ca. 372–289 BCE）**：以[[Four Sprouts|四端]]说为 ren 提供人性论基础——恻隐之心 → 仁；羞恶之心 → 义；辞让之心 → [[Ritual Propriety|礼]]；是非之心 → 智（Li, 2012, pp.42-43）
-> - **[[Neo-Confucianism|宋明理学]]**：[[Cheng Brothers|程颢]]、程颐兄弟将 ren 与天理关联，认为循道即达仁。[[Zhu Xi|朱熹]][[Integration in Mixed Methods|整合]]"格物致知"为达成仁的必要步骤（Li, 2012, pp.43-44）
+> - **[[Neo-Confucianism|宋明理学]]**：[[Cheng Brothers|程颢]]、程颐兄弟将 ren 与天理关联，认为循道即达仁。[[Zhu Xi|朱熹]]整合"格物致知"为达成仁的必要步骤（Li, 2012, pp.43-44）
 > - **[[Wang Yangming|王阳明]]（1472–1529）**：强调仁源于人的内在良知（致良知），而非外在的天理，主张知行合一（Li, 2012, p.44）
 
 ---

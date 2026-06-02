@@ -17,7 +17,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[The Shock of the Elite]]"
   - "[[Goal-Controlled Mode]]"
-  - "[[Coherence in Writing]]"
   - "[[Self-Authorship]]"
   - "[[Cultural Barrier]]"
   - "[[New Public Management]]"
@@ -25,7 +24,7 @@ related_theories:
   - "[[Culture as Toolkit]]"
 related_methods:
   - "[[Ethnography]]"
-  - "[[In-depth Interview]]"
+  - "[[Qualitative Interview]]"
   - "[[Constructivist Grounded Theory]]"
   - "[[Quantitative Research]]"
 related_persons:
@@ -129,7 +128,7 @@ Eacott（2011）将习性描述为"通过暴露于特定经验而体现的一套
 
 ### 习性转换：大学作为再社会化场域
 
-习性虽然持久，但并非一成不变。郑雅君（2023）第4章援引布迪厄实践理论指出，习性"作为一种可转换的持久倾向系统，会不断地调和自身与场域之间的矛盾，一方面需要维持与旧系统的[[Coherence in Writing|连贯性]]，另一方面也可能发展新的倾向以适应新的环境"（郑雅君，2023，引 Bourdieu, 2012）。Stevens 等人（2008）将高等教育的这重面向描述为一个如同"育婴室"的文化性/社会性过程——学生在其中接受集中的再社会化，认知图式、文化修养、品位甚至价值观都可能发生微妙转换（郑雅君，2023，引 Stevens, Armstrong & Arum, 2008）。
+习性虽然持久，但并非一成不变。郑雅君（2023）第4章援引布迪厄实践理论指出，习性"作为一种可转换的持久倾向系统，会不断地调和自身与场域之间的矛盾，一方面需要维持与旧系统的连贯性，另一方面也可能发展新的倾向以适应新的环境"（郑雅君，2023，引 Bourdieu, 2012）。Stevens 等人（2008）将高等教育的这重面向描述为一个如同"育婴室"的文化性/社会性过程——学生在其中接受集中的再社会化，认知图式、文化修养、品位甚至价值观都可能发生微妙转换（郑雅君，2023，引 Stevens, Armstrong & Arum, 2008）。
 
 第4章的转变者案例呈现了习性转换的经验过程：
 
@@ -152,7 +151,7 @@ Eacott（2011）发现，当教师升任校长时，其习性"被分裂为对抗
 
 > [!warning]
 > - **决定论指控**：批评者认为习性概念过于强调社会再生产，低估了行动者的能动性和变革可能性。Eacott（2011）的论文可以被视为对这一批评的回应——他运用 [[Pierre Bourdieu|Bourdieu]] 框架恰恰是为了论证"替代性领导习性"的可能性
-> - **经验操作化困难**：如何在具体研究中实证地捕捉"习性"？[[Yajun Zheng|郑雅君]]（2023）以[[In-depth Interview|深度访谈]]和[[Constructivist Grounded Theory|建构主义扎根理论]]的方法操作化习性概念，提供了可参照的范例，但大量[[Quantitative Research|定量研究]]仍难以直接测量习性本身
+> - **经验操作化困难**：如何在具体研究中实证地捕捉"习性"？[[Yajun Zheng|郑雅君]]（2023）以[[Qualitative Interview|深度访谈]]和[[Constructivist Grounded Theory|建构主义扎根理论]]的方法操作化习性概念，提供了可参照的范例，但大量[[Quantitative Research|定量研究]]仍难以直接测量习性本身
 > - **概念弹性过大**：习性几乎可以解释任何行为——优势阶层学生的成功归因于习性，其失败也可归因于习性滞后。批评者认为这种"解释一切"的弹性反而削弱了概念的分析力
 
 ---

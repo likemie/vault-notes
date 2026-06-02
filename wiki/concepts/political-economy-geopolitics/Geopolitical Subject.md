@@ -17,7 +17,6 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Analytic Framework]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Graduate Attributes]]"
   - "[[Innovation Hub]]"
   - "[[Geopolitics of Knowledge]]"
@@ -107,7 +106,7 @@ Moisio 刻意使用 **human figures**（人形）而非 people（人）、indivi
 
 Moisio（2022, pp.29–30）将大学定位为在[[Knowledge-Based Economization|知识经济化]]过程中"根本性的地缘政治场所"（fundamental geopolitical sites）——不仅因为大学生产知识，更因为**大学是塑造地缘政治主体的核心制度**。
 
-这一生产过程如何运作？Moisio 提出了[[Analytic Framework|分析框架]]但未充分展开，以下三个维度来自其章节的[[Integration in Mixed Methods|整合]]：
+这一生产过程如何运作？Moisio 提出了[[Analytic Framework|分析框架]]但未充分展开，以下三个维度来自其章节的整合：
 
 1. **课程与教学法的重构**：当大学将"创业精神""跨文化能力""全球视野"嵌入毕业要求（参见 [[Graduate Attributes]]）时，它在做什么？不是在传授知识，而是在规定*理想的人应该是什么样子*。这些要求不是中性的技能清单，而是对主体性的规范性设计
 

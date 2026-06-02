@@ -13,7 +13,6 @@ tags:
 - educational-philosophy
 - paradigm/constructivist
 related_concepts:
-  - "[[Integration in Mixed Methods]]"
   - "[[Knowledge Production]]"
   - "[[Science and Technology Studies]]"
   - "[[International Education]]"
@@ -58,7 +57,7 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - Woolgar (1991a, 1991b) 将 performativity [[Integration in Mixed Methods|整合]]进 [[Sociology of Measurement]] 框架（Gorur, 2014, p.6–7）
+> - Woolgar (1991a, 1991b) 将 performativity 整合进 [[Sociology of Measurement]] 框架（Gorur, 2014, p.6–7）
 > - Pickering (1995) 使用"performativity"概念描述社会技术实践的世界制造特征（Gorur, 2014, p.7）
 > - Knorr Cetina (1999) 提出[[Knowledge Production|知识生产]]的"生产性"（productive）特征（Gorur, 2014, p.7）
 > - Mitchell (2002) 提出"赋予可计算性的特征"（investing a character of calculability）本身改变世界（Gorur, 2014, p.17）

@@ -24,7 +24,6 @@ related_concepts:
   - "[[Probes]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Gamification]]"
   - "[[Knowledge Production]]"
   - "[[Variable]]"
@@ -58,7 +57,7 @@ updated: 2026-05-20
 
 - **[[Bildung]] 传统**：以 Humboldt（1793）的经典定义——个体与世界之间"最独立的交互作用"——为出发点。Bildung 不是一个"学习结果"，而是一个开放的人格形成过程：它要求时间、反思和容纳歧义的空间。结合 Nordenbo（2002）强调的"主动内核"——Bildung 不能被外部灌输，只能由主体主动参与自身的形成——以及 Masschelein & Ricken（2010）的三维度拆解（自我关系、他者关系、世界关系），Bildung 提供了一个评判算法技术之教育后果的规范性标准（Jornitz & Klinge, 2022, pp.237–239, 246）。
 
-- **Gruschka 的[[Didaktik|教学理论]]**：将教学行动理解为 [[Bildung]]、Erziehung（教育／教养）和 [[Didaktik]]（教学法）三者交织的"[[Integration in Mixed Methods|整合]]性星座"。Bildung 是教学的理由和目标——"处理所有从课程内容中涌现的理解问题"（Gruschka, 2019, p.675）；Erziehung 帮助学生在 Bildung 的方向上定向；Didaktik 是教师对"哪部分知识在什么时间点、以什么数量被呈现"的安排（Gruschka, 2019, p.676）。三者不可分割——当数字工具接管了 Didaktik 和反馈的决策权，Bildung 的目标也就随之被重新定义（Jornitz & Klinge, 2022, pp.238–239）。
+- **Gruschka 的[[Didaktik|教学理论]]**：将教学行动理解为 [[Bildung]]、Erziehung（教育／教养）和 [[Didaktik]]（教学法）三者交织的"整合性星座"。Bildung 是教学的理由和目标——"处理所有从课程内容中涌现的理解问题"（Gruschka, 2019, p.675）；Erziehung 帮助学生在 Bildung 的方向上定向；Didaktik 是教师对"哪部分知识在什么时间点、以什么数量被呈现"的安排（Gruschka, 2019, p.676）。三者不可分割——当数字工具接管了 Didaktik 和反馈的决策权，Bildung 的目标也就随之被重新定义（Jornitz & Klinge, 2022, pp.238–239）。
 
 - **算法意义建构分析**：从信息论（Wiener, Kübler）、算法研究（Stalder, Berry）和界面设计（GUI/API 双层结构）出发，拆解算法系统如何通过数字化、量化和可视化这三个相互衔接的步骤来建构"知识"——以及这种建构与教育学意义上的知识建构为何截然对立（Jornitz & Klinge, 2022, pp.232–236）。
 
@@ -128,7 +127,7 @@ Bildung 知识的特征：过程性——知识是意义的主观建构和内容
 
 Humboldt（1793）将 Bildung 定义为"个体与世界之间最独立的交互作用"——既涉及个体如何与世界及其对象打交道，也涉及个体如何在世界中表达、建构和塑造世界（Humboldt, 1956/1793, p.29, cited in Jornitz & Klinge, 2022, p.239）。Nordenbo（2002, p.341）补充了一个关键维度：Bildung 包含"一个主动内核"——"一个人只有在其自身的形成或发展中发挥了积极作用，才获得了 Bildung"。Bildung 不能被外部灌输。
 
-在 Gruschka 的[[Didaktik|教学理论]]中，Bildung 是教学行动——一个由 Bildung、Erziehung 和 [[Didaktik]] 三者交织构成的"[[Integration in Mixed Methods|整合]]性星座"——的理由和终极目标。Bildung "处理所有从课程内容中涌现的理解问题"（Gruschka, 2019, p.675）。教学不仅是为了传递知识，更是为了帮助学生朝向 Bildung——即**在与知识内容的接触中形成自身**（Jornitz & Klinge, 2022, pp.238–239）。
+在 Gruschka 的[[Didaktik|教学理论]]中，Bildung 是教学行动——一个由 Bildung、Erziehung 和 [[Didaktik]] 三者交织构成的"整合性星座"——的理由和终极目标。Bildung "处理所有从课程内容中涌现的理解问题"（Gruschka, 2019, p.675）。教学不仅是为了传递知识，更是为了帮助学生朝向 Bildung——即**在与知识内容的接触中形成自身**（Jornitz & Klinge, 2022, pp.238–239）。
 
 Masschelein & Ricken（2010, p.130）将 Bildung 拆解为三重关系，为批判数字工具提供了分析网格（Jornitz & Klinge, 2022, p.246）：
 - （1）自我与自身的关系——自我的形成
@@ -191,7 +190,7 @@ Masschelein & Ricken（2010, p.130）将 Bildung 拆解为三重关系，为批�
 > - 在算法系统中，思考被视为"干扰[[Variable|变量]]，因为它需要时间"；而对教育而言，思考是"应该在学校中培养的核心行动"（Jornitz & Klinge, 2022, p.238）
 > - 学习软件的即时反馈消除了教学过程中的"中间阶段"——这一阶段本可以用于反思，也正是在这一阶段 [[Bildung]] 有可能发生（Jornitz & Klinge, 2022, pp.240–241）
 > - [[Gamification]] 在休闲活动中可能有效，但在学校语境中其奖励系统与课程主题的教育目标形成结构性竞争（Jornitz & Klinge, 2022, p.242）
-> - 数字学习平台的"个性化"主张名不副实——学生只是按知识水平（低、中、高）分组，从平台[[Integration in Mixed Methods|整合]]的数据库中获取相应任务，这并非教育意义上的个性化发展（Jornitz & Klinge, 2022, p.245）
+> - 数字学习平台的"个性化"主张名不副实——学生只是按知识水平（低、中、高）分组，从平台整合的数据库中获取相应任务，这并非教育意义上的个性化发展（Jornitz & Klinge, 2022, p.245）
 > - Bildung 的三大关系维度——自我关系、他者关系、世界关系——均在算法技术中被系统性地简化和窄化（Jornitz & Klinge, 2022, p.246）
 > - 数字技术在全球范围内的传播构成"数字[[Geopolitics of Knowledge|知识地缘政治]]"——标准化了全球的教学内容和教学方法，否认文化和课程的差异（Jornitz & Klinge, 2022, p.246）
 

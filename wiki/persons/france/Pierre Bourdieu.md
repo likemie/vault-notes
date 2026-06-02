@@ -21,7 +21,6 @@ related_concepts:
   - "[[Epistemological Break]]"
   - "[[Epistemological Vigilance]]"
   - "[[School Leadership]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Disembedding]]"
@@ -240,7 +239,7 @@ Bourdieu 的社会理论包含一套系统的认识论预备。Eacott（2015）�
 
 ### 法国社会学与国际社会理论
 
-- Bourdieu 的工作[[Integration in Mixed Methods|整合]]并推进了经典社会学的三大传统——从 Weber 处继承符号维度在一切支配中的合法性作用及"秩序"概念（后来发展为**[[Champ|场域]]**）；从 Marx 处接过**资本**概念并一般化至一切社会活动；从 Durkheim 处继承某种决定论风格，并通过 Mauss 和 Lévi-Strauss 吸收了结构主义
+- Bourdieu 的工作整合并推进了经典社会学的三大传统——从 Weber 处继承符号维度在一切支配中的合法性作用及"秩序"概念（后来发展为**[[Champ|场域]]**）；从 Marx 处接过**资本**概念并一般化至一切社会活动；从 Durkheim 处继承某种决定论风格，并通过 Mauss 和 Lévi-Strauss 吸收了结构主义
 - 1975 年创办 *Actes de la recherche en sciences sociales* 期刊成为展示其自身及学生工作的主要阵地，主导了法国战后社会学的重要流派
 - 自 1970 年代起被英美学界广泛接受，1980 年代后在德语世界（经 Joseph Jurt 等人推动）获得认可
 - *La Distinction* 被国际社会学会评为 20 世纪十大社会学著作

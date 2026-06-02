@@ -14,7 +14,6 @@ tags:
   - field/cultural-psychology
 related_concepts:
   - "[[Western Learner]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Research Topic]]"
   - "[[Reflexivity]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -75,7 +74,7 @@ updated: 2026-05-25
 **典范案例**：蒙台梭利学校、受 [[John Dewey]] 哲学影响的 Shady Hill School 与 Putney School，尤其是意大利 Reggio Emilia 的学前学校——儿童以感官、好奇心、经验和问题与世界互动，通过画画、搭建、调查和设计来学习（Li, 2012, pp.109-110）。例如，雨后踩到水坑引发儿童研究水面和镜子如何反射物体，进而画下自己的倒影（Li, 2012, p.109）。
 
 **心理层面**的学习策略尤为重要。[[Western Learner|西方学习者]]使用三类自我调节学习策略（Pintrich 等人分类，转引自 Li, 2012, pp.109-110）：
-- 认知策略：复述（如反复背诵、使用闪卡）、精加工（如改写概念、总结阅读材料）、组织（如列提纲、分类、[[Integration in Mixed Methods|整合]]材料）
+- 认知策略：复述（如反复背诵、使用闪卡）、精加工（如改写概念、总结阅读材料）、组织（如列提纲、分类、整合材料）
 - 元认知策略：计划（设定目标与步骤）、监控（追踪进展与理解程度）、调节（根据理解调整复习）
 - 资源策略：时间管理、维持有利学习环境、调控努力、同伴学习、求助
 

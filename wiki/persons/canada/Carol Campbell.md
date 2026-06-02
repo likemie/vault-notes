@@ -16,7 +16,6 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Professional Judgment]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -41,7 +40,7 @@ updated: '2026-05-21'
 > [!tip] 核心思想
 > Campbell 的位置更适合先按主题理解：
 >
-> - **严格证据必须配合严格[[Professional Judgment|专业判断]]**：成为 evidence-informed 不只需要高质量研究，还需要教育者通过认真、可辩护的专业审议过程来[[Integration in Mixed Methods|整合]]证据；证据本身不足以直接指导实践（Nelson & Campbell, 2017, p.132）。
+> - **严格证据必须配合严格[[Professional Judgment|专业判断]]**：成为 evidence-informed 不只需要高质量研究，还需要教育者通过认真、可辩护的专业审议过程来整合证据；证据本身不足以直接指导实践（Nelson & Campbell, 2017, p.132）。
 > - **[[Knowledge Mobilisation|知识动员]]不是单向传递**：研究使用被理解成“社会互动和迭代的共同创造过程”，关键不是把研究送到学校，而是研究者、决策者与实践者共同重组知识（Nelson & Campbell, 2017, p.130）。
 > - **系统支持条件同样重要**：如果没有组织支持、合作关系和能力建设，[[Evidence-Informed Practice|EIP]] 很难从少数教师的零散实践变成系统性的专业学习方式（Nelson & Campbell, 2017, pp.130–131）。
 >
@@ -52,7 +51,7 @@ updated: '2026-05-21'
 > [!success] 主要贡献
 > - **安大略系统改革路径** — 把教育领导力、组织支持和证据使用放进同一框架，而不把研究使用看成教师个人习惯问题。
 > - **KNAER 案例研究** — 提供系统层面 [[Knowledge Mobilisation]] 的案例，说明研究-实践合作如何作为制度化机制运行（Nelson & Campbell, 2017, pp.130–131）。
-> - **[[Evidence-Informed Practice|EIP]] 特刊[[Integration in Mixed Methods|整合]]工作** — 与 [[Julie Nelson]] 共同把 [[Evidence-Informed Practice]] 从术语争论推进成一个包含定义、应用与测量的清晰问题域。
+> - **[[Evidence-Informed Practice|EIP]] 特刊整合工作** — 与 [[Julie Nelson]] 共同把 [[Evidence-Informed Practice]] 从术语争论推进成一个包含定义、应用与测量的清晰问题域。
 
 ## 影响
 
@@ -63,7 +62,7 @@ updated: '2026-05-21'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Nelson, J., & Campbell, C. (2017). *[[Evidence-Informed Practice]] in education_ meanings and applications*. Educational Research, 59(2), 127–135. — 系统[[Integration in Mixed Methods|整合]] [[Evidence-Informed Practice|EIP]] 的定义、应用和测量问题。
+> - Nelson, J., & Campbell, C. (2017). *[[Evidence-Informed Practice]] in education_ meanings and applications*. Educational Research, 59(2), 127–135. — 系统整合 [[Evidence-Informed Practice|EIP]] 的定义、应用和测量问题。
 > - Campbell, C. (2016). *Supporting teachers as a profession of knowledge developers and mobilisers*. Education Today, 66(2), 5–20. — 强调教师专业不只是使用知识，也要发展与动员知识。
 > - Campbell, C. (2014). *Q&A with Carol Campbell*. Lead the Change, Series 41. AERA Educational Change SIG. — 展示安大略系统改革中的研究与评估战略。
 

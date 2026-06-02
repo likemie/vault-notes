@@ -14,7 +14,6 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Barrier]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Academic and Social Integration]]"
   - "[[Cultural Capital]]"
   - "[[Habitus]]"
@@ -33,7 +32,7 @@ related_theories:
   - "[[Dual-Process Model of Culture in Action]]"
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[In-depth Interview]]"
+  - "[[Qualitative Interview]]"
   - "[[Constructivist Grounded Theory]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
@@ -65,7 +64,7 @@ updated: 2026-05-19
 > [!note]
 > - 就读于复旦大学高等教育研究所，师从熊庆年教授（郑雅君，2023）
 > - 2014 年夏开始其对中国一流大学学生毕业出路分化问题的研究旅程（郑雅君，2023）
-> - 2015 秋至 2017 年初，在中国两所著名研究型大学（化名"北方大学"和"南方大学"）完成首轮 38 名毕业班学生的[[In-depth Interview|深度访谈]]（郑雅君，2023）
+> - 2015 秋至 2017 年初，在中国两所著名研究型大学（化名"北方大学"和"南方大学"）完成首轮 38 名毕业班学生的[[Qualitative Interview|深度访谈]]（郑雅君，2023）
 > - 2017 年暑假和 2018 年暑假，受复旦高等教育研究所牛新春老师之邀，在"南方大学"补充访谈了 24 名主要来自较低阶层背景的毕业班本科生（郑雅君，2023）
 > - 与牛新春合作发表多篇关于重点大学城乡学生生涯定向的实证研究（郑雅君，2023）
 > - 2023 年出版专著《金榜题名之后：大学生出路分化之谜》，由上海三联书店出版（郑雅君，2023）
@@ -75,14 +74,14 @@ updated: 2026-05-19
 ## 主要著作
 
 > [!abstract]
-> - 郑雅君（2023），《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 [[Pierre Bourdieu|Bourdieu]] 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
+> - 郑雅君（2023），《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[Qualitative Interview|深度访谈]]，运用 [[Pierre Bourdieu|Bourdieu]] 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
 
 ---
 
 ## 核心思想
 
 > [!tip]
-> 郑雅君的核心理论贡献在于[[Integration in Mixed Methods|整合]]三条理论脉络——高等教育学（[[Academic and Social Integration|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、[[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"[[Analytic Framework|分析框架]]（郑雅君，2023）。
+> 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital|文化资本]]与[[Habitus|习性]]理论）和文化社会学（[[Max Weber|韦伯]]价值理性、[[Ann Swidler]] [[Culture as Toolkit|文化工具箱]]、[[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"[[Analytic Framework|分析框架]]（郑雅君，2023）。
 
 > [!quote]
 > "如果说整本书有什么是我最迫切想和读者分享的，那就是当我将自己浸没在被访者的声音中，我的发现恰恰挑战了自己先前想当然的前提假设——学生的毕业去向都是他们有意图地主动选择的结果"（郑雅君，2023）
@@ -103,7 +102,7 @@ updated: 2026-05-19
 
 ### 方法论立场
 
-郑雅君遵循韦伯诠释社会学传统，以[[Constructivist Grounded Theory|建构主义扎根理论]]（Charmaz, 2006）方法处理 62 名跟踪式[[In-depth Interview|深度访谈]]数据（累计 150+ 万字），在理论演绎与现象归纳的循环迭代中最终产出了类型学发现。其研究设计以**跟踪式个案**为分析单位，通过目的抽样与理论抽样选取典型案例，结合类别系列分解策略优化可外推性（郑雅君，2023）。
+郑雅君遵循韦伯诠释社会学传统，以[[Constructivist Grounded Theory|建构主义扎根理论]]（Charmaz, 2006）方法处理 62 名跟踪式[[Qualitative Interview|深度访谈]]数据（累计 150+ 万字），在理论演绎与现象归纳的循环迭代中最终产出了类型学发现。其研究设计以**跟踪式个案**为分析单位，通过目的抽样与理论抽样选取典型案例，结合类别系列分解策略优化可外推性（郑雅君，2023）。
 
 ---
 

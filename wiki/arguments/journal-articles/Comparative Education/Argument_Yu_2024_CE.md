@@ -32,7 +32,7 @@ related_concepts:
   - "[[Academic Freedom]]"
 related_theories: []
 related_methods:
-  - "[[In-depth Interview]]"
+  - "[[Qualitative Interview]]"
 related_persons:
   - "[[Confucius]]"
   - "[[Mencius]]"
@@ -78,7 +78,7 @@ updated: 2026-05-21
 
 > [!info] 研究方法
 > - **教科书分析**：抽取六门中小学必修科目（语文、英语、政治、地理、历史、历史与社会）共217册教科书。样本涵盖人民教育出版社123册及东南地区主要出版社94册，出版年份跨越2001至2016年。批判话语分析 (critical discourse analysis) 构成了主要方法。分析过程首先定位[[Confucius|孔子]]、[[Mencius|孟子]]、[[Zhu Xi|朱熹]]及“儒家”等关键术语，随后考察上述术语在文本中的阐释与意义赋予。
-> - **[[In-depth Interview|深度访谈]]（[[In-depth Interview]]）**：2017年采用半结构化形式面对面访谈37名非汉少数民族及宗教背景大学生。样本覆盖15个民族，约65%具备宗教信仰（佛教12人、伊斯兰教9人、基督教1人、其他传统2人）。受访者中86%入读纯汉语课程（民考汉），14%曾就读双语学校（民考民）。最大变异抽样 (Miles, Huberman, & Saldana 2014) 确保了民族、宗教、性别和学科背景的多样性考察。
+> - **[[Qualitative Interview|深度访谈]]（In-depth Interview）**：2017年采用半结构化形式面对面访谈37名非汉少数民族及宗教背景大学生。样本覆盖15个民族，约65%具备宗教信仰（佛教12人、伊斯兰教9人、基督教1人、其他传统2人）。受访者中86%入读纯汉语课程（民考汉），14%曾就读双语学校（民考民）。最大变异抽样 (Miles, Huberman, & Saldana 2014) 确保了民族、宗教、性别和学科背景的多样性考察。
 > - **叙事分析**：分类内容取向 (categorical-content approach) 指导了文本处理，独立的表述被提取、分类并归入相应类别。
 
 ---

@@ -15,7 +15,6 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Self-Authorship]]"
   - "[[Champ]]"
   - "[[Self-Driven Mode]]"
@@ -113,7 +112,7 @@ updated: 2026-05-18
 
 > [!example]
 > - [[Dual-Process Model of Culture in Action]] — Vaisey（2009）以双过程模型调和了工具箱范式与价值观驱动范式，论证二者在不同意识层次互补运作。详见该条目（[[Yajun Zheng|郑雅君]]，2023）
-> - [[Yajun Zheng|郑雅君]]（2023）的理论[[Integration in Mixed Methods|整合]] — 从 Swidler-Vaisey 争论中提炼出两个关键维度（行动目的生成状态、文化工具箱使用能力），与 Baxter Magolda 的[[Self-Authorship|自我主导性]]理论以及 [[Pierre Bourdieu|Bourdieu]] *Les Héritiers* 的"考试能手／浅薄涉猎者"二分共同构成 [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 双模式框架的三个理论灵感来源。三个理论分别对应了文化工具的可及性（工具箱范式）、使用文化工具的内在能力（自我主导性）和文化工具阶层差异的原初洞察（*Les Héritiers*）（郑雅君，2023）
+> - [[Yajun Zheng|郑雅君]]（2023）的理论整合 — 从 Swidler-Vaisey 争论中提炼出两个关键维度（行动目的生成状态、文化工具箱使用能力），与 Baxter Magolda 的[[Self-Authorship|自我主导性]]理论以及 [[Pierre Bourdieu|Bourdieu]] *Les Héritiers* 的"考试能手／浅薄涉猎者"二分共同构成 [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 双模式框架的三个理论灵感来源。三个理论分别对应了文化工具的可及性（工具箱范式）、使用文化工具的内在能力（自我主导性）和文化工具阶层差异的原初洞察（*Les Héritiers*）（郑雅君，2023）
 
 ---
 

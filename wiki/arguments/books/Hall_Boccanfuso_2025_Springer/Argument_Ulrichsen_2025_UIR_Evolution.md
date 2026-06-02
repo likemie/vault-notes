@@ -17,8 +17,8 @@ tags:
 related_concepts:
   - "[[Probes]]"
   - "[[Analytic Framework]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Innovation Models Evolution]]"
+  - "[[Integration in Mixed Methods]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Transformative Change]]"
   - "[[University-Industry Collaboration]]"
@@ -66,10 +66,10 @@ updated: 2026-05-27
 ## 理论框架
 
 > [!abstract]
-> 本章属于历史综述（historical review），不以单一理论为[[Analytic Framework|分析框架]]，而是[[Integration in Mixed Methods|整合]]多条理论线索来组织对 UIR 演变的追溯：
+> 本章属于历史综述（historical review），不以单一理论为[[Analytic Framework|分析框架]]，而是整合多条理论线索来组织对 UIR 演变的追溯：
 
 - **[[Systems of Innovation|创新系统理论]]**（Lundvall et al., 2002）——将创新理解为多行动者在制度环境下的集体学习活动，是本章组织材料的核心视角。它帮助读者理解：UIR 不是孤立的人际互动，而是嵌套在法律框架、金融系统、文化规范等多层制度之中的系统行为
-- **[[Innovation Models Evolution|创新模型演变]]**（linear → coupling → systems integration → networked → systems of innovation）——五代创新模型为理解产学互动方式的历史变迁提供了坐标（Tidd, 2006; Caraça et al., 2009）
+- **[[Innovation Models Evolution|创新模型演变]]**（linear → coupling → systems [[Integration in Mixed Methods|integration]] → networked → systems of innovation）——五代创新模型为理解产学互动方式的历史变迁提供了坐标（Tidd, 2006; Caraça et al., 2009）
 - **[[Innovation Policy Paradigms|创新政策范式]]**（Schot & Steinmueller, 2018）——"科学促增长 → 创新系统升级 → [[Transformative Change|变革转型]]"三阶段框架，解释了国家政策如何塑造[[University-Industry Collaboration|产学合作]]的激励和条件
 - **[[Triple Helix]]** ——全书共享理论，本章为其提供五十年历史演化的经验证据；**[[Innovation Ecosystem|创新生态系统]]**同理，本章展示生态系统如何从概念走向制度化
 
@@ -95,7 +95,7 @@ updated: 2026-05-27
 
 **变化一：创新本身的性质变了。** 二十世纪的经济经历了从"物质资本驱动增长"到"知识驱动增长"的转变（Kuznets, 1971; Foray, 2004）。技术变革加速、产品生命周期缩短、全球竞争加剧，一个企业十年前的核心技术今天可能完全过时（Bettis & Hitt, 1995）（pp.26–27）。
 
-> 以智能手机产业为例：1990 年代一部手机的研发周期可能是三到五年，诺基亚可以用同一套硬件平台迭代多代产品。但今天一部智能手机[[Integration in Mixed Methods|整合]]了来自几十个国家数百家供应商的技术，没有任何一家公司能独立完成所有环节。这就是从"封闭创新"到"开放创新"的结构性转变。
+> 以智能手机产业为例：1990 年代一部手机的研发周期可能是三到五年，诺基亚可以用同一套硬件平台迭代多代产品。但今天一部智能手机整合了来自几十个国家数百家供应商的技术，没有任何一家公司能独立完成所有环节。这就是从"封闭创新"到"开放创新"的结构性转变。
 
 但更根本的是，人们对"创新到底怎么发生的"这个问题的理解本身经历了五次迭代（pp.27–28）：
 
@@ -292,7 +292,7 @@ Ulrichsen 综合多项实证研究，提出了一个七层次影响因素框架�
 > 3. 大企业从大量零散学术互动转向少数战略性大学伙伴，始于 2000 年代、加速于 2010 年代，其逻辑是深度关系在隐性知识转移和长期信任建立上比广度覆盖更具优势（pp.44–45）。
 > 4. UIR 日益制度化。大学在 2000 年代后正式承担了"[[Third Mission (Universities)|第三使命]]"，建立了从领导角色、支持单位到内部种子基金的体系化支撑。英国的长期公式拨款（而非项目制竞争）在此过程中被证明"极为宝贵"（pp.42–43, 50）。
 > 5. 影响 UIR 的因素分布在七个系统层面（大学领导、学术人员、互动项目、产业伙伴、制度、供给、需求），单一层面的干预（如仅要求大学设立 [[Technology Transfer|TTO]]）难以解决多层嵌套的系统性障碍（pp.48–49）。
-> 6. 面向未来，最关键的转变不是"做更多的[[University-Industry Collaboration|产学合作]]"，而是将研究、解决方案开发和人才培养[[Integration in Mixed Methods|整合]]起来应对重大社会挑战；拓宽 UIR 的行业和学科范围（纳入传统行业和人文社科）；实验能有效汇集多方资源和能力的新型组织形式（pp.47–51）。
+> 6. 面向未来，最关键的转变不是"做更多的[[University-Industry Collaboration|产学合作]]"，而是将研究、解决方案开发和人才培养整合起来应对重大社会挑战；拓宽 UIR 的行业和学科范围（纳入传统行业和人文社科）；实验能有效汇集多方资源和能力的新型组织形式（pp.47–51）。
 
 ---
 
@@ -312,7 +312,7 @@ Ulrichsen 综合多项实证研究，提出了一个七层次影响因素框架�
 > [!warning]
 > 本章作为综述性章节，未明确陈述自身方法局限。但可识别以下边界条件：
 > - 分析主要聚焦美国、英国和部分欧洲国家，对中国之外的亚洲国家、非洲和拉丁美洲的 UIR 演变涉及有限
-> - 影响 UIR 的因素框架[[Integration in Mixed Methods|整合]]自多个以不同方式测量同一因素的研究（如"信任"有时被研究为障碍、有时被研究为促进因素），使文献间的可比性受限（p.49）
+> - 影响 UIR 的因素框架整合自多个以不同方式测量同一因素的研究（如"信任"有时被研究为障碍、有时被研究为促进因素），使文献间的可比性受限（p.49）
 > - "[[Transformative Change|变革转型]]"政策范式仍处早期阶段，其实施证据有限——目前更接近一种规范性愿景而非已验证的政策框架（Lindner et al., 2024）（p.34）
 
 ---

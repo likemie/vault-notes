@@ -47,7 +47,6 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
   - "[[Probes]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Technical Rationality]]"
   - "[[Problem-Based Learning]]"
   - "[[Surface and Deep Learning]]"
@@ -305,7 +304,7 @@ updated: '2026-05-21'
 
 > [!warning] 教育哲学批评
 > - **Rømer (2018)** — 五线哲学批判：[[Appraisal Theory|评价理论]]取代教育、因变量概念不清、[[Radical Constructivism|激进建构主义]]消解教学、反馈集权化、误读 Popper 三个世界理论。与 Nielsen & Klitmøller (2021) 形成互补——前者[[Probes|追问]]理论前提是否正确，后者追问为什么错了还如此成功（详见 Argument_Rømer_2018_EPT、[[Visible Learning#Rømer (2018)]])
-> - **Larsen (2019)** — 从[[Phenomenology|现象学]]、神经科学、自由哲学和概念史四个领域[[Integration in Mixed Methods|整合]]为统一的"盲视"（blindness）批判框架：学习对学习主体并非即时可见；大脑-身体-社会复杂性不可还原为简单测量；教师可见学习不等于学生有意识/无意识学习；学习不是价值中立的概念，应以 [[Bildung]] 替代。Larsen 追问的核心问题是"VL 在原则上能看到什么、不能看到什么？"（详见 [[Visible Learning#观看中的盲视与 Bildung 替代（Larsen, 2019）]]）
+> - **Larsen (2019)** — 从[[Phenomenology|现象学]]、神经科学、自由哲学和概念史四个领域整合为统一的"盲视"（blindness）批判框架：学习对学习主体并非即时可见；大脑-身体-社会复杂性不可还原为简单测量；教师可见学习不等于学生有意识/无意识学习；学习不是价值中立的概念，应以 [[Bildung]] 替代。Larsen 追问的核心问题是"VL 在原则上能看到什么、不能看到什么？"（详见 [[Visible Learning#观看中的盲视与 Bildung 替代（Larsen, 2019）]]）
 > - **Zhao (2017)** — 以副作用框架审视 Hattie 将[[Direct Instruction|直接教学]]评为 d=0.59 的效应量证据：虽然 DI 在成绩测试上有效，但同时存在抑制创造力、限制自发探索、产生"非生产性成功"等副作用（详见 [[Argument_Zhao_2017_JEC]]）
 > - **Nielsen & Klitmøller (2021, IRTP)** — 以 Habermas 合法化危机理论解释 VL 全球流行：VL 的吸引力在于其[[Technical Rationality|技术理性]]内核满足了教育系统的合法化需求，而非其科学质量（详见 [[Visible Learning#合法化危机与技术理性（Nielsen & Klitmøller, 2021）]]）
 > - **Nielsen & Klitmøller (2021, NordPsych)** — 论证 Hattie 是教育理论家而非纯统计学家：追溯行为主义理论谱系（Skinner→Glaser→Hattie, 1987），对 VL 反馈效应（d=0.73）的 5 项最重元分析逐项审查，发现 4/5 未研究 Hattie 所定义的反馈（详见 [[Argument_Nielsen_2021_NordPsych]]）

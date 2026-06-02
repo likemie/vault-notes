@@ -29,7 +29,6 @@ related_concepts:
   - "[[Educational Technology Industry]]"
   - "[[Probes]]"
   - "[[Learning Analytics]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[SF (Haraway)]]"
   - "[[Humosity]]"
   - "[[Mondialisation]]"
@@ -205,7 +204,7 @@ updated: 2026-05-18
 > 7. **放大涌现的草根方案**——寻找已经存在的创新并支持它们
 > 8. **基于最大化最广泛需求的满足**——不是为少数人优化
 > 9. **设计师自身心态是设计的核心构成**——自我反思是方法论的一部分
-> 10. **重新[[Integration in Mixed Methods|整合]]和重新情境化跨学科知识**——打破学科壁垒
+> 10. **重新整合和重新情境化跨学科知识**——打破学科壁垒
 >
 > 所有这些原则有一个共同特征：**拒绝宏大蓝图，拥抱地方实验**。这与 Cowen 市场驱动模型中的"标准化"和"效率最大化"形成鲜明对比。
 >

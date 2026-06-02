@@ -15,13 +15,12 @@ tags:
   - method/social-justice
   - method/complex-design
 related_concepts:
-  - "[[Integration in Mixed Methods]]"
   - "[[Knowledge Production]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Explanatory Sequential Design]]"
-  - "[[In-depth Interview]]"
+  - "[[Qualitative Interview]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -54,7 +53,7 @@ updated: 2026-06-02
 > 5. **评价（Evaluation）**：收集并分析量化和质性数据以评价成效 → 可嵌入第二个核心混合方法设计
 > 6. **行动与改进（Action & Improvement）**：根据评价结果实施新模型，循环回到需求评估
 >
-> 在多个步骤中均有机会同时收集两种数据，并在这些步骤中嵌入核心混合方法设计（聚敛式、解释性序列或探索性序列）。[[Integration in Mixed Methods|整合]]发生在质性数据收集和发现与整体参与式过程的各个连接点上。
+> 在多个步骤中均有机会同时收集两种数据，并在这些步骤中嵌入核心混合方法设计（聚敛式、解释性序列或探索性序列）。整合发生在质性数据收集和发现与整体参与式过程的各个连接点上。
 
 > [!example]- 图10.5：混合方法参与式行动研究设计图
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-5_Mixed_Methods_Participatory_Action_Research_Design.jpg)
@@ -74,7 +73,7 @@ updated: 2026-06-02
 ## 使用此方法的研究
 
 > [!example]
-> - Hodgkin (2008) — 使用女性主义[[Mixed Methods Research|混合方法]]社会正义[[Explanatory Sequential Design|解释性序列设计]]，研究澳大利亚一个区域城市中男性和女性的社会资本差异，先通过大规模调查（N=1431）识别性别差异，再仅对女性（N=12）进行[[In-depth Interview|深度访谈]]，以女性主义框架包裹整个研究来呈现性别不平等的图景（Creswell & Creswell, 2022, p.249）。
+> - Hodgkin (2008) — 使用女性主义[[Mixed Methods Research|混合方法]]社会正义[[Explanatory Sequential Design|解释性序列设计]]，研究澳大利亚一个区域城市中男性和女性的社会资本差异，先通过大规模调查（N=1431）识别性别差异，再仅对女性（N=12）进行[[Qualitative Interview|深度访谈]]，以女性主义框架包裹整个研究来呈现性别不平等的图景（Creswell & Creswell, 2022, p.249）。
 
 ---
 

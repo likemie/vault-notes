@@ -21,7 +21,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[Bildung]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Effective Teaching]]"
 related_theories: []
 related_methods:
@@ -74,7 +73,7 @@ updated: '2026-05-18'
 ## 主要发现
 
 > [!success] 主要发现
-> - **数据质量问题**：大多数[[Meta-analysis|元分析]]来自 1980s-1990s，基础数据已过时。教师内容和教学法知识的影响研究尚未被[[Integration in Mixed Methods|整合]]（p.428-429）。
+> - **数据质量问题**：大多数[[Meta-analysis|元分析]]来自 1980s-1990s，基础数据已过时。教师内容和教学法知识的影响研究尚未被整合（p.428-429）。
 > - **纳入标准不透明**：[[John Hattie|Hattie]] 未提供选择元分析的质量标准——"大概，Hattie 拉入了所有可及的元分析，但它们每个可能有且确实有不同的针对个体研究的严格纳入标准"（p.429）。
 > - **[[Didaktik|教学理论]]局限**：Hattie 使用 Popper 的三个世界理论"以一种相当联想和顽固的方式穿越学习理论领域"，但与德国 [[Bildung]] 概念有可关联之处——然而 Bildung 的实质面被忽略（p.430-431）。
 > - **课程内容缺失**："内容问题、学科的教学意义问题、关于合法化课程决策的问题和可能性的反思……被完全忽略"（p.431）。"肉在哪里？"（p.430-431）。

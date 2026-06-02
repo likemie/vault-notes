@@ -21,7 +21,6 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Probes]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Champ]]"
   - "[[Causality]]"
   - "[[Tracking]]"
@@ -198,7 +197,7 @@ Wiliam (2019) 则将 EBE 关于"什么有效"的核心问题本身判定为**错
 - **2007** — Biesta 在 *Educational Theory* 发表 "Why 'What Works' Won't Work"，提出"民主缺陷"概念
 - **2010** — Biesta 正式提出**三重缺陷**的完整框架（知识缺陷、效力缺陷、应用缺陷）（详见 [[Argument_Biesta_2010_SPE]]）
 - **2015** — Cowen & Cartwright 发表 CHESS 工作论文，通过教师访谈实证研究 EBP 的实施困境（详见 [[Argument_Cowen_2015_CHESS]]）
-- **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 RCT，以改进网络作为实施基础设施，以共享的教育变革机制分类学作为[[Integration in Mixed Methods|整合]]媒介（Peterson, 2016）
+- **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 RCT，以改进网络作为实施基础设施，以共享的教育变革机制分类学作为整合媒介（Peterson, 2016）
 - **2016** — Pampaka, Williams & Homer 编辑 IJRME 特刊 *Is the educational 'what works' agenda working?*，诊断"至今很少有显著正向的教育实践在大规模上出现"（p.231），RCT 领域弥漫"萎靡感"（p.233），并识别 agency 作为核心哲学分歧（Pampaka et al., 2016）
 - **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性（详见 [[Argument_Cowen_2019_ERE]]）；Wrigley & McCusker 论证 EBT 的"科学"宣称基于过分简化的民间科学观（详见 [[Argument_Wrigley_2019_ERE]]）；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的（详见 Argument_Wiliam_2019_ERE）
 - **2019** — Qvortrup 在 NordSTEP 发表 VL 辩护讨论论文，提出"观察透镜"认识论论证（Qvortrup, 2019, p.5; 详见 [[Argument_Qvortrup_2019_NordSTEP]]）
@@ -245,7 +244,7 @@ Wiliam (2019, pp.7–8) 从**教师质量的未测量变异**这一角度补充�
 #### 强版本 vs. 弱版本
 
 - **强版本（evidence-based）**：专业人士只应被允许做有正面研究证据支持的事——以 RCT 证据作为实践决策的核心或唯一依据
-- **弱版本（evidence-informed）**：证据作为信息之一，与[[Professional Judgment|专业判断]]、情境理解等并列——教育者运用专业判断来[[Integration in Mixed Methods|整合]]证据，而非被证据驱动
+- **弱版本（evidence-informed）**：证据作为信息之一，与[[Professional Judgment|专业判断]]、情境理解等并列——教育者运用专业判断来整合证据，而非被证据驱动
 
 Nelson & Campbell (2017, pp. 128–129) 明确站在 [[Evidence-Informed Practice|EIP]] 一侧。Wiliam (2019, p.2) 将教师是"技术人员还是专业人员"的问题定位为**实证问题**：如果让教师遵循专业判断而不关注研究证据，学生成就是否提高？研究证据（无论来自 RCT、系统综述还是其他研究）能否帮助改善学生成果？
 
@@ -374,7 +373,7 @@ Pampaka et al. (2016, p.235) 总结了特刊论文的共识方向：
 - **vs [[Effect Size]]** — 效应量是 EBE 方法论的核心分析单位；Simpson 论证其测量试验灵敏度而非有效性；Wiliam (2019, p.11) 明确断言"[[Meta-meta-analysis|元-元分析]]在教育政策制定中绝对没有任何角色"
 - **vs [[Dynamic Knowledge and Learning Model]]** — EBE 常回答"有没有效"；动态模型进一步[[Probes|追问]]"对哪一类知识有效"，用于细化 EBE 的结果解释层。
 - **vs [[Validity as Inferences]]** — Wiliam (2019, pp.9–10) 将 Cronbach/Messick 的效度理论应用于教育研究方法论：效度是推论的属性，意味着 EBE 的"什么有效"知识永远是临时且局部的
-- **vs [[Professional Judgment]]** — EBE 强版本将证据作为实践决策核心；Qvortrup (2019) 论证教师需要专业判断来[[Integration in Mixed Methods|整合]]证据与情境，而非被证据驱动
+- **vs [[Professional Judgment]]** — EBE 强版本将证据作为实践决策核心；Qvortrup (2019) 论证教师需要专业判断来整合证据与情境，而非被证据驱动
 - **vs [[Epistemic Governance|知识治理]]（Epistemic Governance）** — EBE 主要在国家政策层面讨论"决策是否依据科学证据"这一工具性问题；知识治理是一个更广泛的生成性概念，关注"知识如何在去中心化的全球治理架构中产生治理效应"。Zapp (2022) 将 EBE 所体现的"[[Scientization of Politics|政策的科学化]]"（scientization of politics）定位为知识治理兴起的一个关键维度——政策制定者接受科学证据作为决策的合法性基础，大学和研究者因此进入全球治理的核心舞台（Zapp, 2022, pp.145–146）
 - **vs [[Side Effects]]** — Zhao (2017) 论证 EBE 从医学借鉴了 [[Randomised Controlled Trials|RCT]] 却忽略了对副作用的系统性研究；效果与副作用是同一干预不可分离的双重结果
 

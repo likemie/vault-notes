@@ -25,7 +25,6 @@ related_concepts:
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
   - "[[Technology Transfer]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods: []
@@ -229,7 +228,7 @@ updated: 2026-05-28
 > **[[Central Florida Research Park|中佛罗里达研究园]]**（1978 年建立）：1993 年海军空战中心训练系统部迁入后，大学和州政府持续投资吸引国防部租户，现拥有超过 9,500 名雇员和 Northrop Grumman、Boeing 等主要国防承包商。UCF 研发支出十年翻番（p.132）。
 
 > [!example]
-> **[[University City Science Center|大学城科学中心]]（费城）**：利用非营利结构创建激励创业者关系发展的项目，聚焦费城本地相对优势，后建实体空间集中创业者、学者和产业伙伴。建有全面的[[Integration in Mixed Methods|整合]]传播策略，官网面向六类受众（pp.126–127, 133）。
+> **[[University City Science Center|大学城科学中心]]（费城）**：利用非营利结构创建激励创业者关系发展的项目，聚焦费城本地相对优势，后建实体空间集中创业者、学者和产业伙伴。建有全面的整合传播策略，官网面向六类受众（pp.126–127, 133）。
 
 > [!example]
 > **[[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 园区（谢菲尔德大学）**：随 AMRC 发展，波音等主要产业伙伴在园区建立制造工厂，形成集研究-培训-制造为一体的创新中心（Hoffman et al., 2025, pp.115–116）。

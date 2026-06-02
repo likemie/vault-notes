@@ -17,7 +17,6 @@ related_concepts:
   - "[[Selectivity]]"
   - "[[Performance Indicators]]"
   - "[[Theories of Policy Change]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -60,7 +59,7 @@ updated: '2026-05-18'
 
 ### 提供系统性的变革理论
 
-新社团主义国家的终身学习专业人员倾向于发展出系统性的本地 [[Theories of Policy Change]]，而非仅依赖对青年受益人的负面刻板印象来组织服务。例如，德国和奥地利的受访者系统性地提及"学徒制系统"——一套[[Integration in Mixed Methods|整合]]了企业培训、学校教育和工会监督的完整变革理论，为地方实践提供了连贯的行动框架（Rambla, 2022, p.172–173）。
+新社团主义国家的终身学习专业人员倾向于发展出系统性的本地 [[Theories of Policy Change]]，而非仅依赖对青年受益人的负面刻板印象来组织服务。例如，德国和奥地利的受访者系统性地提及"学徒制系统"——一套整合了企业培训、学校教育和工会监督的完整变革理论，为地方实践提供了连贯的行动框架（Rambla, 2022, p.172–173）。
 
 ### 维持制度化的社会对话
 

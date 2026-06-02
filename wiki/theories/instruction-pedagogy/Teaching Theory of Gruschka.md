@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Bildung]]"
   - "[[Didaktik]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Analytic Framework]]"
 related_theories: []
 related_methods: []
@@ -37,7 +36,7 @@ updated: 2026-05-20
 ## 核心主张
 
 > [!tip]
-> Andreas Gruschka（2009, 2013, 2019）将教学（teaching）理解为一个由三种行动维度交织而成的复杂系统：[[Bildung]]（人格陶成）、Erziehung（教育／教养）和 [[Didaktik]]（教学法）。三者在每一次教学行动中同时在场、不可分割。Gruschka 借用 Adorno 的"星座"（constellation）概念将这一结构称为"[[Integration in Mixed Methods|整合]]性星座案例"（an integrated case of constellation），以强调三要素之间"非同一"（non-identical）的相互缠绕关系——它们不能被还原为彼此，也不能被拆分为独立步骤（Gruschka, 2019, p.680, cited in Jornitz & Klinge, 2022, pp.238–239）。
+> Andreas Gruschka（2009, 2013, 2019）将教学（teaching）理解为一个由三种行动维度交织而成的复杂系统：[[Bildung]]（人格陶成）、Erziehung（教育／教养）和 [[Didaktik]]（教学法）。三者在每一次教学行动中同时在场、不可分割。Gruschka 借用 Adorno 的"星座"（constellation）概念将这一结构称为"整合性星座案例"（an integrated case of constellation），以强调三要素之间"非同一"（non-identical）的相互缠绕关系——它们不能被还原为彼此，也不能被拆分为独立步骤（Gruschka, 2019, p.680, cited in Jornitz & Klinge, 2022, pp.238–239）。
 
 > [!quote]
 > "Teaching is understood as a complex system of actions that consists of 'Bildung', education ('Erziehung') and didactics. All three aspects are interwoven in the action of teaching."（Jornitz & Klinge, 2022, p.238, summarizing Gruschka, 2009, 2013, 2019）

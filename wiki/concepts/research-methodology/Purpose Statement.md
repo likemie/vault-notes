@@ -171,7 +171,7 @@ updated: 2026-05-31
 
 ### 混合方法目的陈述
 
-[[Mixed Methods Research|混合方法]]目的陈述（mixed methods purpose statement）包含研究的总体意图、量化与质性两个分支的信息、两类数据的[[Integration in Mixed Methods|整合]]（integration），以及整合后预期的洞见。好的混合方法目的陈述包含以下要素（Creswell & Creswell, 2022, pp.134–137）：
+[[Mixed Methods Research|混合方法]]目的陈述（mixed methods purpose statement）包含研究的总体意图、量化与质性两个分支的信息、两类数据的整合（[[Integration in Mixed Methods|integration]]），以及整合后预期的洞见。好的混合方法目的陈述包含以下要素（Creswell & Creswell, 2022, pp.134–137）：
 
 > [!abstract] 混合方法目的陈述四要素
 > 1. **总体意图**：研究在内容层面最终要达成什么，最好具有实践价值。

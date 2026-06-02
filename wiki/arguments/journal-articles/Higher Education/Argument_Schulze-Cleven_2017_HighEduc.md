@@ -30,7 +30,6 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[University-Industry Collaboration]]"
   - "[[Non-monetary Competition]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Elitism Dispositif]]"
   - "[[Constructivist Paradigm]]"
   - "[[Discursive Stratification]]"
@@ -124,7 +123,7 @@ Slaughter & Leslie（1997）和 Slaughter & Rhoades（2004）的 [[Academic Capi
 ## 研究方法
 
 > [!info] 研究类型
-> 分析[[Integration in Mixed Methods|整合]]了八篇论文的理论贡献，涵盖比较跨国政策分析（Schulze-Cleven & Olson）、量化分析（Wieczorek, Beyer & Münch 对美国化学系拨款效应的研究）、话语分析（Maesse 对经济学学科[[Elitism Dispositif|精英部署]]的批判[[Constructivist Paradigm|建构主义]]分析）、媒体档案分析（Bouchard 对法国排名杂志的历史溯源）、以及学术生涯的制度比较（Angermuller 对美英法德四国学术地位范畴的比较），在此基础上提出多维分析策略和比较研究议程（pp.795–796, 808–809）。
+> 分析整合了八篇论文的理论贡献，涵盖比较跨国政策分析（Schulze-Cleven & Olson）、量化分析（Wieczorek, Beyer & Münch 对美国化学系拨款效应的研究）、话语分析（Maesse 对经济学学科[[Elitism Dispositif|精英部署]]的批判[[Constructivist Paradigm|建构主义]]分析）、媒体档案分析（Bouchard 对法国排名杂志的历史溯源）、以及学术生涯的制度比较（Angermuller 对美英法德四国学术地位范畴的比较），在此基础上提出多维分析策略和比较研究议程（pp.795–796, 808–809）。
 >
 > 地理范围集中于北美和西欧，以美国为全球参照模型，特别关注德国和法国，这两个欧洲人口最多的国家代表了学术治理的两种范式：德国以国家为中心的传统与市场化改革的拉锯，法国以国家主导的院校合并与精英大学校体系的张力（pp.796–797）。
 

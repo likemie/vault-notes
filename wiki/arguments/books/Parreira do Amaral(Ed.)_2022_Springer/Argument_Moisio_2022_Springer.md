@@ -17,7 +17,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hegemony]]"
   - "[[Transfer Translation Transformation]]"
@@ -66,7 +65,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 
-Moisio 从多学科传统中[[Integration in Mixed Methods|整合]]理论资源，构建分析[[Knowledge-Based Economization|知识经济化]]地缘政治的复合框架：
+Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based Economization|知识经济化]]地缘政治的复合框架：
 
 - David Harvey（1985/2001）的资本主义地缘政治理论 — 本章最核心的理论支柱。地缘政治源于资本主义生产方式内部的政治经济动力：资本流通中的固着与流动之间的张力（tension between fixity and motion）。资本主义需要地方锚定来促进流动，但流动又不断破坏既有地方配置。这一悖论成为 Moisio 解释[[Knowledge-Based Economization|知识经济化]]空间动态的核心机制（Moisio, 2022, pp.27–28）
 - [[Knowledge-Based Economization]] — Moisio（2018）自有的核心分析概念，将注意力从 [[Knowledge-Based Economy|KBE]] 作为既成事物转向其被持续生产的过程。该概念架起了经济分析和地缘政治分析之间的桥梁（Moisio, 2022, pp.24–26）

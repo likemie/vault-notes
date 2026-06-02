@@ -18,7 +18,8 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
   - "[[Coding in Qualitative Research]]"
-related_persons: []
+related_persons:
+  - "[[Yvonna S. Lincoln]]"
 related_facts: []
 related_arguments: []
 sources:

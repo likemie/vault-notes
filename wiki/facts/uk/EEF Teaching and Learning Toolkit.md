@@ -31,7 +31,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[In-depth Interview]]"
+  - "[[Qualitative Interview]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
@@ -81,7 +81,7 @@ Pellegrini & Vivanet 将 EEF 放入欧洲证据基础设施中理解：EEF 不�
 ## 使用模式
 
 > [!example] 使用模式
-> Cowen et al.（2015）通过对 22 位英国教师的[[In-depth Interview|深度访谈]]，揭示了 Toolkit 在实践中的五种使用模式：
+> Cowen et al.（2015）通过对 22 位英国教师的[[Qualitative Interview|深度访谈]]，揭示了 Toolkit 在实践中的五种使用模式：
 >
 > ### 作为决策支持工具
 >

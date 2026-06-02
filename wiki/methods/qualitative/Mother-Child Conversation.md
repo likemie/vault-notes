@@ -15,7 +15,6 @@ tags:
   - region/east-asia
   - region/west
 related_concepts:
-  - "[[Integration in Mixed Methods]]"
   - "[[Variable]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Learning Virtues]]"
@@ -139,7 +138,7 @@ Li 团队先将对话按"事件"（event）[[Coding in Qualitative Research|编�
 
 1. **独立生成**：来自 EA 和 TW 的两组双语编码员各自独立审读对话，生成代码列表
 2. **合并协商**：两组编码员讨论并合并代码，最终形成 49 组代码
-3. **归类[[Integration in Mixed Methods|整合]]**：49 组代码被进一步归类为四对八个[[Variable|变量]]（Li, 2012, Table 7.1）：
+3. **归类整合**：49 组代码被进一步归类为四对八个[[Variable|变量]]（Li, 2012, Table 7.1）：
 
 | 代码 | 含义 | 例子 |
 |------|------|------|

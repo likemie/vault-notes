@@ -3,18 +3,18 @@ citation: "Hattie, J. (2015). The applicability of Visible Learning to higher ed
 extracted_to:
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Constructive Alignment]]"
+  - "[[Class Size]]"
   - "[[Direct Instruction]]"
+  - "[[Feedback]]"
   - "[[Problem-Based Learning]]"
+  - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Biggs]]"
   - "[[Carl Bereiter]]"
-  - "[[Popper's Three Worlds Theory]]"
-  - "[[Class Size]]"
-  - "[[Feedback]]"
-  - "[[Visible Learning]]"
-  - "[[Visible Learning Branding and Global Influences]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[John Hattie]]"
+  - "[[Popper's Three Worlds Theory]]"
 processed_date: 2026-05-04
 ---
 

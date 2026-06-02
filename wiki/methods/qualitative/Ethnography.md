@@ -19,7 +19,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[In-depth Interview]]"
+  - "[[Qualitative Interview]]"
   - "[[Case Study]]"
   - "[[Grounded Theory]]"
 related_persons: []
@@ -45,7 +45,7 @@ updated: 2026-05-30
 > [!example]
 > - 确定一个文化群体或共享文化的群体作为研究对象。
 > - 进入研究[[Champ|场域]]并建立信任关系（rapport）。
-> - 通过参与式观察（participant observation）和[[In-depth Interview|深度访谈]]长时间在现场收集数据。
+> - 通过参与式观察（participant observation）和[[Qualitative Interview|深度访谈]]长时间在现场收集数据。
 > - 关注群体的共享信念、价值观、行为模式、语言和物质文化。
 > - 生成关于该文化群体的整体性描述（holistic description）。
 > - 研究者需要反思自身文化背景如何影响对研究群体的理解（[[Reflexivity|反身性]]）。

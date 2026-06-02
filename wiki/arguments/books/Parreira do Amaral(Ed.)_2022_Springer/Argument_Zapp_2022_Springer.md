@@ -19,7 +19,6 @@ related_concepts:
   - "[[Organizational Actorhood]]"
   - "[[Constructivist Paradigm]]"
   - "[[Literature Review]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
   - "[[Research Problem]]"
@@ -80,7 +79,7 @@ updated: '2026-05-18'
 > [!info]
 > 本章为理论-概念讨论（conceptual discussion），非实证研究。
 > - 方法：[[Literature Review|文献综述]]、概念分析、二次数据分析
-> - 数据来源：Zapp [[Integration in Mixed Methods|整合]]了自身此前发表的多项实证研究作为论据——包括 Zapp (2017b) 对 1325+ 个国际组织 1970–2017 年科学产出与大学合作关系的分析、Zapp (2020a) 对 1947–2019 年逾 100 份国际组织全球报告的引用分析、Zapp & Lerch (2020) 对全球近 465,000 个学位项目的国际取向分析。此外还使用了 Corporate Register (2019) 的企业社会责任（Corporate Social Responsibility, [[Comprehensive School Reform Program|CSR]]）报告目录和 Global Reporting Initiative (2019) 的可持续发展披露数据库
+> - 数据来源：Zapp 整合了自身此前发表的多项实证研究作为论据——包括 Zapp (2017b) 对 1325+ 个国际组织 1970–2017 年科学产出与大学合作关系的分析、Zapp (2020a) 对 1947–2019 年逾 100 份国际组织全球报告的引用分析、Zapp & Lerch (2020) 对全球近 465,000 个学位项目的国际取向分析。此外还使用了 Corporate Register (2019) 的企业社会责任（Corporate Social Responsibility, [[Comprehensive School Reform Program|CSR]]）报告目录和 Global Reporting Initiative (2019) 的可持续发展披露数据库
 
 ## 论证结构
 

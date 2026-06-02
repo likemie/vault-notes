@@ -25,7 +25,6 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Innovation Ecosystem]]"
   - "[[Entrepreneurial University]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods: []
@@ -148,7 +147,7 @@ updated: 2026-05-26
 | **中观** | [[Entrepreneurial University]]（Etzkowitz et al., 2000） | 大学作为一个组织的战略转向——主动寻求产业合作 | 指出创业型大学的具体组织形态尚缺乏系统研究（p.52） |
 | **微观** | [[University-Industry Collaboration\|产学参与]]的五种组织模式 | 中心办公室的报告链、职责范围、权限等级 | 发现五种模式，且无一完全全面——中心办公室是"导航者"而非"执行者"（pp.60–63） |
 
-这一链条揭示了一个值得注意的理论张力：Triple Helix 预测大学、产业、政府三个领域日益交织和[[Integration in Mixed Methods|整合]]，但在大学内部的组织层面，产学参与实际上高度碎片化——产业关系官员分散在学院、科研办公室和发展部门之间，中心办公室平均仅覆盖 12 个活动领域中的 3.5 个，报告链五花八门（Boccanfuso & Hall, 2025, pp.64–65）。
+这一链条揭示了一个值得注意的理论张力：Triple Helix 预测大学、产业、政府三个领域日益交织和整合，但在大学内部的组织层面，产学参与实际上高度碎片化——产业关系官员分散在学院、科研办公室和发展部门之间，中心办公室平均仅覆盖 12 个活动领域中的 3.5 个，报告链五花八门（Boccanfuso & Hall, 2025, pp.64–65）。
 
 ### 理论意涵
 

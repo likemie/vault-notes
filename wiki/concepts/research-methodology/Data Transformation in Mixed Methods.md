@@ -13,7 +13,6 @@ tags:
   - mixed-methods
   - data-analysis
 related_concepts:
-  - "[[Integration in Mixed Methods]]"
   - "[[Variable]]"
   - "[[Analytic Framework]]"
 related_theories: []
@@ -39,7 +38,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 数据转换（Data Transformation）是[[Mixed Methods Research|混合方法研究]][[Convergent Design|聚敛式设计]]中三种[[Integration in Mixed Methods|整合]]分析方式之一。研究者将[[Coding in Qualitative Research|质性编码]]或主题转化为量化[[Variable|变量]]，然后将转换后的量化数据与原有的量化数据库合并分析——这一程序在混合方法文献中称为数据转换（Creswell & Creswell, 2022, p.238）。
+> 数据转换（Data Transformation）是[[Mixed Methods Research|混合方法研究]][[Convergent Design|聚敛式设计]]中三种整合分析方式之一。研究者将[[Coding in Qualitative Research|质性编码]]或主题转化为量化[[Variable|变量]]，然后将转换后的量化数据与原有的量化数据库合并分析——这一程序在混合方法文献中称为数据转换（Creswell & Creswell, 2022, p.238）。
 
 具体操作是：将质性主题或编码进行计数（并可能分组），形成量化测量指标。这一方法在量化训练背景的研究者中较受欢迎，因为他们可能不太看重独立的质性解释性数据库的价值。Onwuegbuzie & Leech (2006) 提供了一些研究者使用过的有用的转换程序。
 
@@ -48,7 +47,7 @@ updated: 2026-06-02
 ## 在整合分析中的位置
 
 > [!abstract]
-> 数据转换是[[Convergent Design|聚敛式设计]][[Integration in Mixed Methods|整合]]分析的三种方式之一（Creswell & Creswell, 2022, p.238）：
+> 数据转换是[[Convergent Design|聚敛式设计]]整合分析的三种方式之一（Creswell & Creswell, 2022, p.238）：
 >
 > 1. **并排比较（side-by-side comparison）**：在讨论部分先报告量化结果再讨论质性发现（或反之），不做形式化转换。在今日[[Mixed Methods Research|混合方法]]文献中较少见。
 > 2. **数据转换（data transformation）**：将质性主题/[[Coding in Qualitative Research|编码]]转化为量化[[Variable|变量]]，合并分析。受量化训练背景的研究者偏好。

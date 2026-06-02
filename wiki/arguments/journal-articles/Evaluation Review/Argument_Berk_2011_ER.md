@@ -22,7 +22,6 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[External Validity]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Variable]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
@@ -79,7 +78,7 @@ updated: '2026-05-18'
 >
 > ### 3. [[Causal Modeling|因果建模]]（SEM）的过度使用
 >
-> 因果建模承诺[[Integration in Mixed Methods|整合]]理论与统计，但其过度承诺在 1980-1990 年代才逐渐显现。Berk 将问题归因于：模型选择使统计推断无效、缺乏明确的经验边界、点按软件使复杂方法"看似容易"（Berk, 2011, p.197）。引用了 Freedman (2005, p.195) 的修辞性回应清单作为因果建模支持者回避批评的证据。
+> 因果建模承诺整合理论与统计，但其过度承诺在 1980-1990 年代才逐渐显现。Berk 将问题归因于：模型选择使统计推断无效、缺乏明确的经验边界、点按软件使复杂方法"看似容易"（Berk, 2011, p.197）。引用了 Freedman (2005, p.195) 的修辞性回应清单作为因果建模支持者回避批评的证据。
 >
 > ### 4. 匹配作为替代方法
 >
@@ -99,7 +98,7 @@ updated: '2026-05-18'
 > 2. **垃圾科学的两类制造者**：一类不知道自己在做什么但使用表面特征；另一类明知故犯并使用表面特征掩盖（Berk, 2011, p.192）
 > 3. **不存在简单的解码装置**：任何易于实施的规则集都可能扼杀创新（Berk, 2011, pp.192–193）
 > 4. **随机实验的社会保护功能**：[[Randomised Controlled Trials|RCT]] 的最强理由不是方法论的，而是制度性的——它比其它设计更能防止研究者"以各种方式陷入统计列车事故"（Berk, 2011, p.196）
-> 5. **[[Causal Modeling|因果建模]]的韧性**：尽管被反复批评，因果建模之所以存留，部分原因是它承诺[[Integration in Mixed Methods|整合]]理论与统计——且"有时难以准确具体说明风险"（Berk, 2011, p.197）
+> 5. **[[Causal Modeling|因果建模]]的韧性**：尽管被反复批评，因果建模之所以存留，部分原因是它承诺整合理论与统计——且"有时难以准确具体说明风险"（Berk, 2011, p.197）
 > 6. **[[Meta-analysis|元分析]]被严重过度评价**：常规[[Literature Review|文献综述]]"通常做得更好"——至少读者不会被"伪装成统计炫技的统计不当行为"所影响（Berk, 2011, p.199）
 
 ## 关键引用

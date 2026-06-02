@@ -14,7 +14,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Integration in Mixed Methods]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Transfer]]"
   - "[[Geopolitics of Knowledge]]"
@@ -42,7 +41,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 跨国研究合作指来自不同国家的研究者、机构和资助方跨越国界共同开展研究活动的实践。Rizvi (2022) 的分析焦点不在于合作的运作形式，而在于揭示驱动跨国研究合作的**多重理性如何在当代被融合进同一套话语**——个体研究者的学术利益、机构的声誉与基础设施需求、国家的贸易与外交目标被[[Integration in Mixed Methods|整合]]为表面统一的合作议程（Rizvi, 2022, pp.98–99）。
+> 跨国研究合作指来自不同国家的研究者、机构和资助方跨越国界共同开展研究活动的实践。Rizvi (2022) 的分析焦点不在于合作的运作形式，而在于揭示驱动跨国研究合作的**多重理性如何在当代被融合进同一套话语**——个体研究者的学术利益、机构的声誉与基础设施需求、国家的贸易与外交目标被整合为表面统一的合作议程（Rizvi, 2022, pp.98–99）。
 
 ## 概念辨析
 

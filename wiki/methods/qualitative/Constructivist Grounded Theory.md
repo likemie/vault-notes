@@ -14,7 +14,6 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Research Question]]"
 related_theories: []
 related_methods:
@@ -22,7 +21,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
-  - "[[In-depth Interview]]"
+  - "[[Qualitative Interview]]"
 related_persons:
   - "[[Yajun Zheng]]"
 related_arguments:
@@ -58,7 +57,7 @@ updated: '2026-05-18'
 > 1. **反复阅读**访谈文稿 → 理解被访者的处境和观念
 > 2. 在个案经验的基础上寻求**理论性命题或假设** → 以此确立[[Coding in Qualitative Research|编码]]类目
 > 3. 当新现象**推翻**原有猜想 → 放弃原有编码类别，重新建立新猜想和类属
-> 4. **循环迭代**，持续不断地[[Integration in Mixed Methods|整合]]所有发现 → 直到理论命题能够兼容**所有个案**的经验
+> 4. **循环迭代**，持续不断地整合所有发现 → 直到理论命题能够兼容**所有个案**的经验
 > 5. **最终产出**：一个有良好解释力的理论模型（在本研究中即 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 两种"上大学"实践模式的区分）
 >
 > （郑雅君，2023，引 Charmaz, 2006）
@@ -83,7 +82,7 @@ updated: '2026-05-18'
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Zheng_2023_ShanghaiSanlian]] — [[Yajun Zheng|郑雅君]]（2023）以[[Constructivist Paradigm|建构主义]][[Grounded Theory|扎根理论]]为资料分析方法，从 62 名中国两所精英大学毕业生跟踪[[In-depth Interview|深度访谈]]中，反复迭代后产出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的核心类型化发现
+> - [[Argument_Zheng_2023_ShanghaiSanlian]] — [[Yajun Zheng|郑雅君]]（2023）以[[Constructivist Paradigm|建构主义]][[Grounded Theory|扎根理论]]为资料分析方法，从 62 名中国两所精英大学毕业生跟踪[[Qualitative Interview|深度访谈]]中，反复迭代后产出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的核心类型化发现
 >
 
 ## 来源

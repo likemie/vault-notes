@@ -22,7 +22,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Champ]]"
   - "[[Atomisation of Knowledge and Skills]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Radical Constructivism]]"
@@ -90,7 +89,7 @@ updated: '2026-05-18'
 > - **国际误读**：社交媒体和博客常声称芬兰已用跨学科教学取代学科教学。这不符合课程事实：芬兰课程仍以传统学科组织（Schaffar & Wolff, 2024, p.2）。
 > - **政策悖论**：芬兰课程改革一方面强调整体学习、横向能力和复杂问题，另一方面又受全球测量、问责和经济竞争话语影响，可能推动 [[Atomisation of Knowledge and Skills]]（Schaffar & Wolff, 2024, pp.9-10）。
 > - **概念模糊**：[[Phenomenon-Based Learning|PhBL]] 在课程文本中的术语位置并不稳定；芬兰语原文没有直接使用"phenomenon-based learning"，译本中也只少量出现该词，但"phenomenon/ilmiö"及其组合词大量出现。这种写法给学校留下空间，也增加了实施解释差异（Schaffar & Wolff, 2024, p.2）。
-> - **学科深度风险**：PhBL 的目标不是模糊学科边界，而是在复杂现象中同时保存学科内部逻辑和跨学科问题意识。若实施时只追求主题[[Integration in Mixed Methods|整合]]而忽略学科结构，可能把知识拆成表层活动或技能碎片（Schaffar & Wolff, 2024, pp.4-5, 10）。
+> - **学科深度风险**：PhBL 的目标不是模糊学科边界，而是在复杂现象中同时保存学科内部逻辑和跨学科问题意识。若实施时只追求主题整合而忽略学科结构，可能把知识拆成表层活动或技能碎片（Schaffar & Wolff, 2024, pp.4-5, 10）。
 
 ## 相关概念／理论
 

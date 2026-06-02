@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Innovation Hub]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Technology Transfer]]"
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
@@ -49,7 +48,7 @@ updated: 2026-05-27
 > [!abstract]
 > - **孵化器（Incubator）**：为早期初创企业提供低成本的办公和实验空间、商业指导、融资对接等服务。Ch3 调查显示 89% 的大学提供非生命科学类孵化器，81% 提供生命科学类孵化器（Boccanfuso & Hall, 2025, p.64）
 > - **企业入驻空间**：为成熟企业在大学园区内提供办公或研发设施。84% 的大学为企业提供校内建筑空间（Boccanfuso & Hall, 2025, p.64）
-> - **研究/创新园区**：更大规模的多功能园区，[[Integration in Mixed Methods|整合]]孵化器、企业研发中心、大学实验室和公共设施。68% 的大学拥有或运营此类园区（Boccanfuso & Hall, 2025, p.64）
+> - **研究/创新园区**：更大规模的多功能园区，整合孵化器、企业研发中心、大学实验室和公共设施。68% 的大学拥有或运营此类园区（Boccanfuso & Hall, 2025, p.64）
 
 ## 概念辨析
 

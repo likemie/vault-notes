@@ -20,7 +20,6 @@ related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[Probes]]"
   - "[[Analytic Framework]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Social Charter]]"
   - "[[Champ]]"
   - "[[Corporate University]]"
@@ -57,7 +56,7 @@ updated: 2026-05-18
 ## 理论框架
 
 > [!abstract]
-> [[Analytic Framework|分析框架]][[Integration in Mixed Methods|整合]]了三个理论资源（Boyadjieva, 2022, pp.126–130, 137）：
+> [[Analytic Framework|分析框架]]整合了三个理论资源（Boyadjieva, 2022, pp.126–130, 137）：
 >
 > - **制度理论（Scott & Davis, 2016）**：它提醒我们，大学不只是"组织"（像一家生产毕业生的工厂），更是"制度"——它有一套不成文的规范、文化和认知框架，深刻地塑造着人们对"什么是知识""谁算成功者"的理解。一个关键概念是 Meyer（1970）提出的 **[[Social Charter|社会宪章]]（social charter）**：每所大学向社会"承诺"它的毕业生能获得什么社会地位。比如，哈佛的"宪章"是通往精英阶层，而一所地方公立大学的"宪章"可能是服务本地社区。
 > - **[[Capability Approach|可行能力路径]]（Drèze & Sen, 2002）**：这个框架[[Probes|追问]]的不是"教育产生了多少经济回报"，而是"教育以哪些不同的方式扩展了人的自由"。它将教育的价值拆成五种类型（内在重要性、工具性个人角色、工具性社会角色、工具性过程角色、赋权与分配角色），为后文构建多维使命模型提供了概念"零件"。

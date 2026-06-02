@@ -17,7 +17,6 @@ related_concepts:
   - "[[Corporate University]]"
   - "[[Varieties of Capitalism]]"
   - "[[Analytic Framework]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Institutional Isomorphism]]"
@@ -92,7 +91,7 @@ updated: 2026-05-18
 > [!success]
 > - 所有受访的德国 MNCs 都尝试在海外分支建立学徒制（双元制），但均遇到重大困难，表明 IVET 高度依赖国家层面的复杂非市场制度安排（Hartmann, 2022, p.185）
 > - 超过 50% 的 MNCs 提供全球高潜力人才培训项目，管理培训的国际化程度最高（Hartmann, 2022, p.185）
-> - 国际型 MNCs（高[[Integration in Mixed Methods|整合]]、低本地响应）倾向于提供高度标准化的学校型企业教育，以在整个公司内确保合规；这类公司总部多位于美国或其他自由市场经济体（LMEs）（Hartmann, 2022, pp.187–188）
+> - 国际型 MNCs（高整合、低本地响应）倾向于提供高度标准化的学校型企业教育，以在整个公司内确保合规；这类公司总部多位于美国或其他自由市场经济体（LMEs）（Hartmann, 2022, pp.187–188）
 > - 跨国型 MNCs（高整合、高本地响应）建立全球矩阵，将总部开发的管理能力框架交由各地分支根据本地情况修改——这种模式创造了一个既统一又兼顾差异的跨国教育空间（Hartmann, 2022, p.188）
 
 > [!info]- 核心数据

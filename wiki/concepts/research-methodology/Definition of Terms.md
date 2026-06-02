@@ -7,7 +7,6 @@ tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Multiplicity]]"
   - "[[Literature Review]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Metainferences]]"
 related_theories: []
 related_methods:
@@ -80,7 +79,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ### 混合方法研究
 
-[[Mixed Methods Research|混合方法研究]]的术语策略视起始阶段而定：如果研究以量化阶段开始，可包含独立的定义章节；如果以质性阶段开始，术语可在研究过程中涌现。但混合方法特有的术语（如"[[Convergent Design|聚敛式设计]]""[[Integration in Mixed Methods|整合]]""[[Metainferences|元推论]]"）应在程序讨论中加以说明。
+[[Mixed Methods Research|混合方法研究]]的术语策略视起始阶段而定：如果研究以量化阶段开始，可包含独立的定义章节；如果以质性阶段开始，术语可在研究过程中涌现。但混合方法特有的术语（如"[[Convergent Design|聚敛式设计]]""整合""[[Metainferences|元推论]]"）应在程序讨论中加以说明。
 
 ---
 

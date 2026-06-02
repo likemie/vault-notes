@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Observation]]"
@@ -69,7 +68,7 @@ updated: 2026-06-02
 > - **封闭式数据**：适合检验[[Variable|变量]]关系、测量群体差异、从样本推断总体。
 > - **开放式数据**：适合理解参与者的意义建构、探索现象的过程和情境。
 >
-> 如果研究中同时收集了量化和质性两类数据，就打开了使用混合方法研究的可能性。在此基础上，[[Integration in Mixed Methods|整合]]这两类数据才能进一步"挖掘"出超越单一数据类型的洞察。
+> 如果研究中同时收集了量化和质性两类数据，就打开了使用混合方法研究的可能性。在此基础上，整合这两类数据才能进一步"挖掘"出超越单一数据类型的洞察。
 
 ---
 

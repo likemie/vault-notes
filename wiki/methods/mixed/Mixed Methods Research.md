@@ -39,7 +39,7 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Website Content Analysis]]"
-  - "[[In-depth Interview]]"
+  - "[[Qualitative Interview]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
@@ -185,7 +185,7 @@ Creswell & Creswell (2022, p.232) 明确区分了混合方法研究和[[Multimet
 > [!example] 使用此方法的研究
 > - [[Argument_Brady_2023_EPR]] — 新增混合方法/多方法[[Coding in Qualitative Research|编码]]类别，发现 2020 年五刊中该类研究占 6%，其中 60% 包含[[Recommendations for Practice|实践建议]]（Brady et al., 2023, p.6）。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy]] — 通过框架建构（基于作者经验和专家咨询）、[[Website Content Analysis|网站内容分析]]（65 所大学）和问卷调查（大学和企业双方）三步设计，研究大学[[University-Industry Collaboration|产学参与]]的组织模式与策略（Boccanfuso & Hall, 2025, pp.55–57）。
-> - [[Argument_Teng_2025_CE]] — 以问卷（n=814）和[[In-depth Interview|深度访谈]]（n=128）相结合，先通过统计检验与 Logistic 回归识别[[Peidu|陪读]]的社会分层梯度，再通过访谈资料解释分层的社会机制（Teng & Wang, 2025, pp.305–310）。
+> - [[Argument_Teng_2025_CE]] — 以问卷（n=814）和[[Qualitative Interview|深度访谈]]（n=128）相结合，先通过统计检验与 Logistic 回归识别[[Peidu|陪读]]的社会分层梯度，再通过访谈资料解释分层的社会机制（Teng & Wang, 2025, pp.305–310）。
 
 ## 来源
 

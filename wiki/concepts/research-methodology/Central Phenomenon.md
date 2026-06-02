@@ -18,7 +18,6 @@ related_concepts:
   - "[[Nondirectional Language]]"
   - "[[Central Question]]"
   - "[[Research Question]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -99,7 +98,7 @@ updated: 2026-05-31
 > - 母亲失去晚期妊娠婴儿后的生活经验和记忆（Lauterbach, 1993; Creswell & Creswell, 2022, pp.126–127）
 > - 关系性和专业性实践——帮助有学校失败史的学生的教师实践（Frelin, 2015; Creswell & Creswell, 2022, p.127）
 > - 族裔认同——一位中国移民学生在加拿大中学课程中家庭与学校叙事的交织（Chan, 2010; Creswell & Creswell, 2022, p.128）
-> - 身体活动与生活方式的[[Integration in Mixed Methods|整合]]——活跃的非洲裔美国女性的行为过程（Harley et al., 2007; Creswell & Creswell, 2022, pp.129–130）
+> - 身体活动与生活方式的整合——活跃的非洲裔美国女性的行为过程（Harley et al., 2007; Creswell & Creswell, 2022, pp.129–130）
 
 ## 来源
 

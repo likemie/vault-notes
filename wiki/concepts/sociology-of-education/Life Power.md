@@ -12,7 +12,6 @@ related_concepts:
   - "[[Ganz-Methode]]"
   - "[[Ecomuseology]]"
   - "[[Whole Sustainability]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
 related_methods: []
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 > - **整体性**：生命力量涵盖局部社区的一切存在意义要素——记忆、口述传统、艺术、精神性、人际关系、日常生活方式——以及其面临的内外部威胁（Delambre, 2022, p.109 脚注, 113–116）
 > - **与"死亡价值"的对照**：生命力量的对立面是"死亡价值"（values for death）——即通过权力支配他者和自然本身来象征性地和真实地消灭他者。[[Ganz-Methode]] 的任务之一是暴露这些死亡价值，从而做出选择生命力量的决策（Delambre, 2022, p.117–118）
 > - **与"[[Whole Sustainability|整体可持续性]]"的关联**：生命力量是"整体可持续性"（Whole Sustainability）概念的核心——整体可持续性需要纳入局部社区代表生命力量的一切以及其面临的内外部威胁。生命力量被定义为"局部社区所拥有并被其解释为存在意义和过去-现在-未来连续性的一切"（Delambre, 2022, p.109 脚注）
-> - **与"智慧经济"的关联**：在 WTS Coaching 框架中，生命力量被[[Integration in Mixed Methods|整合]]进"智慧经济"（wisdom economy）概念——个体和组织利用局部知识和智慧开发创造性解决方案来满足个体和集体需求，同时为快乐、健康和幸福创造条件。个体的生命力量由此成为经济活动的最终参照（Delambre, 2022, p.119–120）
+> - **与"智慧经济"的关联**：在 WTS Coaching 框架中，生命力量被整合进"智慧经济"（wisdom economy）概念——个体和组织利用局部知识和智慧开发创造性解决方案来满足个体和集体需求，同时为快乐、健康和幸福创造条件。个体的生命力量由此成为经济活动的最终参照（Delambre, 2022, p.119–120）
 > - **与"整体健康"的关联**：[[Ganz-Methode]] 通过保护生命力量来构建"整体健康"（whole health）——即在局部社区中保护生命和促进整体健康的准则、规范、调解和行动（Delambre, 2022, p.115–116）
 
 ## 理论基础

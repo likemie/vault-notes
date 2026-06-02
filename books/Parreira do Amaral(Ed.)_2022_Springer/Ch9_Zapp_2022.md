@@ -1,15 +1,15 @@
 ---
 citation: "Zapp, M. (2022). Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 143–161). Springer."
 extracted_to:
+  - "[[Argument_Zapp_2022_Springer]]"
   - "[[Epistemic Drift]]"
   - "[[Epistemic Governance]]"
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
+  - "[[Organizational Actorhood]]"
   - "[[Otherhood]]"
   - "[[THE Impact Ranking]]"
   - "[[UN Sustainable Development Goals]]"
-  - "[[Argument_Zapp_2022_Springer]]"
-  - "[[Organizational Actorhood]]"
   - "[[Jane Knight]]"
   - "[[John W. Meyer]]"
   - "[[World Society Theory]]"

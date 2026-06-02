@@ -124,7 +124,7 @@ Creswell & Creswell (2022, Ch7)：
 
 > The mixed methods question in the study purpose or intent will be to ____ (compare, explain, build, augment) the ____ (quantitative data or qualitative data or process/framework) with ____ (quantitative data or qualitative data) by using a ____ (design: convergent design, explanatory sequential design, exploratory sequential design, embedded design) with the procedure of ____ (merging, connecting, or embedding).
 
-该脚本包含两个核心组件：[[Integration in Mixed Methods|整合]]的意图（intent of integration）和整合的程序（procedures of integration）。
+该脚本包含两个核心组件：整合的意图（intent of [[Integration in Mixed Methods|integration]]）和整合的程序（procedures of integration）。
 
 ## 理论基础
 

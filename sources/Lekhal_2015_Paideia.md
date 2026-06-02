@@ -3,15 +3,15 @@ citation: "Lekhal, R., Nordahl, T., Aasen, A. M., & Drugli, M. B. (2015). Kjønn
 extracted_to:
   - "[[Argument_Lekhal_2015_Paideia]]"
   - "[[Classroom Learning Culture]]"
+  - "[[Feedback]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Academic Well-being and Interest in Learning]]"
   - "[[Assertiveness]]"
   - "[[Learning-Impeding Behavior]]"
   - "[[Motivation and Work Effort]]"
   - "[[School Norm Adaptation]]"
-  - "[[Gender Differences in Academic Achievement]]"
-  - "[[Feedback]]"
   - "[[Self-control]]"
+  - "[[Gender Differences in Academic Achievement]]"
   - "[[Observational and Correlational Research]]"
 processed_date: 2026-05-06
 ---

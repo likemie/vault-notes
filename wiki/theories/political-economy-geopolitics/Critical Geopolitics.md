@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[Hub and Flow Imaginaries]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Spatial Sortings]]"
   - "[[Knowledge-Based Economy]]"
@@ -99,7 +98,7 @@ Dodds (2019, p.36) 强调要关注"人们的日常经验以及他们为应对地
 
 ## 在教育研究中的应用
 
-批判地缘政治学为分析当代高等教育转型提供了独特的分析工具。Moisio（2022）将其[[Integration in Mixed Methods|整合]]进对[[Knowledge-Based Economization|知识经济化]]的分析，揭示了高等教育中的多重地缘政治动态：
+批判地缘政治学为分析当代高等教育转型提供了独特的分析工具。Moisio（2022）将其整合进对[[Knowledge-Based Economization|知识经济化]]的分析，揭示了高等教育中的多重地缘政治动态：
 
 - **[[Fixity-Motion Tension|固着-流动张力]]**：Harvey 揭示的核心地缘政治悖论——资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置
 - **[[Spatial Sortings|空间分选]]**：[[Knowledge-Based Economy|知识经济]]化将某些地点和人群置于发展中心，同时边缘化其他地点和人群，国家通过空间选择性政策中介这一过程（Moisio, 2022, pp.28–31）
@@ -122,7 +121,7 @@ Hartmann (2022) 将批判地缘政治学延伸至[[Further Education|继续教�
 
 ## 理论资源
 
-批判地缘政治学在高等教育领域的应用[[Integration in Mixed Methods|整合]]了以下多[[Discipline-Based Theory|学科理论]]资源（详见 Moisio 章节论证）：
+批判地缘政治学在高等教育领域的应用整合了以下多[[Discipline-Based Theory|学科理论]]资源（详见 Moisio 章节论证）：
 
 - David Harvey（1985/2001）— [[Fixity-Motion Tension|固着-流动张力]]
 - Ҫalişkan & Callon（2009）— economization 概念

@@ -14,7 +14,6 @@ tags:
   - data-integration
 related_concepts:
   - "[[Variable]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Construct Validity in Quantitative Measurement]]"
 related_theories: []
 related_methods:
@@ -68,7 +67,7 @@ updated: 2026-06-02
 > 2. 研究者沿行检视（如"高分组在中分组和低分组之间在某主题上有什么不同？"）。
 > 3. 研究者沿列检视（如"高分组在四个主题之间有什么差异？"）。
 > 4. 将跨数据库检视得出的洞察记录在元推论单元格中。
-> 5. 这些洞察构成了[[Mixed Methods Research|混合方法]]的[[Integration in Mixed Methods|整合]]分析结果，可放入研究报告的结果部分或讨论部分。
+> 5. 这些洞察构成了[[Mixed Methods Research|混合方法]]的整合分析结果，可放入研究报告的结果部分或讨论部分。
 >
 > 当出现分歧（divergence）时，研究者需要进一步跟进：可以返回分析深入探索数据库、收集额外信息来解决差异，或讨论某一数据库的局限（如量化[[Construct Validity in Quantitative Measurement|构念效度]]不足、或开放式问题与质性主题之间的匹配不佳）。
 

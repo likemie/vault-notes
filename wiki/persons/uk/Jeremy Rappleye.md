@@ -16,7 +16,6 @@ related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[International Education]]"
   - "[[Externalization]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Policy Borrowing]]"
   - "[[Pre-Transfer Agency]]"
 related_theories: []
@@ -84,7 +83,7 @@ Rappleye 将 Holmes (1981) 的"抵制的力量"（forces of reaction）重新框
 
 ### 四种吸引力火花
 
-Rappleye [[Integration in Mixed Methods|整合]] Ochs (2005) 的分类，将使用外国范例的动机分为四种"火花"（sparks），按修辞力度和改革/抵制取向排列（p. 233）：
+Rappleye 整合 Ochs (2005) 的分类，将使用外国范例的动机分为四种"火花"（sparks），按修辞力度和改革/抵制取向排列（p. 233）：
 
 - **危机化**（Scandalize）——借外国案例凸显本国问题，修辞最激烈，服务于改革
 - **合法化**（Legitimate）——借外国经验赋予改革正当性，修辞较克制，服务于改革

@@ -21,7 +21,6 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[Learning Analytics]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Effect Size]]"
   - "[[External Validity]]"
 related_theories: []
@@ -93,7 +92,7 @@ updated: '2026-05-18'
 >
 > ### 3. RTPI 方案
 >
-> 以已验证项目填充 RTI 三层的系统性方案。Slavin 论证这是 EBR 目前最有证据支撑的应用领域——阅读和数学的个别辅导已积累大量强证据，系统[[Integration in Mixed Methods|整合]]后可以几乎确保高危学生成功。
+> 以已验证项目填充 RTI 三层的系统性方案。Slavin 论证这是 EBR 目前最有证据支撑的应用领域——阅读和数学的个别辅导已积累大量强证据，系统整合后可以几乎确保高危学生成功。
 >
 > 关键数据：[[Top Institute for Evidence-Based Education Research|TIER]] 2 辅导[[Effect Size|效应量]]普遍 +0.20 ~ +0.34；Tier 3 一对一辅导效应量可达 +0.30 ~ +0.86。
 >

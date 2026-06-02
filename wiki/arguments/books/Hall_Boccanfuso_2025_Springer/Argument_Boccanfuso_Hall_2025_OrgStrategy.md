@@ -20,7 +20,6 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Technology Transfer]]"
   - "[[Research Question]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Academic Freedom]]"
   - "[[Professors of Practice]]"
   - "[[Executive Education]]"
@@ -119,7 +118,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 - **战略（Strategy）**：大学是否将产学合作纳入战略规划？校长和教务长是否公开表态支持？
 - **价值观（Values）**：大学如何看待与产业合作——是学术独立的威胁，还是学术使命的自然延伸？
-- **组织（Organization）**：大学如何[[Integration in Mixed Methods|整合]]不同单位和应用来服务产业伙伴？
+- **组织（Organization）**：大学如何整合不同单位和应用来服务产业伙伴？
 - **产业集中（Concentrations）**：大学是否在特定产业领域（如生物医药、人工智能、清洁能源）建立重点方向？
 - **重大挑战（Grand Challenges）**：大学是否围绕气候变化、健康寿命等社会性宏大议题组织产学合作？
 

@@ -17,7 +17,6 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Variable]]"
   - "[[External Validity]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Postpositivism]]"
   - "[[Multimethod Research]]"
@@ -120,7 +119,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> 该框架的演进可追溯至 Campbell 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook 和 Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）[[Integration in Mixed Methods|整合]]为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、[[Internal Validity|内部效度]]、[[Construct Validity in Quantitative Measurement|构念效度]]、[[External Validity|外部效度]]）。
+> 该框架的演进可追溯至 Campbell 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook 和 Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、[[Internal Validity|内部效度]]、[[Construct Validity in Quantitative Measurement|构念效度]]、[[External Validity|外部效度]]）。
 >
 > Hitchcock et al. (2015) 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心理学循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的实践，作者确认"Campbellian 效度框架适用于能够产生因果证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[21st Century Skills and Competencies Discourse|SCD]] 量规在内部效度判断上产生了合理一致的结果。
 

@@ -11,6 +11,7 @@ related_concepts:
   - "[[Narrative Hook]]"
   - "[[Literature Review]]"
   - "[[Variable]]"
+  - "[[Research Problem]]"
 related_theories: []
 related_methods:
   - "[[Literature Map]]"

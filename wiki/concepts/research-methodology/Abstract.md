@@ -13,7 +13,6 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
   - "[[Self-Efficacy]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -106,7 +105,7 @@ updated: 2026-05-31
 
 ## 与文献综述的关系
 
-文献摘要是[[Literature Review|文献综述]]流程中的关键中间步骤。Creswell & Creswell (2022) 的七步检索流程中，撰写摘要排在第六步——在检索和筛选文献之后、[[Literature Map|文献地图]]绘制和组织最终综述之前。摘要是从"读文献"到"写综述"之间的桥梁：它将每篇文献的核心信息压缩成标准化的记录单元，使研究者能够在大量文献之间进行比较、归类和[[Integration in Mixed Methods|整合]]。
+文献摘要是[[Literature Review|文献综述]]流程中的关键中间步骤。Creswell & Creswell (2022) 的七步检索流程中，撰写摘要排在第六步——在检索和筛选文献之后、[[Literature Map|文献地图]]绘制和组织最终综述之前。摘要是从"读文献"到"写综述"之间的桥梁：它将每篇文献的核心信息压缩成标准化的记录单元，使研究者能够在大量文献之间进行比较、归类和整合。
 
 ---
 

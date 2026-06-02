@@ -18,7 +18,7 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[In-depth Interview]]"
+  - "[[Qualitative Interview]]"
   - "[[Case Study]]"
 related_persons: []
 related_facts: []
@@ -42,7 +42,7 @@ updated: 2026-05-30
 
 > [!example]
 > - 选择一个或多个个体作为研究对象。
-> - 通过[[In-depth Interview|深度访谈]]收集参与者的生活故事。
+> - 通过[[Qualitative Interview|深度访谈]]收集参与者的生活故事。
 > - 将收集到的故事按时间顺序重构成连贯的叙事编年史（restorying）。
 > - 识别叙事中的关键主题、转折点或意义节点。
 > - 在分析中结合参与者的视角和研究者的解释，形成合作性叙事。

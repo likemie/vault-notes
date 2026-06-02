@@ -4,13 +4,13 @@ extracted_to:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Evidence-Based Education]]"
   - "[[Recommendations for Practice]]"
+  - "[[Mixed Methods Research]]"
   - "[[Qualitative Research]]"
   - "[[Causal Modeling]]"
   - "[[Intervention Research]]"
   - "[[Non-intervention Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Mixed Methods Research]]"
 processed_date: 2026-05-05
 ---
 

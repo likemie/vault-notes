@@ -7,7 +7,6 @@ tags: ["theme/university-industry-collaboration", "theme/metrics-and-incentives"
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Partnership Continuum]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -59,7 +58,7 @@ updated: 2026-05-28
 > 六 R 框架由 [[Jim Spohrer]] 在 2010 年提出（Spohrer, 2010），最初用于帮助 IBM GUP 遍布 45 个国家、百余名专职人员的团队与大学合作伙伴（从教师到院长到校长）进行有效沟通。
 
 该框架的提出背景是 IBM 在不同年代的两次战略转型（pp.88–89）：
-- 2000 年代 — 业务重点是全球[[Integration in Mixed Methods|整合]]企业（globally integrated enterprise）和服务业务增长，[[University-Industry Collaboration|产学合作]]重点在服务科学和业务流程方面的人才与研究。
+- 2000 年代 — 业务重点是全球整合企业（globally integrated enterprise）和服务业务增长，[[University-Industry Collaboration|产学合作]]重点在服务科学和业务流程方面的人才与研究。
 - 2010 年代 — 战略转向认知计算和混合云，产学合作优先事项转向 AI 和云计算能力。
 
 每一次战略转型都要求重新校准六 R 投资组合的权重。GUP 团队通过一个中央数据库追踪全球约 2000 所高校的投资历史和成果，每位 PEP（Partnership Executive Program）主管在访问大学前可以获取该大学的关系全景报告，包括资助研究教师、校友雇员数量与学科分布、现任高管中的校友等，为建立信任关系提供数据基础（p.89）。

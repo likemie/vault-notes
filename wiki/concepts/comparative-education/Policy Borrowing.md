@@ -16,7 +16,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Cross-National Attraction]]"
   - "[[Externalization]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[International Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Knowledge-Based Economy]]"
@@ -82,7 +81,7 @@ updated: '2026-05-18'
 > - **Cowen (2009)** — 提出"改革在转移中形态变异"（reforms morph as they move）
 > - **Steiner-Khamsi (2012)** — 主编 *World Yearbook of Education 2012*，系统化政策借用与借出分析框架；区分"借用"（政治驱动、选择性、仪式性）与"学习"（开放、实质性交流）
 > - **Forestier & Crossley (2015)** — 将框架应用于香港与英格兰之间的"双向借用"
-> - **Forestier, Adamson, Han & Morris (2016)** — 系统比较香港 [[Liberal Studies|LS]] 与 IBDP 课程设计，揭示选择性借用的具体机制：参照 IBDP 的跨学科[[Integration in Mixed Methods|整合]]和独立探究元素，但排除其国际化知识观和批判性哲学内核
+> - **Forestier, Adamson, Han & Morris (2016)** — 系统比较香港 [[Liberal Studies|LS]] 与 IBDP 课程设计，揭示选择性借用的具体机制：参照 IBDP 的跨学科整合和独立探究元素，但排除其国际化知识观和批判性哲学内核
 > - **Golovchin (2019)** — 以 VL 在俄罗斯的翻译出版引入、学界争论到被建议拒绝为案例，展示政策借用的完整分析逻辑：全球论述引入 → 本地支持者以"科学合法性"论证 → 本地批评者基于方法论、文化和制度匹配度建议拒绝
 > - **Yan & Morris (2025)** — 以香港 LS 创立（2009）与废除（2021）为案例，展示政策借用框架对创立阶段的解释力，同时揭示其在高压政治语境下的失效边界
 
@@ -115,7 +114,7 @@ updated: '2026-05-18'
 
 ### 借用行为的特征
 
-7. **选择性借用**：不照搬整个体系，而是选取适合国内议程的特定元素。正如 Forestier et al. (2016) 对 [[Liberal Studies|LS]] 与 IBDP 的比较所揭示的——LS 参照了 IBDP 的"跨学科[[Integration in Mixed Methods|整合]]"和"独立探究"（IES 对应 Extended Essay），但选择性地排除了 IBDP 的国际化知识观、全球多元文化开放态度和批判性哲学内核。LS 中的"跨学科"被改造为服务于香港本地政策议程（培养"通才"以适应与内地经济整合），而非 IBDP 原意中的[[Global Citizenship|全球公民]]培养。（Yan & Morris, 2025, p. 487）
+7. **选择性借用**：不照搬整个体系，而是选取适合国内议程的特定元素。正如 Forestier et al. (2016) 对 [[Liberal Studies|LS]] 与 IBDP 的比较所揭示的——LS 参照了 IBDP 的"跨学科整合"和"独立探究"（IES 对应 Extended Essay），但选择性地排除了 IBDP 的国际化知识观、全球多元文化开放态度和批判性哲学内核。LS 中的"跨学科"被改造为服务于香港本地政策议程（培养"通才"以适应与内地经济整合），而非 IBDP 原意中的[[Global Citizenship|全球公民]]培养。（Yan & Morris, 2025, p. 487）
 
 8. **翻译与变异**：Cowen (2009) 论证"改革在转移中变形"（reforms morph as they move）——借用的政策元素在进入本地语境时发生实质性形态转化。前述 LS 对 IBDP"跨学科"的改造即为典型案例：同一标签下承载了完全不同的教育目的和政治意图。
 

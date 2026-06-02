@@ -13,7 +13,6 @@ related_concepts:
   - "[[Organizational Actorhood]]"
   - "[[Otherhood]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemic Governance]]"
   - "[[Geopolitics of Knowledge]]"
@@ -101,7 +100,7 @@ updated: '2026-05-19'
 > Meyer 的核心思想可归纳为三个相互关联的理论主张（综合自 Zapp, 2022, pp.145, 148–149）：
 > - **世界社会作为文化建构**：世界层面存在一个由共享[[Cultural Models|文化模型]]、规范和认知框架构成的"世界社会"，它不依赖中央权威，而是通过文化模型的扩散与模仿来运作
 > - **[[Organizational Actorhood|组织能动者身份]]**：在全球文化模型压力下，各类组织日益获得标准化但同时又寻求独特性的能动者身份——自主性、目标导向、问责性和社会嵌入性构成现代"完全组织"的四个核心维度
-> - **[[Otherhood]] 作为社会运作的核心机制**：组织——尤其是大学和国际组织——的能动性在很大程度上指向"他者"（其他行动者、非行动者实体和现代性原则），otherhood 是现代社会运作和[[Integration in Mixed Methods|整合]]的基本方式
+> - **[[Otherhood]] 作为社会运作的核心机制**：组织——尤其是大学和国际组织——的能动性在很大程度上指向"他者"（其他行动者、非行动者实体和现代性原则），otherhood 是现代社会运作和整合的基本方式
 
 > [!quote]
 > "Lacking traditional mechanisms of control and authority, world society is essentially constructed through such 'otherhood', that is, through the diffusion and mimesis of cultural models, usually revolving around broad goals of progress and justice often provided in a rationalized form by (social) scientists."（Meyer et al., 1997，引自 Zapp, 2022, p.149）

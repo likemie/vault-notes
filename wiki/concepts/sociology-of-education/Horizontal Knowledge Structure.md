@@ -12,7 +12,6 @@ tags:
   - theme/knowledge-structure
   - theory/bernstein
 related_concepts:
-  - "[[Integration in Mixed Methods]]"
   - "[[New Sociology of Education]]"
   - "[[Political Arithmetic]]"
 related_theories: []
@@ -34,12 +33,12 @@ updated: 2026-05-23
 ## 定义
 
 > [!info] 定义
-> Horizontal Knowledge Structure（横向知识结构）是 [[Basil Bernstein]] 用来分析社会科学知识形态的概念。它指一种由多个专门语言组成、缺乏[[Integration in Mixed Methods|整合]]原则的知识结构；每种语言都有自己的提问方式、文本建构标准和说话者群体，彼此之间难以完全翻译（Ball, 2008, p.651）。
+> Horizontal Knowledge Structure（横向知识结构）是 [[Basil Bernstein]] 用来分析社会科学知识形态的概念。它指一种由多个专门语言组成、缺乏整合原则的知识结构；每种语言都有自己的提问方式、文本建构标准和说话者群体，彼此之间难以完全翻译（Ball, 2008, p.651）。
 
 ## 核心问题
 
 > [!abstract] 问题意识
-> 横向知识结构解释了为什么社会学和教育社会学容易出现范式争论、理论片段化和“新语言”的竞争。知识发展不一定表现为更高层次的[[Integration in Mixed Methods|整合]]，而常常表现为新的理论语言、新的问题、新的连接方式和新的说话者出现（Ball, 2008, p.651）。
+> 横向知识结构解释了为什么社会学和教育社会学容易出现范式争论、理论片段化和“新语言”的竞争。知识发展不一定表现为更高层次的整合，而常常表现为新的理论语言、新的问题、新的连接方式和新的说话者出现（Ball, 2008, p.651）。
 
 ## 核心要素
 

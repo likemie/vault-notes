@@ -15,7 +15,6 @@ related_concepts:
   - "[[Neocorporatism]]"
   - "[[Theories of Policy Change]]"
   - "[[Selectivity]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Venture Philanthropy]]"
 related_theories: []
 related_methods: []
@@ -119,7 +118,7 @@ O'Neill et al.（2016, pp.8–12）列出近十余年新西兰同时体现私营
 ### 公私民合作与就业管道
 
 - **芬兰**：以"公共—私营—民众合作"（Public-Private-People-Partnerships）模式将网络治理扩展至公民个人层面。终身学习政策被理解为面向所有人、服务于多元生命情境的人类发展服务，而非仅针对失业青年的就业工具（Rambla, 2022, p.173）
-- **苏格兰**：采用"就业管道"（Employment Pipeline）模式，将就业服务、教育培训和非营利支持[[Integration in Mixed Methods|整合]]为一条龙网络（Rambla, 2022, p.173）
+- **苏格兰**：采用"就业管道"（Employment Pipeline）模式，将就业服务、教育培训和非营利支持整合为一条龙网络（Rambla, 2022, p.173）
 
 ### 弱网络环境中的初步协作（南欧和东欧）
 

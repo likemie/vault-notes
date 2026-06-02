@@ -33,7 +33,6 @@ related_concepts:
   - "[[Industry Affiliate Program]]"
   - "[[Master Agreement]]"
   - "[[Proof of Concept Programs]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Concierge Service]]"
   - "[[Multi-University]]"
   - "[[Innovation Park]]"
@@ -229,7 +228,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 2. **经济发展/政府关系模式（Economic Development/Government Relations）**：面向催化经济活动的政府关系，多见于公立大学，聚焦[[Innovation Hub|创新中心]]、商业园区、小企业支持和地方/州政府伙伴关系（约 3%）
 3. **企业/基金会关系模式（Corporate/Foundation Relations）**：设在大学发展/筹资部门，帮助营利和非营利组织在科研、赞助、[[Executive Education|高管教育]]、志愿服务和技术创新等方面导航（约 17%）
 4. **伙伴关系模式（Partnerships, Corporate + Non-Corporate）**：管理与外部实体的战略伙伴关系，广泛导航但通常聚焦经济发展、商业化和创新（约 26%）
-5. **全面模式（Comprehensive, Spanning Missions）**：设立集中的企业关系办公室，以礼宾角色引导企业在多个领域与大学互动，[[Integration in Mixed Methods|整合]]捐赠、合同、教育、研究和经济发展（约 26%）
+5. **全面模式（Comprehensive, Spanning Missions）**：设立集中的企业关系办公室，以礼宾角色引导企业在多个领域与大学互动，整合捐赠、合同、教育、研究和经济发展（约 26%）
 
 另有少数大学完全去中心化，没有集中办公室。
 

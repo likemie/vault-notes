@@ -16,7 +16,6 @@ tags:
 - accountability
 related_concepts:
   - "[[School Choice]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[School Autonomy]]"
   - "[[New Public Management]]"
   - "[[Performativity of Measurement]]"
@@ -57,7 +56,7 @@ updated: '2026-05-18'
 ## 实施情况
 
 > [!example] 实施情况
-> 网站[[Integration in Mixed Methods|整合]]了全澳大利亚学校的以下信息：
+> 网站整合了全澳大利亚学校的以下信息：
 > - 人口统计数据（学生构成、社会经济背景）
 > - NAPLAN 标准化测试成绩，允许学校间直接比较
 >

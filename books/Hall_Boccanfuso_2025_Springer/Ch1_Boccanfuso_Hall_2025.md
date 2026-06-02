@@ -1,8 +1,12 @@
 ---
 citation: "Boccanfuso, A., & Hall, R. (2025). Alignment, Engagement, and Public Benefits. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 3–23). Springer."
 extracted_to:
+  - "[[Argument_Boccanfuso_Hall_2025_Alignment]]"
   - "[[Academic Freedom]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Multi-University]]"
+  - "[[Technology Transfer]]"
+  - "[[University-Industry Collaboration]]"
   - "[[APLU Innovation and Economic Prosperity Program]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[California Master Plan for Higher Education]]"
@@ -13,10 +17,6 @@ extracted_to:
   - "[[Smith Lever Act of 1914]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[University, Inc. (Washburn, 2005)]]"
-  - "[[Argument_Boccanfuso_Hall_2025_Alignment]]"
-  - "[[Multi-University]]"
-  - "[[Technology Transfer]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Triple Helix]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"

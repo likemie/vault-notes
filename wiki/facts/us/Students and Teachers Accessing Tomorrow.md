@@ -16,7 +16,6 @@ tags:
   - evidence-based-education
 related_concepts:
   - "[[Technology Infusion]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Logic Model]]"
   - "[[Internal Consistency and Cronbach's Alpha]]"
   - "[[Class Size]]"
@@ -39,7 +38,7 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> Students and Teachers Accessing Tomorrow（STAT）是 Baltimore County Public Schools（BCPS）在 2014-2015 学年启动的全学区[[Technology Infusion|技术整合]]项目。作为复杂教育系统中的技术[[Integration in Mixed Methods|整合]]改革，STAT 展示了证据生成、解释和使用的困难：综合性改革很难被还原为单一干预效果（Ross & Morrison, 2021, pp.113-115）。
+> Students and Teachers Accessing Tomorrow（STAT）是 Baltimore County Public Schools（BCPS）在 2014-2015 学年启动的全学区[[Technology Infusion|技术整合]]项目。作为复杂教育系统中的技术整合改革，STAT 展示了证据生成、解释和使用的困难：综合性改革很难被还原为单一干预效果（Ross & Morrison, 2021, pp.113-115）。
 
 ## 政策文本摘要
 

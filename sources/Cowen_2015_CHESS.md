@@ -2,6 +2,9 @@
 citation: "Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). Making the Most of the Evidence: Evidence-based policy in the classroom. CHESS Working Paper No. 2015-03, Durham University."
 extracted_to:
   - "[[Argument_Cowen_2015_CHESS]]"
+  - "[[Class Size]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[What Works Network]]"
@@ -9,9 +12,6 @@ extracted_to:
   - "[[Nancy Cartwright]]"
   - "[[Nick Cowen]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
-  - "[[Class Size]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Local Knowledge in Evidence-Based Policy]]"
 processed_date: 2026-05-01
 ---
 

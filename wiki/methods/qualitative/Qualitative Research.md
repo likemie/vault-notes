@@ -26,9 +26,11 @@ related_concepts:
   - "[[Story Line]]"
   - "[[Analytic Framework]]"
   - "[[Descriptive Analysis]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Winnowing]]"
   - "[[Multimethod Research]]"
+  - "[[Institutional Review Board]]"
+  - "[[Internal Validity]]"
+  - "[[External Auditor]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -42,7 +44,9 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Descriptive Methods]]"
   - "[[Observational and Correlational Research]]"
-related_persons: []
+  - "[[Qualitative Interview]]"
+related_persons:
+  - "[[John Locke]]"
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
 sources:
@@ -192,7 +196,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 >
 > **二、研究设计的选择与论证**
 >
-> Miller 明确选择[[Ethnography|民族志研究]]传统，并提供学科起源（人类学，Malinowski、Park、Boas）、核心意图（"通过观察和访谈获取被研究主体日常经验的整体图景"）和方法特征（[[In-depth Interview|深度访谈]]加持久的、持续的参与者观察，Jacob, 1987）。这一小段精确执行了教材提出的设计选择四项要求：指明方法、提供背景、讨论适切性、说明对后续环节的塑造。
+> Miller 明确选择[[Ethnography|民族志研究]]传统，并提供学科起源（人类学，Malinowski、Park、Boas）、核心意图（"通过观察和访谈获取被研究主体日常经验的整体图景"）和方法特征（[[Qualitative Interview|深度访谈]]加持久的、持续的参与者观察，Jacob, 1987）。这一小段精确执行了教材提出的设计选择四项要求：指明方法、提供背景、讨论适切性、说明对后续环节的塑造。
 >
 > **三、研究者角色的[[Reflexivity|反身性]]陈述**
 >

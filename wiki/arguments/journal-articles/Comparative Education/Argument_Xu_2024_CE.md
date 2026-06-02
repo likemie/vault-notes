@@ -19,7 +19,6 @@ tags:
   - method/comparative-analysis
   - paradigm/constructivist
 related_concepts:
-  - "[[Integration in Mixed Methods]]"
   - "[[Research Question]]"
   - "[[Imagined Community]]"
   - "[[Probes]]"
@@ -55,7 +54,7 @@ updated: 2026-05-26
 >
 > 已有研究揭示了两个基本事实：大陆历史课程将中国叙述为**统一多民族国家**，而香港历史课程将中国叙述为**以汉为中心的族裔文化国家**（pp.574）。但两个关键缺口仍未填补：
 >
-> 1. **缺乏直接比较**——大陆和香港的比较研究不仅少，而且数据陈旧（如 Lo 2004, 2007）——过去十年间两地政治[[Integration in Mixed Methods|整合]]加速，旧数据已不适于理解当下（pp.574）。
+> 1. **缺乏直接比较**——大陆和香港的比较研究不仅少，而且数据陈旧（如 Lo 2004, 2007）——过去十年间两地政治整合加速，旧数据已不适于理解当下（pp.574）。
 > 2. **族群维度遮蔽了领土维度**——多数研究聚焦族群议题（少数族群在教科书中的呈现），但忽视了中共在国家叙事中同样强调的领土要素。Baranovitch (2010) 指出：统一多民族国家观将中国视为领土国家（territorial nation），其国界基于物理领土；而族裔文化观将国界基于汉族（pp.574）。
 >
 > 据此提出两个[[Research Question|研究问题]]：

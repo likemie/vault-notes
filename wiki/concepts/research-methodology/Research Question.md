@@ -120,7 +120,7 @@ updated: 2026-05-31
 
 ## 混合方法研究问题
 
-[[Mixed Methods Research|混合方法研究]]需要三类问题：量化问题或假设、[[Qualitative Research|质性研究]]问题，以及[[Mixed Methods Question|混合方法研究问题]]——描述研究者希望通过[[Integration in Mixed Methods|整合]]两类数据获得什么洞见（Creswell & Creswell, 2022, Ch7）。三类问题的顺序反映设计步骤（聚敛式、解释性序列、探索性序列）。混合方法研究问题是一个关于方法的、相对较新的概念（Tashakkori & Creswell, 2007），详见 [[Mixed Methods Question]] 条目。
+[[Mixed Methods Research|混合方法研究]]需要三类问题：量化问题或假设、[[Qualitative Research|质性研究]]问题，以及[[Mixed Methods Question|混合方法研究问题]]——描述研究者希望通过整合两类数据获得什么洞见（Creswell & Creswell, 2022, Ch7）。三类问题的顺序反映设计步骤（聚敛式、解释性序列、探索性序列）。混合方法研究问题是一个关于方法的、相对较新的概念（Tashakkori & Creswell, 2007），详见 [[Mixed Methods Question]] 条目。
 
 ---
 

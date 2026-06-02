@@ -20,7 +20,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
   - "[[Causality]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Bounded Rationality]]"
@@ -74,7 +73,7 @@ updated: '2026-05-19'
 > - **[[Dynamic Knowledge and Learning Model]]**：基于 Bateson 的一阶至四阶学习理论，将知识区分为 knowing-that、knowing-how、knowing-why 和知识边界／知识视域，并强调教学影响的是一个具有内部动力的动态学习系统（Qvortrup, 2015, pp.31–32）
 > - **解释社群分析**：使用 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源——一个由研究者、政治家和工会代表组成的社群在短期内形成了对 VL 的广泛误解（Qvortrup, 2019, p.3-5）
 > - **观察透镜认识论**：以 von Foerster (1984) 和 Thyssen (2012) 为框架，论证定量与定性方法是互补的观察位置，而非相互排斥的零和游戏（Qvortrup, 2019, p.5）
-> - **[[Professional Judgment|专业判断]]作为缺失环节**：综合 Simon 的[[Bounded Rationality|有限理性]]、Schön 的[[Reflexivity|反思性]]实践和 Luhmann 的[[Structural Coupling|结构耦合]]，构建 VL 的理论辩护——教学与学习不是[[Causality|因果关系]]而是两个封闭系统之间的耦合，教师需要[[Professional Judgment|专业判断]]来[[Integration in Mixed Methods|整合]]研究知识（Qvortrup, 2019, p.6-7）
+> - **[[Professional Judgment|专业判断]]作为缺失环节**：综合 Simon 的[[Bounded Rationality|有限理性]]、Schön 的[[Reflexivity|反思性]]实践和 Luhmann 的[[Structural Coupling|结构耦合]]，构建 VL 的理论辩护——教学与学习不是[[Causality|因果关系]]而是两个封闭系统之间的耦合，教师需要[[Professional Judgment|专业判断]]来整合研究知识（Qvortrup, 2019, p.6-7）
 
 ## 主要贡献
 

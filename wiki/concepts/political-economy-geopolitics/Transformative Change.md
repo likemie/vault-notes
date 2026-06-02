@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Innovation Policy Paradigms]]"
   - "[[Absorptive Capacity]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Luhmann's Systems Theory]]"
@@ -98,7 +97,7 @@ updated: 2026-05-27
 > - 变革转型范式下大学的角色进一步扩展（Kelleher & Ulrichsen, 2022）（pp.34–35）：更积极地与政府和产业合作以影响创新政策的优先事项和方向；利用大学作为中立召集者的角色，为多方对话提供空间，汇集系统情报；帮助理解正在涌现的替代路径，以及不同行动方案的系统级机会和后果
 
 > [!info]- 大学在变革转型中的延伸角色
-> - [[Integration in Mixed Methods|整合]]研究与政策建议——帮助设定创新方向而非仅响应资助信号
+> - 整合研究与政策建议——帮助设定创新方向而非仅响应资助信号
 > - 提供"公共空间"——召集来自不同制度领域（学术、产业、政府、公民社会）的行动者对话
 > - 帮助分解"棘手问题"——将宏大挑战拆分为可控的子问题，为行动提供可操作的路径（p.49）
 

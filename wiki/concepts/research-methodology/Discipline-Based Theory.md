@@ -12,7 +12,6 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Construct]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Self-control]]"
   - "[[Purpose Statement]]"
   - "[[Social Justice Theory]]"
@@ -47,7 +46,7 @@ updated: 2026-05-31
 
 > [!abstract]
 > - 为组织和报告量化与质性数据提供框架
-> - 将分开的调查或研究[[Integration in Mixed Methods|整合]]在一起，报告共同的概念或想法
+> - 将分开的调查或研究整合在一起，报告共同的概念或想法
 > - 在研究团队成员、利益相关者和资助者之间建立对研究底层框架的共同理解
 > - 为研究者希望发现的内容提供预测
 > - 将概念和想法连接起来，通常以时间顺序呈现

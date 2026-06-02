@@ -17,7 +17,6 @@ related_concepts:
   - "[[Quasi-markets in Higher Education]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Park]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Proof of Concept Programs]]"
   - "[[Non-dilutive Funding]]"
@@ -83,7 +82,7 @@ updated: 2026-05-27
 - **文化适应**：大学内部形成接受和鼓励产业合作的新思维模式（mindset），不再将产业资助视为对学术独立性的威胁（p.52）
 - **组织重构**：建立专门寻求和支持产业合作的新办公室和单位，如产业关系办公室、[[Technology Transfer|技术转移]]办公室、[[Innovation Park|创新园区]]等（p.52）
 - **激励兼容**：通过晋升与终身教职标准、知识产权收入分享等机制，使教师和学术单位有动力参与产业合作（p.52）
-- **战略[[Integration in Mixed Methods|整合]]**：将创新和创业语言纳入大学战略规划，校长和教务长层面明确表述[[University-Industry Collaboration|产学合作]]的愿景（Hall & Lulich, 2021，转引自 p.52）
+- **战略整合**：将创新和创业语言纳入大学战略规划，校长和教务长层面明确表述[[University-Industry Collaboration|产学合作]]的愿景（Hall & Lulich, 2021，转引自 p.52）
 
 > [!note]
 > 近年来大学显著扩展了其支持衍生企业创建和创业精神的基础设施投资（Gilison & Wilson, 2025, pp.147-148）：

@@ -3,20 +3,20 @@ citation: "Qvortrup, L. (2019). Visible learning and its enemies – the missing
 extracted_to:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Interpretation Community]]"
-  - "[[Danish Public School Reform]]"
-  - "[[Hattie på dansk]]"
-  - "[[Herbert A. Simon]]"
   - "[[Structural Coupling]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
+  - "[[Danish Public School Reform]]"
+  - "[[Hattie på dansk]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Meta-analysis]]"
   - "[[Lars Qvortrup]]"
   - "[[Thomas Aastrup Rømer]]"
   - "[[John Hattie]]"
   - "[[Donald A. Schön]]"
+  - "[[Herbert A. Simon]]"
   - "[[Bounded Rationality]]"
 processed_date: 2026-05-03
 ---

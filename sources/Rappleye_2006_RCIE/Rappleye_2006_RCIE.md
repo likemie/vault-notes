@@ -1,13 +1,13 @@
 ---
 citation: "Rappleye, J. (2006). Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction. Research in Comparative and International Education, 1(3), 223–240."
 extracted_to:
-  - "[[Cross-National Attraction]]"
-  - "[[Late Qing Borrowing of Japanese Education]]"
-  - "[[A Nation at Risk 1983]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
+  - "[[Cross-National Attraction]]"
   - "[[Externalization]]"
   - "[[Policy Borrowing]]"
   - "[[Pre-Transfer Agency]]"
+  - "[[Late Qing Borrowing of Japanese Education]]"
+  - "[[A Nation at Risk 1983]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Jurgen Schriewer]]"
   - "[[David Phillips]]"

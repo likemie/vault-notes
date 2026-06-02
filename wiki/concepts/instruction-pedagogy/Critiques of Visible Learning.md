@@ -29,7 +29,6 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Analytic Framework]]"
   - "[[School Effectiveness]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Publication Bias]]"
   - "[[Language Experience Approach]]"
   - "[[Constructivist Paradigm]]"
@@ -480,7 +479,7 @@ Wecker 等人最终的可靠性判断是层次化的（p.34-36）：
 
 2. **排名层面**：由于加权错误——正确加权可将效应量从 0.59 改变为 0.23（排名从 #26 降至 #98）——排名的可靠性受到直接质疑
 
-3. **方法层面**：该方法在当前出版条件下"以科学合理的方式是不可行的"（p.1）——但 Hattie 的基本愿景（全面[[Integration in Mixed Methods|整合]]实证教育研究）"是有远见的"和"为他赢得了宝贵而持久的优点"（p.34-35）
+3. **方法层面**：该方法在当前出版条件下"以科学合理的方式是不可行的"（p.1）——但 Hattie 的基本愿景（全面整合实证教育研究）"是有远见的"和"为他赢得了宝贵而持久的优点"（p.34-35）
 
 4. **前进方向**：建立**中央证据数据库**——收集实证研究的方法和结果（无论期刊出版物如何），以标准化和元分析可用的格式提供，统一使用 Hedges' g 作为效应量测度，每个元分析发布完整的主要研究表——"通过提供标准化形式的'原始元分析数据'来促进像 Hattie 这样的项目，而不是在期刊上发表"（p.35）
 
@@ -699,7 +698,7 @@ Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 
 **批评四：学习不是价值中立的概念——Bildung 要求更多。** Larsen 从概念史（Begriffsgeschichte）角度追溯了"学习"在丹麦语境中的语义演变：1960–70 年代'læring'（学习）最初是批判性、解放性的术语 → 1990 年代起被资本主义逻辑吸收 → 当代学习已成为不可逃避、无所不在的状态和"自然"要求（Larsen, 2019, p.8-9）。Larsen 的核心替代方案是复兴 [[Bildung]]（教养）概念——"Bildung is so much more than education. Character formation cannot be operationalized or formalized... Bildung belongs to life. It is autonomous, auto-telic, and possesses its own reasons, such as art, joy and love."（Larsen, 2019, p.9）。作为 VL 的替代方案，Larsen 提出了 具身化-扩展辩证法：每次学习都将学习内容具身化在身体存在中，而每次具身化值得具身化的东西，就扩展了身体与心智综合——这是一个双向运动（Larsen, 2019, p.8-10）。
 
-Larsen（2019）的独特贡献在于将四个不同学科领域（现象学、神经科学、自由哲学、概念史）[[Integration in Mixed Methods|整合]]为一个统一的哲学批判框架——盲视。与 Rømer 追问"VL 的基本理论是什么？"、Nielsen & Klitmøller 追问"为什么有严重缺陷的 VL 仍主导政策？"不同，Larsen 追问的是一阶问题：**"VL 在原则上能看到什么、不能看到什么？"**——答案是盲视是教育观看的构成性条件，VL 追随者不能看见他们不能看见的东西。
+Larsen（2019）的独特贡献在于将四个不同学科领域（现象学、神经科学、自由哲学、概念史）整合为一个统一的哲学批判框架——盲视。与 Rømer 追问"VL 的基本理论是什么？"、Nielsen & Klitmøller 追问"为什么有严重缺陷的 VL 仍主导政策？"不同，Larsen 追问的是一阶问题：**"VL 在原则上能看到什么、不能看到什么？"**——答案是盲视是教育观看的构成性条件，VL 追随者不能看见他们不能看见的东西。
 
 ### 合法化危机与技术理性（Nielsen & Klitmøller, 2021）
 
@@ -947,7 +946,7 @@ VL 证据在政策过程中被多次误用。O'Neill (2012) 以 NZ Treasury 2011
 
 ### Johnson & Janzen (2023) — 四角度系统批判：方法论、新泰勒主义、新自由主义、Cargo Cult Science
 
-Johnson & Janzen（2023）在 *Critical Education* 发表了对 VL 的四角度系统批判，其独特贡献在于将方法论批判、Taylorism 分析、商业化追踪和[[Scientism|科学主义]]批判[[Integration in Mixed Methods|整合]]为一个统一框架。
+Johnson & Janzen（2023）在 *Critical Education* 发表了对 VL 的四角度系统批判，其独特贡献在于将方法论批判、Taylorism 分析、商业化追踪和[[Scientism|科学主义]]批判整合为一个统一框架。
 
 #### 角度一：方法论不透明——"Bullying by Numbers"
 

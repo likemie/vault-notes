@@ -18,7 +18,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Corporate University]]"
   - "[[Further Education]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Varieties of Capitalism]]"
 related_theories: []
 related_methods:
@@ -130,7 +129,7 @@ IVET 是德国双元学徒制这类教育——学徒一半时间在公司、一
 
 这是论证的关键环节。Hartmann 指出，不能笼统地说"MNCs 的企业教育是否国际化"，必须先区分 MNC 的组织类型。她结合产业社会学的三种 MNC 分类和 Rademakers 的三种[[Corporate University|企业大学]]分类（Hartmann, 2022, pp.186–188）：
 
-**联邦型 MNC（低[[Integration in Mixed Methods|整合]] + 高本地响应）**
+**联邦型 MNC（低整合 + 高本地响应）**
 
 这类公司给各国分支很大的自主权。企业教育表现为：只给最高管理层提供统一的"学院型"培训（如全球继任计划），其他员工的培训由各国分支自行决定，反映当地制度传统。
 
@@ -228,7 +227,7 @@ Hartmann 在结论中坦承，我们无法确定当前的格局到底意味着�
 **关于企业教育的国际化能力：**
 - 初始职业教育（IVET）高度依赖国家层面的非市场制度安排，难以跨国转移。所有受访德国 MNCs 在海外分支建立学徒制的尝试均遇到系统性困难（Hartmann, 2022, pp.184–185）
 - 管理层的继续教育最可能国际化：超过 50% 的 MNCs 提供全球高潜力人才培训项目，多数拥有全球继任计划（Hartmann, 2022, p.185）
-- 国际型 MNCs（高[[Integration in Mixed Methods|整合]]、低本地响应）和跨国型 MNCs（高整合、高本地响应）均能创造企业教育的跨国空间，但在知识标准化方式上存在本质差异（Hartmann, 2022, pp.187–188）
+- 国际型 MNCs（高整合、低本地响应）和跨国型 MNCs（高整合、高本地响应）均能创造企业教育的跨国空间，但在知识标准化方式上存在本质差异（Hartmann, 2022, pp.187–188）
 
 **关于权威来源与市场集中化：**
 - MNCs 通过四种策略提升企业教育的权威：模仿高等教育（如 Apple University）、专业认证、同行评审网络、外包给营利性提供商（Hartmann, 2022, pp.189–193）

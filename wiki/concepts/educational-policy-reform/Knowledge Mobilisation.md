@@ -18,7 +18,6 @@ related_concepts:
   - "[[Probes]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Transfer Translation Transformation]]"
@@ -48,7 +47,7 @@ updated: '2026-05-21'
 
 > [!example]
 > - **vs [[Evidence-Based Education]]** — EBE 更常[[Probes|追问]]“什么有效”；KMb 追问的是“这些知识如何被带进学校、被谁翻译、通过什么机制变成行动”。
-> - **vs [[Evidence-Informed Practice]]** — EIP 是一种实践取向，强调证据、数据与[[Professional Judgment|专业判断]]的[[Integration in Mixed Methods|整合]]；KMb 更像支撑 EIP 的中介过程理论，解释研究如何在系统中流动、被重组和被采用。
+> - **vs [[Evidence-Informed Practice]]** — EIP 是一种实践取向，强调证据、数据与[[Professional Judgment|专业判断]]的整合；KMb 更像支撑 EIP 的中介过程理论，解释研究如何在系统中流动、被重组和被采用。
 > - **vs [[Professional Judgment]]** — 专业判断是教师或领导者在具体情境中的决策能力；KMb 关注的是这些判断所需的研究知识如何进入现场并被消化。
 
 ## 概念演变

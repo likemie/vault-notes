@@ -16,7 +16,6 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Performativity of Measurement]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Discursive Stratification]]"
   - "[[Knowledge Capitalism]]"
 related_theories:
@@ -63,7 +62,7 @@ updated: 2026-06-01
 
 ### 评估工具的合法性制造
 
-然而，该领域也揭示了评估工具如何**成功地**完成社会[[Integration in Mixed Methods|整合]]功能——即便在测量可靠性存疑的情况下：
+然而，该领域也揭示了评估工具如何**成功地**完成社会整合功能——即便在测量可靠性存疑的情况下：
 
 - **信任的生成**：Reinhart（2012）发现，即使同行评审的可靠性有限，这一制度仍然能够**生成对分配决策的信任**——参与者接受评审结果不是因为评审完美，而是因为评审过程被感知为公正和透明的。
 - **声誉的客体化**：Münch（2016）展示了评估工具如何将模糊的学术声誉转化为"客观"的、可量化的、可比较的数字——从而建立客体化的声誉模式，使学术地位变得可见和可操作。

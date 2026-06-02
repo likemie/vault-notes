@@ -16,7 +16,6 @@ tags:
 - what-works
 - research-methodology
 related_concepts:
-  - "[[Integration in Mixed Methods]]"
   - "[[Literature Review]]"
   - "[[Variable]]"
   - "[[Spirals of Inquiry]]"
@@ -44,7 +43,7 @@ updated: '2026-05-18'
 ## 研究问题
 
 > [!info] 研究问题
-> 如何将实验科学（"什么有效"范式，以 [[Randomised Controlled Trials|RCT]] 为核心）和[[Improvement Science|改进科学]]（以网络化教师探究为核心）的核心要素[[Integration in Mixed Methods|整合]]，以克服各自弱点——黑箱 RCT 仅生成适用于二选一决策的证据，改进科学缺乏稳健因果估计——形成一个更有效的提高教育成就的系统性策略？
+> 如何将实验科学（"什么有效"范式，以 [[Randomised Controlled Trials|RCT]] 为核心）和[[Improvement Science|改进科学]]（以网络化教师探究为核心）的核心要素整合，以克服各自弱点——黑箱 RCT 仅生成适用于二选一决策的证据，改进科学缺乏稳健因果估计——形成一个更有效的提高教育成就的系统性策略？
 
 ## 理论框架
 
@@ -71,7 +70,7 @@ updated: '2026-05-18'
 > 3. 低采纳率——从业者不使用聚合知识，"使研究更易获得不能解决采纳问题如果证据不够强"（p. 302）
 > 4. 仅适用于二选一决策——教育情境中因素的相互依赖使单次二选一决策极少可行（p. 300）
 >
-> ### 论证：双组件[[Integration in Mixed Methods|整合]]方案
+> ### 论证：双组件整合方案
 >
 > **组件一：[[Mechanism Experiments|机制实验]]取代黑箱 RCT**
 >

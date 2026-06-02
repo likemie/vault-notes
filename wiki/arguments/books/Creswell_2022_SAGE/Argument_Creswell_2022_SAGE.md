@@ -126,12 +126,8 @@ related_methods:
   - "[[Solomon Four-Group Design]]"
   - "[[Random Sampling]]"
   - "[[Analysis of Covariance]]"
-  - "[[Qualitative Observation]]"
-  - "[[Qualitative Documents]]"
-  - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Observation Protocol]]"
   - "[[Qualitative Computer Software]]"
-  - "[[In-depth Interview]]"
   - "[[Exploratory Sequential Design]]"
 related_persons:
   - "[[John W. Creswell]]"
@@ -1475,7 +1471,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 | [[Peer Debriefing\|同行审议]] | 同行审议者审查并提出问题，确保报告与研究者以外的人共鸣——涉及研究者解释以外的另一个人的解读 |
 | 外部审计 | 不熟悉研究者或项目的[[External Auditor\|外部审计者]]审查整个项目全过程——从转录准确性到数据从原始到解释的分析层次 |
 
-质性信度关注方法一致性（Gibbs, 2007），编码者间一致性要求≥80%（Miles & Huberman, 1994），各策略的完整讨论见 [[Qualitative Validity]] 和 [[Qualitative Reliability]] 条目。
+质性信度关注方法一致性（Gibbs, 2007），[[Intercoder Agreement|编码者间一致性]]要求≥80%（Miles & Huberman, 1994），各策略的完整讨论见 [[Qualitative Validity]] 和 [[Qualitative Reliability]] 条目。
 
 ---
 
@@ -1643,7 +1639,7 @@ Creswell & Creswell (2022) 提出混合方法研究的六个定义性特征，�
 
 ##### Example 10.2 — 解释性序列设计：Banyard & Williams (2007)
 
-研究女性如何从童年性虐待中恢复并在成年早期保持韧性。**第一量化阶段**（纵向）：1990 年对 136 名女性进行结构化访谈，1997 年追踪其中 61 人，测量韧性相关因素在 7 年间的变化。**第二质性阶段**：从量化样本中选择 21 名女性[[In-depth Interview|深度访谈]]。质性主题揭示了量表中未被捕捉的维度——生活转折点、恢复的持续性、灵性在恢复中的角色。
+研究女性如何从童年性虐待中恢复并在成年早期保持韧性。**第一量化阶段**（纵向）：1990 年对 136 名女性进行结构化访谈，1997 年追踪其中 61 人，测量韧性相关因素在 7 年间的变化。**第二质性阶段**：从量化样本中选择 21 名女性深度访谈。质性主题揭示了量表中未被捕捉的维度——生活转折点、恢复的持续性、灵性在恢复中的角色。
 
 > [!quote]
 > "Qualitative data from a subset of participants was used to examine survivors' own narratives about recovery and healing to learn about key aspects of resilience in women's own words."（p.278）

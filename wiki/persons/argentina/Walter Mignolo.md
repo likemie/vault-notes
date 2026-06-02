@@ -19,7 +19,6 @@ related_concepts:
   - "[[Ganz-Methode]]"
   - "[[Theoretical Standpoint]]"
   - "[[Corporate University]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Life Power]]"
   - "[[Analytic Framework]]"
   - "[[Social Museology]]"
@@ -95,7 +94,7 @@ updated: 2026-05-19
 
 - APA：Mignolo, W. (2011). *The darker side of Western Modernity: Global futures, decolonial options*. Duke University Press.
 - 核心内容：系统阐述"去殖民选项"（decolonial option）纲领——去殖民不是一种新的"主义"或普世方案，而是从西方现代性/殖民性中"去链接"（delink）并基于被殖民者的经验重新构建认知、存在和生活方式的多重可能性。
-- 思想位置：代表晚期综合阶段——将此前二十余年的研究[[Integration in Mixed Methods|整合]]为一个完整的思想纲领。Delambre (2022, p.105, 122) 将此著作列为核心理论资源。
+- 思想位置：代表晚期综合阶段——将此前二十余年的研究整合为一个完整的思想纲领。Delambre (2022, p.105, 122) 将此著作列为核心理论资源。
 
 ## 核心思想
 
@@ -122,7 +121,7 @@ updated: 2026-05-19
 
 > [!success]
 > - 与 Enrique Dussel、Aníbal Quijano 共同开创了拉丁美洲现代性/殖民性（M/C）研究项目，将"殖民性"建立为一个独立于"殖民主义"的分析范畴
-> - 其"[[Geopolitics of Knowledge|知识地缘政治]]"概念被 Parreira do Amaral (2022) [[Integration in Mixed Methods|整合]]进"新知识地缘政治"的[[Analytic Framework|分析框架]]，与[[Critical Geopolitics|批判地缘政治学]]并列为两大理论支柱（Parreira do Amaral, 2022, pp.37–39）
+> - 其"[[Geopolitics of Knowledge|知识地缘政治]]"概念被 Parreira do Amaral (2022) 整合进"新知识地缘政治"的[[Analytic Framework|分析框架]]，与[[Critical Geopolitics|批判地缘政治学]]并列为两大理论支柱（Parreira do Amaral, 2022, pp.37–39）
 > - [[Arturo Escobar]]（2018）和 Reiter（2019）将 Mignolo 的去殖民视角延伸至"多元世界"（pluriverse）的设计和建构
 > - [[Dell Delambre]] (2022) 将 Mignolo 的去殖民认识论从学术批判层面转化为社区实践层面的 [[Ganz-Methode]]——以巴西里约热内卢贫民窟剧场和[[Social Museology|社会博物馆学]]为实践[[Champ|场域]]，试图在"批判"和"建构"之间架设桥梁（Delambre, 2022, p.105–107, 109–110）
 > - [[Chen Kuan-Hsing]] (2010) 在 *Asia as Method* 中将 Mignolo 的去殖民思想应用于亚洲语境，提出"去帝国化、去殖民化、去冷战"三重任务
