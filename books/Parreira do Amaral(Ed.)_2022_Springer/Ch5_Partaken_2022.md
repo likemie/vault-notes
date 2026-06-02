@@ -17,12 +17,12 @@ extracted_to:
   - "[[Areopagitica]]"
   - "[[US-China Economic and Security Review Commission]]"
   - "[[Paulo Freire]]"
-  - "[[Frantz Fanon]]"
-  - "[[Jean-François Lyotard]]"
   - "[[Chen Kuan-Hsing]]"
   - "[[Concealment-Exposure Framework]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Frantz Fanon]]"
+  - "[[Jean-François Lyotard]]"
 processed_date: 2026-05-10
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

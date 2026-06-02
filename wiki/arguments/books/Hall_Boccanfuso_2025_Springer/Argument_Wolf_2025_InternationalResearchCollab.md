@@ -135,7 +135,7 @@ issuing_organization: ""
 ### 第三步：两个现有框架提供了互补的分析视角，但各有盲区
 
 > [!info] Dollinger et al.（2018）三因素框架
-> 该框架将影响国际 UI 合作的因素分为环境因素（政策法规、文化与劳动力背景）、技术因素（研发能力、基础设施）和管理因素（治理结构、沟通机制、信任建设）（p.316）。其优势在于操作的清晰性，三个维度可对照评估任何具体合作的进展。其盲区在于更适合评估一个已经启动的合作，对"如何启动一个合作"提供的指导较弱。
+> [[Dollinger et al. Framework for UI Collaboration|该框架]]将影响国际 UI 合作的因素分为环境因素（政策法规、文化与劳动力背景）、技术因素（研发能力、基础设施）和管理因素（治理结构、沟通机制、信任建设）（p.316）。其优势在于操作的清晰性，三个维度可对照评估任何具体合作的进展。其盲区在于更适合评估一个已经启动的合作，对"如何启动一个合作"提供的指导较弱。
 
 > [!example]- 图17.2：Dollinger et al. 国际产学合作框架
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_17-2_Dollinger_Framework.jpg)
@@ -143,7 +143,7 @@ issuing_organization: ""
 ---
 
 > [!info] Rossoni et al.（2023）三视角评估
-> Rossoni 等从[[Triple Helix]]（宏观制度层面）、关系社会资本和价值创造（中观关系层面）、以及[[Technology Transfer|技术转移]]和文化差异（微观操作层面）三个[[Theoretical Perspective|理论视角]]，系统梳理了 UI 合作的障碍（p.316）。这一框架的独特贡献在于它展示了不同层面障碍之间的嵌套关系，弥补了 Dollinger 框架将各因素并列处理的局限。但其抽象程度较高，缺乏直接操作性。
+> Rossoni 等从[[Triple Helix]]（宏观制度层面）、关系社会资本和价值创造（中观关系层面）、以及[[Technology Transfer|技术转移]]和文化差异（微观操作层面）三个[[Theoretical Perspective|理论视角]]，系统梳理了 UI 合作的障碍（p.316）。这一框架的独特贡献在于它展示了不同层面障碍之间的嵌套关系，弥补了 [[Dollinger et al. Framework for UI Collaboration|Dollinger 框架]]将各因素并列处理的局限。但其抽象程度较高，缺乏直接操作性。
 
 ---
 

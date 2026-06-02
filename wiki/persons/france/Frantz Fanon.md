@@ -30,7 +30,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-19'
+updated: '2026-06-02'
 ---
 
 # Frantz Fanon
@@ -47,30 +47,32 @@ Fanon 在法国里昂大学学习精神病学，期间受到 Négritude 运动�
 ## 主要著作
 
 > [!abstract]
-> - Fanon, F. (1952/1986). *Black Skin, White Masks*（《黑皮肤，白面具》）. Grove Press. — 以[[Phenomenology|现象学]]方法分析殖民地主体的心理经验，核心论点是：殖民主义不仅通过经济和政治统治运作，更通过制造被殖民者的自我异化来运作——黑人被强制认同于白人的语言和文化标准，"黑人不是一个人，而是一个黑人"。提出"真正的去异化"（authentic disalienation）概念
-> - Fanon, F. (1959/1965). *A Dying Colonialism*（《垂死的殖民主义》）. Monthly Review Press. — 以阿尔及利亚革命为案例，分析殖民社会在革命过程中的社会和文化转变
-> - Fanon, F. (1963). *The Wretched of the Earth*（《全世界受苦的人》）. Grove Press. — 以"论暴力"（On Violence）开篇，论证暴力在殖民地中是"社会、文化和政治货币"——殖民者的暴力不会被和平恳求终止，被殖民者的反暴力是"净化性的"（cathartic），去殖民化"不仅是暴力和革命的，更是对被殖民者的疗愈过程"。该书最后一章分析了殖民主义导致的精神病理学案例，将政治解放与心理解放统合在一起
+> - Fanon, F. (1952/1986). *Black Skin, White Masks*（《黑皮肤，白面具》）. Grove Press. — 以[[Phenomenology|现象学]]方法分析殖民地主体的心理经验，核心论点是：殖民主义不仅通过经济和政治统治运作，更通过制造被殖民者的自我异化来运作——黑人被强制认同于白人的语言和文化标准，黑人不是一个人，而是一个黑人。提出**真正的去异化**（authentic disalienation）概念。
+> - Fanon, F. (1959/1965). *A Dying Colonialism*（《垂死的殖民主义》）. Monthly Review Press. — 以阿尔及利亚革命为案例，分析殖民社会在革命过程中的社会和文化转变。
+> - Fanon, F. (1963). *The Wretched of the Earth*（《全世界受苦的人》）. Grove Press. — 以论暴力 (On Violence) 开篇，论证暴力在殖民地中是社会、文化和政治货币——殖民者的暴力不会被和平恳求终止，被殖民者的反暴力是净化性的 (cathartic)，去殖民化不仅是暴力和革命的，更是对被殖民者的疗愈过程。该书最后一章分析了殖民主义导致的精神病理学案例，将政治解放与心理解放统合在一起。
 
 ---
 
 ## 核心思想
 
 > [!tip]
-> - **殖民暴力制造"殖民地主体"**：Fanon 论证，殖民者发起的暴力不仅采取物理形式，更以文化歧视和非人化运作。正是在这种暴力中并通过这种暴力，一种特定新型知识——语言与种族的文化等级结构——制造出一种新人类："殖民地主体"（colonial subject）。例如，法属殖民地学校强制使用法语教学，将本地语言贬低为"方言"，学生因讲母语而受罚——语言等级制是知识等级制的物质形式（Fanon, 1952/1986）
-> - **反暴力作为集体 catharsis**：Fanon 以其精神病学专业背景论证，殖民者的暴力以被殖民者的羞耻、自卑和服从内化，反暴力将这种内在的压迫外向化——以集体 catharsis 的方式将被殖民者从自我异化中解放出来。去殖民化因此不仅是政治变革，更是对被殖民者的疗愈过程（Fanon, 1963）
-> - **真正的去异化（Authentic Disalienation）**：不同于黑格尔的主奴辩证法和马克思的劳动异化，Fanon 关注的是种族化和殖民条件下的存在性异化——被殖民者不仅被剥夺了劳动产品，更被剥夺了"成为人"的可能性。"真正的去异化"要求通过语言中介和集体行动恢复被殖民者的身份、心理和文化（Fanon, 1952/1986）
+> - **殖民暴力制造殖民地主体**：Fanon 论证，殖民者发起的暴力不仅采取物理形式，更以文化歧视和非人化运作。正是在这种暴力中并通过这种暴力，一种特定新型知识——语言与种族的文化等级结构——制造出一种新人类：**殖民地主体**（colonial subject）。例如，法属殖民地学校强制使用法语教学，将本地语言贬低为方言，学生因讲母语而受罚——语言等级制是知识等级制的物质形式（Fanon, 1952/1986）。
+> - **反暴力作为集体 catharsis**：Fanon 以其精神病学专业背景论证，殖民者的暴力以被殖民者的羞耻、自卑和服从内化，反暴力将这种内在的压迫外向化——以集体 catharsis 的方式将被殖民者从自我异化中解放出来。去殖民化因此不仅是政治变革，更是对被殖民者的疗愈过程（Fanon, 1963）。
+> - **真正的去异化 (Authentic Disalienation)**：不同于黑格尔的主奴辩证法和马克思的劳动异化，Fanon 关注的是种族化和殖民条件下的存在性异化——被殖民者不仅被剥夺了劳动产品，更被剥夺了成为人的可能性。**真正的去异化**要求通过语言中介和集体行动恢复被殖民者的身份、心理和文化（Fanon, 1952/1986）。
 
 > [!quote]
 > "Decolonization is the veritable creation of new men."（Fanon, 1963, p.36）
+> 
+> 去殖民化是真正的新人的创造。
 
 ---
 
 ## 影响
 
 > [!success]
-> - Fanon 的 *Black Skin, White Masks* (1952) 触发了 1960 年代的去殖民化运动，成为后殖民 [[Geopolitics of Knowledge|GPK]] 分析传统的奠基性文本
-> - 其殖民主体和[[Knowledge Production|知识生产]]批判影响了 [[Chen Kuan-Hsing]]（2010）的"亚洲作为方法"和 [[Walter Mignolo]] 的[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]理论，形成了从殖民时期到当代亚洲的连续批判线索
-> - 在[[Geopolitics of Knowledge|知识地缘政治]]研究中，Fanon 对殖民教育如何"制造主体"的分析为[[Forced Knowledge Transfer|强制知识转移]]概念提供了理论根基
+> - Fanon 的 *Black Skin, White Masks* (1952) 触发了 1960 年代的去殖民化运动，成为后殖民 [[Geopolitics of Knowledge|GPK]] 分析传统的奠基性文本。
+> - 其殖民主体和[[Knowledge Production|知识生产]]批判影响了 [[Chen Kuan-Hsing]] (2010) 的亚洲作为方法和 [[Walter Mignolo]] 的[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]理论，形成了从殖民时期到当代亚洲的连续批判线索。
+> - 在[[Geopolitics of Knowledge|知识地缘政治]]研究中，Fanon 对殖民教育如何制造主体的分析为[[Forced Knowledge Transfer|强制知识转移]]概念提供了理论根基。
 
 ---
 

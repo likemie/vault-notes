@@ -7,7 +7,6 @@ extracted_to:
   - "[[Policy Borrowing]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
-  - "[[A Nation at Risk 1983]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Jurgen Schriewer]]"
   - "[[David Phillips]]"

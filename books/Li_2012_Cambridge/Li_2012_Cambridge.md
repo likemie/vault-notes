@@ -71,7 +71,6 @@ extracted_to:
   - "[[MCC Discourse Analysis Examples]]"
   - "[[Mother-Child Conversation]]"
   - "[[Experience Sampling Method]]"
-  - "[[David Watkins]]"
   - "[[Confucius]]"
   - "[[Jin Li]]"
   - "[[Mencius]]"
@@ -91,6 +90,7 @@ extracted_to:
   - "[[Self-Worth Theory]]"
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
+  - "[[David Watkins]]"
 processed_date: 2026-05-25
 ---
 

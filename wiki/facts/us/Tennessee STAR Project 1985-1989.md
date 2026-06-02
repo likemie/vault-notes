@@ -36,7 +36,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-01
-updated: 2026-05-18
+updated: 2026-06-02
 ---
 ## 背景
 
@@ -55,7 +55,9 @@ updated: 2026-05-18
 ## 关键文件／声明
 
 > [!quote] 关键文件／声明
-> > "One of the most important educational investigations ever carried out." — Frederick Mosteller (1995, p. 113)，哈佛大学顶尖统计学家，对 STAR 项目的评价（引自 Wiliam, 2019, p.6）
+> "One of the most important educational investigations ever carried out." — Frederick Mosteller (1995, p. 113)，哈佛大学顶尖统计学家，对 STAR 项目的评价（引自 Wiliam, 2019, p.6）
+> 
+> 有史以来开展过的最重要的教育调查之一。
 
 ## 影响与后果
 
@@ -65,7 +67,7 @@ updated: 2026-05-18
 >
 > ### Snook et al. (2009) 以 STAR 反驳 [[John Hattie|Hattie]] 的班级规模结论
 >
-> Snook et al.（2009, p.100–101）在 VL 最早的学术批判中详细引用 STAR 研究以反驳 Hattie "班级规模[[Effect Size|效应量]]仅 0.2 不重要"的结论。STAR 采用严格随机化设计——将学生和教师均[[Random Assignment|随机分配]]至小班（13–17 人）和大班（22–25 人），两年后效应量达 0.62–0.66（Finn & Achilles, 1990）——远超 Hattie 的 d=0.40 阈值。Snook et al. 指出，Hattie 报告的较低效应量与 STAR 原始研究的结果不一致，且 Hattie 的[[Meta-analysis|元分析]]因距离原始研究较远而难以有效纳入 STAR 的设计质量差异。
+> Snook et al.（2009, p.100–101）在 VL 最早的学术批判中详细引用 STAR 研究以反驳 Hattie 班级规模[[Effect Size|效应量]]仅 0.2 不重要这一结论。STAR 采用严格随机化设计——将学生和教师均[[Random Assignment|随机分配]]至小班（13–17 人）和大班（22–25 人），两年后效应量达 0.62–0.66（Finn & Achilles, 1990）——远超 Hattie 的 d=0.40 阈值。Snook et al. 指出，Hattie 报告的较低效应量与 STAR 原始研究的结果不一致，且 Hattie 的[[Meta-analysis|元分析]]因距离原始研究较远而难以有效纳入 STAR 的设计质量差异。
 
 ## 争议与评论
 
@@ -80,7 +82,7 @@ updated: 2026-05-18
 >
 > - **教师质量成为关键混淆因素**：STAR 项目规模较小（仅需额外 50 名教师），可合理假设额外招募的教师与在职教师同等有效。但当班级缩减全州推广时（如加州 1996 年），新增教师不太可能同样有效。（Wiliam, 2019, p.7）
 >
-> - **"教育研究只告诉我们曾经是什么，而非可能是什么"**：对班级缩减研究的综述通常得出结论：该计划对年幼学生更有效而对年长学生效果较差甚至无效。但 Wiliam 指出，这可能是因为小学教师花大量时间与个别学生或小组工作（小班自然产生更多个体关注），而中学教师通常面向全班教学（对 20 人班和对 30 人班讲授效果差异不大）。如果将班级缩减与教师在职培训结合——帮助教师发展只有在小班中才可能的教学方法——结果可能不同。但这些研究几乎不存在，因为它们比常规班级缩减计划更昂贵。（Wiliam, 2019, p.7）
+> - **教育研究只告诉我们曾经是什么，而非可能是什么**：对班级缩减研究的综述通常得出结论：该计划对年幼学生更有效而对年长学生效果较差甚至无效。但 Wiliam 指出，这可能是因为小学教师花大量时间与个别学生或小组工作（小班自然产生更多个体关注），而中学教师通常面向全班教学（对 20 人班和对 30 人班讲授效果差异不大）。如果将班级缩减与教师在职培训结合——帮助教师发展只有在小班中才可能的教学方法——结果可能不同。但这些研究几乎不存在，因为它们比常规班级缩减计划更昂贵。（Wiliam, 2019, p.7）
 >
 > ### Downey & Condron (2016) — RCT 单过程研究的范围局限
 >
@@ -97,9 +99,9 @@ updated: 2026-05-18
 > - [[Class Size]] — STAR 是该概念的核心实证基础，Snook et al. (2009) 以 STAR 为关键反例质疑 [[John Hattie|Hattie]] 的班级规模[[Effect Size|效应量]]评级
 > - [[Programme Fidelity vs Adaptation]] — STAR 与加州班级缩减的对比是该辩论的经典案例
 > - [[California Class Size Reduction 1996]] — 试图复制 STAR 成功但系统性失败
-> - [[Evidence-Based Education]] — 揭示 [[Randomised Controlled Trials|RCT]] 证据外推中"什么有效"逻辑的结构性局限
+> - [[Evidence-Based Education]] — 揭示 [[Randomised Controlled Trials|RCT]] 证据外推中什么有效逻辑的结构性局限
 > - [[Visible Learning]] — Snook et al. (2009) 以 STAR 质疑 Hattie 的效应量综合方法
-> - [[Effect Size]] — STAR 效应量（0.62–0.66）vs Hattie 综合效应量（约 0.2）的差异是效应量方法论争议的关键案例
+> - [[Effect Size]] — STAR 效应量 (0.62–0.66) vs Hattie 综合效应量 (约 0.2) 的差异是效应量方法论争议的关键案例
 
 ## 来源
 
