@@ -1664,22 +1664,6 @@ Creswell & Creswell (2022) 提出混合方法研究的六个定义性特征，�
 > ("As a researcher examines the [[Joint Display]] table or graph, conclusions are drawn about the insight emerging from comparing the two databases. In mixed methods, these insights are called metainferences, which suggests that a researcher concludes quantitative and qualitative inferences and then draws additional inferences (metainferences) based on combining the quantitative and qualitative databases.")（第10章, p.234）
 
 整合的具体程序则由设计类型规定：聚敛式（合并比较）、解释性序列（量化→质性解释）、探索性序列（质性→工具→量化检验）为三种核心设计；实验、案例研究、参与式社会正义、评价为四种复杂设计（核心设计嵌入更大框架）。以上所有操作的选择逻辑和最终产出由[[Integration Statement|整合陈述]]统合——在研究方案中明确说明整合的意图和程序。各术语的完整定义与图示见各自条目。
-> “整合代表了混合方法研究中的一个核心概念。这一重要概念涉及在一项研究或一系列研究中组合或‘混合’来自量化和质性数据的信息。”
-> ("Integration represents a central concept in mixed methods research. This important concept involves combining or 'mixing' in a study or a series of studies information from the quantitative and qualitative data.")（第10章, p.233）
-
-整合的可视化工具是[[Joint Display|联合展示]]——将两类数据并排在同一表格中，研究者在检视表格时识别仅靠单一数据无法发现的模式。
-
-> [!quote]
-> “其基本思想是研究者联合展示两种形式的数据——有效地将它们合并——在单一的可视化图表中，然后对该展示做出解释。”
-> ("The basic idea is for the researcher to jointly display both forms of data—effectively merging them—in a single visual and then make an interpretation of the display.")（第10章, p.238）
-
-从联合展示中提取的超越性洞察即为[[Metainferences|元推论]]——先分别得出一阶推论，再基于两者的组合得出额外的推论。
-
-> [!quote]
-> “当研究者检视[[Joint Display|联合展示]]表格或图形时，便会就比较两个数据库所涌现的洞见得出结论。在混合方法中，这些洞见被称为元推论（metainferences），这意味着研究者得出量化和质性的推论，然后基于量化和质性数据库的结合得出额外的推论（元推论）。”
-> ("As a researcher examines the [[Joint Display]] table or graph, conclusions are drawn about the insight emerging from comparing the two databases. In mixed methods, these insights are called metainferences, which suggests that a researcher concludes quantitative and qualitative inferences and then draws additional inferences (metainferences) based on combining the quantitative and qualitative databases.")（第10章, p.234）
-
-整合的具体程序则由设计类型规定：聚敛式（合并比较）、解释性序列（量化→质性解释）、探索性序列（质性→工具→量化检验）为三种核心设计；实验、案例研究、参与式社会正义、评价为四种复杂设计（核心设计嵌入更大框架）。以上所有操作的选择逻辑和最终产出由[[Integration Statement|整合陈述]]统合——在研究方案中明确说明整合的意图和程序。各术语的完整定义与图示见各自条目。
 
 > [!example]- 表10.1：设计混合方法程序的核查清单
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Table_10-1_Checklist_for_Designing_Mixed_Methods_Procedure.jpg)
