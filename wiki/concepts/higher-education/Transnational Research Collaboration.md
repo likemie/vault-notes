@@ -63,6 +63,12 @@ updated: '2026-05-18'
 >   3. **国家经济理性**（国家层面）：服务于贸易目标、提升国家创新能力和经济竞争力
 >   4. **外交理性**（国家层面）：将研究合作作为公共外交工具，维护和拓展国际关系网络
 > - **网络化转型**：Castells (1996) 的[[Network Society|网络社会]]理论和 Benkler (2006) 的"网络财富"概念为理解这一转型提供了分析资源——合作从双边线性关系转向多节点、分布式的网络结构（Rizvi, 2022, pp.98–99）
+> - **国际产学合作的五维挑战**：Wolf et al.（2025）从产学合作视角，将国际研究合作的成功条件归纳为五个维度（pp.311–316）：
+>   1. **目标与激励对齐**（Strategy/Alignment）：大学追求科学发现和发表，产业看重投资回报；双方对价值的理解偏差更多源于感知而非现实，通过增加沟通可以缓解（pp.311–312）
+>   2. **合作经验与渠道**（Know-how）：许多机构缺乏启动国际合作的实务经验，可借助 Halo、SciVal 等在线工具寻找合作伙伴（pp.312–313）
+>   3. **知识产权**（IP Rights）：不存在"国际专利"，各国法律不统一；预先协商权利安排和透明的 IP 政策是长期合作的基础（pp.313–314）
+>   4. **地缘政治**（Geopolitical Considerations）：政治分歧可负面冲击跨境合作——一项覆盖 700 余所大学的调查显示，11% 的机构因政府新规修订了研究伙伴关系（pp.314–315）
+>   5. **文化、沟通与物流**（Culture, Communication, Logistics）：跨时区、跨文化团队需要时间建立信任；从小项目起步、逐步增加复杂度是有效策略（pp.315–316）
 
 ## 理论基础
 
@@ -77,6 +83,7 @@ updated: '2026-05-18'
 > - 澳大利亚政府基于《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》大量投资于 Australia-India Strategic Research Fund (AISRF) 和 Australia China Science and Research Fund (ACSRF)，旨在与"高绩效国家"维持和加强研究关系（Barlow, 2014, p.13, cited in Rizvi, 2022, pp.99–100）
 > - 澳大利亚《[[International Education|国际教育]]国家战略 2025》以"加强国内外伙伴关系、提升学生和教师流动性、通过促进卓越和拥抱国际教育扩展机遇来使澳大利亚教育机构参与全球竞争"为目标（Rizvi, 2022, pp.99–100）
 > - COVID-19 和中美地缘政治紧张改变了跨国研究合作的条件——知识流动的自由受到新的政治限制（Rizvi, 2022, pp.100–101）
+> - [[Co-location (University-Industry)|产学共同选址]]是促进国际产学合作的有效空间策略：通过将产业人员嵌入大学校园，缩短物理距离以降低沟通和文化壁垒。典型案例包括联合利华在瓦赫宁根大学的 Hive 食品创新中心（500 名员工驻校）和 Mars 在 UC Davis 的 Mars 高级研究院（MARI）（Wolf et al., 2025, pp.317–318）
 
 ## 争议与批评
 
@@ -89,7 +96,10 @@ updated: '2026-05-18'
 > [!example]
 > - [[Australia in the Asian Century White Paper]] — 推动 AISRF、ACSRF 等与亚洲的研究合作基金
 > - 澳大利亚《[[International Education|国际教育]]国家战略 2025》— 将研究合作纳入国家竞争力和产业创新战略
+> - [[Co-location (University-Industry)|产学共同选址]] — 国际产学合作的空间策略，如联合利华 Hive（WUR）、Mars MARI（UC Davis）（Wolf et al., 2025, pp.317–318）
+> - Mars 与 UC Davis 非洲孤儿作物联盟（AOCC）— 多国政府、大学和企业联合改良 101 种传统非洲粮食作物的跨国合作项目，已培训超过 172 名非洲科学家（Wolf et al., 2025, pp.320–321）
 
 ## 来源
 
 - [[Ch6_Rizvi_2022]]
+- [[Ch17_Wolf_Stevenson_Siegel_2025]]
