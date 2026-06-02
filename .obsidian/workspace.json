@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Swick_Jones_2025_AcademicHealthSystems.md",
-                "mode": "preview",
+                "file": "wiki/concepts/higher-education/Partnership Continuum.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Swick_Jones_2025_AcademicHealthSystems"
+              "title": "Partnership Continuum"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "f290374ad363fcc2",
   "lastOpenFiles": [
-    "wiki/concepts/higher-education/University-Industry Collaboration.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Swick_Jones_2025_AcademicHealthSystems.md",
+    "wiki/concepts/higher-education/University-Industry Collaboration.md",
     "wiki/concepts/higher-education/Physician-Scientist.md",
     "wiki/concepts/higher-education/Partnership Continuum.md",
     "wiki/concepts/research-methodology/Probes.md",

@@ -16,6 +16,8 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Partnership Continuum]]"
   - "[[Master Agreement]]"
+  - "[[Physician-Scientist]]"
+  - "[[Refined Mastery]]"
   - "[[Innovation Ecosystem]]"
   - "[[Trade Mission]]"
 related_theories: []
@@ -33,6 +35,7 @@ sources:
   - "[[Ch4_Burrus_Patera_2025]]"
   - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
+  - "[[Ch10_Swick_Jones_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -47,6 +50,9 @@ updated: 2026-05-28
 > UIDP（University Industry Demonstration Partnership）是一个全球性的[[University-Industry Collaboration|产学合作]]组织，致力于通过开发可操作的实践工具、召集产学实践者交流和推动跨部门共识来降低[[University-Industry Collaboration|产学合作]]的交易成本。其核心产出包括 Contract Accords（合同共识指南）和 [[Partnership Continuum]]（伙伴关系连续体），拥有来自全球的顶级大学和企业会员网络（Boccanfuso & Hall, 2025, pp.16–20）。
 
 UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者——不为单个合作项目牵线搭桥，而是为整个产学合作社区提供降低交易成本的公共品（合同模板、度量指标、交流平台）。Hoffman et al.（2025）将 UIDP 的工作归入产学联盟与联合体的基础设施层面——与价值主张、关系经理和[[Master Agreement|主协议]]并列，这类组织化资源使大学和企业之间的重复合作成为可能（pp.103–108）。
+
+> [!note] UIDP 使命的生物医学实例：医师科学家
+> Swick 和 Jones（2025, pp.176–177）将[[Physician-Scientist|医师科学家]]（Physician-Scientist）描述为 UIDP 使命在生物医学领域的具体体现：医师科学家必须同时[[Refined Mastery|精通]]医疗系统和产业两种话语体系（"speakers of both health system and industry vernacular"），成为学术、产业和其他关键伙伴之间的联络者（liaison）。这一角色直接呼应了 UIDP 降低跨部门沟通壁垒、促进产学互译的核心任务，将 UIDP 的桥梁功能从制度层面落实到了具体专业人员的日常实践中。详见 [[Physician-Scientist]]。
 
 ---
 
@@ -142,3 +148,4 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 - [[Ch4_Burrus_Patera_2025]]
 - [[Ch6_Hoffman_Radasch_Thorsell_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]
+- [[Ch10_Swick_Jones_2025]]

@@ -380,24 +380,38 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 > [!quote]
 > "The 'secret sauce' for healthcare innovation (particularly in the United States) is [[Applied Medical Innovation]] (AMI)."（p.175）
+>
+> 医疗创新的秘密配方（特别是在美国）是医用创新（AMI）。
 
 > [!quote]
 > "the nature of [[Team Science]] today conflicts with the historical nature of the Nobel Prize, which is more reflective of how science was conducted 100 years ago."（pp.178–179）
+>
+> 当代团队科学的本质与诺贝尔奖的历史本质存在冲突，后者更多地反映了 100 年前科学研究的开展方式。
 
 > [!quote]
 > "academic health systems are deeply invested in innovations that improve patient care or transform the patient experience."（p.179）
+>
+> 学术健康系统深耕于那些能够改善患者诊疗或变革患者体验的创新。
 
 > [!quote]
 > "It is only when people who think differently come together that innovation happens."（p.186）
+>
+> 只有当思维方式不同的人汇聚在一起时，创新才会发生。
 
 > [!quote]
 > "UI partnerships are the only path through these myriad challenges."（p.187）
+>
+> 产学伙伴关系是穿越这些重重挑战的唯一路径。
 
 > [!quote]
 > "For every partnership we enter, we must ask ourselves: What does 'values alignment' mean? What counter currents are pulling us away from alignment, and how can we reconcile those forces to realign our goals, balance the model, and achieve innovation together?"（pp.190–191）
+>
+> 对于我们进入的每一个伙伴关系，我们必须问自己：这里的价值对齐意味着什么？什么反向潮流正在将我们拉离对齐？我们如何调和这些力量以重新对齐目标、平衡模型并共同实现创新？
 
 > [!quote]
 > "At some point, standard therapies fail patients with NCDs as well."（p.190）
+>
+> 在某个时间点，标准疗法对非传染性疾病（NCD）患者也会失效。
 
 ---
 
