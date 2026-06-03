@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/higher-education/Boundary Spanner.md",
-                "mode": "preview",
+                "file": "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Boundary Spanner"
+              "title": "Argument_Cheng_2026_KeJiChuangXin"
             }
           }
         ]
@@ -191,6 +191,17 @@
   },
   "active": "f290374ad363fcc2",
   "lastOpenFiles": [
+    "Sci-Tech Achievement Transformation.md",
+    "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
+    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
+    "wiki/concepts/higher-education/Partnership Continuum.md",
+    "wiki/concepts/industrial-innovation/Hidden Champions.md",
+    "books/Cheng_2026_KeJiChuangXin/Cheng_2026_KeJiChuangXin.md",
+    "wiki/concepts/higher-education/Background IP.md",
+    "wiki/concepts/higher-education/Boundary Spanner.md",
+    "fix_argument_links.py",
     "delete_concepts.py",
     "wiki/concepts/higher-education/Clinical Trial.md",
     "wiki/concepts/higher-education/Competitiveness.md",
@@ -198,34 +209,23 @@
     "wiki/concepts/higher-education/Academic Medical Center.md",
     "wiki/concepts/higher-education/Alumni Engagement.md",
     "wiki/concepts/higher-education/Academic Oligarchy.md",
-    "wiki/concepts/industrial-innovation/Hidden Champions.md",
     "wiki/concepts/sociology-of-education/Boarding Schools.md",
     "wiki/concepts/sociology-of-education/Champ.md",
     "wiki/concepts/technology-innovation/Society 5.0.md",
     "wiki/concepts/technology-innovation/Principal Status of Enterprises in Innovation.md",
     "wiki/concepts/technology-innovation/High-Quality Sci-Tech Supply.md",
-    "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
     "wiki/concepts/technology-innovation/Sci-Tech Achievement Transformation.md",
     "wiki/concepts/technology-innovation/Two Separate Skins Phenomenon.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Bang_2025_ClinicalTrials.md",
     "remove_headings.py",
     "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md",
-    "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
     "wiki/facts/us/Clinical Trials Transformation Initiative.md",
-    "wiki/facts/china/Xi'an Three Reforms on Sci-Tech Achievements.md",
-    "wiki/facts/china/Shenzhen Four 90 Percent Innovation Pattern.md",
-    "wiki/facts/japan/Tsukuba Science City.md",
     "wiki/concepts/higher-education/Translational Research.md.tmp.62161.b0fa00381aa4",
     "wiki/concepts/higher-education/Academic Medical Center.md.tmp.62161.85df4876f01d",
     "wiki/concepts/industrial-innovation",
-    "wiki/concepts/education/STEM Education.md",
     "wiki/concepts/education",
-    "wiki/facts/us/DARPA.md",
-    "wiki/facts/china/Jiebang Guashuai.md",
     "wiki/concepts/technology-innovation",
     "rewrite_argument.py",
-    "update_argument.py",
-    "wiki/arguments/books/Cheng_2026_KeJiChuangXin",
-    "books/Cheng_2026_KeJiChuangXin/Cheng_2026_KeJiChuangXin.pdf"
+    "update_argument.py"
   ]
 }
