@@ -6,10 +6,10 @@ extracted_to:
   - "[[Research Translation]]"
   - "[[CHIPS and Science Act]]"
   - "[[Universal Parallel Computing Research Centers]]"
-  - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Joint Faculty Appointments]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Semiconductor Research Corporation]]"
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
 processed_date: 2026-06-03
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

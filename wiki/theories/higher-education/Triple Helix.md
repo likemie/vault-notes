@@ -135,6 +135,7 @@ updated: 2026-06-02
 - [[Innovation Ecosystem]] — 三重螺旋模型为理解创新生态系统中大学、企业和政府三者的角色和互动提供了理论基础
 - 创新政策分析 — 用于评估不同国家的国家创新体系（[[Systems of Innovation|NIS]]）和政策工具的有效性
 - **国际 UI 合作障碍评估** — Rossoni et al.（2023）从三重螺旋、关系社会资本和[[Technology Transfer|技术转移]]三个[[Theoretical Perspective|理论视角]]，系统评估了产学研发与创新合作的障碍因素（Wolf et al., 2025, p.316）
+- **PPP 作为 Triple Helix 的组织制度化** — [[Public-Private Partnership in Research|公私合作伙伴关系（PPP）]] 是 Triple Helix 理论在组织层面的制度化实现形式：它规定了政产学三方在具体合作中的资金分担、决策权和知识产权归属规则。Ramming（2025, pp.233–236）从企业 AET 实践者角度识别了 PPP 设计的四个关键维度——治理、竞争理论、技术战略和知识产权——并展示了美国半导体行业三代 PPP 模式（UPCRC 企业先行 → SRC 行业联盟 → NSTC 国家制度化）如何构成 Triple Helix 从一次性项目到持久制度安排的递进演化
 
 ---
 
@@ -180,3 +181,4 @@ updated: 2026-06-02
 - [[Hall_Boccanfuso_2025_Springer_overview]]
 - [[Ch10_Swick_Jones_2025]]
 - [[Ch17_Wolf_Stevenson_Siegel_2025]]
+- [[Ch12_Ramming_2025]]

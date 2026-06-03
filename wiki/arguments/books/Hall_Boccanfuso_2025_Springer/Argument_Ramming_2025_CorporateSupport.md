@@ -21,17 +21,17 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Technology Transfer]]"
-  - "[[Variable]]"
+  - "[[Public-Private Partnership in Research]]"
   - "[[Return on Investment]]"
 related_theories:
   - "[[Triple Helix]]"
-related_methods:
-  - "[[Matching]]"
+related_methods: []
 related_facts:
   - "[[DARPA]]"
   - "[[Universal Parallel Computing Research Centers]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
+  - "[[Semiconductor Research Corporation]]"
 sources:
   - "[[Ch12_Ramming_2025]]"
 status: draft
@@ -220,7 +220,7 @@ updated: 2026-06-03
 |---------|---------|---------|---------|
 | **咨询协议** | 最短（数周到数月） | 解决具体产品工程问题，涉及保密参数和明确交付物 | 业务部门直接管理，AET 从旁跟踪以评估整体大学关系价值 |
 | **实习与访问教授** | 中期（数月到一年） | 学生实习（人才管道和项目贡献）、访问/休假期教授（深度技术合作） | 工程团队负责技术收益；人才招聘 AET 关注管道建设。培养早期职业教授关系需要多年心态，即使实习生最终成为教授而非员工，持续的合作关系仍是"赢" |
-| **联合教职** | 双重时间尺度 | 同时解决短期专有业务问题（企业雇员身份）和长期开放式研究（教授身份） | 大学 和 企业的共同关切，中央化 AET 可以在定义和执行阶段为双方提供支持（[[University Industry Demonstration Partnership\|UIDP]], 2024，转引自 p.230） |
+| **[[Joint Faculty Appointments\|联合教职]]** | 双重时间尺度 | 同时解决短期专有业务问题（企业雇员身份）和长期开放式研究（教授身份） | 大学和企业的共同关切，中央化 AET 可以在定义和执行阶段为双方提供支持（[[University Industry Demonstration Partnership\|UIDP]], 2024，转引自 p.230） |
 | **[[Sponsored Research Agreement\|赞助研究协议]]（SRA）** | 最长（3+ 年） | 开放式研究问题，产出为学术发表和人才培养，不保证可商业化成果 | 早期阶段由中央 AET 管理直到概念成熟到可以吸引业务部门跟进；邀请业务部门人员提供战略背景以引导研究方向，但不要求其全职参与 |
 
    核心原则：时间框架越短、目标越明确，合作越容易在分散化的业务单元中获得支持；时间框架越长、目标越开放，越需要中央化 AET 来孵育合作直到其成熟到可以被业务部门接管（pp.229–230）。
@@ -268,7 +268,7 @@ updated: 2026-06-03
 10. **政府和非营利部门的参与可以放大产学合作的资金规模和影响力，引入第三方资金和第三方视角，但代价是治理复杂性的指数级增长**
 
 > [!info] [[Triple Helix|三重螺旋]]的现实化
-> 政府日益以直接的合作伙伴，不仅是资助方身份进入产学合作。美国 2022 年 [[CHIPS 和 Science Act|CHIPS 与科学法案]]推动建立国家半导体技术中心（NSTC），[[National Science Foundation|NSF]] 启动技术、创新与合作（TIP）理事会，两者都以公私合作伙伴关系（PPP）为核心运作工具。对 AET 实践者而言，这些机制既提供了放大资金规模的机会（政府资金可以减轻企业的直接成本），也提供了塑造国家技术战略的话语权（pp.233–234）。
+> 政府日益以直接的合作伙伴——不仅是资助方——的身份进入产学合作。美国 2022 年 [[CHIPS and Science Act|CHIPS 与科学法案]]推动建立国家半导体技术中心（NSTC），[[National Science Foundation|NSF]] 启动技术、创新与合作（TIP）理事会——两者都以 [[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP） 为核心运作工具。对 AET 实践者而言，这些机制既提供了放大资金规模的机会（政府资金可以减轻企业的直接成本），也提供了塑造国家技术战略的话语权（pp.233–234）。
 
 > [!warning] 多利益相关方合作的四个关键决策点（pp.233–234）
 
@@ -279,7 +279,7 @@ updated: 2026-06-03
 | **技术战略** | PPP 的技术方向需要基于对生态系统中各参与者角色的深刻理解，即谁来定义"正确"的方向？ | 建立独立的技术咨询委员会、定期行业趋势扫描、允许成员公司"选择退出"特定技术轨道 |
 | **知识产权** | 多方投入资源，产出归谁？ | [[Precompetitive Research\|前竞争研究]] IP 共享（免版税）、平行商业开发权、明确退出条款 |
 
-   SRC（Semiconductor Research Corporation）是长期运作的 PPP 典范。资助前竞争阶段的大学研究，同时支持人才发展，参与公司包括直接竞争对手（p.235）。
+   [[Semiconductor Research Corporation|SRC]]（Semiconductor Research Corporation）是长期运作的 PPP 典范：资助 前竞争阶段的大学研究，同时支持人才发展，参与公司包括直接竞争对手（p.235）。
 
 ---
 
@@ -360,11 +360,11 @@ updated: 2026-06-03
 
 ---
 
-15. **故事的延续：从 UPCRC 到 NSTC，公私合作伙伴关系的制度化**
+15. **故事的延续：从 UPCRC 到 NSTC——[[Public-Private Partnership in Research|公私合作伙伴关系]]的制度化**
 
    UPCRC 之后，半导体行业的产学合作格局经历了持续演化（pp.235–236）。
 
-   - **SRC（Semiconductor Research Corporation）**：一个长期存在的行业 PPP，多家半导体公司（包括直接竞争对手）共同资助前竞争阶段的大学研究并支持人才发展，展示了"竞争者在研究层面合作"的制度化可能
+   - **[[Semiconductor Research Corporation|SRC]]（Semiconductor Research Corporation）**：一个长期存在的行业 PPP，多家半导体公司（包括直接竞争对手）共同资助 前竞争阶段的大学研究并支持人才发展，展示了"竞争者在研究层面合作"的制度化可能
    - **制造端的独立演化**：Intel 的制造部门继续推进工艺技术的尺寸缩放，SRC 是这一轨道的核心工具
    - **2020 年代的新格局**：随着尺寸缩放逼近渐近极限（Kim, 2024），fabless 公司（如 Nvidia）通过架构差异化在 AI 等关键应用中获得巨大竞争优势，其市值相对于制造商（Intel、TSMC）持续增长
    - **CHIPS 与科学法案（2022）**：计算能力日益成为国家安全资产，促使两党立法投入数百亿美元重振美国半导体产业。NSTC（国家半导体技术中心）的建立代表了 UPCRC 所开创的"企业+大学+政府"三方合作模式的制度化升级，从一次性项目变为持久制度安排
@@ -397,7 +397,7 @@ updated: 2026-06-03
 > - [[University-Industry Collaboration|产学合作]]在企业内部争取支持的最大困难不是大学侧的官僚程序或文化差异，而是**产学合作的多维价值无法还原为单一的财务指标**，中层的业务部门经理只能看懂自己管辖范围内的那一维，而能跨维度评估的高管层级太高、时间太稀缺（p.220）
 > - [[Academic Engagement Team|AET]] 的组织嵌入位置**结构性地决定了它能看见什么**，中央化有战略全局视野标但离产品现实较远，分散化深耕具体业务但容易忽略跨业务线的战略机会。没有一种位置是完美的，实践者的任务是识别自身位置的盲区并主动补偿（pp.222–223）
 > - **资助结构的调整本身就是管理工具**：移动预算从一个组织到另一个组织，就是重新定义产学合作服务谁的利益。五种资助结构（中央化运营预算、企业基金会、业务部门分布式、按职能、按技术领域）不是互斥的，最有效的 AET 通常组合使用多种来源（pp.228–229）
-> - **只有成熟行业领导者才可能感知并解决"全行业级别"的问题**，[[Universal Parallel Computing Research Centers|UPCRC]] 案例的深层教训是产学合作的最高价值有时不在于单个公司的产品回报，而在于推动整个技术生态系统的范式转换。从 UPCRC 到 SRC 再到 NSTC，半导体行业的三代公私合作模式揭示了一个递进趋势：从企业主导的一次性项目，到行业联盟的持续性合作，再到国家战略层面的制度化安排（pp.234–236）
+> - **只有成熟行业领导者才可能感知并解决"全行业级别"的问题**，[[Universal Parallel Computing Research Centers|UPCRC]] 案例的深层教训是产学合作的最高价值有时不在于单个公司的产品回报，而在于推动整个技术生态系统的范式转换。从 UPCRC 到 [[Semiconductor Research Corporation|SRC]] 再到 NSTC，半导体行业的三代公私合作模式揭示了一个递进趋势：从企业主导的一次性项目，到行业联盟的持续性合作，再到国家战略层面的制度化安排（pp.234–236）
 > - 2020 年代中期美国研发格局的结构性变化，中国在 S&E 发表量（2017 年超越）、研发支出、专利申请、KTI 制造产出 和 S&E 学位授予量等多个维度赶超或接近赶超美国（pp.236–237），为产学合作实践者创造了新的战略叙事。产学合作不仅是公司层面的[[Return on Investment|投资回报]]问题，更是国家竞争力层面的战略必需。[[National Science Foundation|NSF]] 的 2024 年 State of Science 报告 和 美国国家科学院（NAS）的 2024 年 State of Science Address 均将产学伙伴关系确定为关键机遇（pp.237–238）
 
 > [!info]- 核心数据
@@ -427,7 +427,7 @@ updated: 2026-06-03
 ## 自述局限
 
 > [!warning]
-> 内容主要面向企业侧的[[University-Industry Collaboration|产学合作]]实践者（"aimed primarily at supporting corporate practitioners of university collaboration"），对大学侧合作者的价值是间接的，帮助他们理解企业合作方的内部运作逻辑 和 决策压力（p.217）。属于实践指导型章节，分析 和 建议来自个人职业经验（[[DARPA]]、Intel、VMware），未声称具有系统性实证基础。不涵盖学术文献中关于组织设计、创新管理或公私合作伙伴关系的理论讨论。
+> 内容主要面向企业侧的[[University-Industry Collaboration|产学合作]]实践者（"aimed primarily at supporting corporate practitioners of university collaboration"），对大学侧合作者的价值是间接的，帮助他们理解企业合作方的内部运作逻辑 和 决策压力（p.217）。属于实践指导型章节，分析 和 建议来自个人职业经验（[[DARPA]]、Intel、VMware），未声称具有系统性实证基础。不涵盖学术文献中关于组织设计、创新管理或[[Public-Private Partnership in Research|公私合作伙伴关系]]的理论讨论。
 
 ---
 
