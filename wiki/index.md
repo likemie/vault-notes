@@ -1368,7 +1368,7 @@ Total entries: **1096**
 
 #### Policy
 
-- [[CHIPS and Science Act]] — 2022 年美国联邦法案，拨款超 100 亿美元设立 Tech Hubs 计划，同时为 NSF TIP 理事会提供资金，与通胀削减法案、重建更好法案共同授权数千亿美元支持创新区建设
+- [[CHIPS and Science Act]] — 2022 年美国联邦法案，拨款超 100 亿美元设立 Tech Hubs 计划，推动建立国家半导体技术中心作为大规模公私合作伙伴关系，同时为 NSF TIP 理事会提供资金，与通胀削减法案、重建更好法案共同授权数千亿美元支持创新区建设
 - [[Comprehensive School Reform Program]] — 1998 年 Obey-Porter 立法首次将联邦教育拨款与有效性证据挂钩（USD 150M→USD 310M/年），但仅 20.8% 拨款流向强证据项目
 - [[DARPA]] — 美国国防部下属的研究资助机构，以扁平化管理和“高风险、高回报”的容错机制著称，是互联网、GPS等众多颠覆性技术的策源地。
 - [[No Child Left Behind Act 2001]] — Bush 政府 ESEA 重新授权，“科学本位研究“出现 110 次，将实验证据标准嵌入联邦教育项目核心，ESSA (2015) 的前身

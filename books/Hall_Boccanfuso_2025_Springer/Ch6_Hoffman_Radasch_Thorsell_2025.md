@@ -10,10 +10,10 @@ extracted_to:
   - "[[University-Industry Collaboration]]"
   - "[[Industry Affiliate Program]]"
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
-  - "[[Precompetitive Research]]"
   - "[[Product-Specific Research]]"
   - "[[University-Based Research Center]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Precompetitive Research]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

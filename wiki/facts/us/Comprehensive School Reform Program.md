@@ -2,19 +2,18 @@
 title: Comprehensive School Reform Program
 aliases:
   - 综合学校改革项目
-  - CSR
 summary: "1998 年 Obey-Porter 立法首次将联邦教育拨款与有效性证据挂钩（USD 150M→USD 310M/年），但仅 20.8% 拨款流向强证据项目"
 type: fact
 subtype: policy
 region: us
-issuing_organization: ''
+issuing_organization: ""
 tags:
-- evidence-based-education
-- school-reform
-- comprehensive-school-reform
-- federal-funding
-- region/us
-- level/k12
+  - evidence-based-education
+  - school-reform
+  - comprehensive-school-reform
+  - federal-funding
+  - region/us
+  - level/k12
 related_concepts:
   - "[[Direct Instruction]]"
   - "[[Evidence-Based Reform]]"
@@ -31,8 +30,8 @@ sources:
   - "[[Slavin_2002_ER]]"
 confidence: high
 status: draft
-created: '2026-05-01'
-updated: '2026-05-18'
+created: 2026-05-01
+updated: 2026-05-18
 ---
 ## 背景
 

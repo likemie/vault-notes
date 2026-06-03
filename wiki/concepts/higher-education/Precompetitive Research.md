@@ -9,15 +9,18 @@ related_concepts:
   - "[[Translational Research]]"
   - "[[Product-Specific Research]]"
   - "[[Research Translation]]"
+  - "[[Public-Private Partnership in Research]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Semiconductor Research Corporation]]"
 related_arguments: []
 sources:
   - "[[Ch5_Narayan_Spohrer_2025]]"
   - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
+  - "[[Ch12_Ramming_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -64,7 +67,7 @@ updated: 2026-05-28
 ## 前竞争研究作为 PPP 设计原则
 
 > [!note]
-> 在 [[Public-Private Partnership in Research|公私合作伙伴关系（PPP）]] 中，前竞争研究的范围界定从单个项目的 IP 管理策略升级为**多边合作的核心制度设计原则**。当 PPP 包含直接彼此竞争的公司时——如 [[Semiconductor Research Corporation|SRC]] 的成员包括 Intel 及其直接竞争对手——合作与竞争之间的张力需要一个制度性解决方案：将合作的研究范围严格限定在前竞争阶段（Ramming, 2025, p.234）。
+> 在 [[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP） 中，前竞争研究的范围界定从单个项目的 IP 管理策略升级为**多边合作的核心制度设计原则**。当 PPP 包含直接彼此竞争的公司时——如 [[Semiconductor Research Corporation|SRC]] 的成员包括 Intel 及其直接竞争对手——合作与竞争之间的张力需要一个制度性解决方案：将合作的研究范围严格限定在前竞争阶段（Ramming, 2025, p.234）。
 
 > [!abstract] 制度逻辑
 > 前竞争范围的界定使竞争者可以在研究层面合作而不侵蚀各自在产品层面的竞争优势：
@@ -82,3 +85,4 @@ updated: 2026-05-28
 
 - [[Ch5_Narayan_Spohrer_2025]]
 - [[Ch6_Hoffman_Radasch_Thorsell_2025]]
+- [[Ch12_Ramming_2025]]

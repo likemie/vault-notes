@@ -125,7 +125,7 @@ Slavin (2002) 的 AERA 杰出讲座论文是该概念的**奠基性文献**。�
 **教育处于"下降螺旋"**：政策制定者看不到研究的相关性 → 研究资助不足 → 缺少大型决定性研究 → 政策制定者更不愿投资。证据本位改革旨在逆转此螺旋，创造**"上升螺旋"**：严格研究证明可复制项目有效 → 政策制定者增加资助 → 更多更好的研究 → 更多资助和更广泛的应用。(Slavin, 2002, pp. 16–17)
 
 Slavin (2002) 识别了三个正在涌现的政策窗口：
-- **[[Comprehensive School Reform Program|CSR]] 项目（1998）**：首次将联邦拨款与有效性证据挂钩——尽管执行中大多数资金仍流向未经证实的项目（仅 20.8% 流向强证据项目）（Slavin, 2002, p. 15）
+- **CSR 项目（1998）**：首次将联邦拨款与有效性证据挂钩——尽管执行中大多数资金仍流向未经证实的项目（仅 20.8% 流向强证据项目）（Slavin, 2002, p. 15）
 - **No Child Left Behind（2001）**：全文 110 次提及"科学本位研究"，将实验证据标准嵌入 Title I、Reading First 等核心联邦项目（Slavin, 2002, pp. 15–16）
 - **OERI 重组（2002）**：Whitehurst 制定战略计划，设定到 2004 年 75% 的因果研究使用[[Random Assignment|随机分配]]的目标（Slavin, 2002, p. 15）
 
@@ -167,7 +167,7 @@ Ross 与 Morrison 对三条件框架作了一个实践层面的补充：即使�
 ## 历史脉络
 
 
-- **1998** — [[Comprehensive School Reform Program|CSR]] 项目：首次将联邦教育拨款与有效性证据挂钩（Slavin, 2002, p. 15）
+- **1998** — CSR 项目：首次将联邦教育拨款与有效性证据挂钩（Slavin, 2002, p. 15）
 - **2001** — [[No Child Left Behind Act 2001|NCLB]] 通过，"科学本位研究"进入联邦教育法律核心文本（Slavin, 2002, pp. 15–16）
 - **2002** — Slavin 在 *Educational Researcher* 发表 "[[Evidence-Based Education]] Policies"，首次系统主张证据本位改革，提出开发-评估-推广范式和"基于研究 vs 经评估"的区分
 - **2009** — [[Investing in Innovation Program|i3]]（Investing in Innovation）拨款项目启动，采用分层证据结构（scale-up / validation / development），累计投入 USD 1.4B，资助 171 项目

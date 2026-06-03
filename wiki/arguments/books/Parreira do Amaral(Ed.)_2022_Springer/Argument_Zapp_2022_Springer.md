@@ -78,7 +78,7 @@ updated: '2026-05-18'
 > [!info]
 > 本章为理论-概念讨论（conceptual discussion），非实证研究。
 > - 方法：[[Literature Review|文献综述]]、概念分析、二次数据分析
-> - 数据来源：Zapp 整合了自身此前发表的多项实证研究作为论据——包括 Zapp (2017b) 对 1325+ 个国际组织 1970–2017 年科学产出与大学合作关系的分析、Zapp (2020a) 对 1947–2019 年逾 100 份国际组织全球报告的引用分析、Zapp & Lerch (2020) 对全球近 465,000 个学位项目的国际取向分析。此外还使用了 Corporate Register (2019) 的企业社会责任（Corporate Social Responsibility, [[Comprehensive School Reform Program|CSR]]）报告目录和 Global Reporting Initiative (2019) 的可持续发展披露数据库
+> - 数据来源：Zapp 整合了自身此前发表的多项实证研究作为论据——包括 Zapp (2017b) 对 1325+ 个国际组织 1970–2017 年科学产出与大学合作关系的分析、Zapp (2020a) 对 1947–2019 年逾 100 份国际组织全球报告的引用分析、Zapp & Lerch (2020) 对全球近 465,000 个学位项目的国际取向分析。此外还使用了 Corporate Register (2019) 的企业社会责任（Corporate Social Responsibility, CSR）报告目录和 Global Reporting Initiative (2019) 的可持续发展披露数据库
 
 ## 论证结构
 
@@ -136,7 +136,7 @@ Zapp 论证大学经历了两个层次的身份变化（pp.147–149）：
 
 > 例：二十年前，一个想在发展中国家做水供应项目的学生只能学土木工程，然后自己在工作中积累政策知识。现在，他可以直接申请 Manchester 的"Water Supply and Sanitation Policy in Developing Countries" MOOC 或 Gothenburg 的"From Research to Policy for Sustainable Development"博士项目。大学已经提前把"全球治理专家"这个职业路径课程化了。
 
-**机制三：内部政策对齐（Aligning Internal Policies）**。大学不仅对外声称支持 SDGs，也在内部落实。Zapp 发现了 [[University Social Responsibility|大学社会责任]]（USR）的制度化趋势——Corporate Register (2019) 和全球报告倡议组织（Global Reporting Initiative, GRI） (2019) 的数据库共列出全球 200+ 所大学的企业社会责任（Corporate Social Responsibility, [[Comprehensive School Reform Program|CSR]]）报告，其中大多数在过去 5 年内首次发布（Fig. 9.1）。大学校园正被改造为"活实验室"和"可持续发展试验台"——涵盖能源、水、交通、废物和食品的全系统可持续管理，并通过专门的办公室和组织单元实现正式制度化（pp.152–153）。
+**机制三：内部政策对齐（Aligning Internal Policies）**。大学不仅对外声称支持 SDGs，也在内部落实。Zapp 发现了 [[University Social Responsibility|大学社会责任]]（USR）的制度化趋势——Corporate Register (2019) 和全球报告倡议组织（Global Reporting Initiative, GRI） (2019) 的数据库共列出全球 200+ 所大学的企业社会责任（Corporate Social Responsibility, CSR）报告，其中大多数在过去 5 年内首次发布（Fig. 9.1）。大学校园正被改造为"活实验室"和"可持续发展试验台"——涵盖能源、水、交通、废物和食品的全系统可持续管理，并通过专门的办公室和组织单元实现正式制度化（pp.152–153）。
 
 > 例：这类似于企业从"我们合规了"到"我们在做环境、社会和治理（Environmental, Social and Governance, ESG）报告"的转变。一所大学不再只说"我们有化学实验室"，而是说"我们的化学实验室实现了零碳排放，使用的能源 100% 来自校园太阳能板，相关数据已在年度可持续发展报告中披露"。Zapp 用 Fig. 9.1 展示这种转变的加速：1990 年几乎没有大学发布 CSR 报告，到 2020 年超过 150 所——指数级增长。
 
@@ -197,7 +197,7 @@ Zapp 的最终判断（p.157）：大学已经跃入全球治理的舞台，但�
 
 ### 内部政策对齐：大学社会责任的制度化
 
-- Corporate Register (2019) 和全球报告倡议组织（GRI, 2019）数据库共列出全球 200+ 所大学的企业社会责任（[[Comprehensive School Reform Program|CSR]]）报告，大多数在过去 5 年内首次发布，呈指数增长趋势（Fig. 9.1, pp.152–153），参见 [[University Social Responsibility]]
+- Corporate Register (2019) 和全球报告倡议组织（GRI, 2019）数据库共列出全球 200+ 所大学的企业社会责任（CSR）报告，大多数在过去 5 年内首次发布，呈指数增长趋势（Fig. 9.1, pp.152–153），参见 [[University Social Responsibility]]
 - 可持续发展已被视为大学的新型"[[Third Mission (Universities)|第三使命]]"甚至"宏大挑战"（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013，p.150）
 - 2005 年 Carnegie Foundation 引入社区参与分类，旨在从根本上改变大学与社区的关系（Driscoll, 2009，p.149）
 
@@ -244,7 +244,7 @@ Zapp 的最终判断（p.157）：大学已经跃入全球治理的舞台，但�
 > [!warning]
 > - **作者自述局限**：本章为概念性讨论而非系统性实证研究，四种机制的识别基于二次数据和[[Literature Review|文献综述]]，需要更多一手实证研究验证大学在全球治理中的实际影响力（p.157）
 > - **方法论局限**：本章未提供系统的跨国比较或[[Causality|因果推断]]；案例选择偏向欧洲和北美知名大学，可能高估大学参与全球治理的普遍程度——南半球和资源匮乏的大学是否也在经历同样的转型，存疑
-> - **过度推论风险**：将 [[Comprehensive School Reform Program|CSR]] 报告、SDG 课程数量等组织表层变化直接等同于大学实质性参与全球治理，可能存在"口头采纳"（talk）与"实际行动"（action）之间的落差。正如批评者对新制度主义的常见质疑——组织可能在正式结构中采纳全球规范（"我们支持 [[UN Sustainable Development Goals|SDGs]]"），但在核心运作中维持旧有逻辑
+> - **过度推论风险**：将 CSR 报告、SDG 课程数量等组织表层变化直接等同于大学实质性参与全球治理，可能存在"口头采纳"（talk）与"实际行动"（action）之间的落差。正如批评者对新制度主义的常见质疑——组织可能在正式结构中采纳全球规范（"我们支持 [[UN Sustainable Development Goals|SDGs]]"），但在核心运作中维持旧有逻辑
 > - **理论局限**：[[World Society Theory|世界社会理论]]倾向于强调全球[[Cultural Models|文化模型]]的扩散与同构，可能低估国家权力、地缘政治冲突和市场逻辑对大学行为的持续塑造作用。Zapp 自己在结论部分对这个立场有微妙调整——他承认大学"同时是许多主人的仆人"
 
 ## 来源

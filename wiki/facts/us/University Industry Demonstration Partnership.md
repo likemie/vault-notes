@@ -88,6 +88,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 
 - **Academic Research Engagement Teams (ARET)**：提供企业在战略性对接大学时可采用的不同报告结构概览，涵盖 ARET 在企业中的位置、人员配置和资金来源（Boccanfuso & Hall, 2025, pp.18–19）
 - **Insights for Researchers**：汇编来自 15 个以上 UIDP 出版物的研究者导向指南，帮助研究人员理解其大学和企业同行在合作者识别、预算和知识产权等问题上的视角（Boccanfuso & Hall, 2025, p.18）
+- **[[Joint Faculty Appointments|联合教职]]报告（2024）**：发布 *The Evolution and Impact of Joint Faculty Employment in University-Industry Collaborations*，系统分析联合教职作为产学合作新兴模式的实践与影响（UIDP, 2024，转引自 Ramming, 2025, p.230）。详见 [[Joint Faculty Appointments]]
 
 ---
 
@@ -152,3 +153,4 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 - [[Ch10_Swick_Jones_2025]]
 - [[Ch15_Susalka_Carbone_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]
+- [[Ch12_Ramming_2025]]

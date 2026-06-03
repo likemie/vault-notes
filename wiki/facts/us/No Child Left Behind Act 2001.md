@@ -57,7 +57,7 @@ updated: '2026-05-23'
 > - **Title I** — 为高贫困学校提供补充资金
 > - **Reading First** — K–3 年级阅读教学
 > - **Early Reading First** — 学前阅读项目
-> - **Comprehensive School Reform ([[Comprehensive School Reform Program|CSR]])**
+> - **Comprehensive School Reform (CSR)**
 > - 以及其他多个组成部分
 >
 > ESEA 整体拨款因该法案增加了 **18%**，为"有史以来最大增幅"。(Slavin, 2002, p. 16)
