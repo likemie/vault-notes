@@ -13,11 +13,13 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[University-Industry Collaboration]]"
   - "[[Academic Medical Center]]"
+  - "[[Fair Market Value]]"
   - "[[Master Protocol]]"
   - "[[Analytic Framework]]"
   - "[[Translational Research]]"
   - "[[Institutional Review Board]]"
   - "[[Performance Indicators]]"
+  - "[[Contract Research Organization]]"
   - "[[Return on Investment]]"
   - "[[Preregistration]]"
   - "[[Research Question]]"
@@ -25,7 +27,9 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Clinical Trials Transformation Initiative]]"
+  - "[[Sunshine Act]]"
 related_arguments: []
 sources:
   - "[[Ch11_Bang_2025]]"
@@ -45,7 +49,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > 生物制药行业的[[Clinical Trial|临床试验]]是[[University-Industry Collaboration|产学合作]]中资金规模最大的交汇领域——产业方提供资金、监管专长和规模化能力，大学及[[Academic Medical Center|学术医学中心]]贡献前沿研究、方法论创新和多样化患者人群。然而，在实际运作中，学术机构的预算结构、多层审查制度和漫长的启动周期，与产业方对速度和成本效率的追求之间，存在持续的结构性摩擦。
 >
 > 具体而言，三组矛盾构成了核心追问：
-> - 为什么产业方按公平市场价值编制的预算，在进入学术机构后会被管理费（间接成本）显著推高，以至于国际基地以六分之一的价格就构成替代方案？
+> - 为什么产业方按[[Fair Market Value|公平市场价值]]编制的预算，在进入学术机构后会被管理费（间接成本）显著推高，以至于国际基地以六分之一的价格就构成替代方案？
 > - 为什么学术机构的临床试验启动流程经常超过六个月甚至一年，而非学术基地可以在 45–90 天内完成激活？
 > - 产学双方在法律、知识产权和合规层面的互不信任从何而来，又有哪些机制——如多利益相关方合作、[[Master Protocol|主方案]]设计和技术工具——已被验证能够缓解这些摩擦？
 
@@ -65,7 +69,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 研究方法
 
 > [!info] 从业者经验综述
-> 全文为一线从业者的行业经验分析，不属于实证研究。Soo Bang 曾任 Pfizer、Celgene、Bristol Myers Squibb 高管，负责过[[Clinical Trial|临床试验]]合同管理、外包、企业联盟和产品商业化，现任 K36 Therapeutics 战略与运营高级副总裁。论证基础来自其行业管理经验，辅以临床试验转型倡议（Clinical Trials Transformation Initiative, CTTI）的公开项目报告和 IQVIA 研究所（IQVIA Institute for Human Data Science）的行业趋势数据。
+> 全文为一线从业者的行业经验分析，不属于实证研究。Soo Bang 曾任 Pfizer、Celgene、Bristol Myers Squibb 高管，负责过[[Clinical Trial|临床试验]]合同管理、外包、企业联盟和产品商业化，现任 K36 Therapeutics 战略与运营高级副总裁。论证基础来自其行业管理经验，辅以[[Clinical Trials Transformation Initiative|临床试验转型倡议]]（Clinical Trials Transformation Initiative, CTTI）的公开项目报告和 IQVIA 研究所（IQVIA Institute for Human Data Science）的行业趋势数据。
 
 ---
 
@@ -93,7 +97,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 一期临床试验管线产品按药物类别（传统小分子、生物制剂、基因和细胞治疗等）均呈上升态势，其中生物制剂和下一代疗法的增速尤为显著。在肿瘤学领域，免疫肿瘤治疗和精准医学方法构成了增长主力，针对罕见和非罕见癌症的试验在过去十年中同步扩张（p.202）。
 
-虽然大部分制药临床前研究通过合同研究组织（Contract Research Organization, CRO）以雇佣作品（work for hire）方式进行或由内部完成，但在某些例外情形下，大学教师的实验室拥有产业方希望使用的专有细胞模型、类器官模型或动物模型。大学与产业方在临床前和[[Translational Research|转化研究]]中的合作，为人体临床试验中的关键问题提供支持性数据（p.203）。
+虽然大部分制药临床前研究通过[[Contract Research Organization|合同研究组织]]（Contract Research Organization, CRO）以雇佣作品（work for hire）方式进行或由内部完成，但在某些例外情形下，大学教师的实验室拥有产业方希望使用的专有细胞模型、类器官模型或动物模型。大学与产业方在临床前和[[Translational Research|转化研究]]中的合作，为人体临床试验中的关键问题提供支持性数据（p.203）。
 
 > [!abstract] 从实验室到临床的链条
 > [[University-Industry Collaboration|产学合作]]不是从临床试验启动那一刻才开始的。临床前和转化研究的合作铺设了从实验室到人体的桥梁——大学的专有生物模型回答了产业方无法在内部解答的问题，这些数据随后进入人体试验设计。由此可以理解，为什么大学在这个链条中的位置无法被 CRO 或社区医院完全替代：它们不仅执行试验，还在试验启动之前就参与了科学问题的定义。
@@ -134,7 +138,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ### 第二部分：四组结构性摩擦
 
-**5. 公平市场价值（Fair Market Value）与学术机构管理费之间的落差，构成第一组也是最根本的预算矛盾**
+**5. [[Fair Market Value|公平市场价值]]（Fair Market Value）与学术机构管理费之间的落差，构成第一组也是最根本的预算矛盾**
 
 产业方编制的临床试验预算按照公平市场价值原则制定：产业方通过订阅 Grant Plan® 和 Grants Manager® 等成本数据共享服务，跨不同试验阶段、治疗领域和地理区域比较实际谈判预算，确保提出的成本不构成对机构的诱导参与或不当影响（pp.205–206）。
 
@@ -155,7 +159,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 **6. 启动速度缓慢源于合同、预算和委员会审查的多层串行机制**
 
-临床试验转型倡议（Clinical Trials Transformation Initiative, CTTI）发起的基地度量项目（site metrics project）旨在按基地类型和 IRB 类型分析启动度量指标（p.206）。研究发现，缺乏统一的临床试验合同和预算标准——包括语言和解释的不一致——造成了严重延误，尤其在赔偿（indemnification）和知识产权（Intellectual Property, IP）等争议性条款上（pp.206–207）。
+[[Clinical Trials Transformation Initiative|临床试验转型倡议]]（Clinical Trials Transformation Initiative, CTTI）发起的基地度量项目（site metrics project）旨在按基地类型和 IRB 类型分析启动度量指标（p.206）。研究发现，缺乏统一的临床试验合同和预算标准——包括语言和解释的不一致——造成了严重延误，尤其在赔偿（indemnification）和知识产权（Intellectual Property, IP）等争议性条款上（pp.206–207）。
 
 > [!warning] 学术机构的启动瓶颈全景
 > 一个临床试验从被选中到可以开始招募患者，需要经过以下串行流程（每一步都需要数周到数月）：
@@ -200,7 +204,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [!warning] 利益冲突的三个层面
 > - **个人层面**：产业方向教师的直接支付（如演讲费）的管理；启动相关的利益冲突
 > - **机构层面**：当大学持有专利或在试验性疗法商业化后有望获得经济利益时，出现机构性利益冲突。随着临床试验向市场批准推进，大学应仔细评估和积极管理这些冲突，以确保研究过程的诚信（p.209）
-> - **披露层面**：《阳光法案》（Sunshine Act）作为《平价医疗法案》（Affordable Care Act）的一部分，要求制药和医疗器械公司向美国卫生与公众服务部报告向医生和教学医院支付的款项——包括咨询费、研究资助和差旅费。这些支付可通过公开支付数据库（Open Payments database）查询。法律的目标是通过信息公开来增加透明度并防止利益冲突。临床试验支付虽需披露，但某些研究相关支付可申请延迟公开以保护发表前的保密信息（pp.208–209）
+> - **披露层面**：《[[Sunshine Act|阳光法案]]》（Sunshine Act）作为《平价医疗法案》（Affordable Care Act）的一部分，要求制药和医疗器械公司向美国卫生与公众服务部报告向医生和教学医院支付的款项——包括咨询费、研究资助和差旅费。这些支付可通过公开支付数据库（Open Payments database）查询。法律的目标是通过信息公开来增加透明度并防止利益冲突。临床试验支付虽需披露，但某些研究相关支付可申请延迟公开以保护发表前的保密信息（pp.208–209）
 
 > [!note] 其他影响因素
 > - **发表**：多中心试验发表的独特问题、发表时机、试验[[Preregistration|预注册]]、阴性和阳性结果的发表义务（p.208）
@@ -342,10 +346,10 @@ Table 11.2 提供了临床试验启动度量指标的详细对比，揭示学术
 
 > [!success] 核心结论
 > - [[Clinical Trial|临床试验]]是[[University-Industry Collaboration|产学合作]]中资金规模最大的领域，但其运作依赖于大学和医学中心提供的庞大机构基础设施——研究管理、试验协调、数据管理、试验药房和 [[Institutional Review Board|IRB]]——这些设施的成本最终反映在学术机构的管理费率和启动时间中（pp.201–202, 205–206）
-> - 产业方按公平市场价值编制的预算与学术机构 20%–35% 的间接成本率之间存在结构性张力；国际基地的成本有时仅为美国[[Academic Medical Center|学术医学中心]]的六分之一，构成持续的竞争压力（pp.205–206）
+> - 产业方按[[Fair Market Value|公平市场价值]]编制的预算与学术机构 20%–35% 的间接成本率之间存在结构性张力；国际基地的成本有时仅为美国[[Academic Medical Center|学术医学中心]]的六分之一，构成持续的竞争压力（pp.205–206）
 > - 学术机构启动缓慢的根源在于多层委员会审查的串行机制、合同与预算语言的反复协商、以及外包带来的额外行政瓶颈；典型学术机构启动时间超过 120 天，部分延长至一年以上（pp.206–208）
 > - 法律、财务和合规团队的各自为政加剧了产学双方的误解和不信任；学术医学中心在招募第一个患者前的管理和启动成本平均为 $25,000 至 $200,000（p.208）
-> - 多利益相关方合作机制——特别是 CTTI——已发布超过 30 套基于证据的建议来改善试验质量和效率，但效果高度依赖机构层面的投入程度（pp.210–211）
+> - 多利益相关方合作机制——特别是 [[Clinical Trials Transformation Initiative|CTTI]]——已发布超过 30 套基于证据的建议来改善试验质量和效率，但效果高度依赖机构层面的投入程度（pp.210–211）
 > - 拥有高效 PI 和专门研究支持团队的机构可以在 60 天内完成激活，持续达到这一基准的机构将显著提升对产业方的吸引力（pp.210–211）
 > - [[Master Protocol|主方案]]的三种类型（篮式、伞式、平台试验）通过整合多研究目标于单一框架，实现了效率提升、成本降低和多方协作的重新对齐；Beat AML 的 11 中心 + 12 产业方 + 4 基因组实验室模式提供了可复制的参考范例（pp.212–214）
 > - AI、RWE 和适应性设计的融合正在重塑临床试验的现代化路径，能够利用技术和海量医疗数据提升绩效的机构将继续成为产业方的核心合作伙伴（pp.214–215）
@@ -379,7 +383,7 @@ Table 11.2 提供了临床试验启动度量指标的详细对比，揭示学术
 ## 自述局限
 
 > [!warning]
-> 全文为单一位从业者的行业经验分析，未采用系统性的[[Literature Review|文献综述]]或实证研究方法。所有数据和使用案例来自 Soo Bang 在 Pfizer、Celgene、Bristol Myers Squibb 等公司的管理经验及公开行业报告（包括 CTTI 项目报告和 IQVIA 研究所数据），论证视角偏向产业方。大学行政管理方的立场、应对策略和内部制度逻辑未被同等呈现。此外，文中引用的启动时间和成本数据主要基于美国市场，未必适用于其他国家的[[Clinical Trial|临床试验]]生态。
+> 全文为单一位从业者的行业经验分析，未采用系统性的[[Literature Review|文献综述]]或实证研究方法。所有数据和使用案例来自 Soo Bang 在 Pfizer、Celgene、Bristol Myers Squibb 等公司的管理经验及公开行业报告（包括 [[Clinical Trials Transformation Initiative|CTTI]] 项目报告和 IQVIA 研究所数据），论证视角偏向产业方。大学行政管理方的立场、应对策略和内部制度逻辑未被同等呈现。此外，文中引用的启动时间和成本数据主要基于美国市场，未必适用于其他国家的[[Clinical Trial|临床试验]]生态。
 
 ---
 

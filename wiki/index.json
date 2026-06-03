@@ -1313,6 +1313,16 @@
     ]
   },
   {
+    "title": "Contract Research Organization",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Contract Research Organization.md",
+    "aliases": [
+      "CRO",
+      "合同研究组织",
+      "contract research organizations"
+    ]
+  },
+  {
     "title": "Cooperative Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Cooperative Education.md",
@@ -1468,6 +1478,17 @@
       "executive training",
       "professional executive education",
       "non-degree professional education"
+    ]
+  },
+  {
+    "title": "Fair Market Value",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Fair Market Value.md",
+    "aliases": [
+      "公平市场价值",
+      "fair market value",
+      "FMV",
+      "fair market value budget"
     ]
   },
   {
@@ -8799,6 +8820,15 @@
     ]
   },
   {
+    "title": "Clinical Trials Transformation Initiative",
+    "type": "fact",
+    "path": "wiki/facts/us/Clinical Trials Transformation Initiative.md",
+    "aliases": [
+      "CTTI",
+      "临床试验转型倡议"
+    ]
+  },
+  {
     "title": "CNCS Evidence Exchange",
     "type": "fact",
     "path": "wiki/facts/us/CNCS Evidence Exchange.md",
@@ -9087,6 +9117,17 @@
     "path": "wiki/facts/us/Success for All.md",
     "aliases": [
       "全面成功计划"
+    ]
+  },
+  {
+    "title": "Sunshine Act",
+    "type": "fact",
+    "path": "wiki/facts/us/Sunshine Act.md",
+    "aliases": [
+      "阳光法案",
+      "Physician Payments Sunshine Act",
+      "Open Payments",
+      "开放支付"
     ]
   },
   {

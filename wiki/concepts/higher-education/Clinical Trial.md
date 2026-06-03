@@ -19,10 +19,12 @@ related_concepts:
   - "[[Academic Medical Center]]"
   - "[[Translational Research]]"
   - "[[Return on Investment]]"
+  - "[[Contract Research Organization]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Clinical Trials Transformation Initiative]]"
 related_arguments: []
 sources:
   - "[[Ch11_Bang_2025]]"
@@ -62,7 +64,7 @@ updated: 2026-06-03
 > [!tip]
 > 临床试验的运作嵌入在[[University-Industry Collaboration|产学合作]]框架下：生物制药产业提供资金、监管专业知识和规模化实施能力，大学和[[Academic Medical Center|学术医学中心]]贡献前沿研究、方法论进展和多样化患者人群（p.215）。[[Translational Research]]（转化研究）构成从实验室发现到临床试验的关键桥梁——大学教师的实验室拥有产业方希望使用的专有细胞模型、类器官模型或动物模型，临床前和转化研究的合作为人体临床试验提供支持性数据（p.203）。
 
-产业方在选择试验基地时需评估三个核心因素：试验可行性、预期[[Return on Investment|投资回报]]（[[Return on Investment]]）以及成功概率——既包括实现科学目标（达成主要和次要终点），也包括确保运营执行的顺畅（pp.203–205）。试验可通过合同研究组织（CRO）、产业方不同职能部门（转化研究、临床开发或医学事务）或大学主动联系产业方等渠道发起（pp.204–205）。
+产业方在选择试验基地时需评估三个核心因素：试验可行性、预期[[Return on Investment|投资回报]]（[[Return on Investment]]）以及成功概率——既包括实现科学目标（达成主要和次要终点），也包括确保运营执行的顺畅（pp.203–205）。试验可通过[[Contract Research Organization|合同研究组织]]（CRO）、产业方不同职能部门（转化研究、临床开发或医学事务）或大学主动联系产业方等渠道发起（pp.204–205）。
 
 ---
 
@@ -73,7 +75,7 @@ updated: 2026-06-03
 > - 国际试验基地的成本有时仅为美国[[Academic Medical Center|学术医学中心]]（[[Academic Medical Center]]）的六分之一，对高管理费的美国学术机构构成巨大竞争压力（p.206）。
 > - 学术机构的试验启动流程通常需要 120 天以上，有的延长至一年以上；在招募第一个患者之前的管理费和启动成本平均为 $25,000 至 $200,000（pp.206, 208）。
 > - 拥有高效研究支持团队的机构可以在 60 天内完成试验激活，远优于典型学术机构的表现（pp.210–211）。
-> - 多利益相关方合作——特别是 Clinical Trials Transformation Initiative (CTTI)——已发布超过 30 套基于证据的建议、框架和工具来改善试验质量和效率（p.210）。
+> - 多利益相关方合作——特别是 [[Clinical Trials Transformation Initiative]] (CTTI)——已发布超过 30 套基于证据的建议、框架和工具来改善试验质量和效率（p.210）。
 
 ---
 
