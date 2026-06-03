@@ -23,6 +23,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Internal Validity]]"
+  - "[[Clinical Trial]]"
   - "[[Side Effects]]"
   - "[[School Leadership]]"
   - "[[Validity as Inferences]]"
@@ -220,7 +221,7 @@ updated: '2026-05-18'
 >
 > Zhao（2017）从医学类比的完整性角度对 RCT 在教育中的应用提出了一个此前未被充分讨论的批评：教育从医学借鉴了 RCT 这一方法论工具，但**系统性忽略了医学中更重要的配套制度——副作用的系统性研究与报告**。
 >
-> FDA 要求临床试验必须同时报告有效性（efficacy）和不良事件（adverse events），并建立上市后监测（post-marketing surveillance）制度持续跟踪。相比之下，教育 RCT ——包括 WWC 和 EEF 委托的试验——仅报告干预对预设结果的 [[Effect Size|效应量]]，不系统收集或报告干预可能对学生的其他维度（如创造力、自主学习动机、学科态度）产生的非预期影响。如 Zhao（2017, p.4）所述："我未找到任何教育产品附带类似药品的警告标签"。
+> FDA 要求[[Clinical Trial|临床试验]]必须同时报告有效性（efficacy）和不良事件（adverse events），并建立上市后监测（post-marketing surveillance）制度持续跟踪。相比之下，教育 RCT ——包括 WWC 和 EEF 委托的试验——仅报告干预对预设结果的 [[Effect Size|效应量]]，不系统收集或报告干预可能对学生的其他维度（如创造力、自主学习动机、学科态度）产生的非预期影响。如 Zhao（2017, p.4）所述："我未找到任何教育产品附带类似药品的警告标签"。
 >
 > 这一批评与之前 RCT 批评者的论点互补但不同：(1) Wrigley & McCusker 批评 RCT 方法论本身的失真（三级聚合）；(2) Wiliam 批评 RCT 知识的局部与临时性；(3) Zhao 批评的是即使 RCT 方法正确，教育 RCT 的**评估范围**本身就不完整——只测量预期效果而忽略副作用。
 >

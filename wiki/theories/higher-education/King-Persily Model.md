@@ -13,6 +13,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Clinical Trial]]"
   - "[[Academic Health System]]"
   - "[[Informed Consent]]"
 related_theories: []
@@ -42,7 +43,7 @@ updated: 2026-06-02
 > [!abstract]
 > King-Persily 模型的核心命题包含两个维度（pp.188–189）：
 > - **数据访问与学术独立的平衡**：第三方委员会负责审查数据访问请求，确保研究者在获得必要数据的同时，产业伙伴的专有信息不被泄露。这既保护了学术研究的独立性，也回应了产业对数据安全的关切。
-> - **适用于数据密集型合作场景**：该模型尤其适用于那些分析对象本身就是产业持有的数据（如社交媒体平台数据、患者数据、临床试验数据）的[[University-Industry Collaboration|产学合作]]项目。
+> - **适用于数据密集型合作场景**：该模型尤其适用于那些分析对象本身就是产业持有的数据（如社交媒体平台数据、患者数据、[[Clinical Trial|临床试验]]数据）的[[University-Industry Collaboration|产学合作]]项目。
 
 ## 在生物医学创新中的适用性
 

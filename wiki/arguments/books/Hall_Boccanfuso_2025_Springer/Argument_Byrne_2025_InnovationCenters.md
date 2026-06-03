@@ -19,6 +19,7 @@ related_concepts:
   - "[[Placemaking]]"
   - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"
+  - "[[Clinical Trial]]"
   - "[[University-Industry Co-location]]"
   - "[[Further Education]]"
   - "[[International Education]]"
@@ -168,7 +169,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 8. 任何[[University-Industry Collaboration|产学合作]]的第一步，应当从"我们实际上有什么"出发，而非从"我们想建一个硅谷"出发（pp.126–128）。这就是[[Asset Mapping|资产映射]]的核心。
 
-9. 大型大学拥有研究中心、实验室、专利、校友网络、产业关系等丰富资源，但这些资源往往分散在不同的院系和研究所里，运作在平行孤岛（parallel silos）中。管理学院在做创业孵化，工程学院在做[[Technology Transfer|技术转移]]，医学院在做临床试验，各自有产业伙伴，但彼此之间几乎没有协调（p.126）。
+9. 大型大学拥有研究中心、实验室、专利、校友网络、产业关系等丰富资源，但这些资源往往分散在不同的院系和研究所里，运作在平行孤岛（parallel silos）中。管理学院在做创业孵化，工程学院在做[[Technology Transfer|技术转移]]，医学院在做[[Clinical Trial|临床试验]]，各自有产业伙伴，但彼此之间几乎没有协调（p.126）。
 
 10. 资产映射系统地把这些分散的资产梳理出来，建立一张"谁有什么、谁需要什么"的地图。其实质是真实的关系建立（authentic relationship building），通过与每个利益相关者坐下来对话，了解他们的优势、需求和优先事项。这区别于填表格或做问卷调查，因为后者能收集数据却无法建立信任（p.126）。
 

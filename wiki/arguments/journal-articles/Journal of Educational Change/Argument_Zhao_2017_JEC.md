@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Side Effects]]"
+  - "[[Clinical Trial]]"
   - "[[Literature Review]]"
   - "[[Direct Instruction]]"
   - "[[Causality]]"
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 ## 理论框架
 
 > [!abstract] 理论框架
-> 以医学研究为类比框架：FDA 要求新药研发必须同时报告有效性和不良事件，临床试验和上市后监测均需持续跟踪副作用。教育研究既无此信念，也无此要求。
+> 以医学研究为类比框架：FDA 要求新药研发必须同时报告有效性和不良事件，[[Clinical Trial|临床试验]]和上市后监测均需持续跟踪副作用。教育研究既无此信念，也无此要求。
 
 ## 研究方法
 

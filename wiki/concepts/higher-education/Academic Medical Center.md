@@ -14,6 +14,7 @@ related_concepts:
   - "[[Academic Health System]]"
   - "[[Applied Medical Innovation]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Clinical Trial]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -59,7 +60,7 @@ AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基
 ## 在产学合作中的角色
 
 > [!note]
-> AMC 在[[University-Industry Collaboration|产学合作]]中通常以研究伙伴或临床试验场所的角色参与（pp.179–181）：
+> AMC 在[[University-Industry Collaboration|产学合作]]中通常以研究伙伴或[[Clinical Trial|临床试验]]场所的角色参与（pp.179–181）：
 > - 作为大学的一部分，AMC 具备基础科研和临床研究能力
 > - 可以在其教学医院中开展临床试验
 > - 但其组织结构（学术-临床二元）意味着产业创新的维度——如产品开发、规模化验证、跨系统部署——超出了 AMC 的核心使命和制度能力

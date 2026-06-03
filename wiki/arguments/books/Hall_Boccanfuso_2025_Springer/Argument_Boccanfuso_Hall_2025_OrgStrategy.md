@@ -24,6 +24,7 @@ related_concepts:
   - "[[Professors of Practice]]"
   - "[[Cooperative Education]]"
   - "[[Executive Education]]"
+  - "[[Clinical Trial]]"
   - "[[Innovation Park]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Concierge Service]]"
@@ -131,7 +132,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 - **教育**：产业从业者作为兼职讲师或[[Professors of Practice|实践教授]]授课、产业参与课程设计、实习与[[Cooperative Education|合作教育]]（co-ops）、面向产业员工的[[Executive Education|高管教育]]、在线项目、产业导向的学生社团
 - **研究**：产业赞助研究、联合体与联盟、联合聘用（joint appointments）、设施与数据共享、联合争取政府资助
-- **临床**：产业赞助临床试验、诊所与医院整合、临床创新项目——仅适用于有学术医疗中心的大学
+- **临床**：产业赞助[[Clinical Trial|临床试验]]、诊所与医院整合、临床创新项目——仅适用于有学术医疗中心的大学
 - **辅助/行政**：战略采购、联合产品开发、会议设施使用——这些不直接涉及学术，但涉及可观的产业合作
 - **经济/社区发展**：孵化器、[[Innovation Park|创新园区]]、技术许可、初创企业投资、小企业技术支持、标准制定
 

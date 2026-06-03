@@ -12,7 +12,8 @@ tags:
   - "theme/innovation"
   - "theme/innovation-policy"
   - "level/higher-education"
-related_concepts: []
+related_concepts:
+  - "[[Clinical Trial]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Luhmann's Systems Theory]]"
@@ -78,7 +79,7 @@ Kline 和 Rosenberg（1986）提出了耦合模型（也称"链环模型"），�
 ### 代际共存而非替代
 
 > [!important]
-> Caraça 等人（2009）指出，尽管上述模型通常被呈现为五代"代际更替"，但在现实中它们是共存的——不同情境调用不同的理解方式。例如：制药行业的药物"发现"阶段仍然很像第一代技术推动（基础生物学突破→寻找药物靶点），但临床试验阶段高度依赖第四代网络化协作（与医院、监管机构、患者群体同时互动）。"同一家公司、同一种药，前一半走线性、后一半走系统。"
+> Caraça 等人（2009）指出，尽管上述模型通常被呈现为五代"代际更替"，但在现实中它们是共存的——不同情境调用不同的理解方式。例如：制药行业的药物"发现"阶段仍然很像第一代技术推动（基础生物学突破→寻找药物靶点），但[[Clinical Trial|临床试验]]阶段高度依赖第四代网络化协作（与医院、监管机构、患者群体同时互动）。"同一家公司、同一种药，前一半走线性、后一半走系统。"
 
 ---
 

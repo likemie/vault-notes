@@ -44,6 +44,7 @@ related_concepts:
   - "[[Industry Affiliate Program]]"
   - "[[Master Agreement]]"
   - "[[Proof of Concept Programs]]"
+  - "[[Clinical Trial]]"
   - "[[Multi-University]]"
   - "[[Partnership Continuum]]"
   - "[[Innovation Park]]"
@@ -295,7 +296,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 另有少数大学完全去中心化，没有集中办公室。
 
 > [!warning]
-> 但没有任何一个模式是真正全面的：中心办公室的典型角色是"导航者"（navigator）或"礼宾"（[[Concierge Service|concierge]]），而非直接的"负责者"（responsible）。临床和辅助活动极少在中心办公室的网站描述中被提及；办公室平均仅覆盖 12 个活动领域中的 3.5 个。协议执行仍分散在专业单位中——赞助项目办公室处理赞助研究合同、技术许可办公室处理知识产权许可、临床试验办公室处理临床研究（Boccanfuso & Hall, 2025, pp.62–67）。
+> 但没有任何一个模式是真正全面的：中心办公室的典型角色是"导航者"（navigator）或"礼宾"（[[Concierge Service|concierge]]），而非直接的"负责者"（responsible）。临床和辅助活动极少在中心办公室的网站描述中被提及；办公室平均仅覆盖 12 个活动领域中的 3.5 个。协议执行仍分散在专业单位中——赞助项目办公室处理赞助研究合同、技术许可办公室处理知识产权许可、[[Clinical Trial|临床试验]]办公室处理临床研究（Boccanfuso & Hall, 2025, pp.62–67）。
 
 调查还发现，大学和企业双方共同重视"互利关系"（超过 80% 受访者选择）、灵活克服障碍和礼宾服务。企业的特别诉求包括灵活的知识产权政策和专注于特定行业（而非学术学科）的大学伙伴关系经理（Boccanfuso & Hall, 2025, pp.67–68）。
 
@@ -350,7 +351,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 > 大学对产学合作的态度在过去几十年间发生了显著变化。许多大学已将创业或产学合作纳入教师晋升和终身教职（promotion and tenure）的评审标准，这极大地改变了学术界对产学合作的看法（Byrne & Clements, 2025, pp.132–133）。
 
 > [!success] COVID-19 作为产学合作的自然实验
-> COVID-19 大流行期间，大学、产业和医院在"不惜一切代价找到答案"的共同心态下搁置分歧、高效协作。[[Academic Medical Center|AMC]] 和 [[Academic Health System|AHS]] 在全国范围内联合为 Pfizer、Moderna 和 Johnson & Johnson 的 III 期临床试验提供场所，疫苗学在 1–2 年内达到了本来需要数十年才能实现的水准（Swick & Jones, 2025, pp.189–190）。
+> COVID-19 大流行期间，大学、产业和医院在"不惜一切代价找到答案"的共同心态下搁置分歧、高效协作。[[Academic Medical Center|AMC]] 和 [[Academic Health System|AHS]] 在全国范围内联合为 Pfizer、Moderna 和 Johnson & Johnson 的 III 期[[Clinical Trial|临床试验]]提供场所，疫苗学在 1–2 年内达到了本来需要数十年才能实现的水准（Swick & Jones, 2025, pp.189–190）。
 >
 > 这一经验证明：当各方拥有对齐的目标和强烈的紧迫感时，产学合作可以实现远超常态的成果。但合作在疫情后迅速回归旧有障碍和保守立场，表明这种高强度协作依赖于危机情境的推动，尚未制度化。[[Values Alignment Model|价值对齐模型]]试图将这种对齐机制从危机依赖中解放出来（pp.190–191）。
 
@@ -395,7 +396,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 > [!example]
 - IBM 与斯坦福大学合作开发无需铂等重金属的催化技术，发现了一种解聚聚对苯二甲酸乙二醇酯（PET）的方法，为回收塑料瓶和聚酯纤维提供了新途径（p.7）
 - 波音与谢菲尔德大学合作建立[[Advanced Manufacturing Research Centre (AMRC)|先进制造研究中心]]（AMRC），截至 2024 年拥有 600 多名研究人员、技术人员和支持人员，120 多个行业成员，年研究经费约 4000 万英镑（pp.7–8）
-- Houston Methodist 与 Medtronic 合作开展经导管主动脉瓣置换术（Transcatheter Aortic Valve Replacement, TAVR）的产学合作：从 2007 年起通过四轮递进式临床试验（极端风险→高风险→中等风险→低风险），将 TAVR 发展为主动脉瓣狭窄全风险谱系的标准疗法。30 天死亡率从 7.2% 降至 2.5%，2019 年 TAVR 年手术量首次超过传统外科手术（Swick & Jones, 2025, pp.192–194）
+- Houston Methodist 与 Medtronic 合作开展经导管主动脉瓣置换术（Transcatheter Aortic Valve Replacement, TAVR）的产学合作：从 2007 年起通过四轮递进式[[Clinical Trial|临床试验]]（极端风险→高风险→中等风险→低风险），将 TAVR 发展为主动脉瓣狭窄全风险谱系的标准疗法。30 天死亡率从 7.2% 降至 2.5%，2019 年 TAVR 年手术量首次超过传统外科手术（Swick & Jones, 2025, pp.192–194）
 - Mars 与加州大学戴维斯分校和阿肯色大学合作研究水稻"干湿交替"（AWD）灌溉技术，显著减少用水和温室气体排放而不降低产量（p.8）
 
 ## 来源

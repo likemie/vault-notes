@@ -13,13 +13,19 @@ tags:
   - theme/university-industry-collaboration
   - theme/clinical-research
   - level/higher-education
-related_concepts: []
+related_concepts:
+  - "[[Blinding]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Academic Medical Center]]"
+  - "[[Translational Research]]"
+  - "[[Return on Investment]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch11_Bang_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -30,7 +36,7 @@ updated: 2026-06-03
 ## 定义
 
 > [!info]
-> 临床试验（Clinical Trial）是以人为研究对象、按预设方案分阶段评估研究性药物、器械、生物制品、基因或细胞疗法安全性、疗效和风险收益比的前瞻性研究。随机双盲临床试验（randomized double-blind clinical trial）被视为确定最有效创新疗法、器械和操作的金标准（p.201）。新药上市须获得监管批准，而监管批准通常要求提供成功临床试验的科学有效性证据（p.201）。
+> 临床试验（Clinical Trial）是以人为研究对象、按预设方案分阶段评估研究性药物、器械、生物制品、基因或细胞疗法安全性、疗效和风险收益比的前瞻性研究。随机双盲临床试验（randomized [[Blinding|double-blind]] clinical trial）被视为确定最有效创新疗法、器械和操作的金标准（p.201）。新药上市须获得监管批准，而监管批准通常要求提供成功临床试验的科学有效性证据（p.201）。
 
 ---
 
@@ -54,9 +60,9 @@ updated: 2026-06-03
 ## 理论基础
 
 > [!tip]
-> 临床试验的运作嵌入在产学合作框架下：生物制药产业提供资金、监管专业知识和规模化实施能力，大学和学术医学中心贡献前沿研究、方法论进展和多样化患者人群（p.215）。[[Translational Research]]（转化研究）构成从实验室发现到临床试验的关键桥梁——大学教师的实验室拥有产业方希望使用的专有细胞模型、类器官模型或动物模型，临床前和转化研究的合作为人体临床试验提供支持性数据（p.203）。
+> 临床试验的运作嵌入在[[University-Industry Collaboration|产学合作]]框架下：生物制药产业提供资金、监管专业知识和规模化实施能力，大学和[[Academic Medical Center|学术医学中心]]贡献前沿研究、方法论进展和多样化患者人群（p.215）。[[Translational Research]]（转化研究）构成从实验室发现到临床试验的关键桥梁——大学教师的实验室拥有产业方希望使用的专有细胞模型、类器官模型或动物模型，临床前和转化研究的合作为人体临床试验提供支持性数据（p.203）。
 
-产业方在选择试验基地时需评估三个核心因素：试验可行性、预期投资回报（[[Return on Investment]]）以及成功概率——既包括实现科学目标（达成主要和次要终点），也包括确保运营执行的顺畅（pp.203–205）。试验可通过合同研究组织（CRO）、产业方不同职能部门（转化研究、临床开发或医学事务）或大学主动联系产业方等渠道发起（pp.204–205）。
+产业方在选择试验基地时需评估三个核心因素：试验可行性、预期[[Return on Investment|投资回报]]（[[Return on Investment]]）以及成功概率——既包括实现科学目标（达成主要和次要终点），也包括确保运营执行的顺畅（pp.203–205）。试验可通过合同研究组织（CRO）、产业方不同职能部门（转化研究、临床开发或医学事务）或大学主动联系产业方等渠道发起（pp.204–205）。
 
 ---
 
@@ -64,7 +70,7 @@ updated: 2026-06-03
 
 > [!success]
 > - 肿瘤学是一期临床试验机会最大的领域，在过去五年中占新增试验的 10.5%（p.202）。
-> - 国际试验基地的成本有时仅为美国学术医学中心（[[Academic Medical Center]]）的六分之一，对高管理费的美国学术机构构成巨大竞争压力（p.206）。
+> - 国际试验基地的成本有时仅为美国[[Academic Medical Center|学术医学中心]]（[[Academic Medical Center]]）的六分之一，对高管理费的美国学术机构构成巨大竞争压力（p.206）。
 > - 学术机构的试验启动流程通常需要 120 天以上，有的延长至一年以上；在招募第一个患者之前的管理费和启动成本平均为 $25,000 至 $200,000（pp.206, 208）。
 > - 拥有高效研究支持团队的机构可以在 60 天内完成试验激活，远优于典型学术机构的表现（pp.210–211）。
 > - 多利益相关方合作——特别是 Clinical Trials Transformation Initiative (CTTI)——已发布超过 30 套基于证据的建议、框架和工具来改善试验质量和效率（p.210）。
