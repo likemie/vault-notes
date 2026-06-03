@@ -7833,6 +7833,15 @@
     ]
   },
   {
+    "title": "Research and Development Super Deduction",
+    "type": "fact",
+    "path": "wiki/facts/china/Research and Development Super Deduction.md",
+    "aliases": [
+      "研发费用加计扣除",
+      "研发费用加计扣除政策"
+    ]
+  },
+  {
     "title": "Rural School Consolidation",
     "type": "fact",
     "path": "wiki/facts/china/Rural School Consolidation.md",
@@ -7850,6 +7859,16 @@
     "aliases": [
       "深圳“四个90%”",
       "四个90%"
+    ]
+  },
+  {
+    "title": "STAR Market",
+    "type": "fact",
+    "path": "wiki/facts/china/STAR Market.md",
+    "aliases": [
+      "科创板",
+      "科技创新板",
+      "Science and Technology Innovation Board"
     ]
   },
   {

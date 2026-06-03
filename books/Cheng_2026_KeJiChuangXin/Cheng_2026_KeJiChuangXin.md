@@ -3,7 +3,6 @@ citation: "程楠, 郭雯, 曹方. (2026). 科技创新和产业创新融合：�
 extracted_to:
   - "[[Jiebang Guashuai]]"
   - "[[1999 Reform of 242 Research Institutes]]"
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[STEM Education]]"
   - "[[Hidden Champions]]"
   - "[[Society 5.0]]"
@@ -12,6 +11,9 @@ extracted_to:
   - "[[Xi'an Three Reforms on Sci-Tech Achievements]]"
   - "[[Tsukuba Science City]]"
   - "[[DARPA]]"
+  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+  - "[[Research and Development Super Deduction]]"
+  - "[[STAR Market]]"
 processed_date: 2026-06-03
 ---
 
