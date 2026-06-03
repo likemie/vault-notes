@@ -32,7 +32,7 @@ sources:
 confidence: medium
 status: draft
 created: '2026-05-21'
-updated: '2026-05-21'
+updated: 2026-06-03
 ---
 
 ## 定义
@@ -94,8 +94,10 @@ updated: '2026-05-21'
 > [!example]
 > - [[Evidence-Informed Practice]] — 知识动员在教育领域最清晰的应用场景之一。
 > - [[Visible Learning]] — 在北欧学校改进语境中，知识动员被用来解释研究知识如何从可见学习论述进入教师协作与课堂行动（Nordahl, 2015, pp.66–67）。
+> - [[Schlegel-UW Research Institute for Aging]] — 在产学合作语境中，RIA 通过 Schlegel Villages 的退休住宅网络将研究成果直接嵌入临床评估方案，新开发的脑血管健康生物标志物检测技术被纳入常规功能性体适能评估，实现了从实验室到终端用户的快速知识动员（Dean et al., 2025, p.253）。
 
 ## 来源
 
 - [[Nelson_2017_ER]]
 - [[Nordahl_2015_Paideia]]
+- [[Ch13_Dean_2025]]

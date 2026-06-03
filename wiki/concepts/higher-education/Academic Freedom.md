@@ -26,7 +26,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-29
+updated: 2026-06-03
 ---
 
 # Academic Freedom
@@ -76,6 +76,11 @@ updated: 2026-05-29
 > [!abstract]
 > 在大学内部，学术自由也使产学合作的推动变得复杂。教师拥有选择研究方向和合作对象的自主权，行政部门无法简单"指令"教师与企业合作。这种自主权保护了学术独立性，但也意味着产学合作需要以说服和激励而非命令的方式推进。
 
+### 学术自由与研究安全的平衡
+
+> [!warning]
+> 地缘政治紧张加剧使学术自由面临新的压力维度：如何在保持学术开放的同时保护研究安全（[[Research Security|research security]]）。滑铁卢大学"保障研究"（Safeguarding Research）团队的实践原则是在透明性、可预测性、学术自由和开放科学规范之间寻求操作性的平衡——不是通过限制合作来保障安全，而是通过提供制度性支持让教师在有后盾的前提下放心开展国际研究合作（Dean et al., 2025, pp.249–250）。
+
 ---
 
 ## 争议与批评
@@ -95,4 +100,5 @@ updated: 2026-05-29
 
 - [[Ch1_Boccanfuso_Hall_2025]]
 - [[Ch8_Gilison_Wilson_2025]]
+- [[Ch13_Dean_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

@@ -1300,6 +1300,19 @@
     ]
   },
   {
+    "title": "Cooperative Education",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Cooperative Education.md",
+    "aliases": [
+      "合作教育",
+      "工学交替",
+      "co-op education",
+      "work-integrated learning",
+      "工作整合学习",
+      "cooperative education program"
+    ]
+  },
+  {
     "title": "Corporate Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Corporate Education.md",
@@ -1353,6 +1366,17 @@
     "path": "wiki/concepts/higher-education/Critic and Conscience of Society.md",
     "aliases": [
       "社会的批评者与良知"
+    ]
+  },
+  {
+    "title": "DORA (Declaration on Research Assessment)",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/DORA (Declaration on Research Assessment).md",
+    "aliases": [
+      "旧金山科研评估宣言",
+      "San Francisco Declaration on Research Assessment",
+      "DORA",
+      "科研评估宣言"
     ]
   },
   {
@@ -1859,6 +1883,17 @@
       "proof of product",
       "PoP programs",
       "概念验证计划"
+    ]
+  },
+  {
+    "title": "Research Security",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Research Security.md",
+    "aliases": [
+      "研究安全",
+      "safeguarding research",
+      "保障研究",
+      "research security in universities"
     ]
   },
   {
@@ -7455,6 +7490,17 @@
     ]
   },
   {
+    "title": "Schlegel-UW Research Institute for Aging",
+    "type": "fact",
+    "path": "wiki/facts/canada/Schlegel-UW Research Institute for Aging.md",
+    "aliases": [
+      "RIA",
+      "Schlegel-UW老龄化研究所",
+      "Research Institute for Aging",
+      "滑铁卢大学老龄化研究所"
+    ]
+  },
+  {
     "title": "Academic Ranking of World Universities",
     "type": "fact",
     "path": "wiki/facts/china/Academic Ranking of World Universities.md",
@@ -9202,6 +9248,11 @@
     "title": "Argument_Byrne_2025_InnovationCenters",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Byrne_2025_InnovationCenters.md"
+  },
+  {
+    "title": "Argument_Dean_2025_UICollaborationSupport",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Dean_2025_UICollaborationSupport.md"
   },
   {
     "title": "Argument_Gilison_Wilson_2025_UniversityStartups",

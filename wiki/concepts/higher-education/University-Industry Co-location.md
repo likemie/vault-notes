@@ -23,7 +23,7 @@ sources: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-03
 ---
 
 # Co-location (University-Industry)
@@ -60,7 +60,10 @@ updated: 2026-06-02
 > - **FrieslandCampina 创新中心**：2010 年起将其研发团队集中于 WUR 校园，设有中试车间、实验室、办公室和创新厨房（p.317）
 > - **拜耳研究与创新中心（BRIC）**：位于剑桥，紧邻 Broad Institute of MIT and Harvard，虽非严格意义的共同选址，但通过物理邻近性促进了长期合作（pp.317–318）
 > - **Mars 在 UC Davis**：Mars 于 2004 年起在 UC Davis 校园嵌入技术负责人，2013 年设立 Mars 高级研究院（MARI）作为校内运营枢纽，使公司得以快速灵活接入全球科学专家网络（p.318）
+> - **NRC-滑铁卢大学合作中心**：加拿大国家研究理事会（NRC）与滑铁卢大学共同建立的合作中心，聚焦人工智能、物联网和网络安全，为学生、政府和教师提供共同工作的物理空间（Dean et al., 2025, p.249）
+> - **Schlegel-UW 老龄化研究所（RIA）**：滑铁卢大学与 Schlegel Villages 于 2005 年建立的跨学科研究机构，[[University-Industry Co-location|共同选址]]是其核心运作模式——临床医生、科学家和工程师在同一物理空间中并肩工作，研究者和终端用户只需走过走廊就能看到研究进展的实际应用（Dean et al., 2025, pp.251–253）。详见 [[Schlegel-UW Research Institute for Aging]]
 
 ## 来源
 
 - [[Ch17_Wolf_Stevenson_Siegel_2025]]
+- [[Ch13_Dean_2025]]
