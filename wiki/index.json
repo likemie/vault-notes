@@ -4887,60 +4887,12 @@
     ]
   },
   {
-    "title": "Deep Integration of Sci-Tech and Industrial Innovation",
-    "type": "concept",
-    "path": "wiki/concepts/technology-innovation/Deep Integration of Sci-Tech and Industrial Innovation.md",
-    "aliases": [
-      "科技创新和产业创新深度融合",
-      "科技与产业融合",
-      "科创与产创融合"
-    ]
-  },
-  {
-    "title": "High-Quality Sci-Tech Supply",
-    "type": "concept",
-    "path": "wiki/concepts/technology-innovation/High-Quality Sci-Tech Supply.md",
-    "aliases": [
-      "高质量科技供给",
-      "科技供给"
-    ]
-  },
-  {
-    "title": "Principal Status of Enterprises in Innovation",
-    "type": "concept",
-    "path": "wiki/concepts/technology-innovation/Principal Status of Enterprises in Innovation.md",
-    "aliases": [
-      "企业科技创新主体地位",
-      "企业创新主体地位"
-    ]
-  },
-  {
-    "title": "Sci-Tech Achievement Transformation",
-    "type": "concept",
-    "path": "wiki/concepts/technology-innovation/Sci-Tech Achievement Transformation.md",
-    "aliases": [
-      "科技成果转化应用",
-      "科技成果转移转化",
-      "成果转化"
-    ]
-  },
-  {
     "title": "Society 5.0",
     "type": "concept",
     "path": "wiki/concepts/technology-innovation/Society 5.0.md",
     "aliases": [
       "社会5.0",
       "超级智能社会"
-    ]
-  },
-  {
-    "title": "Two Separate Skins Phenomenon",
-    "type": "concept",
-    "path": "wiki/concepts/technology-innovation/Two Separate Skins Phenomenon.md",
-    "aliases": [
-      "两张皮现象",
-      "科技与产业两张皮",
-      "科技与经济两张皮"
     ]
   },
   {
@@ -7794,6 +7746,15 @@
       "壬戌学制",
       "1922 educational system",
       "1922 school system reform"
+    ]
+  },
+  {
+    "title": "1999 Reform of Research Institutes",
+    "type": "fact",
+    "path": "wiki/facts/china/1999 Reform of Research Institutes.md",
+    "aliases": [
+      "1999年科研院所体制改革",
+      "242个科研院所转制"
     ]
   },
   {
