@@ -11,9 +11,9 @@ extracted_to:
   - "[[Xi'an Three Reforms on Sci-Tech Achievements]]"
   - "[[Tsukuba Science City]]"
   - "[[DARPA]]"
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Research and Development Super Deduction]]"
   - "[[STAR Market]]"
+  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
 processed_date: 2026-06-03
 ---
 
