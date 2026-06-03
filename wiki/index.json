@@ -1693,6 +1693,18 @@
     ]
   },
   {
+    "title": "Joint Faculty Appointments",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Joint Faculty Appointments.md",
+    "aliases": [
+      "联合教职",
+      "联合教职任命",
+      "joint appointments",
+      "joint faculty",
+      "joint employment"
+    ]
+  },
+  {
     "title": "Joint Ownership of IP",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Joint Ownership of IP.md",
@@ -1943,6 +1955,18 @@
       "proof of product",
       "PoP programs",
       "概念验证计划"
+    ]
+  },
+  {
+    "title": "Public-Private Partnership in Research",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Public-Private Partnership in Research.md",
+    "aliases": [
+      "公私合作伙伴关系",
+      "PPP",
+      "public-private partnership",
+      "研究型公私合作",
+      "研究型PPP"
     ]
   },
   {
@@ -9150,6 +9174,15 @@
       "科学无尽的前沿",
       "Bush report",
       "Vannevar Bush report"
+    ]
+  },
+  {
+    "title": "Semiconductor Research Corporation",
+    "type": "fact",
+    "path": "wiki/facts/us/Semiconductor Research Corporation.md",
+    "aliases": [
+      "半导体研究公司",
+      "SRC"
     ]
   },
   {
