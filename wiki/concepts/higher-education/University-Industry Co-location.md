@@ -13,13 +13,19 @@ tags:
   - theme/university-industry-collaboration
   - level/higher-education
   - theme/innovation
-related_concepts: []
+related_concepts:
+  - "[[University-Based Research Center]]"
+  - "[[Innovation Hub]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[University Industry Demonstration Partnership]]"
+  - "[[Schlegel-UW Research Institute for Aging]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
+  - "[[Ch13_Dean_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-02

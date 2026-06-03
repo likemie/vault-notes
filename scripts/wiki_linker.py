@@ -286,7 +286,7 @@ def parse_entry_from_text(rel_path: str, text: str) -> Entry | None:
 
 def git_output(args: list[str]) -> str:
     result = subprocess.run(
-        ["git", *args],
+        ["git", "-c", "core.quotePath=false", *args],
         cwd=ROOT,
         check=False,
         capture_output=True,
@@ -297,8 +297,12 @@ def git_output(args: list[str]) -> str:
     return result.stdout
 
 
+def git_file_at_ref(ref: str, rel_path: str) -> str:
+    return git_output(["show", f"{ref}:{rel_path}"])
+
+
 def git_file_at_head(rel_path: str) -> str:
-    return git_output(["show", f"HEAD:{rel_path}"])
+    return git_file_at_ref("HEAD", rel_path)
 
 
 def git_changed_paths() -> set[str]:
@@ -315,7 +319,28 @@ def git_changed_paths() -> set[str]:
     return changed | untracked
 
 
-def git_changed_terms(paths: set[str]) -> tuple[set[str], set[str], set[str]]:
+def git_commit_changed_paths(ref: str = "HEAD") -> set[str]:
+    return set(
+        line.strip()
+        for line in git_output(
+            [
+                "diff-tree",
+                "--root",
+                "--no-commit-id",
+                "--name-only",
+                "-r",
+                "--diff-filter=ACMRTUXB",
+                ref,
+                "--",
+                "wiki",
+                "sources",
+            ]
+        ).splitlines()
+        if line.strip()
+    )
+
+
+def git_changed_terms(paths: set[str], previous_ref: str = "HEAD") -> tuple[set[str], set[str], set[str]]:
     changed_files: set[str] = set()
     added_terms: set[str] = set()
     removed_terms: set[str] = set()
@@ -334,7 +359,7 @@ def git_changed_terms(paths: set[str]) -> tuple[set[str], set[str], set[str]]:
         current_entry = None
         if path.exists():
             current_entry = parse_entry_from_text(rel, path.read_text(encoding="utf-8", errors="ignore"))
-        previous_text = git_file_at_head(rel)
+        previous_text = git_file_at_ref(previous_ref, rel)
         previous_entry = parse_entry_from_text(rel, previous_text) if previous_text else None
 
         current_terms = entry_terms(current_entry) if current_entry else set()
@@ -347,7 +372,14 @@ def git_changed_terms(paths: set[str]) -> tuple[set[str], set[str], set[str]]:
 
 def iter_git_target_files() -> list[Path]:
     paths = git_changed_paths()
-    changed_files, added_terms, removed_terms = git_changed_terms(paths)
+    previous_ref = "HEAD"
+    if not paths:
+        paths = git_commit_changed_paths("HEAD")
+        previous_ref = "HEAD^"
+        if paths:
+            print("No uncommitted wiki/source changes found; using files changed in HEAD instead of --full.")
+
+    changed_files, added_terms, removed_terms = git_changed_terms(paths, previous_ref=previous_ref)
     search_terms = {t for t in added_terms | removed_terms if t}
 
     candidates = {ROOT / rel for rel in changed_files}

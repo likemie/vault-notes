@@ -17,7 +17,6 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
-  - "[[Probes]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[School Leadership]]"
   - "[[Knowledge Mobilisation]]"

@@ -23,6 +23,8 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Sponsored Research Agreement]]"
+  - "[[Cooperative Education]]"
+  - "[[Technology Transfer Office]]"
   - "[[Concierge Service]]"
   - "[[Technology Transfer]]"
   - "[[Executive Education]]"

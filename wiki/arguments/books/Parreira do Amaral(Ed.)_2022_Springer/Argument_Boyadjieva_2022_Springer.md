@@ -18,7 +18,6 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Global Universities Rankings]]"
-  - "[[Probes]]"
   - "[[Analytic Framework]]"
   - "[[Social Charter]]"
   - "[[Champ]]"

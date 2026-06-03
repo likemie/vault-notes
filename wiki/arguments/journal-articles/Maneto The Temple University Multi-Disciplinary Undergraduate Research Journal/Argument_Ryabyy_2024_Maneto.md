@@ -17,10 +17,10 @@ tags:
   - method/archival-research
   - theme/history-of-education
 related_concepts:
+  - "[[Research Question]]"
   - "[[Progressive Education]]"
   - "[[Cultural Diplomacy]]"
   - "[[Knowledge Exchange]]"
-  - "[[Probes]]"
 related_theories: []
 related_methods:
   - "[[Archival Correspondence Analysis]]"

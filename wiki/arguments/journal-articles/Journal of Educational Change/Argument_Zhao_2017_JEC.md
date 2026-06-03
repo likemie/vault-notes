@@ -17,6 +17,7 @@ tags:
 - rct
 - level/k12
 related_concepts:
+  - "[[Research Question]]"
   - "[[Side Effects]]"
   - "[[Literature Review]]"
   - "[[Direct Instruction]]"

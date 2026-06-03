@@ -17,6 +17,7 @@ tags:
   - theme/key-competences
   - method/document-analysis
 related_concepts:
+  - "[[Research Question]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"

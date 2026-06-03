@@ -13,7 +13,6 @@ tags:
 - decolonization
 related_concepts:
   - "[[Knowledge Production]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
 related_theories: []
@@ -58,7 +57,7 @@ Chen 在台湾大学取得学士学位，后赴美国爱荷华大学攻读传播
 > - **拒绝简单市场逻辑**：Chen 论证市场逻辑无法充分解释东亚国家（中国大陆、越南、朝鲜）的社会和政治结构——"社会主义时代的元素仍在运作"，过快放弃马克思主义的分析语言将使研究者无法恰当理解正在发生的复杂转型（Chen, 2010, p.71）
 
 > [!quote]
-> "We cannot allow ourselves to be swept up in the rush toward neoliberal globalization…We have to insist on advancing the critical work of deimperialization, decolonization, and de-cold war, and facilitating regional [[Integration in Mixed Methods|integration]] on the level of knowledge production through the practices of Asia as method."（Chen, 2010, p.268）
+> "We cannot allow ourselves to be swept up in the rush toward neoliberal globalization…We have to insist on advancing the critical work of deimperialization, decolonization, and de-cold war, and facilitating regional integration on the level of knowledge production through the practices of Asia as method."（Chen, 2010, p.268）
 
 ---
 

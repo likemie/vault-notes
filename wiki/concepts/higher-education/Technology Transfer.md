@@ -15,6 +15,7 @@ tags:
   - "policy/bayh-dole"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer Office]]"
   - "[[Knowledge Exchange]]"
   - "[[Theoretical Perspective]]"
   - "[[Foreground IP]]"

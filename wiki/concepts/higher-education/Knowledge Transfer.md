@@ -22,7 +22,9 @@ related_concepts:
   - "[[Knowledge Sabotage]]"
   - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"
+  - "[[Cooperative Education]]"
   - "[[Professors of Practice]]"
+  - "[[Technology Transfer Office]]"
   - "[[Academic Engagement]]"
 related_theories:
   - "[[Critical Geopolitics]]"

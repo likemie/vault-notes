@@ -15,7 +15,6 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[School Leadership]]"
   - "[[Variable]]"
-  - "[[Probes]]"
 related_theories: []
 related_methods: []
 related_persons:

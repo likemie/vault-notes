@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[Technology Transfer Office]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Knowledge Transfer]]"
   - "[[Knowledge Exchange]]"
@@ -76,7 +77,7 @@ Bayh-Dole Act（正式名称为 Patent and Trademark Law Amendments Act）于 19
 Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识产权管理创造了制度基础。在产学合作的实践中（p.14）：
 
 1. 企业与大学的合同与拨款办公室协商赞助研究所产生的知识产权权利
-2. 企业与大学的[[Technology Transfer|技术转移]]办公室（Technology Transfer Office）协商知识产权许可
+2. 企业与大学的[[Technology Transfer|技术转移]]办公室（[[Technology Transfer Office]]）协商知识产权许可
 3. 这两个办公室通常都隶属于大学的科研副校长（Vice President of Research），有时合并到企业参与办公室（Office of Corporate Engagement）
 
 该法案引发的一个持续挑战是商业化路径的选择：初创企业（发明人可能成为创始人）还是成熟企业（发明人无所有权股份）？大学可能希望支持教师的创业精神或通过初创企业推动经济发展，但"大多数初创企业会失败，成熟企业可以投资进一步的技术开发，且初创企业可能产生无法解决的利益冲突"。此外，根据[[Sponsored Research Agreement|赞助研究协议]]，大学可能已有义务给予现有企业知识产权的优先权（p.14）。
@@ -88,7 +89,7 @@ Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识�
 > [!note]
 > Boccanfuso 和 Hall（2025, p.52）将 Bayh-Dole Act 定位为政府塑造[[University-Industry Collaboration|产学合作]]制度环境的三大机制之一——与联邦资助项目（如 [[National Science Foundation|NSF]] 工程研究中心）和监管法规并列。在 [[Triple Helix|Triple Helix]] 框架中，Bayh-Dole Act 代表政府通过**立法**（而非通过资助或直接参与）来激活大学-产业链接的制度工具。
 
-该法案的一个直接组织后果是：大学必须在内部建立**专门的组织单位**来管理知识产权商业化——即[[Technology Transfer|技术转移办公室]]（TTOs）和赞助项目办公室（Sponsored Projects Offices）。正如 Boccanfuso 和 Hall（2025, pp.60–63）对 65 所大学的组织分析所示，这些办公室成为大学产学参与的基础设施单元，但它们的管辖范围天然局限在[[Knowledge Transfer|知识转移]]的**正式端**（专利、许可、合同），无法覆盖产学互动的全谱系（教育合作、学生实习、非正式[[Knowledge Exchange|知识交流]]等）。Bayh-Dole Act 因而既**促成了**大学的产学组织化，也**框定了**这种组织化的边界——技术转移办公室擅长管理知识产权交易，但[[Academic Engagement|学术参与]]（[[Academic Engagement#^industry-engagement|产学学术参与]]）的多样化和分散化特征超出了其制度能力。
+该法案的一个直接组织后果是：大学必须在内部建立**专门的组织单位**来管理知识产权商业化——即[[Technology Transfer Office|技术转移办公室]]（TTOs）和赞助项目办公室（Sponsored Projects Offices）。正如 Boccanfuso 和 Hall（2025, pp.60–63）对 65 所大学的组织分析所示，这些办公室成为大学产学参与的基础设施单元，但它们的管辖范围天然局限在[[Knowledge Transfer|知识转移]]的**正式端**（专利、许可、合同），无法覆盖产学互动的全谱系（教育合作、学生实习、非正式[[Knowledge Exchange|知识交流]]等）。Bayh-Dole Act 因而既**促成了**大学的产学组织化，也**框定了**这种组织化的边界——技术转移办公室擅长管理知识产权交易，但[[Academic Engagement|学术参与]]（[[Academic Engagement#^industry-engagement|产学学术参与]]）的多样化和分散化特征超出了其制度能力。
 
 
 

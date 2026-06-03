@@ -16,8 +16,8 @@ tags:
 - feedback
 - stance/critique
 related_concepts:
+  - "[[Research Question]]"
   - "[[Visible Learning]]"
-  - "[[Probes]]"
   - "[[Bildung]]"
   - "[[Technical Rationality]]"
   - "[[Variable]]"

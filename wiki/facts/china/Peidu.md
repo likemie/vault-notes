@@ -15,7 +15,6 @@ tags:
   - theme/urbanisation
 related_concepts:
   - "[[School Choice]]"
-  - "[[Cultural Capital]]"
   - "[[Class Size]]"
 related_theories: []
 related_methods: []

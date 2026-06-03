@@ -21,7 +21,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Doxa]]"
   - "[[Reflexivity]]"
-  - "[[Probes]]"
 related_theories: []
 related_methods: []
 related_persons:

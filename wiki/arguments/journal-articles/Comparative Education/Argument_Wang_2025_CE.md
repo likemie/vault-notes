@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Learner-Centred Education]]"
-  - "[[Probes]]"
   - "[[Analytic Framework]]"
   - "[[Constructivist Paradigm]]"
   - "[[Research Question]]"

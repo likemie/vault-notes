@@ -17,6 +17,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[Technology Transfer]]"
+  - "[[Sponsored Research Agreement]]"
   - "[[Performance Indicators]]"
   - "[[Corporate Venture Capital]]"
   - "[[Technology Readiness Level]]"

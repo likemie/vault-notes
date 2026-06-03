@@ -8,6 +8,7 @@ type: argument
 citation: "Burrus, C., & Patera, A. (2025). Connecting, Exploring, Uncovering, and Building Partnerships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 73–83). Springer."
 tags: ["theme/university-industry-collaboration", "theme/partnership", "theme/corporate-engagement"]
 related_concepts:
+  - "[[Research Question]]"
   - "[[Strategic Partnership]]"
   - "[[University-Industry Collaboration]]"
   - "[[Trade Mission]]"

@@ -59,7 +59,7 @@ Creswell & Creswell（2022, Ch9）推荐使用多种策略组合来增强研究�
 5. **呈现负面或矛盾信息（Negative or Discrepant Information）**：讨论与主题相矛盾的证据。因为现实生活包含不同视角，不相容是常态，矛盾信息的呈现增加了报告的可信度。
 6. **延长现场时间（Prolonged Time in the [[Champ|field]]）**：研究者在参与者场所中停留时间越长，对现象的理解越深入，发现越准确。
 7. **[[Peer Debriefing|同行审议]]**：寻找一位同行审议者审查并提出关于[[Qualitative Research|质性研究]]的问题，使报告能够与研究者以外的人产生共鸣。
-8. **外部审计（[[External Auditor]]）**：聘请不熟悉研究者或项目的外部审计者审查整个项目，提供客观评估。
+8. **[[External Auditor|外部审计]]（[[External Auditor]]）**：聘请不熟悉研究者或项目的外部审计者审查整个项目，提供客观评估。
 
 ## 概念辨析
 

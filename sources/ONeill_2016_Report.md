@@ -6,8 +6,11 @@ extracted_to:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Visible Learning]]"
+  - "[[Network Governance]]"
+  - "[[Venture Philanthropy]]"
   - "[[Cognition Education]]"
   - "[[Contestable School Support Services]]"
+  - "[[Foundation North Māori and Pasifika Education Initiative]]"
   - "[[Manaiakalani Education Trust]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Teach First New Zealand]]"
@@ -15,9 +18,6 @@ extracted_to:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
   - "[[Stephen Ball]]"
-  - "[[Network Governance]]"
-  - "[[Venture Philanthropy]]"
-  - "[[Foundation North Māori and Pasifika Education Initiative]]"
 processed_date: 2026-05-04
 ---
 

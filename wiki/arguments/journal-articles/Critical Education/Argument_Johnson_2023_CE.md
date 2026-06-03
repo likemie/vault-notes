@@ -16,6 +16,7 @@ tags:
 - neoliberalism
 - stance/critique
 related_concepts:
+  - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Technical Rationality]]"
   - "[[Scientism]]"

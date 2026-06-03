@@ -19,6 +19,7 @@ related_concepts:
   - "[[Placemaking]]"
   - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"
+  - "[[University-Industry Co-location]]"
   - "[[Further Education]]"
   - "[[International Education]]"
   - "[[Learning Analytics]]"

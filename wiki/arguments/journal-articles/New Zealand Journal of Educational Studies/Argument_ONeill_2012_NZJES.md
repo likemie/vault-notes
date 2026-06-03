@@ -16,6 +16,7 @@ tags:
 - region/new-zealand
 - stance/critique
 related_concepts:
+  - "[[Research Question]]"
   - "[[Material Fallacies]]"
   - "[[Policy Entrepreneur]]"
   - "[[Analytic Framework]]"

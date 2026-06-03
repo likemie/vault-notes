@@ -20,7 +20,6 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Junzi]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Probes]]"
   - "[[Progressive Education]]"
   - "[[Rote Learning]]"
   - "[[Sage]]"

@@ -12,6 +12,7 @@ tags:
 - theory/critical
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[International Education Hubs]]"
@@ -54,7 +55,7 @@ updated: 2026-06-02
 > [!abstract]
 > - **符号与物质的相互构成**：文化（想象、话语、意义系统）不是经济基础的**上层建筑**，而是与物质维度（制度、资源、技术）同等构成社会现实的维度。两者相互塑造、不可化约（Sum & Jessop, 2013, cited in Erfurth, 2022, p.202）。
 > - **想象的履行性**：文化政治经济学借鉴 Jessop (2005) 对想象（imaginaries）的分析——想象是**构成性和履行性**的，它不仅表征世界，更参与生产它所描述的现实。这意味着政策话语、国家叙事和学术概念本身就是制造社会秩序的力量，而非仅仅是现实的反映（Moisio, 2022, pp.26–27; Erfurth, 2022, p.202）。
-> - **双重维度的分析框架**：文化政治经济学要求分析者同时考察：(1) 符号-话语维度——行为者如何通过叙事、想象和话语建构问题和解决方案；(2) 结构-物质维度——制度安排、资源分配和物质条件如何约束和塑造行为。两个维度应被分析为同一过程的两个面向，而非两个独立的因素（Erfurth, 2022, p.202）。
+> - **双重维度的[[Analytic Framework|分析框架]]**：文化政治经济学要求分析者同时考察：(1) 符号-话语维度——行为者如何通过叙事、想象和话语建构问题和解决方案；(2) 结构-物质维度——制度安排、资源分配和物质条件如何约束和塑造行为。两个维度应被分析为同一过程的两个面向，而非两个独立的因素（Erfurth, 2022, p.202）。
 
 ---
 
@@ -62,7 +63,7 @@ updated: 2026-06-02
 
 > [!note]
 > - **2013 年**：Sum & Jessop 在 Towards a Cultural Political Economy 中系统提出文化政治经济学框架，作为对传统政治经济学忽略文化维度的回应，同时也区别于后结构主义完全消解物质性的倾向（Erfurth, 2022, p.202）。
-> - **2018 年**：Moisio（2018）在 Geopolitics of the Knowledge-Based Economy 中运用 Jessop 的想象概念分析[[Knowledge-Based Economization|知识经济化]]的空间维度，提出 [[Hub and Flow Imaginaries|枢纽与流动想象]]，将文化政治经济学的履行性想象逻辑引入地缘政治分析（Moisio, 2022, pp.26–27）。
+> - **2018 年**：Moisio（2018）在 Geopolitics of the [[Knowledge-Based Economy]] 中运用 Jessop 的想象概念分析[[Knowledge-Based Economization|知识经济化]]的空间维度，提出 [[Hub and Flow Imaginaries|枢纽与流动想象]]，将文化政治经济学的履行性想象逻辑引入地缘政治分析（Moisio, 2022, pp.26–27）。
 > - **2022 年**：Erfurth（2022）将文化政治经济学应用于[[International Education Hubs|国际教育枢纽]]的比较分析，从中导出[[Cultural Diplomacy|文化外交]]与政治经济两个分析维度，提供了文化政治经济学在高等教育研究中最系统的实证应用之一（Erfurth, 2022, pp.202, 205–211）。
 
 ---

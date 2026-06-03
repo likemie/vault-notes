@@ -15,6 +15,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Research Question]]"
+  - "[[Internal Validity]]"
 related_theories: []
 related_methods:
   - "[[Grounded Theory]]"
@@ -72,7 +73,7 @@ updated: '2026-05-18'
 
 ## 内部效度保障
 
-> [!note-] 内部效度保障
+> [!note-] [[Internal Validity|内部效度]]保障
 > [[Yajun Zheng|郑雅君]]（2023）采用了以下策略保障分析质量：
 >
 > - **[[Triangulation|三角互证]]法**：访谈、观察结论和基本信息调查问卷结果交叉对照

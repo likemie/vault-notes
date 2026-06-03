@@ -16,6 +16,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Qualitative Research]]"
   - "[[Literature Map]]"
 related_persons: []
 related_facts: []
@@ -92,7 +93,7 @@ updated: 2026-05-31
 
 5. **结论与启示／应用**：以研究发现的结论、启示或应用收尾。
 
-> [!example] 包含五个要素的质性研究摘要示例
+> [!example] 包含五个要素的[[Qualitative Research|质性研究]]摘要示例
 > "The issue that this study addresses is the lack of women in martial arts competitions. To address this problem, the purpose of this study will be exploring motivation of female athletes in Tae Kwon Do competitions. To gather data, interviews with 4 female Tae Kwon Do tournament competitors were conducted. The interviews were transcribed and analyzed. This data leads to the following 3 themes: social support, [[Self-Efficacy]], and goal orientation. These themes will be useful for understanding the optimal way to increase motivation in female martial artists."（Witte, 2011, personal communication; 引自 Creswell & Creswell, 2022, 第5章）
 >
 > 该摘要依次包含研究问题（女性在武术比赛中的缺乏）、[[Purpose Statement|目的陈述]]、方法（对 4 位女性跆拳道选手的访谈）、发现（社会支持、自我效能感和目标导向三个主题）以及结论与启示。

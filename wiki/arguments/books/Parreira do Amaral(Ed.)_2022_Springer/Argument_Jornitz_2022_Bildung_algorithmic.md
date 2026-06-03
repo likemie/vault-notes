@@ -21,7 +21,6 @@ tags:
   - region/germany
 related_concepts:
   - "[[Global Education Industry]]"
-  - "[[Probes]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
   - "[[Gamification]]"

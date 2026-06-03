@@ -18,7 +18,6 @@ related_concepts:
   - "[[Descriptive Analysis]]"
   - "[[Research Writing Script]]"
   - "[[Competitiveness]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -27,6 +26,8 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Narrative Research]]"
+  - "[[Survey Research]]"
+  - "[[Experimental Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
@@ -140,10 +141,10 @@ updated: 2026-05-31
 
 > 本____（实验/调查____研究的目的是检验____理论，该理论____（解释/预测____自变量____）与____（因变量____）____（比较/相关____）。本研究计划在____（研究场所____招募____（参与者____）。自变量____定义为____。因变量定义为____。
 
-> [!example] 调查研究示例（DeGraw, 1984）
+> [!example] [[Survey Research|调查研究]]示例（DeGraw, 1984）
 > 本研究的目的是考察在美国选定州立成人矫正机构中任教的认证教育者个人特征与工作动机之间的关系 ("The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States." pp.4–5)。
 
-> [!example] 实验研究示例（Esposito et al., 2017）
+> [!example] [[Experimental Research|实验研究]]示例（Esposito et al., 2017）
 > 本研究基于行为经济学假设，检验网站设计的微小改变如何影响购买行为，特别关注与参与者社会人口统计特征的交互作用 ("tested how small changes in website design can affect buying behavior, with a particular focus on the interaction with participants' sociodemographic characteristics." p.2)。
 
 > [!example] 量化目的陈述要素拆解：DeGraw (1984) 调查研究
@@ -171,7 +172,7 @@ updated: 2026-05-31
 
 ### 混合方法目的陈述
 
-[[Mixed Methods Research|混合方法]]目的陈述（mixed methods purpose statement）包含研究的总体意图、量化与质性两个分支的信息、两类数据的整合（[[Integration in Mixed Methods|integration]]），以及整合后预期的洞见。好的混合方法目的陈述包含以下要素（Creswell & Creswell, 2022, pp.134–137）：
+[[Mixed Methods Research|混合方法]]目的陈述（mixed methods purpose statement）包含研究的总体意图、量化与质性两个分支的信息、两类数据的整合（integration），以及整合后预期的洞见。好的混合方法目的陈述包含以下要素（Creswell & Creswell, 2022, pp.134–137）：
 
 > [!abstract] 混合方法目的陈述四要素
 > 1. **总体意图**：研究在内容层面最终要达成什么，最好具有实践价值。

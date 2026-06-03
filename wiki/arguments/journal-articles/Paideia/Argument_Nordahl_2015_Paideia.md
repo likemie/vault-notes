@@ -20,7 +20,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
-  - "[[Probes]]"
   - "[[Learning Gap]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []

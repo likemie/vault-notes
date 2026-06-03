@@ -59,7 +59,7 @@ updated: '2026-05-18'
 
 ## 理论内部结构
 
-> [!abstract] 内部效度（Internal Validity）
+> [!abstract] [[Internal Validity|内部效度]]（Internal Validity）
 > **定义**：[[Internal Validity|内部效度]]指干预与结果[[Variable|变量]]之间[[Causality|因果关系]]的成立程度——即我们能否确信观察到的变化确实是由干预引起的（Shadish et al., 2002; Hitchcock et al., 2015, p.461）。
 >
 > > "Internal validity, or the degree to which a causal relationship exists between a treatment and outcome variable is valid, is the sin qua non of [[Experimental Research|experimental design]]." (Hitchcock et al., 2015, p.461, citing Shadish et al., 2002)
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 > [[Single-Case Design|SCD]] 可以通过设计使这些替代解释变得不可信。识别这些设计特征的存在即可产生关于"干预是否按预期起作用"的判断（Hitchcock et al., 2015, p.462）。
 
 
-> [!abstract] 外部效度（External Validity）
+> [!abstract] [[External Validity|外部效度]]（External Validity）
 > **定义**：[[External Validity|外部效度]]指某项研究的因果推断在不同情境、场所、测量工具、人群等条件下仍然成立的程度——可视为推广性（generalization）的一个广泛面向（Shadish et al., 2002; Hitchcock et al., 2015, p.462）。
 >
 > > "External validity refers to the extent to which causal inference from a particular study holds over different contexts, settings, measures, populations, and so on." (Hitchcock et al., 2015, p.462)

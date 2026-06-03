@@ -10,7 +10,6 @@ type: concept
 tags:
   - subject/research-methodology
 related_concepts:
-  - "[[Integration in Mixed Methods]]"
   - "[[Research Question]]"
   - "[[Research Topic]]"
   - "[[Research Writing Script]]"
@@ -41,7 +40,7 @@ updated: 2026-05-31
 > [[Mixed Methods Research|混合方法研究]]问题（mixed methods question）是混合方法研究中除量化问题或假设和质性问题之外的第三类问题，直接陈述研究者希望通过组合（整合）量化与质性数据学到什么（Creswell & Creswell, 2022, p.150）。
 
 > [!quote]
-> "The mixed methods question addresses what the researcher hopes to learn with the combination ([[Integration in Mixed Methods|integration]]) of the quantitative and qualitative data."（Creswell & Creswell, 2022, Ch7）
+> "The mixed methods question addresses what the researcher hopes to learn with the combination (integration) of the quantitative and qualitative data."（Creswell & Creswell, 2022, Ch7）
 
 混合方法[[Research Question|研究问题]]是研究方法论中的一个新概念，与其他研究方法教科书中的问题类型不同。其正式讨论始于 Tashakkori & Creswell (2007) 在 Journal of Mixed Methods Research 上发表的社论（Creswell & Creswell, 2022, Ch7）。
 
@@ -67,14 +66,14 @@ updated: 2026-05-31
 > [!abstract]
 > [[Mixed Methods Research|混合方法研究]]问题的两个核心组件（Creswell & Creswell, 2022, Ch7）：
 >
-> 1. **整合的意图（intent of [[Integration in Mixed Methods|integration]]）**：说明为何要组合两类数据——是比较（compare）、解释（explain）、构建（build）还是增强（augment）
+> 1. **整合的意图（intent of integration）**：说明为何要组合两类数据——是比较（compare）、解释（explain）、构建（build）还是增强（augment）
 > 2. **整合的程序（procedures of integration）**：说明通过何种设计（聚敛式、解释性序列、探索性序列、嵌入式）和何种程序（合并、连接或嵌入）来整合
 
 ---
 
 ## 写作脚本
 
-> [!tip] 混合方法研究问题写作脚本
+> [!tip] [[Mixed Methods Research|混合方法研究]]问题[[Research Writing Script|写作脚本]]
 > Creswell & Creswell (2022, Ch7) 提供的[[Research Writing Script|写作脚本]]：
 >
 > "The mixed methods question in the study purpose or intent will be to ____ (compare, explain, build, augment) the ____ (quantitative data or qualitative data or process/framework) with ____ (quantitative data or qualitative data) by using a ____ (design: [[Convergent Design]], [[Explanatory Sequential Design]], [[Exploratory Sequential Design]], embedded design) with the procedure of ____ (merging, connecting, or embedding)."

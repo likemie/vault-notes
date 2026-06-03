@@ -18,10 +18,10 @@ tags:
 - research-methodology
 - evidence-based-education
 related_concepts:
+  - "[[Research Question]]"
   - "[[Internal Validity]]"
   - "[[Causality]]"
   - "[[External Validity]]"
-  - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"

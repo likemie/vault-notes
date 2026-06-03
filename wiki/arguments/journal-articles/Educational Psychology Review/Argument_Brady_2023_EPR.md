@@ -19,6 +19,7 @@ tags:
 - recommendations-for-practice
 - evidence-based-education
 related_concepts:
+  - "[[Research Question]]"
   - "[[Recommendations for Practice]]"
   - "[[Causality]]"
   - "[[Multimethod Research]]"

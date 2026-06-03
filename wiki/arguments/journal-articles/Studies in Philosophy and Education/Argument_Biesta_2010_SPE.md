@@ -18,6 +18,7 @@ tags:
 - paradigm/critical
 - region/global
 related_concepts:
+  - "[[Research Question]]"
   - "[[Evidence-Based Education]]"
   - "[[Causality]]"
   - "[[Reflexivity]]"

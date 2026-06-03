@@ -23,7 +23,6 @@ related_concepts:
   - "[[Epistemic Governance]]"
 related_theories:
   - "[[Cultural Models]]"
-  - "[[Critical Geopolitics]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
@@ -37,9 +36,6 @@ related_facts:
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Yan_2025_JCS]]"
-  - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
-  - "[[Argument_Parreira do Amaral_2022_Springer]]"
-  - "[[Argument_Amos_2022_Springer]]"
 sources:
   - "[[Ch9_Zapp_2022]]"
 confidence: medium
@@ -54,7 +50,7 @@ updated: '2026-06-02'
 ## 核心主张
 
 > [!tip]
-> 世界社会理论（world society theory，亦称世界政体理论或斯坦福学派）主张：在世界层面存在一个由[[Cultural Models|文化模型]]、规范和认知框架构成的世界社会（world society），它超越了以民族国家为中心的传统国际关系理解。这个世界社会缺乏传统的控制和权威机制（如中央政府和强制执行力），其运作本质上通过他者性（otherhood）机制——即围绕进步与正义等宏大目标的文化模型的扩散与模仿——来建构和维持（Meyer et al., 1997，引自 Zapp, 2022, pp.145, 149）。该理论强调，民族国家的制度形式、组织的结构特征以及个体的身份认同，很大程度上是全球文化模型在地方层面落地的结果，而非纯粹的地方性或功能性产物。
+> 世界社会理论（world society theory，亦称世界政体理论或斯坦福学派）主张：在世界层面存在一个由[[Cultural Models|文化模型]]、规范和认知框架构成的世界社会（world society），它超越了以民族国家为中心的传统国际关系理解。这个世界社会缺乏传统的控制和权威机制（如中央政府和强制执行力），其运作本质上通过他者性（[[Otherhood]]）机制——即围绕进步与正义等宏大目标的文化模型的扩散与模仿——来建构和维持（Meyer et al., 1997，引自 Zapp, 2022, pp.145, 149）。该理论强调，民族国家的制度形式、组织的结构特征以及个体的身份认同，很大程度上是全球文化模型在地方层面落地的结果，而非纯粹的地方性或功能性产物。
 
 > [!quote]
 > "Lacking traditional mechanisms of control and authority, world society is essentially constructed through such 'otherhood', that is, through the diffusion and mimesis of cultural models, usually revolving around broad goals of progress and justice often provided in a rationalized form by (social) scientists."（Meyer et al., 1997, cited in Zapp, 2022, p.149）

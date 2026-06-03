@@ -9,7 +9,6 @@ tags: ["theme/geopolitics-of-knowledge", "theme/subjectivity", "theme/21st-centu
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Probes]]"
   - "[[Governmentality]]"
   - "[[Discursive Opportunity Structures]]"
   - "[[Literature Review]]"
@@ -19,6 +18,7 @@ related_concepts:
   - "[[Knowledge Production]]"
 related_theories: []
 related_methods:
+  - "[[Single-Case Design]]"
   - "[[Critical Companion]]"
 related_persons: []
 related_facts: []

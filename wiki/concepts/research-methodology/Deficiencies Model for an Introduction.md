@@ -93,7 +93,7 @@ updated: 2026-05-31
 
 ## 完整示例
 
-> [!example] 表5.1：带标注的研究引言示例（Illustration of an Introduction to a Study With Annotated Markers of Components）
+> [!example] 表5.1：带标注的[[Research Introduction|研究引言]]示例（Illustration of an Introduction to a Study With Annotated Markers of Components）
 >
 > 以下为 Plano Clark et al. (2002) 关于高中青少年吸烟与抑郁的[[Qualitative Research|质性研究]]引言（改编自 Creswell & Bàez, 2020），完整展示了缺陷模型的四个组成部分在实际写作中的运用。
 >

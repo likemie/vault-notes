@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Imagined Community]]"
-  - "[[Probes]]"
   - "[[Zhonghua Minzu]]"
   - "[[Official Knowledge]]"
   - "[[Sinicisation]]"

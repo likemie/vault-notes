@@ -11,13 +11,24 @@ summary: "以滑铁卢大学的产学合作文化与 Schlegel-UW 老龄化研究
 type: argument
 citation: "Dean, C. B., Milligan, I., Yu, A., Szarka, M., Hannon, A., & Carroll-Dee, A. (2025). Gaining Support Within Universities for Collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 241–256). Springer."
 tags: ["theme/university-industry-collaboration", "theme/faculty-engagement", "theme/research-assessment", "region/canada"]
-related_concepts: []
+related_concepts:
+  - "[[University-Industry Collaboration]]"
+  - "[[Research Security]]"
+  - "[[Cooperative Education]]"
+  - "[[Declaration on Research Assessment]]"
+  - "[[University-Industry Co-location]]"
+  - "[[Academic Freedom]]"
+  - "[[Technology Transfer]]"
+  - "[[Technology Infusion]]"
+  - "[[Knowledge Mobilisation]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Schlegel-UW Research Institute for Aging]]"
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch13_Dean_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-03
@@ -43,7 +54,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [!abstract]
 > 不依赖正式学术理论，而是基于作者在滑铁卢大学研究行政部门的集体实践经验——六位作者分别担任科研与国际副校长、研究监督与分析的协理副校长、研究伙伴关系协理副校长、研究伙伴关系总监、企业研究伙伴关系副主任以及政府关系与传播副主任。
 > - [[University-Industry Collaboration]] — 采用 Ankrah 与 Al-Tabbaa（2015）的定义，将产学合作理解为产业与大学之间的"双向信息交流"（bi-directional exchange of information）（p.242），而非狭义的"合同研究"
-> - [[DORA (Declaration on Research Assessment)]] — 作为研究评估改革的参照框架，主张在教师晋升与终身教职评审中纳入更广泛的影响力指标，而非仅依赖文献计量指标（pp.250–251）
+> - [[Declaration on Research Assessment|DORA]] (Declaration on Research Assessment) — 作为研究评估改革的参照框架，主张在教师晋升与终身教职评审中纳入更广泛的影响力指标，而非仅依赖文献计量指标（pp.250–251）
 
 ---
 
@@ -106,7 +117,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 12. 专利、[[Technology Transfer|技术转移]]和产学合作的社会和经济影响超出了同行评审出版物的范围。商业化导向的学术休假（commercialization-based sabbaticals）可以让教师暂离校园进入企业，在理解[[Technology Infusion|技术融入]]产业生态的复杂性之后，带着洞察、想法和机会回到大学，深化两个组织之间的纽带（p.251）。
 
-13. [[DORA (Declaration on Research Assessment)|DORA]]（[[DORA (Declaration on Research Assessment)|旧金山科研评估宣言]]）正是在此背景下被引入：宣言主张关注研究的影响力而非机械地使用文献计量指标——期刊名称本身不重要，重要的是研究活动产生了什么实际影响。更全面的研究评估视角也有助于解决研究生态系统中的公平、多样性和包容性（EDI）问题：发展产学合作耗时费力，而已有研究表明女性、种族化群体和残障人士在校内外都面临更紧迫的时间压力（p.251）。
+13. [[Declaration on Research Assessment|DORA]]（旧金山科研评估宣言）正是在此背景下被引入：宣言主张关注研究的影响力而非机械地使用文献计量指标——期刊名称本身不重要，重要的是研究活动产生了什么实际影响。更全面的研究评估视角也有助于解决研究生态系统中的公平、多样性和包容性（EDI）问题：发展产学合作耗时费力，而已有研究表明女性、种族化群体和残障人士在校内外都面临更紧迫的时间压力（p.251）。
 
 ---
 
@@ -150,7 +161,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > 2. 伙伴关系经理在产学界面发挥双向翻译功能：对外审查产业机会的可信度和匹配度，对内帮助教师识别研究的产业应用场景。这种中介角色解决了产学之间固有的"粒度错配"。（pp.249–250）
 > 3. 共同选址通过持续面对面互动建立信任，NRC-滑铁卢大学合作中心和 [[Schlegel-UW Research Institute for Aging|RIA]] 是两个实例。疫情后调查显示面对面互动在伙伴关系建立中具有不可替代的价值。（pp.249, 251–253）
 > 4. [[Research Security|研究安全]]不应被回避，而应通过设立专门的制度性支持团队来管理。滑铁卢大学"保障研究"团队的原则是在透明性、可预测性、[[Academic Freedom|学术自由]]和开放科学规范之间寻求平衡。（pp.249–250）
-> 5. [[DORA (Declaration on Research Assessment)|DORA]] 倡导的全面研究评估视角——关注影响而非文献计量指标——与激励产学合作之间存在内在联系。现行终身教职评审制度低估商业化活动、专利和[[Technology Transfer|技术转移]]的贡献，改革评估标准是使产学合作"计入正资产"的前提。（pp.250–251）
+> 5. [[Declaration on Research Assessment|DORA]] 倡导的全面研究评估视角——关注影响而非文献计量指标——与激励产学合作之间存在内在联系。现行终身教职评审制度低估商业化活动、专利和[[Technology Transfer|技术转移]]的贡献，改革评估标准是使产学合作"计入正资产"的前提。（pp.250–251）
 
 > [!info]- 核心数据
 > - 过去五年滑铁卢大学一个学院研究经费总额：3.89 亿加元，其中产业及产业杠杆项目 1.34 亿加元（34%）（p.243）

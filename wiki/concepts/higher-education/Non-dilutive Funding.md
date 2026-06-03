@@ -15,6 +15,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University Spin-Out]]"
+  - "[[Technology Transfer Office]]"
   - "[[Technology Transfer]]"
   - "[[Proof of Concept Programs]]"
   - "[[Translational Research]]"

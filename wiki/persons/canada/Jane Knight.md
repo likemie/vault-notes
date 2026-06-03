@@ -18,7 +18,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Cultural Diplomacy]]"
-  - "[[Probes]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -90,7 +89,7 @@ Zapp (2022) 在分析大学的地缘政治再领土化时援引 Knight (2018) �
 - 在跨境高等教育研究领域：Knight 的 [[International Education Hubs|IEH]] 三类型学已成为分析各国教育枢纽战略的标准参照框架，被 Parreira do Amaral (2022) 用于分析教育枢纽和 Minerva 大学作为新[[Geopolitics of Knowledge|知识地缘政治]]的关键案例
 - 在 [[Geopolitics of Knowledge|知识地缘政治]] 研究领域：Knight (2018) 关于教育枢纽、知识村和智慧城市的分析被 Moisio (2018) 和 Zapp (2022) 援引，以论证大学的地缘政治再领土化——即大学知识越是全球化，大学的物理空间越是被国家用作国际人才与资本竞争的前沿阵地（Zapp, 2022, pp.155–156）
 - 在[[GATS and Trade in Education Services|教育服务贸易]]领域：Knight 对高等教育在 WTO 服务贸易总协定（GATS） 框架中角色的分析，为理解高等教育的商品化与贸易化提供了制度层面的分析工具
-- 在教育枢纽实证研究领域：Erfurth (2022) 的新加坡-阿联酋比较研究在运用 Knight 三类型学作为分析基础的同时，将该框架从政策倡导导向扩展至**地缘政治批判分析**——通过区分[[Cultural Diplomacy|文化外交]]和政治经济两个维度，揭示了 Knight 的类型学在描述枢纽"能做什么"时有效、但不足以[[Probes|追问]]枢纽"为谁服务"和"绕开了什么"（Erfurth, 2022, pp.203, 205–211）
+- 在教育枢纽实证研究领域：Erfurth (2022) 的新加坡-阿联酋比较研究在运用 Knight 三类型学作为分析基础的同时，将该框架从政策倡导导向扩展至**地缘政治批判分析**——通过区分[[Cultural Diplomacy|文化外交]]和政治经济两个维度，揭示了 Knight 的类型学在描述枢纽"能做什么"时有效、但不足以追问枢纽"为谁服务"和"绕开了什么"（Erfurth, 2022, pp.203, 205–211）
 
 ---
 ## 争议与批评

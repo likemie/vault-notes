@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[International Education]]"
-  - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
@@ -23,8 +22,7 @@ related_persons: []
 related_facts:
   - "[[Best Evidence in Brief]]"
 related_arguments: []
-sources:
-  - "[[Slavin_2021_ROE]]"
+sources: []
 confidence: medium
 status: draft
 created: '2026-05-02'

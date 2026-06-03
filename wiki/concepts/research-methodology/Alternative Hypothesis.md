@@ -73,7 +73,7 @@ updated: 2026-05-31
 >
 > **H2**: The relationships among gender identity, religiosity, and social actions are weaker among Arab women than among Jewish women.
 
-> [!tip] 写作脚本
+> [!tip] [[Research Writing Script|写作脚本]]
 > Creswell & Creswell (2022, Ch7) 提供的关系型[[Quantitative Research|量化研究]]问题与方向性假设的[[Research Writing Script|写作脚本]]：
 >
 > "____（理论名称____）posits that ____（解释[[Variable|变量]]间的关系____）。It is thus predicted that there will be a relationship between ____（预测变量____）and ____（结果变量____），such that ____（解释预测变量与结果变量之间效应的方向____）。"

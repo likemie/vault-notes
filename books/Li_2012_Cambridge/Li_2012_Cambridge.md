@@ -1,6 +1,7 @@
 ---
 citation: "Li, J. (2012). Cultural Foundations of Learning: East and West. Cambridge University Press."
 extracted_to:
+  - "[[Argument_Li_2012_Cambridge]]"
   - "[[Action Better Than Words]]"
   - "[[Affect-Respect and Ought-Respect]]"
   - "[[Benevolence]]"
@@ -70,6 +71,7 @@ extracted_to:
   - "[[MCC Discourse Analysis Examples]]"
   - "[[Mother-Child Conversation]]"
   - "[[Experience Sampling Method]]"
+  - "[[David Watkins]]"
   - "[[Confucius]]"
   - "[[Jin Li]]"
   - "[[Mencius]]"
@@ -84,13 +86,11 @@ extracted_to:
   - "[[George Berkeley]]"
   - "[[John Locke]]"
   - "[[Stevenson and Stigler]]"
+  - "[[Confucian Learning Tradition]]"
   - "[[Appraisal Theory]]"
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
   - "[[Cultural Models]]"
-  - "[[Confucian Learning Tradition]]"
-  - "[[David Watkins]]"
-  - "[[Argument_Li_2012_Cambridge]]"
 processed_date: 2026-05-25
 ---
 

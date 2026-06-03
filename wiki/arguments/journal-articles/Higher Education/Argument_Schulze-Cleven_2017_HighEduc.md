@@ -23,7 +23,6 @@ tags:
   - region/western-europe
   - level/higher-ed
 related_concepts:
-  - "[[Probes]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Academic Capitalism]]"
   - "[[New Public Management]]"

@@ -14,7 +14,6 @@ tags:
   - subject/comparative-education
 related_concepts:
   - "[[Corporate Education]]"
-  - "[[Probes]]"
   - "[[Analytic Framework]]"
   - "[[Corporate University]]"
   - "[[Further Education]]"

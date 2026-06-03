@@ -22,6 +22,7 @@ tags:
 - marketization
 - paradox
 related_concepts:
+  - "[[Research Question]]"
   - "[[School Autonomy]]"
   - "[[Analytic Framework]]"
 related_theories: []

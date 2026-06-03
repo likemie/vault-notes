@@ -15,8 +15,6 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Academic Freedom]]"
-  - "[[Global Universities Rankings]]"
-  - "[[University Social Responsibility]]"
 related_theories: []
 related_methods: []
 related_persons: []

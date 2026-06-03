@@ -11,9 +11,9 @@ extracted_to:
   - "[[Tense Society]]"
   - "[[Walter Mignolo]]"
   - "[[Camilla de Hollanda Amado]]"
+  - "[[Dell Delambre]]"
   - "[[Richard Castelo Branco]]"
   - "[[Creative Tension of Sense]]"
-  - "[[Dell Delambre]]"
 processed_date: 2026-05-11
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 ---

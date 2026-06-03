@@ -21,6 +21,7 @@ tags:
 - publication-bias
 - preregistration
 related_concepts:
+  - "[[Research Question]]"
   - "[[Effect Size]]"
   - "[[Researcher Degrees of Freedom]]"
   - "[[Publication Bias]]"

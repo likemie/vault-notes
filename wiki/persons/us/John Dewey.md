@@ -18,36 +18,27 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Quality Education]]"
   - "[[Scientific Attitude]]"
-  - "[[Recontextualization]]"
   - "[[Pragmatism in China]]"
-  - "[[Academic Freedom]]"
   - "[[Classroom Management]]"
   - "[[Professional Judgment]]"
   - "[[Technical Rationality]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Analytic Framework]]"
-  - "[[Problem-Based Learning]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Recontextualization]]"
   - "[[Junzi]]"
   - "[[Examination-Oriented Education]]"
-related_theories:
-  - "[[Transactional Epistemology]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Hu Shi]]"
   - "[[Jiang Menglin]]"
   - "[[Tao Xingzhi]]"
-  - "[[Stanislav Shatskii]]"
-  - "[[Anatoly Lunacharsky]]"
   - "[[John Hattie]]"
+  - "[[Stanislav Shatskii]]"
 related_facts:
   - "[[New Education Movement]]"
-  - "[[American Society for Cultural Relations with Russia]]"
 related_arguments: []
 sources:
   - "[[Schulte_2009_EncuentrosEducacion]]"
-  - "[[Ryabyy_2024_Maneto]]"
-  - "[[Zhou_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -99,7 +90,7 @@ updated: 2026-06-02
 
 杜威视民主不只是一种政体，而是一种联合生活方式（a way of life）。民主教育应培养自由交流、批判探究和共同解决问题的能力（Dewey [1916] 2018, p.93）。因此，学校、新闻传播、公民社会和公共舆论都属于民主能否实际运行的教育条件。
 
-在改革路径上，杜威反对激进与保守的二元对立，主张教育改革只能一步步地、零碎地完成（Dewey [1916] 2018, pp.146–147）。他提倡实验主义（experimentalism）作为调和新旧的中介路径，即通过试错 (trial and error) 逐步改进（Dewey [1919–1921] 2007, pp.191–192, 222, 319）。
+在改革路径上，杜威反对激进与保守的二元对立，主张教育改革只能一步步地、零碎地完成（Dewey [1916] 2018, pp.146–147）。他提倡[[Pragmatism in China|实验主义]]（experimentalism）作为调和新旧的中介路径，即通过试错 (trial and error) 逐步改进（Dewey [1919–1921] 2007, pp.191–192, 222, 319）。
 
 ---
 
@@ -124,8 +115,8 @@ updated: 2026-06-02
 
 ### 1920s–1930s — 公共性、确定性批判与跨国传播
 
-- 核心内容：从 *The Public and Its Problems*、*The Quest for Certainty* 到 *Logic: The Theory of Inquiry*，杜威进一步把探究理论扩展到公共生活、知识论和社会行动；1928 年访苏也使其进步教育思想进入美苏[[Cultural Diplomacy|文化外交]]与教育交流的可见事件中（Ryabyy, 2024, pp.102–109）。
-- 思想发展：杜威思想在中国、苏联等语境中被选择性吸收、批判和[[Recontextualization|再脉络化]]，民主理想、科学态度与渐进实验方法不再总能保持原有统一关系（Zhou & Westberg, 2024, pp.621–622）。
+- 核心内容：从 *The Public and Its Problems*、*The Quest for Certainty* 到 *Logic: The Theory of Inquiry*，杜威进一步把探究理论扩展到公共生活、知识论和社会行动；1928 年访苏也使其[[Progressive Education|进步教育]]思想进入美苏[[Cultural Diplomacy|文化外交]]与教育交流的可见事件中（Ryabyy, 2024, pp.102–109）。
+- 思想发展：杜威思想在中国、苏联等语境中被选择性吸收、批判和[[Recontextualization|再脉络化]]，民主理想、[[Scientific Attitude|科学态度]]与渐进实验方法不再总能保持原有统一关系（Zhou & Westberg, 2024, pp.621–622）。
 ...
 
 ---
@@ -149,7 +140,7 @@ updated: 2026-06-02
 ### 苏联与进步教育跨国传播
 
 - 苏联教育者在十月革命前后广泛阅读 Dewey 的著作——*School and Society* 和 *The School and the Child* 被翻译成俄文，极大地影响了俄国教育学的发展。在 1920 年代，Dewey 在苏联被视为最知名的作者之一，其肖像和思想被收录于苏联编纂的 *Pedagogicheskaya Entisiklopediya* 中（Ryabyy, 2024, p.104）。
-- 1928 年访苏期间，Dewey 与 [[Stanislav Shatskii]] 等进步教育者直接会面；这一访问既是美苏民间文化交流，也是进步教育美国版本与苏联版本之间的直接接触（Ryabyy, 2024, pp.103, 107）。
+- 1928 年访苏期间，Dewey 与 [[Stanislav Shatskii]] 等[[Progressive Education|进步教育]]者直接会面；这一访问既是美苏民间文化交流，也是进步教育美国版本与苏联版本之间的直接接触（Ryabyy, 2024, pp.103, 107）。
 - 1930 年代后，苏联因 Dewey 对教育目标的理解（创造一个促进儿童成长的环境）与阶级意识教育的冲突而全面拒绝其思想（Mchitarjan 2000; Gorshkova 2015，引自 Ryabyy, 2024, pp.103–104）。
 
 ---

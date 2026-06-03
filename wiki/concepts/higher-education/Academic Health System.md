@@ -11,7 +11,9 @@ tags:
   - "theme/innovation"
   - "level/higher-education"
 related_concepts:
+  - "[[Academic Medical Center]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Applied Medical Innovation]]"
 related_theories: []
 related_methods: []
 related_persons: []

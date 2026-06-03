@@ -13,6 +13,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Postpositivism]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Pragmatism in China]]"
   - "[[Research Question]]"
   - "[[Descriptive Analysis]]"
   - "[[Metainferences]]"
@@ -70,7 +71,7 @@ updated: 2026-06-02
 
 ## 3. 认识论立场
 
-> [!abstract] 后实证主义与实用主义 (Post-positivism & Pragmatism)
+> [!abstract] [[Postpositivism|后实证主义]]与[[Pragmatic Paradigm|实用主义]] (Post-positivism & [[Pragmatism in China|pragmatism]])
 > 该设计通常始于[[Postpositivism|后实证主义]]立场（强调通过量化测量识别客观规律），随后转向解释主义/[[Pragmatic Paradigm|实用主义]]立场（强调通过个体经验理解具体背景）。它体现了实用主义的灵活性，即根据[[Research Question|研究问题]]的不同阶段切换最有效的工具。
 
 ---
@@ -140,7 +141,7 @@ updated: 2026-06-02
 > [!example] 案例 1：Ivankova & Stick (2007)
 > 对 278 名学生进行问卷调查以识别持续就学的预测因素，随后选择四类学生各一人进行质性案例分析，深入解释统计结果中的组间差异（Creswell & Creswell, 2022, pp.137–138）。
 
-> [!example] 目的陈述要素拆解：Ivankova & Stick (2007)
+> [!example] [[Purpose Statement|目的陈述]]要素拆解：Ivankova & Stick (2007)
 >
 > **完整[[Purpose Statement|目的陈述]] (Full Purpose Statement)**：
 > "The purpose of this mixed methods sequential explanatory study was to identify factors contributing to students' persistence in the ELHE program by obtaining quantitative results from a survey of 278 current and former students and then following up with four purposefully selected individuals to explore those results in more depth through a qualitative [[Case Study]] analysis. In the first, quantitative phase of the study, the [[Research Question|research questions]] focused on how selected internal and external [[Variable|variables]] to the ELHE program (program-related, advisor- and faculty-related, institutional-related, student-related factors, and external factors) served as predictors to students' persistence in the program. In the second, qualitative phase, four case studies from distinct participant groups explored in-depth the results from the statistical tests." (p.95)

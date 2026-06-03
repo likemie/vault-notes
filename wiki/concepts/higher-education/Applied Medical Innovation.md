@@ -15,6 +15,7 @@ related_concepts:
   - "[[Physician-Scientist]]"
   - "[[Team Science]]"
   - "[[Academic Health System]]"
+  - "[[Academic Medical Center]]"
   - "[[Translational Research]]"
   - "[[Technology Transfer]]"
 related_theories: []

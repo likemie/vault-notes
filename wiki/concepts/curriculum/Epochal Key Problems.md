@@ -15,7 +15,6 @@ related_concepts:
   - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
   - "[[Atomisation of Knowledge and Skills]]"
-  - "[[Probes]]"
   - "[[Champ]]"
 related_theories: []
 related_methods: []

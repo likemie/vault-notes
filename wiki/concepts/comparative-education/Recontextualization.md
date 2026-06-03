@@ -10,7 +10,6 @@ tags:
   - theme/reception-history
   - theme/recontextualization
 related_concepts:
-  - "[[Probes]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Quality Education]]"

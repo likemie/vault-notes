@@ -21,6 +21,7 @@ tags:
 - region/new-zealand
 - region/us
 related_concepts:
+  - "[[Research Question]]"
   - "[[Employability]]"
   - "[[Graduate Attributes]]"
   - "[[Global Citizenship]]"

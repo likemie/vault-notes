@@ -27,7 +27,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Refined Mastery]]"
   - "[[Quality Education]]"
-  - "[[Probes]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
 related_methods: []

@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Humility in Learning]]"
   - "[[Western Learner]]"
-  - "[[Probes]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:

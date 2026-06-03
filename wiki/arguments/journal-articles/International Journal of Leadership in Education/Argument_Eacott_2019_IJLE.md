@@ -15,6 +15,7 @@ tags:
   - neo-taylorism
   - stance/critique
 related_concepts:
+  - "[[Research Question]]"
   - "[[Parallel Monologues]]"
   - "[[Knowledge Production]]"
   - "[[Reflexivity]]"

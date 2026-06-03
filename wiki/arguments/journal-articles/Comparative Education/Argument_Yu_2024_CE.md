@@ -21,7 +21,6 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Official Knowledge]]"
-  - "[[Probes]]"
   - "[[Hegemony]]"
   - "[[Zhonghua Minzu]]"
   - "[[Confucian Heritage Cultures]]"

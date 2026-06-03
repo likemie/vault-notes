@@ -14,7 +14,6 @@ tags:
 related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Necropolitics]]"
-  - "[[Probes]]"
   - "[[Retrotopia]]"
   - "[[Settler Colonialism]]"
   - "[[Sacrifice Theory]]"

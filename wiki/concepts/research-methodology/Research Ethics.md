@@ -43,7 +43,7 @@ updated: 2026-05-31
 
 研究伦理按研究阶段可分为五个层面的议题和策略（Creswell & Creswell, 2022, 第4章, Table 4.1）：
 
-> [!abstract] 表4.1：质性、量化与混合方法研究中的伦理问题（Ethical Issues in Qualitative, Quantitative, and Mixed Methods Research）
+> [!abstract] 表4.1：质性、量化与[[Mixed Methods Research|混合方法研究]]中的伦理问题（Ethical Issues in Qualitative, Quantitative, and Mixed Methods Research）
 >
 > | 研究阶段（Process of Research） | 伦理问题类型（Type of Ethical Issue） | 应对策略（How to Address the Issue） |
 > |---|---|---|

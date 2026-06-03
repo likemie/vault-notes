@@ -18,6 +18,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Sponsored Research Agreement]]"
   - "[[Foreground IP]]"
 related_theories: []
 related_methods: []

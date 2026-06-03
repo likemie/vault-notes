@@ -15,6 +15,7 @@ tags:
 - comparative-education
 - region/global
 related_concepts:
+  - "[[Research Question]]"
   - "[[Cross-National Attraction]]"
   - "[[Analytic Framework]]"
   - "[[Policy Borrowing]]"
@@ -22,7 +23,6 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Causality]]"
   - "[[Externalization]]"
-  - "[[Probes]]"
 related_theories: []
 related_methods: []
 related_persons: []

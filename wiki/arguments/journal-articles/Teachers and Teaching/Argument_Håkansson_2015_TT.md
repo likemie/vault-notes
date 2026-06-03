@@ -17,6 +17,7 @@ tags:
   - subject/instruction-pedagogy
   - method/meta-synthesis
 related_concepts:
+  - "[[Research Question]]"
   - "[[Structured Teaching]]"
   - "[[Direct Instruction]]"
   - "[[Individualised Instruction]]"
@@ -24,7 +25,6 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Effect Size]]"
-  - "[[Probes]]"
   - "[[Variable]]"
   - "[[Classroom Management]]"
 related_theories: []

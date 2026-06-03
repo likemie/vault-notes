@@ -12,7 +12,9 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Sponsored Research Agreement]]"
   - "[[University Spin-Out]]"
+  - "[[Research Security]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -22,6 +24,7 @@ related_arguments: []
 sources:
   - "[[Ch1_Boccanfuso_Hall_2025]]"
   - "[[Ch8_Gilison_Wilson_2025]]"
+  - "[[Ch13_Dean_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft

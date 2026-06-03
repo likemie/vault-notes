@@ -19,6 +19,7 @@ tags:
 - stance/critique
 - region/new-zealand
 related_concepts:
+  - "[[Research Question]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Effect Size]]"

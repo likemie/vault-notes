@@ -16,7 +16,8 @@ tags:
 - policy-entrepreneur
 - region/new-zealand
 - level/k12
-related_concepts: []
+related_concepts:
+  - "[[Research Question]]"
 related_theories: []
 related_methods: []
 related_persons:

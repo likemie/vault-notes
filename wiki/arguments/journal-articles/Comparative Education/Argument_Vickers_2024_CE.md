@@ -18,7 +18,7 @@ tags:
   - method/textbook-analysis
   - policy/national-security-law
 related_concepts:
-  - "[[Probes]]"
+  - "[[Research Question]]"
   - "[[One Country, Two Systems]]"
   - "[[Theoretical Perspective]]"
   - "[[Sinicisation]]"

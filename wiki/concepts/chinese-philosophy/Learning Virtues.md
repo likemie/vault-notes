@@ -26,7 +26,6 @@ related_concepts:
   - "[[Humility in Learning]]"
   - "[[Pride in Learning]]"
   - "[[Cognitive Source]]"
-  - "[[Probes]]"
   - "[[Rote Learning]]"
 related_theories:
   - "[[Phenomenology]]"

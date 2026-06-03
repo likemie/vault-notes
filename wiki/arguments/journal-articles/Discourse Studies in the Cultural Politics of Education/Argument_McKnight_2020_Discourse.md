@@ -17,6 +17,7 @@ tags:
 - sexism
 - stance/critique
 related_concepts:
+  - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Literature Review]]"
   - "[[Knowledge Production]]"

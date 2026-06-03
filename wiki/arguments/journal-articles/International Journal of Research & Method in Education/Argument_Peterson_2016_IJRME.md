@@ -16,6 +16,7 @@ tags:
 - what-works
 - research-methodology
 related_concepts:
+  - "[[Research Question]]"
   - "[[Literature Review]]"
   - "[[Variable]]"
   - "[[Spirals of Inquiry]]"

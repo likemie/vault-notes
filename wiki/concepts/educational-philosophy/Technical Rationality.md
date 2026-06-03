@@ -11,7 +11,6 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Probes]]"
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"

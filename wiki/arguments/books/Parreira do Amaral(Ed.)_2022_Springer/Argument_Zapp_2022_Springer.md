@@ -12,7 +12,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Probes]]"
   - "[[Epistemic Governance]]"
   - "[[Analytic Framework]]"
   - "[[Otherhood]]"

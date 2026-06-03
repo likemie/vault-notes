@@ -12,6 +12,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[T-Shaped Skills]]"
+  - "[[Applied Medical Innovation]]"
   - "[[Physician-Scientist]]"
 related_theories: []
 related_methods: []

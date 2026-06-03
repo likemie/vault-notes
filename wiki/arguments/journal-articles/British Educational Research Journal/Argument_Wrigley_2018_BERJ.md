@@ -21,7 +21,7 @@ tags:
 - paradigm/critical
 - region/uk
 related_concepts:
-  - "[[Probes]]"
+  - "[[Research Question]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"

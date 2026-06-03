@@ -14,14 +14,14 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Pragmatism in China]]"
   - "[[Central Phenomenon]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Data Transformation in Mixed Methods]]"
   - "[[Metainferences]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Qualitative Validity]]"
   - "[[Construct]]"
-  - "[[Pragmatism in China]]"
+  - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -78,7 +78,7 @@ updated: 2026-06-02
 
 ## 3. 认识论立场
 
-> [!abstract] 实用主义 (Pragmatism)
+> [!abstract] [[Pragmatic Paradigm|实用主义]] ([[Pragmatism in China|pragmatism]])
 > 聚敛式设计通常扎根于[[Pragmatic Paradigm|实用主义范式]]，强调什么有效（what works）来解决[[Research Question|研究问题]]。它不追求量化或质性范式的排他性，而是认为通过并行的数据收集可以从多维度捕捉现实，不同性质的证据可以互补以服务于对复杂教育现象的解释。
 
 ---
@@ -103,7 +103,7 @@ updated: 2026-06-02
 5. **合并比较**：将两类结果并置，检视其趋同或分歧，得出整合性推论。
 
 ### 4.3 整合分析阶段与方式
-整合分析（[[Integration in Mixed Methods|integration]] Analysis）分为三个阶段（Creswell & Creswell, 2022, pp.237–239）：
+整合分析（integration Analysis）分为三个阶段（Creswell & Creswell, 2022, pp.237–239）：
 
 **阶段 1：分别分析**
 分别分析质性数据库（[[Coding in Qualitative Research|编码]]→主题）和量化数据库（统计结果）。

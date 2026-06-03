@@ -16,7 +16,6 @@ related_concepts:
   - "[[Flow]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hypothesis]]"
-  - "[[Probes]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Innovation Hub]]"
   - "[[Innovation Ecosystem]]"
@@ -63,7 +62,7 @@ Moisio 借用 Jessop（2005）对"想象"（imaginaries）的分析——想象�
 ## 概念辨析
 
 > [!example]
-> - vs 世界城市假说（World City [[Hypothesis]], Friedmann）：Friedmann 的世界城市假说着眼于城市在全球经济中的层级地位本身——哪些城市是"世界城市"；枢纽与流动想象则[[Probes|追问]]这种层级化背后的认知框架——决策者和政策制定者脑中关于"哪里重要、谁该处于中心"的想象，如何反过来驱动了空间资源的分配
+> - vs 世界城市假说（World City [[Hypothesis]], Friedmann）：Friedmann 的世界城市假说着眼于城市在全球经济中的层级地位本身——哪些城市是"世界城市"；枢纽与流动想象则追问这种层级化背后的认知框架——决策者和政策制定者脑中关于"哪里重要、谁该处于中心"的想象，如何反过来驱动了空间资源的分配
 - vs [[Geopolitics of Knowledge|知识地缘政治]]：知识地缘政治是一个涵盖面更广的概念框架，包含政治想象、空间重构、治理技术和全球-地方张力等多个分析维度；枢纽与流动想象是该框架中"政治想象"这一维度的核心内容，为理解知识地缘政治中的空间组织逻辑提供了具体的分析抓手
 - vs [[Fixity-Motion Tension|固着-流动张力]]：Harvey 的固着-流动张力是从资本主义生产方式内部解释"为什么"会产生枢纽与流动的结构性需求——资本既需要地方锚定又不断动摇这些锚定；枢纽与流动想象则是这种结构性张力在政治认知层面的表现——它回答的是政策制定者"如何想象和合法化"这种枢纽-边缘的空间秩序
 

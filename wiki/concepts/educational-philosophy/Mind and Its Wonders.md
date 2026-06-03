@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Self-Cultivation]]"
-  - "[[Probes]]"
   - "[[Certainty of Knowledge]]"
   - "[[Western Learner]]"
 related_theories: []

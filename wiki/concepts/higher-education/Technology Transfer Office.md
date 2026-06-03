@@ -14,6 +14,7 @@ tags:
   - "theme/university-industry-collaboration"
   - "theme/organization"
 related_concepts:
+  - "[[Technology Transfer]]"
   - "[[University Spin-Out]]"
   - "[[Boundary Spanner]]"
   - "[[University-Industry Collaboration]]"

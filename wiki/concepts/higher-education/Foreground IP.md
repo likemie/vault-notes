@@ -19,6 +19,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[MN-IP Create]]"
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
 sources:

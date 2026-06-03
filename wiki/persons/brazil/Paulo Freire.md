@@ -18,11 +18,9 @@ related_concepts:
   - "[[Forced Knowledge Transfer]]"
   - "[[Knowledge Transfer]]"
   - "[[Knowledge Production]]"
-related_theories:
-  - "[[Decolonial Geopolitics of Knowledge]]"
+related_theories: []
 related_methods: []
-related_persons:
-  - "[[Frantz Fanon]]"
+related_persons: []
 related_arguments: []
 sources:
   - "[[Ch5_Partaken_2022]]"

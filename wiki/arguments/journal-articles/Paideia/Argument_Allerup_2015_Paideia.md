@@ -16,7 +16,7 @@ tags:
 - statistics
 - subject/research-methodology
 related_concepts:
-  - "[[Probes]]"
+  - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Didaktik]]"

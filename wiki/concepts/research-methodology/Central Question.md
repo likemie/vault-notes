@@ -92,12 +92,12 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 
 ## 写作脚本与范例
 
-> [!tip] 质性核心问题写作脚本
+> [!tip] 质性核心问题[[Research Writing Script|写作脚本]]
 > Creswell & Creswell (2022, Ch7) 提供的[[Research Writing Script|写作脚本]]：
 >
 > "____ (How or what?) is the ____ ([[Central Phenomenon]]) for ____ (participants) at ____ (research site)."
 
-> [!example] 民族志核心问题范例
+> [!example] [[Ethnography|民族志]]核心问题范例
 > Mac an Ghaill & Haywood (2015) 研究了一组英国出生的工薪阶层巴基斯坦和孟加拉裔年轻男性在三年间的文化状况变化。虽未明确构建[[Research Question|研究问题]]，Creswell & Creswell 建议的核心问题为：
 >
 > "What are the core beliefs related to ethnicity, religion, and cultural belonging of the group of British-born, working-class Pakistani and Bangladeshi young men over a 3-year time period, and how do the young men [[Construct]] and understand their geographically specific experiences of family, schooling, and social life as well as growing up and interacting within their local community in a rapidly changing Britain?"（Creswell & Creswell, 2022, Ch7）

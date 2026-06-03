@@ -17,6 +17,7 @@ related_concepts:
   - "[[Quasi-markets in Higher Education]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Park]]"
+  - "[[Technology Transfer Office]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Proof of Concept Programs]]"
   - "[[Non-dilutive Funding]]"

@@ -16,7 +16,6 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Effect Size]]"
   - "[[Constructive Alignment]]"
-  - "[[Probes]]"
   - "[[Visible Learning]]"
   - "[[Material Fallacies]]"
 related_theories: []

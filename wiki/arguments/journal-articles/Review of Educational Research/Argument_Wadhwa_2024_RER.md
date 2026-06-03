@@ -18,13 +18,13 @@ tags:
 - rer
 - methodology
 related_concepts:
+  - "[[Research Question]]"
   - "[[Multimethod Research]]"
   - "[[Construct Validity in Quantitative Measurement]]"
   - "[[Construct]]"
   - "[[Evidence-Based Education]]"
   - "[[Descriptive Analysis]]"
   - "[[Causality]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[School Leadership]]"
   - "[[Effect Size]]"
 related_theories:

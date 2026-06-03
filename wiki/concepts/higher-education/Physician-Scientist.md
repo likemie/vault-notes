@@ -12,6 +12,7 @@ tags:
   - "theme/innovation"
   - "level/higher-education"
 related_concepts:
+  - "[[Applied Medical Innovation]]"
   - "[[University-Industry Collaboration]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Refined Mastery]]"

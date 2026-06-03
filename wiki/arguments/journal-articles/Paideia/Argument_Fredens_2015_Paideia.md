@@ -15,6 +15,7 @@ tags:
 - region/denmark
 - level/k12
 related_concepts:
+  - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"

@@ -15,20 +15,22 @@ tags:
 - school-improvement
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Probes]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Schlegel-UW Research Institute for Aging]]"
 related_arguments: []
 sources:
   - "[[Nelson_2017_ER]]"
   - "[[Nordahl_2015_Paideia]]"
+  - "[[Ch13_Dean_2025]]"
 confidence: medium
 status: draft
 created: '2026-05-21'

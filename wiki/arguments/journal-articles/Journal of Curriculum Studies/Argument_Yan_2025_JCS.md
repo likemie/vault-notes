@@ -19,6 +19,7 @@ tags:
   - region/china
   - level/k12
 related_concepts:
+  - "[[Research Question]]"
   - "[[Progressive Education]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"

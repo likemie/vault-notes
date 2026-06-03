@@ -13,7 +13,6 @@ tags:
   - theme/peer-culture
   - theme/learning-model
 related_concepts:
-  - "[[Probes]]"
   - "[[Peer-Supported Learning]]"
   - "[[Class Size]]"
   - "[[Zero-Sum Competition]]"

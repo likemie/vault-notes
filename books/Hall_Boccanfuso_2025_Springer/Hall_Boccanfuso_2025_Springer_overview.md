@@ -5,13 +5,14 @@ extracted_to:
   - "[[Academic Freedom]]"
   - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
+  - "[[Technology Transfer Office]]"
+  - "[[Technology Transfer]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Bayh-Dole Act of 1980]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
-  - "[[Triple Helix]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[Technology Transfer]]"
-  - "[[Bayh-Dole Act of 1980]]"
+  - "[[Triple Helix]]"
 processed_date: 2026-05-27
 ---
 

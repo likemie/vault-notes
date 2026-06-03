@@ -14,6 +14,7 @@ tags:
   - bourdieu
   - paradigm/critical
 related_concepts:
+  - "[[Research Question]]"
   - "[[Champ]]"
   - "[[Habitus]]"
   - "[[Doxa]]"

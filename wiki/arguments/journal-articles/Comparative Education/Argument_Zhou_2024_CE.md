@@ -19,12 +19,12 @@ tags:
   - theory/transfer-frameworks
   - paradigm/comparative-education
 related_concepts:
+  - "[[Research Question]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Scientific Attitude]]"
   - "[[Pragmatism in China]]"
   - "[[Champ]]"
   - "[[Knowledge Transfer]]"
-  - "[[Probes]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"

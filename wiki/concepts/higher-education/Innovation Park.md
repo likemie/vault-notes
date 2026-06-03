@@ -15,7 +15,7 @@ tags:
 related_concepts:
   - "[[Innovation Hub]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Technology Transfer]]"
+  - "[[Technology Transfer Office]]"
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
 related_theories: []

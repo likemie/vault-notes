@@ -12,7 +12,6 @@ extracted_to:
   - "[[Jiang Menglin]]"
   - "[[Tao Xingzhi]]"
   - "[[Robert Cowen]]"
-  - "[[John Dewey]]"
 processed_date: 2026-05-26
 ---
 

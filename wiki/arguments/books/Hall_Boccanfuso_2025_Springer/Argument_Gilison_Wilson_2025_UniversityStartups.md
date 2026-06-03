@@ -19,6 +19,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Non-dilutive Funding]]"
   - "[[Technology Transfer]]"
+  - "[[Technology Transfer Office]]"
   - "[[Corporate Venture Capital]]"
   - "[[Technology Readiness Level]]"
   - "[[Professional Judgment]]"

@@ -15,6 +15,7 @@ tags:
   - posthumanism
   - higher-ed
 related_concepts:
+  - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Analytic Framework]]"
   - "[[Transhumanism]]"
@@ -27,7 +28,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Vergegenkunft]]"
   - "[[Educational Technology Industry]]"
-  - "[[Probes]]"
   - "[[Learning Analytics]]"
   - "[[SF (Haraway)]]"
   - "[[Humosity]]"

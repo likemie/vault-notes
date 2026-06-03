@@ -17,6 +17,7 @@ tags:
   - method/narrative-case-study
   - policy/compulsory-education
 related_concepts:
+  - "[[Research Question]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Analytic Framework]]"

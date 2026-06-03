@@ -16,6 +16,7 @@ tags:
   - stance/critique
   - region/australia
 related_concepts:
+  - "[[Research Question]]"
   - "[[School Leadership]]"
   - "[[Cult of the Guru]]"
   - "[[Analytic Framework]]"

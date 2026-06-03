@@ -19,6 +19,7 @@ tags:
 - region/canada
 - region/global
 related_concepts:
+  - "[[Research Question]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Analytic Framework]]"

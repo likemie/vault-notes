@@ -15,13 +15,13 @@ tags:
 - stance/critique
 - region/global
 related_concepts:
+  - "[[Research Question]]"
   - "[[Transformative Leadership]]"
   - "[[Champ]]"
   - "[[Literature Review]]"
   - "[[School Leadership]]"
   - "[[New Public Management]]"
   - "[[Reflexivity]]"
-  - "[[Probes]]"
 related_theories: []
 related_methods: []
 related_persons: []

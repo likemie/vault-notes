@@ -10,27 +10,25 @@ method_type: mixed
 tags:
   - method/mixed-methods
 related_concepts:
-  - "[[Hypothesis]]"
+  - "[[Postpositivism]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
-  - "[[Metainferences]]"
-  - "[[Purpose Statement]]"
+  - "[[Hypothesis]]"
+  - "[[Construct]]"
   - "[[Construct Validity in Quantitative Measurement]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Qualitative Interview]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Quantitative Research]]"
-  - "[[Joint Display]]"
   - "[[Explanatory Sequential Design]]"
+  - "[[Joint Display]]"
   - "[[Convergent Design]]"
-  - "[[Ethnography]]"
-  - "[[Grounded Theory]]"
 related_persons: []
 related_facts: []
 related_arguments: []
-sources:
-  - "[[Creswell_2022_SAGE]]"
+sources: []
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -70,8 +68,8 @@ updated: 2026-06-02
 
 ## 3. 认识论立场
 
-> [!abstract] 从解释主义转向后实证主义
-> 该设计体现了认识论的转变：初始阶段采用解释主义/建构主义立场（通过深入探究捕捉参与者的意义建构），随后转向后实证主义立场（通过标准化测量在大样本中验证规律）。这种转换服务于实用主义目标：将深度的质性洞见转化为可推广的量化证据。
+> [!abstract] 从解释主义转向[[Postpositivism|后实证主义]]
+> 该设计体现了认识论的转变：初始阶段采用解释主义/[[Constructivist Paradigm|建构主义]]立场（通过深入探究捕捉参与者的意义建构），随后转向后实证主义立场（通过标准化测量在大样本中验证规律）。这种转换服务于[[Pragmatic Paradigm|实用主义]]目标：将深度的质性洞见转化为可推广的量化证据。
 
 ---
 
@@ -81,7 +79,7 @@ updated: 2026-06-02
 在研究开始前，需明确三阶段的转化逻辑（Creswell & Creswell, 2022, p.138）：
 
 > **英文脚本：**
-> This study will address ________ (overall intent). The purpose of this exploratory sequential design will be to first qualitatively explore with a small sample, design or modify a quantitative assessment (e.g., instrument, website, experimental intervention activities, new variables) based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample. The first, qualitative phase of the study will involve collecting ________ data from ________ (participants) at ________ (research site) to understand ________. Based on this initial exploration, the qualitative findings will be used to design a culturally or contextually specific quantitative assessment for testing with a large sample. This testing will ________ (relate or compare) ________ quantitative data from ________ (participants) at ________ (research site). The insight gained from designing a quantitative assessment based on qualitative data will be ________.
+> This study will address ________ (overall intent). The purpose of this exploratory sequential design will be to first qualitatively explore with a small sample, design or modify a quantitative assessment (e.g., instrument, website, experimental intervention activities, new [[Variable|variables]]) based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample. The first, qualitative phase of the study will involve collecting ________ data from ________ (participants) at ________ (research site) to understand ________. Based on this initial exploration, the qualitative findings will be used to design a culturally or contextually specific quantitative assessment for testing with a large sample. This testing will ________ (relate or compare) ________ quantitative data from ________ (participants) at ________ (research site). The insight gained from designing a quantitative assessment based on qualitative data will be ________.
 > 
 > **中文译文：**
 > 本研究解决________（总体意图）。本探索性序列设计的目的是先以小样本进行质性探索，基于质性发现设计或修改量化评估（如工具、网站、实验干预活动、新[[Variable|变量]]），然后用大样本检验这一设计或修改后的量化评估。第一阶段的质性探索将从________参与者在________研究场所收集________数据以理解________。基于这一初步探索，质性发现将用于设计可用于大样本检验的文化或情境特定的量化评估。该检验将________（关联/比较）来自________参与者在________研究场所的________量化数据。基于质性数据设计量化评估的洞见将是________。
@@ -96,7 +94,7 @@ updated: 2026-06-02
 中间阶段要求研究者具备翻译能力，具体转化路径如下（Creswell & Creswell, 2022, p.242）：
 - **质性引用 (Quotes)** $\rightarrow$ 用于撰写问卷条目 (Survey Items)。
 - **[[Coding in Qualitative Research|质性编码]] (Codes)** $\rightarrow$ 用于开发变量 (Variables)，将条目分组。
-- **质性主题 (Themes)** $\rightarrow$ 用于开发量表 (Scales)，形成更高维度的构念。
+- **质性主题 (Themes)** $\rightarrow$ 用于开发量表 (Scales)，形成更高维度的[[Construct|构念]]。
 
 ### 4.4 样本策略
 **关键原则**：质性阶段的样本不应包含在量化阶段中。
@@ -104,11 +102,11 @@ updated: 2026-06-02
 - **对比**：这与[[Explanatory Sequential Design|解释性序列设计]]（质性样本是量化样本的子集）正好相反（Creswell & Creswell, 2022, pp.242–243）。
 
 ### 4.5 整合工具：联合展示 (Joint Display)
-联合展示追踪从质性产出到量化设计的转化路径（Creswell & Creswell, 2022, p.242）。
+[[Joint Display|联合展示]]追踪从质性产出到量化设计的转化路径（Creswell & Creswell, 2022, p.242）。
 
 **表 10.4：探索性序列设计联合展示模板（以调查开发为例）**
 
-| 质性阶段 (Qualitative Phase) | 设计特征 (Design Features) | 元推论 (Meta-inferences) |
+| 质性阶段 (Qualitative Phase) | 设计特征 (Design Features) | [[Metainferences\|元推论]] (Meta-inferences) |
 | :--- | :--- | :--- |
 | **质性引用** (Quotes) | **量化调查条目** (Survey Items) | 评估条目的清晰度与适切性 |
 | **质性编码** (Codes) | **量化调查变量** (Variables) | 评估变量结构的代表性 |
@@ -127,7 +125,7 @@ updated: 2026-06-02
 
 ### 效度威胁 (Validity Threats)
 - **测量学开发不规范**：未遵循严格的工具开发指南（如条目分析、效度估计），导致生成的量表质量存疑。需参考 DeVellis (2017) 等标准。
-- **质性发现利用不足**：若质性探索阶段过于单薄（仅有简短评论而非深度访谈），将无法支撑有意义的条目开发。
+- **质性发现利用不足**：若质性探索阶段过于单薄（仅有简短评论而非[[Qualitative Interview|深度访谈]]），将无法支撑有意义的条目开发。
 - **样本混淆**：若质性参与者被纳入量化受测样本，将损害研究的独立性。
 
 ---
@@ -137,7 +135,7 @@ updated: 2026-06-02
 > [!tip]
 > - [[Explanatory Sequential Design|解释性序列设计]]：顺序相反（量化在前），目的是解释结果而非开发工具。
 > - [[Convergent Design|聚敛式设计]]：同时收集，不涉及工具开发。
-> - **工具开发研究 (Instrument Development Studies)**：探索性序列设计是将此类研究正名化并嵌入混合方法框架的标准方案。
+> - **工具开发研究 (Instrument Development Studies)**：探索性序列设计是将此类研究正名化并嵌入[[Mixed Methods Research|混合方法]]框架的标准方案。
 
 ---
 

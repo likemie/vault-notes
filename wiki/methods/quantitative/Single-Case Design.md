@@ -91,7 +91,7 @@ Hitchcock et al. (2015, p.466) 列举了 [[What Works Clearinghouse|WWC]] 审查
 > > 例：一个审查协议可能规定干预必须在 K-12 学校环境中实施，在普通教室中可以接受，但在高度专业化人员配置的住宿项目中可能不相关（p.465）。
 
 
-> [!example] 2. 内部效度评估（Internal Validity Evaluation）
+> [!example] 2. [[Internal Validity|内部效度]]评估（Internal Validity Evaluation）
 > 评估研究的实验控制水平，包括（Hitchcock et al., 2015, p.465）：
 > - 阶段对比（phase contrasts）的数量
 > - 每个阶段的数据点数量

@@ -11,8 +11,7 @@ tags:
 - improvement-science
 - mechanism-experiments
 - region/us
-related_concepts:
-  - "[[Integration in Mixed Methods]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Mechanism Experiments]]"
@@ -55,7 +54,7 @@ updated: '2026-05-19'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Peterson, A. (2016). Getting 'What Works' working: building blocks for the [[Integration in Mixed Methods|integration]] of experimental and [[Improvement Science]]. *International Journal of Research & Method in Education*, 39(3), 299–313. — 提出"什么有效 2.0"整合框架，以[[Mechanism Experiments|机制实验]]和网络化改进为双重支柱
+> - Peterson, A. (2016). Getting 'What Works' working: building blocks for the integration of experimental and [[Improvement Science]]. *International Journal of Research & Method in Education*, 39(3), 299–313. — 提出"什么有效 2.0"整合框架，以[[Mechanism Experiments|机制实验]]和网络化改进为双重支柱
 
 ## 思想发展与影响
 

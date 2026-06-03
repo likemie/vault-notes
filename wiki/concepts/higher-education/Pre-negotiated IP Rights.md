@@ -21,7 +21,8 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[MN-IP Create]]"
 related_arguments: []
 sources:
   - "[[Ch15_Susalka_Carbone_2025]]"

@@ -22,7 +22,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Analytic Framework]]"
   - "[[Classical Geopolitics]]"
-  - "[[Probes]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Definition of Terms]]"
@@ -32,7 +31,6 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Epistemic Governance]]"
   - "[[Champ]]"
-  - "[[Integration in Mixed Methods]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Decolonial Geopolitics of Knowledge]]"

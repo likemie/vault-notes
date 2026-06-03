@@ -19,6 +19,7 @@ tags:
 - subject/research-methodology
 - subject/psychology
 related_concepts:
+  - "[[Research Question]]"
   - "[[Variable]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Learning-Impeding Behavior]]"

@@ -92,7 +92,7 @@ updated: 2026-05-31
 
 在[[Quantitative Research|量化研究]]中，[[Research Question|研究问题]]就[[Variable|变量]]间关系提问，假设则对变量间关系做出方向性预测并通过统计检验。两者的区别详见 [[Research Question]] 条目。除假设外，量化研究问题还可以是描述性的或关系型的（Creswell & Creswell, 2022, Ch7）。
 
-> [!tip] 写作脚本
+> [!tip] [[Research Writing Script|写作脚本]]
 > 关系型量化研究问题与方向性假设的[[Research Writing Script|写作脚本]]（Creswell & Creswell, 2022, Ch7）：
 >
 > "____（理论名称____）posits that ____（解释变量间的关系____）。It is thus predicted that there will be a relationship between ____（预测变量____）and ____（结果变量____），such that ____（解释预测变量与结果变量之间效应的方向____）。"

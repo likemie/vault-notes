@@ -15,7 +15,7 @@ tags:
 - level/k12
 - subject/instruction-pedagogy
 related_concepts:
-  - "[[Probes]]"
+  - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Effective Teaching]]"
   - "[[Effect Size]]"

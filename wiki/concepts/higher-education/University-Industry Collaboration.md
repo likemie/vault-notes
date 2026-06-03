@@ -14,6 +14,7 @@ tags:
   - "level/higher-education"
   - "theme/innovation"
 related_concepts:
+  - "[[Cooperative Education]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Ecosystem]]"
   - "[[Academic Health System]]"
@@ -30,24 +31,26 @@ related_concepts:
   - "[[Executive Education]]"
   - "[[Further Education]]"
   - "[[University-Industry Co-location]]"
+  - "[[University Corporate Engagement Professional]]"
+  - "[[Concierge Service]]"
+  - "[[Research Security]]"
   - "[[Sponsored Research Agreement]]"
   - "[[University Spin-Out]]"
   - "[[Industry Advisory Board]]"
   - "[[Professors of Practice]]"
   - "[[Trade Mission]]"
   - "[[Professional Judgment]]"
-  - "[[University Corporate Engagement Professional]]"
   - "[[Strategic Partnership]]"
   - "[[Industry Affiliate Program]]"
   - "[[Master Agreement]]"
   - "[[Proof of Concept Programs]]"
-  - "[[Concierge Service]]"
   - "[[Multi-University]]"
   - "[[Partnership Continuum]]"
   - "[[Innovation Park]]"
   - "[[Background IP]]"
   - "[[Freedom to Operate]]"
   - "[[Cultural Barrier]]"
+  - "[[Declaration on Research Assessment]]"
   - "[[Knowledge Production]]"
 related_theories:
   - "[[Triple Helix]]"
@@ -64,6 +67,7 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[TUFF]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Schlegel-UW Research Institute for Aging]]"
   - "[[Network of Academic Corporate Relations Officers]]"
   - "[[University, Inc. (Washburn, 2005)]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
@@ -368,7 +372,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 - **超亚专业化与 T 型技能需求**：当代专家的超亚专业化使他们"看不到全局"，围绕志同道合者组成的团队只能产生渐进式改进。产学合作需要兼具专业深度和跨领域广度的 T 型技能人才来充当翻译者和整合者（Swick & Jones, 2025, pp.185–186）
 - **技术变革速度超出单一组织能力**：在深度学习时代，计算能力每 6 个月翻一番。投资技术以保持创新前沿是昂贵但必要的，单一组织很难独立承担这种投入速度（Swick & Jones, 2025, p.186）
 - **[[Research Security|研究安全]]与地缘政治风险**：地缘政治紧张使产学合作面临新的安全审查维度。大学需要在保持学术开放和防止外国干预之间寻求平衡。滑铁卢大学的"保障研究"（Safeguarding Research）团队提供了一个制度化的应对模式——为研究者的国际合作关系提供持续支持和风险评估，在学术自由与安全合规之间建立可操作的中间地带（Dean et al., 2025, pp.249–250）
-- **终身教职评审低估产学合作产出**：现行研究评估制度中，教师的工作产出几乎完全由同行评审出版物衡量，导致专利、技术转移、产业合作等商业化活动被系统性地低估——教师可以理解地认为任何不服务于出版物产出的研究活动都是浪费时间。[[DORA (Declaration on Research Assessment)|DORA]] 倡导的全面评估视角——关注研究影响力而非文献计量指标——为将产学合作"计入正资产"提供了改革方向。更全面的评估也有助于解决公平问题：发展产学合作耗时费力，而女性、种族化群体和残障人士在校内外面临更紧迫的时间压力（Dean et al., 2025, pp.250–251）
+- **终身教职评审低估产学合作产出**：现行研究评估制度中，教师的工作产出几乎完全由同行评审出版物衡量，导致专利、技术转移、产业合作等商业化活动被系统性地低估——教师可以理解地认为任何不服务于出版物产出的研究活动都是浪费时间。[[Declaration on Research Assessment|DORA]] 倡导的全面评估视角——关注研究影响力而非文献计量指标——为将产学合作"计入正资产"提供了改革方向。更全面的评估也有助于解决公平问题：发展产学合作耗时费力，而女性、种族化群体和残障人士在校内外面临更紧迫的时间压力（Dean et al., 2025, pp.250–251）
 
 ---
 

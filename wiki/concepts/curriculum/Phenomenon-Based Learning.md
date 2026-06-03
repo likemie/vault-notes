@@ -20,7 +20,6 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Atomisation of Knowledge and Skills]]"
   - "[[Epochal Key Problems]]"
-  - "[[Probes]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Radical Constructivism]]"

@@ -19,6 +19,7 @@ tags:
 - region/uk
 - region/us
 related_concepts:
+  - "[[Research Question]]"
   - "[[Evidence-Based Education]]"
   - "[[Opportunist Mode]]"
   - "[[External Validity]]"
@@ -27,7 +28,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Champ]]"
   - "[[Effect Size]]"
-  - "[[Research Question]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"

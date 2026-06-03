@@ -6,9 +6,9 @@ extracted_to:
   - "[[Strategic Partnership]]"
   - "[[Trade Mission]]"
   - "[[University Corporate Engagement Professional]]"
+  - "[[University-Industry Collaboration]]"
   - "[[Network of Academic Corporate Relations Officers]]"
   - "[[University Industry Innovation Network]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"

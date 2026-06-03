@@ -7,11 +7,11 @@ tags: ["theme/discourse", "theme/global-governance", "theme/opportunity", "theme
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Analytic Framework]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Self-Entrepreneur]]"
   - "[[Governmentality]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Single-Case Design]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -45,9 +45,9 @@ Zelinka（2022, p.253）在分析（新）[[Geopolitics of Knowledge|知识地�
 ## 在知识地缘政治分析中的应用
 
 > [!abstract]
-> Zelinka（2022, pp.253-254, 264-265）将话语性机会结构概念用于分析 21 世纪 [[21st Century Skills and Competencies Discourse|SCD]] 如何作为（新）[[Geopolitics of Knowledge|知识地缘政治]]的治理工具运作：
+> Zelinka（2022, pp.253-254, 264-265）将话语性机会结构概念用于分析 21 世纪 [[Single-Case Design|SCD]] 如何作为（新）[[Geopolitics of Knowledge|知识地缘政治]]的治理工具运作：
 
-[[21st Century Skills and Competencies Discourse|SCD]] 话语通过界定"未来所需的关键技能"，塑造了个体在全球高等教育中的话语性机会结构——它决定了：
+SCD 话语通过界定"未来所需的关键技能"，塑造了个体在全球高等教育中的话语性机会结构——它决定了：
 - 哪些能力被视为"有价值"的（如批判性思维、创造力、协作、沟通），哪些被边缘化
 - 个体应如何理解自身与劳动市场的关系（作为需持续更新技能的[[Self-Entrepreneur|自我企业家]]）
 - 什么样的教育轨迹被视为"成功"（与全球竞争性劳动市场对接的）

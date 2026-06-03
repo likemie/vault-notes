@@ -10,13 +10,15 @@ aliases:
 summary: "一种将学术学习与有薪工作实践交替进行的教育模式，学生在学期间定期进入产业工作，滑铁卢大学拥有北美最大的合作教育项目"
 type: concept
 tags: ["theme/work-integrated-learning", "theme/higher-education", "theme/university-industry-collaboration"]
-related_concepts: []
+related_concepts:
+  - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch13_Dean_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-03

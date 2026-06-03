@@ -18,7 +18,6 @@ tags:
 - region/uk
 related_concepts:
   - "[[Moral Sidestep]]"
-  - "[[Probes]]"
   - "[[Justified Warrants]]"
   - "[[Descriptive Analysis]]"
   - "[[Literature Review]]"

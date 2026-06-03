@@ -20,7 +20,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[School Effectiveness]]"
   - "[[Confidence Interval]]"
-  - "[[Probes]]"
   - "[[Variable]]"
   - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
@@ -82,7 +81,7 @@ updated: '2026-05-21'
 
 ## 操作步骤
 
-> [!example] [[John Hattie|Hattie]] 的元-元分析程序
+> [!example] [[John Hattie|Hattie]] 的元-[[Meta-analysis|元分析]]程序
 > Terhart（2011, pp.426–428）描述了 Hattie 的操作步骤：
 >
 > 1. **确定影响因素分组**：将影响因素分为 6 组——学生、家庭、学校、教师、课程、教学方法（各组平均[[Effect Size|效应量]]分别为 0.40, 0.31, 0.23, 0.49, 0.45, 0.42，见表 1, p.428）
@@ -170,7 +169,7 @@ updated: '2026-05-21'
 > [!success] 适用场景
 > - 当某一研究领域已积累大量[[Meta-analysis|元分析]]，再做新的元分析只是"more of the same"时，元-元分析提供了更高层次的综合视角（Terhart, 2011, p.436）
 > - 适合为政策制定者和实践者提供关于"什么有效"的宏观概览——[[EEF Teaching and Learning Toolkit]]和[[Visible Learning]]是这一用途的标志性产物
-> - 在 [[John Hattie|Hattie]] 的自我解释中，二级综合还承担一种“生成问题”的功能：它把大量正向但分散的教育研究结果放到同一张地图上，使教师和研究者继续[[Probes|追问]]为什么某些影响更强、哪些条件改变平均效果、哪些解释可以被反驳（Hattie, 2015, pp.9-15）。这一用法比直接照排名决策更谨慎。
+> - 在 [[John Hattie|Hattie]] 的自我解释中，二级综合还承担一种“生成问题”的功能：它把大量正向但分散的教育研究结果放到同一张地图上，使教师和研究者继续追问为什么某些影响更强、哪些条件改变平均效果、哪些解释可以被反驳（Hattie, 2015, pp.9-15）。这一用法比直接照排名决策更谨慎。
 
 ## 局限性
 

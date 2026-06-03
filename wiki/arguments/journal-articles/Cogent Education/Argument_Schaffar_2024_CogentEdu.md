@@ -17,7 +17,7 @@ tags:
 - region/finland
 - stance/critique
 related_concepts:
-  - "[[Probes]]"
+  - "[[Research Question]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Problem-Based Learning]]"

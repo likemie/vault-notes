@@ -10,7 +10,6 @@ extracted_to:
   - "[[Anatoly Lunacharsky]]"
   - "[[Anton Makarenko]]"
   - "[[Stanislav Shatskii]]"
-  - "[[John Dewey]]"
   - "[[Sherwood Eddy]]"
 processed_date: 2026-05-26
 ---

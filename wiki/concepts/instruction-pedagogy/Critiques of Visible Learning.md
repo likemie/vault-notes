@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
-  - "[[Probes]]"
   - "[[Evidence-Based Education]]"
   - "[[Doxa]]"
   - "[[Transfer Translation Transformation]]"

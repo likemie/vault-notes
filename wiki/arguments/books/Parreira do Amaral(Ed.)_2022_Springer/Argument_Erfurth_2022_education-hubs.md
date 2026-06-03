@@ -14,7 +14,6 @@ tags:
   - theme/internationalization
   - source/edited-volume
 related_concepts:
-  - "[[Probes]]"
   - "[[Research Question]]"
   - "[[Analytic Framework]]"
   - "[[Cultural Diplomacy]]"

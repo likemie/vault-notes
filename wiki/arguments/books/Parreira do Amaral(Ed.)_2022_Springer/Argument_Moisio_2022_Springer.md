@@ -22,7 +22,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[National Competitive Advantage]]"
   - "[[Definition of Terms]]"
-  - "[[Probes]]"
   - "[[Knowledge Production]]"
   - "[[Analytic Framework]]"
   - "[[Classical Geopolitics]]"

@@ -32,7 +32,6 @@ related_concepts:
   - "[[Establishing One's Will]]"
   - "[[Ideal Learner]]"
   - "[[Faust]]"
-  - "[[Probes]]"
   - "[[Deficiencies Model for an Introduction]]"
 related_theories:
   - "[[Cultural Models]]"
@@ -170,7 +169,7 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 
 在哈佛燕京图书馆，Li 第一次亲自逐字阅读了《论语》、《[[Mencius|孟子]]》等儒家原著。她发现，自己在中国成长时被告知的关于[[Confucius|孔子]]的内容，与孔子本人的文字"如同昼夜之别"（like day and night）（Li, 2012, p.9）。
 
-她开始[[Probes|追问]]：如果中国人的智力不比地球上任何人差，那为什么中国人尊崇孔子 2,500 年？为什么他被历代帝王和学者称为"万世师表"？难道在她之前活过的所有中国人都是错的——甚至愚蠢吗？（Li, 2012, p.9）
+她开始追问：如果中国人的智力不比地球上任何人差，那为什么中国人尊崇孔子 2,500 年？为什么他被历代帝王和学者称为"万世师表"？难道在她之前活过的所有中国人都是错的——甚至愚蠢吗？（Li, 2012, p.9）
 
 ### 区分政治体制与文化
 

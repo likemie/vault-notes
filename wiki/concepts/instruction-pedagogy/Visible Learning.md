@@ -13,7 +13,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Professional Judgment]]"
-  - "[[Probes]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Surface and Deep Learning]]"
@@ -159,7 +158,7 @@ Hattie 的核心口号，要求教师以可见证据评估自身教学对学生�
 
 Hattie (2015) 对 VL 的自我解释把重点从“选择排名最高的教学法”转回教师和学校的评价性专业判断。核心问题不是“哪一种方法排名最高”，而是教师能否持续判断自己的教学对学生产生了什么影响、这种影响是否足够大、是否覆盖了足够多学生（Hattie, 2015, pp.11-13, 19）。
 
-这一解释把 VL 与 [[Professional Judgment]] 接了起来：教师不是数据录入员，而是证据解释者。比如，一个班测验成绩提高并不自动说明教学成功；还要[[Probes|追问]]提高的是表层记忆还是深层理解，哪些学生没有受益，反馈是否真正帮助学生知道下一步怎么改。具体的效应量阈值与统计争议放在 [[Effect Size]]，二级综合的方法论问题放在 [[Meta-meta-analysis]]，这里仅保留 VL 作为学校改进话语的核心机制（Hattie, 2015, pp.11-14）。
+这一解释把 VL 与 [[Professional Judgment]] 接了起来：教师不是数据录入员，而是证据解释者。比如，一个班测验成绩提高并不自动说明教学成功；还要追问提高的是表层记忆还是深层理解，哪些学生没有受益，反馈是否真正帮助学生知道下一步怎么改。具体的效应量阈值与统计争议放在 [[Effect Size]]，二级综合的方法论问题放在 [[Meta-meta-analysis]]，这里仅保留 VL 作为学校改进话语的核心机制（Hattie, 2015, pp.11-14）。
 
 > [!example]
 > 一个学校若只是把“高效应量策略”列成海报，仍然可能没有发生可见学习。更符合 Hattie 自我解释的做法是：教师共同看学生作业、比较不同反馈方式、讨论某个单元的成功标准，并在下一轮教学中调整干预。这种循环才是“Know thy impact”的实践含义（Hattie, 2015, pp.12-13）。

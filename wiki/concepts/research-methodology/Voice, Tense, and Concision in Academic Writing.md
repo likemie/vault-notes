@@ -106,10 +106,10 @@ Creswell & Creswell (2022, 第4章) 建议通过阅读高水平期刊来培养�
 | Annals of Family Medicine | 混合方法 | [AFM](https://www.annfammed.org/) |
 | Journal of Nursing Scholarship | 混合方法 | [JNS](https://sigmapubs.onlinelibrary.wiley.com/journal/15475069) |
 
-> [!note]- 质性研究中的文学阅读
+> [!note]- [[Qualitative Research|质性研究]]中的文学阅读
 > [[Qualitative Research|质性研究]]方法教师有时会布置经典文学作品作为阅读任务，如 Moby Dick、The Scarlet Letter、The Bonfire of the Vanities，因为这些作品的清晰散文和细致描写是质性写作的良好范本（Webb & Glesne, 1992）。
 
-> [!note]- 混合方法核心参考书
+> [!note]- [[Mixed Methods Research|混合方法]]核心参考书
 > - [[Sage]] Handbook of Mixed Methods in Social and Behavioral Research (Tashakkori & Teddlie, 2010)
 > - The Mixed Methods Reader (Plano Clark & Creswell, 2008)
 

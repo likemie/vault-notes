@@ -16,7 +16,6 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
-  - "[[Probes]]"
   - "[[Cultural Capital]]"
   - "[[Analytic Framework]]"
   - "[[Habitus]]"

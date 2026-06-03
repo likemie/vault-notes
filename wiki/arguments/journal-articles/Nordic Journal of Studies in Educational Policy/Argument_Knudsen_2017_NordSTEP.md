@@ -16,9 +16,9 @@ tags:
 - region/denmark
 - region/new-zealand
 related_concepts:
+  - "[[Research Question]]"
   - "[[Champ]]"
   - "[[Science and Technology Studies]]"
-  - "[[Research Question]]"
   - "[[Problem-Based Learning]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"

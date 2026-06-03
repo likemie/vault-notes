@@ -16,6 +16,7 @@ tags:
 - methodology-critique
 - subject/research-methodology
 related_concepts:
+  - "[[Research Question]]"
   - "[[Reflexivity]]"
   - "[[Literature Review]]"
   - "[[Causality]]"

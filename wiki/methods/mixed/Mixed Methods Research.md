@@ -24,7 +24,6 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Metainferences]]"
   - "[[Integration Statement]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Recommendations for Practice]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
@@ -150,7 +149,7 @@ Creswell & Creswell (2022, p.232) 明确区分了混合方法研究和[[Multimet
 
 从联合展示的分析中得出的结论在混合方法中称为[[Metainferences|元推论]]（Metainferences）：研究者先分别得出量化推论和质性推论，再基于量化与质性数据库的组合得出额外的推论（元推论）。元推论的内容和性质因设计类型而异——[[Convergent Design|聚敛式设计]]聚焦于确认或分歧，[[Explanatory Sequential Design|解释性序列设计]]聚焦于延伸和细化，[[Exploratory Sequential Design|探索性序列设计]]聚焦于检验和适切性（Creswell & Creswell, 2022, pp.238–244）。
 
-整合的意图和程序应通过[[Integration Statement|整合陈述]]（[[Integration in Mixed Methods|integration]] Statement）在研究方案或报告中明确表述。整合陈述说明为何组合两类数据（意图）以及通过何种设计来实施组合（程序），应出现在方法部分或引言部分（Creswell & Creswell, 2022, pp.251–252）。
+整合的意图和程序应通过[[Integration Statement|整合陈述]]（integration Statement）在研究方案或报告中明确表述。整合陈述说明为何组合两类数据（意图）以及通过何种设计来实施组合（程序），应出现在方法部分或引言部分（Creswell & Creswell, 2022, pp.251–252）。
 >
 > 在 Brady et al. (2023) 的[[Coding in Qualitative Research|编码]]框架中，
 > - **不操纵自[[Variable|变量]]** 混合方法/[[Multimethod Research|多方法研究]]在该文分类中属于[[Non-intervention Research|非干预研究]]（Brady et al., 2023, p.4）。

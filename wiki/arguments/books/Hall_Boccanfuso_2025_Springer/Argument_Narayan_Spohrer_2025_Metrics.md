@@ -14,6 +14,7 @@ related_concepts:
   - "[[Translational Research]]"
   - "[[Academic Freedom]]"
   - "[[Industry Affiliate Program]]"
+  - "[[University-Industry Co-location]]"
   - "[[Technology Transfer]]"
   - "[[Effective Teaching]]"
   - "[[Effect Size]]"

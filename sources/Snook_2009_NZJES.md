@@ -9,9 +9,9 @@ extracted_to:
   - "[[Whole Language]]"
   - "[[Effect Size]]"
   - "[[The Scott Report]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Meta-meta-analysis]]"
   - "[[John Hattie]]"
-  - "[[Tennessee STAR Project 1985-1989]]"
 processed_date: 2026-05-03
 ---
 

@@ -14,6 +14,7 @@ tags:
 - paradigm/critical
 - stance/critique
 related_concepts:
+  - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Structural Coupling]]"
   - "[[Bildung]]"

@@ -12,6 +12,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[Academic Health System]]"
+  - "[[Applied Medical Innovation]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods: []

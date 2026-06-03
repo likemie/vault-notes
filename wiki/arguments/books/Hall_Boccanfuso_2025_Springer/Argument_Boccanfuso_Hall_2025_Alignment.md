@@ -18,9 +18,11 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Academic Freedom]]"
   - "[[Sponsored Research Agreement]]"
+  - "[[Cooperative Education]]"
   - "[[Further Education]]"
   - "[[Executive Education]]"
   - "[[Technology Transfer]]"
+  - "[[Technology Transfer Office]]"
   - "[[Partnership Continuum]]"
   - "[[Innovation Hub]]"
 related_theories:

@@ -14,6 +14,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Exchange]]"
   - "[[Technology Transfer]]"
+  - "[[Technology Transfer Office]]"
 related_theories: []
 related_methods: []
 related_persons: []

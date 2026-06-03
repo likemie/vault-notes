@@ -18,7 +18,7 @@ related_concepts:
   - "[[Physician-Scientist]]"
   - "[[Team Science]]"
   - "[[Partnership Continuum]]"
-  - "[[Technology Transfer]]"
+  - "[[Technology Transfer Office]]"
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
   - "[[T-Shaped Skills]]"

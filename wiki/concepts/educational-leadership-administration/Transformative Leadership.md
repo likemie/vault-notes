@@ -10,7 +10,6 @@ tags:
 - level/k12
 related_concepts:
   - "[[School Leadership]]"
-  - "[[Probes]]"
   - "[[Champ]]"
 related_theories: []
 related_methods: []

@@ -16,6 +16,7 @@ tags:
 - innovation-policy
 - lifelong-learning
 related_concepts:
+  - "[[Research Question]]"
   - "[[Performance Indicators]]"
   - "[[Analytic Framework]]"
   - "[[Theories of Policy Change]]"

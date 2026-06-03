@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Hub]]"
+  - "[[University-Industry Co-location]]"
   - "[[Innovation Park]]"
 related_theories: []
 related_methods: []
@@ -55,7 +56,7 @@ updated: 2026-05-29
 > [!note]
 > - **1999 年**：剑桥[[Innovation Hub|创新中心]]（Cambridge Innovation Center, CIC）在肯德尔广场成立，作为独立机构推动联合办公（coworking）和跨校跨机构的协同研发。CIC 并非 MIT 的下属机构，而是一个独立运营的创业生态系统枢纽，但其选址紧邻 MIT 校园，深度嵌入了 MIT 的研究和人才网络（p.128）。
 > - **2000 年代**：随着生物技术产业在马萨诸塞州的快速增长，肯德尔广场吸引了大量制药和生物技术公司设立研发中心，形成了"大学研究—产业研发—初创企业"三层叠加的空间格局（p.128）。
-> - **2010 年代至今**：CIC 将其联合办公和创业服务模式扩展到全球多个城市，同时肯德尔广场本身继续吸引科技巨头（如 Google、Amazon、Pfizer 等）在此设立办公室或研发中心，形成了产业与创业伙伴之间自我强化的投资与共驻（co-location）循环（p.128）。
+> - **2010 年代至今**：CIC 将其联合办公和创业服务模式扩展到全球多个城市，同时肯德尔广场本身继续吸引科技巨头（如 Google、Amazon、Pfizer 等）在此设立办公室或研发中心，形成了产业与创业伙伴之间自我强化的投资与共驻（[[University-Industry Co-location|co-location]]）循环（p.128）。
 
 > [!info]
 > CIC 同时是一个协调化的创业生态系统，通过创建社交和专业活动中心来推动早期开发与投资。它提供的不仅是办公空间，更是一套"创业基础设施"——包括法律咨询、投资人对接、人才招聘支持和跨行业社交活动——使不同阶段的初创企业能够在同一物理空间中互相学习和资源互补（p.128）。

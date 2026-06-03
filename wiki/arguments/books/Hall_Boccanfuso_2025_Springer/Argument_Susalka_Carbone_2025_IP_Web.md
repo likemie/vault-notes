@@ -17,6 +17,7 @@ related_concepts:
   - "[[Foreground IP]]"
   - "[[Background IP]]"
   - "[[Technology Transfer]]"
+  - "[[Technology Transfer Office]]"
 related_theories: []
 related_methods: []
 related_persons: []

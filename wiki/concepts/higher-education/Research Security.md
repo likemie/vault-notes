@@ -3,18 +3,26 @@ title: Research Security
 aliases:
   - 研究安全
   - safeguarding research
-  - 保障研究
   - research security in universities
-summary: "大学为保护研究免受外国干预和经济间谍活动威胁而建立的制度性保障措施，在开放科学与国家安全之间寻求平衡"
+summary: 大学为保护研究免受外国干预和经济间谍活动威胁而建立的制度性保障措施，在开放科学与国家安全之间寻求平衡
 type: concept
-tags: ["theme/research-security", "theme/higher-education", "theme/geopolitics", "region/canada"]
-related_concepts: []
+tags:
+  - theme/research-security
+  - theme/higher-education
+  - theme/geopolitics
+  - region/canada
+related_concepts:
+  - "[[Knowledge Transfer]]"
+  - "[[Academic Freedom]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Foreground IP]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch13_Dean_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-03

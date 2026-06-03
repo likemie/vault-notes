@@ -32,6 +32,7 @@ related_concepts:
   - "[[Executive Education]]"
   - "[[Professors of Practice]]"
   - "[[Third Mission (Universities)]]"
+  - "[[Technology Transfer Office]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"

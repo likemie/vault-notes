@@ -13,6 +13,7 @@ tags:
   - theme/school-effectiveness
   - paradigm/critical
 related_concepts:
+  - "[[Research Question]]"
   - "[[Champ]]"
   - "[[Horizontal Knowledge Structure]]"
   - "[[Governmentality]]"
@@ -20,7 +21,6 @@ related_concepts:
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
-  - "[[Probes]]"
   - "[[Literature Review]]"
 related_theories: []
 related_methods: []

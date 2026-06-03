@@ -7,6 +7,7 @@ tags: ["theme/talent-development", "theme/workforce-training", "theme/university
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Translational Research]]"
+  - "[[Applied Medical Innovation]]"
   - "[[Physician-Scientist]]"
 related_theories: []
 related_methods: []

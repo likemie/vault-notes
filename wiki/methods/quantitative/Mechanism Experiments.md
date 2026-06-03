@@ -13,7 +13,6 @@ tags:
 - improvement-science
 - paradigm/positivist
 related_concepts:
-  - "[[Probes]]"
   - "[[Champ]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
@@ -39,7 +38,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 机制实验（Mechanism Experiments）是小规模现场实验，旨在测试一个特定的行为理论或因果机制，而非评估整个项目或干预包的总体效果。与"黑箱 [[Randomised Controlled Trials|RCT]]"不同，机制实验不满足于回答"这个项目有效吗"，而是[[Probes|追问]]"什么使这个项目有效——通过什么因果路径"。
+> 机制实验（Mechanism Experiments）是小规模现场实验，旨在测试一个特定的行为理论或因果机制，而非评估整个项目或干预包的总体效果。与"黑箱 [[Randomised Controlled Trials|RCT]]"不同，机制实验不满足于回答"这个项目有效吗"，而是追问"什么使这个项目有效——通过什么因果路径"。
 >
 > > "Mechanism experiments are small-scale [[Champ|field]] experiments to test a specific behavioural theory." (Peterson, 2016, p. 303, citing Ludwig, Kling, & Mullainathan, 2011)
 >

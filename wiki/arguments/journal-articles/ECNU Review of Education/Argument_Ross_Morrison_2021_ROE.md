@@ -17,6 +17,7 @@ tags:
   - policy/essa
   - method/formative-evaluation
 related_concepts:
+  - "[[Research Question]]"
   - "[[Evidence-Based Education]]"
   - "[[Absorptive Capacity]]"
   - "[[Literature Review]]"

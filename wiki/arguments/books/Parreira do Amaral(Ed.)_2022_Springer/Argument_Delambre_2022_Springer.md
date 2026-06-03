@@ -25,7 +25,6 @@ related_concepts:
   - "[[Life Power]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Social Museology]]"
-  - "[[Probes]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Transition Design]]"

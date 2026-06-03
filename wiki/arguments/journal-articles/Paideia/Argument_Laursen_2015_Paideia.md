@@ -15,7 +15,7 @@ tags:
 - region/denmark
 - level/k12
 related_concepts:
-  - "[[Probes]]"
+  - "[[Research Question]]"
   - "[[Effective Teaching]]"
   - "[[Visible Learning]]"
   - "[[Classroom Management]]"

@@ -16,6 +16,7 @@ tags:
 - region/denmark
 - stance/support
 related_concepts:
+  - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Variable]]"
   - "[[Surface and Deep Learning]]"

@@ -15,6 +15,7 @@ tags:
 - region/denmark
 - stance/support
 related_concepts:
+  - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Interpretation Community]]"
   - "[[Professional Judgment]]"
