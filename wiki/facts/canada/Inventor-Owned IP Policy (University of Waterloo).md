@@ -5,6 +5,7 @@ aliases:
   - creator-owned IP policy
   - inventor-owned IP policy
   - 发明人自有IP政策
+  - 发明人自有知识产权政策
 summary: "滑铁卢大学自 1959 年建校起实行的知识产权归属政策，将发明所有权归于发明人个人而非大学，成为吸引教师和推动地方经济发展的关键制度因素"
 type: fact
 subtype: event

@@ -5,15 +5,15 @@ extracted_to:
   - "[[Boundary Spanner]]"
   - "[[Industry Advisory Board]]"
   - "[[Industry Affiliate Program]]"
-  - "[[Innovation Ecosystem]]"
   - "[[Innovation Hub]]"
   - "[[Master Agreement]]"
   - "[[Precompetitive Research]]"
   - "[[Product-Specific Research]]"
   - "[[University-Based Research Center]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

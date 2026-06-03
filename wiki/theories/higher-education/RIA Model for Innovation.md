@@ -47,6 +47,9 @@ updated: 2026-06-03
 
 四个阶段在同一物理空间（共同选址）中同时发生，而非线性推进。传统大学研究通常止步于第一阶段，将后续阶段交给其他组织；RIA 将全部四个阶段内置在同一组织中，通过共同选址和嵌入式[[Knowledge Mobilisation|知识动员]]网络实现从基础研究到终端影响的完整链条（p.254）。
 
+> [!example]- 图13.2：RIA 创新模型
+> ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_13-2_RIA_Model_for_Innovation.jpg)
+
 ## 运作前提
 
 > [!info]

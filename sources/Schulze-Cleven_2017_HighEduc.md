@@ -9,7 +9,6 @@ extracted_to:
   - "[[Matthew Effect in Academia]]"
   - "[[Non-monetary Competition]]"
   - "[[Positioning Practice]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Academic Capitalism]]"
   - "[[Discursive Stratification]]"
   - "[[Elitism Dispositif]]"
@@ -30,6 +29,7 @@ extracted_to:
   - "[[Pierre Bourdieu]]"
   - "[[Cultural Political Economy]]"
   - "[[Neo-feudalism in Higher Education]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-01
 ---
 

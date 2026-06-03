@@ -10,11 +10,11 @@ extracted_to:
   - "[[Return on Investment]]"
   - "[[T-Shaped Skills]]"
   - "[[Team Science]]"
-  - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[King-Persily Model]]"
   - "[[Triple Helix]]"
   - "[[Values Alignment Model]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
