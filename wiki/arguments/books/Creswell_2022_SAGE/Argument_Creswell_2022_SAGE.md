@@ -369,7 +369,7 @@ updated: 2026-06-01
 
 #### 概念地图
 
-![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-2-concept-map.jpg)
+![219](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-2-concept-map.jpg)
 
 #### 概览
 
