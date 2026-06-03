@@ -163,7 +163,7 @@ updated: 2026-06-01
 | 第6章 目的陈述      | 系统讲解研究计划中目的陈述（或研究目标）的核心地位。区分研究问题、目的陈述和研究问题三个环节的递进逻辑，逐一剖析质性目的陈述七要素、量化目的陈述八要素和混合方法目的陈述四要素，为每种路径提供填空式写作脚本，并辅以已发表研究的多个范例。                                                                                                                                                                                            | [[Purpose Statement]], [[Central Phenomenon]], [[Nondirectional Language]], [[Research Writing Script]]                                                    |
 | 第7章 研究问题与假设   | 系统讲解量化研究问题和假设（描述性与关系型、零假设与方向性备择假设）、质性核心研究问题和子问题、混合方法的三类研究问题（量化、质性、混合方法整合问题），每一类均提供填空式写作脚本和已发表研究范例。                                                                                                                                                                                                               | [[Research Question]], [[Hypothesis]], [[Central Question]], [[Mixed Methods Question]], [[Null Hypothesis]]                                               |
 | 第8章 量化方法      | 系统讲解调查研究和实验研究的方法计划组成部分：调查研究计划涵盖调查目的与设计类型、总体与样本（抽样设计、分层、[[Power Analysis]]）、工具信效度、变量与数据分析六步骤；实验研究计划涵盖参与者分配与[[Random Assignment]]、变量（独立变量、操纵检查、因变量、混淆变量）、工具与封面故事、实验程序（[[Pre-Experimental Designs]]、准实验、[[Factorial Design]]、[[Single-Subject Design]]）、[[Internal Validity]]与[[External Validity]]威胁控制、数据分析步骤和预注册。 | [[Survey Research]], [[Experimental Research]], [[Power Analysis]], [[Internal Validity]], ANOVA                                                           |
-| 第9章 质性方法      | 系统讲解质性研究方法的全部组成部分：九大核心特征、描述性方法与分析框架的区分、四种数据收集类型与协议设计、七步数据分析流程与 Tesch 编码八步骤、解释的组成部分、八种效度策略与信度程序，以及质性写作的六种策略。                                                                                                                                                                                                                             | [[Descriptive Methods]], [[Coding in Qualitative Research]], [[Purposeful Sampling]], [[Qualitative Validity]], [[Reflexivity]]                                |
+| 第9章 质性方法      | 系统讲解质性研究方法的全部组成部分：九大核心特征、描述性方法与分析框架的区分、四种数据收集类型与协议设计、七步数据分析流程与 Tesch 编码八步骤、解释的组成部分、八种效度策略与信度程序，以及质性写作的六种策略。                                                                                                                                                                                                                             | [[Qualitative Research]], [[Descriptive Methods]], [[Coding in Qualitative Research]], [[Purposeful Sampling]], [[Qualitative Validity]], [[Reflexivity]]                                |
 | 第10章 混合方法程序   | 界定混合方法研究的六个核心特征与历史定位，论证使用混合方法的多元理由，区分开放式与封闭式数据，详解三种核心设计（聚敛式、解释性序列、探索性序列）的意图、程序、联合展示模板、元推论与效度威胁，拓展四种复杂设计（实验干预、案例研究、参与式社会正义、评价），提供设计选择流程图和整合陈述写作指南，以四个完整研究实例展示各类设计的实际运用。 | [[Mixed Methods Research]], [[Integration in Mixed Methods]], [[Convergent Design]], [[Joint Display]], [[Metainferences]], [[Mixed Methods Evaluation Design]], [[Integration Statement]] |
 
 ---
@@ -1296,6 +1296,10 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 ---
 
 ### 第9章 质性方法
+
+#### 概念地图
+
+![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-9-concept-map.jpg)
 
 #### 概览
 
