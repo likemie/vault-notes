@@ -11,15 +11,12 @@
             "id": "f290374ad363fcc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "wiki/concepts/higher-education/Innovation Hub.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "books/Cheng_2026_KeJiChuangXin/Cheng_2026_KeJiChuangXin.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Innovation Hub"
+              "icon": "lucide-file-text",
+              "title": "Cheng_2026_KeJiChuangXin"
             }
           }
         ]
@@ -191,26 +188,32 @@
   },
   "active": "f290374ad363fcc2",
   "lastOpenFiles": [
+    "raw/978-3-031-94913-5_12.pdf",
+    "books/Cheng_2026_KeJiChuangXin/06_第九章.txt",
+    "books/Cheng_2026_KeJiChuangXin/05_第七章.txt",
+    "books/Cheng_2026_KeJiChuangXin/04_第六章.txt",
+    "books/Cheng_2026_KeJiChuangXin/03_第四章.txt",
+    "books/Cheng_2026_KeJiChuangXin/02_第四章.txt",
+    "books/Cheng_2026_KeJiChuangXin/01_第三章.txt",
+    "books/Cheng_2026_KeJiChuangXin/00_Front_Matter.txt",
+    "split_chapters.py",
     "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
-    "replace_chapter2_regex.py",
+    "rewrite_chapter3_dense.py",
+    "fix_chapter3_new.py",
+    "wiki/concepts/higher-education/Innovation Hub.md",
     "wiki/facts/china/1999 Reform of Research Institutes.md",
-    "clean_chapter2.py",
     "wiki/facts/china/1922 Educational System Reform.md",
     "wiki/facts/china/Research and Development Super Deduction.md",
-    "replace_chapter2.py",
     "wiki/facts/china/STAR Market.md",
     "wiki/facts/china/Thousand Talents Program.md",
     "wiki/facts/china/Jiebang Guashuai.md",
     "wiki/facts/china/Hukou System.md",
     "wiki/facts/china/2014 Hukou Reform.md",
-    "fix_citations_final.py",
     "wiki/facts/china/1904 Educational System.md",
     "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md",
-    "fix_names_and_citations.py",
     "wiki/facts/china/Xi'an Three Reforms on Sci-Tech Achievements.md",
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
     "wiki/facts/china/1999 Reform of 242 Research Institutes.md",
-    "fix_all_links.py",
     "Sci-Tech Achievement Transformation.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
@@ -219,12 +222,7 @@
     "books/Cheng_2026_KeJiChuangXin/Cheng_2026_KeJiChuangXin.md",
     "wiki/concepts/higher-education/Background IP.md",
     "wiki/concepts/higher-education/Boundary Spanner.md",
-    "fix_argument_links.py",
-    "delete_concepts.py",
     "wiki/concepts/higher-education/Clinical Trial.md",
-    "wiki/concepts/higher-education/Competitiveness.md",
-    "wiki/concepts/higher-education/Cooperative Education.md",
-    "remove_headings.py",
-    "wiki/concepts/higher-education/Translational Research.md.tmp.62161.b0fa00381aa4"
+    "wiki/concepts/higher-education/Competitiveness.md"
   ]
 }
