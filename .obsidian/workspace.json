@@ -191,6 +191,8 @@
   },
   "active": "b91b74bd55d1e84e",
   "lastOpenFiles": [
+    "fix_patterns.py",
+    "fix_dashes.py",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Bang_2025_ClinicalTrials.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md",
@@ -208,7 +210,6 @@
     "books/Cheng_2026_KeJiChuangXin/12_第十章_北京市_创新引领_通过整合创新资源实现丰富成果产出.txt",
     "books/Cheng_2026_KeJiChuangXin/11_第三篇_地_篇.txt",
     "books/Cheng_2026_KeJiChuangXin/10_第九章_主要国家推动科技创新和产业创新深度融合的相关经验.txt",
-    "books/Cheng_2026_KeJiChuangXin/09_第八章_韩国_围绕重点_业发展_发挥企业主导作.txt",
     "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
     "wiki/concepts/higher-education/Innovation Hub.md",
     "wiki/facts/china/1999 Reform of Research Institutes.md",
@@ -225,7 +226,6 @@
     "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
     "wiki/facts/china/1999 Reform of 242 Research Institutes.md",
     "Sci-Tech Achievement Transformation.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
-    "wiki/concepts/higher-education/Partnership Continuum.md"
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md"
   ]
 }
