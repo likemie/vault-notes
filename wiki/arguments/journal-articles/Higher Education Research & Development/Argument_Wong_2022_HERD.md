@@ -37,7 +37,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > UK 大学向学生宣传的[[Graduate Attributes|毕业生特质]]（graduate attributes）的整体图景是什么？UK 毕业生可以被期望具备哪些品质？
 
 ## 理论框架

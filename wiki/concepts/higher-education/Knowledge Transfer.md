@@ -169,7 +169,7 @@ updated: '2026-05-18'
 - 教师与产业从业者的个人对话
 
 **半正式渠道**（涉及机构安排但不涉及知识产权交易）：
-- 学生实习和合作教育（co-ops）——学生作为知识载体在两界之间移动
+- 学生实习和[[Cooperative Education|合作教育]]（co-ops）——学生作为知识载体在两界之间移动
 - 产业从业者担任兼职讲师或[[Professors of Practice|实践教授]]
 - 联合会议和工作坊
 
@@ -184,7 +184,7 @@ Cohen et al.（2002）系统记录了这些多样化的渠道，并指出不同�
 ### 组织载体：知识转移办公室
 
 > [!note]
-> 在大学组织层面，知识转移通常由知识转移办公室（Knowledge Transfer Offices, KTOs）或[[Technology Transfer|技术转移办公室]]（Technology Transfer Offices, TTOs）负责（Boccanfuso & Hall, 2025, p.54）。
+> 在大学组织层面，知识转移通常由知识转移办公室（Knowledge Transfer Offices, KTOs）或[[Technology Transfer Office|技术转移办公室]]（Technology Transfer Offices, TTOs）负责（Boccanfuso & Hall, 2025, p.54）。
 
 Brescia et al.（2016）对 200 所高排名大学的调查发现，知识转移的组织方式存在显著差异——有的采用内部专门办公室，有的依赖外部机构，有的嵌入科研副校长办公室——没有统一的标准模式（转引自 Boccanfuso & Hall, 2025, p.54）。
 

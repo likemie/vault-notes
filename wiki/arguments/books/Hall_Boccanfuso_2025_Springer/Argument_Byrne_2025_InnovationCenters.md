@@ -98,7 +98,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 > [!info]
 > 实践者指南（practitioner guide），基于 [[TUFF]] 四十余年的直接开发经验与多案例分析。案例覆盖十一个[[Innovation Hub|创新中心]]：
 > - [[Tech Square at Georgia Tech|Tech Square]]（佐治亚理工学院）
-> - 肯德尔广场（[[Kendall Square]]）/ 剑桥创新中心（Cambridge Innovation Center），麻省理工学院（MIT）周边
+> - [[Kendall Square|肯德尔广场]]（[[Kendall Square]]）/ 剑桥创新中心（Cambridge Innovation Center），麻省理工学院（MIT）周边
 > - [[Research Triangle Park]]（RTP，北卡罗来纳州）
 > - [[Purdue Discovery Park|普渡发现园]]（Purdue Discovery Park / Discovery District）
 > - [[University City Science Center]]（费城）
@@ -191,10 +191,10 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ---
 ### 案例：肯德尔广场 / 剑桥创新中心
 
-16. 肯德尔广场（[[Kendall Square]]）位于麻省理工学院（MIT）周边，是意向性网络建设（intentional networking）的典型案例。其核心组织剑桥创新中心（Cambridge Innovation Center, CIC）于 1999 年作为独立机构成立，推动联合办公和跨校跨机构的协同研发。CIC 同时是一个协调化的创业生态系统，通过创建社交和专业活动中心来推动早期开发与投资（p.128）。
+16. [[Kendall Square|肯德尔广场]]（[[Kendall Square]]）位于麻省理工学院（MIT）周边，是意向性网络建设（intentional networking）的典型案例。其核心组织剑桥创新中心（Cambridge Innovation Center, CIC）于 1999 年作为独立机构成立，推动联合办公和跨校跨机构的协同研发。CIC 同时是一个协调化的创业生态系统，通过创建社交和专业活动中心来推动早期开发与投资（p.128）。
 
 > [!success]
-> 据 CIC 网站数据，经过近三十年发展，CIC 已拥有超过 10,000 家客户组织，在全球举办超过 4,000 场活动，其客户累计吸引投资超过 170 亿美元。这些成果同时惠及大波士顿社区和各成员高校，催生了一个产业与创业伙伴之间自我强化的投资与共驻（co-location）循环（p.128）。
+> 据 CIC 网站数据，经过近三十年发展，CIC 已拥有超过 10,000 家客户组织，在全球举办超过 4,000 场活动，其客户累计吸引投资超过 170 亿美元。这些成果同时惠及大波士顿社区和各成员高校，催生了一个产业与创业伙伴之间自我强化的投资与共驻（[[University-Industry Co-location|co-location]]）循环（p.128）。
 
 ---
 ### 案例：大学城科学中心

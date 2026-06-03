@@ -47,7 +47,7 @@ updated: '2026-05-26'
 
 ## 研究问题
 
-> [!question] 研究问题
+> [!question] [[Research Question|研究问题]]
 > 高等教育机构面临越来越大的压力，需要证明博士学位不仅培养学科专家，还能为毕业生提供在学术圈内外都适用的能力。这种压力来自两方面：一是大学希望质量保证学位、提升毕业生的[[Employability|就业能力]]（employability）；二是博士毕业生进入企业、政府、非营利组织等非学术职场的比例持续上升（p.86）。
 >
 > 然而，围绕"博士到底培养了哪些能力"的研究存在三个明显缺口。第一，大多数[[Graduate Attributes|毕业生特质]]（graduate attributes）研究聚焦本科层次，博士层次的研究数量和深度都远不如本科（p.86）。第二，已有的少量博士特质研究多为单一国家的量化调查，例如荷兰（Heuritsch, Waajer, and van der Weijden 2016）、澳大利亚（Manathunga, Pitt, and Critchley 2009）、美国（Sinche et al. 2017）——缺少跨学科（人文学科与社会科学 HASS vs. 科学）和跨国的比较视角（p.87）。第三，已有研究的调查工具覆盖的特质范围偏窄，尤其缺少[[Global Citizenship|全球公民]]（global citizenship）和职业发展（professional and career development）这两个维度（p.87）。

@@ -43,7 +43,7 @@ updated: 2026-05-26
 > [!info]
 > 再脉络化（recontextualization）是 Schulte（2009）用于分析外国教育思想在本土接受与变形的核心概念。它指这样一种过程：外国思想在进入接受国之后，不是被"正确理解"或"误读"的二元选择，而是接受者根据自身的集体经验、意识形态议程和个人网络，主动从原始思想中**选择性拾取**某些元素、**忽略或扭曲**另一些元素、再将其**重新嵌入**本土话语结构（pp.68–69）。
 
-> 这一概念的关键转向在于：它拒绝将接受者视为被动的、可能犯认知错误的人，而是将其视为有目的、有策略的行动者。一个外国思想在本土的"成功"或"失败"，不能仅用思想本身的质量来解释，必须[[Probes|追问]]接受者从中选取了什么、忽略了什么、以及这些选择服务于谁的什么目的。
+> 这一概念的关键转向在于：它拒绝将接受者视为被动的、可能犯认知错误的人，而是将其视为有目的、有策略的行动者。一个外国思想在本土的"成功"或"失败"，不能仅用思想本身的质量来解释，必须追问接受者从中选取了什么、忽略了什么、以及这些选择服务于谁的什么目的。
 
 > [!quote]
 > "[[John Dewey|Dewey]] was not simply 'misunderstood,' as a researcher in Deweyan thought might intuitively perceive when reading, for instance, Chinese articles on Dewey from the 1950s. On the contrary, Dewey — both in person and through his writings — offered a rich repertoire of ideas and ideologies which Chinese intellectuals eagerly took up or vehemently rejected to fuel their arguments about what China should be like in the future."（pp.68–69）

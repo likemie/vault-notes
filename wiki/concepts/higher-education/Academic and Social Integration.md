@@ -45,7 +45,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 学习／社交融入理论（Academic and Social [[Integration in Mixed Methods|integration]] Theory）由美国高等教育研究者Vincent Tinto（1993）在 *Leaving College*（第二版）中系统提出。该理论以人类学家 van Gennep 关于人生阶段过渡仪式（rites of passage）的理论为原型，假设即将步入大学的学生必须先经历"分离—转折—习得"三阶段，才能顺利融入大学环境并取得积极的教育成果。
+> 学习／社交融入理论（Academic and Social integration Theory）由美国高等教育研究者Vincent Tinto（1993）在 *Leaving College*（第二版）中系统提出。该理论以人类学家 van Gennep 关于人生阶段过渡仪式（rites of passage）的理论为原型，假设即将步入大学的学生必须先经历"分离—转折—习得"三阶段，才能顺利融入大学环境并取得积极的教育成果。
 
 > [!quote]
 > 学生必须先与其之前的社会关系（比如家人和高中的朋友）相分离（separate），进入一个"开始尝试融入新群体互动"的转折性阶段，并习得（incorporate）新群体或大学内部的规范性价值观与行为模式（[[Yajun Zheng|郑雅君]]，2023，引 Tinto, 1993）
@@ -91,7 +91,7 @@ Tinto 的核心关切是大学生辍学问题：为何许多学生——特别�
 
 ### 两个融入维度
 
-- **学业融入（Academic [[Integration in Mixed Methods|integration]]）**：学生顺利与学校学术方面的正式规范达成一致——包括修课与学分制度、学术规范要求等
+- **学业融入（Academic integration）**：学生顺利与学校学术方面的正式规范达成一致——包括修课与学分制度、学术规范要求等
 - **社交融入（Social Integration）**：学生发现大学社交环境与自己的偏好或期待相协调的程度
 
 ### 核心机制

@@ -49,7 +49,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 为什么以 [[Randomised Controlled Trials|RCT]] 和系统综述为核心的[[Evidence-Based Education|证据本位教育]]（EBE）在教育中占据主导地位，尽管其认识论局限（如 Biesta 2010 的系统批判）已被充分论证？EBE 究竟在为谁服务，以及它为何在已知缺陷的情况下仍对决策者有吸引力？
 >
 > > “我在这里提出的是，EBE（循证教育）的某些特征使其对政策制定者具有吸引力，或者至少是无争议和安全的。”

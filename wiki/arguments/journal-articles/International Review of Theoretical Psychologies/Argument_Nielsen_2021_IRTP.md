@@ -42,7 +42,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 尽管 [[John Hattie|Hattie]] 的 [[Visible Learning]] 存在大量已记录的方法论缺陷，为什么它在全球教育政策制定者、教师和教育研究者中仍然如此受欢迎？
 
 ## 理论框架

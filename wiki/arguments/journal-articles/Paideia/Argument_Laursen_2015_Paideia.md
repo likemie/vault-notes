@@ -39,8 +39,8 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
-> 文章[[Probes|追问]]：[[John Hattie]] 以及 [[Hilbert Meyer]]、[[Andreas Helmke]] 等以国际经验研究为基础的[[Effective Teaching|有效教学]]综合，是否也适用于丹麦和其他北欧国家？这个问题被具体化为一个假设：教学质量和措施的学习效果是否依赖国家文化，因为教师和学生会在本地文化语境中解释这些措施（Laursen, 2015, p.34）。
+> [!info] [[Research Question|研究问题]]
+> 文章追问：[[John Hattie]] 以及 [[Hilbert Meyer]]、[[Andreas Helmke]] 等以国际经验研究为基础的[[Effective Teaching|有效教学]]综合，是否也适用于丹麦和其他北欧国家？这个问题被具体化为一个假设：教学质量和措施的学习效果是否依赖国家文化，因为教师和学生会在本地文化语境中解释这些措施（Laursen, 2015, p.34）。
 
 ## 理论框架
 

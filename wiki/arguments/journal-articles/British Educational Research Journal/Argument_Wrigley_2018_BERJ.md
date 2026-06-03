@@ -52,8 +52,8 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
-> 本文[[Probes|追问]]当"证据"被简化为 [[Randomised Controlled Trials|RCT]] 和统计平均时，在**三个方法论层级**分别产生了哪些技术缺陷、哲学困境和意识形态后果？每一级聚合如何进一步放大前一级的失真？
+> [!info] [[Research Question|研究问题]]
+> 本文追问当"证据"被简化为 [[Randomised Controlled Trials|RCT]] 和统计平均时，在**三个方法论层级**分别产生了哪些技术缺陷、哲学困境和意识形态后果？每一级聚合如何进一步放大前一级的失真？
 >
 > > “当‘证据’被简化为一个平均[[Effect Size|效应量]]时，个体或事件被拒之门外，复杂性消失了，价值观也被抹去了。”
 > ("When 'evidence' is reduced to a mean [[Effect Size]], the individual person or event is shut out, complexity is lost and values are erased.") (p. 2)
@@ -155,7 +155,7 @@ updated: '2026-05-18'
 >
 > 4. **教育中的"人类意志既是必要又是污染"悖论**使 RCT 方法论从根本上不适合——教学中的人类意图、信念和互动恰是教育效果产生的途径，不应被视为需要消除的噪声
 >
-> 5. **[[Critical Realism|批判实在论]]为教育研究提供了超越 Hume 经验论的因果模型**：区分 real/actual/empirical 三层，[[Probes|追问]] causal mechanisms 而非 regularity patterns
+> 5. **[[Critical Realism|批判实在论]]为教育研究提供了超越 Hume 经验论的因果模型**：区分 real/actual/empirical 三层，追问 causal mechanisms 而非 regularity patterns
 
 ## 关键引用
 

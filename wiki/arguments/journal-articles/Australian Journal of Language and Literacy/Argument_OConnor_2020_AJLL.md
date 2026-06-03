@@ -43,7 +43,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > [[John Hattie|Hattie]] 的 *[[Visible Learning]]* 是否提供了对[[Whole Language|全语言]]（whole language）教学效果的科学上可辩护的评估？更广泛地说，基于聚合[[Meta-analysis|元分析]]（[[Meta-meta-analysis]]）的[[Effect Size|效应量]]来制定教学实践或公共政策是否合法？（O'Connor, 2020, p.142）
 
 ## 理论框架

@@ -48,7 +48,7 @@ AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基
 > | **[[University-Industry Collaboration\|产学合作]]位置** | 合作参与者 | 合作促进者（facilitator） |
 > | **典型代表** | 大多数大学附属医院 | Houston Methodist、Cleveland Clinic、Cedars-Sinai 等 |
 >
-> 关键区分在于：AMC 是学术与临床的双元组合（p.179），而 AHS 在此基础上叠加了产业创新和系统内技术部署能力。这一区分是理解"谁来充当医用创新产学合作的促进者"这一问题的组织基础。
+> 关键区分在于：AMC 是学术与临床的双元组合（p.179），而 AHS 在此基础上叠加了产业创新和系统内技术部署能力。这一区分是理解"谁来充当[[Applied Medical Innovation|医用创新]]产学合作的促进者"这一问题的组织基础。
 
 ## 与社区医学中心的区分
 
@@ -63,7 +63,7 @@ AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基
 > - 可以在其教学医院中开展临床试验
 > - 但其组织结构（学术-临床二元）意味着产业创新的维度——如产品开发、规模化验证、跨系统部署——超出了 AMC 的核心使命和制度能力
 >
-> AMC 在部署创新时面临的主要障碍之一是技术可及性——"technology availability often limits broader real-world application"（pp.181–182）。这也是为什么 [[Academic Health System|AHS]] 在医用创新的产学合作中能够扮演 AMC 无法完全承担的角色。
+> AMC 在部署创新时面临的主要障碍之一是技术可及性——"technology availability often limits broader real-world application"（pp.181–182）。这也是为什么 [[Academic Health System|AHS]] 在[[Applied Medical Innovation|医用创新]]的产学合作中能够扮演 AMC 无法完全承担的角色。
 
 ## 来源
 

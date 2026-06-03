@@ -37,7 +37,7 @@ updated: 2026-05-18
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 教育行政学者作为嵌入且具身于其研究对象（教育行政）中的行动者，其"智识凝视"（intellectual gaze）如何被这一嵌入位置所塑造？教育行政研究如何通过 [[Pierre Bourdieu|Bourdieu]] 的认识论框架重新建立"科学"探究的可能性？
 
 ## 理论框架

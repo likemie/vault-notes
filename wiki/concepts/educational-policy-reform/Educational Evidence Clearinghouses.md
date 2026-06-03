@@ -152,7 +152,7 @@ updated: '2026-05-24'
 
 ## 争议与批评
 
-> [!warning] "Evidence-based"的构念效度不足
+> [!warning] "Evidence-based"的[[Construct Validity in Quantitative Measurement|构念效度]]不足
 > 核心问题不是某一个清算中心质量低，而是清算中心作为整体未能对"evidence-based"形成稳定的实践意义。若一个术语具有高[[Construct Validity in Quantitative Measurement|构念效度]]，那么不同清算中心在评价同一项目时至少应有较高收敛；但现有比较显示这种收敛只是有限的，因此"evidence-based"在清算中心语境中只有有限的实践[[Construct|构念]]效度（Wadhwa et al., 2024, p.26）。
 
 

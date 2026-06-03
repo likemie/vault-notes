@@ -42,7 +42,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 本文并非传统研究论文，而是 [[John Hattie|Hattie]] 以第一人称反思教育学者在公共辩论中的角色。核心问题：学者如何以"[[Critic and Conscience of Society|社会的批评者与良知]]"（critic and conscience of society）的身份参与公共政策讨论，同时应对媒体的简化倾向、人身攻击和误读？
 
 ## 理论框架

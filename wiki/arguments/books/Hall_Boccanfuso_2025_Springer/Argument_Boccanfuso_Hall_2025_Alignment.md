@@ -105,7 +105,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 **步骤 3：三重回报的展开**
 
 - **研究与学术**：合作催生知识创造，为科学发现提供情境化，创造数据分析工具，在真实环境中开展试验。例如，2024 年诺贝尔奖得主开发的工具使大学中的科学发现成为可能（pp.4–5）。
-- **教育与学习**：行业通过课堂讲座、项目、合作教育和实习丰富学位项目。产学合作在工程硕士等专业学位以及面向在职人士的[[Further Education|继续教育]]和[[Executive Education|高管教育]]中尤为紧密（p.5）。
+- **教育与学习**：行业通过课堂讲座、项目、[[Cooperative Education|合作教育]]和实习丰富学位项目。产学合作在工程硕士等专业学位以及面向在职人士的[[Further Education|继续教育]]和[[Executive Education|高管教育]]中尤为紧密（p.5）。
 - **公共效益**：产学合作通过大学发明衍生的初创企业、技术商业化和校友贡献促进经济增长。同时带来医疗技术、减排、生产力提升和解决"重大挑战"（grand challenges，如气候变化和延长寿命）的进步（p.5）。
 
 ---
@@ -230,7 +230,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 **步骤 13：[[Technology Transfer|技术转移]]的制度安排**
 
-[[Technology Transfer|技术转移]]是产学合作的另一关键维度。[[Bayh-Dole Act of 1980|Bayh-Dole Act]]（1980）——在美国政府资助下于大学产生的知识产权归大学所有——为技术转移奠定了法律基础。这产生了一个重要的制度结构：企业的合同与拨款办公室协商赞助研究所产生的知识产权权利，[[Technology Transfer|技术转移办公室]]（Technology Transfer Office）协商知识产权许可。两者通常隶属于大学的科研副校长（p.14）。
+[[Technology Transfer|技术转移]]是产学合作的另一关键维度。[[Bayh-Dole Act of 1980|Bayh-Dole Act]]（1980）——在美国政府资助下于大学产生的知识产权归大学所有——为技术转移奠定了法律基础。这产生了一个重要的制度结构：企业的合同与拨款办公室协商赞助研究所产生的知识产权权利，[[Technology Transfer Office|技术转移办公室]]（Technology Transfer Office）协商知识产权许可。两者通常隶属于大学的科研副校长（p.14）。
 
 一个尖锐的挑战是：商业化应该走初创企业路线（发明人可能成为创始人）还是成熟企业路线（发明人无所有权股份）？大多数初创企业会失败，但大学可能希望支持教师的创业精神；成熟企业可以持续投资技术开发，但可能不给予发明人同样的激励和经济回报（p.14）。
 

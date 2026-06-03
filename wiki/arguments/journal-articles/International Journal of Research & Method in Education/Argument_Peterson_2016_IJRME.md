@@ -42,7 +42,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 如何将实验科学（"什么有效"范式，以 [[Randomised Controlled Trials|RCT]] 为核心）和[[Improvement Science|改进科学]]（以网络化教师探究为核心）的核心要素整合，以克服各自弱点——黑箱 RCT 仅生成适用于二选一决策的证据，改进科学缺乏稳健因果估计——形成一个更有效的提高教育成就的系统性策略？
 
 ## 理论框架

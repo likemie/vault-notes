@@ -57,7 +57,7 @@ updated: 2026-06-03
 > [!info]
 > 技术转移（Technology Transfer）指将大学研究产生的知识产权（Intellectual Property, IP）——包括发明、软件、数据和其他创造性成果——转化为商业应用的过程。技术转移是[[University-Industry Collaboration|产学合作]]的核心维度之一：它既可以是产学合作的起点（发明已经构思完成，寻找商业化伙伴），也可以是产学合作的产出（产业赞助研究产生了新的知识产权）（p.14）。
 
-技术转移的日常操作涉及大学内部多个职能部门。合同与拨款办公室协商赞助研究所产生的 IP 权利；技术转移办公室（Technology Transfer Office, TTO）协商 IP 许可的具体条款。两者通常隶属于大学的科研副校长（Vice President of Research），有时合并到企业参与办公室（p.14）。详见 [[Technology Transfer Office]]。
+技术转移的日常操作涉及大学内部多个职能部门。合同与拨款办公室协商赞助研究所产生的 IP 权利；[[Technology Transfer Office|技术转移办公室]]（Technology Transfer Office, TTO）协商 IP 许可的具体条款。两者通常隶属于大学的科研副校长（Vice President of Research），有时合并到企业参与办公室（p.14）。详见 [[Technology Transfer Office]]。
 
 ---
 
@@ -191,7 +191,7 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 - **结构性矛盾**：大多数初创企业会失败；成熟企业可能不愿承担早期技术的风险；初创企业可能产生无法解决的利益冲突（如教师在学生论文涉及的技术上持有公司股份）。此外，根据[[Sponsored Research Agreement|赞助研究协议]]，大学可能已有义务给予现有企业知识产权的优先权（p.14）
 
 > [!example]
-> 一位工程学教授在 [[National Science Foundation|NSF]] 资助下开发了一种新型传感器技术。按照 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]，该技术归大学所有。教授面临选择：自己创立一家初创公司来商业化这项技术（可以获得股权，但需要找风投、组建团队、离开学术轨道），还是将技术许可给一家成熟的传感器制造商（可以更快进入市场，但教授的角色可能只是顾问，获得的是许可收入分成而非股权）。技术转移办公室需要在这两条路径之间做出判断，这种判断涉及对技术成熟度、市场前景、教授意愿和现有赞助协议的复杂权衡。
+> 一位工程学教授在 [[National Science Foundation|NSF]] 资助下开发了一种新型传感器技术。按照 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]，该技术归大学所有。教授面临选择：自己创立一家初创公司来商业化这项技术（可以获得股权，但需要找风投、组建团队、离开学术轨道），还是将技术许可给一家成熟的传感器制造商（可以更快进入市场，但教授的角色可能只是顾问，获得的是许可收入分成而非股权）。[[Technology Transfer Office|技术转移办公室]]需要在这两条路径之间做出判断，这种判断涉及对技术成熟度、市场前景、教授意愿和现有赞助协议的复杂权衡。
 
 ### 赞助研究中的知识产权约束
 
@@ -209,7 +209,7 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 > [!note]
 > 多部著作系统探讨了技术转移的制度和实践问题（p.14）：
 > - Allen 与 O'Shea（2014）Building Technology Transfer Within Research Universities — 从创业视角探讨大学内部的技术转移机制建设
-> - Cunningham et al.（2020）Building Effective Technology Transfer Offices — 以商业模式框架分析技术转移办公室的运作
+> - Cunningham et al.（2020）Building Effective Technology Transfer Offices — 以商业模式框架分析[[Technology Transfer Office|技术转移办公室]]的运作
 > - Hockaday（2020）University Technology Transfer, What it is and How to Do It — 面向实践者的操作指南
 > - Smith（2011）Managing the Research University — 更广泛的科研管理视角，涵盖技术转移的制度环境
 

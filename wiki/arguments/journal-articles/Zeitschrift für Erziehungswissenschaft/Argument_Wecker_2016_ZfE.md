@@ -41,7 +41,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 论文试图回答：[[John Hattie]] 的二级[[Meta-analysis|元分析]]方法（*[[Visible Learning]]*）在方法论上是否可靠？其综合 800+ 元分析和 138 个影响因素的"[[Effect Size|效应量]]排名"在科学上是否合理？（Wecker et al., 2016, p.22-24）
 
 ## 理论框架

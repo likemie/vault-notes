@@ -46,7 +46,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 论文试图回答：[[Jean Piaget|皮亚杰]]和新皮亚杰的[[Piaget's Theory of Cognitive Development|认知发展阶段理论]]是否与[[Prefrontal Cortex|前额叶皮层]]（PFC）的解剖生理发育以及[[Executive Function|执行功能]]（EF）的发展在时间上平行对应？（Bolton & [[John Hattie|Hattie]], 2017, p.1–2）
 
 ## 理论框架

@@ -35,7 +35,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > [[Visible Learning]] 的 1200 项[[Meta-analysis|元分析]]综合在高等教育情境中是否适用？高等教育教师可以从 VL 研究中获得哪些关键启示？
 
 ## 理论框架

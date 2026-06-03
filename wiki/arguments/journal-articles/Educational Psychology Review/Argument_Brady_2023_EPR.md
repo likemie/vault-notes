@@ -45,7 +45,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 本文延续 Hsieh et al. (2005)、Robinson et al. (2007) 与 Reinhart et al. (2013) 对教育心理学研究方法趋势的追踪，核心问题是：到 2020 年，教育心理学经验期刊是否继续远离干预/[[Experimental Research|实验研究]]，并且是否继续在[[Non-intervention Research|非干预研究]]中提出[[Recommendations for Practice|实践建议]]（RFP）？（Brady et al., 2023, pp.1, 4）
 
 ## 理论框架

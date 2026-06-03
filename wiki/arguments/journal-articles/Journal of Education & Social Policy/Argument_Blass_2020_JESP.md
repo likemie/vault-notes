@@ -40,7 +40,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > [[John Hattie|Hattie]] 的 [[Visible Learning]] 在澳大利亚教育政策中被不加批判地采纳，这是否限制了教育创新和进步？学术研究应在何种条件下被应用于政策制定？
 
 ## 理论框架

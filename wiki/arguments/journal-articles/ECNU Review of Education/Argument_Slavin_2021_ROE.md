@@ -42,7 +42,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > [[Evidence-Based Reform|证据本位改革]]如何推动教育进步？首次从国际比较视角（中国、美国、英国）对比三个国家的[[Evidence-Based Education|证据本位教育]]改革现状，探讨中国如何借鉴美英经验、同时美英如何从中国的快速发展中学习。
 
 ## 理论框架

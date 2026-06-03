@@ -37,7 +37,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > [[Effect Size|效应量]]（effect size）被广泛假定为测量教育干预有效性的指标，并以此为基础驱动全球教育政策（[[John Hattie|Hattie]] 的 [[Visible Learning]]、EEF Toolkit 等）。本文试图回答：**效应量是否真正测量教育的有效性或影响力？如果不是，它对教育政策应该扮演什么角色？**
 
 ## 理论框架

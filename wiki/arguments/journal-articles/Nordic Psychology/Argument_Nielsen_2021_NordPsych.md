@@ -42,7 +42,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 论文试图回答两个核心问题：(a) [[John Hattie|Hattie]] 的实证工作是否如其所声称的那样坚实？(b) Hattie 是否只是一个"统计学家"（如他所自称），还是一个教育理论家——如果是，其隐含的[[Theoretical Standpoint|理论立场]]是什么？
 
 ## 理论框架

@@ -174,7 +174,7 @@ updated: 2026-06-01
 
 #### 概览
 
-全书为研究者提供设计研究计划或研究方案的框架、流程和写作方法，覆盖量化、质性和混合方法三种研究路径。这一比较从三个路径共有的初步要素（哲学假设、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题与假设]]，以及数据收集、分析和解释的方法程序。
+全书为研究者提供设计研究计划或研究方案的框架、流程和写作方法，覆盖量化、质性和[[Mixed Methods Research|混合方法]]三种研究路径。这一比较从三个路径共有的初步要素（哲学假设、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题与假设]]，以及数据收集、分析和解释的方法程序。
 
 > [!quote]
 > “本书提出了一套框架、过程和写作方法，用于在人类科学、健康科学和社会科学领域设计质性、量化和混合方法研究计划或项目。”
@@ -200,7 +200,7 @@ updated: 2026-06-01
 
 > [!quote]
 > “混合方法研究涉及在一项研究中收集并‘混合’或整合量化和质性两类数据。仅仅分析你的质性和量化数据是不够的。进一步的分析包括整合这两个数据库，以获得对研究问题的额外洞见。”
-> ("Mixed methods research involves the collection and 'mixing' or [[Integration in Mixed Methods|integration]] of both quantitative and qualitative data in a study. It is not enough to only analyze your qualitative and quantitative data. Further analysis comprises integrating the two databases for additional insight into [[Research Problem|research problems]] and questions.")（前言）
+> ("Mixed methods research involves the collection and 'mixing' or integration of both quantitative and qualitative data in a study. It is not enough to only analyze your qualitative and quantitative data. Further analysis comprises integrating the two databases for additional insight into [[Research Problem|research problems]] and questions.")（前言）
 
 > [!info] 三种路径的交替呈现
 > 全书的量化与质性内容交替编排，避免对任一路径的偏好。示例涵盖社会正义议题和边缘化群体研究，在方法和研究对象上都追求包容性。
@@ -815,7 +815,7 @@ Creswell 用一个四阶段流程图（图 6.1）展示研究焦点的逐步收�
 
 ...
 
-> [!note] 非方向性法则
+> [!note] [[Nondirectional Language|非方向性法则]]
 > McCracken (1988) 提出质性研究中的[[Nondirectional Language|非方向性法则]]（law of nondirection, p.21）：访谈者和目的陈述写作者很容易通过使用暗示方向性结果的词语而违反这一法则。
 
 > [!quote]

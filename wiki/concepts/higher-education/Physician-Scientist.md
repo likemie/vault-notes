@@ -36,7 +36,7 @@ updated: 2026-06-02
 > [!info]
 > 医师科学家（Physician-Scientist）是同时持有医学博士（Doctor of Medicine, MD）和哲学博士（Doctor of Philosophy, PhD）学位、在实验室、诊所、大学或研究机构中同时从事临床诊疗和科学研究的专业人员，既是临床前线的问题识别者，也是将基础科学发现转化为临床解决方案的翻译者（pp.176–177）。
 
-医师科学家处于临床挑战和科学解决方案的交汇点，是医用创新（Applied Medical Innovation, AMI）中不可或缺的角色——在[[University-Industry Collaboration|产学合作]]中连接学术、产业和临床三方，充当联络者（p.176）。
+医师科学家处于临床挑战和科学解决方案的交汇点，是[[Applied Medical Innovation|医用创新]]（Applied Medical Innovation, AMI）中不可或缺的角色——在[[University-Industry Collaboration|产学合作]]中连接学术、产业和临床三方，充当联络者（p.176）。
 
 ## 核心能力
 

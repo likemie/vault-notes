@@ -36,7 +36,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > [[John Hattie|Hattie]] 直接回应 Eacott（2017）在 *[[School Leadership]] & Management* 同刊发表的"[[Cult of the Guru]]"论文，该文论证澳大利亚学校领导力领域已形成对 Hattie 的大师崇拜（Cult of Hattie），并将其工作定性为 [[Neo-Taylorism]]。
 
 ## 理论框架

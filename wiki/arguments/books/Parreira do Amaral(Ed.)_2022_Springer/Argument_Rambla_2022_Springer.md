@@ -56,7 +56,7 @@ updated: '2026-05-18'
 
 # Argument_Rambla_2022_Springer
 
-> [!question]- 研究问题
+> [!question]- [[Research Question|研究问题]]
 > 欧盟的 [[Innovation Union]] 与 [[EU Skills Agenda]] 两项旗舰政策如何通过"[[Performance Indicators|绩效指标]]"这一特定政策工具，建构关于"区域"（regions）的教育与创新想象（imaginaries）？在这一建构过程中，绩效指标体系在哪些方面系统性地优先了某些政策议题，又使哪些议题被边缘化？（Rambla, 2022, p.163–164）
 >
 > 该问题的理论关切在于：排名和指标不仅是描述现实的技术工具，更是塑造现实的政治工具——它们定义了"什么是好的创新""什么是好的教育"，从而在认知层面框定了政策行动者可以想象的替代方案范围。

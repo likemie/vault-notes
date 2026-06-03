@@ -44,8 +44,8 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
-> 这篇论文[[Probes|追问]]：芬兰 [[Phenomenon-Based Learning]] 的历史与哲学根源是什么？为什么它既不是新发明，也不能只从[[Constructivist Paradigm|建构主义]]、[[Problem-Based Learning|PBL]] 或 IBL 来理解？作者希望通过芬兰案例说明，PhBL 的整体教育潜力与当代测量/问责政策之间存在内在张力（Schaffar & Wolff, 2024, pp.1-2）。
+> [!info] [[Research Question|研究问题]]
+> 这篇论文追问：芬兰 [[Phenomenon-Based Learning]] 的历史与哲学根源是什么？为什么它既不是新发明，也不能只从[[Constructivist Paradigm|建构主义]]、[[Problem-Based Learning|PBL]] 或 IBL 来理解？作者希望通过芬兰案例说明，PhBL 的整体教育潜力与当代测量/问责政策之间存在内在张力（Schaffar & Wolff, 2024, pp.1-2）。
 
 ## 理论框架
 

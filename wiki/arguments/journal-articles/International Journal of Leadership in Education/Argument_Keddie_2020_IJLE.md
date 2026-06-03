@@ -40,7 +40,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 论文试图回答以下问题（Keddie et al., 2020, IJLE, p.5, 12-13）：
 >
 > 1. 市场化的哪些话语和实践构成[[School Autonomy|学校自主权]]、以损害社会正义的方式？

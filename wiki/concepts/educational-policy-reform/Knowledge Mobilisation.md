@@ -46,7 +46,7 @@ updated: 2026-06-03
 ## 概念辨析
 
 > [!example]
-> - **vs [[Evidence-Based Education]]** — EBE 更常[[Probes|追问]]“什么有效”；KMb 追问的是“这些知识如何被带进学校、被谁翻译、通过什么机制变成行动”。
+> - **vs [[Evidence-Based Education]]** — EBE 更常追问“什么有效”；KMb 追问的是“这些知识如何被带进学校、被谁翻译、通过什么机制变成行动”。
 > - **vs [[Evidence-Informed Practice]]** — EIP 是一种实践取向，强调证据、数据与[[Professional Judgment|专业判断]]的整合；KMb 更像支撑 EIP 的中介过程理论，解释研究如何在系统中流动、被重组和被采用。
 > - **vs [[Professional Judgment]]** — 专业判断是教师或领导者在具体情境中的决策能力；KMb 关注的是这些判断所需的研究知识如何进入现场并被消化。
 
@@ -94,7 +94,7 @@ updated: 2026-06-03
 > [!example]
 > - [[Evidence-Informed Practice]] — 知识动员在教育领域最清晰的应用场景之一。
 > - [[Visible Learning]] — 在北欧学校改进语境中，知识动员被用来解释研究知识如何从可见学习论述进入教师协作与课堂行动（Nordahl, 2015, pp.66–67）。
-> - [[Schlegel-UW Research Institute for Aging]] — 在产学合作语境中，RIA 通过 Schlegel Villages 的退休住宅网络将研究成果直接嵌入临床评估方案，新开发的脑血管健康生物标志物检测技术被纳入常规功能性体适能评估，实现了从实验室到终端用户的快速知识动员（Dean et al., 2025, p.253）。
+> - [[Schlegel-UW Research Institute for Aging]] — 在[[University-Industry Collaboration|产学合作]]语境中，RIA 通过 Schlegel Villages 的退休住宅网络将研究成果直接嵌入临床评估方案，新开发的脑血管健康生物标志物检测技术被纳入常规功能性体适能评估，实现了从实验室到终端用户的快速知识动员（Dean et al., 2025, p.253）。
 
 ## 来源
 

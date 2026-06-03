@@ -45,7 +45,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 对 [[John Hattie|Hattie]] (2010) 在 NZJES 发表的"On Being a '[[Critic and Conscience of Society]]'"进行逐点再回应。核心问题：Hattie 对 Snook et al. (2009) 批评的回应是否充分解决了实质性的方法论关切？
 
 ## 理论框架

@@ -85,7 +85,7 @@ EIP 的核心分歧不在“要不要看研究”，而在“研究在决策里�
 从教育产品消费者角度看，学校需要的决策信息超过[[Effect Size|效应量]]和[[Statistical Significance|统计显著性]]。实践者常偏好同伴推荐和本地试点，是因为这些渠道能提供项目特征、实施要求、使用满意度、成本和地方适配等信息；这些信息的因果识别强度可能不如 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]]，但对采购和持续实施很关键（Ross & Morrison, 2021, pp.120-121）。
 
 > [!example]
-> 一个学校购买阅读软件时，正式研究可以告诉它“平均是否提高阅读成绩”；EIP 还会[[Probes|追问]]：本校设备能否承载？教师需要多久培训？学生是否愿意每天使用？预算是否允许长期续费？这些问题把正式证据转化为[[Local Knowledge in Evidence-Based Policy|地方知识]]和[[Professional Judgment|专业判断]]问题（Ross & Morrison, 2021, p.121）。
+> 一个学校购买阅读软件时，正式研究可以告诉它“平均是否提高阅读成绩”；EIP 还会追问：本校设备能否承载？教师需要多久培训？学生是否愿意每天使用？预算是否允许长期续费？这些问题把正式证据转化为[[Local Knowledge in Evidence-Based Policy|地方知识]]和[[Professional Judgment|专业判断]]问题（Ross & Morrison, 2021, p.121）。
 
 ### 肥沃的土壤与中介条件
 

@@ -40,7 +40,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 标准化[[Effect Size|效应量]]是否能够作为比较和合并教育[[Intervention Research|干预研究]]的合法基础？基于效应量排名的[[Meta-meta-analysis|元-元分析]]联盟表（如 [[John Hattie|Hattie]] 的 [[Visible Learning]] 和 [[EEF Teaching and Learning Toolkit]]）是否提供了关于教育干预相对有效性的可靠证据？
 >
 > Simpson 的回答是否定的：标准化效应量不测量教育影响力，而测量试验灵敏度（experimental sensitivity）；效应量排名表反映的不是干预有效性的高低，而是各研究领域中研究者设计敏感试验的难易程度。

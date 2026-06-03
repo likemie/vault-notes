@@ -33,7 +33,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 本文回应 Simpson（2021）对 Kraft（2020）[[Effect Size|效应量]]基准的技术批评，并用扩展后的 3,426 个效应量数据集重新检验教育干预 [[Randomised Controlled Trials|RCT]] 中标准化学业成绩效应量的经验分布。核心问题是：在教育研究中解释效应量的政策相关性时，什么基准最重要？（Kraft, 2023, p.183）
 
 ## 理论框架

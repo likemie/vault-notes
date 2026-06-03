@@ -39,7 +39,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > Hanne Knudsen（奥胡斯大学丹麦教育学院）对 [[John Hattie]] 进行了 Skype 访谈，围绕四个核心问题展开（Knudsen, 2017, p.253–254）：
 >
 > 1. **实施与翻译**：Hattie 如何反思 VL 在丹麦的实施？他和团队对丹麦学校传统了解多少，是否认为本地情境知识很重要？

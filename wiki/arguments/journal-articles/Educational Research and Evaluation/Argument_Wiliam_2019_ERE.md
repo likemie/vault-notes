@@ -44,7 +44,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 作为 ERE 特刊的闭幕反思论文，Wiliam 旨在澄清[[Randomised Controlled Trials|随机对照试验]]和系统综述在改进教育成就中可能扮演的角色，并对特刊论文的论点进行综合与延伸。
 
 ## 理论框架

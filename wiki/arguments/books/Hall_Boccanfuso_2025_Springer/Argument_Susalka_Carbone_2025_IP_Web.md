@@ -307,7 +307,7 @@ IP 条款还需规范三个重要的操作层面（pp.283–284）。
 ### 第十步：内部沟通
 
 > [!warning] 谈判者与执行者的信息断裂
-> 产学合作的 IP 条款通常由大学的[[Technology Transfer|技术转移办公室]]（Technology Transfer Office, TTO）、赞助项目办公室（Sponsored Programs Office, SPO）或法务办公室（Office of General Counsel, OGC）谈判。首席研究员（Principal Investigator, PI）通常深度参与工作范围和预算的制定，并可能与产业方的科学同行就技术细节保持密切沟通。但 IP 条款的谈判反而常常在 PI 的视野之外进行。当 PI 最终看到一份已签署的协议时，可能对其中的 IP 义务一无所知（pp.284–285）。
+> 产学合作的 IP 条款通常由大学的[[Technology Transfer Office|技术转移办公室]]（[[Technology Transfer]] Office, TTO）、赞助项目办公室（Sponsored Programs Office, SPO）或法务办公室（Office of General Counsel, OGC）谈判。首席研究员（Principal Investigator, PI）通常深度参与工作范围和预算的制定，并可能与产业方的科学同行就技术细节保持密切沟通。但 IP 条款的谈判反而常常在 PI 的视野之外进行。当 PI 最终看到一份已签署的协议时，可能对其中的 IP 义务一无所知（pp.284–285）。
 >
 > 这一信息断裂带来了系统性的实施风险。
 
@@ -337,7 +337,7 @@ IP 条款还需规范三个重要的操作层面（pp.283–284）。
 >
 > - **IP 权利转让构成一个从赠款到技术服务的连续谱**。大多数产学合作位于中段：产业方获得 NERF 内部使用许可加有时间限制的商业许可选择权。替代定价方案（如明尼苏达大学 [[MN-IP Create]] 的菜单式选项和"意外收获条款"）有效缓解了企业对许可定价不确定性的核心担忧，同时保护了大学不因特别有价值的 IP 而损失合理回报（pp.281–283）。
 >
-> - **内部沟通是 IP 条款成功落地的关键环节**。PI 及其研究团队必须了解协议中的 IP 义务范围、产业方的发表审查权和权利主张范围，以及对未来创业活动的潜在制约。谈判者（[[Technology Transfer|TTO]]/SPO/OGC）与执行者（PI 和实验室成员）之间的信息断裂是协议实施中最常见也最可避免的风险（pp.284–285）。
+> - **内部沟通是 IP 条款成功落地的关键环节**。PI 及其研究团队必须了解协议中的 IP 义务范围、产业方的发表审查权和权利主张范围，以及对未来创业活动的潜在制约。谈判者（[[Technology Transfer Office|TTO]]/SPO/OGC）与执行者（PI 和实验室成员）之间的信息断裂是协议实施中最常见也最可避免的风险（pp.284–285）。
 
 ---
 

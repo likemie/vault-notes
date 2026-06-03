@@ -38,7 +38,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 以新西兰 Treasury 2011 年向候任财政部长简报为案例，分析教育政策论述中的[[Material Fallacies|实质谬误]]（material fallacies），并探讨研究者在证据被误用时负有何种道德-专业责任。
 
 ## 理论框架

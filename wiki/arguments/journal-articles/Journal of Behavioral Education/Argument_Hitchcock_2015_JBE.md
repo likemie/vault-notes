@@ -44,7 +44,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 针对 Maggin et al. (2013) 的结论——[[What Works Clearinghouse|WWC]] 审查程序未捕获 [[Single-Case Design|SCD]] 研究推广性所需的细节——本文试图澄清：WWC 的 [[Single-Case Design|SCD]] 审查程序（设计标准 + 审查协议 + SCD Review Guide）确实系统地捕获了推广性信息，此外还应用了一个新颖的证据充分性阈值（5-3-20 规则）（Hitchcock et al., 2015, pp.460–461）。
 >
 > 论文的核心问题可以分解为两个层面：

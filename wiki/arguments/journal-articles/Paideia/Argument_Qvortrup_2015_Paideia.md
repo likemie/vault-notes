@@ -40,7 +40,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 论文试图回答四个问题：
 >
 > 1. 如何理解 [[John Hattie|Hattie]] 的 [[Visible Learning]] 在实证统计教育研究传统中的位置？

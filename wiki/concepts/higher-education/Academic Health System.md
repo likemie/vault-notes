@@ -30,7 +30,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 学术健康系统（Academic Health System, AHS）是一种以患者诊疗为首要优先、同时深度投入学术研究与产业创新的医疗组织形态。与传统学术医学中心（Academic Medical Center, AMC）不同，AHS 并非附属于大学的医学院加教学医院，而是一个兼具科研基础设施、临床网络和[[University-Industry Collaboration|产学合作]]能力的独立组织实体（pp.179–180）。
+> 学术健康系统（Academic Health System, AHS）是一种以患者诊疗为首要优先、同时深度投入学术研究与产业创新的医疗组织形态。与传统[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC）不同，AHS 并非附属于大学的医学院加教学医院，而是一个兼具科研基础设施、临床网络和[[University-Industry Collaboration|产学合作]]能力的独立组织实体（pp.179–180）。
 
 AMC 的传统定义是"大学或医学院及其合作教学医院"，核心是学术与临床的双元组合（p.179）。AHS 在患者诊疗之外，同时追求学术研究和产业创新的多重目标，组织结构和优先事项混合了学术、临床和产业三种逻辑（pp.179–180）。
 
@@ -46,9 +46,9 @@ AMC 的传统定义是"大学或医学院及其合作教学医院"，核心是�
 ## 概念辨析
 
 > [!example]
-> - vs **学术医学中心（Academic Medical Center, AMC）** — AMC 的核心构成为大学医学院 + 教学医院，以教学和基础科研为重心。学术健康系统在 AMC 的基础上叠加了产业创新和系统内技术部署能力，优先事项混合了学术、临床和产业三种逻辑（pp.179–180）。
+> - vs **[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC）** — AMC 的核心构成为大学医学院 + 教学医院，以教学和基础科研为重心。学术健康系统在 AMC 的基础上叠加了产业创新和系统内技术部署能力，优先事项混合了学术、临床和产业三种逻辑（pp.179–180）。
 > - vs **社区医学中心（Community Medical Center, CMC）** — CMC 是非学术性的医疗机构，以提供当前最佳标准的诊疗为核心使命，通常不投入创新研发。学术健康系统区别于 CMC 的关键在于其系统性地投资于创新、科研和[[University-Industry Collaboration|产学合作]]（p.179）。
-> - vs **行业伙伴（Industry Partner）** — AHS 既不是纯粹的学术机构（如大学），也不是纯粹的产业伙伴。其首要优先始终是患者，但在患者诊疗之外，兼具学术研究和产业创新的双重兴趣，并因此成为产学合作中医用创新（Applied Medical Innovation, AMI）的独特促进者（pp.179–181）。
+> - vs **行业伙伴（Industry Partner）** — AHS 既不是纯粹的学术机构（如大学），也不是纯粹的产业伙伴。其首要优先始终是患者，但在患者诊疗之外，兼具学术研究和产业创新的双重兴趣，并因此成为产学合作中[[Applied Medical Innovation|医用创新]]（Applied Medical Innovation, AMI）的独特促进者（pp.179–181）。
 
 ## 产学合作中的独特角色
 

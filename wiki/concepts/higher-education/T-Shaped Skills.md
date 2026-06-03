@@ -62,7 +62,7 @@ Narayan 与 Spohrer 指出这一需求不仅落在四年制学位项目上，也
 ## 在医用创新中的应用
 
 > [!example]
-> 在医用创新（Applied Medical Innovation, AMI）中，T 型技能被应用于[[Physician-Scientist|医师科学家]]（Physician-Scientist）的角色（pp.185–186）：
+> 在[[Applied Medical Innovation|医用创新]]（Applied Medical Innovation, AMI）中，T 型技能被应用于[[Physician-Scientist|医师科学家]]（Physician-Scientist）的角色（pp.185–186）：
 > - 纵向深度（"|"）使医师科学家能够在自己的专业领域中精准识别临床问题和挑战；
 > - 横向广度（"—"）使其能够与来自不同学科和机构类型的合作伙伴有效沟通——工程师、产业研发人员、基础科学家各自以不同的参照框架看待问题，T 型技能的广度维度使医师科学家能够理解并整合这些多元视角。
 

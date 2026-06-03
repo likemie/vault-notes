@@ -36,7 +36,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 书评评述 [[John Hattie|Hattie]] & Yates 合著 *Synlig læring og læringens anatomi*（Dafolo, 2014，即 *[[Visible Learning]] and the Science of How We Learn* 的丹麦语译本），评估该书对丹麦教育实践的贡献与局限。
 
 ## 理论框架

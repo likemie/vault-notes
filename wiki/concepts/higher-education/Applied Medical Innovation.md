@@ -57,7 +57,7 @@ AMI 所解决的医学问题复杂性已超出单个机构或单一学科类型�
 
 ### 创新文化
 
-AMI 的文化条件是组织层面同时容纳学术、临床和产业三种逻辑。[[Academic Health System|学术健康系统]]（Academic Health System, AHS）正是培育这种文化的组织载体——在优先患者诊疗之后，同时深度投入学术研究和产业创新（p.179）。传统学术医学中心（Academic Medical Center, AMC）只具备学术-临床二元结构，不足以支撑 AMI 所需的产业创新维度。
+AMI 的文化条件是组织层面同时容纳学术、临床和产业三种逻辑。[[Academic Health System|学术健康系统]]（Academic Health System, AHS）正是培育这种文化的组织载体——在优先患者诊疗之后，同时深度投入学术研究和产业创新（p.179）。传统[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC）只具备学术-临床二元结构，不足以支撑 AMI 所需的产业创新维度。
 
 ## 概念辨析
 

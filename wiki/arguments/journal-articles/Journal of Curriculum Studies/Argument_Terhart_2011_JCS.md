@@ -41,7 +41,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > [[John Hattie]] 的 *[[Visible Learning]]* (2009) 是否真的找到了教学研究的"圣杯"（holy grail）？通过扩展评论评估 VL 的[[Meta-meta-analysis|元-元分析]]方法论、[[Didaktik|教学理论]]以及[[Evidence-Based Education|证据本位教育]]项目的基本局限。
 
 ## 理论框架

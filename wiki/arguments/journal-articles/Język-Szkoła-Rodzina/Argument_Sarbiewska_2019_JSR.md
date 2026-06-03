@@ -42,7 +42,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 新西兰和澳大利亚的教育系统在过去二十年间如何通过证据本位方法（特别是 [[John Hattie|Hattie]] 的 [[Visible Learning]] 概念）改变教育政策和实践？这种变革的理论基础是什么？
 
 ## 理论框架

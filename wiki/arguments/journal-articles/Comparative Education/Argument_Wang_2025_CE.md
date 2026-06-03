@@ -54,7 +54,7 @@ updated: 2026-05-26
 > [!question]
 > [[Test-Based Accountability|考试问责]]（[[Test-Based Accountability]]）与 [[Learner-Centred Education|LCE]]（[[Learner-Centred Education]]）之间的关系常被视为不可调和的对立——前者以标准化考试成绩规制教学，后者要求灵活、探索性的课堂。但这一对立是否过于简化？在高利害考试压力下，学校是否可能同时追求考试优异和教学改革？
 >
-> 具体而言，研究[[Probes|追问]]两个问题（p.591）：
+> 具体而言，研究追问两个问题（p.591）：
 > 1. 在引入国外 LCE 经验后，考试问责机制和 LCE 的实施在目标学校中各自如何被情境化？
 > 2. 这两个活动系统是否产生互动？如果是，互动如何影响 LCE 的本土化？
 >

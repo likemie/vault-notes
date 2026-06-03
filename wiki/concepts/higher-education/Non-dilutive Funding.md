@@ -51,7 +51,7 @@ updated: 2026-05-29
 > [!abstract]
 > [[University Spin-Out|大学衍生企业]]可获取的非稀释性资助主要有三类（pp.144, 148-149）：
 
-> **大学内部资助**。大学通过[[Technology Transfer|技术转移办公室]]（Technology Transfer Office, TTO）或专门的创新基金提供内部拨款，用于支付专利申请费用、法律保护成本和早期概念验证（[[Proof of Concept Programs|proof of concept]], PoP）研究。例如大学内部的"产品验证"拨款（Proof of Product grants）——通常 $10,000 到 $100,000——支持研究团队在一定期限内（数月到一年）推进[[Translational Research|转化研究]]达到明确的技术或市场验证里程碑（pp.148-149）。
+> **大学内部资助**。大学通过[[Technology Transfer Office|技术转移办公室]]（[[Technology Transfer]] Office, TTO）或专门的创新基金提供内部拨款，用于支付专利申请费用、法律保护成本和早期概念验证（[[Proof of Concept Programs|proof of concept]], PoP）研究。例如大学内部的"产品验证"拨款（Proof of Product grants）——通常 $10,000 到 $100,000——支持研究团队在一定期限内（数月到一年）推进[[Translational Research|转化研究]]达到明确的技术或市场验证里程碑（pp.148-149）。
 
 > **联邦政府研发资助**。美国联邦机构——包括[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）、国立卫生研究院（National Institutes of Health, NIH）、能源部（Department of Energy, DOE）和国防部（Department of Defense, DOD）——为大学研究提供大量资助。这些资助本身不限于商业化目的，但其产生的知识产权（Intellectual Property, IP）根据[[Bayh-Dole Act of 1980|Bayh-Dole Act]]归大学所有，为后续技术转移和衍生企业创建奠定了基础（p.144）。
 

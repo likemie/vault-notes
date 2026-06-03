@@ -46,7 +46,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 证据本位教学（evidence-based teaching）的倡导者坚称这是一种严格的科学方法。本文质疑 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]是教育研究中唯一真正科学方法的观点，指出这些宣称往往依赖于一种过于简单的"科学"概念。
 >
 > > “我们的观点是，这些对科学的诉诸为了修辞效果，使用了一种有缺陷且刻板的自然科学的白话形象或‘民间观点’（Thomas, 2012, p. 28），但未能充分探究科学的真正特征。”

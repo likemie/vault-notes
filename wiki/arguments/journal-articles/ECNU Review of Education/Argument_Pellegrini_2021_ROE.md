@@ -57,7 +57,7 @@ updated: 2026-05-23
 
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 欧洲教育政策中，证据使用已经被 [[EU Evidence-Informed Education Policy Initiatives|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 ESSA 式证据标准 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform|证据本位改革]]？（Pellegrini & Vivanet, 2021, pp.25-28）
 
 这篇文章要解释的核心张力是：欧盟政策倡议 已经把证据知情政策和实践列为教育治理方向，但欧洲教育系统的多国、多语言、多课程结构，使“有证据的项目”很难直接变成可复制、可采购、可评估的欧洲共同方案（Pellegrini & Vivanet, 2021, pp.35-37）。

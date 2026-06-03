@@ -83,7 +83,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 本章论证两种概念视角并非互斥而是互为补充，共同构成有力分析框架：
 
 - 批判地缘政治学提供了关系性和话语-符号维度，关注构成全球知识密集型资本主义网络的具体物质过程和空间配置——例如 IEHs 如何将特定领土转变为全球教育流动的"枢纽"（Parreira do Amaral, 2022, pp.43–45）
-- 后殖民/去殖民批判则将注意力引向认识论本身的政治性——它[[Probes|追问]]的不只是"谁在想象和建构世界空间"，而是"谁的知识被认定为知识，什么认识论被排除在外"。这揭示了一个被"创新"话语掩盖的深层后果：当前的[[Knowledge-Based Economization|知识经济化]]并非认识论中立——它在制度层面系统性地稳定和固化了特定的（实证主义、经验主义）认识论范式，并通过"创新"话语使其成为唯一合理的选择。例：在 EU Horizon 2020 框架下，SSH 研究被取消独立资助渠道，要求"直接为政策证据基础做贡献"（Parreira do Amaral, 2022, p.42）——这意味着 SSH 研究只有在其能够为技术创新和经济竞争力提供工具性贡献时才被视为有价值，而纯理论、批判性或非工具性的研究被制度性地边缘化。从去殖民视角看，这正是西方认识论等级秩序——自然科学为"真正的知识"，人文学科为"辅助性知识"——在当代研究治理中的再生产
+- 后殖民/去殖民批判则将注意力引向认识论本身的政治性——它追问的不只是"谁在想象和建构世界空间"，而是"谁的知识被认定为知识，什么认识论被排除在外"。这揭示了一个被"创新"话语掩盖的深层后果：当前的[[Knowledge-Based Economization|知识经济化]]并非认识论中立——它在制度层面系统性地稳定和固化了特定的（实证主义、经验主义）认识论范式，并通过"创新"话语使其成为唯一合理的选择。例：在 EU Horizon 2020 框架下，SSH 研究被取消独立资助渠道，要求"直接为政策证据基础做贡献"（Parreira do Amaral, 2022, p.42）——这意味着 SSH 研究只有在其能够为技术创新和经济竞争力提供工具性贡献时才被视为有价值，而纯理论、批判性或非工具性的研究被制度性地边缘化。从去殖民视角看，这正是西方认识论等级秩序——自然科学为"真正的知识"，人文学科为"辅助性知识"——在当代研究治理中的再生产
 
 综合起来，本章强调当前形势中两个维度的共构性：
 1. 古典的领土权力博弈并未消失——大国的势力范围竞争以技术竞争和区域贸易协定（如 RCEP）的新形式持续运作（Parreira do Amaral, 2022, pp.37–38）
@@ -131,7 +131,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 
 > [!quote]
 > “本章认为，在这种背景下，高等教育是新[[Geopolitics of Knowledge|知识地缘政治]]的一部分，指的是将高等教育纳入不同行动者的想象和计算中，旨在主张和/或改善他们在全球[[Knowledge-Based Economy|知识经济]]中的地位。”
-> ("The chapter argues that higher education, in this setting, is part of a New [[Geopolitics of Knowledge]] that refers to the [[Integration in Mixed Methods|integration]] of higher education in the imaginations and calculations of different actors aiming at asserting and/or improving their positions in the global [[Knowledge-Based Economy]].") (Parreira do Amaral, 2022, pp.36–37)
+> ("The chapter argues that higher education, in this setting, is part of a New [[Geopolitics of Knowledge]] that refers to the integration of higher education in the imaginations and calculations of different actors aiming at asserting and/or improving their positions in the global [[Knowledge-Based Economy]].") (Parreira do Amaral, 2022, pp.36–37)
 
 ## 局限性与批评
 

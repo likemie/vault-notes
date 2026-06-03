@@ -43,7 +43,7 @@ updated: 2026-05-18
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 澳大利亚[[School Leadership|学校领导力]]领域为何且如何在当代屈服于"[[Cult of the Guru|大师崇拜]]"（cult of the guru）？具体而言，[[John Hattie]] 的[[Meta-meta-analysis|元-元分析]]为何能在澳大利亚教育系统中获得前所未有的接受度和影响力？（Eacott, 2017, p.413-414）
 
 ## 理论框架

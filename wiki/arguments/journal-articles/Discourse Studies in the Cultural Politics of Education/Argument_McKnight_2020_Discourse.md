@@ -39,7 +39,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > [[Visible Learning]] 作为一种全球教育论述，在文化政治层面"运作"（puts to work）了什么？具体而言：Visible Learning 的隐喻本身与哪些权力关系结盟？它在性别、能力和新自由主义议程方面产生了什么效应？
 >
 > 作者并非攻击 [[John Hattie|Hattie]] 本人，而是关注 Visible Learning 如何被论述性地建构以及这种建构的政治后果（McKnight & Whitburn, 2020, p.33）。

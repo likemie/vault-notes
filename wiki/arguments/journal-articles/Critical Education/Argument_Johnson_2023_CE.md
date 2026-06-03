@@ -43,7 +43,7 @@ updated: '2026-05-18'
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > [[Visible Learning]] 的学术基础和意识形态意义是什么？这篇批判性文章从方法论、立场性、资本主义动机和对科学的误用四个角度审视 Visible Learning 的基础。
 
 ## 理论框架

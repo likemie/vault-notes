@@ -48,7 +48,7 @@ updated: 2026-05-18
 ---
 ## 研究问题
 
-> [!info] 研究问题
+> [!info] [[Research Question|研究问题]]
 > 1. 通识教育科为何以及如何成为香港高中必修科目？
 > 2. 通识教育科为何在 2021 年被"[[Citizenship and Social Development|公民与社会发展科]]"取代？
 >
