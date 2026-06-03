@@ -5048,6 +5048,15 @@
     ]
   },
   {
+    "title": "RIA Model for Innovation",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/RIA Model for Innovation.md",
+    "aliases": [
+      "RIA 创新模型",
+      "Schlegel-UW RIA 创新模型"
+    ]
+  },
+  {
     "title": "Stokes' Quadrant Model of Scientific Research",
     "type": "theory",
     "path": "wiki/theories/higher-education/Stokes' Quadrant Model of Scientific Research.md",
@@ -7486,6 +7495,27 @@
       "Jerudong International School",
       "JIS",
       "文莱 Jerudong International School 建校项目"
+    ]
+  },
+  {
+    "title": "Global Futures Framework (University of Waterloo)",
+    "type": "fact",
+    "path": "wiki/facts/canada/Global Futures Framework (University of Waterloo).md",
+    "aliases": [
+      "Global Futures Framework",
+      "滑铁卢大学全球未来框架",
+      "UW Global Futures"
+    ]
+  },
+  {
+    "title": "Inventor-Owned IP Policy (University of Waterloo)",
+    "type": "fact",
+    "path": "wiki/facts/canada/Inventor-Owned IP Policy (University of Waterloo).md",
+    "aliases": [
+      "滑铁卢大学发明人自有知识产权政策",
+      "creator-owned IP policy",
+      "inventor-owned IP policy",
+      "发明人自有IP政策"
     ]
   },
   {
