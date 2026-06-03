@@ -33,3 +33,4 @@ processed_date: 2026-05-27
 - [[Argument_Dean_2025_UICollaborationSupport]]
 - [[Argument_Susalka_Carbone_2025_IP_Web]]
 - [[Argument_Wolf_2025_InternationalResearchCollab]]
+- [[Argument_Bang_2025_ClinicalTrials]]

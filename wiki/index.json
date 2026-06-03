@@ -1278,6 +1278,19 @@
     ]
   },
   {
+    "title": "Clinical Trial",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Clinical Trial.md",
+    "aliases": [
+      "临床试验",
+      "clinical trials",
+      "clinical study",
+      "clinical studies",
+      "randomized double-blind clinical trial",
+      "随机双盲临床试验"
+    ]
+  },
+  {
     "title": "Competitiveness",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Competitiveness.md",
@@ -1708,6 +1721,21 @@
       "umbrella agreement",
       "master research agreement",
       "总协议"
+    ]
+  },
+  {
+    "title": "Master Protocol",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Master Protocol.md",
+    "aliases": [
+      "主方案",
+      "master protocols",
+      "basket trial",
+      "umbrella trial",
+      "platform trial",
+      "篮式试验",
+      "伞式试验",
+      "平台试验"
     ]
   },
   {
@@ -9258,6 +9286,11 @@
     "title": "Argument_Creswell_2022_SAGE",
     "type": "argument",
     "path": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
+  },
+  {
+    "title": "Argument_Bang_2025_ClinicalTrials",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Bang_2025_ClinicalTrials.md"
   },
   {
     "title": "Argument_Boccanfuso_Hall_2025_Alignment",
