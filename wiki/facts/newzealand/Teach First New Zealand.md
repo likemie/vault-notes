@@ -14,7 +14,8 @@ tags:
   - subject/curriculum
   - region/new-zealand
   - education-policy
-related_concepts: []
+related_concepts:
+  - "[[STEM Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -41,7 +42,7 @@ updated: 2026-05-18
 > - **选拔严格**：仅选拔高表现、高潜力毕业生；接受率 7%（2014 年：464 申请 → 35 录取）
 > - **目标学校**：仅安置在低 decile 学校（90% 在 decile 1–3），覆盖奥克兰和北地的 40 所学校
 > - **参与者按未培训教师费率支付工资**
-> - **2013–2016 年**累计招募 74 名参与者；42% 教授 STEM 科目
+> - **2013–2016 年**累计招募 74 名参与者；42% 教授 [[STEM Education|STEM]] 科目
 > - **人口构成**：半数 Pākehā，16% Māori，11% Pasifika（O'Neill et al., 2016, pp.53–54）
 
 ## 治理与伙伴关系

@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Educational Management Organisation]]"
   - "[[Endogenous and Exogenous Privatisation]]"
-  - "[[Policy Entrepreneur]]"
   - "[[Visible Learning]]"
   - "[[Network Governance]]"
   - "[[Venture Philanthropy]]"
@@ -13,11 +12,12 @@ extracted_to:
   - "[[Foundation North Māori and Pasifika Education Initiative]]"
   - "[[Manaiakalani Education Trust]]"
   - "[[Partnership Schools Kura Hourua]]"
-  - "[[Teach First New Zealand]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[John Hattie]]"
   - "[[Stephen Ball]]"
+  - "[[Policy Entrepreneur]]"
+  - "[[Teach First New Zealand]]"
 processed_date: 2026-05-04
 ---
 

@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Reflexivity]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[STEM Education]]"
   - "[[Further Education]]"
   - "[[Corporate Education]]"
   - "[[Internationalization of Higher Education]]"
@@ -90,7 +91,7 @@ KBE 的知性根源可追溯至 Friedrich List 的《政治经济学的国家系
 
 ### Sputnik Shock 与 OECD 的早期制度介入
 
-Amos (2022, p.56) 指出一个常被忽略的时间线：知识作为生产要素被纳入经济理论讨论远早于 1990 年代的"知识经济"政策话语。自 1950 年代末——特别是 1957 年 [[Sputnik Shock 1957|Sputnik Shock]]（苏联率先发射人造卫星）之后——OECD 便系统性地关注教育，尤其是 STEM 学科。"在福利国家即将大规模扩张的二战后的那些年里，经济与知识之间的关联已经被锻造"——远在"市场起关键作用"的论述成为主流之前（Amos, 2022, p.56）。
+Amos (2022, p.56) 指出一个常被忽略的时间线：知识作为生产要素被纳入经济理论讨论远早于 1990 年代的"知识经济"政策话语。自 1950 年代末——特别是 1957 年 [[Sputnik Shock 1957|Sputnik Shock]]（苏联率先发射人造卫星）之后——OECD 便系统性地关注教育，尤其是 [[STEM Education|STEM]] 学科。"在福利国家即将大规模扩张的二战后的那些年里，经济与知识之间的关联已经被锻造"——远在"市场起关键作用"的论述成为主流之前（Amos, 2022, p.56）。
 
 Sputnik Shock 是理解教育和地缘政治关系的经典案例：美国对苏联航天成就的反应不是增加军费，而是大规模改革科学和数学课程——因为决策者相信苏联的"知识优势"来自更优越的教育。早在 1950s 末，"知识=国家竞争力"的逻辑已经在驱动教育政策，尽管当时仍是在国家框架内运作，而非后来的市场框架。
 

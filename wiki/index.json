@@ -507,6 +507,16 @@
     ]
   },
   {
+    "title": "STEM Education",
+    "type": "concept",
+    "path": "wiki/concepts/education/STEM Education.md",
+    "aliases": [
+      "STEM",
+      "STEM教育",
+      "科学、技术、工程和数学教育"
+    ]
+  },
+  {
     "title": "Absorptive Capacity",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
@@ -2266,6 +2276,15 @@
       "巴斯德象限",
       "use-inspired research",
       "Pasteur象限"
+    ]
+  },
+  {
+    "title": "Hidden Champions",
+    "type": "concept",
+    "path": "wiki/concepts/industrial-innovation/Hidden Champions.md",
+    "aliases": [
+      "隐形冠军",
+      "隐形冠军企业"
     ]
   },
   {
@@ -4865,6 +4884,63 @@
       "零和博弈式竞争",
       "mutually exclusive competition",
       "排他性竞争"
+    ]
+  },
+  {
+    "title": "Deep Integration of Sci-Tech and Industrial Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/technology-innovation/Deep Integration of Sci-Tech and Industrial Innovation.md",
+    "aliases": [
+      "科技创新和产业创新深度融合",
+      "科技与产业融合",
+      "科创与产创融合"
+    ]
+  },
+  {
+    "title": "High-Quality Sci-Tech Supply",
+    "type": "concept",
+    "path": "wiki/concepts/technology-innovation/High-Quality Sci-Tech Supply.md",
+    "aliases": [
+      "高质量科技供给",
+      "科技供给"
+    ]
+  },
+  {
+    "title": "Principal Status of Enterprises in Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/technology-innovation/Principal Status of Enterprises in Innovation.md",
+    "aliases": [
+      "企业科技创新主体地位",
+      "企业创新主体地位"
+    ]
+  },
+  {
+    "title": "Sci-Tech Achievement Transformation",
+    "type": "concept",
+    "path": "wiki/concepts/technology-innovation/Sci-Tech Achievement Transformation.md",
+    "aliases": [
+      "科技成果转化应用",
+      "科技成果转移转化",
+      "成果转化"
+    ]
+  },
+  {
+    "title": "Society 5.0",
+    "type": "concept",
+    "path": "wiki/concepts/technology-innovation/Society 5.0.md",
+    "aliases": [
+      "社会5.0",
+      "超级智能社会"
+    ]
+  },
+  {
+    "title": "Two Separate Skins Phenomenon",
+    "type": "concept",
+    "path": "wiki/concepts/technology-innovation/Two Separate Skins Phenomenon.md",
+    "aliases": [
+      "两张皮现象",
+      "科技与产业两张皮",
+      "科技与经济两张皮"
     ]
   },
   {
@@ -7776,6 +7852,15 @@
     ]
   },
   {
+    "title": "Jiebang Guashuai",
+    "type": "fact",
+    "path": "wiki/facts/china/Jiebang Guashuai.md",
+    "aliases": [
+      "揭榜挂帅",
+      "Open Competition Mechanism"
+    ]
+  },
+  {
     "title": "Recommendation-Based Graduate Admission System",
     "type": "fact",
     "path": "wiki/facts/china/Recommendation-Based Graduate Admission System.md",
@@ -7798,6 +7883,15 @@
     ]
   },
   {
+    "title": "Shenzhen Four 90 Percent Innovation Pattern",
+    "type": "fact",
+    "path": "wiki/facts/china/Shenzhen Four 90 Percent Innovation Pattern.md",
+    "aliases": [
+      "深圳“四个90%”",
+      "四个90%"
+    ]
+  },
+  {
     "title": "Three Excellences",
     "type": "fact",
     "path": "wiki/facts/china/Three Excellences.md",
@@ -7806,6 +7900,16 @@
       "三好学生",
       "Students with Three Excellences",
       "san hao sheng"
+    ]
+  },
+  {
+    "title": "Xi'an Three Reforms on Sci-Tech Achievements",
+    "type": "fact",
+    "path": "wiki/facts/china/Xi'an Three Reforms on Sci-Tech Achievements.md",
+    "aliases": [
+      "三项改革",
+      "科技成果转化“三项改革”",
+      "职务科技成果单列管理"
     ]
   },
   {
@@ -8302,6 +8406,15 @@
     "aliases": [
       "国体之本义",
       "Cardinal Principles of the National Entity of Japan"
+    ]
+  },
+  {
+    "title": "Tsukuba Science City",
+    "type": "fact",
+    "path": "wiki/facts/japan/Tsukuba Science City.md",
+    "aliases": [
+      "筑波科学城",
+      "Tsukuba"
     ]
   },
   {
@@ -9273,6 +9386,15 @@
     "aliases": [
       "综合学校改革项目",
       "CSR"
+    ]
+  },
+  {
+    "title": "DARPA",
+    "type": "fact",
+    "path": "wiki/facts/us/DARPA.md",
+    "aliases": [
+      "美国国防高级研究计划局",
+      "Defense Advanced Research Projects Agency"
     ]
   },
   {

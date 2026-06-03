@@ -12,6 +12,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[STEM Education]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -57,7 +58,7 @@ updated: 2026-05-18
 
 > [!abstract]
 > - **[[Jean-François Lyotard|Lyotard]] 的后现代知识理论**：Lyotard（1979/1984）论证知识在后现代条件下通过"表演性"（performativity）和权力进行合法化——"权力不仅是好的表演性，而且是有效的验证和好的裁决"。科学知识因其可量化的效率而获得制度性优势（Partaken, 2022, p.84）
-> - **[[Knowledge-Based Economy|知识经济]]学（Knowledge Economics）**：在[[Geopolitics of Knowledge|知识地缘政治]]框架中，知识被重新定义为可商品化的资产——产生经济价值的知识类型（STEM、专利）获得优先资助，批判性的、阐释性的叙事知识被制度性边缘化（Partaken, 2022, p.71, 84）
+> - **[[Knowledge-Based Economy|知识经济]]学（Knowledge Economics）**：在[[Geopolitics of Knowledge|知识地缘政治]]框架中，知识被重新定义为可商品化的资产——产生经济价值的知识类型（[[STEM Education|STEM]]、专利）获得优先资助，批判性的、阐释性的叙事知识被制度性边缘化（Partaken, 2022, p.71, 84）
 > - **后殖民 GPK 传统的自我反思**：后殖民去殖民批判虽然有效揭示了西方认识论霸权，但其分析本身属于叙事知识范畴——Partaken 的诊断意味着，后殖民传统的有效性基础正在因其批判对象（叙事知识整体）的衰退而被削弱（Partaken, 2022, p.74–75）
 
 ---

@@ -16,7 +16,6 @@ extracted_to:
   - "[[Financialization of Higher Education]]"
   - "[[Knowledge Capitalism]]"
   - "[[Knowledge Rents]]"
-  - "[[Knowledge-Based Economy]]"
   - "[[New Public Management]]"
   - "[[Quasi-commodification of Knowledge]]"
   - "[[Quasi-markets in Higher Education]]"
@@ -25,11 +24,12 @@ extracted_to:
   - "[[CNRS]]"
   - "[[Excellence Initiative (Germany)]]"
   - "[[Research Excellence Framework]]"
-  - "[[Bayh-Dole Act of 1980]]"
   - "[[Pierre Bourdieu]]"
   - "[[Cultural Political Economy]]"
   - "[[Neo-feudalism in Higher Education]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-06-01
 ---
 

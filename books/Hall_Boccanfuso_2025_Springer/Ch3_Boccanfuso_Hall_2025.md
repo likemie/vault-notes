@@ -4,14 +4,12 @@ extracted_to:
   - "[[Boundary Spanner]]"
   - "[[Concierge Service]]"
   - "[[Entrepreneurial University]]"
-  - "[[Industry Affiliate Program]]"
   - "[[Innovation Park]]"
   - "[[Knowledge Integration Community]]"
   - "[[Knowledge Transfer]]"
   - "[[Professors of Practice]]"
   - "[[Technology Transfer Office]]"
   - "[[Technology Transfer]]"
-  - "[[Bayh-Dole Act of 1980]]"
   - "[[Hatch Act of 1887]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Website Content Analysis]]"
@@ -20,6 +18,8 @@ extracted_to:
   - "[[Academic Engagement]]"
   - "[[Partnership Continuum]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Industry Affiliate Program]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

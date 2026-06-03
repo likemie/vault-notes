@@ -35,7 +35,6 @@ extracted_to:
   - "[[Hook and Eye Technique]]"
   - "[[Hypothesis]]"
   - "[[Informed Consent]]"
-  - "[[Institutional Review Board]]"
   - "[[Integration Statement]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Inter-Rater Reliability]]"
@@ -47,7 +46,6 @@ extracted_to:
   - "[[Manipulation Check]]"
   - "[[Memos]]"
   - "[[Metainferences]]"
-  - "[[Mixed Methods Question]]"
   - "[[Multimethod Research]]"
   - "[[Narrative Hook]]"
   - "[[Narrative Thought Types]]"
@@ -143,6 +141,8 @@ extracted_to:
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Institutional Review Board]]"
+  - "[[Mixed Methods Question]]"
 processed_date: 2026-05-30
 ---
 

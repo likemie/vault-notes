@@ -5,7 +5,6 @@ extracted_to:
   - "[[Multi-University]]"
   - "[[Technology Transfer Office]]"
   - "[[Technology Transfer]]"
-  - "[[Bayh-Dole Act of 1980]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[University Industry Demonstration Partnership]]"
@@ -13,6 +12,7 @@ extracted_to:
   - "[[Innovation Ecosystem]]"
   - "[[Argument_Hall(Ed.)_2025_Springer]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-05-27
 ---
 

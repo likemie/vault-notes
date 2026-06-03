@@ -17,6 +17,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[STEM Education]]"
   - "[[Knowledge Production]]"
   - "[[Epistemic Governance]]"
   - "[[Geopolitics of Knowledge]]"
@@ -62,7 +63,7 @@ updated: '2026-05-18'
 > Parreira do Amaral（2019）论证该政策产生了多重影响（Thompson & Parreira do Amaral, 2022, p.12）：
 >
 > - **资助结构的根本转变**：从以学科和主题为基础的研究资助结构，转向更聚焦于战略性干预和工具性解决方案的资源配置模式
-> - **学科层级的制度化**：SSH 与其他学科的等级关系从隐性的学术文化变为显性的制度安排——STEM 学科被定位为"核心"，SSH 被定位为"辅助"
+> - **学科层级的制度化**：SSH 与其他学科的等级关系从隐性的学术文化变为显性的制度安排——[[STEM Education|STEM]] 学科被定位为"核心"，SSH 被定位为"辅助"
 > - **SSH 价值的工具化窄化**：教育研究（与其他 SSH 学科一起）"被缩减为其对技术科学创新和应对社会挑战的工具性／实践性贡献的潜力"（Thompson & Parreira do Amaral, 2022, p.12）
 > - **认识论治理效应**：该政策不仅影响了研究资助的分配结果，更深刻地影响了[[Knowledge Production|知识生产]]本身的条件、方向和验证标准——即所谓认识论治理（[[Epistemic Governance]]）。SSH 研究的认识论自主性和方法论多样性在此框架下面临制度性压力（Parreira do Amaral, 2022, pp.42, 49）
 
@@ -73,7 +74,7 @@ updated: '2026-05-18'
 >
 > **从[[Critical Geopolitics|批判地缘政治学]]视角看**，该政策是[[Geopolitics of Knowledge|知识地缘政治]]在超国家治理层面的典型运作：欧盟通过研究资助框架——一种空间化的治理技术——将研究按照其对经济竞争力和创新的潜在贡献进行排序和配置。这反映了[[Knowledge-Based Economization|知识经济化]]逻辑对学术[[Knowledge Production|知识生产]]的深刻渗透：知识只有在能够转化为经济价值时才被赋予优先权。该政策也是[[Global Regionalisms|全球区域主义]]的具体制度表现——通过区域研究框架重塑高等教育和研究的知识生产秩序（Parreira do Amaral, 2022, pp.40–42）。
 >
-> **从[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]视角看**，该政策是 Mignolo 所批判的"西方认识论霸权"在当代研究治理中的制度性再生产。Parreira do Amaral（2022, p.42）明确指出："能够产生专利和量化证据的 STEM 学科获得优先资助，而批判性的、阐释性的、非工具性的研究被制度性地边缘化"。这恰恰是"认识论的政治性"的物质性表现——研究资助的分配机制本身就是一种认识论选择：它在不宣称任何认识论立场的情况下，通过制度设计将特定的认识论范式（实证主义、经验主义）固化为唯一合理的选择（Parreira do Amaral, 2022, pp.39, 48–49）。
+> **从[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]视角看**，该政策是 Mignolo 所批判的"西方认识论霸权"在当代研究治理中的制度性再生产。Parreira do Amaral（2022, p.42）明确指出："能够产生专利和量化证据的 [[STEM Education|STEM]] 学科获得优先资助，而批判性的、阐释性的、非工具性的研究被制度性地边缘化"。这恰恰是"认识论的政治性"的物质性表现——研究资助的分配机制本身就是一种认识论选择：它在不宣称任何认识论立场的情况下，通过制度设计将特定的认识论范式（实证主义、经验主义）固化为唯一合理的选择（Parreira do Amaral, 2022, pp.39, 48–49）。
 >
 > > 一个具体的例子：在 Horizon 2020 框架下，一项关于欧盟移民政策的人类学研究必须将其提案框定为对"社会凝聚力"或"劳动力市场效率"的贡献才能获得资助——研究的认识论自主性在制度层面被消解，批判性的学术探究被置换为政策问题的工具性求解。
 >

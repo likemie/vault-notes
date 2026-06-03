@@ -10,12 +10,12 @@ extracted_to:
   - "[[Use-Inspired Basic Research]]"
   - "[[African Orphan Crops Consortium]]"
   - "[[Nagoya Protocol]]"
-  - "[[Bayh-Dole Act of 1980]]"
   - "[[Innovation Institute for Food and Health]]"
   - "[[Dollinger et al. Framework for UI Collaboration]]"
   - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Triple Helix]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---

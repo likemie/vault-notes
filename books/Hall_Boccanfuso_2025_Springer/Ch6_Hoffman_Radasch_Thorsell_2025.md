@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Boundary Spanner]]"
   - "[[Industry Advisory Board]]"
-  - "[[Industry Affiliate Program]]"
   - "[[Innovation Hub]]"
   - "[[Master Agreement]]"
   - "[[Precompetitive Research]]"
@@ -14,6 +13,7 @@ extracted_to:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Industry Affiliate Program]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

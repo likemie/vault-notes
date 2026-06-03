@@ -48,6 +48,7 @@ related_concepts:
   - "[[Transnational Research Collaboration]]"
   - "[[Global Universities Rankings]]"
   - "[[Hegemony]]"
+  - "[[STEM Education]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Fixity-Motion Tension]]"
@@ -289,7 +290,7 @@ Marginson（2025）将当代高等教育 GPK 的历史演变分为两个主要�
 
 > [!example]
 > **中美技术紧张与人才流动限制**
-> - [[Sino-American Trade War|中美贸易战]]被 Partaken 定位为 GPK"最好且最当下的经验案例"：美国以关税和出口管制为手段，试图遏制中国在 AI、半导体、量子计算等领域的技术追赶。在教育层面，美国对赴美攻读敏感 STEM 领域的中国研究生实施签证限制，部分美国大学被要求报告与中国机构的合作项目（Partaken, 2022, pp.67, 84）
+> - [[Sino-American Trade War|中美贸易战]]被 Partaken 定位为 GPK"最好且最当下的经验案例"：美国以关税和出口管制为手段，试图遏制中国在 AI、半导体、量子计算等领域的技术追赶。在教育层面，美国对赴美攻读敏感 [[STEM Education|STEM]] 领域的中国研究生实施签证限制，部分美国大学被要求报告与中国机构的合作项目（Partaken, 2022, pp.67, 84）
 > - [[US-China Economic and Security Review Commission|美中经济与安全审查委员会]]系统监控中美教育与研究合作中的"国家安全风险"，其年度报告直接影响美国对华教育政策的制定（Partaken, 2022, pp.67–68）
 > - [[Thousand Talents Program|千人计划]]被美方视为制度化知识盗窃机制：中国以高额资助吸引海外华人科学家回国，美方则以经济间谍罪起诉多名参与该计划的研究人员，导致两国学术合作急剧冷却（Partaken, 2022, p.84）
 >

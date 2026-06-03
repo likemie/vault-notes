@@ -5,8 +5,8 @@ extracted_to:
   - "[[Precompetitive Research]]"
   - "[[Six Rs of University-Industry Relations]]"
   - "[[T-Shaped Skills]]"
-  - "[[Translational Research]]"
   - "[[Jim Spohrer]]"
+  - "[[Translational Research]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

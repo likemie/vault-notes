@@ -6,11 +6,9 @@ extracted_to:
   - "[[Technology Transfer Office]]"
   - "[[Technology Transfer]]"
   - "[[APLU Innovation and Economic Prosperity Program]]"
-  - "[[Bayh-Dole Act of 1980]]"
   - "[[California Master Plan for Higher Education]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[National Science Foundation]]"
-  - "[[Rising Above the Gathering Storm 2007]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[University Industry Demonstration Partnership]]"
@@ -19,6 +17,8 @@ extracted_to:
   - "[[Innovation Ecosystem]]"
   - "[[Argument_Boccanfuso_Hall_2025_Alignment]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Bayh-Dole Act of 1980]]"
+  - "[[Rising Above the Gathering Storm 2007]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
