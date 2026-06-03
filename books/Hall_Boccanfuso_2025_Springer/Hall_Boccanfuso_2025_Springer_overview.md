@@ -7,11 +7,11 @@ extracted_to:
   - "[[Multi-University]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
-  - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
-  - "[[Technology Transfer]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
+  - "[[University Industry Demonstration Partnership]]"
 processed_date: 2026-05-27
 ---
 

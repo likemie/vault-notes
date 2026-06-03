@@ -13,11 +13,11 @@ extracted_to:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[University, Inc. (Washburn, 2005)]]"
-  - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
-  - "[[Technology Transfer]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
+  - "[[University Industry Demonstration Partnership]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

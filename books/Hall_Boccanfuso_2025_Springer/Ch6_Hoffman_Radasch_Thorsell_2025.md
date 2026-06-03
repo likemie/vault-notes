@@ -6,7 +6,6 @@ extracted_to:
   - "[[Innovation Ecosystem]]"
   - "[[Innovation Hub]]"
   - "[[Precompetitive Research]]"
-  - "[[University Industry Demonstration Partnership]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Industry Affiliate Program]]"
@@ -14,6 +13,7 @@ extracted_to:
   - "[[Product-Specific Research]]"
   - "[[University-Based Research Center]]"
   - "[[University-Industry Collaboration]]"
+  - "[[University Industry Demonstration Partnership]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

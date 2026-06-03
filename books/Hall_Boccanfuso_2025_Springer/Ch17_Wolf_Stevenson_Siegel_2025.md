@@ -9,10 +9,10 @@ extracted_to:
   - "[[Innovation Institute for Food and Health]]"
   - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Return on Investment]]"
-  - "[[Technology Transfer]]"
   - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
   - "[[Pre-negotiated IP Rights]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"

@@ -35,8 +35,9 @@ sources:
   - "[[Ch3_Boccanfuso_Hall_2025]]"
   - "[[Ch4_Burrus_Patera_2025]]"
   - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
   - "[[Ch10_Swick_Jones_2025]]"
+  - "[[Ch15_Susalka_Carbone_2025]]"
+  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -52,7 +53,7 @@ updated: 2026-05-28
 
 UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者——不为单个合作项目牵线搭桥，而是为整个产学合作社区提供降低交易成本的公共品（合同模板、度量指标、交流平台）。Hoffman et al.（2025）将 UIDP 的工作归入产学联盟与联合体的基础设施层面——与价值主张、关系经理和[[Master Agreement|主协议]]并列，这类组织化资源使大学和企业之间的重复合作成为可能（pp.103–108）。
 
-> [!note] UIDP 使命的生物医学实例：医师科学家
+> [!note] UIDP 使命的生物医学实例：[[Physician-Scientist|医师科学家]]
 > Swick 和 Jones（2025, pp.176–177）将[[Physician-Scientist|医师科学家]]（Physician-Scientist）描述为 UIDP 使命在生物医学领域的具体体现：医师科学家必须同时[[Refined Mastery|精通]]医疗系统和产业两种话语体系（"speakers of both health system and industry vernacular"），成为学术、产业和其他关键伙伴之间的联络者（liaison）。这一角色直接呼应了 UIDP 降低跨部门沟通壁垒、促进产学互译的核心任务，将 UIDP 的桥梁功能从制度层面落实到了具体专业人员的日常实践中。详见 [[Physician-Scientist]]。
 
 ---
@@ -75,7 +76,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 
 ### 合同与法律工具
 
-- **Contract Accords**：针对产学协议中最有争议的合同条款提供实践指导。每个项目包含概述、学术和企业各自视角以及解决差异的策略。最初涵盖 5 个条款，现已扩展至近 20 个项目。Contract Accords 的前身是 Turbonegotiator——一种辅助合同谈判的机器学习工具，开发于 2000 年代后期，领先时代约 20 年（Boccanfuso & Hall, 2025, p.16）
+- **Contract Accords**：针对产学协议中最有争议的合同条款提供实践指导。每个项目包含概述、学术和企业各自视角以及解决差异的策略。最初涵盖 5 个条款，现已扩展至近 20 个项目。Contract Accords 的前身是 Turbonegotiator——一种辅助合同谈判的机器学习工具，开发于 2000 年代后期，领先时代约 20 年（Boccanfuso & Hall, 2025, p.16）。在 IP 领域，关键 Accord 包括：Accord 5（背景 IP）、Accord 6（前景 IP）、Accord 8（版权）和 Accord 16（软件），为产学 IP 谈判提供了大学和产业各自视角下的操作指南（Susalka & Carbone, 2025, p.285）
 - **Joint Solicitations Quick Guide 与 Comparison Tables**：聚焦政府和企业在基础性、应用启发式研究中的共同投资。UIDP 在开发[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）联合征集 MFS-SPEED（Molecular Foundations for Sustainability）中发挥了关键作用，获得 Procter & Gamble、PepsiCo、BASF、Dow 和 IBM 等会员的支持（Boccanfuso & Hall, 2025, p.18）
 
 ### 合作框架与度量
@@ -148,5 +149,6 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 - [[Ch3_Boccanfuso_Hall_2025]]
 - [[Ch4_Burrus_Patera_2025]]
 - [[Ch6_Hoffman_Radasch_Thorsell_2025]]
-- [[Hall_Boccanfuso_2025_Springer_overview]]
 - [[Ch10_Swick_Jones_2025]]
+- [[Ch15_Susalka_Carbone_2025]]
+- [[Hall_Boccanfuso_2025_Springer_overview]]

@@ -18,8 +18,8 @@ extracted_to:
   - "[[SBIR and STTR Programs]]"
   - "[[UCSD Innovation and Commercialization Office]]"
   - "[[Corporate Venture Capital]]"
-  - "[[Technology Transfer]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
+  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-29
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"

@@ -10,6 +10,9 @@ extracted_to:
   - "[[Joint Ownership of IP]]"
   - "[[Sponsored Research Agreement]]"
   - "[[MN-IP Create]]"
+  - "[[Technology Transfer]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[University Industry Demonstration Partnership]]"
 processed_date: 2026-06-03
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---

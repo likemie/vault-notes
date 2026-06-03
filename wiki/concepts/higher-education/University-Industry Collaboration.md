@@ -30,6 +30,7 @@ related_concepts:
   - "[[Executive Education]]"
   - "[[Further Education]]"
   - "[[University-Industry Co-location]]"
+  - "[[Sponsored Research Agreement]]"
   - "[[University Spin-Out]]"
   - "[[Industry Advisory Board]]"
   - "[[Professors of Practice]]"
@@ -44,6 +45,8 @@ related_concepts:
   - "[[Multi-University]]"
   - "[[Partnership Continuum]]"
   - "[[Innovation Park]]"
+  - "[[Background IP]]"
+  - "[[Freedom to Operate]]"
   - "[[Cultural Barrier]]"
   - "[[Knowledge Production]]"
 related_theories:
@@ -69,16 +72,17 @@ related_arguments:
 sources:
   - "[[Schulze-Cleven_2017_HighEduc]]"
   - "[[Ch1_Boccanfuso_Hall_2025]]"
+  - "[[Ch2_Ulrichsen_2025]]"
   - "[[Ch3_Boccanfuso_Hall_2025]]"
   - "[[Ch4_Burrus_Patera_2025]]"
+  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
   - "[[Ch7_Byrne_2025]]"
   - "[[Ch8_Gilison_Wilson_2025]]"
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
-  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
   - "[[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]"
   - "[[Ch10_Swick_Jones_2025]]"
-  - "[[Ch2_Ulrichsen_2025]]"
+  - "[[Ch15_Susalka_Carbone_2025]]"
   - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
+  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -198,7 +202,7 @@ updated: 2026-05-30
 > 关系型互动（relational）已取代交易型互动（transactional）成为主导——这反映了隐性知识在思想和[[Technology Transfer|技术转移]]中的关键作用（Schartinger et al., 2002）（Ulrichsen, 2025, p.44）。大企业也经历了从大量零散学术互动向少数战略性大学伙伴集中的转变（Ulrichsen, 2025, pp.44–45）。
 
 > [!warning]
-> 需要注意的是，产业赞助研究（sponsored research）虽然属于合同研究的一种，但几乎从不催生[[University Spin-Out|大学衍生企业]]。原因在于赞助协议中的知识产权（IP）独占安排——企业要求排他性使用权或商业化权利、限定研究范围为不足以独立成为产品的一小块拼图、并在衍生企业中保留治理权——构成了一颗"IP 毒丸"，使衍生企业无法进入更广泛的资本市场，从而削弱了研究人员的创业动力（Gilison & Wilson, 2025, pp.143-144）。详见 [[University Spin-Out]]。
+> 需要注意的是，产业赞助研究（[[Sponsored Research Agreement|sponsored research]]）虽然属于合同研究的一种，但几乎从不催生[[University Spin-Out|大学衍生企业]]。原因在于赞助协议中的知识产权（IP）独占安排——企业要求排他性使用权或商业化权利、限定研究范围为不足以独立成为产品的一小块拼图、并在衍生企业中保留治理权——构成了一颗"IP 毒丸"，使衍生企业无法进入更广泛的资本市场，从而削弱了研究人员的创业动力（Gilison & Wilson, 2025, pp.143-144）。详见 [[University Spin-Out]]。
 
 ### 关系建设路径
 
@@ -339,6 +343,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 - **治理模式差异**：美国顶尖大学多有一百年以上历史，采用教师与行政之间的"共享治理"（shared governance），作为非营利法人运作；主导企业多在近五十年内成立，以营利为目的，上市公司需对股东负责。初创企业通常由创始人和风投投资者持有（pp.8–9）
 - **[[Academic Freedom|学术自由]]与知识产权控制的张力**：大学重视学术自由（academic freedom），教职员工和学生有追求个人兴趣的自主权，大学在信息、人员和创意上"具有渗透性"（porous）；企业则限制有价值的知识产权——发明、数据、软件、出版物和媒体的流动（pp.8–9）。这一差异可归因于"提升声誉的工作相对于提升商业化的工作的相对重要性"（p.9）
 - **谈判耗时且可能无果**：每个协商事项都可能涉及大学内部多方（教师项目负责人、院系、合同与拨款部门、技术许可办公室）和企业内部多方（研究伙伴、管理层、合同部门等），导致谈判耗费大量时间。有些谈判因目标上的硬性分歧或一方无法满足另一方的预期而永远无法完成（pp.9–10）
+- **IP 利益的系统性冲突**：大学与产业在知识产权上的结构性张力源于组织使命差异。大学以知识传播和发表为核心使命，产业以市场竞争优势和股东回报为目标。这一差异在 IP 谈判中具体化为四个维度的对立：大学要求发表不可延迟而产业要求发表前审查可专利主题；大学保留 IP 所有权而产业希望获得广泛权利；大学希望协议对背景 IP（[[Background IP]], BIP）保持沉默而产业需要[[Freedom to Operate|自由实施权]]（Freedom to Operate, FTO）保证；大学期望获得研究成果的全部价值而产业期望仅为"已支付"的研究支付象征性费用（Susalka & Carbone, 2025, pp.276–277）。更深层的矛盾在于：产学合作的研究资助覆盖的是**研究成本**而非后续发明的价值，而创新不可预测，任何由此产生的发明可能具有远超研究投入的价值（pp.276–277）。此外，"搭便车"问题——产业方有时能受益于由联邦资助机构或非营利基金会支持的研究成果——需要大学谨慎处理，避免产生"公共资源被不当用于支持私人利益"的印象（p.274）
 - **大学与企业的竞争**：与内战至一战期间大学与企业的关系不同，当今领先企业也生产、传播、处理、存储和分析信息，能够提供教育课程和项目，雇用大量博士训练的研究人员。大学和企业"作为依赖声誉和信息收入的企业，已经变得更加相似"（p.10）
 - **价值观冲突的批评**：有论者批评大学为追求利润丰厚的产业关系而牺牲自身价值。Washburn（2005）在 [[University, Inc. (Washburn, 2005)|University, Inc.]] 中写道："功利主义、市场模式的大学的出现，加上要求学校推动国家和区域经济增长的响亮呼声，现在威胁要抹杀学术研究文化的独特性"（p.10）
 - **"学术纯洁性"的[[Cultural Barrier|文化障碍]]**：大学如果缺乏[[Technology Transfer|技术转移]]经验，可能对产业伙伴持怀疑态度。"学术纯洁性"（academic purity）的传统至今仍会在部分院校存留，限制了全校范围的产学协作。这种视角自然限制了支持活跃[[Innovation Park|研究园区]]所需的整体性合作（Byrne & Clements, 2025, pp.127–128）
@@ -374,13 +379,14 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 
 - [[Schulze-Cleven_2017_HighEduc]]
 - [[Ch1_Boccanfuso_Hall_2025]]
+- [[Ch2_Ulrichsen_2025]]
 - [[Ch3_Boccanfuso_Hall_2025]]
 - [[Ch4_Burrus_Patera_2025]]
+- [[Ch6_Hoffman_Radasch_Thorsell_2025]]
 - [[Ch7_Byrne_2025]]
 - [[Ch8_Gilison_Wilson_2025]]
-- [[Hall_Boccanfuso_2025_Springer_overview]]
-- [[Ch6_Hoffman_Radasch_Thorsell_2025]]
 - [[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]
 - [[Ch10_Swick_Jones_2025]]
-- [[Ch2_Ulrichsen_2025]]
+- [[Ch15_Susalka_Carbone_2025]]
 - [[Ch17_Wolf_Stevenson_Siegel_2025]]
+- [[Hall_Boccanfuso_2025_Springer_overview]]
