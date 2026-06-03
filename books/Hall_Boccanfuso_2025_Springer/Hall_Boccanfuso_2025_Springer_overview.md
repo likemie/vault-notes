@@ -13,7 +13,7 @@ extracted_to:
   - "[[Argument_Hall(Ed.)_2025_Springer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
-processed_date: 2026-05-27
+processed_date: 2026-06-03
 ---
 
 # Hall_Boccanfuso_2025_Springer_overview
@@ -34,3 +34,4 @@ processed_date: 2026-05-27
 - [[Argument_Susalka_Carbone_2025_IP_Web]]
 - [[Argument_Wolf_2025_InternationalResearchCollab]]
 - [[Argument_Bang_2025_ClinicalTrials]]
+- [[Argument_Ramming_2025_CorporateSupport]]

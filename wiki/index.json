@@ -507,16 +507,6 @@
     ]
   },
   {
-    "title": "STEM Education",
-    "type": "concept",
-    "path": "wiki/concepts/education/STEM Education.md",
-    "aliases": [
-      "STEM",
-      "STEM教育",
-      "科学、技术、工程和数学教育"
-    ]
-  },
-  {
     "title": "Absorptive Capacity",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
@@ -1189,6 +1179,17 @@
       "产学学术参与",
       "academic engagement with industry",
       "学术参与"
+    ]
+  },
+  {
+    "title": "Academic Engagement Team",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Academic Engagement Team.md",
+    "aliases": [
+      "学术参与团队",
+      "AET",
+      "产学合作团队",
+      "corporate AET"
     ]
   },
   {
@@ -1955,6 +1956,18 @@
     ]
   },
   {
+    "title": "Research Translation",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Research Translation.md",
+    "aliases": [
+      "研究转化",
+      "研究转化漏斗",
+      "research translation funnel",
+      "innovation funnel",
+      "技术转化"
+    ]
+  },
+  {
     "title": "Return on Investment",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Return on Investment.md",
@@ -2276,15 +2289,6 @@
       "巴斯德象限",
       "use-inspired research",
       "Pasteur象限"
-    ]
-  },
-  {
-    "title": "Hidden Champions",
-    "type": "concept",
-    "path": "wiki/concepts/industrial-innovation/Hidden Champions.md",
-    "aliases": [
-      "隐形冠军",
-      "隐形冠军企业"
     ]
   },
   {
@@ -4884,15 +4888,6 @@
       "零和博弈式竞争",
       "mutually exclusive competition",
       "排他性竞争"
-    ]
-  },
-  {
-    "title": "Society 5.0",
-    "type": "concept",
-    "path": "wiki/concepts/technology-innovation/Society 5.0.md",
-    "aliases": [
-      "社会5.0",
-      "超级智能社会"
     ]
   },
   {
@@ -9253,6 +9248,16 @@
     ]
   },
   {
+    "title": "Universal Parallel Computing Research Centers",
+    "type": "fact",
+    "path": "wiki/facts/us/Universal Parallel Computing Research Centers.md",
+    "aliases": [
+      "通用并行计算研究中心",
+      "UPCRC",
+      "Intel Microsoft UPCRC"
+    ]
+  },
+  {
     "title": "University City Science Center",
     "type": "fact",
     "path": "wiki/facts/us/University City Science Center.md",
@@ -9470,6 +9475,11 @@
     "title": "Argument_Narayan_Spohrer_2025_Metrics",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Narayan_Spohrer_2025_Metrics.md"
+  },
+  {
+    "title": "Argument_Ramming_2025_CorporateSupport",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md"
   },
   {
     "title": "Argument_Susalka_Carbone_2025_IP_Web",

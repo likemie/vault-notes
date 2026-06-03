@@ -19,6 +19,7 @@ related_concepts:
   - "[[Placemaking]]"
   - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"
+  - "[[Research Translation]]"
   - "[[Clinical Trial]]"
   - "[[University-Industry Co-location]]"
   - "[[Further Education]]"
@@ -150,7 +151,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ---
 
-5. **第二个信条：产业研发的私人投资**。大学可以产出基础研究，但把基础研究转化为产品、服务和市场价值，需要企业的参与。没有企业的研发投资，创新就停留在论文里。
+5. **第二个信条：产业研发的私人投资**。大学可以产出基础研究，但把基础[[Research Translation|研究转化]]为产品、服务和市场价值，需要企业的参与。没有企业的研发投资，创新就停留在论文里。
 
 ---
 

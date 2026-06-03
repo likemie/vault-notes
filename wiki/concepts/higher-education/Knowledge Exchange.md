@@ -18,6 +18,7 @@ related_concepts:
   - "[[Executive Education]]"
   - "[[Further Education]]"
   - "[[Innovation Park]]"
+  - "[[Research Translation]]"
   - "[[Professors of Practice]]"
 related_theories: []
 related_methods: []
@@ -78,7 +79,7 @@ updated: 2026-05-27
 - 创建专门的知识交流支持单位和项目
 - 扩展以挑战为导向或用户为中心的研究中心和研究所
 - 发展大学[[Innovation Park|科技园区]]以促进产业集聚
-- 引入内部转化基金以支持研究转化
+- 引入内部转化基金以支持[[Research Translation|研究转化]]
 - 优化和简化知识交流的行政流程
 - 提供培训——包括[[Professors of Practice|实践教授]]（Professors of Practice）、导师和驻校专家——以提升学术人员与外部伙伴有效合作的能力
 

@@ -15,11 +15,11 @@ extracted_to:
   - "[[Website Content Analysis]]"
   - "[[Triple Helix]]"
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[Academic Engagement]]"
   - "[[Partnership Continuum]]"
   - "[[University-Industry Collaboration]]"
   - "[[Industry Affiliate Program]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Academic Engagement]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

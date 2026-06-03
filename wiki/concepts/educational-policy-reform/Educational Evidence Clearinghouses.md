@@ -18,6 +18,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
+  - "[[Research Translation]]"
   - "[[School Leadership]]"
   - "[[Statistical Significance]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -102,7 +103,7 @@ updated: '2026-05-24'
 ## 核心要素
 
 > [!abstract] 核心机制
-> 清算中心把教育研究转化为实践可读的项目判断，通常经过五个环节：设定证据标准、搜寻项目研究、评价单项研究质量、综合项目效果、发布面向非方法专家的评级（Wadhwa et al., 2024, p.4）。
+> 清算中心把教育[[Research Translation|研究转化]]为实践可读的项目判断，通常经过五个环节：设定证据标准、搜寻项目研究、评价单项研究质量、综合项目效果、发布面向非方法专家的评级（Wadhwa et al., 2024, p.4）。
 
 ### 证据标准制定
 

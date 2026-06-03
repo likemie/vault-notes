@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Foreground IP]]"
+  - "[[Research Translation]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -34,7 +35,7 @@ updated: 2026-05-28
 > [!info]
 > 产品专项研究（Product-Specific Research）是产学联合体中与[[Precompetitive Research|前竞争研究]]互补的第二层研究轨道。它由单个产业成员在联合体协议之外独立出资赞助，建立在所有成员都有权使用的前竞争知识之上，但涉及赞助企业自己的专有信息（如产品规格、生产工艺、客户数据）。其核心制度特征是：[[Foreground IP|前景知识产权]]（Foreground Intellectual Property, FIP）归赞助企业所有，不与其他成员共享（Hoffman et al., 2025, pp.114–115）。
 
-产品专项研究构成了联合体的"技术转化工具"——成员从前竞争知识池中选择对自己最有价值的部分，注入自己的专有信息，开发出具有市场竞争力的产品或工艺。没有产品专项研究，联合体产出的前竞争知识对单个成员的业务价值仍然停留在"可用但不独特"的水平。有了产品专项研究，成员可以在共享基础上建立差异化优势（pp.115, 117–118）。
+产品专项研究构成了联合体的"[[Research Translation|技术转化]]工具"——成员从前竞争知识池中选择对自己最有价值的部分，注入自己的专有信息，开发出具有市场竞争力的产品或工艺。没有产品专项研究，联合体产出的前竞争知识对单个成员的业务价值仍然停留在"可用但不独特"的水平。有了产品专项研究，成员可以在共享基础上建立差异化优势（pp.115, 117–118）。
 
 ---
 

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Concierge Service]]"
   - "[[Clinical Trial]]"
+  - "[[Academic Engagement Team]]"
   - "[[Technology Transfer]]"
   - "[[Executive Education]]"
   - "[[Innovation Park]]"
@@ -39,8 +40,9 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
 sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
   - "[[Ch3_Boccanfuso_Hall_2025]]"
+  - "[[Ch12_Ramming_2025]]"
+  - "[[Zheng_2023_ShanghaiSanlian]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -151,6 +153,12 @@ updated: 2026-05-27
 
 这一区分对大学如何组织产学合作有直接影响：因为学术参与天然是分散的、个人化的，大学很难像管理专利许可那样通过一个中心办公室来"管理"所有学术参与活动。正如 Boccanfuso 和 Hall（2025, pp.60–63）对 65 所美国研究型大学的实证分析所示，即便大学设立了"全面模式"的中心产学参与办公室，该办公室在大多数活动领域也只能充当"导航者"（navigator）或"[[Concierge Service|礼宾]]"（concierge），而非"直接负责者"（responsible）——真正有权签订合同和谈判条款的是分散在各处的专业单位（赞助项目办公室、技术许可办公室、[[Clinical Trial|临床试验]]办公室等）。
 
+### 企业侧的组织对应：学术参与团队
+
+学术参与在企业侧的组织对应物是[[Academic Engagement Team|学术参与团队]]（Academic Engagement Team, AET）——企业内部以预算责任负责领导和管理大学合作的组织单位。Ramming（2025, pp.217–218）区分了实践者（拥有预算和项目执行责任的 AET 成员）与利益相关者（合作的受益方，如业务部门负责人和技术领袖）：AET 作为组织叠加层嵌入公司现有结构，实践者必须同时理解大学和公司两套运作逻辑，才能在矩阵式、高度分权的环境中有效推动合作（Ramming, 2025, pp.222–223）。
+
+AET 的资助结构（中央化运营预算、企业基金会、业务部门分布式预算、按职能分配、按技术领域分配）决定了产学合作在企业内部关注什么、忽略什么——这一企业侧的组织视角补充了 Perkmann 等人对大学侧学术参与低组织嵌入性的分析（Ramming, 2025, pp.228–229）。
+
 ### 组织特征
 
 学术参与在组织层面具有三个特征（Perkmann et al., 2013, pp.423–424；Boccanfuso & Hall, 2025, pp.53–54, 60–63）：
@@ -173,5 +181,6 @@ updated: 2026-05-27
 
 ## 来源
 
-- [[Zheng_2023_ShanghaiSanlian]]
 - [[Ch3_Boccanfuso_Hall_2025]]
+- [[Ch12_Ramming_2025]]
+- [[Zheng_2023_ShanghaiSanlian]]

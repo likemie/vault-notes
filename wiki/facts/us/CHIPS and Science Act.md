@@ -30,6 +30,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Ch7_Byrne_2025]]"
+  - "[[Ch12_Ramming_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-28
@@ -75,6 +76,12 @@ updated: 2026-05-28
 
 联邦资金的增长也意味着[[Innovation Park|研究园区]]和[[Innovation Hub|创新中心]]需要更主动地熟悉和追踪州级与联邦层面的持续性及专项资助机会，而非等待资金公告发布后才开始组织联盟（p.134）。
 
+## 影响
+
+> [!success]
+> 法案推动了国家半导体技术中心（National Semiconductor Technology Center, NSTC）的建立，该中心作为公私合作伙伴关系（PPP）运作，旨在重振美国半导体产业的研究、开发和人才培养。对半导体和计算行业的[[University-Industry Collaboration|产学合作]]实践者而言，NSTC 代表了一个重新审视大学合作战略的"强制函数"——类似于此前 SRC（Semiconductor Research Corporation）所扮演的角色，但规模和政府参与程度更大（Ramming, 2025, pp.235–236）。
+
 ## 来源
 
 - [[Ch7_Byrne_2025]]
+- [[Ch12_Ramming_2025]]

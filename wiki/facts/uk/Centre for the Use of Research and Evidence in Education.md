@@ -17,6 +17,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Research Translation]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -67,7 +68,7 @@ updated: 2026-05-23
 
 > [!tip]
 > - [[Evidence-Informed Practice]] — CUREE 支持教师和政策制定者把研究作为决策资源。
-> - [[Knowledge Mobilisation]] — CUREE 的核心功能是把研究转化为可理解、可使用的材料。
+> - [[Knowledge Mobilisation]] — CUREE 的核心功能是把[[Research Translation|研究转化]]为可理解、可使用的材料。
 
 ## 来源
 

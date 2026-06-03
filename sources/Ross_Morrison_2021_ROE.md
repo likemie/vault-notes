@@ -3,7 +3,6 @@ citation: "Ross, S. M., & Morrison, J. R. (2021). Achieving better educational p
 extracted_to:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Absorptive Capacity]]"
-  - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Implementation Fidelity]]"
@@ -19,6 +18,7 @@ extracted_to:
   - "[[Formative Program Evaluation]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Evidence-Based Education]]"
+  - "[[Educational Evidence Clearinghouses]]"
 processed_date: 2026-05-23
 ---
 

@@ -3,25 +3,25 @@ citation: "Pellegrini, M., & Vivanet, G. (2021). Evidence-based policies in educ
 extracted_to:
   - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Class Size]]"
-  - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Reusability Paradox]]"
   - "[[Technology Infusion]]"
   - "[[Danish Clearinghouse for Educational Research]]"
-  - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[EU Key Competences for Lifelong Learning]]"
   - "[[French Class Size Reduction]]"
   - "[[Campbell Collaboration]]"
   - "[[Azione LIM]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Swedish Institute for Educational Research]]"
-  - "[[Centre for the Use of Research and Evidence in Education]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[EPPI-Centre]]"
   - "[[Evidence-Based Teachers Network]]"
   - "[[Institute for Effective Education]]"
   - "[[Evidence-Based Education]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[Centre for the Use of Research and Evidence in Education]]"
 processed_date: 2026-05-23
 ---
 
