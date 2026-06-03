@@ -1,4 +1,6 @@
----
+import re
+
+content = """---
 title: "Argument_Cheng_2026_KeJiChuangXin"
 authors:
   - "程楠"
@@ -399,3 +401,9 @@ updated: 2026-06-03
 ## 来源
 
 - [[Cheng_2026_KeJiChuangXin]]
+"""
+
+with open('wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md', 'w') as f:
+    f.write(content)
+
+print("Done")
