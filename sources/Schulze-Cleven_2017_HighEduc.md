@@ -3,7 +3,6 @@ citation: "Schulze-Cleven, T., Reitz, T., Maesse, J., & Angermuller, J. (2017). 
 extracted_to:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
   - "[[Academic Oligarchy]]"
-  - "[[Entrepreneurial University]]"
   - "[[Field Images]]"
   - "[[Global Universities Rankings]]"
   - "[[Non-monetary Competition]]"
@@ -28,8 +27,9 @@ extracted_to:
   - "[[Matthew Effect in Academia]]"
   - "[[Financialization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Bayh-Dole Act of 1980]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Entrepreneurial University]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-06-01
 ---
 

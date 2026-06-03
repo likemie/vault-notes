@@ -3,9 +3,7 @@ citation: "Gilison, S., & Wilson, A. (2025). University-Based Startups and Entre
 extracted_to:
   - "[[Academic Freedom]]"
   - "[[Entrepreneur in Residence]]"
-  - "[[Entrepreneurial University]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Membership-based Research Consortium]]"
   - "[[Non-dilutive Funding]]"
   - "[[Proof of Concept Programs]]"
   - "[[Technology Readiness Level]]"
@@ -18,9 +16,11 @@ extracted_to:
   - "[[SBIR and STTR Programs]]"
   - "[[UCSD Innovation and Commercialization Office]]"
   - "[[Corporate Venture Capital]]"
-  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
-  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
+  - "[[Entrepreneurial University]]"
+  - "[[Membership-based Research Consortium]]"
+  - "[[Technology Transfer]]"
 processed_date: 2026-05-29
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

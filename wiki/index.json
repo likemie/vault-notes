@@ -2030,10 +2030,19 @@
       "技术转让",
       "大学技术转移",
       "university technology transfer",
-      "tech transfer",
+      "tech transfer"
+    ]
+  },
+  {
+    "title": "Technology Transfer Office",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Technology Transfer Office.md",
+    "aliases": [
       "TTO",
+      "技术转移办公室",
       "Technology Transfer Office",
-      "技术转移办公室"
+      "university technology transfer office",
+      "tech transfer office"
     ]
   },
   {

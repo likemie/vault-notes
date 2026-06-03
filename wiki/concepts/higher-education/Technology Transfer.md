@@ -6,10 +6,7 @@ aliases:
   - "大学技术转移"
   - "university technology transfer"
   - "tech transfer"
-  - "TTO"
-  - "Technology Transfer Office"
-  - "技术转移办公室"
-summary: "大学研究成果通过知识产权许可、初创企业或企业合作转化为商业应用的过程，以 Bayh-Dole Act 为核心法律框架，涉及技术转移办公室、产学协议谈判、IP 合同机制和商业化路径选择等制度安排"
+summary: "大学研究成果通过知识产权许可、初创企业或企业合作转化为商业应用的过程，以 Bayh-Dole Act 为核心法律框架，涉及 IP 合同机制、权利转让谱系和商业化路径选择等制度安排"
 type: concept
 tags:
   - "theme/technology-transfer"
@@ -25,10 +22,7 @@ related_concepts:
   - "[[Freedom to Operate]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Joint Ownership of IP]]"
-  - "[[Boundary Spanner]]"
   - "[[University Spin-Out]]"
-  - "[[Gatekeepers]]"
-  - "[[Membership-based Research Consortium]]"
   - "[[Performance Indicators]]"
 related_theories:
   - "[[Triple Helix]]"
@@ -63,8 +57,7 @@ updated: 2026-06-03
 > [!info]
 > 技术转移（Technology Transfer）指将大学研究产生的知识产权（Intellectual Property, IP）——包括发明、软件、数据和其他创造性成果——转化为商业应用的过程。技术转移是[[University-Industry Collaboration|产学合作]]的核心维度之一：它既可以是产学合作的起点（发明已经构思完成，寻找商业化伙伴），也可以是产学合作的产出（产业赞助研究产生了新的知识产权）（p.14）。
 
-> [!note]
-> 在产学合作的日常实践中，技术转移涉及大学内部多个职能部门的协作。合同与拨款办公室（Contracts and Grants Office）与企业协商赞助研究所产生的 IP 权利；技术转移办公室（Technology Transfer Office, TTO）协商 IP 许可的具体条款。两者通常隶属于大学的科研副校长（Vice President of Research），有时合并到企业参与办公室（Office of Corporate Engagement）（p.14）。
+技术转移的日常操作涉及大学内部多个职能部门。合同与拨款办公室协商赞助研究所产生的 IP 权利；技术转移办公室（Technology Transfer Office, TTO）协商 IP 许可的具体条款。两者通常隶属于大学的科研副校长（Vice President of Research），有时合并到企业参与办公室（p.14）。详见 [[Technology Transfer Office]]。
 
 ---
 
@@ -157,14 +150,14 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 标准[[Sponsored Research Agreement|赞助研究协议]]（Sponsored Research Agreement, SRA）是大多数[[University-Industry Collaboration|产学合作]]的位置。产业方自动获得 FIP 的 NERF 内部使用许可（可制造和使用但不可销售），以及 6 个月的选择期来协商含版税的商业许可。如果企业未行使选择权，大学可自由将 FIP 许可给其他方。详见 [[Sponsored Research Agreement]]。
 
 > [!warning] USPTO 费用差异
-> 一项常被忽视的技术细节：美国大多数大学有资格向美国专利商标局（United States Patent and Trademark Office, USPTO）支付"小实体"折扣费用，而大多数产业方属于"大实体"。向大实体授予任何专利权会使大学失去折扣资格。因此大学通常要求产业方**主动选择**才能获得 NERF 许可——若企业不选择则无许可被授予，大学可将同一 FIP 独家许可给其他公司（p.282）。
+> 一项常被忽视的技术细节：美国大多数大学有资格向美国专利商标局（United States Patent and Trademark Office, USPTO）支付"小实体"折扣费用，而大多数产业方属于"大实体"。向大实体授予任何专利权会使大学失去折扣资格。因此大学通常要求产业方主动选择才能获得 NERF 许可。若企业不选择则无许可被授予，大学可将同一 FIP 独家许可给其他公司（p.282）。
 
 ### 定价模式
 
 > [!example]
-> 产业方对许可定价不确定性的核心担忧是"大学会不会在技术价值明朗后索取天价许可费"。为回应这一问题，一些大学发展出菜单式预先定价方案。明尼苏达大学的 [[MN-IP Create]] 项目是典型范例，提供三种 FIP 权利选项：预付费排他许可（$15,000 或协议价值的 10% + $2000 万以上销售的 1% 版税）、标准 NERF 加选择权（$0 预付）、以及商业 NERF 加选择权（$10,000 或协议价值的 10%）（p.283）。详见 [[MN-IP Create]]。
+> 产业方对许可定价不确定性的核心担忧是"大学会不会在技术价值明朗后索取天价许可费"。为回应这一问题，一些大学发展出菜单式预先定价方案。明尼苏达大学的 [[MN-IP Create]] 项目是典型范例，提供三种 FIP 权利选项：预付费排他许可（$15,000 或协议价值的 10%，年销售额超 $2000 万时支付 1% 版税）、标准 NERF 加选择权（$0 预付）、以及商业 NERF 加选择权（$10,000 或协议价值的 10%）（p.283）。详见 [[MN-IP Create]]。
 
-部分协议还包含"意外收获条款"（bonanza clause）：当许可产品销售额达到特定门槛时企业支付额外费用，保护大学不会在事前"贱卖"未知价值的创新（pp.282–283）。
+部分协议还包含"意外收获条款"（bonanza clause）：当许可产品销售额达到特定门槛时企业支付额外费用，保护大学不会在事前低估未知价值的创新（pp.282–283）。
 
 ### 发表延迟机制
 
@@ -175,7 +168,7 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 2. 提交发表前将稿件提供给企业方审查，最好提前 30 天
 3. 企业有 30 天时间识别保密信息和可专利发明
 4. 如发现可专利主题，大学同意尽合理努力提交专利申请
-5. 但大学**无义务**为配合专利申请而修订或延迟发表
+5. 但大学无义务为配合专利申请而修订或延迟发表
 
 这一机制在保障学术发表自由的同时为企业提供了有限的窗口来保护可专利发明。研究生和博士后尤其不应因产学合作而被限制其及时发表论文的能力（p.285）。
 
@@ -183,31 +176,6 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 
 > [!warning]
 > 在美国专利法下，一项共同所有专利的每个共同所有人拥有实质上等同于商业 NERF 许可的权利：可以独立制造、使用、销售和进口，无需其他共同所有人的同意，也无需分享收益。因此，产学协议必须明确覆盖大学在共同所有 IP 中的权利。如果协议未覆盖，大学可能发现产业方利用共同所有人地位自由商业化合作成果而无需支付任何费用（p.283）。详见 [[Joint Ownership of IP]]。
-
----
-
-## 制度结构：TTO 的角色
-
-> [!info]
-> Debackere 和 Veugelers（2005）指出，技术转移办公室可以充当分散的研究团队与产业伙伴之间的"信息科学链接"（information science links），兼具[[Boundary Spanner|中介者]]（intermediary）和聚焦许可的交易专家（transaction specialist）双重角色（Boccanfuso & Hall, 2025, p.54）。
-
-### TTO 在衍生企业创建中的角色
-
-> [!abstract]
-> 在[[University Spin-Out|大学衍生企业]]的创建过程中，TTO 承担着关键的[[Gatekeepers|守门人]]和赋能者双重职能（Gilison & Wilson, 2025, pp.144-145, 147）。
-
-**IP 尽职调查与质量信号**。TTO 对衍生企业的知识产权进行尽职调查，评估其可专利性和商业化前景。大学愿意为专利申请和法律保护投入真金白银，这一行为本身就构成了对外部投资者的质量信号。它表明 IP 经过了内部审核，大学对技术的商业化前景有足够的信心才会承担专利费用（pp.144-145）。
-
-**商业化路径判断**。TTO 帮助教授评估技术适合走创业路线还是许可路线。部分大学在 TTO 内部设立了专门的新创企业支持团队。如 UCLA 技术开发组（Technology Development Group）内的 New Ventures Group，其职责不是传统的专利许可谈判，而是帮助教授评估商业化路径、撰写商业计划书、对接早期投资者（p.147）。
-
-**许可条款设计**。TTO 协商的许可条款——是独占还是非独占、是否保留大学和发明人的某些权利、是否对衍生企业的运营范围施加限制——直接决定了衍生企业后续能否灵活运营和吸引外部投资。在[[Membership-based Research Consortium|会员制研究联盟]]模式中，TTO 设计的"优先许可权而非独占权"条款是绕过 IP 毒丸问题的关键制度安排（pp.143-144, 150-151）。
-
-### TTO 与 PI 的内部沟通
-
-> [!warning]
-> [[University-Industry Collaboration|产学合作]]的 IP 条款通常由 TTO、赞助项目办公室（Sponsored Programs Office, SPO）或法务办公室（Office of General Counsel, OGC）谈判，而首席研究员（Principal Investigator, PI）的参与往往局限于工作范围和预算的制定。当 PI 最终看到一份已签署的协议时，可能对其中 [[Foreground IP|FIP]] 和 [[Background IP|BIP]] 的范围与披露程序、产业方的发表审查权、以及 IP 条款对其未来创业活动的潜在制约一无所知（Susalka & Carbone, 2025, pp.284–285）。
-
-这一信息断裂带来了系统性的实施风险。研究人员至少需要了解：协议中 FIP 和 BIP 的界定、产业方对发表的审查权范围和期限、产业方获得了哪些许可权利、以及协议条款如何可能制约其所在实验室的 IP。对创业型 PI 而言，产学合作的 IP 条款可能无意中束缚其实验室的既有技术，从而复杂化任何与该技术相关的未来创业活动（p.285）。
 
 ---
 
@@ -223,7 +191,7 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 - **结构性矛盾**：大多数初创企业会失败；成熟企业可能不愿承担早期技术的风险；初创企业可能产生无法解决的利益冲突（如教师在学生论文涉及的技术上持有公司股份）。此外，根据[[Sponsored Research Agreement|赞助研究协议]]，大学可能已有义务给予现有企业知识产权的优先权（p.14）
 
 > [!example]
-> 一位工程学教授在 [[National Science Foundation|NSF]] 资助下开发了一种新型传感器技术。按照 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]，该技术归大学所有。此时教授面临选择——是自己创立一家初创公司来商业化这项技术（可以获得股权，但需要找风投、组建团队、离开学术轨道），还是将技术许可给一家成熟的传感器制造商（可以更快进入市场，但教授的角色可能只是顾问，获得的是许可收入分成而非股权）。大学的技术转移办公室需要在这两条路径之间做出判断，而这种判断往往涉及对技术成熟度、市场前景、教授意愿和现有赞助协议的复杂权衡。
+> 一位工程学教授在 [[National Science Foundation|NSF]] 资助下开发了一种新型传感器技术。按照 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]，该技术归大学所有。教授面临选择：自己创立一家初创公司来商业化这项技术（可以获得股权，但需要找风投、组建团队、离开学术轨道），还是将技术许可给一家成熟的传感器制造商（可以更快进入市场，但教授的角色可能只是顾问，获得的是许可收入分成而非股权）。技术转移办公室需要在这两条路径之间做出判断，这种判断涉及对技术成熟度、市场前景、教授意愿和现有赞助协议的复杂权衡。
 
 ### 赞助研究中的知识产权约束
 

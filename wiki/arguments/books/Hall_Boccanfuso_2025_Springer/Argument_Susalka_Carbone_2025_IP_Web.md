@@ -22,6 +22,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[MN-IP Create]]"
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
 sources:
@@ -63,7 +64,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 研究方法
 
 > [!info]
-> 实践指南类章节，基于作者在美国[[Technology Transfer|大学技术转移]]机构的一线实务经验。Susalka 担任 AUTM（Association of University Technology Managers，全球 3000+ 会员的技术转移协会）首席执行官，Carbone 担任加州理工学院（Caltech）技术转移与企业合作办公室的专利与许可主任。论据来源包括：[[University Industry Demonstration Partnership|UIDP]]（[[University Industry Demonstration Partnership]]）合同共识文件系列（Contract Accords 5, 6, 8, 16）、AUTM 2023 年许可活动调查数据、明尼苏达大学 MN-IP Create 项目实例。非实证研究，无系统数据收集。
+> 实践指南类章节，基于作者在美国[[Technology Transfer|大学技术转移]]机构的一线实务经验。Susalka 担任 AUTM（Association of University Technology Managers，全球 3000+ 会员的技术转移协会）首席执行官，Carbone 担任加州理工学院（Caltech）技术转移与企业合作办公室的专利与许可主任。论据来源包括：[[University Industry Demonstration Partnership|UIDP]]（[[University Industry Demonstration Partnership]]）合同共识文件系列（Contract Accords 5, 6, 8, 16）、AUTM 2023 年许可活动调查数据、明尼苏达大学 [[MN-IP Create]] 项目实例。非实证研究，无系统数据收集。
 
 ---
 
@@ -261,7 +262,7 @@ IP 权利的转让条款取决于合作类型。不同类型的产学安排构�
 
 ### 第八步：MN-IP Create 案例
 
-> [!example] 明尼苏达大学的 MN-IP Create 项目
+> [!example] 明尼苏达大学的 [[MN-IP Create]] 项目
 > 产业方对许可定价不确定性的核心担忧是："我们付钱做了研究，大学会不会在技术价值明朗后向我们索取天价许可费？"明尼苏达大学发展出了一种创新的菜单式预先定价方案来回应这一担忧（University of Minnesota, n.d., cited at p.283）。
 >
 > 该项目将 FIP 定义为"研究项目中产生的所有发明"，并提供三种选项：
@@ -334,7 +335,7 @@ IP 条款还需规范三个重要的操作层面（pp.283–284）。
 >
 > - **[[Foreground IP|FIP]] 的定义通常争议较小、"所有权跟随发明人"是美国主流原则**；[[Background IP|BIP]] 条款才是谈判的焦点战场。BIP 通过时间限制、空间限制（合作 PI 实验室）、必要性限制和排除已被束缚 IP 的组合策略，可以在大学和产业的矛盾利益之间找到可操作的中间地带（pp.279–281）。
 >
-> - **IP 权利转让构成一个从赠款到技术服务的连续谱**。大多数产学合作位于中段：产业方获得 NERF 内部使用许可加有时间限制的商业许可选择权。替代定价方案（如明尼苏达大学 MN-IP Create 的菜单式选项和"意外收获条款"）有效缓解了企业对许可定价不确定性的核心担忧，同时保护了大学不因特别有价值的 IP 而损失合理回报（pp.281–283）。
+> - **IP 权利转让构成一个从赠款到技术服务的连续谱**。大多数产学合作位于中段：产业方获得 NERF 内部使用许可加有时间限制的商业许可选择权。替代定价方案（如明尼苏达大学 [[MN-IP Create]] 的菜单式选项和"意外收获条款"）有效缓解了企业对许可定价不确定性的核心担忧，同时保护了大学不因特别有价值的 IP 而损失合理回报（pp.281–283）。
 >
 > - **内部沟通是 IP 条款成功落地的关键环节**。PI 及其研究团队必须了解协议中的 IP 义务范围、产业方的发表审查权和权利主张范围，以及对未来创业活动的潜在制约。谈判者（[[Technology Transfer|TTO]]/SPO/OGC）与执行者（PI 和实验室成员）之间的信息断裂是协议实施中最常见也最可避免的风险（pp.284–285）。
 

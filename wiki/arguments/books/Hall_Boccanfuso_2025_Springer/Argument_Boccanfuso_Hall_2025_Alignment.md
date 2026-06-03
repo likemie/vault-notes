@@ -17,6 +17,7 @@ related_concepts:
   - "[[Multi-University]]"
   - "[[Analytic Framework]]"
   - "[[Academic Freedom]]"
+  - "[[Sponsored Research Agreement]]"
   - "[[Further Education]]"
   - "[[Executive Education]]"
   - "[[Technology Transfer]]"
@@ -97,7 +98,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 仅仅存在产学关系（relationships）并不足够；真正产生影响力的是"参与"（engagement）——一种有目的的、对齐的、通常通过正式协议确立的合作。这种参与覆盖三大领域：研究与学术、教育与学习、公共效益（p.4）。
 
 > [!example]
-> 可以这样理解"关系"与"参与"的区别：一所大学和一家企业签署了合作备忘录，每年开一次联谊会，这叫"关系"。但如果双方签订了一份赞助研究协议，约定了知识产权归属、发表审查时间表、学生参与方式和交付物要求，并且共同产出可商业化的技术或可发表的研究——这才叫"参与"。
+> 可以这样理解"关系"与"参与"的区别：一所大学和一家企业签署了合作备忘录，每年开一次联谊会，这叫"关系"。但如果双方签订了一份[[Sponsored Research Agreement|赞助研究协议]]，约定了知识产权归属、发表审查时间表、学生参与方式和交付物要求，并且共同产出可商业化的技术或可发表的研究——这才叫"参与"。
 
 ---
 

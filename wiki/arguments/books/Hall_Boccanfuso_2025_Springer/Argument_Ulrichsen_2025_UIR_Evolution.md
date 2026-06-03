@@ -15,10 +15,8 @@ tags:
   - "level/higher-education"
   - "source/book-chapter"
 related_concepts:
-  - "[[Probes]]"
   - "[[Analytic Framework]]"
   - "[[Innovation Models Evolution]]"
-  - "[[Integration in Mixed Methods]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Transformative Change]]"
   - "[[University-Industry Collaboration]]"
@@ -59,7 +57,7 @@ updated: 2026-05-27
 > [!question]
 > 过去五十年间，大学与企业之间的创新驱动关系（University-Industry Relationships, UIRs）如何演变？哪些因素塑造了这些关系的规模、性质和重要性？理解这一演变对大学、企业和政府意味着什么？
 
-这个问题之所以值得系统[[Probes|追问]]，是因为今天各国政府几乎不约而同地将大学-企业合作定位为驱动创新和经济增长、应对气候变化等重大挑战的核心引擎（p.25）。但这一格局并非凭空出现，它在过去五十年间经历了深刻的结构性变化。只有理解这段历史，才能分辨当下哪些趋势是结构性的、哪些障碍是暂时性的。
+这个问题之所以值得系统追问，是因为今天各国政府几乎不约而同地将大学-企业合作定位为驱动创新和经济增长、应对气候变化等重大挑战的核心引擎（p.25）。但这一格局并非凭空出现，它在过去五十年间经历了深刻的结构性变化。只有理解这段历史，才能分辨当下哪些趋势是结构性的、哪些障碍是暂时性的。
 
 ---
 
@@ -69,7 +67,7 @@ updated: 2026-05-27
 > 本章属于历史综述（historical review），不以单一理论为[[Analytic Framework|分析框架]]，而是整合多条理论线索来组织对 UIR 演变的追溯：
 
 - **[[Systems of Innovation|创新系统理论]]**（Lundvall et al., 2002）——将创新理解为多行动者在制度环境下的集体学习活动，是本章组织材料的核心视角。它帮助读者理解：UIR 不是孤立的人际互动，而是嵌套在法律框架、金融系统、文化规范等多层制度之中的系统行为
-- **[[Innovation Models Evolution|创新模型演变]]**（linear → coupling → systems [[Integration in Mixed Methods|integration]] → networked → systems of innovation）——五代创新模型为理解产学互动方式的历史变迁提供了坐标（Tidd, 2006; Caraça et al., 2009）
+- **[[Innovation Models Evolution|创新模型演变]]**（linear → coupling → systems integration → networked → systems of innovation）——五代创新模型为理解产学互动方式的历史变迁提供了坐标（Tidd, 2006; Caraça et al., 2009）
 - **[[Innovation Policy Paradigms|创新政策范式]]**（Schot & Steinmueller, 2018）——"科学促增长 → 创新系统升级 → [[Transformative Change|变革转型]]"三阶段框架，解释了国家政策如何塑造[[University-Industry Collaboration|产学合作]]的激励和条件
 - **[[Triple Helix]]** ——全书共享理论，本章为其提供五十年历史演化的经验证据；**[[Innovation Ecosystem|创新生态系统]]**同理，本章展示生态系统如何从概念走向制度化
 
@@ -135,7 +133,7 @@ Schot 和 Steinmueller（2018）与 Lindner 等人（2024）识别出三个政�
 
 **范式三：[[Transformative Change|变革转型]]（2010s 至今）。** 系统范式擅长诊断各种失灵，但批评者（Schot & Steinmueller, 2018; Mazzucato, 2018）指出其根本局限：它能识别系统在哪里卡住了，但不能指明系统应该往哪个方向走。面对气候变化、生物多样性丧失、人口老龄化等棘手问题，政策需要从"修复系统"升级为"主动导向"，不仅问"系统运转得顺不顺"，还要问"系统在解决对的问题吗"（pp.32–34）。
 
-> 系统范式与[[Transformative Change|变革转型范式]]的区别在于问题意识的层次：前者关注"如何优化现有系统"（系统优化思维），后者[[Probes|追问]]"现有系统本身是否指向正确的目标"（方向选择思维）。
+> 系统范式与[[Transformative Change|变革转型范式]]的区别在于问题意识的层次：前者关注"如何优化现有系统"（系统优化思维），后者追问"现有系统本身是否指向正确的目标"（方向选择思维）。
 
 变革转型引入了新的诊断范畴：方向性失败（社会尚未就转型方向达成共识）、政策协调失败（科技部、环保部、财政部各自为政）、需求表达失败（无法准确预判未来的知识用户需求）、[[Reflexivity|反思性]]失败（长期变革充满不确定性，但现行制度不鼓励对基本假设的持续检讨）（pp.32–34）。
 

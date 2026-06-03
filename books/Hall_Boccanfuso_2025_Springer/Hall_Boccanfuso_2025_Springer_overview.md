@@ -8,10 +8,10 @@ extracted_to:
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[Triple Helix]]"
-  - "[[Bayh-Dole Act of 1980]]"
-  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Technology Transfer]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-05-27
 ---
 

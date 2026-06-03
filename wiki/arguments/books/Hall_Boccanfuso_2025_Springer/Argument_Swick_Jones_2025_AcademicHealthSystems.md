@@ -84,7 +84,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ### 第一步：AMI 以三个相互关联的要素为驱动力：医学翻译循环、团队科学和创新文化
 
-> [!note]- 医学翻译循环：AMI 的闭环运转机制
+> [!note]- 医学翻译循环：[[Applied Medical Innovation|AMI]] 的闭环运转机制
 > [[Applied Medical Innovation|AMI]] 的核心是一个闭环反馈回路：[[Physician-Scientist|医师科学家]]在临床前线识别未满足的医疗需求，与跨学科团队合作开展发现研究，产出可开发的发明，经过应用研究、产品开发、临床前验证和临床试验后，通过试点、教育和质量评估最终部署到患者诊疗中（pp.176–178, Fig. 10.1）。详见 [[Applied Medical Innovation]]。
 >
 > 论证关键在于：循环的每一步都深度依赖不同类型的[[University-Industry Collaboration|产学合作]]——需求识别在医院、研究在大学、开发依赖产业、扩散从学术流向临床。循环隐含两个不可或缺的要素：**有效的产学伙伴关系和医师科学家**。没有前者，循环在每个阶段之间断裂；没有后者，循环无法从临床前线启动（pp.177–178）。
@@ -94,14 +94,14 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 ---
 
-> [!info] 团队科学：诺贝尔奖趋势揭示的必然性
+> [!info] [[Team Science|团队科学]]：诺贝尔奖趋势揭示的必然性
 > 当代科学问题的复杂性已超越单一机构或单一学科类型的解决能力。诺贝尔生理学或医学奖的趋势表明，获奖者越来越多地代表大型跨学科团队，自 1990 年以来每两个获奖中就至少有一个包含医师或医师科学家（pp.178–179）。详见 [[Team Science]]。
 >
 > 论证含义是：AM cycle 之所以必须依赖产学合作，根源在于没有任何单一机构能独立解决当代医学问题——团队科学不是选择，而是必然。
 
 ---
 
-> [!tip] 创新文化：AMC 与 AHS 的关键区分
+> [!tip] 创新文化：[[Academic Medical Center|AMC]] 与 [[Academic Health System|AHS]] 的关键区分
 > [[Applied Medical Innovation|AMI]] 的第三个驱动力是创新文化，具体而言是 [[Academic Health System|AHS]] 这种特定组织形态所培育的文化。AHS 区别于传统的[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC）：**AMC 是学术-临床的二元结构，AHS 是学术-临床-产业的三元融合**（p.179）。这一区分是后续全部论证的逻辑基础——正是因为 AHS 同时容纳了三种逻辑，才能在产学合作中扮演促进者角色。详见 [[Academic Health System]] 和 [[Academic Medical Center]]。
 
 ---
@@ -218,7 +218,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 基于前五步论证（第一步：AMI 需要产学合作 → 第二步：AHS 具备结构性优势 → 第三步：七重挑战使单一组织无法独立完成 → 第四步：既有框架需修正 → 第五步：COVID-19 证明了目标对齐的力量），逻辑必然指向：产学合作各方如何在尊重优先级差异的同时，围绕共同目标对齐？
 
-> [!tip] 价值对齐模型的核心逻辑
+> [!tip] [[Values Alignment Model|价值对齐模型]]的核心逻辑
 > 让 AHS 充当促进者，将所有伙伴拉向他们共享的价值，同时尊重他们不共享的价值（pp.190–191, Fig. 10.5）。对每一个合作必须追问三个问题：
 > - 这里的"价值对齐"意味着什么？
 > - 什么反向潮流（counter currents）正在将我们拉离对齐？

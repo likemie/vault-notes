@@ -15,6 +15,7 @@ tags:
   - "theme/entrepreneurship"
   - "level/higher-education"
 related_concepts:
+  - "[[Sponsored Research Agreement]]"
   - "[[Innovation Hub]]"
   - "[[Industry Affiliate Program]]"
   - "[[Technology Transfer]]"
@@ -40,14 +41,14 @@ updated: 2026-05-29
 > 会员制研究联盟（Membership-based Research Consortium）是多家企业作为会员共同出资支持大学研究中心运作的制度安排。其核心特征是：知识产权（Intellectual Property, IP）归大学所有，会员企业获得优先许可权（preferential access to license）而非独占权，研究人员保留独立创业的选择权（Gilison & Wilson, 2025, pp.150-151）。
 
 > [!abstract]
-> 这一模式的关键设计在于通过"非独占性 IP + 优先许可权"的三方平衡，绕过了产业赞助研究（sponsored research）中单个赞助方独占 IP 形成的"毒丸"（poison pill）问题。产业赞助研究中的 IP 独占安排使衍生企业无法灵活运营、无法进入更广泛的资本市场、从根本上削弱了研究人员的创业动力；会员制联盟通过让 IP 归大学所有、多企业共享优先权的设计，从根源上化解了这一困局（pp.143-144, 150-151）。
+> 这一模式的关键设计在于通过"非独占性 IP + 优先许可权"的三方平衡，绕过了产业赞助研究（[[Sponsored Research Agreement|sponsored research]]）中单个赞助方独占 IP 形成的"毒丸"（poison pill）问题。产业赞助研究中的 IP 独占安排使衍生企业无法灵活运营、无法进入更广泛的资本市场、从根本上削弱了研究人员的创业动力；会员制联盟通过让 IP 归大学所有、多企业共享优先权的设计，从根源上化解了这一困局（pp.143-144, 150-151）。
 
 ---
 
 ## 概念辨析
 
 > [!example]
-> **vs 产业赞助研究（Sponsored Research）**：赞助研究中单一企业出资、通常要求 IP 独占权或商业化控制权；会员制联盟中多家企业共同出资、IP 归大学、会员获得非独占的优先许可权。前者对衍生企业构成"毒丸"效应，后者为衍生企业保留了独立发展的空间（pp.143-144, 150-151）。
+> **vs 产业赞助研究（[[Sponsored Research Agreement|sponsored research]]）**：赞助研究中单一企业出资、通常要求 IP 独占权或商业化控制权；会员制联盟中多家企业共同出资、IP 归大学、会员获得非独占的优先许可权。前者对衍生企业构成"毒丸"效应，后者为衍生企业保留了独立发展的空间（pp.143-144, 150-151）。
 
 > [!example]
 > **vs [[Innovation Hub|创新中心]]**：创新中心是基于地点的跨部门联合体，侧重物理空间和区域经济转型；会员制研究联盟是一种制度设计，可以在创新中心内部运行（如 UCSB SSLEEC 是一个研究中心），也可以独立存在。两者的共同点是多方参与、避免单一企业主导（pp.112-113, 150-151）。

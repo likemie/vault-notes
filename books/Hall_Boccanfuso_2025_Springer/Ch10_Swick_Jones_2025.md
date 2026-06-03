@@ -9,13 +9,13 @@ extracted_to:
   - "[[Applied Medical Innovation]]"
   - "[[Physician-Scientist]]"
   - "[[Return on Investment in University-Industry Collaboration]]"
-  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
   - "[[Partnership Continuum]]"
   - "[[Values Alignment Model]]"
   - "[[Triple Helix]]"
   - "[[Return on Investment]]"
   - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

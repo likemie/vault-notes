@@ -5,14 +5,14 @@ extracted_to:
   - "[[Foreground IP]]"
   - "[[Freedom to Operate]]"
   - "[[Pre-negotiated IP Rights]]"
-  - "[[Bayh-Dole Act of 1980]]"
-  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
   - "[[Joint Ownership of IP]]"
   - "[[Sponsored Research Agreement]]"
   - "[[MN-IP Create]]"
-  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
+  - "[[Technology Transfer]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-06-03
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---

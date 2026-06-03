@@ -11,9 +11,9 @@ extracted_to:
   - "[[Return on Investment]]"
   - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
   - "[[Pre-negotiated IP Rights]]"
-  - "[[Bayh-Dole Act of 1980]]"
-  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
+  - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---
