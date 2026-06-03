@@ -91,11 +91,8 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 自 2012 年以来，一期临床试验的管线产品数量持续增长。肿瘤学是增长最大的领域，过去五年占新增试验的 10.5%（p.202）。增长的同时，试验的模态也在显著分化——从传统小分子药物扩展到免疫肿瘤治疗、精准医学方法和下一代生物治疗（细胞、基因和 RNA 疗法），过去十年中针对罕见和非罕见癌症的试验均大幅增加（p.202）。
 
-> [!example]- 图11.1：管线产品按药物类别的一期提交数量
-> ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_11-1_Phase_I_Pipeline_Products_by_Drug_Class.jpg)
-
-> [!example]- 图11.2：肿瘤学一期临床试验监管提交数量，按类别和年份
-> ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_11-2_Phase_I_Oncology_Regulatory_Submissions_by_Class_and_Year.jpg)
+> [!info] 管线增长的量化图景
+> 图 11.1 展示了一期临床试验管线产品按药物类别（传统小分子、生物制剂、基因和细胞治疗等）的增长趋势：自 2012 年以来，各药物类别的一期提交数量均呈上升态势，其中生物制剂和下一代疗法的增速尤为显著。图 11.2 进一步聚焦肿瘤学领域，按类别和年份分解了一期监管提交数量：免疫肿瘤治疗和精准医学方法构成了增长主力，针对罕见和非罕见癌症的试验在过去十年中同步扩张（p.202）。
 
 虽然大部分制药临床前研究通过合同研究组织（Contract Research Organization, CRO）以雇佣作品（work for hire）方式进行或由内部完成，但在某些例外情形下，大学教师的实验室拥有产业方希望使用的专有细胞模型、类器官模型或动物模型。大学与产业方在临床前和[[Translational Research|转化研究]]中的合作，为人体临床试验中的关键问题提供支持性数据（p.203）。
 
