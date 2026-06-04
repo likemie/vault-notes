@@ -8265,6 +8265,16 @@
     ]
   },
   {
+    "title": "ICMJE Data Sharing Requirements 2018",
+    "type": "fact",
+    "path": "wiki/facts/global/ICMJE Data Sharing Requirements 2018.md",
+    "aliases": [
+      "ICMJE 数据共享要求",
+      "ICMJE clinical trial registration requirement",
+      "ICMJE data sharing statement"
+    ]
+  },
+  {
     "title": "Nagoya Protocol",
     "type": "fact",
     "path": "wiki/facts/global/Nagoya Protocol.md",
