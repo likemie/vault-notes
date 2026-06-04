@@ -16,11 +16,11 @@ tags:
   - theme/systematic-review
   - level/higher-education
 related_concepts:
-  - "[[Multiplicity]]"
   - "[[Scale of Measurement]]"
   - "[[Technology Transfer]]"
   - "[[Analytic Framework]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Mode 2 Knowledge Production]]"
   - "[[Knowledge Production]]"
   - "[[Absorptive Capacity]]"
   - "[[Literature Review]]"
@@ -76,7 +76,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 
 - **[[University-Industry Collaboration|产学合作]]（UIC）的多视角研究**：UIC 是大学与产业之间以联合研发为目的的正式或非正式合作关系，涵盖合同研究、联合发表、研发咨询等活动（Pinto & Fernandes, 2021）。合作产生的影响可从跨组织关系视角分为三个层次——微观（个体研究者、学生、企业家）、中观（研究团队、行业协会、合作共同体内部）和宏观（产业界、学术界、区域社会及更广泛的受合作间接影响的群体）（Siemieniako et al., 2021）（p.349）。这三个层次并非割裂的：一个博士生的技能提升（微观）可能转化为其所在企业的创新能力（中观），进而催生区域产业集群（宏观）。
 
-- **Mode 2 [[Knowledge Production|知识生产]]理论**（Gibbons et al., 1994）：UIC 在本质上与 Mode 2 知识生产高度一致。Mode 1 以学术共同体自身兴趣为驱动，追求高影响因子的学科内发表；Mode 2 则是跨学科的、多利益相关者协商的知识生产方式，更适合产生对社会有用的研究（Nightingale & Scott, 2007）。然而这里的张力在于：Mode 2 研究虽更具社会相关性，其影响因子往往低于 Mode 1 研究。这正是大学研究者在参与 UIC 时面临的核心矛盾——社会影响力与学术声誉之间的取舍（p.348）。
+- **[[Mode 2 Knowledge Production|Mode 2 知识生产]]理论**（Gibbons et al., 1994）：UIC 在本质上与 Mode 2 [[Knowledge Production|知识生产]]高度一致。Mode 1 以学术共同体自身兴趣为驱动，追求高影响因子的学科内发表；Mode 2 则是跨学科的、多利益相关者协商的知识生产方式，更适合产生对社会有用的研究（Nightingale & Scott, 2007）。然而这里的张力在于：Mode 2 研究虽更具社会相关性，其影响因子往往低于 Mode 1 研究。这正是大学研究者在参与 UIC 时面临的核心矛盾——社会影响力与学术声誉之间的取舍（p.348）。
 
 - **[[Absorptive Capacity|吸收能力]]（absorptive capacity）**：被识别为制约 UIC 影响实现的关键调节因素。高吸收能力的企业能从合作中获得独特的竞争优势，迅速将大学的研究成果转化为市场产品；低吸收能力的企业即便参与合作也难以从中受益（Tian et al., 2021; Vega-Jurado et al., 2020）。这一因素也影响了政府的资助决策——在分配合作项目资金时，政府倾向于选择吸收能力强的企业，从而进一步拉大了企业间的不平等（Cui et al., 2022）（pp.347, 353）。
 

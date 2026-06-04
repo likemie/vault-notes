@@ -2,7 +2,7 @@
 title: Absorptive Capacity
 aliases:
   - 吸收能力
-summary: "组织理解、吸收并使用外部评价证据的能力，在学区改革中取决于项目理解、开放沟通和支持性领导。"
+summary: "组织识别、吸收并应用外部知识的能力，在学区改革中取决于项目理解与开放沟通，在产学合作中则调节企业从大学研发合作中受益的程度"
 type: concept
 tags:
   - absorptive-capacity
@@ -10,12 +10,17 @@ tags:
   - implementation
   - program-evaluation
   - organizational-learning
+  - theme/university-industry-collaboration
+  - level/higher-education
 related_concepts:
+  - "[[Research Translation]]"
   - "[[Implementation Fidelity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
   - "[[Logic Model]]"
   - "[[Formative Assessment]]"
+  - "[[Variable]]"
+  - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
   - "[[Formative Program Evaluation]]"
@@ -25,18 +30,24 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Ross_Morrison_2021_ROE]]"
+  - "[[Cohen_2025_JTT]]"
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-06-05
 ---
 
 ## 定义
 
 > [!info]
-> 吸收能力（Absorptive Capacity）指组织理解、吸收并使用外部知识或评价证据的能力。在学区改革中，它表现为关键伙伴是否理解项目，伙伴之间沟通是否开放，领导是否支持，以及评价反馈能否进入后续改进实践（Ross & Morrison, 2021, pp.122-124）。
+> 吸收能力（Absorptive Capacity）指组织识别、理解、吸收外部知识或信息并将其转化为内部能力以改进实践的组织性特征。这一概念在两种截然不同的组织语境中得到了独立验证：一是 K-12 学区对外部评价证据的吸收和使用（Ross & Morrison, 2021），二是企业在产学研发合作中对大学研究成果的吸收和商业化（Cohen, Fernandes, & Godinho, 2025）。
 
-在复杂教育改革中，证据能否被使用，不只取决于研究设计是否严格。即使评价证据无法证明项目的单独因果效果，只要学区具备较高吸收能力，形成性反馈仍可能帮助项目改进实施质量、增强可持续性，并支持利益相关者理解项目进展（Ross & Morrison, 2021, pp.121-124）。
+两种语境揭示了吸收能力的共同核心：外部知识的价值不会自动实现——它取决于接收组织是否具备理解知识的认知基础、开放沟通的内部渠道、以及将知识付诸行动的制度激励。无论是对学区还是对企业，吸收能力都不是一种个体技能，而是嵌入组织结构、沟通习惯和领导行为中的系统性条件。
+
+> [!example]
+> 低吸收能力的最直观表现：学区收到了高质量的项目评价报告但将其束之高阁（Ross & Morrison, 2021）；企业与大学完成了联合研发但无法将合作产生的新[[Research Translation|技术转化]]为市场产品（Vega-Jurado et al., 2020, cited in Cohen et al., 2025, p.353）。两种情境中失败的原因不是外部知识质量不足，而是接收组织缺乏将其"吸收"的机制。
+
+---
 
 ## 概念辨析
 
@@ -81,6 +92,27 @@ updated: 2026-05-23
 > - [[Students and Teachers Accessing Tomorrow]] — STAT 的[[Formative Program Evaluation|形成性项目评价]]反馈被多方利益相关者用于理解项目进展和支持项目延续，体现较高学区吸收能力（Ross & Morrison, 2021, pp.121-124）。
 > - [[Formative Program Evaluation]] — [[Formative Assessment|形成性评价]]只有被组织吸收，才会从报告转化为实施改进。
 
+---
+
+## 在产学合作中的作用
+
+> [!abstract]
+> 在产学研发合作（UICs）中，吸收能力被识别为企业从合作中受益程度的关键调节[[Variable|变量]]（Cohen, Fernandes, & Godinho, 2025, pp.347, 353）。
+
+三项实证发现共同揭示了吸收能力在 UIC 中的筛选和放大效应：
+
+> [!success]
+> - **高吸收能力带来竞争优势**：吸收能力强的企业能迅速将大学研究成果转化为市场产品，在变化的环境中持续适应和创新（Tian et al., 2021, cited in Cohen et al., 2025, p.347）
+> - **低吸收能力导致合作失效**：当合作企业吸收能力不足时，正式 UIC 对企业创新绩效没有显著促进作用（Vega-Jurado et al., 2020, cited in Cohen et al., 2025, p.353）。这解释了为何表面上同等规模和投入的合作项目，在不同企业中产生了截然不同的结果
+> - **资助分配的负面循环**：政府在选择合作项目资助对象时倾向于吸收能力强的企业（Cui et al., 2022, cited in Cohen et al., 2025, p.347）。这意味着吸收能力薄弱的企业不仅在单次合作中受益有限，还被系统性地排除在公共资助的合作机会之外，进一步拉大了企业间的不平等
+
+> [!example]
+> 两家同等规模的区域制造企业同时与同一所大学工程系建立了合作研发关系。A 公司内部设有专门的研发部门和定期的技术研讨会机制，工程师能够在合作中快速理解大学的材料科学发现并转化为工艺改进方案。B 公司的技术决策集中在少数高管手中，没有内部知识分享机制，合作一年后大学的研究成果仍然停留在实验室阶段。表面上看合作形式和投入相似，但吸收能力的差距使 A 公司从合作中获得了显著的技术升级，B 公司几乎一无所获（基于 Vega-Jurado et al., 2020 的实证发现）。
+
+> [!warning]
+> 吸收能力在这一语境中同样未被操作化为标准化指标。UIC 文献主要将其作为解释合作效果差异的事后[[Analytic Framework|分析框架]]，而非事前可测量的筛选工具。这意味着它在学术解释中具有价值，但尚未成为企业选拔或资助分配的实际操作标准。
+
 ## 来源
 
 - [[Ross_Morrison_2021_ROE]]
+- [[Cohen_2025_JTT]]

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Cohen_2025_JTT.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -191,6 +191,8 @@
   },
   "active": "b91b74bd55d1e84e",
   "lastOpenFiles": [
+    "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md.tmp.41768.a8e509df4fa5",
+    "wiki/concepts/higher-education/Mode 2 Knowledge Production.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Bang_2025_ClinicalTrials.md",
     "sources/Cohen_2025_JTT/figures",
@@ -224,8 +226,6 @@
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall_2025_EthicalLegalFrameworks.md.tmp.24641.3e77d24cd277",
     "wiki/facts/us/Common Rule 2018.md",
     "wiki/facts/us/Common Rule (2018).md",
-    "wiki/facts/us/OMB Uniform Guidance for Federal Awards.md",
-    "books/Hall_Boccanfuso_2025_Springer/Ch14_Hall_2025.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md"
+    "wiki/facts/us/OMB Uniform Guidance for Federal Awards.md"
   ]
 }
