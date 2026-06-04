@@ -63,7 +63,6 @@ related_concepts:
   - "[[Narrative Thought Types]]"
   - "[[Self-Efficacy]]"
   - "[[Alternative Hypothesis]]"
-  - "[[STEM Education]]"
   - "[[Study Population and Sample]]"
   - "[[Descriptive Analysis]]"
   - "[[Preregistration]]"
@@ -1022,7 +1021,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 > “在一个合并量化和质性结果的单阶段混合方法项目（[[Convergent Design|聚敛式设计]]）中，量化问题或质性问题都可以首先提出。在一个分为两阶段的项目（[[Explanatory Sequential Design|解释性序列设计]]）中，第一阶段的量化问题或假设将最先出现，随后是第二阶段的质性问题。”
 > ("In a single-phase mixed methods project (a [[Convergent Design]]) in which the quantitative and qualitative results are merged, either the quantitative or the qualitative questions can be posed first. In a two-phase project (an [[Explanatory Sequential Design]]), the first-phase quantitative questions or hypotheses would come first, followed by the second-phase qualitative questions.")（第7章）
 
-Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三部分目标陈述的范例（Creswell & Creswell, 2022, Ch7）。DeCoito & Estaiteyeh (2022) 的 [[STEM Education|STEM]] 教师在线教学研究也是典型范例。
+Moseholm et al. (2017) 在健康科学领域提供了量—质—混合方法三部分目标陈述的范例（Creswell & Creswell, 2022, Ch7）。DeCoito & Estaiteyeh (2022) 的 STEM 教师在线教学研究也是典型范例。
 
 > [!quote]
 > “我们鼓励混合方法研究者将量化、质性以及一个混合方法研究问题写入他们的研究中。通过添加一个混合方法研究问题，研究者传达了整合或组合量化与质性要素的重要性。”

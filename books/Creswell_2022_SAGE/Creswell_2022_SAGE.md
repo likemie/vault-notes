@@ -95,7 +95,6 @@ extracted_to:
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Descriptive Methods]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Interview Protocol]]"
@@ -138,11 +137,12 @@ extracted_to:
   - "[[Robert E. Stake]]"
   - "[[Yvonna S. Lincoln]]"
   - "[[Social Learning Theory]]"
-  - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Institutional Review Board]]"
   - "[[Mixed Methods Question]]"
   - "[[Research Ethics]]"
   - "[[Informed Consent]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Descriptive Methods]]"
 processed_date: 2026-05-30
 ---
 

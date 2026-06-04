@@ -4,7 +4,6 @@ aliases:
   - 描述性方法
   - 质性描述性分析
   - descriptive qualitative analysis
-  - thematic analysis
   - foundational method
 summary: "质性研究中贴近数据本身、使用有限框架和解释、将信息归类为主题的分析路径，被 APA 认定为独立的质性方法类型"
 type: method
