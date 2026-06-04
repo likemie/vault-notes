@@ -3765,6 +3765,16 @@
     ]
   },
   {
+    "title": "FAIR Principles",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/FAIR Principles.md",
+    "aliases": [
+      "FAIR 原则",
+      "FAIR data principles",
+      "FAIR Guiding Principles"
+    ]
+  },
+  {
     "title": "Gatekeepers",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Gatekeepers.md",
@@ -9530,6 +9540,11 @@
     "title": "Argument_Boccanfuso_Hall_2025_OrgStrategy",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_OrgStrategy.md"
+  },
+  {
+    "title": "Argument_Brock_2025_DataAccessGenerationUse",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Brock_2025_DataAccessGenerationUse.md"
   },
   {
     "title": "Argument_Burrus_Patera_2025_PartnershipBuilding",

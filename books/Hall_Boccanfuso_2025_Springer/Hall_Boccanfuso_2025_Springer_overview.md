@@ -36,3 +36,4 @@ processed_date: 2026-06-03
 - [[Argument_Bang_2025_ClinicalTrials]]
 - [[Argument_Ramming_2025_CorporateSupport]]
 - [[Argument_Hall_2025_EthicalLegalFrameworks]]
+- [[Argument_Brock_2025_DataAccessGenerationUse]]
