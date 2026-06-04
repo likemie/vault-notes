@@ -11,13 +11,18 @@ tags:
   - theme/university-industry-collaboration
   - theme/research-impact-assessment
   - level/higher-education
-related_concepts: []
+related_concepts:
+  - "[[Multiplicity]]"
+  - "[[University Spin-Out]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Cohen_2025_JTT]]"
 confidence: medium
 status: draft
 created: 2026-06-05
@@ -31,12 +36,12 @@ updated: 2026-06-05
 ## 定义
 
 > [!info]
-> UIC 影响测量（UIC Impact Measurement）指对大学与产业研发合作（[[University-Industry Collaboration|UICs]]）所产生的正向或负向变化进行系统识别、分类和评估的过程。影响被定义为 UIC 语境中产生并可直接或间接作用于个体、组织、社区和整个社会的变化（Cohen, Fernandes, & Godinho, 2025, p.346）。
+> UIC 影响测量（UIC Impact Measurement）指对大学与产业研发合作（UICs）所产生的正向或负向变化进行系统识别、分类和评估的过程。影响被定义为 UIC 语境中产生并可直接或间接作用于个体、组织、社区和整个社会的变化（Cohen, Fernandes, & Godinho, 2025, p.346）。
 
-这一概念的核心前提是：UIC 的影响具有多重性质——有形与无形、短期与长期、直接与间接、正面与负面——使得任何单一指标或单一视角的测量都无法完整捕捉合作的真实效果（pp.345–346）。因此需要发展系统化的测量框架来整合不同类型的指标和方法。
+这一概念的核心前提是：UIC 的影响具有[[Multiplicity|多重性]]质——有形与无形、短期与长期、直接与间接、正面与负面——使得任何单一指标或单一视角的测量都无法完整捕捉合作的真实效果（pp.345–346）。因此需要发展系统化的测量框架来整合不同类型的指标和方法。
 
 > [!example]
-> 以大学衍生企业为例：它产生的"有形"影响包括新公司注册数、融资额、创造的就业岗位（可量化），"无形"影响则包括区域创业文化的形成、大学声誉的提升（难以量化）。如果测量体系只追踪前者而忽略后者，就会严重低估 UIC 对区域创新生态的真实贡献。
+> 以[[University Spin-Out|大学衍生企业]]为例：它产生的"有形"影响包括新公司注册数、融资额、创造的就业岗位（可量化），"无形"影响则包括区域创业文化的形成、大学声誉的提升（难以量化）。如果测量体系只追踪前者而忽略后者，就会严重低估 UIC 对区域[[Innovation Ecosystem|创新生态]]的真实贡献。
 
 ---
 
@@ -133,7 +138,7 @@ Cohen 等人识别出四类系统性测量挑战（pp.362–363）：
 > 4. **影响管理系统**：在合作组织中嵌入识别、审查、执行和预判影响的管理流程（Fernandes & O'Sullivan, 2021）
 > 5. **数字与技术工具**：利用网络计量指标（altmetrics）追踪研究在社交媒体和政策文件中的讨论（Bornmann, 2017）
 > 6. **多学科方法**：当技术创新同时产生正负影响时，引入伦理和道德维度的跨学科分析（Fini et al., 2018）
-> 7. **参数/非参数与质性方法**：使用工具变量、倾向得分匹配等计量方法处理因果归因，结合反事实分析（Scandura, 2016; Lööf & Broström, 2008）
+> 7. **参数/非参数与质性方法**：使用工具[[Variable|变量]]、倾向得分匹配等计量方法处理因果归因，结合反事实分析（Scandura, 2016; Lööf & Broström, 2008）
 
 > [!warning] 实证验证不足
 > 值得注意的是，持续监控、多学科方法和数字工具这三项策略在所分析的 92 篇研究中均未找到实证应用案例（p.364），表明当前讨论仍以规范性建议为主。
