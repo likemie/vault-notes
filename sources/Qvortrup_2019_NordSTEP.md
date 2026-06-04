@@ -5,19 +5,19 @@ extracted_to:
   - "[[Interpretation Community]]"
   - "[[Structural Coupling]]"
   - "[[Professional Judgment]]"
-  - "[[Critiques of Visible Learning]]"
   - "[[Visible Learning]]"
   - "[[Danish Public School Reform]]"
   - "[[Hattie på dansk]]"
-  - "[[Visible Learning Branding and Global Influences]]"
   - "[[Meta-analysis]]"
   - "[[Lars Qvortrup]]"
   - "[[Thomas Aastrup Rømer]]"
-  - "[[John Hattie]]"
   - "[[Donald A. Schön]]"
   - "[[Herbert A. Simon]]"
   - "[[Bounded Rationality]]"
   - "[[Evidence-Based Education]]"
+  - "[[Critiques of Visible Learning]]"
+  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-03
 ---
 

@@ -18,12 +18,12 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Knowledge Transfer]]"
   - "[[Knowledge Exchange]]"
   - "[[Academic Engagement]]"
   - "[[Academic Capitalism]]"
-  - "[[Sci-Tech Achievement Transformation]]"
 related_theories:
   - "[[Triple Helix]]"
 related_methods: []
@@ -41,7 +41,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-06-04
 ---
 
 # Bayh-Dole Act of 1980
@@ -54,6 +54,9 @@ Bayh-Dole Act（正式名称为 Patent and Trademark Law Amendments Act）于 19
 - 向政府回授权利（rights conveyed back to the government）
 - 大学须遵守知识产权管理的相关义务
 - 大学须与发明人分享知识产权收入
+
+> [!note]
+> 其中，要求大学等非营利机构将一部分许可费（royalties）分配给发明人这一条款，使大学研究者在知识产权收益方面与企业研究者产生了制度性差异：企业研究者通常不直接从许可费中分享收益。其后果是大学的知识产权政策必须明确承认发明人的权利，而任何[[University-Industry Collaboration|产学合作]]协议都必须尊重这一制度安排（Hall, 2025, p.264）。
 
 ## 对大学知识产权政策的影响
 
@@ -81,7 +84,7 @@ Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识�
 2. 企业与大学的[[Technology Transfer|技术转移]]办公室（[[Technology Transfer Office]]）协商知识产权许可
 3. 这两个办公室通常都隶属于大学的科研副校长（Vice President of Research），有时合并到企业参与办公室（Office of Corporate Engagement）
 
-该法案引发的一个持续挑战是商业化路径的选择：初创企业（发明人可能成为创始人）还是成熟企业（发明人无所有权股份）？大学可能希望支持教师的创业精神或通过初创企业推动经济发展，但"大多数初创企业会失败，成熟企业可以投资进一步的技术开发，且初创企业可能产生无法解决的利益冲突"。此外，根据[[Sponsored Research Agreement|赞助研究协议]]，大学可能已有义务给予现有企业知识产权的优先权（p.14）。
+该法案引发的一个持续挑战是商业化路径的选择：初创企业（发明人可能成为创始人）还是成熟企业（发明人无所有权股份）？大学可能希望支持教师的创业精神或通过初创企业推动经济发展，但"大多数初创企业会失败，成熟企业可以投资进一步的技术开发，且初创企业可能产生无法解决的[[Conflict of Interest in Research|利益冲突]]"。此外，根据[[Sponsored Research Agreement|赞助研究协议]]，大学可能已有义务给予现有企业知识产权的优先权（p.14）。
 
 ---
 
@@ -108,7 +111,7 @@ Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识�
 ## 联邦研究资助的结构性变化
 
 > [!note]
-> Bayh-Dole Act 通过后，大学研究资助的来源结构发生了显著变化。联邦资助占大学研究支出的比例从 1991 年的约 70% 下降到 2021 年的不足 60%（AUTM, 2024, cited in Susalka & Carbone, 2025, p.273）。与此同时，产业资金成为重要的替代来源——2023 年仅美国[[University-Industry Collaboration|产学合作]]研究资助即超过 71 亿美元（p.273）。在这一背景下，Bayh-Dole Act 赋予大学的知识产权所有权愈发展现其战略价值：它使大学能够将联邦资助产生的研究[[Sci-Tech Achievement Transformation|成果转化]]为可向产业许可的资产，从而在联邦资金相对缩水的情况下维持研究体系的运转。
+> Bayh-Dole Act 通过后，大学研究资助的来源结构发生了显著变化。联邦资助占大学研究支出的比例从 1991 年的约 70% 下降到 2021 年的不足 60%（AUTM, 2024, cited in Susalka & Carbone, 2025, p.273）。与此同时，产业资金成为重要的替代来源——2023 年仅美国[[University-Industry Collaboration|产学合作]]研究资助即超过 71 亿美元（p.273）。在这一背景下，Bayh-Dole Act 赋予大学的知识产权所有权愈发展现其战略价值：它使大学能够将联邦资助产生的研究成果转化为可向产业许可的资产，从而在联邦资金相对缩水的情况下维持研究体系的运转。
 
 ## 来源
 

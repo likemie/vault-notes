@@ -24,6 +24,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Learning Analytics]]"
   - "[[Effect Size]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[External Validity]]"
 related_theories: []
 related_methods:
@@ -146,7 +147,7 @@ updated: '2026-05-18'
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> ### 利益冲突：倡导者、研究者和产品创始人三重身份
+> ### [[Conflict of Interest in Research|利益冲突]]：倡导者、研究者和产品创始人三重身份
 >
 > **批评内容**：Slavin 本人是 [[Success for All]]（论文表 1 中[[Effect Size|效应量]]最高的阅读项目）的创始者，同时也是 [[Best Evidence Encyclopedia|BEE]]（Best Evidence Encyclopedia）和 Evidence for ESSA 网站的创建者。本文以学术论述和 Thorndike Award 演讲的形式呈现"EBR 的科学进展"，但存在以独立学术之名推动自身创立的项目和平台的利益动机。
 >

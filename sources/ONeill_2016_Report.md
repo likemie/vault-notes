@@ -7,17 +7,17 @@ extracted_to:
   - "[[Visible Learning]]"
   - "[[Network Governance]]"
   - "[[Venture Philanthropy]]"
-  - "[[Cognition Education]]"
   - "[[Contestable School Support Services]]"
   - "[[Foundation North Māori and Pasifika Education Initiative]]"
   - "[[Manaiakalani Education Trust]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Tomorrow's Schools Reforms]]"
-  - "[[Visible Learning Branding and Global Influences]]"
-  - "[[John Hattie]]"
   - "[[Stephen Ball]]"
   - "[[Policy Entrepreneur]]"
   - "[[Teach First New Zealand]]"
+  - "[[Cognition Education]]"
+  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-04
 ---
 

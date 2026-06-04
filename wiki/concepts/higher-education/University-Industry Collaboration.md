@@ -26,10 +26,12 @@ related_concepts:
   - "[[Corporate R&D Labs]]"
   - "[[Third Mission (Universities)]]"
   - "[[Knowledge Transfer]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[Return on Investment]]"
   - "[[Innovation Hub]]"
   - "[[Executive Education]]"
   - "[[Further Education]]"
+  - "[[Joint Faculty Appointments]]"
   - "[[University-Industry Co-location]]"
   - "[[University Corporate Engagement Professional]]"
   - "[[Concierge Service]]"
@@ -44,6 +46,10 @@ related_concepts:
   - "[[Industry Affiliate Program]]"
   - "[[Master Agreement]]"
   - "[[Proof of Concept Programs]]"
+  - "[[Academic Engagement Team]]"
+  - "[[Academic Engagement]]"
+  - "[[Research Translation]]"
+  - "[[Public-Private Partnership in Research]]"
   - "[[Clinical Trial]]"
   - "[[Multi-University]]"
   - "[[Partnership Continuum]]"
@@ -71,6 +77,8 @@ related_facts:
   - "[[Schlegel-UW Research Institute for Aging]]"
   - "[[Inventor-Owned IP Policy (University of Waterloo)]]"
   - "[[Network of Academic Corporate Relations Officers]]"
+  - "[[CHIPS and Science Act]]"
+  - "[[Semiconductor Research Corporation]]"
   - "[[University, Inc. (Washburn, 2005)]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
 related_arguments:
@@ -90,6 +98,7 @@ sources:
   - "[[Ch15_Susalka_Carbone_2025]]"
   - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
+  - "[[Ch12_Ramming_2025]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -155,7 +164,7 @@ updated: 2026-06-03
 
 - **目标对齐（Alignment）**：大学和企业具有相似但比例不同的目标。大学追求研究声誉、教育质量和公共效益，同时需要财务资源和声誉支撑；企业追求利润，但也关注声誉、人才获取和公共形象。对齐体现在人才发展、经济增长和知识产权等目标上（pp.5–7）
 - **信任与承诺**：有效的产学合作取决于"在基于信任和尊重承诺的文化中匹配互补的才能和能力"（p.10）
-- **正式协议**：当涉及资金支付时，关系通过赞助研究、技术许可、服务或咨询等协议来界定。需要协商的关键事项包括发表审查权、知识产权归属与保护、学生权益保护、交付物与时间表、直接与间接成本核算、多公司联合体中的权利保护、利益冲突披露、数据使用与所有权、是否以捐赠替代合同等（pp.9–10）
+- **正式协议**：当涉及资金支付时，关系通过赞助研究、技术许可、服务或咨询等协议来界定。需要协商的关键事项包括发表审查权、知识产权归属与保护、学生权益保护、交付物与时间表、直接与间接成本核算、多公司联合体中的权利保护、[[Conflict of Interest in Research|利益冲突]]披露、数据使用与所有权、是否以捐赠替代合同等（pp.9–10）
 
 ---
 
@@ -200,7 +209,7 @@ updated: 2026-06-03
 - **原型开发与测试服务**：利用大学设施进行产品测试
 - **联合开发物理设施**：共同投资实验室、中试车间等
 - **培训与[[Executive Education|高管教育]]**：为企业员工提供[[Further Education|继续教育]]。高管教育处于大学与产业的界面上，既是产学合作的产物，也是深化合作关系的入口。定制化高管教育项目将大学的前沿研究翻译为产业可用的知识框架，为更长期的研究合作和人才合作奠定信任基础（Lerner-Lam et al., 2025, pp.155-170）
-- **人员交流**（people exchange）：实习、联合聘任（joint appointments）、借调（secondments）
+- **人员交流**（people exchange）：实习、联合聘任（[[Joint Faculty Appointments|joint appointments]]）、借调（secondments）
 - **共同选址**（[[University-Industry Co-location|co-location]]）：产业人员在大学校园内专用空间中与大学研究人员共同开展合作或独立研究。通过缩短物理距离来降低沟通和文化壁垒，促进思想交流——典型案例包括联合利华在瓦赫宁根大学的 Hive 中心（500 名员工驻校）和 Mars 在 UC Davis 的 MARI 研究院（Wolf et al., 2025, pp.317–318）
 - **非正式互动**：网络活动、联合参加会议、邀请企业进校园讲座——这些活动对建立社会关系和促进隐性知识流动至关重要
 
@@ -211,7 +220,7 @@ updated: 2026-06-03
 ### 教师激励与合作支持
 
 > [!abstract]
-> 教师对产学合作的态度差异巨大——部分院系天然看到合作价值，另一些则因知识产权、发表权、保密限制和利益冲突等顾虑持怀疑态度（Dean et al., 2025, p.242）。推动产学合作不能只靠文化传统，还需要系统性的激励与支持结构。
+> 教师对产学合作的态度差异巨大——部分院系天然看到合作价值，另一些则因知识产权、发表权、保密限制和[[Conflict of Interest in Research|利益冲突]]等顾虑持怀疑态度（Dean et al., 2025, p.242）。推动产学合作不能只靠文化传统，还需要系统性的激励与支持结构。
 
 **资金杠杆**：政府与产业配资项目是推动教师参与产学合作最直接的硬性激励。以加拿大为例，NSERC Alliance Advantage 项目和 Mitacs Accelerate 项目要求产业伙伴提供 1:1 配套资金；通过叠加不同项目，研究者最多可以获得 3:1 的杠杆效应。滑铁卢大学一个学院过去五年的产业及产业杠杆研究经费占总经费的 34%，其中 NSERC 资助中 41% 来自产业配资项目（Dean et al., 2025, p.243）。
 
@@ -288,7 +297,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 
 ### 学术参与团队（AET）
 
-产学合作在企业内部的组织载体是 [[Academic Engagement Team|学术参与团队]]（Academic Engagement Team, AET）——以预算责任负责领导和管理大学合作的组织单位。AET 的核心组织特征是"叠加层"（overlay）：它不是独立的业务部门，而是嵌入公司既有组织结构之上——成员可能在 CTO 办公室、HR 部门或分散在各业务单元中。AET 的实践者必须在矩阵式的、高度分权的环境中运作（Ramming, 2025, pp.222–223）。
+产学合作在企业内部的组织载体是 [[Academic Engagement Team|学术参与团队]]（[[Academic Engagement]] Team, AET）——以预算责任负责领导和管理大学合作的组织单位。AET 的核心组织特征是"叠加层"（overlay）：它不是独立的业务部门，而是嵌入公司既有组织结构之上——成员可能在 CTO 办公室、HR 部门或分散在各业务单元中。AET 的实践者必须在矩阵式的、高度分权的环境中运作（Ramming, 2025, pp.222–223）。
 
 AET 的资助结构直接决定了产学合作在企业内部关注什么、忽略什么。Ramming（2025, pp.228–229）识别了五种典型结构：中央化运营预算（追求战略目标）、企业基金会（聚焦社会责任）、业务部门分布式预算（追求短期具体回报）、按职能分配预算（隔离合作不同面向）和按技术领域分配预算（深耕特定技术栈）。这些结构不是互斥的——大型企业可能同时组合使用多种来源。详见 [[Academic Engagement Team]]。
 
@@ -308,7 +317,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 - **咨询协议**（最短，数周到数月）：由业务部门直接管理，AET 从旁跟踪
 - **实习与访问教授**（中期，数月到一年）：服务人才管道和深度技术合作
 - **[[Joint Faculty Appointments|联合教职]]**（双重时间尺度）：同时解决短期专有业务（雇员身份）和长期开放式研究（教授身份）。详见 [[Joint Faculty Appointments]]
-- **[[Sponsored Research Agreement|赞助研究协议（SRA）]]**（最长，3+ 年）：早期阶段由中央 AET 管理直到概念成熟度足以吸引业务部门跟进
+- **[[Sponsored Research Agreement|赞助研究协议]]（SRA）**（最长，3+ 年）：早期阶段由中央 AET 管理直到概念成熟度足以吸引业务部门跟进
 
 ### 研究转化漏斗
 
@@ -316,7 +325,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 
 ### 跨部门合作与公私合作伙伴关系
 
-政府日益以直接合作伙伴身份进入产学合作。2022 年 [[CHIPS and Science Act|CHIPS 与科学法案]]推动建立国家半导体技术中心（NSTC）和 [[Semiconductor Research Corporation|SRC]] 构成了两种不同的 [[Public-Private Partnership in Research|公私合作伙伴关系（PPP）]] 模式——国家战略型和行业联盟型。对企业的 AET 实践者而言，PPP 提供了放大资金规模和塑造国家技术战略的机会，但也引入了治理复杂性：多方决策的协调成本、竞争对手在同一合作框架中的共存管理、技术战略的共识建设和知识产权的多边分配（Ramming, 2025, pp.233–236）。
+政府日益以直接合作伙伴身份进入产学合作。2022 年 [[CHIPS and Science Act|CHIPS 与科学法案]]推动建立国家半导体技术中心（NSTC）和 [[Semiconductor Research Corporation|SRC]] 构成了两种不同的 [[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP） 模式——国家战略型和行业联盟型。对企业的 AET 实践者而言，PPP 提供了放大资金规模和塑造国家技术战略的机会，但也引入了治理复杂性：多方决策的协调成本、竞争对手在同一合作框架中的共存管理、技术战略的共识建设和知识产权的多边分配（Ramming, 2025, pp.233–236）。
 
 ---
 

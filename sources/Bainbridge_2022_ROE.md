@@ -14,10 +14,10 @@ extracted_to:
   - "[[Selective Schools Expansion Fund]]"
   - "[[Carnivalesque Analysis]]"
   - "[[Gert Biesta]]"
-  - "[[John Hattie]]"
   - "[[Terry Wrigley]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
   - "[[Evidence-Based Education]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-07
 ---
 

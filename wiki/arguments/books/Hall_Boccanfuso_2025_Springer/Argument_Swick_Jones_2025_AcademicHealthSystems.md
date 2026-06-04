@@ -23,6 +23,7 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
   - "[[T-Shaped Skills]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[Return on Investment]]"
 related_theories:
   - "[[Values Alignment Model]]"
@@ -159,7 +160,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ---
 
 > [!warning] 挑战六：医师科学家的时间挤压
-> 医师科学家的职业时间被多个方向的期望撕裂（pp.186–187）：临床诊疗、继续医学教育（Continuing Medical Education, CME）、学生指导、职业晋升、经费申请，留给实际研究的时间极为有限。近一半（44.3%）的研究可用时间花在了行政任务上：生物安全、HIPAA、信息技术安全、利益冲突和人力资源等定期认证。医师科学家被描述为"合规管道中的整合点"（Carmichael, 2024, 转引自 p.187）。
+> 医师科学家的职业时间被多个方向的期望撕裂（pp.186–187）：临床诊疗、继续医学教育（Continuing Medical Education, CME）、学生指导、职业晋升、经费申请，留给实际研究的时间极为有限。近一半（44.3%）的研究可用时间花在了行政任务上：生物安全、HIPAA、信息技术安全、[[Conflict of Interest in Research|利益冲突]]和人力资源等定期认证。医师科学家被描述为"合规管道中的整合点"（Carmichael, 2024, 转引自 p.187）。
 
 ---
 

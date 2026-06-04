@@ -10,10 +10,10 @@ extracted_to:
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[The New Zealand Curriculum]]"
   - "[[Tomorrow's Schools Reforms]]"
-  - "[[Visible Learning Branding and Global Influences]]"
   - "[[Dietrich Benner]]"
-  - "[[John Hattie]]"
   - "[[Radical Constructivism]]"
+  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[John Hattie]]"
 processed_date: 2026-05-05
 ---
 

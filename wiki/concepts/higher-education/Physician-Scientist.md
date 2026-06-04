@@ -17,6 +17,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Refined Mastery]]"
   - "[[Research Question]]"
+  - "[[Conflict of Interest in Research]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -62,7 +63,7 @@ updated: 2026-06-02
 
 > [!warning]
 > - **时间压力**：临床诊疗、继续医学教育、学生指导、个人职业发展和研究经费申请几乎挤占了所有可用时间，留给研究项目的时间极为有限（pp.186–187）。
-> - **行政与合规负担**：研究者报告称，近一半（44.3%）的研究可用时间花在了行政任务上（Schneider, 2020），包括生物安全、《健康保险携带和责任法案》（Health Insurance Portability and Accountability Act, HIPAA）合规、信息技术安全、临床与动物研究实践、利益冲突和人力资源等定期认证（pp.186–187）。
+> - **行政与合规负担**：研究者报告称，近一半（44.3%）的研究可用时间花在了行政任务上（Schneider, 2020），包括生物安全、《健康保险携带和责任法案》（Health Insurance Portability and Accountability Act, HIPAA）合规、信息技术安全、临床与动物研究实践、[[Conflict of Interest in Research|利益冲突]]和人力资源等定期认证（pp.186–187）。
 > - **超亚专业化困境**：许多当代专家极度亚专业化（super-sub-specialized），虽然在自己的领域内高度熟练，但缺乏跨领域协作所需的广度视野（pp.185–186）。
 
 ## 来源

@@ -11,6 +11,7 @@ extracted_to:
   - "[[Semiconductor Research Corporation]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Precompetitive Research]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-03
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

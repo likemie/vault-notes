@@ -9,9 +9,9 @@ extracted_to:
   - "[[Pre-negotiated IP Rights]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Technology Transfer Office]]"
-  - "[[Technology Transfer]]"
   - "[[MN-IP Create]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-06-03

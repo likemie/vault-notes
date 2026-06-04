@@ -13,11 +13,11 @@ citation: "Dean, C. B., Milligan, I., Yu, A., Szarka, M., Hannon, A., & Carroll-
 tags: ["theme/university-industry-collaboration", "theme/faculty-engagement", "theme/research-assessment", "region/canada"]
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[Cooperative Education]]"
   - "[[Declaration on Research Assessment]]"
   - "[[Technology Transfer]]"
   - "[[Academic Freedom]]"
-  - "[[STEM Education]]"
   - "[[Concierge Service]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Co-location]]"
@@ -49,7 +49,7 @@ updated: 2026-06-02
 ## 研究问题
 
 > [!question]
-> 研究密集型大学面临传统研究资助渠道持续收窄的压力，产业合作成为重要的补充资金来源。然而不同院系的教师对[[University-Industry Collaboration|产学合作]]的接受度差异巨大，部分教师担心知识产权归属、发表权受限、保密条款约束、学术声誉受损和利益冲突。六位作者全部担任滑铁卢大学研究行政职务（科研副校长、协理副校长、伙伴关系总监、政府关系副主任等），因而面对一个直接的实践难题：即便滑铁卢大学自 1959 年建校起就将产业合作嵌入组织基因，拥有北美最大的[[Cooperative Education|合作教育]]项目（每年 26,000 名本科生、8,000 多个雇主）和[[Inventor-Owned IP Policy (University of Waterloo)|发明人自有知识产权政策]]，该校仍然面临前述所有障碍（pp.242–243）。
+> 研究密集型大学面临传统研究资助渠道持续收窄的压力，产业合作成为重要的补充资金来源。然而不同院系的教师对[[University-Industry Collaboration|产学合作]]的接受度差异巨大，部分教师担心知识产权归属、发表权受限、保密条款约束、学术声誉受损和[[Conflict of Interest in Research|利益冲突]]。六位作者全部担任滑铁卢大学研究行政职务（科研副校长、协理副校长、伙伴关系总监、政府关系副主任等），因而面对一个直接的实践难题：即便滑铁卢大学自 1959 年建校起就将产业合作嵌入组织基因，拥有北美最大的[[Cooperative Education|合作教育]]项目（每年 26,000 名本科生、8,000 多个雇主）和[[Inventor-Owned IP Policy (University of Waterloo)|发明人自有知识产权政策]]，该校仍然面临前述所有障碍（pp.242–243）。
 >
 > 推动产学合作不能只靠**文化基因**。核心问题是：**大学如何通过系统性的制度设计，将产学合作从少数教师的个人偏好转变为多数教师可以理性选择的行为？**具体而言，哪些激励机制对教师最有效？行政支持在降低合作摩擦中扮演什么角色？研究评估制度是否在根本上将产学合作视为负资产？
 
@@ -97,7 +97,7 @@ updated: 2026-06-02
 
 ### 论证一：资金杠杆与研究生实习——硬激励如何改变成本收益计算
 
-1. 加拿大联邦政府的主要 [[STEM Education|STEM]] 资助项目以产业配资为硬性前提。两个核心项目构成了这一激励机制的双轨设计：
+1. 加拿大联邦政府的主要 STEM 资助项目以产业配资为硬性前提。两个核心项目构成了这一激励机制的双轨设计：
 
     - **加拿大自然科学与工程研究理事会（Natural Science and Engineering Research Council, NSERC）联盟优势项目（Alliance Advantage）**：要求产业伙伴提供 1:1 的配套资金才能获得政府资助。研究者必须先找到愿意出资的产业伙伴，政府才会匹配等额经费。项目面向大学教师的合作研究，由学术首席 investigator 管理，产业伙伴提供资金和问题场景（p.243）。
     - **Mitacs 加速项目（Mitacs Accelerate）**：专门支持研究生和博士后的产业实习。项目将学生的产业实习岗位与大学教师管理的研究项目绑定，Mitacs 支付约 50% 的项目成本，剩余部分由产业伙伴匹配。学生至少需要在公司现场工作一段时间，以从产业视角理解研究挑战（pp.243–244）。
@@ -317,7 +317,7 @@ updated: 2026-06-02
 > - 主要依赖公共资金而非产业配资的研究资助体系（如部分欧洲国家）。
 > - 教学型大学或文理学院。
 >
-> **非 [[STEM Education|STEM]] 领域未充分展开**。虽然承认非 STEM 领域（尤其是社会科学）在获得产业资助方面面临特殊困难——**因为个别公司对这类研究的结果没有专有利益**——但未提出系统的解决方案，只提供了对问题的一般性描述（pp.246–247）。
+> **非 STEM 领域未充分展开**。虽然承认非 STEM 领域（尤其是社会科学）在获得产业资助方面面临特殊困难——**因为个别公司对这类研究的结果没有专有利益**——但未提出系统的解决方案，只提供了对问题的一般性描述（pp.246–247）。
 ...
 
 ---

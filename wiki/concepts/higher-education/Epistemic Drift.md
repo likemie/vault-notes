@@ -12,6 +12,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Scientization of Politics]]"
   - "[[Epistemic Governance]]"
+  - "[[Responsible Conduct of Research]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -62,7 +63,7 @@ Zapp 将认识漂移与 [[Epistemic Governance|知识治理]] 的内在风险直
 
 - **学术自主性的渐进侵蚀**：认识漂移的危险在于其隐蔽性——研究者通常认为自己在做出独立的研究选择，但选择的范围已经被资助结构预先限定了。不同于公开压制（研究者明确知道自己在受到限制），认识漂移中的研究者可能真诚地相信自己仍然具有学术自主性（Zapp, 2022, p.155）
 
-- **累积效应的系统性后果**：单个研究者将兴趣对齐 SDGs 无可厚非——甚至可能是负责任的研究行为。但 Zapp 的担忧在于宏观层面：当这种对齐成为整个研究领域的系统性趋势时，由好奇心驱动的、不服务于任何外部议程的基础研究和批判性研究可能被系统性边缘化（Zapp, 2022, p.155）
+- **累积效应的系统性后果**：单个研究者将兴趣对齐 SDGs 无可厚非——甚至可能是[[Responsible Conduct of Research|负责任的研究行为]]。但 Zapp 的担忧在于宏观层面：当这种对齐成为整个研究领域的系统性趋势时，由好奇心驱动的、不服务于任何外部议程的基础研究和批判性研究可能被系统性边缘化（Zapp, 2022, p.155）
 
 ---
 ## 理论基础

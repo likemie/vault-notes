@@ -1,7 +1,6 @@
 ---
 citation: "Li, J. (2012). Cultural Foundations of Learning: East and West. Cambridge University Press."
 extracted_to:
-  - "[[Argument_Li_2012_Cambridge]]"
   - "[[Action Better Than Words]]"
   - "[[Affect-Respect and Ought-Respect]]"
   - "[[Benevolence]]"
@@ -91,6 +90,7 @@ extracted_to:
   - "[[Attribution Theory]]"
   - "[[Self-Worth Theory]]"
   - "[[Cultural Models]]"
+  - "[[Argument_Li_2012_Cambridge]]"
 processed_date: 2026-05-25
 ---
 

@@ -27,8 +27,8 @@ extracted_to:
   - "[[Pierre Bourdieu]]"
   - "[[Cultural Political Economy]]"
   - "[[Neo-feudalism in Higher Education]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-06-01
 ---

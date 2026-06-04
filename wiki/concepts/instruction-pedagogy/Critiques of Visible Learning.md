@@ -45,6 +45,7 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Definition of Terms]]"
   - "[[Scientism]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[Global Education Reform Movement]]"
   - "[[Cargo Cult Science]]"
   - "[[Critic and Conscience of Society]]"
@@ -967,7 +968,7 @@ Johnson & Janzen 详细追溯了从 Taylor 科学管理到 VL 全景监控的历
 
 #### 角度三：新自由主义商业化——经济利益追踪
 
-Johnson & Janzen 通过 Bates（2017）和 O'Neill et al.（2016）追踪了 VL 商业化的详细轨迹。其核心贡献在于识别了利益冲突、[[Class Size|班级规模]]作为 [[Global Education Reform Movement|GERM]] 紧缩工具、以及"饥饿-危机-私有化"循环。详见 [[Visible Learning Branding and Global Influences]]。
+Johnson & Janzen 通过 Bates（2017）和 O'Neill et al.（2016）追踪了 VL 商业化的详细轨迹。其核心贡献在于识别了[[Conflict of Interest in Research|利益冲突]]、[[Class Size|班级规模]]作为 [[Global Education Reform Movement|GERM]] 紧缩工具、以及"饥饿-危机-私有化"循环。详见 [[Visible Learning Branding and Global Influences]]。
 
 #### 角度四：Cargo Cult Science——科学的误用
 

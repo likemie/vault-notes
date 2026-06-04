@@ -23,6 +23,7 @@ related_concepts:
   - "[[Freedom to Operate]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Joint Ownership of IP]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[University Spin-Out]]"
   - "[[Performance Indicators]]"
 related_theories:
@@ -189,7 +190,7 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 
 - **初创企业路线**：发明人可能成为创始人，获得所有权激励；大学可能希望支持教师的创业精神，或通过初创企业推动区域经济发展
 - **成熟企业路线**：企业可以投资进一步的技术开发，商业化成功概率可能更高；但发明人可能无所有权股份，激励较弱
-- **结构性矛盾**：大多数初创企业会失败；成熟企业可能不愿承担早期技术的风险；初创企业可能产生无法解决的利益冲突（如教师在学生论文涉及的技术上持有公司股份）。此外，根据[[Sponsored Research Agreement|赞助研究协议]]，大学可能已有义务给予现有企业知识产权的优先权（p.14）
+- **结构性矛盾**：大多数初创企业会失败；成熟企业可能不愿承担早期技术的风险；初创企业可能产生无法解决的[[Conflict of Interest in Research|利益冲突]]（如教师在学生论文涉及的技术上持有公司股份）。此外，根据[[Sponsored Research Agreement|赞助研究协议]]，大学可能已有义务给予现有企业知识产权的优先权（p.14）
 
 > [!example]
 > 一位工程学教授在 [[National Science Foundation|NSF]] 资助下开发了一种新型传感器技术。按照 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]，该技术归大学所有。教授面临选择：自己创立一家初创公司来商业化这项技术（可以获得股权，但需要找风投、组建团队、离开学术轨道），还是将技术许可给一家成熟的传感器制造商（可以更快进入市场，但教授的角色可能只是顾问，获得的是许可收入分成而非股权）。[[Technology Transfer Office|技术转移办公室]]需要在这两条路径之间做出判断，这种判断涉及对技术成熟度、市场前景、教授意愿和现有赞助协议的复杂权衡。

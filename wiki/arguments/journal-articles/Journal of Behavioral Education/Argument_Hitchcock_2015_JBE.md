@@ -26,6 +26,7 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
   - "[[Theories of Policy Change]]"
+  - "[[Conflict of Interest in Research]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -150,7 +151,7 @@ updated: '2026-05-18'
 > ### 外部批评视角
 >
 > 1. **回应性质的局限**：作为对 Maggin et al. (2013) 的评论，论证的焦点是防御性澄清而非批判性检验——论文未深入讨论 WWC 审查程序的潜在问题
-> 2. **第一人称视角的利益冲突**：作者是 WWC [[Single-Case Design|SCD]] 标准的共同开发者，可能倾向于为其辩护而非独立评估
+> 2. **第一人称视角的[[Conflict of Interest in Research|利益冲突]]**：作者是 WWC [[Single-Case Design|SCD]] 标准的共同开发者，可能倾向于为其辩护而非独立评估
 > 3. **推广性评估的结构性空白**：即使审查程序捕获了推广性信息，将判断责任推给消费者的做法可能不公平——许多从业者和政策制定者缺乏评估推广性的方法论训练
 
 ## 来源

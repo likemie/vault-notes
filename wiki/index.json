@@ -1324,6 +1324,17 @@
     ]
   },
   {
+    "title": "Conflict of Interest in Research",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Conflict of Interest in Research.md",
+    "aliases": [
+      "研究利益冲突",
+      "conflict of interest",
+      "COI",
+      "利益冲突"
+    ]
+  },
+  {
     "title": "Contract Research Organization",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Contract Research Organization.md",
@@ -4289,6 +4300,16 @@
       "无回应偏差",
       "nonresponse bias",
       "无应答偏差"
+    ]
+  },
+  {
+    "title": "Responsible Conduct of Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Responsible Conduct of Research.md",
+    "aliases": [
+      "负责任的研究行为",
+      "RCR",
+      "research integrity"
     ]
   },
   {
@@ -9085,6 +9106,16 @@
     ]
   },
   {
+    "title": "Pajaro Dunes Statement of 1982",
+    "type": "fact",
+    "path": "wiki/facts/us/Pajaro Dunes Statement of 1982.md",
+    "aliases": [
+      "Pajaro Dunes Statement",
+      "Pajaro Dunes Conference",
+      "帕哈罗沙丘声明"
+    ]
+  },
+  {
     "title": "Peer-Assisted Learning Strategies",
     "type": "fact",
     "path": "wiki/facts/us/Peer-Assisted Learning Strategies.md",
@@ -9396,6 +9427,17 @@
     ]
   },
   {
+    "title": "Nelson Memo of 2022",
+    "type": "fact",
+    "path": "wiki/facts/us/Nelson Memo of 2022.md",
+    "aliases": [
+      "Nelson Memo",
+      "OSTP Nelson Memorandum",
+      "Nelson Memorandum 2022",
+      "纳尔逊备忘录"
+    ]
+  },
+  {
     "title": "No Child Left Behind Act 2001",
     "type": "fact",
     "path": "wiki/facts/us/No Child Left Behind Act 2001.md",
@@ -9492,6 +9534,11 @@
     "title": "Argument_Hall(Ed.)_2025_Springer",
     "type": "argument",
     "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall(Ed.)_2025_Springer.md"
+  },
+  {
+    "title": "Argument_Hall_2025_EthicalLegalFrameworks",
+    "type": "argument",
+    "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Hall_2025_EthicalLegalFrameworks.md"
   },
   {
     "title": "Argument_Hoffman_2025_UI_Alliances_Consortia",

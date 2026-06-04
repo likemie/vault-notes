@@ -62,7 +62,6 @@ extracted_to:
   - "[[Qualitative Reliability]]"
   - "[[Qualitative Validity]]"
   - "[[Reflexivity]]"
-  - "[[Research Ethics]]"
   - "[[Research Introduction]]"
   - "[[Research Problem]]"
   - "[[Research Question]]"
@@ -143,6 +142,7 @@ extracted_to:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Institutional Review Board]]"
   - "[[Mixed Methods Question]]"
+  - "[[Research Ethics]]"
 processed_date: 2026-05-30
 ---
 

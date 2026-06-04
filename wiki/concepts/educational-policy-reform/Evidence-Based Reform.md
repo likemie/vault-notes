@@ -20,6 +20,7 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[International Education]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[External Validity]]"
   - "[[Research Question]]"
   - "[[Professional Judgment]]"
@@ -45,7 +46,6 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
-  - "[[Comprehensive School Reform Program]]"
   - "[[Success for All]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Investing in Innovation Program]]"
@@ -248,7 +248,7 @@ Slavin et al. (2021, p.15-17) 首次在英文文献中系统翻译和呈现了�
 
 **3. 价值问题不可量化**
 
-王卫东 (2019) 认为证据本位研究在处理价值相关问题时存在先天不足："价值关乎人类未来，特别是人们面对利益冲突时应做的选择，而证据本位研究倾向于关注可以量化的当下现实"。因此"思辨教育研究应作为证据本位研究的前提，同时也应包容证据本位研究产生的发现"（Slavin et al., 2021, p.16）。
+王卫东 (2019) 认为证据本位研究在处理价值相关问题时存在先天不足："价值关乎人类未来，特别是人们面对[[Conflict of Interest in Research|利益冲突]]时应做的选择，而证据本位研究倾向于关注可以量化的当下现实"。因此"思辨教育研究应作为证据本位研究的前提，同时也应包容证据本位研究产生的发现"（Slavin et al., 2021, p.16）。
 
 **4. 数据收集的现实困境**
 

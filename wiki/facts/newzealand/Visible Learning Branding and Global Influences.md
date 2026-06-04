@@ -27,6 +27,7 @@ related_concepts:
   - "[[Sage]]"
   - "[[Technical Rationality]]"
   - "[[Further Education]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[Direct Instruction]]"
   - "[[Problem-Based Learning]]"
   - "[[Lost Mode]]"
@@ -214,7 +215,7 @@ updated: '2026-05-18'
 > |------|------|------|------|------|------|------|
 > | NZD | USD 10,000 | USD 93,322 | USD 272,133 | USD 270,559 | USD 223,439 | (未披露) |
 >
-> Hattie 同时是 Cognition Education Trust 的"学术事务顾问"和 Cognition Education Limited 的前董事（至 2012 年）（O'Neill et al., 2016, pp.48, 69）。O'Neill et al.（2016）指出 Hattie 在 Cognition Trust 董事会任职同时通过 VL 商业化获取版税，即便不构成利益冲突，"外观上充其量是模糊的"（Johnson & Janzen, 2023, p.31）。
+> Hattie 同时是 Cognition Education Trust 的"学术事务顾问"和 Cognition Education Limited 的前董事（至 2012 年）（O'Neill et al., 2016, pp.48, 69）。O'Neill et al.（2016）指出 Hattie 在 Cognition Trust 董事会任职同时通过 VL 商业化获取版税，即便不构成[[Conflict of Interest in Research|利益冲突]]，"外观上充其量是模糊的"（Johnson & Janzen, 2023, p.31）。
 >
 > #### Cognition Education Group 财务轨迹
 >
@@ -340,7 +341,7 @@ updated: '2026-05-18'
 >
 > **论证四：VL 数据已过时——时效性问题。** Blass（2020, p.95）指出 VL 出版于 2009 年但其基础数据来自 1980s–1990s，这些研究进行时的教室特征是"学生排排坐、教师用粉笔或白板笔、电视被视为负面效应量"。Blass 提出尖锐类比："你会想要一个外科医生查阅 1990 年的书来学习机器人手术吗？你想要肿瘤学家查找 1980 年代的最新癌症治疗方法吗？不！那么为什么你允许那个时代的教学结果影响你今天在课堂上的行为？"（Blass, 2020, p.95）。
 >
-> #### Johnson & Janzen (2023) — 新自由主义商业化与利益冲突
+> #### Johnson & Janzen (2023) — 新自由主义商业化与[[Conflict of Interest in Research|利益冲突]]
 >
 > Johnson & Janzen（2023）在四角度系统批判中专门追踪了 VL 的新自由主义商业化维度：
 >

@@ -1,16 +1,16 @@
 ---
 citation: "Hall, R., & Boccanfuso, A. (Eds.). (2025). University-Industry Collaboration: Innovation at the Interface. Springer."
 extracted_to:
-  - "[[Academic Freedom]]"
   - "[[Multi-University]]"
   - "[[Technology Transfer Office]]"
-  - "[[Technology Transfer]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
   - "[[Innovation Ecosystem]]"
   - "[[Argument_Hall(Ed.)_2025_Springer]]"
+  - "[[Academic Freedom]]"
+  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-06-03
@@ -35,3 +35,4 @@ processed_date: 2026-06-03
 - [[Argument_Wolf_2025_InternationalResearchCollab]]
 - [[Argument_Bang_2025_ClinicalTrials]]
 - [[Argument_Ramming_2025_CorporateSupport]]
+- [[Argument_Hall_2025_EthicalLegalFrameworks]]

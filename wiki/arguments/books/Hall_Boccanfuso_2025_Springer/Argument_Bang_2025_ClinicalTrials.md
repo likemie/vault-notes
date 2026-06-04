@@ -19,9 +19,11 @@ related_concepts:
   - "[[Translational Research]]"
   - "[[Institutional Review Board]]"
   - "[[Performance Indicators]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[Contract Research Organization]]"
   - "[[Return on Investment]]"
   - "[[Preregistration]]"
+  - "[[Public-Private Partnership in Research]]"
   - "[[Research Question]]"
   - "[[Literature Review]]"
 related_theories: []
@@ -76,7 +78,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 ## 论证结构
 
 > [!example] 核心论证逻辑链
-> 论证从[[Clinical Trial|临床试验]]的基本运作机制出发，逐步揭示学术机构与产业方之间的四组结构性张力（预算、速度、误解、利益冲突），再逐一回应以已被验证的改善路径（流程优化、[[Master Protocol|主方案]]设计、技术工具、协作文化），最终指向临床试验现代化的未来方向。
+> 论证从[[Clinical Trial|临床试验]]的基本运作机制出发，逐步揭示学术机构与产业方之间的四组结构性张力（预算、速度、误解、[[Conflict of Interest in Research|利益冲突]]），再逐一回应以已被验证的改善路径（流程优化、[[Master Protocol|主方案]]设计、技术工具、协作文化），最终指向临床试验现代化的未来方向。
 
 ---
 
@@ -220,7 +222,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 **9. CTTI 的多利益相关方合作模式提供了制度层面的改善框架，但执行效果高度依赖机构层面的投入**
 
-过去二十年，产业界和大学通过集中化行政工作持续努力简化和改善临床研究。多利益相关方公私合作伙伴关系——临床试验转型倡议（Clinical Trials Transformation Initiative, CTTI）——制定并推动了提高临床试验质量和效率的实践（p.210）。CTTI 确定了战略重点领域：消除运营效率障碍、提高试验质量、将患者作为特定的利益相关方进行参与，以及回应公共卫生关切。CTTI 领导并发布了超过 30 套基于证据的建议、框架和工具来改善临床试验（p.210）。
+过去二十年，产业界和大学通过集中化行政工作持续努力简化和改善临床研究。多利益相关方[[Public-Private Partnership in Research|公私合作伙伴关系]]——临床试验转型倡议（Clinical Trials Transformation Initiative, CTTI）——制定并推动了提高临床试验质量和效率的实践（p.210）。CTTI 确定了战略重点领域：消除运营效率障碍、提高试验质量、将患者作为特定的利益相关方进行参与，以及回应公共卫生关切。CTTI 领导并发布了超过 30 套基于证据的建议、框架和工具来改善临床试验（p.210）。
 
 > [!success] CTTI 的案例：从倡议到实践
 > CTTI 于 2007 年由 FDA 和杜克大学共同发起，最初的目标是回应"临床试验变得越来越昂贵和低效"这一广泛共识。它的工作方式不是自上而下的监管指令，而是召集产业方、学术机构、患者倡导团体和政府机构共同制定基于共识的建议，然后通过试点项目验证。超过 30 套建议涵盖了从试验设计、基地选择、IRB 审查到数据质量的各个环节。例如，CTTI 的基地度量项目（site metrics project）直接回应了启动速度缓慢的问题，通过按基地类型和 IRB 类型分析启动度量指标，为各机构提供了可操作的基准（p.210）。

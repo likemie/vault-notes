@@ -4,7 +4,6 @@ extracted_to:
   - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
   - "[[Pre-negotiated IP Rights]]"
   - "[[Return on Investment]]"
-  - "[[Technology Transfer]]"
   - "[[Transnational Research Collaboration]]"
   - "[[University-Industry Co-location]]"
   - "[[Use-Inspired Basic Research]]"
@@ -14,6 +13,7 @@ extracted_to:
   - "[[Dollinger et al. Framework for UI Collaboration]]"
   - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Triple Helix]]"
+  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
 processed_date: 2026-06-02

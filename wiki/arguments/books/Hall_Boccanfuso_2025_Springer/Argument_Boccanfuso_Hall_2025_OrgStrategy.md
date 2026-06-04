@@ -24,8 +24,10 @@ related_concepts:
   - "[[Professors of Practice]]"
   - "[[Cooperative Education]]"
   - "[[Executive Education]]"
+  - "[[Joint Faculty Appointments]]"
   - "[[Clinical Trial]]"
   - "[[Innovation Park]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Concierge Service]]"
   - "[[Boundary Spanner]]"
@@ -131,7 +133,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 底层是五个使命领域中的具体活动——这些是产学合作日常运作的"触达点"：
 
 - **教育**：产业从业者作为兼职讲师或[[Professors of Practice|实践教授]]授课、产业参与课程设计、实习与[[Cooperative Education|合作教育]]（co-ops）、面向产业员工的[[Executive Education|高管教育]]、在线项目、产业导向的学生社团
-- **研究**：产业赞助研究、联合体与联盟、联合聘用（joint appointments）、设施与数据共享、联合争取政府资助
+- **研究**：产业赞助研究、联合体与联盟、联合聘用（[[Joint Faculty Appointments|joint appointments]]）、设施与数据共享、联合争取政府资助
 - **临床**：产业赞助[[Clinical Trial|临床试验]]、诊所与医院整合、临床创新项目——仅适用于有学术医疗中心的大学
 - **辅助/行政**：战略采购、联合产品开发、会议设施使用——这些不直接涉及学术，但涉及可观的产业合作
 - **经济/社区发展**：孵化器、[[Innovation Park|创新园区]]、技术许可、初创企业投资、小企业技术支持、标准制定
@@ -145,7 +147,7 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 
 有了活动地图，下一个问题是：执行这些活动需要什么样的制度基础？框架包含四类基础条件（Table 3.2, p.59）：
 
-- **政策（Policies）**：学术自由、利益冲突、知识产权、隐私、晋升与终身教职——这些是产学参与的"护栏"，定义了什么是可以做的、什么是不可以做的
+- **政策（Policies）**：学术自由、[[Conflict of Interest in Research|利益冲突]]、知识产权、隐私、晋升与终身教职——这些是产学参与的"护栏"，定义了什么是可以做的、什么是不可以做的
 - **协议（Agreements）**：保密协议、企业捐赠、数据与材料转移、雇佣合同、合资企业、赞助研究、技术许可——每一种产学互动都需要通过特定类型的协议来界定
 - **关键单位（Key Units）**：学术单位、大学发展/筹资部门（advancement）、法律总顾问、医疗系统、产业关系办公室、创新园区、采购、赞助项目办公室、技术许可办公室——每个协议由哪个单位负责谈判和执行
 - **利益相关者（Stakeholders）**：校友、董事会、商业伙伴、社区、教师、职员、学生——谁参与执行、谁参与谈判、谁是中介、谁是受益者

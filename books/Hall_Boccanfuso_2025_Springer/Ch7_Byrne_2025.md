@@ -14,9 +14,9 @@ extracted_to:
   - "[[Tech Square at Georgia Tech]]"
   - "[[University City Science Center]]"
   - "[[University of Illinois Research Park]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[CHIPS and Science Act]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
