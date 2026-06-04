@@ -8,12 +8,12 @@ extracted_to:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Triple Helix]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Argument_Hall(Ed.)_2025_Springer]]"
   - "[[Academic Freedom]]"
   - "[[Technology Transfer]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[University-Industry Collaboration]]"
-processed_date: 2026-06-03
+  - "[[Argument_Hall(Ed.)_2025_Springer]]"
+processed_date: 2026-06-04
 ---
 
 # Hall_Boccanfuso_2025_Springer_overview
@@ -30,10 +30,10 @@ processed_date: 2026-06-03
 - [[Argument_Gilison_Wilson_2025_UniversityStartups]]
 - [[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd]]
 - [[Argument_Swick_Jones_2025_AcademicHealthSystems]]
-- [[Argument_Dean_2025_UICollaborationSupport]]
-- [[Argument_Susalka_Carbone_2025_IP_Web]]
-- [[Argument_Wolf_2025_InternationalResearchCollab]]
 - [[Argument_Bang_2025_ClinicalTrials]]
 - [[Argument_Ramming_2025_CorporateSupport]]
+- [[Argument_Dean_2025_UICollaborationSupport]]
 - [[Argument_Hall_2025_EthicalLegalFrameworks]]
+- [[Argument_Susalka_Carbone_2025_IP_Web]]
 - [[Argument_Brock_2025_DataAccessGenerationUse]]
+- [[Argument_Wolf_2025_InternationalResearchCollab]]
