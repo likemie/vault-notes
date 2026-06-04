@@ -34,7 +34,6 @@ extracted_to:
   - "[[Gatekeepers]]"
   - "[[Hook and Eye Technique]]"
   - "[[Hypothesis]]"
-  - "[[Informed Consent]]"
   - "[[Integration Statement]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Inter-Rater Reliability]]"
@@ -143,6 +142,7 @@ extracted_to:
   - "[[Institutional Review Board]]"
   - "[[Mixed Methods Question]]"
   - "[[Research Ethics]]"
+  - "[[Informed Consent]]"
 processed_date: 2026-05-30
 ---
 

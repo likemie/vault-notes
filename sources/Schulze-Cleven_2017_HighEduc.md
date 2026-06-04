@@ -28,8 +28,8 @@ extracted_to:
   - "[[Cultural Political Economy]]"
   - "[[Neo-feudalism in Higher Education]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-01
 ---
 

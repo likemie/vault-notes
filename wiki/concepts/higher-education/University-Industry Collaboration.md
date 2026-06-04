@@ -82,6 +82,7 @@ related_facts:
   - "[[University, Inc. (Washburn, 2005)]]"
   - "[[Advanced Manufacturing Research Centre (AMRC)]]"
 related_arguments:
+  - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 sources:
   - "[[Schulze-Cleven_2017_HighEduc]]"
@@ -95,6 +96,7 @@ sources:
   - "[[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]"
   - "[[Ch10_Swick_Jones_2025]]"
   - "[[Ch13_Dean_2025]]"
+  - "[[Ch14_Hall_2025]]"
   - "[[Ch15_Susalka_Carbone_2025]]"
   - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
@@ -102,7 +104,7 @@ sources:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-06-03
+updated: 2026-06-04
 ---
 
 # University-Industry Collaboration
@@ -216,6 +218,28 @@ updated: 2026-06-03
 > 在互动层次上，UIDP（2012）区分了战术/交易型互动（tactical and transactional）、协作型互动（collaborations）和战略伙伴关系（strategic partnerships）——不同层次适用不同的治理安排。Perkmann 和 Salter（2012）则按价值主张区分了四种合作模式：创意实验室（吸引新伙伴、建立关系）、重大挑战协作（适合通过联合体或中心组织）、扩展工作台（解决近期问题）、深度探索（长期产业资助大学研究中心）（Ulrichsen, 2025, pp.45–46）。
 
 > 关系型互动（relational）已取代交易型互动（transactional）成为主导——这反映了隐性知识在思想和[[Technology Transfer|技术转移]]中的关键作用（Schartinger et al., 2002）（Ulrichsen, 2025, p.44）。大企业也经历了从大量零散学术互动向少数战略性大学伙伴集中的转变（Ulrichsen, 2025, pp.44–45）。
+
+### 机构协议类型
+
+> [!info]
+> 上述互动路径在操作层面通过具体的**机构协议**（institutional agreements）来执行。Hall（2025, pp.261–262）将产学机构协议归纳为 11 种类型，沿两个维度分化：**权利交换的深度**（从捐赠的零权利回报到合资企业的全权利共享）和**关系的时间长度**（从一次性材料转移到多年赞助研究）：
+
+| 协议类型 | 法律形式 | 核心特征 |
+|---------|---------|---------|
+| [[Clinical Trial\|临床试验]] | Clinical Trial Agreement | 按获批方案测试技术或药品，使用人类或动物受试者，成本报销 |
+| 保密协议 | Non-Disclosure Agreement (NDA) | 为特定用途指定共享和保密信息范围，通常无付款 |
+| 数据使用协议 | Data Use Agreement (DUA) | 组织间共享研究数据，对接收方有使用限制和责任 |
+| 捐赠 | Gift | 为指定目的不可撤销付款，不附带交付物或知识产权权利 |
+| 合资企业 | Joint Venture | 创建新的共同控制和拥有的实体 |
+| 材料转移协议 | Material Transfer Agreement (MTA) | 将生物材料或化合物提供给另一方用于指定用途 |
+| 会员制 | Membership | 企业付费参与大学中心，享有工作发言权和共享产品获取权 |
+| 服务协议 | Service Agreement | 利用大学独特资源执行指定任务，成本报销；不同于研究 |
+| [[Sponsored Research Agreement\|赞助研究]] | Sponsored Research Agreement (SRA) | 企业资助研究项目，有指定时间表、交付物和知识产权权利 |
+| 组队协议 | Teaming Agreement | 合作争取第三方（通常为政府机构）资助 |
+| 技术许可 | Technology Licensing | 在指定条款下提供知识产权权利供进一步开发和商业化 |
+
+> [!note]
+> 保密协议往往是更实质性协议（如 SRA）的前奏：双方先建立保密信任，再进入更复杂的谈判。捐赠位于权利交换的最浅端，SRA 给予企业更大的监督权和商业化路径。无论哪种类型，协议都使组织受其条款的法律约束。在选择协议类型前回答战略对齐、法律合规、伦理匹配等关键问题，比进入谈判后再调整类型更高效（Hall, 2025, pp.261–262）。详见 [[Argument_Hall_2025_EthicalLegalFrameworks]]。
 
 ### 教师激励与合作支持
 
@@ -459,6 +483,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 - [[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]
 - [[Ch10_Swick_Jones_2025]]
 - [[Ch13_Dean_2025]]
+- [[Ch14_Hall_2025]]
 - [[Ch15_Susalka_Carbone_2025]]
 - [[Ch17_Wolf_Stevenson_Siegel_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]

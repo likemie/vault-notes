@@ -18,8 +18,8 @@ extracted_to:
   - "[[Academic Engagement]]"
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Technology Transfer]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

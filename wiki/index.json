@@ -9410,6 +9410,17 @@
     ]
   },
   {
+    "title": "Common Rule 2018",
+    "type": "fact",
+    "path": "wiki/facts/us/Common Rule 2018.md",
+    "aliases": [
+      "Common Rule",
+      "Federal Policy for the Protection of Human Subjects",
+      "人类受试者保护通用规则",
+      "OHRP Common Rule"
+    ]
+  },
+  {
     "title": "Comprehensive School Reform Program",
     "type": "fact",
     "path": "wiki/facts/us/Comprehensive School Reform Program.md",
@@ -9445,6 +9456,16 @@
       "No Child Left Behind Act",
       "不让一个孩子掉队法案",
       "NCLB"
+    ]
+  },
+  {
+    "title": "OMB Uniform Guidance for Federal Awards",
+    "type": "fact",
+    "path": "wiki/facts/us/OMB Uniform Guidance for Federal Awards.md",
+    "aliases": [
+      "Uniform Guidance",
+      "OMB Uniform Guidance",
+      "2 CFR 200"
     ]
   },
   {

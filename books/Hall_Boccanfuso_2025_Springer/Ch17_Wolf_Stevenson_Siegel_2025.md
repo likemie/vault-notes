@@ -14,8 +14,8 @@ extracted_to:
   - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Triple Helix]]"
   - "[[Technology Transfer]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---

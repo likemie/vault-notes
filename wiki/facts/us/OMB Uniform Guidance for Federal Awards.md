@@ -14,13 +14,17 @@ tags:
   - "level/higher-education"
   - "policy/research-funding"
   - "theme/university-industry-collaboration"
-related_concepts: []
+related_concepts:
+  - "[[University-Industry Collaboration]]"
+  - "[[Clinical Trial]]"
+  - "[[Fair Market Value]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[Ch14_Hall_2025]]"
 confidence: medium
 status: draft
 created: 2026-06-04
@@ -32,7 +36,7 @@ updated: 2026-06-04
 ## 背景
 
 > [!info]
-> 管理与预算办公室（Office of Management and Budget, OMB）的 Uniform Guidance for Federal Awards（《联邦拨款统一指南》，编入 2 CFR 200）于 2014 年生效，规定了美国大学研究预算必须遵循的会计核算原则。在此之前，联邦拨款的财务管理分散在多个 OMB 通告（Circulars）中——如 A-21（教育机构成本原则）、A-110（高等教育机构统一行政要求）和 A-133（审计要求）——Uniform Guidance 将这些分散规则整合为单一框架（Hall, 2025, pp.263–264）。
+> 管理与预算办公室（Office of Management and Budget, OMB）的 Uniform Guidance for Federal Awards（《联邦拨款统一指南》，编入 2 CFR 200）于 2014 年生效，规定了美国大学研究预算必须遵循的会计核算原则。在此之前，联邦拨款的财务管理分散在多个 OMB 通告中，如 A-21（教育机构成本原则）、A-110（高等教育机构统一行政要求）和 A-133（审计要求）。Uniform Guidance 将这些分散规则整合为单一框架（Hall, 2025, pp.263–264）。
 
 ## 政策文本摘要
 
@@ -59,7 +63,7 @@ updated: 2026-06-04
 > Uniform Guidance 在[[University-Industry Collaboration|产学合作]]协议谈判中制造了一个具体的制度摩擦点。企业习惯于商业承包商的报价方式——不透明但全成本回收（包括利润）——而大学的预算是"透明但有补贴"的：企业可以看到每位教授的确切工资，但也必须接受大学实际上在以机构资金补贴研究项目（因为 26% 的行政成本上限不可突破）。
 
 > [!note]
-> 产业赞助的[[Clinical Trial|临床试验]]是这一规则的重要例外：许多临床站点成本按直接费用收取，间接成本费率低于典型的联邦费率，且临床成本按"公平市场价值"（Fair Market Value）确定（p.264）。
+> 产业赞助的[[Clinical Trial|临床试验]]是这一规则的重要例外：许多临床站点成本按直接费用收取，间接成本费率低于典型的联邦费率，且临床成本按"[[Fair Market Value|公平市场价值]]"（Fair Market Value）确定（p.264）。
 
 ## 来源
 
