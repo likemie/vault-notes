@@ -4,96 +4,84 @@
 
 Total entries: **58**
 
-## Chinese Philosophy
+> [!summary]- Chinese Philosophy (2)
+> - [[Confucian Learning Tradition]] — 东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题
+> - [[Neo-Confucianism]] — 宋明时期儒学复兴运动，以程朱理学与陆王心学为代表，将天理与修身关联，重建儒家学习传统的理论根基
 
-- [[Confucian Learning Tradition]] — 东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题
-- [[Neo-Confucianism]] — 宋明时期儒学复兴运动，以程朱理学与陆王心学为代表，将天理与修身关联，重建儒家学习传统的理论根基
+> [!summary]- Communication Discourse (1)
+> - [[Van Leeuwen's Legitimation Theory]] — 分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场
 
-## Communication Discourse
+> [!summary]- Comparative Education (5)
+> - [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，用权力距离、个人主义、不确定性规避等维度比较国家文化差异及其组织和教育影响
+> - [[Institutional Isomorphism]] — 解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论
+> - [[Nation Building through Education]] — 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析
+> - [[World Society Theory]] — 把全球制度扩散理解为世界文化模型广泛传播与模仿结果的社会学理论，用于解释学校制度和大学组织为何在跨国范围内趋同
+> - [[World-Systems Theory]] — 把全球资本主义组织为中心、半边缘和边缘三层结构的历史社会理论，用于分析国家与地区在世界体系中的不平等位置和依附关系
 
-- [[Van Leeuwen's Legitimation Theory]] — 分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场
+> [!summary]- Curriculum (1)
+> - [[Cuban's Curriculum Change Theory]] — 课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因国家安全而权重重组
 
-## Comparative Education
+> [!summary]- Educational Philosophy (11)
+> - [[Autopoiesis]] — 把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织
+> - [[Critical Realism]] — Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架
+> - [[Goldman's Discrimination Theory of Knowledge]] — 知识的成立依赖区分真实状态与相关替代可能状态的能力，可用于说明教育判断为何往往具有局部性、情境性与暂定性
+> - [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，并以盲点和结构耦合解释系统观察与互动
+> - [[Phenomenology]] — 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的“现象“概念和教育意义
+> - [[Popper's Three Worlds Theory]] — 将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承
+> - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
+> - [[Societies of Control]] — Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑
+> - [[Third Generation Activity Theory]] — 在 Vygotsky 中介三角模型基础上发展出的第三代活动理论，聚焦多个活动系统之间的互动与边界跨越，以矛盾为变革动力，通过扩展性改造实现共享目标
+> - [[Transactional Epistemology]] — Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
+> - [[Transition Design]] — 把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大
 
-- [[Hofstede's Cultural Dimensions]] — 国家文化维度理论，用权力距离、个人主义、不确定性规避等维度比较国家文化差异及其组织和教育影响
-- [[Institutional Isomorphism]] — 解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论
-- [[Nation Building through Education]] — 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析
-- [[World Society Theory]] — 把全球制度扩散理解为世界文化模型广泛传播与模仿结果的社会学理论，用于解释学校制度和大学组织为何在跨国范围内趋同
-- [[World-Systems Theory]] — 把全球资本主义组织为中心、半边缘和边缘三层结构的历史社会理论，用于分析国家与地区在世界体系中的不平等位置和依附关系
+> [!summary]- Higher Education (9)
+> - [[Creative Tension of Sense]] — Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话
+> - [[Dollinger et al. Framework for UI Collaboration]] — Dollinger et al. (2018) 提出的国际产学合作分析框架，从环境因素、技术因素和管理因素三个维度评估合作，可用于国际合作关系的基准比较和进展评估
+> - [[King-Persily Model]] — King 与 Persily（2019）提出的产学合作数据治理模型，通过引入第三方委员会来解耦研究者对产业数据和专有信息的完全访问，最初针对社会科学与社交媒体大数据场景，Swick 与 Jones（2025）讨论了其在生物医学创新中的适用性
+> - [[Network Society]] — 把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织
+> - [[RIA Model for Innovation]] — Schlegel-UW 老龄化研究所提出的四阶段创新模型，包括知识生成、孵化、加速和动员，描述研究型产学合作从基础研究到社会影响的完整链条
+> - [[Stokes' Quadrant Model of Scientific Research]] — Stokes (1997) 提出的二维研究分类框架，以对基础理解的追求程度和对应用的考虑程度为两个独立维度，将科学研究分为玻尔象限、巴斯德象限、爱迪生象限和第四象限，取代传统的基础-应用一维谱系
+> - [[Systems of Innovation]] — Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络和市场互动进行的集体学习活动，强调制度、网络和吸收能力对创新绩效的关键作用，1980–90年代后成为多国创新政策的主导范式
+> - [[Triple Helix]] — Etzkowitz 与 Leydesdorff（1995）提出的大学-产业-政府关系模型，认为在以知识为基础的经济发展中，三个制度领域日益相互交织，形成动态的创新系统
+> - [[Values Alignment Model]] — Swick 与 Jones（2025）提出的产学合作框架，以学术健康系统为促进者，通过以患者为中心重新对齐大学、产业和医院之间的优先级差异和共同目标，平衡各方的利益驱动力与反向拉力
 
-## Curriculum
+> [!summary]- Instruction Pedagogy (3)
+> - [[Bounded Rationality]] — 解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理
+> - [[Dynamic Knowledge and Learning Model]] — 用于澄清学习结果概念的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累。
+> - [[Teaching Theory of Gruschka]] — Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung 和 Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础
 
-- [[Cuban's Curriculum Change Theory]] — 课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因国家安全而权重重组
+> [!summary]- Learning Science Cognitive Science (7)
+> - [[Appraisal Theory]] — Frijda 提出的情绪理论，强调认知评估在情绪生成中的核心作用，将情绪过程分解为七个阶段，并认为文化参与每个阶段的调节
+> - [[Attribution Theory]] — Weiner (1976) 提出的动机理论，以因果归因解释人们对成就结果的情感和行为反应，包括 locus、stability、control 三个维度
+> - [[Hebbian Principles]] — Hebb 突触可塑性原则：经常使用的神经通路被加强，不常用的被移除，是突触修剪的理论基础
+> - [[Miyake's Unity and Diversity Framework of Executive Function]] — Miyake (2000) 的 EF 统一性与多样性框架：抑制、转换、更新与监控三成分既相关又各具独特功能和发展轨迹
+> - [[Neo-Piagetian Theories]] — 修正皮亚杰模型的新皮亚杰理论群：Pascual-Leone 的双层/M-power 模型、Case 的四子域模型、Fischer 的技能理论
+> - [[Piaget's Theory of Cognitive Development]] — 皮亚杰的认知发展四阶段建构主义理论，区分感觉运动、前运算、具体运算和形式运算等发展阶段
+> - [[Self-Worth Theory]] — Covington (1976) 提出的成就动机理论，认为人类将能力感知为自我价值，会采取各种策略保护自我价值免受失败威胁
 
-## Educational Philosophy
+> [!summary]- Political Economy Geopolitics (7)
+> - [[Concealment-Exposure Framework]] — 用于分析隐藏与暴露边界如何被控制的框架，强调知识流动中可见性、遮蔽和暴露之间的权力关系。
+> - [[Critical Geopolitics]] — 把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实
+> - [[Cultural Political Economy]] — 把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造
+> - [[Decolonial Geopolitics of Knowledge]] — 从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化
+> - [[Fixity-Motion Tension]] — 解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论
+> - [[Neo-feudalism in Higher Education]] — Schulze-Cleven et al. (2017) 引入的分析范式，主张当代学术等级通过忠诚联盟、群体特权和声望展示等封建式机制维持，市场化和竞争非但未消解等级反而将其固化为新封建秩序
+> - [[Tullock's Bureaucracy Theory]] — 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
 
-- [[Autopoiesis]] — 把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织
-- [[Critical Realism]] — Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架
-- [[Goldman's Discrimination Theory of Knowledge]] — 知识的成立依赖区分真实状态与相关替代可能状态的能力，可用于说明教育判断为何往往具有局部性、情境性与暂定性
-- [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，并以盲点和结构耦合解释系统观察与互动
-- [[Phenomenology]] — 以经验、生活世界、具身性和主体间性为核心的哲学传统；Schaffar & Wolff 用于解释芬兰 PhBL 的“现象“概念和教育意义
-- [[Popper's Three Worlds Theory]] — 将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承
-- [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
-- [[Societies of Control]] — Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑
-- [[Third Generation Activity Theory]] — 在 Vygotsky 中介三角模型基础上发展出的第三代活动理论，聚焦多个活动系统之间的互动与边界跨越，以矛盾为变革动力，通过扩展性改造实现共享目标
-- [[Transactional Epistemology]] — Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
-- [[Transition Design]] — 把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大
+> [!summary]- Psychology (1)
+> - [[Social Learning Theory]] — Bandura (1977) 提出的统一理论框架，以认知、行为和环境因素之间的持续交互来解释人类行为，强调替代性学习、象征过程和自我调节在行为获得与改变中的作用
 
-## Higher Education
+> [!summary]- Research Methodology (4)
+> - [[Campbellian Validity Framework]] — 围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界
+> - [[Cartwright's Three-Stage Knowledge Framework]] — RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用
+> - [[Potential Outcomes Framework]] — 因果推断的核心框架，通过比较同一主体在不同处理条件下的潜在结果来定义因果效应，并区分因果效应的定义与估计。
+> - [[Sociology of Measurement]] — 将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。
 
-- [[Creative Tension of Sense]] — Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话
-- [[Dollinger et al. Framework for UI Collaboration]] — Dollinger et al. (2018) 提出的国际产学合作分析框架，从环境因素、技术因素和管理因素三个维度评估合作，可用于国际合作关系的基准比较和进展评估
-- [[King-Persily Model]] — King 与 Persily（2019）提出的产学合作数据治理模型，通过引入第三方委员会来解耦研究者对产业数据和专有信息的完全访问，最初针对社会科学与社交媒体大数据场景，Swick 与 Jones（2025）讨论了其在生物医学创新中的适用性
-- [[Network Society]] — 把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织
-- [[RIA Model for Innovation]] — Schlegel-UW 老龄化研究所提出的四阶段创新模型，包括知识生成、孵化、加速和动员，描述研究型产学合作从基础研究到社会影响的完整链条
-- [[Stokes' Quadrant Model of Scientific Research]] — Stokes (1997) 提出的二维研究分类框架，以对基础理解的追求程度和对应用的考虑程度为两个独立维度，将科学研究分为玻尔象限、巴斯德象限、爱迪生象限和第四象限，取代传统的基础-应用一维谱系
-- [[Systems of Innovation]] — Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络和市场互动进行的集体学习活动，强调制度、网络和吸收能力对创新绩效的关键作用，1980–90年代后成为多国创新政策的主导范式
-- [[Triple Helix]] — Etzkowitz 与 Leydesdorff（1995）提出的大学-产业-政府关系模型，认为在以知识为基础的经济发展中，三个制度领域日益相互交织，形成动态的创新系统
-- [[Values Alignment Model]] — Swick 与 Jones（2025）提出的产学合作框架，以学术健康系统为促进者，通过以患者为中心重新对齐大学、产业和医院之间的优先级差异和共同目标，平衡各方的利益驱动力与反向拉力
-
-## Instruction Pedagogy
-
-- [[Bounded Rationality]] — 解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理
-- [[Dynamic Knowledge and Learning Model]] — 用于澄清学习结果概念的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累。
-- [[Teaching Theory of Gruschka]] — Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung 和 Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础
-
-## Learning Science Cognitive Science
-
-- [[Appraisal Theory]] — Frijda 提出的情绪理论，强调认知评估在情绪生成中的核心作用，将情绪过程分解为七个阶段，并认为文化参与每个阶段的调节
-- [[Attribution Theory]] — Weiner (1976) 提出的动机理论，以因果归因解释人们对成就结果的情感和行为反应，包括 locus、stability、control 三个维度
-- [[Hebbian Principles]] — Hebb 突触可塑性原则：经常使用的神经通路被加强，不常用的被移除，是突触修剪的理论基础
-- [[Miyake's Unity and Diversity Framework of Executive Function]] — Miyake (2000) 的 EF 统一性与多样性框架：抑制、转换、更新与监控三成分既相关又各具独特功能和发展轨迹
-- [[Neo-Piagetian Theories]] — 修正皮亚杰模型的新皮亚杰理论群：Pascual-Leone 的双层/M-power 模型、Case 的四子域模型、Fischer 的技能理论
-- [[Piaget's Theory of Cognitive Development]] — 皮亚杰的认知发展四阶段建构主义理论，区分感觉运动、前运算、具体运算和形式运算等发展阶段
-- [[Self-Worth Theory]] — Covington (1976) 提出的成就动机理论，认为人类将能力感知为自我价值，会采取各种策略保护自我价值免受失败威胁
-
-## Political Economy Geopolitics
-
-- [[Concealment-Exposure Framework]] — 用于分析隐藏与暴露边界如何被控制的框架，强调知识流动中可见性、遮蔽和暴露之间的权力关系。
-- [[Critical Geopolitics]] — 把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实
-- [[Cultural Political Economy]] — 把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造
-- [[Decolonial Geopolitics of Knowledge]] — 从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化
-- [[Fixity-Motion Tension]] — 解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论
-- [[Neo-feudalism in Higher Education]] — Schulze-Cleven et al. (2017) 引入的分析范式，主张当代学术等级通过忠诚联盟、群体特权和声望展示等封建式机制维持，市场化和竞争非但未消解等级反而将其固化为新封建秩序
-- [[Tullock's Bureaucracy Theory]] — 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
-
-## Psychology
-
-- [[Social Learning Theory]] — Bandura (1977) 提出的统一理论框架，以认知、行为和环境因素之间的持续交互来解释人类行为，强调替代性学习、象征过程和自我调节在行为获得与改变中的作用
-
-## Research Methodology
-
-- [[Campbellian Validity Framework]] — 围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界
-- [[Cartwright's Three-Stage Knowledge Framework]] — RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用
-- [[Potential Outcomes Framework]] — 因果推断的核心框架，通过比较同一主体在不同处理条件下的潜在结果来定义因果效应，并区分因果效应的定义与估计。
-- [[Sociology of Measurement]] — 将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。
-
-## Sociology of Education
-
-- [[Capability Approach]] — Drèze & Sen (2002) 的可行能力路径在教育中的应用：区分教育对个人自由的五种价值（内在重要性、工具性个人/社会/过程角色、赋权与分配），Boyadjieva (2022) 以此为基础构建高等教育多维使命模型
-- [[Cultural Models]] — 由文化历史过程形成的共享概念框架，塑造成员对思想、情感和行为的解释、预测与理解
-- [[Culture as Toolkit]] — 把文化理解为提供行动策略、习惯和可调用资源工具箱的文化社会学理论，强调人们并非只按抽象价值观行动
-- [[Dual Elite Career Paths]] — 解释后社会主义社会精英流动如何沿政治管理路径与专业技术路径分化展开的理论，用于分析教育、身份与职业机会的不同连接方式
-- [[Dual-Process Model of Culture in Action]] — 解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存
-- [[Rational Action Theory]] — 以相对风险规避解释不同阶层教育选择差异的教育分层理论，强调家庭背景如何通过成本、收益和风险判断影响升学决策
-- [[Refraction Framework]] — Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成
+> [!summary]- Sociology of Education (7)
+> - [[Capability Approach]] — Drèze & Sen (2002) 的可行能力路径在教育中的应用：区分教育对个人自由的五种价值（内在重要性、工具性个人/社会/过程角色、赋权与分配），Boyadjieva (2022) 以此为基础构建高等教育多维使命模型
+> - [[Cultural Models]] — 由文化历史过程形成的共享概念框架，塑造成员对思想、情感和行为的解释、预测与理解
+> - [[Culture as Toolkit]] — 把文化理解为提供行动策略、习惯和可调用资源工具箱的文化社会学理论，强调人们并非只按抽象价值观行动
+> - [[Dual Elite Career Paths]] — 解释后社会主义社会精英流动如何沿政治管理路径与专业技术路径分化展开的理论，用于分析教育、身份与职业机会的不同连接方式
+> - [[Dual-Process Model of Culture in Action]] — 解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存
+> - [[Rational Action Theory]] — 以相对风险规避解释不同阶层教育选择差异的教育分层理论，强调家庭背景如何通过成本、收益和风险判断影响升学决策
+> - [[Refraction Framework]] — Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成

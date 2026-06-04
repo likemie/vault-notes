@@ -6,374 +6,334 @@ Total entries: **208**
 
 ## Australia
 
-### Policy
-
-- [[Australian Curriculum]] — 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
-- [[Gonski Reforms]] — 2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于“不让任何学校更糟“条款
-- [[Independent Public Schools Western Australia]] — WA 州最激进的学校自主权改革，575 所学校转为 IPS 地位
-- [[Karmel Report]] — 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
-- [[Local Schools Local Decisions]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
-- [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
-- [[Victorian HITS and Literacy Toolkit]] — 维州教育部发布的高影响教学策略和识字工具包，以 Visible Learning 等证据综合为重要参考并引发证据基础争议
+> [!summary]- Policy (7)
+> - [[Australian Curriculum]] — 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
+> - [[Gonski Reforms]] — 2011/2018 两轮需求本位拨款改革，试图返回 Karmel 的公平原则但受制于“不让任何学校更糟“条款
+> - [[Independent Public Schools Western Australia]] — WA 州最激进的学校自主权改革，575 所学校转为 IPS 地位
+> - [[Karmel Report]] — 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
+> - [[Local Schools Local Decisions]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
+> - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
+> - [[Victorian HITS and Literacy Toolkit]] — 维州教育部发布的高影响教学策略和识字工具包，以 Visible Learning 等证据综合为重要参考并引发证据基础争议
 
 ## Belgium
 
-### Policy
-
-- [[French-Speaking Belgium Education System]] — 1988 年国家改革后拥有高度教育自治权的法语比利时教育系统，改革前具有早期分流、高留级率和强社会出身影响等特征。
-- [[Grade Retention in French-Speaking Belgium]] — 法语比利时长期频繁使用的学生留级实践，PISA 2015 显示 1 至 10 年级 46% 学生受影响，教育卓越公约仅提出到 2030 年减半。
-- [[Pact for Educational Excellence]] — 2015 年法语比利时启动的教育系统结构性改革，试图通过共同核心课程、降低留级、教师培养改革和证据本位项目验证回应绩效与公平问题。
+> [!summary]- Policy (3)
+> - [[French-Speaking Belgium Education System]] — 1988 年国家改革后拥有高度教育自治权的法语比利时教育系统，改革前具有早期分流、高留级率和强社会出身影响等特征。
+> - [[Grade Retention in French-Speaking Belgium]] — 法语比利时长期频繁使用的学生留级实践，PISA 2015 显示 1 至 10 年级 46% 学生受影响，教育卓越公约仅提出到 2030 年减半。
+> - [[Pact for Educational Excellence]] — 2015 年法语比利时启动的教育系统结构性改革，试图通过共同核心课程、降低留级、教师培养改革和证据本位项目验证回应绩效与公平问题。
 
 ## Brunei
 
-### Event
-
-- [[Jerudong International School Establishment]] — 1997年文莱在 Prince Jefri 支持下委托 Multi Serve 建立 Jerudong International School，该项目成为 Cognition 前身国际化扩张的重要起点
+> [!summary]- Event (1)
+> - [[Jerudong International School Establishment]] — 1997年文莱在 Prince Jefri 支持下委托 Multi Serve 建立 Jerudong International School，该项目成为 Cognition 前身国际化扩张的重要起点
 
 ## Canada
 
-### Event
-
-- [[Global Futures Framework (University of Waterloo)]] — 滑铁卢大学 2022 年发布的跨学科战略框架，以社会、健康、可持续、技术和经济五个相互关联的未来维度来聚焦和协调全校的教育、研究和创新活动
-- [[Inventor-Owned IP Policy (University of Waterloo)]] — 滑铁卢大学自 1959 年建校起实行的知识产权归属政策，将发明所有权归于发明人个人而非大学，成为吸引教师和推动地方经济发展的关键制度因素
-- [[Schlegel-UW Research Institute for Aging]] — 2005 年由滑铁卢大学与 Schlegel Villages 合作建立的大型跨学科产学合作研究机构，以共同选址、知识动员和临床即时反馈为核心运作模式，聚焦老龄化研究与技术创新
+> [!summary]- Event (3)
+> - [[Global Futures Framework (University of Waterloo)]] — 滑铁卢大学 2022 年发布的跨学科战略框架，以社会、健康、可持续、技术和经济五个相互关联的未来维度来聚焦和协调全校的教育、研究和创新活动
+> - [[Inventor-Owned IP Policy (University of Waterloo)]] — 滑铁卢大学自 1959 年建校起实行的知识产权归属政策，将发明所有权归于发明人个人而非大学，成为吸引教师和推动地方经济发展的关键制度因素
+> - [[Schlegel-UW Research Institute for Aging]] — 2005 年由滑铁卢大学与 Schlegel Villages 合作建立的大型跨学科产学合作研究机构，以共同选址、知识动员和临床即时反馈为核心运作模式，聚焦老龄化研究与技术创新
 
 ## China
 
-### Event
+> [!summary]- Event (11)
+> - [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
+> - [[China Social Credit System]] — 中国利用大数据和行政记录对公民、组织与市场主体行为进行评估和治理的制度体系
+> - [[Civil Service Examination]] — 中国自 7 世纪至 1905 年延续超过 1300 年的官员选拔制度，将道德成就、学术学习、政治权力和社会地位前所未有地融为一体
+> - [[Confucian Revival in China]] — 1980 年代末至今中共主导的儒家传统复兴运动，经历民间自发到国家收编的转变，服务于意识形态合法化和国族建构
+> - [[ECNU Declaration on Evidence-Based Research]] — 华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣言，提出 10 条措施推进中国教育实证研究，标志中国证据本位改革的制度化里程碑（Slavin et al., 2021）
+> - [[Great Firewall of China]] — 中国国家互联网审查系统，通过技术过滤、平台治理和制度监管控制跨境信息流动
+> - [[Late Qing Borrowing of Japanese Education]] — 甲午战败后清廷以日本为主要参照推进新式教育体系建设，1905 年废除科举，通过赴日留学、日本教习招聘和教科书编译在十年内建成第一套现代学制
+> - [[May Fourth Movement]] — 1919 年爆发的中国学生与知识分子政治运动，使新文化运动从文化思想层面获得政治维度，推动知识界转向以政治革命实现国家重建，并激发教育界将激进教育改革与社会政治变革诉求相结合
+> - [[New Culture Movement]] — 1910 年代中后期以民主和科学为口号的中国思想文化运动，批判儒家传统并推动政治、经济、教育领域的全面改革，为新教育运动提供了文化与意识形态框架，1919 年经五四运动获得政治维度
+> - [[New Education Movement]] — 1915–1925 年间中国以儿童中心教学法和民主教育为核心的教育改革运动，以《新教育》杂志为阵地，在杜威访华期间达到鼎盛，后随1923年后的科学态度转向而衰落
+> - [[Thousand Talents Program]] — 中国海外高层次人才引进计划，被美方视为制度化知识盗窃机制，中美技术紧张焦点
 
-- [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
-- [[China Social Credit System]] — 中国利用大数据和行政记录对公民、组织与市场主体行为进行评估和治理的制度体系
-- [[Civil Service Examination]] — 中国自 7 世纪至 1905 年延续超过 1300 年的官员选拔制度，将道德成就、学术学习、政治权力和社会地位前所未有地融为一体
-- [[Confucian Revival in China]] — 1980 年代末至今中共主导的儒家传统复兴运动，经历民间自发到国家收编的转变，服务于意识形态合法化和国族建构
-- [[ECNU Declaration on Evidence-Based Research]] — 华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣言，提出 10 条措施推进中国教育实证研究，标志中国证据本位改革的制度化里程碑（Slavin et al., 2021）
-- [[Great Firewall of China]] — 中国国家互联网审查系统，通过技术过滤、平台治理和制度监管控制跨境信息流动
-- [[Late Qing Borrowing of Japanese Education]] — 甲午战败后清廷以日本为主要参照推进新式教育体系建设，1905 年废除科举，通过赴日留学、日本教习招聘和教科书编译在十年内建成第一套现代学制
-- [[May Fourth Movement]] — 1919 年爆发的中国学生与知识分子政治运动，使新文化运动从文化思想层面获得政治维度，推动知识界转向以政治革命实现国家重建，并激发教育界将激进教育改革与社会政治变革诉求相结合
-- [[New Culture Movement]] — 1910 年代中后期以民主和科学为口号的中国思想文化运动，批判儒家传统并推动政治、经济、教育领域的全面改革，为新教育运动提供了文化与意识形态框架，1919 年经五四运动获得政治维度
-- [[New Education Movement]] — 1915–1925 年间中国以儿童中心教学法和民主教育为核心的教育改革运动，以《新教育》杂志为阵地，在杜威访华期间达到鼎盛，后随1923年后的科学态度转向而衰落
-- [[Thousand Talents Program]] — 中国海外高层次人才引进计划，被美方视为制度化知识盗窃机制，中美技术紧张焦点
+> [!summary]- Phenomenon (1)
+> - [[Peidu]] — 中国农村家庭为子女选择城镇学校而迁入县城或乡镇陪读的做法，本质上是一种择校迁移行为，按家庭社会经济地位呈现分层，中上层迁出加速了农村学校的衰败
 
-### Phenomenon
-
-- [[Peidu]] — 中国农村家庭为子女选择城镇学校而迁入县城或乡镇陪读的做法，本质上是一种择校迁移行为，按家庭社会经济地位呈现分层，中上层迁出加速了农村学校的衰败
-
-### Policy
-
-- [[1904 Educational System]] — 1904 年清政府颁布的中国第一个现代国家学制，以日本学制为蓝本并受德国模式影响，涵盖幼儿园至高等教育，引入现代课程体系以培养合格国民、实现国家富强与抵御外侮
-- [[1922 Educational System Reform]] — 1922 年由中华民国教育部颁布的学制改革，以七项灵活标准取代固定教育宗旨，引入美国式六-三-三学制与1923年学分制课程，深受杜威思想影响但在实施中淡化民主政治内涵
-- [[1999 Reform of Research Institutes]] — 1999年中国启动的重大科研体制改革，将原国家经贸委管理的10个国家局所属的242个应用型科研院所进行系统性改制，推动科研机构融入市场经济。
-- [[2014 Hukou Reform]] — 2014 年国务院发布户籍制度改革意见，允许迁移人口在除少数特大城市外的城镇获得当地户口，以推进新型城镇化，直接改变了农村人口的教育可及性格局
-- [[2020 Inner Mongolia Bilingual Education Reform]] — 2020 年内蒙古将少数民族学校教学语言从蒙古语改为普通话，引发大规模抗议和11 起蒙古族自杀事件
-- [[China Basic Education Curriculum Reform]] — 教育部发布基础教育课程改革纲要（试行），从“双基“转向“素质教育“、从教师中心转向学生中心教学，在大城市和偏远地区均深入推进
-- [[China College Graduate Employment Reform]] — 从统包统分到双向选择的高校毕业生就业市场化改革，1986 提出→1989 批准→1994 并轨试点→1997 全国实施
-- [[Hukou System]] — 中国 1950 年代建立的户籍制度，长期限制城乡迁移并隔离就业、福利与教育机会，2014 年改革后大城市保留积分制门槛、小城市降低准入，使身份歧视逐步被市场性阶级歧视替代
-- [[Jiebang Guashuai]] — 一种科技项目组织管理机制，即“把需要的关键核心技术项目张出榜来，英雄不论出处，谁有本事谁就揭榜”，打破了传统的科研项目申报和审批限制。
-- [[Recommendation-Based Graduate Admission System]] — 1980s 中期至今的推免研究生制度，以累积学分和综合表现为依据免试直升，并对不同阶层学生提出不同隐性要求
-- [[Rural School Consolidation]] — 2000 年起中国大规模关闭合并农村小学的政策，至 2022 年农村小学数量减少 83%，由早期资源效率考量逐步转变为将农村人口导入城镇的城镇化策略
-- [[Shenzhen Four 90 Percent Innovation Pattern]] — 深圳市科技创新形成的一种典型格局，即90%以上的研发人员集中在企业、90%以上的研发资金来源于企业、90%以上的研发机构设立在企业、90%以上的职务发明专利出自企业。
-- [[Three Excellences]] — 中国学校年度评选的模范学生荣誉，以品德、学业、艺术/体育三方面卓越表现为标准，通过师生提名投票产生，用于为全体学生树立学习榜样
-- [[Xi'an Three Reforms on Sci-Tech Achievements]] — 西安市为破解高校和科研院所科技成果“不敢转”“缺钱转”难题而推进的科技体制改革，核心包括职务科技成果单列管理、技术转移人才评价制度、横向科研项目结余经费出资。
-- [[Xinjiang Vocational Education and Training Centers]] — 2014 年新疆启动的大规模拘留设施体系，关押约百万维吾尔和其他穆斯林少数民族，强制学习普通话和儒家经典，西方定性为再教育营
+> [!summary]- Policy (15)
+> - [[1904 Educational System]] — 1904 年清政府颁布的中国第一个现代国家学制，以日本学制为蓝本并受德国模式影响，涵盖幼儿园至高等教育，引入现代课程体系以培养合格国民、实现国家富强与抵御外侮
+> - [[1922 Educational System Reform]] — 1922 年由中华民国教育部颁布的学制改革，以七项灵活标准取代固定教育宗旨，引入美国式六-三-三学制与1923年学分制课程，深受杜威思想影响但在实施中淡化民主政治内涵
+> - [[1999 Reform of Research Institutes]] — 1999年中国启动的重大科研体制改革，将原国家经贸委管理的10个国家局所属的242个应用型科研院所进行系统性改制，推动科研机构融入市场经济。
+> - [[2014 Hukou Reform]] — 2014 年国务院发布户籍制度改革意见，允许迁移人口在除少数特大城市外的城镇获得当地户口，以推进新型城镇化，直接改变了农村人口的教育可及性格局
+> - [[2020 Inner Mongolia Bilingual Education Reform]] — 2020 年内蒙古将少数民族学校教学语言从蒙古语改为普通话，引发大规模抗议和11 起蒙古族自杀事件
+> - [[China Basic Education Curriculum Reform]] — 教育部发布基础教育课程改革纲要（试行），从“双基“转向“素质教育“、从教师中心转向学生中心教学，在大城市和偏远地区均深入推进
+> - [[China College Graduate Employment Reform]] — 从统包统分到双向选择的高校毕业生就业市场化改革，1986 提出→1989 批准→1994 并轨试点→1997 全国实施
+> - [[Hukou System]] — 中国 1950 年代建立的户籍制度，长期限制城乡迁移并隔离就业、福利与教育机会，2014 年改革后大城市保留积分制门槛、小城市降低准入，使身份歧视逐步被市场性阶级歧视替代
+> - [[Jiebang Guashuai]] — 一种科技项目组织管理机制，即“把需要的关键核心技术项目张出榜来，英雄不论出处，谁有本事谁就揭榜”，打破了传统的科研项目申报和审批限制。
+> - [[Recommendation-Based Graduate Admission System]] — 1980s 中期至今的推免研究生制度，以累积学分和综合表现为依据免试直升，并对不同阶层学生提出不同隐性要求
+> - [[Rural School Consolidation]] — 2000 年起中国大规模关闭合并农村小学的政策，至 2022 年农村小学数量减少 83%，由早期资源效率考量逐步转变为将农村人口导入城镇的城镇化策略
+> - [[Shenzhen Four 90 Percent Innovation Pattern]] — 深圳市科技创新形成的一种典型格局，即90%以上的研发人员集中在企业、90%以上的研发资金来源于企业、90%以上的研发机构设立在企业、90%以上的职务发明专利出自企业。
+> - [[Three Excellences]] — 中国学校年度评选的模范学生荣誉，以品德、学业、艺术/体育三方面卓越表现为标准，通过师生提名投票产生，用于为全体学生树立学习榜样
+> - [[Xi'an Three Reforms on Sci-Tech Achievements]] — 西安市为破解高校和科研院所科技成果“不敢转”“缺钱转”难题而推进的科技体制改革，核心包括职务科技成果单列管理、技术转移人才评价制度、横向科研项目结余经费出资。
+> - [[Xinjiang Vocational Education and Training Centers]] — 2014 年新疆启动的大规模拘留设施体系，关押约百万维吾尔和其他穆斯林少数民族，强制学习普通话和儒家经典，西方定性为再教育营
 
 ## Denmark
 
-### Event
+> [!summary]- Event (2)
+> - [[Hattie på dansk]] — 2017 年丹麦出版的 Visible Learning 批评文集，汇集多篇强烈反对 Hattie 的文章，成为丹麦 VL 争议制度化扩散的重要节点
+> - [[SFI Report]] — Winther & Nielsen 编辑的丹麦 SFI 报告，是检验 Hattie/Meyer/Helmke 有效教学综合丹麦适用性的主要本土证据
 
-- [[Hattie på dansk]] — 2017 年丹麦出版的 Visible Learning 批评文集，汇集多篇强烈反对 Hattie 的文章，成为丹麦 VL 争议制度化扩散的重要节点
-- [[SFI Report]] — Winther & Nielsen 编辑的丹麦 SFI 报告，是检验 Hattie/Meyer/Helmke 有效教学综合丹麦适用性的主要本土证据
-
-### Policy
-
-- [[Danish Clearinghouse for Educational Research]] — 2006年奥胡斯大学建立的欧洲大陆早期证据本位教育中心，通过系统综述为丹麦学校实践者提供研究证据。
-- [[Danish Public School Reform]] — 丹麦议会多数通过公立学校改革，以学习目标替代科目目标，明确引用 Hattie VL，引发教师和研究者的强烈反对
+> [!summary]- Policy (2)
+> - [[Danish Clearinghouse for Educational Research]] — 2006年奥胡斯大学建立的欧洲大陆早期证据本位教育中心，通过系统综述为丹麦学校实践者提供研究证据。
+> - [[Danish Public School Reform]] — 丹麦议会多数通过公立学校改革，以学习目标替代科目目标，明确引用 Hattie VL，引发教师和研究者的强烈反对
 
 ## Eu
 
-### Event
+> [!summary]- Event (1)
+> - [[YOUNG_ADULLLT]] — EU Horizon 2020 研究项目（Grant No 693167），9 国 16 区 168 名专家访谈，考察终身学习政策区域治理
 
-- [[YOUNG_ADULLLT]] — EU Horizon 2020 研究项目（Grant No 693167），9 国 16 区 168 名专家访谈，考察终身学习政策区域治理
-
-### Policy
-
-- [[EU Evidence-Informed Education Policy Initiatives]] — 2006年以来欧盟通过评价文化、知识中介网络和Eurydice支持机制推动成员国在教育决策中使用证据，但主要以指导和协调为主而非强制统一政策。
-- [[EU Key Competences for Lifelong Learning]] — 2018年欧盟理事会修订的终身学习关键能力框架，将能力定义为知识、技能和态度的动态组合，并提出八项关键能力及其评估挑战。
-- [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，并在欧盟各地呈现差异化实施路径
-- [[Europe 2020 Strategy]] — EU 2010–2020 十年战略规划，以“智能、可持续与包容性增长“为框架，涵盖就业、研发、气候、教育、减贫五大领域
-- [[Horizon 2020 SSH Integration]] — EU 2014–2020 年研究框架取消社会科学与人文学科独立资助渠道，作为横向议题嵌入所有优先领域
-- [[Horizon Europe Missions]] — EU 2021–2027 年研究与创新框架的核心机制，将研究整合为五大社会挑战的使命承诺
-- [[Innovation Union]] — EU 2010–2020 旗舰政策，旨在构建区域创新生态体系，以 EUROSTAT 区域创新记分牌为核心监测工具
-- [[Youth Guarantee Scheme]] — EU 2013 年理事会建议书，确保青年在离校或失业后 4 个月内获得就业、教育、培训或学徒机会
+> [!summary]- Policy (8)
+> - [[EU Evidence-Informed Education Policy Initiatives]] — 2006年以来欧盟通过评价文化、知识中介网络和Eurydice支持机制推动成员国在教育决策中使用证据，但主要以指导和协调为主而非强制统一政策。
+> - [[EU Key Competences for Lifelong Learning]] — 2018年欧盟理事会修订的终身学习关键能力框架，将能力定义为知识、技能和态度的动态组合，并提出八项关键能力及其评估挑战。
+> - [[EU Skills Agenda]] — EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，并在欧盟各地呈现差异化实施路径
+> - [[Europe 2020 Strategy]] — EU 2010–2020 十年战略规划，以“智能、可持续与包容性增长“为框架，涵盖就业、研发、气候、教育、减贫五大领域
+> - [[Horizon 2020 SSH Integration]] — EU 2014–2020 年研究框架取消社会科学与人文学科独立资助渠道，作为横向议题嵌入所有优先领域
+> - [[Horizon Europe Missions]] — EU 2021–2027 年研究与创新框架的核心机制，将研究整合为五大社会挑战的使命承诺
+> - [[Innovation Union]] — EU 2010–2020 旗舰政策，旨在构建区域创新生态体系，以 EUROSTAT 区域创新记分牌为核心监测工具
+> - [[Youth Guarantee Scheme]] — EU 2013 年理事会建议书，确保青年在离校或失业后 4 个月内获得就业、教育、培训或学徒机会
 
 ## Finland
 
-### Event
+> [!summary]- Event (1)
+> - [[SveaSus Project]] — 赫尔辛基大学 2018–2023 年现象本位学习项目，以 Suomenlinna 世界遗产地为学习环境探索可持续性、具身、艺术本位和多语学习
 
-- [[SveaSus Project]] — 赫尔辛基大学 2018–2023 年现象本位学习项目，以 Suomenlinna 世界遗产地为学习环境探索可持续性、具身、艺术本位和多语学习
-
-### Policy
-
-- [[Finnish National Core Curriculum]] — 芬兰基础教育国家核心课程，将跨学科与现象本位学习纳入课程框架，但仍保留传统学科结构
+> [!summary]- Policy (1)
+> - [[Finnish National Core Curriculum]] — 芬兰基础教育国家核心课程，将跨学科与现象本位学习纳入课程框架，但仍保留传统学科结构
 
 ## France
 
-### Event
+> [!summary]- Event (1)
+> - [[CNRS]] — 1939 年成立的法国国家级公共科研机构，其研究人员为终身制公务员并享有独立于大学的拨款渠道，与英美以项目竞争和评估驱动的研究治理模式形成制度替代路径
 
-- [[CNRS]] — 1939 年成立的法国国家级公共科研机构，其研究人员为终身制公务员并享有独立于大学的拨款渠道，与英美以项目竞争和评估驱动的研究治理模式形成制度替代路径
-
-### Policy
-
-- [[French Class Size Reduction]] — 2017年法国教育部在弱势地区将一二年级班额从24人降至12人以缩小成就差距，因效果证据较弱而成为证据知情政策的争议案例。
+> [!summary]- Policy (1)
+> - [[French Class Size Reduction]] — 2017年法国教育部在弱势地区将一二年级班额从24人降至12人以缩小成就差距，因效果证据较弱而成为证据知情政策的争议案例。
 
 ## Germany
 
-### Event
-
-- [[Excellence Initiative (Germany)]] — 2005–2017 年德国联邦与州政府联合实施的竞争性资助计划，通过评选少数卓越大学并提供巨额额外拨款，制造了比全覆盖式评估更陡峭的高等教育等级结构
+> [!summary]- Event (1)
+> - [[Excellence Initiative (Germany)]] — 2005–2017 年德国联邦与州政府联合实施的竞争性资助计划，通过评选少数卓越大学并提供巨额额外拨款，制造了比全覆盖式评估更陡峭的高等教育等级结构
 
 ## Global
 
-### Event
+> [!summary]- Event (11)
+> - [[Education at a Glance]] — OECD 年度旗舰出版物，以 30 项国际教育指标描述各国教育系统，涵盖产出、投入、参与、环境四大维度
+> - [[Education City Doha]] — 卡塔尔首都多哈的多大学海外分校集中园区：康奈尔医学院、乔治城、卡内基梅隆等，标志大学全球化的新阶段
+> - [[INES Lugano General Assembly 1991]] — INES 第二届全体大会，科学家-政策制定者权力关系的分水岭：政策制定者强行将学生成绩数据纳入 EAG
+> - [[International Baccalaureate]] — 覆盖 3–19 岁的国际课程体系（PYP/MYP/DP），709K 学生 2,609 学校 135 国(2009)；六学科组+TOK+EE+CAS；主张意识形态中立但被质疑西方根源
+> - [[International Indicators of Education Systems]] — 1988 年 OECD 启动的国际教育指标开发项目，EAG 的前身和生产者
+> - [[ISSPP Project]] — Christopher Day 领导、自 2002 年起 20+ 国参与的国际成功学校校长项目，最全面的跨国学校领导力案例研究，Møller 以亲历者立场提出方法论反思
+> - [[Minerva University]] — 2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标
+> - [[Mixed Methods International Research Association]] — 2014 年成立的混合方法研究国际学术组织，随后在多个国家扩展分会、附属团体和区域会议，标志着混合方法研究作为独立方法论在国际层面的制度化
+> - [[OECD AHELO Project]] — OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败
+> - [[PISA]] — OECD 2000 年启动的跨国学生评估项目，通过比较 15 岁学生阅读、数学与科学素养，持续塑造各国对成绩危机、改革压力与政策优先事项的理解。
+> - [[Regional University Alliances]] — 跨国或区域性大学联盟，通过科研合作、师生流动和联合学位等机制构成多层级高等教育空间中的制度行动者
 
-- [[Education at a Glance]] — OECD 年度旗舰出版物，以 30 项国际教育指标描述各国教育系统，涵盖产出、投入、参与、环境四大维度
-- [[Education City Doha]] — 卡塔尔首都多哈的多大学海外分校集中园区：康奈尔医学院、乔治城、卡内基梅隆等，标志大学全球化的新阶段
-- [[INES Lugano General Assembly 1991]] — INES 第二届全体大会，科学家-政策制定者权力关系的分水岭：政策制定者强行将学生成绩数据纳入 EAG
-- [[International Baccalaureate]] — 覆盖 3–19 岁的国际课程体系（PYP/MYP/DP），709K 学生 2,609 学校 135 国(2009)；六学科组+TOK+EE+CAS；主张意识形态中立但被质疑西方根源
-- [[International Indicators of Education Systems]] — 1988 年 OECD 启动的国际教育指标开发项目，EAG 的前身和生产者
-- [[ISSPP Project]] — Christopher Day 领导、自 2002 年起 20+ 国参与的国际成功学校校长项目，最全面的跨国学校领导力案例研究，Møller 以亲历者立场提出方法论反思
-- [[Minerva University]] — 2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标
-- [[Mixed Methods International Research Association]] — 2014 年成立的混合方法研究国际学术组织，随后在多个国家扩展分会、附属团体和区域会议，标志着混合方法研究作为独立方法论在国际层面的制度化
-- [[OECD AHELO Project]] — OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败
-- [[PISA]] — OECD 2000 年启动的跨国学生评估项目，通过比较 15 岁学生阅读、数学与科学素养，持续塑造各国对成绩危机、改革压力与政策优先事项的理解。
-- [[Regional University Alliances]] — 跨国或区域性大学联盟，通过科研合作、师生流动和联合学位等机制构成多层级高等教育空间中的制度行动者
+> [!summary]- Organization (3)
+> - [[African Orphan Crops Consortium]] — 2011 年由 Mars、非盟 NEPAD、WWF 和 UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家
+> - [[Network of Academic Corporate Relations Officers]] — 由大学企业关系专业人员组成的行业组织，通过发布白皮书和立场文件推动产学合作最佳实践，2011 年提出二十世纪大学企业关系项目的五项基本要素
+> - [[University Industry Innovation Network]] — 致力于推动产学创新合作的国际网络组织，出版 University Industry Innovation Magazine，2021 年战略伙伴关系特刊总结了产学战略联盟的核心特征
 
-### Organization
-
-- [[African Orphan Crops Consortium]] — 2011 年由 Mars、非盟 NEPAD、WWF 和 UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家
-- [[Network of Academic Corporate Relations Officers]] — 由大学企业关系专业人员组成的行业组织，通过发布白皮书和立场文件推动产学合作最佳实践，2011 年提出二十世纪大学企业关系项目的五项基本要素
-- [[University Industry Innovation Network]] — 致力于推动产学创新合作的国际网络组织，出版 University Industry Innovation Magazine，2021 年战略伙伴关系特刊总结了产学战略联盟的核心特征
-
-### Policy
-
-- [[Australia in the Asian Century White Paper]] — 澳大利亚 Henry Report：将亚洲崛起定位为“澳大利亚的机遇“，推动 AISRF、ACSRF 等与亚洲的研究合作
-- [[Campbell Collaboration]] — 2000年成立的社会科学系统综述组织，2007年将国际总部迁至挪威，通过综述社会、经济和教育干预研究支持证据本位政策与实践。
-- [[GATS and Trade in Education Services]] — WTO 服务贸易总协定框架下将高等教育纳入服务贸易的制度安排，推动教育服务商品化和跨境市场开放
-- [[ICMJE Data Sharing Requirements 2018]] — 2018 年国际医学期刊编辑委员会生效的两项发表前置要求，临床试验须在首例受试者入组时或之前完成公共注册、稿件须包含数据共享声明，是产学合作中临床研究数据条款的重要制度约束
-- [[Nagoya Protocol]] — 2014 年生效的国际条约，旨在促进遗传资源利用所产生的惠益与资源来源国之间的公平公正分享，对跨国生物研究合作中的样本采集和知识产权安排构成直接约束
-- [[OECD Improving School Leadership Project]] — OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
-- [[THE Impact Ranking]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
-- [[UN Sustainable Development Goals]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的新型第三使命
+> [!summary]- Policy (8)
+> - [[Australia in the Asian Century White Paper]] — 澳大利亚 Henry Report：将亚洲崛起定位为“澳大利亚的机遇“，推动 AISRF、ACSRF 等与亚洲的研究合作
+> - [[Campbell Collaboration]] — 2000年成立的社会科学系统综述组织，2007年将国际总部迁至挪威，通过综述社会、经济和教育干预研究支持证据本位政策与实践。
+> - [[GATS and Trade in Education Services]] — WTO 服务贸易总协定框架下将高等教育纳入服务贸易的制度安排，推动教育服务商品化和跨境市场开放
+> - [[ICMJE Data Sharing Requirements 2018]] — 2018 年国际医学期刊编辑委员会生效的两项发表前置要求，临床试验须在首例受试者入组时或之前完成公共注册、稿件须包含数据共享声明，是产学合作中临床研究数据条款的重要制度约束
+> - [[Nagoya Protocol]] — 2014 年生效的国际条约，旨在促进遗传资源利用所产生的惠益与资源来源国之间的公平公正分享，对跨国生物研究合作中的样本采集和知识产权安排构成直接约束
+> - [[OECD Improving School Leadership Project]] — OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
+> - [[THE Impact Ranking]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
+> - [[UN Sustainable Development Goals]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的新型第三使命
 
 ## Hongkong
 
-### Event
+> [!summary]- Event (5)
+> - [[2012 Moral and National Education Controversy]] — 2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点
+> - [[2019 Hong Kong Protests]] — 2019 年因逃犯条例修订草案引发的大规模抗议，被定性为国家安全 crisis 后触发中国历史课程改革加速和通识教育科废除，重塑了香港教育的治理模式
+> - [[English Schools Foundation Hong Kong]] — 香港最大英语学校体系，从英国国民学校（限 10% 本地华人）转型为 40%–50% 本地华人学生，改变了学生认同与语言课程
+> - [[National Security Law]] — 2020 年颁布的香港国安法，为强制国民教育提供法律框架，关闭公民社会协商空间，实现教育决策从协商式到命令式的转变
+> - [[Symposium on International Teaching]] — 2007 年 3 月 21 日香港大学文学院主办的学术会议，促进中小学与大学教育者关于中国学习者的对话，直接催生了 Ryan & Slethaug (2010) 论文集
 
-- [[2012 Moral and National Education Controversy]] — 2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点
-- [[2019 Hong Kong Protests]] — 2019 年因逃犯条例修订草案引发的大规模抗议，被定性为国家安全 crisis 后触发中国历史课程改革加速和通识教育科废除，重塑了香港教育的治理模式
-- [[English Schools Foundation Hong Kong]] — 香港最大英语学校体系，从英国国民学校（限 10% 本地华人）转型为 40%–50% 本地华人学生，改变了学生认同与语言课程
-- [[National Security Law]] — 2020 年颁布的香港国安法，为强制国民教育提供法律框架，关闭公民社会协商空间，实现教育决策从协商式到命令式的转变
-- [[Symposium on International Teaching]] — 2007 年 3 月 21 日香港大学文学院主办的学术会议，促进中小学与大学教育者关于中国学习者的对话，直接催生了 Ryan & Slethaug (2010) 论文集
-
-### Policy
-
-- [[Citizenship and Social Development]] — 2021 年取代通识教育科的香港高中必修科，课程核心从批判性思维转向爱国主义与国家安全
-- [[Liberal Studies]] — 2009–2021 年香港高中必修的通识教育科，跨学科议题为本探究，2021 年被公民科取代
-- [[My Pledge to Act]] — 2019–2022 年香港教育局推行的校本奖励计划，要求学生快乐和感恩，是青年不满心理化治理的课外工具
-- [[National Education]] — 培养香港青少年对中华人民共和国的国家认同与爱国情感的教育实践，在国安法后成为课程核心
-- [[Youth Development Blueprint]] — 2022 年 12 月港府发布的青年政策文件，以探索、希望、赋能、贡献为主题，将青年问题框架化为培养积极思维
+> [!summary]- Policy (5)
+> - [[Citizenship and Social Development]] — 2021 年取代通识教育科的香港高中必修科，课程核心从批判性思维转向爱国主义与国家安全
+> - [[Liberal Studies]] — 2009–2021 年香港高中必修的通识教育科，跨学科议题为本探究，2021 年被公民科取代
+> - [[My Pledge to Act]] — 2019–2022 年香港教育局推行的校本奖励计划，要求学生快乐和感恩，是青年不满心理化治理的课外工具
+> - [[National Education]] — 培养香港青少年对中华人民共和国的国家认同与爱国情感的教育实践，在国安法后成为课程核心
+> - [[Youth Development Blueprint]] — 2022 年 12 月港府发布的青年政策文件，以探索、希望、赋能、贡献为主题，将青年问题框架化为培养积极思维
 
 ## Italy
 
-### Policy
-
-- [[Azione LIM]] — 2008年意大利教育部推动的互动白板采购与教师培训政策，向学校提供35114块互动白板但被用作证据不足的教育技术投入案例。
+> [!summary]- Policy (1)
+> - [[Azione LIM]] — 2008年意大利教育部推动的互动白板采购与教师培训政策，向学校提供35114块互动白板但被用作证据不足的教育技术投入案例。
 
 ## Japan
 
-### Event
+> [!summary]- Event (1)
+> - [[Kokutai no Hongi]] — 日本文部省思想局编写的皇国思想教育文本，曾在殖民地强制教学，是国家主导知识转移的历史案例
 
-- [[Kokutai no Hongi]] — 日本文部省思想局编写的皇国思想教育文本，曾在殖民地强制教学，是国家主导知识转移的历史案例
-
-### Policy
-
-- [[Tsukuba Science City]] — 日本的“技术城市”计划代表，通过聚集国家级科研机构、高校和企业，形成了政府、产业界和学术界深度合作的开放式创新生态系统。
+> [!summary]- Policy (1)
+> - [[Tsukuba Science City]] — 日本的“技术城市”计划代表，通过聚集国家级科研机构、高校和企业，形成了政府、产业界和学术界深度合作的开放式创新生态系统。
 
 ## Multi-country
 
-### Event
+> [!summary]- Event (5)
+> - [[American Society for Cultural Relations with Russia]] — 1927年前后在美成立的民间文化交流组织，John Dewey 任副主席，以书籍期刊交换为核心活动，1928年组织了 Dewey 等25名美国教育者的访苏之行，后被反共势力指控为共产党的外围宣传组织
+> - [[Cram Schools]] — 东亚社会广泛存在的校外付费学业补习机构，在台湾、日本、韩国、香港、中国、新加坡和越南普遍存在
+> - [[John Dewey's 1928 Visit to the Soviet Union]] — 1928 年 7–8 月 John Dewey 率美国教育者代表团访问苏联，会见了 Shatskii、Lunacharsky 等苏联教育改革者，访问由 ASCRR 与 VOKS 组织，推动了两国在教育领域的直接交流，同时引发美国国务院的监控和反共舆论的指责
+> - [[Sino-American Trade War]] — 中美围绕贸易、技术转移、产业政策和国家安全展开的持续性经济与地缘政治争端
+> - [[Transnationalism and America Project SYSU]] — 岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍
 
-- [[American Society for Cultural Relations with Russia]] — 1927年前后在美成立的民间文化交流组织，John Dewey 任副主席，以书籍期刊交换为核心活动，1928年组织了 Dewey 等25名美国教育者的访苏之行，后被反共势力指控为共产党的外围宣传组织
-- [[Cram Schools]] — 东亚社会广泛存在的校外付费学业补习机构，在台湾、日本、韩国、香港、中国、新加坡和越南普遍存在
-- [[John Dewey's 1928 Visit to the Soviet Union]] — 1928 年 7–8 月 John Dewey 率美国教育者代表团访问苏联，会见了 Shatskii、Lunacharsky 等苏联教育改革者，访问由 ASCRR 与 VOKS 组织，推动了两国在教育领域的直接交流，同时引发美国国务院的监控和反共舆论的指责
-- [[Sino-American Trade War]] — 中美围绕贸易、技术转移、产业政策和国家安全展开的持续性经济与地缘政治争端
-- [[Transnationalism and America Project SYSU]] — 岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍
-
-### Policy
-
-- [[Best Evidence in Brief]] — Johns Hopkins University 与约克大学创建的全球证据传播网络（每两周简报），扩展至 NNU 中国大陆中文版和 CUHK 海外华人版（Slavin et al., 2021）
+> [!summary]- Policy (1)
+> - [[Best Evidence in Brief]] — Johns Hopkins University 与约克大学创建的全球证据传播网络（每两周简报），扩展至 NNU 中国大陆中文版和 CUHK 海外华人版（Slavin et al., 2021）
 
 ## Netherlands
 
-### Policy
-
-- [[Top Institute for Evidence-Based Education Research]] — 2008年荷兰多校合作建立的跨大学研究所，通过实验评价、元分析、知识传播和教师学院连接教育研究、政策与学校实践。
+> [!summary]- Policy (1)
+> - [[Top Institute for Evidence-Based Education Research]] — 2008年荷兰多校合作建立的跨大学研究所，通过实验评价、元分析、知识传播和教师学院连接教育研究、政策与学校实践。
 
 ## Newzealand
 
-### Event
+> [!summary]- Event (6)
+> - [[Cognition Education]] — 1989 年新西兰学校改革催生的教育服务组织 从 Multi Serve 转型为 Cognition Education 通过国际咨询与 Visible Learningplus 扩张 并长期处于慈善使命与营利结构张力之中
+> - [[Manaiakalani Education Trust]] — 2011 年成立的 Tamaki 社区数字学习慈善信托，从 EHSAS/ICT 集群起步，获 NEXT Foundation 资助全国规模化推广 Outreach 项目
+> - [[Partnership Schools Kura Hourua]] — 新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动
+> - [[Teach First New Zealand]] — 2011 年启动的高成就毕业生就业型初级教师教育慈善信托，7% 接受率，与 Teach for All 全球网络和奥克兰大学合作运营
+> - [[Treasury Briefing on Student-Teacher Ratios]] — 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O’Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
+> - [[Visible Learning Branding and Global Influences]] — Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议
 
-- [[Cognition Education]] — 1989 年新西兰学校改革催生的教育服务组织 从 Multi Serve 转型为 Cognition Education 通过国际咨询与 Visible Learningplus 扩张 并长期处于慈善使命与营利结构张力之中
-- [[Manaiakalani Education Trust]] — 2011 年成立的 Tamaki 社区数字学习慈善信托，从 EHSAS/ICT 集群起步，获 NEXT Foundation 资助全国规模化推广 Outreach 项目
-- [[Partnership Schools Kura Hourua]] — 新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动
-- [[Teach First New Zealand]] — 2011 年启动的高成就毕业生就业型初级教师教育慈善信托，7% 接受率，与 Teach for All 全球网络和奥克兰大学合作运营
-- [[Treasury Briefing on Student-Teacher Ratios]] — 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O’Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
-- [[Visible Learning Branding and Global Influences]] — Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议
-
-### Policy
-
-- [[Contestable School Support Services]] — 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M
-- [[Foundation North Māori and Pasifika Education Initiative]] — Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社区提案驱动和网络识别两阶段模式改善 Māori 和 Pasifika 学生教育成果
-- [[Learning for Life Report]] — Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald Grace 提议的“critic and conscience of society“作为大学的定义特征，后被写入新西兰法律
-- [[New Zealand National Standards]] — 国家党联合政府推行的国家教育标准政策，Hattie 参与技术顾问和部长顾问组，引发激烈争议
-- [[The New Zealand Curriculum]] — 2010 年实施的 NZ 国家课程，包含八项原则（高期望、学会学习、未来焦点），允许各校设计独特学习项目，ERO 定期评估
-- [[The Scott Report]] — 新西兰议会教育与科学选择委员会发布的教学质量调查报告，主张迫切需要教师表现测量但承认过程将“漫长而复杂“，建议设立大学研究单位开发可靠工具——从未落实
-- [[Tomorrow's Schools Reforms]] — 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
+> [!summary]- Policy (7)
+> - [[Contestable School Support Services]] — 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M
+> - [[Foundation North Māori and Pasifika Education Initiative]] — Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社区提案驱动和网络识别两阶段模式改善 Māori 和 Pasifika 学生教育成果
+> - [[Learning for Life Report]] — Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald Grace 提议的“critic and conscience of society“作为大学的定义特征，后被写入新西兰法律
+> - [[New Zealand National Standards]] — 国家党联合政府推行的国家教育标准政策，Hattie 参与技术顾问和部长顾问组，引发激烈争议
+> - [[The New Zealand Curriculum]] — 2010 年实施的 NZ 国家课程，包含八项原则（高期望、学会学习、未来焦点），允许各校设计独特学习项目，ERO 定期评估
+> - [[The Scott Report]] — 新西兰议会教育与科学选择委员会发布的教学质量调查报告，主张迫切需要教师表现测量但承认过程将“漫长而复杂“，建议设立大学研究单位开发可靠工具——从未落实
+> - [[Tomorrow's Schools Reforms]] — 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
 
 ## Russia
 
-### Event
-
-- [[Russian Translation of Visible Learning]] — Hattie Visible Learning 的俄文译本出版事件，引发俄语教育学界围绕可见学习方法论和本土适用性的讨论
+> [!summary]- Event (1)
+> - [[Russian Translation of Visible Learning]] — Hattie Visible Learning 的俄文译本出版事件，引发俄语教育学界围绕可见学习方法论和本土适用性的讨论
 
 ## Singapore
 
-### Policy
-
-- [[Singapore Education Hub Policy]] — 新加坡 1990 年代至 2010 年代以国家主导的高等教育扩张为核心的地缘政治项目，涵盖东方波士顿战略与全球校园项目，以市场失败后转向监管为转折
+> [!summary]- Policy (1)
+> - [[Singapore Education Hub Policy]] — 新加坡 1990 年代至 2010 年代以国家主导的高等教育扩张为核心的地缘政治项目，涵盖东方波士顿战略与全球校园项目，以市场失败后转向监管为转折
 
 ## Sweden
 
-### Event
+> [!summary]- Event (1)
+> - [[Visible Learning in Sweden]] — 2010年代中期 Visible Learning 在瑞典被转化为课堂近端学校改进议程，重点从结果治理转向教学观察、教师协作与系统性质量工作
 
-- [[Visible Learning in Sweden]] — 2010年代中期 Visible Learning 在瑞典被转化为课堂近端学校改进议程，重点从结果治理转向教学观察、教师协作与系统性质量工作
-
-### Policy
-
-- [[Swedish Institute for Educational Research]] — 2015年建立的瑞典教育研究机构，通过教育研究系统综述、结果传播和研究资助连接学校实践需求与证据生产。
+> [!summary]- Policy (1)
+> - [[Swedish Institute for Educational Research]] — 2015年建立的瑞典教育研究机构，通过教育研究系统综述、结果传播和研究资助连接学校实践需求与证据生产。
 
 ## Uae
 
-### Policy
-
-- [[UAE Education Hub Projects]] — 阿联酋 2004 年以来以经济多元化和全球融合为驱动的国家教育枢纽项目，阿布扎比侧重文化外交、迪拜侧重政治经济，呈现联邦内空间分工的独特模式
+> [!summary]- Policy (1)
+> - [[UAE Education Hub Projects]] — 阿联酋 2004 年以来以经济多元化和全球融合为驱动的国家教育枢纽项目，阿布扎比侧重文化外交、迪拜侧重政治经济，呈现联邦内空间分工的独特模式
 
 ## UK
 
-### Event
+> [!summary]- Event (6)
+> - [[Advanced Manufacturing Research Centre (AMRC)]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
+> - [[Areopagitica]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
+> - [[Hargreaves 1996 TTA Lecture]] — David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
+> - [[Playing for Success]] — 英国依托足球俱乐部场地设立的学习支持中心项目，结合体育吸引力与课外辅导实践，后续成为教育证据聚合争议中的重要案例
+> - [[Research Excellence Framework]] — 2014 年起取代 RAE 的英国全国性大学研究评估体系，评估结果直接决定 QR 研究拨款的分配，是高等教育准市场最成熟也最具影响力的制度形式
+> - [[ResearchED]] — 英国教师主导的教育研究传播网络，推动课堂实践与研究证据之间的公共讨论
 
-- [[Advanced Manufacturing Research Centre (AMRC)]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
-- [[Areopagitica]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
-- [[Hargreaves 1996 TTA Lecture]] — David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
-- [[Playing for Success]] — 英国依托足球俱乐部场地设立的学习支持中心项目，结合体育吸引力与课外辅导实践，后续成为教育证据聚合争议中的重要案例
-- [[Research Excellence Framework]] — 2014 年起取代 RAE 的英国全国性大学研究评估体系，评估结果直接决定 QR 研究拨款的分配，是高等教育准市场最成熟也最具影响力的制度形式
-- [[ResearchED]] — 英国教师主导的教育研究传播网络，推动课堂实践与研究证据之间的公共讨论
-
-### Policy
-
-- [[Centre for the Use of Research and Evidence in Education]] — 英国证据传播机构，主要把研究报告转化为教师和政策制定者可理解、可用于学校真实情境的材料。
-- [[Committee for the Accreditation of Teacher Education]] — 1984年英国保守党政府设立的教师教育认证机制，将教师教育从学科基础转向课堂技能和能力导向的教师训练。
-- [[Education and Inspections Act 2006]] — 英国法律禁止新建文法学校，但允许现有 163 所文法学校继续运作
-- [[EEF Teaching and Learning Toolkit]] — 英国 EEF 发布的教学干预比较工具，按成本、效果和证据强度汇总 30 多类策略，已广泛影响学校决策并持续引发方法论争议
-- [[Eleven-plus Exam]] — 英国 11 岁中等教育选拔考试，决定学生进入文法学校或综合学校，研究证据一致表明其加剧不平等且不促进社会流动
-- [[EPPI-Centre]] — 1995年伦敦大学学院教育学院创建的证据中心，发展系统综述方法并支持政策、实践和日常生活中的研究证据使用。
-- [[Evidence-Based Teachers Network]] — 英国教师证据分享网络，促进教师、大学研究者和其他教育利益相关者交流证据、想法与证据本位实践培训。
-- [[Grammar School]] — 英格兰以 11-plus 考试选拔学生的公立学术中学，现有 163 所，159 所获 Ofsted 良好/优秀评级
-- [[Institute for Effective Education]] — 英国约克大学相关独立慈善机构，通过学校支持、严格评价、Evidence in Brief和Evidence 4 Impact推动教育政策与实践中的证据使用。
-- [[Ofsted]] — 英国教育标准办公室，负责英格兰学校检查与评级，其评级在教育政策辩论中常被当作研究证据使用并带有强烈道德判断色彩
-- [[Rose Report]] — Jim Rose 领导的英国早期阅读教学独立审查，推广简单阅读观，直接导致全英强制合成语音教学
-- [[Selective Schools Expansion Fund]] — 保守党政府 £50M 基金允许现有文法学校扩展招生，在新建禁令未修改的情况下以替代路径扩大选择性教育
-- [[What Works Network]] — 英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴
+> [!summary]- Policy (13)
+> - [[Centre for the Use of Research and Evidence in Education]] — 英国证据传播机构，主要把研究报告转化为教师和政策制定者可理解、可用于学校真实情境的材料。
+> - [[Committee for the Accreditation of Teacher Education]] — 1984年英国保守党政府设立的教师教育认证机制，将教师教育从学科基础转向课堂技能和能力导向的教师训练。
+> - [[Education and Inspections Act 2006]] — 英国法律禁止新建文法学校，但允许现有 163 所文法学校继续运作
+> - [[EEF Teaching and Learning Toolkit]] — 英国 EEF 发布的教学干预比较工具，按成本、效果和证据强度汇总 30 多类策略，已广泛影响学校决策并持续引发方法论争议
+> - [[Eleven-plus Exam]] — 英国 11 岁中等教育选拔考试，决定学生进入文法学校或综合学校，研究证据一致表明其加剧不平等且不促进社会流动
+> - [[EPPI-Centre]] — 1995年伦敦大学学院教育学院创建的证据中心，发展系统综述方法并支持政策、实践和日常生活中的研究证据使用。
+> - [[Evidence-Based Teachers Network]] — 英国教师证据分享网络，促进教师、大学研究者和其他教育利益相关者交流证据、想法与证据本位实践培训。
+> - [[Grammar School]] — 英格兰以 11-plus 考试选拔学生的公立学术中学，现有 163 所，159 所获 Ofsted 良好/优秀评级
+> - [[Institute for Effective Education]] — 英国约克大学相关独立慈善机构，通过学校支持、严格评价、Evidence in Brief和Evidence 4 Impact推动教育政策与实践中的证据使用。
+> - [[Ofsted]] — 英国教育标准办公室，负责英格兰学校检查与评级，其评级在教育政策辩论中常被当作研究证据使用并带有强烈道德判断色彩
+> - [[Rose Report]] — Jim Rose 领导的英国早期阅读教学独立审查，推广简单阅读观，直接导致全英强制合成语音教学
+> - [[Selective Schools Expansion Fund]] — 保守党政府 £50M 基金允许现有文法学校扩展招生，在新建禁令未修改的情况下以替代路径扩大选择性教育
+> - [[What Works Network]] — 英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴
 
 ## US
 
-### Event
+> [!summary]- Event (59)
+> - [[A Nation at Risk 1983]] — 美国国家教育卓越委员会 1983 年发布的报告，以危机修辞将教育质量与国家竞争力绑定，触发 INES/EAG 的加速建立，同时在 1980 年代美国对日教育吸引力的改革辩论中承担了核心的危机化功能
+> - [[Alliance for Southern California Innovation]] — 2017 年成立的非营利组织，联合南加州顶尖研究机构、商界领袖和顾问，聚焦于弥合区域创新生态系统中的关键缺口，通过识别和培育高潜力初创企业来吸引新资本进入南加州
+> - [[American Attraction to Japanese Education 1980s]] — 1980 年代美国在经济竞争与危机叙事下对日本教育产生强烈跨国吸引力，白宫、教育部、学者和智库构成密集的改革话语网络，但受联邦分权结构制约，呈现高吸引力、低制度借用的特征
+> - [[APLU Innovation and Economic Prosperity Program]] — 美国公立与赠地大学协会（APLU）设立的认证项目，为在区域经济参与、增长和经济机会方面取得成功的大学提供官方认定
+> - [[Bayh-Dole Act of 1980]] — 1980 年美国联邦立法，规定联邦政府资助下在大学产生的知识产权归大学所有，为大学技术转移和产学合作奠定了核心法律框架
+> - [[Best Evidence Encyclopedia]] — 教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目
+> - [[Blueprints for Healthy Youth Development]] — 多领域非营利清算中心，最高评级强调高质量研究、独立复制和 12 个月持续效果
+> - [[California Class Size Reduction 1996]] — 1996 年加州大规模推行的班额缩减政策，因教师与教室供给不足暴露出试点成功经验在全州扩张中的实施条件问题
+> - [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] — 面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果
+> - [[California Master Plan for Higher Education]] — 1960 年加州通过的高等教育总体规划，建立了社区学院、加州州立大学和加州大学的三层公立高等教育体系，为硅谷创新经济提供了多层次人才支撑
+> - [[Central Florida Research Park]] — 1978 年与中佛罗里达大学合作建立的研究园区，1993 年海军空战中心迁入后逐渐聚集国防承包商，现拥有超过 9,500 名雇员，推动 UCF 研发支出十年翻番
+> - [[Clearinghouse for Military Family Readiness Continuum of Evidence]] — 面向军人家庭的 public 清算中心，对 RCT 与一般 QED 均有详细证据标准
+> - [[Clinical Trials Transformation Initiative]] — 2007 年由美国 FDA 和杜克大学共同发起的多利益相关方公私合作伙伴关系，已发布超过 30 套基于证据的建议、框架和工具，旨在提高临床试验的质量和效率
+> - [[CNCS Evidence Exchange]] — 只审查 CNCS 自身资助项目和干预的公共清算中心，提供项目证据评级与资助决策支持
+> - [[Coleman Report 1966]] — 美国教育部委托的里程碑式教育机会平等研究（650,000+ 学生、4,000 所学校），结论为家庭背景而非学校特征是学业差距的主要驱动力，50 年后 Downey & Condron 重新评估认为 Coleman 低估了学校的补偿性作用
+> - [[Collaborative for Academic Social and Emotional Learning Guide]] — 聚焦社会情感学习项目的非营利教育清算中心，Wadhwa et al. (2024) 样本中贡献 25 个项目
+> - [[Communities in Schools]] — 美国综合学生支持项目，在多个证据清算中心中获得不一致评级，是教育干预证据分歧的典型案例
+> - [[Creation of REES]] — IES 于 2018 年启动的教育项目评估预注册平台（Registry of Efficacy and Effectiveness Studies），旨在缓解可疑研究实践并增加对知识库的信心
+> - [[Daubert v Merrell Dow Pharmaceuticals 1993]] — 美国联邦最高法院关于科学证据可采性的里程碑裁决，确立了区分可靠专家证据与垃圾科学的司法标准
+> - [[ESSA 2015 Evidence Standards]] — 美国联邦教育主法定义强/中/有希望与理论依据证据层级，将联邦拨款与使用达到证据标准的项目绑定
+> - [[First Look SoCal]] — 南加州创新联盟自 2018 年起每年举办的前沿科技与生命科学衍生企业展示会，从十余所顶尖研究机构中甄选 24 家衍生企业向投资者路演，揭示了大学衍生企业普遍面临的早期融资困境
+> - [[Hatch Act of 1887]] — 1887 年美国联邦立法，在赠地大学建立农业实验站，直接将大学研究与农场和食品加工者的实际需求连接，是赠地大学体系从教学向研究与应用服务延伸的关键制度节点
+> - [[Home Visiting Evidence of Effectiveness]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、QED、RDD 均有详细标准
+> - [[Investing in Innovation Program]] — 2009–2016 年美国教育部 USD 1.4B 分层拨款项目，以开发→验证→规模化结构推动教育 RCT 证据生产
+> - [[Kendall Square]] — 1999 年成立于 MIT 周边的产学合作创新区，以剑桥创新中心为核心，通过意向性网络建设和联合办公催生超过 10,000 家客户组织和 170 亿美元累计投资，是全球最成功的创新生态系统之一
+> - [[Morrill Land-Grant Act of 1862]] — 1862 年美国联邦立法，通过赠地建立面向工业阶层的实践教育大学体系，将高等教育从精英教育扩展为大众实践教育，奠定产学合作的历史基础
+> - [[National Dropout Prevention Center]] — 聚焦辍学预防项目的非营利教育清算中心，提供项目筛选、证据评级和实践资源
+> - [[National Science Foundation]] — 1950 年根据 Vannevar Bush 报告建议创建的美国独立联邦机构，是联邦政府资助大学基础研究的核心渠道，2022 年后通过 TIP 理事会大幅扩展区域创新中心建设资助
+> - [[NSF I-Corps]] — 2011 年由美国国家科学基金会启动的创业培训项目，已孵化超过 1000 家初创企业并累计获得超过 7.6 亿美元后续融资，核心是教授学者创业思维而非仅提供科研资金
+> - [[Open Court Reading]] — Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、BEE 均评为 promising，但研究解释标准不同
+> - [[Pajaro Dunes Statement of 1982]] — 1982 年由一批美国精英研究型大学在 Bayh-Dole Act 通过后不久共同发布的产学关系原则声明，确立了大学-企业合作协议的透明性原则
+> - [[Peer-Assisted Learning Strategies]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断
+> - [[Promise Neighborhoods Research Consortium]] — 评价项目、政策和实践的公共清算中心，不进行项目效果分层评级，更强调社区项目证据整理与资源汇集
+> - [[Promising Practices Network]] — 面向儿童与家庭政策的多领域非营利清算中心，曾提供项目证据摘要和实践案例库
+> - [[Purdue Discovery Park]] — 普渡大学以 Lilly Endowment 和印第安纳州各 1500 万美元初始投资创建的大学研究园区，如今发展为超过 10 亿美元的自持研发企业，是美国最大的大学附属研究园区之一
+> - [[Quantum Opportunity Program]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP 与 Eisenhower QOP 两个项目版本
+> - [[Research Triangle Park]] — 1950 年代末在北卡罗来纳州建立的美国最大研究园区之一，联合 Duke、UNC-Chapel Hill 和 NC State 三所研究型大学，以 IBM 为早期锚定租户，是产学合作推动区域经济转型的经典案例
+> - [[Rising Above the Gathering Storm 2007]] — 2007 年美国国家科学院报告，重申基础与开放式研究投资的战略重要性，呼应 Vannevar Bush 的 Science, The Endless Frontier，强调科学与工程人才对美国经济未来的关键作用
+> - [[SBIR and STTR Programs]] — 美国联邦政府设立的小企业创新研究（SBIR）和小企业技术转移（STTR）计划，要求产业代表直接参与项目并提供市场输入，是大学衍生企业获得非稀释性资助和早期市场验证的重要联邦渠道
+> - [[Science, The Endless Frontier 1945]] — 1945 年 Vannevar Bush 向美国总统提交的报告，强调基础与开放式研究的战略重要性，直接促成 NSF 创建，塑造了二战后美国联邦政府资助大学基础研究的制度框架
+> - [[Semiconductor Research Corporation]] — 美国半导体行业长期运作的公私合作伙伴关系，多家公司（包括直接竞争对手）共同资助前竞争阶段的大学研究并支持人才发展，是产学合作中竞争者在研究层面合作的制度化典范
+> - [[Smith Lever Act of 1914]] — 1914 年美国联邦立法，在赠地大学建立农业推广服务体系，以联邦资金直接支持农业产业的应用研究、教育和培训，是产学合作中连接研究与实际应用的早期制度模型
+> - [[Social Programs That Work]] — 多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库
+> - [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接
+> - [[Success for All]] — Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断
+> - [[Sunshine Act]] — 美国《平价医疗法案》2010 年组成部分，要求制药和医疗器械公司公开报告向医生和教学医院的所有支付，通过 Open Payments 数据库向公众披露，旨在增加产学临床试验中的财务透明度和防止利益冲突
+> - [[Tech Square at Georgia Tech]] — Georgia Tech 于 1990 年代末开发的产学合作创新园区，由校长 Wayne Clough 推动，以管理学院为锚点，经 TUFF 运营支持，是美国最成功的大学创新中心之一
+> - [[Tennessee STAR Project 1985-1989]] — 1985年至1989年在田纳西州开展的大规模班级规模随机对照试验，是教育领域最著名的RCT之一，为小班化教学提供了核心因果证据。
+> - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
+> - [[TUFF]] — 1982 年由 Georgia Tech 校友在亚特兰大创立的 501(c)(3) 运营基金会，以私营部门交付模式为大学建设研究设施，四十余年来为产学合作创新中心提供开发、融资和场所营造服务
+> - [[UCSD Innovation and Commercialization Office]] — 加州大学圣地亚哥分校在副校长 Paul Roben 领导下采用的产业咨询联盟模式：大学主动邀请多家企业组成咨询联盟，在研发启动前提供关于未来技术缺口和机会的市场输入，翻转了传统企业来找大学的产学合作方向
+> - [[Universal Parallel Computing Research Centers]] — 2008 年 Intel 与 Microsoft 联合发起的大规模大学研究倡议，在 UC Berkeley 和 UIUC 资助并行编程基础研究，以应对半导体行业从频率提升到多核扩展的历史性技术转折
+> - [[University City Science Center]] — 费城的非营利产学合作组织，通过项目设计激励创业者关系发展并提供培训和资源，聚焦费城本地相对优势，后建立实体空间进一步集聚创业者、学者和产业伙伴
+> - [[University Industry Demonstration Partnership]] — 2004 年由美国国家科学院发起、2015 年独立为非营利组织的全球性产学合作组织，以合同共识和伙伴关系连续体为代表成果，同时是产学实践者的核心国际交流平台
+> - [[University of Illinois Research Park]] — 伊利诺伊大学的研究园区，执行主任同时兼任大学经济发展办公室主任，下设对外合作、孵化器 EnterpriseWorks、企业活动与创新外联等专职岗位，以整合组织架构链接产业伙伴与大学资源
+> - [[University of Kentucky Top-20 Plan]] — 肯塔基州立法机构指令赠地大学达到 Top-20 排名的战略计划，因 USNWR 评分惩罚招收弱势群体学生而失败，成为排名与使命冲突的经典案例
+> - [[University, Inc. (Washburn, 2005)]] — Jennifer Washburn 2005 年著作，批判市场化大学模式对学术研究文化独特性的侵蚀，是产学合作研究中最具影响力的批评声音之一
+> - [[US-China Economic and Security Review Commission]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
+> - [[What Works Clearinghouse]] — 美国教育部 2002 年建立的教育证据清算中心，用于评估项目、实践和研究质量，已成为证据本位教育基础设施中的核心节点
 
-- [[A Nation at Risk 1983]] — 美国国家教育卓越委员会 1983 年发布的报告，以危机修辞将教育质量与国家竞争力绑定，触发 INES/EAG 的加速建立，同时在 1980 年代美国对日教育吸引力的改革辩论中承担了核心的危机化功能
-- [[Alliance for Southern California Innovation]] — 2017 年成立的非营利组织，联合南加州顶尖研究机构、商界领袖和顾问，聚焦于弥合区域创新生态系统中的关键缺口，通过识别和培育高潜力初创企业来吸引新资本进入南加州
-- [[American Attraction to Japanese Education 1980s]] — 1980 年代美国在经济竞争与危机叙事下对日本教育产生强烈跨国吸引力，白宫、教育部、学者和智库构成密集的改革话语网络，但受联邦分权结构制约，呈现高吸引力、低制度借用的特征
-- [[APLU Innovation and Economic Prosperity Program]] — 美国公立与赠地大学协会（APLU）设立的认证项目，为在区域经济参与、增长和经济机会方面取得成功的大学提供官方认定
-- [[Bayh-Dole Act of 1980]] — 1980 年美国联邦立法，规定联邦政府资助下在大学产生的知识产权归大学所有，为大学技术转移和产学合作奠定了核心法律框架
-- [[Best Evidence Encyclopedia]] — 教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目
-- [[Blueprints for Healthy Youth Development]] — 多领域非营利清算中心，最高评级强调高质量研究、独立复制和 12 个月持续效果
-- [[California Class Size Reduction 1996]] — 1996 年加州大规模推行的班额缩减政策，因教师与教室供给不足暴露出试点成功经验在全州扩张中的实施条件问题
-- [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] — 面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果
-- [[California Master Plan for Higher Education]] — 1960 年加州通过的高等教育总体规划，建立了社区学院、加州州立大学和加州大学的三层公立高等教育体系，为硅谷创新经济提供了多层次人才支撑
-- [[Central Florida Research Park]] — 1978 年与中佛罗里达大学合作建立的研究园区，1993 年海军空战中心迁入后逐渐聚集国防承包商，现拥有超过 9,500 名雇员，推动 UCF 研发支出十年翻番
-- [[Clearinghouse for Military Family Readiness Continuum of Evidence]] — 面向军人家庭的 public 清算中心，对 RCT 与一般 QED 均有详细证据标准
-- [[Clinical Trials Transformation Initiative]] — 2007 年由美国 FDA 和杜克大学共同发起的多利益相关方公私合作伙伴关系，已发布超过 30 套基于证据的建议、框架和工具，旨在提高临床试验的质量和效率
-- [[CNCS Evidence Exchange]] — 只审查 CNCS 自身资助项目和干预的公共清算中心，提供项目证据评级与资助决策支持
-- [[Coleman Report 1966]] — 美国教育部委托的里程碑式教育机会平等研究（650,000+ 学生、4,000 所学校），结论为家庭背景而非学校特征是学业差距的主要驱动力，50 年后 Downey & Condron 重新评估认为 Coleman 低估了学校的补偿性作用
-- [[Collaborative for Academic Social and Emotional Learning Guide]] — 聚焦社会情感学习项目的非营利教育清算中心，Wadhwa et al. (2024) 样本中贡献 25 个项目
-- [[Communities in Schools]] — 美国综合学生支持项目，在多个证据清算中心中获得不一致评级，是教育干预证据分歧的典型案例
-- [[Creation of REES]] — IES 于 2018 年启动的教育项目评估预注册平台（Registry of Efficacy and Effectiveness Studies），旨在缓解可疑研究实践并增加对知识库的信心
-- [[Daubert v Merrell Dow Pharmaceuticals 1993]] — 美国联邦最高法院关于科学证据可采性的里程碑裁决，确立了区分可靠专家证据与垃圾科学的司法标准
-- [[ESSA 2015 Evidence Standards]] — 美国联邦教育主法定义强/中/有希望与理论依据证据层级，将联邦拨款与使用达到证据标准的项目绑定
-- [[First Look SoCal]] — 南加州创新联盟自 2018 年起每年举办的前沿科技与生命科学衍生企业展示会，从十余所顶尖研究机构中甄选 24 家衍生企业向投资者路演，揭示了大学衍生企业普遍面临的早期融资困境
-- [[Hatch Act of 1887]] — 1887 年美国联邦立法，在赠地大学建立农业实验站，直接将大学研究与农场和食品加工者的实际需求连接，是赠地大学体系从教学向研究与应用服务延伸的关键制度节点
-- [[Home Visiting Evidence of Effectiveness]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、QED、RDD 均有详细标准
-- [[Investing in Innovation Program]] — 2009–2016 年美国教育部 USD 1.4B 分层拨款项目，以开发→验证→规模化结构推动教育 RCT 证据生产
-- [[Kendall Square]] — 1999 年成立于 MIT 周边的产学合作创新区，以剑桥创新中心为核心，通过意向性网络建设和联合办公催生超过 10,000 家客户组织和 170 亿美元累计投资，是全球最成功的创新生态系统之一
-- [[Morrill Land-Grant Act of 1862]] — 1862 年美国联邦立法，通过赠地建立面向工业阶层的实践教育大学体系，将高等教育从精英教育扩展为大众实践教育，奠定产学合作的历史基础
-- [[National Dropout Prevention Center]] — 聚焦辍学预防项目的非营利教育清算中心，提供项目筛选、证据评级和实践资源
-- [[National Science Foundation]] — 1950 年根据 Vannevar Bush 报告建议创建的美国独立联邦机构，是联邦政府资助大学基础研究的核心渠道，2022 年后通过 TIP 理事会大幅扩展区域创新中心建设资助
-- [[NSF I-Corps]] — 2011 年由美国国家科学基金会启动的创业培训项目，已孵化超过 1000 家初创企业并累计获得超过 7.6 亿美元后续融资，核心是教授学者创业思维而非仅提供科研资金
-- [[Open Court Reading]] — Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、BEE 均评为 promising，但研究解释标准不同
-- [[Pajaro Dunes Statement of 1982]] — 1982 年由一批美国精英研究型大学在 Bayh-Dole Act 通过后不久共同发布的产学关系原则声明，确立了大学-企业合作协议的透明性原则
-- [[Peer-Assisted Learning Strategies]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断
-- [[Promise Neighborhoods Research Consortium]] — 评价项目、政策和实践的公共清算中心，不进行项目效果分层评级，更强调社区项目证据整理与资源汇集
-- [[Promising Practices Network]] — 面向儿童与家庭政策的多领域非营利清算中心，曾提供项目证据摘要和实践案例库
-- [[Purdue Discovery Park]] — 普渡大学以 Lilly Endowment 和印第安纳州各 1500 万美元初始投资创建的大学研究园区，如今发展为超过 10 亿美元的自持研发企业，是美国最大的大学附属研究园区之一
-- [[Quantum Opportunity Program]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP 与 Eisenhower QOP 两个项目版本
-- [[Research Triangle Park]] — 1950 年代末在北卡罗来纳州建立的美国最大研究园区之一，联合 Duke、UNC-Chapel Hill 和 NC State 三所研究型大学，以 IBM 为早期锚定租户，是产学合作推动区域经济转型的经典案例
-- [[Rising Above the Gathering Storm 2007]] — 2007 年美国国家科学院报告，重申基础与开放式研究投资的战略重要性，呼应 Vannevar Bush 的 Science, The Endless Frontier，强调科学与工程人才对美国经济未来的关键作用
-- [[SBIR and STTR Programs]] — 美国联邦政府设立的小企业创新研究（SBIR）和小企业技术转移（STTR）计划，要求产业代表直接参与项目并提供市场输入，是大学衍生企业获得非稀释性资助和早期市场验证的重要联邦渠道
-- [[Science, The Endless Frontier 1945]] — 1945 年 Vannevar Bush 向美国总统提交的报告，强调基础与开放式研究的战略重要性，直接促成 NSF 创建，塑造了二战后美国联邦政府资助大学基础研究的制度框架
-- [[Semiconductor Research Corporation]] — 美国半导体行业长期运作的公私合作伙伴关系，多家公司（包括直接竞争对手）共同资助前竞争阶段的大学研究并支持人才发展，是产学合作中竞争者在研究层面合作的制度化典范
-- [[Smith Lever Act of 1914]] — 1914 年美国联邦立法，在赠地大学建立农业推广服务体系，以联邦资金直接支持农业产业的应用研究、教育和培训，是产学合作中连接研究与实际应用的早期制度模型
-- [[Social Programs That Work]] — 多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库
-- [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接
-- [[Success for All]] — Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断
-- [[Sunshine Act]] — 美国《平价医疗法案》2010 年组成部分，要求制药和医疗器械公司公开报告向医生和教学医院的所有支付，通过 Open Payments 数据库向公众披露，旨在增加产学临床试验中的财务透明度和防止利益冲突
-- [[Tech Square at Georgia Tech]] — Georgia Tech 于 1990 年代末开发的产学合作创新园区，由校长 Wayne Clough 推动，以管理学院为锚点，经 TUFF 运营支持，是美国最成功的大学创新中心之一
-- [[Tennessee STAR Project 1985-1989]] — 1985年至1989年在田纳西州开展的大规模班级规模随机对照试验，是教育领域最著名的RCT之一，为小班化教学提供了核心因果证据。
-- [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
-- [[TUFF]] — 1982 年由 Georgia Tech 校友在亚特兰大创立的 501(c)(3) 运营基金会，以私营部门交付模式为大学建设研究设施，四十余年来为产学合作创新中心提供开发、融资和场所营造服务
-- [[UCSD Innovation and Commercialization Office]] — 加州大学圣地亚哥分校在副校长 Paul Roben 领导下采用的产业咨询联盟模式：大学主动邀请多家企业组成咨询联盟，在研发启动前提供关于未来技术缺口和机会的市场输入，翻转了传统企业来找大学的产学合作方向
-- [[Universal Parallel Computing Research Centers]] — 2008 年 Intel 与 Microsoft 联合发起的大规模大学研究倡议，在 UC Berkeley 和 UIUC 资助并行编程基础研究，以应对半导体行业从频率提升到多核扩展的历史性技术转折
-- [[University City Science Center]] — 费城的非营利产学合作组织，通过项目设计激励创业者关系发展并提供培训和资源，聚焦费城本地相对优势，后建立实体空间进一步集聚创业者、学者和产业伙伴
-- [[University Industry Demonstration Partnership]] — 2004 年由美国国家科学院发起、2015 年独立为非营利组织的全球性产学合作组织，以合同共识和伙伴关系连续体为代表成果，同时是产学实践者的核心国际交流平台
-- [[University of Illinois Research Park]] — 伊利诺伊大学的研究园区，执行主任同时兼任大学经济发展办公室主任，下设对外合作、孵化器 EnterpriseWorks、企业活动与创新外联等专职岗位，以整合组织架构链接产业伙伴与大学资源
-- [[University of Kentucky Top-20 Plan]] — 肯塔基州立法机构指令赠地大学达到 Top-20 排名的战略计划，因 USNWR 评分惩罚招收弱势群体学生而失败，成为排名与使命冲突的经典案例
-- [[University, Inc. (Washburn, 2005)]] — Jennifer Washburn 2005 年著作，批判市场化大学模式对学术研究文化独特性的侵蚀，是产学合作研究中最具影响力的批评声音之一
-- [[US-China Economic and Security Review Commission]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
-- [[What Works Clearinghouse]] — 美国教育部 2002 年建立的教育证据清算中心，用于评估项目、实践和研究质量，已成为证据本位教育基础设施中的核心节点
+> [!summary]- Organization (1)
+> - [[Innovation Institute for Food and Health]] — 2015 年 Mars 与 UC Davis 共同建立的产学合作创新平台，以催化食品、农业和健康领域的学术-产业创新为目标，已吸引 21 个额外伙伴，代表性成果包括天然青色色素发现和周期性食物表倡议
 
-### Organization
+> [!summary]- Policy (9)
+> - [[CHIPS and Science Act]] — 2022 年美国联邦法案，拨款超 100 亿美元设立 Tech Hubs 计划，推动建立国家半导体技术中心作为大规模公私合作伙伴关系，同时为 NSF TIP 理事会提供资金，与通胀削减法案、重建更好法案共同授权数千亿美元支持创新区建设
+> - [[Common Rule 2018]] — 2018 年修订的美国联邦人类受试者研究保护法规，要求 IRB 审查与知情同意，将研究定义为旨在发展或贡献可推广知识的系统性调查，私企自有资金研发不受其约束，但大学以企业资金开展研究时自动引入 IRB 审查
+> - [[Comprehensive School Reform Program]] — 1998 年 Obey-Porter 立法首次将联邦教育拨款与有效性证据挂钩（USD 150M→USD 310M/年），但仅 20.8% 拨款流向强证据项目
+> - [[DARPA]] — 美国国防部下属的研究资助机构，以扁平化管理和“高风险、高回报”的容错机制著称，是互联网、GPS等众多颠覆性技术的策源地。
+> - [[Nelson Memo of 2022]] — 2022 年白宫科技政策办公室主任 Alondra Nelson 发布的备忘录，要求所有联邦资助研发机构建立同行评审出版物和科学数据的公共获取政策
+> - [[No Child Left Behind Act 2001]] — Bush 政府 ESEA 重新授权，“科学本位研究“出现 110 次，将实验证据标准嵌入联邦教育项目核心，ESSA (2015) 的前身
+> - [[OMB Uniform Guidance for Federal Awards]] — 2014 年生效的美国联邦拨款统一会计指南，规定大学研究预算须分离直接与间接成本、行政间接成本上限 26%，制度设计本身要求大学补贴研究项目，是产学合作预算谈判中企业最不适应的制度约束之一
+> - [[Students and Teachers Accessing Tomorrow]] — 2014-2019年巴尔的摩郡公立学校分阶段推进的全学区技术整合项目，用于展示复杂教育改革中证据生成与解释的困难。
+> - [[WWC SCD Pilot Standards]] — Kratochwill & Hitchcock 为 IES 开发的 WWC 单一个案设计审查试行标准，含 Review Guide 和 5-3-20 规则
 
-- [[Innovation Institute for Food and Health]] — 2015 年 Mars 与 UC Davis 共同建立的产学合作创新平台，以催化食品、农业和健康领域的学术-产业创新为目标，已吸引 21 个额外伙伴，代表性成果包括天然青色色素发现和周期性食物表倡议
-
-### Policy
-
-- [[CHIPS and Science Act]] — 2022 年美国联邦法案，拨款超 100 亿美元设立 Tech Hubs 计划，推动建立国家半导体技术中心作为大规模公私合作伙伴关系，同时为 NSF TIP 理事会提供资金，与通胀削减法案、重建更好法案共同授权数千亿美元支持创新区建设
-- [[Common Rule 2018]] — 2018 年修订的美国联邦人类受试者研究保护法规，要求 IRB 审查与知情同意，将研究定义为旨在发展或贡献可推广知识的系统性调查，私企自有资金研发不受其约束，但大学以企业资金开展研究时自动引入 IRB 审查
-- [[Comprehensive School Reform Program]] — 1998 年 Obey-Porter 立法首次将联邦教育拨款与有效性证据挂钩（USD 150M→USD 310M/年），但仅 20.8% 拨款流向强证据项目
-- [[DARPA]] — 美国国防部下属的研究资助机构，以扁平化管理和“高风险、高回报”的容错机制著称，是互联网、GPS等众多颠覆性技术的策源地。
-- [[Nelson Memo of 2022]] — 2022 年白宫科技政策办公室主任 Alondra Nelson 发布的备忘录，要求所有联邦资助研发机构建立同行评审出版物和科学数据的公共获取政策
-- [[No Child Left Behind Act 2001]] — Bush 政府 ESEA 重新授权，“科学本位研究“出现 110 次，将实验证据标准嵌入联邦教育项目核心，ESSA (2015) 的前身
-- [[OMB Uniform Guidance for Federal Awards]] — 2014 年生效的美国联邦拨款统一会计指南，规定大学研究预算须分离直接与间接成本、行政间接成本上限 26%，制度设计本身要求大学补贴研究项目，是产学合作预算谈判中企业最不适应的制度约束之一
-- [[Students and Teachers Accessing Tomorrow]] — 2014-2019年巴尔的摩郡公立学校分阶段推进的全学区技术整合项目，用于展示复杂教育改革中证据生成与解释的困难。
-- [[WWC SCD Pilot Standards]] — Kratochwill & Hitchcock 为 IES 开发的 WWC 单一个案设计审查试行标准，含 Review Guide 和 5-3-20 规则
-
-### Program
-
-- [[MN-IP Create]] — 明尼苏达大学推出的菜单式产学合作 IP 预先定价项目，提供三种 FIP 权利选项，以固定预付费和延迟版税的组合缓解产业方对许可定价不确定性的担忧
+> [!summary]- Program (1)
+> - [[MN-IP Create]] — 明尼苏达大学推出的菜单式产学合作 IP 预先定价项目，提供三种 FIP 权利选项，以固定预付费和延迟版税的组合缓解产业方对许可定价不确定性的担忧

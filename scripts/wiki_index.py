@@ -346,6 +346,14 @@ def md_line(entry: dict[str, Any]) -> str:
     return f"- [[{entry['title']}]]"
 
 
+def append_callout(lines: list[str], title: str, item_lines: list[str], callout_type: str = "summary") -> None:
+    count = len(item_lines)
+    lines.append(f"> [!{callout_type}]- {title} ({count})")
+    for item in item_lines:
+        lines.append(f"> {item}")
+    lines.append("")
+
+
 def group_entries(entries: list[dict[str, Any]], key: str) -> dict[str, list[dict[str, Any]]]:
     groups: dict[str, list[dict[str, Any]]] = {}
     for e in entries:
@@ -381,25 +389,21 @@ def write_markdown(entries: list[dict[str, Any]]) -> None:
         by_second = group_entries(type_items, "second_level")
         for second_key in sorted(by_second, key=lambda x: title_case_slug(x).lower()):
             second_items = by_second[second_key]
-            lines.extend([f"### {title_case_slug(second_key)}", ""])
 
             if typ in {"argument", "fact", "person"}:
+                lines.extend([f"### {title_case_slug(second_key)}", ""])
                 by_third = group_entries(second_items, "third_level")
                 for third_key in sorted(by_third, key=lambda x: str(x).lower()):
-                    lines.extend([f"#### {third_label(typ, third_key)}", ""])
-                    for e in sorted(by_third[third_key], key=lambda x: x["title"].lower()):
-                        lines.append(md_line(e))
-                    lines.append("")
+                    third_items = sorted(by_third[third_key], key=lambda x: x["title"].lower())
+                    append_callout(lines, third_label(typ, third_key), [md_line(e) for e in third_items])
             else:
-                for e in sorted(second_items, key=lambda x: x["title"].lower()):
-                    lines.append(md_line(e))
-                lines.append("")
+                sorted_items = sorted(second_items, key=lambda x: x["title"].lower())
+                append_callout(lines, title_case_slug(second_key), [md_line(e) for e in sorted_items])
 
     for typ in sorted(k for k in by_type if k not in TYPE_ORDER):
         lines.extend(["---", "", f"## {typ.title()}", ""])
-        for e in sorted(by_type[typ], key=lambda x: x["title"].lower()):
-            lines.append(md_line(e))
-        lines.append("")
+        sorted_items = sorted(by_type[typ], key=lambda x: x["title"].lower())
+        append_callout(lines, typ.title(), [md_line(e) for e in sorted_items])
 
     INDEX_MD.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
@@ -444,19 +448,16 @@ def write_local_indexes(entries: list[dict[str, Any]]) -> None:
 
         for second_key in sorted(by_second, key=lambda x: title_case_slug(x).lower()):
             second_items = by_second[second_key]
-            lines.extend([f"## {title_case_slug(second_key)}", ""])
 
             if typ in {"argument", "fact", "person"}:
+                lines.extend([f"## {title_case_slug(second_key)}", ""])
                 by_third = group_entries(second_items, "third_level")
                 for third_key in sorted(by_third, key=lambda x: str(x).lower()):
-                    lines.extend([f"### {third_label(typ, third_key)}", ""])
-                    for e in sorted(by_third[third_key], key=lambda x: x["title"].lower()):
-                        lines.append(md_line(e))
-                    lines.append("")
+                    third_items = sorted(by_third[third_key], key=lambda x: x["title"].lower())
+                    append_callout(lines, third_label(typ, third_key), [md_line(e) for e in third_items])
             else:
-                for e in sorted(second_items, key=lambda x: x["title"].lower()):
-                    lines.append(md_line(e))
-                lines.append("")
+                sorted_items = sorted(second_items, key=lambda x: x["title"].lower())
+                append_callout(lines, title_case_slug(second_key), [md_line(e) for e in sorted_items])
 
         out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
