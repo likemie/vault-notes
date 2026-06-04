@@ -2231,6 +2231,17 @@
     ]
   },
   {
+    "title": "UIC Impact Measurement",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/UIC Impact Measurement.md",
+    "aliases": [
+      "产学合作影响测量",
+      "产学研发合作影响评估",
+      "UIC impact assessment",
+      "measuring UIC impacts"
+    ]
+  },
+  {
     "title": "University Corporate Engagement Professional",
     "type": "concept",
     "path": "wiki/concepts/higher-education/University Corporate Engagement Professional.md",
@@ -10130,6 +10141,11 @@
     "title": "Argument_Håkansson_2015_TT",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Teachers and Teaching/Argument_Håkansson_2015_TT.md"
+  },
+  {
+    "title": "Argument_Cohen_2025_JTT",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Cohen_2025_JTT.md"
   },
   {
     "title": "Argument_Ball_2008_SR",
