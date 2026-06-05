@@ -17,6 +17,7 @@ extracted_to:
   - "[[Swiss Innovation Policy System]]"
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Japan Innovation Policy System]]"
+  - "[[Korea Innovation Policy System]]"
 processed_date: 2026-06-03
 ---
 

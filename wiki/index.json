@@ -7959,15 +7959,6 @@
     ]
   },
   {
-    "title": "Shenzhen Four 90 Percent Innovation Pattern",
-    "type": "fact",
-    "path": "wiki/facts/china/Shenzhen Four 90 Percent Innovation Pattern.md",
-    "aliases": [
-      "深圳“四个90%”",
-      "四个90%"
-    ]
-  },
-  {
     "title": "Three Excellences",
     "type": "fact",
     "path": "wiki/facts/china/Three Excellences.md",
@@ -7976,16 +7967,6 @@
       "三好学生",
       "Students with Three Excellences",
       "san hao sheng"
-    ]
-  },
-  {
-    "title": "Xi'an Three Reforms on Sci-Tech Achievements",
-    "type": "fact",
-    "path": "wiki/facts/china/Xi'an Three Reforms on Sci-Tech Achievements.md",
-    "aliases": [
-      "三项改革",
-      "科技成果转化“三项改革”",
-      "职务科技成果单列管理"
     ]
   },
   {
@@ -8609,6 +8590,16 @@
     "aliases": [
       "最佳证据简报",
       "BEiB"
+    ]
+  },
+  {
+    "title": "Korea Innovation Policy System",
+    "type": "fact",
+    "path": "wiki/facts/multi/Korea Innovation Policy System.md",
+    "aliases": [
+      "韩国创新政策体系",
+      "Korea Innovation Policy",
+      "韩国科技立国"
     ]
   },
   {
