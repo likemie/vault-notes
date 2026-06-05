@@ -13,8 +13,8 @@ extracted_to:
   - "[[Academic Medical Center]]"
   - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
   - "[[Physician-Scientist]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Partnership Continuum]]"
+  - "[[University-Industry Collaboration]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

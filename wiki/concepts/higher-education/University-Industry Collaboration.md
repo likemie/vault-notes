@@ -33,6 +33,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Joint Faculty Appointments]]"
   - "[[University-Industry Co-location]]"
+  - "[[Partnership Continuum]]"
   - "[[University Corporate Engagement Professional]]"
   - "[[Concierge Service]]"
   - "[[Research Security]]"
@@ -52,7 +53,6 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Clinical Trial]]"
   - "[[Multi-University]]"
-  - "[[Partnership Continuum]]"
   - "[[Innovation Park]]"
   - "[[Background IP]]"
   - "[[Freedom to Operate]]"
@@ -101,10 +101,11 @@ sources:
   - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
   - "[[Ch12_Ramming_2025]]"
+  - "[[UIDP_2012_PartnershipContinuum]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-06-04
+updated: 2026-06-05
 ---
 
 # University-Industry Collaboration
@@ -215,7 +216,7 @@ updated: 2026-06-04
 - **共同选址**（[[University-Industry Co-location|co-location]]）：产业人员在大学校园内专用空间中与大学研究人员共同开展合作或独立研究。通过缩短物理距离来降低沟通和文化壁垒，促进思想交流——典型案例包括联合利华在瓦赫宁根大学的 Hive 中心（500 名员工驻校）和 Mars 在 UC Davis 的 MARI 研究院（Wolf et al., 2025, pp.317–318）
 - **非正式互动**：网络活动、联合参加会议、邀请企业进校园讲座——这些活动对建立社会关系和促进隐性知识流动至关重要
 
-> 在互动层次上，UIDP（2012）区分了战术/交易型互动（tactical and transactional）、协作型互动（collaborations）和战略伙伴关系（strategic partnerships）——不同层次适用不同的治理安排。Perkmann 和 Salter（2012）则按价值主张区分了四种合作模式：创意实验室（吸引新伙伴、建立关系）、重大挑战协作（适合通过联合体或中心组织）、扩展工作台（解决近期问题）、深度探索（长期产业资助大学研究中心）（Ulrichsen, 2025, pp.45–46）。
+> 在互动层次上，UIDP（2012）通过 [[Partnership Continuum|伙伴关系连续体]] 将每个合作领域内的互动区分为三个层级：交易（Transaction）——战术性的价值交换；协作（Collaboration）——双方分享想法预期互惠；联盟（Alliance）——共享愿景、长期实质性承诺。这三个层级不是线性的阶段模型——合作可以从任何层级开始，也可以在不同层级之间双向移动。详见 [[Partnership Continuum]]（Southerton et al., 2012, p.7）。Perkmann 和 Salter（2012）则按价值主张区分了四种合作模式：创意实验室（吸引新伙伴、建立关系）、重大挑战协作（适合通过联合体或中心组织）、扩展工作台（解决近期问题）、深度探索（长期产业资助大学研究中心）（Ulrichsen, 2025, pp.45–46）。
 
 > 关系型互动（relational）已取代交易型互动（transactional）成为主导——这反映了隐性知识在思想和[[Technology Transfer|技术转移]]中的关键作用（Schartinger et al., 2002）（Ulrichsen, 2025, p.44）。大企业也经历了从大量零散学术互动向少数战略性大学伙伴集中的转变（Ulrichsen, 2025, pp.44–45）。
 
@@ -488,3 +489,4 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 - [[Ch17_Wolf_Stevenson_Siegel_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]
 - [[Ch12_Ramming_2025]]
+- [[UIDP_2012_PartnershipContinuum]]
