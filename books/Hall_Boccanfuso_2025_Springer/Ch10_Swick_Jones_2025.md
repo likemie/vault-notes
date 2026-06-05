@@ -9,12 +9,12 @@ extracted_to:
   - "[[Triple Helix]]"
   - "[[Values Alignment Model]]"
   - "[[Applied Medical Innovation]]"
-  - "[[Partnership Continuum]]"
   - "[[King-Persily Model]]"
   - "[[Academic Medical Center]]"
   - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
   - "[[Physician-Scientist]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Partnership Continuum]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

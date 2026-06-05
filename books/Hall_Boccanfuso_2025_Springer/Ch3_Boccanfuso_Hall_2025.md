@@ -13,13 +13,13 @@ extracted_to:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Website Content Analysis]]"
   - "[[Triple Helix]]"
-  - "[[Partnership Continuum]]"
   - "[[Industry Affiliate Program]]"
   - "[[Academic Engagement]]"
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Technology Transfer]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Partnership Continuum]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

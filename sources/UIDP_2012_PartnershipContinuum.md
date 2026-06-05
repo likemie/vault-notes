@@ -1,6 +1,8 @@
 ---
-citation: ""
-extracted_to: []
+citation: "Southerton, J., Umberger, G., Matijasevic, G., Steele, S., & Johnson, W. (2012). The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement. University-Industry Demonstration Partnership (UIDP)."
+extracted_to:
+  - "[[Argument_UIDP_2012_PartnershipContinuum]]"
+  - "[[Partnership Continuum]]"
 processed_date: 2026-06-05
 ---
 
