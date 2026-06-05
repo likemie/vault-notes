@@ -14,8 +14,8 @@ extracted_to:
   - "[[US Innovation Policy System]]"
   - "[[China S&T Innovation Policy Evolution]]"
   - "[[Jiebang Guashuai]]"
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Swiss Innovation Policy System]]"
+  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
 processed_date: 2026-06-03
 ---
 
