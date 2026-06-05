@@ -32,8 +32,10 @@ related_facts:
   - "[[Shenzhen Four 90 Percent Innovation Pattern]]"
   - "[[Xi'an Three Reforms on Sci-Tech Achievements]]"
   - "[[Jiebang Guashuai]]"
+  - "[[US Innovation Policy System]]"
   - "[[SBIR and STTR Programs]]"
   - "[[German Dual Education System]]"
+  - "[[German Innovation Policy System]]"
   - "[[Fraunhofer Society Model]]"
   - "[[Tsukuba Science City]]"
   - "[[National Science Foundation]]"
@@ -188,7 +190,7 @@ updated: 2026-06-05
 
 美国在推动科技创新和产业创新深度融合方面有哪些历史经验与典型做法？
 
-美国形成了独特的协同创新体系：政府通过制定科技发展战略规划发挥引领作用，企业积极推动政产学研军深度融合，高校和资本市场主动对接产业需求。这种[[Innovation Ecosystem|创新生态]]有效促进了科技企业、高校院所与风险投资机构的有机互动。
+美国形成了独特的协同创新体系：政府通过[[US Innovation Policy System|美国创新政策体系]]发挥引领作用，企业积极推动政产学研军深度融合，高校和资本市场主动对接产业需求。这种[[Innovation Ecosystem|创新生态]]有效促进了科技企业、高校院所与风险投资机构的有机互动。
 
 ---
 

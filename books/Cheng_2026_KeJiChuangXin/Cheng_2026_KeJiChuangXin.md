@@ -12,8 +12,9 @@ extracted_to:
   - "[[German Dual Education System]]"
   - "[[Fraunhofer Society Model]]"
   - "[[German High-Tech Strategy and Cluster Policy]]"
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[German Innovation Policy System]]"
+  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+  - "[[US Innovation Policy System]]"
 processed_date: 2026-06-03
 ---
 

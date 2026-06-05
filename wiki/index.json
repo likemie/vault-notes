@@ -9605,6 +9605,17 @@
     ]
   },
   {
+    "title": "US Innovation Policy System",
+    "type": "fact",
+    "path": "wiki/facts/us/US Innovation Policy System.md",
+    "aliases": [
+      "美国创新政策体系",
+      "美国科技创新政策",
+      "US Innovation Policy",
+      "American Innovation Policy"
+    ]
+  },
+  {
     "title": "WWC SCD Pilot Standards",
     "type": "fact",
     "path": "wiki/facts/us/WWC SCD Pilot Standards.md",
