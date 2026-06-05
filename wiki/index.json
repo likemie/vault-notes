@@ -8180,6 +8180,41 @@
     ]
   },
   {
+    "title": "Fraunhofer Society Model",
+    "type": "fact",
+    "path": "wiki/facts/germany/Fraunhofer Society Model.md",
+    "aliases": [
+      "弗劳恩霍夫协会",
+      "弗劳恩霍夫模式",
+      "Fraunhofer Society",
+      "Fraunhofer-Gesellschaft"
+    ]
+  },
+  {
+    "title": "German Dual Education System",
+    "type": "fact",
+    "path": "wiki/facts/germany/German Dual Education System.md",
+    "aliases": [
+      "德国双元制职业教育",
+      "双元制",
+      "Duales Ausbildungssystem",
+      "dual vocational training"
+    ]
+  },
+  {
+    "title": "German High-Tech Strategy and Cluster Policy",
+    "type": "fact",
+    "path": "wiki/facts/germany/German High-Tech Strategy and Cluster Policy.md",
+    "aliases": [
+      "德国高技术战略",
+      "创意2020",
+      "走向集群",
+      "High-Tech Strategy",
+      "Ideas 2020",
+      "Go Cluster"
+    ]
+  },
+  {
     "title": "Education at a Glance",
     "type": "fact",
     "path": "wiki/facts/global/Education at a Glance.md",
