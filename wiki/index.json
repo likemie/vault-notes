@@ -1079,6 +1079,16 @@
     ]
   },
   {
+    "title": "STEM Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/STEM Education.md",
+    "aliases": [
+      "STEM教育",
+      "科学、技术、工程和数学教育",
+      "Science, Technology, Engineering, and Mathematics Education"
+    ]
+  },
+  {
     "title": "Test-Based Accountability",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Test-Based Accountability.md",

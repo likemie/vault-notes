@@ -7,7 +7,6 @@ extracted_to:
   - "[[Placemaking]]"
   - "[[Central Florida Research Park]]"
   - "[[Kendall Square]]"
-  - "[[National Science Foundation]]"
   - "[[Purdue Discovery Park]]"
   - "[[Research Triangle Park]]"
   - "[[TUFF]]"
@@ -17,6 +16,7 @@ extracted_to:
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[CHIPS and Science Act]]"
   - "[[University-Industry Collaboration]]"
+  - "[[National Science Foundation]]"
 processed_date: 2026-05-28
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

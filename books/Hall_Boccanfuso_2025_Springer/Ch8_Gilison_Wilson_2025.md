@@ -14,7 +14,6 @@ extracted_to:
   - "[[First Look SoCal]]"
   - "[[Kendall Square]]"
   - "[[NSF I-Corps]]"
-  - "[[National Science Foundation]]"
   - "[[UCSD Innovation and Commercialization Office]]"
   - "[[Innovation Ecosystem]]"
   - "[[Alliance for Southern California Innovation]]"
@@ -22,6 +21,7 @@ extracted_to:
   - "[[Academic Freedom]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[National Science Foundation]]"
 processed_date: 2026-05-29
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

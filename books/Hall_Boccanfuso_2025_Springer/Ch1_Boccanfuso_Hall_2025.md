@@ -6,7 +6,6 @@ extracted_to:
   - "[[APLU Innovation and Economic Prosperity Program]]"
   - "[[California Master Plan for Higher Education]]"
   - "[[Morrill Land-Grant Act of 1862]]"
-  - "[[National Science Foundation]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[University Industry Demonstration Partnership]]"
@@ -19,6 +18,7 @@ extracted_to:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[National Science Foundation]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---
