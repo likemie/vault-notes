@@ -7,14 +7,14 @@ extracted_to:
   - "[[Xi'an Three Reforms on Sci-Tech Achievements]]"
   - "[[Tsukuba Science City]]"
   - "[[DARPA]]"
-  - "[[China S&T Innovation Policy Evolution]]"
   - "[[Pilot Scale Platform]]"
   - "[[German Dual Education System]]"
   - "[[Fraunhofer Society Model]]"
   - "[[German High-Tech Strategy and Cluster Policy]]"
   - "[[German Innovation Policy System]]"
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[US Innovation Policy System]]"
+  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+  - "[[China S&T Innovation Policy Evolution]]"
 processed_date: 2026-06-03
 ---
 
