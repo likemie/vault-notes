@@ -12,13 +12,13 @@ extracted_to:
   - "[[German High-Tech Strategy and Cluster Policy]]"
   - "[[Swiss Innovation Policy System]]"
   - "[[Jiebang Guashuai]]"
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
-  - "[[China S&T Innovation Policy Evolution]]"
   - "[[Open Competition Mechanism]]"
   - "[[German Innovation Policy System]]"
   - "[[Japan Innovation Policy System]]"
   - "[[Korea Innovation Policy System]]"
   - "[[US Innovation Policy System]]"
+  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+  - "[[China S&T Innovation Policy Evolution]]"
 processed_date: 2026-06-03
 ---
 
