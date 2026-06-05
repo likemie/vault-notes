@@ -9,10 +9,10 @@ extracted_to:
   - "[[DARPA]]"
   - "[[China S&T Innovation Policy Evolution]]"
   - "[[Pilot Scale Platform]]"
-  - "[[Fraunhofer Society Model]]"
   - "[[German High-Tech Strategy and Cluster Policy]]"
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[German Dual Education System]]"
+  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+  - "[[Fraunhofer Society Model]]"
 processed_date: 2026-06-03
 ---
 
