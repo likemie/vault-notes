@@ -16,6 +16,7 @@ extracted_to:
   - "[[Jiebang Guashuai]]"
   - "[[Swiss Innovation Policy System]]"
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+  - "[[Japan Innovation Policy System]]"
 processed_date: 2026-06-03
 ---
 
