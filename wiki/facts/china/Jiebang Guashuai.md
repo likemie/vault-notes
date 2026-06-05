@@ -3,7 +3,7 @@ title: Jiebang Guashuai
 aliases:
   - 揭榜挂帅
   - Open Competition Mechanism
-summary: "一种科技项目组织管理机制，即“把需要的关键核心技术项目张出榜来，英雄不论出处，谁有本事谁就揭榜”，打破了传统的科研项目申报和审批限制。"
+summary: “一种科技项目组织管理机制，通过竞争机制以需求和问题为导向遴选最具备技术实力的创新主体承担重大科技攻关任务，常与赛马机制并用。”
 type: fact
 subtype: policy
 region: china
@@ -11,9 +11,7 @@ issuing_organization: ""
 tags:
   - theme/technology-innovation
   - policy/science-and-technology
-related_concepts:
-  - "[[Sci-Tech Achievement Transformation]]"
-  - "[[Principal Status of Enterprises in Innovation]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
@@ -39,7 +37,7 @@ updated: 2026-06-03
 ## 政策文本摘要
 
 > [!abstract]
-> 核心目标是通过竞争机制（如“赛马”），以需求和问题为导向，遴选出最具备技术实力的创新主体来承担重大科技攻关任务。在科技[[Sci-Tech Achievement Transformation|成果转化]]中，该机制强调由企业作为“答题人”或“发榜人”，推动以产业应用为导向的科技攻关。（p.30）
+> 核心目标是通过竞争机制（如”赛马”），以需求和问题为导向，遴选出最具备技术实力的创新主体来承担重大科技攻关任务。在科技成果转化中，该机制强调由企业作为”出题人、答题人、阅卷人”，推动以产业应用为导向的科技攻关（p.30）。
 
 ---
 
@@ -53,7 +51,7 @@ updated: 2026-06-03
 ## 相关概念／理论
 
 > [!tip]
-> - [[Principal Status of Enterprises in Innovation]]
+> - Principal Status of Enterprises in Innovation
 
 ---
 
