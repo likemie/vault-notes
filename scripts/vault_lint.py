@@ -156,6 +156,8 @@ VALID_TYPES = {
     "source",
 }
 
+ARGUMENT_REQUIRED_NEW_ENTRY_TYPES = {"concept", "theory", "method", "person", "fact"}
+
 TYPE_PATH_HINTS = {
     "concept": "wiki/concepts/",
     "theory": "wiki/theories/",
@@ -249,6 +251,19 @@ def run_git(args: List[str]) -> str:
         return result.stdout
     except Exception:
         return ""
+
+
+def git_path_exists_at_head(path: Path) -> bool:
+    r = rel(path)
+    result = subprocess.run(
+        ["git", "-c", "core.quotePath=false", "cat-file", "-e", f"HEAD:{r}"],
+        cwd=ROOT,
+        check=False,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True,
+    )
+    return result.returncode == 0
 
 
 def git_changed_md_files() -> List[Path]:
@@ -872,6 +887,78 @@ def check_path_and_index_consistency(path: Path, data: Optional[Dict[str, Any]],
         issues.append(Issue("WARN", r, f"index title differs from frontmatter title: index={path_to_title.get(r)!r}, fm={title!r}", code="INDEX_TITLE_MISMATCH"))
 
 
+def entry_metadata(path: Path) -> Optional[Dict[str, Any]]:
+    try:
+        text = read_text(path)
+    except Exception:
+        return None
+    fm, _, _ = split_frontmatter(text)
+    if not fm or yaml is None:
+        return None
+    try:
+        data = yaml.safe_load(fm) or {}
+    except Exception:
+        return None
+    return data if isinstance(data, dict) else None
+
+
+def argument_body_links() -> set[str]:
+    links: set[str] = set()
+    argument_dir = WIKI_DIR / "arguments"
+    if not argument_dir.exists():
+        return links
+    for path in iter_md_files(argument_dir):
+        if is_generated_or_template(path):
+            continue
+        data = entry_metadata(path)
+        if not data or data.get("type") != "argument":
+            continue
+        try:
+            text = read_text(path)
+        except Exception:
+            continue
+        _, body, _ = split_frontmatter(text)
+        body = remove_h2_sections(body, ["来源", "Sources", "Source"])
+        for target, _ in extract_wikilinks(body):
+            if target:
+                links.add(target)
+    return links
+
+
+def check_new_entries_mentioned_in_arguments(paths: List[Path], issues: List[Issue]) -> None:
+    new_entries: list[tuple[Path, str, str]] = []
+    for path in paths:
+        if not is_wiki_entry_path(path):
+            continue
+        if git_path_exists_at_head(path):
+            continue
+        data = entry_metadata(path)
+        if not data:
+            continue
+        typ = str(data.get("type") or "").strip()
+        if typ not in ARGUMENT_REQUIRED_NEW_ENTRY_TYPES:
+            continue
+        title = str(data.get("title") or path.stem).strip()
+        if title:
+            new_entries.append((path, title, typ))
+
+    if not new_entries:
+        return
+
+    linked_from_arguments = argument_body_links()
+    for path, title, typ in new_entries:
+        if title in linked_from_arguments:
+            continue
+        issues.append(
+            Issue(
+                "ERROR",
+                rel(path),
+                f"new {typ} entry must be mentioned and wikilinked in an Argument page body: [[{title}]]",
+                code="NEW_ENTRY_NOT_IN_ARGUMENT",
+            )
+        )
+
+
 def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
     # Unclosed code fence.
     if text.count("```") % 2 != 0:
@@ -945,6 +1032,8 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False) -> L
 
     for p in unique_files:
         lint_file(p, by_title, path_to_title, issues)
+
+    check_new_entries_mentioned_in_arguments(unique_files, issues)
 
     return issues
 

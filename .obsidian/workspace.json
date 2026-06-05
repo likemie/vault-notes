@@ -191,8 +191,12 @@
   },
   "active": "b91b74bd55d1e84e",
   "lastOpenFiles": [
+    "scripts/__pycache__/vault_lint.cpython-313.pyc",
     "wiki/facts/china/China S&T Innovation Policy Evolution.md",
     "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
+    "raw/第十一章.txt.sb-2cd5ff2e-ZwywyM",
+    "raw/第十一章.txt",
+    "raw/Cheng_2026_KeJiChuangXin.txt",
     "wiki/facts/china/Open Competition Mechanism.md",
     "wiki/facts/multi/Swiss Innovation Policy System.md",
     "wiki/facts/china/Jiebang Guashuai.md",
@@ -222,10 +226,6 @@
     "wiki/facts/germany/German Dual Education System.md",
     "wiki/concepts/economics/New Quality Productive Forces.md",
     "wiki/concepts/higher-education/International Education.md",
-    "wiki/concepts/higher-education/Innovation Park.md",
-    "wiki/concepts/economics",
-    "wiki/arguments/reports-policy-documents/Argument_UIDP_2012_PartnershipContinuum.md",
-    "raw/第五章.pdf",
-    "raw/Cheng_2026_KeJiChuangXin.pdf"
+    "wiki/concepts/higher-education/Innovation Park.md"
   ]
 }
