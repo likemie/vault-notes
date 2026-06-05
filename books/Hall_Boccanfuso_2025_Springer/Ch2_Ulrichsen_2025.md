@@ -13,8 +13,8 @@ extracted_to:
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Innovation Models Evolution]]"
   - "[[Knowledge Exchange]]"
-  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

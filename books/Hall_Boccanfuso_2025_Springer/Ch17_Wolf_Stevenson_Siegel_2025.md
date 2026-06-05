@@ -13,9 +13,9 @@ extracted_to:
   - "[[Dollinger et al. Framework for UI Collaboration]]"
   - "[[Stokes' Quadrant Model of Scientific Research]]"
   - "[[Triple Helix]]"
-  - "[[Technology Transfer]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
 processed_date: 2026-06-02
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---

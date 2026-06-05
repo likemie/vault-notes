@@ -20,8 +20,8 @@ extracted_to:
   - "[[Alliance for Southern California Innovation]]"
   - "[[SBIR and STTR Programs]]"
   - "[[Academic Freedom]]"
-  - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
 processed_date: 2026-05-29
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

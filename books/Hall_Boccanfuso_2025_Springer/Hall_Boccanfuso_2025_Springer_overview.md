@@ -9,10 +9,10 @@ extracted_to:
   - "[[Triple Helix]]"
   - "[[Innovation Ecosystem]]"
   - "[[Academic Freedom]]"
-  - "[[Technology Transfer]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Argument_Hall(Ed.)_2025_Springer]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
 processed_date: 2026-06-04
 ---
 

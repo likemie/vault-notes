@@ -10,10 +10,10 @@ extracted_to:
   - "[[Technology Transfer Office]]"
   - "[[MN-IP Create]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[Technology Transfer]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Sponsored Research Agreement]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
 processed_date: 2026-06-03
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 ---

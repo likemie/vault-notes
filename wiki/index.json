@@ -507,6 +507,16 @@
     ]
   },
   {
+    "title": "New Quality Productive Forces",
+    "type": "concept",
+    "path": "wiki/concepts/economics/New Quality Productive Forces.md",
+    "aliases": [
+      "新质生产力",
+      "new quality productive forces",
+      "xin zhi sheng chan li"
+    ]
+  },
+  {
     "title": "Absorptive Capacity",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
@@ -1902,6 +1912,18 @@
       "医师科学家",
       "physician scientist",
       "physician-scientists"
+    ]
+  },
+  {
+    "title": "Pilot Scale Platform",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Pilot Scale Platform.md",
+    "aliases": [
+      "中试平台",
+      "中试验证平台",
+      "pilot scale platform",
+      "pilot plant",
+      "中试基地"
     ]
   },
   {

@@ -16,10 +16,10 @@ extracted_to:
   - "[[Industry Affiliate Program]]"
   - "[[Academic Engagement]]"
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
-  - "[[Technology Transfer]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Partnership Continuum]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
 processed_date: 2026-05-27
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

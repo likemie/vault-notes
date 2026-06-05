@@ -16,9 +16,9 @@ extracted_to:
   - "[[Argument_Boccanfuso_Hall_2025_Alignment]]"
   - "[[Rising Above the Gathering Storm 2007]]"
   - "[[Academic Freedom]]"
-  - "[[Technology Transfer]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Technology Transfer]]"
 processed_date: 2026-05-26
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 ---

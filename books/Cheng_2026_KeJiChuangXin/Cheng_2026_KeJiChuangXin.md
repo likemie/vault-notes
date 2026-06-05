@@ -7,8 +7,9 @@ extracted_to:
   - "[[Xi'an Three Reforms on Sci-Tech Achievements]]"
   - "[[Tsukuba Science City]]"
   - "[[DARPA]]"
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[China S&T Innovation Policy Evolution]]"
+  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+  - "[[Pilot Scale Platform]]"
 processed_date: 2026-06-03
 ---
 
