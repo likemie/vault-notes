@@ -38,10 +38,11 @@ sources:
   - "[[Ch10_Swick_Jones_2025]]"
   - "[[Ch15_Susalka_Carbone_2025]]"
   - "[[Hall_Boccanfuso_2025_Springer_overview]]"
+  - "[[UIDP_2012_PartnershipContinuum]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-28
+updated: 2026-06-05
 ---
 
 # University Industry Demonstration Partnership
@@ -131,7 +132,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 > [!note]
 > - **2004 年**：委员会发布白皮书，提议在国家科学院框架内创建 University-Industry Demonstration Partnership（Boccanfuso & Hall, 2025, p.16）
 > - **2006 年**：发布 Guiding Principles to University-Industry Endeavors 作为创始原则。获得 [[National Science Foundation|NSF]]、Kauffman Foundation、UCLA、University of Illinois、Hewlett Packard、Pfizer 和 ExOne 等机构的初始资助（Boccanfuso & Hall, 2025, p.16）
-> - **2012 年**：发布 [[Partnership Continuum]]，展示企业与大学合作的不同模式的图谱（Boccanfuso & Hall, 2025, p.16）
+> - **2012 年**：发布 [[Partnership Continuum]]（Southerton et al., 2012），将产学合作形式按五个领域和三个参与层级系统分类，其开发过程始于 2009 年 UIDP 春季会议上 Wayne Johnson 的初步分类框架，经项目工作组（Jeff Southerton、Geanie Umberger、Goran Matijasevic、Scott Steele、Wayne Johnson）多次电话会议、邮件交流和面对面讨论，并在 UIDP 成员社区的反复反馈中迭代完善（Southerton et al., 2012, pp.4–5）
 
 ---
 
@@ -154,3 +155,4 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 - [[Ch15_Susalka_Carbone_2025]]
 - [[Hall_Boccanfuso_2025_Springer_overview]]
 - [[Ch12_Ramming_2025]]
+- [[UIDP_2012_PartnershipContinuum]]
