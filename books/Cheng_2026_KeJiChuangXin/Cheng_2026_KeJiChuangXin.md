@@ -8,8 +8,8 @@ extracted_to:
   - "[[Tsukuba Science City]]"
   - "[[DARPA]]"
   - "[[China S&T Innovation Policy Evolution]]"
-  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Pilot Scale Platform]]"
+  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
 processed_date: 2026-06-03
 ---
 
