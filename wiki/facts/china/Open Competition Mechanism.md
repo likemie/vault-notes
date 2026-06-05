@@ -1,8 +1,8 @@
 ---
-title: Jiebang Guashuai
+title: "Open Competition Mechanism"
 aliases:
-  - 揭榜挂帅
-  - Open Competition Mechanism
+  - "揭榜挂帅"
+  - "Jiebang Guashuai"
 summary: "一种科技项目组织管理机制，通过竞争机制以需求和问题为导向遴选最具备技术实力的创新主体承担重大科技攻关任务，常与赛马机制并用。"
 type: fact
 subtype: policy

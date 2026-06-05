@@ -10,7 +10,7 @@
 - 先根据材料判断需要建立或更新哪些知识对象，再读 `wiki/index.json` 检索候选条目是否已存在。
 - `wiki/index.json`、`wiki/index.md` 和各类型索引页由 `scripts/wiki_index.py` 自动生成，不手动维护。
 - 修改已有条目必须先读取文件，判断目标章节、子主题与插入位置，再使用 `str_replace` 精确替换相关段落，不重写整个文件。
-- 新建 Concept / Theory / Method / Fact / Person 条目时，必须在同一任务的 Argument 页中至少用一句话提及并链接该条目；不要创建与 Argument 页脱节的孤立条目。
+- 新建 Concept / Theory / Method / Fact / Person 条目时，必须在同一任务的 Argument 页中至少用一句话提及并链接该条目；新增条目必须出现在当前 Argument 的正文论证中，不只出现在 frontmatter、`related_*` 或 `## 来源`。不要创建与 Argument 页脱节的孤立条目。
 - 所有来源性陈述都必须标注页码。非 Argument 条目使用来源与页码；Argument 条目引用当前对应文献时只写页码，如（pp.147–148）。
 - 不使用来源以外的知识；不确定时宁可不写。
 - AI 不手动维护生成字段：`related_*`、YAML `sources`、source record 的 `extracted_to`。
@@ -33,9 +33,9 @@
 6. 读取 `wiki/index.json`，用标题、中文术语、英文变体和缩写检索是否已有。
 7. 将候选分为待更新和待新建。
 8. 更新已有条目：读取文件 → 判断目标章节、子主题与插入位置 → 先按主题归组，再在主题内按时间或论证顺序整合 → 用 `str_replace` 精确替换相关段落。
-9. 新建条目：只读取对应 `wiki/templates/template-*.md` → 按模板逻辑组织内容，先主题后时间。
+9. 新建条目：只读取对应 `wiki/templates/template-*.md` → 按模板逻辑组织内容，先主题后时间；同时记录该条目应回链到当前 Argument 的哪个论证段落。
 10. 实证研究必须更新或新建至少一个 Method 条目，在 `## 使用此方法的研究` 加入一条方法案例，并链接当前 Argument。
-11. 创建或更新 Argument 页，frontmatter 写入 `citation`，正文 `## 来源` 列出 `[[<论文命名>]]`；若有 figure，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。
+11. 创建或更新 Argument 页，frontmatter 写入 `citation`，正文 `## 来源` 列出 `[[<论文命名>]]`；若有 figure，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。本任务新建的每个 Concept / Theory / Method / Fact / Person 都必须在 Argument 正文的相关论证段落中至少出现一次 wikilink，不得只存在于新条目自身或来源列表中。
 12. 更新所有受影响条目的正文 `## 来源`：只放 source wikilink，按来源年份从早到晚排序，同一年按作者或机构字母顺序。
 13. 用最终 `<论文命名>` 创建 source record：期刊论文用 `source_record.py article --record-name <论文命名>`；报告、政策文件、白皮书用 `source_record.py report --record-name <论文命名>`。
 14. 运行 `source_record.py finalize --argument <Argument路径> --rename`，回填 citation；若第 3 步判断有图片占位，则加 `--with-figures`，生成 `sources/<论文命名>/`、`sources/<论文命名>/<论文命名>.md`、`sources/<论文命名>/<论文命名>.pdf` 和 `sources/<论文命名>/figures/`。
@@ -406,6 +406,8 @@ Argument 引用规则：
 ---
 
 ## 8. Extraction Criteria
+
+提取标准只决定“是否值得建条目”。一旦新建 Concept / Theory / Method / Fact / Person，必须同步更新当前 Argument 页，在相关论证段落中用一句话提及并链接该条目；如果无法在 Argument 正文中自然提及，就不要新建，改为在 Argument 中保留纯文字说明。
 
 ### Fact
 

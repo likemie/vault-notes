@@ -10,14 +10,15 @@ extracted_to:
   - "[[German Dual Education System]]"
   - "[[Fraunhofer Society Model]]"
   - "[[German High-Tech Strategy and Cluster Policy]]"
-  - "[[German Innovation Policy System]]"
-  - "[[US Innovation Policy System]]"
-  - "[[China S&T Innovation Policy Evolution]]"
-  - "[[Jiebang Guashuai]]"
   - "[[Swiss Innovation Policy System]]"
+  - "[[Jiebang Guashuai]]"
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+  - "[[China S&T Innovation Policy Evolution]]"
+  - "[[Open Competition Mechanism]]"
+  - "[[German Innovation Policy System]]"
   - "[[Japan Innovation Policy System]]"
   - "[[Korea Innovation Policy System]]"
+  - "[[US Innovation Policy System]]"
 processed_date: 2026-06-03
 ---
 

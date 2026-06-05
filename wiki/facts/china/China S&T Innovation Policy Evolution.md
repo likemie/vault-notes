@@ -24,7 +24,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Jiebang Guashuai]]"
+  - "[[Open Competition Mechanism]]"
 related_arguments: []
 sources:
   - "[[Cheng_2026_KeJiChuangXin]]"
@@ -141,7 +141,7 @@ updated: 2026-06-05
 > [!tip]
 > - [[Systems of Innovation]]
 > - [[Technology Transfer]]
-> - [[Jiebang Guashuai]]
+> - [[Open Competition Mechanism|Jiebang Guashuai]]
 
 ---
 
