@@ -27,11 +27,12 @@ related_facts:
 related_arguments: []
 sources:
   - "[[Ch4_Amos_2022]]"
+  - "[[Cowen_2009_CE]]"
   - "[[Zhou_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Robert Cowen
@@ -141,4 +142,5 @@ Zhou & Westberg (2024) 以 3T 框架分析了[[John Dewey|杜威]]思想在民�
 ## 来源
 
 - [[Ch4_Amos_2022]]
+- [[Cowen_2009_CE]]
 - [[Zhou_2024_CE]]

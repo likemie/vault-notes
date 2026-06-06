@@ -189,8 +189,10 @@
       "obsidian-custom-frames:Open PDF Reader": false
     }
   },
-  "active": "b91b74bd55d1e84e",
+  "active": "1938c14344215b35",
   "lastOpenFiles": [
+    "wiki/concepts/comparative-education/Geometries of Insertion.md",
+    "wiki/concepts/comparative-education/Shape-Shifting.md",
     "wiki/concepts/educational-philosophy/Educational Neuroscience.md",
     "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md",
     "wiki/facts/australia/Educational Services Australia.md",
@@ -224,8 +226,6 @@
     "wiki/facts/australia/Strong Beginnings Report.md",
     "raw/A critique of ‘Strong Beginnings’ initial teacher education reforms mandating neuroscience as core curriculum within the ‘what works’ movement.pdf",
     "scripts/__pycache__/vault_lint.cpython-313.pyc",
-    "wiki/facts/china/China S&T Innovation Policy Evolution.md",
-    "wiki/facts/china/Open Competition Mechanism.md",
-    "wiki/facts/multi/Swiss Innovation Policy System.md"
+    "wiki/facts/china/China S&T Innovation Policy Evolution.md"
   ]
 }

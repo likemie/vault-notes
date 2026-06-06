@@ -20,13 +20,15 @@ related_persons:
   - "[[Robert Cowen]]"
 related_facts:
   - "[[Regional University Alliances]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cowen_2009_CE]]"
 sources:
   - "[[Ch4_Amos_2022]]"
+  - "[[Cowen_2009_CE]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: '2026-06-06'
 ---
 
 ## 定义
@@ -73,3 +75,4 @@ updated: '2026-05-18'
 ## 来源
 
 - [[Ch4_Amos_2022]]
+- [[Cowen_2009_CE]]

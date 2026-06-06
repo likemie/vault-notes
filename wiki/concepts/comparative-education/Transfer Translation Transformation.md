@@ -23,15 +23,31 @@ related_persons:
   - "[[Robert Cowen]]"
   - "[[John Dewey]]"
 related_facts: []
+related_concepts:
+  - "[[Policy Borrowing]]"
+  - "[[Cross-National Attraction]]"
+  - "[[Recontextualization]]"
+  - "[[Scientific Attitude]]"
+  - "[[Shape-Shifting]]"
+  - "[[Geometries of Insertion]]"
+related_theories: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
+related_persons:
+  - "[[Robert Cowen]]"
+  - "[[John Dewey]]"
+related_facts: []
 related_arguments:
+  - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
 sources:
+  - "[[Cowen_2009_CE]]"
   - "[[Zhou_2024_CE]]"
   - "[[Schulte_2009_EncuentrosEducacion]]"
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Transfer Translation Transformation
@@ -46,7 +62,11 @@ updated: 2026-05-26
 - **转化（Transformation）**：社会、经济和政治语境进一步塑造转译产物，使其发生变形或本土化（indigenisation）——这个阶段的产物可能与原始转移内容已经有了质的不同。
 
 > [!quote]
-> Cowen (2009) 将此框架描述为关注教育现象"形变"（shape-shifting）的分析工具（Zhou & Westberg, 2024, p.611）。
+> Cowen (2009) 对三个阶段的原初定义：
+>
+> - "(a) transfer is the movement of an educational idea or practice in supra-national or transnational or inter-national space: the 'space-gate' moment"（p.255）
+> - "(b) translation is the shape-shifting of educational institutions or the re-interpretation of educational ideas which routinely occurs with the transfer in space: 'the chameleon process'"（p.255）
+> - "(c) transformations are the metamorphoses which the compression of social and economic power into education in the new context imposes on the initial translation: that is, a range of transformations which cover both the indigenisation and the extinction of the translated form"（p.255）
 
 ## 概念辨析
 
@@ -77,5 +97,6 @@ updated: 2026-05-26
 
 ## 来源
 
-- [[Zhou_2024_CE]]
+- [[Cowen_2009_CE]]
 - [[Schulte_2009_EncuentrosEducacion]]
+- [[Zhou_2024_CE]]
