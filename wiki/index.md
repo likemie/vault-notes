@@ -969,7 +969,7 @@ Total entries: **1124**
 ### Australia
 
 > [!summary]- Event (1)
-> - [[Australian Education Research Organisation]] — 澳大利亚的教育证据中介组织，成立于2010年代后期，定位为'what works'运动在澳大利亚的制度化载体，推动基于证据的教育实践，并与英国EEF保持紧密联系。
+> - [[Australian Education Research Organisation]] — 澳大利亚的教育证据中介组织，成立于2010年代后期，定位为what works运动在澳大利亚的制度化载体，推动基于证据的教育实践，并与英国EEF保持紧密联系。
 
 > [!summary]- Policy (8)
 > - [[Australian Curriculum]] — 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
@@ -978,7 +978,7 @@ Total entries: **1124**
 > - [[Karmel Report]] — 澳大利亚学校委员会临时报告，将学校自主权定位为参与式民主的草根改革，启动需求本位拨款模型
 > - [[Local Schools Local Decisions]] — 2011 至 2018 年新南威尔士州推行的学校权力下放政策，将更多预算与管理责任下移到学校层面并重塑公立学校治理
 > - [[My School Website]] — 澳大利亚用于公开学校表现并支持横向比较的国家网站，以 NAPLAN 等数据强化透明度、问责和学校竞争
-> - [[Strong Beginnings Report]] — 澳大利亚政府2023年发布的教师教育专家小组报告，提出14项建议，首次将神经科学和'大脑与学习'作为初始教师教育的核心内容强制纳入国家认证标准。
+> - [[Strong Beginnings Report]] — 澳大利亚政府2023年发布的教师教育专家小组报告，提出14项建议，首次将神经科学和大脑与学习作为初始教师教育的核心内容强制纳入国家认证标准。
 > - [[Victorian HITS and Literacy Toolkit]] — 维州教育部发布的高影响教学策略和识字工具包，以 Visible Learning 等证据综合为重要参考并引发证据基础争议
 
 ### Belgium
@@ -1210,7 +1210,7 @@ Total entries: **1124**
 > [!summary]- Event (7)
 > - [[Advanced Manufacturing Research Centre (AMRC)]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
 > - [[Areopagitica]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
-> - [[Education Endowment Foundation]] — 英国的教育证据中介组织，2011年成立，由公益基金资助，通过制作教学工具包和资助RCT来推广基于证据的教育实践，是全球'what works'运动在教育领域的制度化标杆。
+> - [[Education Endowment Foundation]] — 英国的教育证据中介组织，2011年成立，由公益基金资助，通过制作教学工具包和资助RCT来推广基于证据的教育实践，是全球what works运动在教育领域的制度化标杆。
 > - [[Hargreaves 1996 TTA Lecture]] — David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
 > - [[Playing for Success]] — 英国依托足球俱乐部场地设立的学习支持中心项目，结合体育吸引力与课外辅导实践，后续成为教育证据聚合争议中的重要案例
 > - [[Research Excellence Framework]] — 2014 年起取代 RAE 的英国全国性大学研究评估体系，评估结果直接决定 QR 研究拨款的分配，是高等教育准市场最成熟也最具影响力的制度形式
@@ -1384,7 +1384,7 @@ Total entries: **1124**
 > - [[Argument_SpronkenSmith_2024_AEHE]] — 通过美新三国 PhD 毕业生调查与访谈，比较 HASS 与科学学科博士特质发展与职场应用的差距，识别出团队合作等五大薄弱领域，提出含全球公民维度的七域分类框架
 
 > [!summary]- Australian Educational Researcher (1)
-> - [[Argument_Skourdoumbis_2024_AER]] — 运用Bacchi的WPR方法批判澳大利亚'强劲开端'报告，指出将神经科学强制纳入教师教育课程是简化主义做法，且服务于证据中介组织和保守智库的私人利益。
+> - [[Argument_Skourdoumbis_2024_AER]] — 运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，指出将神经科学强制纳入教师教育课程是简化主义做法，且服务于证据中介组织和保守智库的私人利益。
 
 > [!summary]- Australian Journal of Language and Literacy (1)
 > - [[Argument_OConnor_2020_AJLL]] — 以 VL 全语言处理为案例的细读审查：揭示分类错误、不对称审查（接受 -0.65/修正 +0.65）、选择性排除（VL 唯一被修正效应量的元分析），论证先验偏见驱动数据选择
