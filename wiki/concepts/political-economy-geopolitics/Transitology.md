@@ -60,6 +60,8 @@ updated: '2026-06-06'
 > **起源（1996–2000）**。Cowen (1996) 提出现代与晚期现代教育的双轴比较模型，为 transitology 提供了可视化工具。Cowen (2000) 在 *Comparative Education* 正式定义 transitology，将教育定位为社会转型中破坏过去、重新定义未来的象征性和重构性力量（Cowen, 2000, p.338）。
 >
 > **宽松使用（2022）**。Amos 指出，很少看到国家机器像柏林墙倒塌那样戏剧性地崩溃。但若将 Cowen 的术语做更宽松的使用，从国家中心到市场中心的教育关系转变可被视为当前的 transitology（Amos, 2022, pp.53–54）。这一解读将 transitology 从历史事件扩展到了正在进行的结构性转型。
+>
+> 详见 [[Argument_Cowen_2009_CE]] 对 transitology 与流动性、3T 框架和形变问题的完整论述。
 
 ---
 
