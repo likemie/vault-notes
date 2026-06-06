@@ -72,7 +72,7 @@ Total entries: **130**
 > - [[Argument_SpronkenSmith_2024_AEHE]] — 通过美新三国 PhD 毕业生调查与访谈，比较 HASS 与科学学科博士特质发展与职场应用的差距，识别出团队合作等五大薄弱领域，提出含全球公民维度的七域分类框架
 
 > [!summary]- Australian Educational Researcher (1)
-> - [[Argument_Skourdoumbis_2024_AER]] — 运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，指出将神经科学强制纳入教师教育课程是简化主义做法，且服务于证据中介组织和保守智库的私人利益。
+> - [[Argument_Skourdoumbis_2024_AER]] — 运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，指出该报告虽因教师短缺而发起却回避工作量问题，将神经科学强制纳入ITE核心课程是简化主义做法，忽视了神经科学的历史风险和OECD自身的批评。AERO的未发表研究综合、CIS资助的指定参考文献和AITSL扩大认证权力揭示了什么有效运动如何服务于证据中介组织和保守智库的私人利益。
 
 > [!summary]- Australian Journal of Language and Literacy (1)
 > - [[Argument_OConnor_2020_AJLL]] — 以 VL 全语言处理为案例的细读审查：揭示分类错误、不对称审查（接受 -0.65/修正 +0.65）、选择性排除（VL 唯一被修正效应量的元分析），论证先验偏见驱动数据选择

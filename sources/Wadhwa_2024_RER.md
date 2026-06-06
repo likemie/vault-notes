@@ -10,7 +10,6 @@ extracted_to:
   - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
   - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
   - "[[Collaborative for Academic Social and Emotional Learning Guide]]"
-  - "[[Communities in Schools]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[National Dropout Prevention Center]]"
   - "[[Open Court Reading]]"
@@ -28,6 +27,7 @@ extracted_to:
   - "[[Randomised Controlled Trials]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Communities in Schools]]"
 processed_date: 2026-05-05
 ---
 

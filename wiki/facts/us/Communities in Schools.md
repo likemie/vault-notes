@@ -2,18 +2,17 @@
 title: Communities in Schools
 aliases:
   - 学校中的社区
-  - CIS
 summary: "美国综合学生支持项目，在多个证据清算中心中获得不一致评级，是教育干预证据分歧的典型案例"
 type: fact
 subtype: event
 region: us
 tags:
-- communities-in-schools
-- cis
-- dropout-prevention
-- educational-program
-- clearinghouse-rating-case
-- region/us
+  - communities-in-schools
+  - cis
+  - dropout-prevention
+  - educational-program
+  - clearinghouse-rating-case
+  - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
@@ -32,8 +31,8 @@ sources:
   - "[[Wadhwa_2024_RER]]"
 confidence: medium
 status: draft
-created: '2026-05-05'
-updated: '2026-05-18'
+created: 2026-05-05
+updated: 2026-05-18
 ---
 ## 概述
 

@@ -13,8 +13,7 @@ tags:
   - policy/evidence-based
   - region/uk
   - theme/intermediary-organisation
-related_concepts:
-  - "[[What Works Movement]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -35,7 +34,7 @@ updated: 2026-06-06
 ## 背景
 
 > [!info]
-> EEF成立于2011年，由萨顿信托（Sutton Trust）和教育捐赠基金资助，是英国"[[What Works Movement|what works]]"运动在教育领域的核心机构。其使命是通过制作教学工具包（Teaching and Learning Toolkit）和资助[[Randomised Controlled Trials|随机对照试验]]，帮助学校更好地使用证据来改进教学实践。
+> EEF成立于2011年，由萨顿信托（Sutton Trust）和教育捐赠基金资助，是英国"what works"运动在教育领域的核心机构。其使命是通过制作教学工具包（Teaching and Learning Toolkit）和资助[[Randomised Controlled Trials|随机对照试验]]，帮助学校更好地使用证据来改进教学实践。
 
 ---
 

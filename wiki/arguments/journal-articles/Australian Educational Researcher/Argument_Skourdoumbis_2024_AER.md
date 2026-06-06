@@ -3,7 +3,7 @@ title: Argument_Skourdoumbis_2024_AER
 authors:
   - "Skourdoumbis, A."
   - "Rowe, E."
-summary: "运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，指出将神经科学强制纳入教师教育课程是简化主义做法，且服务于证据中介组织和保守智库的私人利益。"
+summary: "运用Bacchi的WPR方法批判澳大利亚《强劲开端》报告，指出该报告虽因教师短缺而发起却回避工作量问题，将神经科学强制纳入ITE核心课程是简化主义做法，忽视了神经科学的历史风险和OECD自身的批评。AERO的未发表研究综合、CIS资助的指定参考文献和AITSL扩大认证权力揭示了什么有效运动如何服务于证据中介组织和保守智库的私人利益。"
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Graduate Attributes]]"
   - "[[Boundary Spanner]]"
   - "[[School Leadership]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -78,12 +79,12 @@ updated: 2026-06-06
 
 报告提出四项优先改革（共14条建议），本文聚焦优先改革1（pp.17–21）：
 
-| 优先改革 | 概要 |
-|---|---|
-| 改革1：强化ITE项目 | 建立核心内容并纳入国家认证，核心内容包括：大脑与学习、有效教学实践、课堂管理、回应性教学 |
-| 改革2：绩效与资金挂钩 | 强化ITE项目绩效与资金之间的联系 |
-| 改革3：改善实习质量 | 提升教学实习经验的质量 |
-| 改革4：改善研究生ITE | 吸引更多中途转业者进入研究生ITE项目 |
+| 优先改革         | 概要                                                                                             |
+| ------------ | ---------------------------------------------------------------------------------------------- |
+| 改革1：强化ITE项目  | 建立核心内容并纳入国家认证，核心内容包括：大脑与学习、[[Effective Teaching\|有效教学]]实践、[[Classroom Management\|课堂管理]]、回应性教学 |
+| 改革2：绩效与资金挂钩  | 强化ITE项目绩效与资金之间的联系                                                                              |
+| 改革3：改善实习质量   | 提升教学实习经验的质量                                                                                    |
+| 改革4：改善研究生ITE | 吸引更多中途转业者进入研究生ITE项目                                                                            |
 
 核心内容要求ITE学生学习"新手大脑与专家大脑的明确区分"、"生物初级知识与生物次级知识获取的特征"，以及"大脑如何学习和保持信息"、"大脑如何掌握知识"（p.95）。指定参考文献中明确反对自主学习和探究式学习（p.96）。核心内容将嵌入并绑定教师毕业标准（1.1和1.2），ITE提供商需在认证过程中提供证据证明课程"连贯地整合了核心内容"（p.17），预计在2025年底前嵌入所有ITE项目（Mockler, 2023, p.128）。
 
@@ -113,14 +114,14 @@ updated: 2026-06-06
 
 报告将"大脑与学习"定位为客观、价值中立的科学知识，作为解决教育问题的权威方案。核心内容围绕三个焦点展开："新手学习者与专家学习者的对比"、"大脑如何学习和保持信息"、"大脑如何掌握知识"（p.95）。明确区分"新手大脑"（novice brain）与"专家大脑"（expert brain），要求ITE学生学习"生物初级知识与生物次级知识获取的特征"（characteristics of biologically primary and biologically secondary knowledge acquisition），并明确反对自主学习（self-directed learning）和探究式学习（inquiry-based learning）（pp.6-7）。
 
-> [!note] 脑科学方法的具体要求
-> 核心内容的教学逻辑可以还原为一个简化链条：新手大脑 ≠ 专家大脑 → 教学必须按照大脑的认知规律设计 → 自主学习和探究式学习不符合新手大脑的特征 → 因此必须被排除。这一链条将教育决策的依据从多元的教学研究转向了单一的脑科学叙事。
+> [!note] 核心内容的简化逻辑链
+> 新手大脑 ≠ 专家大脑 → 教学必须按照大脑的认知规律设计 → 自主学习和探究式学习不符合新手大脑的特征 → 因此必须被排除。这一链条将教育决策的依据从多元的教学研究转向了单一的脑科学叙事。
 
 但这种脑科学方法将学习简化为大脑内部的信息处理活动，忽视了维果茨基社会文化理论（Vygotsky's sociocultural theory）所强调的社会互动和情境因素。正如Rose和Rose（1976）所言，脑科学"不能被用来消解社会学；两者之间存在辩证互动"（p.121）。OECD（2007）也指出，神经科学"绝非万能药"（no silver bullet），需要真正的跨学科方法（p.7）；更早的OECD（2002）报告则警告：神经科学虽然可以"为教育提供信息"，但"存在创建一个过度科学化和高度顺从的教育体系的风险"（p.17）。OECD（2007）进一步指出，神经科学可以被滥用——曾率先倡导"基于脑的教育"的Bruer后来成为了这一概念最强烈的批评者之一（p.132）。
 
 Choudhury和Wannyn（2022）指出，许多脑科学教育的倡导者或游说者缺乏"认知神经科学方面的正式训练"（p.35），倾向于代表各种议程和商业利益，将脑科学视为"通过将[脑科学]作为现成解决方案来营销"以获利（p.35）。
 
-> [!example] 简化主义的现实后果
+> [!warning] 简化主义的现实后果
 > 试想一位ITE学生在课堂上学到"新手大脑不适应探究式学习"。这一判断如果被当作"科学事实"接受，那么所有以学生主动探索为核心的教学法——项目式学习、问题导向学习、合作探究——都将被贴上"不符合脑科学"的标签而遭到系统性排斥。教育实践中丰富多样的教学策略被压缩为一条单一的认知规则。
 
 ---
@@ -134,8 +135,10 @@ Choudhury和Wannyn（2022）指出，许多脑科学教育的倡导者或游说�
 > [!quote] 历史教训
 > Rose & Rose（1976）指出，当所有人类经验被归入"刺激-反应、奖励-惩罚"的范畴时，个人在竞争社会中的成功或失败被视为"其化学或大脑结构的缺陷"（a defect of their chemistry or brain structure）（引自 p.7）。
 
-> [!warning] 非人化效果与隐藏的种族主义
-> 脑科学方法可能特别对弱势背景学生造成非人化效果。当学习被简化为大脑活动时，来自贫困家庭、少数族裔或文化边缘群体的学生如果表现不佳，其原因更容易被归咎于"大脑发育"或"认知特征"，而非教育资源不平等、社会排斥或制度性歧视。这种归因方式将伪科学话语作为"隐藏的种族主义"（hidden racism）运作（p.7）。
+> [!warning] 隐藏的种族主义与缺陷叙事
+> Gillborn（2016）论证了伪科学话语如何作为"隐藏的种族主义"（hidden racism）运作——对遗传学的强调使得"科学事实"被用于种族主义话语和缺陷设定的政策议程（p.366）。当学习被简化为大脑活动时，来自贫困家庭、少数族裔或文化边缘群体的学生如果表现不佳，其原因更容易被归咎于"大脑发育"或"认知特征"，而非教育资源不平等、社会排斥或制度性歧视。
+>
+> "新手对专家"的二元框架将学生固定在缺陷叙事中——"这个学生拥有新手的大脑"被当作稳定的认知定位，而非可发展的学习阶段（Mahoney, 2023）。脑科学方法"鼓励学生通过外部客观化来发展自我形象，这种客观化由神经科学家提供并由教育者强化"（Choudhury & Wannyn, 2022, p.44）。报告暗示人工智能可能进一步放大这种通过伪科学话语进行监控和权威治理的风险。
 
 ---
 
@@ -143,10 +146,15 @@ Choudhury和Wannyn（2022）指出，许多脑科学教育的倡导者或游说�
 
 WPR方法追问的第六个问题是：这种问题表征如何被生产、传播和捍卫？在《强劲开端》中，[[Australian Education Research Organisation|AERO]]发挥了关键的塑造作用。
 
-AERO的CEO是专家小组成员，AERO被委托负责审查和综合证据（p.8）。Mockler（2023）指出，核心内容是基于AERO为审查准备的"未发表研究综合"（unpublished research synthesis）设计的。这意味着决定ITE课程内容的关键证据从未经过同行评审或公开检验。
+AERO的CEO Jenny Donovan是专家小组成员——她曾任教育统计与评估中心（CESE）执行主任（Lewis & Hogan, 2019讨论了CESE的角色）。AERO被委托"审查和综合……教育中的循证实践"（p.27），并按照其"证据标准"对这些实践进行评级。Mockler（2023）指出，核心内容是基于AERO为审查准备的"未发表研究综合"（unpublished research synthesis）设计的（p.128）。这意味着决定ITE课程内容的关键证据从未经过同行评审或公开检验。
+
+AERO在《强劲开端》发表前不久委托了证据与实施中心（CEI）进行"什么有效"的桌面审查（Abdo et al., 2021）。CEI自我定位为"全球性非营利证据中介"（p.2），审查所"咨询的专家"大部分来自CEI自身和"什么有效"机构（p.15）。AERO并非自己开展审查，而是委托外部机构在"有限的澳大利亚证据"基础上完成（p.41）。
 
 > [!note] AERO的机构定位
-> AERO明确将自身定位为[[What Works Movement|什么有效运动]]的一部分。其组织蓝图与英国[[Education Endowment Foundation|EEF]]保持紧密联系——EEF创始人Sir Kevan Collins在AERO专家委员会任职，AERO被建议以EEF为蓝本建立（p.8）。AERO董事会曾推动更"权威的"（authoritative）政策立场，包括取消ITE项目认证或实施惩罚性资金分配（p.9）。
+> AERO明确将自身定位为[[What Works Movement|什么有效运动]]的一部分（Abdo et al., 2021, p.5）。其组织蓝图与英国[[Education Endowment Foundation|EEF]]保持紧密联系——EEF创始人Sir Kevan Collins在AERO专家委员会任职（AERO, 2022），AERO被建议以EEF为蓝本建立（Productivity Commission, 2016, p.20）。EEF的"建设全球教学证据生态"五年项目（2018年启动）由BHP基金会资助，旨在合作国家建立"EEF式组织"以推动[[Knowledge Production|知识生产]]（EEF, 2024）。此前EEF还资助了澳大利亚的"Evidence for Learning"（Social Ventures Australia的子公司）。
+
+> [!warning] AERO董事会与专家组的分歧
+> 《强劲开端》报告暗示了专家小组成员之间的分歧。AERO董事会"强调倾向于对核心内容进行权威性的全国阐述"，认为"任何低于此的措施都不足以支撑认证小组和ITE项目开发者对这些实践的一致理解"——但专家组并不同意，认为"不需要对认证标准和程序进行全面审查来实施核心内容"（pp.31）。AERO董事会推动的更"权威的"（authoritative）政策立场，包括取消ITE项目认证或实施惩罚性资金分配（p.9）。
 
 > [!abstract] 证据中介的权力逻辑
 > 证据中介组织（evidence [[Boundary Spanner|intermediary]] organizations）的运作逻辑可以这样理解：它们不直接生产研究，而是筛选、综合和"翻译"研究，决定哪些证据"有效"、哪些"无效"。当这种筛选权与认证权和资金权结合时，证据中介就不再是中性的信息传递者，而成为了政策权力的关键节点。AERO同时掌握证据审查权和政策建议权，形成了"自己出题、自己答题、自己判卷"的闭环。
@@ -157,10 +165,13 @@ AERO的CEO是专家小组成员，AERO被委托负责审查和综合证据（p.8
 
 报告的核心内容包含指定的参考文献和必读文本，其中包括保守智库[[Communities in Schools|CIS]]（Centre for Independent Studies）资助的研究（pp.9-10）。
 
-认知负荷理论（Cognitive Load Theory, CLT；John Sweller）构成指定参考文献的主要部分。Sweller的工作同时被CIS和EEF推广，其理论被呈现为ITE教师必须掌握的"科学基础"。这意味着ITE学生将被强制阅读由保守智库开发和资助的出版物，而这些出版物的意识形态立场在"科学证据"的包装下变得不可见。
+认知负荷理论（Cognitive Load Theory, CLT；John Sweller）构成指定参考文献的主要部分。Sweller的工作同时被CIS和[[Education Endowment Foundation|EEF]]推广（EEF, 2023），其理论被呈现为ITE教师必须掌握的"科学基础"。特别值得注意的是，指定参考文献中包括Sweller（2021）由CIS资助出版的《为什么探究式学习有害学生学习》（Why inquiry-based approaches harm students' learning, Analysis Paper 24），这意味着ITE学生将被强制阅读由保守智库开发和资助的出版物，而这些出版物的意识形态立场在"科学证据"的包装下变得不可见。
 
 > [!example] 政策行动者的多重关联
-> Jennifer Buckingham是CIS的高级研究员，同时担任澳大利亚教学与[[School Leadership|学校领导力]]协会（AITSL）的非执行董事。她广泛推广了这些改革，在保守智库和政策制定机构之间架起了直接通道（p.10）。这种多重身份关联揭示了一个关键问题：当同一个体同时在"证据生产"端（CIS资助研究）和"政策采纳"端（AITSL董事会）拥有影响力时，"循证决策"的中立性就值得怀疑。
+> Jennifer Buckingham是CIS的资深研究员和董事会成员（CIS, 2024），同时担任澳大利亚教学与[[School Leadership|学校领导力]]协会（AITSL）的非执行董事（AITSL, 2017）。她广泛推广了《强劲开端》改革（Buckingham, 2023），在保守智库和政策制定机构之间架起了直接通道（p.10）。当同一个体同时在"证据生产"端（CIS资助研究）和"政策采纳"端（AITSL董事会）拥有影响力时，"循证决策"的中立性就值得怀疑。这种模式与美国的"理念编排"（idea orchestration）现象相似——多个中介组织、证据经纪人和智库围绕特定理念协同运作（Lubienski et al., 2016）。
+
+> [!note] 中介组织的制度性利益
+> 利益关联不限于个体层面。LANTITE（初始教师教育学生读写和算术测试）为澳大利亚教育研究委员会（ACER）带来了可观收入，估计每年约370万澳元（Barnes & Cross, 2020; Knott, 2016）。AITSL、ACARA和AERO均由注册慈善机构Educational Services Australia（ESA）支撑（p.10注释5），形成了制度性的利益共同体。
 
 > [!warning] 私人利益的隐身术
 > 报告将这些参考文献呈现为"科学共识"或"最佳证据"，而非特定意识形态立场的产物。ITE学生在学习这些内容时，很可能不会意识到自己正在接受的是由保守智库策展的知识体系。私人利益在"循证"话语的掩护下完成了隐身。
@@ -169,9 +180,9 @@ AERO的CEO是专家小组成员，AERO被委托负责审查和综合证据（p.8
 
 ### 第六步：权力强化：AITSL与认证机制的扩大
 
-改革将AITSL的职权范围扩大到负责将核心内容添加到认证标准中，并建立ITE质量保证委员会（p.10）。标准化核心内容与认证机制的捆绑，使得质疑核心内容的科学基础就等于质疑项目的认证资格。
+改革将AITSL的职权范围扩大到负责将核心内容添加到认证标准中。报告建议1明确指出："澳大利亚教学与学校领导力协会将'核心内容'作为附表添加到认证标准和程序中。该附表应描述ITE项目应教授的内容和应达到的学习成果"（p.17）。同时建立ITE质量保证委员会（建议3，p.10），与绩效资金挂钩（改革2），形成了"不达标则取消认证"的惩罚性机制。
 
-报告的语言选择也反映了这一权力逻辑：全文强调"证据"（evidence，200次）、"认证"（accreditation，197次）和"评估"（assessment，90次），而"工作量"（workload）、"薪酬"（salary）或"劳动条件"（working conditions）等与教师流失直接相关的词汇几乎缺席（p.6）。
+报告的语言选择也反映了这一权力逻辑：全文强调"证据"（evidence，200次）、"认证"（accreditation，197次）和"评估"（assessment，90次），而"工作量"（workload）、"薪酬"（salary）或"劳动条件"（working conditions）等与教师流失直接相关的词汇几乎缺席（p.6）。标准化核心内容的推进伴随着"监控的渐进蔓延"和"表演性问责"（Daliri-Ngametua et al., 2022），以及"脚本化教学法"（Hickey et al., 2022, p.294）。
 
 > [!abstract] 惩罚性问责的逻辑闭环
 > 标准化核心内容 → 认证标准绑定 → 不达标则取消认证 → 惩罚性资金分配。这一逻辑闭环将"循证"转化为强制机制：不是"你可以参考这些证据"，而是"你必须教这些内容，否则你的项目将被取消认证"。
@@ -185,11 +196,12 @@ AERO的CEO是专家小组成员，AERO被委托负责审查和综合证据（p.8
 
 > [!success] 核心结论
 > - 《强劲开端》报告首次在澳大利亚全国范围内将神经科学强制纳入ITE核心课程，代表了一个重要的政策转折点（p.2）
-> - 报告虽因教师短缺而发起，但几乎未涉及教师流失的主要原因（工作量），而是将"问题"重新界定为教师质量和课堂准备度不足（pp.4-5）
-> - 脑科学方法将学习简化为大脑内部活动，忽视了社会互动和情境因素，且报告未讨论神经科学的任何局限性或历史风险（pp.6-7）
-> - [[Australian Education Research Organisation|AERO]]在报告中发挥了关键影响，其CEO是专家小组成员，核心内容基于AERO的"未发表研究综合"设计（pp.8-9）
-> - 指定参考文献中包含[[Communities in Schools|CIS]]资助的研究，ITE学生将被强制纳入由保守智库开发的出版物（pp.9-10）
-> - 改革将扩大AITSL的职权范围和认证权力，反映了[[What Works Movement|什么有效运动]]的惩罚性问责逻辑（p.10）
+> - 报告虽因教师短缺而发起，但几乎未涉及教师流失的主要原因（工作量），而是将"问题"重新界定为教师质量和课堂准备度不足（pp.4-5）。2022年毕业生结果调查的满意度数据（75%）并不支持"教师培训质量低下"的判断
+> - 脑科学方法将学习简化为大脑内部活动，忽视了社会互动和情境因素，且报告未讨论神经科学的任何局限性或历史风险（pp.6-7）。OECD（2002, 2007）两份报告均阐述了神经科学的局限性，但《强劲开端》对此只字未提
+> - [[Australian Education Research Organisation|AERO]]在报告中发挥了关键影响，其CEO是专家小组成员，核心内容基于AERO的"未发表研究综合"设计（pp.8-9）。AERO董事会与专家组之间存在分歧，前者推动更"权威的"惩罚性立场
+> - 指定参考文献中包含[[Communities in Schools|CIS]]资助的研究（特别是Sweller, 2021），ITE学生将被强制纳入由保守智库开发的出版物（pp.9-10）。Jennifer Buckingham同时在CIS和AITSL拥有影响力
+> - 改革将扩大AITSL的职权范围和认证权力，反映了[[What Works Movement|什么有效运动]]的惩罚性问责逻辑（p.10）。标准化核心内容与"回应性教学"之间存在智识上的不一致
+> - 这些改革代表了一场关于知识的斗争，从"教育作为人类沟通、意义建构和解释的事件"转向"[[Causality|因果关系]]"（Biesta et al., 2015, p.11），从根本上削弱了教学和学习的本质
 
 ---
 
@@ -204,12 +216,20 @@ AERO的CEO是专家小组成员，AERO被委托负责审查和综合证据（p.8
 > [!quote] 惩罚性问责
 > "the standardisation of core curriculum, which will be tied to accreditation processes and graduate teacher standards, is underpinned by a punitive-accountability based approach."（p.2）
 
+> [!quote] 知识斗争的本质
+> "the danger in this shift in emphasis from viewing 'education as a human event of communication, meaning making and interpretation towards cause-effect relationships' is of profound relevance for all involved in teacher education in Australia."（Biesta et al., 2015, p.11；引自 p.10）
+
+> [!quote] 教育过度科学化的风险
+> "whilst on the one hand neurosciences can 'inform education', on the other it 'runs the risk of creating an education system which is excessively scientific and highly conformist'."（OECD, 2002, p.17；引自 p.7）
+
 ---
 
 ## 自述局限
 
-> [!warning] 作者的理论边界
-> 作者明确指出，他们并非论证科学是无效的调查工具，而是认为"rigid positivistic principles and a mechanistic worldview cannot account for the multifaceted human actions that form the human experience"。他们也承认需要承认学校和课堂的社会学需要广泛的认识论基础（p.10）。
+> [!note] 作者的理论边界
+> 作者明确指出，他们并非论证科学是无效的调查工具，而是认为"rigid positivistic principles and a mechanistic worldview cannot account for the multifaceted human actions that form the human experience"。他们也承认需要承认学校和课堂的社会学需要广泛的认识论基础，反映对"证据时代"中证据如何被建构的关注（Helgetun & Menter, 2022）。
+>
+> 作者同时指出，这些改革的影响超越澳大利亚国境。在英格兰，学校主导的ITE体系的嵌入以及对"什么有效"运动和神经科学确定性的依赖，正在对大学为基础的ITE的本体论、价值论和实践论进行"积极的破坏和推翻"（Biesta et al., 2015；引自 p.10）。
 
 ---
 
