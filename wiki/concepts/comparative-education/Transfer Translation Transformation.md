@@ -55,8 +55,16 @@ updated: 2026-06-06
 > Cowen (2009) 对三个阶段的原初定义：
 >
 > - "(a) transfer is the movement of an educational idea or practice in supra-national or transnational or inter-national space: the 'space-gate' moment"（p.255）
+>
+> 转移是教育思想或实践在超国家、跨国或国际空间中的移动，即太空门时刻。
+>
 > - "(b) translation is the shape-shifting of educational institutions or the re-interpretation of educational ideas which routinely occurs with the transfer in space: 'the chameleon process'"（p.255）
+>
+> 转译是教育制度的形变或教育思想的重释，通常伴随空间转移而发生，即变色龙过程。
+>
 > - "(c) transformations are the metamorphoses which the compression of social and economic power into education in the new context imposes on the initial translation: that is, a range of transformations which cover both the indigenisation and the extinction of the translated form"（p.255）
+>
+> 转化是新语境中社会经济权力的压缩对初始转译产物施加的变形，即一个涵盖本土化和灭绝的变形范围。
 
 ---
 

@@ -13,6 +13,7 @@ tags:
 related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Policy Borrowing]]"
+  - "[[Shape-Shifting]]"
   - "[[Vergegenkunft]]"
   - "[[International Education]]"
 related_theories: []
@@ -20,7 +21,8 @@ related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cowen_2009_CE]]"
 sources:
   - "[[Cowen_2009_CE]]"
   - "[[Ch4_Amos_2022]]"
@@ -41,6 +43,8 @@ updated: '2026-06-06'
 
 > [!quote]
 > "[…] the more or less simultaneous collapse and reconstruction of (a) state apparatuses; (b) social and economic stratification systems; and (c) political visions of the future; in which (d) education is given a major symbolic and reconstructionist role in these social processes of destroying the past and redefining the future."（Cowen, 2000, p.338）
+>
+> 国家机器、社会经济分层体系和政治愿景或多或少地同时崩溃与重建，其中教育被赋予了在这些摧毁过去、重新定义未来的社会过程中扮演重要象征性和重构性角色的地位。
 
 这种转型具有时间压缩的特征，即主要的国家机器、社会经济分层体系和政治愿景在大约十年内同时崩溃和重新定义（Cowen, 2009, p.320）。
 
@@ -61,7 +65,7 @@ updated: '2026-06-06'
 >
 > **宽松使用（2022）**。Amos 指出，很少看到国家机器像柏林墙倒塌那样戏剧性地崩溃。但若将 Cowen 的术语做更宽松的使用，从国家中心到市场中心的教育关系转变可被视为当前的 transitology（Amos, 2022, pp.53–54）。这一解读将 transitology 从历史事件扩展到了正在进行的结构性转型。
 >
-> 详见 [[Argument_Cowen_2009_CE]] 对 transitology 与流动性、3T 框架和形变问题的完整论述。
+> 详见 [[Argument_Cowen_2009_CE]] 对 transitology 与流动性、[[Transfer Translation Transformation|3T 框架]]和[[Shape-Shifting|形变]]问题的完整论述。
 
 ---
 

@@ -39,6 +39,8 @@ updated: 2026-06-06
 
 > [!quote]
 > "With 'context' rethought and subdued within a theory of transfer, translation, transformation and shape-shifting, we would have a 'geometry of insertion' for ideas and practices which – although they were created in one place – could be inserted in another."（Cowen, 2009, p.287）
+>
+> 如果将情境在转移、转译、转化和形变的理论中重新概念化并加以驯服，我们就能获得一种嵌入几何学，用于分析那些在一处创造却可以被嵌入另一处的思想和实践。
 
 这一概念的核心问题是：如果我们真的掌握了教育跨国移动的完整机制，我们就能系统地将思想从一个语境"嵌入"另一个语境。那么，这种能力的政治、伦理和后果是什么？
 

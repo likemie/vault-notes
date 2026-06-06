@@ -41,6 +41,8 @@ updated: 2026-06-06
 
 > [!quote]
 > "I cannot remember when the phrase 'as it moves, it morphs' first occurred to me."（Cowen, 2009, p.315）
+>
+> 我记不清"移动即变形"这个短语第一次出现在我脑海中是什么时候了。
 
 形变不是一个解释机制，而是一个待解答的问题：比较教育如何描述和分析教育现象在移动中发生的形态变化？Cowen 认为，比较教育缺乏描述"形状"（shape）的词汇——几何学有形状的语言，音乐有形态的语言，但比较教育对教育制度和实践的核心配置（core configuration）缺少系统的概念工具（p.322）。
 
