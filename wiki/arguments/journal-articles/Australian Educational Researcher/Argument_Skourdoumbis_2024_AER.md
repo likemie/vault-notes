@@ -163,12 +163,12 @@ AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre 
 
 ### 第五步：私人利益的嵌入：CIS与指定参考文献
 
-报告的核心内容包含指定的参考文献和必读文本，其中包括保守智库CIS（Centre for Independent Studies）资助的研究（pp.9-10）。
+报告的核心内容包含指定的参考文献和必读文本，其中包括保守智库[[Centre for Independent Studies|CIS]]（Centre for Independent Studies）资助的研究（pp.9-10）。
 
-认知负荷理论（Cognitive Load Theory, CLT；John Sweller）构成指定参考文献的主要部分。Sweller的工作同时被CIS和[[Education Endowment Foundation|EEF]]推广（EEF, 2023），其理论被呈现为ITE教师必须掌握的"科学基础"。特别值得注意的是，指定参考文献中包括Sweller（2021）由CIS资助出版的《为什么探究式学习有害学生学习》（Why inquiry-based approaches harm students' learning, Analysis Paper 24），这意味着ITE学生将被强制阅读由保守智库开发和资助的出版物，而这些出版物的意识形态立场在"科学证据"的包装下变得不可见。
+[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory, CLT；John Sweller）构成指定参考文献的主要部分。Sweller的工作同时被CIS和[[Education Endowment Foundation|EEF]]推广（EEF, 2023），其理论被呈现为ITE教师必须掌握的"科学基础"。特别值得注意的是，指定参考文献中包括Sweller（2021）由CIS资助出版的《为什么探究式学习有害学生学习》（Why inquiry-based approaches harm students' learning, Analysis Paper 24），这意味着ITE学生将被强制阅读由保守智库开发和资助的出版物，而这些出版物的意识形态立场在"科学证据"的包装下变得不可见。
 
 > [!example] 政策行动者的多重关联
-> Jennifer Buckingham是CIS的资深研究员和董事会成员（CIS, 2024），同时担任澳大利亚教学与[[School Leadership|学校领导力]]协会（Australian Institute for Teaching and School Leadership, AITSL）的非执行董事（AITSL, 2017）。她广泛推广了《强劲开端》改革（Buckingham, 2023），在保守智库和政策制定机构之间架起了直接通道（p.10）。当同一个体同时在"证据生产"端（CIS资助研究）和"政策采纳"端（AITSL董事会）拥有影响力时，"循证决策"的中立性就值得怀疑。这种模式与美国的"理念编排"（idea orchestration）现象相似——多个中介组织、证据经纪人和智库围绕特定理念协同运作（Lubienski et al., 2016）。
+> Jennifer Buckingham是[[Centre for Independent Studies|CIS]]的资深研究员和董事会成员（CIS, 2024），同时担任[[Australian Institute for Teaching and School Leadership|AITSL]]的非执行董事（AITSL, 2017）。她广泛推广了《强劲开端》改革（Buckingham, 2023），在保守智库和政策制定机构之间架起了直接通道（p.10）。当同一个体同时在"证据生产"端（CIS资助研究）和"政策采纳"端（AITSL董事会）拥有影响力时，"循证决策"的中立性就值得怀疑。这种模式与美国的"理念编排"（idea orchestration）现象相似——多个中介组织、证据经纪人和智库围绕特定理念协同运作（Lubienski et al., 2016）。
 
 > [!note] 中介组织的制度性利益
 > 利益关联不限于个体层面。初始教师教育学生读写和算术测试（Literacy and Numeracy Test for Initial Teacher Education, LANTITE）为澳大利亚教育研究委员会（Australian Council for Educational Research, ACER）带来了可观收入，估计每年约370万澳元（Barnes & Cross, 2020; Knott, 2016）。AITSL、[[Australian Curriculum|澳大利亚课程]]评估与报告局（Australian Curriculum, Assessment and Reporting Authority, ACARA）和AERO均由注册慈善机构澳大利亚教育服务公司（Educational Services Australia, ESA）支撑（p.10注释5），形成了制度性的利益共同体。

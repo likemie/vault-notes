@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -191,6 +191,10 @@
   },
   "active": "b91b74bd55d1e84e",
   "lastOpenFiles": [
+    "wiki/facts/australia/LANTITE.md",
+    "wiki/facts/australia/Australian Institute for Teaching and School Leadership.md",
+    "wiki/facts/australia/Centre for Independent Studies.md",
+    "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md",
     "wiki/facts/us/Communities in Schools.md",
     "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md",
     "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md.tmp.61868.a07b6e6b2c4e",
@@ -222,10 +226,6 @@
     "wiki/facts/china/Xi'an Three Reforms on Sci-Tech Achievements.md",
     "wiki/facts/japan/Japan Innovation Policy System.md",
     "books/Cheng_2026_KeJiChuangXin/Cheng_2026_KeJiChuangXin.md",
-    "wiki/facts/china/1999 Reform of Research Institutes.md",
-    "wiki/facts/us/US Innovation Policy System.md",
-    "wiki/facts/us/SBIR and STTR Programs.md",
-    "wiki/facts/germany/German Innovation Policy System.md",
-    "wiki/facts/germany/Fraunhofer Society Model.md"
+    "wiki/facts/china/1999 Reform of Research Institutes.md"
   ]
 }
