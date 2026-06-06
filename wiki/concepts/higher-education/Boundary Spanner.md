@@ -4,17 +4,16 @@ aliases:
   - 边界跨越者
   - innovation support officer
   - 创新支持官
-  - intermediary
   - 中介者
   - 产学中间人
   - boundary spanning
   - professional innovation support officer
   - 专业创新支持官
-summary: "在产学合作中充当学术界与产业界之间桥梁的专业角色，负责建立信任、翻译双方需求、协调跨组织合作流程"
+summary: 在产学合作中充当学术界与产业界之间桥梁的专业角色，负责建立信任、翻译双方需求、协调跨组织合作流程
 type: concept
 tags:
-  - "theme/university-industry-collaboration"
-  - "level/higher-education"
+  - theme/university-industry-collaboration
+  - level/higher-education
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Academic Freedom]]"
