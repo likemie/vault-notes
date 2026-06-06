@@ -332,11 +332,29 @@
     ]
   },
   {
+    "title": "Educated Identity",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Educated Identity.md",
+    "aliases": [
+      "受教育身份",
+      "educated identities"
+    ]
+  },
+  {
     "title": "Externalization",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Externalization.md",
     "aliases": [
       "外化"
+    ]
+  },
+  {
+    "title": "Four Forms of Understanding of Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Four Forms of Understanding of Comparative Education.md",
+    "aliases": [
+      "比较教育的四种理解形式",
+      "four forms of understanding"
     ]
   },
   {
@@ -5007,6 +5025,16 @@
     "path": "wiki/concepts/sociology-of-education/The Shock of the Elite.md",
     "aliases": [
       "精英冲击"
+    ]
+  },
+  {
+    "title": "Totally Pedagogised Society",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Totally Pedagogised Society.md",
+    "aliases": [
+      "全盘教育化社会",
+      "totally pedagogised society",
+      "TPS"
     ]
   },
   {
@@ -10036,6 +10064,11 @@
     "title": "Argument_Cowen_2009_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md"
+  },
+  {
+    "title": "Argument_Cowen_2023_CE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2023_CE.md"
   },
   {
     "title": "Argument_Teng_2025_CE",

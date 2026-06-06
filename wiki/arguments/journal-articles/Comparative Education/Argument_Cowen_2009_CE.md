@@ -20,6 +20,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Analytic Framework]]"
   - "[[Lost Mode]]"
+  - "[[Educated Identity]]"
   - "[[Academic Capitalism]]"
   - "[[Entrepreneurial University]]"
   - "[[Geometries of Insertion]]"
@@ -108,7 +109,7 @@ updated: 2026-06-06
 >
 > 美国历史学家对 19 至 20 世纪美国的研究，展示了移民如何改变了美国城市、学校目的和教育治理形式。移民改变了美国及其教育系统，而且至今仍在改变（Callahan 1962; Goodenow & Ravitch 1983; Tyack 1974; Cremin 1980; Larsen & Mehta 2008）。在印巴分治的悲剧和流散中，难民改变了次大陆的记忆和语言，这些记忆和语言正是教育系统所教授的（Bhattacharya 1998）。1945 年战后难民穿越欧洲的流量是巨大的（Judt 2007），比较教育在 1940 年代末的 *Yearbooks of Education* 中立即开始讨论教育重建问题。
 >
-> 当代的非法移民问题同样在重塑美国和西班牙的教育系统。在欧洲内部，移民引发了关于社会凝聚力和社会信任的新话语体系（pp.317–318）。移民使得受教育身份（educated identity）的概念变得复杂，比较教育需要一种包含理解（Verstehen，德国社会学传统中的移情式理解）的形式来把握受教育身份在人的流动中的变形（pp.317–318）。
+> 当代的非法移民问题同样在重塑美国和西班牙的教育系统。在欧洲内部，移民引发了关于社会凝聚力和社会信任的新话语体系（pp.317–318）。移民使得[[Educated Identity|受教育身份]]（educated identity）的概念变得复杂，比较教育需要一种包含理解（Verstehen，德国社会学传统中的移情式理解）的形式来把握受教育身份在人的流动中的变形（pp.317–318）。
 
 ---
 

@@ -16,6 +16,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Shape-Shifting]]"
   - "[[Geometries of Insertion]]"
+  - "[[Educated Identity]]"
   - "[[Vergegenkunft]]"
   - "[[International Education]]"
   - "[[Knowledge Transfer]]"
@@ -29,6 +30,7 @@ related_arguments: []
 sources:
   - "[[Cowen_2009_CE]]"
   - "[[Ch4_Amos_2022]]"
+  - "[[Cowen_2023_CE]]"
   - "[[Zhou_2024_CE]]"
 confidence: medium
 status: draft
@@ -70,6 +72,8 @@ updated: 2026-06-06
 - Cowen, R. (2000). Comparing futures or comparing pasts. *Comparative Education*, 36(3), 333–342. — 正式定义 [[Transitology]]，将教育定位为社会转型中破坏过去、重新定义未来的象征性和重构性力量（Cowen 2000, p.338）。
 
 - Cowen, R. (2009). The transfer, translation, and transformation of educational processes: And their [[Shape-Shifting]]? *Comparative Education*, 45(3), 315–327. — 提出 [[Transfer Translation Transformation|3T 框架]]和 [[Shape-Shifting|形变]]问题意识，并以 [[Geometries of Insertion|嵌入几何学]]的伦理追问收尾（Cowen 2009, pp.315–327）。
+
+- Cowen, R. (2023). Comparative education: and now? *Comparative Education*, 59(3), 326–340. — 诊断学科的陈词滥调和四种理解形式，指出其政治预设，主张以转移和[[Educated Identity|受教育身份]]两个核心问题重新出发（Cowen 2023, pp.326–340）。
 
 ---
 
@@ -140,4 +144,5 @@ updated: 2026-06-06
 
 - [[Cowen_2009_CE]]
 - [[Ch4_Amos_2022]]
+- [[Cowen_2023_CE]]
 - [[Zhou_2024_CE]]
