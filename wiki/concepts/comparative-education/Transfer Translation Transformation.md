@@ -15,6 +15,8 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
   - "[[Recontextualization]]"
+  - "[[Shape-Shifting]]"
+  - "[[Geometries of Insertion]]"
   - "[[Scientific Attitude]]"
 related_theories: []
 related_methods:
@@ -24,6 +26,7 @@ related_persons:
   - "[[John Dewey]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
 sources:
   - "[[Cowen_2009_CE]]"
@@ -68,6 +71,8 @@ updated: 2026-06-06
 > - **Transfer** 关注跨境行动和传播渠道——思想的出口与入口，以及"谁"将什么知识带到何处。
 > - **Translation** 关注机构化的重组——外来思想如何被接受国的法律、制度和课程语言重新[[Coding in Qualitative Research|编码]]。
 > - **Transformation** 关注"不可翻译"的语境力量——社会矛盾、经济压力、政治转型等如何迫使转译产物进一步变形，直至与原始输入产生质的差异。
+
+3T 框架是 Cowen 对 [[Shape-Shifting|形变]]问题的回答：形变描述教育现象在移动中发生的形态变化，3T 将这一变化过程分解为三个可分析的阶段。在此基础上，Cowen 进一步追问——如果完整把握了转移、转译、转化和形变的机制，比较教育就能获得一种 [[Geometries of Insertion|嵌入几何学]]，但这种能力的政治和伦理后果仍需反思（详见 [[Argument_Cowen_2009_CE]]）。
 
 ## 应用示例
 
