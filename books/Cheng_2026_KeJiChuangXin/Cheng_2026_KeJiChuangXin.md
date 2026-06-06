@@ -17,8 +17,8 @@ extracted_to:
   - "[[Japan Innovation Policy System]]"
   - "[[Korea Innovation Policy System]]"
   - "[[US Innovation Policy System]]"
-  - "[[China S&T Innovation Policy Evolution]]"
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
+  - "[[China S&T Innovation Policy Evolution]]"
 processed_date: 2026-06-03
 ---
 
