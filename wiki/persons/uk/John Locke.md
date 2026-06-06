@@ -1,21 +1,21 @@
 ---
 title: John Locke
 aliases:
-  - 洛克
   - Locke
-summary: "英国哲学家与医生，经验论奠基人与自由主义政治哲学之父，以白板说挑战先天论，以自然权利论奠定现代民主宪政的思想基础"
+  - 约翰·洛克
+summary: 英国哲学家与医生，经验论奠基人与自由主义政治哲学之父，以白板说挑战先天论，以自然权利论奠定现代民主宪政的思想基础
 type: person
 nationality: uk
 tags:
-- region/uk
-- region/western
-- field/philosophy
-- field/educational-philosophy
-- field/political-philosophy
-- school/empiricism
-- school/liberalism
-- theme/knowledge
-- theme/learning
+  - region/uk
+  - region/western
+  - field/philosophy
+  - field/educational-philosophy
+  - field/political-philosophy
+  - school/empiricism
+  - school/liberalism
+  - theme/knowledge
+  - theme/learning
 related_concepts:
   - "[[Certainty of Knowledge]]"
   - "[[Humility in Learning]]"
