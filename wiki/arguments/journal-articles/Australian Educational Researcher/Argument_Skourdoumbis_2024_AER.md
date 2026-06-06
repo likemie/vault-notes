@@ -29,8 +29,8 @@ related_persons: []
 related_facts:
   - "[[Strong Beginnings Report]]"
   - "[[Australian Education Research Organisation]]"
-  - "[[Communities in Schools]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Australian Curriculum]]"
 related_arguments: []
 sources:
   - "[[Skourdoumbis_2024_AER]]"
@@ -47,9 +47,9 @@ updated: 2026-06-06
 ## 研究问题
 
 > [!question] 核心关切与政策谜题
-> 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查（Louden, 2008, p. 357），被Mockler（2023）称为"检验ITE政策改革的肥沃土壤"（p. 115）。2023年联邦政府发布《强劲开端》（[[Strong Beginnings Report|Strong Beginnings]]）报告，在延续2015年《行动立即开始》（TEMAG）和2022年《优质初始教师教育》审查逻辑的基础上，首次在全国范围内将神经科学（neuroscience）和"大脑与学习"（brain and learning）列为ITE的必修核心内容，代表了一个重要的政策转折点。这一改革的深层逻辑是什么？
+> 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查（Louden, 2008, p. 357），被Mockler（2023）称为"检验初始教师教育（Initial Teacher Education, ITE）政策改革的肥沃土壤"（p. 115）。2023年联邦政府发布《强劲开端》（[[Strong Beginnings Report|Strong Beginnings]]）报告，在延续2015年《行动立即开始》（Teacher Education Ministerial Advisory Group, TEMAG）和2022年《优质初始教师教育》审查逻辑的基础上，首次在全国范围内将神经科学（neuroscience）和"大脑与学习"（brain and learning）列为ITE的必修核心内容，代表了一个重要的政策转折点。这一改革的深层逻辑是什么？
 >
-> 更具体地说：一场因教师严重短缺而发起的政策审查，为何最终将"问题"界定为教师培训质量不足，而非工作量过大这一流失主因？神经科学如何被包装为"价值中立"的科学知识，从而获得不可质疑的合法性？[[What Works Movement|什么有效运动]]的话语策略如何服务于[[Australian Education Research Organisation|AERO]]等证据中介组织和[[Communities in Schools|CIS]]等保守智库的私人利益？
+> 更具体地说：一场因教师严重短缺而发起的政策审查，为何最终将"问题"界定为教师培训质量不足，而非工作量过大这一流失主因？神经科学如何被包装为"价值中立"的科学知识，从而获得不可质疑的合法性？[[What Works Movement|什么有效运动]]的话语策略如何服务于[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation|AERO]]）等证据中介组织和澳大利亚独立研究中心（Centre for Independent Studies, CIS）等保守智库的私人利益？
 
 ---
 
@@ -74,7 +74,7 @@ updated: 2026-06-06
 > [!info] 分析设计
 > - **方法**：政策文本分析（policy text analysis），运用Bacchi的WPR框架对《强劲开端》报告进行批判性解读
 > - **核心数据来源**：澳大利亚政府（2023）《强劲开端：教师教育专家小组报告》及其附录D（ITE项目核心内容）
-> - **辅助数据来源**：OECD相关政策报告、同行评审文献、[[Australian Education Research Organisation|AERO]]公开文件和[[Communities in Schools|CIS]]出版物
+> - **辅助数据来源**：OECD相关政策报告、同行评审文献、[[Australian Education Research Organisation|AERO]]公开文件和CIS出版物
 > - **分析重点**：优先改革1中"大脑与学习"内容的指定参考文献、核心内容规范，以及政策行动者之间的关联网络
 
 报告提出四项优先改革（共14条建议），本文聚焦优先改革1（pp.17–21）：
@@ -97,9 +97,9 @@ updated: 2026-06-06
 
 ### 第一步：教师短缺危机中的问题置换
 
-《强劲开端》报告因严重的教师短缺问题而发起——澳大利亚全国面临教师供给不足的困境，这一问题也为英国、美国等OECD国家所共有（Heffernan et al., 2022）。然而，报告几乎未讨论教师流失的主要原因，仅在第64页和第66页两次提及工作量问题，且均与改善实习体验相关。与之形成对比的是，此前的《优质初始教师教育》审查（2021年）明确将减少"工作量"列为关键建议（第3条），并指出应从教师工作中去除"繁文缛节"（p.vi）。
+《强劲开端》报告因严重的教师短缺问题而发起——澳大利亚全国面临教师供给不足的困境，这一问题也为英国、美国等经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）成员国所共有（Heffernan et al., 2022）。然而，报告几乎未讨论教师流失的主要原因，仅在第64页和第66页两次提及工作量问题，且均与改善实习体验相关。与之形成对比的是，此前的《优质初始教师教育》审查（2021年）明确将减少"工作量"列为关键建议（第3条），并指出应从教师工作中去除"繁文缛节"（p.vi）。
 
-2022年毕业生结果调查（[[Graduate Attributes|graduate outcomes]] Survey）显示，教师教育的整体满意度为75%，在各类课程中排名较高；就业结果（p.11）和起薪中位数（p.12）也表现良好（GOS, 2023）。这些数据本身并不支持"教师培训质量低下"的判断。
+2022年毕业生结果调查（[[Graduate Attributes|graduate outcomes]] Survey, GOS）显示，教师教育的整体满意度为75%，在各类课程中排名较高；就业结果（p.11）和起薪中位数（p.12）也表现良好（GOS, 2023）。这些数据本身并不支持"教师培训质量低下"的判断。
 
 然而，报告引用了一项调查数据作为推动改革的核心证据：32%的受访者认为需要"更好更相关的课程内容"，31%认为需要"更多实践经验"，25%认为需要"更多实践知识"（p.23）。
 
@@ -146,12 +146,12 @@ Choudhury和Wannyn（2022）指出，许多脑科学教育的倡导者或游说�
 
 WPR方法追问的第六个问题是：这种问题表征如何被生产、传播和捍卫？在《强劲开端》中，[[Australian Education Research Organisation|AERO]]发挥了关键的塑造作用。
 
-AERO的CEO Jenny Donovan是专家小组成员——她曾任教育统计与评估中心（CESE）执行主任（Lewis & Hogan, 2019讨论了CESE的角色）。AERO被委托"审查和综合……教育中的循证实践"（p.27），并按照其"证据标准"对这些实践进行评级。Mockler（2023）指出，核心内容是基于AERO为审查准备的"未发表研究综合"（unpublished research synthesis）设计的（p.128）。这意味着决定ITE课程内容的关键证据从未经过同行评审或公开检验。
+AERO的CEO Jenny Donovan是专家小组成员——她曾任教育统计与评估中心（Centre for Education Statistics and Evaluation, CESE）执行主任（Lewis & Hogan, 2019讨论了CESE的角色）。AERO被委托"审查和综合……教育中的循证实践"（p.27），并按照其"证据标准"对这些实践进行评级。Mockler（2023）指出，核心内容是基于AERO为审查准备的"未发表研究综合"（unpublished research synthesis）设计的（p.128）。这意味着决定ITE课程内容的关键证据从未经过同行评审或公开检验。
 
-AERO在《强劲开端》发表前不久委托了证据与实施中心（CEI）进行"什么有效"的桌面审查（Abdo et al., 2021）。CEI自我定位为"全球性非营利证据中介"（p.2），审查所"咨询的专家"大部分来自CEI自身和"什么有效"机构（p.15）。AERO并非自己开展审查，而是委托外部机构在"有限的澳大利亚证据"基础上完成（p.41）。
+AERO在《强劲开端》发表前不久委托了证据与实施中心（Centre for Evidence and Implementation, CEI）进行"什么有效"的桌面审查（Abdo et al., 2021）。CEI自我定位为"全球性非营利证据中介"（p.2），审查所"咨询的专家"大部分来自CEI自身和"什么有效"机构（p.15）。AERO并非自己开展审查，而是委托外部机构在"有限的澳大利亚证据"基础上完成（p.41）。
 
 > [!note] AERO的机构定位
-> AERO明确将自身定位为[[What Works Movement|什么有效运动]]的一部分（Abdo et al., 2021, p.5）。其组织蓝图与英国[[Education Endowment Foundation|EEF]]保持紧密联系——EEF创始人Sir Kevan Collins在AERO专家委员会任职（AERO, 2022），AERO被建议以EEF为蓝本建立（Productivity Commission, 2016, p.20）。EEF的"建设全球教学证据生态"五年项目（2018年启动）由BHP基金会资助，旨在合作国家建立"EEF式组织"以推动[[Knowledge Production|知识生产]]（EEF, 2024）。此前EEF还资助了澳大利亚的"Evidence for Learning"（Social Ventures Australia的子公司）。
+> AERO明确将自身定位为[[What Works Movement|什么有效运动]]的一部分（Abdo et al., 2021, p.5）。其组织蓝图与英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, [[Education Endowment Foundation|EEF]]）保持紧密联系——EEF创始人Sir Kevan Collins在AERO专家委员会任职（AERO, 2022），AERO被建议以EEF为蓝本建立（Productivity Commission, 2016, p.20）。EEF的"建设全球教学证据生态"五年项目（2018年启动）由必和必拓基金会（BHP Foundation）资助，旨在合作国家建立"EEF式组织"以推动[[Knowledge Production|知识生产]]（EEF, 2024）。此前EEF还资助了澳大利亚的"Evidence for Learning"（Social Ventures Australia的子公司）。
 
 > [!warning] AERO董事会与专家组的分歧
 > 《强劲开端》报告暗示了专家小组成员之间的分歧。AERO董事会"强调倾向于对核心内容进行权威性的全国阐述"，认为"任何低于此的措施都不足以支撑认证小组和ITE项目开发者对这些实践的一致理解"——但专家组并不同意，认为"不需要对认证标准和程序进行全面审查来实施核心内容"（pp.31）。AERO董事会推动的更"权威的"（authoritative）政策立场，包括取消ITE项目认证或实施惩罚性资金分配（p.9）。
@@ -163,15 +163,15 @@ AERO在《强劲开端》发表前不久委托了证据与实施中心（CEI）�
 
 ### 第五步：私人利益的嵌入：CIS与指定参考文献
 
-报告的核心内容包含指定的参考文献和必读文本，其中包括保守智库[[Communities in Schools|CIS]]（Centre for Independent Studies）资助的研究（pp.9-10）。
+报告的核心内容包含指定的参考文献和必读文本，其中包括保守智库CIS（Centre for Independent Studies）资助的研究（pp.9-10）。
 
 认知负荷理论（Cognitive Load Theory, CLT；John Sweller）构成指定参考文献的主要部分。Sweller的工作同时被CIS和[[Education Endowment Foundation|EEF]]推广（EEF, 2023），其理论被呈现为ITE教师必须掌握的"科学基础"。特别值得注意的是，指定参考文献中包括Sweller（2021）由CIS资助出版的《为什么探究式学习有害学生学习》（Why inquiry-based approaches harm students' learning, Analysis Paper 24），这意味着ITE学生将被强制阅读由保守智库开发和资助的出版物，而这些出版物的意识形态立场在"科学证据"的包装下变得不可见。
 
 > [!example] 政策行动者的多重关联
-> Jennifer Buckingham是CIS的资深研究员和董事会成员（CIS, 2024），同时担任澳大利亚教学与[[School Leadership|学校领导力]]协会（AITSL）的非执行董事（AITSL, 2017）。她广泛推广了《强劲开端》改革（Buckingham, 2023），在保守智库和政策制定机构之间架起了直接通道（p.10）。当同一个体同时在"证据生产"端（CIS资助研究）和"政策采纳"端（AITSL董事会）拥有影响力时，"循证决策"的中立性就值得怀疑。这种模式与美国的"理念编排"（idea orchestration）现象相似——多个中介组织、证据经纪人和智库围绕特定理念协同运作（Lubienski et al., 2016）。
+> Jennifer Buckingham是CIS的资深研究员和董事会成员（CIS, 2024），同时担任澳大利亚教学与[[School Leadership|学校领导力]]协会（Australian Institute for Teaching and School Leadership, AITSL）的非执行董事（AITSL, 2017）。她广泛推广了《强劲开端》改革（Buckingham, 2023），在保守智库和政策制定机构之间架起了直接通道（p.10）。当同一个体同时在"证据生产"端（CIS资助研究）和"政策采纳"端（AITSL董事会）拥有影响力时，"循证决策"的中立性就值得怀疑。这种模式与美国的"理念编排"（idea orchestration）现象相似——多个中介组织、证据经纪人和智库围绕特定理念协同运作（Lubienski et al., 2016）。
 
 > [!note] 中介组织的制度性利益
-> 利益关联不限于个体层面。LANTITE（初始教师教育学生读写和算术测试）为澳大利亚教育研究委员会（ACER）带来了可观收入，估计每年约370万澳元（Barnes & Cross, 2020; Knott, 2016）。AITSL、ACARA和AERO均由注册慈善机构Educational Services Australia（ESA）支撑（p.10注释5），形成了制度性的利益共同体。
+> 利益关联不限于个体层面。初始教师教育学生读写和算术测试（Literacy and Numeracy Test for Initial Teacher Education, LANTITE）为澳大利亚教育研究委员会（Australian Council for Educational Research, ACER）带来了可观收入，估计每年约370万澳元（Barnes & Cross, 2020; Knott, 2016）。AITSL、[[Australian Curriculum|澳大利亚课程]]评估与报告局（Australian Curriculum, Assessment and Reporting Authority, ACARA）和AERO均由注册慈善机构澳大利亚教育服务公司（Educational Services Australia, ESA）支撑（p.10注释5），形成了制度性的利益共同体。
 
 > [!warning] 私人利益的隐身术
 > 报告将这些参考文献呈现为"科学共识"或"最佳证据"，而非特定意识形态立场的产物。ITE学生在学习这些内容时，很可能不会意识到自己正在接受的是由保守智库策展的知识体系。私人利益在"循证"话语的掩护下完成了隐身。
@@ -199,7 +199,7 @@ AERO在《强劲开端》发表前不久委托了证据与实施中心（CEI）�
 > - 报告虽因教师短缺而发起，但几乎未涉及教师流失的主要原因（工作量），而是将"问题"重新界定为教师质量和课堂准备度不足（pp.4-5）。2022年毕业生结果调查的满意度数据（75%）并不支持"教师培训质量低下"的判断
 > - 脑科学方法将学习简化为大脑内部活动，忽视了社会互动和情境因素，且报告未讨论神经科学的任何局限性或历史风险（pp.6-7）。OECD（2002, 2007）两份报告均阐述了神经科学的局限性，但《强劲开端》对此只字未提
 > - [[Australian Education Research Organisation|AERO]]在报告中发挥了关键影响，其CEO是专家小组成员，核心内容基于AERO的"未发表研究综合"设计（pp.8-9）。AERO董事会与专家组之间存在分歧，前者推动更"权威的"惩罚性立场
-> - 指定参考文献中包含[[Communities in Schools|CIS]]资助的研究（特别是Sweller, 2021），ITE学生将被强制纳入由保守智库开发的出版物（pp.9-10）。Jennifer Buckingham同时在CIS和AITSL拥有影响力
+> - 指定参考文献中包含CIS资助的研究（特别是Sweller, 2021），ITE学生将被强制纳入由保守智库开发的出版物（pp.9-10）。Jennifer Buckingham同时在CIS和AITSL拥有影响力
 > - 改革将扩大AITSL的职权范围和认证权力，反映了[[What Works Movement|什么有效运动]]的惩罚性问责逻辑（p.10）。标准化核心内容与"回应性教学"之间存在智识上的不一致
 > - 这些改革代表了一场关于知识的斗争，从"教育作为人类沟通、意义建构和解释的事件"转向"[[Causality|因果关系]]"（Biesta et al., 2015, p.11），从根本上削弱了教学和学习的本质
 
