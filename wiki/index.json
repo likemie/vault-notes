@@ -5349,6 +5349,15 @@
     ]
   },
   {
+    "title": "Cognitive Load Theory",
+    "type": "theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Cognitive Load Theory.md",
+    "aliases": [
+      "认知负荷理论",
+      "CLT"
+    ]
+  },
+  {
     "title": "Hebbian Principles",
     "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/Hebbian Principles.md",
@@ -7613,6 +7622,24 @@
     ]
   },
   {
+    "title": "Australian Institute for Teaching and School Leadership",
+    "type": "fact",
+    "path": "wiki/facts/australia/Australian Institute for Teaching and School Leadership.md",
+    "aliases": [
+      "澳大利亚教学与学校领导力协会",
+      "AITSL"
+    ]
+  },
+  {
+    "title": "Centre for Independent Studies",
+    "type": "fact",
+    "path": "wiki/facts/australia/Centre for Independent Studies.md",
+    "aliases": [
+      "澳大利亚独立研究中心",
+      "CIS"
+    ]
+  },
+  {
     "title": "Gonski Reforms",
     "type": "fact",
     "path": "wiki/facts/australia/Gonski Reforms.md",
@@ -7636,6 +7663,15 @@
     "aliases": [
       "Karmel Report 1973",
       "卡梅尔报告"
+    ]
+  },
+  {
+    "title": "LANTITE",
+    "type": "fact",
+    "path": "wiki/facts/australia/LANTITE.md",
+    "aliases": [
+      "初始教师教育学生读写和算术测试",
+      "Literacy and Numeracy Test for Initial Teacher Education"
     ]
   },
   {
