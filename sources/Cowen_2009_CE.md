@@ -4,8 +4,8 @@ extracted_to:
   - "[[Geometries of Insertion]]"
   - "[[Shape-Shifting]]"
   - "[[Robert Cowen]]"
-  - "[[Argument_Cowen_2009_CE]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Argument_Cowen_2009_CE]]"
 processed_date: 2026-06-06
 ---
 
